@@ -3322,6 +3322,152 @@
           "x": "Katie Moussouris, CEO de Luta Security, afirmó que hay razones legítimas para mantener la app y los servidores de DeepSeek fuera de los sistemas del gobierno, pero calificó la cláusula de terceros de imposible de verificar en la práctica y dijo que incluir las versiones US-hosted (alojadas en EE. UU.) de los modelos va demasiado lejos."
         }
       ]
+    },
+    "politics/politics-germany-nvidia-ai-deal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/96/05/73/1200x675_cmsv2_20306938-1103-59a8-8b02-1b7f40ac116f-9960573.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Poco antes de la cumbre 'Invest in Germany' en Berlín, el CEO de Nvidia, Jensen Huang, dijo que le dolía ver cuánto se había rezagado Alemania, y aconsejó: \"¡Simplemente pónganse a trabajar!\""
+        },
+        {
+          "t": "p",
+          "x": "Sin embargo, en una charla informal con el canciller Friedrich Merz se cerró un acuerdo crucial de AI, según informes de prensa. Como informó primero Handelsblatt, el Gobierno federal tiene previsto aportar una suma de nueve cifras en euros. Merz dijo que la cumbre generó compromisos por valor de 800 mil millones de euros hasta 2028, con la asistencia de unos 200 directivos de empresas."
+        },
+        {
+          "t": "p",
+          "x": "Amazon planea invertir unos 16 mil millones de euros en Alemania en 2027, un tercio de ellos para ampliar centros de datos de AWS, principalmente en la zona de Frankfurt am Main."
+        },
+        {
+          "t": "p",
+          "x": "Se espera que alrededor de una docena de empresas alemanas, entre ellas Siemens, Audi y la start-up de AI de Freiburg Black Forest Labs, participen en el proyecto de Nvidia respaldado por el Gobierno. Merz pidió a las empresas que abran sus datos industriales a la inteligencia artificial para proteger sectores como la industria automotriz."
+        },
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/96/05/73/808x539_cmsv2_c1a8c709-a904-57a6-9138-29ed027fde7c-9960573.jpg",
+          "cap": "En la playa de Travemünde - ¿qué tal le va a la economía alemana? Michael Probst/AP"
+        },
+        {
+          "t": "p",
+          "x": "El IMF prevé ahora un crecimiento alemán del 1.3 por ciento en 2026, frente al 0.7 por ciento anterior."
+        }
+      ]
+    },
+    "politics/politics-korea-ftc-ai-washing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El regulador antimonopolio de Corea informó el jueves que comenzó a recabar la opinión pública sobre un borrador de guías contra los anuncios que exageran el uso de tecnologías de inteligencia artificial (AI) en los productos, una práctica conocida como \"AI washing\"."
+        },
+        {
+          "t": "p",
+          "x": "La Comisión de Comercio Justo (FTC) indicó que prevé recoger opiniones hasta el 11 de noviembre, ante el creciente número de productos que anuncian funciones de AI, algunos de los cuales presuntamente ofrecen información engañosa o falsa a los consumidores."
+        },
+        {
+          "t": "p",
+          "x": "\"El término AI se usa para describir la tecnología avanzada, la precisión y la objetividad de los productos, lo que lleva a los consumidores a percibir su rendimiento y fiabilidad como relativamente superiores o a estar dispuestos a pagar más\", señaló la FTC."
+        },
+        {
+          "t": "p",
+          "x": "Las guías abarcan cuatro categorías principales de posibles infracciones de la Ley de Etiquetado y Publicidad Justos e incluyen una lista de autoevaluación y preguntas frecuentes. La FTC citó ejemplos como esterillas térmicas eléctricas de agua caliente, areneros para gatos, almohadas y batidos para el control de peso comercializados como productos de AI."
+        },
+        {
+          "t": "p",
+          "x": "El regulador también expresó su preocupación por el uso de herramientas de AI para generar personas virtuales y reseñas falsas con el fin de promocionar alimentos y productos farmacéuticos entre consumidores mayores, y señaló que la guía también aborda estos casos."
+        },
+        {
+          "t": "p",
+          "x": "\"Aunque las guías no son jurídicamente vinculantes, ayudarán a las empresas a prevenir posibles infracciones de la ley de publicidad, ayudarán a los consumidores a tomar decisiones racionales y promoverán la competencia leal en los mercados relacionados con la tecnología de AI\", añadió la FTC."
+        }
+      ]
+    },
+    "politics/politics-iopc-derbyshire-ai-probe": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La Oficina Independiente de Conducta Policial (IOPC) investiga denuncias de que un detective usó inteligencia artificial (AI) de forma inapropiada durante investigaciones penales."
+        },
+        {
+          "t": "p",
+          "x": "La Policía de Derbyshire nos remitió voluntariamente el caso el 23 de junio, tras una revisión interna del uso de AI por parte del agente y la preocupación de que pudiera no ajustarse a las directrices y condiciones establecidas por el cuerpo."
+        },
+        {
+          "t": "p",
+          "x": "Se alega que el agente usó AI para elaborar decisiones de actuación, evaluar y gestionar riesgos y justificar la toma de decisiones, y que también introdujo datos operativos y personales sensibles relacionados con los casos."
+        },
+        {
+          "t": "p",
+          "x": "El agente ha recibido una notificación de que está siendo investigado por presunta falta grave."
+        },
+        {
+          "t": "p",
+          "x": "La directora de Participación de la IOPC, Emily Barry, dijo: “Son acusaciones graves y es correcto que se investiguen de manera exhaustiva e independiente."
+        },
+        {
+          "t": "p",
+          "x": "“Entendemos que la Policía de Derbyshire autorizó el uso de Microsoft Copilot para los agentes en mayo de 2025, con directrices sobre cómo podía usarse para mejorar la productividad en la redacción de informes y el resumen de información. Su uso estaba sujeto a condiciones, entre ellas que no se introdujeran en la AI datos operativos, sensibles ni personales."
+        },
+        {
+          "t": "p",
+          "x": "“Nuestra investigación analizará el uso de Copilot por parte del agente entre mayo del año pasado y junio de este año y evaluará si hubo posibles incumplimientos de las normas profesionales policiales.”"
+        }
+      ]
+    },
+    "politics/politics-ai-lobbying-records-q3": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic, OpenAI y Nvidia registraron cada una su trimestre de mayor gasto en lobby entre julio y septiembre, según las declaraciones federales. Nvidia gastó $2.2 millones, Anthropic $2.1 millones y OpenAI $1.5 millones; no es algo fuera de lo común frente a Microsoft o Google, pero sí una señal clara de lo importante que se ha vuelto influir en las políticas."
+        },
+        {
+          "t": "p",
+          "x": "La lista de Anthropic incluía las disposiciones sobre AI de la Kids Online Safety Act, los controles de exportación de la AI Overwatch Act, la orden ejecutiva de Trump que rebautiza la AI como \"Super Intelligence\" y la Ratepayer Protection Act."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI hizo lobby ante el Congreso, la Casa Blanca y varias agencias sobre evaluaciones de ciberseguridad para modelos de frontera, marcos de supervisión de la seguridad de la AI y protecciones antimonopolio para el intercambio de información. Nvidia hizo lobby sobre 6G, \"diseño responsable de AI\", competencia, computación cuántica y controles de exportación."
+        },
+        {
+          "t": "p",
+          "x": "Apple también tuvo un trimestre récord, con $3.1 millones. OpenAI no gastó $1 millón en un solo trimestre hasta este año, y este es el primer trimestre en que Nvidia supera los $2 millones."
+        }
+      ]
+    },
+    "politics/politics-brown-ai-campaign-labels": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://shontelbrown.house.gov/sites/evo-subsites/shontelbrown.house.gov/files/evo-media-image/2026-01-07_mbo_0013.jpg",
+          "cap": "La representante Shontel Brown (OH-11)"
+        },
+        {
+          "t": "p",
+          "x": "La congresista Shontel Brown (OH-11) presentó la Securing Elections from AI Deception Act, una ley para prohibir el uso de la IA para privar a las personas de su derecho al voto o defraudarlas, y para exigir avisos en el contenido generado por IA (AI-generated)."
+        },
+        {
+          "t": "p",
+          "x": "El proyecto se aplicaría al contenido de campañas federales, estatales y locales, y lo haría cumplir la Federal Trade Commission. Según su oficina, cuenta con 30 copatrocinadores en la Cámara y el respaldo de la NAACP, el Lawyers' Committee for Civil Rights Under Law y NETWORK Lobby. Brown presentó la medida por primera vez en 2024."
+        },
+        {
+          "t": "p",
+          "x": "Los avisos abarcarían imágenes, texto, video o audio generados por IA que simulen o alteren a un candidato, o que traten sobre cuándo, dónde y cómo votar o inscribirse. La etiqueta debe decir \"AI Disclaimer: This output was generated by artificial intelligence\" o usar el símbolo \"AI\" dentro de un círculo, similar al símbolo de copyright."
+        },
+        {
+          "t": "p",
+          "x": "El proyecto también prohibiría a los desarrolladores u operadores de IA usarla de forma intencional para privar a una persona de su derecho al voto o defraudarla, con multas o prisión como sanciones."
+        },
+        {
+          "t": "p",
+          "x": "\"Los votantes merecen saber que el contenido de campaña que ven y oyen es real\", dijo Brown. El proyecto se ha presentado y aún no se ha votado."
+        }
+      ]
     }
   }
 }

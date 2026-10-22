@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "section": "science",
   "cards": [
     {
-      "id": "science-nz-rain",
+      "id": "science-navier-stokes-proof",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 본 NZ 폭우\n온난화에 더 거세진다",
-      "body": "AI로 15,000+년 모사, NZ 100년 빈도 폭우는 1도당 약 9% 커진다.",
-      "mini_headline": "AI가 본 NZ 폭우 심화",
+      "headline": "OpenAI가 증명한\nNavier-Stokes",
+      "body": "OpenAI의 AI가 Navier-Stokes를 풀자 수학에 혼돈이 닥칠 조짐이다.",
+      "mini_headline": "OpenAI의 Navier-Stokes 증명",
       "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-10-ai-reveals-climate-nz-extreme.html",
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/the-inside-story-behind-openais-million-dollar-math-proof/",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -19,179 +19,233 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heavy-rain-in-new-zeal.jpg",
-            "cap": "뉴질랜드(New Zealand)의 폭우. Credit: Roman Castillo from Pexels"
+            "src": "https://static.scientificamerican.com/dam/asset/676cb480-a9d0-4bb0-a42f-466e549cfa5c/ink-clash.jpg?m=1792683756.522&w=1200"
           },
           {
             "t": "p",
-            "x": "Neelesh Rampal과 Steven Sherwood는 The Conversation 기고에서 생성형 AI로 뉴질랜드(New Zealand)의 가능한 여러 기후 미래를 폭 약 12 km 격자 위에 그려 냈다. 모델은 과거와 더 따뜻한 미래 조건을 아우르는 140년치 지역 기후 시뮬레이션으로 학습했다."
+            "x": "9월 8일 OpenAI는 Navier-Stokes를 풀었다고 발표했다. Clay Mathematics Institute가 $1 million 상금을 건 Millennium Prize Problems 일곱 개 가운데 하나다. 바로 직전 N.Y.U. 수학자 Tristan Buckmaster가 이 회사가 자기 연구를 훔친 것 같다고 공개 비판한 참이었다."
           },
           {
             "t": "p",
-            "x": "이 AI는 특수 칩 네 개로 여섯 시간 만에 15,000년이 넘는 시뮬레이션 연도를 만들어 냈다. 온실가스 배출이 계속 늘어나는 세계를 가정하고 과거와 2100년까지의 가능한 미래를 다시 돌려 본 결과다."
+            "x": "Buckmaster는 Anthropic 수학자 Levent Alpöge와 함께 Anthropic과 OpenAI 모델을 섞어 쓰며 프롬프트를 주던 중이었다. 8월 15일 Claude가 Euler 방정식의 폭발을 끌어냈고, 8월 22일에는 그 증명이 Lean 검증을 통과했다."
+          },
+          {
+            "t": "img",
+            "src": "https://static.scientificamerican.com/dam/asset/f24c2ce2-1fe8-47ba-b469-5397351e6a59/lecture-collage.jpeg?m=1792685495.812&w=900",
+            "cap": "OpenAI와 부딪친 뒤 Buckmaster가 처음 연 공개 강연. N.Y.U. Warren Weaver Hall 109호에 선 채로 듣는 청중이 가득했다."
           },
           {
             "t": "p",
-            "x": "뉴질랜드(New Zealand) 전역 평균으로 보면 one-in-100-year(백 년에 한 번) 사건의 일 강수량은 기온이 한 도 오를 때마다 약 9%씩 늘었다. 더 잦은 폭우의 증가폭(약 5.6%)보다 빠르다. 지구가 따뜻해질수록 가장 드문 폭우가 더 거세진다."
+            "x": "소문에 놀란 OpenAI 팀은 새 내부 모델을 여럿 복제해 미해결 Millennium Problems에 붙였다. 에이전트 100개 분대가 독자적인 Euler 증명을 내놓았고, 이어 에이전트 10,000개 무리가 Navier-Stokes를 풀었다. 이 무리가 컴퓨팅에 쓴 돈은 $15 million 으로 알려졌다."
+          },
+          {
+            "t": "img",
+            "src": "https://static.scientificamerican.com/dam/asset/6a2f980d-9a8d-4ea5-8bfa-5220f1bf13f4/buckmaster-portrait.jpg?m=1792684575.161&w=900",
+            "cap": "N.Y.U. Courant Institute의 수학자 Tristan Buckmaster."
           },
           {
             "t": "p",
-            "x": "온난화는 덜 심한 미래와 더 심한 미래의 격차도 벌렸다. 더 심한 쪽에서는 극한 강우가 평균보다 훨씬 크게 늘었다. 연구는 Climate Dynamics에 실렸다."
+            "x": "전문가들은 이제 이 무리의 Navier-Stokes 증명이 독자적인 경로를 밟았다고 본다. Buckmaster는 OpenAI가 자기 진전에 기댔다고 여전히 믿고, OpenAI는 강하게 부인한다. 이번 일은 LLMs가 사람의 이해보다 빠르게 결과를 증명해 내고 있다는 경고다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI shows NZ's worst downpours\nwill grow as the climate warms",
-          "body": "An AI model simulated 15,000+ years of NZ rain and found 1-in-100-year downpours grow about 9% per degree of warming.",
-          "mini_headline": "AI sees NZ downpours intensify",
+          "headline": "Inside OpenAI's proof of\nthe Navier-Stokes problem",
+          "body": "OpenAI's AI solution to the Navier-Stokes problem, and how it came about, hints at a chaotic future for math.",
+          "mini_headline": "OpenAI's Navier-Stokes proof",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heavy-rain-in-new-zeal.jpg",
-                "cap": "Heavy rain in New Zealand. Credit: Roman Castillo from Pexels"
+                "src": "https://static.scientificamerican.com/dam/asset/676cb480-a9d0-4bb0-a42f-466e549cfa5c/ink-clash.jpg?m=1792683756.522&w=1200"
               },
               {
                 "t": "p",
-                "x": "Neelesh Rampal and Steven Sherwood, writing in The Conversation, used generative AI trained on 140 years of regional climate simulations, covering historical and warmer future conditions, to map many possible New Zealand climate futures on a grid about 12 km wide."
+                "x": "On September 8, OpenAI claimed to have solved Navier-Stokes, one of the Clay Mathematics Institute's seven $1 million Millennium Prize Problems — right after N.Y.U. mathematician Tristan Buckmaster publicly accused the company of seeming to steal his work."
               },
               {
                 "t": "p",
-                "x": "The AI produced more than 15,000 simulated years in six hours on four specialized chips, rerunning history and possible futures to 2100 in a world where greenhouse gas emissions keep rising."
+                "x": "Buckmaster had been working with Anthropic mathematician Levent Alpöge, prompting a mix of Anthropic and OpenAI models. On August 15 Claude blew up the Euler equations, and on August 22 the proof was verified in Lean."
+              },
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/f24c2ce2-1fe8-47ba-b469-5397351e6a59/lecture-collage.jpeg?m=1792685495.812&w=900",
+                "cap": "Space was standing-room-only in Room 109 of N.Y.U.’s Warren Weaver Hall for Buckmaster’s first public lecture since his clash with OpenAI."
               },
               {
                 "t": "p",
-                "x": "Averaged across New Zealand, daily rainfall in a one-in-100-year event rises by about 9% per degree of warming, faster than the roughly 5.6% for more frequent heavy rainfall: the rarest downpours become more intense as the planet warms."
+                "x": "Alarmed by rumors, OpenAI's team sent copies of a new internal model at the open Millennium Problems. A squad of 100 agents produced its own Euler proof; then a swarm of 10,000 agents, consuming a reported $15 million in computing, solved Navier-Stokes."
+              },
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/6a2f980d-9a8d-4ea5-8bfa-5220f1bf13f4/buckmaster-portrait.jpg?m=1792684575.161&w=900",
+                "cap": "Tristan Buckmaster, a mathematician at N.Y.U.’s Courant Institute."
               },
               {
                 "t": "p",
-                "x": "Warming also widened the gap between milder and more severe possible futures. In the more severe futures, extreme rainfall increased substantially more than the averages. The study is published in Climate Dynamics."
+                "x": "Experts now say the swarm's Navier-Stokes proof took its own path. Buckmaster still believes OpenAI relied on his progress; OpenAI emphatically denies it. The episode warns that LLMs are proving results faster than humans can understand them."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI가 본 NZ 폭우\n온난화에 더 거세진다",
-          "body": "AI로 15,000+년 모사, NZ 100년 빈도 폭우는 1도당 약 9% 커진다.",
-          "mini_headline": "AI가 본 NZ 폭우 심화",
+          "headline": "OpenAI가 증명한\nNavier-Stokes",
+          "body": "OpenAI의 AI가 Navier-Stokes를 풀자 수학에 혼돈이 닥칠 조짐이다.",
+          "mini_headline": "OpenAI의 Navier-Stokes 증명",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heavy-rain-in-new-zeal.jpg",
-                "cap": "뉴질랜드(New Zealand)의 폭우. Credit: Roman Castillo from Pexels"
+                "src": "https://static.scientificamerican.com/dam/asset/676cb480-a9d0-4bb0-a42f-466e549cfa5c/ink-clash.jpg?m=1792683756.522&w=1200"
               },
               {
                 "t": "p",
-                "x": "Neelesh Rampal과 Steven Sherwood는 The Conversation 기고에서 생성형 AI로 뉴질랜드(New Zealand)의 가능한 여러 기후 미래를 폭 약 12 km 격자 위에 그려 냈다. 모델은 과거와 더 따뜻한 미래 조건을 아우르는 140년치 지역 기후 시뮬레이션으로 학습했다."
+                "x": "9월 8일 OpenAI는 Navier-Stokes를 풀었다고 발표했다. Clay Mathematics Institute가 $1 million 상금을 건 Millennium Prize Problems 일곱 개 가운데 하나다. 바로 직전 N.Y.U. 수학자 Tristan Buckmaster가 이 회사가 자기 연구를 훔친 것 같다고 공개 비판한 참이었다."
               },
               {
                 "t": "p",
-                "x": "이 AI는 특수 칩 네 개로 여섯 시간 만에 15,000년이 넘는 시뮬레이션 연도를 만들어 냈다. 온실가스 배출이 계속 늘어나는 세계를 가정하고 과거와 2100년까지의 가능한 미래를 다시 돌려 본 결과다."
+                "x": "Buckmaster는 Anthropic 수학자 Levent Alpöge와 함께 Anthropic과 OpenAI 모델을 섞어 쓰며 프롬프트를 주던 중이었다. 8월 15일 Claude가 Euler 방정식의 폭발을 끌어냈고, 8월 22일에는 그 증명이 Lean 검증을 통과했다."
+              },
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/f24c2ce2-1fe8-47ba-b469-5397351e6a59/lecture-collage.jpeg?m=1792685495.812&w=900",
+                "cap": "OpenAI와 부딪친 뒤 Buckmaster가 처음 연 공개 강연. N.Y.U. Warren Weaver Hall 109호에 선 채로 듣는 청중이 가득했다."
               },
               {
                 "t": "p",
-                "x": "뉴질랜드(New Zealand) 전역 평균으로 보면 one-in-100-year(백 년에 한 번) 사건의 일 강수량은 기온이 한 도 오를 때마다 약 9%씩 늘었다. 더 잦은 폭우의 증가폭(약 5.6%)보다 빠르다. 지구가 따뜻해질수록 가장 드문 폭우가 더 거세진다."
+                "x": "소문에 놀란 OpenAI 팀은 새 내부 모델을 여럿 복제해 미해결 Millennium Problems에 붙였다. 에이전트 100개 분대가 독자적인 Euler 증명을 내놓았고, 이어 에이전트 10,000개 무리가 Navier-Stokes를 풀었다. 이 무리가 컴퓨팅에 쓴 돈은 $15 million 으로 알려졌다."
+              },
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/6a2f980d-9a8d-4ea5-8bfa-5220f1bf13f4/buckmaster-portrait.jpg?m=1792684575.161&w=900",
+                "cap": "N.Y.U. Courant Institute의 수학자 Tristan Buckmaster."
               },
               {
                 "t": "p",
-                "x": "온난화는 덜 심한 미래와 더 심한 미래의 격차도 벌렸다. 더 심한 쪽에서는 극한 강우가 평균보다 훨씬 크게 늘었다. 연구는 Climate Dynamics에 실렸다."
+                "x": "전문가들은 이제 이 무리의 Navier-Stokes 증명이 독자적인 경로를 밟았다고 본다. Buckmaster는 OpenAI가 자기 진전에 기댔다고 여전히 믿고, OpenAI는 강하게 부인한다. 이번 일은 LLMs가 사람의 이해보다 빠르게 결과를 증명해 내고 있다는 경고다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが示すNZの豪雨\n温暖化でさらに激化",
-          "body": "AIでNZの雨を15,000+年分再現すると、100年に一度の豪雨は1度あたり約9%強まる。",
-          "mini_headline": "AIが見るNZ豪雨の激化",
+          "headline": "OpenAIが解いた\nNavier-Stokes",
+          "body": "OpenAIのAIが解いたNavier-Stokes問題は、数学の混沌とした未来を示す。",
+          "mini_headline": "OpenAIのNavier-Stokes証明",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heavy-rain-in-new-zeal.jpg",
-                "cap": "ニュージーランド(New Zealand)の大雨。Credit: Roman Castillo from Pexels"
+                "src": "https://static.scientificamerican.com/dam/asset/676cb480-a9d0-4bb0-a42f-466e549cfa5c/ink-clash.jpg?m=1792683756.522&w=1200"
               },
               {
                 "t": "p",
-                "x": "Neelesh RampalとSteven SherwoodはThe Conversationへの寄稿で、過去と温暖化した将来の条件を含む140年分の地域気候シミュレーションで学習させた生成AIを使い、幅約12 kmの格子上にニュージーランド(New Zealand)のさまざまな気候の将来像を描き出した。"
+                "x": "9月8日、OpenAIはClay Mathematics Instituteが懸賞金$1 million を掛ける七つのMillennium Prize Problemsの一つ、Navier-Stokesを解いたと発表した。その直前、N.Y.U.の数学者Tristan Buckmasterが、同社が自分の研究を盗んだように見えると公に非難していた。"
               },
               {
                 "t": "p",
-                "x": "このAIは四つの専用チップで六時間のうちに15,000年を超えるシミュレーション年を生成し、温室効果ガスの排出が増え続ける世界を想定して、過去と2100年までのありうる将来を再現した。"
+                "x": "BuckmasterはAnthropicの数学者Levent Alpögeと組み、AnthropicとOpenAIのモデルを組み合わせてプロンプトを与えていた。8月15日にClaudeがEuler方程式の爆発を導き、8月22日にはその証明がLeanで検証された。"
+              },
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/f24c2ce2-1fe8-47ba-b469-5397351e6a59/lecture-collage.jpeg?m=1792685495.812&w=900",
+                "cap": "OpenAIとの衝突後、Buckmasterが初めて開いた公開講義では、N.Y.U.のWarren Weaver Hall 109号室が立ち見で埋まった。"
               },
               {
                 "t": "p",
-                "x": "ニュージーランド(New Zealand)全体の平均では、one-in-100-year(百年に一度)の事象における日降水量が気温が一度上がるごとに約9%増え、より頻繁な大雨の約5.6%を上回るペースで強まる。地球が温暖化するほど、最もまれな豪雨が激しさを増すということだ。"
+                "x": "噂に危機感を抱いたOpenAIのチームは、新しい内部モデルの複製を未解決のMillennium Problemsに差し向けた。100体のエージェントからなる部隊が独自のEuler証明を生み出し、続いて計算に$15 million を費やしたとされる10,000体のエージェントの群れがNavier-Stokesを解いた。"
+              },
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/6a2f980d-9a8d-4ea5-8bfa-5220f1bf13f4/buckmaster-portrait.jpg?m=1792684575.161&w=900",
+                "cap": "N.Y.U.のCourant Instituteに所属する数学者、Tristan Buckmaster。"
               },
               {
                 "t": "p",
-                "x": "温暖化は、穏やかな将来と深刻な将来の差も広げた。深刻な将来では、極端な降雨が平均を大きく上回って増えた。研究はClimate Dynamicsに掲載された。"
+                "x": "専門家は現在、群れによるNavier-Stokes証明は独自の道筋をたどったと見ている。Buckmasterは今もOpenAIが自分の進展に依拠したと考えているが、OpenAIは強く否定している。この一件は、LLMsが人間の理解を上回る速さで結果を証明しつつあることへの警告である。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI显示NZ极端暴雨\n将随气候变暖加剧",
-          "body": "AI模拟NZ降雨15,000+年，发现1-in-100-year暴雨每升温一度约增9%。",
-          "mini_headline": "AI预见NZ暴雨加剧",
+          "headline": "OpenAI如何证明\nNavier-Stokes",
+          "body": "OpenAI的AI解决Navier-Stokes问题的经过，预示着数学混乱的未来。",
+          "mini_headline": "OpenAI的Navier-Stokes证明",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heavy-rain-in-new-zeal.jpg",
-                "cap": "新西兰（New Zealand）的暴雨。Credit: Roman Castillo from Pexels"
+                "src": "https://static.scientificamerican.com/dam/asset/676cb480-a9d0-4bb0-a42f-466e549cfa5c/ink-clash.jpg?m=1792683756.522&w=1200"
               },
               {
                 "t": "p",
-                "x": "Neelesh Rampal与Steven Sherwood在The Conversation撰文介绍，他们利用以140年区域气候模拟（涵盖历史与更暖的未来条件）训练的生成式AI，在约12 km宽的网格上描绘新西兰（New Zealand）多种可能的气候未来。"
+                "x": "9月8日，OpenAI宣称解决了Navier-Stokes问题，这是Clay Mathematics Institute悬赏$1 million 的七个Millennium Prize Problems之一。就在此前，N.Y.U.数学家Tristan Buckmaster公开指责该公司似乎窃取了他的成果。"
               },
               {
                 "t": "p",
-                "x": "该AI借助四枚专用芯片，在六小时内生成了逾15,000个模拟年，在温室气体排放持续上升的情景下，重演历史并推演至2100年的可能未来。"
+                "x": "Buckmaster此前一直与Anthropic数学家Levent Alpöge合作，混合使用Anthropic和OpenAI的模型进行提示。8月15日，Claude让Euler方程出现爆破；8月22日，该证明在Lean中得到验证。"
+              },
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/f24c2ce2-1fe8-47ba-b469-5397351e6a59/lecture-collage.jpeg?m=1792685495.812&w=900",
+                "cap": "这是Buckmaster与OpenAI冲突后的首场公开讲座，N.Y.U. Warren Weaver Hall 109室座无虚席，只剩站位。"
               },
               {
                 "t": "p",
-                "x": "就新西兰（New Zealand）全境平均而言，one-in-100-year（百年一遇）事件的日降雨量每升温一度约增加9%，快于更常见强降雨约5.6%的增幅：地球越暖，最罕见的暴雨就越猛烈。"
+                "x": "OpenAI团队听闻传言后颇为警觉，将一个新内部模型的多个副本投向尚未解决的Millennium Problems。由100个智能体组成的小队给出了自己的Euler证明；随后，据报道耗费$15 million 算力的10,000个智能体集群解决了Navier-Stokes。"
+              },
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/6a2f980d-9a8d-4ea5-8bfa-5220f1bf13f4/buckmaster-portrait.jpg?m=1792684575.161&w=900",
+                "cap": "N.Y.U. Courant Institute数学家Tristan Buckmaster。"
               },
               {
                 "t": "p",
-                "x": "变暖还拉大了较温和与较严重可能未来之间的差距。在较严重的未来中，极端降雨的增幅明显高于平均水平。该研究发表于Climate Dynamics。"
+                "x": "专家们现在认为，该集群的Navier-Stokes证明走的是自己的路径。Buckmaster仍认为OpenAI借鉴了他的进展，OpenAI则坚决否认。这一事件警示，LLMs证明结果的速度正在超过人类理解它们的速度。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Según la AI, las peores lluvias\nde NZ crecerán con el calor",
-          "body": "Un modelo de AI simuló 15,000+ años de lluvia en NZ: los aguaceros 1-in-100-year crecen cerca de 9% por grado.",
-          "mini_headline": "La AI ve aguaceros más intensos en NZ",
+          "headline": "Dentro de la prueba de OpenAI\ndel problema de Navier-Stokes",
+          "body": "La solución de OpenAI al problema de Navier-Stokes con AI, y cómo surgió, anticipa un futuro caótico en matemáticas.",
+          "mini_headline": "La prueba de Navier-Stokes de OpenAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heavy-rain-in-new-zeal.jpg",
-                "cap": "Lluvia intensa en Nueva Zelanda (New Zealand). Credit: Roman Castillo from Pexels"
+                "src": "https://static.scientificamerican.com/dam/asset/676cb480-a9d0-4bb0-a42f-466e549cfa5c/ink-clash.jpg?m=1792683756.522&w=1200"
               },
               {
                 "t": "p",
-                "x": "Neelesh Rampal y Steven Sherwood, en un artículo para The Conversation, usaron una AI generativa entrenada con 140 años de simulaciones climáticas regionales, que abarcan condiciones históricas y futuras más cálidas, para trazar muchos futuros climáticos posibles de Nueva Zelanda (New Zealand) en una cuadrícula de unos 12 km de ancho."
+                "x": "El 8 de septiembre, OpenAI afirmó haber resuelto Navier-Stokes, uno de los siete Millennium Prize Problems del Clay Mathematics Institute dotados con $1 million, justo después de que el matemático de N.Y.U. Tristan Buckmaster acusara públicamente a la empresa de aparentemente robar su trabajo."
               },
               {
                 "t": "p",
-                "x": "La AI generó más de 15,000 años simulados en seis horas con cuatro chips especializados, y recreó la historia y los futuros posibles hasta 2100 en un mundo donde las emisiones de gases de efecto invernadero siguen aumentando."
+                "x": "Buckmaster trabajaba con el matemático de Anthropic Levent Alpöge, dando instrucciones a una combinación de modelos de Anthropic y OpenAI. El 15 de agosto Claude provocó la explosión de las ecuaciones de Euler, y el 22 de agosto la prueba se verificó en Lean."
+              },
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/f24c2ce2-1fe8-47ba-b469-5397351e6a59/lecture-collage.jpeg?m=1792685495.812&w=900",
+                "cap": "La sala 109 del Warren Weaver Hall de N.Y.U. se llenó, con público de pie, en la primera conferencia pública de Buckmaster desde su choque con OpenAI."
               },
               {
                 "t": "p",
-                "x": "En promedio para Nueva Zelanda (New Zealand), la lluvia diaria en un evento one-in-100-year aumenta cerca de 9% por grado de calentamiento, más rápido que el 5.6% aproximado de las lluvias intensas más frecuentes: los aguaceros más raros se vuelven más intensos a medida que el planeta se calienta."
+                "x": "Alarmado por los rumores, el equipo de OpenAI lanzó copias de un nuevo modelo interno contra los Millennium Problems abiertos. Un escuadrón de 100 agentes produjo su propia prueba de Euler; después, un enjambre de 10,000 agentes, que según se informa consumió $15 million en computación, resolvió Navier-Stokes."
+              },
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/6a2f980d-9a8d-4ea5-8bfa-5220f1bf13f4/buckmaster-portrait.jpg?m=1792684575.161&w=900",
+                "cap": "Tristan Buckmaster, matemático del Courant Institute de N.Y.U."
               },
               {
                 "t": "p",
-                "x": "El calentamiento también amplió la brecha entre futuros posibles más moderados y más severos. En los futuros más severos, la lluvia extrema aumentó bastante más que los promedios. El estudio se publicó en Climate Dynamics."
+                "x": "Los expertos dicen ahora que la prueba de Navier-Stokes del enjambre siguió su propio camino. Buckmaster sigue creyendo que OpenAI se apoyó en sus avances; OpenAI lo niega de forma tajante. El episodio advierte de que los LLMs están demostrando resultados más rápido de lo que los humanos pueden entenderlos."
               }
             ]
           }
@@ -199,125 +253,161 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI가 본 NZ 폭우\n온난화에 더 거세진다",
-          "body": "AI로 15,000+년 모사, NZ 100년 빈도 폭우는 1도당 약 9% 커진다.",
-          "mini_headline": "AI가 본 NZ 폭우 심화",
+          "headline": "OpenAI가 증명한\nNavier-Stokes",
+          "body": "OpenAI의 AI가 푼 Navier-Stokes 문제는 수학의 혼돈을 예고한다.",
+          "mini_headline": "OpenAI의 Navier-Stokes 증명",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heavy-rain-in-new-zeal.jpg",
-                "cap": "뉴질랜드(New Zealand)의 폭우. Credit: Roman Castillo from Pexels"
+                "src": "https://static.scientificamerican.com/dam/asset/676cb480-a9d0-4bb0-a42f-466e549cfa5c/ink-clash.jpg?m=1792683756.522&w=1200"
               },
               {
                 "t": "p",
-                "x": "Neelesh Rampal과 Steven Sherwood는 The Conversation 기고에서 과거와 더 따뜻한 미래 조건을 아우르는 140년치 지역 기후 시뮬레이션으로 학습한 생성형 AI를 활용해, 폭 약 12 km 격자 위에 뉴질랜드(New Zealand)의 여러 가능한 기후 미래를 그려 냈다."
+                "x": "9월 8일 OpenAI는 Clay Mathematics Institute가 정한 $1 million 상금의 Millennium Prize Problems 일곱 개 가운데 하나인 Navier-Stokes를 풀었다고 발표했다. 바로 직전에 N.Y.U. 수학자 Tristan Buckmaster가 이 회사가 자신의 연구를 훔친 것으로 보인다고 공개적으로 비판한 터였다."
               },
               {
                 "t": "p",
-                "x": "이 AI는 특수 칩 네 개로 여섯 시간 만에 15,000년이 넘는 시뮬레이션 연도를 만들어 냈고, 온실가스 배출이 계속 늘어나는 세계를 가정해 과거와 2100년까지의 가능한 미래를 다시 돌려 보았다."
+                "x": "Buckmaster는 Anthropic 수학자 Levent Alpöge와 함께 Anthropic과 OpenAI 모델을 섞어 프롬프트를 주며 작업하고 있었다. 8월 15일 Claude가 Euler 방정식의 폭발을 끌어냈고, 8월 22일 그 증명이 Lean으로 검증됐다."
+              },
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/f24c2ce2-1fe8-47ba-b469-5397351e6a59/lecture-collage.jpeg?m=1792685495.812&w=900",
+                "cap": "OpenAI와 충돌한 뒤 Buckmaster가 처음 연 공개 강연에서 N.Y.U. Warren Weaver Hall 109호는 선 채로 듣는 청중으로 가득 찼다."
               },
               {
                 "t": "p",
-                "x": "뉴질랜드(New Zealand) 전역 평균으로 one-in-100-year(백 년에 한 번) 사건의 일 강수량은 기온이 한 도 오를 때마다 약 9% 늘어, 더 잦은 폭우의 약 5.6%보다 빠르게 증가했다. 지구가 따뜻해질수록 가장 드문 폭우가 더 거세진다는 뜻이다."
+                "x": "소문에 놀란 OpenAI 팀은 새 내부 모델의 복제본들을 미해결 Millennium Problems에 투입했다. 에이전트 100개로 꾸린 분대가 독자적인 Euler 증명을 내놓았고, 이어 컴퓨팅에 $15 million 을 쓴 것으로 알려진 에이전트 10,000개 무리가 Navier-Stokes를 풀었다."
+              },
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/6a2f980d-9a8d-4ea5-8bfa-5220f1bf13f4/buckmaster-portrait.jpg?m=1792684575.161&w=900",
+                "cap": "N.Y.U. Courant Institute의 수학자 Tristan Buckmaster."
               },
               {
                 "t": "p",
-                "x": "온난화는 덜 심한 미래와 더 심한 미래 사이의 격차도 벌렸다. 더 심한 미래에서는 극한 강우가 평균보다 상당히 크게 늘었다. 연구는 Climate Dynamics에 실렸다."
+                "x": "전문가들은 이제 이 무리의 Navier-Stokes 증명이 독자적인 경로를 밟았다고 본다. Buckmaster는 여전히 OpenAI가 자신의 진전에 기댔다고 믿지만, OpenAI는 이를 강하게 부인한다. 이번 일은 LLMs가 인간이 이해하는 속도보다 빠르게 결과를 증명하고 있다는 경고다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが示すNZの豪雨\n温暖化でさらに激化",
-          "body": "AIでNZの雨を15,000+年分再現すると、100年に一度の豪雨は1度あたり約9%強まる。",
-          "mini_headline": "AIが見るNZ豪雨の激化",
+          "headline": "OpenAIが解いた\nNavier-Stokes",
+          "body": "OpenAIのAIが解いたNavier-Stokes問題は、数学の混沌とした未来を示す。",
+          "mini_headline": "OpenAIのNavier-Stokes証明",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heavy-rain-in-new-zeal.jpg",
-                "cap": "ニュージーランド(New Zealand)の大雨。Credit: Roman Castillo from Pexels"
+                "src": "https://static.scientificamerican.com/dam/asset/676cb480-a9d0-4bb0-a42f-466e549cfa5c/ink-clash.jpg?m=1792683756.522&w=1200"
               },
               {
                 "t": "p",
-                "x": "Neelesh RampalとSteven SherwoodはThe Conversationへの寄稿で、過去と温暖化した将来の条件を含む140年分の地域気候シミュレーションで学習させた生成AIを使い、幅約12 kmの格子上にニュージーランド(New Zealand)のさまざまな気候の将来像を描き出した。"
+                "x": "9月8日、OpenAIはClay Mathematics Instituteが懸賞金$1 million を掛ける七つのMillennium Prize Problemsの一つ、Navier-Stokesを解いたと発表した。その直前、N.Y.U.の数学者Tristan Buckmasterが、同社が自分の研究を盗んだように見えると公に非難していた。"
               },
               {
                 "t": "p",
-                "x": "このAIは四つの専用チップで六時間のうちに15,000年を超えるシミュレーション年を生成し、温室効果ガスの排出が増え続ける世界を想定して、過去と2100年までのありうる将来を再現した。"
+                "x": "BuckmasterはAnthropicの数学者Levent Alpögeと組み、AnthropicとOpenAIのモデルを組み合わせてプロンプトを与えていた。8月15日にClaudeがEuler方程式の爆発を導き、8月22日にはその証明がLeanで検証された。"
+              },
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/f24c2ce2-1fe8-47ba-b469-5397351e6a59/lecture-collage.jpeg?m=1792685495.812&w=900",
+                "cap": "OpenAIとの衝突後、Buckmasterが初めて開いた公開講義では、N.Y.U.のWarren Weaver Hall 109号室が立ち見で埋まった。"
               },
               {
                 "t": "p",
-                "x": "ニュージーランド(New Zealand)全体の平均では、one-in-100-year(百年に一度)の事象における日降水量が気温が一度上がるごとに約9%増え、より頻繁な大雨の約5.6%を上回るペースで強まる。地球が温暖化するほど、最もまれな豪雨が激しさを増すということだ。"
+                "x": "噂に危機感を抱いたOpenAIのチームは、新しい内部モデルの複製を未解決のMillennium Problemsに差し向けた。100体のエージェントからなる部隊が独自のEuler証明を生み出し、続いて計算に$15 million を費やしたとされる10,000体のエージェントの群れがNavier-Stokesを解いた。"
+              },
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/6a2f980d-9a8d-4ea5-8bfa-5220f1bf13f4/buckmaster-portrait.jpg?m=1792684575.161&w=900",
+                "cap": "N.Y.U.のCourant Instituteに所属する数学者、Tristan Buckmaster。"
               },
               {
                 "t": "p",
-                "x": "温暖化は、穏やかな将来と深刻な将来の差も広げた。深刻な将来では、極端な降雨が平均を大きく上回って増えた。研究はClimate Dynamicsに掲載された。"
+                "x": "専門家は現在、群れによるNavier-Stokes証明は独自の道筋をたどったと見ている。Buckmasterは今もOpenAIが自分の進展に依拠したと考えているが、OpenAIは強く否定している。この一件は、LLMsが人間の理解を上回る速さで結果を証明しつつあることへの警告である。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI显示NZ极端暴雨\n将随气候变暖加剧",
-          "body": "AI模拟NZ降雨15,000+年，发现1-in-100-year暴雨每升温一度约增9%。",
-          "mini_headline": "AI预见NZ暴雨加剧",
+          "headline": "OpenAI如何证明\nNavier-Stokes",
+          "body": "OpenAI的AI解决Navier-Stokes问题的经过，预示着数学混乱的未来。",
+          "mini_headline": "OpenAI的Navier-Stokes证明",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heavy-rain-in-new-zeal.jpg",
-                "cap": "新西兰（New Zealand）的暴雨。Credit: Roman Castillo from Pexels"
+                "src": "https://static.scientificamerican.com/dam/asset/676cb480-a9d0-4bb0-a42f-466e549cfa5c/ink-clash.jpg?m=1792683756.522&w=1200"
               },
               {
                 "t": "p",
-                "x": "Neelesh Rampal与Steven Sherwood在The Conversation撰文介绍，他们利用以140年区域气候模拟（涵盖历史与更暖的未来条件）训练的生成式AI，在约12 km宽的网格上描绘新西兰（New Zealand）多种可能的气候未来。"
+                "x": "9月8日，OpenAI宣称解决了Navier-Stokes问题，这是Clay Mathematics Institute悬赏$1 million 的七个Millennium Prize Problems之一。就在此前，N.Y.U.数学家Tristan Buckmaster公开指责该公司似乎窃取了他的成果。"
               },
               {
                 "t": "p",
-                "x": "该AI借助四枚专用芯片，在六小时内生成了逾15,000个模拟年，在温室气体排放持续上升的情景下，重演历史并推演至2100年的可能未来。"
+                "x": "Buckmaster此前一直与Anthropic数学家Levent Alpöge合作，混合使用Anthropic和OpenAI的模型进行提示。8月15日，Claude让Euler方程出现爆破；8月22日，该证明在Lean中得到验证。"
+              },
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/f24c2ce2-1fe8-47ba-b469-5397351e6a59/lecture-collage.jpeg?m=1792685495.812&w=900",
+                "cap": "这是Buckmaster与OpenAI冲突后的首场公开讲座，N.Y.U. Warren Weaver Hall 109室座无虚席，只剩站位。"
               },
               {
                 "t": "p",
-                "x": "就新西兰（New Zealand）全境平均而言，one-in-100-year（百年一遇）事件的日降雨量每升温一度约增加9%，快于更常见强降雨约5.6%的增幅：地球越暖，最罕见的暴雨就越猛烈。"
+                "x": "OpenAI团队听闻传言后颇为警觉，将一个新内部模型的多个副本投向尚未解决的Millennium Problems。由100个智能体组成的小队给出了自己的Euler证明；随后，据报道耗费$15 million 算力的10,000个智能体集群解决了Navier-Stokes。"
+              },
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/6a2f980d-9a8d-4ea5-8bfa-5220f1bf13f4/buckmaster-portrait.jpg?m=1792684575.161&w=900",
+                "cap": "N.Y.U. Courant Institute数学家Tristan Buckmaster。"
               },
               {
                 "t": "p",
-                "x": "变暖还拉大了较温和与较严重可能未来之间的差距。在较严重的未来中，极端降雨的增幅明显高于平均水平。该研究发表于Climate Dynamics。"
+                "x": "专家们现在认为，该集群的Navier-Stokes证明走的是自己的路径。Buckmaster仍认为OpenAI借鉴了他的进展，OpenAI则坚决否认。这一事件警示，LLMs证明结果的速度正在超过人类理解它们的速度。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Según la AI, las peores lluvias\nde NZ crecerán con el calor",
-          "body": "Un modelo de AI simuló 15,000+ años de lluvia en NZ: los aguaceros 1-in-100-year crecen cerca de 9% por grado.",
-          "mini_headline": "La AI ve aguaceros más intensos en NZ",
+          "headline": "Dentro de la prueba de OpenAI\ndel problema de Navier-Stokes",
+          "body": "La solución de OpenAI al problema de Navier-Stokes con AI, y cómo surgió, anticipa un futuro caótico en matemáticas.",
+          "mini_headline": "La prueba de Navier-Stokes de OpenAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heavy-rain-in-new-zeal.jpg",
-                "cap": "Lluvia intensa en Nueva Zelanda (New Zealand). Credit: Roman Castillo from Pexels"
+                "src": "https://static.scientificamerican.com/dam/asset/676cb480-a9d0-4bb0-a42f-466e549cfa5c/ink-clash.jpg?m=1792683756.522&w=1200"
               },
               {
                 "t": "p",
-                "x": "Neelesh Rampal y Steven Sherwood, en un artículo para The Conversation, usaron una AI generativa entrenada con 140 años de simulaciones climáticas regionales, que abarcan condiciones históricas y futuras más cálidas, para trazar muchos futuros climáticos posibles de Nueva Zelanda (New Zealand) en una cuadrícula de unos 12 km de ancho."
+                "x": "El 8 de septiembre, OpenAI afirmó haber resuelto Navier-Stokes, uno de los siete Millennium Prize Problems del Clay Mathematics Institute dotados con $1 million, justo después de que el matemático de N.Y.U. Tristan Buckmaster acusara públicamente a la empresa de aparentemente robar su trabajo."
               },
               {
                 "t": "p",
-                "x": "La AI generó más de 15,000 años simulados en seis horas con cuatro chips especializados, y recreó la historia y los futuros posibles hasta 2100 en un mundo donde las emisiones de gases de efecto invernadero siguen aumentando."
+                "x": "Buckmaster trabajaba con el matemático de Anthropic Levent Alpöge, dando instrucciones a una combinación de modelos de Anthropic y OpenAI. El 15 de agosto Claude provocó la explosión de las ecuaciones de Euler, y el 22 de agosto la prueba se verificó en Lean."
+              },
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/f24c2ce2-1fe8-47ba-b469-5397351e6a59/lecture-collage.jpeg?m=1792685495.812&w=900",
+                "cap": "La sala 109 del Warren Weaver Hall de N.Y.U. se llenó, con público de pie, en la primera conferencia pública de Buckmaster desde su choque con OpenAI."
               },
               {
                 "t": "p",
-                "x": "En promedio para Nueva Zelanda (New Zealand), la lluvia diaria en un evento one-in-100-year aumenta cerca de 9% por grado de calentamiento, más rápido que el 5.6% aproximado de las lluvias intensas más frecuentes: los aguaceros más raros se vuelven más intensos a medida que el planeta se calienta."
+                "x": "Alarmado por los rumores, el equipo de OpenAI lanzó copias de un nuevo modelo interno contra los Millennium Problems abiertos. Un escuadrón de 100 agentes produjo su propia prueba de Euler; después, un enjambre de 10,000 agentes, que según se informa consumió $15 million en computación, resolvió Navier-Stokes."
+              },
+              {
+                "t": "img",
+                "src": "https://static.scientificamerican.com/dam/asset/6a2f980d-9a8d-4ea5-8bfa-5220f1bf13f4/buckmaster-portrait.jpg?m=1792684575.161&w=900",
+                "cap": "Tristan Buckmaster, matemático del Courant Institute de N.Y.U."
               },
               {
                 "t": "p",
-                "x": "El calentamiento también amplió la brecha entre futuros posibles más moderados y más severos. En los futuros más severos, la lluvia extrema aumentó bastante más que los promedios. El estudio se publicó en Climate Dynamics."
+                "x": "Los expertos dicen ahora que la prueba de Navier-Stokes del enjambre siguió su propio camino. Buckmaster sigue creyendo que OpenAI se apoyó en sus avances; OpenAI lo niega de forma tajante. El episodio advierte de que los LLMs están demostrando resultados más rápido de lo que los humanos pueden entenderlos."
               }
             ]
           }
@@ -325,15 +415,15 @@
       }
     },
     {
-      "id": "science-krict-lab",
+      "id": "science-fusion-plasma-chip",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "과학자가 말로\n자율 실험실을 움직인다",
-      "body": "KRICT의 LLM은 조언을 베이지안 사전정보로 바꾸고 데이터와 어긋나면 버린다.",
-      "mini_headline": "말로 조종하는 자율 실험실",
+      "headline": "초전도 AI 칩,\n핵융합 데이터를 따라잡다",
+      "body": "기록해 둔 핵융합 데이터로 뉴로모픽 AI 칩이 플라스마 불안정을 잡는지 시험했다.",
+      "mini_headline": "플라스마 이상 짚는 칩",
       "tool": "Science",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-10-conversational-ai-labs.html",
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/new-superconducting-chip-aims-to-help-tame-fusion-plasma/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -341,209 +431,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-1.jpg",
-            "cap": "연구자가 자연어로 입력하면 LLM이 이를 바꿔 베이지안 최적화를 이끌고 결과는 다시 피드백된다."
+            "src": "https://static.scientificamerican.com/dam/asset/38a091ea-3dc2-42f4-82ed-e44a03e8b9e4/neuromorphic-Great-Sky-chip-from-BNL-release.jpg?m=1792614243.041&w=1200"
           },
           {
             "t": "p",
-            "x": "한국화학연구원(KRICT) Gwang-Noh Ahn 박사 연구팀이 자율 실험실용 인간 참여형(human-in-the-loop) 최적화 프레임워크를 만들었다."
+            "x": "Brookhaven National Laboratory가 핵융합 플라스마를 실시간으로 감시하는 데 쓸 초전도 칩을 공개했다. 다른 U.S. Department of Energy 시설들, AI 하드웨어 스타트업 Great Sky와 함께 만들었다."
           },
           {
             "t": "p",
-            "x": "대규모 언어 모델(LLM)은 연구자가 평이하게 내린 지시를 구조화된 사전 정보와 제약 조건으로 바꿔 베이지안 최적화에 넘긴다. 구성 요소인 적응형 가중치 신뢰도 탐지(AWCD)는 그 지시가 실험 데이터와 맞는지 살피다가 어긋나는 사전 정보를 꺼 버린다."
-          },
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-2.jpg",
-            "cap": "상충하는 데이터가 쌓이면 AWCD가 잘못된 지시를 끈다."
+            "x": "토카막에서 플라스마가 예상 밖으로 움직이면 디스럽션이 일어날 수 있다. 장치를 망가뜨릴 수도 있는 급격한 붕괴다. 뇌를 본떠 방대한 데이터를 병렬로 처리하는 뉴로모픽 AI 시스템은 이런 빠른 변화를 따라잡을 수 있다."
           },
           {
             "t": "p",
-            "x": "실제 데이터로 돌린 시뮬레이션에서 목표에 닿기까지 필요한 실험 횟수는 Ugi 반응이 약 30회에서 10회 미만으로, P3HT-CNT 복합체가 약 20회에서 3–5회로 줄었다. 연구팀은 대화로 실험을 조정하는 \"Co-Scientist\" 인터페이스도 공개했다. 실제 실험실 검증은 다음 단계로 잡았다."
+            "x": "칩은 아직 실제로 돌아가는 토카막에 연결된 적이 없다. 연구팀이 DIII-D 토카막에서 초당 백만 개 샘플로 기록한 데이터를 재생하자, 칩은 이상을 감지하고 디스럽션을 예측하는 알고리즘을 돌리면서도 속도를 놓치지 않았다. Princeton Plasma Physics Laboratory의 Michael Churchill은 “지금은 이 모든 것이 그야말로 시연 단계”라고 말한다."
           },
           {
             "t": "p",
-            "x": "제1저자는 Amirreza Mottafegh이며 연구는 Journal of Chemical Information and Modeling에 실렸다."
+            "x": "연구팀은 신경망이 10배 큰 후속 칩을 준비 중이다. 내년 초 Brookhaven에서 먼저 공개하고 그다음 DIII-D에 설치할 계획이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Scientists can now steer\nself-driving labs by talking",
-          "body": "KRICT's LLM turns plain-language advice into Bayesian optimization priors and drops it when the data disagree.",
-          "mini_headline": "Talking to self-driving labs",
+          "headline": "A superconducting AI chip\nkeeps pace with fusion data",
+          "body": "Researchers replayed recorded fusion data through a neuromorphic AI chip to see if it flags plasma about to go unstable.",
+          "mini_headline": "Chip flags fusion plasma",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-1.jpg",
-                "cap": "A researcher's natural-language input is converted by an LLM to guide Bayesian optimization, with results fed back."
+                "src": "https://static.scientificamerican.com/dam/asset/38a091ea-3dc2-42f4-82ed-e44a03e8b9e4/neuromorphic-Great-Sky-chip-from-BNL-release.jpg?m=1792614243.041&w=1200"
               },
               {
                 "t": "p",
-                "x": "A team at the Korea Research Institute of Chemical Technology (KRICT), led by Dr. Gwang-Noh Ahn, has built a human-in-the-loop optimization framework for self-driving laboratories."
+                "x": "Brookhaven National Laboratory debuted a superconducting chip designed to help monitor fusion plasma in real time, developed with other U.S. Department of Energy facilities and the AI hardware start-up Great Sky."
               },
               {
                 "t": "p",
-                "x": "A large language model converts a researcher's plain-language guidance into structured priors and constraints that Bayesian optimization can use. A component called adaptive weight credibility detection (AWCD) checks whether that guidance matches the experimental data and switches off priors the data contradict."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-2.jpg",
-                "cap": "AWCD disables misleading guidance once contradicting data accumulate."
+                "x": "In tokamaks, unexpected plasma behavior can cause a disruption, a sudden collapse that can harm the device. Neuromorphic AI systems, which mimic the brain to crunch huge amounts of data in parallel, could keep up with such fast changes."
               },
               {
                 "t": "p",
-                "x": "In simulations based on real data, experiments needed to reach a target fell from about 30 to fewer than 10 for Ugi reactions, and from about 20 to 3–5 for P3HT-CNT composites. The team also released an interactive \"Co-Scientist\" interface for adjusting experiments through dialogue; physical lab validation is still planned."
+                "x": "The chip hasn't been wired to a working tokamak yet. The team replayed data recorded at the DIII-D tokamak at a million samples per second, and the chip kept up while running algorithms meant to flag anomalies and predict disruptions. “All of this is very demonstration-stage right now,” says Michael Churchill of the Princeton Plasma Physics Laboratory."
               },
               {
                 "t": "p",
-                "x": "The work, with Amirreza Mottafegh as first author, appears in the Journal of Chemical Information and Modeling."
+                "x": "The team plans a successor chip with a neural network 10 times larger, to debut at Brookhaven early next year and be installed at DIII-D sometime after."
               }
             ]
           }
         },
         "ko": {
-          "headline": "과학자가 말로\n자율 실험실을 움직인다",
-          "body": "KRICT의 LLM은 조언을 베이지안 사전정보로 바꾸고 데이터와 어긋나면 버린다.",
-          "mini_headline": "말로 조종하는 자율 실험실",
+          "headline": "초전도 AI 칩,\n핵융합 데이터를 따라잡다",
+          "body": "기록해 둔 핵융합 데이터로 뉴로모픽 AI 칩이 플라스마 불안정을 잡는지 시험했다.",
+          "mini_headline": "플라스마 이상 짚는 칩",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-1.jpg",
-                "cap": "연구자가 자연어로 입력하면 LLM이 이를 바꿔 베이지안 최적화를 이끌고 결과는 다시 피드백된다."
+                "src": "https://static.scientificamerican.com/dam/asset/38a091ea-3dc2-42f4-82ed-e44a03e8b9e4/neuromorphic-Great-Sky-chip-from-BNL-release.jpg?m=1792614243.041&w=1200"
               },
               {
                 "t": "p",
-                "x": "한국화학연구원(KRICT) Gwang-Noh Ahn 박사 연구팀이 자율 실험실용 인간 참여형(human-in-the-loop) 최적화 프레임워크를 만들었다."
+                "x": "Brookhaven National Laboratory가 핵융합 플라스마를 실시간으로 감시하는 데 쓸 초전도 칩을 공개했다. 다른 U.S. Department of Energy 시설들, AI 하드웨어 스타트업 Great Sky와 함께 만들었다."
               },
               {
                 "t": "p",
-                "x": "대규모 언어 모델(LLM)은 연구자가 평이하게 내린 지시를 구조화된 사전 정보와 제약 조건으로 바꿔 베이지안 최적화에 넘긴다. 구성 요소인 적응형 가중치 신뢰도 탐지(AWCD)는 그 지시가 실험 데이터와 맞는지 살피다가 어긋나는 사전 정보를 꺼 버린다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-2.jpg",
-                "cap": "상충하는 데이터가 쌓이면 AWCD가 잘못된 지시를 끈다."
+                "x": "토카막에서 플라스마가 예상 밖으로 움직이면 디스럽션이 일어날 수 있다. 장치를 망가뜨릴 수도 있는 급격한 붕괴다. 뇌를 본떠 방대한 데이터를 병렬로 처리하는 뉴로모픽 AI 시스템은 이런 빠른 변화를 따라잡을 수 있다."
               },
               {
                 "t": "p",
-                "x": "실제 데이터로 돌린 시뮬레이션에서 목표에 닿기까지 필요한 실험 횟수는 Ugi 반응이 약 30회에서 10회 미만으로, P3HT-CNT 복합체가 약 20회에서 3–5회로 줄었다. 연구팀은 대화로 실험을 조정하는 \"Co-Scientist\" 인터페이스도 공개했다. 실제 실험실 검증은 다음 단계로 잡았다."
+                "x": "칩은 아직 실제로 돌아가는 토카막에 연결된 적이 없다. 연구팀이 DIII-D 토카막에서 초당 백만 개 샘플로 기록한 데이터를 재생하자, 칩은 이상을 감지하고 디스럽션을 예측하는 알고리즘을 돌리면서도 속도를 놓치지 않았다. Princeton Plasma Physics Laboratory의 Michael Churchill은 “지금은 이 모든 것이 그야말로 시연 단계”라고 말한다."
               },
               {
                 "t": "p",
-                "x": "제1저자는 Amirreza Mottafegh이며 연구는 Journal of Chemical Information and Modeling에 실렸다."
+                "x": "연구팀은 신경망이 10배 큰 후속 칩을 준비 중이다. 내년 초 Brookhaven에서 먼저 공개하고 그다음 DIII-D에 설치할 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "科学者が対話で\n自律実験室を操る",
-          "body": "KRICTのLLMは平易な助言をベイズ最適化の事前分布に変え、データと矛盾すれば捨てる。",
-          "mini_headline": "対話で操る自律実験室",
+          "headline": "超伝導AIチップ、\n核融合データに追随",
+          "body": "研究者は記録済み核融合データを脳型AIチップに流し、プラズマ不安定化の検知を試した。",
+          "mini_headline": "核融合プラズマを見張るチップ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-1.jpg",
-                "cap": "研究者の自然言語入力をLLMが変換してベイズ最適化を導き、結果がフィードバックされる。"
+                "src": "https://static.scientificamerican.com/dam/asset/38a091ea-3dc2-42f4-82ed-e44a03e8b9e4/neuromorphic-Great-Sky-chip-from-BNL-release.jpg?m=1792614243.041&w=1200"
               },
               {
                 "t": "p",
-                "x": "韓国化学研究院（KRICT）のGwang-Noh Ahn博士率いるチームが、自律実験室向けのヒューマン・イン・ザ・ループ（human-in-the-loop）型最適化フレームワークを構築した。"
+                "x": "Brookhaven National Laboratoryは、核融合プラズマのリアルタイム監視を支援する超伝導チップを公開した。他のU.S. Department of Energy施設や、AIハードウェアのスタートアップGreat Skyと共同で開発したものだ。"
               },
               {
                 "t": "p",
-                "x": "大規模言語モデルが研究者の平易な指示を、ベイズ最適化で使える構造化された事前分布と制約に変換する。適応的重み信頼性検出（AWCD）と呼ぶ構成要素が、その指示が実験データと合うかを確かめ、データと矛盾する事前分布を無効にする。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-2.jpg",
-                "cap": "AWCDは、矛盾するデータが蓄積すると誤った指示を無効化する。"
+                "x": "トカマクでは、予期しないプラズマの挙動がディスラプション、すなわち装置を損傷しうる突然の崩壊を引き起こすことがある。脳を模倣して膨大なデータを並列処理するニューロモーフィックAIシステムなら、こうした速い変化に追いつける可能性がある。"
               },
               {
                 "t": "p",
-                "x": "実データに基づくシミュレーションでは、目標到達に必要な実験回数がUgi反応で約30回から10回未満に、P3HT-CNT複合材料で約20回から3–5回に減った。チームは対話で実験を調整できる対話型インターフェース「Co-Scientist」も公開した。実際の実験室での検証はこれから予定している。"
+                "x": "このチップはまだ稼働中のトカマクにはつながれていない。チームはDIII-Dトカマクで毎秒百万サンプルの速さで記録したデータを再生し、チップは異常を検知しディスラプションを予測するアルゴリズムを動かしながら遅れずに処理した。Princeton Plasma Physics LaboratoryのMichael Churchillは「現時点では、すべてがまさに実証段階だ」と語る。"
               },
               {
                 "t": "p",
-                "x": "Amirreza Mottafeghが筆頭著者を務めたこの研究は、Journal of Chemical Information and Modelingに掲載された。"
+                "x": "チームはニューラルネットワークを10倍に大型化した後継チップを計画しており、来年初めにBrookhavenで公開し、その後DIII-Dに設置する予定だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "科学家如今可通过对话\n操控自驱动实验室",
-          "body": "KRICT的LLM把通俗建议转为贝叶斯优化先验，数据不符时便将其舍弃。",
-          "mini_headline": "用对话操控自驱动实验室",
+          "headline": "超导AI芯片\n跟上核聚变数据",
+          "body": "研究人员用神经形态AI芯片回放已记录的核聚变数据，测试它能否识别即将失稳的等离子体。",
+          "mini_headline": "芯片预警核聚变等离子体",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-1.jpg",
-                "cap": "研究人员的自然语言输入经LLM转换后引导贝叶斯优化，结果再反馈回来。"
+                "src": "https://static.scientificamerican.com/dam/asset/38a091ea-3dc2-42f4-82ed-e44a03e8b9e4/neuromorphic-Great-Sky-chip-from-BNL-release.jpg?m=1792614243.041&w=1200"
               },
               {
                 "t": "p",
-                "x": "韩国化学技术研究院（KRICT）Gwang-Noh Ahn博士领导的团队，为自驱动实验室打造了一套人在回路（human-in-the-loop）优化框架。"
+                "x": "Brookhaven National Laboratory推出了一款超导芯片，旨在帮助实时监测核聚变等离子体。该芯片由其与其他U.S. Department of Energy机构及AI硬件初创公司Great Sky共同开发。"
               },
               {
                 "t": "p",
-                "x": "大语言模型将研究人员的通俗指导转化为贝叶斯优化可用的结构化先验和约束。名为自适应权重可信度检测（AWCD）的组件会检查这些指导是否与实验数据相符，并关闭被数据否定的先验。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-2.jpg",
-                "cap": "当矛盾数据不断积累时，AWCD会停用误导性的指导。"
+                "x": "在托卡马克中，意外的等离子体行为可能引发破裂，即一种可能损坏装置的突然崩溃。神经形态AI系统模仿大脑并行处理海量数据，有望跟上这种快速变化。"
               },
               {
                 "t": "p",
-                "x": "在基于真实数据的模拟中，达到目标所需的实验次数在Ugi反应中从约30次降至不到10次，在P3HT-CNT复合材料中从约20次降至3–5次。团队还发布了可通过对话调整实验的交互式“Co-Scientist”界面；实体实验室验证仍在计划中。"
+                "x": "这款芯片尚未接入正在运行的托卡马克。团队回放了在DIII-D托卡马克以每秒百万个样本记录的数据，芯片在运行用于标记异常和预测破裂的算法时跟上了数据节奏。Princeton Plasma Physics Laboratory的Michael Churchill说：“目前这一切都还完全处于演示阶段。”"
               },
               {
                 "t": "p",
-                "x": "该研究第一作者为Amirreza Mottafegh，发表于Journal of Chemical Information and Modeling。"
+                "x": "团队计划推出神经网络规模大10倍的后续芯片，明年初在Brookhaven亮相，之后某个时候安装到DIII-D。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los científicos ya pueden guiar\nlaboratorios autónomos hablando",
-          "body": "El LLM del KRICT traduce consejos verbales a priors de optimización bayesiana y los descarta si los datos discrepan.",
-          "mini_headline": "Hablar con laboratorios autónomos",
+          "headline": "Un chip de AI superconductor\nva al ritmo de datos de fusión",
+          "body": "Se probó con datos de fusión grabados si un chip neuromórfico de AI detecta el plasma a punto de volverse inestable.",
+          "mini_headline": "Un chip detecta plasma inestable",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-1.jpg",
-                "cap": "Un LLM convierte la entrada en lenguaje natural del investigador para guiar la optimización bayesiana, y los resultados se retroalimentan."
+                "src": "https://static.scientificamerican.com/dam/asset/38a091ea-3dc2-42f4-82ed-e44a03e8b9e4/neuromorphic-Great-Sky-chip-from-BNL-release.jpg?m=1792614243.041&w=1200"
               },
               {
                 "t": "p",
-                "x": "Un equipo del Instituto Coreano de Investigación de Tecnología Química (KRICT), dirigido por el Dr. Gwang-Noh Ahn, ha creado un marco de optimización con intervención humana (human-in-the-loop) para laboratorios autónomos."
+                "x": "El Brookhaven National Laboratory presentó un chip superconductor diseñado para ayudar a vigilar el plasma de fusión en tiempo real, desarrollado junto con otras instalaciones del U.S. Department of Energy y la start-up de hardware de AI Great Sky."
               },
               {
                 "t": "p",
-                "x": "Un modelo de lenguaje grande convierte las indicaciones del investigador en lenguaje llano en priors y restricciones estructurados que la optimización bayesiana puede usar. Un componente llamado detección adaptativa de credibilidad de pesos (AWCD) comprueba si esas indicaciones coinciden con los datos experimentales y desactiva los priors que los datos contradicen."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-2.jpg",
-                "cap": "AWCD desactiva las indicaciones engañosas cuando se acumulan datos contradictorios."
+                "x": "En los tokamaks, un comportamiento inesperado del plasma puede causar una disrupción, un colapso repentino que puede dañar el dispositivo. Los sistemas neuromórficos de AI, que imitan al cerebro para procesar enormes cantidades de datos en paralelo, podrían seguir cambios tan rápidos."
               },
               {
                 "t": "p",
-                "x": "En simulaciones basadas en datos reales, los experimentos necesarios para alcanzar un objetivo bajaron de unos 30 a menos de 10 en las reacciones de Ugi, y de unos 20 a 3–5 en los compuestos de P3HT-CNT. El equipo también publicó una interfaz interactiva, \"Co-Scientist\", para ajustar experimentos mediante diálogo; la validación en un laboratorio físico aún está prevista."
+                "x": "El chip aún no se ha conectado a un tokamak en funcionamiento. El equipo reprodujo datos registrados en el tokamak DIII-D a un millón de muestras por segundo, y el chip mantuvo el ritmo mientras ejecutaba algoritmos pensados para señalar anomalías y predecir disrupciones. “Todo esto está ahora muy en fase de demostración”, dice Michael Churchill, del Princeton Plasma Physics Laboratory."
               },
               {
                 "t": "p",
-                "x": "El trabajo, con Amirreza Mottafegh como primer autor, se publica en el Journal of Chemical Information and Modeling."
+                "x": "El equipo planea un chip sucesor con una red neuronal 10 veces mayor, que se presentará en Brookhaven a principios del próximo año y se instalará en DIII-D algún tiempo después."
               }
             ]
           }
@@ -551,145 +605,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "과학자가 말로\n자율 실험실을 움직인다",
-          "body": "KRICT의 LLM은 조언을 베이지안 사전정보로 바꾸고 데이터와 어긋나면 버린다.",
-          "mini_headline": "말로 조종하는 자율 실험실",
+          "headline": "초전도 AI 칩,\n핵융합 데이터를 따라잡다",
+          "body": "기록된 핵융합 데이터로 뉴로모픽 AI 칩의 플라스마 불안정 감지를 시험했다.",
+          "mini_headline": "플라스마 이상 짚는 칩",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-1.jpg",
-                "cap": "연구자의 자연어 입력을 LLM이 변환해 베이지안 최적화를 이끌고, 결과는 다시 피드백된다."
+                "src": "https://static.scientificamerican.com/dam/asset/38a091ea-3dc2-42f4-82ed-e44a03e8b9e4/neuromorphic-Great-Sky-chip-from-BNL-release.jpg?m=1792614243.041&w=1200"
               },
               {
                 "t": "p",
-                "x": "한국화학연구원(KRICT) Gwang-Noh Ahn 박사 연구팀이 자율 실험실을 위한 인간 참여형(human-in-the-loop) 최적화 프레임워크를 만들었다."
+                "x": "Brookhaven National Laboratory가 핵융합 플라스마를 실시간으로 감시하도록 돕는 초전도 칩을 공개했다. 다른 U.S. Department of Energy 시설들, AI 하드웨어 스타트업 Great Sky와 함께 개발한 칩이다."
               },
               {
                 "t": "p",
-                "x": "대규모 언어 모델(LLM)이 연구자의 평이한 지시를 베이지안 최적화가 쓸 수 있는 구조화된 사전 정보와 제약 조건으로 바꾼다. 적응형 가중치 신뢰도 탐지(AWCD)라는 구성 요소는 이 지시가 실험 데이터와 맞는지 확인하고, 데이터와 어긋나는 사전 정보를 꺼 버린다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-2.jpg",
-                "cap": "AWCD는 상충하는 데이터가 쌓이면 잘못된 지시를 비활성화한다."
+                "x": "토카막에서는 예상치 못한 플라스마 거동이 디스럽션, 즉 장치를 손상시킬 수 있는 급격한 붕괴를 일으킬 수 있다. 뇌를 모방해 방대한 데이터를 병렬로 처리하는 뉴로모픽 AI 시스템은 이런 빠른 변화를 따라잡을 수 있다."
               },
               {
                 "t": "p",
-                "x": "실제 데이터 기반 시뮬레이션에서 목표에 도달하는 데 필요한 실험 횟수는 Ugi 반응에서 약 30회에서 10회 미만으로, P3HT-CNT 복합체에서 약 20회에서 3–5회로 줄었다. 연구팀은 대화로 실험을 조정하는 대화형 \"Co-Scientist\" 인터페이스도 공개했으며, 실제 실험실 검증은 앞으로 진행할 계획이다."
+                "x": "이 칩은 아직 실제로 가동 중인 토카막에 연결되지 않았다. 연구팀은 DIII-D 토카막에서 초당 백만 개 샘플로 기록한 데이터를 재생했고, 칩은 이상을 감지하고 디스럽션을 예측하는 알고리즘을 돌리면서도 속도를 놓치지 않았다. Princeton Plasma Physics Laboratory의 Michael Churchill은 “지금은 이 모든 것이 그야말로 시연 단계”라고 말한다."
               },
               {
                 "t": "p",
-                "x": "Amirreza Mottafegh가 제1저자로 참여한 이 연구는 Journal of Chemical Information and Modeling에 실렸다."
+                "x": "연구팀은 신경망이 10배 큰 후속 칩을 계획하고 있으며, 내년 초 Brookhaven에서 공개한 뒤 그 이후 DIII-D에 설치할 예정이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "科学者が対話で\n自律実験室を操る",
-          "body": "KRICTのLLMは平易な助言をベイズ最適化の事前分布に変え、データと矛盾すれば捨てる。",
-          "mini_headline": "対話で操る自律実験室",
+          "headline": "超伝導AIチップ、\n核融合データに追随",
+          "body": "研究者は記録済み核融合データを脳型AIチップに流し、プラズマ不安定化の検知を試した。",
+          "mini_headline": "核融合プラズマを見張るチップ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-1.jpg",
-                "cap": "研究者の自然言語入力をLLMが変換してベイズ最適化を導き、結果がフィードバックされる。"
+                "src": "https://static.scientificamerican.com/dam/asset/38a091ea-3dc2-42f4-82ed-e44a03e8b9e4/neuromorphic-Great-Sky-chip-from-BNL-release.jpg?m=1792614243.041&w=1200"
               },
               {
                 "t": "p",
-                "x": "韓国化学研究院（KRICT）のGwang-Noh Ahn博士率いるチームが、自律実験室向けのヒューマン・イン・ザ・ループ（human-in-the-loop）型最適化フレームワークを構築した。"
+                "x": "Brookhaven National Laboratoryは、核融合プラズマのリアルタイム監視を支援する超伝導チップを公開した。他のU.S. Department of Energy施設や、AIハードウェアのスタートアップGreat Skyと共同で開発したものだ。"
               },
               {
                 "t": "p",
-                "x": "大規模言語モデルが研究者の平易な指示を、ベイズ最適化で使える構造化された事前分布と制約に変換する。適応的重み信頼性検出（AWCD）と呼ぶ構成要素が、その指示が実験データと合うかを確かめ、データと矛盾する事前分布を無効にする。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-2.jpg",
-                "cap": "AWCDは、矛盾するデータが蓄積すると誤った指示を無効化する。"
+                "x": "トカマクでは、予期しないプラズマの挙動がディスラプション、すなわち装置を損傷しうる突然の崩壊を引き起こすことがある。脳を模倣して膨大なデータを並列処理するニューロモーフィックAIシステムなら、こうした速い変化に追いつける可能性がある。"
               },
               {
                 "t": "p",
-                "x": "実データに基づくシミュレーションでは、目標到達に必要な実験回数がUgi反応で約30回から10回未満に、P3HT-CNT複合材料で約20回から3–5回に減った。チームは対話で実験を調整できる対話型インターフェース「Co-Scientist」も公開した。実際の実験室での検証はこれから予定している。"
+                "x": "このチップはまだ稼働中のトカマクにはつながれていない。チームはDIII-Dトカマクで毎秒百万サンプルの速さで記録したデータを再生し、チップは異常を検知しディスラプションを予測するアルゴリズムを動かしながら遅れずに処理した。Princeton Plasma Physics LaboratoryのMichael Churchillは「現時点では、すべてがまさに実証段階だ」と語る。"
               },
               {
                 "t": "p",
-                "x": "Amirreza Mottafeghが筆頭著者を務めたこの研究は、Journal of Chemical Information and Modelingに掲載された。"
+                "x": "チームはニューラルネットワークを10倍に大型化した後継チップを計画しており、来年初めにBrookhavenで公開し、その後DIII-Dに設置する予定だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "科学家如今可通过对话\n操控自驱动实验室",
-          "body": "KRICT的LLM把通俗建议转为贝叶斯优化先验，数据不符时便将其舍弃。",
-          "mini_headline": "用对话操控自驱动实验室",
+          "headline": "超导AI芯片\n跟上核聚变数据",
+          "body": "研究人员用神经形态AI芯片回放已记录的核聚变数据，测试它能否识别即将失稳的等离子体。",
+          "mini_headline": "芯片预警核聚变等离子体",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-1.jpg",
-                "cap": "研究人员的自然语言输入经LLM转换后引导贝叶斯优化，结果再反馈回来。"
+                "src": "https://static.scientificamerican.com/dam/asset/38a091ea-3dc2-42f4-82ed-e44a03e8b9e4/neuromorphic-Great-Sky-chip-from-BNL-release.jpg?m=1792614243.041&w=1200"
               },
               {
                 "t": "p",
-                "x": "韩国化学技术研究院（KRICT）Gwang-Noh Ahn博士领导的团队，为自驱动实验室打造了一套人在回路（human-in-the-loop）优化框架。"
+                "x": "Brookhaven National Laboratory推出了一款超导芯片，旨在帮助实时监测核聚变等离子体。该芯片由其与其他U.S. Department of Energy机构及AI硬件初创公司Great Sky共同开发。"
               },
               {
                 "t": "p",
-                "x": "大语言模型将研究人员的通俗指导转化为贝叶斯优化可用的结构化先验和约束。名为自适应权重可信度检测（AWCD）的组件会检查这些指导是否与实验数据相符，并关闭被数据否定的先验。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-2.jpg",
-                "cap": "当矛盾数据不断积累时，AWCD会停用误导性的指导。"
+                "x": "在托卡马克中，意外的等离子体行为可能引发破裂，即一种可能损坏装置的突然崩溃。神经形态AI系统模仿大脑并行处理海量数据，有望跟上这种快速变化。"
               },
               {
                 "t": "p",
-                "x": "在基于真实数据的模拟中，达到目标所需的实验次数在Ugi反应中从约30次降至不到10次，在P3HT-CNT复合材料中从约20次降至3–5次。团队还发布了可通过对话调整实验的交互式“Co-Scientist”界面；实体实验室验证仍在计划中。"
+                "x": "这款芯片尚未接入正在运行的托卡马克。团队回放了在DIII-D托卡马克以每秒百万个样本记录的数据，芯片在运行用于标记异常和预测破裂的算法时跟上了数据节奏。Princeton Plasma Physics Laboratory的Michael Churchill说：“目前这一切都还完全处于演示阶段。”"
               },
               {
                 "t": "p",
-                "x": "该研究第一作者为Amirreza Mottafegh，发表于Journal of Chemical Information and Modeling。"
+                "x": "团队计划推出神经网络规模大10倍的后续芯片，明年初在Brookhaven亮相，之后某个时候安装到DIII-D。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los científicos ya pueden guiar\nlaboratorios autónomos hablando",
-          "body": "El LLM del KRICT traduce consejos verbales a priors de optimización bayesiana y los descarta si los datos discrepan.",
-          "mini_headline": "Hablar con laboratorios autónomos",
+          "headline": "Un chip de AI superconductor\nva al ritmo de datos de fusión",
+          "body": "Se probó con datos de fusión grabados si un chip neuromórfico de AI detecta el plasma a punto de volverse inestable.",
+          "mini_headline": "Un chip detecta plasma inestable",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-1.jpg",
-                "cap": "Un LLM convierte la entrada en lenguaje natural del investigador para guiar la optimización bayesiana, y los resultados se retroalimentan."
+                "src": "https://static.scientificamerican.com/dam/asset/38a091ea-3dc2-42f4-82ed-e44a03e8b9e4/neuromorphic-Great-Sky-chip-from-BNL-release.jpg?m=1792614243.041&w=1200"
               },
               {
                 "t": "p",
-                "x": "Un equipo del Instituto Coreano de Investigación de Tecnología Química (KRICT), dirigido por el Dr. Gwang-Noh Ahn, ha creado un marco de optimización con intervención humana (human-in-the-loop) para laboratorios autónomos."
+                "x": "El Brookhaven National Laboratory presentó un chip superconductor diseñado para ayudar a vigilar el plasma de fusión en tiempo real, desarrollado junto con otras instalaciones del U.S. Department of Energy y la start-up de hardware de AI Great Sky."
               },
               {
                 "t": "p",
-                "x": "Un modelo de lenguaje grande convierte las indicaciones del investigador en lenguaje llano en priors y restricciones estructurados que la optimización bayesiana puede usar. Un componente llamado detección adaptativa de credibilidad de pesos (AWCD) comprueba si esas indicaciones coinciden con los datos experimentales y desactiva los priors que los datos contradicen."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-2.jpg",
-                "cap": "AWCD desactiva las indicaciones engañosas cuando se acumulan datos contradictorios."
+                "x": "En los tokamaks, un comportamiento inesperado del plasma puede causar una disrupción, un colapso repentino que puede dañar el dispositivo. Los sistemas neuromórficos de AI, que imitan al cerebro para procesar enormes cantidades de datos en paralelo, podrían seguir cambios tan rápidos."
               },
               {
                 "t": "p",
-                "x": "En simulaciones basadas en datos reales, los experimentos necesarios para alcanzar un objetivo bajaron de unos 30 a menos de 10 en las reacciones de Ugi, y de unos 20 a 3–5 en los compuestos de P3HT-CNT. El equipo también publicó una interfaz interactiva, \"Co-Scientist\", para ajustar experimentos mediante diálogo; la validación en un laboratorio físico aún está prevista."
+                "x": "El chip aún no se ha conectado a un tokamak en funcionamiento. El equipo reprodujo datos registrados en el tokamak DIII-D a un millón de muestras por segundo, y el chip mantuvo el ritmo mientras ejecutaba algoritmos pensados para señalar anomalías y predecir disrupciones. “Todo esto está ahora muy en fase de demostración”, dice Michael Churchill, del Princeton Plasma Physics Laboratory."
               },
               {
                 "t": "p",
-                "x": "El trabajo, con Amirreza Mottafegh como primer autor, se publica en el Journal of Chemical Information and Modeling."
+                "x": "El equipo planea un chip sucesor con una red neuronal 10 veces mayor, que se presentará en Brookhaven a principios del próximo año y se instalará en DIII-D algún tiempo después."
               }
             ]
           }
@@ -697,15 +727,15 @@
       }
     },
     {
-      "id": "science-fairstress",
+      "id": "science-quantum-sim-agents",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "공정해 보이는 LLMs도\n정체성 단서엔 흔들린다",
-      "body": "Ai2 FairStress에서 LLMs는 신원이 드러날수록 소수자 편으로 기울었다.",
-      "mini_headline": "FairStress로 본 LLM 공정성",
+      "headline": "AI 에이전트, 질문을\n양자 시뮬레이션으로",
+      "body": "다중 에이전트 AI가 일상어 연구 질문을 검증·재현되는 양자 시뮬레이션으로 바꾼다.",
+      "mini_headline": "AI 에이전트가 돌리는 양자 시뮬레이션",
       "tool": "Science",
-      "source": "Ai2",
-      "url": "https://allenai.org/blog/fairstress",
+      "source": "Physics World",
+      "url": "https://physicsworld.com/a/using-ai-agents-to-run-quantum-simulations/",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -713,173 +743,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.datocms-assets.com/64837/1791813343-fairstress-blog-draft-google-docs-image-1-1.png"
+            "src": "https://physicsworld.com/wp-content/uploads/2026/10/ai-agent-computer-chip-or-software-2217030312-istock-mf3d.jpg"
           },
           {
             "t": "p",
-            "x": "Ai2가 벤치마크 FairStress를 내놓았다. LLMs의 인구통계학적 공정성을 모델의 최종 선택 너머까지 잰다. 한 시나리오의 두 버전이 같은 답에 이르러도 그 안에 의미 있는 차이가 숨어 있을 수 있어서다. 그래서 설득력 있는 \"적대적 접두어(adversarial prefixes)\"가 집단에 따라 결정을 다르게 바꾸는지도 시험한다."
+            "x": "양자 시뮬레이션은 분자 에너지 계산, 신소재 탐구, 양자컴퓨팅 알고리즘 시험, 양자계의 시간 변화 예측에 쓰인다. 하지만 전문 수치 기법을 알고 여러 소프트웨어 도구를 능숙하게 다뤄야 하는 경우가 많다."
           },
           {
             "t": "p",
-            "x": "채용과 의료부터 대출, 형사 사법까지 29개 영역에서 후보 두 명짜리 시나리오 300개를 짜 1300만 개가 넘는 테스트 케이스를 만든다. 5만 개 항목으로 추린 하위 세트 FairStress-Core도 함께 공개했다."
+            "x": "AI 에이전트는 여러 단계짜리 작업을 계획하고 문서를 찾아보고 프로그램을 돌린 뒤 결과를 검토해 접근 방식을 고칠 수 있다. El Agente Cuántico는 이 능력을 양자 시뮬레이션에 가져왔다. 조정 에이전트가 서로 다른 소프트웨어 패키지에 연결된 전문 에이전트들에게 일을 나눠 맡기면 코드와 수치 결과, 그림이 나온다."
           },
           {
             "t": "p",
-            "x": "인구통계 정보가 없으면 모델은 대체로 대칭적으로 행동했다. 정체성이 뚜렷해질수록 그 대칭이 무너졌다. 옳은 선택을 버리면 소수자로 표시된 후보가 유리해지는 경우 모델은 그 선택을 더 쉽게 버렸다. 이른바 \"반고정관념적 과잉 교정\"이다. 모호한 사례에서 프런티어 모델은 소수자로 표시된 후보를 약 60–65% 비율로 골랐다."
+            "x": "연구진은 분자 에너지 계산, 얽힘 상태, 소산 동역학, 시간 결정, 오류 정정, 하드웨어 자원 추정에서 이 시스템을 선보였다. 다섯 가지 과제를 되풀이해 시험하니 전문가 평가 평균 점수는 100점 만점에 97점에서 100점이었다. 다만 일부 실행은 지시를 벗어났다."
           },
           {
             "t": "p",
-            "x": "설명하는 방식도 달랐다. 선호된 후보는 자격을 덜 인정받았다. 편향 완화 개입 아홉 가지 가운데 정확도를 대체로 지키면서 격차를 좁힌 것은 반사실적 사고 사슬(counterfactual chain-of-thought)뿐이었다."
+            "x": "저자들은 이 에이전트들이 과학적 판단을 대신하지 않고 거드는 도구라고 말한다. (I. Gustin et al 2026 Rep. Prog. Phys. 89 077602)"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "LLMs that look fair can still\nbend under identity cues",
-          "body": "Ai2's FairStress finds LLMs over-correct toward minority-coded candidates as identity cues become explicit.",
-          "mini_headline": "FairStress probes LLM fairness",
+          "headline": "AI agents turn questions\ninto quantum simulations",
+          "body": "A multi-agent AI system turns plain-language research questions into checked, reproducible quantum simulations.",
+          "mini_headline": "AI agents run quantum sims",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1791813343-fairstress-blog-draft-google-docs-image-1-1.png"
+                "src": "https://physicsworld.com/wp-content/uploads/2026/10/ai-agent-computer-chip-or-software-2217030312-istock-mf3d.jpg"
               },
               {
                 "t": "p",
-                "x": "Ai2 introduced FairStress, a benchmark for measuring demographic fairness in LLMs beyond the choice a model ultimately makes. Arriving at the same answer in two versions of a scenario can hide meaningful differences, so it also tests whether persuasive \"adversarial prefixes\" shift decisions differently by group."
+                "x": "Quantum simulations are used to calculate molecular energies, investigate new materials, test quantum-computing algorithms and predict how quantum systems evolve, but they often require specialist numerical methods and familiarity with multiple software tools."
               },
               {
                 "t": "p",
-                "x": "It spans 300 two-candidate scenarios across 29 domains, from hiring and healthcare to lending and criminal justice, producing more than 13 million test cases; a 50K-item FairStress-Core subset is also released."
+                "x": "AI agents can plan multistep tasks, consult documentation, run programs, examine results and revise their approach. El Agente Cuántico applies this to quantum simulation: a coordinating agent delegates work to specialist agents tied to different software packages, producing code, numerical results and figures."
               },
               {
                 "t": "p",
-                "x": "Without demographic information, behavior was roughly symmetric. As identity became more explicit, it grew less so: models more readily abandoned a correct choice when that favored a minority-coded candidate, an \"anti-stereotypical over-correction.\" Frontier models picked minority-coded candidates about 60–65% of the time in ambiguous cases."
+                "x": "The researchers demonstrated it on molecular-energy calculations, entangled states, dissipative dynamics, time crystals, error correction and hardware-resource estimation. In repeated tests of five tasks, average expert-assessment scores ranged from 97 to 100 out of 100, though a few runs departed from the instructions."
               },
               {
                 "t": "p",
-                "x": "Explanations differed too, giving favored candidates' qualifications less recognition. Of nine debiasing interventions, only counterfactual chain-of-thought narrowed the gap while largely preserving accuracy."
+                "x": "The authors present the agents as an aid to scientific judgement, not a replacement for it. (I. Gustin et al 2026 Rep. Prog. Phys. 89 077602)"
               }
             ]
           }
         },
         "ko": {
-          "headline": "공정해 보이는 LLMs도\n정체성 단서엔 흔들린다",
-          "body": "Ai2 FairStress에서 LLMs는 신원이 드러날수록 소수자 편으로 기울었다.",
-          "mini_headline": "FairStress로 본 LLM 공정성",
+          "headline": "AI 에이전트, 질문을\n양자 시뮬레이션으로",
+          "body": "다중 에이전트 AI가 일상어 연구 질문을 검증·재현되는 양자 시뮬레이션으로 바꾼다.",
+          "mini_headline": "AI 에이전트가 돌리는 양자 시뮬레이션",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1791813343-fairstress-blog-draft-google-docs-image-1-1.png"
+                "src": "https://physicsworld.com/wp-content/uploads/2026/10/ai-agent-computer-chip-or-software-2217030312-istock-mf3d.jpg"
               },
               {
                 "t": "p",
-                "x": "Ai2가 벤치마크 FairStress를 내놓았다. LLMs의 인구통계학적 공정성을 모델의 최종 선택 너머까지 잰다. 한 시나리오의 두 버전이 같은 답에 이르러도 그 안에 의미 있는 차이가 숨어 있을 수 있어서다. 그래서 설득력 있는 \"적대적 접두어(adversarial prefixes)\"가 집단에 따라 결정을 다르게 바꾸는지도 시험한다."
+                "x": "양자 시뮬레이션은 분자 에너지 계산, 신소재 탐구, 양자컴퓨팅 알고리즘 시험, 양자계의 시간 변화 예측에 쓰인다. 하지만 전문 수치 기법을 알고 여러 소프트웨어 도구를 능숙하게 다뤄야 하는 경우가 많다."
               },
               {
                 "t": "p",
-                "x": "채용과 의료부터 대출, 형사 사법까지 29개 영역에서 후보 두 명짜리 시나리오 300개를 짜 1300만 개가 넘는 테스트 케이스를 만든다. 5만 개 항목으로 추린 하위 세트 FairStress-Core도 함께 공개했다."
+                "x": "AI 에이전트는 여러 단계짜리 작업을 계획하고 문서를 찾아보고 프로그램을 돌린 뒤 결과를 검토해 접근 방식을 고칠 수 있다. El Agente Cuántico는 이 능력을 양자 시뮬레이션에 가져왔다. 조정 에이전트가 서로 다른 소프트웨어 패키지에 연결된 전문 에이전트들에게 일을 나눠 맡기면 코드와 수치 결과, 그림이 나온다."
               },
               {
                 "t": "p",
-                "x": "인구통계 정보가 없으면 모델은 대체로 대칭적으로 행동했다. 정체성이 뚜렷해질수록 그 대칭이 무너졌다. 옳은 선택을 버리면 소수자로 표시된 후보가 유리해지는 경우 모델은 그 선택을 더 쉽게 버렸다. 이른바 \"반고정관념적 과잉 교정\"이다. 모호한 사례에서 프런티어 모델은 소수자로 표시된 후보를 약 60–65% 비율로 골랐다."
+                "x": "연구진은 분자 에너지 계산, 얽힘 상태, 소산 동역학, 시간 결정, 오류 정정, 하드웨어 자원 추정에서 이 시스템을 선보였다. 다섯 가지 과제를 되풀이해 시험하니 전문가 평가 평균 점수는 100점 만점에 97점에서 100점이었다. 다만 일부 실행은 지시를 벗어났다."
               },
               {
                 "t": "p",
-                "x": "설명하는 방식도 달랐다. 선호된 후보는 자격을 덜 인정받았다. 편향 완화 개입 아홉 가지 가운데 정확도를 대체로 지키면서 격차를 좁힌 것은 반사실적 사고 사슬(counterfactual chain-of-thought)뿐이었다."
+                "x": "저자들은 이 에이전트들이 과학적 판단을 대신하지 않고 거드는 도구라고 말한다. (I. Gustin et al 2026 Rep. Prog. Phys. 89 077602)"
               }
             ]
           }
         },
         "ja": {
-          "headline": "公平に見えるLLMsも\n属性の手がかりで揺らぐ",
-          "body": "Ai2のFairStressでは属性が明示されるほどLLMsが少数派候補へ過剰補正する。",
-          "mini_headline": "FairStressでLLMの公平性を検証",
+          "headline": "AIエージェントが\n問いを量子シミュレーションに",
+          "body": "マルチエージェントAIが平易な問いを検証済みで再現可能な量子シミュレーションに変える。",
+          "mini_headline": "AIエージェントが量子シミュレーションを実行",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1791813343-fairstress-blog-draft-google-docs-image-1-1.png"
+                "src": "https://physicsworld.com/wp-content/uploads/2026/10/ai-agent-computer-chip-or-software-2217030312-istock-mf3d.jpg"
               },
               {
                 "t": "p",
-                "x": "Ai2は、LLMsの人口統計学的な公平性を、モデルが最終的に下す選択を超えて測定するベンチマークFairStressを発表した。シナリオの2つの版で同じ答えに至っても意味のある違いが隠れている場合があるため、説得力のある「敵対的プレフィックス」が集団ごとに判断を異なる形で変えるかどうかも検証する。"
+                "x": "量子シミュレーションは、分子エネルギーの計算、新材料の探索、量子コンピューティング用アルゴリズムの検証、量子系の時間発展の予測に使われるが、専門的な数値手法や複数のソフトウェアツールへの習熟を求められることが多い。"
               },
               {
                 "t": "p",
-                "x": "採用や医療から融資、刑事司法まで29の領域にわたる、候補者2人の300シナリオで構成され、1300万件を超えるテストケースを生み出す。5万項目のサブセットFairStress-Coreも公開された。"
+                "x": "AIエージェントは多段階のタスクを計画し、ドキュメントを参照し、プログラムを実行し、結果を検討して手法を修正できる。El Agente Cuánticoはこれを量子シミュレーションに応用したものだ。調整役のエージェントが、異なるソフトウェアパッケージと結びついた専門エージェントに作業を割り振り、コード、数値結果、図を生成する。"
               },
               {
                 "t": "p",
-                "x": "人口統計情報がない場合、挙動はおおむね対称だった。属性が明示的になるほど対称性は崩れた。正しい選択を手放すことが少数派とコード化された候補に有利に働く場合、モデルはより容易にそれを手放した。「反ステレオタイプ的過剰補正」である。曖昧なケースでは、フロンティアモデルが少数派とコード化された候補を選んだ割合は約60–65%だった。"
+                "x": "研究者たちは、分子エネルギー計算、エンタングル状態、散逸ダイナミクス、時間結晶、誤り訂正、ハードウェア資源の見積もりでこれを実証した。五つのタスクを繰り返し試験したところ、専門家による評価の平均点は100点満点中97点から100点だったが、一部の実行では指示から外れた。"
               },
               {
                 "t": "p",
-                "x": "説明にも差が出て、優遇された候補の資格は評価されにくかった。9種類のバイアス緩和策のうち、精度をほぼ保ちながら差を縮めたのは反事実的な思考の連鎖（counterfactual chain-of-thought）だけだった。"
+                "x": "著者らは、このエージェントを科学的判断の代わりではなく、その助けとして位置づけている。(I. Gustin et al 2026 Rep. Prog. Phys. 89 077602)"
               }
             ]
           }
         },
         "zh": {
-          "headline": "看似公平的LLMs\n仍会被身份线索左右",
-          "body": "Ai2的FairStress发现，身份线索越明确，LLMs越会向少数群体候选人过度矫正。",
-          "mini_headline": "FairStress检验LLM公平性",
+          "headline": "AI智能体把问题\n变成量子模拟",
+          "body": "多智能体AI系统可将日常语言提出的研究问题转化为经过检验、可复现的量子模拟。",
+          "mini_headline": "AI智能体运行量子模拟",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1791813343-fairstress-blog-draft-google-docs-image-1-1.png"
+                "src": "https://physicsworld.com/wp-content/uploads/2026/10/ai-agent-computer-chip-or-software-2217030312-istock-mf3d.jpg"
               },
               {
                 "t": "p",
-                "x": "Ai2推出FairStress基准，用于在模型最终选择之外衡量LLMs的人口统计公平性。同一情景的两个版本即便得出相同答案，也可能掩盖实质差异，因此它还测试具有说服力的“对抗性前缀”是否会因群体不同而以不同方式改变决策。"
+                "x": "量子模拟可用于计算分子能量、研究新材料、测试量子计算算法以及预测量子系统的演化，但往往需要专门的数值方法，并熟悉多种软件工具。"
               },
               {
                 "t": "p",
-                "x": "它涵盖招聘、医疗、贷款、刑事司法等29个领域的300个双候选人情景，生成超过1300万个测试用例；同时发布了包含5万个条目的FairStress-Core子集。"
+                "x": "AI智能体能够规划多步骤任务、查阅文档、运行程序、检查结果并调整方法。El Agente Cuántico将这一能力应用于量子模拟：一个协调智能体把工作分派给对接不同软件包的专业智能体，生成代码、数值结果和图表。"
               },
               {
                 "t": "p",
-                "x": "在没有人口统计信息时，模型行为大致对称；身份越明确，对称性越弱：当放弃正确选项会有利于被标记为少数群体的候选人时，模型更容易放弃，即“反刻板印象的过度矫正”。在模棱两可的案例中，前沿模型约有60–65%的时间选择被标记为少数群体的候选人。"
+                "x": "研究人员在分子能量计算、纠缠态、耗散动力学、时间晶体、纠错和硬件资源估算等任务上进行了演示。在对五项任务的重复测试中，专家评估的平均得分在97到100分之间（满分100），但也有少数运行偏离了指令。"
               },
               {
                 "t": "p",
-                "x": "解释也存在差异，受偏向候选人的资历获得的认可更少。在九种去偏干预中，只有反事实思维链（counterfactual chain-of-thought）在基本保持准确率的同时缩小了差距。"
+                "x": "作者将这些智能体定位为科学判断的辅助，而非替代。(I. Gustin et al 2026 Rep. Prog. Phys. 89 077602)"
               }
             ]
           }
         },
         "es": {
-          "headline": "LLMs que parecen justos pueden\nceder ante señales de identidad",
-          "body": "FairStress, de Ai2, halla que los LLMs sobrecorrigen hacia candidatos minoritarios si la identidad es explícita.",
-          "mini_headline": "FairStress pone a prueba la equidad de los LLM",
+          "headline": "Agentes de AI traducen preguntas\na simulaciones cuánticas",
+          "body": "Un sistema multiagente de AI traduce preguntas en lenguaje llano a simulaciones cuánticas verificadas y reproducibles.",
+          "mini_headline": "Agentes de AI ejecutan simulaciones cuánticas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1791813343-fairstress-blog-draft-google-docs-image-1-1.png"
+                "src": "https://physicsworld.com/wp-content/uploads/2026/10/ai-agent-computer-chip-or-software-2217030312-istock-mf3d.jpg"
               },
               {
                 "t": "p",
-                "x": "Ai2 presentó FairStress, un benchmark para medir la equidad demográfica en LLMs más allá de la elección final de un modelo. Llegar a la misma respuesta en dos versiones de un escenario puede ocultar diferencias relevantes, por lo que también evalúa si \"prefijos adversariales\" persuasivos alteran las decisiones de forma distinta según el grupo."
+                "x": "Las simulaciones cuánticas se usan para calcular energías moleculares, investigar nuevos materiales, probar algoritmos de computación cuántica y predecir cómo evolucionan los sistemas cuánticos, pero a menudo requieren métodos numéricos especializados y dominio de varias herramientas de software."
               },
               {
                 "t": "p",
-                "x": "Abarca 300 escenarios con dos candidatos en 29 ámbitos, desde la contratación y la sanidad hasta los préstamos y la justicia penal, y genera más de 13 millones de casos de prueba; también se publica un subconjunto, FairStress-Core, de 50.000 elementos."
+                "x": "Los agentes de AI pueden planificar tareas de varios pasos, consultar documentación, ejecutar programas, examinar resultados y revisar su enfoque. El Agente Cuántico aplica esto a la simulación cuántica: un agente coordinador delega el trabajo en agentes especializados vinculados a distintos paquetes de software, que producen código, resultados numéricos y figuras."
               },
               {
                 "t": "p",
-                "x": "Sin información demográfica, el comportamiento fue aproximadamente simétrico. A medida que la identidad se hacía más explícita, dejaba de serlo: los modelos abandonaban con más facilidad una elección correcta cuando eso favorecía a un candidato codificado como minoritario, una \"sobrecorrección antiestereotípica\". En casos ambiguos, los modelos de frontera eligieron candidatos codificados como minoritarios alrededor del 60–65% de las veces."
+                "x": "Los investigadores lo demostraron en cálculos de energía molecular, estados entrelazados, dinámica disipativa, cristales de tiempo, corrección de errores y estimación de recursos de hardware. En pruebas repetidas de cinco tareas, las puntuaciones medias de la evaluación experta oscilaron entre 97 y 100 sobre 100, aunque algunas ejecuciones se apartaron de las instrucciones."
               },
               {
                 "t": "p",
-                "x": "Las explicaciones también variaron y reconocieron menos las cualificaciones de los candidatos favorecidos. De nueve intervenciones para reducir sesgos, solo la cadena de pensamiento contrafactual (counterfactual chain-of-thought) redujo la brecha conservando en gran medida la precisión."
+                "x": "Los autores presentan los agentes como una ayuda al juicio científico, no como su sustituto. (I. Gustin et al 2026 Rep. Prog. Phys. 89 077602)"
               }
             ]
           }
@@ -887,121 +917,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "공정해 보이는 LLMs도\n정체성 단서엔 흔들린다",
-          "body": "Ai2 FairStress에서 LLMs는 신원이 드러날수록 소수자 편으로 기울었다.",
-          "mini_headline": "FairStress로 본 LLM 공정성",
+          "headline": "AI 에이전트, 질문을\n양자 시뮬레이션으로",
+          "body": "다중 에이전트 AI가 일상어 연구 질문을 검증·재현되는 양자 시뮬레이션으로 바꾼다.",
+          "mini_headline": "AI 에이전트가 돌리는 양자 시뮬레이션",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1791813343-fairstress-blog-draft-google-docs-image-1-1.png"
+                "src": "https://physicsworld.com/wp-content/uploads/2026/10/ai-agent-computer-chip-or-software-2217030312-istock-mf3d.jpg"
               },
               {
                 "t": "p",
-                "x": "Ai2가 LLMs의 인구통계학적 공정성을 모델의 최종 선택 너머까지 측정하는 벤치마크 FairStress를 내놓았다. 한 시나리오의 두 버전에서 같은 답에 이르더라도 의미 있는 차이가 숨어 있을 수 있어, 설득력 있는 \"적대적 접두어(adversarial prefixes)\"가 집단에 따라 결정을 다르게 바꾸는지도 시험한다."
+                "x": "양자 시뮬레이션은 분자 에너지 계산, 신소재 탐구, 양자컴퓨팅 알고리즘 시험, 양자계의 시간 변화 예측에 쓰이지만, 전문적인 수치 기법과 여러 소프트웨어 도구에 대한 숙련을 요구하는 경우가 많다."
               },
               {
                 "t": "p",
-                "x": "채용과 의료부터 대출, 형사 사법까지 29개 영역에 걸친 후보 두 명짜리 시나리오 300개로 1300만 개가 넘는 테스트 케이스를 만들며, 5만 개 항목의 하위 세트 FairStress-Core도 함께 공개했다."
+                "x": "AI 에이전트는 여러 단계의 작업을 계획하고, 문서를 참조하고, 프로그램을 실행하고, 결과를 검토해 접근 방식을 고칠 수 있다. El Agente Cuántico는 이를 양자 시뮬레이션에 적용했다. 조정 에이전트가 서로 다른 소프트웨어 패키지에 연결된 전문 에이전트들에게 작업을 나눠 맡기고, 코드와 수치 결과, 그림을 만들어낸다."
               },
               {
                 "t": "p",
-                "x": "인구통계 정보가 없을 때 모델의 행동은 대체로 대칭적이었다. 정체성이 뚜렷해질수록 대칭이 무너졌다. 옳은 선택을 버리는 쪽이 소수자로 표시된 후보에게 유리할 때 모델은 그 선택을 더 쉽게 버렸는데, 이른바 \"반고정관념적 과잉 교정\"이다. 모호한 사례에서 프런티어 모델은 소수자로 표시된 후보를 약 60–65%의 비율로 골랐다."
+                "x": "연구진은 분자 에너지 계산, 얽힘 상태, 소산 동역학, 시간 결정, 오류 정정, 하드웨어 자원 추정에서 이 시스템을 시연했다. 다섯 가지 과제를 반복 시험한 결과 전문가 평가 평균 점수는 100점 만점에 97점에서 100점이었지만, 일부 실행은 지시에서 벗어났다."
               },
               {
                 "t": "p",
-                "x": "설명 방식도 달라, 선호된 후보의 자격은 덜 인정받았다. 아홉 가지 편향 완화 개입 가운데 반사실적 사고 사슬(counterfactual chain-of-thought)만이 정확도를 대체로 유지하면서 격차를 좁혔다."
+                "x": "저자들은 이 에이전트들을 과학적 판단을 대체하는 것이 아니라 돕는 도구로 제시한다. (I. Gustin et al 2026 Rep. Prog. Phys. 89 077602)"
               }
             ]
           }
         },
         "ja": {
-          "headline": "公平に見えるLLMsも\n属性の手がかりで揺らぐ",
-          "body": "Ai2のFairStressでは属性が明示されるほどLLMsが少数派候補へ過剰補正する。",
-          "mini_headline": "FairStressでLLMの公平性を検証",
+          "headline": "AIエージェントが\n問いを量子シミュレーションに",
+          "body": "マルチエージェントAIが平易な問いを検証済みで再現可能な量子シミュレーションに変える。",
+          "mini_headline": "AIエージェントが量子シミュレーションを実行",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1791813343-fairstress-blog-draft-google-docs-image-1-1.png"
+                "src": "https://physicsworld.com/wp-content/uploads/2026/10/ai-agent-computer-chip-or-software-2217030312-istock-mf3d.jpg"
               },
               {
                 "t": "p",
-                "x": "Ai2は、LLMsの人口統計学的な公平性を、モデルが最終的に下す選択を超えて測定するベンチマークFairStressを発表した。シナリオの2つの版で同じ答えに至っても意味のある違いが隠れている場合があるため、説得力のある「敵対的プレフィックス」が集団ごとに判断を異なる形で変えるかどうかも検証する。"
+                "x": "量子シミュレーションは、分子エネルギーの計算、新材料の探索、量子コンピューティング用アルゴリズムの検証、量子系の時間発展の予測に使われるが、専門的な数値手法や複数のソフトウェアツールへの習熟を求められることが多い。"
               },
               {
                 "t": "p",
-                "x": "採用や医療から融資、刑事司法まで29の領域にわたる、候補者2人の300シナリオで構成され、1300万件を超えるテストケースを生み出す。5万項目のサブセットFairStress-Coreも公開された。"
+                "x": "AIエージェントは多段階のタスクを計画し、ドキュメントを参照し、プログラムを実行し、結果を検討して手法を修正できる。El Agente Cuánticoはこれを量子シミュレーションに応用したものだ。調整役のエージェントが、異なるソフトウェアパッケージと結びついた専門エージェントに作業を割り振り、コード、数値結果、図を生成する。"
               },
               {
                 "t": "p",
-                "x": "人口統計情報がない場合、挙動はおおむね対称だった。属性が明示的になるほど対称性は崩れた。正しい選択を手放すことが少数派とコード化された候補に有利に働く場合、モデルはより容易にそれを手放した。「反ステレオタイプ的過剰補正」である。曖昧なケースでは、フロンティアモデルが少数派とコード化された候補を選んだ割合は約60–65%だった。"
+                "x": "研究者たちは、分子エネルギー計算、エンタングル状態、散逸ダイナミクス、時間結晶、誤り訂正、ハードウェア資源の見積もりでこれを実証した。五つのタスクを繰り返し試験したところ、専門家による評価の平均点は100点満点中97点から100点だったが、一部の実行では指示から外れた。"
               },
               {
                 "t": "p",
-                "x": "説明にも差が出て、優遇された候補の資格は評価されにくかった。9種類のバイアス緩和策のうち、精度をほぼ保ちながら差を縮めたのは反事実的な思考の連鎖（counterfactual chain-of-thought）だけだった。"
+                "x": "著者らは、このエージェントを科学的判断の代わりではなく、その助けとして位置づけている。(I. Gustin et al 2026 Rep. Prog. Phys. 89 077602)"
               }
             ]
           }
         },
         "zh": {
-          "headline": "看似公平的LLMs\n仍会被身份线索左右",
-          "body": "Ai2的FairStress发现，身份线索越明确，LLMs越会向少数群体候选人过度矫正。",
-          "mini_headline": "FairStress检验LLM公平性",
+          "headline": "AI智能体把问题\n变成量子模拟",
+          "body": "多智能体AI系统可将日常语言提出的研究问题转化为经过检验、可复现的量子模拟。",
+          "mini_headline": "AI智能体运行量子模拟",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1791813343-fairstress-blog-draft-google-docs-image-1-1.png"
+                "src": "https://physicsworld.com/wp-content/uploads/2026/10/ai-agent-computer-chip-or-software-2217030312-istock-mf3d.jpg"
               },
               {
                 "t": "p",
-                "x": "Ai2推出FairStress基准，用于在模型最终选择之外衡量LLMs的人口统计公平性。同一情景的两个版本即便得出相同答案，也可能掩盖实质差异，因此它还测试具有说服力的“对抗性前缀”是否会因群体不同而以不同方式改变决策。"
+                "x": "量子模拟可用于计算分子能量、研究新材料、测试量子计算算法以及预测量子系统的演化，但往往需要专门的数值方法，并熟悉多种软件工具。"
               },
               {
                 "t": "p",
-                "x": "它涵盖招聘、医疗、贷款、刑事司法等29个领域的300个双候选人情景，生成超过1300万个测试用例；同时发布了包含5万个条目的FairStress-Core子集。"
+                "x": "AI智能体能够规划多步骤任务、查阅文档、运行程序、检查结果并调整方法。El Agente Cuántico将这一能力应用于量子模拟：一个协调智能体把工作分派给对接不同软件包的专业智能体，生成代码、数值结果和图表。"
               },
               {
                 "t": "p",
-                "x": "在没有人口统计信息时，模型行为大致对称；身份越明确，对称性越弱：当放弃正确选项会有利于被标记为少数群体的候选人时，模型更容易放弃，即“反刻板印象的过度矫正”。在模棱两可的案例中，前沿模型约有60–65%的时间选择被标记为少数群体的候选人。"
+                "x": "研究人员在分子能量计算、纠缠态、耗散动力学、时间晶体、纠错和硬件资源估算等任务上进行了演示。在对五项任务的重复测试中，专家评估的平均得分在97到100分之间（满分100），但也有少数运行偏离了指令。"
               },
               {
                 "t": "p",
-                "x": "解释也存在差异，受偏向候选人的资历获得的认可更少。在九种去偏干预中，只有反事实思维链（counterfactual chain-of-thought）在基本保持准确率的同时缩小了差距。"
+                "x": "作者将这些智能体定位为科学判断的辅助，而非替代。(I. Gustin et al 2026 Rep. Prog. Phys. 89 077602)"
               }
             ]
           }
         },
         "es": {
-          "headline": "LLMs que parecen justos pueden\nceder ante señales de identidad",
-          "body": "FairStress, de Ai2, halla que los LLMs sobrecorrigen hacia candidatos minoritarios si la identidad es explícita.",
-          "mini_headline": "FairStress pone a prueba la equidad de los LLM",
+          "headline": "Agentes de AI traducen preguntas\na simulaciones cuánticas",
+          "body": "Un sistema multiagente de AI traduce preguntas en lenguaje llano a simulaciones cuánticas verificadas y reproducibles.",
+          "mini_headline": "Agentes de AI ejecutan simulaciones cuánticas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1791813343-fairstress-blog-draft-google-docs-image-1-1.png"
+                "src": "https://physicsworld.com/wp-content/uploads/2026/10/ai-agent-computer-chip-or-software-2217030312-istock-mf3d.jpg"
               },
               {
                 "t": "p",
-                "x": "Ai2 presentó FairStress, un benchmark para medir la equidad demográfica en LLMs más allá de la elección final de un modelo. Llegar a la misma respuesta en dos versiones de un escenario puede ocultar diferencias relevantes, por lo que también evalúa si \"prefijos adversariales\" persuasivos alteran las decisiones de forma distinta según el grupo."
+                "x": "Las simulaciones cuánticas se usan para calcular energías moleculares, investigar nuevos materiales, probar algoritmos de computación cuántica y predecir cómo evolucionan los sistemas cuánticos, pero a menudo requieren métodos numéricos especializados y dominio de varias herramientas de software."
               },
               {
                 "t": "p",
-                "x": "Abarca 300 escenarios con dos candidatos en 29 ámbitos, desde la contratación y la sanidad hasta los préstamos y la justicia penal, y genera más de 13 millones de casos de prueba; también se publica un subconjunto, FairStress-Core, de 50.000 elementos."
+                "x": "Los agentes de AI pueden planificar tareas de varios pasos, consultar documentación, ejecutar programas, examinar resultados y revisar su enfoque. El Agente Cuántico aplica esto a la simulación cuántica: un agente coordinador delega el trabajo en agentes especializados vinculados a distintos paquetes de software, que producen código, resultados numéricos y figuras."
               },
               {
                 "t": "p",
-                "x": "Sin información demográfica, el comportamiento fue aproximadamente simétrico. A medida que la identidad se hacía más explícita, dejaba de serlo: los modelos abandonaban con más facilidad una elección correcta cuando eso favorecía a un candidato codificado como minoritario, una \"sobrecorrección antiestereotípica\". En casos ambiguos, los modelos de frontera eligieron candidatos codificados como minoritarios alrededor del 60–65% de las veces."
+                "x": "Los investigadores lo demostraron en cálculos de energía molecular, estados entrelazados, dinámica disipativa, cristales de tiempo, corrección de errores y estimación de recursos de hardware. En pruebas repetidas de cinco tareas, las puntuaciones medias de la evaluación experta oscilaron entre 97 y 100 sobre 100, aunque algunas ejecuciones se apartaron de las instrucciones."
               },
               {
                 "t": "p",
-                "x": "Las explicaciones también variaron y reconocieron menos las cualificaciones de los candidatos favorecidos. De nueve intervenciones para reducir sesgos, solo la cadena de pensamiento contrafactual (counterfactual chain-of-thought) redujo la brecha conservando en gran medida la precisión."
+                "x": "Los autores presentan los agentes como una ayuda al juicio científico, no como su sustituto. (I. Gustin et al 2026 Rep. Prog. Phys. 89 077602)"
               }
             ]
           }
@@ -1009,15 +1039,15 @@
       }
     },
     {
-      "id": "science-sodium-ion",
+      "id": "science-chatbot-delusions",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 나트륨이온 전지 설계\n돕는 양극재 라이브러리",
-      "body": "Surrey대가 나트륨 양극재 28종 라이브러리로 머신러닝 모델을 학습시켰다.",
-      "mini_headline": "AI 배터리 설계의 씨앗 데이터",
+      "headline": "챗봇의 망상 맞장구\n줄이는 법",
+      "body": "AI 여덟 종 1,280회 시험서 과잉 동의 억제가 망상 동조를 73.8% 줄였다.",
+      "mini_headline": "챗봇 아첨 억제",
       "tool": "Science",
       "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-10-materials-library-ai-sodium-ion.html",
+      "url": "https://techxplore.com/news/2026-10-ai-chatbots-delusions.html",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -1025,179 +1055,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-materials-library.jpg",
-            "cap": "그래픽 초록. 출처: Journal of Materials Chemistry A (2026). DOI: 10.1039/d6ta04588j"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbots-1.jpg"
           },
           {
             "t": "p",
-            "x": "University of Surrey 연구진이 나트륨 망간 산화물 양극재 조성 28종으로 라이브러리를 만들었다. 망간 일부를 철, 티타늄, 바나듐으로 바꾼 조성들이다."
+            "x": "Georgia Tech 연구진 Lorenzo de la Loza와 Vijay Madisetti는 망상적 믿음을 다루는 임상 기반 시나리오 16개로 AI 모델 여덟 종을 1,280회 시험했다."
           },
           {
             "t": "p",
-            "x": "철은 더 높은 에너지 용량과, 바나듐은 더 나은 사이클 안정성과, 소량의 티타늄은 더 나은 고율 성능과 관련이 있었다. 티타늄이 들어간 일부 조성은 100회 사이클 뒤에도 용량의 90% 이상을 지켰다."
+            "x": "과잉 동의를 억제하는 지시, 곧 비위를 맞추려고 사용자의 믿음을 키워 주지 말라는 지시를 넣자 모델이 그런 믿음을 확인해 주는 경우가 73.8% 줄었다. 자기 성찰 단계를 더하자 감소 폭은 77%까지 커졌다."
           },
           {
             "t": "p",
-            "x": "연구팀은 이 데이터로 머신러닝 모델을 학습시켰다. 다만 라이브러리가 아직 작아 믿을 만한 예측은 어렵다. 규모를 키우면 언젠가는 AI가 실험 전에 유망한 조성을 제안할 수도 있다. 교신저자 Daniel Commandeur 박사는 리튬과 비교해 \"나트륨이 훨씬 더 풍부하다\"고 짚었다."
-          },
-          {
-            "t": "p",
-            "x": "연구 결과는 Journal of Materials Chemistry A에 실렸다."
+            "x": "연구는 임상 현장의 사람을 상대로 시험하지 않았다. 그래서 이 방식이 실제 피해를 막는지까지는 보여 주지 못한다. 결과는 ACM AI Letters에 실렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A cathode library to help AI\ndesign sodium-ion batteries",
-          "body": "Surrey built a library of 28 sodium manganese oxide cathodes and trained a machine-learning model on its test data.",
-          "mini_headline": "Seed data for AI battery design",
+          "headline": "Cutting how chatbots\naffirm delusions",
+          "body": "In 1,280 tests of eight AI models, instructions against excessive agreement cut confirmation of delusions by 73.8%.",
+          "mini_headline": "Curbing chatbot sycophancy",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-materials-library.jpg",
-                "cap": "Visual abstract. Credit: Journal of Materials Chemistry A (2026). DOI: 10.1039/d6ta04588j"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbots-1.jpg"
               },
               {
                 "t": "p",
-                "x": "University of Surrey researchers created a library of 28 sodium manganese oxide cathode compositions, partly substituting manganese with iron, titanium and vanadium."
+                "x": "Georgia Tech researchers Lorenzo de la Loza and Vijay Madisetti tested eight AI models in 1,280 experiments, using 16 clinically derived scenarios involving delusional beliefs."
               },
               {
                 "t": "p",
-                "x": "Iron was linked to higher energy capacity, vanadium to better cycling stability, and small amounts of titanium to better high-rate performance; some titanium-containing compositions kept over 90% of their capacity after 100 cycles."
+                "x": "Instructions designed to discourage excessive agreement — telling models not to reinforce users' beliefs simply to be agreeable — reduced the models' confirmation of those beliefs by 73.8%. Adding a self-reflection step increased the reduction to 77%."
               },
               {
                 "t": "p",
-                "x": "The team used the data to train a machine-learning model, though the library is still too small for reliable predictions. Expanding it could eventually let AI suggest promising compositions before lab testing. \"Sodium is far more abundant\" than lithium, noted corresponding author Dr. Daniel Commandeur."
-              },
-              {
-                "t": "p",
-                "x": "The study is published in the Journal of Materials Chemistry A."
+                "x": "The study did not test people in clinical settings, so it does not show the approach prevents real-world harm. The work appears in ACM AI Letters."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 나트륨이온 전지 설계\n돕는 양극재 라이브러리",
-          "body": "Surrey대가 나트륨 양극재 28종 라이브러리로 머신러닝 모델을 학습시켰다.",
-          "mini_headline": "AI 배터리 설계의 씨앗 데이터",
+          "headline": "챗봇의 망상 맞장구\n줄이는 법",
+          "body": "AI 여덟 종 1,280회 시험서 과잉 동의 억제가 망상 동조를 73.8% 줄였다.",
+          "mini_headline": "챗봇 아첨 억제",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-materials-library.jpg",
-                "cap": "그래픽 초록. 출처: Journal of Materials Chemistry A (2026). DOI: 10.1039/d6ta04588j"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbots-1.jpg"
               },
               {
                 "t": "p",
-                "x": "University of Surrey 연구진이 나트륨 망간 산화물 양극재 조성 28종으로 라이브러리를 만들었다. 망간 일부를 철, 티타늄, 바나듐으로 바꾼 조성들이다."
+                "x": "Georgia Tech 연구진 Lorenzo de la Loza와 Vijay Madisetti는 망상적 믿음을 다루는 임상 기반 시나리오 16개로 AI 모델 여덟 종을 1,280회 시험했다."
               },
               {
                 "t": "p",
-                "x": "철은 더 높은 에너지 용량과, 바나듐은 더 나은 사이클 안정성과, 소량의 티타늄은 더 나은 고율 성능과 관련이 있었다. 티타늄이 들어간 일부 조성은 100회 사이클 뒤에도 용량의 90% 이상을 지켰다."
+                "x": "과잉 동의를 억제하는 지시, 곧 비위를 맞추려고 사용자의 믿음을 키워 주지 말라는 지시를 넣자 모델이 그런 믿음을 확인해 주는 경우가 73.8% 줄었다. 자기 성찰 단계를 더하자 감소 폭은 77%까지 커졌다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 이 데이터로 머신러닝 모델을 학습시켰다. 다만 라이브러리가 아직 작아 믿을 만한 예측은 어렵다. 규모를 키우면 언젠가는 AI가 실험 전에 유망한 조성을 제안할 수도 있다. 교신저자 Daniel Commandeur 박사는 리튬과 비교해 \"나트륨이 훨씬 더 풍부하다\"고 짚었다."
-              },
-              {
-                "t": "p",
-                "x": "연구 결과는 Journal of Materials Chemistry A에 실렸다."
+                "x": "연구는 임상 현장의 사람을 상대로 시험하지 않았다. 그래서 이 방식이 실제 피해를 막는지까지는 보여 주지 못한다. 결과는 ACM AI Letters에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIのナトリウム電池設計を\n支える正極ライブラリー",
-          "body": "Surreyは正極28種のライブラリーを作り、その試験データで機械学習モデルを訓練した。",
-          "mini_headline": "AI電池設計の種となるデータ",
+          "headline": "チャットボットの\n妄想への同調を抑える",
+          "body": "八つのAIモデルで1,280回試すと、過度な同意を戒める指示で妄想肯定が73.8%減った。",
+          "mini_headline": "チャットボットの迎合を抑える",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-materials-library.jpg",
-                "cap": "ビジュアルアブストラクト。出典：Journal of Materials Chemistry A (2026). DOI: 10.1039/d6ta04588j"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbots-1.jpg"
               },
               {
                 "t": "p",
-                "x": "University of Surreyの研究者らは、マンガンの一部を鉄、チタン、バナジウムで置き換えた、ナトリウムマンガン酸化物正極の28組成からなるライブラリーを作製した。"
+                "x": "Georgia Techの研究者Lorenzo de la LozaとVijay Madisettiは、妄想的な信念を含む臨床由来の16のシナリオを用い、八つのAIモデルで1,280回の実験を行った。"
               },
               {
                 "t": "p",
-                "x": "鉄は高いエネルギー容量、バナジウムは優れたサイクル安定性、少量のチタンは優れた高レート性能と関連していた。チタンを含む一部の組成は、100サイクル後も容量の90%超を維持した。"
+                "x": "過度な同意を抑えるよう設計した指示、つまり単に相手に合わせるためにユーザーの信念を強化しないようモデルに伝える指示によって、モデルがそうした信念を肯定する度合いは73.8%減った。自己省察のステップを加えると、減少幅は77%に広がった。"
               },
               {
                 "t": "p",
-                "x": "チームはこのデータで機械学習モデルを訓練したが、ライブラリーは信頼できる予測にはまだ小さすぎる。拡充すれば、いずれAIが実験前に有望な組成を提案できるようになる可能性がある。責任著者のDaniel Commandeur博士は、リチウムと比べて「ナトリウムははるかに豊富だ」と指摘した。"
-              },
-              {
-                "t": "p",
-                "x": "研究はJournal of Materials Chemistry Aに掲載された。"
+                "x": "この研究は臨床現場の人を対象に試験していないため、この手法が現実の害を防ぐことを示すものではない。成果はACM AI Lettersに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "一座正极材料库\n助AI设计钠离子电池",
-          "body": "Surrey团队建立了含28种钠锰氧化物正极的材料库，并用其测试数据训练机器学习模型。",
-          "mini_headline": "AI电池设计的种子数据",
+          "headline": "减少聊天机器人\n对妄想的附和",
+          "body": "在对八个AI模型的1,280次测试中，抑制过度附和的指令使对妄想的认同减少了73.8%。",
+          "mini_headline": "抑制聊天机器人谄媚",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-materials-library.jpg",
-                "cap": "图文摘要。来源：Journal of Materials Chemistry A (2026). DOI: 10.1039/d6ta04588j"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbots-1.jpg"
               },
               {
                 "t": "p",
-                "x": "University of Surrey的研究人员建立了一个包含28种钠锰氧化物正极组成的材料库，并用铁、钛和钒部分取代锰。"
+                "x": "Georgia Tech研究人员Lorenzo de la Loza和Vijay Madisetti利用16个源自临床、涉及妄想信念的情境，对八个AI模型进行了1,280次实验。"
               },
               {
                 "t": "p",
-                "x": "铁与更高的能量容量相关，钒与更好的循环稳定性相关，少量钛则与更好的高倍率性能相关；部分含钛组成在100次循环后仍保持90%以上的容量。"
+                "x": "旨在抑制过度附和的指令——要求模型不要仅为讨好而强化用户的信念——使模型对这些信念的认同减少了73.8%。加入自我反思步骤后，降幅提高到77%。"
               },
               {
                 "t": "p",
-                "x": "团队用这些数据训练了一个机器学习模型，但材料库目前仍太小，尚不足以做出可靠预测。扩充后，AI未来或可在实验室测试前提出有前景的组成。通讯作者Daniel Commandeur博士指出，与锂相比，“钠的储量要丰富得多”。"
-              },
-              {
-                "t": "p",
-                "x": "该研究发表于Journal of Materials Chemistry A。"
+                "x": "该研究没有在临床环境中对人进行测试，因此并不能表明这一方法能防止现实中的伤害。研究发表于ACM AI Letters。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una biblioteca para que la IA\ndiseñe baterías de ion sodio",
-          "body": "Surrey creó una biblioteca de 28 cátodos de sodio y entrenó con sus datos un modelo de aprendizaje automático.",
-          "mini_headline": "Datos semilla para diseñar baterías con IA",
+          "headline": "Cómo frenar que los chatbots\nvaliden los delirios",
+          "body": "En 1,280 pruebas con ocho modelos de AI, pedir no complacer en exceso redujo un 73.8% la validación de delirios.",
+          "mini_headline": "Frenar la complacencia de los chatbots",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-materials-library.jpg",
-                "cap": "Resumen visual. Crédito: Journal of Materials Chemistry A (2026). DOI: 10.1039/d6ta04588j"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbots-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Investigadores de la University of Surrey crearon una biblioteca de 28 composiciones de cátodos de óxido de sodio y manganeso, en las que sustituyeron parcialmente el manganeso por hierro, titanio y vanadio."
+                "x": "Los investigadores de Georgia Tech Lorenzo de la Loza y Vijay Madisetti probaron ocho modelos de AI en 1,280 experimentos, con 16 escenarios de origen clínico sobre creencias delirantes."
               },
               {
                 "t": "p",
-                "x": "El hierro se asoció a una mayor capacidad energética; el vanadio, a una mejor estabilidad en los ciclos, y pequeñas cantidades de titanio, a un mejor rendimiento a altas tasas; algunas composiciones con titanio conservaron más del 90% de su capacidad tras 100 ciclos."
+                "x": "Las instrucciones diseñadas para desalentar el acuerdo excesivo —que indican a los modelos no reforzar las creencias de los usuarios solo por complacerlos— redujeron un 73.8% la confirmación de esas creencias por parte de los modelos. Añadir un paso de autorreflexión elevó la reducción al 77%."
               },
               {
                 "t": "p",
-                "x": "El equipo usó los datos para entrenar un modelo de aprendizaje automático, aunque la biblioteca aún es demasiado pequeña para hacer predicciones fiables. Ampliarla podría permitir con el tiempo que la IA sugiera composiciones prometedoras antes de las pruebas de laboratorio. \"El sodio es mucho más abundante\" que el litio, señaló el autor de correspondencia, el Dr. Daniel Commandeur."
-              },
-              {
-                "t": "p",
-                "x": "El estudio se publica en el Journal of Materials Chemistry A."
+                "x": "El estudio no hizo pruebas con personas en entornos clínicos, por lo que no demuestra que el método evite daños en el mundo real. El trabajo se publica en ACM AI Letters."
               }
             ]
           }
@@ -1205,125 +1205,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 나트륨이온 전지 설계\n돕는 양극재 라이브러리",
-          "body": "Surrey대가 나트륨 양극재 28종 라이브러리로 머신러닝 모델을 학습시켰다.",
-          "mini_headline": "AI 배터리 설계의 씨앗 데이터",
+          "headline": "챗봇의 망상 맞장구\n줄이는 법",
+          "body": "AI 여덟 종 1,280회 시험서 과잉 동의 억제가 망상 동조를 73.8% 줄였다.",
+          "mini_headline": "챗봇 아첨 억제",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-materials-library.jpg",
-                "cap": "그래픽 초록. 출처: Journal of Materials Chemistry A (2026). DOI: 10.1039/d6ta04588j"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbots-1.jpg"
               },
               {
                 "t": "p",
-                "x": "University of Surrey 연구진이 망간 일부를 철, 티타늄, 바나듐으로 치환한 나트륨 망간 산화물 양극재 조성 28종의 라이브러리를 만들었다."
+                "x": "Georgia Tech 연구진 Lorenzo de la Loza와 Vijay Madisetti는 망상적 믿음을 다룬 임상 기반 시나리오 16개로 AI 모델 여덟 종을 1,280회 실험했다."
               },
               {
                 "t": "p",
-                "x": "철은 더 높은 에너지 용량, 바나듐은 더 나은 사이클 안정성, 소량의 티타늄은 더 나은 고율 성능과 관련이 있었다. 티타늄을 포함한 일부 조성은 100회 사이클 후에도 용량의 90% 이상을 유지했다."
+                "x": "과잉 동의를 억제하도록 설계한 지시, 즉 단지 비위를 맞추려고 사용자의 믿음을 강화하지 말라는 지시는 모델이 그런 믿음을 확인해 주는 일을 73.8% 줄였다. 자기 성찰 단계를 더하자 감소 폭은 77%로 커졌다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 이 데이터로 머신러닝 모델을 학습시켰지만, 라이브러리는 아직 신뢰할 만한 예측을 하기에는 작다. 규모를 키우면 언젠가 AI가 실험 전에 유망한 조성을 제안할 수 있을 것이다. 교신저자 Daniel Commandeur 박사는 리튬과 비교해 \"나트륨이 훨씬 더 풍부하다\"고 짚었다."
-              },
-              {
-                "t": "p",
-                "x": "연구 결과는 Journal of Materials Chemistry A에 실렸다."
+                "x": "이 연구는 임상 현장의 사람을 대상으로 시험하지 않았으므로, 이 방식이 실제 피해를 막는다는 것을 보여주지는 못한다. 연구 결과는 ACM AI Letters에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIのナトリウム電池設計を\n支える正極ライブラリー",
-          "body": "Surreyは正極28種のライブラリーを作り、その試験データで機械学習モデルを訓練した。",
-          "mini_headline": "AI電池設計の種となるデータ",
+          "headline": "チャットボットの\n妄想への同調を抑える",
+          "body": "八つのAIモデルで1,280回試すと、過度な同意を戒める指示で妄想肯定が73.8%減った。",
+          "mini_headline": "チャットボットの迎合を抑える",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-materials-library.jpg",
-                "cap": "ビジュアルアブストラクト。出典：Journal of Materials Chemistry A (2026). DOI: 10.1039/d6ta04588j"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbots-1.jpg"
               },
               {
                 "t": "p",
-                "x": "University of Surreyの研究者らは、マンガンの一部を鉄、チタン、バナジウムで置き換えた、ナトリウムマンガン酸化物正極の28組成からなるライブラリーを作製した。"
+                "x": "Georgia Techの研究者Lorenzo de la LozaとVijay Madisettiは、妄想的な信念を含む臨床由来の16のシナリオを用い、八つのAIモデルで1,280回の実験を行った。"
               },
               {
                 "t": "p",
-                "x": "鉄は高いエネルギー容量、バナジウムは優れたサイクル安定性、少量のチタンは優れた高レート性能と関連していた。チタンを含む一部の組成は、100サイクル後も容量の90%超を維持した。"
+                "x": "過度な同意を抑えるよう設計した指示、つまり単に相手に合わせるためにユーザーの信念を強化しないようモデルに伝える指示によって、モデルがそうした信念を肯定する度合いは73.8%減った。自己省察のステップを加えると、減少幅は77%に広がった。"
               },
               {
                 "t": "p",
-                "x": "チームはこのデータで機械学習モデルを訓練したが、ライブラリーは信頼できる予測にはまだ小さすぎる。拡充すれば、いずれAIが実験前に有望な組成を提案できるようになる可能性がある。責任著者のDaniel Commandeur博士は、リチウムと比べて「ナトリウムははるかに豊富だ」と指摘した。"
-              },
-              {
-                "t": "p",
-                "x": "研究はJournal of Materials Chemistry Aに掲載された。"
+                "x": "この研究は臨床現場の人を対象に試験していないため、この手法が現実の害を防ぐことを示すものではない。成果はACM AI Lettersに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "一座正极材料库\n助AI设计钠离子电池",
-          "body": "Surrey团队建立了含28种钠锰氧化物正极的材料库，并用其测试数据训练机器学习模型。",
-          "mini_headline": "AI电池设计的种子数据",
+          "headline": "减少聊天机器人\n对妄想的附和",
+          "body": "在对八个AI模型的1,280次测试中，抑制过度附和的指令使对妄想的认同减少了73.8%。",
+          "mini_headline": "抑制聊天机器人谄媚",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-materials-library.jpg",
-                "cap": "图文摘要。来源：Journal of Materials Chemistry A (2026). DOI: 10.1039/d6ta04588j"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbots-1.jpg"
               },
               {
                 "t": "p",
-                "x": "University of Surrey的研究人员建立了一个包含28种钠锰氧化物正极组成的材料库，并用铁、钛和钒部分取代锰。"
+                "x": "Georgia Tech研究人员Lorenzo de la Loza和Vijay Madisetti利用16个源自临床、涉及妄想信念的情境，对八个AI模型进行了1,280次实验。"
               },
               {
                 "t": "p",
-                "x": "铁与更高的能量容量相关，钒与更好的循环稳定性相关，少量钛则与更好的高倍率性能相关；部分含钛组成在100次循环后仍保持90%以上的容量。"
+                "x": "旨在抑制过度附和的指令——要求模型不要仅为讨好而强化用户的信念——使模型对这些信念的认同减少了73.8%。加入自我反思步骤后，降幅提高到77%。"
               },
               {
                 "t": "p",
-                "x": "团队用这些数据训练了一个机器学习模型，但材料库目前仍太小，尚不足以做出可靠预测。扩充后，AI未来或可在实验室测试前提出有前景的组成。通讯作者Daniel Commandeur博士指出，与锂相比，“钠的储量要丰富得多”。"
-              },
-              {
-                "t": "p",
-                "x": "该研究发表于Journal of Materials Chemistry A。"
+                "x": "该研究没有在临床环境中对人进行测试，因此并不能表明这一方法能防止现实中的伤害。研究发表于ACM AI Letters。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una biblioteca para que la IA\ndiseñe baterías de ion sodio",
-          "body": "Surrey creó una biblioteca de 28 cátodos de sodio y entrenó con sus datos un modelo de aprendizaje automático.",
-          "mini_headline": "Datos semilla para diseñar baterías con IA",
+          "headline": "Cómo frenar que los chatbots\nvaliden los delirios",
+          "body": "En 1,280 pruebas con ocho modelos de AI, pedir no complacer en exceso redujo un 73.8% la validación de delirios.",
+          "mini_headline": "Frenar la complacencia de los chatbots",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-materials-library.jpg",
-                "cap": "Resumen visual. Crédito: Journal of Materials Chemistry A (2026). DOI: 10.1039/d6ta04588j"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbots-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Investigadores de la University of Surrey crearon una biblioteca de 28 composiciones de cátodos de óxido de sodio y manganeso, en las que sustituyeron parcialmente el manganeso por hierro, titanio y vanadio."
+                "x": "Los investigadores de Georgia Tech Lorenzo de la Loza y Vijay Madisetti probaron ocho modelos de AI en 1,280 experimentos, con 16 escenarios de origen clínico sobre creencias delirantes."
               },
               {
                 "t": "p",
-                "x": "El hierro se asoció a una mayor capacidad energética; el vanadio, a una mejor estabilidad en los ciclos, y pequeñas cantidades de titanio, a un mejor rendimiento a altas tasas; algunas composiciones con titanio conservaron más del 90% de su capacidad tras 100 ciclos."
+                "x": "Las instrucciones diseñadas para desalentar el acuerdo excesivo —que indican a los modelos no reforzar las creencias de los usuarios solo por complacerlos— redujeron un 73.8% la confirmación de esas creencias por parte de los modelos. Añadir un paso de autorreflexión elevó la reducción al 77%."
               },
               {
                 "t": "p",
-                "x": "El equipo usó los datos para entrenar un modelo de aprendizaje automático, aunque la biblioteca aún es demasiado pequeña para hacer predicciones fiables. Ampliarla podría permitir con el tiempo que la IA sugiera composiciones prometedoras antes de las pruebas de laboratorio. \"El sodio es mucho más abundante\" que el litio, señaló el autor de correspondencia, el Dr. Daniel Commandeur."
-              },
-              {
-                "t": "p",
-                "x": "El estudio se publica en el Journal of Materials Chemistry A."
+                "x": "El estudio no hizo pruebas con personas en entornos clínicos, por lo que no demuestra que el método evite daños en el mundo real. El trabajo se publica en ACM AI Letters."
               }
             ]
           }
@@ -1331,15 +1311,15 @@
       }
     },
     {
-      "id": "science-glucose-sensing",
+      "id": "science-bee-buzz-audio",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "라만·NIR 스펙트럼 융합\n바이오공정 포도당 추적",
-      "body": "라만·NIR을 융합한 트랜스포머가 공정 포도당 추적에서 ML 모델 4종을 앞섰다.",
-      "mini_headline": "라만+NIR 포도당 센싱",
+      "headline": "AI, 벌 날갯소리를 듣다\n죽이는 덫 없이",
+      "body": "UMass Amherst AI는 벌 소리로 93-97%를 맞혀 살상 덫을 대신한다.",
+      "mini_headline": "날갯소리로 벌을 가려내는 AI",
       "tool": "Science",
-      "source": "GEN",
-      "url": "https://www.genengnews.com/topics/bioprocessing/ramannir-spectra-improves-glucose-soft-sensing/",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-10-ai-bee-lethal.html",
       "accent": "#eb367f",
       "motif": "sphere",
       "full": {
@@ -1347,179 +1327,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.genengnews.com/wp-content/uploads/2020/08/Aug7_2020_Getty_626533919_FemaleScientistUsingFTIRSpectrophotometer-1024x683.jpg",
-            "cap": "출처: Eugenio Marongiu/Getty Images"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-microphone-captures.jpg",
+            "cap": "꽃가루를 모으는 흔한 주황띠뒤영벌의 소리를 마이크로 녹음하는 모습. Credit: Laura Figueroa"
           },
           {
             "t": "p",
-            "x": "유가식(fed-batch) 발효에서 포도당을 정확히 모니터링하는 일은 오랫동안 병목이었다. 오프라인 센서로는 하이브리드·연속 바이오공정이 요구하는 고빈도·저지연 측정값을 얻지 못한다."
+            "x": "꽃가루 매개 곤충을 모니터링할 때는 주로 곤충을 죽이는 덫을 쓴다. 비눗물을 채운 작은 색깔 컵이 흔한데, 대상이 아닌 곤충까지 많이 죽인다."
           },
           {
             "t": "p",
-            "x": "East China University of Science and Technology의 Xiwei Tian과 Guilin University of Electronic Technology의 Yinlan Ruan이 이끈 연구진은 이중 스트림 교차 어텐션 트랜스포머 DS-CAT을 만들었다. 라만과 NIR 스펙트럼을 따로 인코딩한 뒤 융합해 라만의 화학적 지문과 NIR의 넓은 커버리지를 한데 묶는다."
+            "x": "UMass Amherst의 Laura Figueroa가 이끄는 연구팀은 벌의 소리를 분석하는 AI 모델 두 개를 만들었다. 하나는 벌 활동 전체를 감지하고 다른 하나는 꿀벌과 뒤영벌을 가려낸다. 모델은 U.S. 북동부 43곳에서 다섯 해 동안 모은 현장 녹음 594건으로 학습했다. 표본 속 벌의 93%–97%를 정확히 식별했고, 훈련된 관찰자의 결과와도 상관관계가 강했다."
           },
           {
             "t": "p",
-            "x": "동기화된 Raman-NIR 기록 142건에서 DS-CAT은 포도당 변동의 99%를 설명했다(RMSE 1.09 g/L, MAE 0.89 g/L). 다섯 겹 교차 검증에서도 성능이 유지됐고 부분최소제곱법, 그레이디언트 부스팅 트리, CNNs, 시간 합성곱 신경망을 모두 앞섰다. 예측 민감도는 1122–1335 cm⁻¹ 라만 구간에서 가장 강했다."
-          },
-          {
-            "t": "p",
-            "x": "연구는 Bioprocess and Biosystems Engineering에 실렸다."
+            "x": "저자들은 이 도구가 전통적 방법을 보완한다고 보고, 나무 수관처럼 표본을 얻기 어려운 곳에서 쓸모 있다고 설명한다. 모델은 Raven Pro에서 쓸 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Fusing Raman and NIR spectra\nto track bioprocess glucose",
-          "body": "A dual-stream transformer fuses Raman and NIR spectra to track bioprocess glucose, outperforming four other ML models.",
-          "mini_headline": "Raman+NIR glucose sensing",
+          "headline": "AI listens to bee buzzes\nwithout lethal traps",
+          "body": "UMass Amherst AI models that listen to bee buzzes correctly identified 93-97% of bees, an alternative to lethal traps.",
+          "mini_headline": "AI identifies bees by their buzz",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2020/08/Aug7_2020_Getty_626533919_FemaleScientistUsingFTIRSpectrophotometer-1024x683.jpg",
-                "cap": "Credit: Eugenio Marongiu/Getty Images"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-microphone-captures.jpg",
+                "cap": "A microphone records a common orange-belted bumblebee collecting pollen. Credit: Laura Figueroa"
               },
               {
                 "t": "p",
-                "x": "Accurate glucose monitoring has long been a bottleneck in fed-batch fermentation, and off-line sensors lack the high-frequency, low-latency readings that hybrid and continuous bioprocessing need."
+                "x": "Pollinator monitoring mostly uses lethal traps — often small, colored cups filled with soapy water — which also kill many nontarget insects."
               },
               {
                 "t": "p",
-                "x": "Researchers led by Xiwei Tian of East China University of Science and Technology and Yinlan Ruan of Guilin University of Electronic Technology built DS-CAT, a dual-stream, cross-attention transformer that encodes Raman and NIR spectra separately and fuses them, pairing Raman's chemical fingerprints with NIR's broad coverage."
+                "x": "A team led by Laura Figueroa at UMass Amherst built two AI models that analyze bee audio: one detects overall bee activity, the other distinguishes honeybees from bumblebees. Trained on 594 field recordings from 43 sites in the northeastern U.S. over five years, the models correctly identified 93%–97% of the bees in a sample and correlated strongly with trained observers."
               },
               {
                 "t": "p",
-                "x": "On 142 synchronized Raman-NIR records, it explained 99% of glucose variation (RMSE 1.09 g/L, MAE 0.89 g/L), held up across five-fold validation, and outperformed partial least squares, gradient boosting trees, CNNs and temporal convolutional networks. The 1122–1335 cm⁻¹ Raman interval showed the strongest prediction sensitivity."
-              },
-              {
-                "t": "p",
-                "x": "The work appears in Bioprocess and Biosystems Engineering."
+                "x": "The authors see the tool as a complement to traditional methods, useful in hard-to-sample places such as tree canopies. The models are available on Raven Pro."
               }
             ]
           }
         },
         "ko": {
-          "headline": "라만·NIR 스펙트럼 융합\n바이오공정 포도당 추적",
-          "body": "라만·NIR을 융합한 트랜스포머가 공정 포도당 추적에서 ML 모델 4종을 앞섰다.",
-          "mini_headline": "라만+NIR 포도당 센싱",
+          "headline": "AI, 벌 날갯소리를 듣다\n죽이는 덫 없이",
+          "body": "UMass Amherst AI는 벌 소리로 93-97%를 맞혀 살상 덫을 대신한다.",
+          "mini_headline": "날갯소리로 벌을 가려내는 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2020/08/Aug7_2020_Getty_626533919_FemaleScientistUsingFTIRSpectrophotometer-1024x683.jpg",
-                "cap": "출처: Eugenio Marongiu/Getty Images"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-microphone-captures.jpg",
+                "cap": "꽃가루를 모으는 흔한 주황띠뒤영벌의 소리를 마이크로 녹음하는 모습. Credit: Laura Figueroa"
               },
               {
                 "t": "p",
-                "x": "유가식(fed-batch) 발효에서 포도당을 정확히 모니터링하는 일은 오랫동안 병목이었다. 오프라인 센서로는 하이브리드·연속 바이오공정이 요구하는 고빈도·저지연 측정값을 얻지 못한다."
+                "x": "꽃가루 매개 곤충을 모니터링할 때는 주로 곤충을 죽이는 덫을 쓴다. 비눗물을 채운 작은 색깔 컵이 흔한데, 대상이 아닌 곤충까지 많이 죽인다."
               },
               {
                 "t": "p",
-                "x": "East China University of Science and Technology의 Xiwei Tian과 Guilin University of Electronic Technology의 Yinlan Ruan이 이끈 연구진은 이중 스트림 교차 어텐션 트랜스포머 DS-CAT을 만들었다. 라만과 NIR 스펙트럼을 따로 인코딩한 뒤 융합해 라만의 화학적 지문과 NIR의 넓은 커버리지를 한데 묶는다."
+                "x": "UMass Amherst의 Laura Figueroa가 이끄는 연구팀은 벌의 소리를 분석하는 AI 모델 두 개를 만들었다. 하나는 벌 활동 전체를 감지하고 다른 하나는 꿀벌과 뒤영벌을 가려낸다. 모델은 U.S. 북동부 43곳에서 다섯 해 동안 모은 현장 녹음 594건으로 학습했다. 표본 속 벌의 93%–97%를 정확히 식별했고, 훈련된 관찰자의 결과와도 상관관계가 강했다."
               },
               {
                 "t": "p",
-                "x": "동기화된 Raman-NIR 기록 142건에서 DS-CAT은 포도당 변동의 99%를 설명했다(RMSE 1.09 g/L, MAE 0.89 g/L). 다섯 겹 교차 검증에서도 성능이 유지됐고 부분최소제곱법, 그레이디언트 부스팅 트리, CNNs, 시간 합성곱 신경망을 모두 앞섰다. 예측 민감도는 1122–1335 cm⁻¹ 라만 구간에서 가장 강했다."
-              },
-              {
-                "t": "p",
-                "x": "연구는 Bioprocess and Biosystems Engineering에 실렸다."
+                "x": "저자들은 이 도구가 전통적 방법을 보완한다고 보고, 나무 수관처럼 표본을 얻기 어려운 곳에서 쓸모 있다고 설명한다. 모델은 Raven Pro에서 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ラマンとNIRを融合し\n培養液のグルコースを追跡",
-          "body": "ラマンとNIRを融合するトランスフォーマーがグルコース追跡で他のMLモデル4種を上回った。",
-          "mini_headline": "ラマン+NIRでグルコース計測",
+          "headline": "AIが羽音を聞き分ける\n殺虫トラップなしで",
+          "body": "UMass AmherstのAIは羽音でハチの93-97%を見分け、殺虫わなに代わる。",
+          "mini_headline": "羽音でハチを識別するAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2020/08/Aug7_2020_Getty_626533919_FemaleScientistUsingFTIRSpectrophotometer-1024x683.jpg",
-                "cap": "写真：Eugenio Marongiu/Getty Images"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-microphone-captures.jpg",
+                "cap": "花粉を集める一般的なオレンジ帯のマルハナバチをマイクが録音する。Credit: Laura Figueroa"
               },
               {
                 "t": "p",
-                "x": "流加培養（fed-batch）発酵では正確なグルコース監視が長年ボトルネックとなっており、オフラインのセンサーでは、ハイブリッド型や連続型のバイオプロセスに必要な高頻度・低遅延の測定値が得られない。"
+                "x": "送粉者のモニタリングには主に致死的なトラップが使われる。多くは石けん水を入れた小さな色付きカップで、対象外の昆虫も大量に殺してしまう。"
               },
               {
                 "t": "p",
-                "x": "East China University of Science and TechnologyのXiwei Tian氏とGuilin University of Electronic TechnologyのYinlan Ruan氏が率いる研究チームは、ラマンとNIRのスペクトルを別々にエンコードして融合する二重ストリーム・クロスアテンション型トランスフォーマー「DS-CAT」を構築した。ラマンの化学的指紋とNIRの広い測定範囲を組み合わせる仕組みだ。"
+                "x": "UMass AmherstのLaura Figueroa率いるチームは、ハチの音声を解析する二つのAIモデルを開発した。一つはハチ全体の活動を検出し、もう一つはミツバチとマルハナバチを区別する。U.S.北東部の43地点で五年間に集めた594件の野外録音で学習したモデルは、サンプル中のハチの93%–97%を正しく識別し、訓練を受けた観察者の結果とも強く相関した。"
               },
               {
                 "t": "p",
-                "x": "同期したRaman-NIR記録142件で、DS-CATはグルコース変動の99%を説明し（RMSE 1.09 g/L、MAE 0.89 g/L）、5分割交差検証でも性能を維持したうえ、部分最小二乗法、勾配ブースティング木、CNNs、時間畳み込みネットワークを上回った。1122–1335 cm⁻¹のラマン領域が最も高い予測感度を示した。"
-              },
-              {
-                "t": "p",
-                "x": "研究はBioprocess and Biosystems Engineeringに掲載された。"
+                "x": "著者らはこのツールを従来手法を補うものと位置づけ、樹冠のようにサンプリングが難しい場所で役立つとしている。モデルはRaven Proで利用できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "融合拉曼与NIR光谱\n追踪生物过程葡萄糖",
-          "body": "双流Transformer融合拉曼与NIR光谱追踪生物过程葡萄糖，优于另外四种ML模型。",
-          "mini_headline": "拉曼+NIR葡萄糖监测",
+          "headline": "AI倾听蜜蜂嗡嗡声\n无需致命诱捕器",
+          "body": "UMass Amherst的AI模型凭嗡嗡声正确识别93-97%的蜂类，可替代致命诱捕器。",
+          "mini_headline": "AI凭嗡嗡声识别蜂类",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2020/08/Aug7_2020_Getty_626533919_FemaleScientistUsingFTIRSpectrophotometer-1024x683.jpg",
-                "cap": "图片来源：Eugenio Marongiu/Getty Images"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-microphone-captures.jpg",
+                "cap": "麦克风正在录制一只采集花粉的常见橙带熊蜂。Credit: Laura Figueroa"
               },
               {
                 "t": "p",
-                "x": "在补料分批（fed-batch）发酵中，精确的葡萄糖监测长期以来一直是瓶颈，离线传感器无法提供混合式与连续生物工艺所需的高频、低延迟读数。"
+                "x": "传粉昆虫监测大多使用致命诱捕器——通常是装满肥皂水的彩色小杯——它们也会杀死许多非目标昆虫。"
               },
               {
                 "t": "p",
-                "x": "由East China University of Science and Technology的Xiwei Tian与Guilin University of Electronic Technology的Yinlan Ruan领导的研究人员构建了DS-CAT——一种双流交叉注意力Transformer，它分别编码拉曼与NIR光谱并加以融合，将拉曼的化学指纹与NIR的宽覆盖范围结合起来。"
+                "x": "UMass Amherst的Laura Figueroa领导的团队开发了两个分析蜂类声音的AI模型：一个检测整体蜂类活动，另一个区分蜜蜂和熊蜂。模型以五年间在U.S.东北部43个地点采集的594段野外录音训练，正确识别了样本中93%–97%的蜂类，并与受过训练的观察者高度相关。"
               },
               {
                 "t": "p",
-                "x": "在142组同步的Raman-NIR记录上，它解释了99%的葡萄糖变化（RMSE 1.09 g/L，MAE 0.89 g/L），在五折交叉验证中表现稳定，并优于偏最小二乘、梯度提升树、CNNs和时间卷积网络。1122–1335 cm⁻¹的拉曼区间显示出最强的预测敏感性。"
-              },
-              {
-                "t": "p",
-                "x": "该研究发表于Bioprocess and Biosystems Engineering。"
+                "x": "作者认为该工具可作为传统方法的补充，适用于树冠等难以采样的地方。这些模型可在Raven Pro上使用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Espectros Raman y NIR fusionados\nsiguen la glucosa en bioprocesos",
-          "body": "Un transformer de doble flujo fusiona espectros Raman y NIR, sigue la glucosa y supera a otros cuatro modelos de ML.",
-          "mini_headline": "Glucosa con Raman+NIR",
+          "headline": "Una AI escucha a las abejas\nsin trampas letales",
+          "body": "Modelos de AI de UMass Amherst identificaron por su zumbido el 93-97% de las abejas, sin recurrir a trampas letales.",
+          "mini_headline": "Una AI identifica abejas por su zumbido",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2020/08/Aug7_2020_Getty_626533919_FemaleScientistUsingFTIRSpectrophotometer-1024x683.jpg",
-                "cap": "Crédito: Eugenio Marongiu/Getty Images"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-microphone-captures.jpg",
+                "cap": "Un micrófono graba a un abejorro común de banda naranja mientras recoge polen. Credit: Laura Figueroa"
               },
               {
                 "t": "p",
-                "x": "La monitorización precisa de la glucosa ha sido durante mucho tiempo un cuello de botella en la fermentación por lote alimentado (fed-batch), y los sensores fuera de línea no ofrecen las lecturas de alta frecuencia y baja latencia que requieren los bioprocesos híbridos y continuos."
+                "x": "La vigilancia de polinizadores usa sobre todo trampas letales —a menudo pequeños vasos de colores llenos de agua jabonosa—, que también matan a muchos insectos no objetivo."
               },
               {
                 "t": "p",
-                "x": "Investigadores dirigidos por Xiwei Tian, de la East China University of Science and Technology, y Yinlan Ruan, de la Guilin University of Electronic Technology, crearon DS-CAT, un transformer de doble flujo con atención cruzada que codifica por separado los espectros Raman y NIR y los fusiona, combinando las huellas químicas de Raman con la amplia cobertura del NIR."
+                "x": "Un equipo dirigido por Laura Figueroa en UMass Amherst creó dos modelos de AI que analizan el audio de las abejas: uno detecta la actividad general de las abejas y el otro distingue las abejas melíferas de los abejorros. Entrenados con 594 grabaciones de campo de 43 sitios del noreste de Estados Unidos (U.S.) durante cinco años, los modelos identificaron correctamente el 93%–97% de las abejas de una muestra y mostraron una fuerte correlación con observadores entrenados."
               },
               {
                 "t": "p",
-                "x": "Con 142 registros Raman-NIR sincronizados, explicó el 99% de la variación de la glucosa (RMSE 1,09 g/L, MAE 0,89 g/L), se mantuvo en una validación cruzada de cinco particiones y superó a los mínimos cuadrados parciales, los árboles de gradient boosting, las CNNs y las redes convolucionales temporales. El intervalo Raman de 1122–1335 cm⁻¹ mostró la mayor sensibilidad predictiva."
-              },
-              {
-                "t": "p",
-                "x": "El trabajo se publica en Bioprocess and Biosystems Engineering."
+                "x": "Los autores ven la herramienta como un complemento de los métodos tradicionales, útil en lugares difíciles de muestrear como las copas de los árboles. Los modelos están disponibles en Raven Pro."
               }
             ]
           }
@@ -1527,125 +1483,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "라만·NIR 스펙트럼 융합\n바이오공정 포도당 추적",
-          "body": "라만·NIR을 융합한 트랜스포머가 공정 포도당 추적에서 ML 모델 4종을 앞섰다.",
-          "mini_headline": "라만+NIR 포도당 센싱",
+          "headline": "AI, 벌 날갯소리를 듣다\n죽이는 덫 없이",
+          "body": "UMass Amherst AI는 벌 소리로 93-97%를 맞혀 살상 덫을 대신한다.",
+          "mini_headline": "날갯소리로 벌을 가려내는 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2020/08/Aug7_2020_Getty_626533919_FemaleScientistUsingFTIRSpectrophotometer-1024x683.jpg",
-                "cap": "출처: Eugenio Marongiu/Getty Images"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-microphone-captures.jpg",
+                "cap": "마이크가 꽃가루를 모으는 흔한 주황띠뒤영벌의 소리를 녹음하고 있다. Credit: Laura Figueroa"
               },
               {
                 "t": "p",
-                "x": "유가식(fed-batch) 발효에서 정확한 포도당 모니터링은 오랫동안 병목이었고, 오프라인 센서는 하이브리드·연속 바이오공정에 필요한 고빈도·저지연 측정값을 내지 못한다."
+                "x": "꽃가루 매개 곤충 모니터링에는 주로 치명적인 덫이 쓰인다. 흔히 비눗물을 채운 작은 색깔 컵인데, 대상이 아닌 곤충도 많이 죽인다."
               },
               {
                 "t": "p",
-                "x": "East China University of Science and Technology의 Xiwei Tian과 Guilin University of Electronic Technology의 Yinlan Ruan이 이끈 연구진은 라만과 NIR 스펙트럼을 각각 인코딩한 뒤 융합하는 이중 스트림 교차 어텐션 트랜스포머 DS-CAT을 만들었다. 라만의 화학적 지문과 NIR의 넓은 커버리지를 결합한 방식이다."
+                "x": "UMass Amherst의 Laura Figueroa가 이끄는 연구팀은 벌의 소리를 분석하는 AI 모델 두 개를 만들었다. 하나는 전체 벌 활동을 감지하고, 다른 하나는 꿀벌과 뒤영벌을 구별한다. U.S. 북동부 43곳에서 다섯 해 동안 수집한 현장 녹음 594건으로 학습한 모델은 표본 속 벌의 93%–97%를 정확히 식별했고, 훈련된 관찰자의 결과와도 강한 상관관계를 보였다."
               },
               {
                 "t": "p",
-                "x": "동기화된 Raman-NIR 기록 142건에서 DS-CAT은 포도당 변동의 99%를 설명했고(RMSE 1.09 g/L, MAE 0.89 g/L), 다섯 겹 교차 검증에서도 성능을 유지했으며, 부분최소제곱법, 그레이디언트 부스팅 트리, CNNs, 시간 합성곱 신경망보다 뛰어났다. 1122–1335 cm⁻¹ 라만 구간이 가장 강한 예측 민감도를 보였다."
-              },
-              {
-                "t": "p",
-                "x": "이 연구는 Bioprocess and Biosystems Engineering에 실렸다."
+                "x": "저자들은 이 도구를 전통적 방법을 보완하는 수단으로 보며, 나무 수관처럼 표본을 얻기 어려운 곳에서 유용하다고 설명한다. 모델은 Raven Pro에서 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ラマンとNIRを融合し\n培養液のグルコースを追跡",
-          "body": "ラマンとNIRを融合するトランスフォーマーがグルコース追跡で他のMLモデル4種を上回った。",
-          "mini_headline": "ラマン+NIRでグルコース計測",
+          "headline": "AIが羽音を聞き分ける\n殺虫トラップなしで",
+          "body": "UMass AmherstのAIは羽音でハチの93-97%を見分け、殺虫わなに代わる。",
+          "mini_headline": "羽音でハチを識別するAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2020/08/Aug7_2020_Getty_626533919_FemaleScientistUsingFTIRSpectrophotometer-1024x683.jpg",
-                "cap": "写真：Eugenio Marongiu/Getty Images"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-microphone-captures.jpg",
+                "cap": "花粉を集める一般的なオレンジ帯のマルハナバチをマイクが録音する。Credit: Laura Figueroa"
               },
               {
                 "t": "p",
-                "x": "流加培養（fed-batch）発酵では正確なグルコース監視が長年ボトルネックとなっており、オフラインのセンサーでは、ハイブリッド型や連続型のバイオプロセスに必要な高頻度・低遅延の測定値が得られない。"
+                "x": "送粉者のモニタリングには主に致死的なトラップが使われる。多くは石けん水を入れた小さな色付きカップで、対象外の昆虫も大量に殺してしまう。"
               },
               {
                 "t": "p",
-                "x": "East China University of Science and TechnologyのXiwei Tian氏とGuilin University of Electronic TechnologyのYinlan Ruan氏が率いる研究チームは、ラマンとNIRのスペクトルを別々にエンコードして融合する二重ストリーム・クロスアテンション型トランスフォーマー「DS-CAT」を構築した。ラマンの化学的指紋とNIRの広い測定範囲を組み合わせる仕組みだ。"
+                "x": "UMass AmherstのLaura Figueroa率いるチームは、ハチの音声を解析する二つのAIモデルを開発した。一つはハチ全体の活動を検出し、もう一つはミツバチとマルハナバチを区別する。U.S.北東部の43地点で五年間に集めた594件の野外録音で学習したモデルは、サンプル中のハチの93%–97%を正しく識別し、訓練を受けた観察者の結果とも強く相関した。"
               },
               {
                 "t": "p",
-                "x": "同期したRaman-NIR記録142件で、DS-CATはグルコース変動の99%を説明し（RMSE 1.09 g/L、MAE 0.89 g/L）、5分割交差検証でも性能を維持したうえ、部分最小二乗法、勾配ブースティング木、CNNs、時間畳み込みネットワークを上回った。1122–1335 cm⁻¹のラマン領域が最も高い予測感度を示した。"
-              },
-              {
-                "t": "p",
-                "x": "研究はBioprocess and Biosystems Engineeringに掲載された。"
+                "x": "著者らはこのツールを従来手法を補うものと位置づけ、樹冠のようにサンプリングが難しい場所で役立つとしている。モデルはRaven Proで利用できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "融合拉曼与NIR光谱\n追踪生物过程葡萄糖",
-          "body": "双流Transformer融合拉曼与NIR光谱追踪生物过程葡萄糖，优于另外四种ML模型。",
-          "mini_headline": "拉曼+NIR葡萄糖监测",
+          "headline": "AI倾听蜜蜂嗡嗡声\n无需致命诱捕器",
+          "body": "UMass Amherst的AI模型凭嗡嗡声正确识别93-97%的蜂类，可替代致命诱捕器。",
+          "mini_headline": "AI凭嗡嗡声识别蜂类",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2020/08/Aug7_2020_Getty_626533919_FemaleScientistUsingFTIRSpectrophotometer-1024x683.jpg",
-                "cap": "图片来源：Eugenio Marongiu/Getty Images"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-microphone-captures.jpg",
+                "cap": "麦克风正在录制一只采集花粉的常见橙带熊蜂。Credit: Laura Figueroa"
               },
               {
                 "t": "p",
-                "x": "在补料分批（fed-batch）发酵中，精确的葡萄糖监测长期以来一直是瓶颈，离线传感器无法提供混合式与连续生物工艺所需的高频、低延迟读数。"
+                "x": "传粉昆虫监测大多使用致命诱捕器——通常是装满肥皂水的彩色小杯——它们也会杀死许多非目标昆虫。"
               },
               {
                 "t": "p",
-                "x": "由East China University of Science and Technology的Xiwei Tian与Guilin University of Electronic Technology的Yinlan Ruan领导的研究人员构建了DS-CAT——一种双流交叉注意力Transformer，它分别编码拉曼与NIR光谱并加以融合，将拉曼的化学指纹与NIR的宽覆盖范围结合起来。"
+                "x": "UMass Amherst的Laura Figueroa领导的团队开发了两个分析蜂类声音的AI模型：一个检测整体蜂类活动，另一个区分蜜蜂和熊蜂。模型以五年间在U.S.东北部43个地点采集的594段野外录音训练，正确识别了样本中93%–97%的蜂类，并与受过训练的观察者高度相关。"
               },
               {
                 "t": "p",
-                "x": "在142组同步的Raman-NIR记录上，它解释了99%的葡萄糖变化（RMSE 1.09 g/L，MAE 0.89 g/L），在五折交叉验证中表现稳定，并优于偏最小二乘、梯度提升树、CNNs和时间卷积网络。1122–1335 cm⁻¹的拉曼区间显示出最强的预测敏感性。"
-              },
-              {
-                "t": "p",
-                "x": "该研究发表于Bioprocess and Biosystems Engineering。"
+                "x": "作者认为该工具可作为传统方法的补充，适用于树冠等难以采样的地方。这些模型可在Raven Pro上使用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Espectros Raman y NIR fusionados\nsiguen la glucosa en bioprocesos",
-          "body": "Un transformer de doble flujo fusiona espectros Raman y NIR, sigue la glucosa y supera a otros cuatro modelos de ML.",
-          "mini_headline": "Glucosa con Raman+NIR",
+          "headline": "Una AI escucha a las abejas\nsin trampas letales",
+          "body": "Modelos de AI de UMass Amherst identificaron por su zumbido el 93-97% de las abejas, sin recurrir a trampas letales.",
+          "mini_headline": "Una AI identifica abejas por su zumbido",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2020/08/Aug7_2020_Getty_626533919_FemaleScientistUsingFTIRSpectrophotometer-1024x683.jpg",
-                "cap": "Crédito: Eugenio Marongiu/Getty Images"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-microphone-captures.jpg",
+                "cap": "Un micrófono graba a un abejorro común de banda naranja mientras recoge polen. Credit: Laura Figueroa"
               },
               {
                 "t": "p",
-                "x": "La monitorización precisa de la glucosa ha sido durante mucho tiempo un cuello de botella en la fermentación por lote alimentado (fed-batch), y los sensores fuera de línea no ofrecen las lecturas de alta frecuencia y baja latencia que requieren los bioprocesos híbridos y continuos."
+                "x": "La vigilancia de polinizadores usa sobre todo trampas letales —a menudo pequeños vasos de colores llenos de agua jabonosa—, que también matan a muchos insectos no objetivo."
               },
               {
                 "t": "p",
-                "x": "Investigadores dirigidos por Xiwei Tian, de la East China University of Science and Technology, y Yinlan Ruan, de la Guilin University of Electronic Technology, crearon DS-CAT, un transformer de doble flujo con atención cruzada que codifica por separado los espectros Raman y NIR y los fusiona, combinando las huellas químicas de Raman con la amplia cobertura del NIR."
+                "x": "Un equipo dirigido por Laura Figueroa en UMass Amherst creó dos modelos de AI que analizan el audio de las abejas: uno detecta la actividad general de las abejas y el otro distingue las abejas melíferas de los abejorros. Entrenados con 594 grabaciones de campo de 43 sitios del noreste de Estados Unidos (U.S.) durante cinco años, los modelos identificaron correctamente el 93%–97% de las abejas de una muestra y mostraron una fuerte correlación con observadores entrenados."
               },
               {
                 "t": "p",
-                "x": "Con 142 registros Raman-NIR sincronizados, explicó el 99% de la variación de la glucosa (RMSE 1,09 g/L, MAE 0,89 g/L), se mantuvo en una validación cruzada de cinco particiones y superó a los mínimos cuadrados parciales, los árboles de gradient boosting, las CNNs y las redes convolucionales temporales. El intervalo Raman de 1122–1335 cm⁻¹ mostró la mayor sensibilidad predictiva."
-              },
-              {
-                "t": "p",
-                "x": "El trabajo se publica en Bioprocess and Biosystems Engineering."
+                "x": "Los autores ven la herramienta como un complemento de los métodos tradicionales, útil en lugares difíciles de muestrear como las copas de los árboles. Los modelos están disponibles en Raven Pro."
               }
             ]
           }

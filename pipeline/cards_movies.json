@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "section": "movies",
   "cards": [
     {
-      "id": "movies-eddie-ai-plan-first",
+      "id": "movies-hunger-games-ai-adr",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Eddie AI, 계획부터\nResolve Studio",
-      "body": "Eddie AI가 사전 계획·DaVinci Resolve Studio 패널을 냈다.",
-      "mini_headline": "Eddie AI, 계획 먼저",
+      "headline": "Hunger Games,\nAI 음성으로 ADR 시험",
+      "body": "Hunger Games 신작은 배우 녹음 전 AI 음성으로 ADR 대사를 시험했다.",
+      "mini_headline": "AI 음성으로 ADR 대사 오디션",
       "tool": "Movies",
-      "source": "RedShark News",
-      "url": "https://www.redsharknews.com/eddie-ai-update-plan-first-resolve-studio-panel",
+      "source": "IndieWire",
+      "url": "https://www.indiewire.com/news/events/hunger-games-sunrise-on-the-reaping-used-ai-adr-1235223271/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -19,245 +19,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.redsharknews.com/hubfs/eddie%20ai%20updates-1.jpg"
+            "src": "https://www.indiewire.com/wp-content/uploads/2026/10/RP_A1423_ada1cd.jpg?w=1200"
           },
           {
             "t": "p",
-            "x": "NAB Show New York에 맞춰 나온 Eddie AI 최신 업데이트는 유료 실행 전에 계획부터 보여주고, Resolve Studio 패널과 After Effects 템플릿 가져오기를 더했다. 엔터프라이즈용으로는 Anthropic (Claude), OpenAI (ChatGPT), Google (Gemini) 키 직접 연결, 온프레미스 실행, 고객의 IP 소유, 고객 데이터 미학습, SOC 2 Type I 및 II 감사와 GDPR 인증이 새로 생겼다."
-          },
-          {
-            "t": "video",
-            "yt": "KaiEjtkvfek"
+            "x": "스튜디오 영화 후반 작업에 AI가 계속 들어오고 있다. 그래도 “Hunger Games” 프랜차이즈 프로듀서 Nina Jacobson에게 AI는 여전히 “아티스트를 위한 도구”이지 그들의 “대체물이 아니다”."
           },
           {
             "t": "p",
-            "x": "크레딧을 쓰는 프롬프트는 이제 단계 목록과 그중 크레딧이 드는 단계를 담은 계획부터 돌려준다. 사용자는 계획을 승인하거나 단계를 바꾸고 뺄 수 있다. 목록을 승인하기 전에는 아무것도 돌지 않고 과금도 없다. 컬러 그레이드처럼 골라야 하는 단계에서는 Eddie가 촬영본 스틸로 선택지를 보여준다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie%20ai%20prompts.jpg?width=1920&height=1080&name=eddie%20ai%20prompts.jpg"
+            "x": "Jacobson은 로스앤젤레스에서 열린 IndieWire의 Future of Filmmaking Summit에서 IndieWire 편집장 Brent Lang과 대담하며 제작진이 프리퀄 “Sunrise on the Reaping”의 새 대사 연기를 시험하는 데 배우들을 흉내 낸 AI 음성을 썼다고 밝혔다. 배우들은 이렇게 시험한 대사를 이후 전통적인 자동 대사 교체(ADR) 과정에서 직접 녹음했다."
           },
           {
             "t": "p",
-            "x": "DaVinci Resolve Studio 패널은 빈을 탐색하고 푸티지, 타임라인, 멀티캠 클립을 가져오며 편집 결과는 새 타임라인으로 돌려보낸다. “Source clips” 내보내기는 카메라 원본에 다시 연결된 Final Cut Pro 브라우저 이벤트를 만든다. Premiere 멀티캠 인터뷰 컷은 이제 앵글을 전환할 수 있는 멀티캠 클립으로 다시 짜인다."
+            "x": "Jacobson은 “우리는 [AI]를 제작과 후반 작업 안에서 매우 구체적으로 도구로만 썼고, 동시에 우리 아티스트나 화면에 보이는 그 무엇도 대체하는 데는 결코 쓰지 않았다”고 말했다. “[AI]는 ADR에 쓰기 좋은 도구다.”"
           },
           {
             "t": "p",
-            "x": "무음과 군말 제거부터 자막, 더빙, B-roll, 세로 화면 변환까지 단일 작업 페이지도 열세 개 더해졌다. 워크스페이스에 새로 생긴 행에는 아낀 시간, 실행한 프로젝트, 내보낸 편집본이 뜬다. 팀 워크스페이스에는 크레딧과 예상 소요 시간이 붙지만 편집자 순위를 매기거나 팀을 비교하는 기능은 없다."
+            "x": "그는 “목소리를 복제할 수는 있다… 하지만 우리 배우가 아니기 때문에 그래도 결코 쓰지 않을 것이다”라고 말을 이었다. “대사는 작가에게 맡긴다. Claude에게 ‘무슨 말을 해야 하지?’라고 묻지 않는다.”"
           },
           {
-            "t": "img",
-            "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie-editor.jpg?width=1600&height=1000&name=eddie-editor.jpg"
+            "t": "p",
+            "x": "Lionsgate가 11월 20일 극장에 내놓는 “Sunrise on the Reaping”은 Suzanne Collins의 청소년 소설 시리즈를 옮긴 여섯 번째 영화다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Eddie AI now plans first and\nruns inside Resolve Studio",
-          "body": "Eddie AI now shows a plan before paid runs and adds a panel inside DaVinci Resolve Studio.",
-          "mini_headline": "Eddie AI plans first",
+          "headline": "Hunger Games tested ADR lines\nwith AI voices first",
+          "body": "Sunrise on the Reaping auditioned ADR lines with AI voices in post before the actors recorded them.",
+          "mini_headline": "AI voices audition ADR lines",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.redsharknews.com/hubfs/eddie%20ai%20updates-1.jpg"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/RP_A1423_ada1cd.jpg?w=1200"
               },
               {
                 "t": "p",
-                "x": "Eddie AI’s latest update, timed for NAB Show New York, shows a plan before any paid run, adds a Resolve Studio panel and imports After Effects templates. New enterprise features include bring-your-own keys with Anthropic (Claude), OpenAI (ChatGPT) and Google (Gemini), on-premises running, customer IP ownership, no training on customer data, and SOC 2 Type I and II audits with GDPR certification."
-              },
-              {
-                "t": "video",
-                "yt": "KaiEjtkvfek"
+                "x": "AI is continuing to be implemented in the post-production stages of studio films, though “Hunger Games” franchise producer Nina Jacobson still views it as a “tool for artists” and “not a substitute” for them."
               },
               {
                 "t": "p",
-                "x": "Prompts that will spend credits now return a plan that lists each step and which steps cost credits. You can approve it, change a step or drop one, and nothing runs or is charged until you approve the list. Where a step involves a choice, such as a color grade, Eddie shows options as stills from your footage."
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie%20ai%20prompts.jpg?width=1920&height=1080&name=eddie%20ai%20prompts.jpg"
+                "x": "Speaking with IndieWire editor-in-chief Brent Lang at IndieWire’s Future of Filmmaking Summit in Los Angeles, Jacobson said the team used AI approximations of actors to test out new line readings for the prequel “Sunrise on the Reaping.” Those lines would then be recorded with the cast in the traditional automated dialogue replacement (ADR) process."
               },
               {
                 "t": "p",
-                "x": "The DaVinci Resolve Studio panel browses bins, imports footage, timelines and multicam clips, and sends edits back as a new timeline. A “Source clips” export produces a Final Cut Pro browser event relinked to camera originals, and Premiere multicam interview cuts now rebuild as switchable multicam clips."
+                "x": "“We used [AI] very specifically as a tool — within production, within post-production — while, at the same time, never using it to ever replace any of our artists or anything you see onscreen,” Jacobson said. “[AI] is a great tool to use ADR.”"
               },
               {
                 "t": "p",
-                "x": "Thirteen single-job pages were added, from taking out silences and filler words to captions, dubbing, B-roll and resizing to vertical. A new workspace row shows hours saved, projects run and edits exported; team workspaces add credits and projected duration, but nothing ranks editors or benchmarks teams."
+                "x": "“They can duplicate a voice… But we would still never use it because it’s not our actors,” she continued. “We’d go to our writer for the dialogue. I don’t ask Claude, ‘What should they say?’”"
               },
               {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie-editor.jpg?width=1600&height=1000&name=eddie-editor.jpg"
+                "t": "p",
+                "x": "“Sunrise on the Reaping,” in theaters from Lionsgate on November 20, is the sixth film adaptation of Suzanne Collins’ young adult book series."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Eddie AI, 계획부터\nResolve Studio",
-          "body": "Eddie AI가 사전 계획·DaVinci Resolve Studio 패널을 냈다.",
-          "mini_headline": "Eddie AI, 계획 먼저",
+          "headline": "Hunger Games,\nAI 음성으로 ADR 시험",
+          "body": "Hunger Games 신작은 배우 녹음 전 AI 음성으로 ADR 대사를 시험했다.",
+          "mini_headline": "AI 음성으로 ADR 대사 오디션",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.redsharknews.com/hubfs/eddie%20ai%20updates-1.jpg"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/RP_A1423_ada1cd.jpg?w=1200"
               },
               {
                 "t": "p",
-                "x": "NAB Show New York에 맞춰 나온 Eddie AI 최신 업데이트는 유료 실행 전에 계획부터 보여주고, Resolve Studio 패널과 After Effects 템플릿 가져오기를 더했다. 엔터프라이즈용으로는 Anthropic (Claude), OpenAI (ChatGPT), Google (Gemini) 키 직접 연결, 온프레미스 실행, 고객의 IP 소유, 고객 데이터 미학습, SOC 2 Type I 및 II 감사와 GDPR 인증이 새로 생겼다."
-              },
-              {
-                "t": "video",
-                "yt": "KaiEjtkvfek"
+                "x": "스튜디오 영화 후반 작업에 AI가 계속 들어오고 있다. 그래도 “Hunger Games” 프랜차이즈 프로듀서 Nina Jacobson에게 AI는 여전히 “아티스트를 위한 도구”이지 그들의 “대체물이 아니다”."
               },
               {
                 "t": "p",
-                "x": "크레딧을 쓰는 프롬프트는 이제 단계 목록과 그중 크레딧이 드는 단계를 담은 계획부터 돌려준다. 사용자는 계획을 승인하거나 단계를 바꾸고 뺄 수 있다. 목록을 승인하기 전에는 아무것도 돌지 않고 과금도 없다. 컬러 그레이드처럼 골라야 하는 단계에서는 Eddie가 촬영본 스틸로 선택지를 보여준다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie%20ai%20prompts.jpg?width=1920&height=1080&name=eddie%20ai%20prompts.jpg"
+                "x": "Jacobson은 로스앤젤레스에서 열린 IndieWire의 Future of Filmmaking Summit에서 IndieWire 편집장 Brent Lang과 대담하며 제작진이 프리퀄 “Sunrise on the Reaping”의 새 대사 연기를 시험하는 데 배우들을 흉내 낸 AI 음성을 썼다고 밝혔다. 배우들은 이렇게 시험한 대사를 이후 전통적인 자동 대사 교체(ADR) 과정에서 직접 녹음했다."
               },
               {
                 "t": "p",
-                "x": "DaVinci Resolve Studio 패널은 빈을 탐색하고 푸티지, 타임라인, 멀티캠 클립을 가져오며 편집 결과는 새 타임라인으로 돌려보낸다. “Source clips” 내보내기는 카메라 원본에 다시 연결된 Final Cut Pro 브라우저 이벤트를 만든다. Premiere 멀티캠 인터뷰 컷은 이제 앵글을 전환할 수 있는 멀티캠 클립으로 다시 짜인다."
+                "x": "Jacobson은 “우리는 [AI]를 제작과 후반 작업 안에서 매우 구체적으로 도구로만 썼고, 동시에 우리 아티스트나 화면에 보이는 그 무엇도 대체하는 데는 결코 쓰지 않았다”고 말했다. “[AI]는 ADR에 쓰기 좋은 도구다.”"
               },
               {
                 "t": "p",
-                "x": "무음과 군말 제거부터 자막, 더빙, B-roll, 세로 화면 변환까지 단일 작업 페이지도 열세 개 더해졌다. 워크스페이스에 새로 생긴 행에는 아낀 시간, 실행한 프로젝트, 내보낸 편집본이 뜬다. 팀 워크스페이스에는 크레딧과 예상 소요 시간이 붙지만 편집자 순위를 매기거나 팀을 비교하는 기능은 없다."
+                "x": "그는 “목소리를 복제할 수는 있다… 하지만 우리 배우가 아니기 때문에 그래도 결코 쓰지 않을 것이다”라고 말을 이었다. “대사는 작가에게 맡긴다. Claude에게 ‘무슨 말을 해야 하지?’라고 묻지 않는다.”"
               },
               {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie-editor.jpg?width=1600&height=1000&name=eddie-editor.jpg"
+                "t": "p",
+                "x": "Lionsgate가 11월 20일 극장에 내놓는 “Sunrise on the Reaping”은 Suzanne Collins의 청소년 소설 시리즈를 옮긴 여섯 번째 영화다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Eddie AI、計画を先に\nResolve Studio",
-          "body": "Eddie AIが事前計画とDaVinci Resolve Studio用パネルを加えた。",
-          "mini_headline": "Eddie AI、計画を先に",
+          "headline": "Hunger Games\nADR台詞をAI音声で検証",
+          "body": "Hunger Games新作は俳優の収録前にAI音声でADR台詞を試した。",
+          "mini_headline": "AI音声がADR台詞をオーディション",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.redsharknews.com/hubfs/eddie%20ai%20updates-1.jpg"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/RP_A1423_ada1cd.jpg?w=1200"
               },
               {
                 "t": "p",
-                "x": "NAB Show New Yorkに合わせたEddie AIの最新アップデートは、有料の実行前に必ず計画を示し、Resolve Studioパネルを追加し、After Effectsのテンプレートを読み込めるようにした。新たなエンタープライズ機能として、Anthropic (Claude)、OpenAI (ChatGPT)、Google (Gemini)の自前キー持ち込み、オンプレミス実行、顧客によるIPの保有、顧客データを学習に使わない方針、SOC 2 Type IおよびIIの監査とGDPR認証が加わった。"
-              },
-              {
-                "t": "video",
-                "yt": "KaiEjtkvfek"
+                "x": "AIはスタジオ映画のポストプロダクション工程で導入が進み続けているが、「Hunger Games」シリーズのプロデューサー、Nina Jacobsonは今もAIを「アーティストのための道具」であり、彼らの「代わりではない」と捉えている。"
               },
               {
                 "t": "p",
-                "x": "クレジットを消費するプロンプトは、各ステップとそのうちクレジットがかかるステップを並べた計画をまず返す。ユーザーは承認するか、ステップを変更・削除でき、リストを承認するまで何も実行されず課金もされない。カラーグレードのように選択が必要なステップでは、Eddieが映像素材のスチルで選択肢を示す。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie%20ai%20prompts.jpg?width=1920&height=1080&name=eddie%20ai%20prompts.jpg"
+                "x": "ロサンゼルスで開かれたIndieWireのFuture of Filmmaking Summitで、IndieWire編集長のBrent Langと対談したJacobsonは、前日譚「Sunrise on the Reaping」の新しい台詞の読みを試すため、チームが俳優を模したAI音声を使ったと語った。それらの台詞はその後、従来の自動台詞置き換え（ADR）工程でキャストが収録した。"
               },
               {
                 "t": "p",
-                "x": "DaVinci Resolve Studioパネルはビンを閲覧し、素材、タイムライン、マルチカムクリップを取り込み、編集結果を新しいタイムラインとして戻す。「Source clips」書き出しはカメラ原本に再リンクしたFinal Cut Proのブラウザイベントを作り、Premiereのマルチカム・インタビューのカットは切り替え可能なマルチカムクリップとして再構成されるようになった。"
+                "x": "「[AI]は製作の中でも、ポストプロダクションの中でも、ごく限定的に道具として使った。同時に、アーティストや画面に映るものの代わりに使ったことは一度もない」とJacobsonは述べた。「[AI]はADRに使うには優れた道具だ」"
               },
               {
                 "t": "p",
-                "x": "無音やフィラーの除去から字幕、吹き替え、B-roll、縦型へのリサイズまで、単機能のページが十三追加された。新しいワークスペースの行には削減できた時間、実行したプロジェクト、書き出した編集が表示される。チームのワークスペースにはクレジットと予想所要時間が加わるが、編集者の順位付けやチームの比較を行う機能はない。"
+                "x": "「声を複製することはできる…それでも私たちの俳優ではないから、決して使わない」と彼女は続けた。「台詞は脚本家に頼む。Claudeに『何を言わせるべきか』とは聞かない」"
               },
               {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie-editor.jpg?width=1600&height=1000&name=eddie-editor.jpg"
+                "t": "p",
+                "x": "Lionsgateが11月20日に劇場公開する「Sunrise on the Reaping」は、Suzanne Collinsのヤングアダルト小説シリーズを原作とする6作目の映画だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Eddie AI先出计划\nResolve Studio",
-          "body": "Eddie AI付费运行前先列计划，并新增DaVinci Resolve Studio面板。",
-          "mini_headline": "Eddie AI先出计划",
+          "headline": "Hunger Games\n先用AI语音试ADR台词",
+          "body": "Hunger Games新片在演员录音前，先用AI语音试演了ADR台词。",
+          "mini_headline": "AI语音试演ADR台词",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.redsharknews.com/hubfs/eddie%20ai%20updates-1.jpg"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/RP_A1423_ada1cd.jpg?w=1200"
               },
               {
                 "t": "p",
-                "x": "Eddie AI配合NAB Show New York推出的最新更新，会在任何付费运行前先展示计划，新增Resolve Studio面板，并可导入After Effects模板。新的企业功能包括自带Anthropic (Claude)、OpenAI (ChatGPT)和Google (Gemini)密钥、本地部署运行、客户拥有IP、不使用客户数据训练，以及SOC 2 Type I和II审计与GDPR认证。"
-              },
-              {
-                "t": "video",
-                "yt": "KaiEjtkvfek"
+                "x": "AI正持续进入制片厂电影的后期制作环节，但“Hunger Games”系列制片人Nina Jacobson仍将其视为“艺术家的工具”，而“不是替代品”。"
               },
               {
                 "t": "p",
-                "x": "会消耗点数的提示词现在会先返回一份计划，列出每个步骤以及哪些步骤需要点数。用户可以批准、修改或删去某个步骤，在批准清单之前不会运行任何内容，也不会扣费。遇到调色这类需要选择的步骤时，Eddie会用素材中的静帧展示选项。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie%20ai%20prompts.jpg?width=1920&height=1080&name=eddie%20ai%20prompts.jpg"
+                "x": "Jacobson在洛杉矶举行的IndieWire Future of Filmmaking Summit上与IndieWire主编Brent Lang对谈时表示，团队用模拟演员声音的AI来测试前传《Sunrise on the Reaping》的新台词念法。这些台词随后会在传统的自动对白替换（ADR）流程中由演员录制。"
               },
               {
                 "t": "p",
-                "x": "DaVinci Resolve Studio面板可以浏览素材箱，导入素材、时间线和多机位片段，并把剪辑结果作为新时间线发回。“Source clips”导出会生成一个重新链接到摄影机原始素材的Final Cut Pro浏览器事件，Premiere的多机位访谈剪辑现在也会重建为可切换的多机位片段。"
+                "x": "“我们非常明确地把[AI]当作工具使用——在制作中，在后期制作中——同时从未用它取代我们的任何艺术家或银幕上的任何内容，”Jacobson说，“[AI]是做ADR的好工具。”"
               },
               {
                 "t": "p",
-                "x": "新增了十三个单一任务页面，从去除静音和口头禅，到字幕、配音、B-roll以及竖屏改尺寸。新的工作区一栏显示节省的时长、运行的项目和导出的剪辑；团队工作区还会显示点数和预计时长，但不会给剪辑师排名，也不会对团队做对标。"
+                "x": "“它们可以复制声音……但我们依然绝不会使用，因为那不是我们的演员，”她接着说，“台词我们会找编剧。我不会问Claude：‘他们该说什么？’”"
               },
               {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie-editor.jpg?width=1600&height=1000&name=eddie-editor.jpg"
+                "t": "p",
+                "x": "《Sunrise on the Reaping》将由Lionsgate于11月20日在影院上映，是根据Suzanne Collins青少年小说系列改编的第六部电影。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Eddie AI planifica primero\ny llega a Resolve Studio",
-          "body": "Eddie AI ahora muestra un plan antes de las ejecuciones de pago y añade un panel en DaVinci Resolve Studio.",
-          "mini_headline": "Eddie AI planifica primero",
+          "headline": "Hunger Games probó diálogos ADR\nprimero con voces de IA",
+          "body": "Sunrise on the Reaping probó en posproducción diálogos de ADR con voces de IA antes de que los actores los grabaran.",
+          "mini_headline": "Voces de IA ensayan diálogos ADR",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.redsharknews.com/hubfs/eddie%20ai%20updates-1.jpg"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/RP_A1423_ada1cd.jpg?w=1200"
               },
               {
                 "t": "p",
-                "x": "La última actualización de Eddie AI, presentada para NAB Show New York, muestra un plan antes de cualquier ejecución de pago, añade un panel para Resolve Studio e importa plantillas de After Effects. Las nuevas funciones empresariales incluyen el uso de claves propias con Anthropic (Claude), OpenAI (ChatGPT) y Google (Gemini), ejecución local en las instalaciones del cliente, propiedad de la IP por parte del cliente, ningún entrenamiento con datos de clientes y auditorías SOC 2 Type I y II con certificación GDPR."
-              },
-              {
-                "t": "video",
-                "yt": "KaiEjtkvfek"
+                "x": "La IA sigue incorporándose a las etapas de posproducción de las películas de estudio, aunque Nina Jacobson, productora de la franquicia “Hunger Games”, todavía la ve como una “herramienta para los artistas” y “no un sustituto” de ellos."
               },
               {
                 "t": "p",
-                "x": "Los prompts que vayan a gastar créditos ahora devuelven un plan que enumera cada paso e indica cuáles cuestan créditos. Se puede aprobar, cambiar un paso o eliminarlo, y nada se ejecuta ni se cobra hasta aprobar la lista. Cuando un paso implica una elección, como una corrección de color, Eddie muestra las opciones como fotogramas del propio metraje."
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie%20ai%20prompts.jpg?width=1920&height=1080&name=eddie%20ai%20prompts.jpg"
+                "x": "En conversación con Brent Lang, director de IndieWire, en el Future of Filmmaking Summit de IndieWire en Los Ángeles, Jacobson contó que el equipo usó aproximaciones de los actores generadas con IA para probar nuevas lecturas de diálogo en la precuela “Sunrise on the Reaping”. Después, esas líneas se grababan con el reparto en el proceso tradicional de reemplazo automático de diálogo (ADR)."
               },
               {
                 "t": "p",
-                "x": "El panel de DaVinci Resolve Studio explora bins, importa metraje, líneas de tiempo y clips multicámara, y devuelve las ediciones como una nueva línea de tiempo. Una exportación “Source clips” genera un evento del navegador de Final Cut Pro vinculado de nuevo a los originales de cámara, y los cortes de entrevistas multicámara de Premiere ahora se reconstruyen como clips multicámara conmutables."
+                "x": "“Usamos [la IA] de forma muy concreta como herramienta —dentro de la producción, dentro de la posproducción— y, al mismo tiempo, nunca para reemplazar a ninguno de nuestros artistas ni nada de lo que se ve en pantalla”, dijo Jacobson. “[La IA] es una gran herramienta para el ADR”."
               },
               {
                 "t": "p",
-                "x": "Se añadieron trece páginas de tarea única, desde quitar silencios y muletillas hasta subtítulos, doblaje, B-roll y redimensionado a vertical. Una nueva fila del espacio de trabajo muestra horas ahorradas, proyectos ejecutados y ediciones exportadas; los espacios de equipo añaden créditos y duración prevista, pero nada clasifica a los editores ni compara equipos."
+                "x": "“Pueden duplicar una voz… Pero aun así nunca la usaríamos porque no son nuestros actores”, continuó. “Para los diálogos acudimos a nuestro guionista. No le pregunto a Claude: ‘¿Qué deberían decir?’”"
               },
               {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie-editor.jpg?width=1600&height=1000&name=eddie-editor.jpg"
+                "t": "p",
+                "x": "“Sunrise on the Reaping”, que Lionsgate estrena en cines el 20 de noviembre, es la sexta adaptación cinematográfica de la serie de libros juveniles de Suzanne Collins."
               }
             ]
           }
@@ -265,169 +217,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Eddie AI 계획 먼저\nResolve Studio",
-          "body": "Eddie AI가 사전 계획·DaVinci Resolve Studio 패널을 냈다.",
-          "mini_headline": "Eddie AI, 계획 먼저",
+          "headline": "Hunger Games,\nAI 음성으로 ADR 시험",
+          "body": "Hunger Games 신작은 배우 녹음 전 AI 음성으로 ADR 대사를 시험했다.",
+          "mini_headline": "AI 음성으로 ADR 대사 오디션",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.redsharknews.com/hubfs/eddie%20ai%20updates-1.jpg"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/RP_A1423_ada1cd.jpg?w=1200"
               },
               {
                 "t": "p",
-                "x": "NAB Show New York에 맞춰 나온 Eddie AI의 최신 업데이트는 유료 실행 전에 계획부터 보여주고, Resolve Studio 패널을 더하며, After Effects 템플릿을 가져온다. 새 엔터프라이즈 기능으로는 Anthropic (Claude), OpenAI (ChatGPT), Google (Gemini) 키를 직접 연결하는 방식, 온프레미스 실행, 고객의 IP 소유, 고객 데이터 미학습, SOC 2 Type I 및 II 감사와 GDPR 인증이 있다."
-              },
-              {
-                "t": "video",
-                "yt": "KaiEjtkvfek"
+                "x": "AI가 스튜디오 영화의 후반 작업 단계에 계속 도입되고 있지만, “Hunger Games” 프랜차이즈 프로듀서 Nina Jacobson은 여전히 AI를 “아티스트를 위한 도구”로 보며 그들의 “대체물이 아니다”라고 여긴다."
               },
               {
                 "t": "p",
-                "x": "크레딧을 쓰게 될 프롬프트는 이제 각 단계와 그중 크레딧이 드는 단계를 정리한 계획을 먼저 돌려준다. 사용자는 계획을 승인하거나 단계를 바꾸거나 뺄 수 있고, 목록을 승인하기 전에는 아무것도 실행되지 않으며 과금도 없다. 컬러 그레이드처럼 선택이 필요한 단계에서는 Eddie가 촬영본의 스틸로 선택지를 보여준다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie%20ai%20prompts.jpg?width=1920&height=1080&name=eddie%20ai%20prompts.jpg"
+                "x": "Jacobson은 로스앤젤레스에서 열린 IndieWire의 Future of Filmmaking Summit에서 IndieWire 편집장 Brent Lang과 대담하며, 제작진이 프리퀄 “Sunrise on the Reaping”의 새 대사 연기를 시험하는 데 배우들을 흉내 낸 AI 음성을 썼다고 밝혔다. 이렇게 시험한 대사는 이후 전통적인 자동 대사 교체(ADR) 과정에서 배우들이 직접 녹음했다."
               },
               {
                 "t": "p",
-                "x": "DaVinci Resolve Studio 패널은 빈을 탐색하고 푸티지, 타임라인, 멀티캠 클립을 가져오며, 편집 결과를 새 타임라인으로 돌려보낸다. “Source clips” 내보내기는 카메라 원본에 다시 연결된 Final Cut Pro 브라우저 이벤트를 만들고, Premiere 멀티캠 인터뷰 컷은 이제 전환 가능한 멀티캠 클립으로 다시 구성된다."
+                "x": "“우리는 [AI]를 제작과 후반 작업 안에서 매우 구체적으로 도구로만 썼고, 동시에 우리 아티스트나 화면에 보이는 그 무엇도 대체하는 데는 결코 쓰지 않았다”고 Jacobson은 말했다. “[AI]는 ADR에 쓰기 좋은 도구다.”"
               },
               {
                 "t": "p",
-                "x": "무음과 군말 제거부터 자막, 더빙, B-roll, 세로 화면 변환까지 단일 작업 페이지 열세 개가 추가됐다. 새 워크스페이스 행은 절약한 시간, 실행한 프로젝트, 내보낸 편집본을 보여준다. 팀 워크스페이스에는 크레딧과 예상 소요 시간이 더해지지만, 편집자 순위를 매기거나 팀을 비교하는 기능은 없다."
+                "x": "“목소리를 복제할 수는 있다… 하지만 우리 배우가 아니기 때문에 그래도 결코 쓰지 않을 것이다”라고 그는 이어 말했다. “대사는 작가에게 맡긴다. Claude에게 ‘무슨 말을 해야 하지?’라고 묻지 않는다.”"
               },
               {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie-editor.jpg?width=1600&height=1000&name=eddie-editor.jpg"
+                "t": "p",
+                "x": "Lionsgate가 11월 20일 극장에 내놓는 “Sunrise on the Reaping”은 Suzanne Collins의 청소년 소설 시리즈를 원작으로 한 여섯 번째 영화다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Eddie AI、計画を先に\nResolve Studio",
-          "body": "Eddie AIが事前計画とDaVinci Resolve Studio用パネルを加えた。",
-          "mini_headline": "Eddie AI、計画を先に",
+          "headline": "Hunger Games\nADR台詞をAI音声で検証",
+          "body": "Hunger Games新作は俳優の収録前にAI音声でADR台詞を試した。",
+          "mini_headline": "AI音声がADR台詞をオーディション",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.redsharknews.com/hubfs/eddie%20ai%20updates-1.jpg"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/RP_A1423_ada1cd.jpg?w=1200"
               },
               {
                 "t": "p",
-                "x": "NAB Show New Yorkに合わせたEddie AIの最新アップデートは、有料の実行前に必ず計画を示し、Resolve Studioパネルを追加し、After Effectsのテンプレートを読み込めるようにした。新たなエンタープライズ機能として、Anthropic (Claude)、OpenAI (ChatGPT)、Google (Gemini)の自前キー持ち込み、オンプレミス実行、顧客によるIPの保有、顧客データを学習に使わない方針、SOC 2 Type IおよびIIの監査とGDPR認証が加わった。"
-              },
-              {
-                "t": "video",
-                "yt": "KaiEjtkvfek"
+                "x": "AIはスタジオ映画のポストプロダクション工程で導入が進み続けているが、「Hunger Games」シリーズのプロデューサー、Nina Jacobsonは今もAIを「アーティストのための道具」であり、彼らの「代わりではない」と捉えている。"
               },
               {
                 "t": "p",
-                "x": "クレジットを消費するプロンプトは、各ステップとそのうちクレジットがかかるステップを並べた計画をまず返す。ユーザーは承認するか、ステップを変更・削除でき、リストを承認するまで何も実行されず課金もされない。カラーグレードのように選択が必要なステップでは、Eddieが映像素材のスチルで選択肢を示す。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie%20ai%20prompts.jpg?width=1920&height=1080&name=eddie%20ai%20prompts.jpg"
+                "x": "ロサンゼルスで開かれたIndieWireのFuture of Filmmaking Summitで、IndieWire編集長のBrent Langと対談したJacobsonは、前日譚「Sunrise on the Reaping」の新しい台詞の読みを試すため、チームが俳優を模したAI音声を使ったと語った。それらの台詞はその後、従来の自動台詞置き換え（ADR）工程でキャストが収録した。"
               },
               {
                 "t": "p",
-                "x": "DaVinci Resolve Studioパネルはビンを閲覧し、素材、タイムライン、マルチカムクリップを取り込み、編集結果を新しいタイムラインとして戻す。「Source clips」書き出しはカメラ原本に再リンクしたFinal Cut Proのブラウザイベントを作り、Premiereのマルチカム・インタビューのカットは切り替え可能なマルチカムクリップとして再構成されるようになった。"
+                "x": "「[AI]は製作の中でも、ポストプロダクションの中でも、ごく限定的に道具として使った。同時に、アーティストや画面に映るものの代わりに使ったことは一度もない」とJacobsonは述べた。「[AI]はADRに使うには優れた道具だ」"
               },
               {
                 "t": "p",
-                "x": "無音やフィラーの除去から字幕、吹き替え、B-roll、縦型へのリサイズまで、単機能のページが十三追加された。新しいワークスペースの行には削減できた時間、実行したプロジェクト、書き出した編集が表示される。チームのワークスペースにはクレジットと予想所要時間が加わるが、編集者の順位付けやチームの比較を行う機能はない。"
+                "x": "「声を複製することはできる…それでも私たちの俳優ではないから、決して使わない」と彼女は続けた。「台詞は脚本家に頼む。Claudeに『何を言わせるべきか』とは聞かない」"
               },
               {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie-editor.jpg?width=1600&height=1000&name=eddie-editor.jpg"
+                "t": "p",
+                "x": "Lionsgateが11月20日に劇場公開する「Sunrise on the Reaping」は、Suzanne Collinsのヤングアダルト小説シリーズを原作とする6作目の映画だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Eddie AI先出计划\nResolve Studio",
-          "body": "Eddie AI付费运行前先列计划，并新增DaVinci Resolve Studio面板。",
-          "mini_headline": "Eddie AI先出计划",
+          "headline": "Hunger Games\n先用AI语音试ADR台词",
+          "body": "Hunger Games新片在演员录音前，先用AI语音试演了ADR台词。",
+          "mini_headline": "AI语音试演ADR台词",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.redsharknews.com/hubfs/eddie%20ai%20updates-1.jpg"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/RP_A1423_ada1cd.jpg?w=1200"
               },
               {
                 "t": "p",
-                "x": "Eddie AI配合NAB Show New York推出的最新更新，会在任何付费运行前先展示计划，新增Resolve Studio面板，并可导入After Effects模板。新的企业功能包括自带Anthropic (Claude)、OpenAI (ChatGPT)和Google (Gemini)密钥、本地部署运行、客户拥有IP、不使用客户数据训练，以及SOC 2 Type I和II审计与GDPR认证。"
-              },
-              {
-                "t": "video",
-                "yt": "KaiEjtkvfek"
+                "x": "AI正持续进入制片厂电影的后期制作环节，但“Hunger Games”系列制片人Nina Jacobson仍将其视为“艺术家的工具”，而“不是替代品”。"
               },
               {
                 "t": "p",
-                "x": "会消耗点数的提示词现在会先返回一份计划，列出每个步骤以及哪些步骤需要点数。用户可以批准、修改或删去某个步骤，在批准清单之前不会运行任何内容，也不会扣费。遇到调色这类需要选择的步骤时，Eddie会用素材中的静帧展示选项。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie%20ai%20prompts.jpg?width=1920&height=1080&name=eddie%20ai%20prompts.jpg"
+                "x": "Jacobson在洛杉矶举行的IndieWire Future of Filmmaking Summit上与IndieWire主编Brent Lang对谈时表示，团队用模拟演员声音的AI来测试前传《Sunrise on the Reaping》的新台词念法。这些台词随后会在传统的自动对白替换（ADR）流程中由演员录制。"
               },
               {
                 "t": "p",
-                "x": "DaVinci Resolve Studio面板可以浏览素材箱，导入素材、时间线和多机位片段，并把剪辑结果作为新时间线发回。“Source clips”导出会生成一个重新链接到摄影机原始素材的Final Cut Pro浏览器事件，Premiere的多机位访谈剪辑现在也会重建为可切换的多机位片段。"
+                "x": "“我们非常明确地把[AI]当作工具使用——在制作中，在后期制作中——同时从未用它取代我们的任何艺术家或银幕上的任何内容，”Jacobson说，“[AI]是做ADR的好工具。”"
               },
               {
                 "t": "p",
-                "x": "新增了十三个单一任务页面，从去除静音和口头禅，到字幕、配音、B-roll以及竖屏改尺寸。新的工作区一栏显示节省的时长、运行的项目和导出的剪辑；团队工作区还会显示点数和预计时长，但不会给剪辑师排名，也不会对团队做对标。"
+                "x": "“它们可以复制声音……但我们依然绝不会使用，因为那不是我们的演员，”她接着说，“台词我们会找编剧。我不会问Claude：‘他们该说什么？’”"
               },
               {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie-editor.jpg?width=1600&height=1000&name=eddie-editor.jpg"
+                "t": "p",
+                "x": "《Sunrise on the Reaping》将由Lionsgate于11月20日在影院上映，是根据Suzanne Collins青少年小说系列改编的第六部电影。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Eddie AI planifica primero\ny llega a Resolve Studio",
-          "body": "Eddie AI ahora muestra un plan antes de las ejecuciones de pago y añade un panel en DaVinci Resolve Studio.",
-          "mini_headline": "Eddie AI planifica primero",
+          "headline": "Hunger Games probó diálogos ADR\nprimero con voces de IA",
+          "body": "Sunrise on the Reaping probó en posproducción diálogos de ADR con voces de IA antes de que los actores los grabaran.",
+          "mini_headline": "Voces de IA ensayan diálogos ADR",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.redsharknews.com/hubfs/eddie%20ai%20updates-1.jpg"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/RP_A1423_ada1cd.jpg?w=1200"
               },
               {
                 "t": "p",
-                "x": "La última actualización de Eddie AI, presentada para NAB Show New York, muestra un plan antes de cualquier ejecución de pago, añade un panel para Resolve Studio e importa plantillas de After Effects. Las nuevas funciones empresariales incluyen el uso de claves propias con Anthropic (Claude), OpenAI (ChatGPT) y Google (Gemini), ejecución local en las instalaciones del cliente, propiedad de la IP por parte del cliente, ningún entrenamiento con datos de clientes y auditorías SOC 2 Type I y II con certificación GDPR."
-              },
-              {
-                "t": "video",
-                "yt": "KaiEjtkvfek"
+                "x": "La IA sigue incorporándose a las etapas de posproducción de las películas de estudio, aunque Nina Jacobson, productora de la franquicia “Hunger Games”, todavía la ve como una “herramienta para los artistas” y “no un sustituto” de ellos."
               },
               {
                 "t": "p",
-                "x": "Los prompts que vayan a gastar créditos ahora devuelven un plan que enumera cada paso e indica cuáles cuestan créditos. Se puede aprobar, cambiar un paso o eliminarlo, y nada se ejecuta ni se cobra hasta aprobar la lista. Cuando un paso implica una elección, como una corrección de color, Eddie muestra las opciones como fotogramas del propio metraje."
-              },
-              {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie%20ai%20prompts.jpg?width=1920&height=1080&name=eddie%20ai%20prompts.jpg"
+                "x": "En conversación con Brent Lang, director de IndieWire, en el Future of Filmmaking Summit de IndieWire en Los Ángeles, Jacobson contó que el equipo usó aproximaciones de los actores generadas con IA para probar nuevas lecturas de diálogo en la precuela “Sunrise on the Reaping”. Después, esas líneas se grababan con el reparto en el proceso tradicional de reemplazo automático de diálogo (ADR)."
               },
               {
                 "t": "p",
-                "x": "El panel de DaVinci Resolve Studio explora bins, importa metraje, líneas de tiempo y clips multicámara, y devuelve las ediciones como una nueva línea de tiempo. Una exportación “Source clips” genera un evento del navegador de Final Cut Pro vinculado de nuevo a los originales de cámara, y los cortes de entrevistas multicámara de Premiere ahora se reconstruyen como clips multicámara conmutables."
+                "x": "“Usamos [la IA] de forma muy concreta como herramienta —dentro de la producción, dentro de la posproducción— y, al mismo tiempo, nunca para reemplazar a ninguno de nuestros artistas ni nada de lo que se ve en pantalla”, dijo Jacobson. “[La IA] es una gran herramienta para el ADR”."
               },
               {
                 "t": "p",
-                "x": "Se añadieron trece páginas de tarea única, desde quitar silencios y muletillas hasta subtítulos, doblaje, B-roll y redimensionado a vertical. Una nueva fila del espacio de trabajo muestra horas ahorradas, proyectos ejecutados y ediciones exportadas; los espacios de equipo añaden créditos y duración prevista, pero nada clasifica a los editores ni compara equipos."
+                "x": "“Pueden duplicar una voz… Pero aun así nunca la usaríamos porque no son nuestros actores”, continuó. “Para los diálogos acudimos a nuestro guionista. No le pregunto a Claude: ‘¿Qué deberían decir?’”"
               },
               {
-                "t": "img",
-                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie-editor.jpg?width=1600&height=1000&name=eddie-editor.jpg"
+                "t": "p",
+                "x": "“Sunrise on the Reaping”, que Lionsgate estrena en cines el 20 de noviembre, es la sexta adaptación cinematográfica de la serie de libros juveniles de Suzanne Collins."
               }
             ]
           }
@@ -435,237 +355,267 @@
       }
     },
     {
-      "id": "movies-axe-ai-commercial",
+      "id": "movies-stage32-vetted-marketplace",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "보류된 AXE 광고\nAI로 되살아났다",
-      "body": "Cassandra Brooksbank이 예산에 묻힌 AXE 광고를 AI로 되살렸다.",
-      "mini_headline": "AXE 광고, AI로 부활",
+      "headline": "Stage 32 검증 마켓\nAI 슬롭 걸러낸다",
+      "body": "Stage 32가 AI 대본 범람에 맞서 사람이 검증한 프로젝트 마켓을 열었다.",
+      "mini_headline": "Stage 32, AI 슬롭 걸러낸다",
       "tool": "Movies",
-      "source": "No Film School",
-      "url": "https://nofilmschool.com/axe-by-cassandra-brooksbank",
+      "source": "Deadline",
+      "url": "https://deadline.com/2026/10/stage-32-marketplace-combat-ai-slop-projects-1237170475/",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://nofilmschool.com/media-library/axe-by-cassandra-brooksbank.jpg?id=68494219&width=1245&height=700&quality=50&coordinates=237%2C0%2C237%2C0"
+            "src": "https://deadline.com/wp-content/uploads/2025/07/RBCannes-e1752566295303.jpg?w=1024",
+            "cap": "Richard Botto"
           },
           {
             "t": "p",
-            "x": "2021년 Cassandra Brooksbank 감독은 The Martin Agency가 기획한 AXE 광고의 연출안을 냈다. New York 지하철에서 한 남자의 거대한 주황색 패딩 재킷이 부풀어 오르다가 겁에 질린 승객들에게 성경에나 나올 법한 양의 땀을 쏟아내는 이야기였다. 프로젝트는 예산 문제로 보류됐다."
+            "x": "EXCLUSIVE: 시나리오 플랫폼 Stage 32가 AI가 쓴(AI-written) 프로젝트가 밀려드는 데 일부 대응하려고 공식 마켓플레이스를 열었다."
           },
           {
             "t": "p",
-            "x": "다섯 해 뒤 협업형 AI 영화 제작 플랫폼 Absurd에서 크리에이티브 디렉터로 일하던 그는 이 광고를 60초짜리 비공식 AXE 스펙 광고 For Days That Run Hot으로 다시 만들었다. 트리트먼트부터 캐스팅, 의상, 로케이션, 숏 리스트, 스토리보드까지 실제 제작처럼 밟아 나갔다."
-          },
-          {
-            "t": "img",
-            "src": "https://nofilmschool.com/media-library/image.gif?id=68494812&width=980"
+            "x": "어제 문을 연 Stage 32 Marketplace에서 임원들은 사람이 진행하는 ‘평가 과정’을 통과해 철저히 검증된 영화·TV 프로젝트를 찾아볼 수 있다. 마켓플레이스에는 Stage 32의 15년 역사 동안 제출된 대본 가운데 ‘뛰어난 평가’를 받은 작품만 오른다. 임원들은 프로젝트마다 이력을 검토하고 대본과 자료를 내려받으며 창작자에게 미팅을 요청할 수 있다."
           },
           {
             "t": "p",
-            "x": "그는 저마다 다른 합성 캐릭터 20명가량을 캐스팅했다. 인물 사진에는 GPT Image 2.5 Sunburst를, 여러 각도의 레퍼런스 묶음에는 Uni 1.1을 썼고 일관성을 지키려고 캐릭터를 Absurd의 메모리에 고정했다. 영상은 주로 Seedance 2.5로 뽑았다. 48개 숏 리스트를 3–5개 숏씩 묶어 이틀가량 생성했다."
-          },
-          {
-            "t": "img",
-            "src": "https://nofilmschool.com/media-library/image.gif?id=68494852&width=980"
+            "x": "Stage 32는 2011년 출범 이후 235,000개 프로젝트를 평가했다고 밝혔다. 마켓플레이스는 4,000개가 넘는 프로젝트를 싣고, 업계 임원 3,000명에게 접근 권한을 준 채 출발한다."
           },
           {
             "t": "p",
-            "x": "편집은 Premiere에서 직접 했고 색보정은 촬영감독 Andrew Fletcher가 DaVinci Resolve에서 맡아 Filmbox Pro로 필름 그레인을 입혔다. 그는 “AI는 이미지를 생성할 수 있다. 하지만 어떤 이미지가 만들 가치가 있는지는 정하지 못한다”고 썼다."
+            "x": "Stage 32에서 출발한 최근 작품으로는 Jeffrey Dean Morgan과 Jack Quaid가 출연한 스릴러 Neighborhood Watch, William Baldwin 주연의 No Address가 있다."
+          },
+          {
+            "t": "p",
+            "x": "Stage 32를 운영하는 Richard Botto는 플랫폼이 AI를 엄격히 금지하고 마켓플레이스도 AI 슬롭에 맞서는 방법의 하나로 쓰고 있다고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "“훌륭한 작품은 끊임없이 쓰이고 있지만, 프로듀서와 임원들에게는 세상에 나온 모든 것을 평가할 시간도 자원도 없다”고 Botto는 말했다. 그는 WGA 소속 시나리오 작가이자 Sundance 수상작 Another Happy Day의 프로듀서다."
+          },
+          {
+            "t": "p",
+            "x": "“나 역시 작가이자 프로듀서로서 이 문제를 양쪽에서 모두 봤다. 업계를 더 가깝게 잇기 위해 Stage 32를 만들었고, Marketplace는 그 비전의 결실이다.”"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A shelved AXE commercial\nreturns, made with AI",
-          "body": "Five years after budget constraints shelved an AXE spot she pitched, director Cassandra Brooksbank rebuilt it with AI.",
-          "mini_headline": "AXE ad revived with AI",
+          "headline": "Stage 32 opens a vetted market\nto filter out AI slop",
+          "body": "Script platform Stage 32 launched a marketplace of human-vetted projects, partly to fight a flood of AI-written scripts.",
+          "mini_headline": "Stage 32 vets out AI slop",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://nofilmschool.com/media-library/axe-by-cassandra-brooksbank.jpg?id=68494219&width=1245&height=700&quality=50&coordinates=237%2C0%2C237%2C0"
+                "src": "https://deadline.com/wp-content/uploads/2025/07/RBCannes-e1752566295303.jpg?w=1024",
+                "cap": "Richard Botto"
               },
               {
                 "t": "p",
-                "x": "In 2021, director Cassandra Brooksbank pitched to direct an AXE commercial developed at The Martin Agency: a guy on a New York subway whose enormous orange puffer jacket inflates until it unleashes a biblical amount of sweat onto horrified commuters. The project was shelved for budgetary reasons."
+                "x": "EXCLUSIVE: Script platform Stage 32 has launched an official marketplace to partly help combat an influx of AI-written projects."
               },
               {
                 "t": "p",
-                "x": "Five years later, working as a creative director at Absurd, a collaborative AI filmmaking platform, she rebuilt it as For Days That Run Hot, a 60-second unofficial AXE spec commercial, approaching it like a real production: treatment, casting, wardrobe, locations, shot list and storyboards."
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.gif?id=68494812&width=980"
+                "x": "The Stage 32 Marketplace, which launched yesterday, allows executives to discover film and TV projects that have been fully vetted via an “evaluation process” conducted by humans. Only scripts submitted across Stage 32’s 15-year existence with “exceptional valuations” will appear on the marketplace and execs can then review each project’s credentials and download scripts and materials, while requesting meetings with the creators."
               },
               {
                 "t": "p",
-                "x": "She cast about 20 distinct synthetic characters, using GPT Image 2.5 Sunburst for portraits and Uni 1.1 for multi-angle reference packs, and locked them in Absurd’s memory to keep them consistent. Video came mainly from Seedance 2.5, generated in sequences of 3–5 shots from a 48-shot list over roughly two days."
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.gif?id=68494852&width=980"
+                "x": "Since 2011 launch, Stage 32 has evaluated 235,000 projects, it said. The marketplace kickstarts with more than 4,000 and access for 3,000 industry execs."
               },
               {
                 "t": "p",
-                "x": "She cut it in Premiere, and cinematographer Andrew Fletcher graded it in DaVinci Resolve and added film grain with Filmbox Pro. “AI can generate images. It can’t decide which images are worth making,” she writes."
+                "x": "Recent projects to have started life on Stage 32 include Jeffrey Dean Morgan and Jack Quaid thriller Neighborhood Watch and No Address starring William Baldwin."
+              },
+              {
+                "t": "p",
+                "x": "Richard Botto, who runs Stage 32, said the platform has a strict no AI policy and is using the marketplace as one way to combat AI slop."
+              },
+              {
+                "t": "p",
+                "x": "“There’s no shortage of great material being written, but producers and executives simply don’t have the time or resources to evaluate everything that’s out there,” said Botto, a WGA screenwriter, producer of the Sundance award-winning Another Happy Day."
+              },
+              {
+                "t": "p",
+                "x": "“As a writer and producer myself, I saw this challenge from both sides. I built Stage 32 to bring the industry closer together, and the Marketplace is the culmination of that vision.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "보류된 AXE 광고\nAI로 되살아났다",
-          "body": "Cassandra Brooksbank이 예산에 묻힌 AXE 광고를 AI로 되살렸다.",
-          "mini_headline": "AXE 광고, AI로 부활",
+          "headline": "Stage 32 검증 마켓\nAI 슬롭 걸러낸다",
+          "body": "Stage 32가 AI 대본 범람에 맞서 사람이 검증한 프로젝트 마켓을 열었다.",
+          "mini_headline": "Stage 32, AI 슬롭 걸러낸다",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://nofilmschool.com/media-library/axe-by-cassandra-brooksbank.jpg?id=68494219&width=1245&height=700&quality=50&coordinates=237%2C0%2C237%2C0"
+                "src": "https://deadline.com/wp-content/uploads/2025/07/RBCannes-e1752566295303.jpg?w=1024",
+                "cap": "Richard Botto"
               },
               {
                 "t": "p",
-                "x": "2021년 Cassandra Brooksbank 감독은 The Martin Agency가 기획한 AXE 광고의 연출안을 냈다. New York 지하철에서 한 남자의 거대한 주황색 패딩 재킷이 부풀어 오르다가 겁에 질린 승객들에게 성경에나 나올 법한 양의 땀을 쏟아내는 이야기였다. 프로젝트는 예산 문제로 보류됐다."
+                "x": "EXCLUSIVE: 시나리오 플랫폼 Stage 32가 AI가 쓴(AI-written) 프로젝트가 밀려드는 데 일부 대응하려고 공식 마켓플레이스를 열었다."
               },
               {
                 "t": "p",
-                "x": "다섯 해 뒤 협업형 AI 영화 제작 플랫폼 Absurd에서 크리에이티브 디렉터로 일하던 그는 이 광고를 60초짜리 비공식 AXE 스펙 광고 For Days That Run Hot으로 다시 만들었다. 트리트먼트부터 캐스팅, 의상, 로케이션, 숏 리스트, 스토리보드까지 실제 제작처럼 밟아 나갔다."
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.gif?id=68494812&width=980"
+                "x": "어제 문을 연 Stage 32 Marketplace에서 임원들은 사람이 진행하는 ‘평가 과정’을 통과해 철저히 검증된 영화·TV 프로젝트를 찾아볼 수 있다. 마켓플레이스에는 Stage 32의 15년 역사 동안 제출된 대본 가운데 ‘뛰어난 평가’를 받은 작품만 오른다. 임원들은 프로젝트마다 이력을 검토하고 대본과 자료를 내려받으며 창작자에게 미팅을 요청할 수 있다."
               },
               {
                 "t": "p",
-                "x": "그는 저마다 다른 합성 캐릭터 20명가량을 캐스팅했다. 인물 사진에는 GPT Image 2.5 Sunburst를, 여러 각도의 레퍼런스 묶음에는 Uni 1.1을 썼고 일관성을 지키려고 캐릭터를 Absurd의 메모리에 고정했다. 영상은 주로 Seedance 2.5로 뽑았다. 48개 숏 리스트를 3–5개 숏씩 묶어 이틀가량 생성했다."
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.gif?id=68494852&width=980"
+                "x": "Stage 32는 2011년 출범 이후 235,000개 프로젝트를 평가했다고 밝혔다. 마켓플레이스는 4,000개가 넘는 프로젝트를 싣고, 업계 임원 3,000명에게 접근 권한을 준 채 출발한다."
               },
               {
                 "t": "p",
-                "x": "편집은 Premiere에서 직접 했고 색보정은 촬영감독 Andrew Fletcher가 DaVinci Resolve에서 맡아 Filmbox Pro로 필름 그레인을 입혔다. 그는 “AI는 이미지를 생성할 수 있다. 하지만 어떤 이미지가 만들 가치가 있는지는 정하지 못한다”고 썼다."
+                "x": "Stage 32에서 출발한 최근 작품으로는 Jeffrey Dean Morgan과 Jack Quaid가 출연한 스릴러 Neighborhood Watch, William Baldwin 주연의 No Address가 있다."
+              },
+              {
+                "t": "p",
+                "x": "Stage 32를 운영하는 Richard Botto는 플랫폼이 AI를 엄격히 금지하고 마켓플레이스도 AI 슬롭에 맞서는 방법의 하나로 쓰고 있다고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "“훌륭한 작품은 끊임없이 쓰이고 있지만, 프로듀서와 임원들에게는 세상에 나온 모든 것을 평가할 시간도 자원도 없다”고 Botto는 말했다. 그는 WGA 소속 시나리오 작가이자 Sundance 수상작 Another Happy Day의 프로듀서다."
+              },
+              {
+                "t": "p",
+                "x": "“나 역시 작가이자 프로듀서로서 이 문제를 양쪽에서 모두 봤다. 업계를 더 가깝게 잇기 위해 Stage 32를 만들었고, Marketplace는 그 비전의 결실이다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "お蔵入りのAXE広告\nAIで生まれ変わる",
-          "body": "Cassandra Brooksbank監督は予算で頓挫したAXE広告をAIで作り直した。",
-          "mini_headline": "AXE広告、AIで復活",
+          "headline": "Stage 32、審査制市場\nAIスロップを排除",
+          "body": "Stage 32はAI脚本の氾濫に対抗し、人が審査した企画のマーケットを開設した。",
+          "mini_headline": "Stage 32がAIスロップを選別",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://nofilmschool.com/media-library/axe-by-cassandra-brooksbank.jpg?id=68494219&width=1245&height=700&quality=50&coordinates=237%2C0%2C237%2C0"
+                "src": "https://deadline.com/wp-content/uploads/2025/07/RBCannes-e1752566295303.jpg?w=1024",
+                "cap": "Richard Botto"
               },
               {
                 "t": "p",
-                "x": "2021年、Cassandra Brooksbank監督はThe Martin Agencyが企画したAXEのCMの監督に名乗りを上げた。New Yorkの地下鉄で男性の巨大なオレンジ色のダウンジャケットが膨らみ続け、ついには聖書級の量の汗をおびえる乗客に浴びせるという内容だ。企画は予算上の理由でお蔵入りとなった。"
+                "x": "EXCLUSIVE：脚本プラットフォームStage 32が、AIで書かれた（AI-written）企画の流入への対策の一環として、公式マーケットプレイスを立ち上げた。"
               },
               {
                 "t": "p",
-                "x": "五年後、共同制作型のAI映画制作プラットフォームAbsurdでクリエイティブディレクターを務める彼女は、これを60秒の非公式AXEスペックCM「For Days That Run Hot」として作り直した。トリートメント、キャスティング、衣装、ロケーション、ショットリスト、絵コンテと、本物の制作と同じ手順で臨んだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.gif?id=68494812&width=980"
+                "x": "昨日開設されたStage 32 Marketplaceでは、人間による「評価プロセス」で徹底的に審査された映画・TV企画を幹部が見つけられる。Stage 32の15年の歴史を通じて提出された脚本のうち「卓越した評価」を得たものだけが掲載され、幹部は各企画の実績を確認し、脚本や資料をダウンロードしながら、クリエイターとの面談を申し込める。"
               },
               {
                 "t": "p",
-                "x": "彼女は約20人の異なる合成キャラクターをキャスティングし、ポートレートにはGPT Image 2.5 Sunburst、複数アングルの参照素材にはUni 1.1を使い、一貫性を保つためキャラクターをAbsurdのメモリに固定した。映像は主にSeedance 2.5で、48ショットのリストから3–5ショットずつ、およそ二日かけて生成した。"
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.gif?id=68494852&width=980"
+                "x": "Stage 32によると、2011年の開始以来、235,000件の企画を評価してきた。マーケットプレイスは4,000件超の企画と、業界幹部3,000人のアクセスでスタートする。"
               },
               {
                 "t": "p",
-                "x": "編集はPremiereで彼女自身が行い、撮影監督のAndrew FletcherがDaVinci Resolveでグレーディングし、Filmbox Proでフィルムグレインを加えた。「AIは画像を生成できる。だが、どの画像を作る価値があるかは決められない」と彼女は書いている。"
+                "x": "Stage 32から生まれた最近の作品には、Jeffrey Dean MorganとJack Quaid出演のスリラーNeighborhood Watchや、William Baldwin主演のNo Addressがある。"
+              },
+              {
+                "t": "p",
+                "x": "Stage 32を運営するRichard Bottoは、同プラットフォームはAIを一切認めない厳格な方針をとっており、マーケットプレイスをAIスロップ対策の一つとして活用していると述べた。"
+              },
+              {
+                "t": "p",
+                "x": "「優れた作品は数多く書かれているが、プロデューサーや幹部には世に出ているすべてを評価する時間も資源もない」と、WGA所属の脚本家で、Sundance受賞作Another Happy DayのプロデューサーでもあるBottoは語った。"
+              },
+              {
+                "t": "p",
+                "x": "「私自身、脚本家でありプロデューサーとして、この課題を両側から見てきた。業界をより近づけるためにStage 32を作った。Marketplaceはそのビジョンの集大成だ」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "被搁置的AXE广告\n借AI重生",
-          "body": "导演Cassandra Brooksbank用AI重做了五年前因预算搁浅的AXE广告。",
-          "mini_headline": "AXE广告借AI重生",
+          "headline": "Stage 32推出审核市场\n过滤AI垃圾内容",
+          "body": "剧本平台Stage 32推出人工审核的项目市场，部分是为应对AI剧本泛滥。",
+          "mini_headline": "Stage 32过滤AI垃圾内容",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://nofilmschool.com/media-library/axe-by-cassandra-brooksbank.jpg?id=68494219&width=1245&height=700&quality=50&coordinates=237%2C0%2C237%2C0"
+                "src": "https://deadline.com/wp-content/uploads/2025/07/RBCannes-e1752566295303.jpg?w=1024",
+                "cap": "Richard Botto"
               },
               {
                 "t": "p",
-                "x": "2021年，导演Cassandra Brooksbank争取执导The Martin Agency开发的一支AXE广告：New York地铁上一名男子的巨大橙色羽绒服不断膨胀，最后向惊恐的乘客喷出堪比圣经级别的大量汗水。该项目因预算原因被搁置。"
+                "x": "EXCLUSIVE：剧本平台Stage 32推出官方市场，部分目的是应对大量涌入的AI写作（AI-written）项目。"
               },
               {
                 "t": "p",
-                "x": "五年后，她在协作式AI电影制作平台Absurd担任创意总监，把它重做成一支60秒的非官方AXE样片广告《For Days That Run Hot》，并像真正的制作一样推进：创意阐述、选角、服装、场景、分镜清单和故事板。"
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.gif?id=68494812&width=980"
+                "x": "昨日上线的Stage 32 Marketplace让高管们能够发现经过人工“评估流程”全面审核的电影和TV项目。只有Stage 32成立15年来提交的、获得“出色评价”的剧本才会出现在该市场上，高管可以查看每个项目的资历、下载剧本和资料，并申请与创作者会面。"
               },
               {
                 "t": "p",
-                "x": "她选定了约20个各不相同的合成角色，用GPT Image 2.5 Sunburst生成肖像，用Uni 1.1生成多角度参考图包，并把角色锁定在Absurd的记忆中以保持一致。视频主要来自Seedance 2.5，从48个镜头的清单中按每组3–5个镜头生成，前后约两天。"
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.gif?id=68494852&width=980"
+                "x": "Stage 32表示，自2011年上线以来已评估235,000个项目。该市场起步时有超过4,000个项目，并向3,000名业内高管开放。"
               },
               {
                 "t": "p",
-                "x": "她在Premiere中完成剪辑，摄影指导Andrew Fletcher在DaVinci Resolve中调色，并用Filmbox Pro加上胶片颗粒。她写道：“AI能生成图像，却无法决定哪些图像值得去做。”"
+                "x": "近期从Stage 32起步的项目包括Jeffrey Dean Morgan和Jack Quaid主演的惊悚片Neighborhood Watch，以及William Baldwin主演的No Address。"
+              },
+              {
+                "t": "p",
+                "x": "运营Stage 32的Richard Botto表示，平台实行严格的禁用AI政策，并把这一市场作为对抗AI垃圾内容的一种方式。"
+              },
+              {
+                "t": "p",
+                "x": "“优秀的作品从来不缺，但制片人和高管根本没有时间和资源去评估所有作品，”Botto说。他是WGA编剧，也是Sundance获奖影片Another Happy Day的制片人。"
+              },
+              {
+                "t": "p",
+                "x": "“作为编剧和制片人，我从两方面都看到了这个难题。我创建Stage 32是为了让行业联系更紧密，而Marketplace正是这一愿景的集大成。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un anuncio de AXE archivado\nvuelve, hecho con AI",
-          "body": "Cinco años después de que el presupuesto frenara su anuncio de AXE, Cassandra Brooksbank lo rehízo con AI.",
-          "mini_headline": "Anuncio de AXE revivido con AI",
+          "headline": "Stage 32 abre un mercado curado\npara filtrar la basura de IA",
+          "body": "Stage 32 lanzó un mercado de proyectos revisados por personas, en parte para frenar la avalancha de guiones de IA.",
+          "mini_headline": "Stage 32 filtra la basura de IA",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://nofilmschool.com/media-library/axe-by-cassandra-brooksbank.jpg?id=68494219&width=1245&height=700&quality=50&coordinates=237%2C0%2C237%2C0"
+                "src": "https://deadline.com/wp-content/uploads/2025/07/RBCannes-e1752566295303.jpg?w=1024",
+                "cap": "Richard Botto"
               },
               {
                 "t": "p",
-                "x": "En 2021, la directora Cassandra Brooksbank se postuló para dirigir un anuncio de AXE desarrollado en The Martin Agency: un hombre en el metro de New York cuyo enorme abrigo acolchado naranja se infla hasta liberar una cantidad bíblica de sudor sobre pasajeros horrorizados. El proyecto quedó archivado por motivos de presupuesto."
+                "x": "EXCLUSIVE: La plataforma de guiones Stage 32 ha lanzado un mercado oficial en parte para ayudar a combatir la llegada masiva de proyectos escritos con IA (AI-written)."
               },
               {
                 "t": "p",
-                "x": "Cinco años después, como directora creativa en Absurd, una plataforma colaborativa de cine con AI, lo rehízo como For Days That Run Hot, un anuncio especulativo no oficial de AXE de 60 segundos, y lo abordó como una producción real: tratamiento, casting, vestuario, localizaciones, lista de planos y storyboards."
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.gif?id=68494812&width=980"
+                "x": "El Stage 32 Marketplace, que se lanzó ayer, permite a los ejecutivos descubrir proyectos de cine y TV revisados a fondo mediante un “proceso de evaluación” realizado por personas. Solo aparecerán en el mercado los guiones enviados a lo largo de los 15 años de existencia de Stage 32 que obtuvieron “valoraciones excepcionales”, y los ejecutivos podrán revisar las credenciales de cada proyecto y descargar guiones y materiales, además de solicitar reuniones con sus creadores."
               },
               {
                 "t": "p",
-                "x": "Eligió unos 20 personajes sintéticos distintos, con GPT Image 2.5 Sunburst para los retratos y Uni 1.1 para paquetes de referencia desde varios ángulos, y los fijó en la memoria de Absurd para mantenerlos coherentes. El video salió sobre todo de Seedance 2.5, generado en secuencias de 3–5 planos a partir de una lista de 48 planos durante unos dos días."
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.gif?id=68494852&width=980"
+                "x": "Desde su lanzamiento en 2011, Stage 32 ha evaluado 235.000 proyectos, según la empresa. El mercado arranca con más de 4.000 proyectos y acceso para 3.000 ejecutivos del sector."
               },
               {
                 "t": "p",
-                "x": "Ella lo montó en Premiere, y el director de fotografía Andrew Fletcher hizo la corrección de color en DaVinci Resolve y añadió grano de película con Filmbox Pro. “La AI puede generar imágenes. No puede decidir qué imágenes vale la pena hacer”, escribe."
+                "x": "Entre los proyectos recientes que nacieron en Stage 32 figuran el thriller Neighborhood Watch, con Jeffrey Dean Morgan y Jack Quaid, y No Address, protagonizada por William Baldwin."
+              },
+              {
+                "t": "p",
+                "x": "Richard Botto, que dirige Stage 32, dijo que la plataforma tiene una estricta política que prohíbe la IA y que usa el mercado como una forma de combatir la basura generada por IA."
+              },
+              {
+                "t": "p",
+                "x": "“No falta buen material escrito, pero los productores y ejecutivos simplemente no tienen el tiempo ni los recursos para evaluar todo lo que hay”, dijo Botto, guionista de la WGA y productor de Another Happy Day, premiada en Sundance."
+              },
+              {
+                "t": "p",
+                "x": "“Como guionista y productor, he visto este desafío desde ambos lados. Creé Stage 32 para acercar a la industria, y el Marketplace es la culminación de esa visión”."
               }
             ]
           }
@@ -673,153 +623,173 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "보류된 AXE 광고\nAI로 되살아났다",
-          "body": "Cassandra Brooksbank이 예산에 묻힌 AXE 광고를 AI로 되살렸다.",
-          "mini_headline": "AXE 광고, AI로 부활",
+          "headline": "Stage 32 검증 마켓\nAI 슬롭 걸러낸다",
+          "body": "Stage 32가 AI 대본 범람에 맞서 사람이 검증한 프로젝트 마켓을 열었다.",
+          "mini_headline": "Stage 32, AI 슬롭 걸러낸다",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://nofilmschool.com/media-library/axe-by-cassandra-brooksbank.jpg?id=68494219&width=1245&height=700&quality=50&coordinates=237%2C0%2C237%2C0"
+                "src": "https://deadline.com/wp-content/uploads/2025/07/RBCannes-e1752566295303.jpg?w=1024",
+                "cap": "Richard Botto"
               },
               {
                 "t": "p",
-                "x": "2021년 Cassandra Brooksbank 감독은 The Martin Agency가 기획한 AXE 광고의 연출을 제안했다. New York 지하철 속 한 남자의 거대한 주황색 패딩 재킷이 부풀어 오르다 겁에 질린 승객들에게 성경에 나올 법한 양의 땀을 쏟아내는 내용이었다. 이 프로젝트는 예산 문제로 보류됐다."
+                "x": "EXCLUSIVE: 시나리오 플랫폼 Stage 32가 AI가 쓴(AI-written) 프로젝트의 유입에 일부 대응하기 위해 공식 마켓플레이스를 열었다."
               },
               {
                 "t": "p",
-                "x": "다섯 해 뒤, 협업형 AI 영화 제작 플랫폼 Absurd에서 크리에이티브 디렉터로 일하던 그는 이 광고를 60초짜리 비공식 AXE 스펙 광고 For Days That Run Hot으로 다시 만들었다. 트리트먼트, 캐스팅, 의상, 로케이션, 숏 리스트, 스토리보드까지 실제 제작처럼 접근했다."
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.gif?id=68494812&width=980"
+                "x": "어제 문을 연 Stage 32 Marketplace에서 임원들은 사람이 진행하는 ‘평가 과정’을 거쳐 철저히 검증된 영화·TV 프로젝트를 찾을 수 있다. Stage 32의 15년 역사 동안 제출된 대본 가운데 ‘뛰어난 평가’를 받은 작품만 마켓플레이스에 오르며, 임원들은 각 프로젝트의 이력을 검토하고 대본과 자료를 내려받으면서 창작자와의 미팅을 요청할 수 있다."
               },
               {
                 "t": "p",
-                "x": "그는 서로 다른 합성 캐릭터 20명가량을 캐스팅했다. 인물 사진에는 GPT Image 2.5 Sunburst를, 여러 각도의 레퍼런스 묶음에는 Uni 1.1을 썼고, 일관성을 지키려고 캐릭터를 Absurd의 메모리에 고정했다. 영상은 주로 Seedance 2.5로 만들었으며, 48개 숏 리스트에서 3–5개 숏씩 묶어 이틀가량 생성했다."
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.gif?id=68494852&width=980"
+                "x": "Stage 32는 2011년 출범 이후 235,000개 프로젝트를 평가했다고 밝혔다. 마켓플레이스는 4,000개가 넘는 프로젝트와 업계 임원 3,000명의 접근 권한으로 시작한다."
               },
               {
                 "t": "p",
-                "x": "편집은 Premiere에서 직접 했고, 촬영감독 Andrew Fletcher가 DaVinci Resolve에서 색보정을 맡아 Filmbox Pro로 필름 그레인을 더했다. 그는 “AI는 이미지를 생성할 수 있다. 하지만 어떤 이미지가 만들 가치가 있는지는 정하지 못한다”고 썼다."
+                "x": "Stage 32에서 출발한 최근 작품으로는 Jeffrey Dean Morgan과 Jack Quaid가 출연한 스릴러 Neighborhood Watch, William Baldwin 주연의 No Address가 있다."
+              },
+              {
+                "t": "p",
+                "x": "Stage 32를 운영하는 Richard Botto는 플랫폼이 AI를 허용하지 않는 엄격한 정책을 두고 있으며, 마켓플레이스를 AI 슬롭에 맞서는 한 방법으로 활용하고 있다고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "“훌륭한 작품은 끊임없이 쓰이고 있지만, 프로듀서와 임원들에게는 세상에 나온 모든 것을 평가할 시간도 자원도 없다”고 WGA 소속 시나리오 작가이자 Sundance 수상작 Another Happy Day의 프로듀서인 Botto는 말했다."
+              },
+              {
+                "t": "p",
+                "x": "“나 역시 작가이자 프로듀서로서 이 문제를 양쪽에서 모두 봤다. 업계를 더 가깝게 잇기 위해 Stage 32를 만들었고, Marketplace는 그 비전의 결실이다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "お蔵入りのAXE広告\nAIで生まれ変わる",
-          "body": "Cassandra Brooksbank監督は予算で頓挫したAXE広告をAIで作り直した。",
-          "mini_headline": "AXE広告、AIで復活",
+          "headline": "Stage 32、審査制市場\nAIスロップを排除",
+          "body": "Stage 32はAI脚本の氾濫に対抗し、人が審査した企画のマーケットを開設した。",
+          "mini_headline": "Stage 32がAIスロップを選別",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://nofilmschool.com/media-library/axe-by-cassandra-brooksbank.jpg?id=68494219&width=1245&height=700&quality=50&coordinates=237%2C0%2C237%2C0"
+                "src": "https://deadline.com/wp-content/uploads/2025/07/RBCannes-e1752566295303.jpg?w=1024",
+                "cap": "Richard Botto"
               },
               {
                 "t": "p",
-                "x": "2021年、Cassandra Brooksbank監督はThe Martin Agencyが企画したAXEのCMの監督に名乗りを上げた。New Yorkの地下鉄で男性の巨大なオレンジ色のダウンジャケットが膨らみ続け、ついには聖書級の量の汗をおびえる乗客に浴びせるという内容だ。企画は予算上の理由でお蔵入りとなった。"
+                "x": "EXCLUSIVE：脚本プラットフォームStage 32が、AIで書かれた（AI-written）企画の流入への対策の一環として、公式マーケットプレイスを立ち上げた。"
               },
               {
                 "t": "p",
-                "x": "五年後、共同制作型のAI映画制作プラットフォームAbsurdでクリエイティブディレクターを務める彼女は、これを60秒の非公式AXEスペックCM「For Days That Run Hot」として作り直した。トリートメント、キャスティング、衣装、ロケーション、ショットリスト、絵コンテと、本物の制作と同じ手順で臨んだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.gif?id=68494812&width=980"
+                "x": "昨日開設されたStage 32 Marketplaceでは、人間による「評価プロセス」で徹底的に審査された映画・TV企画を幹部が見つけられる。Stage 32の15年の歴史を通じて提出された脚本のうち「卓越した評価」を得たものだけが掲載され、幹部は各企画の実績を確認し、脚本や資料をダウンロードしながら、クリエイターとの面談を申し込める。"
               },
               {
                 "t": "p",
-                "x": "彼女は約20人の異なる合成キャラクターをキャスティングし、ポートレートにはGPT Image 2.5 Sunburst、複数アングルの参照素材にはUni 1.1を使い、一貫性を保つためキャラクターをAbsurdのメモリに固定した。映像は主にSeedance 2.5で、48ショットのリストから3–5ショットずつ、およそ二日かけて生成した。"
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.gif?id=68494852&width=980"
+                "x": "Stage 32によると、2011年の開始以来、235,000件の企画を評価してきた。マーケットプレイスは4,000件超の企画と、業界幹部3,000人のアクセスでスタートする。"
               },
               {
                 "t": "p",
-                "x": "編集はPremiereで彼女自身が行い、撮影監督のAndrew FletcherがDaVinci Resolveでグレーディングし、Filmbox Proでフィルムグレインを加えた。「AIは画像を生成できる。だが、どの画像を作る価値があるかは決められない」と彼女は書いている。"
+                "x": "Stage 32から生まれた最近の作品には、Jeffrey Dean MorganとJack Quaid出演のスリラーNeighborhood Watchや、William Baldwin主演のNo Addressがある。"
+              },
+              {
+                "t": "p",
+                "x": "Stage 32を運営するRichard Bottoは、同プラットフォームはAIを一切認めない厳格な方針をとっており、マーケットプレイスをAIスロップ対策の一つとして活用していると述べた。"
+              },
+              {
+                "t": "p",
+                "x": "「優れた作品は数多く書かれているが、プロデューサーや幹部には世に出ているすべてを評価する時間も資源もない」と、WGA所属の脚本家で、Sundance受賞作Another Happy DayのプロデューサーでもあるBottoは語った。"
+              },
+              {
+                "t": "p",
+                "x": "「私自身、脚本家でありプロデューサーとして、この課題を両側から見てきた。業界をより近づけるためにStage 32を作った。Marketplaceはそのビジョンの集大成だ」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "被搁置的AXE广告\n借AI重生",
-          "body": "导演Cassandra Brooksbank用AI重做了五年前因预算搁浅的AXE广告。",
-          "mini_headline": "AXE广告借AI重生",
+          "headline": "Stage 32推出审核市场\n过滤AI垃圾内容",
+          "body": "剧本平台Stage 32推出人工审核的项目市场，部分是为应对AI剧本泛滥。",
+          "mini_headline": "Stage 32过滤AI垃圾内容",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://nofilmschool.com/media-library/axe-by-cassandra-brooksbank.jpg?id=68494219&width=1245&height=700&quality=50&coordinates=237%2C0%2C237%2C0"
+                "src": "https://deadline.com/wp-content/uploads/2025/07/RBCannes-e1752566295303.jpg?w=1024",
+                "cap": "Richard Botto"
               },
               {
                 "t": "p",
-                "x": "2021年，导演Cassandra Brooksbank争取执导The Martin Agency开发的一支AXE广告：New York地铁上一名男子的巨大橙色羽绒服不断膨胀，最后向惊恐的乘客喷出堪比圣经级别的大量汗水。该项目因预算原因被搁置。"
+                "x": "EXCLUSIVE：剧本平台Stage 32推出官方市场，部分目的是应对大量涌入的AI写作（AI-written）项目。"
               },
               {
                 "t": "p",
-                "x": "五年后，她在协作式AI电影制作平台Absurd担任创意总监，把它重做成一支60秒的非官方AXE样片广告《For Days That Run Hot》，并像真正的制作一样推进：创意阐述、选角、服装、场景、分镜清单和故事板。"
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.gif?id=68494812&width=980"
+                "x": "昨日上线的Stage 32 Marketplace让高管们能够发现经过人工“评估流程”全面审核的电影和TV项目。只有Stage 32成立15年来提交的、获得“出色评价”的剧本才会出现在该市场上，高管可以查看每个项目的资历、下载剧本和资料，并申请与创作者会面。"
               },
               {
                 "t": "p",
-                "x": "她选定了约20个各不相同的合成角色，用GPT Image 2.5 Sunburst生成肖像，用Uni 1.1生成多角度参考图包，并把角色锁定在Absurd的记忆中以保持一致。视频主要来自Seedance 2.5，从48个镜头的清单中按每组3–5个镜头生成，前后约两天。"
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.gif?id=68494852&width=980"
+                "x": "Stage 32表示，自2011年上线以来已评估235,000个项目。该市场起步时有超过4,000个项目，并向3,000名业内高管开放。"
               },
               {
                 "t": "p",
-                "x": "她在Premiere中完成剪辑，摄影指导Andrew Fletcher在DaVinci Resolve中调色，并用Filmbox Pro加上胶片颗粒。她写道：“AI能生成图像，却无法决定哪些图像值得去做。”"
+                "x": "近期从Stage 32起步的项目包括Jeffrey Dean Morgan和Jack Quaid主演的惊悚片Neighborhood Watch，以及William Baldwin主演的No Address。"
+              },
+              {
+                "t": "p",
+                "x": "运营Stage 32的Richard Botto表示，平台实行严格的禁用AI政策，并把这一市场作为对抗AI垃圾内容的一种方式。"
+              },
+              {
+                "t": "p",
+                "x": "“优秀的作品从来不缺，但制片人和高管根本没有时间和资源去评估所有作品，”Botto说。他是WGA编剧，也是Sundance获奖影片Another Happy Day的制片人。"
+              },
+              {
+                "t": "p",
+                "x": "“作为编剧和制片人，我从两方面都看到了这个难题。我创建Stage 32是为了让行业联系更紧密，而Marketplace正是这一愿景的集大成。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un anuncio de AXE archivado\nvuelve, hecho con AI",
-          "body": "Cinco años después de que el presupuesto frenara su anuncio de AXE, Cassandra Brooksbank lo rehízo con AI.",
-          "mini_headline": "Anuncio de AXE revivido con AI",
+          "headline": "Stage 32 abre un mercado curado\npara filtrar la basura de IA",
+          "body": "Stage 32 lanzó un mercado de proyectos revisados por personas, en parte para frenar la avalancha de guiones de IA.",
+          "mini_headline": "Stage 32 filtra la basura de IA",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://nofilmschool.com/media-library/axe-by-cassandra-brooksbank.jpg?id=68494219&width=1245&height=700&quality=50&coordinates=237%2C0%2C237%2C0"
+                "src": "https://deadline.com/wp-content/uploads/2025/07/RBCannes-e1752566295303.jpg?w=1024",
+                "cap": "Richard Botto"
               },
               {
                 "t": "p",
-                "x": "En 2021, la directora Cassandra Brooksbank se postuló para dirigir un anuncio de AXE desarrollado en The Martin Agency: un hombre en el metro de New York cuyo enorme abrigo acolchado naranja se infla hasta liberar una cantidad bíblica de sudor sobre pasajeros horrorizados. El proyecto quedó archivado por motivos de presupuesto."
+                "x": "EXCLUSIVE: La plataforma de guiones Stage 32 ha lanzado un mercado oficial en parte para ayudar a combatir la llegada masiva de proyectos escritos con IA (AI-written)."
               },
               {
                 "t": "p",
-                "x": "Cinco años después, como directora creativa en Absurd, una plataforma colaborativa de cine con AI, lo rehízo como For Days That Run Hot, un anuncio especulativo no oficial de AXE de 60 segundos, y lo abordó como una producción real: tratamiento, casting, vestuario, localizaciones, lista de planos y storyboards."
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.gif?id=68494812&width=980"
+                "x": "El Stage 32 Marketplace, que se lanzó ayer, permite a los ejecutivos descubrir proyectos de cine y TV revisados a fondo mediante un “proceso de evaluación” realizado por personas. Solo aparecerán en el mercado los guiones enviados a lo largo de los 15 años de existencia de Stage 32 que obtuvieron “valoraciones excepcionales”, y los ejecutivos podrán revisar las credenciales de cada proyecto y descargar guiones y materiales, además de solicitar reuniones con sus creadores."
               },
               {
                 "t": "p",
-                "x": "Eligió unos 20 personajes sintéticos distintos, con GPT Image 2.5 Sunburst para los retratos y Uni 1.1 para paquetes de referencia desde varios ángulos, y los fijó en la memoria de Absurd para mantenerlos coherentes. El video salió sobre todo de Seedance 2.5, generado en secuencias de 3–5 planos a partir de una lista de 48 planos durante unos dos días."
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.gif?id=68494852&width=980"
+                "x": "Desde su lanzamiento en 2011, Stage 32 ha evaluado 235.000 proyectos, según la empresa. El mercado arranca con más de 4.000 proyectos y acceso para 3.000 ejecutivos del sector."
               },
               {
                 "t": "p",
-                "x": "Ella lo montó en Premiere, y el director de fotografía Andrew Fletcher hizo la corrección de color en DaVinci Resolve y añadió grano de película con Filmbox Pro. “La AI puede generar imágenes. No puede decidir qué imágenes vale la pena hacer”, escribe."
+                "x": "Entre los proyectos recientes que nacieron en Stage 32 figuran el thriller Neighborhood Watch, con Jeffrey Dean Morgan y Jack Quaid, y No Address, protagonizada por William Baldwin."
+              },
+              {
+                "t": "p",
+                "x": "Richard Botto, que dirige Stage 32, dijo que la plataforma tiene una estricta política que prohíbe la IA y que usa el mercado como una forma de combatir la basura generada por IA."
+              },
+              {
+                "t": "p",
+                "x": "“No falta buen material escrito, pero los productores y ejecutivos simplemente no tienen el tiempo ni los recursos para evaluar todo lo que hay”, dijo Botto, guionista de la WGA y productor de Another Happy Day, premiada en Sundance."
+              },
+              {
+                "t": "p",
+                "x": "“Como guionista y productor, he visto este desafío desde ambos lados. Creé Stage 32 para acercar a la industria, y el Marketplace es la culminación de esa visión”."
               }
             ]
           }
@@ -827,501 +797,311 @@
       }
     },
     {
-      "id": "movies-cined-ai-editors-compared",
+      "id": "movies-free-previz-iron-goddess",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "cinemaOS와\nCUTROOM 등 셋 비교",
-      "body": "CineD가 AI 편집기 cinemaOS·CUTROOM·invideo를 견줬다.",
-      "mini_headline": "AI 편집기 셋 비교",
+      "headline": "무료 프리비즈 툴,\nAI 생성 전 샷 고정",
+      "body": "무료 오픈소스 프리비즈 툴은 AI 영상 생성 전에 샷 구도를 정확히 고정한다.",
+      "mini_headline": "무료 프리비즈로 AI 샷 고정",
       "tool": "Movies",
-      "source": "CineD",
-      "url": "https://www.cined.com/cinemaos-cutroom-and-invideo-compared-mac-studio-app-free-open-source-editor-cloud-ai-agent/",
+      "source": "Theoretically Media",
+      "url": "https://www.youtube.com/watch?v=qlSI_ZbRdEc",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-7-1300x750.jpeg"
+            "t": "video",
+            "yt": "qlSI_ZbRdEc"
           },
           {
             "t": "p",
-            "x": "AI와 오픈소스 구성 요소로 짠 영상 편집기가 늘고 있다. 소규모 팀이나 개발자 한 명이 만드는 것도 있다. cinemaOS는 기기 안에서 도는 어시스턴트를 갖춘 Mac 구독 앱이고, CUTROOM은 로컬에서 돌아가는 무료 오픈소스 편집기다. invideo는 AI 편집 에이전트와 수십 개의 생성 모델을 브라우저에 담았다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.cined.com/content/uploads/2026/10/cinemaOS-900x538.png",
-            "cap": "cinemaOS / Momentum Studios"
+            "x": "Theoretically Media가 AI 영상용으로 만든 무료 오픈소스 3D 프리비즈 툴 CozyClay 3.0을 살펴본다. 원하는 샷을 생성 전에 정확히 잡아 준다. Pinokio로 클릭 한 번이면 설치되고 브라우저에서 돌아간다. GPU는 필요 없다."
           },
           {
             "t": "p",
-            "x": "cinemaOS(버전 0.2, 월 $9.99)는 작업을 “룸” 단위로 나누고, 룸들은 라이브 프로젝트 하나를 함께 쓴다. 어시스턴트 J.A.R.E.D.가 전사, 번역, 룩 작업을 크레딧 없이 Mac에서 처리한다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.cined.com/content/uploads/2026/10/CUTROOM-900x506.jpeg",
-            "cap": "CUTROOM"
+            "x": "에이전트가 ChatGPT 로그인(Codex)이나 API 키(Anthropic, OpenAI, Gemini)로 세트를 대신 만들어 준다. 샷 렌더링은 여전히 사용자가 쓰는 영상 모델 몫이다."
           },
           {
             "t": "p",
-            "x": "MIT-licensed로 Windows와 Mac용 1.2 공개 베타를 진행 중인 CUTROOM에서 AI는 선택 사항이다. 내려받은 모델과 Ollama로 로컬에서 전사와 초안을 만들 수도 있고, 사용자 API 키로 클라우드 제공업체를 붙일 수도 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-900x506.jpeg",
-            "cap": "invideo"
+            "x": "PJ는 뻣뻣한 샷 해결법도 전한다. 3D 가이드로 생성한 결과가 뻣뻣하면 프리비즈를 스크린샷으로 찍어 스토리보드로 배치한 뒤 이미지-투-비디오로 넘어가라는 것이다. 그러면 구도, 렌즈, 화면비가 그대로 유지된다."
           },
           {
             "t": "p",
-            "x": "invideo의 Agent Two는 클립을 모두 보고 기록한 다음 요청대로 편집한다. Veo 3.1, Sora 2, Kling 같은 영상 모델도 함께 쓸 수 있다. 크레딧 요금제는 연간 결제 시 좌석당 월 $10부터다."
-          },
-          {
-            "t": "p",
-            "x": "CineD는 세 도구 모두 아직 전문 작업에서 Premiere Pro, Final Cut Pro, DaVinci Resolve를 곧바로 대체하진 못한다고 봤다. 압박을 받는 쪽은 구독 가격과 짧은 소셜 콘텐츠다."
+            "x": "영상에서는 Arena의 배틀 모드에 나타난 출처 불명의 AI 영상 모델 Iron Goddess도 다룬다. 움직임은 크고 빠르지만 가장 빠른 순간에는 프레임이 뭉개진다. 그 밖에 Kling의 IPO 보도, Ideogram Vector, Seedream 5.5 유출 소식도 짚는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "cinemaOS, CUTROOM, invideo:\nthree AI editors compared",
-          "body": "CineD weighs a Mac studio app, a free open-source editor and a cloud AI agent: cinemaOS, CUTROOM and invideo.",
-          "mini_headline": "Three AI editors compared",
+          "headline": "A free previz tool locks shots\nbefore AI video generation",
+          "body": "A free open-source previz tool locks the exact framing of a shot before any AI video is generated.",
+          "mini_headline": "Free previz locks AI shots",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-7-1300x750.jpeg"
+                "t": "video",
+                "yt": "qlSI_ZbRdEc"
               },
               {
                 "t": "p",
-                "x": "A growing number of video editors are built around AI and open-source components, some by small teams or a single developer. cinemaOS is a Mac subscription app with an on-device assistant, CUTROOM is a free open-source editor that runs locally, and invideo puts an AI editing agent and dozens of generative models in the browser."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/cinemaOS-900x538.png",
-                "cap": "cinemaOS / Momentum Studios"
+                "x": "Theoretically Media looks at CozyClay 3.0, a free, open-source 3D previs tool built for AI video that gets you the exact shot before you generate. It installs in one click through Pinokio, runs in the browser and doesn’t need a GPU."
               },
               {
                 "t": "p",
-                "x": "cinemaOS (version 0.2, $9.99 per month) divides work into “rooms” that share one live project; its assistant J.A.R.E.D. runs transcription, translation and looks on the Mac with no credits."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/CUTROOM-900x506.jpeg",
-                "cap": "CUTROOM"
+                "x": "Its agent can build the set for you through a ChatGPT sign-in (Codex) or an API key (Anthropic, OpenAI, Gemini). You still render the shot with your own video model."
               },
               {
                 "t": "p",
-                "x": "CUTROOM, MIT-licensed and in a 1.2 public beta for Windows and Mac, keeps AI optional: local transcription and drafts via downloadable models and Ollama, or the user’s own API key for a cloud provider."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-900x506.jpeg",
-                "cap": "invideo"
+                "x": "The stiff-shot fix, via PJ: if 3D-guided generations come out stiff, screenshot the previs, lay it out as a storyboard and go image-to-video, keeping the exact composition, lens and aspect ratio."
               },
               {
                 "t": "p",
-                "x": "invideo’s Agent Two watches and logs every clip and edits on request, alongside video models such as Veo 3.1, Sora 2 and Kling, on credit plans from $10 per seat per month on annual billing."
-              },
-              {
-                "t": "p",
-                "x": "CineD concludes none of the three is a direct replacement for Premiere Pro, Final Cut Pro or DaVinci Resolve in professional work today; the pressure is on subscription pricing and short-form social content."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "cinemaOS, CUTROOM, invideo:\ntres editores con AI comparados",
-          "body": "CineD compara una app para Mac, un editor gratuito de código abierto y un agente de AI: cinemaOS, CUTROOM e invideo.",
-          "mini_headline": "Tres editores con AI comparados",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-7-1300x750.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "Cada vez más editores de video se construyen en torno a la AI y a componentes de código abierto, algunos a cargo de equipos pequeños o de un solo desarrollador. cinemaOS es una app de suscripción para Mac con un asistente en el dispositivo, CUTROOM es un editor gratuito de código abierto que se ejecuta en local, e invideo lleva al navegador un agente de edición con AI y decenas de modelos generativos."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/cinemaOS-900x538.png",
-                "cap": "cinemaOS / Momentum Studios"
-              },
-              {
-                "t": "p",
-                "x": "cinemaOS (versión 0.2, $9.99 al mes) divide el trabajo en “salas” que comparten un mismo proyecto en vivo; su asistente J.A.R.E.D. hace transcripción, traducción y looks en el Mac sin créditos."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/CUTROOM-900x506.jpeg",
-                "cap": "CUTROOM"
-              },
-              {
-                "t": "p",
-                "x": "CUTROOM, MIT-licensed y en beta pública 1.2 para Windows y Mac, deja la AI como opción: transcripción y borradores locales mediante modelos descargables y Ollama, o la propia clave de API del usuario para un proveedor en la nube."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-900x506.jpeg",
-                "cap": "invideo"
-              },
-              {
-                "t": "p",
-                "x": "Agent Two, de invideo, ve y registra cada clip y edita a petición, junto a modelos de video como Veo 3.1, Sora 2 y Kling, con planes de créditos desde $10 por puesto al mes con facturación anual."
-              },
-              {
-                "t": "p",
-                "x": "CineD concluye que ninguno de los tres sustituye hoy directamente a Premiere Pro, Final Cut Pro o DaVinci Resolve en el trabajo profesional; la presión recae sobre los precios por suscripción y el contenido social de formato corto."
+                "x": "The video also covers Iron Goddess, an unclaimed AI video model that turned up in battle mode on the Arena with big, fast motion but smudgy frames in the fastest moments, plus Kling’s reported IPO, Ideogram Vector and a Seedream 5.5 leak."
               }
             ]
           }
         },
         "ko": {
-          "headline": "cinemaOS와\nCUTROOM 등 셋 비교",
-          "body": "CineD가 AI 편집기 cinemaOS·CUTROOM·invideo를 견줬다.",
-          "mini_headline": "AI 편집기 셋 비교",
+          "headline": "무료 프리비즈 툴,\nAI 생성 전 샷 고정",
+          "body": "무료 오픈소스 프리비즈 툴은 AI 영상 생성 전에 샷 구도를 정확히 고정한다.",
+          "mini_headline": "무료 프리비즈로 AI 샷 고정",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-7-1300x750.jpeg"
+                "t": "video",
+                "yt": "qlSI_ZbRdEc"
               },
               {
                 "t": "p",
-                "x": "AI와 오픈소스 구성 요소로 짠 영상 편집기가 늘고 있다. 소규모 팀이나 개발자 한 명이 만드는 것도 있다. cinemaOS는 기기 안에서 도는 어시스턴트를 갖춘 Mac 구독 앱이고, CUTROOM은 로컬에서 돌아가는 무료 오픈소스 편집기다. invideo는 AI 편집 에이전트와 수십 개의 생성 모델을 브라우저에 담았다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/cinemaOS-900x538.png",
-                "cap": "cinemaOS / Momentum Studios"
+                "x": "Theoretically Media가 AI 영상용으로 만든 무료 오픈소스 3D 프리비즈 툴 CozyClay 3.0을 살펴본다. 원하는 샷을 생성 전에 정확히 잡아 준다. Pinokio로 클릭 한 번이면 설치되고 브라우저에서 돌아간다. GPU는 필요 없다."
               },
               {
                 "t": "p",
-                "x": "cinemaOS(버전 0.2, 월 $9.99)는 작업을 “룸” 단위로 나누고, 룸들은 라이브 프로젝트 하나를 함께 쓴다. 어시스턴트 J.A.R.E.D.가 전사, 번역, 룩 작업을 크레딧 없이 Mac에서 처리한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/CUTROOM-900x506.jpeg",
-                "cap": "CUTROOM"
+                "x": "에이전트가 ChatGPT 로그인(Codex)이나 API 키(Anthropic, OpenAI, Gemini)로 세트를 대신 만들어 준다. 샷 렌더링은 여전히 사용자가 쓰는 영상 모델 몫이다."
               },
               {
                 "t": "p",
-                "x": "MIT-licensed로 Windows와 Mac용 1.2 공개 베타를 진행 중인 CUTROOM에서 AI는 선택 사항이다. 내려받은 모델과 Ollama로 로컬에서 전사와 초안을 만들 수도 있고, 사용자 API 키로 클라우드 제공업체를 붙일 수도 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-900x506.jpeg",
-                "cap": "invideo"
+                "x": "PJ는 뻣뻣한 샷 해결법도 전한다. 3D 가이드로 생성한 결과가 뻣뻣하면 프리비즈를 스크린샷으로 찍어 스토리보드로 배치한 뒤 이미지-투-비디오로 넘어가라는 것이다. 그러면 구도, 렌즈, 화면비가 그대로 유지된다."
               },
               {
                 "t": "p",
-                "x": "invideo의 Agent Two는 클립을 모두 보고 기록한 다음 요청대로 편집한다. Veo 3.1, Sora 2, Kling 같은 영상 모델도 함께 쓸 수 있다. 크레딧 요금제는 연간 결제 시 좌석당 월 $10부터다."
-              },
-              {
-                "t": "p",
-                "x": "CineD는 세 도구 모두 아직 전문 작업에서 Premiere Pro, Final Cut Pro, DaVinci Resolve를 곧바로 대체하진 못한다고 봤다. 압박을 받는 쪽은 구독 가격과 짧은 소셜 콘텐츠다."
+                "x": "영상에서는 Arena의 배틀 모드에 나타난 출처 불명의 AI 영상 모델 Iron Goddess도 다룬다. 움직임은 크고 빠르지만 가장 빠른 순간에는 프레임이 뭉개진다. 그 밖에 Kling의 IPO 보도, Ideogram Vector, Seedream 5.5 유출 소식도 짚는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "cinemaOSと\nCUTROOMなど三種比較",
-          "body": "CineDがAI編集ソフトcinemaOS・CUTROOM・invideoを比べた。",
-          "mini_headline": "AI編集ソフト三種を比較",
+          "headline": "無料プレビズツールで\nAI生成前にショット固定",
+          "body": "無料オープンソースのプレビズツールが、AI動画の生成前にショットの構図を正確に固定する。",
+          "mini_headline": "無料プレビズでAIショットを固定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-7-1300x750.jpeg"
+                "t": "video",
+                "yt": "qlSI_ZbRdEc"
               },
               {
                 "t": "p",
-                "x": "AIとオープンソースの部品を軸に作られた動画編集ソフトが増えており、小さなチームや開発者一人が手がけるものもある。cinemaOSはオンデバイスのアシスタントを備えたMac向けサブスクリプションアプリ、CUTROOMはローカルで動く無料のオープンソース編集ソフト、invideoはAI編集エージェントと数十の生成モデルをブラウザに載せている。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/cinemaOS-900x538.png",
-                "cap": "cinemaOS / Momentum Studios"
+                "x": "Theoretically Mediaが取り上げるのは、AI動画向けに作られた無料のオープンソース3DプレビズツールCozyClay 3.0だ。生成前に狙いどおりのショットを決められる。Pinokio経由でワンクリックでインストールでき、ブラウザで動作し、GPUは不要だ。"
               },
               {
                 "t": "p",
-                "x": "cinemaOS(バージョン0.2、月額$9.99)は、一つのライブプロジェクトを共有する「ルーム」に作業を分ける。アシスタントのJ.A.R.E.D.は文字起こし、翻訳、ルック作成をクレジットなしでMac上で実行する。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/CUTROOM-900x506.jpeg",
-                "cap": "CUTROOM"
+                "x": "エージェントがChatGPTのサインイン（Codex）またはAPIキー（Anthropic、OpenAI、Gemini）を通じてセットを組んでくれる。ショットのレンダリングは引き続き自前の動画モデルで行う。"
               },
               {
                 "t": "p",
-                "x": "MIT-licensedで、WindowsとMac向けに1.2パブリックベータを公開中のCUTROOMは、AIを任意にしている。ダウンロード可能なモデルとOllamaでローカルに文字起こしや下書きを行うか、ユーザー自身のAPIキーでクラウド事業者を使う。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-900x506.jpeg",
-                "cap": "invideo"
+                "x": "PJによる硬いショットの対処法：3Dガイドによる生成が硬くなる場合は、プレビズのスクリーンショットを撮ってストーリーボードとして並べ、image-to-videoに切り替えれば、構図、レンズ、アスペクト比をそのまま保てる。"
               },
               {
                 "t": "p",
-                "x": "invideoのAgent Twoはすべてのクリップを見て記録し、依頼に応じて編集する。Veo 3.1、Sora 2、Klingなどの動画モデルも使え、クレジット制プランは年払いで1席あたり月$10からだ。"
-              },
-              {
-                "t": "p",
-                "x": "CineDは、三つのいずれも現時点のプロの現場でPremiere Pro、Final Cut Pro、DaVinci Resolveを直接置き換えるものではないと結論づける。圧力がかかるのはサブスクリプション価格とショート形式のソーシャルコンテンツだ。"
+                "x": "動画ではほかに、Arenaのバトルモードに現れた出所不明のAI動画モデルIron Goddessも紹介している。大きく速い動きを見せる一方、最も速い瞬間にはフレームがにじむ。さらにKlingのIPO報道、Ideogram Vector、Seedream 5.5のリークにも触れている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "cinemaOS与\nCUTROOM等三款对比",
-          "body": "CineD对比了cinemaOS、CUTROOM和invideo三款AI剪辑工具。",
-          "mini_headline": "三款AI剪辑软件对比",
+          "headline": "免费预演工具\n在AI生成前锁定镜头",
+          "body": "一款免费开源的预演工具，可在生成AI视频之前精确锁定镜头构图。",
+          "mini_headline": "免费预演锁定AI镜头",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-7-1300x750.jpeg"
+                "t": "video",
+                "yt": "qlSI_ZbRdEc"
               },
               {
                 "t": "p",
-                "x": "越来越多的视频剪辑软件围绕AI和开源组件打造，其中一些出自小团队甚至个人开发者。cinemaOS是一款带端侧助手的Mac订阅应用，CUTROOM是可在本地运行的免费开源剪辑软件，invideo则把AI剪辑智能体和数十个生成模型放进了浏览器。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/cinemaOS-900x538.png",
-                "cap": "cinemaOS / Momentum Studios"
+                "x": "Theoretically Media介绍了CozyClay 3.0，这是一款专为AI视频打造的免费开源3D预演工具，能让你在生成前就得到精确的镜头。它可通过Pinokio一键安装，在浏览器中运行，无需GPU。"
               },
               {
                 "t": "p",
-                "x": "cinemaOS（0.2版，每月$9.99）把工作分成共享同一个实时项目的“房间”；其助手J.A.R.E.D.在Mac上完成转录、翻译和调色风格，不消耗点数。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/CUTROOM-900x506.jpeg",
-                "cap": "CUTROOM"
+                "x": "它的智能体可以通过ChatGPT登录（Codex）或API密钥（Anthropic、OpenAI、Gemini）为你搭建场景。镜头仍需用你自己的视频模型渲染。"
               },
               {
                 "t": "p",
-                "x": "CUTROOM采用MIT-licensed授权，目前在Windows和Mac上进行1.2公开测试，AI为可选项：可通过可下载模型和Ollama在本地转录、生成初稿，也可用用户自己的API密钥调用云服务商。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-900x506.jpeg",
-                "cap": "invideo"
+                "x": "PJ分享的僵硬镜头解决法：如果3D引导生成的画面显得僵硬，就截取预演画面，排成故事板，再走图生视频流程，保留精确的构图、镜头和画幅比。"
               },
               {
                 "t": "p",
-                "x": "invideo的Agent Two会观看并记录每个片段，按要求剪辑，同时提供Veo 3.1、Sora 2和Kling等视频模型；点数套餐按年付费，每席位每月$10起。"
+                "x": "视频还介绍了Iron Goddess，这是一款出现在Arena对战模式中、来历不明的AI视频模型，动作幅度大且快速，但在最快的瞬间画面会模糊。此外还谈到了Kling据报道的IPO、Ideogram Vector以及Seedream 5.5泄露。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un previz gratuito fija planos\nantes de generar video con IA",
+          "body": "Una herramienta gratuita y de código abierto fija el encuadre exacto de un plano antes de generar video con IA.",
+          "mini_headline": "Previz gratuito fija planos de IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "qlSI_ZbRdEc"
               },
               {
                 "t": "p",
-                "x": "CineD的结论是，这三款目前都无法在专业工作中直接取代Premiere Pro、Final Cut Pro或DaVinci Resolve；受到冲击的是订阅定价和短视频社交内容。"
+                "x": "Theoretically Media analiza CozyClay 3.0, una herramienta gratuita y de código abierto de previsualización 3D creada para video con IA que permite obtener el plano exacto antes de generar. Se instala con un clic a través de Pinokio, funciona en el navegador y no necesita GPU."
+              },
+              {
+                "t": "p",
+                "x": "Su agente puede construir el decorado por ti mediante un inicio de sesión de ChatGPT (Codex) o una clave de API (Anthropic, OpenAI, Gemini). El plano se sigue renderizando con tu propio modelo de video."
+              },
+              {
+                "t": "p",
+                "x": "La solución para planos rígidos, vía PJ: si las generaciones guiadas por 3D salen rígidas, haz una captura de la previsualización, organízala como storyboard y pasa a imagen a video, conservando la composición, el objetivo y la relación de aspecto exactos."
+              },
+              {
+                "t": "p",
+                "x": "El video también trata Iron Goddess, un modelo de video con IA sin autor reconocido que apareció en el modo batalla de Arena con movimientos amplios y rápidos, pero con fotogramas borrosos en los momentos más veloces, además de la supuesta IPO de Kling, Ideogram Vector y una filtración de Seedream 5.5."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "es": {
-          "headline": "cinemaOS, CUTROOM, invideo:\ntres editores con AI comparados",
-          "body": "CineD compara una app para Mac, un editor gratuito de código abierto y un agente de AI: cinemaOS, CUTROOM e invideo.",
-          "mini_headline": "Tres editores con AI comparados",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-7-1300x750.jpeg"
-              },
-              {
-                "t": "p",
-                "x": "Cada vez más editores de video se construyen en torno a la AI y a componentes de código abierto, algunos a cargo de equipos pequeños o de un solo desarrollador. cinemaOS es una app de suscripción para Mac con un asistente en el dispositivo, CUTROOM es un editor gratuito de código abierto que se ejecuta en local, e invideo lleva al navegador un agente de edición con AI y decenas de modelos generativos."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/cinemaOS-900x538.png",
-                "cap": "cinemaOS / Momentum Studios"
-              },
-              {
-                "t": "p",
-                "x": "cinemaOS (versión 0.2, $9.99 al mes) divide el trabajo en “salas” que comparten un mismo proyecto en vivo; su asistente J.A.R.E.D. hace transcripción, traducción y looks en el Mac sin créditos."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/CUTROOM-900x506.jpeg",
-                "cap": "CUTROOM"
-              },
-              {
-                "t": "p",
-                "x": "CUTROOM, MIT-licensed y en beta pública 1.2 para Windows y Mac, deja la AI como opción: transcripción y borradores locales mediante modelos descargables y Ollama, o la propia clave de API del usuario para un proveedor en la nube."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-900x506.jpeg",
-                "cap": "invideo"
-              },
-              {
-                "t": "p",
-                "x": "Agent Two, de invideo, ve y registra cada clip y edita a petición, junto a modelos de video como Veo 3.1, Sora 2 y Kling, con planes de créditos desde $10 por puesto al mes con facturación anual."
-              },
-              {
-                "t": "p",
-                "x": "CineD concluye que ninguno de los tres sustituye hoy directamente a Premiere Pro, Final Cut Pro o DaVinci Resolve en el trabajo profesional; la presión recae sobre los precios por suscripción y el contenido social de formato corto."
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "cinemaOS와\nCUTROOM 등 셋 비교",
-          "body": "CineD가 AI 편집기 cinemaOS·CUTROOM·invideo를 견줬다.",
-          "mini_headline": "AI 편집기 셋 비교",
+          "headline": "무료 프리비즈 툴,\nAI 생성 전 샷 고정",
+          "body": "무료 오픈소스 프리비즈 툴은 AI 영상 생성 전에 샷 구도를 정확히 고정한다.",
+          "mini_headline": "무료 프리비즈로 AI 샷 고정",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-7-1300x750.jpeg"
+                "t": "video",
+                "yt": "qlSI_ZbRdEc"
               },
               {
                 "t": "p",
-                "x": "AI와 오픈소스 구성 요소를 중심으로 만든 영상 편집기가 늘고 있고, 일부는 소규모 팀이나 개발자 한 명이 만든다. cinemaOS는 기기 안에서 도는 어시스턴트를 갖춘 Mac 구독 앱이고, CUTROOM은 로컬에서 실행되는 무료 오픈소스 편집기이며, invideo는 AI 편집 에이전트와 수십 개의 생성 모델을 브라우저에 담았다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/cinemaOS-900x538.png",
-                "cap": "cinemaOS / Momentum Studios"
+                "x": "Theoretically Media가 AI 영상용으로 만든 무료 오픈소스 3D 프리비즈 툴 CozyClay 3.0을 살펴본다. 생성하기 전에 원하는 샷을 정확히 잡아 주는 툴이다. Pinokio로 클릭 한 번이면 설치되고, 브라우저에서 돌아가며 GPU가 필요 없다."
               },
               {
                 "t": "p",
-                "x": "cinemaOS(버전 0.2, 월 $9.99)는 작업을 하나의 라이브 프로젝트를 공유하는 “룸”으로 나눈다. 어시스턴트 J.A.R.E.D.는 전사, 번역, 룩 작업을 크레딧 없이 Mac에서 처리한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/CUTROOM-900x506.jpeg",
-                "cap": "CUTROOM"
+                "x": "에이전트가 ChatGPT 로그인(Codex)이나 API 키(Anthropic, OpenAI, Gemini)를 통해 세트를 대신 만들어 준다. 샷 렌더링은 여전히 사용자의 영상 모델로 한다."
               },
               {
                 "t": "p",
-                "x": "MIT-licensed 방식으로 Windows와 Mac용 1.2 공개 베타 중인 CUTROOM은 AI를 선택 사항으로 둔다. 내려받을 수 있는 모델과 Ollama로 로컬 전사와 초안을 만들거나, 사용자의 API 키로 클라우드 제공업체를 쓸 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-900x506.jpeg",
-                "cap": "invideo"
+                "x": "PJ가 전한 뻣뻣한 샷 해결법: 3D 가이드 생성 결과가 뻣뻣하게 나오면 프리비즈를 스크린샷으로 찍어 스토리보드로 배치한 뒤 이미지-투-비디오로 넘어가면 구도, 렌즈, 화면비를 그대로 유지할 수 있다."
               },
               {
                 "t": "p",
-                "x": "invideo의 Agent Two는 모든 클립을 보고 기록한 뒤 요청에 따라 편집하며, Veo 3.1, Sora 2, Kling 같은 영상 모델도 함께 제공한다. 크레딧 요금제는 연간 결제 기준 좌석당 월 $10부터다."
-              },
-              {
-                "t": "p",
-                "x": "CineD는 세 도구 모두 지금의 전문 작업에서 Premiere Pro, Final Cut Pro, DaVinci Resolve를 곧바로 대체하지는 못한다고 결론짓는다. 압박이 가해지는 곳은 구독 가격과 짧은 소셜 콘텐츠다."
+                "x": "영상은 Arena의 배틀 모드에 등장한 출처 불명의 AI 영상 모델 Iron Goddess도 다룬다. 크고 빠른 움직임을 보여 주지만 가장 빠른 순간에는 프레임이 뭉개진다. 이 밖에 Kling의 IPO 보도, Ideogram Vector, Seedream 5.5 유출 소식도 담았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "cinemaOSと\nCUTROOMなど三種比較",
-          "body": "CineDがAI編集ソフトcinemaOS・CUTROOM・invideoを比べた。",
-          "mini_headline": "AI編集ソフト三種を比較",
+          "headline": "無料プレビズツールで\nAI生成前にショット固定",
+          "body": "無料オープンソースのプレビズツールが、AI動画の生成前にショットの構図を正確に固定する。",
+          "mini_headline": "無料プレビズでAIショットを固定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-7-1300x750.jpeg"
+                "t": "video",
+                "yt": "qlSI_ZbRdEc"
               },
               {
                 "t": "p",
-                "x": "AIとオープンソースの部品を軸に作られた動画編集ソフトが増えており、小さなチームや開発者一人が手がけるものもある。cinemaOSはオンデバイスのアシスタントを備えたMac向けサブスクリプションアプリ、CUTROOMはローカルで動く無料のオープンソース編集ソフト、invideoはAI編集エージェントと数十の生成モデルをブラウザに載せている。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/cinemaOS-900x538.png",
-                "cap": "cinemaOS / Momentum Studios"
+                "x": "Theoretically Mediaが取り上げるのは、AI動画向けに作られた無料のオープンソース3DプレビズツールCozyClay 3.0だ。生成前に狙いどおりのショットを決められる。Pinokio経由でワンクリックでインストールでき、ブラウザで動作し、GPUは不要だ。"
               },
               {
                 "t": "p",
-                "x": "cinemaOS(バージョン0.2、月額$9.99)は、一つのライブプロジェクトを共有する「ルーム」に作業を分ける。アシスタントのJ.A.R.E.D.は文字起こし、翻訳、ルック作成をクレジットなしでMac上で実行する。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/CUTROOM-900x506.jpeg",
-                "cap": "CUTROOM"
+                "x": "エージェントがChatGPTのサインイン（Codex）またはAPIキー（Anthropic、OpenAI、Gemini）を通じてセットを組んでくれる。ショットのレンダリングは引き続き自前の動画モデルで行う。"
               },
               {
                 "t": "p",
-                "x": "MIT-licensedで、WindowsとMac向けに1.2パブリックベータを公開中のCUTROOMは、AIを任意にしている。ダウンロード可能なモデルとOllamaでローカルに文字起こしや下書きを行うか、ユーザー自身のAPIキーでクラウド事業者を使う。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-900x506.jpeg",
-                "cap": "invideo"
+                "x": "PJによる硬いショットの対処法：3Dガイドによる生成が硬くなる場合は、プレビズのスクリーンショットを撮ってストーリーボードとして並べ、image-to-videoに切り替えれば、構図、レンズ、アスペクト比をそのまま保てる。"
               },
               {
                 "t": "p",
-                "x": "invideoのAgent Twoはすべてのクリップを見て記録し、依頼に応じて編集する。Veo 3.1、Sora 2、Klingなどの動画モデルも使え、クレジット制プランは年払いで1席あたり月$10からだ。"
-              },
-              {
-                "t": "p",
-                "x": "CineDは、三つのいずれも現時点のプロの現場でPremiere Pro、Final Cut Pro、DaVinci Resolveを直接置き換えるものではないと結論づける。圧力がかかるのはサブスクリプション価格とショート形式のソーシャルコンテンツだ。"
+                "x": "動画ではほかに、Arenaのバトルモードに現れた出所不明のAI動画モデルIron Goddessも紹介している。大きく速い動きを見せる一方、最も速い瞬間にはフレームがにじむ。さらにKlingのIPO報道、Ideogram Vector、Seedream 5.5のリークにも触れている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "cinemaOS与\nCUTROOM等三款对比",
-          "body": "CineD对比了cinemaOS、CUTROOM和invideo三款AI剪辑工具。",
-          "mini_headline": "三款AI剪辑软件对比",
+          "headline": "免费预演工具\n在AI生成前锁定镜头",
+          "body": "一款免费开源的预演工具，可在生成AI视频之前精确锁定镜头构图。",
+          "mini_headline": "免费预演锁定AI镜头",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-7-1300x750.jpeg"
+                "t": "video",
+                "yt": "qlSI_ZbRdEc"
               },
               {
                 "t": "p",
-                "x": "越来越多的视频剪辑软件围绕AI和开源组件打造，其中一些出自小团队甚至个人开发者。cinemaOS是一款带端侧助手的Mac订阅应用，CUTROOM是可在本地运行的免费开源剪辑软件，invideo则把AI剪辑智能体和数十个生成模型放进了浏览器。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/cinemaOS-900x538.png",
-                "cap": "cinemaOS / Momentum Studios"
+                "x": "Theoretically Media介绍了CozyClay 3.0，这是一款专为AI视频打造的免费开源3D预演工具，能让你在生成前就得到精确的镜头。它可通过Pinokio一键安装，在浏览器中运行，无需GPU。"
               },
               {
                 "t": "p",
-                "x": "cinemaOS（0.2版，每月$9.99）把工作分成共享同一个实时项目的“房间”；其助手J.A.R.E.D.在Mac上完成转录、翻译和调色风格，不消耗点数。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/CUTROOM-900x506.jpeg",
-                "cap": "CUTROOM"
+                "x": "它的智能体可以通过ChatGPT登录（Codex）或API密钥（Anthropic、OpenAI、Gemini）为你搭建场景。镜头仍需用你自己的视频模型渲染。"
               },
               {
                 "t": "p",
-                "x": "CUTROOM采用MIT-licensed授权，目前在Windows和Mac上进行1.2公开测试，AI为可选项：可通过可下载模型和Ollama在本地转录、生成初稿，也可用用户自己的API密钥调用云服务商。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-900x506.jpeg",
-                "cap": "invideo"
+                "x": "PJ分享的僵硬镜头解决法：如果3D引导生成的画面显得僵硬，就截取预演画面，排成故事板，再走图生视频流程，保留精确的构图、镜头和画幅比。"
               },
               {
                 "t": "p",
-                "x": "invideo的Agent Two会观看并记录每个片段，按要求剪辑，同时提供Veo 3.1、Sora 2和Kling等视频模型；点数套餐按年付费，每席位每月$10起。"
+                "x": "视频还介绍了Iron Goddess，这是一款出现在Arena对战模式中、来历不明的AI视频模型，动作幅度大且快速，但在最快的瞬间画面会模糊。此外还谈到了Kling据报道的IPO、Ideogram Vector以及Seedream 5.5泄露。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un previz gratuito fija planos\nantes de generar video con IA",
+          "body": "Una herramienta gratuita y de código abierto fija el encuadre exacto de un plano antes de generar video con IA.",
+          "mini_headline": "Previz gratuito fija planos de IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "qlSI_ZbRdEc"
               },
               {
                 "t": "p",
-                "x": "CineD的结论是，这三款目前都无法在专业工作中直接取代Premiere Pro、Final Cut Pro或DaVinci Resolve；受到冲击的是订阅定价和短视频社交内容。"
+                "x": "Theoretically Media analiza CozyClay 3.0, una herramienta gratuita y de código abierto de previsualización 3D creada para video con IA que permite obtener el plano exacto antes de generar. Se instala con un clic a través de Pinokio, funciona en el navegador y no necesita GPU."
+              },
+              {
+                "t": "p",
+                "x": "Su agente puede construir el decorado por ti mediante un inicio de sesión de ChatGPT (Codex) o una clave de API (Anthropic, OpenAI, Gemini). El plano se sigue renderizando con tu propio modelo de video."
+              },
+              {
+                "t": "p",
+                "x": "La solución para planos rígidos, vía PJ: si las generaciones guiadas por 3D salen rígidas, haz una captura de la previsualización, organízala como storyboard y pasa a imagen a video, conservando la composición, el objetivo y la relación de aspecto exactos."
+              },
+              {
+                "t": "p",
+                "x": "El video también trata Iron Goddess, un modelo de video con IA sin autor reconocido que apareció en el modo batalla de Arena con movimientos amplios y rápidos, pero con fotogramas borrosos en los momentos más veloces, además de la supuesta IPO de Kling, Ideogram Vector y una filtración de Seedream 5.5."
               }
             ]
           }
@@ -1329,15 +1109,15 @@
       }
     },
     {
-      "id": "movies-felix-film-genai-listing",
+      "id": "movies-sanxingdui-ai-feature",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Felix Film이 고친\n생성형 AI 구인 공고",
-      "body": "Felix Film이 생성형 AI를 권한 공고를 고치며 도입은 미정이라 했다.",
-      "mini_headline": "Felix Film, AI 구인 공고 수정",
+      "headline": "중국 첫 all-AI 장편\n금요일 극장 개봉",
+      "body": "중국 첫 완전 AI 장편인 Bona의 Sanxingdui가 업계 시험대로 개봉한다.",
+      "mini_headline": "중국 첫 AI 장편 개봉",
       "tool": "Movies",
-      "source": "Anime News Network",
-      "url": "https://www.animenewsnetwork.com/interest/2026-10-18/anime-studio-felix-film-edits-job-listing-that-encouraged-generative-ai/.242957",
+      "source": "Global Times",
+      "url": "https://www.globaltimes.cn/page/202610/1372724.shtml",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -1345,173 +1125,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/cms/interest.3/242957/felix-film.jpg"
+            "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-20/9c488b41-a7f8-47e6-abc7-dbedefcad4fb.jpeg",
+            "cap": "중국 첫 완전 AI 생성 장편영화 Sanxingdui 홍보물 사진: Bona Film Group 제공"
           },
           {
             "t": "p",
-            "x": "일본 애니메이션 스튜디오 Felix Film이 토요일 생성형 AI 기술 사용 문제로 신입 애니메이터 채용 공고를 고쳤다. 두 번째 자격 요건은 이제 원화에 Blender 등 3D CG 도구를 쓰고 싶은 지원자를 찾는다고 적고, 회사가 “스튜디오 크리에이터의 작업을 돕는 기술 가운데 하나로 AI 기술을 어떻게 활용할 수 있을지 검토하고 있다”는 문구를 덧붙였다."
+            "x": "중국에서 처음으로 극장 개봉 허가를 받은 완전 AI 생성(AI-generated) 장편영화가 금요일 개봉한다. 관객을 잃지 않고 신기술을 받아들일 방법을 고민하는 업계로서는 일종의 시험 운행인 셈이다. Sanxingdui는 고대 중국 문명의 수수께끼에서 출발해 과거와 AI가 빚어낸 미래를 오간다."
           },
           {
             "t": "p",
-            "x": "토요일 전까지 두 번째 요건에는 Felix Film이 “Blender나 이미지 생성 AI로 일러스트를 만들 수 있는” 지원자를 찾는다고 적혀 있었다. 공고 대상은 내년 봄 졸업 예정자다."
+            "x": "2년 넘게 개발하는 동안 예비 이미지를 120만 장 넘게 생성했고 전체 영화를 100차례 넘게 다시 만들었다. 제작비로 1,000만 위안(150만 달러) 넘게 들었다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-20/0e49e80c-d8e8-4140-b137-b8636d2243bd.jpeg",
+            "cap": "중국 첫 완전 AI 생성 장편영화 Sanxingdui 홍보물 사진: Bona Film Group 제공"
           },
           {
             "t": "p",
-            "x": "스튜디오는 토요일 낸 성명에서 “현시점에서 당사는 스튜디오에 이미지 생성 AI를 도입하기로 결정하지 않았지만, 향후 활용 가능성은 검토하고 있다”고 밝혔다. 이 기술을 창작 인력을 대체하는 게 아니라 돕는 데 쓰고 싶다고 두 번이나 강조했다."
+            "x": "Bona Film Group의 프로듀서이자 COO인 Jiang Defu에 따르면 제작진은 영화 산업의 공정을 그대로 따랐다. 가상 프로덕션 환경에서 17개 전문 직무로 역할을 나눴으며 검토자들은 영화를 한 프레임씩 살폈다."
           },
           {
             "t": "p",
-            "x": "Felix Film은 “앞으로 생성형 AI 기술을 도입한다면 사용하는 서비스와 기법의 요소, 권리 문제, 스튜디오에 미칠 영향을 신중하게 검토하겠다”고 썼다."
+            "x": "Cannes에서 먼저 선보인 이 영화는 금요일 말레이시아에서도 개봉한다. 프로듀서 Qu Jixiaojiang은 “AI는 도구 면에서는 공평한 경쟁의 장을 만들었지만, 창작자 사이의 격차는 더 벌렸다”고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Felix Film rewrites a job ad\nthat urged generative AI",
-          "body": "Felix Film edited a job ad urging generative AI use, saying it has not decided to adopt AI for images.",
-          "mini_headline": "Felix Film edits AI job ad",
+          "headline": "China's first all-AI feature\nopens in cinemas Friday",
+          "body": "Bona's Sanxingdui, the first fully AI-generated Chinese feature cleared for theaters, opens as an industry test.",
+          "mini_headline": "China's first AI feature opens",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/cms/interest.3/242957/felix-film.jpg"
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-20/9c488b41-a7f8-47e6-abc7-dbedefcad4fb.jpeg",
+                "cap": "Promotional material for China's first fully AI-generated feature film Sanxingdui Photo: Courtesy of Bona Film Group"
               },
               {
                 "t": "p",
-                "x": "On Saturday, Japanese animation studio Felix Film edited its animator job listing for new graduates over the use of generative AI technology. The second requirement now asks for applicants who wish to use Blender and other 3D CG tools in key animation, and adds that the company is “studying how AI technology can be used as one of the technologies to support the work of creators in the studio.”"
+                "x": "China's first fully AI-generated feature film to receive a theatrical release permit is set to hit cinemas on Friday, a trial run for an industry wrestling with how to embrace new technology without losing moviegoers. Sanxingdui draws on the mysteries of the ancient Chinese civilization to tell a story spanning the past and a future shaped by AI."
               },
               {
                 "t": "p",
-                "x": "Before Saturday, the second requirement stated Felix Film is looking for applicants who “can create illustrations using Blender or image generative AI.” The listing is for applicants graduating from school next spring."
+                "x": "Developed over more than two years, it involved generating more than 1.2 million preliminary images and making more than 100 full-film iterations. The film cost over 10 million yuan ($1.5 million) to make."
+              },
+              {
+                "t": "img",
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-20/0e49e80c-d8e8-4140-b137-b8636d2243bd.jpeg",
+                "cap": "Promotional material for China's first fully AI-generated feature film Sanxingdui Photo: Courtesy of Bona Film Group"
               },
               {
                 "t": "p",
-                "x": "In a statement posted Saturday, the studio said, “At this point, our company has not decided to implement generative AI for images in the studio, but we are studying its potential future use.” It emphasized twice that it wants to use the technology to support its creative talent, not replace them."
+                "x": "Jiang Defu, producer and COO of Bona Film Group, said the team followed a film-industry process, dividing responsibilities across 17 professional functions in a virtual production environment, with reviewers examining the film frame by frame."
               },
               {
                 "t": "p",
-                "x": "“If we implement generative AI technology in the future, we will carefully consider the elements of the services and techniques used, the rights issues, and the effects on the studio,” Felix Film wrote."
+                "x": "The film, already presented at Cannes, also releases in Malaysia on Friday. \"AI has leveled the playing field in terms of tools, but it has widened the gap between creators,\" producer Qu Jixiaojiang said."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Felix Film이 고친\n생성형 AI 구인 공고",
-          "body": "Felix Film이 생성형 AI를 권한 공고를 고치며 도입은 미정이라 했다.",
-          "mini_headline": "Felix Film, AI 구인 공고 수정",
+          "headline": "중국 첫 all-AI 장편\n금요일 극장 개봉",
+          "body": "중국 첫 완전 AI 장편인 Bona의 Sanxingdui가 업계 시험대로 개봉한다.",
+          "mini_headline": "중국 첫 AI 장편 개봉",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/cms/interest.3/242957/felix-film.jpg"
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-20/9c488b41-a7f8-47e6-abc7-dbedefcad4fb.jpeg",
+                "cap": "중국 첫 완전 AI 생성 장편영화 Sanxingdui 홍보물 사진: Bona Film Group 제공"
               },
               {
                 "t": "p",
-                "x": "일본 애니메이션 스튜디오 Felix Film이 토요일 생성형 AI 기술 사용 문제로 신입 애니메이터 채용 공고를 고쳤다. 두 번째 자격 요건은 이제 원화에 Blender 등 3D CG 도구를 쓰고 싶은 지원자를 찾는다고 적고, 회사가 “스튜디오 크리에이터의 작업을 돕는 기술 가운데 하나로 AI 기술을 어떻게 활용할 수 있을지 검토하고 있다”는 문구를 덧붙였다."
+                "x": "중국에서 처음으로 극장 개봉 허가를 받은 완전 AI 생성(AI-generated) 장편영화가 금요일 개봉한다. 관객을 잃지 않고 신기술을 받아들일 방법을 고민하는 업계로서는 일종의 시험 운행인 셈이다. Sanxingdui는 고대 중국 문명의 수수께끼에서 출발해 과거와 AI가 빚어낸 미래를 오간다."
               },
               {
                 "t": "p",
-                "x": "토요일 전까지 두 번째 요건에는 Felix Film이 “Blender나 이미지 생성 AI로 일러스트를 만들 수 있는” 지원자를 찾는다고 적혀 있었다. 공고 대상은 내년 봄 졸업 예정자다."
+                "x": "2년 넘게 개발하는 동안 예비 이미지를 120만 장 넘게 생성했고 전체 영화를 100차례 넘게 다시 만들었다. 제작비로 1,000만 위안(150만 달러) 넘게 들었다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-20/0e49e80c-d8e8-4140-b137-b8636d2243bd.jpeg",
+                "cap": "중국 첫 완전 AI 생성 장편영화 Sanxingdui 홍보물 사진: Bona Film Group 제공"
               },
               {
                 "t": "p",
-                "x": "스튜디오는 토요일 낸 성명에서 “현시점에서 당사는 스튜디오에 이미지 생성 AI를 도입하기로 결정하지 않았지만, 향후 활용 가능성은 검토하고 있다”고 밝혔다. 이 기술을 창작 인력을 대체하는 게 아니라 돕는 데 쓰고 싶다고 두 번이나 강조했다."
+                "x": "Bona Film Group의 프로듀서이자 COO인 Jiang Defu에 따르면 제작진은 영화 산업의 공정을 그대로 따랐다. 가상 프로덕션 환경에서 17개 전문 직무로 역할을 나눴으며 검토자들은 영화를 한 프레임씩 살폈다."
               },
               {
                 "t": "p",
-                "x": "Felix Film은 “앞으로 생성형 AI 기술을 도입한다면 사용하는 서비스와 기법의 요소, 권리 문제, 스튜디오에 미칠 영향을 신중하게 검토하겠다”고 썼다."
+                "x": "Cannes에서 먼저 선보인 이 영화는 금요일 말레이시아에서도 개봉한다. 프로듀서 Qu Jixiaojiang은 “AI는 도구 면에서는 공평한 경쟁의 장을 만들었지만, 창작자 사이의 격차는 더 벌렸다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Felix Filmが\n生成AIを促す求人を修正",
-          "body": "Felix Filmは生成AIを促す求人を改め、画像生成AIの導入は未定だとした。",
-          "mini_headline": "Felix Film、AI求人を修正",
+          "headline": "中国初のall-AI長編\n金曜に劇場公開",
+          "body": "BonaのSanxingduiは中国初の完全AI長編として公開され、業界の試金石となる。",
+          "mini_headline": "中国初のAI長編が公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/cms/interest.3/242957/felix-film.jpg"
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-20/9c488b41-a7f8-47e6-abc7-dbedefcad4fb.jpeg",
+                "cap": "中国初の完全AI生成長編映画『Sanxingdui』の宣伝素材 写真：Bona Film Group提供"
               },
               {
                 "t": "p",
-                "x": "日本のアニメーションスタジオFelix Filmは土曜日、生成AI技術の使用をめぐり、新卒アニメーターの求人を修正した。二つ目の応募条件は、原画でBlenderなどの3D CGツールを使いたい応募者を求める内容に変わり、同社が「スタジオのクリエイターの仕事を支える技術の一つとして、AI技術をどう活用できるかを研究している」との一文が加わった。"
+                "x": "劇場公開許可を得た中国初の完全AI生成（AI-generated）長編映画が金曜日に公開される。観客を失わずに新技術をどう取り入れるかに悩む業界にとって、試験運用となる。Sanxingduiは古代中国文明の謎を題材に、過去とAIが形づくる未来にまたがる物語を描く。"
               },
               {
                 "t": "p",
-                "x": "土曜日より前、二つ目の条件には、Felix Filmが「Blenderや画像生成AIを用いてイラストを作成できる」応募者を求めていると書かれていた。この求人は来春に卒業する応募者が対象だ。"
+                "x": "2年以上をかけて開発され、120万枚を超える下絵を生成し、作品全体を100回以上作り直した。製作費は1000万元（150万ドル）を超えた。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-20/0e49e80c-d8e8-4140-b137-b8636d2243bd.jpeg",
+                "cap": "中国初の完全AI生成長編映画『Sanxingdui』の宣伝素材 写真：Bona Film Group提供"
               },
               {
                 "t": "p",
-                "x": "スタジオは土曜日に出した声明で「現時点で当社はスタジオへの画像生成AIの導入を決定していないが、今後の活用の可能性については研究している」と述べた。技術はクリエイティブな人材に取って代わるためではなく、支えるために使いたいと二度強調した。"
+                "x": "Bona Film GroupのプロデューサーでCOOのJiang Defuは、チームは映画業界のプロセスに従い、バーチャルプロダクション環境で17の専門職に役割を分け、レビュー担当者が作品をフレーム単位で確認したと語った。"
               },
               {
                 "t": "p",
-                "x": "Felix Filmは「将来、生成AI技術を導入する場合は、使用するサービスや技術の要素、権利の問題、スタジオへの影響を慎重に検討する」と記した。"
+                "x": "すでにCannesで上映された本作は、金曜日にマレーシアでも公開される。プロデューサーのQu Jixiaojiangは「AIはツールの面では条件を平等にしたが、クリエイター間の差は広げた」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Felix Film修改\n力推生成式AI的招聘",
-          "body": "Felix Film修改了鼓励使用生成式AI的招聘启事，称尚未决定在图像上采用AI。",
-          "mini_headline": "Felix Film修改AI招聘启事",
+          "headline": "中国首部all-AI长片\n周五登陆影院",
+          "body": "Bona的Sanxingdui是中国首部获准公映的全AI长片，将成为行业试金石。",
+          "mini_headline": "中国首部AI长片上映",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/cms/interest.3/242957/felix-film.jpg"
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-20/9c488b41-a7f8-47e6-abc7-dbedefcad4fb.jpeg",
+                "cap": "中国首部全AI生成长片《Sanxingdui》宣传物料 图片：Bona Film Group提供"
               },
               {
                 "t": "p",
-                "x": "日本动画工作室Felix Film周六因生成式AI技术的使用问题，修改了面向应届毕业生的动画师招聘启事。第二项要求现在改为寻找希望在原画中使用Blender等3D CG工具的应聘者，并补充说公司正在“研究如何把AI技术作为支持工作室创作者工作的技术之一加以运用”。"
+                "x": "中国首部获得公映许可的全AI生成（AI-generated）长片将于周五登陆影院，这对一个正在探索如何拥抱新技术又不流失观众的行业而言是一次试水。《Sanxingdui》取材于古代中华文明之谜，讲述一个横跨过去与AI塑造的未来的故事。"
               },
               {
                 "t": "p",
-                "x": "周六之前，第二项要求写的是Felix Film在寻找“能使用Blender或图像生成式AI创作插画”的应聘者。这则招聘面向明年春季毕业的应聘者。"
+                "x": "影片历时两年多开发，生成了超过120万张前期图像，全片迭代超过100次。制作成本超过1000万元人民币（150万美元）。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-20/0e49e80c-d8e8-4140-b137-b8636d2243bd.jpeg",
+                "cap": "中国首部全AI生成长片《Sanxingdui》宣传物料 图片：Bona Film Group提供"
               },
               {
                 "t": "p",
-                "x": "工作室在周六发布的声明中说：“目前本公司尚未决定在工作室引入图像生成式AI，但正在研究其未来的潜在用途。”声明两次强调，希望用这项技术支持创作人才，而不是取代他们。"
+                "x": "Bona Film Group制片人兼COO Jiang Defu表示，团队遵循电影工业流程，在虚拟制作环境中按17个专业职能分工，并由审片人员逐帧审查影片。"
               },
               {
                 "t": "p",
-                "x": "Felix Film写道：“如果将来引入生成式AI技术，我们会审慎考虑所用服务和技术的各项要素、权利问题以及对工作室的影响。”"
+                "x": "该片此前已在Cannes亮相，周五也将在马来西亚上映。制片人Qu Jixiaojiang说：“AI在工具层面拉平了起跑线，却拉大了创作者之间的差距。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Felix Film reescribe un anuncio\nque animaba a usar AI generativa",
-          "body": "Felix Film editó una oferta de empleo que pedía usar AI generativa y dijo que no ha decidido adoptar AI para imágenes.",
-          "mini_headline": "Felix Film edita su oferta con AI",
+          "headline": "El primer filme all-AI de China\nllega a los cines el viernes",
+          "body": "Sanxingdui, de Bona, primera película china hecha solo con IA autorizada en salas, se estrena como prueba del sector.",
+          "mini_headline": "Se estrena el primer filme chino de IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/cms/interest.3/242957/felix-film.jpg"
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-20/9c488b41-a7f8-47e6-abc7-dbedefcad4fb.jpeg",
+                "cap": "Material promocional de Sanxingdui, el primer largometraje de China generado íntegramente con IA. Foto: cortesía de Bona Film Group"
               },
               {
                 "t": "p",
-                "x": "El sábado, el estudio japonés de animación Felix Film editó su oferta de empleo de animadores para recién graduados por el uso de tecnología de AI generativa. El segundo requisito ahora pide aspirantes que deseen usar Blender y otras herramientas de 3D CG en la animación clave, y añade que la empresa está “estudiando cómo la tecnología de AI puede usarse como una de las tecnologías que apoyan el trabajo de los creadores del estudio”."
+                "x": "El primer largometraje chino generado íntegramente con IA (AI-generated) que recibe un permiso de estreno en cines llegará a las salas el viernes, una prueba para una industria que busca adoptar la nueva tecnología sin perder espectadores. Sanxingdui se inspira en los misterios de la antigua civilización china para contar una historia que abarca el pasado y un futuro moldeado por la IA."
               },
               {
                 "t": "p",
-                "x": "Antes del sábado, el segundo requisito indicaba que Felix Film buscaba aspirantes que “puedan crear ilustraciones con Blender o AI generativa de imágenes”. La oferta está dirigida a quienes se gradúen la próxima primavera."
+                "x": "Desarrollada durante más de dos años, implicó generar más de 1,2 millones de imágenes preliminares y realizar más de 100 iteraciones de la película completa. Su producción costó más de 10 millones de yuanes (1,5 millones de dólares)."
+              },
+              {
+                "t": "img",
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-20/0e49e80c-d8e8-4140-b137-b8636d2243bd.jpeg",
+                "cap": "Material promocional de Sanxingdui, el primer largometraje de China generado íntegramente con IA. Foto: cortesía de Bona Film Group"
               },
               {
                 "t": "p",
-                "x": "En un comunicado publicado el sábado, el estudio dijo: “Por ahora, nuestra empresa no ha decidido implantar AI generativa de imágenes en el estudio, pero estamos estudiando su posible uso futuro”. Subrayó dos veces que quiere usar la tecnología para apoyar a su talento creativo, no para sustituirlo."
+                "x": "Jiang Defu, productor y COO de Bona Film Group, explicó que el equipo siguió un proceso propio de la industria cinematográfica, con responsabilidades repartidas en 17 funciones profesionales en un entorno de producción virtual y revisores que examinaron la película fotograma a fotograma."
               },
               {
                 "t": "p",
-                "x": "“Si en el futuro implantamos tecnología de AI generativa, consideraremos con cuidado los elementos de los servicios y técnicas utilizados, las cuestiones de derechos y los efectos en el estudio”, escribió Felix Film."
+                "x": "La película, ya presentada en Cannes, también se estrena el viernes en Malasia. “La IA ha igualado las condiciones en cuanto a herramientas, pero ha ampliado la brecha entre creadores”, dijo el productor Qu Jixiaojiang."
               }
             ]
           }
@@ -1519,121 +1335,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Felix Film이 고친\n생성형 AI 구인 공고",
-          "body": "Felix Film이 생성형 AI를 권한 공고를 고치며 도입은 미정이라 했다.",
-          "mini_headline": "Felix Film, AI 구인 공고 수정",
+          "headline": "중국 첫 all-AI 장편\n금요일 극장 개봉",
+          "body": "중국 첫 완전 AI 장편인 Bona의 Sanxingdui가 업계 시험대로 개봉한다.",
+          "mini_headline": "중국 첫 AI 장편 개봉",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/cms/interest.3/242957/felix-film.jpg"
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-20/9c488b41-a7f8-47e6-abc7-dbedefcad4fb.jpeg",
+                "cap": "중국 첫 완전 AI 생성 장편영화 Sanxingdui 홍보물 사진: Bona Film Group 제공"
               },
               {
                 "t": "p",
-                "x": "일본 애니메이션 스튜디오 Felix Film이 토요일, 생성형 AI 기술 사용 문제로 신입 애니메이터 채용 공고를 수정했다. 두 번째 자격 요건은 이제 원화에 Blender 등 3D CG 도구를 쓰고 싶은 지원자를 찾는다고 적고, 회사가 “스튜디오 크리에이터의 작업을 돕는 기술 가운데 하나로 AI 기술을 어떻게 활용할 수 있을지 검토하고 있다”는 문구를 더했다."
+                "x": "극장 개봉 허가를 받은 중국 첫 완전 AI 생성(AI-generated) 장편영화가 금요일 개봉한다. 관객을 잃지 않으면서 신기술을 어떻게 받아들일지 고민하는 업계에는 일종의 시험 운행이다. Sanxingdui는 고대 중국 문명의 수수께끼를 바탕으로 과거와 AI가 빚어낸 미래를 넘나드는 이야기를 펼친다."
               },
               {
                 "t": "p",
-                "x": "토요일 전까지 두 번째 요건에는 Felix Film이 “Blender나 이미지 생성 AI로 일러스트를 만들 수 있는” 지원자를 찾는다고 적혀 있었다. 이 공고는 내년 봄 졸업 예정자를 대상으로 한다."
+                "x": "2년 넘게 개발하는 동안 예비 이미지를 120만 장 넘게 생성했고, 전체 영화를 100차례 넘게 다시 만들었다. 제작비는 1,000만 위안(150만 달러)이 넘게 들었다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-20/0e49e80c-d8e8-4140-b137-b8636d2243bd.jpeg",
+                "cap": "중국 첫 완전 AI 생성 장편영화 Sanxingdui 홍보물 사진: Bona Film Group 제공"
               },
               {
                 "t": "p",
-                "x": "스튜디오는 토요일 낸 성명에서 “현시점에서 당사는 스튜디오에 이미지 생성 AI를 도입하기로 결정하지 않았지만, 향후 활용 가능성은 검토하고 있다”고 밝혔다. 이 기술을 창작 인력을 대체하는 데가 아니라 돕는 데 쓰고 싶다는 점을 두 차례 강조했다."
+                "x": "Bona Film Group의 프로듀서이자 COO인 Jiang Defu는 제작진이 영화 산업의 공정을 따랐다고 말했다. 가상 프로덕션 환경에서 17개 전문 직무로 역할을 나눴고, 검토자들이 영화를 프레임 단위로 살폈다."
               },
               {
                 "t": "p",
-                "x": "Felix Film은 “앞으로 생성형 AI 기술을 도입한다면 사용하는 서비스와 기법의 요소, 권리 문제, 스튜디오에 미칠 영향을 신중하게 검토하겠다”고 썼다."
+                "x": "이미 Cannes에서 선보인 이 영화는 금요일 말레이시아에서도 개봉한다. 프로듀서 Qu Jixiaojiang은 “AI는 도구 면에서는 공평한 경쟁의 장을 만들었지만, 창작자 사이의 격차는 더 벌렸다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Felix Filmが\n生成AIを促す求人を修正",
-          "body": "Felix Filmは生成AIを促す求人を改め、画像生成AIの導入は未定だとした。",
-          "mini_headline": "Felix Film、AI求人を修正",
+          "headline": "中国初のall-AI長編\n金曜に劇場公開",
+          "body": "BonaのSanxingduiは中国初の完全AI長編として公開され、業界の試金石となる。",
+          "mini_headline": "中国初のAI長編が公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/cms/interest.3/242957/felix-film.jpg"
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-20/9c488b41-a7f8-47e6-abc7-dbedefcad4fb.jpeg",
+                "cap": "中国初の完全AI生成長編映画『Sanxingdui』の宣伝素材 写真：Bona Film Group提供"
               },
               {
                 "t": "p",
-                "x": "日本のアニメーションスタジオFelix Filmは土曜日、生成AI技術の使用をめぐり、新卒アニメーターの求人を修正した。二つ目の応募条件は、原画でBlenderなどの3D CGツールを使いたい応募者を求める内容に変わり、同社が「スタジオのクリエイターの仕事を支える技術の一つとして、AI技術をどう活用できるかを研究している」との一文が加わった。"
+                "x": "劇場公開許可を得た中国初の完全AI生成（AI-generated）長編映画が金曜日に公開される。観客を失わずに新技術をどう取り入れるかに悩む業界にとって、試験運用となる。Sanxingduiは古代中国文明の謎を題材に、過去とAIが形づくる未来にまたがる物語を描く。"
               },
               {
                 "t": "p",
-                "x": "土曜日より前、二つ目の条件には、Felix Filmが「Blenderや画像生成AIを用いてイラストを作成できる」応募者を求めていると書かれていた。この求人は来春に卒業する応募者が対象だ。"
+                "x": "2年以上をかけて開発され、120万枚を超える下絵を生成し、作品全体を100回以上作り直した。製作費は1000万元（150万ドル）を超えた。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-20/0e49e80c-d8e8-4140-b137-b8636d2243bd.jpeg",
+                "cap": "中国初の完全AI生成長編映画『Sanxingdui』の宣伝素材 写真：Bona Film Group提供"
               },
               {
                 "t": "p",
-                "x": "スタジオは土曜日に出した声明で「現時点で当社はスタジオへの画像生成AIの導入を決定していないが、今後の活用の可能性については研究している」と述べた。技術はクリエイティブな人材に取って代わるためではなく、支えるために使いたいと二度強調した。"
+                "x": "Bona Film GroupのプロデューサーでCOOのJiang Defuは、チームは映画業界のプロセスに従い、バーチャルプロダクション環境で17の専門職に役割を分け、レビュー担当者が作品をフレーム単位で確認したと語った。"
               },
               {
                 "t": "p",
-                "x": "Felix Filmは「将来、生成AI技術を導入する場合は、使用するサービスや技術の要素、権利の問題、スタジオへの影響を慎重に検討する」と記した。"
+                "x": "すでにCannesで上映された本作は、金曜日にマレーシアでも公開される。プロデューサーのQu Jixiaojiangは「AIはツールの面では条件を平等にしたが、クリエイター間の差は広げた」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Felix Film修改\n力推生成式AI的招聘",
-          "body": "Felix Film修改了鼓励使用生成式AI的招聘启事，称尚未决定在图像上采用AI。",
-          "mini_headline": "Felix Film修改AI招聘启事",
+          "headline": "中国首部all-AI长片\n周五登陆影院",
+          "body": "Bona的Sanxingdui是中国首部获准公映的全AI长片，将成为行业试金石。",
+          "mini_headline": "中国首部AI长片上映",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/cms/interest.3/242957/felix-film.jpg"
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-20/9c488b41-a7f8-47e6-abc7-dbedefcad4fb.jpeg",
+                "cap": "中国首部全AI生成长片《Sanxingdui》宣传物料 图片：Bona Film Group提供"
               },
               {
                 "t": "p",
-                "x": "日本动画工作室Felix Film周六因生成式AI技术的使用问题，修改了面向应届毕业生的动画师招聘启事。第二项要求现在改为寻找希望在原画中使用Blender等3D CG工具的应聘者，并补充说公司正在“研究如何把AI技术作为支持工作室创作者工作的技术之一加以运用”。"
+                "x": "中国首部获得公映许可的全AI生成（AI-generated）长片将于周五登陆影院，这对一个正在探索如何拥抱新技术又不流失观众的行业而言是一次试水。《Sanxingdui》取材于古代中华文明之谜，讲述一个横跨过去与AI塑造的未来的故事。"
               },
               {
                 "t": "p",
-                "x": "周六之前，第二项要求写的是Felix Film在寻找“能使用Blender或图像生成式AI创作插画”的应聘者。这则招聘面向明年春季毕业的应聘者。"
+                "x": "影片历时两年多开发，生成了超过120万张前期图像，全片迭代超过100次。制作成本超过1000万元人民币（150万美元）。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-20/0e49e80c-d8e8-4140-b137-b8636d2243bd.jpeg",
+                "cap": "中国首部全AI生成长片《Sanxingdui》宣传物料 图片：Bona Film Group提供"
               },
               {
                 "t": "p",
-                "x": "工作室在周六发布的声明中说：“目前本公司尚未决定在工作室引入图像生成式AI，但正在研究其未来的潜在用途。”声明两次强调，希望用这项技术支持创作人才，而不是取代他们。"
+                "x": "Bona Film Group制片人兼COO Jiang Defu表示，团队遵循电影工业流程，在虚拟制作环境中按17个专业职能分工，并由审片人员逐帧审查影片。"
               },
               {
                 "t": "p",
-                "x": "Felix Film写道：“如果将来引入生成式AI技术，我们会审慎考虑所用服务和技术的各项要素、权利问题以及对工作室的影响。”"
+                "x": "该片此前已在Cannes亮相，周五也将在马来西亚上映。制片人Qu Jixiaojiang说：“AI在工具层面拉平了起跑线，却拉大了创作者之间的差距。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Felix Film reescribe un anuncio\nque animaba a usar AI generativa",
-          "body": "Felix Film editó una oferta de empleo que pedía usar AI generativa y dijo que no ha decidido adoptar AI para imágenes.",
-          "mini_headline": "Felix Film edita su oferta con AI",
+          "headline": "El primer filme all-AI de China\nllega a los cines el viernes",
+          "body": "Sanxingdui, de Bona, primera película china hecha solo con IA autorizada en salas, se estrena como prueba del sector.",
+          "mini_headline": "Se estrena el primer filme chino de IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/cms/interest.3/242957/felix-film.jpg"
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-20/9c488b41-a7f8-47e6-abc7-dbedefcad4fb.jpeg",
+                "cap": "Material promocional de Sanxingdui, el primer largometraje de China generado íntegramente con IA. Foto: cortesía de Bona Film Group"
               },
               {
                 "t": "p",
-                "x": "El sábado, el estudio japonés de animación Felix Film editó su oferta de empleo de animadores para recién graduados por el uso de tecnología de AI generativa. El segundo requisito ahora pide aspirantes que deseen usar Blender y otras herramientas de 3D CG en la animación clave, y añade que la empresa está “estudiando cómo la tecnología de AI puede usarse como una de las tecnologías que apoyan el trabajo de los creadores del estudio”."
+                "x": "El primer largometraje chino generado íntegramente con IA (AI-generated) que recibe un permiso de estreno en cines llegará a las salas el viernes, una prueba para una industria que busca adoptar la nueva tecnología sin perder espectadores. Sanxingdui se inspira en los misterios de la antigua civilización china para contar una historia que abarca el pasado y un futuro moldeado por la IA."
               },
               {
                 "t": "p",
-                "x": "Antes del sábado, el segundo requisito indicaba que Felix Film buscaba aspirantes que “puedan crear ilustraciones con Blender o AI generativa de imágenes”. La oferta está dirigida a quienes se gradúen la próxima primavera."
+                "x": "Desarrollada durante más de dos años, implicó generar más de 1,2 millones de imágenes preliminares y realizar más de 100 iteraciones de la película completa. Su producción costó más de 10 millones de yuanes (1,5 millones de dólares)."
+              },
+              {
+                "t": "img",
+                "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-20/0e49e80c-d8e8-4140-b137-b8636d2243bd.jpeg",
+                "cap": "Material promocional de Sanxingdui, el primer largometraje de China generado íntegramente con IA. Foto: cortesía de Bona Film Group"
               },
               {
                 "t": "p",
-                "x": "En un comunicado publicado el sábado, el estudio dijo: “Por ahora, nuestra empresa no ha decidido implantar AI generativa de imágenes en el estudio, pero estamos estudiando su posible uso futuro”. Subrayó dos veces que quiere usar la tecnología para apoyar a su talento creativo, no para sustituirlo."
+                "x": "Jiang Defu, productor y COO de Bona Film Group, explicó que el equipo siguió un proceso propio de la industria cinematográfica, con responsabilidades repartidas en 17 funciones profesionales en un entorno de producción virtual y revisores que examinaron la película fotograma a fotograma."
               },
               {
                 "t": "p",
-                "x": "“Si en el futuro implantamos tecnología de AI generativa, consideraremos con cuidado los elementos de los servicios y técnicas utilizados, las cuestiones de derechos y los efectos en el estudio”, escribió Felix Film."
+                "x": "La película, ya presentada en Cannes, también se estrena el viernes en Malasia. “La IA ha igualado las condiciones en cuanto a herramientas, pero ha ampliado la brecha entre creadores”, dijo el productor Qu Jixiaojiang."
               }
             ]
           }
@@ -1641,15 +1481,15 @@
       }
     },
     {
-      "id": "movies-waititi-ai-prompts",
+      "id": "movies-brahma-ai-face-replacement",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Taika Waititi\n프롬프트 영화는 지루하다",
-      "body": "Taika Waititi는 AI는 불가피해도 프롬프트 영화는 지루하다고 했다.",
-      "mini_headline": "Waititi, 프롬프트 영화를 말하다",
+      "headline": "Brahma AI의 에미상\n얼굴 교체 기술 해부",
+      "body": "Jo Plaete가 2026년 에미상을 공동 수상한 얼굴 교체 기술을 설명한다.",
+      "mini_headline": "Brahma AI의 에미상 얼굴 기술",
       "tool": "Movies",
-      "source": "The Hollywood Reporter",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/taika-waititi-ai-in-hollywood-klara-and-the-sun-1236736327/",
+      "source": "AWN",
+      "url": "https://www.awn.com/vfxworld/nothing-hides-cinema-screen-jo-plaete-talks-brahma-ais-emmy-winning-face-replacement-tech",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
@@ -1657,203 +1497,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301048628.jpg?crop=0px%2C257px%2C3314px%2C1854px&resize=1440%2C810"
+            "src": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/featured/brahma2-1280.jpg?itok=3cjyb-Kd"
           },
           {
             "t": "p",
-            "x": "Taika Waititi가 Kazuo Ishiguro 소설을 각색한 Klara and the Sun에는 Jenna Ortega와 Amy Adams가 출연한다. 영화는 AI가 본격적으로 등장하기 몇 해 전부터 개발됐다. 월요일 New York 특별 상영회에서 제작진은 The Hollywood Reporter에 새로운 기술 속에서 우리 자신의 인간성을 껴안는 시의적절한 이야기라고 말했다."
+            "x": "10월 14일, 2026 Technology & Engineering Emmy의 AI-Based Face Replacement and Performance-Preserving Post-Production Transformation 부문 상은 Disney Research, Digital Domain, Rising Sun Pictures, Brahma AI에 돌아갔다. Brahma AI는 2025년 초 Metaphysic의 실사급 디지털 휴먼 기술을 인수한 회사다."
           },
           {
             "t": "p",
-            "x": "Ortega는 태양광으로 움직이는 “Artificial Friend”(인공 친구) Klara를 연기한다. 그는 “인공지능은 사랑을 느끼지 못한다. 사랑에 대해 아무것도 모른다”고 말했다."
+            "x": "상을 받은 기술은 Neural Performance Toolset으로, Robert Zemeckis 감독의 Here에서 처음 장편 규모로 쓰였다. 공동 창업자이자 CTO인 Jo Plaete가 AWN과 만나 그 출발점이 된 ABBA Voyage 실험과 1억 5,000만 달러 규모의 투자 유치 이야기를 들려준다."
           },
           {
-            "t": "img",
-            "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301049092_53fca7.jpg?w=1296",
-            "cap": "특별 상영회에 참석한 Jenna Ortega, Taika Waititi, Amy Adams."
-          },
-          {
-            "t": "p",
-            "x": "Waititi는 “방에 혼자 앉아 프롬프트를 입력해 영화를 만들려고 영화 일을 시작한 게 아니다. 그건 내게 너무 지루하고 시시해 보인다. 나는 사람들과 어울리고 싶다”고 말했다."
+            "t": "video",
+            "yt": "QGKGSbghe_4"
           },
           {
             "t": "p",
-            "x": "“우리 업계가 결국 그것을 쓰게 되는 건 아마 피할 수 없을 것이다. 다만 사람이 대체재가 아닌 도구로 쓰는 한에서다. 나는 사람을 대체하고 싶지 않다. 그들과 함께 일하고 싶다.” Klara and the Sun은 금요일 극장에서 개봉한다."
+            "x": "Plaete: “메인 카메라로 찍은 평범한 영상만 주면 된다. 마커도, 헤드 리그도, 캡처 스테이지도 없이 배우의 얼굴 연기 전체를 읽어 낸다... 그런 다음 그 연기를 다른 인물로 다시 합성한다.” Here 촬영 당시 Zemeckis는 카메라보다 여섯 프레임 늦게 모니터에서 25세의 Tom Hanks를 봤고 최종 영화에는 60분 분량의 4K 변환이 들어갔다."
+          },
+          {
+            "t": "p",
+            "x": "그는 “극장 스크린에서는 아무것도 숨길 수 없다”고 말한다. “모델이 5퍼센트만 어긋나도 모두가 알아챈다.”"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Taika Waititi: prompting a\nmovie is boring and lame",
-          "body": "Taika Waititi says AI in Hollywood is probably inevitable, but typing prompts to make a movie is boring and lame.",
-          "mini_headline": "Waititi on prompt filmmaking",
+          "headline": "Brahma AI's Emmy-winning\nface replacement, explained",
+          "body": "Jo Plaete details Neural Performance, the face-replacement tech that shared a 2026 Technology & Engineering Emmy.",
+          "mini_headline": "Brahma AI's Emmy face tech",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301048628.jpg?crop=0px%2C257px%2C3314px%2C1854px&resize=1440%2C810"
+                "src": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/featured/brahma2-1280.jpg?itok=3cjyb-Kd"
               },
               {
                 "t": "p",
-                "x": "Taika Waititi’s adaptation of Kazuo Ishiguro’s novel Klara and the Sun, starring Jenna Ortega and Amy Adams, was developed years before AI arrived in full force. At the film’s New York special screening on Monday, the team told The Hollywood Reporter it’s a timely story about embracing our own humanity amid new technology."
+                "x": "On October 14, the 2026 Technology & Engineering Emmy for AI-Based Face Replacement and Performance-Preserving Post-Production Transformation went to Disney Research, Digital Domain, Rising Sun Pictures and Brahma AI, which acquired Metaphysic's photoreal digital human technology in early 2025."
               },
               {
                 "t": "p",
-                "x": "Ortega plays Klara, a solar-powered “Artificial Friend.” “Artificial intelligence doesn’t feel love; it doesn’t know anything about it,” she said."
+                "x": "What won is the Neural Performance Toolset, first seen at feature scale on Robert Zemeckis' Here. Co-founder and CTO Jo Plaete talks with AWN about the ABBA Voyage experiment that started it and the $150 million funding round."
               },
               {
-                "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301049092_53fca7.jpg?w=1296",
-                "cap": "Jenna Ortega, Taika Waititi and Amy Adams at the special screening."
-              },
-              {
-                "t": "p",
-                "x": "Waititi said he “didn’t get into making film to sit by myself in a room and type in prompts to make a movie. That just seems so boring and lame to me. I want to interact with people.”"
+                "t": "video",
+                "yt": "QGKGSbghe_4"
               },
               {
                 "t": "p",
-                "x": "“I know it’s probably inevitable that we end up using it in our industry, but as long as it’s used by humans as a tool, as opposed to a replacement — I don’t want to replace humans. I want to work with them.” Klara and the Sun hits theaters on Friday."
+                "x": "Plaete: \"Give it ordinary footage from the main camera, no markers, no head rig, no capture stage, and it reads the actor's full facial performance... It then re-synthesizes that performance through a different identity.\" On Here, Zemeckis saw a 25-year-old Tom Hanks on his monitor six frames after the camera; the final film got 60 minutes of 4K transformation."
+              },
+              {
+                "t": "p",
+                "x": "\"Nothing hides on a cinema screen,\" he says. \"If the model is five percent off, everyone sees it.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "Taika Waititi\n프롬프트 영화는 지루하다",
-          "body": "Taika Waititi는 AI는 불가피해도 프롬프트 영화는 지루하다고 했다.",
-          "mini_headline": "Waititi, 프롬프트 영화를 말하다",
+          "headline": "Brahma AI의 에미상\n얼굴 교체 기술 해부",
+          "body": "Jo Plaete가 2026년 에미상을 공동 수상한 얼굴 교체 기술을 설명한다.",
+          "mini_headline": "Brahma AI의 에미상 얼굴 기술",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301048628.jpg?crop=0px%2C257px%2C3314px%2C1854px&resize=1440%2C810"
+                "src": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/featured/brahma2-1280.jpg?itok=3cjyb-Kd"
               },
               {
                 "t": "p",
-                "x": "Taika Waititi가 Kazuo Ishiguro 소설을 각색한 Klara and the Sun에는 Jenna Ortega와 Amy Adams가 출연한다. 영화는 AI가 본격적으로 등장하기 몇 해 전부터 개발됐다. 월요일 New York 특별 상영회에서 제작진은 The Hollywood Reporter에 새로운 기술 속에서 우리 자신의 인간성을 껴안는 시의적절한 이야기라고 말했다."
+                "x": "10월 14일, 2026 Technology & Engineering Emmy의 AI-Based Face Replacement and Performance-Preserving Post-Production Transformation 부문 상은 Disney Research, Digital Domain, Rising Sun Pictures, Brahma AI에 돌아갔다. Brahma AI는 2025년 초 Metaphysic의 실사급 디지털 휴먼 기술을 인수한 회사다."
               },
               {
                 "t": "p",
-                "x": "Ortega는 태양광으로 움직이는 “Artificial Friend”(인공 친구) Klara를 연기한다. 그는 “인공지능은 사랑을 느끼지 못한다. 사랑에 대해 아무것도 모른다”고 말했다."
+                "x": "상을 받은 기술은 Neural Performance Toolset으로, Robert Zemeckis 감독의 Here에서 처음 장편 규모로 쓰였다. 공동 창업자이자 CTO인 Jo Plaete가 AWN과 만나 그 출발점이 된 ABBA Voyage 실험과 1억 5,000만 달러 규모의 투자 유치 이야기를 들려준다."
               },
               {
-                "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301049092_53fca7.jpg?w=1296",
-                "cap": "특별 상영회에 참석한 Jenna Ortega, Taika Waititi, Amy Adams."
-              },
-              {
-                "t": "p",
-                "x": "Waititi는 “방에 혼자 앉아 프롬프트를 입력해 영화를 만들려고 영화 일을 시작한 게 아니다. 그건 내게 너무 지루하고 시시해 보인다. 나는 사람들과 어울리고 싶다”고 말했다."
+                "t": "video",
+                "yt": "QGKGSbghe_4"
               },
               {
                 "t": "p",
-                "x": "“우리 업계가 결국 그것을 쓰게 되는 건 아마 피할 수 없을 것이다. 다만 사람이 대체재가 아닌 도구로 쓰는 한에서다. 나는 사람을 대체하고 싶지 않다. 그들과 함께 일하고 싶다.” Klara and the Sun은 금요일 극장에서 개봉한다."
+                "x": "Plaete: “메인 카메라로 찍은 평범한 영상만 주면 된다. 마커도, 헤드 리그도, 캡처 스테이지도 없이 배우의 얼굴 연기 전체를 읽어 낸다... 그런 다음 그 연기를 다른 인물로 다시 합성한다.” Here 촬영 당시 Zemeckis는 카메라보다 여섯 프레임 늦게 모니터에서 25세의 Tom Hanks를 봤고 최종 영화에는 60분 분량의 4K 변환이 들어갔다."
+              },
+              {
+                "t": "p",
+                "x": "그는 “극장 스크린에서는 아무것도 숨길 수 없다”고 말한다. “모델이 5퍼센트만 어긋나도 모두가 알아챈다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Taika Waititi\nプロンプト映画は退屈",
-          "body": "Taika WaititiはAIは不可避だが、プロンプト映画作りは退屈だと語った。",
-          "mini_headline": "Waititi、プロンプト映画を語る",
+          "headline": "Brahma AIのエミー賞\n顔置換技術を解説",
+          "body": "Jo Plaeteが、2026年のエミー賞を共同受賞した顔置換技術を解説する。",
+          "mini_headline": "Brahma AIのエミー賞顔技術",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301048628.jpg?crop=0px%2C257px%2C3314px%2C1854px&resize=1440%2C810"
+                "src": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/featured/brahma2-1280.jpg?itok=3cjyb-Kd"
               },
               {
                 "t": "p",
-                "x": "Jenna OrtegaとAmy Adamsが出演する、Taika WaititiによるKazuo Ishiguroの小説の映画化『Klara and the Sun』は、AIが本格的に到来する何年も前に企画された。月曜日のNew Yorkでの特別上映会で、制作陣はThe Hollywood Reporterに、新しい技術の中で自らの人間性を受け入れることを描いた時宜を得た物語だと語った。"
+                "x": "10月14日、2026 Technology & Engineering EmmyのAI-Based Face Replacement and Performance-Preserving Post-Production Transformation部門は、Disney Research、Digital Domain、Rising Sun Pictures、そして2025年初めにMetaphysicのフォトリアルなデジタルヒューマン技術を買収したBrahma AIに贈られた。"
               },
               {
                 "t": "p",
-                "x": "Ortegaは太陽光で動く「Artificial Friend」(人工の友だち)、Klaraを演じる。「人工知能は愛を感じない。愛について何も知らない」と彼女は語った。"
+                "x": "受賞したのは、Robert Zemeckis監督の『Here』で初めて長編規模で使われたNeural Performance Toolsetだ。共同創業者でCTOのJo PlaeteがAWNに対し、その出発点となったABBA Voyageでの実験や、1億5000万ドルの資金調達について語った。"
               },
               {
-                "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301049092_53fca7.jpg?w=1296",
-                "cap": "特別上映会に出席したJenna Ortega、Taika Waititi、Amy Adams。"
-              },
-              {
-                "t": "p",
-                "x": "Waititiは「部屋に一人で座ってプロンプトを打ち込んで映画を作るために、この仕事を始めたわけじゃない。それは本当に退屈でつまらなく思える。僕は人と関わりたいんだ」と語った。"
+                "t": "video",
+                "yt": "QGKGSbghe_4"
               },
               {
                 "t": "p",
-                "x": "「業界でいずれそれを使うことになるのはおそらく避けられないだろう。ただし、人間が代わりとしてではなく道具として使う限りにおいてだ。僕は人間を置き換えたくない。一緒に働きたいんだ」。『Klara and the Sun』は金曜日に劇場公開される。"
+                "x": "Plaete：「メインカメラで撮った普通の映像を渡すだけでいい。マーカーもヘッドリグもキャプチャーステージもなしに、俳優の顔の演技をすべて読み取る…そしてその演技を別の人物として再合成する」。『Here』では、Zemeckisはカメラから6フレーム遅れでモニター上に25歳のTom Hanksを見ていた。完成した映画には60分間の4K 変換が施された。"
+              },
+              {
+                "t": "p",
+                "x": "「映画館のスクリーンでは何も隠せない」と彼は言う。「モデルが5パーセントずれていれば、誰もが気づく」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Taika Waititi：\n靠提示词拍片太无聊",
-          "body": "Taika Waititi称AI进入Hollywood或难避免，但靠提示词拍电影无聊又逊。",
-          "mini_headline": "Waititi谈提示词拍电影",
+          "headline": "Brahma AI获艾美奖\n换脸技术详解",
+          "body": "Jo Plaete详解共同获得2026年技术与工程艾美奖的换脸技术。",
+          "mini_headline": "Brahma AI的艾美奖换脸技术",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301048628.jpg?crop=0px%2C257px%2C3314px%2C1854px&resize=1440%2C810"
+                "src": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/featured/brahma2-1280.jpg?itok=3cjyb-Kd"
               },
               {
                 "t": "p",
-                "x": "Taika Waititi改编自Kazuo Ishiguro小说的《Klara and the Sun》由Jenna Ortega和Amy Adams主演，早在AI全面到来的数年前就已开始开发。在周一于New York举行的特别放映会上，主创团队对The Hollywood Reporter表示，这是一个关于在新技术中拥抱自身人性的应时故事。"
+                "x": "10月14日，2026 Technology & Engineering Emmy的AI-Based Face Replacement and Performance-Preserving Post-Production Transformation奖项授予了Disney Research、Digital Domain、Rising Sun Pictures，以及在2025年初收购了Metaphysic照片级真实数字人技术的Brahma AI。"
               },
               {
                 "t": "p",
-                "x": "Ortega饰演靠太阳能驱动的“Artificial Friend”（人工朋友）Klara。她说：“人工智能感受不到爱，它对爱一无所知。”"
+                "x": "获奖的是Neural Performance Toolset，它首次以长片规模亮相于Robert Zemeckis执导的《Here》。联合创始人兼CTO Jo Plaete接受AWN采访，谈到了作为起点的ABBA Voyage实验以及1.5亿美元的融资。"
               },
               {
-                "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301049092_53fca7.jpg?w=1296",
-                "cap": "Jenna Ortega、Taika Waititi和Amy Adams出席特别放映会。"
-              },
-              {
-                "t": "p",
-                "x": "Waititi说，他“入行拍电影，不是为了一个人坐在房间里输入提示词来做一部电影。那在我看来既无聊又逊。我想和人打交道。”"
+                "t": "video",
+                "yt": "QGKGSbghe_4"
               },
               {
                 "t": "p",
-                "x": "“我知道我们这个行业最终用上它大概是不可避免的，但前提是人类把它当作工具，而不是替代品——我不想取代人类，我想和他们一起工作。”《Klara and the Sun》将于周五在影院上映。"
+                "x": "Plaete说：“给它主摄影机拍的普通素材就行，不用标记点、不用头戴装置、不用动捕棚，它就能读取演员完整的面部表演……然后通过另一个身份重新合成这段表演。”拍摄《Here》时，Zemeckis在摄影机后六帧就能在监视器上看到25岁的Tom Hanks；最终成片包含60分钟的4K 转换。"
+              },
+              {
+                "t": "p",
+                "x": "“在电影银幕上什么都藏不住，”他说，“模型只要偏差百分之五，所有人都看得出来。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Taika Waititi: hacer cine con\nprompts es aburrido y soso",
-          "body": "Taika Waititi dice que la AI en Hollywood es probablemente inevitable, pero hacer cine con prompts es aburrido y soso.",
-          "mini_headline": "Waititi sobre el cine con prompts",
+          "headline": "El reemplazo facial de Brahma AI\npremiado con un Emmy, explicado",
+          "body": "Jo Plaete explica Neural Performance, la tecnología de reemplazo facial que compartió un Emmy técnico en 2026.",
+          "mini_headline": "La tecnología facial de Brahma AI que ganó un Emmy",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301048628.jpg?crop=0px%2C257px%2C3314px%2C1854px&resize=1440%2C810"
+                "src": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/featured/brahma2-1280.jpg?itok=3cjyb-Kd"
               },
               {
                 "t": "p",
-                "x": "La adaptación de Taika Waititi de la novela de Kazuo Ishiguro Klara and the Sun, protagonizada por Jenna Ortega y Amy Adams, se desarrolló años antes de que la AI llegara con toda su fuerza. En el pase especial de la película en New York el lunes, el equipo dijo a The Hollywood Reporter que es una historia oportuna sobre abrazar nuestra propia humanidad en medio de la nueva tecnología."
+                "x": "El 14 de octubre, el Technology & Engineering Emmy 2026 en la categoría AI-Based Face Replacement and Performance-Preserving Post-Production Transformation fue para Disney Research, Digital Domain, Rising Sun Pictures y Brahma AI, que adquirió a principios de 2025 la tecnología de humanos digitales fotorrealistas de Metaphysic."
               },
               {
                 "t": "p",
-                "x": "Ortega interpreta a Klara, una “Artificial Friend” (amiga artificial) alimentada por energía solar. “La inteligencia artificial no siente amor; no sabe nada de él”, dijo."
+                "x": "Lo premiado es el Neural Performance Toolset, visto por primera vez a escala de largometraje en Here, de Robert Zemeckis. Su cofundador y CTO, Jo Plaete, habla con AWN sobre el experimento de ABBA Voyage que le dio origen y la ronda de financiación de 150 millones de dólares."
               },
               {
-                "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301049092_53fca7.jpg?w=1296",
-                "cap": "Jenna Ortega, Taika Waititi y Amy Adams en el pase especial."
-              },
-              {
-                "t": "p",
-                "x": "Waititi dijo que “no me metí a hacer cine para sentarme solo en una habitación y escribir prompts para hacer una película. Eso me parece muy aburrido y soso. Quiero relacionarme con la gente”."
+                "t": "video",
+                "yt": "QGKGSbghe_4"
               },
               {
                 "t": "p",
-                "x": "“Sé que probablemente es inevitable que acabemos usándola en nuestra industria, pero siempre que los humanos la usen como herramienta y no como sustituto; no quiero reemplazar a los humanos. Quiero trabajar con ellos”. Klara and the Sun llega a los cines el viernes."
+                "x": "Plaete: “Dale metraje normal de la cámara principal, sin marcadores, sin casco de captura, sin escenario de captura, y lee toda la interpretación facial del actor... Luego vuelve a sintetizar esa interpretación a través de otra identidad.” En Here, Zemeckis veía en su monitor a un Tom Hanks de 25 años seis fotogramas después de la cámara; la película final recibió 60 minutos de transformación en 4K."
+              },
+              {
+                "t": "p",
+                "x": "“En una pantalla de cine no se esconde nada”, dice. “Si el modelo se desvía un cinco por ciento, todo el mundo lo nota.”"
               }
             ]
           }
@@ -1861,141 +1695,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Taika Waititi\n프롬프트 영화는 지루하다",
-          "body": "Taika Waititi는 AI는 불가피해도 프롬프트 영화는 지루하다고 했다.",
-          "mini_headline": "Waititi, 프롬프트 영화를 말하다",
+          "headline": "Brahma AI의 에미상\n얼굴 교체 기술 해부",
+          "body": "Jo Plaete가 2026년 에미상을 공동 수상한 얼굴 교체 기술을 설명한다.",
+          "mini_headline": "Brahma AI의 에미상 얼굴 기술",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301048628.jpg?crop=0px%2C257px%2C3314px%2C1854px&resize=1440%2C810"
+                "src": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/featured/brahma2-1280.jpg?itok=3cjyb-Kd"
               },
               {
                 "t": "p",
-                "x": "Jenna Ortega와 Amy Adams가 출연한 Taika Waititi의 Kazuo Ishiguro 소설 각색작 Klara and the Sun은 AI가 본격적으로 등장하기 몇 해 전부터 개발됐다. 월요일 New York 특별 상영회에서 제작진은 The Hollywood Reporter에 이 영화가 새로운 기술 속에서 우리 자신의 인간성을 껴안는 시의적절한 이야기라고 말했다."
+                "x": "10월 14일, 2026 Technology & Engineering Emmy의 AI-Based Face Replacement and Performance-Preserving Post-Production Transformation 부문 상은 Disney Research, Digital Domain, Rising Sun Pictures, 그리고 2025년 초 Metaphysic의 실사급 디지털 휴먼 기술을 인수한 Brahma AI에 돌아갔다."
               },
               {
                 "t": "p",
-                "x": "Ortega는 태양광으로 움직이는 “Artificial Friend”(인공 친구) Klara를 연기한다. 그는 “인공지능은 사랑을 느끼지 못한다. 사랑에 대해 아무것도 모른다”고 말했다."
+                "x": "수상한 기술은 Robert Zemeckis 감독의 Here에서 처음 장편 규모로 선보인 Neural Performance Toolset이다. 공동 창업자이자 CTO인 Jo Plaete가 AWN과 만나 그 출발점이 된 ABBA Voyage 실험과 1억 5,000만 달러 규모의 투자 유치에 대해 이야기한다."
               },
               {
-                "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301049092_53fca7.jpg?w=1296",
-                "cap": "특별 상영회에 참석한 Jenna Ortega, Taika Waititi, Amy Adams."
-              },
-              {
-                "t": "p",
-                "x": "Waititi는 “방에 혼자 앉아 프롬프트를 입력해 영화를 만들려고 영화 일을 시작한 게 아니다. 그건 내게 너무 지루하고 시시해 보인다. 나는 사람들과 어울리고 싶다”고 말했다."
+                "t": "video",
+                "yt": "QGKGSbghe_4"
               },
               {
                 "t": "p",
-                "x": "“우리 업계가 결국 그것을 쓰게 되는 건 아마 피할 수 없을 것이다. 다만 사람이 대체재가 아닌 도구로 쓰는 한에서다. 나는 사람을 대체하고 싶지 않다. 그들과 함께 일하고 싶다.” Klara and the Sun은 금요일 극장에서 개봉한다."
+                "x": "Plaete: “메인 카메라로 찍은 평범한 영상만 주면 된다. 마커도, 헤드 리그도, 캡처 스테이지도 없이 배우의 얼굴 연기 전체를 읽어 낸다... 그런 다음 그 연기를 다른 인물로 다시 합성한다.” Here 촬영 당시 Zemeckis는 카메라보다 여섯 프레임 늦게 모니터에서 25세의 Tom Hanks를 봤고, 최종 영화에는 60분 분량의 4K 변환이 들어갔다."
+              },
+              {
+                "t": "p",
+                "x": "“극장 스크린에서는 아무것도 숨길 수 없다”고 그는 말한다. “모델이 5퍼센트만 어긋나도 모두가 알아챈다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Taika Waititi\nプロンプト映画は退屈",
-          "body": "Taika WaititiはAIは不可避だが、プロンプト映画作りは退屈だと語った。",
-          "mini_headline": "Waititi、プロンプト映画を語る",
+          "headline": "Brahma AIのエミー賞\n顔置換技術を解説",
+          "body": "Jo Plaeteが、2026年のエミー賞を共同受賞した顔置換技術を解説する。",
+          "mini_headline": "Brahma AIのエミー賞顔技術",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301048628.jpg?crop=0px%2C257px%2C3314px%2C1854px&resize=1440%2C810"
+                "src": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/featured/brahma2-1280.jpg?itok=3cjyb-Kd"
               },
               {
                 "t": "p",
-                "x": "Jenna OrtegaとAmy Adamsが出演する、Taika WaititiによるKazuo Ishiguroの小説の映画化『Klara and the Sun』は、AIが本格的に到来する何年も前に企画された。月曜日のNew Yorkでの特別上映会で、制作陣はThe Hollywood Reporterに、新しい技術の中で自らの人間性を受け入れることを描いた時宜を得た物語だと語った。"
+                "x": "10月14日、2026 Technology & Engineering EmmyのAI-Based Face Replacement and Performance-Preserving Post-Production Transformation部門は、Disney Research、Digital Domain、Rising Sun Pictures、そして2025年初めにMetaphysicのフォトリアルなデジタルヒューマン技術を買収したBrahma AIに贈られた。"
               },
               {
                 "t": "p",
-                "x": "Ortegaは太陽光で動く「Artificial Friend」(人工の友だち)、Klaraを演じる。「人工知能は愛を感じない。愛について何も知らない」と彼女は語った。"
+                "x": "受賞したのは、Robert Zemeckis監督の『Here』で初めて長編規模で使われたNeural Performance Toolsetだ。共同創業者でCTOのJo PlaeteがAWNに対し、その出発点となったABBA Voyageでの実験や、1億5000万ドルの資金調達について語った。"
               },
               {
-                "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301049092_53fca7.jpg?w=1296",
-                "cap": "特別上映会に出席したJenna Ortega、Taika Waititi、Amy Adams。"
-              },
-              {
-                "t": "p",
-                "x": "Waititiは「部屋に一人で座ってプロンプトを打ち込んで映画を作るために、この仕事を始めたわけじゃない。それは本当に退屈でつまらなく思える。僕は人と関わりたいんだ」と語った。"
+                "t": "video",
+                "yt": "QGKGSbghe_4"
               },
               {
                 "t": "p",
-                "x": "「業界でいずれそれを使うことになるのはおそらく避けられないだろう。ただし、人間が代わりとしてではなく道具として使う限りにおいてだ。僕は人間を置き換えたくない。一緒に働きたいんだ」。『Klara and the Sun』は金曜日に劇場公開される。"
+                "x": "Plaete：「メインカメラで撮った普通の映像を渡すだけでいい。マーカーもヘッドリグもキャプチャーステージもなしに、俳優の顔の演技をすべて読み取る…そしてその演技を別の人物として再合成する」。『Here』では、Zemeckisはカメラから6フレーム遅れでモニター上に25歳のTom Hanksを見ていた。完成した映画には60分間の4K 変換が施された。"
+              },
+              {
+                "t": "p",
+                "x": "「映画館のスクリーンでは何も隠せない」と彼は言う。「モデルが5パーセントずれていれば、誰もが気づく」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Taika Waititi：\n靠提示词拍片太无聊",
-          "body": "Taika Waititi称AI进入Hollywood或难避免，但靠提示词拍电影无聊又逊。",
-          "mini_headline": "Waititi谈提示词拍电影",
+          "headline": "Brahma AI获艾美奖\n换脸技术详解",
+          "body": "Jo Plaete详解共同获得2026年技术与工程艾美奖的换脸技术。",
+          "mini_headline": "Brahma AI的艾美奖换脸技术",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301048628.jpg?crop=0px%2C257px%2C3314px%2C1854px&resize=1440%2C810"
+                "src": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/featured/brahma2-1280.jpg?itok=3cjyb-Kd"
               },
               {
                 "t": "p",
-                "x": "Taika Waititi改编自Kazuo Ishiguro小说的《Klara and the Sun》由Jenna Ortega和Amy Adams主演，早在AI全面到来的数年前就已开始开发。在周一于New York举行的特别放映会上，主创团队对The Hollywood Reporter表示，这是一个关于在新技术中拥抱自身人性的应时故事。"
+                "x": "10月14日，2026 Technology & Engineering Emmy的AI-Based Face Replacement and Performance-Preserving Post-Production Transformation奖项授予了Disney Research、Digital Domain、Rising Sun Pictures，以及在2025年初收购了Metaphysic照片级真实数字人技术的Brahma AI。"
               },
               {
                 "t": "p",
-                "x": "Ortega饰演靠太阳能驱动的“Artificial Friend”（人工朋友）Klara。她说：“人工智能感受不到爱，它对爱一无所知。”"
+                "x": "获奖的是Neural Performance Toolset，它首次以长片规模亮相于Robert Zemeckis执导的《Here》。联合创始人兼CTO Jo Plaete接受AWN采访，谈到了作为起点的ABBA Voyage实验以及1.5亿美元的融资。"
               },
               {
-                "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301049092_53fca7.jpg?w=1296",
-                "cap": "Jenna Ortega、Taika Waititi和Amy Adams出席特别放映会。"
-              },
-              {
-                "t": "p",
-                "x": "Waititi说，他“入行拍电影，不是为了一个人坐在房间里输入提示词来做一部电影。那在我看来既无聊又逊。我想和人打交道。”"
+                "t": "video",
+                "yt": "QGKGSbghe_4"
               },
               {
                 "t": "p",
-                "x": "“我知道我们这个行业最终用上它大概是不可避免的，但前提是人类把它当作工具，而不是替代品——我不想取代人类，我想和他们一起工作。”《Klara and the Sun》将于周五在影院上映。"
+                "x": "Plaete说：“给它主摄影机拍的普通素材就行，不用标记点、不用头戴装置、不用动捕棚，它就能读取演员完整的面部表演……然后通过另一个身份重新合成这段表演。”拍摄《Here》时，Zemeckis在摄影机后六帧就能在监视器上看到25岁的Tom Hanks；最终成片包含60分钟的4K 转换。"
+              },
+              {
+                "t": "p",
+                "x": "“在电影银幕上什么都藏不住，”他说，“模型只要偏差百分之五，所有人都看得出来。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Taika Waititi: hacer cine con\nprompts es aburrido y soso",
-          "body": "Taika Waititi dice que la AI en Hollywood es probablemente inevitable, pero hacer cine con prompts es aburrido y soso.",
-          "mini_headline": "Waititi sobre el cine con prompts",
+          "headline": "El reemplazo facial de Brahma AI\npremiado con un Emmy, explicado",
+          "body": "Jo Plaete explica Neural Performance, la tecnología de reemplazo facial que compartió un Emmy técnico en 2026.",
+          "mini_headline": "La tecnología facial de Brahma AI que ganó un Emmy",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301048628.jpg?crop=0px%2C257px%2C3314px%2C1854px&resize=1440%2C810"
+                "src": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/featured/brahma2-1280.jpg?itok=3cjyb-Kd"
               },
               {
                 "t": "p",
-                "x": "La adaptación de Taika Waititi de la novela de Kazuo Ishiguro Klara and the Sun, protagonizada por Jenna Ortega y Amy Adams, se desarrolló años antes de que la AI llegara con toda su fuerza. En el pase especial de la película en New York el lunes, el equipo dijo a The Hollywood Reporter que es una historia oportuna sobre abrazar nuestra propia humanidad en medio de la nueva tecnología."
+                "x": "El 14 de octubre, el Technology & Engineering Emmy 2026 en la categoría AI-Based Face Replacement and Performance-Preserving Post-Production Transformation fue para Disney Research, Digital Domain, Rising Sun Pictures y Brahma AI, que adquirió a principios de 2025 la tecnología de humanos digitales fotorrealistas de Metaphysic."
               },
               {
                 "t": "p",
-                "x": "Ortega interpreta a Klara, una “Artificial Friend” (amiga artificial) alimentada por energía solar. “La inteligencia artificial no siente amor; no sabe nada de él”, dijo."
+                "x": "Lo premiado es el Neural Performance Toolset, visto por primera vez a escala de largometraje en Here, de Robert Zemeckis. Su cofundador y CTO, Jo Plaete, habla con AWN sobre el experimento de ABBA Voyage que le dio origen y la ronda de financiación de 150 millones de dólares."
               },
               {
-                "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301049092_53fca7.jpg?w=1296",
-                "cap": "Jenna Ortega, Taika Waititi y Amy Adams en el pase especial."
-              },
-              {
-                "t": "p",
-                "x": "Waititi dijo que “no me metí a hacer cine para sentarme solo en una habitación y escribir prompts para hacer una película. Eso me parece muy aburrido y soso. Quiero relacionarme con la gente”."
+                "t": "video",
+                "yt": "QGKGSbghe_4"
               },
               {
                 "t": "p",
-                "x": "“Sé que probablemente es inevitable que acabemos usándola en nuestra industria, pero siempre que los humanos la usen como herramienta y no como sustituto; no quiero reemplazar a los humanos. Quiero trabajar con ellos”. Klara and the Sun llega a los cines el viernes."
+                "x": "Plaete: “Dale metraje normal de la cámara principal, sin marcadores, sin casco de captura, sin escenario de captura, y lee toda la interpretación facial del actor... Luego vuelve a sintetizar esa interpretación a través de otra identidad.” En Here, Zemeckis veía en su monitor a un Tom Hanks de 25 años seis fotogramas después de la cámara; la película final recibió 60 minutos de transformación en 4K."
+              },
+              {
+                "t": "p",
+                "x": "“En una pantalla de cine no se esconde nada”, dice. “Si el modelo se desvía un cinco por ciento, todo el mundo lo nota.”"
               }
             ]
           }

@@ -1,134 +1,167 @@
 {
  "section": "marketing",
- "generated_at": "2026-10-21T22:00:00Z",
- "now_iso": "2026-10-21T22:00:00Z",
+ "generated_at": "2026-10-22T22:00:32Z",
+ "now_iso": "2026-10-22T22:00:32Z",
  "window_hours": 72,
  "items": [
   {
-   "title": "Walmart Embraces AI Agents That Shop on Behalf of Customers",
-   "url": "https://www.adweek.com/commerce/walmart-embraces-ai-agents-that-shop-on-behalf-of-customers/",
+   "title": "Advertisers Pull Meta Ads That Had Unwanted AI Glow-ups",
+   "url": "https://www.adweek.com/media/advertisers-pull-meta-ads-that-had-unwanted-ai-glow-ups/",
    "source": "Adweek",
    "category": "marketing",
-   "published_iso": "2026-10-21T21:55:37Z",
-   "excerpt": "Walmart is setting the rules AI shopping agents must follow to buy on its site on customers' behalf, with spending controls and transaction approvals, while Amazon blocks such agents.",
-   "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/10/Walmart-AI.jpg?w=600&h=315&crop=1"
+   "published_iso": "2026-10-22T12:09:52-04:00",
+   "excerpt": "Under Meta’s new terms coming into play Oct 30, advertisers are “solely responsible” for whatever its AI creates",
+   "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/10/ATM.webp?w=600&h=315&crop=1"
   },
   {
-   "title": "Meta says Muse has over 10M users, with shopping a top activity",
-   "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-   "source": "TechCrunch",
+   "title": "Meta makes advertisers solely responsible for its AI ad edits from Oct 30",
+   "url": "https://ppc.land/meta-makes-advertisers-solely-responsible-for-its-ai-ad-edits-from-oct-30/",
+   "source": "PPC Land",
    "category": "marketing",
-   "published_iso": "2026-10-21T21:14:19Z",
-   "excerpt": "Meta told investors on its Q3 call that its Muse AI app passed 10M users, with shopping among the top uses, signaling a new AI-mediated discovery surface for brands.",
-   "og_image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024"
+   "published_iso": "2026-10-22T17:46:02.000Z",
+   "excerpt": "Agencies say Advantage+ adds sitelinks, translations and AI images to ads they never opted in. Exverus pulled live ads. Who pays when Meta's own tools err?",
+   "og_image": "https://ppc.land/content/images/2026/10/meta-commercial-terms-ai-features-advertiser-liability-red-handed-paintbrush.jpg"
   },
   {
-   "title": "ChatGPT Ads Is Expanding To New Markets And Exploring New Ad Formats",
-   "url": "https://www.adexchanger.com/marketers/chatgpt-ads-is-expanding-to-new-markets-and-exploring-new-ad-formats/",
-   "source": "AdExchanger",
+   "title": "OpenAI Details How ChatGPT's LLM Ad Stack Selects And Serves Ads",
+   "url": "https://www.searchenginejournal.com/openai-details-chatgpt-llm-ad-stack/593857/",
+   "source": "Search Engine Journal",
    "category": "marketing",
-   "published_iso": "2026-10-21T13:00:19Z",
-   "excerpt": "ChatGPT Ads expands to 26 new countries after more than 100,000 advertisers used the platform, while OpenAI is still working out what conversational ad formats will look like.",
-   "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/10/shutterstock_2806646937-scaled.jpg"
+   "published_iso": "2026-10-22T16:58:09+00:00",
+   "excerpt": "OpenAI details how the ChatGPT ad stack uses a custom LLM orchestrator to interpret multi-turn intent, run auctions, and serve sponsored placements.",
+   "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_2810482073_1600x840-92.png"
   },
   {
-   "title": "How we built ChatGPT's novel ad stack for user trust and relevance",
-   "url": "https://openai.com/index/building-chatgpt-ad-stack",
-   "source": "OpenAI",
+   "title": "Why CNN International is building for agentic ad market that barely exists yet",
+   "url": "https://digiday.com/media/why-cnn-international-is-building-for-agentic-ad-market-that-barely-exists-yet/",
+   "source": "Digiday",
    "category": "marketing",
-   "published_iso": "2026-10-21T07:00:00Z",
-   "excerpt": "OpenAI explains its LLM-powered ad stack that reads conversational intent, keeps ads separate from answers, and serves relevant ads at scale inside ChatGPT.",
-   "og_image": ""
-  },
-  {
-   "title": "AI Slop Sites Are On The Rise. Is Ad Tech Ready For Its New MFA Challenge?",
-   "url": "https://www.adexchanger.com/programmatic/ai-slop-sites-are-on-the-rise-is-ad-tech-ready-for-its-new-mfa-challenge/",
-   "source": "AdExchanger",
-   "category": "marketing",
-   "published_iso": "2026-10-20T08:00:00Z",
-   "excerpt": "DecryptAds found more than 2,100 AI-generated recipe sites with fabricated author profiles monetized through programmatic ads, a new made-for-advertising brand-safety problem.",
-   "og_image": "https://www.adexchanger.com/wp-content/uploads/2025/08/Ai-generated-slop-burger-comic-featured.jpg"
-  },
-  {
-   "title": "How Amazon Ads Plans To Make Programmatic Simple Without Taking Control From Marketers",
-   "url": "https://www.adexchanger.com/inside-the-stack/how-amazon-ads-plans-to-make-programmatic-simple-without-taking-control-from-marketers/",
-   "source": "AdExchanger",
-   "category": "marketing",
-   "published_iso": "2026-10-19T12:05:36Z",
-   "excerpt": "Amazon Ads VP Kelly MacLean on the AI-powered Amazon Ads Agent that launches programmatic campaigns in four clicks; beta advertisers saw 18% lower CPMs and 16% lower CPAs.",
-   "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/10/49298-Inside-the-Stack-Amazon-Ads_1080x1080.jpg"
-  },
-  {
-   "title": "Dollar Shave Club markets 'perfectly good' razors as AI push continues",
-   "url": "https://www.marketingdive.com/news/dollar-shave-club-markets-perfectly-good-razors-as-ai-push-continues/833343/",
-   "source": "Marketing Dive",
-   "category": "marketing",
-   "published_iso": "2026-10-20T13:17:00Z",
-   "excerpt": "Dollar Shave Club's new omnichannel campaign used AI for visual gags and helped the brand and agency Humanaut cut production time to about two and a half months.",
-   "og_image": "https://imgproxy.divecdn.com/ZBn03HjRefXvN5ruGnFI-DTvCeLzsyJ_qlrTeiR3jyk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JbWFnZV80X3FGdTJkRHQuanBn.webp"
+   "published_iso": "2026-10-22T04:01:00+00:00",
+   "excerpt": "Plenty about CNN is up in the air post the Skydance deal. CNN International’s plan to sell ads through AI agents isn’t among them.",
+   "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/10/interational-agentic-workflow-digiday.jpg"
   },
   {
    "title": "Target's holiday push stresses affordability, exclusives and an AI assistant",
    "url": "https://www.modernretail.co/marketing/targets-holiday-push-stresses-affordability-exclusives-and-an-ai-assistant/",
    "source": "Modern Retail",
    "category": "marketing",
-   "published_iso": "2026-10-21T10:00:00Z",
-   "excerpt": "Target is rolling out a conversational AI shopping assistant, Ask Target, alongside daily deals to win budget-conscious holiday shoppers.",
+   "published_iso": "2026-10-21T10:00:00+00:00",
+   "excerpt": "Target is betting on daily deals and a digital assistant to woo budget-conscious shoppers this holiday season.",
    "og_image": "https://www.modernretail.co/wp-content/uploads/sites/5/2026/10/Target-holidays.jpeg"
   },
   {
-   "title": "Google turns on PMax image extraction by default from December 4",
-   "url": "https://ppc.land/google-turns-on-pmax-image-extraction-by-default-from-december-4/",
-   "source": "PPC Land",
+   "title": "AI boosts discovery but reviews still seal the deal, new research shows",
+   "url": "https://www.modernretail.co/ai-strategies/ai-boosts-discovery-but-reviews-still-seal-the-deal-new-research-shows/",
+   "source": "Modern Retail",
    "category": "marketing",
-   "published_iso": "2026-10-21T21:25:22Z",
-   "excerpt": "From December 4, Google AI will scan landing pages for images to enrich Performance Max creative by default; advertisers and API tools must actively opt out.",
-   "og_image": "https://ppc.land/content/images/2026/10/google-pmax-image-extraction-default-horseshoe-magnet-picture-frames.jpg"
+   "published_iso": "2026-10-22T04:00:00+00:00",
+   "excerpt": "Consumer surveys show AI helps shoppers find gifts, but most check reviews, compare prices and review retailers' policies before buying.",
+   "og_image": "https://www.modernretail.co/wp-content/uploads/sites/5/2025/10/ai-compensation-digiday.webp"
   },
   {
    "title": "Meta case study credits Nest's AI ads with 20% higher conversion rates",
    "url": "https://ppc.land/meta-case-study-credits-nests-ai-ads-with-20-higher-conversion-rates/",
    "source": "PPC Land",
    "category": "marketing",
-   "published_iso": "2026-10-21T18:57:02Z",
-   "excerpt": "A Meta case study credits Nest's AI creative tool with 20% higher conversion rates across seven UK brands, though it gives no period or baseline.",
-   "og_image": "https://ppc.land/content/images/2026/10/meta-nest-ai-creative-case-study-bar-chart-missing-baseline.jpg"
+   "published_iso": "2026-10-21T18:57:02.000Z",
+   "excerpt": "Seven UK brands put 68% of Meta spend into video, against a 38% benchmark. The page gives no period or baseline, so how much the AI tool added remains unclear.",
+   "og_image": "https://ppc.land/content/images/size/w1200/2026/10/meta-nest-ai-creative-case-study-bar-chart-missing-baseline.jpg"
   },
   {
-   "title": "Yelp charges $30 a month for AI agent that answers and qualifies leads",
-   "url": "https://ppc.land/yelp-charges-30-a-month-for-ai-agent-that-answers-and-qualifies-leads/",
+   "title": "Google AI Overviews now hit 88% of tracked commercial keywords, Semrush finds",
+   "url": "https://ppc.land/google-ai-overviews-now-hit-88-of-tracked-commercial-keywords-semrush-finds/",
    "source": "PPC Land",
    "category": "marketing",
-   "published_iso": "2026-10-21T04:40:17Z",
-   "excerpt": "Yelp's Smart Lead Reply AI agent answers and qualifies Request a Quote leads for movers, roofers and plumbers for $30 a month, plus AI calls to restaurants.",
-   "og_image": "https://ppc.land/content/images/size/w1200/2026/10/yelp-smart-lead-reply-30-ai-agent-lead-qualification-self-typing-typewriter.jpg"
+   "published_iso": "2026-10-22T10:15:56.000Z",
+   "excerpt": "Review keywords triggering an AI Overview jumped from 30.14% to 89.04% in 12 months. Comparison pages now share answers with Zapier, YouTube and review sites.",
+   "og_image": "https://ppc.land/content/images/2026/10/semrush-google-ai-overviews-88-percent-commercial-keywords-skyscraper-billboard-banner.jpg"
   },
   {
-   "title": "China Wrote The First GEO Rulebook After A TV Scandal - Western SEOs Should Take Notes",
-   "url": "https://www.searchenginejournal.com/china-wrote-the-first-geo-rulebook-after-a-tv-scandal-western-seos-should-take-notes/593536/",
-   "source": "Search Engine Journal",
+   "title": "Google Ads Translation Tool",
+   "url": "https://www.seroundtable.com/google-ads-translation-tool-42351.html",
+   "source": "Search Engine Roundtable",
    "category": "marketing",
-   "published_iso": "2026-10-21T12:00:37Z",
-   "excerpt": "China's voluntary GEO standards set rules for AI visibility metrics, vendor contracts, pricing and manipulation as brands pay to appear in AI answers.",
-   "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/china-geo-rulebook-780.png"
+   "published_iso": "2026-10-22T07:41:00-04:00",
+   "excerpt": "Google Ads is now rolling out the Translation tool within the advertiser console. This allows advertisers to \"Translate your campaigns to reach global customers and boost your conversions,\" Google wrote.",
+   "og_image": "https://images.seroundtable.com/google-ads-translation-tool-aROMU2sm.jpg"
   },
   {
-   "title": "AI Search Tools Cited A Made-Up Concept Within A Week, Paper Finds",
-   "url": "https://www.searchenginejournal.com/ai-search-tools-cited-a-made-up-concept-within-a-week-paper-finds/593472/",
-   "source": "Search Engine Journal",
+   "title": "Google Merchant Center's 6 conversational attributes explained",
+   "url": "https://searchengineland.com/google-merchant-center-conversational-attributes-explained-497702",
+   "source": "Search Engine Land",
    "category": "marketing",
-   "published_iso": "2026-10-19T13:34:28Z",
-   "excerpt": "Researchers seeded a made-up concept on sites AI search tools cite; four English-web tools repeated it within a week, showing how easily brand claims can be planted in AI answers.",
-   "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-search-chatgpt-grok-2609462005.jpg"
+   "published_iso": "2026-10-22T13:00:00+00:00",
+   "excerpt": "Product data feeds are becoming a key source for AI shopping tools; Merchant Center's six conversational attributes (Q&A, documentation, related products, variants) help ecommerce advertisers get products surfaced in AI Mode and Gemini.",
+   "og_image": "https://searchengineland.com/wp-content/seloads/2026/10/Google-Merchant-Centers-6-conversational-attributes-explained.png"
   },
   {
-   "title": "New Gemini tools for small business owners",
-   "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/",
-   "source": "Google Blog",
+   "title": "Should your PPC landing pages change for AI Overviews?",
+   "url": "https://searchengineland.com/should-your-ppc-landing-pages-change-for-ai-overviews-497360",
+   "source": "Search Engine Land",
    "category": "marketing",
-   "published_iso": "2026-10-20T20:00:00Z",
-   "excerpt": "Gemini adds a small-business hub where owners upload their brand style to generate consistent marketing visuals for product launches and campaigns.",
-   "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.width-1300.png"
+   "published_iso": "2026-10-21T15:00:00+00:00",
+   "excerpt": "Search and Shopping ads now appear inside AI Overviews and Google has begun ads in AI Mode; as Google gives its ad systems more freedom to match queries, ads and landing pages, here is what PPC teams should prioritize.",
+   "og_image": "https://searchengineland.com/wp-content/seloads/2026/10/Should-your-PPC-landing-pages-change-for-AI-Overviews.png"
+  },
+  {
+   "title": "AI videos of crying women promote GLP-1 apps to TikTok users",
+   "url": "https://www.thecooldown.com/green-tech/glp-1-injections-tiktok-ai-marketing/",
+   "source": "The Cool Down (via Futurism)",
+   "category": "marketing",
+   "published_iso": "2026-10-22T04:06:00+00:00",
+   "excerpt": "TikTok users are being served melodramatic slideshows of crying women confessing that they hid GLP-1 injections from loved ones.",
+   "og_image": "https://www.thecooldown.com/wp-content/uploads/2026/10/glp-1-injections-tiktokimage-rec05zNBWKt9LKW6p-1.jpg",
+   "note": "off-list: AI-generated TikTok ad creative for GLP-1 apps; Futurism original 10-19 is outside window"
+  },
+  {
+   "title": "AI agents could buy half of all ads by 2028: News Australia",
+   "url": "https://www.mediaweek.com.au/agenticadvertising-org-australian-chapter-news-australia-paul-oyama",
+   "source": "Mediaweek",
+   "category": "marketing",
+   "published_iso": "2026-10-21T22:44:46.843Z",
+   "excerpt": "AgenticAdvertising.org opens an Australian chapter with News Australia, WPP Media and PubMatic. Paul Oyama tips agents for half of the ad spend.",
+   "og_image": "https://images-r2.thebrag.com/mw/uploads/2026/10/panel-04-community.jpg?v=1792622647571",
+   "note": "off-list: agentic media buying, AdCP standards body chapter"
+  },
+  {
+   "title": "틱톡, '서밋 코리아 2026' 개최…AI 광고·크리에이터 마케팅 전략 공개",
+   "url": "https://www.ittimes.com/news/articleView.html?idxno=87543",
+   "source": "IT Times",
+   "category": "marketing",
+   "published_iso": "2026-10-21T22:53:48+09:00",
+   "excerpt": "틱톡의 국내 광고 시장 성장률이 올해 3분기 업계 평균의 1.8배를 기록했다. 글로벌 일평균 이용 시간은 93분으로 주요 광고 플랫폼 가운데 가장 길었다. 틱톡은 AI 기반 광고 제작 도구와 크리에이터 협업, 틱톡샵을 앞세워 브랜드 인지도부터 구매 전환까지 연결하는 마케팅 전략을 제시했다.틱톡은 지난 20일 서울 강남구 그랜드 인터컨티넨탈 서울 파르나스에서 국내 브랜드와 광고 대행사 관계자 등 500여 명이 참석한 가운데 '틱톡 서밋 코리아 2",
+   "og_image": "https://cdn.ittimes.com/news/photo/202610/87543_26588_142.jpg",
+   "note": "off-list (KR): TikTok Symphony / Seedance 2.5 / agentic campaign infra at TikTok Summit Korea"
+  },
+  {
+   "title": "Republican-backed PAC accused of violating Washington AI ad law",
+   "url": "https://www.axios.com/local/seattle/2026/10/22/mailer-michael-shepard-ai-letter-washington-election-law",
+   "source": "Axios Seattle",
+   "category": "marketing",
+   "published_iso": "2026-10-22T20:00:27Z",
+   "excerpt": "Washington Senate Democrats sent a cease-and-desist to the GOP-affiliated PAC WA Wins over a mailer allegedly using an AI-manipulated image of candidate Michael Shepard without the disclosure required by a 2023 state synthetic-media law.",
+   "og_image": null,
+   "note": "body via MSN syndication AA2fQBmU; possible overlap with politics section"
+  },
+  {
+   "title": "코바코 'AI광고 플랫폼', 불법도박 '슬롯게임'도 뚝딱…필터링 구멍",
+   "url": "https://www.mt.co.kr/index.php/politics/2026/10/22/2026102221435830253",
+   "source": "머니투데이",
+   "category": "marketing",
+   "published_iso": "2026-10-22T21:47:23+09:00",
+   "excerpt": "이정헌 더불어민주당 의원이 한국방송광고진흥공사(KOBACO)의 생성형 AI 광고 제작 플랫폼이 불법·유해 광고를 제대로 걸러내지 못하고 있다는 점을 지적했다. 이 의원은 22일 국회 과학기술정보방송통신위원회 국정감사에서 KOBACO의 AI 광고 창작지원 플랫폼 '아이작(AiSAC)'에 '돈 버는 슬롯게임', '슬롯머신' 등의 키워드를 입력해 불법 도박게임을 홍보하는 광고 스토리보드를 실제로 만들어 보였다.",
+   "og_image": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026102221435830253_1.jpg",
+   "note": "off-list (KR): KOBACO generative-AI ad creation platform produced illegal gambling ads"
+  },
+  {
+   "title": "\"AI 기술 담겼다더니 … \"  공정위, 거짓광고땐 제재",
+   "url": "https://www.mk.co.kr/news/economy/12183211",
+   "source": "매일경제",
+   "category": "marketing",
+   "published_iso": "2026-10-22T17:43:45+09:00",
+   "excerpt": "인공지능(AI) 기술을 활용하지 않았는데도 마치 AI가 적용된 것처럼 제품 광고를 해 소비자에게 혼선을 줄 경우 법적 제재를 받을 가능성이 높아졌다. 공정거래위원회가 AI 관련 거짓·기만·부당 광고를 분별하기 위한 가이드라인을 처음 제시했다. 공정위는 'AI 관련 표시·광고 가이드라인'을 마련해 다음달까지 이해관계자와 전문가들의 의견을 청취한다고 22일 밝..",
+   "og_image": "https://static.mk.co.kr/facebook_mknews.jpg",
+   "note": "off-list (KR): KFTC draft guideline on AI-washing in product ads"
   }
  ]
 }

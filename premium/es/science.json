@@ -8396,6 +8396,120 @@
           "x": "Uno de los experimentos es un programa de localización de JPL usado en Marte (Mars): sin GPS, un algoritmo de aprendizaje automático compara el terreno local con un mapa almacenado para mantener al rover lejos de cráteres peligrosos."
         }
       ]
+    },
+    "science/science-fusion-plasma-chip": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/38a091ea-3dc2-42f4-82ed-e44a03e8b9e4/neuromorphic-Great-Sky-chip-from-BNL-release.jpg?m=1792614243.041&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "El Brookhaven National Laboratory presentó un chip superconductor diseñado para ayudar a vigilar el plasma de fusión en tiempo real, desarrollado junto con otras instalaciones del U.S. Department of Energy y la start-up de hardware de AI Great Sky."
+        },
+        {
+          "t": "p",
+          "x": "En los tokamaks, un comportamiento inesperado del plasma puede causar una disrupción, un colapso repentino que puede dañar el dispositivo. Los sistemas neuromórficos de AI, que imitan al cerebro para procesar enormes cantidades de datos en paralelo, podrían seguir cambios tan rápidos."
+        },
+        {
+          "t": "p",
+          "x": "El chip aún no se ha conectado a un tokamak en funcionamiento. El equipo reprodujo datos registrados en el tokamak DIII-D a un millón de muestras por segundo, y el chip mantuvo el ritmo mientras ejecutaba algoritmos pensados para señalar anomalías y predecir disrupciones. “Todo esto está ahora muy en fase de demostración”, dice Michael Churchill, del Princeton Plasma Physics Laboratory."
+        },
+        {
+          "t": "p",
+          "x": "El equipo planea un chip sucesor con una red neuronal 10 veces mayor, que se presentará en Brookhaven a principios del próximo año y se instalará en DIII-D algún tiempo después."
+        }
+      ]
+    },
+    "science/science-quantum-sim-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://physicsworld.com/wp-content/uploads/2026/10/ai-agent-computer-chip-or-software-2217030312-istock-mf3d.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Las simulaciones cuánticas se usan para calcular energías moleculares, investigar nuevos materiales, probar algoritmos de computación cuántica y predecir cómo evolucionan los sistemas cuánticos, pero a menudo requieren métodos numéricos especializados y dominio de varias herramientas de software."
+        },
+        {
+          "t": "p",
+          "x": "Los agentes de AI pueden planificar tareas de varios pasos, consultar documentación, ejecutar programas, examinar resultados y revisar su enfoque. El Agente Cuántico aplica esto a la simulación cuántica: un agente coordinador delega el trabajo en agentes especializados vinculados a distintos paquetes de software, que producen código, resultados numéricos y figuras."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores lo demostraron en cálculos de energía molecular, estados entrelazados, dinámica disipativa, cristales de tiempo, corrección de errores y estimación de recursos de hardware. En pruebas repetidas de cinco tareas, las puntuaciones medias de la evaluación experta oscilaron entre 97 y 100 sobre 100, aunque algunas ejecuciones se apartaron de las instrucciones."
+        },
+        {
+          "t": "p",
+          "x": "Los autores presentan los agentes como una ayuda al juicio científico, no como su sustituto. (I. Gustin et al 2026 Rep. Prog. Phys. 89 077602)"
+        }
+      ]
+    },
+    "science/science-chatbot-delusions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbots-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores de Georgia Tech Lorenzo de la Loza y Vijay Madisetti probaron ocho modelos de AI en 1,280 experimentos, con 16 escenarios de origen clínico sobre creencias delirantes."
+        },
+        {
+          "t": "p",
+          "x": "Las instrucciones diseñadas para desalentar el acuerdo excesivo —que indican a los modelos no reforzar las creencias de los usuarios solo por complacerlos— redujeron un 73.8% la confirmación de esas creencias por parte de los modelos. Añadir un paso de autorreflexión elevó la reducción al 77%."
+        },
+        {
+          "t": "p",
+          "x": "El estudio no hizo pruebas con personas en entornos clínicos, por lo que no demuestra que el método evite daños en el mundo real. El trabajo se publica en ACM AI Letters."
+        }
+      ]
+    },
+    "science/science-bee-buzz-audio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-microphone-captures.jpg",
+          "cap": "Un micrófono graba a un abejorro común de banda naranja mientras recoge polen. Credit: Laura Figueroa"
+        },
+        {
+          "t": "p",
+          "x": "La vigilancia de polinizadores usa sobre todo trampas letales —a menudo pequeños vasos de colores llenos de agua jabonosa—, que también matan a muchos insectos no objetivo."
+        },
+        {
+          "t": "p",
+          "x": "Un equipo dirigido por Laura Figueroa en UMass Amherst creó dos modelos de AI que analizan el audio de las abejas: uno detecta la actividad general de las abejas y el otro distingue las abejas melíferas de los abejorros. Entrenados con 594 grabaciones de campo de 43 sitios del noreste de Estados Unidos (U.S.) durante cinco años, los modelos identificaron correctamente el 93%–97% de las abejas de una muestra y mostraron una fuerte correlación con observadores entrenados."
+        },
+        {
+          "t": "p",
+          "x": "Los autores ven la herramienta como un complemento de los métodos tradicionales, útil en lugares difíciles de muestrear como las copas de los árboles. Los modelos están disponibles en Raven Pro."
+        }
+      ]
+    },
+    "science/science-nz-rain": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heavy-rain-in-new-zeal.jpg",
+          "cap": "Lluvia intensa en Nueva Zelanda (New Zealand). Credit: Roman Castillo from Pexels"
+        },
+        {
+          "t": "p",
+          "x": "Neelesh Rampal y Steven Sherwood, en un artículo para The Conversation, usaron una AI generativa entrenada con 140 años de simulaciones climáticas regionales, que abarcan condiciones históricas y futuras más cálidas, para trazar muchos futuros climáticos posibles de Nueva Zelanda (New Zealand) en una cuadrícula de unos 12 km de ancho."
+        },
+        {
+          "t": "p",
+          "x": "La AI generó más de 15,000 años simulados en seis horas con cuatro chips especializados, y recreó la historia y los futuros posibles hasta 2100 en un mundo donde las emisiones de gases de efecto invernadero siguen aumentando."
+        },
+        {
+          "t": "p",
+          "x": "En promedio para Nueva Zelanda (New Zealand), la lluvia diaria en un evento one-in-100-year aumenta cerca de 9% por grado de calentamiento, más rápido que el 5.6% aproximado de las lluvias intensas más frecuentes: los aguaceros más raros se vuelven más intensos a medida que el planeta se calienta."
+        },
+        {
+          "t": "p",
+          "x": "El calentamiento también amplió la brecha entre futuros posibles más moderados y más severos. En los futuros más severos, la lluvia extrema aumentó bastante más que los promedios. El estudio se publicó en Climate Dynamics."
+        }
+      ]
     }
   }
 }

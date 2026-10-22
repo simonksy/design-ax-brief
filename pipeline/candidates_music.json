@@ -1,17 +1,81 @@
 {
+ "date": "2026-10-23",
  "section": "music",
- "generated_at": "2026-10-21T22:00:00Z",
- "now_iso": "2026-10-21T22:00:00Z",
+ "now_iso": "2026-10-22T22:00:32Z",
  "window_hours": 336,
+ "generated_at": "2026-10-22T22:00:32Z",
  "items": [
   {
-   "title": "Why did Apple buy AI music startup Samplab, and how might this impact Logic Pro?",
-   "url": "https://musictech.com/news/industry/why-did-apple-buy-ai-music-startup-samplab-and-how-might-this-impact-logic-pro/",
-   "source": "MusicTech",
+   "title": "Reservoir Fires Off Infringement and DMCA Suits Against Suno and Anthropic, Demanding Nearly $340 Million",
+   "url": "https://www.digitalmusicnews.com/2026/10/22/reservoir-media-suno-anthropic-lawsuit/",
+   "source": "Digital Music News",
    "category": "music",
-   "published_iso": "2026-10-21T16:40:58+00:00",
-   "excerpt": "Apple acquired AI audio startup Samplab (disclosed via an EU Digital Markets Act filing), seemingly to bolster Logic Pro's AI tools such as polyphonic audio-to-MIDI and note editing.",
-   "og_image": "https://musictech.com/wp-content/uploads/2026/10/Apple-Samplab@2000x1500-1068x801.jpg"
+   "published_iso": "2026-10-22T20:20:29+00:00",
+   "excerpt": "Reservoir is seeking hundreds of millions of dollars in damages from Anthropic and Suno in a pair of new copyright infringement suits.",
+   "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Anthropic-Suno-Reservoir-Suits.jpg"
+  },
+  {
+   "title": "Claude's lyrics are diluting real lyrics, say music publishers in latest Anthropic proceedings",
+   "url": "https://completemusicupdate.com/claudes-lyrics-are-diluting-real-lyrics-say-music-publishers-in-latest-anthropic-proceedings/",
+   "source": "CMU",
+   "category": "music",
+   "published_iso": "2026-10-22T15:56:56.000Z",
+   "excerpt": "The big debate over whether or not AI training is fair use under US copyright law was taking place in court again yesterday, this time in the context of music, specifically lyrics, with the copyright legal battle between AI company Anthropic and the Universal, Concord and ABKCO music publishers",
+   "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/anthropic.png"
+  },
+  {
+   "title": "Suno admits it has not deleted all the recordings used to train its AI, in answer to UMG and Sony's 'laundering' lawsuit",
+   "url": "https://www.musicbusinessworldwide.com/suno-admits-it-has-not-deleted-all-the-recordings-used-to-train-its-ai-in-answer-to-umg-and-sonys-laundering-lawsuit/",
+   "source": "Music Business Worldwide",
+   "category": "music",
+   "published_iso": "2026-10-22T14:25:36+00:00",
+   "excerpt": "Suno's 44-page answer, filed October 20 in the US District Court for the District of Massachusetts, concedes it has not deleted all recordings used to train its AI models, responding to UMG and Sony's 'laundering' claims. (Date from MBW RSS; article body 403-blocked to fetchers.)",
+   "og_image": ""
+  },
+  {
+   "title": "Universal Music Group & AI Gaming Company TYGER Announce Licensing Deal",
+   "url": "https://www.billboard.com/pro/universal-music-group-tyger-licensing-agreement/",
+   "source": "Billboard",
+   "category": "music",
+   "published_iso": "2026-10-22T13:57:37+00:00",
+   "excerpt": "UMG becomes the first major to license TYGER, an AI gaming platform that adapts licensed songs to gameplay in real time.",
+   "og_image": "https://www.billboard.com/wp-content/uploads/2026/08/universal-music-group-logo-smartphone-billboard-1800.jpg?w=1024"
+  },
+  {
+   "title": "Spotify Co-CEOs Talk AI Remixing Tool: 'We're the Right Company to Do This'",
+   "url": "https://www.billboard.com/pro/spotify-co-ceos-talk-ai-music-remixing-tool-subscribers/",
+   "source": "Billboard",
+   "category": "music",
+   "published_iso": "2026-10-22T20:47:12+00:00",
+   "excerpt": "Spotify's co-CEOs discussed the coming AI music remixing tool for the platform's subscribers, saying it will generate new revenue for the industry.",
+   "og_image": "https://www.billboard.com/wp-content/uploads/2026/10/2277532373.jpg?w=1024"
+  },
+  {
+   "title": "Spotify's current AI bet is about being the music service that agents choose",
+   "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+   "source": "TechCrunch",
+   "category": "music",
+   "published_iso": "2026-10-22T15:03:58+00:00",
+   "excerpt": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+   "og_image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1783835425-crop-e1717409949317.jpg?resize=1200,676"
+  },
+  {
+   "title": "AI-Generated Music and the Future of Creativity Discussed at Billboard Latin Music Week",
+   "url": "https://www.billboard.com/pro/ai-music-protect-human-creators-billboard-latin-music-week/",
+   "source": "Billboard",
+   "category": "music",
+   "published_iso": "2026-10-21T22:08:29+00:00",
+   "excerpt": "AI in music and protecting human creators was discussed at a Billboard Latin Music Week panel featuring Cristina Perpiñá-Robert and Pierre Hachar Jr.",
+   "og_image": "https://www.billboard.com/wp-content/uploads/2026/10/LMW-AI-Panel-billboard-1800.jpg?w=1024"
+  },
+  {
+   "title": "Is The Humanity of Instruments Under Threat from AI?",
+   "url": "https://www.gearnews.com/humanity-instruments-ai-threat-synths/",
+   "source": "Gearnews",
+   "category": "music",
+   "published_iso": "2026-10-18T18:00:00+02:00",
+   "excerpt": "The surge in vibe-coded instrument plugins has been overwhelming, but do we risk losing the most important feature, humanity?",
+   "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/10/AI-Human.jpg"
   },
   {
    "title": "Stop sending me vibecoded AI plugins, I'm begging you",
@@ -19,152 +83,80 @@
    "source": "MusicTech",
    "category": "music",
    "published_iso": "2026-10-21T10:04:18+00:00",
-   "excerpt": "MusicTech's inbox is drowning in vibecoded plugins; the piece explains why that is a problem for producers and which indie developers are using AI coding responsibly.",
+   "excerpt": "MusicTech’s inbox is drowning in a sea of vibecoded plugins. Here’s why that’s a problem, and which indie developers are doing it properly.",
    "og_image": "https://musictech.com/wp-content/uploads/2026/10/vibecoded-ai-plugin-hero@2000x1500-1068x801.jpg"
   },
   {
-   "title": "Who's Buying All These Vibe-Coded Plugins?",
-   "url": "https://www.attackmagazine.com/features/long-read/whos-buying-all-these-vibe-coded-plugins/",
-   "source": "Attack Magazine",
-   "category": "music",
-   "published_iso": "2026-10-15T23:02:15+00:00",
-   "excerpt": "A long read on whether vibe-coded plugins are actually taking over the market, with two developers explaining how they use AI in their build process.",
-   "og_image": "https://www.attackmagazine.com/wp-content/uploads/2026/10/3b83c303-dcf6-4d40-bb9a-7def2f026386-800x274.png"
-  },
-  {
-   "title": "Just 4 Noise launches ethically-trained AI kick-drum generator",
-   "url": "https://musically.com/2026/10/20/just-4-noise-launches-ethically-trained-ai-kick-drum-generator/",
+   "title": "New studies explore AI expectations, jobs impact and gender gap",
+   "url": "https://musically.com/2026/10/19/new-studies-explore-ai-expectations-jobs-impact-and-gender-gap/",
    "source": "Music Ally",
    "category": "music",
-   "published_iso": "2026-10-20T11:43:00+00:00",
-   "excerpt": "Just 4 Kicks generates kick-drum samples from a model trained on licensed material, part of a wider trend of ethically-trained, producer-facing AI music tools.",
-   "og_image": "https://musically.com/wp-content/uploads/2026/10/Copy-of-hero_color-scaled.jpg"
+   "published_iso": "2026-10-19T11:30:00+00:00",
+   "excerpt": "Beyond the AI-music debates that have been gripping our industry, there’s a lot to think about in terms of the other ways AI will affect our jobs and wider society. Several studies published in recent days offer new perspectives on that.",
+   "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-19T122259.425.png?fit=2000%2C1500&ssl=1"
   },
   {
-   "title": "Suno-made track 'The Adult I Dreamed Of' is a hit in South Korea",
-   "url": "https://musically.com/2026/10/15/suno-made-track-the-adult-i-dreamed-of-is-a-hit-in-south-korea/",
-   "source": "Music Ally",
-   "category": "music",
-   "published_iso": "2026-10-15T12:30:00+00:00",
-   "excerpt": "After 'Forest of the Heart' charted on Melon last month, another Suno-generated song, 'The Adult I Dreamed Of', has become a hit in South Korea, reigniting the AI-music chart debate.",
-   "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-15T112855.400.png?fit=2000%2C1500&ssl=1"
-  },
-  {
-   "title": "Duke Sanford study explores AI-music encounters on Spotify",
-   "url": "https://musically.com/2026/10/16/duke-sanford-study-explores-ai-music-encounters-on-spotify/",
+   "title": "Publishing body ICMP blasts potential AI rules in Australia",
+   "url": "https://musically.com/2026/10/16/publishing-body-icmp-blasts-potential-ai-rules-in-australia/",
    "source": "Music Ally",
    "category": "music",
    "published_iso": "2026-10-16T12:30:00+00:00",
-   "excerpt": "'Spotify won't label AI music. We tried to detect it ourselves': Duke Sanford Tech Policy Program researchers measured how often listeners encounter AI-generated tracks on Spotify.",
-   "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2025/10/Spotify-logo-black-on-white.png?fit=2000%2C1500&ssl=1"
+   "excerpt": "Australia’s government is currently devising its future policies on AI, training and copyright. We recently reported on labels body ARIA’s boss Annabelle Herd’s testimony at a select-committee hearing as part of that process.",
+   "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-16T125745.140.png?fit=2000%2C1500&ssl=1"
   },
   {
-   "title": "Deezer Announces 'On/Off Toggle' for AI Audio, Enabling Users to Remove Fully AI-Generated Music",
-   "url": "https://www.digitalmusicnews.com/2026/10/13/deezer-ai-toggle/",
+   "title": "Is There a Future for 'Humanoid Robot Performances'? South Korea's Galaxy Corporation Thinks So",
+   "url": "https://www.digitalmusicnews.com/2026/10/21/south-korea-humanoid-robot-performances/",
    "source": "Digital Music News",
    "category": "music",
-   "published_iso": "2026-10-14T04:58:02+00:00",
-   "excerpt": "Deezer announced an AI audio on/off toggle that will let users remove fully AI-generated music from their experience, building on its AI detection and tagging system.",
-   "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Deezer-AI-Toggle.png"
+   "published_iso": "2026-10-21T09:00:23+00:00",
+   "excerpt": "South Korea-based Galaxy Corporation is combining entertainment IP, AI, and humanoid robots for an upcoming Halloween-inspired event in CA.",
+   "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/galaxy-corporation-humanoid-robot-k-pop-performances.png"
   },
   {
-   "title": "YouTube Music Adds Labels for Tracks 'Created Primarily' With Gen AI",
-   "url": "https://www.digitalmusicnews.com/2026/10/14/youtube-music-ai-labels/",
-   "source": "Digital Music News",
+   "title": "Fontaines DC Blindsided by Unsanctioned, 'Ironic' Use of AI on 'Marianne' Music Video",
+   "url": "https://www.vice.com/en/article/fontaines-dc-blindsided-by-unsanctioned-ironic-use-of-ai-on-marianne-music-video/",
+   "source": "VICE",
    "category": "music",
-   "published_iso": "2026-10-14T22:25:41+00:00",
-   "excerpt": "YouTube Music began labelling songs 'created primarily using generative AI' on 14 October, using its own detection system, saying listeners asked for transparency.",
-   "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/YouTube-Music-AI-Tags.jpg"
+   "published_iso": "2026-10-22T15:00:01+00:00",
+   "excerpt": "Fontaines D.C. found themselves in a darkly ironic AI scandal after they found out someone used the tech on one of their music videos.",
+   "og_image": "https://www.vice.com/wp-content/uploads/sites/2/2026/10/Fontaines-D.C1.jpg?w=1200"
   },
   {
-   "title": "Sony Music, UMG File New Legal Action Against DistroKid to Force Disclosure of AI Uploads",
-   "url": "https://www.digitalmusicnews.com/2026/10/16/sony-music-umg-lawsuit-vs-distrokid-ai-disclosure/",
-   "source": "Digital Music News",
+   "title": "AI K-pop band under fire after creators 'impregnated' member to write her out of group",
+   "url": "https://www.dexerto.com/entertainment/ai-k-pop-band-under-fire-after-creators-impregnated-member-to-write-her-out-of-group-3420877/",
+   "source": "Dexerto",
    "category": "music",
-   "published_iso": "2026-10-17T06:00:09+00:00",
-   "excerpt": "Universal Music Group and Sony Music filed a legal action to force DistroKid to disclose how many AI-generated songs (including Suno output) it delivers to DSPs.",
-   "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/sony-music-umg-file-new-legal-action-against-distrokid.png"
+   "published_iso": "2026-10-21T19:01:26.000Z",
+   "excerpt": "An AI K-Pop group is facing backlash after its creators announced that one of its members was pregnant to write her out of the band.",
+   "og_image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/21/ai-k-pop-group-pregnant.jpg"
   },
   {
-   "title": "Major labels are getting 'massive corporate payouts' for AI licensing but 'paying musicians zero', says AFM's 'Human Made Human Paid' campaign",
-   "url": "https://completemusicupdate.com/major-labels-are-getting-massive-corporate-payouts-for-ai-licensing-but-paying-musicians-zero-says-afms-human-made-human-paid-campaign/",
-   "source": "CMU",
+   "title": "Agentic Music Post-Production (MixAgent)",
+   "url": "https://arxiv.org/abs/2610.29093",
+   "source": "arXiv",
    "category": "music",
-   "published_iso": "2026-10-21T15:04:18+00:00",
-   "excerpt": "US performer union AFM launched a campaign demanding musician consent and pay before recordings are used in label AI licensing deals.",
-   "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/AFM-AI-campaign.png"
+   "published_iso": "2026-10-21T02:36:51Z",
+   "excerpt": "MixAgent is an agentic pipeline for music post-production that follows audio engineers' workflow: grouping and planning agents build interpretable, editable mixing plans guided by a reference song.",
+   "og_image": ""
   },
   {
-   "title": "Using AI To Make Patches For The Yamaha CS-80 Synthesizer",
-   "url": "https://www.synthtopia.com/content/2026/10/12/using-ai-to-make-patches-for-the-yamaha-cs-80-synthesizer/",
-   "source": "Synthtopia",
+   "title": "MuLaCover: Flexible Cover Song Generation via Symbolic Tonal Control",
+   "url": "https://arxiv.org/abs/2610.26684",
+   "source": "arXiv",
    "category": "music",
-   "published_iso": "2026-10-12T21:20:21+00:00",
-   "excerpt": "Jose's Vintage Keys uses Anthropic's Claude to control a MIDI-upgraded Yamaha CS-80 and design patches, showing AI as a sound-design assistant for vintage hardware.",
-   "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/10/ai-sound-design.jpg"
+   "published_iso": "2026-10-19T16:31:09Z",
+   "excerpt": "MuLaCover re-renders existing songs with pretrained music language models by explicitly controlling tonal content (melody and chords) while reshaping style, arrangement and other attributes.",
+   "og_image": ""
   },
   {
-   "title": "Elektron Responds To Explosion Of Unofficial Firmware",
-   "url": "https://www.synthtopia.com/content/2026/10/17/elektron-responds-to-explosion-of-unofficial-firmware/",
-   "source": "Synthtopia",
+   "title": "Soloist: A Generative Model for Blind Voice Separation in the Wild",
+   "url": "https://arxiv.org/abs/2610.19716",
+   "source": "arXiv",
    "category": "music",
-   "published_iso": "2026-10-18T01:09:38+00:00",
-   "excerpt": "EZBOT shares takeaways from an hour-long call with Elektron about AI and its impact on the company, and the wave of AI-assisted hacked firmware for its devices.",
-   "og_image": "https://www.synthtopia.com/wp-content/uploads/2020/02/elektron-logo2-e1582302078978.jpg"
-  },
-  {
-   "title": "POLL: What do you think about AI in music software?",
-   "url": "https://bedroomproducersblog.com/2026/10/17/ai-in-music-software-poll/",
-   "source": "Bedroom Producers Blog",
-   "category": "music",
-   "published_iso": "2026-10-17T14:34:00+00:00",
-   "excerpt": "BPB says AI-assisted coding and text-to-music tools have flooded the plugin market and lowered quality; it is filtering AI-generated software from its news and polling readers on where to draw the line.",
-   "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/10/aipoll.jpg"
-  },
-  {
-   "title": "Romain Gavras Is Bummed About Those AI Versions of 'Storm'",
-   "url": "https://pitchfork.com/story/romain-gavras-is-bummed-about-those-ai-versions-of-storm/",
-   "source": "Pitchfork",
-   "category": "music",
-   "published_iso": "2026-10-20T18:06:39+00:00",
-   "excerpt": "Director Romain Gavras says AI copycat 'recreations' of his Yung Lean 'Storm' video made him sad for the crew who put in so much work on the real thing.",
-   "og_image": "https://media.pitchfork.com/photos/6ad7abef14dfa97cd2ad58cb/16:9/w_1280,c_limit/romaingav.png"
-  },
-  {
-   "title": "What Should Music Awards Recognize in the Age of AI?",
-   "url": "https://www.hypebot.com/what-should-music-awards-recognize-in-the-age-of-ai/",
-   "source": "Hypebot",
-   "category": "music",
-   "published_iso": "2026-10-15T14:09:07+00:00",
-   "excerpt": "Argues human creative decisions behind AI-assisted work remain central and that awards organizations need transparency rules about AI use.",
-   "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/Screenshot-2026-10-15-at-9.44.05---AM.png"
-  },
-  {
-   "title": "Streaming Fraud Threatens More Than Fraudsters. We Must Find Meaningful Solutions (Guest Column)",
-   "url": "https://www.billboard.com/pro/streaming-fraud-hurts-songwriters-find-solutions/",
-   "source": "Billboard",
-   "category": "music",
-   "published_iso": "2026-10-21T21:29:20+00:00",
-   "excerpt": "NMPA chief David Israelite argues streaming fraud, exacerbated by AI-generated tracks (Deezer: 90,000 a day), drains songwriter royalties and needs industry solutions.",
-   "og_image": "https://www.billboard.com/wp-content/uploads/2025/10/David-Israelite-2021-Courtesy-NMPA-billboard-1800.jpg?w=1024"
-  },
-  {
-   "title": "IAMDDB accuses Israel of 'stealing her identity' in AI propaganda video",
-   "url": "https://mixmag.net/read/iamddb-accuses-israeli-government-stealing-identity-for-ai-propaganda-video-news",
-   "source": "Mixmag",
-   "category": "music",
-   "published_iso": "2026-10-20T00:00:00+00:00",
-   "excerpt": "Manchester artist IAMDDB says a now-deleted government clip used an AI-generated likeness of her, raising artist-likeness and deepfake concerns.",
-   "og_image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/IAMDDB_2026-10-20-113511_wnwl.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=8KBED0ZCpd2SZBDc-yRs7qsoxcdwxtxNrGtcRWqy_dE"
-  },
-  {
-   "title": "Apple's latest acquisition suggests Logic Pro is getting Melodyne-style polyphonic note editing",
-   "url": "https://www.musicradar.com/music-tech/apple-has-made-a-secret-ai-acquisition-could-this-mean-generative-ai-is-coming-to-logic-pro",
-   "source": "MusicRadar",
-   "category": "music",
-   "published_iso": "2026-10-20T15:26:42+00:00",
-   "excerpt": "AI audio company Samplab was acquired by Apple in June per EU disclosures, hinting at Melodyne-style polyphonic editing coming to Logic Pro. (Same story as MusicTech item.)",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/ZMG596F5iiJQWEjxuP35SW-2010-80.jpg"
+   "published_iso": "2026-10-14T07:42:57Z",
+   "excerpt": "Soloist is a generative model that recovers individual voices from overlapping speech, environmental noise and music without isolated source recordings for supervision.",
+   "og_image": ""
   }
  ]
 }

@@ -1794,6 +1794,139 @@
           "x": "El Prof Miroslaw Bober, de la University of Surrey, lo califica de \"una prueba de concepto prometedora, pero no está lista para el uso clínico\", y advierte: \"Predecir un resultado no es lo mismo que explicarlo\"."
         }
       ]
+    },
+    "medicine/medicine-sentara-regard-case-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1489370843.jpg?VersionId=TgJt3wnG4D8o0Y1CLBmihDbxRdigvp0."
+        },
+        {
+          "t": "p",
+          "x": "El sistema de salud sin ánimo de lucro Sentara Health implantó el martes una nueva solución de gestión de casos con inteligencia artificial, desarrollada junto con Regard, empresa de apoyo a la decisión clínica."
+        },
+        {
+          "t": "p",
+          "x": "Los gestores de casos pueden usar la herramienta para consultar historias clínicas en lenguaje llano, obtener con rapidez datos clave como los antecedentes del paciente y los cambios de estado, y ver los cambios de las últimas 24 horas."
+        },
+        {
+          "t": "p",
+          "x": "“Es increíble pensar en cuánto tiempo dedicábamos a reconstruir la historia de un paciente antes incluso de poder empezar a planificar el alta”, dijo Rollin Reeder, M.D., director de información sanitaria de Sentara."
+        },
+        {
+          "t": "p",
+          "x": "Sentara prevé extender la herramienta a toda la atención de agudos y a la atención ambulatoria. Sus directivos calculan que podría ahorrar cerca de 90,000 horas, equivalentes a más de 40 empleados a tiempo completo y casi $5 millones en costes laborales. Sentara opera 12 hospitales y más de 400 centros asistenciales en Virginia y el noreste de Carolina del Norte (Northeast North Carolina)."
+        },
+        {
+          "t": "p",
+          "x": "El CEO de Regard, Eli Ben-Joseph, dijo que su plataforma ha detectado más de 20 millones de diagnósticos que los médicos aceptaron y que extenderla a los equipos operativos es “el siguiente paso natural”."
+        }
+      ]
+    },
+    "medicine/medicine-coreline-neck-ct-lung-cancer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.bosa.co.kr/news/photo/202610/3014596_415527_236.png"
+        },
+        {
+          "t": "p",
+          "x": "El ‘cribado oportunista (Opportunistic Screening)’, que aprovecha una CT tomada para comprobar una enfermedad concreta para detectar también enfermedades graves ocultas ajenas al objetivo del examen, se perfila como un tema central en el sector de la AI médica."
+        },
+        {
+          "t": "p",
+          "x": "Un estudio clínico que usó ‘AVIEW LCS’, la solución de Coreline Soft para analizar nódulos pulmonares en CT de tórax, para detectar lesiones tempranas de cáncer de pulmón que suelen pasarse por alto en la lectura de CT de cuello se publicó en el último número de la revista internacional ‘Korean Journal of Radiology’. La CT de cuello incluye parte del vértice pulmonar en el extremo inferior del rango de exploración, pero como la mirada del radiólogo se concentra en la zona del cuello, no era raro que se pasaran por alto pequeñas lesiones pulmonares en los bordes."
+        },
+        {
+          "t": "p",
+          "x": "Un equipo de un hospital terciario de Corea siguió de forma retrospectiva a 81,794 adultos que se hicieron una CT de cuello en 2008~2024 y halló que, entre los pacientes diagnosticados después de cáncer de pulmón, en 123 casos la lesión ya aparecía en una CT de cuello anterior. En 80 de ellos, el 65.0%, el informe de lectura no recogía ningún hallazgo pulmonar. El grupo omitido tardó una mediana de 27.5 meses hasta el diagnóstico definitivo, y la proporción con empeoramiento en alguno de T·N·M fue del 47.5%, más de 4 veces la del grupo detectado de inmediato (11.6%)."
+        },
+        {
+          "t": "p",
+          "x": "Cuando el equipo aplicó AVIEW LCS a los 80 casos omitidos, detectó 41 de los 80 (sensibilidad del 51.3%), pese a que el algoritmo, exclusivo para tórax, no se reentrenó para la CT de cuello. Aunque quedan pendientes más validaciones, como la tasa de falsos positivos y la especificidad, se considera que el estudio aporta evidencia exploratoria de que una AI diseñada para una región concreta puede servir de red de seguridad complementaria en imágenes de otras regiones."
+        },
+        {
+          "t": "p",
+          "x": "Coreline Soft impulsa la estrategia ‘One CT, Multi-Disease’, que analiza a la vez nódulos pulmonares, COPD y enfisema, y calcificación coronaria con una sola CT de tórax. En el primer semestre de 2026, sus ventas crecieron un 45.7% interanual y las ventas en el extranjero, un 123.0%."
+        }
+      ]
+    },
+    "medicine/medicine-llm-choosing-wisely": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/artificial-intelligence-ai-binary-code-400.8uQeMX4Imz.jpg?auto=format%2Ccompress&fit=fillmax&q=70&w=400"
+        },
+        {
+          "t": "p",
+          "x": "Los grandes modelos de lenguaje (LLMs) rara vez recomiendan atención innecesaria en pruebas de Choosing Wisely, aunque la ecografía tiroidea es más vulnerable, según un estudio publicado el 19 de octubre en Annals of Internal Medicine."
+        },
+        {
+          "t": "p",
+          "x": "Un equipo dirigido por Dean Ariel, MD, de Clalit Health Services en Tel Aviv, usó 15 recomendaciones de Choosing Wisely para crear 225 escenarios y luego probó seis LLM comerciales, que generaron 4,050 respuestas con una instrucción formulada desde la perspectiva del clínico."
+        },
+        {
+          "t": "p",
+          "x": "El uso excesivo recomendado por los LLM (LLM-recommended overuse) se dio en el 5.4% de los casos, y en ocho de las 15 recomendaciones no hubo ninguno. Dos concentraron la mayor parte: la ecografía tiroidea ante un nódulo incidental subcentimétrico (42.8% de las respuestas) y el electrocardiograma rutinario en adultos de bajo riesgo (28.3%). La falsa contención se dio en el 0.6% de los casos, con el máximo en el cribado de PSA, del 3.3%."
+        },
+        {
+          "t": "p",
+          "x": "La ecografía tiroidea para nódulos incidentales pequeños es la única recomendación del estudio con un desacuerdo activo entre las guías de las sociedades. “Lo que las divide, y lo que enfrentaron los modelos, es precisamente si hacer pruebas de imagen”, escribieron los autores."
+        },
+        {
+          "t": "p",
+          "x": "Un editorial adjunto pidió estudios con casos reales y describió el trabajo como el primer estudio publicado que aborda de forma explícita el uso excesivo."
+        }
+      ]
+    },
+    "medicine/medicine-brainomix-elung-fibrosis": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-2135067814.jpg?h=d5eed9cb&itok=YDymF8NG"
+        },
+        {
+          "t": "p",
+          "x": "El análisis cuantitativo de CT impulsado por inteligencia artificial puede identificar signos de fibrosis pulmonar meses antes del diagnóstico clínico, según un nuevo estudio multicéntrico publicado en Annals of the American Thoracic Society."
+        },
+        {
+          "t": "p",
+          "x": "El estudio retrospectivo evaluó a 509 pacientes con enfermedad pulmonar intersticial fibrótica en la University of Chicago, Weill Cornell Medicine y la University of Alabama at Birmingham con e-Lung de Brainomix, una herramienta de CT cuantitativa con autorización de la FDA (FDA-cleared). Boehringer Ingelheim financió el estudio."
+        },
+        {
+          "t": "p",
+          "x": "Estas mediciones identificaron la progresión radiológica una media de 16 meses antes del diagnóstico clínico de fibrosis pulmonar, y hasta 28 meses en un centro. También detectaron progresión en una proporción considerable de pacientes que se consideraban clínicamente estables en el momento del examen."
+        },
+        {
+          "t": "p",
+          "x": "Una puntuación reticulovascular ponderada basal más alta se asoció con un mayor riesgo de fibrosis pulmonar futura, mientras que un cambio del 1.5% en la extensión total de la enfermedad en CT seriadas se asoció con un aumento de la mortalidad. Brainomix y Boehringer Ingelheim prevén continuar con PROGRESS-PPF, un estudio prospectivo y multicéntrico en Estados Unidos (U.S.)."
+        }
+      ]
+    },
+    "medicine/medicine-epic-connectors": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
+          "cap": "Las organizaciones de salud podrán encontrar en Epic Showroom los Connectors creados por desarrolladores a partir de marzo de 2027. (ismagilov/GettyImages)"
+        },
+        {
+          "t": "p",
+          "x": "Epic lanzó \"Connectors\", que permiten a los desarrolladores conectar sus apps con las herramientas de AI de Epic: Emmie, asistente para pacientes; Art, asistente para clínicos; Penny, su AI de ciclo de ingresos y operaciones; y los agentes personalizados que los sistemas de salud crean en Agent Factory. El anuncio se hizo antes de la conferencia Open@Epic."
+        },
+        {
+          "t": "p",
+          "x": "En los ejemplos de Epic, un Connector obtiene la hora de llegada desde una app de ambulancias para que el ED (servicio de urgencias) se prepare, y Emmie registra directamente el pedido de comida de un paciente hospitalizado en la app de dietética. Los agentes pueden encadenar varios Connectors en un único flujo de trabajo de varios pasos."
+        },
+        {
+          "t": "p",
+          "x": "Epic usará inicialmente el Model Context Protocol (MCP) como estándar. Los sistemas de salud revisan qué puede leer y modificar cada Connector antes de activarlo, y Epic cobrará a los desarrolladores por aparecer en Showroom (precio no revelado)."
+        },
+        {
+          "t": "p",
+          "x": "\"No habrá nuevas acciones autónomas como resultado de estas capacidades\", dijo Johnston Thayer, VP de Epic. Las pruebas con algunos sistemas de salud socios comenzarán antes de fin de año."
+        }
+      ]
     }
   }
 }

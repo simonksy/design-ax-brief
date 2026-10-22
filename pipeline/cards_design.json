@@ -1,681 +1,17 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "section": "design",
   "cards": [
     {
-      "id": "design-figma-mcp",
+      "id": "design-canva-craft-model",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Figma, MCP 파트너\n20곳 늘리며 의문 제기",
-      "body": "Figma가 MCP는 불완전하다면서도 Notion 등 파트너 20곳을 더했다.",
-      "mini_headline": "Figma, MCP 파트너 20곳 추가",
-      "tool": "Figma",
-      "source": "DEV Community",
-      "url": "https://dev.to/hacksgr/figma-embraces-new-ai-paradigm-but-expresses-reservations-39n7",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fhacks.gr%2Fwp-content%2Fuploads%2F2026%2F10%2Fgettyimages-1233645802.webp"
-          },
-          {
-            "t": "p",
-            "x": "Figma 공동 창업자 Dylan Field가 Model Context Protocol(MCP)을 두고 우려를 내놨다. 표준이 완벽하지 않은 데다 대형 AI 연구소 쪽에 유리하다는 것이다."
-          },
-          {
-            "t": "p",
-            "x": "Figma는 인도(India)에서 처음 연 Config 콘퍼런스에서 Notion, ClickUp, Linear 등 MCP를 쓸 새 파트너 20곳을 발표했다. 회사는 도입을 밀어붙이지만 Field는 MCP가 \"개선할 여지가 아주 많다\"며 \"프런티어 연구소에 더 유리하다\"고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "Field는 MCP를 만든 Anthropic에도 날을 세웠다. 직접 홍보하는 프로토콜로 정작 자기 리소스는 왜 공개하지 않느냐는 지적이다."
-          },
-          {
-            "t": "p",
-            "x": "Figma는 오픈소스 도구 Pi를 지원할 계획이지만 모든 외부 연결에 시스템을 활짝 열지는 않는다. Field는 MCP로 드러나는 데이터가 많을수록 악용될 여지도 커지니 그만큼 조심해야 한다고 했다."
-          },
-          {
-            "t": "p",
-            "x": "Hacks.gr가 다시 실은 기사로, 원 보도는 TechCrunch(October 20, 2026)다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Figma adds 20 MCP partners\nwhile doubting the protocol",
-          "body": "At Config India, Figma added 20 MCP partners including Notion and Linear, even as Dylan Field called MCP imperfect.",
-          "mini_headline": "Figma adds 20 MCP partners",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fhacks.gr%2Fwp-content%2Fuploads%2F2026%2F10%2Fgettyimages-1233645802.webp"
-              },
-              {
-                "t": "p",
-                "x": "Figma co-founder Dylan Field has voiced concerns over the Model Context Protocol (MCP), arguing that the standard is not perfect and favors large AI labs."
-              },
-              {
-                "t": "p",
-                "x": "At its first Config conference in India, Figma announced 20 new partners that will use MCP, including Notion, ClickUp and Linear. While the company is moving forward with this adoption, Field said MCP \"has tons of room for improvement\" and is \"advantaged more to frontier labs.\""
-              },
-              {
-                "t": "p",
-                "x": "Field also criticized Anthropic, the company that created MCP, asking why it does not make its own resources available through the protocol it promotes."
-              },
-              {
-                "t": "p",
-                "x": "Figma plans to support the open source tool Pi, but has chosen not to fully open its systems to every external connection. Field explained that the more data is exposed through MCP, the higher the chance of abuse, so the company must stay cautious."
-              },
-              {
-                "t": "p",
-                "x": "Repost from Hacks.gr; original reporting by TechCrunch (October 20, 2026)."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Figma, MCP 파트너\n20곳 늘리며 의문 제기",
-          "body": "Figma가 MCP는 불완전하다면서도 Notion 등 파트너 20곳을 더했다.",
-          "mini_headline": "Figma, MCP 파트너 20곳 추가",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fhacks.gr%2Fwp-content%2Fuploads%2F2026%2F10%2Fgettyimages-1233645802.webp"
-              },
-              {
-                "t": "p",
-                "x": "Figma 공동 창업자 Dylan Field가 Model Context Protocol(MCP)을 두고 우려를 내놨다. 표준이 완벽하지 않은 데다 대형 AI 연구소 쪽에 유리하다는 것이다."
-              },
-              {
-                "t": "p",
-                "x": "Figma는 인도(India)에서 처음 연 Config 콘퍼런스에서 Notion, ClickUp, Linear 등 MCP를 쓸 새 파트너 20곳을 발표했다. 회사는 도입을 밀어붙이지만 Field는 MCP가 \"개선할 여지가 아주 많다\"며 \"프런티어 연구소에 더 유리하다\"고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "Field는 MCP를 만든 Anthropic에도 날을 세웠다. 직접 홍보하는 프로토콜로 정작 자기 리소스는 왜 공개하지 않느냐는 지적이다."
-              },
-              {
-                "t": "p",
-                "x": "Figma는 오픈소스 도구 Pi를 지원할 계획이지만 모든 외부 연결에 시스템을 활짝 열지는 않는다. Field는 MCP로 드러나는 데이터가 많을수록 악용될 여지도 커지니 그만큼 조심해야 한다고 했다."
-              },
-              {
-                "t": "p",
-                "x": "Hacks.gr가 다시 실은 기사로, 원 보도는 TechCrunch(October 20, 2026)다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "FigmaがMCP提携20社\nプロトコルには疑問も",
-          "body": "FigmaはMCPを不完全としつつ、Notionなど提携先を20社追加した。",
-          "mini_headline": "Figma、MCP提携先を20社追加",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fhacks.gr%2Fwp-content%2Fuploads%2F2026%2F10%2Fgettyimages-1233645802.webp"
-              },
-              {
-                "t": "p",
-                "x": "Figmaの共同創業者Dylan Fieldは、Model Context Protocol(MCP)について、標準として完璧ではなく大手AIラボに有利だと懸念を示した。"
-              },
-              {
-                "t": "p",
-                "x": "Figmaはインド(India)で初めて開いたConfigカンファレンスで、Notion、ClickUp、LinearなどMCPを利用する新たなパートナー20社を発表した。導入を進める一方で、FieldはMCPには「改善の余地が大いにある」とし、「フロンティアラボにより有利だ」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "FieldはMCPを生み出したAnthropicも批判し、自ら推進するプロトコルを通じてなぜ自社のリソースを提供しないのかと問うた。"
-              },
-              {
-                "t": "p",
-                "x": "Figmaはオープンソースツールの Pi をサポートする予定だが、すべての外部接続にシステムを完全に開放することは見送った。FieldはMCPを通じて公開されるデータが増えるほど悪用の可能性も高まるため、慎重であるべきだと説明した。"
-              },
-              {
-                "t": "p",
-                "x": "Hacks.grからの転載。元記事はTechCrunch(October 20, 2026)。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Figma新增20家伙伴\n却质疑MCP协议",
-          "body": "Figma新增Notion等20家MCP伙伴，Dylan Field却称MCP不完美。",
-          "mini_headline": "Figma新增20家MCP伙伴",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fhacks.gr%2Fwp-content%2Fuploads%2F2026%2F10%2Fgettyimages-1233645802.webp"
-              },
-              {
-                "t": "p",
-                "x": "Figma联合创始人Dylan Field对Model Context Protocol（MCP）表达担忧，认为这一标准并不完美，而且偏向大型AI实验室。"
-              },
-              {
-                "t": "p",
-                "x": "Figma在印度（India）举办首届Config大会，宣布新增20家将使用MCP的合作伙伴，包括Notion、ClickUp和Linear。在公司推进采用的同时，Field表示MCP“还有大量改进空间”，并且“更有利于前沿实验室”。"
-              },
-              {
-                "t": "p",
-                "x": "Field还批评了创建MCP的Anthropic，质问它为何不通过自己推广的协议开放自家资源。"
-              },
-              {
-                "t": "p",
-                "x": "Figma计划支持开源工具Pi，但选择不向所有外部连接完全开放系统。Field解释说，通过MCP暴露的数据越多，被滥用的可能性就越高，因此公司必须保持谨慎。"
-              },
-              {
-                "t": "p",
-                "x": "转载自Hacks.gr；原始报道来自TechCrunch（October 20, 2026）。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Figma suma 20 socios de MCP\npese a dudar del protocolo",
-          "body": "En Config India, Figma sumó 20 socios de MCP, entre ellos Notion y Linear, aunque Dylan Field llamó imperfecto a MCP.",
-          "mini_headline": "Figma suma 20 socios de MCP",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fhacks.gr%2Fwp-content%2Fuploads%2F2026%2F10%2Fgettyimages-1233645802.webp"
-              },
-              {
-                "t": "p",
-                "x": "El cofundador de Figma, Dylan Field, expresó reservas sobre el Model Context Protocol (MCP): sostiene que el estándar no es perfecto y favorece a los grandes laboratorios de AI."
-              },
-              {
-                "t": "p",
-                "x": "En su primera conferencia Config en India, Figma anunció 20 nuevos socios que usarán MCP, entre ellos Notion, ClickUp y Linear. Aunque la empresa avanza con esta adopción, Field afirmó que MCP \"tiene muchísimo margen de mejora\" y que \"favorece más a los laboratorios de frontera\"."
-              },
-              {
-                "t": "p",
-                "x": "Field también criticó a Anthropic, la empresa que creó MCP, y preguntó por qué no ofrece sus propios recursos a través del protocolo que promueve."
-              },
-              {
-                "t": "p",
-                "x": "Figma prevé dar soporte a la herramienta de código abierto Pi, pero decidió no abrir del todo sus sistemas a cualquier conexión externa. Field explicó que cuantos más datos se exponen mediante MCP, mayor es la probabilidad de abuso, por lo que la empresa debe actuar con cautela."
-              },
-              {
-                "t": "p",
-                "x": "Republicado de Hacks.gr; información original de TechCrunch (October 20, 2026)."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Figma, MCP 파트너\n20곳 늘리며 의문 제기",
-          "body": "Figma가 MCP는 불완전하다면서도 Notion 등 파트너 20곳을 더했다.",
-          "mini_headline": "Figma, MCP 파트너 20곳 추가",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fhacks.gr%2Fwp-content%2Fuploads%2F2026%2F10%2Fgettyimages-1233645802.webp"
-              },
-              {
-                "t": "p",
-                "x": "Figma 공동 창업자 Dylan Field가 Model Context Protocol(MCP)에 우려를 나타냈다. 이 표준이 완벽하지 않고 대형 AI 연구소에 유리하다는 주장이다."
-              },
-              {
-                "t": "p",
-                "x": "Figma는 인도(India)에서 처음 연 Config 콘퍼런스에서 Notion, ClickUp, Linear 등 MCP를 쓸 새 파트너 20곳을 발표했다. 회사는 도입을 밀고 나가고 있지만, Field는 MCP가 \"개선할 여지가 아주 많다\"며 \"프런티어 연구소에 더 유리하다\"고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "Field는 MCP를 만든 Anthropic도 비판했다. 자사가 홍보하는 프로토콜로 왜 자기 리소스는 공개하지 않느냐는 것이다."
-              },
-              {
-                "t": "p",
-                "x": "Figma는 오픈소스 도구 Pi를 지원할 계획이지만, 모든 외부 연결에 시스템을 완전히 열지는 않기로 했다. Field는 MCP로 노출되는 데이터가 많을수록 악용될 가능성도 커지므로 신중해야 한다고 설명했다."
-              },
-              {
-                "t": "p",
-                "x": "Hacks.gr 재게재 기사이며, 원 보도는 TechCrunch(October 20, 2026)다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "FigmaがMCP提携20社\nプロトコルには疑問も",
-          "body": "FigmaはMCPを不完全としつつ、Notionなど提携先を20社追加した。",
-          "mini_headline": "Figma、MCP提携先を20社追加",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fhacks.gr%2Fwp-content%2Fuploads%2F2026%2F10%2Fgettyimages-1233645802.webp"
-              },
-              {
-                "t": "p",
-                "x": "Figmaの共同創業者Dylan Fieldは、Model Context Protocol(MCP)について、標準として完璧ではなく大手AIラボに有利だと懸念を示した。"
-              },
-              {
-                "t": "p",
-                "x": "Figmaはインド(India)で初めて開いたConfigカンファレンスで、Notion、ClickUp、LinearなどMCPを利用する新たなパートナー20社を発表した。導入を進める一方で、FieldはMCPには「改善の余地が大いにある」とし、「フロンティアラボにより有利だ」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "FieldはMCPを生み出したAnthropicも批判し、自ら推進するプロトコルを通じてなぜ自社のリソースを提供しないのかと問うた。"
-              },
-              {
-                "t": "p",
-                "x": "Figmaはオープンソースツールの Pi をサポートする予定だが、すべての外部接続にシステムを完全に開放することは見送った。FieldはMCPを通じて公開されるデータが増えるほど悪用の可能性も高まるため、慎重であるべきだと説明した。"
-              },
-              {
-                "t": "p",
-                "x": "Hacks.grからの転載。元記事はTechCrunch(October 20, 2026)。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Figma新增20家伙伴\n却质疑MCP协议",
-          "body": "Figma新增Notion等20家MCP伙伴，Dylan Field却称MCP不完美。",
-          "mini_headline": "Figma新增20家MCP伙伴",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fhacks.gr%2Fwp-content%2Fuploads%2F2026%2F10%2Fgettyimages-1233645802.webp"
-              },
-              {
-                "t": "p",
-                "x": "Figma联合创始人Dylan Field对Model Context Protocol（MCP）表达担忧，认为这一标准并不完美，而且偏向大型AI实验室。"
-              },
-              {
-                "t": "p",
-                "x": "Figma在印度（India）举办首届Config大会，宣布新增20家将使用MCP的合作伙伴，包括Notion、ClickUp和Linear。在公司推进采用的同时，Field表示MCP“还有大量改进空间”，并且“更有利于前沿实验室”。"
-              },
-              {
-                "t": "p",
-                "x": "Field还批评了创建MCP的Anthropic，质问它为何不通过自己推广的协议开放自家资源。"
-              },
-              {
-                "t": "p",
-                "x": "Figma计划支持开源工具Pi，但选择不向所有外部连接完全开放系统。Field解释说，通过MCP暴露的数据越多，被滥用的可能性就越高，因此公司必须保持谨慎。"
-              },
-              {
-                "t": "p",
-                "x": "转载自Hacks.gr；原始报道来自TechCrunch（October 20, 2026）。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Figma suma 20 socios de MCP\npese a dudar del protocolo",
-          "body": "En Config India, Figma sumó 20 socios de MCP, entre ellos Notion y Linear, aunque Dylan Field llamó imperfecto a MCP.",
-          "mini_headline": "Figma suma 20 socios de MCP",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fhacks.gr%2Fwp-content%2Fuploads%2F2026%2F10%2Fgettyimages-1233645802.webp"
-              },
-              {
-                "t": "p",
-                "x": "El cofundador de Figma, Dylan Field, expresó reservas sobre el Model Context Protocol (MCP): sostiene que el estándar no es perfecto y favorece a los grandes laboratorios de AI."
-              },
-              {
-                "t": "p",
-                "x": "En su primera conferencia Config en India, Figma anunció 20 nuevos socios que usarán MCP, entre ellos Notion, ClickUp y Linear. Aunque la empresa avanza con esta adopción, Field afirmó que MCP \"tiene muchísimo margen de mejora\" y que \"favorece más a los laboratorios de frontera\"."
-              },
-              {
-                "t": "p",
-                "x": "Field también criticó a Anthropic, la empresa que creó MCP, y preguntó por qué no ofrece sus propios recursos a través del protocolo que promueve."
-              },
-              {
-                "t": "p",
-                "x": "Figma prevé dar soporte a la herramienta de código abierto Pi, pero decidió no abrir del todo sus sistemas a cualquier conexión externa. Field explicó que cuantos más datos se exponen mediante MCP, mayor es la probabilidad de abuso, por lo que la empresa debe actuar con cautela."
-              },
-              {
-                "t": "p",
-                "x": "Republicado de Hacks.gr; información original de TechCrunch (October 20, 2026)."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "design-nvidia-gtc-berlin",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Autodesk 물리 AI\nDassault도 차 설계",
-      "body": "Autodesk가 NVIDIA 물리 AI를 Alias용 NavPack에 넣었다.",
-      "mini_headline": "차 설계에 들어온 물리 AI",
-      "tool": "Text-to-CAD",
-      "source": "NVIDIA Blog",
-      "url": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/European-Leaders-Industrial-Manufacturing-2.jpg"
-          },
-          {
-            "t": "p",
-            "x": "NVIDIA는 GTC Berlin에서 유럽(Europe) 산업계 선두 기업들이 엔지니어링과 제조 전반에 자사 CUDA-X·Omniverse 라이브러리와 Cosmos·Nemotron 오픈 모델을 쓴다고 밝혔다. 공장 에이전트를 만드는 Factory Operations Blueprint(FOX)는 얼리 액세스에 들어갔고 Siemens는 FOX 에이전트를 Intelligence Center X에 통합하는 중이다."
-          },
-          {
-            "t": "p",
-            "x": "설계 분야에서는 CUDA-X가 시뮬레이션을 빠르게 돌려 엔지니어가 실물 프로토타입을 만들기 전에 대안을 살펴본다. NVIDIA는 cuDSS도 정식 출시했다. Autodesk는 NVIDIA PhysicsNeMo와 Warp를 Autodesk Alias에 통합된 NavPack에 들여왔다. Bentley 같은 곳의 디자이너는 시뮬레이션으로 학습한 AI로 차량 성능을 예측하고 설계를 더 빠르게 반복한다."
-          },
-          {
-            "t": "p",
-            "x": "자동차 제조사들은 Dassault Systèmes의 Nemotron-powered LEO & AURA Virtual Companions로 CATIA·SIMULIA AI 에이전트를 조율해 차량 문을 빠르게 설계하고 가상으로 시험한다. Leonardo는 Neural Concept와 AI-driven 항공기를, PhysicsX는 GB1과 요트를 설계한다."
-          },
-          {
-            "t": "p",
-            "x": "Audi, Schaeffler, Wandelbots는 Omniverse와 Isaac 디지털 트윈으로 생산 라인과 로봇을 먼저 시험한 뒤 공장 현장을 바꾼다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Autodesk and Dassault bring\nphysics AI to car design",
-          "body": "Autodesk put NVIDIA physics AI into NavPack for Alias to aid designers like Bentley's, as CATIA agents design car doors.",
-          "mini_headline": "Physics AI enters car design",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/European-Leaders-Industrial-Manufacturing-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "At GTC Berlin, NVIDIA said Europe's industrial leaders are using its CUDA-X and Omniverse libraries and Cosmos and Nemotron open models across engineering and manufacturing. Its Factory Operations Blueprint (FOX) is now in early access for building factory agents; Siemens is integrating FOX agents into Intelligence Center X."
-              },
-              {
-                "t": "p",
-                "x": "In design, CUDA-X speeds up simulation so engineers can explore alternatives before physical prototypes, and NVIDIA released cuDSS for general availability. Autodesk brings NVIDIA PhysicsNeMo and Warp into NavPack, integrated with Autodesk Alias, to help designers like those at Bentley predict vehicle performance and iterate faster using simulation-trained AI."
-              },
-              {
-                "t": "p",
-                "x": "Car makers use Dassault Systèmes' Nemotron-powered LEO & AURA Virtual Companions to orchestrate CATIA and SIMULIA AI agents that rapidly design and virtually test vehicle doors. Leonardo works with Neural Concept on AI-driven aircraft design, and PhysicsX with GB1 on yacht design."
-              },
-              {
-                "t": "p",
-                "x": "Audi, Schaeffler and Wandelbots use Omniverse and Isaac digital twins to test production lines and robots before changing the factory floor."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Autodesk 물리 AI\nDassault도 차 설계",
-          "body": "Autodesk가 NVIDIA 물리 AI를 Alias용 NavPack에 넣었다.",
-          "mini_headline": "차 설계에 들어온 물리 AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/European-Leaders-Industrial-Manufacturing-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "NVIDIA는 GTC Berlin에서 유럽(Europe) 산업계 선두 기업들이 엔지니어링과 제조 전반에 자사 CUDA-X·Omniverse 라이브러리와 Cosmos·Nemotron 오픈 모델을 쓴다고 밝혔다. 공장 에이전트를 만드는 Factory Operations Blueprint(FOX)는 얼리 액세스에 들어갔고 Siemens는 FOX 에이전트를 Intelligence Center X에 통합하는 중이다."
-              },
-              {
-                "t": "p",
-                "x": "설계 분야에서는 CUDA-X가 시뮬레이션을 빠르게 돌려 엔지니어가 실물 프로토타입을 만들기 전에 대안을 살펴본다. NVIDIA는 cuDSS도 정식 출시했다. Autodesk는 NVIDIA PhysicsNeMo와 Warp를 Autodesk Alias에 통합된 NavPack에 들여왔다. Bentley 같은 곳의 디자이너는 시뮬레이션으로 학습한 AI로 차량 성능을 예측하고 설계를 더 빠르게 반복한다."
-              },
-              {
-                "t": "p",
-                "x": "자동차 제조사들은 Dassault Systèmes의 Nemotron-powered LEO & AURA Virtual Companions로 CATIA·SIMULIA AI 에이전트를 조율해 차량 문을 빠르게 설계하고 가상으로 시험한다. Leonardo는 Neural Concept와 AI-driven 항공기를, PhysicsX는 GB1과 요트를 설계한다."
-              },
-              {
-                "t": "p",
-                "x": "Audi, Schaeffler, Wandelbots는 Omniverse와 Isaac 디지털 트윈으로 생산 라인과 로봇을 먼저 시험한 뒤 공장 현장을 바꾼다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Autodeskの物理AI\nDassaultも車設計へ",
-          "body": "AutodeskはNVIDIAの物理AIをAlias向けNavPackに統合した。",
-          "mini_headline": "車の設計に物理AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/European-Leaders-Industrial-Manufacturing-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "NVIDIAはGTC Berlinで、欧州(Europe)の産業リーダーがエンジニアリングと製造の全般で同社のCUDA-XとOmniverseのライブラリ、CosmosとNemotronのオープンモデルを使っていると述べた。工場エージェントを構築するFactory Operations Blueprint(FOX)はアーリーアクセスを開始し、SiemensはFOXエージェントをIntelligence Center Xに統合している。"
-              },
-              {
-                "t": "p",
-                "x": "設計分野では、CUDA-Xがシミュレーションを高速化し、エンジニアは物理的な試作の前に代替案を検討できる。NVIDIAはcuDSSを一般提供した。AutodeskはNVIDIA PhysicsNeMoとWarpを、Autodesk Aliasと統合されたNavPackに組み込み、Bentleyなどのデザイナーがシミュレーションで学習したAIで車両性能を予測し、より速く反復できるよう支援する。"
-              },
-              {
-                "t": "p",
-                "x": "自動車メーカーは、Dassault SystèmesのNemotron-powered LEO & AURA Virtual Companionsを使ってCATIAとSIMULIAのAIエージェントを統括し、車のドアを素早く設計して仮想的に試験している。LeonardoはNeural ConceptとAI-drivenの航空機設計に取り組み、PhysicsXはGB1とヨット設計に取り組む。"
-              },
-              {
-                "t": "p",
-                "x": "Audi、Schaeffler、WandelbotsはOmniverseとIsaacのデジタルツインを使い、工場のフロアを変更する前に生産ラインとロボットを検証している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Autodesk引入物理AI\nDassault共推汽车设计",
-          "body": "Autodesk将NVIDIA物理AI引入NavPack，CATIA智能体设计车门。",
-          "mini_headline": "物理AI进入汽车设计",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/European-Leaders-Industrial-Manufacturing-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "NVIDIA在GTC Berlin上表示，欧洲（Europe）的工业领军企业正在工程和制造各环节使用其CUDA-X和Omniverse库，以及Cosmos和Nemotron开放模型。用于构建工厂智能体的Factory Operations Blueprint（FOX）现已开放抢先体验；Siemens正将FOX智能体集成到Intelligence Center X中。"
-              },
-              {
-                "t": "p",
-                "x": "在设计环节，CUDA-X加快仿真速度，让工程师在制作实体原型前就能探索替代方案；NVIDIA还正式发布了cuDSS。Autodesk将NVIDIA PhysicsNeMo和Warp引入与Autodesk Alias集成的NavPack，帮助Bentley等公司的设计师借助经仿真训练的AI预测车辆性能、加快迭代。"
-              },
-              {
-                "t": "p",
-                "x": "汽车制造商使用Dassault Systèmes的Nemotron-powered LEO & AURA Virtual Companions编排CATIA和SIMULIA AI智能体，快速设计车门并进行虚拟测试。Leonardo与Neural Concept合作开展AI-driven飞机设计，PhysicsX则与GB1合作设计游艇。"
-              },
-              {
-                "t": "p",
-                "x": "Audi、Schaeffler和Wandelbots借助Omniverse和Isaac数字孪生，在改动工厂车间之前测试生产线和机器人。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Autodesk y Dassault llevan\nla AI física al diseño de autos",
-          "body": "Autodesk llevó la AI física de NVIDIA a NavPack para Alias, mientras agentes de CATIA diseñan puertas de autos.",
-          "mini_headline": "La AI física llega al diseño de autos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/European-Leaders-Industrial-Manufacturing-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "En GTC Berlin, NVIDIA afirmó que los líderes industriales de Europa usan sus bibliotecas CUDA-X y Omniverse y sus modelos abiertos Cosmos y Nemotron en ingeniería y fabricación. Su Factory Operations Blueprint (FOX) ya está en acceso anticipado para crear agentes de fábrica; Siemens está integrando agentes FOX en Intelligence Center X."
-              },
-              {
-                "t": "p",
-                "x": "En diseño, CUDA-X acelera la simulación para que los ingenieros exploren alternativas antes de los prototipos físicos, y NVIDIA lanzó cuDSS en disponibilidad general. Autodesk incorpora NVIDIA PhysicsNeMo y Warp a NavPack, integrado con Autodesk Alias, para ayudar a diseñadores como los de Bentley a predecir el rendimiento del vehículo e iterar más rápido con AI entrenada mediante simulación."
-              },
-              {
-                "t": "p",
-                "x": "Los fabricantes de autos usan los Nemotron-powered LEO & AURA Virtual Companions de Dassault Systèmes para orquestar agentes de AI de CATIA y SIMULIA que diseñan y prueban virtualmente puertas de vehículos con rapidez. Leonardo trabaja con Neural Concept en diseño de aeronaves AI-driven, y PhysicsX con GB1 en diseño de yates."
-              },
-              {
-                "t": "p",
-                "x": "Audi, Schaeffler y Wandelbots usan gemelos digitales de Omniverse e Isaac para probar líneas de producción y robots antes de modificar la planta."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Autodesk 물리 AI\nDassault도 차 설계",
-          "body": "Autodesk가 NVIDIA 물리 AI를 Alias용 NavPack에 넣었다.",
-          "mini_headline": "차 설계에 들어온 물리 AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/European-Leaders-Industrial-Manufacturing-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "NVIDIA는 GTC Berlin에서 유럽(Europe) 산업계 선두 기업들이 엔지니어링과 제조 전반에 자사의 CUDA-X·Omniverse 라이브러리와 Cosmos·Nemotron 오픈 모델을 쓰고 있다고 밝혔다. 공장 에이전트를 만드는 Factory Operations Blueprint(FOX)는 얼리 액세스에 들어갔고, Siemens는 FOX 에이전트를 Intelligence Center X에 통합하고 있다."
-              },
-              {
-                "t": "p",
-                "x": "설계 분야에서는 CUDA-X가 시뮬레이션 속도를 높여 엔지니어가 실물 프로토타입 전에 대안을 탐색할 수 있게 하며, NVIDIA는 cuDSS를 정식 출시했다. Autodesk는 NVIDIA PhysicsNeMo와 Warp를 Autodesk Alias와 통합된 NavPack에 들여와, Bentley 같은 곳의 디자이너가 시뮬레이션으로 학습한 AI로 차량 성능을 예측하고 더 빠르게 반복하도록 돕는다."
-              },
-              {
-                "t": "p",
-                "x": "자동차 제조사들은 Dassault Systèmes의 Nemotron-powered LEO & AURA Virtual Companions로 CATIA·SIMULIA AI 에이전트를 조율해 차량 문을 빠르게 설계하고 가상으로 시험한다. Leonardo는 Neural Concept와 함께 AI-driven 항공기 설계를, PhysicsX는 GB1과 함께 요트 설계를 진행한다."
-              },
-              {
-                "t": "p",
-                "x": "Audi, Schaeffler, Wandelbots는 Omniverse와 Isaac 디지털 트윈으로 생산 라인과 로봇을 먼저 시험한 뒤 공장 현장을 바꾼다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Autodeskの物理AI\nDassaultも車設計へ",
-          "body": "AutodeskはNVIDIAの物理AIをAlias向けNavPackに統合した。",
-          "mini_headline": "車の設計に物理AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/European-Leaders-Industrial-Manufacturing-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "NVIDIAはGTC Berlinで、欧州(Europe)の産業リーダーがエンジニアリングと製造の全般で同社のCUDA-XとOmniverseのライブラリ、CosmosとNemotronのオープンモデルを使っていると述べた。工場エージェントを構築するFactory Operations Blueprint(FOX)はアーリーアクセスを開始し、SiemensはFOXエージェントをIntelligence Center Xに統合している。"
-              },
-              {
-                "t": "p",
-                "x": "設計分野では、CUDA-Xがシミュレーションを高速化し、エンジニアは物理的な試作の前に代替案を検討できる。NVIDIAはcuDSSを一般提供した。AutodeskはNVIDIA PhysicsNeMoとWarpを、Autodesk Aliasと統合されたNavPackに組み込み、Bentleyなどのデザイナーがシミュレーションで学習したAIで車両性能を予測し、より速く反復できるよう支援する。"
-              },
-              {
-                "t": "p",
-                "x": "自動車メーカーは、Dassault SystèmesのNemotron-powered LEO & AURA Virtual Companionsを使ってCATIAとSIMULIAのAIエージェントを統括し、車のドアを素早く設計して仮想的に試験している。LeonardoはNeural ConceptとAI-drivenの航空機設計に取り組み、PhysicsXはGB1とヨット設計に取り組む。"
-              },
-              {
-                "t": "p",
-                "x": "Audi、Schaeffler、WandelbotsはOmniverseとIsaacのデジタルツインを使い、工場のフロアを変更する前に生産ラインとロボットを検証している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Autodesk引入物理AI\nDassault共推汽车设计",
-          "body": "Autodesk将NVIDIA物理AI引入NavPack，CATIA智能体设计车门。",
-          "mini_headline": "物理AI进入汽车设计",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/European-Leaders-Industrial-Manufacturing-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "NVIDIA在GTC Berlin上表示，欧洲（Europe）的工业领军企业正在工程和制造各环节使用其CUDA-X和Omniverse库，以及Cosmos和Nemotron开放模型。用于构建工厂智能体的Factory Operations Blueprint（FOX）现已开放抢先体验；Siemens正将FOX智能体集成到Intelligence Center X中。"
-              },
-              {
-                "t": "p",
-                "x": "在设计环节，CUDA-X加快仿真速度，让工程师在制作实体原型前就能探索替代方案；NVIDIA还正式发布了cuDSS。Autodesk将NVIDIA PhysicsNeMo和Warp引入与Autodesk Alias集成的NavPack，帮助Bentley等公司的设计师借助经仿真训练的AI预测车辆性能、加快迭代。"
-              },
-              {
-                "t": "p",
-                "x": "汽车制造商使用Dassault Systèmes的Nemotron-powered LEO & AURA Virtual Companions编排CATIA和SIMULIA AI智能体，快速设计车门并进行虚拟测试。Leonardo与Neural Concept合作开展AI-driven飞机设计，PhysicsX则与GB1合作设计游艇。"
-              },
-              {
-                "t": "p",
-                "x": "Audi、Schaeffler和Wandelbots借助Omniverse和Isaac数字孪生，在改动工厂车间之前测试生产线和机器人。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Autodesk y Dassault llevan\nla AI física al diseño de autos",
-          "body": "Autodesk llevó la AI física de NVIDIA a NavPack para Alias, mientras agentes de CATIA diseñan puertas de autos.",
-          "mini_headline": "La AI física llega al diseño de autos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/European-Leaders-Industrial-Manufacturing-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "En GTC Berlin, NVIDIA afirmó que los líderes industriales de Europa usan sus bibliotecas CUDA-X y Omniverse y sus modelos abiertos Cosmos y Nemotron en ingeniería y fabricación. Su Factory Operations Blueprint (FOX) ya está en acceso anticipado para crear agentes de fábrica; Siemens está integrando agentes FOX en Intelligence Center X."
-              },
-              {
-                "t": "p",
-                "x": "En diseño, CUDA-X acelera la simulación para que los ingenieros exploren alternativas antes de los prototipos físicos, y NVIDIA lanzó cuDSS en disponibilidad general. Autodesk incorpora NVIDIA PhysicsNeMo y Warp a NavPack, integrado con Autodesk Alias, para ayudar a diseñadores como los de Bentley a predecir el rendimiento del vehículo e iterar más rápido con AI entrenada mediante simulación."
-              },
-              {
-                "t": "p",
-                "x": "Los fabricantes de autos usan los Nemotron-powered LEO & AURA Virtual Companions de Dassault Systèmes para orquestar agentes de AI de CATIA y SIMULIA que diseñan y prueban virtualmente puertas de vehículos con rapidez. Leonardo trabaja con Neural Concept en diseño de aeronaves AI-driven, y PhysicsX con GB1 en diseño de yates."
-              },
-              {
-                "t": "p",
-                "x": "Audi, Schaeffler y Wandelbots usan gemelos digitales de Omniverse e Isaac para probar líneas de producción y robots antes de modificar la planta."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "design-windows-designers-code",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Windows 11에선\n디자이너도 AI로 코딩",
-      "body": "Diego Baca는 Windows 11 디자이너가 AI로 코드를 고친다고 했다.",
-      "mini_headline": "Windows 디자이너, 코드를 내놓다",
+      "headline": "Canva 첫 이미지 모델\n디자인부터 계획한다",
+      "body": "Canva Craft는 디자인부터 짠 뒤 최대 2K 해상도로 그린다.",
+      "mini_headline": "Canva Craft는 그리기 전에 계획한다",
       "tool": "AI Workflow",
-      "source": "Windows Latest",
-      "url": "https://www.windowslatest.com/2026/10/20/even-designers-are-now-using-ai-to-code-windows-11-and-microsoft-says-were-only-getting-started/",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
       "accent": "#ff5a4d",
       "motif": "frame",
       "full": {
@@ -683,385 +19,405 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Microsoft-confirms-designers-are-using-AI-to-fix-Windows-11.jpg"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+            "cap": "이미지: Canva"
           },
           {
             "t": "p",
-            "x": "Microsoft 제품 디자인 부사장(Vice President of Product Design) Diego Baca는 Windows 11의 들쭉날쭉한 디자인을 정리하려고 이제 디자이너들이 AI의 도움을 받아 코드 수정에 손을 보탠다고 밝혔다. Lockergnome 창업자 Chris Pirillo와 X에서 나눈 대화에서 나온 말이다."
+            "x": "Canva가 OpenAI, Microsoft, Google의 모델과 정면으로 맞붙는 이미지 생성 모델을 내놓으며 AI 쪽으로 한 걸음 더 들어갔다. 이름은 Canva Craft다. 이미지를 만들기 전에 디자인부터 계획하는 2단계 구조로 “더 높은 정밀도, 일관성, 제어력”을 제공한다."
           },
           {
             "t": "p",
-            "x": "\"AI는 이미 우리 디자인팀의 속도를 크게 끌어올렸습니다. 디자이너가 완성도와 일관성, 품질을 높이는 코드 수정에 직접 기여하는 모습까지 보고 있습니다. 흥미로운 진전이고, 이제 막 시작했을 뿐입니다.\""
-          },
-          {
-            "t": "p",
-            "x": "Baca는 어떤 AI 도구를 쓰는지, 무엇을 고쳤는지, 코드를 AI가 얼마나 쓰는지는 밝히지 않았다. 일관성을 언제 갖출지 일정도 없이 \"진행 중인 작업(an active workstream)\"이라고만 했다."
+            "x": "Canva Craft는 최대 2K 해상도에 30가지가 넘는 화면비로 이미지를 만든다. 소셜 미디어 게시물과 마케팅 콘텐츠는 물론 사실적인 장면, 디지털 아트, 환경 이미지까지 겨냥해 설계됐다. Canva는 2단계 시스템 덕분에 글자가 읽혀야 하고 사물 배치가 정확해야 하는 복잡한 이미지도 더 정확하게 그린다고 설명한다."
           },
           {
             "t": "img",
-            "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Windows-11s-new-native-Search-UI.jpg",
-            "cap": "Windows 11의 새 네이티브 Search UI"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/canva-craft-2.jpg?quality=90&strip=all&w=1200",
+            "cap": "Canva Craft로 생성한 이미지. 이미지: Canva"
           },
           {
             "t": "p",
-            "x": "Microsoft는 Windows 11 일부를 WinUI 3로 다시 짓는 중이다. Insider에서 테스트하는 새 Search, 뜨기까지 걸리는 시간 중앙값이 94ms인 새 Run 대화상자, 25% 더 빨리 열리는 Photos Editor가 그렇다. 옛 Mouse Properties 대화상자 같은 구형 화면은 아직 그대로다."
+            "x": "Canva는 소셜 미디어 게시물, 프레젠테이션, 인포그래픽, 메뉴 등 자사 콘텐츠 라이브러리의 “사람이 만든 템플릿 수백만 개”로 Craft를 학습시켰다고 밝혔다. Design Arena 리더보드에서는 현재 OpenAI의 GPT-Image-2.5 Sunburst, GPT-Image-2.5 Flare, GPT-Image-2에 이어 4위다."
+          },
+          {
+            "t": "img",
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/canva-craft-3.jpg?quality=90&strip=all&w=1200",
+            "cap": "Canva Craft로 생성한 이미지. 이미지: Canva"
           },
           {
             "t": "p",
-            "x": "디자이너는 보통 목업을 엔지니어에게 넘기고 기다린다. AI로 간격을 직접 고칠 수 있다면 주고받는 수고가 크게 준다."
+            "x": "Canva는 AI 에이전트가 개방형 Model Context Protocol로 Craft에 연결할 수 있게 할 계획이고, 더 효율적인 Craft-fast와 Craft-ultrafast 모델도 내놓는다. Craft는 지금 Dream Lab에서 전 세계 모든 사용자가 쓸 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Windows 11 designers now\ncontribute code fixes with AI",
-          "body": "Microsoft's Diego Baca says Windows 11 designers now contribute code fixes with AI as Search, Run and Photos go native.",
-          "mini_headline": "Windows designers ship code",
+          "headline": "Canva's first AI image model\nplans the design first",
+          "body": "Canva's Craft uses a two-stage architecture that plans a design before generating an image, at up to 2K resolution.",
+          "mini_headline": "Canva's Craft plans\nbefore it draws",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Microsoft-confirms-designers-are-using-AI-to-fix-Windows-11.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+                "cap": "Image: Canva"
               },
               {
                 "t": "p",
-                "x": "Diego Baca, Microsoft's Vice President of Product Design, says designers are now contributing code fixes with AI's help to clean up Windows 11's design inconsistencies. He made the comment in an X exchange with Lockergnome founder Chris Pirillo."
+                "x": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for “greater precision, consistency and control.”"
               },
               {
                 "t": "p",
-                "x": "\"AI has already helped our design team accelerate significantly. We're even seeing designers contribute directly to code fixes that improve craft, consistency, and quality. That's exciting progress, and we're only getting started.\""
-              },
-              {
-                "t": "p",
-                "x": "Baca didn't name the AI tools, the fixes, or how much of the code AI writes, and gave no timeline for consistency, calling it \"an active workstream.\""
+                "x": "Canva Craft can generate images at up to 2K resolution and in more than 30 aspect ratios. Beyond social media posts and marketing content, it’s also supposed to create realistic scenes, digital art and environmental imagery. The two-stage system lets it more accurately generate complex images that require legible text and precise object placement, according to Canva."
               },
               {
                 "t": "img",
-                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Windows-11s-new-native-Search-UI.jpg",
-                "cap": "Windows 11’s new native Search UI"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/canva-craft-2.jpg?quality=90&strip=all&w=1200",
+                "cap": "An image generated by Canva Craft. Image: Canva"
               },
               {
                 "t": "p",
-                "x": "Microsoft is rebuilding parts of Windows 11 in WinUI 3: a new Search in Insider testing, a modern Run dialog with a 94ms median time-to-show, and a Photos Editor that loads 25% faster. Legacy corners like the old Mouse Properties dialog remain."
-              },
-              {
-                "t": "p",
-                "x": "Designers usually hand mockups to engineers and wait; one who can make a spacing fix with AI avoids a lot of back and forth."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Windows 11の設計者\nAIでコード修正に貢献",
-          "body": "Diego BacaはWindows 11のデザイナーがAIでコードを直すと述べた。",
-          "mini_headline": "Windowsのデザイナーがコードへ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Microsoft-confirms-designers-are-using-AI-to-fix-Windows-11.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Microsoftのプロダクトデザイン担当バイスプレジデント(Vice President of Product Design)、Diego Baca氏によると、Windows 11のデザインの不統一を整えるため、デザイナーがAIの助けを借りてコード修正に貢献しているという。Lockergnome創業者Chris Pirillo氏とのXでのやり取りで語った。"
-              },
-              {
-                "t": "p",
-                "x": "「AIはすでに当社のデザインチームを大きく加速させている。デザイナーが完成度、一貫性、品質を高めるコード修正に直接貢献する場面さえ見られる。わくわくする進歩であり、まだ始まったばかりだ」"
-              },
-              {
-                "t": "p",
-                "x": "Baca氏は使っているAIツールや修正内容、AIがコードをどれだけ書いているかを明かさず、一貫性が整う時期も示さなかった。「進行中の取り組み」だとしている。"
+                "x": "Canva says it trained Craft on “millions of human-made templates” from its content library, including social media posts, presentations, infographics, and menus. The model is currently ranked fourth on Design Arena’s leaderboard, behind OpenAI’s GPT-Image-2.5 Sunburst, GPT-Image-2.5 Flare, and GPT-Image-2."
               },
               {
                 "t": "img",
-                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Windows-11s-new-native-Search-UI.jpg",
-                "cap": "Windows 11の新しいネイティブSearch UI"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/canva-craft-3.jpg?quality=90&strip=all&w=1200",
+                "cap": "An image generated by Canva Craft. Image: Canva"
               },
               {
                 "t": "p",
-                "x": "MicrosoftはWindows 11の一部をWinUI 3で作り直している。Insiderでテスト中の新しいSearch、表示までの中央値が94msのモダンなRunダイアログ、読み込みが25%速いPhotos Editorなどだ。古いMouse Propertiesダイアログのようなレガシーな部分は残っている。"
-              },
-              {
-                "t": "p",
-                "x": "デザイナーは通常、モックアップをエンジニアに渡して待つ。AIで余白の修正を自分でできるデザイナーなら、多くのやり取りを省ける。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Windows 11设计师\n借AI贡献代码修复",
-          "body": "Microsoft的Diego Baca称Windows 11设计师已借AI贡献代码修复。",
-          "mini_headline": "Windows设计师上手写代码",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Microsoft-confirms-designers-are-using-AI-to-fix-Windows-11.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Microsoft产品设计副总裁（Vice President of Product Design）Diego Baca表示，为清理Windows 11的设计不一致问题，设计师如今正借助AI贡献代码修复。他是在X上与Lockergnome创始人Chris Pirillo交流时说这番话的。"
-              },
-              {
-                "t": "p",
-                "x": "“AI已经帮助我们的设计团队大幅提速。我们甚至看到设计师直接参与代码修复，提升工艺、一致性和质量。这是令人振奋的进展，而我们才刚刚开始。”"
-              },
-              {
-                "t": "p",
-                "x": "Baca没有说明使用了哪些AI工具、修复了什么，以及AI写了多少代码，也没有给出实现一致性的时间表，只称这是“一项正在进行的工作”。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Windows-11s-new-native-Search-UI.jpg",
-                "cap": "Windows 11全新的原生Search UI"
-              },
-              {
-                "t": "p",
-                "x": "Microsoft正在用WinUI 3重建Windows 11的部分组件：正在Insider中测试的新版Search、显示时间中位数为94ms的新版Run对话框，以及加载速度快25%的Photos Editor。旧版Mouse Properties对话框等遗留角落依然存在。"
-              },
-              {
-                "t": "p",
-                "x": "设计师通常把设计稿交给工程师后等待；能借助AI自己修正间距的设计师，可以省去大量来回沟通。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Diseñadores de Windows 11\nya corrigen código con AI",
-          "body": "Según Diego Baca, de Microsoft, diseñadores de Windows 11 corrigen código con AI y Search, Run y Photos pasan a nativo.",
-          "mini_headline": "Diseñadores de Windows que programan",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Microsoft-confirms-designers-are-using-AI-to-fix-Windows-11.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Diego Baca, vicepresidente de Diseño de Producto de Microsoft (Vice President of Product Design), afirma que los diseñadores ya contribuyen con correcciones de código, con ayuda de la AI, para depurar las incoherencias de diseño de Windows 11. Lo dijo en un intercambio en X con Chris Pirillo, fundador de Lockergnome."
-              },
-              {
-                "t": "p",
-                "x": "\"La AI ya ha ayudado a nuestro equipo de diseño a acelerar de forma notable. Incluso vemos a diseñadores contribuir directamente con correcciones de código que mejoran el oficio, la coherencia y la calidad. Es un avance emocionante, y apenas estamos empezando.\""
-              },
-              {
-                "t": "p",
-                "x": "Baca no precisó qué herramientas de AI usan, qué correcciones se hicieron ni cuánto código escribe la AI, y no dio un plazo para la coherencia: lo calificó de \"un frente de trabajo activo\"."
-              },
-              {
-                "t": "img",
-                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Windows-11s-new-native-Search-UI.jpg",
-                "cap": "La nueva Search UI nativa de Windows 11"
-              },
-              {
-                "t": "p",
-                "x": "Microsoft está reconstruyendo partes de Windows 11 en WinUI 3: un nuevo Search en pruebas en Insider, un cuadro de diálogo Run moderno con una mediana de 94ms hasta mostrarse y un Photos Editor que carga un 25% más rápido. Siguen quedando rincones heredados, como el antiguo cuadro de diálogo Mouse Properties."
-              },
-              {
-                "t": "p",
-                "x": "Los diseñadores suelen entregar maquetas a los ingenieros y esperar; quien puede corregir un espaciado con AI se ahorra muchas idas y vueltas."
+                "x": "Canva plans to let AI agents plug into Craft through the open Model Context Protocol, and will roll out more efficient Craft-fast and Craft-ultrafast models. Craft is available now to all users globally via Dream Lab."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Windows 11에선\n디자이너도 AI로 코딩",
-          "body": "Diego Baca는 Windows 11 디자이너가 AI로 코드를 고친다고 했다.",
-          "mini_headline": "Windows 디자이너, 코드를 내놓다",
+          "headline": "Canva 첫 이미지 모델\n디자인부터 계획한다",
+          "body": "Canva Craft는 디자인부터 짠 뒤 최대 2K 해상도로 그린다.",
+          "mini_headline": "Canva Craft는 그리기 전에 계획한다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Microsoft-confirms-designers-are-using-AI-to-fix-Windows-11.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+                "cap": "이미지: Canva"
               },
               {
                 "t": "p",
-                "x": "Microsoft 제품 디자인 부사장(Vice President of Product Design) Diego Baca는 Windows 11의 들쭉날쭉한 디자인을 정리하려고 이제 디자이너들이 AI의 도움을 받아 코드 수정에 손을 보탠다고 밝혔다. Lockergnome 창업자 Chris Pirillo와 X에서 나눈 대화에서 나온 말이다."
+                "x": "Canva가 OpenAI, Microsoft, Google의 모델과 정면으로 맞붙는 이미지 생성 모델을 내놓으며 AI 쪽으로 한 걸음 더 들어갔다. 이름은 Canva Craft다. 이미지를 만들기 전에 디자인부터 계획하는 2단계 구조로 “더 높은 정밀도, 일관성, 제어력”을 제공한다."
               },
               {
                 "t": "p",
-                "x": "\"AI는 이미 우리 디자인팀의 속도를 크게 끌어올렸습니다. 디자이너가 완성도와 일관성, 품질을 높이는 코드 수정에 직접 기여하는 모습까지 보고 있습니다. 흥미로운 진전이고, 이제 막 시작했을 뿐입니다.\""
-              },
-              {
-                "t": "p",
-                "x": "Baca는 어떤 AI 도구를 쓰는지, 무엇을 고쳤는지, 코드를 AI가 얼마나 쓰는지는 밝히지 않았다. 일관성을 언제 갖출지 일정도 없이 \"진행 중인 작업(an active workstream)\"이라고만 했다."
+                "x": "Canva Craft는 최대 2K 해상도에 30가지가 넘는 화면비로 이미지를 만든다. 소셜 미디어 게시물과 마케팅 콘텐츠는 물론 사실적인 장면, 디지털 아트, 환경 이미지까지 겨냥해 설계됐다. Canva는 2단계 시스템 덕분에 글자가 읽혀야 하고 사물 배치가 정확해야 하는 복잡한 이미지도 더 정확하게 그린다고 설명한다."
               },
               {
                 "t": "img",
-                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Windows-11s-new-native-Search-UI.jpg",
-                "cap": "Windows 11의 새 네이티브 Search UI"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/canva-craft-2.jpg?quality=90&strip=all&w=1200",
+                "cap": "Canva Craft로 생성한 이미지. 이미지: Canva"
               },
               {
                 "t": "p",
-                "x": "Microsoft는 Windows 11 일부를 WinUI 3로 다시 짓는 중이다. Insider에서 테스트하는 새 Search, 뜨기까지 걸리는 시간 중앙값이 94ms인 새 Run 대화상자, 25% 더 빨리 열리는 Photos Editor가 그렇다. 옛 Mouse Properties 대화상자 같은 구형 화면은 아직 그대로다."
+                "x": "Canva는 소셜 미디어 게시물, 프레젠테이션, 인포그래픽, 메뉴 등 자사 콘텐츠 라이브러리의 “사람이 만든 템플릿 수백만 개”로 Craft를 학습시켰다고 밝혔다. Design Arena 리더보드에서는 현재 OpenAI의 GPT-Image-2.5 Sunburst, GPT-Image-2.5 Flare, GPT-Image-2에 이어 4위다."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/canva-craft-3.jpg?quality=90&strip=all&w=1200",
+                "cap": "Canva Craft로 생성한 이미지. 이미지: Canva"
               },
               {
                 "t": "p",
-                "x": "디자이너는 보통 목업을 엔지니어에게 넘기고 기다린다. AI로 간격을 직접 고칠 수 있다면 주고받는 수고가 크게 준다."
+                "x": "Canva는 AI 에이전트가 개방형 Model Context Protocol로 Craft에 연결할 수 있게 할 계획이고, 더 효율적인 Craft-fast와 Craft-ultrafast 모델도 내놓는다. Craft는 지금 Dream Lab에서 전 세계 모든 사용자가 쓸 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Canva初のAI画像モデル\nデザインから先に組む",
+          "body": "Canva Craftは画像生成の前にデザインを計画し、最大2K 解像度で出力する。",
+          "mini_headline": "Canva Craftは描く前に計画する",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+                "cap": "画像：Canva"
+              },
+              {
+                "t": "p",
+                "x": "CanvaはOpenAI、Microsoft、Googleのモデルと真っ向から競合する画像生成モデルを投入し、AIへの傾斜をさらに深めている。Canva Craftと名付けられたこのモデルは、画像を生成する前にデザインを計画する2段階のアーキテクチャを採用し、「より高い精度、一貫性、コントロール」を実現するという。"
+              },
+              {
+                "t": "p",
+                "x": "Canva Craftは最大2K 解像度、30以上のアスペクト比で画像を生成できる。ソーシャルメディア投稿やマーケティングコンテンツに加え、リアルな情景、デジタルアート、環境イメージの作成も想定している。Canvaによれば、2段階のシステムにより、判読できる文字や正確な物体配置が求められる複雑な画像もより正確に生成できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/canva-craft-2.jpg?quality=90&strip=all&w=1200",
+                "cap": "Canva Craftで生成した画像。画像：Canva"
+              },
+              {
+                "t": "p",
+                "x": "Canvaによると、Craftは同社のコンテンツライブラリにある「人間が作った数百万のテンプレート」で学習した。ソーシャルメディア投稿、プレゼンテーション、インフォグラフィック、メニューなどが含まれる。このモデルは現在、Design ArenaのリーダーボードでOpenAIのGPT-Image-2.5 Sunburst、GPT-Image-2.5 Flare、GPT-Image-2に次ぐ4位につけている。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/canva-craft-3.jpg?quality=90&strip=all&w=1200",
+                "cap": "Canva Craftで生成した画像。画像：Canva"
+              },
+              {
+                "t": "p",
+                "x": "Canvaは、オープンなModel Context Protocolを通じてAIエージェントがCraftに接続できるようにする計画で、より効率的なCraft-fastとCraft-ultrafastモデルも展開する。CraftはDream Labを通じて、現在すべてのユーザーが世界中で利用できる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Canva首款AI图像模型\n先规划设计再出图",
+          "body": "Canva Craft采用两阶段架构，先规划设计再生成图像，最高支持2K 分辨率。",
+          "mini_headline": "Canva Craft先规划后作画",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+                "cap": "图片：Canva"
+              },
+              {
+                "t": "p",
+                "x": "Canva推出一款图像生成模型，与OpenAI、Microsoft和Google的同类模型直接竞争，在AI领域更进一步。这款名为Canva Craft的模型采用两阶段架构，能在生成图像之前先规划设计，从而实现“更高的精度、一致性和控制力”。"
+              },
+              {
+                "t": "p",
+                "x": "Canva Craft最高可生成2K 分辨率的图像，支持30多种宽高比。除社交媒体帖子和营销内容外，它还可用于生成写实场景、数字艺术和环境图像。Canva表示，两阶段系统让它能更准确地生成需要清晰可读文字和精确物体摆放的复杂图像。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/canva-craft-2.jpg?quality=90&strip=all&w=1200",
+                "cap": "Canva Craft生成的图像。图片：Canva"
+              },
+              {
+                "t": "p",
+                "x": "Canva表示，Craft使用其内容库中“数百万个人工制作的模板”进行训练，包括社交媒体帖子、演示文稿、信息图和菜单。该模型目前在Design Arena排行榜上位列第四，仅次于OpenAI的GPT-Image-2.5 Sunburst、GPT-Image-2.5 Flare和GPT-Image-2。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/canva-craft-3.jpg?quality=90&strip=all&w=1200",
+                "cap": "Canva Craft生成的图像。图片：Canva"
+              },
+              {
+                "t": "p",
+                "x": "Canva计划通过开放的Model Context Protocol让AI智能体接入Craft，并将推出更高效的Craft-fast和Craft-ultrafast模型。目前全球所有用户均可通过Dream Lab使用Craft。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El primer modelo de imagen IA\nde Canva planifica el diseño",
+          "body": "Craft, de Canva, planifica el diseño en dos etapas antes de generar la imagen, con hasta 2K de resolución.",
+          "mini_headline": "Craft de Canva planifica antes de dibujar",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+                "cap": "Imagen: Canva"
+              },
+              {
+                "t": "p",
+                "x": "Canva se adentra aún más en la IA con el lanzamiento de un modelo de generación de imágenes que compite directamente con los de OpenAI, Microsoft y Google. El modelo, llamado Canva Craft, usa una arquitectura de dos etapas que le permite planificar un diseño antes de generar una imagen, lo que ofrece “mayor precisión, coherencia y control”."
+              },
+              {
+                "t": "p",
+                "x": "Canva Craft puede generar imágenes de hasta 2K de resolución y en más de 30 relaciones de aspecto. Además de publicaciones para redes sociales y contenido de marketing, también está pensado para crear escenas realistas, arte digital e imágenes de entornos. Según Canva, el sistema de dos etapas le permite generar con más precisión imágenes complejas que requieren texto legible y una colocación exacta de los objetos."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/canva-craft-2.jpg?quality=90&strip=all&w=1200",
+                "cap": "Una imagen generada por Canva Craft. Imagen: Canva"
+              },
+              {
+                "t": "p",
+                "x": "Canva afirma que entrenó Craft con “millones de plantillas hechas por personas” de su biblioteca de contenidos, como publicaciones para redes sociales, presentaciones, infografías y menús. El modelo ocupa actualmente el cuarto puesto en la clasificación de Design Arena, por detrás de GPT-Image-2.5 Sunburst, GPT-Image-2.5 Flare y GPT-Image-2, de OpenAI."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/canva-craft-3.jpg?quality=90&strip=all&w=1200",
+                "cap": "Una imagen generada por Canva Craft. Imagen: Canva"
+              },
+              {
+                "t": "p",
+                "x": "Canva prevé que los agentes de IA puedan conectarse a Craft mediante el protocolo abierto Model Context Protocol, y lanzará los modelos Craft-fast y Craft-ultrafast, más eficientes. Craft ya está disponible para todos los usuarios del mundo a través de Dream Lab."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ja": {
-          "headline": "Windows 11の設計者\nAIでコード修正に貢献",
-          "body": "Diego BacaはWindows 11のデザイナーがAIでコードを直すと述べた。",
-          "mini_headline": "Windowsのデザイナーがコードへ",
+        "ko": {
+          "headline": "Canva 첫 이미지 모델\n디자인을 먼저 계획한다",
+          "body": "Canva Craft는 디자인을 먼저 계획한 뒤 최대 2K 해상도로 그린다.",
+          "mini_headline": "Canva Craft, 그리기 전에 계획한다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Microsoft-confirms-designers-are-using-AI-to-fix-Windows-11.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+                "cap": "이미지: Canva"
               },
               {
                 "t": "p",
-                "x": "Microsoftのプロダクトデザイン担当バイスプレジデント(Vice President of Product Design)、Diego Baca氏によると、Windows 11のデザインの不統一を整えるため、デザイナーがAIの助けを借りてコード修正に貢献しているという。Lockergnome創業者Chris Pirillo氏とのXでのやり取りで語った。"
+                "x": "Canva가 OpenAI, Microsoft, Google의 모델과 정면으로 경쟁하는 이미지 생성 모델을 내놓으며 AI에 한층 깊이 뛰어들었다. Canva Craft라는 이 모델은 이미지를 생성하기 전에 디자인을 먼저 계획하는 2단계 구조를 써서 “더 높은 정밀도, 일관성, 제어력”을 제공한다."
               },
               {
                 "t": "p",
-                "x": "「AIはすでに当社のデザインチームを大きく加速させている。デザイナーが完成度、一貫性、品質を高めるコード修正に直接貢献する場面さえ見られる。わくわくする進歩であり、まだ始まったばかりだ」"
-              },
-              {
-                "t": "p",
-                "x": "Baca氏は使っているAIツールや修正内容、AIがコードをどれだけ書いているかを明かさず、一貫性が整う時期も示さなかった。「進行中の取り組み」だとしている。"
+                "x": "Canva Craft는 최대 2K 해상도, 30가지가 넘는 화면비로 이미지를 생성할 수 있다. 소셜 미디어 게시물과 마케팅 콘텐츠뿐 아니라 사실적인 장면, 디지털 아트, 환경 이미지도 만들도록 설계됐다. Canva에 따르면 2단계 시스템 덕분에 읽을 수 있는 텍스트와 정확한 사물 배치가 필요한 복잡한 이미지도 더 정확하게 생성한다."
               },
               {
                 "t": "img",
-                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Windows-11s-new-native-Search-UI.jpg",
-                "cap": "Windows 11の新しいネイティブSearch UI"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/canva-craft-2.jpg?quality=90&strip=all&w=1200",
+                "cap": "Canva Craft로 생성한 이미지. 이미지: Canva"
               },
               {
                 "t": "p",
-                "x": "MicrosoftはWindows 11の一部をWinUI 3で作り直している。Insiderでテスト中の新しいSearch、表示までの中央値が94msのモダンなRunダイアログ、読み込みが25%速いPhotos Editorなどだ。古いMouse Propertiesダイアログのようなレガシーな部分は残っている。"
+                "x": "Canva는 소셜 미디어 게시물, 프레젠테이션, 인포그래픽, 메뉴 등 자사 콘텐츠 라이브러리의 “사람이 만든 템플릿 수백만 개”로 Craft를 학습시켰다고 밝혔다. 이 모델은 현재 Design Arena 리더보드에서 OpenAI의 GPT-Image-2.5 Sunburst, GPT-Image-2.5 Flare, GPT-Image-2에 이어 4위에 올라 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/canva-craft-3.jpg?quality=90&strip=all&w=1200",
+                "cap": "Canva Craft로 생성한 이미지. 이미지: Canva"
               },
               {
                 "t": "p",
-                "x": "デザイナーは通常、モックアップをエンジニアに渡して待つ。AIで余白の修正を自分でできるデザイナーなら、多くのやり取りを省ける。"
+                "x": "Canva는 개방형 Model Context Protocol을 통해 AI 에이전트가 Craft에 연결할 수 있게 할 계획이며, 더 효율적인 Craft-fast와 Craft-ultrafast 모델도 내놓는다. Craft는 지금 Dream Lab을 통해 전 세계 모든 사용자가 쓸 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Canva初のAI画像モデル\nデザインから先に組む",
+          "body": "Canva Craftは画像生成の前にデザインを計画し、最大2K 解像度で出力する。",
+          "mini_headline": "Canva Craftは描く前に計画する",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+                "cap": "画像：Canva"
+              },
+              {
+                "t": "p",
+                "x": "CanvaはOpenAI、Microsoft、Googleのモデルと真っ向から競合する画像生成モデルを投入し、AIへの傾斜をさらに深めている。Canva Craftと名付けられたこのモデルは、画像を生成する前にデザインを計画する2段階のアーキテクチャを採用し、「より高い精度、一貫性、コントロール」を実現するという。"
+              },
+              {
+                "t": "p",
+                "x": "Canva Craftは最大2K 解像度、30以上のアスペクト比で画像を生成できる。ソーシャルメディア投稿やマーケティングコンテンツに加え、リアルな情景、デジタルアート、環境イメージの作成も想定している。Canvaによれば、2段階のシステムにより、判読できる文字や正確な物体配置が求められる複雑な画像もより正確に生成できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/canva-craft-2.jpg?quality=90&strip=all&w=1200",
+                "cap": "Canva Craftで生成した画像。画像：Canva"
+              },
+              {
+                "t": "p",
+                "x": "Canvaによると、Craftは同社のコンテンツライブラリにある「人間が作った数百万のテンプレート」で学習した。ソーシャルメディア投稿、プレゼンテーション、インフォグラフィック、メニューなどが含まれる。このモデルは現在、Design ArenaのリーダーボードでOpenAIのGPT-Image-2.5 Sunburst、GPT-Image-2.5 Flare、GPT-Image-2に次ぐ4位につけている。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/canva-craft-3.jpg?quality=90&strip=all&w=1200",
+                "cap": "Canva Craftで生成した画像。画像：Canva"
+              },
+              {
+                "t": "p",
+                "x": "Canvaは、オープンなModel Context Protocolを通じてAIエージェントがCraftに接続できるようにする計画で、より効率的なCraft-fastとCraft-ultrafastモデルも展開する。CraftはDream Labを通じて、現在すべてのユーザーが世界中で利用できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Windows 11设计师\n借AI贡献代码修复",
-          "body": "Microsoft的Diego Baca称Windows 11设计师已借AI贡献代码修复。",
-          "mini_headline": "Windows设计师上手写代码",
+          "headline": "Canva首款AI图像模型\n先规划设计再出图",
+          "body": "Canva Craft采用两阶段架构，先规划设计再生成图像，最高支持2K 分辨率。",
+          "mini_headline": "Canva Craft先规划后作画",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Microsoft-confirms-designers-are-using-AI-to-fix-Windows-11.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+                "cap": "图片：Canva"
               },
               {
                 "t": "p",
-                "x": "Microsoft产品设计副总裁（Vice President of Product Design）Diego Baca表示，为清理Windows 11的设计不一致问题，设计师如今正借助AI贡献代码修复。他是在X上与Lockergnome创始人Chris Pirillo交流时说这番话的。"
+                "x": "Canva推出一款图像生成模型，与OpenAI、Microsoft和Google的同类模型直接竞争，在AI领域更进一步。这款名为Canva Craft的模型采用两阶段架构，能在生成图像之前先规划设计，从而实现“更高的精度、一致性和控制力”。"
               },
               {
                 "t": "p",
-                "x": "“AI已经帮助我们的设计团队大幅提速。我们甚至看到设计师直接参与代码修复，提升工艺、一致性和质量。这是令人振奋的进展，而我们才刚刚开始。”"
-              },
-              {
-                "t": "p",
-                "x": "Baca没有说明使用了哪些AI工具、修复了什么，以及AI写了多少代码，也没有给出实现一致性的时间表，只称这是“一项正在进行的工作”。"
+                "x": "Canva Craft最高可生成2K 分辨率的图像，支持30多种宽高比。除社交媒体帖子和营销内容外，它还可用于生成写实场景、数字艺术和环境图像。Canva表示，两阶段系统让它能更准确地生成需要清晰可读文字和精确物体摆放的复杂图像。"
               },
               {
                 "t": "img",
-                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Windows-11s-new-native-Search-UI.jpg",
-                "cap": "Windows 11全新的原生Search UI"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/canva-craft-2.jpg?quality=90&strip=all&w=1200",
+                "cap": "Canva Craft生成的图像。图片：Canva"
               },
               {
                 "t": "p",
-                "x": "Microsoft正在用WinUI 3重建Windows 11的部分组件：正在Insider中测试的新版Search、显示时间中位数为94ms的新版Run对话框，以及加载速度快25%的Photos Editor。旧版Mouse Properties对话框等遗留角落依然存在。"
+                "x": "Canva表示，Craft使用其内容库中“数百万个人工制作的模板”进行训练，包括社交媒体帖子、演示文稿、信息图和菜单。该模型目前在Design Arena排行榜上位列第四，仅次于OpenAI的GPT-Image-2.5 Sunburst、GPT-Image-2.5 Flare和GPT-Image-2。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/canva-craft-3.jpg?quality=90&strip=all&w=1200",
+                "cap": "Canva Craft生成的图像。图片：Canva"
               },
               {
                 "t": "p",
-                "x": "设计师通常把设计稿交给工程师后等待；能借助AI自己修正间距的设计师，可以省去大量来回沟通。"
+                "x": "Canva计划通过开放的Model Context Protocol让AI智能体接入Craft，并将推出更高效的Craft-fast和Craft-ultrafast模型。目前全球所有用户均可通过Dream Lab使用Craft。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Diseñadores de Windows 11\nya corrigen código con AI",
-          "body": "Según Diego Baca, de Microsoft, diseñadores de Windows 11 corrigen código con AI y Search, Run y Photos pasan a nativo.",
-          "mini_headline": "Diseñadores de Windows que programan",
+          "headline": "El primer modelo de imagen IA\nde Canva planifica el diseño",
+          "body": "Craft, de Canva, planifica el diseño en dos etapas antes de generar la imagen, con hasta 2K de resolución.",
+          "mini_headline": "Craft de Canva planifica antes de dibujar",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Microsoft-confirms-designers-are-using-AI-to-fix-Windows-11.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+                "cap": "Imagen: Canva"
               },
               {
                 "t": "p",
-                "x": "Diego Baca, vicepresidente de Diseño de Producto de Microsoft (Vice President of Product Design), afirma que los diseñadores ya contribuyen con correcciones de código, con ayuda de la AI, para depurar las incoherencias de diseño de Windows 11. Lo dijo en un intercambio en X con Chris Pirillo, fundador de Lockergnome."
+                "x": "Canva se adentra aún más en la IA con el lanzamiento de un modelo de generación de imágenes que compite directamente con los de OpenAI, Microsoft y Google. El modelo, llamado Canva Craft, usa una arquitectura de dos etapas que le permite planificar un diseño antes de generar una imagen, lo que ofrece “mayor precisión, coherencia y control”."
               },
               {
                 "t": "p",
-                "x": "\"La AI ya ha ayudado a nuestro equipo de diseño a acelerar de forma notable. Incluso vemos a diseñadores contribuir directamente con correcciones de código que mejoran el oficio, la coherencia y la calidad. Es un avance emocionante, y apenas estamos empezando.\""
-              },
-              {
-                "t": "p",
-                "x": "Baca no precisó qué herramientas de AI usan, qué correcciones se hicieron ni cuánto código escribe la AI, y no dio un plazo para la coherencia: lo calificó de \"un frente de trabajo activo\"."
+                "x": "Canva Craft puede generar imágenes de hasta 2K de resolución y en más de 30 relaciones de aspecto. Además de publicaciones para redes sociales y contenido de marketing, también está pensado para crear escenas realistas, arte digital e imágenes de entornos. Según Canva, el sistema de dos etapas le permite generar con más precisión imágenes complejas que requieren texto legible y una colocación exacta de los objetos."
               },
               {
                 "t": "img",
-                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Windows-11s-new-native-Search-UI.jpg",
-                "cap": "La nueva Search UI nativa de Windows 11"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/canva-craft-2.jpg?quality=90&strip=all&w=1200",
+                "cap": "Una imagen generada por Canva Craft. Imagen: Canva"
               },
               {
                 "t": "p",
-                "x": "Microsoft está reconstruyendo partes de Windows 11 en WinUI 3: un nuevo Search en pruebas en Insider, un cuadro de diálogo Run moderno con una mediana de 94ms hasta mostrarse y un Photos Editor que carga un 25% más rápido. Siguen quedando rincones heredados, como el antiguo cuadro de diálogo Mouse Properties."
-              },
-              {
-                "t": "p",
-                "x": "Los diseñadores suelen entregar maquetas a los ingenieros y esperar; quien puede corregir un espaciado con AI se ahorra muchas idas y vueltas."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Windows 11에선\n디자이너도 AI로 코딩",
-          "body": "Diego Baca는 Windows 11 디자이너가 AI로 코드를 고친다고 했다.",
-          "mini_headline": "Windows 디자이너, 코드를 내놓다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Microsoft-confirms-designers-are-using-AI-to-fix-Windows-11.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Microsoft 제품 디자인 부사장(Vice President of Product Design) Diego Baca는 Windows 11의 디자인 불일치를 정리하기 위해 이제 디자이너들이 AI의 도움으로 코드 수정에 기여하고 있다고 밝혔다. 그는 Lockergnome 창업자 Chris Pirillo와 X에서 주고받은 대화에서 이렇게 말했다."
-              },
-              {
-                "t": "p",
-                "x": "\"AI는 이미 우리 디자인팀의 속도를 크게 끌어올렸습니다. 디자이너가 완성도와 일관성, 품질을 높이는 코드 수정에 직접 기여하는 모습까지 보고 있습니다. 흥미로운 진전이고, 이제 막 시작했을 뿐입니다.\""
-              },
-              {
-                "t": "p",
-                "x": "Baca는 어떤 AI 도구를 쓰는지, 무엇을 고쳤는지, 코드의 얼마만큼을 AI가 쓰는지 밝히지 않았다. 일관성을 언제 갖출지 일정도 내놓지 않은 채 \"진행 중인 작업(an active workstream)\"이라고만 했다."
+                "x": "Canva afirma que entrenó Craft con “millones de plantillas hechas por personas” de su biblioteca de contenidos, como publicaciones para redes sociales, presentaciones, infografías y menús. El modelo ocupa actualmente el cuarto puesto en la clasificación de Design Arena, por detrás de GPT-Image-2.5 Sunburst, GPT-Image-2.5 Flare y GPT-Image-2, de OpenAI."
               },
               {
                 "t": "img",
-                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Windows-11s-new-native-Search-UI.jpg",
-                "cap": "Windows 11의 새 네이티브 Search UI"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/canva-craft-3.jpg?quality=90&strip=all&w=1200",
+                "cap": "Una imagen generada por Canva Craft. Imagen: Canva"
               },
               {
                 "t": "p",
-                "x": "Microsoft는 Windows 11의 일부를 WinUI 3로 다시 만들고 있다. Insider 테스트 중인 새 Search, 표시까지 걸리는 시간 중앙값이 94ms인 새 Run 대화상자, 25% 더 빨리 열리는 Photos Editor가 그 예다. 예전 Mouse Properties 대화상자 같은 구형 화면은 아직 남아 있다."
-              },
-              {
-                "t": "p",
-                "x": "디자이너는 보통 목업을 엔지니어에게 넘기고 기다린다. AI로 간격 수정을 직접 할 수 있는 디자이너라면 오가는 수고를 크게 덜 수 있다."
+                "x": "Canva prevé que los agentes de IA puedan conectarse a Craft mediante el protocolo abierto Model Context Protocol, y lanzará los modelos Craft-fast y Craft-ultrafast, más eficientes. Craft ya está disponible para todos los usuarios del mundo a través de Dream Lab."
               }
             ]
           }
@@ -1069,15 +425,417 @@
       }
     },
     {
-      "id": "design-slop-skill",
+      "id": "design-lufthansa-figma-make",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "웹페이지의 'AI 티'\n지우는 오픈 스킬",
-      "body": "Claude Code용 design-slop-skill이 AI 티를 찾아 고친다.",
-      "mini_headline": "'AI 티' 걷어내기",
+      "headline": "루프트한자 조종석 지도\nFigma Make로 제작",
+      "body": "Lufthansa Systems는 Figma Make로 조종석 지도 시제품을 짠다.",
+      "mini_headline": "Figma Make로 만든 조종석 지도",
+      "tool": "Figma",
+      "source": "Figma Blog",
+      "url": "https://www.figma.com/blog/lufthansa-figma-make/",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/25a1a68c5c527f854a2b80c859e10fbd1cc1d8c0-3840x2160.png?w=1200&q=70&fit=max&auto=format"
+          },
+          {
+            "t": "p",
+            "x": "Lufthansa Systems 팀은 조종석에 거치한 iPads에서 돌아가는 Lido의 Pilot Apps를 디자인한다. 매일 100,000명이 넘는 조종사가 쓰는 이 앱의 핵심은 동적 지도다. 그런데 실제처럼 느껴지는 시제품을 만들기가 늘 어려웠다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/c6cc11bd45b4fc2ef06eddb9f3f584179842f610-2400x1280.jpg?w=1200&q=75&fit=max&auto=format",
+            "cap": "실제로 쓰이는 Lido mPilot"
+          },
+          {
+            "t": "p",
+            "x": "리드 프로덕트 디자이너 Pank Juvekar는 “우리 앱의 지도는 동적이지만, 디자인 시제품이 늘 그랬던 것은 아니다”라고 말한다. 팀은 대개 정적 디자인과 수작업 프로토타이핑에 기댔다. 사내 해커톤 Innovation Week 동안 그는 Mapbox 기반으로 자체 개발한 웹 버전 지도를 Figma Make에 옮겨 왔다."
+          },
+          {
+            "t": "p",
+            "x": "이어 Make를 OpenSky Network에 연결해 가상 위치 반경 500해리 안의 샘플 항공기 마커를 띄우고, 아이콘에 FAA 항공기 중량 등급을 적용해 달라고 했다. “키워드 몇 개만으로 Make가 내 의도를 이해했다”는 데 그는 놀랐다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/8e5581dfdf2630f99dfd620974d45584c200733f-2400x1280.jpg?w=1200&q=75&fit=max&auto=format"
+          },
+          {
+            "t": "p",
+            "x": "팀은 SwiftUI 구현은 건드리지 않은 채 조종사들에게 여러 번 의견을 물었다. Juvekar는 “[Figma Make]는 단순한 프로토타이핑 도구가 아니라 함께 생각하는 협업 파트너에 가깝다”고 말한다. 이제 일부 Lido 프로젝트는 Make만으로 돌아간다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Lufthansa Systems prototypes\ncockpit maps in Figma Make",
+          "body": "Lufthansa Systems replaces static mockups with data-realistic cockpit map prototypes built in Figma Make.",
+          "mini_headline": "Cockpit maps\nin Figma Make",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/25a1a68c5c527f854a2b80c859e10fbd1cc1d8c0-3840x2160.png?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "At Lufthansa Systems, the team designs Lido’s Pilot Apps to run on iPads mounted in the cockpit. More than 100,000 pilots use them daily, and at the heart of the app is a dynamic map. Building prototypes that feel like the real thing has been a consistent challenge."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/c6cc11bd45b4fc2ef06eddb9f3f584179842f610-2400x1280.jpg?w=1200&q=75&fit=max&auto=format",
+                "cap": "Lido mPilot in action"
+              },
+              {
+                "t": "p",
+                "x": "“The maps in our app are dynamic, but our design prototypes didn’t always used to be,” says Lead Product Designer Pank Juvekar. The team mostly relied on static designs and manual prototyping. During an internal hackathon, Innovation Week, he brought an in-house web version of the map, built on Mapbox, into Figma Make."
+              },
+              {
+                "t": "p",
+                "x": "He then connected Make to the OpenSky Network to show sample aircraft markers within 500 nautical miles of a simulated position, and asked it to apply FAA aircraft weight classes to the icons. He was surprised that “with just a few keywords, Make understood what I was trying to do.”"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/8e5581dfdf2630f99dfd620974d45584c200733f-2400x1280.jpg?w=1200&q=75&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "The team went back to pilots again and again without touching the SwiftUI implementation. “[Figma Make] is more of a collaborative thinking partner, not just a prototyping tool,” Juvekar says. Some Lido projects are now Make-only."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "루프트한자 조종석 지도\nFigma Make로 제작",
+          "body": "Lufthansa Systems는 Figma Make로 조종석 지도 시제품을 짠다.",
+          "mini_headline": "Figma Make로 만든 조종석 지도",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/25a1a68c5c527f854a2b80c859e10fbd1cc1d8c0-3840x2160.png?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Lufthansa Systems 팀은 조종석에 거치한 iPads에서 돌아가는 Lido의 Pilot Apps를 디자인한다. 매일 100,000명이 넘는 조종사가 쓰는 이 앱의 핵심은 동적 지도다. 그런데 실제처럼 느껴지는 시제품을 만들기가 늘 어려웠다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/c6cc11bd45b4fc2ef06eddb9f3f584179842f610-2400x1280.jpg?w=1200&q=75&fit=max&auto=format",
+                "cap": "실제로 쓰이는 Lido mPilot"
+              },
+              {
+                "t": "p",
+                "x": "리드 프로덕트 디자이너 Pank Juvekar는 “우리 앱의 지도는 동적이지만, 디자인 시제품이 늘 그랬던 것은 아니다”라고 말한다. 팀은 대개 정적 디자인과 수작업 프로토타이핑에 기댔다. 사내 해커톤 Innovation Week 동안 그는 Mapbox 기반으로 자체 개발한 웹 버전 지도를 Figma Make에 옮겨 왔다."
+              },
+              {
+                "t": "p",
+                "x": "이어 Make를 OpenSky Network에 연결해 가상 위치 반경 500해리 안의 샘플 항공기 마커를 띄우고, 아이콘에 FAA 항공기 중량 등급을 적용해 달라고 했다. “키워드 몇 개만으로 Make가 내 의도를 이해했다”는 데 그는 놀랐다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/8e5581dfdf2630f99dfd620974d45584c200733f-2400x1280.jpg?w=1200&q=75&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "팀은 SwiftUI 구현은 건드리지 않은 채 조종사들에게 여러 번 의견을 물었다. Juvekar는 “[Figma Make]는 단순한 프로토타이핑 도구가 아니라 함께 생각하는 협업 파트너에 가깝다”고 말한다. 이제 일부 Lido 프로젝트는 Make만으로 돌아간다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ルフトハンザの操縦席地図\nFigma Makeで試作",
+          "body": "Lufthansa SystemsはFigma Makeで操縦席地図を試作する。",
+          "mini_headline": "Figma Makeで作る操縦席地図",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/25a1a68c5c527f854a2b80c859e10fbd1cc1d8c0-3840x2160.png?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Lufthansa Systemsのチームは、コックピットに設置したiPadsで動くLidoのPilot Appsを設計している。毎日100,000人を超えるパイロットが使い、その中核にあるのが動的な地図だ。本物のように感じられるプロトタイプを作ることは、ずっと課題だった。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/c6cc11bd45b4fc2ef06eddb9f3f584179842f610-2400x1280.jpg?w=1200&q=75&fit=max&auto=format",
+                "cap": "実際に使われるLido mPilot"
+              },
+              {
+                "t": "p",
+                "x": "「アプリの地図は動的だが、デザインのプロトタイプは以前は必ずしもそうではなかった」と、リードプロダクトデザイナーのPank Juvekarは言う。チームは主に静的なデザインと手作業のプロトタイピングに頼っていた。社内ハッカソン「Innovation Week」で、彼はMapboxで構築した社内版のWeb地図をFigma Makeに取り込んだ。"
+              },
+              {
+                "t": "p",
+                "x": "さらにMakeをOpenSky Networkに接続し、模擬位置から500海里以内のサンプル機体マーカーを表示させ、アイコンにFAAの航空機重量区分を適用するよう指示した。「いくつかのキーワードだけで、Makeは私のやりたいことを理解した」ことに彼は驚いたという。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/8e5581dfdf2630f99dfd620974d45584c200733f-2400x1280.jpg?w=1200&q=75&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "チームはSwiftUIの実装に手を付けずに、何度もパイロットのもとへ足を運んだ。「[Figma Make]は単なるプロトタイピングツールではなく、共に考える協働パートナーに近い」とJuvekarは語る。現在、一部のLidoプロジェクトはMakeだけで進めている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Lufthansa驾驶舱地图\n用Figma Make做原型",
+          "body": "Lufthansa Systems用Figma Make制作数据逼真的驾驶舱地图原型。",
+          "mini_headline": "用Figma Make做驾驶舱地图",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/25a1a68c5c527f854a2b80c859e10fbd1cc1d8c0-3840x2160.png?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "在Lufthansa Systems，团队为Lido设计运行在驾驶舱内固定iPads上的Pilot Apps。每天有超过100,000名飞行员使用这些应用，其核心是一张动态地图。打造感觉像真实产品的原型一直是个难题。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/c6cc11bd45b4fc2ef06eddb9f3f584179842f610-2400x1280.jpg?w=1200&q=75&fit=max&auto=format",
+                "cap": "使用中的Lido mPilot"
+              },
+              {
+                "t": "p",
+                "x": "“我们应用里的地图是动态的，但我们的设计原型过去并不总是如此，”首席产品设计师Pank Juvekar说。团队过去主要依赖静态设计和手工制作原型。在内部黑客松Innovation Week期间，他把一个基于Mapbox构建的内部网页版地图导入了Figma Make。"
+              },
+              {
+                "t": "p",
+                "x": "随后，他将Make接入OpenSky Network，显示模拟位置500海里范围内的示例飞机标记，并让它按FAA飞机重量等级设置图标。让他惊讶的是，“只用几个关键词，Make就明白了我想做什么。”"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/8e5581dfdf2630f99dfd620974d45584c200733f-2400x1280.jpg?w=1200&q=75&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "团队无需改动SwiftUI实现，就能一次又一次地回到飞行员那里征求意见。“[Figma Make]更像是一个协作思考的伙伴，而不只是原型工具，”Juvekar说。如今一些Lido项目已经只用Make完成。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Lufthansa Systems prototipa\nmapas de cabina en Figma Make",
+          "body": "Lufthansa Systems cambia las maquetas estáticas por prototipos de mapas de cabina con datos realistas en Figma Make.",
+          "mini_headline": "Mapas de cabina en Figma Make",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/25a1a68c5c527f854a2b80c859e10fbd1cc1d8c0-3840x2160.png?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "En Lufthansa Systems, el equipo diseña las Pilot Apps de Lido para que funcionen en iPads instalados en la cabina. Más de 100.000 pilotos las usan a diario, y en el centro de la app hay un mapa dinámico. Crear prototipos que se sientan como el producto real ha sido un reto constante."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/c6cc11bd45b4fc2ef06eddb9f3f584179842f610-2400x1280.jpg?w=1200&q=75&fit=max&auto=format",
+                "cap": "Lido mPilot en acción"
+              },
+              {
+                "t": "p",
+                "x": "“Los mapas de nuestra app son dinámicos, pero nuestros prototipos de diseño no siempre lo eran”, dice el diseñador de producto principal Pank Juvekar. El equipo dependía sobre todo de diseños estáticos y prototipado manual. Durante una hackatón interna, la Innovation Week, llevó a Figma Make una versión web propia del mapa, construida sobre Mapbox."
+              },
+              {
+                "t": "p",
+                "x": "Después conectó Make a OpenSky Network para mostrar marcadores de aeronaves de ejemplo a menos de 500 millas náuticas de una posición simulada, y le pidió aplicar a los iconos las categorías de peso de aeronaves de la FAA. Le sorprendió que “con solo unas pocas palabras clave, Make entendió lo que intentaba hacer”."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/8e5581dfdf2630f99dfd620974d45584c200733f-2400x1280.jpg?w=1200&q=75&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "El equipo volvió a consultar a los pilotos una y otra vez sin tocar la implementación en SwiftUI. “[Figma Make] es más un compañero de pensamiento colaborativo que una simple herramienta de prototipado”, dice Juvekar. Algunos proyectos de Lido ya se hacen solo con Make."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "루프트한자 조종석 지도,\nFigma Make로 제작",
+          "body": "Lufthansa Systems가 Figma Make로 조종석 지도를 시제품화한다.",
+          "mini_headline": "Figma Make로 만든 조종석 지도",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/25a1a68c5c527f854a2b80c859e10fbd1cc1d8c0-3840x2160.png?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Lufthansa Systems 팀은 조종석에 거치한 iPads에서 돌아가는 Lido의 Pilot Apps를 디자인한다. 매일 100,000명이 넘는 조종사가 이 앱을 쓰며, 앱의 핵심은 동적 지도다. 실제처럼 느껴지는 시제품을 만드는 일은 늘 어려운 과제였다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/c6cc11bd45b4fc2ef06eddb9f3f584179842f610-2400x1280.jpg?w=1200&q=75&fit=max&auto=format",
+                "cap": "실제로 쓰이는 Lido mPilot"
+              },
+              {
+                "t": "p",
+                "x": "“우리 앱의 지도는 동적이지만, 디자인 시제품이 늘 그랬던 것은 아니다”라고 리드 프로덕트 디자이너 Pank Juvekar는 말한다. 팀은 주로 정적 디자인과 수작업 프로토타이핑에 의존했다. 사내 해커톤인 Innovation Week 기간에 그는 Mapbox 기반으로 자체 개발한 웹 버전 지도를 Figma Make로 가져왔다."
+              },
+              {
+                "t": "p",
+                "x": "이어 그는 Make를 OpenSky Network에 연결해 가상 위치로부터 500해리 안의 샘플 항공기 마커를 띄우고, 아이콘에 FAA 항공기 중량 등급을 적용해 달라고 요청했다. 그는 “키워드 몇 개만으로 Make가 내 의도를 이해했다”는 점에 놀랐다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/8e5581dfdf2630f99dfd620974d45584c200733f-2400x1280.jpg?w=1200&q=75&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "팀은 SwiftUI 구현을 건드리지 않고도 조종사들에게 거듭 의견을 구했다. “[Figma Make]는 단순한 프로토타이핑 도구가 아니라 함께 생각하는 협업 파트너에 가깝다”고 Juvekar는 말한다. 일부 Lido 프로젝트는 이제 Make만으로 진행한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ルフトハンザの操縦席地図\nFigma Makeで試作",
+          "body": "Lufthansa SystemsはFigma Makeで操縦席地図を試作する。",
+          "mini_headline": "Figma Makeで作る操縦席地図",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/25a1a68c5c527f854a2b80c859e10fbd1cc1d8c0-3840x2160.png?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Lufthansa Systemsのチームは、コックピットに設置したiPadsで動くLidoのPilot Appsを設計している。毎日100,000人を超えるパイロットが使い、その中核にあるのが動的な地図だ。本物のように感じられるプロトタイプを作ることは、ずっと課題だった。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/c6cc11bd45b4fc2ef06eddb9f3f584179842f610-2400x1280.jpg?w=1200&q=75&fit=max&auto=format",
+                "cap": "実際に使われるLido mPilot"
+              },
+              {
+                "t": "p",
+                "x": "「アプリの地図は動的だが、デザインのプロトタイプは以前は必ずしもそうではなかった」と、リードプロダクトデザイナーのPank Juvekarは言う。チームは主に静的なデザインと手作業のプロトタイピングに頼っていた。社内ハッカソン「Innovation Week」で、彼はMapboxで構築した社内版のWeb地図をFigma Makeに取り込んだ。"
+              },
+              {
+                "t": "p",
+                "x": "さらにMakeをOpenSky Networkに接続し、模擬位置から500海里以内のサンプル機体マーカーを表示させ、アイコンにFAAの航空機重量区分を適用するよう指示した。「いくつかのキーワードだけで、Makeは私のやりたいことを理解した」ことに彼は驚いたという。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/8e5581dfdf2630f99dfd620974d45584c200733f-2400x1280.jpg?w=1200&q=75&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "チームはSwiftUIの実装に手を付けずに、何度もパイロットのもとへ足を運んだ。「[Figma Make]は単なるプロトタイピングツールではなく、共に考える協働パートナーに近い」とJuvekarは語る。現在、一部のLidoプロジェクトはMakeだけで進めている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Lufthansa驾驶舱地图\n用Figma Make做原型",
+          "body": "Lufthansa Systems用Figma Make制作数据逼真的驾驶舱地图原型。",
+          "mini_headline": "用Figma Make做驾驶舱地图",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/25a1a68c5c527f854a2b80c859e10fbd1cc1d8c0-3840x2160.png?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "在Lufthansa Systems，团队为Lido设计运行在驾驶舱内固定iPads上的Pilot Apps。每天有超过100,000名飞行员使用这些应用，其核心是一张动态地图。打造感觉像真实产品的原型一直是个难题。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/c6cc11bd45b4fc2ef06eddb9f3f584179842f610-2400x1280.jpg?w=1200&q=75&fit=max&auto=format",
+                "cap": "使用中的Lido mPilot"
+              },
+              {
+                "t": "p",
+                "x": "“我们应用里的地图是动态的，但我们的设计原型过去并不总是如此，”首席产品设计师Pank Juvekar说。团队过去主要依赖静态设计和手工制作原型。在内部黑客松Innovation Week期间，他把一个基于Mapbox构建的内部网页版地图导入了Figma Make。"
+              },
+              {
+                "t": "p",
+                "x": "随后，他将Make接入OpenSky Network，显示模拟位置500海里范围内的示例飞机标记，并让它按FAA飞机重量等级设置图标。让他惊讶的是，“只用几个关键词，Make就明白了我想做什么。”"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/8e5581dfdf2630f99dfd620974d45584c200733f-2400x1280.jpg?w=1200&q=75&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "团队无需改动SwiftUI实现，就能一次又一次地回到飞行员那里征求意见。“[Figma Make]更像是一个协作思考的伙伴，而不只是原型工具，”Juvekar说。如今一些Lido项目已经只用Make完成。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Lufthansa Systems prototipa\nmapas de cabina en Figma Make",
+          "body": "Lufthansa Systems cambia las maquetas estáticas por prototipos de mapas de cabina con datos realistas en Figma Make.",
+          "mini_headline": "Mapas de cabina en Figma Make",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/25a1a68c5c527f854a2b80c859e10fbd1cc1d8c0-3840x2160.png?w=1200&q=70&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "En Lufthansa Systems, el equipo diseña las Pilot Apps de Lido para que funcionen en iPads instalados en la cabina. Más de 100.000 pilotos las usan a diario, y en el centro de la app hay un mapa dinámico. Crear prototipos que se sientan como el producto real ha sido un reto constante."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/c6cc11bd45b4fc2ef06eddb9f3f584179842f610-2400x1280.jpg?w=1200&q=75&fit=max&auto=format",
+                "cap": "Lido mPilot en acción"
+              },
+              {
+                "t": "p",
+                "x": "“Los mapas de nuestra app son dinámicos, pero nuestros prototipos de diseño no siempre lo eran”, dice el diseñador de producto principal Pank Juvekar. El equipo dependía sobre todo de diseños estáticos y prototipado manual. Durante una hackatón interna, la Innovation Week, llevó a Figma Make una versión web propia del mapa, construida sobre Mapbox."
+              },
+              {
+                "t": "p",
+                "x": "Después conectó Make a OpenSky Network para mostrar marcadores de aeronaves de ejemplo a menos de 500 millas náuticas de una posición simulada, y le pidió aplicar a los iconos las categorías de peso de aeronaves de la FAA. Le sorprendió que “con solo unas pocas palabras clave, Make entendió lo que intentaba hacer”."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/8e5581dfdf2630f99dfd620974d45584c200733f-2400x1280.jpg?w=1200&q=75&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "El equipo volvió a consultar a los pilotos una y otra vez sin tocar la implementación en SwiftUI. “[Figma Make] es más un compañero de pensamiento colaborativo que una simple herramienta de prototipado”, dice Juvekar. Algunos proyectos de Lido ya se hacen solo con Make."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "design-agent-color-palette-library",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "hex 코드 지어내기를\n멈춘 코딩 에이전트",
+      "body": "PaletteGet은 WCAG 대비를 미리 잰 팔레트를 내주는 MCP 서버다.",
+      "mini_headline": "제멋대로인 hex 코드는 이제 그만",
       "tool": "Design Tokens",
       "source": "DEV Community",
-      "url": "https://dev.to/haoli/i-built-a-claude-code-skill-that-de-slops-ai-generated-web-design-42kn",
+      "url": "https://dev.to/yang7206/i-gave-my-coding-agent-a-color-palette-library-and-stopped-pasting-hex-codes-2c83",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
@@ -1085,173 +843,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fscroodb62eav32be6wq3.png"
+            "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgxpmzmr0pr4x03ohfqk8.png"
           },
           {
             "t": "p",
-            "x": "어떤 AI에든 \"랜딩 페이지 만들어 줘\"라고 하면 거대한 둥근 카드, 붉은 보라색 그라데이션 위 반투명 유리, 빛나는 네온 버튼, 라이트 모드 없는 새까만 배경, 가운데 정렬된 64px 제목, 끝없이 이어지는 단일 칼럼이 나온다. 댓글이 80+개 달린 V2EX 스레드에도 똑같은 죄목이 줄줄이 올라왔다."
+            "x": "금융 앱 팔레트를 부탁하자 Claude는 채팅 창에서는 그럴듯한 hex 코드 여섯 개를 내놓았다. 막상 UI에 올리니 기본 색 위 본문 텍스트 대비가 약 2.8:1에 그쳤다. “모델이 게을렀던 게 아니다. 자가 없을 뿐이다.” 그래서 글쓴이는 그 자를 직접 만들었다."
           },
           {
             "t": "p",
-            "x": "design-slop-skill은 이런 패턴을 결정론적으로 잡아내 사람이 다듬은 기본값으로 바꿔 주는 Claude Code 스킬이다. 표준 라이브러리만 쓰는(stdlib-only) Python 스크립트 두 개가 전부라 LLM도, 네트워크도, 의존성도 필요 없다."
+            "x": "PaletteGet은 모바일 앱, 웹, 미니 프로그램용으로 직접 고른 팔레트 약 90개를 모은 작은 사이트다. 팔레트마다 역할별 색상과 주요 색 조합의 WCAG 대비 측정값, 짧은 편집자 메모가 붙는다. MCP 서버이기도 해서 Cursor나 Claude Desktop은 물론 Streamable HTTP를 쓰는 클라이언트라면 어디서든 바로 읽어 간다. API 키도 가입도 필요 없다."
           },
           {
             "t": "p",
-            "x": "detect.py는 HTML/CSS를 훑어 규칙 id, 파일, 줄 번호, 두 언어 설명을 담은 결과를 보고하고 이를 가중해 0–100 slop 점수를 매긴다. fix.py는 거꾸로 이를 고친다. 모서리 반경을 10px로 묶고, 블러를 없애고, 글로를 누그러뜨리고, 보라색 그라데이션을 평평하게 바꾸고, light-mode 블록을 넣고, 히어로 제목을 2.25rem 왼쪽 정렬로 줄인다."
+            "x": "도구는 list_palettes, get_palette, suggest_palette, get_css_variables 네 가지로 모두 읽기 전용이다. 다크 모드 금융 팔레트를 부탁하자 에이전트는 Ink Blue Night를 제안했다. 본문 텍스트 #e8ecf4는 15.29:1로 AAA 등급이고, 기본 색 위 흰색은 3.26:1이라 큰 텍스트에만 충분하다는 설명도 붙였다. “모델이 단정하기를 멈추고 측정하기 시작한다.”"
           },
           {
             "t": "p",
-            "x": "규칙 일곱 가지(SLOP-001~SLOP-007)가 불만 목록을 다루고, 보라색은 색상(hue)으로 가려낸다. 스킬이라서 에이전트가 다 만든 뒤가 아니라 만드는 도중에 돌린다. 테마 토글과 그리드 재구성은 사람 몫으로 남겼다. MIT 라이선스에 단위 테스트 23개를 갖췄다."
+            "x": "프롬프트를 더 잘 쓰면 되지 않을까? 대비는 정해진 공식을 따르는 산술인데, LLMs는 이런 계산에 약하고 틀려도 티가 나지 않는다. 실제 문단을 올려 봐야 그제야 문제가 보인다. PaletteGet은 생성기도 디자인 시스템도 아니다. Worker 위에서 도는 읽기 전용 엔드포인트일 뿐이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "An open skill strips the\n'AI look' from web pages",
-          "body": "design-slop-skill for Claude Code flags glassmorphism, red-purple gradients and other AI tells, then rewrites them.",
-          "mini_headline": "Stripping the 'AI look'",
+          "headline": "A coding agent stops\ninventing hex codes",
+          "body": "A developer built PaletteGet, an MCP server that hands coding agents curated palettes with measured WCAG contrast.",
+          "mini_headline": "No more\nrandom hex codes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fscroodb62eav32be6wq3.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgxpmzmr0pr4x03ohfqk8.png"
               },
               {
                 "t": "p",
-                "x": "Ask any AI to \"make me a landing page\" and you get giant rounded cards, frosted glass over a red-purple gradient, a glowing neon button, a pitch-black background with no light mode, a 64px centered headline and one endless column. A V2EX thread with 80+ replies listed the same sins."
+                "x": "Asked for a finance-app palette, Claude gave six hex codes that looked right in chat. In the actual UI, body text sat on the primary color at about 2.8:1 contrast. “The model wasn’t being lazy. It has no ruler.” So the author built the ruler."
               },
               {
                 "t": "p",
-                "x": "design-slop-skill is a Claude Code skill that detects these patterns deterministically and rewrites them toward human-crafted defaults. Two stdlib-only Python scripts need no LLM, network or dependencies."
+                "x": "PaletteGet is a small site with about 90 hand-picked palettes for mobile apps, web, and mini programs. Each ships with role colors, measured WCAG contrast for the pairs that matter, and a short editor note. It is also an MCP server, so Cursor, Claude Desktop, or any client that speaks Streamable HTTP can read it directly. No API key, no sign-up."
               },
               {
                 "t": "p",
-                "x": "detect.py scans HTML/CSS and reports findings with rule id, file, line and a bilingual explanation, weighted into a 0–100 slop score. fix.py applies the inverse: radius clamped to 10px, blur dropped, glows neutralized, purple gradients flattened, a light-mode block added, hero titles tamed to 2.25rem left-aligned."
+                "x": "It exposes four read-only tools: list_palettes, get_palette, suggest_palette and get_css_variables. Asked for a dark-mode finance palette, the agent suggested Ink Blue Night: body text #e8ecf4 at 15.29:1, AAA, and noted that white on the primary measures 3.26:1, enough for large text only. “The model stops asserting and starts measuring.”"
               },
               {
                 "t": "p",
-                "x": "Seven rules (SLOP-001 to SLOP-007) cover the complaint list; purple detection is hue-based. As a skill, the agent runs it during generation rather than after. Theme toggles and grid restructuring are left to a human. MIT licensed, with 23 unit tests."
+                "x": "Why not just prompt better? Contrast is arithmetic with a specific formula, which LLMs are not good at, and the failure is silent: you only discover it when a real paragraph lands on it. It is not a generator or a design system, just a read-only endpoint on a Worker."
               }
             ]
           }
         },
         "ko": {
-          "headline": "웹페이지의 'AI 티'\n지우는 오픈 스킬",
-          "body": "Claude Code용 design-slop-skill이 AI 티를 찾아 고친다.",
-          "mini_headline": "'AI 티' 걷어내기",
+          "headline": "hex 코드 지어내기를\n멈춘 코딩 에이전트",
+          "body": "PaletteGet은 WCAG 대비를 미리 잰 팔레트를 내주는 MCP 서버다.",
+          "mini_headline": "제멋대로인 hex 코드는 이제 그만",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fscroodb62eav32be6wq3.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgxpmzmr0pr4x03ohfqk8.png"
               },
               {
                 "t": "p",
-                "x": "어떤 AI에든 \"랜딩 페이지 만들어 줘\"라고 하면 거대한 둥근 카드, 붉은 보라색 그라데이션 위 반투명 유리, 빛나는 네온 버튼, 라이트 모드 없는 새까만 배경, 가운데 정렬된 64px 제목, 끝없이 이어지는 단일 칼럼이 나온다. 댓글이 80+개 달린 V2EX 스레드에도 똑같은 죄목이 줄줄이 올라왔다."
+                "x": "금융 앱 팔레트를 부탁하자 Claude는 채팅 창에서는 그럴듯한 hex 코드 여섯 개를 내놓았다. 막상 UI에 올리니 기본 색 위 본문 텍스트 대비가 약 2.8:1에 그쳤다. “모델이 게을렀던 게 아니다. 자가 없을 뿐이다.” 그래서 글쓴이는 그 자를 직접 만들었다."
               },
               {
                 "t": "p",
-                "x": "design-slop-skill은 이런 패턴을 결정론적으로 잡아내 사람이 다듬은 기본값으로 바꿔 주는 Claude Code 스킬이다. 표준 라이브러리만 쓰는(stdlib-only) Python 스크립트 두 개가 전부라 LLM도, 네트워크도, 의존성도 필요 없다."
+                "x": "PaletteGet은 모바일 앱, 웹, 미니 프로그램용으로 직접 고른 팔레트 약 90개를 모은 작은 사이트다. 팔레트마다 역할별 색상과 주요 색 조합의 WCAG 대비 측정값, 짧은 편집자 메모가 붙는다. MCP 서버이기도 해서 Cursor나 Claude Desktop은 물론 Streamable HTTP를 쓰는 클라이언트라면 어디서든 바로 읽어 간다. API 키도 가입도 필요 없다."
               },
               {
                 "t": "p",
-                "x": "detect.py는 HTML/CSS를 훑어 규칙 id, 파일, 줄 번호, 두 언어 설명을 담은 결과를 보고하고 이를 가중해 0–100 slop 점수를 매긴다. fix.py는 거꾸로 이를 고친다. 모서리 반경을 10px로 묶고, 블러를 없애고, 글로를 누그러뜨리고, 보라색 그라데이션을 평평하게 바꾸고, light-mode 블록을 넣고, 히어로 제목을 2.25rem 왼쪽 정렬로 줄인다."
+                "x": "도구는 list_palettes, get_palette, suggest_palette, get_css_variables 네 가지로 모두 읽기 전용이다. 다크 모드 금융 팔레트를 부탁하자 에이전트는 Ink Blue Night를 제안했다. 본문 텍스트 #e8ecf4는 15.29:1로 AAA 등급이고, 기본 색 위 흰색은 3.26:1이라 큰 텍스트에만 충분하다는 설명도 붙였다. “모델이 단정하기를 멈추고 측정하기 시작한다.”"
               },
               {
                 "t": "p",
-                "x": "규칙 일곱 가지(SLOP-001~SLOP-007)가 불만 목록을 다루고, 보라색은 색상(hue)으로 가려낸다. 스킬이라서 에이전트가 다 만든 뒤가 아니라 만드는 도중에 돌린다. 테마 토글과 그리드 재구성은 사람 몫으로 남겼다. MIT 라이선스에 단위 테스트 23개를 갖췄다."
+                "x": "프롬프트를 더 잘 쓰면 되지 않을까? 대비는 정해진 공식을 따르는 산술인데, LLMs는 이런 계산에 약하고 틀려도 티가 나지 않는다. 실제 문단을 올려 봐야 그제야 문제가 보인다. PaletteGet은 생성기도 디자인 시스템도 아니다. Worker 위에서 도는 읽기 전용 엔드포인트일 뿐이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ウェブの「AIっぽさ」を\n消す公開スキル",
-          "body": "Claude Code向けdesign-slop-skillはAIっぽさを検出し修正する。",
-          "mini_headline": "「AIっぽさ」を消す",
+          "headline": "コーディングエージェントが\nhexコードを捏造しなくなる",
+          "body": "PaletteGetは、WCAGコントラスト測定済みの配色を渡すMCPサーバーだ。",
+          "mini_headline": "でたらめなhexコードはもう終わり",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fscroodb62eav32be6wq3.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgxpmzmr0pr4x03ohfqk8.png"
               },
               {
                 "t": "p",
-                "x": "どのAIに「ランディングページを作って」と頼んでも、巨大な角丸カード、赤紫のグラデーションに重ねたすりガラス、光るネオンボタン、ライトモードのない真っ黒な背景、中央揃えの64pxの見出し、延々と続く単一カラムが出てくる。80+件の返信がついたV2EXのスレッドでも、同じ罪が列挙された。"
+                "x": "金融アプリ用の配色を頼むと、Claudeはチャット上では正しく見えるhexコードを六つ返した。実際のUIでは、本文テキストがプライマリカラー上で約2.8:1のコントラストしかなかった。「モデルが怠けていたわけではない。定規を持っていないのだ」。そこで筆者は定規を作った。"
               },
               {
                 "t": "p",
-                "x": "design-slop-skillは、こうしたパターンを決定論的に検出し、人の手で整えたデフォルトに向けて書き換えるClaude Codeのスキルだ。標準ライブラリのみ(stdlib-only)の二つのPythonスクリプトで動き、LLMもネットワークも依存関係も要らない。"
+                "x": "PaletteGetは、モバイルアプリ、Web、ミニプログラム向けに厳選した約90の配色を集めた小さなサイトだ。各配色には役割別の色、重要な組み合わせについて測定したWCAGコントラスト、短い編集者メモが付く。MCPサーバーでもあるため、Cursor、Claude Desktop、あるいはStreamable HTTPに対応する任意のクライアントが直接読み込める。APIキーも登録も不要だ。"
               },
               {
                 "t": "p",
-                "x": "detect.pyはHTML/CSSを走査し、ルールid、ファイル、行と二言語の説明を添えて結果を報告し、重み付けして0–100のslopスコアを出す。fix.pyはその逆を適用する。角丸を10pxに制限し、ブラーを外し、グローを抑え、紫のグラデーションを平坦にし、light-modeブロックを加え、ヒーロー見出しを2.25remの左揃えに抑える。"
+                "x": "公開する読み取り専用ツールは四つ。list_palettes、get_palette、suggest_palette、get_css_variablesだ。ダークモードの金融向け配色を頼むと、エージェントはInk Blue Nightを提案した。本文テキスト#e8ecf4は15.29:1でAAA、プライマリ上の白は3.26:1で大きな文字にしか足りないことも指摘した。「モデルは断言するのをやめ、測定し始める」。"
               },
               {
                 "t": "p",
-                "x": "七つのルール(SLOP-001〜SLOP-007)が不満リストをカバーし、紫の検出は色相ベースだ。スキルなので、エージェントは生成後ではなく生成中に実行する。テーマ切り替えやグリッドの再構成は人に委ねる。MITライセンスで、ユニットテストは23件ある。"
+                "x": "プロンプトを工夫すれば済むのでは？ コントラストは特定の式による算術で、LLMsはこれが苦手だ。しかも失敗は静かに起こり、実際の段落を載せて初めて気づく。これは生成ツールでもデザインシステムでもなく、Worker上の読み取り専用エンドポイントにすぎない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "一款开源技能\n抹去网页的“AI感”",
-          "body": "Claude Code技能design-slop-skill识别并改写红紫渐变等AI痕迹。",
-          "mini_headline": "抹去“AI感”",
+          "headline": "编程智能体不再\n凭空编造hex色码",
+          "body": "PaletteGet是一个MCP服务器，为编程智能体提供实测WCAG对比度的精选配色。",
+          "mini_headline": "告别随意的hex色码",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fscroodb62eav32be6wq3.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgxpmzmr0pr4x03ohfqk8.png"
               },
               {
                 "t": "p",
-                "x": "无论让哪个AI“做一个落地页”，得到的都是巨大的圆角卡片、红紫渐变上的毛玻璃、发光的霓虹按钮、没有浅色模式的纯黑背景、居中的64px大标题，以及一条无尽的单栏。一个有80+条回复的V2EX帖子也列出了同样的毛病。"
+                "x": "被要求生成金融应用配色时，Claude给出了六个在聊天里看起来没问题的hex色码。但在实际UI中，正文文字放在主色上的对比度只有约2.8:1。“模型并不是在偷懒，它只是没有尺子。”于是作者造了这把尺子。"
               },
               {
                 "t": "p",
-                "x": "design-slop-skill是一款Claude Code技能，能以确定性方式检测这些模式，并按人工打磨的默认值改写。两个仅依赖标准库（stdlib-only）的Python脚本不需要LLM、网络或任何依赖。"
+                "x": "PaletteGet是一个小网站，收录约90套为移动应用、网页和小程序精心挑选的配色。每套都附有角色色、关键颜色组合的实测WCAG对比度，以及一段简短的编辑说明。它同时也是一个MCP服务器，Cursor、Claude Desktop或任何支持Streamable HTTP的客户端都能直接读取。无需API密钥，也无需注册。"
               },
               {
                 "t": "p",
-                "x": "detect.py扫描HTML/CSS，报告每条发现的规则id、文件、行号和双语说明，并加权得出0–100的slop分数。fix.py则反向处理：圆角限制在10px，去掉模糊，中和发光，压平紫色渐变，添加light-mode区块，并把主视觉标题收敛为2.25rem左对齐。"
+                "x": "它提供四个只读工具：list_palettes、get_palette、suggest_palette和get_css_variables。被要求提供深色模式金融配色时，智能体推荐了Ink Blue Night：正文文字#e8ecf4的对比度为15.29:1，达到AAA，并指出主色上的白色为3.26:1，仅够用于大号文字。“模型不再武断下结论，而是开始测量。”"
               },
               {
                 "t": "p",
-                "x": "七条规则（SLOP-001至SLOP-007）覆盖了这份吐槽清单；紫色检测基于色相。作为技能，代理会在生成过程中而非生成后运行它。主题切换和网格重构留给人来处理。采用MIT许可，附带23个单元测试。"
+                "x": "为什么不直接把提示词写得更好？对比度是有特定公式的算术，而LLMs并不擅长；而且这种失败是无声的，只有当真实段落放上去时才会发现。它不是生成器，也不是设计系统，只是运行在Worker上的一个只读端点。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una skill abierta elimina el\n'aspecto AI' de páginas web",
-          "body": "design-slop-skill para Claude Code detecta glassmorphism, degradados rojo-púrpura y otras señales de AI y las corrige.",
-          "mini_headline": "Quitar el 'aspecto AI'",
+          "headline": "Un agente de código deja\nde inventar códigos hex",
+          "body": "Un desarrollador creó PaletteGet, un servidor MCP que da a los agentes de código paletas con contraste WCAG medido.",
+          "mini_headline": "Adiós a los códigos hex al azar",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fscroodb62eav32be6wq3.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgxpmzmr0pr4x03ohfqk8.png"
               },
               {
                 "t": "p",
-                "x": "Si se le pide a cualquier AI que \"haga una landing page\", el resultado son tarjetas enormes con esquinas redondeadas, vidrio esmerilado sobre un degradado rojo-púrpura, un botón de neón brillante, un fondo negro absoluto sin modo claro, un titular centrado de 64px y una única columna interminable. Un hilo de V2EX con 80+ respuestas enumeró los mismos pecados."
+                "x": "Al pedirle una paleta para una app financiera, Claude dio seis códigos hex que parecían correctos en el chat. En la UI real, el texto del cuerpo quedaba sobre el color primario con un contraste de aproximadamente 2.8:1. “El modelo no estaba siendo perezoso. No tiene regla”. Así que el autor construyó la regla."
               },
               {
                 "t": "p",
-                "x": "design-slop-skill es una skill de Claude Code que detecta estos patrones de forma determinista y los reescribe hacia valores por defecto de factura humana. Dos scripts de Python que solo usan la biblioteca estándar (stdlib-only) no necesitan LLM, red ni dependencias."
+                "x": "PaletteGet es un sitio pequeño con unas 90 paletas seleccionadas a mano para apps móviles, web y miniprogramas. Cada una incluye colores por función, el contraste WCAG medido para las combinaciones que importan y una breve nota del editor. También es un servidor MCP, así que Cursor, Claude Desktop o cualquier cliente que hable Streamable HTTP puede leerlo directamente. Sin clave de API ni registro."
               },
               {
                 "t": "p",
-                "x": "detect.py analiza HTML/CSS e informa de cada hallazgo con id de regla, archivo, línea y una explicación bilingüe, ponderados en una puntuación slop de 0–100. fix.py aplica lo inverso: radio limitado a 10px, desenfoque eliminado, brillos neutralizados, degradados púrpura aplanados, un bloque light-mode añadido y títulos hero reducidos a 2.25rem alineados a la izquierda."
+                "x": "Expone cuatro herramientas de solo lectura: list_palettes, get_palette, suggest_palette y get_css_variables. Al pedirle una paleta financiera en modo oscuro, el agente sugirió Ink Blue Night: texto del cuerpo #e8ecf4 a 15.29:1, AAA, y señaló que el blanco sobre el primario mide 3.26:1, suficiente solo para texto grande. “El modelo deja de afirmar y empieza a medir”."
               },
               {
                 "t": "p",
-                "x": "Siete reglas (SLOP-001 a SLOP-007) cubren la lista de quejas; la detección del púrpura se basa en el tono. Al ser una skill, el agente la ejecuta durante la generación y no después. Los selectores de tema y la reestructuración de la cuadrícula quedan en manos de una persona. Licencia MIT, con 23 pruebas unitarias."
+                "x": "¿Por qué no escribir mejor el prompt? El contraste es aritmética con una fórmula concreta, algo en lo que los LLMs no son buenos, y el fallo es silencioso: solo se descubre cuando un párrafo real cae encima. No es un generador ni un sistema de diseño, solo un endpoint de solo lectura en un Worker."
               }
             ]
           }
@@ -1259,121 +1017,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "웹페이지의 'AI 티'\n지우는 오픈 스킬",
-          "body": "Claude Code용 design-slop-skill이 AI 티를 찾아 고친다.",
-          "mini_headline": "'AI 티' 걷어내기",
+          "headline": "hex 코드 지어내기를\n멈춘 코딩 에이전트",
+          "body": "PaletteGet은 WCAG 대비가 측정된 팔레트를 주는 MCP 서버다.",
+          "mini_headline": "제멋대로인 hex 코드는 이제 그만",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fscroodb62eav32be6wq3.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgxpmzmr0pr4x03ohfqk8.png"
               },
               {
                 "t": "p",
-                "x": "어떤 AI에든 \"랜딩 페이지 만들어 줘\"라고 하면 거대한 둥근 카드, 붉은 보라색 그라데이션 위 반투명 유리, 빛나는 네온 버튼, 라이트 모드 없는 새까만 배경, 가운데 정렬된 64px 제목, 끝없이 이어지는 단일 칼럼이 나온다. 댓글 80+개가 달린 V2EX 스레드에도 같은 죄목이 나열됐다."
+                "x": "금융 앱 팔레트를 요청하자 Claude는 채팅에서는 그럴듯해 보이는 hex 코드 여섯 개를 내놓았다. 실제 UI에서는 본문 텍스트가 기본 색 위에서 약 2.8:1 대비에 그쳤다. “모델이 게을렀던 게 아니다. 자가 없을 뿐이다.” 그래서 글쓴이는 그 자를 직접 만들었다."
               },
               {
                 "t": "p",
-                "x": "design-slop-skill은 이런 패턴을 결정론적으로 찾아내 사람이 다듬은 기본값으로 고쳐 쓰는 Claude Code 스킬이다. 표준 라이브러리만 쓰는(stdlib-only) Python 스크립트 두 개로 이뤄져 LLM도, 네트워크도, 의존성도 필요 없다."
+                "x": "PaletteGet은 모바일 앱, 웹, 미니 프로그램용으로 직접 고른 팔레트 약 90개를 모은 작은 사이트다. 팔레트마다 역할별 색상, 중요한 색 조합의 WCAG 대비 측정값, 짧은 편집자 메모가 붙는다. MCP 서버이기도 해서 Cursor, Claude Desktop, 또는 Streamable HTTP를 쓰는 어떤 클라이언트든 바로 읽을 수 있다. API 키도, 가입도 필요 없다."
               },
               {
                 "t": "p",
-                "x": "detect.py는 HTML/CSS를 훑어 규칙 id, 파일, 줄 번호와 두 언어 설명을 담은 결과를 보고하고, 이를 가중해 0–100 slop 점수를 낸다. fix.py는 그 반대 작업을 한다. 모서리 반경을 10px로 제한하고, 블러를 없애고, 글로를 중화하고, 보라색 그라데이션을 평평하게 바꾸고, light-mode 블록을 추가하고, 히어로 제목을 2.25rem 왼쪽 정렬로 줄인다."
+                "x": "읽기 전용 도구 네 가지, list_palettes, get_palette, suggest_palette, get_css_variables를 제공한다. 다크 모드 금융 팔레트를 요청하자 에이전트는 Ink Blue Night를 제안했다. 본문 텍스트 #e8ecf4는 15.29:1로 AAA 등급이며, 기본 색 위의 흰색은 3.26:1이라 큰 텍스트에만 충분하다고 덧붙였다. “모델이 단정하기를 멈추고 측정하기 시작한다.”"
               },
               {
                 "t": "p",
-                "x": "일곱 가지 규칙(SLOP-001~SLOP-007)이 불만 목록을 다루며, 보라색 감지는 색상(hue) 기반이다. 스킬 형태라 에이전트가 생성 후가 아니라 생성 중에 실행한다. 테마 토글과 그리드 재구성은 사람 몫으로 남겨 두었다. MIT 라이선스이며 단위 테스트 23개를 갖췄다."
+                "x": "그냥 프롬프트를 더 잘 쓰면 되지 않을까? 대비는 특정 공식을 따르는 산술인데, LLMs는 이런 계산에 약하고 실패는 조용히 일어난다. 실제 문단이 그 위에 놓였을 때에야 문제를 알게 된다. 이것은 생성기도 디자인 시스템도 아닌, Worker 위에서 도는 읽기 전용 엔드포인트일 뿐이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ウェブの「AIっぽさ」を\n消す公開スキル",
-          "body": "Claude Code向けdesign-slop-skillはAIっぽさを検出し修正する。",
-          "mini_headline": "「AIっぽさ」を消す",
+          "headline": "コーディングエージェントが\nhexコードを捏造しなくなる",
+          "body": "PaletteGetは、WCAGコントラスト測定済みの配色を渡すMCPサーバーだ。",
+          "mini_headline": "でたらめなhexコードはもう終わり",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fscroodb62eav32be6wq3.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgxpmzmr0pr4x03ohfqk8.png"
               },
               {
                 "t": "p",
-                "x": "どのAIに「ランディングページを作って」と頼んでも、巨大な角丸カード、赤紫のグラデーションに重ねたすりガラス、光るネオンボタン、ライトモードのない真っ黒な背景、中央揃えの64pxの見出し、延々と続く単一カラムが出てくる。80+件の返信がついたV2EXのスレッドでも、同じ罪が列挙された。"
+                "x": "金融アプリ用の配色を頼むと、Claudeはチャット上では正しく見えるhexコードを六つ返した。実際のUIでは、本文テキストがプライマリカラー上で約2.8:1のコントラストしかなかった。「モデルが怠けていたわけではない。定規を持っていないのだ」。そこで筆者は定規を作った。"
               },
               {
                 "t": "p",
-                "x": "design-slop-skillは、こうしたパターンを決定論的に検出し、人の手で整えたデフォルトに向けて書き換えるClaude Codeのスキルだ。標準ライブラリのみ(stdlib-only)の二つのPythonスクリプトで動き、LLMもネットワークも依存関係も要らない。"
+                "x": "PaletteGetは、モバイルアプリ、Web、ミニプログラム向けに厳選した約90の配色を集めた小さなサイトだ。各配色には役割別の色、重要な組み合わせについて測定したWCAGコントラスト、短い編集者メモが付く。MCPサーバーでもあるため、Cursor、Claude Desktop、あるいはStreamable HTTPに対応する任意のクライアントが直接読み込める。APIキーも登録も不要だ。"
               },
               {
                 "t": "p",
-                "x": "detect.pyはHTML/CSSを走査し、ルールid、ファイル、行と二言語の説明を添えて結果を報告し、重み付けして0–100のslopスコアを出す。fix.pyはその逆を適用する。角丸を10pxに制限し、ブラーを外し、グローを抑え、紫のグラデーションを平坦にし、light-modeブロックを加え、ヒーロー見出しを2.25remの左揃えに抑える。"
+                "x": "公開する読み取り専用ツールは四つ。list_palettes、get_palette、suggest_palette、get_css_variablesだ。ダークモードの金融向け配色を頼むと、エージェントはInk Blue Nightを提案した。本文テキスト#e8ecf4は15.29:1でAAA、プライマリ上の白は3.26:1で大きな文字にしか足りないことも指摘した。「モデルは断言するのをやめ、測定し始める」。"
               },
               {
                 "t": "p",
-                "x": "七つのルール(SLOP-001〜SLOP-007)が不満リストをカバーし、紫の検出は色相ベースだ。スキルなので、エージェントは生成後ではなく生成中に実行する。テーマ切り替えやグリッドの再構成は人に委ねる。MITライセンスで、ユニットテストは23件ある。"
+                "x": "プロンプトを工夫すれば済むのでは？ コントラストは特定の式による算術で、LLMsはこれが苦手だ。しかも失敗は静かに起こり、実際の段落を載せて初めて気づく。これは生成ツールでもデザインシステムでもなく、Worker上の読み取り専用エンドポイントにすぎない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "一款开源技能\n抹去网页的“AI感”",
-          "body": "Claude Code技能design-slop-skill识别并改写红紫渐变等AI痕迹。",
-          "mini_headline": "抹去“AI感”",
+          "headline": "编程智能体不再\n凭空编造hex色码",
+          "body": "PaletteGet是一个MCP服务器，为编程智能体提供实测WCAG对比度的精选配色。",
+          "mini_headline": "告别随意的hex色码",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fscroodb62eav32be6wq3.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgxpmzmr0pr4x03ohfqk8.png"
               },
               {
                 "t": "p",
-                "x": "无论让哪个AI“做一个落地页”，得到的都是巨大的圆角卡片、红紫渐变上的毛玻璃、发光的霓虹按钮、没有浅色模式的纯黑背景、居中的64px大标题，以及一条无尽的单栏。一个有80+条回复的V2EX帖子也列出了同样的毛病。"
+                "x": "被要求生成金融应用配色时，Claude给出了六个在聊天里看起来没问题的hex色码。但在实际UI中，正文文字放在主色上的对比度只有约2.8:1。“模型并不是在偷懒，它只是没有尺子。”于是作者造了这把尺子。"
               },
               {
                 "t": "p",
-                "x": "design-slop-skill是一款Claude Code技能，能以确定性方式检测这些模式，并按人工打磨的默认值改写。两个仅依赖标准库（stdlib-only）的Python脚本不需要LLM、网络或任何依赖。"
+                "x": "PaletteGet是一个小网站，收录约90套为移动应用、网页和小程序精心挑选的配色。每套都附有角色色、关键颜色组合的实测WCAG对比度，以及一段简短的编辑说明。它同时也是一个MCP服务器，Cursor、Claude Desktop或任何支持Streamable HTTP的客户端都能直接读取。无需API密钥，也无需注册。"
               },
               {
                 "t": "p",
-                "x": "detect.py扫描HTML/CSS，报告每条发现的规则id、文件、行号和双语说明，并加权得出0–100的slop分数。fix.py则反向处理：圆角限制在10px，去掉模糊，中和发光，压平紫色渐变，添加light-mode区块，并把主视觉标题收敛为2.25rem左对齐。"
+                "x": "它提供四个只读工具：list_palettes、get_palette、suggest_palette和get_css_variables。被要求提供深色模式金融配色时，智能体推荐了Ink Blue Night：正文文字#e8ecf4的对比度为15.29:1，达到AAA，并指出主色上的白色为3.26:1，仅够用于大号文字。“模型不再武断下结论，而是开始测量。”"
               },
               {
                 "t": "p",
-                "x": "七条规则（SLOP-001至SLOP-007）覆盖了这份吐槽清单；紫色检测基于色相。作为技能，代理会在生成过程中而非生成后运行它。主题切换和网格重构留给人来处理。采用MIT许可，附带23个单元测试。"
+                "x": "为什么不直接把提示词写得更好？对比度是有特定公式的算术，而LLMs并不擅长；而且这种失败是无声的，只有当真实段落放上去时才会发现。它不是生成器，也不是设计系统，只是运行在Worker上的一个只读端点。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una skill abierta elimina el\n'aspecto AI' de páginas web",
-          "body": "design-slop-skill para Claude Code detecta glassmorphism, degradados rojo-púrpura y otras señales de AI y las corrige.",
-          "mini_headline": "Quitar el 'aspecto AI'",
+          "headline": "Un agente de código deja\nde inventar códigos hex",
+          "body": "Un desarrollador creó PaletteGet, un servidor MCP que da a los agentes de código paletas con contraste WCAG medido.",
+          "mini_headline": "Adiós a los códigos hex al azar",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fscroodb62eav32be6wq3.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgxpmzmr0pr4x03ohfqk8.png"
               },
               {
                 "t": "p",
-                "x": "Si se le pide a cualquier AI que \"haga una landing page\", el resultado son tarjetas enormes con esquinas redondeadas, vidrio esmerilado sobre un degradado rojo-púrpura, un botón de neón brillante, un fondo negro absoluto sin modo claro, un titular centrado de 64px y una única columna interminable. Un hilo de V2EX con 80+ respuestas enumeró los mismos pecados."
+                "x": "Al pedirle una paleta para una app financiera, Claude dio seis códigos hex que parecían correctos en el chat. En la UI real, el texto del cuerpo quedaba sobre el color primario con un contraste de aproximadamente 2.8:1. “El modelo no estaba siendo perezoso. No tiene regla”. Así que el autor construyó la regla."
               },
               {
                 "t": "p",
-                "x": "design-slop-skill es una skill de Claude Code que detecta estos patrones de forma determinista y los reescribe hacia valores por defecto de factura humana. Dos scripts de Python que solo usan la biblioteca estándar (stdlib-only) no necesitan LLM, red ni dependencias."
+                "x": "PaletteGet es un sitio pequeño con unas 90 paletas seleccionadas a mano para apps móviles, web y miniprogramas. Cada una incluye colores por función, el contraste WCAG medido para las combinaciones que importan y una breve nota del editor. También es un servidor MCP, así que Cursor, Claude Desktop o cualquier cliente que hable Streamable HTTP puede leerlo directamente. Sin clave de API ni registro."
               },
               {
                 "t": "p",
-                "x": "detect.py analiza HTML/CSS e informa de cada hallazgo con id de regla, archivo, línea y una explicación bilingüe, ponderados en una puntuación slop de 0–100. fix.py aplica lo inverso: radio limitado a 10px, desenfoque eliminado, brillos neutralizados, degradados púrpura aplanados, un bloque light-mode añadido y títulos hero reducidos a 2.25rem alineados a la izquierda."
+                "x": "Expone cuatro herramientas de solo lectura: list_palettes, get_palette, suggest_palette y get_css_variables. Al pedirle una paleta financiera en modo oscuro, el agente sugirió Ink Blue Night: texto del cuerpo #e8ecf4 a 15.29:1, AAA, y señaló que el blanco sobre el primario mide 3.26:1, suficiente solo para texto grande. “El modelo deja de afirmar y empieza a medir”."
               },
               {
                 "t": "p",
-                "x": "Siete reglas (SLOP-001 a SLOP-007) cubren la lista de quejas; la detección del púrpura se basa en el tono. Al ser una skill, el agente la ejecuta durante la generación y no después. Los selectores de tema y la reestructuración de la cuadrícula quedan en manos de una persona. Licencia MIT, con 23 pruebas unitarias."
+                "x": "¿Por qué no escribir mejor el prompt? El contraste es aritmética con una fórmula concreta, algo en lo que los LLMs no son buenos, y el fallo es silencioso: solo se descubre cuando un párrafo real cae encima. No es un generador ni un sistema de diseño, solo un endpoint de solo lectura en un Worker."
               }
             ]
           }
@@ -1381,195 +1139,189 @@
       }
     },
     {
-      "id": "design-just-eat-ai-photos",
+      "id": "design-firefly-character-likeness",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Just Eat, 엉터리\nAI 메뉴 사진에 사과",
-      "body": "Just Eat이 베이컨·달걀이 소다에 뜬 AI-generated 사진에 사과했다.",
-      "mini_headline": "Just Eat의 AI 메뉴 실수",
-      "tool": "AI Workflow",
-      "source": "PetaPixel",
-      "url": "https://petapixel.com/2026/10/21/just-eat-food-delivery-app-apologizes-for-ai-generated-menu-photo-showing-bacon-floating-in-soda/",
-      "accent": "#3b6bff",
+      "headline": "Firefly, 포스터마다\n같은 캐릭터를 지킨다",
+      "body": "Adobe가 레퍼런스 시트로 Firefly 인물을 한결같이 지키는 법을 알려 준다.",
+      "mini_headline": "얼굴 하나로 모든 포스터를",
+      "tool": "Social",
+      "source": "Adobe (YouTube)",
+      "url": "https://www.youtube.com/watch?v=W1IYLaWyL70",
+      "accent": "#ff2d55",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://petapixel.com/assets/uploads/2026/10/bacon-and-egg-ai-generated.jpg",
-            "cap": "Just Eat의 AI 이미지 생성기가 아일랜드(Irish) 전통 베이컨·달걀 소다 브레드 샌드위치를 비롯한 여러 메뉴의 부정확한 이미지를 만들었다. 이미지 출처: Just Eat UK"
+            "t": "video",
+            "yt": "W1IYLaWyL70"
           },
           {
             "t": "p",
-            "x": "음식 배달 앱 Just Eat이 소다에 베이컨과 달걀이 떠 있는 사진 등 메뉴에 올린 부정확한 AI-generated 사진 여러 장을 두고 사과했다."
+            "x": "같은 캐릭터를 처음부터 다시 만들 필요는 없다. 어떤 포즈, 각도, 장면에서도 AI 피사체를 알아볼 수 있게 하는 레퍼런스 시트 기법을 다룬다."
           },
           {
             "t": "p",
-            "x": "영국(U.K.)에서 영업하는 Just Eat은 직접 찍은 사진이 없는 음식점에 AI-generated 이미지를 시험 삼아 붙이면서 이미지마다 \"AI-generated\" 표시를 달았다. The Independent에 따르면 고객 불만이 나오자 시험을 접었다."
+            "x": "튜토리얼에서 익히는 것은 세 가지다. 생성할 때마다 같은 생김새를 붙잡아 두는 다각도 캐릭터 레퍼런스 시트 만들기, 캐릭터 시트와 배경을 한 프롬프트로 합쳐 포즈·조명·피사계 심도를 지시하기, 전신 에셋을 분리하고 중립 배경 위로 확장해 자르기·크기 조정·형식 변경을 쉽게 하기다."
           },
           {
             "t": "p",
-            "x": "소다 브레드 샌드위치를 파는 북아일랜드(Northern Ireland)의 한 음식점에는 소시지, 베이컨, 달걀 프라이가 탄산음료 파인트 잔에 떠 있는 이미지가 붙었다. 소금·후추 칩스는 소금과 후추에 파묻힌 평범한 감자튀김으로, 체다 메뉴는 퐁뒤 같은 주황색 소스로 나왔다."
+            "x": "영화 포스터나 캐릭터 디자인 프로젝트, 캠페인 콘셉트 작업에 잘 맞는다."
           },
           {
             "t": "p",
-            "x": "Just Eat은 \"AI-enhanced 이미지를 시험해 왔는데, 새로운 기술이 다 그렇듯 처음부터 늘 딱 맞지는 않는다\"며 \"게시된 부정확한 이미지에 대해 사과드린다\"고 밝혔다. 회사는 해당 이미지를 지우는 중이며 도구를 개발하는 동안 도입을 멈췄다."
+            "x": "목차: 00:01 소개 및 저자 Jesús Ramirez 소개 · 03:48 일관된 캐릭터 생성 · 07:08 레퍼런스를 합성해 영화 같은 포스터 만들기 · 08:05 편집과 확장이 가능한 결과물을 위한 전신 에셋 준비."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Just Eat apologizes for\nAI menu photos gone wrong",
-          "body": "Just Eat apologized after inaccurate AI-generated menu photos on its app showed bacon and eggs floating in a soda.",
-          "mini_headline": "Just Eat's AI menu misfire",
+          "headline": "Firefly keeps one character\nconsistent across posters",
+          "body": "An Adobe tutorial uses a reference-sheet trick so a Firefly subject stays recognizable across poses and scenes.",
+          "mini_headline": "One face,\nevery poster",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://petapixel.com/assets/uploads/2026/10/bacon-and-egg-ai-generated.jpg",
-                "cap": "Just Eat’s AI image generator produced inaccurate images of several menu items, including a traditional Irish bacon-and-egg soda bread sandwich. Image credit: Just Eat UK"
+                "t": "video",
+                "yt": "W1IYLaWyL70"
               },
               {
                 "t": "p",
-                "x": "Food delivery app Just Eat has apologized over several inaccurate AI-generated photos on menus, including a picture of bacon and eggs floating in a soda."
+                "x": "Stop regenerating the same character from scratch. Learn the reference-sheet trick that makes your AI subject recognizable in every pose, angle, and scene."
               },
               {
                 "t": "p",
-                "x": "Just Eat, which operates in the U.K., was trialling AI-generated images for restaurants that hadn't taken their own photos, tagging each as \"AI-generated.\" According to The Independent, it paused the trial after customer complaints."
+                "x": "In this tutorial, you'll discover how to: build multi-angle character reference sheets that keep likeness locked across every new generation; merge character sheets and backgrounds into a single prompt to direct pose, lighting, and depth of field; and isolate and extend full-body assets onto a neutral background for easy cropping, scaling, and reformatting."
               },
               {
                 "t": "p",
-                "x": "A Northern Ireland restaurant selling soda bread sandwiches got images of sausages, bacon and fried eggs floating in pints of fizzy drinks. Salt and pepper chips appeared as plain fries buried in salt and pepper, and a cheddar listing showed an orange, fondue-like sauce."
+                "x": "Perfect for movie posters, character design projects, and campaign concepts."
               },
               {
                 "t": "p",
-                "x": "\"We've been trialling AI-enhanced images and as with any new technology, it isn't always quite right the first time,\" Just Eat said. \"We're sorry for any inaccurate images that have been posted.\" It is removing them and has paused the rollout while it develops the tool."
+                "x": "Contents: 00:01 Intro and meet author Jesús Ramirez · 03:48 Generate consistent characters · 07:08 Composite references into a cinematic poster · 08:05 Prep full-body assets for editable, scalable output."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Just Eat, 엉터리\nAI 메뉴 사진에 사과",
-          "body": "Just Eat이 베이컨·달걀이 소다에 뜬 AI-generated 사진에 사과했다.",
-          "mini_headline": "Just Eat의 AI 메뉴 실수",
+          "headline": "Firefly, 포스터마다\n같은 캐릭터를 지킨다",
+          "body": "Adobe가 레퍼런스 시트로 Firefly 인물을 한결같이 지키는 법을 알려 준다.",
+          "mini_headline": "얼굴 하나로 모든 포스터를",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://petapixel.com/assets/uploads/2026/10/bacon-and-egg-ai-generated.jpg",
-                "cap": "Just Eat의 AI 이미지 생성기가 아일랜드(Irish) 전통 베이컨·달걀 소다 브레드 샌드위치를 비롯한 여러 메뉴의 부정확한 이미지를 만들었다. 이미지 출처: Just Eat UK"
+                "t": "video",
+                "yt": "W1IYLaWyL70"
               },
               {
                 "t": "p",
-                "x": "음식 배달 앱 Just Eat이 소다에 베이컨과 달걀이 떠 있는 사진 등 메뉴에 올린 부정확한 AI-generated 사진 여러 장을 두고 사과했다."
+                "x": "같은 캐릭터를 처음부터 다시 만들 필요는 없다. 어떤 포즈, 각도, 장면에서도 AI 피사체를 알아볼 수 있게 하는 레퍼런스 시트 기법을 다룬다."
               },
               {
                 "t": "p",
-                "x": "영국(U.K.)에서 영업하는 Just Eat은 직접 찍은 사진이 없는 음식점에 AI-generated 이미지를 시험 삼아 붙이면서 이미지마다 \"AI-generated\" 표시를 달았다. The Independent에 따르면 고객 불만이 나오자 시험을 접었다."
+                "x": "튜토리얼에서 익히는 것은 세 가지다. 생성할 때마다 같은 생김새를 붙잡아 두는 다각도 캐릭터 레퍼런스 시트 만들기, 캐릭터 시트와 배경을 한 프롬프트로 합쳐 포즈·조명·피사계 심도를 지시하기, 전신 에셋을 분리하고 중립 배경 위로 확장해 자르기·크기 조정·형식 변경을 쉽게 하기다."
               },
               {
                 "t": "p",
-                "x": "소다 브레드 샌드위치를 파는 북아일랜드(Northern Ireland)의 한 음식점에는 소시지, 베이컨, 달걀 프라이가 탄산음료 파인트 잔에 떠 있는 이미지가 붙었다. 소금·후추 칩스는 소금과 후추에 파묻힌 평범한 감자튀김으로, 체다 메뉴는 퐁뒤 같은 주황색 소스로 나왔다."
+                "x": "영화 포스터나 캐릭터 디자인 프로젝트, 캠페인 콘셉트 작업에 잘 맞는다."
               },
               {
                 "t": "p",
-                "x": "Just Eat은 \"AI-enhanced 이미지를 시험해 왔는데, 새로운 기술이 다 그렇듯 처음부터 늘 딱 맞지는 않는다\"며 \"게시된 부정확한 이미지에 대해 사과드린다\"고 밝혔다. 회사는 해당 이미지를 지우는 중이며 도구를 개발하는 동안 도입을 멈췄다."
+                "x": "목차: 00:01 소개 및 저자 Jesús Ramirez 소개 · 03:48 일관된 캐릭터 생성 · 07:08 레퍼런스를 합성해 영화 같은 포스터 만들기 · 08:05 편집과 확장이 가능한 결과물을 위한 전신 에셋 준비."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIメニュー写真の誤り\nJust Eatが謝罪",
-          "body": "Just Eatはソーダにベーコンと卵が浮くAI-generated写真で謝罪した。",
-          "mini_headline": "Just EatのAIメニュー騒動",
+          "headline": "Fireflyでポスター間の\nキャラクターを統一",
+          "body": "Adobeのチュートリアルが、Fireflyの人物をどの場面でも同一に保つ技を紹介する。",
+          "mini_headline": "ひとつの顔を、すべてのポスターに",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://petapixel.com/assets/uploads/2026/10/bacon-and-egg-ai-generated.jpg",
-                "cap": "Just EatのAI画像生成ツールは、アイルランド(Irish)伝統のベーコンエッグ・ソーダブレッドサンドなど、複数のメニューで不正確な画像を生成した。画像提供：Just Eat UK"
+                "t": "video",
+                "yt": "W1IYLaWyL70"
               },
               {
                 "t": "p",
-                "x": "フードデリバリーアプリのJust Eatが、ソーダにベーコンと卵が浮かぶ写真をはじめ、メニューに掲載された不正確なAI-generated写真の数々について謝罪した。"
+                "x": "同じキャラクターを一から生成し直すのはもうやめよう。AIの被写体をあらゆるポーズ、アングル、シーンで見分けられるようにするリファレンスシートの技を学ぶ。"
               },
               {
                 "t": "p",
-                "x": "英国(U.K.)で事業を展開するJust Eatは、自前の写真を撮影していない飲食店向けにAI-generated画像を試験導入し、それぞれに「AI-generated」と表示していた。The Independentによると、顧客からの苦情を受けて試験を中止した。"
+                "x": "このチュートリアルでは次の方法を学ぶ。新たに生成するたびに似姿を固定できる多角度のキャラクターリファレンスシートを作る方法、キャラクターシートと背景を一つのプロンプトにまとめてポーズ、ライティング、被写界深度を指示する方法、そして全身アセットを切り出してニュートラルな背景上に拡張し、トリミングや拡大縮小、フォーマット変更をしやすくする方法だ。"
               },
               {
                 "t": "p",
-                "x": "ソーダブレッドのサンドイッチを売る北アイルランド(Northern Ireland)の飲食店には、ソーセージやベーコン、目玉焼きがパイントグラスの炭酸飲料に浮かぶ画像が付けられた。ソルト＆ペッパーチップスは塩とコショウに埋もれた普通のフライドポテトとして、チェダーの品目はフォンデュのようなオレンジ色のソースとして表示された。"
+                "x": "映画ポスター、キャラクターデザインのプロジェクト、キャンペーンのコンセプトに最適だ。"
               },
               {
                 "t": "p",
-                "x": "Just Eatは「AI-enhanced画像を試験してきたが、どんな新技術もそうであるように、最初から常にうまくいくとは限らない」とし、「掲載された不正確な画像についておわびする」と述べた。同社は画像を削除しており、ツールを開発する間は展開を停止している。"
+                "x": "目次：00:01 イントロと作者Jesús Ramirezの紹介 · 03:48 一貫したキャラクターを生成 · 07:08 リファレンスを合成して映画的なポスターに · 08:05 編集・拡大縮小できる出力のための全身アセット準備。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI菜单图片出错\nJust Eat公开致歉",
-          "body": "Just Eat应用的AI-generated菜单图片让培根和鸡蛋漂在汽水里，公司已致歉。",
-          "mini_headline": "Just Eat的AI菜单翻车",
+          "headline": "Firefly让同一角色\n贯穿多张海报",
+          "body": "Adobe教程用参考表技巧，让Firefly生成的人物在不同姿势和场景中都能被认出。",
+          "mini_headline": "一张脸，贯穿每张海报",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://petapixel.com/assets/uploads/2026/10/bacon-and-egg-ai-generated.jpg",
-                "cap": "Just Eat的AI图像生成器为多道菜品生成了不准确的图片，其中包括一款传统爱尔兰（Irish）培根鸡蛋苏打面包三明治。图片来源：Just Eat UK"
+                "t": "video",
+                "yt": "W1IYLaWyL70"
               },
               {
                 "t": "p",
-                "x": "外卖应用Just Eat就菜单上多张不准确的AI-generated照片致歉，其中一张显示培根和鸡蛋漂浮在汽水中。"
+                "x": "别再从零开始反复生成同一个角色了。学习参考表技巧，让你的AI主体在每种姿势、角度和场景中都能被认出。"
               },
               {
                 "t": "p",
-                "x": "在英国（U.K.）运营的Just Eat此前为未自行拍照的餐厅试用AI-generated图片，并为每张图片标注“AI-generated”。据The Independent报道，在顾客投诉后，公司已暂停这项试用。"
+                "x": "在本教程中，你将学会：制作多角度角色参考表，让每次新生成都锁定相同样貌；把角色参考表和背景合并到同一个提示词中，以控制姿势、光照和景深；将全身素材分离出来并延展到中性背景上，便于裁剪、缩放和调整格式。"
               },
               {
                 "t": "p",
-                "x": "北爱尔兰（Northern Ireland）一家售卖苏打面包三明治的餐厅，被配上了香肠、培根和煎蛋漂浮在一品脱碳酸饮料中的图片。椒盐薯条变成了埋在盐和胡椒里的普通薯条，一道切达奶酪菜品则显示为一种类似芝士火锅的橙色酱汁。"
+                "x": "非常适合电影海报、角色设计项目和营销活动概念。"
               },
               {
                 "t": "p",
-                "x": "Just Eat表示：“我们一直在试用AI-enhanced图片，和任何新技术一样，第一次并不总能做到完全正确。”“对于已发布的不准确图片，我们深表歉意。”公司正在删除这些图片，并在开发该工具期间暂停推广。"
+                "x": "目录：00:01 开场及认识作者Jesús Ramirez · 03:48 生成一致的角色 · 07:08 将参考素材合成为电影感海报 · 08:05 为可编辑、可缩放的输出准备全身素材。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Just Eat se disculpa por\nfotos de menú erróneas con AI",
-          "body": "Just Eat se disculpó por fotos de menú AI-generated inexactas en su app, con tocino y huevos flotando en un refresco.",
-          "mini_headline": "El tropiezo de Just Eat con menús de AI",
+          "headline": "Firefly mantiene un personaje\nigual en todos los carteles",
+          "body": "Un tutorial de Adobe usa una hoja de referencia para que un sujeto de Firefly se reconozca en cada pose y escena.",
+          "mini_headline": "Un rostro, todos los carteles",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://petapixel.com/assets/uploads/2026/10/bacon-and-egg-ai-generated.jpg",
-                "cap": "El generador de imágenes con AI de Just Eat produjo imágenes inexactas de varios platos del menú, entre ellos un tradicional sándwich irlandés (Irish) de pan de soda con tocino y huevo. Crédito de la imagen: Just Eat UK"
+                "t": "video",
+                "yt": "W1IYLaWyL70"
               },
               {
                 "t": "p",
-                "x": "La app de reparto de comida Just Eat pidió disculpas por varias fotos AI-generated inexactas en sus menús, entre ellas una imagen de tocino y huevos flotando en un refresco."
+                "x": "Deja de regenerar el mismo personaje desde cero. Aprende el truco de la hoja de referencia que hace que tu sujeto de IA sea reconocible en cada pose, ángulo y escena."
               },
               {
                 "t": "p",
-                "x": "Just Eat, que opera en el Reino Unido (U.K.), estaba probando imágenes AI-generated para restaurantes que no habían tomado sus propias fotos, y marcaba cada una como \"AI-generated\". Según The Independent, suspendió la prueba tras las quejas de los clientes."
+                "x": "En este tutorial descubrirás cómo crear hojas de referencia de personajes con múltiples ángulos que mantienen el parecido fijo en cada nueva generación; combinar hojas de personaje y fondos en un solo prompt para dirigir la pose, la iluminación y la profundidad de campo; y aislar y extender recursos de cuerpo entero sobre un fondo neutro para recortarlos, escalarlos y cambiarles el formato con facilidad."
               },
               {
                 "t": "p",
-                "x": "Un restaurante de Irlanda del Norte (Northern Ireland) que vende sándwiches de pan de soda recibió imágenes de salchichas, tocino y huevos fritos flotando en pintas de bebidas gaseosas. Las patatas con sal y pimienta aparecían como simples patatas fritas enterradas en sal y pimienta, y un plato con cheddar mostraba una salsa naranja parecida a una fondue."
+                "x": "Ideal para carteles de cine, proyectos de diseño de personajes y conceptos de campaña."
               },
               {
                 "t": "p",
-                "x": "\"Hemos estado probando imágenes AI-enhanced y, como con cualquier tecnología nueva, no siempre sale del todo bien la primera vez\", dijo Just Eat. \"Lamentamos las imágenes inexactas que se hayan publicado\". La empresa las está retirando y ha pausado el despliegue mientras desarrolla la herramienta."
+                "x": "Contenido: 00:01 Introducción y presentación del autor Jesús Ramirez · 03:48 Generar personajes coherentes · 07:08 Componer referencias en un cartel cinematográfico · 08:05 Preparar recursos de cuerpo entero para un resultado editable y escalable."
               }
             ]
           }
@@ -1577,125 +1329,513 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Just Eat, 엉터리\nAI 메뉴 사진에 사과",
-          "body": "Just Eat이 베이컨·달걀이 소다에 뜬 AI-generated 사진에 사과했다.",
-          "mini_headline": "Just Eat의 AI 메뉴 실수",
+          "headline": "Firefly, 포스터마다\n같은 캐릭터를 지킨다",
+          "body": "Adobe가 레퍼런스 시트로 Firefly 인물을 일관되게 지키는 법을 소개한다.",
+          "mini_headline": "얼굴 하나로 모든 포스터를",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://petapixel.com/assets/uploads/2026/10/bacon-and-egg-ai-generated.jpg",
-                "cap": "Just Eat의 AI 이미지 생성기가 아일랜드(Irish) 전통 베이컨·달걀 소다 브레드 샌드위치를 비롯한 여러 메뉴의 부정확한 이미지를 만들었다. 이미지 출처: Just Eat UK"
+                "t": "video",
+                "yt": "W1IYLaWyL70"
               },
               {
                 "t": "p",
-                "x": "음식 배달 앱 Just Eat이 소다에 베이컨과 달걀이 떠 있는 사진 등 메뉴에 올라간 부정확한 AI-generated 사진 여러 장에 대해 사과했다."
+                "x": "같은 캐릭터를 처음부터 다시 생성하는 일은 그만두자. AI 피사체를 모든 포즈, 각도, 장면에서 알아볼 수 있게 해 주는 레퍼런스 시트 기법을 배운다."
               },
               {
                 "t": "p",
-                "x": "영국(U.K.)에서 영업하는 Just Eat은 자체 사진을 찍지 않은 음식점에 AI-generated 이미지를 시험 적용하면서 각 이미지에 \"AI-generated\" 표시를 달았다. The Independent에 따르면 고객 불만이 나오자 이 시험을 중단했다."
+                "x": "이 튜토리얼에서는 세 가지를 익힌다. 새로 생성할 때마다 닮은 모습을 고정해 주는 다각도 캐릭터 레퍼런스 시트를 만드는 법, 캐릭터 시트와 배경을 하나의 프롬프트로 합쳐 포즈, 조명, 피사계 심도를 지시하는 법, 전신 에셋을 분리해 중립 배경 위로 확장해 자르기, 크기 조정, 형식 변경을 쉽게 하는 법이다."
               },
               {
                 "t": "p",
-                "x": "소다 브레드 샌드위치를 파는 북아일랜드(Northern Ireland)의 한 음식점에는 소시지, 베이컨, 달걀 프라이가 탄산음료 파인트 잔에 떠 있는 이미지가 붙었다. 소금·후추 칩스는 소금과 후추에 파묻힌 평범한 감자튀김으로, 체다 메뉴는 퐁뒤 같은 주황색 소스로 나왔다."
+                "x": "영화 포스터, 캐릭터 디자인 프로젝트, 캠페인 콘셉트에 알맞다."
               },
               {
                 "t": "p",
-                "x": "Just Eat은 \"AI-enhanced 이미지를 시험해 왔는데, 새로운 기술이 다 그렇듯 처음부터 늘 딱 맞지는 않는다\"며 \"게시된 부정확한 이미지에 대해 사과드린다\"고 밝혔다. 회사는 해당 이미지를 삭제하고 있으며, 도구를 개발하는 동안 도입을 멈췄다."
+                "x": "목차: 00:01 소개 및 저자 Jesús Ramirez 소개 · 03:48 일관된 캐릭터 생성 · 07:08 레퍼런스를 합성해 영화 같은 포스터 만들기 · 08:05 편집과 확장이 가능한 결과물을 위한 전신 에셋 준비."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIメニュー写真の誤り\nJust Eatが謝罪",
-          "body": "Just Eatはソーダにベーコンと卵が浮くAI-generated写真で謝罪した。",
-          "mini_headline": "Just EatのAIメニュー騒動",
+          "headline": "Fireflyでポスター間の\nキャラクターを統一",
+          "body": "Adobeのチュートリアルが、Fireflyの人物をどの場面でも同一に保つ技を紹介する。",
+          "mini_headline": "ひとつの顔を、すべてのポスターに",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://petapixel.com/assets/uploads/2026/10/bacon-and-egg-ai-generated.jpg",
-                "cap": "Just EatのAI画像生成ツールは、アイルランド(Irish)伝統のベーコンエッグ・ソーダブレッドサンドなど、複数のメニューで不正確な画像を生成した。画像提供：Just Eat UK"
+                "t": "video",
+                "yt": "W1IYLaWyL70"
               },
               {
                 "t": "p",
-                "x": "フードデリバリーアプリのJust Eatが、ソーダにベーコンと卵が浮かぶ写真をはじめ、メニューに掲載された不正確なAI-generated写真の数々について謝罪した。"
+                "x": "同じキャラクターを一から生成し直すのはもうやめよう。AIの被写体をあらゆるポーズ、アングル、シーンで見分けられるようにするリファレンスシートの技を学ぶ。"
               },
               {
                 "t": "p",
-                "x": "英国(U.K.)で事業を展開するJust Eatは、自前の写真を撮影していない飲食店向けにAI-generated画像を試験導入し、それぞれに「AI-generated」と表示していた。The Independentによると、顧客からの苦情を受けて試験を中止した。"
+                "x": "このチュートリアルでは次の方法を学ぶ。新たに生成するたびに似姿を固定できる多角度のキャラクターリファレンスシートを作る方法、キャラクターシートと背景を一つのプロンプトにまとめてポーズ、ライティング、被写界深度を指示する方法、そして全身アセットを切り出してニュートラルな背景上に拡張し、トリミングや拡大縮小、フォーマット変更をしやすくする方法だ。"
               },
               {
                 "t": "p",
-                "x": "ソーダブレッドのサンドイッチを売る北アイルランド(Northern Ireland)の飲食店には、ソーセージやベーコン、目玉焼きがパイントグラスの炭酸飲料に浮かぶ画像が付けられた。ソルト＆ペッパーチップスは塩とコショウに埋もれた普通のフライドポテトとして、チェダーの品目はフォンデュのようなオレンジ色のソースとして表示された。"
+                "x": "映画ポスター、キャラクターデザインのプロジェクト、キャンペーンのコンセプトに最適だ。"
               },
               {
                 "t": "p",
-                "x": "Just Eatは「AI-enhanced画像を試験してきたが、どんな新技術もそうであるように、最初から常にうまくいくとは限らない」とし、「掲載された不正確な画像についておわびする」と述べた。同社は画像を削除しており、ツールを開発する間は展開を停止している。"
+                "x": "目次：00:01 イントロと作者Jesús Ramirezの紹介 · 03:48 一貫したキャラクターを生成 · 07:08 リファレンスを合成して映画的なポスターに · 08:05 編集・拡大縮小できる出力のための全身アセット準備。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI菜单图片出错\nJust Eat公开致歉",
-          "body": "Just Eat应用的AI-generated菜单图片让培根和鸡蛋漂在汽水里，公司已致歉。",
-          "mini_headline": "Just Eat的AI菜单翻车",
+          "headline": "Firefly让同一角色\n贯穿多张海报",
+          "body": "Adobe教程用参考表技巧，让Firefly生成的人物在不同姿势和场景中都能被认出。",
+          "mini_headline": "一张脸，贯穿每张海报",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://petapixel.com/assets/uploads/2026/10/bacon-and-egg-ai-generated.jpg",
-                "cap": "Just Eat的AI图像生成器为多道菜品生成了不准确的图片，其中包括一款传统爱尔兰（Irish）培根鸡蛋苏打面包三明治。图片来源：Just Eat UK"
+                "t": "video",
+                "yt": "W1IYLaWyL70"
               },
               {
                 "t": "p",
-                "x": "外卖应用Just Eat就菜单上多张不准确的AI-generated照片致歉，其中一张显示培根和鸡蛋漂浮在汽水中。"
+                "x": "别再从零开始反复生成同一个角色了。学习参考表技巧，让你的AI主体在每种姿势、角度和场景中都能被认出。"
               },
               {
                 "t": "p",
-                "x": "在英国（U.K.）运营的Just Eat此前为未自行拍照的餐厅试用AI-generated图片，并为每张图片标注“AI-generated”。据The Independent报道，在顾客投诉后，公司已暂停这项试用。"
+                "x": "在本教程中，你将学会：制作多角度角色参考表，让每次新生成都锁定相同样貌；把角色参考表和背景合并到同一个提示词中，以控制姿势、光照和景深；将全身素材分离出来并延展到中性背景上，便于裁剪、缩放和调整格式。"
               },
               {
                 "t": "p",
-                "x": "北爱尔兰（Northern Ireland）一家售卖苏打面包三明治的餐厅，被配上了香肠、培根和煎蛋漂浮在一品脱碳酸饮料中的图片。椒盐薯条变成了埋在盐和胡椒里的普通薯条，一道切达奶酪菜品则显示为一种类似芝士火锅的橙色酱汁。"
+                "x": "非常适合电影海报、角色设计项目和营销活动概念。"
               },
               {
                 "t": "p",
-                "x": "Just Eat表示：“我们一直在试用AI-enhanced图片，和任何新技术一样，第一次并不总能做到完全正确。”“对于已发布的不准确图片，我们深表歉意。”公司正在删除这些图片，并在开发该工具期间暂停推广。"
+                "x": "目录：00:01 开场及认识作者Jesús Ramirez · 03:48 生成一致的角色 · 07:08 将参考素材合成为电影感海报 · 08:05 为可编辑、可缩放的输出准备全身素材。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Just Eat se disculpa por\nfotos de menú erróneas con AI",
-          "body": "Just Eat se disculpó por fotos de menú AI-generated inexactas en su app, con tocino y huevos flotando en un refresco.",
-          "mini_headline": "El tropiezo de Just Eat con menús de AI",
+          "headline": "Firefly mantiene un personaje\nigual en todos los carteles",
+          "body": "Un tutorial de Adobe usa una hoja de referencia para que un sujeto de Firefly se reconozca en cada pose y escena.",
+          "mini_headline": "Un rostro, todos los carteles",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "W1IYLaWyL70"
+              },
+              {
+                "t": "p",
+                "x": "Deja de regenerar el mismo personaje desde cero. Aprende el truco de la hoja de referencia que hace que tu sujeto de IA sea reconocible en cada pose, ángulo y escena."
+              },
+              {
+                "t": "p",
+                "x": "En este tutorial descubrirás cómo crear hojas de referencia de personajes con múltiples ángulos que mantienen el parecido fijo en cada nueva generación; combinar hojas de personaje y fondos en un solo prompt para dirigir la pose, la iluminación y la profundidad de campo; y aislar y extender recursos de cuerpo entero sobre un fondo neutro para recortarlos, escalarlos y cambiarles el formato con facilidad."
+              },
+              {
+                "t": "p",
+                "x": "Ideal para carteles de cine, proyectos de diseño de personajes y conceptos de campaña."
+              },
+              {
+                "t": "p",
+                "x": "Contenido: 00:01 Introducción y presentación del autor Jesús Ramirez · 03:48 Generar personajes coherentes · 07:08 Componer referencias en un cartel cinematográfico · 08:05 Preparar recursos de cuerpo entero para un resultado editable y escalable."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "design-nomic-arcadis-design-review",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI의 다음 병목은\n엔지니어의 책상",
+      "body": "Nomic이 Arcadis의 검토를 자동화하자 병목이 시니어 엔지니어로 옮겨 간다.",
+      "mini_headline": "엔지니어의 책상이 병목이다",
+      "tool": "Text-to-CAD",
+      "source": "AEC Magazine",
+      "url": "https://aecmag.com/automation/ais-next-bottleneck-is-the-engineers-desk/",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://aecmag.com/wp-content/uploads/2026/10/Nomic.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Nomic은 Arcadis의 엔지니어링 검토 자동화를 돕는다. 그래도 AI의 다음 병목은 여전히 그 검토를 확인해야 하는 시니어 엔지니어일 수 있다. Nomic CEO Andriy Mulyar는 “시니어 엔지니어링 인력이 검토할 수 있는 정신적 여력”이 제약이 된다고 말한다."
+          },
+          {
+            "t": "img",
+            "src": "https://aecmag.com/wp-content/uploads/2026/10/Andrij.jpg"
+          },
+          {
+            "t": "p",
+            "x": "도입은 도면 검토에서 시작해 시방서, 입찰, 제출 자료로 넓어졌다. Nomic에 전략적으로 투자한 Arcadis에 따르면, 6개월간 12개국에서 진행한 시범 사업 참가자의 86%가 Nomic 덕분에 일하는 방식이 바뀌었다고 답했다. 라이선스 사용자는 7월 이후 거의 500명으로 늘었고, 만들어진 워크플로는 750개가 넘는다."
+          },
+          {
+            "t": "p",
+            "x": "Nomic은 Autodesk, Procore(Datagrid 인수), Bluebeam과 경쟁한다. 이제 에이전트는 “사람이 이메일을 보기도 전에” 제출 자료 검토에 들어가 SharePoint에 결과를 올려 둘 수 있다. 그러니 시니어 엔지니어 책상 앞에 대기열이 쌓일 수 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://aecmag.com/wp-content/uploads/2026/10/image1.jpg"
+          },
+          {
+            "t": "p",
+            "x": "검토를 만드는 시간은 계산의 일부일 뿐이다. 일이 실제로 빨라졌는지는 그 검토를 확인하고 고치고 승인하는 시간에 달렸다. “바로 그 지점에서 더 빠른 AI가 더 빠른 엔지니어링이 되어야 한다.”"
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "AI's next bottleneck is\nthe engineer's desk",
+          "body": "As Nomic automates engineering reviews for Arcadis, senior engineers checking the AI's work become the new constraint.",
+          "mini_headline": "The engineer's desk\nis the bottleneck",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://petapixel.com/assets/uploads/2026/10/bacon-and-egg-ai-generated.jpg",
-                "cap": "El generador de imágenes con AI de Just Eat produjo imágenes inexactas de varios platos del menú, entre ellos un tradicional sándwich irlandés (Irish) de pan de soda con tocino y huevo. Crédito de la imagen: Just Eat UK"
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Nomic.jpg"
               },
               {
                 "t": "p",
-                "x": "La app de reparto de comida Just Eat pidió disculpas por varias fotos AI-generated inexactas en sus menús, entre ellas una imagen de tocino y huevos flotando en un refresco."
+                "x": "Nomic is helping Arcadis automate engineering reviews, but AI’s next bottleneck may be the senior engineers still responsible for checking them. Nomic CEO Andriy Mulyar says the constraint becomes “the mental bandwidth of our senior engineering staff’s ability to review things.”"
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Andrij.jpg"
               },
               {
                 "t": "p",
-                "x": "Just Eat, que opera en el Reino Unido (U.K.), estaba probando imágenes AI-generated para restaurantes que no habían tomado sus propias fotos, y marcaba cada una como \"AI-generated\". Según The Independent, suspendió la prueba tras las quejas de los clientes."
+                "x": "Drawing review got adoption moving, extending into specifications, tenders and submittals. Arcadis, which has backed Nomic with a strategic investment, reports that 86% of participants in its six-month, 12-country trial said Nomic changed how they approached their work; licensed users are up to almost 500 since July, with more than 750 workflows built."
               },
               {
                 "t": "p",
-                "x": "Un restaurante de Irlanda del Norte (Northern Ireland) que vende sándwiches de pan de soda recibió imágenes de salchichas, tocino y huevos fritos flotando en pintas de bebidas gaseosas. Las patatas con sal y pimienta aparecían como simples patatas fritas enterradas en sal y pimienta, y un plato con cheddar mostraba una salsa naranja parecida a una fondue."
+                "x": "Nomic faces competition from Autodesk, Procore (which acquired Datagrid) and Bluebeam. Agents can now start submittal checks “before the human even sees the email,” leaving engineers a prepared review in SharePoint, which is how the queue at the senior engineer’s desk could fill up."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/image1.jpg"
               },
               {
                 "t": "p",
-                "x": "\"Hemos estado probando imágenes AI-enhanced y, como con cualquier tecnología nueva, no siempre sale del todo bien la primera vez\", dijo Just Eat. \"Lamentamos las imágenes inexactas que se hayan publicado\". La empresa las está retirando y ha pausado el despliegue mientras desarrolla la herramienta."
+                "x": "The time taken to generate a review is only part of the calculation; the time taken to check, correct and approve it determines whether the work has actually moved faster. “That is where faster AI must become faster engineering.”"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI의 다음 병목은\n엔지니어의 책상",
+          "body": "Nomic이 Arcadis의 검토를 자동화하자 병목이 시니어 엔지니어로 옮겨 간다.",
+          "mini_headline": "엔지니어의 책상이 병목이다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Nomic.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Nomic은 Arcadis의 엔지니어링 검토 자동화를 돕는다. 그래도 AI의 다음 병목은 여전히 그 검토를 확인해야 하는 시니어 엔지니어일 수 있다. Nomic CEO Andriy Mulyar는 “시니어 엔지니어링 인력이 검토할 수 있는 정신적 여력”이 제약이 된다고 말한다."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Andrij.jpg"
+              },
+              {
+                "t": "p",
+                "x": "도입은 도면 검토에서 시작해 시방서, 입찰, 제출 자료로 넓어졌다. Nomic에 전략적으로 투자한 Arcadis에 따르면, 6개월간 12개국에서 진행한 시범 사업 참가자의 86%가 Nomic 덕분에 일하는 방식이 바뀌었다고 답했다. 라이선스 사용자는 7월 이후 거의 500명으로 늘었고, 만들어진 워크플로는 750개가 넘는다."
+              },
+              {
+                "t": "p",
+                "x": "Nomic은 Autodesk, Procore(Datagrid 인수), Bluebeam과 경쟁한다. 이제 에이전트는 “사람이 이메일을 보기도 전에” 제출 자료 검토에 들어가 SharePoint에 결과를 올려 둘 수 있다. 그러니 시니어 엔지니어 책상 앞에 대기열이 쌓일 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/image1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "검토를 만드는 시간은 계산의 일부일 뿐이다. 일이 실제로 빨라졌는지는 그 검토를 확인하고 고치고 승인하는 시간에 달렸다. “바로 그 지점에서 더 빠른 AI가 더 빠른 엔지니어링이 되어야 한다.”"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIの次のボトルネックは\nエンジニアの机",
+          "body": "NomicがArcadisの審査を自動化し、確認役のシニア技術者が制約になる。",
+          "mini_headline": "エンジニアの机がボトルネック",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Nomic.jpg"
+              },
+              {
+                "t": "p",
+                "x": "NomicはArcadisのエンジニアリング審査の自動化を支援しているが、AIの次のボトルネックは、その確認に責任を負い続けるシニアエンジニアかもしれない。NomicのCEO、Andriy Mulyarは、制約は「シニアエンジニアリングスタッフがレビューできる頭の余裕」になると語る。"
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Andrij.jpg"
+              },
+              {
+                "t": "p",
+                "x": "図面審査が導入の弾みとなり、仕様書、入札、提出書類へと広がった。Nomicに戦略的投資を行ったArcadisによると、6か月・12か国の試行で参加者の86%がNomicによって仕事の進め方が変わったと答えた。ライセンスユーザーは7月以降に500人近くまで増え、750を超えるワークフローが構築された。"
+              },
+              {
+                "t": "p",
+                "x": "NomicはAutodesk、Procore（Datagridを買収）、Bluebeamと競合する。エージェントは今や「人間がメールを見る前に」提出書類のチェックを始め、SharePointに準備済みのレビューを残せる。こうしてシニアエンジニアの机の前に待ち行列ができかねない。"
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/image1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "レビューの生成にかかる時間は計算の一部にすぎず、それを確認し、修正し、承認する時間こそが、仕事が実際に速くなったかを決める。「そこでこそ、より速いAIはより速いエンジニアリングにならなければならない」。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI的下一个瓶颈\n是工程师的办公桌",
+          "body": "Nomic为Arcadis自动化工程审查后，负责核查AI成果的资深工程师成了新瓶颈。",
+          "mini_headline": "工程师的办公桌成了瓶颈",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Nomic.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Nomic正在帮助Arcadis实现工程审查自动化，但AI的下一个瓶颈可能是仍需负责核查这些审查的资深工程师。Nomic CEO Andriy Mulyar表示，制约因素会变成“我们资深工程人员审查工作的精力”。"
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Andrij.jpg"
+              },
+              {
+                "t": "p",
+                "x": "图纸审查率先带动了采用，随后扩展到规范、招标和送审文件。对Nomic进行了战略投资的Arcadis表示，在为期六个月、覆盖12个国家的试点中，86%的参与者称Nomic改变了他们的工作方式；自7月以来，授权用户已增至近500人，构建的工作流超过750个。"
+              },
+              {
+                "t": "p",
+                "x": "Nomic面临来自Autodesk、Procore（已收购Datagrid）和Bluebeam的竞争。如今智能体可以“在人类看到邮件之前”就开始送审文件检查，并在SharePoint中为工程师准备好审查结果，资深工程师桌前的待办队列正可能因此越积越多。"
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/image1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "生成一份审查所需的时间只是计算的一部分；核查、修改并批准它所需的时间，才决定工作是否真的变快了。“正是在这里，更快的AI必须转化为更快的工程。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El próximo cuello de botella\nde la IA: la mesa del ingeniero",
+          "body": "Nomic automatiza revisiones para Arcadis y el nuevo límite son los ingenieros sénior que revisan el trabajo de la IA.",
+          "mini_headline": "La mesa del ingeniero es el cuello de botella",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Nomic.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Nomic ayuda a Arcadis a automatizar revisiones de ingeniería, pero el próximo cuello de botella de la IA podrían ser los ingenieros sénior que siguen siendo responsables de comprobarlas. El CEO de Nomic, Andriy Mulyar, dice que la limitación pasa a ser “el ancho de banda mental de nuestro personal sénior de ingeniería para revisar las cosas”."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Andrij.jpg"
+              },
+              {
+                "t": "p",
+                "x": "La revisión de planos impulsó la adopción, que se extendió a especificaciones, licitaciones y documentos de aprobación. Arcadis, que respaldó a Nomic con una inversión estratégica, informa que el 86% de los participantes en su prueba de seis meses en 12 países dijo que Nomic cambió su forma de abordar el trabajo; los usuarios con licencia han subido a casi 500 desde julio, con más de 750 flujos de trabajo creados."
+              },
+              {
+                "t": "p",
+                "x": "Nomic compite con Autodesk, Procore (que adquirió Datagrid) y Bluebeam. Los agentes ya pueden empezar a revisar documentos “antes de que el humano siquiera vea el correo”, dejando a los ingenieros una revisión preparada en SharePoint, y así es como podría llenarse la cola en la mesa del ingeniero sénior."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/image1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "El tiempo que se tarda en generar una revisión es solo parte del cálculo; el tiempo que se tarda en comprobarla, corregirla y aprobarla determina si el trabajo realmente avanzó más rápido. “Ahí es donde una IA más rápida debe convertirse en una ingeniería más rápida”."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI의 다음 병목은\n엔지니어의 책상",
+          "body": "Nomic이 Arcadis 검토를 자동화하자 시니어 엔지니어가 병목이 된다.",
+          "mini_headline": "엔지니어의 책상이 병목이다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Nomic.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Nomic은 Arcadis의 엔지니어링 검토 자동화를 돕고 있지만, AI의 다음 병목은 여전히 그 검토를 확인할 책임을 진 시니어 엔지니어일 수 있다. Nomic CEO Andriy Mulyar는 제약이 “시니어 엔지니어링 인력이 검토할 수 있는 정신적 여력”이 된다고 말한다."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Andrij.jpg"
+              },
+              {
+                "t": "p",
+                "x": "도면 검토가 도입에 물꼬를 텄고, 이후 시방서, 입찰, 제출 자료로 확장됐다. Nomic에 전략적 투자를 한 Arcadis는 6개월간 12개국에서 진행한 시범 사업 참가자의 86%가 Nomic 덕분에 일하는 방식이 바뀌었다고 답했다고 밝혔다. 라이선스 사용자는 7월 이후 거의 500명으로 늘었고, 구축된 워크플로는 750개가 넘는다."
+              },
+              {
+                "t": "p",
+                "x": "Nomic은 Autodesk, Procore(Datagrid 인수), Bluebeam과 경쟁한다. 이제 에이전트는 “사람이 이메일을 보기도 전에” 제출 자료 검토를 시작해 SharePoint에 검토 결과를 준비해 둘 수 있다. 바로 이 때문에 시니어 엔지니어의 책상 앞 대기열이 쌓일 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/image1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "검토를 생성하는 데 걸리는 시간은 계산의 일부일 뿐이다. 그것을 확인하고 수정하고 승인하는 데 드는 시간이 실제로 일이 빨라졌는지를 결정한다. “바로 그 지점에서 더 빠른 AI가 더 빠른 엔지니어링이 되어야 한다.”"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIの次のボトルネックは\nエンジニアの机",
+          "body": "NomicがArcadisの審査を自動化し、確認役のシニア技術者が制約になる。",
+          "mini_headline": "エンジニアの机がボトルネック",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Nomic.jpg"
+              },
+              {
+                "t": "p",
+                "x": "NomicはArcadisのエンジニアリング審査の自動化を支援しているが、AIの次のボトルネックは、その確認に責任を負い続けるシニアエンジニアかもしれない。NomicのCEO、Andriy Mulyarは、制約は「シニアエンジニアリングスタッフがレビューできる頭の余裕」になると語る。"
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Andrij.jpg"
+              },
+              {
+                "t": "p",
+                "x": "図面審査が導入の弾みとなり、仕様書、入札、提出書類へと広がった。Nomicに戦略的投資を行ったArcadisによると、6か月・12か国の試行で参加者の86%がNomicによって仕事の進め方が変わったと答えた。ライセンスユーザーは7月以降に500人近くまで増え、750を超えるワークフローが構築された。"
+              },
+              {
+                "t": "p",
+                "x": "NomicはAutodesk、Procore（Datagridを買収）、Bluebeamと競合する。エージェントは今や「人間がメールを見る前に」提出書類のチェックを始め、SharePointに準備済みのレビューを残せる。こうしてシニアエンジニアの机の前に待ち行列ができかねない。"
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/image1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "レビューの生成にかかる時間は計算の一部にすぎず、それを確認し、修正し、承認する時間こそが、仕事が実際に速くなったかを決める。「そこでこそ、より速いAIはより速いエンジニアリングにならなければならない」。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI的下一个瓶颈\n是工程师的办公桌",
+          "body": "Nomic为Arcadis自动化工程审查后，负责核查AI成果的资深工程师成了新瓶颈。",
+          "mini_headline": "工程师的办公桌成了瓶颈",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Nomic.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Nomic正在帮助Arcadis实现工程审查自动化，但AI的下一个瓶颈可能是仍需负责核查这些审查的资深工程师。Nomic CEO Andriy Mulyar表示，制约因素会变成“我们资深工程人员审查工作的精力”。"
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Andrij.jpg"
+              },
+              {
+                "t": "p",
+                "x": "图纸审查率先带动了采用，随后扩展到规范、招标和送审文件。对Nomic进行了战略投资的Arcadis表示，在为期六个月、覆盖12个国家的试点中，86%的参与者称Nomic改变了他们的工作方式；自7月以来，授权用户已增至近500人，构建的工作流超过750个。"
+              },
+              {
+                "t": "p",
+                "x": "Nomic面临来自Autodesk、Procore（已收购Datagrid）和Bluebeam的竞争。如今智能体可以“在人类看到邮件之前”就开始送审文件检查，并在SharePoint中为工程师准备好审查结果，资深工程师桌前的待办队列正可能因此越积越多。"
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/image1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "生成一份审查所需的时间只是计算的一部分；核查、修改并批准它所需的时间，才决定工作是否真的变快了。“正是在这里，更快的AI必须转化为更快的工程。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El próximo cuello de botella\nde la IA: la mesa del ingeniero",
+          "body": "Nomic automatiza revisiones para Arcadis y el nuevo límite son los ingenieros sénior que revisan el trabajo de la IA.",
+          "mini_headline": "La mesa del ingeniero es el cuello de botella",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Nomic.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Nomic ayuda a Arcadis a automatizar revisiones de ingeniería, pero el próximo cuello de botella de la IA podrían ser los ingenieros sénior que siguen siendo responsables de comprobarlas. El CEO de Nomic, Andriy Mulyar, dice que la limitación pasa a ser “el ancho de banda mental de nuestro personal sénior de ingeniería para revisar las cosas”."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/Andrij.jpg"
+              },
+              {
+                "t": "p",
+                "x": "La revisión de planos impulsó la adopción, que se extendió a especificaciones, licitaciones y documentos de aprobación. Arcadis, que respaldó a Nomic con una inversión estratégica, informa que el 86% de los participantes en su prueba de seis meses en 12 países dijo que Nomic cambió su forma de abordar el trabajo; los usuarios con licencia han subido a casi 500 desde julio, con más de 750 flujos de trabajo creados."
+              },
+              {
+                "t": "p",
+                "x": "Nomic compite con Autodesk, Procore (que adquirió Datagrid) y Bluebeam. Los agentes ya pueden empezar a revisar documentos “antes de que el humano siquiera vea el correo”, dejando a los ingenieros una revisión preparada en SharePoint, y así es como podría llenarse la cola en la mesa del ingeniero sénior."
+              },
+              {
+                "t": "img",
+                "src": "https://aecmag.com/wp-content/uploads/2026/10/image1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "El tiempo que se tarda en generar una revisión es solo parte del cálculo; el tiempo que se tarda en comprobarla, corregirla y aprobarla determina si el trabajo realmente avanzó más rápido. “Ahí es donde una IA más rápida debe convertirse en una ingeniería más rápida”."
               }
             ]
           }

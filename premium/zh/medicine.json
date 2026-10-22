@@ -1794,6 +1794,139 @@
           "x": "University of Surrey的Miroslaw Bober教授称其为“一项有前景的概念验证，但尚不能用于临床”，并警告：“预测结果并不等于解释结果。”"
         }
       ]
+    },
+    "medicine/medicine-sentara-regard-case-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1489370843.jpg?VersionId=TgJt3wnG4D8o0Y1CLBmihDbxRdigvp0."
+        },
+        {
+          "t": "p",
+          "x": "非营利医疗系统Sentara Health于周二部署了与临床决策支持公司Regard共同开发的全新人工智能个案管理解决方案。"
+        },
+        {
+          "t": "p",
+          "x": "个案管理员可以通过该工具用日常语言查询病历，快速获取病史和状态变化等关键信息，还可查看最近24小时内的变化。"
+        },
+        {
+          "t": "p",
+          "x": "Sentara首席健康信息官Rollin Reeder, M.D.表示：“想想我们过去在患者甚至还没开始做出院计划之前，要花多少时间拼凑他们的病情经过，真是不可思议。”"
+        },
+        {
+          "t": "p",
+          "x": "Sentara计划将该工具推广至整个急症护理领域，并扩展到门诊护理。高管表示，这可节省近90,000小时，相当于超过40名全职员工和近$5 million 的人力成本。Sentara在弗吉尼亚州(Virginia)和北卡罗来纳州东北部(Northeast North Carolina)运营着12家医院和400多个医疗服务点。"
+        },
+        {
+          "t": "p",
+          "x": "Regard CEO Eli Ben-Joseph表示，其平台已提出超过20 million 项获医生认可的诊断，将其扩展至运营团队是“自然而然的下一步”。"
+        }
+      ]
+    },
+    "medicine/medicine-coreline-neck-ct-lung-cancer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.bosa.co.kr/news/photo/202610/3014596_415527_236.png"
+        },
+        {
+          "t": "p",
+          "x": "利用为确认特定疾病而拍摄的CT，进而发现检查目的之外的隐匿重症疾病的“机会性筛查(Opportunistic Screening)”，正成为医疗AI行业的核心议题。"
+        },
+        {
+          "t": "p",
+          "x": "利用Coreline Soft的胸部CT肺结节分析解决方案“AVIEW LCS”，在颈部CT判读中检出易被忽视的早期肺癌病变的临床研究，发表于国际学术期刊《Korean Journal of Radiology》最新刊。颈部CT的扫描范围下端会包含部分肺尖，但阅片医生的视线集中在颈部周围，边缘的小肺部病变常被遗漏。"
+        },
+        {
+          "t": "p",
+          "x": "韩国某上级综合医院研究团队对2008~2024年间接受颈部CT检查的8万1794名成年人进行回顾性追踪，发现在后来确诊肺癌的患者中，既往颈部CT上已拍到病变的病例有123例。其中65.0%即80人的判读记录中完全没有肺部病变的描述。漏诊组到最终确诊的中位时间为27.5个月，T·N·M中有任何指标恶化的比例为47.5%，是即时发现组(11.6%)的4倍以上。"
+        },
+        {
+          "t": "p",
+          "x": "研究团队将AVIEW LCS应用于80例漏诊病例，尽管该胸部专用算法并未针对颈部CT重新训练，仍检出了80例中的41例(灵敏度51.3%)。虽然假阳性率、特异度等仍有待进一步验证，但业界认为，这项研究为特定部位用AI可在其他部位影像中充当补充安全网提供了探索性依据。"
+        },
+        {
+          "t": "p",
+          "x": "Coreline Soft提出用单次胸部CT同时分析肺结节、COPD·肺气肿和冠状动脉钙化的“One CT, Multi-Disease”战略，2026年上半年营收同比增长45.7%，海外营收增长123.0%。"
+        }
+      ]
+    },
+    "medicine/medicine-llm-choosing-wisely": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/artificial-intelligence-ai-binary-code-400.8uQeMX4Imz.jpg?auto=format%2Ccompress&fit=fillmax&q=70&w=400"
+        },
+        {
+          "t": "p",
+          "x": "10月19日发表于Annals of Internal Medicine的研究结果显示，大语言模型(LLMs)在Choosing Wisely测试中很少建议不必要的医疗，但在甲状腺超声方面更易出现此类问题。"
+        },
+        {
+          "t": "p",
+          "x": "由特拉维夫(Tel Aviv)Clalit Health Services的Dean Ariel, MD领导的团队，利用15项Choosing Wisely建议设计了225个场景，再以临床医生视角的提示词测试了六款商用LLM，共生成4,050条回答。"
+        },
+        {
+          "t": "p",
+          "x": "LLM建议的过度医疗(LLM-recommended overuse)出现在5.4%的病例中，15项建议中有八项完全没有出现。其中大部分来自两项：针对偶然发现的亚厘米结节的甲状腺超声(占回答的42.8%)，以及低风险成人的常规心电图检查(28.3%)。错误克制出现在0.6%的病例中，PSA筛查最高，为3.3%。"
+        },
+        {
+          "t": "p",
+          "x": "针对小型偶发结节的甲状腺超声，是该研究中唯一在各学会指南间存在明确分歧的建议。作者写道：“分歧所在，也是模型所面对的，正是是否要做影像检查。”"
+        },
+        {
+          "t": "p",
+          "x": "同期社论呼吁开展基于真实病例的研究，并称这是首项明确针对过度医疗的已发表研究。"
+        }
+      ]
+    },
+    "medicine/medicine-brainomix-elung-fibrosis": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-2135067814.jpg?h=d5eed9cb&itok=YDymF8NG"
+        },
+        {
+          "t": "p",
+          "x": "发表于Annals of the American Thoracic Society的新多中心研究显示，人工智能驱动的定量CT分析能够在临床诊断前数月识别出肺纤维化迹象。"
+        },
+        {
+          "t": "p",
+          "x": "这项回顾性研究使用获FDA许可(FDA-cleared)的定量CT工具Brainomix的e-Lung，评估了University of Chicago、Weill Cornell Medicine和University of Alabama at Birmingham的509名纤维化间质性肺病患者。该研究由Boehringer Ingelheim资助。"
+        },
+        {
+          "t": "p",
+          "x": "这些指标比临床肺纤维化诊断平均提前16个月识别出影像学进展，在某个中心最多提前28个月。在检查时被视为临床稳定的患者中，它们也在相当比例的人身上检测到了进展。"
+        },
+        {
+          "t": "p",
+          "x": "较高的基线加权网状血管评分与未来肺纤维化风险升高相关，而连续CT上总病变范围变化1.5%与死亡率上升相关。Brainomix和Boehringer Ingelheim计划通过前瞻性多中心美国(U.S.)研究PROGRESS-PPF继续推进。"
+        }
+      ]
+    },
+    "medicine/medicine-epic-connectors": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
+          "cap": "从March 2027起，医疗机构可在Epic Showroom上找到开发者创建的Connectors。(ismagilov/GettyImages)"
+        },
+        {
+          "t": "p",
+          "x": "Epic推出了“Connectors”，让开发者把自家应用接入Epic的AI工具：面向患者的助手Emmie、面向临床医生的助手Art、负责收入周期与运营的AI Penny，以及医疗系统在Agent Factory中自建的定制智能体。该消息在Open@Epic大会前发布。"
+        },
+        {
+          "t": "p",
+          "x": "在Epic举的例子中，Connector从救护车应用获取到达时间，让ED（急诊科）提前准备；Emmie则直接在膳食应用中为住院患者下单订餐。智能体可将多个Connectors串联成一个多步骤工作流。"
+        },
+        {
+          "t": "p",
+          "x": "Epic初期将以Model Context Protocol（MCP）为标准。医疗系统在启用前会审查每个Connector能读取和更改的内容，Epic将向在Showroom上架的开发者收费（价格未披露）。"
+        },
+        {
+          "t": "p",
+          "x": "Epic VP Johnston Thayer表示：“这些功能不会带来新的自主操作。”部分医疗系统合作伙伴的测试将于年底前启动。"
+        }
+      ]
     }
   }
 }

@@ -7611,6 +7611,129 @@
           "x": "Spotify explica que combina la interacción y los comentarios de los oyentes, los patrones de subida, los metadatos y herramientas de detección de AI de terceros para determinar si una pista puede ser basura AI-generated. El año pasado, la compañía dijo haber eliminado más de 75 millones de canciones identificadas como spam. También se ha asociado con Universal Music Group y Believe para lanzar una herramienta de creación de remezclas musicales con AI."
         }
       ]
+    },
+    "music/music-umg-tyger-license": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/08/universal-music-group-logo-smartphone-billboard-1800.jpg?w=1024",
+          "cap": "Ilustración fotográfica de Timon Schneider/SOPA Images/LightRocket via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Universal Music Group anunció el jueves (22 de octubre) un acuerdo de licencia con TYGER. TYGER utiliza IA para que la música se adapte en tiempo real a la partida de los fans. El nuevo acuerdo permite la participación de artistas de UMG, y los usuarios de TYGER tendrán acceso a una selección de canciones de UMG."
+        },
+        {
+          "t": "p",
+          "x": "TYGER ya contaba con más de 400.000 canciones en su plataforma, principalmente de artistas independientes. El nuevo acuerdo es el primero que firma con una gran discográfica."
+        },
+        {
+          "t": "p",
+          "x": "“Los videojuegos son el lugar donde la próxima generación pasa su tiempo, descubre la cultura y se conecta con sus amigos, pero la música nunca ha tenido una vía nativa para llegar a ese público”, dijo Nick Venti, CEO y cofundador de TYGER."
+        },
+        {
+          "t": "p",
+          "x": "Michael Nash, director digital y vicepresidente ejecutivo de UMG, afirmó que gracias al acuerdo “nuestros artistas y su música podrán poner banda sonora a experiencias de juego personalizadas y conectar con millones de jugadores y fans de todo el mundo”. A comienzos de este año, UMG también firmó un acuerdo de licencia con Spotify para remezclas con IA en la plataforma."
+        }
+      ]
+    },
+    "music/music-mixagent-post-production": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "MixAgent es un flujo agéntico para la posproducción musical que sigue el método de trabajo de los ingenieros de sonido para elaborar planes de mezcla interpretables y editables guiados por una canción de referencia. El trabajo procede de investigadores de Rice University y Sony."
+        },
+        {
+          "t": "p",
+          "x": "Primero, un agente de agrupación dirige las pistas de entrada relacionadas, como las grabaciones de batería, a subgrupos. Después, un agente de planificación usa ejemplos recuperados para elegir y ordenar efectos de audio, como el control de volumen y la reverberación, para las pistas, los subgrupos y la mezcla completa. Para pulir la mezcla, un detector identifica lo que debe corregirse y un crítico propone ajustes numéricos de parámetros."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.29093v1/MixAgent_Pipeline_v4.png",
+          "cap": "Figura 2: Visión general de MixAgent."
+        },
+        {
+          "t": "p",
+          "x": "Los autores comprobaron que pedir a modelos multimodales recientes que escuchen y revisen suele empeorar la mezcla. Por eso crearon MixCritic, un conjunto de 45.657 críticas de corrección derivadas de parámetros ajustados a mezclas profesionales, y entrenaron al crítico con ajuste fino supervisado seguido de optimización de preferencias."
+        },
+        {
+          "t": "p",
+          "x": "En MedleyDB, el refinamiento aprendido reduce el error un 19% respecto a la mezcla inicial, y la optimización de preferencias lo reduce un 8,4% más que el entrenamiento supervisado por sí solo. En una prueba de escucha con personas, MixAgent obtuvo mejores valoraciones de calidad que las mezclas producidas por Qwen3-Omni, Gemini 3.8 Flash y GPT-4o-audio."
+        }
+      ]
+    },
+    "music/music-fontaines-dc-marianne-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.vice.com/wp-content/uploads/sites/2/2026/10/Fontaines-D.C1.jpg?w=1200",
+          "cap": "Foto de Kieran Frost/Redferns"
+        },
+        {
+          "t": "p",
+          "x": "Fontaines D.C. publicó su último álbum, Dopamine Chamber, el 16 de octubre de 2026 y, en una situación que el líder Grian Chatten calificó de “irónica”, la banda se vio sorprendida por la noticia de que alguien usó IA en algún punto del proceso de creación del video de “Marianne”."
+        },
+        {
+          "t": "p",
+          "x": "“En algún momento del proceso, alguien del equipo de VFX, supongo, usó algún tipo de IA en el flujo de trabajo”, dijo Chatten a Los Angeles Times. “Y a ninguno de nosotros nos lo dijeron. Al parecer, ni siquiera se lo dijeron a nuestro sello ni a nuestro mánager, y fue un verdadero shock”."
+        },
+        {
+          "t": "p",
+          "x": "Chatten explicó que las escenas y efectos principales se hicieron con VFX y prótesis, y que “más de 110 personas trabajaron en ello”. Añadió: “A partir de ahora vamos a dejar por escrito en nuestros contratos que no puede aparecer en nuestros videoclips”."
+        },
+        {
+          "t": "p",
+          "x": "La ironía es mayor porque Dopamine Chamber es un comentario sobre la dependencia de la sociedad respecto a la tecnología, las redes sociales y la IA. “La IA está literalmente volviendo obsoletas nuestras almas y creo que eso es la verdadera muerte”, dijo Chatten."
+        }
+      ]
+    },
+    "music/music-anthropic-lyrics-dilution": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/anthropic.png"
+        },
+        {
+          "t": "p",
+          "x": "Un tribunal de Estados Unidos volvió a examinar si el entrenamiento de IA constituye uso legítimo según la ley de derechos de autor estadounidense, esta vez en la disputa entre Anthropic y las editoras musicales Universal, Concord y ABKCO, en la que ambas partes intentaron convencer a la jueza Eumi Lee de dictar sentencia sumaria a su favor."
+        },
+        {
+          "t": "p",
+          "x": "La parte más interesante de la audiencia giró en torno a si las nuevas letras que genera Claude, tras entrenarse con letras creadas por personas de las editoras, diluyen el valor de mercado de las canciones originales."
+        },
+        {
+          "t": "p",
+          "x": "En nombre de las editoras, Matthew J Oppenheim afirmó que hay pruebas de que Claude recibió casi 120.000 solicitudes de “letras sintéticas” en un periodo de seis meses, y sostuvo que la música generada por IA (AI-generated) “podría saturar fácilmente el mercado”."
+        },
+        {
+          "t": "p",
+          "x": "La jueza Lee pareció pedir pruebas tangibles de esa dilución del mercado. La abogada de Anthropic, Sonal Mehta, dijo que “no hay nada en el expediente que muestre una catástrofe para la industria musical” y añadió que Universal ha dicho a sus inversores que la IA es “abrumadoramente positiva en términos netos” para la industria musical."
+        }
+      ]
+    },
+    "music/music-apple-samplab": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/10/Apple-Samplab@2000x1500-1068x801.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apple ha adquirido Samplab, un desarrollador suizo cuyo editor de audio ofrece edición MIDI-style de audio digital: detección de acordes con exportación MIDI, ajuste de tempo y tonalidad de las muestras y separación detallada de stems con notas individuales editables."
+        },
+        {
+          "t": "p",
+          "x": "Samplab tenía un plan gratuito limitado a muestras mono de 10 segundos y un plan Premium de £9.99 al mes. Sus desarrolladores dicen que el plugin “usa AI para transcribir audio polifónico en notas MIDI editables conservando el timbre original”."
+        },
+        {
+          "t": "p",
+          "x": "Logic Pro ya ofrece parte de esto con Flex Pitch, pero hoy editar notas polifónicas en cualquier DAW exige un plugin como Melodyne o RipX. MusicTech prevé que Apple integre las funciones de Samplab directamente en Logic Pro, quizá ampliando la separación de stems más allá de los cuatro habituales, y que tal vez las lleve a Logic for iPad, GarageBand o Final Cut Pro."
+        },
+        {
+          "t": "p",
+          "x": "Apple ha adoptado ante la AI un enfoque menos agresivo que sus rivales; MusicTech espera que más adquisiciones como esta se integren discretamente en sus flujos de trabajo de software."
+        }
+      ]
     }
   }
 }

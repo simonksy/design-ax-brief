@@ -8102,6 +8102,150 @@
           "x": "Los investigadores dijeron que querían estudiar cómo se coordinan los equipos de agentes en un entorno totalmente visible antes de confiar a estos sistemas tareas del mundo real: \"Las habilidades necesarias para resolver Minecraft, como coordinar un equipo, recuperarse de un fallo y perseguir un objetivo durante más de un día, son también las que los agentes necesitan para trabajar de forma fiable junto a las personas.\""
         }
       ]
+    },
+    "games/games-epic-ai-megajam": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7M3WodRrErU8qfasfyuLrW-2560-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Epic está dispuesta a pagar a aspirantes a vibe coders en una game jam AI-focused, con la promesa de 65.000 dólares en premios en efectivo y posibles ayudas de 50.000 dólares para proyectos “destacados”."
+        },
+        {
+          "t": "p",
+          "x": "La AI MegaJam 2026 se celebra del 12 al 15 de noviembre, con inscripción abierta en Itch.io, y reta a los participantes a crear juegos con Unreal Engine o UEFN. “Incorpora cualquier herramienta de IA a tu flujo de trabajo, desde la generación de recursos hasta los agentes de programación”, indica la compañía."
+        },
+        {
+          "t": "p",
+          "x": "Los premios incluyen 2.500 dólares para el “mejor diario de desarrollo que muestre cómo usaste herramientas de IA para crear tu juego” y para el mejor juego con NPCs LLM-driven, además de “ayudas de continuidad de desarrollo de hasta 50.000 dólares para seguir construyendo después de la jam”."
+        },
+        {
+          "t": "p",
+          "x": "Con un arte promocional de seis dedos y el lema “vibe your way to 50K”, Epic se burla claramente de los críticos de la IA. Las respuestas en Twitter no han sido nada amables, y el rechazo de los desarrolladores a la IA ha sido fuerte y constante desde hace tiempo."
+        }
+      ]
+    },
+    "games/games-switch2-ai-jailbreak": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-10.19.11-AM.png?quality=90&strip=all&crop=1.7484243697479%2C0%2C96.503151260504%2C100&w=1200",
+          "cap": "Imagen: pepsipu en X"
+        },
+        {
+          "t": "p",
+          "x": "Al parecer, la Nintendo Switch 2 ha sido liberada mediante jailbreak, y un modder ya ha mostrado la consola ejecutando una versión personalizada de Mario Kart World con nuevos personajes jugables como Cinnamoroll, el Angry Bird rojo, Peter Griffin y Steve de Minecraft."
+        },
+        {
+          "t": "p",
+          "x": "Codex de OpenAI ayudó a crear este jailbreak “ns2jb”, según Sammy Hajhamid, alias “pepsipu”. Es un jailbreak tethered y solo por software, lo que en este caso significa que hay que ejecutarlo desde un juego cada vez que se enciende la consola para que funcione. Este exploit requiere el juego SmileBASIC 4, que permite a los usuarios programar y jugar juegos (aunque otro modder afirma que el título “no es estrictamente necesario”)."
+        },
+        {
+          "t": "p",
+          "x": "Este jailbreak sigue pareciendo extremadamente complejo para la mayoría de la gente, y su impacto real aún no está claro; los usuarios del subreddit de hacks de la Switch 2 debaten cuán importante es en realidad. Aun así, esto podría marcar el inicio de una serie de exploits para la Switch 2, sobre todo si los modders recurren a la IA."
+        }
+      ]
+    },
+    "games/games-machinarium-ai-tribute": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/QovyvgnTDavqyf4mSEdhu6-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El 20 de octubre, el CEO de Nura Studios, empresa de “narrativa con IA”, publicó un homenaje, ya eliminado, a Machinarium, el clásico de culto de 2009 de Amanita Design. Vi un fragmento del video mientras seguía publicado y era innegablemente generado por IA, aunque eso probablemente no haga falta decirlo dada su procedencia."
+        },
+        {
+          "t": "p",
+          "x": "No era bueno, pero es que Amanita Design es uno de los estudios con mayor personalidad visual del mundo. El equipo con sede en Chequia también está entre los más contundentes, a juzgar por su respuesta al video de Nura Studios."
+        },
+        {
+          "t": "p",
+          "x": "“El descaro de alimentar a una IA con los recursos de Machinarium, hacer animaciones basura con IA y llamarlo carta de amor…”, tuiteó el estudio sobre el homenaje con IA. “Las cartas de amor deberían escribirse a mano. Esto se ve repugnante y no tiene nada que ver con nosotros ni con nuestro oficio”."
+        },
+        {
+          "t": "p",
+          "x": "Ay. En estas circunstancias, un estudio normalmente ignoraría con cortesía los torpes acercamientos de un grupo como Nura Studios, cuya misión es “empoderar a los creadores con una plataforma de IA dirigida por humanos para dar vida a historias de alta calidad”, y cuyo sitio web luce así:"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/fnYAu3QZaHxVQvx45ofhNA-1200-80.png",
+          "cap": "Crédito de la imagen: Nura Studios"
+        },
+        {
+          "t": "p",
+          "x": "Así que es reconfortante ver a Amanita plantar cara."
+        },
+        {
+          "t": "p",
+          "x": "El CEO de Nura Studios, Sylvio Drouin, sí mostró arrepentimiento. “Lamentamos mucho la publicación que hicimos”, tuiteó Drouin. “Pensamos que era un homenaje a su increíble trabajo y ya eliminé las publicaciones; de nuevo, por favor acepten nuestras sinceras disculpas”."
+        },
+        {
+          "t": "p",
+          "x": "Amanita Design aún no ha aceptado públicamente las disculpas. Su próximo juego, Machinarium 2, se anunció a principios de este mes."
+        }
+      ]
+    },
+    "games/games-arc-raiders-chatgpt-support": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/rNhJaVUEevSjNDA7SxKetK-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El equipo de soporte de Arc Raiders, del estudio Embark Studios, habría usado ChatGPT para atender la consulta de un jugador y le envió por error varios mensajes que al parecer iban dirigidos a otros jugadores."
+        },
+        {
+          "t": "p",
+          "x": "El usuario de Reddit a1vmp1 compartió chats marcados por intercambios de instrucciones y respuestas de ChatGPT. “Crea una respuesta breve”, dice una aparente instrucción. “Pide captura de pantalla de los árboles de habilidades actuales”, dice otra. La cadena parece contener unos 10 intercambios distintos."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/PG7DLjdgnsbu6ZnbikD2nQ-1200-80.jpg",
+          "cap": "Crédito de la imagen: Embark Studios"
+        },
+        {
+          "t": "p",
+          "x": "La respuesta a a1vmp1, que perdió todo su equipamiento “a los 20 segundos de aparecer por un problema del juego”, decía que Embark “no puede restaurar objetos perdidos ni puntuaciones de pruebas”. GamesRadar+ la pasó por detectores de AI-text de Grammarly, Solvely y GPTZero; todos la calificaron como 100% AI-made. Embark no ha respondido a una solicitud de comentarios."
+        },
+        {
+          "t": "p",
+          "x": "“Resulta especialmente pernicioso recibir frases hechas como 'entendemos tu frustración' cuando ese 'nosotros' ni siquiera existe aquí”, se queja un jugador."
+        }
+      ]
+    },
+    "games/games-raon1mini": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/gmdata/0001/782/130/gm596105_48496.webp"
+        },
+        {
+          "t": "p",
+          "x": "Krafton publicó el día 21 la versión preliminar de Raon-1 mini, un modelo de lenguaje de gran tamaño de 30.000 millones de parámetros desarrollado internamente. Se distribuye como código abierto bajo la licencia Apache 2.0 a través de Hugging Face, de modo que cualquiera puede descargarlo gratis y usarlo no solo para investigación, sino también para servicios comerciales y desarrollo de productos."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/345/151/20261021144802.jpg",
+          "cap": "Tabla de rendimiento de Raon-1 mini en pruebas de referencia (Fuente de la foto: Hugging Face)"
+        },
+        {
+          "t": "p",
+          "x": "Krafton llevó a cabo todo el proceso, desde el diseño del modelo hasta el entrenamiento desde cero, y el modelo admite inglés y coreano. Combina una arquitectura de mezcla de expertos (MoE), que activa solo los 4.000 millones de parámetros necesarios de un total de 30.000 millones, con una tecnología propia de atención lineal, lo que permite respuestas rápidas y un bajo costo de inferencia."
+        },
+        {
+          "t": "p",
+          "x": "En algunos indicadores se acerca al nivel de los grandes modelos surcoreanos y, gracias a su capacidad para seguir instrucciones, puede usarse como agente en tareas de varios pasos. Krafton planea mejorar su rendimiento con actualizaciones continuas antes de lanzar la versión oficial y, cuando la lance, publicará también un informe técnico sobre el proceso de entrenamiento y el rendimiento final."
+        },
+        {
+          "t": "p",
+          "x": "Lee Kang-wook, CAIO de Krafton, afirmó: \"Con un modelo de lenguaje de gran tamaño rentable, que eleva el rendimiento y reduce la carga de costos, ampliaremos el uso de la AI en diversos sectores industriales\". En abril, Krafton lanzó su marca de modelos de AI 'Raon' y publicó como código abierto 4 modelos, entre ellos Raon Speech."
+        }
+      ]
     }
   }
 }

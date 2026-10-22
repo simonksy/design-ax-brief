@@ -8007,6 +8007,161 @@
           "x": "SekondoはAdobeの審査を通過し、これらのアプリ向けの公式マーケットプレイスであるAdobe Exchangeで公開されている。macOSとWindowsで、ClaudeおよびChatGPTのデスクトップアプリと組み合わせて動作する。"
         }
       ]
+    },
+    "movies/movies-stage32-vetted-marketplace": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2025/07/RBCannes-e1752566295303.jpg?w=1024",
+          "cap": "Richard Botto"
+        },
+        {
+          "t": "p",
+          "x": "EXCLUSIVE：脚本プラットフォームStage 32が、AIで書かれた（AI-written）企画の流入への対策の一環として、公式マーケットプレイスを立ち上げた。"
+        },
+        {
+          "t": "p",
+          "x": "昨日開設されたStage 32 Marketplaceでは、人間による「評価プロセス」で徹底的に審査された映画・TV企画を幹部が見つけられる。Stage 32の15年の歴史を通じて提出された脚本のうち「卓越した評価」を得たものだけが掲載され、幹部は各企画の実績を確認し、脚本や資料をダウンロードしながら、クリエイターとの面談を申し込める。"
+        },
+        {
+          "t": "p",
+          "x": "Stage 32によると、2011年の開始以来、235,000件の企画を評価してきた。マーケットプレイスは4,000件超の企画と、業界幹部3,000人のアクセスでスタートする。"
+        },
+        {
+          "t": "p",
+          "x": "Stage 32から生まれた最近の作品には、Jeffrey Dean MorganとJack Quaid出演のスリラーNeighborhood Watchや、William Baldwin主演のNo Addressがある。"
+        },
+        {
+          "t": "p",
+          "x": "Stage 32を運営するRichard Bottoは、同プラットフォームはAIを一切認めない厳格な方針をとっており、マーケットプレイスをAIスロップ対策の一つとして活用していると述べた。"
+        },
+        {
+          "t": "p",
+          "x": "「優れた作品は数多く書かれているが、プロデューサーや幹部には世に出ているすべてを評価する時間も資源もない」と、WGA所属の脚本家で、Sundance受賞作Another Happy DayのプロデューサーでもあるBottoは語った。"
+        },
+        {
+          "t": "p",
+          "x": "「私自身、脚本家でありプロデューサーとして、この課題を両側から見てきた。業界をより近づけるためにStage 32を作った。Marketplaceはそのビジョンの集大成だ」"
+        }
+      ]
+    },
+    "movies/movies-free-previz-iron-goddess": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "qlSI_ZbRdEc"
+        },
+        {
+          "t": "p",
+          "x": "Theoretically Mediaが取り上げるのは、AI動画向けに作られた無料のオープンソース3DプレビズツールCozyClay 3.0だ。生成前に狙いどおりのショットを決められる。Pinokio経由でワンクリックでインストールでき、ブラウザで動作し、GPUは不要だ。"
+        },
+        {
+          "t": "p",
+          "x": "エージェントがChatGPTのサインイン（Codex）またはAPIキー（Anthropic、OpenAI、Gemini）を通じてセットを組んでくれる。ショットのレンダリングは引き続き自前の動画モデルで行う。"
+        },
+        {
+          "t": "p",
+          "x": "PJによる硬いショットの対処法：3Dガイドによる生成が硬くなる場合は、プレビズのスクリーンショットを撮ってストーリーボードとして並べ、image-to-videoに切り替えれば、構図、レンズ、アスペクト比をそのまま保てる。"
+        },
+        {
+          "t": "p",
+          "x": "動画ではほかに、Arenaのバトルモードに現れた出所不明のAI動画モデルIron Goddessも紹介している。大きく速い動きを見せる一方、最も速い瞬間にはフレームがにじむ。さらにKlingのIPO報道、Ideogram Vector、Seedream 5.5のリークにも触れている。"
+        }
+      ]
+    },
+    "movies/movies-sanxingdui-ai-feature": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-20/9c488b41-a7f8-47e6-abc7-dbedefcad4fb.jpeg",
+          "cap": "中国初の完全AI生成長編映画『Sanxingdui』の宣伝素材 写真：Bona Film Group提供"
+        },
+        {
+          "t": "p",
+          "x": "劇場公開許可を得た中国初の完全AI生成（AI-generated）長編映画が金曜日に公開される。観客を失わずに新技術をどう取り入れるかに悩む業界にとって、試験運用となる。Sanxingduiは古代中国文明の謎を題材に、過去とAIが形づくる未来にまたがる物語を描く。"
+        },
+        {
+          "t": "p",
+          "x": "2年以上をかけて開発され、120万枚を超える下絵を生成し、作品全体を100回以上作り直した。製作費は1000万元（150万ドル）を超えた。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-20/0e49e80c-d8e8-4140-b137-b8636d2243bd.jpeg",
+          "cap": "中国初の完全AI生成長編映画『Sanxingdui』の宣伝素材 写真：Bona Film Group提供"
+        },
+        {
+          "t": "p",
+          "x": "Bona Film GroupのプロデューサーでCOOのJiang Defuは、チームは映画業界のプロセスに従い、バーチャルプロダクション環境で17の専門職に役割を分け、レビュー担当者が作品をフレーム単位で確認したと語った。"
+        },
+        {
+          "t": "p",
+          "x": "すでにCannesで上映された本作は、金曜日にマレーシアでも公開される。プロデューサーのQu Jixiaojiangは「AIはツールの面では条件を平等にしたが、クリエイター間の差は広げた」と語った。"
+        }
+      ]
+    },
+    "movies/movies-brahma-ai-face-replacement": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/featured/brahma2-1280.jpg?itok=3cjyb-Kd"
+        },
+        {
+          "t": "p",
+          "x": "10月14日、2026 Technology & Engineering EmmyのAI-Based Face Replacement and Performance-Preserving Post-Production Transformation部門は、Disney Research、Digital Domain、Rising Sun Pictures、そして2025年初めにMetaphysicのフォトリアルなデジタルヒューマン技術を買収したBrahma AIに贈られた。"
+        },
+        {
+          "t": "p",
+          "x": "受賞したのは、Robert Zemeckis監督の『Here』で初めて長編規模で使われたNeural Performance Toolsetだ。共同創業者でCTOのJo PlaeteがAWNに対し、その出発点となったABBA Voyageでの実験や、1億5000万ドルの資金調達について語った。"
+        },
+        {
+          "t": "video",
+          "yt": "QGKGSbghe_4"
+        },
+        {
+          "t": "p",
+          "x": "Plaete：「メインカメラで撮った普通の映像を渡すだけでいい。マーカーもヘッドリグもキャプチャーステージもなしに、俳優の顔の演技をすべて読み取る…そしてその演技を別の人物として再合成する」。『Here』では、Zemeckisはカメラから6フレーム遅れでモニター上に25歳のTom Hanksを見ていた。完成した映画には60分間の4K 変換が施された。"
+        },
+        {
+          "t": "p",
+          "x": "「映画館のスクリーンでは何も隠せない」と彼は言う。「モデルが5パーセントずれていれば、誰もが気づく」"
+        }
+      ]
+    },
+    "movies/movies-eddie-ai-plan-first": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hubfs/eddie%20ai%20updates-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "NAB Show New Yorkに合わせたEddie AIの最新アップデートは、有料の実行前に必ず計画を示し、Resolve Studioパネルを追加し、After Effectsのテンプレートを読み込めるようにした。新たなエンタープライズ機能として、Anthropic (Claude)、OpenAI (ChatGPT)、Google (Gemini)の自前キー持ち込み、オンプレミス実行、顧客によるIPの保有、顧客データを学習に使わない方針、SOC 2 Type IおよびIIの監査とGDPR認証が加わった。"
+        },
+        {
+          "t": "video",
+          "yt": "KaiEjtkvfek"
+        },
+        {
+          "t": "p",
+          "x": "クレジットを消費するプロンプトは、各ステップとそのうちクレジットがかかるステップを並べた計画をまず返す。ユーザーは承認するか、ステップを変更・削除でき、リストを承認するまで何も実行されず課金もされない。カラーグレードのように選択が必要なステップでは、Eddieが映像素材のスチルで選択肢を示す。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie%20ai%20prompts.jpg?width=1920&height=1080&name=eddie%20ai%20prompts.jpg"
+        },
+        {
+          "t": "p",
+          "x": "DaVinci Resolve Studioパネルはビンを閲覧し、素材、タイムライン、マルチカムクリップを取り込み、編集結果を新しいタイムラインとして戻す。「Source clips」書き出しはカメラ原本に再リンクしたFinal Cut Proのブラウザイベントを作り、Premiereのマルチカム・インタビューのカットは切り替え可能なマルチカムクリップとして再構成されるようになった。"
+        },
+        {
+          "t": "p",
+          "x": "無音やフィラーの除去から字幕、吹き替え、B-roll、縦型へのリサイズまで、単機能のページが十三追加された。新しいワークスペースの行には削減できた時間、実行したプロジェクト、書き出した編集が表示される。チームのワークスペースにはクレジットと予想所要時間が加わるが、編集者の順位付けやチームの比較を行う機能はない。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie-editor.jpg?width=1600&height=1000&name=eddie-editor.jpg"
+        }
+      ]
     }
   }
 }

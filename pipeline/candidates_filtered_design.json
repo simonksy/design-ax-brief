@@ -1,15 +1,109 @@
 {
   "section": "design",
-  "generated_at": "2026-10-21T22:00:00Z",
+  "generated_at": "2026-10-22T22:00:32Z",
+  "now_iso": "2026-10-22T22:00:32Z",
   "window_hours": 72,
   "items": [
+    {
+      "title": "Canva's first AI image model plans designs before generating them",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "source": "The Verge",
+      "category": "workflow",
+      "published_iso": "2026-10-22T21:51:25+00:00",
+      "excerpt": "Canva released Craft, its first in-house image generation model, built for design layouts rather than photography: it plans a composition before generating it, putting Canva in direct competition with OpenAI, Google and Microsoft image models.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+    },
+    {
+      "title": "Wildwood's director says AI is 'antithetical to everything that we are at this studio'",
+      "url": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
+      "source": "The Verge",
+      "category": "workflow",
+      "published_iso": "2026-10-22T16:16:15+00:00",
+      "excerpt": "LAIKA's Travis Knight explains why the stop-motion studio refuses generative AI in its craft pipeline for Wildwood: 'There's no humanity behind it.'",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/WILDWOOD-Curtis-Alexandra-Still-Credit_-LAIKA.jpg?quality=90&strip=all&crop=0%2C3.4699843686197%2C100%2C93.060031262761&w=1200"
+    },
+    {
+      "title": "How Lufthansa Systems prototypes realistic maps for the cockpit with Figma Make",
+      "url": "https://www.figma.com/blog/lufthansa-figma-make/",
+      "source": "Figma Blog",
+      "category": "figma",
+      "published_iso": "2026-10-22T14:50:00.000Z",
+      "excerpt": "Lufthansa Systems' designers use Figma Make's AI prompt-to-prototype flow to build dynamic, data-realistic cockpit map prototypes for pilot user testing instead of static mockups.",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/25a1a68c5c527f854a2b80c859e10fbd1cc1d8c0-3840x2160.png?w=1200&q=70&fit=max&auto=format"
+    },
+    {
+      "title": "AI Agent Actions: same rules for UI and agents",
+      "url": "https://www.builder.io/blog/ai-agent-actions",
+      "source": "Builder.io",
+      "category": "figma",
+      "published_iso": "2026-10-22T18:00:00.000Z",
+      "excerpt": "Builder.io argues apps should expose agent actions that enforce the same rules as the UI: if the interface blocks an edit, an AI agent shouldn't be able to make it either.",
+      "og_image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F5f1fc60e96244a54a127e9e35a704560?width=1200",
+      "history_match": {
+        "score": 0.221,
+        "date": "2026-10-15",
+        "url": "https://www.builder.io/blog/introducing-agent-native",
+        "title": "Introducing Agent-Native Beta: The Framework for Agentic Apps",
+        "band": "related"
+      }
+    },
+    {
+      "title": "I gave my coding agent a color palette library, and stopped pasting hex codes",
+      "url": "https://dev.to/yang7206/i-gave-my-coding-agent-a-color-palette-library-and-stopped-pasting-hex-codes-2c83",
+      "source": "DEV Community",
+      "category": "tokens",
+      "published_iso": "2026-10-22T14:05:41Z",
+      "excerpt": "A developer wires a structured color palette library into Claude as a tool so the coding agent pulls accessible, named design colors instead of inventing six random hex codes.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgxpmzmr0pr4x03ohfqk8.png"
+    },
+    {
+      "title": "How Siemens Designcenter is infusing cutting-edge technology into product development",
+      "url": "https://www.engineering.com/how-siemens-designcenter-is-infusing-cutting-edge-technology-into-product-development/",
+      "source": "Engineering.com",
+      "category": "cad",
+      "published_iso": "2026-10-22T13:55:07+00:00",
+      "excerpt": "Siemens details how Designcenter (NX) combines AI assistants, cloud and immersive capabilities to connect modern engineering and product-design workflows.",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/10/image-2.png"
+    },
+    {
+      "title": "AI's next bottleneck is the engineer's desk",
+      "url": "https://aecmag.com/automation/ais-next-bottleneck-is-the-engineers-desk/",
+      "source": "AEC Magazine",
+      "category": "cad",
+      "published_iso": "2026-10-22T18:51:23+00:00",
+      "excerpt": "Nomic is helping Arcadis automate engineering design reviews with AI, but the article argues the next bottleneck is human checking of AI-generated design output.",
+      "og_image": "https://aecmag.com/wp-content/uploads/2026/10/Nomic.jpg",
+      "history_match": {
+        "score": 0.213,
+        "date": "2026-10-21",
+        "url": "https://uxdesign.cc/anthropic-october-2026-study-human-attention-is-the-new-old-bottleneck-d7bc4642668a",
+        "title": "Human attention is the new old bottleneck. We have to design for it even more.",
+        "band": "related"
+      }
+    },
+    {
+      "title": "NVIDIA Cosmos opens new tools to train, evaluate and deploy world models",
+      "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+      "source": "NVIDIA Blog",
+      "category": "render",
+      "published_iso": "2026-10-22T05:00:27+00:00",
+      "excerpt": "New tools in NVIDIA Cosmos speed data pipelines and help teams train, evaluate and optimize world models at lower cost, feeding synthetic-scene generation for physical AI.",
+      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026.jpg",
+      "history_match": {
+        "score": 0.151,
+        "date": "2026-10-10",
+        "url": "https://www.engineering.com/aws-launches-open-source-toolchain-for-physical-ai-development/",
+        "title": "AWS open-sources a physical AI toolchain",
+        "band": "related"
+      }
+    },
     {
       "title": "A founder with a tool is not a founder with a clue",
       "url": "https://uxdesign.cc/a-founder-with-a-tool-is-not-a-founder-with-a-clue-65bccb0dc2f8",
       "source": "UX Collective",
       "category": "workflow",
-      "published_iso": "2026-10-21T21:50:55Z",
-      "excerpt": "Dan Maccarone argues AI lets solo founders ship code, design and marketing without a team, but can't supply the judgment to know whether the product is any good - the expertise designers bring.",
+      "published_iso": "2026-10-21T21:50:00Z",
+      "excerpt": "AI lets a solo founder ship a product alone, but can't tell them whether it's any good; the piece argues design judgment, not AI-generated output, still decides who wins.",
       "og_image": "https://cdn-images-1.medium.com/max/1024/1*XcVtMCEX_vCOtBKRxiMXCw.jpeg"
     },
     {
@@ -17,11 +111,11 @@
       "url": "https://uxdesign.cc/ai-doesnt-care-about-your-job-title-c08dd4fdf8d8",
       "source": "UX Collective",
       "category": "workflow",
-      "published_iso": "2026-10-20T21:29:28Z",
-      "excerpt": "Patrick Neeman says AI exposure runs through the weekly tasks designers do, not the title on their badge, and lays out a way to measure your own exposure across design files, roadmaps and code editors.",
+      "published_iso": "2026-10-20T21:29:00Z",
+      "excerpt": "AI exposure runs through the tasks a designer does each week, not the title on their badge; the author shows how to measure your own exposure and lower the risk.",
       "og_image": "https://cdn-images-1.medium.com/max/1024/1*rkrQndbiq5v4xo32eVP06A.png",
       "history_match": {
-        "score": 0.176,
+        "score": 0.184,
         "date": "2026-10-18",
         "url": "https://uxdesign.cc/the-ai-experience-doesnt-care-about-your-org-chart-5ed595c7b373",
         "title": "The AI experience doesn't care about your org chart",
@@ -29,217 +123,86 @@
       }
     },
     {
-      "title": "Can you take AI at its word?",
-      "url": "https://uxdesign.cc/can-you-take-ai-at-its-word-06126b976245",
+      "title": "Buy vs. build is now also a UX decision, especially in enterprise",
+      "url": "https://uxdesign.cc/buy-versus-build-is-now-also-a-ux-decision-especially-in-enterprise-6b4345715c63",
       "source": "UX Collective",
       "category": "workflow",
-      "published_iso": "2026-10-21T21:50:06Z",
-      "excerpt": "AI agents explain their own work fluently and sometimes wrongly; Dora Czerna argues designers should treat agent self-reports with the same skepticism they learned to apply to human accounts. (Feed carries a teaser only.)",
-      "og_image": "https://cdn-images-1.medium.com/max/1100/1*mPw95o9x2pcMCIOS87WGFA.png"
+      "published_iso": "2026-10-22T21:55:00Z",
+      "excerpt": "AI made building cheap and buying easy, so the buy-vs-build trade-off now turns on upkeep, tool seams, chat surfaces and data, and designers belong at that table.",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*nj8TtjChBWaVUnj1eBPjYQ.png"
     },
     {
-      "title": "I built a Claude Code skill that de-slops AI-generated web design",
-      "url": "https://dev.to/haoli/i-built-a-claude-code-skill-that-de-slops-ai-generated-web-design-42kn",
-      "source": "DEV Community",
-      "category": "tokens",
-      "published_iso": "2026-10-21T19:44:23Z",
-      "excerpt": "design-slop-skill is an open Claude Code skill that deterministically detects the 'AI look' in generated pages (huge radii, glassmorphism, red-purple gradients, dark-only, 64px centered heroes) and rewrites them toward human-crafted defaults.",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fscroodb62eav32be6wq3.png",
-      "history_match": {
-        "score": 0.21,
-        "date": "2026-10-09",
-        "url": "https://dev.to/skillgild/claudes-frontend-design-skill-what-it-does-with-a-real-run-5alm",
-        "title": "Claude's frontend-design skill: what it does, with a real run",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Figma embraces new AI paradigm but expresses reservations",
-      "url": "https://dev.to/hacksgr/figma-embraces-new-ai-paradigm-but-expresses-reservations-39n7",
-      "source": "DEV Community",
-      "category": "figma",
-      "published_iso": "2026-10-21T00:06:31Z",
-      "excerpt": "Figma co-founder Dylan Field called MCP incomplete and tilted toward big AI labs even as Figma added 20 MCP partners (Notion, ClickUp, Linear) at its India event. Repost of hacks.gr; original reporting by TechCrunch (2026-10-20).",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fhacks.gr%2Fwp-content%2Fuploads%2F2026%2F10%2Fgettyimages-1233645802.webp"
-    },
-    {
-      "title": "How to Extract a Website's Design System into DESIGN.md for Your AI Builder",
-      "url": "https://dev.to/khaled_sabry_b3ce59424b84/how-to-extract-a-websites-design-system-into-designmd-for-your-ai-builder-2fok",
-      "source": "DEV Community",
-      "category": "tokens",
-      "published_iso": "2026-10-21T13:18:52Z",
-      "excerpt": "A workflow for pulling design guidance from a reference site into a DESIGN.md that Lovable, Claude, Codex, Replit or Cursor can follow, so AI-built sites stop looking identical. Note: walkthrough uses the author's tool Preveo (promotional).",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpot3mp0crmwhdyoi20v.png"
-    },
-    {
-      "title": "The best a clone can do is tie",
-      "url": "https://www.builder.io/blog/the-best-a-clone-can-do-is-tie",
-      "source": "Builder.io",
-      "category": "figma",
-      "published_iso": "2026-10-20T18:00:00Z",
-      "excerpt": "Agents can now rebuild apps from the outside, but every clone is scored against the original, so the best it can do is tie; Builder.io argues for what product and design teams should build instead.",
-      "og_image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/2f5c755ab59946b98c9644492924cfef?width=1200"
-    },
-    {
-      "title": "Europe's Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
-      "url": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
-      "source": "NVIDIA Blog",
-      "category": "cad",
-      "published_iso": "2026-10-21T10:30:40Z",
-      "excerpt": "At GTC Berlin, Autodesk brings PhysicsNeMo and Warp into NavPack integrated with Autodesk Alias so Bentley designers can predict vehicle performance with simulation-trained AI, and Dassault's CATIA/SIMULIA AI agents design and virtually test car doors.",
-      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/European-Leaders-Industrial-Manufacturing-2.jpg"
-    },
-    {
-      "title": "AI that understands physics",
-      "url": "https://www.engineering.com/ai-that-understands-physics/",
-      "source": "Engineering.com",
-      "category": "cad",
-      "published_iso": "2026-10-21T16:08:37Z",
-      "excerpt": "Luminary CEO Pete Schlampp explains 'physics AI' - models that predict how a physical product will behave before simulation or test - and how product designers and engineers are starting to use it (vendor-contributed op-ed).",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/10/img_physai_physicalai_thumb2.png"
-    },
-    {
-      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-      "source": "The Verge",
-      "category": "workflow",
-      "published_iso": "2026-10-21T19:53:20Z",
-      "excerpt": "Anthropic opened a waitlist for Claude Duet, a proactive mobile and desktop agent that works across apps, positioned against Meta Muse and OpenAI Dots. Design hook is indirect (general agent).",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "history_match": {
-        "score": 0.251,
-        "date": "2026-10-10",
-        "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
-        "title": "Instinct's agent UX faces Muse and OpenAI's Dots",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Even designers are now using AI to code Windows 11, and Microsoft says \"we're only getting started\"",
-      "url": "https://www.windowslatest.com/2026/10/20/even-designers-are-now-using-ai-to-code-windows-11-and-microsoft-says-were-only-getting-started/",
-      "source": "Windows Latest",
-      "category": "workflow",
-      "published_iso": "2026-10-20T08:17:40Z",
-      "excerpt": "Microsoft's Diego Baca says Windows 11 designers are now making code fixes themselves with AI as Search, Run and Photos are rebuilt in native UI - an in-house design-org AX case. Off-list outlet (no on-list coverage).",
-      "og_image": "https://www.windowslatest.com/wp-content/uploads/2026/10/Microsoft-confirms-designers-are-using-AI-to-fix-Windows-11.jpg"
-    },
-    {
-      "title": "I asked Google Antigravity to build a website, then let Claude Code redesign it",
-      "url": "https://www.xda-developers.com/asked-google-antigravity-build-website-then-let-claude-code-redesign-it/",
-      "source": "XDA",
-      "category": "workflow",
-      "published_iso": "2026-10-20T20:00:19Z",
-      "excerpt": "A hands-on test hands a site built by one AI agent (Google Antigravity) to another (Claude Code) for a full visual redesign, comparing what each gets right about layout and design. Off-list outlet.",
-      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/antigravity-vs-claude-code.jpg?w=1600&h=900&fit=crop",
-      "history_match": {
-        "score": 0.166,
-        "date": "2026-09-25",
-        "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
-        "title": "Meta is going to let you build games with AI right on your phone",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Food Delivery App Apologizes for AI-Generated Menu Photos Showing Bacon Floating in Soda",
-      "url": "https://petapixel.com/2026/10/21/just-eat-food-delivery-app-apologizes-for-ai-generated-menu-photo-showing-bacon-floating-in-soda/",
-      "source": "PetaPixel",
-      "category": "workflow",
-      "published_iso": "2026-10-21T12:43:16Z",
-      "excerpt": "Just Eat apologized after inaccurate AI-generated menu photos, including bacon and eggs floating in a soda, appeared on its app - a brand-imagery cautionary tale for AI-made food photography. Off-list outlet; date/image from PetaPixel RSS (page 403s).",
-      "og_image": "https://petapixel.com/assets/uploads/2026/10/bacon-and-egg-ai-generated.jpg"
-    },
-    {
-      "title": "I almost missed the most exciting Photoshop teaser of the year. A new film-inspired filter is coming",
-      "url": "https://www.digitalcameraworld.com/tech/software/photoshop-is-reimagining-the-way-filters-work-a-new-film-inspired-light-leak-filter-is-coming-to-photoshop-later-this-year-and-no-its-not-ai",
-      "source": "Digital Camera World",
-      "category": "workflow",
-      "published_iso": "2026-10-20T14:52:27Z",
-      "excerpt": "Adobe teased non-destructive, layer-like filters in a future Photoshop plus a light-leak filter and an AI Assistant tool for creating your own filters, shown during its RTX Spark demo. Off-list outlet; overlaps the already-covered Adobe x NVIDIA story.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/nzEh3CBJtY92xMKqp9wbyn-2560-80.jpg"
-    },
-    {
-      "title": "Someone turned Draco Malfoy into a girl with AI, and now I need to know what happens next",
+      "title": "This 'Malfoid' AI Harry Potter romance is weird, uncomfortable and surprisingly revealing",
       "url": "https://www.creativebloq.com/news/someone-turned-draco-malfoy-into-a-girl-with-ai-and-now-i-need-to-know-what-happens-next",
       "source": "Creative Bloq",
       "category": "figma",
       "published_iso": "2026-10-21T12:00:00Z",
-      "excerpt": "Creator Foyege's 'In Another Universe' series moves a long-running fan-art idea into AI animation with cinematic scenes and dialogue; Creative Bloq looks at the design choices behind the viral AI fan series.",
+      "excerpt": "A viral AI-generated fan series gender-swapping Draco Malfoy raises awkward questions about AI video, IP and what audiences now accept as creative work.",
       "og_image": "https://cdn.mos.cms.futurecdn.net/Z7fRxcsk56cDERLgNCpPeF-1600-80.jpg"
     },
     {
-      "title": "Google Meet gave me facial dysmorphia",
+      "title": "Google Meet's appearance filters just sent me into an existential spiral",
       "url": "https://www.creativebloq.com/features/google-meets-appearance-filters-just-sent-me-into-an-existential-spiral",
       "source": "Creative Bloq",
       "category": "figma",
       "published_iso": "2026-10-20T08:00:00Z",
-      "excerpt": "A Creative Bloq writer on Google Meet's 'Touch up your appearance?' prompt and what default AI beauty filters in work tools mean for how we present ourselves. Weak tool-news hook.",
+      "excerpt": "A designer's critique of Google Meet's AI 'touch up your appearance' prompt and what AI beauty filters baked into work tools mean for professional image norms.",
       "og_image": "https://cdn.mos.cms.futurecdn.net/6Cpmbt3NodVMvosvPwfx6G-1920-80.jpg"
     },
     {
-      "title": "From Travel Clips to a Cinematic Edit with Tati Kapaya | The Brief: Season 2",
-      "url": "https://www.youtube.com/watch?v=StE4rqYpXy8",
-      "source": "Adobe Creative Cloud (YouTube)",
+      "title": "Lock In Character Likeness for AI Posters in Firefly",
+      "url": "https://www.youtube.com/watch?v=W1IYLaWyL70",
+      "source": "Adobe (YouTube)",
       "category": "social",
-      "published_iso": "2026-10-21T09:00:44-07:00",
-      "excerpt": "Adobe's The Brief S2: creator Tati Kapaya reworks old Egypt travel footage into a short-form edit using Adobe Firefly, Adobe Stock and Premiere. Brand-made content.",
-      "og_image": "https://i.ytimg.com/vi/StE4rqYpXy8/maxresdefault.jpg"
+      "published_iso": "2026-10-22T09:31:08-07:00",
+      "excerpt": "Adobe tutorial: use a reference-sheet trick in Firefly so an AI-generated subject stays recognizable across every pose, angle and scene of a poster series.",
+      "og_image": "https://i.ytimg.com/vi/W1IYLaWyL70/maxresdefault.jpg"
     },
     {
-      "title": "AI Breakthroughs Everyone Missed",
-      "url": "https://www.youtube.com/watch?v=umGZrkyTRtw",
-      "source": "Matt Wolfe (YouTube)",
+      "title": "Optimize AI credits with the Figma agent",
+      "url": "https://www.youtube.com/watch?v=eeJ7d0V2ayU",
+      "source": "Figma (YouTube)",
       "category": "social",
-      "published_iso": "2026-10-21T10:45:26-07:00",
-      "excerpt": "Matt Wolfe rounds up under-the-radar AI releases and research, from AI-generated worlds and games to new voice models and 3D tools.",
-      "og_image": "https://i.ytimg.com/vi/umGZrkyTRtw/maxresdefault.jpg"
+      "published_iso": "2026-10-22T08:31:05-07:00",
+      "excerpt": "Figma walks through prompting best practices for its agent to get better results while spending fewer AI credits.",
+      "og_image": "https://i.ytimg.com/vi/eeJ7d0V2ayU/maxresdefault.jpg",
+      "history_match": {
+        "score": 0.158,
+        "date": "2026-09-25",
+        "url": "https://www.youtube.com/watch?v=UHupJZO7DTw",
+        "title": "4 Figma Motion tricks worth stealing | Show Your Work",
+        "band": "related"
+      }
     },
     {
-      "title": "Did Google just dethrone OpenAI and Anthropic?",
-      "url": "https://www.youtube.com/watch?v=b2tjnxX8IHU",
-      "source": "Fireship (YouTube)",
+      "title": "ShipSF Workshops - Embed Generative UI Agents in Your App with Codex and Vercel",
+      "url": "https://www.youtube.com/watch?v=nkgaF9vlIKk",
+      "source": "Vercel (YouTube)",
       "category": "social",
-      "published_iso": "2026-10-20T09:21:03-07:00",
-      "excerpt": "Fireship test-drives Google's new Gemini 4 Argon against GPT-6 and Claude Opus 5.5 on hands-on build tasks. Model itself launched before the window; this is the in-window hands-on take.",
-      "og_image": "https://i.ytimg.com/vi/b2tjnxX8IHU/maxresdefault.jpg"
+      "published_iso": "2026-10-21T22:47:24-07:00",
+      "excerpt": "Vercel Ship SF workshop on embedding generative UI agents into an app with Codex and the Vercel AI stack, so the agent renders interface components rather than text.",
+      "og_image": "https://i.ytimg.com/vi/nkgaF9vlIKk/maxresdefault.jpg",
+      "history_match": {
+        "score": 0.249,
+        "date": "2026-10-17",
+        "url": "https://vercel.com/blog/vercel-ship-2026-recap",
+        "title": "Vercel Ship 2026 recap",
+        "band": "related"
+      }
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 19,
+    "kept": 16,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 4,
+    "review": 6,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-09-22",
-      "title": "AI 영양성분표라는 제안, 이 글의 기계 생성 비율 공개 글쓴이와 독자, AI 사이에 한 겹을 두고 기계가 쓴 분량을 밝히자는 제안이다.",
-      "url": "https://uxdesign.cc/ai-nutrition-facts-cbfa8f9874e8"
-    },
-    {
-      "date": "2026-09-22",
-      "title": "오토데스크 AI 단편에 남은 프롬프트로 못 고친 연속성 오류 오토데스크가 만든 AI 단편은 프롬프트로도 못 고친 연속성 오류를 안고 공개됐다.",
-      "url": "https://www.creativebloq.com/3d/autodesks-own-ai-film-has-a-continuity-error-nobody-could-prompt-away"
-    },
-    {
-      "date": "2026-09-22",
-      "title": "고급 시계부터 GPU 냉각판까지, AI 대리 모델이 솔버를 대신한다 시계부터 GPU 냉각판까지, 제품 팀들이 느린 솔버를 AI 대리 모델로 바꾼다.",
-      "url": "https://www.engineering.com/how-real-engineers-are-using-ai-surrogate-models-for-simulation/"
-    },
-    {
-      "date": "2026-09-22",
-      "title": "Snap's Specs Have A Cross-Platform AI Agent & Optional Cellular Charging Case",
-      "url": "https://www.uploadvr.com/snaps-specs-have-a-cross-platform-ai-agent-optional-cellular-charging-case/"
-    },
-    {
-      "date": "2026-09-22",
-      "title": "Framer 에이전트에게 실제 사이트의 버그를 맡겨봤다 제시 쇼월터가 퍼블리시 직전 사이트의 자잘한 버그를 Framer 에이전트에 맡긴다.",
-      "url": "https://www.youtube.com/watch?v=rmN9IzHx_Wc"
-    },
     {
       "date": "2026-09-23",
       "title": "Choose by eye, leave with a prompt: an unofficial Impeccable design browser",
@@ -939,6 +902,31 @@
       "date": "2026-10-21",
       "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
       "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-actions-open-eyes"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "Europe's Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "Figma embraces new AI paradigm but expresses reservations",
+      "url": "https://dev.to/hacksgr/figma-embraces-new-ai-paradigm-but-expresses-reservations-39n7"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "I built a Claude Code skill that de-slops AI-generated web design",
+      "url": "https://dev.to/haoli/i-built-a-claude-code-skill-that-de-slops-ai-generated-web-design-42kn"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "Food Delivery App Apologizes for AI-Generated Menu Photos Showing Bacon Floating in Soda",
+      "url": "https://petapixel.com/2026/10/21/just-eat-food-delivery-app-apologizes-for-ai-generated-menu-photo-showing-bacon-floating-in-soda/"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "Even designers are now using AI to code Windows 11, and Microsoft says \"we're only getting started\"",
+      "url": "https://www.windowslatest.com/2026/10/20/even-designers-are-now-using-ai-to-code-windows-11-and-microsoft-says-were-only-getting-started/"
     }
   ]
 }

@@ -8224,6 +8224,129 @@
           "x": "Spotify says it uses a combination of listener engagement and feedback, upload patterns, metadata, and third-party AI detection tools to determine whether a track may be AI-generated slop. Last year, the company said it took down more than 75 million songs identified as spam. It’s also partnering with Universal Music Group and Believe to launch a tool for creating AI music remixes."
         }
       ]
+    },
+    "music/music-umg-tyger-license": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/08/universal-music-group-logo-smartphone-billboard-1800.jpg?w=1024",
+          "cap": "Photo Illustration by Timon Schneider/SOPA Images/LightRocket via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Universal Music Group announced a licensing agreement with TYGER on Thursday (Oct. 22). TYGER utilizes AI to help music adapt in real-time to fan gameplay. The new deal allows for UMG artists to participate, with TYGER users having access to select UMG songs."
+        },
+        {
+          "t": "p",
+          "x": "TYGER previously had more than 400,000 songs on its platform, primarily with independent artists. The new deal marks their first agreement with a major label."
+        },
+        {
+          "t": "p",
+          "x": "“Gaming is where the next generation spends its time, discovers culture and connects with friends, but music has never had a native way to reach those audiences,” said Nick Venti, CEO and cofounder of TYGER."
+        },
+        {
+          "t": "p",
+          "x": "Michael Nash, chief digital officer and executive vp at UMG, said that through the agreement “our artists and their music will now be able to soundtrack personalized gameplay experiences and connect with millions of gamers and fans around the world.” Earlier this year, UMG also signed a licensing agreement with Spotify for AI remixing on the platform."
+        }
+      ]
+    },
+    "music/music-mixagent-post-production": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "MixAgent is an agentic pipeline for music post-production that follows the workflow of audio engineers to build interpretable and editable mixing plans guided by a reference song. The work comes from Rice University and Sony researchers."
+        },
+        {
+          "t": "p",
+          "x": "A grouping agent first routes related input tracks, such as drum recordings, into subgroups. A planning agent then uses retrieved examples to choose and order audio effects, such as volume control and reverb, for tracks, subgroups, and the full mix. To refine the mix, a detector identifies what needs correction, and a critic proposes numerical parameter adjustments."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.29093v1/MixAgent_Pipeline_v4.png",
+          "cap": "Figure 2: Overview of MixAgent."
+        },
+        {
+          "t": "p",
+          "x": "The authors found that prompting recent multimodal models to listen and revise often worsens the mix. They therefore built MixCritic, a dataset of 45,657 repair critiques derived from parameters fitted to professional mixes, and trained the critic with supervised fine-tuning followed by preference optimization."
+        },
+        {
+          "t": "p",
+          "x": "On MedleyDB, learned refinement reduces error by 19% relative to the initial mix, with preference optimization reducing it by 8.4% over supervised training alone. In a human listening test, MixAgent got higher quality ratings than mixes produced by Qwen3-Omni, Gemini 3.8 Flash and GPT-4o-audio."
+        }
+      ]
+    },
+    "music/music-fontaines-dc-marianne-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.vice.com/wp-content/uploads/sites/2/2026/10/Fontaines-D.C1.jpg?w=1200",
+          "cap": "Photo by Kieran Frost/Redferns"
+        },
+        {
+          "t": "p",
+          "x": "Fontaines D.C. released their latest album, Dopamine Chamber, on October 16, 2026, and in a situation frontman Grian Chatten called “ironic”, they were blindsided by the news that someone used AI somewhere in the process of making the “Marianne” video."
+        },
+        {
+          "t": "p",
+          "x": "“Somewhere in the process, someone from the VFX team I guess used some kind of AI in the workflow,” Chatten told the Los Angeles Times. “And none of us were told about it. Apparently, not even our label or our management were told about it and it was a real shock.”"
+        },
+        {
+          "t": "p",
+          "x": "Chatten said the main scenes and effects were VFX and prosthetics, and that “over 110 people worked on the thing.” He added, “We’re gonna have it written into our contracts going forward that it can’t be in our music videos.”"
+        },
+        {
+          "t": "p",
+          "x": "The irony is sharper because Dopamine Chamber is a commentary on society’s reliance on technology, social media, and AI. “AI is literally rendering our souls obsolete and I think that is true death,” Chatten said."
+        }
+      ]
+    },
+    "music/music-anthropic-lyrics-dilution": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/anthropic.png"
+        },
+        {
+          "t": "p",
+          "x": "Whether AI training constitutes fair use under American copyright law was considered in a US courtroom again, this time in the dispute between Anthropic and the Universal, Concord and ABKCO music publishers, with both sides trying to convince Judge Eumi Lee to grant summary judgements in their favour."
+        },
+        {
+          "t": "p",
+          "x": "The most interesting part of the hearing centred on whether Claude outputting new lyrics, having been trained on the publishers’ human-created lyrics, dilutes the market value of the original songs."
+        },
+        {
+          "t": "p",
+          "x": "Speaking for the publishers, Matthew J Oppenheim said there is evidence that Claude received nearly 120,000 requests for “synthetic lyrics” in a six month period, arguing that AI-generated music “could easily overwhelm the market”."
+        },
+        {
+          "t": "p",
+          "x": "Judge Lee seemed to want tangible evidence of this market dilution. Anthropic’s lawyer, Sonal Mehta, said “there isn’t anything in the record that shows doom for the music industry”, adding that Universal has told its investors that AI is “overwhelmingly a net positive” for the music industry."
+        }
+      ]
+    },
+    "music/music-apple-samplab": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/10/Apple-Samplab@2000x1500-1068x801.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apple has acquired Samplab, a Swiss developer whose audio editor offers MIDI-style editing of digital audio: chord detection with MIDI export, tempo and key matching of samples, and granular stem separation with editable individual notes."
+        },
+        {
+          "t": "p",
+          "x": "Samplab had a free tier limited to 10-second mono samples and a £9.99/month Premium plan. Its developers say the plugin “uses AI to transcribe polyphonic audio into editable MIDI notes while preserving the original timbre.”"
+        },
+        {
+          "t": "p",
+          "x": "Logic Pro already offers some of this through Flex Pitch, but polyphonic note editing in any DAW currently needs a plug-in such as Melodyne or RipX. MusicTech expects Apple to build Samplab’s capabilities directly into Logic Pro, possibly extending stem separation beyond the usual four stems, and perhaps trickle them into Logic for iPad, GarageBand or Final Cut Pro."
+        },
+        {
+          "t": "p",
+          "x": "Apple has taken a less aggressive approach to AI than rivals; MusicTech expects more acquisitions like this to be quietly folded into its software workflows."
+        }
+      ]
     }
   }
 }

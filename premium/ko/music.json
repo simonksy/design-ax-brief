@@ -12503,6 +12503,129 @@
           "x": "Spotify는 청취자 참여와 피드백, 업로드 패턴, 메타데이터, 서드파티(third-party) AI 탐지 도구를 함께 따져 곡이 AI-generated 슬롭일 가능성을 판단한다고 설명했다. 회사는 지난해에도 스팸으로 확인된 곡 7500만 곡 이상을 내렸다고 밝혔다. Universal Music Group, Believe와 손잡고 AI 음악 리믹스 제작 도구도 선보인다."
         }
       ]
+    },
+    "music/music-umg-tyger-license": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/08/universal-music-group-logo-smartphone-billboard-1800.jpg?w=1024",
+          "cap": "사진 일러스트: Timon Schneider/SOPA Images/LightRocket via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Universal Music Group은 10월 22일(목) TYGER와 라이선스 계약을 맺었다고 발표했다. TYGER는 AI로 팬의 게임 플레이에 맞춰 음악을 실시간으로 바꿔 준다. 이번 계약으로 UMG 아티스트들이 참여하게 됐고 TYGER 사용자는 엄선된 UMG 곡을 쓸 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "TYGER 플랫폼에는 그동안 인디 아티스트 곡을 중심으로 40만 곡이 넘는 음악이 올라 있었다. 메이저 레이블과 계약한 건 이번이 처음이다."
+        },
+        {
+          "t": "p",
+          "x": "TYGER의 CEO이자 공동 창업자인 Nick Venti는 “게임은 다음 세대가 시간을 보내고, 문화를 발견하고, 친구와 교류하는 곳이지만, 음악에는 그동안 이들에게 닿을 고유한 방법이 없었다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "UMG의 최고디지털책임자이자 수석부사장인 Michael Nash는 이번 계약으로 “우리 아티스트와 그들의 음악이 이제 개인화된 게임 플레이 경험의 사운드트랙이 되고, 전 세계 수백만 명의 게이머 및 팬과 연결될 수 있다”고 말했다. UMG는 올해 초 Spotify와도 플랫폼 안 AI 리믹스용 라이선스 계약을 맺었다."
+        }
+      ]
+    },
+    "music/music-mixagent-post-production": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "MixAgent는 음악 후반 작업용 에이전트 파이프라인이다. 오디오 엔지니어처럼 레퍼런스 곡을 기준 삼아 믹싱 계획을 세우는데, 이 계획은 사람이 해석하고 고칠 수 있다. Rice University와 Sony 연구진이 개발했다."
+        },
+        {
+          "t": "p",
+          "x": "그룹화 에이전트가 먼저 드럼 녹음처럼 서로 관련된 입력 트랙을 하위 그룹으로 묶는다. 다음으로 계획 에이전트가 검색해 온 예시를 참고해 트랙, 하위 그룹, 전체 믹스에 쓸 볼륨 조절, 리버브 같은 오디오 이펙트를 고르고 순서를 정한다. 믹스를 다듬을 때는 검출기가 고칠 부분을 찾고, 비평기가 수치로 된 파라미터 조정안을 제시한다."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.29093v1/MixAgent_Pipeline_v4.png",
+          "cap": "그림 2: MixAgent 개요."
+        },
+        {
+          "t": "p",
+          "x": "최신 멀티모달 모델에 듣고 고치라고 시키면 오히려 믹스가 나빠지는 일이 잦았다. 그래서 연구진은 전문가 믹스에 맞춰 추정한 파라미터에서 도출한 수정 비평 45,657건으로 이뤄진 데이터셋 MixCritic을 만들고 지도 미세조정, 선호 최적화 순으로 비평기를 학습시켰다."
+        },
+        {
+          "t": "p",
+          "x": "MedleyDB로 학습한 보정은 초기 믹스 대비 오류를 19% 줄였고, 선호 최적화는 지도 학습만 했을 때보다 오류를 8.4% 더 줄였다. 사람이 직접 듣는 평가에서 MixAgent는 Qwen3-Omni, Gemini 3.8 Flash, GPT-4o-audio가 만든 믹스보다 높은 품질 점수를 받았다."
+        }
+      ]
+    },
+    "music/music-fontaines-dc-marianne-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.vice.com/wp-content/uploads/sites/2/2026/10/Fontaines-D.C1.jpg?w=1200",
+          "cap": "사진: Kieran Frost/Redferns"
+        },
+        {
+          "t": "p",
+          "x": "Fontaines D.C.는 2026년 10월 16일 새 앨범 Dopamine Chamber를 냈다. 그런데 밴드는 “Marianne” 뮤직비디오 제작 과정 어딘가에서 누군가 AI를 썼다는 소식에 허를 찔렸다. 프런트맨 Grian Chatten은 이 상황을 “아이러니”라고 불렀다."
+        },
+        {
+          "t": "p",
+          "x": "Chatten은 Los Angeles Times에 “작업 과정 어딘가에서 VFX 팀의 누군가가 워크플로에 일종의 AI를 쓴 것 같다”고 말했다. “그리고 우리 중 누구도 그 사실을 듣지 못했다. 듣자 하니 레이블도, 매니지먼트도 전달받지 못했다고 한다. 정말 충격이었다.”"
+        },
+        {
+          "t": "p",
+          "x": "Chatten은 주요 장면과 효과를 VFX와 특수분장으로 만들었다며 “110명이 넘는 사람이 작업했다”고 말했다. 그는 “앞으로는 우리 뮤직비디오에 그것을 쓸 수 없다는 조항을 계약서에 넣을 것”이라고 덧붙였다."
+        },
+        {
+          "t": "p",
+          "x": "Dopamine Chamber가 기술, 소셜미디어, AI에 기대는 사회를 비평하는 앨범이어서 아이러니가 더 날카롭다. Chatten은 “AI는 말 그대로 우리의 영혼을 쓸모없게 만들고 있고, 나는 그것이 진정한 죽음이라고 생각한다”고 말했다."
+        }
+      ]
+    },
+    "music/music-anthropic-lyrics-dilution": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/anthropic.png"
+        },
+        {
+          "t": "p",
+          "x": "AI 학습이 미국 저작권법상 공정 이용에 해당하는지를 놓고 미국 법정에서 다시 한번 공방이 벌어졌다. 이번 분쟁 당사자는 Anthropic과 음악 출판사 Universal, Concord, ABKCO다. 양측은 저마다 유리한 약식 판결을 내려 달라며 Eumi Lee 판사를 설득하려 했다."
+        },
+        {
+          "t": "p",
+          "x": "심리에서 가장 흥미로운 대목은 시장 희석 논쟁이었다. Claude는 출판사들이 보유한, 사람이 쓴 가사로 학습했는데 그런 Claude가 새 가사를 내놓으면 원곡의 시장 가치가 희석되느냐는 것이다."
+        },
+        {
+          "t": "p",
+          "x": "출판사 측 Matthew J Oppenheim은 Claude가 6개월 동안 “합성 가사” 요청을 12만 건 가까이 받았다는 증거가 있다며 AI가 만든 음악(AI-generated)이 “시장을 쉽게 압도할 수 있다”고 주장했다."
+        },
+        {
+          "t": "p",
+          "x": "Lee 판사는 시장 희석을 보여 줄 구체적 증거를 원하는 눈치였다. Anthropic 측 변호인 Sonal Mehta는 “기록 어디에도 음악 산업의 파멸을 보여 주는 것은 없다”며 Universal이 투자자들에게 AI가 음악 산업에 “압도적으로 순이익”이라고 말해 왔다고 덧붙였다."
+        }
+      ]
+    },
+    "music/music-apple-samplab": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/10/Apple-Samplab@2000x1500-1068x801.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apple이 스위스 개발사 Samplab을 인수했다. Samplab의 오디오 에디터는 디지털 오디오를 MIDI-style로 편집하게 해 준다. 코드를 감지해 MIDI로 내보내고, 샘플의 템포와 키를 맞추고, 개별 음까지 손볼 만큼 스템을 세밀하게 분리한다."
+        },
+        {
+          "t": "p",
+          "x": "Samplab은 10초 모노 샘플까지만 쓰는 무료 요금제와 월 £9.99짜리 Premium 요금제를 운영했다. 개발진은 이 플러그인이 “AI로 다성 오디오를 편집 가능한 MIDI 노트로 옮기면서 원래 음색은 그대로 지킨다”고 설명한다."
+        },
+        {
+          "t": "p",
+          "x": "Logic Pro도 Flex Pitch로 일부 기능을 이미 갖췄지만, 지금은 어느 DAW에서든 다성 노트를 편집하려면 Melodyne이나 RipX 같은 플러그인을 따로 써야 한다. MusicTech는 Apple이 Samplab의 기능을 Logic Pro에 바로 넣고, 스템 분리 개수도 흔한 네 개보다 늘리며, 차츰 Logic for iPad와 GarageBand, Final Cut Pro로 넓혀 갈 수 있다고 내다본다."
+        },
+        {
+          "t": "p",
+          "x": "Apple은 그동안 AI에서 경쟁사보다 덜 공격적이었다. MusicTech는 이런 인수가 앞으로도 이어지고, 자사 소프트웨어 워크플로에 조용히 스며들 것으로 본다."
+        }
+      ]
     }
   }
 }

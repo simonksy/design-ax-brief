@@ -1,7 +1,32 @@
-{"date":"2026-10-22","section":"design","media":[
-{"id":"design-figma-mcp","type":"image","src":"pipeline/media/design-figma-mcp.jpg"},
-{"id":"design-nvidia-gtc-berlin","type":"image","src":"pipeline/media/design-nvidia-gtc-berlin.jpg"},
-{"id":"design-windows-designers-code","type":"video","src":"pipeline/media/design-windows-designers-code.mp4","poster":"pipeline/media/design-windows-designers-code.jpg"},
-{"id":"design-slop-skill","type":"image","src":"pipeline/media/design-slop-skill.png"},
-{"id":"design-just-eat-ai-photos","type":"image","src":"pipeline/media/design-just-eat-ai-photos.jpg"}
-]}
+{
+  "date": "2026-10-23",
+  "section": "design",
+  "media": [
+    {
+      "id": "design-canva-craft-model",
+      "type": "image",
+      "src": "pipeline/media/design-canva-craft-model.png"
+    },
+    {
+      "id": "design-lufthansa-figma-make",
+      "type": "image",
+      "src": "pipeline/media/design-lufthansa-figma-make.png"
+    },
+    {
+      "id": "design-agent-color-palette-library",
+      "type": "image",
+      "src": "pipeline/media/design-agent-color-palette-library.png"
+    },
+    {
+      "id": "design-firefly-character-likeness",
+      "type": "video",
+      "src": "pipeline/media/design-firefly-character-likeness.mp4",
+      "poster": "pipeline/media/design-firefly-character-likeness.jpg"
+    },
+    {
+      "id": "design-nomic-arcadis-design-review",
+      "type": "image",
+      "src": "pipeline/media/design-nomic-arcadis-design-review.jpg"
+    }
+  ]
+}

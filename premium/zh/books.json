@@ -7079,6 +7079,131 @@
           "x": "Hixon驳回了Meta的狭义解读：该请求并不限于正式决定或单一决策者。Meta必须列出所有做出、授权或批准下载的人及其职务和日期，提交用于种子下载的每台服务器的命令历史文件，并说明未用于训练的盗版作品如何处置。"
         }
       ]
+    },
+    "books/books-canada-isbn-human-author": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://globalnews.ca/wp-content/uploads/2026/10/CP171900259-e1792608559278.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+          "cap": "FILE - 资料图：Monday, June 3, 2024，位于渥太华的加拿大图书馆与档案馆（Library and Archives Canada）。"
+        },
+        {
+          "t": "p",
+          "x": "加拿大作家与出版商团体表示，很高兴看到加拿大图书馆与档案馆（LAC）更新ISBN政策，限制AI-generated（AI生成）图书及其他内容的登记。"
+        },
+        {
+          "t": "p",
+          "x": "LAC在Oct. 9更新的网站上表示：“在ISBN Canada登记，即表示您声明出版物由人类作者撰写。”AI工具仅可用于有限的辅助工作，例如头脑风暴、检查语法或排版；对于内容主要由AI生成的作品（文本、插图、翻译），ISBN Canada会限制ISBNs的发放数量。LAC表示，该政策正在审查中，且ISBN登记并不提供版权保护。"
+        },
+        {
+          "t": "p",
+          "x": "加拿大作家协会（Canadian Authors Association）表示赞赏这项变化，但称其“只是起点”，并质疑自我声明将如何监督和核实。加拿大出版商协会（Association of Canadian Publishers）援引“AI-slop”图书泛滥的现象，表示将ISBNs限定于人类作者的图书应能减少欺诈。"
+        },
+        {
+          "t": "p",
+          "x": "此举出台之际，加拿大联邦政府仍缺乏针对未经许可的AI训练的现代化版权保护；June公布的联邦AI战略也未涉及版权问题。"
+        }
+      ]
+    },
+    "books/books-meta-terms-ai-training": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta的新商业条款原本可能授予其AI训练权，直到Meta改变了方向。"
+        },
+        {
+          "t": "p",
+          "x": "在出版商强烈反对后，Meta修改了商业条款，从允许用途中删除了train这个词。"
+        },
+        {
+          "t": "p",
+          "x": "全文仅向Jane Friedman通讯的付费订阅者开放。"
+        }
+      ]
+    },
+    "books/books-pla-microsoft-ai-sessions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132331-1.JPG"
+        },
+        {
+          "t": "p",
+          "x": "公共图书馆协会（Public Library Association）正与Microsoft合作推出免费的AI技能计划。“Building AI Skills and Agency Through Libraries”将网络研讨会与社区实践课程相结合，面向图书馆员工和读者。系列首场网络研讨会“The AI-Ready Public Library”将于December上旬举行。"
+        },
+        {
+          "t": "p",
+          "x": "该计划由PLA的Transformative Technology工作组与Microsoft Elevate共同开发，后者是Microsoft为在非商业场景中推动AI素养而设立的部门。其总裁Justin Spelhaug强调了安全问题，以及向AI进行“认知卸载”（cognitive offloading）而妨碍真正学习的风险。"
+        },
+        {
+          "t": "p",
+          "x": "PLA会员此前希望获得员工培训、社区教育以及实用AI政策的范例。来自New York Public Library的PLA前任主席Brandy McNeil表示：“作为图书馆，我们致力于保留人类馆员。”“这是为了确保人们知道在AI面前如何行使自己的主动权。”她还说：“我们并不是在推动采用Microsoft或其工具。”"
+        }
+      ]
+    },
+    "books/books-mosajaein-airoku-japan": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.wowtv.co.kr/nrcs/production/images/20261021/20261021_b501b3e7f14d4ed8b38f8ce91388387f.png"
+        },
+        {
+          "t": "p",
+          "x": "人工智能（AI）初创公司Mosajaein进军日本市场。"
+        },
+        {
+          "t": "p",
+          "x": "Mosajaein于21日宣布，已在日本正式推出个性化AI网络小说平台“アイロク”。"
+        },
+        {
+          "t": "p",
+          "x": "アイロク是Mosajaein在韩国运营的AI网络小说平台HeartFiction的日本版服务。用户选择题材、背景、角色等后，多个AI智能体协作，约2分钟即可生成网络小说的首章。用户还可以在每章输入希望的剧情走向，改变作品的发展。其特点是突破了传统阅读网络小说的方式，让用户参与到故事创作过程中。"
+        },
+        {
+          "t": "p",
+          "x": "据Mosajaein介绍，国内服务HeartFiction截至去年11月注册用户已突破10万人，用户生成的故事超过20万篇。"
+        },
+        {
+          "t": "p",
+          "x": "Mosajaein解释称，考虑到日本已形成付费内容消费文化、粉丝文化和2次创作市场，因此将日本选为首个海外市场。为此，公司开发了专门针对日语的内容生成引擎，并结合当地用户偏好推进服务本地化。アイロク通过Google Play和Apple App Store提供。"
+        },
+        {
+          "t": "p",
+          "x": "此次进军日本，也得益于政府的内容及技术开发支持项目。Mosajaein入选韩国文化体育观光部和韩国内容振兴院的“2026年人工智能内容制作支持”项目，正在对基于多AI智能体的多模态故事宇宙创作平台进行实证。"
+        },
+        {
+          "t": "p",
+          "x": "通过该项目，公司正在开发将插图和音源与AI生成的故事相结合的技术，并与文化体育观光部和中小风险企业部的研发（R&D）课题联动，开发基于多语言Deep-RAG（检索增强生成）的日语本地化技术。公司还申请了4项AI内容生成相关专利。"
+        },
+        {
+          "t": "p",
+          "x": "Mosajaein联合代表Jo Jin-hyuk表示：“我们将在韩国验证过的参与式内容模式带到了日本市场。”他还表示：“今后计划将服务扩展到大中华区和英语圈。”"
+        }
+      ]
+    },
+    "books/books-meta-suits": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132315-2.JPG"
+        },
+        {
+          "t": "p",
+          "x": "近300名作家于10月19日在U.S. District Court for the Northern District of California（加州北区联邦地区法院）对Meta Platforms提起版权侵权诉讼，指控该公司用其书籍的盗版副本训练AI模型，近来还使用未经授权购买并扫描的实体书。作家们没有加入集体诉讼，而是各自提出个人索赔。"
+        },
+        {
+          "t": "p",
+          "x": "Freedman Normand Friedland律师事务所的律师Kyle Roche表示，该所代理通过ClaimsHero招募的2,200多名作家，并计划在年底前提交最多1,000项个人索赔。"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic和解方案每部作品赔付约$3,000，而原告希望陪审团就故意侵权判给每部作品最高$150,000的法定赔偿。"
+        },
+        {
+          "t": "p",
+          "x": "诉状称，Meta从LibGen、Z-Library和Anna’s Archive等影子图书馆下载书籍，并自mid-2025起运行书籍扫描项目Project Vellum，用于训练Muse Spark和Muse Glimmer模型。Meta的相关案件定于2027年5月3日起进行陪审团审理。"
+        }
+      ]
     }
   }
 }

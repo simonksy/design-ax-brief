@@ -1794,6 +1794,139 @@
           "x": "Prof Miroslaw Bober of the University of Surrey calls it \"a promising proof of concept, but it is not ready for clinical use\", warning: \"Predicting an outcome is not the same as explaining it.\""
         }
       ]
+    },
+    "medicine/medicine-sentara-regard-case-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1489370843.jpg?VersionId=TgJt3wnG4D8o0Y1CLBmihDbxRdigvp0."
+        },
+        {
+          "t": "p",
+          "x": "Not-for-profit health system Sentara Health deployed a new artificial intelligence case management solution Tuesday, which it co-developed with clinical decision support company Regard."
+        },
+        {
+          "t": "p",
+          "x": "Case managers can use the tool to query charts in plain language, quickly surfacing key insights like patient history and status changes, and can view changes within the last 24 hours."
+        },
+        {
+          "t": "p",
+          "x": "“It's incredible to think about how much time we used to spend piecing together a patient's story before they could even start discharge planning,” said Rollin Reeder, M.D., Sentara's chief health information officer."
+        },
+        {
+          "t": "p",
+          "x": "Sentara plans to expand the tool across acute care and into ambulatory care. Executives say it could save nearly 90,000 hours, equivalent to more than 40 full-time employees and nearly $5 million in labor costs. Sentara operates 12 hospitals and more than 400 care sites in Virginia and Northeast North Carolina."
+        },
+        {
+          "t": "p",
+          "x": "Regard CEO Eli Ben-Joseph said its platform has surfaced more than 20 million diagnoses that physicians accepted, and extending it to operational teams is “a natural next step.”"
+        }
+      ]
+    },
+    "medicine/medicine-coreline-neck-ct-lung-cancer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.bosa.co.kr/news/photo/202610/3014596_415527_236.png"
+        },
+        {
+          "t": "p",
+          "x": "‘Opportunistic Screening,’ which uses a CT taken to check for a specific condition to also find hidden serious diseases beyond the purpose of the exam, is emerging as a key topic in the medical AI industry."
+        },
+        {
+          "t": "p",
+          "x": "A clinical study that used Coreline Soft's chest CT lung nodule analysis solution ‘AVIEW LCS’ to detect early lung cancer lesions that are easily overlooked in neck CT readings was published in the latest issue of the international journal ‘Korean Journal of Radiology.’ Neck CT includes part of the lung apex at the bottom of the scan range, but because readers focus on the neck area, small lung lesions at the edges were often missed."
+        },
+        {
+          "t": "p",
+          "x": "Researchers at a Korean tertiary hospital retrospectively followed 81,794 adults who had neck CT scans in 2008~2024 and found 123 cases among patients later diagnosed with lung cancer in which the lesion had already appeared on an earlier neck CT. In 80 of them, or 65.0%, the reading report noted no lung lesion at all. The missed group took a median of 27.5 months to final diagnosis, and the share with worsening in any of T·N·M was 47.5%, more than 4 times that of the group detected immediately (11.6%)."
+        },
+        {
+          "t": "p",
+          "x": "When the team applied AVIEW LCS to the 80 missed cases, it flagged 41 of the 80 (sensitivity 51.3%) even though the chest-only algorithm was not retrained for neck CT. Further validation, such as false-positive rate and specificity, remains, but the study is seen as providing exploratory evidence that AI built for a specific body region can serve as a complementary safety net on images of other regions."
+        },
+        {
+          "t": "p",
+          "x": "Coreline Soft is pursuing a ‘One CT, Multi-Disease’ strategy that analyzes lung nodules, COPD and emphysema, and coronary artery calcification at once from a single chest CT. Its revenue in the first half of 2026 rose 45.7% year on year, and overseas revenue rose 123.0%."
+        }
+      ]
+    },
+    "medicine/medicine-llm-choosing-wisely": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/artificial-intelligence-ai-binary-code-400.8uQeMX4Imz.jpg?auto=format%2Ccompress&fit=fillmax&q=70&w=400"
+        },
+        {
+          "t": "p",
+          "x": "Large language models (LLMs) rarely recommend unnecessary care in Choosing Wisely tests, though thyroid ultrasound is more susceptible, suggest findings published October 19 in the Annals of Internal Medicine."
+        },
+        {
+          "t": "p",
+          "x": "A team led by Dean Ariel, MD, from Clalit Health Services in Tel Aviv used 15 Choosing Wisely recommendations to develop 225 scenarios, then tested six commercial LLMs that generated 4,050 responses using a prompt from the clinician perspective."
+        },
+        {
+          "t": "p",
+          "x": "LLM-recommended overuse occurred in 5.4% of cases, and none in eight of 15 recommendations. Two accounted for most of it: thyroid ultrasound for an incidental sub-centimeter nodule (42.8% of responses) and routine electrocardiography in low-risk adults (28.3%). False restraint occurred in 0.6% of cases, highest for PSA screening at 3.3%."
+        },
+        {
+          "t": "p",
+          "x": "Thyroid ultrasound for small incidental nodules is the only recommendation in the study with active disagreement between society guidelines. “What divides them, and what the models confronted, is precisely whether to image,” the authors wrote."
+        },
+        {
+          "t": "p",
+          "x": "An accompanying editorial called for studies using real-life cases, describing the work as the first published study to explicitly address overuse."
+        }
+      ]
+    },
+    "medicine/medicine-brainomix-elung-fibrosis": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-2135067814.jpg?h=d5eed9cb&itok=YDymF8NG"
+        },
+        {
+          "t": "p",
+          "x": "Artificial intelligence-powered quantitative CT analysis is capable of identifying signs of pulmonary fibrosis months before clinical diagnosis, according to a new multicenter study published in the Annals of the American Thoracic Society."
+        },
+        {
+          "t": "p",
+          "x": "The retrospective study evaluated 509 patients with fibrotic interstitial lung disease at the University of Chicago, Weill Cornell Medicine and the University of Alabama at Birmingham, using Brainomix's e-Lung, an FDA-cleared quantitative CT tool. Boehringer Ingelheim funded the study."
+        },
+        {
+          "t": "p",
+          "x": "These measures identified radiological progression an average of 16 months before clinical pulmonary fibrosis diagnosis, reaching up to 28 months at one center. They also detected progression in a substantial proportion of patients considered clinically stable at the time of their exam."
+        },
+        {
+          "t": "p",
+          "x": "A higher baseline weighted reticulovascular score was associated with increased risk of future pulmonary fibrosis, while a 1.5% change in total disease extent on serial CT was associated with increased mortality. Brainomix and Boehringer Ingelheim plan to continue through PROGRESS-PPF, a prospective, multicenter U.S. study."
+        }
+      ]
+    },
+    "medicine/medicine-epic-connectors": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
+          "cap": "Healthcare organizations will be able to find developer-created Connectors on Epic Showroom starting in March 2027. (ismagilov/GettyImages)"
+        },
+        {
+          "t": "p",
+          "x": "Epic launched \"Connectors,\" which let developers connect their apps to Epic's AI tools: patient-facing assistant Emmie, clinician assistant Art and Penny, its revenue cycle and operations AI, plus custom agents health systems build in Agent Factory. It was announced ahead of the Open@Epic conference."
+        },
+        {
+          "t": "p",
+          "x": "In Epic's examples, a Connector pulls an arrival time from an ambulance app so the ED can prepare, and Emmie places a hospitalized patient's meal order directly in the dietary app. Agents can chain several Connectors into one multi-step workflow."
+        },
+        {
+          "t": "p",
+          "x": "Epic will initially use the Model Context Protocol (MCP) as the standard. Health systems review what each Connector can read and change before enabling it, and Epic will charge developers to list in Showroom (pricing undisclosed)."
+        },
+        {
+          "t": "p",
+          "x": "\"There will not be new autonomous actions taken as a result of these capabilities,\" said Epic VP Johnston Thayer. Testing with some health system partners begins by the end of the year."
+        }
+      ]
     }
   }
 }

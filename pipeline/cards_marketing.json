@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "section": "marketing",
   "cards": [
     {
-      "id": "marketing-pmax-images",
+      "id": "marketing-meta-ai-glowups",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "PMax, 12월 4일부터\n사이트 이미지 기본 추출",
-      "body": "12월 4일부터 AI가 새 PMax 캠페인에 사이트 이미지를 기본으로 넣는다.",
-      "mini_headline": "PMax, 사이트 이미지 기본 추출",
+      "headline": "AI 무단 보정에\nMeta 광고 내린다",
+      "body": "Meta 새 약관상 10월 30일부터 AI 광고는 광고주가 전적으로 책임진다.",
+      "mini_headline": "광고주들, Meta AI 광고 중단",
       "tool": "Marketing",
-      "source": "PPC Land",
-      "url": "https://ppc.land/google-turns-on-pmax-image-extraction-by-default-from-december-4/",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/media/advertisers-pull-meta-ads-that-had-unwanted-ai-glow-ups/",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
@@ -19,179 +19,227 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/2026/10/google-pmax-image-extraction-default-horseshoe-magnet-picture-frames.jpg",
-            "cap": "12월 4일부터 새 Google PMax 캠페인은 Dynamic images를 꺼도 랜딩 페이지 이미지를 가져온다"
+            "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/ATM.webp?w=600&h=315&crop=1"
           },
           {
             "t": "p",
-            "x": "Google은 개발자들에게 2026년 12월 4일부터 새로 만드는 모든 Performance Max 캠페인에서 이미지 추출이 기본으로 켜진다고 알렸다. 광고주가 계정 수준에서 동적 이미지를 꺼 둔 계정도 예외가 아니다. 변경은 Google Ads API, Google Ads 인터페이스, Google Ads Editor에 모두 적용된다."
+            "x": "10월 30일부터는 Meta의 AI가 광고를 망쳐도 광고주가 책임져야 한다. 광고 구매 담당자들은 Meta의 AI가 이미 묻지도 않고 광고를 고친다고 ADWEEK에 말했다."
           },
           {
             "t": "p",
-            "x": "Google에 따르면 \"이미지 추출 기능을 쓰면 Google AI가 제공된 랜딩 페이지에서 고해상도 이미지를 찾아 크리에이티브 애셋을 보강하고 Search, YouTube, Display, Discover, Gmail, Maps 전반으로 도달 범위를 넓힌다.\""
+            "x": "Bookshop.org는 Meta의 자동 계정 업데이트 때문에 생성형 AI 기능에 저절로 가입됐고, 이 기능이 사람이 만든 광고에 모르는 사이 AI-generated 일러스트를 덧붙였다고 밝혔다. 그 뒤 Meta의 AI 광고 기능을 전부 껐다."
+          },
+          {
+            "t": "img",
+            "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-1.28.28-PM.png?w=1024",
+            "cap": "Bookshop.org의 Threads 게시물"
           },
           {
             "t": "p",
-            "x": "기존 Performance Max 캠페인은 지금 설정 그대로다. 추출을 원하지 않는 연동 서비스라면 12월 4일 전에 캠페인 생성 페이로드를 고쳐 GENERATE_IMAGE_EXTRACTION을 OPTED_OUT으로 지정해야 한다. asset_automation_settings는 반복 필드여서 업데이트하면 배열 전체가 바뀌고 TEXT_ASSET_AUTOMATION 같은 다른 설정이 실수로 지워질 수 있다."
+            "x": "Meta가 개정한 상업 약관(Commercial Terms)을 보면, AI 기능이 만들거나 바꾼 모든 것은 Meta가 켠 기능이라도 광고주가 \"전적으로 책임\"을 진다. 예전에는 광고주가 Meta의 AI 도구를 직접 골라 썼을 때만 책임이 있었다. Meta 대변인은 이 질문에 바로 답하지 않고, 광고주가 Ads Manager에서 언제든 개별 Advantage+ 기능을 끌 수 있다고만 했다."
           },
           {
             "t": "p",
-            "x": "Google은 광고주에게 랜딩 페이지 이미지의 권리를 갖고 있고 Google이 이를 광고에 써도 된다는 점까지 확인하라고 요구한다. 라이선스 이미지나 제3자 이미지의 책임은 광고주가 지는 셈이다."
+            "x": "대행사 Exverus는 품질 점검을 여러 번 거치고도 새어 나간 변경 사항을 지우려고 집행 중인 광고를 내려야 했다. 덧붙은 사이트링크, 언어 번역, 브랜드 자체 미디어로 만든 AI-generated 이미지나 캐러셀 같은 것들이다. Ryan Adams는 \"Meta의 자체 도구가 개선을 적용했을 때조차 Meta는 책임을 전적으로 광고주에게 지운다\"고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "AdCellerant는 이제 캠페인마다 Meta의 기본 AI 자동화를 빠짐없이 끈다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "PMax will pull site images\nby default from Dec 4",
-          "body": "From December 4, Google AI will pull landing-page images into new Performance Max campaigns unless each one opts out.",
-          "mini_headline": "PMax pulls site images by default",
+          "headline": "Advertisers pull Meta ads\nover unwanted AI glow-ups",
+          "body": "Under Meta's terms starting Oct 30, advertisers are solely responsible for whatever its AI creates in their ads.",
+          "mini_headline": "Advertisers pull Meta AI ads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-pmax-image-extraction-default-horseshoe-magnet-picture-frames.jpg",
-                "cap": "From December 4, new Google PMax campaigns lift landing page images even if Dynamic images is off"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/ATM.webp?w=600&h=315&crop=1"
               },
               {
                 "t": "p",
-                "x": "Google told developers that, starting December 4, 2026, every newly created Performance Max campaign will have image extraction switched on by default, even in accounts where advertisers turned off dynamic images at the account level. The change applies across the Google Ads API, the Google Ads interface and Google Ads Editor."
+                "x": "From Oct. 30, if Meta's AI messes up your ad, that's on you. Buyers told ADWEEK that Meta's AI is already reworking their ads without asking."
               },
               {
                 "t": "p",
-                "x": "According to Google, \"with image extraction, Google AI scans provided landing pages for high-resolution images to enrich creative assets and expand reach across Search, YouTube, Display, Discover, Gmail, and Maps.\""
+                "x": "Bookshop.org said an automated account update from Meta opted it into a generative AI feature, which added an AI-generated illustration to its human-made ad without its knowledge. It has since turned off all of Meta's AI ad features."
+              },
+              {
+                "t": "img",
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-1.28.28-PM.png?w=1024",
+                "cap": "Bookshop.org's post on Threads"
               },
               {
                 "t": "p",
-                "x": "Existing Performance Max campaigns will retain their current configurations. Integrations that don't want extraction must update campaign creation payloads before December 4 to set GENERATE_IMAGE_EXTRACTION to OPTED_OUT. Because asset_automation_settings is a repeated field, an update replaces the whole array, so other settings such as TEXT_ASSET_AUTOMATION can be wiped by accident."
+                "x": "Under Meta's updated Commercial Terms, advertisers will be \"solely responsible\" for whatever its AI features create or change, including features Meta switches on. Previously, liability stood with advertisers only if they chose to use Meta's AI tools. A Meta spokesperson did not directly address the question and said advertisers can turn off individual Advantage+ features in Ads Manager at any time."
               },
               {
                 "t": "p",
-                "x": "Google also asks advertisers to confirm they own the rights to images on their landing pages and allow Google to use them for advertising, placing responsibility for licensed or third-party imagery on the advertiser."
+                "x": "At agency Exverus, even after several rounds of quality checks, the team has had to pull live ads to strip out changes that slipped through, including added sitelinks, language translations, and AI-generated images or carousels built from the brand's own media. \"Meta puts the responsibility squarely on the advertiser, even when Meta's own tools applied the enhancements,\" said Ryan Adams."
+              },
+              {
+                "t": "p",
+                "x": "AdCellerant now systematically turns off Meta's default AI automation across every campaign."
               }
             ]
           }
         },
         "ko": {
-          "headline": "PMax, 12월 4일부터\n사이트 이미지 기본 추출",
-          "body": "12월 4일부터 AI가 새 PMax 캠페인에 사이트 이미지를 기본으로 넣는다.",
-          "mini_headline": "PMax, 사이트 이미지 기본 추출",
+          "headline": "AI 무단 보정에\nMeta 광고 내린다",
+          "body": "Meta 새 약관상 10월 30일부터 AI 광고는 광고주가 전적으로 책임진다.",
+          "mini_headline": "광고주들, Meta AI 광고 중단",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-pmax-image-extraction-default-horseshoe-magnet-picture-frames.jpg",
-                "cap": "12월 4일부터 새 Google PMax 캠페인은 Dynamic images를 꺼도 랜딩 페이지 이미지를 가져온다"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/ATM.webp?w=600&h=315&crop=1"
               },
               {
                 "t": "p",
-                "x": "Google은 개발자들에게 2026년 12월 4일부터 새로 만드는 모든 Performance Max 캠페인에서 이미지 추출이 기본으로 켜진다고 알렸다. 광고주가 계정 수준에서 동적 이미지를 꺼 둔 계정도 예외가 아니다. 변경은 Google Ads API, Google Ads 인터페이스, Google Ads Editor에 모두 적용된다."
+                "x": "10월 30일부터는 Meta의 AI가 광고를 망쳐도 광고주가 책임져야 한다. 광고 구매 담당자들은 Meta의 AI가 이미 묻지도 않고 광고를 고친다고 ADWEEK에 말했다."
               },
               {
                 "t": "p",
-                "x": "Google에 따르면 \"이미지 추출 기능을 쓰면 Google AI가 제공된 랜딩 페이지에서 고해상도 이미지를 찾아 크리에이티브 애셋을 보강하고 Search, YouTube, Display, Discover, Gmail, Maps 전반으로 도달 범위를 넓힌다.\""
+                "x": "Bookshop.org는 Meta의 자동 계정 업데이트 때문에 생성형 AI 기능에 저절로 가입됐고, 이 기능이 사람이 만든 광고에 모르는 사이 AI-generated 일러스트를 덧붙였다고 밝혔다. 그 뒤 Meta의 AI 광고 기능을 전부 껐다."
+              },
+              {
+                "t": "img",
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-1.28.28-PM.png?w=1024",
+                "cap": "Bookshop.org의 Threads 게시물"
               },
               {
                 "t": "p",
-                "x": "기존 Performance Max 캠페인은 지금 설정 그대로다. 추출을 원하지 않는 연동 서비스라면 12월 4일 전에 캠페인 생성 페이로드를 고쳐 GENERATE_IMAGE_EXTRACTION을 OPTED_OUT으로 지정해야 한다. asset_automation_settings는 반복 필드여서 업데이트하면 배열 전체가 바뀌고 TEXT_ASSET_AUTOMATION 같은 다른 설정이 실수로 지워질 수 있다."
+                "x": "Meta가 개정한 상업 약관(Commercial Terms)을 보면, AI 기능이 만들거나 바꾼 모든 것은 Meta가 켠 기능이라도 광고주가 \"전적으로 책임\"을 진다. 예전에는 광고주가 Meta의 AI 도구를 직접 골라 썼을 때만 책임이 있었다. Meta 대변인은 이 질문에 바로 답하지 않고, 광고주가 Ads Manager에서 언제든 개별 Advantage+ 기능을 끌 수 있다고만 했다."
               },
               {
                 "t": "p",
-                "x": "Google은 광고주에게 랜딩 페이지 이미지의 권리를 갖고 있고 Google이 이를 광고에 써도 된다는 점까지 확인하라고 요구한다. 라이선스 이미지나 제3자 이미지의 책임은 광고주가 지는 셈이다."
+                "x": "대행사 Exverus는 품질 점검을 여러 번 거치고도 새어 나간 변경 사항을 지우려고 집행 중인 광고를 내려야 했다. 덧붙은 사이트링크, 언어 번역, 브랜드 자체 미디어로 만든 AI-generated 이미지나 캐러셀 같은 것들이다. Ryan Adams는 \"Meta의 자체 도구가 개선을 적용했을 때조차 Meta는 책임을 전적으로 광고주에게 지운다\"고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "AdCellerant는 이제 캠페인마다 Meta의 기본 AI 자동화를 빠짐없이 끈다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "PMax、12月4日から\nサイト画像を既定で取得",
-          "body": "12月4日から新規PMaxキャンペーンにGoogle AIがサイト画像を既定で取り込む。",
-          "mini_headline": "PMaxがサイト画像を既定で取得",
+          "headline": "望まぬAI補正で\n広告主がMeta広告停止",
+          "body": "10月30日からのMeta規約で、広告内のAI生成物は広告主が全責任を負う。",
+          "mini_headline": "広告主がMetaのAI広告を停止",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-pmax-image-extraction-default-horseshoe-magnet-picture-frames.jpg",
-                "cap": "12月4日から、新しいGoogle PMaxキャンペーンはDynamic imagesがオフでもランディングページの画像を取り込む"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/ATM.webp?w=600&h=315&crop=1"
               },
               {
                 "t": "p",
-                "x": "Googleは開発者向けに、2026年12月4日以降に新規作成されるすべてのPerformance Maxキャンペーンで画像抽出が既定でオンになると告知した。広告主がアカウント単位で動的画像をオフにしている場合も同様だ。この変更はGoogle Ads API、Google Adsの管理画面、Google Ads Editorのすべてに適用される。"
+                "x": "10月30日以降、MetaのAIが広告を台無しにしても責任は広告主にある。広告バイヤーはADWEEKに対し、MetaのAIがすでに断りなく広告を作り替えていると語った。"
               },
               {
                 "t": "p",
-                "x": "Googleによると「画像抽出を使うと、Google AIが提供されたランディングページから高解像度の画像を探してクリエイティブアセットを充実させ、Search、YouTube、Display、Discover、Gmail、Mapsにわたってリーチを広げる」という。"
+                "x": "Bookshop.orgによると、Metaのアカウント自動更新で生成AI機能に勝手に登録され、人が制作した広告に知らないうちにAI-generatedのイラストが加えられた。同社はその後、MetaのAI広告機能をすべてオフにした。"
+              },
+              {
+                "t": "img",
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-1.28.28-PM.png?w=1024",
+                "cap": "Bookshop.orgのThreads投稿"
               },
               {
                 "t": "p",
-                "x": "既存のPerformance Maxキャンペーンは現在の設定を維持する。抽出を望まない連携サービスは、12月4日までにキャンペーン作成のペイロードを更新し、GENERATE_IMAGE_EXTRACTIONをOPTED_OUTに設定する必要がある。asset_automation_settingsは繰り返しフィールドのため、更新すると配列全体が置き換わり、TEXT_ASSET_AUTOMATIONなど他の設定が誤って消えるおそれがある。"
+                "x": "Metaの改定版Commercial Termsでは、Metaがオンにした機能を含め、AI機能が生成・変更したあらゆるものについて広告主が「単独で責任を負う」。従来は、広告主が自らMetaのAIツールを使うと選んだ場合にのみ責任を負っていた。Metaの広報担当者はこの質問に直接答えず、広告主はAds Managerでいつでも個別のAdvantage+機能をオフにできると述べた。"
               },
               {
                 "t": "p",
-                "x": "Googleはまた、ランディングページ上の画像の権利を保有し、Googleが広告に利用することを認めていると確認するよう広告主に求めている。ライセンス画像や第三者の画像に関する責任は広告主が負うことになる。"
+                "x": "代理店Exverusでは、何度も品質チェックを重ねても、すり抜けた変更を取り除くために配信中の広告を止めざるを得なかった。追加されたサイトリンク、言語翻訳、ブランド自身の素材から作られたAI-generatedの画像やカルーセルなどだ。Ryan Adamsは「Meta自身のツールが補正を加えた場合でも、Metaは責任をはっきりと広告主に負わせる」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "AdCellerantは現在、すべてのキャンペーンでMetaの既定のAI自動化を体系的にオフにしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "PMax自12月4日起\n默认抓取网站图片",
-          "body": "自12月4日起，Google AI将把着陆页图片默认加入新建PMax广告系列。",
-          "mini_headline": "PMax默认抓取网站图片",
+          "headline": "广告主撤下Meta广告\n不满AI擅自美化",
+          "body": "根据Meta自10月30日起的条款，其AI在广告中生成的一切内容均由广告主全权负责。",
+          "mini_headline": "广告主撤下Meta AI广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-pmax-image-extraction-default-horseshoe-magnet-picture-frames.jpg",
-                "cap": "自12月4日起，即使关闭Dynamic images，新的Google PMax广告系列也会抓取着陆页图片"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/ATM.webp?w=600&h=315&crop=1"
               },
               {
                 "t": "p",
-                "x": "Google告知开发者，自2026年12月4日起，所有新建的Performance Max广告系列都将默认开启图片提取，即使广告主已在账户层级关闭动态图片也不例外。这一变化适用于Google Ads API、Google Ads界面和Google Ads Editor。"
+                "x": "自10月30日起，若Meta的AI搞砸了你的广告，责任在你。广告买家告诉ADWEEK，Meta的AI已在未经询问的情况下改动他们的广告。"
               },
               {
                 "t": "p",
-                "x": "Google表示：“借助图片提取，Google AI会扫描所提供的着陆页，寻找高分辨率图片来丰富创意素材，并扩大在Search、YouTube、Display、Discover、Gmail和Maps上的覆盖范围。”"
+                "x": "Bookshop.org表示，Meta的一次账户自动更新让它被动加入了一项生成式AI功能，该功能在它不知情的情况下，往其人工制作的广告里加了一幅AI-generated插图。此后它关闭了Meta的全部AI广告功能。"
+              },
+              {
+                "t": "img",
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-1.28.28-PM.png?w=1024",
+                "cap": "Bookshop.org在Threads上的帖子"
               },
               {
                 "t": "p",
-                "x": "现有的Performance Max广告系列将保留当前配置。不希望启用提取的集成方须在12月4日前更新广告系列创建请求，将GENERATE_IMAGE_EXTRACTION设为OPTED_OUT。由于asset_automation_settings是重复字段，更新会替换整个数组，TEXT_ASSET_AUTOMATION等其他设置可能被意外清除。"
+                "x": "根据Meta更新后的Commercial Terms，对于其AI功能生成或改动的任何内容，包括Meta自行开启的功能，广告主都将\"全权负责\"。此前，只有广告主主动选择使用Meta的AI工具时才需承担责任。Meta发言人未直接回应这一问题，只表示广告主可随时在Ads Manager中关闭单项Advantage+功能。"
               },
               {
                 "t": "p",
-                "x": "Google还要求广告主确认自己拥有着陆页图片的版权，并允许Google将其用于广告，从而把授权图片或第三方图片的责任交给广告主。"
+                "x": "代理商Exverus即便经过多轮质检，团队仍不得不撤下正在投放的广告，以清除漏网的改动，包括新增的附加链接、语言翻译，以及用品牌自有素材生成的AI-generated图片或轮播。Ryan Adams说：\"即使是Meta自己的工具施加了这些优化，Meta也把责任完全推给广告主。\""
+              },
+              {
+                "t": "p",
+                "x": "AdCellerant现在会在所有广告活动中系统性地关闭Meta默认的AI自动化。"
               }
             ]
           }
         },
         "es": {
-          "headline": "PMax tomará imágenes del sitio\npor defecto desde el 4 de dic.",
-          "body": "Desde el 4 de diciembre, Google AI tomará imágenes del sitio en cada nueva campaña Performance Max que no se excluya.",
-          "mini_headline": "PMax toma imágenes del sitio por defecto",
+          "headline": "Anunciantes retiran anuncios\nde Meta por retoques de AI",
+          "body": "Desde el 30 de octubre, los términos de Meta hacen al anunciante único responsable de lo que su AI cree.",
+          "mini_headline": "Anunciantes retiran anuncios con AI de Meta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-pmax-image-extraction-default-horseshoe-magnet-picture-frames.jpg",
-                "cap": "Desde el 4 de diciembre, las nuevas campañas de Google PMax toman imágenes de las páginas de destino aunque Dynamic images esté desactivado"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/ATM.webp?w=600&h=315&crop=1"
               },
               {
                 "t": "p",
-                "x": "Google comunicó a los desarrolladores que, a partir del 4 de diciembre de 2026, todas las campañas Performance Max que se creen tendrán activada por defecto la extracción de imágenes, incluso en cuentas donde los anunciantes desactivaron las imágenes dinámicas a nivel de cuenta. El cambio se aplica en la Google Ads API, la interfaz de Google Ads y Google Ads Editor."
+                "x": "A partir del 30 de octubre, si la AI de Meta estropea tu anuncio, la responsabilidad es tuya. Compradores de medios dijeron a ADWEEK que la AI de Meta ya está modificando sus anuncios sin pedir permiso."
               },
               {
                 "t": "p",
-                "x": "Según Google, \"con la extracción de imágenes, Google AI analiza las páginas de destino proporcionadas en busca de imágenes de alta resolución para enriquecer los recursos creativos y ampliar el alcance en Search, YouTube, Display, Discover, Gmail y Maps\"."
+                "x": "Bookshop.org dijo que una actualización automática de su cuenta de Meta la inscribió en una función de AI generativa, que añadió una ilustración AI-generated a su anuncio hecho por personas sin que lo supiera. Desde entonces ha desactivado todas las funciones publicitarias de AI de Meta."
+              },
+              {
+                "t": "img",
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-1.28.28-PM.png?w=1024",
+                "cap": "Publicación de Bookshop.org en Threads"
               },
               {
                 "t": "p",
-                "x": "Las campañas Performance Max existentes conservarán su configuración actual. Las integraciones que no quieran la extracción deben actualizar las cargas de creación de campañas antes del 4 de diciembre para fijar GENERATE_IMAGE_EXTRACTION en OPTED_OUT. Como asset_automation_settings es un campo repetido, una actualización reemplaza todo el arreglo, de modo que otros ajustes como TEXT_ASSET_AUTOMATION pueden borrarse por accidente."
+                "x": "Según los Commercial Terms actualizados de Meta, los anunciantes serán \"los únicos responsables\" de todo lo que sus funciones de AI creen o modifiquen, incluidas las que Meta active. Antes, la responsabilidad recaía en el anunciante solo si elegía usar las herramientas de AI de Meta. Un portavoz de Meta no respondió directamente a la pregunta y dijo que los anunciantes pueden desactivar funciones individuales de Advantage+ en Ads Manager en cualquier momento."
               },
               {
                 "t": "p",
-                "x": "Google también pide a los anunciantes que confirmen que poseen los derechos de las imágenes de sus páginas de destino y que permiten a Google usarlas en publicidad, lo que traslada al anunciante la responsabilidad sobre las imágenes con licencia o de terceros."
+                "x": "En la agencia Exverus, incluso tras varias rondas de control de calidad, el equipo ha tenido que retirar anuncios activos para eliminar cambios que se colaron, como sitelinks añadidos, traducciones de idioma e imágenes o carruseles AI-generated creados con el material propio de la marca. \"Meta pone la responsabilidad directamente en el anunciante, incluso cuando fueron las propias herramientas de Meta las que aplicaron las mejoras\", dijo Ryan Adams."
+              },
+              {
+                "t": "p",
+                "x": "AdCellerant ahora desactiva de forma sistemática la automatización de AI predeterminada de Meta en todas sus campañas."
               }
             ]
           }
@@ -199,125 +247,157 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "PMax, 12월 4일부터\n사이트 이미지 기본 추출",
-          "body": "12월 4일부터 AI가 새 PMax 캠페인에 사이트 이미지를 기본으로 넣는다.",
-          "mini_headline": "PMax, 사이트 이미지 기본 추출",
+          "headline": "AI 무단 보정에\nMeta 광고 내린다",
+          "body": "10월 30일 Meta 약관부터 AI가 만든 광고는 광고주가 전적으로 책임진다.",
+          "mini_headline": "광고주들, Meta AI 광고 중단",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-pmax-image-extraction-default-horseshoe-magnet-picture-frames.jpg",
-                "cap": "12월 4일부터 새 Google PMax 캠페인은 Dynamic images를 꺼도 랜딩 페이지 이미지를 가져온다"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/ATM.webp?w=600&h=315&crop=1"
               },
               {
                 "t": "p",
-                "x": "Google은 개발자들에게 2026년 12월 4일부터 새로 만드는 모든 Performance Max 캠페인에서 이미지 추출이 기본으로 켜진다고 알렸다. 광고주가 계정 수준에서 동적 이미지를 꺼 둔 계정도 마찬가지다. 이 변경은 Google Ads API, Google Ads 인터페이스, Google Ads Editor 전반에 적용된다."
+                "x": "10월 30일부터는 Meta의 AI가 광고를 망쳐도 그 책임은 광고주에게 있다. 광고 구매 담당자들은 ADWEEK에 Meta의 AI가 이미 묻지도 않고 광고를 고치고 있다고 말했다."
               },
               {
                 "t": "p",
-                "x": "Google에 따르면 \"이미지 추출 기능을 쓰면 Google AI가 제공된 랜딩 페이지에서 고해상도 이미지를 찾아 크리에이티브 애셋을 보강하고 Search, YouTube, Display, Discover, Gmail, Maps 전반으로 도달 범위를 넓힌다.\""
+                "x": "Bookshop.org는 Meta의 자동 계정 업데이트로 생성형 AI 기능에 자동 가입됐고, 이 기능이 사람이 만든 광고에 모르는 사이 AI-generated 일러스트를 덧붙였다고 밝혔다. 이후 Meta의 AI 광고 기능을 모두 껐다."
+              },
+              {
+                "t": "img",
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-1.28.28-PM.png?w=1024",
+                "cap": "Bookshop.org의 Threads 게시물"
               },
               {
                 "t": "p",
-                "x": "기존 Performance Max 캠페인은 현재 설정을 그대로 유지한다. 추출을 원하지 않는 연동 서비스는 12월 4일 전에 캠페인 생성 페이로드를 수정해 GENERATE_IMAGE_EXTRACTION을 OPTED_OUT으로 지정해야 한다. asset_automation_settings는 반복 필드라서 업데이트하면 배열 전체가 바뀌고, TEXT_ASSET_AUTOMATION 같은 다른 설정이 실수로 지워질 수 있다."
+                "x": "Meta가 개정한 상업 약관(Commercial Terms)에 따르면, Meta가 켠 기능을 포함해 AI 기능이 만들거나 바꾼 모든 것에 광고주가 \"전적으로 책임\"을 진다. 이전에는 광고주가 Meta의 AI 도구를 쓰기로 직접 선택했을 때만 책임을 졌다. Meta 대변인은 이 질문에 직접 답하지 않았고, 광고주가 Ads Manager에서 언제든 개별 Advantage+ 기능을 끌 수 있다고만 말했다."
               },
               {
                 "t": "p",
-                "x": "Google은 광고주에게 랜딩 페이지 이미지의 권리를 보유하고 있으며 Google이 이를 광고에 쓰도록 허용한다는 점도 확인하라고 요구한다. 라이선스 이미지나 제3자 이미지에 대한 책임을 광고주에게 지우는 셈이다."
+                "x": "대행사 Exverus는 여러 차례 품질 점검을 거친 뒤에도 빠져나간 변경 사항을 지우려고 집행 중인 광고를 내려야 했다. 추가된 사이트링크, 언어 번역, 브랜드 자체 미디어로 만든 AI-generated 이미지나 캐러셀 등이다. Ryan Adams는 \"Meta의 자체 도구가 개선을 적용했을 때조차 Meta는 책임을 전적으로 광고주에게 지운다\"고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "AdCellerant는 이제 모든 캠페인에서 Meta의 기본 AI 자동화를 체계적으로 끈다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "PMax、12月4日から\nサイト画像を既定で取得",
-          "body": "12月4日から新規PMaxキャンペーンにGoogle AIがサイト画像を既定で取り込む。",
-          "mini_headline": "PMaxがサイト画像を既定で取得",
+          "headline": "望まぬAI補正で\n広告主がMeta広告停止",
+          "body": "10月30日からのMeta規約で、広告内のAI生成物は広告主が全責任を負う。",
+          "mini_headline": "広告主がMetaのAI広告を停止",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-pmax-image-extraction-default-horseshoe-magnet-picture-frames.jpg",
-                "cap": "12月4日から、新しいGoogle PMaxキャンペーンはDynamic imagesがオフでもランディングページの画像を取り込む"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/ATM.webp?w=600&h=315&crop=1"
               },
               {
                 "t": "p",
-                "x": "Googleは開発者向けに、2026年12月4日以降に新規作成されるすべてのPerformance Maxキャンペーンで画像抽出が既定でオンになると告知した。広告主がアカウント単位で動的画像をオフにしている場合も同様だ。この変更はGoogle Ads API、Google Adsの管理画面、Google Ads Editorのすべてに適用される。"
+                "x": "10月30日以降、MetaのAIが広告を台無しにしても責任は広告主にある。広告バイヤーはADWEEKに対し、MetaのAIがすでに断りなく広告を作り替えていると語った。"
               },
               {
                 "t": "p",
-                "x": "Googleによると「画像抽出を使うと、Google AIが提供されたランディングページから高解像度の画像を探してクリエイティブアセットを充実させ、Search、YouTube、Display、Discover、Gmail、Mapsにわたってリーチを広げる」という。"
+                "x": "Bookshop.orgによると、Metaのアカウント自動更新で生成AI機能に勝手に登録され、人が制作した広告に知らないうちにAI-generatedのイラストが加えられた。同社はその後、MetaのAI広告機能をすべてオフにした。"
+              },
+              {
+                "t": "img",
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-1.28.28-PM.png?w=1024",
+                "cap": "Bookshop.orgのThreads投稿"
               },
               {
                 "t": "p",
-                "x": "既存のPerformance Maxキャンペーンは現在の設定を維持する。抽出を望まない連携サービスは、12月4日までにキャンペーン作成のペイロードを更新し、GENERATE_IMAGE_EXTRACTIONをOPTED_OUTに設定する必要がある。asset_automation_settingsは繰り返しフィールドのため、更新すると配列全体が置き換わり、TEXT_ASSET_AUTOMATIONなど他の設定が誤って消えるおそれがある。"
+                "x": "Metaの改定版Commercial Termsでは、Metaがオンにした機能を含め、AI機能が生成・変更したあらゆるものについて広告主が「単独で責任を負う」。従来は、広告主が自らMetaのAIツールを使うと選んだ場合にのみ責任を負っていた。Metaの広報担当者はこの質問に直接答えず、広告主はAds Managerでいつでも個別のAdvantage+機能をオフにできると述べた。"
               },
               {
                 "t": "p",
-                "x": "Googleはまた、ランディングページ上の画像の権利を保有し、Googleが広告に利用することを認めていると確認するよう広告主に求めている。ライセンス画像や第三者の画像に関する責任は広告主が負うことになる。"
+                "x": "代理店Exverusでは、何度も品質チェックを重ねても、すり抜けた変更を取り除くために配信中の広告を止めざるを得なかった。追加されたサイトリンク、言語翻訳、ブランド自身の素材から作られたAI-generatedの画像やカルーセルなどだ。Ryan Adamsは「Meta自身のツールが補正を加えた場合でも、Metaは責任をはっきりと広告主に負わせる」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "AdCellerantは現在、すべてのキャンペーンでMetaの既定のAI自動化を体系的にオフにしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "PMax自12月4日起\n默认抓取网站图片",
-          "body": "自12月4日起，Google AI将把着陆页图片默认加入新建PMax广告系列。",
-          "mini_headline": "PMax默认抓取网站图片",
+          "headline": "广告主撤下Meta广告\n不满AI擅自美化",
+          "body": "根据Meta自10月30日起的条款，其AI在广告中生成的一切内容均由广告主全权负责。",
+          "mini_headline": "广告主撤下Meta AI广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-pmax-image-extraction-default-horseshoe-magnet-picture-frames.jpg",
-                "cap": "自12月4日起，即使关闭Dynamic images，新的Google PMax广告系列也会抓取着陆页图片"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/ATM.webp?w=600&h=315&crop=1"
               },
               {
                 "t": "p",
-                "x": "Google告知开发者，自2026年12月4日起，所有新建的Performance Max广告系列都将默认开启图片提取，即使广告主已在账户层级关闭动态图片也不例外。这一变化适用于Google Ads API、Google Ads界面和Google Ads Editor。"
+                "x": "自10月30日起，若Meta的AI搞砸了你的广告，责任在你。广告买家告诉ADWEEK，Meta的AI已在未经询问的情况下改动他们的广告。"
               },
               {
                 "t": "p",
-                "x": "Google表示：“借助图片提取，Google AI会扫描所提供的着陆页，寻找高分辨率图片来丰富创意素材，并扩大在Search、YouTube、Display、Discover、Gmail和Maps上的覆盖范围。”"
+                "x": "Bookshop.org表示，Meta的一次账户自动更新让它被动加入了一项生成式AI功能，该功能在它不知情的情况下，往其人工制作的广告里加了一幅AI-generated插图。此后它关闭了Meta的全部AI广告功能。"
+              },
+              {
+                "t": "img",
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-1.28.28-PM.png?w=1024",
+                "cap": "Bookshop.org在Threads上的帖子"
               },
               {
                 "t": "p",
-                "x": "现有的Performance Max广告系列将保留当前配置。不希望启用提取的集成方须在12月4日前更新广告系列创建请求，将GENERATE_IMAGE_EXTRACTION设为OPTED_OUT。由于asset_automation_settings是重复字段，更新会替换整个数组，TEXT_ASSET_AUTOMATION等其他设置可能被意外清除。"
+                "x": "根据Meta更新后的Commercial Terms，对于其AI功能生成或改动的任何内容，包括Meta自行开启的功能，广告主都将\"全权负责\"。此前，只有广告主主动选择使用Meta的AI工具时才需承担责任。Meta发言人未直接回应这一问题，只表示广告主可随时在Ads Manager中关闭单项Advantage+功能。"
               },
               {
                 "t": "p",
-                "x": "Google还要求广告主确认自己拥有着陆页图片的版权，并允许Google将其用于广告，从而把授权图片或第三方图片的责任交给广告主。"
+                "x": "代理商Exverus即便经过多轮质检，团队仍不得不撤下正在投放的广告，以清除漏网的改动，包括新增的附加链接、语言翻译，以及用品牌自有素材生成的AI-generated图片或轮播。Ryan Adams说：\"即使是Meta自己的工具施加了这些优化，Meta也把责任完全推给广告主。\""
+              },
+              {
+                "t": "p",
+                "x": "AdCellerant现在会在所有广告活动中系统性地关闭Meta默认的AI自动化。"
               }
             ]
           }
         },
         "es": {
-          "headline": "PMax tomará imágenes del sitio\npor defecto desde el 4 de dic.",
-          "body": "Desde el 4 de diciembre, Google AI tomará imágenes del sitio en cada nueva campaña Performance Max que no se excluya.",
-          "mini_headline": "PMax toma imágenes del sitio por defecto",
+          "headline": "Anunciantes retiran anuncios\nde Meta por retoques de AI",
+          "body": "Desde el 30 de octubre, los términos de Meta hacen al anunciante único responsable de lo que su AI cree.",
+          "mini_headline": "Anunciantes retiran anuncios con AI de Meta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-pmax-image-extraction-default-horseshoe-magnet-picture-frames.jpg",
-                "cap": "Desde el 4 de diciembre, las nuevas campañas de Google PMax toman imágenes de las páginas de destino aunque Dynamic images esté desactivado"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/ATM.webp?w=600&h=315&crop=1"
               },
               {
                 "t": "p",
-                "x": "Google comunicó a los desarrolladores que, a partir del 4 de diciembre de 2026, todas las campañas Performance Max que se creen tendrán activada por defecto la extracción de imágenes, incluso en cuentas donde los anunciantes desactivaron las imágenes dinámicas a nivel de cuenta. El cambio se aplica en la Google Ads API, la interfaz de Google Ads y Google Ads Editor."
+                "x": "A partir del 30 de octubre, si la AI de Meta estropea tu anuncio, la responsabilidad es tuya. Compradores de medios dijeron a ADWEEK que la AI de Meta ya está modificando sus anuncios sin pedir permiso."
               },
               {
                 "t": "p",
-                "x": "Según Google, \"con la extracción de imágenes, Google AI analiza las páginas de destino proporcionadas en busca de imágenes de alta resolución para enriquecer los recursos creativos y ampliar el alcance en Search, YouTube, Display, Discover, Gmail y Maps\"."
+                "x": "Bookshop.org dijo que una actualización automática de su cuenta de Meta la inscribió en una función de AI generativa, que añadió una ilustración AI-generated a su anuncio hecho por personas sin que lo supiera. Desde entonces ha desactivado todas las funciones publicitarias de AI de Meta."
+              },
+              {
+                "t": "img",
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-1.28.28-PM.png?w=1024",
+                "cap": "Publicación de Bookshop.org en Threads"
               },
               {
                 "t": "p",
-                "x": "Las campañas Performance Max existentes conservarán su configuración actual. Las integraciones que no quieran la extracción deben actualizar las cargas de creación de campañas antes del 4 de diciembre para fijar GENERATE_IMAGE_EXTRACTION en OPTED_OUT. Como asset_automation_settings es un campo repetido, una actualización reemplaza todo el arreglo, de modo que otros ajustes como TEXT_ASSET_AUTOMATION pueden borrarse por accidente."
+                "x": "Según los Commercial Terms actualizados de Meta, los anunciantes serán \"los únicos responsables\" de todo lo que sus funciones de AI creen o modifiquen, incluidas las que Meta active. Antes, la responsabilidad recaía en el anunciante solo si elegía usar las herramientas de AI de Meta. Un portavoz de Meta no respondió directamente a la pregunta y dijo que los anunciantes pueden desactivar funciones individuales de Advantage+ en Ads Manager en cualquier momento."
               },
               {
                 "t": "p",
-                "x": "Google también pide a los anunciantes que confirmen que poseen los derechos de las imágenes de sus páginas de destino y que permiten a Google usarlas en publicidad, lo que traslada al anunciante la responsabilidad sobre las imágenes con licencia o de terceros."
+                "x": "En la agencia Exverus, incluso tras varias rondas de control de calidad, el equipo ha tenido que retirar anuncios activos para eliminar cambios que se colaron, como sitelinks añadidos, traducciones de idioma e imágenes o carruseles AI-generated creados con el material propio de la marca. \"Meta pone la responsabilidad directamente en el anunciante, incluso cuando fueron las propias herramientas de Meta las que aplicaron las mejoras\", dijo Ryan Adams."
+              },
+              {
+                "t": "p",
+                "x": "AdCellerant ahora desactiva de forma sistemática la automatización de AI predeterminada de Meta en todas sus campañas."
               }
             ]
           }
@@ -325,15 +405,15 @@
       }
     },
     {
-      "id": "marketing-walmart-agents",
+      "id": "marketing-chatgpt-ad-stack",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Walmart, 쇼핑 대행\nAI 에이전트 규칙 마련",
-      "body": "Walmart가 구매 승인과 지출 한도를 두고 AI 쇼핑 에이전트에 문을 연다.",
-      "mini_headline": "Walmart, AI 쇼핑 에이전트에 문 열어",
+      "headline": "OpenAI가 공개한\nChatGPT 광고 방식",
+      "body": "OpenAI에 따르면 ChatGPT 광고 후보는 LLM이 대화 의도를 읽어 고른다.",
+      "mini_headline": "ChatGPT 광고 구조 들여다보기",
       "tool": "Marketing",
-      "source": "Adweek",
-      "url": "https://www.adweek.com/commerce/walmart-embraces-ai-agents-that-shop-on-behalf-of-customers/",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/openai-details-chatgpt-llm-ad-stack/593857/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -341,179 +421,221 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Walmart-AI.jpg?w=1240",
-            "cap": "Walmart가 에이전트 쇼핑을 지원하는 새 기능을 내놓는다."
+            "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_2810482073_1600x840-92.png"
           },
           {
             "t": "p",
-            "x": "Walmart가 고객 대신 쇼핑하는 에이전트에 문을 연다. Amazon이 Meta의 Muse AI 어시스턴트가 같은 시도를 하자 막은 지 한 달 만이다."
+            "x": "OpenAI가 ChatGPT 광고 시스템의 작동 방식을 공개했다. 대화를 해석하고 관련 광고를 고르며, 광고 노출을 일반 답변과 떼어 놓는 구조다. OpenAI에 따르면 ChatGPT Ads는 출시 후 200일이 채 안 돼 연환산 매출 런레이트 $1 billion 수준에 올랐고, 광고를 집행한 광고주는 100,000곳이 넘는다."
           },
           {
             "t": "p",
-            "x": "Walmart는 한 달 안에 Agent Profiles를 내놓는다. 쇼핑객은 AI 에이전트마다 전용 프로필로 권한을 주고 그 구매 내역을 따로 본다. 구매할 때마다 승인을 받게 하거나 지출 한도 안에서 에이전트가 알아서 사도록 맡겨도 된다. Walmart Agent Gateway 베타는 MCP로 에이전트에게 소비자용 웹사이트보다 빠르고 안정적인 쇼핑 경로를 열어 준다."
+            "x": "광고를 고르는 시스템은 ChatGPT의 답변을 쓰는 시스템과 따로, 자체 모델과 코드로 돌아간다. ChatGPT는 이 시스템을 기다려 주지 않는다. 너무 늦게 도착한 광고는 그 답변에 붙지 못한다."
           },
           {
             "t": "p",
-            "x": "Walmart 규칙상 반품 정책은 그대로이고 에이전트 구매는 기본적으로 고객 승인을 거친다. 에이전트는 쇼핑객이 의도한 범위를 넘을 수 없고 결제 카드 정보도 받지 않는다. 약관을 어기는 에이전트는 차단된다."
+            "x": "OpenAI가 \"오케스트레이터(orchestrator)\"라 부르는 모델이 대화를 읽고 관련 부분을 검색 쿼리와 임베딩으로 바꾼다. \"상태 유지(stateful)\" 세션 내내 세부 정보도 추적한다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/sej_openai-orchestrator-infographic-332.png"
           },
           {
             "t": "p",
-            "x": "Walmart Connect의 Ryan Mayward는 대화가 키워드보다 많은 것을 드러낸다며 \"기회는 고객이 무엇을 검색하는지뿐 아니라 무엇을 이루려 하는지에 맞춰 관련성을 갖추는 데 있다\"고 말했다. 마켓플레이스 SVP Manish Joneja는 AI 기반(AI-powered) 쇼핑에서는 정확한 상품 정보, 가격, 배송 약속이 한층 더 중요해진다고 봤다."
+            "x": "이 모델은 자격 요건(위치 타기팅, 정책, 예산, 페이싱)을 확인하고 적합성과 예상 조회·클릭·전환 가능성을 따진 다음, 최종 순위·가격·선정을 맡은 별도 경매 도구에 후보를 넘긴다. 낙찰자를 고르거나 가격을 매기는 일은 언어 모델이 직접 하지 않는다."
+          },
+          {
+            "t": "p",
+            "x": "경매에서 이긴 광고도 경매 후 적합성 검사에서 걸러지거나 노출 시간대를 놓칠 수 있다. 이번 글에 CPA, ROAS, 전환율 벤치마크는 없다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Walmart sets rules for AI\nagents that shop for you",
-          "body": "Walmart opens to AI shopping agents with purchase approvals and spending limits, after Amazon blocked Meta's Muse.",
-          "mini_headline": "Walmart opens to AI shoppers",
+          "headline": "OpenAI details how ChatGPT\npicks and serves its ads",
+          "body": "OpenAI says ChatGPT's LLM orchestrator reads multi-turn intent and nominates ads for a separate auction tool.",
+          "mini_headline": "Inside ChatGPT's ad stack",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Walmart-AI.jpg?w=1240",
-                "cap": "Walmart is launching new features to support agentic shopping."
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_2810482073_1600x840-92.png"
               },
               {
                 "t": "p",
-                "x": "Walmart is opening the door to agents that shop on customers' behalf, a month after Amazon blocked Meta's Muse AI assistant from doing the same."
+                "x": "OpenAI has shared how its ChatGPT advertising system interprets conversations, selects relevant ads, and keeps ad serving separate from organic answers. It says ChatGPT Ads reached $1 billion in annualized revenue run rate less than 200 days after launch, and more than 100,000 advertisers have run ads."
               },
               {
                 "t": "p",
-                "x": "Within the next month, Walmart will launch Agent Profiles, letting shoppers authorize each AI agent with a dedicated profile and see its purchases separately. Shoppers can require approval for purchases or let an agent buy within a spending limit. A beta of Walmart Agent Gateway uses MCP to give agents a faster, more reliable way to shop than the consumer website."
+                "x": "The system choosing ads runs separately from the one writing ChatGPT's answers, with its own models and code. ChatGPT doesn't wait for it; an ad that arrives too late won't appear with that response."
               },
               {
                 "t": "p",
-                "x": "Walmart's rules say returns still apply, customers must approve agent purchases by default, agents cannot do more than the shopper intends and don't receive payment card information. Agents that don't follow the terms will be blocked."
+                "x": "A model OpenAI calls the \"orchestrator\" reads the conversation, turns relevant parts into search queries and embeddings, and keeps track of details across \"stateful\" sessions."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/sej_openai-orchestrator-infographic-332.png"
               },
               {
                 "t": "p",
-                "x": "Walmart Connect's Ryan Mayward said conversations reveal more than keywords: \"The opportunity is to be relevant to what a customer is trying to accomplish, not just what they're searching for.\" Marketplace SVP Manish Joneja said accurate product information, prices and delivery promises become even more important for AI-powered shopping."
+                "x": "It checks eligibility (location targeting, policy, budget, pacing), assesses fit and likely view, click or conversion, then sends candidates to a separate auction tool that handles final ranking, pricing and selection. The language model doesn't directly choose the winner or set the price."
+              },
+              {
+                "t": "p",
+                "x": "Even an auction winner can be dropped by a post-auction fit check or miss the delivery window. The post gives no CPA, ROAS or conversion-rate benchmarks."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Walmart, 쇼핑 대행\nAI 에이전트 규칙 마련",
-          "body": "Walmart가 구매 승인과 지출 한도를 두고 AI 쇼핑 에이전트에 문을 연다.",
-          "mini_headline": "Walmart, AI 쇼핑 에이전트에 문 열어",
+          "headline": "OpenAI가 공개한\nChatGPT 광고 방식",
+          "body": "OpenAI에 따르면 ChatGPT 광고 후보는 LLM이 대화 의도를 읽어 고른다.",
+          "mini_headline": "ChatGPT 광고 구조 들여다보기",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Walmart-AI.jpg?w=1240",
-                "cap": "Walmart가 에이전트 쇼핑을 지원하는 새 기능을 내놓는다."
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_2810482073_1600x840-92.png"
               },
               {
                 "t": "p",
-                "x": "Walmart가 고객 대신 쇼핑하는 에이전트에 문을 연다. Amazon이 Meta의 Muse AI 어시스턴트가 같은 시도를 하자 막은 지 한 달 만이다."
+                "x": "OpenAI가 ChatGPT 광고 시스템의 작동 방식을 공개했다. 대화를 해석하고 관련 광고를 고르며, 광고 노출을 일반 답변과 떼어 놓는 구조다. OpenAI에 따르면 ChatGPT Ads는 출시 후 200일이 채 안 돼 연환산 매출 런레이트 $1 billion 수준에 올랐고, 광고를 집행한 광고주는 100,000곳이 넘는다."
               },
               {
                 "t": "p",
-                "x": "Walmart는 한 달 안에 Agent Profiles를 내놓는다. 쇼핑객은 AI 에이전트마다 전용 프로필로 권한을 주고 그 구매 내역을 따로 본다. 구매할 때마다 승인을 받게 하거나 지출 한도 안에서 에이전트가 알아서 사도록 맡겨도 된다. Walmart Agent Gateway 베타는 MCP로 에이전트에게 소비자용 웹사이트보다 빠르고 안정적인 쇼핑 경로를 열어 준다."
+                "x": "광고를 고르는 시스템은 ChatGPT의 답변을 쓰는 시스템과 따로, 자체 모델과 코드로 돌아간다. ChatGPT는 이 시스템을 기다려 주지 않는다. 너무 늦게 도착한 광고는 그 답변에 붙지 못한다."
               },
               {
                 "t": "p",
-                "x": "Walmart 규칙상 반품 정책은 그대로이고 에이전트 구매는 기본적으로 고객 승인을 거친다. 에이전트는 쇼핑객이 의도한 범위를 넘을 수 없고 결제 카드 정보도 받지 않는다. 약관을 어기는 에이전트는 차단된다."
+                "x": "OpenAI가 \"오케스트레이터(orchestrator)\"라 부르는 모델이 대화를 읽고 관련 부분을 검색 쿼리와 임베딩으로 바꾼다. \"상태 유지(stateful)\" 세션 내내 세부 정보도 추적한다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/sej_openai-orchestrator-infographic-332.png"
               },
               {
                 "t": "p",
-                "x": "Walmart Connect의 Ryan Mayward는 대화가 키워드보다 많은 것을 드러낸다며 \"기회는 고객이 무엇을 검색하는지뿐 아니라 무엇을 이루려 하는지에 맞춰 관련성을 갖추는 데 있다\"고 말했다. 마켓플레이스 SVP Manish Joneja는 AI 기반(AI-powered) 쇼핑에서는 정확한 상품 정보, 가격, 배송 약속이 한층 더 중요해진다고 봤다."
+                "x": "이 모델은 자격 요건(위치 타기팅, 정책, 예산, 페이싱)을 확인하고 적합성과 예상 조회·클릭·전환 가능성을 따진 다음, 최종 순위·가격·선정을 맡은 별도 경매 도구에 후보를 넘긴다. 낙찰자를 고르거나 가격을 매기는 일은 언어 모델이 직접 하지 않는다."
+              },
+              {
+                "t": "p",
+                "x": "경매에서 이긴 광고도 경매 후 적합성 검사에서 걸러지거나 노출 시간대를 놓칠 수 있다. 이번 글에 CPA, ROAS, 전환율 벤치마크는 없다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Walmart、買い物代行の\nAIエージェントに規則",
-          "body": "Walmartは購入承認と支出上限を設け、AIショッピングエージェントを受け入れる。",
-          "mini_headline": "WalmartがAI買い物客に門戸",
+          "headline": "OpenAIが明かす\nChatGPT広告の仕組み",
+          "body": "OpenAIによると、ChatGPTのLLMが意図を読み、広告候補を別の入札ツールに渡す。",
+          "mini_headline": "ChatGPT広告の舞台裏",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Walmart-AI.jpg?w=1240",
-                "cap": "Walmartはエージェントによるショッピングを支える新機能を投入する。"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_2810482073_1600x840-92.png"
               },
               {
                 "t": "p",
-                "x": "Walmartは、顧客に代わって買い物をするエージェントに門戸を開く。AmazonがMetaのMuse AIアシスタントによる同様の買い物をブロックしてから、ひと月後のことだ。"
+                "x": "OpenAIは、ChatGPTの広告システムが会話を解釈し、関連する広告を選び、広告配信をオーガニックな回答から切り離す仕組みを公開した。同社によると、ChatGPT Adsはローンチから200日足らずで年換算売上ランレートが$1 billion の水準に達し、100,000以上の広告主が広告を出稿した。"
               },
               {
                 "t": "p",
-                "x": "Walmartは今後ひと月以内にAgent Profilesを開始する。買い物客はAIエージェントごとに専用プロフィールで権限を与え、その購入を個別に確認できる。購入ごとに承認を求めることも、支出上限の範囲でエージェントに購入を任せることもできる。Walmart Agent GatewayのベータはMCPを使い、消費者向けウェブサイトより速く確実に買い物できる手段をエージェントに提供する。"
+                "x": "広告を選ぶシステムは、ChatGPTの回答を書くシステムとは別に、独自のモデルとコードで動く。ChatGPTはそれを待たず、届くのが遅すぎた広告はその回答には表示されない。"
               },
               {
                 "t": "p",
-                "x": "Walmartのルールでは、返品は従来どおり適用され、エージェントによる購入は既定で顧客の承認が必要となる。エージェントは買い物客の意図を超える行動はできず、決済カード情報も受け取らない。規約に従わないエージェントはブロックされる。"
+                "x": "OpenAIが「orchestrator(オーケストレーター)」と呼ぶモデルが会話を読み、関連部分を検索クエリと埋め込みに変換し、「stateful」なセッションをまたいで詳細を追跡する。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/sej_openai-orchestrator-infographic-332.png"
               },
               {
                 "t": "p",
-                "x": "Walmart ConnectのRyan Mayward氏は、会話はキーワード以上のものを明らかにすると述べ、「チャンスは、顧客が何を検索しているかだけでなく、何を成し遂げようとしているかに関連性を持たせることにある」と語った。マーケットプレイス担当SVPのManish Joneja氏は、AIを活用した(AI-powered)ショッピングでは正確な商品情報、価格、配送の約束がいっそう重要になると述べた。"
+                "x": "このモデルは適格性(地域ターゲティング、ポリシー、予算、ペーシング)を確認し、適合度と表示・クリック・コンバージョンの見込みを評価したうえで、最終的なランク付け、価格設定、選定を担う別の入札ツールに候補を送る。言語モデルが落札者を直接選んだり、価格を決めたりすることはない。"
+              },
+              {
+                "t": "p",
+                "x": "入札で勝った広告でも、入札後の適合チェックで外されたり、配信の時間枠を逃したりすることがある。投稿にはCPA、ROAS、コンバージョン率のベンチマークは示されていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Walmart为替你购物的\nAI代理立规矩",
-          "body": "Amazon封堵Meta的Muse后，Walmart以审批和消费上限向AI购物代理开放。",
-          "mini_headline": "Walmart向AI购物代理开放",
+          "headline": "OpenAI详解\nChatGPT如何选投广告",
+          "body": "OpenAI称，ChatGPT的LLM编排器读取多轮意图，并把广告提名给独立竞价工具。",
+          "mini_headline": "ChatGPT广告系统揭秘",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Walmart-AI.jpg?w=1240",
-                "cap": "Walmart推出支持代理式购物的新功能。"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_2810482073_1600x840-92.png"
               },
               {
                 "t": "p",
-                "x": "Walmart正向代替顾客购物的代理敞开大门，而就在一个月前，Amazon阻止了Meta的Muse AI助手做同样的事。"
+                "x": "OpenAI介绍了ChatGPT广告系统如何理解对话、挑选相关广告，并将广告投放与自然回答分开。OpenAI称，ChatGPT Ads上线不到200天，年化收入运行率就达到 $1 billion 的水平，已有超过100,000家广告主投放广告。"
               },
               {
                 "t": "p",
-                "x": "Walmart将在未来一个月内推出Agent Profiles，让购物者为每个AI代理授权专属档案，并单独查看其购买记录。购物者可以要求每笔购买都需批准，也可以让代理在消费上限内自行购买。Walmart Agent Gateway测试版借助MCP，为代理提供比面向消费者的网站更快、更可靠的购物方式。"
+                "x": "挑选广告的系统与撰写ChatGPT回答的系统分开运行，拥有各自的模型和代码。ChatGPT不会等待它；来得太晚的广告不会随该条回答出现。"
               },
               {
                 "t": "p",
-                "x": "按照Walmart的规则，退货照常适用，代理购买默认须经顾客批准，代理不得超出购物者的意图行事，也不会获得支付卡信息。不遵守条款的代理将被屏蔽。"
+                "x": "被OpenAI称为\"orchestrator\"（编排器）的模型会读取对话，把相关部分转为搜索查询和嵌入向量，并在\"stateful\"（有状态）会话中持续追踪细节。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/sej_openai-orchestrator-infographic-332.png"
               },
               {
                 "t": "p",
-                "x": "Walmart Connect的Ryan Mayward表示，对话透露的信息比关键词更多：“机会在于贴合顾客想要完成的事情，而不仅仅是他们在搜索什么。”Marketplace高级副总裁（SVP）Manish Joneja表示，对于AI驱动（AI-powered）的购物而言，准确的商品信息、价格和配送承诺变得更加重要。"
+                "x": "它会检查投放资格（地理定向、政策、预算、投放节奏），评估匹配度以及可能的浏览、点击或转化，再把候选广告交给独立的竞价工具，由后者完成最终排序、定价和选择。语言模型不会直接选出胜者或设定价格。"
+              },
+              {
+                "t": "p",
+                "x": "即便赢得竞价，广告也可能在竞价后的匹配检查中被剔除，或错过投放窗口。文章未提供CPA、ROAS或转化率基准。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Walmart fija reglas para agentes\nde IA que compran por ti",
-          "body": "Walmart admite agentes de compra con IA, con aprobaciones y topes de gasto, tras el veto de Amazon a Muse de Meta.",
-          "mini_headline": "Walmart se abre a los compradores IA",
+          "headline": "OpenAI explica cómo ChatGPT\nelige y sirve sus anuncios",
+          "body": "OpenAI dice que el orquestador LLM de ChatGPT lee la intención y propone anuncios a una subasta aparte.",
+          "mini_headline": "Dentro del sistema de anuncios de ChatGPT",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Walmart-AI.jpg?w=1240",
-                "cap": "Walmart lanza nuevas funciones para dar soporte a las compras con agentes."
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_2810482073_1600x840-92.png"
               },
               {
                 "t": "p",
-                "x": "Walmart abre la puerta a los agentes que compran en nombre de los clientes, un mes después de que Amazon impidiera al asistente Muse AI de Meta hacer lo mismo."
+                "x": "OpenAI explicó cómo su sistema publicitario de ChatGPT interpreta las conversaciones, selecciona anuncios relevantes y mantiene la publicación de anuncios separada de las respuestas orgánicas. Según la empresa, ChatGPT Ads alcanzó una tasa anualizada de ingresos de $1 billion (mil millones de dólares) menos de 200 días después de su lanzamiento, y más de 100,000 anunciantes han publicado anuncios."
               },
               {
                 "t": "p",
-                "x": "En el próximo mes, Walmart lanzará Agent Profiles, que permitirá a los compradores autorizar a cada agente de IA con un perfil propio y ver sus compras por separado. Los compradores podrán exigir aprobación para las compras o dejar que un agente compre dentro de un límite de gasto. Una beta de Walmart Agent Gateway usa MCP para ofrecer a los agentes una forma de comprar más rápida y fiable que el sitio web para consumidores."
+                "x": "El sistema que elige los anuncios funciona por separado del que redacta las respuestas de ChatGPT, con sus propios modelos y código. ChatGPT no lo espera: un anuncio que llega demasiado tarde no aparecerá con esa respuesta."
               },
               {
                 "t": "p",
-                "x": "Según las reglas de Walmart, las devoluciones siguen aplicándose, los clientes deben aprobar por defecto las compras de los agentes, los agentes no pueden hacer más de lo que pretende el comprador y no reciben información de tarjetas de pago. Los agentes que no cumplan los términos serán bloqueados."
+                "x": "Un modelo que OpenAI llama \"orchestrator\" (orquestador) lee la conversación, convierte las partes relevantes en consultas de búsqueda y embeddings, y sigue los detalles a lo largo de sesiones \"stateful\" (con estado)."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/sej_openai-orchestrator-infographic-332.png"
               },
               {
                 "t": "p",
-                "x": "Ryan Mayward, de Walmart Connect, dijo que las conversaciones revelan más que las palabras clave: \"La oportunidad está en ser relevante para lo que un cliente intenta lograr, no solo para lo que busca\". El SVP de Marketplace, Manish Joneja, afirmó que la información precisa de productos, los precios y las promesas de entrega cobran aún más importancia en las compras impulsadas por IA (AI-powered)."
+                "x": "Comprueba la elegibilidad (segmentación por ubicación, políticas, presupuesto, ritmo de entrega), evalúa la adecuación y la probabilidad de visualización, clic o conversión, y luego envía los candidatos a una herramienta de subasta independiente que se encarga de la clasificación final, el precio y la selección. El modelo de lenguaje no elige directamente al ganador ni fija el precio."
+              },
+              {
+                "t": "p",
+                "x": "Incluso un ganador de la subasta puede quedar descartado por una comprobación de adecuación posterior o perder la ventana de entrega. La publicación no ofrece referencias de CPA, ROAS ni tasa de conversión."
               }
             ]
           }
@@ -521,125 +643,153 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Walmart, 쇼핑 대행\nAI 에이전트 규칙 마련",
-          "body": "Walmart가 구매 승인과 지출 한도를 두고 AI 쇼핑 에이전트에 문을 연다.",
-          "mini_headline": "Walmart, AI 쇼핑 에이전트에 문 열어",
+          "headline": "OpenAI가 공개한\nChatGPT 광고 방식",
+          "body": "OpenAI는 LLM이 의도를 읽어 ChatGPT 광고 후보를 고른다고 밝혔다.",
+          "mini_headline": "ChatGPT 광고 구조 들여다보기",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Walmart-AI.jpg?w=1240",
-                "cap": "Walmart가 에이전트 쇼핑을 지원하는 새 기능을 내놓는다."
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_2810482073_1600x840-92.png"
               },
               {
                 "t": "p",
-                "x": "Walmart가 고객 대신 쇼핑하는 에이전트에 문을 연다. Amazon이 Meta의 Muse AI 어시스턴트의 같은 시도를 막은 지 한 달 만이다."
+                "x": "OpenAI가 ChatGPT 광고 시스템이 대화를 해석하고, 관련 광고를 고르고, 광고 노출을 일반 답변과 분리하는 방식을 공개했다. OpenAI에 따르면 ChatGPT Ads는 출시 후 200일이 채 안 돼 연환산 매출 런레이트 $1 billion 수준에 도달했고, 100,000곳이 넘는 광고주가 광고를 집행했다."
               },
               {
                 "t": "p",
-                "x": "Walmart는 앞으로 한 달 안에 Agent Profiles를 출시한다. 쇼핑객은 AI 에이전트마다 전용 프로필로 권한을 주고 그 구매 내역을 따로 볼 수 있다. 구매마다 승인을 요구하거나 지출 한도 안에서 에이전트가 사도록 맡길 수도 있다. Walmart Agent Gateway 베타는 MCP를 이용해 에이전트에게 소비자용 웹사이트보다 빠르고 안정적인 쇼핑 경로를 제공한다."
+                "x": "광고를 고르는 시스템은 ChatGPT의 답변을 쓰는 시스템과 별도로, 자체 모델과 코드로 돌아간다. ChatGPT는 이 시스템을 기다리지 않으며, 너무 늦게 도착한 광고는 해당 답변과 함께 나오지 않는다."
               },
               {
                 "t": "p",
-                "x": "Walmart 규칙에 따르면 반품은 그대로 적용되고, 에이전트 구매는 기본적으로 고객 승인을 거쳐야 한다. 에이전트는 쇼핑객이 의도한 범위를 넘어설 수 없고 결제 카드 정보도 받지 않는다. 약관을 지키지 않는 에이전트는 차단된다."
+                "x": "OpenAI가 \"오케스트레이터(orchestrator)\"라 부르는 모델이 대화를 읽고, 관련 부분을 검색 쿼리와 임베딩으로 바꾸며, \"상태 유지(stateful)\" 세션 전반에 걸쳐 세부 정보를 추적한다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/sej_openai-orchestrator-infographic-332.png"
               },
               {
                 "t": "p",
-                "x": "Walmart Connect의 Ryan Mayward는 대화가 키워드보다 많은 것을 드러낸다며 \"기회는 고객이 무엇을 검색하는지뿐 아니라 무엇을 이루려 하는지에 맞춰 관련성을 갖추는 데 있다\"고 말했다. 마켓플레이스 SVP Manish Joneja는 AI 기반(AI-powered) 쇼핑에서는 정확한 상품 정보, 가격, 배송 약속이 한층 더 중요해진다고 말했다."
+                "x": "이 모델은 자격 요건(위치 타기팅, 정책, 예산, 페이싱)을 확인하고, 적합성과 예상 조회·클릭·전환 가능성을 평가한 뒤, 최종 순위·가격·선정을 맡는 별도의 경매 도구로 후보를 보낸다. 언어 모델이 낙찰자를 직접 고르거나 가격을 정하지는 않는다."
+              },
+              {
+                "t": "p",
+                "x": "경매에서 이긴 광고라도 경매 후 적합성 검사에서 빠지거나 노출 시간대를 놓칠 수 있다. 이번 글에는 CPA, ROAS, 전환율 벤치마크가 없다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Walmart、買い物代行の\nAIエージェントに規則",
-          "body": "Walmartは購入承認と支出上限を設け、AIショッピングエージェントを受け入れる。",
-          "mini_headline": "WalmartがAI買い物客に門戸",
+          "headline": "OpenAIが明かす\nChatGPT広告の仕組み",
+          "body": "OpenAIによると、ChatGPTのLLMが意図を読み、広告候補を別の入札ツールに渡す。",
+          "mini_headline": "ChatGPT広告の舞台裏",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Walmart-AI.jpg?w=1240",
-                "cap": "Walmartはエージェントによるショッピングを支える新機能を投入する。"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_2810482073_1600x840-92.png"
               },
               {
                 "t": "p",
-                "x": "Walmartは、顧客に代わって買い物をするエージェントに門戸を開く。AmazonがMetaのMuse AIアシスタントによる同様の買い物をブロックしてから、ひと月後のことだ。"
+                "x": "OpenAIは、ChatGPTの広告システムが会話を解釈し、関連する広告を選び、広告配信をオーガニックな回答から切り離す仕組みを公開した。同社によると、ChatGPT Adsはローンチから200日足らずで年換算売上ランレートが$1 billion の水準に達し、100,000以上の広告主が広告を出稿した。"
               },
               {
                 "t": "p",
-                "x": "Walmartは今後ひと月以内にAgent Profilesを開始する。買い物客はAIエージェントごとに専用プロフィールで権限を与え、その購入を個別に確認できる。購入ごとに承認を求めることも、支出上限の範囲でエージェントに購入を任せることもできる。Walmart Agent GatewayのベータはMCPを使い、消費者向けウェブサイトより速く確実に買い物できる手段をエージェントに提供する。"
+                "x": "広告を選ぶシステムは、ChatGPTの回答を書くシステムとは別に、独自のモデルとコードで動く。ChatGPTはそれを待たず、届くのが遅すぎた広告はその回答には表示されない。"
               },
               {
                 "t": "p",
-                "x": "Walmartのルールでは、返品は従来どおり適用され、エージェントによる購入は既定で顧客の承認が必要となる。エージェントは買い物客の意図を超える行動はできず、決済カード情報も受け取らない。規約に従わないエージェントはブロックされる。"
+                "x": "OpenAIが「orchestrator(オーケストレーター)」と呼ぶモデルが会話を読み、関連部分を検索クエリと埋め込みに変換し、「stateful」なセッションをまたいで詳細を追跡する。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/sej_openai-orchestrator-infographic-332.png"
               },
               {
                 "t": "p",
-                "x": "Walmart ConnectのRyan Mayward氏は、会話はキーワード以上のものを明らかにすると述べ、「チャンスは、顧客が何を検索しているかだけでなく、何を成し遂げようとしているかに関連性を持たせることにある」と語った。マーケットプレイス担当SVPのManish Joneja氏は、AIを活用した(AI-powered)ショッピングでは正確な商品情報、価格、配送の約束がいっそう重要になると述べた。"
+                "x": "このモデルは適格性(地域ターゲティング、ポリシー、予算、ペーシング)を確認し、適合度と表示・クリック・コンバージョンの見込みを評価したうえで、最終的なランク付け、価格設定、選定を担う別の入札ツールに候補を送る。言語モデルが落札者を直接選んだり、価格を決めたりすることはない。"
+              },
+              {
+                "t": "p",
+                "x": "入札で勝った広告でも、入札後の適合チェックで外されたり、配信の時間枠を逃したりすることがある。投稿にはCPA、ROAS、コンバージョン率のベンチマークは示されていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Walmart为替你购物的\nAI代理立规矩",
-          "body": "Amazon封堵Meta的Muse后，Walmart以审批和消费上限向AI购物代理开放。",
-          "mini_headline": "Walmart向AI购物代理开放",
+          "headline": "OpenAI详解\nChatGPT如何选投广告",
+          "body": "OpenAI称，ChatGPT的LLM编排器读取多轮意图，并把广告提名给独立竞价工具。",
+          "mini_headline": "ChatGPT广告系统揭秘",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Walmart-AI.jpg?w=1240",
-                "cap": "Walmart推出支持代理式购物的新功能。"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_2810482073_1600x840-92.png"
               },
               {
                 "t": "p",
-                "x": "Walmart正向代替顾客购物的代理敞开大门，而就在一个月前，Amazon阻止了Meta的Muse AI助手做同样的事。"
+                "x": "OpenAI介绍了ChatGPT广告系统如何理解对话、挑选相关广告，并将广告投放与自然回答分开。OpenAI称，ChatGPT Ads上线不到200天，年化收入运行率就达到 $1 billion 的水平，已有超过100,000家广告主投放广告。"
               },
               {
                 "t": "p",
-                "x": "Walmart将在未来一个月内推出Agent Profiles，让购物者为每个AI代理授权专属档案，并单独查看其购买记录。购物者可以要求每笔购买都需批准，也可以让代理在消费上限内自行购买。Walmart Agent Gateway测试版借助MCP，为代理提供比面向消费者的网站更快、更可靠的购物方式。"
+                "x": "挑选广告的系统与撰写ChatGPT回答的系统分开运行，拥有各自的模型和代码。ChatGPT不会等待它；来得太晚的广告不会随该条回答出现。"
               },
               {
                 "t": "p",
-                "x": "按照Walmart的规则，退货照常适用，代理购买默认须经顾客批准，代理不得超出购物者的意图行事，也不会获得支付卡信息。不遵守条款的代理将被屏蔽。"
+                "x": "被OpenAI称为\"orchestrator\"（编排器）的模型会读取对话，把相关部分转为搜索查询和嵌入向量，并在\"stateful\"（有状态）会话中持续追踪细节。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/sej_openai-orchestrator-infographic-332.png"
               },
               {
                 "t": "p",
-                "x": "Walmart Connect的Ryan Mayward表示，对话透露的信息比关键词更多：“机会在于贴合顾客想要完成的事情，而不仅仅是他们在搜索什么。”Marketplace高级副总裁（SVP）Manish Joneja表示，对于AI驱动（AI-powered）的购物而言，准确的商品信息、价格和配送承诺变得更加重要。"
+                "x": "它会检查投放资格（地理定向、政策、预算、投放节奏），评估匹配度以及可能的浏览、点击或转化，再把候选广告交给独立的竞价工具，由后者完成最终排序、定价和选择。语言模型不会直接选出胜者或设定价格。"
+              },
+              {
+                "t": "p",
+                "x": "即便赢得竞价，广告也可能在竞价后的匹配检查中被剔除，或错过投放窗口。文章未提供CPA、ROAS或转化率基准。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Walmart fija reglas para agentes\nde IA que compran por ti",
-          "body": "Walmart admite agentes de compra con IA, con aprobaciones y topes de gasto, tras el veto de Amazon a Muse de Meta.",
-          "mini_headline": "Walmart se abre a los compradores IA",
+          "headline": "OpenAI explica cómo ChatGPT\nelige y sirve sus anuncios",
+          "body": "OpenAI dice que el orquestador LLM de ChatGPT lee la intención y propone anuncios a una subasta aparte.",
+          "mini_headline": "Dentro del sistema de anuncios de ChatGPT",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Walmart-AI.jpg?w=1240",
-                "cap": "Walmart lanza nuevas funciones para dar soporte a las compras con agentes."
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_2810482073_1600x840-92.png"
               },
               {
                 "t": "p",
-                "x": "Walmart abre la puerta a los agentes que compran en nombre de los clientes, un mes después de que Amazon impidiera al asistente Muse AI de Meta hacer lo mismo."
+                "x": "OpenAI explicó cómo su sistema publicitario de ChatGPT interpreta las conversaciones, selecciona anuncios relevantes y mantiene la publicación de anuncios separada de las respuestas orgánicas. Según la empresa, ChatGPT Ads alcanzó una tasa anualizada de ingresos de $1 billion (mil millones de dólares) menos de 200 días después de su lanzamiento, y más de 100,000 anunciantes han publicado anuncios."
               },
               {
                 "t": "p",
-                "x": "En el próximo mes, Walmart lanzará Agent Profiles, que permitirá a los compradores autorizar a cada agente de IA con un perfil propio y ver sus compras por separado. Los compradores podrán exigir aprobación para las compras o dejar que un agente compre dentro de un límite de gasto. Una beta de Walmart Agent Gateway usa MCP para ofrecer a los agentes una forma de comprar más rápida y fiable que el sitio web para consumidores."
+                "x": "El sistema que elige los anuncios funciona por separado del que redacta las respuestas de ChatGPT, con sus propios modelos y código. ChatGPT no lo espera: un anuncio que llega demasiado tarde no aparecerá con esa respuesta."
               },
               {
                 "t": "p",
-                "x": "Según las reglas de Walmart, las devoluciones siguen aplicándose, los clientes deben aprobar por defecto las compras de los agentes, los agentes no pueden hacer más de lo que pretende el comprador y no reciben información de tarjetas de pago. Los agentes que no cumplan los términos serán bloqueados."
+                "x": "Un modelo que OpenAI llama \"orchestrator\" (orquestador) lee la conversación, convierte las partes relevantes en consultas de búsqueda y embeddings, y sigue los detalles a lo largo de sesiones \"stateful\" (con estado)."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/sej_openai-orchestrator-infographic-332.png"
               },
               {
                 "t": "p",
-                "x": "Ryan Mayward, de Walmart Connect, dijo que las conversaciones revelan más que las palabras clave: \"La oportunidad está en ser relevante para lo que un cliente intenta lograr, no solo para lo que busca\". El SVP de Marketplace, Manish Joneja, afirmó que la información precisa de productos, los precios y las promesas de entrega cobran aún más importancia en las compras impulsadas por IA (AI-powered)."
+                "x": "Comprueba la elegibilidad (segmentación por ubicación, políticas, presupuesto, ritmo de entrega), evalúa la adecuación y la probabilidad de visualización, clic o conversión, y luego envía los candidatos a una herramienta de subasta independiente que se encarga de la clasificación final, el precio y la selección. El modelo de lenguaje no elige directamente al ganador ni fija el precio."
+              },
+              {
+                "t": "p",
+                "x": "Incluso un ganador de la subasta puede quedar descartado por una comprobación de adecuación posterior o perder la ventana de entrega. La publicación no ofrece referencias de CPA, ROAS ni tasa de conversión."
               }
             ]
           }
@@ -647,15 +797,15 @@
       }
     },
     {
-      "id": "marketing-chatgpt-ads-markets",
+      "id": "marketing-cnn-international-agentic-ads",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ChatGPT Ads,\n26개국 추가 진출",
-      "body": "ChatGPT Ads가 광고주 10만 곳을 넘기고 26개국으로 넓힌다.",
-      "mini_headline": "ChatGPT Ads, 26개국 추가",
+      "headline": "에이전트 광고 겨눈 CNN\nInternational",
+      "body": "CNN International이 아직 초기인 AI 에이전트 광고 판매를 준비한다.",
+      "mini_headline": "에이전트 광고에 거는 CNN",
       "tool": "Marketing",
-      "source": "AdExchanger",
-      "url": "https://www.adexchanger.com/marketers/chatgpt-ads-is-expanding-to-new-markets-and-exploring-new-ad-formats/",
+      "source": "Digiday",
+      "url": "https://digiday.com/media/why-cnn-international-is-building-for-agentic-ad-market-that-barely-exists-yet/",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
@@ -663,149 +813,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/shutterstock_2806646937-1024x512.jpg"
+            "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/interational-agentic-workflow-digiday.jpg"
           },
           {
             "t": "p",
-            "x": "OpenAI는 수요일 ChatGPT Ads를 26개 국가로 새로 넓힌다고 발표했다. 그중 14개국이 아르헨티나, 칠레, 콜롬비아 등 라틴아메리카 국가다. OpenAI는 출시 후 약 8개월 동안 10만 곳이 넘는 광고주가 이 플랫폼에 광고를 집행했다고도 밝혔다."
+            "x": "Skydance 거래가 마무리되면서 CNN의 앞날은 상당 부분 불투명해졌다. AI 에이전트로 광고를 팔겠다는 CNN International의 계획만은 예외다. 발표 후 일곱 달이 지났지만 이 방송사는 2027년 첫 분기 출시 일정을 그대로 지키고 있다."
           },
           {
             "t": "p",
-            "x": "다만 활성 광고주가 10만 곳이라는 말은 아니다. The Information은 New Street Research를 인용해 10월 초 기준 활성 광고주를 약 6만 곳으로 보도했다. ChatGPT는 올해 초 연간 환산 광고 매출 10억 달러를 발표했는데 회사가 처음 내다본 매출 24억 달러에는 못 미친다. 광고주 상당수는 예산을 더 늘리기 전에 확실한 성과 측정부터 원한다. OpenAI는 확장과 함께 측정 기능도 만들고 있다고 밝혔다."
+            "x": "CNN International Commercial과 Warner Bros Discovery에서 디지털 운영을 맡은 부사장 Faisal Karmali는 \"첫 매출이 들어오는 시점으로 Q1을 제시했고, 지금도 그렇게 되길 기대한다\"고 했다."
           },
           {
             "t": "p",
-            "x": "OpenAI는 이달 초 이미지를 더 크게 쓰는 시각형 광고 형식을 발표했다. ChatGPT로 이미지를 만드는 사람들에게 노출되며 미국에서 먼저 테스트했다. OpenAI는 \"추가 형식을 모색 중\"이라면서도 자세히 설명하지 않았다. 광고는 앞으로도 ChatGPT의 답변과 구분된다는 게 OpenAI의 설명이다."
+            "x": "이 방송사는 자체 에이전트 인프라에 수요측 플랫폼 같은 외부 기술 파트너를 엮는 중이다. 그러려면 에이전트에 사업 규칙을 가르치고 프런트엔드를 붙여야 하며, 구매자 에이전트가 기대는 LLMs가 자사 인벤토리를 제대로 읽게 해야 한다."
+          },
+          {
+            "t": "p",
+            "x": "풀리지 않은 질문도 있다. 에이전트가 거래 관행을 우회하지 못하게 막을 가드레일은 무엇인지, 표준끼리 경쟁하는 와중에 어떤 용어 체계를 쓸지다. SWYM CEO Ravi Patel은 \"셀러 에이전트는 직접 판매에서 실질적인 효율 향상\"이라며 \"하지만 자동화하는 것은 거래이지 집행이 아니다\"라고 했다."
+          },
+          {
+            "t": "p",
+            "x": "Karmali는 에이전트가 권력을 퍼블리셔 쪽으로 옮겨 올지는 \"말하기엔 너무 이르다\"고 했다. 에이전트 주도(Agent-led) 거래는 CNN International 광고 사업의 5%에서 출발할 수도, 언젠가 50%에 이를 수도 있다는 게 그의 말이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "ChatGPT Ads expands to\n26 more countries",
-          "body": "ChatGPT Ads expands to 26 new countries after passing 100,000 advertisers, with new ad formats still in the works.",
-          "mini_headline": "ChatGPT Ads adds 26 countries",
+          "headline": "CNN International builds\nfor agentic ad buying",
+          "body": "CNN International plans to sell its ads through AI agents, even though that market barely exists yet.",
+          "mini_headline": "CNN bets on agentic ads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/shutterstock_2806646937-1024x512.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/interational-agentic-workflow-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAI announced on Wednesday that ChatGPT Ads will expand into 26 new countries. Fourteen of them are in Latin America, including Argentina, Chile and Colombia. OpenAI also said more than 100,000 advertisers have run ads on the platform in the roughly eight months since launch."
+                "x": "Plenty about CNN's future is up in the air now the Skydance deal has gone through. CNN International's plan to sell ads through AI agents isn't among them. Seven months after announcing the move, the network still has it on course to launch in the first quarter of 2027."
               },
               {
                 "t": "p",
-                "x": "That is not the same as 100,000 active advertisers: The Information reported about 60,000 active advertisers as of early October, citing New Street Research. Earlier this year ChatGPT announced a $1 billion annualized ads run rate, short of the company's initial $2.4 billion revenue prediction. Many advertisers want stronger measurement before committing more budget, and OpenAI says it is building measurement alongside the expansion."
+                "x": "\"I gave a Q1 timeline to have the first dollars flowing, which I would still be hopeful for,\" said Faisal Karmali, vp of digital operations for CNN International Commercial and Warner Bros Discovery."
               },
               {
                 "t": "p",
-                "x": "Earlier this month OpenAI announced a more visual ad format with larger images, served to people using ChatGPT for image generation and tested first in the US. OpenAI is \"exploring additional formats\" but declined to elaborate. OpenAI says its ads remain distinct from ChatGPT's responses."
+                "x": "The broadcaster is pairing its own agent infrastructure with outside technology partners such as demand-side platforms, which means teaching an agent its business rules, giving it a front end and making sure its inventory reads correctly to the LLMs buyers' agents rely on."
+              },
+              {
+                "t": "p",
+                "x": "Open questions remain: what guardrails stop agents circumventing trading practices, and which vocabulary they use given competing standards. \"Seller agents are a genuine efficiency gain for direct sales,\" said SWYM CEO Ravi Patel. \"But they automate the deal, not the delivery.\""
+              },
+              {
+                "t": "p",
+                "x": "Karmali called it \"too early to say\" whether agents could shift power to publishers. Agent-led deals could start at 5% of CNN International's ad business, he said, or one day reach 50%."
               }
             ]
           }
         },
         "ko": {
-          "headline": "ChatGPT Ads,\n26개국 추가 진출",
-          "body": "ChatGPT Ads가 광고주 10만 곳을 넘기고 26개국으로 넓힌다.",
-          "mini_headline": "ChatGPT Ads, 26개국 추가",
+          "headline": "에이전트 광고 겨눈 CNN\nInternational",
+          "body": "CNN International이 아직 초기인 AI 에이전트 광고 판매를 준비한다.",
+          "mini_headline": "에이전트 광고에 거는 CNN",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/shutterstock_2806646937-1024x512.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/interational-agentic-workflow-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAI는 수요일 ChatGPT Ads를 26개 국가로 새로 넓힌다고 발표했다. 그중 14개국이 아르헨티나, 칠레, 콜롬비아 등 라틴아메리카 국가다. OpenAI는 출시 후 약 8개월 동안 10만 곳이 넘는 광고주가 이 플랫폼에 광고를 집행했다고도 밝혔다."
+                "x": "Skydance 거래가 마무리되면서 CNN의 앞날은 상당 부분 불투명해졌다. AI 에이전트로 광고를 팔겠다는 CNN International의 계획만은 예외다. 발표 후 일곱 달이 지났지만 이 방송사는 2027년 첫 분기 출시 일정을 그대로 지키고 있다."
               },
               {
                 "t": "p",
-                "x": "다만 활성 광고주가 10만 곳이라는 말은 아니다. The Information은 New Street Research를 인용해 10월 초 기준 활성 광고주를 약 6만 곳으로 보도했다. ChatGPT는 올해 초 연간 환산 광고 매출 10억 달러를 발표했는데 회사가 처음 내다본 매출 24억 달러에는 못 미친다. 광고주 상당수는 예산을 더 늘리기 전에 확실한 성과 측정부터 원한다. OpenAI는 확장과 함께 측정 기능도 만들고 있다고 밝혔다."
+                "x": "CNN International Commercial과 Warner Bros Discovery에서 디지털 운영을 맡은 부사장 Faisal Karmali는 \"첫 매출이 들어오는 시점으로 Q1을 제시했고, 지금도 그렇게 되길 기대한다\"고 했다."
               },
               {
                 "t": "p",
-                "x": "OpenAI는 이달 초 이미지를 더 크게 쓰는 시각형 광고 형식을 발표했다. ChatGPT로 이미지를 만드는 사람들에게 노출되며 미국에서 먼저 테스트했다. OpenAI는 \"추가 형식을 모색 중\"이라면서도 자세히 설명하지 않았다. 광고는 앞으로도 ChatGPT의 답변과 구분된다는 게 OpenAI의 설명이다."
+                "x": "이 방송사는 자체 에이전트 인프라에 수요측 플랫폼 같은 외부 기술 파트너를 엮는 중이다. 그러려면 에이전트에 사업 규칙을 가르치고 프런트엔드를 붙여야 하며, 구매자 에이전트가 기대는 LLMs가 자사 인벤토리를 제대로 읽게 해야 한다."
+              },
+              {
+                "t": "p",
+                "x": "풀리지 않은 질문도 있다. 에이전트가 거래 관행을 우회하지 못하게 막을 가드레일은 무엇인지, 표준끼리 경쟁하는 와중에 어떤 용어 체계를 쓸지다. SWYM CEO Ravi Patel은 \"셀러 에이전트는 직접 판매에서 실질적인 효율 향상\"이라며 \"하지만 자동화하는 것은 거래이지 집행이 아니다\"라고 했다."
+              },
+              {
+                "t": "p",
+                "x": "Karmali는 에이전트가 권력을 퍼블리셔 쪽으로 옮겨 올지는 \"말하기엔 너무 이르다\"고 했다. 에이전트 주도(Agent-led) 거래는 CNN International 광고 사업의 5%에서 출발할 수도, 언젠가 50%에 이를 수도 있다는 게 그의 말이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPT Ads\n新たに26か国へ拡大",
-          "body": "ChatGPT Adsは広告主10万社を超え、26か国に拡大し、新たな広告形式も準備中だ。",
-          "mini_headline": "ChatGPT Adsが26か国を追加",
+          "headline": "エージェント広告に挑むCNN\nInternational",
+          "body": "CNN Internationalは、未成熟なAIエージェント広告販売に乗り出す計画だ。",
+          "mini_headline": "CNN、エージェント広告に賭ける",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/shutterstock_2806646937-1024x512.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/interational-agentic-workflow-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAIは水曜日、ChatGPT Adsを新たに26か国へ拡大すると発表した。うち14か国はアルゼンチン、チリ、コロンビアなどラテンアメリカの国々だ。OpenAIはまた、開始から約8か月で10万社を超える広告主がこのプラットフォームに広告を出したと明らかにした。"
+                "x": "Skydanceとの取引が完了し、CNNの将来は多くが不透明になった。だが、AIエージェントを通じて広告を販売するCNN Internationalの計画はその例外だ。発表から七か月が経った今も、同ネットワークは2027年第一四半期のローンチに向けて計画どおり進めている。"
               },
               {
                 "t": "p",
-                "x": "ただし、これはアクティブな広告主が10万社という意味ではない。The InformationはNew Street Researchを引用し、10月上旬時点のアクティブな広告主を約6万社と報じた。ChatGPTは今年初め、広告の年換算ランレートが10億ドルに達したと発表したが、当初予測していた売上24億ドルには届いていない。多くの広告主は予算を増やす前により確かな効果測定を求めており、OpenAIは拡大と並行して測定機能を構築していると述べている。"
+                "x": "CNN International CommercialとWarner Bros Discoveryでデジタルオペレーション担当副社長を務めるFaisal Karmaliは「最初の売上が入る時期としてQ1を示した。今もそうなることを期待している」と語った。"
               },
               {
                 "t": "p",
-                "x": "OpenAIは今月初め、より大きな画像を使ったビジュアル重視の広告形式を発表した。画像生成にChatGPTを使う人々に表示されるもので、まず米国でテストされた。OpenAIは「追加の形式を検討している」としたが、詳細は明かさなかった。OpenAIは、広告はChatGPTの回答とは引き続き区別されるとしている。"
+                "x": "同局は自前のエージェント基盤に、デマンドサイドプラットフォームなど外部の技術パートナーを組み合わせている。そのためには、エージェントに自社のビジネスルールを教え、フロントエンドを与え、買い手のエージェントが頼るLLMsに在庫が正しく読み取られるようにする必要がある。"
+              },
+              {
+                "t": "p",
+                "x": "未解決の問題も残る。エージェントが取引慣行をすり抜けるのを防ぐガードレールは何か、競合する規格がある中でどの語彙を使うのか、といった点だ。SWYMのCEO、Ravi Patelは「セラーエージェントは直接販売にとって確かな効率化だ」と述べ、「ただし自動化するのは取引であって、配信ではない」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "Karmaliは、エージェントがパブリッシャー側に力を移せるかどうかについて「まだ言うには早すぎる」とした。Agent-ledの取引はCNN Internationalの広告事業の5%から始まる可能性もあれば、いずれ50%に達する可能性もあるという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ChatGPT Ads\n新增26个国家",
-          "body": "ChatGPT Ads广告主突破10万家后扩展至26个新国家，新广告形式仍在开发中。",
-          "mini_headline": "ChatGPT Ads新增26个国家",
+          "headline": "布局智能体广告的CNN\nInternational",
+          "body": "CNN International计划通过AI智能体销售广告，尽管这一市场尚未成形。",
+          "mini_headline": "CNN押注智能体广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/shutterstock_2806646937-1024x512.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/interational-agentic-workflow-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAI周三宣布，ChatGPT Ads将扩展至26个新国家，其中14个位于拉丁美洲，包括阿根廷、智利和哥伦比亚。OpenAI还表示，上线约八个月以来，已有超过10万家广告主在该平台投放过广告。"
+                "x": "随着Skydance交易落定，CNN的未来有许多悬而未决之处，但CNN International通过AI智能体销售广告的计划不在其中。宣布这一举措七个月后，该电视网仍按计划于2027年第一季度推出。"
               },
               {
                 "t": "p",
-                "x": "这并不等于有10万家活跃广告主：The Information援引New Street Research的数据报道，截至10月初，活跃广告主约为6万家。今年早些时候，ChatGPT宣布广告年化收入达到10亿美元，低于公司最初预测的24亿美元收入。许多广告主希望在追加预算前看到更有力的效果衡量，OpenAI表示正在扩张的同时搭建衡量能力。"
+                "x": "CNN International Commercial与Warner Bros Discovery数字运营副总裁Faisal Karmali说：\"我给出的时间表是Q1开始有第一笔收入进账，我现在仍抱有希望。\""
               },
               {
                 "t": "p",
-                "x": "OpenAI本月初发布了一种视觉效果更强、图片更大的广告形式，面向使用ChatGPT生成图片的用户投放，并率先在美国测试。OpenAI表示正在“探索更多形式”，但未透露细节。OpenAI称其广告仍与ChatGPT的回答保持区分。"
+                "x": "这家广播公司正把自有的智能体基础设施与需求方平台等外部技术伙伴结合起来，这意味着要教会智能体自身的业务规则、为它配置前端，并确保买方智能体所依赖的LLMs能正确读取其广告库存。"
+              },
+              {
+                "t": "p",
+                "x": "悬而未决的问题仍然存在：用什么护栏防止智能体绕过交易惯例，以及在标准相互竞争的情况下使用哪套词汇。SWYM CEO Ravi Patel说：\"卖方智能体对直销来说是实实在在的效率提升。\"\"但它们自动化的是交易，而不是投放。\""
+              },
+              {
+                "t": "p",
+                "x": "Karmali表示，智能体能否把权力转向出版商\"现在说还为时过早\"。他说，Agent-led交易起初可能占CNN International广告业务的5%，有朝一日也可能达到50%。"
               }
             ]
           }
         },
         "es": {
-          "headline": "ChatGPT Ads se expande\na 26 países más",
-          "body": "ChatGPT Ads llega a 26 nuevos países tras superar los 100.000 anunciantes y aún prepara nuevos formatos de anuncio.",
-          "mini_headline": "ChatGPT Ads suma 26 países",
+          "headline": "CNN International se prepara\npara la compra agéntica",
+          "body": "CNN International planea vender sus anuncios mediante agentes de AI, aunque ese mercado apenas existe todavía.",
+          "mini_headline": "CNN apuesta por los anuncios agénticos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/shutterstock_2806646937-1024x512.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/interational-agentic-workflow-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAI anunció el miércoles que ChatGPT Ads se expandirá a 26 nuevos países. Catorce de ellos están en América Latina, entre ellos Argentina, Chile y Colombia. OpenAI también dijo que más de 100.000 anunciantes han publicado anuncios en la plataforma en los aproximadamente ocho meses transcurridos desde su lanzamiento."
+                "x": "Mucho del futuro de CNN está en el aire ahora que se ha cerrado el acuerdo con Skydance. El plan de CNN International de vender anuncios a través de agentes de AI no forma parte de esa incertidumbre. Siete meses después de anunciar la iniciativa, la cadena mantiene previsto su lanzamiento en el primer trimestre de 2027."
               },
               {
                 "t": "p",
-                "x": "Eso no equivale a 100.000 anunciantes activos: The Information informó de unos 60.000 anunciantes activos a principios de octubre, citando a New Street Research. A principios de este año, ChatGPT anunció un ritmo anualizado de ingresos publicitarios de 1.000 millones de dólares, por debajo de la previsión inicial de ingresos de la compañía, de 2.400 millones de dólares. Muchos anunciantes quieren una medición más sólida antes de comprometer más presupuesto, y OpenAI dice que está desarrollando la medición a la vez que la expansión."
+                "x": "\"Di un plazo de Q1 para que empezaran a entrar los primeros dólares, y sigo teniendo esa esperanza\", dijo Faisal Karmali, vp de operaciones digitales de CNN International Commercial y Warner Bros Discovery."
               },
               {
                 "t": "p",
-                "x": "A principios de este mes, OpenAI presentó un formato publicitario más visual, con imágenes más grandes, que se muestra a quienes usan ChatGPT para generar imágenes y que se probó primero en EE. UU. OpenAI está \"explorando formatos adicionales\", pero declinó dar más detalles. OpenAI asegura que sus anuncios siguen siendo distintos de las respuestas de ChatGPT."
+                "x": "La cadena combina su propia infraestructura de agentes con socios tecnológicos externos, como plataformas del lado de la demanda, lo que implica enseñar a un agente sus reglas de negocio, darle una interfaz y asegurarse de que su inventario se lea correctamente en los LLMs de los que dependen los agentes de los compradores."
+              },
+              {
+                "t": "p",
+                "x": "Quedan preguntas abiertas: qué salvaguardas impiden que los agentes eludan las prácticas comerciales y qué vocabulario usan ante estándares que compiten entre sí. \"Los agentes vendedores son una ganancia real de eficiencia para la venta directa\", dijo Ravi Patel, CEO de SWYM. \"Pero automatizan el acuerdo, no la entrega\"."
+              },
+              {
+                "t": "p",
+                "x": "Karmali dijo que es \"demasiado pronto para decir\" si los agentes podrían trasladar poder a los editores. Según él, los acuerdos Agent-led podrían empezar con el 5% del negocio publicitario de CNN International o llegar algún día al 50%."
               }
             ]
           }
@@ -813,105 +1011,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "ChatGPT Ads,\n26개국 추가 진출",
-          "body": "ChatGPT Ads가 광고주 10만 곳을 넘기고 26개국으로 넓힌다.",
-          "mini_headline": "ChatGPT Ads, 26개국 추가",
+          "headline": "에이전트 광고 겨눈 CNN\nInternational",
+          "body": "CNN International은 초기인 AI 에이전트 광고 판매를 준비한다.",
+          "mini_headline": "CNN, 에이전트 광고에 베팅",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/shutterstock_2806646937-1024x512.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/interational-agentic-workflow-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAI는 수요일 ChatGPT Ads를 26개 국가로 새로 확대한다고 발표했다. 이 가운데 14개국은 아르헨티나, 칠레, 콜롬비아를 포함한 라틴아메리카 국가다. OpenAI는 출시 후 약 8개월 동안 10만 곳이 넘는 광고주가 이 플랫폼에 광고를 집행했다고도 밝혔다."
+                "x": "Skydance 거래가 마무리되면서 CNN의 미래는 많은 부분이 불투명해졌다. 하지만 AI 에이전트로 광고를 팔겠다는 CNN International의 계획은 예외다. 계획을 발표한 지 일곱 달이 지난 지금도 이 방송사는 2027년 첫 분기 출시 일정을 유지하고 있다."
               },
               {
                 "t": "p",
-                "x": "다만 이는 활성 광고주 10만 곳과 같은 의미가 아니다. The Information은 New Street Research를 인용해 10월 초 기준 활성 광고주를 약 6만 곳으로 보도했다. ChatGPT는 올해 초 연간 환산 광고 매출 10억 달러를 발표했는데, 이는 회사가 처음 예측한 매출 24억 달러에 못 미친다. 많은 광고주가 예산을 더 늘리기 전에 더 확실한 성과 측정을 원하며, OpenAI는 확장과 함께 측정 기능을 구축하고 있다고 밝혔다."
+                "x": "CNN International Commercial과 Warner Bros Discovery의 디지털 운영 담당 부사장 Faisal Karmali는 \"첫 매출이 들어오는 시점으로 Q1을 제시했고, 지금도 그렇게 되길 기대한다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "OpenAI는 이달 초 더 큰 이미지를 쓰는 시각적 광고 형식을 발표했다. 이미지 생성에 ChatGPT를 쓰는 사람들에게 노출되며 미국에서 먼저 테스트했다. OpenAI는 \"추가 형식을 모색 중\"이라면서도 자세한 설명은 하지 않았다. OpenAI는 광고가 ChatGPT의 답변과 계속 구분된다고 말했다."
+                "x": "이 방송사는 자체 에이전트 인프라에 수요측 플랫폼 같은 외부 기술 파트너를 결합하고 있다. 이를 위해 에이전트에 사업 규칙을 가르치고, 프런트엔드를 붙이고, 구매자 에이전트가 의존하는 LLMs에 자사 인벤토리가 제대로 읽히도록 해야 한다."
+              },
+              {
+                "t": "p",
+                "x": "풀리지 않은 질문도 남아 있다. 에이전트가 거래 관행을 우회하지 못하게 막을 가드레일은 무엇인지, 표준이 경쟁하는 상황에서 어떤 용어 체계를 쓸지다. SWYM CEO Ravi Patel은 \"셀러 에이전트는 직접 판매에서 실질적인 효율 향상\"이라며 \"하지만 자동화하는 것은 거래이지 집행이 아니다\"라고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "Karmali는 에이전트가 권력을 퍼블리셔 쪽으로 옮길 수 있을지는 \"말하기엔 너무 이르다\"고 했다. 그는 에이전트 주도(Agent-led) 거래가 CNN International 광고 사업의 5%에서 시작할 수도 있고, 언젠가 50%에 이를 수도 있다고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPT Ads\n新たに26か国へ拡大",
-          "body": "ChatGPT Adsは広告主10万社を超え、26か国に拡大し、新たな広告形式も準備中だ。",
-          "mini_headline": "ChatGPT Adsが26か国を追加",
+          "headline": "エージェント広告に挑むCNN\nInternational",
+          "body": "CNN Internationalは、未成熟なAIエージェント広告販売に乗り出す計画だ。",
+          "mini_headline": "CNN、エージェント広告に賭ける",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/shutterstock_2806646937-1024x512.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/interational-agentic-workflow-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAIは水曜日、ChatGPT Adsを新たに26か国へ拡大すると発表した。うち14か国はアルゼンチン、チリ、コロンビアなどラテンアメリカの国々だ。OpenAIはまた、開始から約8か月で10万社を超える広告主がこのプラットフォームに広告を出したと明らかにした。"
+                "x": "Skydanceとの取引が完了し、CNNの将来は多くが不透明になった。だが、AIエージェントを通じて広告を販売するCNN Internationalの計画はその例外だ。発表から七か月が経った今も、同ネットワークは2027年第一四半期のローンチに向けて計画どおり進めている。"
               },
               {
                 "t": "p",
-                "x": "ただし、これはアクティブな広告主が10万社という意味ではない。The InformationはNew Street Researchを引用し、10月上旬時点のアクティブな広告主を約6万社と報じた。ChatGPTは今年初め、広告の年換算ランレートが10億ドルに達したと発表したが、当初予測していた売上24億ドルには届いていない。多くの広告主は予算を増やす前により確かな効果測定を求めており、OpenAIは拡大と並行して測定機能を構築していると述べている。"
+                "x": "CNN International CommercialとWarner Bros Discoveryでデジタルオペレーション担当副社長を務めるFaisal Karmaliは「最初の売上が入る時期としてQ1を示した。今もそうなることを期待している」と語った。"
               },
               {
                 "t": "p",
-                "x": "OpenAIは今月初め、より大きな画像を使ったビジュアル重視の広告形式を発表した。画像生成にChatGPTを使う人々に表示されるもので、まず米国でテストされた。OpenAIは「追加の形式を検討している」としたが、詳細は明かさなかった。OpenAIは、広告はChatGPTの回答とは引き続き区別されるとしている。"
+                "x": "同局は自前のエージェント基盤に、デマンドサイドプラットフォームなど外部の技術パートナーを組み合わせている。そのためには、エージェントに自社のビジネスルールを教え、フロントエンドを与え、買い手のエージェントが頼るLLMsに在庫が正しく読み取られるようにする必要がある。"
+              },
+              {
+                "t": "p",
+                "x": "未解決の問題も残る。エージェントが取引慣行をすり抜けるのを防ぐガードレールは何か、競合する規格がある中でどの語彙を使うのか、といった点だ。SWYMのCEO、Ravi Patelは「セラーエージェントは直接販売にとって確かな効率化だ」と述べ、「ただし自動化するのは取引であって、配信ではない」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "Karmaliは、エージェントがパブリッシャー側に力を移せるかどうかについて「まだ言うには早すぎる」とした。Agent-ledの取引はCNN Internationalの広告事業の5%から始まる可能性もあれば、いずれ50%に達する可能性もあるという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ChatGPT Ads\n新增26个国家",
-          "body": "ChatGPT Ads广告主突破10万家后扩展至26个新国家，新广告形式仍在开发中。",
-          "mini_headline": "ChatGPT Ads新增26个国家",
+          "headline": "布局智能体广告的CNN\nInternational",
+          "body": "CNN International计划通过AI智能体销售广告，尽管这一市场尚未成形。",
+          "mini_headline": "CNN押注智能体广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/shutterstock_2806646937-1024x512.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/interational-agentic-workflow-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAI周三宣布，ChatGPT Ads将扩展至26个新国家，其中14个位于拉丁美洲，包括阿根廷、智利和哥伦比亚。OpenAI还表示，上线约八个月以来，已有超过10万家广告主在该平台投放过广告。"
+                "x": "随着Skydance交易落定，CNN的未来有许多悬而未决之处，但CNN International通过AI智能体销售广告的计划不在其中。宣布这一举措七个月后，该电视网仍按计划于2027年第一季度推出。"
               },
               {
                 "t": "p",
-                "x": "这并不等于有10万家活跃广告主：The Information援引New Street Research的数据报道，截至10月初，活跃广告主约为6万家。今年早些时候，ChatGPT宣布广告年化收入达到10亿美元，低于公司最初预测的24亿美元收入。许多广告主希望在追加预算前看到更有力的效果衡量，OpenAI表示正在扩张的同时搭建衡量能力。"
+                "x": "CNN International Commercial与Warner Bros Discovery数字运营副总裁Faisal Karmali说：\"我给出的时间表是Q1开始有第一笔收入进账，我现在仍抱有希望。\""
               },
               {
                 "t": "p",
-                "x": "OpenAI本月初发布了一种视觉效果更强、图片更大的广告形式，面向使用ChatGPT生成图片的用户投放，并率先在美国测试。OpenAI表示正在“探索更多形式”，但未透露细节。OpenAI称其广告仍与ChatGPT的回答保持区分。"
+                "x": "这家广播公司正把自有的智能体基础设施与需求方平台等外部技术伙伴结合起来，这意味着要教会智能体自身的业务规则、为它配置前端，并确保买方智能体所依赖的LLMs能正确读取其广告库存。"
+              },
+              {
+                "t": "p",
+                "x": "悬而未决的问题仍然存在：用什么护栏防止智能体绕过交易惯例，以及在标准相互竞争的情况下使用哪套词汇。SWYM CEO Ravi Patel说：\"卖方智能体对直销来说是实实在在的效率提升。\"\"但它们自动化的是交易，而不是投放。\""
+              },
+              {
+                "t": "p",
+                "x": "Karmali表示，智能体能否把权力转向出版商\"现在说还为时过早\"。他说，Agent-led交易起初可能占CNN International广告业务的5%，有朝一日也可能达到50%。"
               }
             ]
           }
         },
         "es": {
-          "headline": "ChatGPT Ads se expande\na 26 países más",
-          "body": "ChatGPT Ads llega a 26 nuevos países tras superar los 100.000 anunciantes y aún prepara nuevos formatos de anuncio.",
-          "mini_headline": "ChatGPT Ads suma 26 países",
+          "headline": "CNN International se prepara\npara la compra agéntica",
+          "body": "CNN International planea vender sus anuncios mediante agentes de AI, aunque ese mercado apenas existe todavía.",
+          "mini_headline": "CNN apuesta por los anuncios agénticos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/shutterstock_2806646937-1024x512.jpg"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/interational-agentic-workflow-digiday.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAI anunció el miércoles que ChatGPT Ads se expandirá a 26 nuevos países. Catorce de ellos están en América Latina, entre ellos Argentina, Chile y Colombia. OpenAI también dijo que más de 100.000 anunciantes han publicado anuncios en la plataforma en los aproximadamente ocho meses transcurridos desde su lanzamiento."
+                "x": "Mucho del futuro de CNN está en el aire ahora que se ha cerrado el acuerdo con Skydance. El plan de CNN International de vender anuncios a través de agentes de AI no forma parte de esa incertidumbre. Siete meses después de anunciar la iniciativa, la cadena mantiene previsto su lanzamiento en el primer trimestre de 2027."
               },
               {
                 "t": "p",
-                "x": "Eso no equivale a 100.000 anunciantes activos: The Information informó de unos 60.000 anunciantes activos a principios de octubre, citando a New Street Research. A principios de este año, ChatGPT anunció un ritmo anualizado de ingresos publicitarios de 1.000 millones de dólares, por debajo de la previsión inicial de ingresos de la compañía, de 2.400 millones de dólares. Muchos anunciantes quieren una medición más sólida antes de comprometer más presupuesto, y OpenAI dice que está desarrollando la medición a la vez que la expansión."
+                "x": "\"Di un plazo de Q1 para que empezaran a entrar los primeros dólares, y sigo teniendo esa esperanza\", dijo Faisal Karmali, vp de operaciones digitales de CNN International Commercial y Warner Bros Discovery."
               },
               {
                 "t": "p",
-                "x": "A principios de este mes, OpenAI presentó un formato publicitario más visual, con imágenes más grandes, que se muestra a quienes usan ChatGPT para generar imágenes y que se probó primero en EE. UU. OpenAI está \"explorando formatos adicionales\", pero declinó dar más detalles. OpenAI asegura que sus anuncios siguen siendo distintos de las respuestas de ChatGPT."
+                "x": "La cadena combina su propia infraestructura de agentes con socios tecnológicos externos, como plataformas del lado de la demanda, lo que implica enseñar a un agente sus reglas de negocio, darle una interfaz y asegurarse de que su inventario se lea correctamente en los LLMs de los que dependen los agentes de los compradores."
+              },
+              {
+                "t": "p",
+                "x": "Quedan preguntas abiertas: qué salvaguardas impiden que los agentes eludan las prácticas comerciales y qué vocabulario usan ante estándares que compiten entre sí. \"Los agentes vendedores son una ganancia real de eficiencia para la venta directa\", dijo Ravi Patel, CEO de SWYM. \"Pero automatizan el acuerdo, no la entrega\"."
+              },
+              {
+                "t": "p",
+                "x": "Karmali dijo que es \"demasiado pronto para decir\" si los agentes podrían trasladar poder a los editores. Según él, los acuerdos Agent-led podrían empezar con el 5% del negocio publicitario de CNN International o llegar algún día al 50%."
               }
             ]
           }
@@ -919,15 +1149,15 @@
       }
     },
     {
-      "id": "marketing-yelp-lead-agent",
+      "id": "marketing-ai-discovery-reviews",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Yelp의 30달러 AI\n에이전트, 리드 응대·선별",
-      "body": "Yelp AI가 월 30달러에 이사·지붕·배관 업체 견적 문의에 답하고 선별한다.",
-      "mini_headline": "Yelp의 30달러 리드 에이전트",
+      "headline": "선물 찾기는 AI가\n구매 결정은 리뷰가",
+      "body": "소비자 조사를 보면 AI로 선물을 찾아도 대부분 사기 전에 리뷰와 가격을 본다.",
+      "mini_headline": "찾는 건 AI, 사는 건 리뷰",
       "tool": "Marketing",
-      "source": "PPC Land",
-      "url": "https://ppc.land/yelp-charges-30-a-month-for-ai-agent-that-answers-and-qualifies-leads/",
+      "source": "Modern Retail",
+      "url": "https://www.modernretail.co/ai-strategies/ai-boosts-discovery-but-reviews-still-seal-the-deal-new-research-shows/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -935,179 +1165,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/size/w1200/2026/10/yelp-smart-lead-reply-30-ai-agent-lead-qualification-self-typing-typewriter.jpg",
-            "cap": "Yelp는 Request a Quote 리드에 답하고 선별하는 AI 에이전트에 월 30달러를 받는다"
+            "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2025/10/ai-compensation-digiday.webp"
           },
           {
             "t": "p",
-            "x": "Smart Lead Reply는 Yelp 메시지 스레드 안에서 Request a Quote 문의에 답하고 검증하는 AI 에이전트로, 다음 달 출시되며 요금은 월 30달러다. 2026년 10월 20일 공개된 Yelp의 Fall Product Release에서 비즈니스용 기능의 중심에 있다."
+            "x": "Feedvisor가 새로 진행한 설문에서는 쇼핑객의 16%가 ChatGPT에서 상품 탐색을 시작하지만 구매하러 가는 비율은 9%에 그친다. AI 어시스턴트가 상품을 추천해도 곧바로 사는 사람은 5%뿐이다. 나머지는 더 나은 가격을 찾아 Google과 Amazon 같은 플랫폼부터 들른다."
           },
           {
             "t": "p",
-            "x": "에이전트는 Yelp for Business 계정과 비즈니스 페이지 정보로 질문에 답하고 프로젝트 세부 사항을 모아 리드를 선별한다. 업주는 예약 링크, 서비스, 가격이나 프로모션, 에이전트가 물어볼 질문을 추가할 수 있다. 선별을 통과한 리드에는 에이전트가 예약 링크를 보내고, 대화는 모두 Yelp 받은편지함에 남는다."
+            "x": "PartnerCentric 조사에서는 AI 추천을 받은 쇼핑객 가운데 33%가 기존 리뷰를 확인했고, 22.3%는 가격을 비교했으며, 18.8%는 Amazon이나 다른 소매점에서 검색했다. 브랜드 웹사이트를 찾은 비율은 14.8%에 그쳤다. 창업자 겸 CEO Stephanie Harris는 \"AI는 출발점이지 최종 판결이 아니다\"라고 말했다."
           },
           {
             "t": "p",
-            "x": "판매 대상은 이사, 지붕, 배관, 가정 청소, 시공, 전기 업체 같은 업종이다. Yelp는 정확도 수치를 내놓지 않았고 업주가 메시지를 보내기 전에 승인할 수 있는지도 밝히지 않았다."
+            "x": "Channel V Media의 Kieran Powell은 조사 단계는 이미 AI 몫이 됐다고 말했다. Prosper Insights & Analytics 설문에서 AI 에이전트에게 의류 구매를 맡기겠다는 응답은 7.3%뿐이었다. Powell은 \"사람들이 $40짜리 셔츠도 AI에게 사게 하지 않는다면, 어떤 셔츠가 좋은지도 AI에게 맡기지 않을 것\"이라고 했다."
           },
           {
             "t": "p",
-            "x": "이번 릴리스에는 Yelp Assistant의 OpenTable 예약, 식당에 전화해 대기 시간을 묻는 AI 전화 에이전트 Check for Me, Yelp Audiences 디스플레이 캠페인용 의도 기반 크리에이티브도 들어 있다."
+            "x": "AI 어시스턴트에서 들어오는 트래픽이 꾸준히 느는 Musely는 GEO에 힘을 쏟는다. Paris Roche는 \"우리 목표는 단순히 AI에 언급되는 것이 아니다\"라고 했다. Harris는 \"그런 신호들이 서로 어긋나면 AI는 그것을 덮어 주지 않는다. 오히려 그 간극을 더 빨리 드러낸다\"고 덧붙였다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Yelp's $30 AI agent answers\nand qualifies leads",
-          "body": "Yelp's Smart Lead Reply agent answers and qualifies quote requests for movers, roofers and plumbers for $30 a month.",
-          "mini_headline": "Yelp's $30 lead agent",
+          "headline": "AI helps shoppers find gifts\nbut reviews close the sale",
+          "body": "Consumer surveys show AI helps shoppers find gifts, but most check reviews and prices before buying.",
+          "mini_headline": "AI finds, reviews close",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w1200/2026/10/yelp-smart-lead-reply-30-ai-agent-lead-qualification-self-typing-typewriter.jpg",
-                "cap": "Yelp charges $30 a month for an AI agent that answers and qualifies Request a Quote leads"
+                "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2025/10/ai-compensation-digiday.webp"
               },
               {
                 "t": "p",
-                "x": "Smart Lead Reply, an AI agent that answers and vets Request a Quote inquiries inside Yelp's message threads, will cost $30 a month when it rolls out next month. It is the business-facing centerpiece of Yelp's Fall Product Release, published October 20, 2026."
+                "x": "According to a new Feedvisor survey, ChatGPT is where 16% of shoppers start looking for products, but only 9% go there to buy. When an AI assistant recommends a product, only 5% buy it on the spot; the rest check platforms like Google and Amazon first for better prices."
               },
               {
                 "t": "p",
-                "x": "The agent draws on information in the Yelp for Business account and business page to answer questions, gather project details and qualify leads. Owners can add a scheduling link, services, pricing or promotions, and questions for the agent to ask. Once a lead is qualified, the agent shares the scheduling link, and every conversation is logged in the Yelp inbox."
+                "x": "PartnerCentric's findings show that after an AI suggestion, 33% of shoppers check existing reviews, 22.3% compare prices and 18.8% search Amazon or another retailer. Only 14.8% visit the brand's website. \"AI is a starting point, not a final verdict,\" said founder and CEO Stephanie Harris."
               },
               {
                 "t": "p",
-                "x": "It is sold to eligible categories such as movers, roofers, plumbers, home cleaners, contractors and electricians. Yelp gives no accuracy figures and doesn't say whether owners can approve messages before they go out."
+                "x": "Channel V Media's Kieran Powell said AI is winning the research step. A Prosper Insights & Analytics survey found only 7.3% would let an AI agent buy apparel. \"If people won't let AI buy a $40 shirt for them, they won't let it tell them which shirt is good,\" Powell said."
               },
               {
                 "t": "p",
-                "x": "The release also adds OpenTable reservations to Yelp Assistant, Check for Me, an AI phone agent that calls restaurants to ask about wait times, and intent-based creative for Yelp Audiences display campaigns."
+                "x": "Musely, which sees steadily growing traffic from AI assistants, is focused on GEO. \"For us, the goal isn't simply to be mentioned by AI,\" said Paris Roche. Harris added: \"When those signals conflict, AI does not smooth it over. It surfaces the gap sooner.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "Yelp의 30달러 AI\n에이전트, 리드 응대·선별",
-          "body": "Yelp AI가 월 30달러에 이사·지붕·배관 업체 견적 문의에 답하고 선별한다.",
-          "mini_headline": "Yelp의 30달러 리드 에이전트",
+          "headline": "선물 찾기는 AI가\n구매 결정은 리뷰가",
+          "body": "소비자 조사를 보면 AI로 선물을 찾아도 대부분 사기 전에 리뷰와 가격을 본다.",
+          "mini_headline": "찾는 건 AI, 사는 건 리뷰",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w1200/2026/10/yelp-smart-lead-reply-30-ai-agent-lead-qualification-self-typing-typewriter.jpg",
-                "cap": "Yelp는 Request a Quote 리드에 답하고 선별하는 AI 에이전트에 월 30달러를 받는다"
+                "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2025/10/ai-compensation-digiday.webp"
               },
               {
                 "t": "p",
-                "x": "Smart Lead Reply는 Yelp 메시지 스레드 안에서 Request a Quote 문의에 답하고 검증하는 AI 에이전트로, 다음 달 출시되며 요금은 월 30달러다. 2026년 10월 20일 공개된 Yelp의 Fall Product Release에서 비즈니스용 기능의 중심에 있다."
+                "x": "Feedvisor가 새로 진행한 설문에서는 쇼핑객의 16%가 ChatGPT에서 상품 탐색을 시작하지만 구매하러 가는 비율은 9%에 그친다. AI 어시스턴트가 상품을 추천해도 곧바로 사는 사람은 5%뿐이다. 나머지는 더 나은 가격을 찾아 Google과 Amazon 같은 플랫폼부터 들른다."
               },
               {
                 "t": "p",
-                "x": "에이전트는 Yelp for Business 계정과 비즈니스 페이지 정보로 질문에 답하고 프로젝트 세부 사항을 모아 리드를 선별한다. 업주는 예약 링크, 서비스, 가격이나 프로모션, 에이전트가 물어볼 질문을 추가할 수 있다. 선별을 통과한 리드에는 에이전트가 예약 링크를 보내고, 대화는 모두 Yelp 받은편지함에 남는다."
+                "x": "PartnerCentric 조사에서는 AI 추천을 받은 쇼핑객 가운데 33%가 기존 리뷰를 확인했고, 22.3%는 가격을 비교했으며, 18.8%는 Amazon이나 다른 소매점에서 검색했다. 브랜드 웹사이트를 찾은 비율은 14.8%에 그쳤다. 창업자 겸 CEO Stephanie Harris는 \"AI는 출발점이지 최종 판결이 아니다\"라고 말했다."
               },
               {
                 "t": "p",
-                "x": "판매 대상은 이사, 지붕, 배관, 가정 청소, 시공, 전기 업체 같은 업종이다. Yelp는 정확도 수치를 내놓지 않았고 업주가 메시지를 보내기 전에 승인할 수 있는지도 밝히지 않았다."
+                "x": "Channel V Media의 Kieran Powell은 조사 단계는 이미 AI 몫이 됐다고 말했다. Prosper Insights & Analytics 설문에서 AI 에이전트에게 의류 구매를 맡기겠다는 응답은 7.3%뿐이었다. Powell은 \"사람들이 $40짜리 셔츠도 AI에게 사게 하지 않는다면, 어떤 셔츠가 좋은지도 AI에게 맡기지 않을 것\"이라고 했다."
               },
               {
                 "t": "p",
-                "x": "이번 릴리스에는 Yelp Assistant의 OpenTable 예약, 식당에 전화해 대기 시간을 묻는 AI 전화 에이전트 Check for Me, Yelp Audiences 디스플레이 캠페인용 의도 기반 크리에이티브도 들어 있다."
+                "x": "AI 어시스턴트에서 들어오는 트래픽이 꾸준히 느는 Musely는 GEO에 힘을 쏟는다. Paris Roche는 \"우리 목표는 단순히 AI에 언급되는 것이 아니다\"라고 했다. Harris는 \"그런 신호들이 서로 어긋나면 AI는 그것을 덮어 주지 않는다. 오히려 그 간극을 더 빨리 드러낸다\"고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Yelpの30ドルAIが\nリードに応答・選別",
-          "body": "Yelpのエージェントは月30ドルで引っ越し・屋根・配管業者の見積依頼に応答し選別する。",
-          "mini_headline": "Yelpの30ドルのリード対応エージェント",
+          "headline": "ギフト探しはAI\n購入の決め手はレビュー",
+          "body": "消費者調査では、AIでギフトを探しても大半は購入前にレビューと価格を確かめる。",
+          "mini_headline": "探すのはAI、決めるのはレビュー",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w1200/2026/10/yelp-smart-lead-reply-30-ai-agent-lead-qualification-self-typing-typewriter.jpg",
-                "cap": "Yelpは、Request a Quoteのリードに応答し選別するAIエージェントに月30ドルを課す"
+                "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2025/10/ai-compensation-digiday.webp"
               },
               {
                 "t": "p",
-                "x": "Smart Lead Replyは、Yelpのメッセージスレッド内でRequest a Quoteの問い合わせに応答し見極めるAIエージェントで、来月の提供開始時には月30ドルとなる。2026年10月20日に公開されたYelpのFall Product Releaseで、事業者向けの目玉となる機能だ。"
+                "x": "Feedvisorの新たな調査によると、買い物客の16%がChatGPTで商品探しを始めるが、購入のために使うのは9%にとどまる。AIアシスタントが商品を薦めても、その場で買うのは5%だけで、残りはより安い価格を求めてGoogleやAmazonなどのプラットフォームをまず確認する。"
               },
               {
                 "t": "p",
-                "x": "エージェントはYelp for Businessのアカウントとビジネスページの情報をもとに、質問に答え、案件の詳細を集め、リードを選別する。事業者は予約リンク、サービス、料金やプロモーション、エージェントに尋ねさせる質問を追加できる。リードが選別されるとエージェントが予約リンクを共有し、すべての会話はYelpの受信箱に記録される。"
+                "x": "PartnerCentricの調査では、AIの提案を受けた後、買い物客の33%が既存のレビューを確認し、22.3%が価格を比較し、18.8%がAmazonなどの小売サイトで検索した。ブランドのウェブサイトを訪れたのは14.8%にすぎない。創業者兼CEOのStephanie Harrisは「AIは出発点であって、最終的な判断ではない」と語った。"
               },
               {
                 "t": "p",
-                "x": "販売対象は、引っ越し、屋根工事、配管、ハウスクリーニング、建設業者、電気工事など対象カテゴリーの事業者だ。Yelpは精度の数値を示しておらず、送信前に事業者がメッセージを承認できるかどうかも明らかにしていない。"
+                "x": "Channel V MediaのKieran Powellは、AIはリサーチの段階を制していると述べた。Prosper Insights & Analyticsの調査では、AIエージェントに衣料品の購入を任せるとした人は7.3%にとどまった。Powellは「$40のシャツさえAIに買わせないのなら、どのシャツが良いかもAIには決めさせないだろう」と語った。"
               },
               {
                 "t": "p",
-                "x": "今回のリリースでは、Yelp AssistantへのOpenTable予約の追加、レストランに電話して待ち時間を尋ねるAI電話エージェントのCheck for Me、Yelp Audiencesのディスプレイキャンペーン向けの意図ベースのクリエイティブも加わる。"
+                "x": "AIアシスタントからのトラフィックが着実に伸びているMuselyは、GEOに注力している。Paris Rocheは「私たちの目標は、単にAIに言及されることではない」と述べた。Harrisは「そうしたシグナルが食い違うと、AIはそれを取り繕わない。むしろそのずれを早く浮き彫りにする」と付け加えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Yelp推30美元AI代理\n应答并筛选潜在客户",
-          "body": "Yelp的AI代理每月30美元，为搬家、屋顶和管道商家应答并筛选报价请求。",
-          "mini_headline": "Yelp推出30美元潜客代理",
+          "headline": "AI帮购物者找礼物\n成交靠的是评价",
+          "body": "消费者调查显示，AI帮助购物者发现礼物，但多数人购买前仍会查看评价和价格。",
+          "mini_headline": "AI找货，评价成交",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w1200/2026/10/yelp-smart-lead-reply-30-ai-agent-lead-qualification-self-typing-typewriter.jpg",
-                "cap": "Yelp对一款应答并筛选Request a Quote潜在客户的AI代理收取每月30美元"
+                "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2025/10/ai-compensation-digiday.webp"
               },
               {
                 "t": "p",
-                "x": "Smart Lead Reply是一款在Yelp消息线程中应答并审核Request a Quote询价的AI代理，将于下月推出，每月收费30美元。它是Yelp于2026年10月20日发布的Fall Product Release中面向商家的核心功能。"
+                "x": "Feedvisor的一项新调查显示，16%的购物者从ChatGPT开始寻找商品，但只有9%会去那里购买。当AI助手推荐某件商品时，只有5%的人会当场购买，其余人会先去Google和Amazon等平台寻找更低的价格。"
               },
               {
                 "t": "p",
-                "x": "该代理利用Yelp for Business账户和商家页面中的信息来回答问题、收集项目细节并筛选潜在客户。商家可以添加预约链接、服务、价格或促销信息，以及希望代理提出的问题。潜在客户通过筛选后，代理会分享预约链接，所有对话都会记录在Yelp收件箱中。"
+                "x": "PartnerCentric的调查结果显示，在收到AI建议后，33%的购物者会查看已有评价，22.3%会比较价格，18.8%会在Amazon或其他零售商处搜索，只有14.8%会访问品牌官网。创始人兼CEO Stephanie Harris说：\"AI是起点，而不是最终裁决。\""
               },
               {
                 "t": "p",
-                "x": "该产品面向搬家、屋顶、管道、家庭清洁、承包商和电工等符合条件的类别销售。Yelp未提供任何准确率数据，也未说明商家能否在消息发出前进行审批。"
+                "x": "Channel V Media的Kieran Powell表示，AI正在赢下调研环节。Prosper Insights & Analytics的一项调查发现，只有7.3%的人愿意让AI智能体替自己购买服装。Powell说：\"如果人们连一件$40的衬衫都不愿让AI替他们买，他们也不会让AI告诉他们哪件衬衫好。\""
               },
               {
                 "t": "p",
-                "x": "此次发布还为Yelp Assistant新增了OpenTable预订功能，推出了会致电餐厅询问等位时间的AI电话代理Check for Me，并为Yelp Audiences展示广告系列加入了基于意图的创意。"
+                "x": "来自AI助手的流量稳步增长的Musely正专注于GEO。Paris Roche说：\"对我们来说，目标不只是被AI提及。\"Harris补充道：\"当这些信号相互矛盾时，AI不会帮你抹平，反而会更快暴露差距。\""
               }
             ]
           }
         },
         "es": {
-          "headline": "Agente de IA de Yelp por $30\nresponde y califica leads",
-          "body": "El agente Smart Lead Reply de Yelp responde y califica presupuestos de mudanzas, techos y fontanería por $30 al mes.",
-          "mini_headline": "El agente de leads de Yelp por $30",
+          "headline": "La AI ayuda a encontrar regalos\npero las reseñas cierran ventas",
+          "body": "Según encuestas, la AI ayuda a encontrar regalos, pero la mayoría revisa reseñas y precios antes de comprar.",
+          "mini_headline": "La AI encuentra, las reseñas venden",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w1200/2026/10/yelp-smart-lead-reply-30-ai-agent-lead-qualification-self-typing-typewriter.jpg",
-                "cap": "Yelp cobra $30 al mes por un agente de IA que responde y califica los leads de Request a Quote"
+                "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2025/10/ai-compensation-digiday.webp"
               },
               {
                 "t": "p",
-                "x": "Smart Lead Reply, un agente de IA que responde y filtra las consultas de Request a Quote dentro de los hilos de mensajes de Yelp, costará $30 al mes cuando se lance el próximo mes. Es la pieza central para empresas del Fall Product Release de Yelp, publicado el 20 de octubre de 2026."
+                "x": "Según una nueva encuesta de Feedvisor, el 16% de los compradores empieza a buscar productos en ChatGPT, pero solo el 9% acude allí para comprar. Cuando un asistente de AI recomienda un producto, solo el 5% lo compra en el momento; el resto revisa primero plataformas como Google y Amazon en busca de mejores precios."
               },
               {
                 "t": "p",
-                "x": "El agente se basa en la información de la cuenta de Yelp for Business y de la página del negocio para responder preguntas, recopilar detalles del proyecto y calificar leads. Los propietarios pueden añadir un enlace de reserva, servicios, precios o promociones, y preguntas para que el agente las haga. Una vez calificado un lead, el agente comparte el enlace de reserva, y cada conversación queda registrada en la bandeja de entrada de Yelp."
+                "x": "Los datos de PartnerCentric muestran que, tras una sugerencia de la AI, el 33% de los compradores consulta reseñas existentes, el 22.3% compara precios y el 18.8% busca en Amazon u otro minorista. Solo el 14.8% visita el sitio web de la marca. \"La AI es un punto de partida, no un veredicto final\", dijo su fundadora y CEO, Stephanie Harris."
               },
               {
                 "t": "p",
-                "x": "Se vende a categorías elegibles como empresas de mudanzas, techadores, fontaneros, limpieza del hogar, contratistas y electricistas. Yelp no ofrece cifras de precisión ni dice si los propietarios pueden aprobar los mensajes antes de que se envíen."
+                "x": "Kieran Powell, de Channel V Media, dijo que la AI está ganando la fase de investigación. Una encuesta de Prosper Insights & Analytics halló que solo el 7.3% dejaría que un agente de AI comprara ropa por él. \"Si la gente no deja que la AI le compre una camisa de $40, tampoco dejará que le diga qué camisa es buena\", dijo Powell."
               },
               {
                 "t": "p",
-                "x": "La actualización también añade reservas de OpenTable a Yelp Assistant, Check for Me, un agente telefónico de IA que llama a restaurantes para preguntar por los tiempos de espera, y creatividades basadas en la intención para las campañas de display de Yelp Audiences."
+                "x": "Musely, que recibe un tráfico creciente y constante desde asistentes de AI, se centra en GEO. \"Para nosotros, el objetivo no es simplemente que la AI nos mencione\", dijo Paris Roche. Harris añadió: \"Cuando esas señales se contradicen, la AI no lo disimula. Expone la brecha antes\"."
               }
             ]
           }
@@ -1115,125 +1339,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Yelp의 30달러 AI\n에이전트, 리드 응대·선별",
-          "body": "Yelp AI가 월 30달러에 이사·지붕·배관 업체 견적 문의에 답하고 선별한다.",
-          "mini_headline": "Yelp의 30달러 리드 에이전트",
+          "headline": "선물 찾기는 AI가\n구매 결정은 리뷰가",
+          "body": "소비자 조사 결과 AI로 선물을 찾아도 대부분 구매 전 리뷰와 가격을 본다.",
+          "mini_headline": "찾는 건 AI, 사는 건 리뷰",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w1200/2026/10/yelp-smart-lead-reply-30-ai-agent-lead-qualification-self-typing-typewriter.jpg",
-                "cap": "Yelp는 Request a Quote 리드에 답하고 선별하는 AI 에이전트에 월 30달러를 받는다"
+                "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2025/10/ai-compensation-digiday.webp"
               },
               {
                 "t": "p",
-                "x": "Smart Lead Reply는 Yelp 메시지 스레드 안에서 Request a Quote 문의에 답하고 검증하는 AI 에이전트로, 다음 달 출시되면 월 30달러에 제공된다. 2026년 10월 20일 공개된 Yelp의 Fall Product Release에서 비즈니스 대상 기능의 핵심이다."
+                "x": "Feedvisor의 새 설문에 따르면 쇼핑객의 16%가 ChatGPT에서 상품 탐색을 시작하지만, 구매하러 가는 비율은 9%에 그친다. AI 어시스턴트가 상품을 추천해도 그 자리에서 사는 비율은 5%뿐이고, 나머지는 더 좋은 가격을 찾아 Google과 Amazon 같은 플랫폼부터 확인한다."
               },
               {
                 "t": "p",
-                "x": "에이전트는 Yelp for Business 계정과 비즈니스 페이지의 정보를 바탕으로 질문에 답하고, 프로젝트 세부 사항을 모으고, 리드를 선별한다. 업주는 예약 링크, 서비스, 가격이나 프로모션, 에이전트가 물어볼 질문을 추가할 수 있다. 리드가 선별되면 에이전트가 예약 링크를 공유하고, 모든 대화는 Yelp 받은편지함에 기록된다."
+                "x": "PartnerCentric의 조사에서는 AI 추천을 받은 뒤 쇼핑객의 33%가 기존 리뷰를 확인하고, 22.3%가 가격을 비교하며, 18.8%가 Amazon이나 다른 소매점에서 검색했다. 브랜드 웹사이트를 방문한 비율은 14.8%에 불과했다. 창업자 겸 CEO Stephanie Harris는 \"AI는 출발점이지 최종 판결이 아니다\"라고 말했다."
               },
               {
                 "t": "p",
-                "x": "이사, 지붕, 배관, 가정 청소, 시공, 전기 업체 같은 대상 업종에 판매된다. Yelp는 정확도 수치를 내놓지 않았고, 업주가 메시지 발송 전에 승인할 수 있는지도 밝히지 않았다."
+                "x": "Channel V Media의 Kieran Powell은 AI가 조사 단계를 차지하고 있다고 말했다. Prosper Insights & Analytics 설문에서는 AI 에이전트에게 의류 구매를 맡기겠다는 응답이 7.3%에 그쳤다. Powell은 \"사람들이 $40짜리 셔츠도 AI에게 사게 하지 않는다면, 어떤 셔츠가 좋은지도 AI에게 맡기지 않을 것\"이라고 말했다."
               },
               {
                 "t": "p",
-                "x": "이번 릴리스는 Yelp Assistant의 OpenTable 예약, 식당에 전화해 대기 시간을 묻는 AI 전화 에이전트 Check for Me, Yelp Audiences 디스플레이 캠페인용 의도 기반 크리에이티브도 추가한다."
+                "x": "AI 어시스턴트에서 유입되는 트래픽이 꾸준히 늘고 있는 Musely는 GEO에 집중하고 있다. Paris Roche는 \"우리 목표는 단순히 AI에 언급되는 것이 아니다\"라고 말했다. Harris는 \"그런 신호들이 서로 어긋나면 AI는 그것을 덮어 주지 않는다. 오히려 그 간극을 더 빨리 드러낸다\"고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Yelpの30ドルAIが\nリードに応答・選別",
-          "body": "Yelpのエージェントは月30ドルで引っ越し・屋根・配管業者の見積依頼に応答し選別する。",
-          "mini_headline": "Yelpの30ドルのリード対応エージェント",
+          "headline": "ギフト探しはAI\n購入の決め手はレビュー",
+          "body": "消費者調査では、AIでギフトを探しても大半は購入前にレビューと価格を確かめる。",
+          "mini_headline": "探すのはAI、決めるのはレビュー",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w1200/2026/10/yelp-smart-lead-reply-30-ai-agent-lead-qualification-self-typing-typewriter.jpg",
-                "cap": "Yelpは、Request a Quoteのリードに応答し選別するAIエージェントに月30ドルを課す"
+                "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2025/10/ai-compensation-digiday.webp"
               },
               {
                 "t": "p",
-                "x": "Smart Lead Replyは、Yelpのメッセージスレッド内でRequest a Quoteの問い合わせに応答し見極めるAIエージェントで、来月の提供開始時には月30ドルとなる。2026年10月20日に公開されたYelpのFall Product Releaseで、事業者向けの目玉となる機能だ。"
+                "x": "Feedvisorの新たな調査によると、買い物客の16%がChatGPTで商品探しを始めるが、購入のために使うのは9%にとどまる。AIアシスタントが商品を薦めても、その場で買うのは5%だけで、残りはより安い価格を求めてGoogleやAmazonなどのプラットフォームをまず確認する。"
               },
               {
                 "t": "p",
-                "x": "エージェントはYelp for Businessのアカウントとビジネスページの情報をもとに、質問に答え、案件の詳細を集め、リードを選別する。事業者は予約リンク、サービス、料金やプロモーション、エージェントに尋ねさせる質問を追加できる。リードが選別されるとエージェントが予約リンクを共有し、すべての会話はYelpの受信箱に記録される。"
+                "x": "PartnerCentricの調査では、AIの提案を受けた後、買い物客の33%が既存のレビューを確認し、22.3%が価格を比較し、18.8%がAmazonなどの小売サイトで検索した。ブランドのウェブサイトを訪れたのは14.8%にすぎない。創業者兼CEOのStephanie Harrisは「AIは出発点であって、最終的な判断ではない」と語った。"
               },
               {
                 "t": "p",
-                "x": "販売対象は、引っ越し、屋根工事、配管、ハウスクリーニング、建設業者、電気工事など対象カテゴリーの事業者だ。Yelpは精度の数値を示しておらず、送信前に事業者がメッセージを承認できるかどうかも明らかにしていない。"
+                "x": "Channel V MediaのKieran Powellは、AIはリサーチの段階を制していると述べた。Prosper Insights & Analyticsの調査では、AIエージェントに衣料品の購入を任せるとした人は7.3%にとどまった。Powellは「$40のシャツさえAIに買わせないのなら、どのシャツが良いかもAIには決めさせないだろう」と語った。"
               },
               {
                 "t": "p",
-                "x": "今回のリリースでは、Yelp AssistantへのOpenTable予約の追加、レストランに電話して待ち時間を尋ねるAI電話エージェントのCheck for Me、Yelp Audiencesのディスプレイキャンペーン向けの意図ベースのクリエイティブも加わる。"
+                "x": "AIアシスタントからのトラフィックが着実に伸びているMuselyは、GEOに注力している。Paris Rocheは「私たちの目標は、単にAIに言及されることではない」と述べた。Harrisは「そうしたシグナルが食い違うと、AIはそれを取り繕わない。むしろそのずれを早く浮き彫りにする」と付け加えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Yelp推30美元AI代理\n应答并筛选潜在客户",
-          "body": "Yelp的AI代理每月30美元，为搬家、屋顶和管道商家应答并筛选报价请求。",
-          "mini_headline": "Yelp推出30美元潜客代理",
+          "headline": "AI帮购物者找礼物\n成交靠的是评价",
+          "body": "消费者调查显示，AI帮助购物者发现礼物，但多数人购买前仍会查看评价和价格。",
+          "mini_headline": "AI找货，评价成交",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w1200/2026/10/yelp-smart-lead-reply-30-ai-agent-lead-qualification-self-typing-typewriter.jpg",
-                "cap": "Yelp对一款应答并筛选Request a Quote潜在客户的AI代理收取每月30美元"
+                "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2025/10/ai-compensation-digiday.webp"
               },
               {
                 "t": "p",
-                "x": "Smart Lead Reply是一款在Yelp消息线程中应答并审核Request a Quote询价的AI代理，将于下月推出，每月收费30美元。它是Yelp于2026年10月20日发布的Fall Product Release中面向商家的核心功能。"
+                "x": "Feedvisor的一项新调查显示，16%的购物者从ChatGPT开始寻找商品，但只有9%会去那里购买。当AI助手推荐某件商品时，只有5%的人会当场购买，其余人会先去Google和Amazon等平台寻找更低的价格。"
               },
               {
                 "t": "p",
-                "x": "该代理利用Yelp for Business账户和商家页面中的信息来回答问题、收集项目细节并筛选潜在客户。商家可以添加预约链接、服务、价格或促销信息，以及希望代理提出的问题。潜在客户通过筛选后，代理会分享预约链接，所有对话都会记录在Yelp收件箱中。"
+                "x": "PartnerCentric的调查结果显示，在收到AI建议后，33%的购物者会查看已有评价，22.3%会比较价格，18.8%会在Amazon或其他零售商处搜索，只有14.8%会访问品牌官网。创始人兼CEO Stephanie Harris说：\"AI是起点，而不是最终裁决。\""
               },
               {
                 "t": "p",
-                "x": "该产品面向搬家、屋顶、管道、家庭清洁、承包商和电工等符合条件的类别销售。Yelp未提供任何准确率数据，也未说明商家能否在消息发出前进行审批。"
+                "x": "Channel V Media的Kieran Powell表示，AI正在赢下调研环节。Prosper Insights & Analytics的一项调查发现，只有7.3%的人愿意让AI智能体替自己购买服装。Powell说：\"如果人们连一件$40的衬衫都不愿让AI替他们买，他们也不会让AI告诉他们哪件衬衫好。\""
               },
               {
                 "t": "p",
-                "x": "此次发布还为Yelp Assistant新增了OpenTable预订功能，推出了会致电餐厅询问等位时间的AI电话代理Check for Me，并为Yelp Audiences展示广告系列加入了基于意图的创意。"
+                "x": "来自AI助手的流量稳步增长的Musely正专注于GEO。Paris Roche说：\"对我们来说，目标不只是被AI提及。\"Harris补充道：\"当这些信号相互矛盾时，AI不会帮你抹平，反而会更快暴露差距。\""
               }
             ]
           }
         },
         "es": {
-          "headline": "Agente de IA de Yelp por $30\nresponde y califica leads",
-          "body": "El agente Smart Lead Reply de Yelp responde y califica presupuestos de mudanzas, techos y fontanería por $30 al mes.",
-          "mini_headline": "El agente de leads de Yelp por $30",
+          "headline": "La AI ayuda a encontrar regalos\npero las reseñas cierran ventas",
+          "body": "Según encuestas, la AI ayuda a encontrar regalos, pero la mayoría revisa reseñas y precios antes de comprar.",
+          "mini_headline": "La AI encuentra, las reseñas venden",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w1200/2026/10/yelp-smart-lead-reply-30-ai-agent-lead-qualification-self-typing-typewriter.jpg",
-                "cap": "Yelp cobra $30 al mes por un agente de IA que responde y califica los leads de Request a Quote"
+                "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2025/10/ai-compensation-digiday.webp"
               },
               {
                 "t": "p",
-                "x": "Smart Lead Reply, un agente de IA que responde y filtra las consultas de Request a Quote dentro de los hilos de mensajes de Yelp, costará $30 al mes cuando se lance el próximo mes. Es la pieza central para empresas del Fall Product Release de Yelp, publicado el 20 de octubre de 2026."
+                "x": "Según una nueva encuesta de Feedvisor, el 16% de los compradores empieza a buscar productos en ChatGPT, pero solo el 9% acude allí para comprar. Cuando un asistente de AI recomienda un producto, solo el 5% lo compra en el momento; el resto revisa primero plataformas como Google y Amazon en busca de mejores precios."
               },
               {
                 "t": "p",
-                "x": "El agente se basa en la información de la cuenta de Yelp for Business y de la página del negocio para responder preguntas, recopilar detalles del proyecto y calificar leads. Los propietarios pueden añadir un enlace de reserva, servicios, precios o promociones, y preguntas para que el agente las haga. Una vez calificado un lead, el agente comparte el enlace de reserva, y cada conversación queda registrada en la bandeja de entrada de Yelp."
+                "x": "Los datos de PartnerCentric muestran que, tras una sugerencia de la AI, el 33% de los compradores consulta reseñas existentes, el 22.3% compara precios y el 18.8% busca en Amazon u otro minorista. Solo el 14.8% visita el sitio web de la marca. \"La AI es un punto de partida, no un veredicto final\", dijo su fundadora y CEO, Stephanie Harris."
               },
               {
                 "t": "p",
-                "x": "Se vende a categorías elegibles como empresas de mudanzas, techadores, fontaneros, limpieza del hogar, contratistas y electricistas. Yelp no ofrece cifras de precisión ni dice si los propietarios pueden aprobar los mensajes antes de que se envíen."
+                "x": "Kieran Powell, de Channel V Media, dijo que la AI está ganando la fase de investigación. Una encuesta de Prosper Insights & Analytics halló que solo el 7.3% dejaría que un agente de AI comprara ropa por él. \"Si la gente no deja que la AI le compre una camisa de $40, tampoco dejará que le diga qué camisa es buena\", dijo Powell."
               },
               {
                 "t": "p",
-                "x": "La actualización también añade reservas de OpenTable a Yelp Assistant, Check for Me, un agente telefónico de IA que llama a restaurantes para preguntar por los tiempos de espera, y creatividades basadas en la intención para las campañas de display de Yelp Audiences."
+                "x": "Musely, que recibe un tráfico creciente y constante desde asistentes de AI, se centra en GEO. \"Para nosotros, el objetivo no es simplemente que la AI nos mencione\", dijo Paris Roche. Harris añadió: \"Cuando esas señales se contradicen, la AI no lo disimula. Expone la brecha antes\"."
               }
             ]
           }
@@ -1241,321 +1461,311 @@
       }
     },
     {
-      "id": "marketing-meta-muse",
-      "source_lang": "en",
+      "id": "marketing-kobaco-aisac-gambling",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Muse 1000만 돌파\n쇼핑이 주요 용도로",
-      "body": "Meta는 Muse 사용자가 1000만 명을 넘었고 쇼핑이 주요 용도라고 밝혔다.",
-      "mini_headline": "Muse 사용자 1000만 돌파",
+      "headline": "코바코 AI광고 도구\n불법도박 광고도 뚝딱",
+      "body": "국감에서 코바코 AI 플랫폼 아이작이 불법 도박 광고 스토리보드를 만들어 냈다.",
+      "mini_headline": "코바코 AI 필터링 구멍",
       "tool": "Marketing",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/index.php/politics/2026/10/22/2026102221435830253",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
-            "cap": "이미지 출처: Samuel Boivin/NurPhoto / Getty Images"
+            "src": "https://thumb.mt.co.kr/21/2026/10/2026102221435830253_1.jpg"
           },
           {
             "t": "p",
-            "x": "Meta는 수요일 3분기 실적 발표에서 AI 앱 Muse의 사용자가 1000만 명을 넘었다고 밝혔다. Mark Zuckerberg는 Muse를 설정한 사람 가운데 약 25%가 지금 매일 쓴다고 했다."
+            "x": "이정헌 더불어민주당 의원이 한국방송광고진흥공사(KOBACO)의 생성형 AI 광고 제작 플랫폼이 불법·유해 광고를 제대로 걸러내지 못하고 있다는 점을 지적했다."
           },
           {
             "t": "p",
-            "x": "그는 AI 에이전트로 쇼핑한 Muse 활성 사용자의 4분의 1 이상은 평균 구매액이 200달러를 넘었다고 덧붙였다. 에이전트 쇼핑은 Plaid의 커넥터로 돌아간다. 이메일이나 캘린더에 에이전트를 붙이는 식의 개인 생산성 작업에도 많이 쓰인다."
+            "x": "이 의원은 22일 국회 과학기술정보방송통신위원회 국정감사에서 KOBACO의 AI 광고 창작지원 플랫폼 '아이작(AiSAC)'에 '돈 버는 슬롯게임', '슬롯머신' 등의 키워드를 입력해 불법 도박게임을 홍보하는 광고 스토리보드를 실제로 만들어 보였다."
           },
           {
             "t": "p",
-            "x": "Meta는 대다수 사용자에게 Muse를 무료로 주고 플랫폼에서 오가는 거래에서 일정 비율을 떼어 가며, 파워 유저에게는 요금을 받을 계획이다. Zuckerberg는 내년에 Muse의 비용 효율이 10배 이상 좋아진다고 보고, 결국 사용자당 매출에서 Muse가 자사 앱 패밀리를 앞지를 것으로 내다봤다."
+            "x": "이 의원은 \"특정 단어나 이미지만 차단해서는 안 된다\"며 \"광고의 전체 맥락과 목적까지 검증해야 한다\"고 지적했다."
           },
           {
             "t": "p",
-            "x": "그는 \"Muse network\"도 예고했다. \"무언가를 사고 싶다면 그 업체의 웹사이트로 이동하는 데 그치지 않고, 그 업체의 에이전트와 대화하게 된다.\""
+            "x": "엄정환 KOBACO 사장직무대행은 \"좋은 의도로 시작했지만 금칙어와 키워드 위주의 필터링이어서 우회 방식까지 미처 보완하지 못했다\"며 \"전체 맥락을 파악하는 방식으로 필터링을 강화하고 최종 단계에서 한 번 더 검증하는 절차를 준비하겠다\"고 밝혔다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Meta's Muse passes 10M users\nwith shopping a top use",
-          "body": "Meta says its Muse AI app has passed 10 million users, with shopping one of the top activities on the agent.",
-          "mini_headline": "Muse passes 10M users",
+        "ko": {
+          "headline": "코바코 AI광고 도구\n불법도박 광고도 뚝딱",
+          "body": "국감에서 코바코 AI 플랫폼 아이작이 불법 도박 광고 스토리보드를 만들어 냈다.",
+          "mini_headline": "코바코 AI 필터링 구멍",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
-                "cap": "Image Credits: Samuel Boivin/NurPhoto / Getty Images"
+                "src": "https://thumb.mt.co.kr/21/2026/10/2026102221435830253_1.jpg"
               },
               {
                 "t": "p",
-                "x": "Meta said during its third-quarter earnings call on Wednesday that its AI app Muse has been adopted by more than 10 million users. Mark Zuckerberg said about 25% of people who set up Muse now use it daily."
+                "x": "이정헌 더불어민주당 의원이 한국방송광고진흥공사(KOBACO)의 생성형 AI 광고 제작 플랫폼이 불법·유해 광고를 제대로 걸러내지 못하고 있다는 점을 지적했다."
               },
               {
                 "t": "p",
-                "x": "He said over a quarter of Muse's engaged users who were shopping via the AI agent had an average purchase size of over $200. Muse uses Plaid's connector to enable agentic shopping. Other popular uses include personal productivity tasks such as connecting the agent to email or calendars."
+                "x": "이 의원은 22일 국회 과학기술정보방송통신위원회 국정감사에서 KOBACO의 AI 광고 창작지원 플랫폼 '아이작(AiSAC)'에 '돈 버는 슬롯게임', '슬롯머신' 등의 키워드를 입력해 불법 도박게임을 홍보하는 광고 스토리보드를 실제로 만들어 보였다."
               },
               {
                 "t": "p",
-                "x": "Meta plans to keep Muse free for most users while keeping a percentage of the commerce on the platform, and to charge power users. Zuckerberg said Meta expects to improve Muse's cost efficiency by more than 10x in the next year and forecasts it will eventually bring in more revenue per user than its family of apps."
+                "x": "이 의원은 \"특정 단어나 이미지만 차단해서는 안 된다\"며 \"광고의 전체 맥락과 목적까지 검증해야 한다\"고 지적했다."
               },
               {
                 "t": "p",
-                "x": "He also teased a \"Muse network\": \"And if you want to buy something, it's not just navigating to that business's website; it's talking to their agent.\""
+                "x": "엄정환 KOBACO 사장직무대행은 \"좋은 의도로 시작했지만 금칙어와 키워드 위주의 필터링이어서 우회 방식까지 미처 보완하지 못했다\"며 \"전체 맥락을 파악하는 방식으로 필터링을 강화하고 최종 단계에서 한 번 더 검증하는 절차를 준비하겠다\"고 밝혔다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Muse 1000만 돌파\n쇼핑이 주요 용도로",
-          "body": "Meta는 Muse 사용자가 1000만 명을 넘었고 쇼핑이 주요 용도라고 밝혔다.",
-          "mini_headline": "Muse 사용자 1000만 돌파",
+        "en": {
+          "headline": "KOBACO AI ad tool churns out\nillegal gambling ads",
+          "body": "At a parliamentary audit, KOBACO's AI platform AiSAC produced a storyboard for an illegal gambling ad.",
+          "mini_headline": "Gaps in KOBACO's AI filtering",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
-                "cap": "이미지 출처: Samuel Boivin/NurPhoto / Getty Images"
+                "src": "https://thumb.mt.co.kr/21/2026/10/2026102221435830253_1.jpg"
               },
               {
                 "t": "p",
-                "x": "Meta는 수요일 3분기 실적 발표에서 AI 앱 Muse의 사용자가 1000만 명을 넘었다고 밝혔다. Mark Zuckerberg는 Muse를 설정한 사람 가운데 약 25%가 지금 매일 쓴다고 했다."
+                "x": "Lee Jung-heon, a lawmaker from the Democratic Party of Korea, pointed out that the generative AI ad-production platform of the Korea Broadcast Advertising Corporation (KOBACO) is failing to properly filter out illegal and harmful ads."
               },
               {
                 "t": "p",
-                "x": "그는 AI 에이전트로 쇼핑한 Muse 활성 사용자의 4분의 1 이상은 평균 구매액이 200달러를 넘었다고 덧붙였다. 에이전트 쇼핑은 Plaid의 커넥터로 돌아간다. 이메일이나 캘린더에 에이전트를 붙이는 식의 개인 생산성 작업에도 많이 쓰인다."
+                "x": "At the National Assembly Science, ICT, Broadcasting and Communications Committee's parliamentary audit on the 22nd, Lee entered keywords such as 'slot games that make money' and 'slot machines' into 'AiSAC', KOBACO's AI ad creation support platform, and actually produced an ad storyboard promoting illegal gambling games."
               },
               {
                 "t": "p",
-                "x": "Meta는 대다수 사용자에게 Muse를 무료로 주고 플랫폼에서 오가는 거래에서 일정 비율을 떼어 가며, 파워 유저에게는 요금을 받을 계획이다. Zuckerberg는 내년에 Muse의 비용 효율이 10배 이상 좋아진다고 보고, 결국 사용자당 매출에서 Muse가 자사 앱 패밀리를 앞지를 것으로 내다봤다."
+                "x": "Lee said, \"It should not just block specific words or images,\" adding, \"It has to verify the full context and purpose of an ad as well.\""
               },
               {
                 "t": "p",
-                "x": "그는 \"Muse network\"도 예고했다. \"무언가를 사고 싶다면 그 업체의 웹사이트로 이동하는 데 그치지 않고, 그 업체의 에이전트와 대화하게 된다.\""
+                "x": "Eom Jeong-hwan, acting president of KOBACO, said, \"We started with good intentions, but because the filtering was centered on banned words and keywords, we did not manage to cover workarounds,\" adding, \"We will strengthen filtering with an approach that grasps the full context and prepare a procedure that verifies once more at the final stage.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "Muse、1000万人突破\n買い物が主要な用途",
-          "body": "MetaはAIアプリMuseの利用者が1000万人を超え、買い物が主な用途だと述べた。",
-          "mini_headline": "Muse利用者が1000万人突破",
+          "headline": "KOBACOのAI広告ツール\n違法賭博広告も簡単に",
+          "body": "国政監査で、KOBACOのAIプラットフォームAiSACが違法賭博広告の絵コンテを作った。",
+          "mini_headline": "KOBACOのAIフィルタリングに穴",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
-                "cap": "画像クレジット：Samuel Boivin/NurPhoto / Getty Images"
+                "src": "https://thumb.mt.co.kr/21/2026/10/2026102221435830253_1.jpg"
               },
               {
                 "t": "p",
-                "x": "Metaは水曜日の第3四半期決算説明会で、AIアプリMuseの利用者が1000万人を超えたと明らかにした。Mark Zuckerberg氏によると、Museを設定した人の約25%が現在は毎日利用しているという。"
+                "x": "共に民主党のイ・ジョンホン議員は、韓国放送広告振興公社(KOBACO)の生成AI広告制作プラットフォームが違法・有害広告をきちんと遮断できていないと指摘した。"
               },
               {
                 "t": "p",
-                "x": "同氏は、AIエージェント経由で買い物をしたMuseのアクティブユーザーの4分の1超で、平均購入額が200ドルを上回ったと述べた。MuseはPlaidのコネクターを使ってエージェントによる買い物を可能にしている。ほかに人気の用途には、エージェントをメールやカレンダーにつなぐといった個人の生産性向上タスクがある。"
+                "x": "イ議員は22日、国会科学技術情報放送通信委員会の国政監査で、KOBACOのAI広告制作支援プラットフォーム「アイザック(AiSAC)」に「稼げるスロットゲーム」「スロットマシン」などのキーワードを入力し、違法賭博ゲームを宣伝する広告の絵コンテを実際に作ってみせた。"
               },
               {
                 "t": "p",
-                "x": "Metaは、大半のユーザーにはMuseを無料で提供しつつプラットフォーム上の取引の一定割合を得て、パワーユーザーには課金する計画だ。Zuckerberg氏は、来年中にMuseのコスト効率を10倍以上改善できる見込みだとし、最終的にはユーザー1人当たりの収益が同社のアプリファミリーを上回ると予測した。"
+                "x": "イ議員は「特定の単語や画像だけを遮断してはならない」とし、「広告の全体的な文脈と目的まで検証すべきだ」と指摘した。"
               },
               {
                 "t": "p",
-                "x": "同氏は「Muse network」についても予告した。「何かを買いたいとき、その企業のウェブサイトに移動するだけではなく、その企業のエージェントと話すことになる」"
+                "x": "KOBACOのオム・ジョンファン社長職務代行は「良い意図で始めたが、禁止語とキーワード中心のフィルタリングだったため、迂回する手口までは補えなかった」と述べ、「全体の文脈を把握する方式でフィルタリングを強化し、最終段階でもう一度検証する手続きを準備する」と明らかにした。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Muse用户破1000万\n购物成主要用途",
-          "body": "Meta称其AI应用Muse用户已突破1000万，购物是该代理最主要的用途之一。",
-          "mini_headline": "Muse用户破1000万",
+          "headline": "KOBACO的AI广告工具\n轻松生成非法赌博广告",
+          "body": "国政监查中，KOBACO的AI平台AiSAC生成了非法赌博广告分镜脚本。",
+          "mini_headline": "KOBACO的AI过滤存在漏洞",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
-                "cap": "图片来源：Samuel Boivin/NurPhoto / Getty Images"
+                "src": "https://thumb.mt.co.kr/21/2026/10/2026102221435830253_1.jpg"
               },
               {
                 "t": "p",
-                "x": "Meta在周三的第三季度财报电话会上表示，其AI应用Muse的用户已超过1000万。Mark Zuckerberg称，设置了Muse的人中约有25%如今每天使用它。"
+                "x": "共同民主党议员Lee Jung-heon指出，韩国广播广告振兴公社（KOBACO）的生成式AI广告制作平台未能有效过滤非法和有害广告。"
               },
               {
                 "t": "p",
-                "x": "他说，在通过这一AI代理购物的Muse活跃用户中，超过四分之一的平均购买金额超过200美元。Muse借助Plaid的连接器实现代理式购物。其他热门用途包括把代理连接到电子邮件或日历等个人生产力任务。"
+                "x": "这位议员22日在国会科学技术信息广播通信委员会的国政监查中，向KOBACO的AI广告创作支持平台\"AiSAC\"输入\"赚钱的老虎机游戏\"\"老虎机\"等关键词，实际生成了宣传非法赌博游戏的广告分镜脚本。"
               },
               {
                 "t": "p",
-                "x": "Meta计划让大多数用户免费使用Muse，同时从平台上的交易中抽取一定比例，并向重度用户收费。Zuckerberg表示，Meta预计明年将Muse的成本效率提升10倍以上，并预测它最终带来的每用户收入将超过其应用家族。"
+                "x": "他指出：\"不能只屏蔽特定的词语或图像，\"\"还必须核查广告的整体语境和目的。\""
               },
               {
                 "t": "p",
-                "x": "他还预告了“Muse network”：“如果你想买东西，就不只是访问那家企业的网站，而是与它的代理对话。”"
+                "x": "KOBACO社长职务代理Eom Jeong-hwan表示：\"初衷是好的，但过滤以禁用词和关键词为主，没能补上绕过的方式。\"他还表示：\"将改用把握整体语境的方式加强过滤，并准备在最后阶段再核查一次的程序。\""
               }
             ]
           }
         },
         "es": {
-          "headline": "Muse de Meta supera 10M usuarios\ncon las compras como uso clave",
-          "body": "Meta dice que su app de IA Muse supera los 10 millones de usuarios y que las compras están entre sus usos principales.",
-          "mini_headline": "Muse supera 10M usuarios",
+          "headline": "La herramienta de AI de KOBACO\ncrea anuncios de juego ilegal",
+          "body": "En la auditoría estatal, la plataforma de AI de KOBACO, AiSAC, creó el storyboard de un anuncio de apuestas ilegales.",
+          "mini_headline": "Fallos en el filtrado de AI de KOBACO",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
-                "cap": "Créditos de imagen: Samuel Boivin/NurPhoto / Getty Images"
+                "src": "https://thumb.mt.co.kr/21/2026/10/2026102221435830253_1.jpg"
               },
               {
                 "t": "p",
-                "x": "Meta dijo el miércoles, durante su conferencia de resultados del tercer trimestre, que su app de IA Muse ha sido adoptada por más de 10 millones de usuarios. Mark Zuckerberg dijo que alrededor del 25% de quienes configuran Muse ahora la usan a diario."
+                "x": "El diputado Lee Jung-heon, del Partido Democrático, señaló que la plataforma de AI generativa para crear anuncios de la Corporación Coreana de Promoción de Publicidad en Radiodifusión (KOBACO) no logra filtrar adecuadamente la publicidad ilegal y nociva."
               },
               {
                 "t": "p",
-                "x": "Según él, más de una cuarta parte de los usuarios activos de Muse que compraban a través del agente de IA tuvo un gasto medio por compra superior a $200. Muse usa el conector de Plaid para permitir las compras con agentes. Otros usos populares incluyen tareas de productividad personal, como conectar el agente al correo electrónico o al calendario."
+                "x": "En la auditoría estatal del Comité de Ciencia, Tecnología, Información, Radiodifusión y Comunicaciones de la Asamblea Nacional, celebrada el día 22, Lee introdujo palabras clave como \"juego de slots para ganar dinero\" y \"máquina de slots\" en AiSAC, la plataforma de apoyo a la creación publicitaria con AI de KOBACO, y generó en la práctica un storyboard publicitario que promocionaba juegos de azar ilegales."
               },
               {
                 "t": "p",
-                "x": "Meta planea mantener Muse gratis para la mayoría de los usuarios y quedarse con un porcentaje del comercio en la plataforma, además de cobrar a los usuarios avanzados. Zuckerberg dijo que Meta espera mejorar la eficiencia de costes de Muse más de 10 veces el próximo año y prevé que con el tiempo genere más ingresos por usuario que su familia de apps."
+                "x": "Lee afirmó que \"no se deben bloquear solo determinadas palabras o imágenes\" y que \"hay que verificar también el contexto completo y el propósito del anuncio\"."
               },
               {
                 "t": "p",
-                "x": "También adelantó una \"Muse network\": \"Y si quieres comprar algo, no se trata solo de ir al sitio web de esa empresa; se trata de hablar con su agente\"."
+                "x": "Eom Jeong-hwan, presidente interino de KOBACO, dijo: \"Empezamos con buenas intenciones, pero como el filtrado se centraba en palabras prohibidas y palabras clave, no llegamos a cubrir los métodos para eludirlo\". Añadió: \"Reforzaremos el filtrado con un enfoque que capte el contexto completo y prepararemos un procedimiento para verificar una vez más en la etapa final\"."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Muse 1000만 돌파\n쇼핑이 주요 용도로",
-          "body": "Meta는 Muse 사용자가 1000만 명을 넘었고 쇼핑이 주요 용도라고 밝혔다.",
-          "mini_headline": "Muse 사용자 1000만 돌파",
+        "en": {
+          "headline": "KOBACO AI ad tool churns out\nillegal gambling ads",
+          "body": "At a parliamentary audit, KOBACO's AI platform AiSAC produced a storyboard for an illegal gambling ad.",
+          "mini_headline": "Gaps in KOBACO's AI filtering",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
-                "cap": "이미지 출처: Samuel Boivin/NurPhoto / Getty Images"
+                "src": "https://thumb.mt.co.kr/21/2026/10/2026102221435830253_1.jpg"
               },
               {
                 "t": "p",
-                "x": "Meta는 수요일 3분기 실적 발표에서 AI 앱 Muse의 사용자가 1000만 명을 넘었다고 밝혔다. Mark Zuckerberg는 Muse를 설정한 사람의 약 25%가 현재 매일 쓴다고 말했다."
+                "x": "Lee Jung-heon, a lawmaker from the Democratic Party of Korea, pointed out that the generative AI ad-production platform of the Korea Broadcast Advertising Corporation (KOBACO) is failing to properly filter out illegal and harmful ads."
               },
               {
                 "t": "p",
-                "x": "그는 AI 에이전트로 쇼핑한 Muse 활성 사용자 중 4분의 1 이상은 평균 구매액이 200달러를 넘었다고 말했다. Muse는 Plaid의 커넥터로 에이전트 쇼핑을 지원한다. 그 밖에 이메일이나 캘린더에 에이전트를 연결하는 등 개인 생산성 작업에도 많이 쓰인다."
+                "x": "At the National Assembly Science, ICT, Broadcasting and Communications Committee's parliamentary audit on the 22nd, Lee entered keywords such as 'slot games that make money' and 'slot machines' into 'AiSAC', KOBACO's AI ad creation support platform, and actually produced an ad storyboard promoting illegal gambling games."
               },
               {
                 "t": "p",
-                "x": "Meta는 대다수 사용자에게 Muse를 무료로 제공하면서 플랫폼에서 일어나는 거래의 일정 비율을 가져가고, 파워 유저에게는 요금을 받을 계획이다. Zuckerberg는 내년 Muse의 비용 효율을 10배 이상 높일 것으로 예상하며, 결국 Muse가 사용자당 매출에서 자사 앱 패밀리를 넘어설 것으로 내다봤다."
+                "x": "Lee said, \"It should not just block specific words or images,\" adding, \"It has to verify the full context and purpose of an ad as well.\""
               },
               {
                 "t": "p",
-                "x": "그는 \"Muse network\"도 예고했다. \"무언가를 사고 싶다면 그 업체의 웹사이트로 이동하는 데 그치지 않고, 그 업체의 에이전트와 대화하게 된다.\""
+                "x": "Eom Jeong-hwan, acting president of KOBACO, said, \"We started with good intentions, but because the filtering was centered on banned words and keywords, we did not manage to cover workarounds,\" adding, \"We will strengthen filtering with an approach that grasps the full context and prepare a procedure that verifies once more at the final stage.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "Muse、1000万人突破\n買い物が主要な用途",
-          "body": "MetaはAIアプリMuseの利用者が1000万人を超え、買い物が主な用途だと述べた。",
-          "mini_headline": "Muse利用者が1000万人突破",
+          "headline": "KOBACOのAI広告ツール\n違法賭博広告も簡単に",
+          "body": "国政監査で、KOBACOのAIプラットフォームAiSACが違法賭博広告の絵コンテを作った。",
+          "mini_headline": "KOBACOのAIフィルタリングに穴",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
-                "cap": "画像クレジット：Samuel Boivin/NurPhoto / Getty Images"
+                "src": "https://thumb.mt.co.kr/21/2026/10/2026102221435830253_1.jpg"
               },
               {
                 "t": "p",
-                "x": "Metaは水曜日の第3四半期決算説明会で、AIアプリMuseの利用者が1000万人を超えたと明らかにした。Mark Zuckerberg氏によると、Museを設定した人の約25%が現在は毎日利用しているという。"
+                "x": "共に民主党のイ・ジョンホン議員は、韓国放送広告振興公社(KOBACO)の生成AI広告制作プラットフォームが違法・有害広告をきちんと遮断できていないと指摘した。"
               },
               {
                 "t": "p",
-                "x": "同氏は、AIエージェント経由で買い物をしたMuseのアクティブユーザーの4分の1超で、平均購入額が200ドルを上回ったと述べた。MuseはPlaidのコネクターを使ってエージェントによる買い物を可能にしている。ほかに人気の用途には、エージェントをメールやカレンダーにつなぐといった個人の生産性向上タスクがある。"
+                "x": "イ議員は22日、国会科学技術情報放送通信委員会の国政監査で、KOBACOのAI広告制作支援プラットフォーム「アイザック(AiSAC)」に「稼げるスロットゲーム」「スロットマシン」などのキーワードを入力し、違法賭博ゲームを宣伝する広告の絵コンテを実際に作ってみせた。"
               },
               {
                 "t": "p",
-                "x": "Metaは、大半のユーザーにはMuseを無料で提供しつつプラットフォーム上の取引の一定割合を得て、パワーユーザーには課金する計画だ。Zuckerberg氏は、来年中にMuseのコスト効率を10倍以上改善できる見込みだとし、最終的にはユーザー1人当たりの収益が同社のアプリファミリーを上回ると予測した。"
+                "x": "イ議員は「特定の単語や画像だけを遮断してはならない」とし、「広告の全体的な文脈と目的まで検証すべきだ」と指摘した。"
               },
               {
                 "t": "p",
-                "x": "同氏は「Muse network」についても予告した。「何かを買いたいとき、その企業のウェブサイトに移動するだけではなく、その企業のエージェントと話すことになる」"
+                "x": "KOBACOのオム・ジョンファン社長職務代行は「良い意図で始めたが、禁止語とキーワード中心のフィルタリングだったため、迂回する手口までは補えなかった」と述べ、「全体の文脈を把握する方式でフィルタリングを強化し、最終段階でもう一度検証する手続きを準備する」と明らかにした。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Muse用户破1000万\n购物成主要用途",
-          "body": "Meta称其AI应用Muse用户已突破1000万，购物是该代理最主要的用途之一。",
-          "mini_headline": "Muse用户破1000万",
+          "headline": "KOBACO的AI广告工具\n轻松生成非法赌博广告",
+          "body": "国政监查中，KOBACO的AI平台AiSAC生成了非法赌博广告分镜脚本。",
+          "mini_headline": "KOBACO的AI过滤存在漏洞",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
-                "cap": "图片来源：Samuel Boivin/NurPhoto / Getty Images"
+                "src": "https://thumb.mt.co.kr/21/2026/10/2026102221435830253_1.jpg"
               },
               {
                 "t": "p",
-                "x": "Meta在周三的第三季度财报电话会上表示，其AI应用Muse的用户已超过1000万。Mark Zuckerberg称，设置了Muse的人中约有25%如今每天使用它。"
+                "x": "共同民主党议员Lee Jung-heon指出，韩国广播广告振兴公社（KOBACO）的生成式AI广告制作平台未能有效过滤非法和有害广告。"
               },
               {
                 "t": "p",
-                "x": "他说，在通过这一AI代理购物的Muse活跃用户中，超过四分之一的平均购买金额超过200美元。Muse借助Plaid的连接器实现代理式购物。其他热门用途包括把代理连接到电子邮件或日历等个人生产力任务。"
+                "x": "这位议员22日在国会科学技术信息广播通信委员会的国政监查中，向KOBACO的AI广告创作支持平台\"AiSAC\"输入\"赚钱的老虎机游戏\"\"老虎机\"等关键词，实际生成了宣传非法赌博游戏的广告分镜脚本。"
               },
               {
                 "t": "p",
-                "x": "Meta计划让大多数用户免费使用Muse，同时从平台上的交易中抽取一定比例，并向重度用户收费。Zuckerberg表示，Meta预计明年将Muse的成本效率提升10倍以上，并预测它最终带来的每用户收入将超过其应用家族。"
+                "x": "他指出：\"不能只屏蔽特定的词语或图像，\"\"还必须核查广告的整体语境和目的。\""
               },
               {
                 "t": "p",
-                "x": "他还预告了“Muse network”：“如果你想买东西，就不只是访问那家企业的网站，而是与它的代理对话。”"
+                "x": "KOBACO社长职务代理Eom Jeong-hwan表示：\"初衷是好的，但过滤以禁用词和关键词为主，没能补上绕过的方式。\"他还表示：\"将改用把握整体语境的方式加强过滤，并准备在最后阶段再核查一次的程序。\""
               }
             ]
           }
         },
         "es": {
-          "headline": "Muse de Meta supera 10M usuarios\ncon las compras como uso clave",
-          "body": "Meta dice que su app de IA Muse supera los 10 millones de usuarios y que las compras están entre sus usos principales.",
-          "mini_headline": "Muse supera 10M usuarios",
+          "headline": "La herramienta de AI de KOBACO\ncrea anuncios de juego ilegal",
+          "body": "En la auditoría estatal, la plataforma de AI de KOBACO, AiSAC, creó el storyboard de un anuncio de apuestas ilegales.",
+          "mini_headline": "Fallos en el filtrado de AI de KOBACO",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
-                "cap": "Créditos de imagen: Samuel Boivin/NurPhoto / Getty Images"
+                "src": "https://thumb.mt.co.kr/21/2026/10/2026102221435830253_1.jpg"
               },
               {
                 "t": "p",
-                "x": "Meta dijo el miércoles, durante su conferencia de resultados del tercer trimestre, que su app de IA Muse ha sido adoptada por más de 10 millones de usuarios. Mark Zuckerberg dijo que alrededor del 25% de quienes configuran Muse ahora la usan a diario."
+                "x": "El diputado Lee Jung-heon, del Partido Democrático, señaló que la plataforma de AI generativa para crear anuncios de la Corporación Coreana de Promoción de Publicidad en Radiodifusión (KOBACO) no logra filtrar adecuadamente la publicidad ilegal y nociva."
               },
               {
                 "t": "p",
-                "x": "Según él, más de una cuarta parte de los usuarios activos de Muse que compraban a través del agente de IA tuvo un gasto medio por compra superior a $200. Muse usa el conector de Plaid para permitir las compras con agentes. Otros usos populares incluyen tareas de productividad personal, como conectar el agente al correo electrónico o al calendario."
+                "x": "En la auditoría estatal del Comité de Ciencia, Tecnología, Información, Radiodifusión y Comunicaciones de la Asamblea Nacional, celebrada el día 22, Lee introdujo palabras clave como \"juego de slots para ganar dinero\" y \"máquina de slots\" en AiSAC, la plataforma de apoyo a la creación publicitaria con AI de KOBACO, y generó en la práctica un storyboard publicitario que promocionaba juegos de azar ilegales."
               },
               {
                 "t": "p",
-                "x": "Meta planea mantener Muse gratis para la mayoría de los usuarios y quedarse con un porcentaje del comercio en la plataforma, además de cobrar a los usuarios avanzados. Zuckerberg dijo que Meta espera mejorar la eficiencia de costes de Muse más de 10 veces el próximo año y prevé que con el tiempo genere más ingresos por usuario que su familia de apps."
+                "x": "Lee afirmó que \"no se deben bloquear solo determinadas palabras o imágenes\" y que \"hay que verificar también el contexto completo y el propósito del anuncio\"."
               },
               {
                 "t": "p",
-                "x": "También adelantó una \"Muse network\": \"Y si quieres comprar algo, no se trata solo de ir al sitio web de esa empresa; se trata de hablar con su agente\"."
+                "x": "Eom Jeong-hwan, presidente interino de KOBACO, dijo: \"Empezamos con buenas intenciones, pero como el filtrado se centraba en palabras prohibidas y palabras clave, no llegamos a cubrir los métodos para eludirlo\". Añadió: \"Reforzaremos el filtrado con un enfoque que capte el contexto completo y prepararemos un procedimiento para verificar una vez más en la etapa final\"."
               }
             ]
           }

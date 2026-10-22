@@ -9015,6 +9015,171 @@
           "x": "Perplexity Pro, Max and Enterprise subscribers can begin using Computer locally starting today by installing the latest Perplexity Mac app and following the in-app instructions to download a local model."
         }
       ]
+    },
+    "gadgets/gadgets-meta-spatial-sdks": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "At Meta Connect 2026, Meta announced several new SDKs and features for spatial apps, as it broadens its computing focus ahead of Meta VR Glasses."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Layoutsdk.png"
+        },
+        {
+          "t": "p",
+          "x": "The Meta VR Layout SDK lets developers add spatial components and windows around the main window of a standard Jetpack Compose or React Native Android app. The app stays non-immersive and keeps its existing architecture, with no need to switch to the Spatial SDK. The NBA app is one of the first to use it. It enables visionOS-like window layouts but cannot spawn 3D objects, and is fully supported on Horizon OS 2.7 and later."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/callstack.webp",
+          "cap": "The Meta VR Layout SDK as demonstrated by Callstack."
+        },
+        {
+          "t": "p",
+          "x": "A new Gaze SDK, in early access, lets developers give hints to the glasses' \"Look and Pinch\" eye- and hand-tracking input and customize hover behavior."
+        },
+        {
+          "t": "video",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/media/2026/10/UISETdemo.mp4"
+        },
+        {
+          "t": "p",
+          "x": "The Meta VR UI Set SDK is a Jetpack Compose design system with dark and light color schemes, semantic colors, typography, icons, component dimensions and interaction feedback. Meta notes it is optimized to be implemented by an AI coding agent, and calls it the successor to the Horizon OS UI Set."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/DisneyUI.png"
+        },
+        {
+          "t": "p",
+          "x": "In November, Disney+ on Quest gets a major spatial UI overhaul, adding 3D media and several 3D environments from its visionOS app."
+        }
+      ]
+    },
+    "gadgets/gadgets-amd-fsr41-older-gpus": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/FKEfLV3WiguWYAz37vRmyW-1920-80.png"
+        },
+        {
+          "t": "p",
+          "x": "Radeon chief Jack Huynh announced FSR 4.1 for Radeon RX 6000-series cards, Xbox Series X and Series S consoles, Ryzen Z-series handhelds and machines with Ryzen AI Max and AI 9 chips, ahead of the early 2027 date AMD had promised for RX 6000."
+        },
+        {
+          "t": "p",
+          "x": "AMD says it tweaked FSR 4.1's neural network model to run on INT8 shader hardware instead of the FP8 matrix acceleration on Radeon 9000 cards. The handheld version is slimmed down further, to less than half the size of the full one."
+        },
+        {
+          "t": "p",
+          "x": "AMD says image quality beats FSR 3. In Tom's Hardware's quick test of Cyberpunk 2077 at 4K in FSR Balanced mode on a Radeon RX 6900 XT, FSR 4 cost about 13% performance, a small price for sharper, more stable visuals. Its higher quality may let gamers drop to Performance mode to offset that cost."
+        },
+        {
+          "t": "video",
+          "yt": "fT6TIXnmv-s"
+        },
+        {
+          "t": "p",
+          "x": "AMD also says FSR Frame Generation should have better frame pacing, Vulkan support for FSR 4.1 is coming, and FSR Ray Regeneration is expanding to more games, starting with Warhammer 40,000: Darktide."
+        }
+      ]
+    },
+    "gadgets/gadgets-llamacpp-moe-offload-8gb": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/main-llama-cpp-8gb-laptop.jpg?&fit=crop&w=1600&h=900"
+        },
+        {
+          "t": "p",
+          "x": "VRAM seems to cap which local AI models a PC can run, but XDA's writer found a workaround that lets a Lenovo Legion 5 with an 8GB RTX 3070 Mobile GPU run massive models at reasonable speeds."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/flag-image.jpg?q=49&fit=crop&w=1600&dpr=1",
+          "cap": "llama-bench running on an 8GB laptop."
+        },
+        {
+          "t": "p",
+          "x": "Mixture-of-Experts models activate only a fraction of their weights: of Qwen3.6-35B-A3B's 35 billion parameters, roughly 3 billion are active. llama.cpp's --n-cpu-moe N flag, paired with -ngl 99, keeps the expert tensors of the first N layers in system RAM while attention layers, embeddings, shared weights and the KV cache stay in VRAM."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/data-benchmark-models.png?q=49&fit=crop&w=1600&dpr=1",
+          "cap": "Benchmark data via llama-bench."
+        },
+        {
+          "t": "p",
+          "x": "In llama-bench, the dense Qwen3.6-27B generated 0.75 tokens per second. Qwen3.6-35B-A3B managed 4.02 tokens per second with no offload, and 32.82 with 28 layers of experts in RAM, while prompt processing rose from 109.66 to 341.37 tokens per second."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/28-offloaded.png?q=49&fit=contain&w=1600&dpr=1"
+        },
+        {
+          "t": "p",
+          "x": "Roughly 33 tokens per second is much faster than the writer reads, and it means a 35B model can travel on a laptop, on a flight, in a hotel or with no network."
+        }
+      ]
+    },
+    "gadgets/gadgets-birdbuddy-nook": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/birdbuddy1.jpg?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Birdbuddy is launching the smart feeders it announced at CES 2026 under new names. The Birdbuddy 2 Mini is now the Birdbuddy Nook, a smaller, more affordable model the company calls its \"most accessible smart bird feeder yet,\" and the flagship Birdbuddy 2 is now the Birdbuddy Home. Both are available on Birdbuddy's online store."
+        },
+        {
+          "t": "p",
+          "x": "The Nook starts at $99 with a redesigned circular 2K HDR camera with a 135-degree field of view that wakes when a bird lands and shoots in landscape or portrait. The AI-powered Birdbuddy app identifies exactly what species is visiting."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Birdbuddy-Nook-Solar.jpg?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "The Nook holds 3.8 cups of seed. The $159 Nook Solar adds a roof solar panel, and the $199 Nook Extended Edition adds a larger perch."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/birdbuddy3.jpg?quality=90&strip=all&w=1200",
+          "cap": "The Birdbuddy Home comes standard with two solar panels on the roof to help extend battery life."
+        },
+        {
+          "t": "p",
+          "x": "The $219 Home uses the same camera in a larger, lower-maintenance feeder with a six-cup reservoir, two solar panels, a built-in perch extender, dual-band Wi-Fi and an upgraded mic that helps the app identify species by birdsong."
+        }
+      ]
+    },
+    "gadgets/gadgets-hue-ai-behaviors": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2022/08/Philips-Hue-Lightguide-bulbs-and-matching-pendant-light-cords-scaled.jpg",
+          "cap": "Signify"
+        },
+        {
+          "t": "p",
+          "x": "During IFA 2026, Philips Hue made a range of announcements, from new hardware to new integrations. It also revealed that the company would roll out a feature called Custom AI Behaviors to the Hue Bridge Pro. Initially, this feature was set to launch in early October, but it has yet to arrive."
+        },
+        {
+          "t": "p",
+          "x": "You won’t have to wait much longer. According to Hueblog, Philips Hue has confirmed that Custom AI Behaviors is scheduled to release next week. While it didn’t arrive on time, at least the feature will still launch in October."
+        },
+        {
+          "t": "p",
+          "x": "It will be a new tool for Hue Bridge Pro users who want to create custom lighting automations. Through the Hue AI assistant, users can describe the lighting automation they want. The AI will then take your request to generate the desired automation."
+        },
+        {
+          "t": "p",
+          "x": "For example, you could tell the AI assistant to activate and cycle through scenes if a Hue dimmer switch is pressed after a certain time. The AI would then create that automation for you, so you don’t have to set anything up yourself. This feature is only supported on the Hue Bridge Pro."
+        }
+      ]
     }
   }
 }

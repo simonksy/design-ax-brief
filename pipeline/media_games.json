@@ -1,7 +1,32 @@
-{"date":"2026-10-22","section":"games","media":[
-{"id":"games-raon1mini","type":"image","src":"pipeline/media/games-raon1mini.jpg"},
-{"id":"games-molleindustria","type":"video","src":"pipeline/media/games-molleindustria.mp4","poster":"pipeline/media/games-molleindustria.jpg"},
-{"id":"games-vibecoding-webgame","type":"image","src":"pipeline/media/games-vibecoding-webgame.jpg"},
-{"id":"games-pgc-nordics","type":"image","src":"pipeline/media/games-pgc-nordics.jpg"},
-{"id":"games-xbox-ai-manager","type":"image","src":"pipeline/media/games-xbox-ai-manager.jpg"}
-]}
+{
+  "date": "2026-10-23",
+  "section": "games",
+  "media": [
+    {
+      "id": "games-strata-unreal-browser",
+      "type": "video",
+      "src": "pipeline/media/games-strata-unreal-browser.mp4",
+      "poster": "pipeline/media/games-strata-unreal-browser.jpg"
+    },
+    {
+      "id": "games-epic-ai-megajam",
+      "type": "image",
+      "src": "pipeline/media/games-epic-ai-megajam.jpg"
+    },
+    {
+      "id": "games-switch2-ai-jailbreak",
+      "type": "image",
+      "src": "pipeline/media/games-switch2-ai-jailbreak.png"
+    },
+    {
+      "id": "games-machinarium-ai-tribute",
+      "type": "image",
+      "src": "pipeline/media/games-machinarium-ai-tribute.jpg"
+    },
+    {
+      "id": "games-arc-raiders-chatgpt-support",
+      "type": "image",
+      "src": "pipeline/media/games-arc-raiders-chatgpt-support.jpg"
+    }
+  ]
+}

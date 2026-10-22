@@ -8409,6 +8409,161 @@
           "x": "Sekondo is published on Adobe Exchange, Adobe’s official marketplace for these apps, after passing Adobe’s review. It runs on macOS and Windows with the Claude and ChatGPT desktop apps."
         }
       ]
+    },
+    "movies/movies-stage32-vetted-marketplace": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2025/07/RBCannes-e1752566295303.jpg?w=1024",
+          "cap": "Richard Botto"
+        },
+        {
+          "t": "p",
+          "x": "EXCLUSIVE: Script platform Stage 32 has launched an official marketplace to partly help combat an influx of AI-written projects."
+        },
+        {
+          "t": "p",
+          "x": "The Stage 32 Marketplace, which launched yesterday, allows executives to discover film and TV projects that have been fully vetted via an “evaluation process” conducted by humans. Only scripts submitted across Stage 32’s 15-year existence with “exceptional valuations” will appear on the marketplace and execs can then review each project’s credentials and download scripts and materials, while requesting meetings with the creators."
+        },
+        {
+          "t": "p",
+          "x": "Since 2011 launch, Stage 32 has evaluated 235,000 projects, it said. The marketplace kickstarts with more than 4,000 and access for 3,000 industry execs."
+        },
+        {
+          "t": "p",
+          "x": "Recent projects to have started life on Stage 32 include Jeffrey Dean Morgan and Jack Quaid thriller Neighborhood Watch and No Address starring William Baldwin."
+        },
+        {
+          "t": "p",
+          "x": "Richard Botto, who runs Stage 32, said the platform has a strict no AI policy and is using the marketplace as one way to combat AI slop."
+        },
+        {
+          "t": "p",
+          "x": "“There’s no shortage of great material being written, but producers and executives simply don’t have the time or resources to evaluate everything that’s out there,” said Botto, a WGA screenwriter, producer of the Sundance award-winning Another Happy Day."
+        },
+        {
+          "t": "p",
+          "x": "“As a writer and producer myself, I saw this challenge from both sides. I built Stage 32 to bring the industry closer together, and the Marketplace is the culmination of that vision.”"
+        }
+      ]
+    },
+    "movies/movies-free-previz-iron-goddess": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "qlSI_ZbRdEc"
+        },
+        {
+          "t": "p",
+          "x": "Theoretically Media looks at CozyClay 3.0, a free, open-source 3D previs tool built for AI video that gets you the exact shot before you generate. It installs in one click through Pinokio, runs in the browser and doesn’t need a GPU."
+        },
+        {
+          "t": "p",
+          "x": "Its agent can build the set for you through a ChatGPT sign-in (Codex) or an API key (Anthropic, OpenAI, Gemini). You still render the shot with your own video model."
+        },
+        {
+          "t": "p",
+          "x": "The stiff-shot fix, via PJ: if 3D-guided generations come out stiff, screenshot the previs, lay it out as a storyboard and go image-to-video, keeping the exact composition, lens and aspect ratio."
+        },
+        {
+          "t": "p",
+          "x": "The video also covers Iron Goddess, an unclaimed AI video model that turned up in battle mode on the Arena with big, fast motion but smudgy frames in the fastest moments, plus Kling’s reported IPO, Ideogram Vector and a Seedream 5.5 leak."
+        }
+      ]
+    },
+    "movies/movies-sanxingdui-ai-feature": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-20/9c488b41-a7f8-47e6-abc7-dbedefcad4fb.jpeg",
+          "cap": "Promotional material for China's first fully AI-generated feature film Sanxingdui Photo: Courtesy of Bona Film Group"
+        },
+        {
+          "t": "p",
+          "x": "China's first fully AI-generated feature film to receive a theatrical release permit is set to hit cinemas on Friday, a trial run for an industry wrestling with how to embrace new technology without losing moviegoers. Sanxingdui draws on the mysteries of the ancient Chinese civilization to tell a story spanning the past and a future shaped by AI."
+        },
+        {
+          "t": "p",
+          "x": "Developed over more than two years, it involved generating more than 1.2 million preliminary images and making more than 100 full-film iterations. The film cost over 10 million yuan ($1.5 million) to make."
+        },
+        {
+          "t": "img",
+          "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-20/0e49e80c-d8e8-4140-b137-b8636d2243bd.jpeg",
+          "cap": "Promotional material for China's first fully AI-generated feature film Sanxingdui Photo: Courtesy of Bona Film Group"
+        },
+        {
+          "t": "p",
+          "x": "Jiang Defu, producer and COO of Bona Film Group, said the team followed a film-industry process, dividing responsibilities across 17 professional functions in a virtual production environment, with reviewers examining the film frame by frame."
+        },
+        {
+          "t": "p",
+          "x": "The film, already presented at Cannes, also releases in Malaysia on Friday. \"AI has leveled the playing field in terms of tools, but it has widened the gap between creators,\" producer Qu Jixiaojiang said."
+        }
+      ]
+    },
+    "movies/movies-brahma-ai-face-replacement": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/featured/brahma2-1280.jpg?itok=3cjyb-Kd"
+        },
+        {
+          "t": "p",
+          "x": "On October 14, the 2026 Technology & Engineering Emmy for AI-Based Face Replacement and Performance-Preserving Post-Production Transformation went to Disney Research, Digital Domain, Rising Sun Pictures and Brahma AI, which acquired Metaphysic's photoreal digital human technology in early 2025."
+        },
+        {
+          "t": "p",
+          "x": "What won is the Neural Performance Toolset, first seen at feature scale on Robert Zemeckis' Here. Co-founder and CTO Jo Plaete talks with AWN about the ABBA Voyage experiment that started it and the $150 million funding round."
+        },
+        {
+          "t": "video",
+          "yt": "QGKGSbghe_4"
+        },
+        {
+          "t": "p",
+          "x": "Plaete: \"Give it ordinary footage from the main camera, no markers, no head rig, no capture stage, and it reads the actor's full facial performance... It then re-synthesizes that performance through a different identity.\" On Here, Zemeckis saw a 25-year-old Tom Hanks on his monitor six frames after the camera; the final film got 60 minutes of 4K transformation."
+        },
+        {
+          "t": "p",
+          "x": "\"Nothing hides on a cinema screen,\" he says. \"If the model is five percent off, everyone sees it.\""
+        }
+      ]
+    },
+    "movies/movies-eddie-ai-plan-first": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hubfs/eddie%20ai%20updates-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Eddie AI’s latest update, timed for NAB Show New York, shows a plan before any paid run, adds a Resolve Studio panel and imports After Effects templates. New enterprise features include bring-your-own keys with Anthropic (Claude), OpenAI (ChatGPT) and Google (Gemini), on-premises running, customer IP ownership, no training on customer data, and SOC 2 Type I and II audits with GDPR certification."
+        },
+        {
+          "t": "video",
+          "yt": "KaiEjtkvfek"
+        },
+        {
+          "t": "p",
+          "x": "Prompts that will spend credits now return a plan that lists each step and which steps cost credits. You can approve it, change a step or drop one, and nothing runs or is charged until you approve the list. Where a step involves a choice, such as a color grade, Eddie shows options as stills from your footage."
+        },
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie%20ai%20prompts.jpg?width=1920&height=1080&name=eddie%20ai%20prompts.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The DaVinci Resolve Studio panel browses bins, imports footage, timelines and multicam clips, and sends edits back as a new timeline. A “Source clips” export produces a Final Cut Pro browser event relinked to camera originals, and Premiere multicam interview cuts now rebuild as switchable multicam clips."
+        },
+        {
+          "t": "p",
+          "x": "Thirteen single-job pages were added, from taking out silences and filler words to captions, dubbing, B-roll and resizing to vertical. A new workspace row shows hours saved, projects run and edits exported; team workspaces add credits and projected duration, but nothing ranks editors or benchmarks teams."
+        },
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie-editor.jpg?width=1600&height=1000&name=eddie-editor.jpg"
+        }
+      ]
     }
   }
 }

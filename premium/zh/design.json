@@ -8839,6 +8839,147 @@
           "x": "在Photoshop等其他Adobe应用中，也可以用其自带的生成式AI工具进行类似修复，但无法一键完成，也不免费。据DPReview报道，Lightroom移动应用免费版用户可试用两次Open Eyes功能，之后会收到提示，订阅包含更多各类AI-powered工具额度的Adobe Creative Cloud方案。"
         }
       ]
+    },
+    "design/design-lufthansa-figma-make": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/25a1a68c5c527f854a2b80c859e10fbd1cc1d8c0-3840x2160.png?w=1200&q=70&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "在Lufthansa Systems，团队为Lido设计运行在驾驶舱内固定iPads上的Pilot Apps。每天有超过100,000名飞行员使用这些应用，其核心是一张动态地图。打造感觉像真实产品的原型一直是个难题。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/c6cc11bd45b4fc2ef06eddb9f3f584179842f610-2400x1280.jpg?w=1200&q=75&fit=max&auto=format",
+          "cap": "使用中的Lido mPilot"
+        },
+        {
+          "t": "p",
+          "x": "“我们应用里的地图是动态的，但我们的设计原型过去并不总是如此，”首席产品设计师Pank Juvekar说。团队过去主要依赖静态设计和手工制作原型。在内部黑客松Innovation Week期间，他把一个基于Mapbox构建的内部网页版地图导入了Figma Make。"
+        },
+        {
+          "t": "p",
+          "x": "随后，他将Make接入OpenSky Network，显示模拟位置500海里范围内的示例飞机标记，并让它按FAA飞机重量等级设置图标。让他惊讶的是，“只用几个关键词，Make就明白了我想做什么。”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/8e5581dfdf2630f99dfd620974d45584c200733f-2400x1280.jpg?w=1200&q=75&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "团队无需改动SwiftUI实现，就能一次又一次地回到飞行员那里征求意见。“[Figma Make]更像是一个协作思考的伙伴，而不只是原型工具，”Juvekar说。如今一些Lido项目已经只用Make完成。"
+        }
+      ]
+    },
+    "design/design-agent-color-palette-library": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgxpmzmr0pr4x03ohfqk8.png"
+        },
+        {
+          "t": "p",
+          "x": "被要求生成金融应用配色时，Claude给出了六个在聊天里看起来没问题的hex色码。但在实际UI中，正文文字放在主色上的对比度只有约2.8:1。“模型并不是在偷懒，它只是没有尺子。”于是作者造了这把尺子。"
+        },
+        {
+          "t": "p",
+          "x": "PaletteGet是一个小网站，收录约90套为移动应用、网页和小程序精心挑选的配色。每套都附有角色色、关键颜色组合的实测WCAG对比度，以及一段简短的编辑说明。它同时也是一个MCP服务器，Cursor、Claude Desktop或任何支持Streamable HTTP的客户端都能直接读取。无需API密钥，也无需注册。"
+        },
+        {
+          "t": "p",
+          "x": "它提供四个只读工具：list_palettes、get_palette、suggest_palette和get_css_variables。被要求提供深色模式金融配色时，智能体推荐了Ink Blue Night：正文文字#e8ecf4的对比度为15.29:1，达到AAA，并指出主色上的白色为3.26:1，仅够用于大号文字。“模型不再武断下结论，而是开始测量。”"
+        },
+        {
+          "t": "p",
+          "x": "为什么不直接把提示词写得更好？对比度是有特定公式的算术，而LLMs并不擅长；而且这种失败是无声的，只有当真实段落放上去时才会发现。它不是生成器，也不是设计系统，只是运行在Worker上的一个只读端点。"
+        }
+      ]
+    },
+    "design/design-firefly-character-likeness": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "W1IYLaWyL70"
+        },
+        {
+          "t": "p",
+          "x": "别再从零开始反复生成同一个角色了。学习参考表技巧，让你的AI主体在每种姿势、角度和场景中都能被认出。"
+        },
+        {
+          "t": "p",
+          "x": "在本教程中，你将学会：制作多角度角色参考表，让每次新生成都锁定相同样貌；把角色参考表和背景合并到同一个提示词中，以控制姿势、光照和景深；将全身素材分离出来并延展到中性背景上，便于裁剪、缩放和调整格式。"
+        },
+        {
+          "t": "p",
+          "x": "非常适合电影海报、角色设计项目和营销活动概念。"
+        },
+        {
+          "t": "p",
+          "x": "目录：00:01 开场及认识作者Jesús Ramirez · 03:48 生成一致的角色 · 07:08 将参考素材合成为电影感海报 · 08:05 为可编辑、可缩放的输出准备全身素材。"
+        }
+      ]
+    },
+    "design/design-nomic-arcadis-design-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/10/Nomic.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Nomic正在帮助Arcadis实现工程审查自动化，但AI的下一个瓶颈可能是仍需负责核查这些审查的资深工程师。Nomic CEO Andriy Mulyar表示，制约因素会变成“我们资深工程人员审查工作的精力”。"
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/10/Andrij.jpg"
+        },
+        {
+          "t": "p",
+          "x": "图纸审查率先带动了采用，随后扩展到规范、招标和送审文件。对Nomic进行了战略投资的Arcadis表示，在为期六个月、覆盖12个国家的试点中，86%的参与者称Nomic改变了他们的工作方式；自7月以来，授权用户已增至近500人，构建的工作流超过750个。"
+        },
+        {
+          "t": "p",
+          "x": "Nomic面临来自Autodesk、Procore（已收购Datagrid）和Bluebeam的竞争。如今智能体可以“在人类看到邮件之前”就开始送审文件检查，并在SharePoint中为工程师准备好审查结果，资深工程师桌前的待办队列正可能因此越积越多。"
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/10/image1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "生成一份审查所需的时间只是计算的一部分；核查、修改并批准它所需的时间，才决定工作是否真的变快了。“正是在这里，更快的AI必须转化为更快的工程。”"
+        }
+      ]
+    },
+    "design/design-figma-mcp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fhacks.gr%2Fwp-content%2Fuploads%2F2026%2F10%2Fgettyimages-1233645802.webp"
+        },
+        {
+          "t": "p",
+          "x": "Figma联合创始人Dylan Field对Model Context Protocol（MCP）表达担忧，认为这一标准并不完美，而且偏向大型AI实验室。"
+        },
+        {
+          "t": "p",
+          "x": "Figma在印度（India）举办首届Config大会，宣布新增20家将使用MCP的合作伙伴，包括Notion、ClickUp和Linear。在公司推进采用的同时，Field表示MCP“还有大量改进空间”，并且“更有利于前沿实验室”。"
+        },
+        {
+          "t": "p",
+          "x": "Field还批评了创建MCP的Anthropic，质问它为何不通过自己推广的协议开放自家资源。"
+        },
+        {
+          "t": "p",
+          "x": "Figma计划支持开源工具Pi，但选择不向所有外部连接完全开放系统。Field解释说，通过MCP暴露的数据越多，被滥用的可能性就越高，因此公司必须保持谨慎。"
+        },
+        {
+          "t": "p",
+          "x": "转载自Hacks.gr；原始报道来自TechCrunch（October 20, 2026）。"
+        }
+      ]
     }
   }
 }

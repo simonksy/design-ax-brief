@@ -8501,6 +8501,150 @@
           "x": "The researchers said they wanted to study how teams of agents coordinate in a fully visible setting before such systems are trusted with real-world tasks: \"The skills required to solve Minecraft such as coordinating a team, recovering from failure, and pursuing a goal for more than a day, are also what agents need to work reliably alongside people.\""
         }
       ]
+    },
+    "games/games-epic-ai-megajam": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7M3WodRrErU8qfasfyuLrW-2560-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Epic is keen to pay aspiring vibe coders in an AI-focused game jam, promising $65,000 worth of cash prizes and potential $50,000 grants for \"standout\" projects."
+        },
+        {
+          "t": "p",
+          "x": "The 2026 AI MegaJam runs from November 12 through 15, with registration open on Itch.io, challenging participants to build games using Unreal Engine or UEFN. \"Bring any AI tools into your workflow, from asset generation to coding agents,\" the company says."
+        },
+        {
+          "t": "p",
+          "x": "Awards include $2,500 for the \"best dev log showing how you used AI tools to build your game\" and for the best game using LLM-driven NPCs, plus \"development continuation grants of up to $50,000 to keep building after the jam.\""
+        },
+        {
+          "t": "p",
+          "x": "With six-fingered promo art and a tagline of \"vibe your way to 50K,\" Epic's clearly poking fun at AI critics. The responses on Twitter certainly aren't kind, and pushback from devs on AI has been loud and consistent for some time."
+        }
+      ]
+    },
+    "games/games-switch2-ai-jailbreak": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-10.19.11-AM.png?quality=90&strip=all&crop=1.7484243697479%2C0%2C96.503151260504%2C100&w=1200",
+          "cap": "Image: pepsipu on X"
+        },
+        {
+          "t": "p",
+          "x": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI’s Codex helped make this “ns2jb” jailbreak, according to Sammy Hajhamid, aka “pepsipu.” It’s a software-only, tethered jailbreak, which, in this case, means that you’ll have to run it from a game every time you turn the console on for it to work. This exploit requires the game SmileBASIC 4, which lets users program and play games (though another modder claims that the title is “not strictly needed”)."
+        },
+        {
+          "t": "p",
+          "x": "This jailbreak still seems extremely complex for most people, and its full impact isn’t clear yet; users on the Switch 2 hacks subreddit are debating how big of a deal it actually is. Still, this could mark the beginning of a string of exploits for the Switch 2, especially if modders use AI to help."
+        }
+      ]
+    },
+    "games/games-machinarium-ai-tribute": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/QovyvgnTDavqyf4mSEdhu6-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "On October 20, the CEO for \"AI storytelling\" company Nura Studios posted a now-deleted tribute to Amanita Design's 2009 cult classic Machinarium. I saw a glimpse of the video while it was still live and it was undeniably AI generated, but that probably goes without saying given its provenance."
+        },
+        {
+          "t": "p",
+          "x": "It wasn't good, but then: Amanita Design is one of the most visually distinctive studios in the world. The Czech-based team is also among the most assertive, if its response to Nura Studios' video is anything to go by."
+        },
+        {
+          "t": "p",
+          "x": "\"The audacity to feed Machinarium assets to AI, make AI slop animations, and call it a love letter…,\" the studio tweeted of the AI tribute. \"Love letters are supposed to be handwritten. This looks disgusting and has nothing to do with us or our craft.\""
+        },
+        {
+          "t": "p",
+          "x": "Ouch. Under these circumstances a studio would normally politely ignore the clumsy advances of a mob like Nura Studios, whose mission is \"to empower creators with a human-led AI platform to bring high-quality stories to life\", and whose website looks like this:"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/fnYAu3QZaHxVQvx45ofhNA-1200-80.png",
+          "cap": "Image credit: Nura Studios"
+        },
+        {
+          "t": "p",
+          "x": "So it's gratifying to see Amanita push back."
+        },
+        {
+          "t": "p",
+          "x": "Nura Studios CEO Sylvio Drouin did show remorse. \"We are so sorry for the post we did,\" Drouin tweeted. \"We thought it was an homage to your amazing work and I already deleted the posts, again please accept our sincere apologies.\""
+        },
+        {
+          "t": "p",
+          "x": "Amanita Design has yet to publicly accept the apology. Its next game, Machinarium 2, was announced earlier this month."
+        }
+      ]
+    },
+    "games/games-arc-raiders-chatgpt-support": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/rNhJaVUEevSjNDA7SxKetK-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The Arc Raiders support team under developer Embark Studios reportedly used ChatGPT to handle a player's inquiry and mistakenly sent them multiple messages seemingly intended for several other players."
+        },
+        {
+          "t": "p",
+          "x": "Reddit user a1vmp1 shared chats marked by ChatGPT prompt and response exchanges. \"Create a short response,\" says one apparent prompt. \"Ask screenshot of current skill trees,\" reads another. The chain seems to contain about 10 separate exchanges."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/PG7DLjdgnsbu6ZnbikD2nQ-1200-80.jpg",
+          "cap": "Image credit: Embark Studios"
+        },
+        {
+          "t": "p",
+          "x": "The reply to a1vmp1, who lost a full loadout \"within 20 seconds of spawning because of a game issue,\" said Embark is \"unable to restore lost items or trial scores.\" GamesRadar+ ran it through AI-text detectors from Grammarly, Solvely and GPTZero; all rated it 100% AI-made. Embark has not responded to a request for comment."
+        },
+        {
+          "t": "p",
+          "x": "\"It feels particularly pernicious to have platitudes like 'we understand your frustration' when 'we' doesn't even exist here,\" one player complains."
+        }
+      ]
+    },
+    "games/games-raon1mini": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/gmdata/0001/782/130/gm596105_48496.webp"
+        },
+        {
+          "t": "p",
+          "x": "Krafton on the 21st released a preview version of Raon-1 mini, a 30-billion-class large language model it developed in-house. It is distributed as open source under the Apache 2.0 license via Hugging Face, so anyone can download it for free and use it not only for research but also for commercial services and product development."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/345/151/20261021144802.jpg",
+          "cap": "Raon-1 mini benchmark performance table (Photo source: Hugging Face)"
+        },
+        {
+          "t": "p",
+          "x": "Krafton handled the entire process itself, from model design to training from scratch, and the model supports both English and Korean. It combines a mixture-of-experts (MoE) structure, which activates only the 4 billion parameters needed out of 30 billion in total, with in-house linear attention technology to deliver fast responses and low inference costs."
+        },
+        {
+          "t": "p",
+          "x": "On some metrics it comes close to the level of large domestic models, and its instruction-following ability lets it work as an agent that handles multi-step tasks. Krafton plans to improve performance through continuous updates before releasing an official version, and when the official version launches it will also publish a technical report covering the training process and final performance."
+        },
+        {
+          "t": "p",
+          "x": "Krafton CAIO Lee Kang-wook said, \"With a cost-effective large language model that raises performance and lowers the cost burden, we will broaden the scope of AI use across diverse industries.\" In April, Krafton launched its AI model brand 'Raon' and released 4 models, including Raon Speech, as open source."
+        }
+      ]
     }
   }
 }

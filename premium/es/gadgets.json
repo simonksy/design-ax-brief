@@ -9059,6 +9059,171 @@
           "x": "Los suscriptores de Perplexity Pro, Max y Enterprise pueden empezar a usar Computer en local desde hoy instalando la última versión de la app de Perplexity para Mac y siguiendo las instrucciones de la app para descargar un modelo local."
         }
       ]
+    },
+    "gadgets/gadgets-meta-spatial-sdks": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En Meta Connect 2026, Meta anunció varios SDKs y funciones nuevos para apps espaciales, mientras amplía su enfoque de computación antes de las Meta VR Glasses."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Layoutsdk.png"
+        },
+        {
+          "t": "p",
+          "x": "El Meta VR Layout SDK permite a los desarrolladores añadir componentes espaciales y ventanas alrededor de la ventana principal de una app estándar de Android hecha con Jetpack Compose o React Native. La app sigue siendo no inmersiva y conserva su arquitectura actual, sin necesidad de pasar al Spatial SDK. La app de la NBA es una de las primeras en usarlo. Permite disposiciones de ventanas de estilo visionOS-like, pero no puede generar objetos 3D, y es totalmente compatible con Horizon OS 2.7 y versiones posteriores."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/callstack.webp",
+          "cap": "El Meta VR Layout SDK en una demostración de Callstack."
+        },
+        {
+          "t": "p",
+          "x": "Un nuevo Gaze SDK, en acceso anticipado, permite a los desarrolladores dar indicaciones a la entrada de seguimiento ocular y de manos \"Look and Pinch\" de las gafas y personalizar el comportamiento al pasar el cursor."
+        },
+        {
+          "t": "video",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/media/2026/10/UISETdemo.mp4"
+        },
+        {
+          "t": "p",
+          "x": "El Meta VR UI Set SDK es un sistema de diseño de Jetpack Compose con esquemas de color oscuro y claro, colores semánticos, tipografía, iconos, dimensiones de componentes y respuesta de interacción. Meta señala que está optimizado para que lo implemente un agente de programación AI y lo presenta como el sucesor del Horizon OS UI Set."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/DisneyUI.png"
+        },
+        {
+          "t": "p",
+          "x": "En noviembre, Disney+ en Quest recibirá una renovación importante de su UI espacial, con medios 3D y varios entornos 3D de su app para visionOS."
+        }
+      ]
+    },
+    "gadgets/gadgets-amd-fsr41-older-gpus": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/FKEfLV3WiguWYAz37vRmyW-1920-80.png"
+        },
+        {
+          "t": "p",
+          "x": "El responsable de Radeon, Jack Huynh, anunció FSR 4.1 para las tarjetas Radeon RX 6000, las consolas Xbox Series X y Series S, las consolas portátiles Ryzen Z-series y los equipos con chips Ryzen AI Max y AI 9, antes de la fecha de principios de 2027 que AMD había prometido para RX 6000."
+        },
+        {
+          "t": "p",
+          "x": "AMD afirma que ajustó el modelo de red neuronal de FSR 4.1 para que funcione en hardware de sombreado INT8 en lugar de la aceleración matricial FP8 de las tarjetas Radeon 9000. La versión para consolas portátiles está aún más reducida, con menos de la mitad del tamaño de la completa."
+        },
+        {
+          "t": "p",
+          "x": "AMD asegura que la calidad de imagen supera a FSR 3. En una prueba rápida de Tom's Hardware con Cyberpunk 2077 a 4K en modo FSR Balanced en una Radeon RX 6900 XT, FSR 4 costó alrededor de un 13% de rendimiento, un precio pequeño por una imagen más nítida y estable. Su mayor calidad podría permitir a los jugadores bajar al modo Performance para compensar esa pérdida."
+        },
+        {
+          "t": "video",
+          "yt": "fT6TIXnmv-s"
+        },
+        {
+          "t": "p",
+          "x": "AMD también indica que FSR Frame Generation tendrá un mejor ritmo de fotogramas, que llegará compatibilidad con Vulkan para FSR 4.1 y que FSR Ray Regeneration se extenderá a más juegos, empezando por Warhammer 40,000: Darktide."
+        }
+      ]
+    },
+    "gadgets/gadgets-llamacpp-moe-offload-8gb": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/main-llama-cpp-8gb-laptop.jpg?&fit=crop&w=1600&h=900"
+        },
+        {
+          "t": "p",
+          "x": "La VRAM parece limitar qué modelos de AI locales puede ejecutar un PC, pero el redactor de XDA encontró una solución que permite a un Lenovo Legion 5 con una GPU RTX 3070 Mobile de 8GB ejecutar modelos enormes a velocidades razonables."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/flag-image.jpg?q=49&fit=crop&w=1600&dpr=1",
+          "cap": "llama-bench ejecutándose en un portátil de 8GB."
+        },
+        {
+          "t": "p",
+          "x": "Los modelos Mixture-of-Experts activan solo una fracción de sus pesos: de los 35.000 millones de parámetros de Qwen3.6-35B-A3B, unos 3.000 millones están activos. La opción --n-cpu-moe N de llama.cpp, combinada con -ngl 99, mantiene en la RAM del sistema los tensores de expertos de las primeras N capas, mientras que las capas de atención, los embeddings, los pesos compartidos y la caché KV permanecen en la VRAM."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/data-benchmark-models.png?q=49&fit=crop&w=1600&dpr=1",
+          "cap": "Datos de rendimiento obtenidos con llama-bench."
+        },
+        {
+          "t": "p",
+          "x": "En llama-bench, el modelo denso Qwen3.6-27B generó 0,75 tokens por segundo. Qwen3.6-35B-A3B logró 4,02 tokens por segundo sin descarga y 32,82 con 28 capas de expertos en la RAM, mientras que el procesamiento de prompts pasó de 109,66 a 341,37 tokens por segundo."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/28-offloaded.png?q=49&fit=contain&w=1600&dpr=1"
+        },
+        {
+          "t": "p",
+          "x": "Unos 33 tokens por segundo es mucho más rápido de lo que lee el redactor, y significa que un modelo 35B puede viajar en un portátil, en un vuelo, en un hotel o sin conexión."
+        }
+      ]
+    },
+    "gadgets/gadgets-birdbuddy-nook": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/birdbuddy1.jpg?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Birdbuddy lanza con nuevos nombres los comederos inteligentes que anunció en CES 2026. El Birdbuddy 2 Mini pasa a llamarse Birdbuddy Nook, un modelo más pequeño y asequible que la empresa describe como su \"comedero inteligente más accesible hasta ahora\", y el modelo insignia Birdbuddy 2 pasa a ser Birdbuddy Home. Ambos están disponibles en la tienda en línea de Birdbuddy."
+        },
+        {
+          "t": "p",
+          "x": "El Nook parte de $99 con una cámara circular 2K HDR rediseñada, con un campo de visión de 135 grados, que se activa cuando un pájaro se posa y graba en horizontal o en vertical. La app Birdbuddy, AI-powered, identifica con exactitud qué especie lo visita."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Birdbuddy-Nook-Solar.jpg?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "El Nook tiene capacidad para 3,8 tazas de semillas. El Nook Solar, de $159, añade un panel solar en el techo, y el Nook Extended Edition, de $199, incorpora una percha más grande."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/birdbuddy3.jpg?quality=90&strip=all&w=1200",
+          "cap": "El Birdbuddy Home incluye de serie dos paneles solares en el techo para ayudar a prolongar la duración de la batería."
+        },
+        {
+          "t": "p",
+          "x": "El Home, de $219, usa la misma cámara en un comedero más grande y que requiere menos mantenimiento, con un depósito de seis tazas, dos paneles solares, un extensor de percha integrado, Wi-Fi de doble banda y un micrófono mejorado que ayuda a la app a identificar especies por su canto."
+        }
+      ]
+    },
+    "gadgets/gadgets-hue-ai-behaviors": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2022/08/Philips-Hue-Lightguide-bulbs-and-matching-pendant-light-cords-scaled.jpg",
+          "cap": "Signify"
+        },
+        {
+          "t": "p",
+          "x": "Durante IFA 2026, Philips Hue hizo varios anuncios, desde nuevo hardware hasta nuevas integraciones. También reveló que llevaría a Hue Bridge Pro una función llamada Custom AI Behaviors. En un principio, la función debía llegar a principios de octubre, pero todavía no está disponible."
+        },
+        {
+          "t": "p",
+          "x": "No habrá que esperar mucho más. Según Hueblog, Philips Hue ha confirmado que Custom AI Behaviors se lanzará la próxima semana. Aunque no llegó a tiempo, al menos la función saldrá en octubre."
+        },
+        {
+          "t": "p",
+          "x": "Será una nueva herramienta para los usuarios de Hue Bridge Pro que quieran crear automatizaciones de iluminación personalizadas. A través del asistente Hue AI, los usuarios pueden describir la automatización que desean. Después, la AI tomará la petición y generará la automatización deseada."
+        },
+        {
+          "t": "p",
+          "x": "Por ejemplo, se podría pedir al asistente de AI que active y recorra escenas si se pulsa un regulador Hue después de cierta hora. La AI crearía esa automatización por ti, sin que tengas que configurar nada. Esta función solo es compatible con Hue Bridge Pro."
+        }
+      ]
     }
   }
 }

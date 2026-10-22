@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-23",
+  "section": "books",
+  "cards": [
+    {
+      "id": "books-mosajaein-airoku-japan",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "모사재인, 일본에\nAI 웹소설 플랫폼 출시",
+      "body": "장르·배경·인물을 고르면 여러 AI 에이전트가 약 2분 만에 첫 화를 생성한다.",
+      "mini_headline": "모사재인, 일본 진출",
+      "tool": "Books",
+      "source": "한국경제TV",
+      "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610210108&t=RS",
+      "accent": "#eb367f",
+      "motif": "swatch",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {"t": "img", "src": "https://img.wowtv.co.kr/nrcs/production/images/20261021/20261021_b501b3e7f14d4ed8b38f8ce91388387f.png"},
+          {"t": "p", "x": "AI 스타트업 모사재인이 일본에 맞춤형 AI 웹소설 플랫폼 '아이로쿠'를 출시했다."},
+          {"t": "p", "x": "독자가 장르·배경·인물을 태그로 고르면 여러 AI 에이전트가 약 2분 만에 첫 화를 생성한다."}
+        ]
+      }
+    }
+  ]
+}

@@ -7373,6 +7373,129 @@
           "x": "Spotify称，它综合听众互动与反馈、上传模式、元数据以及第三方AI检测工具，判断一首曲目是否可能属于AI-generated劣质内容。去年，该公司称已下架超过7500万首被认定为垃圾内容的歌曲。它还与Universal Music Group和Believe合作，推出用于制作AI音乐混音的工具。"
         }
       ]
+    },
+    "music/music-umg-tyger-license": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/08/universal-music-group-logo-smartphone-billboard-1800.jpg?w=1024",
+          "cap": "图片插画：Timon Schneider/SOPA Images/LightRocket via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Universal Music Group于周四（10月22日）宣布与TYGER达成授权协议。TYGER利用AI让音乐根据粉丝的游戏进程实时变化。新协议允许UMG旗下艺人参与，TYGER用户可使用精选的UMG歌曲。"
+        },
+        {
+          "t": "p",
+          "x": "TYGER平台此前已有超过40万首歌曲，主要来自独立艺人。这是其首次与主流唱片公司达成协议。"
+        },
+        {
+          "t": "p",
+          "x": "TYGER首席执行官兼联合创始人Nick Venti表示：“游戏是下一代消磨时间、发现文化、与朋友联系的地方，但音乐此前从未有过触达这些受众的原生方式。”"
+        },
+        {
+          "t": "p",
+          "x": "UMG首席数字官兼执行副总裁Michael Nash表示，通过这项协议，“我们的艺人及其音乐将能够为个性化的游戏体验配乐，并与全球数百万玩家和粉丝建立联系。”今年早些时候，UMG还与Spotify签署了授权协议，用于该平台上的AI混音。"
+        }
+      ]
+    },
+    "music/music-mixagent-post-production": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "MixAgent是一套面向音乐后期制作的智能体流程，遵循音频工程师的工作方式，以参考歌曲为指引，生成可解释、可编辑的混音方案。这项研究来自Rice University和Sony的研究人员。"
+        },
+        {
+          "t": "p",
+          "x": "首先，分组智能体将鼓组录音等相关输入音轨归入子组。随后，规划智能体借助检索到的示例，为音轨、子组和整体混音选择音量控制、混响等音频效果并安排顺序。在精修阶段，检测器找出需要修正之处，评审器则提出参数数值调整建议。"
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.29093v1/MixAgent_Pipeline_v4.png",
+          "cap": "图2：MixAgent概览。"
+        },
+        {
+          "t": "p",
+          "x": "作者发现，让最新的多模态模型边听边改，往往会使混音变差。因此他们构建了MixCritic数据集，包含45,657条修正评语，这些评语源自拟合专业混音所得的参数；评审器先经过监督微调，再进行偏好优化训练。"
+        },
+        {
+          "t": "p",
+          "x": "在MedleyDB上，经学习的精修使误差较初始混音降低19%，偏好优化比单纯监督训练再降低8.4%。在人工听感测试中，MixAgent获得的质量评分高于Qwen3-Omni、Gemini 3.8 Flash和GPT-4o-audio生成的混音。"
+        }
+      ]
+    },
+    "music/music-fontaines-dc-marianne-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.vice.com/wp-content/uploads/sites/2/2026/10/Fontaines-D.C1.jpg?w=1200",
+          "cap": "摄影：Kieran Frost/Redferns"
+        },
+        {
+          "t": "p",
+          "x": "Fontaines D.C.于2026年10月16日发行新专辑《Dopamine Chamber》，而在一个被主唱Grian Chatten称为“讽刺”的情境下，乐队意外得知有人在制作《Marianne》MV过程中的某个环节使用了AI。"
+        },
+        {
+          "t": "p",
+          "x": "“在制作过程中的某个环节，我猜是VFX团队的某个人在工作流程里用了某种AI，”Chatten对Los Angeles Times说，“而我们没有一个人被告知。显然，连我们的厂牌和经纪团队都不知情，这真的让人震惊。”"
+        },
+        {
+          "t": "p",
+          "x": "Chatten表示，主要场景和特效都是用VFX和假体化妆完成的，“有超过110人参与了这个作品”。他补充说：“今后我们会把‘音乐录影带中不能使用它’写进合同。”"
+        },
+        {
+          "t": "p",
+          "x": "讽刺意味之所以更加强烈，是因为《Dopamine Chamber》正是一张评论社会对科技、社交媒体和AI依赖的专辑。Chatten说：“AI正在名副其实地让我们的灵魂变得过时，我认为那才是真正的死亡。”"
+        }
+      ]
+    },
+    "music/music-anthropic-lyrics-dilution": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/anthropic.png"
+        },
+        {
+          "t": "p",
+          "x": "AI训练是否构成美国版权法下的合理使用，这一问题再次在美国法庭上接受审理。这次是Anthropic与Universal、Concord和ABKCO三家音乐出版商之间的纠纷，双方都试图说服Eumi Lee法官作出对己方有利的简易判决。"
+        },
+        {
+          "t": "p",
+          "x": "听证会上最引人关注的部分，是Claude在以出版商的人类创作歌词训练后输出新歌词，是否会稀释原曲的市场价值。"
+        },
+        {
+          "t": "p",
+          "x": "代表出版商发言的Matthew J Oppenheim表示，有证据显示Claude在六个月内收到了近12万次“合成歌词”请求，并称AI生成（AI-generated）的音乐“很容易压垮市场”。"
+        },
+        {
+          "t": "p",
+          "x": "Lee法官似乎希望看到这种市场稀释的切实证据。Anthropic的律师Sonal Mehta表示，“记录中没有任何内容表明音乐产业将面临厄运”，并补充说Universal曾对投资者表示，AI对音乐产业而言“压倒性地是净利好”。"
+        }
+      ]
+    },
+    "music/music-apple-samplab": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/10/Apple-Samplab@2000x1500-1068x801.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apple已收购瑞士开发商Samplab。该公司的音频编辑器可对数字音频进行MIDI-style编辑：带MIDI导出的和弦检测、采样的速度与调性匹配，以及可编辑单个音符的精细分轨分离。"
+        },
+        {
+          "t": "p",
+          "x": "Samplab此前提供仅限10秒单声道采样的免费方案，以及每月£9.99的Premium方案。开发者称，该插件“利用AI将复音音频转写为可编辑的MIDI音符，同时保留原有音色”。"
+        },
+        {
+          "t": "p",
+          "x": "Logic Pro已通过Flex Pitch提供部分此类功能，但目前在任何DAW中编辑复音音符都需要Melodyne或RipX等插件。MusicTech预计Apple会将Samplab的功能直接整合进Logic Pro，或许还会把分轨分离扩展到常见的四条分轨之外，并可能逐步引入Logic for iPad、GarageBand或Final Cut Pro。"
+        },
+        {
+          "t": "p",
+          "x": "与竞争对手相比，Apple对AI的态度较为保守；MusicTech预计此类收购会更多，并被悄然融入其软件工作流程。"
+        }
+      ]
     }
   }
 }
