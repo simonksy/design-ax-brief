@@ -9224,6 +9224,164 @@
           "x": "Por ejemplo, se podría pedir al asistente de AI que active y recorra escenas si se pulsa un regulador Hue después de cierta hora. La AI crearía esa automatización por ti, sin que tengas que configurar nada. Esta función solo es compatible con Hue Bridge Pro."
         }
       ]
+    },
+    "gadgets/gadgets-copilot-explorer-retire": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/windows-11-copilot-explorer-teaser.jpg",
+          "cap": "Microsoft elimina ocho acciones de Copilot del menú contextual de File Explorer para archivos de OneDrive en Windows 11. (Imagen simbólica)"
+        },
+        {
+          "t": "p",
+          "x": "Al hacer clic derecho sobre un archivo de OneDrive en Windows 11, el menú contextual ofrece hoy un submenú de Copilot con ocho acciones de AI ya preparadas. Esos atajos van a desaparecer. Microsoft anunció la retirada en el Microsoft 365 Message Center con el ID MC1515940, publicado el 19 de octubre y actualizado un día después. La retirada comenzará a mediados de noviembre de 2026 (mid-November) y se espera que concluya en todo el mundo a principios de diciembre."
+        },
+        {
+          "t": "p",
+          "x": "La lista incluye Summarize, Create FAQ, Compare Files y Ask a question, junto con las acciones de imagen Explain image, Explain images y Compare images, además de Extract text. Microsoft quiere simplificar la forma en que se usa Copilot con los archivos de OneDrive en File Explorer, por lo que lo concentra todo en un único punto de acceso."
+        },
+        {
+          "t": "p",
+          "x": "Ask Copilot se mantiene en el menú del clic derecho. Abre una nueva conversación de Copilot con el archivo adjunto y después el usuario escribe la tarea. Los archivos se adjuntan por referencia, así que sus permisos y protecciones existentes siguen vigentes. Las ocho acciones siguen disponibles en el centro de actividad de OneDrive."
+        },
+        {
+          "t": "p",
+          "x": "En abril, los botones de Copilot desaparecieron de Notepad y de Snipping Tool, y en mayo Microsoft confirmó que la tecla Copilot puede reasignarse a otras funciones. Windows Latest vincula este último cambio con las críticas continuas a las funciones de AI en Windows 11. Microsoft no establece esa relación en su aviso."
+        }
+      ]
+    },
+    "gadgets/gadgets-timekettle-w4-offline": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/TimeKettle.png"
+        },
+        {
+          "t": "p",
+          "x": "Los auriculares de traducción de Timekettle se vuelven un poco más multilingües. Una nueva actualización de software para los auriculares intérpretes W4 Pro y W4 Plus añade 12 pares de idiomas sin conexión. El W4 Pro existe desde 2025, mientras que el más reciente W4 Plus llegó en septiembre de 2026. Ambos ya ofrecían traducción sin conexión; la actualización del 20 de octubre amplía los pares de idiomas sin conexión compatibles de 13 a 25, que abarcan 12 idiomas."
+        },
+        {
+          "t": "p",
+          "x": "Las 12 incorporaciones incluyen árabe, tailandés, italiano, portugués, indonesio y vietnamita, cada uno con traducción bidireccional con inglés y chino. Se suman a idiomas ya disponibles como japonés, español, ruso, coreano, alemán y francés. La cobertura de traducción en línea también mejora y alcanza 54 idiomas y 108 acentos, con la incorporación del kazajo y el jemer."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Timekettle_Face_to_Face_Translation.jpg",
+          "cap": "Traducción cara a cara de Timekettle (Timekettle)"
+        },
+        {
+          "t": "p",
+          "x": "Admitir más idiomas no significa necesariamente entenderlos a la perfección. Los acentos regionales, el ruido de fondo y las expresiones locales todavía pueden causar problemas, y las capacidades de traducción ampliadas no se han probado de forma independiente. La actualización ya está disponible para los propietarios de W4 Pro y W4 Plus, sin necesidad de comprar auriculares nuevos."
+        },
+        {
+          "t": "p",
+          "x": "El siguiente video muestra una demostración anterior de las funciones de traducción del W4 Pro, antes de que la última actualización ampliara su compatibilidad con idiomas sin conexión."
+        },
+        {
+          "t": "video",
+          "yt": "SOqC9YXPsJA"
+        }
+      ]
+    },
+    "gadgets/gadgets-be-my-ai-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Blind-Man-using-walking-stick.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Eren Li / Pexels"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de la University of Maryland (UMD) han descubierto que la asistencia visual con AI (AI-powered) puede obligar a los usuarios ciegos a esforzarse demasiado para obtener la información que realmente necesitan. El estudio, titulado Say It My Way: Exploring Control in Conversational Visual Question Answering with Blind Users, examinó cómo interactúan las personas con Be My AI, una función con AI de la app Be My Eyes."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores reclutaron a 11 participantes ciegos, que primero probaron Be My AI en un laboratorio y después la usaron en su vida diaria durante 10 días. El equipo analizó 418 interacciones."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Example-interaction-consisting-of-five-conversational-turns-with-word-count-for-each-turn.jpg?resize=1800%2C1080&ssl=1",
+          "cap": "University of Maryland"
+        },
+        {
+          "t": "p",
+          "x": "Los participantes solían hacer preguntas de entre 10 y 20 palabras, mientras que las respuestas de la AI eran más de 10 veces más largas. Las conversaciones tuvieron un promedio de tres turnos, pero algunas llegaron a 21 intercambios. Una participante que buscaba sus llaves recibió una larga descripción de la imagen en lugar de una respuesta centrada en el objeto perdido. Más de la mitad de los participantes consideró un problema importante la costumbre de la app de empezar con una descripción completa de la imagen."
+        },
+        {
+          "t": "p",
+          "x": "Algunos participantes explicaban por qué hacían una pregunta; otros dividían las tareas complicadas en preguntas más pequeñas."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Be-My-AI-in-a-laboratory-testing.jpg?resize=1800%2C1080&ssl=1",
+          "cap": "University of Maryland"
+        },
+        {
+          "t": "p",
+          "x": "El estudio también reveló dificultades para estimar distancias y cambios a lo largo del tiempo, encuadres de imagen inaccesibles y poca orientación sobre cómo colocar la cámara. Los investigadores sostienen que los usuarios ciegos no deberían tener que dominar prompts complejos para obtener respuestas sencillas."
+        }
+      ]
+    },
+    "gadgets/gadgets-context-vault": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/5KK2m2A35afwd8WgVU2hVX-1200-80.jpg",
+          "cap": "Crédito de la imagen: Shutterstock/Prostock-studio"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft está probando un nuevo enfoque de la idea de una búsqueda potenciada por AI (AI-powered), mucho más limitada que Recall, aunque la reacción inicial ha sido bastante negativa. Windows Latest descubrió que Microsoft trabaja en Project Pantheon, cuyo nombre actual es ‘Context Vault’, y que, en lugar de venir integrado en Windows 11 como Recall, debe instalarse desde la Microsoft Store."
+        },
+        {
+          "t": "p",
+          "x": "No toma capturas de pantalla automáticas y periódicas de tu PC. En su lugar, añades manualmente los archivos o contenidos que quieras usar con Context Vault y luego haces preguntas a la AI sobre ellos o le pides que organice material de documentos, imágenes, páginas web o texto del portapapeles. No requiere necesariamente un Copilot+ PC, ya que puede aprovechar AI en la nube, y puedes dar acceso a tu bóveda a AI de terceros como Claude. La app aún no está disponible oficialmente."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/r4maWLpBuFkNeiXEUfcPZF-1024-80.jpg",
+          "cap": "La función Recall de Microsoft no ha resultado popular en general (Crédito de la imagen: Microsoft)"
+        },
+        {
+          "t": "p",
+          "x": "Según los informes, Microsoft estudia usar cifrado, controles de acceso por aplicación y un inicio de sesión con Windows Hello para proteger la bóveda. La reacción es en general escéptica: un Redditor lo califica como un caso clásico de “resolver [un] problema [que] no existe”. TechRadar concluye que los detractores de Recall (anti-Recall) no van a cambiar de opinión por una versión distinta del mismo concepto."
+        }
+      ]
+    },
+    "gadgets/gadgets-mori-mushroom-lamp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-41.jpg?w=1200",
+          "cap": "El Mori de $849 es un compañero robótico AI que reacciona a su entorno."
+        },
+        {
+          "t": "p",
+          "x": "El Mori de Oka, anunciado el jueves, es en parte una lámpara de hongo luminosa y en parte un Furby. A CNET le resultó refrescante ver un dispositivo que usa la AI para ejercer cierta contención juguetona, aunque su precio de venta de $849 lo haga difícil de vender. Dejó claro que no le interesaba reproducir listas de Apple Music."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-listens-to-music-2.gif?w=864",
+          "cap": "Mori escucha música y luego se esconde tras ponerse tímido."
+        },
+        {
+          "t": "p",
+          "x": "Al activarse, Mori sale de su cuerpo y usa sus cámaras y sensores para responder de forma juguetona, hablando su propio idioma de bebé. Mide 10 pulgadas, inclina la cabeza y mueve los \"ojos\" para seguir tu voz. Oka afirma que Mori procesa imágenes y audio en el propio dispositivo para entender el contexto y luego los descarta; los datos de reconocimiento facial que usa para distinguir caras conocidas de desconocidas se almacenan, pero no se suben."
+        },
+        {
+          "t": "p",
+          "x": "Su AI contextual se notó cuando hizo arrullos y se puso tímido al oír que era adorable, y cuando emitió un sonido de desaprobación al preguntarle por un modo de música por Bluetooth."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-24-rotated-e1792612718695.jpg?w=1200",
+          "cap": "Cuando se retrae en su cuerpo, Mori apaga sus cámaras, reproduce música meditativa y se convierte en una lámpara de colores."
+        },
+        {
+          "t": "p",
+          "x": "Si se le presiona la cabeza, se retira a su cuerpo y reproduce canciones parecidas al ruido blanco mientras su cabeza brilla en varios colores. Los precios son de $649 para la edición de fundador, $799 para las siguientes reservas y, finalmente, $849 para la edición estándar, con dos años de suscripción incluidos; después, $17 al mes o $80 al año. Oka lo llama \"Artificat 01\" y dice que su personalidad, que se desarrolla con el tiempo, debería transferirse a un cuerpo futuro."
+        }
+      ]
     }
   }
 }

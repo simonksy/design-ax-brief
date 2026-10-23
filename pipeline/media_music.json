@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "section": "music",
   "media": [
     {
-      "id": "music-reservoir-suno-anthropic",
-      "type": "image",
-      "src": "pipeline/media/music-reservoir-suno-anthropic.jpg"
-    },
-    {
-      "id": "music-umg-tyger-license",
-      "type": "image",
-      "src": "pipeline/media/music-umg-tyger-license.jpg"
-    },
-    {
-      "id": "music-mixagent-post-production",
-      "type": "image",
-      "src": "pipeline/media/music-mixagent-post-production.png"
-    },
-    {
-      "id": "music-fontaines-dc-marianne-ai",
+      "id": "music-loopcloud8",
       "type": "video",
-      "src": "pipeline/media/music-fontaines-dc-marianne-ai.mp4",
-      "poster": "pipeline/media/music-fontaines-dc-marianne-ai.jpg"
+      "src": "pipeline/media/music-loopcloud8.mp4",
+      "poster": "pipeline/media/music-loopcloud8.jpg"
     },
     {
-      "id": "music-anthropic-lyrics-dilution",
+      "id": "music-suno-answer",
       "type": "image",
-      "src": "pipeline/media/music-anthropic-lyrics-dilution.jpg"
+      "src": "pipeline/media/music-suno-answer.jpg"
+    },
+    {
+      "id": "music-youtube-ai-ugc",
+      "type": "image",
+      "src": "pipeline/media/music-youtube-ai-ugc.png"
+    },
+    {
+      "id": "music-mixjudge",
+      "type": "image",
+      "src": "pipeline/media/music-mixjudge.png"
+    },
+    {
+      "id": "music-piano2pop",
+      "type": "image",
+      "src": "pipeline/media/music-piano2pop.png"
     }
   ]
 }

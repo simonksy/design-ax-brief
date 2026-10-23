@@ -8119,6 +8119,155 @@
           "x": "Krafton CAIO李康旭表示：“我们将以性能更高、成本负担更低的高性价比大语言模型，拓宽AI在各行业现场的应用范围。”Krafton曾于4月推出AI模型品牌“Raon”，并以开源形式发布了Raon Speech等4款模型。"
         }
       ]
+    },
+    "games/games-miyamoto-genai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/miyamoto-pikmin_WgJYOUw.jpg?width=1200&quality=85&format=jpg&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "下个月将成为首位获得日本（Japan）文化勋章（Order of Culture）的电子游戏开发者的Shigeru Miyamoto，在获奖记者会上谈了对gen-AI的看法，相关引述由VGC翻译。"
+        },
+        {
+          "t": "p",
+          "x": "他回忆起工具“从打字机走向文字处理器”的变化，认为随着技术承担了更多“劳动”，设计师真正的能力“终于走到了台前”。“创作行为本身固然令人满足，但也有危险：人可能在劳动本身中获得满足，并误以为已经做出了高质量（high-quality）的作品，”他说。"
+        },
+        {
+          "t": "p",
+          "x": "“由于这一过程依赖个人的意图，电脑则充当劳动的助手，我相信即使技术不断进化，即使AI最终包办一切，也始终会有我们要扮演的角色。”"
+        },
+        {
+          "t": "p",
+          "x": "Masahiro Sakurai则没那么乐观，他认为gen-AI可能导致缺乏原创、无利可图的游戏激增。Nintendo没有排除使用gen-AI工具，而Square Enix CEO Takashi Kiryu表示公司将“积极应用AI”。"
+        }
+      ]
+    },
+    "games/games-sweeney-steam-labels": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7M3WodRrErU8qfasfyuLrW-2560-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Epic Games CEO Tim Sweeney批评Valve继续强制要求在Steam上销售的游戏披露AI使用情况，称这一政策“令人憎恶”。“强迫开发者写下政治声明，再让他们帮着组织起来的仇恨暴民拿来对付他们，这令人憎恶，”Sweeney说。"
+        },
+        {
+          "t": "p",
+          "x": "Steam的AI披露要求使用生成式AI的开发者说明具体用法。Call of Duty: Modern Warfare 4的披露写道：“我们的团队使用生成式AI工具协助开发部分游戏内资产。”"
+        },
+        {
+          "t": "p",
+          "x": "早在2025年11月，Sweeney就称在一个“AI将参与几乎所有未来制作”的世界里，Valve的做法毫无道理。6月，他把这些披露比作“Scarlet Letter（红字）”。"
+        },
+        {
+          "t": "p",
+          "x": "他最新的这条消息回复的是“生成式媒体云”Fal的Matt Workman，后者认为“在2026年，AI Generated Content Disclosure这一前提本身就是ABSURD的”。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/eZKmPGBhfcyu2zDqCWYzU9.jpeg",
+          "cap": "图片来源：Epic Games"
+        },
+        {
+          "t": "p",
+          "x": "上周，Epic在谈到改版后的PC商店时说：“我们用氛围编程（vibe coded）做出了Epic Games Launcher。”"
+        }
+      ]
+    },
+    "games/games-future-refunds": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/futurenothanks-pickup-line.jpg?width=1200&quality=85&format=jpg&auto=webp",
+          "cap": "图片来源：Molleindustria"
+        },
+        {
+          "t": "p",
+          "x": "Future? No Thanks!已更新，移除了部分AI生成（AI-generated）语音。此前，首席开发者Paolo“Molleindustria”Pedercini迟迟才披露自己使用了这项技术。他愿意通过PayPal或Venmo为“仍感到被背叛”的人退款。"
+        },
+        {
+          "t": "p",
+          "x": "此次更新移除了机器人角色的两处text-to-speech配音：一个自动马桶和一家发廊里的自动翻译机。“我觉得游戏现在变差了，但也就差了0.001%左右，”他说。"
+        },
+        {
+          "t": "p",
+          "x": "“我确实让chatGPT修过一个坏掉的着色器之类的几样东西，”Pedercini写道，并补充说，“你大概应该假定，所有没有公开声明反对一切生成式AI的工作室，都在某种程度上用它写代码。”"
+        },
+        {
+          "t": "p",
+          "x": "他分享了一份宣布弃用生成式AI的开发者名单。他的下一款游戏将“完全手写代码（hand-coded）”。"
+        }
+      ]
+    },
+    "games/games-sonicfox-nexcon": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/IMG_7145.jpeg",
+          "cap": "The Game Awards / YouTube"
+        },
+        {
+          "t": "p",
+          "x": "格斗游戏高手Dominique“SonicFox”McLean原定作为特别嘉宾出席下个月在Oklahoma举办的游戏活动Nexcon，但在发现Nexcon使用AI美术做宣传后，McLean随即退出。"
+        },
+        {
+          "t": "p",
+          "x": "“不知道Nexcon是谁在负责，但我绝对拒绝让我的形象被AI生成（AI generated），我作为特别嘉宾出席的兴趣已经降到0，”McLean在Twitter上写道。“非常不尊重人。”当天，McLean又补充说已终止合同，不会再出席。"
+        },
+        {
+          "t": "p",
+          "x": "Nexcon的主办方Ninjutsu Entertainment的Ty Bailey发布视频向McLean道歉，解释Ninjutsu只是因为没钱再支付人类美术师才求助于AI，并恳请SonicFox重新考虑。"
+        },
+        {
+          "t": "p",
+          "x": "McLean立场坚定。“我是个宽容的人，也能听出你声音里的悔意，所以我原谅你。但这些行为仍有后果，让我决定不出席。把你在合同里给我的钱拿去雇美术师吧，也许明年我会重新考虑。”"
+        },
+        {
+          "t": "p",
+          "x": "“如果一切顺利，你们和愿意合作的美术师与人才建立起社区，并去掉所有AI，明年我也许会更愿意参加，”McLean接着说。"
+        }
+      ]
+    },
+    "games/games-strata-unreal-browser": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/wonder-2.jpg",
+          "cap": "Wonder Interactive让Unreal游戏轻松登上网页。"
+        },
+        {
+          "t": "p",
+          "x": "Wonder Interactive发布了AI-powered开发工具Strata，可借助WebAssembly和WebGPU将Unreal Engine项目转换为可在浏览器中游玩的链接。整个流程只需一条自然语言提示即可启动。"
+        },
+        {
+          "t": "p",
+          "x": "联合创始人兼COO Alex St. Louis表示，对工作室和发行商而言，这可能让他们无需传统游戏客户端，仅通过一个网页链接就能分发可玩演示、开展外部试玩并触达新受众。他说：“Tim Sweeney说得对。AI是游戏开发的未来。”"
+        },
+        {
+          "t": "video",
+          "yt": "qo1h9SK-kVA"
+        },
+        {
+          "t": "p",
+          "x": "Strata通过MCP运行：开发者在打开Unreal项目的情况下，把一条提示粘贴到Claude Code、Codex、Cursor或其他AI IDE中。智能体会基于Wonder兼容浏览器的Unreal运行时构建项目，在真实GPU上验证，然后返回一个游玩链接。此外也提供CLI方式。"
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/wonder-1024x457.jpg",
+          "cap": "Wonder Interactive正把Unreal游戏带到网页上。"
+        },
+        {
+          "t": "p",
+          "x": "该公司称已在浏览器中运行Epic的City Sample，玩家只需下载约3%的数据即可开始四处走动。WebGPU渲染器完整支持Lumen和Nanite。"
+        },
+        {
+          "t": "p",
+          "x": "从长远看，智能体可以循环往复地修改游戏、部署构建、在浏览器中试玩并优化性能。St. Louis暗示将推出“网页版Steam”式的市场。"
+        }
+      ]
     }
   }
 }

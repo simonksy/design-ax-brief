@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "section": "gadgets",
   "cards": [
     {
-      "id": "gadgets-mori-mushroom-lamp",
+      "id": "gadgets-iwork-assistant",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Mori, 버섯 램프 닮은\n849달러 AI 컴패니언",
-      "body": "849달러 Mori는 카메라와 센서로 주변을 읽고 놀 때와 조용할 때를 가린다.",
-      "mini_headline": "Mori, 버섯 모양 AI 램프",
+      "headline": "Pages·Keynote·\nNumbers에 AI 비서",
+      "body": "Apple이 Pages·Keynote·Numbers에 새 AI 비서를 들인다.",
+      "mini_headline": "iWork에 AI 비서",
       "tool": "Gadgets",
-      "source": "CNET",
-      "url": "https://www.cnet.com/tech/computing/mori-is-a-mushroom-shaped-ai-lamp-companion-and-im-smitten/",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/22/pages-keynote-numbers-just-added-powerful-new-ai-features/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
@@ -19,239 +19,221 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-41.jpg?w=1200",
-            "cap": "849달러짜리 Mori는 주변에 반응하는 AI 로봇 컴패니언이다."
+            "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&strip=all&w=1600"
           },
           {
             "t": "p",
-            "x": "Oka가 목요일 내놓은 Mori는 빛나는 버섯 램프와 Furby를 반씩 섞어 놓은 모양이다. CNET은 849달러라는 소매가로는 팔기 쉽지 않겠지만 AI로 장난스러운 절제를 보여 주는 기기를 보는 일은 신선했다고 평했다. Mori는 Apple Music 재생목록 따위는 틀 생각이 없다는 티를 분명히 냈다."
+            "x": "Apple이 iWork 제품군인 Pages, Keynote, Numbers에 AI-centric 업데이트를 내놓는다. 강력한 기능을 갖춘 완전히 새 ‘Intelligent Assistant’도 함께 들어간다."
           },
           {
             "t": "img",
-            "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-listens-to-music-2.gif?w=864",
-            "cap": "Mori가 음악을 듣다가 수줍어져 몸 안으로 숨는다."
+            "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&strip=all"
           },
           {
             "t": "p",
-            "x": "켜면 Mori는 몸통에서 튀어나와 카메라와 센서로 장난스럽게 반응하고 아기 말 같은 자기만의 언어로 말한다. 키는 10인치이고, 목소리 쪽으로 고개를 기울이며 \"눈\"을 움직인다. Oka에 따르면 Mori는 맥락을 읽으려고 이미지와 오디오를 기기 안에서 처리한 뒤 지운다. 아는 얼굴과 낯선 얼굴을 가리는 얼굴 인식 데이터는 저장하되 업로드하지 않는다."
+            "x": "Apple Creator Studio를 구독하면 Apple의 최신 Pages, Keynote, Numbers 업데이트에서 Intelligent Assistant를 쓸 수 있다. Siri AI와는 별개 기능으로 보이며, 앱 안에서 여러 방식으로 작업을 거든다. Intelligent Assistant는 US 영어 베타로만 나오고, iOS 27 이상이 필요하다."
           },
           {
             "t": "p",
-            "x": "귀엽다고 하자 옹알이하며 수줍어했고, Bluetooth 음악 모드를 묻자 못마땅한 소리를 냈다. 맥락형 AI다운 반응이다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-24-rotated-e1792612718695.jpg?w=1200",
-            "cap": "몸 안으로 들어가면 Mori는 카메라를 끄고 명상 음악을 틀며 형형색색 램프가 된다."
+            "x": "Apple의 릴리스 노트를 보면 Pages에서는 초안을 시작한 뒤 글을 편집·정리하고 다듬는다. 섹션 초안을 쓰고 어조를 조정하며, 자연어로 이미지·도형도 만든다. Keynote는 스토리를 구성하고 애니메이션을 더하고 슬라이드를 다듬으며, 슬라이드·발표자 노트·이미지·도형을 생성한다. Numbers는 인사이트를 찾고 복잡한 수식을 만들며 데이터를 시각화한다. 표를 생성하고 차트를 제안하며 수식 작성도 돕는다. 모든 앱에서 특정 주제의 최신 정보를 검색해 반영할 수도 있다."
           },
           {
             "t": "p",
-            "x": "머리를 누르면 몸 안으로 물러나 백색소음 같은 곡을 틀고 머리를 여러 색으로 밝힌다. 가격은 파운더 에디션 649달러, 다음 사전 주문 799달러, 최종 표준 에디션 849달러로 두 해 구독이 들어 있다. 그 뒤로는 월 17달러나 연 80달러를 낸다. Oka는 이 제품을 \"Artificat 01\"이라 부른다. 시간이 갈수록 자라는 성격은 앞으로 나올 새 몸체로 옮겨 간다고 한다."
+            "x": "Apple Creator Studio 구독자용 AI 기능과 별도로, Keynote에서는 누구나 새 Interchange Format(.keyx)으로 프레젠테이션을 가져오고 내보낼 수 있다. Apple은 이 형식을 다른 앱에서 Keynote 파일을 편집하기 쉽게 해 주는 개방형 파일 형식이라고 설명한다."
+          },
+          {
+            "t": "p",
+            "x": "9to5Mac은 iWork 앱을 모두 업데이트했지만 Intelligent Assistant는 아직 보지 못했다. Apple이 곧 켤 서버 측 요소가 있을지도 모른다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Mori, an $849 AI companion\nshaped like a mushroom lamp",
-          "body": "The $849 Mori uses its cameras and sensors to read its surroundings and decide when to play and when to stay quiet.",
-          "mini_headline": "Mori, a mushroom AI lamp",
+          "headline": "Pages, Keynote and Numbers\nget an Intelligent Assistant",
+          "body": "Apple is rolling out AI-centric iWork updates that include a new Intelligent Assistant in Pages, Keynote and Numbers.",
+          "mini_headline": "iWork gets an AI assistant",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-41.jpg?w=1200",
-                "cap": "The $849 Mori is an AI robot companion that reacts to its surroundings."
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "Oka's Mori, announced Thursday, is part glowy mushroom lamp and part Furby. CNET found it refreshing to see a device using AI to exercise some playful restraint, even if its $849 retail price makes it a tough sell. It made clear it was not interested in playing Apple Music playlists."
+                "x": "Apple is rolling out AI-centric updates to its iWork suite—Pages, Keynote, Numbers—that include a brand new ‘Intelligent Assistant’ with powerful capabilities."
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-listens-to-music-2.gif?w=864",
-                "cap": "Mori listens to music, then hides after becoming shy."
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&strip=all"
               },
               {
                 "t": "p",
-                "x": "When activated, Mori pops out of its body and uses its cameras and sensors to respond playfully, speaking its own babylike language. It is 10 inches tall and tilts its head and moves its \"eyes\" to follow your voice. Oka says Mori processes images and audio on the device to discern context, then discards them; facial recognition data used to tell familiar faces from unfamiliar ones is stored but not uploaded."
+                "x": "If you subscribe to Apple Creator Studio, Apple’s latest updates to Pages, Keynote, and Numbers add an Intelligent Assistant—seemingly separate from Siri AI—that will help you in a variety of ways inside the apps. Intelligent Assistant is available in beta in US English only, and requires iOS 27 or later."
               },
               {
                 "t": "p",
-                "x": "Its contextual AI showed when it cooed and got shy at being called adorable, and made a sound of disapproval when asked about a Bluetooth music mode."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-24-rotated-e1792612718695.jpg?w=1200",
-                "cap": "When withdrawn into its body, Mori turns off its cameras, plays meditative music and becomes a colorful lamp."
+                "x": "Per Apple’s release notes, in Pages it can start a first draft, then edit, organize, and elevate your writing, draft a section, adjust your tone, or generate images and shapes using natural language. In Keynote it can build your story, add animations, refine your slides, and generate slides, presenter notes, images, and shapes. In Numbers it can uncover insights, build complex formulas, visualize your data, generate tables, suggest charts and help with formulas. In every app it can search for up-to-date information on a topic and incorporate it."
               },
               {
                 "t": "p",
-                "x": "Press its head and it retreats into its body, playing white noise-like songs while its head glows in various colors. Pricing runs $649 for the founder edition, $799 for the next preorders and eventually $849 for the standard edition, with two years of subscription bundled, then $17 a month or $80 a year. Oka calls it \"Artificat 01\" and says its personality, which develops over time, should transfer to a future body."
+                "x": "Beyond these AI features for Apple Creator Studio subscribers, Keynote will let all users import and export presentations in a new Interchange Format (.keyx), which Apple says is an open file format that will make it easier to edit Keynote files in other apps."
+              },
+              {
+                "t": "p",
+                "x": "9to5Mac updated all iWork apps and doesn’t yet see the Intelligent Assistant, but it’s possible there’s a server-side component that Apple will imminently activate."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Mori, 버섯 램프 닮은\n849달러 AI 컴패니언",
-          "body": "849달러 Mori는 카메라와 센서로 주변을 읽고 놀 때와 조용할 때를 가린다.",
-          "mini_headline": "Mori, 버섯 모양 AI 램프",
+          "headline": "Pages·Keynote·\nNumbers에 AI 비서",
+          "body": "Apple이 Pages·Keynote·Numbers에 새 AI 비서를 들인다.",
+          "mini_headline": "iWork에 AI 비서",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-41.jpg?w=1200",
-                "cap": "849달러짜리 Mori는 주변에 반응하는 AI 로봇 컴패니언이다."
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "Oka가 목요일 내놓은 Mori는 빛나는 버섯 램프와 Furby를 반씩 섞어 놓은 모양이다. CNET은 849달러라는 소매가로는 팔기 쉽지 않겠지만 AI로 장난스러운 절제를 보여 주는 기기를 보는 일은 신선했다고 평했다. Mori는 Apple Music 재생목록 따위는 틀 생각이 없다는 티를 분명히 냈다."
+                "x": "Apple이 iWork 제품군인 Pages, Keynote, Numbers에 AI-centric 업데이트를 내놓는다. 강력한 기능을 갖춘 완전히 새 ‘Intelligent Assistant’도 함께 들어간다."
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-listens-to-music-2.gif?w=864",
-                "cap": "Mori가 음악을 듣다가 수줍어져 몸 안으로 숨는다."
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&strip=all"
               },
               {
                 "t": "p",
-                "x": "켜면 Mori는 몸통에서 튀어나와 카메라와 센서로 장난스럽게 반응하고 아기 말 같은 자기만의 언어로 말한다. 키는 10인치이고, 목소리 쪽으로 고개를 기울이며 \"눈\"을 움직인다. Oka에 따르면 Mori는 맥락을 읽으려고 이미지와 오디오를 기기 안에서 처리한 뒤 지운다. 아는 얼굴과 낯선 얼굴을 가리는 얼굴 인식 데이터는 저장하되 업로드하지 않는다."
+                "x": "Apple Creator Studio를 구독하면 Apple의 최신 Pages, Keynote, Numbers 업데이트에서 Intelligent Assistant를 쓸 수 있다. Siri AI와는 별개 기능으로 보이며, 앱 안에서 여러 방식으로 작업을 거든다. Intelligent Assistant는 US 영어 베타로만 나오고, iOS 27 이상이 필요하다."
               },
               {
                 "t": "p",
-                "x": "귀엽다고 하자 옹알이하며 수줍어했고, Bluetooth 음악 모드를 묻자 못마땅한 소리를 냈다. 맥락형 AI다운 반응이다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-24-rotated-e1792612718695.jpg?w=1200",
-                "cap": "몸 안으로 들어가면 Mori는 카메라를 끄고 명상 음악을 틀며 형형색색 램프가 된다."
+                "x": "Apple의 릴리스 노트를 보면 Pages에서는 초안을 시작한 뒤 글을 편집·정리하고 다듬는다. 섹션 초안을 쓰고 어조를 조정하며, 자연어로 이미지·도형도 만든다. Keynote는 스토리를 구성하고 애니메이션을 더하고 슬라이드를 다듬으며, 슬라이드·발표자 노트·이미지·도형을 생성한다. Numbers는 인사이트를 찾고 복잡한 수식을 만들며 데이터를 시각화한다. 표를 생성하고 차트를 제안하며 수식 작성도 돕는다. 모든 앱에서 특정 주제의 최신 정보를 검색해 반영할 수도 있다."
               },
               {
                 "t": "p",
-                "x": "머리를 누르면 몸 안으로 물러나 백색소음 같은 곡을 틀고 머리를 여러 색으로 밝힌다. 가격은 파운더 에디션 649달러, 다음 사전 주문 799달러, 최종 표준 에디션 849달러로 두 해 구독이 들어 있다. 그 뒤로는 월 17달러나 연 80달러를 낸다. Oka는 이 제품을 \"Artificat 01\"이라 부른다. 시간이 갈수록 자라는 성격은 앞으로 나올 새 몸체로 옮겨 간다고 한다."
+                "x": "Apple Creator Studio 구독자용 AI 기능과 별도로, Keynote에서는 누구나 새 Interchange Format(.keyx)으로 프레젠테이션을 가져오고 내보낼 수 있다. Apple은 이 형식을 다른 앱에서 Keynote 파일을 편집하기 쉽게 해 주는 개방형 파일 형식이라고 설명한다."
+              },
+              {
+                "t": "p",
+                "x": "9to5Mac은 iWork 앱을 모두 업데이트했지만 Intelligent Assistant는 아직 보지 못했다. Apple이 곧 켤 서버 측 요소가 있을지도 모른다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Mori、849ドルの\nキノコランプ型AI相棒",
-          "body": "849ドルのMoriはカメラとセンサーで周囲を読み、遊ぶか静かにするかを判断する。",
-          "mini_headline": "Mori、キノコ型AIランプ",
+          "headline": "Pages・Keynote・\nNumbersにAI支援機能",
+          "body": "AppleがPages・Keynote・Numbersに新しいAIアシスタントを追加する。",
+          "mini_headline": "iWorkにAIアシスタント",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-41.jpg?w=1200",
-                "cap": "849ドルのMoriは、周囲に反応するAIロボットコンパニオンだ。"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "木曜日に発表されたOkaのMoriは、光るキノコランプとFurbyを掛け合わせたような存在だ。小売価格849ドルでは売り込みにくいとしても、AIを使って遊び心ある控えめさを見せるデバイスは新鮮だとCNETは評した。Apple Musicのプレイリストを再生する気はないと、はっきり示したという。"
+                "x": "AppleはiWorkスイート（Pages、Keynote、Numbers）にAI中心（AI-centric）のアップデートを配信している。強力な機能を備えたまったく新しい「Intelligent Assistant」が含まれる。"
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-listens-to-music-2.gif?w=864",
-                "cap": "音楽を聴いたMoriは、照れて隠れてしまう。"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&strip=all"
               },
               {
                 "t": "p",
-                "x": "起動するとMoriは本体から飛び出し、カメラとセンサーで遊び心たっぷりに反応し、赤ちゃんのような独自の言葉を話す。高さは10インチで、声を追って首をかしげ「目」を動かす。Okaによると、Moriは文脈を把握するため画像と音声をデバイス上で処理した後に破棄する。見慣れた顔とそうでない顔を見分ける顔認識データは保存されるが、アップロードはされない。"
+                "x": "Apple Creator Studioを購読していれば、Pages、Keynote、Numbersの最新アップデートでIntelligent Assistantが加わる。Siri AIとは別物とみられ、アプリ内でさまざまな形で作業を手助けする。Intelligent AssistantはUS英語のみのベータ版で、iOS 27以降が必要だ。"
               },
               {
                 "t": "p",
-                "x": "かわいいと言われると甘い声を出して照れ、Bluetooth音楽モードについて尋ねられると不満げな音を出したところに、文脈を読むAIが表れていた。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-24-rotated-e1792612718695.jpg?w=1200",
-                "cap": "本体に引っ込むとMoriはカメラを切り、瞑想的な音楽を流してカラフルなランプになる。"
+                "x": "Appleのリリースノートによると、Pagesでは最初の下書きを始め、文章の編集・整理・ブラッシュアップ、セクションの下書き、トーンの調整、自然言語による画像や図形の生成ができる。Keynoteではストーリーの構成、アニメーションの追加、スライドの調整に加え、スライド、発表者ノート、画像、図形を生成できる。Numbersではインサイトの発見、複雑な数式の作成、データの可視化、表の生成、グラフの提案、数式の補助を行う。どのアプリでも、あるトピックの最新情報を検索して取り込める。"
               },
               {
                 "t": "p",
-                "x": "頭を押すと本体に引っ込み、ホワイトノイズのような曲を流しながら頭をさまざまな色に光らせる。価格はファウンダーエディションが649ドル、次の予約分が799ドル、最終的な標準エディションが849ドルで、二年分のサブスクリプションが付く。その後は月17ドルまたは年80ドルだ。Okaはこれを「Artificat 01」と呼び、時間とともに育つ性格は将来の新しい本体に引き継がれるはずだとしている。"
+                "x": "Apple Creator Studio購読者向けのAI機能とは別に、Keynoteではすべてのユーザーが新しいInterchange Format（.keyx）でプレゼンテーションを読み込み・書き出しできるようになる。Appleによれば、これはオープンなファイル形式で、ほかのアプリでKeynoteファイルを編集しやすくなるという。"
+              },
+              {
+                "t": "p",
+                "x": "9to5MacはすべてのiWorkアプリを更新したが、まだIntelligent Assistantは確認できていない。ただし、Appleが近くサーバー側で有効化する可能性もある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Mori：849美元的\n蘑菇灯造型AI伙伴",
-          "body": "售价849美元的Mori用摄像头和传感器感知周围，决定何时玩耍、何时安静。",
-          "mini_headline": "Mori，蘑菇造型AI灯",
+          "headline": "Pages、Keynote、\nNumbers迎来AI助手",
+          "body": "Apple正为Pages、Keynote和Numbers推出新的AI智能助手。",
+          "mini_headline": "iWork迎来AI助手",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-41.jpg?w=1200",
-                "cap": "售价849美元的Mori是一款能对周围环境作出反应的AI机器人伙伴。"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "Oka于周四发布的Mori，一半像发光的蘑菇灯，一半像Furby。CNET认为，尽管849美元的零售价让它不太好卖，但看到一款用AI展现俏皮克制的设备仍令人耳目一新。它明确表示自己没兴趣播放Apple Music歌单。"
+                "x": "Apple正在为其iWork套件（Pages、Keynote、Numbers）推出以AI为核心（AI-centric）的更新，其中包括功能强大的全新“Intelligent Assistant”。"
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-listens-to-music-2.gif?w=864",
-                "cap": "Mori听着音乐，随后害羞地躲了起来。"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&strip=all"
               },
               {
                 "t": "p",
-                "x": "启动后，Mori会从机身中弹出，用摄像头和传感器俏皮地回应，说着自己独有的婴儿般的语言。它高10英寸，会循着你的声音歪头并转动“眼睛”。Oka表示，Mori在设备端处理图像和音频以判断情境，随后将其丢弃；用于区分熟悉与陌生面孔的人脸识别数据会被存储，但不会上传。"
+                "x": "如果你订阅了Apple Creator Studio，Apple对Pages、Keynote和Numbers的最新更新会加入Intelligent Assistant——它似乎独立于Siri AI——可在应用内以多种方式提供帮助。Intelligent Assistant目前仅以US英语提供测试版，并需要iOS 27或更高版本。"
               },
               {
                 "t": "p",
-                "x": "被夸可爱时它会咕咕作声、显得害羞；被问到Bluetooth音乐模式时则发出不以为然的声音，这体现了它的情境AI。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-24-rotated-e1792612718695.jpg?w=1200",
-                "cap": "缩回机身后，Mori会关闭摄像头、播放冥想音乐，变成一盏彩色灯。"
+                "x": "根据Apple的发布说明，在Pages中，它可以起草初稿，再编辑、整理和润色文字，起草某个章节，调整语气，或用自然语言生成图像和形状。在Keynote中，它可以搭建故事线、添加动画、优化幻灯片，并生成幻灯片、演讲者备注、图像和形状。在Numbers中，它可以发掘洞见、构建复杂公式、可视化数据、生成表格、推荐图表并协助编写公式。在所有应用中，它都能搜索某一主题的最新信息并加以整合。"
               },
               {
                 "t": "p",
-                "x": "按下它的头，它就会缩回机身，播放类似白噪音的曲子，头部发出各种颜色的光。定价方面，创始版649美元，下一批预订799美元，最终标准版849美元，均含两年订阅，之后每月17美元或每年80美元。Oka称其为“Artificat 01”，并表示它随时间发展的个性应能转移到未来的新机身上。"
+                "x": "除了面向Apple Creator Studio订阅用户的这些AI功能，Keynote还将允许所有用户以新的Interchange Format（.keyx）导入和导出演示文稿。Apple表示，这是一种开放文件格式，能让用户更容易在其他应用中编辑Keynote文件。"
+              },
+              {
+                "t": "p",
+                "x": "9to5Mac已更新所有iWork应用，但尚未看到Intelligent Assistant；Apple可能即将在服务器端启用相关功能。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Mori, un compañero AI de $849\ncon forma de lámpara de hongo",
-          "body": "El Mori de $849 usa sus cámaras y sensores para leer su entorno y decidir cuándo jugar y cuándo guardar silencio.",
-          "mini_headline": "Mori, una lámpara AI con forma de hongo",
+          "headline": "Pages, Keynote y Numbers\nestrenan Intelligent Assistant",
+          "body": "Apple lanza actualizaciones de iWork centradas en AI con un Intelligent Assistant en Pages, Keynote y Numbers.",
+          "mini_headline": "iWork estrena un asistente de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-41.jpg?w=1200",
-                "cap": "El Mori de $849 es un compañero robótico AI que reacciona a su entorno."
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "El Mori de Oka, anunciado el jueves, es en parte una lámpara de hongo luminosa y en parte un Furby. A CNET le resultó refrescante ver un dispositivo que usa la AI para ejercer cierta contención juguetona, aunque su precio de venta de $849 lo haga difícil de vender. Dejó claro que no le interesaba reproducir listas de Apple Music."
+                "x": "Apple está lanzando actualizaciones centradas en la AI (AI-centric) para su suite iWork —Pages, Keynote y Numbers— que incluyen un ‘Intelligent Assistant’ totalmente nuevo con funciones potentes."
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-listens-to-music-2.gif?w=864",
-                "cap": "Mori escucha música y luego se esconde tras ponerse tímido."
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&strip=all"
               },
               {
                 "t": "p",
-                "x": "Al activarse, Mori sale de su cuerpo y usa sus cámaras y sensores para responder de forma juguetona, hablando su propio idioma de bebé. Mide 10 pulgadas, inclina la cabeza y mueve los \"ojos\" para seguir tu voz. Oka afirma que Mori procesa imágenes y audio en el propio dispositivo para entender el contexto y luego los descarta; los datos de reconocimiento facial que usa para distinguir caras conocidas de desconocidas se almacenan, pero no se suben."
+                "x": "Si estás suscrito a Apple Creator Studio, las últimas actualizaciones de Apple para Pages, Keynote y Numbers añaden un Intelligent Assistant —aparentemente independiente de Siri AI— que te ayudará de diversas maneras dentro de las apps. Intelligent Assistant está disponible en beta solo en inglés de US y requiere iOS 27 o posterior."
               },
               {
                 "t": "p",
-                "x": "Su AI contextual se notó cuando hizo arrullos y se puso tímido al oír que era adorable, y cuando emitió un sonido de desaprobación al preguntarle por un modo de música por Bluetooth."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-24-rotated-e1792612718695.jpg?w=1200",
-                "cap": "Cuando se retrae en su cuerpo, Mori apaga sus cámaras, reproduce música meditativa y se convierte en una lámpara de colores."
+                "x": "Según las notas de la versión de Apple, en Pages puede comenzar un primer borrador y luego editar, organizar y mejorar tu escritura, redactar una sección, ajustar el tono o generar imágenes y formas con lenguaje natural. En Keynote puede construir tu historia, añadir animaciones, pulir las diapositivas y generar diapositivas, notas del presentador, imágenes y formas. En Numbers puede descubrir información útil, crear fórmulas complejas, visualizar tus datos, generar tablas, sugerir gráficos y ayudar con fórmulas. En todas las apps puede buscar información actualizada sobre un tema e incorporarla."
               },
               {
                 "t": "p",
-                "x": "Si se le presiona la cabeza, se retira a su cuerpo y reproduce canciones parecidas al ruido blanco mientras su cabeza brilla en varios colores. Los precios son de $649 para la edición de fundador, $799 para las siguientes reservas y, finalmente, $849 para la edición estándar, con dos años de suscripción incluidos; después, $17 al mes o $80 al año. Oka lo llama \"Artificat 01\" y dice que su personalidad, que se desarrolla con el tiempo, debería transferirse a un cuerpo futuro."
+                "x": "Más allá de estas funciones de AI para suscriptores de Apple Creator Studio, Keynote permitirá a todos los usuarios importar y exportar presentaciones en un nuevo Interchange Format (.keyx), que según Apple es un formato de archivo abierto que facilitará editar archivos de Keynote en otras apps."
+              },
+              {
+                "t": "p",
+                "x": "9to5Mac actualizó todas las apps de iWork y aún no ve el Intelligent Assistant, pero es posible que exista un componente del lado del servidor que Apple active de forma inminente."
               }
             ]
           }
@@ -259,165 +241,153 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Mori, 버섯 램프 닮은\n849달러 AI 컴패니언",
-          "body": "849달러 Mori는 카메라와 센서로 주변을 읽고 놀 때와 조용할 때를 가린다.",
-          "mini_headline": "Mori, 버섯 모양 AI 램프",
+          "headline": "Pages·Keynote·\nNumbers에 AI 비서",
+          "body": "Apple이 Pages·Keynote·Numbers에 AI 비서를 새로 넣는다.",
+          "mini_headline": "iWork에 AI 비서",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-41.jpg?w=1200",
-                "cap": "849달러짜리 Mori는 주변에 반응하는 AI 로봇 컴패니언이다."
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "목요일 발표된 Oka의 Mori는 빛나는 버섯 램프와 Furby를 반씩 섞은 모습이다. CNET은 849달러라는 소매가 탓에 팔기 쉽지 않겠지만, AI로 장난스러운 절제를 보여주는 기기를 보는 일이 신선했다고 평했다. Mori는 Apple Music 재생목록을 틀 생각이 없다는 뜻을 분명히 드러냈다."
+                "x": "Apple이 iWork 제품군인 Pages, Keynote, Numbers에 AI-centric 업데이트를 내놓고 있다. 강력한 기능을 갖춘 완전히 새로운 ‘Intelligent Assistant’가 포함된다."
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-listens-to-music-2.gif?w=864",
-                "cap": "Mori가 음악을 듣다가 수줍어져 몸 안으로 숨는다."
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&strip=all"
               },
               {
                 "t": "p",
-                "x": "작동하면 Mori는 몸통에서 튀어나와 카메라와 센서로 장난스럽게 반응하고, 아기 같은 고유의 언어로 말한다. 키는 10인치이며, 목소리를 따라 고개를 기울이고 \"눈\"을 움직인다. Oka에 따르면 Mori는 맥락을 파악하려고 이미지와 오디오를 기기 안에서 처리한 뒤 폐기한다. 익숙한 얼굴과 낯선 얼굴을 구분하는 얼굴 인식 데이터는 저장하지만 업로드하지 않는다."
+                "x": "Apple Creator Studio를 구독하면 Apple의 최신 Pages, Keynote, Numbers 업데이트로 Intelligent Assistant가 추가된다. Siri AI와는 별개로 보이는 이 기능은 앱 안에서 다양한 방식으로 작업을 돕는다. Intelligent Assistant는 US 영어로만 베타 제공되며, iOS 27 이상이 필요하다."
               },
               {
                 "t": "p",
-                "x": "귀엽다는 말에 옹알이하며 수줍어하고, Bluetooth 음악 모드를 묻자 못마땅한 소리를 낼 때 맥락형 AI가 드러났다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-24-rotated-e1792612718695.jpg?w=1200",
-                "cap": "몸 안으로 들어가면 Mori는 카메라를 끄고 명상 음악을 틀며 형형색색 램프가 된다."
+                "x": "Apple의 릴리스 노트에 따르면 Pages에서는 초안을 시작한 뒤 글을 편집·정리하고 다듬으며, 섹션 초안 작성, 어조 조정, 자연어를 이용한 이미지·도형 생성을 할 수 있다. Keynote에서는 스토리를 구성하고 애니메이션을 더하고 슬라이드를 다듬으며, 슬라이드·발표자 노트·이미지·도형을 생성한다. Numbers에서는 인사이트를 찾아내고 복잡한 수식을 만들고 데이터를 시각화하며, 표를 생성하고 차트를 제안하고 수식 작성을 돕는다. 모든 앱에서 특정 주제의 최신 정보를 검색해 반영할 수도 있다."
               },
               {
                 "t": "p",
-                "x": "머리를 누르면 몸 안으로 물러나 백색소음 같은 곡을 틀고 머리를 여러 색으로 빛낸다. 가격은 파운더 에디션 649달러, 다음 사전 주문 799달러, 최종 표준 에디션 849달러이며 두 해 구독이 포함된다. 이후에는 월 17달러 또는 연 80달러다. Oka는 이 제품을 \"Artificat 01\"이라 부르며, 시간이 지나며 자라는 성격이 앞으로 나올 새 몸체로 옮겨갈 것이라고 말한다."
+                "x": "Apple Creator Studio 구독자를 위한 AI 기능 외에, Keynote는 모든 사용자가 새로운 Interchange Format(.keyx)으로 프레젠테이션을 가져오고 내보낼 수 있게 한다. Apple은 이 형식이 다른 앱에서 Keynote 파일을 편집하기 쉽게 해주는 개방형 파일 형식이라고 설명한다."
+              },
+              {
+                "t": "p",
+                "x": "9to5Mac은 모든 iWork 앱을 업데이트했지만 아직 Intelligent Assistant를 확인하지 못했다. Apple이 곧 활성화할 서버 측 요소가 있을 가능성도 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Mori、849ドルの\nキノコランプ型AI相棒",
-          "body": "849ドルのMoriはカメラとセンサーで周囲を読み、遊ぶか静かにするかを判断する。",
-          "mini_headline": "Mori、キノコ型AIランプ",
+          "headline": "Pages・Keynote・\nNumbersにAI支援機能",
+          "body": "AppleがPages・Keynote・Numbersに新しいAIアシスタントを追加する。",
+          "mini_headline": "iWorkにAIアシスタント",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-41.jpg?w=1200",
-                "cap": "849ドルのMoriは、周囲に反応するAIロボットコンパニオンだ。"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "木曜日に発表されたOkaのMoriは、光るキノコランプとFurbyを掛け合わせたような存在だ。小売価格849ドルでは売り込みにくいとしても、AIを使って遊び心ある控えめさを見せるデバイスは新鮮だとCNETは評した。Apple Musicのプレイリストを再生する気はないと、はっきり示したという。"
+                "x": "AppleはiWorkスイート（Pages、Keynote、Numbers）にAI中心（AI-centric）のアップデートを配信している。強力な機能を備えたまったく新しい「Intelligent Assistant」が含まれる。"
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-listens-to-music-2.gif?w=864",
-                "cap": "音楽を聴いたMoriは、照れて隠れてしまう。"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&strip=all"
               },
               {
                 "t": "p",
-                "x": "起動するとMoriは本体から飛び出し、カメラとセンサーで遊び心たっぷりに反応し、赤ちゃんのような独自の言葉を話す。高さは10インチで、声を追って首をかしげ「目」を動かす。Okaによると、Moriは文脈を把握するため画像と音声をデバイス上で処理した後に破棄する。見慣れた顔とそうでない顔を見分ける顔認識データは保存されるが、アップロードはされない。"
+                "x": "Apple Creator Studioを購読していれば、Pages、Keynote、Numbersの最新アップデートでIntelligent Assistantが加わる。Siri AIとは別物とみられ、アプリ内でさまざまな形で作業を手助けする。Intelligent AssistantはUS英語のみのベータ版で、iOS 27以降が必要だ。"
               },
               {
                 "t": "p",
-                "x": "かわいいと言われると甘い声を出して照れ、Bluetooth音楽モードについて尋ねられると不満げな音を出したところに、文脈を読むAIが表れていた。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-24-rotated-e1792612718695.jpg?w=1200",
-                "cap": "本体に引っ込むとMoriはカメラを切り、瞑想的な音楽を流してカラフルなランプになる。"
+                "x": "Appleのリリースノートによると、Pagesでは最初の下書きを始め、文章の編集・整理・ブラッシュアップ、セクションの下書き、トーンの調整、自然言語による画像や図形の生成ができる。Keynoteではストーリーの構成、アニメーションの追加、スライドの調整に加え、スライド、発表者ノート、画像、図形を生成できる。Numbersではインサイトの発見、複雑な数式の作成、データの可視化、表の生成、グラフの提案、数式の補助を行う。どのアプリでも、あるトピックの最新情報を検索して取り込める。"
               },
               {
                 "t": "p",
-                "x": "頭を押すと本体に引っ込み、ホワイトノイズのような曲を流しながら頭をさまざまな色に光らせる。価格はファウンダーエディションが649ドル、次の予約分が799ドル、最終的な標準エディションが849ドルで、二年分のサブスクリプションが付く。その後は月17ドルまたは年80ドルだ。Okaはこれを「Artificat 01」と呼び、時間とともに育つ性格は将来の新しい本体に引き継がれるはずだとしている。"
+                "x": "Apple Creator Studio購読者向けのAI機能とは別に、Keynoteではすべてのユーザーが新しいInterchange Format（.keyx）でプレゼンテーションを読み込み・書き出しできるようになる。Appleによれば、これはオープンなファイル形式で、ほかのアプリでKeynoteファイルを編集しやすくなるという。"
+              },
+              {
+                "t": "p",
+                "x": "9to5MacはすべてのiWorkアプリを更新したが、まだIntelligent Assistantは確認できていない。ただし、Appleが近くサーバー側で有効化する可能性もある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Mori：849美元的\n蘑菇灯造型AI伙伴",
-          "body": "售价849美元的Mori用摄像头和传感器感知周围，决定何时玩耍、何时安静。",
-          "mini_headline": "Mori，蘑菇造型AI灯",
+          "headline": "Pages、Keynote、\nNumbers迎来AI助手",
+          "body": "Apple正为Pages、Keynote和Numbers推出新的AI智能助手。",
+          "mini_headline": "iWork迎来AI助手",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-41.jpg?w=1200",
-                "cap": "售价849美元的Mori是一款能对周围环境作出反应的AI机器人伙伴。"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "Oka于周四发布的Mori，一半像发光的蘑菇灯，一半像Furby。CNET认为，尽管849美元的零售价让它不太好卖，但看到一款用AI展现俏皮克制的设备仍令人耳目一新。它明确表示自己没兴趣播放Apple Music歌单。"
+                "x": "Apple正在为其iWork套件（Pages、Keynote、Numbers）推出以AI为核心（AI-centric）的更新，其中包括功能强大的全新“Intelligent Assistant”。"
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-listens-to-music-2.gif?w=864",
-                "cap": "Mori听着音乐，随后害羞地躲了起来。"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&strip=all"
               },
               {
                 "t": "p",
-                "x": "启动后，Mori会从机身中弹出，用摄像头和传感器俏皮地回应，说着自己独有的婴儿般的语言。它高10英寸，会循着你的声音歪头并转动“眼睛”。Oka表示，Mori在设备端处理图像和音频以判断情境，随后将其丢弃；用于区分熟悉与陌生面孔的人脸识别数据会被存储，但不会上传。"
+                "x": "如果你订阅了Apple Creator Studio，Apple对Pages、Keynote和Numbers的最新更新会加入Intelligent Assistant——它似乎独立于Siri AI——可在应用内以多种方式提供帮助。Intelligent Assistant目前仅以US英语提供测试版，并需要iOS 27或更高版本。"
               },
               {
                 "t": "p",
-                "x": "被夸可爱时它会咕咕作声、显得害羞；被问到Bluetooth音乐模式时则发出不以为然的声音，这体现了它的情境AI。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-24-rotated-e1792612718695.jpg?w=1200",
-                "cap": "缩回机身后，Mori会关闭摄像头、播放冥想音乐，变成一盏彩色灯。"
+                "x": "根据Apple的发布说明，在Pages中，它可以起草初稿，再编辑、整理和润色文字，起草某个章节，调整语气，或用自然语言生成图像和形状。在Keynote中，它可以搭建故事线、添加动画、优化幻灯片，并生成幻灯片、演讲者备注、图像和形状。在Numbers中，它可以发掘洞见、构建复杂公式、可视化数据、生成表格、推荐图表并协助编写公式。在所有应用中，它都能搜索某一主题的最新信息并加以整合。"
               },
               {
                 "t": "p",
-                "x": "按下它的头，它就会缩回机身，播放类似白噪音的曲子，头部发出各种颜色的光。定价方面，创始版649美元，下一批预订799美元，最终标准版849美元，均含两年订阅，之后每月17美元或每年80美元。Oka称其为“Artificat 01”，并表示它随时间发展的个性应能转移到未来的新机身上。"
+                "x": "除了面向Apple Creator Studio订阅用户的这些AI功能，Keynote还将允许所有用户以新的Interchange Format（.keyx）导入和导出演示文稿。Apple表示，这是一种开放文件格式，能让用户更容易在其他应用中编辑Keynote文件。"
+              },
+              {
+                "t": "p",
+                "x": "9to5Mac已更新所有iWork应用，但尚未看到Intelligent Assistant；Apple可能即将在服务器端启用相关功能。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Mori, un compañero AI de $849\ncon forma de lámpara de hongo",
-          "body": "El Mori de $849 usa sus cámaras y sensores para leer su entorno y decidir cuándo jugar y cuándo guardar silencio.",
-          "mini_headline": "Mori, una lámpara AI con forma de hongo",
+          "headline": "Pages, Keynote y Numbers\nestrenan Intelligent Assistant",
+          "body": "Apple lanza actualizaciones de iWork centradas en AI con un Intelligent Assistant en Pages, Keynote y Numbers.",
+          "mini_headline": "iWork estrena un asistente de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-41.jpg?w=1200",
-                "cap": "El Mori de $849 es un compañero robótico AI que reacciona a su entorno."
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "El Mori de Oka, anunciado el jueves, es en parte una lámpara de hongo luminosa y en parte un Furby. A CNET le resultó refrescante ver un dispositivo que usa la AI para ejercer cierta contención juguetona, aunque su precio de venta de $849 lo haga difícil de vender. Dejó claro que no le interesaba reproducir listas de Apple Music."
+                "x": "Apple está lanzando actualizaciones centradas en la AI (AI-centric) para su suite iWork —Pages, Keynote y Numbers— que incluyen un ‘Intelligent Assistant’ totalmente nuevo con funciones potentes."
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-listens-to-music-2.gif?w=864",
-                "cap": "Mori escucha música y luego se esconde tras ponerse tímido."
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&strip=all"
               },
               {
                 "t": "p",
-                "x": "Al activarse, Mori sale de su cuerpo y usa sus cámaras y sensores para responder de forma juguetona, hablando su propio idioma de bebé. Mide 10 pulgadas, inclina la cabeza y mueve los \"ojos\" para seguir tu voz. Oka afirma que Mori procesa imágenes y audio en el propio dispositivo para entender el contexto y luego los descarta; los datos de reconocimiento facial que usa para distinguir caras conocidas de desconocidas se almacenan, pero no se suben."
+                "x": "Si estás suscrito a Apple Creator Studio, las últimas actualizaciones de Apple para Pages, Keynote y Numbers añaden un Intelligent Assistant —aparentemente independiente de Siri AI— que te ayudará de diversas maneras dentro de las apps. Intelligent Assistant está disponible en beta solo en inglés de US y requiere iOS 27 o posterior."
               },
               {
                 "t": "p",
-                "x": "Su AI contextual se notó cuando hizo arrullos y se puso tímido al oír que era adorable, y cuando emitió un sonido de desaprobación al preguntarle por un modo de música por Bluetooth."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-24-rotated-e1792612718695.jpg?w=1200",
-                "cap": "Cuando se retrae en su cuerpo, Mori apaga sus cámaras, reproduce música meditativa y se convierte en una lámpara de colores."
+                "x": "Según las notas de la versión de Apple, en Pages puede comenzar un primer borrador y luego editar, organizar y mejorar tu escritura, redactar una sección, ajustar el tono o generar imágenes y formas con lenguaje natural. En Keynote puede construir tu historia, añadir animaciones, pulir las diapositivas y generar diapositivas, notas del presentador, imágenes y formas. En Numbers puede descubrir información útil, crear fórmulas complejas, visualizar tus datos, generar tablas, sugerir gráficos y ayudar con fórmulas. En todas las apps puede buscar información actualizada sobre un tema e incorporarla."
               },
               {
                 "t": "p",
-                "x": "Si se le presiona la cabeza, se retira a su cuerpo y reproduce canciones parecidas al ruido blanco mientras su cabeza brilla en varios colores. Los precios son de $649 para la edición de fundador, $799 para las siguientes reservas y, finalmente, $849 para la edición estándar, con dos años de suscripción incluidos; después, $17 al mes o $80 al año. Oka lo llama \"Artificat 01\" y dice que su personalidad, que se desarrolla con el tiempo, debería transferirse a un cuerpo futuro."
+                "x": "Más allá de estas funciones de AI para suscriptores de Apple Creator Studio, Keynote permitirá a todos los usuarios importar y exportar presentaciones en un nuevo Interchange Format (.keyx), que según Apple es un formato de archivo abierto que facilitará editar archivos de Keynote en otras apps."
+              },
+              {
+                "t": "p",
+                "x": "9to5Mac actualizó todas las apps de iWork y aún no ve el Intelligent Assistant, pero es posible que exista un componente del lado del servidor que Apple active de forma inminente."
               }
             ]
           }
@@ -425,695 +395,195 @@
       }
     },
     {
-      "id": "gadgets-meta-spatial-sdks",
+      "id": "gadgets-copilot-explorer-retire",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Quest·VR 안경용\nMeta 새 공간 SDKs",
-      "body": "Meta는 VR UI Set SDK를 AI 코딩 에이전트용으로 최적화했다고 밝혔다.",
-      "mini_headline": "Meta의 Quest용 공간 SDKs",
+      "headline": "파일 탐색기에서\nCopilot 8개 빠진다",
+      "body": "Summarize 등 8개 동작이 11월 중순 OneDrive 메뉴에서 빠진다.",
+      "mini_headline": "Copilot, File Explorer에서 퇴장",
       "tool": "Gadgets",
-      "source": "UploadVR",
-      "url": "https://www.uploadvr.com/meta-expands-sdks-to-boost-spatial-apps-on-quest-vr-glasses-including-nba-disney/",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "Meta가 Meta Connect 2026에서 공간 앱용 새 SDKs와 기능을 여럿 내놓았다. Meta VR Glasses 출시를 앞두고 컴퓨팅 영역을 넓히려는 움직임이다."
-          },
-          {
-            "t": "img",
-            "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Layoutsdk.png"
-          },
-          {
-            "t": "p",
-            "x": "Meta VR Layout SDK를 쓰면 개발자는 일반 Jetpack Compose나 React Native Android 앱의 메인 창 둘레에 공간 컴포넌트와 창을 붙일 수 있다. 앱은 비몰입형 그대로 기존 구조를 유지하고, Spatial SDK로 옮겨 갈 필요도 없다. NBA 앱이 가장 먼저 이를 들인 앱 중 하나다. visionOS-like 창 배치는 되지만 3D 객체는 띄울 수 없으며, 완전한 지원은 Horizon OS 2.7 이상부터다."
-          },
-          {
-            "t": "img",
-            "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/callstack.webp",
-            "cap": "Callstack이 시연한 Meta VR Layout SDK."
-          },
-          {
-            "t": "p",
-            "x": "얼리 액세스로 나온 새 Gaze SDK를 쓰면 개발자가 안경의 \"Look and Pinch\" 눈·손 추적 입력에 힌트를 주고 호버 동작을 원하는 대로 바꿀 수 있다."
-          },
-          {
-            "t": "video",
-            "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/media/2026/10/UISETdemo.mp4"
-          },
-          {
-            "t": "p",
-            "x": "Meta VR UI Set SDK는 다크·라이트 색 구성, 시맨틱 색상, 타이포그래피, 아이콘, 컴포넌트 치수, 인터랙션 피드백을 갖춘 Jetpack Compose 디자인 시스템이다. Meta는 이 SDK를 AI 코딩 에이전트가 구현하기 좋게 최적화했다고 설명하고, Horizon OS UI Set의 뒤를 잇는 제품이라고 부른다."
-          },
-          {
-            "t": "img",
-            "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/DisneyUI.png"
-          },
-          {
-            "t": "p",
-            "x": "십일월에는 Quest용 Disney+의 공간 UI가 크게 바뀐다. visionOS 앱에 있던 3D 미디어와 여러 3D 환경이 들어온다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Meta opens new spatial SDKs\nfor Quest and its VR glasses",
-          "body": "Meta says its new VR UI Set SDK, a Jetpack Compose design system, is optimized to be built by an AI coding agent.",
-          "mini_headline": "Meta's spatial SDKs for Quest",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "At Meta Connect 2026, Meta announced several new SDKs and features for spatial apps, as it broadens its computing focus ahead of Meta VR Glasses."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Layoutsdk.png"
-              },
-              {
-                "t": "p",
-                "x": "The Meta VR Layout SDK lets developers add spatial components and windows around the main window of a standard Jetpack Compose or React Native Android app. The app stays non-immersive and keeps its existing architecture, with no need to switch to the Spatial SDK. The NBA app is one of the first to use it. It enables visionOS-like window layouts but cannot spawn 3D objects, and is fully supported on Horizon OS 2.7 and later."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/callstack.webp",
-                "cap": "The Meta VR Layout SDK as demonstrated by Callstack."
-              },
-              {
-                "t": "p",
-                "x": "A new Gaze SDK, in early access, lets developers give hints to the glasses' \"Look and Pinch\" eye- and hand-tracking input and customize hover behavior."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/media/2026/10/UISETdemo.mp4"
-              },
-              {
-                "t": "p",
-                "x": "The Meta VR UI Set SDK is a Jetpack Compose design system with dark and light color schemes, semantic colors, typography, icons, component dimensions and interaction feedback. Meta notes it is optimized to be implemented by an AI coding agent, and calls it the successor to the Horizon OS UI Set."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/DisneyUI.png"
-              },
-              {
-                "t": "p",
-                "x": "In November, Disney+ on Quest gets a major spatial UI overhaul, adding 3D media and several 3D environments from its visionOS app."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Quest·VR 안경용\nMeta 새 공간 SDKs",
-          "body": "Meta는 VR UI Set SDK를 AI 코딩 에이전트용으로 최적화했다고 밝혔다.",
-          "mini_headline": "Meta의 Quest용 공간 SDKs",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Meta가 Meta Connect 2026에서 공간 앱용 새 SDKs와 기능을 여럿 내놓았다. Meta VR Glasses 출시를 앞두고 컴퓨팅 영역을 넓히려는 움직임이다."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Layoutsdk.png"
-              },
-              {
-                "t": "p",
-                "x": "Meta VR Layout SDK를 쓰면 개발자는 일반 Jetpack Compose나 React Native Android 앱의 메인 창 둘레에 공간 컴포넌트와 창을 붙일 수 있다. 앱은 비몰입형 그대로 기존 구조를 유지하고, Spatial SDK로 옮겨 갈 필요도 없다. NBA 앱이 가장 먼저 이를 들인 앱 중 하나다. visionOS-like 창 배치는 되지만 3D 객체는 띄울 수 없으며, 완전한 지원은 Horizon OS 2.7 이상부터다."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/callstack.webp",
-                "cap": "Callstack이 시연한 Meta VR Layout SDK."
-              },
-              {
-                "t": "p",
-                "x": "얼리 액세스로 나온 새 Gaze SDK를 쓰면 개발자가 안경의 \"Look and Pinch\" 눈·손 추적 입력에 힌트를 주고 호버 동작을 원하는 대로 바꿀 수 있다."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/media/2026/10/UISETdemo.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Meta VR UI Set SDK는 다크·라이트 색 구성, 시맨틱 색상, 타이포그래피, 아이콘, 컴포넌트 치수, 인터랙션 피드백을 갖춘 Jetpack Compose 디자인 시스템이다. Meta는 이 SDK를 AI 코딩 에이전트가 구현하기 좋게 최적화했다고 설명하고, Horizon OS UI Set의 뒤를 잇는 제품이라고 부른다."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/DisneyUI.png"
-              },
-              {
-                "t": "p",
-                "x": "십일월에는 Quest용 Disney+의 공간 UI가 크게 바뀐다. visionOS 앱에 있던 3D 미디어와 여러 3D 환경이 들어온다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Meta、新たな空間SDKs\nQuestとVRグラス向け",
-          "body": "MetaはVR UI Set SDKをAIコーディングエージェント向けに最適化したという。",
-          "mini_headline": "MetaのQuest向け空間SDKs",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "MetaはMeta Connect 2026で、空間アプリ向けの新しいSDKsと機能を複数発表した。Meta VR Glassesを前に、コンピューティングの領域を広げる狙いだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Layoutsdk.png"
-              },
-              {
-                "t": "p",
-                "x": "Meta VR Layout SDKを使うと、開発者は標準的なJetpack ComposeまたはReact NativeのAndroidアプリのメインウィンドウの周囲に、空間コンポーネントやウィンドウを追加できる。アプリは非没入型のまま既存のアーキテクチャを保ち、Spatial SDKへ移行する必要もない。NBAアプリが最初期の採用例の一つだ。visionOS-likeなウィンドウ配置が可能だが3Dオブジェクトは生成できず、Horizon OS 2.7以降で完全にサポートされる。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/callstack.webp",
-                "cap": "Callstackが披露したMeta VR Layout SDK。"
-              },
-              {
-                "t": "p",
-                "x": "早期アクセスで提供される新しいGaze SDKでは、グラスの「Look and Pinch」による視線・ハンドトラッキング入力にヒントを与え、ホバー時の挙動をカスタマイズできる。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/media/2026/10/UISETdemo.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Meta VR UI Set SDKは、ダークとライトの配色、セマンティックカラー、タイポグラフィ、アイコン、コンポーネントの寸法、インタラクションのフィードバックを備えたJetpack Composeのデザインシステムだ。MetaはAIコーディングエージェントによる実装に最適化されていると説明し、Horizon OS UI Setの後継と位置づけている。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/DisneyUI.png"
-              },
-              {
-                "t": "p",
-                "x": "十一月にはQuest版Disney+の空間UIが大幅に刷新され、visionOSアプリから3Dメディアと複数の3D環境が加わる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Meta推出新空间SDKs\n面向Quest与VR眼镜",
-          "body": "Meta称，新的VR UI Set SDK设计系统针对AI编码智能体做了优化。",
-          "mini_headline": "Meta面向Quest的空间SDKs",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Meta在Meta Connect 2026上发布了多款面向空间应用的新SDKs和功能，在Meta VR Glasses推出前拓宽其计算布局。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Layoutsdk.png"
-              },
-              {
-                "t": "p",
-                "x": "借助Meta VR Layout SDK，开发者可以在标准Jetpack Compose或React Native Android应用的主窗口周围添加空间组件和窗口。应用保持非沉浸式并沿用现有架构，无需切换到Spatial SDK。NBA应用是首批采用者之一。它可实现visionOS-like的窗口布局，但无法生成3D物体，并在Horizon OS 2.7及更高版本上获得完整支持。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/callstack.webp",
-                "cap": "Callstack演示的Meta VR Layout SDK。"
-              },
-              {
-                "t": "p",
-                "x": "处于抢先体验阶段的新Gaze SDK，让开发者可以为眼镜的“Look and Pinch”眼动与手部追踪输入提供提示，并自定义悬停行为。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/media/2026/10/UISETdemo.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Meta VR UI Set SDK是一套Jetpack Compose设计系统，包含深色与浅色配色方案、语义色彩、字体排印、图标、组件尺寸和交互反馈。Meta指出它针对AI编码智能体的实现做了优化，并称其为Horizon OS UI Set的继任者。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/DisneyUI.png"
-              },
-              {
-                "t": "p",
-                "x": "十一月，Quest上的Disney+将迎来空间UI大改版，加入其visionOS应用中的3D媒体和多个3D环境。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Meta abre nuevos SDKs espaciales\npara Quest y sus gafas VR",
-          "body": "Meta afirma que su nuevo VR UI Set SDK, un sistema de diseño en Jetpack Compose, está optimizado para agentes AI.",
-          "mini_headline": "Los SDKs espaciales de Meta para Quest",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "En Meta Connect 2026, Meta anunció varios SDKs y funciones nuevos para apps espaciales, mientras amplía su enfoque de computación antes de las Meta VR Glasses."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Layoutsdk.png"
-              },
-              {
-                "t": "p",
-                "x": "El Meta VR Layout SDK permite a los desarrolladores añadir componentes espaciales y ventanas alrededor de la ventana principal de una app estándar de Android hecha con Jetpack Compose o React Native. La app sigue siendo no inmersiva y conserva su arquitectura actual, sin necesidad de pasar al Spatial SDK. La app de la NBA es una de las primeras en usarlo. Permite disposiciones de ventanas de estilo visionOS-like, pero no puede generar objetos 3D, y es totalmente compatible con Horizon OS 2.7 y versiones posteriores."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/callstack.webp",
-                "cap": "El Meta VR Layout SDK en una demostración de Callstack."
-              },
-              {
-                "t": "p",
-                "x": "Un nuevo Gaze SDK, en acceso anticipado, permite a los desarrolladores dar indicaciones a la entrada de seguimiento ocular y de manos \"Look and Pinch\" de las gafas y personalizar el comportamiento al pasar el cursor."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/media/2026/10/UISETdemo.mp4"
-              },
-              {
-                "t": "p",
-                "x": "El Meta VR UI Set SDK es un sistema de diseño de Jetpack Compose con esquemas de color oscuro y claro, colores semánticos, tipografía, iconos, dimensiones de componentes y respuesta de interacción. Meta señala que está optimizado para que lo implemente un agente de programación AI y lo presenta como el sucesor del Horizon OS UI Set."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/DisneyUI.png"
-              },
-              {
-                "t": "p",
-                "x": "En noviembre, Disney+ en Quest recibirá una renovación importante de su UI espacial, con medios 3D y varios entornos 3D de su app para visionOS."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Quest·VR 안경 위한\nMeta 새 공간 SDKs",
-          "body": "Meta는 VR UI Set SDK를 AI 코딩 에이전트에 최적화했다고 밝혔다.",
-          "mini_headline": "Meta의 Quest용 공간 SDKs",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Meta는 Meta Connect 2026에서 공간 앱을 위한 여러 새 SDKs와 기능을 발표했다. Meta VR Glasses 출시를 앞두고 컴퓨팅 영역을 넓히려는 행보다."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Layoutsdk.png"
-              },
-              {
-                "t": "p",
-                "x": "Meta VR Layout SDK를 쓰면 개발자는 일반 Jetpack Compose 또는 React Native Android 앱의 메인 창 주변에 공간 컴포넌트와 창을 추가할 수 있다. 앱은 비몰입형으로 남고 기존 구조를 유지하며, Spatial SDK로 전환할 필요도 없다. NBA 앱이 가장 먼저 이를 도입한 앱 가운데 하나다. visionOS-like 창 배치가 가능하지만 3D 객체는 띄울 수 없고, Horizon OS 2.7 이상에서 완전히 지원된다."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/callstack.webp",
-                "cap": "Callstack이 시연한 Meta VR Layout SDK."
-              },
-              {
-                "t": "p",
-                "x": "얼리 액세스로 나온 새 Gaze SDK는 개발자가 안경의 \"Look and Pinch\" 눈·손 추적 입력에 힌트를 주고 호버 동작을 맞춤 설정하게 해준다."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/media/2026/10/UISETdemo.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Meta VR UI Set SDK는 다크·라이트 색 구성, 시맨틱 색상, 타이포그래피, 아이콘, 컴포넌트 치수, 인터랙션 피드백을 갖춘 Jetpack Compose 디자인 시스템이다. Meta는 이 SDK가 AI 코딩 에이전트가 구현하기에 최적화돼 있다고 설명하며, Horizon OS UI Set의 후속이라고 부른다."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/DisneyUI.png"
-              },
-              {
-                "t": "p",
-                "x": "십일월에는 Quest용 Disney+가 공간 UI를 대폭 개편해, visionOS 앱의 3D 미디어와 여러 3D 환경을 더한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Meta、新たな空間SDKs\nQuestとVRグラス向け",
-          "body": "MetaはVR UI Set SDKをAIコーディングエージェント向けに最適化したという。",
-          "mini_headline": "MetaのQuest向け空間SDKs",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "MetaはMeta Connect 2026で、空間アプリ向けの新しいSDKsと機能を複数発表した。Meta VR Glassesを前に、コンピューティングの領域を広げる狙いだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Layoutsdk.png"
-              },
-              {
-                "t": "p",
-                "x": "Meta VR Layout SDKを使うと、開発者は標準的なJetpack ComposeまたはReact NativeのAndroidアプリのメインウィンドウの周囲に、空間コンポーネントやウィンドウを追加できる。アプリは非没入型のまま既存のアーキテクチャを保ち、Spatial SDKへ移行する必要もない。NBAアプリが最初期の採用例の一つだ。visionOS-likeなウィンドウ配置が可能だが3Dオブジェクトは生成できず、Horizon OS 2.7以降で完全にサポートされる。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/callstack.webp",
-                "cap": "Callstackが披露したMeta VR Layout SDK。"
-              },
-              {
-                "t": "p",
-                "x": "早期アクセスで提供される新しいGaze SDKでは、グラスの「Look and Pinch」による視線・ハンドトラッキング入力にヒントを与え、ホバー時の挙動をカスタマイズできる。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/media/2026/10/UISETdemo.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Meta VR UI Set SDKは、ダークとライトの配色、セマンティックカラー、タイポグラフィ、アイコン、コンポーネントの寸法、インタラクションのフィードバックを備えたJetpack Composeのデザインシステムだ。MetaはAIコーディングエージェントによる実装に最適化されていると説明し、Horizon OS UI Setの後継と位置づけている。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/DisneyUI.png"
-              },
-              {
-                "t": "p",
-                "x": "十一月にはQuest版Disney+の空間UIが大幅に刷新され、visionOSアプリから3Dメディアと複数の3D環境が加わる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Meta推出新空间SDKs\n面向Quest与VR眼镜",
-          "body": "Meta称，新的VR UI Set SDK设计系统针对AI编码智能体做了优化。",
-          "mini_headline": "Meta面向Quest的空间SDKs",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Meta在Meta Connect 2026上发布了多款面向空间应用的新SDKs和功能，在Meta VR Glasses推出前拓宽其计算布局。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Layoutsdk.png"
-              },
-              {
-                "t": "p",
-                "x": "借助Meta VR Layout SDK，开发者可以在标准Jetpack Compose或React Native Android应用的主窗口周围添加空间组件和窗口。应用保持非沉浸式并沿用现有架构，无需切换到Spatial SDK。NBA应用是首批采用者之一。它可实现visionOS-like的窗口布局，但无法生成3D物体，并在Horizon OS 2.7及更高版本上获得完整支持。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/callstack.webp",
-                "cap": "Callstack演示的Meta VR Layout SDK。"
-              },
-              {
-                "t": "p",
-                "x": "处于抢先体验阶段的新Gaze SDK，让开发者可以为眼镜的“Look and Pinch”眼动与手部追踪输入提供提示，并自定义悬停行为。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/media/2026/10/UISETdemo.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Meta VR UI Set SDK是一套Jetpack Compose设计系统，包含深色与浅色配色方案、语义色彩、字体排印、图标、组件尺寸和交互反馈。Meta指出它针对AI编码智能体的实现做了优化，并称其为Horizon OS UI Set的继任者。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/DisneyUI.png"
-              },
-              {
-                "t": "p",
-                "x": "十一月，Quest上的Disney+将迎来空间UI大改版，加入其visionOS应用中的3D媒体和多个3D环境。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Meta abre nuevos SDKs espaciales\npara Quest y sus gafas VR",
-          "body": "Meta afirma que su nuevo VR UI Set SDK, un sistema de diseño en Jetpack Compose, está optimizado para agentes AI.",
-          "mini_headline": "Los SDKs espaciales de Meta para Quest",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "En Meta Connect 2026, Meta anunció varios SDKs y funciones nuevos para apps espaciales, mientras amplía su enfoque de computación antes de las Meta VR Glasses."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Layoutsdk.png"
-              },
-              {
-                "t": "p",
-                "x": "El Meta VR Layout SDK permite a los desarrolladores añadir componentes espaciales y ventanas alrededor de la ventana principal de una app estándar de Android hecha con Jetpack Compose o React Native. La app sigue siendo no inmersiva y conserva su arquitectura actual, sin necesidad de pasar al Spatial SDK. La app de la NBA es una de las primeras en usarlo. Permite disposiciones de ventanas de estilo visionOS-like, pero no puede generar objetos 3D, y es totalmente compatible con Horizon OS 2.7 y versiones posteriores."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/callstack.webp",
-                "cap": "El Meta VR Layout SDK en una demostración de Callstack."
-              },
-              {
-                "t": "p",
-                "x": "Un nuevo Gaze SDK, en acceso anticipado, permite a los desarrolladores dar indicaciones a la entrada de seguimiento ocular y de manos \"Look and Pinch\" de las gafas y personalizar el comportamiento al pasar el cursor."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/media/2026/10/UISETdemo.mp4"
-              },
-              {
-                "t": "p",
-                "x": "El Meta VR UI Set SDK es un sistema de diseño de Jetpack Compose con esquemas de color oscuro y claro, colores semánticos, tipografía, iconos, dimensiones de componentes y respuesta de interacción. Meta señala que está optimizado para que lo implemente un agente de programación AI y lo presenta como el sucesor del Horizon OS UI Set."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/DisneyUI.png"
-              },
-              {
-                "t": "p",
-                "x": "En noviembre, Disney+ en Quest recibirá una renovación importante de su UI espacial, con medios 3D y varios entornos 3D de su app para visionOS."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "gadgets-amd-fsr41-older-gpus",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AMD, FSR 4.1을\nRX 6000 GPUs로",
-      "body": "ML-based FSR 4.1이 성능을 조금만 깎고 RX 6000 GPUs에 온다.",
-      "mini_headline": "FSR 4.1, 구형 GPUs로",
-      "tool": "Gadgets",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/pc-components/gpu-drivers/amds-fsr-4-1-now-works-on-radeon-rx-6000-gpus-xbox-series-x-and-s-and-ryzen-ai-max-ai-9-and-z2-socs-new-release-brings-cutting-edge-tech-to-older-hardware-with-a-small-performance-cost",
-      "accent": "#f5a623",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Microsoft-pulls-eight-Copilot-actions-from-Windows-11-File-Explorer.1432095.0.html",
+      "accent": "#0070f3",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/FKEfLV3WiguWYAz37vRmyW-1920-80.png"
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/windows-11-copilot-explorer-teaser.jpg",
+            "cap": "Microsoft가 Windows 11 File Explorer의 OneDrive 파일 컨텍스트 메뉴에서 Copilot 동작 8개를 뺀다. (상징 이미지)"
           },
           {
             "t": "p",
-            "x": "Radeon 총괄 Jack Huynh는 Radeon RX 6000 시리즈 카드, Xbox Series X·Series S 콘솔, Ryzen Z-series 휴대용 기기, Ryzen AI Max·AI 9 칩 탑재 기기에 FSR 4.1을 내놓는다고 발표했다. AMD가 RX 6000용으로 약속했던 2027년 초보다 이른 일정이다."
+            "x": "Windows 11에서 OneDrive 파일을 오른쪽 클릭하면 지금은 컨텍스트 메뉴에 Copilot 하위 메뉴가 뜨고, 그 안에 미리 만들어 둔 AI 동작 8개가 있다. 이 바로 가기가 사라진다. Microsoft는 Microsoft 365 Message Center에 ID MC1515940으로 종료를 알렸다. 공지는 10월 19일 올라왔고 하루 뒤 갱신됐다. 종료는 2026년 11월 중순(mid-November)에 시작해 12월 초까지 전 세계에서 마무리될 예정이다."
           },
           {
             "t": "p",
-            "x": "AMD는 FSR 4.1의 신경망 모델을 Radeon 9000 카드의 FP8 행렬 가속 대신 INT8 셰이더 하드웨어에서 돌도록 손봤다고 밝혔다. 휴대용 버전은 더 덜어내 크기가 전체 버전의 절반도 안 된다."
+            "x": "대상은 Summarize, Create FAQ, Compare Files, Ask a question과 이미지 동작인 Explain image, Explain images, Compare images, 그리고 Extract text다. Microsoft는 File Explorer에서 OneDrive 파일로 Copilot을 쓰는 방식을 단순하게 정리하려고 모든 기능을 진입점 하나로 모은다."
           },
           {
             "t": "p",
-            "x": "AMD는 화질이 FSR 3보다 낫다고 말한다. Tom's Hardware가 Radeon RX 6900 XT에서 Cyberpunk 2077을 4K 해상도, FSR Balanced 모드로 간단히 돌려 보니 FSR 4는 성능을 약 13% 깎았다. 더 선명하고 안정적인 화면을 얻는 값으로는 작다. 화질이 좋으니 Performance 모드로 내려 손실을 메울 수도 있다."
-          },
-          {
-            "t": "video",
-            "yt": "fT6TIXnmv-s"
+            "x": "Ask Copilot은 오른쪽 클릭 메뉴에 그대로 남는다. 파일을 첨부한 새 Copilot 대화가 열리고, 할 일은 사용자가 직접 입력한다. 파일은 참조 방식으로 붙기 때문에 기존 권한과 보호 설정이 그대로 적용된다. 8개 동작은 OneDrive 활동 센터에서 계속 쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "AMD는 FSR Frame Generation의 프레임 페이싱이 나아졌고 FSR 4.1의 Vulkan 지원도 곧 들어간다고 밝혔다. FSR Ray Regeneration은 Warhammer 40,000: Darktide를 시작으로 더 많은 게임으로 넓어진다."
+            "x": "4월에는 Notepad와 Snipping Tool에서 Copilot 버튼이 빠졌고, 5월에는 Copilot 키를 다른 기능에 다시 할당할 수 있다고 Microsoft가 확인했다. Windows Latest는 이번 변화를 Windows 11 AI 기능을 둘러싼 꾸준한 비판과 엮어 본다. 공지에서 Microsoft는 그런 연관성을 언급하지 않는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AMD brings FSR 4.1 upscaling\nto RX 6000 GPUs and Xbox",
-          "body": "AMD's ML-based FSR 4.1 upscaler now reaches Radeon RX 6000 GPUs and Xbox Series consoles at a small performance cost.",
-          "mini_headline": "FSR 4.1 reaches older GPUs",
+          "headline": "Microsoft pulls eight Copilot\nactions from File Explorer",
+          "body": "Summarize, Compare Files and Extract text leave the OneDrive right-click menu from mid-November to early December.",
+          "mini_headline": "Copilot exits File Explorer",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/FKEfLV3WiguWYAz37vRmyW-1920-80.png"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/windows-11-copilot-explorer-teaser.jpg",
+                "cap": "Microsoft is removing eight Copilot actions from the File Explorer context menu for OneDrive files in Windows 11. (Symbolic image)"
               },
               {
                 "t": "p",
-                "x": "Radeon chief Jack Huynh announced FSR 4.1 for Radeon RX 6000-series cards, Xbox Series X and Series S consoles, Ryzen Z-series handhelds and machines with Ryzen AI Max and AI 9 chips, ahead of the early 2027 date AMD had promised for RX 6000."
+                "x": "Right-click a OneDrive file in Windows 11 and the context menu currently offers a Copilot submenu with eight ready-made AI actions. Those shortcuts are going away. Microsoft announced the retirement in the Microsoft 365 Message Center under ID MC1515940, published on October 19 and updated a day later. The retirement will begin in mid-November 2026 and is expected to be complete worldwide by early December."
               },
               {
                 "t": "p",
-                "x": "AMD says it tweaked FSR 4.1's neural network model to run on INT8 shader hardware instead of the FP8 matrix acceleration on Radeon 9000 cards. The handheld version is slimmed down further, to less than half the size of the full one."
+                "x": "The list covers Summarize, Create FAQ, Compare Files and Ask a question, along with the image actions Explain image, Explain images and Compare images, plus Extract text. Microsoft wants to simplify how people use Copilot with their OneDrive files in File Explorer, so it is consolidating everything into a single entry point."
               },
               {
                 "t": "p",
-                "x": "AMD says image quality beats FSR 3. In Tom's Hardware's quick test of Cyberpunk 2077 at 4K in FSR Balanced mode on a Radeon RX 6900 XT, FSR 4 cost about 13% performance, a small price for sharper, more stable visuals. Its higher quality may let gamers drop to Performance mode to offset that cost."
-              },
-              {
-                "t": "video",
-                "yt": "fT6TIXnmv-s"
+                "x": "Ask Copilot stays in the right-click menu. It opens a new Copilot conversation with the file attached, and you then type the task yourself. Files are attached by reference, so their existing permissions and protections still apply. The eight actions remain available in the OneDrive activity center."
               },
               {
                 "t": "p",
-                "x": "AMD also says FSR Frame Generation should have better frame pacing, Vulkan support for FSR 4.1 is coming, and FSR Ray Regeneration is expanding to more games, starting with Warhammer 40,000: Darktide."
+                "x": "In April, the Copilot buttons disappeared from Notepad and the Snipping Tool, and in May Microsoft confirmed that the Copilot key can be remapped to other functions. Windows Latest links the latest change to ongoing criticism of the AI features in Windows 11. Microsoft does not make that connection in its notice."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AMD, FSR 4.1을\nRX 6000 GPUs로",
-          "body": "ML-based FSR 4.1이 성능을 조금만 깎고 RX 6000 GPUs에 온다.",
-          "mini_headline": "FSR 4.1, 구형 GPUs로",
+          "headline": "파일 탐색기에서\nCopilot 8개 빠진다",
+          "body": "Summarize 등 8개 동작이 11월 중순 OneDrive 메뉴에서 빠진다.",
+          "mini_headline": "Copilot, File Explorer에서 퇴장",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/FKEfLV3WiguWYAz37vRmyW-1920-80.png"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/windows-11-copilot-explorer-teaser.jpg",
+                "cap": "Microsoft가 Windows 11 File Explorer의 OneDrive 파일 컨텍스트 메뉴에서 Copilot 동작 8개를 뺀다. (상징 이미지)"
               },
               {
                 "t": "p",
-                "x": "Radeon 총괄 Jack Huynh는 Radeon RX 6000 시리즈 카드, Xbox Series X·Series S 콘솔, Ryzen Z-series 휴대용 기기, Ryzen AI Max·AI 9 칩 탑재 기기에 FSR 4.1을 내놓는다고 발표했다. AMD가 RX 6000용으로 약속했던 2027년 초보다 이른 일정이다."
+                "x": "Windows 11에서 OneDrive 파일을 오른쪽 클릭하면 지금은 컨텍스트 메뉴에 Copilot 하위 메뉴가 뜨고, 그 안에 미리 만들어 둔 AI 동작 8개가 있다. 이 바로 가기가 사라진다. Microsoft는 Microsoft 365 Message Center에 ID MC1515940으로 종료를 알렸다. 공지는 10월 19일 올라왔고 하루 뒤 갱신됐다. 종료는 2026년 11월 중순(mid-November)에 시작해 12월 초까지 전 세계에서 마무리될 예정이다."
               },
               {
                 "t": "p",
-                "x": "AMD는 FSR 4.1의 신경망 모델을 Radeon 9000 카드의 FP8 행렬 가속 대신 INT8 셰이더 하드웨어에서 돌도록 손봤다고 밝혔다. 휴대용 버전은 더 덜어내 크기가 전체 버전의 절반도 안 된다."
+                "x": "대상은 Summarize, Create FAQ, Compare Files, Ask a question과 이미지 동작인 Explain image, Explain images, Compare images, 그리고 Extract text다. Microsoft는 File Explorer에서 OneDrive 파일로 Copilot을 쓰는 방식을 단순하게 정리하려고 모든 기능을 진입점 하나로 모은다."
               },
               {
                 "t": "p",
-                "x": "AMD는 화질이 FSR 3보다 낫다고 말한다. Tom's Hardware가 Radeon RX 6900 XT에서 Cyberpunk 2077을 4K 해상도, FSR Balanced 모드로 간단히 돌려 보니 FSR 4는 성능을 약 13% 깎았다. 더 선명하고 안정적인 화면을 얻는 값으로는 작다. 화질이 좋으니 Performance 모드로 내려 손실을 메울 수도 있다."
-              },
-              {
-                "t": "video",
-                "yt": "fT6TIXnmv-s"
+                "x": "Ask Copilot은 오른쪽 클릭 메뉴에 그대로 남는다. 파일을 첨부한 새 Copilot 대화가 열리고, 할 일은 사용자가 직접 입력한다. 파일은 참조 방식으로 붙기 때문에 기존 권한과 보호 설정이 그대로 적용된다. 8개 동작은 OneDrive 활동 센터에서 계속 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "AMD는 FSR Frame Generation의 프레임 페이싱이 나아졌고 FSR 4.1의 Vulkan 지원도 곧 들어간다고 밝혔다. FSR Ray Regeneration은 Warhammer 40,000: Darktide를 시작으로 더 많은 게임으로 넓어진다."
+                "x": "4월에는 Notepad와 Snipping Tool에서 Copilot 버튼이 빠졌고, 5월에는 Copilot 키를 다른 기능에 다시 할당할 수 있다고 Microsoft가 확인했다. Windows Latest는 이번 변화를 Windows 11 AI 기능을 둘러싼 꾸준한 비판과 엮어 본다. 공지에서 Microsoft는 그런 연관성을 언급하지 않는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AMD、FSR 4.1を\nRX 6000 GPUsへ",
-          "body": "ML-basedのFSR 4.1が小さな性能低下でRX 6000 GPUsに対応した。",
-          "mini_headline": "FSR 4.1が旧世代GPUsへ",
+          "headline": "エクスプローラーから\nCopilot8機能を削除",
+          "body": "Summarizeなど8機能が11月中旬から12月上旬にかけ右クリックから消える。",
+          "mini_headline": "CopilotがFile Explorerから撤退",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/FKEfLV3WiguWYAz37vRmyW-1920-80.png"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/windows-11-copilot-explorer-teaser.jpg",
+                "cap": "MicrosoftはWindows 11のOneDriveファイル向けFile Explorerコンテキストメニューから、Copilotの操作8つを削除する。（イメージ画像）"
               },
               {
                 "t": "p",
-                "x": "Radeon部門を率いるJack Huynhは、Radeon RX 6000シリーズのカード、Xbox Series XとSeries Sのコンソール、Ryzen Z-seriesの携帯機、Ryzen AI MaxとAI 9チップ搭載機向けにFSR 4.1を発表した。AMDがRX 6000向けに約束していた2027年初頭より前倒しとなる。"
+                "x": "Windows 11でOneDriveのファイルを右クリックすると、現在はコンテキストメニューにCopilotのサブメニューが表示され、あらかじめ用意されたAI操作が8つ並ぶ。このショートカットがなくなる。MicrosoftはMicrosoft 365 Message CenterでID MC1515940として提供終了を告知した。告知は10月19日に公開され、翌日に更新された。終了は2026年11月中旬（mid-November）に始まり、12月上旬までに全世界で完了する見込みだ。"
               },
               {
                 "t": "p",
-                "x": "AMDによると、FSR 4.1のニューラルネットワークモデルを調整し、Radeon 9000カードのFP8行列演算アクセラレーションではなくINT8シェーダーハードウェアで動くようにした。携帯機版はさらに軽量化され、フル版の半分未満のサイズになっている。"
+                "x": "対象はSummarize、Create FAQ、Compare Files、Ask a questionに加え、画像向けのExplain image、Explain images、Compare images、そしてExtract textである。MicrosoftはFile ExplorerでOneDriveのファイルとCopilotを使う方法を簡素化したい考えで、すべてを一つの入り口に集約する。"
               },
               {
                 "t": "p",
-                "x": "AMDは画質がFSR 3を上回るとしている。Tom's HardwareがRadeon RX 6900 XTでCyberpunk 2077を4K 解像度、FSR Balancedモードで簡易テストしたところ、FSR 4による性能低下は約13%で、より鮮明で安定した映像を得る代償としては小さい。画質が高いぶん、Performanceモードに下げてその損失を補う選択肢もある。"
-              },
-              {
-                "t": "video",
-                "yt": "fT6TIXnmv-s"
+                "x": "Ask Copilotは右クリックメニューに残る。ファイルを添付した新しいCopilotの会話が開き、作業内容は利用者が自分で入力する。ファイルは参照として添付されるため、既存の権限や保護はそのまま適用される。8つの操作はOneDriveのアクティビティセンターで引き続き使える。"
               },
               {
                 "t": "p",
-                "x": "AMDはまた、FSR Frame Generationのフレームペーシングが改善し、FSR 4.1のVulkan対応が近く加わり、FSR Ray RegenerationがWarhammer 40,000: Darktideを皮切りに対応タイトルを広げるとしている。"
+                "x": "4月にはNotepadとSnipping ToolからCopilotボタンが消え、5月にはMicrosoftがCopilotキーを別の機能に割り当て直せることを認めた。Windows Latestは今回の変更を、Windows 11のAI機能に対して続く批判と結びつけている。Microsoftは告知の中でその関連に触れていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AMD将FSR 4.1下放至\nRX 6000 GPUs",
-          "body": "ML-based的FSR 4.1以少量性能代价登陆RX 6000 GPUs和Xbox。",
-          "mini_headline": "FSR 4.1登陆旧款GPUs",
+          "headline": "Copilot八项操作\n退出文件资源管理器",
+          "body": "Summarize等8项操作将于11月中旬至12月初退出OneDrive右键菜单。",
+          "mini_headline": "Copilot退出File Explorer",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/FKEfLV3WiguWYAz37vRmyW-1920-80.png"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/windows-11-copilot-explorer-teaser.jpg",
+                "cap": "Microsoft将从Windows 11中OneDrive文件的File Explorer右键菜单里移除八项Copilot操作。（示意图）"
               },
               {
                 "t": "p",
-                "x": "Radeon负责人Jack Huynh宣布，FSR 4.1将登陆Radeon RX 6000系列显卡、Xbox Series X与Series S主机、Ryzen Z-series掌机，以及搭载Ryzen AI Max和AI 9芯片的设备，早于AMD此前为RX 6000承诺的2027年初。"
+                "x": "在Windows 11中右键点击OneDrive文件，目前的右键菜单会出现一个Copilot子菜单，内含八项预设的AI操作。这些快捷方式即将消失。Microsoft在Microsoft 365 Message Center以ID MC1515940发布了停用通知，通知于10月19日发布，次日更新。停用将于2026年11月中旬（mid-November）开始，预计12月初在全球完成。"
               },
               {
                 "t": "p",
-                "x": "AMD表示，它调整了FSR 4.1的神经网络模型，使其在INT8着色器硬件上运行，而非Radeon 9000显卡上的FP8矩阵加速。掌机版本进一步精简，体积不到完整版的一半。"
+                "x": "涉及的操作包括Summarize、Create FAQ、Compare Files和Ask a question，以及图片操作Explain image、Explain images和Compare images，还有Extract text。Microsoft希望简化用户在File Explorer中配合OneDrive文件使用Copilot的方式，因此将所有功能整合到单一入口。"
               },
               {
                 "t": "p",
-                "x": "AMD称其画质优于FSR 3。在Tom's Hardware以Radeon RX 6900 XT、4K 分辨率和FSR Balanced模式对Cyberpunk 2077进行的快速测试中，FSR 4带来约13%的性能损失，换来更清晰、更稳定的画面，代价不大。更高的画质也可能让玩家降到Performance模式来抵消这部分损失。"
-              },
-              {
-                "t": "video",
-                "yt": "fT6TIXnmv-s"
+                "x": "Ask Copilot仍保留在右键菜单中。它会打开一个附带该文件的新Copilot对话，用户再自行输入任务。文件以引用方式附加，因此原有的权限和保护措施依然有效。这八项操作仍可在OneDrive活动中心使用。"
               },
               {
                 "t": "p",
-                "x": "AMD还表示，FSR Frame Generation的帧节奏将有所改善，FSR 4.1即将支持Vulkan，FSR Ray Regeneration也将扩展到更多游戏，首款是Warhammer 40,000: Darktide。"
+                "x": "4月，Copilot按钮已从Notepad和Snipping Tool中消失；5月，Microsoft确认Copilot键可以重新映射为其他功能。Windows Latest将这次变化与外界对Windows 11 AI功能的持续批评联系起来。Microsoft在通知中并未提及这一关联。"
               }
             ]
           }
         },
         "es": {
-          "headline": "AMD lleva el escalado FSR 4.1\na las GPUs RX 6000 y a Xbox",
-          "body": "El reescalador ML-based FSR 4.1 de AMD llega a las GPUs RX 6000 y a las Xbox Series con poca pérdida de rendimiento.",
-          "mini_headline": "FSR 4.1 llega a GPUs más antiguas",
+          "headline": "Microsoft retira ocho acciones\nde Copilot en File Explorer",
+          "body": "Summarize, Compare Files y Extract text salen del menú de OneDrive de mediados de noviembre a inicios de diciembre.",
+          "mini_headline": "Copilot sale de File Explorer",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/FKEfLV3WiguWYAz37vRmyW-1920-80.png"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/windows-11-copilot-explorer-teaser.jpg",
+                "cap": "Microsoft elimina ocho acciones de Copilot del menú contextual de File Explorer para archivos de OneDrive en Windows 11. (Imagen simbólica)"
               },
               {
                 "t": "p",
-                "x": "El responsable de Radeon, Jack Huynh, anunció FSR 4.1 para las tarjetas Radeon RX 6000, las consolas Xbox Series X y Series S, las consolas portátiles Ryzen Z-series y los equipos con chips Ryzen AI Max y AI 9, antes de la fecha de principios de 2027 que AMD había prometido para RX 6000."
+                "x": "Al hacer clic derecho sobre un archivo de OneDrive en Windows 11, el menú contextual ofrece hoy un submenú de Copilot con ocho acciones de AI ya preparadas. Esos atajos van a desaparecer. Microsoft anunció la retirada en el Microsoft 365 Message Center con el ID MC1515940, publicado el 19 de octubre y actualizado un día después. La retirada comenzará a mediados de noviembre de 2026 (mid-November) y se espera que concluya en todo el mundo a principios de diciembre."
               },
               {
                 "t": "p",
-                "x": "AMD afirma que ajustó el modelo de red neuronal de FSR 4.1 para que funcione en hardware de sombreado INT8 en lugar de la aceleración matricial FP8 de las tarjetas Radeon 9000. La versión para consolas portátiles está aún más reducida, con menos de la mitad del tamaño de la completa."
+                "x": "La lista incluye Summarize, Create FAQ, Compare Files y Ask a question, junto con las acciones de imagen Explain image, Explain images y Compare images, además de Extract text. Microsoft quiere simplificar la forma en que se usa Copilot con los archivos de OneDrive en File Explorer, por lo que lo concentra todo en un único punto de acceso."
               },
               {
                 "t": "p",
-                "x": "AMD asegura que la calidad de imagen supera a FSR 3. En una prueba rápida de Tom's Hardware con Cyberpunk 2077 a 4K en modo FSR Balanced en una Radeon RX 6900 XT, FSR 4 costó alrededor de un 13% de rendimiento, un precio pequeño por una imagen más nítida y estable. Su mayor calidad podría permitir a los jugadores bajar al modo Performance para compensar esa pérdida."
-              },
-              {
-                "t": "video",
-                "yt": "fT6TIXnmv-s"
+                "x": "Ask Copilot se mantiene en el menú del clic derecho. Abre una nueva conversación de Copilot con el archivo adjunto y después el usuario escribe la tarea. Los archivos se adjuntan por referencia, así que sus permisos y protecciones existentes siguen vigentes. Las ocho acciones siguen disponibles en el centro de actividad de OneDrive."
               },
               {
                 "t": "p",
-                "x": "AMD también indica que FSR Frame Generation tendrá un mejor ritmo de fotogramas, que llegará compatibilidad con Vulkan para FSR 4.1 y que FSR Ray Regeneration se extenderá a más juegos, empezando por Warhammer 40,000: Darktide."
+                "x": "En abril, los botones de Copilot desaparecieron de Notepad y de Snipping Tool, y en mayo Microsoft confirmó que la tecla Copilot puede reasignarse a otras funciones. Windows Latest vincula este último cambio con las críticas continuas a las funciones de AI en Windows 11. Microsoft no establece esa relación en su aviso."
               }
             ]
           }
@@ -1121,137 +591,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AMD, FSR 4.1을\nRX 6000 GPUs로",
-          "body": "ML-based FSR 4.1이 작은 성능 손실로 RX 6000 GPUs에 온다.",
-          "mini_headline": "FSR 4.1, 구형 GPUs로",
+          "headline": "파일 탐색기에서\nCopilot 8개 빠진다",
+          "body": "Summarize 등 8개 동작이 11월 중순 OneDrive 메뉴에서 빠진다.",
+          "mini_headline": "Copilot, File Explorer에서 퇴장",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/FKEfLV3WiguWYAz37vRmyW-1920-80.png"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/windows-11-copilot-explorer-teaser.jpg",
+                "cap": "Microsoft가 Windows 11의 OneDrive 파일용 File Explorer 컨텍스트 메뉴에서 Copilot 동작 8개를 없앤다. (상징 이미지)"
               },
               {
                 "t": "p",
-                "x": "Radeon 총괄 Jack Huynh는 Radeon RX 6000 시리즈 카드, Xbox Series X·Series S 콘솔, Ryzen Z-series 휴대용 기기, Ryzen AI Max·AI 9 칩 탑재 기기에 FSR 4.1을 제공한다고 발표했다. AMD가 RX 6000용으로 약속했던 2027년 초보다 앞당긴 일정이다."
+                "x": "Windows 11에서 OneDrive 파일을 마우스 오른쪽 버튼으로 클릭하면 지금은 컨텍스트 메뉴에 Copilot 하위 메뉴가 뜨고, 미리 만들어 둔 AI 동작 8개가 들어 있다. 이 바로 가기가 사라진다. Microsoft는 Microsoft 365 Message Center에 ID MC1515940으로 종료를 공지했다. 공지는 10월 19일 게시됐고 하루 뒤 갱신됐다. 종료는 2026년 11월 중순(mid-November)에 시작해 12월 초까지 전 세계에서 마무리될 예정이다."
               },
               {
                 "t": "p",
-                "x": "AMD는 FSR 4.1의 신경망 모델을 Radeon 9000 카드의 FP8 행렬 가속 대신 INT8 셰이더 하드웨어에서 돌아가도록 손봤다고 밝혔다. 휴대용 버전은 더 가볍게 줄여 전체 버전의 절반에도 못 미치는 크기다."
+                "x": "대상은 Summarize, Create FAQ, Compare Files, Ask a question과 이미지 동작인 Explain image, Explain images, Compare images, 그리고 Extract text다. Microsoft는 File Explorer에서 OneDrive 파일과 함께 Copilot을 쓰는 방식을 단순하게 만들려 한다. 그래서 모든 기능을 하나의 진입점으로 모은다."
               },
               {
                 "t": "p",
-                "x": "AMD는 화질이 FSR 3보다 낫다고 말한다. Tom's Hardware가 Radeon RX 6900 XT에서 Cyberpunk 2077을 4K 해상도, FSR Balanced 모드로 간단히 테스트한 결과 FSR 4는 성능을 약 13% 깎았다. 더 선명하고 안정적인 화면을 생각하면 작은 대가다. 화질이 높은 만큼 Performance 모드로 낮춰 손실을 상쇄할 수도 있다."
-              },
-              {
-                "t": "video",
-                "yt": "fT6TIXnmv-s"
+                "x": "Ask Copilot은 오른쪽 클릭 메뉴에 남는다. 파일이 첨부된 새 Copilot 대화를 열고, 할 일은 사용자가 직접 입력한다. 파일은 참조 방식으로 첨부되므로 기존 권한과 보호 설정이 그대로 적용된다. 8개 동작은 OneDrive 활동 센터에서 계속 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "AMD는 FSR Frame Generation의 프레임 페이싱이 나아지고, FSR 4.1의 Vulkan 지원이 곧 추가되며, FSR Ray Regeneration이 Warhammer 40,000: Darktide를 시작으로 더 많은 게임에 확대된다고 밝혔다."
+                "x": "4월에는 Notepad와 Snipping Tool에서 Copilot 버튼이 사라졌고, 5월에는 Microsoft가 Copilot 키를 다른 기능에 다시 할당할 수 있다고 확인했다. Windows Latest는 이번 변화를 Windows 11의 AI 기능을 향한 계속되는 비판과 연결한다. Microsoft는 공지에서 그런 연관성을 언급하지 않는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AMD、FSR 4.1を\nRX 6000 GPUsへ",
-          "body": "ML-basedのFSR 4.1が小さな性能低下でRX 6000 GPUsに対応した。",
-          "mini_headline": "FSR 4.1が旧世代GPUsへ",
+          "headline": "エクスプローラーから\nCopilot8機能を削除",
+          "body": "Summarizeなど8機能が11月中旬から12月上旬にかけ右クリックから消える。",
+          "mini_headline": "CopilotがFile Explorerから撤退",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/FKEfLV3WiguWYAz37vRmyW-1920-80.png"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/windows-11-copilot-explorer-teaser.jpg",
+                "cap": "MicrosoftはWindows 11のOneDriveファイル向けFile Explorerコンテキストメニューから、Copilotの操作8つを削除する。（イメージ画像）"
               },
               {
                 "t": "p",
-                "x": "Radeon部門を率いるJack Huynhは、Radeon RX 6000シリーズのカード、Xbox Series XとSeries Sのコンソール、Ryzen Z-seriesの携帯機、Ryzen AI MaxとAI 9チップ搭載機向けにFSR 4.1を発表した。AMDがRX 6000向けに約束していた2027年初頭より前倒しとなる。"
+                "x": "Windows 11でOneDriveのファイルを右クリックすると、現在はコンテキストメニューにCopilotのサブメニューが表示され、あらかじめ用意されたAI操作が8つ並ぶ。このショートカットがなくなる。MicrosoftはMicrosoft 365 Message CenterでID MC1515940として提供終了を告知した。告知は10月19日に公開され、翌日に更新された。終了は2026年11月中旬（mid-November）に始まり、12月上旬までに全世界で完了する見込みだ。"
               },
               {
                 "t": "p",
-                "x": "AMDによると、FSR 4.1のニューラルネットワークモデルを調整し、Radeon 9000カードのFP8行列演算アクセラレーションではなくINT8シェーダーハードウェアで動くようにした。携帯機版はさらに軽量化され、フル版の半分未満のサイズになっている。"
+                "x": "対象はSummarize、Create FAQ、Compare Files、Ask a questionに加え、画像向けのExplain image、Explain images、Compare images、そしてExtract textである。MicrosoftはFile ExplorerでOneDriveのファイルとCopilotを使う方法を簡素化したい考えで、すべてを一つの入り口に集約する。"
               },
               {
                 "t": "p",
-                "x": "AMDは画質がFSR 3を上回るとしている。Tom's HardwareがRadeon RX 6900 XTでCyberpunk 2077を4K 解像度、FSR Balancedモードで簡易テストしたところ、FSR 4による性能低下は約13%で、より鮮明で安定した映像を得る代償としては小さい。画質が高いぶん、Performanceモードに下げてその損失を補う選択肢もある。"
-              },
-              {
-                "t": "video",
-                "yt": "fT6TIXnmv-s"
+                "x": "Ask Copilotは右クリックメニューに残る。ファイルを添付した新しいCopilotの会話が開き、作業内容は利用者が自分で入力する。ファイルは参照として添付されるため、既存の権限や保護はそのまま適用される。8つの操作はOneDriveのアクティビティセンターで引き続き使える。"
               },
               {
                 "t": "p",
-                "x": "AMDはまた、FSR Frame Generationのフレームペーシングが改善し、FSR 4.1のVulkan対応が近く加わり、FSR Ray RegenerationがWarhammer 40,000: Darktideを皮切りに対応タイトルを広げるとしている。"
+                "x": "4月にはNotepadとSnipping ToolからCopilotボタンが消え、5月にはMicrosoftがCopilotキーを別の機能に割り当て直せることを認めた。Windows Latestは今回の変更を、Windows 11のAI機能に対して続く批判と結びつけている。Microsoftは告知の中でその関連に触れていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AMD将FSR 4.1下放至\nRX 6000 GPUs",
-          "body": "ML-based的FSR 4.1以少量性能代价登陆RX 6000 GPUs和Xbox。",
-          "mini_headline": "FSR 4.1登陆旧款GPUs",
+          "headline": "Copilot八项操作\n退出文件资源管理器",
+          "body": "Summarize等8项操作将于11月中旬至12月初退出OneDrive右键菜单。",
+          "mini_headline": "Copilot退出File Explorer",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/FKEfLV3WiguWYAz37vRmyW-1920-80.png"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/windows-11-copilot-explorer-teaser.jpg",
+                "cap": "Microsoft将从Windows 11中OneDrive文件的File Explorer右键菜单里移除八项Copilot操作。（示意图）"
               },
               {
                 "t": "p",
-                "x": "Radeon负责人Jack Huynh宣布，FSR 4.1将登陆Radeon RX 6000系列显卡、Xbox Series X与Series S主机、Ryzen Z-series掌机，以及搭载Ryzen AI Max和AI 9芯片的设备，早于AMD此前为RX 6000承诺的2027年初。"
+                "x": "在Windows 11中右键点击OneDrive文件，目前的右键菜单会出现一个Copilot子菜单，内含八项预设的AI操作。这些快捷方式即将消失。Microsoft在Microsoft 365 Message Center以ID MC1515940发布了停用通知，通知于10月19日发布，次日更新。停用将于2026年11月中旬（mid-November）开始，预计12月初在全球完成。"
               },
               {
                 "t": "p",
-                "x": "AMD表示，它调整了FSR 4.1的神经网络模型，使其在INT8着色器硬件上运行，而非Radeon 9000显卡上的FP8矩阵加速。掌机版本进一步精简，体积不到完整版的一半。"
+                "x": "涉及的操作包括Summarize、Create FAQ、Compare Files和Ask a question，以及图片操作Explain image、Explain images和Compare images，还有Extract text。Microsoft希望简化用户在File Explorer中配合OneDrive文件使用Copilot的方式，因此将所有功能整合到单一入口。"
               },
               {
                 "t": "p",
-                "x": "AMD称其画质优于FSR 3。在Tom's Hardware以Radeon RX 6900 XT、4K 分辨率和FSR Balanced模式对Cyberpunk 2077进行的快速测试中，FSR 4带来约13%的性能损失，换来更清晰、更稳定的画面，代价不大。更高的画质也可能让玩家降到Performance模式来抵消这部分损失。"
-              },
-              {
-                "t": "video",
-                "yt": "fT6TIXnmv-s"
+                "x": "Ask Copilot仍保留在右键菜单中。它会打开一个附带该文件的新Copilot对话，用户再自行输入任务。文件以引用方式附加，因此原有的权限和保护措施依然有效。这八项操作仍可在OneDrive活动中心使用。"
               },
               {
                 "t": "p",
-                "x": "AMD还表示，FSR Frame Generation的帧节奏将有所改善，FSR 4.1即将支持Vulkan，FSR Ray Regeneration也将扩展到更多游戏，首款是Warhammer 40,000: Darktide。"
+                "x": "4月，Copilot按钮已从Notepad和Snipping Tool中消失；5月，Microsoft确认Copilot键可以重新映射为其他功能。Windows Latest将这次变化与外界对Windows 11 AI功能的持续批评联系起来。Microsoft在通知中并未提及这一关联。"
               }
             ]
           }
         },
         "es": {
-          "headline": "AMD lleva el escalado FSR 4.1\na las GPUs RX 6000 y a Xbox",
-          "body": "El reescalador ML-based FSR 4.1 de AMD llega a las GPUs RX 6000 y a las Xbox Series con poca pérdida de rendimiento.",
-          "mini_headline": "FSR 4.1 llega a GPUs más antiguas",
+          "headline": "Microsoft retira ocho acciones\nde Copilot en File Explorer",
+          "body": "Summarize, Compare Files y Extract text salen del menú de OneDrive de mediados de noviembre a inicios de diciembre.",
+          "mini_headline": "Copilot sale de File Explorer",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/FKEfLV3WiguWYAz37vRmyW-1920-80.png"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/windows-11-copilot-explorer-teaser.jpg",
+                "cap": "Microsoft elimina ocho acciones de Copilot del menú contextual de File Explorer para archivos de OneDrive en Windows 11. (Imagen simbólica)"
               },
               {
                 "t": "p",
-                "x": "El responsable de Radeon, Jack Huynh, anunció FSR 4.1 para las tarjetas Radeon RX 6000, las consolas Xbox Series X y Series S, las consolas portátiles Ryzen Z-series y los equipos con chips Ryzen AI Max y AI 9, antes de la fecha de principios de 2027 que AMD había prometido para RX 6000."
+                "x": "Al hacer clic derecho sobre un archivo de OneDrive en Windows 11, el menú contextual ofrece hoy un submenú de Copilot con ocho acciones de AI ya preparadas. Esos atajos van a desaparecer. Microsoft anunció la retirada en el Microsoft 365 Message Center con el ID MC1515940, publicado el 19 de octubre y actualizado un día después. La retirada comenzará a mediados de noviembre de 2026 (mid-November) y se espera que concluya en todo el mundo a principios de diciembre."
               },
               {
                 "t": "p",
-                "x": "AMD afirma que ajustó el modelo de red neuronal de FSR 4.1 para que funcione en hardware de sombreado INT8 en lugar de la aceleración matricial FP8 de las tarjetas Radeon 9000. La versión para consolas portátiles está aún más reducida, con menos de la mitad del tamaño de la completa."
+                "x": "La lista incluye Summarize, Create FAQ, Compare Files y Ask a question, junto con las acciones de imagen Explain image, Explain images y Compare images, además de Extract text. Microsoft quiere simplificar la forma en que se usa Copilot con los archivos de OneDrive en File Explorer, por lo que lo concentra todo en un único punto de acceso."
               },
               {
                 "t": "p",
-                "x": "AMD asegura que la calidad de imagen supera a FSR 3. En una prueba rápida de Tom's Hardware con Cyberpunk 2077 a 4K en modo FSR Balanced en una Radeon RX 6900 XT, FSR 4 costó alrededor de un 13% de rendimiento, un precio pequeño por una imagen más nítida y estable. Su mayor calidad podría permitir a los jugadores bajar al modo Performance para compensar esa pérdida."
-              },
-              {
-                "t": "video",
-                "yt": "fT6TIXnmv-s"
+                "x": "Ask Copilot se mantiene en el menú del clic derecho. Abre una nueva conversación de Copilot con el archivo adjunto y después el usuario escribe la tarea. Los archivos se adjuntan por referencia, así que sus permisos y protecciones existentes siguen vigentes. Las ocho acciones siguen disponibles en el centro de actividad de OneDrive."
               },
               {
                 "t": "p",
-                "x": "AMD también indica que FSR Frame Generation tendrá un mejor ritmo de fotogramas, que llegará compatibilidad con Vulkan para FSR 4.1 y que FSR Ray Regeneration se extenderá a más juegos, empezando por Warhammer 40,000: Darktide."
+                "x": "En abril, los botones de Copilot desaparecieron de Notepad y de Snipping Tool, y en mayo Microsoft confirmó que la tecla Copilot puede reasignarse a otras funciones. Windows Latest vincula este último cambio con las críticas continuas a las funciones de AI en Windows 11. Microsoft no establece esa relación en su aviso."
               }
             ]
           }
@@ -1259,15 +717,15 @@
       }
     },
     {
-      "id": "gadgets-llamacpp-moe-offload-8gb",
+      "id": "gadgets-timekettle-w4-offline",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "llama.cpp 플래그로\n8GB에서 35B 구동",
-      "body": "전문가 레이어를 RAM에 두면 8GB GPU도 35B 모델을 읽기보다 빨리 돌린다.",
-      "mini_headline": "8GB GPU로 35B 모델 구동",
+      "headline": "Timekettle W4에\n오프라인 언어쌍 12개",
+      "body": "W4 Pro와 W4 Plus가 Wi-Fi·데이터 없이 쓸 언어쌍 12개를 얻는다.",
+      "mini_headline": "Timekettle W4, 오프라인 언어쌍 12개 추가",
       "tool": "Gadgets",
-      "source": "XDA Developers",
-      "url": "https://www.xda-developers.com/i-stopped-thinking-my-8gb-gpu-was-too-small-after-learning-to-offload-moe-llm-layers-to-ram/",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Timekettle-expands-offline-translation-for-W4-earbuds-with-12-new-language-pairs.1429989.0.html",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
@@ -1275,257 +733,227 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/main-llama-cpp-8gb-laptop.jpg?&fit=crop&w=1600&h=900"
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/TimeKettle.png"
           },
           {
             "t": "p",
-            "x": "PC가 돌릴 수 있는 로컬 AI 모델의 한계는 VRAM이 정하는 듯 보인다. 하지만 XDA 필자는 8GB RTX 3070 Mobile GPU를 단 Lenovo Legion 5에서 거대한 모델을 쓸 만한 속도로 돌리는 우회법을 찾아냈다."
+            "x": "Timekettle 번역 이어폰이 조금 더 다국어에 가까워진다. 통역 이어폰 W4 Pro와 W4 Plus용 새 소프트웨어 업데이트로 오프라인 언어쌍 12개가 추가된다. W4 Pro는 2025년부터 판매됐고, 더 새로운 W4 Plus는 2026년 9월에 나왔다. 두 제품 모두 원래 오프라인 번역을 지원했는데, 10월 20일 업데이트로 오프라인 언어쌍이 13개에서 25개로 늘면서 12개 언어를 아우르게 됐다."
+          },
+          {
+            "t": "p",
+            "x": "새로 추가된 12개에는 아랍어, 태국어, 이탈리아어, 포르투갈어, 인도네시아어, 베트남어가 있고, 각각 영어·중국어와 양방향으로 번역된다. 기존 일본어, 스페인어, 러시아어, 한국어, 독일어, 프랑스어 등에 이 언어들이 더해진다. 온라인 번역 범위도 넓어졌다. 카자흐어와 크메르어가 새로 들어가 54개 언어, 108개 억양에 이른다."
           },
           {
             "t": "img",
-            "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/flag-image.jpg?q=49&fit=crop&w=1600&dpr=1",
-            "cap": "8GB 노트북에서 llama-bench를 돌리는 모습."
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Timekettle_Face_to_Face_Translation.jpg",
+            "cap": "Timekettle 대면 번역 (Timekettle)"
           },
           {
             "t": "p",
-            "x": "Mixture-of-Experts 모델은 가중치 가운데 일부만 활성화한다. Qwen3.6-35B-A3B는 파라미터 350억 개 가운데 약 30억 개만 활성 상태다. llama.cpp의 --n-cpu-moe N 플래그를 -ngl 99와 함께 쓰면 처음 N개 레이어의 전문가 텐서는 시스템 RAM으로 가고 어텐션 레이어·임베딩·공유 가중치·KV 캐시는 VRAM에 남는다."
-          },
-          {
-            "t": "img",
-            "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/data-benchmark-models.png?q=49&fit=crop&w=1600&dpr=1",
-            "cap": "llama-bench로 얻은 벤치마크 데이터."
+            "x": "지원 언어가 늘었다고 해서 완벽하게 알아듣는다는 뜻은 아니다. 지역 억양과 배경 소음, 현지 표현은 여전히 문제가 될 수 있고, 늘어난 번역 기능은 아직 독립 검증을 거치지 않았다. 업데이트는 W4 Pro와 W4 Plus 사용자에게 이미 배포되고 있어 새 이어폰을 살 필요는 없다."
           },
           {
             "t": "p",
-            "x": "llama-bench로 재 보니 밀집형 Qwen3.6-27B 모델은 초당 0.75토큰을 생성했다. Qwen3.6-35B-A3B는 오프로드 없이 초당 4.02토큰이었고, 전문가 레이어 28개를 RAM에 두자 32.82토큰까지 올랐다. 프롬프트 처리도 초당 109.66토큰에서 341.37토큰으로 빨라졌다."
+            "x": "아래 영상은 이번 업데이트로 오프라인 언어 지원이 넓어지기 전에 W4 Pro 번역 기능을 시연한 이전 영상이다."
           },
           {
-            "t": "img",
-            "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/28-offloaded.png?q=49&fit=contain&w=1600&dpr=1"
-          },
-          {
-            "t": "p",
-            "x": "초당 약 33토큰이면 필자가 읽는 속도보다 훨씬 빠르다. 이제 35B 모델을 노트북에 담아 비행기에서든 호텔에서든 네트워크 없이 쓸 수 있다."
+            "t": "video",
+            "yt": "SOqC9YXPsJA"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "One llama.cpp flag runs a 35B\nmodel on an 8GB laptop GPU",
-          "body": "Offloading mixture-of-experts layers to system RAM lets an 8GB laptop GPU run a 35B model faster than reading speed.",
-          "mini_headline": "35B model on an 8GB GPU",
+          "headline": "Timekettle W4 earbuds add\n12 offline language pairs",
+          "body": "An update adds 12 offline language pairs to the W4 Pro and W4 Plus for use without Wi-Fi or mobile data.",
+          "mini_headline": "Timekettle W4 gains\n12 offline pairs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/main-llama-cpp-8gb-laptop.jpg?&fit=crop&w=1600&h=900"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/TimeKettle.png"
               },
               {
                 "t": "p",
-                "x": "VRAM seems to cap which local AI models a PC can run, but XDA's writer found a workaround that lets a Lenovo Legion 5 with an 8GB RTX 3070 Mobile GPU run massive models at reasonable speeds."
+                "x": "Timekettle's translation earbuds are getting a little more multilingual. A new software update for the W4 Pro and W4 Plus interpreter earbuds adds 12 offline language pairs. The W4 Pro has been around since 2025, while the newer W4 Plus arrived in September 2026. Both already offered offline translation; the October 20 update expands the number of supported offline language pairs from 13 to 25, covering 12 languages."
+              },
+              {
+                "t": "p",
+                "x": "The 12 additions include Arabic, Thai, Italian, Portuguese, Indonesian and Vietnamese, each supporting two-way translation with English and Chinese. They join existing languages such as Japanese, Spanish, Russian, Korean, German and French. Online translation coverage also gets a boost, reaching 54 languages and 108 accents, with Kazakh and Khmer joining the list."
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/flag-image.jpg?q=49&fit=crop&w=1600&dpr=1",
-                "cap": "llama-bench running on an 8GB laptop."
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Timekettle_Face_to_Face_Translation.jpg",
+                "cap": "Timekettle face to face translation (Timekettle)"
               },
               {
                 "t": "p",
-                "x": "Mixture-of-Experts models activate only a fraction of their weights: of Qwen3.6-35B-A3B's 35 billion parameters, roughly 3 billion are active. llama.cpp's --n-cpu-moe N flag, paired with -ngl 99, keeps the expert tensors of the first N layers in system RAM while attention layers, embeddings, shared weights and the KV cache stay in VRAM."
-              },
-              {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/data-benchmark-models.png?q=49&fit=crop&w=1600&dpr=1",
-                "cap": "Benchmark data via llama-bench."
+                "x": "Supporting more languages doesn't necessarily mean understanding them perfectly. Regional accents, background noise and local expressions can still cause trouble, and the expanded translation capabilities haven't been independently tested. The update is already available to W4 Pro and W4 Plus owners, with no new earbuds required."
               },
               {
                 "t": "p",
-                "x": "In llama-bench, the dense Qwen3.6-27B generated 0.75 tokens per second. Qwen3.6-35B-A3B managed 4.02 tokens per second with no offload, and 32.82 with 28 layers of experts in RAM, while prompt processing rose from 109.66 to 341.37 tokens per second."
+                "x": "The video below shows an earlier demonstration of the W4 Pro's translation features, before the latest update expanded its offline language support."
               },
               {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/28-offloaded.png?q=49&fit=contain&w=1600&dpr=1"
-              },
-              {
-                "t": "p",
-                "x": "Roughly 33 tokens per second is much faster than the writer reads, and it means a 35B model can travel on a laptop, on a flight, in a hotel or with no network."
+                "t": "video",
+                "yt": "SOqC9YXPsJA"
               }
             ]
           }
         },
         "ko": {
-          "headline": "llama.cpp 플래그로\n8GB에서 35B 구동",
-          "body": "전문가 레이어를 RAM에 두면 8GB GPU도 35B 모델을 읽기보다 빨리 돌린다.",
-          "mini_headline": "8GB GPU로 35B 모델 구동",
+          "headline": "Timekettle W4에\n오프라인 언어쌍 12개",
+          "body": "W4 Pro와 W4 Plus가 Wi-Fi·데이터 없이 쓸 언어쌍 12개를 얻는다.",
+          "mini_headline": "Timekettle W4, 오프라인 언어쌍 12개 추가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/main-llama-cpp-8gb-laptop.jpg?&fit=crop&w=1600&h=900"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/TimeKettle.png"
               },
               {
                 "t": "p",
-                "x": "PC가 돌릴 수 있는 로컬 AI 모델의 한계는 VRAM이 정하는 듯 보인다. 하지만 XDA 필자는 8GB RTX 3070 Mobile GPU를 단 Lenovo Legion 5에서 거대한 모델을 쓸 만한 속도로 돌리는 우회법을 찾아냈다."
+                "x": "Timekettle 번역 이어폰이 조금 더 다국어에 가까워진다. 통역 이어폰 W4 Pro와 W4 Plus용 새 소프트웨어 업데이트로 오프라인 언어쌍 12개가 추가된다. W4 Pro는 2025년부터 판매됐고, 더 새로운 W4 Plus는 2026년 9월에 나왔다. 두 제품 모두 원래 오프라인 번역을 지원했는데, 10월 20일 업데이트로 오프라인 언어쌍이 13개에서 25개로 늘면서 12개 언어를 아우르게 됐다."
+              },
+              {
+                "t": "p",
+                "x": "새로 추가된 12개에는 아랍어, 태국어, 이탈리아어, 포르투갈어, 인도네시아어, 베트남어가 있고, 각각 영어·중국어와 양방향으로 번역된다. 기존 일본어, 스페인어, 러시아어, 한국어, 독일어, 프랑스어 등에 이 언어들이 더해진다. 온라인 번역 범위도 넓어졌다. 카자흐어와 크메르어가 새로 들어가 54개 언어, 108개 억양에 이른다."
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/flag-image.jpg?q=49&fit=crop&w=1600&dpr=1",
-                "cap": "8GB 노트북에서 llama-bench를 돌리는 모습."
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Timekettle_Face_to_Face_Translation.jpg",
+                "cap": "Timekettle 대면 번역 (Timekettle)"
               },
               {
                 "t": "p",
-                "x": "Mixture-of-Experts 모델은 가중치 가운데 일부만 활성화한다. Qwen3.6-35B-A3B는 파라미터 350억 개 가운데 약 30억 개만 활성 상태다. llama.cpp의 --n-cpu-moe N 플래그를 -ngl 99와 함께 쓰면 처음 N개 레이어의 전문가 텐서는 시스템 RAM으로 가고 어텐션 레이어·임베딩·공유 가중치·KV 캐시는 VRAM에 남는다."
-              },
-              {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/data-benchmark-models.png?q=49&fit=crop&w=1600&dpr=1",
-                "cap": "llama-bench로 얻은 벤치마크 데이터."
+                "x": "지원 언어가 늘었다고 해서 완벽하게 알아듣는다는 뜻은 아니다. 지역 억양과 배경 소음, 현지 표현은 여전히 문제가 될 수 있고, 늘어난 번역 기능은 아직 독립 검증을 거치지 않았다. 업데이트는 W4 Pro와 W4 Plus 사용자에게 이미 배포되고 있어 새 이어폰을 살 필요는 없다."
               },
               {
                 "t": "p",
-                "x": "llama-bench로 재 보니 밀집형 Qwen3.6-27B 모델은 초당 0.75토큰을 생성했다. Qwen3.6-35B-A3B는 오프로드 없이 초당 4.02토큰이었고, 전문가 레이어 28개를 RAM에 두자 32.82토큰까지 올랐다. 프롬프트 처리도 초당 109.66토큰에서 341.37토큰으로 빨라졌다."
+                "x": "아래 영상은 이번 업데이트로 오프라인 언어 지원이 넓어지기 전에 W4 Pro 번역 기능을 시연한 이전 영상이다."
               },
               {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/28-offloaded.png?q=49&fit=contain&w=1600&dpr=1"
-              },
-              {
-                "t": "p",
-                "x": "초당 약 33토큰이면 필자가 읽는 속도보다 훨씬 빠르다. 이제 35B 모델을 노트북에 담아 비행기에서든 호텔에서든 네트워크 없이 쓸 수 있다."
+                "t": "video",
+                "yt": "SOqC9YXPsJA"
               }
             ]
           }
         },
         "ja": {
-          "headline": "llama.cppのフラグで\n8GBでも35B モデル稼働",
-          "body": "エキスパート層をRAMへ逃がせば、8GBのGPUでも35B モデルが読むより速く動く。",
-          "mini_headline": "8GB GPUで35B モデル",
+          "headline": "Timekettle W4に\nオフライン12言語ペア",
+          "body": "更新でW4 ProとW4 PlusにWi-Fiや回線なしで使える12の言語ペアが加わる。",
+          "mini_headline": "Timekettle W4にオフライン12ペア",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/main-llama-cpp-8gb-laptop.jpg?&fit=crop&w=1600&h=900"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/TimeKettle.png"
               },
               {
                 "t": "p",
-                "x": "VRAMはPCで動かせるローカルAIモデルの上限を決めているように見えるが、XDAのライターは、8GBのRTX 3070 Mobile GPUを積んだLenovo Legion 5で巨大なモデルを実用的な速度で動かす回避策を見つけた。"
+                "x": "Timekettleの翻訳イヤホンが、もう少し多言語に対応する。通訳イヤホンW4 ProとW4 Plus向けの新しいソフトウェアアップデートで、オフラインの言語ペアが12組追加される。W4 Proは2025年から販売されており、より新しいW4 Plusは2026年9月に登場した。両機種ともすでにオフライン翻訳に対応していたが、10月20日のアップデートで対応するオフライン言語ペアは13組から25組に増え、12言語をカバーする。"
+              },
+              {
+                "t": "p",
+                "x": "追加された12組には、アラビア語、タイ語、イタリア語、ポルトガル語、インドネシア語、ベトナム語が含まれ、いずれも英語および中国語との双方向翻訳に対応する。これらは日本語、スペイン語、ロシア語、韓国語、ドイツ語、フランス語などの既存言語に加わる。オンライン翻訳の対応範囲も広がり、カザフ語とクメール語が新たに加わって54言語、108のアクセントに達した。"
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/flag-image.jpg?q=49&fit=crop&w=1600&dpr=1",
-                "cap": "8GBのノートPCで動くllama-bench。"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Timekettle_Face_to_Face_Translation.jpg",
+                "cap": "Timekettleの対面翻訳（Timekettle）"
               },
               {
                 "t": "p",
-                "x": "Mixture-of-Expertsモデルは重みの一部しか活性化しない。Qwen3.6-35B-A3Bの350億パラメータのうち、アクティブなのは約30億だ。llama.cppの--n-cpu-moe Nフラグを-ngl 99と組み合わせると、先頭N層のエキスパートテンソルをシステムRAMに置きつつ、アテンション層、埋め込み、共有重み、KVキャッシュはVRAMに残せる。"
-              },
-              {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/data-benchmark-models.png?q=49&fit=crop&w=1600&dpr=1",
-                "cap": "llama-benchによるベンチマークデータ。"
+                "x": "対応言語が増えても、完璧に理解できるとは限らない。地域のなまり、周囲の雑音、地元特有の表現は依然として問題になりうるうえ、拡張された翻訳機能はまだ独立した検証を受けていない。アップデートはすでにW4 ProとW4 Plusの所有者に提供されており、新しいイヤホンは必要ない。"
               },
               {
                 "t": "p",
-                "x": "llama-benchでは、密なQwen3.6-27B モデルが毎秒0.75トークンを生成した。Qwen3.6-35B-A3Bはオフロードなしで毎秒4.02トークン、エキスパート28層をRAMに置くと32.82トークンに達し、プロンプト処理は毎秒109.66トークンから341.37トークンに上がった。"
+                "x": "下の動画は、最新アップデートでオフライン言語対応が拡大される前に行われた、W4 Proの翻訳機能の過去のデモだ。"
               },
               {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/28-offloaded.png?q=49&fit=contain&w=1600&dpr=1"
-              },
-              {
-                "t": "p",
-                "x": "毎秒約33トークンはライターが読むよりはるかに速く、35B モデルをノートPCに入れて、飛行機でもホテルでも、ネットワークがなくても使えることを意味する。"
+                "t": "video",
+                "yt": "SOqC9YXPsJA"
               }
             ]
           }
         },
         "zh": {
-          "headline": "一个llama.cpp参数\n让8GB显卡跑35B 模型",
-          "body": "把专家层卸载到系统RAM，8GB笔记本显卡也能以快于阅读的速度运行35B 模型。",
-          "mini_headline": "8GB显卡跑35B 模型",
+          "headline": "Timekettle W4\n新增12个离线语言对",
+          "body": "更新为W4 Pro和W4 Plus新增12个无需Wi-Fi或移动数据的离线语言对。",
+          "mini_headline": "Timekettle W4新增12个离线语言对",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/main-llama-cpp-8gb-laptop.jpg?&fit=crop&w=1600&h=900"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/TimeKettle.png"
               },
               {
                 "t": "p",
-                "x": "VRAM似乎决定了一台PC能运行哪些本地AI模型，但XDA的作者找到了一个变通办法，让配备8GB RTX 3070 Mobile GPU的Lenovo Legion 5以合理速度运行大型模型。"
+                "x": "Timekettle的翻译耳机又多了一些多语种能力。W4 Pro和W4 Plus同传耳机的一次新软件更新新增了12个离线语言对。W4 Pro于2025年推出，更新的W4 Plus则在2026年9月上市。两款产品此前均已支持离线翻译；10月20日的更新将支持的离线语言对从13个扩展到25个，覆盖12种语言。"
+              },
+              {
+                "t": "p",
+                "x": "新增的12个语言对包括阿拉伯语、泰语、意大利语、葡萄牙语、印尼语和越南语，均支持与英语和中文的双向翻译。它们加入了日语、西班牙语、俄语、韩语、德语和法语等既有语言。在线翻译覆盖范围也有所扩大，新增哈萨克语和高棉语，达到54种语言和108种口音。"
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/flag-image.jpg?q=49&fit=crop&w=1600&dpr=1",
-                "cap": "在8GB笔记本上运行的llama-bench。"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Timekettle_Face_to_Face_Translation.jpg",
+                "cap": "Timekettle面对面翻译（Timekettle）"
               },
               {
                 "t": "p",
-                "x": "Mixture-of-Experts模型只激活一小部分权重：Qwen3.6-35B-A3B的350亿参数中，约30亿处于激活状态。llama.cpp的--n-cpu-moe N参数配合-ngl 99使用，会把前N层的专家张量放在系统RAM中，而注意力层、嵌入、共享权重和KV缓存则留在VRAM里。"
-              },
-              {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/data-benchmark-models.png?q=49&fit=crop&w=1600&dpr=1",
-                "cap": "来自llama-bench的基准测试数据。"
+                "x": "支持更多语言并不意味着能完美理解。地方口音、背景噪音和本地说法仍可能造成问题，而扩展后的翻译能力尚未经过独立测试。W4 Pro和W4 Plus用户现已可以获取此次更新，无需购买新耳机。"
               },
               {
                 "t": "p",
-                "x": "在llama-bench中，稠密的Qwen3.6-27B 模型每秒生成0.75个token。Qwen3.6-35B-A3B在不卸载时每秒4.02个token，把28层专家放进RAM后达到32.82个，提示词处理速度则从每秒109.66个token升至341.37个。"
+                "x": "下方视频展示的是W4 Pro翻译功能的早期演示，当时最新更新尚未扩展其离线语言支持。"
               },
               {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/28-offloaded.png?q=49&fit=contain&w=1600&dpr=1"
-              },
-              {
-                "t": "p",
-                "x": "每秒约33个token远快于作者的阅读速度，这意味着35B 模型可以装进笔记本随身携带，在飞机上、酒店里或没有网络时都能使用。"
+                "t": "video",
+                "yt": "SOqC9YXPsJA"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una opción de llama.cpp ejecuta\nun modelo 35B en una GPU de 8GB",
-          "body": "Llevar las capas de expertos a la RAM permite a una GPU portátil de 8GB correr un modelo 35B más rápido que la lectura.",
-          "mini_headline": "Un modelo 35B en una GPU de 8GB",
+          "headline": "Los auriculares Timekettle W4\nsuman 12 pares sin conexión",
+          "body": "Una actualización suma 12 pares de idiomas sin conexión al W4 Pro y al W4 Plus, sin Wi-Fi ni datos móviles.",
+          "mini_headline": "Timekettle W4 suma 12 pares sin conexión",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/main-llama-cpp-8gb-laptop.jpg?&fit=crop&w=1600&h=900"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/TimeKettle.png"
               },
               {
                 "t": "p",
-                "x": "La VRAM parece limitar qué modelos de AI locales puede ejecutar un PC, pero el redactor de XDA encontró una solución que permite a un Lenovo Legion 5 con una GPU RTX 3070 Mobile de 8GB ejecutar modelos enormes a velocidades razonables."
+                "x": "Los auriculares de traducción de Timekettle se vuelven un poco más multilingües. Una nueva actualización de software para los auriculares intérpretes W4 Pro y W4 Plus añade 12 pares de idiomas sin conexión. El W4 Pro existe desde 2025, mientras que el más reciente W4 Plus llegó en septiembre de 2026. Ambos ya ofrecían traducción sin conexión; la actualización del 20 de octubre amplía los pares de idiomas sin conexión compatibles de 13 a 25, que abarcan 12 idiomas."
+              },
+              {
+                "t": "p",
+                "x": "Las 12 incorporaciones incluyen árabe, tailandés, italiano, portugués, indonesio y vietnamita, cada uno con traducción bidireccional con inglés y chino. Se suman a idiomas ya disponibles como japonés, español, ruso, coreano, alemán y francés. La cobertura de traducción en línea también mejora y alcanza 54 idiomas y 108 acentos, con la incorporación del kazajo y el jemer."
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/flag-image.jpg?q=49&fit=crop&w=1600&dpr=1",
-                "cap": "llama-bench ejecutándose en un portátil de 8GB."
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Timekettle_Face_to_Face_Translation.jpg",
+                "cap": "Traducción cara a cara de Timekettle (Timekettle)"
               },
               {
                 "t": "p",
-                "x": "Los modelos Mixture-of-Experts activan solo una fracción de sus pesos: de los 35.000 millones de parámetros de Qwen3.6-35B-A3B, unos 3.000 millones están activos. La opción --n-cpu-moe N de llama.cpp, combinada con -ngl 99, mantiene en la RAM del sistema los tensores de expertos de las primeras N capas, mientras que las capas de atención, los embeddings, los pesos compartidos y la caché KV permanecen en la VRAM."
-              },
-              {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/data-benchmark-models.png?q=49&fit=crop&w=1600&dpr=1",
-                "cap": "Datos de rendimiento obtenidos con llama-bench."
+                "x": "Admitir más idiomas no significa necesariamente entenderlos a la perfección. Los acentos regionales, el ruido de fondo y las expresiones locales todavía pueden causar problemas, y las capacidades de traducción ampliadas no se han probado de forma independiente. La actualización ya está disponible para los propietarios de W4 Pro y W4 Plus, sin necesidad de comprar auriculares nuevos."
               },
               {
                 "t": "p",
-                "x": "En llama-bench, el modelo denso Qwen3.6-27B generó 0,75 tokens por segundo. Qwen3.6-35B-A3B logró 4,02 tokens por segundo sin descarga y 32,82 con 28 capas de expertos en la RAM, mientras que el procesamiento de prompts pasó de 109,66 a 341,37 tokens por segundo."
+                "x": "El siguiente video muestra una demostración anterior de las funciones de traducción del W4 Pro, antes de que la última actualización ampliara su compatibilidad con idiomas sin conexión."
               },
               {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/28-offloaded.png?q=49&fit=contain&w=1600&dpr=1"
-              },
-              {
-                "t": "p",
-                "x": "Unos 33 tokens por segundo es mucho más rápido de lo que lee el redactor, y significa que un modelo 35B puede viajar en un portátil, en un vuelo, en un hotel o sin conexión."
+                "t": "video",
+                "yt": "SOqC9YXPsJA"
               }
             ]
           }
@@ -1533,177 +961,157 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "llama.cpp 플래그로\n8GB에서 35B 구동",
-          "body": "전문가 레이어를 RAM에 두면 8GB GPU도 35B 모델을 읽기보다 빨리 돌린다.",
-          "mini_headline": "8GB GPU로 35B 모델 구동",
+          "headline": "Timekettle W4에\n오프라인 언어쌍 12개",
+          "body": "W4 Pro와 W4 Plus가 Wi-Fi·데이터 없이 쓸 언어쌍 12개를 얻는다.",
+          "mini_headline": "Timekettle W4, 오프라인 언어쌍 12개 추가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/main-llama-cpp-8gb-laptop.jpg?&fit=crop&w=1600&h=900"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/TimeKettle.png"
               },
               {
                 "t": "p",
-                "x": "VRAM은 PC가 돌릴 수 있는 로컬 AI 모델의 한계를 정하는 듯 보이지만, XDA의 필자는 8GB RTX 3070 Mobile GPU를 단 Lenovo Legion 5에서 거대한 모델을 적당한 속도로 돌리는 우회법을 찾아냈다."
+                "x": "Timekettle의 번역 이어폰이 조금 더 다국어에 가까워진다. 통역 이어폰 W4 Pro와 W4 Plus용 새 소프트웨어 업데이트가 오프라인 언어쌍 12개를 추가한다. W4 Pro는 2025년부터 나와 있었고, 더 새로운 W4 Plus는 2026년 9월에 출시됐다. 두 제품 모두 이미 오프라인 번역을 지원했으며, 10월 20일 업데이트로 지원 오프라인 언어쌍이 13개에서 25개로 늘어 12개 언어를 아우른다."
+              },
+              {
+                "t": "p",
+                "x": "추가된 12개에는 아랍어, 태국어, 이탈리아어, 포르투갈어, 인도네시아어, 베트남어가 포함되며, 각각 영어·중국어와 양방향 번역을 지원한다. 이들은 일본어, 스페인어, 러시아어, 한국어, 독일어, 프랑스어 등 기존 언어에 합류한다. 온라인 번역 범위도 넓어져 카자흐어와 크메르어가 새로 더해지며 54개 언어, 108개 억양에 이른다."
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/flag-image.jpg?q=49&fit=crop&w=1600&dpr=1",
-                "cap": "8GB 노트북에서 돌아가는 llama-bench."
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Timekettle_Face_to_Face_Translation.jpg",
+                "cap": "Timekettle 대면 번역 (Timekettle)"
               },
               {
                 "t": "p",
-                "x": "Mixture-of-Experts 모델은 가중치의 일부만 활성화한다. Qwen3.6-35B-A3B의 파라미터 350억 개 가운데 활성 상태인 것은 약 30억 개다. llama.cpp의 --n-cpu-moe N 플래그를 -ngl 99와 함께 쓰면 처음 N개 레이어의 전문가 텐서는 시스템 RAM에 두고, 어텐션 레이어·임베딩·공유 가중치·KV 캐시는 VRAM에 남긴다."
-              },
-              {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/data-benchmark-models.png?q=49&fit=crop&w=1600&dpr=1",
-                "cap": "llama-bench로 얻은 벤치마크 데이터."
+                "x": "지원 언어가 늘었다고 해서 완벽하게 이해한다는 뜻은 아니다. 지역 억양, 배경 소음, 현지 표현은 여전히 문제를 일으킬 수 있고, 확장된 번역 기능은 아직 독립적으로 검증되지 않았다. 업데이트는 이미 W4 Pro와 W4 Plus 사용자에게 제공되고 있으며, 새 이어폰을 살 필요는 없다."
               },
               {
                 "t": "p",
-                "x": "llama-bench에서 밀집형 Qwen3.6-27B 모델은 초당 0.75토큰을 생성했다. Qwen3.6-35B-A3B는 오프로드 없이 초당 4.02토큰, 전문가 레이어 28개를 RAM에 두자 32.82토큰을 냈고, 프롬프트 처리 속도는 초당 109.66토큰에서 341.37토큰으로 올랐다."
+                "x": "아래 영상은 최신 업데이트로 오프라인 언어 지원이 확대되기 전, W4 Pro의 번역 기능을 시연한 이전 영상이다."
               },
               {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/28-offloaded.png?q=49&fit=contain&w=1600&dpr=1"
-              },
-              {
-                "t": "p",
-                "x": "초당 약 33토큰은 필자가 읽는 속도보다 훨씬 빠르다. 35B 모델을 노트북에 담아 비행기에서도, 호텔에서도, 네트워크가 없어도 쓸 수 있다는 뜻이다."
+                "t": "video",
+                "yt": "SOqC9YXPsJA"
               }
             ]
           }
         },
         "ja": {
-          "headline": "llama.cppのフラグで\n8GBでも35B モデル稼働",
-          "body": "エキスパート層をRAMへ逃がせば、8GBのGPUでも35B モデルが読むより速く動く。",
-          "mini_headline": "8GB GPUで35B モデル",
+          "headline": "Timekettle W4に\nオフライン12言語ペア",
+          "body": "更新でW4 ProとW4 PlusにWi-Fiや回線なしで使える12の言語ペアが加わる。",
+          "mini_headline": "Timekettle W4にオフライン12ペア",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/main-llama-cpp-8gb-laptop.jpg?&fit=crop&w=1600&h=900"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/TimeKettle.png"
               },
               {
                 "t": "p",
-                "x": "VRAMはPCで動かせるローカルAIモデルの上限を決めているように見えるが、XDAのライターは、8GBのRTX 3070 Mobile GPUを積んだLenovo Legion 5で巨大なモデルを実用的な速度で動かす回避策を見つけた。"
+                "x": "Timekettleの翻訳イヤホンが、もう少し多言語に対応する。通訳イヤホンW4 ProとW4 Plus向けの新しいソフトウェアアップデートで、オフラインの言語ペアが12組追加される。W4 Proは2025年から販売されており、より新しいW4 Plusは2026年9月に登場した。両機種ともすでにオフライン翻訳に対応していたが、10月20日のアップデートで対応するオフライン言語ペアは13組から25組に増え、12言語をカバーする。"
+              },
+              {
+                "t": "p",
+                "x": "追加された12組には、アラビア語、タイ語、イタリア語、ポルトガル語、インドネシア語、ベトナム語が含まれ、いずれも英語および中国語との双方向翻訳に対応する。これらは日本語、スペイン語、ロシア語、韓国語、ドイツ語、フランス語などの既存言語に加わる。オンライン翻訳の対応範囲も広がり、カザフ語とクメール語が新たに加わって54言語、108のアクセントに達した。"
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/flag-image.jpg?q=49&fit=crop&w=1600&dpr=1",
-                "cap": "8GBのノートPCで動くllama-bench。"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Timekettle_Face_to_Face_Translation.jpg",
+                "cap": "Timekettleの対面翻訳（Timekettle）"
               },
               {
                 "t": "p",
-                "x": "Mixture-of-Expertsモデルは重みの一部しか活性化しない。Qwen3.6-35B-A3Bの350億パラメータのうち、アクティブなのは約30億だ。llama.cppの--n-cpu-moe Nフラグを-ngl 99と組み合わせると、先頭N層のエキスパートテンソルをシステムRAMに置きつつ、アテンション層、埋め込み、共有重み、KVキャッシュはVRAMに残せる。"
-              },
-              {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/data-benchmark-models.png?q=49&fit=crop&w=1600&dpr=1",
-                "cap": "llama-benchによるベンチマークデータ。"
+                "x": "対応言語が増えても、完璧に理解できるとは限らない。地域のなまり、周囲の雑音、地元特有の表現は依然として問題になりうるうえ、拡張された翻訳機能はまだ独立した検証を受けていない。アップデートはすでにW4 ProとW4 Plusの所有者に提供されており、新しいイヤホンは必要ない。"
               },
               {
                 "t": "p",
-                "x": "llama-benchでは、密なQwen3.6-27B モデルが毎秒0.75トークンを生成した。Qwen3.6-35B-A3Bはオフロードなしで毎秒4.02トークン、エキスパート28層をRAMに置くと32.82トークンに達し、プロンプト処理は毎秒109.66トークンから341.37トークンに上がった。"
+                "x": "下の動画は、最新アップデートでオフライン言語対応が拡大される前に行われた、W4 Proの翻訳機能の過去のデモだ。"
               },
               {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/28-offloaded.png?q=49&fit=contain&w=1600&dpr=1"
-              },
-              {
-                "t": "p",
-                "x": "毎秒約33トークンはライターが読むよりはるかに速く、35B モデルをノートPCに入れて、飛行機でもホテルでも、ネットワークがなくても使えることを意味する。"
+                "t": "video",
+                "yt": "SOqC9YXPsJA"
               }
             ]
           }
         },
         "zh": {
-          "headline": "一个llama.cpp参数\n让8GB显卡跑35B 模型",
-          "body": "把专家层卸载到系统RAM，8GB笔记本显卡也能以快于阅读的速度运行35B 模型。",
-          "mini_headline": "8GB显卡跑35B 模型",
+          "headline": "Timekettle W4\n新增12个离线语言对",
+          "body": "更新为W4 Pro和W4 Plus新增12个无需Wi-Fi或移动数据的离线语言对。",
+          "mini_headline": "Timekettle W4新增12个离线语言对",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/main-llama-cpp-8gb-laptop.jpg?&fit=crop&w=1600&h=900"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/TimeKettle.png"
               },
               {
                 "t": "p",
-                "x": "VRAM似乎决定了一台PC能运行哪些本地AI模型，但XDA的作者找到了一个变通办法，让配备8GB RTX 3070 Mobile GPU的Lenovo Legion 5以合理速度运行大型模型。"
+                "x": "Timekettle的翻译耳机又多了一些多语种能力。W4 Pro和W4 Plus同传耳机的一次新软件更新新增了12个离线语言对。W4 Pro于2025年推出，更新的W4 Plus则在2026年9月上市。两款产品此前均已支持离线翻译；10月20日的更新将支持的离线语言对从13个扩展到25个，覆盖12种语言。"
+              },
+              {
+                "t": "p",
+                "x": "新增的12个语言对包括阿拉伯语、泰语、意大利语、葡萄牙语、印尼语和越南语，均支持与英语和中文的双向翻译。它们加入了日语、西班牙语、俄语、韩语、德语和法语等既有语言。在线翻译覆盖范围也有所扩大，新增哈萨克语和高棉语，达到54种语言和108种口音。"
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/flag-image.jpg?q=49&fit=crop&w=1600&dpr=1",
-                "cap": "在8GB笔记本上运行的llama-bench。"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Timekettle_Face_to_Face_Translation.jpg",
+                "cap": "Timekettle面对面翻译（Timekettle）"
               },
               {
                 "t": "p",
-                "x": "Mixture-of-Experts模型只激活一小部分权重：Qwen3.6-35B-A3B的350亿参数中，约30亿处于激活状态。llama.cpp的--n-cpu-moe N参数配合-ngl 99使用，会把前N层的专家张量放在系统RAM中，而注意力层、嵌入、共享权重和KV缓存则留在VRAM里。"
-              },
-              {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/data-benchmark-models.png?q=49&fit=crop&w=1600&dpr=1",
-                "cap": "来自llama-bench的基准测试数据。"
+                "x": "支持更多语言并不意味着能完美理解。地方口音、背景噪音和本地说法仍可能造成问题，而扩展后的翻译能力尚未经过独立测试。W4 Pro和W4 Plus用户现已可以获取此次更新，无需购买新耳机。"
               },
               {
                 "t": "p",
-                "x": "在llama-bench中，稠密的Qwen3.6-27B 模型每秒生成0.75个token。Qwen3.6-35B-A3B在不卸载时每秒4.02个token，把28层专家放进RAM后达到32.82个，提示词处理速度则从每秒109.66个token升至341.37个。"
+                "x": "下方视频展示的是W4 Pro翻译功能的早期演示，当时最新更新尚未扩展其离线语言支持。"
               },
               {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/28-offloaded.png?q=49&fit=contain&w=1600&dpr=1"
-              },
-              {
-                "t": "p",
-                "x": "每秒约33个token远快于作者的阅读速度，这意味着35B 模型可以装进笔记本随身携带，在飞机上、酒店里或没有网络时都能使用。"
+                "t": "video",
+                "yt": "SOqC9YXPsJA"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una opción de llama.cpp ejecuta\nun modelo 35B en una GPU de 8GB",
-          "body": "Llevar las capas de expertos a la RAM permite a una GPU portátil de 8GB correr un modelo 35B más rápido que la lectura.",
-          "mini_headline": "Un modelo 35B en una GPU de 8GB",
+          "headline": "Los auriculares Timekettle W4\nsuman 12 pares sin conexión",
+          "body": "Una actualización suma 12 pares de idiomas sin conexión al W4 Pro y al W4 Plus, sin Wi-Fi ni datos móviles.",
+          "mini_headline": "Timekettle W4 suma 12 pares sin conexión",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/main-llama-cpp-8gb-laptop.jpg?&fit=crop&w=1600&h=900"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/TimeKettle.png"
               },
               {
                 "t": "p",
-                "x": "La VRAM parece limitar qué modelos de AI locales puede ejecutar un PC, pero el redactor de XDA encontró una solución que permite a un Lenovo Legion 5 con una GPU RTX 3070 Mobile de 8GB ejecutar modelos enormes a velocidades razonables."
+                "x": "Los auriculares de traducción de Timekettle se vuelven un poco más multilingües. Una nueva actualización de software para los auriculares intérpretes W4 Pro y W4 Plus añade 12 pares de idiomas sin conexión. El W4 Pro existe desde 2025, mientras que el más reciente W4 Plus llegó en septiembre de 2026. Ambos ya ofrecían traducción sin conexión; la actualización del 20 de octubre amplía los pares de idiomas sin conexión compatibles de 13 a 25, que abarcan 12 idiomas."
+              },
+              {
+                "t": "p",
+                "x": "Las 12 incorporaciones incluyen árabe, tailandés, italiano, portugués, indonesio y vietnamita, cada uno con traducción bidireccional con inglés y chino. Se suman a idiomas ya disponibles como japonés, español, ruso, coreano, alemán y francés. La cobertura de traducción en línea también mejora y alcanza 54 idiomas y 108 acentos, con la incorporación del kazajo y el jemer."
               },
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/flag-image.jpg?q=49&fit=crop&w=1600&dpr=1",
-                "cap": "llama-bench ejecutándose en un portátil de 8GB."
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Timekettle_Face_to_Face_Translation.jpg",
+                "cap": "Traducción cara a cara de Timekettle (Timekettle)"
               },
               {
                 "t": "p",
-                "x": "Los modelos Mixture-of-Experts activan solo una fracción de sus pesos: de los 35.000 millones de parámetros de Qwen3.6-35B-A3B, unos 3.000 millones están activos. La opción --n-cpu-moe N de llama.cpp, combinada con -ngl 99, mantiene en la RAM del sistema los tensores de expertos de las primeras N capas, mientras que las capas de atención, los embeddings, los pesos compartidos y la caché KV permanecen en la VRAM."
-              },
-              {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/data-benchmark-models.png?q=49&fit=crop&w=1600&dpr=1",
-                "cap": "Datos de rendimiento obtenidos con llama-bench."
+                "x": "Admitir más idiomas no significa necesariamente entenderlos a la perfección. Los acentos regionales, el ruido de fondo y las expresiones locales todavía pueden causar problemas, y las capacidades de traducción ampliadas no se han probado de forma independiente. La actualización ya está disponible para los propietarios de W4 Pro y W4 Plus, sin necesidad de comprar auriculares nuevos."
               },
               {
                 "t": "p",
-                "x": "En llama-bench, el modelo denso Qwen3.6-27B generó 0,75 tokens por segundo. Qwen3.6-35B-A3B logró 4,02 tokens por segundo sin descarga y 32,82 con 28 capas de expertos en la RAM, mientras que el procesamiento de prompts pasó de 109,66 a 341,37 tokens por segundo."
+                "x": "El siguiente video muestra una demostración anterior de las funciones de traducción del W4 Pro, antes de que la última actualización ampliara su compatibilidad con idiomas sin conexión."
               },
               {
-                "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/28-offloaded.png?q=49&fit=contain&w=1600&dpr=1"
-              },
-              {
-                "t": "p",
-                "x": "Unos 33 tokens por segundo es mucho más rápido de lo que lee el redactor, y significa que un modelo 35B puede viajar en un portátil, en un vuelo, en un hotel o sin conexión."
+                "t": "video",
+                "yt": "SOqC9YXPsJA"
               }
             ]
           }
@@ -1711,15 +1119,15 @@
       }
     },
     {
-      "id": "gadgets-birdbuddy-nook",
+      "id": "gadgets-be-my-ai-study",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Birdbuddy Nook\n작고 싸진 스마트 모이통",
-      "body": "Nook은 2K 카메라와 AI 종 식별을 갖춘 작고 싼 입문용 모이통이다.",
-      "mini_headline": "더 작아진 Birdbuddy Nook",
+      "headline": "AI는 사진을 설명해도\n시각장애인의 요구는 놓친다",
+      "body": "메릴랜드대 연구에서 Be My AI는 시각장애인에게 핵심 대신 긴 답을 자주 줬다.",
+      "mini_headline": "Be My AI, 핵심을 놓치다",
       "tool": "Gadgets",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1015659/birdbuddy-smart-bird-feeder-2k-camera-home-nook-ai-identification",
+      "source": "Digital Trends",
+      "url": "https://www.digitaltrends.com/cool-tech/ai-apps-blind-users-umd-study/",
       "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
@@ -1727,227 +1135,263 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/birdbuddy1.jpg?quality=90&strip=all&w=1200"
+            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Blind-Man-using-walking-stick.jpg?resize=1200%2C720&ssl=1",
+            "cap": "Eren Li / Pexels"
           },
           {
             "t": "p",
-            "x": "Birdbuddy가 CES 2026에서 공개한 스마트 모이통을 이름을 바꿔 내놓는다. Birdbuddy 2 Mini는 Birdbuddy Nook이 됐다. 회사가 \"지금까지 가장 접근하기 쉬운 스마트 모이통\"이라 부르는, 더 작고 싼 모델이다. 플래그십 Birdbuddy 2의 새 이름은 Birdbuddy Home이다. 둘 다 Birdbuddy 온라인 스토어에서 판다."
+            "x": "University of Maryland(UMD) 연구진은 AI 기반(AI-powered) 시각 보조 기능이 시각장애인 사용자에게 정작 필요한 정보를 얻기까지 지나치게 많은 수고를 떠넘길 수 있다고 확인했다. 연구 제목은 ‘Say It My Way: Exploring Control in Conversational Visual Question Answering with Blind Users’다. 연구진은 Be My Eyes 앱의 AI 기반 기능인 Be My AI를 사람들이 어떻게 쓰는지 살폈다."
           },
           {
             "t": "p",
-            "x": "Nook은 99달러부터다. 새로 디자인한 원형 2K HDR 카메라는 시야각이 135도이고, 새가 앉으면 깨어나 가로나 세로로 찍는다. 찾아온 새의 종은 AI-powered Birdbuddy 앱이 정확히 알아낸다."
+            "x": "연구진은 시각장애인 참가자 11명을 모았다. 참가자들은 실험실에서 먼저 Be My AI를 써 본 뒤 10일 동안 일상에서 사용했고, 연구팀은 상호작용 418건을 분석했다."
           },
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Birdbuddy-Nook-Solar.jpg?quality=90&strip=all&w=1200"
+            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Example-interaction-consisting-of-five-conversational-turns-with-word-count-for-each-turn.jpg?resize=1800%2C1080&ssl=1",
+            "cap": "University of Maryland"
           },
           {
             "t": "p",
-            "x": "Nook에는 모이가 3.8컵 들어간다. 159달러짜리 Nook Solar는 지붕에 태양광 패널을 얹었고, 199달러짜리 Nook Extended Edition은 횃대가 더 크다."
+            "x": "참가자 질문은 보통 10~20단어 안팎이었지만 AI 답변은 10배 이상 길었다. 대화는 평균 세 차례 오갔고, 길게는 21회까지 이어졌다. 열쇠를 찾던 한 참가자는 잃어버린 물건에 초점을 맞춘 답 대신 이미지를 길게 묘사한 답을 받았다. 참가자 절반 이상은 앱이 이미지 전체 묘사부터 꺼내는 습관을 심각한 문제로 꼽았다."
+          },
+          {
+            "t": "p",
+            "x": "질문하는 이유를 설명한 참가자도 있었고, 복잡한 작업을 작은 질문 여러 개로 나눈 참가자도 있었다."
           },
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/birdbuddy3.jpg?quality=90&strip=all&w=1200",
-            "cap": "Birdbuddy Home에는 배터리 수명을 늘리도록 지붕에 태양광 패널 두 개가 기본으로 달려 있다."
+            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Be-My-AI-in-a-laboratory-testing.jpg?resize=1800%2C1080&ssl=1",
+            "cap": "University of Maryland"
           },
           {
             "t": "p",
-            "x": "219달러인 Home은 같은 카메라를 더 크고 손이 덜 가는 모이통에 넣었다. 여섯 컵들이 저장통, 태양광 패널 두 개, 내장 횃대 연장대, 듀얼 밴드 Wi-Fi에 새소리로 종을 가려내도록 돕는 개선된 마이크까지 갖췄다."
+            "x": "거리와 시간에 따른 변화를 가늠하기 어렵다는 점, 접근하기 어려운 이미지 구도, 카메라 위치 안내 부족도 연구에서 드러났다. 연구진은 시각장애인 사용자가 간단한 답 하나를 얻으려고 복잡한 프롬프트까지 익혀야 해서는 안 된다고 주장한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Birdbuddy's Nook shrinks the\nsmart bird feeder and its price",
-          "body": "Birdbuddy's Nook is a smaller, cheaper feeder with a 2K camera and AI species identification for novice bird-watchers.",
-          "mini_headline": "Birdbuddy's smaller Nook feeder",
+          "headline": "AI can describe a picture but\nmisses what blind users need",
+          "body": "A University of Maryland study finds Be My AI often gives blind users long answers, not the specific facts they need.",
+          "mini_headline": "Be My AI misses the point",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/birdbuddy1.jpg?quality=90&strip=all&w=1200"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Blind-Man-using-walking-stick.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Eren Li / Pexels"
               },
               {
                 "t": "p",
-                "x": "Birdbuddy is launching the smart feeders it announced at CES 2026 under new names. The Birdbuddy 2 Mini is now the Birdbuddy Nook, a smaller, more affordable model the company calls its \"most accessible smart bird feeder yet,\" and the flagship Birdbuddy 2 is now the Birdbuddy Home. Both are available on Birdbuddy's online store."
+                "x": "Researchers at the University of Maryland (UMD) have found that AI-powered visual assistance can leave blind users doing too much work to get the information they actually need. The study, titled Say It My Way: Exploring Control in Conversational Visual Question Answering with Blind Users, examined how people interact with Be My AI, an AI-powered feature of the Be My Eyes app."
               },
               {
                 "t": "p",
-                "x": "The Nook starts at $99 with a redesigned circular 2K HDR camera with a 135-degree field of view that wakes when a bird lands and shoots in landscape or portrait. The AI-powered Birdbuddy app identifies exactly what species is visiting."
+                "x": "The researchers recruited 11 blind participants, who first tested Be My AI in a laboratory before using it in their daily lives for 10 days. The team analyzed 418 interactions."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Birdbuddy-Nook-Solar.jpg?quality=90&strip=all&w=1200"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Example-interaction-consisting-of-five-conversational-turns-with-word-count-for-each-turn.jpg?resize=1800%2C1080&ssl=1",
+                "cap": "University of Maryland"
               },
               {
                 "t": "p",
-                "x": "The Nook holds 3.8 cups of seed. The $159 Nook Solar adds a roof solar panel, and the $199 Nook Extended Edition adds a larger perch."
+                "x": "Participants typically asked questions of around 10 to 20 words, while the AI’s responses were more than 10 times longer. Conversations averaged three turns, but some stretched to 21 exchanges. A participant looking for her keys received a lengthy description of the image instead of a response focused on the missing item. More than half the participants considered the app’s habit of starting with a full image description a significant problem."
+              },
+              {
+                "t": "p",
+                "x": "Some participants explained why they were asking a question; others broke complicated tasks into smaller questions."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/birdbuddy3.jpg?quality=90&strip=all&w=1200",
-                "cap": "The Birdbuddy Home comes standard with two solar panels on the roof to help extend battery life."
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Be-My-AI-in-a-laboratory-testing.jpg?resize=1800%2C1080&ssl=1",
+                "cap": "University of Maryland"
               },
               {
                 "t": "p",
-                "x": "The $219 Home uses the same camera in a larger, lower-maintenance feeder with a six-cup reservoir, two solar panels, a built-in perch extender, dual-band Wi-Fi and an upgraded mic that helps the app identify species by birdsong."
+                "x": "The study also exposed difficulty estimating distances and changes over time, inaccessible image framing, and limited guidance on camera positioning. The researchers argue that blind users shouldn’t have to master complex prompts to get simple answers."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Birdbuddy Nook\n작고 싸진 스마트 모이통",
-          "body": "Nook은 2K 카메라와 AI 종 식별을 갖춘 작고 싼 입문용 모이통이다.",
-          "mini_headline": "더 작아진 Birdbuddy Nook",
+          "headline": "AI는 사진을 설명해도\n시각장애인의 요구는 놓친다",
+          "body": "메릴랜드대 연구에서 Be My AI는 시각장애인에게 핵심 대신 긴 답을 자주 줬다.",
+          "mini_headline": "Be My AI, 핵심을 놓치다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/birdbuddy1.jpg?quality=90&strip=all&w=1200"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Blind-Man-using-walking-stick.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Eren Li / Pexels"
               },
               {
                 "t": "p",
-                "x": "Birdbuddy가 CES 2026에서 공개한 스마트 모이통을 이름을 바꿔 내놓는다. Birdbuddy 2 Mini는 Birdbuddy Nook이 됐다. 회사가 \"지금까지 가장 접근하기 쉬운 스마트 모이통\"이라 부르는, 더 작고 싼 모델이다. 플래그십 Birdbuddy 2의 새 이름은 Birdbuddy Home이다. 둘 다 Birdbuddy 온라인 스토어에서 판다."
+                "x": "University of Maryland(UMD) 연구진은 AI 기반(AI-powered) 시각 보조 기능이 시각장애인 사용자에게 정작 필요한 정보를 얻기까지 지나치게 많은 수고를 떠넘길 수 있다고 확인했다. 연구 제목은 ‘Say It My Way: Exploring Control in Conversational Visual Question Answering with Blind Users’다. 연구진은 Be My Eyes 앱의 AI 기반 기능인 Be My AI를 사람들이 어떻게 쓰는지 살폈다."
               },
               {
                 "t": "p",
-                "x": "Nook은 99달러부터다. 새로 디자인한 원형 2K HDR 카메라는 시야각이 135도이고, 새가 앉으면 깨어나 가로나 세로로 찍는다. 찾아온 새의 종은 AI-powered Birdbuddy 앱이 정확히 알아낸다."
+                "x": "연구진은 시각장애인 참가자 11명을 모았다. 참가자들은 실험실에서 먼저 Be My AI를 써 본 뒤 10일 동안 일상에서 사용했고, 연구팀은 상호작용 418건을 분석했다."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Birdbuddy-Nook-Solar.jpg?quality=90&strip=all&w=1200"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Example-interaction-consisting-of-five-conversational-turns-with-word-count-for-each-turn.jpg?resize=1800%2C1080&ssl=1",
+                "cap": "University of Maryland"
               },
               {
                 "t": "p",
-                "x": "Nook에는 모이가 3.8컵 들어간다. 159달러짜리 Nook Solar는 지붕에 태양광 패널을 얹었고, 199달러짜리 Nook Extended Edition은 횃대가 더 크다."
+                "x": "참가자 질문은 보통 10~20단어 안팎이었지만 AI 답변은 10배 이상 길었다. 대화는 평균 세 차례 오갔고, 길게는 21회까지 이어졌다. 열쇠를 찾던 한 참가자는 잃어버린 물건에 초점을 맞춘 답 대신 이미지를 길게 묘사한 답을 받았다. 참가자 절반 이상은 앱이 이미지 전체 묘사부터 꺼내는 습관을 심각한 문제로 꼽았다."
+              },
+              {
+                "t": "p",
+                "x": "질문하는 이유를 설명한 참가자도 있었고, 복잡한 작업을 작은 질문 여러 개로 나눈 참가자도 있었다."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/birdbuddy3.jpg?quality=90&strip=all&w=1200",
-                "cap": "Birdbuddy Home에는 배터리 수명을 늘리도록 지붕에 태양광 패널 두 개가 기본으로 달려 있다."
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Be-My-AI-in-a-laboratory-testing.jpg?resize=1800%2C1080&ssl=1",
+                "cap": "University of Maryland"
               },
               {
                 "t": "p",
-                "x": "219달러인 Home은 같은 카메라를 더 크고 손이 덜 가는 모이통에 넣었다. 여섯 컵들이 저장통, 태양광 패널 두 개, 내장 횃대 연장대, 듀얼 밴드 Wi-Fi에 새소리로 종을 가려내도록 돕는 개선된 마이크까지 갖췄다."
+                "x": "거리와 시간에 따른 변화를 가늠하기 어렵다는 점, 접근하기 어려운 이미지 구도, 카메라 위치 안내 부족도 연구에서 드러났다. 연구진은 시각장애인 사용자가 간단한 답 하나를 얻으려고 복잡한 프롬프트까지 익혀야 해서는 안 된다고 주장한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "BirdbuddyのNook\n小さく安いスマート餌台",
-          "body": "Nookは、2K カメラとAI種判定を備えた初心者向けの小型・低価格餌台だ。",
-          "mini_headline": "Birdbuddyの小型餌台Nook",
+          "headline": "AIは画像を説明できても\n視覚障害者の求める情報を逃す",
+          "body": "メリーランド大の研究で、Be My AIは視覚障害者に長い答えばかり返すと分かった。",
+          "mini_headline": "Be My AIは要点を外す",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/birdbuddy1.jpg?quality=90&strip=all&w=1200"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Blind-Man-using-walking-stick.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Eren Li / Pexels"
               },
               {
                 "t": "p",
-                "x": "Birdbuddyは、CES 2026で発表したスマート餌台を新しい名前で発売する。Birdbuddy 2 MiniはBirdbuddy Nookとなり、同社が「これまでで最も手に取りやすいスマート餌台」と呼ぶ、より小さく手頃なモデルになった。フラッグシップのBirdbuddy 2はBirdbuddy Homeとなった。どちらもBirdbuddyのオンラインストアで購入できる。"
+                "x": "University of Maryland（UMD）の研究者らは、AIを活用した（AI-powered）視覚支援が、視覚障害のあるユーザーに、本当に必要な情報を得るまで過大な手間を強いる場合があることを明らかにした。「Say It My Way: Exploring Control in Conversational Visual Question Answering with Blind Users」と題したこの研究は、Be My EyesアプリのAI機能であるBe My AIを人々がどう使うかを調べた。"
               },
               {
                 "t": "p",
-                "x": "Nookは99ドルからで、刷新された円形の2K HDRカメラは135度の視野角を持ち、鳥が止まると起動して横向きでも縦向きでも撮影する。AI-poweredのBirdbuddyアプリが、訪れた鳥の種類を正確に特定する。"
+                "x": "研究チームは視覚障害のある参加者11人を募り、まず実験室でBe My AIを試してもらった後、10日間日常生活で使ってもらった。チームは418件のやり取りを分析した。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Birdbuddy-Nook-Solar.jpg?quality=90&strip=all&w=1200"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Example-interaction-consisting-of-five-conversational-turns-with-word-count-for-each-turn.jpg?resize=1800%2C1080&ssl=1",
+                "cap": "University of Maryland"
               },
               {
                 "t": "p",
-                "x": "Nookには3.8カップ分の種が入る。159ドルのNook Solarは屋根にソーラーパネルを加え、199ドルのNook Extended Editionはより大きな止まり木を備える。"
+                "x": "参加者の質問は通常10〜20語程度だったが、AIの回答はその10倍以上の長さだった。会話は平均三往復だったが、21回に及ぶものもあった。鍵を探していたある参加者は、なくした物に焦点を当てた答えではなく、画像の長い説明を受け取った。参加者の半数以上が、アプリがまず画像全体の説明から始める癖を大きな問題だと考えていた。"
+              },
+              {
+                "t": "p",
+                "x": "質問の理由を説明する参加者もいれば、複雑なタスクを小さな質問に分ける参加者もいた。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/birdbuddy3.jpg?quality=90&strip=all&w=1200",
-                "cap": "Birdbuddy Homeは、バッテリー持続時間を延ばすため屋根に二枚のソーラーパネルを標準装備する。"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Be-My-AI-in-a-laboratory-testing.jpg?resize=1800%2C1080&ssl=1",
+                "cap": "University of Maryland"
               },
               {
                 "t": "p",
-                "x": "219ドルのHomeは同じカメラを、より大きく手入れの手間が少ない餌台に搭載した。六カップ分の容器、二枚のソーラーパネル、内蔵の止まり木延長パーツ、デュアルバンドWi-Fi、さえずりから種の特定を助ける改良マイクを備える。"
+                "x": "研究では、距離や時間による変化の推定が難しいこと、アクセスしにくい画像の構図、カメラの位置に関する案内の乏しさも明らかになった。研究者らは、視覚障害のあるユーザーが簡単な答えを得るために複雑なプロンプトを使いこなす必要があってはならないと主張している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Birdbuddy Nook\n智能喂鸟器变小变便宜",
-          "body": "Birdbuddy Nook更小更便宜，配2K 摄像头与AI物种识别，适合新手观鸟。",
-          "mini_headline": "Birdbuddy更小的Nook喂鸟器",
+          "headline": "AI能描述图片\n却给不了盲人所需",
+          "body": "马里兰大学研究发现，Be My AI常给盲人用户冗长回答，而非所需的具体信息。",
+          "mini_headline": "Be My AI抓不住重点",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/birdbuddy1.jpg?quality=90&strip=all&w=1200"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Blind-Man-using-walking-stick.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Eren Li / Pexels"
               },
               {
                 "t": "p",
-                "x": "Birdbuddy正以新名称推出其在CES 2026上发布的智能喂鸟器。Birdbuddy 2 Mini更名为Birdbuddy Nook，这款更小、更实惠的型号被公司称为“迄今最易入手的智能喂鸟器”；旗舰款Birdbuddy 2则更名为Birdbuddy Home。两款产品均已在Birdbuddy官网商店上架。"
+                "x": "University of Maryland（UMD）的研究人员发现，AI驱动（AI-powered）的视觉辅助工具可能让盲人用户为获取真正需要的信息付出过多努力。这项题为《Say It My Way: Exploring Control in Conversational Visual Question Answering with Blind Users》的研究，考察了人们如何使用Be My Eyes应用中的AI功能Be My AI。"
               },
               {
                 "t": "p",
-                "x": "Nook起售价99美元，配备重新设计的圆形2K HDR摄像头，视野135度，鸟儿落下时自动唤醒，可横拍或竖拍。AI-powered的Birdbuddy应用能准确识别来访的鸟类品种。"
+                "x": "研究人员招募了11名盲人参与者，他们先在实验室测试Be My AI，随后在日常生活中使用了10天。团队分析了418次交互。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Birdbuddy-Nook-Solar.jpg?quality=90&strip=all&w=1200"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Example-interaction-consisting-of-five-conversational-turns-with-word-count-for-each-turn.jpg?resize=1800%2C1080&ssl=1",
+                "cap": "University of Maryland"
               },
               {
                 "t": "p",
-                "x": "Nook可容纳3.8杯鸟食。售价159美元的Nook Solar在顶部加装了太阳能板，售价199美元的Nook Extended Edition则配有更大的栖木。"
+                "x": "参与者提出的问题通常在10到20个词左右，而AI的回答则长出10倍以上。对话平均进行三轮，但有些多达21轮。一名寻找钥匙的参与者收到的是一段冗长的图像描述，而不是聚焦于丢失物品的回答。超过一半的参与者认为，应用习惯先给出完整图像描述是一个严重问题。"
+              },
+              {
+                "t": "p",
+                "x": "有些参与者会解释自己提问的原因；另一些则把复杂任务拆分成更小的问题。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/birdbuddy3.jpg?quality=90&strip=all&w=1200",
-                "cap": "Birdbuddy Home标配两块屋顶太阳能板，有助于延长电池续航。"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Be-My-AI-in-a-laboratory-testing.jpg?resize=1800%2C1080&ssl=1",
+                "cap": "University of Maryland"
               },
               {
                 "t": "p",
-                "x": "售价219美元的Home采用同款摄像头，喂鸟器更大、更省心，配有六杯容量的储食仓、两块太阳能板、内置栖木延长件、双频Wi-Fi，以及可帮助应用通过鸟鸣识别品种的升级麦克风。"
+                "x": "研究还暴露出估算距离和随时间变化的困难、难以把握的图像取景，以及有关摄像头摆放的指导有限等问题。研究人员认为，盲人用户不应为了得到简单答案而必须掌握复杂的提示词。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El Nook de Birdbuddy reduce el\ncomedero inteligente y su precio",
-          "body": "Nook, de Birdbuddy, es un comedero más pequeño y barato para novatos, con cámara 2K y AI que identifica especies.",
-          "mini_headline": "El Nook, el comedero más pequeño de Birdbuddy",
+          "headline": "La AI describe una imagen, pero\nno lo que necesitan los ciegos",
+          "body": "Según la University of Maryland, Be My AI suele dar a usuarios ciegos respuestas largas y no los datos que necesitan.",
+          "mini_headline": "Be My AI no da en el blanco",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/birdbuddy1.jpg?quality=90&strip=all&w=1200"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Blind-Man-using-walking-stick.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Eren Li / Pexels"
               },
               {
                 "t": "p",
-                "x": "Birdbuddy lanza con nuevos nombres los comederos inteligentes que anunció en CES 2026. El Birdbuddy 2 Mini pasa a llamarse Birdbuddy Nook, un modelo más pequeño y asequible que la empresa describe como su \"comedero inteligente más accesible hasta ahora\", y el modelo insignia Birdbuddy 2 pasa a ser Birdbuddy Home. Ambos están disponibles en la tienda en línea de Birdbuddy."
+                "x": "Investigadores de la University of Maryland (UMD) han descubierto que la asistencia visual con AI (AI-powered) puede obligar a los usuarios ciegos a esforzarse demasiado para obtener la información que realmente necesitan. El estudio, titulado Say It My Way: Exploring Control in Conversational Visual Question Answering with Blind Users, examinó cómo interactúan las personas con Be My AI, una función con AI de la app Be My Eyes."
               },
               {
                 "t": "p",
-                "x": "El Nook parte de $99 con una cámara circular 2K HDR rediseñada, con un campo de visión de 135 grados, que se activa cuando un pájaro se posa y graba en horizontal o en vertical. La app Birdbuddy, AI-powered, identifica con exactitud qué especie lo visita."
+                "x": "Los investigadores reclutaron a 11 participantes ciegos, que primero probaron Be My AI en un laboratorio y después la usaron en su vida diaria durante 10 días. El equipo analizó 418 interacciones."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Birdbuddy-Nook-Solar.jpg?quality=90&strip=all&w=1200"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Example-interaction-consisting-of-five-conversational-turns-with-word-count-for-each-turn.jpg?resize=1800%2C1080&ssl=1",
+                "cap": "University of Maryland"
               },
               {
                 "t": "p",
-                "x": "El Nook tiene capacidad para 3,8 tazas de semillas. El Nook Solar, de $159, añade un panel solar en el techo, y el Nook Extended Edition, de $199, incorpora una percha más grande."
+                "x": "Los participantes solían hacer preguntas de entre 10 y 20 palabras, mientras que las respuestas de la AI eran más de 10 veces más largas. Las conversaciones tuvieron un promedio de tres turnos, pero algunas llegaron a 21 intercambios. Una participante que buscaba sus llaves recibió una larga descripción de la imagen en lugar de una respuesta centrada en el objeto perdido. Más de la mitad de los participantes consideró un problema importante la costumbre de la app de empezar con una descripción completa de la imagen."
+              },
+              {
+                "t": "p",
+                "x": "Algunos participantes explicaban por qué hacían una pregunta; otros dividían las tareas complicadas en preguntas más pequeñas."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/birdbuddy3.jpg?quality=90&strip=all&w=1200",
-                "cap": "El Birdbuddy Home incluye de serie dos paneles solares en el techo para ayudar a prolongar la duración de la batería."
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Be-My-AI-in-a-laboratory-testing.jpg?resize=1800%2C1080&ssl=1",
+                "cap": "University of Maryland"
               },
               {
                 "t": "p",
-                "x": "El Home, de $219, usa la misma cámara en un comedero más grande y que requiere menos mantenimiento, con un depósito de seis tazas, dos paneles solares, un extensor de percha integrado, Wi-Fi de doble banda y un micrófono mejorado que ayuda a la app a identificar especies por su canto."
+                "x": "El estudio también reveló dificultades para estimar distancias y cambios a lo largo del tiempo, encuadres de imagen inaccesibles y poca orientación sobre cómo colocar la cámara. Los investigadores sostienen que los usuarios ciegos no deberían tener que dominar prompts complejos para obtener respuestas sencillas."
               }
             ]
           }
@@ -1955,157 +1399,513 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Birdbuddy Nook\n작고 싸진 스마트 모이통",
-          "body": "Nook은 2K 카메라와 AI 종 식별을 갖춘 작고 싼 입문용 모이통이다.",
-          "mini_headline": "더 작아진 Birdbuddy Nook",
+          "headline": "AI는 사진을 설명해도\n시각장애인의 요구는 놓친다",
+          "body": "메릴랜드대 연구에서 Be My AI는 시각장애인에게 핵심 대신 긴 답을 자주 줬다.",
+          "mini_headline": "Be My AI, 핵심을 놓치다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/birdbuddy1.jpg?quality=90&strip=all&w=1200"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Blind-Man-using-walking-stick.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Eren Li / Pexels"
               },
               {
                 "t": "p",
-                "x": "Birdbuddy가 CES 2026에서 공개한 스마트 모이통을 새 이름으로 출시한다. Birdbuddy 2 Mini는 Birdbuddy Nook이 됐다. 회사가 \"지금까지 가장 접근하기 쉬운 스마트 모이통\"이라 부르는 더 작고 저렴한 모델이다. 플래그십 Birdbuddy 2는 Birdbuddy Home이 됐다. 두 제품 모두 Birdbuddy 온라인 스토어에서 살 수 있다."
+                "x": "University of Maryland(UMD) 연구진은 AI 기반(AI-powered) 시각 보조 기능이 시각장애인 사용자에게 실제로 필요한 정보를 얻기까지 너무 많은 수고를 떠넘길 수 있다는 사실을 확인했다. ‘Say It My Way: Exploring Control in Conversational Visual Question Answering with Blind Users’라는 제목의 이 연구는 Be My Eyes 앱의 AI 기반 기능인 Be My AI를 사람들이 어떻게 쓰는지 살폈다."
               },
               {
                 "t": "p",
-                "x": "Nook은 99달러부터이며, 새로 디자인한 원형 2K HDR 카메라는 시야각이 135도로, 새가 앉으면 깨어나 가로나 세로로 촬영한다. AI-powered Birdbuddy 앱이 찾아온 새의 종을 정확히 식별한다."
+                "x": "연구진은 시각장애인 참가자 11명을 모집했다. 참가자들은 먼저 실험실에서 Be My AI를 시험한 뒤 10일 동안 일상에서 사용했다. 연구팀은 상호작용 418건을 분석했다."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Birdbuddy-Nook-Solar.jpg?quality=90&strip=all&w=1200"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Example-interaction-consisting-of-five-conversational-turns-with-word-count-for-each-turn.jpg?resize=1800%2C1080&ssl=1",
+                "cap": "University of Maryland"
               },
               {
                 "t": "p",
-                "x": "Nook에는 모이가 3.8컵 들어간다. 159달러인 Nook Solar는 지붕에 태양광 패널을 더했고, 199달러인 Nook Extended Edition은 더 큰 횃대를 더했다."
+                "x": "참가자들은 보통 10~20단어 안팎의 질문을 했지만, AI의 답변은 10배 이상 길었다. 대화는 평균 세 차례 오갔지만 21회까지 이어진 경우도 있었다. 열쇠를 찾던 한 참가자는 잃어버린 물건에 초점을 맞춘 답 대신 이미지에 대한 긴 묘사를 받았다. 참가자의 절반 이상은 앱이 이미지 전체 묘사부터 시작하는 습관을 심각한 문제로 여겼다."
+              },
+              {
+                "t": "p",
+                "x": "일부 참가자는 질문하는 이유를 설명했고, 다른 참가자는 복잡한 작업을 더 작은 질문으로 나눴다."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/birdbuddy3.jpg?quality=90&strip=all&w=1200",
-                "cap": "Birdbuddy Home에는 배터리 수명을 늘리도록 지붕에 태양광 패널 두 개가 기본으로 달려 있다."
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Be-My-AI-in-a-laboratory-testing.jpg?resize=1800%2C1080&ssl=1",
+                "cap": "University of Maryland"
               },
               {
                 "t": "p",
-                "x": "219달러인 Home은 같은 카메라를 더 크고 관리가 덜 필요한 모이통에 담았다. 여섯 컵 용량의 저장통, 태양광 패널 두 개, 내장 횃대 연장대, 듀얼 밴드 Wi-Fi, 그리고 새소리로 종을 식별하도록 돕는 개선된 마이크를 갖췄다."
+                "x": "연구는 거리와 시간에 따른 변화를 가늠하기 어렵다는 점, 접근하기 어려운 이미지 구도, 카메라 위치에 대한 안내 부족도 드러냈다. 연구진은 시각장애인 사용자가 간단한 답을 얻으려고 복잡한 프롬프트를 익혀야 해서는 안 된다고 주장한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "BirdbuddyのNook\n小さく安いスマート餌台",
-          "body": "Nookは、2K カメラとAI種判定を備えた初心者向けの小型・低価格餌台だ。",
-          "mini_headline": "Birdbuddyの小型餌台Nook",
+          "headline": "AIは画像を説明できても\n視覚障害者の求める情報を逃す",
+          "body": "メリーランド大の研究で、Be My AIは視覚障害者に長い答えばかり返すと分かった。",
+          "mini_headline": "Be My AIは要点を外す",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/birdbuddy1.jpg?quality=90&strip=all&w=1200"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Blind-Man-using-walking-stick.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Eren Li / Pexels"
               },
               {
                 "t": "p",
-                "x": "Birdbuddyは、CES 2026で発表したスマート餌台を新しい名前で発売する。Birdbuddy 2 MiniはBirdbuddy Nookとなり、同社が「これまでで最も手に取りやすいスマート餌台」と呼ぶ、より小さく手頃なモデルになった。フラッグシップのBirdbuddy 2はBirdbuddy Homeとなった。どちらもBirdbuddyのオンラインストアで購入できる。"
+                "x": "University of Maryland（UMD）の研究者らは、AIを活用した（AI-powered）視覚支援が、視覚障害のあるユーザーに、本当に必要な情報を得るまで過大な手間を強いる場合があることを明らかにした。「Say It My Way: Exploring Control in Conversational Visual Question Answering with Blind Users」と題したこの研究は、Be My EyesアプリのAI機能であるBe My AIを人々がどう使うかを調べた。"
               },
               {
                 "t": "p",
-                "x": "Nookは99ドルからで、刷新された円形の2K HDRカメラは135度の視野角を持ち、鳥が止まると起動して横向きでも縦向きでも撮影する。AI-poweredのBirdbuddyアプリが、訪れた鳥の種類を正確に特定する。"
+                "x": "研究チームは視覚障害のある参加者11人を募り、まず実験室でBe My AIを試してもらった後、10日間日常生活で使ってもらった。チームは418件のやり取りを分析した。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Birdbuddy-Nook-Solar.jpg?quality=90&strip=all&w=1200"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Example-interaction-consisting-of-five-conversational-turns-with-word-count-for-each-turn.jpg?resize=1800%2C1080&ssl=1",
+                "cap": "University of Maryland"
               },
               {
                 "t": "p",
-                "x": "Nookには3.8カップ分の種が入る。159ドルのNook Solarは屋根にソーラーパネルを加え、199ドルのNook Extended Editionはより大きな止まり木を備える。"
+                "x": "参加者の質問は通常10〜20語程度だったが、AIの回答はその10倍以上の長さだった。会話は平均三往復だったが、21回に及ぶものもあった。鍵を探していたある参加者は、なくした物に焦点を当てた答えではなく、画像の長い説明を受け取った。参加者の半数以上が、アプリがまず画像全体の説明から始める癖を大きな問題だと考えていた。"
+              },
+              {
+                "t": "p",
+                "x": "質問の理由を説明する参加者もいれば、複雑なタスクを小さな質問に分ける参加者もいた。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/birdbuddy3.jpg?quality=90&strip=all&w=1200",
-                "cap": "Birdbuddy Homeは、バッテリー持続時間を延ばすため屋根に二枚のソーラーパネルを標準装備する。"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Be-My-AI-in-a-laboratory-testing.jpg?resize=1800%2C1080&ssl=1",
+                "cap": "University of Maryland"
               },
               {
                 "t": "p",
-                "x": "219ドルのHomeは同じカメラを、より大きく手入れの手間が少ない餌台に搭載した。六カップ分の容器、二枚のソーラーパネル、内蔵の止まり木延長パーツ、デュアルバンドWi-Fi、さえずりから種の特定を助ける改良マイクを備える。"
+                "x": "研究では、距離や時間による変化の推定が難しいこと、アクセスしにくい画像の構図、カメラの位置に関する案内の乏しさも明らかになった。研究者らは、視覚障害のあるユーザーが簡単な答えを得るために複雑なプロンプトを使いこなす必要があってはならないと主張している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Birdbuddy Nook\n智能喂鸟器变小变便宜",
-          "body": "Birdbuddy Nook更小更便宜，配2K 摄像头与AI物种识别，适合新手观鸟。",
-          "mini_headline": "Birdbuddy更小的Nook喂鸟器",
+          "headline": "AI能描述图片\n却给不了盲人所需",
+          "body": "马里兰大学研究发现，Be My AI常给盲人用户冗长回答，而非所需的具体信息。",
+          "mini_headline": "Be My AI抓不住重点",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/birdbuddy1.jpg?quality=90&strip=all&w=1200"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Blind-Man-using-walking-stick.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Eren Li / Pexels"
               },
               {
                 "t": "p",
-                "x": "Birdbuddy正以新名称推出其在CES 2026上发布的智能喂鸟器。Birdbuddy 2 Mini更名为Birdbuddy Nook，这款更小、更实惠的型号被公司称为“迄今最易入手的智能喂鸟器”；旗舰款Birdbuddy 2则更名为Birdbuddy Home。两款产品均已在Birdbuddy官网商店上架。"
+                "x": "University of Maryland（UMD）的研究人员发现，AI驱动（AI-powered）的视觉辅助工具可能让盲人用户为获取真正需要的信息付出过多努力。这项题为《Say It My Way: Exploring Control in Conversational Visual Question Answering with Blind Users》的研究，考察了人们如何使用Be My Eyes应用中的AI功能Be My AI。"
               },
               {
                 "t": "p",
-                "x": "Nook起售价99美元，配备重新设计的圆形2K HDR摄像头，视野135度，鸟儿落下时自动唤醒，可横拍或竖拍。AI-powered的Birdbuddy应用能准确识别来访的鸟类品种。"
+                "x": "研究人员招募了11名盲人参与者，他们先在实验室测试Be My AI，随后在日常生活中使用了10天。团队分析了418次交互。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Birdbuddy-Nook-Solar.jpg?quality=90&strip=all&w=1200"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Example-interaction-consisting-of-five-conversational-turns-with-word-count-for-each-turn.jpg?resize=1800%2C1080&ssl=1",
+                "cap": "University of Maryland"
               },
               {
                 "t": "p",
-                "x": "Nook可容纳3.8杯鸟食。售价159美元的Nook Solar在顶部加装了太阳能板，售价199美元的Nook Extended Edition则配有更大的栖木。"
+                "x": "参与者提出的问题通常在10到20个词左右，而AI的回答则长出10倍以上。对话平均进行三轮，但有些多达21轮。一名寻找钥匙的参与者收到的是一段冗长的图像描述，而不是聚焦于丢失物品的回答。超过一半的参与者认为，应用习惯先给出完整图像描述是一个严重问题。"
+              },
+              {
+                "t": "p",
+                "x": "有些参与者会解释自己提问的原因；另一些则把复杂任务拆分成更小的问题。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/birdbuddy3.jpg?quality=90&strip=all&w=1200",
-                "cap": "Birdbuddy Home标配两块屋顶太阳能板，有助于延长电池续航。"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Be-My-AI-in-a-laboratory-testing.jpg?resize=1800%2C1080&ssl=1",
+                "cap": "University of Maryland"
               },
               {
                 "t": "p",
-                "x": "售价219美元的Home采用同款摄像头，喂鸟器更大、更省心，配有六杯容量的储食仓、两块太阳能板、内置栖木延长件、双频Wi-Fi，以及可帮助应用通过鸟鸣识别品种的升级麦克风。"
+                "x": "研究还暴露出估算距离和随时间变化的困难、难以把握的图像取景，以及有关摄像头摆放的指导有限等问题。研究人员认为，盲人用户不应为了得到简单答案而必须掌握复杂的提示词。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El Nook de Birdbuddy reduce el\ncomedero inteligente y su precio",
-          "body": "Nook, de Birdbuddy, es un comedero más pequeño y barato para novatos, con cámara 2K y AI que identifica especies.",
-          "mini_headline": "El Nook, el comedero más pequeño de Birdbuddy",
+          "headline": "La AI describe una imagen, pero\nno lo que necesitan los ciegos",
+          "body": "Según la University of Maryland, Be My AI suele dar a usuarios ciegos respuestas largas y no los datos que necesitan.",
+          "mini_headline": "Be My AI no da en el blanco",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/birdbuddy1.jpg?quality=90&strip=all&w=1200"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Blind-Man-using-walking-stick.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Eren Li / Pexels"
               },
               {
                 "t": "p",
-                "x": "Birdbuddy lanza con nuevos nombres los comederos inteligentes que anunció en CES 2026. El Birdbuddy 2 Mini pasa a llamarse Birdbuddy Nook, un modelo más pequeño y asequible que la empresa describe como su \"comedero inteligente más accesible hasta ahora\", y el modelo insignia Birdbuddy 2 pasa a ser Birdbuddy Home. Ambos están disponibles en la tienda en línea de Birdbuddy."
+                "x": "Investigadores de la University of Maryland (UMD) han descubierto que la asistencia visual con AI (AI-powered) puede obligar a los usuarios ciegos a esforzarse demasiado para obtener la información que realmente necesitan. El estudio, titulado Say It My Way: Exploring Control in Conversational Visual Question Answering with Blind Users, examinó cómo interactúan las personas con Be My AI, una función con AI de la app Be My Eyes."
               },
               {
                 "t": "p",
-                "x": "El Nook parte de $99 con una cámara circular 2K HDR rediseñada, con un campo de visión de 135 grados, que se activa cuando un pájaro se posa y graba en horizontal o en vertical. La app Birdbuddy, AI-powered, identifica con exactitud qué especie lo visita."
+                "x": "Los investigadores reclutaron a 11 participantes ciegos, que primero probaron Be My AI en un laboratorio y después la usaron en su vida diaria durante 10 días. El equipo analizó 418 interacciones."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Birdbuddy-Nook-Solar.jpg?quality=90&strip=all&w=1200"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Example-interaction-consisting-of-five-conversational-turns-with-word-count-for-each-turn.jpg?resize=1800%2C1080&ssl=1",
+                "cap": "University of Maryland"
               },
               {
                 "t": "p",
-                "x": "El Nook tiene capacidad para 3,8 tazas de semillas. El Nook Solar, de $159, añade un panel solar en el techo, y el Nook Extended Edition, de $199, incorpora una percha más grande."
+                "x": "Los participantes solían hacer preguntas de entre 10 y 20 palabras, mientras que las respuestas de la AI eran más de 10 veces más largas. Las conversaciones tuvieron un promedio de tres turnos, pero algunas llegaron a 21 intercambios. Una participante que buscaba sus llaves recibió una larga descripción de la imagen en lugar de una respuesta centrada en el objeto perdido. Más de la mitad de los participantes consideró un problema importante la costumbre de la app de empezar con una descripción completa de la imagen."
+              },
+              {
+                "t": "p",
+                "x": "Algunos participantes explicaban por qué hacían una pregunta; otros dividían las tareas complicadas en preguntas más pequeñas."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/birdbuddy3.jpg?quality=90&strip=all&w=1200",
-                "cap": "El Birdbuddy Home incluye de serie dos paneles solares en el techo para ayudar a prolongar la duración de la batería."
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Be-My-AI-in-a-laboratory-testing.jpg?resize=1800%2C1080&ssl=1",
+                "cap": "University of Maryland"
               },
               {
                 "t": "p",
-                "x": "El Home, de $219, usa la misma cámara en un comedero más grande y que requiere menos mantenimiento, con un depósito de seis tazas, dos paneles solares, un extensor de percha integrado, Wi-Fi de doble banda y un micrófono mejorado que ayuda a la app a identificar especies por su canto."
+                "x": "El estudio también reveló dificultades para estimar distancias y cambios a lo largo del tiempo, encuadres de imagen inaccesibles y poca orientación sobre cómo colocar la cámara. Los investigadores sostienen que los usuarios ciegos no deberían tener que dominar prompts complejos para obtener respuestas sencillas."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "gadgets-context-vault",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Context Vault,\n몸집 줄인 Recall",
+      "body": "시험 중인 Context Vault는 Recall보다 절제됐지만 회의론은 여전하다.",
+      "mini_headline": "Windows, Context Vault 시험",
+      "tool": "Gadgets",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/computing/windows/windows-11-could-get-a-very-different-take-on-recall-but-context-vault-feature-doesnt-seem-likely-to-persuade-ai-skeptics",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/5KK2m2A35afwd8WgVU2hVX-1200-80.jpg",
+            "cap": "이미지 출처: Shutterstock/Prostock-studio"
+          },
+          {
+            "t": "p",
+            "x": "Microsoft가 AI-powered 강화 검색이라는 아이디어를 Recall보다 훨씬 제한적인 형태로 다시 시도한다. 다만 초기 반응은 여전히 꽤 부정적이다. Windows Latest에 따르면 Microsoft는 ‘Context Vault’라는 이름의 Project Pantheon을 개발하고 있다. 이 앱은 Recall처럼 Windows 11에 내장되지 않고, Microsoft Store에서 따로 설치해야 한다."
+          },
+          {
+            "t": "p",
+            "x": "PC 화면을 주기적으로 자동 캡처하지도 않는다. 사용자가 Context Vault에 쓸 파일이나 콘텐츠를 직접 넣고, 그 내용을 AI에 묻거나 문서, 이미지, 웹 페이지, 클립보드 텍스트에서 자료를 정리하게 하는 식이다. 클라우드 기반 AI를 쓸 수 있어 Copilot+ PC가 꼭 필요하지는 않고, Claude 같은 서드파티 AI에 볼트 접근 권한을 줄 수도 있다. 앱은 아직 공식 출시 전이다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/r4maWLpBuFkNeiXEUfcPZF-1024-80.jpg",
+            "cap": "Microsoft의 Recall 기능은 대체로 인기를 얻지 못했다 (이미지 출처: Microsoft)"
+          },
+          {
+            "t": "p",
+            "x": "볼트를 보호하려고 Microsoft는 암호화, 앱별 접근 제어, Windows Hello 로그인을 검토하는 것으로 알려졌다. 반응은 대체로 회의적이다. 한 Redditor는 “존재하지도 않는 문제를 해결하는” 전형적인 사례라고 평했다. TechRadar는 같은 개념을 다르게 풀었다고 anti-Recall 진영이 마음을 바꾸지는 않을 것이라고 결론짓는다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Windows 11 tests Context Vault,\na reined-in take on Recall",
+          "body": "Microsoft is testing Context Vault, a reined-in alternative to Recall, but AI skeptics still are not won over.",
+          "mini_headline": "Windows tests Context Vault",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/5KK2m2A35afwd8WgVU2hVX-1200-80.jpg",
+                "cap": "Image credit: Shutterstock/Prostock-studio"
+              },
+              {
+                "t": "p",
+                "x": "Microsoft is trying a new spin on the idea of an AI-powered supercharged search which is a lot more limited than Recall – although the initial reaction has still been rather negative. Windows Latest discovered that Microsoft is working on Project Pantheon, the current name of which is the ‘Context Vault’, and rather than being built into Windows 11 like Recall, it has to be installed from the Microsoft Store."
+              },
+              {
+                "t": "p",
+                "x": "It doesn’t automatically take regular screenshots of your PC. Instead, you manually add the files or content you want to use with the Context Vault, then ask the AI questions about it or get it to organize material from documents, images, web pages, or clipboard text. It doesn’t necessarily need a Copilot+ PC, as it can leverage cloud-based AI, and you can give third-party AI like Claude access to your vault. The app isn’t yet officially available."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/r4maWLpBuFkNeiXEUfcPZF-1024-80.jpg",
+                "cap": "Microsoft's Recall feature has not proved popular in general (Image credit: Microsoft)"
+              },
+              {
+                "t": "p",
+                "x": "Microsoft is reportedly considering encryption, per-app access controls and a Windows Hello login to secure the vault. Reaction is generally skeptical: one Redditor calls it a classic case of “solving [a] problem [that] doesn’t exist.” TechRadar concludes the anti-Recall folks aren’t going to be swayed by a different take on the same concept."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Context Vault,\n몸집 줄인 Recall",
+          "body": "시험 중인 Context Vault는 Recall보다 절제됐지만 회의론은 여전하다.",
+          "mini_headline": "Windows, Context Vault 시험",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/5KK2m2A35afwd8WgVU2hVX-1200-80.jpg",
+                "cap": "이미지 출처: Shutterstock/Prostock-studio"
+              },
+              {
+                "t": "p",
+                "x": "Microsoft가 AI-powered 강화 검색이라는 아이디어를 Recall보다 훨씬 제한적인 형태로 다시 시도한다. 다만 초기 반응은 여전히 꽤 부정적이다. Windows Latest에 따르면 Microsoft는 ‘Context Vault’라는 이름의 Project Pantheon을 개발하고 있다. 이 앱은 Recall처럼 Windows 11에 내장되지 않고, Microsoft Store에서 따로 설치해야 한다."
+              },
+              {
+                "t": "p",
+                "x": "PC 화면을 주기적으로 자동 캡처하지도 않는다. 사용자가 Context Vault에 쓸 파일이나 콘텐츠를 직접 넣고, 그 내용을 AI에 묻거나 문서, 이미지, 웹 페이지, 클립보드 텍스트에서 자료를 정리하게 하는 식이다. 클라우드 기반 AI를 쓸 수 있어 Copilot+ PC가 꼭 필요하지는 않고, Claude 같은 서드파티 AI에 볼트 접근 권한을 줄 수도 있다. 앱은 아직 공식 출시 전이다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/r4maWLpBuFkNeiXEUfcPZF-1024-80.jpg",
+                "cap": "Microsoft의 Recall 기능은 대체로 인기를 얻지 못했다 (이미지 출처: Microsoft)"
+              },
+              {
+                "t": "p",
+                "x": "볼트를 보호하려고 Microsoft는 암호화, 앱별 접근 제어, Windows Hello 로그인을 검토하는 것으로 알려졌다. 반응은 대체로 회의적이다. 한 Redditor는 “존재하지도 않는 문제를 해결하는” 전형적인 사례라고 평했다. TechRadar는 같은 개념을 다르게 풀었다고 anti-Recall 진영이 마음을 바꾸지는 않을 것이라고 결론짓는다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Context Vaultは\n控えめなRecall",
+          "body": "Microsoftは控えめなContext Vaultを試すが、AI懐疑派は冷ややかだ。",
+          "mini_headline": "WindowsがContext Vaultを試験",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/5KK2m2A35afwd8WgVU2hVX-1200-80.jpg",
+                "cap": "画像クレジット：Shutterstock/Prostock-studio"
+              },
+              {
+                "t": "p",
+                "x": "Microsoftは、Recallよりはるかに機能を絞ったAI活用（AI-powered）の強化検索という発想に新たな切り口で挑んでいる。ただし初期の反応はやはりかなり否定的だ。Windows Latestは、MicrosoftがProject Pantheonに取り組んでいることを突き止めた。現在の名称は「Context Vault」で、RecallのようにWindows 11に組み込まれるのではなく、Microsoft Storeからインストールする必要がある。"
+              },
+              {
+                "t": "p",
+                "x": "PCのスクリーンショットを定期的に自動で撮ることはない。代わりに、Context Vaultで使いたいファイルやコンテンツを手動で追加し、それについてAIに質問したり、文書、画像、Webページ、クリップボードのテキストから素材を整理させたりする。クラウドベースのAIを利用できるため、Copilot+ PCが必須とは限らず、Claudeのようなサードパーティ製AIにボールトへのアクセスを許可することもできる。アプリはまだ正式には公開されていない。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/r4maWLpBuFkNeiXEUfcPZF-1024-80.jpg",
+                "cap": "MicrosoftのRecall機能は全体的に不評だった（画像クレジット：Microsoft）"
+              },
+              {
+                "t": "p",
+                "x": "Microsoftはボールトを守るため、暗号化、アプリごとのアクセス制御、Windows Helloによるログインを検討していると伝えられる。反応は総じて懐疑的で、あるRedditorは「存在しない問題を解決する」典型例だと評した。TechRadarは、anti-Recall派が同じ概念の別バージョンになびくことはないだろうと結論づけている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Context Vault，\n收敛版的Recall",
+          "body": "Microsoft测试比Recall克制的Context Vault，AI怀疑者仍不买账。",
+          "mini_headline": "Windows测试Context Vault",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/5KK2m2A35afwd8WgVU2hVX-1200-80.jpg",
+                "cap": "图片来源：Shutterstock/Prostock-studio"
+              },
+              {
+                "t": "p",
+                "x": "Microsoft正在为AI驱动（AI-powered）的增强搜索这一构想尝试新思路，其功能比Recall有限得多——不过初期反应依然相当负面。Windows Latest发现，Microsoft正在开发Project Pantheon，其当前名称为“Context Vault”。与内置于Windows 11的Recall不同，它需要从Microsoft Store安装。"
+              },
+              {
+                "t": "p",
+                "x": "它不会自动定期截取你的PC屏幕。相反，你需要手动添加想在Context Vault中使用的文件或内容，然后就其向AI提问，或让它整理来自文档、图像、网页或剪贴板文本的材料。由于它可以利用基于云的AI，因此不一定需要Copilot+ PC，你还可以让Claude等第三方AI访问你的保险库。该应用尚未正式推出。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/r4maWLpBuFkNeiXEUfcPZF-1024-80.jpg",
+                "cap": "Microsoft的Recall功能总体上并不受欢迎（图片来源：Microsoft）"
+              },
+              {
+                "t": "p",
+                "x": "据报道，Microsoft正考虑采用加密、按应用划分的访问控制以及Windows Hello登录来保护保险库。外界反应普遍持怀疑态度：一位Redditor称这是“解决一个并不存在的问题”的典型案例。TechRadar的结论是，anti-Recall人士不会因为同一概念换了种做法就被说服。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Windows 11 prueba Context Vault,\nun Recall más contenido",
+          "body": "Microsoft prueba Context Vault, una alternativa contenida a Recall, pero los críticos de la AI siguen sin convencerse.",
+          "mini_headline": "Windows prueba Context Vault",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/5KK2m2A35afwd8WgVU2hVX-1200-80.jpg",
+                "cap": "Crédito de la imagen: Shutterstock/Prostock-studio"
+              },
+              {
+                "t": "p",
+                "x": "Microsoft está probando un nuevo enfoque de la idea de una búsqueda potenciada por AI (AI-powered), mucho más limitada que Recall, aunque la reacción inicial ha sido bastante negativa. Windows Latest descubrió que Microsoft trabaja en Project Pantheon, cuyo nombre actual es ‘Context Vault’, y que, en lugar de venir integrado en Windows 11 como Recall, debe instalarse desde la Microsoft Store."
+              },
+              {
+                "t": "p",
+                "x": "No toma capturas de pantalla automáticas y periódicas de tu PC. En su lugar, añades manualmente los archivos o contenidos que quieras usar con Context Vault y luego haces preguntas a la AI sobre ellos o le pides que organice material de documentos, imágenes, páginas web o texto del portapapeles. No requiere necesariamente un Copilot+ PC, ya que puede aprovechar AI en la nube, y puedes dar acceso a tu bóveda a AI de terceros como Claude. La app aún no está disponible oficialmente."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/r4maWLpBuFkNeiXEUfcPZF-1024-80.jpg",
+                "cap": "La función Recall de Microsoft no ha resultado popular en general (Crédito de la imagen: Microsoft)"
+              },
+              {
+                "t": "p",
+                "x": "Según los informes, Microsoft estudia usar cifrado, controles de acceso por aplicación y un inicio de sesión con Windows Hello para proteger la bóveda. La reacción es en general escéptica: un Redditor lo califica como un caso clásico de “resolver [un] problema [que] no existe”. TechRadar concluye que los detractores de Recall (anti-Recall) no van a cambiar de opinión por una versión distinta del mismo concepto."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Context Vault,\n몸집 줄인 Recall",
+          "body": "시험 중인 Context Vault는 Recall보다 절제됐지만 회의론은 여전하다.",
+          "mini_headline": "Windows, Context Vault 시험",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/5KK2m2A35afwd8WgVU2hVX-1200-80.jpg",
+                "cap": "이미지 출처: Shutterstock/Prostock-studio"
+              },
+              {
+                "t": "p",
+                "x": "Microsoft가 Recall보다 훨씬 제한적인 AI-powered 강화 검색이라는 아이디어에 새로운 변화를 시도하고 있다. 다만 초기 반응은 여전히 꽤 부정적이다. Windows Latest는 Microsoft가 현재 ‘Context Vault’라는 이름의 Project Pantheon을 개발 중이라는 사실을 발견했다. 이 앱은 Recall처럼 Windows 11에 내장되는 대신 Microsoft Store에서 설치해야 한다."
+              },
+              {
+                "t": "p",
+                "x": "PC 화면을 정기적으로 자동 캡처하지 않는다. 대신 사용자가 Context Vault에서 쓸 파일이나 콘텐츠를 직접 추가한 뒤, 그에 대해 AI에 질문하거나 문서, 이미지, 웹 페이지, 클립보드 텍스트의 자료를 정리하게 할 수 있다. 클라우드 기반 AI를 활용할 수 있어 Copilot+ PC가 꼭 필요하지는 않으며, Claude 같은 서드파티 AI에 볼트 접근 권한을 줄 수도 있다. 앱은 아직 공식 출시되지 않았다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/r4maWLpBuFkNeiXEUfcPZF-1024-80.jpg",
+                "cap": "Microsoft의 Recall 기능은 대체로 인기를 얻지 못했다 (이미지 출처: Microsoft)"
+              },
+              {
+                "t": "p",
+                "x": "Microsoft는 볼트 보안을 위해 암호화, 앱별 접근 제어, Windows Hello 로그인을 검토하는 것으로 알려졌다. 반응은 대체로 회의적이다. 한 Redditor는 이를 “존재하지도 않는 문제를 해결하는” 전형적인 사례라고 평했다. TechRadar는 anti-Recall 진영이 같은 개념을 다르게 풀었다고 해서 마음을 바꾸지는 않을 것이라고 결론짓는다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Context Vaultは\n控えめなRecall",
+          "body": "Microsoftは控えめなContext Vaultを試すが、AI懐疑派は冷ややかだ。",
+          "mini_headline": "WindowsがContext Vaultを試験",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/5KK2m2A35afwd8WgVU2hVX-1200-80.jpg",
+                "cap": "画像クレジット：Shutterstock/Prostock-studio"
+              },
+              {
+                "t": "p",
+                "x": "Microsoftは、Recallよりはるかに機能を絞ったAI活用（AI-powered）の強化検索という発想に新たな切り口で挑んでいる。ただし初期の反応はやはりかなり否定的だ。Windows Latestは、MicrosoftがProject Pantheonに取り組んでいることを突き止めた。現在の名称は「Context Vault」で、RecallのようにWindows 11に組み込まれるのではなく、Microsoft Storeからインストールする必要がある。"
+              },
+              {
+                "t": "p",
+                "x": "PCのスクリーンショットを定期的に自動で撮ることはない。代わりに、Context Vaultで使いたいファイルやコンテンツを手動で追加し、それについてAIに質問したり、文書、画像、Webページ、クリップボードのテキストから素材を整理させたりする。クラウドベースのAIを利用できるため、Copilot+ PCが必須とは限らず、Claudeのようなサードパーティ製AIにボールトへのアクセスを許可することもできる。アプリはまだ正式には公開されていない。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/r4maWLpBuFkNeiXEUfcPZF-1024-80.jpg",
+                "cap": "MicrosoftのRecall機能は全体的に不評だった（画像クレジット：Microsoft）"
+              },
+              {
+                "t": "p",
+                "x": "Microsoftはボールトを守るため、暗号化、アプリごとのアクセス制御、Windows Helloによるログインを検討していると伝えられる。反応は総じて懐疑的で、あるRedditorは「存在しない問題を解決する」典型例だと評した。TechRadarは、anti-Recall派が同じ概念の別バージョンになびくことはないだろうと結論づけている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Context Vault，\n收敛版的Recall",
+          "body": "Microsoft测试比Recall克制的Context Vault，AI怀疑者仍不买账。",
+          "mini_headline": "Windows测试Context Vault",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/5KK2m2A35afwd8WgVU2hVX-1200-80.jpg",
+                "cap": "图片来源：Shutterstock/Prostock-studio"
+              },
+              {
+                "t": "p",
+                "x": "Microsoft正在为AI驱动（AI-powered）的增强搜索这一构想尝试新思路，其功能比Recall有限得多——不过初期反应依然相当负面。Windows Latest发现，Microsoft正在开发Project Pantheon，其当前名称为“Context Vault”。与内置于Windows 11的Recall不同，它需要从Microsoft Store安装。"
+              },
+              {
+                "t": "p",
+                "x": "它不会自动定期截取你的PC屏幕。相反，你需要手动添加想在Context Vault中使用的文件或内容，然后就其向AI提问，或让它整理来自文档、图像、网页或剪贴板文本的材料。由于它可以利用基于云的AI，因此不一定需要Copilot+ PC，你还可以让Claude等第三方AI访问你的保险库。该应用尚未正式推出。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/r4maWLpBuFkNeiXEUfcPZF-1024-80.jpg",
+                "cap": "Microsoft的Recall功能总体上并不受欢迎（图片来源：Microsoft）"
+              },
+              {
+                "t": "p",
+                "x": "据报道，Microsoft正考虑采用加密、按应用划分的访问控制以及Windows Hello登录来保护保险库。外界反应普遍持怀疑态度：一位Redditor称这是“解决一个并不存在的问题”的典型案例。TechRadar的结论是，anti-Recall人士不会因为同一概念换了种做法就被说服。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Windows 11 prueba Context Vault,\nun Recall más contenido",
+          "body": "Microsoft prueba Context Vault, una alternativa contenida a Recall, pero los críticos de la AI siguen sin convencerse.",
+          "mini_headline": "Windows prueba Context Vault",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/5KK2m2A35afwd8WgVU2hVX-1200-80.jpg",
+                "cap": "Crédito de la imagen: Shutterstock/Prostock-studio"
+              },
+              {
+                "t": "p",
+                "x": "Microsoft está probando un nuevo enfoque de la idea de una búsqueda potenciada por AI (AI-powered), mucho más limitada que Recall, aunque la reacción inicial ha sido bastante negativa. Windows Latest descubrió que Microsoft trabaja en Project Pantheon, cuyo nombre actual es ‘Context Vault’, y que, en lugar de venir integrado en Windows 11 como Recall, debe instalarse desde la Microsoft Store."
+              },
+              {
+                "t": "p",
+                "x": "No toma capturas de pantalla automáticas y periódicas de tu PC. En su lugar, añades manualmente los archivos o contenidos que quieras usar con Context Vault y luego haces preguntas a la AI sobre ellos o le pides que organice material de documentos, imágenes, páginas web o texto del portapapeles. No requiere necesariamente un Copilot+ PC, ya que puede aprovechar AI en la nube, y puedes dar acceso a tu bóveda a AI de terceros como Claude. La app aún no está disponible oficialmente."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/r4maWLpBuFkNeiXEUfcPZF-1024-80.jpg",
+                "cap": "La función Recall de Microsoft no ha resultado popular en general (Crédito de la imagen: Microsoft)"
+              },
+              {
+                "t": "p",
+                "x": "Según los informes, Microsoft estudia usar cifrado, controles de acceso por aplicación y un inicio de sesión con Windows Hello para proteger la bóveda. La reacción es en general escéptica: un Redditor lo califica como un caso clásico de “resolver [un] problema [que] no existe”. TechRadar concluye que los detractores de Recall (anti-Recall) no van a cambiar de opinión por una versión distinta del mismo concepto."
               }
             ]
           }

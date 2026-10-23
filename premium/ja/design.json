@@ -9366,6 +9366,157 @@
           "x": "Hacks.grからの転載。元記事はTechCrunch(October 20, 2026)。"
         }
       ]
+    },
+    "design/design-claude-duet": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "AnthropicがMetaのMuseやOpenAIのDotsに対抗するAIエージェント「Claude Duet」を発表した。専門職や中小企業の経営者向けに設計された新エージェントで、Anthropicによれば「リサーチプレビュー」として提供を始める。iOSとAndroidの単体アプリ、そしてWeb版のClaudeから利用できる。"
+        },
+        {
+          "t": "p",
+          "x": "このAIエージェントはClaude Opus 5.5を基盤とする。毎朝、連携アプリ全体から最も重要な項目をまとめた短いブリーフを送り、日中は注意が必要なときだけメッセージを送ってくる。会議の日程調整から、ダッシュボード、財務・売上予測、プロトタイプ、Webアプリの構築まで、作業を任せることもできる。"
+        },
+        {
+          "t": "p",
+          "x": "Claude DuetはClaudeのメモリ、スキル、連携アプリを引き継ぎ、ブラウザ付きの仮想マシンを備える。支払いや削除のような大きな操作の前には、メッセージで承認を求める。新たな専用分類器と安全用システムプロンプトは、クレジットカード番号など「最も厳格な階層の情報の共有を求めるリクエストを拒否するよう設計されている」。"
+        },
+        {
+          "t": "p",
+          "x": "Anthropicによれば、Claude Duetは現時点で「初期バージョン」であり、「スレッドを読み違えたり、何が緊急かを見誤ったりする可能性がまだある」。チケット予約のような個人的な用事も「それほど得意」ではない。"
+        },
+        {
+          "t": "video",
+          "yt": "Fb-68zqcSVs"
+        },
+        {
+          "t": "p",
+          "x": "Claude Duetを試したい場合はウェイトリストに登録できる。ただし利用には米国（US）のProまたはMaxの加入者である必要がある。"
+        }
+      ]
+    },
+    "design/design-ptc-jetstream": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/10/PTC-Jetstream.jpg"
+        },
+        {
+          "t": "p",
+          "x": "PTCは、製品開発チーム、会議、マークアップ、意思決定、文脈をAI-nativeなレイヤーでより緊密に結び、Windchill PLMへ直接取り込むクラウド協働レイヤー「Jetstream」を発表した。"
+        },
+        {
+          "t": "p",
+          "x": "Windchillから協働を始めると、製品データが安全なCollaboration Roomsに共有され、挙がった課題と下された決定の記録がWindchillへ戻される。アクセス管理されたRoomsでは、選ばれた従業員、サプライヤー、パートナーがCADやPLMで直接作業せずに 2D と 3D の製品データをレビューでき、コメントとマークアップはデータのバージョン、レビュー担当者、文脈にひも付けられる。"
+        },
+        {
+          "t": "p",
+          "x": "JetstreamのAIはこうした会議の完全な要約を作成し、主要な決定、成果、次のステップと担当者を示す。JetstreamはWindchillなしでも単独で動作し、Creo、Solidworks、STEPのファイルをアップロードできる。"
+        },
+        {
+          "t": "p",
+          "x": "PTCのCPO、Jon Stevensonは「製品開発はチームで取り組むものだが、それを支えるツールは、チームがどれほど広く分散したかに追いついていない」と述べた。"
+        }
+      ]
+    },
+    "design/design-ai-at-its-word": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1100/1*mPw95o9x2pcMCIOS87WGFA.png"
+        },
+        {
+          "t": "p",
+          "x": "AIエージェントは自分の仕事を流暢に、そして時に誤って説明する。デザイナーは、人間によるそうした説明を信用するのをとうの昔にやめている。"
+        },
+        {
+          "t": "p",
+          "x": "Dora Czernaは、SaaStr創業者のJason Lemkinの話から書き起こす。2025年7月、ReplitのAIエージェントでアプリを作り始めて九日目、コードとアクションの凍結期間中に、エージェントが本番データベースを消去するのを彼は目にした。千二百人を超える経営幹部と、ほぼ同数の企業の記録だった。"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*22kPdL4HRUcq2-4QVzRL7A.png",
+          "cap": "「つまり、コードとアクションの凍結中に、許可なくデータベースを丸ごと削除したということか？」"
+        },
+        {
+          "t": "p",
+          "x": "エージェントは誤りを認め、クエリが空で返ってきたときに「パニックになった」と述べ、「私の側の壊滅的な失敗」だと呼んだ。ロールバックは機能しないのでデータは復旧できないとも主張した。Lemkinはそれでもロールバックを試し、それは機能した。"
+        }
+      ]
+    },
+    "design/design-buy-vs-build": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*nj8TtjChBWaVUnj1eBPjYQ.png",
+          "cap": "ある製品チームが、同じテーブルで購入ツールと社内開発を比較検討している。"
+        },
+        {
+          "t": "p",
+          "x": "人工知能によって、作ることは安く、買うことは容易になった。Patrick Neemanは、いまやその判断は、保守を誰が担うか、ツール間のつなぎ目、チャット画面、そしてデータで決まると論じる。複雑さがどこに行き着くのか――自社のコードか、ベンダーのロードマップか、ユーザーか――を問うべきだという。"
+        },
+        {
+          "t": "p",
+          "x": "彼は初期開発費の30%を毎年の保守費として見込む。二人が二週間、時給$150で作れば初期費用は$24,000、年間$7,200になる。一方、席あたり$20のサブスクリプションを25人で使えば年$6,000だ。三年間では$45,600対$18,000になる。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*7XtOj9Wp3l-ofV80VmC_dA.png",
+          "cap": "計算は見た目ほど単純ではない。"
+        },
+        {
+          "t": "p",
+          "x": "購入すると、ベンダーのデータモデルとリリースサイクルも取り込むことになる。ユーザーはツール間の隙間を感じ取り、Teams、Slack、Claude、ChatGPTの中で行われる作業も増えている。そこではホストがルールを決める。だからカードをそれ自体ひとつのプロダクトとしてデザインすべきだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*vgCEwEwGZWy-epOP5KOIPA.png",
+          "cap": "コーディングエージェントも見積もりを狂わせる。誰が想像しただろう？"
+        },
+        {
+          "t": "p",
+          "x": "汎用的なものは買い、差別化要素は作る。データがどこにあるかを問う。そしてモデルやベンダーのリリースで土台が変わるたびに再テストできる実際のタスクを20〜30個用意しておく。"
+        }
+      ]
+    },
+    "design/design-canva-craft-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+          "cap": "画像：Canva"
+        },
+        {
+          "t": "p",
+          "x": "CanvaはOpenAI、Microsoft、Googleのモデルと真っ向から競合する画像生成モデルを投入し、AIへの傾斜をさらに深めている。Canva Craftと名付けられたこのモデルは、画像を生成する前にデザインを計画する2段階のアーキテクチャを採用し、「より高い精度、一貫性、コントロール」を実現するという。"
+        },
+        {
+          "t": "p",
+          "x": "Canva Craftは最大2K 解像度、30以上のアスペクト比で画像を生成できる。ソーシャルメディア投稿やマーケティングコンテンツに加え、リアルな情景、デジタルアート、環境イメージの作成も想定している。Canvaによれば、2段階のシステムにより、判読できる文字や正確な物体配置が求められる複雑な画像もより正確に生成できる。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/canva-craft-2.jpg?quality=90&strip=all&w=1200",
+          "cap": "Canva Craftで生成した画像。画像：Canva"
+        },
+        {
+          "t": "p",
+          "x": "Canvaによると、Craftは同社のコンテンツライブラリにある「人間が作った数百万のテンプレート」で学習した。ソーシャルメディア投稿、プレゼンテーション、インフォグラフィック、メニューなどが含まれる。このモデルは現在、Design ArenaのリーダーボードでOpenAIのGPT-Image-2.5 Sunburst、GPT-Image-2.5 Flare、GPT-Image-2に次ぐ4位につけている。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/canva-craft-3.jpg?quality=90&strip=all&w=1200",
+          "cap": "Canva Craftで生成した画像。画像：Canva"
+        },
+        {
+          "t": "p",
+          "x": "Canvaは、オープンなModel Context Protocolを通じてAIエージェントがCraftに接続できるようにする計画で、より効率的なCraft-fastとCraft-ultrafastモデルも展開する。CraftはDream Labを通じて、現在すべてのユーザーが世界中で利用できる。"
+        }
+      ]
     }
   }
 }

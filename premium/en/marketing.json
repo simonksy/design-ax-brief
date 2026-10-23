@@ -2111,6 +2111,89 @@
           "x": "Google also asks advertisers to confirm they own the rights to images on their landing pages and allow Google to use them for advertising, placing responsibility for licensed or third-party imagery on the advertiser."
         }
       ]
+    },
+    "marketing/marketing-google-ads-sourced-videos": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google Ads has added a new \"Sourced videos\" on/off toggle setting to the asset optimization section. This uses Google AI to identify relevant videos from your approved sources and add them to your campaign automatically."
+        },
+        {
+          "t": "p",
+          "x": "The toggle was spotted by Reva Minkoff on LinkedIn; Hana Kobzová had spotted the help document change days earlier, noting the change “no longer requires advertisers to opt-in manually.”"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-sourced-videos-toggle-n1Mv05cA.jpg",
+          "cap": "Sourced videos: “Use videos from other channels.”"
+        },
+        {
+          "t": "p",
+          "x": "Per Google’s help document, sourced videos use Google AI and automated video crawling technology to identify relevant videos for Performance Max campaigns. They are enabled by default for all new campaigns, and may have been activated automatically on some existing campaigns."
+        },
+        {
+          "t": "p",
+          "x": "Sources can include social media platforms, your campaign’s landing page and your linked YouTube channel. Videos are selected by relevance, performance potential and best practice adherence, and up to 10 crawled videos can be automatically added to an asset group."
+        }
+      ]
+    },
+    "marketing/marketing-etsy-non-ai-image-rule": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/cYMlDQ6lWlMzUd8EncbsCfReT9sYO5rMJj0jdZzDCxw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODUzMTg0NjY1LmpwZw==.webp",
+          "cap": "The Etsy company logo displayed at its headquarters in New York City."
+        },
+        {
+          "t": "p",
+          "x": "E-commerce marketplace Etsy is cracking down on AI use in product listings. Etsy now mandates that most listings include at least one unedited photo of the product against a real background, according to a company blog post Thursday."
+        },
+        {
+          "t": "p",
+          "x": "Functional guides — such as patterns, recipes and instructions — can no longer be AI-generated. Bot-generated listings aren’t allowed and will be removed, and buyers may receive a refund if a listing didn’t meet the updated image requirements."
+        },
+        {
+          "t": "p",
+          "x": "Etsy also added a guidance feature to the listing form that flags images Etsy detects may use AI. “These changes are our starting point, not the finish line,” said James Ossman, Etsy’s Vice President of Customer Operations."
+        },
+        {
+          "t": "p",
+          "x": "The move comes as Etsy itself has invested more into using AI. CEO Kruti Patel Goyal told analysts the biggest opportunity for AI is on Etsy itself: “It's really about using AI to make Etsy much, much better at connecting the right buyers with the right sellers.”"
+        }
+      ]
+    },
+    "marketing/marketing-meta-ai-glowups": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/ATM.webp?w=600&h=315&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "From Oct. 30, if Meta's AI messes up your ad, that's on you. Buyers told ADWEEK that Meta's AI is already reworking their ads without asking."
+        },
+        {
+          "t": "p",
+          "x": "Bookshop.org said an automated account update from Meta opted it into a generative AI feature, which added an AI-generated illustration to its human-made ad without its knowledge. It has since turned off all of Meta's AI ad features."
+        },
+        {
+          "t": "img",
+          "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-1.28.28-PM.png?w=1024",
+          "cap": "Bookshop.org's post on Threads"
+        },
+        {
+          "t": "p",
+          "x": "Under Meta's updated Commercial Terms, advertisers will be \"solely responsible\" for whatever its AI features create or change, including features Meta switches on. Previously, liability stood with advertisers only if they chose to use Meta's AI tools. A Meta spokesperson did not directly address the question and said advertisers can turn off individual Advantage+ features in Ads Manager at any time."
+        },
+        {
+          "t": "p",
+          "x": "At agency Exverus, even after several rounds of quality checks, the team has had to pull live ads to strip out changes that slipped through, including added sitelinks, language translations, and AI-generated images or carousels built from the brand's own media. \"Meta puts the responsibility squarely on the advertiser, even when Meta's own tools applied the enhancements,\" said Ryan Adams."
+        },
+        {
+          "t": "p",
+          "x": "AdCellerant now systematically turns off Meta's default AI automation across every campaign."
+        }
+      ]
     }
   }
 }

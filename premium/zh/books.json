@@ -7204,6 +7204,169 @@
           "x": "诉状称，Meta从LibGen、Z-Library和Anna’s Archive等影子图书馆下载书籍，并自mid-2025起运行书籍扫描项目Project Vellum，用于训练Muse Spark和Muse Glimmer模型。Meta的相关案件定于2027年5月3日起进行陪审团审理。"
         }
       ]
+    },
+    "books/books-chakrabarty-dropped": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/10/News-October-22.jpg"
+        },
+        {
+          "t": "p",
+          "x": "继周一之后，又有一则AI相关的后续消息。这次涉及目前针对OpenAI的版权诉讼，以及OpenAI提出的一项动议：禁止原告方援引Dr. Tuhin Chakrabarty那篇被广泛引用的市场稀释论文。"
+        },
+        {
+          "t": "p",
+          "x": "Chakrabarty的研究认为，生成式AI正在导致市场稀释，并可能给创作者造成重大经济损失。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI此前辩称，法院在审理针对其提起的诉讼时不应考虑这篇论文，理由是该研究据称由本案原告的代理律所Susman Godfrey资助。"
+        },
+        {
+          "t": "p",
+          "x": "Chakrabarty已在宣誓声明中否认这一说法。但原告方并未反对AI方面的动议，Chakrabarty的论文已从提交的证据中撤出。"
+        },
+        {
+          "t": "p",
+          "x": "译者承压：在法兰克福，欧洲文学翻译协会理事会（CEATL）2026年的调查共有1,785名受访者，其中77%对业内的生成式AI持负面态度，超过三分之一曾考虑离开这一职业。百分之三十的人表示接到的委托减少，并将其归因于AI使用的增加。"
+        }
+      ]
+    },
+    "books/books-novelcrafter-gemini-argon": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "eLQESMPS8Bc"
+        },
+        {
+          "t": "p",
+          "x": "为Gemini Argon编写写作提示词 - Novelcrafter Live."
+        },
+        {
+          "t": "p",
+          "x": "我爱上了Gemini Argon……而且不只是因为它那个科学味十足的名字 ;) 我会花些时间研究这个模型，摸索怎样给它写提示词。过程中难免要反复试错，但欢迎一起来玩！"
+        }
+      ]
+    },
+    "books/books-ai-signal-noise": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Silverchair CEO Will Schweitzer指出，2月3日Anthropic发布了Claude的法律插件（plug-in）；学术出版领域并未发生任何事，但到收盘时，RELX下跌14%，Thomson Reuters下跌约18%，Wolters Kluwer下跌约13%。"
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/SC-Eaton-Event-Preview-541.jpg",
+          "cap": "Will Schweitzer在Silverchair Platform Strategies 2026会议上致辞"
+        },
+        {
+          "t": "p",
+          "x": "这篇文章源自他9月23日在华盛顿DC举行的Platform Strategies上的欢迎致辞。框架来自Wendy Queen：哪些信号值得立即行动，哪些属于背景，哪些只是天气。"
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Wendy-Queen-survey-graph.png"
+        },
+        {
+          "t": "p",
+          "x": "现场投票显示，关注点正转向AI介导（AI-mediated）的研究与发现，从14.3%升至22.9%；而对研究诚信与AI内容的关注则从17.1%降至5.7%。"
+        },
+        {
+          "t": "p",
+          "x": "在一家出版商的网站上，6月至8月间只有41%的内容请求被判定为可能来自真人。LibLynx发现，约三十家学术出版商收到的5000万次（50 million）访问请求中，有36%来自机器人。"
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/PS26-reader-change-graphs.png"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic的连接器目录列出了862个连接器，却没有一家学会出版商。他对年底前的建议是：本季度测量非人类流量，开展一项智能体可达性实验，并在计算行动成本的同时估算等待的成本。"
+        }
+      ]
+    },
+    "books/books-daegu-aidt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img8.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102012040005100_P4.jpg",
+          "cap": "正在质询的白承娥议员"
+        },
+        {
+          "t": "p",
+          "x": "（大邱=韩联社）记者黄秀彬（音译）= 今年大邱教育厅为在中小学推广人工智能数字教科书（AIDT）投入了数十亿韩元的订阅费，但有人指出其在实际教学中的使用率偏低。"
+        },
+        {
+          "t": "p",
+          "x": "共同民主党议员白承娥（比例代表）20日在釜山市教育厅举行的、以大邱等6个地区教育厅为对象的国会教育委员会国政监查中指出：“与2025年第1学期相比，今年全国使用AIDT的学校减少了84.8%，唯独大邱不同。”"
+        },
+        {
+          "t": "p",
+          "x": "她补充说：“今年使用AIDT的622所学校中，有一半即311所在大邱。”"
+        },
+        {
+          "t": "p",
+          "x": "白承娥还指出，大邱地区学校大量采用AIDT，似乎是由于教育监施压。"
+        },
+        {
+          "t": "p",
+          "x": "她指出：“尽管大邱市教育厅多次向各校发送与AIDT相关的公文并鼓励使用，但实际使用次数仍然偏低。”"
+        },
+        {
+          "t": "p",
+          "x": "根据白承娥从大邱市教育厅获得的资料，截至今年第1学期，向大邱引入AI DT的中小学提供的订阅费共计45억8천900만원。"
+        },
+        {
+          "t": "p",
+          "x": "其中，使用AI数字教科书不足20次的学校统计为119所。"
+        },
+        {
+          "t": "p",
+          "x": "白承娥质问：“通常一个学期按20周计算，意味着38.3%的学校一周连一次都没用过。”她又问：“凭这样的数字，能说AI数字教科书得到了妥善使用吗？”"
+        },
+        {
+          "t": "p",
+          "x": "她接着追问：“全国其他学校大多没有选择的教育资料，为什么唯独大邱如此大量订阅，并为此另行提供支持？”"
+        },
+        {
+          "t": "p",
+          "x": "对此，大邱市教育监姜银姬回答说：“分析使用率低的学校，我承认确实存在使用不足的部分。”但她也表示：“不过，实际充分使用并对学生学习起到积极帮助的案例更多。”"
+        },
+        {
+          "t": "p",
+          "x": "她接着补充说：“我们正在持续提供支持，以便AI数字教科书能够得到良好使用。”"
+        },
+        {
+          "t": "img",
+          "src": "https://img0.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102011870005100_P4.jpg",
+          "cap": "正在作工作报告的大邱教育监姜银姬"
+        }
+      ]
+    },
+    "books/books-kindle-plus-ai-audiobooks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/kindleplus.jpg?quality=90&strip=all&crop=0%2C10.721349621873%2C100%2C78.557300756254&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "订阅服务的“Plus化”势头不减，Amazon也成为最新跟进者，对Kindle Unlimited进行了品牌重塑。这项订阅服务如今名为Kindle Plus，但仍将以每月$11.99的价格，提供Kindle目录中精选电子书、漫画和杂志的无限畅读。据ZDNet报道，其中大量书目仍配有对应的有声书，读者可在阅读和收听之间切换，并从上次停下的位置继续；Kindle Plus还将把范围扩大到由AI旁白朗读的“虚拟语音”有声书。"
+        },
+        {
+          "t": "p",
+          "x": "“这项订阅将继续提供同样出色的阅读体验，可访问海量书目，现在还新增了U.S.目录中的大量有声书，且不额外收费，”Amazon发言人Josh Pflug在给The Verge的电子邮件声明中表示。"
+        },
+        {
+          "t": "p",
+          "x": "Kindle Plus仍是独立于Amazon Prime的单独订阅，用户同时最多仍只能借阅20种书目，但没有归还期限。Amazon现在还允许使用Kindle Direct Publishing平台的作者，将自己的有声书提供给Kindle Plus订阅用户。"
+        },
+        {
+          "t": "p",
+          "x": "新书加入KDP Select后，将自动提供虚拟语音有声书，作者也可以为此前已出版的作品选择AI旁白。对于偏好真人旁白的作者，通过Audible的Audiobook Creation Exchange（ACX）平台制作的有声书现在也可在Kindle Plus上收听，但先从US订阅用户开始。Amazon计划逐步扩展到其他市场。"
+        }
+      ]
     }
   }
 }

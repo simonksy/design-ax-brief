@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "section": "medicine",
   "user_selection": null,
   "picks": [
@@ -9,14 +9,14 @@
       "category": "medicine",
       "accent": "#00897b",
       "motif": "sphere",
-      "title": "Developers, not doctors, should be held accountable for generative AI medical devices, providers say",
-      "url": "https://www.healthcaredive.com/news/developers-not-doctors-held-accountable-generative-ai-medical-devices-fda/833738/",
-      "source": "Healthcare Dive",
-      "published_iso": "2026-10-22T11:54:47-04:00",
-      "og_image": "https://imgproxy.divecdn.com/xBI1Tv0GTXys6wpRV0QS8JGGmJztWfwwzzGhEKntsIc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNTU1X2FzUm5RNnkuanBn.webp",
-      "excerpt": "Provider groups are lobbying the FDA to make tech companies responsible for the safety and performance of generative AI-backed medical devices, arguing makers are best equipped to evaluate them.",
+      "title": "Five AI tools for prostate cancer screening are recommended by NICE",
+      "url": "https://www.bmj.com/content/395/bmj-2026-101231",
+      "source": "The BMJ",
+      "published_iso": "2026-10-23T07:21:11-07:00",
+      "og_image": "",
+      "excerpt": "NICE has recommended five AI tools that highlight areas of possible prostate cancer on MRI for NHS use while further evidence on their accuracy is generated.",
       "lang": "en",
-      "rationale": "Covers the comments provider groups filed with the FDA's consultation on generative-AI medical devices, centred on who carries liability. That reaches regulators directly. It is the single kept item from a 5-article cluster on the same consultation."
+      "rationale": "A regulator decision: NICE cleared five prostate-MRI AI tools for NHS use while evidence is gathered. The 10-14 AuntMinnie card was a single accuracy study, not a health-technology appraisal, so this is a separate event."
     },
     {
       "rank": 2,
@@ -24,14 +24,14 @@
       "category": "medicine",
       "accent": "#0070f3",
       "motif": "sphere",
-      "title": "Sentara Health deploys new AI case management tool co-developed with Regard",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/sentara-health-deploys-new-ai-case-management-tool-co-developed-regard",
-      "source": "Fierce Healthcare",
-      "published_iso": "2026-10-22T14:30:00-04:00",
-      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1489370843.jpg?VersionId=TgJt3wnG4D8o0Y1CLBmihDbxRdigvp0.",
-      "excerpt": "Sentara Health rolled out an AI case-management tool built with Regard that lets case managers query charts in plain language for discharge planning; it plans to expand into acute and ambulatory care, projecting ~90,000 hours saved.",
+      "title": "Can AI diagnose like a team of doctors? New research puts it to the test",
+      "url": "https://microsoft.ai/news/building-medical-superintelligence/",
+      "source": "Microsoft AI",
+      "published_iso": "2026-10-22T18:01:00+00:00",
+      "og_image": "https://microsoft.ai/wp-content/uploads/2026/10/health_v5_stat_typeset.webp",
+      "excerpt": "Microsoft AI published new research testing whether its diagnostic orchestrator can work through complex cases like a panel of doctors, claiming it outperforms physicians on diagnostic accuracy.",
       "lang": "en",
-      "rationale": "A health system rolled out a plain-language chart-query tool for discharge-planning case managers, with a projected 90,000 hours saved. Neither Sentara nor Regard appears in the 30-day history."
+      "rationale": "New diagnostic-orchestrator research from Microsoft AI, benchmarked against physician panels. Microsoft has no card in the 30-day history. The accuracy figures are the vendor's own claims, so the enrichment pass should attribute them."
     },
     {
       "rank": 3,
@@ -39,14 +39,14 @@
       "category": "medicine",
       "accent": "#7928ca",
       "motif": "sphere",
-      "title": "“목 찍다 놓친 폐암, AI가 잡아낸다” 의료영상 ‘기회검진’ 새 지평",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014596",
-      "source": "의학신문",
-      "published_iso": "2026-10-22T13:36:27+09:00",
-      "og_image": "https://cdn.bosa.co.kr/news/photo/202610/3014596_415527_236.png",
-      "excerpt": "코어라인소프트의 흉부 CT 폐결절 AI 'AVIEW LCS'로 목 CT 판독에서 놓치기 쉬운 초기 폐암 병변을 검출한 연구가 Korean Journal of Radiology에 실렸다. 8만1794명 추적에서 폐암 확진자 123명의 과거 목 CT에 병변이 이미 찍혀 있었다.",
+      "title": "식약처, AI 신약 심사기준 연내 마련...제네릭·일반약 허가 규제 완화",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014609",
+      "source": "의학신문(일간보사)",
+      "published_iso": "2026-10-23T14:00:00+09:00",
+      "og_image": "https://cdn.bosa.co.kr/news/photo/202610/3014609_415542_172.jpg",
+      "excerpt": "[의학신문·일간보사=이재원 기자] 식품의약품안전처가 인공지능(AI)을 활용해 개발한 의약품의 허가·심사 가이드라인을 올해 12월까지 마련한다. AI를 이용한 신약",
       "lang": "ko",
-      "rationale": "A Korean Journal of Radiology study that followed 81,794 people and found lung cancers on earlier neck CTs using AI-assisted opportunistic screening. The full URL (idxno=3014596) is new. The 10-10 Coreline card covered Japanese society certification, which is a different event."
+      "rationale": "Korea's MFDS committed to approval and review guidelines for AI-developed drugs by December, a concrete regulatory deliverable. The full URL (idxno=3014609) is not in history. The nearest card is 3014596, a different story about lung-cancer screening."
     },
     {
       "rank": 4,
@@ -54,14 +54,14 @@
       "category": "medicine",
       "accent": "#ff5a4d",
       "motif": "sphere",
-      "title": "LLMs mostly avoid unnecessary care in Choosing Wisely tests",
-      "url": "https://www.auntminnie.com/home/article/15837911/llms-mostly-avoid-unnecessary-care-in-choosing-wisely-tests",
-      "source": "AuntMinnie",
-      "published_iso": "2026-10-19T21:00:00.000Z",
-      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/artificial-intelligence-ai-binary-code-400.8uQeMX4Imz.jpg?auto=format%2Ccompress&fit=fillmax&q=70&w=400",
-      "excerpt": "In an Annals of Internal Medicine study, LLMs recommended potentially unnecessary care in about 5% of Choosing Wisely scenarios, but over 40% of responses recommended thyroid ultrasound for small incidental nodules.",
+      "title": "Human oversight of erroneous clinical AI and decision support: a systematic review and meta-analysis",
+      "url": "https://www.nature.com/articles/s41746-026-03408-5",
+      "source": "npj Digital Medicine",
+      "published_iso": "2026-10-23T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Artificial intelligence (AI) increasingly supports clinical decisions, but human oversight is protective only if clinicians recognize and resist erroneous output. We systematically reviewed controlled and real-world studies of clinician responses to incorrect automated advice. Forty-six reports repr",
       "lang": "en",
-      "rationale": "An Annals of Internal Medicine study testing whether LLMs recommend low-value care. Its specific failure mode (thyroid ultrasound for small nodules) is something clinicians can act on. It is a different study from the 10-17 NEJM AI cost-of-care card."
+      "rationale": "A meta-analysis of 46 reports on whether clinicians catch wrong AI advice. It tests the 'human in the loop' assumption behind current regulation. The 10-21 card was one neonatal automation-bias study, and the tagged 10-19 BMJ match is a different systematic review on trial reporting."
     },
     {
       "rank": 5,
@@ -69,44 +69,45 @@
       "category": "medicine",
       "accent": "#3b6bff",
       "motif": "sphere",
-      "title": "CT tool may detect pulmonary fibrosis progression more than 2 years sooner",
-      "url": "https://radiologybusiness.com/topics/medical-imaging/computed-tomography-ct/ct-tool-may-detect-pulmonary-fibrosis-progression-more-2-years-sooner",
-      "source": "Radiology Business",
-      "published_iso": "2026-10-20T20:13:53+00:00",
-      "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-2135067814.jpg?h=d5eed9cb&itok=YDymF8NG",
-      "excerpt": "Brainomix's FDA-cleared AI quantitative CT tool e-Lung flagged pulmonary fibrosis progression an average of 16 months (up to 28) before clinical diagnosis in 509 patients across three U.S. centers.",
-      "lang": "en",
-      "rationale": "A three-center study of 509 patients in which Brainomix's FDA-cleared e-Lung flagged pulmonary fibrosis progression a mean 16 months early. No fibrosis or Brainomix story appears in the history. The tagged 10-22 match is a pulmonary embolism study, a different disease and product."
+      "title": "약사회, 약사 업무지원 AI 개발…현장 테스트 약사 모집",
+      "url": "https://www.dailypharm.com/user/news/343652",
+      "source": "데일리팜",
+      "published_iso": "2026-10-21T15:02:45+09:00",
+      "og_image": "https://vod.dailypharm.com/new_dailypharm/editor/content/2026/10/21/7f701b6a-9ecd-4116-8634-0835bb9c2f3c.png",
+      "excerpt": "대한약사회(회장 권영희)가 약사의 전문적 판단과 환자 상담을 지원하는 ‘약사 업무지원 AI’ 개발을 본격 추진한다. 대한약사회는 21일 의약품 정보 확인과 약물검토, 상담 준비, 기록 작성 등에 AI를 활용하는 약국 AI 전환(AX) 사업을 추진한다고 밝혔다. 약국의 업무 부담을 줄이고 약사가 환자별 약물관리와 전문적인 상담에 더욱 집중할 수 있도록 지원하는 것이 목적이며, 약사의…"
+      ,
+      "lang": "ko",
+      "rationale": "The Korean Pharmaceutical Association launched a practice-support AI for medication review and counselling and is recruiting pharmacists for field tests. It reaches front-line clinicians, and no pharmacy-AI story appears in the 30-day history."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.healthcaredive.com/news/developers-not-doctors-held-accountable-generative-ai-medical-devices-fda/833738/": {
+      "https://www.bmj.com/content/395/bmj-2026-101231": {
         "verdict": "new",
-        "nearest": "https://www.healthcaredive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833120/",
+        "nearest": "https://www.auntminnie.com/clinical-news/mri/news/15837355/ai-on-par-with-radiologists-for-finding-prostate-cancer-on-mri",
         "new_action": ""
       },
-      "https://www.fiercehealthcare.com/ai-and-machine-learning/sentara-health-deploys-new-ai-case-management-tool-co-developed-regard": {
+      "https://microsoft.ai/news/building-medical-superintelligence/": {
         "verdict": "new",
-        "nearest": "https://www.fiercehealthcare.com/ai-and-machine-learning/abridge-university-texas-system-enter-enterprise-wide-agreement-expanded-ai",
+        "nearest": "https://www.nature.com/articles/s41746-026-03325-7",
         "new_action": ""
       },
-      "https://www.bosa.co.kr/news/articleView.html?idxno=3014596": {
+      "https://www.bosa.co.kr/news/articleView.html?idxno=3014609": {
         "verdict": "new",
-        "nearest": "https://www.dailypharm.com/user/news/343098",
+        "nearest": "https://www.gov.uk/government/news/mhra-2030-strategy-to-modernise-patient-centred-regulation-for-the-era-of-ai-and-personalised-medicines",
         "new_action": ""
       },
-      "https://www.auntminnie.com/home/article/15837911/llms-mostly-avoid-unnecessary-care-in-choosing-wisely-tests": {
+      "https://www.nature.com/articles/s41746-026-03408-5": {
         "verdict": "new",
-        "nearest": "https://ai.nejm.org/doi/full/10.1056/AIoa2600537",
+        "nearest": "https://www.bmj.com/lookup/doi/10.1136/bmj-2026-100855",
         "new_action": ""
       },
-      "https://radiologybusiness.com/topics/medical-imaging/computed-tomography-ct/ct-tool-may-detect-pulmonary-fibrosis-progression-more-2-years-sooner": {
+      "https://www.dailypharm.com/user/news/343652": {
         "verdict": "new",
-        "nearest": "https://www.nature.com/articles/s41746-026-03418-3",
+        "nearest": "https://www.bosa.co.kr/news/articleView.html?idxno=3014062",
         "new_action": ""
       }
     },
-    "note": "FDA generative-AI device consultation cluster (5 items: Endpoints AMA CEO interview, Endpoints 'industry weighs in', Healthcare Dive 'developers not doctors', MedCity AMA risk-based oversight, MedCity FDA official Abramson). Kept only Healthcare Dive. It reports the comments filed to FDA and is not a continuation of the 10-16 AMA agentic governance framework card, which was a separate AMA document. The other four were dropped as within-pool duplicates; the AMA CEO interview and the Abramson interview are commentary in any case. IHF World Hospital Congress pair (메디게이트 'AI 성과를 숫자로', 청년의사 '병원 AI 명과 암'): both dropped. They are conference-session commentary with no new release or decision, and the same congress was already passed over on 10-21 and 10-22. Not picked on merit or diversity: Elucid FFR-IQ FDA clearance (strong, but cardiovascularbusiness.com is not on the medicine allowed_domains list; first backfill if the orchestrator accepts the domain). Doximity adds UpToDate to Ask (history_match related to the 10-09 Suki/UpToDate Ask card; a distinct release, but the same pattern, and it would be a second Fierce card; second backfill). Mayo pancreatic CT body composition (a third CT-imaging card; history_match to the 10-12 pancreatic histopathology card is a different method). Pitt breast-AI uncertainty model (research). DL-vs-manual segmentation radiomics (Oct 14, older, methodological). npj silent-evaluation of GPT portal drafts and GUARD-LGG (no og_image; research). Nature personalized health advice (feature). STAT AI sandboxes (Oct 15, policy commentary). bosa KIMES regulatory roundtable (panel discussion). 청년의사 EMA AI drug-development talk (conference remarks). bosa and docdocdoc URLs were compared in full including idxno: 3014596 is not in history (history holds 3013809, 3014062, 3014060, 3013789, 3014484). Diversity: 5 distinct outlets (Healthcare Dive, Fierce Healthcare, 의학신문, AuntMinnie, Radiology Business). Types: a regulatory consultation, a hospital deployment, a Korean screening study, an LLM clinical-behaviour study and a validation of an FDA-cleared imaging tool. No pathogen or biosecurity content."
+    "note": "Dropped as already published: Nature 'AI doctors' orders come with a sky-high bill' is news coverage of the 10-17 NEJM AI cost-of-care study (AIoa2600537), so it is the same story. FDA generative-AI device consultation cluster (MedCity AMA risk-based oversight, MedCity FDA official Abramson, Endpoints AMA CEO interview): all dropped. The consultation ran on 10-23 as the Healthcare Dive 'developers, not doctors' card, and these are comment letters, interviews and commentary on the same docket with no new FDA decision. STAT OpenEvidence JAMA paper: newsletter analysis of the JAMA study published 10-16 (Becker's), so a follow-up with no new event. STAT AI sandboxes (Oct 15): policy commentary on the same running state-regulation story as the 10-15 STAT lobbyists card. Nature Medicine 'conversational AI in primary care': a news-and-views piece that may cover the AMIE study already published 10-10 (Google/Lancet). Skipped as a possible repeat that is also commentary. Not picked on merit or diversity: AuntMinnie night-shift fatigue study (first backfill; overlaps pick 4's oversight theme), Rivanna BoneEnhance FDA clearance (second backfill; AI nature not explicit in the excerpt), Doximity+UpToDate Ask (same pattern as the 10-09 Suki/UpToDate card; partnership), Biograph cardiac CT (company PR), Lunit ESMO HER2 (abstract announcement; Lunit card ran 10-20), LG화학 AI bio conference (conference remarks), 웨이센 UEG (promotional booth news), 에이아이트릭스-강북삼성 (feature/MOU-style), NEJM AI medulloblastoma case study (Oct 16, single case, no og_image). bosa URLs were compared in full including idxno: 3014609 is not in history (history holds 3013809, 3014062, 3014060, 3013789, 3014484, 3014596). Diversity: 5 distinct outlets (BMJ, Microsoft AI, 의학신문, npj Digital Medicine/nature.com, 데일리팜). Types: a UK HTA decision, vendor diagnostic research, a Korean regulatory guideline, a safety meta-analysis and a pharmacy practice rollout. No funding, M&A or settlement items. No pathogen or biosecurity content. BMJ and npj picks have empty og_image, so ax-media must source an in-article image."
   }
 }

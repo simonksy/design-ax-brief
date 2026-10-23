@@ -8436,6 +8436,164 @@
           "x": "例如，你可以告诉AI助手，在某个时间之后按下Hue调光开关时，启动并轮换场景。AI会替你创建这一自动化，无需自己动手设置。该功能仅支持Hue Bridge Pro。"
         }
       ]
+    },
+    "gadgets/gadgets-copilot-explorer-retire": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/windows-11-copilot-explorer-teaser.jpg",
+          "cap": "Microsoft将从Windows 11中OneDrive文件的File Explorer右键菜单里移除八项Copilot操作。（示意图）"
+        },
+        {
+          "t": "p",
+          "x": "在Windows 11中右键点击OneDrive文件，目前的右键菜单会出现一个Copilot子菜单，内含八项预设的AI操作。这些快捷方式即将消失。Microsoft在Microsoft 365 Message Center以ID MC1515940发布了停用通知，通知于10月19日发布，次日更新。停用将于2026年11月中旬（mid-November）开始，预计12月初在全球完成。"
+        },
+        {
+          "t": "p",
+          "x": "涉及的操作包括Summarize、Create FAQ、Compare Files和Ask a question，以及图片操作Explain image、Explain images和Compare images，还有Extract text。Microsoft希望简化用户在File Explorer中配合OneDrive文件使用Copilot的方式，因此将所有功能整合到单一入口。"
+        },
+        {
+          "t": "p",
+          "x": "Ask Copilot仍保留在右键菜单中。它会打开一个附带该文件的新Copilot对话，用户再自行输入任务。文件以引用方式附加，因此原有的权限和保护措施依然有效。这八项操作仍可在OneDrive活动中心使用。"
+        },
+        {
+          "t": "p",
+          "x": "4月，Copilot按钮已从Notepad和Snipping Tool中消失；5月，Microsoft确认Copilot键可以重新映射为其他功能。Windows Latest将这次变化与外界对Windows 11 AI功能的持续批评联系起来。Microsoft在通知中并未提及这一关联。"
+        }
+      ]
+    },
+    "gadgets/gadgets-timekettle-w4-offline": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/TimeKettle.png"
+        },
+        {
+          "t": "p",
+          "x": "Timekettle的翻译耳机又多了一些多语种能力。W4 Pro和W4 Plus同传耳机的一次新软件更新新增了12个离线语言对。W4 Pro于2025年推出，更新的W4 Plus则在2026年9月上市。两款产品此前均已支持离线翻译；10月20日的更新将支持的离线语言对从13个扩展到25个，覆盖12种语言。"
+        },
+        {
+          "t": "p",
+          "x": "新增的12个语言对包括阿拉伯语、泰语、意大利语、葡萄牙语、印尼语和越南语，均支持与英语和中文的双向翻译。它们加入了日语、西班牙语、俄语、韩语、德语和法语等既有语言。在线翻译覆盖范围也有所扩大，新增哈萨克语和高棉语，达到54种语言和108种口音。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Timekettle_Face_to_Face_Translation.jpg",
+          "cap": "Timekettle面对面翻译（Timekettle）"
+        },
+        {
+          "t": "p",
+          "x": "支持更多语言并不意味着能完美理解。地方口音、背景噪音和本地说法仍可能造成问题，而扩展后的翻译能力尚未经过独立测试。W4 Pro和W4 Plus用户现已可以获取此次更新，无需购买新耳机。"
+        },
+        {
+          "t": "p",
+          "x": "下方视频展示的是W4 Pro翻译功能的早期演示，当时最新更新尚未扩展其离线语言支持。"
+        },
+        {
+          "t": "video",
+          "yt": "SOqC9YXPsJA"
+        }
+      ]
+    },
+    "gadgets/gadgets-be-my-ai-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Blind-Man-using-walking-stick.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Eren Li / Pexels"
+        },
+        {
+          "t": "p",
+          "x": "University of Maryland（UMD）的研究人员发现，AI驱动（AI-powered）的视觉辅助工具可能让盲人用户为获取真正需要的信息付出过多努力。这项题为《Say It My Way: Exploring Control in Conversational Visual Question Answering with Blind Users》的研究，考察了人们如何使用Be My Eyes应用中的AI功能Be My AI。"
+        },
+        {
+          "t": "p",
+          "x": "研究人员招募了11名盲人参与者，他们先在实验室测试Be My AI，随后在日常生活中使用了10天。团队分析了418次交互。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Example-interaction-consisting-of-five-conversational-turns-with-word-count-for-each-turn.jpg?resize=1800%2C1080&ssl=1",
+          "cap": "University of Maryland"
+        },
+        {
+          "t": "p",
+          "x": "参与者提出的问题通常在10到20个词左右，而AI的回答则长出10倍以上。对话平均进行三轮，但有些多达21轮。一名寻找钥匙的参与者收到的是一段冗长的图像描述，而不是聚焦于丢失物品的回答。超过一半的参与者认为，应用习惯先给出完整图像描述是一个严重问题。"
+        },
+        {
+          "t": "p",
+          "x": "有些参与者会解释自己提问的原因；另一些则把复杂任务拆分成更小的问题。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Be-My-AI-in-a-laboratory-testing.jpg?resize=1800%2C1080&ssl=1",
+          "cap": "University of Maryland"
+        },
+        {
+          "t": "p",
+          "x": "研究还暴露出估算距离和随时间变化的困难、难以把握的图像取景，以及有关摄像头摆放的指导有限等问题。研究人员认为，盲人用户不应为了得到简单答案而必须掌握复杂的提示词。"
+        }
+      ]
+    },
+    "gadgets/gadgets-context-vault": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/5KK2m2A35afwd8WgVU2hVX-1200-80.jpg",
+          "cap": "图片来源：Shutterstock/Prostock-studio"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft正在为AI驱动（AI-powered）的增强搜索这一构想尝试新思路，其功能比Recall有限得多——不过初期反应依然相当负面。Windows Latest发现，Microsoft正在开发Project Pantheon，其当前名称为“Context Vault”。与内置于Windows 11的Recall不同，它需要从Microsoft Store安装。"
+        },
+        {
+          "t": "p",
+          "x": "它不会自动定期截取你的PC屏幕。相反，你需要手动添加想在Context Vault中使用的文件或内容，然后就其向AI提问，或让它整理来自文档、图像、网页或剪贴板文本的材料。由于它可以利用基于云的AI，因此不一定需要Copilot+ PC，你还可以让Claude等第三方AI访问你的保险库。该应用尚未正式推出。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/r4maWLpBuFkNeiXEUfcPZF-1024-80.jpg",
+          "cap": "Microsoft的Recall功能总体上并不受欢迎（图片来源：Microsoft）"
+        },
+        {
+          "t": "p",
+          "x": "据报道，Microsoft正考虑采用加密、按应用划分的访问控制以及Windows Hello登录来保护保险库。外界反应普遍持怀疑态度：一位Redditor称这是“解决一个并不存在的问题”的典型案例。TechRadar的结论是，anti-Recall人士不会因为同一概念换了种做法就被说服。"
+        }
+      ]
+    },
+    "gadgets/gadgets-mori-mushroom-lamp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-41.jpg?w=1200",
+          "cap": "售价849美元的Mori是一款能对周围环境作出反应的AI机器人伙伴。"
+        },
+        {
+          "t": "p",
+          "x": "Oka于周四发布的Mori，一半像发光的蘑菇灯，一半像Furby。CNET认为，尽管849美元的零售价让它不太好卖，但看到一款用AI展现俏皮克制的设备仍令人耳目一新。它明确表示自己没兴趣播放Apple Music歌单。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-listens-to-music-2.gif?w=864",
+          "cap": "Mori听着音乐，随后害羞地躲了起来。"
+        },
+        {
+          "t": "p",
+          "x": "启动后，Mori会从机身中弹出，用摄像头和传感器俏皮地回应，说着自己独有的婴儿般的语言。它高10英寸，会循着你的声音歪头并转动“眼睛”。Oka表示，Mori在设备端处理图像和音频以判断情境，随后将其丢弃；用于区分熟悉与陌生面孔的人脸识别数据会被存储，但不会上传。"
+        },
+        {
+          "t": "p",
+          "x": "被夸可爱时它会咕咕作声、显得害羞；被问到Bluetooth音乐模式时则发出不以为然的声音，这体现了它的情境AI。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-24-rotated-e1792612718695.jpg?w=1200",
+          "cap": "缩回机身后，Mori会关闭摄像头、播放冥想音乐，变成一盏彩色灯。"
+        },
+        {
+          "t": "p",
+          "x": "按下它的头，它就会缩回机身，播放类似白噪音的曲子，头部发出各种颜色的光。定价方面，创始版649美元，下一批预订799美元，最终标准版849美元，均含两年订阅，之后每月17美元或每年80美元。Oka称其为“Artificat 01”，并表示它随时间发展的个性应能转移到未来的新机身上。"
+        }
+      ]
     }
   }
 }

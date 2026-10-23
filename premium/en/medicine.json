@@ -1927,6 +1927,127 @@
           "x": "\"There will not be new autonomous actions taken as a result of these capabilities,\" said Epic VP Johnston Thayer. Testing with some health system partners begins by the end of the year."
         }
       ]
+    },
+    "medicine/medicine-ms-diagnosis": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://microsoft.ai/wp-content/uploads/2026/10/health_v5_logo_large-1280x717.webp"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft AI says its diagnostic system, MAI-DxO, is 1.7 times more accurate than physicians on common US emergency-department presentations from MIMIC-IV-ED, and more than twice as accurate on complex NEJM cases. The work is published in Science."
+        },
+        {
+          "t": "p",
+          "x": "The paper introduces the Sequential Diagnosis Benchmark (SDBench): 304 complex NEJM cases plus typical MIMIC-IV-ED cases, where AI or physicians start with limited information and choose what to request next. MAI-DxO operates like a panel of virtual physicians, debating over several rounds and weighing each test’s value against its cost."
+        },
+        {
+          "t": "p",
+          "x": "According to Microsoft, MAI-DxO achieved 83% accuracy on NEJM cases versus 22% for physicians without reference resources and 36% with them, and 80% versus 47% on emergency-department cases. One cost-optimised configuration reached 81% at less than half the cost of comparative systems."
+        },
+        {
+          "t": "p",
+          "x": "Microsoft is open-sourcing SDBench for select NEJM cases and will run a prospective study with Beth Israel Deaconess Medical Center in Boston, measuring performance against physicians’ independent assessments."
+        }
+      ]
+    },
+    "medicine/medicine-mfds-aidrug": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The Ministry of Food and Drug Safety (MFDS) will prepare approval and review guidelines for medicines developed using artificial intelligence (AI) by December this year. The aim is to ease the uncertainty drugmakers have faced: AI is increasingly used to discover drug candidates and predict toxicity, but there has been no separate standard for evaluating this work during approval review."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.bosa.co.kr/news/photo/202610/3014609_415542_172.jpg",
+          "cap": "Photo: The Medical Newspaper DB."
+        },
+        {
+          "t": "p",
+          "x": "The plan for rationalizing regulation in the bio sector was unveiled at the 2nd plenary meeting of the Regulatory Rationalization Committee, chaired by the President, on the 23rd."
+        },
+        {
+          "t": "p",
+          "x": "Until now, even when drugmakers used AI to discover drug candidates or predict toxicity, it was hard to judge what data to prepare for approval review. The U.S. FDA and Europe's EMA released joint guidelines this year setting out 10 basic principles the industry should follow in AI-based drug development, and the MFDS plans to reflect such international regulatory trends."
+        },
+        {
+          "t": "p",
+          "x": "The government expects that using AI could cut traditional drug development costs, which average 1 trillion to 2 trillion won (1조~2조원), by up to 50%. Director General Shin Jun-su said, “As the number of medicines developed using AI technology grows, we will develop clear and specific review guidelines.”"
+        },
+        {
+          "t": "p",
+          "x": "The ministry will also pursue exempting water-soluble injectables with identical ingredients and excipients from submitting equivalence data, simplifying submission requirements for over-the-counter drugs with minor formulation differences, and a one-stop integrated review for digital combination medicines that incorporate AI and software."
+        }
+      ]
+    },
+    "medicine/medicine-ai-oversight": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Artificial intelligence (AI) increasingly supports clinical decisions, but human oversight is protective only if clinicians recognize and resist erroneous output. The authors systematically reviewed controlled and real-world studies of clinician responses to incorrect automated advice. Forty-six reports represented 41 independent cohort clusters, including 40 core cohorts."
+        },
+        {
+          "t": "p",
+          "x": "Across three adjusted cohorts, clinician correctness was substantially higher with correct than incorrect automated advice (pooled OR 10.19, 95% CI 7.43–13.98). In four real-world computerized ECG studies, 26.6% of erroneous interpretations were not corrected or recognized (95% CI 6.4–65.6%)."
+        },
+        {
+          "t": "p",
+          "x": "Contemporary AI and large language model studies also documented harmful reliance but were too heterogeneous for pooling. Patient-level adverse events were reported in one retrospective cohort. Human oversight should be evaluated as an error-interception capability rather than assumed to ensure safety, the authors conclude."
+        }
+      ]
+    },
+    "medicine/medicine-pharmacy-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The Korean Pharmaceutical Association (President Kwon Young-hee) is moving ahead in earnest with developing a ‘pharmacist work-support AI’ to assist pharmacists’ professional judgment and patient counseling. It is a pharmacy AI transformation (AX) project that applies AI to checking drug information, drug reviews, counseling preparation and record-keeping, and the association plans to build a common work-support base that member pharmacists nationwide can use at no cost."
+        },
+        {
+          "t": "img",
+          "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/21/7f701b6a-9ecd-4116-8634-0835bb9c2f3c.png"
+        },
+        {
+          "t": "p",
+          "x": "The association selected AI company Selvik (셀빅) as its development partner and began building the system in July. The polypharmacy counseling support service under development analyzes a patient’s medications and counseling information, presents the drug problems and counseling questions a pharmacist should check first along with their evidence and sources, and supports voice summaries and counseling records. Final review, professional judgment and patient counseling are carried out by the pharmacist directly."
+        },
+        {
+          "t": "p",
+          "x": "The field test is recruiting around 30 consultant pharmacists (30명 내외) with experience in the polypharmacy management program. Applications run from the 21st to the 25th, and testing runs from the 26th to the end of November. Participating pharmacists will receive a small reward."
+        },
+        {
+          "t": "p",
+          "x": "Lee Yoon-pyo, director of information and communications, said, “AI should not be a technology that replaces pharmacists but a means that helps pharmacists make fuller use of their expertise.”"
+        }
+      ]
+    },
+    "medicine/medicine-genai-device-liability": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/xBI1Tv0GTXys6wpRV0QS8JGGmJztWfwwzzGhEKntsIc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNTU1X2FzUm5RNnkuanBn.webp"
+        },
+        {
+          "t": "p",
+          "x": "National healthcare groups representing hospitals, health systems, physicians and telehealth companies told the FDA they don't want to be held responsible for the safety and performance of medical devices that use generative AI, arguing that developers should shoulder that burden."
+        },
+        {
+          "t": "p",
+          "x": "The American Hospital Association, American Medical Association and American Telemedicine Association said monitoring such devices — including chatbots and tools that synthesize medical information — would place too heavy a load on providers, particularly small and rural practices. They also asked the FDA to create ways for providers to report problems."
+        },
+        {
+          "t": "p",
+          "x": "“Manufacturers should remain responsible for the safety and performance of the devices they sell,” said ATA Action, the telemedicine group's lobbying arm. Hospitals added that a lack of transparency into how the models work makes flaws hard for providers to spot."
+        },
+        {
+          "t": "p",
+          "x": "The comments responded to the FDA's request for feedback on its proposed approach to regulating generative AI-enabled devices, which accept open-ended inputs and can produce different outputs to similar inputs. Provider groups largely backed its plan to assess risk by the actions a device performs, though the AHA said action alone may not predict risk, and the AMA noted a human in the loop does not necessarily mitigate it."
+        },
+        {
+          "t": "p",
+          "x": "WEDI suggested an adverse-event reporting process and “nutrition” labels for AI tools. The FDA's Rick Abramson said the agency plans to post draft guidance on generative AI-enabled devices in the coming months."
+        }
+      ]
     }
   }
 }

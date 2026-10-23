@@ -7496,6 +7496,119 @@
           "x": "与竞争对手相比，Apple对AI的态度较为保守；MusicTech预计此类收购会更多，并被悄然融入其软件工作流程。"
         }
       ]
+    },
+    "music/music-suno-answer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
+          "cap": "图片来源：FotoField / Shutterstock.com"
+        },
+        {
+          "t": "p",
+          "x": "Suno于10月20日向US马萨诸塞州联邦地区法院提交了一份44页的答辩状，承认并未删除用于训练其AI模型的全部录音。该文件回应了UMG和Sony在起诉该公司时提出的“洗白（laundering）”指控。"
+        }
+      ]
+    },
+    "music/music-youtube-ai-ugc": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "YouTube发布了新的Culture & Trends报告，考察人们如何借助生成式AI进行创意自我表达，报告也揭示出一些有趣的UGC新潜力。在一项针对近700名14至44岁US视频发布者的调查中，72%表示会在视频或图片中使用AI。61%表示有兴趣用AI把自己放进内容里，而已在制作AI视频的人中，超过三分之二让自己出镜。"
+        },
+        {
+          "t": "p",
+          "x": "YouTube称，许多人用它来进行“数字换装”，或想象自己扮演不同角色。对艺人团队而言，一个合乎逻辑的用法是让粉丝把自己放进艺人的音乐视频，作为便于分享的宣传元素。"
+        },
+        {
+          "t": "p",
+          "x": "Music Ally发现了一条粉丝制作的Instagram Reel，用Higgsfield让Ariana Grande出现在LISA的“SaWaDiKa”视频中。它获得82.2k 次点赞和24.7k 次分享，互动量是该创作者平时帖子的100x 以上。"
+        },
+        {
+          "t": "p",
+          "x": "团队可以在新作发行前后鼓励粉丝用AI发挥创意，或委托AI创作者围绕最新音乐视频制作这类内容。Ghost的“Satanizer”就让粉丝通过换脸进入“Satanized”视频。"
+        }
+      ]
+    },
+    "music/music-mixjudge": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "混音不仅需要施加处理，还需要评估处理后的混音结果。音频语言模型可以通过对话给出混音建议，但现有评测并未单独检验它们能否判断具体的混音问题。"
+        },
+        {
+          "t": "p",
+          "x": "由于这类判断缺乏专业的监督数据，作者构建了一套涵盖11类人声混音问题、分多个严重程度的课程，并用它训练出可用语言查询（language-queryable）的音频评审模型MixJudge。"
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.30783v1/batch_construction.svg",
+          "cap": "图1：同内容训练批次的构建。"
+        },
+        {
+          "t": "p",
+          "x": "MixJudge展现出检索混音问题、区分相反问题以及对问题严重程度排序的能力。它的判断还能迁移到菜单选择：给定一组处理候选，MixJudge往往偏向在声学上更接近预留专业版本的那一版。"
+        },
+        {
+          "t": "p",
+          "x": "Kuan-Hsun Ho、Yuan-Chiao Cheng、Yen-Tung Yeh、Yi-Hsuan Yang；已投稿ICASSP 2027。"
+        }
+      ]
+    },
+    "music/music-piano2pop": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "一首流行歌往往始于一段小样：一段吉他草稿、在现有伴奏上唱出的主旋律，或一段钢琴伴奏。要把草稿变成完整作品，制作人需要推断其音乐意图，并通过鼓、配器、编曲和混音加以实现。台湾大学（National Taiwan University）的研究人员将这一任务称为Piano2Pop：给定一段钢琴MIDI小样，生成一首连贯、符合流行乐语汇、并忠于小样音乐意图的完整器乐流行作品。"
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.31510v1/hero.png",
+          "cap": "图1：Piano2Pop概览。"
+        },
+        {
+          "t": "p",
+          "x": "他们的伪监督方法在没有对齐的钢琴-流行配对监督的情况下，以钢琴卷帘为条件来调控预训练的flow-matching模型。模型在由流行录音生成的合成钢琴-器乐配对上训练，并比较两类伪小样来源：一是无配对的扒谱方法，包括功能选择（FST）和音区密度（RDA）增强；二是有配对监督的钢琴翻弹生成器。"
+        },
+        {
+          "t": "p",
+          "x": "在476组真实钢琴翻弹/流行配对的测试中，对真实钢琴输入，有配对监督的方法在Frechet Audio Distance、Accompaniment Prompt Adherence和频谱形状上均取得最佳结果，而FST缓解了无配对训练中钢琴过重的输出。所有微调系统都显著优于零样本基线MuseControlLite和ACE-Step cover。"
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.31510v1/instrument_energy_differences.svg",
+          "cap": "图2：在OOD真实钢琴条件下，平均乐器能量占比与GT的差异。"
+        },
+        {
+          "t": "p",
+          "x": "音频示例可在演示页面收听，作者计划在论文发表时开源代码和检查点。该论文已投稿ICASSP 2027。"
+        }
+      ]
+    },
+    "music/music-reservoir-suno-anthropic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Anthropic-Suno-Reservoir-Suits-1024x546.jpg",
+          "cap": "图片来源：Planet Volumes"
+        },
+        {
+          "t": "p",
+          "x": "Reservoir Media对Suno提起了一项金额近2亿美元的版权侵权及DMCA诉讼，并对Anthropic提起了类似诉讼。两起诉讼均已提交至U.S.加州北区联邦地区法院。"
+        },
+        {
+          "t": "p",
+          "x": "Reservoir称，Suno未经授权使用受保护的音乐进行训练，而且通过与Warner Music、BMG、Believe等公司签订授权协议，“几乎等于承认存在一个将音乐和录音授权用作训练数据的成熟市场”。诉状还指控Suno借助Bright Data的服务，从YouTube抓取文件，其中包括超过两百万段音乐片段，总时长约113,879小时。"
+        },
+        {
+          "t": "p",
+          "x": "针对Suno，Reservoir就1,050件据称遭故意侵权的作品，按每件15万美元的法定上限索赔，合计15750万美元；另就规避访问控制索赔263万美元，就移除版权管理信息索赔2625万美元。"
+        },
+        {
+          "t": "p",
+          "x": "针对Anthropic的诉状就853件作品提出相同主张，援引了The Atlantic的AI Watchdog数据集搜索工具，索赔侵权赔偿1.2795亿美元（“Claude针对全部853件作品都生成了侵权输出”），另在DMCA方面索赔2350万美元。"
+        }
+      ]
     }
   }
 }

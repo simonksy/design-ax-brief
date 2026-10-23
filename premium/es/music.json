@@ -7734,6 +7734,119 @@
           "x": "Apple ha adoptado ante la AI un enfoque menos agresivo que sus rivales; MusicTech espera que más adquisiciones como esta se integren discretamente en sus flujos de trabajo de software."
         }
       ]
+    },
+    "music/music-suno-answer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
+          "cap": "Foto: FotoField / Shutterstock.com"
+        },
+        {
+          "t": "p",
+          "x": "En una respuesta de 44 páginas presentada el 20 de octubre ante el Tribunal de Distrito de US para Massachusetts, Suno admite que no ha eliminado todas las grabaciones que usó para entrenar sus modelos de AI. El escrito responde a las acusaciones de ‘blanqueo’ (laundering) que UMG y Sony plantean en su demanda contra la empresa."
+        }
+      ]
+    },
+    "music/music-youtube-ai-ugc": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "YouTube ha publicado un nuevo informe Culture & Trends sobre cómo la gente usa la AI generativa para expresarse creativamente, y apunta a un interesante potencial nuevo para el UGC. En una encuesta a casi 700 personas de US que publican videos, de entre 14 y 44 años, el 72% dijo usar AI en sus videos o imágenes. El 61% dijo estar interesado en usarla para insertarse en contenidos, y más de dos tercios de quienes ya hacen videos con AI aparecen en ellos."
+        },
+        {
+          "t": "p",
+          "x": "Según YouTube, mucha gente la usa para “cambios de vestuario digitales” y para imaginarse en distintos papeles. Para los equipos de los artistas, un uso lógico sería lograr que los fans se inserten en el videoclip del artista como elemento de campaña fácil de compartir."
+        },
+        {
+          "t": "p",
+          "x": "Music Ally encontró un Instagram Reel creado por un fan en el que Ariana Grande aparece en el video “SaWaDiKa” de LISA, hecho con Higgsfield. Acumuló 82.2k me gusta y se compartió 24.7k veces, más de 100x la interacción habitual de las publicaciones de su autor."
+        },
+        {
+          "t": "p",
+          "x": "Los equipos podrían animar a los fans a crear con AI en torno a un lanzamiento, o encargar a creadores de AI este tipo de contenido en torno a su último videoclip. “Satanizer”, de Ghost, permitió a los fans insertarse mediante intercambio de rostro en el video “Satanized”."
+        }
+      ]
+    },
+    "music/music-mixjudge": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Mezclar exige no solo aplicar procesamiento, sino también evaluar la mezcla resultante. Los modelos de audio y lenguaje pueden dar consejos de mezcla en forma de conversación, pero las evaluaciones existentes no comprueban por separado si son capaces de juzgar problemas de mezcla concretos."
+        },
+        {
+          "t": "p",
+          "x": "Como la supervisión profesional para este tipo de juicios escasea, los autores construyen un currículo de 11 problemas de mezcla vocal con varios niveles de gravedad y lo usan para entrenar MixJudge, un crítico de audio language-queryable, es decir, que admite consultas en lenguaje."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.30783v1/batch_construction.svg",
+          "cap": "Figura 1: Construcción de lotes de entrenamiento con el mismo contenido."
+        },
+        {
+          "t": "p",
+          "x": "MixJudge demuestra su capacidad para detectar problemas de mezcla, distinguir problemas opuestos y ordenar la gravedad de un problema. Sus juicios también se trasladan a la selección por menú: ante un conjunto de candidatos de procesamiento, MixJudge suele preferir las versiones acústicamente más cercanas a una versión profesional reservada."
+        },
+        {
+          "t": "p",
+          "x": "Kuan-Hsun Ho, Yuan-Chiao Cheng, Yen-Tung Yeh y Yi-Hsuan Yang; enviado a ICASSP 2027."
+        }
+      ]
+    },
+    "music/music-piano2pop": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Una canción pop suele empezar como una demo: un boceto de guitarra, una topline cantada sobre una pista existente o un acompañamiento de piano. Convertir ese boceto en una producción completa exige que el productor infiera su intención musical y la plasme mediante batería, instrumentación, arreglo y mezcla. Investigadores de la National Taiwan University llaman a esta tarea Piano2Pop: a partir de una demo de piano en MIDI, generar una producción pop instrumental completa que sea coherente, propia del pop y fiel a la intención musical de la demo."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.31510v1/hero.png",
+          "cap": "Figura 1: Panorama de Piano2Pop."
+        },
+        {
+          "t": "p",
+          "x": "Su enfoque pseudosupervisado condiciona un modelo de flow-matching preentrenado con piano rolls, sin supervisión alineada piano-pop. Se entrena con pares sintéticos de piano e instrumental derivados de grabaciones pop, y compara como fuentes de pseudodemos la transcripción sin pares (pair-free), con aumentaciones de selección funcional (FST) y de densidad de registro (RDA), frente a un generador de covers de piano supervisado con pares."
+        },
+        {
+          "t": "p",
+          "x": "En 476 pares reales de cover de piano/pop de prueba, el enfoque supervisado con pares logra los mejores resultados en Frechet Audio Distance, Accompaniment Prompt Adherence y forma espectral con entradas de piano real, mientras que FST reduce las salidas dominadas por el piano en el entrenamiento sin pares. Todos los sistemas ajustados superan de forma significativa a las referencias zero-shot, MuseControlLite y ACE-Step cover."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.31510v1/instrument_energy_differences.svg",
+          "cap": "Figura 2: Diferencia respecto a GT en la proporción media de energía por instrumento bajo condicionamiento OOD con piano real."
+        },
+        {
+          "t": "p",
+          "x": "Hay ejemplos de audio en la página de demostración, y los autores planean publicar el código abierto y los checkpoints cuando se publique el artículo. El artículo se ha enviado a ICASSP 2027."
+        }
+      ]
+    },
+    "music/music-reservoir-suno-anthropic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Anthropic-Suno-Reservoir-Suits-1024x546.jpg",
+          "cap": "Foto: Planet Volumes"
+        },
+        {
+          "t": "p",
+          "x": "Suno enfrenta ahora una demanda por infracción de derechos de autor y DMCA de casi 200 millones de dólares presentada por Reservoir Media, que también ha emprendido una acción similar contra Anthropic. Ambas demandas se presentaron ante la U.S. District Court del Distrito Norte de California."
+        },
+        {
+          "t": "p",
+          "x": "Reservoir afirma que Suno entrenó con música protegida sin autorización y que, al firmar acuerdos de licencia con Warner Music, BMG, Believe y otros, “prácticamente admitió que existe un mercado operativo para licenciar música y grabaciones sonoras como datos de entrenamiento”. La demanda también sostiene que Suno usó los servicios de Bright Data para extraer de YouTube archivos que incluyen más de dos millones de clips musicales, con aproximadamente 113.879 horas de música."
+        },
+        {
+          "t": "p",
+          "x": "Contra Suno, Reservoir reclama el máximo legal de 150.000 dólares por cada una de las 1.050 obras presuntamente infringidas de forma deliberada, es decir, 157,5 millones de dólares, más 2,63 millones por la elusión de controles de acceso y 26,25 millones por la eliminación de información de gestión de derechos de autor."
+        },
+        {
+          "t": "p",
+          "x": "La demanda contra Anthropic plantea las mismas reclamaciones sobre 853 obras, cita la herramienta de búsqueda de conjuntos de datos AI Watchdog de The Atlantic y reclama 127,95 millones de dólares por infracción (“Claude ha generado resultados infractores para las 853 Obras”), además de otros 23,5 millones por la parte de la DMCA."
+        }
+      ]
     }
   }
 }

@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "section": "science",
   "cards": [
     {
-      "id": "science-navier-stokes-proof",
+      "id": "science-rfd4-proteina",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "OpenAI가 증명한\nNavier-Stokes",
-      "body": "OpenAI의 AI가 Navier-Stokes를 풀자 수학에 혼돈이 닥칠 조짐이다.",
-      "mini_headline": "OpenAI의 Navier-Stokes 증명",
+      "headline": "Nvidia·UW, 단백질\n설계 모델 오픈소스 공개",
+      "body": "RFD4-Proteina는 두 생성 모델을 합쳐 설계 성공률을 5~10배 높였다.",
+      "mini_headline": "개방형 단백질 설계 AI",
       "tool": "Science",
-      "source": "Scientific American",
-      "url": "https://www.scientificamerican.com/article/the-inside-story-behind-openais-million-dollar-math-proof/",
+      "source": "GEN",
+      "url": "https://www.genengnews.com/topics/artificial-intelligence/nvidia-uw-institute-for-protein-design-unveil-open-source-protein-design-ai-model/",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -19,233 +19,227 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://static.scientificamerican.com/dam/asset/676cb480-a9d0-4bb0-a42f-466e549cfa5c/ink-clash.jpg?m=1792683756.522&w=1200"
+            "src": "https://www.genengnews.com/wp-content/uploads/2026/10/GettyImages_1402266486_proteins-1024x538-1.jpg"
           },
           {
             "t": "p",
-            "x": "9월 8일 OpenAI는 Navier-Stokes를 풀었다고 발표했다. Clay Mathematics Institute가 $1 million 상금을 건 Millennium Prize Problems 일곱 개 가운데 하나다. 바로 직전 N.Y.U. 수학자 Tristan Buckmaster가 이 회사가 자기 연구를 훔친 것 같다고 공개 비판한 참이었다."
+            "x": "워싱턴대 의대 단백질설계연구소(IPD)가 Nvidia와 함께 RFD4-Proteina를 내놓았다. Nvidia의 BioNeMo 플랫폼 위에 만든 개방형 생성 모델로, 프로그래밍 가능한 단백질 설계와 탐색 기능을 하나로 합쳤다."
           },
           {
             "t": "p",
-            "x": "Buckmaster는 Anthropic 수학자 Levent Alpöge와 함께 Anthropic과 OpenAI 모델을 섞어 쓰며 프롬프트를 주던 중이었다. 8월 15일 Claude가 Euler 방정식의 폭발을 끌어냈고, 8월 22일에는 그 증명이 Lean 검증을 통과했다."
+            "x": "이 모델은 단백질의 서열과 구조를, 상호작용하는 분자들의 구조와 함께 다듬는다. 단백질 결합, 소분자 결합, 효소 스캐폴딩, DNA 결합 등 네 가지 벤치마크 세트에서 이전 모델보다 설계 성공률이 5~10배 높았고 후보 생성 속도도 5~10배 빨랐다고 개발진은 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "“자연이 만든 단백질을 발견하던 시대에서 완전히 새로운 단백질을 설계할 수 있는 시대로 넘어가고 있습니다.” IPD 소장이자 노벨상 수상자 데이비드 베이커(David Baker)의 말이다."
           },
           {
             "t": "img",
-            "src": "https://static.scientificamerican.com/dam/asset/f24c2ce2-1fe8-47ba-b469-5397351e6a59/lecture-collage.jpeg?m=1792685495.812&w=900",
-            "cap": "OpenAI와 부딪친 뒤 Buckmaster가 처음 연 공개 강연. N.Y.U. Warren Weaver Hall 109호에 선 채로 듣는 청중이 가득했다."
+            "src": "https://www.genengnews.com/wp-content/uploads/2026/10/UW-IPD-dry-lab-RFD4-PROTEINA.jpg",
+            "cap": "단백질설계연구소 RDF4 모델링 팀원들이 테스트하는 모습. [Sierra Adler / UW Medicine Institute for Protein Design]"
           },
           {
             "t": "p",
-            "x": "소문에 놀란 OpenAI 팀은 새 내부 모델을 여럿 복제해 미해결 Millennium Problems에 붙였다. 에이전트 100개 분대가 독자적인 Euler 증명을 내놓았고, 이어 에이전트 10,000개 무리가 Navier-Stokes를 풀었다. 이 무리가 컴퓨팅에 쓴 돈은 $15 million 으로 알려졌다."
-          },
-          {
-            "t": "img",
-            "src": "https://static.scientificamerican.com/dam/asset/6a2f980d-9a8d-4ea5-8bfa-5220f1bf13f4/buckmaster-portrait.jpg?m=1792684575.161&w=900",
-            "cap": "N.Y.U. Courant Institute의 수학자 Tristan Buckmaster."
+            "x": "이름은 IPD의 RosettaFold Diffusion과 Nvidia의 Proteina-Complexa에서 따왔다. 모델은 Amazon Bio Discovery, Anthropic의 Claude Science, Benchling, Databricks, Google Cloud, Hugging Face, Nebius, OpenAI, Tamarind Bio 등 파트너를 거쳐 제공되고, BSD-3 라이선스 오픈소스로도 풀렸다."
           },
           {
             "t": "p",
-            "x": "전문가들은 이제 이 무리의 Navier-Stokes 증명이 독자적인 경로를 밟았다고 본다. Buckmaster는 OpenAI가 자기 진전에 기댔다고 여전히 믿고, OpenAI는 강하게 부인한다. 이번 일은 LLMs가 사람의 이해보다 빠르게 결과를 증명해 내고 있다는 경고다."
+            "x": "“단 며칠 만에 농약을 분해하는 효소를 설계했는데, 설계에 몇 달이 걸렸던 제 이전 최고 결과보다 몇 배나 성능이 뛰어납니다.” UW 박사과정 예비 연구원 세스 우드버리(Seth Woodbury)의 말이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Inside OpenAI's proof of\nthe Navier-Stokes problem",
-          "body": "OpenAI's AI solution to the Navier-Stokes problem, and how it came about, hints at a chaotic future for math.",
-          "mini_headline": "OpenAI's Navier-Stokes proof",
+          "headline": "Nvidia and UW open-source\na protein design model",
+          "body": "RFD4-Proteina merges two generative models and reports five- to 10-fold higher design success than earlier models.",
+          "mini_headline": "Open protein design AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/676cb480-a9d0-4bb0-a42f-466e549cfa5c/ink-clash.jpg?m=1792683756.522&w=1200"
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/GettyImages_1402266486_proteins-1024x538-1.jpg"
               },
               {
                 "t": "p",
-                "x": "On September 8, OpenAI claimed to have solved Navier-Stokes, one of the Clay Mathematics Institute's seven $1 million Millennium Prize Problems — right after N.Y.U. mathematician Tristan Buckmaster publicly accused the company of seeming to steal his work."
+                "x": "The University of Washington School of Medicine Institute for Protein Design (IPD) has partnered with Nvidia on RFD4-Proteina, an open, generative model built on Nvidia's BioNeMo platform that combines programmable protein design with search capabilities."
               },
               {
                 "t": "p",
-                "x": "Buckmaster had been working with Anthropic mathematician Levent Alpöge, prompting a mix of Anthropic and OpenAI models. On August 15 Claude blew up the Euler equations, and on August 22 the proof was verified in Lean."
+                "x": "The model refines a protein's sequence and structure alongside the structures of interacting molecules. The developers said it achieved five-fold to 10-fold higher design success rates while generating candidates five to 10 times faster than previous models, across four benchmark suites: protein binding, small-molecule binding, enzyme scaffolding and DNA binding."
+              },
+              {
+                "t": "p",
+                "x": "“We are moving from an era of discovering the proteins nature has made to one in which we can design entirely new ones,” said Nobel laureate David Baker, IPD's director."
               },
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/f24c2ce2-1fe8-47ba-b469-5397351e6a59/lecture-collage.jpeg?m=1792685495.812&w=900",
-                "cap": "Space was standing-room-only in Room 109 of N.Y.U.’s Warren Weaver Hall for Buckmaster’s first public lecture since his clash with OpenAI."
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/UW-IPD-dry-lab-RFD4-PROTEINA.jpg",
+                "cap": "Members of the RDF4 modeling team run tests at the Institute for Protein Design. [Sierra Adler / UW Medicine Institute for Protein Design]"
               },
               {
                 "t": "p",
-                "x": "Alarmed by rumors, OpenAI's team sent copies of a new internal model at the open Millennium Problems. A squad of 100 agents produced its own Euler proof; then a swarm of 10,000 agents, consuming a reported $15 million in computing, solved Navier-Stokes."
-              },
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/6a2f980d-9a8d-4ea5-8bfa-5220f1bf13f4/buckmaster-portrait.jpg?m=1792684575.161&w=900",
-                "cap": "Tristan Buckmaster, a mathematician at N.Y.U.’s Courant Institute."
+                "x": "Its name comes from IPD's RosettaFold Diffusion and Nvidia's Proteina-Complexa. It is available through partners including Amazon Bio Discovery, Anthropic's Claude Science, Benchling, Databricks, Google Cloud, Hugging Face, Nebius, OpenAI and Tamarind Bio, and as open source under BSD-3."
               },
               {
                 "t": "p",
-                "x": "Experts now say the swarm's Navier-Stokes proof took its own path. Buckmaster still believes OpenAI relied on his progress; OpenAI emphatically denies it. The episode warns that LLMs are proving results faster than humans can understand them."
+                "x": "“In just a few days we designed a pesticide-degrading enzyme that performs many fold better than my previous best, which took months to design,” said UW predoctoral candidate Seth Woodbury."
               }
             ]
           }
         },
         "ko": {
-          "headline": "OpenAI가 증명한\nNavier-Stokes",
-          "body": "OpenAI의 AI가 Navier-Stokes를 풀자 수학에 혼돈이 닥칠 조짐이다.",
-          "mini_headline": "OpenAI의 Navier-Stokes 증명",
+          "headline": "Nvidia·UW, 단백질\n설계 모델 오픈소스 공개",
+          "body": "RFD4-Proteina는 두 생성 모델을 합쳐 설계 성공률을 5~10배 높였다.",
+          "mini_headline": "개방형 단백질 설계 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/676cb480-a9d0-4bb0-a42f-466e549cfa5c/ink-clash.jpg?m=1792683756.522&w=1200"
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/GettyImages_1402266486_proteins-1024x538-1.jpg"
               },
               {
                 "t": "p",
-                "x": "9월 8일 OpenAI는 Navier-Stokes를 풀었다고 발표했다. Clay Mathematics Institute가 $1 million 상금을 건 Millennium Prize Problems 일곱 개 가운데 하나다. 바로 직전 N.Y.U. 수학자 Tristan Buckmaster가 이 회사가 자기 연구를 훔친 것 같다고 공개 비판한 참이었다."
+                "x": "워싱턴대 의대 단백질설계연구소(IPD)가 Nvidia와 함께 RFD4-Proteina를 내놓았다. Nvidia의 BioNeMo 플랫폼 위에 만든 개방형 생성 모델로, 프로그래밍 가능한 단백질 설계와 탐색 기능을 하나로 합쳤다."
               },
               {
                 "t": "p",
-                "x": "Buckmaster는 Anthropic 수학자 Levent Alpöge와 함께 Anthropic과 OpenAI 모델을 섞어 쓰며 프롬프트를 주던 중이었다. 8월 15일 Claude가 Euler 방정식의 폭발을 끌어냈고, 8월 22일에는 그 증명이 Lean 검증을 통과했다."
+                "x": "이 모델은 단백질의 서열과 구조를, 상호작용하는 분자들의 구조와 함께 다듬는다. 단백질 결합, 소분자 결합, 효소 스캐폴딩, DNA 결합 등 네 가지 벤치마크 세트에서 이전 모델보다 설계 성공률이 5~10배 높았고 후보 생성 속도도 5~10배 빨랐다고 개발진은 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "“자연이 만든 단백질을 발견하던 시대에서 완전히 새로운 단백질을 설계할 수 있는 시대로 넘어가고 있습니다.” IPD 소장이자 노벨상 수상자 데이비드 베이커(David Baker)의 말이다."
               },
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/f24c2ce2-1fe8-47ba-b469-5397351e6a59/lecture-collage.jpeg?m=1792685495.812&w=900",
-                "cap": "OpenAI와 부딪친 뒤 Buckmaster가 처음 연 공개 강연. N.Y.U. Warren Weaver Hall 109호에 선 채로 듣는 청중이 가득했다."
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/UW-IPD-dry-lab-RFD4-PROTEINA.jpg",
+                "cap": "단백질설계연구소 RDF4 모델링 팀원들이 테스트하는 모습. [Sierra Adler / UW Medicine Institute for Protein Design]"
               },
               {
                 "t": "p",
-                "x": "소문에 놀란 OpenAI 팀은 새 내부 모델을 여럿 복제해 미해결 Millennium Problems에 붙였다. 에이전트 100개 분대가 독자적인 Euler 증명을 내놓았고, 이어 에이전트 10,000개 무리가 Navier-Stokes를 풀었다. 이 무리가 컴퓨팅에 쓴 돈은 $15 million 으로 알려졌다."
-              },
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/6a2f980d-9a8d-4ea5-8bfa-5220f1bf13f4/buckmaster-portrait.jpg?m=1792684575.161&w=900",
-                "cap": "N.Y.U. Courant Institute의 수학자 Tristan Buckmaster."
+                "x": "이름은 IPD의 RosettaFold Diffusion과 Nvidia의 Proteina-Complexa에서 따왔다. 모델은 Amazon Bio Discovery, Anthropic의 Claude Science, Benchling, Databricks, Google Cloud, Hugging Face, Nebius, OpenAI, Tamarind Bio 등 파트너를 거쳐 제공되고, BSD-3 라이선스 오픈소스로도 풀렸다."
               },
               {
                 "t": "p",
-                "x": "전문가들은 이제 이 무리의 Navier-Stokes 증명이 독자적인 경로를 밟았다고 본다. Buckmaster는 OpenAI가 자기 진전에 기댔다고 여전히 믿고, OpenAI는 강하게 부인한다. 이번 일은 LLMs가 사람의 이해보다 빠르게 결과를 증명해 내고 있다는 경고다."
+                "x": "“단 며칠 만에 농약을 분해하는 효소를 설계했는데, 설계에 몇 달이 걸렸던 제 이전 최고 결과보다 몇 배나 성능이 뛰어납니다.” UW 박사과정 예비 연구원 세스 우드버리(Seth Woodbury)의 말이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "OpenAIが解いた\nNavier-Stokes",
-          "body": "OpenAIのAIが解いたNavier-Stokes問題は、数学の混沌とした未来を示す。",
-          "mini_headline": "OpenAIのNavier-Stokes証明",
+          "headline": "NvidiaとUWが\nタンパク質設計モデル公開",
+          "body": "RFD4-Proteinaは二つの生成モデルを統合し、設計成功率は従来の5～10倍だという。",
+          "mini_headline": "オープンなタンパク質設計AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/676cb480-a9d0-4bb0-a42f-466e549cfa5c/ink-clash.jpg?m=1792683756.522&w=1200"
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/GettyImages_1402266486_proteins-1024x538-1.jpg"
               },
               {
                 "t": "p",
-                "x": "9月8日、OpenAIはClay Mathematics Instituteが懸賞金$1 million を掛ける七つのMillennium Prize Problemsの一つ、Navier-Stokesを解いたと発表した。その直前、N.Y.U.の数学者Tristan Buckmasterが、同社が自分の研究を盗んだように見えると公に非難していた。"
+                "x": "ワシントン大学医学部タンパク質デザイン研究所(IPD)はNvidiaと組み、RFD4-Proteinaを発表した。NvidiaのBioNeMoプラットフォーム上に構築したオープンな生成モデルで、プログラム可能なタンパク質設計と探索機能を組み合わせている。"
               },
               {
                 "t": "p",
-                "x": "BuckmasterはAnthropicの数学者Levent Alpögeと組み、AnthropicとOpenAIのモデルを組み合わせてプロンプトを与えていた。8月15日にClaudeがEuler方程式の爆発を導き、8月22日にはその証明がLeanで検証された。"
+                "x": "このモデルは、タンパク質の配列と構造を、相互作用する分子の構造とあわせて洗練させる。開発者によると、タンパク質結合、低分子結合、酵素スキャフォールディング、DNA結合の四つのベンチマーク群で、従来モデルに比べ設計成功率は5～10倍高く、候補の生成速度も5～10倍速かった。"
+              },
+              {
+                "t": "p",
+                "x": "「自然が作ったタンパク質を発見する時代から、まったく新しいタンパク質を設計できる時代へと移りつつある」と、IPD所長でノーベル賞受賞者のデビッド・ベイカー(David Baker)氏は語る。"
               },
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/f24c2ce2-1fe8-47ba-b469-5397351e6a59/lecture-collage.jpeg?m=1792685495.812&w=900",
-                "cap": "OpenAIとの衝突後、Buckmasterが初めて開いた公開講義では、N.Y.U.のWarren Weaver Hall 109号室が立ち見で埋まった。"
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/UW-IPD-dry-lab-RFD4-PROTEINA.jpg",
+                "cap": "タンパク質デザイン研究所でテストを行うRDF4モデリングチームのメンバー。[Sierra Adler / UW Medicine Institute for Protein Design]"
               },
               {
                 "t": "p",
-                "x": "噂に危機感を抱いたOpenAIのチームは、新しい内部モデルの複製を未解決のMillennium Problemsに差し向けた。100体のエージェントからなる部隊が独自のEuler証明を生み出し、続いて計算に$15 million を費やしたとされる10,000体のエージェントの群れがNavier-Stokesを解いた。"
-              },
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/6a2f980d-9a8d-4ea5-8bfa-5220f1bf13f4/buckmaster-portrait.jpg?m=1792684575.161&w=900",
-                "cap": "N.Y.U.のCourant Instituteに所属する数学者、Tristan Buckmaster。"
+                "x": "名称はIPDのRosettaFold DiffusionとNvidiaのProteina-Complexaに由来する。Amazon Bio Discovery、AnthropicのClaude Science、Benchling、Databricks、Google Cloud、Hugging Face、Nebius、OpenAI、Tamarind Bioなどのパートナー経由で利用でき、BSD-3のオープンソースとしても公開されている。"
               },
               {
                 "t": "p",
-                "x": "専門家は現在、群れによるNavier-Stokes証明は独自の道筋をたどったと見ている。Buckmasterは今もOpenAIが自分の進展に依拠したと考えているが、OpenAIは強く否定している。この一件は、LLMsが人間の理解を上回る速さで結果を証明しつつあることへの警告である。"
+                "x": "「わずか数日で農薬を分解する酵素を設計できた。設計に数カ月かかったこれまでの最高記録を何倍も上回る性能だ」と、UWの博士課程候補生セス・ウッドベリー(Seth Woodbury)氏は話す。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "OpenAI如何证明\nNavier-Stokes",
-          "body": "OpenAI的AI解决Navier-Stokes问题的经过，预示着数学混乱的未来。",
-          "mini_headline": "OpenAI的Navier-Stokes证明",
+          "headline": "Nvidia与UW开源\n蛋白质设计模型",
+          "body": "RFD4-Proteina融合两个生成模型，设计成功率据称比此前模型高五到10倍。",
+          "mini_headline": "开放的蛋白质设计AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/676cb480-a9d0-4bb0-a42f-466e549cfa5c/ink-clash.jpg?m=1792683756.522&w=1200"
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/GettyImages_1402266486_proteins-1024x538-1.jpg"
               },
               {
                 "t": "p",
-                "x": "9月8日，OpenAI宣称解决了Navier-Stokes问题，这是Clay Mathematics Institute悬赏$1 million 的七个Millennium Prize Problems之一。就在此前，N.Y.U.数学家Tristan Buckmaster公开指责该公司似乎窃取了他的成果。"
+                "x": "华盛顿大学医学院蛋白质设计研究所(IPD)与Nvidia合作推出RFD4-Proteina。这是一款基于Nvidia BioNeMo平台构建的开放生成模型，将可编程蛋白质设计与搜索能力结合在一起。"
               },
               {
                 "t": "p",
-                "x": "Buckmaster此前一直与Anthropic数学家Levent Alpöge合作，混合使用Anthropic和OpenAI的模型进行提示。8月15日，Claude让Euler方程出现爆破；8月22日，该证明在Lean中得到验证。"
+                "x": "该模型会在优化蛋白质序列和结构的同时，兼顾与之相互作用的分子结构。开发者表示，在蛋白质结合、小分子结合、酶支架设计和DNA结合四类基准测试中，其设计成功率比此前模型高五到10倍，生成候选分子的速度也快五到10倍。"
+              },
+              {
+                "t": "p",
+                "x": "“我们正从发现大自然所造蛋白质的时代，迈向能够设计全新蛋白质的时代。”IPD所长、诺贝尔奖得主大卫·贝克(David Baker)说。"
               },
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/f24c2ce2-1fe8-47ba-b469-5397351e6a59/lecture-collage.jpeg?m=1792685495.812&w=900",
-                "cap": "这是Buckmaster与OpenAI冲突后的首场公开讲座，N.Y.U. Warren Weaver Hall 109室座无虚席，只剩站位。"
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/UW-IPD-dry-lab-RFD4-PROTEINA.jpg",
+                "cap": "RDF4建模团队成员在蛋白质设计研究所进行测试。[Sierra Adler / UW Medicine Institute for Protein Design]"
               },
               {
                 "t": "p",
-                "x": "OpenAI团队听闻传言后颇为警觉，将一个新内部模型的多个副本投向尚未解决的Millennium Problems。由100个智能体组成的小队给出了自己的Euler证明；随后，据报道耗费$15 million 算力的10,000个智能体集群解决了Navier-Stokes。"
-              },
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/6a2f980d-9a8d-4ea5-8bfa-5220f1bf13f4/buckmaster-portrait.jpg?m=1792684575.161&w=900",
-                "cap": "N.Y.U. Courant Institute数学家Tristan Buckmaster。"
+                "x": "模型名称取自IPD的RosettaFold Diffusion和Nvidia的Proteina-Complexa。用户可通过Amazon Bio Discovery、Anthropic的Claude Science、Benchling、Databricks、Google Cloud、Hugging Face、Nebius、OpenAI和Tamarind Bio等合作伙伴使用，模型也以BSD-3许可开源。"
               },
               {
                 "t": "p",
-                "x": "专家们现在认为，该集群的Navier-Stokes证明走的是自己的路径。Buckmaster仍认为OpenAI借鉴了他的进展，OpenAI则坚决否认。这一事件警示，LLMs证明结果的速度正在超过人类理解它们的速度。"
+                "x": "“短短几天，我们就设计出一种降解农药的酶，性能比我此前花了数月才设计出的最佳成果高出许多倍。”UW博士预备生塞思·伍德伯里(Seth Woodbury)说。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Dentro de la prueba de OpenAI\ndel problema de Navier-Stokes",
-          "body": "La solución de OpenAI al problema de Navier-Stokes con AI, y cómo surgió, anticipa un futuro caótico en matemáticas.",
-          "mini_headline": "La prueba de Navier-Stokes de OpenAI",
+          "headline": "Nvidia y la UW liberan un\nmodelo de diseño de proteínas",
+          "body": "RFD4-Proteina une dos modelos generativos y reporta un éxito de diseño de cinco a 10 veces mayor que los anteriores.",
+          "mini_headline": "IA abierta para diseñar proteínas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/676cb480-a9d0-4bb0-a42f-466e549cfa5c/ink-clash.jpg?m=1792683756.522&w=1200"
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/GettyImages_1402266486_proteins-1024x538-1.jpg"
               },
               {
                 "t": "p",
-                "x": "El 8 de septiembre, OpenAI afirmó haber resuelto Navier-Stokes, uno de los siete Millennium Prize Problems del Clay Mathematics Institute dotados con $1 million, justo después de que el matemático de N.Y.U. Tristan Buckmaster acusara públicamente a la empresa de aparentemente robar su trabajo."
+                "x": "El Institute for Protein Design (IPD) de la Facultad de Medicina de la Universidad de Washington se ha asociado con Nvidia para crear RFD4-Proteina, un modelo generativo abierto construido sobre la plataforma BioNeMo de Nvidia que combina el diseño programable de proteínas con capacidades de búsqueda."
               },
               {
                 "t": "p",
-                "x": "Buckmaster trabajaba con el matemático de Anthropic Levent Alpöge, dando instrucciones a una combinación de modelos de Anthropic y OpenAI. El 15 de agosto Claude provocó la explosión de las ecuaciones de Euler, y el 22 de agosto la prueba se verificó en Lean."
+                "x": "El modelo refina la secuencia y la estructura de una proteína junto con las estructuras de las moléculas con las que interactúa. Según sus desarrolladores, logró tasas de éxito de diseño de cinco a 10 veces mayores y generó candidatos de cinco a 10 veces más rápido que modelos anteriores en cuatro conjuntos de pruebas: unión a proteínas, unión a moléculas pequeñas, andamiaje de enzimas y unión a DNA."
+              },
+              {
+                "t": "p",
+                "x": "“Pasamos de una era en la que descubríamos las proteínas que ha creado la naturaleza a otra en la que podemos diseñar proteínas completamente nuevas”, dijo el premio Nobel David Baker, director del IPD."
               },
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/f24c2ce2-1fe8-47ba-b469-5397351e6a59/lecture-collage.jpeg?m=1792685495.812&w=900",
-                "cap": "La sala 109 del Warren Weaver Hall de N.Y.U. se llenó, con público de pie, en la primera conferencia pública de Buckmaster desde su choque con OpenAI."
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/UW-IPD-dry-lab-RFD4-PROTEINA.jpg",
+                "cap": "Miembros del equipo de modelado RDF4 realizan pruebas en el Institute for Protein Design. [Sierra Adler / UW Medicine Institute for Protein Design]"
               },
               {
                 "t": "p",
-                "x": "Alarmado por los rumores, el equipo de OpenAI lanzó copias de un nuevo modelo interno contra los Millennium Problems abiertos. Un escuadrón de 100 agentes produjo su propia prueba de Euler; después, un enjambre de 10,000 agentes, que según se informa consumió $15 million en computación, resolvió Navier-Stokes."
-              },
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/6a2f980d-9a8d-4ea5-8bfa-5220f1bf13f4/buckmaster-portrait.jpg?m=1792684575.161&w=900",
-                "cap": "Tristan Buckmaster, matemático del Courant Institute de N.Y.U."
+                "x": "Su nombre proviene de RosettaFold Diffusion, del IPD, y de Proteina-Complexa, de Nvidia. Está disponible a través de socios como Amazon Bio Discovery, Claude Science de Anthropic, Benchling, Databricks, Google Cloud, Hugging Face, Nebius, OpenAI y Tamarind Bio, y como código abierto bajo licencia BSD-3."
               },
               {
                 "t": "p",
-                "x": "Los expertos dicen ahora que la prueba de Navier-Stokes del enjambre siguió su propio camino. Buckmaster sigue creyendo que OpenAI se apoyó en sus avances; OpenAI lo niega de forma tajante. El episodio advierte de que los LLMs están demostrando resultados más rápido de lo que los humanos pueden entenderlos."
+                "x": "“En solo unos días diseñamos una enzima que degrada pesticidas y que rinde muchas veces mejor que mi mejor diseño anterior, que me llevó meses”, dijo Seth Woodbury, candidato predoctoral de la UW."
               }
             ]
           }
@@ -253,161 +247,157 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "OpenAI가 증명한\nNavier-Stokes",
-          "body": "OpenAI의 AI가 푼 Navier-Stokes 문제는 수학의 혼돈을 예고한다.",
-          "mini_headline": "OpenAI의 Navier-Stokes 증명",
+          "headline": "Nvidia·UW, 단백질\n설계 모델 오픈소스 공개",
+          "body": "RFD4-Proteina는 두 생성 모델을 합쳐 설계 성공률을 5~10배 높였다.",
+          "mini_headline": "개방형 단백질 설계 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/676cb480-a9d0-4bb0-a42f-466e549cfa5c/ink-clash.jpg?m=1792683756.522&w=1200"
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/GettyImages_1402266486_proteins-1024x538-1.jpg"
               },
               {
                 "t": "p",
-                "x": "9월 8일 OpenAI는 Clay Mathematics Institute가 정한 $1 million 상금의 Millennium Prize Problems 일곱 개 가운데 하나인 Navier-Stokes를 풀었다고 발표했다. 바로 직전에 N.Y.U. 수학자 Tristan Buckmaster가 이 회사가 자신의 연구를 훔친 것으로 보인다고 공개적으로 비판한 터였다."
+                "x": "워싱턴대 의대 단백질설계연구소(IPD)가 Nvidia와 손잡고 RFD4-Proteina를 내놓았다. Nvidia의 BioNeMo 플랫폼 위에 만든 개방형 생성 모델로, 프로그래밍 가능한 단백질 설계와 탐색 기능을 결합했다."
               },
               {
                 "t": "p",
-                "x": "Buckmaster는 Anthropic 수학자 Levent Alpöge와 함께 Anthropic과 OpenAI 모델을 섞어 프롬프트를 주며 작업하고 있었다. 8월 15일 Claude가 Euler 방정식의 폭발을 끌어냈고, 8월 22일 그 증명이 Lean으로 검증됐다."
+                "x": "이 모델은 단백질의 서열과 구조를 상호작용하는 분자들의 구조와 함께 다듬는다. 개발진은 단백질 결합, 소분자 결합, 효소 스캐폴딩, DNA 결합 등 네 가지 벤치마크 세트에서 이전 모델보다 설계 성공률이 5~10배 높았고, 후보 생성 속도도 5~10배 빨랐다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "“자연이 만든 단백질을 발견하던 시대에서 완전히 새로운 단백질을 설계할 수 있는 시대로 넘어가고 있습니다.” IPD 소장이자 노벨상 수상자인 데이비드 베이커(David Baker)의 말이다."
               },
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/f24c2ce2-1fe8-47ba-b469-5397351e6a59/lecture-collage.jpeg?m=1792685495.812&w=900",
-                "cap": "OpenAI와 충돌한 뒤 Buckmaster가 처음 연 공개 강연에서 N.Y.U. Warren Weaver Hall 109호는 선 채로 듣는 청중으로 가득 찼다."
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/UW-IPD-dry-lab-RFD4-PROTEINA.jpg",
+                "cap": "단백질설계연구소에서 RDF4 모델링 팀원들이 테스트를 진행하고 있다. [Sierra Adler / UW Medicine Institute for Protein Design]"
               },
               {
                 "t": "p",
-                "x": "소문에 놀란 OpenAI 팀은 새 내부 모델의 복제본들을 미해결 Millennium Problems에 투입했다. 에이전트 100개로 꾸린 분대가 독자적인 Euler 증명을 내놓았고, 이어 컴퓨팅에 $15 million 을 쓴 것으로 알려진 에이전트 10,000개 무리가 Navier-Stokes를 풀었다."
-              },
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/6a2f980d-9a8d-4ea5-8bfa-5220f1bf13f4/buckmaster-portrait.jpg?m=1792684575.161&w=900",
-                "cap": "N.Y.U. Courant Institute의 수학자 Tristan Buckmaster."
+                "x": "이름은 IPD의 RosettaFold Diffusion과 Nvidia의 Proteina-Complexa에서 따왔다. Amazon Bio Discovery, Anthropic의 Claude Science, Benchling, Databricks, Google Cloud, Hugging Face, Nebius, OpenAI, Tamarind Bio 등 파트너를 통해 제공되며, BSD-3 라이선스의 오픈소스로도 공개됐다."
               },
               {
                 "t": "p",
-                "x": "전문가들은 이제 이 무리의 Navier-Stokes 증명이 독자적인 경로를 밟았다고 본다. Buckmaster는 여전히 OpenAI가 자신의 진전에 기댔다고 믿지만, OpenAI는 이를 강하게 부인한다. 이번 일은 LLMs가 인간이 이해하는 속도보다 빠르게 결과를 증명하고 있다는 경고다."
+                "x": "“단 며칠 만에 농약을 분해하는 효소를 설계했는데, 설계에 몇 달이 걸렸던 제 이전 최고 결과보다 몇 배나 성능이 뛰어납니다.” UW 박사과정 예비 연구원 세스 우드버리(Seth Woodbury)의 말이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "OpenAIが解いた\nNavier-Stokes",
-          "body": "OpenAIのAIが解いたNavier-Stokes問題は、数学の混沌とした未来を示す。",
-          "mini_headline": "OpenAIのNavier-Stokes証明",
+          "headline": "NvidiaとUWが\nタンパク質設計モデル公開",
+          "body": "RFD4-Proteinaは二つの生成モデルを統合し、設計成功率は従来の5～10倍だという。",
+          "mini_headline": "オープンなタンパク質設計AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/676cb480-a9d0-4bb0-a42f-466e549cfa5c/ink-clash.jpg?m=1792683756.522&w=1200"
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/GettyImages_1402266486_proteins-1024x538-1.jpg"
               },
               {
                 "t": "p",
-                "x": "9月8日、OpenAIはClay Mathematics Instituteが懸賞金$1 million を掛ける七つのMillennium Prize Problemsの一つ、Navier-Stokesを解いたと発表した。その直前、N.Y.U.の数学者Tristan Buckmasterが、同社が自分の研究を盗んだように見えると公に非難していた。"
+                "x": "ワシントン大学医学部タンパク質デザイン研究所(IPD)はNvidiaと組み、RFD4-Proteinaを発表した。NvidiaのBioNeMoプラットフォーム上に構築したオープンな生成モデルで、プログラム可能なタンパク質設計と探索機能を組み合わせている。"
               },
               {
                 "t": "p",
-                "x": "BuckmasterはAnthropicの数学者Levent Alpögeと組み、AnthropicとOpenAIのモデルを組み合わせてプロンプトを与えていた。8月15日にClaudeがEuler方程式の爆発を導き、8月22日にはその証明がLeanで検証された。"
+                "x": "このモデルは、タンパク質の配列と構造を、相互作用する分子の構造とあわせて洗練させる。開発者によると、タンパク質結合、低分子結合、酵素スキャフォールディング、DNA結合の四つのベンチマーク群で、従来モデルに比べ設計成功率は5～10倍高く、候補の生成速度も5～10倍速かった。"
+              },
+              {
+                "t": "p",
+                "x": "「自然が作ったタンパク質を発見する時代から、まったく新しいタンパク質を設計できる時代へと移りつつある」と、IPD所長でノーベル賞受賞者のデビッド・ベイカー(David Baker)氏は語る。"
               },
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/f24c2ce2-1fe8-47ba-b469-5397351e6a59/lecture-collage.jpeg?m=1792685495.812&w=900",
-                "cap": "OpenAIとの衝突後、Buckmasterが初めて開いた公開講義では、N.Y.U.のWarren Weaver Hall 109号室が立ち見で埋まった。"
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/UW-IPD-dry-lab-RFD4-PROTEINA.jpg",
+                "cap": "タンパク質デザイン研究所でテストを行うRDF4モデリングチームのメンバー。[Sierra Adler / UW Medicine Institute for Protein Design]"
               },
               {
                 "t": "p",
-                "x": "噂に危機感を抱いたOpenAIのチームは、新しい内部モデルの複製を未解決のMillennium Problemsに差し向けた。100体のエージェントからなる部隊が独自のEuler証明を生み出し、続いて計算に$15 million を費やしたとされる10,000体のエージェントの群れがNavier-Stokesを解いた。"
-              },
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/6a2f980d-9a8d-4ea5-8bfa-5220f1bf13f4/buckmaster-portrait.jpg?m=1792684575.161&w=900",
-                "cap": "N.Y.U.のCourant Instituteに所属する数学者、Tristan Buckmaster。"
+                "x": "名称はIPDのRosettaFold DiffusionとNvidiaのProteina-Complexaに由来する。Amazon Bio Discovery、AnthropicのClaude Science、Benchling、Databricks、Google Cloud、Hugging Face、Nebius、OpenAI、Tamarind Bioなどのパートナー経由で利用でき、BSD-3のオープンソースとしても公開されている。"
               },
               {
                 "t": "p",
-                "x": "専門家は現在、群れによるNavier-Stokes証明は独自の道筋をたどったと見ている。Buckmasterは今もOpenAIが自分の進展に依拠したと考えているが、OpenAIは強く否定している。この一件は、LLMsが人間の理解を上回る速さで結果を証明しつつあることへの警告である。"
+                "x": "「わずか数日で農薬を分解する酵素を設計できた。設計に数カ月かかったこれまでの最高記録を何倍も上回る性能だ」と、UWの博士課程候補生セス・ウッドベリー(Seth Woodbury)氏は話す。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "OpenAI如何证明\nNavier-Stokes",
-          "body": "OpenAI的AI解决Navier-Stokes问题的经过，预示着数学混乱的未来。",
-          "mini_headline": "OpenAI的Navier-Stokes证明",
+          "headline": "Nvidia与UW开源\n蛋白质设计模型",
+          "body": "RFD4-Proteina融合两个生成模型，设计成功率据称比此前模型高五到10倍。",
+          "mini_headline": "开放的蛋白质设计AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/676cb480-a9d0-4bb0-a42f-466e549cfa5c/ink-clash.jpg?m=1792683756.522&w=1200"
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/GettyImages_1402266486_proteins-1024x538-1.jpg"
               },
               {
                 "t": "p",
-                "x": "9月8日，OpenAI宣称解决了Navier-Stokes问题，这是Clay Mathematics Institute悬赏$1 million 的七个Millennium Prize Problems之一。就在此前，N.Y.U.数学家Tristan Buckmaster公开指责该公司似乎窃取了他的成果。"
+                "x": "华盛顿大学医学院蛋白质设计研究所(IPD)与Nvidia合作推出RFD4-Proteina。这是一款基于Nvidia BioNeMo平台构建的开放生成模型，将可编程蛋白质设计与搜索能力结合在一起。"
               },
               {
                 "t": "p",
-                "x": "Buckmaster此前一直与Anthropic数学家Levent Alpöge合作，混合使用Anthropic和OpenAI的模型进行提示。8月15日，Claude让Euler方程出现爆破；8月22日，该证明在Lean中得到验证。"
+                "x": "该模型会在优化蛋白质序列和结构的同时，兼顾与之相互作用的分子结构。开发者表示，在蛋白质结合、小分子结合、酶支架设计和DNA结合四类基准测试中，其设计成功率比此前模型高五到10倍，生成候选分子的速度也快五到10倍。"
+              },
+              {
+                "t": "p",
+                "x": "“我们正从发现大自然所造蛋白质的时代，迈向能够设计全新蛋白质的时代。”IPD所长、诺贝尔奖得主大卫·贝克(David Baker)说。"
               },
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/f24c2ce2-1fe8-47ba-b469-5397351e6a59/lecture-collage.jpeg?m=1792685495.812&w=900",
-                "cap": "这是Buckmaster与OpenAI冲突后的首场公开讲座，N.Y.U. Warren Weaver Hall 109室座无虚席，只剩站位。"
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/UW-IPD-dry-lab-RFD4-PROTEINA.jpg",
+                "cap": "RDF4建模团队成员在蛋白质设计研究所进行测试。[Sierra Adler / UW Medicine Institute for Protein Design]"
               },
               {
                 "t": "p",
-                "x": "OpenAI团队听闻传言后颇为警觉，将一个新内部模型的多个副本投向尚未解决的Millennium Problems。由100个智能体组成的小队给出了自己的Euler证明；随后，据报道耗费$15 million 算力的10,000个智能体集群解决了Navier-Stokes。"
-              },
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/6a2f980d-9a8d-4ea5-8bfa-5220f1bf13f4/buckmaster-portrait.jpg?m=1792684575.161&w=900",
-                "cap": "N.Y.U. Courant Institute数学家Tristan Buckmaster。"
+                "x": "模型名称取自IPD的RosettaFold Diffusion和Nvidia的Proteina-Complexa。用户可通过Amazon Bio Discovery、Anthropic的Claude Science、Benchling、Databricks、Google Cloud、Hugging Face、Nebius、OpenAI和Tamarind Bio等合作伙伴使用，模型也以BSD-3许可开源。"
               },
               {
                 "t": "p",
-                "x": "专家们现在认为，该集群的Navier-Stokes证明走的是自己的路径。Buckmaster仍认为OpenAI借鉴了他的进展，OpenAI则坚决否认。这一事件警示，LLMs证明结果的速度正在超过人类理解它们的速度。"
+                "x": "“短短几天，我们就设计出一种降解农药的酶，性能比我此前花了数月才设计出的最佳成果高出许多倍。”UW博士预备生塞思·伍德伯里(Seth Woodbury)说。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Dentro de la prueba de OpenAI\ndel problema de Navier-Stokes",
-          "body": "La solución de OpenAI al problema de Navier-Stokes con AI, y cómo surgió, anticipa un futuro caótico en matemáticas.",
-          "mini_headline": "La prueba de Navier-Stokes de OpenAI",
+          "headline": "Nvidia y la UW liberan un\nmodelo de diseño de proteínas",
+          "body": "RFD4-Proteina une dos modelos generativos y reporta un éxito de diseño de cinco a 10 veces mayor que los anteriores.",
+          "mini_headline": "IA abierta para diseñar proteínas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/676cb480-a9d0-4bb0-a42f-466e549cfa5c/ink-clash.jpg?m=1792683756.522&w=1200"
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/GettyImages_1402266486_proteins-1024x538-1.jpg"
               },
               {
                 "t": "p",
-                "x": "El 8 de septiembre, OpenAI afirmó haber resuelto Navier-Stokes, uno de los siete Millennium Prize Problems del Clay Mathematics Institute dotados con $1 million, justo después de que el matemático de N.Y.U. Tristan Buckmaster acusara públicamente a la empresa de aparentemente robar su trabajo."
+                "x": "El Institute for Protein Design (IPD) de la Facultad de Medicina de la Universidad de Washington se ha asociado con Nvidia para crear RFD4-Proteina, un modelo generativo abierto construido sobre la plataforma BioNeMo de Nvidia que combina el diseño programable de proteínas con capacidades de búsqueda."
               },
               {
                 "t": "p",
-                "x": "Buckmaster trabajaba con el matemático de Anthropic Levent Alpöge, dando instrucciones a una combinación de modelos de Anthropic y OpenAI. El 15 de agosto Claude provocó la explosión de las ecuaciones de Euler, y el 22 de agosto la prueba se verificó en Lean."
+                "x": "El modelo refina la secuencia y la estructura de una proteína junto con las estructuras de las moléculas con las que interactúa. Según sus desarrolladores, logró tasas de éxito de diseño de cinco a 10 veces mayores y generó candidatos de cinco a 10 veces más rápido que modelos anteriores en cuatro conjuntos de pruebas: unión a proteínas, unión a moléculas pequeñas, andamiaje de enzimas y unión a DNA."
+              },
+              {
+                "t": "p",
+                "x": "“Pasamos de una era en la que descubríamos las proteínas que ha creado la naturaleza a otra en la que podemos diseñar proteínas completamente nuevas”, dijo el premio Nobel David Baker, director del IPD."
               },
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/f24c2ce2-1fe8-47ba-b469-5397351e6a59/lecture-collage.jpeg?m=1792685495.812&w=900",
-                "cap": "La sala 109 del Warren Weaver Hall de N.Y.U. se llenó, con público de pie, en la primera conferencia pública de Buckmaster desde su choque con OpenAI."
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/UW-IPD-dry-lab-RFD4-PROTEINA.jpg",
+                "cap": "Miembros del equipo de modelado RDF4 realizan pruebas en el Institute for Protein Design. [Sierra Adler / UW Medicine Institute for Protein Design]"
               },
               {
                 "t": "p",
-                "x": "Alarmado por los rumores, el equipo de OpenAI lanzó copias de un nuevo modelo interno contra los Millennium Problems abiertos. Un escuadrón de 100 agentes produjo su propia prueba de Euler; después, un enjambre de 10,000 agentes, que según se informa consumió $15 million en computación, resolvió Navier-Stokes."
-              },
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/6a2f980d-9a8d-4ea5-8bfa-5220f1bf13f4/buckmaster-portrait.jpg?m=1792684575.161&w=900",
-                "cap": "Tristan Buckmaster, matemático del Courant Institute de N.Y.U."
+                "x": "Su nombre proviene de RosettaFold Diffusion, del IPD, y de Proteina-Complexa, de Nvidia. Está disponible a través de socios como Amazon Bio Discovery, Claude Science de Anthropic, Benchling, Databricks, Google Cloud, Hugging Face, Nebius, OpenAI y Tamarind Bio, y como código abierto bajo licencia BSD-3."
               },
               {
                 "t": "p",
-                "x": "Los expertos dicen ahora que la prueba de Navier-Stokes del enjambre siguió su propio camino. Buckmaster sigue creyendo que OpenAI se apoyó en sus avances; OpenAI lo niega de forma tajante. El episodio advierte de que los LLMs están demostrando resultados más rápido de lo que los humanos pueden entenderlos."
+                "x": "“En solo unos días diseñamos una enzima que degrada pesticidas y que rinde muchas veces mejor que mi mejor diseño anterior, que me llevó meses”, dijo Seth Woodbury, candidato predoctoral de la UW."
               }
             ]
           }
@@ -415,15 +405,15 @@
       }
     },
     {
-      "id": "science-fusion-plasma-chip",
+      "id": "science-whale-dive-codas",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "초전도 AI 칩,\n핵융합 데이터를 따라잡다",
-      "body": "기록해 둔 핵융합 데이터로 뉴로모픽 AI 칩이 플라스마 불안정을 잡는지 시험했다.",
-      "mini_headline": "플라스마 이상 짚는 칩",
+      "headline": "AI가 향유고래 클릭음으로\n먹이 잠수를 예측한다",
+      "body": "Project CETI는 클릭열 8~10개로 향유고래 먹이 잠수 시점을 예측했다.",
+      "mini_headline": "고래 클릭음으로 잠수 예측",
       "tool": "Science",
-      "source": "Scientific American",
-      "url": "https://www.scientificamerican.com/article/new-superconducting-chip-aims-to-help-tame-fusion-plasma/",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-10-whale-ai-ten-click-sequences.html",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -431,173 +421,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://static.scientificamerican.com/dam/asset/38a091ea-3dc2-42f4-82ed-e44a03e8b9e4/neuromorphic-Great-Sky-chip-from-BNL-release.jpg?m=1792614243.041&w=1200"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sperm-whales.jpg",
+            "cap": "제공: Unsplash/CC0 Public Domain"
           },
           {
             "t": "p",
-            "x": "Brookhaven National Laboratory가 핵융합 플라스마를 실시간으로 감시하는 데 쓸 초전도 칩을 공개했다. 다른 U.S. Department of Energy 시설들, AI 하드웨어 스타트업 Great Sky와 함께 만들었다."
+            "x": "Project CETI는 2020년 세워진 비영리 단체다. 50명이 넘는 연구자가 AI와 머신러닝, 고래 친화적 로보틱스로 도미니카 앞바다 향유고래의 의사소통을 해독한다. 책임 연구자는 Northeastern University London의 조반니 페트리(Giovanni Petri)다."
           },
           {
             "t": "p",
-            "x": "토카막에서 플라스마가 예상 밖으로 움직이면 디스럽션이 일어날 수 있다. 장치를 망가뜨릴 수도 있는 급격한 붕괴다. 뇌를 본떠 방대한 데이터를 병렬로 처리하는 뉴로모픽 AI 시스템은 이런 빠른 변화를 따라잡을 수 있다."
+            "x": "연구팀은 GPS와 수심, 움직임, 심박 센서를 단 태그로 먹이 잠수를 추적한다. 잠수는 약 700미터 깊이까지 45분~1시간 동안 이어진다. 코다라 불리는 리듬감 있는 클릭음은 하이드로폰과 글라이더로 녹음한다. 페트리는 코다를 “작은 단어 같다”고 표현한다."
           },
           {
             "t": "p",
-            "x": "칩은 아직 실제로 돌아가는 토카막에 연결된 적이 없다. 연구팀이 DIII-D 토카막에서 초당 백만 개 샘플로 기록한 데이터를 재생하자, 칩은 이상을 감지하고 디스럽션을 예측하는 알고리즘을 돌리면서도 속도를 놓치지 않았다. Princeton Plasma Physics Laboratory의 Michael Churchill은 “지금은 이 모든 것이 그야말로 시연 단계”라고 말한다."
+            "x": "주석 작업은 상당 부분 AI 패턴 인식이 자동으로 처리해 클릭음을 고래별로 나누고, 그 결과를 생물학 팀이 검토한다."
           },
           {
             "t": "p",
-            "x": "연구팀은 신경망이 10배 큰 후속 칩을 준비 중이다. 내년 초 Brookhaven에서 먼저 공개하고 그다음 DIII-D에 설치할 계획이다."
+            "x": "음성을 수심·움직임 데이터와 짝지어 분석해 보니, 머신러닝 모델은 코다 8~10개 정도로 고래가 곧 깊은 먹이 잠수에 나설지 예측해 냈다."
+          },
+          {
+            "t": "p",
+            "x": "연구팀은 코다에서 모음과 비슷한 소리 두 가지를 찾았지만 무슨 뜻인지는 아직 모른다. 고래들이 어둠 속에서 오징어를 찾으려고 서로의 클릭음을 엿들을 가능성도 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A superconducting AI chip\nkeeps pace with fusion data",
-          "body": "Researchers replayed recorded fusion data through a neuromorphic AI chip to see if it flags plasma about to go unstable.",
-          "mini_headline": "Chip flags fusion plasma",
+          "headline": "AI reads sperm whale clicks\nto predict feeding dives",
+          "body": "Project CETI found that about eight to ten click sequences predict when a sperm whale will begin a foraging dive.",
+          "mini_headline": "Whale clicks predict dives",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/38a091ea-3dc2-42f4-82ed-e44a03e8b9e4/neuromorphic-Great-Sky-chip-from-BNL-release.jpg?m=1792614243.041&w=1200"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sperm-whales.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Brookhaven National Laboratory debuted a superconducting chip designed to help monitor fusion plasma in real time, developed with other U.S. Department of Energy facilities and the AI hardware start-up Great Sky."
+                "x": "Project CETI, a nonprofit founded in 2020 with more than 50 researchers, uses AI, machine learning and whale-friendly robotics to decode sperm whale communication off Dominica. Giovanni Petri of Northeastern University London is a lead researcher."
               },
               {
                 "t": "p",
-                "x": "In tokamaks, unexpected plasma behavior can cause a disruption, a sudden collapse that can harm the device. Neuromorphic AI systems, which mimic the brain to crunch huge amounts of data in parallel, could keep up with such fast changes."
+                "x": "Tags with GPS, depth, movement and heart rate sensors track whales on 45-minute to 1-hour foraging dives to about 700 meters, while hydrophones and gliders record rhythmic clicks called codas, which Petri calls “like little words.”"
               },
               {
                 "t": "p",
-                "x": "The chip hasn't been wired to a working tokamak yet. The team replayed data recorded at the DIII-D tokamak at a million samples per second, and the chip kept up while running algorithms meant to flag anomalies and predict disruptions. “All of this is very demonstration-stage right now,” says Michael Churchill of the Princeton Plasma Physics Laboratory."
+                "x": "AI pattern recognition automates much of the annotation, sorting clicks by whale, with the biology team checking the output."
               },
               {
                 "t": "p",
-                "x": "The team plans a successor chip with a neural network 10 times larger, to debut at Brookhaven early next year and be installed at DIII-D sometime after."
+                "x": "Pairing the audio with depth and movement data, machine learning models showed that around eight to 10 codas can predict whether whales are about to head off on deep foraging dives."
+              },
+              {
+                "t": "p",
+                "x": "The team has found two vowel-like sounds in codas, but their meaning is unknown. Whales may also eavesdrop on each other's clicks to find squid in the dark."
               }
             ]
           }
         },
         "ko": {
-          "headline": "초전도 AI 칩,\n핵융합 데이터를 따라잡다",
-          "body": "기록해 둔 핵융합 데이터로 뉴로모픽 AI 칩이 플라스마 불안정을 잡는지 시험했다.",
-          "mini_headline": "플라스마 이상 짚는 칩",
+          "headline": "AI가 향유고래 클릭음으로\n먹이 잠수를 예측한다",
+          "body": "Project CETI는 클릭열 8~10개로 향유고래 먹이 잠수 시점을 예측했다.",
+          "mini_headline": "고래 클릭음으로 잠수 예측",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/38a091ea-3dc2-42f4-82ed-e44a03e8b9e4/neuromorphic-Great-Sky-chip-from-BNL-release.jpg?m=1792614243.041&w=1200"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sperm-whales.jpg",
+                "cap": "제공: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Brookhaven National Laboratory가 핵융합 플라스마를 실시간으로 감시하는 데 쓸 초전도 칩을 공개했다. 다른 U.S. Department of Energy 시설들, AI 하드웨어 스타트업 Great Sky와 함께 만들었다."
+                "x": "Project CETI는 2020년 세워진 비영리 단체다. 50명이 넘는 연구자가 AI와 머신러닝, 고래 친화적 로보틱스로 도미니카 앞바다 향유고래의 의사소통을 해독한다. 책임 연구자는 Northeastern University London의 조반니 페트리(Giovanni Petri)다."
               },
               {
                 "t": "p",
-                "x": "토카막에서 플라스마가 예상 밖으로 움직이면 디스럽션이 일어날 수 있다. 장치를 망가뜨릴 수도 있는 급격한 붕괴다. 뇌를 본떠 방대한 데이터를 병렬로 처리하는 뉴로모픽 AI 시스템은 이런 빠른 변화를 따라잡을 수 있다."
+                "x": "연구팀은 GPS와 수심, 움직임, 심박 센서를 단 태그로 먹이 잠수를 추적한다. 잠수는 약 700미터 깊이까지 45분~1시간 동안 이어진다. 코다라 불리는 리듬감 있는 클릭음은 하이드로폰과 글라이더로 녹음한다. 페트리는 코다를 “작은 단어 같다”고 표현한다."
               },
               {
                 "t": "p",
-                "x": "칩은 아직 실제로 돌아가는 토카막에 연결된 적이 없다. 연구팀이 DIII-D 토카막에서 초당 백만 개 샘플로 기록한 데이터를 재생하자, 칩은 이상을 감지하고 디스럽션을 예측하는 알고리즘을 돌리면서도 속도를 놓치지 않았다. Princeton Plasma Physics Laboratory의 Michael Churchill은 “지금은 이 모든 것이 그야말로 시연 단계”라고 말한다."
+                "x": "주석 작업은 상당 부분 AI 패턴 인식이 자동으로 처리해 클릭음을 고래별로 나누고, 그 결과를 생물학 팀이 검토한다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 신경망이 10배 큰 후속 칩을 준비 중이다. 내년 초 Brookhaven에서 먼저 공개하고 그다음 DIII-D에 설치할 계획이다."
+                "x": "음성을 수심·움직임 데이터와 짝지어 분석해 보니, 머신러닝 모델은 코다 8~10개 정도로 고래가 곧 깊은 먹이 잠수에 나설지 예측해 냈다."
+              },
+              {
+                "t": "p",
+                "x": "연구팀은 코다에서 모음과 비슷한 소리 두 가지를 찾았지만 무슨 뜻인지는 아직 모른다. 고래들이 어둠 속에서 오징어를 찾으려고 서로의 클릭음을 엿들을 가능성도 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "超伝導AIチップ、\n核融合データに追随",
-          "body": "研究者は記録済み核融合データを脳型AIチップに流し、プラズマ不安定化の検知を試した。",
-          "mini_headline": "核融合プラズマを見張るチップ",
+          "headline": "AIがマッコウクジラの\nクリックで採餌潜水を予測",
+          "body": "Project CETIは8～10個のクリック列で鯨の採餌潜水開始を予測できると示した。",
+          "mini_headline": "鯨のクリックで潜水を予測",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/38a091ea-3dc2-42f4-82ed-e44a03e8b9e4/neuromorphic-Great-Sky-chip-from-BNL-release.jpg?m=1792614243.041&w=1200"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sperm-whales.jpg",
+                "cap": "提供: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Brookhaven National Laboratoryは、核融合プラズマのリアルタイム監視を支援する超伝導チップを公開した。他のU.S. Department of Energy施設や、AIハードウェアのスタートアップGreat Skyと共同で開発したものだ。"
+                "x": "Project CETIは2020年に設立された非営利団体で、50人を超える研究者がAI、機械学習、鯨に配慮したロボット技術を使い、ドミニカ沖のマッコウクジラのコミュニケーションを解読している。Northeastern University Londonのジョバンニ・ペトリ(Giovanni Petri)氏が主任研究者を務める。"
               },
               {
                 "t": "p",
-                "x": "トカマクでは、予期しないプラズマの挙動がディスラプション、すなわち装置を損傷しうる突然の崩壊を引き起こすことがある。脳を模倣して膨大なデータを並列処理するニューロモーフィックAIシステムなら、こうした速い変化に追いつける可能性がある。"
+                "x": "GPS、深度、動き、心拍のセンサーを備えたタグで、深さ約700メートルまで45分～1時間続く採餌潜水を追跡し、ハイドロフォンとグライダーでコーダと呼ばれるリズミカルなクリック音を録音する。ペトリ氏はコーダを「小さな単語のようなもの」と表現する。"
               },
               {
                 "t": "p",
-                "x": "このチップはまだ稼働中のトカマクにはつながれていない。チームはDIII-Dトカマクで毎秒百万サンプルの速さで記録したデータを再生し、チップは異常を検知しディスラプションを予測するアルゴリズムを動かしながら遅れずに処理した。Princeton Plasma Physics LaboratoryのMichael Churchillは「現時点では、すべてがまさに実証段階だ」と語る。"
+                "x": "AIによるパターン認識が注釈作業の多くを自動化してクリック音を個体ごとに仕分け、生物学チームがその結果を確認する。"
               },
               {
                 "t": "p",
-                "x": "チームはニューラルネットワークを10倍に大型化した後継チップを計画しており、来年初めにBrookhavenで公開し、その後DIII-Dに設置する予定だ。"
+                "x": "音声を深度や動きのデータと組み合わせると、機械学習モデルはおよそ8～10個のコーダから、鯨がまもなく深い採餌潜水に向かうかどうかを予測できることがわかった。"
+              },
+              {
+                "t": "p",
+                "x": "チームはコーダの中に母音に似た二つの音を見つけたが、その意味はまだわかっていない。鯨は暗闇でイカを探すため、互いのクリック音を盗み聞きしている可能性もある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "超导AI芯片\n跟上核聚变数据",
-          "body": "研究人员用神经形态AI芯片回放已记录的核聚变数据，测试它能否识别即将失稳的等离子体。",
-          "mini_headline": "芯片预警核聚变等离子体",
+          "headline": "AI解读抹香鲸咔嗒声\n预测其觅食下潜",
+          "body": "Project CETI发现，约八到十组咔嗒声序列即可预测抹香鲸何时开始觅食下潜。",
+          "mini_headline": "鲸鱼咔嗒声预测下潜",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/38a091ea-3dc2-42f4-82ed-e44a03e8b9e4/neuromorphic-Great-Sky-chip-from-BNL-release.jpg?m=1792614243.041&w=1200"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sperm-whales.jpg",
+                "cap": "图片来源：Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Brookhaven National Laboratory推出了一款超导芯片，旨在帮助实时监测核聚变等离子体。该芯片由其与其他U.S. Department of Energy机构及AI硬件初创公司Great Sky共同开发。"
+                "x": "Project CETI是一家成立于2020年的非营利组织，拥有50多名研究人员，利用AI、机器学习和对鲸鱼友好的机器人技术，破译多米尼克附近海域抹香鲸的交流方式。Northeastern University London的乔瓦尼·彼得里(Giovanni Petri)是首席研究员之一。"
               },
               {
                 "t": "p",
-                "x": "在托卡马克中，意外的等离子体行为可能引发破裂，即一种可能损坏装置的突然崩溃。神经形态AI系统模仿大脑并行处理海量数据，有望跟上这种快速变化。"
+                "x": "研究人员用装有GPS、深度、运动和心率传感器的标签，追踪鲸鱼持续45分钟到1小时、深达约700米的觅食下潜；水听器和滑翔器则记录被称为“尾音”(coda)的节律性咔嗒声。彼得里称这些声音“像小小的单词”。"
               },
               {
                 "t": "p",
-                "x": "这款芯片尚未接入正在运行的托卡马克。团队回放了在DIII-D托卡马克以每秒百万个样本记录的数据，芯片在运行用于标记异常和预测破裂的算法时跟上了数据节奏。Princeton Plasma Physics Laboratory的Michael Churchill说：“目前这一切都还完全处于演示阶段。”"
+                "x": "AI模式识别让大部分标注工作实现自动化，按个体对咔嗒声进行分类，再由生物学团队核查结果。"
               },
               {
                 "t": "p",
-                "x": "团队计划推出神经网络规模大10倍的后续芯片，明年初在Brookhaven亮相，之后某个时候安装到DIII-D。"
+                "x": "将音频与深度和运动数据结合后，机器学习模型显示，大约八到10组尾音就能预测鲸鱼是否即将开始深潜觅食。"
+              },
+              {
+                "t": "p",
+                "x": "团队在尾音中发现了两种类似元音的声音，但其含义尚不清楚。鲸鱼也可能会偷听彼此的咔嗒声，以便在黑暗中寻找鱿鱼。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un chip de AI superconductor\nva al ritmo de datos de fusión",
-          "body": "Se probó con datos de fusión grabados si un chip neuromórfico de AI detecta el plasma a punto de volverse inestable.",
-          "mini_headline": "Un chip detecta plasma inestable",
+          "headline": "La IA lee clics de cachalotes\npara prever inmersiones de caza",
+          "body": "Project CETI halló que unas ocho a diez secuencias de clics anticipan cuándo un cachalote bajará a alimentarse.",
+          "mini_headline": "Clics que predicen inmersiones",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/38a091ea-3dc2-42f4-82ed-e44a03e8b9e4/neuromorphic-Great-Sky-chip-from-BNL-release.jpg?m=1792614243.041&w=1200"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sperm-whales.jpg",
+                "cap": "Crédito: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "El Brookhaven National Laboratory presentó un chip superconductor diseñado para ayudar a vigilar el plasma de fusión en tiempo real, desarrollado junto con otras instalaciones del U.S. Department of Energy y la start-up de hardware de AI Great Sky."
+                "x": "Project CETI, una organización sin fines de lucro fundada en 2020 con más de 50 investigadores, usa IA, aprendizaje automático y robótica respetuosa con los cetáceos para descifrar la comunicación de los cachalotes frente a Dominica. Giovanni Petri, de Northeastern University London, es uno de sus investigadores principales."
               },
               {
                 "t": "p",
-                "x": "En los tokamaks, un comportamiento inesperado del plasma puede causar una disrupción, un colapso repentino que puede dañar el dispositivo. Los sistemas neuromórficos de AI, que imitan al cerebro para procesar enormes cantidades de datos en paralelo, podrían seguir cambios tan rápidos."
+                "x": "Etiquetas con sensores de GPS, profundidad, movimiento y frecuencia cardíaca siguen a las ballenas en inmersiones de alimentación de 45 minutos a una hora, hasta unos 700 metros, mientras hidrófonos y planeadores registran clics rítmicos llamados codas, que Petri describe como “palabritas”."
               },
               {
                 "t": "p",
-                "x": "El chip aún no se ha conectado a un tokamak en funcionamiento. El equipo reprodujo datos registrados en el tokamak DIII-D a un millón de muestras por segundo, y el chip mantuvo el ritmo mientras ejecutaba algoritmos pensados para señalar anomalías y predecir disrupciones. “Todo esto está ahora muy en fase de demostración”, dice Michael Churchill, del Princeton Plasma Physics Laboratory."
+                "x": "El reconocimiento de patrones con IA automatiza gran parte de la anotación y clasifica los clics por ballena, y el equipo de biología revisa los resultados."
               },
               {
                 "t": "p",
-                "x": "El equipo planea un chip sucesor con una red neuronal 10 veces mayor, que se presentará en Brookhaven a principios del próximo año y se instalará en DIII-D algún tiempo después."
+                "x": "Al combinar el audio con los datos de profundidad y movimiento, los modelos de aprendizaje automático mostraron que unas ocho a 10 codas permiten predecir si las ballenas están a punto de iniciar una inmersión profunda para alimentarse."
+              },
+              {
+                "t": "p",
+                "x": "El equipo encontró en las codas dos sonidos parecidos a vocales, pero se desconoce su significado. Las ballenas también podrían escuchar los clics de otras para encontrar calamares en la oscuridad."
               }
             ]
           }
@@ -605,121 +625,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "초전도 AI 칩,\n핵융합 데이터를 따라잡다",
-          "body": "기록된 핵융합 데이터로 뉴로모픽 AI 칩의 플라스마 불안정 감지를 시험했다.",
-          "mini_headline": "플라스마 이상 짚는 칩",
+          "headline": "AI가 향유고래 클릭음으로\n먹이 잠수를 예측한다",
+          "body": "Project CETI는 클릭열 8~10개로 향유고래 먹이 잠수 시점을 예측했다.",
+          "mini_headline": "고래 클릭음으로 잠수 예측",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/38a091ea-3dc2-42f4-82ed-e44a03e8b9e4/neuromorphic-Great-Sky-chip-from-BNL-release.jpg?m=1792614243.041&w=1200"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sperm-whales.jpg",
+                "cap": "제공: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Brookhaven National Laboratory가 핵융합 플라스마를 실시간으로 감시하도록 돕는 초전도 칩을 공개했다. 다른 U.S. Department of Energy 시설들, AI 하드웨어 스타트업 Great Sky와 함께 개발한 칩이다."
+                "x": "Project CETI는 2020년 설립된 비영리 단체로, 50명이 넘는 연구자가 AI와 머신러닝, 고래 친화적 로보틱스를 활용해 도미니카 앞바다 향유고래의 의사소통을 해독하고 있다. Northeastern University London의 조반니 페트리(Giovanni Petri)가 책임 연구자다."
               },
               {
                 "t": "p",
-                "x": "토카막에서는 예상치 못한 플라스마 거동이 디스럽션, 즉 장치를 손상시킬 수 있는 급격한 붕괴를 일으킬 수 있다. 뇌를 모방해 방대한 데이터를 병렬로 처리하는 뉴로모픽 AI 시스템은 이런 빠른 변화를 따라잡을 수 있다."
+                "x": "GPS와 수심, 움직임, 심박 센서를 단 태그로 약 700미터 깊이까지 45분~1시간 동안 이어지는 먹이 잠수를 추적하고, 하이드로폰과 글라이더로 코다라 불리는 리듬감 있는 클릭음을 녹음한다. 페트리는 코다를 “작은 단어 같다”고 표현한다."
               },
               {
                 "t": "p",
-                "x": "이 칩은 아직 실제로 가동 중인 토카막에 연결되지 않았다. 연구팀은 DIII-D 토카막에서 초당 백만 개 샘플로 기록한 데이터를 재생했고, 칩은 이상을 감지하고 디스럽션을 예측하는 알고리즘을 돌리면서도 속도를 놓치지 않았다. Princeton Plasma Physics Laboratory의 Michael Churchill은 “지금은 이 모든 것이 그야말로 시연 단계”라고 말한다."
+                "x": "AI 패턴 인식이 주석 작업의 상당 부분을 자동화해 클릭음을 고래별로 분류하고, 생물학 팀이 그 결과를 검토한다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 신경망이 10배 큰 후속 칩을 계획하고 있으며, 내년 초 Brookhaven에서 공개한 뒤 그 이후 DIII-D에 설치할 예정이다."
+                "x": "음성을 수심·움직임 데이터와 짝지어 분석한 결과, 머신러닝 모델은 코다 8~10개 정도로 고래가 곧 깊은 먹이 잠수에 나설지 예측할 수 있음을 보여줬다."
+              },
+              {
+                "t": "p",
+                "x": "연구팀은 코다에서 모음과 비슷한 소리 두 가지를 찾았지만 그 의미는 아직 모른다. 고래들이 어둠 속에서 오징어를 찾으려고 서로의 클릭음을 엿들을 가능성도 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "超伝導AIチップ、\n核融合データに追随",
-          "body": "研究者は記録済み核融合データを脳型AIチップに流し、プラズマ不安定化の検知を試した。",
-          "mini_headline": "核融合プラズマを見張るチップ",
+          "headline": "AIがマッコウクジラの\nクリックで採餌潜水を予測",
+          "body": "Project CETIは8～10個のクリック列で鯨の採餌潜水開始を予測できると示した。",
+          "mini_headline": "鯨のクリックで潜水を予測",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/38a091ea-3dc2-42f4-82ed-e44a03e8b9e4/neuromorphic-Great-Sky-chip-from-BNL-release.jpg?m=1792614243.041&w=1200"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sperm-whales.jpg",
+                "cap": "提供: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Brookhaven National Laboratoryは、核融合プラズマのリアルタイム監視を支援する超伝導チップを公開した。他のU.S. Department of Energy施設や、AIハードウェアのスタートアップGreat Skyと共同で開発したものだ。"
+                "x": "Project CETIは2020年に設立された非営利団体で、50人を超える研究者がAI、機械学習、鯨に配慮したロボット技術を使い、ドミニカ沖のマッコウクジラのコミュニケーションを解読している。Northeastern University Londonのジョバンニ・ペトリ(Giovanni Petri)氏が主任研究者を務める。"
               },
               {
                 "t": "p",
-                "x": "トカマクでは、予期しないプラズマの挙動がディスラプション、すなわち装置を損傷しうる突然の崩壊を引き起こすことがある。脳を模倣して膨大なデータを並列処理するニューロモーフィックAIシステムなら、こうした速い変化に追いつける可能性がある。"
+                "x": "GPS、深度、動き、心拍のセンサーを備えたタグで、深さ約700メートルまで45分～1時間続く採餌潜水を追跡し、ハイドロフォンとグライダーでコーダと呼ばれるリズミカルなクリック音を録音する。ペトリ氏はコーダを「小さな単語のようなもの」と表現する。"
               },
               {
                 "t": "p",
-                "x": "このチップはまだ稼働中のトカマクにはつながれていない。チームはDIII-Dトカマクで毎秒百万サンプルの速さで記録したデータを再生し、チップは異常を検知しディスラプションを予測するアルゴリズムを動かしながら遅れずに処理した。Princeton Plasma Physics LaboratoryのMichael Churchillは「現時点では、すべてがまさに実証段階だ」と語る。"
+                "x": "AIによるパターン認識が注釈作業の多くを自動化してクリック音を個体ごとに仕分け、生物学チームがその結果を確認する。"
               },
               {
                 "t": "p",
-                "x": "チームはニューラルネットワークを10倍に大型化した後継チップを計画しており、来年初めにBrookhavenで公開し、その後DIII-Dに設置する予定だ。"
+                "x": "音声を深度や動きのデータと組み合わせると、機械学習モデルはおよそ8～10個のコーダから、鯨がまもなく深い採餌潜水に向かうかどうかを予測できることがわかった。"
+              },
+              {
+                "t": "p",
+                "x": "チームはコーダの中に母音に似た二つの音を見つけたが、その意味はまだわかっていない。鯨は暗闇でイカを探すため、互いのクリック音を盗み聞きしている可能性もある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "超导AI芯片\n跟上核聚变数据",
-          "body": "研究人员用神经形态AI芯片回放已记录的核聚变数据，测试它能否识别即将失稳的等离子体。",
-          "mini_headline": "芯片预警核聚变等离子体",
+          "headline": "AI解读抹香鲸咔嗒声\n预测其觅食下潜",
+          "body": "Project CETI发现，约八到十组咔嗒声序列即可预测抹香鲸何时开始觅食下潜。",
+          "mini_headline": "鲸鱼咔嗒声预测下潜",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/38a091ea-3dc2-42f4-82ed-e44a03e8b9e4/neuromorphic-Great-Sky-chip-from-BNL-release.jpg?m=1792614243.041&w=1200"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sperm-whales.jpg",
+                "cap": "图片来源：Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Brookhaven National Laboratory推出了一款超导芯片，旨在帮助实时监测核聚变等离子体。该芯片由其与其他U.S. Department of Energy机构及AI硬件初创公司Great Sky共同开发。"
+                "x": "Project CETI是一家成立于2020年的非营利组织，拥有50多名研究人员，利用AI、机器学习和对鲸鱼友好的机器人技术，破译多米尼克附近海域抹香鲸的交流方式。Northeastern University London的乔瓦尼·彼得里(Giovanni Petri)是首席研究员之一。"
               },
               {
                 "t": "p",
-                "x": "在托卡马克中，意外的等离子体行为可能引发破裂，即一种可能损坏装置的突然崩溃。神经形态AI系统模仿大脑并行处理海量数据，有望跟上这种快速变化。"
+                "x": "研究人员用装有GPS、深度、运动和心率传感器的标签，追踪鲸鱼持续45分钟到1小时、深达约700米的觅食下潜；水听器和滑翔器则记录被称为“尾音”(coda)的节律性咔嗒声。彼得里称这些声音“像小小的单词”。"
               },
               {
                 "t": "p",
-                "x": "这款芯片尚未接入正在运行的托卡马克。团队回放了在DIII-D托卡马克以每秒百万个样本记录的数据，芯片在运行用于标记异常和预测破裂的算法时跟上了数据节奏。Princeton Plasma Physics Laboratory的Michael Churchill说：“目前这一切都还完全处于演示阶段。”"
+                "x": "AI模式识别让大部分标注工作实现自动化，按个体对咔嗒声进行分类，再由生物学团队核查结果。"
               },
               {
                 "t": "p",
-                "x": "团队计划推出神经网络规模大10倍的后续芯片，明年初在Brookhaven亮相，之后某个时候安装到DIII-D。"
+                "x": "将音频与深度和运动数据结合后，机器学习模型显示，大约八到10组尾音就能预测鲸鱼是否即将开始深潜觅食。"
+              },
+              {
+                "t": "p",
+                "x": "团队在尾音中发现了两种类似元音的声音，但其含义尚不清楚。鲸鱼也可能会偷听彼此的咔嗒声，以便在黑暗中寻找鱿鱼。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un chip de AI superconductor\nva al ritmo de datos de fusión",
-          "body": "Se probó con datos de fusión grabados si un chip neuromórfico de AI detecta el plasma a punto de volverse inestable.",
-          "mini_headline": "Un chip detecta plasma inestable",
+          "headline": "La IA lee clics de cachalotes\npara prever inmersiones de caza",
+          "body": "Project CETI halló que unas ocho a diez secuencias de clics anticipan cuándo un cachalote bajará a alimentarse.",
+          "mini_headline": "Clics que predicen inmersiones",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/38a091ea-3dc2-42f4-82ed-e44a03e8b9e4/neuromorphic-Great-Sky-chip-from-BNL-release.jpg?m=1792614243.041&w=1200"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sperm-whales.jpg",
+                "cap": "Crédito: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "El Brookhaven National Laboratory presentó un chip superconductor diseñado para ayudar a vigilar el plasma de fusión en tiempo real, desarrollado junto con otras instalaciones del U.S. Department of Energy y la start-up de hardware de AI Great Sky."
+                "x": "Project CETI, una organización sin fines de lucro fundada en 2020 con más de 50 investigadores, usa IA, aprendizaje automático y robótica respetuosa con los cetáceos para descifrar la comunicación de los cachalotes frente a Dominica. Giovanni Petri, de Northeastern University London, es uno de sus investigadores principales."
               },
               {
                 "t": "p",
-                "x": "En los tokamaks, un comportamiento inesperado del plasma puede causar una disrupción, un colapso repentino que puede dañar el dispositivo. Los sistemas neuromórficos de AI, que imitan al cerebro para procesar enormes cantidades de datos en paralelo, podrían seguir cambios tan rápidos."
+                "x": "Etiquetas con sensores de GPS, profundidad, movimiento y frecuencia cardíaca siguen a las ballenas en inmersiones de alimentación de 45 minutos a una hora, hasta unos 700 metros, mientras hidrófonos y planeadores registran clics rítmicos llamados codas, que Petri describe como “palabritas”."
               },
               {
                 "t": "p",
-                "x": "El chip aún no se ha conectado a un tokamak en funcionamiento. El equipo reprodujo datos registrados en el tokamak DIII-D a un millón de muestras por segundo, y el chip mantuvo el ritmo mientras ejecutaba algoritmos pensados para señalar anomalías y predecir disrupciones. “Todo esto está ahora muy en fase de demostración”, dice Michael Churchill, del Princeton Plasma Physics Laboratory."
+                "x": "El reconocimiento de patrones con IA automatiza gran parte de la anotación y clasifica los clics por ballena, y el equipo de biología revisa los resultados."
               },
               {
                 "t": "p",
-                "x": "El equipo planea un chip sucesor con una red neuronal 10 veces mayor, que se presentará en Brookhaven a principios del próximo año y se instalará en DIII-D algún tiempo después."
+                "x": "Al combinar el audio con los datos de profundidad y movimiento, los modelos de aprendizaje automático mostraron que unas ocho a 10 codas permiten predecir si las ballenas están a punto de iniciar una inmersión profunda para alimentarse."
+              },
+              {
+                "t": "p",
+                "x": "El equipo encontró en las codas dos sonidos parecidos a vocales, pero se desconoce su significado. Las ballenas también podrían escuchar los clics de otras para encontrar calamares en la oscuridad."
               }
             ]
           }
@@ -727,15 +767,15 @@
       }
     },
     {
-      "id": "science-quantum-sim-agents",
+      "id": "science-hallucination-nerd",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 에이전트, 질문을\n양자 시뮬레이션으로",
-      "body": "다중 에이전트 AI가 일상어 연구 질문을 검증·재현되는 양자 시뮬레이션으로 바꾼다.",
-      "mini_headline": "AI 에이전트가 돌리는 양자 시뮬레이션",
+      "headline": "NYU 도구, 인용 검증\n실험 프로토콜도 찾는다",
+      "body": "NYU의 두 AI 도구는 논문 인용의 근거를 검증하고 실험 프로토콜을 찾아 준다.",
+      "mini_headline": "NYU의 인용 검증 도구",
       "tool": "Science",
-      "source": "Physics World",
-      "url": "https://physicsworld.com/a/using-ai-agents-to-run-quantum-simulations/",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-10-scientists-tech-tools-citation-hallucinations.html",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -743,173 +783,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://physicsworld.com/wp-content/uploads/2026/10/ai-agent-computer-chip-or-software-2217030312-istock-mf3d.jpg"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/computer-scientists-bu.jpg",
+            "cap": "HallucinationNerd 구조. 출처: Information (2026). DOI: 10.3390/info17111053"
           },
           {
             "t": "p",
-            "x": "양자 시뮬레이션은 분자 에너지 계산, 신소재 탐구, 양자컴퓨팅 알고리즘 시험, 양자계의 시간 변화 예측에 쓰인다. 하지만 전문 수치 기법을 알고 여러 소프트웨어 도구를 능숙하게 다뤄야 하는 경우가 많다."
+            "x": "NYU 컴퓨터과학자와 학생들이 웹 기반 AI 시스템 두 가지를 만들고, 학술지 Information에 논문 두 편으로 발표했다. 두 프로젝트를 이끈 사람은 NYU Courant Institute 컴퓨터과학 교수 데니스 샤샤(Dennis Shasha)다."
           },
           {
             "t": "p",
-            "x": "AI 에이전트는 여러 단계짜리 작업을 계획하고 문서를 찾아보고 프로그램을 돌린 뒤 결과를 검토해 접근 방식을 고칠 수 있다. El Agente Cuántico는 이 능력을 양자 시뮬레이션에 가져왔다. 조정 에이전트가 서로 다른 소프트웨어 패키지에 연결된 전문 에이전트들에게 일을 나눠 맡기면 코드와 수치 결과, 그림이 나온다."
+            "x": "Hallucination Nerd는 한 문서가 인용 문헌을 근거로 내세운 주장이 실제 그 문헌으로 뒷받침되는지 확인해 준다. 판정은 Supported(뒷받침됨), Partially Supported(부분적으로 뒷받침됨), Not Supported(뒷받침되지 않음), Contradicted(모순됨), Cited article does not exist(인용 논문 없음), Could not access(접근 불가) 중 하나로 내려진다."
           },
           {
             "t": "p",
-            "x": "연구진은 분자 에너지 계산, 얽힘 상태, 소산 동역학, 시간 결정, 오류 정정, 하드웨어 자원 추정에서 이 시스템을 선보였다. 다섯 가지 과제를 되풀이해 시험하니 전문가 평가 평균 점수는 100점 만점에 97점에서 100점이었다. 다만 일부 실행은 지시를 벗어났다."
+            "x": "Protocol Nerd는 실험 프로토콜을 찾는 실험실 과학자를 위한 도구다. 먼저 질문을 던져 요구 사항을 분명히 한 뒤 프로토콜 여러 개를 내놓고, 각각이 왜 도움이 될 수 있는지, 왜 아닐 수 있는지 설명한다. 지금은 분자생물학과 화학에 집중한다."
           },
           {
             "t": "p",
-            "x": "저자들은 이 에이전트들이 과학적 판단을 대신하지 않고 거드는 도구라고 말한다. (I. Gustin et al 2026 Rep. Prog. Phys. 89 077602)"
+            "x": "연구팀은 Protocol Nerd는 PubMed와 Europe PMC 논문으로, Hallucination Nerd는 arXiv 논문으로 시험했고, 두 시스템을 기존 시스템과 견줘 봤다."
+          },
+          {
+            "t": "p",
+            "x": "“이전 연구를 정확하고 효율적으로 평가하면 이후의 관련 연구는 나아질 수밖에 없습니다.” 샤샤의 말이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI agents turn questions\ninto quantum simulations",
-          "body": "A multi-agent AI system turns plain-language research questions into checked, reproducible quantum simulations.",
-          "mini_headline": "AI agents run quantum sims",
+          "headline": "NYU tools check citations\nand find lab protocols",
+          "body": "Hallucination Nerd checks whether a paper's claims are backed by its citations, and Protocol Nerd finds lab protocols.",
+          "mini_headline": "NYU's citation checker",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://physicsworld.com/wp-content/uploads/2026/10/ai-agent-computer-chip-or-software-2217030312-istock-mf3d.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/computer-scientists-bu.jpg",
+                "cap": "HallucinationNerd architecture. Credit: Information (2026). DOI: 10.3390/info17111053"
               },
               {
                 "t": "p",
-                "x": "Quantum simulations are used to calculate molecular energies, investigate new materials, test quantum-computing algorithms and predict how quantum systems evolve, but they often require specialist numerical methods and familiarity with multiple software tools."
+                "x": "NYU computer scientists and students have built two web-hosted AI systems, described in two articles in the journal Information. Dennis Shasha, a professor of computer science at NYU's Courant Institute, led both projects."
               },
               {
                 "t": "p",
-                "x": "AI agents can plan multistep tasks, consult documentation, run programs, examine results and revise their approach. El Agente Cuántico applies this to quantum simulation: a coordinating agent delegates work to specialist agents tied to different software packages, producing code, numerical results and figures."
+                "x": "Hallucination Nerd permits users to check whether the claims a document makes about its citations are backed up by the cited documents, grading each as Supported, Partially Supported, Not Supported, Contradicted, Cited article does not exist, or Could not access."
               },
               {
                 "t": "p",
-                "x": "The researchers demonstrated it on molecular-energy calculations, entangled states, dissipative dynamics, time crystals, error correction and hardware-resource estimation. In repeated tests of five tasks, average expert-assessment scores ranged from 97 to 100 out of 100, though a few runs departed from the instructions."
+                "x": "Protocol Nerd aims to help bench scientists seeking experimental protocols. It first asks clarifying questions, then offers several protocols and explains why each might or might not help. It currently focuses on molecular biology and chemistry."
               },
               {
                 "t": "p",
-                "x": "The authors present the agents as an aid to scientific judgement, not a replacement for it. (I. Gustin et al 2026 Rep. Prog. Phys. 89 077602)"
+                "x": "The team tested Protocol Nerd on PubMed and Europe PMC articles and Hallucination Nerd on arXiv papers, comparing both with existing systems."
+              },
+              {
+                "t": "p",
+                "x": "“Accurately and efficiently evaluating previous research can only improve subsequent, related studies,” Shasha said."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 에이전트, 질문을\n양자 시뮬레이션으로",
-          "body": "다중 에이전트 AI가 일상어 연구 질문을 검증·재현되는 양자 시뮬레이션으로 바꾼다.",
-          "mini_headline": "AI 에이전트가 돌리는 양자 시뮬레이션",
+          "headline": "NYU 도구, 인용 검증\n실험 프로토콜도 찾는다",
+          "body": "NYU의 두 AI 도구는 논문 인용의 근거를 검증하고 실험 프로토콜을 찾아 준다.",
+          "mini_headline": "NYU의 인용 검증 도구",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://physicsworld.com/wp-content/uploads/2026/10/ai-agent-computer-chip-or-software-2217030312-istock-mf3d.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/computer-scientists-bu.jpg",
+                "cap": "HallucinationNerd 구조. 출처: Information (2026). DOI: 10.3390/info17111053"
               },
               {
                 "t": "p",
-                "x": "양자 시뮬레이션은 분자 에너지 계산, 신소재 탐구, 양자컴퓨팅 알고리즘 시험, 양자계의 시간 변화 예측에 쓰인다. 하지만 전문 수치 기법을 알고 여러 소프트웨어 도구를 능숙하게 다뤄야 하는 경우가 많다."
+                "x": "NYU 컴퓨터과학자와 학생들이 웹 기반 AI 시스템 두 가지를 만들고, 학술지 Information에 논문 두 편으로 발표했다. 두 프로젝트를 이끈 사람은 NYU Courant Institute 컴퓨터과학 교수 데니스 샤샤(Dennis Shasha)다."
               },
               {
                 "t": "p",
-                "x": "AI 에이전트는 여러 단계짜리 작업을 계획하고 문서를 찾아보고 프로그램을 돌린 뒤 결과를 검토해 접근 방식을 고칠 수 있다. El Agente Cuántico는 이 능력을 양자 시뮬레이션에 가져왔다. 조정 에이전트가 서로 다른 소프트웨어 패키지에 연결된 전문 에이전트들에게 일을 나눠 맡기면 코드와 수치 결과, 그림이 나온다."
+                "x": "Hallucination Nerd는 한 문서가 인용 문헌을 근거로 내세운 주장이 실제 그 문헌으로 뒷받침되는지 확인해 준다. 판정은 Supported(뒷받침됨), Partially Supported(부분적으로 뒷받침됨), Not Supported(뒷받침되지 않음), Contradicted(모순됨), Cited article does not exist(인용 논문 없음), Could not access(접근 불가) 중 하나로 내려진다."
               },
               {
                 "t": "p",
-                "x": "연구진은 분자 에너지 계산, 얽힘 상태, 소산 동역학, 시간 결정, 오류 정정, 하드웨어 자원 추정에서 이 시스템을 선보였다. 다섯 가지 과제를 되풀이해 시험하니 전문가 평가 평균 점수는 100점 만점에 97점에서 100점이었다. 다만 일부 실행은 지시를 벗어났다."
+                "x": "Protocol Nerd는 실험 프로토콜을 찾는 실험실 과학자를 위한 도구다. 먼저 질문을 던져 요구 사항을 분명히 한 뒤 프로토콜 여러 개를 내놓고, 각각이 왜 도움이 될 수 있는지, 왜 아닐 수 있는지 설명한다. 지금은 분자생물학과 화학에 집중한다."
               },
               {
                 "t": "p",
-                "x": "저자들은 이 에이전트들이 과학적 판단을 대신하지 않고 거드는 도구라고 말한다. (I. Gustin et al 2026 Rep. Prog. Phys. 89 077602)"
+                "x": "연구팀은 Protocol Nerd는 PubMed와 Europe PMC 논문으로, Hallucination Nerd는 arXiv 논문으로 시험했고, 두 시스템을 기존 시스템과 견줘 봤다."
+              },
+              {
+                "t": "p",
+                "x": "“이전 연구를 정확하고 효율적으로 평가하면 이후의 관련 연구는 나아질 수밖에 없습니다.” 샤샤의 말이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIエージェントが\n問いを量子シミュレーションに",
-          "body": "マルチエージェントAIが平易な問いを検証済みで再現可能な量子シミュレーションに変える。",
-          "mini_headline": "AIエージェントが量子シミュレーションを実行",
+          "headline": "NYUのツールが引用検証\n実験プロトコルも探す",
+          "body": "NYUの二つのAIツールは、論文の主張が引用で裏付けられるかを確かめ、実験手順も探す。",
+          "mini_headline": "NYUの引用チェッカー",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://physicsworld.com/wp-content/uploads/2026/10/ai-agent-computer-chip-or-software-2217030312-istock-mf3d.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/computer-scientists-bu.jpg",
+                "cap": "HallucinationNerdの構成。出典: Information (2026). DOI: 10.3390/info17111053"
               },
               {
                 "t": "p",
-                "x": "量子シミュレーションは、分子エネルギーの計算、新材料の探索、量子コンピューティング用アルゴリズムの検証、量子系の時間発展の予測に使われるが、専門的な数値手法や複数のソフトウェアツールへの習熟を求められることが多い。"
+                "x": "NYUのコンピューター科学者と学生が、ウェブ上で動く二つのAIシステムを開発し、学術誌Informationの2本の論文で発表した。両プロジェクトを率いたのは、NYU Courant Instituteのコンピューター科学教授デニス・シャシャ(Dennis Shasha)氏だ。"
               },
               {
                 "t": "p",
-                "x": "AIエージェントは多段階のタスクを計画し、ドキュメントを参照し、プログラムを実行し、結果を検討して手法を修正できる。El Agente Cuánticoはこれを量子シミュレーションに応用したものだ。調整役のエージェントが、異なるソフトウェアパッケージと結びついた専門エージェントに作業を割り振り、コード、数値結果、図を生成する。"
+                "x": "Hallucination Nerdを使うと、ある文書が引用文献について述べている主張が、実際に引用文献で裏付けられているかを確認できる。各主張はSupported(裏付けあり)、Partially Supported(一部裏付けあり)、Not Supported(裏付けなし)、Contradicted(矛盾)、Cited article does not exist(引用論文が存在しない)、Could not access(アクセス不可)のいずれかに判定される。"
               },
               {
                 "t": "p",
-                "x": "研究者たちは、分子エネルギー計算、エンタングル状態、散逸ダイナミクス、時間結晶、誤り訂正、ハードウェア資源の見積もりでこれを実証した。五つのタスクを繰り返し試験したところ、専門家による評価の平均点は100点満点中97点から100点だったが、一部の実行では指示から外れた。"
+                "x": "Protocol Nerdは、実験プロトコルを探す研究者を支援するためのものだ。まず要件を明確にする質問をし、続いて複数のプロトコルを提示して、それぞれが役立つ理由と役立たない理由を説明する。現在は分子生物学と化学に焦点を当てている。"
               },
               {
                 "t": "p",
-                "x": "著者らは、このエージェントを科学的判断の代わりではなく、その助けとして位置づけている。(I. Gustin et al 2026 Rep. Prog. Phys. 89 077602)"
+                "x": "チームはProtocol NerdをPubMedとEurope PMCの論文で、Hallucination NerdをarXivの論文で検証し、いずれも既存のシステムと比較した。"
+              },
+              {
+                "t": "p",
+                "x": "「過去の研究を正確かつ効率的に評価できれば、その後の関連研究は必ず良くなる」とシャシャ氏は述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI智能体把问题\n变成量子模拟",
-          "body": "多智能体AI系统可将日常语言提出的研究问题转化为经过检验、可复现的量子模拟。",
-          "mini_headline": "AI智能体运行量子模拟",
+          "headline": "NYU工具核查引用\n并查找实验方案",
+          "body": "NYU的两款AI工具可核查论文主张是否有引文支撑，并查找实验方案。",
+          "mini_headline": "NYU的引用核查工具",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://physicsworld.com/wp-content/uploads/2026/10/ai-agent-computer-chip-or-software-2217030312-istock-mf3d.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/computer-scientists-bu.jpg",
+                "cap": "HallucinationNerd架构。来源：Information (2026). DOI: 10.3390/info17111053"
               },
               {
                 "t": "p",
-                "x": "量子模拟可用于计算分子能量、研究新材料、测试量子计算算法以及预测量子系统的演化，但往往需要专门的数值方法，并熟悉多种软件工具。"
+                "x": "NYU的计算机科学家和学生开发了两套网页版AI系统，相关成果以两篇论文发表在期刊Information上。两个项目均由NYU Courant Institute计算机科学教授丹尼斯·沙沙(Dennis Shasha)主持。"
               },
               {
                 "t": "p",
-                "x": "AI智能体能够规划多步骤任务、查阅文档、运行程序、检查结果并调整方法。El Agente Cuántico将这一能力应用于量子模拟：一个协调智能体把工作分派给对接不同软件包的专业智能体，生成代码、数值结果和图表。"
+                "x": "借助Hallucination Nerd，用户可以核查一份文档对其引文所作的论断是否真正得到被引文献的支持，每条论断会被评为Supported(有支持)、Partially Supported(部分支持)、Not Supported(无支持)、Contradicted(相矛盾)、Cited article does not exist(被引文章不存在)或Could not access(无法访问)。"
               },
               {
                 "t": "p",
-                "x": "研究人员在分子能量计算、纠缠态、耗散动力学、时间晶体、纠错和硬件资源估算等任务上进行了演示。在对五项任务的重复测试中，专家评估的平均得分在97到100分之间（满分100），但也有少数运行偏离了指令。"
+                "x": "Protocol Nerd旨在帮助寻找实验方案的实验室科学家。它会先提出澄清性问题，再给出若干方案，并解释每种方案可能有用或无用的原因。目前它主要面向分子生物学和化学。"
               },
               {
                 "t": "p",
-                "x": "作者将这些智能体定位为科学判断的辅助，而非替代。(I. Gustin et al 2026 Rep. Prog. Phys. 89 077602)"
+                "x": "团队用PubMed和Europe PMC的文章测试了Protocol Nerd，用arXiv论文测试了Hallucination Nerd，并将两者与现有系统进行了比较。"
+              },
+              {
+                "t": "p",
+                "x": "“准确而高效地评估既往研究，只会让后续的相关研究变得更好。”沙沙说。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agentes de AI traducen preguntas\na simulaciones cuánticas",
-          "body": "Un sistema multiagente de AI traduce preguntas en lenguaje llano a simulaciones cuánticas verificadas y reproducibles.",
-          "mini_headline": "Agentes de AI ejecutan simulaciones cuánticas",
+          "headline": "Herramientas de NYU verifican\ncitas y buscan protocolos",
+          "body": "Hallucination Nerd verifica si las citas de un artículo respaldan sus afirmaciones, y Protocol Nerd busca protocolos.",
+          "mini_headline": "El verificador de citas de NYU",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://physicsworld.com/wp-content/uploads/2026/10/ai-agent-computer-chip-or-software-2217030312-istock-mf3d.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/computer-scientists-bu.jpg",
+                "cap": "Arquitectura de HallucinationNerd. Crédito: Information (2026). DOI: 10.3390/info17111053"
               },
               {
                 "t": "p",
-                "x": "Las simulaciones cuánticas se usan para calcular energías moleculares, investigar nuevos materiales, probar algoritmos de computación cuántica y predecir cómo evolucionan los sistemas cuánticos, pero a menudo requieren métodos numéricos especializados y dominio de varias herramientas de software."
+                "x": "Científicos de la computación y estudiantes de NYU crearon dos sistemas de IA alojados en la web, descritos en dos artículos de la revista Information. Dennis Shasha, profesor de ciencias de la computación del Courant Institute de NYU, dirigió ambos proyectos."
               },
               {
                 "t": "p",
-                "x": "Los agentes de AI pueden planificar tareas de varios pasos, consultar documentación, ejecutar programas, examinar resultados y revisar su enfoque. El Agente Cuántico aplica esto a la simulación cuántica: un agente coordinador delega el trabajo en agentes especializados vinculados a distintos paquetes de software, que producen código, resultados numéricos y figuras."
+                "x": "Hallucination Nerd permite comprobar si las afirmaciones que un documento hace sobre sus citas están respaldadas por los documentos citados, y califica cada una como Supported, Partially Supported, Not Supported, Contradicted, Cited article does not exist o Could not access."
               },
               {
                 "t": "p",
-                "x": "Los investigadores lo demostraron en cálculos de energía molecular, estados entrelazados, dinámica disipativa, cristales de tiempo, corrección de errores y estimación de recursos de hardware. En pruebas repetidas de cinco tareas, las puntuaciones medias de la evaluación experta oscilaron entre 97 y 100 sobre 100, aunque algunas ejecuciones se apartaron de las instrucciones."
+                "x": "Protocol Nerd busca ayudar a los científicos de laboratorio que necesitan protocolos experimentales. Primero hace preguntas aclaratorias, luego ofrece varios protocolos y explica por qué cada uno podría servir o no. Por ahora se centra en biología molecular y química."
               },
               {
                 "t": "p",
-                "x": "Los autores presentan los agentes como una ayuda al juicio científico, no como su sustituto. (I. Gustin et al 2026 Rep. Prog. Phys. 89 077602)"
+                "x": "El equipo probó Protocol Nerd con artículos de PubMed y Europe PMC, y Hallucination Nerd con artículos de arXiv, y comparó ambos con sistemas existentes."
+              },
+              {
+                "t": "p",
+                "x": "“Evaluar con precisión y eficiencia la investigación previa solo puede mejorar los estudios posteriores relacionados”, dijo Shasha."
               }
             ]
           }
@@ -917,121 +987,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 에이전트, 질문을\n양자 시뮬레이션으로",
-          "body": "다중 에이전트 AI가 일상어 연구 질문을 검증·재현되는 양자 시뮬레이션으로 바꾼다.",
-          "mini_headline": "AI 에이전트가 돌리는 양자 시뮬레이션",
+          "headline": "NYU 도구, 인용 검증\n실험 프로토콜도 찾는다",
+          "body": "NYU의 두 AI 도구는 논문 인용의 근거를 검증하고 실험 프로토콜을 찾아 준다.",
+          "mini_headline": "NYU의 인용 검증 도구",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://physicsworld.com/wp-content/uploads/2026/10/ai-agent-computer-chip-or-software-2217030312-istock-mf3d.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/computer-scientists-bu.jpg",
+                "cap": "HallucinationNerd 구조. 출처: Information (2026). DOI: 10.3390/info17111053"
               },
               {
                 "t": "p",
-                "x": "양자 시뮬레이션은 분자 에너지 계산, 신소재 탐구, 양자컴퓨팅 알고리즘 시험, 양자계의 시간 변화 예측에 쓰이지만, 전문적인 수치 기법과 여러 소프트웨어 도구에 대한 숙련을 요구하는 경우가 많다."
+                "x": "NYU 컴퓨터과학자와 학생들이 웹 기반 AI 시스템 두 가지를 만들어 학술지 Information에 논문 두 편으로 발표했다. 두 프로젝트는 NYU Courant Institute의 컴퓨터과학 교수 데니스 샤샤(Dennis Shasha)가 이끌었다."
               },
               {
                 "t": "p",
-                "x": "AI 에이전트는 여러 단계의 작업을 계획하고, 문서를 참조하고, 프로그램을 실행하고, 결과를 검토해 접근 방식을 고칠 수 있다. El Agente Cuántico는 이를 양자 시뮬레이션에 적용했다. 조정 에이전트가 서로 다른 소프트웨어 패키지에 연결된 전문 에이전트들에게 작업을 나눠 맡기고, 코드와 수치 결과, 그림을 만들어낸다."
+                "x": "Hallucination Nerd를 쓰면 한 문서가 인용 문헌을 두고 내세운 주장이 실제 인용 문헌으로 뒷받침되는지 확인할 수 있다. 각 주장은 Supported(뒷받침됨), Partially Supported(부분적으로 뒷받침됨), Not Supported(뒷받침되지 않음), Contradicted(모순됨), Cited article does not exist(인용 논문 없음), Could not access(접근 불가) 중 하나로 판정된다."
               },
               {
                 "t": "p",
-                "x": "연구진은 분자 에너지 계산, 얽힘 상태, 소산 동역학, 시간 결정, 오류 정정, 하드웨어 자원 추정에서 이 시스템을 시연했다. 다섯 가지 과제를 반복 시험한 결과 전문가 평가 평균 점수는 100점 만점에 97점에서 100점이었지만, 일부 실행은 지시에서 벗어났다."
+                "x": "Protocol Nerd는 실험 프로토콜을 찾는 실험실 과학자를 돕는 도구다. 먼저 요구 사항을 분명히 하는 질문을 던진 뒤 여러 프로토콜을 제시하고, 각각이 도움이 될 수 있는 이유와 그렇지 않은 이유를 설명한다. 현재는 분자생물학과 화학에 집중한다."
               },
               {
                 "t": "p",
-                "x": "저자들은 이 에이전트들을 과학적 판단을 대체하는 것이 아니라 돕는 도구로 제시한다. (I. Gustin et al 2026 Rep. Prog. Phys. 89 077602)"
+                "x": "연구팀은 Protocol Nerd를 PubMed와 Europe PMC 논문으로, Hallucination Nerd를 arXiv 논문으로 시험하고 두 시스템을 기존 시스템과 비교했다."
+              },
+              {
+                "t": "p",
+                "x": "“이전 연구를 정확하고 효율적으로 평가하면 이후의 관련 연구는 나아질 수밖에 없습니다.” 샤샤의 말이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIエージェントが\n問いを量子シミュレーションに",
-          "body": "マルチエージェントAIが平易な問いを検証済みで再現可能な量子シミュレーションに変える。",
-          "mini_headline": "AIエージェントが量子シミュレーションを実行",
+          "headline": "NYUのツールが引用検証\n実験プロトコルも探す",
+          "body": "NYUの二つのAIツールは、論文の主張が引用で裏付けられるかを確かめ、実験手順も探す。",
+          "mini_headline": "NYUの引用チェッカー",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://physicsworld.com/wp-content/uploads/2026/10/ai-agent-computer-chip-or-software-2217030312-istock-mf3d.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/computer-scientists-bu.jpg",
+                "cap": "HallucinationNerdの構成。出典: Information (2026). DOI: 10.3390/info17111053"
               },
               {
                 "t": "p",
-                "x": "量子シミュレーションは、分子エネルギーの計算、新材料の探索、量子コンピューティング用アルゴリズムの検証、量子系の時間発展の予測に使われるが、専門的な数値手法や複数のソフトウェアツールへの習熟を求められることが多い。"
+                "x": "NYUのコンピューター科学者と学生が、ウェブ上で動く二つのAIシステムを開発し、学術誌Informationの2本の論文で発表した。両プロジェクトを率いたのは、NYU Courant Instituteのコンピューター科学教授デニス・シャシャ(Dennis Shasha)氏だ。"
               },
               {
                 "t": "p",
-                "x": "AIエージェントは多段階のタスクを計画し、ドキュメントを参照し、プログラムを実行し、結果を検討して手法を修正できる。El Agente Cuánticoはこれを量子シミュレーションに応用したものだ。調整役のエージェントが、異なるソフトウェアパッケージと結びついた専門エージェントに作業を割り振り、コード、数値結果、図を生成する。"
+                "x": "Hallucination Nerdを使うと、ある文書が引用文献について述べている主張が、実際に引用文献で裏付けられているかを確認できる。各主張はSupported(裏付けあり)、Partially Supported(一部裏付けあり)、Not Supported(裏付けなし)、Contradicted(矛盾)、Cited article does not exist(引用論文が存在しない)、Could not access(アクセス不可)のいずれかに判定される。"
               },
               {
                 "t": "p",
-                "x": "研究者たちは、分子エネルギー計算、エンタングル状態、散逸ダイナミクス、時間結晶、誤り訂正、ハードウェア資源の見積もりでこれを実証した。五つのタスクを繰り返し試験したところ、専門家による評価の平均点は100点満点中97点から100点だったが、一部の実行では指示から外れた。"
+                "x": "Protocol Nerdは、実験プロトコルを探す研究者を支援するためのものだ。まず要件を明確にする質問をし、続いて複数のプロトコルを提示して、それぞれが役立つ理由と役立たない理由を説明する。現在は分子生物学と化学に焦点を当てている。"
               },
               {
                 "t": "p",
-                "x": "著者らは、このエージェントを科学的判断の代わりではなく、その助けとして位置づけている。(I. Gustin et al 2026 Rep. Prog. Phys. 89 077602)"
+                "x": "チームはProtocol NerdをPubMedとEurope PMCの論文で、Hallucination NerdをarXivの論文で検証し、いずれも既存のシステムと比較した。"
+              },
+              {
+                "t": "p",
+                "x": "「過去の研究を正確かつ効率的に評価できれば、その後の関連研究は必ず良くなる」とシャシャ氏は述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI智能体把问题\n变成量子模拟",
-          "body": "多智能体AI系统可将日常语言提出的研究问题转化为经过检验、可复现的量子模拟。",
-          "mini_headline": "AI智能体运行量子模拟",
+          "headline": "NYU工具核查引用\n并查找实验方案",
+          "body": "NYU的两款AI工具可核查论文主张是否有引文支撑，并查找实验方案。",
+          "mini_headline": "NYU的引用核查工具",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://physicsworld.com/wp-content/uploads/2026/10/ai-agent-computer-chip-or-software-2217030312-istock-mf3d.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/computer-scientists-bu.jpg",
+                "cap": "HallucinationNerd架构。来源：Information (2026). DOI: 10.3390/info17111053"
               },
               {
                 "t": "p",
-                "x": "量子模拟可用于计算分子能量、研究新材料、测试量子计算算法以及预测量子系统的演化，但往往需要专门的数值方法，并熟悉多种软件工具。"
+                "x": "NYU的计算机科学家和学生开发了两套网页版AI系统，相关成果以两篇论文发表在期刊Information上。两个项目均由NYU Courant Institute计算机科学教授丹尼斯·沙沙(Dennis Shasha)主持。"
               },
               {
                 "t": "p",
-                "x": "AI智能体能够规划多步骤任务、查阅文档、运行程序、检查结果并调整方法。El Agente Cuántico将这一能力应用于量子模拟：一个协调智能体把工作分派给对接不同软件包的专业智能体，生成代码、数值结果和图表。"
+                "x": "借助Hallucination Nerd，用户可以核查一份文档对其引文所作的论断是否真正得到被引文献的支持，每条论断会被评为Supported(有支持)、Partially Supported(部分支持)、Not Supported(无支持)、Contradicted(相矛盾)、Cited article does not exist(被引文章不存在)或Could not access(无法访问)。"
               },
               {
                 "t": "p",
-                "x": "研究人员在分子能量计算、纠缠态、耗散动力学、时间晶体、纠错和硬件资源估算等任务上进行了演示。在对五项任务的重复测试中，专家评估的平均得分在97到100分之间（满分100），但也有少数运行偏离了指令。"
+                "x": "Protocol Nerd旨在帮助寻找实验方案的实验室科学家。它会先提出澄清性问题，再给出若干方案，并解释每种方案可能有用或无用的原因。目前它主要面向分子生物学和化学。"
               },
               {
                 "t": "p",
-                "x": "作者将这些智能体定位为科学判断的辅助，而非替代。(I. Gustin et al 2026 Rep. Prog. Phys. 89 077602)"
+                "x": "团队用PubMed和Europe PMC的文章测试了Protocol Nerd，用arXiv论文测试了Hallucination Nerd，并将两者与现有系统进行了比较。"
+              },
+              {
+                "t": "p",
+                "x": "“准确而高效地评估既往研究，只会让后续的相关研究变得更好。”沙沙说。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agentes de AI traducen preguntas\na simulaciones cuánticas",
-          "body": "Un sistema multiagente de AI traduce preguntas en lenguaje llano a simulaciones cuánticas verificadas y reproducibles.",
-          "mini_headline": "Agentes de AI ejecutan simulaciones cuánticas",
+          "headline": "Herramientas de NYU verifican\ncitas y buscan protocolos",
+          "body": "Hallucination Nerd verifica si las citas de un artículo respaldan sus afirmaciones, y Protocol Nerd busca protocolos.",
+          "mini_headline": "El verificador de citas de NYU",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://physicsworld.com/wp-content/uploads/2026/10/ai-agent-computer-chip-or-software-2217030312-istock-mf3d.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/computer-scientists-bu.jpg",
+                "cap": "Arquitectura de HallucinationNerd. Crédito: Information (2026). DOI: 10.3390/info17111053"
               },
               {
                 "t": "p",
-                "x": "Las simulaciones cuánticas se usan para calcular energías moleculares, investigar nuevos materiales, probar algoritmos de computación cuántica y predecir cómo evolucionan los sistemas cuánticos, pero a menudo requieren métodos numéricos especializados y dominio de varias herramientas de software."
+                "x": "Científicos de la computación y estudiantes de NYU crearon dos sistemas de IA alojados en la web, descritos en dos artículos de la revista Information. Dennis Shasha, profesor de ciencias de la computación del Courant Institute de NYU, dirigió ambos proyectos."
               },
               {
                 "t": "p",
-                "x": "Los agentes de AI pueden planificar tareas de varios pasos, consultar documentación, ejecutar programas, examinar resultados y revisar su enfoque. El Agente Cuántico aplica esto a la simulación cuántica: un agente coordinador delega el trabajo en agentes especializados vinculados a distintos paquetes de software, que producen código, resultados numéricos y figuras."
+                "x": "Hallucination Nerd permite comprobar si las afirmaciones que un documento hace sobre sus citas están respaldadas por los documentos citados, y califica cada una como Supported, Partially Supported, Not Supported, Contradicted, Cited article does not exist o Could not access."
               },
               {
                 "t": "p",
-                "x": "Los investigadores lo demostraron en cálculos de energía molecular, estados entrelazados, dinámica disipativa, cristales de tiempo, corrección de errores y estimación de recursos de hardware. En pruebas repetidas de cinco tareas, las puntuaciones medias de la evaluación experta oscilaron entre 97 y 100 sobre 100, aunque algunas ejecuciones se apartaron de las instrucciones."
+                "x": "Protocol Nerd busca ayudar a los científicos de laboratorio que necesitan protocolos experimentales. Primero hace preguntas aclaratorias, luego ofrece varios protocolos y explica por qué cada uno podría servir o no. Por ahora se centra en biología molecular y química."
               },
               {
                 "t": "p",
-                "x": "Los autores presentan los agentes como una ayuda al juicio científico, no como su sustituto. (I. Gustin et al 2026 Rep. Prog. Phys. 89 077602)"
+                "x": "El equipo probó Protocol Nerd con artículos de PubMed y Europe PMC, y Hallucination Nerd con artículos de arXiv, y comparó ambos con sistemas existentes."
+              },
+              {
+                "t": "p",
+                "x": "“Evaluar con precisión y eficiencia la investigación previa solo puede mejorar los estudios posteriores relacionados”, dijo Shasha."
               }
             ]
           }
@@ -1039,15 +1129,15 @@
       }
     },
     {
-      "id": "science-chatbot-delusions",
+      "id": "science-forty-forest-map",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "챗봇의 망상 맞장구\n줄이는 법",
-      "body": "AI 여덟 종 1,280회 시험서 과잉 동의 억제가 망상 동조를 73.8% 줄였다.",
-      "mini_headline": "챗봇 아첨 억제",
+      "headline": "DeepMind, 10미터\n해상도 숲 지도",
+      "body": "ForTy 2020은 육지를 10미터 해상도로 6개 숲·토지 유형으로 나눈다.",
+      "mini_headline": "전 세계 숲 유형 지도",
       "tool": "Science",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-10-ai-chatbots-delusions.html",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -1055,255 +1145,475 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbots-1.jpg"
+            "src": "https://lh3.googleusercontent.com/WGEFKF0mS4Mon9B5jZmraPj5UVTfZ0HtW0VXaLS0Ijm67blWFirP4Opi5IX6QLWEbq9MSQituskRlxKgUpGfD8-C6kIbe7etM9bTbvLg3rmG5gTkwc4=w1440-h810-n-nu"
           },
           {
             "t": "p",
-            "x": "Georgia Tech 연구진 Lorenzo de la Loza와 Vijay Madisetti는 망상적 믿음을 다루는 임상 기반 시나리오 16개로 AI 모델 여덟 종을 1,280회 시험했다."
+            "x": "Google DeepMind와 Google Research가 World Resources Institute, IIASA와 함께 Forest Typology(ForTy) 2020을 공개했다. 육지의 10-by-10-meter(가로세로 10미터) 구획을 하나도 빠짐없이 6개 숲·토지 이용 유형으로 나눈 전 세계 지도다. 2017년부터 2025년까지 해마다 변화를 추적한 초기 시계열도 함께 담겼다."
           },
           {
             "t": "p",
-            "x": "과잉 동의를 억제하는 지시, 곧 비위를 맞추려고 사용자의 믿음을 키워 주지 말라는 지시를 넣자 모델이 그런 믿음을 확인해 주는 경우가 73.8% 줄었다. 자기 성찰 단계를 더하자 감소 폭은 77%까지 커졌다."
+            "x": "6개 유형은 원시림, 자연 재생림, 조림지, 플랜테이션림, 수목 작물과 혼농임업, 기타 토지다."
+          },
+          {
+            "t": "img",
+            "src": "https://lh3.googleusercontent.com/wAQ6wnzu6Lr-VMuS6ielTWpKEcpB2PkjN0XTdby80-NtefdPj9-ZKCrVPk-CSPuZ6GN8B4sScphV7sUd9dwrgprBrijy8wj3Z9fIv7eg2QAcMUMGPA=w1440-h810-n-nu",
+            "cap": "2020년 Forest Typology 지도. 각 색은 1제곱킬로미터마다 가장 흔한 숲 또는 토지 유형을 나타낸다."
           },
           {
             "t": "p",
-            "x": "연구는 임상 현장의 사람을 상대로 시험하지 않았다. 그래서 이 방식이 실제 피해를 막는지까지는 보여 주지 못한다. 결과는 ACM AI Letters에 실렸다."
+            "x": "모델은 라벨이 붙은 지점 약 170만 개로 학습했고, 핵심 입력으로 AlphaEarth Foundations 임베딩을 쓴다."
+          },
+          {
+            "t": "img",
+            "src": "https://lh3.googleusercontent.com/l0vzsdd-HHJUPQaQCHx4yzAOG-ULvQ20EM0HypoHdYpj-LMesy8I_dHhGwGtxjY1mRfa44OkiD_An7SgiHHXfaKQhgelgfZcdHWd9aPLGg_0wGyshw=w1440-h810-n-nu",
+            "cap": "위에서 내려다보면 5개 숲·수목 작물 유형은 서로 비슷해 보일 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "무작위로 고른 지점 9,000곳 이상으로 검증해 보니 ForTy는 숲 유형을 90% 맞혔고, 숲과 비(非)숲은 95% 구분했다."
+          },
+          {
+            "t": "video",
+            "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/wbSzS_gEiCrn4Dc1/Figure4_light_1.mp4"
+          },
+          {
+            "t": "p",
+            "x": "지도와 시계열은 오픈 라이선스로 Google Earth Engine에서 무료로 이용할 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Cutting how chatbots\naffirm delusions",
-          "body": "In 1,280 tests of eight AI models, instructions against excessive agreement cut confirmation of delusions by 73.8%.",
-          "mini_headline": "Curbing chatbot sycophancy",
+          "headline": "DeepMind maps the world's\nforest types at 10 meters",
+          "body": "ForTy 2020 sorts Earth's land into six forest and land-use types at 10-meter resolution, with an annual time series.",
+          "mini_headline": "A global forest-type map",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbots-1.jpg"
+                "src": "https://lh3.googleusercontent.com/WGEFKF0mS4Mon9B5jZmraPj5UVTfZ0HtW0VXaLS0Ijm67blWFirP4Opi5IX6QLWEbq9MSQituskRlxKgUpGfD8-C6kIbe7etM9bTbvLg3rmG5gTkwc4=w1440-h810-n-nu"
               },
               {
                 "t": "p",
-                "x": "Georgia Tech researchers Lorenzo de la Loza and Vijay Madisetti tested eight AI models in 1,280 experiments, using 16 clinically derived scenarios involving delusional beliefs."
+                "x": "Google DeepMind and Google Research, with the World Resources Institute and IIASA, released Forest Typology (ForTy) 2020, a global map that sorts every 10-by-10-meter patch of land into six forest and land-use types, plus an early time series tracking changes each year from 2017 to 2025."
               },
               {
                 "t": "p",
-                "x": "Instructions designed to discourage excessive agreement — telling models not to reinforce users' beliefs simply to be agreeable — reduced the models' confirmation of those beliefs by 73.8%. Adding a self-reflection step increased the reduction to 77%."
+                "x": "The six categories are primary forest, naturally regenerating forest, planted forest, plantation forest, tree crops and agroforestry, and other land."
               },
-              {
-                "t": "p",
-                "x": "The study did not test people in clinical settings, so it does not show the approach prevents real-world harm. The work appears in ACM AI Letters."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "챗봇의 망상 맞장구\n줄이는 법",
-          "body": "AI 여덟 종 1,280회 시험서 과잉 동의 억제가 망상 동조를 73.8% 줄였다.",
-          "mini_headline": "챗봇 아첨 억제",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbots-1.jpg"
+                "src": "https://lh3.googleusercontent.com/wAQ6wnzu6Lr-VMuS6ielTWpKEcpB2PkjN0XTdby80-NtefdPj9-ZKCrVPk-CSPuZ6GN8B4sScphV7sUd9dwrgprBrijy8wj3Z9fIv7eg2QAcMUMGPA=w1440-h810-n-nu",
+                "cap": "The Forest Typology map for 2020. Each color shows the most common forest or land type in each square kilometer."
               },
               {
                 "t": "p",
-                "x": "Georgia Tech 연구진 Lorenzo de la Loza와 Vijay Madisetti는 망상적 믿음을 다루는 임상 기반 시나리오 16개로 AI 모델 여덟 종을 1,280회 시험했다."
+                "x": "The model was trained on about 1.7 million labeled locations and uses AlphaEarth Foundations embeddings as a key input."
               },
-              {
-                "t": "p",
-                "x": "과잉 동의를 억제하는 지시, 곧 비위를 맞추려고 사용자의 믿음을 키워 주지 말라는 지시를 넣자 모델이 그런 믿음을 확인해 주는 경우가 73.8% 줄었다. 자기 성찰 단계를 더하자 감소 폭은 77%까지 커졌다."
-              },
-              {
-                "t": "p",
-                "x": "연구는 임상 현장의 사람을 상대로 시험하지 않았다. 그래서 이 방식이 실제 피해를 막는지까지는 보여 주지 못한다. 결과는 ACM AI Letters에 실렸다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "チャットボットの\n妄想への同調を抑える",
-          "body": "八つのAIモデルで1,280回試すと、過度な同意を戒める指示で妄想肯定が73.8%減った。",
-          "mini_headline": "チャットボットの迎合を抑える",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbots-1.jpg"
+                "src": "https://lh3.googleusercontent.com/l0vzsdd-HHJUPQaQCHx4yzAOG-ULvQ20EM0HypoHdYpj-LMesy8I_dHhGwGtxjY1mRfa44OkiD_An7SgiHHXfaKQhgelgfZcdHWd9aPLGg_0wGyshw=w1440-h810-n-nu",
+                "cap": "From above, the five forest and tree-crop classes can look alike."
               },
               {
                 "t": "p",
-                "x": "Georgia Techの研究者Lorenzo de la LozaとVijay Madisettiは、妄想的な信念を含む臨床由来の16のシナリオを用い、八つのAIモデルで1,280回の実験を行った。"
+                "x": "Validated against more than 9,000 random sites, ForTy picked the right forest type 90% of the time and told forest from non-forest 95% of the time."
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/wbSzS_gEiCrn4Dc1/Figure4_light_1.mp4"
               },
               {
                 "t": "p",
-                "x": "過度な同意を抑えるよう設計した指示、つまり単に相手に合わせるためにユーザーの信念を強化しないようモデルに伝える指示によって、モデルがそうした信念を肯定する度合いは73.8%減った。自己省察のステップを加えると、減少幅は77%に広がった。"
-              },
-              {
-                "t": "p",
-                "x": "この研究は臨床現場の人を対象に試験していないため、この手法が現実の害を防ぐことを示すものではない。成果はACM AI Lettersに掲載された。"
+                "x": "The map and time series are freely available on Google Earth Engine under an open license."
               }
             ]
           }
         },
         "zh": {
-          "headline": "减少聊天机器人\n对妄想的附和",
-          "body": "在对八个AI模型的1,280次测试中，抑制过度附和的指令使对妄想的认同减少了73.8%。",
-          "mini_headline": "抑制聊天机器人谄媚",
+          "headline": "DeepMind绘制全球\n10米分辨率森林类型图",
+          "body": "ForTy 2020以10米分辨率将地球陆地分为六种森林和土地利用类型，并附年度时间序列。",
+          "mini_headline": "全球森林类型地图",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbots-1.jpg"
+                "src": "https://lh3.googleusercontent.com/WGEFKF0mS4Mon9B5jZmraPj5UVTfZ0HtW0VXaLS0Ijm67blWFirP4Opi5IX6QLWEbq9MSQituskRlxKgUpGfD8-C6kIbe7etM9bTbvLg3rmG5gTkwc4=w1440-h810-n-nu"
               },
               {
                 "t": "p",
-                "x": "Georgia Tech研究人员Lorenzo de la Loza和Vijay Madisetti利用16个源自临床、涉及妄想信念的情境，对八个AI模型进行了1,280次实验。"
+                "x": "Google DeepMind与Google Research联合World Resources Institute和IIASA，发布了Forest Typology（ForTy）2020。这是一张全球地图，将每个10-by-10-meter（10×10米）的陆地地块划分为六种森林和土地利用类型，并附有追踪2017年至2025年逐年变化的早期时间序列。"
               },
               {
                 "t": "p",
-                "x": "旨在抑制过度附和的指令——要求模型不要仅为讨好而强化用户的信念——使模型对这些信念的认同减少了73.8%。加入自我反思步骤后，降幅提高到77%。"
+                "x": "六个类别分别为原始林、天然更新林、人工种植林、人工林场、林木作物与农林复合，以及其他土地。"
+              },
+              {
+                "t": "img",
+                "src": "https://lh3.googleusercontent.com/wAQ6wnzu6Lr-VMuS6ielTWpKEcpB2PkjN0XTdby80-NtefdPj9-ZKCrVPk-CSPuZ6GN8B4sScphV7sUd9dwrgprBrijy8wj3Z9fIv7eg2QAcMUMGPA=w1440-h810-n-nu",
+                "cap": "2020年Forest Typology地图。每种颜色代表每平方公里内最常见的森林或土地类型。"
               },
               {
                 "t": "p",
-                "x": "该研究没有在临床环境中对人进行测试，因此并不能表明这一方法能防止现实中的伤害。研究发表于ACM AI Letters。"
+                "x": "该模型基于约170万个带标签的地点训练，并以AlphaEarth Foundations嵌入作为关键输入。"
+              },
+              {
+                "t": "img",
+                "src": "https://lh3.googleusercontent.com/l0vzsdd-HHJUPQaQCHx4yzAOG-ULvQ20EM0HypoHdYpj-LMesy8I_dHhGwGtxjY1mRfa44OkiD_An7SgiHHXfaKQhgelgfZcdHWd9aPLGg_0wGyshw=w1440-h810-n-nu",
+                "cap": "从空中看，五种森林和林木作物类别可能十分相似。"
+              },
+              {
+                "t": "p",
+                "x": "在9,000多个随机地点的验证中，ForTy判断森林类型的准确率为90%，区分森林与非森林的准确率为95%。"
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/wbSzS_gEiCrn4Dc1/Figure4_light_1.mp4"
+              },
+              {
+                "t": "p",
+                "x": "地图和时间序列以开放许可在Google Earth Engine上免费提供。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cómo frenar que los chatbots\nvaliden los delirios",
-          "body": "En 1,280 pruebas con ocho modelos de AI, pedir no complacer en exceso redujo un 73.8% la validación de delirios.",
-          "mini_headline": "Frenar la complacencia de los chatbots",
+          "headline": "DeepMind mapea los tipos de\nbosque del mundo a 10 metros",
+          "body": "ForTy 2020 clasifica la tierra en seis tipos de bosque y uso del suelo a 10 metros, con serie anual.",
+          "mini_headline": "Un mapa global de tipos de bosque",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbots-1.jpg"
+                "src": "https://lh3.googleusercontent.com/WGEFKF0mS4Mon9B5jZmraPj5UVTfZ0HtW0VXaLS0Ijm67blWFirP4Opi5IX6QLWEbq9MSQituskRlxKgUpGfD8-C6kIbe7etM9bTbvLg3rmG5gTkwc4=w1440-h810-n-nu"
               },
               {
                 "t": "p",
-                "x": "Los investigadores de Georgia Tech Lorenzo de la Loza y Vijay Madisetti probaron ocho modelos de AI en 1,280 experimentos, con 16 escenarios de origen clínico sobre creencias delirantes."
+                "x": "Google DeepMind y Google Research, junto con el World Resources Institute y IIASA, publicaron Forest Typology (ForTy) 2020, un mapa global que clasifica cada parcela de tierra de 10-by-10-meter (10 × 10 metros) en seis tipos de bosque y uso del suelo, además de una serie temporal preliminar que sigue los cambios de cada año entre 2017 y 2025."
               },
               {
                 "t": "p",
-                "x": "Las instrucciones diseñadas para desalentar el acuerdo excesivo —que indican a los modelos no reforzar las creencias de los usuarios solo por complacerlos— redujeron un 73.8% la confirmación de esas creencias por parte de los modelos. Añadir un paso de autorreflexión elevó la reducción al 77%."
+                "x": "Las seis categorías son bosque primario, bosque de regeneración natural, bosque plantado, bosque de plantación, cultivos arbóreos y agroforestería, y otras tierras."
+              },
+              {
+                "t": "img",
+                "src": "https://lh3.googleusercontent.com/wAQ6wnzu6Lr-VMuS6ielTWpKEcpB2PkjN0XTdby80-NtefdPj9-ZKCrVPk-CSPuZ6GN8B4sScphV7sUd9dwrgprBrijy8wj3Z9fIv7eg2QAcMUMGPA=w1440-h810-n-nu",
+                "cap": "El mapa de Forest Typology de 2020. Cada color muestra el tipo de bosque o de tierra más común en cada kilómetro cuadrado."
               },
               {
                 "t": "p",
-                "x": "El estudio no hizo pruebas con personas en entornos clínicos, por lo que no demuestra que el método evite daños en el mundo real. El trabajo se publica en ACM AI Letters."
+                "x": "El modelo se entrenó con unos 1,7 millones de ubicaciones etiquetadas y usa los embeddings de AlphaEarth Foundations como entrada clave."
+              },
+              {
+                "t": "img",
+                "src": "https://lh3.googleusercontent.com/l0vzsdd-HHJUPQaQCHx4yzAOG-ULvQ20EM0HypoHdYpj-LMesy8I_dHhGwGtxjY1mRfa44OkiD_An7SgiHHXfaKQhgelgfZcdHWd9aPLGg_0wGyshw=w1440-h810-n-nu",
+                "cap": "Desde arriba, las cinco clases de bosque y cultivos arbóreos pueden parecerse."
+              },
+              {
+                "t": "p",
+                "x": "Validado en más de 9.000 sitios aleatorios, ForTy acertó el tipo de bosque el 90 % de las veces y distinguió el bosque de lo que no es bosque el 95 % de las veces."
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/wbSzS_gEiCrn4Dc1/Figure4_light_1.mp4"
+              },
+              {
+                "t": "p",
+                "x": "El mapa y la serie temporal están disponibles gratis en Google Earth Engine con una licencia abierta."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "DeepMind, 10미터\n해상도 숲 지도",
+          "body": "ForTy 2020은 육지를 10미터 해상도로 6개 숲·토지 유형으로 나눈다.",
+          "mini_headline": "전 세계 숲 유형 지도",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://lh3.googleusercontent.com/WGEFKF0mS4Mon9B5jZmraPj5UVTfZ0HtW0VXaLS0Ijm67blWFirP4Opi5IX6QLWEbq9MSQituskRlxKgUpGfD8-C6kIbe7etM9bTbvLg3rmG5gTkwc4=w1440-h810-n-nu"
+              },
+              {
+                "t": "p",
+                "x": "Google DeepMind와 Google Research가 World Resources Institute, IIASA와 함께 Forest Typology(ForTy) 2020을 공개했다. 육지의 10-by-10-meter(가로세로 10미터) 구획을 하나도 빠짐없이 6개 숲·토지 이용 유형으로 나눈 전 세계 지도다. 2017년부터 2025년까지 해마다 변화를 추적한 초기 시계열도 함께 담겼다."
+              },
+              {
+                "t": "p",
+                "x": "6개 유형은 원시림, 자연 재생림, 조림지, 플랜테이션림, 수목 작물과 혼농임업, 기타 토지다."
+              },
+              {
+                "t": "img",
+                "src": "https://lh3.googleusercontent.com/wAQ6wnzu6Lr-VMuS6ielTWpKEcpB2PkjN0XTdby80-NtefdPj9-ZKCrVPk-CSPuZ6GN8B4sScphV7sUd9dwrgprBrijy8wj3Z9fIv7eg2QAcMUMGPA=w1440-h810-n-nu",
+                "cap": "2020년 Forest Typology 지도. 각 색은 1제곱킬로미터마다 가장 흔한 숲 또는 토지 유형을 나타낸다."
+              },
+              {
+                "t": "p",
+                "x": "모델은 라벨이 붙은 지점 약 170만 개로 학습했고, 핵심 입력으로 AlphaEarth Foundations 임베딩을 쓴다."
+              },
+              {
+                "t": "img",
+                "src": "https://lh3.googleusercontent.com/l0vzsdd-HHJUPQaQCHx4yzAOG-ULvQ20EM0HypoHdYpj-LMesy8I_dHhGwGtxjY1mRfa44OkiD_An7SgiHHXfaKQhgelgfZcdHWd9aPLGg_0wGyshw=w1440-h810-n-nu",
+                "cap": "위에서 내려다보면 5개 숲·수목 작물 유형은 서로 비슷해 보일 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "무작위로 고른 지점 9,000곳 이상으로 검증해 보니 ForTy는 숲 유형을 90% 맞혔고, 숲과 비(非)숲은 95% 구분했다."
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/wbSzS_gEiCrn4Dc1/Figure4_light_1.mp4"
+              },
+              {
+                "t": "p",
+                "x": "지도와 시계열은 오픈 라이선스로 Google Earth Engine에서 무료로 이용할 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "DeepMind、\n10メートル森林地図",
+          "body": "ForTy 2020は地球の陸地を10メートル解像度で6種の森林・土地利用型に分類する。",
+          "mini_headline": "世界の森林タイプ地図",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://lh3.googleusercontent.com/WGEFKF0mS4Mon9B5jZmraPj5UVTfZ0HtW0VXaLS0Ijm67blWFirP4Opi5IX6QLWEbq9MSQituskRlxKgUpGfD8-C6kIbe7etM9bTbvLg3rmG5gTkwc4=w1440-h810-n-nu"
+              },
+              {
+                "t": "p",
+                "x": "Google DeepMindとGoogle Researchは、World Resources InstituteおよびIIASAと共同で、Forest Typology(ForTy)2020を公開した。陸地のあらゆる10-by-10-meter(10メートル四方)の区画を6種類の森林・土地利用型に分類する世界地図で、2017年から2025年まで毎年の変化を追う初期の時系列データも含む。"
+              },
+              {
+                "t": "p",
+                "x": "6つの分類は、原生林、天然更新林、植林地、プランテーション林、樹木作物とアグロフォレストリー、その他の土地である。"
+              },
+              {
+                "t": "img",
+                "src": "https://lh3.googleusercontent.com/wAQ6wnzu6Lr-VMuS6ielTWpKEcpB2PkjN0XTdby80-NtefdPj9-ZKCrVPk-CSPuZ6GN8B4sScphV7sUd9dwrgprBrijy8wj3Z9fIv7eg2QAcMUMGPA=w1440-h810-n-nu",
+                "cap": "2020年のForest Typology地図。各色は1平方キロメートルごとに最も多い森林または土地の種類を示す。"
+              },
+              {
+                "t": "p",
+                "x": "モデルは約170万のラベル付き地点で学習し、AlphaEarth Foundationsの埋め込みを主要な入力として使う。"
+              },
+              {
+                "t": "img",
+                "src": "https://lh3.googleusercontent.com/l0vzsdd-HHJUPQaQCHx4yzAOG-ULvQ20EM0HypoHdYpj-LMesy8I_dHhGwGtxjY1mRfa44OkiD_An7SgiHHXfaKQhgelgfZcdHWd9aPLGg_0wGyshw=w1440-h810-n-nu",
+                "cap": "上空から見ると、5つの森林・樹木作物のクラスは互いに似て見えることがある。"
+              },
+              {
+                "t": "p",
+                "x": "9,000以上の無作為な地点で検証したところ、ForTyは森林の種類を90%の確率で正しく判定し、森林と非森林を95%の確率で見分けた。"
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/wbSzS_gEiCrn4Dc1/Figure4_light_1.mp4"
+              },
+              {
+                "t": "p",
+                "x": "地図と時系列データは、オープンライセンスのもとGoogle Earth Engineで無料で利用できる。"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "챗봇의 망상 맞장구\n줄이는 법",
-          "body": "AI 여덟 종 1,280회 시험서 과잉 동의 억제가 망상 동조를 73.8% 줄였다.",
-          "mini_headline": "챗봇 아첨 억제",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbots-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Georgia Tech 연구진 Lorenzo de la Loza와 Vijay Madisetti는 망상적 믿음을 다룬 임상 기반 시나리오 16개로 AI 모델 여덟 종을 1,280회 실험했다."
-              },
-              {
-                "t": "p",
-                "x": "과잉 동의를 억제하도록 설계한 지시, 즉 단지 비위를 맞추려고 사용자의 믿음을 강화하지 말라는 지시는 모델이 그런 믿음을 확인해 주는 일을 73.8% 줄였다. 자기 성찰 단계를 더하자 감소 폭은 77%로 커졌다."
-              },
-              {
-                "t": "p",
-                "x": "이 연구는 임상 현장의 사람을 대상으로 시험하지 않았으므로, 이 방식이 실제 피해를 막는다는 것을 보여주지는 못한다. 연구 결과는 ACM AI Letters에 실렸다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "チャットボットの\n妄想への同調を抑える",
-          "body": "八つのAIモデルで1,280回試すと、過度な同意を戒める指示で妄想肯定が73.8%減った。",
-          "mini_headline": "チャットボットの迎合を抑える",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbots-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Georgia Techの研究者Lorenzo de la LozaとVijay Madisettiは、妄想的な信念を含む臨床由来の16のシナリオを用い、八つのAIモデルで1,280回の実験を行った。"
-              },
-              {
-                "t": "p",
-                "x": "過度な同意を抑えるよう設計した指示、つまり単に相手に合わせるためにユーザーの信念を強化しないようモデルに伝える指示によって、モデルがそうした信念を肯定する度合いは73.8%減った。自己省察のステップを加えると、減少幅は77%に広がった。"
-              },
-              {
-                "t": "p",
-                "x": "この研究は臨床現場の人を対象に試験していないため、この手法が現実の害を防ぐことを示すものではない。成果はACM AI Lettersに掲載された。"
-              }
-            ]
-          }
-        },
         "zh": {
-          "headline": "减少聊天机器人\n对妄想的附和",
-          "body": "在对八个AI模型的1,280次测试中，抑制过度附和的指令使对妄想的认同减少了73.8%。",
-          "mini_headline": "抑制聊天机器人谄媚",
+          "headline": "DeepMind绘制全球\n10米分辨率森林类型图",
+          "body": "ForTy 2020以10米分辨率将地球陆地分为六种森林和土地利用类型，并附年度时间序列。",
+          "mini_headline": "全球森林类型地图",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbots-1.jpg"
+                "src": "https://lh3.googleusercontent.com/WGEFKF0mS4Mon9B5jZmraPj5UVTfZ0HtW0VXaLS0Ijm67blWFirP4Opi5IX6QLWEbq9MSQituskRlxKgUpGfD8-C6kIbe7etM9bTbvLg3rmG5gTkwc4=w1440-h810-n-nu"
               },
               {
                 "t": "p",
-                "x": "Georgia Tech研究人员Lorenzo de la Loza和Vijay Madisetti利用16个源自临床、涉及妄想信念的情境，对八个AI模型进行了1,280次实验。"
+                "x": "Google DeepMind与Google Research联合World Resources Institute和IIASA，发布了Forest Typology（ForTy）2020。这是一张全球地图，将每个10-by-10-meter（10×10米）的陆地地块划分为六种森林和土地利用类型，并附有追踪2017年至2025年逐年变化的早期时间序列。"
               },
               {
                 "t": "p",
-                "x": "旨在抑制过度附和的指令——要求模型不要仅为讨好而强化用户的信念——使模型对这些信念的认同减少了73.8%。加入自我反思步骤后，降幅提高到77%。"
+                "x": "六个类别分别为原始林、天然更新林、人工种植林、人工林场、林木作物与农林复合，以及其他土地。"
+              },
+              {
+                "t": "img",
+                "src": "https://lh3.googleusercontent.com/wAQ6wnzu6Lr-VMuS6ielTWpKEcpB2PkjN0XTdby80-NtefdPj9-ZKCrVPk-CSPuZ6GN8B4sScphV7sUd9dwrgprBrijy8wj3Z9fIv7eg2QAcMUMGPA=w1440-h810-n-nu",
+                "cap": "2020年Forest Typology地图。每种颜色代表每平方公里内最常见的森林或土地类型。"
               },
               {
                 "t": "p",
-                "x": "该研究没有在临床环境中对人进行测试，因此并不能表明这一方法能防止现实中的伤害。研究发表于ACM AI Letters。"
+                "x": "该模型基于约170万个带标签的地点训练，并以AlphaEarth Foundations嵌入作为关键输入。"
+              },
+              {
+                "t": "img",
+                "src": "https://lh3.googleusercontent.com/l0vzsdd-HHJUPQaQCHx4yzAOG-ULvQ20EM0HypoHdYpj-LMesy8I_dHhGwGtxjY1mRfa44OkiD_An7SgiHHXfaKQhgelgfZcdHWd9aPLGg_0wGyshw=w1440-h810-n-nu",
+                "cap": "从空中看，五种森林和林木作物类别可能十分相似。"
+              },
+              {
+                "t": "p",
+                "x": "在9,000多个随机地点的验证中，ForTy判断森林类型的准确率为90%，区分森林与非森林的准确率为95%。"
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/wbSzS_gEiCrn4Dc1/Figure4_light_1.mp4"
+              },
+              {
+                "t": "p",
+                "x": "地图和时间序列以开放许可在Google Earth Engine上免费提供。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cómo frenar que los chatbots\nvaliden los delirios",
-          "body": "En 1,280 pruebas con ocho modelos de AI, pedir no complacer en exceso redujo un 73.8% la validación de delirios.",
-          "mini_headline": "Frenar la complacencia de los chatbots",
+          "headline": "DeepMind mapea los tipos de\nbosque del mundo a 10 metros",
+          "body": "ForTy 2020 clasifica la tierra en seis tipos de bosque y uso del suelo a 10 metros, con serie anual.",
+          "mini_headline": "Un mapa global de tipos de bosque",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbots-1.jpg"
+                "src": "https://lh3.googleusercontent.com/WGEFKF0mS4Mon9B5jZmraPj5UVTfZ0HtW0VXaLS0Ijm67blWFirP4Opi5IX6QLWEbq9MSQituskRlxKgUpGfD8-C6kIbe7etM9bTbvLg3rmG5gTkwc4=w1440-h810-n-nu"
               },
               {
                 "t": "p",
-                "x": "Los investigadores de Georgia Tech Lorenzo de la Loza y Vijay Madisetti probaron ocho modelos de AI en 1,280 experimentos, con 16 escenarios de origen clínico sobre creencias delirantes."
+                "x": "Google DeepMind y Google Research, junto con el World Resources Institute y IIASA, publicaron Forest Typology (ForTy) 2020, un mapa global que clasifica cada parcela de tierra de 10-by-10-meter (10 × 10 metros) en seis tipos de bosque y uso del suelo, además de una serie temporal preliminar que sigue los cambios de cada año entre 2017 y 2025."
               },
               {
                 "t": "p",
-                "x": "Las instrucciones diseñadas para desalentar el acuerdo excesivo —que indican a los modelos no reforzar las creencias de los usuarios solo por complacerlos— redujeron un 73.8% la confirmación de esas creencias por parte de los modelos. Añadir un paso de autorreflexión elevó la reducción al 77%."
+                "x": "Las seis categorías son bosque primario, bosque de regeneración natural, bosque plantado, bosque de plantación, cultivos arbóreos y agroforestería, y otras tierras."
+              },
+              {
+                "t": "img",
+                "src": "https://lh3.googleusercontent.com/wAQ6wnzu6Lr-VMuS6ielTWpKEcpB2PkjN0XTdby80-NtefdPj9-ZKCrVPk-CSPuZ6GN8B4sScphV7sUd9dwrgprBrijy8wj3Z9fIv7eg2QAcMUMGPA=w1440-h810-n-nu",
+                "cap": "El mapa de Forest Typology de 2020. Cada color muestra el tipo de bosque o de tierra más común en cada kilómetro cuadrado."
               },
               {
                 "t": "p",
-                "x": "El estudio no hizo pruebas con personas en entornos clínicos, por lo que no demuestra que el método evite daños en el mundo real. El trabajo se publica en ACM AI Letters."
+                "x": "El modelo se entrenó con unos 1,7 millones de ubicaciones etiquetadas y usa los embeddings de AlphaEarth Foundations como entrada clave."
+              },
+              {
+                "t": "img",
+                "src": "https://lh3.googleusercontent.com/l0vzsdd-HHJUPQaQCHx4yzAOG-ULvQ20EM0HypoHdYpj-LMesy8I_dHhGwGtxjY1mRfa44OkiD_An7SgiHHXfaKQhgelgfZcdHWd9aPLGg_0wGyshw=w1440-h810-n-nu",
+                "cap": "Desde arriba, las cinco clases de bosque y cultivos arbóreos pueden parecerse."
+              },
+              {
+                "t": "p",
+                "x": "Validado en más de 9.000 sitios aleatorios, ForTy acertó el tipo de bosque el 90 % de las veces y distinguió el bosque de lo que no es bosque el 95 % de las veces."
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/wbSzS_gEiCrn4Dc1/Figure4_light_1.mp4"
+              },
+              {
+                "t": "p",
+                "x": "El mapa y la serie temporal están disponibles gratis en Google Earth Engine con una licencia abierta."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "DeepMind, 10미터\n해상도 숲 지도",
+          "body": "ForTy 2020은 육지를 10미터 해상도로 6개 숲·토지 유형으로 나눈다.",
+          "mini_headline": "전 세계 숲 유형 지도",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://lh3.googleusercontent.com/WGEFKF0mS4Mon9B5jZmraPj5UVTfZ0HtW0VXaLS0Ijm67blWFirP4Opi5IX6QLWEbq9MSQituskRlxKgUpGfD8-C6kIbe7etM9bTbvLg3rmG5gTkwc4=w1440-h810-n-nu"
+              },
+              {
+                "t": "p",
+                "x": "Google DeepMind와 Google Research는 World Resources Institute, IIASA와 함께 Forest Typology(ForTy) 2020을 공개했다. 육지의 모든 10-by-10-meter(가로세로 10미터) 구획을 6개 숲·토지 이용 유형으로 분류한 전 세계 지도로, 2017년부터 2025년까지 해마다 변화를 추적하는 초기 시계열도 함께 담았다."
+              },
+              {
+                "t": "p",
+                "x": "6개 유형은 원시림, 자연 재생림, 조림지, 플랜테이션림, 수목 작물과 혼농임업, 기타 토지다."
+              },
+              {
+                "t": "img",
+                "src": "https://lh3.googleusercontent.com/wAQ6wnzu6Lr-VMuS6ielTWpKEcpB2PkjN0XTdby80-NtefdPj9-ZKCrVPk-CSPuZ6GN8B4sScphV7sUd9dwrgprBrijy8wj3Z9fIv7eg2QAcMUMGPA=w1440-h810-n-nu",
+                "cap": "2020년 Forest Typology 지도다. 각 색은 1제곱킬로미터마다 가장 흔한 숲 또는 토지 유형을 나타낸다."
+              },
+              {
+                "t": "p",
+                "x": "모델은 라벨이 붙은 약 170만 개 지점으로 학습했으며, AlphaEarth Foundations 임베딩을 핵심 입력으로 쓴다."
+              },
+              {
+                "t": "img",
+                "src": "https://lh3.googleusercontent.com/l0vzsdd-HHJUPQaQCHx4yzAOG-ULvQ20EM0HypoHdYpj-LMesy8I_dHhGwGtxjY1mRfa44OkiD_An7SgiHHXfaKQhgelgfZcdHWd9aPLGg_0wGyshw=w1440-h810-n-nu",
+                "cap": "위에서 내려다보면 5개 숲·수목 작물 유형은 서로 비슷해 보일 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "무작위로 고른 9,000곳 이상의 지점으로 검증한 결과, ForTy는 숲 유형을 90% 맞혔고 숲과 비(非)숲을 95% 구분했다."
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/wbSzS_gEiCrn4Dc1/Figure4_light_1.mp4"
+              },
+              {
+                "t": "p",
+                "x": "지도와 시계열은 오픈 라이선스로 Google Earth Engine에서 무료로 이용할 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "DeepMind、\n10メートル森林地図",
+          "body": "ForTy 2020は地球の陸地を10メートル解像度で6種の森林・土地利用型に分類する。",
+          "mini_headline": "世界の森林タイプ地図",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://lh3.googleusercontent.com/WGEFKF0mS4Mon9B5jZmraPj5UVTfZ0HtW0VXaLS0Ijm67blWFirP4Opi5IX6QLWEbq9MSQituskRlxKgUpGfD8-C6kIbe7etM9bTbvLg3rmG5gTkwc4=w1440-h810-n-nu"
+              },
+              {
+                "t": "p",
+                "x": "Google DeepMindとGoogle Researchは、World Resources InstituteおよびIIASAと共同で、Forest Typology(ForTy)2020を公開した。陸地のあらゆる10-by-10-meter(10メートル四方)の区画を6種類の森林・土地利用型に分類する世界地図で、2017年から2025年まで毎年の変化を追う初期の時系列データも含む。"
+              },
+              {
+                "t": "p",
+                "x": "6つの分類は、原生林、天然更新林、植林地、プランテーション林、樹木作物とアグロフォレストリー、その他の土地である。"
+              },
+              {
+                "t": "img",
+                "src": "https://lh3.googleusercontent.com/wAQ6wnzu6Lr-VMuS6ielTWpKEcpB2PkjN0XTdby80-NtefdPj9-ZKCrVPk-CSPuZ6GN8B4sScphV7sUd9dwrgprBrijy8wj3Z9fIv7eg2QAcMUMGPA=w1440-h810-n-nu",
+                "cap": "2020年のForest Typology地図。各色は1平方キロメートルごとに最も多い森林または土地の種類を示す。"
+              },
+              {
+                "t": "p",
+                "x": "モデルは約170万のラベル付き地点で学習し、AlphaEarth Foundationsの埋め込みを主要な入力として使う。"
+              },
+              {
+                "t": "img",
+                "src": "https://lh3.googleusercontent.com/l0vzsdd-HHJUPQaQCHx4yzAOG-ULvQ20EM0HypoHdYpj-LMesy8I_dHhGwGtxjY1mRfa44OkiD_An7SgiHHXfaKQhgelgfZcdHWd9aPLGg_0wGyshw=w1440-h810-n-nu",
+                "cap": "上空から見ると、5つの森林・樹木作物のクラスは互いに似て見えることがある。"
+              },
+              {
+                "t": "p",
+                "x": "9,000以上の無作為な地点で検証したところ、ForTyは森林の種類を90%の確率で正しく判定し、森林と非森林を95%の確率で見分けた。"
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/wbSzS_gEiCrn4Dc1/Figure4_light_1.mp4"
+              },
+              {
+                "t": "p",
+                "x": "地図と時系列データは、オープンライセンスのもとGoogle Earth Engineで無料で利用できる。"
               }
             ]
           }
@@ -1311,15 +1621,15 @@
       }
     },
     {
-      "id": "science-bee-buzz-audio",
+      "id": "science-quantum-circuit-kaggle",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI, 벌 날갯소리를 듣다\n죽이는 덫 없이",
-      "body": "UMass Amherst AI는 벌 소리로 93-97%를 맞혀 살상 덫을 대신한다.",
-      "mini_headline": "날갯소리로 벌을 가려내는 AI",
+      "headline": "Google, 15만 달러\n양자 회로 경량화 공모",
+      "body": "Google은 Kaggle 대회에서 양자 회로를 줄이는 AI 기법에 상금을 건다.",
+      "mini_headline": "Google 양자 회로 대회",
       "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-10-ai-bee-lethal.html",
+      "source": "The Quantum Insider",
+      "url": "https://thequantuminsider.com/2026/10/23/google-launches-150000-ai-competition-to-reduce-quantum-computing-demands/",
       "accent": "#eb367f",
       "motif": "sphere",
       "full": {
@@ -1327,155 +1637,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-microphone-captures.jpg",
-            "cap": "꽃가루를 모으는 흔한 주황띠뒤영벌의 소리를 마이크로 녹음하는 모습. Credit: Laura Figueroa"
+            "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Google-Image.png"
           },
           {
             "t": "p",
-            "x": "꽃가루 매개 곤충을 모니터링할 때는 주로 곤충을 죽이는 덫을 쓴다. 비눗물을 채운 작은 색깔 컵이 흔한데, 대상이 아닌 곤충까지 많이 죽인다."
+            "x": "Google Quantum AI가 인공지능으로 양자 회로를 줄이는 대회를 연다. 유용한 양자 컴퓨팅에 필요한 회로가 대상이고, 총상금은 $150,000이다."
           },
           {
             "t": "p",
-            "x": "UMass Amherst의 Laura Figueroa가 이끄는 연구팀은 벌의 소리를 분석하는 AI 모델 두 개를 만들었다. 하나는 벌 활동 전체를 감지하고 다른 하나는 꿀벌과 뒤영벌을 가려낸다. 모델은 U.S. 북동부 43곳에서 다섯 해 동안 모은 현장 녹음 594건으로 학습했다. 표본 속 벌의 93%–97%를 정확히 식별했고, 훈련된 관찰자의 결과와도 상관관계가 강했다."
+            "x": "대회는 Kaggle에서 열린다. 핵융합 에너지, 수학적 최적화, 화학 관련 과제에 필요한 연산 단계와 큐비트 수를 줄이는 것이 목표다."
           },
           {
             "t": "p",
-            "x": "저자들은 이 도구가 전통적 방법을 보완한다고 보고, 나무 수관처럼 표본을 얻기 어려운 곳에서 쓸모 있다고 설명한다. 모델은 Raven Pro에서 쓸 수 있다."
+            "x": "대회에는 Google Qualtran 프로젝트의 오픈소스 라이브러리 kickmix가 쓰인다. kickmix 회로는 일반 컴퓨터 단일 코어에서 초당 600억 게이트 속도로 무작위 퍼즈 테스트를 돌려 검증할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "Google은 자사 Gemini 모델로 내부 실험을 해 보니 세 벤치마크 모두에서 이미 지금까지 보고된 회로보다 나은 결과를 얻었다고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "상금에는 세 과제마다 최고 점수에 주는 $10,000가 들어 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI listens to bee buzzes\nwithout lethal traps",
-          "body": "UMass Amherst AI models that listen to bee buzzes correctly identified 93-97% of bees, an alternative to lethal traps.",
-          "mini_headline": "AI identifies bees by their buzz",
+          "headline": "Google offers $150,000 for\nleaner quantum circuits",
+          "body": "Google Quantum AI's Kaggle contest rewards AI methods that design smaller, more efficient quantum circuits.",
+          "mini_headline": "Google's quantum circuit contest",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-microphone-captures.jpg",
-                "cap": "A microphone records a common orange-belted bumblebee collecting pollen. Credit: Laura Figueroa"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Google-Image.png"
               },
               {
                 "t": "p",
-                "x": "Pollinator monitoring mostly uses lethal traps — often small, colored cups filled with soapy water — which also kill many nontarget insects."
+                "x": "Google Quantum AI is launching a competition to use artificial intelligence to shrink the circuits needed for useful quantum computing, with a total prize pool of $150,000."
               },
               {
                 "t": "p",
-                "x": "A team led by Laura Figueroa at UMass Amherst built two AI models that analyze bee audio: one detects overall bee activity, the other distinguishes honeybees from bumblebees. Trained on 594 field recordings from 43 sites in the northeastern U.S. over five years, the models correctly identified 93%–97% of the bees in a sample and correlated strongly with trained observers."
+                "x": "Hosted on Kaggle, it challenges participants to reduce the number of computing steps and qubits required for tasks related to fusion energy, mathematical optimization and chemistry."
               },
               {
                 "t": "p",
-                "x": "The authors see the tool as a complement to traditional methods, useful in hard-to-sample places such as tree canopies. The models are available on Raven Pro."
+                "x": "It uses kickmix, an open-source library in Google's Qualtran project, whose circuits conventional computers can check through randomized fuzz testing at 60 billion gates per second on a single core."
+              },
+              {
+                "t": "p",
+                "x": "Google said internal experiments with its Gemini models have already produced improvements beyond circuits reported to date across all three benchmarks."
+              },
+              {
+                "t": "p",
+                "x": "Prizes include $10,000 for the best score on each of the three tasks."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI, 벌 날갯소리를 듣다\n죽이는 덫 없이",
-          "body": "UMass Amherst AI는 벌 소리로 93-97%를 맞혀 살상 덫을 대신한다.",
-          "mini_headline": "날갯소리로 벌을 가려내는 AI",
+          "headline": "Google, 15만 달러\n양자 회로 경량화 공모",
+          "body": "Google은 Kaggle 대회에서 양자 회로를 줄이는 AI 기법에 상금을 건다.",
+          "mini_headline": "Google 양자 회로 대회",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-microphone-captures.jpg",
-                "cap": "꽃가루를 모으는 흔한 주황띠뒤영벌의 소리를 마이크로 녹음하는 모습. Credit: Laura Figueroa"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Google-Image.png"
               },
               {
                 "t": "p",
-                "x": "꽃가루 매개 곤충을 모니터링할 때는 주로 곤충을 죽이는 덫을 쓴다. 비눗물을 채운 작은 색깔 컵이 흔한데, 대상이 아닌 곤충까지 많이 죽인다."
+                "x": "Google Quantum AI가 인공지능으로 양자 회로를 줄이는 대회를 연다. 유용한 양자 컴퓨팅에 필요한 회로가 대상이고, 총상금은 $150,000이다."
               },
               {
                 "t": "p",
-                "x": "UMass Amherst의 Laura Figueroa가 이끄는 연구팀은 벌의 소리를 분석하는 AI 모델 두 개를 만들었다. 하나는 벌 활동 전체를 감지하고 다른 하나는 꿀벌과 뒤영벌을 가려낸다. 모델은 U.S. 북동부 43곳에서 다섯 해 동안 모은 현장 녹음 594건으로 학습했다. 표본 속 벌의 93%–97%를 정확히 식별했고, 훈련된 관찰자의 결과와도 상관관계가 강했다."
+                "x": "대회는 Kaggle에서 열린다. 핵융합 에너지, 수학적 최적화, 화학 관련 과제에 필요한 연산 단계와 큐비트 수를 줄이는 것이 목표다."
               },
               {
                 "t": "p",
-                "x": "저자들은 이 도구가 전통적 방법을 보완한다고 보고, 나무 수관처럼 표본을 얻기 어려운 곳에서 쓸모 있다고 설명한다. 모델은 Raven Pro에서 쓸 수 있다."
+                "x": "대회에는 Google Qualtran 프로젝트의 오픈소스 라이브러리 kickmix가 쓰인다. kickmix 회로는 일반 컴퓨터 단일 코어에서 초당 600억 게이트 속도로 무작위 퍼즈 테스트를 돌려 검증할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Google은 자사 Gemini 모델로 내부 실험을 해 보니 세 벤치마크 모두에서 이미 지금까지 보고된 회로보다 나은 결과를 얻었다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "상금에는 세 과제마다 최고 점수에 주는 $10,000가 들어 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが羽音を聞き分ける\n殺虫トラップなしで",
-          "body": "UMass AmherstのAIは羽音でハチの93-97%を見分け、殺虫わなに代わる。",
-          "mini_headline": "羽音でハチを識別するAI",
+          "headline": "Google、15万ドルで\n量子回路の軽量化を募る",
+          "body": "GoogleはKaggleで、量子回路を小さく効率化するAI手法の大会を開く。",
+          "mini_headline": "Googleの量子回路コンテスト",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-microphone-captures.jpg",
-                "cap": "花粉を集める一般的なオレンジ帯のマルハナバチをマイクが録音する。Credit: Laura Figueroa"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Google-Image.png"
               },
               {
                 "t": "p",
-                "x": "送粉者のモニタリングには主に致死的なトラップが使われる。多くは石けん水を入れた小さな色付きカップで、対象外の昆虫も大量に殺してしまう。"
+                "x": "Google Quantum AIは、実用的な量子コンピューティングに必要な回路を人工知能で縮小するコンテストを始める。賞金総額は15万ドルだ。"
               },
               {
                 "t": "p",
-                "x": "UMass AmherstのLaura Figueroa率いるチームは、ハチの音声を解析する二つのAIモデルを開発した。一つはハチ全体の活動を検出し、もう一つはミツバチとマルハナバチを区別する。U.S.北東部の43地点で五年間に集めた594件の野外録音で学習したモデルは、サンプル中のハチの93%–97%を正しく識別し、訓練を受けた観察者の結果とも強く相関した。"
+                "x": "Kaggleで開催され、核融合エネルギー、数理最適化、化学に関わるタスクに必要な計算ステップ数と量子ビット数を減らすことが課題となる。"
               },
               {
                 "t": "p",
-                "x": "著者らはこのツールを従来手法を補うものと位置づけ、樹冠のようにサンプリングが難しい場所で役立つとしている。モデルはRaven Proで利用できる。"
+                "x": "使用するのはGoogleのQualtranプロジェクトに含まれるオープンソースライブラリkickmixで、その回路は一般的なコンピューターがシングルコアで毎秒600億ゲートのランダム化ファズテストにより検証できる。"
+              },
+              {
+                "t": "p",
+                "x": "Googleによると、自社のGeminiモデルを使った社内実験では、三つのベンチマークすべてで、これまでに報告された回路を上回る改善がすでに得られている。"
+              },
+              {
+                "t": "p",
+                "x": "賞金には、三つのタスクそれぞれの最高スコアに贈られる1万ドルが含まれる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI倾听蜜蜂嗡嗡声\n无需致命诱捕器",
-          "body": "UMass Amherst的AI模型凭嗡嗡声正确识别93-97%的蜂类，可替代致命诱捕器。",
-          "mini_headline": "AI凭嗡嗡声识别蜂类",
+          "headline": "Google悬赏15万美元\n征集更精简量子电路",
+          "body": "Google在Kaggle举办竞赛，奖励能设计更小、更高效量子电路的AI方法。",
+          "mini_headline": "Google量子电路竞赛",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-microphone-captures.jpg",
-                "cap": "麦克风正在录制一只采集花粉的常见橙带熊蜂。Credit: Laura Figueroa"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Google-Image.png"
               },
               {
                 "t": "p",
-                "x": "传粉昆虫监测大多使用致命诱捕器——通常是装满肥皂水的彩色小杯——它们也会杀死许多非目标昆虫。"
+                "x": "Google Quantum AI将举办一项竞赛，借助人工智能缩小实用量子计算所需的电路，总奖金为15万美元。"
               },
               {
                 "t": "p",
-                "x": "UMass Amherst的Laura Figueroa领导的团队开发了两个分析蜂类声音的AI模型：一个检测整体蜂类活动，另一个区分蜜蜂和熊蜂。模型以五年间在U.S.东北部43个地点采集的594段野外录音训练，正确识别了样本中93%–97%的蜂类，并与受过训练的观察者高度相关。"
+                "x": "竞赛在Kaggle上举行，要求参赛者减少核聚变能源、数学优化和化学相关任务所需的计算步骤和量子比特数量。"
               },
               {
                 "t": "p",
-                "x": "作者认为该工具可作为传统方法的补充，适用于树冠等难以采样的地方。这些模型可在Raven Pro上使用。"
+                "x": "竞赛使用Google Qualtran项目中的开源库kickmix，其电路可由普通计算机在单核上以每秒600亿个门的速度通过随机模糊测试进行验证。"
+              },
+              {
+                "t": "p",
+                "x": "Google表示，用自家Gemini模型进行的内部实验已在全部三项基准上取得了超越现有已报告电路的改进。"
+              },
+              {
+                "t": "p",
+                "x": "奖项包括为三项任务各自的最高分分别颁发1万美元。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una AI escucha a las abejas\nsin trampas letales",
-          "body": "Modelos de AI de UMass Amherst identificaron por su zumbido el 93-97% de las abejas, sin recurrir a trampas letales.",
-          "mini_headline": "Una AI identifica abejas por su zumbido",
+          "headline": "Google ofrece $150,000 por\ncircuitos cuánticos más ligeros",
+          "body": "El concurso de Google Quantum AI en Kaggle premia la IA que diseñe circuitos cuánticos más pequeños y eficientes.",
+          "mini_headline": "El concurso de circuitos de Google",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-microphone-captures.jpg",
-                "cap": "Un micrófono graba a un abejorro común de banda naranja mientras recoge polen. Credit: Laura Figueroa"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Google-Image.png"
               },
               {
                 "t": "p",
-                "x": "La vigilancia de polinizadores usa sobre todo trampas letales —a menudo pequeños vasos de colores llenos de agua jabonosa—, que también matan a muchos insectos no objetivo."
+                "x": "Google Quantum AI lanza un concurso para usar inteligencia artificial con el fin de reducir los circuitos necesarios para una computación cuántica útil, con una bolsa total de premios de $150,000."
               },
               {
                 "t": "p",
-                "x": "Un equipo dirigido por Laura Figueroa en UMass Amherst creó dos modelos de AI que analizan el audio de las abejas: uno detecta la actividad general de las abejas y el otro distingue las abejas melíferas de los abejorros. Entrenados con 594 grabaciones de campo de 43 sitios del noreste de Estados Unidos (U.S.) durante cinco años, los modelos identificaron correctamente el 93%–97% de las abejas de una muestra y mostraron una fuerte correlación con observadores entrenados."
+                "x": "Alojado en Kaggle, el concurso reta a los participantes a reducir el número de pasos de cómputo y de qubits necesarios para tareas de energía de fusión, optimización matemática y química."
               },
               {
                 "t": "p",
-                "x": "Los autores ven la herramienta como un complemento de los métodos tradicionales, útil en lugares difíciles de muestrear como las copas de los árboles. Los modelos están disponibles en Raven Pro."
+                "x": "Utiliza kickmix, una biblioteca de código abierto del proyecto Qualtran de Google, cuyos circuitos pueden verificar computadoras convencionales mediante pruebas de fuzzing aleatorizadas a 60.000 millones de puertas por segundo en un solo núcleo."
+              },
+              {
+                "t": "p",
+                "x": "Google afirmó que experimentos internos con sus modelos Gemini ya han logrado mejoras que superan los circuitos publicados hasta la fecha en los tres benchmarks."
+              },
+              {
+                "t": "p",
+                "x": "Los premios incluyen $10,000 para la mejor puntuación en cada una de las tres tareas."
               }
             ]
           }
@@ -1483,109 +1835,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI, 벌 날갯소리를 듣다\n죽이는 덫 없이",
-          "body": "UMass Amherst AI는 벌 소리로 93-97%를 맞혀 살상 덫을 대신한다.",
-          "mini_headline": "날갯소리로 벌을 가려내는 AI",
+          "headline": "Google, 15만 달러\n양자 회로 경량화 공모",
+          "body": "Google은 Kaggle 대회에서 양자 회로를 줄이는 AI 기법에 상금을 건다.",
+          "mini_headline": "Google 양자 회로 대회",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-microphone-captures.jpg",
-                "cap": "마이크가 꽃가루를 모으는 흔한 주황띠뒤영벌의 소리를 녹음하고 있다. Credit: Laura Figueroa"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Google-Image.png"
               },
               {
                 "t": "p",
-                "x": "꽃가루 매개 곤충 모니터링에는 주로 치명적인 덫이 쓰인다. 흔히 비눗물을 채운 작은 색깔 컵인데, 대상이 아닌 곤충도 많이 죽인다."
+                "x": "Google Quantum AI가 유용한 양자 컴퓨팅에 필요한 회로를 인공지능으로 줄이는 대회를 연다. 총상금은 $150,000이다."
               },
               {
                 "t": "p",
-                "x": "UMass Amherst의 Laura Figueroa가 이끄는 연구팀은 벌의 소리를 분석하는 AI 모델 두 개를 만들었다. 하나는 전체 벌 활동을 감지하고, 다른 하나는 꿀벌과 뒤영벌을 구별한다. U.S. 북동부 43곳에서 다섯 해 동안 수집한 현장 녹음 594건으로 학습한 모델은 표본 속 벌의 93%–97%를 정확히 식별했고, 훈련된 관찰자의 결과와도 강한 상관관계를 보였다."
+                "x": "Kaggle에서 열리는 이 대회는 핵융합 에너지, 수학적 최적화, 화학 관련 과제에 필요한 연산 단계와 큐비트 수를 줄이는 것을 과제로 내건다."
               },
               {
                 "t": "p",
-                "x": "저자들은 이 도구를 전통적 방법을 보완하는 수단으로 보며, 나무 수관처럼 표본을 얻기 어려운 곳에서 유용하다고 설명한다. 모델은 Raven Pro에서 쓸 수 있다."
+                "x": "대회에는 Google Qualtran 프로젝트의 오픈소스 라이브러리 kickmix가 쓰인다. kickmix 회로는 일반 컴퓨터가 단일 코어에서 초당 600억 게이트 속도로 무작위 퍼즈 테스트를 돌려 검증할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Google은 자사 Gemini 모델로 진행한 내부 실험에서 이미 세 벤치마크 모두에서 지금까지 보고된 회로를 넘어서는 개선을 얻었다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "상금에는 세 과제 각각의 최고 점수에 주는 $10,000가 포함된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが羽音を聞き分ける\n殺虫トラップなしで",
-          "body": "UMass AmherstのAIは羽音でハチの93-97%を見分け、殺虫わなに代わる。",
-          "mini_headline": "羽音でハチを識別するAI",
+          "headline": "Google、15万ドルで\n量子回路の軽量化を募る",
+          "body": "GoogleはKaggleで、量子回路を小さく効率化するAI手法の大会を開く。",
+          "mini_headline": "Googleの量子回路コンテスト",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-microphone-captures.jpg",
-                "cap": "花粉を集める一般的なオレンジ帯のマルハナバチをマイクが録音する。Credit: Laura Figueroa"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Google-Image.png"
               },
               {
                 "t": "p",
-                "x": "送粉者のモニタリングには主に致死的なトラップが使われる。多くは石けん水を入れた小さな色付きカップで、対象外の昆虫も大量に殺してしまう。"
+                "x": "Google Quantum AIは、実用的な量子コンピューティングに必要な回路を人工知能で縮小するコンテストを始める。賞金総額は15万ドルだ。"
               },
               {
                 "t": "p",
-                "x": "UMass AmherstのLaura Figueroa率いるチームは、ハチの音声を解析する二つのAIモデルを開発した。一つはハチ全体の活動を検出し、もう一つはミツバチとマルハナバチを区別する。U.S.北東部の43地点で五年間に集めた594件の野外録音で学習したモデルは、サンプル中のハチの93%–97%を正しく識別し、訓練を受けた観察者の結果とも強く相関した。"
+                "x": "Kaggleで開催され、核融合エネルギー、数理最適化、化学に関わるタスクに必要な計算ステップ数と量子ビット数を減らすことが課題となる。"
               },
               {
                 "t": "p",
-                "x": "著者らはこのツールを従来手法を補うものと位置づけ、樹冠のようにサンプリングが難しい場所で役立つとしている。モデルはRaven Proで利用できる。"
+                "x": "使用するのはGoogleのQualtranプロジェクトに含まれるオープンソースライブラリkickmixで、その回路は一般的なコンピューターがシングルコアで毎秒600億ゲートのランダム化ファズテストにより検証できる。"
+              },
+              {
+                "t": "p",
+                "x": "Googleによると、自社のGeminiモデルを使った社内実験では、三つのベンチマークすべてで、これまでに報告された回路を上回る改善がすでに得られている。"
+              },
+              {
+                "t": "p",
+                "x": "賞金には、三つのタスクそれぞれの最高スコアに贈られる1万ドルが含まれる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI倾听蜜蜂嗡嗡声\n无需致命诱捕器",
-          "body": "UMass Amherst的AI模型凭嗡嗡声正确识别93-97%的蜂类，可替代致命诱捕器。",
-          "mini_headline": "AI凭嗡嗡声识别蜂类",
+          "headline": "Google悬赏15万美元\n征集更精简量子电路",
+          "body": "Google在Kaggle举办竞赛，奖励能设计更小、更高效量子电路的AI方法。",
+          "mini_headline": "Google量子电路竞赛",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-microphone-captures.jpg",
-                "cap": "麦克风正在录制一只采集花粉的常见橙带熊蜂。Credit: Laura Figueroa"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Google-Image.png"
               },
               {
                 "t": "p",
-                "x": "传粉昆虫监测大多使用致命诱捕器——通常是装满肥皂水的彩色小杯——它们也会杀死许多非目标昆虫。"
+                "x": "Google Quantum AI将举办一项竞赛，借助人工智能缩小实用量子计算所需的电路，总奖金为15万美元。"
               },
               {
                 "t": "p",
-                "x": "UMass Amherst的Laura Figueroa领导的团队开发了两个分析蜂类声音的AI模型：一个检测整体蜂类活动，另一个区分蜜蜂和熊蜂。模型以五年间在U.S.东北部43个地点采集的594段野外录音训练，正确识别了样本中93%–97%的蜂类，并与受过训练的观察者高度相关。"
+                "x": "竞赛在Kaggle上举行，要求参赛者减少核聚变能源、数学优化和化学相关任务所需的计算步骤和量子比特数量。"
               },
               {
                 "t": "p",
-                "x": "作者认为该工具可作为传统方法的补充，适用于树冠等难以采样的地方。这些模型可在Raven Pro上使用。"
+                "x": "竞赛使用Google Qualtran项目中的开源库kickmix，其电路可由普通计算机在单核上以每秒600亿个门的速度通过随机模糊测试进行验证。"
+              },
+              {
+                "t": "p",
+                "x": "Google表示，用自家Gemini模型进行的内部实验已在全部三项基准上取得了超越现有已报告电路的改进。"
+              },
+              {
+                "t": "p",
+                "x": "奖项包括为三项任务各自的最高分分别颁发1万美元。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una AI escucha a las abejas\nsin trampas letales",
-          "body": "Modelos de AI de UMass Amherst identificaron por su zumbido el 93-97% de las abejas, sin recurrir a trampas letales.",
-          "mini_headline": "Una AI identifica abejas por su zumbido",
+          "headline": "Google ofrece $150,000 por\ncircuitos cuánticos más ligeros",
+          "body": "El concurso de Google Quantum AI en Kaggle premia la IA que diseñe circuitos cuánticos más pequeños y eficientes.",
+          "mini_headline": "El concurso de circuitos de Google",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-microphone-captures.jpg",
-                "cap": "Un micrófono graba a un abejorro común de banda naranja mientras recoge polen. Credit: Laura Figueroa"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Google-Image.png"
               },
               {
                 "t": "p",
-                "x": "La vigilancia de polinizadores usa sobre todo trampas letales —a menudo pequeños vasos de colores llenos de agua jabonosa—, que también matan a muchos insectos no objetivo."
+                "x": "Google Quantum AI lanza un concurso para usar inteligencia artificial con el fin de reducir los circuitos necesarios para una computación cuántica útil, con una bolsa total de premios de $150,000."
               },
               {
                 "t": "p",
-                "x": "Un equipo dirigido por Laura Figueroa en UMass Amherst creó dos modelos de AI que analizan el audio de las abejas: uno detecta la actividad general de las abejas y el otro distingue las abejas melíferas de los abejorros. Entrenados con 594 grabaciones de campo de 43 sitios del noreste de Estados Unidos (U.S.) durante cinco años, los modelos identificaron correctamente el 93%–97% de las abejas de una muestra y mostraron una fuerte correlación con observadores entrenados."
+                "x": "Alojado en Kaggle, el concurso reta a los participantes a reducir el número de pasos de cómputo y de qubits necesarios para tareas de energía de fusión, optimización matemática y química."
               },
               {
                 "t": "p",
-                "x": "Los autores ven la herramienta como un complemento de los métodos tradicionales, útil en lugares difíciles de muestrear como las copas de los árboles. Los modelos están disponibles en Raven Pro."
+                "x": "Utiliza kickmix, una biblioteca de código abierto del proyecto Qualtran de Google, cuyos circuitos pueden verificar computadoras convencionales mediante pruebas de fuzzing aleatorizadas a 60.000 millones de puertas por segundo en un solo núcleo."
+              },
+              {
+                "t": "p",
+                "x": "Google afirmó que experimentos internos con sus modelos Gemini ya han logrado mejoras que superan los circuitos publicados hasta la fecha en los tres benchmarks."
+              },
+              {
+                "t": "p",
+                "x": "Los premios incluyen $10,000 para la mejor puntuación en cada una de las tres tareas."
               }
             ]
           }

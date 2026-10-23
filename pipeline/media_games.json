@@ -1,32 +1,30 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "section": "games",
   "media": [
     {
-      "id": "games-strata-unreal-browser",
-      "type": "video",
-      "src": "pipeline/media/games-strata-unreal-browser.mp4",
-      "poster": "pipeline/media/games-strata-unreal-browser.jpg"
+      "id": "games-revamp-playtest",
+      "type": "image",
+      "src": "pipeline/media/games-revamp-playtest.jpg"
     },
     {
-      "id": "games-epic-ai-megajam",
+      "id": "games-miyamoto-genai",
       "type": "image",
-      "src": "pipeline/media/games-epic-ai-megajam.jpg"
+      "src": "pipeline/media/games-miyamoto-genai.jpg"
     },
     {
-      "id": "games-switch2-ai-jailbreak",
+      "id": "games-sweeney-steam-labels",
       "type": "image",
-      "src": "pipeline/media/games-switch2-ai-jailbreak.png"
+      "src": "pipeline/media/games-sweeney-steam-labels.jpg"
     },
     {
-      "id": "games-machinarium-ai-tribute",
+      "id": "games-future-refunds",
       "type": "image",
-      "src": "pipeline/media/games-machinarium-ai-tribute.jpg"
+      "src": "pipeline/media/games-future-refunds.jpg"
     },
     {
-      "id": "games-arc-raiders-chatgpt-support",
-      "type": "image",
-      "src": "pipeline/media/games-arc-raiders-chatgpt-support.jpg"
+      "id": "games-sonicfox-nexcon",
+      "type": "svg"
     }
   ]
 }

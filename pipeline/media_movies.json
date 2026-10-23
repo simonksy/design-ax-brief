@@ -1,7 +1,31 @@
-{"date":"2026-10-23","section":"movies","media":[
-{"id":"movies-hunger-games-ai-adr","type":"image","src":"pipeline/media/movies-hunger-games-ai-adr.jpg"},
-{"id":"movies-stage32-vetted-marketplace","type":"image","src":"pipeline/media/movies-stage32-vetted-marketplace.jpg"},
-{"id":"movies-free-previz-iron-goddess","type":"video","src":"pipeline/media/movies-free-previz-iron-goddess.mp4","poster":"pipeline/media/movies-free-previz-iron-goddess.jpg"},
-{"id":"movies-sanxingdui-ai-feature","type":"image","src":"pipeline/media/movies-sanxingdui-ai-feature.jpeg"},
-{"id":"movies-brahma-ai-face-replacement","type":"video","src":"pipeline/media/movies-brahma-ai-face-replacement.mp4","poster":"pipeline/media/movies-brahma-ai-face-replacement.jpg"}
-]}
+{
+  "date": "2026-10-24",
+  "section": "movies",
+  "media": [
+    {
+      "id": "movies-laika-wildwood",
+      "type": "image",
+      "src": "pipeline/media/movies-laika-wildwood.jpg"
+    },
+    {
+      "id": "movies-continuum-2027",
+      "type": "image",
+      "src": "pipeline/media/movies-continuum-2027.jpg"
+    },
+    {
+      "id": "movies-lux-meridian",
+      "type": "image",
+      "src": "pipeline/media/movies-lux-meridian.jpg"
+    },
+    {
+      "id": "movies-koreeda-ai-notes",
+      "type": "image",
+      "src": "pipeline/media/movies-koreeda-ai-notes.jpg"
+    },
+    {
+      "id": "movies-genz-ai-study",
+      "type": "image",
+      "src": "pipeline/media/movies-genz-ai-study.png"
+    }
+  ]
+}

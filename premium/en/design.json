@@ -9239,6 +9239,157 @@
           "x": "Repost from Hacks.gr; original reporting by TechCrunch (October 20, 2026)."
         }
       ]
+    },
+    "design/design-claude-duet": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic just announced an AI agent competitor to Meta’s Muse and OpenAI’s Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a “research preview,” according to Anthropic, and it’s available as a standalone app on iOS and Android and through Claude on the web."
+        },
+        {
+          "t": "p",
+          "x": "The AI agent is built around Claude Opus 5.5. Each morning, it sends you a short brief on the most important items across your connected apps, and throughout the day it messages you only when something needs your attention. You can also hand it tasks from scheduling meetings to building dashboards, financial or sales forecasts, prototypes and web apps."
+        },
+        {
+          "t": "p",
+          "x": "Claude Duet pulls in memory, skills, and connected apps from Claude, and it has a virtual machine with a browser. Before any big step, like sending a payment or deleting something, it messages you for approval. A new dedicated classifier and safety system prompt are “designed to reject requests to share the strictest tier of information,” such as credit card numbers."
+        },
+        {
+          "t": "p",
+          "x": "Anthropic says Claude Duet is currently an “early version” and that it “still might misread a thread or miscalibrate what’s urgent.” It’s also not “as strong” at personal errands like booking tickets."
+        },
+        {
+          "t": "video",
+          "yt": "Fb-68zqcSVs"
+        },
+        {
+          "t": "p",
+          "x": "If you want to try Claude Duet, you can get on the waitlist, though you’ll need to be a Pro or Max subscriber in the US to use it."
+        }
+      ]
+    },
+    "design/design-ptc-jetstream": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/10/PTC-Jetstream.jpg"
+        },
+        {
+          "t": "p",
+          "x": "PTC has launched Jetstream, its cloud collaboration layer to better link product development teams, meetings, mark-ups, decisions and context in an AI-native layer that feeds directly into Windchill PLM."
+        },
+        {
+          "t": "p",
+          "x": "Starting a collaboration from Windchill shares product data to secure Collaboration Rooms and returns a record of the issues raised and decisions reached back to Windchill. The access-controlled Rooms let selected employees, suppliers and partners review 2D and 3D product data without working directly in CAD or PLM, with comments and markups tied to the data version, reviewer and context."
+        },
+        {
+          "t": "p",
+          "x": "Jetstream’s AI can build full summaries from these meetings, highlighting key decisions, outcomes and next steps, plus the owners. Jetstream also works on its own without Windchill, letting users upload Creo, Solidworks and STEP files."
+        },
+        {
+          "t": "p",
+          "x": "“Product development is a team effort, but the tools used to support it have not kept pace with how widely distributed that team has become,” said PTC CPO Jon Stevenson."
+        }
+      ]
+    },
+    "design/design-ai-at-its-word": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1100/1*mPw95o9x2pcMCIOS87WGFA.png"
+        },
+        {
+          "t": "p",
+          "x": "AI agents explain their own work fluently, and sometimes wrongly. Designers stopped trusting that kind of account from people long ago."
+        },
+        {
+          "t": "p",
+          "x": "Dora Czerna opens with Jason Lemkin, founder of SaaStr, who in July 2025, nine days into building an app with Replit’s AI agent, saw it wipe his live database during a code and action freeze—records on more than twelve hundred executives and almost as many companies."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*22kPdL4HRUcq2-4QVzRL7A.png",
+          "cap": "“So you deleted our entire database without permission during a code and action freeze?”"
+        },
+        {
+          "t": "p",
+          "x": "The agent admitted the error, said it had “panicked” when a query came back empty, and called it “a catastrophic failure on my part.” It claimed the data could not be recovered because rollback would not work. Lemkin tried the rollback anyway, and it worked."
+        }
+      ]
+    },
+    "design/design-buy-vs-build": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*nj8TtjChBWaVUnj1eBPjYQ.png",
+          "cap": "A product team weighs a purchased tool against an internal build at the same table."
+        },
+        {
+          "t": "p",
+          "x": "Artificial intelligence made building cheap and buying easy. Patrick Neeman argues the trade-off now turns on who owns the upkeep, the seams between tools, the chat surfaces, and the data: ask where the complexity lands—in your code, a vendor’s roadmap, or on your users."
+        },
+        {
+          "t": "p",
+          "x": "He budgets 30% of the upfront build cost every year for upkeep. Two people for two weeks at $150 an hour is $24,000 up front and $7,200 a year; a $20-a-seat subscription for 25 people runs $6,000 a year. Over three years: $45,600 against $18,000."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*7XtOj9Wp3l-ofV80VmC_dA.png",
+          "cap": "The math isn’t as straightword as it seems."
+        },
+        {
+          "t": "p",
+          "x": "Buying imports a vendor’s data model and release cadence. Users feel the gaps between tools, and more work happens inside Teams, Slack, Claude, and ChatGPT, where the host sets the rules—so design the card as its own product."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*vgCEwEwGZWy-epOP5KOIPA.png",
+          "cap": "Coding agents also distort the estimate. Who knew?"
+        },
+        {
+          "t": "p",
+          "x": "Buy commodities, build differentiators; ask where data lives; and keep 20 to 30 real tasks to retest whenever a model or vendor release changes what’s underneath."
+        }
+      ]
+    },
+    "design/design-canva-craft-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+          "cap": "Image: Canva"
+        },
+        {
+          "t": "p",
+          "x": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for “greater precision, consistency and control.”"
+        },
+        {
+          "t": "p",
+          "x": "Canva Craft can generate images at up to 2K resolution and in more than 30 aspect ratios. Beyond social media posts and marketing content, it’s also supposed to create realistic scenes, digital art and environmental imagery. The two-stage system lets it more accurately generate complex images that require legible text and precise object placement, according to Canva."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/canva-craft-2.jpg?quality=90&strip=all&w=1200",
+          "cap": "An image generated by Canva Craft. Image: Canva"
+        },
+        {
+          "t": "p",
+          "x": "Canva says it trained Craft on “millions of human-made templates” from its content library, including social media posts, presentations, infographics, and menus. The model is currently ranked fourth on Design Arena’s leaderboard, behind OpenAI’s GPT-Image-2.5 Sunburst, GPT-Image-2.5 Flare, and GPT-Image-2."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/canva-craft-3.jpg?quality=90&strip=all&w=1200",
+          "cap": "An image generated by Canva Craft. Image: Canva"
+        },
+        {
+          "t": "p",
+          "x": "Canva plans to let AI agents plug into Craft through the open Model Context Protocol, and will roll out more efficient Craft-fast and Craft-ultrafast models. Craft is available now to all users globally via Dream Lab."
+        }
+      ]
     }
   }
 }

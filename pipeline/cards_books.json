@@ -1,191 +1,215 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "section": "books",
   "cards": [
     {
-      "id": "books-kindle-plus-ai-audiobooks",
+      "id": "books-australia-ai-copyright",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Unlimited 대신\nKindle Plus 출범",
-      "body": "Kindle Plus로 바뀌며 AI-narrated 오디오북이 늘었다.",
-      "mini_headline": "Kindle Unlimited, 이제 Kindle Plus",
+      "headline": "호주, 저자 책으로\nAI 학습 허용 추진",
+      "body": "호주는 국적을 가리지 않고 저자 작품의 AI 무허가 학습을 허용하려 한다.",
+      "mini_headline": "호주, 무허가 AI 학습 추진",
       "tool": "Books",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1016789/amazon-kindle-unlimited-plus-subscription-ai-audiobooks",
+      "source": "The Authors Guild",
+      "url": "https://authorsguild.org/news/australia-ai-training-statement/",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
         "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/kindleplus.jpg?quality=90&strip=all&crop=0%2C10.721349621873%2C100%2C78.557300756254&w=1200"
+            "t": "p",
+            "x": "호주 정부가 저작권법 개정안을 내겠다고 발표했다. AI 기업이 모델을 만들 때 저자의 작품을 라이선스 없이 쓸 수 있게 하는 내용이다. 미국을 포함해 세계 어느 나라 저자든 이 법의 적용을 받는다."
           },
           {
             "t": "p",
-            "x": "구독 서비스의 ‘플러스화’가 거침없이 이어지는 가운데 Amazon도 Kindle Unlimited의 이름을 바꿔 이 흐름에 올라탔다. 새 이름은 Kindle Plus다. 그래도 월 $11.99에 Kindle 카탈로그에서 고른 전자책, 만화, 잡지를 무제한으로 보는 건 그대로다. ZDNet에 따르면 이 가운데 수천 종은 지금처럼 딸린 오디오북으로 읽던 자리에서 바로 이어 들을 수 있다. Kindle Plus는 여기에 AI 내레이터가 읽어 주는 ‘가상 음성(virtual voice)’ 오디오북까지 더한다."
+            "x": "법안이 통과되면 AI 기업은 호주 땅에서 작업하는 한 여러분의 작품을 합법적으로 쓸 수 있다. AI 기업은 학습만 호주로 옮기고 모델은 계속 미국(U.S.)에서 배포하면 그만이다. 저자들이 AI 기업을 상대로 낸 소송도, 보호 장치를 요구해 온 우리의 로비도 사실상 힘을 잃는다."
           },
           {
             "t": "p",
-            "x": "“이 구독은 수백만 종의 타이틀과 함께 변함없이 훌륭한 독서 경험을 제공하며, 이제 U.S. 카탈로그의 오디오북 수천 종을 추가 비용 없이 더했습니다.” Amazon 대변인 Josh Pflug는 The Verge에 보낸 이메일 성명에서 이렇게 밝혔다."
+            "x": "호주 정부는 저작권자가 자기 작품 사용을 거부할 수 있는 opt-out은 허용할 계획이다. 하지만 opt-outs는 실제로 집행하기 어렵다. 거부해야 한다는 사실과 그 방법까지 아는 노련한 저작권자는 극소수이고, 나머지 모든 이의 권리는 짓밟히기 일쑤다. 누가 어떤 목적으로 작품을 쓸지 창작자가 정하게 해 주는 것이 저작권의 opt-in 라이선스다. opt-out 방식은 이를 대신할 수 없다."
           },
           {
             "t": "p",
-            "x": "Kindle Plus는 Amazon Prime과 따로 가입하는 독립 구독으로 남는다. 지금처럼 한 번에 최대 20종까지만 빌릴 수 있지만 반납 기한은 없다. 이제 Kindle Direct Publishing 플랫폼을 쓰는 작가들도 자기 오디오북을 Kindle Plus 구독자에게 내놓을 수 있다."
+            "x": "Authors Guild는 전 세계 창작 산업 단체들과 함께 이 법안을 규탄하는 공개 성명을 마련했다. 성명은 이렇다."
           },
           {
             "t": "p",
-            "x": "신간을 KDP Select에 등록하면 가상 음성 오디오북이 자동으로 따라붙고, 이미 낸 작품에도 AI 내레이터를 고를 수 있다. 사람 내레이터를 원하는 작가라면 Audible의 Audiobook Creation Exchange(ACX) 마켓플레이스에서 만든 오디오북을 Kindle Plus에 올리면 된다. 우선 US 구독자부터 적용하고 Amazon은 차차 다른 시장으로 넓힐 계획이다."
+            "x": "호주 정부는 자국 땅에서 세계 창작자들의 작품을 훔치는 행위를 합법화해서는 안 된다. 호주에서 우리의 작품을 AI 모델 학습에 쓰려면 반드시 우리의 명시적 허락을 받아야 한다."
+          },
+          {
+            "t": "p",
+            "x": "성명은 서명자 명단과 함께 온라인에 실린다. 지금 서명하려면 아래 양식을 내면 된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Kindle Unlimited becomes\nKindle Plus, adds audiobooks",
-          "body": "Amazon renamed Kindle Unlimited to Kindle Plus, adding more audiobooks, some AI-narrated, at the same monthly price.",
-          "mini_headline": "Kindle Unlimited\nis now Kindle Plus",
+          "headline": "Australia plans to allow AI\ntraining on authors' books",
+          "body": "Australia plans a copyright change letting AI companies train on authors' work without a license, wherever they live.",
+          "mini_headline": "Australia eyes\nunlicensed AI training",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/kindleplus.jpg?quality=90&strip=all&crop=0%2C10.721349621873%2C100%2C78.557300756254&w=1200"
+                "t": "p",
+                "x": "The Australian government has announced that it is planning to introduce legislation that would change copyright law to allow AI companies to use authors’ work, without a license, to build their models. This would apply to authors from anywhere in the world, including the United States."
               },
               {
                 "t": "p",
-                "x": "The plus-ification of subscription services continues unabated with Amazon becoming the latest company to follow suit with a Kindle Unlimited rebrand. The subscription service is now known as Kindle Plus but will continue to offer unlimited access to a select collection of ebooks, comics, and magazines from the Kindle catalog for $11.99 per month. Thousands of those titles will also still have access to companion audiobooks so you can switch back and forth between reading and listening exactly where you left off, but Kindle Plus will expand that access to include “virtual voice” audiobooks read by AI narrators, according to ZDNet."
+                "x": "The legislation would make it legal for your work to be exploited by AI companies, if they conducted that exploitation on Australian soil. It would effectively preempt the lawsuits authors have brought against AI companies and our lobbying for protections since the AI companies would simply move their training operations to Australia while continuing to deploy the models in the U.S."
               },
               {
                 "t": "p",
-                "x": "“The subscription continues to offer the same great reading experience with access to millions of titles, now with the addition of thousands of audiobooks in the U.S. catalog at no extra cost,” Amazon spokesperson Josh Pflug told The Verge in an emailed statement."
+                "x": "The Australian government plans to let copyright owners opt out of their work being used, but opt-outs are difficult to implement and often steamroll over the rights of all but the most sophisticated copyright owners who know they need to opt out and how to do so. Opt-out systems are no substitute for copyright’s opt-in licensing that allows creators to control who gets to use their work for what purposes."
               },
               {
                 "t": "p",
-                "x": "Kindle Plus will remain a standalone subscription that’s separate from Amazon Prime, and users will still be limited to borrowing up to 20 titles at once, but with no return dates. Amazon is now also allowing authors using its Kindle Direct Publishing platform to make their audiobooks available to Kindle Plus subscribers."
+                "x": "The Authors Guild has joined organizations in the creative industries around the world in organizing a public statement condemning this planned legislation. It reads as follows:"
               },
               {
                 "t": "p",
-                "x": "Virtual voice audiobooks will automatically be available as new titles are enrolled in KDP Select, but authors can opt-in to AI narrators for previous published titles, too. For authors who prefer a human narrator, audiobooks created using Audible’s Audiobook Creation Exchange (ACX) marketplace will now also be available through Kindle Plus, but starting with subscribers in the US. Amazon plans to expand availability to other markets over time."
+                "x": "The Australian government must not legalize the theft of the work of the world’s creators on their soil. Our work must only be used to train AI models in Australia with our explicit permission."
+              },
+              {
+                "t": "p",
+                "x": "This statement will be published online, along with a list of signatories. Submit the form below to sign now."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Unlimited 대신\nKindle Plus 출범",
-          "body": "Kindle Plus로 바뀌며 AI-narrated 오디오북이 늘었다.",
-          "mini_headline": "Kindle Unlimited, 이제 Kindle Plus",
+          "headline": "호주, 저자 책으로\nAI 학습 허용 추진",
+          "body": "호주는 국적을 가리지 않고 저자 작품의 AI 무허가 학습을 허용하려 한다.",
+          "mini_headline": "호주, 무허가 AI 학습 추진",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/kindleplus.jpg?quality=90&strip=all&crop=0%2C10.721349621873%2C100%2C78.557300756254&w=1200"
+                "t": "p",
+                "x": "호주 정부가 저작권법 개정안을 내겠다고 발표했다. AI 기업이 모델을 만들 때 저자의 작품을 라이선스 없이 쓸 수 있게 하는 내용이다. 미국을 포함해 세계 어느 나라 저자든 이 법의 적용을 받는다."
               },
               {
                 "t": "p",
-                "x": "구독 서비스의 ‘플러스화’가 거침없이 이어지는 가운데 Amazon도 Kindle Unlimited의 이름을 바꿔 이 흐름에 올라탔다. 새 이름은 Kindle Plus다. 그래도 월 $11.99에 Kindle 카탈로그에서 고른 전자책, 만화, 잡지를 무제한으로 보는 건 그대로다. ZDNet에 따르면 이 가운데 수천 종은 지금처럼 딸린 오디오북으로 읽던 자리에서 바로 이어 들을 수 있다. Kindle Plus는 여기에 AI 내레이터가 읽어 주는 ‘가상 음성(virtual voice)’ 오디오북까지 더한다."
+                "x": "법안이 통과되면 AI 기업은 호주 땅에서 작업하는 한 여러분의 작품을 합법적으로 쓸 수 있다. AI 기업은 학습만 호주로 옮기고 모델은 계속 미국(U.S.)에서 배포하면 그만이다. 저자들이 AI 기업을 상대로 낸 소송도, 보호 장치를 요구해 온 우리의 로비도 사실상 힘을 잃는다."
               },
               {
                 "t": "p",
-                "x": "“이 구독은 수백만 종의 타이틀과 함께 변함없이 훌륭한 독서 경험을 제공하며, 이제 U.S. 카탈로그의 오디오북 수천 종을 추가 비용 없이 더했습니다.” Amazon 대변인 Josh Pflug는 The Verge에 보낸 이메일 성명에서 이렇게 밝혔다."
+                "x": "호주 정부는 저작권자가 자기 작품 사용을 거부할 수 있는 opt-out은 허용할 계획이다. 하지만 opt-outs는 실제로 집행하기 어렵다. 거부해야 한다는 사실과 그 방법까지 아는 노련한 저작권자는 극소수이고, 나머지 모든 이의 권리는 짓밟히기 일쑤다. 누가 어떤 목적으로 작품을 쓸지 창작자가 정하게 해 주는 것이 저작권의 opt-in 라이선스다. opt-out 방식은 이를 대신할 수 없다."
               },
               {
                 "t": "p",
-                "x": "Kindle Plus는 Amazon Prime과 따로 가입하는 독립 구독으로 남는다. 지금처럼 한 번에 최대 20종까지만 빌릴 수 있지만 반납 기한은 없다. 이제 Kindle Direct Publishing 플랫폼을 쓰는 작가들도 자기 오디오북을 Kindle Plus 구독자에게 내놓을 수 있다."
+                "x": "Authors Guild는 전 세계 창작 산업 단체들과 함께 이 법안을 규탄하는 공개 성명을 마련했다. 성명은 이렇다."
               },
               {
                 "t": "p",
-                "x": "신간을 KDP Select에 등록하면 가상 음성 오디오북이 자동으로 따라붙고, 이미 낸 작품에도 AI 내레이터를 고를 수 있다. 사람 내레이터를 원하는 작가라면 Audible의 Audiobook Creation Exchange(ACX) 마켓플레이스에서 만든 오디오북을 Kindle Plus에 올리면 된다. 우선 US 구독자부터 적용하고 Amazon은 차차 다른 시장으로 넓힐 계획이다."
+                "x": "호주 정부는 자국 땅에서 세계 창작자들의 작품을 훔치는 행위를 합법화해서는 안 된다. 호주에서 우리의 작품을 AI 모델 학습에 쓰려면 반드시 우리의 명시적 허락을 받아야 한다."
+              },
+              {
+                "t": "p",
+                "x": "성명은 서명자 명단과 함께 온라인에 실린다. 지금 서명하려면 아래 양식을 내면 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Unlimitedに代わり\nKindle Plus誕生",
-          "body": "Kindle Plusへの改称で、AI-narratedのオーディオブックが増えた。",
-          "mini_headline": "Kindle UnlimitedはKindle Plusに",
+          "headline": "豪州、作家の本で\nAI学習を容認へ",
+          "body": "豪州は、AI企業が国籍を問わず作家の作品を無許諾で学習できる著作権法改正を計画している。",
+          "mini_headline": "豪州、無許諾のAI学習を検討",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/kindleplus.jpg?quality=90&strip=all&crop=0%2C10.721349621873%2C100%2C78.557300756254&w=1200"
+                "t": "p",
+                "x": "オーストラリア政府は、AI企業がモデル構築のために作家の作品をライセンスなしで利用できるよう著作権法を改正する法案を提出する計画を発表した。対象は米国を含む世界中の作家である。"
               },
               {
                 "t": "p",
-                "x": "サブスクリプションサービスの「プラス化」はとどまる気配がなく、AmazonもKindle Unlimitedのリブランドでその流れに加わった。サービスの新名称はKindle Plusだが、引き続き月額$11.99でKindleカタログから選ばれた電子書籍、コミック、雑誌を読み放題で利用できる。ZDNetによると、そのうち多数のタイトルでは従来どおり対応するオーディオブックも使え、中断した箇所から読書と聴取を行き来できるが、Kindle PlusではAIナレーターが読み上げる「バーチャルボイス」のオーディオブックにも対象を広げる。"
+                "x": "法案が成立すれば、AI企業がオーストラリア国内で行う限り、あなたの作品を利用することが合法になる。AI企業は学習業務をオーストラリアに移しつつ、モデルは米国（U.S.）で引き続き展開すればよいため、作家たちがAI企業を相手に起こしてきた訴訟や、保護を求める私たちのロビー活動は事実上無力化される。"
               },
               {
                 "t": "p",
-                "x": "「このサブスクリプションは、膨大な数のタイトルにアクセスできる優れた読書体験をこれまでどおり提供し、さらにU.S.カタログの多数のオーディオブックを追加料金なしで利用できるようになります」と、Amazonの広報担当Josh PflugはThe Vergeへのメール声明で述べた。"
+                "x": "オーストラリア政府は著作権者が作品の利用を拒否できるopt-outを認める方針だが、opt-outsは実施が難しく、拒否の必要性とその方法を知るごく一部の熟練した著作権者以外の権利を踏みにじりがちだ。opt-out方式は、誰がどの目的で作品を使えるかを創作者が管理できる著作権のopt-inライセンスの代わりにはならない。"
               },
               {
                 "t": "p",
-                "x": "Kindle PlusはAmazon Primeとは別の単独のサブスクリプションとして続き、同時に借りられるのは引き続き最大20タイトルまでだが、返却期限はない。AmazonはKindle Direct Publishingプラットフォームを使う著者が、自身のオーディオブックをKindle Plus会員に提供できるようにもした。"
+                "x": "Authors Guildは、世界の創作産業の団体とともに、この法案を非難する公開声明の取りまとめに加わった。声明の内容は次のとおりである。"
               },
               {
                 "t": "p",
-                "x": "バーチャルボイスのオーディオブックは、新刊がKDP Selectに登録されると自動的に提供されるが、著者は既刊作品についてもAIナレーターを選択できる。人間のナレーターを好む著者向けには、AudibleのAudiobook Creation Exchange（ACX）マーケットプレイスで制作されたオーディオブックもKindle Plusで利用可能になるが、まずはUSの会員から始まる。Amazonは今後、時間をかけて他の市場にも広げる計画だ。"
+                "x": "オーストラリア政府は、自国の地で世界の創作者の作品を盗む行為を合法化してはならない。オーストラリアで私たちの作品をAIモデルの学習に使うには、私たちの明示的な許可が必要である。"
+              },
+              {
+                "t": "p",
+                "x": "この声明は署名者の一覧とともにオンラインで公開される。今すぐ署名するには、下のフォームを送信してほしい。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Unlimited改名\nKindle Plus登场",
-          "body": "Amazon将服务更名为Kindle Plus，并增加含AI-narrated在内的有声书。",
-          "mini_headline": "Kindle Unlimited更名Kindle Plus",
+          "headline": "澳大利亚拟允许AI\n用作家作品训练",
+          "body": "澳大利亚计划修改版权法，让AI公司无论作者身在何处都可未经许可用其作品训练。",
+          "mini_headline": "澳大利亚拟放开无授权AI训练",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/kindleplus.jpg?quality=90&strip=all&crop=0%2C10.721349621873%2C100%2C78.557300756254&w=1200"
+                "t": "p",
+                "x": "澳大利亚政府宣布，计划提出立法修改版权法，允许AI公司在未获授权的情况下使用作家作品构建模型。这将适用于世界各地的作家，包括美国作家。"
               },
               {
                 "t": "p",
-                "x": "订阅服务的“Plus化”势头不减，Amazon也成为最新跟进者，对Kindle Unlimited进行了品牌重塑。这项订阅服务如今名为Kindle Plus，但仍将以每月$11.99的价格，提供Kindle目录中精选电子书、漫画和杂志的无限畅读。据ZDNet报道，其中大量书目仍配有对应的有声书，读者可在阅读和收听之间切换，并从上次停下的位置继续；Kindle Plus还将把范围扩大到由AI旁白朗读的“虚拟语音”有声书。"
+                "x": "该立法将使AI公司在澳大利亚境内利用你的作品成为合法行为。AI公司只需把训练业务迁往澳大利亚，同时继续在美国（U.S.）部署模型，这实际上会架空作家们对AI公司提起的诉讼，以及我们争取保护的游说努力。"
               },
               {
                 "t": "p",
-                "x": "“这项订阅将继续提供同样出色的阅读体验，可访问海量书目，现在还新增了U.S.目录中的大量有声书，且不额外收费，”Amazon发言人Josh Pflug在给The Verge的电子邮件声明中表示。"
+                "x": "澳大利亚政府计划允许版权所有者选择退出（opt-out），但opt-outs难以落实，往往碾压除极少数老练版权所有者之外所有人的权利——只有这些人知道需要退出以及如何退出。opt-out机制无法替代版权的opt-in授权，后者让创作者能够控制谁可以出于何种目的使用其作品。"
               },
               {
                 "t": "p",
-                "x": "Kindle Plus仍是独立于Amazon Prime的单独订阅，用户同时最多仍只能借阅20种书目，但没有归还期限。Amazon现在还允许使用Kindle Direct Publishing平台的作者，将自己的有声书提供给Kindle Plus订阅用户。"
+                "x": "Authors Guild已与全球创意产业的组织一道，发起一份谴责这项拟议立法的公开声明。声明全文如下："
               },
               {
                 "t": "p",
-                "x": "新书加入KDP Select后，将自动提供虚拟语音有声书，作者也可以为此前已出版的作品选择AI旁白。对于偏好真人旁白的作者，通过Audible的Audiobook Creation Exchange（ACX）平台制作的有声书现在也可在Kindle Plus上收听，但先从US订阅用户开始。Amazon计划逐步扩展到其他市场。"
+                "x": "澳大利亚政府不得将在其境内窃取全球创作者作品的行为合法化。在澳大利亚，我们的作品只有在获得我们明确许可的情况下，才能用于训练AI模型。"
+              },
+              {
+                "t": "p",
+                "x": "这份声明将连同签署者名单在网上发布。现在提交下方表格即可签署。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Kindle Unlimited pasa a ser\nKindle Plus y suma audiolibros",
-          "body": "Amazon renombró Kindle Unlimited como Kindle Plus y sumó audiolibros, algunos con voz de IA (AI-narrated).",
-          "mini_headline": "Kindle Unlimited ahora es Kindle Plus",
+          "headline": "Australia planea dejar entrenar\nla IA con libros de autores",
+          "body": "Australia prevé cambiar el copyright para que la IA entrene con obras de autores de cualquier país sin licencia.",
+          "mini_headline": "Australia y el entrenamiento de IA sin licencia",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/kindleplus.jpg?quality=90&strip=all&crop=0%2C10.721349621873%2C100%2C78.557300756254&w=1200"
+                "t": "p",
+                "x": "El Gobierno australiano anunció que prevé presentar una ley que modificaría la normativa de derechos de autor para permitir que las empresas de IA usen obras de autores, sin licencia, para construir sus modelos. Se aplicaría a autores de cualquier parte del mundo, incluidos los Estados Unidos."
               },
               {
                 "t": "p",
-                "x": "La «plusificación» de los servicios de suscripción sigue sin freno, y Amazon es la última empresa en sumarse con un cambio de marca de Kindle Unlimited. El servicio de suscripción ahora se llama Kindle Plus, pero seguirá ofreciendo acceso ilimitado a una selección de libros electrónicos, cómics y revistas del catálogo de Kindle por $11.99 al mes. Miles de esos títulos seguirán contando con audiolibros complementarios para alternar entre leer y escuchar justo donde se dejó, pero Kindle Plus ampliará ese acceso a audiolibros de «voz virtual» leídos por narradores de IA, según ZDNet."
+                "x": "La ley haría legal que las empresas de IA explotaran su obra siempre que esa explotación se realizara en suelo australiano. En la práctica, anularía las demandas que los autores han presentado contra empresas de IA y nuestra labor de presión en favor de protecciones, ya que esas empresas simplemente trasladarían sus operaciones de entrenamiento a Australia mientras siguen desplegando los modelos en EE. UU. (U.S.)."
               },
               {
                 "t": "p",
-                "x": "«La suscripción sigue ofreciendo la misma gran experiencia de lectura con acceso a millones de títulos, ahora con miles de audiolibros del catálogo de U.S. sin costo adicional», dijo Josh Pflug, portavoz de Amazon, a The Verge en un comunicado por correo electrónico."
+                "x": "El Gobierno australiano prevé permitir que los titulares de derechos excluyan sus obras mediante opt-out, pero los opt-outs son difíciles de aplicar y a menudo arrasan con los derechos de todos salvo los titulares más sofisticados, que saben que deben excluirse y cómo hacerlo. Los sistemas de opt-out no sustituyen las licencias opt-in del derecho de autor, que permiten a los creadores controlar quién usa su obra y con qué fines."
               },
               {
                 "t": "p",
-                "x": "Kindle Plus seguirá siendo una suscripción independiente, separada de Amazon Prime, y los usuarios seguirán limitados a tomar prestados hasta 20 títulos a la vez, aunque sin fechas de devolución. Amazon ahora también permite que los autores que usan su plataforma Kindle Direct Publishing ofrezcan sus audiolibros a los suscriptores de Kindle Plus."
+                "x": "La Authors Guild se ha sumado a organizaciones de las industrias creativas de todo el mundo para impulsar una declaración pública que condena esta ley prevista. Dice así:"
               },
               {
                 "t": "p",
-                "x": "Los audiolibros de voz virtual estarán disponibles automáticamente cuando se inscriban títulos nuevos en KDP Select, pero los autores también pueden optar por narradores de IA para títulos publicados anteriormente. Para los autores que prefieren un narrador humano, los audiolibros creados en el mercado Audiobook Creation Exchange (ACX) de Audible también estarán disponibles en Kindle Plus, empezando por los suscriptores en US. Amazon prevé ampliar la disponibilidad a otros mercados con el tiempo."
+                "x": "El Gobierno australiano no debe legalizar en su territorio el robo de la obra de los creadores del mundo. Nuestra obra solo debe usarse para entrenar modelos de IA en Australia con nuestro permiso explícito."
+              },
+              {
+                "t": "p",
+                "x": "Esta declaración se publicará en línea junto con una lista de firmantes. Envíe el formulario de abajo para firmar ahora."
               }
             ]
           }
@@ -193,121 +217,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Unlimited 대신\nKindle Plus 출범",
-          "body": "Kindle Plus로 개편되며 AI-narrated 오디오북이 늘었다.",
-          "mini_headline": "Kindle Unlimited, 이제 Kindle Plus",
+          "headline": "호주, 저자 책으로\nAI 학습 허용 추진",
+          "body": "호주가 AI 기업의 저자 작품 무허가 학습을 국적 불문 허용하려 한다.",
+          "mini_headline": "호주, 무허가 AI 학습 추진",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/kindleplus.jpg?quality=90&strip=all&crop=0%2C10.721349621873%2C100%2C78.557300756254&w=1200"
+                "t": "p",
+                "x": "호주 정부는 AI 기업이 모델 구축에 저자의 작품을 라이선스 없이 쓸 수 있도록 저작권법을 바꾸는 법안을 도입할 계획이라고 발표했다. 이 법은 미국을 포함해 세계 어느 나라 저자에게나 적용된다."
               },
               {
                 "t": "p",
-                "x": "구독 서비스의 ‘플러스화’가 거침없이 이어지는 가운데 Amazon도 Kindle Unlimited의 이름을 바꾸며 이 흐름에 합류했다. 이 구독 서비스의 새 이름은 Kindle Plus지만, 앞으로도 월 $11.99에 Kindle 카탈로그에서 엄선한 전자책, 만화, 잡지를 무제한으로 이용할 수 있다. ZDNet에 따르면 이 가운데 수천 종은 지금처럼 함께 제공되는 오디오북으로 읽던 자리에서 바로 듣기로 오갈 수 있으며, Kindle Plus는 여기에 AI 내레이터가 읽어 주는 ‘가상 음성(virtual voice)’ 오디오북까지 범위를 넓힌다."
+                "x": "이 법안이 통과되면 AI 기업이 호주 땅에서 작업하는 한 여러분의 작품을 이용하는 것이 합법이 된다. AI 기업은 학습 작업만 호주로 옮기고 모델은 계속 미국(U.S.)에서 배포하면 되므로, 저자들이 AI 기업을 상대로 낸 소송과 보호 장치를 요구해 온 우리의 로비는 사실상 무력해진다."
               },
               {
                 "t": "p",
-                "x": "“이 구독은 수백만 종의 타이틀과 함께 변함없이 훌륭한 독서 경험을 제공하며, 이제 U.S. 카탈로그의 오디오북 수천 종을 추가 비용 없이 더했습니다.” Amazon 대변인 Josh Pflug는 The Verge에 보낸 이메일 성명에서 이렇게 밝혔다."
+                "x": "호주 정부는 저작권자가 자기 작품의 사용을 거부하는 opt-out을 허용할 계획이다. 그러나 opt-outs는 시행하기 어렵고, 거부 절차가 필요하다는 사실과 그 방법을 아는 극소수의 노련한 저작권자를 제외한 모든 이의 권리를 짓밟기 일쑤다. opt-out 방식은 누가 어떤 목적으로 작품을 쓸지 창작자가 통제하게 해 주는 저작권의 opt-in 라이선스를 대신할 수 없다."
               },
               {
                 "t": "p",
-                "x": "Kindle Plus는 Amazon Prime과 별개인 독립 구독으로 남고, 이용자는 지금처럼 한 번에 최대 20종까지만 빌릴 수 있지만 반납 기한은 없다. Amazon은 이제 Kindle Direct Publishing 플랫폼을 쓰는 작가들도 자신의 오디오북을 Kindle Plus 구독자에게 제공할 수 있도록 했다."
+                "x": "Authors Guild는 전 세계 창작 산업 단체들과 함께 이 법안을 규탄하는 공개 성명을 조직했다. 성명 내용은 다음과 같다."
               },
               {
                 "t": "p",
-                "x": "가상 음성 오디오북은 신간이 KDP Select에 등록되면 자동으로 제공되며, 작가는 이미 출간한 작품에도 AI 내레이터를 선택할 수 있다. 사람 내레이터를 선호하는 작가를 위해 Audible의 Audiobook Creation Exchange(ACX) 마켓플레이스에서 만든 오디오북도 이제 Kindle Plus에서 이용할 수 있으며, 우선 US 구독자부터 시작한다. Amazon은 시간을 두고 다른 시장으로 확대할 계획이다."
+                "x": "호주 정부는 자국 땅에서 세계 창작자들의 작품을 훔치는 행위를 합법화해서는 안 된다. 호주에서 우리의 작품을 AI 모델 학습에 쓰려면 반드시 우리의 명시적 허락을 받아야 한다."
+              },
+              {
+                "t": "p",
+                "x": "이 성명은 서명자 명단과 함께 온라인에 게재된다. 지금 서명하려면 아래 양식을 제출하면 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Unlimitedに代わり\nKindle Plus誕生",
-          "body": "Kindle Plusへの改称で、AI-narratedのオーディオブックが増えた。",
-          "mini_headline": "Kindle UnlimitedはKindle Plusに",
+          "headline": "豪州、作家の本で\nAI学習を容認へ",
+          "body": "豪州は、AI企業が国籍を問わず作家の作品を無許諾で学習できる著作権法改正を計画している。",
+          "mini_headline": "豪州、無許諾のAI学習を検討",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/kindleplus.jpg?quality=90&strip=all&crop=0%2C10.721349621873%2C100%2C78.557300756254&w=1200"
+                "t": "p",
+                "x": "オーストラリア政府は、AI企業がモデル構築のために作家の作品をライセンスなしで利用できるよう著作権法を改正する法案を提出する計画を発表した。対象は米国を含む世界中の作家である。"
               },
               {
                 "t": "p",
-                "x": "サブスクリプションサービスの「プラス化」はとどまる気配がなく、AmazonもKindle Unlimitedのリブランドでその流れに加わった。サービスの新名称はKindle Plusだが、引き続き月額$11.99でKindleカタログから選ばれた電子書籍、コミック、雑誌を読み放題で利用できる。ZDNetによると、そのうち多数のタイトルでは従来どおり対応するオーディオブックも使え、中断した箇所から読書と聴取を行き来できるが、Kindle PlusではAIナレーターが読み上げる「バーチャルボイス」のオーディオブックにも対象を広げる。"
+                "x": "法案が成立すれば、AI企業がオーストラリア国内で行う限り、あなたの作品を利用することが合法になる。AI企業は学習業務をオーストラリアに移しつつ、モデルは米国（U.S.）で引き続き展開すればよいため、作家たちがAI企業を相手に起こしてきた訴訟や、保護を求める私たちのロビー活動は事実上無力化される。"
               },
               {
                 "t": "p",
-                "x": "「このサブスクリプションは、膨大な数のタイトルにアクセスできる優れた読書体験をこれまでどおり提供し、さらにU.S.カタログの多数のオーディオブックを追加料金なしで利用できるようになります」と、Amazonの広報担当Josh PflugはThe Vergeへのメール声明で述べた。"
+                "x": "オーストラリア政府は著作権者が作品の利用を拒否できるopt-outを認める方針だが、opt-outsは実施が難しく、拒否の必要性とその方法を知るごく一部の熟練した著作権者以外の権利を踏みにじりがちだ。opt-out方式は、誰がどの目的で作品を使えるかを創作者が管理できる著作権のopt-inライセンスの代わりにはならない。"
               },
               {
                 "t": "p",
-                "x": "Kindle PlusはAmazon Primeとは別の単独のサブスクリプションとして続き、同時に借りられるのは引き続き最大20タイトルまでだが、返却期限はない。AmazonはKindle Direct Publishingプラットフォームを使う著者が、自身のオーディオブックをKindle Plus会員に提供できるようにもした。"
+                "x": "Authors Guildは、世界の創作産業の団体とともに、この法案を非難する公開声明の取りまとめに加わった。声明の内容は次のとおりである。"
               },
               {
                 "t": "p",
-                "x": "バーチャルボイスのオーディオブックは、新刊がKDP Selectに登録されると自動的に提供されるが、著者は既刊作品についてもAIナレーターを選択できる。人間のナレーターを好む著者向けには、AudibleのAudiobook Creation Exchange（ACX）マーケットプレイスで制作されたオーディオブックもKindle Plusで利用可能になるが、まずはUSの会員から始まる。Amazonは今後、時間をかけて他の市場にも広げる計画だ。"
+                "x": "オーストラリア政府は、自国の地で世界の創作者の作品を盗む行為を合法化してはならない。オーストラリアで私たちの作品をAIモデルの学習に使うには、私たちの明示的な許可が必要である。"
+              },
+              {
+                "t": "p",
+                "x": "この声明は署名者の一覧とともにオンラインで公開される。今すぐ署名するには、下のフォームを送信してほしい。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Unlimited改名\nKindle Plus登场",
-          "body": "Amazon将服务更名为Kindle Plus，并增加含AI-narrated在内的有声书。",
-          "mini_headline": "Kindle Unlimited更名Kindle Plus",
+          "headline": "澳大利亚拟允许AI\n用作家作品训练",
+          "body": "澳大利亚计划修改版权法，让AI公司无论作者身在何处都可未经许可用其作品训练。",
+          "mini_headline": "澳大利亚拟放开无授权AI训练",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/kindleplus.jpg?quality=90&strip=all&crop=0%2C10.721349621873%2C100%2C78.557300756254&w=1200"
+                "t": "p",
+                "x": "澳大利亚政府宣布，计划提出立法修改版权法，允许AI公司在未获授权的情况下使用作家作品构建模型。这将适用于世界各地的作家，包括美国作家。"
               },
               {
                 "t": "p",
-                "x": "订阅服务的“Plus化”势头不减，Amazon也成为最新跟进者，对Kindle Unlimited进行了品牌重塑。这项订阅服务如今名为Kindle Plus，但仍将以每月$11.99的价格，提供Kindle目录中精选电子书、漫画和杂志的无限畅读。据ZDNet报道，其中大量书目仍配有对应的有声书，读者可在阅读和收听之间切换，并从上次停下的位置继续；Kindle Plus还将把范围扩大到由AI旁白朗读的“虚拟语音”有声书。"
+                "x": "该立法将使AI公司在澳大利亚境内利用你的作品成为合法行为。AI公司只需把训练业务迁往澳大利亚，同时继续在美国（U.S.）部署模型，这实际上会架空作家们对AI公司提起的诉讼，以及我们争取保护的游说努力。"
               },
               {
                 "t": "p",
-                "x": "“这项订阅将继续提供同样出色的阅读体验，可访问海量书目，现在还新增了U.S.目录中的大量有声书，且不额外收费，”Amazon发言人Josh Pflug在给The Verge的电子邮件声明中表示。"
+                "x": "澳大利亚政府计划允许版权所有者选择退出（opt-out），但opt-outs难以落实，往往碾压除极少数老练版权所有者之外所有人的权利——只有这些人知道需要退出以及如何退出。opt-out机制无法替代版权的opt-in授权，后者让创作者能够控制谁可以出于何种目的使用其作品。"
               },
               {
                 "t": "p",
-                "x": "Kindle Plus仍是独立于Amazon Prime的单独订阅，用户同时最多仍只能借阅20种书目，但没有归还期限。Amazon现在还允许使用Kindle Direct Publishing平台的作者，将自己的有声书提供给Kindle Plus订阅用户。"
+                "x": "Authors Guild已与全球创意产业的组织一道，发起一份谴责这项拟议立法的公开声明。声明全文如下："
               },
               {
                 "t": "p",
-                "x": "新书加入KDP Select后，将自动提供虚拟语音有声书，作者也可以为此前已出版的作品选择AI旁白。对于偏好真人旁白的作者，通过Audible的Audiobook Creation Exchange（ACX）平台制作的有声书现在也可在Kindle Plus上收听，但先从US订阅用户开始。Amazon计划逐步扩展到其他市场。"
+                "x": "澳大利亚政府不得将在其境内窃取全球创作者作品的行为合法化。在澳大利亚，我们的作品只有在获得我们明确许可的情况下，才能用于训练AI模型。"
+              },
+              {
+                "t": "p",
+                "x": "这份声明将连同签署者名单在网上发布。现在提交下方表格即可签署。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Kindle Unlimited pasa a ser\nKindle Plus y suma audiolibros",
-          "body": "Amazon renombró Kindle Unlimited como Kindle Plus y sumó audiolibros, algunos con voz de IA (AI-narrated).",
-          "mini_headline": "Kindle Unlimited ahora es Kindle Plus",
+          "headline": "Australia planea dejar entrenar\nla IA con libros de autores",
+          "body": "Australia prevé cambiar el copyright para que la IA entrene con obras de autores de cualquier país sin licencia.",
+          "mini_headline": "Australia y el entrenamiento de IA sin licencia",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/kindleplus.jpg?quality=90&strip=all&crop=0%2C10.721349621873%2C100%2C78.557300756254&w=1200"
+                "t": "p",
+                "x": "El Gobierno australiano anunció que prevé presentar una ley que modificaría la normativa de derechos de autor para permitir que las empresas de IA usen obras de autores, sin licencia, para construir sus modelos. Se aplicaría a autores de cualquier parte del mundo, incluidos los Estados Unidos."
               },
               {
                 "t": "p",
-                "x": "La «plusificación» de los servicios de suscripción sigue sin freno, y Amazon es la última empresa en sumarse con un cambio de marca de Kindle Unlimited. El servicio de suscripción ahora se llama Kindle Plus, pero seguirá ofreciendo acceso ilimitado a una selección de libros electrónicos, cómics y revistas del catálogo de Kindle por $11.99 al mes. Miles de esos títulos seguirán contando con audiolibros complementarios para alternar entre leer y escuchar justo donde se dejó, pero Kindle Plus ampliará ese acceso a audiolibros de «voz virtual» leídos por narradores de IA, según ZDNet."
+                "x": "La ley haría legal que las empresas de IA explotaran su obra siempre que esa explotación se realizara en suelo australiano. En la práctica, anularía las demandas que los autores han presentado contra empresas de IA y nuestra labor de presión en favor de protecciones, ya que esas empresas simplemente trasladarían sus operaciones de entrenamiento a Australia mientras siguen desplegando los modelos en EE. UU. (U.S.)."
               },
               {
                 "t": "p",
-                "x": "«La suscripción sigue ofreciendo la misma gran experiencia de lectura con acceso a millones de títulos, ahora con miles de audiolibros del catálogo de U.S. sin costo adicional», dijo Josh Pflug, portavoz de Amazon, a The Verge en un comunicado por correo electrónico."
+                "x": "El Gobierno australiano prevé permitir que los titulares de derechos excluyan sus obras mediante opt-out, pero los opt-outs son difíciles de aplicar y a menudo arrasan con los derechos de todos salvo los titulares más sofisticados, que saben que deben excluirse y cómo hacerlo. Los sistemas de opt-out no sustituyen las licencias opt-in del derecho de autor, que permiten a los creadores controlar quién usa su obra y con qué fines."
               },
               {
                 "t": "p",
-                "x": "Kindle Plus seguirá siendo una suscripción independiente, separada de Amazon Prime, y los usuarios seguirán limitados a tomar prestados hasta 20 títulos a la vez, aunque sin fechas de devolución. Amazon ahora también permite que los autores que usan su plataforma Kindle Direct Publishing ofrezcan sus audiolibros a los suscriptores de Kindle Plus."
+                "x": "La Authors Guild se ha sumado a organizaciones de las industrias creativas de todo el mundo para impulsar una declaración pública que condena esta ley prevista. Dice así:"
               },
               {
                 "t": "p",
-                "x": "Los audiolibros de voz virtual estarán disponibles automáticamente cuando se inscriban títulos nuevos en KDP Select, pero los autores también pueden optar por narradores de IA para títulos publicados anteriormente. Para los autores que prefieren un narrador humano, los audiolibros creados en el mercado Audiobook Creation Exchange (ACX) de Audible también estarán disponibles en Kindle Plus, empezando por los suscriptores en US. Amazon prevé ampliar la disponibilidad a otros mercados con el tiempo."
+                "x": "El Gobierno australiano no debe legalizar en su territorio el robo de la obra de los creadores del mundo. Nuestra obra solo debe usarse para entrenar modelos de IA en Australia con nuestro permiso explícito."
+              },
+              {
+                "t": "p",
+                "x": "Esta declaración se publicará en línea junto con una lista de firmantes. Envíe el formulario de abajo para firmar ahora."
               }
             ]
           }
@@ -315,15 +355,15 @@
       }
     },
     {
-      "id": "books-canada-isbn-human-author",
+      "id": "books-chakrabarty-dropped",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "캐나다 ISBNs 제한\nAI-generated 책",
-      "body": "캐나다 국립도서관·기록보존소가 ISBN 신청자에게 인간 저자 선언을 요구한다.",
-      "mini_headline": "캐나다, AI-book ISBN 제한",
+      "headline": "OpenAI 소송서\n시장 희석 연구 제외",
+      "body": "OpenAI 소송 원고 측이 Chakrabarty 논문 증거 제외를 받아들였다.",
+      "mini_headline": "OpenAI 소송서 빠진 Chakrabarty 논문",
       "tool": "Books",
-      "source": "Global News",
-      "url": "https://globalnews.ca/news/12111768/canada-artificial-intelligence-books-copyright/",
+      "source": "ALLi (Self-Publishing Advice Center)",
+      "url": "https://selfpublishingadvice.org/chakrabarty-paper-dropped-from-openai-suit/",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
@@ -331,179 +371,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://globalnews.ca/wp-content/uploads/2026/10/CP171900259-e1792608559278.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-            "cap": "FILE - 2024년 유월 3일 월요일, 오타와의 캐나다 국립도서관·기록보존소(Library and Archives Canada) 모습."
+            "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/10/News-October-22.jpg"
           },
           {
             "t": "p",
-            "x": "캐나다 국립도서관·기록보존소(LAC)가 ISBN 정책을 고쳐 AI 생성(AI-generated) 도서와 기타 콘텐츠의 등록을 제한하자, 캐나다 작가·출판 단체들은 만족한다고 밝혔다."
+            "x": "월요일에 이어 AI 후속 소식이 하나 더 있다. OpenAI를 상대로 진행 중인 저작권 소송에서, 원고 측이 Dr. Tuhin Chakrabarty의 시장 희석 논문에 기대지 못하게 해 달라며 OpenAI가 낸 신청 건이다. 이 논문은 널리 인용돼 왔다."
           },
           {
             "t": "p",
-            "x": "LAC는 시월 9일 갱신한 웹사이트에 “ISBN Canada에 등록하면 해당 출판물을 인간 저자가 썼다고 선언하는 것”이라고 적었다. AI 도구는 브레인스토밍, 문법 검사, 서식 정리 같은 제한된 보조 작업에만 쓸 수 있다. 내용 대부분을 AI로 만든 작품(텍스트, 삽화, 번역)에는 ISBN Canada가 ISBNs 발급 수량을 제한한다. LAC는 정책이 아직 검토 중이며 ISBN을 등록한다고 저작권이 보호되지는 않는다고 덧붙였다."
+            "x": "Chakrabarty는 이 연구에서 생성형 AI가 시장 희석을 일으키고 있고, 그 탓에 창작자가 상당한 경제적 피해를 입을 수 있다고 주장한다."
           },
           {
             "t": "p",
-            "x": "캐나다작가협회(Canadian Authors Association)는 이번 변경을 환영하면서도 “첫걸음에 불과하다”며 자기 선언을 어떻게 감시하고 검증할지 물었다. 캐나다출판인협회(Association of Canadian Publishers)는 “AI-slop” 도서가 쏟아지는 상황을 들어 ISBNs를 사람이 쓴 책으로 제한하면 사기가 줄 것이라고 봤다."
+            "x": "OpenAI는 이 연구가 원고 측 대리 로펌 Susman Godfrey의 자금을 받았다고 문제 삼았다. 그러니 자사를 상대로 한 소송에서 법원이 이 논문을 고려해서는 안 된다는 주장이다."
           },
           {
             "t": "p",
-            "x": "캐나다 연방정부는 무허가 AI 학습을 막을 현대적 저작권 보호 장치를 아직 마련하지 못했다. 유월에 내놓은 연방 AI 전략에서도 저작권 문제는 빠졌다."
+            "x": "Chakrabarty는 선서 진술서에서 이를 부인했다. 하지만 원고 측이 AI 측 신청에 반대하지 않으면서 Chakrabarty의 논문은 제출 증거에서 빠졌다."
+          },
+          {
+            "t": "p",
+            "x": "압박받는 번역가들: 프랑크푸르트에서 공개된 유럽문학번역가협회연합(CEATL)의 2026년 설문조사 결과, 응답자 1,785명 가운데 77%가 업계 안의 생성형 AI를 부정적으로 봤다. 셋 중 한 명 이상은 일을 그만둘까 생각해 본 적이 있었다. 30퍼센트는 일감이 줄었다며 AI 사용 증가를 원인으로 꼽았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Canada limits ISBNs for\nmostly AI-generated books",
-          "body": "Library and Archives Canada now requires ISBN registrants to declare a human author, curbing mostly AI-generated books.",
-          "mini_headline": "Canada curbs\nAI-book ISBNs",
+          "headline": "Market dilution study dropped\nfrom OpenAI copyright case",
+          "body": "Plaintiffs suing OpenAI over copyright have let the Chakrabarty market dilution paper be dropped from the evidence.",
+          "mini_headline": "Chakrabarty paper\nout of OpenAI suit",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://globalnews.ca/wp-content/uploads/2026/10/CP171900259-e1792608559278.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-                "cap": "FILE - The Library and Archives Canada is pictured in Ottawa on Monday, June 3, 2024."
+                "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/10/News-October-22.jpg"
               },
               {
                 "t": "p",
-                "x": "Canadian author and publisher groups say they are pleased that Library and Archives Canada (LAC) updated its ISBN policy to limit registrations for AI-generated books and other content."
+                "x": "Following from Monday, there is another AI story follow-up. This one relates to the current copyright case against OpenAI, and the motion brought by OpenAI to bar any reliance by those bringing the suit on Dr. Tuhin Chakrabarty's widely cited paper on market dilution."
               },
               {
                 "t": "p",
-                "x": "“By registering with ISBN Canada, you declare that your publication was written by a human author,” LAC says on its website, updated on Oct. 9. AI tools may be used only for limited support tasks such as brainstorming, checking grammar or formatting, and ISBN Canada limits the quantity of ISBNs for works whose content is primarily generated by AI (text, illustration, translation). LAC says its policy is under review and that ISBN registration does not provide copyright protection."
+                "x": "Chakrabarty's study makes the case that generative AI is leading to market dilution that has the potential to cause significant economic harm to creators."
               },
               {
                 "t": "p",
-                "x": "The Canadian Authors Association said it applauds the change but called it “only a first step,” asking how the self-declaration will be monitored and verified. The Association of Canadian Publishers said limiting ISBNs to human-authored books should lead to less fraud, citing a flood of “AI-slop” books."
+                "x": "OpenAI had argued that the paper should not be considered by the court ruling in a case brought against it because, it alleged, the work was funded by Susman Godfrey, the firm acting for the plaintiffs in the case."
               },
               {
                 "t": "p",
-                "x": "The move comes as Ottawa still lacks modernized copyright protections against unlicensed AI training; the federal AI strategy unveiled in June did not address copyright."
+                "x": "Chakrabarty has denied this in a sworn declaration. But those bringing the case have not sought to oppose AI's motion, and Chakrabarty's article has been dropped from the evidence submitted."
+              },
+              {
+                "t": "p",
+                "x": "Translators Feel the Squeeze: at Frankfurt, the 2026 survey of the European Council of Literary Translators' Associations (CEATL), with 1,785 respondents, found 77% reporting negative attitudes to generative AI within the industry and more than a third having considered leaving their profession. 30 percent reported a drop in assignments, which they attributed to the growing use of AI."
               }
             ]
           }
         },
         "ko": {
-          "headline": "캐나다 ISBNs 제한\nAI-generated 책",
-          "body": "캐나다 국립도서관·기록보존소가 ISBN 신청자에게 인간 저자 선언을 요구한다.",
-          "mini_headline": "캐나다, AI-book ISBN 제한",
+          "headline": "OpenAI 소송서\n시장 희석 연구 제외",
+          "body": "OpenAI 소송 원고 측이 Chakrabarty 논문 증거 제외를 받아들였다.",
+          "mini_headline": "OpenAI 소송서 빠진 Chakrabarty 논문",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://globalnews.ca/wp-content/uploads/2026/10/CP171900259-e1792608559278.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-                "cap": "FILE - 2024년 유월 3일 월요일, 오타와의 캐나다 국립도서관·기록보존소(Library and Archives Canada) 모습."
+                "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/10/News-October-22.jpg"
               },
               {
                 "t": "p",
-                "x": "캐나다 국립도서관·기록보존소(LAC)가 ISBN 정책을 고쳐 AI 생성(AI-generated) 도서와 기타 콘텐츠의 등록을 제한하자, 캐나다 작가·출판 단체들은 만족한다고 밝혔다."
+                "x": "월요일에 이어 AI 후속 소식이 하나 더 있다. OpenAI를 상대로 진행 중인 저작권 소송에서, 원고 측이 Dr. Tuhin Chakrabarty의 시장 희석 논문에 기대지 못하게 해 달라며 OpenAI가 낸 신청 건이다. 이 논문은 널리 인용돼 왔다."
               },
               {
                 "t": "p",
-                "x": "LAC는 시월 9일 갱신한 웹사이트에 “ISBN Canada에 등록하면 해당 출판물을 인간 저자가 썼다고 선언하는 것”이라고 적었다. AI 도구는 브레인스토밍, 문법 검사, 서식 정리 같은 제한된 보조 작업에만 쓸 수 있다. 내용 대부분을 AI로 만든 작품(텍스트, 삽화, 번역)에는 ISBN Canada가 ISBNs 발급 수량을 제한한다. LAC는 정책이 아직 검토 중이며 ISBN을 등록한다고 저작권이 보호되지는 않는다고 덧붙였다."
+                "x": "Chakrabarty는 이 연구에서 생성형 AI가 시장 희석을 일으키고 있고, 그 탓에 창작자가 상당한 경제적 피해를 입을 수 있다고 주장한다."
               },
               {
                 "t": "p",
-                "x": "캐나다작가협회(Canadian Authors Association)는 이번 변경을 환영하면서도 “첫걸음에 불과하다”며 자기 선언을 어떻게 감시하고 검증할지 물었다. 캐나다출판인협회(Association of Canadian Publishers)는 “AI-slop” 도서가 쏟아지는 상황을 들어 ISBNs를 사람이 쓴 책으로 제한하면 사기가 줄 것이라고 봤다."
+                "x": "OpenAI는 이 연구가 원고 측 대리 로펌 Susman Godfrey의 자금을 받았다고 문제 삼았다. 그러니 자사를 상대로 한 소송에서 법원이 이 논문을 고려해서는 안 된다는 주장이다."
               },
               {
                 "t": "p",
-                "x": "캐나다 연방정부는 무허가 AI 학습을 막을 현대적 저작권 보호 장치를 아직 마련하지 못했다. 유월에 내놓은 연방 AI 전략에서도 저작권 문제는 빠졌다."
+                "x": "Chakrabarty는 선서 진술서에서 이를 부인했다. 하지만 원고 측이 AI 측 신청에 반대하지 않으면서 Chakrabarty의 논문은 제출 증거에서 빠졌다."
+              },
+              {
+                "t": "p",
+                "x": "압박받는 번역가들: 프랑크푸르트에서 공개된 유럽문학번역가협회연합(CEATL)의 2026년 설문조사 결과, 응답자 1,785명 가운데 77%가 업계 안의 생성형 AI를 부정적으로 봤다. 셋 중 한 명 이상은 일을 그만둘까 생각해 본 적이 있었다. 30퍼센트는 일감이 줄었다며 AI 사용 증가를 원인으로 꼽았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "カナダがISBNs制限\nAI-generated本",
-          "body": "カナダ国立図書館・文書館がISBN登録者に人間の著者の申告を義務づけた。",
-          "mini_headline": "カナダ、AI-bookのISBNを抑制",
+          "headline": "OpenAI訴訟から\n市場希釈論文が除外",
+          "body": "OpenAIを訴える原告側が、Chakrabartyの市場希釈論文の証拠除外を容認した。",
+          "mini_headline": "Chakrabarty論文、OpenAI訴訟から外れる",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://globalnews.ca/wp-content/uploads/2026/10/CP171900259-e1792608559278.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-                "cap": "FILE - Monday, June 3, 2024、オタワのカナダ国立図書館・文書館（Library and Archives Canada）。"
+                "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/10/News-October-22.jpg"
               },
               {
                 "t": "p",
-                "x": "カナダの作家団体や出版社団体は、カナダ国立図書館・文書館（LAC）がISBNポリシーを改定し、AI-generated（AI生成）の書籍などのコンテンツの登録を制限したことを歓迎している。"
+                "x": "月曜日に続き、AI関連の続報がもう一つある。今回はOpenAIを相手取った現在の著作権訴訟と、原告側がDr. Tuhin Chakrabartyの広く引用される市場希釈に関する論文に依拠することを禁じるようOpenAIが出した申し立てに関するものだ。"
               },
               {
                 "t": "p",
-                "x": "「ISBN Canadaに登録することで、あなたは出版物が人間の著者によって書かれたことを申告します」と、LACはOct. 9に更新したウェブサイトで説明している。AIツールの利用はブレインストーミングや文法・書式のチェックなど限定的な補助作業に限られ、ISBN Canadaは内容の大半がAIで生成された作品（テキスト、イラスト、翻訳）に対し、割り当てるISBNsの数を制限する。LACはこの方針が見直し中であり、ISBN登録は著作権保護をもたらさないとしている。"
+                "x": "Chakrabartyの研究は、生成AIが市場希釈を引き起こしており、創作者に重大な経済的損害を与える可能性があると論じている。"
               },
               {
                 "t": "p",
-                "x": "カナダ作家協会（Canadian Authors Association）は変更を称賛しつつも「あくまで出発点にすぎない」とし、自己申告をどう監視・検証するのかを問うた。カナダ出版社協会（Association of Canadian Publishers）は「AI-slop」書籍の氾濫を挙げ、ISBNsを人間が書いた本に限ることで不正は減るはずだと述べた。"
+                "x": "OpenAIは、この研究が訴訟の原告側代理人を務める法律事務所Susman Godfreyの資金提供を受けたと主張し、自社を相手取った訴訟で裁判所がこの論文を考慮すべきではないと訴えていた。"
               },
               {
                 "t": "p",
-                "x": "今回の措置は、カナダ政府が無許諾のAI学習に対する著作権保護をいまだ現代化できていない中で打ち出された。Juneに公表された連邦AI戦略も著作権には触れていなかった。"
+                "x": "Chakrabartyは宣誓供述書でこれを否定した。しかし原告側はAIの申し立てに反対せず、Chakrabartyの論文は提出証拠から外された。"
+              },
+              {
+                "t": "p",
+                "x": "苦境に立つ翻訳者たち：フランクフルトで発表された欧州文芸翻訳者協会評議会（CEATL）の2026年調査では、回答者1,785人のうち77%が業界内の生成AIに否定的な態度を示し、三分の一以上が職業を離れることを考えたことがあった。30パーセントは仕事の依頼が減ったと答え、その原因をAI利用の拡大に求めた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "加拿大限发ISBNs\nAI-generated书",
-          "body": "加拿大图书馆与档案馆要求ISBN申请者声明作者为人类，以遏制主要由AI生成的图书。",
-          "mini_headline": "加拿大限制AI-book的ISBN",
+          "headline": "市场稀释研究\n撤出OpenAI版权案",
+          "body": "起诉OpenAI侵犯版权的原告方，已任由Chakrabarty的市场稀释论文被撤出证据。",
+          "mini_headline": "Chakrabarty论文退出OpenAI诉讼",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://globalnews.ca/wp-content/uploads/2026/10/CP171900259-e1792608559278.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-                "cap": "FILE - 资料图：Monday, June 3, 2024，位于渥太华的加拿大图书馆与档案馆（Library and Archives Canada）。"
+                "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/10/News-October-22.jpg"
               },
               {
                 "t": "p",
-                "x": "加拿大作家与出版商团体表示，很高兴看到加拿大图书馆与档案馆（LAC）更新ISBN政策，限制AI-generated（AI生成）图书及其他内容的登记。"
+                "x": "继周一之后，又有一则AI相关的后续消息。这次涉及目前针对OpenAI的版权诉讼，以及OpenAI提出的一项动议：禁止原告方援引Dr. Tuhin Chakrabarty那篇被广泛引用的市场稀释论文。"
               },
               {
                 "t": "p",
-                "x": "LAC在Oct. 9更新的网站上表示：“在ISBN Canada登记，即表示您声明出版物由人类作者撰写。”AI工具仅可用于有限的辅助工作，例如头脑风暴、检查语法或排版；对于内容主要由AI生成的作品（文本、插图、翻译），ISBN Canada会限制ISBNs的发放数量。LAC表示，该政策正在审查中，且ISBN登记并不提供版权保护。"
+                "x": "Chakrabarty的研究认为，生成式AI正在导致市场稀释，并可能给创作者造成重大经济损失。"
               },
               {
                 "t": "p",
-                "x": "加拿大作家协会（Canadian Authors Association）表示赞赏这项变化，但称其“只是起点”，并质疑自我声明将如何监督和核实。加拿大出版商协会（Association of Canadian Publishers）援引“AI-slop”图书泛滥的现象，表示将ISBNs限定于人类作者的图书应能减少欺诈。"
+                "x": "OpenAI此前辩称，法院在审理针对其提起的诉讼时不应考虑这篇论文，理由是该研究据称由本案原告的代理律所Susman Godfrey资助。"
               },
               {
                 "t": "p",
-                "x": "此举出台之际，加拿大联邦政府仍缺乏针对未经许可的AI训练的现代化版权保护；June公布的联邦AI战略也未涉及版权问题。"
+                "x": "Chakrabarty已在宣誓声明中否认这一说法。但原告方并未反对AI方面的动议，Chakrabarty的论文已从提交的证据中撤出。"
+              },
+              {
+                "t": "p",
+                "x": "译者承压：在法兰克福，欧洲文学翻译协会理事会（CEATL）2026年的调查共有1,785名受访者，其中77%对业内的生成式AI持负面态度，超过三分之一曾考虑离开这一职业。百分之三十的人表示接到的委托减少，并将其归因于AI使用的增加。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Canadá limita ISBNs a libros\nmayormente AI-generated",
-          "body": "Biblioteca y Archivos de Canadá exige declarar un autor humano para obtener un ISBN y frenar libros hechos con IA.",
-          "mini_headline": "Canadá frena los ISBN «AI-book»",
+          "headline": "Sale del caso OpenAI el estudio\nsobre dilución del mercado",
+          "body": "Quienes demandan a OpenAI dejaron que el estudio de Chakrabarty sobre dilución del mercado saliera de las pruebas.",
+          "mini_headline": "El estudio de Chakrabarty sale del caso OpenAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://globalnews.ca/wp-content/uploads/2026/10/CP171900259-e1792608559278.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-                "cap": "FILE - Biblioteca y Archivos de Canadá (Library and Archives Canada), en Ottawa, el lunes 3 de junio de 2024."
+                "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/10/News-October-22.jpg"
               },
               {
                 "t": "p",
-                "x": "Grupos de autores y editores canadienses dicen estar satisfechos con que Biblioteca y Archivos de Canadá (LAC) haya actualizado su política de ISBN para limitar los registros de libros generados por IA (AI-generated) y otros contenidos."
+                "x": "Tras lo del lunes, hay otra actualización sobre IA. Esta tiene que ver con el actual caso de copyright contra OpenAI y con la moción presentada por OpenAI para impedir que los demandantes se apoyen en el muy citado estudio del Dr. Tuhin Chakrabarty sobre la dilución del mercado."
               },
               {
                 "t": "p",
-                "x": "«Al registrarse en ISBN Canada, usted declara que su publicación fue escrita por un autor humano», indica LAC en su sitio web, actualizado el 9 de octubre. Las herramientas de IA solo pueden usarse para tareas de apoyo limitadas, como generar ideas, revisar la gramática o el formato, e ISBN Canada limita la cantidad de ISBNs para obras cuyo contenido está generado principalmente por IA (texto, ilustración, traducción). LAC afirma que su política está en revisión y que el registro de ISBN no otorga protección de derechos de autor."
+                "x": "El estudio de Chakrabarty sostiene que la IA generativa está provocando una dilución del mercado que puede causar un daño económico significativo a los creadores."
               },
               {
                 "t": "p",
-                "x": "La Canadian Authors Association dijo que aplaude el cambio, pero lo calificó de «solo un primer paso» y preguntó cómo se supervisará y verificará la autodeclaración. La Association of Canadian Publishers afirmó que limitar los ISBNs a libros de autoría humana debería reducir el fraude, y citó una avalancha de libros «AI-slop»."
+                "x": "OpenAI había argumentado que el tribunal no debía tener en cuenta el estudio en un caso presentado en su contra porque, según alegó, el trabajo fue financiado por Susman Godfrey, el bufete que representa a los demandantes."
               },
               {
                 "t": "p",
-                "x": "La medida llega cuando Ottawa aún carece de protecciones de derechos de autor modernizadas frente al entrenamiento no autorizado de IA; la estrategia federal de IA presentada en junio no abordó los derechos de autor."
+                "x": "Chakrabarty lo ha negado en una declaración jurada. Pero los demandantes no se han opuesto a la moción de la IA, y el artículo de Chakrabarty ha quedado fuera de las pruebas presentadas."
+              },
+              {
+                "t": "p",
+                "x": "Los traductores, bajo presión: en Fráncfort, la encuesta de 2026 del Consejo Europeo de Asociaciones de Traductores Literarios (CEATL), con 1,785 encuestados, halló que el 77% expresa actitudes negativas hacia la IA generativa en el sector y que más de un tercio ha pensado en dejar su profesión. El 30 por ciento señaló una caída en los encargos, que atribuyó al uso creciente de la IA."
               }
             ]
           }
@@ -511,125 +569,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "캐나다 ISBNs 제한\nAI-generated 책",
-          "body": "캐나다 국립도서관·기록보존소가 ISBN 신청자에게 인간 저자 선언을 요구한다.",
-          "mini_headline": "캐나다, AI-book ISBN 제한",
+          "headline": "OpenAI 소송서\n시장 희석 연구 제외",
+          "body": "OpenAI 소송 원고가 Chakrabarty 논문의 증거 제외를 받아들였다.",
+          "mini_headline": "OpenAI 소송서 빠진 Chakrabarty 논문",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://globalnews.ca/wp-content/uploads/2026/10/CP171900259-e1792608559278.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-                "cap": "FILE - 2024년 유월 3일 월요일, 오타와의 캐나다 국립도서관·기록보존소(Library and Archives Canada) 모습."
+                "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/10/News-October-22.jpg"
               },
               {
                 "t": "p",
-                "x": "캐나다 작가·출판 단체들은 캐나다 국립도서관·기록보존소(LAC)가 ISBN 정책을 개정해 AI 생성(AI-generated) 도서와 기타 콘텐츠의 등록을 제한한 데 만족한다고 밝혔다."
+                "x": "월요일에 이어 또 하나의 AI 후속 소식이다. 이번 건은 OpenAI를 상대로 진행 중인 저작권 소송, 그리고 원고 측이 Dr. Tuhin Chakrabarty의 널리 인용된 시장 희석 논문에 기대지 못하도록 OpenAI가 낸 신청과 관련이 있다."
               },
               {
                 "t": "p",
-                "x": "LAC는 시월 9일 갱신한 웹사이트에서 “ISBN Canada에 등록하면 해당 출판물을 인간 저자가 썼다고 선언하는 것”이라고 밝혔다. AI 도구는 브레인스토밍, 문법 검사, 서식 정리 같은 제한된 보조 작업에만 쓸 수 있으며, ISBN Canada는 내용이 주로 AI로 생성된 작품(텍스트, 삽화, 번역)에 대해 ISBNs 발급 수량을 제한한다. LAC는 이 정책이 검토 중이며 ISBN 등록이 저작권 보호를 제공하지는 않는다고 밝혔다."
+                "x": "Chakrabarty의 연구는 생성형 AI가 시장 희석을 일으키고 있으며, 이것이 창작자에게 상당한 경제적 피해를 줄 수 있다고 주장한다."
               },
               {
                 "t": "p",
-                "x": "캐나다작가협회(Canadian Authors Association)는 이번 변경을 환영하면서도 “첫걸음에 불과하다”며 자기 선언을 어떻게 감시하고 검증할지 물었다. 캐나다출판인협회(Association of Canadian Publishers)는 “AI-slop” 도서가 쏟아지는 상황을 들어 ISBNs를 인간이 쓴 책으로 제한하면 사기가 줄어들 것이라고 밝혔다."
+                "x": "OpenAI는 이 연구가 소송 원고 측을 대리하는 로펌 Susman Godfrey의 자금을 받았다며, 자사를 상대로 한 소송에서 법원이 이 논문을 고려해서는 안 된다고 주장했다."
               },
               {
                 "t": "p",
-                "x": "이번 조치는 캐나다 연방정부가 무허가 AI 학습에 맞설 현대화된 저작권 보호 장치를 아직 갖추지 못한 가운데 나왔다. 유월에 공개된 연방 AI 전략도 저작권 문제는 다루지 않았다."
+                "x": "Chakrabarty는 선서 진술서에서 이를 부인했다. 그러나 원고 측은 AI 측의 신청에 반대하지 않았고, Chakrabarty의 논문은 제출 증거에서 빠졌다."
+              },
+              {
+                "t": "p",
+                "x": "압박받는 번역가들: 프랑크푸르트에서 공개된 유럽문학번역가협회연합(CEATL)의 2026년 설문조사에 따르면, 응답자 1,785명 가운데 77%가 업계 내 생성형 AI에 부정적 태도를 보였고, 셋 중 한 명 이상은 직업을 떠나는 것을 고려한 적이 있었다. 30퍼센트는 일감이 줄었다고 답했으며, 그 원인으로 AI 사용 증가를 꼽았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "カナダがISBNs制限\nAI-generated本",
-          "body": "カナダ国立図書館・文書館がISBN登録者に人間の著者の申告を義務づけた。",
-          "mini_headline": "カナダ、AI-bookのISBNを抑制",
+          "headline": "OpenAI訴訟から\n市場希釈論文が除外",
+          "body": "OpenAIを訴える原告側が、Chakrabartyの市場希釈論文の証拠除外を容認した。",
+          "mini_headline": "Chakrabarty論文、OpenAI訴訟から外れる",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://globalnews.ca/wp-content/uploads/2026/10/CP171900259-e1792608559278.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-                "cap": "FILE - Monday, June 3, 2024、オタワのカナダ国立図書館・文書館（Library and Archives Canada）。"
+                "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/10/News-October-22.jpg"
               },
               {
                 "t": "p",
-                "x": "カナダの作家団体や出版社団体は、カナダ国立図書館・文書館（LAC）がISBNポリシーを改定し、AI-generated（AI生成）の書籍などのコンテンツの登録を制限したことを歓迎している。"
+                "x": "月曜日に続き、AI関連の続報がもう一つある。今回はOpenAIを相手取った現在の著作権訴訟と、原告側がDr. Tuhin Chakrabartyの広く引用される市場希釈に関する論文に依拠することを禁じるようOpenAIが出した申し立てに関するものだ。"
               },
               {
                 "t": "p",
-                "x": "「ISBN Canadaに登録することで、あなたは出版物が人間の著者によって書かれたことを申告します」と、LACはOct. 9に更新したウェブサイトで説明している。AIツールの利用はブレインストーミングや文法・書式のチェックなど限定的な補助作業に限られ、ISBN Canadaは内容の大半がAIで生成された作品（テキスト、イラスト、翻訳）に対し、割り当てるISBNsの数を制限する。LACはこの方針が見直し中であり、ISBN登録は著作権保護をもたらさないとしている。"
+                "x": "Chakrabartyの研究は、生成AIが市場希釈を引き起こしており、創作者に重大な経済的損害を与える可能性があると論じている。"
               },
               {
                 "t": "p",
-                "x": "カナダ作家協会（Canadian Authors Association）は変更を称賛しつつも「あくまで出発点にすぎない」とし、自己申告をどう監視・検証するのかを問うた。カナダ出版社協会（Association of Canadian Publishers）は「AI-slop」書籍の氾濫を挙げ、ISBNsを人間が書いた本に限ることで不正は減るはずだと述べた。"
+                "x": "OpenAIは、この研究が訴訟の原告側代理人を務める法律事務所Susman Godfreyの資金提供を受けたと主張し、自社を相手取った訴訟で裁判所がこの論文を考慮すべきではないと訴えていた。"
               },
               {
                 "t": "p",
-                "x": "今回の措置は、カナダ政府が無許諾のAI学習に対する著作権保護をいまだ現代化できていない中で打ち出された。Juneに公表された連邦AI戦略も著作権には触れていなかった。"
+                "x": "Chakrabartyは宣誓供述書でこれを否定した。しかし原告側はAIの申し立てに反対せず、Chakrabartyの論文は提出証拠から外された。"
+              },
+              {
+                "t": "p",
+                "x": "苦境に立つ翻訳者たち：フランクフルトで発表された欧州文芸翻訳者協会評議会（CEATL）の2026年調査では、回答者1,785人のうち77%が業界内の生成AIに否定的な態度を示し、三分の一以上が職業を離れることを考えたことがあった。30パーセントは仕事の依頼が減ったと答え、その原因をAI利用の拡大に求めた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "加拿大限发ISBNs\nAI-generated书",
-          "body": "加拿大图书馆与档案馆要求ISBN申请者声明作者为人类，以遏制主要由AI生成的图书。",
-          "mini_headline": "加拿大限制AI-book的ISBN",
+          "headline": "市场稀释研究\n撤出OpenAI版权案",
+          "body": "起诉OpenAI侵犯版权的原告方，已任由Chakrabarty的市场稀释论文被撤出证据。",
+          "mini_headline": "Chakrabarty论文退出OpenAI诉讼",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://globalnews.ca/wp-content/uploads/2026/10/CP171900259-e1792608559278.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-                "cap": "FILE - 资料图：Monday, June 3, 2024，位于渥太华的加拿大图书馆与档案馆（Library and Archives Canada）。"
+                "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/10/News-October-22.jpg"
               },
               {
                 "t": "p",
-                "x": "加拿大作家与出版商团体表示，很高兴看到加拿大图书馆与档案馆（LAC）更新ISBN政策，限制AI-generated（AI生成）图书及其他内容的登记。"
+                "x": "继周一之后，又有一则AI相关的后续消息。这次涉及目前针对OpenAI的版权诉讼，以及OpenAI提出的一项动议：禁止原告方援引Dr. Tuhin Chakrabarty那篇被广泛引用的市场稀释论文。"
               },
               {
                 "t": "p",
-                "x": "LAC在Oct. 9更新的网站上表示：“在ISBN Canada登记，即表示您声明出版物由人类作者撰写。”AI工具仅可用于有限的辅助工作，例如头脑风暴、检查语法或排版；对于内容主要由AI生成的作品（文本、插图、翻译），ISBN Canada会限制ISBNs的发放数量。LAC表示，该政策正在审查中，且ISBN登记并不提供版权保护。"
+                "x": "Chakrabarty的研究认为，生成式AI正在导致市场稀释，并可能给创作者造成重大经济损失。"
               },
               {
                 "t": "p",
-                "x": "加拿大作家协会（Canadian Authors Association）表示赞赏这项变化，但称其“只是起点”，并质疑自我声明将如何监督和核实。加拿大出版商协会（Association of Canadian Publishers）援引“AI-slop”图书泛滥的现象，表示将ISBNs限定于人类作者的图书应能减少欺诈。"
+                "x": "OpenAI此前辩称，法院在审理针对其提起的诉讼时不应考虑这篇论文，理由是该研究据称由本案原告的代理律所Susman Godfrey资助。"
               },
               {
                 "t": "p",
-                "x": "此举出台之际，加拿大联邦政府仍缺乏针对未经许可的AI训练的现代化版权保护；June公布的联邦AI战略也未涉及版权问题。"
+                "x": "Chakrabarty已在宣誓声明中否认这一说法。但原告方并未反对AI方面的动议，Chakrabarty的论文已从提交的证据中撤出。"
+              },
+              {
+                "t": "p",
+                "x": "译者承压：在法兰克福，欧洲文学翻译协会理事会（CEATL）2026年的调查共有1,785名受访者，其中77%对业内的生成式AI持负面态度，超过三分之一曾考虑离开这一职业。百分之三十的人表示接到的委托减少，并将其归因于AI使用的增加。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Canadá limita ISBNs a libros\nmayormente AI-generated",
-          "body": "Biblioteca y Archivos de Canadá exige declarar un autor humano para obtener un ISBN y frenar libros hechos con IA.",
-          "mini_headline": "Canadá frena los ISBN «AI-book»",
+          "headline": "Sale del caso OpenAI el estudio\nsobre dilución del mercado",
+          "body": "Quienes demandan a OpenAI dejaron que el estudio de Chakrabarty sobre dilución del mercado saliera de las pruebas.",
+          "mini_headline": "El estudio de Chakrabarty sale del caso OpenAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://globalnews.ca/wp-content/uploads/2026/10/CP171900259-e1792608559278.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-                "cap": "FILE - Biblioteca y Archivos de Canadá (Library and Archives Canada), en Ottawa, el lunes 3 de junio de 2024."
+                "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/10/News-October-22.jpg"
               },
               {
                 "t": "p",
-                "x": "Grupos de autores y editores canadienses dicen estar satisfechos con que Biblioteca y Archivos de Canadá (LAC) haya actualizado su política de ISBN para limitar los registros de libros generados por IA (AI-generated) y otros contenidos."
+                "x": "Tras lo del lunes, hay otra actualización sobre IA. Esta tiene que ver con el actual caso de copyright contra OpenAI y con la moción presentada por OpenAI para impedir que los demandantes se apoyen en el muy citado estudio del Dr. Tuhin Chakrabarty sobre la dilución del mercado."
               },
               {
                 "t": "p",
-                "x": "«Al registrarse en ISBN Canada, usted declara que su publicación fue escrita por un autor humano», indica LAC en su sitio web, actualizado el 9 de octubre. Las herramientas de IA solo pueden usarse para tareas de apoyo limitadas, como generar ideas, revisar la gramática o el formato, e ISBN Canada limita la cantidad de ISBNs para obras cuyo contenido está generado principalmente por IA (texto, ilustración, traducción). LAC afirma que su política está en revisión y que el registro de ISBN no otorga protección de derechos de autor."
+                "x": "El estudio de Chakrabarty sostiene que la IA generativa está provocando una dilución del mercado que puede causar un daño económico significativo a los creadores."
               },
               {
                 "t": "p",
-                "x": "La Canadian Authors Association dijo que aplaude el cambio, pero lo calificó de «solo un primer paso» y preguntó cómo se supervisará y verificará la autodeclaración. La Association of Canadian Publishers afirmó que limitar los ISBNs a libros de autoría humana debería reducir el fraude, y citó una avalancha de libros «AI-slop»."
+                "x": "OpenAI había argumentado que el tribunal no debía tener en cuenta el estudio en un caso presentado en su contra porque, según alegó, el trabajo fue financiado por Susman Godfrey, el bufete que representa a los demandantes."
               },
               {
                 "t": "p",
-                "x": "La medida llega cuando Ottawa aún carece de protecciones de derechos de autor modernizadas frente al entrenamiento no autorizado de IA; la estrategia federal de IA presentada en junio no abordó los derechos de autor."
+                "x": "Chakrabarty lo ha negado en una declaración jurada. Pero los demandantes no se han opuesto a la moción de la IA, y el artículo de Chakrabarty ha quedado fuera de las pruebas presentadas."
+              },
+              {
+                "t": "p",
+                "x": "Los traductores, bajo presión: en Fráncfort, la encuesta de 2026 del Consejo Europeo de Asociaciones de Traductores Literarios (CEATL), con 1,785 encuestados, halló que el 77% expresa actitudes negativas hacia la IA generativa en el sector y que más de un tercio ha pensado en dejar su profesión. El 30 por ciento señaló una caída en los encargos, que atribuyó al uso creciente de la IA."
               }
             ]
           }
@@ -637,141 +707,141 @@
       }
     },
     {
-      "id": "books-meta-terms-ai-training",
+      "id": "books-novelcrafter-gemini-argon",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Meta, 상업 약관서\nAI 학습 조항 삭제",
-      "body": "출판계 반발에 Meta가 새 상업 약관의 허용 용도에서 'train'을 뺐다.",
-      "mini_headline": "Meta, AI 학습 조항 철회",
+      "headline": "Gemini Argon용\n글쓰기 프롬프트 실험",
+      "body": "Novelcrafter가 Google Gemini Argon용 프롬프트를 시험한다.",
+      "mini_headline": "Gemini Argon 글쓰기 프롬프트",
       "tool": "Books",
-      "source": "Jane Friedman",
-      "url": "https://janefriedman.com/new-meta-commercial-terms-might-have-granted-it-ai-training-rights-until-it-changed-course/",
+      "source": "Novelcrafter (YouTube)",
+      "url": "https://www.youtube.com/watch?v=eLQESMPS8Bc",
       "accent": "#7928ca",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "새 상업 약관대로라면 Meta에 AI 학습 권리가 생길 수도 있었다. 하지만 Meta는 방향을 틀었다."
+            "t": "video",
+            "yt": "eLQESMPS8Bc"
           },
           {
             "t": "p",
-            "x": "출판계가 반발하자 Meta는 상업 약관을 고쳐 허용 용도에서 train이라는 단어를 지웠다."
+            "x": "Gemini Argon용 글쓰기 프롬프트 만들기 - Novelcrafter Live."
           },
           {
             "t": "p",
-            "x": "기사 전문은 Jane Friedman 뉴스레터 유료 구독자만 읽을 수 있다."
+            "x": "나는 Gemini Argon에 푹 빠졌다... 과학 용어 같은 이름 때문만은 아니다 ;) 이 모델을 붙잡고 프롬프트를 어떻게 써야 하는지 찾아보려 한다. 시행착오야 좀 있겠지만 같이 즐겨 보자!"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Meta drops AI training\nfrom its commercial terms",
-          "body": "After publisher outcry, Meta changed its new commercial terms to remove the word 'train' from permitted uses.",
-          "mini_headline": "Meta drops\nAI training terms",
+          "headline": "Novelcrafter tests writing\nprompts for Gemini Argon",
+          "body": "In a live session, Novelcrafter works out by trial and error how to write a prompt for Google's Gemini Argon.",
+          "mini_headline": "Prompting Gemini\nArgon for writing",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "New Meta commercial terms might have granted it AI training rights, until it changed course."
+                "t": "video",
+                "yt": "eLQESMPS8Bc"
               },
               {
                 "t": "p",
-                "x": "After publisher outcry, Meta modified its commercial terms to remove the word train from permitted uses."
+                "x": "Making a Writing Prompt for Gemini Argon - Novelcrafter Live."
               },
               {
                 "t": "p",
-                "x": "The full article is available to paid subscribers of Jane Friedman's newsletter."
+                "x": "I'm in love with Gemini Argon... and it's not just for the science name ;) I'm going to spend some time with the model, working out how to prompt it. It'll all be a little bit of trial and error, but join me and have fun!"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Meta, 상업 약관서\nAI 학습 조항 삭제",
-          "body": "출판계 반발에 Meta가 새 상업 약관의 허용 용도에서 'train'을 뺐다.",
-          "mini_headline": "Meta, AI 학습 조항 철회",
+          "headline": "Gemini Argon용\n글쓰기 프롬프트 실험",
+          "body": "Novelcrafter가 Google Gemini Argon용 프롬프트를 시험한다.",
+          "mini_headline": "Gemini Argon 글쓰기 프롬프트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "새 상업 약관대로라면 Meta에 AI 학습 권리가 생길 수도 있었다. 하지만 Meta는 방향을 틀었다."
+                "t": "video",
+                "yt": "eLQESMPS8Bc"
               },
               {
                 "t": "p",
-                "x": "출판계가 반발하자 Meta는 상업 약관을 고쳐 허용 용도에서 train이라는 단어를 지웠다."
+                "x": "Gemini Argon용 글쓰기 프롬프트 만들기 - Novelcrafter Live."
               },
               {
                 "t": "p",
-                "x": "기사 전문은 Jane Friedman 뉴스레터 유료 구독자만 읽을 수 있다."
+                "x": "나는 Gemini Argon에 푹 빠졌다... 과학 용어 같은 이름 때문만은 아니다 ;) 이 모델을 붙잡고 프롬프트를 어떻게 써야 하는지 찾아보려 한다. 시행착오야 좀 있겠지만 같이 즐겨 보자!"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Meta、商用規約から\nAI学習を削除",
-          "body": "出版業界の反発を受け、Metaは新たな商用規約の許可用途から「train」を削除した。",
-          "mini_headline": "Meta、AI学習の条項を撤回",
+          "headline": "Gemini Argonの\n執筆プロンプトを探る",
+          "body": "Novelcrafterが配信でGoogleのGemini Argonのプロンプトを探る。",
+          "mini_headline": "Gemini Argonで執筆プロンプト",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Metaの新しい商用規約は、同社にAI学習の権利を与える可能性があったが、Metaは方針を転換した。"
+                "t": "video",
+                "yt": "eLQESMPS8Bc"
               },
               {
                 "t": "p",
-                "x": "出版業界の反発を受け、Metaは商用規約を修正し、許可される用途からtrainという語を削除した。"
+                "x": "Gemini Argon向けの執筆プロンプトを作る - Novelcrafter Live."
               },
               {
                 "t": "p",
-                "x": "記事全文はJane Friedmanのニュースレターの有料購読者向けに公開されている。"
+                "x": "Gemini Argonにすっかり惚れ込んでいる…理由は科学っぽい名前だけではない ;) このモデルとじっくり向き合い、プロンプトの書き方を探っていく。多少の試行錯誤はあるだろうが、一緒に楽しんでほしい！"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Meta从商业条款中\n删除AI训练",
-          "body": "因出版商强烈反对，Meta修改新商业条款，从允许用途中删去了“train”。",
-          "mini_headline": "Meta撤回AI训练条款",
+          "headline": "为Gemini Argon\n测试写作提示词",
+          "body": "Novelcrafter在直播中试错，为Google的Gemini Argon写提示词。",
+          "mini_headline": "Gemini Argon写作提示词",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Meta的新商业条款原本可能授予其AI训练权，直到Meta改变了方向。"
+                "t": "video",
+                "yt": "eLQESMPS8Bc"
               },
               {
                 "t": "p",
-                "x": "在出版商强烈反对后，Meta修改了商业条款，从允许用途中删除了train这个词。"
+                "x": "为Gemini Argon编写写作提示词 - Novelcrafter Live."
               },
               {
                 "t": "p",
-                "x": "全文仅向Jane Friedman通讯的付费订阅者开放。"
+                "x": "我爱上了Gemini Argon……而且不只是因为它那个科学味十足的名字 ;) 我会花些时间研究这个模型，摸索怎样给它写提示词。过程中难免要反复试错，但欢迎一起来玩！"
               }
             ]
           }
         },
         "es": {
-          "headline": "Meta retira el entrenamiento de\nIA de sus términos comerciales",
-          "body": "Ante las quejas editoriales, Meta quitó la palabra 'train' de los usos permitidos en sus nuevos términos comerciales.",
-          "mini_headline": "Meta retira los términos de entrenamiento de IA",
+          "headline": "Novelcrafter prueba prompts\npara Gemini Argon",
+          "body": "En una sesión en directo, Novelcrafter busca por ensayo y error cómo escribir un prompt para Gemini Argon de Google.",
+          "mini_headline": "Prompts de escritura para Gemini Argon",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Los nuevos términos comerciales de Meta podrían haberle otorgado derechos de entrenamiento de IA (AI training), hasta que cambió de rumbo."
+                "t": "video",
+                "yt": "eLQESMPS8Bc"
               },
               {
                 "t": "p",
-                "x": "Tras las quejas de las editoriales, Meta modificó sus términos comerciales para eliminar la palabra train de los usos permitidos."
+                "x": "Cómo crear un prompt de escritura para Gemini Argon - Novelcrafter Live."
               },
               {
                 "t": "p",
-                "x": "El artículo completo está disponible para los suscriptores de pago del boletín de Jane Friedman."
+                "x": "Me encanta Gemini Argon... y no solo por su nombre científico ;) Voy a pasar un rato con el modelo para averiguar cómo escribirle prompts. Será un poco de ensayo y error, ¡pero acompáñame y diviértete!"
               }
             ]
           }
@@ -779,89 +849,89 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Meta, 상업 약관서\nAI 학습 조항 삭제",
-          "body": "출판계 반발에 Meta가 새 상업 약관의 허용 용도에서 'train'을 뺐다.",
-          "mini_headline": "Meta, AI 학습 조항 철회",
+          "headline": "Gemini Argon용\n글쓰기 프롬프트 실험",
+          "body": "Novelcrafter가 Google Gemini Argon 프롬프트를 시험한다.",
+          "mini_headline": "Gemini Argon 글쓰기 프롬프트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Meta의 새 상업 약관은 Meta에 AI 학습 권리를 부여할 수도 있었지만, Meta는 방향을 바꿨다."
+                "t": "video",
+                "yt": "eLQESMPS8Bc"
               },
               {
                 "t": "p",
-                "x": "출판계의 반발이 일자 Meta는 상업 약관을 수정해 허용 용도에서 train이라는 단어를 삭제했다."
+                "x": "Gemini Argon용 글쓰기 프롬프트 만들기 - Novelcrafter Live."
               },
               {
                 "t": "p",
-                "x": "전체 기사는 Jane Friedman 뉴스레터의 유료 구독자만 볼 수 있다."
+                "x": "나는 Gemini Argon에 푹 빠졌다... 과학 용어 같은 이름 때문만은 아니다 ;) 이 모델과 시간을 보내며 프롬프트 쓰는 법을 찾아볼 생각이다. 시행착오가 조금 있겠지만, 함께 즐겨 보자!"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Meta、商用規約から\nAI学習を削除",
-          "body": "出版業界の反発を受け、Metaは新たな商用規約の許可用途から「train」を削除した。",
-          "mini_headline": "Meta、AI学習の条項を撤回",
+          "headline": "Gemini Argonの\n執筆プロンプトを探る",
+          "body": "Novelcrafterが配信でGoogleのGemini Argonのプロンプトを探る。",
+          "mini_headline": "Gemini Argonで執筆プロンプト",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Metaの新しい商用規約は、同社にAI学習の権利を与える可能性があったが、Metaは方針を転換した。"
+                "t": "video",
+                "yt": "eLQESMPS8Bc"
               },
               {
                 "t": "p",
-                "x": "出版業界の反発を受け、Metaは商用規約を修正し、許可される用途からtrainという語を削除した。"
+                "x": "Gemini Argon向けの執筆プロンプトを作る - Novelcrafter Live."
               },
               {
                 "t": "p",
-                "x": "記事全文はJane Friedmanのニュースレターの有料購読者向けに公開されている。"
+                "x": "Gemini Argonにすっかり惚れ込んでいる…理由は科学っぽい名前だけではない ;) このモデルとじっくり向き合い、プロンプトの書き方を探っていく。多少の試行錯誤はあるだろうが、一緒に楽しんでほしい！"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Meta从商业条款中\n删除AI训练",
-          "body": "因出版商强烈反对，Meta修改新商业条款，从允许用途中删去了“train”。",
-          "mini_headline": "Meta撤回AI训练条款",
+          "headline": "为Gemini Argon\n测试写作提示词",
+          "body": "Novelcrafter在直播中试错，为Google的Gemini Argon写提示词。",
+          "mini_headline": "Gemini Argon写作提示词",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Meta的新商业条款原本可能授予其AI训练权，直到Meta改变了方向。"
+                "t": "video",
+                "yt": "eLQESMPS8Bc"
               },
               {
                 "t": "p",
-                "x": "在出版商强烈反对后，Meta修改了商业条款，从允许用途中删除了train这个词。"
+                "x": "为Gemini Argon编写写作提示词 - Novelcrafter Live."
               },
               {
                 "t": "p",
-                "x": "全文仅向Jane Friedman通讯的付费订阅者开放。"
+                "x": "我爱上了Gemini Argon……而且不只是因为它那个科学味十足的名字 ;) 我会花些时间研究这个模型，摸索怎样给它写提示词。过程中难免要反复试错，但欢迎一起来玩！"
               }
             ]
           }
         },
         "es": {
-          "headline": "Meta retira el entrenamiento de\nIA de sus términos comerciales",
-          "body": "Ante las quejas editoriales, Meta quitó la palabra 'train' de los usos permitidos en sus nuevos términos comerciales.",
-          "mini_headline": "Meta retira los términos de entrenamiento de IA",
+          "headline": "Novelcrafter prueba prompts\npara Gemini Argon",
+          "body": "En una sesión en directo, Novelcrafter busca por ensayo y error cómo escribir un prompt para Gemini Argon de Google.",
+          "mini_headline": "Prompts de escritura para Gemini Argon",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Los nuevos términos comerciales de Meta podrían haberle otorgado derechos de entrenamiento de IA (AI training), hasta que cambió de rumbo."
+                "t": "video",
+                "yt": "eLQESMPS8Bc"
               },
               {
                 "t": "p",
-                "x": "Tras las quejas de las editoriales, Meta modificó sus términos comerciales para eliminar la palabra train de los usos permitidos."
+                "x": "Cómo crear un prompt de escritura para Gemini Argon - Novelcrafter Live."
               },
               {
                 "t": "p",
-                "x": "El artículo completo está disponible para los suscriptores de pago del boletín de Jane Friedman."
+                "x": "Me encanta Gemini Argon... y no solo por su nombre científico ;) Voy a pasar un rato con el modelo para averiguar cómo escribirle prompts. Será un poco de ensayo y error, ¡pero acompáñame y diviértete!"
               }
             ]
           }
@@ -869,165 +939,267 @@
       }
     },
     {
-      "id": "books-pla-microsoft-ai-sessions",
+      "id": "books-ai-signal-noise",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "PLA·Microsoft\nAI 교육 협력",
-      "body": "PLA와 Microsoft가 도서관 직원과 이용자에게 무료 AI 교육을 연다.",
-      "mini_headline": "도서관과 Microsoft, AI 교육",
+      "headline": "출판사가 지금 대응할\nAI 신호는 무엇인가",
+      "body": "한 기고문은 최근 AI 동향을 당장 대응할 것과 맥락, 날씨로 나눠 본다.",
+      "mini_headline": "출판사의 AI 신호 vs. 소음",
       "tool": "Books",
-      "source": "Publishers Weekly",
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/101589-pla-partners-with-microsoft-on-library-ai-info-sessions.html",
+      "source": "The Scholarly Kitchen",
+      "url": "https://scholarlykitchen.sspnet.org/2026/10/22/guest-post-all-this-ai-signal-and-noise-what-deserves-action-now/",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "Silverchair CEO Will Schweitzer는 2월 3일을 짚는다. 그날 Anthropic이 Claude용 법률 플러그인(plug-in)을 내놓았다. 학술 출판계에 달라진 건 없었는데도 장 마감 무렵 RELX는 14%, Thomson Reuters는 약 18%, Wolters Kluwer는 약 13% 떨어졌다."
+          },
+          {
             "t": "img",
-            "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132331-1.JPG"
+            "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/SC-Eaton-Event-Preview-541.jpg",
+            "cap": "Silverchair Platform Strategies 2026 행사에서 연설하는 Will Schweitzer"
           },
           {
             "t": "p",
-            "x": "공공도서관협회(Public Library Association)가 Microsoft와 손잡고 무료 AI 역량 사업을 펼친다. “Building AI Skills and Agency Through Libraries”(도서관을 통한 AI 역량과 주체성 함양)는 웨비나와 지역사회 실습 세션을 묶은 프로그램으로, 도서관 직원과 이용자 모두 참여할 수 있다. 웨비나는 모두 네 차례이고 첫 순서인 “The AI-Ready Public Library”는 십이월 초에 열린다."
+            "x": "글의 출발점은 9월 23일 워싱턴 DC에서 열린 Platform Strategies에서 그가 한 환영사다. 틀은 Wendy Queen에게서 빌렸다. 어떤 신호가 지금 움직일 만하고, 어떤 것이 맥락이며, 어떤 것이 날씨인지 가르는 방식이다."
+          },
+          {
+            "t": "img",
+            "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Wendy-Queen-survey-graph.png"
           },
           {
             "t": "p",
-            "x": "이 사업은 PLA의 Transformative Technology 태스크포스가 Microsoft Elevate와 함께 만들었다. Microsoft Elevate는 비상업 영역의 AI 리터러시를 맡으려고 출범한 부문이다. 이 부문을 이끄는 Justin Spelhaug는 안전을 강조하면서 생각을 AI에 떠넘기는 ‘인지적 오프로딩(cognitive offloading)’이 진정한 학습을 가로막을 위험도 짚었다."
+            "x": "현장 투표에서는 AI 매개(AI-mediated) 연구·발견 쪽 관심이 14.3%에서 22.9%로 늘었다. 연구 진실성과 AI 콘텐츠 쪽은 17.1%에서 5.7%로 줄었다."
           },
           {
             "t": "p",
-            "x": "PLA 회원들은 그동안 직원 교육, 지역사회 교육, 실용적인 AI 정책 사례를 요청해 왔다. New York Public Library 소속으로 PLA 회장을 지낸 Brandy McNeil은 “도서관으로서 우리는 사람 사서를 두는 데 힘쓰고 있다”며 “이는 사람들이 AI와 관련해 자신의 주체성을 어떻게 발휘할지 알도록 하는 일”이라고 말했다. “우리는 Microsoft나 그들의 도구 도입을 밀어붙이는 것이 아니다”라는 말도 덧붙였다."
+            "x": "6월부터 8월까지 한 출판사 사이트에 들어온 콘텐츠 요청 가운데 사람일 가능성이 높다고 판정된 비율은 41%뿐이었다. LibLynx에 따르면 학술 출판사 서른 곳가량에 들어온 접근 요청 5,000만(50 million) 건 가운데 36%가 봇이었다."
+          },
+          {
+            "t": "img",
+            "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/PS26-reader-change-graphs.png"
+          },
+          {
+            "t": "p",
+            "x": "Anthropic의 커넥터 디렉터리에는 커넥터 862개가 올라 있지만 학회 출판사는 하나도 없다. 그가 연말 전까지 권하는 일은 이렇다. 이번 분기에 비인간 트래픽을 재 보고, 에이전트 도달성 실험을 하나 돌려 보고, 움직이는 비용만큼 기다리는 비용도 따져 보라는 것이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Public Library Association\nteams with Microsoft on AI",
-          "body": "PLA and Microsoft will offer free AI webinars and practice sessions for library staff and patrons, starting in December.",
-          "mini_headline": "Libraries and Microsoft\nteach AI",
+          "headline": "Which AI signals deserve\npublishers' action now",
+          "body": "A guest post sorts current AI developments into what needs action now, what is context, and what is weather.",
+          "mini_headline": "AI signal vs.\nnoise for publishers",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Will Schweitzer, CEO of Silverchair, notes that on February 3 Anthropic released a legal plug-in for Claude; nothing happened in scholarly publishing, yet by the close of trading RELX had fallen 14%, Thomson Reuters roughly 18%, and Wolters Kluwer about 13%."
+              },
+              {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132331-1.JPG"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/SC-Eaton-Event-Preview-541.jpg",
+                "cap": "Will Schweitzer addressing the Silverchair Platform Strategies 2026 meeting"
               },
               {
                 "t": "p",
-                "x": "The Public Library Association is collaborating with Microsoft on a free AI skills initiative. “Building AI Skills and Agency Through Libraries” will combine webinars with community practice sessions designed for library staffers as well as patrons. The first of four webinars, “The AI-Ready Public Library,” will take place in early December."
+                "x": "The post began as his welcome address at Platform Strategies in Washington, DC on September 23. The framing is Wendy Queen's: which signals deserve action now, which are context, and which are weather."
+              },
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Wendy-Queen-survey-graph.png"
               },
               {
                 "t": "p",
-                "x": "The initiative was developed by PLA’s Transformative Technology task force with Microsoft Elevate, a division launched to address AI literacy in non-commercial contexts. Its president, Justin Spelhaug, stressed safety and the risk of “cognitive offloading” to AI, which interferes with genuine learning."
+                "x": "Room polls showed attention moving toward AI-mediated research and discovery, from 14.3% to 22.9%, and away from research integrity and AI content, from 17.1% to 5.7%."
               },
               {
                 "t": "p",
-                "x": "PLA members had asked for staff training, community education and examples of practical AI policies. “As libraries, we are committed to having human librarians,” said past PLA president Brandy McNeil of the New York Public Library. “This is about ensuring that people know how to exercise their agency when it comes to AI.” She added: “We’re not pushing the adoption of Microsoft or their tools.”"
+                "x": "On one publisher site, only 41% of content requests scored as likely human between June and August. LibLynx found 36% of 50 million access requests across around thirty scholarly publishers were robotic."
+              },
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/PS26-reader-change-graphs.png"
+              },
+              {
+                "t": "p",
+                "x": "Anthropic's connector directory lists 862 connectors, but no society publisher. His advice before year's end: measure non-human traffic this quarter, run one agentic reachability experiment, and price the cost of waiting alongside the cost of acting."
               }
             ]
           }
         },
         "ko": {
-          "headline": "PLA·Microsoft\nAI 교육 협력",
-          "body": "PLA와 Microsoft가 도서관 직원과 이용자에게 무료 AI 교육을 연다.",
-          "mini_headline": "도서관과 Microsoft, AI 교육",
+          "headline": "출판사가 지금 대응할\nAI 신호는 무엇인가",
+          "body": "한 기고문은 최근 AI 동향을 당장 대응할 것과 맥락, 날씨로 나눠 본다.",
+          "mini_headline": "출판사의 AI 신호 vs. 소음",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Silverchair CEO Will Schweitzer는 2월 3일을 짚는다. 그날 Anthropic이 Claude용 법률 플러그인(plug-in)을 내놓았다. 학술 출판계에 달라진 건 없었는데도 장 마감 무렵 RELX는 14%, Thomson Reuters는 약 18%, Wolters Kluwer는 약 13% 떨어졌다."
+              },
+              {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132331-1.JPG"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/SC-Eaton-Event-Preview-541.jpg",
+                "cap": "Silverchair Platform Strategies 2026 행사에서 연설하는 Will Schweitzer"
               },
               {
                 "t": "p",
-                "x": "공공도서관협회(Public Library Association)가 Microsoft와 손잡고 무료 AI 역량 사업을 펼친다. “Building AI Skills and Agency Through Libraries”(도서관을 통한 AI 역량과 주체성 함양)는 웨비나와 지역사회 실습 세션을 묶은 프로그램으로, 도서관 직원과 이용자 모두 참여할 수 있다. 웨비나는 모두 네 차례이고 첫 순서인 “The AI-Ready Public Library”는 십이월 초에 열린다."
+                "x": "글의 출발점은 9월 23일 워싱턴 DC에서 열린 Platform Strategies에서 그가 한 환영사다. 틀은 Wendy Queen에게서 빌렸다. 어떤 신호가 지금 움직일 만하고, 어떤 것이 맥락이며, 어떤 것이 날씨인지 가르는 방식이다."
+              },
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Wendy-Queen-survey-graph.png"
               },
               {
                 "t": "p",
-                "x": "이 사업은 PLA의 Transformative Technology 태스크포스가 Microsoft Elevate와 함께 만들었다. Microsoft Elevate는 비상업 영역의 AI 리터러시를 맡으려고 출범한 부문이다. 이 부문을 이끄는 Justin Spelhaug는 안전을 강조하면서 생각을 AI에 떠넘기는 ‘인지적 오프로딩(cognitive offloading)’이 진정한 학습을 가로막을 위험도 짚었다."
+                "x": "현장 투표에서는 AI 매개(AI-mediated) 연구·발견 쪽 관심이 14.3%에서 22.9%로 늘었다. 연구 진실성과 AI 콘텐츠 쪽은 17.1%에서 5.7%로 줄었다."
               },
               {
                 "t": "p",
-                "x": "PLA 회원들은 그동안 직원 교육, 지역사회 교육, 실용적인 AI 정책 사례를 요청해 왔다. New York Public Library 소속으로 PLA 회장을 지낸 Brandy McNeil은 “도서관으로서 우리는 사람 사서를 두는 데 힘쓰고 있다”며 “이는 사람들이 AI와 관련해 자신의 주체성을 어떻게 발휘할지 알도록 하는 일”이라고 말했다. “우리는 Microsoft나 그들의 도구 도입을 밀어붙이는 것이 아니다”라는 말도 덧붙였다."
+                "x": "6월부터 8월까지 한 출판사 사이트에 들어온 콘텐츠 요청 가운데 사람일 가능성이 높다고 판정된 비율은 41%뿐이었다. LibLynx에 따르면 학술 출판사 서른 곳가량에 들어온 접근 요청 5,000만(50 million) 건 가운데 36%가 봇이었다."
+              },
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/PS26-reader-change-graphs.png"
+              },
+              {
+                "t": "p",
+                "x": "Anthropic의 커넥터 디렉터리에는 커넥터 862개가 올라 있지만 학회 출판사는 하나도 없다. 그가 연말 전까지 권하는 일은 이렇다. 이번 분기에 비인간 트래픽을 재 보고, 에이전트 도달성 실험을 하나 돌려 보고, 움직이는 비용만큼 기다리는 비용도 따져 보라는 것이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "PLAがMicrosoftと\nAI教育で連携",
-          "body": "PLAとMicrosoftは図書館職員と利用者向けに無料のAI講座を開く。",
-          "mini_headline": "図書館とMicrosoftがAIを教える",
+          "headline": "出版社がいま動くべき\nAIシグナルとは",
+          "body": "寄稿記事が最新のAI動向を、今すぐ動くべきもの、文脈、天気に仕分けている。",
+          "mini_headline": "出版社のAI信号 vs. 雑音",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "SilverchairのCEO、Will Schweitzerは、2月3日にAnthropicがClaude向けの法務プラグイン（plug-in）を公開したと指摘する。学術出版では何も起きなかったが、取引終了までにRELXは14%、Thomson Reutersは約18%、Wolters Kluwerは約13%下落した。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132331-1.JPG"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/SC-Eaton-Event-Preview-541.jpg",
+                "cap": "Silverchair Platform Strategies 2026で講演するWill Schweitzer"
               },
               {
                 "t": "p",
-                "x": "公共図書館協会（Public Library Association）は、無料のAIスキル向上の取り組みでMicrosoftと協力している。「Building AI Skills and Agency Through Libraries」は、ウェビナーと地域での実践セッションを組み合わせ、図書館職員と利用者の双方を対象とする。シリーズ初回のウェビナー「The AI-Ready Public Library」はDecember上旬に開かれる。"
+                "x": "この記事は、9月23日にワシントンDCで開かれたPlatform Strategiesでの彼の歓迎あいさつがもとになっている。枠組みはWendy Queenによるもので、どのシグナルが今すぐ行動に値し、どれが文脈で、どれが天気なのかを見分ける。"
+              },
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Wendy-Queen-survey-graph.png"
               },
               {
                 "t": "p",
-                "x": "この取り組みは、PLAのTransformative Technologyタスクフォースが、非営利の文脈でAIリテラシーに取り組むために設立されたMicrosoftの部門Microsoft Elevateと共同で開発した。同部門のプレジデントJustin Spelhaugは、安全性と、真の学びを妨げるAIへの「認知的オフローディング（cognitive offloading）」のリスクを強調した。"
+                "x": "会場での投票では、関心がAIを介した（AI-mediated）研究と発見へと14.3%から22.9%に移り、研究公正とAIコンテンツからは17.1%から5.7%に離れた。"
               },
               {
                 "t": "p",
-                "x": "PLAの会員は、職員研修、地域向け教育、実用的なAIポリシーの事例を求めていた。New York Public Libraryに所属するPLA元会長のBrandy McNeilは「図書館として、私たちは人間の司書を置くことに力を注いでいる」と述べ、「これは、AIに関して人々が自らの主体性をどう発揮すればよいかを知ってもらうためのものだ」と語った。さらに「私たちはMicrosoftやそのツールの導入を推し進めているわけではない」と付け加えた。"
+                "x": "ある出版社のサイトでは、6月から8月にかけて人間による可能性が高いと判定されたコンテンツ要求は41%にとどまった。LibLynxは、約三十の学術出版社に寄せられたアクセス要求5,000万件（50 million）のうち36%がボットだったと明らかにした。"
+              },
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/PS26-reader-change-graphs.png"
+              },
+              {
+                "t": "p",
+                "x": "Anthropicのコネクタ一覧には862のコネクタが載っているが、学会系出版社は一つもない。年内に向けた彼の助言は、今四半期に人間以外のトラフィックを測ること、エージェントからの到達性を確かめる実験を一つ行うこと、そして行動するコストと並べて待つコストを見積もることだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "PLA携手Microsoft\n推广AI技能",
-          "body": "PLA与Microsoft将为图书馆员工和读者提供免费AI网络研讨会及实践课程。",
-          "mini_headline": "图书馆与Microsoft合作教AI",
+          "headline": "哪些AI信号\n值得出版商立即行动",
+          "body": "一篇客座文章把当前AI动态分为需立即行动的、属于背景的和只是天气的三类。",
+          "mini_headline": "出版商的AI信号 vs. 噪音",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Silverchair CEO Will Schweitzer指出，2月3日Anthropic发布了Claude的法律插件（plug-in）；学术出版领域并未发生任何事，但到收盘时，RELX下跌14%，Thomson Reuters下跌约18%，Wolters Kluwer下跌约13%。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132331-1.JPG"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/SC-Eaton-Event-Preview-541.jpg",
+                "cap": "Will Schweitzer在Silverchair Platform Strategies 2026会议上致辞"
               },
               {
                 "t": "p",
-                "x": "公共图书馆协会（Public Library Association）正与Microsoft合作推出免费的AI技能计划。“Building AI Skills and Agency Through Libraries”将网络研讨会与社区实践课程相结合，面向图书馆员工和读者。系列首场网络研讨会“The AI-Ready Public Library”将于December上旬举行。"
+                "x": "这篇文章源自他9月23日在华盛顿DC举行的Platform Strategies上的欢迎致辞。框架来自Wendy Queen：哪些信号值得立即行动，哪些属于背景，哪些只是天气。"
+              },
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Wendy-Queen-survey-graph.png"
               },
               {
                 "t": "p",
-                "x": "该计划由PLA的Transformative Technology工作组与Microsoft Elevate共同开发，后者是Microsoft为在非商业场景中推动AI素养而设立的部门。其总裁Justin Spelhaug强调了安全问题，以及向AI进行“认知卸载”（cognitive offloading）而妨碍真正学习的风险。"
+                "x": "现场投票显示，关注点正转向AI介导（AI-mediated）的研究与发现，从14.3%升至22.9%；而对研究诚信与AI内容的关注则从17.1%降至5.7%。"
               },
               {
                 "t": "p",
-                "x": "PLA会员此前希望获得员工培训、社区教育以及实用AI政策的范例。来自New York Public Library的PLA前任主席Brandy McNeil表示：“作为图书馆，我们致力于保留人类馆员。”“这是为了确保人们知道在AI面前如何行使自己的主动权。”她还说：“我们并不是在推动采用Microsoft或其工具。”"
+                "x": "在一家出版商的网站上，6月至8月间只有41%的内容请求被判定为可能来自真人。LibLynx发现，约三十家学术出版商收到的5000万次（50 million）访问请求中，有36%来自机器人。"
+              },
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/PS26-reader-change-graphs.png"
+              },
+              {
+                "t": "p",
+                "x": "Anthropic的连接器目录列出了862个连接器，却没有一家学会出版商。他对年底前的建议是：本季度测量非人类流量，开展一项智能体可达性实验，并在计算行动成本的同时估算等待的成本。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La Public Library Association\nse alía con Microsoft en IA",
-          "body": "La PLA y Microsoft ofrecerán seminarios web y prácticas gratuitas de IA al personal y usuarios de bibliotecas.",
-          "mini_headline": "Bibliotecas y Microsoft enseñan IA",
+          "headline": "Qué señales de IA exigen hoy\nque las editoriales actúen",
+          "body": "Un artículo invitado clasifica los avances de la IA en lo que exige actuar ya, lo que es contexto y lo que es clima.",
+          "mini_headline": "Señal vs. ruido de la IA para editoriales",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Will Schweitzer, CEO de Silverchair, señala que el 3 de febrero Anthropic lanzó un plug-in legal para Claude; en la edición académica no ocurrió nada, pero al cierre de la sesión RELX había caído un 14%, Thomson Reuters cerca de un 18% y Wolters Kluwer alrededor de un 13%."
+              },
+              {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132331-1.JPG"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/SC-Eaton-Event-Preview-541.jpg",
+                "cap": "Will Schweitzer en la reunión Silverchair Platform Strategies 2026"
               },
               {
                 "t": "p",
-                "x": "La Public Library Association colabora con Microsoft en una iniciativa gratuita de habilidades de IA. «Building AI Skills and Agency Through Libraries» combinará seminarios web con sesiones de práctica comunitaria pensadas tanto para el personal de las bibliotecas como para los usuarios. El primero de cuatro seminarios web, «The AI-Ready Public Library», se celebrará a principios de diciembre."
+                "x": "El artículo nació como su discurso de bienvenida en Platform Strategies, en Washington, DC, el 23 de septiembre. El marco es de Wendy Queen: qué señales merecen actuar ya, cuáles son contexto y cuáles son clima."
+              },
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Wendy-Queen-survey-graph.png"
               },
               {
                 "t": "p",
-                "x": "La iniciativa fue desarrollada por el grupo de trabajo Transformative Technology de la PLA junto con Microsoft Elevate, una división creada para abordar la alfabetización en IA en contextos no comerciales. Su presidente, Justin Spelhaug, subrayó la seguridad y el riesgo de la «descarga cognitiva» (cognitive offloading) en la IA, que interfiere con el aprendizaje genuino."
+                "x": "Las encuestas en la sala mostraron que la atención se desplaza hacia la investigación y el descubrimiento mediados por IA (AI-mediated), del 14.3% al 22.9%, y se aleja de la integridad de la investigación y el contenido de IA, del 17.1% al 5.7%."
               },
               {
                 "t": "p",
-                "x": "Los miembros de la PLA habían pedido formación para el personal, educación comunitaria y ejemplos de políticas prácticas de IA. «Como bibliotecas, estamos comprometidos con tener bibliotecarios humanos», dijo Brandy McNeil, de la New York Public Library y expresidenta de la PLA. «Se trata de garantizar que las personas sepan cómo ejercer su autonomía en lo que respecta a la IA». Y añadió: «No estamos impulsando la adopción de Microsoft ni de sus herramientas»."
+                "x": "En el sitio de una editorial, solo el 41% de las solicitudes de contenido se calificó como probablemente humano entre junio y agosto. LibLynx halló que el 36% de 50 millones de solicitudes de acceso en una treintena de editoriales académicas eran robóticas."
+              },
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/PS26-reader-change-graphs.png"
+              },
+              {
+                "t": "p",
+                "x": "El directorio de conectores de Anthropic incluye 862 conectores, pero ninguna editorial de sociedad científica. Su consejo antes de fin de año: medir el tráfico no humano este trimestre, hacer un experimento de alcance para agentes y calcular el costo de esperar junto al costo de actuar."
               }
             ]
           }
@@ -1035,105 +1207,173 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "PLA·Microsoft\nAI 교육 협력",
-          "body": "PLA와 Microsoft가 도서관 직원과 이용자를 위한 무료 AI 교육을 연다.",
-          "mini_headline": "도서관과 Microsoft, AI 교육",
+          "headline": "출판사가 지금 대응할\nAI 신호는 무엇인가",
+          "body": "한 기고문이 최근 AI 동향을 당장 대응할 것, 맥락, 날씨 같은 것으로 나눈다.",
+          "mini_headline": "출판사의 AI 신호 vs. 소음",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Silverchair CEO Will Schweitzer는 2월 3일 Anthropic이 Claude용 법률 플러그인(plug-in)을 내놓았다고 짚는다. 학술 출판계에는 아무 일도 없었지만, 장 마감 무렵 RELX는 14%, Thomson Reuters는 약 18%, Wolters Kluwer는 약 13% 떨어졌다."
+              },
+              {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132331-1.JPG"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/SC-Eaton-Event-Preview-541.jpg",
+                "cap": "Silverchair Platform Strategies 2026 행사에서 연설하는 Will Schweitzer"
               },
               {
                 "t": "p",
-                "x": "공공도서관협회(Public Library Association)가 Microsoft와 손잡고 무료 AI 역량 사업을 진행한다. “Building AI Skills and Agency Through Libraries”(도서관을 통한 AI 역량과 주체성 함양)는 웨비나와 지역사회 실습 세션을 결합한 프로그램으로, 도서관 직원과 이용자 모두를 대상으로 한다. 네 차례 웨비나 가운데 첫 순서인 “The AI-Ready Public Library”는 십이월 초에 열린다."
+                "x": "이 글은 9월 23일 워싱턴 DC에서 열린 Platform Strategies에서 그가 한 환영사에서 출발했다. 틀은 Wendy Queen의 것으로, 어떤 신호가 지금 행동할 가치가 있고, 어떤 것이 맥락이며, 어떤 것이 날씨인지를 가른다."
+              },
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Wendy-Queen-survey-graph.png"
               },
               {
                 "t": "p",
-                "x": "이 사업은 PLA의 Transformative Technology 태스크포스가 Microsoft Elevate와 함께 개발했다. Microsoft Elevate는 비상업적 맥락의 AI 리터러시를 다루기 위해 출범한 부문이다. 이 부문의 Justin Spelhaug 대표는 안전, 그리고 진정한 학습을 방해하는 AI로의 ‘인지적 오프로딩(cognitive offloading)’ 위험을 강조했다."
+                "x": "현장 투표에서 관심은 AI 매개(AI-mediated) 연구·발견 쪽으로 14.3%에서 22.9%로 옮겨 갔고, 연구 진실성과 AI 콘텐츠 쪽은 17.1%에서 5.7%로 줄었다."
               },
               {
                 "t": "p",
-                "x": "PLA 회원들은 직원 교육, 지역사회 교육, 실용적인 AI 정책 사례를 요청해 왔다. New York Public Library 소속으로 PLA 회장을 지낸 Brandy McNeil은 “도서관으로서 우리는 사람 사서를 두는 데 힘쓰고 있다”며 “이는 사람들이 AI와 관련해 자신의 주체성을 어떻게 발휘할지 알도록 하는 일”이라고 말했다. 그는 “우리는 Microsoft나 그들의 도구 도입을 밀어붙이는 것이 아니다”라고 덧붙였다."
+                "x": "한 출판사 사이트에서는 6월부터 8월까지 콘텐츠 요청 가운데 사람일 가능성이 높다고 판정된 비율이 41%에 그쳤다. LibLynx는 학술 출판사 서른 곳가량에 들어온 접근 요청 5,000만(50 million) 건 가운데 36%가 봇이었다고 밝혔다."
+              },
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/PS26-reader-change-graphs.png"
+              },
+              {
+                "t": "p",
+                "x": "Anthropic의 커넥터 디렉터리에는 커넥터 862개가 올라 있지만 학회 출판사는 하나도 없다. 연말 전에 그가 권하는 일은 이번 분기에 비인간 트래픽을 측정하고, 에이전트 도달성 실험을 하나 해 보고, 행동하는 비용과 함께 기다리는 비용도 따져 보는 것이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "PLAがMicrosoftと\nAI教育で連携",
-          "body": "PLAとMicrosoftは図書館職員と利用者向けに無料のAI講座を開く。",
-          "mini_headline": "図書館とMicrosoftがAIを教える",
+          "headline": "出版社がいま動くべき\nAIシグナルとは",
+          "body": "寄稿記事が最新のAI動向を、今すぐ動くべきもの、文脈、天気に仕分けている。",
+          "mini_headline": "出版社のAI信号 vs. 雑音",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "SilverchairのCEO、Will Schweitzerは、2月3日にAnthropicがClaude向けの法務プラグイン（plug-in）を公開したと指摘する。学術出版では何も起きなかったが、取引終了までにRELXは14%、Thomson Reutersは約18%、Wolters Kluwerは約13%下落した。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132331-1.JPG"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/SC-Eaton-Event-Preview-541.jpg",
+                "cap": "Silverchair Platform Strategies 2026で講演するWill Schweitzer"
               },
               {
                 "t": "p",
-                "x": "公共図書館協会（Public Library Association）は、無料のAIスキル向上の取り組みでMicrosoftと協力している。「Building AI Skills and Agency Through Libraries」は、ウェビナーと地域での実践セッションを組み合わせ、図書館職員と利用者の双方を対象とする。シリーズ初回のウェビナー「The AI-Ready Public Library」はDecember上旬に開かれる。"
+                "x": "この記事は、9月23日にワシントンDCで開かれたPlatform Strategiesでの彼の歓迎あいさつがもとになっている。枠組みはWendy Queenによるもので、どのシグナルが今すぐ行動に値し、どれが文脈で、どれが天気なのかを見分ける。"
+              },
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Wendy-Queen-survey-graph.png"
               },
               {
                 "t": "p",
-                "x": "この取り組みは、PLAのTransformative Technologyタスクフォースが、非営利の文脈でAIリテラシーに取り組むために設立されたMicrosoftの部門Microsoft Elevateと共同で開発した。同部門のプレジデントJustin Spelhaugは、安全性と、真の学びを妨げるAIへの「認知的オフローディング（cognitive offloading）」のリスクを強調した。"
+                "x": "会場での投票では、関心がAIを介した（AI-mediated）研究と発見へと14.3%から22.9%に移り、研究公正とAIコンテンツからは17.1%から5.7%に離れた。"
               },
               {
                 "t": "p",
-                "x": "PLAの会員は、職員研修、地域向け教育、実用的なAIポリシーの事例を求めていた。New York Public Libraryに所属するPLA元会長のBrandy McNeilは「図書館として、私たちは人間の司書を置くことに力を注いでいる」と述べ、「これは、AIに関して人々が自らの主体性をどう発揮すればよいかを知ってもらうためのものだ」と語った。さらに「私たちはMicrosoftやそのツールの導入を推し進めているわけではない」と付け加えた。"
+                "x": "ある出版社のサイトでは、6月から8月にかけて人間による可能性が高いと判定されたコンテンツ要求は41%にとどまった。LibLynxは、約三十の学術出版社に寄せられたアクセス要求5,000万件（50 million）のうち36%がボットだったと明らかにした。"
+              },
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/PS26-reader-change-graphs.png"
+              },
+              {
+                "t": "p",
+                "x": "Anthropicのコネクタ一覧には862のコネクタが載っているが、学会系出版社は一つもない。年内に向けた彼の助言は、今四半期に人間以外のトラフィックを測ること、エージェントからの到達性を確かめる実験を一つ行うこと、そして行動するコストと並べて待つコストを見積もることだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "PLA携手Microsoft\n推广AI技能",
-          "body": "PLA与Microsoft将为图书馆员工和读者提供免费AI网络研讨会及实践课程。",
-          "mini_headline": "图书馆与Microsoft合作教AI",
+          "headline": "哪些AI信号\n值得出版商立即行动",
+          "body": "一篇客座文章把当前AI动态分为需立即行动的、属于背景的和只是天气的三类。",
+          "mini_headline": "出版商的AI信号 vs. 噪音",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Silverchair CEO Will Schweitzer指出，2月3日Anthropic发布了Claude的法律插件（plug-in）；学术出版领域并未发生任何事，但到收盘时，RELX下跌14%，Thomson Reuters下跌约18%，Wolters Kluwer下跌约13%。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132331-1.JPG"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/SC-Eaton-Event-Preview-541.jpg",
+                "cap": "Will Schweitzer在Silverchair Platform Strategies 2026会议上致辞"
               },
               {
                 "t": "p",
-                "x": "公共图书馆协会（Public Library Association）正与Microsoft合作推出免费的AI技能计划。“Building AI Skills and Agency Through Libraries”将网络研讨会与社区实践课程相结合，面向图书馆员工和读者。系列首场网络研讨会“The AI-Ready Public Library”将于December上旬举行。"
+                "x": "这篇文章源自他9月23日在华盛顿DC举行的Platform Strategies上的欢迎致辞。框架来自Wendy Queen：哪些信号值得立即行动，哪些属于背景，哪些只是天气。"
+              },
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Wendy-Queen-survey-graph.png"
               },
               {
                 "t": "p",
-                "x": "该计划由PLA的Transformative Technology工作组与Microsoft Elevate共同开发，后者是Microsoft为在非商业场景中推动AI素养而设立的部门。其总裁Justin Spelhaug强调了安全问题，以及向AI进行“认知卸载”（cognitive offloading）而妨碍真正学习的风险。"
+                "x": "现场投票显示，关注点正转向AI介导（AI-mediated）的研究与发现，从14.3%升至22.9%；而对研究诚信与AI内容的关注则从17.1%降至5.7%。"
               },
               {
                 "t": "p",
-                "x": "PLA会员此前希望获得员工培训、社区教育以及实用AI政策的范例。来自New York Public Library的PLA前任主席Brandy McNeil表示：“作为图书馆，我们致力于保留人类馆员。”“这是为了确保人们知道在AI面前如何行使自己的主动权。”她还说：“我们并不是在推动采用Microsoft或其工具。”"
+                "x": "在一家出版商的网站上，6月至8月间只有41%的内容请求被判定为可能来自真人。LibLynx发现，约三十家学术出版商收到的5000万次（50 million）访问请求中，有36%来自机器人。"
+              },
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/PS26-reader-change-graphs.png"
+              },
+              {
+                "t": "p",
+                "x": "Anthropic的连接器目录列出了862个连接器，却没有一家学会出版商。他对年底前的建议是：本季度测量非人类流量，开展一项智能体可达性实验，并在计算行动成本的同时估算等待的成本。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La Public Library Association\nse alía con Microsoft en IA",
-          "body": "La PLA y Microsoft ofrecerán seminarios web y prácticas gratuitas de IA al personal y usuarios de bibliotecas.",
-          "mini_headline": "Bibliotecas y Microsoft enseñan IA",
+          "headline": "Qué señales de IA exigen hoy\nque las editoriales actúen",
+          "body": "Un artículo invitado clasifica los avances de la IA en lo que exige actuar ya, lo que es contexto y lo que es clima.",
+          "mini_headline": "Señal vs. ruido de la IA para editoriales",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Will Schweitzer, CEO de Silverchair, señala que el 3 de febrero Anthropic lanzó un plug-in legal para Claude; en la edición académica no ocurrió nada, pero al cierre de la sesión RELX había caído un 14%, Thomson Reuters cerca de un 18% y Wolters Kluwer alrededor de un 13%."
+              },
+              {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132331-1.JPG"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/SC-Eaton-Event-Preview-541.jpg",
+                "cap": "Will Schweitzer en la reunión Silverchair Platform Strategies 2026"
               },
               {
                 "t": "p",
-                "x": "La Public Library Association colabora con Microsoft en una iniciativa gratuita de habilidades de IA. «Building AI Skills and Agency Through Libraries» combinará seminarios web con sesiones de práctica comunitaria pensadas tanto para el personal de las bibliotecas como para los usuarios. El primero de cuatro seminarios web, «The AI-Ready Public Library», se celebrará a principios de diciembre."
+                "x": "El artículo nació como su discurso de bienvenida en Platform Strategies, en Washington, DC, el 23 de septiembre. El marco es de Wendy Queen: qué señales merecen actuar ya, cuáles son contexto y cuáles son clima."
+              },
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Wendy-Queen-survey-graph.png"
               },
               {
                 "t": "p",
-                "x": "La iniciativa fue desarrollada por el grupo de trabajo Transformative Technology de la PLA junto con Microsoft Elevate, una división creada para abordar la alfabetización en IA en contextos no comerciales. Su presidente, Justin Spelhaug, subrayó la seguridad y el riesgo de la «descarga cognitiva» (cognitive offloading) en la IA, que interfiere con el aprendizaje genuino."
+                "x": "Las encuestas en la sala mostraron que la atención se desplaza hacia la investigación y el descubrimiento mediados por IA (AI-mediated), del 14.3% al 22.9%, y se aleja de la integridad de la investigación y el contenido de IA, del 17.1% al 5.7%."
               },
               {
                 "t": "p",
-                "x": "Los miembros de la PLA habían pedido formación para el personal, educación comunitaria y ejemplos de políticas prácticas de IA. «Como bibliotecas, estamos comprometidos con tener bibliotecarios humanos», dijo Brandy McNeil, de la New York Public Library y expresidenta de la PLA. «Se trata de garantizar que las personas sepan cómo ejercer su autonomía en lo que respecta a la IA». Y añadió: «No estamos impulsando la adopción de Microsoft ni de sus herramientas»."
+                "x": "En el sitio de una editorial, solo el 41% de las solicitudes de contenido se calificó como probablemente humano entre junio y agosto. LibLynx halló que el 36% de 50 millones de solicitudes de acceso en una treintena de editoriales académicas eran robóticas."
+              },
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/PS26-reader-change-graphs.png"
+              },
+              {
+                "t": "p",
+                "x": "El directorio de conectores de Anthropic incluye 862 conectores, pero ninguna editorial de sociedad científica. Su consejo antes de fin de año: medir el tráfico no humano este trimestre, hacer un experimento de alcance para agentes y calcular el costo de esperar junto al costo de actuar."
               }
             ]
           }
@@ -1141,15 +1381,15 @@
       }
     },
     {
-      "id": "books-mosajaein-airoku-japan",
+      "id": "books-daegu-aidt",
       "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "모사재인, 일본에\nAI 웹소설 플랫폼 출시",
-      "body": "장르·배경·인물을 고르면 여러 AI 에이전트가 약 2분 만에 첫 화를 생성한다.",
-      "mini_headline": "모사재인, 일본 진출",
+      "headline": "대구 AI 교과서\n활용도 놓고 설전",
+      "body": "대구교육청이 AIDT에 수십억 원을 썼지만 실제 활용도를 놓고 공방이 인다.",
+      "mini_headline": "대구 AIDT 활용 설전",
       "tool": "Books",
-      "source": "한국경제TV",
-      "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610210108&t=RS",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261020136900053",
       "accent": "#eb367f",
       "motif": "swatch",
       "full": {
@@ -1157,269 +1397,377 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://img.wowtv.co.kr/nrcs/production/images/20261021/20261021_b501b3e7f14d4ed8b38f8ce91388387f.png"
+            "src": "https://img8.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102012040005100_P4.jpg",
+            "cap": "질의하는 백승아 의원"
           },
           {
             "t": "p",
-            "x": "인공지능(AI) 스타트업 모사재인이 일본 시장에 진출했다."
+            "x": "(대구=연합뉴스) 황수빈 기자 = 올해 대구교육청이 초중고교 인공지능 디지털교과서(AIDT) 보급을 위해 수십억 원의 구독료를 들였지만, 실제 수업에서 활용도가 떨어진다는 지적이 나왔다."
           },
           {
             "t": "p",
-            "x": "모사재인은 일본에서 개인 맞춤형 AI 웹소설 플랫폼 '아이로쿠(アイロク)'를 정식 출시했다고 21일 밝혔다."
+            "x": "더불어민주당 백승아 의원(비례대표)은 20일 부산시교육청에서 대구 등 6개 지역 교육청을 대상으로 열린 국회 교육위원회 국정감사에서 \"2025년 1학기에 비해 올해 AIDT 활용학교는 전국적으로 84.8%가 감소했는데 유독 대구는 다르다\"고 지적했다."
           },
           {
             "t": "p",
-            "x": "아이로쿠는 모사재인이 국내에서 운영하는 AI 웹소설 플랫폼 '하트픽션'의 일본 서비스다. 이용자가 장르와 배경, 등장인물 등을 선택하면 여러 AI 에이전트가 협업해 약 2분 만에 웹소설 첫 화를 생성하는 방식이다. 이용자는 매회 원하는 이야기 전개를 입력해 작품의 흐름을 바꿀 수도 있다. 기존 웹소설을 읽는 방식에서 나아가 이용자가 이야기 제작 과정에 참여하도록 설계한 것이 특징이다."
+            "x": "그는 \"올해 AIDT 활용학교 622교 가운데 절반인 311교가 대구에 있다\"고 덧붙였다."
           },
           {
             "t": "p",
-            "x": "모사재인에 따르면 국내 서비스 하트픽션은 지난해 11월 기준 가입자 10만 명을 넘었으며, 이용자가 생성한 이야기는 20만 편 이상이다."
+            "x": "백 의원은 대구지역 학교들의 AIDT 채택이 많은 이유는 교육감의 압박 때문으로 보인다는 점도 지적했다."
           },
           {
             "t": "p",
-            "x": "모사재인은 유료 콘텐츠 결제 문화와 팬덤, 2차 창작 시장이 형성돼 있다는 점을 고려해 일본을 첫 해외 진출 시장으로 선정했다고 설명했다. 이를 위해 일본어에 특화된 콘텐츠 생성 엔진을 개발하고 현지 이용자의 선호를 반영하는 등 서비스 현지화를 진행했다. 아이로쿠는 구글 플레이와 애플 앱스토어를 통해 제공된다."
+            "x": "그는 \"대구시교육청이 AIDT와 관련된 공문을 여러 차례 각 학교에 보내고 활용을 독려했음에도 불구하고 실제 이용 횟수는 저조한 것으로 나타났다\"고 지적했다."
           },
           {
             "t": "p",
-            "x": "이번 일본 진출에는 정부의 콘텐츠 및 기술 개발 지원 사업도 밑거름이 됐다. 모사재인은 문화체육관광부와 한국콘텐츠진흥원의 '2026년 인공지능 콘텐츠 제작 지원' 사업에 선정돼 다중 AI 에이전트 기반 멀티모달 스토리버스 창작 플랫폼의 실증을 진행하고 있다."
+            "x": "백 의원이 대구시교육청으로부터 제출받은 자료에 따르면 올해 1학기 기준 대구에서 AI DT를 도입한 초중고교에 지원된 구독료는 총 45억8천900만원이었다."
           },
           {
             "t": "p",
-            "x": "이 사업을 통해 AI가 생성한 이야기에 삽화와 음원을 결합하는 기술을 개발하고 있으며, 문화체육관광부와 중소벤처기업부의 연구개발(R&D) 과제와 연계해 다국어 Deep-RAG(검색증강생성) 기반 일본어 현지화 기술도 개발 중이다. 회사는 AI 콘텐츠 생성 관련 특허 4건도 출원했다."
+            "x": "이중 AI 디지털교과서를 20회 미만 이용한 학교는 119곳으로 집계했다."
           },
           {
             "t": "p",
-            "x": "조진혁 모사재인 공동대표는 \"국내에서 검증한 참여형 콘텐츠 모델을 일본 시장에서 선보이게 됐다\"며 \"향후 중화권과 영어권으로도 서비스를 확대할 계획\"이라고 말했다."
+            "x": "백 의원은 \"통상 한 학기를 20주라고 보면 38.3%는 일주일에 한 번도 안 쓴 셈\"이라며 \"이 정도 수치를 가지고 AI 디지털교과서를 제대로 활용했다고 평가할 수 있겠느냐\"고 따졌다."
+          },
+          {
+            "t": "p",
+            "x": "그러면서 \"전국 다른 학교들은 대부분 선택하지 않은 교육자료를 대구만 이렇게 압도적으로 많이 구독하고 이를 위해 별도 지원하고 있는 이유는 무엇이냐\"고 몰아붙였다."
+          },
+          {
+            "t": "p",
+            "x": "이에 대해 강은희 대구시교육감은 \"활용이 저조한 학교를 분석해보면 나름대로 저조한 부분이 있는 건 인정한다\"면서도 \"다만 실제로 충분히 활용되고 학생들의 학습에 적극적인 도움이 됐다는 사례가 더 많다\"고 답했다."
+          },
+          {
+            "t": "p",
+            "x": "이어 \"지속해 AI 디지털교과서를 잘 활용할 수 있도록 지원하고 있다\"고 덧붙였다."
+          },
+          {
+            "t": "img",
+            "src": "https://img0.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102011870005100_P4.jpg",
+            "cap": "업무 보고 하는 강은희 대구교육감"
           }
         ]
       },
       "text": {
         "ko": {
-          "headline": "모사재인, 일본에\nAI 웹소설 플랫폼 출시",
-          "body": "장르·배경·인물을 고르면 여러 AI 에이전트가 약 2분 만에 첫 화를 생성한다.",
-          "mini_headline": "모사재인, 일본 진출",
+          "headline": "대구 AI 교과서\n활용도 놓고 설전",
+          "body": "대구교육청이 AIDT에 수십억 원을 썼지만 실제 활용도를 놓고 공방이 인다.",
+          "mini_headline": "대구 AIDT 활용 설전",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.wowtv.co.kr/nrcs/production/images/20261021/20261021_b501b3e7f14d4ed8b38f8ce91388387f.png"
+                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102012040005100_P4.jpg",
+                "cap": "질의하는 백승아 의원"
               },
               {
                 "t": "p",
-                "x": "인공지능(AI) 스타트업 모사재인이 일본 시장에 진출했다."
+                "x": "(대구=연합뉴스) 황수빈 기자 = 올해 대구교육청이 초중고교 인공지능 디지털교과서(AIDT) 보급을 위해 수십억 원의 구독료를 들였지만, 실제 수업에서 활용도가 떨어진다는 지적이 나왔다."
               },
               {
                 "t": "p",
-                "x": "모사재인은 일본에서 개인 맞춤형 AI 웹소설 플랫폼 '아이로쿠(アイロク)'를 정식 출시했다고 21일 밝혔다."
+                "x": "더불어민주당 백승아 의원(비례대표)은 20일 부산시교육청에서 대구 등 6개 지역 교육청을 대상으로 열린 국회 교육위원회 국정감사에서 \"2025년 1학기에 비해 올해 AIDT 활용학교는 전국적으로 84.8%가 감소했는데 유독 대구는 다르다\"고 지적했다."
               },
               {
                 "t": "p",
-                "x": "아이로쿠는 모사재인이 국내에서 운영하는 AI 웹소설 플랫폼 '하트픽션'의 일본 서비스다. 이용자가 장르와 배경, 등장인물 등을 선택하면 여러 AI 에이전트가 협업해 약 2분 만에 웹소설 첫 화를 생성하는 방식이다. 이용자는 매회 원하는 이야기 전개를 입력해 작품의 흐름을 바꿀 수도 있다. 기존 웹소설을 읽는 방식에서 나아가 이용자가 이야기 제작 과정에 참여하도록 설계한 것이 특징이다."
+                "x": "그는 \"올해 AIDT 활용학교 622교 가운데 절반인 311교가 대구에 있다\"고 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "모사재인에 따르면 국내 서비스 하트픽션은 지난해 11월 기준 가입자 10만 명을 넘었으며, 이용자가 생성한 이야기는 20만 편 이상이다."
+                "x": "백 의원은 대구지역 학교들의 AIDT 채택이 많은 이유는 교육감의 압박 때문으로 보인다는 점도 지적했다."
               },
               {
                 "t": "p",
-                "x": "모사재인은 유료 콘텐츠 결제 문화와 팬덤, 2차 창작 시장이 형성돼 있다는 점을 고려해 일본을 첫 해외 진출 시장으로 선정했다고 설명했다. 이를 위해 일본어에 특화된 콘텐츠 생성 엔진을 개발하고 현지 이용자의 선호를 반영하는 등 서비스 현지화를 진행했다. 아이로쿠는 구글 플레이와 애플 앱스토어를 통해 제공된다."
+                "x": "그는 \"대구시교육청이 AIDT와 관련된 공문을 여러 차례 각 학교에 보내고 활용을 독려했음에도 불구하고 실제 이용 횟수는 저조한 것으로 나타났다\"고 지적했다."
               },
               {
                 "t": "p",
-                "x": "이번 일본 진출에는 정부의 콘텐츠 및 기술 개발 지원 사업도 밑거름이 됐다. 모사재인은 문화체육관광부와 한국콘텐츠진흥원의 '2026년 인공지능 콘텐츠 제작 지원' 사업에 선정돼 다중 AI 에이전트 기반 멀티모달 스토리버스 창작 플랫폼의 실증을 진행하고 있다."
+                "x": "백 의원이 대구시교육청으로부터 제출받은 자료에 따르면 올해 1학기 기준 대구에서 AI DT를 도입한 초중고교에 지원된 구독료는 총 45억8천900만원이었다."
               },
               {
                 "t": "p",
-                "x": "이 사업을 통해 AI가 생성한 이야기에 삽화와 음원을 결합하는 기술을 개발하고 있으며, 문화체육관광부와 중소벤처기업부의 연구개발(R&D) 과제와 연계해 다국어 Deep-RAG(검색증강생성) 기반 일본어 현지화 기술도 개발 중이다. 회사는 AI 콘텐츠 생성 관련 특허 4건도 출원했다."
+                "x": "이중 AI 디지털교과서를 20회 미만 이용한 학교는 119곳으로 집계했다."
               },
               {
                 "t": "p",
-                "x": "조진혁 모사재인 공동대표는 \"국내에서 검증한 참여형 콘텐츠 모델을 일본 시장에서 선보이게 됐다\"며 \"향후 중화권과 영어권으로도 서비스를 확대할 계획\"이라고 말했다."
+                "x": "백 의원은 \"통상 한 학기를 20주라고 보면 38.3%는 일주일에 한 번도 안 쓴 셈\"이라며 \"이 정도 수치를 가지고 AI 디지털교과서를 제대로 활용했다고 평가할 수 있겠느냐\"고 따졌다."
+              },
+              {
+                "t": "p",
+                "x": "그러면서 \"전국 다른 학교들은 대부분 선택하지 않은 교육자료를 대구만 이렇게 압도적으로 많이 구독하고 이를 위해 별도 지원하고 있는 이유는 무엇이냐\"고 몰아붙였다."
+              },
+              {
+                "t": "p",
+                "x": "이에 대해 강은희 대구시교육감은 \"활용이 저조한 학교를 분석해보면 나름대로 저조한 부분이 있는 건 인정한다\"면서도 \"다만 실제로 충분히 활용되고 학생들의 학습에 적극적인 도움이 됐다는 사례가 더 많다\"고 답했다."
+              },
+              {
+                "t": "p",
+                "x": "이어 \"지속해 AI 디지털교과서를 잘 활용할 수 있도록 지원하고 있다\"고 덧붙였다."
+              },
+              {
+                "t": "img",
+                "src": "https://img0.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102011870005100_P4.jpg",
+                "cap": "업무 보고 하는 강은희 대구교육감"
               }
             ]
           }
         },
         "en": {
-          "headline": "Mosajaein launches AI web novel\nplatform Airoku in Japan",
-          "body": "Users pick a genre, setting and characters, and multiple AI agents generate an opening episode in about 2 minutes.",
-          "mini_headline": "Mosajaein enters Japan",
+          "headline": "Daegu AI textbooks\nspark usage dispute",
+          "body": "Daegu's education office spent billions of won on AIDT, but its real classroom use is now in dispute.",
+          "mini_headline": "Daegu AIDT use disputed",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.wowtv.co.kr/nrcs/production/images/20261021/20261021_b501b3e7f14d4ed8b38f8ce91388387f.png"
+                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102012040005100_P4.jpg",
+                "cap": "Lawmaker Baek Seung-a questioning officials"
               },
               {
                 "t": "p",
-                "x": "Artificial intelligence (AI) startup Mosajaein has entered the Japanese market."
+                "x": "(Daegu=Yonhap News) Reporter Hwang Su-bin = This year the Daegu Office of Education spent billions of won in subscription fees to roll out AI digital textbooks (AIDT) in elementary, middle and high schools, but critics say they are rarely used in actual classes."
               },
               {
                 "t": "p",
-                "x": "Mosajaein said on the 21st that it has officially launched Airoku (アイロク), a personalized AI web novel platform, in Japan."
+                "x": "Baek Seung-a, a proportional representation lawmaker of the Democratic Party of Korea, said on the 20th at the National Assembly Education Committee's parliamentary audit of six regional education offices including Daegu, held at the Busan Metropolitan Office of Education, that \"compared with the first semester of 2025, the number of schools using AIDT fell 84.8% nationwide this year, but Daegu alone is different.\""
               },
               {
                 "t": "p",
-                "x": "Airoku is the Japanese version of HeartFiction, the AI web novel platform Mosajaein runs in Korea. When users select a genre, setting, characters and other elements, multiple AI agents work together to generate the opening episode of a web novel in about 2 minutes. Users can also change the course of the story by entering the plot developments they want in each episode. Its defining feature is that it goes beyond simply reading web novels and is designed to let users take part in creating the story."
+                "x": "She added, \"Of the 622 schools using AIDT this year, half, or 311, are in Daegu.\""
               },
               {
                 "t": "p",
-                "x": "According to Mosajaein, its domestic service HeartFiction passed 100,000 subscribers as of the 11th month of last year, and users have generated more than 200,000 stories."
+                "x": "Baek also pointed out that the high AIDT adoption among Daegu schools appears to stem from pressure by the superintendent."
               },
               {
                 "t": "p",
-                "x": "Mosajaein explained that it chose Japan as its first overseas market given the country's established culture of paying for content, its fandoms and its market for 2nd-order creative works (fan derivatives). To that end, it localized the service, developing a content generation engine specialized for Japanese and reflecting local users' preferences. Airoku is available on Google Play and the Apple App Store."
+                "x": "She said, \"Even though the Daegu Metropolitan Office of Education sent official letters about AIDT to schools several times and encouraged their use, actual usage turned out to be low.\""
               },
               {
                 "t": "p",
-                "x": "Government support programs for content and technology development also laid the groundwork for the Japan launch. Mosajaein was selected for the '2026 AI Content Production Support' program run by the Ministry of Culture, Sports and Tourism and the Korea Creative Content Agency, and is piloting a multimodal storyverse creation platform built on multiple AI agents."
+                "x": "According to data Baek obtained from the Daegu Metropolitan Office of Education, subscription fees provided to elementary, middle and high schools in Daegu that adopted AI DT totaled 45억8천900만원 as of the first semester of this year."
               },
               {
                 "t": "p",
-                "x": "Through this program, it is developing technology that combines illustrations and audio with AI-generated stories, and, in connection with research and development (R&D) projects of the Ministry of Culture, Sports and Tourism and the Ministry of SMEs and Startups, it is also developing Japanese localization technology based on multilingual Deep-RAG (retrieval-augmented generation). The company has also filed 4 patent applications related to AI content generation."
+                "x": "Of these, 119 schools were found to have used the AI digital textbooks fewer than 20 times."
               },
               {
                 "t": "p",
-                "x": "Jo Jin-hyuk, co-CEO of Mosajaein, said, \"We are now introducing to the Japanese market a participatory content model proven in Korea,\" adding, \"We plan to expand the service to Chinese-speaking and English-speaking regions in the future.\""
+                "x": "Baek pressed, \"If a semester is usually 20 weeks, that means 38.3% did not use them even once a week,\" adding, \"Can you say the AI digital textbooks were properly used with figures like these?\""
+              },
+              {
+                "t": "p",
+                "x": "She then pushed further: \"Why is Daegu alone subscribing so overwhelmingly to teaching materials that most other schools nationwide did not choose, and providing separate support for it?\""
+              },
+              {
+                "t": "p",
+                "x": "In response, Daegu Superintendent of Education Kang Eun-hee said, \"Analyzing schools with low usage, I admit there are areas where usage is low,\" but added, \"However, there are more cases where they were actually used well and actively helped students' learning.\""
+              },
+              {
+                "t": "p",
+                "x": "She continued, \"We are providing ongoing support so that AI digital textbooks can be used well.\""
+              },
+              {
+                "t": "img",
+                "src": "https://img0.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102011870005100_P4.jpg",
+                "cap": "Daegu Superintendent of Education Kang Eun-hee giving a briefing"
               }
             ]
           }
         },
         "ja": {
-          "headline": "モサジェイン、日本で\nAIウェブ小説を開始",
-          "body": "ジャンルや舞台、登場人物を選ぶと、複数のAIエージェントが約2分で初回を生成する。",
-          "mini_headline": "モサジェイン、日本進出",
+          "headline": "大邱のAI教科書\n活用度めぐり論戦",
+          "body": "大邱市教育庁がAIDTに数十億ウォンを投じたが、実際の活用度をめぐり論争が起きている。",
+          "mini_headline": "大邱AIDT活用で論戦",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.wowtv.co.kr/nrcs/production/images/20261021/20261021_b501b3e7f14d4ed8b38f8ce91388387f.png"
+                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102012040005100_P4.jpg",
+                "cap": "質疑するペク・スンア議員"
               },
               {
                 "t": "p",
-                "x": "人工知能（AI）スタートアップのモサジェインが日本市場に進出した。"
+                "x": "（大邱＝聯合ニュース）ファン・スビン記者＝今年、大邱市教育庁が小中高校へのAIデジタル教科書（AIDT）普及のため数十億ウォンの購読料を投じたが、実際の授業での活用度が低いとの指摘が出た。"
               },
               {
                 "t": "p",
-                "x": "モサジェインは21日、個人に合わせたAIウェブ小説プラットフォーム「アイロク」を日本で正式にリリースしたと明らかにした。"
+                "x": "共に民主党のペク・スンア議員（比例代表）は20日、釜山市教育庁で大邱など6つの地域教育庁を対象に開かれた国会教育委員会の国政監査で「2025年1学期に比べ、今年AIDTを活用する学校は全国で84.8%減少したが、大邱だけは違う」と指摘した。"
               },
               {
                 "t": "p",
-                "x": "アイロクは、モサジェインが韓国国内で運営するAIウェブ小説プラットフォーム「ハートフィクション」の日本版サービスだ。利用者がジャンルや舞台、登場人物などを選ぶと、複数のAIエージェントが協業して約2分でウェブ小説の初回を生成する仕組みだ。利用者は毎回、望む展開を入力して作品の流れを変えることもできる。従来のようにウェブ小説を読むだけでなく、利用者が物語の制作過程に参加できるよう設計した点が特徴だ。"
+                "x": "さらに「今年AIDTを活用する学校622校のうち、半数の311校が大邱にある」と付け加えた。"
               },
               {
                 "t": "p",
-                "x": "モサジェインによると、国内サービスのハートフィクションは昨年11月時点で加入者が10万人を超え、利用者が生成した物語は20万編以上に上る。"
+                "x": "ペク議員は、大邱地域の学校でAIDTの採用が多いのは教育監の圧力によるものとみられる点も指摘した。"
               },
               {
                 "t": "p",
-                "x": "モサジェインは、有料コンテンツへの課金文化やファンダム、2次創作市場が形成されている点を考慮し、日本を初の海外進出先に選んだと説明した。そのため日本語に特化したコンテンツ生成エンジンを開発し、現地利用者の好みを反映するなどサービスのローカライズを進めた。アイロクはGoogle PlayとApple App Storeで提供される。"
+                "x": "ペク議員は「大邱市教育庁がAIDTに関する公文書を何度も各学校に送り活用を促したにもかかわらず、実際の利用回数は低調だった」と指摘した。"
               },
               {
                 "t": "p",
-                "x": "今回の日本進出には、政府のコンテンツおよび技術開発支援事業も土台となった。モサジェインは文化体育観光部と韓国コンテンツ振興院の「2026年人工知能コンテンツ制作支援」事業に選ばれ、マルチAIエージェント基盤のマルチモーダル・ストーリーバース創作プラットフォームの実証を進めている。"
+                "x": "ペク議員が大邱市教育庁から提出を受けた資料によると、今年1学期時点で大邱のAI DTを導入した小中高校に支援された購読料は計45억8천900만원だった。"
               },
               {
                 "t": "p",
-                "x": "この事業を通じて、AIが生成した物語に挿絵と音源を組み合わせる技術を開発しており、文化体育観光部と中小ベンチャー企業部の研究開発（R&D）課題と連携し、多言語Deep-RAG（検索拡張生成）に基づく日本語ローカライズ技術も開発中だ。同社はAIコンテンツ生成に関する特許4件も出願した。"
+                "x": "このうちAIデジタル教科書の利用が20回未満の学校は119校と集計された。"
               },
               {
                 "t": "p",
-                "x": "モサジェインのチョ・ジニョク共同代表は「国内で検証した参加型コンテンツモデルを日本市場で披露することになった」とし、「今後は中華圏と英語圏にもサービスを拡大する計画だ」と述べた。"
+                "x": "ペク議員は「通常1学期を20週とすると、38.3%は週に1度も使わなかったことになる」とし、「この程度の数値でAIデジタル教科書を適切に活用したと評価できるのか」と問いただした。"
+              },
+              {
+                "t": "p",
+                "x": "続けて「全国の他の学校の大半が選ばなかった教育資料を、なぜ大邱だけがこれほど圧倒的に多く購読し、そのために別途支援しているのか」と追及した。"
+              },
+              {
+                "t": "p",
+                "x": "これに対しカン・ウニ大邱市教育監は「活用が低調な学校を分析すると、それなりに低調な部分があることは認める」としながらも、「ただ、実際に十分活用され、生徒の学習に積極的に役立ったという事例のほうが多い」と答えた。"
+              },
+              {
+                "t": "p",
+                "x": "さらに「AIデジタル教科書を引き続きうまく活用できるよう支援している」と付け加えた。"
+              },
+              {
+                "t": "img",
+                "src": "https://img0.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102011870005100_P4.jpg",
+                "cap": "業務報告をするカン・ウニ大邱教育監"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Mosajaein在日本\n推出AI网文平台",
-          "body": "用户选择题材、背景和角色后，多个AI智能体约2分钟即可生成首章。",
-          "mini_headline": "Mosajaein进军日本",
+          "headline": "大邱AI教科书\n使用率引发争论",
+          "body": "大邱教育厅为AIDT花费数十亿韩元，但其实际使用情况引发争议。",
+          "mini_headline": "大邱AIDT使用之争",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.wowtv.co.kr/nrcs/production/images/20261021/20261021_b501b3e7f14d4ed8b38f8ce91388387f.png"
+                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102012040005100_P4.jpg",
+                "cap": "正在质询的白承娥议员"
               },
               {
                 "t": "p",
-                "x": "人工智能（AI）初创公司Mosajaein进军日本市场。"
+                "x": "（大邱=韩联社）记者黄秀彬（音译）= 今年大邱教育厅为在中小学推广人工智能数字教科书（AIDT）投入了数十亿韩元的订阅费，但有人指出其在实际教学中的使用率偏低。"
               },
               {
                 "t": "p",
-                "x": "Mosajaein于21日宣布，已在日本正式推出个性化AI网络小说平台“アイロク”。"
+                "x": "共同民主党议员白承娥（比例代表）20日在釜山市教育厅举行的、以大邱等6个地区教育厅为对象的国会教育委员会国政监查中指出：“与2025年第1学期相比，今年全国使用AIDT的学校减少了84.8%，唯独大邱不同。”"
               },
               {
                 "t": "p",
-                "x": "アイロク是Mosajaein在韩国运营的AI网络小说平台HeartFiction的日本版服务。用户选择题材、背景、角色等后，多个AI智能体协作，约2分钟即可生成网络小说的首章。用户还可以在每章输入希望的剧情走向，改变作品的发展。其特点是突破了传统阅读网络小说的方式，让用户参与到故事创作过程中。"
+                "x": "她补充说：“今年使用AIDT的622所学校中，有一半即311所在大邱。”"
               },
               {
                 "t": "p",
-                "x": "据Mosajaein介绍，国内服务HeartFiction截至去年11月注册用户已突破10万人，用户生成的故事超过20万篇。"
+                "x": "白承娥还指出，大邱地区学校大量采用AIDT，似乎是由于教育监施压。"
               },
               {
                 "t": "p",
-                "x": "Mosajaein解释称，考虑到日本已形成付费内容消费文化、粉丝文化和2次创作市场，因此将日本选为首个海外市场。为此，公司开发了专门针对日语的内容生成引擎，并结合当地用户偏好推进服务本地化。アイロク通过Google Play和Apple App Store提供。"
+                "x": "她指出：“尽管大邱市教育厅多次向各校发送与AIDT相关的公文并鼓励使用，但实际使用次数仍然偏低。”"
               },
               {
                 "t": "p",
-                "x": "此次进军日本，也得益于政府的内容及技术开发支持项目。Mosajaein入选韩国文化体育观光部和韩国内容振兴院的“2026年人工智能内容制作支持”项目，正在对基于多AI智能体的多模态故事宇宙创作平台进行实证。"
+                "x": "根据白承娥从大邱市教育厅获得的资料，截至今年第1学期，向大邱引入AI DT的中小学提供的订阅费共计45억8천900만원。"
               },
               {
                 "t": "p",
-                "x": "通过该项目，公司正在开发将插图和音源与AI生成的故事相结合的技术，并与文化体育观光部和中小风险企业部的研发（R&D）课题联动，开发基于多语言Deep-RAG（检索增强生成）的日语本地化技术。公司还申请了4项AI内容生成相关专利。"
+                "x": "其中，使用AI数字教科书不足20次的学校统计为119所。"
               },
               {
                 "t": "p",
-                "x": "Mosajaein联合代表Jo Jin-hyuk表示：“我们将在韩国验证过的参与式内容模式带到了日本市场。”他还表示：“今后计划将服务扩展到大中华区和英语圈。”"
+                "x": "白承娥质问：“通常一个学期按20周计算，意味着38.3%的学校一周连一次都没用过。”她又问：“凭这样的数字，能说AI数字教科书得到了妥善使用吗？”"
+              },
+              {
+                "t": "p",
+                "x": "她接着追问：“全国其他学校大多没有选择的教育资料，为什么唯独大邱如此大量订阅，并为此另行提供支持？”"
+              },
+              {
+                "t": "p",
+                "x": "对此，大邱市教育监姜银姬回答说：“分析使用率低的学校，我承认确实存在使用不足的部分。”但她也表示：“不过，实际充分使用并对学生学习起到积极帮助的案例更多。”"
+              },
+              {
+                "t": "p",
+                "x": "她接着补充说：“我们正在持续提供支持，以便AI数字教科书能够得到良好使用。”"
+              },
+              {
+                "t": "img",
+                "src": "https://img0.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102011870005100_P4.jpg",
+                "cap": "正在作工作报告的大邱教育监姜银姬"
               }
             ]
           }
         },
         "es": {
-          "headline": "Mosajaein lanza en Japón una\nplataforma de novela web con IA",
-          "body": "Al elegir género, ambientación y personajes, varios agentes de IA generan el capítulo inicial en unos 2 minutos.",
-          "mini_headline": "Mosajaein llega a Japón",
+          "headline": "Libros de texto con IA\nen Daegu, bajo debate",
+          "body": "La oficina de educación de Daegu gastó miles de millones de wones en AIDT, pero su uso real está en debate.",
+          "mini_headline": "Debate por el uso de AIDT en Daegu",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.wowtv.co.kr/nrcs/production/images/20261021/20261021_b501b3e7f14d4ed8b38f8ce91388387f.png"
+                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102012040005100_P4.jpg",
+                "cap": "La diputada Baek Seung-a durante su interpelación"
               },
               {
                 "t": "p",
-                "x": "La startup de inteligencia artificial (AI) Mosajaein ha entrado en el mercado japonés."
+                "x": "(Daegu=Yonhap News) Periodista Hwang Su-bin = Este año, la Oficina de Educación de Daegu destinó miles de millones de wones en cuotas de suscripción para implantar libros de texto digitales con inteligencia artificial (AIDT) en escuelas primarias y secundarias, pero se ha señalado que su uso en las clases reales es bajo."
               },
               {
                 "t": "p",
-                "x": "Mosajaein anunció el día 21 que lanzó oficialmente en Japón Airoku (アイロク), una plataforma personalizada de novelas web con IA."
+                "x": "La diputada Baek Seung-a (representación proporcional), del Partido Democrático de Corea, señaló el día 20, en la auditoría parlamentaria del Comité de Educación de la Asamblea Nacional a seis oficinas regionales de educación, entre ellas la de Daegu, celebrada en la Oficina de Educación de Busan: \"En comparación con el primer semestre de 2025, las escuelas que usan AIDT han disminuido este año un 84.8% en todo el país, pero Daegu es la excepción\"."
               },
               {
                 "t": "p",
-                "x": "Airoku es la versión japonesa de HeartFiction, la plataforma de novelas web con IA que Mosajaein opera en Corea. Cuando el usuario elige el género, la ambientación, los personajes y otros elementos, varios agentes de IA colaboran para generar el capítulo inicial de una novela web en unos 2 minutos. El usuario también puede cambiar el rumbo de la obra introduciendo en cada entrega el desarrollo que desee. Su rasgo distintivo es que va más allá de la simple lectura de novelas web y está diseñada para que el usuario participe en el proceso de creación de la historia."
+                "x": "Añadió: \"De las 622 escuelas que usan AIDT este año, la mitad, 311, están en Daegu\"."
               },
               {
                 "t": "p",
-                "x": "Según Mosajaein, su servicio en Corea, HeartFiction, superaba los 100.000 usuarios registrados en el mes 11 del año pasado, y los usuarios han generado más de 200.000 historias."
+                "x": "Baek también señaló que la elevada adopción de AIDT en las escuelas de Daegu parece deberse a la presión del superintendente de educación."
               },
               {
                 "t": "p",
-                "x": "Mosajaein explicó que eligió Japón como su primer mercado exterior por su cultura consolidada de pago por contenidos, su cultura fan y su mercado de obras derivadas (creación de 2.º grado). Para ello, desarrolló un motor de generación de contenidos especializado en japonés y adaptó el servicio incorporando las preferencias de los usuarios locales. Airoku está disponible en Google Play y en la App Store de Apple."
+                "x": "Indicó: \"Aunque la Oficina de Educación de Daegu envió varias veces circulares oficiales sobre AIDT a las escuelas y fomentó su uso, el número real de usos resultó ser bajo\"."
               },
               {
                 "t": "p",
-                "x": "Los programas gubernamentales de apoyo al desarrollo de contenidos y tecnología también sentaron las bases de esta entrada en Japón. Mosajaein fue seleccionada para el programa «Apoyo a la producción de contenidos de inteligencia artificial 2026» del Ministerio de Cultura, Deportes y Turismo y la Agencia Coreana de Contenidos Creativos, y está realizando la prueba piloto de una plataforma multimodal de creación de storyverse basada en múltiples agentes de IA."
+                "x": "Según los datos que Baek recibió de la Oficina de Educación de Daegu, las cuotas de suscripción entregadas a las escuelas primarias y secundarias de Daegu que adoptaron AI DT sumaron en total 45억8천900만원 a fecha del primer semestre de este año."
               },
               {
                 "t": "p",
-                "x": "A través de este programa desarrolla una tecnología que combina ilustraciones y audio con historias generadas por IA y, en conexión con proyectos de investigación y desarrollo (R&D) del Ministerio de Cultura, Deportes y Turismo y del Ministerio de Pymes y Startups, también desarrolla tecnología de localización al japonés basada en Deep-RAG (generación aumentada por recuperación) multilingüe. La empresa también ha solicitado 4 patentes relacionadas con la generación de contenidos con IA."
+                "x": "De ellas, 119 escuelas usaron los libros de texto digitales con IA menos de 20 veces."
               },
               {
                 "t": "p",
-                "x": "Jo Jin-hyuk, codirector ejecutivo de Mosajaein, afirmó: «Hemos llevado al mercado japonés un modelo de contenidos participativo validado en Corea», y añadió: «En el futuro planeamos ampliar el servicio a las regiones de habla china e inglesa»."
+                "x": "Baek cuestionó: \"Si un semestre suele tener 20 semanas, el 38.3% no los usó ni una vez por semana\", y preguntó: \"¿Con estas cifras se puede afirmar que los libros de texto digitales con IA se aprovecharon como es debido?\"."
+              },
+              {
+                "t": "p",
+                "x": "A continuación insistió: \"¿Por qué solo Daegu se suscribe de forma tan abrumadora a un material educativo que la mayoría de las demás escuelas del país no eligió, y además le da un apoyo aparte?\"."
+              },
+              {
+                "t": "p",
+                "x": "En respuesta, la superintendente de educación de Daegu, Kang Eun-hee, afirmó: \"Al analizar las escuelas con bajo uso, reconozco que hay aspectos en los que el uso es bajo\", aunque añadió: \"Sin embargo, son más los casos en que se usaron de forma suficiente y ayudaron activamente al aprendizaje de los alumnos\"."
+              },
+              {
+                "t": "p",
+                "x": "Y agregó: \"Seguimos brindando apoyo para que los libros de texto digitales con IA puedan aprovecharse bien\"."
+              },
+              {
+                "t": "img",
+                "src": "https://img0.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102011870005100_P4.jpg",
+                "cap": "La superintendente de educación de Daegu, Kang Eun-hee, presenta su informe"
               }
             ]
           }
@@ -1427,185 +1775,257 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "Mosajaein launches AI web novel\nplatform Airoku in Japan",
-          "body": "Users pick a genre, setting and characters, and multiple AI agents generate an opening episode in about 2 minutes.",
-          "mini_headline": "Mosajaein enters Japan",
+          "headline": "Daegu AI textbooks\nspark usage dispute",
+          "body": "Daegu's education office spent billions of won on AIDT, but its real classroom use is now in dispute.",
+          "mini_headline": "Daegu AIDT use disputed",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.wowtv.co.kr/nrcs/production/images/20261021/20261021_b501b3e7f14d4ed8b38f8ce91388387f.png"
+                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102012040005100_P4.jpg",
+                "cap": "Lawmaker Baek Seung-a questioning officials"
               },
               {
                 "t": "p",
-                "x": "Artificial intelligence (AI) startup Mosajaein has entered the Japanese market."
+                "x": "(Daegu=Yonhap News) Reporter Hwang Su-bin = This year the Daegu Office of Education spent billions of won in subscription fees to roll out AI digital textbooks (AIDT) in elementary, middle and high schools, but critics say they are rarely used in actual classes."
               },
               {
                 "t": "p",
-                "x": "Mosajaein said on the 21st that it has officially launched Airoku (アイロク), a personalized AI web novel platform, in Japan."
+                "x": "Baek Seung-a, a proportional representation lawmaker of the Democratic Party of Korea, said on the 20th at the National Assembly Education Committee's parliamentary audit of six regional education offices including Daegu, held at the Busan Metropolitan Office of Education, that \"compared with the first semester of 2025, the number of schools using AIDT fell 84.8% nationwide this year, but Daegu alone is different.\""
               },
               {
                 "t": "p",
-                "x": "Airoku is the Japanese version of HeartFiction, the AI web novel platform Mosajaein runs in Korea. When users select a genre, setting, characters and other elements, multiple AI agents work together to generate the opening episode of a web novel in about 2 minutes. Users can also change the course of the story by entering the plot developments they want in each episode. Its defining feature is that it goes beyond simply reading web novels and is designed to let users take part in creating the story."
+                "x": "She added, \"Of the 622 schools using AIDT this year, half, or 311, are in Daegu.\""
               },
               {
                 "t": "p",
-                "x": "According to Mosajaein, its domestic service HeartFiction passed 100,000 subscribers as of the 11th month of last year, and users have generated more than 200,000 stories."
+                "x": "Baek also pointed out that the high AIDT adoption among Daegu schools appears to stem from pressure by the superintendent."
               },
               {
                 "t": "p",
-                "x": "Mosajaein explained that it chose Japan as its first overseas market given the country's established culture of paying for content, its fandoms and its market for 2nd-order creative works (fan derivatives). To that end, it localized the service, developing a content generation engine specialized for Japanese and reflecting local users' preferences. Airoku is available on Google Play and the Apple App Store."
+                "x": "She said, \"Even though the Daegu Metropolitan Office of Education sent official letters about AIDT to schools several times and encouraged their use, actual usage turned out to be low.\""
               },
               {
                 "t": "p",
-                "x": "Government support programs for content and technology development also laid the groundwork for the Japan launch. Mosajaein was selected for the '2026 AI Content Production Support' program run by the Ministry of Culture, Sports and Tourism and the Korea Creative Content Agency, and is piloting a multimodal storyverse creation platform built on multiple AI agents."
+                "x": "According to data Baek obtained from the Daegu Metropolitan Office of Education, subscription fees provided to elementary, middle and high schools in Daegu that adopted AI DT totaled 45억8천900만원 as of the first semester of this year."
               },
               {
                 "t": "p",
-                "x": "Through this program, it is developing technology that combines illustrations and audio with AI-generated stories, and, in connection with research and development (R&D) projects of the Ministry of Culture, Sports and Tourism and the Ministry of SMEs and Startups, it is also developing Japanese localization technology based on multilingual Deep-RAG (retrieval-augmented generation). The company has also filed 4 patent applications related to AI content generation."
+                "x": "Of these, 119 schools were found to have used the AI digital textbooks fewer than 20 times."
               },
               {
                 "t": "p",
-                "x": "Jo Jin-hyuk, co-CEO of Mosajaein, said, \"We are now introducing to the Japanese market a participatory content model proven in Korea,\" adding, \"We plan to expand the service to Chinese-speaking and English-speaking regions in the future.\""
+                "x": "Baek pressed, \"If a semester is usually 20 weeks, that means 38.3% did not use them even once a week,\" adding, \"Can you say the AI digital textbooks were properly used with figures like these?\""
+              },
+              {
+                "t": "p",
+                "x": "She then pushed further: \"Why is Daegu alone subscribing so overwhelmingly to teaching materials that most other schools nationwide did not choose, and providing separate support for it?\""
+              },
+              {
+                "t": "p",
+                "x": "In response, Daegu Superintendent of Education Kang Eun-hee said, \"Analyzing schools with low usage, I admit there are areas where usage is low,\" but added, \"However, there are more cases where they were actually used well and actively helped students' learning.\""
+              },
+              {
+                "t": "p",
+                "x": "She continued, \"We are providing ongoing support so that AI digital textbooks can be used well.\""
+              },
+              {
+                "t": "img",
+                "src": "https://img0.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102011870005100_P4.jpg",
+                "cap": "Daegu Superintendent of Education Kang Eun-hee giving a briefing"
               }
             ]
           }
         },
         "ja": {
-          "headline": "モサジェイン、日本で\nAIウェブ小説を開始",
-          "body": "ジャンルや舞台、登場人物を選ぶと、複数のAIエージェントが約2分で初回を生成する。",
-          "mini_headline": "モサジェイン、日本進出",
+          "headline": "大邱のAI教科書\n活用度めぐり論戦",
+          "body": "大邱市教育庁がAIDTに数十億ウォンを投じたが、実際の活用度をめぐり論争が起きている。",
+          "mini_headline": "大邱AIDT活用で論戦",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.wowtv.co.kr/nrcs/production/images/20261021/20261021_b501b3e7f14d4ed8b38f8ce91388387f.png"
+                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102012040005100_P4.jpg",
+                "cap": "質疑するペク・スンア議員"
               },
               {
                 "t": "p",
-                "x": "人工知能（AI）スタートアップのモサジェインが日本市場に進出した。"
+                "x": "（大邱＝聯合ニュース）ファン・スビン記者＝今年、大邱市教育庁が小中高校へのAIデジタル教科書（AIDT）普及のため数十億ウォンの購読料を投じたが、実際の授業での活用度が低いとの指摘が出た。"
               },
               {
                 "t": "p",
-                "x": "モサジェインは21日、個人に合わせたAIウェブ小説プラットフォーム「アイロク」を日本で正式にリリースしたと明らかにした。"
+                "x": "共に民主党のペク・スンア議員（比例代表）は20日、釜山市教育庁で大邱など6つの地域教育庁を対象に開かれた国会教育委員会の国政監査で「2025年1学期に比べ、今年AIDTを活用する学校は全国で84.8%減少したが、大邱だけは違う」と指摘した。"
               },
               {
                 "t": "p",
-                "x": "アイロクは、モサジェインが韓国国内で運営するAIウェブ小説プラットフォーム「ハートフィクション」の日本版サービスだ。利用者がジャンルや舞台、登場人物などを選ぶと、複数のAIエージェントが協業して約2分でウェブ小説の初回を生成する仕組みだ。利用者は毎回、望む展開を入力して作品の流れを変えることもできる。従来のようにウェブ小説を読むだけでなく、利用者が物語の制作過程に参加できるよう設計した点が特徴だ。"
+                "x": "さらに「今年AIDTを活用する学校622校のうち、半数の311校が大邱にある」と付け加えた。"
               },
               {
                 "t": "p",
-                "x": "モサジェインによると、国内サービスのハートフィクションは昨年11月時点で加入者が10万人を超え、利用者が生成した物語は20万編以上に上る。"
+                "x": "ペク議員は、大邱地域の学校でAIDTの採用が多いのは教育監の圧力によるものとみられる点も指摘した。"
               },
               {
                 "t": "p",
-                "x": "モサジェインは、有料コンテンツへの課金文化やファンダム、2次創作市場が形成されている点を考慮し、日本を初の海外進出先に選んだと説明した。そのため日本語に特化したコンテンツ生成エンジンを開発し、現地利用者の好みを反映するなどサービスのローカライズを進めた。アイロクはGoogle PlayとApple App Storeで提供される。"
+                "x": "ペク議員は「大邱市教育庁がAIDTに関する公文書を何度も各学校に送り活用を促したにもかかわらず、実際の利用回数は低調だった」と指摘した。"
               },
               {
                 "t": "p",
-                "x": "今回の日本進出には、政府のコンテンツおよび技術開発支援事業も土台となった。モサジェインは文化体育観光部と韓国コンテンツ振興院の「2026年人工知能コンテンツ制作支援」事業に選ばれ、マルチAIエージェント基盤のマルチモーダル・ストーリーバース創作プラットフォームの実証を進めている。"
+                "x": "ペク議員が大邱市教育庁から提出を受けた資料によると、今年1学期時点で大邱のAI DTを導入した小中高校に支援された購読料は計45억8천900만원だった。"
               },
               {
                 "t": "p",
-                "x": "この事業を通じて、AIが生成した物語に挿絵と音源を組み合わせる技術を開発しており、文化体育観光部と中小ベンチャー企業部の研究開発（R&D）課題と連携し、多言語Deep-RAG（検索拡張生成）に基づく日本語ローカライズ技術も開発中だ。同社はAIコンテンツ生成に関する特許4件も出願した。"
+                "x": "このうちAIデジタル教科書の利用が20回未満の学校は119校と集計された。"
               },
               {
                 "t": "p",
-                "x": "モサジェインのチョ・ジニョク共同代表は「国内で検証した参加型コンテンツモデルを日本市場で披露することになった」とし、「今後は中華圏と英語圏にもサービスを拡大する計画だ」と述べた。"
+                "x": "ペク議員は「通常1学期を20週とすると、38.3%は週に1度も使わなかったことになる」とし、「この程度の数値でAIデジタル教科書を適切に活用したと評価できるのか」と問いただした。"
+              },
+              {
+                "t": "p",
+                "x": "続けて「全国の他の学校の大半が選ばなかった教育資料を、なぜ大邱だけがこれほど圧倒的に多く購読し、そのために別途支援しているのか」と追及した。"
+              },
+              {
+                "t": "p",
+                "x": "これに対しカン・ウニ大邱市教育監は「活用が低調な学校を分析すると、それなりに低調な部分があることは認める」としながらも、「ただ、実際に十分活用され、生徒の学習に積極的に役立ったという事例のほうが多い」と答えた。"
+              },
+              {
+                "t": "p",
+                "x": "さらに「AIデジタル教科書を引き続きうまく活用できるよう支援している」と付け加えた。"
+              },
+              {
+                "t": "img",
+                "src": "https://img0.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102011870005100_P4.jpg",
+                "cap": "業務報告をするカン・ウニ大邱教育監"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Mosajaein在日本\n推出AI网文平台",
-          "body": "用户选择题材、背景和角色后，多个AI智能体约2分钟即可生成首章。",
-          "mini_headline": "Mosajaein进军日本",
+          "headline": "大邱AI教科书\n使用率引发争论",
+          "body": "大邱教育厅为AIDT花费数十亿韩元，但其实际使用情况引发争议。",
+          "mini_headline": "大邱AIDT使用之争",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.wowtv.co.kr/nrcs/production/images/20261021/20261021_b501b3e7f14d4ed8b38f8ce91388387f.png"
+                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102012040005100_P4.jpg",
+                "cap": "正在质询的白承娥议员"
               },
               {
                 "t": "p",
-                "x": "人工智能（AI）初创公司Mosajaein进军日本市场。"
+                "x": "（大邱=韩联社）记者黄秀彬（音译）= 今年大邱教育厅为在中小学推广人工智能数字教科书（AIDT）投入了数十亿韩元的订阅费，但有人指出其在实际教学中的使用率偏低。"
               },
               {
                 "t": "p",
-                "x": "Mosajaein于21日宣布，已在日本正式推出个性化AI网络小说平台“アイロク”。"
+                "x": "共同民主党议员白承娥（比例代表）20日在釜山市教育厅举行的、以大邱等6个地区教育厅为对象的国会教育委员会国政监查中指出：“与2025年第1学期相比，今年全国使用AIDT的学校减少了84.8%，唯独大邱不同。”"
               },
               {
                 "t": "p",
-                "x": "アイロク是Mosajaein在韩国运营的AI网络小说平台HeartFiction的日本版服务。用户选择题材、背景、角色等后，多个AI智能体协作，约2分钟即可生成网络小说的首章。用户还可以在每章输入希望的剧情走向，改变作品的发展。其特点是突破了传统阅读网络小说的方式，让用户参与到故事创作过程中。"
+                "x": "她补充说：“今年使用AIDT的622所学校中，有一半即311所在大邱。”"
               },
               {
                 "t": "p",
-                "x": "据Mosajaein介绍，国内服务HeartFiction截至去年11月注册用户已突破10万人，用户生成的故事超过20万篇。"
+                "x": "白承娥还指出，大邱地区学校大量采用AIDT，似乎是由于教育监施压。"
               },
               {
                 "t": "p",
-                "x": "Mosajaein解释称，考虑到日本已形成付费内容消费文化、粉丝文化和2次创作市场，因此将日本选为首个海外市场。为此，公司开发了专门针对日语的内容生成引擎，并结合当地用户偏好推进服务本地化。アイロク通过Google Play和Apple App Store提供。"
+                "x": "她指出：“尽管大邱市教育厅多次向各校发送与AIDT相关的公文并鼓励使用，但实际使用次数仍然偏低。”"
               },
               {
                 "t": "p",
-                "x": "此次进军日本，也得益于政府的内容及技术开发支持项目。Mosajaein入选韩国文化体育观光部和韩国内容振兴院的“2026年人工智能内容制作支持”项目，正在对基于多AI智能体的多模态故事宇宙创作平台进行实证。"
+                "x": "根据白承娥从大邱市教育厅获得的资料，截至今年第1学期，向大邱引入AI DT的中小学提供的订阅费共计45억8천900만원。"
               },
               {
                 "t": "p",
-                "x": "通过该项目，公司正在开发将插图和音源与AI生成的故事相结合的技术，并与文化体育观光部和中小风险企业部的研发（R&D）课题联动，开发基于多语言Deep-RAG（检索增强生成）的日语本地化技术。公司还申请了4项AI内容生成相关专利。"
+                "x": "其中，使用AI数字教科书不足20次的学校统计为119所。"
               },
               {
                 "t": "p",
-                "x": "Mosajaein联合代表Jo Jin-hyuk表示：“我们将在韩国验证过的参与式内容模式带到了日本市场。”他还表示：“今后计划将服务扩展到大中华区和英语圈。”"
+                "x": "白承娥质问：“通常一个学期按20周计算，意味着38.3%的学校一周连一次都没用过。”她又问：“凭这样的数字，能说AI数字教科书得到了妥善使用吗？”"
+              },
+              {
+                "t": "p",
+                "x": "她接着追问：“全国其他学校大多没有选择的教育资料，为什么唯独大邱如此大量订阅，并为此另行提供支持？”"
+              },
+              {
+                "t": "p",
+                "x": "对此，大邱市教育监姜银姬回答说：“分析使用率低的学校，我承认确实存在使用不足的部分。”但她也表示：“不过，实际充分使用并对学生学习起到积极帮助的案例更多。”"
+              },
+              {
+                "t": "p",
+                "x": "她接着补充说：“我们正在持续提供支持，以便AI数字教科书能够得到良好使用。”"
+              },
+              {
+                "t": "img",
+                "src": "https://img0.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102011870005100_P4.jpg",
+                "cap": "正在作工作报告的大邱教育监姜银姬"
               }
             ]
           }
         },
         "es": {
-          "headline": "Mosajaein lanza en Japón una\nplataforma de novela web con IA",
-          "body": "Al elegir género, ambientación y personajes, varios agentes de IA generan el capítulo inicial en unos 2 minutos.",
-          "mini_headline": "Mosajaein llega a Japón",
+          "headline": "Libros de texto con IA\nen Daegu, bajo debate",
+          "body": "La oficina de educación de Daegu gastó miles de millones de wones en AIDT, pero su uso real está en debate.",
+          "mini_headline": "Debate por el uso de AIDT en Daegu",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.wowtv.co.kr/nrcs/production/images/20261021/20261021_b501b3e7f14d4ed8b38f8ce91388387f.png"
+                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102012040005100_P4.jpg",
+                "cap": "La diputada Baek Seung-a durante su interpelación"
               },
               {
                 "t": "p",
-                "x": "La startup de inteligencia artificial (AI) Mosajaein ha entrado en el mercado japonés."
+                "x": "(Daegu=Yonhap News) Periodista Hwang Su-bin = Este año, la Oficina de Educación de Daegu destinó miles de millones de wones en cuotas de suscripción para implantar libros de texto digitales con inteligencia artificial (AIDT) en escuelas primarias y secundarias, pero se ha señalado que su uso en las clases reales es bajo."
               },
               {
                 "t": "p",
-                "x": "Mosajaein anunció el día 21 que lanzó oficialmente en Japón Airoku (アイロク), una plataforma personalizada de novelas web con IA."
+                "x": "La diputada Baek Seung-a (representación proporcional), del Partido Democrático de Corea, señaló el día 20, en la auditoría parlamentaria del Comité de Educación de la Asamblea Nacional a seis oficinas regionales de educación, entre ellas la de Daegu, celebrada en la Oficina de Educación de Busan: \"En comparación con el primer semestre de 2025, las escuelas que usan AIDT han disminuido este año un 84.8% en todo el país, pero Daegu es la excepción\"."
               },
               {
                 "t": "p",
-                "x": "Airoku es la versión japonesa de HeartFiction, la plataforma de novelas web con IA que Mosajaein opera en Corea. Cuando el usuario elige el género, la ambientación, los personajes y otros elementos, varios agentes de IA colaboran para generar el capítulo inicial de una novela web en unos 2 minutos. El usuario también puede cambiar el rumbo de la obra introduciendo en cada entrega el desarrollo que desee. Su rasgo distintivo es que va más allá de la simple lectura de novelas web y está diseñada para que el usuario participe en el proceso de creación de la historia."
+                "x": "Añadió: \"De las 622 escuelas que usan AIDT este año, la mitad, 311, están en Daegu\"."
               },
               {
                 "t": "p",
-                "x": "Según Mosajaein, su servicio en Corea, HeartFiction, superaba los 100.000 usuarios registrados en el mes 11 del año pasado, y los usuarios han generado más de 200.000 historias."
+                "x": "Baek también señaló que la elevada adopción de AIDT en las escuelas de Daegu parece deberse a la presión del superintendente de educación."
               },
               {
                 "t": "p",
-                "x": "Mosajaein explicó que eligió Japón como su primer mercado exterior por su cultura consolidada de pago por contenidos, su cultura fan y su mercado de obras derivadas (creación de 2.º grado). Para ello, desarrolló un motor de generación de contenidos especializado en japonés y adaptó el servicio incorporando las preferencias de los usuarios locales. Airoku está disponible en Google Play y en la App Store de Apple."
+                "x": "Indicó: \"Aunque la Oficina de Educación de Daegu envió varias veces circulares oficiales sobre AIDT a las escuelas y fomentó su uso, el número real de usos resultó ser bajo\"."
               },
               {
                 "t": "p",
-                "x": "Los programas gubernamentales de apoyo al desarrollo de contenidos y tecnología también sentaron las bases de esta entrada en Japón. Mosajaein fue seleccionada para el programa «Apoyo a la producción de contenidos de inteligencia artificial 2026» del Ministerio de Cultura, Deportes y Turismo y la Agencia Coreana de Contenidos Creativos, y está realizando la prueba piloto de una plataforma multimodal de creación de storyverse basada en múltiples agentes de IA."
+                "x": "Según los datos que Baek recibió de la Oficina de Educación de Daegu, las cuotas de suscripción entregadas a las escuelas primarias y secundarias de Daegu que adoptaron AI DT sumaron en total 45억8천900만원 a fecha del primer semestre de este año."
               },
               {
                 "t": "p",
-                "x": "A través de este programa desarrolla una tecnología que combina ilustraciones y audio con historias generadas por IA y, en conexión con proyectos de investigación y desarrollo (R&D) del Ministerio de Cultura, Deportes y Turismo y del Ministerio de Pymes y Startups, también desarrolla tecnología de localización al japonés basada en Deep-RAG (generación aumentada por recuperación) multilingüe. La empresa también ha solicitado 4 patentes relacionadas con la generación de contenidos con IA."
+                "x": "De ellas, 119 escuelas usaron los libros de texto digitales con IA menos de 20 veces."
               },
               {
                 "t": "p",
-                "x": "Jo Jin-hyuk, codirector ejecutivo de Mosajaein, afirmó: «Hemos llevado al mercado japonés un modelo de contenidos participativo validado en Corea», y añadió: «En el futuro planeamos ampliar el servicio a las regiones de habla china e inglesa»."
+                "x": "Baek cuestionó: \"Si un semestre suele tener 20 semanas, el 38.3% no los usó ni una vez por semana\", y preguntó: \"¿Con estas cifras se puede afirmar que los libros de texto digitales con IA se aprovecharon como es debido?\"."
+              },
+              {
+                "t": "p",
+                "x": "A continuación insistió: \"¿Por qué solo Daegu se suscribe de forma tan abrumadora a un material educativo que la mayoría de las demás escuelas del país no eligió, y además le da un apoyo aparte?\"."
+              },
+              {
+                "t": "p",
+                "x": "En respuesta, la superintendente de educación de Daegu, Kang Eun-hee, afirmó: \"Al analizar las escuelas con bajo uso, reconozco que hay aspectos en los que el uso es bajo\", aunque añadió: \"Sin embargo, son más los casos en que se usaron de forma suficiente y ayudaron activamente al aprendizaje de los alumnos\"."
+              },
+              {
+                "t": "p",
+                "x": "Y agregó: \"Seguimos brindando apoyo para que los libros de texto digitales con IA puedan aprovecharse bien\"."
+              },
+              {
+                "t": "img",
+                "src": "https://img0.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102011870005100_P4.jpg",
+                "cap": "La superintendente de educación de Daegu, Kang Eun-hee, presenta su informe"
               }
             ]
           }

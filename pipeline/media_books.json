@@ -1,7 +1,31 @@
-{"date":"2026-10-23","section":"books","media":[
-{"id":"books-kindle-plus-ai-audiobooks","type":"image","src":"pipeline/media/books-kindle-plus-ai-audiobooks.jpg"},
-{"id":"books-canada-isbn-human-author","type":"image","src":"pipeline/media/books-canada-isbn-human-author.jpg"},
-{"id":"books-meta-terms-ai-training","type":"svg"},
-{"id":"books-pla-microsoft-ai-sessions","type":"image","src":"pipeline/media/books-pla-microsoft-ai-sessions.jpg"},
-{"id":"books-mosajaein-airoku-japan","type":"image","src":"pipeline/media/books-mosajaein-airoku-japan.png"}
-]}
+{
+  "date": "2026-10-24",
+  "section": "books",
+  "media": [
+    {
+      "id": "books-australia-ai-copyright",
+      "type": "svg"
+    },
+    {
+      "id": "books-chakrabarty-dropped",
+      "type": "image",
+      "src": "pipeline/media/books-chakrabarty-dropped.jpg"
+    },
+    {
+      "id": "books-novelcrafter-gemini-argon",
+      "type": "video",
+      "src": "pipeline/media/books-novelcrafter-gemini-argon.mp4",
+      "poster": "pipeline/media/books-novelcrafter-gemini-argon.jpg"
+    },
+    {
+      "id": "books-ai-signal-noise",
+      "type": "image",
+      "src": "pipeline/media/books-ai-signal-noise.jpg"
+    },
+    {
+      "id": "books-daegu-aidt",
+      "type": "image",
+      "src": "pipeline/media/books-daegu-aidt.jpg"
+    }
+  ]
+}

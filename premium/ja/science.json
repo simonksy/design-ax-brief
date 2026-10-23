@@ -8945,6 +8945,168 @@
           "x": "温暖化は、穏やかな将来と深刻な将来の差も広げた。深刻な将来では、極端な降雨が平均を大きく上回って増えた。研究はClimate Dynamicsに掲載された。"
         }
       ]
+    },
+    "science/science-whale-dive-codas": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sperm-whales.jpg",
+          "cap": "提供: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Project CETIは2020年に設立された非営利団体で、50人を超える研究者がAI、機械学習、鯨に配慮したロボット技術を使い、ドミニカ沖のマッコウクジラのコミュニケーションを解読している。Northeastern University Londonのジョバンニ・ペトリ(Giovanni Petri)氏が主任研究者を務める。"
+        },
+        {
+          "t": "p",
+          "x": "GPS、深度、動き、心拍のセンサーを備えたタグで、深さ約700メートルまで45分～1時間続く採餌潜水を追跡し、ハイドロフォンとグライダーでコーダと呼ばれるリズミカルなクリック音を録音する。ペトリ氏はコーダを「小さな単語のようなもの」と表現する。"
+        },
+        {
+          "t": "p",
+          "x": "AIによるパターン認識が注釈作業の多くを自動化してクリック音を個体ごとに仕分け、生物学チームがその結果を確認する。"
+        },
+        {
+          "t": "p",
+          "x": "音声を深度や動きのデータと組み合わせると、機械学習モデルはおよそ8～10個のコーダから、鯨がまもなく深い採餌潜水に向かうかどうかを予測できることがわかった。"
+        },
+        {
+          "t": "p",
+          "x": "チームはコーダの中に母音に似た二つの音を見つけたが、その意味はまだわかっていない。鯨は暗闇でイカを探すため、互いのクリック音を盗み聞きしている可能性もある。"
+        }
+      ]
+    },
+    "science/science-hallucination-nerd": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/computer-scientists-bu.jpg",
+          "cap": "HallucinationNerdの構成。出典: Information (2026). DOI: 10.3390/info17111053"
+        },
+        {
+          "t": "p",
+          "x": "NYUのコンピューター科学者と学生が、ウェブ上で動く二つのAIシステムを開発し、学術誌Informationの2本の論文で発表した。両プロジェクトを率いたのは、NYU Courant Instituteのコンピューター科学教授デニス・シャシャ(Dennis Shasha)氏だ。"
+        },
+        {
+          "t": "p",
+          "x": "Hallucination Nerdを使うと、ある文書が引用文献について述べている主張が、実際に引用文献で裏付けられているかを確認できる。各主張はSupported(裏付けあり)、Partially Supported(一部裏付けあり)、Not Supported(裏付けなし)、Contradicted(矛盾)、Cited article does not exist(引用論文が存在しない)、Could not access(アクセス不可)のいずれかに判定される。"
+        },
+        {
+          "t": "p",
+          "x": "Protocol Nerdは、実験プロトコルを探す研究者を支援するためのものだ。まず要件を明確にする質問をし、続いて複数のプロトコルを提示して、それぞれが役立つ理由と役立たない理由を説明する。現在は分子生物学と化学に焦点を当てている。"
+        },
+        {
+          "t": "p",
+          "x": "チームはProtocol NerdをPubMedとEurope PMCの論文で、Hallucination NerdをarXivの論文で検証し、いずれも既存のシステムと比較した。"
+        },
+        {
+          "t": "p",
+          "x": "「過去の研究を正確かつ効率的に評価できれば、その後の関連研究は必ず良くなる」とシャシャ氏は述べた。"
+        }
+      ]
+    },
+    "science/science-forty-forest-map": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/WGEFKF0mS4Mon9B5jZmraPj5UVTfZ0HtW0VXaLS0Ijm67blWFirP4Opi5IX6QLWEbq9MSQituskRlxKgUpGfD8-C6kIbe7etM9bTbvLg3rmG5gTkwc4=w1440-h810-n-nu"
+        },
+        {
+          "t": "p",
+          "x": "Google DeepMindとGoogle Researchは、World Resources InstituteおよびIIASAと共同で、Forest Typology(ForTy)2020を公開した。陸地のあらゆる10-by-10-meter(10メートル四方)の区画を6種類の森林・土地利用型に分類する世界地図で、2017年から2025年まで毎年の変化を追う初期の時系列データも含む。"
+        },
+        {
+          "t": "p",
+          "x": "6つの分類は、原生林、天然更新林、植林地、プランテーション林、樹木作物とアグロフォレストリー、その他の土地である。"
+        },
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/wAQ6wnzu6Lr-VMuS6ielTWpKEcpB2PkjN0XTdby80-NtefdPj9-ZKCrVPk-CSPuZ6GN8B4sScphV7sUd9dwrgprBrijy8wj3Z9fIv7eg2QAcMUMGPA=w1440-h810-n-nu",
+          "cap": "2020年のForest Typology地図。各色は1平方キロメートルごとに最も多い森林または土地の種類を示す。"
+        },
+        {
+          "t": "p",
+          "x": "モデルは約170万のラベル付き地点で学習し、AlphaEarth Foundationsの埋め込みを主要な入力として使う。"
+        },
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/l0vzsdd-HHJUPQaQCHx4yzAOG-ULvQ20EM0HypoHdYpj-LMesy8I_dHhGwGtxjY1mRfa44OkiD_An7SgiHHXfaKQhgelgfZcdHWd9aPLGg_0wGyshw=w1440-h810-n-nu",
+          "cap": "上空から見ると、5つの森林・樹木作物のクラスは互いに似て見えることがある。"
+        },
+        {
+          "t": "p",
+          "x": "9,000以上の無作為な地点で検証したところ、ForTyは森林の種類を90%の確率で正しく判定し、森林と非森林を95%の確率で見分けた。"
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/wbSzS_gEiCrn4Dc1/Figure4_light_1.mp4"
+        },
+        {
+          "t": "p",
+          "x": "地図と時系列データは、オープンライセンスのもとGoogle Earth Engineで無料で利用できる。"
+        }
+      ]
+    },
+    "science/science-quantum-circuit-kaggle": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Google-Image.png"
+        },
+        {
+          "t": "p",
+          "x": "Google Quantum AIは、実用的な量子コンピューティングに必要な回路を人工知能で縮小するコンテストを始める。賞金総額は15万ドルだ。"
+        },
+        {
+          "t": "p",
+          "x": "Kaggleで開催され、核融合エネルギー、数理最適化、化学に関わるタスクに必要な計算ステップ数と量子ビット数を減らすことが課題となる。"
+        },
+        {
+          "t": "p",
+          "x": "使用するのはGoogleのQualtranプロジェクトに含まれるオープンソースライブラリkickmixで、その回路は一般的なコンピューターがシングルコアで毎秒600億ゲートのランダム化ファズテストにより検証できる。"
+        },
+        {
+          "t": "p",
+          "x": "Googleによると、自社のGeminiモデルを使った社内実験では、三つのベンチマークすべてで、これまでに報告された回路を上回る改善がすでに得られている。"
+        },
+        {
+          "t": "p",
+          "x": "賞金には、三つのタスクそれぞれの最高スコアに贈られる1万ドルが含まれる。"
+        }
+      ]
+    },
+    "science/science-navier-stokes-proof": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/676cb480-a9d0-4bb0-a42f-466e549cfa5c/ink-clash.jpg?m=1792683756.522&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "9月8日、OpenAIはClay Mathematics Instituteが懸賞金$1 million を掛ける七つのMillennium Prize Problemsの一つ、Navier-Stokesを解いたと発表した。その直前、N.Y.U.の数学者Tristan Buckmasterが、同社が自分の研究を盗んだように見えると公に非難していた。"
+        },
+        {
+          "t": "p",
+          "x": "BuckmasterはAnthropicの数学者Levent Alpögeと組み、AnthropicとOpenAIのモデルを組み合わせてプロンプトを与えていた。8月15日にClaudeがEuler方程式の爆発を導き、8月22日にはその証明がLeanで検証された。"
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/f24c2ce2-1fe8-47ba-b469-5397351e6a59/lecture-collage.jpeg?m=1792685495.812&w=900",
+          "cap": "OpenAIとの衝突後、Buckmasterが初めて開いた公開講義では、N.Y.U.のWarren Weaver Hall 109号室が立ち見で埋まった。"
+        },
+        {
+          "t": "p",
+          "x": "噂に危機感を抱いたOpenAIのチームは、新しい内部モデルの複製を未解決のMillennium Problemsに差し向けた。100体のエージェントからなる部隊が独自のEuler証明を生み出し、続いて計算に$15 million を費やしたとされる10,000体のエージェントの群れがNavier-Stokesを解いた。"
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/6a2f980d-9a8d-4ea5-8bfa-5220f1bf13f4/buckmaster-portrait.jpg?m=1792684575.161&w=900",
+          "cap": "N.Y.U.のCourant Instituteに所属する数学者、Tristan Buckmaster。"
+        },
+        {
+          "t": "p",
+          "x": "専門家は現在、群れによるNavier-Stokes証明は独自の道筋をたどったと見ている。Buckmasterは今もOpenAIが自分の進展に依拠したと考えているが、OpenAIは強く否定している。この一件は、LLMsが人間の理解を上回る速さで結果を証明しつつあることへの警告である。"
+        }
+      ]
     }
   }
 }

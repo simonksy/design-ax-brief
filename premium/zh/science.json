@@ -8071,6 +8071,168 @@
           "x": "变暖还拉大了较温和与较严重可能未来之间的差距。在较严重的未来中，极端降雨的增幅明显高于平均水平。该研究发表于Climate Dynamics。"
         }
       ]
+    },
+    "science/science-whale-dive-codas": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sperm-whales.jpg",
+          "cap": "图片来源：Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Project CETI是一家成立于2020年的非营利组织，拥有50多名研究人员，利用AI、机器学习和对鲸鱼友好的机器人技术，破译多米尼克附近海域抹香鲸的交流方式。Northeastern University London的乔瓦尼·彼得里(Giovanni Petri)是首席研究员之一。"
+        },
+        {
+          "t": "p",
+          "x": "研究人员用装有GPS、深度、运动和心率传感器的标签，追踪鲸鱼持续45分钟到1小时、深达约700米的觅食下潜；水听器和滑翔器则记录被称为“尾音”(coda)的节律性咔嗒声。彼得里称这些声音“像小小的单词”。"
+        },
+        {
+          "t": "p",
+          "x": "AI模式识别让大部分标注工作实现自动化，按个体对咔嗒声进行分类，再由生物学团队核查结果。"
+        },
+        {
+          "t": "p",
+          "x": "将音频与深度和运动数据结合后，机器学习模型显示，大约八到10组尾音就能预测鲸鱼是否即将开始深潜觅食。"
+        },
+        {
+          "t": "p",
+          "x": "团队在尾音中发现了两种类似元音的声音，但其含义尚不清楚。鲸鱼也可能会偷听彼此的咔嗒声，以便在黑暗中寻找鱿鱼。"
+        }
+      ]
+    },
+    "science/science-hallucination-nerd": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/computer-scientists-bu.jpg",
+          "cap": "HallucinationNerd架构。来源：Information (2026). DOI: 10.3390/info17111053"
+        },
+        {
+          "t": "p",
+          "x": "NYU的计算机科学家和学生开发了两套网页版AI系统，相关成果以两篇论文发表在期刊Information上。两个项目均由NYU Courant Institute计算机科学教授丹尼斯·沙沙(Dennis Shasha)主持。"
+        },
+        {
+          "t": "p",
+          "x": "借助Hallucination Nerd，用户可以核查一份文档对其引文所作的论断是否真正得到被引文献的支持，每条论断会被评为Supported(有支持)、Partially Supported(部分支持)、Not Supported(无支持)、Contradicted(相矛盾)、Cited article does not exist(被引文章不存在)或Could not access(无法访问)。"
+        },
+        {
+          "t": "p",
+          "x": "Protocol Nerd旨在帮助寻找实验方案的实验室科学家。它会先提出澄清性问题，再给出若干方案，并解释每种方案可能有用或无用的原因。目前它主要面向分子生物学和化学。"
+        },
+        {
+          "t": "p",
+          "x": "团队用PubMed和Europe PMC的文章测试了Protocol Nerd，用arXiv论文测试了Hallucination Nerd，并将两者与现有系统进行了比较。"
+        },
+        {
+          "t": "p",
+          "x": "“准确而高效地评估既往研究，只会让后续的相关研究变得更好。”沙沙说。"
+        }
+      ]
+    },
+    "science/science-forty-forest-map": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/WGEFKF0mS4Mon9B5jZmraPj5UVTfZ0HtW0VXaLS0Ijm67blWFirP4Opi5IX6QLWEbq9MSQituskRlxKgUpGfD8-C6kIbe7etM9bTbvLg3rmG5gTkwc4=w1440-h810-n-nu"
+        },
+        {
+          "t": "p",
+          "x": "Google DeepMind与Google Research联合World Resources Institute和IIASA，发布了Forest Typology（ForTy）2020。这是一张全球地图，将每个10-by-10-meter（10×10米）的陆地地块划分为六种森林和土地利用类型，并附有追踪2017年至2025年逐年变化的早期时间序列。"
+        },
+        {
+          "t": "p",
+          "x": "六个类别分别为原始林、天然更新林、人工种植林、人工林场、林木作物与农林复合，以及其他土地。"
+        },
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/wAQ6wnzu6Lr-VMuS6ielTWpKEcpB2PkjN0XTdby80-NtefdPj9-ZKCrVPk-CSPuZ6GN8B4sScphV7sUd9dwrgprBrijy8wj3Z9fIv7eg2QAcMUMGPA=w1440-h810-n-nu",
+          "cap": "2020年Forest Typology地图。每种颜色代表每平方公里内最常见的森林或土地类型。"
+        },
+        {
+          "t": "p",
+          "x": "该模型基于约170万个带标签的地点训练，并以AlphaEarth Foundations嵌入作为关键输入。"
+        },
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/l0vzsdd-HHJUPQaQCHx4yzAOG-ULvQ20EM0HypoHdYpj-LMesy8I_dHhGwGtxjY1mRfa44OkiD_An7SgiHHXfaKQhgelgfZcdHWd9aPLGg_0wGyshw=w1440-h810-n-nu",
+          "cap": "从空中看，五种森林和林木作物类别可能十分相似。"
+        },
+        {
+          "t": "p",
+          "x": "在9,000多个随机地点的验证中，ForTy判断森林类型的准确率为90%，区分森林与非森林的准确率为95%。"
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/wbSzS_gEiCrn4Dc1/Figure4_light_1.mp4"
+        },
+        {
+          "t": "p",
+          "x": "地图和时间序列以开放许可在Google Earth Engine上免费提供。"
+        }
+      ]
+    },
+    "science/science-quantum-circuit-kaggle": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Google-Image.png"
+        },
+        {
+          "t": "p",
+          "x": "Google Quantum AI将举办一项竞赛，借助人工智能缩小实用量子计算所需的电路，总奖金为15万美元。"
+        },
+        {
+          "t": "p",
+          "x": "竞赛在Kaggle上举行，要求参赛者减少核聚变能源、数学优化和化学相关任务所需的计算步骤和量子比特数量。"
+        },
+        {
+          "t": "p",
+          "x": "竞赛使用Google Qualtran项目中的开源库kickmix，其电路可由普通计算机在单核上以每秒600亿个门的速度通过随机模糊测试进行验证。"
+        },
+        {
+          "t": "p",
+          "x": "Google表示，用自家Gemini模型进行的内部实验已在全部三项基准上取得了超越现有已报告电路的改进。"
+        },
+        {
+          "t": "p",
+          "x": "奖项包括为三项任务各自的最高分分别颁发1万美元。"
+        }
+      ]
+    },
+    "science/science-navier-stokes-proof": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/676cb480-a9d0-4bb0-a42f-466e549cfa5c/ink-clash.jpg?m=1792683756.522&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "9月8日，OpenAI宣称解决了Navier-Stokes问题，这是Clay Mathematics Institute悬赏$1 million 的七个Millennium Prize Problems之一。就在此前，N.Y.U.数学家Tristan Buckmaster公开指责该公司似乎窃取了他的成果。"
+        },
+        {
+          "t": "p",
+          "x": "Buckmaster此前一直与Anthropic数学家Levent Alpöge合作，混合使用Anthropic和OpenAI的模型进行提示。8月15日，Claude让Euler方程出现爆破；8月22日，该证明在Lean中得到验证。"
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/f24c2ce2-1fe8-47ba-b469-5397351e6a59/lecture-collage.jpeg?m=1792685495.812&w=900",
+          "cap": "这是Buckmaster与OpenAI冲突后的首场公开讲座，N.Y.U. Warren Weaver Hall 109室座无虚席，只剩站位。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI团队听闻传言后颇为警觉，将一个新内部模型的多个副本投向尚未解决的Millennium Problems。由100个智能体组成的小队给出了自己的Euler证明；随后，据报道耗费$15 million 算力的10,000个智能体集群解决了Navier-Stokes。"
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/6a2f980d-9a8d-4ea5-8bfa-5220f1bf13f4/buckmaster-portrait.jpg?m=1792684575.161&w=900",
+          "cap": "N.Y.U. Courant Institute数学家Tristan Buckmaster。"
+        },
+        {
+          "t": "p",
+          "x": "专家们现在认为，该集群的Navier-Stokes证明走的是自己的路径。Buckmaster仍认为OpenAI借鉴了他的进展，OpenAI则坚决否认。这一事件警示，LLMs证明结果的速度正在超过人类理解它们的速度。"
+        }
+      ]
     }
   }
 }

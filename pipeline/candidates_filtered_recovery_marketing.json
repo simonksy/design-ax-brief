@@ -1,82 +1,53 @@
 {
   "section": "marketing",
-  "now_iso": "2026-10-20T21:40:00Z",
+  "now_iso": "2026-10-23T22:00:00Z",
   "window_hours": 72,
+  "pass": "recovery-1",
   "items": [
     {
-      "title": "Google Ads AI Max spotted automatically enabled in some Ad Grants accounts",
-      "url": "https://searchengineland.com/google-ads-ai-max-spotted-automatically-enabled-in-some-ad-grants-accounts-497261",
-      "source": "Search Engine Land",
+      "title": "AI agents are ready to shop. Some retailers are wary",
+      "url": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
+      "source": "The Verge",
       "category": "marketing",
-      "published_iso": "2026-10-19T18:52:28Z",
-      "excerpt": "Google Ads' AI Max for Search is showing up switched on in some nonprofit Google Ad Grants accounts without advertisers enabling it, expanding keywordless matching and auto-generating ad text from landing pages; since Ad Grants compliance hinges on CTR, broader AI matching could push accounts below the threshold. Google has not confirmed a grants-wide rollout.",
-      "og_image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD3Sg.img",
-      "lang": "en"
+      "published_iso": "2026-10-22T12:30:00+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "A Verge report on how retailers are reacting to AI shopping agents: some, including Amazon, The RealReal and Target, are blocking or limiting agents such as Meta Muse, while Walmart lets them in. The piece argues agents could make human shopping more annoying whether or not they work.",
+      "note": "Agentic commerce, broader than the Walmart-rules story already covered. Body not verified: WebFetch is blocked on theverge.com, and the excerpt is built from og:description plus the URL slug."
     },
     {
-      "title": "The Real Value of an Ad Starts With Attention",
-      "url": "https://www.adweek.com/convergent-tv/the-real-value-of-an-ad-starts-with-attention/",
-      "source": "Adweek",
-      "category": "marketing",
-      "published_iso": "2026-10-20T09:57:48-04:00",
-      "excerpt": "TVision data presented at ADWEEK Exchange shows Coca-Cola's much-criticized AI-generated 'Holidays Are Coming' commercial scored a Creative Attention Score of 101, slightly above the brand's holiday average of 100; TVision's CEO says AI creative it measures performs on par with or better than average creative.",
-      "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/10/ViantNYC_brandpanel_group.jpg?w=600&h=315&crop=1",
-      "lang": "en"
-    },
-    {
-      "title": "A startup offered free pizza if its AI agent ordered it. Chaos ensued.",
-      "url": "https://www.axios.com/2026/10/20/hark-ai-agent-startup-free-pizza-doordash",
-      "source": "Axios",
-      "category": "marketing",
-      "published_iso": "2026-10-20T09:00:06Z",
-      "excerpt": "AI startup Hark ran a $1 million giveaway offering $30 DoorDash credit to users who downloaded Hark Pro and let its agent order a pizza; the promo pushed the app to No. 1 in Apple's Lifestyle category and Hark says it delivered nearly 20,000 pizzas, but many users hit failed orders, unexpected charges and broad Gmail-permission requests.",
-      "og_image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1PRIEW.img",
-      "lang": "en"
-    },
-    {
-      "title": "Meta's per-creative audiences force ad sets to stay open to all genders",
-      "url": "https://ppc.land/metas-per-creative-audiences-force-ad-sets-to-stay-open-to-all-genders/",
+      "title": "Google AI Overviews reach 88% of commercial searches as AI clicks stay thin",
+      "url": "https://ppc.land/google-ai-overviews-reach-88-of-commercial-searches-as-ai-clicks-stay-thin/",
       "source": "PPC Land",
       "category": "marketing",
-      "published_iso": "2026-10-19T21:48:34.000Z",
-      "excerpt": "Meta launched a toggle on Oct 19 letting advertisers assign an age range and gender to each creative in one ad set instead of leaving its retrieval and ranking AI to work out who each asset is for, but the ad set itself must stay open to all genders and broad ages.",
-      "og_image": "https://ppc.land/content/images/size/w1200/2026/10/meta-per-creative-audiences-ad-set-all-genders-carousel-projector.jpg",
-      "lang": "en"
+      "published_iso": "2026-10-23T06:23:37+00:00",
+      "og_image": "https://ppc.land/content/images/2026/10/google-ai-overviews-88-percent-commercial-keywords-billboard-eclipses-storefronts.jpg",
+      "excerpt": "Semrush data shows AI Overviews now appear on 88% of 400 tracked US commercial keywords, up from 45.75%, while one study puts ChatGPT referral sessions at 0.62% of Google organic volume. The piece also covers ad placements in AI Overviews (12 countries, no opt-out, no reporting column) and Smart Bidding Exploration expanding to PMax and Shopping.",
+      "note": "Borderline: mostly organic/SEO data. The ad hook is the ads-in-AI-Overviews section."
     },
     {
-      "title": "Google Ads asset group A/B testing toggle spotted in Performance Max",
-      "url": "https://searchengineland.com/google-ads-asset-group-a-b-testing-toggle-spotted-in-performance-max-497523",
-      "source": "Search Engine Land",
+      "title": "Budget-limited campaigns lost their 20% ROAS surplus in 3 weeks, smec finds",
+      "url": "https://ppc.land/budget-limited-campaigns-lost-their-20-roas-surplus-in-3-weeks-smec-finds/",
+      "source": "PPC Land",
       "category": "marketing",
-      "published_iso": "2026-10-20T16:48:22+00:00",
-      "excerpt": "Google Ads appears to be testing an A/B testing toggle inside Performance Max asset groups, giving advertisers in Google's AI-driven campaign type a direct way to pit alternative creative messaging (e.g. price vs. quality) against each other with full sets of headlines, descriptions and images.",
-      "og_image": "https://searchengineland.com/wp-content/seloads/2026/10/Asset-gro.jpeg",
-      "lang": "en"
+      "published_iso": "2026-10-22T14:54:20+00:00",
+      "og_image": "https://ppc.land/content/images/size/w1200/2026/10/smec-google-ads-budget-limited-roas-surplus-sponge-squeeze.jpg",
+      "excerpt": "Smarter Ecommerce data suggests that after Google's August 17 change to Smart Bidding target strategies, budget-limited Google Ads campaigns lost their roughly 20% ROAS overdelivery within about three weeks, and CPCs at one UK homeware retailer rose from about 17p to 27p in a week. Google has not confirmed the findings.",
+      "note": "Borderline AI: automated (Smart Bidding) bidding behavior, not generative AI."
     },
     {
-      "title": "Making the internet better for AI agents might make it worse for everyone else",
-      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-      "source": "MIT Technology Review",
+      "title": "Google Ads Customer Lifecycle Goals: Value Mode, Retention Goals & Percentage Multipliers",
+      "url": "https://www.seroundtable.com/google-ads-customer-lifecycle-goals-update-42358.html",
+      "source": "Search Engine Roundtable",
       "category": "marketing",
-      "published_iso": "2026-10-19T14:22:47-04:00",
-      "excerpt": "Agentic web traffic tripled from August to September after OpenAI's Dots and Meta's Muse launched, and many sites are blocking agents consumers send to negotiate prices or book trips; as demand grows, retailers and travel sites face redesigning for agent shoppers rather than people.",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_Algo.jpg?resize=1200,600",
-      "lang": "en"
-    },
-    {
-      "title": "Brands Briefing: How brands are gearing up for TikTok Shop's biggest holiday season yet",
-      "url": "https://www.modernretail.co/marketing/brands-briefing-how-brands-are-gearing-up-for-tiktok-shops-biggest-holiday-season-yet/",
-      "source": "Modern Retail",
-      "category": "marketing",
-      "published_iso": "2026-10-20T14:00:00+00:00",
-      "excerpt": "Brands are preparing for TikTok Shop's largest holiday season as more major retailers join the platform and shoppers can browse and buy gifts with TikTok Shop's new AI shopping assistant.",
-      "og_image": "https://www.modernretail.co/wp-content/uploads/sites/5/2025/01/tiktok_revenue_commerce_MR.jpeg",
-      "lang": "en"
+      "published_iso": "2026-10-22T07:30:00-04:00",
+      "og_image": "https://images.seroundtable.com/google-ads-ui-for-multipliers-pifBTTxZ.jpg",
+      "excerpt": "Ahead of the holidays, Google Ads is expanding high value mode to Shopping campaigns, expanding customer retention goals, and adding percentage multipliers (1.1x to 5x) for new-customer values across Search, Shopping, PMax and Demand Gen, all of which feed its automated bidding.",
+      "note": "Weak AI hook (value inputs to Smart Bidding). Same story as ppc.land/google-ads-lets-retailers-multiply-new-customer-values-up-to-5x; keep only one."
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 7,
+    "kept": 4,
     "against_days": 5
   }
 }

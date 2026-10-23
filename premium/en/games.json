@@ -8645,6 +8645,155 @@
           "x": "Krafton CAIO Lee Kang-wook said, \"With a cost-effective large language model that raises performance and lowers the cost burden, we will broaden the scope of AI use across diverse industries.\" In April, Krafton launched its AI model brand 'Raon' and released 4 models, including Raon Speech, as open source."
         }
       ]
+    },
+    "games/games-miyamoto-genai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/miyamoto-pikmin_WgJYOUw.jpg?width=1200&quality=85&format=jpg&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "Shigeru Miyamoto, who will become the first video game developer awarded Japan's Order of Culture next month, shared thoughts on gen-AI at a press conference for the award, in quotes translated by VGC."
+        },
+        {
+          "t": "p",
+          "x": "He recalled tools \"moving from typewriters to word processors,\" arguing a designer's true capabilities \"finally came to the fore\" as technology handled more \"labor.\" \"While the act of creation is inherently satisfying, there's a danger: one might find satisfaction in the labor itself and mistakenly believe that a high-quality piece of work has been created,\" he said."
+        },
+        {
+          "t": "p",
+          "x": "\"Because the process relies on an individual's intent, with the computer serving as an assistant for the labor, I believe that even as technology continues to evolve, and even if AI were to eventually handle everything, there will always be a role left for us to play.\""
+        },
+        {
+          "t": "p",
+          "x": "Masahiro Sakurai was less optimistic, saying gen-AI might lead to a surge of unoriginal and unprofitable games. Nintendo hasn't ruled out gen-AI tools, while Square Enix CEO Takashi Kiryu said the company would be \"aggressive in applying AI.\""
+        }
+      ]
+    },
+    "games/games-sweeney-steam-labels": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7M3WodRrErU8qfasfyuLrW-2560-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Epic Games CEO Tim Sweeney criticized Valve for continuing to mandate AI disclosures for games sold on Steam, calling the policy \"abhorrent.\" \"Forcing developers to write a political statement to be used against them by the hate mob they're helping organize is abhorrent,\" says Sweeney."
+        },
+        {
+          "t": "p",
+          "x": "Steam's AI disclosures require devs who use generative AI to spell out how it was used. The disclosure for Call of Duty: Modern Warfare 4 reads, \"Our team uses generative AI tools to help develop some in game assets.\""
+        },
+        {
+          "t": "p",
+          "x": "As early as November 2025, Sweeney called Valve's approach nonsensical in a world where \"AI will be involved in nearly all future production.\" In June, he compared the disclosures to a \"Scarlet Letter.\""
+        },
+        {
+          "t": "p",
+          "x": "His latest message replied to Matt Workman of \"generative media cloud\" Fal, who argued \"the premise of an AI Generated Content Disclosure is ABSURD in 2026.\""
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/eZKmPGBhfcyu2zDqCWYzU9.jpeg",
+          "cap": "Image credit: Epic Games"
+        },
+        {
+          "t": "p",
+          "x": "Last week, Epic said of its reworked PC storefront, \"We vibe coded the Epic Games Launcher.\""
+        }
+      ]
+    },
+    "games/games-future-refunds": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/futurenothanks-pickup-line.jpg?width=1200&quality=85&format=jpg&auto=webp",
+          "cap": "Image credit: Molleindustria"
+        },
+        {
+          "t": "p",
+          "x": "Future? No Thanks! has been updated to remove some AI-generated voices after lead developer Paolo \"Molleindustria\" Pedercini belatedly disclosed his use of the technology. He's offering refunds over PayPal or Venmo to anyone who \"still feel[s] betrayed.\""
+        },
+        {
+          "t": "p",
+          "x": "The update removes two instances of text-to-speech voicework for robot characters: an automated toilet and an automated translator in a hair salon. \"In my opinion the game is worse now, but only, like, 0.001% worse,\" he says."
+        },
+        {
+          "t": "p",
+          "x": "\"I did ask chatGPT to fix a broken shader and a few things like that,\" Pedercini wrote, adding that \"you should probably assume that all the studios that have not made a public statement against all generative AI are using it for coding in some capacity.\""
+        },
+        {
+          "t": "p",
+          "x": "He shared a list of developers who've sworn off generative AI. His next game will be \"completely hand-coded\"."
+        }
+      ]
+    },
+    "games/games-sonicfox-nexcon": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/IMG_7145.jpeg",
+          "cap": "The Game Awards / YouTube"
+        },
+        {
+          "t": "p",
+          "x": "Upon discovering that Nexcon, a gaming event taking place in Oklahoma next month at which fighting game savant Dominique “SonicFox” McLean was set to be a special guest, had used AI art for promotional purposes, McLean promptly pulled out."
+        },
+        {
+          "t": "p",
+          "x": "“Not sure who’s in charge of Nexcon, but I absolutely refuse to have my likeness be AI generated and my interest in attending as a special guest has dropped to 0,” McLean wrote on Twitter. “Incredibly disrespectful.” The same day, they added that they’d terminated their contract and would no longer be attending."
+        },
+        {
+          "t": "p",
+          "x": "Ty Bailey of Ninjutsu Entertainment, the organization putting on Nexcon, posted a video apologizing to McLean, explaining that Ninjutsu only resorted to AI because it had run out of money to pay human artists, and implored SonicFox to reconsider."
+        },
+        {
+          "t": "p",
+          "x": "McLean held firm. “I’m a forgiving person, and I can hear the remorse in your voice so I forgive you. However, there are still consequences to said actions that will prompt me not to attend. Use the money you offered me in contract to hire artists, and maybe next year I’ll reconsider.”"
+        },
+        {
+          "t": "p",
+          "x": "“If all goes well and you build a community with willing artists and talent and remove all AI, I may be more amenable to next year,” they continued."
+        }
+      ]
+    },
+    "games/games-strata-unreal-browser": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/wonder-2.jpg",
+          "cap": "Wonder Interactive is making it easy to take Unreal games to the web."
+        },
+        {
+          "t": "p",
+          "x": "Wonder Interactive has unveiled Strata, an AI-powered dev tool that can turn Unreal Engine projects into playable browser links using WebAssembly and WebGPU. The process can be initiated through a single natural-language prompt."
+        },
+        {
+          "t": "p",
+          "x": "For studios and publishers, it could make it possible to distribute playable demos, run external playtests and reach new audiences through a web link, without a traditional game client, said Alex St. Louis, cofounder and COO. “Tim Sweeney is right. AI is the future of game development,” he said."
+        },
+        {
+          "t": "video",
+          "yt": "qo1h9SK-kVA"
+        },
+        {
+          "t": "p",
+          "x": "Strata works over MCP: developers paste one prompt into Claude Code, Codex, Cursor or another AI IDE with their Unreal project open. The agent builds the project against Wonder’s browser-compatible Unreal runtime, verifies it on a real GPU and returns a play link. A CLI option also exists."
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/wonder-1024x457.jpg",
+          "cap": "Wonder Interactive is taking Unreal games to the web."
+        },
+        {
+          "t": "p",
+          "x": "The company says it has run Epic’s City Sample in the browser, with players downloading about 3% of its data before they can start walking around. The WebGPU renderer fully supports Lumen and Nanite."
+        },
+        {
+          "t": "p",
+          "x": "Longer term, agents could modify a game, deploy a build, playtest it in the browser and optimize performance in a repeating loop. St. Louis hinted at a “Steam for the web” marketplace."
+        }
+      ]
     }
   }
 }

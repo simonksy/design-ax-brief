@@ -1,31 +1,31 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "section": "science",
   "media": [
     {
-      "id": "science-navier-stokes-proof",
+      "id": "science-rfd4-proteina",
       "type": "image",
-      "src": "pipeline/media/science-navier-stokes-proof.jpg"
+      "src": "pipeline/media/science-rfd4-proteina.jpg"
     },
     {
-      "id": "science-fusion-plasma-chip",
+      "id": "science-whale-dive-codas",
       "type": "image",
-      "src": "pipeline/media/science-fusion-plasma-chip.jpg"
+      "src": "pipeline/media/science-whale-dive-codas.jpg"
     },
     {
-      "id": "science-quantum-sim-agents",
-      "type": "image",
-      "src": "pipeline/media/science-quantum-sim-agents.jpg"
+      "id": "science-hallucination-nerd",
+      "type": "svg"
     },
     {
-      "id": "science-chatbot-delusions",
-      "type": "image",
-      "src": "pipeline/media/science-chatbot-delusions.jpg"
+      "id": "science-forty-forest-map",
+      "type": "video",
+      "src": "pipeline/media/science-forty-forest-map.mp4",
+      "poster": "pipeline/media/science-forty-forest-map.jpg"
     },
     {
-      "id": "science-bee-buzz-audio",
+      "id": "science-quantum-circuit-kaggle",
       "type": "image",
-      "src": "pipeline/media/science-bee-buzz-audio.jpg"
+      "src": "pipeline/media/science-quantum-circuit-kaggle.png"
     }
   ]
 }

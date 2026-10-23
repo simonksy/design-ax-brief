@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-24",
   "section": "gadgets",
   "cards": [
     {
-      "id": "gadgets-boya-notra-neo-recorder",
+      "id": "gadgets-timekettle-w4-offline",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Boya Notra Neo brings AI notes\nto a MagSafe voice recorder",
-      "body": "Boya's MagSafe recorder transcribes calls in 140+ languages, tags speakers, and drafts AI summaries.",
-      "mini_headline": "Boya's AI MagSafe recorder",
+      "headline": "Timekettle W4 earbuds add\n12 offline language pairs",
+      "body": "An update adds 12 offline language pairs to the W4 Pro and W4 Plus for use without Wi-Fi or mobile data.",
+      "mini_headline": "Timekettle W4 gains\n12 offline pairs",
       "tool": "Gadgets",
       "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.1428542.0.html",
+      "url": "https://www.notebookcheck.net/Timekettle-expands-offline-translation-for-W4-earbuds-with-12-new-language-pairs.1429989.0.html",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
@@ -19,34 +19,32 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.jpg",
-            "cap": "The colorful, petite Boya Notra Neo delivers AI-powered meeting transcriptions and summaries."
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/TimeKettle.png"
           },
           {
             "t": "p",
-            "x": "Boya has unveiled the Notra Neo, an AI-powered voice recorder designed to simplify note-taking during calls and meetings. It has ambient, phone call and Bluetooth recording modes, with on-board and cloud storage."
+            "x": "Timekettle's translation earbuds are getting a little more multilingual. A new software update for the W4 Pro and W4 Plus interpreter earbuds adds 12 offline language pairs. The W4 Pro has been around since 2025, while the newer W4 Plus arrived in September 2026. Both already offered offline translation; the October 20 update expands the number of supported offline language pairs from 13 to 25, covering 12 languages."
           },
           {
             "t": "p",
-            "x": "The Notra Neo supports transcription in more than 140 languages and includes smart speaker identification. The AI can generate summaries, action items and mind maps using more than 60 professional templates, and Ask AI lets users find specific information across their recorded files."
+            "x": "The 12 additions include Arabic, Thai, Italian, Portuguese, Indonesian and Vietnamese, each supporting two-way translation with English and Chinese. They join existing languages such as Japanese, Spanish, Russian, Korean, German and French. Online translation coverage also gets a boost, reaching 54 languages and 108 accents, with Kazakh and Khmer joining the list."
           },
           {
             "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-b.jpg",
-            "cap": "Two MEMS microphones capture voices up to 5 m (16.4 ft.) away."
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Timekettle_Face_to_Face_Translation.jpg",
+            "cap": "Timekettle face to face translation (Timekettle)"
           },
           {
             "t": "p",
-            "x": "It has 8 GB of local storage and records continuously for up to 20 hours; recharging takes 1.5 hours. Recordings sync via the Boya OS app to free unlimited cloud storage and export in 10 formats. Boya says data is end-to-end encrypted and HIPAA-compliant."
+            "x": "Supporting more languages doesn't necessarily mean understanding them perfectly. Regional accents, background noise and local expressions can still cause trouble, and the expanded translation capabilities haven't been independently tested. The update is already available to W4 Pro and W4 Plus owners, with no new earbuds required."
           },
           {
             "t": "p",
-            "x": "The recorder costs $79.99 in black, white, neon yellow and light pink, weighing 34.5 g. Plans: free Starter (600 minutes/month, 10 templates), Pro at $17.99/month (1,280 minutes, 40 templates, Ask AI) and Ultimate at $29.99/month (unlimited transcription, all 60 templates)."
+            "x": "The video below shows an earlier demonstration of the W4 Pro's translation features, before the latest update expanded its offline language support."
           },
           {
-            "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-c.jpg",
-            "cap": "The Boya Notra Neo comes with a MagSafe-compatible magnetic mount."
+            "t": "video",
+            "yt": "SOqC9YXPsJA"
           }
         ]
       }

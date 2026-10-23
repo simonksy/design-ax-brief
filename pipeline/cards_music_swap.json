@@ -1,38 +1,47 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-24",
   "section": "music",
   "cards": [
     {
-      "id": "music-rocketship",
+      "id": "music-piano2pop",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Rocketship profiles a song's\naudience before release",
-      "body": "Rocketship's AI platform analyses 80+ audio, lyric and contextual parameters to profile a song's audience pre-release.",
-      "mini_headline": "Rocketship profiles listeners",
+      "headline": "Piano2Pop turns piano demos\ninto full pop productions",
+      "body": "Piano2Pop conditions a pretrained music model on piano MIDI to expand a bare demo into an instrumental pop track.",
+      "mini_headline": "Piano demos become pop tracks",
       "tool": "Music",
-      "source": "Music Ally",
-      "url": "https://musically.com/2026/10/14/today-in-music-ai-news-raye-gets-botted-umg-senior-ai-role-characterai-bankruptcy-rocketship-launches/",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.31510",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "A pop song often begins as a demo: a guitar sketch, a topline sung over an existing track, or a piano accompaniment. Turning this sketch into a full production requires the producer to infer its musical intent and realize it through drums, instrumentation, arrangement, and mixing. Researchers at National Taiwan University call this task Piano2Pop: given a piano MIDI demo, generate a complete instrumental pop production that is coherent, idiomatic to pop, and faithful to the demo's musical intent."
+          },
+          {
             "t": "img",
-            "src": "https://rocketshipmusic.kinsta.cloud/wp-content/uploads/Rocketship.png",
-            "cap": "Rocketship"
+            "src": "https://arxiv.org/html/2610.31510v1/hero.png",
+            "cap": "Figure 1: Overview of Piano2Pop."
           },
           {
             "t": "p",
-            "x": "Rocketship is a new AI-powered platform that claims to be able to “identify a song’s potential audience before it’s ever released.” It says that it uses AI to “analyse more than 80 audio, lyric and contextual parameters of an artist’s song” and then delivers “a comprehensive profile of the song’s potential audience.”"
+            "x": "Their pseudo-supervised approach conditions a pretrained flow-matching model on piano rolls without aligned piano-pop supervision. It trains on synthetic piano-instrumental pairs derived from pop recordings, comparing pair-free transcription, including function-selective (FST) and register-density (RDA) augmentations, with a pair-supervised piano-cover generator as pseudo-demo sources."
           },
           {
             "t": "p",
-            "x": "According to Rocketship, the AI cross-references those parameters against millions of data points from more than 250K of the most significant songs of the last five decades. The profile covers total potential fans, genre breakdown, similar artists, demographics, geographic hotspots and the social platforms they use, and an AI command center called Mission Control builds a marketing campaign tailored to the release date and budget."
+            "x": "On 476 testing real-world piano-cover/pop pairs, the pair-supervised approach achieves the best Frechet Audio Distance, Accompaniment Prompt Adherence, and spectral shape on real-piano inputs, while FST mitigates piano-heavy outputs in pair-free training. All fine-tuned systems significantly outperform the zero-shot baselines, MuseControlLite and ACE-Step cover."
+          },
+          {
+            "t": "img",
+            "src": "https://arxiv.org/html/2610.31510v1/instrument_energy_differences.svg",
+            "cap": "Figure 2: Difference from GT in mean instrument-energy share under OOD real-piano conditioning."
           },
           {
             "t": "p",
-            "x": "It’s not the first company to claim it can identify how a song will land before it’s released – but it’s one of the first in the AI era. One interesting quirk of the glut of AI-generated music is that we’re starting to understand better how much of a song’s hit potential is about the (human?) artist behind it and how much is about the physical properties of the song itself."
+            "x": "Audio examples are on the demo page, and the authors plan to release open-source code and checkpoints upon paper publication. The paper has been submitted to ICASSP 2027."
           }
         ]
       }

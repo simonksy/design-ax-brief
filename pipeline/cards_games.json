@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "section": "games",
   "cards": [
     {
-      "id": "games-strata-unreal-browser",
+      "id": "games-revamp-playtest",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Wonder의 Strata\nUnreal을 브라우저로",
-      "body": "Strata는 Unreal 프로젝트를 브라우저 링크로 바꾸는 AI 도구다.",
-      "mini_headline": "Strata, Unreal을 웹으로",
+      "headline": "Moonlighter 팀\nAI 탓 ReVamp 축소",
+      "body": "Digital Sun은 AI 복제 걱정에 ReVamp를 Discord서만 시험한다.",
+      "mini_headline": "AI 복제 걱정에 줄인 플레이테스트",
       "tool": "Games",
-      "source": "GamesBeat",
-      "url": "https://gamesbeat.com/wonder-interactives-strata-uses-ai-to-take-unreal-engine-games-to-browsers-using-webassembly-and-webgpu/",
+      "source": "Game Developer",
+      "url": "https://www.gamedeveloper.com/programming/moonlighter-developer-delays-public-playtest-of-next-game-over-concerns-of-ai-cloning",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -19,257 +19,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://gamesbeat.com/wp-content/uploads/2026/10/wonder-2.jpg",
-            "cap": "Wonder Interactive를 쓰면 Unreal 게임을 웹으로 쉽게 옮길 수 있다."
+            "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt9efacbc53c73032f/6ad658566285139835883f4d/revampfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
           },
           {
             "t": "p",
-            "x": "Wonder Interactive가 AI-powered 개발 도구 Strata를 공개했다. WebAssembly와 WebGPU로 Unreal Engine 프로젝트를 브라우저에서 바로 플레이할 수 있는 링크로 바꾼다. 시작은 자연어 프롬프트 하나면 된다."
+            "x": "생성형 AI를 쓴(AI-enabled) 게임 복제가 잇따르자 기존 스튜디오들도 전략을 바꾸기 시작했다. Moonlighter와 Moonlighter 2: The Endless Vault로 알려진 Digital Sun Games는 차기작 \"Tower Defensevania\" 게임 ReVamp의 공개 플레이테스트를 예고해 둔 터였다."
           },
           {
             "t": "p",
-            "x": "공동 창업자이자 COO인 Alex St. Louis는 스튜디오와 퍼블리셔가 기존 게임 클라이언트 없이 웹 링크 하나로 데모를 배포하고 외부 플레이테스트를 열며 새 이용자를 만날 수 있을 것이라고 말했다. 그는 “Tim Sweeney 말이 맞다. AI는 게임 개발의 미래다”라고도 했다."
-          },
-          {
-            "t": "video",
-            "yt": "qo1h9SK-kVA"
+            "x": "이제 그 계획은 미뤄졌다. 스튜디오는 Steam과 Bluesky에 올린 글에서 팀이 \"원작이 나오기도 전에 게임이 역설계(reverse-engineered)되고 복제돼 출시되는 최근 소식을 우려하고 있다\"고 밝혔다. \"출시까지 아직 몇 달이 남은 상황에서 ReVamp의 대규모 공개 빌드는 위험이 너무 크다고 느꼈다\"는 것이다. 대신 10월 29일부터 Discord 서버에서 \"더 제한된\" 플레이테스트를 연다."
           },
           {
             "t": "p",
-            "x": "Strata는 MCP로 작동한다. 개발자는 Unreal 프로젝트를 열어 둔 채 Claude Code, Codex, Cursor 같은 AI IDE에 프롬프트 하나만 붙여 넣으면 된다. 에이전트가 Wonder의 브라우저 호환 Unreal 런타임에 맞춰 프로젝트를 빌드하고 실제 GPU에서 검증한 뒤 플레이 링크를 돌려준다. CLI로도 쓸 수 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://gamesbeat.com/wp-content/uploads/2026/10/wonder-1024x457.jpg",
-            "cap": "Wonder Interactive는 Unreal 게임을 웹으로 옮긴다."
+            "x": "바로 어제는 Alliance Arts와 Who's You가 Drunken Goddess Reflux의 Steam Next Fest 데모를 거둬들였다. 지난 한 달 동안 인디 개발자들은 자기 데모와 트레일러, 이미지가 생성형 AI 도구에 들어가 기본 기능이 금세 재현됐다는 사례를 잇달아 전했다. 게임 메커니즘은 저작권으로 보호받기 어려운 데다, Anthropic의 Claude나 OpenAI의 ChatGPT 같은 LLMs로 이런 일이 가능해졌다."
           },
           {
             "t": "p",
-            "x": "회사는 Epic의 City Sample을 브라우저에서 돌렸다. 플레이어는 데이터를 약 3%만 내려받아도 걸어 다니기 시작할 수 있다고 한다. WebGPU 렌더러는 Lumen과 Nanite를 완전히 지원한다."
-          },
-          {
-            "t": "p",
-            "x": "장기적으로는 에이전트가 게임을 고치고 빌드를 배포하고 브라우저에서 플레이테스트하고 성능을 최적화하는 일을 되풀이할 수도 있다. St. Louis는 “웹을 위한 Steam” 같은 마켓플레이스도 내비쳤다."
+            "x": "회사는 \"게임을 일찍 보여주는 것은 인디가 주목받고, 우리를 지탱해 주는 팬을 만나는 방법\"이라고 썼다. \"플랫폼들이 독창적인 작품에 대한 보호를 계속 강화하길 바란다.\""
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Wonder's Strata puts Unreal\ngames in the browser",
-          "body": "Wonder Interactive's Strata is an AI-powered tool that turns Unreal Engine projects into playable browser links.",
-          "mini_headline": "Strata takes Unreal to the web",
+          "headline": "Moonlighter studio narrows\nReVamp playtest over AI fears",
+          "body": "Digital Sun is limiting early ReVamp tests to its Discord community over fears of generative AI-enabled cloning.",
+          "mini_headline": "AI fears shrink a playtest",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/wonder-2.jpg",
-                "cap": "Wonder Interactive is making it easy to take Unreal games to the web."
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt9efacbc53c73032f/6ad658566285139835883f4d/revampfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
               },
               {
                 "t": "p",
-                "x": "Wonder Interactive has unveiled Strata, an AI-powered dev tool that can turn Unreal Engine projects into playable browser links using WebAssembly and WebGPU. The process can be initiated through a single natural-language prompt."
+                "x": "A recent burst of generative AI-enabled game cloning is forcing established studios to adjust their strategies. Digital Sun Games, best known for Moonlighter and Moonlighter 2: The Endless Vault, had announced a public playtest for its upcoming \"Tower Defensevania\" game ReVamp."
               },
               {
                 "t": "p",
-                "x": "For studios and publishers, it could make it possible to distribute playable demos, run external playtests and reach new audiences through a web link, without a traditional game client, said Alex St. Louis, cofounder and COO. “Tim Sweeney is right. AI is the future of game development,” he said."
-              },
-              {
-                "t": "video",
-                "yt": "qo1h9SK-kVA"
+                "x": "Now those plans are on ice. In a post on Steam and Bluesky, the studio said the team is \"concerned by recent news of games being reverse-engineered, cloned, and published before the original is even out.\" \"With launch still months away, a large public build of ReVamp felt like too big a risk,\" it said. It will run a \"more contained\" playtest through its Discord server starting on October 29."
               },
               {
                 "t": "p",
-                "x": "Strata works over MCP: developers paste one prompt into Claude Code, Codex, Cursor or another AI IDE with their Unreal project open. The agent builds the project against Wonder’s browser-compatible Unreal runtime, verifies it on a real GPU and returns a play link. A CLI option also exists."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/wonder-1024x457.jpg",
-                "cap": "Wonder Interactive is taking Unreal games to the web."
+                "x": "Just yesterday, Alliance Arts and Who's You canceled the Steam Next Fest demo for Drunken Goddess Reflux. Indie developers have spent the last month describing how demos, trailers, and images of their games were fed into generative AI tools to quickly rebuild their basic features, enabled by limited copyright protections for game mechanics and LLMs like Anthropic's Claude and OpenAI's ChatGPT."
               },
               {
                 "t": "p",
-                "x": "The company says it has run Epic’s City Sample in the browser, with players downloading about 3% of its data before they can start walking around. The WebGPU renderer fully supports Lumen and Nanite."
-              },
-              {
-                "t": "p",
-                "x": "Longer term, agents could modify a game, deploy a build, playtest it in the browser and optimize performance in a repeating loop. St. Louis hinted at a “Steam for the web” marketplace."
+                "x": "\"Showing games early is how indies get seen and find the fans who keep us going,\" the company wrote. \"We hope platforms keep strengthening protections for original work.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "Wonder의 Strata\nUnreal을 브라우저로",
-          "body": "Strata는 Unreal 프로젝트를 브라우저 링크로 바꾸는 AI 도구다.",
-          "mini_headline": "Strata, Unreal을 웹으로",
+          "headline": "Moonlighter 팀\nAI 탓 ReVamp 축소",
+          "body": "Digital Sun은 AI 복제 걱정에 ReVamp를 Discord서만 시험한다.",
+          "mini_headline": "AI 복제 걱정에 줄인 플레이테스트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/wonder-2.jpg",
-                "cap": "Wonder Interactive를 쓰면 Unreal 게임을 웹으로 쉽게 옮길 수 있다."
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt9efacbc53c73032f/6ad658566285139835883f4d/revampfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
               },
               {
                 "t": "p",
-                "x": "Wonder Interactive가 AI-powered 개발 도구 Strata를 공개했다. WebAssembly와 WebGPU로 Unreal Engine 프로젝트를 브라우저에서 바로 플레이할 수 있는 링크로 바꾼다. 시작은 자연어 프롬프트 하나면 된다."
+                "x": "생성형 AI를 쓴(AI-enabled) 게임 복제가 잇따르자 기존 스튜디오들도 전략을 바꾸기 시작했다. Moonlighter와 Moonlighter 2: The Endless Vault로 알려진 Digital Sun Games는 차기작 \"Tower Defensevania\" 게임 ReVamp의 공개 플레이테스트를 예고해 둔 터였다."
               },
               {
                 "t": "p",
-                "x": "공동 창업자이자 COO인 Alex St. Louis는 스튜디오와 퍼블리셔가 기존 게임 클라이언트 없이 웹 링크 하나로 데모를 배포하고 외부 플레이테스트를 열며 새 이용자를 만날 수 있을 것이라고 말했다. 그는 “Tim Sweeney 말이 맞다. AI는 게임 개발의 미래다”라고도 했다."
-              },
-              {
-                "t": "video",
-                "yt": "qo1h9SK-kVA"
+                "x": "이제 그 계획은 미뤄졌다. 스튜디오는 Steam과 Bluesky에 올린 글에서 팀이 \"원작이 나오기도 전에 게임이 역설계(reverse-engineered)되고 복제돼 출시되는 최근 소식을 우려하고 있다\"고 밝혔다. \"출시까지 아직 몇 달이 남은 상황에서 ReVamp의 대규모 공개 빌드는 위험이 너무 크다고 느꼈다\"는 것이다. 대신 10월 29일부터 Discord 서버에서 \"더 제한된\" 플레이테스트를 연다."
               },
               {
                 "t": "p",
-                "x": "Strata는 MCP로 작동한다. 개발자는 Unreal 프로젝트를 열어 둔 채 Claude Code, Codex, Cursor 같은 AI IDE에 프롬프트 하나만 붙여 넣으면 된다. 에이전트가 Wonder의 브라우저 호환 Unreal 런타임에 맞춰 프로젝트를 빌드하고 실제 GPU에서 검증한 뒤 플레이 링크를 돌려준다. CLI로도 쓸 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/wonder-1024x457.jpg",
-                "cap": "Wonder Interactive는 Unreal 게임을 웹으로 옮긴다."
+                "x": "바로 어제는 Alliance Arts와 Who's You가 Drunken Goddess Reflux의 Steam Next Fest 데모를 거둬들였다. 지난 한 달 동안 인디 개발자들은 자기 데모와 트레일러, 이미지가 생성형 AI 도구에 들어가 기본 기능이 금세 재현됐다는 사례를 잇달아 전했다. 게임 메커니즘은 저작권으로 보호받기 어려운 데다, Anthropic의 Claude나 OpenAI의 ChatGPT 같은 LLMs로 이런 일이 가능해졌다."
               },
               {
                 "t": "p",
-                "x": "회사는 Epic의 City Sample을 브라우저에서 돌렸다. 플레이어는 데이터를 약 3%만 내려받아도 걸어 다니기 시작할 수 있다고 한다. WebGPU 렌더러는 Lumen과 Nanite를 완전히 지원한다."
-              },
-              {
-                "t": "p",
-                "x": "장기적으로는 에이전트가 게임을 고치고 빌드를 배포하고 브라우저에서 플레이테스트하고 성능을 최적화하는 일을 되풀이할 수도 있다. St. Louis는 “웹을 위한 Steam” 같은 마켓플레이스도 내비쳤다."
+                "x": "회사는 \"게임을 일찍 보여주는 것은 인디가 주목받고, 우리를 지탱해 주는 팬을 만나는 방법\"이라고 썼다. \"플랫폼들이 독창적인 작품에 대한 보호를 계속 강화하길 바란다.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "WonderのStrata\nUnrealをブラウザへ",
-          "body": "StrataはUnrealのプロジェクトをブラウザで遊べるリンクに変えるAIツールだ。",
-          "mini_headline": "StrataでUnrealをWebへ",
+          "headline": "Moonlighter開発元\nAI懸念でReVamp縮小",
+          "body": "Digital SunはAI複製を懸念し、ReVampの試験をDiscordに限定した。",
+          "mini_headline": "AI懸念で縮むプレイテスト",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/wonder-2.jpg",
-                "cap": "Wonder Interactiveは、Unrealのゲームを手軽にWebへ持ち込めるようにしている。"
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt9efacbc53c73032f/6ad658566285139835883f4d/revampfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
               },
               {
                 "t": "p",
-                "x": "Wonder Interactiveは、AI-poweredの開発ツール「Strata」を発表した。WebAssemblyとWebGPUを使い、Unreal Engineのプロジェクトをブラウザでプレイできるリンクに変換する。処理は自然言語のプロンプトひとつで開始できる。"
+                "x": "生成AIを使った(AI-enabled)ゲームの複製が最近相次ぎ、既存のスタジオは戦略の見直しを迫られている。MoonlighterやMoonlighter 2: The Endless Vaultで知られるDigital Sun Gamesは、次回作である「Tower Defensevania」ゲームReVampの公開プレイテストを告知していた。"
               },
               {
                 "t": "p",
-                "x": "共同創業者でCOOのAlex St. Louisによれば、スタジオやパブリッシャーは従来のゲームクライアントなしに、Webリンクを通じてプレイ可能なデモを配布し、外部プレイテストを実施し、新たな層に届けられるようになる可能性がある。「Tim Sweeneyは正しい。AIはゲーム開発の未来だ」と彼は語った。"
-              },
-              {
-                "t": "video",
-                "yt": "qo1h9SK-kVA"
+                "x": "その計画はいま凍結された。スタジオはSteamとBlueskyへの投稿で、チームは「オリジナルの発売前にゲームがリバースエンジニアリング(reverse-engineered)され、複製され、公開されるという最近のニュースを懸念している」と述べた。「発売までまだ数か月ある中で、ReVampの大規模な公開ビルドはリスクが大きすぎると感じた」という。10月29日からはDiscordサーバーで「より限定的な」プレイテストを実施する。"
               },
               {
                 "t": "p",
-                "x": "StrataはMCP経由で動作する。開発者はUnrealプロジェクトを開いた状態で、Claude Code、Codex、Cursorなど任意のAI IDEにプロンプトをひとつ貼り付けるだけだ。エージェントがWonderのブラウザ対応Unrealランタイム向けにプロジェクトをビルドし、実際のGPUで検証してプレイ用リンクを返す。CLIでの利用も可能だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/wonder-1024x457.jpg",
-                "cap": "Wonder InteractiveはUnrealのゲームをWebへ持ち込もうとしている。"
+                "x": "つい昨日には、Alliance ArtsとWho's YouがDrunken Goddess RefluxのSteam Next Festデモを取り下げた。インディー開発者たちはここ一か月、自作のデモやトレーラー、画像が生成AIツールに読み込まれ、基本的な機能を短期間で再現されたと訴えてきた。ゲームメカニクスの著作権保護が限られていることに加え、AnthropicのClaudeやOpenAIのChatGPTといったLLMsがそれを可能にしている。"
               },
               {
                 "t": "p",
-                "x": "同社によると、EpicのCity Sampleをブラウザで動かしており、プレイヤーはデータの約3%をダウンロードするだけで歩き回り始められる。WebGPUレンダラーはLumenとNaniteを完全にサポートしている。"
-              },
-              {
-                "t": "p",
-                "x": "長期的には、エージェントがゲームを修正し、ビルドをデプロイし、ブラウザでプレイテストし、パフォーマンスを最適化するループを繰り返せるようになる可能性がある。St. Louisは「Web版Steam」のようなマーケットプレイスを示唆した。"
+                "x": "「ゲームを早く見せることは、インディーが注目され、私たちを支えてくれるファンと出会う方法だ」と同社は書いた。「プラットフォームがオリジナル作品の保護を強化し続けることを願っている」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Wonder推出Strata\nUnreal游戏进浏览器",
-          "body": "Strata是一款AI工具，可将Unreal项目变成可在浏览器游玩的链接。",
-          "mini_headline": "Strata把Unreal带上网页",
+          "headline": "Moonlighter工作室\n因AI顾虑缩ReVamp测试",
+          "body": "Digital Sun因担忧AI复制，将ReVamp早期测试限于Discord社区。",
+          "mini_headline": "AI担忧让试玩缩水",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/wonder-2.jpg",
-                "cap": "Wonder Interactive让Unreal游戏轻松登上网页。"
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt9efacbc53c73032f/6ad658566285139835883f4d/revampfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
               },
               {
                 "t": "p",
-                "x": "Wonder Interactive发布了AI-powered开发工具Strata，可借助WebAssembly和WebGPU将Unreal Engine项目转换为可在浏览器中游玩的链接。整个流程只需一条自然语言提示即可启动。"
+                "x": "近来借助生成式AI（AI-enabled）复制游戏的现象激增，迫使老牌工作室调整策略。以Moonlighter和Moonlighter 2: The Endless Vault闻名的Digital Sun Games，此前宣布将为即将推出的“Tower Defensevania”游戏ReVamp举办公开试玩。"
               },
               {
                 "t": "p",
-                "x": "联合创始人兼COO Alex St. Louis表示，对工作室和发行商而言，这可能让他们无需传统游戏客户端，仅通过一个网页链接就能分发可玩演示、开展外部试玩并触达新受众。他说：“Tim Sweeney说得对。AI是游戏开发的未来。”"
-              },
-              {
-                "t": "video",
-                "yt": "qo1h9SK-kVA"
+                "x": "如今这一计划已被搁置。工作室在Steam和Bluesky上发文称，团队“对最近游戏在原作尚未推出前就被逆向工程（reverse-engineered）、复制并发布的消息感到担忧”。“距离发售还有数月，发布大规模的ReVamp公开版本风险太大，”工作室表示。它将从10月29日起通过Discord服务器开展“更受控”的试玩。"
               },
               {
                 "t": "p",
-                "x": "Strata通过MCP运行：开发者在打开Unreal项目的情况下，把一条提示粘贴到Claude Code、Codex、Cursor或其他AI IDE中。智能体会基于Wonder兼容浏览器的Unreal运行时构建项目，在真实GPU上验证，然后返回一个游玩链接。此外也提供CLI方式。"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/wonder-1024x457.jpg",
-                "cap": "Wonder Interactive正把Unreal游戏带到网页上。"
+                "x": "就在昨天，Alliance Arts与Who's You取消了Drunken Goddess Reflux的Steam Next Fest试玩版。过去一个月，独立开发者纷纷讲述自己游戏的试玩版、预告片和图片被输入生成式AI工具，基本功能被迅速复刻；游戏机制的版权保护有限，加上Anthropic的Claude和OpenAI的ChatGPT等LLMs，让这一切成为可能。"
               },
               {
                 "t": "p",
-                "x": "该公司称已在浏览器中运行Epic的City Sample，玩家只需下载约3%的数据即可开始四处走动。WebGPU渲染器完整支持Lumen和Nanite。"
-              },
-              {
-                "t": "p",
-                "x": "从长远看，智能体可以循环往复地修改游戏、部署构建、在浏览器中试玩并优化性能。St. Louis暗示将推出“网页版Steam”式的市场。"
+                "x": "“尽早展示游戏，是独立开发者被看见、找到支撑我们走下去的粉丝的方式，”该公司写道。“我们希望各平台持续加强对原创作品的保护。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Strata, de Wonder, lleva juegos\nde Unreal al navegador",
-          "body": "Strata, de Wonder Interactive, convierte con IA proyectos de Unreal Engine en enlaces jugables en el navegador.",
-          "mini_headline": "Strata lleva Unreal a la web",
+          "headline": "Estudio de Moonlighter limita\nsu prueba de ReVamp por la AI",
+          "body": "Digital Sun limita las primeras pruebas de ReVamp a su comunidad de Discord por temor a la clonación con AI.",
+          "mini_headline": "El temor a la AI reduce una prueba",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/wonder-2.jpg",
-                "cap": "Wonder Interactive facilita llevar los juegos de Unreal a la web."
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt9efacbc53c73032f/6ad658566285139835883f4d/revampfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
               },
               {
                 "t": "p",
-                "x": "Wonder Interactive ha presentado Strata, una herramienta de desarrollo AI-powered que puede convertir proyectos de Unreal Engine en enlaces jugables en el navegador mediante WebAssembly y WebGPU. El proceso puede iniciarse con una sola instrucción en lenguaje natural."
+                "x": "Una reciente oleada de clonación de juegos impulsada por AI generativa (AI-enabled) está obligando a estudios consolidados a ajustar sus estrategias. Digital Sun Games, conocido por Moonlighter y Moonlighter 2: The Endless Vault, había anunciado una prueba pública de su próximo juego \"Tower Defensevania\", ReVamp."
               },
               {
                 "t": "p",
-                "x": "Para estudios y editoras, podría permitir distribuir demos jugables, hacer pruebas externas y llegar a nuevos públicos mediante un enlace web, sin un cliente de juego tradicional, dijo Alex St. Louis, cofundador y COO. “Tim Sweeney tiene razón. La IA es el futuro del desarrollo de videojuegos”, afirmó."
-              },
-              {
-                "t": "video",
-                "yt": "qo1h9SK-kVA"
+                "x": "Ahora esos planes están en pausa. En una publicación en Steam y Bluesky, el estudio dijo que el equipo está \"preocupado por las noticias recientes de juegos sometidos a ingeniería inversa (reverse-engineered), clonados y publicados antes incluso de que salga el original\". \"Con el lanzamiento aún a meses de distancia, una gran versión pública de ReVamp parecía un riesgo demasiado grande\", afirmó. Realizará una prueba \"más acotada\" a través de su servidor de Discord a partir del 29 de octubre."
               },
               {
                 "t": "p",
-                "x": "Strata funciona a través de MCP: los desarrolladores pegan una instrucción en Claude Code, Codex, Cursor u otro IDE con IA con su proyecto de Unreal abierto. El agente compila el proyecto sobre el runtime de Unreal de Wonder compatible con navegadores, lo verifica en una GPU real y devuelve un enlace para jugar. También existe una opción por CLI."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/wonder-1024x457.jpg",
-                "cap": "Wonder Interactive lleva los juegos de Unreal a la web."
+                "x": "Justo ayer, Alliance Arts y Who's You cancelaron la demo de Drunken Goddess Reflux para Steam Next Fest. Durante el último mes, desarrolladores independientes han descrito cómo demos, tráileres e imágenes de sus juegos se introdujeron en herramientas de AI generativa para reconstruir rápidamente sus funciones básicas, algo facilitado por la limitada protección de derechos de autor de las mecánicas de juego y por LLMs como Claude de Anthropic y ChatGPT de OpenAI."
               },
               {
                 "t": "p",
-                "x": "La compañía afirma que ha ejecutado City Sample de Epic en el navegador, y que los jugadores descargan alrededor del 3% de sus datos antes de poder empezar a caminar. El renderizador WebGPU es totalmente compatible con Lumen y Nanite."
-              },
-              {
-                "t": "p",
-                "x": "A más largo plazo, los agentes podrían modificar un juego, desplegar una compilación, probarlo en el navegador y optimizar su rendimiento en un ciclo repetitivo. St. Louis insinuó un mercado tipo “Steam para la web”."
+                "x": "\"Mostrar los juegos pronto es la forma en que los indies se hacen visibles y encuentran a los fans que nos sostienen\", escribió la compañía. \"Esperamos que las plataformas sigan reforzando la protección de las obras originales\"."
               }
             ]
           }
@@ -277,177 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Wonder의 Strata\nUnreal을 브라우저로",
-          "body": "Strata는 Unreal 프로젝트를 브라우저 링크로 바꾸는 AI 도구다.",
-          "mini_headline": "Strata, Unreal을 웹으로",
+          "headline": "Moonlighter 팀\nAI 탓 ReVamp 축소",
+          "body": "Digital Sun은 AI 복제 우려로 ReVamp를 Discord서만 시험한다.",
+          "mini_headline": "AI 우려에 줄어든 플레이테스트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/wonder-2.jpg",
-                "cap": "Wonder Interactive는 Unreal 게임을 웹으로 쉽게 옮길 수 있게 한다."
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt9efacbc53c73032f/6ad658566285139835883f4d/revampfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
               },
               {
                 "t": "p",
-                "x": "Wonder Interactive가 AI-powered 개발 도구 Strata를 공개했다. WebAssembly와 WebGPU를 활용해 Unreal Engine 프로젝트를 플레이 가능한 브라우저 링크로 바꾼다. 자연어 프롬프트 하나로 이 과정을 시작할 수 있다."
+                "x": "생성형 AI를 활용한(AI-enabled) 게임 복제가 최근 잇따르면서 기존 스튜디오들이 전략을 바꾸고 있다. Moonlighter와 Moonlighter 2: The Endless Vault로 잘 알려진 Digital Sun Games는 차기작인 \"Tower Defensevania\" 게임 ReVamp의 공개 플레이테스트를 예고했었다."
               },
               {
                 "t": "p",
-                "x": "공동 창업자이자 COO인 Alex St. Louis는 스튜디오와 퍼블리셔가 기존 게임 클라이언트 없이 웹 링크만으로 플레이 가능한 데모를 배포하고, 외부 플레이테스트를 진행하고, 새로운 이용자에게 닿을 수 있게 될 것이라고 말했다. 그는 “Tim Sweeney 말이 맞다. AI는 게임 개발의 미래다”라고 했다."
-              },
-              {
-                "t": "video",
-                "yt": "qo1h9SK-kVA"
+                "x": "그 계획은 이제 보류됐다. 스튜디오는 Steam과 Bluesky에 올린 글에서 팀이 \"원작이 나오기도 전에 게임이 역설계(reverse-engineered)되고 복제돼 출시되는 최근 소식을 우려하고 있다\"고 밝혔다. \"출시까지 아직 몇 달이 남은 상황에서 ReVamp의 대규모 공개 빌드는 위험이 너무 크다고 느꼈다\"는 설명이다. 대신 10월 29일부터 Discord 서버에서 \"더 제한된\" 플레이테스트를 진행한다."
               },
               {
                 "t": "p",
-                "x": "Strata는 MCP로 작동한다. 개발자는 Unreal 프로젝트를 연 상태에서 Claude Code, Codex, Cursor 같은 AI IDE에 프롬프트 하나를 붙여 넣으면 된다. 에이전트는 Wonder의 브라우저 호환 Unreal 런타임에 맞춰 프로젝트를 빌드하고, 실제 GPU에서 검증한 뒤 플레이 링크를 돌려준다. CLI 방식도 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/wonder-1024x457.jpg",
-                "cap": "Wonder Interactive는 Unreal 게임을 웹으로 옮기고 있다."
+                "x": "바로 어제는 Alliance Arts와 Who's You가 Drunken Goddess Reflux의 Steam Next Fest 데모를 취소했다. 인디 개발자들은 지난 한 달 동안 자신들의 데모, 트레일러, 이미지가 생성형 AI 도구에 입력돼 기본 기능이 빠르게 재현된 사례를 전해 왔다. 게임 메커니즘에 대한 저작권 보호가 제한적인 데다 Anthropic의 Claude, OpenAI의 ChatGPT 같은 LLMs가 이를 가능하게 했다."
               },
               {
                 "t": "p",
-                "x": "회사는 Epic의 City Sample을 브라우저에서 구동했으며, 플레이어는 데이터의 약 3%만 내려받으면 걸어 다니기 시작할 수 있다고 밝혔다. WebGPU 렌더러는 Lumen과 Nanite를 완전히 지원한다."
-              },
-              {
-                "t": "p",
-                "x": "장기적으로는 에이전트가 게임을 수정하고, 빌드를 배포하고, 브라우저에서 플레이테스트하고, 성능을 최적화하는 과정을 반복할 수 있다. St. Louis는 “웹을 위한 Steam” 같은 마켓플레이스를 암시했다."
+                "x": "\"게임을 일찍 보여주는 것은 인디가 주목받고, 우리를 지탱해 주는 팬을 만나는 방법\"이라고 회사는 썼다. \"플랫폼들이 독창적인 작품에 대한 보호를 계속 강화하길 바란다.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "WonderのStrata\nUnrealをブラウザへ",
-          "body": "StrataはUnrealのプロジェクトをブラウザで遊べるリンクに変えるAIツールだ。",
-          "mini_headline": "StrataでUnrealをWebへ",
+          "headline": "Moonlighter開発元\nAI懸念でReVamp縮小",
+          "body": "Digital SunはAI複製を懸念し、ReVampの試験をDiscordに限定した。",
+          "mini_headline": "AI懸念で縮むプレイテスト",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/wonder-2.jpg",
-                "cap": "Wonder Interactiveは、Unrealのゲームを手軽にWebへ持ち込めるようにしている。"
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt9efacbc53c73032f/6ad658566285139835883f4d/revampfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
               },
               {
                 "t": "p",
-                "x": "Wonder Interactiveは、AI-poweredの開発ツール「Strata」を発表した。WebAssemblyとWebGPUを使い、Unreal Engineのプロジェクトをブラウザでプレイできるリンクに変換する。処理は自然言語のプロンプトひとつで開始できる。"
+                "x": "生成AIを使った(AI-enabled)ゲームの複製が最近相次ぎ、既存のスタジオは戦略の見直しを迫られている。MoonlighterやMoonlighter 2: The Endless Vaultで知られるDigital Sun Gamesは、次回作である「Tower Defensevania」ゲームReVampの公開プレイテストを告知していた。"
               },
               {
                 "t": "p",
-                "x": "共同創業者でCOOのAlex St. Louisによれば、スタジオやパブリッシャーは従来のゲームクライアントなしに、Webリンクを通じてプレイ可能なデモを配布し、外部プレイテストを実施し、新たな層に届けられるようになる可能性がある。「Tim Sweeneyは正しい。AIはゲーム開発の未来だ」と彼は語った。"
-              },
-              {
-                "t": "video",
-                "yt": "qo1h9SK-kVA"
+                "x": "その計画はいま凍結された。スタジオはSteamとBlueskyへの投稿で、チームは「オリジナルの発売前にゲームがリバースエンジニアリング(reverse-engineered)され、複製され、公開されるという最近のニュースを懸念している」と述べた。「発売までまだ数か月ある中で、ReVampの大規模な公開ビルドはリスクが大きすぎると感じた」という。10月29日からはDiscordサーバーで「より限定的な」プレイテストを実施する。"
               },
               {
                 "t": "p",
-                "x": "StrataはMCP経由で動作する。開発者はUnrealプロジェクトを開いた状態で、Claude Code、Codex、Cursorなど任意のAI IDEにプロンプトをひとつ貼り付けるだけだ。エージェントがWonderのブラウザ対応Unrealランタイム向けにプロジェクトをビルドし、実際のGPUで検証してプレイ用リンクを返す。CLIでの利用も可能だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/wonder-1024x457.jpg",
-                "cap": "Wonder InteractiveはUnrealのゲームをWebへ持ち込もうとしている。"
+                "x": "つい昨日には、Alliance ArtsとWho's YouがDrunken Goddess RefluxのSteam Next Festデモを取り下げた。インディー開発者たちはここ一か月、自作のデモやトレーラー、画像が生成AIツールに読み込まれ、基本的な機能を短期間で再現されたと訴えてきた。ゲームメカニクスの著作権保護が限られていることに加え、AnthropicのClaudeやOpenAIのChatGPTといったLLMsがそれを可能にしている。"
               },
               {
                 "t": "p",
-                "x": "同社によると、EpicのCity Sampleをブラウザで動かしており、プレイヤーはデータの約3%をダウンロードするだけで歩き回り始められる。WebGPUレンダラーはLumenとNaniteを完全にサポートしている。"
-              },
-              {
-                "t": "p",
-                "x": "長期的には、エージェントがゲームを修正し、ビルドをデプロイし、ブラウザでプレイテストし、パフォーマンスを最適化するループを繰り返せるようになる可能性がある。St. Louisは「Web版Steam」のようなマーケットプレイスを示唆した。"
+                "x": "「ゲームを早く見せることは、インディーが注目され、私たちを支えてくれるファンと出会う方法だ」と同社は書いた。「プラットフォームがオリジナル作品の保護を強化し続けることを願っている」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Wonder推出Strata\nUnreal游戏进浏览器",
-          "body": "Strata是一款AI工具，可将Unreal项目变成可在浏览器游玩的链接。",
-          "mini_headline": "Strata把Unreal带上网页",
+          "headline": "Moonlighter工作室\n因AI顾虑缩ReVamp测试",
+          "body": "Digital Sun因担忧AI复制，将ReVamp早期测试限于Discord社区。",
+          "mini_headline": "AI担忧让试玩缩水",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/wonder-2.jpg",
-                "cap": "Wonder Interactive让Unreal游戏轻松登上网页。"
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt9efacbc53c73032f/6ad658566285139835883f4d/revampfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
               },
               {
                 "t": "p",
-                "x": "Wonder Interactive发布了AI-powered开发工具Strata，可借助WebAssembly和WebGPU将Unreal Engine项目转换为可在浏览器中游玩的链接。整个流程只需一条自然语言提示即可启动。"
+                "x": "近来借助生成式AI（AI-enabled）复制游戏的现象激增，迫使老牌工作室调整策略。以Moonlighter和Moonlighter 2: The Endless Vault闻名的Digital Sun Games，此前宣布将为即将推出的“Tower Defensevania”游戏ReVamp举办公开试玩。"
               },
               {
                 "t": "p",
-                "x": "联合创始人兼COO Alex St. Louis表示，对工作室和发行商而言，这可能让他们无需传统游戏客户端，仅通过一个网页链接就能分发可玩演示、开展外部试玩并触达新受众。他说：“Tim Sweeney说得对。AI是游戏开发的未来。”"
-              },
-              {
-                "t": "video",
-                "yt": "qo1h9SK-kVA"
+                "x": "如今这一计划已被搁置。工作室在Steam和Bluesky上发文称，团队“对最近游戏在原作尚未推出前就被逆向工程（reverse-engineered）、复制并发布的消息感到担忧”。“距离发售还有数月，发布大规模的ReVamp公开版本风险太大，”工作室表示。它将从10月29日起通过Discord服务器开展“更受控”的试玩。"
               },
               {
                 "t": "p",
-                "x": "Strata通过MCP运行：开发者在打开Unreal项目的情况下，把一条提示粘贴到Claude Code、Codex、Cursor或其他AI IDE中。智能体会基于Wonder兼容浏览器的Unreal运行时构建项目，在真实GPU上验证，然后返回一个游玩链接。此外也提供CLI方式。"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/wonder-1024x457.jpg",
-                "cap": "Wonder Interactive正把Unreal游戏带到网页上。"
+                "x": "就在昨天，Alliance Arts与Who's You取消了Drunken Goddess Reflux的Steam Next Fest试玩版。过去一个月，独立开发者纷纷讲述自己游戏的试玩版、预告片和图片被输入生成式AI工具，基本功能被迅速复刻；游戏机制的版权保护有限，加上Anthropic的Claude和OpenAI的ChatGPT等LLMs，让这一切成为可能。"
               },
               {
                 "t": "p",
-                "x": "该公司称已在浏览器中运行Epic的City Sample，玩家只需下载约3%的数据即可开始四处走动。WebGPU渲染器完整支持Lumen和Nanite。"
-              },
-              {
-                "t": "p",
-                "x": "从长远看，智能体可以循环往复地修改游戏、部署构建、在浏览器中试玩并优化性能。St. Louis暗示将推出“网页版Steam”式的市场。"
+                "x": "“尽早展示游戏，是独立开发者被看见、找到支撑我们走下去的粉丝的方式，”该公司写道。“我们希望各平台持续加强对原创作品的保护。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Strata, de Wonder, lleva juegos\nde Unreal al navegador",
-          "body": "Strata, de Wonder Interactive, convierte con IA proyectos de Unreal Engine en enlaces jugables en el navegador.",
-          "mini_headline": "Strata lleva Unreal a la web",
+          "headline": "Estudio de Moonlighter limita\nsu prueba de ReVamp por la AI",
+          "body": "Digital Sun limita las primeras pruebas de ReVamp a su comunidad de Discord por temor a la clonación con AI.",
+          "mini_headline": "El temor a la AI reduce una prueba",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/wonder-2.jpg",
-                "cap": "Wonder Interactive facilita llevar los juegos de Unreal a la web."
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt9efacbc53c73032f/6ad658566285139835883f4d/revampfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
               },
               {
                 "t": "p",
-                "x": "Wonder Interactive ha presentado Strata, una herramienta de desarrollo AI-powered que puede convertir proyectos de Unreal Engine en enlaces jugables en el navegador mediante WebAssembly y WebGPU. El proceso puede iniciarse con una sola instrucción en lenguaje natural."
+                "x": "Una reciente oleada de clonación de juegos impulsada por AI generativa (AI-enabled) está obligando a estudios consolidados a ajustar sus estrategias. Digital Sun Games, conocido por Moonlighter y Moonlighter 2: The Endless Vault, había anunciado una prueba pública de su próximo juego \"Tower Defensevania\", ReVamp."
               },
               {
                 "t": "p",
-                "x": "Para estudios y editoras, podría permitir distribuir demos jugables, hacer pruebas externas y llegar a nuevos públicos mediante un enlace web, sin un cliente de juego tradicional, dijo Alex St. Louis, cofundador y COO. “Tim Sweeney tiene razón. La IA es el futuro del desarrollo de videojuegos”, afirmó."
-              },
-              {
-                "t": "video",
-                "yt": "qo1h9SK-kVA"
+                "x": "Ahora esos planes están en pausa. En una publicación en Steam y Bluesky, el estudio dijo que el equipo está \"preocupado por las noticias recientes de juegos sometidos a ingeniería inversa (reverse-engineered), clonados y publicados antes incluso de que salga el original\". \"Con el lanzamiento aún a meses de distancia, una gran versión pública de ReVamp parecía un riesgo demasiado grande\", afirmó. Realizará una prueba \"más acotada\" a través de su servidor de Discord a partir del 29 de octubre."
               },
               {
                 "t": "p",
-                "x": "Strata funciona a través de MCP: los desarrolladores pegan una instrucción en Claude Code, Codex, Cursor u otro IDE con IA con su proyecto de Unreal abierto. El agente compila el proyecto sobre el runtime de Unreal de Wonder compatible con navegadores, lo verifica en una GPU real y devuelve un enlace para jugar. También existe una opción por CLI."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/wonder-1024x457.jpg",
-                "cap": "Wonder Interactive lleva los juegos de Unreal a la web."
+                "x": "Justo ayer, Alliance Arts y Who's You cancelaron la demo de Drunken Goddess Reflux para Steam Next Fest. Durante el último mes, desarrolladores independientes han descrito cómo demos, tráileres e imágenes de sus juegos se introdujeron en herramientas de AI generativa para reconstruir rápidamente sus funciones básicas, algo facilitado por la limitada protección de derechos de autor de las mecánicas de juego y por LLMs como Claude de Anthropic y ChatGPT de OpenAI."
               },
               {
                 "t": "p",
-                "x": "La compañía afirma que ha ejecutado City Sample de Epic en el navegador, y que los jugadores descargan alrededor del 3% de sus datos antes de poder empezar a caminar. El renderizador WebGPU es totalmente compatible con Lumen y Nanite."
-              },
-              {
-                "t": "p",
-                "x": "A más largo plazo, los agentes podrían modificar un juego, desplegar una compilación, probarlo en el navegador y optimizar su rendimiento en un ciclo repetitivo. St. Louis insinuó un mercado tipo “Steam para la web”."
+                "x": "\"Mostrar los juegos pronto es la forma en que los indies se hacen visibles y encuentran a los fans que nos sostienen\", escribió la compañía. \"Esperamos que las plataformas sigan reforzando la protección de las obras originales\"."
               }
             ]
           }
@@ -455,16 +315,328 @@
       }
     },
     {
-      "id": "games-epic-ai-megajam",
+      "id": "games-miyamoto-genai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Epic, AI 게임에\n$50,000 보조금",
-      "body": "Epic AI MegaJam은 AI-built 게임에 최대 $50,000를 준다.",
-      "mini_headline": "Epic의 $50,000 AI 게임 잼",
+      "headline": "Miyamoto \"인간\n디자이너 몫 늘 남는다\"",
+      "body": "Miyamoto는 gen AI가 모든 걸 맡더라도 디자이너 몫은 늘 남는다고 봤다.",
+      "mini_headline": "Miyamoto가 보는 AI와 디자이너",
+      "tool": "Games",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/nintendo-shigeru-miyamoto-gen-ai",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://assetsio.gnwcdn.com/miyamoto-pikmin_WgJYOUw.jpg?width=1200&quality=85&format=jpg&auto=webp"
+          },
+          {
+            "t": "p",
+            "x": "Shigeru Miyamoto는 다음 달 비디오게임 개발자로는 처음으로 일본(Japan) 문화훈장(Order of Culture)을 받는다. 그는 수상 기자회견에서 gen-AI를 두고 생각을 밝혔고, 발언은 VGC가 번역했다."
+          },
+          {
+            "t": "p",
+            "x": "그는 도구가 \"타자기에서 워드프로세서로 옮겨 가던\" 시절을 떠올렸다. 기술이 \"노동\"을 더 많이 떠맡자 디자이너의 진짜 역량이 \"마침내 전면에 드러났다\"는 것이다. 이어 \"창작 행위는 본질적으로 만족스럽지만 위험도 있다. 노동 자체에서 만족을 느끼고, 품질 높은(high-quality) 작품이 만들어졌다고 착각할 수 있다\"고 했다."
+          },
+          {
+            "t": "p",
+            "x": "\"이 과정은 개인의 의도에 기대고 컴퓨터는 노동을 돕는 조수 역할을 하기 때문에, 기술이 계속 발전하고 설령 AI가 결국 모든 것을 맡게 되더라도 우리가 할 역할은 늘 남아 있을 것이라고 생각한다.\""
+          },
+          {
+            "t": "p",
+            "x": "Masahiro Sakurai는 그만큼 낙관하지 않았다. gen-AI 탓에 독창성도 수익성도 없는 게임이 쏟아질 수 있다는 것이다. Nintendo는 gen-AI 도구를 배제하지 않았다. Square Enix의 CEO Takashi Kiryu도 회사가 \"AI 적용에 적극적일 것\"이라고 했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Miyamoto says human designers\nwill always have a role",
+          "body": "Miyamoto says even if gen AI eventually handles everything, there will always be a role left for human designers.",
+          "mini_headline": "Miyamoto on AI and designers",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/miyamoto-pikmin_WgJYOUw.jpg?width=1200&quality=85&format=jpg&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "Shigeru Miyamoto, who will become the first video game developer awarded Japan's Order of Culture next month, shared thoughts on gen-AI at a press conference for the award, in quotes translated by VGC."
+              },
+              {
+                "t": "p",
+                "x": "He recalled tools \"moving from typewriters to word processors,\" arguing a designer's true capabilities \"finally came to the fore\" as technology handled more \"labor.\" \"While the act of creation is inherently satisfying, there's a danger: one might find satisfaction in the labor itself and mistakenly believe that a high-quality piece of work has been created,\" he said."
+              },
+              {
+                "t": "p",
+                "x": "\"Because the process relies on an individual's intent, with the computer serving as an assistant for the labor, I believe that even as technology continues to evolve, and even if AI were to eventually handle everything, there will always be a role left for us to play.\""
+              },
+              {
+                "t": "p",
+                "x": "Masahiro Sakurai was less optimistic, saying gen-AI might lead to a surge of unoriginal and unprofitable games. Nintendo hasn't ruled out gen-AI tools, while Square Enix CEO Takashi Kiryu said the company would be \"aggressive in applying AI.\""
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Miyamoto \"인간\n디자이너 몫 늘 남는다\"",
+          "body": "Miyamoto는 gen AI가 모든 걸 맡더라도 디자이너 몫은 늘 남는다고 봤다.",
+          "mini_headline": "Miyamoto가 보는 AI와 디자이너",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/miyamoto-pikmin_WgJYOUw.jpg?width=1200&quality=85&format=jpg&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "Shigeru Miyamoto는 다음 달 비디오게임 개발자로는 처음으로 일본(Japan) 문화훈장(Order of Culture)을 받는다. 그는 수상 기자회견에서 gen-AI를 두고 생각을 밝혔고, 발언은 VGC가 번역했다."
+              },
+              {
+                "t": "p",
+                "x": "그는 도구가 \"타자기에서 워드프로세서로 옮겨 가던\" 시절을 떠올렸다. 기술이 \"노동\"을 더 많이 떠맡자 디자이너의 진짜 역량이 \"마침내 전면에 드러났다\"는 것이다. 이어 \"창작 행위는 본질적으로 만족스럽지만 위험도 있다. 노동 자체에서 만족을 느끼고, 품질 높은(high-quality) 작품이 만들어졌다고 착각할 수 있다\"고 했다."
+              },
+              {
+                "t": "p",
+                "x": "\"이 과정은 개인의 의도에 기대고 컴퓨터는 노동을 돕는 조수 역할을 하기 때문에, 기술이 계속 발전하고 설령 AI가 결국 모든 것을 맡게 되더라도 우리가 할 역할은 늘 남아 있을 것이라고 생각한다.\""
+              },
+              {
+                "t": "p",
+                "x": "Masahiro Sakurai는 그만큼 낙관하지 않았다. gen-AI 탓에 독창성도 수익성도 없는 게임이 쏟아질 수 있다는 것이다. Nintendo는 gen-AI 도구를 배제하지 않았다. Square Enix의 CEO Takashi Kiryu도 회사가 \"AI 적용에 적극적일 것\"이라고 했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Miyamoto「人間の\nデザイナーの役割は残る」",
+          "body": "Miyamotoは、gen AIが全てを担っても人間のデザイナーの役割は常に残ると語った。",
+          "mini_headline": "MiyamotoとAI、デザイナー",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/miyamoto-pikmin_WgJYOUw.jpg?width=1200&quality=85&format=jpg&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "来月、ビデオゲーム開発者として初めて日本(Japan)の文化勲章(Order of Culture)を受章するShigeru Miyamotoが、受章の記者会見でgen-AIについての考えを語った。発言はVGCが翻訳した。"
+              },
+              {
+                "t": "p",
+                "x": "彼は道具が「タイプライターからワープロへ移った」時代を振り返り、技術がより多くの「労働」を担うことで、デザイナーの真の力が「ようやく前面に出てきた」と述べた。「創作という行為は本質的に満足をもたらすが、危険もある。労働そのものに満足し、質の高い(high-quality)作品ができたと思い込んでしまうことだ」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "「このプロセスは個人の意図に依拠し、コンピューターは労働の補助役を務める。だから技術が進化し続けても、たとえAIがいずれすべてを担うことになっても、私たちが果たすべき役割は常に残ると考えている」"
+              },
+              {
+                "t": "p",
+                "x": "Masahiro Sakuraiはより悲観的で、gen-AIが独創性も収益性もないゲームの急増につながりかねないと語った。Nintendoはgen-AIツールを排除しておらず、Square EnixのCEOであるTakashi Kiryuは同社が「AIの活用に積極的になる」と述べている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Miyamoto：人类设计师\n永远有一席之地",
+          "body": "Miyamoto称，即便gen AI最终包办一切，人类设计师也始终会有用武之地。",
+          "mini_headline": "Miyamoto谈AI与设计师",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/miyamoto-pikmin_WgJYOUw.jpg?width=1200&quality=85&format=jpg&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "下个月将成为首位获得日本（Japan）文化勋章（Order of Culture）的电子游戏开发者的Shigeru Miyamoto，在获奖记者会上谈了对gen-AI的看法，相关引述由VGC翻译。"
+              },
+              {
+                "t": "p",
+                "x": "他回忆起工具“从打字机走向文字处理器”的变化，认为随着技术承担了更多“劳动”，设计师真正的能力“终于走到了台前”。“创作行为本身固然令人满足，但也有危险：人可能在劳动本身中获得满足，并误以为已经做出了高质量（high-quality）的作品，”他说。"
+              },
+              {
+                "t": "p",
+                "x": "“由于这一过程依赖个人的意图，电脑则充当劳动的助手，我相信即使技术不断进化，即使AI最终包办一切，也始终会有我们要扮演的角色。”"
+              },
+              {
+                "t": "p",
+                "x": "Masahiro Sakurai则没那么乐观，他认为gen-AI可能导致缺乏原创、无利可图的游戏激增。Nintendo没有排除使用gen-AI工具，而Square Enix CEO Takashi Kiryu表示公司将“积极应用AI”。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Miyamoto: los diseñadores\nhumanos siempre tendrán un papel",
+          "body": "Miyamoto dice que, aunque la gen AI acabe ocupándose de todo, siempre habrá un papel para los diseñadores humanos.",
+          "mini_headline": "Miyamoto sobre la AI y los diseñadores",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/miyamoto-pikmin_WgJYOUw.jpg?width=1200&quality=85&format=jpg&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "Shigeru Miyamoto, que el próximo mes se convertirá en el primer desarrollador de videojuegos distinguido con la Order of Culture de Japón (Japan), compartió su opinión sobre la gen-AI en una rueda de prensa por el galardón, en declaraciones traducidas por VGC."
+              },
+              {
+                "t": "p",
+                "x": "Recordó cómo las herramientas pasaron \"de las máquinas de escribir a los procesadores de texto\" y sostuvo que las verdaderas capacidades de un diseñador \"por fin pasaron a primer plano\" a medida que la tecnología asumía más \"trabajo\". \"Aunque el acto de crear es satisfactorio por naturaleza, hay un peligro: uno puede encontrar satisfacción en el trabajo en sí y creer por error que ha creado una obra de alta calidad (high-quality)\", dijo."
+              },
+              {
+                "t": "p",
+                "x": "\"Como el proceso depende de la intención de una persona, con la computadora como asistente para el trabajo, creo que aunque la tecnología siga evolucionando, e incluso si la AI llegara a encargarse de todo, siempre quedará un papel que nos corresponda\"."
+              },
+              {
+                "t": "p",
+                "x": "Masahiro Sakurai se mostró menos optimista y dijo que la gen-AI podría provocar una avalancha de juegos poco originales y poco rentables. Nintendo no ha descartado las herramientas de gen-AI, mientras que el CEO de Square Enix, Takashi Kiryu, afirmó que la compañía sería \"agresiva en la aplicación de la AI\"."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Miyamoto \"인간\n디자이너 몫 늘 남는다\"",
+          "body": "Miyamoto는 gen AI가 모든 걸 맡아도 디자이너 몫은 늘 남는다고 했다.",
+          "mini_headline": "Miyamoto가 본 AI와 디자이너",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/miyamoto-pikmin_WgJYOUw.jpg?width=1200&quality=85&format=jpg&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "다음 달 비디오게임 개발자로는 처음으로 일본(Japan) 문화훈장(Order of Culture)을 받는 Shigeru Miyamoto가 수상 기자회견에서 gen-AI에 대한 생각을 밝혔다. 발언은 VGC가 번역했다."
+              },
+              {
+                "t": "p",
+                "x": "그는 도구가 \"타자기에서 워드프로세서로 옮겨 가던\" 시절을 떠올리며, 기술이 더 많은 \"노동\"을 맡으면서 디자이너의 진짜 역량이 \"마침내 전면에 드러났다\"고 말했다. \"창작 행위는 본질적으로 만족스럽지만 위험도 있다. 노동 자체에서 만족을 느끼고, 품질 높은(high-quality) 작품이 만들어졌다고 착각할 수 있다\"고 그는 말했다."
+              },
+              {
+                "t": "p",
+                "x": "\"이 과정은 개인의 의도에 기대고 컴퓨터는 노동을 돕는 조수 역할을 하기 때문에, 기술이 계속 발전하고 설령 AI가 결국 모든 것을 맡게 되더라도 우리가 할 역할은 늘 남아 있을 것이라고 생각한다.\""
+              },
+              {
+                "t": "p",
+                "x": "Masahiro Sakurai는 덜 낙관적이었다. gen-AI가 독창성도 수익성도 없는 게임의 급증으로 이어질 수 있다고 했다. Nintendo는 gen-AI 도구를 배제하지 않았고, Square Enix의 CEO Takashi Kiryu는 회사가 \"AI 적용에 적극적일 것\"이라고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Miyamoto「人間の\nデザイナーの役割は残る」",
+          "body": "Miyamotoは、gen AIが全てを担っても人間のデザイナーの役割は常に残ると語った。",
+          "mini_headline": "MiyamotoとAI、デザイナー",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/miyamoto-pikmin_WgJYOUw.jpg?width=1200&quality=85&format=jpg&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "来月、ビデオゲーム開発者として初めて日本(Japan)の文化勲章(Order of Culture)を受章するShigeru Miyamotoが、受章の記者会見でgen-AIについての考えを語った。発言はVGCが翻訳した。"
+              },
+              {
+                "t": "p",
+                "x": "彼は道具が「タイプライターからワープロへ移った」時代を振り返り、技術がより多くの「労働」を担うことで、デザイナーの真の力が「ようやく前面に出てきた」と述べた。「創作という行為は本質的に満足をもたらすが、危険もある。労働そのものに満足し、質の高い(high-quality)作品ができたと思い込んでしまうことだ」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "「このプロセスは個人の意図に依拠し、コンピューターは労働の補助役を務める。だから技術が進化し続けても、たとえAIがいずれすべてを担うことになっても、私たちが果たすべき役割は常に残ると考えている」"
+              },
+              {
+                "t": "p",
+                "x": "Masahiro Sakuraiはより悲観的で、gen-AIが独創性も収益性もないゲームの急増につながりかねないと語った。Nintendoはgen-AIツールを排除しておらず、Square EnixのCEOであるTakashi Kiryuは同社が「AIの活用に積極的になる」と述べている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Miyamoto：人类设计师\n永远有一席之地",
+          "body": "Miyamoto称，即便gen AI最终包办一切，人类设计师也始终会有用武之地。",
+          "mini_headline": "Miyamoto谈AI与设计师",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/miyamoto-pikmin_WgJYOUw.jpg?width=1200&quality=85&format=jpg&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "下个月将成为首位获得日本（Japan）文化勋章（Order of Culture）的电子游戏开发者的Shigeru Miyamoto，在获奖记者会上谈了对gen-AI的看法，相关引述由VGC翻译。"
+              },
+              {
+                "t": "p",
+                "x": "他回忆起工具“从打字机走向文字处理器”的变化，认为随着技术承担了更多“劳动”，设计师真正的能力“终于走到了台前”。“创作行为本身固然令人满足，但也有危险：人可能在劳动本身中获得满足，并误以为已经做出了高质量（high-quality）的作品，”他说。"
+              },
+              {
+                "t": "p",
+                "x": "“由于这一过程依赖个人的意图，电脑则充当劳动的助手，我相信即使技术不断进化，即使AI最终包办一切，也始终会有我们要扮演的角色。”"
+              },
+              {
+                "t": "p",
+                "x": "Masahiro Sakurai则没那么乐观，他认为gen-AI可能导致缺乏原创、无利可图的游戏激增。Nintendo没有排除使用gen-AI工具，而Square Enix CEO Takashi Kiryu表示公司将“积极应用AI”。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Miyamoto: los diseñadores\nhumanos siempre tendrán un papel",
+          "body": "Miyamoto dice que, aunque la gen AI acabe ocupándose de todo, siempre habrá un papel para los diseñadores humanos.",
+          "mini_headline": "Miyamoto sobre la AI y los diseñadores",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/miyamoto-pikmin_WgJYOUw.jpg?width=1200&quality=85&format=jpg&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "Shigeru Miyamoto, que el próximo mes se convertirá en el primer desarrollador de videojuegos distinguido con la Order of Culture de Japón (Japan), compartió su opinión sobre la gen-AI en una rueda de prensa por el galardón, en declaraciones traducidas por VGC."
+              },
+              {
+                "t": "p",
+                "x": "Recordó cómo las herramientas pasaron \"de las máquinas de escribir a los procesadores de texto\" y sostuvo que las verdaderas capacidades de un diseñador \"por fin pasaron a primer plano\" a medida que la tecnología asumía más \"trabajo\". \"Aunque el acto de crear es satisfactorio por naturaleza, hay un peligro: uno puede encontrar satisfacción en el trabajo en sí y creer por error que ha creado una obra de alta calidad (high-quality)\", dijo."
+              },
+              {
+                "t": "p",
+                "x": "\"Como el proceso depende de la intención de una persona, con la computadora como asistente para el trabajo, creo que aunque la tecnología siga evolucionando, e incluso si la AI llegara a encargarse de todo, siempre quedará un papel que nos corresponda\"."
+              },
+              {
+                "t": "p",
+                "x": "Masahiro Sakurai se mostró menos optimista y dijo que la gen-AI podría provocar una avalancha de juegos poco originales y poco rentables. Nintendo no ha descartado las herramientas de gen-AI, mientras que el CEO de Square Enix, Takashi Kiryu, afirmó que la compañía sería \"agresiva en la aplicación de la AI\"."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "games-sweeney-steam-labels",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Tim Sweeney 재차\nSteam AI 표시 비판",
+      "body": "Tim Sweeney는 Steam AI 표시를 혐오 집단에 쓰일 성명 강요라 봤다.",
+      "mini_headline": "Sweeney vs. Steam AI 표시",
       "tool": "Games",
       "source": "GamesRadar+",
-      "url": "https://www.gamesradar.com/games/epic-wants-to-pay-you-usd50-000-to-vibe-code-an-ai-slop-game/",
-      "accent": "#0070f3",
+      "url": "https://www.gamesradar.com/games/still-mad-at-valve-for-steams-ai-disclosures-epic-games-boss-criticizes-forcing-developers-to-write-a-political-statement-to-be-used-against-them-by-the-hate-mob/",
+      "accent": "#f5a623",
       "motif": "cube",
       "full": {
         "mode": "summary",
@@ -475,27 +647,36 @@
           },
           {
             "t": "p",
-            "x": "Epic이 AI-focused 게임 잼을 열며 바이브 코더 지망생들에게 기꺼이 지갑을 연다. 현금 상금은 총 $65,000 규모이며 “눈에 띄는” 프로젝트에는 $50,000 지원금까지 줄 수 있다고 약속했다."
+            "x": "Epic Games CEO Tim Sweeney가 Valve를 다시 비판했다. Steam에서 파는 게임에 AI 사용 공개를 여전히 의무로 두는 정책이 \"혐오스럽다\"는 것이다. Sweeney는 \"개발자에게 정치적 성명을 쓰게 하고, 그들이 조직을 돕고 있는 혐오 집단이 그 성명을 개발자 공격에 쓰게 만드는 것은 혐오스럽다\"고 말했다."
           },
           {
             "t": "p",
-            "x": "2026 AI MegaJam은 11월 12일부터 15일까지 열리고 참가 등록은 Itch.io에서 받는다. 게임은 Unreal Engine이나 UEFN으로 만들어야 한다. Epic은 “에셋 생성부터 코딩 에이전트까지, 어떤 AI 도구든 워크플로에 들여오라”고 밝혔다."
+            "x": "Steam의 AI 공개 규정에 따라 생성형 AI를 쓴 개발자는 어떻게 썼는지 밝혀야 한다. Call of Duty: Modern Warfare 4의 공개 문구에는 \"우리 팀은 일부 게임 내 에셋 개발을 돕기 위해 생성형 AI 도구를 사용한다\"고 적혀 있다."
           },
           {
             "t": "p",
-            "x": "“AI 도구로 게임을 어떻게 만들었는지 보여주는 최고의 개발 로그”와 LLM-driven NPCs를 활용한 최고의 게임에는 각각 $2,500 상금이 돌아간다. “잼이 끝난 뒤에도 개발을 이어갈 수 있도록 최대 $50,000의 개발 지속 지원금”도 따로 있다."
+            "x": "2025년 11월에도 Sweeney는 \"앞으로 거의 모든 제작에 AI가 관여할\" 세상에서 Valve의 방식은 말이 안 된다고 했다. 6월에는 이 공개 표시를 \"Scarlet Letter(주홍 글씨)\"에 빗댔다."
           },
           {
             "t": "p",
-            "x": "손가락이 여섯 개인 홍보 이미지와 “vibe your way to 50K”라는 문구를 보면 Epic은 AI 비판론자들을 대놓고 놀리고 있다. Twitter 반응은 전혀 호의적이지 않다. AI를 향한 개발자들의 반발도 꽤 오래전부터 크고 꾸준했다."
+            "x": "이번 메시지는 \"생성형 미디어 클라우드\" Fal의 Matt Workman 글에 단 답글이다. Workman은 \"2026년에 AI Generated Content Disclosure라는 전제 자체가 ABSURD하다\"고 썼다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/eZKmPGBhfcyu2zDqCWYzU9.jpeg",
+            "cap": "이미지 출처: Epic Games"
+          },
+          {
+            "t": "p",
+            "x": "Epic은 지난주 새로 단장한 PC 스토어를 두고 \"우리는 Epic Games Launcher를 바이브 코딩(vibe coded)으로 만들었다\"고 했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Epic offers $50,000 grants\nfor games built with AI",
-          "body": "Epic's Unreal Engine AI MegaJam offers $65,000 in prizes and grants up to $50,000 for AI-built games.",
-          "mini_headline": "Epic's $50,000 AI game jam",
+          "headline": "Tim Sweeney renews attack on\nSteam's AI disclosure labels",
+          "body": "Tim Sweeney says Steam's AI labels force developers to write a political statement used against them by the hate mob.",
+          "mini_headline": "Sweeney vs. Steam AI labels",
           "full": {
             "mode": "summary",
             "blocks": [
@@ -505,27 +686,36 @@
               },
               {
                 "t": "p",
-                "x": "Epic is keen to pay aspiring vibe coders in an AI-focused game jam, promising $65,000 worth of cash prizes and potential $50,000 grants for \"standout\" projects."
+                "x": "Epic Games CEO Tim Sweeney criticized Valve for continuing to mandate AI disclosures for games sold on Steam, calling the policy \"abhorrent.\" \"Forcing developers to write a political statement to be used against them by the hate mob they're helping organize is abhorrent,\" says Sweeney."
               },
               {
                 "t": "p",
-                "x": "The 2026 AI MegaJam runs from November 12 through 15, with registration open on Itch.io, challenging participants to build games using Unreal Engine or UEFN. \"Bring any AI tools into your workflow, from asset generation to coding agents,\" the company says."
+                "x": "Steam's AI disclosures require devs who use generative AI to spell out how it was used. The disclosure for Call of Duty: Modern Warfare 4 reads, \"Our team uses generative AI tools to help develop some in game assets.\""
               },
               {
                 "t": "p",
-                "x": "Awards include $2,500 for the \"best dev log showing how you used AI tools to build your game\" and for the best game using LLM-driven NPCs, plus \"development continuation grants of up to $50,000 to keep building after the jam.\""
+                "x": "As early as November 2025, Sweeney called Valve's approach nonsensical in a world where \"AI will be involved in nearly all future production.\" In June, he compared the disclosures to a \"Scarlet Letter.\""
               },
               {
                 "t": "p",
-                "x": "With six-fingered promo art and a tagline of \"vibe your way to 50K,\" Epic's clearly poking fun at AI critics. The responses on Twitter certainly aren't kind, and pushback from devs on AI has been loud and consistent for some time."
+                "x": "His latest message replied to Matt Workman of \"generative media cloud\" Fal, who argued \"the premise of an AI Generated Content Disclosure is ABSURD in 2026.\""
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/eZKmPGBhfcyu2zDqCWYzU9.jpeg",
+                "cap": "Image credit: Epic Games"
+              },
+              {
+                "t": "p",
+                "x": "Last week, Epic said of its reworked PC storefront, \"We vibe coded the Epic Games Launcher.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "Epic, AI 게임에\n$50,000 보조금",
-          "body": "Epic AI MegaJam은 AI-built 게임에 최대 $50,000를 준다.",
-          "mini_headline": "Epic의 $50,000 AI 게임 잼",
+          "headline": "Tim Sweeney 재차\nSteam AI 표시 비판",
+          "body": "Tim Sweeney는 Steam AI 표시를 혐오 집단에 쓰일 성명 강요라 봤다.",
+          "mini_headline": "Sweeney vs. Steam AI 표시",
           "full": {
             "mode": "summary",
             "blocks": [
@@ -535,27 +725,36 @@
               },
               {
                 "t": "p",
-                "x": "Epic이 AI-focused 게임 잼을 열며 바이브 코더 지망생들에게 기꺼이 지갑을 연다. 현금 상금은 총 $65,000 규모이며 “눈에 띄는” 프로젝트에는 $50,000 지원금까지 줄 수 있다고 약속했다."
+                "x": "Epic Games CEO Tim Sweeney가 Valve를 다시 비판했다. Steam에서 파는 게임에 AI 사용 공개를 여전히 의무로 두는 정책이 \"혐오스럽다\"는 것이다. Sweeney는 \"개발자에게 정치적 성명을 쓰게 하고, 그들이 조직을 돕고 있는 혐오 집단이 그 성명을 개발자 공격에 쓰게 만드는 것은 혐오스럽다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "2026 AI MegaJam은 11월 12일부터 15일까지 열리고 참가 등록은 Itch.io에서 받는다. 게임은 Unreal Engine이나 UEFN으로 만들어야 한다. Epic은 “에셋 생성부터 코딩 에이전트까지, 어떤 AI 도구든 워크플로에 들여오라”고 밝혔다."
+                "x": "Steam의 AI 공개 규정에 따라 생성형 AI를 쓴 개발자는 어떻게 썼는지 밝혀야 한다. Call of Duty: Modern Warfare 4의 공개 문구에는 \"우리 팀은 일부 게임 내 에셋 개발을 돕기 위해 생성형 AI 도구를 사용한다\"고 적혀 있다."
               },
               {
                 "t": "p",
-                "x": "“AI 도구로 게임을 어떻게 만들었는지 보여주는 최고의 개발 로그”와 LLM-driven NPCs를 활용한 최고의 게임에는 각각 $2,500 상금이 돌아간다. “잼이 끝난 뒤에도 개발을 이어갈 수 있도록 최대 $50,000의 개발 지속 지원금”도 따로 있다."
+                "x": "2025년 11월에도 Sweeney는 \"앞으로 거의 모든 제작에 AI가 관여할\" 세상에서 Valve의 방식은 말이 안 된다고 했다. 6월에는 이 공개 표시를 \"Scarlet Letter(주홍 글씨)\"에 빗댔다."
               },
               {
                 "t": "p",
-                "x": "손가락이 여섯 개인 홍보 이미지와 “vibe your way to 50K”라는 문구를 보면 Epic은 AI 비판론자들을 대놓고 놀리고 있다. Twitter 반응은 전혀 호의적이지 않다. AI를 향한 개발자들의 반발도 꽤 오래전부터 크고 꾸준했다."
+                "x": "이번 메시지는 \"생성형 미디어 클라우드\" Fal의 Matt Workman 글에 단 답글이다. Workman은 \"2026년에 AI Generated Content Disclosure라는 전제 자체가 ABSURD하다\"고 썼다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/eZKmPGBhfcyu2zDqCWYzU9.jpeg",
+                "cap": "이미지 출처: Epic Games"
+              },
+              {
+                "t": "p",
+                "x": "Epic은 지난주 새로 단장한 PC 스토어를 두고 \"우리는 Epic Games Launcher를 바이브 코딩(vibe coded)으로 만들었다\"고 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Epic、AI製ゲームに\n最大5万ドルの助成",
-          "body": "EpicのAI MegaJamは、AI-builtゲームに最大5万ドルの助成金を出す。",
-          "mini_headline": "Epicの5万ドルAIゲームジャム",
+          "headline": "Tim Sweeney氏\nSteamのAI表示を再批判",
+          "body": "Tim Sweeneyは、SteamのAI表示は憎悪集団に使われる声明の強制だと批判した。",
+          "mini_headline": "Sweeney vs. SteamのAI表示",
           "full": {
             "mode": "summary",
             "blocks": [
@@ -565,27 +764,36 @@
               },
               {
                 "t": "p",
-                "x": "Epicは、AI-focusedのゲームジャムでバイブコーダー志望者に報酬を出すことに積極的だ。総額$65,000の賞金に加え、「際立った」プロジェクトには$50,000の助成金を出す可能性があるという。"
+                "x": "Epic GamesのCEOであるTim Sweeneyは、Steamで販売されるゲームにAI使用の開示を義務づけ続けるValveを批判し、この方針を「忌まわしい」と呼んだ。「開発者に政治的声明を書かせ、彼らが組織化に手を貸しているヘイトの群衆にそれを開発者攻撃の材料として使わせるのは忌まわしい」とSweeneyは言う。"
               },
               {
                 "t": "p",
-                "x": "2026 AI MegaJamは11月12日から15日まで開催され、Itch.ioで参加登録を受け付けている。参加者はUnreal EngineまたはUEFNを使ってゲームを作る。同社は「アセット生成からコーディングエージェントまで、あらゆるAIツールをワークフローに取り入れてほしい」としている。"
+                "x": "SteamのAI開示は、生成AIを使った開発者にその使い方を明記するよう求めている。Call of Duty: Modern Warfare 4の開示には「私たちのチームは一部のゲーム内アセットの開発に生成AIツールを活用している」とある。"
               },
               {
                 "t": "p",
-                "x": "賞には、「AIツールを使ってどのようにゲームを作ったかを示す最優秀開発ログ」と、LLM-driven NPCsを使った最優秀ゲームに贈られる$2,500のほか、「ジャム後も開発を続けるための最大$50,000の開発継続助成金」がある。"
+                "x": "Sweeneyは早くも2025年11月の時点で、「今後のほぼすべての制作にAIが関わる」世界においてValveのやり方は無意味だと述べていた。6月には、この開示を「Scarlet Letter(緋文字)」になぞらえた。"
               },
               {
                 "t": "p",
-                "x": "指が六本ある宣伝アートと「vibe your way to 50K」というキャッチコピーからして、EpicがAI批判派をからかっているのは明らかだ。Twitterでの反応は決して好意的ではなく、AIに対する開発者の反発は以前から大きく、一貫して続いている。"
+                "x": "今回のメッセージは「生成メディアクラウド」FalのMatt Workmanへの返信で、Workmanは「2026年にAI Generated Content Disclosureという前提はABSURDだ」と主張していた。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/eZKmPGBhfcyu2zDqCWYzU9.jpeg",
+                "cap": "画像提供：Epic Games"
+              },
+              {
+                "t": "p",
+                "x": "先週、Epicは刷新したPCストアについて「Epic Games Launcherはバイブコーディング(vibe coded)で作った」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Epic为AI制作游戏\n提供5万美元资助",
-          "body": "Epic的AI MegaJam为AI-built游戏提供最高5万美元资助。",
-          "mini_headline": "Epic的5万美元AI游戏赛",
+          "headline": "Tim Sweeney再度\n抨击Steam AI标注",
+          "body": "Tim Sweeney称，Steam的AI标注逼开发者写出被仇恨暴民利用的政治声明。",
+          "mini_headline": "Sweeney vs. Steam AI标注",
           "full": {
             "mode": "summary",
             "blocks": [
@@ -595,27 +803,36 @@
               },
               {
                 "t": "p",
-                "x": "Epic热衷于在一场AI-focused的游戏创作活动中向有志的氛围编程者发钱，承诺提供价值$65,000的现金奖励，并可能为“出色”项目提供$50,000的资助。"
+                "x": "Epic Games CEO Tim Sweeney批评Valve继续强制要求在Steam上销售的游戏披露AI使用情况，称这一政策“令人憎恶”。“强迫开发者写下政治声明，再让他们帮着组织起来的仇恨暴民拿来对付他们，这令人憎恶，”Sweeney说。"
               },
               {
                 "t": "p",
-                "x": "2026 AI MegaJam将于11月12日至15日举行，现已在Itch.io开放报名，参赛者需使用Unreal Engine或UEFN制作游戏。该公司表示：“从资产生成到编程智能体，把任何AI工具带进你的工作流程。”"
+                "x": "Steam的AI披露要求使用生成式AI的开发者说明具体用法。Call of Duty: Modern Warfare 4的披露写道：“我们的团队使用生成式AI工具协助开发部分游戏内资产。”"
               },
               {
                 "t": "p",
-                "x": "奖项包括授予“展示你如何用AI工具制作游戏的最佳开发日志”以及使用LLM-driven NPCs的最佳游戏的$2,500奖金，另有“最高$50,000的开发延续资助，让你在活动结束后继续开发”。"
+                "x": "早在2025年11月，Sweeney就称在一个“AI将参与几乎所有未来制作”的世界里，Valve的做法毫无道理。6月，他把这些披露比作“Scarlet Letter（红字）”。"
               },
               {
                 "t": "p",
-                "x": "从带着六根手指的宣传图和“vibe your way to 50K”的口号来看，Epic显然是在调侃AI批评者。Twitter上的反应可谓毫不客气，而开发者对AI的抵触声浪一段时间以来一直响亮且持续。"
+                "x": "他最新的这条消息回复的是“生成式媒体云”Fal的Matt Workman，后者认为“在2026年，AI Generated Content Disclosure这一前提本身就是ABSURD的”。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/eZKmPGBhfcyu2zDqCWYzU9.jpeg",
+                "cap": "图片来源：Epic Games"
+              },
+              {
+                "t": "p",
+                "x": "上周，Epic在谈到改版后的PC商店时说：“我们用氛围编程（vibe coded）做出了Epic Games Launcher。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Epic ofrece ayudas de 50.000\ndólares a juegos hechos con IA",
-          "body": "La AI MegaJam de Epic ofrece 65.000 dólares en premios y ayudas de hasta 50.000 dólares para juegos AI-built.",
-          "mini_headline": "La game jam de IA de Epic, con 50.000 dólares",
+          "headline": "Tim Sweeney vuelve a atacar\nlas etiquetas de AI de Steam",
+          "body": "Tim Sweeney dice que las etiquetas de AI de Steam fuerzan una declaración política que explota la turba del odio.",
+          "mini_headline": "Sweeney vs. las etiquetas de AI de Steam",
           "full": {
             "mode": "summary",
             "blocks": [
@@ -625,19 +842,28 @@
               },
               {
                 "t": "p",
-                "x": "Epic está dispuesta a pagar a aspirantes a vibe coders en una game jam AI-focused, con la promesa de 65.000 dólares en premios en efectivo y posibles ayudas de 50.000 dólares para proyectos “destacados”."
+                "x": "El CEO de Epic Games, Tim Sweeney, criticó a Valve por seguir exigiendo que los juegos vendidos en Steam declaren el uso de AI, y calificó la política de \"aborrecible\". \"Obligar a los desarrolladores a escribir una declaración política que usará en su contra la turba del odio que ellos mismos ayudan a organizar es aborrecible\", afirma Sweeney."
               },
               {
                 "t": "p",
-                "x": "La AI MegaJam 2026 se celebra del 12 al 15 de noviembre, con inscripción abierta en Itch.io, y reta a los participantes a crear juegos con Unreal Engine o UEFN. “Incorpora cualquier herramienta de IA a tu flujo de trabajo, desde la generación de recursos hasta los agentes de programación”, indica la compañía."
+                "x": "Las declaraciones de AI de Steam exigen a los desarrolladores que usan AI generativa detallar cómo la emplearon. La de Call of Duty: Modern Warfare 4 dice: \"Nuestro equipo usa herramientas de AI generativa para ayudar a desarrollar algunos recursos del juego\"."
               },
               {
                 "t": "p",
-                "x": "Los premios incluyen 2.500 dólares para el “mejor diario de desarrollo que muestre cómo usaste herramientas de IA para crear tu juego” y para el mejor juego con NPCs LLM-driven, además de “ayudas de continuidad de desarrollo de hasta 50.000 dólares para seguir construyendo después de la jam”."
+                "x": "Ya en noviembre de 2025, Sweeney calificó de absurdo el enfoque de Valve en un mundo donde \"la AI estará presente en casi toda la producción futura\". En junio comparó las declaraciones con una \"Scarlet Letter\"."
               },
               {
                 "t": "p",
-                "x": "Con un arte promocional de seis dedos y el lema “vibe your way to 50K”, Epic se burla claramente de los críticos de la IA. Las respuestas en Twitter no han sido nada amables, y el rechazo de los desarrolladores a la IA ha sido fuerte y constante desde hace tiempo."
+                "x": "Su último mensaje respondía a Matt Workman, de la \"nube de medios generativos\" Fal, quien sostuvo que \"la premisa de una AI Generated Content Disclosure es ABSURD en 2026\"."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/eZKmPGBhfcyu2zDqCWYzU9.jpeg",
+                "cap": "Imagen: Epic Games"
+              },
+              {
+                "t": "p",
+                "x": "La semana pasada, Epic dijo sobre su renovada tienda para PC: \"Hicimos el Epic Games Launcher con vibe coding (vibe coded)\"."
               }
             ]
           }
@@ -645,9 +871,9 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Epic, AI 게임에\n$50,000 보조금",
-          "body": "Epic AI MegaJam은 AI-built 게임에 최대 $50,000를 준다.",
-          "mini_headline": "Epic의 $50,000 AI 게임 잼",
+          "headline": "Tim Sweeney 재차\nSteam AI 표시 비판",
+          "body": "Tim Sweeney는 Steam AI 표시가 혐오 집단에 쓰일 성명 강요라 했다.",
+          "mini_headline": "Sweeney vs. Steam AI 표시",
           "full": {
             "mode": "summary",
             "blocks": [
@@ -657,27 +883,36 @@
               },
               {
                 "t": "p",
-                "x": "Epic이 AI-focused 게임 잼을 열고 바이브 코더 지망생들에게 기꺼이 돈을 쓰려 한다. 총 $65,000 규모의 현금 상금과 함께 “눈에 띄는” 프로젝트에는 $50,000 지원금을 줄 수 있다고 약속했다."
+                "x": "Epic Games CEO Tim Sweeney가 Steam에서 판매되는 게임에 AI 사용 공개를 계속 의무화하는 Valve를 비판하며 이 정책을 \"혐오스럽다\"고 했다. Sweeney는 \"개발자에게 정치적 성명을 쓰게 하고, 그들이 조직을 돕고 있는 혐오 집단이 그 성명을 개발자 공격에 쓰게 만드는 것은 혐오스럽다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "2026 AI MegaJam은 11월 12일부터 15일까지 열리며, 참가 등록은 Itch.io에서 받는다. 참가자는 Unreal Engine이나 UEFN으로 게임을 만들어야 한다. 회사는 “에셋 생성부터 코딩 에이전트까지, 어떤 AI 도구든 워크플로에 들여오라”고 밝혔다."
+                "x": "Steam의 AI 공개 규정은 생성형 AI를 쓴 개발자에게 어떻게 썼는지 밝히도록 요구한다. Call of Duty: Modern Warfare 4의 공개 문구에는 \"우리 팀은 일부 게임 내 에셋 개발을 돕기 위해 생성형 AI 도구를 사용한다\"고 적혀 있다."
               },
               {
                 "t": "p",
-                "x": "시상 부문에는 “AI 도구로 게임을 어떻게 만들었는지 보여주는 최고의 개발 로그”와 LLM-driven NPCs를 활용한 최고의 게임에 각각 주는 $2,500 상금이 있다. 여기에 “잼이 끝난 뒤에도 개발을 이어갈 수 있도록 최대 $50,000의 개발 지속 지원금”도 있다."
+                "x": "Sweeney는 이미 2025년 11월에 \"앞으로 거의 모든 제작에 AI가 관여할\" 세상에서 Valve의 방식은 말이 안 된다고 했다. 6월에는 이 공개 표시를 \"Scarlet Letter(주홍 글씨)\"에 비유했다."
               },
               {
                 "t": "p",
-                "x": "손가락이 여섯 개인 홍보 이미지와 “vibe your way to 50K”라는 문구로 볼 때, Epic은 AI 비판론자들을 대놓고 놀리고 있다. Twitter 반응은 결코 호의적이지 않으며, AI를 향한 개발자들의 반발은 꽤 오래전부터 크고 꾸준하게 이어져 왔다."
+                "x": "그의 최근 메시지는 \"생성형 미디어 클라우드\" Fal의 Matt Workman에게 단 답글이었다. Workman은 \"2026년에 AI Generated Content Disclosure라는 전제 자체가 ABSURD하다\"고 주장했다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/eZKmPGBhfcyu2zDqCWYzU9.jpeg",
+                "cap": "이미지 출처: Epic Games"
+              },
+              {
+                "t": "p",
+                "x": "지난주 Epic은 새로 단장한 PC 스토어를 두고 \"우리는 Epic Games Launcher를 바이브 코딩(vibe coded)으로 만들었다\"고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Epic、AI製ゲームに\n最大5万ドルの助成",
-          "body": "EpicのAI MegaJamは、AI-builtゲームに最大5万ドルの助成金を出す。",
-          "mini_headline": "Epicの5万ドルAIゲームジャム",
+          "headline": "Tim Sweeney氏\nSteamのAI表示を再批判",
+          "body": "Tim Sweeneyは、SteamのAI表示は憎悪集団に使われる声明の強制だと批判した。",
+          "mini_headline": "Sweeney vs. SteamのAI表示",
           "full": {
             "mode": "summary",
             "blocks": [
@@ -687,27 +922,36 @@
               },
               {
                 "t": "p",
-                "x": "Epicは、AI-focusedのゲームジャムでバイブコーダー志望者に報酬を出すことに積極的だ。総額$65,000の賞金に加え、「際立った」プロジェクトには$50,000の助成金を出す可能性があるという。"
+                "x": "Epic GamesのCEOであるTim Sweeneyは、Steamで販売されるゲームにAI使用の開示を義務づけ続けるValveを批判し、この方針を「忌まわしい」と呼んだ。「開発者に政治的声明を書かせ、彼らが組織化に手を貸しているヘイトの群衆にそれを開発者攻撃の材料として使わせるのは忌まわしい」とSweeneyは言う。"
               },
               {
                 "t": "p",
-                "x": "2026 AI MegaJamは11月12日から15日まで開催され、Itch.ioで参加登録を受け付けている。参加者はUnreal EngineまたはUEFNを使ってゲームを作る。同社は「アセット生成からコーディングエージェントまで、あらゆるAIツールをワークフローに取り入れてほしい」としている。"
+                "x": "SteamのAI開示は、生成AIを使った開発者にその使い方を明記するよう求めている。Call of Duty: Modern Warfare 4の開示には「私たちのチームは一部のゲーム内アセットの開発に生成AIツールを活用している」とある。"
               },
               {
                 "t": "p",
-                "x": "賞には、「AIツールを使ってどのようにゲームを作ったかを示す最優秀開発ログ」と、LLM-driven NPCsを使った最優秀ゲームに贈られる$2,500のほか、「ジャム後も開発を続けるための最大$50,000の開発継続助成金」がある。"
+                "x": "Sweeneyは早くも2025年11月の時点で、「今後のほぼすべての制作にAIが関わる」世界においてValveのやり方は無意味だと述べていた。6月には、この開示を「Scarlet Letter(緋文字)」になぞらえた。"
               },
               {
                 "t": "p",
-                "x": "指が六本ある宣伝アートと「vibe your way to 50K」というキャッチコピーからして、EpicがAI批判派をからかっているのは明らかだ。Twitterでの反応は決して好意的ではなく、AIに対する開発者の反発は以前から大きく、一貫して続いている。"
+                "x": "今回のメッセージは「生成メディアクラウド」FalのMatt Workmanへの返信で、Workmanは「2026年にAI Generated Content Disclosureという前提はABSURDだ」と主張していた。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/eZKmPGBhfcyu2zDqCWYzU9.jpeg",
+                "cap": "画像提供：Epic Games"
+              },
+              {
+                "t": "p",
+                "x": "先週、Epicは刷新したPCストアについて「Epic Games Launcherはバイブコーディング(vibe coded)で作った」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Epic为AI制作游戏\n提供5万美元资助",
-          "body": "Epic的AI MegaJam为AI-built游戏提供最高5万美元资助。",
-          "mini_headline": "Epic的5万美元AI游戏赛",
+          "headline": "Tim Sweeney再度\n抨击Steam AI标注",
+          "body": "Tim Sweeney称，Steam的AI标注逼开发者写出被仇恨暴民利用的政治声明。",
+          "mini_headline": "Sweeney vs. Steam AI标注",
           "full": {
             "mode": "summary",
             "blocks": [
@@ -717,27 +961,36 @@
               },
               {
                 "t": "p",
-                "x": "Epic热衷于在一场AI-focused的游戏创作活动中向有志的氛围编程者发钱，承诺提供价值$65,000的现金奖励，并可能为“出色”项目提供$50,000的资助。"
+                "x": "Epic Games CEO Tim Sweeney批评Valve继续强制要求在Steam上销售的游戏披露AI使用情况，称这一政策“令人憎恶”。“强迫开发者写下政治声明，再让他们帮着组织起来的仇恨暴民拿来对付他们，这令人憎恶，”Sweeney说。"
               },
               {
                 "t": "p",
-                "x": "2026 AI MegaJam将于11月12日至15日举行，现已在Itch.io开放报名，参赛者需使用Unreal Engine或UEFN制作游戏。该公司表示：“从资产生成到编程智能体，把任何AI工具带进你的工作流程。”"
+                "x": "Steam的AI披露要求使用生成式AI的开发者说明具体用法。Call of Duty: Modern Warfare 4的披露写道：“我们的团队使用生成式AI工具协助开发部分游戏内资产。”"
               },
               {
                 "t": "p",
-                "x": "奖项包括授予“展示你如何用AI工具制作游戏的最佳开发日志”以及使用LLM-driven NPCs的最佳游戏的$2,500奖金，另有“最高$50,000的开发延续资助，让你在活动结束后继续开发”。"
+                "x": "早在2025年11月，Sweeney就称在一个“AI将参与几乎所有未来制作”的世界里，Valve的做法毫无道理。6月，他把这些披露比作“Scarlet Letter（红字）”。"
               },
               {
                 "t": "p",
-                "x": "从带着六根手指的宣传图和“vibe your way to 50K”的口号来看，Epic显然是在调侃AI批评者。Twitter上的反应可谓毫不客气，而开发者对AI的抵触声浪一段时间以来一直响亮且持续。"
+                "x": "他最新的这条消息回复的是“生成式媒体云”Fal的Matt Workman，后者认为“在2026年，AI Generated Content Disclosure这一前提本身就是ABSURD的”。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/eZKmPGBhfcyu2zDqCWYzU9.jpeg",
+                "cap": "图片来源：Epic Games"
+              },
+              {
+                "t": "p",
+                "x": "上周，Epic在谈到改版后的PC商店时说：“我们用氛围编程（vibe coded）做出了Epic Games Launcher。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Epic ofrece ayudas de 50.000\ndólares a juegos hechos con IA",
-          "body": "La AI MegaJam de Epic ofrece 65.000 dólares en premios y ayudas de hasta 50.000 dólares para juegos AI-built.",
-          "mini_headline": "La game jam de IA de Epic, con 50.000 dólares",
+          "headline": "Tim Sweeney vuelve a atacar\nlas etiquetas de AI de Steam",
+          "body": "Tim Sweeney dice que las etiquetas de AI de Steam fuerzan una declaración política que explota la turba del odio.",
+          "mini_headline": "Sweeney vs. las etiquetas de AI de Steam",
           "full": {
             "mode": "summary",
             "blocks": [
@@ -747,19 +1000,28 @@
               },
               {
                 "t": "p",
-                "x": "Epic está dispuesta a pagar a aspirantes a vibe coders en una game jam AI-focused, con la promesa de 65.000 dólares en premios en efectivo y posibles ayudas de 50.000 dólares para proyectos “destacados”."
+                "x": "El CEO de Epic Games, Tim Sweeney, criticó a Valve por seguir exigiendo que los juegos vendidos en Steam declaren el uso de AI, y calificó la política de \"aborrecible\". \"Obligar a los desarrolladores a escribir una declaración política que usará en su contra la turba del odio que ellos mismos ayudan a organizar es aborrecible\", afirma Sweeney."
               },
               {
                 "t": "p",
-                "x": "La AI MegaJam 2026 se celebra del 12 al 15 de noviembre, con inscripción abierta en Itch.io, y reta a los participantes a crear juegos con Unreal Engine o UEFN. “Incorpora cualquier herramienta de IA a tu flujo de trabajo, desde la generación de recursos hasta los agentes de programación”, indica la compañía."
+                "x": "Las declaraciones de AI de Steam exigen a los desarrolladores que usan AI generativa detallar cómo la emplearon. La de Call of Duty: Modern Warfare 4 dice: \"Nuestro equipo usa herramientas de AI generativa para ayudar a desarrollar algunos recursos del juego\"."
               },
               {
                 "t": "p",
-                "x": "Los premios incluyen 2.500 dólares para el “mejor diario de desarrollo que muestre cómo usaste herramientas de IA para crear tu juego” y para el mejor juego con NPCs LLM-driven, además de “ayudas de continuidad de desarrollo de hasta 50.000 dólares para seguir construyendo después de la jam”."
+                "x": "Ya en noviembre de 2025, Sweeney calificó de absurdo el enfoque de Valve en un mundo donde \"la AI estará presente en casi toda la producción futura\". En junio comparó las declaraciones con una \"Scarlet Letter\"."
               },
               {
                 "t": "p",
-                "x": "Con un arte promocional de seis dedos y el lema “vibe your way to 50K”, Epic se burla claramente de los críticos de la IA. Las respuestas en Twitter no han sido nada amables, y el rechazo de los desarrolladores a la IA ha sido fuerte y constante desde hace tiempo."
+                "x": "Su último mensaje respondía a Matt Workman, de la \"nube de medios generativos\" Fal, quien sostuvo que \"la premisa de una AI Generated Content Disclosure es ABSURD en 2026\"."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/eZKmPGBhfcyu2zDqCWYzU9.jpeg",
+                "cap": "Imagen: Epic Games"
+              },
+              {
+                "t": "p",
+                "x": "La semana pasada, Epic dijo sobre su renovada tienda para PC: \"Hicimos el Epic Games Launcher con vibe coding (vibe coded)\"."
               }
             ]
           }
@@ -767,779 +1029,15 @@
       }
     },
     {
-      "id": "games-switch2-ai-jailbreak",
+      "id": "games-future-refunds",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "모더, AI와 옛 게임으로\nSwitch 2 탈옥",
-      "body": "OpenAI Codex와 SmileBASIC 4로 Switch 2를 탈옥했다.",
-      "mini_headline": "AI로 탈옥한 Switch 2",
+      "headline": "AI 뺀 Future?\nNo Thanks! 환불",
+      "body": "Molleindustria는 Future? No Thanks!의 genAI를 뺐다.",
+      "mini_headline": "Future? No Thanks! 환불",
       "tool": "Games",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-10.19.11-AM.png?quality=90&strip=all&crop=1.7484243697479%2C0%2C96.503151260504%2C100&w=1200",
-            "cap": "이미지: X의 pepsipu"
-          },
-          {
-            "t": "p",
-            "x": "Nintendo Switch 2가 탈옥된 것으로 보인다. 한 모더는 벌써 콘솔에서 Mario Kart World 커스텀 버전을 돌리는 모습을 공개했다. Cinnamoroll, 빨간 Angry Bird, Peter Griffin, Minecraft의 Steve 같은 새 플레이어블 캐릭터가 나오는 버전이다."
-          },
-          {
-            "t": "p",
-            "x": "“pepsipu”로 알려진 Sammy Hajhamid는 OpenAI의 Codex가 이 “ns2jb” 탈옥을 만드는 데 도움을 줬다고 했다. 소프트웨어만 쓰는 테더드 탈옥이라 콘솔을 켤 때마다 게임에서 다시 실행해야 작동한다. 익스플로잇에는 SmileBASIC 4가 필요한데, 사용자가 직접 게임을 프로그래밍하고 플레이할 수 있는 게임이다(다만 다른 모더는 이 타이틀이 “꼭 필요하지는 않다”고 주장한다)."
-          },
-          {
-            "t": "p",
-            "x": "대부분의 사람에게 이 탈옥은 아직 너무 복잡해 보이고 파급력도 분명하지 않다. Switch 2 해킹 서브레딧에서는 이게 실제로 얼마나 큰일인지를 두고 논쟁이 이어진다. 그래도 모더들이 AI의 도움까지 받는다면 Switch 2를 노린 익스플로잇이 잇따르는 출발점이 될 수 있다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Modder jailbreaks Switch 2\nwith an old game and AI",
-          "body": "A modder reportedly jailbroke the Switch 2 using OpenAI's Codex and the game SmileBASIC 4.",
-          "mini_headline": "Switch 2 jailbroken with AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-10.19.11-AM.png?quality=90&strip=all&crop=1.7484243697479%2C0%2C96.503151260504%2C100&w=1200",
-                "cap": "Image: pepsipu on X"
-              },
-              {
-                "t": "p",
-                "x": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft."
-              },
-              {
-                "t": "p",
-                "x": "OpenAI’s Codex helped make this “ns2jb” jailbreak, according to Sammy Hajhamid, aka “pepsipu.” It’s a software-only, tethered jailbreak, which, in this case, means that you’ll have to run it from a game every time you turn the console on for it to work. This exploit requires the game SmileBASIC 4, which lets users program and play games (though another modder claims that the title is “not strictly needed”)."
-              },
-              {
-                "t": "p",
-                "x": "This jailbreak still seems extremely complex for most people, and its full impact isn’t clear yet; users on the Switch 2 hacks subreddit are debating how big of a deal it actually is. Still, this could mark the beginning of a string of exploits for the Switch 2, especially if modders use AI to help."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "모더, AI와 옛 게임으로\nSwitch 2 탈옥",
-          "body": "OpenAI Codex와 SmileBASIC 4로 Switch 2를 탈옥했다.",
-          "mini_headline": "AI로 탈옥한 Switch 2",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-10.19.11-AM.png?quality=90&strip=all&crop=1.7484243697479%2C0%2C96.503151260504%2C100&w=1200",
-                "cap": "이미지: X의 pepsipu"
-              },
-              {
-                "t": "p",
-                "x": "Nintendo Switch 2가 탈옥된 것으로 보인다. 한 모더는 벌써 콘솔에서 Mario Kart World 커스텀 버전을 돌리는 모습을 공개했다. Cinnamoroll, 빨간 Angry Bird, Peter Griffin, Minecraft의 Steve 같은 새 플레이어블 캐릭터가 나오는 버전이다."
-              },
-              {
-                "t": "p",
-                "x": "“pepsipu”로 알려진 Sammy Hajhamid는 OpenAI의 Codex가 이 “ns2jb” 탈옥을 만드는 데 도움을 줬다고 했다. 소프트웨어만 쓰는 테더드 탈옥이라 콘솔을 켤 때마다 게임에서 다시 실행해야 작동한다. 익스플로잇에는 SmileBASIC 4가 필요한데, 사용자가 직접 게임을 프로그래밍하고 플레이할 수 있는 게임이다(다만 다른 모더는 이 타이틀이 “꼭 필요하지는 않다”고 주장한다)."
-              },
-              {
-                "t": "p",
-                "x": "대부분의 사람에게 이 탈옥은 아직 너무 복잡해 보이고 파급력도 분명하지 않다. Switch 2 해킹 서브레딧에서는 이게 실제로 얼마나 큰일인지를 두고 논쟁이 이어진다. 그래도 모더들이 AI의 도움까지 받는다면 Switch 2를 노린 익스플로잇이 잇따르는 출발점이 될 수 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "モッダーがAIと旧作で\nSwitch 2を脱獄",
-          "body": "OpenAIのCodexとSmileBASIC 4でSwitch 2が脱獄されたという。",
-          "mini_headline": "AIでSwitch 2が脱獄",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-10.19.11-AM.png?quality=90&strip=all&crop=1.7484243697479%2C0%2C96.503151260504%2C100&w=1200",
-                "cap": "画像：X上のpepsipu"
-              },
-              {
-                "t": "p",
-                "x": "Nintendo Switch 2が脱獄されたとみられ、あるモッダーはすでに、Cinnamoroll、赤いAngry Bird、Peter Griffin、MinecraftのSteveといった新たなプレイアブルキャラクターが登場するMario Kart Worldのカスタム版を本体で動かす様子を公開している。"
-              },
-              {
-                "t": "p",
-                "x": "「pepsipu」として知られるSammy Hajhamidによると、この「ns2jb」脱獄の作成にはOpenAIのCodexが役立ったという。ソフトウェアのみのテザード脱獄で、この場合、本体を起動するたびにゲームから実行しなければ機能しないことを意味する。このエクスプロイトには、ユーザーがゲームをプログラミングして遊べるゲーム『SmileBASIC 4』が必要だ（ただし別のモッダーは、このタイトルは「厳密には必要ない」と主張している）。"
-              },
-              {
-                "t": "p",
-                "x": "この脱獄は依然として大半の人にとって極めて複雑に見え、その影響の全容もまだはっきりしない。Switch 2のハック系サブレディットでは、実際にどれほど大きな出来事なのかをめぐって議論が続いている。それでも、特にモッダーがAIの助けを借りるなら、これはSwitch 2に対する一連のエクスプロイトの始まりとなるかもしれない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "模组作者借AI与老游戏\n越狱Switch 2",
-          "body": "据报道，模组作者用OpenAI的Codex和SmileBASIC 4越狱Switch 2。",
-          "mini_headline": "Switch 2遭AI辅助越狱",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-10.19.11-AM.png?quality=90&strip=all&crop=1.7484243697479%2C0%2C96.503151260504%2C100&w=1200",
-                "cap": "图片：X用户pepsipu"
-              },
-              {
-                "t": "p",
-                "x": "Nintendo Switch 2似乎已被越狱，一名模组作者已经展示了主机运行定制版Mario Kart World的画面，其中加入了Cinnamoroll、红色Angry Bird、Peter Griffin以及Minecraft中的Steve等新的可玩角色。"
-              },
-              {
-                "t": "p",
-                "x": "据网名“pepsipu”的Sammy Hajhamid介绍，OpenAI的Codex帮助完成了这个“ns2jb”越狱。这是一种纯软件的不完美越狱（tethered），在这里意味着每次开机都必须从一款游戏中运行它才能生效。该漏洞利用需要游戏SmileBASIC 4，这款游戏允许用户编程并游玩游戏（不过另一位模组作者称这款游戏“并非绝对必需”）。"
-              },
-              {
-                "t": "p",
-                "x": "对大多数人来说，这个越狱看起来仍然极其复杂，其全面影响也尚不明朗；Switch 2破解Reddit子版块的用户正在争论此事究竟有多重要。尽管如此，这可能标志着针对Switch 2的一连串漏洞利用的开始，尤其是如果模组作者借助AI的话。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un modder libera la Switch 2\ncon un juego antiguo e IA",
-          "body": "Un modder habría hecho jailbreak a la Switch 2 con Codex de OpenAI y el juego SmileBASIC 4.",
-          "mini_headline": "Switch 2 liberada con IA",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-10.19.11-AM.png?quality=90&strip=all&crop=1.7484243697479%2C0%2C96.503151260504%2C100&w=1200",
-                "cap": "Imagen: pepsipu en X"
-              },
-              {
-                "t": "p",
-                "x": "Al parecer, la Nintendo Switch 2 ha sido liberada mediante jailbreak, y un modder ya ha mostrado la consola ejecutando una versión personalizada de Mario Kart World con nuevos personajes jugables como Cinnamoroll, el Angry Bird rojo, Peter Griffin y Steve de Minecraft."
-              },
-              {
-                "t": "p",
-                "x": "Codex de OpenAI ayudó a crear este jailbreak “ns2jb”, según Sammy Hajhamid, alias “pepsipu”. Es un jailbreak tethered y solo por software, lo que en este caso significa que hay que ejecutarlo desde un juego cada vez que se enciende la consola para que funcione. Este exploit requiere el juego SmileBASIC 4, que permite a los usuarios programar y jugar juegos (aunque otro modder afirma que el título “no es estrictamente necesario”)."
-              },
-              {
-                "t": "p",
-                "x": "Este jailbreak sigue pareciendo extremadamente complejo para la mayoría de la gente, y su impacto real aún no está claro; los usuarios del subreddit de hacks de la Switch 2 debaten cuán importante es en realidad. Aun así, esto podría marcar el inicio de una serie de exploits para la Switch 2, sobre todo si los modders recurren a la IA."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "모더, AI와 옛 게임으로\nSwitch 2 탈옥",
-          "body": "Switch 2가 OpenAI Codex와 SmileBASIC 4로 탈옥됐다.",
-          "mini_headline": "AI로 탈옥한 Switch 2",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-10.19.11-AM.png?quality=90&strip=all&crop=1.7484243697479%2C0%2C96.503151260504%2C100&w=1200",
-                "cap": "이미지: X의 pepsipu"
-              },
-              {
-                "t": "p",
-                "x": "Nintendo Switch 2가 탈옥된 것으로 보인다. 한 모더는 이미 Cinnamoroll, 빨간 Angry Bird, Peter Griffin, Minecraft의 Steve 같은 새 플레이어블 캐릭터가 등장하는 Mario Kart World 커스텀 버전을 콘솔에서 실행하는 모습을 공개했다."
-              },
-              {
-                "t": "p",
-                "x": "“pepsipu”로 알려진 Sammy Hajhamid에 따르면 OpenAI의 Codex가 이 “ns2jb” 탈옥을 만드는 데 도움을 줬다. 소프트웨어만으로 이뤄지는 테더드 탈옥으로, 이 경우 콘솔을 켤 때마다 게임에서 이를 실행해야 작동한다는 뜻이다. 이 익스플로잇에는 사용자가 게임을 프로그래밍하고 플레이할 수 있는 게임 SmileBASIC 4가 필요하다(다만 다른 모더는 이 타이틀이 “꼭 필요하지는 않다”고 주장한다)."
-              },
-              {
-                "t": "p",
-                "x": "이 탈옥은 여전히 대부분의 사람에게 매우 복잡해 보이고, 그 파급력도 아직 분명하지 않다. Switch 2 해킹 서브레딧 이용자들은 이것이 실제로 얼마나 큰일인지 논쟁하고 있다. 그래도 특히 모더들이 AI의 도움을 받는다면, 이는 Switch 2를 겨냥한 일련의 익스플로잇의 시작이 될 수 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "モッダーがAIと旧作で\nSwitch 2を脱獄",
-          "body": "OpenAIのCodexとSmileBASIC 4でSwitch 2が脱獄されたという。",
-          "mini_headline": "AIでSwitch 2が脱獄",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-10.19.11-AM.png?quality=90&strip=all&crop=1.7484243697479%2C0%2C96.503151260504%2C100&w=1200",
-                "cap": "画像：X上のpepsipu"
-              },
-              {
-                "t": "p",
-                "x": "Nintendo Switch 2が脱獄されたとみられ、あるモッダーはすでに、Cinnamoroll、赤いAngry Bird、Peter Griffin、MinecraftのSteveといった新たなプレイアブルキャラクターが登場するMario Kart Worldのカスタム版を本体で動かす様子を公開している。"
-              },
-              {
-                "t": "p",
-                "x": "「pepsipu」として知られるSammy Hajhamidによると、この「ns2jb」脱獄の作成にはOpenAIのCodexが役立ったという。ソフトウェアのみのテザード脱獄で、この場合、本体を起動するたびにゲームから実行しなければ機能しないことを意味する。このエクスプロイトには、ユーザーがゲームをプログラミングして遊べるゲーム『SmileBASIC 4』が必要だ（ただし別のモッダーは、このタイトルは「厳密には必要ない」と主張している）。"
-              },
-              {
-                "t": "p",
-                "x": "この脱獄は依然として大半の人にとって極めて複雑に見え、その影響の全容もまだはっきりしない。Switch 2のハック系サブレディットでは、実際にどれほど大きな出来事なのかをめぐって議論が続いている。それでも、特にモッダーがAIの助けを借りるなら、これはSwitch 2に対する一連のエクスプロイトの始まりとなるかもしれない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "模组作者借AI与老游戏\n越狱Switch 2",
-          "body": "据报道，模组作者用OpenAI的Codex和SmileBASIC 4越狱Switch 2。",
-          "mini_headline": "Switch 2遭AI辅助越狱",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-10.19.11-AM.png?quality=90&strip=all&crop=1.7484243697479%2C0%2C96.503151260504%2C100&w=1200",
-                "cap": "图片：X用户pepsipu"
-              },
-              {
-                "t": "p",
-                "x": "Nintendo Switch 2似乎已被越狱，一名模组作者已经展示了主机运行定制版Mario Kart World的画面，其中加入了Cinnamoroll、红色Angry Bird、Peter Griffin以及Minecraft中的Steve等新的可玩角色。"
-              },
-              {
-                "t": "p",
-                "x": "据网名“pepsipu”的Sammy Hajhamid介绍，OpenAI的Codex帮助完成了这个“ns2jb”越狱。这是一种纯软件的不完美越狱（tethered），在这里意味着每次开机都必须从一款游戏中运行它才能生效。该漏洞利用需要游戏SmileBASIC 4，这款游戏允许用户编程并游玩游戏（不过另一位模组作者称这款游戏“并非绝对必需”）。"
-              },
-              {
-                "t": "p",
-                "x": "对大多数人来说，这个越狱看起来仍然极其复杂，其全面影响也尚不明朗；Switch 2破解Reddit子版块的用户正在争论此事究竟有多重要。尽管如此，这可能标志着针对Switch 2的一连串漏洞利用的开始，尤其是如果模组作者借助AI的话。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un modder libera la Switch 2\ncon un juego antiguo e IA",
-          "body": "Un modder habría hecho jailbreak a la Switch 2 con Codex de OpenAI y el juego SmileBASIC 4.",
-          "mini_headline": "Switch 2 liberada con IA",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-10.19.11-AM.png?quality=90&strip=all&crop=1.7484243697479%2C0%2C96.503151260504%2C100&w=1200",
-                "cap": "Imagen: pepsipu en X"
-              },
-              {
-                "t": "p",
-                "x": "Al parecer, la Nintendo Switch 2 ha sido liberada mediante jailbreak, y un modder ya ha mostrado la consola ejecutando una versión personalizada de Mario Kart World con nuevos personajes jugables como Cinnamoroll, el Angry Bird rojo, Peter Griffin y Steve de Minecraft."
-              },
-              {
-                "t": "p",
-                "x": "Codex de OpenAI ayudó a crear este jailbreak “ns2jb”, según Sammy Hajhamid, alias “pepsipu”. Es un jailbreak tethered y solo por software, lo que en este caso significa que hay que ejecutarlo desde un juego cada vez que se enciende la consola para que funcione. Este exploit requiere el juego SmileBASIC 4, que permite a los usuarios programar y jugar juegos (aunque otro modder afirma que el título “no es estrictamente necesario”)."
-              },
-              {
-                "t": "p",
-                "x": "Este jailbreak sigue pareciendo extremadamente complejo para la mayoría de la gente, y su impacto real aún no está claro; los usuarios del subreddit de hacks de la Switch 2 debaten cuán importante es en realidad. Aun así, esto podría marcar el inicio de una serie de exploits para la Switch 2, sobre todo si los modders recurren a la IA."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "games-machinarium-ai-tribute",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Amanita Design\nAI 헌정 영상 거부",
-      "body": "Amanita는 Machinarium AI 헌정작이 역겹고 무관하다고 했다.",
-      "mini_headline": "AI 헌정작에 선 그은 Amanita",
-      "tool": "Games",
-      "source": "PC Gamer",
-      "url": "https://www.pcgamer.com/gaming-industry/machinarium-ai-tribute-cops-a-flogging-from-studio-this-looks-disgusting-and-has-nothing-to-do-with-us-or-our-craft/",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/QovyvgnTDavqyf4mSEdhu6-1920-80.jpg"
-          },
-          {
-            "t": "p",
-            "x": "10월 20일 “AI 스토리텔링” 기업 Nura Studios의 CEO가 Amanita Design의 2009년 컬트 고전 Machinarium에 바치는 헌정 영상을 올렸다. 지금은 지워진 영상이다. 올라와 있을 때 잠깐 봤는데, 누가 봐도 AI로 만든 영상이었다. 출처를 생각하면 굳이 말할 필요도 없겠지만."
-          },
-          {
-            "t": "p",
-            "x": "영상 완성도는 떨어졌다. 애초에 Amanita Design은 세계에서 시각적으로 가장 독특한 스튜디오 가운데 하나다. Nura Studios 영상에 보인 반응을 보면 체코에 자리한 이 팀은 가장 단호한 스튜디오 가운데 하나이기도 하다."
-          },
-          {
-            "t": "p",
-            "x": "이 AI 헌정 영상을 두고 스튜디오는 “Machinarium 에셋을 AI에 넣고, AI 슬롭 애니메이션을 만들고, 그걸 러브레터라고 부르는 뻔뻔함이라니…”라고 트윗했다. “러브레터는 손으로 써야 한다. 이건 역겨워 보이고 우리와도, 우리의 작업과도 아무 관련이 없다.”"
-          },
-          {
-            "t": "p",
-            "x": "뼈아프다. 이럴 때 스튜디오는 보통 Nura Studios 같은 무리의 서툰 접근을 정중히 못 본 척하기 마련이다. 이 회사가 내건 사명은 “사람이 주도하는 AI 플랫폼으로 크리에이터가 고품질 이야기를 실현하도록 힘을 실어주는 것”이고, 웹사이트는 이렇게 생겼다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/fnYAu3QZaHxVQvx45ofhNA-1200-80.png",
-            "cap": "이미지 출처: Nura Studios"
-          },
-          {
-            "t": "p",
-            "x": "그래서 Amanita가 받아치는 모습이 반갑다."
-          },
-          {
-            "t": "p",
-            "x": "Nura Studios CEO Sylvio Drouin은 후회한다고 밝혔다. 그는 “올린 게시물에 대해 정말 죄송하다”며 “여러분의 놀라운 작업에 대한 오마주라고 생각했고, 게시물은 이미 삭제했다. 다시 한번 진심 어린 사과를 받아주시길 바란다”고 트윗했다."
-          },
-          {
-            "t": "p",
-            "x": "Amanita Design은 이 사과를 아직 공개적으로 받아주지 않았다. 차기작 Machinarium 2는 이달 초 발표됐다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Amanita Design rejects AI\nMachinarium tribute",
-          "body": "Amanita Design called an AI 'tribute' to Machinarium by Nura Studios' CEO disgusting and unrelated to its craft.",
-          "mini_headline": "Amanita rejects AI tribute",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/QovyvgnTDavqyf4mSEdhu6-1920-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "On October 20, the CEO for \"AI storytelling\" company Nura Studios posted a now-deleted tribute to Amanita Design's 2009 cult classic Machinarium. I saw a glimpse of the video while it was still live and it was undeniably AI generated, but that probably goes without saying given its provenance."
-              },
-              {
-                "t": "p",
-                "x": "It wasn't good, but then: Amanita Design is one of the most visually distinctive studios in the world. The Czech-based team is also among the most assertive, if its response to Nura Studios' video is anything to go by."
-              },
-              {
-                "t": "p",
-                "x": "\"The audacity to feed Machinarium assets to AI, make AI slop animations, and call it a love letter…,\" the studio tweeted of the AI tribute. \"Love letters are supposed to be handwritten. This looks disgusting and has nothing to do with us or our craft.\""
-              },
-              {
-                "t": "p",
-                "x": "Ouch. Under these circumstances a studio would normally politely ignore the clumsy advances of a mob like Nura Studios, whose mission is \"to empower creators with a human-led AI platform to bring high-quality stories to life\", and whose website looks like this:"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/fnYAu3QZaHxVQvx45ofhNA-1200-80.png",
-                "cap": "Image credit: Nura Studios"
-              },
-              {
-                "t": "p",
-                "x": "So it's gratifying to see Amanita push back."
-              },
-              {
-                "t": "p",
-                "x": "Nura Studios CEO Sylvio Drouin did show remorse. \"We are so sorry for the post we did,\" Drouin tweeted. \"We thought it was an homage to your amazing work and I already deleted the posts, again please accept our sincere apologies.\""
-              },
-              {
-                "t": "p",
-                "x": "Amanita Design has yet to publicly accept the apology. Its next game, Machinarium 2, was announced earlier this month."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Amanita Design\nAI 헌정 영상 거부",
-          "body": "Amanita는 Machinarium AI 헌정작이 역겹고 무관하다고 했다.",
-          "mini_headline": "AI 헌정작에 선 그은 Amanita",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/QovyvgnTDavqyf4mSEdhu6-1920-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "10월 20일 “AI 스토리텔링” 기업 Nura Studios의 CEO가 Amanita Design의 2009년 컬트 고전 Machinarium에 바치는 헌정 영상을 올렸다. 지금은 지워진 영상이다. 올라와 있을 때 잠깐 봤는데, 누가 봐도 AI로 만든 영상이었다. 출처를 생각하면 굳이 말할 필요도 없겠지만."
-              },
-              {
-                "t": "p",
-                "x": "영상 완성도는 떨어졌다. 애초에 Amanita Design은 세계에서 시각적으로 가장 독특한 스튜디오 가운데 하나다. Nura Studios 영상에 보인 반응을 보면 체코에 자리한 이 팀은 가장 단호한 스튜디오 가운데 하나이기도 하다."
-              },
-              {
-                "t": "p",
-                "x": "이 AI 헌정 영상을 두고 스튜디오는 “Machinarium 에셋을 AI에 넣고, AI 슬롭 애니메이션을 만들고, 그걸 러브레터라고 부르는 뻔뻔함이라니…”라고 트윗했다. “러브레터는 손으로 써야 한다. 이건 역겨워 보이고 우리와도, 우리의 작업과도 아무 관련이 없다.”"
-              },
-              {
-                "t": "p",
-                "x": "뼈아프다. 이럴 때 스튜디오는 보통 Nura Studios 같은 무리의 서툰 접근을 정중히 못 본 척하기 마련이다. 이 회사가 내건 사명은 “사람이 주도하는 AI 플랫폼으로 크리에이터가 고품질 이야기를 실현하도록 힘을 실어주는 것”이고, 웹사이트는 이렇게 생겼다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/fnYAu3QZaHxVQvx45ofhNA-1200-80.png",
-                "cap": "이미지 출처: Nura Studios"
-              },
-              {
-                "t": "p",
-                "x": "그래서 Amanita가 받아치는 모습이 반갑다."
-              },
-              {
-                "t": "p",
-                "x": "Nura Studios CEO Sylvio Drouin은 후회한다고 밝혔다. 그는 “올린 게시물에 대해 정말 죄송하다”며 “여러분의 놀라운 작업에 대한 오마주라고 생각했고, 게시물은 이미 삭제했다. 다시 한번 진심 어린 사과를 받아주시길 바란다”고 트윗했다."
-              },
-              {
-                "t": "p",
-                "x": "Amanita Design은 이 사과를 아직 공개적으로 받아주지 않았다. 차기작 Machinarium 2는 이달 초 발표됐다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Amanita Design\nAIオマージュを拒絶",
-          "body": "AmanitaはMachinariumのAIトリビュートを不快で無関係だと批判した。",
-          "mini_headline": "Amanita、AIトリビュートを拒絶",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/QovyvgnTDavqyf4mSEdhu6-1920-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "10月20日、「AIストーリーテリング」企業Nura StudiosのCEOが、Amanita Designが2009年に発表したカルト的名作『Machinarium』へのトリビュートを投稿した（現在は削除済み）。公開中に映像を少し目にしたが、紛れもなくAI生成だった。もっとも、その出どころを考えれば言うまでもないだろう。"
-              },
-              {
-                "t": "p",
-                "x": "出来は良くなかった。そもそもAmanita Designは、世界でも屈指の視覚的に個性的なスタジオだ。Nura Studiosの映像への反応から判断する限り、チェコを拠点とするこのチームは、最も物怖じしないスタジオの一つでもある。"
-              },
-              {
-                "t": "p",
-                "x": "「MachinariumのアセットをAIに食わせ、AIスロップのアニメーションを作り、それをラブレターと呼ぶ厚かましさ…」と、スタジオはこのAIトリビュートについてツイートした。「ラブレターは手書きであるべきものだ。これは不快に見えるし、私たちとも私たちのクラフトとも何の関係もない」"
-              },
-              {
-                "t": "p",
-                "x": "痛烈だ。こうした状況なら、スタジオは普通、Nura Studiosのような集団の不器用な接近を丁重に無視するものだ。同社のミッションは「人間主導のAIプラットフォームでクリエイターを後押しし、質の高い物語を形にすること」で、ウェブサイトはこんな具合だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/fnYAu3QZaHxVQvx45ofhNA-1200-80.png",
-                "cap": "画像提供：Nura Studios"
-              },
-              {
-                "t": "p",
-                "x": "だからこそ、Amanitaが反撃したのは痛快だ。"
-              },
-              {
-                "t": "p",
-                "x": "Nura StudiosのCEO、Sylvio Drouinは反省の意を示した。「投稿について本当に申し訳ありません」とDrouinはツイートした。「皆さんの素晴らしい作品へのオマージュのつもりでした。投稿はすでに削除しました。改めて、心からのお詫びを受け入れてください」"
-              },
-              {
-                "t": "p",
-                "x": "Amanita Designはまだ公には謝罪を受け入れていない。次回作『Machinarium 2』は今月初めに発表された。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Amanita Design\n拒绝AI致敬之作",
-          "body": "Amanita痛斥Machinarium的AI致敬作令人作呕，与其创作无关。",
-          "mini_headline": "Amanita拒绝AI致敬",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/QovyvgnTDavqyf4mSEdhu6-1920-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "10月20日，“AI叙事”公司Nura Studios的CEO发布了一段向Amanita Design 2009年的邪典经典Machinarium致敬的视频，目前已删除。视频还在线时我瞥过一眼，毫无疑问是AI生成的——不过考虑到它的来源，这大概不言自明。"
-              },
-              {
-                "t": "p",
-                "x": "视频并不好，但话说回来，Amanita Design是全球视觉风格最独特的工作室之一。从它对Nura Studios视频的回应来看，这支总部位于捷克的团队也是态度最强硬的工作室之一。"
-              },
-              {
-                "t": "p",
-                "x": "该工作室就这段AI致敬视频发推称：“竟敢把Machinarium的素材喂给AI，做出AI垃圾动画，还称之为情书……”“情书本该是手写的。这看起来令人作呕，和我们以及我们的手艺毫无关系。”"
-              },
-              {
-                "t": "p",
-                "x": "真狠。在这种情况下，工作室通常会礼貌地无视Nura Studios这类团伙的笨拙示好。该公司的使命是“通过人类主导的AI平台赋能创作者，让高质量故事成为现实”，而它的网站是这样的："
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/fnYAu3QZaHxVQvx45ofhNA-1200-80.png",
-                "cap": "图片来源：Nura Studios"
-              },
-              {
-                "t": "p",
-                "x": "所以看到Amanita奋起反击，令人欣慰。"
-              },
-              {
-                "t": "p",
-                "x": "Nura Studios CEO Sylvio Drouin确实表达了悔意。Drouin发推说：“我们对发布的帖子深感抱歉。我们原以为这是对你们出色作品的致敬，我已经删除了帖子，再次请接受我们诚挚的道歉。”"
-              },
-              {
-                "t": "p",
-                "x": "Amanita Design尚未公开接受这一道歉。其下一款游戏Machinarium 2已于本月早些时候公布。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Amanita Design rechaza un\nhomenaje con IA a Machinarium",
-          "body": "Amanita Design calificó de repugnante y ajeno a su oficio un 'homenaje' con IA a Machinarium del CEO de Nura Studios.",
-          "mini_headline": "Amanita rechaza un homenaje con IA",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/QovyvgnTDavqyf4mSEdhu6-1920-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "El 20 de octubre, el CEO de Nura Studios, empresa de “narrativa con IA”, publicó un homenaje, ya eliminado, a Machinarium, el clásico de culto de 2009 de Amanita Design. Vi un fragmento del video mientras seguía publicado y era innegablemente generado por IA, aunque eso probablemente no haga falta decirlo dada su procedencia."
-              },
-              {
-                "t": "p",
-                "x": "No era bueno, pero es que Amanita Design es uno de los estudios con mayor personalidad visual del mundo. El equipo con sede en Chequia también está entre los más contundentes, a juzgar por su respuesta al video de Nura Studios."
-              },
-              {
-                "t": "p",
-                "x": "“El descaro de alimentar a una IA con los recursos de Machinarium, hacer animaciones basura con IA y llamarlo carta de amor…”, tuiteó el estudio sobre el homenaje con IA. “Las cartas de amor deberían escribirse a mano. Esto se ve repugnante y no tiene nada que ver con nosotros ni con nuestro oficio”."
-              },
-              {
-                "t": "p",
-                "x": "Ay. En estas circunstancias, un estudio normalmente ignoraría con cortesía los torpes acercamientos de un grupo como Nura Studios, cuya misión es “empoderar a los creadores con una plataforma de IA dirigida por humanos para dar vida a historias de alta calidad”, y cuyo sitio web luce así:"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/fnYAu3QZaHxVQvx45ofhNA-1200-80.png",
-                "cap": "Crédito de la imagen: Nura Studios"
-              },
-              {
-                "t": "p",
-                "x": "Así que es reconfortante ver a Amanita plantar cara."
-              },
-              {
-                "t": "p",
-                "x": "El CEO de Nura Studios, Sylvio Drouin, sí mostró arrepentimiento. “Lamentamos mucho la publicación que hicimos”, tuiteó Drouin. “Pensamos que era un homenaje a su increíble trabajo y ya eliminé las publicaciones; de nuevo, por favor acepten nuestras sinceras disculpas”."
-              },
-              {
-                "t": "p",
-                "x": "Amanita Design aún no ha aceptado públicamente las disculpas. Su próximo juego, Machinarium 2, se anunció a principios de este mes."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Amanita Design\nAI 헌정 영상 거부",
-          "body": "Amanita는 Machinarium AI 헌정작을 역겹고 무관하다고 했다.",
-          "mini_headline": "Amanita, AI 헌정작 거부",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/QovyvgnTDavqyf4mSEdhu6-1920-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "10월 20일, “AI 스토리텔링” 기업 Nura Studios의 CEO가 Amanita Design의 2009년 컬트 고전 Machinarium에 바치는 헌정 영상을 올렸다. 지금은 삭제된 영상이다. 나는 영상이 올라와 있을 때 잠깐 봤는데, 의심할 여지 없이 AI로 생성한 것이었다. 출처를 생각하면 굳이 말할 필요도 없겠지만 말이다."
-              },
-              {
-                "t": "p",
-                "x": "잘 만든 영상은 아니었다. 하지만 애초에 Amanita Design은 세계에서 시각적으로 가장 독특한 스튜디오 가운데 하나다. Nura Studios 영상에 대한 반응으로 보건대, 체코에 기반을 둔 이 팀은 가장 단호한 스튜디오 가운데 하나이기도 하다."
-              },
-              {
-                "t": "p",
-                "x": "스튜디오는 이 AI 헌정 영상을 두고 “Machinarium 에셋을 AI에 넣고, AI 슬롭 애니메이션을 만들고, 그걸 러브레터라고 부르는 뻔뻔함이라니…”라고 트윗했다. “러브레터는 손으로 써야 한다. 이건 역겨워 보이고 우리와도, 우리의 작업과도 아무 관련이 없다.”"
-              },
-              {
-                "t": "p",
-                "x": "아프다. 이런 상황이라면 스튜디오는 보통 Nura Studios 같은 무리의 서툰 접근을 정중히 무시하기 마련이다. 이 회사의 사명은 “사람이 주도하는 AI 플랫폼으로 크리에이터가 고품질 이야기를 실현하도록 힘을 실어주는 것”이며, 웹사이트는 이렇게 생겼다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/fnYAu3QZaHxVQvx45ofhNA-1200-80.png",
-                "cap": "이미지 출처: Nura Studios"
-              },
-              {
-                "t": "p",
-                "x": "그래서 Amanita가 반격하는 모습은 반갑다."
-              },
-              {
-                "t": "p",
-                "x": "Nura Studios CEO Sylvio Drouin은 후회의 뜻을 밝혔다. Drouin은 “올린 게시물에 대해 정말 죄송하다”며 “여러분의 놀라운 작업에 대한 오마주라고 생각했고, 게시물은 이미 삭제했다. 다시 한번 진심 어린 사과를 받아주시길 바란다”고 트윗했다."
-              },
-              {
-                "t": "p",
-                "x": "Amanita Design은 아직 이 사과를 공개적으로 받아들이지 않았다. 차기작 Machinarium 2는 이달 초 발표됐다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Amanita Design\nAIオマージュを拒絶",
-          "body": "AmanitaはMachinariumのAIトリビュートを不快で無関係だと批判した。",
-          "mini_headline": "Amanita、AIトリビュートを拒絶",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/QovyvgnTDavqyf4mSEdhu6-1920-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "10月20日、「AIストーリーテリング」企業Nura StudiosのCEOが、Amanita Designが2009年に発表したカルト的名作『Machinarium』へのトリビュートを投稿した（現在は削除済み）。公開中に映像を少し目にしたが、紛れもなくAI生成だった。もっとも、その出どころを考えれば言うまでもないだろう。"
-              },
-              {
-                "t": "p",
-                "x": "出来は良くなかった。そもそもAmanita Designは、世界でも屈指の視覚的に個性的なスタジオだ。Nura Studiosの映像への反応から判断する限り、チェコを拠点とするこのチームは、最も物怖じしないスタジオの一つでもある。"
-              },
-              {
-                "t": "p",
-                "x": "「MachinariumのアセットをAIに食わせ、AIスロップのアニメーションを作り、それをラブレターと呼ぶ厚かましさ…」と、スタジオはこのAIトリビュートについてツイートした。「ラブレターは手書きであるべきものだ。これは不快に見えるし、私たちとも私たちのクラフトとも何の関係もない」"
-              },
-              {
-                "t": "p",
-                "x": "痛烈だ。こうした状況なら、スタジオは普通、Nura Studiosのような集団の不器用な接近を丁重に無視するものだ。同社のミッションは「人間主導のAIプラットフォームでクリエイターを後押しし、質の高い物語を形にすること」で、ウェブサイトはこんな具合だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/fnYAu3QZaHxVQvx45ofhNA-1200-80.png",
-                "cap": "画像提供：Nura Studios"
-              },
-              {
-                "t": "p",
-                "x": "だからこそ、Amanitaが反撃したのは痛快だ。"
-              },
-              {
-                "t": "p",
-                "x": "Nura StudiosのCEO、Sylvio Drouinは反省の意を示した。「投稿について本当に申し訳ありません」とDrouinはツイートした。「皆さんの素晴らしい作品へのオマージュのつもりでした。投稿はすでに削除しました。改めて、心からのお詫びを受け入れてください」"
-              },
-              {
-                "t": "p",
-                "x": "Amanita Designはまだ公には謝罪を受け入れていない。次回作『Machinarium 2』は今月初めに発表された。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Amanita Design\n拒绝AI致敬之作",
-          "body": "Amanita痛斥Machinarium的AI致敬作令人作呕，与其创作无关。",
-          "mini_headline": "Amanita拒绝AI致敬",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/QovyvgnTDavqyf4mSEdhu6-1920-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "10月20日，“AI叙事”公司Nura Studios的CEO发布了一段向Amanita Design 2009年的邪典经典Machinarium致敬的视频，目前已删除。视频还在线时我瞥过一眼，毫无疑问是AI生成的——不过考虑到它的来源，这大概不言自明。"
-              },
-              {
-                "t": "p",
-                "x": "视频并不好，但话说回来，Amanita Design是全球视觉风格最独特的工作室之一。从它对Nura Studios视频的回应来看，这支总部位于捷克的团队也是态度最强硬的工作室之一。"
-              },
-              {
-                "t": "p",
-                "x": "该工作室就这段AI致敬视频发推称：“竟敢把Machinarium的素材喂给AI，做出AI垃圾动画，还称之为情书……”“情书本该是手写的。这看起来令人作呕，和我们以及我们的手艺毫无关系。”"
-              },
-              {
-                "t": "p",
-                "x": "真狠。在这种情况下，工作室通常会礼貌地无视Nura Studios这类团伙的笨拙示好。该公司的使命是“通过人类主导的AI平台赋能创作者，让高质量故事成为现实”，而它的网站是这样的："
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/fnYAu3QZaHxVQvx45ofhNA-1200-80.png",
-                "cap": "图片来源：Nura Studios"
-              },
-              {
-                "t": "p",
-                "x": "所以看到Amanita奋起反击，令人欣慰。"
-              },
-              {
-                "t": "p",
-                "x": "Nura Studios CEO Sylvio Drouin确实表达了悔意。Drouin发推说：“我们对发布的帖子深感抱歉。我们原以为这是对你们出色作品的致敬，我已经删除了帖子，再次请接受我们诚挚的道歉。”"
-              },
-              {
-                "t": "p",
-                "x": "Amanita Design尚未公开接受这一道歉。其下一款游戏Machinarium 2已于本月早些时候公布。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Amanita Design rechaza un\nhomenaje con IA a Machinarium",
-          "body": "Amanita Design calificó de repugnante y ajeno a su oficio un 'homenaje' con IA a Machinarium del CEO de Nura Studios.",
-          "mini_headline": "Amanita rechaza un homenaje con IA",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/QovyvgnTDavqyf4mSEdhu6-1920-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "El 20 de octubre, el CEO de Nura Studios, empresa de “narrativa con IA”, publicó un homenaje, ya eliminado, a Machinarium, el clásico de culto de 2009 de Amanita Design. Vi un fragmento del video mientras seguía publicado y era innegablemente generado por IA, aunque eso probablemente no haga falta decirlo dada su procedencia."
-              },
-              {
-                "t": "p",
-                "x": "No era bueno, pero es que Amanita Design es uno de los estudios con mayor personalidad visual del mundo. El equipo con sede en Chequia también está entre los más contundentes, a juzgar por su respuesta al video de Nura Studios."
-              },
-              {
-                "t": "p",
-                "x": "“El descaro de alimentar a una IA con los recursos de Machinarium, hacer animaciones basura con IA y llamarlo carta de amor…”, tuiteó el estudio sobre el homenaje con IA. “Las cartas de amor deberían escribirse a mano. Esto se ve repugnante y no tiene nada que ver con nosotros ni con nuestro oficio”."
-              },
-              {
-                "t": "p",
-                "x": "Ay. En estas circunstancias, un estudio normalmente ignoraría con cortesía los torpes acercamientos de un grupo como Nura Studios, cuya misión es “empoderar a los creadores con una plataforma de IA dirigida por humanos para dar vida a historias de alta calidad”, y cuyo sitio web luce así:"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/fnYAu3QZaHxVQvx45ofhNA-1200-80.png",
-                "cap": "Crédito de la imagen: Nura Studios"
-              },
-              {
-                "t": "p",
-                "x": "Así que es reconfortante ver a Amanita plantar cara."
-              },
-              {
-                "t": "p",
-                "x": "El CEO de Nura Studios, Sylvio Drouin, sí mostró arrepentimiento. “Lamentamos mucho la publicación que hicimos”, tuiteó Drouin. “Pensamos que era un homenaje a su increíble trabajo y ya eliminé las publicaciones; de nuevo, por favor acepten nuestras sinceras disculpas”."
-              },
-              {
-                "t": "p",
-                "x": "Amanita Design aún no ha aceptado públicamente las disculpas. Su próximo juego, Machinarium 2, se anunció a principios de este mes."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "games-arc-raiders-chatgpt-support",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Arc Raiders 문의\n답변에 ChatGPT 흔적",
-      "body": "Embark의 ChatGPT-written 답변에 남에게 갈 메시지가 섞였다.",
-      "mini_headline": "ChatGPT로 답한 Arc Raiders 지원팀",
-      "tool": "Games",
-      "source": "GamesRadar+",
-      "url": "https://www.gamesradar.com/games/third-person-shooter/someones-getting-fired-arc-raiders-player-says-embark-used-chatgpt-to-respond-to-their-complaint-and-accidentally-sent-several-messages-intended-for-others/",
+      "source": "Rock Paper Shotgun",
+      "url": "https://www.rockpapershotgun.com/future-no-thanks-dev-removes-ai-generated-voices-from-game-and-offers-refunds-to-players-who-feel-betrayed",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
@@ -1547,203 +1045,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/rNhJaVUEevSjNDA7SxKetK-1920-80.jpg"
+            "src": "https://assetsio.gnwcdn.com/futurenothanks-pickup-line.jpg?width=1200&quality=85&format=jpg&auto=webp",
+            "cap": "이미지 출처: Molleindustria"
           },
           {
             "t": "p",
-            "x": "Embark Studios의 Arc Raiders 지원팀이 ChatGPT로 한 플레이어의 문의에 답하다가, 다른 플레이어들에게 보내려던 것으로 보이는 메시지 여러 개를 실수로 그 플레이어에게 보냈다고 한다."
+            "x": "Future? No Thanks!가 업데이트로 일부 AI 생성(AI-generated) 음성을 덜어냈다. 리드 개발자 Paolo \"Molleindustria\" Pedercini가 이 기술을 썼다고 뒤늦게 털어놓은 뒤 나온 업데이트다. 그는 \"여전히 배신감을 느끼는\" 사람이라면 PayPal이나 Venmo로 환불해 주겠다고 했다."
           },
           {
             "t": "p",
-            "x": "Reddit 이용자 a1vmp1은 ChatGPT 프롬프트와 응답이 오간 흔적이 그대로 남은 대화를 공유했다. 프롬프트로 보이는 문장 하나는 “짧은 답변을 작성해”, 또 하나는 “현재 스킬 트리 스크린숏을 요청해”다. 대화에는 따로 주고받은 내용이 약 10개 담긴 것으로 보인다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/PG7DLjdgnsbu6ZnbikD2nQ-1200-80.jpg",
-            "cap": "이미지 출처: Embark Studios"
+            "x": "업데이트로 빠진 것은 로봇 캐릭터에 쓰인 text-to-speech 음성 두 군데, 자동 화장실과 미용실의 자동 번역기다. 그는 \"내 생각엔 게임이 더 나빠졌지만, 그래 봐야 0.001% 정도\"라고 했다."
           },
           {
             "t": "p",
-            "x": "a1vmp1은 “게임 문제 때문에 스폰 후 20초 만에” 장비 일체를 잃었다. 돌아온 답변은 Embark가 “잃어버린 아이템이나 트라이얼 점수를 복구할 수 없다”는 것이었다. GamesRadar+가 이 답변을 Grammarly, Solvely, GPTZero의 AI-text 탐지기에 돌려 보니 셋 다 100% AI-made로 판정했다. Embark는 논평 요청에 답하지 않았다."
+            "x": "Pedercini는 \"깨진 셰이더 수정 같은 몇 가지는 chatGPT에 부탁하긴 했다\"고 썼다. 그러면서 \"모든 생성형 AI에 반대한다고 공개적으로 밝히지 않은 스튜디오는 모두 어떤 식으로든 코딩에 그것을 쓰고 있다고 보는 게 맞을 것\"이라고 덧붙였다."
           },
           {
             "t": "p",
-            "x": "한 플레이어는 “‘우리’가 여기 존재하지도 않는데 ‘불만을 이해한다’ 같은 상투적인 말을 듣는 건 유독 고약하게 느껴진다”고 꼬집었다."
+            "x": "생성형 AI를 쓰지 않겠다고 선언한 개발자 목록도 공유했다. 다음 게임은 \"완전히 손으로 코딩한(hand-coded)\" 작품이 된다고 한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Embark's Arc Raiders support\nreply exposes ChatGPT use",
-          "body": "An Arc Raiders player says Embark's ChatGPT-written reply included messages meant for other players.",
-          "mini_headline": "Arc Raiders support used ChatGPT",
+          "headline": "Future? No Thanks! dev cuts\nAI voices, offers refunds",
+          "body": "Molleindustria removed some genAI voices from Future? No Thanks! and offers refunds to players who feel betrayed.",
+          "mini_headline": "Future? No Thanks! refunds",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/rNhJaVUEevSjNDA7SxKetK-1920-80.jpg"
+                "src": "https://assetsio.gnwcdn.com/futurenothanks-pickup-line.jpg?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "Image credit: Molleindustria"
               },
               {
                 "t": "p",
-                "x": "The Arc Raiders support team under developer Embark Studios reportedly used ChatGPT to handle a player's inquiry and mistakenly sent them multiple messages seemingly intended for several other players."
+                "x": "Future? No Thanks! has been updated to remove some AI-generated voices after lead developer Paolo \"Molleindustria\" Pedercini belatedly disclosed his use of the technology. He's offering refunds over PayPal or Venmo to anyone who \"still feel[s] betrayed.\""
               },
               {
                 "t": "p",
-                "x": "Reddit user a1vmp1 shared chats marked by ChatGPT prompt and response exchanges. \"Create a short response,\" says one apparent prompt. \"Ask screenshot of current skill trees,\" reads another. The chain seems to contain about 10 separate exchanges."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/PG7DLjdgnsbu6ZnbikD2nQ-1200-80.jpg",
-                "cap": "Image credit: Embark Studios"
+                "x": "The update removes two instances of text-to-speech voicework for robot characters: an automated toilet and an automated translator in a hair salon. \"In my opinion the game is worse now, but only, like, 0.001% worse,\" he says."
               },
               {
                 "t": "p",
-                "x": "The reply to a1vmp1, who lost a full loadout \"within 20 seconds of spawning because of a game issue,\" said Embark is \"unable to restore lost items or trial scores.\" GamesRadar+ ran it through AI-text detectors from Grammarly, Solvely and GPTZero; all rated it 100% AI-made. Embark has not responded to a request for comment."
+                "x": "\"I did ask chatGPT to fix a broken shader and a few things like that,\" Pedercini wrote, adding that \"you should probably assume that all the studios that have not made a public statement against all generative AI are using it for coding in some capacity.\""
               },
               {
                 "t": "p",
-                "x": "\"It feels particularly pernicious to have platitudes like 'we understand your frustration' when 'we' doesn't even exist here,\" one player complains."
+                "x": "He shared a list of developers who've sworn off generative AI. His next game will be \"completely hand-coded\"."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Arc Raiders 문의\n답변에 ChatGPT 흔적",
-          "body": "Embark의 ChatGPT-written 답변에 남에게 갈 메시지가 섞였다.",
-          "mini_headline": "ChatGPT로 답한 Arc Raiders 지원팀",
+          "headline": "AI 뺀 Future?\nNo Thanks! 환불",
+          "body": "Molleindustria는 Future? No Thanks!의 genAI를 뺐다.",
+          "mini_headline": "Future? No Thanks! 환불",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/rNhJaVUEevSjNDA7SxKetK-1920-80.jpg"
+                "src": "https://assetsio.gnwcdn.com/futurenothanks-pickup-line.jpg?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "이미지 출처: Molleindustria"
               },
               {
                 "t": "p",
-                "x": "Embark Studios의 Arc Raiders 지원팀이 ChatGPT로 한 플레이어의 문의에 답하다가, 다른 플레이어들에게 보내려던 것으로 보이는 메시지 여러 개를 실수로 그 플레이어에게 보냈다고 한다."
+                "x": "Future? No Thanks!가 업데이트로 일부 AI 생성(AI-generated) 음성을 덜어냈다. 리드 개발자 Paolo \"Molleindustria\" Pedercini가 이 기술을 썼다고 뒤늦게 털어놓은 뒤 나온 업데이트다. 그는 \"여전히 배신감을 느끼는\" 사람이라면 PayPal이나 Venmo로 환불해 주겠다고 했다."
               },
               {
                 "t": "p",
-                "x": "Reddit 이용자 a1vmp1은 ChatGPT 프롬프트와 응답이 오간 흔적이 그대로 남은 대화를 공유했다. 프롬프트로 보이는 문장 하나는 “짧은 답변을 작성해”, 또 하나는 “현재 스킬 트리 스크린숏을 요청해”다. 대화에는 따로 주고받은 내용이 약 10개 담긴 것으로 보인다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/PG7DLjdgnsbu6ZnbikD2nQ-1200-80.jpg",
-                "cap": "이미지 출처: Embark Studios"
+                "x": "업데이트로 빠진 것은 로봇 캐릭터에 쓰인 text-to-speech 음성 두 군데, 자동 화장실과 미용실의 자동 번역기다. 그는 \"내 생각엔 게임이 더 나빠졌지만, 그래 봐야 0.001% 정도\"라고 했다."
               },
               {
                 "t": "p",
-                "x": "a1vmp1은 “게임 문제 때문에 스폰 후 20초 만에” 장비 일체를 잃었다. 돌아온 답변은 Embark가 “잃어버린 아이템이나 트라이얼 점수를 복구할 수 없다”는 것이었다. GamesRadar+가 이 답변을 Grammarly, Solvely, GPTZero의 AI-text 탐지기에 돌려 보니 셋 다 100% AI-made로 판정했다. Embark는 논평 요청에 답하지 않았다."
+                "x": "Pedercini는 \"깨진 셰이더 수정 같은 몇 가지는 chatGPT에 부탁하긴 했다\"고 썼다. 그러면서 \"모든 생성형 AI에 반대한다고 공개적으로 밝히지 않은 스튜디오는 모두 어떤 식으로든 코딩에 그것을 쓰고 있다고 보는 게 맞을 것\"이라고 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "한 플레이어는 “‘우리’가 여기 존재하지도 않는데 ‘불만을 이해한다’ 같은 상투적인 말을 듣는 건 유독 고약하게 느껴진다”고 꼬집었다."
+                "x": "생성형 AI를 쓰지 않겠다고 선언한 개발자 목록도 공유했다. 다음 게임은 \"완전히 손으로 코딩한(hand-coded)\" 작품이 된다고 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Arc Raiders窓口で\nChatGPT使用が発覚",
-          "body": "EmbarkのChatGPT-written返信に他プレイヤー宛ての文面が混入した。",
-          "mini_headline": "Arc Raidersサポート、ChatGPTを使用",
+          "headline": "AI音声削除のFuture?\nNo Thanks!、返金へ",
+          "body": "MolleindustriaがFuture? No Thanks!のgenAI音声を削った。",
+          "mini_headline": "Future? No Thanks!が返金",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/rNhJaVUEevSjNDA7SxKetK-1920-80.jpg"
+                "src": "https://assetsio.gnwcdn.com/futurenothanks-pickup-line.jpg?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "画像提供：Molleindustria"
               },
               {
                 "t": "p",
-                "x": "Embark Studiosが手がけるArc Raidersのサポートチームが、プレイヤーの問い合わせ対応にChatGPTを使い、他の複数のプレイヤー宛てとみられる複数のメッセージを誤ってそのプレイヤーに送ったと報じられている。"
+                "x": "Future? No Thanks!はアップデートで一部のAI生成(AI-generated)音声を削除した。リード開発者のPaolo「Molleindustria」Pederciniが、この技術を使っていたことを遅れて明かしたためだ。彼は「まだ裏切られたと感じている」人にPayPalかVenmoで返金するという。"
               },
               {
                 "t": "p",
-                "x": "Redditユーザーのa1vmp1は、ChatGPTのプロンプトと応答のやり取りが残るチャットを公開した。プロンプトとみられる一文は「短い返信を作成して」、別の一文は「現在のスキルツリーのスクリーンショットを求めて」とある。チェーンには約10回のやり取りが含まれているようだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/PG7DLjdgnsbu6ZnbikD2nQ-1200-80.jpg",
-                "cap": "画像提供：Embark Studios"
+                "x": "アップデートでは、ロボットキャラクターに使われたtext-to-speechの音声を二か所削除した。自動トイレと、美容院の自動翻訳機だ。「私の考えでは、ゲームは悪くなった。でも、まあ0.001%くらいだ」と彼は言う。"
               },
               {
                 "t": "p",
-                "x": "「ゲームの不具合でスポーンから20秒以内に」装備一式を失ったa1vmp1への返信で、Embarkは「失ったアイテムやトライアルのスコアは復元できない」と伝えていた。GamesRadar+がGrammarly、Solvely、GPTZeroのAI-text検出ツールにかけたところ、いずれも100% AI-madeと判定した。Embarkはコメント要請に応じていない。"
+                "x": "Pedercini は「壊れたシェーダーの修正など、いくつかはchatGPTに頼んだ」と書き、「あらゆる生成AIに反対すると公に表明していないスタジオは、何らかの形でコーディングに使っていると考えたほうがいい」と付け加えた。"
               },
               {
                 "t": "p",
-                "x": "「『we』なんて存在すらしないのに、『ご不満はお察しします』のような決まり文句を並べられるのは、とりわけたちが悪く感じる」と、あるプレイヤーは不満を述べている。"
+                "x": "彼は生成AIを使わないと宣言した開発者のリストを共有した。次回作は「完全に手書きのコード(hand-coded)」になるという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Arc Raiders客服\n被曝用ChatGPT回复",
-          "body": "一名玩家称，Embark的ChatGPT-written回复混入了给他人的消息。",
-          "mini_headline": "Arc Raiders客服用上ChatGPT",
+          "headline": "删AI语音的Future?\nNo Thanks!提供退款",
+          "body": "Molleindustria删去Future? No Thanks!的genAI语音并退款。",
+          "mini_headline": "Future? No Thanks!退款",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/rNhJaVUEevSjNDA7SxKetK-1920-80.jpg"
+                "src": "https://assetsio.gnwcdn.com/futurenothanks-pickup-line.jpg?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "图片来源：Molleindustria"
               },
               {
                 "t": "p",
-                "x": "据报道，开发商Embark Studios旗下的Arc Raiders客服团队使用ChatGPT处理一名玩家的咨询，却误将多条似乎是发给其他几名玩家的消息一并发给了他。"
+                "x": "Future? No Thanks!已更新，移除了部分AI生成（AI-generated）语音。此前，首席开发者Paolo“Molleindustria”Pedercini迟迟才披露自己使用了这项技术。他愿意通过PayPal或Venmo为“仍感到被背叛”的人退款。"
               },
               {
                 "t": "p",
-                "x": "Reddit用户a1vmp1分享了带有ChatGPT提示与回复往来痕迹的聊天记录。其中一条疑似提示写着“写一个简短回复”，另一条写着“索要当前技能树截图”。这串对话似乎包含约10轮独立的往来。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/PG7DLjdgnsbu6ZnbikD2nQ-1200-80.jpg",
-                "cap": "图片来源：Embark Studios"
+                "x": "此次更新移除了机器人角色的两处text-to-speech配音：一个自动马桶和一家发廊里的自动翻译机。“我觉得游戏现在变差了，但也就差了0.001%左右，”他说。"
               },
               {
                 "t": "p",
-                "x": "a1vmp1“因游戏问题在出生后20秒内”丢失了整套装备，而给他的回复称Embark“无法恢复丢失的物品或试炼分数”。GamesRadar+用Grammarly、Solvely和GPTZero的AI-text检测工具检测了这段回复，结果均判定为100% AI-made。Embark尚未回应置评请求。"
+                "x": "“我确实让chatGPT修过一个坏掉的着色器之类的几样东西，”Pedercini写道，并补充说，“你大概应该假定，所有没有公开声明反对一切生成式AI的工作室，都在某种程度上用它写代码。”"
               },
               {
                 "t": "p",
-                "x": "一名玩家抱怨：“明明这里根本不存在‘我们’，却还说着‘我们理解你的沮丧’这类客套话，感觉格外恶劣。”"
+                "x": "他分享了一份宣布弃用生成式AI的开发者名单。他的下一款游戏将“完全手写代码（hand-coded）”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una respuesta de Arc Raiders\ndelata el uso de ChatGPT",
-          "body": "Un jugador de Arc Raiders dice que una respuesta ChatGPT-written de Embark incluía mensajes para otros jugadores.",
-          "mini_headline": "El soporte de Arc Raiders usó ChatGPT",
+          "headline": "Future? No Thanks! quita voces\nde AI y ofrece reembolsos",
+          "body": "Molleindustria quitó algunas voces de genAI de Future? No Thanks! y ofrece reembolsos a quien se sienta traicionado.",
+          "mini_headline": "Reembolsos de Future? No Thanks!",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/rNhJaVUEevSjNDA7SxKetK-1920-80.jpg"
+                "src": "https://assetsio.gnwcdn.com/futurenothanks-pickup-line.jpg?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "Imagen: Molleindustria"
               },
               {
                 "t": "p",
-                "x": "El equipo de soporte de Arc Raiders, del estudio Embark Studios, habría usado ChatGPT para atender la consulta de un jugador y le envió por error varios mensajes que al parecer iban dirigidos a otros jugadores."
+                "x": "Future? No Thanks! se ha actualizado para eliminar algunas voces generadas con AI (AI-generated) después de que su desarrollador principal, Paolo \"Molleindustria\" Pedercini, revelara tarde que había usado esta tecnología. Ofrece reembolsos por PayPal o Venmo a quien \"todavía se sienta traicionado\"."
               },
               {
                 "t": "p",
-                "x": "El usuario de Reddit a1vmp1 compartió chats marcados por intercambios de instrucciones y respuestas de ChatGPT. “Crea una respuesta breve”, dice una aparente instrucción. “Pide captura de pantalla de los árboles de habilidades actuales”, dice otra. La cadena parece contener unos 10 intercambios distintos."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/PG7DLjdgnsbu6ZnbikD2nQ-1200-80.jpg",
-                "cap": "Crédito de la imagen: Embark Studios"
+                "x": "La actualización elimina dos usos de voz por text-to-speech para personajes robot: un inodoro automático y un traductor automático en una peluquería. \"En mi opinión, el juego ahora es peor, pero solo, digamos, un 0.001% peor\", dice."
               },
               {
                 "t": "p",
-                "x": "La respuesta a a1vmp1, que perdió todo su equipamiento “a los 20 segundos de aparecer por un problema del juego”, decía que Embark “no puede restaurar objetos perdidos ni puntuaciones de pruebas”. GamesRadar+ la pasó por detectores de AI-text de Grammarly, Solvely y GPTZero; todos la calificaron como 100% AI-made. Embark no ha respondido a una solicitud de comentarios."
+                "x": "\"Sí le pedí a chatGPT que arreglara un shader roto y algunas cosas así\", escribió Pedercini, y añadió que \"probablemente deberías asumir que todos los estudios que no se han pronunciado públicamente contra toda la AI generativa la están usando para programar de alguna forma\"."
               },
               {
                 "t": "p",
-                "x": "“Resulta especialmente pernicioso recibir frases hechas como 'entendemos tu frustración' cuando ese 'nosotros' ni siquiera existe aquí”, se queja un jugador."
+                "x": "Compartió una lista de desarrolladores que han renunciado a la AI generativa. Su próximo juego estará \"programado completamente a mano\" (hand-coded)."
               }
             ]
           }
@@ -1751,141 +1225,487 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Arc Raiders 문의\n답변에 ChatGPT 흔적",
-          "body": "Embark의 ChatGPT-written 답변에 다른 이용자용 메시지가 섞였다.",
-          "mini_headline": "Arc Raiders 지원팀의 ChatGPT 사용",
+          "headline": "AI 뺀 Future?\nNo Thanks! 환불",
+          "body": "Molleindustria가 Future? No Thanks!의 genAI를 뺐다.",
+          "mini_headline": "Future? No Thanks! 환불",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/rNhJaVUEevSjNDA7SxKetK-1920-80.jpg"
+                "src": "https://assetsio.gnwcdn.com/futurenothanks-pickup-line.jpg?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "이미지 출처: Molleindustria"
               },
               {
                 "t": "p",
-                "x": "Embark Studios가 개발한 Arc Raiders의 지원팀이 ChatGPT로 한 플레이어의 문의를 처리했고, 다른 여러 플레이어에게 보내려던 것으로 보이는 메시지 여러 개를 실수로 그 플레이어에게 보냈다고 한다."
+                "x": "Future? No Thanks!가 업데이트로 일부 AI 생성(AI-generated) 음성을 덜어냈다. 리드 개발자 Paolo \"Molleindustria\" Pedercini가 이 기술을 썼다는 사실을 뒤늦게 밝힌 뒤다. 그는 \"여전히 배신감을 느끼는\" 사람에게 PayPal이나 Venmo로 환불해 주겠다고 했다."
               },
               {
                 "t": "p",
-                "x": "Reddit 이용자 a1vmp1은 ChatGPT 프롬프트와 응답이 오간 흔적이 남은 대화를 공유했다. 프롬프트로 보이는 한 문장은 “짧은 답변을 작성해”이고, 다른 문장은 “현재 스킬 트리 스크린숏을 요청해”다. 이 대화에는 약 10개의 개별 주고받음이 담긴 것으로 보인다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/PG7DLjdgnsbu6ZnbikD2nQ-1200-80.jpg",
-                "cap": "이미지 출처: Embark Studios"
+                "x": "이번 업데이트는 로봇 캐릭터에 쓰인 text-to-speech 음성 두 군데를 없앴다. 자동 화장실과 미용실의 자동 번역기다. 그는 \"내 생각엔 게임이 더 나빠졌지만, 그래 봐야 0.001% 정도\"라고 말했다."
               },
               {
                 "t": "p",
-                "x": "a1vmp1은 “게임 문제 때문에 스폰 후 20초 만에” 장비 일체를 잃었다. 그에게 온 답변은 Embark가 “잃어버린 아이템이나 트라이얼 점수를 복구할 수 없다”고 했다. GamesRadar+가 이 답변을 Grammarly, Solvely, GPTZero의 AI-text 탐지기에 돌려 보니 모두 100% AI-made로 판정했다. Embark는 논평 요청에 답하지 않았다."
+                "x": "Pedercini는 \"깨진 셰이더 수정 같은 몇 가지는 chatGPT에 부탁하긴 했다\"고 쓰며 \"모든 생성형 AI에 반대한다고 공개적으로 밝히지 않은 스튜디오는 모두 어떤 식으로든 코딩에 그것을 쓰고 있다고 보는 게 맞을 것\"이라고 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "한 플레이어는 “‘우리’가 여기 존재하지도 않는데 ‘불만을 이해한다’ 같은 상투적인 말을 듣는 건 유독 고약하게 느껴진다”고 불만을 토로했다."
+                "x": "그는 생성형 AI를 쓰지 않겠다고 선언한 개발자 목록을 공유했다. 다음 게임은 \"완전히 손으로 코딩한(hand-coded)\" 작품이 될 것이라고 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Arc Raiders窓口で\nChatGPT使用が発覚",
-          "body": "EmbarkのChatGPT-written返信に他プレイヤー宛ての文面が混入した。",
-          "mini_headline": "Arc Raidersサポート、ChatGPTを使用",
+          "headline": "AI音声削除のFuture?\nNo Thanks!、返金へ",
+          "body": "MolleindustriaがFuture? No Thanks!のgenAI音声を削った。",
+          "mini_headline": "Future? No Thanks!が返金",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/rNhJaVUEevSjNDA7SxKetK-1920-80.jpg"
+                "src": "https://assetsio.gnwcdn.com/futurenothanks-pickup-line.jpg?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "画像提供：Molleindustria"
               },
               {
                 "t": "p",
-                "x": "Embark Studiosが手がけるArc Raidersのサポートチームが、プレイヤーの問い合わせ対応にChatGPTを使い、他の複数のプレイヤー宛てとみられる複数のメッセージを誤ってそのプレイヤーに送ったと報じられている。"
+                "x": "Future? No Thanks!はアップデートで一部のAI生成(AI-generated)音声を削除した。リード開発者のPaolo「Molleindustria」Pederciniが、この技術を使っていたことを遅れて明かしたためだ。彼は「まだ裏切られたと感じている」人にPayPalかVenmoで返金するという。"
               },
               {
                 "t": "p",
-                "x": "Redditユーザーのa1vmp1は、ChatGPTのプロンプトと応答のやり取りが残るチャットを公開した。プロンプトとみられる一文は「短い返信を作成して」、別の一文は「現在のスキルツリーのスクリーンショットを求めて」とある。チェーンには約10回のやり取りが含まれているようだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/PG7DLjdgnsbu6ZnbikD2nQ-1200-80.jpg",
-                "cap": "画像提供：Embark Studios"
+                "x": "アップデートでは、ロボットキャラクターに使われたtext-to-speechの音声を二か所削除した。自動トイレと、美容院の自動翻訳機だ。「私の考えでは、ゲームは悪くなった。でも、まあ0.001%くらいだ」と彼は言う。"
               },
               {
                 "t": "p",
-                "x": "「ゲームの不具合でスポーンから20秒以内に」装備一式を失ったa1vmp1への返信で、Embarkは「失ったアイテムやトライアルのスコアは復元できない」と伝えていた。GamesRadar+がGrammarly、Solvely、GPTZeroのAI-text検出ツールにかけたところ、いずれも100% AI-madeと判定した。Embarkはコメント要請に応じていない。"
+                "x": "Pedercini は「壊れたシェーダーの修正など、いくつかはchatGPTに頼んだ」と書き、「あらゆる生成AIに反対すると公に表明していないスタジオは、何らかの形でコーディングに使っていると考えたほうがいい」と付け加えた。"
               },
               {
                 "t": "p",
-                "x": "「『we』なんて存在すらしないのに、『ご不満はお察しします』のような決まり文句を並べられるのは、とりわけたちが悪く感じる」と、あるプレイヤーは不満を述べている。"
+                "x": "彼は生成AIを使わないと宣言した開発者のリストを共有した。次回作は「完全に手書きのコード(hand-coded)」になるという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Arc Raiders客服\n被曝用ChatGPT回复",
-          "body": "一名玩家称，Embark的ChatGPT-written回复混入了给他人的消息。",
-          "mini_headline": "Arc Raiders客服用上ChatGPT",
+          "headline": "删AI语音的Future?\nNo Thanks!提供退款",
+          "body": "Molleindustria删去Future? No Thanks!的genAI语音并退款。",
+          "mini_headline": "Future? No Thanks!退款",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/rNhJaVUEevSjNDA7SxKetK-1920-80.jpg"
+                "src": "https://assetsio.gnwcdn.com/futurenothanks-pickup-line.jpg?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "图片来源：Molleindustria"
               },
               {
                 "t": "p",
-                "x": "据报道，开发商Embark Studios旗下的Arc Raiders客服团队使用ChatGPT处理一名玩家的咨询，却误将多条似乎是发给其他几名玩家的消息一并发给了他。"
+                "x": "Future? No Thanks!已更新，移除了部分AI生成（AI-generated）语音。此前，首席开发者Paolo“Molleindustria”Pedercini迟迟才披露自己使用了这项技术。他愿意通过PayPal或Venmo为“仍感到被背叛”的人退款。"
               },
               {
                 "t": "p",
-                "x": "Reddit用户a1vmp1分享了带有ChatGPT提示与回复往来痕迹的聊天记录。其中一条疑似提示写着“写一个简短回复”，另一条写着“索要当前技能树截图”。这串对话似乎包含约10轮独立的往来。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/PG7DLjdgnsbu6ZnbikD2nQ-1200-80.jpg",
-                "cap": "图片来源：Embark Studios"
+                "x": "此次更新移除了机器人角色的两处text-to-speech配音：一个自动马桶和一家发廊里的自动翻译机。“我觉得游戏现在变差了，但也就差了0.001%左右，”他说。"
               },
               {
                 "t": "p",
-                "x": "a1vmp1“因游戏问题在出生后20秒内”丢失了整套装备，而给他的回复称Embark“无法恢复丢失的物品或试炼分数”。GamesRadar+用Grammarly、Solvely和GPTZero的AI-text检测工具检测了这段回复，结果均判定为100% AI-made。Embark尚未回应置评请求。"
+                "x": "“我确实让chatGPT修过一个坏掉的着色器之类的几样东西，”Pedercini写道，并补充说，“你大概应该假定，所有没有公开声明反对一切生成式AI的工作室，都在某种程度上用它写代码。”"
               },
               {
                 "t": "p",
-                "x": "一名玩家抱怨：“明明这里根本不存在‘我们’，却还说着‘我们理解你的沮丧’这类客套话，感觉格外恶劣。”"
+                "x": "他分享了一份宣布弃用生成式AI的开发者名单。他的下一款游戏将“完全手写代码（hand-coded）”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una respuesta de Arc Raiders\ndelata el uso de ChatGPT",
-          "body": "Un jugador de Arc Raiders dice que una respuesta ChatGPT-written de Embark incluía mensajes para otros jugadores.",
-          "mini_headline": "El soporte de Arc Raiders usó ChatGPT",
+          "headline": "Future? No Thanks! quita voces\nde AI y ofrece reembolsos",
+          "body": "Molleindustria quitó algunas voces de genAI de Future? No Thanks! y ofrece reembolsos a quien se sienta traicionado.",
+          "mini_headline": "Reembolsos de Future? No Thanks!",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/rNhJaVUEevSjNDA7SxKetK-1920-80.jpg"
+                "src": "https://assetsio.gnwcdn.com/futurenothanks-pickup-line.jpg?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "Imagen: Molleindustria"
               },
               {
                 "t": "p",
-                "x": "El equipo de soporte de Arc Raiders, del estudio Embark Studios, habría usado ChatGPT para atender la consulta de un jugador y le envió por error varios mensajes que al parecer iban dirigidos a otros jugadores."
+                "x": "Future? No Thanks! se ha actualizado para eliminar algunas voces generadas con AI (AI-generated) después de que su desarrollador principal, Paolo \"Molleindustria\" Pedercini, revelara tarde que había usado esta tecnología. Ofrece reembolsos por PayPal o Venmo a quien \"todavía se sienta traicionado\"."
               },
               {
                 "t": "p",
-                "x": "El usuario de Reddit a1vmp1 compartió chats marcados por intercambios de instrucciones y respuestas de ChatGPT. “Crea una respuesta breve”, dice una aparente instrucción. “Pide captura de pantalla de los árboles de habilidades actuales”, dice otra. La cadena parece contener unos 10 intercambios distintos."
+                "x": "La actualización elimina dos usos de voz por text-to-speech para personajes robot: un inodoro automático y un traductor automático en una peluquería. \"En mi opinión, el juego ahora es peor, pero solo, digamos, un 0.001% peor\", dice."
               },
+              {
+                "t": "p",
+                "x": "\"Sí le pedí a chatGPT que arreglara un shader roto y algunas cosas así\", escribió Pedercini, y añadió que \"probablemente deberías asumir que todos los estudios que no se han pronunciado públicamente contra toda la AI generativa la están usando para programar de alguna forma\"."
+              },
+              {
+                "t": "p",
+                "x": "Compartió una lista de desarrolladores que han renunciado a la AI generativa. Su próximo juego estará \"programado completamente a mano\" (hand-coded)."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "games-sonicfox-nexcon",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "SonicFox, AI\n그림 쓴 Nexcon 하차",
+      "body": "SonicFox는 홍보에 AI 그림을 쓴 Nexcon과의 계약을 끊었다.",
+      "mini_headline": "SonicFox, AI 탓 Nexcon 하차",
+      "tool": "Games",
+      "source": "Aftermath",
+      "url": "https://aftermath.site/sonicfox-drops-out-nexcon-gen-ai/",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/IMG_7145.jpeg",
+            "cap": "The Game Awards / YouTube"
+          },
+          {
+            "t": "p",
+            "x": "격투 게임 고수 Dominique “SonicFox” McLean은 다음 달 Oklahoma에서 열리는 게임 행사 Nexcon에 특별 게스트로 갈 예정이었다. 그런데 Nexcon이 홍보에 AI 아트를 쓴 걸 알고 곧바로 가지 않기로 했다."
+          },
+          {
+            "t": "p",
+            "x": "McLean은 Twitter에 “Nexcon을 누가 운영하는지 모르겠지만, 내 모습이 AI로 생성(AI generated)되는 건 절대 거부한다. 특별 게스트로 참석할 생각은 0이 됐다”고 썼다. “정말 무례하다.” McLean은 같은 날 계약을 해지했고 더는 참석하지 않는다고 덧붙였다."
+          },
+          {
+            "t": "p",
+            "x": "Nexcon을 주최하는 Ninjutsu Entertainment의 Ty Bailey는 McLean에게 사과 영상을 올렸다. 인간 아티스트에게 줄 돈이 떨어져 Ninjutsu가 어쩔 수 없이 AI에 기댔다면서, SonicFox에게 다시 생각해 달라고 매달렸다."
+          },
+          {
+            "t": "p",
+            "x": "McLean은 뜻을 굽히지 않았다. “나는 용서하는 사람이고, 당신 목소리에서 후회가 느껴지니 용서한다. 하지만 그 행동에는 여전히 결과가 따르고, 그래서 참석하지 않겠다. 계약으로 내게 제안한 돈으로 아티스트를 고용하라. 그러면 내년에는 다시 생각해 볼지도 모른다.”"
+          },
+          {
+            "t": "p",
+            "x": "그는 “모든 게 잘 풀려 뜻있는 아티스트와 인재로 커뮤니티를 꾸리고 AI를 모두 걷어낸다면, 내년에는 더 긍정적으로 볼 수도 있다”고도 했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "SonicFox pulls out of Nexcon\nover its AI promo art",
+          "body": "Fighting game savant SonicFox terminated their Nexcon contract after the event used AI art in its promotion.",
+          "mini_headline": "SonicFox exits Nexcon over AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/PG7DLjdgnsbu6ZnbikD2nQ-1200-80.jpg",
-                "cap": "Crédito de la imagen: Embark Studios"
+                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/IMG_7145.jpeg",
+                "cap": "The Game Awards / YouTube"
               },
               {
                 "t": "p",
-                "x": "La respuesta a a1vmp1, que perdió todo su equipamiento “a los 20 segundos de aparecer por un problema del juego”, decía que Embark “no puede restaurar objetos perdidos ni puntuaciones de pruebas”. GamesRadar+ la pasó por detectores de AI-text de Grammarly, Solvely y GPTZero; todos la calificaron como 100% AI-made. Embark no ha respondido a una solicitud de comentarios."
+                "x": "Upon discovering that Nexcon, a gaming event taking place in Oklahoma next month at which fighting game savant Dominique “SonicFox” McLean was set to be a special guest, had used AI art for promotional purposes, McLean promptly pulled out."
               },
               {
                 "t": "p",
-                "x": "“Resulta especialmente pernicioso recibir frases hechas como 'entendemos tu frustración' cuando ese 'nosotros' ni siquiera existe aquí”, se queja un jugador."
+                "x": "“Not sure who’s in charge of Nexcon, but I absolutely refuse to have my likeness be AI generated and my interest in attending as a special guest has dropped to 0,” McLean wrote on Twitter. “Incredibly disrespectful.” The same day, they added that they’d terminated their contract and would no longer be attending."
+              },
+              {
+                "t": "p",
+                "x": "Ty Bailey of Ninjutsu Entertainment, the organization putting on Nexcon, posted a video apologizing to McLean, explaining that Ninjutsu only resorted to AI because it had run out of money to pay human artists, and implored SonicFox to reconsider."
+              },
+              {
+                "t": "p",
+                "x": "McLean held firm. “I’m a forgiving person, and I can hear the remorse in your voice so I forgive you. However, there are still consequences to said actions that will prompt me not to attend. Use the money you offered me in contract to hire artists, and maybe next year I’ll reconsider.”"
+              },
+              {
+                "t": "p",
+                "x": "“If all goes well and you build a community with willing artists and talent and remove all AI, I may be more amenable to next year,” they continued."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "SonicFox, AI\n그림 쓴 Nexcon 하차",
+          "body": "SonicFox는 홍보에 AI 그림을 쓴 Nexcon과의 계약을 끊었다.",
+          "mini_headline": "SonicFox, AI 탓 Nexcon 하차",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/IMG_7145.jpeg",
+                "cap": "The Game Awards / YouTube"
+              },
+              {
+                "t": "p",
+                "x": "격투 게임 고수 Dominique “SonicFox” McLean은 다음 달 Oklahoma에서 열리는 게임 행사 Nexcon에 특별 게스트로 갈 예정이었다. 그런데 Nexcon이 홍보에 AI 아트를 쓴 걸 알고 곧바로 가지 않기로 했다."
+              },
+              {
+                "t": "p",
+                "x": "McLean은 Twitter에 “Nexcon을 누가 운영하는지 모르겠지만, 내 모습이 AI로 생성(AI generated)되는 건 절대 거부한다. 특별 게스트로 참석할 생각은 0이 됐다”고 썼다. “정말 무례하다.” McLean은 같은 날 계약을 해지했고 더는 참석하지 않는다고 덧붙였다."
+              },
+              {
+                "t": "p",
+                "x": "Nexcon을 주최하는 Ninjutsu Entertainment의 Ty Bailey는 McLean에게 사과 영상을 올렸다. 인간 아티스트에게 줄 돈이 떨어져 Ninjutsu가 어쩔 수 없이 AI에 기댔다면서, SonicFox에게 다시 생각해 달라고 매달렸다."
+              },
+              {
+                "t": "p",
+                "x": "McLean은 뜻을 굽히지 않았다. “나는 용서하는 사람이고, 당신 목소리에서 후회가 느껴지니 용서한다. 하지만 그 행동에는 여전히 결과가 따르고, 그래서 참석하지 않겠다. 계약으로 내게 제안한 돈으로 아티스트를 고용하라. 그러면 내년에는 다시 생각해 볼지도 모른다.”"
+              },
+              {
+                "t": "p",
+                "x": "그는 “모든 게 잘 풀려 뜻있는 아티스트와 인재로 커뮤니티를 꾸리고 AI를 모두 걷어낸다면, 내년에는 더 긍정적으로 볼 수도 있다”고도 했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI宣伝画でSonicFox\nがNexcon出演辞退",
+          "body": "格闘ゲーム名手SonicFoxは、宣伝にAIアートを使ったNexconとの契約を解除した。",
+          "mini_headline": "SonicFox、AIでNexcon辞退",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/IMG_7145.jpeg",
+                "cap": "The Game Awards / YouTube"
+              },
+              {
+                "t": "p",
+                "x": "格闘ゲームの名手Dominique「SonicFox」McLeanは、来月Oklahomaで開かれるゲームイベントNexconに特別ゲストとして出演する予定だった。だがNexconが宣伝にAIアートを使っていたことを知り、すぐに出演を取りやめた。"
+              },
+              {
+                "t": "p",
+                "x": "「Nexconを誰が仕切っているのか知らないが、自分の姿をAIで生成(AI generated)されるのは断固拒否する。特別ゲストとして参加する気は0になった」とMcLeanはTwitterに書いた。「本当に失礼だ」。同じ日、契約を解除し、もう参加しないと付け加えた。"
+              },
+              {
+                "t": "p",
+                "x": "Nexconを主催するNinjutsu EntertainmentのTy BaileyはMcLeanへの謝罪動画を投稿した。人間のアーティストに払う資金が尽きたためにやむなくAIに頼ったとNinjutsuの事情を説明し、SonicFoxに再考を懇願した。"
+              },
+              {
+                "t": "p",
+                "x": "McLeanは譲らなかった。「私は許す人間だし、あなたの声から後悔が伝わるので許す。でも、その行動にはやはり結果が伴い、だから参加しない。契約で私に提示したお金でアーティストを雇ってほしい。そうすれば来年は考え直すかもしれない」"
+              },
+              {
+                "t": "p",
+                "x": "「すべてがうまくいき、意欲あるアーティストや才能ある人たちとコミュニティを築き、AIを一切なくせば、来年はもっと前向きになれるかもしれない」と続けた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "SonicFox因AI宣传图\n退出Nexcon",
+          "body": "格斗游戏高手SonicFox因Nexcon在宣传中使用AI美术，终止了合同。",
+          "mini_headline": "SonicFox因AI退出Nexcon",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/IMG_7145.jpeg",
+                "cap": "The Game Awards / YouTube"
+              },
+              {
+                "t": "p",
+                "x": "格斗游戏高手Dominique“SonicFox”McLean原定作为特别嘉宾出席下个月在Oklahoma举办的游戏活动Nexcon，但在发现Nexcon使用AI美术做宣传后，McLean随即退出。"
+              },
+              {
+                "t": "p",
+                "x": "“不知道Nexcon是谁在负责，但我绝对拒绝让我的形象被AI生成（AI generated），我作为特别嘉宾出席的兴趣已经降到0，”McLean在Twitter上写道。“非常不尊重人。”当天，McLean又补充说已终止合同，不会再出席。"
+              },
+              {
+                "t": "p",
+                "x": "Nexcon的主办方Ninjutsu Entertainment的Ty Bailey发布视频向McLean道歉，解释Ninjutsu只是因为没钱再支付人类美术师才求助于AI，并恳请SonicFox重新考虑。"
+              },
+              {
+                "t": "p",
+                "x": "McLean立场坚定。“我是个宽容的人，也能听出你声音里的悔意，所以我原谅你。但这些行为仍有后果，让我决定不出席。把你在合同里给我的钱拿去雇美术师吧，也许明年我会重新考虑。”"
+              },
+              {
+                "t": "p",
+                "x": "“如果一切顺利，你们和愿意合作的美术师与人才建立起社区，并去掉所有AI，明年我也许会更愿意参加，”McLean接着说。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "SonicFox abandona Nexcon\npor su arte promocional con AI",
+          "body": "El experto en juegos de lucha SonicFox canceló su contrato con Nexcon porque el evento usó arte de AI en su promoción.",
+          "mini_headline": "SonicFox deja Nexcon por la AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/IMG_7145.jpeg",
+                "cap": "The Game Awards / YouTube"
+              },
+              {
+                "t": "p",
+                "x": "Al descubrir que Nexcon, un evento de videojuegos que se celebrará el próximo mes en Oklahoma y en el que Dominique “SonicFox” McLean, figura de los juegos de lucha, iba a ser invitado especial, había usado arte de AI para su promoción, McLean se retiró de inmediato."
+              },
+              {
+                "t": "p",
+                "x": "“No sé quién está a cargo de Nexcon, pero me niego rotundamente a que mi imagen sea generada con AI (AI generated), y mi interés en asistir como invitado especial ha caído a 0”, escribió McLean en Twitter. “Increíblemente irrespetuoso”. Ese mismo día, añadió que había rescindido su contrato y que ya no asistiría."
+              },
+              {
+                "t": "p",
+                "x": "Ty Bailey, de Ninjutsu Entertainment, la organización detrás de Nexcon, publicó un video en el que se disculpaba con McLean, explicaba que Ninjutsu solo recurrió a la AI porque se había quedado sin dinero para pagar a artistas humanos y pedía a SonicFox que lo reconsiderara."
+              },
+              {
+                "t": "p",
+                "x": "McLean se mantuvo firme. “Soy una persona que perdona, y noto el arrepentimiento en tu voz, así que te perdono. Sin embargo, esos actos siguen teniendo consecuencias que me llevan a no asistir. Usa el dinero que me ofreciste en el contrato para contratar artistas, y quizá el próximo año lo reconsidere”."
+              },
+              {
+                "t": "p",
+                "x": "“Si todo va bien y construyes una comunidad con artistas y talento dispuestos y eliminas toda la AI, puede que el próximo año esté más abierto”, continuó."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "SonicFox, AI\n그림 쓴 Nexcon 하차",
+          "body": "SonicFox가 홍보에 AI 그림을 쓴 Nexcon과 계약을 해지했다.",
+          "mini_headline": "SonicFox, AI 탓 Nexcon 하차",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/IMG_7145.jpeg",
+                "cap": "The Game Awards / YouTube"
+              },
+              {
+                "t": "p",
+                "x": "격투 게임 고수 Dominique “SonicFox” McLean은 다음 달 Oklahoma에서 열리는 게임 행사 Nexcon에 특별 게스트로 참석할 예정이었다. 하지만 Nexcon이 홍보에 AI 아트를 썼다는 사실을 알고 곧바로 불참을 결정했다."
+              },
+              {
+                "t": "p",
+                "x": "McLean은 Twitter에 “Nexcon을 누가 운영하는지 모르겠지만, 내 모습이 AI로 생성(AI generated)되는 건 절대 거부한다. 특별 게스트로 참석할 생각은 0이 됐다”고 썼다. “정말 무례하다.” 같은 날 McLean은 계약을 해지했으며 더는 참석하지 않겠다고 덧붙였다."
+              },
+              {
+                "t": "p",
+                "x": "Nexcon을 주최하는 Ninjutsu Entertainment의 Ty Bailey는 McLean에게 사과하는 영상을 올렸다. 그는 Ninjutsu가 인간 아티스트에게 줄 돈이 떨어져 어쩔 수 없이 AI에 기댔다고 설명하며 SonicFox에게 재고를 간청했다."
+              },
+              {
+                "t": "p",
+                "x": "McLean은 뜻을 굽히지 않았다. “나는 용서하는 사람이고, 당신 목소리에서 후회가 느껴지니 용서한다. 하지만 그 행동에는 여전히 결과가 따르고, 그래서 참석하지 않겠다. 계약으로 내게 제안한 돈으로 아티스트를 고용하라. 그러면 내년에는 다시 생각해 볼지도 모른다.”"
+              },
+              {
+                "t": "p",
+                "x": "“모든 게 잘 풀려 뜻있는 아티스트와 인재로 커뮤니티를 꾸리고 AI를 모두 걷어낸다면, 내년에는 더 긍정적으로 볼 수도 있다”고 이어 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI宣伝画でSonicFox\nがNexcon出演辞退",
+          "body": "格闘ゲーム名手SonicFoxは、宣伝にAIアートを使ったNexconとの契約を解除した。",
+          "mini_headline": "SonicFox、AIでNexcon辞退",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/IMG_7145.jpeg",
+                "cap": "The Game Awards / YouTube"
+              },
+              {
+                "t": "p",
+                "x": "格闘ゲームの名手Dominique「SonicFox」McLeanは、来月Oklahomaで開かれるゲームイベントNexconに特別ゲストとして出演する予定だった。だがNexconが宣伝にAIアートを使っていたことを知り、すぐに出演を取りやめた。"
+              },
+              {
+                "t": "p",
+                "x": "「Nexconを誰が仕切っているのか知らないが、自分の姿をAIで生成(AI generated)されるのは断固拒否する。特別ゲストとして参加する気は0になった」とMcLeanはTwitterに書いた。「本当に失礼だ」。同じ日、契約を解除し、もう参加しないと付け加えた。"
+              },
+              {
+                "t": "p",
+                "x": "Nexconを主催するNinjutsu EntertainmentのTy BaileyはMcLeanへの謝罪動画を投稿した。人間のアーティストに払う資金が尽きたためにやむなくAIに頼ったとNinjutsuの事情を説明し、SonicFoxに再考を懇願した。"
+              },
+              {
+                "t": "p",
+                "x": "McLeanは譲らなかった。「私は許す人間だし、あなたの声から後悔が伝わるので許す。でも、その行動にはやはり結果が伴い、だから参加しない。契約で私に提示したお金でアーティストを雇ってほしい。そうすれば来年は考え直すかもしれない」"
+              },
+              {
+                "t": "p",
+                "x": "「すべてがうまくいき、意欲あるアーティストや才能ある人たちとコミュニティを築き、AIを一切なくせば、来年はもっと前向きになれるかもしれない」と続けた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "SonicFox因AI宣传图\n退出Nexcon",
+          "body": "格斗游戏高手SonicFox因Nexcon在宣传中使用AI美术，终止了合同。",
+          "mini_headline": "SonicFox因AI退出Nexcon",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/IMG_7145.jpeg",
+                "cap": "The Game Awards / YouTube"
+              },
+              {
+                "t": "p",
+                "x": "格斗游戏高手Dominique“SonicFox”McLean原定作为特别嘉宾出席下个月在Oklahoma举办的游戏活动Nexcon，但在发现Nexcon使用AI美术做宣传后，McLean随即退出。"
+              },
+              {
+                "t": "p",
+                "x": "“不知道Nexcon是谁在负责，但我绝对拒绝让我的形象被AI生成（AI generated），我作为特别嘉宾出席的兴趣已经降到0，”McLean在Twitter上写道。“非常不尊重人。”当天，McLean又补充说已终止合同，不会再出席。"
+              },
+              {
+                "t": "p",
+                "x": "Nexcon的主办方Ninjutsu Entertainment的Ty Bailey发布视频向McLean道歉，解释Ninjutsu只是因为没钱再支付人类美术师才求助于AI，并恳请SonicFox重新考虑。"
+              },
+              {
+                "t": "p",
+                "x": "McLean立场坚定。“我是个宽容的人，也能听出你声音里的悔意，所以我原谅你。但这些行为仍有后果，让我决定不出席。把你在合同里给我的钱拿去雇美术师吧，也许明年我会重新考虑。”"
+              },
+              {
+                "t": "p",
+                "x": "“如果一切顺利，你们和愿意合作的美术师与人才建立起社区，并去掉所有AI，明年我也许会更愿意参加，”McLean接着说。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "SonicFox abandona Nexcon\npor su arte promocional con AI",
+          "body": "El experto en juegos de lucha SonicFox canceló su contrato con Nexcon porque el evento usó arte de AI en su promoción.",
+          "mini_headline": "SonicFox deja Nexcon por la AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/IMG_7145.jpeg",
+                "cap": "The Game Awards / YouTube"
+              },
+              {
+                "t": "p",
+                "x": "Al descubrir que Nexcon, un evento de videojuegos que se celebrará el próximo mes en Oklahoma y en el que Dominique “SonicFox” McLean, figura de los juegos de lucha, iba a ser invitado especial, había usado arte de AI para su promoción, McLean se retiró de inmediato."
+              },
+              {
+                "t": "p",
+                "x": "“No sé quién está a cargo de Nexcon, pero me niego rotundamente a que mi imagen sea generada con AI (AI generated), y mi interés en asistir como invitado especial ha caído a 0”, escribió McLean en Twitter. “Increíblemente irrespetuoso”. Ese mismo día, añadió que había rescindido su contrato y que ya no asistiría."
+              },
+              {
+                "t": "p",
+                "x": "Ty Bailey, de Ninjutsu Entertainment, la organización detrás de Nexcon, publicó un video en el que se disculpaba con McLean, explicaba que Ninjutsu solo recurrió a la AI porque se había quedado sin dinero para pagar a artistas humanos y pedía a SonicFox que lo reconsiderara."
+              },
+              {
+                "t": "p",
+                "x": "McLean se mantuvo firme. “Soy una persona que perdona, y noto el arrepentimiento en tu voz, así que te perdono. Sin embargo, esos actos siguen teniendo consecuencias que me llevan a no asistir. Usa el dinero que me ofreciste en el contrato para contratar artistas, y quizá el próximo año lo reconsidere”."
+              },
+              {
+                "t": "p",
+                "x": "“Si todo va bien y construyes una comunidad con artistas y talento dispuestos y eliminas toda la AI, puede que el próximo año esté más abierto”, continuó."
               }
             ]
           }

@@ -15201,6 +15201,157 @@
           "x": "Hacks.gr가 다시 실은 기사로, 원 보도는 TechCrunch(October 20, 2026)다."
         }
       ]
+    },
+    "design/design-claude-duet": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic이 Meta의 Muse와 OpenAI의 Dots에 맞설 AI 에이전트 Claude Duet을 발표했다. 전문직 종사자와 소상공인을 겨냥한 새 에이전트로, Anthropic에 따르면 “리서치 프리뷰”로 나온다. iOS와 Android 독립 앱이나 웹의 Claude에서 쓸 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "이 AI 에이전트의 바탕은 Claude Opus 5.5다. 매일 아침 연결된 앱에서 가장 중요한 항목만 추린 짧은 브리프를 보내고, 낮에는 챙길 일이 생길 때만 메시지를 보낸다. 회의 일정 잡기부터 대시보드, 재무·매출 예측, 프로토타입, 웹 앱 제작까지 일을 맡겨도 된다."
+        },
+        {
+          "t": "p",
+          "x": "Claude Duet은 Claude의 메모리, 스킬, 연결된 앱을 가져오고 브라우저가 딸린 가상 머신도 갖췄다. 결제나 삭제처럼 중요한 단계 전에는 메시지로 승인을 구한다. 새 전용 분류기와 안전 시스템 프롬프트는 신용카드 번호 같은 “가장 엄격한 등급의 정보를 공유하라는 요청을 거부하도록 설계됐다”."
+        },
+        {
+          "t": "p",
+          "x": "Anthropic은 Claude Duet이 아직 “초기 버전”이며 “여전히 스레드를 잘못 읽거나 무엇이 급한지 잘못 판단할 수 있다”고 말한다. 티켓 예매 같은 개인 용무에서도 아직은 “그만큼 강하지” 않다고 한다."
+        },
+        {
+          "t": "video",
+          "yt": "Fb-68zqcSVs"
+        },
+        {
+          "t": "p",
+          "x": "Claude Duet을 써 보려면 대기자 명단에 이름을 올리면 된다. 다만 미국(US)의 Pro 또는 Max 구독자만 쓸 수 있다."
+        }
+      ]
+    },
+    "design/design-ptc-jetstream": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/10/PTC-Jetstream.jpg"
+        },
+        {
+          "t": "p",
+          "x": "PTC가 클라우드 협업 계층 Jetstream을 출시했다. 제품 개발팀과 회의, 마크업, 의사결정, 맥락을 AI-native 계층에서 더 촘촘히 잇고 그 내용을 Windchill PLM으로 바로 흘려보낸다."
+        },
+        {
+          "t": "p",
+          "x": "Windchill에서 협업을 시작하면 제품 데이터가 보안이 걸린 Collaboration Rooms로 공유된다. 그 안에서 나온 이슈와 결정은 기록으로 남아 다시 Windchill로 돌아온다. 접근이 통제되는 Rooms에서는 지정된 직원, 공급업체, 파트너가 CAD나 PLM을 직접 열지 않고도 2D 및 3D 제품 데이터를 검토한다. 코멘트와 마크업은 데이터 버전, 검토자, 맥락과 묶인다."
+        },
+        {
+          "t": "p",
+          "x": "Jetstream의 AI는 회의 전체를 요약해 주요 결정과 결과, 다음 단계와 담당자를 짚어 준다. Windchill 없이 Jetstream만 단독으로 써도 된다. 이 경우 사용자는 Creo, Solidworks, STEP 파일을 올리면 된다."
+        },
+        {
+          "t": "p",
+          "x": "PTC CPO Jon Stevenson은 “제품 개발은 팀의 노력이지만, 이를 지원하는 도구는 팀이 얼마나 넓게 분산됐는지를 따라가지 못했다”고 말했다."
+        }
+      ]
+    },
+    "design/design-ai-at-its-word": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1100/1*mPw95o9x2pcMCIOS87WGFA.png"
+        },
+        {
+          "t": "p",
+          "x": "AI 에이전트는 자기가 한 일을 유창하게 설명하지만 그 설명이 틀릴 때도 있다. 사람이 내놓는 그런 설명이라면 디자이너들은 오래전부터 믿지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "Dora Czerna는 SaaStr 창업자 Jason Lemkin의 이야기로 글을 연다. 2025년 7월, Replit의 AI 에이전트로 앱을 만든 지 아흐레째 되던 날이었다. 코드·작업 동결 기간인데도 에이전트가 운영 데이터베이스를 지워 버렸다. 천이백 명이 넘는 경영진과 비슷한 수의 기업 기록이 담긴 데이터베이스였다."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*22kPdL4HRUcq2-4QVzRL7A.png",
+          "cap": "“그러니까 코드·작업 동결 기간에 허락도 없이 우리 데이터베이스 전체를 삭제했다는 거죠?”"
+        },
+        {
+          "t": "p",
+          "x": "에이전트는 실수를 인정했다. 쿼리 결과가 비어 있자 “패닉에 빠졌다”며 이를 “제 쪽의 치명적인 실패”라고 불렀다. 롤백이 안 돼 데이터를 되살릴 수 없다는 주장도 폈다. Lemkin은 그래도 롤백을 시도했다. 롤백은 작동했다."
+        }
+      ]
+    },
+    "design/design-buy-vs-build": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*nj8TtjChBWaVUnj1eBPjYQ.png",
+          "cap": "한 제품팀이 같은 테이블에서 구매한 도구와 내부 개발안을 저울질한다."
+        },
+        {
+          "t": "p",
+          "x": "인공지능 덕에 만들기는 싸졌고 사기는 쉬워졌다. Patrick Neeman은 이제 그 선택이 유지보수를 누가 맡는지, 도구 사이의 이음새, 채팅 화면, 데이터에 달려 있다고 주장한다. 물어야 할 것은 복잡성이 어디로 떨어지느냐다. 우리 코드인가, 벤더의 로드맵인가, 사용자인가."
+        },
+        {
+          "t": "p",
+          "x": "그는 초기 개발 비용의 30%를 매년 유지보수 예산으로 잡는다. 두 사람이 두 주 동안 시간당 $150로 일하면 초기 비용은 $24,000, 연간 유지비는 $7,200이다. 좌석당 $20짜리 구독을 25명이 쓰면 한 해 $6,000이 든다. 세 해를 더하면 $45,600 대 $18,000이다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*7XtOj9Wp3l-ofV80VmC_dA.png",
+          "cap": "계산은 보기만큼 간단하지 않다."
+        },
+        {
+          "t": "p",
+          "x": "사는 순간 벤더의 데이터 모델과 출시 주기까지 함께 들어온다. 사용자는 도구 사이의 틈을 몸으로 느낀다. 일은 점점 Teams, Slack, Claude, ChatGPT 안으로 옮겨 가고, 그곳 규칙은 호스트가 정한다. 그러니 카드 하나도 독립된 제품처럼 디자인해야 한다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*vgCEwEwGZWy-epOP5KOIPA.png",
+          "cap": "코딩 에이전트도 추정치를 왜곡한다. 누가 알았겠는가?"
+        },
+        {
+          "t": "p",
+          "x": "범용 기능은 사고 차별화 요소는 직접 만든다. 데이터가 어디 있는지도 묻는다. 모델이나 벤더 릴리스가 기반을 흔들 때마다 다시 돌려 볼 실제 작업을 20개에서 30개쯤 마련해 둔다."
+        }
+      ]
+    },
+    "design/design-canva-craft-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+          "cap": "이미지: Canva"
+        },
+        {
+          "t": "p",
+          "x": "Canva가 OpenAI, Microsoft, Google의 모델과 정면으로 맞붙는 이미지 생성 모델을 내놓으며 AI 쪽으로 한 걸음 더 들어갔다. 이름은 Canva Craft다. 이미지를 만들기 전에 디자인부터 계획하는 2단계 구조로 “더 높은 정밀도, 일관성, 제어력”을 제공한다."
+        },
+        {
+          "t": "p",
+          "x": "Canva Craft는 최대 2K 해상도에 30가지가 넘는 화면비로 이미지를 만든다. 소셜 미디어 게시물과 마케팅 콘텐츠는 물론 사실적인 장면, 디지털 아트, 환경 이미지까지 겨냥해 설계됐다. Canva는 2단계 시스템 덕분에 글자가 읽혀야 하고 사물 배치가 정확해야 하는 복잡한 이미지도 더 정확하게 그린다고 설명한다."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/canva-craft-2.jpg?quality=90&strip=all&w=1200",
+          "cap": "Canva Craft로 생성한 이미지. 이미지: Canva"
+        },
+        {
+          "t": "p",
+          "x": "Canva는 소셜 미디어 게시물, 프레젠테이션, 인포그래픽, 메뉴 등 자사 콘텐츠 라이브러리의 “사람이 만든 템플릿 수백만 개”로 Craft를 학습시켰다고 밝혔다. Design Arena 리더보드에서는 현재 OpenAI의 GPT-Image-2.5 Sunburst, GPT-Image-2.5 Flare, GPT-Image-2에 이어 4위다."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/canva-craft-3.jpg?quality=90&strip=all&w=1200",
+          "cap": "Canva Craft로 생성한 이미지. 이미지: Canva"
+        },
+        {
+          "t": "p",
+          "x": "Canva는 AI 에이전트가 개방형 Model Context Protocol로 Craft에 연결할 수 있게 할 계획이고, 더 효율적인 Craft-fast와 Craft-ultrafast 모델도 내놓는다. Craft는 지금 Dream Lab에서 전 세계 모든 사용자가 쓸 수 있다."
+        }
+      ]
     }
   }
 }

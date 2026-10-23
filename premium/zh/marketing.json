@@ -2111,6 +2111,89 @@
           "x": "Google还要求广告主确认自己拥有着陆页图片的版权，并允许Google将其用于广告，从而把授权图片或第三方图片的责任交给广告主。"
         }
       ]
+    },
+    "marketing/marketing-google-ads-sourced-videos": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google Ads在素材优化部分新增了“Sourced videos”on/off开关设置。它借助Google AI从你批准的来源中识别相关视频，并自动加入你的广告系列。"
+        },
+        {
+          "t": "p",
+          "x": "这个开关由Reva Minkoff在LinkedIn上发现；Hana Kobzová在几天前就注意到了帮助文档的变动，并指出这一变化“不再需要广告主手动opt-in”。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-sourced-videos-toggle-n1Mv05cA.jpg",
+          "cap": "Sourced videos：“使用其他频道的视频。”"
+        },
+        {
+          "t": "p",
+          "x": "根据Google的帮助文档，Sourced videos利用Google AI和自动视频抓取技术，为Performance Max广告系列识别相关视频。所有新广告系列默认启用，部分现有广告系列也可能已被自动开启。"
+        },
+        {
+          "t": "p",
+          "x": "来源可包括社交媒体平台、广告系列的着陆页以及你关联的YouTube频道。系统按相关性、效果潜力和最佳实践符合度挑选视频，每个素材组最多可自动加入10个抓取的视频。"
+        }
+      ]
+    },
+    "marketing/marketing-etsy-non-ai-image-rule": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/cYMlDQ6lWlMzUd8EncbsCfReT9sYO5rMJj0jdZzDCxw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODUzMTg0NjY1LmpwZw==.webp",
+          "cap": "Etsy位于New York City总部展示的公司标志。"
+        },
+        {
+          "t": "p",
+          "x": "电商（E-commerce）平台Etsy正在整治商品页面中的AI使用。根据公司周四发布的博客文章，Etsy现在规定，大多数商品页面必须至少包含一张以真实背景拍摄、未经编辑的商品照片。"
+        },
+        {
+          "t": "p",
+          "x": "图样、食谱和说明书等功能性指南不得再使用AI-generated内容。由机器人生成的（Bot-generated）商品页面不被允许，将会被删除；如果商品页面未达到更新后的图片要求，买家可能获得退款。"
+        },
+        {
+          "t": "p",
+          "x": "Etsy还在商品发布表单中加入了一项提示功能，会标记出Etsy检测到可能使用了AI的图片。Etsy客户运营副总裁（Vice President of Customer Operations）James Ossman表示：“这些变化是我们的起点，而不是终点。”"
+        },
+        {
+          "t": "p",
+          "x": "此举出台之际，Etsy自身也在加大对AI应用的投入。CEO Kruti Patel Goyal对分析师表示，AI最大的机会就在Etsy本身：“关键是用AI让Etsy在连接合适的买家与合适的卖家方面变得好得多、好得多。”"
+        }
+      ]
+    },
+    "marketing/marketing-meta-ai-glowups": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/ATM.webp?w=600&h=315&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "自10月30日起，若Meta的AI搞砸了你的广告，责任在你。广告买家告诉ADWEEK，Meta的AI已在未经询问的情况下改动他们的广告。"
+        },
+        {
+          "t": "p",
+          "x": "Bookshop.org表示，Meta的一次账户自动更新让它被动加入了一项生成式AI功能，该功能在它不知情的情况下，往其人工制作的广告里加了一幅AI-generated插图。此后它关闭了Meta的全部AI广告功能。"
+        },
+        {
+          "t": "img",
+          "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-1.28.28-PM.png?w=1024",
+          "cap": "Bookshop.org在Threads上的帖子"
+        },
+        {
+          "t": "p",
+          "x": "根据Meta更新后的Commercial Terms，对于其AI功能生成或改动的任何内容，包括Meta自行开启的功能，广告主都将\"全权负责\"。此前，只有广告主主动选择使用Meta的AI工具时才需承担责任。Meta发言人未直接回应这一问题，只表示广告主可随时在Ads Manager中关闭单项Advantage+功能。"
+        },
+        {
+          "t": "p",
+          "x": "代理商Exverus即便经过多轮质检，团队仍不得不撤下正在投放的广告，以清除漏网的改动，包括新增的附加链接、语言翻译，以及用品牌自有素材生成的AI-generated图片或轮播。Ryan Adams说：\"即使是Meta自己的工具施加了这些优化，Meta也把责任完全推给广告主。\""
+        },
+        {
+          "t": "p",
+          "x": "AdCellerant现在会在所有广告活动中系统性地关闭Meta默认的AI自动化。"
+        }
+      ]
     }
   }
 }

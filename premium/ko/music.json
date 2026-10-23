@@ -12626,6 +12626,119 @@
           "x": "Apple은 그동안 AI에서 경쟁사보다 덜 공격적이었다. MusicTech는 이런 인수가 앞으로도 이어지고, 자사 소프트웨어 워크플로에 조용히 스며들 것으로 본다."
         }
       ]
+    },
+    "music/music-suno-answer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
+          "cap": "사진: FotoField / Shutterstock.com"
+        },
+        {
+          "t": "p",
+          "x": "Suno는 10월 20일 매사추세츠주 US 연방지방법원에 제출한 44쪽 분량의 답변서에서 AI 모델 학습에 쓴 녹음을 모두 삭제하지는 않았다고 인정했다. UMG와 Sony가 Suno를 상대로 낸 소송의 ‘세탁(laundering)’ 주장에 답한 문서다."
+        }
+      ]
+    },
+    "music/music-youtube-ai-ugc": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "YouTube가 사람들이 생성형 AI로 창의적 자기표현을 하는 방식을 다룬 새 Culture & Trends 보고서를 냈다. 흥미로운 UGC 가능성이 엿보이는 보고서다. 14세에서 44세 사이 US 영상 게시자 약 700명 가운데 72%가 영상이나 이미지에 AI를 쓴다고 답했다. 61%는 AI로 자기 모습을 콘텐츠에 넣어 보고 싶다고 했다. 이미 AI 영상을 만드는 사람은 3분의 2 이상이 직접 영상에 나온다."
+        },
+        {
+          "t": "p",
+          "x": "YouTube에 따르면 많은 사람이 이를 “디지털 의상 교체”나 다른 역할을 맡은 자신을 상상하는 데 쓴다. 아티스트 팀이라면 팬을 뮤직비디오 속에 직접 넣어 주는 방식이 자연스럽다. 공유하기 좋은 캠페인 요소가 된다."
+        },
+        {
+          "t": "p",
+          "x": "Music Ally는 Higgsfield로 만든, LISA의 “SaWaDiKa” 영상에 Ariana Grande가 등장하는 팬 제작 Instagram Reel을 발견했다. 좋아요 82.2k 건, 공유 24.7k 건으로 제작자의 평소 게시물보다 반응이 100x 이상 높았다."
+        },
+        {
+          "t": "p",
+          "x": "발매 시점에 맞춰 팬의 AI 창작을 독려해도 되고, AI 크리에이터에게 최신 뮤직비디오를 둘러싼 이런 콘텐츠 제작을 맡겨도 된다. Ghost는 “Satanizer”로 팬이 얼굴을 바꿔 “Satanized” 영상에 들어가게 했다."
+        }
+      ]
+    },
+    "music/music-mixjudge": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "믹싱은 처리를 적용하는 데서 끝나지 않는다. 결과물을 평가하는 일도 믹싱이다. 오디오-언어 모델은 대화하듯 믹싱 조언을 주지만, 기존 평가는 이 모델이 특정 믹싱 문제를 판단하는지 따로 시험하지 않는다."
+        },
+        {
+          "t": "p",
+          "x": "이런 판단에 쓸 전문가 감독 데이터가 부족하다. 그래서 연구진은 여러 심각도 단계로 나눈 보컬 믹스 문제 11종의 커리큘럼을 만들고 이것으로 언어로 질의할 수 있는(language-queryable) 오디오 비평가 MixJudge를 학습시켰다."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.30783v1/batch_construction.svg",
+          "cap": "그림 1: 같은 콘텐츠로 구성한 학습 배치."
+        },
+        {
+          "t": "p",
+          "x": "MixJudge는 믹싱 문제를 찾아내고, 서로 반대되는 문제를 가려내며, 한 문제의 심각도를 순서대로 매겼다. 이 판단은 메뉴 선택으로도 이어진다. 처리 후보를 주면 MixJudge는 따로 떼어 둔 전문가 버전에 음향적으로 더 가까운 쪽을 고를 때가 많았다."
+        },
+        {
+          "t": "p",
+          "x": "Kuan-Hsun Ho, Yuan-Chiao Cheng, Yen-Tung Yeh, Yi-Hsuan Yang 공저, ICASSP 2027 제출."
+        }
+      ]
+    },
+    "music/music-piano2pop": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "팝송은 흔히 데모에서 시작한다. 기타 스케치일 수도, 기존 트랙 위에 부른 탑라인일 수도, 피아노 반주일 수도 있다. 이 스케치를 완성된 프로덕션으로 만드는 건 프로듀서 몫이다. 음악적 의도를 읽어 내고 드럼, 악기 구성, 편곡, 믹싱으로 살려야 한다. 국립대만대학교(National Taiwan University) 연구진은 이 과제를 Piano2Pop이라 부른다. 피아노 MIDI 데모를 받아 일관성 있고 팝 어법에 맞으며 데모의 음악적 의도에 충실한 완전한 연주곡 팝 프로덕션을 생성하는 과제다."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.31510v1/hero.png",
+          "cap": "그림 1: Piano2Pop 개요."
+        },
+        {
+          "t": "p",
+          "x": "연구진의 의사 지도(pseudo-supervised) 방식은 정렬된 피아노-팝 지도 데이터 없이 사전학습된 flow-matching 모델을 피아노 롤에 조건화한다. 학습에는 팝 녹음에서 추출한 합성 피아노-연주곡 쌍을 쓴다. 의사 데모 소스로는 기능 선택(FST)과 음역 밀도(RDA) 증강을 포함한 쌍 없는(pair-free) 채보 방식과 쌍 지도(pair-supervised) 피아노 커버 생성기를 비교했다."
+        },
+        {
+          "t": "p",
+          "x": "실제 피아노 커버/팝 쌍 476개로 테스트하자 실제 피아노 입력에서는 쌍 지도 방식이 Frechet Audio Distance, Accompaniment Prompt Adherence, 스펙트럼 형태 모두에서 가장 좋은 성적을 냈다. FST는 쌍 없는 학습에서 피아노가 과하게 두드러지는 출력을 줄였다. 미세 조정한 모든 시스템이 제로샷 베이스라인인 MuseControlLite와 ACE-Step cover를 크게 앞섰다."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.31510v1/instrument_energy_differences.svg",
+          "cap": "그림 2: OOD 실제 피아노 조건에서 평균 악기 에너지 비중의 GT 대비 차이."
+        },
+        {
+          "t": "p",
+          "x": "오디오 예시는 데모 페이지에 있고, 저자들은 논문 게재 시 오픈소스 코드와 체크포인트를 공개할 계획이다. 논문은 ICASSP 2027에 제출됐다."
+        }
+      ]
+    },
+    "music/music-reservoir-suno-anthropic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Anthropic-Suno-Reservoir-Suits-1024x546.jpg",
+          "cap": "사진: Planet Volumes"
+        },
+        {
+          "t": "p",
+          "x": "Reservoir Media가 Suno를 상대로 약 2억 달러 규모의 저작권 침해와 DMCA 소송을 냈다. Anthropic에도 비슷한 소송을 걸었다. 두 소송 모두 캘리포니아 북부지구 U.S. 연방지방법원에 접수됐다."
+        },
+        {
+          "t": "p",
+          "x": "Reservoir는 Suno가 보호받는 음악을 허락 없이 학습에 썼다고 본다. Warner Music, BMG, Believe 등과 라이선스 계약을 맺은 순간 “학습 데이터용 음악과 음원 라이선스 시장이 제대로 작동하고 있다는 사실을 사실상 인정했다”고도 주장한다. 소장에 따르면 Suno는 Bright Data의 서비스로 YouTube에서 약 113,879시간 분량, 이백만 개가 넘는 음악 클립이 담긴 파일을 긁어 갔다."
+        },
+        {
+          "t": "p",
+          "x": "Reservoir는 Suno를 상대로 고의 침해가 의심되는 1,050개 작품마다 법정 최고액 15만 달러씩, 합계 1억5750만 달러를 청구했다. 여기에 접근 통제 우회로 263만 달러, 저작권 관리 정보 삭제로 2625만 달러를 더했다."
+        },
+        {
+          "t": "p",
+          "x": "Anthropic 소장도 853개 작품을 두고 같은 주장을 펼친다. The Atlantic의 AI Watchdog 데이터셋 검색 도구를 근거로 침해 배상금 1억2795만 달러(“Claude는 853개 작품 모두에 대해 침해 결과물을 만들어 냈다”)와 DMCA 관련 2350만 달러를 함께 청구했다."
+        }
+      ]
     }
   }
 }

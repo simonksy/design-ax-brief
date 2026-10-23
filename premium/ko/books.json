@@ -11112,6 +11112,169 @@
           "x": "소장에 따르면 Meta는 LibGen, Z-Library, Anna’s Archive 같은 섀도 라이브러리에서 책을 내려받았고, mid-2025부터는 책 스캔 프로그램 Project Vellum을 운영해 Muse Spark와 Muse Glimmer 모델을 학습시켰다. 관련 Meta 사건들은 2027년 5월 3일부터 배심 재판에 들어간다. "
         }
       ]
+    },
+    "books/books-chakrabarty-dropped": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/10/News-October-22.jpg"
+        },
+        {
+          "t": "p",
+          "x": "월요일에 이어 AI 후속 소식이 하나 더 있다. OpenAI를 상대로 진행 중인 저작권 소송에서, 원고 측이 Dr. Tuhin Chakrabarty의 시장 희석 논문에 기대지 못하게 해 달라며 OpenAI가 낸 신청 건이다. 이 논문은 널리 인용돼 왔다."
+        },
+        {
+          "t": "p",
+          "x": "Chakrabarty는 이 연구에서 생성형 AI가 시장 희석을 일으키고 있고, 그 탓에 창작자가 상당한 경제적 피해를 입을 수 있다고 주장한다."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI는 이 연구가 원고 측 대리 로펌 Susman Godfrey의 자금을 받았다고 문제 삼았다. 그러니 자사를 상대로 한 소송에서 법원이 이 논문을 고려해서는 안 된다는 주장이다."
+        },
+        {
+          "t": "p",
+          "x": "Chakrabarty는 선서 진술서에서 이를 부인했다. 하지만 원고 측이 AI 측 신청에 반대하지 않으면서 Chakrabarty의 논문은 제출 증거에서 빠졌다."
+        },
+        {
+          "t": "p",
+          "x": "압박받는 번역가들: 프랑크푸르트에서 공개된 유럽문학번역가협회연합(CEATL)의 2026년 설문조사 결과, 응답자 1,785명 가운데 77%가 업계 안의 생성형 AI를 부정적으로 봤다. 셋 중 한 명 이상은 일을 그만둘까 생각해 본 적이 있었다. 30퍼센트는 일감이 줄었다며 AI 사용 증가를 원인으로 꼽았다."
+        }
+      ]
+    },
+    "books/books-novelcrafter-gemini-argon": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "eLQESMPS8Bc"
+        },
+        {
+          "t": "p",
+          "x": "Gemini Argon용 글쓰기 프롬프트 만들기 - Novelcrafter Live."
+        },
+        {
+          "t": "p",
+          "x": "나는 Gemini Argon에 푹 빠졌다... 과학 용어 같은 이름 때문만은 아니다 ;) 이 모델을 붙잡고 프롬프트를 어떻게 써야 하는지 찾아보려 한다. 시행착오야 좀 있겠지만 같이 즐겨 보자!"
+        }
+      ]
+    },
+    "books/books-ai-signal-noise": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Silverchair CEO Will Schweitzer는 2월 3일을 짚는다. 그날 Anthropic이 Claude용 법률 플러그인(plug-in)을 내놓았다. 학술 출판계에 달라진 건 없었는데도 장 마감 무렵 RELX는 14%, Thomson Reuters는 약 18%, Wolters Kluwer는 약 13% 떨어졌다."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/SC-Eaton-Event-Preview-541.jpg",
+          "cap": "Silverchair Platform Strategies 2026 행사에서 연설하는 Will Schweitzer"
+        },
+        {
+          "t": "p",
+          "x": "글의 출발점은 9월 23일 워싱턴 DC에서 열린 Platform Strategies에서 그가 한 환영사다. 틀은 Wendy Queen에게서 빌렸다. 어떤 신호가 지금 움직일 만하고, 어떤 것이 맥락이며, 어떤 것이 날씨인지 가르는 방식이다."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Wendy-Queen-survey-graph.png"
+        },
+        {
+          "t": "p",
+          "x": "현장 투표에서는 AI 매개(AI-mediated) 연구·발견 쪽 관심이 14.3%에서 22.9%로 늘었다. 연구 진실성과 AI 콘텐츠 쪽은 17.1%에서 5.7%로 줄었다."
+        },
+        {
+          "t": "p",
+          "x": "6월부터 8월까지 한 출판사 사이트에 들어온 콘텐츠 요청 가운데 사람일 가능성이 높다고 판정된 비율은 41%뿐이었다. LibLynx에 따르면 학술 출판사 서른 곳가량에 들어온 접근 요청 5,000만(50 million) 건 가운데 36%가 봇이었다."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/PS26-reader-change-graphs.png"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic의 커넥터 디렉터리에는 커넥터 862개가 올라 있지만 학회 출판사는 하나도 없다. 그가 연말 전까지 권하는 일은 이렇다. 이번 분기에 비인간 트래픽을 재 보고, 에이전트 도달성 실험을 하나 돌려 보고, 움직이는 비용만큼 기다리는 비용도 따져 보라는 것이다."
+        }
+      ]
+    },
+    "books/books-daegu-aidt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img8.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102012040005100_P4.jpg",
+          "cap": "질의하는 백승아 의원"
+        },
+        {
+          "t": "p",
+          "x": "(대구=연합뉴스) 황수빈 기자 = 올해 대구교육청이 초중고교 인공지능 디지털교과서(AIDT) 보급을 위해 수십억 원의 구독료를 들였지만, 실제 수업에서 활용도가 떨어진다는 지적이 나왔다."
+        },
+        {
+          "t": "p",
+          "x": "더불어민주당 백승아 의원(비례대표)은 20일 부산시교육청에서 대구 등 6개 지역 교육청을 대상으로 열린 국회 교육위원회 국정감사에서 \"2025년 1학기에 비해 올해 AIDT 활용학교는 전국적으로 84.8%가 감소했는데 유독 대구는 다르다\"고 지적했다."
+        },
+        {
+          "t": "p",
+          "x": "그는 \"올해 AIDT 활용학교 622교 가운데 절반인 311교가 대구에 있다\"고 덧붙였다."
+        },
+        {
+          "t": "p",
+          "x": "백 의원은 대구지역 학교들의 AIDT 채택이 많은 이유는 교육감의 압박 때문으로 보인다는 점도 지적했다."
+        },
+        {
+          "t": "p",
+          "x": "그는 \"대구시교육청이 AIDT와 관련된 공문을 여러 차례 각 학교에 보내고 활용을 독려했음에도 불구하고 실제 이용 횟수는 저조한 것으로 나타났다\"고 지적했다."
+        },
+        {
+          "t": "p",
+          "x": "백 의원이 대구시교육청으로부터 제출받은 자료에 따르면 올해 1학기 기준 대구에서 AI DT를 도입한 초중고교에 지원된 구독료는 총 45억8천900만원이었다."
+        },
+        {
+          "t": "p",
+          "x": "이중 AI 디지털교과서를 20회 미만 이용한 학교는 119곳으로 집계했다."
+        },
+        {
+          "t": "p",
+          "x": "백 의원은 \"통상 한 학기를 20주라고 보면 38.3%는 일주일에 한 번도 안 쓴 셈\"이라며 \"이 정도 수치를 가지고 AI 디지털교과서를 제대로 활용했다고 평가할 수 있겠느냐\"고 따졌다."
+        },
+        {
+          "t": "p",
+          "x": "그러면서 \"전국 다른 학교들은 대부분 선택하지 않은 교육자료를 대구만 이렇게 압도적으로 많이 구독하고 이를 위해 별도 지원하고 있는 이유는 무엇이냐\"고 몰아붙였다."
+        },
+        {
+          "t": "p",
+          "x": "이에 대해 강은희 대구시교육감은 \"활용이 저조한 학교를 분석해보면 나름대로 저조한 부분이 있는 건 인정한다\"면서도 \"다만 실제로 충분히 활용되고 학생들의 학습에 적극적인 도움이 됐다는 사례가 더 많다\"고 답했다."
+        },
+        {
+          "t": "p",
+          "x": "이어 \"지속해 AI 디지털교과서를 잘 활용할 수 있도록 지원하고 있다\"고 덧붙였다."
+        },
+        {
+          "t": "img",
+          "src": "https://img0.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102011870005100_P4.jpg",
+          "cap": "업무 보고 하는 강은희 대구교육감"
+        }
+      ]
+    },
+    "books/books-kindle-plus-ai-audiobooks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/kindleplus.jpg?quality=90&strip=all&crop=0%2C10.721349621873%2C100%2C78.557300756254&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "구독 서비스의 ‘플러스화’가 거침없이 이어지는 가운데 Amazon도 Kindle Unlimited의 이름을 바꿔 이 흐름에 올라탔다. 새 이름은 Kindle Plus다. 그래도 월 $11.99에 Kindle 카탈로그에서 고른 전자책, 만화, 잡지를 무제한으로 보는 건 그대로다. ZDNet에 따르면 이 가운데 수천 종은 지금처럼 딸린 오디오북으로 읽던 자리에서 바로 이어 들을 수 있다. Kindle Plus는 여기에 AI 내레이터가 읽어 주는 ‘가상 음성(virtual voice)’ 오디오북까지 더한다."
+        },
+        {
+          "t": "p",
+          "x": "“이 구독은 수백만 종의 타이틀과 함께 변함없이 훌륭한 독서 경험을 제공하며, 이제 U.S. 카탈로그의 오디오북 수천 종을 추가 비용 없이 더했습니다.” Amazon 대변인 Josh Pflug는 The Verge에 보낸 이메일 성명에서 이렇게 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "Kindle Plus는 Amazon Prime과 따로 가입하는 독립 구독으로 남는다. 지금처럼 한 번에 최대 20종까지만 빌릴 수 있지만 반납 기한은 없다. 이제 Kindle Direct Publishing 플랫폼을 쓰는 작가들도 자기 오디오북을 Kindle Plus 구독자에게 내놓을 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "신간을 KDP Select에 등록하면 가상 음성 오디오북이 자동으로 따라붙고, 이미 낸 작품에도 AI 내레이터를 고를 수 있다. 사람 내레이터를 원하는 작가라면 Audible의 Audiobook Creation Exchange(ACX) 마켓플레이스에서 만든 오디오북을 Kindle Plus에 올리면 된다. 우선 US 구독자부터 적용하고 Amazon은 차차 다른 시장으로 넓힐 계획이다."
+        }
+      ]
     }
   }
 }
