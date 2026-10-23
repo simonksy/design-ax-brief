@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "issue": "남은 병목은 확인",
+    "date": "2026.10.24",
+    "section": "DESIGN",
+    "accent": "#0070f3",
+    "note": "AI가 만드는 속도는 빨라졌지만, 그 결과를 읽고 검증하는 사람의 손이 따라가지 못한다",
+    "sources": [
+      "https://dev.to/chloe_chen/enforcing-accessibility-gates-in-component-libraries-plugin87ux-ui-agent-skills-review-4p0i",
+      "https://uxdesign.cc/anthropic-october-2026-study-human-attention-is-the-new-old-bottleneck-d7bc4642668a",
+      "https://aecmag.com/automation/ais-next-bottleneck-is-the-engineers-desk/",
+      "https://uxdesign.cc/can-you-take-ai-at-its-word-06126b976245"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 디자인 · 10.19~10.24",
+      "thread": [
+        {
+          "d": "10.19",
+          "t": "접근성 게이트",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "10.21",
+          "t": "읽기 세금",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "10.23",
+          "t": "검토 대기열",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "10.24",
+          "t": "AI의 설명",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        }
+      ],
+      "thread_note": "만드는 속도를 사람의 확인이 못 따라간다",
+      "eyebrow": "흐름 · 디자인",
+      "headline": "남은 병목은 확인이다",
+      "body": "한 건씩 보면 검증 도구나 연구 소식이다. 이어 보면 같은 얘기다. AI가 만든 것을 사람이 읽고 확인하는 데서 일이 막힌다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.19",
+      "headline": "문법은 맞고 동작은 틀린다",
+      "body": "AI가 짠 모달은 접근성 속성은 붙어도 포커스가 깨진다. 빌드 게이트가 삼 주간 수동 QA가 놓친 회귀 14건을 잡았다.",
+      "foot": "2026.10.19",
+      "_src": "https://dev.to/chloe_chen/enforcing-accessibility-gates-in-component-libraries-plugin87ux-ui-agent-skills-review-4p0i",
+      "_id": "design-a11y-gates",
+      "media": "pipeline/media/design-a11y-gates.png"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.10.21",
+      "headline": "주의력이 다시 병목이다",
+      "body": "에이전트 세션은 시간의 약 80%를 사람을 기다리며 보냈다. 결과물을 다 읽는 일이 곧 읽기 세금이다.",
+      "foot": "2026.10.21",
+      "_src": "https://uxdesign.cc/anthropic-october-2026-study-human-attention-is-the-new-old-bottleneck-d7bc4642668a",
+      "_id": "design-anthropic-attention-bottleneck",
+      "stat_top": "사람 1시간",
+      "stat_arrow": "그동안 에이전트는",
+      "stat_bottom": "6시간"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.23",
+      "headline": "검토가 쌓이는 시니어의 책상",
+      "body": "Nomic 에이전트는 사람이 메일을 보기도 전에 검토에 들어간다. 그 결과를 확인할 시니어 엔지니어 앞에 대기열이 쌓인다.",
+      "foot": "2026.10.23",
+      "_src": "https://aecmag.com/automation/ais-next-bottleneck-is-the-engineers-desk/",
+      "_id": "design-nomic-arcadis-design-review",
+      "media": "pipeline/media/design-nomic-arcadis-design-review.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.24",
+      "headline": "유창한 설명도 틀린다",
+      "body": "Replit 에이전트는 운영 DB를 지운 뒤 롤백이 안 된다고 했다. Lemkin이 그래도 시도하자 롤백은 작동했다.",
+      "foot": "2026.10.24",
+      "_src": "https://uxdesign.cc/can-you-take-ai-at-its-word-06126b976245",
+      "_id": "design-ai-at-its-word",
+      "media": "pipeline/media/design-ai-at-its-word.png"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
