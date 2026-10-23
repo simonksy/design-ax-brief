@@ -1,197 +1,178 @@
 {
- "section": "gadgets",
- "generated_at": "2026-10-22T22:00:32Z",
- "now_iso": "2026-10-22T22:00:32Z",
- "window_hours": 336,
- "items": [
-  {
-   "title": "The Mori Is a Mushroom-Shaped AI Lamp Companion, and I'm Smitten",
-   "url": "https://www.cnet.com/tech/computing/mori-is-a-mushroom-shaped-ai-lamp-companion-and-im-smitten/",
-   "source": "CNET",
-   "category": "gadgets",
-   "published_iso": "2026-10-22T09:00:07-04:00",
-   "excerpt": "The $849 Mori is designed to respond to your environment, knowing when to play and when to stay quiet.",
-   "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-41.jpg"
-  },
-  {
-   "title": "I Went From AI Prompt to 3D-Printed Armor in 18 Hours",
-   "url": "https://www.cnet.com/tech/computing/i-went-from-ai-prompt-to-3d-printed-armor-in-18-hours/",
-   "source": "CNET",
-   "category": "gadgets",
-   "published_iso": "2026-10-22T08:31:36-04:00",
-   "excerpt": "What started off as a dare became a fully fledged app in less than a day",
-   "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/image-19-2.png"
-  },
-  {
-   "title": "Lawsuits Allege Delivery Robots Recorded Biometric Data Without Permission",
-   "url": "https://www.cnet.com/tech/services-and-software/coco-serve-robots-biometric-data-lawsuit/",
-   "source": "CNET",
-   "category": "gadgets",
-   "published_iso": "2026-10-21T19:30:34-04:00",
-   "excerpt": "As delivery robots roll through cities like Chicago, they're fueling fears about unregulated surveillance in public spaces.",
-   "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/Serve-robot-16x9-1.jpg"
-  },
-  {
-   "title": "Pages, Keynote, Numbers just added powerful new AI features",
-   "url": "https://9to5mac.com/2026/10/22/pages-keynote-numbers-just-added-powerful-new-ai-features/",
-   "source": "9to5Mac",
-   "category": "gadgets",
-   "published_iso": "2026-10-22T17:44:43+00:00",
-   "excerpt": "Apple is rolling out AI-centric updates to its iWork suite—Pages, Keynote, Numbers—that include a brand new ‘Intelligent Assistant.’",
-   "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&strip=all&resize=1200,628"
-  },
-  {
-   "title": "Baseus’ New Security Camera Keeps Intruders in the Spotlight",
-   "url": "https://gizmodo.com/baseus-primesentinel-u2-pro-2000828249",
-   "source": "Gizmodo",
-   "category": "gadgets",
-   "published_iso": "2026-10-20T19:00:06+00:00",
-   "excerpt": "The Baseus PrimeSentinel U2 Pro's motorized spotlight focuses on deterrence by following people as they move outside your home.",
-   "og_image": "https://gizmodo.com/app/uploads/2026/10/Baseus-U2-ProSpotlight-1200x675.jpg"
-  },
-  {
-   "title": "Ditch the data center: I fired my cloud chatbot and built a free local AI agent to run on my PC — and you can too",
-   "url": "https://www.tomsguide.com/ai/ditch-the-data-center-i-fired-my-cloud-chatbot-and-built-a-free-local-ai-agent-to-run-on-my-pc-and-you-can-too",
-   "source": "Tom's Guide",
-   "category": "gadgets",
-   "published_iso": "2026-10-22T10:30:00Z",
-   "excerpt": "Tom's Guide walks through replacing a cloud chatbot with a free, locally run AI agent on a home PC, covering the hardware, models and setup needed to keep AI work entirely on-device.",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/doqhdCzqgVbj6K7mL5m6L8-2560-80.jpg"
-  },
-  {
-   "title": "AMD's FSR 4.1 now works on Radeon RX 6000 GPUs, Xbox Series X and S, and Ryzen AI Max, AI 9, and Z2 SoCs — new release brings cutting-edge tech to older hardware with a small performance cost",
-   "url": "https://www.tomshardware.com/pc-components/gpu-drivers/amds-fsr-4-1-now-works-on-radeon-rx-6000-gpus-xbox-series-x-and-s-and-ryzen-ai-max-ai-9-and-z2-socs-new-release-brings-cutting-edge-tech-to-older-hardware-with-a-small-performance-cost",
-   "source": "Tom's Hardware",
-   "category": "gadgets",
-   "published_iso": "2026-10-20T17:47:35Z",
-   "excerpt": "AMD gives older GPUs an image quality boost amid the ongoing AI chip drought",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/FKEfLV3WiguWYAz37vRmyW-2560-80.png"
-  },
-  {
-   "title": "Windows 98 SE users get a Thunderbolt 4 driver, thanks to AI assistance — vibe-coded xHCI98 driver works in Microsoft OSes up to Windows 7",
-   "url": "https://www.tomshardware.com/peripherals/thunderbolt/windows-98-se-users-get-a-thunderbolt-4-driver-thanks-to-ai-assistance-vibe-coded-xhci98-driver-works-in-microsoft-oses-up-to-windows-7",
-   "source": "Tom's Hardware",
-   "category": "gadgets",
-   "published_iso": "2026-10-20T11:30:00Z",
-   "excerpt": "If you've ever wanted to run Windows 98 SE on your mid-2010s or newer PC with fast USB hub support, here's your chance.",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/NoWyHSrvf9AM6sJicvFink-1920-80.jpg"
-  },
-  {
-   "title": "AMD and Intel will work together to create a single PyTorch code path for AI inference on CPUs — x86 rivals fold AMD ZenDNN library into Intel oneDNN to make CPU AI simpler",
-   "url": "https://www.tomshardware.com/pc-components/cpus/amd-and-intel-will-work-together-to-create-a-single-pytorch-code-path-for-ai-inference-on-cpus-amd-zendnn-library-gets-folded-into-intel-onednn-to-make-cpu-ai-simpler",
-   "source": "Tom's Hardware",
-   "category": "gadgets",
-   "published_iso": "2026-10-21T12:00:00Z",
-   "excerpt": "AMD has also joined the UXL Foundation as a steering member.",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/rYe5kJq2zmKffyrHqBDYkE-2560-80.jpg"
-  },
-  {
-   "title": "Nintendo Switch 2 jailbreak breakthrough shows what AI can do, but it’s not a one-click hack",
-   "url": "https://www.digitaltrends.com/gaming/nintendo-switch-2-jailbreak-ai-codex/",
-   "source": "Digital Trends",
-   "category": "gadgets",
-   "published_iso": "2026-10-22T04:58:55-07:00",
-   "excerpt": "The Nintendo Switch 2 has reportedly been jailbroken with help from OpenAI's Codex, opening the door to homebrew and game modding, but limitations remain.",
-   "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/03/DT-100.jpg?resize=1200%2C630&ssl=1"
-  },
-  {
-   "title": "Meta Expands SDKs To Boost Spatial Apps On Quest & VR Glasses, Including NBA, Disney+",
-   "url": "https://www.uploadvr.com/meta-expands-sdks-to-boost-spatial-apps-on-quest-vr-glasses-including-nba-disney/",
-   "source": "UploadVR",
-   "category": "gadgets",
-   "published_iso": "2026-10-20T20:13:53.000Z",
-   "excerpt": "Meta announced new SDKs for spatial apps on Quest and its VR/AI glasses, including a VR Layout SDK it says is optimized to be implemented by an AI coding agent, alongside NBA and Disney+ spatial updates.",
-   "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/10/Thumb22.png"
-  },
-  {
-   "title": "The real reason to care about Vivo's latest phone is the camera [Gallery]",
-   "url": "https://9to5google.com/2026/10/20/vivo-v80-ai-creation-camera-mode/",
-   "source": "9to5Google",
-   "category": "gadgets",
-   "published_iso": "2026-10-20T14:45:00+00:00",
-   "excerpt": "Vivo's AI Creation camera mode isn't just for flagship phones anymore, thanks to the Vivo V80's affordable price.",
-   "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/vivo-ai-creation-vivo-x500.jpg?quality=82&strip=all&resize=1200,628"
-  },
-  {
-   "title": "New AMD Ryzen AI HX 400 series processor leaks with 16-CU GPU",
-   "url": "https://www.notebookcheck.net/New-AMD-Ryzen-AI-HX-400-series-processor-leaks-with-16-CU-GPU.1428292.0.html",
-   "source": "Notebookcheck",
-   "category": "gadgets",
-   "published_iso": "2026-10-19T18:47:00+02:00",
-   "excerpt": "The Ryzen AI 400 series of processors includes only two HX variants for now, and they are both in the Ryzen AI 9 category. A new leak has suggested that a Ryzen AI 7-series HX processor might be on the way.",
-   "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ryzen-ai-400-hx-leak.jpg"
-  },
-  {
-   "title": "XREAL Announces '1 Pro+' Flagship AR Glasses, Now Available & Priced at $599",
-   "url": "https://roadtovr.com/xreal-1-pro-plus-release-date-price/",
-   "source": "Road to VR",
-   "category": "gadgets",
-   "published_iso": "2026-10-15T12:59:00+00:00",
-   "excerpt": "XREAL launched the $599 1 Pro+ AR glasses, a refresh of its One Pro that raises peak brightness to 1,200 nits and adds AI-driven HDR (AI HDR) and faster 2D-to-3D conversion.",
-   "og_image": "https://roadtovr.com/wp-content/uploads/2026/10/1_Pro__Image.jpg"
-  },
-  {
-   "title": "Birdbuddy’s Nook is a compact smart bird feeder for small spaces and budgets",
-   "url": "https://www.theverge.com/tech/1015659/birdbuddy-smart-bird-feeder-2k-camera-home-nook-ai-identification",
-   "source": "The Verge",
-   "category": "gadgets",
-   "published_iso": "2026-10-22T13:00:00+00:00",
-   "excerpt": "The Birdbuddy Nook makes smart feeders more accessible to novice bird-watchers.",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/birdbuddy1.jpg?quality=90&strip=all&crop=0%2C10.722892538964%2C100%2C78.554214922071&w=1200"
-  },
-  {
-   "title": "HomePod Mini 2 (2026) vs. HomePod Mini (2020): Is Siri AI worth the upgrade?",
-   "url": "https://www.zdnet.com/home-and-office/homepod-mini-2-2026-vs-homepod-mini-2020/",
-   "source": "ZDNET",
-   "category": "gadgets",
-   "published_iso": "2026-10-19T11:39:57-04:00",
-   "excerpt": "There are a few notable upgrades, including Siri AI support, but your original HomePod Mini may still do almost everything you need.",
-   "og_image": "https://www.zdnet.com/wp-content/uploads/sites/3/homepod_e77658.jpg"
-  },
-  {
-   "title": "Apple TV 4K (2026) vs Apple TV 4K (2022): Is ‘Hey Siri’ worth twice the price?",
-   "url": "https://www.zdnet.com/home-and-office/apple-tv-4k-2026-vs-apple-tv-4k-2022/",
-   "source": "ZDNET",
-   "category": "gadgets",
-   "published_iso": "2026-10-19T15:00:42-04:00",
-   "excerpt": "The new Apple TV 4K costs twice as much as the previous model, but is it worth the price?",
-   "og_image": "https://www.zdnet.com/wp-content/uploads/sites/3/ATv.jpg"
-  },
-  {
-   "title": "I changed one llama.cpp flag, and my 8GB laptop GPU now runs a 35B model faster than I can read",
-   "url": "https://www.xda-developers.com/i-stopped-thinking-my-8gb-gpu-was-too-small-after-learning-to-offload-moe-llm-layers-to-ram/",
-   "source": "XDA Developers",
-   "category": "gadgets",
-   "published_iso": "2026-10-22T20:30:21Z",
-   "excerpt": "XDA shows how offloading mixture-of-experts layers to system RAM with a single llama.cpp flag lets an 8GB laptop GPU run a 35B local LLM faster than reading speed.",
-   "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/main-llama-cpp-8gb-laptop.jpg?w=1600&h=900&fit=crop"
-  },
-  {
-   "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
-   "url": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
-   "source": "Ars Technica",
-   "category": "gadgets",
-   "published_iso": "2026-10-16T19:11:50+00:00",
-   "excerpt": "A bug caused Ray-Ban Meta glasses to save audio recordings and transcripts of conversations to the Meta AI app without wearers saying 'Hey Meta'; Meta says it is fixed, but privacy concerns remain.",
-   "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/unnamed-1-875x648.jpg"
-  },
-  {
-   "title": "Amazon Prime comes with an Alexa upgrade you should know about",
-   "url": "https://www.engadget.com/2288734/amazon-prime-alexa-upgrade-you-should-know-about/",
-   "source": "Engadget",
-   "category": "gadgets",
-   "published_iso": "2026-10-20T13:45:00+00:00",
-   "excerpt": "Alexa+ is now free for all Amazon Prime members, and they can access the upgrade via their Echo Show and Dot devices, their tablets, the app and on the web.",
-   "og_image": "https://www.engadget.com/img/gallery/amazon-prime-comes-with-an-alexa-upgrade-you-should-know-about/l-intro-1792159763.jpg"
-  },
-  {
-   "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
-   "url": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
-   "source": "WIRED",
-   "category": "gadgets",
-   "published_iso": "2026-10-22T13:00:00.000Z",
-   "excerpt": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.",
-   "og_image": "https://media.wired.com/photos/6ad73249e71bc9cefa5d514d/191:100/w_1280,c_limit/OKA_MORI_Companion_EveningWorkAtLaptop.jpg"
-  }
- ]
+  "section": "gadgets",
+  "generated_at": "2026-10-23T22:00:00Z",
+  "window_hours": 336,
+  "items": [
+    {
+      "title": "INMO GO3 smart glasses pack a display and Gemini integration with clever camera privacy",
+      "url": "https://9to5google.com/2026/10/21/inmo-go3-smart-glasses-pack-a-display-and-gemini-integration-with-clever-camera-privacy/",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "published_iso": "2026-10-21T22:45:00Z",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/inmo-go3-1.png?resize=1200,628",
+      "excerpt": "There are two problems with smart glasses today. Most don’t deliver that futuristic display we all want to have, and..."
+    },
+    {
+      "title": "I needed a dashcam while out running. Meta glasses turned out to be the answer",
+      "url": "https://9to5google.com/2026/10/23/i-needed-a-dashcam-while-out-running-meta-glasses-turned-out-to-be-the-answer/",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "published_iso": "2026-10-23T15:45:44Z",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/meta-nova-glasses-camera-01.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Dashcams are becoming more and more common in cars, but what about for pedestrians? Meta Glasses are the answer I was looking for."
+    },
+    {
+      "title": "The real reason to care about Vivo's latest phone is the camera [Gallery]",
+      "url": "https://9to5google.com/2026/10/20/vivo-v80-ai-creation-camera-mode/",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "published_iso": "2026-10-20T14:45:00Z",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/vivo-ai-creation-vivo-x500.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Vivo's AI Creation camera mode isn't just for flagship phones anymore, thanks to the Vivo V80's affordable price."
+    },
+    {
+      "title": "Pages, Keynote, Numbers just added powerful new AI features",
+      "url": "https://9to5mac.com/2026/10/22/pages-keynote-numbers-just-added-powerful-new-ai-features/",
+      "source": "9to5Mac",
+      "category": "gadgets",
+      "published_iso": "2026-10-22T17:44:43Z",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Apple is rolling out AI-centric updates to its iWork suite—Pages, Keynote, Numbers—that include a brand new ‘Intelligent Assistant.’"
+    },
+    {
+      "title": "My experience suggests Apple Glasses will only be for existing eyeglass wearers",
+      "url": "https://9to5mac.com/2026/10/23/my-experience-suggests-apple-glasses-will-only-be-for-existing-eyeglass-wearers/",
+      "source": "9to5Mac",
+      "category": "gadgets",
+      "published_iso": "2026-10-23T16:00:00Z",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-glasses.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "No, I haven’t managed to get my hands on a prototype pair of Apple Glasses, but I now have experience..."
+    },
+    {
+      "title": "Samsung's first Android XR glasses face a design problem its competitor already solved",
+      "url": "https://www.androidauthority.com/samsung-smart-glasses-face-problem-ray-ban-meta-solved-3725475/",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-10-21T09:00:33Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-scaled.jpg",
+      "excerpt": "Samsung and Google's first smart glasses are due soon, but we've yet to see normal people wearing them. It's a serious problem."
+    },
+    {
+      "title": "I've never owned smart glasses, but Samsung's Android XR glasses may change that",
+      "url": "https://www.androidauthority.com/samsung-xr-glasses-hype-3721541/",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-10-22T10:30:34Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/01/Samsung-logo-sign-CES-2025.jpg",
+      "excerpt": "We still don't know all the details, but I'm starting to think Samsung's Android XR glasses might actually be worth considering."
+    },
+    {
+      "title": "A New Bird-Recognizing Feeder Under $100 Launches for Beginner Bird-Watchers",
+      "url": "https://www.cnet.com/home/yard-and-outdoors/bird-feeder-ai-recognition-under-100-beginner-birdwatchers/",
+      "source": "CNET",
+      "category": "gadgets",
+      "published_iso": "2026-10-22T23:34:44Z",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/Birdbuddy-Nook.jpg",
+      "excerpt": "Birdbuddy's latest feeders offer free AI bird-species detection at the lowest prices ever. Here's what you get."
+    },
+    {
+      "title": "AI can describe a picture, but it still struggles to understand blind users",
+      "url": "https://www.digitaltrends.com/cool-tech/ai-apps-blind-users-umd-study/",
+      "source": "Digital Trends",
+      "category": "gadgets",
+      "published_iso": "2026-10-23T19:50:40Z",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Blind-Man-using-walking-stick.jpg?resize=1200%2C630&ssl=1",
+      "excerpt": "A University of Maryland study finds that Be My AI often gives blind users lengthy answers instead of the specific visual information they need."
+    },
+    {
+      "title": "Microsoft pulls eight Copilot actions from Windows 11 File Explorer",
+      "url": "https://www.notebookcheck.net/Microsoft-pulls-eight-Copilot-actions-from-Windows-11-File-Explorer.1432095.0.html",
+      "source": "Notebookcheck",
+      "category": "gadgets",
+      "published_iso": "2026-10-23T07:21:00Z",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/windows-11-copilot-explorer-teaser.jpg",
+      "excerpt": "Microsoft is removing eight Copilot actions from the right-click menu for OneDrive files in Windows 11, including Summarize, Compare Files and Extract text. The retirement starts in mid-November and should be complete by early December. Ask Copilot stays in the menu, and the individual actions remain available in the OneDrive activity center."
+    },
+    {
+      "title": "Timekettle expands offline translation for W4 earbuds with 12 new language pairs",
+      "url": "https://www.notebookcheck.net/Timekettle-expands-offline-translation-for-W4-earbuds-with-12-new-language-pairs.1429989.0.html",
+      "source": "Notebookcheck",
+      "category": "gadgets",
+      "published_iso": "2026-10-21T12:37:00Z",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/TimeKettle.png",
+      "excerpt": "Timekettle's translation earbuds are getting a little more multilingual. A new software update adds 12 offline language pairs to the existing W4 Pro and W4 Plus models, making them more useful when Wi-Fi and mobile data decide to disappear at the worst possible moment."
+    },
+    {
+      "title": "Snap Enlists Iron Man Star Robert Downey Jr. to Develop SPECS Experiences",
+      "url": "https://roadtovr.com/robert-downey-jr-snap-specs-iron-man/",
+      "source": "Road to VR",
+      "category": "gadgets",
+      "published_iso": "2026-10-21T11:50:03Z",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/10/rdj-snap-specs.jpg",
+      "excerpt": "Snap announced that actor and producer Robert Downey Jr. will work alongside the company’s augmented reality team to develop original content, Lens experiences, hardware collaborations, and more for its SPECS AR glasses. The News Robert Downey Jr. has joined the company’s Specs team as honorary Chief Customer Experience Officer (CCEO), which the company says will […]"
+    },
+    {
+      "title": "'Literally never in my life wanted a tool like Recall or this version of it': Windows 11 has a reined-in alternative to Recall in testing, but some people still hate the idea",
+      "url": "https://www.techradar.com/computing/windows/windows-11-could-get-a-very-different-take-on-recall-but-context-vault-feature-doesnt-seem-likely-to-persuade-ai-skeptics",
+      "source": "TechRadar",
+      "category": "gadgets",
+      "published_iso": "2026-10-23T10:55:33Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/5KK2m2A35afwd8WgVU2hVX-2560-80.jpg",
+      "excerpt": "A classic case of 'solving a problem that doesn't exist': Windows 11 could get an alternative to Recall, but AI skeptics still aren't fans."
+    },
+    {
+      "title": "Your Mac has a free AI chatbot hiding in plain sight — here's how to use it",
+      "url": "https://www.tomsguide.com/ai/your-mac-has-a-free-ai-chatbot-hiding-in-plain-sight-heres-how-to-use-it",
+      "source": "Tom's Guide",
+      "category": "gadgets",
+      "published_iso": "2026-10-23T04:45:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/CEfpKe7hvMUcn5xC89RJWb-1920-80.jpg",
+      "excerpt": "It's local and free — but it's not available on every Mac"
+    },
+    {
+      "title": "How AI worms could threaten cars and drones — and turn cyberattacks into physical danger",
+      "url": "https://www.tomsguide.com/ai/a-cyber-compromise-could-potentially-translate-into-unsafe-physical-behavior-how-ai-worms-could-threaten-cars-and-drones",
+      "source": "Tom's Guide",
+      "category": "gadgets",
+      "published_iso": "2026-10-23T06:30:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/XBT6kL6LrAHtSJr8dVCzJN-2560-80.jpg",
+      "excerpt": "Giuseppe Serio, VP Market Development at Upstream, gives his thoughts on Anthropic’s study on AI-powered malware and the potential dangers it could bring."
+    },
+    {
+      "title": "Razer Basilisk V4 Pro Review: Tried and true and now with AI",
+      "url": "https://www.tomshardware.com/peripherals/gaming-mice/razer-basilisk-v4-pro-review",
+      "source": "Tom's Hardware",
+      "category": "gadgets",
+      "published_iso": "2026-10-23T16:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/WLV3Dh2bAiKLgohuRRaYY9-2560-80.jpg",
+      "excerpt": "It's the Basilisk you know and love, plus an AI prompt button."
+    },
+    {
+      "title": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
+      "url": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight",
+      "source": "The Verge",
+      "category": "gadgets",
+      "published_iso": "2026-10-20T04:00:00Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/baseus1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "Smile for the camera."
+    },
+    {
+      "title": "Kids Probably Shouldn’t Plan on Wearing Smart Glasses to School",
+      "url": "https://gizmodo.com/smart-glasses-school-ban-victoria-2000829323",
+      "source": "Gizmodo",
+      "category": "gadgets",
+      "published_iso": "2026-10-22T15:20:32Z",
+      "og_image": "https://gizmodo.com/app/uploads/2025/09/ray-ban-meta-gen-1-06-1200x675.jpg",
+      "excerpt": "Wholesale bans of smart glasses in schools are becoming increasingly popular."
+    },
+    {
+      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+      "source": "Ars Technica",
+      "category": "gadgets",
+      "published_iso": "2026-10-14T12:55:06Z",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-caution-threat-1152x648.jpg",
+      "excerpt": "Small weight-based replicators\" could usher in a new generation of computer worms."
+    }
+  ]
 }

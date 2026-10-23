@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "issue": "Meta 안경의 대항마들",
+    "date": "2026.10.23",
+    "section": "GADGETS",
+    "accent": "#ff5a4d",
+    "note": "Meta가 주도하는 AI 안경 시장에서 경쟁자들이 사생활·스펙·카메라 없는 안경으로 각자 다른 길을 고른다",
+    "sources": [
+      "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/",
+      "https://gizmodo.com/alibaba-qwen-glasses-n1-2000825793",
+      "https://9to5google.com/2026/10/14/nothing-smart-glasses-report/",
+      "https://www.engadget.com/2288658/even-realities-g2-smart-glasses-review/"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 가젯 · 10.18~10.20",
+      "thread": [
+        {
+          "d": "10.18",
+          "t": "HTC 사생활",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.19",
+          "t": "Qwen 스펙",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.19",
+          "t": "Nothing 2종",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.20",
+          "t": "Even G2",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        }
+      ],
+      "thread_note": "Meta 안경을 따라잡기보다, 각자 다른 이유로 비켜 간다",
+      "eyebrow": "흐름 · 가젯",
+      "headline": "Meta 안경을 비켜 가는 법",
+      "body": "한 건씩 보면 신제품 소식이지만, 이어 보면 경쟁자들이 사생활·스펙·카메라 없는 안경으로 서로 다른 빈자리를 노린다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.18",
+      "headline": "HTC, 사생활로 맞선다",
+      "body": "$499 Vive Eagle은 로그인 없이 ChatGPT·Gemini를 쓰고, 영상은 암호화해 안경 안에만 저장한다.",
+      "foot": "2026.10.18",
+      "_src": "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/",
+      "_id": "gadgets-htcviveeagle",
+      "media": "pipeline/media/gadgets-htcviveeagle.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.19",
+      "headline": "Qwen N1, 스펙으로 앞선다",
+      "body": "$490 Qwen Glasses N1은 50메가픽셀 카메라를 단다. 최신 Ray-Ban Meta(Gen 3)는 12메가픽셀이다.",
+      "foot": "2026.10.19",
+      "_src": "https://gizmodo.com/alibaba-qwen-glasses-n1-2000825793",
+      "_id": "gadgets-qwen-glasses",
+      "media": "pipeline/media/gadgets-qwen-glasses.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.10.19",
+      "headline": "Nothing, 카메라 뺀 안경도",
+      "body": "보도에 따르면 하나는 카메라·ChatGPT를 단 안경, 다른 하나는 카메라 없이 통화·음성 비서만 쓰는 안경이다.",
+      "foot": "2026.10.19",
+      "_src": "https://9to5google.com/2026/10/14/nothing-smart-glasses-report/",
+      "_id": "gadgets-nothing-glasses",
+      "stat_top": "2종",
+      "stat_arrow": "앞선 보도가 짚은 출시 시점",
+      "stat_bottom": "2027년",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.20",
+      "headline": "Even G2, 카메라 없이 띄운다",
+      "body": "알림·길 안내·번역을 시야에 띄우는 $599 안경. Engadget은 링 조작이 자주 빗나간다며 6.9/10을 줬다.",
+      "foot": "2026.10.20",
+      "_src": "https://www.engadget.com/2288658/even-realities-g2-smart-glasses-review/",
+      "_id": "gadgets-even-g2-review",
+      "media": "pipeline/media/gadgets-even-g2-review.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

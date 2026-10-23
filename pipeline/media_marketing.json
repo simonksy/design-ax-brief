@@ -1,7 +1,21 @@
-{"date":"2026-10-23","section":"marketing","media":[
-{"id":"marketing-meta-ai-glowups","type":"image","src":"pipeline/media/marketing-meta-ai-glowups.png"},
-{"id":"marketing-chatgpt-ad-stack","type":"image","src":"pipeline/media/marketing-chatgpt-ad-stack.png"},
-{"id":"marketing-cnn-international-agentic-ads","type":"image","src":"pipeline/media/marketing-cnn-international-agentic-ads.jpg"},
-{"id":"marketing-ai-discovery-reviews","type":"image","src":"pipeline/media/marketing-ai-discovery-reviews.jpg"},
-{"id":"marketing-kobaco-aisac-gambling","type":"image","src":"pipeline/media/marketing-kobaco-aisac-gambling.jpg"}
-]}
+{
+  "date": "2026-10-24",
+  "section": "marketing",
+  "media": [
+    {
+      "id": "marketing-google-gmail-photos-ad-data",
+      "type": "image",
+      "src": "pipeline/media/marketing-google-gmail-photos-ad-data.jpg"
+    },
+    {
+      "id": "marketing-google-ads-sourced-videos",
+      "type": "image",
+      "src": "pipeline/media/marketing-google-ads-sourced-videos.jpg"
+    },
+    {
+      "id": "marketing-etsy-non-ai-image-rule",
+      "type": "image",
+      "src": "pipeline/media/marketing-etsy-non-ai-image-rule.jpg"
+    }
+  ]
+}

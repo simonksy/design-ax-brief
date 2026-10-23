@@ -1,7 +1,28 @@
-{"date":"2026-10-23","section":"medicine","media":[
-{"id":"medicine-genai-device-liability","type":"image","src":"pipeline/media/medicine-genai-device-liability.jpg"},
-{"id":"medicine-sentara-regard-case-ai","type":"image","src":"pipeline/media/medicine-sentara-regard-case-ai.jpg"},
-{"id":"medicine-coreline-neck-ct-lung-cancer","type":"image","src":"pipeline/media/medicine-coreline-neck-ct-lung-cancer.png"},
-{"id":"medicine-llm-choosing-wisely","type":"svg"},
-{"id":"medicine-brainomix-elung-fibrosis","type":"image","src":"pipeline/media/medicine-brainomix-elung-fibrosis.jpg"}
-]}
+{
+  "date": "2026-10-24",
+  "section": "medicine",
+  "media": [
+    {
+      "id": "medicine-nice-prostate",
+      "type": "svg"
+    },
+    {
+      "id": "medicine-ms-diagnosis",
+      "type": "image",
+      "src": "pipeline/media/medicine-ms-diagnosis.jpg"
+    },
+    {
+      "id": "medicine-mfds-aidrug",
+      "type": "image",
+      "src": "pipeline/media/medicine-mfds-aidrug.jpg"
+    },
+    {
+      "id": "medicine-ai-oversight",
+      "type": "svg"
+    },
+    {
+      "id": "medicine-pharmacy-ai",
+      "type": "svg"
+    }
+  ]
+}

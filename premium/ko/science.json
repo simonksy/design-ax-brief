@@ -12953,6 +12953,168 @@
           "x": "온난화는 덜 심한 미래와 더 심한 미래의 격차도 벌렸다. 더 심한 쪽에서는 극한 강우가 평균보다 훨씬 크게 늘었다. 연구는 Climate Dynamics에 실렸다."
         }
       ]
+    },
+    "science/science-whale-dive-codas": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sperm-whales.jpg",
+          "cap": "제공: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Project CETI는 2020년 세워진 비영리 단체다. 50명이 넘는 연구자가 AI와 머신러닝, 고래 친화적 로보틱스로 도미니카 앞바다 향유고래의 의사소통을 해독한다. 책임 연구자는 Northeastern University London의 조반니 페트리(Giovanni Petri)다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 GPS와 수심, 움직임, 심박 센서를 단 태그로 먹이 잠수를 추적한다. 잠수는 약 700미터 깊이까지 45분~1시간 동안 이어진다. 코다라 불리는 리듬감 있는 클릭음은 하이드로폰과 글라이더로 녹음한다. 페트리는 코다를 “작은 단어 같다”고 표현한다."
+        },
+        {
+          "t": "p",
+          "x": "주석 작업은 상당 부분 AI 패턴 인식이 자동으로 처리해 클릭음을 고래별로 나누고, 그 결과를 생물학 팀이 검토한다."
+        },
+        {
+          "t": "p",
+          "x": "음성을 수심·움직임 데이터와 짝지어 분석해 보니, 머신러닝 모델은 코다 8~10개 정도로 고래가 곧 깊은 먹이 잠수에 나설지 예측해 냈다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 코다에서 모음과 비슷한 소리 두 가지를 찾았지만 무슨 뜻인지는 아직 모른다. 고래들이 어둠 속에서 오징어를 찾으려고 서로의 클릭음을 엿들을 가능성도 있다."
+        }
+      ]
+    },
+    "science/science-hallucination-nerd": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/computer-scientists-bu.jpg",
+          "cap": "HallucinationNerd 구조. 출처: Information (2026). DOI: 10.3390/info17111053"
+        },
+        {
+          "t": "p",
+          "x": "NYU 컴퓨터과학자와 학생들이 웹 기반 AI 시스템 두 가지를 만들고, 학술지 Information에 논문 두 편으로 발표했다. 두 프로젝트를 이끈 사람은 NYU Courant Institute 컴퓨터과학 교수 데니스 샤샤(Dennis Shasha)다."
+        },
+        {
+          "t": "p",
+          "x": "Hallucination Nerd는 한 문서가 인용 문헌을 근거로 내세운 주장이 실제 그 문헌으로 뒷받침되는지 확인해 준다. 판정은 Supported(뒷받침됨), Partially Supported(부분적으로 뒷받침됨), Not Supported(뒷받침되지 않음), Contradicted(모순됨), Cited article does not exist(인용 논문 없음), Could not access(접근 불가) 중 하나로 내려진다."
+        },
+        {
+          "t": "p",
+          "x": "Protocol Nerd는 실험 프로토콜을 찾는 실험실 과학자를 위한 도구다. 먼저 질문을 던져 요구 사항을 분명히 한 뒤 프로토콜 여러 개를 내놓고, 각각이 왜 도움이 될 수 있는지, 왜 아닐 수 있는지 설명한다. 지금은 분자생물학과 화학에 집중한다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 Protocol Nerd는 PubMed와 Europe PMC 논문으로, Hallucination Nerd는 arXiv 논문으로 시험했고, 두 시스템을 기존 시스템과 견줘 봤다."
+        },
+        {
+          "t": "p",
+          "x": "“이전 연구를 정확하고 효율적으로 평가하면 이후의 관련 연구는 나아질 수밖에 없습니다.” 샤샤의 말이다."
+        }
+      ]
+    },
+    "science/science-forty-forest-map": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/WGEFKF0mS4Mon9B5jZmraPj5UVTfZ0HtW0VXaLS0Ijm67blWFirP4Opi5IX6QLWEbq9MSQituskRlxKgUpGfD8-C6kIbe7etM9bTbvLg3rmG5gTkwc4=w1440-h810-n-nu"
+        },
+        {
+          "t": "p",
+          "x": "Google DeepMind와 Google Research가 World Resources Institute, IIASA와 함께 Forest Typology(ForTy) 2020을 공개했다. 육지의 10-by-10-meter(가로세로 10미터) 구획을 하나도 빠짐없이 6개 숲·토지 이용 유형으로 나눈 전 세계 지도다. 2017년부터 2025년까지 해마다 변화를 추적한 초기 시계열도 함께 담겼다."
+        },
+        {
+          "t": "p",
+          "x": "6개 유형은 원시림, 자연 재생림, 조림지, 플랜테이션림, 수목 작물과 혼농임업, 기타 토지다."
+        },
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/wAQ6wnzu6Lr-VMuS6ielTWpKEcpB2PkjN0XTdby80-NtefdPj9-ZKCrVPk-CSPuZ6GN8B4sScphV7sUd9dwrgprBrijy8wj3Z9fIv7eg2QAcMUMGPA=w1440-h810-n-nu",
+          "cap": "2020년 Forest Typology 지도. 각 색은 1제곱킬로미터마다 가장 흔한 숲 또는 토지 유형을 나타낸다."
+        },
+        {
+          "t": "p",
+          "x": "모델은 라벨이 붙은 지점 약 170만 개로 학습했고, 핵심 입력으로 AlphaEarth Foundations 임베딩을 쓴다."
+        },
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/l0vzsdd-HHJUPQaQCHx4yzAOG-ULvQ20EM0HypoHdYpj-LMesy8I_dHhGwGtxjY1mRfa44OkiD_An7SgiHHXfaKQhgelgfZcdHWd9aPLGg_0wGyshw=w1440-h810-n-nu",
+          "cap": "위에서 내려다보면 5개 숲·수목 작물 유형은 서로 비슷해 보일 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "무작위로 고른 지점 9,000곳 이상으로 검증해 보니 ForTy는 숲 유형을 90% 맞혔고, 숲과 비(非)숲은 95% 구분했다."
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/wbSzS_gEiCrn4Dc1/Figure4_light_1.mp4"
+        },
+        {
+          "t": "p",
+          "x": "지도와 시계열은 오픈 라이선스로 Google Earth Engine에서 무료로 이용할 수 있다."
+        }
+      ]
+    },
+    "science/science-quantum-circuit-kaggle": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Google-Image.png"
+        },
+        {
+          "t": "p",
+          "x": "Google Quantum AI가 인공지능으로 양자 회로를 줄이는 대회를 연다. 유용한 양자 컴퓨팅에 필요한 회로가 대상이고, 총상금은 $150,000이다."
+        },
+        {
+          "t": "p",
+          "x": "대회는 Kaggle에서 열린다. 핵융합 에너지, 수학적 최적화, 화학 관련 과제에 필요한 연산 단계와 큐비트 수를 줄이는 것이 목표다."
+        },
+        {
+          "t": "p",
+          "x": "대회에는 Google Qualtran 프로젝트의 오픈소스 라이브러리 kickmix가 쓰인다. kickmix 회로는 일반 컴퓨터 단일 코어에서 초당 600억 게이트 속도로 무작위 퍼즈 테스트를 돌려 검증할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Google은 자사 Gemini 모델로 내부 실험을 해 보니 세 벤치마크 모두에서 이미 지금까지 보고된 회로보다 나은 결과를 얻었다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "상금에는 세 과제마다 최고 점수에 주는 $10,000가 들어 있다."
+        }
+      ]
+    },
+    "science/science-navier-stokes-proof": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/676cb480-a9d0-4bb0-a42f-466e549cfa5c/ink-clash.jpg?m=1792683756.522&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "9월 8일 OpenAI는 Navier-Stokes를 풀었다고 발표했다. Clay Mathematics Institute가 $1 million 상금을 건 Millennium Prize Problems 일곱 개 가운데 하나다. 바로 직전 N.Y.U. 수학자 Tristan Buckmaster가 이 회사가 자기 연구를 훔친 것 같다고 공개 비판한 참이었다."
+        },
+        {
+          "t": "p",
+          "x": "Buckmaster는 Anthropic 수학자 Levent Alpöge와 함께 Anthropic과 OpenAI 모델을 섞어 쓰며 프롬프트를 주던 중이었다. 8월 15일 Claude가 Euler 방정식의 폭발을 끌어냈고, 8월 22일에는 그 증명이 Lean 검증을 통과했다."
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/f24c2ce2-1fe8-47ba-b469-5397351e6a59/lecture-collage.jpeg?m=1792685495.812&w=900",
+          "cap": "OpenAI와 부딪친 뒤 Buckmaster가 처음 연 공개 강연. N.Y.U. Warren Weaver Hall 109호에 선 채로 듣는 청중이 가득했다."
+        },
+        {
+          "t": "p",
+          "x": "소문에 놀란 OpenAI 팀은 새 내부 모델을 여럿 복제해 미해결 Millennium Problems에 붙였다. 에이전트 100개 분대가 독자적인 Euler 증명을 내놓았고, 이어 에이전트 10,000개 무리가 Navier-Stokes를 풀었다. 이 무리가 컴퓨팅에 쓴 돈은 $15 million 으로 알려졌다."
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/6a2f980d-9a8d-4ea5-8bfa-5220f1bf13f4/buckmaster-portrait.jpg?m=1792684575.161&w=900",
+          "cap": "N.Y.U. Courant Institute의 수학자 Tristan Buckmaster."
+        },
+        {
+          "t": "p",
+          "x": "전문가들은 이제 이 무리의 Navier-Stokes 증명이 독자적인 경로를 밟았다고 본다. Buckmaster는 OpenAI가 자기 진전에 기댔다고 여전히 믿고, OpenAI는 강하게 부인한다. 이번 일은 LLMs가 사람의 이해보다 빠르게 결과를 증명해 내고 있다는 경고다."
+        }
+      ]
     }
   }
 }

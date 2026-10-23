@@ -7754,6 +7754,172 @@
           "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie-editor.jpg?width=1600&height=1000&name=eddie-editor.jpg"
         }
       ]
+    },
+    "movies/movies-continuum-2027": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Continuum推出2027版更新，带来新特效、对常用功能的改进以及许多实用的新增内容。"
+        },
+        {
+          "t": "p",
+          "x": "最大的更新之一来自Boris FX的粒子特效制作工具Particle Illusion。新的Sim Speed滑块只需一个控件即可加快或放慢整段粒子动画，新的图像缓存系统和更流畅的预览则提升了性能。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/ParticleIllusion-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "在Continuum 2027中，人工智能继续改进多款工具，尤其是用于分离人物、清理边缘和制作更好遮罩的工具。此次更新并未引入全新的AI工作流程，而是专注于改进已有工具。"
+        },
+        {
+          "t": "p",
+          "x": "BCC+ Face ML新增三个模型选项，这些选项也将加入此前依赖椭圆遮罩来分离人脸的BCC+ Witness Protection。BCC+ Matte Refine ML的Adobe版本获得新的2.1模型，旨在生成更干净、逐帧更一致的边缘。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/BCC-Face-ML.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Vector Blur、Curl、Bulge、Wave和Time Displacement等经典特效以支持GPU加速的新版BCC+框架回归。新工具包括BCC+ Noise Map Studio、BCC+ Grid和BCC Text，后者让2D文字的制作和动画变得容易得多。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/BCC-Type.jpg"
+        },
+        {
+          "t": "p",
+          "x": "来自Mocha 2026.5的更新新增了Object Brush预览，并改进了Matte Assist和Refine Matte。Boris FX还提升了Premiere Pro中的性能，改进了GPU处理，新增8种语言支持以及500多个新预设。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/Mocha.jpg"
+        }
+      ]
+    },
+    "movies/movies-lux-meridian": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081596-lux1.jpg?itok=h4bgwguu",
+          "cap": "Lux Meridian."
+        },
+        {
+          "t": "p",
+          "x": "Territory Studio联合创始人David Sheldon-Hicks和Nick Glover于2022年成立了Territory Group。Lux Meridian的创始团队曾参与Avatar、Spider-Man: Brand New Day和Dune等系列作品。"
+        },
+        {
+          "t": "p",
+          "x": "Lux Meridian并非以AI技术公司的身份运营，而是一家制作工作室，开发和交付将AI-native工作流与成熟电影制作方式相结合的原创电影和电视内容。"
+        },
+        {
+          "t": "p",
+          "x": "“生成一张惊艳的图像是一回事，交付一部导演愿意为之背书的电影是另一回事，”Territory Group CEO Sheldon-Hicks说，“我们将数十年的Hollywood制作经验与新兴AI技术相结合，在不牺牲叙事、质量或制作标准的前提下，给电影人更大的创作自由。”"
+        },
+        {
+          "t": "p",
+          "x": "该工作室还借助与Adobe的Firefly Foundry的合作。Firefly Foundry项目利用经授权的专有创意素材构建定制生成式AI模型。电影人用这些模型开发原创角色、场景和电影世界，同时保有艺术控制权并保护自己的知识产权。"
+        },
+        {
+          "t": "p",
+          "x": "Lux Meridian已与Adobe在Brad Peyton执导的Dark Zone上尝试这一方法，为一个几乎没有现成训练素材可用的原创电影项目开发专有AI模型。"
+        },
+        {
+          "t": "p",
+          "x": "成立之初，该工作室便带来与一家Hollywood大型制片厂为期一年的内容合作，以及与多位知名Hollywood导演的开发合作。"
+        }
+      ]
+    },
+    "movies/movies-koreeda-ai-notes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/05/koreeda.jpg?w=1000&h=563&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "Kore-eda Hirokazu曾把自己的AI-themed Cannes参展片《Sheep in the Box》的剧本交给一个生成式AI聊天机器人审阅，但他认定，一个与电影没有任何个人渊源的东西给出的意见对他毫无用处，于是放弃了它。"
+        },
+        {
+          "t": "p",
+          "x": "影片设定在不久的将来，讲述一对夫妇在7岁儿子两年前去世后，收养了一个用儿子数据打造的人形机器人。"
+        },
+        {
+          "t": "p",
+          "x": "“它夸了我很多。夸了一大堆，然后说类似‘不过，如果把主角的母亲再写得丰满一点，会是一部更好的电影’这样的话。它说得没错，”Kore-eda对Variety说，“但它永远只说正确的话。我想知道，究竟是什么让这一切如此无聊。”"
+        },
+        {
+          "t": "p",
+          "x": "“一个人看过的电影再少，口味再偏，只要他有一部改变了自己人生的电影，他的意见最终会带来更有趣的作品，”Kore-eda说，“几轮下来，我对此深信不疑，于是就此结束了我们的关系。”"
+        },
+        {
+          "t": "p",
+          "x": "他在这部电影中没有使用AI。“不是因为我们应该这样做，而是因为这样有趣，”他说，“同样，创作这件事本身就是有趣的。我想站在人类这一边。所以我打算尽可能不让AI进入创作过程。”"
+        },
+        {
+          "t": "p",
+          "x": "Kore-eda还指出，日本被称为“迷你影院”的独立艺术影院正接连关闭。“这些影院消失后，下一代电影人要如何成长？”"
+        }
+      ]
+    },
+    "movies/movies-genz-ai-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/10/Fruit_Love_Island.png?w=831&h=531&crop=1",
+          "cap": "AI生成（AI-generated）的TikTok系列《Fruit Love Island》"
+        },
+        {
+          "t": "p",
+          "x": "如今最令人费解地走红的AI垃圾内容之一是《Fruit Love Island》。这部AI生成（AI-generated）的TikTok恶搞系列中，拟人化的水果在60秒的《Love Island》仿作里调情、交际。它持续更新，播放量达数千万。"
+        },
+        {
+          "t": "p",
+          "x": "UCLA与Center for Scholars and Storytellers发布的一项新研究《Rewrite This! How Gen Z and Gen Alpha are Redefining Modern Storytelling》显示，虽然多数年轻人其实对人工生成的内容和故事持正面看法，但随着如今的孩子长大，他们的感受出现了明显变化。"
+        },
+        {
+          "t": "p",
+          "x": "研究发现，10至24岁人群中有53.8%表示感到“着迷”或“兴奋”，只有32.1%使用了“绝望”或“害怕”的说法。18至24岁人群中有27.4%使用“绝望”一词，而10至13岁人群仅为9.7%，14至18岁人群为25.1%。10至13岁人群中近一半在观看AI内容时感到“兴奋”。"
+        },
+        {
+          "t": "p",
+          "x": "受访者对AI的许多感受来自社交媒体信息流中的AI原生（AI-native）视频，包括ReelShort、DramaBox、Drama Wave和Pocket Films推出的竖屏微短剧形式的AI肥皂剧。"
+        },
+        {
+          "t": "p",
+          "x": "这项研究并未得出宏大的结论，但它表明Z世代与正在成长的Alpha世代之间可能存在代沟，后者对AI的感受或许不同，看法也比其他年轻人更为正面。"
+        }
+      ]
+    },
+    "movies/movies-hunger-games-ai-adr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/10/RP_A1423_ada1cd.jpg?w=1200"
+        },
+        {
+          "t": "p",
+          "x": "AI正持续进入制片厂电影的后期制作环节，但“Hunger Games”系列制片人Nina Jacobson仍将其视为“艺术家的工具”，而“不是替代品”。"
+        },
+        {
+          "t": "p",
+          "x": "Jacobson在洛杉矶举行的IndieWire Future of Filmmaking Summit上与IndieWire主编Brent Lang对谈时表示，团队用模拟演员声音的AI来测试前传《Sunrise on the Reaping》的新台词念法。这些台词随后会在传统的自动对白替换（ADR）流程中由演员录制。"
+        },
+        {
+          "t": "p",
+          "x": "“我们非常明确地把[AI]当作工具使用——在制作中，在后期制作中——同时从未用它取代我们的任何艺术家或银幕上的任何内容，”Jacobson说，“[AI]是做ADR的好工具。”"
+        },
+        {
+          "t": "p",
+          "x": "“它们可以复制声音……但我们依然绝不会使用，因为那不是我们的演员，”她接着说，“台词我们会找编剧。我不会问Claude：‘他们该说什么？’”"
+        },
+        {
+          "t": "p",
+          "x": "《Sunrise on the Reaping》将由Lionsgate于11月20日在影院上映，是根据Suzanne Collins青少年小说系列改编的第六部电影。"
+        }
+      ]
     }
   }
 }

@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "issue": "학습 데이터 소송, Anthropic까지",
+    "date": "2026.10.23",
+    "section": "MUSIC",
+    "accent": "#eb367f",
+    "note": "AI 음악 학습 데이터 소송이 Suno를 넘어 투자사와 Anthropic까지 번진다",
+    "sources": [
+      "https://www.musicbusinessworldwide.com/sony-and-universal-ask-court-to-force-suno-investor-lightspeed-to-testify-about-the-legal-risk-of-training-data/",
+      "https://www.digitalmusicnews.com/2026/10/22/reservoir-media-suno-anthropic-lawsuit/",
+      "https://completemusicupdate.com/claudes-lyrics-are-diluting-real-lyrics-say-music-publishers-in-latest-anthropic-proceedings/"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "3건 · 음악 · 10.20~10.23",
+      "thread": [
+        {
+          "d": "10.20",
+          "t": "Lightspeed",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "10.23",
+          "t": "Reservoir",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "10.23",
+          "t": "Claude 가사",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        }
+      ],
+      "thread_note": "AI 음악 학습 데이터 소송이 Suno를 넘어 투자사와 Anthropic까지 번진다",
+      "eyebrow": "흐름 · 음악",
+      "headline": "소송은 Suno 밖으로 번진다",
+      "body": "한 건씩은 각기 다른 재판이지만, 이어 보면 레이블과 출판사가 학습 데이터를 두고 투자사와 Claude까지 법정으로 부른다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.20",
+      "headline": "Suno 투자사도 법정으로",
+      "body": "UMG·Sony가 Suno의 Series B를 주도한 Lightspeed에 학습 데이터의 법적 위험을 두고 증언을 요구했다.",
+      "foot": "2026.10.20",
+      "_src": "https://www.musicbusinessworldwide.com/sony-and-universal-ask-court-to-force-suno-investor-lightspeed-to-testify-about-the-legal-risk-of-training-data/",
+      "_id": "music-suno-lightspeed-subpoena",
+      "media": "pipeline/media/music-suno-lightspeed-subpoena.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.23",
+      "headline": "Suno·Anthropic 동시 피소",
+      "body": "Reservoir가 Suno에 약 2억 달러, Anthropic에도 비슷한 소송을 냈다. 합쳐 약 $340M 규모다.",
+      "foot": "2026.10.23",
+      "_src": "https://www.digitalmusicnews.com/2026/10/22/reservoir-media-suno-anthropic-lawsuit/",
+      "_id": "music-reservoir-suno-anthropic",
+      "media": "pipeline/media/music-reservoir-suno-anthropic.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.23",
+      "headline": "“Claude 가사가 시장 희석”",
+      "body": "UMG 등 출판사는 Claude가 6개월간 합성 가사 요청을 12만 건 가까이 받았다며 시장 희석을 주장했다.",
+      "foot": "2026.10.23",
+      "_src": "https://completemusicupdate.com/claudes-lyrics-are-diluting-real-lyrics-say-music-publishers-in-latest-anthropic-proceedings/",
+      "_id": "music-anthropic-lyrics-dilution",
+      "media": "pipeline/media/music-anthropic-lyrics-dilution.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 5
+    }
+  ]
+}

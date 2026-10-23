@@ -3468,6 +3468,145 @@
           "x": "\"Voters deserve to know that the campaign content they see and hear is real,\" Brown said. The bill has been introduced and has not been voted on."
         }
       ]
+    },
+    "politics/politics-china-eu-ai-alliance": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.rapporteur.com/content/uploads/2026/10/GettyImages-2220455774-1183x788.jpg",
+          "cap": "Cheng Xin via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "China offered the European Commission a place in its international AI alliance, Rapporteur has learned, after the EU executive recently informed EU governments of Beijing’s offer."
+        },
+        {
+          "t": "p",
+          "x": "This summer, China founded the World Artificial Intelligence Cooperation Organisation (WAICO), which aims to promote international cooperation on AI. 28 other countries joined at the outset, reportedly including Russia, Indonesia and Kazakhstan. On Tuesday, the Commission informed national experts of Beijing’s offer, according to three diplomats briefed on the talks."
+        },
+        {
+          "t": "p",
+          "x": "The Commission did not comment when Rapporteur sought confirmation, nor specify whether it had replied to the offer. The Chinese mission to the EU did not reply. No EU country is reported to have joined WAICO; Germany’s digital ministry said in August it had no plans to do so."
+        },
+        {
+          "t": "p",
+          "x": "The US established its own international tech organisation, Pax Silica, late last year, officially to secure the global supply chain for AI. The Commission signed it this summer on behalf of the entire EU. In August, Reuters reported Washington was set to warn signatories to Pax Silica’s AI opportunity portion that they couldn’t also be part of WAICO."
+        }
+      ]
+    },
+    "politics/politics-washington-pac-ai-mailer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/Vo2eMXhxWEvj2QrQQgILjpQl52s=/0x0:1920x1080/1366x768/2026/10/22/1792696811856.jpeg",
+          "cap": "A screenshot of a mailer in Washington's 42nd Legislative District cited in a cease-and-desist letter. Source: Letter from Washington Senate Democratic Campaign"
+        },
+        {
+          "t": "p",
+          "x": "Washington Senate Democrats are accusing a Republican-backed political action committee of using AI in a campaign ad without the disclosure required by law, an early test of a 2023 state law that lets candidates sue over \"synthetic\" media."
+        },
+        {
+          "t": "p",
+          "x": "The Washington Senate Democratic Campaign sent an Oct. 8 cease-and-desist letter to WA Wins, a PAC affiliated with state Senate Republicans, over a mailer depicting Democratic state Senate candidate Michael Shepard holding a lit match to a person's back pocket as money spills out. Democratic attorneys allege Shepard's photograph was inserted into a fabricated scene; the mailer has no disclosure that the image was manipulated, the letter says."
+        },
+        {
+          "t": "p",
+          "x": "State Sen. Chris Gildon (R-Puyallup), the listed officer for WA Wins, told Axios the ad is \"standard campaign mail of a type used by both sides in every election cycle.\" \"No one on Earth believes Michael Shepard is literally lighting people's pants on fire,\" Gildon said."
+        },
+        {
+          "t": "p",
+          "x": "To prevail under the law, a candidate must prove by clear and convincing evidence that the material realistically depicted something that did not occur; a clear disclosure gives the advertiser an affirmative defense. The Wesleyan Media Project found $137 million had been spent on 220 AI-generated ads nationwide through Oct. 11, mostly from Republicans."
+        }
+      ]
+    },
+    "politics/politics-digital-omnibus-council": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt3b5d46d26617b19a/6ada3b30f48de12fbed8c4fd/eu-flags-below-eu-062325.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The Irish Presidency of the Council of the European Union announced an agreement on EU member states' negotiating position for the proposed Digital Omnibus aimed at amending and simplifying the EU's digital rulebook, including the GDPR, the ePrivacy Directive and more."
+        },
+        {
+          "t": "p",
+          "x": "The council agreed to maintain the GDPR's existing definition of personal data, holding firm against a Commission proposal to amend Article 4(1), and introduced an amendment outlining pseudonymization standards. Its mandate also includes new safeguards on sensitive data to allow its use in biometric verification and AI model training, plus \"clarifications on the lawful ground for processing personal data\" in the context of AI training data."
+        },
+        {
+          "t": "p",
+          "x": "On cookies, the mandate lays out instances where consent would not be required, including when \"necessary for the provision of a service, for the purpose of audience measurement or for ensuring the security of the user's device.\" On incident reporting, it favors national portals over the Commission's proposed single EU-level entry point."
+        },
+        {
+          "t": "p",
+          "x": "The Commission first unveiled the omnibus in November 2025. Institutions can proceed to trilogue negotiations once the European Parliament reaches consensus on its negotiating stance."
+        }
+      ]
+    },
+    "politics/politics-meta-terms-delay": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951350/STK043_VRG_Illo_N_Barclay_6_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th “to allow more time for us to explain to our partners and stakeholders what’s changing and what’s not.”"
+        },
+        {
+          "t": "p",
+          "x": "The business terms, which were originally supposed to go into effect on October 30th, appeared to give Meta permission to freely scrape the new sites that use its platforms, while using the material for AI training. Though Meta updated these terms to remove language about “training” its products, legal experts argued the change is not enough to rule out the possibility."
+        },
+        {
+          "t": "p",
+          "x": "The News/Media Alliance sent a letter to Meta CEO Mark Zuckerberg on Thursday, demanding that the company revise its business terms over concerns that they would cause “severe harm” to publishers. Digital advertisers and publishers in the European Union and the UK also urged regulators to force Meta to halt its new terms."
+        },
+        {
+          "t": "p",
+          "x": "In response to this backlash, Meta is now delaying its new terms entirely. Roberts says the delay will give Meta more time to lay out “how Meta uses web crawlers and the fact that content owners will still be able to use robots.txt to signal preferences,” referring to the file that signals to scrapers whether they can crawl a site."
+        }
+      ]
+    },
+    "politics/politics-tse-lula-deepfake-posts": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imagens.ebc.com.br/zM4JZGHb4z0OCzLLGrDWp2B-700=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/17/tse_lanca_campanha_para_estimular_participacao_da_populacao_nas_eleicoes02.jpg?itok=IYvVdg7J",
+          "cap": "© Luiz Roberto/TSE"
+        },
+        {
+          "t": "p",
+          "x": "The president of the Superior Electoral Court (TSE), Justice Kassio Nunes Marques, on Wednesday (21) ordered the suspension of 20 illegal social media posts against Luiz Inácio Lula da Silva (PT), who is running for re-election."
+        },
+        {
+          "t": "p",
+          "x": "The justice granted the request of Lula's campaign, which alleged a structured effort by lawmakers who support candidate Flávio Bolsonaro (PL) to share deepfake content, meaning artificial content created to harm candidates."
+        },
+        {
+          "t": "p",
+          "x": "The decision covers posts by Flávio and federal deputies Gustavo Gayer (PL-GO), Mario Frias (PL-SP) and Gilvan da Federal (PL-ES). All were barred from sharing the messages again."
+        },
+        {
+          "t": "p",
+          "x": "The complaint cited irregular posts from 32 social media profiles, which together have a 1.4-million following and 23.8 thousand posts."
+        },
+        {
+          "t": "p",
+          "x": "Arguing for the removal of the posts, Lula's campaign said anonymous posts create a perception of widespread rejection of Lula that does not correspond to reality."
+        },
+        {
+          "t": "p",
+          "x": "The improper use of artificial intelligence during the campaign is already under debate at the TSE. Last week, the court barred Meta from restricting the delivery of posts involving candidates Lula and Flávio."
+        },
+        {
+          "t": "p",
+          "x": "That decision came after Lula's campaign told the TSE that prompts for generating artificial intelligence images did not allow the creation of content about the candidate for re-election. However, creating images related to candidate Flávio Bolsonaro was allowed."
+        },
+        {
+          "t": "p",
+          "x": "Under the TSE's decision, Facebook, one of the platforms operated by Meta, must refrain from applying measures that reduce distribution, exclude recommendations or restrict searches."
+        }
+      ]
     }
   }
 }

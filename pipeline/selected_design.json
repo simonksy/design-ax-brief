@@ -1,107 +1,107 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "section": "design",
   "user_selection": null,
   "picks": [
     {
       "rank": 1,
-      "title": "Canva's first AI image model plans designs before generating them",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-      "source": "The Verge",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "published_iso": "2026-10-22T21:51:25+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "excerpt": "Canva released Craft, its first in-house image generation model, built for design layouts rather than photography: it plans a composition before generating it, putting Canva in direct competition with OpenAI, Google and Microsoft image models.",
-      "rationale": "A major new model release from a core design platform. Craft is Canva's first in-house image model, built to plan layouts rather than make photos. Nothing about Canva appears in the 30-day history."
-    },
-    {
-      "rank": 2,
-      "title": "How Lufthansa Systems prototypes realistic maps for the cockpit with Figma Make",
-      "url": "https://www.figma.com/blog/lufthansa-figma-make/",
+      "title": "How to Put Your Design System to Work With the Figma Agent",
+      "url": "https://www.figma.com/blog/how-to-put-your-design-system-to-work-with-the-figma-agent/",
       "source": "Figma Blog",
       "category": "figma",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "published_iso": "2026-10-22T14:50:00.000Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/25a1a68c5c527f854a2b80c859e10fbd1cc1d8c0-3840x2160.png?w=1200&q=70&fit=max&auto=format",
-      "excerpt": "Lufthansa Systems' designers use Figma Make's AI prompt-to-prototype flow to build dynamic, data-realistic cockpit map prototypes for pilot user testing instead of static mockups.",
-      "rationale": "A named enterprise case: Lufthansa Systems swapped static mockups for data-realistic Figma Make prototypes in pilot testing. Designers can copy the workflow directly. It is distinct from the earlier Figma agent, Specs and code-layers posts."
+      "published_iso": "2026-10-23T02:27:00.000Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/9db0b3dca44f5d8d35c537adb07f9f9eb479dcd0-1632x918.png?w=1200&q=70&fit=max&auto=format",
+      "excerpt": "Your design system can help the Figma agent understand the principles and guidelines that define your product. Here’s to make that context useful to the agent.",
+      "rationale": "An official Figma guide to feeding design-system context to the Figma agent. Teams can apply it tomorrow. It is a different post from the 10-07 '3 ways' use-case piece and the 10-07 dev.to Claude Code test."
+    },
+    {
+      "rank": 2,
+      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+      "source": "The Verge",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "published_iso": "2026-10-21T19:53:20+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "Anthropic unveiled Claude Duet, a new AI agent positioned against Meta's Muse; a waitlist is open now. You can get on the waitlist now for Duet.",
+      "rationale": "A new agent product launch from a major lab, with the waitlist open now. The history covers Muse Charm (09-27) and the Instinct/Muse/Dots hands-on (10-10), but Duet itself is a new release."
     },
     {
       "rank": 3,
-      "title": "I gave my coding agent a color palette library, and stopped pasting hex codes",
-      "url": "https://dev.to/yang7206/i-gave-my-coding-agent-a-color-palette-library-and-stopped-pasting-hex-codes-2c83",
-      "source": "DEV Community",
-      "category": "tokens",
-      "tool": "Design Tokens",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "published_iso": "2026-10-22T14:05:41Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgxpmzmr0pr4x03ohfqk8.png",
-      "excerpt": "A developer wires a structured color palette library into Claude as a tool so the coding agent pulls accessible, named design colors instead of inventing six random hex codes.",
-      "rationale": "A practical setup you can try tomorrow: give a coding agent a structured color library as a tool so it stops inventing hex codes. This is a different technique from the 10-22 de-slop skill and the 10-08 design-system test."
-    },
-    {
-      "rank": 4,
-      "title": "Lock In Character Likeness for AI Posters in Firefly",
-      "url": "https://www.youtube.com/watch?v=W1IYLaWyL70",
-      "source": "Adobe (YouTube)",
-      "category": "social",
-      "tool": "Social",
-      "accent": "#ff2d55",
-      "motif": "frame",
-      "published_iso": "2026-10-22T09:31:08-07:00",
-      "og_image": "https://i.ytimg.com/vi/W1IYLaWyL70/maxresdefault.jpg",
-      "excerpt": "Adobe tutorial: use a reference-sheet trick in Firefly so an AI-generated subject stays recognizable across every pose, angle and scene of a poster series.",
-      "rationale": "An official Adobe how-to that solves a common problem: keeping a character consistent across a whole Firefly poster series. No Firefly character-consistency item appears in the history."
-    },
-    {
-      "rank": 5,
-      "title": "AI's next bottleneck is the engineer's desk",
-      "url": "https://aecmag.com/automation/ais-next-bottleneck-is-the-engineers-desk/",
-      "source": "AEC Magazine",
+      "title": "New PTC Jetstream brings collaboration layer to Windchill",
+      "url": "https://develop3d.com/collaborate/new-ptc-jetstream-brings-collaboration-layer-to-windchill/",
+      "source": "DEVELOP3D",
       "category": "cad",
       "tool": "Text-to-CAD",
       "accent": "#7928ca",
       "motif": "cube",
-      "published_iso": "2026-10-22T18:51:23+00:00",
-      "og_image": "https://aecmag.com/wp-content/uploads/2026/10/Nomic.jpg",
-      "excerpt": "Nomic is helping Arcadis automate engineering design reviews with AI, but the article argues the next bottleneck is human checking of AI-generated design output.",
-      "rationale": "A named deployment: Nomic is automating Arcadis's engineering design reviews. It brings an AEC and CAD angle to the brief. Its history_match, the 10-21 UX Collective attention essay, only shares the word 'bottleneck'; they are different stories."
+      "published_iso": "2026-10-22T15:49:06+00:00",
+      "og_image": "https://develop3d.com/wp-content/uploads/2026/10/PTC-Jetstream.jpg",
+      "excerpt": "PTC Jetstream is a cloud collaboration layer connecting product development teams, review meetings and context in an AI-native layer",
+      "rationale": "A new product launch from a major PLM vendor: an AI-native collaboration layer on top of Windchill. It was chosen over the Siemens EDA and CloudNC quoting items because it is closer to how product designers work."
+    },
+    {
+      "rank": 4,
+      "title": "Can you take AI at its word?",
+      "url": "https://uxdesign.cc/can-you-take-ai-at-its-word-06126b976245",
+      "source": "UX Collective",
+      "category": "tokens",
+      "tool": "Design Tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "published_iso": "2026-10-21T21:50:06Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1100/1*mPw95o9x2pcMCIOS87WGFA.png",
+      "excerpt": "Dora Czerna on the psychology of trusting AI output, and what UX designers should do about confident-sounding AI answers.",
+      "rationale": "Practical UX guidance on designing around AI answers that sound confident: how to signal uncertainty and calibrate user trust. It is a fresh angle next to the 10-08 bounded-delegation and 10-11 'show me what it can change' pieces, and it replaces the Etsy pick, which marketing owns today."
+    },
+    {
+      "rank": 5,
+      "title": "Buy vs. build is now also a UX decision, especially in enterprise",
+      "url": "https://uxdesign.cc/buy-versus-build-is-now-also-a-ux-decision-especially-in-enterprise-6b4345715c63",
+      "source": "UX Collective",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "published_iso": "2026-10-22T21:55:36Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*nj8TtjChBWaVUnj1eBPjYQ.png",
+      "excerpt": "AI made building cheap and buying easy; Patrick Neeman argues the trade-off now turns on who owns upkeep, the seams between tools, chat surfaces and data, making it a UX call.",
+      "rationale": "Reframes the AI-era buy-vs-build choice as a design decision (upkeep ownership, seams between tools, chat surfaces), which helps designers argue for their seat in tooling decisions. It replaces the vendor-written Tripo/80 Level piece. It is the second workflow pick, so it takes palette accent #3b6bff."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model": {
+      "https://www.figma.com/blog/how-to-put-your-design-system-to-work-with-the-figma-agent/": {
         "verdict": "new",
-        "nearest": "https://www.krea.ai/blog/introducing-krea-3",
+        "nearest": "https://dev.to/dishant0406/i-tested-claude-code-to-figma-heres-what-actually-works-4p19",
         "new_action": ""
       },
-      "https://www.figma.com/blog/lufthansa-figma-make/": {
+      "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent": {
         "verdict": "new",
-        "nearest": "https://www.figma.com/blog/3-ways-product-designers-use-the-figma-agent/",
+        "nearest": "https://www.fastcompany.com/91612532/with-metas-muse-charm-ai-enters-its-kawaii-era",
         "new_action": ""
       },
-      "https://dev.to/yang7206/i-gave-my-coding-agent-a-color-palette-library-and-stopped-pasting-hex-codes-2c83": {
+      "https://develop3d.com/collaborate/new-ptc-jetstream-brings-collaboration-layer-to-windchill/": {
         "verdict": "new",
-        "nearest": "https://dev.to/jablonowski/does-a-design-system-change-what-a-coding-agent-writes-280d",
+        "nearest": "https://siliconangle.com/2026/10/19/neural-concept-launches-mcp-to-help-ai-agents-operate-commercial-cad-tools/",
         "new_action": ""
       },
-      "https://www.youtube.com/watch?v=W1IYLaWyL70": {
+      "https://uxdesign.cc/can-you-take-ai-at-its-word-06126b976245": {
         "verdict": "new",
-        "nearest": "https://www.creativebloq.com/design/graphic-design/adobes-ai-text-to-3d-world-concept-is-a-glimpse-of-where-firefly-could-go-next",
+        "nearest": "https://uxdesign.cc/bounded-delegation-how-much-authority-should-ai-have-823a58fb4192",
         "new_action": ""
       },
-      "https://aecmag.com/automation/ais-next-bottleneck-is-the-engineers-desk/": {
+      "https://uxdesign.cc/buy-versus-build-is-now-also-a-ux-decision-especially-in-enterprise-6b4345715c63": {
         "verdict": "new",
-        "nearest": "https://uxdesign.cc/anthropic-october-2026-study-human-attention-is-the-new-old-bottleneck-d7bc4642668a",
+        "nearest": "https://uxdesign.cc/the-ai-experience-doesnt-care-about-your-org-chart-5ed595c7b373",
         "new_action": ""
       }
     },
-    "note": "Pool of 16, none auto-dropped, 6 tagged related. Dropped as running-story follow-ups with no new release: the Builder.io 'AI Agent Actions' essay (continues the 10-15 Agent-Native launch; it is commentary, not a new version), the Vercel Ship SF workshop video (Ship 2026 content already covered by the 10-17 recap), and the UX Collective 'AI doesn't care about your job title' essay (related to the 10-18 org-chart essay; it is an essay and was already skipped on 10-22). Skipped on score: NVIDIA Cosmos world-model tools (physical-AI infra with a weak designer angle; related to the 10-10 AWS toolchain), the Figma agent credits video (a minor how-to, and Figma already has a pick), the Siemens Designcenter vendor feature (Engineering.com promo; AEC Mag's Nomic/Arcadis deployment was stronger for cad), the UX Collective founder and buy-vs-build essays, the LAIKA Wildwood interview (a film-studio stance, closer to movies), and Creative Bloq's Malfoid and Google Meet filter pieces (weak design angle; already skipped 10-22). Final 5: five distinct outlets (The Verge, Figma Blog, DEV, Adobe YouTube, AEC Magazine) and five distinct categories (workflow, figma, tokens, social, cad). No URL repeats and no gadget-hardware stories. Cross-section watch: Canva Craft could also show up in the marketing pool; check before roll."
+    "note": "Re-curation after the cross-section check. Two picks were replaced. (1) The Etsy AI-slop listings piece (The Verge) was removed because the same Etsy AI-policy story is published in marketing today. (2) The 80 Level 'Tripo P2.0 & Astra in Blender and Unity' piece was removed because the Tripo team wrote it (vendor advertorial), and the games curator rejected it for the same reason. The replacements are two UX Collective essays: 'Can you take AI at its word?' and 'Buy vs. build is now also a UX decision'. Neither appears in the 30-day history_digest, and neither has a history_match. The Canva first-image-model story is not in today's pool, and it was already published in design on 10-23 (theverge.com/.../canva-craft-in-house-ai-model), so it would be a repeat anyway. Other candidates stay excluded. Wildwood/LAIKA belongs to movies. The Builder.io AI Agent Actions essay is a follow-up to the 10-15 Agent-Native launch with no new release. The Figma YouTube AI-credits video is the same source and core topic as the Figma Blog agent pick (content hub). NVIDIA Spark Europe, Cosmos and Isaac, plus the ASUS ProArt P16 review, are compute or hardware noise and related to the 10-14 and 10-22 NVIDIA posts. The Fast Company Unitree H2-X critique is robotics hardware with a weak design-workflow angle, and it is a possible gadgets clash. The rest were skipped on score: Matt Wolfe's roundup, Vercel Agent production access, the Siemens 3D IC EDA workflow, CloudNC Quote Agent, the UX Collective founder essay and Creative Bloq's Draco Malfoy piece. Final 5: four outlets (Figma Blog, The Verge, DEVELOP3D, UX Collective x2, within the 2-per-outlet cap) and four categories (figma, workflow x2, cad, tokens). No URL repeats. The Duet pick is still reserved for design; music skips it."
   }
 }

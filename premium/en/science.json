@@ -8760,6 +8760,168 @@
           "x": "Warming also widened the gap between milder and more severe possible futures. In the more severe futures, extreme rainfall increased substantially more than the averages. The study is published in Climate Dynamics."
         }
       ]
+    },
+    "science/science-whale-dive-codas": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sperm-whales.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Project CETI, a nonprofit founded in 2020 with more than 50 researchers, uses AI, machine learning and whale-friendly robotics to decode sperm whale communication off Dominica. Giovanni Petri of Northeastern University London is a lead researcher."
+        },
+        {
+          "t": "p",
+          "x": "Tags with GPS, depth, movement and heart rate sensors track whales on 45-minute to 1-hour foraging dives to about 700 meters, while hydrophones and gliders record rhythmic clicks called codas, which Petri calls “like little words.”"
+        },
+        {
+          "t": "p",
+          "x": "AI pattern recognition automates much of the annotation, sorting clicks by whale, with the biology team checking the output."
+        },
+        {
+          "t": "p",
+          "x": "Pairing the audio with depth and movement data, machine learning models showed that around eight to 10 codas can predict whether whales are about to head off on deep foraging dives."
+        },
+        {
+          "t": "p",
+          "x": "The team has found two vowel-like sounds in codas, but their meaning is unknown. Whales may also eavesdrop on each other's clicks to find squid in the dark."
+        }
+      ]
+    },
+    "science/science-hallucination-nerd": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/computer-scientists-bu.jpg",
+          "cap": "HallucinationNerd architecture. Credit: Information (2026). DOI: 10.3390/info17111053"
+        },
+        {
+          "t": "p",
+          "x": "NYU computer scientists and students have built two web-hosted AI systems, described in two articles in the journal Information. Dennis Shasha, a professor of computer science at NYU's Courant Institute, led both projects."
+        },
+        {
+          "t": "p",
+          "x": "Hallucination Nerd permits users to check whether the claims a document makes about its citations are backed up by the cited documents, grading each as Supported, Partially Supported, Not Supported, Contradicted, Cited article does not exist, or Could not access."
+        },
+        {
+          "t": "p",
+          "x": "Protocol Nerd aims to help bench scientists seeking experimental protocols. It first asks clarifying questions, then offers several protocols and explains why each might or might not help. It currently focuses on molecular biology and chemistry."
+        },
+        {
+          "t": "p",
+          "x": "The team tested Protocol Nerd on PubMed and Europe PMC articles and Hallucination Nerd on arXiv papers, comparing both with existing systems."
+        },
+        {
+          "t": "p",
+          "x": "“Accurately and efficiently evaluating previous research can only improve subsequent, related studies,” Shasha said."
+        }
+      ]
+    },
+    "science/science-forty-forest-map": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/WGEFKF0mS4Mon9B5jZmraPj5UVTfZ0HtW0VXaLS0Ijm67blWFirP4Opi5IX6QLWEbq9MSQituskRlxKgUpGfD8-C6kIbe7etM9bTbvLg3rmG5gTkwc4=w1440-h810-n-nu"
+        },
+        {
+          "t": "p",
+          "x": "Google DeepMind and Google Research, with the World Resources Institute and IIASA, released Forest Typology (ForTy) 2020, a global map that sorts every 10-by-10-meter patch of land into six forest and land-use types, plus an early time series tracking changes each year from 2017 to 2025."
+        },
+        {
+          "t": "p",
+          "x": "The six categories are primary forest, naturally regenerating forest, planted forest, plantation forest, tree crops and agroforestry, and other land."
+        },
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/wAQ6wnzu6Lr-VMuS6ielTWpKEcpB2PkjN0XTdby80-NtefdPj9-ZKCrVPk-CSPuZ6GN8B4sScphV7sUd9dwrgprBrijy8wj3Z9fIv7eg2QAcMUMGPA=w1440-h810-n-nu",
+          "cap": "The Forest Typology map for 2020. Each color shows the most common forest or land type in each square kilometer."
+        },
+        {
+          "t": "p",
+          "x": "The model was trained on about 1.7 million labeled locations and uses AlphaEarth Foundations embeddings as a key input."
+        },
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/l0vzsdd-HHJUPQaQCHx4yzAOG-ULvQ20EM0HypoHdYpj-LMesy8I_dHhGwGtxjY1mRfa44OkiD_An7SgiHHXfaKQhgelgfZcdHWd9aPLGg_0wGyshw=w1440-h810-n-nu",
+          "cap": "From above, the five forest and tree-crop classes can look alike."
+        },
+        {
+          "t": "p",
+          "x": "Validated against more than 9,000 random sites, ForTy picked the right forest type 90% of the time and told forest from non-forest 95% of the time."
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/wbSzS_gEiCrn4Dc1/Figure4_light_1.mp4"
+        },
+        {
+          "t": "p",
+          "x": "The map and time series are freely available on Google Earth Engine under an open license."
+        }
+      ]
+    },
+    "science/science-quantum-circuit-kaggle": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Google-Image.png"
+        },
+        {
+          "t": "p",
+          "x": "Google Quantum AI is launching a competition to use artificial intelligence to shrink the circuits needed for useful quantum computing, with a total prize pool of $150,000."
+        },
+        {
+          "t": "p",
+          "x": "Hosted on Kaggle, it challenges participants to reduce the number of computing steps and qubits required for tasks related to fusion energy, mathematical optimization and chemistry."
+        },
+        {
+          "t": "p",
+          "x": "It uses kickmix, an open-source library in Google's Qualtran project, whose circuits conventional computers can check through randomized fuzz testing at 60 billion gates per second on a single core."
+        },
+        {
+          "t": "p",
+          "x": "Google said internal experiments with its Gemini models have already produced improvements beyond circuits reported to date across all three benchmarks."
+        },
+        {
+          "t": "p",
+          "x": "Prizes include $10,000 for the best score on each of the three tasks."
+        }
+      ]
+    },
+    "science/science-navier-stokes-proof": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/676cb480-a9d0-4bb0-a42f-466e549cfa5c/ink-clash.jpg?m=1792683756.522&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "On September 8, OpenAI claimed to have solved Navier-Stokes, one of the Clay Mathematics Institute's seven $1 million Millennium Prize Problems — right after N.Y.U. mathematician Tristan Buckmaster publicly accused the company of seeming to steal his work."
+        },
+        {
+          "t": "p",
+          "x": "Buckmaster had been working with Anthropic mathematician Levent Alpöge, prompting a mix of Anthropic and OpenAI models. On August 15 Claude blew up the Euler equations, and on August 22 the proof was verified in Lean."
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/f24c2ce2-1fe8-47ba-b469-5397351e6a59/lecture-collage.jpeg?m=1792685495.812&w=900",
+          "cap": "Space was standing-room-only in Room 109 of N.Y.U.’s Warren Weaver Hall for Buckmaster’s first public lecture since his clash with OpenAI."
+        },
+        {
+          "t": "p",
+          "x": "Alarmed by rumors, OpenAI's team sent copies of a new internal model at the open Millennium Problems. A squad of 100 agents produced its own Euler proof; then a swarm of 10,000 agents, consuming a reported $15 million in computing, solved Navier-Stokes."
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/6a2f980d-9a8d-4ea5-8bfa-5220f1bf13f4/buckmaster-portrait.jpg?m=1792684575.161&w=900",
+          "cap": "Tristan Buckmaster, a mathematician at N.Y.U.’s Courant Institute."
+        },
+        {
+          "t": "p",
+          "x": "Experts now say the swarm's Navier-Stokes proof took its own path. Buckmaster still believes OpenAI relied on his progress; OpenAI emphatically denies it. The episode warns that LLMs are proving results faster than humans can understand them."
+        }
+      ]
     }
   }
 }

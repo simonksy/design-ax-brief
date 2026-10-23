@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "section": "design",
   "media": [
     {
-      "id": "design-canva-craft-model",
+      "id": "design-figma-agent-ds",
       "type": "image",
-      "src": "pipeline/media/design-canva-craft-model.png"
+      "src": "pipeline/media/design-figma-agent-ds.jpg"
     },
     {
-      "id": "design-lufthansa-figma-make",
-      "type": "image",
-      "src": "pipeline/media/design-lufthansa-figma-make.png"
-    },
-    {
-      "id": "design-agent-color-palette-library",
-      "type": "image",
-      "src": "pipeline/media/design-agent-color-palette-library.png"
-    },
-    {
-      "id": "design-firefly-character-likeness",
+      "id": "design-claude-duet",
       "type": "video",
-      "src": "pipeline/media/design-firefly-character-likeness.mp4",
-      "poster": "pipeline/media/design-firefly-character-likeness.jpg"
+      "src": "pipeline/media/design-claude-duet.mp4",
+      "poster": "pipeline/media/design-claude-duet.jpg"
     },
     {
-      "id": "design-nomic-arcadis-design-review",
+      "id": "design-ptc-jetstream",
       "type": "image",
-      "src": "pipeline/media/design-nomic-arcadis-design-review.jpg"
+      "src": "pipeline/media/design-ptc-jetstream.jpg"
+    },
+    {
+      "id": "design-ai-at-its-word",
+      "type": "image",
+      "src": "pipeline/media/design-ai-at-its-word.png"
+    },
+    {
+      "id": "design-buy-vs-build",
+      "type": "image",
+      "src": "pipeline/media/design-buy-vs-build.jpg"
     }
   ]
 }

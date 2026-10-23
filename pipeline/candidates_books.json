@@ -1,160 +1,196 @@
 {
- "section": "books",
- "generated_at": "2026-10-22T22:00:32Z",
- "window_hours": 336,
- "items": [
-  {
-   "title": "Amazon renames Kindle Unlimited to Kindle Plus and expands access to audiobooks",
-   "url": "https://www.theverge.com/tech/1016789/amazon-kindle-unlimited-plus-subscription-ai-audiobooks",
-   "source": "The Verge",
-   "category": "books",
-   "published_iso": "2026-10-22T17:46:40+00:00",
-   "excerpt": "Kindle Unlimited is now Kindle Plus; subscribers get access to more audiobooks, including some read by AI narrators, at the same monthly price.",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/kindleplus.jpg?quality=90&strip=all&crop=0%2C10.721349621873%2C100%2C78.557300756254&w=1200"
-  },
-  {
-   "title": "Library and Archives Canada cracking down on AI books amid copyright threats",
-   "url": "https://globalnews.ca/news/12111768/canada-artificial-intelligence-books-copyright/",
-   "source": "Global News",
-   "category": "books",
-   "published_iso": "2026-10-22T15:28:46-04:00",
-   "excerpt": "LAC updated its ISBN policy to limit registrations for primarily AI-generated books; registrants must now declare a human author. Canadian author groups welcomed the change.",
-   "og_image": "https://globalnews.ca/wp-content/uploads/2026/10/CP171900259-e1792608559278.jpg?quality=65&strip=all&w=720&h=379&crop=1"
-  },
-  {
-   "title": "Onyx Boox V4.3 software update available soon",
-   "url": "https://goodereader.com/blog/onyx-boox/onyx-boox-v4-3-software-update-available-soon",
-   "source": "Good e-Reader",
-   "category": "books",
-   "published_iso": "2026-10-21T09:28:39+00:00",
-   "excerpt": "Boox's V4.3 firmware, rolling out to 2024-2026 models, adds multitasking, productivity and artificial intelligence features for e-reading and note-taking.",
-   "og_image": "https://media.goodereader.com/blog/uploads/images/2026/10/21052503/02_c751b1e8-ad5e-4cee-ba7d-43064af73c71.webp"
-  },
-  {
-   "title": "YouTube looks to expand into audiobooks",
-   "url": "https://janefriedman.com/youtube-looks-to-expand-into-audiobooks/",
-   "source": "Jane Friedman",
-   "category": "books",
-   "published_iso": "2026-10-21T16:00:00+00:00",
-   "excerpt": "Rampant piracy on YouTube via AI-generated audio versions of books is pushing publishers to provide legitimate audiobooks on the platform. (Paywalled; lede only.)",
-   "og_image": "https://janefriedman.com/wp-content/uploads/2026/07/Jane-Friedman-2025-site-Yoast.png"
-  },
-  {
-   "title": "New Meta commercial terms might have granted it AI training rights, until it changed course",
-   "url": "https://janefriedman.com/new-meta-commercial-terms-might-have-granted-it-ai-training-rights-until-it-changed-course/",
-   "source": "Jane Friedman",
-   "category": "books",
-   "published_iso": "2026-10-21T16:00:00+00:00",
-   "excerpt": "After publisher outcry, Meta modified its commercial terms to remove the word 'train' from permitted uses of content shared on its platforms.",
-   "og_image": "https://janefriedman.com/wp-content/uploads/2026/07/Jane-Friedman-2025-site-Yoast.png"
-  },
-  {
-   "title": "Guest Post - All this AI Signal and Noise: What Deserves Action Now",
-   "url": "https://scholarlykitchen.sspnet.org/2026/10/22/guest-post-all-this-ai-signal-and-noise-what-deserves-action-now/",
-   "source": "The Scholarly Kitchen",
-   "category": "books",
-   "published_iso": "2026-10-22T09:30:30+00:00",
-   "excerpt": "A guest post sorting the AI changes hitting scholarly publishing into signals that need action now, context, and noise.",
-   "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/SC-Eaton-Event-Preview-541.jpg"
-  },
-  {
-   "title": "From Content to Trusted Knowledge: Reflections on Frankfurt Book Fair 2026",
-   "url": "https://scholarlykitchen.sspnet.org/2026/10/20/from-content-to-trusted-knowledge-reflections-on-frankfurt-book-fair-2026/",
-   "source": "The Scholarly Kitchen",
-   "category": "books",
-   "published_iso": "2026-10-20T09:30:33+00:00",
-   "excerpt": "Takeaways from Frankfurt 2026 on how publishers turn trusted content into usable knowledge as AI answer engines and agents become the reading interface.",
-   "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-2191733603.jpg"
-  },
-  {
-   "title": "PLA Partners with Microsoft on Library AI Info Sessions",
-   "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/101589-pla-partners-with-microsoft-on-library-ai-info-sessions.html",
-   "source": "Publishers Weekly",
-   "category": "books",
-   "published_iso": "2026-10-22T00:00:00-04:00",
-   "excerpt": "The Public Library Association and Microsoft launch AI education sessions in public libraries starting in December, aimed at helping patrons 'exercise their agency when it comes to AI.'",
-   "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132331-1.JPG"
-  },
-  {
-   "title": "AI Agents Are Hustling To Make A Living As Writers",
-   "url": "https://afrotech.com/ai-agents-hustling-pitching-literary-magazines-money",
-   "source": "AfroTech",
-   "category": "books",
-   "published_iso": "2026-10-21T15:39:02-04:00",
-   "excerpt": "Self-identified AI agents on the iLands platform are pitching literary magazines and editors; one, 'Tamara', emailed a Vulture writer about lit mags screening out machine-written submissions.",
-   "og_image": "https://cdn.afrotech.com/wp-content/uploads/2026/10/IMG_2522-scaled.jpeg"
-  },
-  {
-   "title": "네이버웹툰, AI 스토리챗 '바이어스' 日 출시…라인망가서 팬 창작 확대",
-   "url": "https://www.ddaily.co.kr/page/view/2026102011361822600",
-   "source": "디지털데일리",
-   "category": "books",
-   "published_iso": "2026-10-20T11:47:53+09:00",
-   "excerpt": "네이버웹툰이 원작자 승인 웹툰 IP 기반 AI 스토리챗 '바이어스(byUs)'를 일본 라인망가에 출시했다. 이용자가 원작 세계관 속 새 이야기를 만들고 공유한다.",
-   "og_image": "https://www.ddaily.co.kr/photos/2026/10/20/2026102011354695093_l.jpg"
-  },
-  {
-   "title": "\"태그만 고르면 2분 만에 웹소설\"…모사재인, 일본 진출",
-   "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610210108&t=RS",
-   "source": "한국경제TV",
-   "category": "books",
-   "published_iso": "2026-10-21T05:14:18Z",
-   "excerpt": "AI 스타트업 모사재인이 일본에 맞춤형 AI 웹소설 플랫폼 '아이로쿠'를 출시했다. 장르·배경·인물을 고르면 여러 AI 에이전트가 약 2분 만에 첫 화를 생성한다.",
-   "og_image": "https://img.wowtv.co.kr/nrcs/production/images/20261021/20261021_b501b3e7f14d4ed8b38f8ce91388387f.png"
-  },
-  {
-   "title": "라이프페스타·어반플레이, 대화형 AI 도서 추천 서비스 실증",
-   "url": "https://magazine.hankyung.com/job-joy/article/202610203483d",
-   "source": "한경매거진",
-   "category": "books",
-   "published_iso": "2026-10-20T15:06:00+09:00",
-   "excerpt": "라이프페스타가 어반플레이와 함께 서점 현장에서 독자와의 대화로 취향을 파악해 책을 추천하고 판매로 연계하는 대화형 AI 도서 추천 서비스를 실증한다.",
-   "og_image": "https://img.hankyung.com/photo/202610/AD.46123331.1.jpg"
-  },
-  {
-   "title": "100년史 새 페이지 여는 미래엔 \"AI 시대, 교과서도 기업도 진화해야\"",
-   "url": "https://www.hankyung.com/article/2026101145421",
-   "source": "한국경제",
-   "category": "books",
-   "published_iso": "2026-10-11T17:51:03+09:00",
-   "excerpt": "교과서 출판사 미래엔 신광수 대표가 AI 시대 생존전략으로 디지털 교육 확장을 말했다.",
-   "og_image": "https://img.hankyung.com/photo/202610/AA.46012596.1.jpg"
-  },
-  {
-   "title": "AI 디지털교과서 활용, 경남 학교 1.2%인 12개교에 불과",
-   "url": "https://www.newsis.com/view/NISX20261020_0003833773",
-   "source": "뉴시스",
-   "category": "books",
-   "published_iso": "2026-10-20T16:35:09+09:00",
-   "excerpt": "AI 디지털교과서(AIDT) 활용 학교가 전국적으로 급감한 가운데 경남은 구독 학교가 전체의 1.2%(12개교)에 그쳤다는 국감 지적이 나왔다.",
-   "og_image": "https://img1.newsis.com/2026/03/06/NISI20260306_0021197934_web.jpg"
-  },
-  {
-   "title": "The anti-AI writing police are everywhere. What are they looking for?",
-   "url": "https://wtop.com/national/2026/10/the-anti-ai-writing-police-are-everywhere-what-are-they-looking-for/",
-   "source": "CNN (via WTOP)",
-   "category": "books",
-   "published_iso": "2026-10-22T17:16:25-04:00",
-   "excerpt": "As generative AI makes book-shaped text easy to produce, readers, editors and detector tools are hunting for AI tells in fiction (saturated detector angle; feature, not a new ruling).",
-   "og_image": "https://wtop.com/wp-content/uploads/2026/10/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXZmcG0wd2cwMDFqM2I2cmlzOHBwZDZ1-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdmZwaDBoNjAwMHkyN3F2ODg2YWZhbzA-300.jpg"
-  },
-  {
-   "title": "Publishers seek safeguards over suspected AI book-buying spree",
-   "url": "https://www.koreatimes.co.kr/lifestyle/books/20261022/publishers-seek-safeguards-over-suspected-ai-book-buying-spree",
-   "source": "The Korea Times",
-   "category": "books",
-   "published_iso": "2026-10-21T22:00:14Z",
-   "excerpt": "Korean publishers call for stronger copyright protection and compensation as bulk book orders suspected to come from AI companies continue (follow-up to the 10-17/10-20 bulk-buying stories).",
-   "og_image": "https://newsimg.koreatimes.co.kr/2026/10/21/98fa93a4-9026-4286-9d8c-dd1e97a6a863.jpg"
-  },
-  {
-   "title": "Kindle Unlimited is now known as Amazon Kindle+",
-   "url": "https://goodereader.com/blog/kindle/kindle-unlimited-is-now-known-as-amazon-kindle",
-   "source": "Good e-Reader",
-   "category": "books",
-   "published_iso": "2026-10-22T07:07:11+00:00",
-   "excerpt": "Same-story alternate to The Verge: Amazon rebrands Kindle Unlimited as Kindle+, folding in audiobooks including AI-narrated titles.",
-   "og_image": "https://media.goodereader.com/blog/uploads/images/2026/10/22030518/Screenshot-2026-10-22-at-00-02-13-Digital-Subscription-Sign-Up.png"
-  }
- ]
+  "section": "books",
+  "generated_at": "2026-10-23T22:00:00Z",
+  "window_hours": 336,
+  "items": [
+    {
+      "title": "Chakrabarty Paper Dropped from OpenAI Suit",
+      "url": "https://selfpublishingadvice.org/chakrabarty-paper-dropped-from-openai-suit/",
+      "source": "ALLi (Self-Publishing Advice Center)",
+      "category": "books",
+      "published_iso": "2026-10-22T12:00:48+00:00",
+      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/10/News-October-22.jpg",
+      "excerpt": "Chakrabarty market dilution paper dropped from OpenAI copyright case. CEATL survey finds 30% of literary translators lost assignments to AI."
+    },
+    {
+      "title": "Can AI Run Your Book Marketing?",
+      "url": "https://selfpublishingadvice.org/podcast-can-ai-run-your-book-marketing/",
+      "source": "ALLi (Self-Publishing Advice Center)",
+      "category": "books",
+      "published_iso": "2026-10-18T12:00:32+00:00",
+      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/10/BANNER_QA.jpg",
+      "excerpt": "Michael La Ronn and Sacha Black weigh AI book marketing, business bank accounts, and Goodreads giveaways in this ALLi Member Q&A."
+    },
+    {
+      "title": "The detection wars: AI is publishing’s ‘wicked problem’",
+      "url": "https://selfpublishingadvice.org/the-detection-wars-ai-is-publishings-wicked-problem/",
+      "source": "ALLi (Self-Publishing Advice Center)",
+      "category": "books",
+      "published_iso": "2026-10-16T13:44:40+00:00",
+      "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/10/Author-Opinion-Banner-with-Orna-Ross.jpg",
+      "excerpt": "AI is being used to cancel books and authors, turn readers against newsletters, and writers against each other. ALLi director Orna Ross discusses AI detection tools, due process, and why certifying writing as “human-made” matters far less than treating each…"
+    },
+    {
+      "title": "YouTube looks to expand into audiobooks",
+      "url": "https://janefriedman.com/youtube-looks-to-expand-into-audiobooks/",
+      "source": "Jane Friedman",
+      "category": "books",
+      "published_iso": "2026-10-21T16:00:00+00:00",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2026/07/Jane-Friedman-2025-site-Yoast.png",
+      "excerpt": "Rampant piracy on the platform, due to AI-generated audio versions, is leading publishers to provide legitimate means of enjoying audiobooks there."
+    },
+    {
+      "title": "About that Wired article on book publishers “quietly” using AI",
+      "url": "https://janefriedman.com/about-that-wired-article-on-book-publishers-quietly-using-ai/",
+      "source": "Jane Friedman",
+      "category": "books",
+      "published_iso": "2026-10-14T16:00:00+00:00",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
+      "excerpt": "One tidbit sailing under the radar is that publishers say the number of authors using LLMs to write their books is much higher than reported."
+    },
+    {
+      "title": "Guest Post - All this AI Signal and Noise: What Deserves Action Now",
+      "url": "https://scholarlykitchen.sspnet.org/2026/10/22/guest-post-all-this-ai-signal-and-noise-what-deserves-action-now/",
+      "source": "The Scholarly Kitchen",
+      "category": "books",
+      "published_iso": "2026-10-22T09:30:30+00:00",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/SC-Eaton-Event-Preview-541.jpg",
+      "excerpt": "Amidst the onslaught of industry and global changes, opportunities, and advancements, which signals deserve action now, which are context, and which are weather?"
+    },
+    {
+      "title": "From Content to Trusted Knowledge: Reflections on Frankfurt Book Fair 2026",
+      "url": "https://scholarlykitchen.sspnet.org/2026/10/20/from-content-to-trusted-knowledge-reflections-on-frankfurt-book-fair-2026/",
+      "source": "The Scholarly Kitchen",
+      "category": "books",
+      "published_iso": "2026-10-20T09:30:33+00:00",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-2191733603.jpg",
+      "excerpt": "Thoughts on the Frankfurt Book Fair 2026: how do we turn trusted content into useful knowledge — and help people act on it?"
+    },
+    {
+      "title": "How AI Changes the Fundamental Structure of the Classroom—Especially the Segregated Ones",
+      "url": "https://lithub.com/how-ai-changes-the-fundamental-structure-of-the-classroom-especially-the-segregated-ones/",
+      "source": "Literary Hub",
+      "category": "books",
+      "published_iso": "2026-10-21T09:09:11+00:00",
+      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/10/chat-gpt-scaled.jpg",
+      "excerpt": "The 250th anniversary of the founding of the United States is the kind of milestone that forces the nation to look back and ahead—to consider yesterday and tomorrow. In the current environment wher…"
+    },
+    {
+      "title": "Why Are Publishers Suing Big Tech With One Hand and Embracing AI With the Other?",
+      "url": "https://lithub.com/why-are-publishers-suing-big-tech-with-one-hand-and-embracing-ai-with-the-other/",
+      "source": "Literary Hub",
+      "category": "books",
+      "published_iso": "2026-10-15T09:10:37+00:00",
+      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/10/AI-hands-scaled.jpg",
+      "excerpt": "Last weekend I had a little stagefright before I was set to appear on a panel about authorship and AI for an event called Whose Truth? Writers and Readers Forum presented by the Authors Guild. I ha…"
+    },
+    {
+      "title": "Is It or Isn’t It? How Generative AI is Poisoning the Literary Well For Everyone",
+      "url": "https://lithub.com/is-it-or-isnt-it-how-generative-ai-is-poisoning-the-literary-well-for-everyone/",
+      "source": "Literary Hub",
+      "category": "books",
+      "published_iso": "2026-10-14T09:10:55+00:00",
+      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/10/AI-detection.jpg",
+      "excerpt": "Vauhini Vara, who has for years been investigating the impact of AI on writing, published a piece in The Atlantic over the weekend that suggested it was probable that “The Blue Fighter,&#8221…"
+    },
+    {
+      "title": "Meta delays new business terms after publisher pushback on AI scraping",
+      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+      "source": "The Verge",
+      "category": "books",
+      "published_iso": "2026-10-23T14:47:41+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951350/STK043_VRG_Illo_N_Barclay_6_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "Legal experts argued that Meta’s changes weren’t enough to rule out AI scraping."
+    },
+    {
+      "title": "Onyx Boox V4.3 software update available soon",
+      "url": "https://goodereader.com/blog/onyx-boox/onyx-boox-v4-3-software-update-available-soon",
+      "source": "Good e-Reader",
+      "category": "books",
+      "published_iso": "2026-10-21T09:28:39+00:00",
+      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/10/21052503/02_c751b1e8-ad5e-4cee-ba7d-43064af73c71.webp",
+      "excerpt": "This update introduces a variety of multitasking, productivity, and artificial intelligence features designed to make e-reading and note-taking smoother."
+    },
+    {
+      "title": "Does the ROI of AI really only lie in corporate efficiencies?",
+      "url": "https://www.thebookseller.com/comment/does-the-roi-of-ai-only-lie-in-corporate-efficiencies",
+      "source": "The Bookseller",
+      "category": "books",
+      "published_iso": "2026-10-23T07:45:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/dfg.jpg",
+      "excerpt": "It is time the industry acknowledged that AI can bring genuine value to human creativity, writes Nadim Sadek."
+    },
+    {
+      "title": "Australia May Legalize AI Training on Your Books. Sign a Statement Opposing It.",
+      "url": "https://authorsguild.org/news/australia-ai-training-statement/",
+      "source": "The Authors Guild",
+      "category": "books",
+      "published_iso": "2026-10-22T17:28:04+00:00",
+      "og_image": "",
+      "excerpt": "The Australian government has announced that it is planning to introduce legislation that would change copyright law to allow AI companies to use authors’ work, without a license, to build their models. This would apply to authors from anywhere in […]"
+    },
+    {
+      "title": "AI is Already Everywhere in Publishing",
+      "url": "https://bookriot.com/listen/ai-is-already-everywhere-in-publishing/",
+      "source": "Book Riot",
+      "category": "books",
+      "published_iso": "2026-10-19T09:00:00+00:00",
+      "og_image": "https://bookriot.com/wp-content/uploads/2024/05/Book-Riot-The-Podcast-logo.jpg.optimal.jpg",
+      "excerpt": "Rebecca and Vanessa discuss a so-called exposé of the publishing industry's use of AI and yet another prize-winning story that seems to have been written"
+    },
+    {
+      "title": "[단독] \"파는 대로 다 사겠다\"…美 '수상한 주문'에 출판계 긴장",
+      "url": "https://www.hankyung.com/article/202610228608i",
+      "source": "한국경제",
+      "category": "books",
+      "published_iso": "2026-10-22T15:14:01+09:00",
+      "og_image": "https://img.hankyung.com/photo/202610/01.46154046.1.jpg",
+      "excerpt": "[단독] \"파는 대로 다 사겠다\"…美 '수상한 주문'에 출판계 긴장, 출판협동조합-지역총판, 대량 구매 제안 거절 \"아동책 빼고 전체 도서 리스트 달라\" AI 학습용 도서 확보 의혹 확산 웅진&middot;교보 이어 중소 유통사도 타깃 표절작 대량양산 우려"
+    },
+    {
+      "title": "\"내 책 썼는지조차 몰라\"…AI 학습 우려에 경고음 커지는 출판계",
+      "url": "https://www.yna.co.kr/view/AKR20261020031000005",
+      "source": "연합뉴스",
+      "category": "books",
+      "published_iso": "2026-10-20T11:25:01+09:00",
+      "og_image": "https://img4.yna.co.kr/photo/cms/2026/04/02/82/PCM20260402000082990_P4.jpg",
+      "excerpt": "(서울=연합뉴스) 김정은 기자 = 국내외에서 인공지능(AI) 학습용으로 의심되는 도서 대량 구매 움직임이 잇따라 포착되면서 국내 출판계의 우려가..."
+    },
+    {
+      "title": "대구 AIDT 활용도 둘러싸고 설전…\"활용학교 절반이 대구에\"",
+      "url": "https://www.yna.co.kr/view/AKR20261020136900053",
+      "source": "연합뉴스",
+      "category": "books",
+      "published_iso": "2026-10-20T16:40:57+09:00",
+      "og_image": "https://img8.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102012040005100_P4.jpg",
+      "excerpt": "(대구=연합뉴스) 황수빈 기자 = 올해 대구교육청이 초중고교 인공지능 디지털교과서(AIDT) 보급을 위해 수십억 원의 구독료를 들였지만, 실제 ..."
+    },
+    {
+      "title": "“저작권 신탁기구 추진…AI의 ‘책 도둑질’ 막아야”",
+      "url": "https://m.sedaily.com/amparticle/20103917",
+      "source": "서울경제",
+      "category": "books",
+      "published_iso": "2026-10-20T17:42:56+09:00",
+      "og_image": "https://wimg.sedaily.com/news/cms/2026/10/20/news-p.v1.20261011.ae0838158c134012acc47e38f557eebb_R.jpg",
+      "excerpt": "인공지능(AI) 기업 앤트로픽이 AI 학습을 위해 국내 도서를 대량 매입하고 한강·김애란 등 국내 작가 작품의 해적판을 다운로드한 것으로 밝혀져 논란이 일고 있다. 이에 단행본 출판사 500여 곳을 회원사로 둔 한국출판인회의가 ‘정부·국회·AI 기업에 보내는 호소문’을 내놓는 등 출판계에서 AI 학습 데이터의 투명성 확보와 저작권자의 이용 허락 원칙 확립,"
+    },
+    {
+      "title": "[정과리의 AI와 함께하는 인문여행] AI 시대의 창작과 번역",
+      "url": "https://www.joongang.co.kr/article/25471430",
+      "source": "중앙일보",
+      "category": "books",
+      "published_iso": "2026-10-21T00:12:00+09:00",
+      "og_image": "https://assets.joongang.co.kr/images/share/ja-opengraph-img.png",
+      "excerpt": "이미 한국 언론에서도 보도된 바 있듯이, 최근 혜성처럼 등장한 한 작가의 베스트셀러가 AI에 의해 쓰였다는 판정이 나오는 스캔들이 발생했다. 캐나다·아이티계 작가 텔리송 오렐리앙의 『C’etait ca ou mourir(그것이 아니면 죽음)』(2026)라는 아이티 난민의 수난을 다룬 소설이 문제아가 되었다. “가장 신뢰할 만한 AI 텍스트 검증 분석 도구”로 평가받는 팡그람(Pangram)을 가동하여 소설 텍스트를 검증한 결과 “생성형 AI로 작성되었을 확률이 90~100%”라는 압도적인 수치가 나왔다는 폭로가 X(옛 트위터)의…"
+    },
+    {
+      "title": "Making a Writing Prompt for Gemini Argon - Novelcrafter Live",
+      "url": "https://www.youtube.com/watch?v=eLQESMPS8Bc",
+      "source": "Novelcrafter (YouTube)",
+      "category": "books",
+      "published_iso": "2026-10-22T21:07:38-07:00",
+      "og_image": "https://i.ytimg.com/vi/eLQESMPS8Bc/maxresdefault.jpg",
+      "excerpt": "Novelcrafter's live session spends time with Google's new Gemini Argon model, working out by trial and error how to prompt it for fiction writing inside the Novelcrafter writing app."
+    }
+  ]
 }

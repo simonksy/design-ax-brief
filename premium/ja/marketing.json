@@ -2111,6 +2111,89 @@
           "x": "Googleはまた、ランディングページ上の画像の権利を保有し、Googleが広告に利用することを認めていると確認するよう広告主に求めている。ライセンス画像や第三者の画像に関する責任は広告主が負うことになる。"
         }
       ]
+    },
+    "marketing/marketing-google-ads-sourced-videos": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google Adsは、アセットの最適化セクションに新しい「Sourced videos」のon/offトグル設定を追加した。Google AIが承認済みのソースから関連する動画を見つけ、キャンペーンに自動で追加する仕組みだ。"
+        },
+        {
+          "t": "p",
+          "x": "このトグルはReva MinkoffがLinkedInで見つけた。Hana Kobzováはその数日前にヘルプ文書の変更に気づき、この変更で「広告主が手動でopt-inする必要がなくなった」と指摘していた。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-sourced-videos-toggle-n1Mv05cA.jpg",
+          "cap": "Sourced videos:「他のチャンネルの動画を使用」"
+        },
+        {
+          "t": "p",
+          "x": "Googleのヘルプ文書によると、Sourced videosはGoogle AIと自動の動画クローリング技術を使い、Performance Maxキャンペーンに適した動画を特定する。すべての新規キャンペーンでデフォルトで有効になっており、一部の既存キャンペーンでも自動で有効化された可能性がある。"
+        },
+        {
+          "t": "p",
+          "x": "ソースにはソーシャルメディアのプラットフォーム、キャンペーンのランディングページ、リンクされたYouTubeチャンネルが含まれ得る。動画は関連性、成果の見込み、ベストプラクティスへの準拠度で選ばれ、クロールされた動画は1つのアセットグループに最大10本まで自動で追加される。"
+        }
+      ]
+    },
+    "marketing/marketing-etsy-non-ai-image-rule": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/cYMlDQ6lWlMzUd8EncbsCfReT9sYO5rMJj0jdZzDCxw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODUzMTg0NjY1LmpwZw==.webp",
+          "cap": "New York Cityの本社に掲げられたEtsyのロゴ。"
+        },
+        {
+          "t": "p",
+          "x": "Eコマース(E-commerce)マーケットプレイスのEtsyが、商品リスティングでのAI利用の取り締まりに乗り出した。同社が木曜日に公開したブログ記事によると、Etsyは今後、大半のリスティングに実際の背景で撮影した未編集の商品写真を少なくとも一枚含めるよう義務づける。"
+        },
+        {
+          "t": "p",
+          "x": "型紙、レシピ、説明書といった実用的なガイドは、今後AI-generatedのものは認められない。ボットが生成した(Bot-generated)リスティングは許可されず削除され、リスティングが新しい画像要件を満たしていなかった場合、購入者は返金を受けられることがある。"
+        },
+        {
+          "t": "p",
+          "x": "Etsyはまた、AIを使った可能性があると検知した画像を知らせるガイダンス機能を出品フォームに追加した。EtsyのVice President of Customer Operations(カスタマーオペレーション担当副社長)であるJames Ossmanは「今回の変更はゴールではなく出発点だ」と述べた。"
+        },
+        {
+          "t": "p",
+          "x": "この動きは、Etsy自身がAI活用への投資を増やすなかで出てきた。CEOのKruti Patel Goyalはアナリストに対し、AIの最大の機会はEtsy自体にあるとし、「要はAIを使って、Etsyが適切な買い手と適切な売り手を結びつける力をはるかに、はるかに高めることだ」と語った。"
+        }
+      ]
+    },
+    "marketing/marketing-meta-ai-glowups": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/ATM.webp?w=600&h=315&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "10月30日以降、MetaのAIが広告を台無しにしても責任は広告主にある。広告バイヤーはADWEEKに対し、MetaのAIがすでに断りなく広告を作り替えていると語った。"
+        },
+        {
+          "t": "p",
+          "x": "Bookshop.orgによると、Metaのアカウント自動更新で生成AI機能に勝手に登録され、人が制作した広告に知らないうちにAI-generatedのイラストが加えられた。同社はその後、MetaのAI広告機能をすべてオフにした。"
+        },
+        {
+          "t": "img",
+          "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-1.28.28-PM.png?w=1024",
+          "cap": "Bookshop.orgのThreads投稿"
+        },
+        {
+          "t": "p",
+          "x": "Metaの改定版Commercial Termsでは、Metaがオンにした機能を含め、AI機能が生成・変更したあらゆるものについて広告主が「単独で責任を負う」。従来は、広告主が自らMetaのAIツールを使うと選んだ場合にのみ責任を負っていた。Metaの広報担当者はこの質問に直接答えず、広告主はAds Managerでいつでも個別のAdvantage+機能をオフにできると述べた。"
+        },
+        {
+          "t": "p",
+          "x": "代理店Exverusでは、何度も品質チェックを重ねても、すり抜けた変更を取り除くために配信中の広告を止めざるを得なかった。追加されたサイトリンク、言語翻訳、ブランド自身の素材から作られたAI-generatedの画像やカルーセルなどだ。Ryan Adamsは「Meta自身のツールが補正を加えた場合でも、Metaは責任をはっきりと広告主に負わせる」と語った。"
+        },
+        {
+          "t": "p",
+          "x": "AdCellerantは現在、すべてのキャンペーンでMetaの既定のAI自動化を体系的にオフにしている。"
+        }
+      ]
     }
   }
 }

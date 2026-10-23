@@ -8510,6 +8510,168 @@
           "x": "El calentamiento también amplió la brecha entre futuros posibles más moderados y más severos. En los futuros más severos, la lluvia extrema aumentó bastante más que los promedios. El estudio se publicó en Climate Dynamics."
         }
       ]
+    },
+    "science/science-whale-dive-codas": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sperm-whales.jpg",
+          "cap": "Crédito: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Project CETI, una organización sin fines de lucro fundada en 2020 con más de 50 investigadores, usa IA, aprendizaje automático y robótica respetuosa con los cetáceos para descifrar la comunicación de los cachalotes frente a Dominica. Giovanni Petri, de Northeastern University London, es uno de sus investigadores principales."
+        },
+        {
+          "t": "p",
+          "x": "Etiquetas con sensores de GPS, profundidad, movimiento y frecuencia cardíaca siguen a las ballenas en inmersiones de alimentación de 45 minutos a una hora, hasta unos 700 metros, mientras hidrófonos y planeadores registran clics rítmicos llamados codas, que Petri describe como “palabritas”."
+        },
+        {
+          "t": "p",
+          "x": "El reconocimiento de patrones con IA automatiza gran parte de la anotación y clasifica los clics por ballena, y el equipo de biología revisa los resultados."
+        },
+        {
+          "t": "p",
+          "x": "Al combinar el audio con los datos de profundidad y movimiento, los modelos de aprendizaje automático mostraron que unas ocho a 10 codas permiten predecir si las ballenas están a punto de iniciar una inmersión profunda para alimentarse."
+        },
+        {
+          "t": "p",
+          "x": "El equipo encontró en las codas dos sonidos parecidos a vocales, pero se desconoce su significado. Las ballenas también podrían escuchar los clics de otras para encontrar calamares en la oscuridad."
+        }
+      ]
+    },
+    "science/science-hallucination-nerd": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/computer-scientists-bu.jpg",
+          "cap": "Arquitectura de HallucinationNerd. Crédito: Information (2026). DOI: 10.3390/info17111053"
+        },
+        {
+          "t": "p",
+          "x": "Científicos de la computación y estudiantes de NYU crearon dos sistemas de IA alojados en la web, descritos en dos artículos de la revista Information. Dennis Shasha, profesor de ciencias de la computación del Courant Institute de NYU, dirigió ambos proyectos."
+        },
+        {
+          "t": "p",
+          "x": "Hallucination Nerd permite comprobar si las afirmaciones que un documento hace sobre sus citas están respaldadas por los documentos citados, y califica cada una como Supported, Partially Supported, Not Supported, Contradicted, Cited article does not exist o Could not access."
+        },
+        {
+          "t": "p",
+          "x": "Protocol Nerd busca ayudar a los científicos de laboratorio que necesitan protocolos experimentales. Primero hace preguntas aclaratorias, luego ofrece varios protocolos y explica por qué cada uno podría servir o no. Por ahora se centra en biología molecular y química."
+        },
+        {
+          "t": "p",
+          "x": "El equipo probó Protocol Nerd con artículos de PubMed y Europe PMC, y Hallucination Nerd con artículos de arXiv, y comparó ambos con sistemas existentes."
+        },
+        {
+          "t": "p",
+          "x": "“Evaluar con precisión y eficiencia la investigación previa solo puede mejorar los estudios posteriores relacionados”, dijo Shasha."
+        }
+      ]
+    },
+    "science/science-forty-forest-map": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/WGEFKF0mS4Mon9B5jZmraPj5UVTfZ0HtW0VXaLS0Ijm67blWFirP4Opi5IX6QLWEbq9MSQituskRlxKgUpGfD8-C6kIbe7etM9bTbvLg3rmG5gTkwc4=w1440-h810-n-nu"
+        },
+        {
+          "t": "p",
+          "x": "Google DeepMind y Google Research, junto con el World Resources Institute y IIASA, publicaron Forest Typology (ForTy) 2020, un mapa global que clasifica cada parcela de tierra de 10-by-10-meter (10 × 10 metros) en seis tipos de bosque y uso del suelo, además de una serie temporal preliminar que sigue los cambios de cada año entre 2017 y 2025."
+        },
+        {
+          "t": "p",
+          "x": "Las seis categorías son bosque primario, bosque de regeneración natural, bosque plantado, bosque de plantación, cultivos arbóreos y agroforestería, y otras tierras."
+        },
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/wAQ6wnzu6Lr-VMuS6ielTWpKEcpB2PkjN0XTdby80-NtefdPj9-ZKCrVPk-CSPuZ6GN8B4sScphV7sUd9dwrgprBrijy8wj3Z9fIv7eg2QAcMUMGPA=w1440-h810-n-nu",
+          "cap": "El mapa de Forest Typology de 2020. Cada color muestra el tipo de bosque o de tierra más común en cada kilómetro cuadrado."
+        },
+        {
+          "t": "p",
+          "x": "El modelo se entrenó con unos 1,7 millones de ubicaciones etiquetadas y usa los embeddings de AlphaEarth Foundations como entrada clave."
+        },
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/l0vzsdd-HHJUPQaQCHx4yzAOG-ULvQ20EM0HypoHdYpj-LMesy8I_dHhGwGtxjY1mRfa44OkiD_An7SgiHHXfaKQhgelgfZcdHWd9aPLGg_0wGyshw=w1440-h810-n-nu",
+          "cap": "Desde arriba, las cinco clases de bosque y cultivos arbóreos pueden parecerse."
+        },
+        {
+          "t": "p",
+          "x": "Validado en más de 9.000 sitios aleatorios, ForTy acertó el tipo de bosque el 90 % de las veces y distinguió el bosque de lo que no es bosque el 95 % de las veces."
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/wbSzS_gEiCrn4Dc1/Figure4_light_1.mp4"
+        },
+        {
+          "t": "p",
+          "x": "El mapa y la serie temporal están disponibles gratis en Google Earth Engine con una licencia abierta."
+        }
+      ]
+    },
+    "science/science-quantum-circuit-kaggle": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Google-Image.png"
+        },
+        {
+          "t": "p",
+          "x": "Google Quantum AI lanza un concurso para usar inteligencia artificial con el fin de reducir los circuitos necesarios para una computación cuántica útil, con una bolsa total de premios de $150,000."
+        },
+        {
+          "t": "p",
+          "x": "Alojado en Kaggle, el concurso reta a los participantes a reducir el número de pasos de cómputo y de qubits necesarios para tareas de energía de fusión, optimización matemática y química."
+        },
+        {
+          "t": "p",
+          "x": "Utiliza kickmix, una biblioteca de código abierto del proyecto Qualtran de Google, cuyos circuitos pueden verificar computadoras convencionales mediante pruebas de fuzzing aleatorizadas a 60.000 millones de puertas por segundo en un solo núcleo."
+        },
+        {
+          "t": "p",
+          "x": "Google afirmó que experimentos internos con sus modelos Gemini ya han logrado mejoras que superan los circuitos publicados hasta la fecha en los tres benchmarks."
+        },
+        {
+          "t": "p",
+          "x": "Los premios incluyen $10,000 para la mejor puntuación en cada una de las tres tareas."
+        }
+      ]
+    },
+    "science/science-navier-stokes-proof": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/676cb480-a9d0-4bb0-a42f-466e549cfa5c/ink-clash.jpg?m=1792683756.522&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "El 8 de septiembre, OpenAI afirmó haber resuelto Navier-Stokes, uno de los siete Millennium Prize Problems del Clay Mathematics Institute dotados con $1 million, justo después de que el matemático de N.Y.U. Tristan Buckmaster acusara públicamente a la empresa de aparentemente robar su trabajo."
+        },
+        {
+          "t": "p",
+          "x": "Buckmaster trabajaba con el matemático de Anthropic Levent Alpöge, dando instrucciones a una combinación de modelos de Anthropic y OpenAI. El 15 de agosto Claude provocó la explosión de las ecuaciones de Euler, y el 22 de agosto la prueba se verificó en Lean."
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/f24c2ce2-1fe8-47ba-b469-5397351e6a59/lecture-collage.jpeg?m=1792685495.812&w=900",
+          "cap": "La sala 109 del Warren Weaver Hall de N.Y.U. se llenó, con público de pie, en la primera conferencia pública de Buckmaster desde su choque con OpenAI."
+        },
+        {
+          "t": "p",
+          "x": "Alarmado por los rumores, el equipo de OpenAI lanzó copias de un nuevo modelo interno contra los Millennium Problems abiertos. Un escuadrón de 100 agentes produjo su propia prueba de Euler; después, un enjambre de 10,000 agentes, que según se informa consumió $15 million en computación, resolvió Navier-Stokes."
+        },
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/6a2f980d-9a8d-4ea5-8bfa-5220f1bf13f4/buckmaster-portrait.jpg?m=1792684575.161&w=900",
+          "cap": "Tristan Buckmaster, matemático del Courant Institute de N.Y.U."
+        },
+        {
+          "t": "p",
+          "x": "Los expertos dicen ahora que la prueba de Navier-Stokes del enjambre siguió su propio camino. Buckmaster sigue creyendo que OpenAI se apoyó en sus avances; OpenAI lo niega de forma tajante. El episodio advierte de que los LLMs están demostrando resultados más rápido de lo que los humanos pueden entenderlos."
+        }
+      ]
     }
   }
 }

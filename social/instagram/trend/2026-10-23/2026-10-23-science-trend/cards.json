@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "issue": "양자 연구에 들어온 AI",
+    "date": "2026.10.23",
+    "section": "SCIENCE",
+    "accent": "#3aa655",
+    "note": "AI가 양자 회로 설계, 오류 정정 디코더 보정, 양자 시뮬레이션 실행까지 단계마다 들어온다",
+    "sources": [
+      "https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations/",
+      "https://thequantuminsider.com/2026/10/15/riverlane-nvidia-ai-quantum-decoder-calibration/",
+      "https://physicsworld.com/a/using-ai-agents-to-run-quantum-simulations/"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "3건 · 과학 · 10.18~10.23",
+      "thread": [
+        {
+          "d": "10.18",
+          "t": "회로 설계",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.19",
+          "t": "디코더 보정",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.23",
+          "t": "시뮬레이션",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        }
+      ],
+      "thread_note": "AI가 양자 연구의 설계·보정·계산을 하나씩 맡아 간다",
+      "eyebrow": "흐름 · 과학",
+      "headline": "양자 연구, 단계마다 AI가",
+      "body": "한 건씩 보면 각자의 도구지만, 이어 보면 회로를 짜고, 오류 정정을 맞추고, 시뮬레이션을 돌리는 일이 차례로 AI에게 간다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.10.18",
+      "headline": "Claude가 양자 회로를 줄였다",
+      "body": "한 디코딩 회로의 Toffoli 게이트 수다. 하드웨어 시연이 아닌 자원 추정이고, 동료 심사 전이다.",
+      "foot": "2026.10.18",
+      "_src": "https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations/",
+      "_id": "science-claude-quantum-circuits",
+      "stat_top": "510만 개",
+      "stat_arrow": "Claude가 다시 설계하니",
+      "stat_bottom": "약 44만 개"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.19",
+      "headline": "디코더 보정, 3분에서 2.8초로",
+      "body": "Riverlane의 AI 보정 루프는 GPU에서 표면 부호 학습 주기를 단일 CPU 코어 3분에서 2.8초로 줄였다.",
+      "foot": "2026.10.19",
+      "_src": "https://thequantuminsider.com/2026/10/15/riverlane-nvidia-ai-quantum-decoder-calibration/",
+      "_id": "science-riverlane-nvidia-decoder",
+      "media": "pipeline/media/science-riverlane-nvidia-decoder.png"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.23",
+      "headline": "에이전트가 양자 시뮬레이션을",
+      "body": "El Agente Cuántico는 전문 에이전트에게 일을 나눠 맡긴다. 전문가 평가 97~100점, 일부는 지시를 벗어났다.",
+      "foot": "2026.10.23",
+      "_src": "https://physicsworld.com/a/using-ai-agents-to-run-quantum-simulations/",
+      "_id": "science-quantum-sim-agents",
+      "media": "pipeline/media/science-quantum-sim-agents.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 5
+    }
+  ]
+}

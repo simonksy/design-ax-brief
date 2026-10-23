@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "issue": "쓴다는 말, 안 쓴다는 말",
+    "date": "2026.10.23",
+    "section": "GAMES",
+    "accent": "#2ec5c5",
+    "note": "게임계에서 AI를 쓰느냐는 질문이 부인·고백·폭로·들킴으로 이어진다",
+    "sources": [
+      "https://www.gamesradar.com/games/world-of-warcraft/accused-of-using-ai-in-world-of-warcraft-forever-videos-blizzard-employee-says-hell-nah-we-have-real-team-members/",
+      "https://www.rockpapershotgun.com/ai-is-a-technofascist-anti-human-and-anti-art-project-says-creator-of-lefty-tech-satire-future-no-thanks-before-explaining-why-he-used-it-anyway",
+      "https://kotaku.com/xbox-manager-tries-to-legitimize-ai-in-wild-rant-deletes-his-account-instead-2000747938",
+      "https://www.gamesradar.com/games/third-person-shooter/someones-getting-fired-arc-raiders-player-says-embark-used-chatgpt-to-respond-to-their-complaint-and-accidentally-sent-several-messages-intended-for-others/"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 게임 · 10.18~10.23",
+      "thread": [
+        {
+          "d": "10.18",
+          "t": "WoW 부인",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "10.22",
+          "t": "개발자 고백",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "10.22",
+          "t": "Xbox 폭로",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "10.23",
+          "t": "Arc Raiders",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        }
+      ],
+      "thread_note": "게임계에서 AI를 쓰느냐는 질문이 부인·고백·폭로·들킴으로 이어진다",
+      "eyebrow": "흐름 · 게임",
+      "headline": "AI를 쓰느냐는 질문",
+      "body": "한 건씩은 해프닝이지만, 이어 보면 게임계는 AI 사용을 어떻게 밝힐지를 두고 같은 자리를 맴돈다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.18",
+      "headline": "Blizzard “AI 안 쓴다”",
+      "body": "WoW: Forever 홍보 영상에 AI 의혹이 일자, 직원들은 실제 팀원이 대본을 쓰고 편집한다고 반박했다.",
+      "foot": "2026.10.18",
+      "_src": "https://www.gamesradar.com/games/world-of-warcraft/accused-of-using-ai-in-world-of-warcraft-forever-videos-blizzard-employee-says-hell-nah-we-have-real-team-members/",
+      "_id": "games-wow-forever",
+      "media": "pipeline/media/games-wow-forever.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.10.22",
+      "headline": "Anti-AI 개발자의 고백",
+      "body": "AI를 비판해 온 그가 Future? No Thanks!의 버그를 고치려고 ChatGPT·Claude를 썼다고 밝혔다.",
+      "foot": "2026.10.22",
+      "_src": "https://www.rockpapershotgun.com/ai-is-a-technofascist-anti-human-and-anti-art-project-says-creator-of-lefty-tech-satire-future-no-thanks-before-explaining-why-he-used-it-anyway",
+      "_id": "games-molleindustria",
+      "quote": "AI generated 코드는\n한번 들어오면\n걷어내기 어렵다",
+      "quote_by": "Paulo “Molleindustria” Pedercini"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.22",
+      "headline": "“Xbox 수백 명이 AI 쓴다”",
+      "body": "Microsoft의 Brandon Stirrup은 게임만 AI를 안 쓰는 척한다고 글을 올렸다가 계정을 지웠다.",
+      "foot": "2026.10.22",
+      "_src": "https://kotaku.com/xbox-manager-tries-to-legitimize-ai-in-wild-rant-deletes-his-account-instead-2000747938",
+      "_id": "games-xbox-ai-manager",
+      "media": "pipeline/media/games-xbox-ai-manager.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.23",
+      "headline": "고객 답변에 남은 ChatGPT",
+      "body": "Arc Raiders 지원팀 답변에 ChatGPT 프롬프트와 남에게 갈 메시지가 섞여 왔다. Embark는 답하지 않았다.",
+      "foot": "2026.10.23",
+      "_src": "https://www.gamesradar.com/games/third-person-shooter/someones-getting-fired-arc-raiders-player-says-embark-used-chatgpt-to-respond-to-their-complaint-and-accidentally-sent-several-messages-intended-for-others/",
+      "_id": "games-arc-raiders-chatgpt-support",
+      "media": "pipeline/media/games-arc-raiders-chatgpt-support.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

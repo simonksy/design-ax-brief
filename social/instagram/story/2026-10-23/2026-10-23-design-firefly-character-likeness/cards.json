@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "issue": "Firefly, 포스터마다 같은 캐릭터를 지킨다",
+    "date": "2026.10.23",
+    "section": "DESIGN",
+    "accent": "#0070f3",
+    "note": "자동 초안. 썸네일은 초안이라 겹친다 — 올리기로 정하면 원문을 받아 숫자를 확인하고 글을 다시 쓰면서 stat·quote 로 장을 세운다.",
+    "sources": [
+      "https://www.youtube.com/watch?v=W1IYLaWyL70"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "eyebrow": "AI × 디자인 · 2026.10.23",
+      "headline": "Firefly, 포스터마다 같은 캐릭터를…",
+      "body": "같은 캐릭터를 처음부터 다시 만들 필요는 없다. 어떤 포즈, 각도, 장면에서도 AI 피사체를 알아볼 수 있게 하는 레퍼런스 시트…",
+      "foot": "밀어서 보기 →",
+      "video": "pipeline/media/design-firefly-character-likeness.mp4",
+      "dur": 4,
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "무슨 일인가",
+      "headline": "Firefly, 포스터마다 같은 캐릭터를…",
+      "body": "튜토리얼에서 익히는 것은 세 가지다. 생성할 때마다 같은 생김새를 붙잡아 두는 다각도 캐릭터 레퍼런스 시트 만들기, 캐릭터 시트와…",
+      "foot": "2026.10.23",
+      "video": "pipeline/media/design-firefly-character-likeness.mp4",
+      "start": 4,
+      "dur": 4,
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "어떻게 되는가",
+      "headline": "Firefly, 포스터마다 같은 캐릭터를…",
+      "body": "영화 포스터나 캐릭터 디자인 프로젝트, 캠페인 콘셉트 작업에 잘 맞는다.",
+      "foot": "2026.10.23",
+      "video": "pipeline/media/design-firefly-character-likeness.mp4",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "짚을 대목",
+      "headline": "Firefly, 포스터마다 같은 캐릭터를…",
+      "body": "목차: 00:01 소개 및 저자 Jesús Ramirez 소개 · 03:48 일관된 캐릭터 생성 · 07:08 레퍼런스를 합성해 영화…",
+      "foot": "2026.10.23",
+      "video": "pipeline/media/design-firefly-character-likeness.mp4",
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "그래서 지금",
+      "headline": "Firefly, 포스터마다 같은 캐릭터를…",
+      "body": "Adobe가 레퍼런스 시트로 Firefly 인물을 한결같이 지키는 법을 알려 준다.",
+      "foot": "2026.10.23",
+      "video": "pipeline/media/design-firefly-character-likeness.mp4",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "section": "marketing",
   "cards": [
     {
-      "id": "marketing-meta-ai-glowups",
+      "id": "marketing-google-gmail-photos-ad-data",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 무단 보정에\nMeta 광고 내린다",
-      "body": "Meta 새 약관상 10월 30일부터 AI 광고는 광고주가 전적으로 책임진다.",
-      "mini_headline": "광고주들, Meta AI 광고 중단",
+      "headline": "Google 광고에\nGmail·Photos도",
+      "body": "Google 새 약관에선 AI용 Gmail·Photos 공유가 광고로도 이어진다.",
+      "mini_headline": "Gmail·Photos 데이터, 광고에",
       "tool": "Marketing",
-      "source": "Adweek",
-      "url": "https://www.adweek.com/media/advertisers-pull-meta-ads-that-had-unwanted-ai-glow-ups/",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
@@ -19,227 +19,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/ATM.webp?w=600&h=315&crop=1"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
           },
           {
             "t": "p",
-            "x": "10월 30일부터는 Meta의 AI가 광고를 망쳐도 광고주가 책임져야 한다. 광고 구매 담당자들은 Meta의 AI가 이미 묻지도 않고 광고를 고친다고 ADWEEK에 말했다."
+            "x": "Google이 개인정보처리방침을 바꿨다. 개인화 AI 기능을 쓰는 사용자는 앞으로 자기 데이터를 바탕으로 한 타깃 광고를 보게 될 수도 있다. Android Authority가 찾아낸 이번 변경으로 Drive, Gmail, Google Photos 데이터를 개인화 광고에 쓰지 않겠다던 약속에 예외가 생겼다. Google은 10월 16일부터 “이 서비스들의 데이터를 개인화 광고를 지원하는 다른 Google 서비스에서 쓸 수 있도록 선택한 경우는 제외한다”는 문구를 넣었다."
           },
           {
             "t": "p",
-            "x": "Bookshop.org는 Meta의 자동 계정 업데이트 때문에 생성형 AI 기능에 저절로 가입됐고, 이 기능이 사람이 만든 광고에 모르는 사이 AI-generated 일러스트를 덧붙였다고 밝혔다. 그 뒤 Meta의 AI 광고 기능을 전부 껐다."
-          },
-          {
-            "t": "img",
-            "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-1.28.28-PM.png?w=1024",
-            "cap": "Bookshop.org의 Threads 게시물"
+            "x": "Google의 Personal Intelligence 기능으로 Drive, Gmail, Google Photos를 AI Mode 등 Search 도구에 연결한 사용자라면 이제 그 콘텐츠를 바탕으로 한 타깃 광고를 볼 수 있다."
           },
           {
             "t": "p",
-            "x": "Meta가 개정한 상업 약관(Commercial Terms)을 보면, AI 기능이 만들거나 바꾼 모든 것은 Meta가 켠 기능이라도 광고주가 \"전적으로 책임\"을 진다. 예전에는 광고주가 Meta의 AI 도구를 직접 골라 썼을 때만 책임이 있었다. Meta 대변인은 이 질문에 바로 답하지 않고, 광고주가 Ads Manager에서 언제든 개별 Advantage+ 기능을 끌 수 있다고만 했다."
+            "x": "광고주는 Drive, Gmail, Photos 정보나 이름, 이메일 주소 같은 개인 식별 정보는 볼 수 없다. 인종, 성적 지향, 종교, 건강처럼 민감한 범주를 근거로 한 광고도 Google은 내보내지 않는다."
           },
           {
             "t": "p",
-            "x": "대행사 Exverus는 품질 점검을 여러 번 거치고도 새어 나간 변경 사항을 지우려고 집행 중인 광고를 내려야 했다. 덧붙은 사이트링크, 언어 번역, 브랜드 자체 미디어로 만든 AI-generated 이미지나 캐러셀 같은 것들이다. Ryan Adams는 \"Meta의 자체 도구가 개선을 적용했을 때조차 Meta는 책임을 전적으로 광고주에게 지운다\"고 말했다."
+            "x": "지금 방침에는 이렇게 쓰여 있다. “예를 들어 Search는 광고를 포함한 콘텐츠를 개인화하기 위해, 사용자가 Search에 접근을 허용한 데이터 일부를 처리할 수 있다.”"
           },
           {
             "t": "p",
-            "x": "AdCellerant는 이제 캠페인마다 Meta의 기본 AI 자동화를 빠짐없이 끈다."
+            "x": "이게 싫다면 Search의 Personal Intelligence 기능에서 앱 연결을 끊거나 Search Services Personalization 설정 페이지에서 Personalized Recommendations를 아예 끄면 된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Advertisers pull Meta ads\nover unwanted AI glow-ups",
-          "body": "Under Meta's terms starting Oct 30, advertisers are solely responsible for whatever its AI creates in their ads.",
-          "mini_headline": "Advertisers pull Meta AI ads",
+          "headline": "Google may target ads with\nyour Gmail and Photos data",
+          "body": "Under Google's new terms, sharing Gmail and Photos data for AI recommendations also opens it to personalized ads.",
+          "mini_headline": "Gmail and Photos data for ads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/ATM.webp?w=600&h=315&crop=1"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "From Oct. 30, if Meta's AI messes up your ad, that's on you. Buyers told ADWEEK that Meta's AI is already reworking their ads without asking."
+                "x": "Google has updated its privacy policy in a way that could mean you’ll start seeing targeted ads based on your personal data if you’re using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. As of October 16th, Google has added the line, “unless you choose to make data from these services available to other Google services that support personalized ads.”"
               },
               {
                 "t": "p",
-                "x": "Bookshop.org said an automated account update from Meta opted it into a generative AI feature, which added an AI-generated illustration to its human-made ad without its knowledge. It has since turned off all of Meta's AI ad features."
-              },
-              {
-                "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-1.28.28-PM.png?w=1024",
-                "cap": "Bookshop.org's post on Threads"
+                "x": "That means anyone who has connected their Drive, Gmail, or Google Photos to AI Mode and other Search tools via Google’s Personal Intelligence feature may now see ads targeted on the basis of that content."
               },
               {
                 "t": "p",
-                "x": "Under Meta's updated Commercial Terms, advertisers will be \"solely responsible\" for whatever its AI features create or change, including features Meta switches on. Previously, liability stood with advertisers only if they chose to use Meta's AI tools. A Meta spokesperson did not directly address the question and said advertisers can turn off individual Advantage+ features in Ads Manager at any time."
+                "x": "Advertisers don’t get access to your Drive, Gmail, and Photos information or personally identifying details such as your name or email address, and Google won’t show you ads based on sensitive categories like race, sexual orientation, religion, or health."
               },
               {
                 "t": "p",
-                "x": "At agency Exverus, even after several rounds of quality checks, the team has had to pull live ads to strip out changes that slipped through, including added sitelinks, language translations, and AI-generated images or carousels built from the brand's own media. \"Meta puts the responsibility squarely on the advertiser, even when Meta's own tools applied the enhancements,\" said Ryan Adams."
+                "x": "The policy now reads: “For example, Search may process some of the data that you allow Search to access to personalize content, including ads.”"
               },
               {
                 "t": "p",
-                "x": "AdCellerant now systematically turns off Meta's default AI automation across every campaign."
+                "x": "To prevent this, you can disconnect apps from Search’s Personal Intelligence features or disable Personalized Recommendations entirely via the Search Services Personalization settings page."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 무단 보정에\nMeta 광고 내린다",
-          "body": "Meta 새 약관상 10월 30일부터 AI 광고는 광고주가 전적으로 책임진다.",
-          "mini_headline": "광고주들, Meta AI 광고 중단",
+          "headline": "Google 광고에\nGmail·Photos도",
+          "body": "Google 새 약관에선 AI용 Gmail·Photos 공유가 광고로도 이어진다.",
+          "mini_headline": "Gmail·Photos 데이터, 광고에",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/ATM.webp?w=600&h=315&crop=1"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "10월 30일부터는 Meta의 AI가 광고를 망쳐도 광고주가 책임져야 한다. 광고 구매 담당자들은 Meta의 AI가 이미 묻지도 않고 광고를 고친다고 ADWEEK에 말했다."
+                "x": "Google이 개인정보처리방침을 바꿨다. 개인화 AI 기능을 쓰는 사용자는 앞으로 자기 데이터를 바탕으로 한 타깃 광고를 보게 될 수도 있다. Android Authority가 찾아낸 이번 변경으로 Drive, Gmail, Google Photos 데이터를 개인화 광고에 쓰지 않겠다던 약속에 예외가 생겼다. Google은 10월 16일부터 “이 서비스들의 데이터를 개인화 광고를 지원하는 다른 Google 서비스에서 쓸 수 있도록 선택한 경우는 제외한다”는 문구를 넣었다."
               },
               {
                 "t": "p",
-                "x": "Bookshop.org는 Meta의 자동 계정 업데이트 때문에 생성형 AI 기능에 저절로 가입됐고, 이 기능이 사람이 만든 광고에 모르는 사이 AI-generated 일러스트를 덧붙였다고 밝혔다. 그 뒤 Meta의 AI 광고 기능을 전부 껐다."
-              },
-              {
-                "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-1.28.28-PM.png?w=1024",
-                "cap": "Bookshop.org의 Threads 게시물"
+                "x": "Google의 Personal Intelligence 기능으로 Drive, Gmail, Google Photos를 AI Mode 등 Search 도구에 연결한 사용자라면 이제 그 콘텐츠를 바탕으로 한 타깃 광고를 볼 수 있다."
               },
               {
                 "t": "p",
-                "x": "Meta가 개정한 상업 약관(Commercial Terms)을 보면, AI 기능이 만들거나 바꾼 모든 것은 Meta가 켠 기능이라도 광고주가 \"전적으로 책임\"을 진다. 예전에는 광고주가 Meta의 AI 도구를 직접 골라 썼을 때만 책임이 있었다. Meta 대변인은 이 질문에 바로 답하지 않고, 광고주가 Ads Manager에서 언제든 개별 Advantage+ 기능을 끌 수 있다고만 했다."
+                "x": "광고주는 Drive, Gmail, Photos 정보나 이름, 이메일 주소 같은 개인 식별 정보는 볼 수 없다. 인종, 성적 지향, 종교, 건강처럼 민감한 범주를 근거로 한 광고도 Google은 내보내지 않는다."
               },
               {
                 "t": "p",
-                "x": "대행사 Exverus는 품질 점검을 여러 번 거치고도 새어 나간 변경 사항을 지우려고 집행 중인 광고를 내려야 했다. 덧붙은 사이트링크, 언어 번역, 브랜드 자체 미디어로 만든 AI-generated 이미지나 캐러셀 같은 것들이다. Ryan Adams는 \"Meta의 자체 도구가 개선을 적용했을 때조차 Meta는 책임을 전적으로 광고주에게 지운다\"고 말했다."
+                "x": "지금 방침에는 이렇게 쓰여 있다. “예를 들어 Search는 광고를 포함한 콘텐츠를 개인화하기 위해, 사용자가 Search에 접근을 허용한 데이터 일부를 처리할 수 있다.”"
               },
               {
                 "t": "p",
-                "x": "AdCellerant는 이제 캠페인마다 Meta의 기본 AI 자동화를 빠짐없이 끈다."
+                "x": "이게 싫다면 Search의 Personal Intelligence 기능에서 앱 연결을 끊거나 Search Services Personalization 설정 페이지에서 Personalized Recommendations를 아예 끄면 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "望まぬAI補正で\n広告主がMeta広告停止",
-          "body": "10月30日からのMeta規約で、広告内のAI生成物は広告主が全責任を負う。",
-          "mini_headline": "広告主がMetaのAI広告を停止",
+          "headline": "Google、Gmailと\nPhotosで広告配信か",
+          "body": "Google新規約で、AI推薦用に共有したGmailとPhotosが広告にも使われる。",
+          "mini_headline": "GmailとPhotosのデータを広告に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/ATM.webp?w=600&h=315&crop=1"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "10月30日以降、MetaのAIが広告を台無しにしても責任は広告主にある。広告バイヤーはADWEEKに対し、MetaのAIがすでに断りなく広告を作り替えていると語った。"
+                "x": "Googleがプライバシーポリシーを更新した。パーソナライズされたAI機能を使っている場合、個人データに基づくターゲット広告が表示され始める可能性がある。Android Authorityが見つけたこの更新は、Drive、Gmail、Google Photosを個人向け広告に使わないという約束に例外を加えるものだ。Googleは10月16日付で「これらのサービスのデータを、パーソナライズド広告に対応する他のGoogleサービスで利用できるようにすることを選んだ場合を除く」という一文を追加した。"
               },
               {
                 "t": "p",
-                "x": "Bookshop.orgによると、Metaのアカウント自動更新で生成AI機能に勝手に登録され、人が制作した広告に知らないうちにAI-generatedのイラストが加えられた。同社はその後、MetaのAI広告機能をすべてオフにした。"
-              },
-              {
-                "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-1.28.28-PM.png?w=1024",
-                "cap": "Bookshop.orgのThreads投稿"
+                "x": "つまり、GoogleのPersonal Intelligence機能を通じてDrive、Gmail、Google PhotosをAI ModeなどのSearchツールに接続した人は、その内容に基づくターゲット広告を目にする可能性がある。"
               },
               {
                 "t": "p",
-                "x": "Metaの改定版Commercial Termsでは、Metaがオンにした機能を含め、AI機能が生成・変更したあらゆるものについて広告主が「単独で責任を負う」。従来は、広告主が自らMetaのAIツールを使うと選んだ場合にのみ責任を負っていた。Metaの広報担当者はこの質問に直接答えず、広告主はAds Managerでいつでも個別のAdvantage+機能をオフにできると述べた。"
+                "x": "広告主がDrive、Gmail、Photosの情報や、名前やメールアドレスといった個人を特定できる情報にアクセスすることはない。またGoogleは、人種、性的指向、宗教、健康といったセンシティブなカテゴリに基づく広告は表示しない。"
               },
               {
                 "t": "p",
-                "x": "代理店Exverusでは、何度も品質チェックを重ねても、すり抜けた変更を取り除くために配信中の広告を止めざるを得なかった。追加されたサイトリンク、言語翻訳、ブランド自身の素材から作られたAI-generatedの画像やカルーセルなどだ。Ryan Adamsは「Meta自身のツールが補正を加えた場合でも、Metaは責任をはっきりと広告主に負わせる」と語った。"
+                "x": "ポリシーには現在こう書かれている。「たとえばSearchは、広告を含むコンテンツをパーソナライズするために、Searchへのアクセスを許可したデータの一部を処理することがある」"
               },
               {
                 "t": "p",
-                "x": "AdCellerantは現在、すべてのキャンペーンでMetaの既定のAI自動化を体系的にオフにしている。"
+                "x": "これを防ぐには、SearchのPersonal Intelligence機能からアプリの接続を解除するか、Search Services Personalizationの設定ページでPersonalized Recommendationsを完全に無効にすればよい。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "广告主撤下Meta广告\n不满AI擅自美化",
-          "body": "根据Meta自10月30日起的条款，其AI在广告中生成的一切内容均由广告主全权负责。",
-          "mini_headline": "广告主撤下Meta AI广告",
+          "headline": "Google或用Gmail\n和Photos投广告",
+          "body": "按Google新条款，为AI推荐共享的Gmail和Photos数据也可用于个性化广告。",
+          "mini_headline": "Gmail和Photos数据用于广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/ATM.webp?w=600&h=315&crop=1"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "自10月30日起，若Meta的AI搞砸了你的广告，责任在你。广告买家告诉ADWEEK，Meta的AI已在未经询问的情况下改动他们的广告。"
+                "x": "Google更新了隐私政策，这意味着如果你在使用个性化AI功能，可能会开始看到基于个人数据的定向广告。这一更新由Android Authority发现，它为Google不将Drive、Gmail或Google Photos用于个性化广告的承诺增加了一个例外。自10月16日起，Google加入了这样一句话：“除非你选择让这些服务中的数据可供其他支持个性化广告的Google服务使用。”"
               },
               {
                 "t": "p",
-                "x": "Bookshop.org表示，Meta的一次账户自动更新让它被动加入了一项生成式AI功能，该功能在它不知情的情况下，往其人工制作的广告里加了一幅AI-generated插图。此后它关闭了Meta的全部AI广告功能。"
-              },
-              {
-                "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-1.28.28-PM.png?w=1024",
-                "cap": "Bookshop.org在Threads上的帖子"
+                "x": "也就是说，凡是通过Google的Personal Intelligence功能把Drive、Gmail或Google Photos连接到AI Mode及其他Search工具的用户，现在都可能看到基于这些内容的定向广告。"
               },
               {
                 "t": "p",
-                "x": "根据Meta更新后的Commercial Terms，对于其AI功能生成或改动的任何内容，包括Meta自行开启的功能，广告主都将\"全权负责\"。此前，只有广告主主动选择使用Meta的AI工具时才需承担责任。Meta发言人未直接回应这一问题，只表示广告主可随时在Ads Manager中关闭单项Advantage+功能。"
+                "x": "广告主无法获取你的Drive、Gmail和Photos信息，也无法获取姓名或电子邮件地址等个人身份信息；Google也不会根据种族、性取向、宗教或健康等敏感类别向你展示广告。"
               },
               {
                 "t": "p",
-                "x": "代理商Exverus即便经过多轮质检，团队仍不得不撤下正在投放的广告，以清除漏网的改动，包括新增的附加链接、语言翻译，以及用品牌自有素材生成的AI-generated图片或轮播。Ryan Adams说：\"即使是Meta自己的工具施加了这些优化，Meta也把责任完全推给广告主。\""
+                "x": "政策现在写道：“例如，Search可能会处理你允许Search访问的部分数据，以个性化包括广告在内的内容。”"
               },
               {
                 "t": "p",
-                "x": "AdCellerant现在会在所有广告活动中系统性地关闭Meta默认的AI自动化。"
+                "x": "若要避免这种情况，可以在Search的Personal Intelligence功能中断开应用连接，或在Search Services Personalization设置页面中彻底关闭Personalized Recommendations。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Anunciantes retiran anuncios\nde Meta por retoques de AI",
-          "body": "Desde el 30 de octubre, los términos de Meta hacen al anunciante único responsable de lo que su AI cree.",
-          "mini_headline": "Anunciantes retiran anuncios con AI de Meta",
+          "headline": "Google podría usar tus datos\nde Gmail y Photos para anuncios",
+          "body": "Según los nuevos términos de Google, compartir Gmail y Photos con la AI también habilita anuncios personalizados.",
+          "mini_headline": "Datos de Gmail y Photos para anuncios",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/ATM.webp?w=600&h=315&crop=1"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "A partir del 30 de octubre, si la AI de Meta estropea tu anuncio, la responsabilidad es tuya. Compradores de medios dijeron a ADWEEK que la AI de Meta ya está modificando sus anuncios sin pedir permiso."
+                "x": "Google actualizó su política de privacidad de una forma que podría hacer que empieces a ver anuncios dirigidos basados en tus datos personales si usas funciones de AI personalizadas. La actualización, detectada por Android Authority, añade una excepción a su promesa de no usar tu Drive, Gmail o Google Photos para anuncios personalizados. Desde el 16 de octubre, Google agregó la frase: “a menos que elijas que los datos de estos servicios estén disponibles para otros servicios de Google que admiten anuncios personalizados”."
               },
               {
                 "t": "p",
-                "x": "Bookshop.org dijo que una actualización automática de su cuenta de Meta la inscribió en una función de AI generativa, que añadió una ilustración AI-generated a su anuncio hecho por personas sin que lo supiera. Desde entonces ha desactivado todas las funciones publicitarias de AI de Meta."
-              },
-              {
-                "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-1.28.28-PM.png?w=1024",
-                "cap": "Publicación de Bookshop.org en Threads"
+                "x": "Eso significa que quien haya conectado su Drive, Gmail o Google Photos a AI Mode y otras herramientas de Search mediante la función Personal Intelligence de Google podría ver ahora anuncios dirigidos según ese contenido."
               },
               {
                 "t": "p",
-                "x": "Según los Commercial Terms actualizados de Meta, los anunciantes serán \"los únicos responsables\" de todo lo que sus funciones de AI creen o modifiquen, incluidas las que Meta active. Antes, la responsabilidad recaía en el anunciante solo si elegía usar las herramientas de AI de Meta. Un portavoz de Meta no respondió directamente a la pregunta y dijo que los anunciantes pueden desactivar funciones individuales de Advantage+ en Ads Manager en cualquier momento."
+                "x": "Los anunciantes no acceden a la información de tu Drive, Gmail y Photos ni a datos de identificación personal como tu nombre o tu dirección de correo electrónico, y Google no te mostrará anuncios basados en categorías sensibles como raza, orientación sexual, religión o salud."
               },
               {
                 "t": "p",
-                "x": "En la agencia Exverus, incluso tras varias rondas de control de calidad, el equipo ha tenido que retirar anuncios activos para eliminar cambios que se colaron, como sitelinks añadidos, traducciones de idioma e imágenes o carruseles AI-generated creados con el material propio de la marca. \"Meta pone la responsabilidad directamente en el anunciante, incluso cuando fueron las propias herramientas de Meta las que aplicaron las mejoras\", dijo Ryan Adams."
+                "x": "La política ahora dice: “Por ejemplo, Search puede procesar algunos de los datos a los que le permites acceder para personalizar contenido, incluidos los anuncios”."
               },
               {
                 "t": "p",
-                "x": "AdCellerant ahora desactiva de forma sistemática la automatización de AI predeterminada de Meta en todas sus campañas."
+                "x": "Para evitarlo, puedes desconectar las apps de las funciones Personal Intelligence de Search o desactivar por completo Personalized Recommendations en la página de configuración Search Services Personalization."
               }
             ]
           }
@@ -247,157 +217,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 무단 보정에\nMeta 광고 내린다",
-          "body": "10월 30일 Meta 약관부터 AI가 만든 광고는 광고주가 전적으로 책임진다.",
-          "mini_headline": "광고주들, Meta AI 광고 중단",
+          "headline": "Google 광고에\nGmail·Photos도",
+          "body": "Google 새 약관에선 AI용 Gmail·Photos 공유가 광고로도 이어진다.",
+          "mini_headline": "Gmail·Photos 데이터, 광고에",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/ATM.webp?w=600&h=315&crop=1"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "10월 30일부터는 Meta의 AI가 광고를 망쳐도 그 책임은 광고주에게 있다. 광고 구매 담당자들은 ADWEEK에 Meta의 AI가 이미 묻지도 않고 광고를 고치고 있다고 말했다."
+                "x": "Google이 개인정보처리방침을 바꿨다. 개인화 AI 기능을 쓰는 사용자라면 앞으로 개인 데이터에 기반한 타깃 광고를 보게 될 수 있다. Android Authority가 발견한 이번 변경은 Drive, Gmail, Google Photos 데이터를 개인화 광고에 쓰지 않겠다는 약속에 예외를 더했다. Google은 10월 16일부터 “이 서비스들의 데이터를 개인화 광고를 지원하는 다른 Google 서비스에서 쓸 수 있도록 선택한 경우는 제외한다”는 문구를 추가했다."
               },
               {
                 "t": "p",
-                "x": "Bookshop.org는 Meta의 자동 계정 업데이트로 생성형 AI 기능에 자동 가입됐고, 이 기능이 사람이 만든 광고에 모르는 사이 AI-generated 일러스트를 덧붙였다고 밝혔다. 이후 Meta의 AI 광고 기능을 모두 껐다."
-              },
-              {
-                "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-1.28.28-PM.png?w=1024",
-                "cap": "Bookshop.org의 Threads 게시물"
+                "x": "Google의 Personal Intelligence 기능으로 Drive, Gmail, Google Photos를 AI Mode 등 Search 도구에 연결한 사용자는 이제 그 콘텐츠에 기반한 타깃 광고를 볼 수 있다는 뜻이다."
               },
               {
                 "t": "p",
-                "x": "Meta가 개정한 상업 약관(Commercial Terms)에 따르면, Meta가 켠 기능을 포함해 AI 기능이 만들거나 바꾼 모든 것에 광고주가 \"전적으로 책임\"을 진다. 이전에는 광고주가 Meta의 AI 도구를 쓰기로 직접 선택했을 때만 책임을 졌다. Meta 대변인은 이 질문에 직접 답하지 않았고, 광고주가 Ads Manager에서 언제든 개별 Advantage+ 기능을 끌 수 있다고만 말했다."
+                "x": "광고주는 Drive, Gmail, Photos 정보나 이름, 이메일 주소 같은 개인 식별 정보에 접근할 수 없다. Google은 인종, 성적 지향, 종교, 건강 같은 민감한 범주에 기반한 광고도 보여주지 않는다."
               },
               {
                 "t": "p",
-                "x": "대행사 Exverus는 여러 차례 품질 점검을 거친 뒤에도 빠져나간 변경 사항을 지우려고 집행 중인 광고를 내려야 했다. 추가된 사이트링크, 언어 번역, 브랜드 자체 미디어로 만든 AI-generated 이미지나 캐러셀 등이다. Ryan Adams는 \"Meta의 자체 도구가 개선을 적용했을 때조차 Meta는 책임을 전적으로 광고주에게 지운다\"고 말했다."
+                "x": "현재 방침에는 이렇게 적혀 있다. “예를 들어 Search는 광고를 포함한 콘텐츠를 개인화하기 위해, 사용자가 Search에 접근을 허용한 데이터 일부를 처리할 수 있다.”"
               },
               {
                 "t": "p",
-                "x": "AdCellerant는 이제 모든 캠페인에서 Meta의 기본 AI 자동화를 체계적으로 끈다."
+                "x": "이를 막으려면 Search의 Personal Intelligence 기능에서 앱 연결을 끊거나, Search Services Personalization 설정 페이지에서 Personalized Recommendations를 완전히 끄면 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "望まぬAI補正で\n広告主がMeta広告停止",
-          "body": "10月30日からのMeta規約で、広告内のAI生成物は広告主が全責任を負う。",
-          "mini_headline": "広告主がMetaのAI広告を停止",
+          "headline": "Google、Gmailと\nPhotosで広告配信か",
+          "body": "Google新規約で、AI推薦用に共有したGmailとPhotosが広告にも使われる。",
+          "mini_headline": "GmailとPhotosのデータを広告に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/ATM.webp?w=600&h=315&crop=1"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "10月30日以降、MetaのAIが広告を台無しにしても責任は広告主にある。広告バイヤーはADWEEKに対し、MetaのAIがすでに断りなく広告を作り替えていると語った。"
+                "x": "Googleがプライバシーポリシーを更新した。パーソナライズされたAI機能を使っている場合、個人データに基づくターゲット広告が表示され始める可能性がある。Android Authorityが見つけたこの更新は、Drive、Gmail、Google Photosを個人向け広告に使わないという約束に例外を加えるものだ。Googleは10月16日付で「これらのサービスのデータを、パーソナライズド広告に対応する他のGoogleサービスで利用できるようにすることを選んだ場合を除く」という一文を追加した。"
               },
               {
                 "t": "p",
-                "x": "Bookshop.orgによると、Metaのアカウント自動更新で生成AI機能に勝手に登録され、人が制作した広告に知らないうちにAI-generatedのイラストが加えられた。同社はその後、MetaのAI広告機能をすべてオフにした。"
-              },
-              {
-                "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-1.28.28-PM.png?w=1024",
-                "cap": "Bookshop.orgのThreads投稿"
+                "x": "つまり、GoogleのPersonal Intelligence機能を通じてDrive、Gmail、Google PhotosをAI ModeなどのSearchツールに接続した人は、その内容に基づくターゲット広告を目にする可能性がある。"
               },
               {
                 "t": "p",
-                "x": "Metaの改定版Commercial Termsでは、Metaがオンにした機能を含め、AI機能が生成・変更したあらゆるものについて広告主が「単独で責任を負う」。従来は、広告主が自らMetaのAIツールを使うと選んだ場合にのみ責任を負っていた。Metaの広報担当者はこの質問に直接答えず、広告主はAds Managerでいつでも個別のAdvantage+機能をオフにできると述べた。"
+                "x": "広告主がDrive、Gmail、Photosの情報や、名前やメールアドレスといった個人を特定できる情報にアクセスすることはない。またGoogleは、人種、性的指向、宗教、健康といったセンシティブなカテゴリに基づく広告は表示しない。"
               },
               {
                 "t": "p",
-                "x": "代理店Exverusでは、何度も品質チェックを重ねても、すり抜けた変更を取り除くために配信中の広告を止めざるを得なかった。追加されたサイトリンク、言語翻訳、ブランド自身の素材から作られたAI-generatedの画像やカルーセルなどだ。Ryan Adamsは「Meta自身のツールが補正を加えた場合でも、Metaは責任をはっきりと広告主に負わせる」と語った。"
+                "x": "ポリシーには現在こう書かれている。「たとえばSearchは、広告を含むコンテンツをパーソナライズするために、Searchへのアクセスを許可したデータの一部を処理することがある」"
               },
               {
                 "t": "p",
-                "x": "AdCellerantは現在、すべてのキャンペーンでMetaの既定のAI自動化を体系的にオフにしている。"
+                "x": "これを防ぐには、SearchのPersonal Intelligence機能からアプリの接続を解除するか、Search Services Personalizationの設定ページでPersonalized Recommendationsを完全に無効にすればよい。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "广告主撤下Meta广告\n不满AI擅自美化",
-          "body": "根据Meta自10月30日起的条款，其AI在广告中生成的一切内容均由广告主全权负责。",
-          "mini_headline": "广告主撤下Meta AI广告",
+          "headline": "Google或用Gmail\n和Photos投广告",
+          "body": "按Google新条款，为AI推荐共享的Gmail和Photos数据也可用于个性化广告。",
+          "mini_headline": "Gmail和Photos数据用于广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/ATM.webp?w=600&h=315&crop=1"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "自10月30日起，若Meta的AI搞砸了你的广告，责任在你。广告买家告诉ADWEEK，Meta的AI已在未经询问的情况下改动他们的广告。"
+                "x": "Google更新了隐私政策，这意味着如果你在使用个性化AI功能，可能会开始看到基于个人数据的定向广告。这一更新由Android Authority发现，它为Google不将Drive、Gmail或Google Photos用于个性化广告的承诺增加了一个例外。自10月16日起，Google加入了这样一句话：“除非你选择让这些服务中的数据可供其他支持个性化广告的Google服务使用。”"
               },
               {
                 "t": "p",
-                "x": "Bookshop.org表示，Meta的一次账户自动更新让它被动加入了一项生成式AI功能，该功能在它不知情的情况下，往其人工制作的广告里加了一幅AI-generated插图。此后它关闭了Meta的全部AI广告功能。"
-              },
-              {
-                "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-1.28.28-PM.png?w=1024",
-                "cap": "Bookshop.org在Threads上的帖子"
+                "x": "也就是说，凡是通过Google的Personal Intelligence功能把Drive、Gmail或Google Photos连接到AI Mode及其他Search工具的用户，现在都可能看到基于这些内容的定向广告。"
               },
               {
                 "t": "p",
-                "x": "根据Meta更新后的Commercial Terms，对于其AI功能生成或改动的任何内容，包括Meta自行开启的功能，广告主都将\"全权负责\"。此前，只有广告主主动选择使用Meta的AI工具时才需承担责任。Meta发言人未直接回应这一问题，只表示广告主可随时在Ads Manager中关闭单项Advantage+功能。"
+                "x": "广告主无法获取你的Drive、Gmail和Photos信息，也无法获取姓名或电子邮件地址等个人身份信息；Google也不会根据种族、性取向、宗教或健康等敏感类别向你展示广告。"
               },
               {
                 "t": "p",
-                "x": "代理商Exverus即便经过多轮质检，团队仍不得不撤下正在投放的广告，以清除漏网的改动，包括新增的附加链接、语言翻译，以及用品牌自有素材生成的AI-generated图片或轮播。Ryan Adams说：\"即使是Meta自己的工具施加了这些优化，Meta也把责任完全推给广告主。\""
+                "x": "政策现在写道：“例如，Search可能会处理你允许Search访问的部分数据，以个性化包括广告在内的内容。”"
               },
               {
                 "t": "p",
-                "x": "AdCellerant现在会在所有广告活动中系统性地关闭Meta默认的AI自动化。"
+                "x": "若要避免这种情况，可以在Search的Personal Intelligence功能中断开应用连接，或在Search Services Personalization设置页面中彻底关闭Personalized Recommendations。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Anunciantes retiran anuncios\nde Meta por retoques de AI",
-          "body": "Desde el 30 de octubre, los términos de Meta hacen al anunciante único responsable de lo que su AI cree.",
-          "mini_headline": "Anunciantes retiran anuncios con AI de Meta",
+          "headline": "Google podría usar tus datos\nde Gmail y Photos para anuncios",
+          "body": "Según los nuevos términos de Google, compartir Gmail y Photos con la AI también habilita anuncios personalizados.",
+          "mini_headline": "Datos de Gmail y Photos para anuncios",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/ATM.webp?w=600&h=315&crop=1"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "A partir del 30 de octubre, si la AI de Meta estropea tu anuncio, la responsabilidad es tuya. Compradores de medios dijeron a ADWEEK que la AI de Meta ya está modificando sus anuncios sin pedir permiso."
+                "x": "Google actualizó su política de privacidad de una forma que podría hacer que empieces a ver anuncios dirigidos basados en tus datos personales si usas funciones de AI personalizadas. La actualización, detectada por Android Authority, añade una excepción a su promesa de no usar tu Drive, Gmail o Google Photos para anuncios personalizados. Desde el 16 de octubre, Google agregó la frase: “a menos que elijas que los datos de estos servicios estén disponibles para otros servicios de Google que admiten anuncios personalizados”."
               },
               {
                 "t": "p",
-                "x": "Bookshop.org dijo que una actualización automática de su cuenta de Meta la inscribió en una función de AI generativa, que añadió una ilustración AI-generated a su anuncio hecho por personas sin que lo supiera. Desde entonces ha desactivado todas las funciones publicitarias de AI de Meta."
-              },
-              {
-                "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-1.28.28-PM.png?w=1024",
-                "cap": "Publicación de Bookshop.org en Threads"
+                "x": "Eso significa que quien haya conectado su Drive, Gmail o Google Photos a AI Mode y otras herramientas de Search mediante la función Personal Intelligence de Google podría ver ahora anuncios dirigidos según ese contenido."
               },
               {
                 "t": "p",
-                "x": "Según los Commercial Terms actualizados de Meta, los anunciantes serán \"los únicos responsables\" de todo lo que sus funciones de AI creen o modifiquen, incluidas las que Meta active. Antes, la responsabilidad recaía en el anunciante solo si elegía usar las herramientas de AI de Meta. Un portavoz de Meta no respondió directamente a la pregunta y dijo que los anunciantes pueden desactivar funciones individuales de Advantage+ en Ads Manager en cualquier momento."
+                "x": "Los anunciantes no acceden a la información de tu Drive, Gmail y Photos ni a datos de identificación personal como tu nombre o tu dirección de correo electrónico, y Google no te mostrará anuncios basados en categorías sensibles como raza, orientación sexual, religión o salud."
               },
               {
                 "t": "p",
-                "x": "En la agencia Exverus, incluso tras varias rondas de control de calidad, el equipo ha tenido que retirar anuncios activos para eliminar cambios que se colaron, como sitelinks añadidos, traducciones de idioma e imágenes o carruseles AI-generated creados con el material propio de la marca. \"Meta pone la responsabilidad directamente en el anunciante, incluso cuando fueron las propias herramientas de Meta las que aplicaron las mejoras\", dijo Ryan Adams."
+                "x": "La política ahora dice: “Por ejemplo, Search puede procesar algunos de los datos a los que le permites acceder para personalizar contenido, incluidos los anuncios”."
               },
               {
                 "t": "p",
-                "x": "AdCellerant ahora desactiva de forma sistemática la automatización de AI predeterminada de Meta en todas sus campañas."
+                "x": "Para evitarlo, puedes desconectar las apps de las funciones Personal Intelligence de Search o desactivar por completo Personalized Recommendations en la página de configuración Search Services Personalization."
               }
             ]
           }
@@ -405,237 +355,195 @@
       }
     },
     {
-      "id": "marketing-chatgpt-ad-stack",
+      "id": "marketing-google-ads-sourced-videos",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "OpenAI가 공개한\nChatGPT 광고 방식",
-      "body": "OpenAI에 따르면 ChatGPT 광고 후보는 LLM이 대화 의도를 읽어 고른다.",
-      "mini_headline": "ChatGPT 광고 구조 들여다보기",
+      "headline": "Google Ads AI가\n승인 소스 영상 추가",
+      "body": "새 Sourced videos 토글로 Google AI가 영상을 자동 추가한다.",
+      "mini_headline": "Google Ads Sourced videos 토글",
       "tool": "Marketing",
-      "source": "Search Engine Journal",
-      "url": "https://www.searchenginejournal.com/openai-details-chatgpt-llm-ad-stack/593857/",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-ads-sourced-videos-42365.html",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_2810482073_1600x840-92.png"
+            "t": "p",
+            "x": "Google Ads가 애셋 최적화 항목에 “Sourced videos” on/off 토글을 새로 넣었다. 켜 두면 Google AI가 승인된 소스에서 관련 영상을 찾아 캠페인에 알아서 추가한다."
           },
           {
             "t": "p",
-            "x": "OpenAI가 ChatGPT 광고 시스템의 작동 방식을 공개했다. 대화를 해석하고 관련 광고를 고르며, 광고 노출을 일반 답변과 떼어 놓는 구조다. OpenAI에 따르면 ChatGPT Ads는 출시 후 200일이 채 안 돼 연환산 매출 런레이트 $1 billion 수준에 올랐고, 광고를 집행한 광고주는 100,000곳이 넘는다."
-          },
-          {
-            "t": "p",
-            "x": "광고를 고르는 시스템은 ChatGPT의 답변을 쓰는 시스템과 따로, 자체 모델과 코드로 돌아간다. ChatGPT는 이 시스템을 기다려 주지 않는다. 너무 늦게 도착한 광고는 그 답변에 붙지 못한다."
-          },
-          {
-            "t": "p",
-            "x": "OpenAI가 \"오케스트레이터(orchestrator)\"라 부르는 모델이 대화를 읽고 관련 부분을 검색 쿼리와 임베딩으로 바꾼다. \"상태 유지(stateful)\" 세션 내내 세부 정보도 추적한다."
+            "x": "이 토글은 Reva Minkoff가 LinkedIn에서 처음 발견했다. 그보다 며칠 앞서 Hana Kobzová는 도움말 문서가 바뀐 것을 알아채고 이번 변경으로 “광고주가 더 이상 수동으로 opt-in하지 않아도 된다”고 지적했다."
           },
           {
             "t": "img",
-            "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/sej_openai-orchestrator-infographic-332.png"
+            "src": "https://images.seroundtable.com/google-ads-sourced-videos-toggle-n1Mv05cA.jpg",
+            "cap": "Sourced videos: “다른 채널의 영상 사용.”"
           },
           {
             "t": "p",
-            "x": "이 모델은 자격 요건(위치 타기팅, 정책, 예산, 페이싱)을 확인하고 적합성과 예상 조회·클릭·전환 가능성을 따진 다음, 최종 순위·가격·선정을 맡은 별도 경매 도구에 후보를 넘긴다. 낙찰자를 고르거나 가격을 매기는 일은 언어 모델이 직접 하지 않는다."
+            "x": "Google 도움말 문서에 따르면 Sourced videos는 Google AI와 자동 영상 크롤링 기술로 Performance Max 캠페인에 맞는 영상을 찾는다. 신규 캠페인에는 모두 기본으로 켜져 있으며 일부 기존 캠페인에서도 저절로 켜졌을 수 있다."
           },
           {
             "t": "p",
-            "x": "경매에서 이긴 광고도 경매 후 적합성 검사에서 걸러지거나 노출 시간대를 놓칠 수 있다. 이번 글에 CPA, ROAS, 전환율 벤치마크는 없다."
+            "x": "소스로는 소셜 미디어 플랫폼, 캠페인 랜딩 페이지, 연결된 YouTube 채널 등이 쓰일 수 있다. 영상은 관련성, 성과 잠재력, 권장사항 준수 여부를 보고 고른다. 크롤링한 영상은 애셋 그룹당 최대 10개까지 자동으로 들어갈 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "OpenAI details how ChatGPT\npicks and serves its ads",
-          "body": "OpenAI says ChatGPT's LLM orchestrator reads multi-turn intent and nominates ads for a separate auction tool.",
-          "mini_headline": "Inside ChatGPT's ad stack",
+          "headline": "Google Ads lets AI add videos\nfrom your approved sources",
+          "body": "A new Sourced videos toggle in asset optimization lets Google AI find videos and add them to campaigns automatically.",
+          "mini_headline": "Google Ads Sourced videos toggle",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_2810482073_1600x840-92.png"
+                "t": "p",
+                "x": "Google Ads has added a new \"Sourced videos\" on/off toggle setting to the asset optimization section. This uses Google AI to identify relevant videos from your approved sources and add them to your campaign automatically."
               },
               {
                 "t": "p",
-                "x": "OpenAI has shared how its ChatGPT advertising system interprets conversations, selects relevant ads, and keeps ad serving separate from organic answers. It says ChatGPT Ads reached $1 billion in annualized revenue run rate less than 200 days after launch, and more than 100,000 advertisers have run ads."
-              },
-              {
-                "t": "p",
-                "x": "The system choosing ads runs separately from the one writing ChatGPT's answers, with its own models and code. ChatGPT doesn't wait for it; an ad that arrives too late won't appear with that response."
-              },
-              {
-                "t": "p",
-                "x": "A model OpenAI calls the \"orchestrator\" reads the conversation, turns relevant parts into search queries and embeddings, and keeps track of details across \"stateful\" sessions."
+                "x": "The toggle was spotted by Reva Minkoff on LinkedIn; Hana Kobzová had spotted the help document change days earlier, noting the change “no longer requires advertisers to opt-in manually.”"
               },
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/sej_openai-orchestrator-infographic-332.png"
+                "src": "https://images.seroundtable.com/google-ads-sourced-videos-toggle-n1Mv05cA.jpg",
+                "cap": "Sourced videos: “Use videos from other channels.”"
               },
               {
                 "t": "p",
-                "x": "It checks eligibility (location targeting, policy, budget, pacing), assesses fit and likely view, click or conversion, then sends candidates to a separate auction tool that handles final ranking, pricing and selection. The language model doesn't directly choose the winner or set the price."
+                "x": "Per Google’s help document, sourced videos use Google AI and automated video crawling technology to identify relevant videos for Performance Max campaigns. They are enabled by default for all new campaigns, and may have been activated automatically on some existing campaigns."
               },
               {
                 "t": "p",
-                "x": "Even an auction winner can be dropped by a post-auction fit check or miss the delivery window. The post gives no CPA, ROAS or conversion-rate benchmarks."
+                "x": "Sources can include social media platforms, your campaign’s landing page and your linked YouTube channel. Videos are selected by relevance, performance potential and best practice adherence, and up to 10 crawled videos can be automatically added to an asset group."
               }
             ]
           }
         },
         "ko": {
-          "headline": "OpenAI가 공개한\nChatGPT 광고 방식",
-          "body": "OpenAI에 따르면 ChatGPT 광고 후보는 LLM이 대화 의도를 읽어 고른다.",
-          "mini_headline": "ChatGPT 광고 구조 들여다보기",
+          "headline": "Google Ads AI가\n승인 소스 영상 추가",
+          "body": "새 Sourced videos 토글로 Google AI가 영상을 자동 추가한다.",
+          "mini_headline": "Google Ads Sourced videos 토글",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_2810482073_1600x840-92.png"
+                "t": "p",
+                "x": "Google Ads가 애셋 최적화 항목에 “Sourced videos” on/off 토글을 새로 넣었다. 켜 두면 Google AI가 승인된 소스에서 관련 영상을 찾아 캠페인에 알아서 추가한다."
               },
               {
                 "t": "p",
-                "x": "OpenAI가 ChatGPT 광고 시스템의 작동 방식을 공개했다. 대화를 해석하고 관련 광고를 고르며, 광고 노출을 일반 답변과 떼어 놓는 구조다. OpenAI에 따르면 ChatGPT Ads는 출시 후 200일이 채 안 돼 연환산 매출 런레이트 $1 billion 수준에 올랐고, 광고를 집행한 광고주는 100,000곳이 넘는다."
-              },
-              {
-                "t": "p",
-                "x": "광고를 고르는 시스템은 ChatGPT의 답변을 쓰는 시스템과 따로, 자체 모델과 코드로 돌아간다. ChatGPT는 이 시스템을 기다려 주지 않는다. 너무 늦게 도착한 광고는 그 답변에 붙지 못한다."
-              },
-              {
-                "t": "p",
-                "x": "OpenAI가 \"오케스트레이터(orchestrator)\"라 부르는 모델이 대화를 읽고 관련 부분을 검색 쿼리와 임베딩으로 바꾼다. \"상태 유지(stateful)\" 세션 내내 세부 정보도 추적한다."
+                "x": "이 토글은 Reva Minkoff가 LinkedIn에서 처음 발견했다. 그보다 며칠 앞서 Hana Kobzová는 도움말 문서가 바뀐 것을 알아채고 이번 변경으로 “광고주가 더 이상 수동으로 opt-in하지 않아도 된다”고 지적했다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/sej_openai-orchestrator-infographic-332.png"
+                "src": "https://images.seroundtable.com/google-ads-sourced-videos-toggle-n1Mv05cA.jpg",
+                "cap": "Sourced videos: “다른 채널의 영상 사용.”"
               },
               {
                 "t": "p",
-                "x": "이 모델은 자격 요건(위치 타기팅, 정책, 예산, 페이싱)을 확인하고 적합성과 예상 조회·클릭·전환 가능성을 따진 다음, 최종 순위·가격·선정을 맡은 별도 경매 도구에 후보를 넘긴다. 낙찰자를 고르거나 가격을 매기는 일은 언어 모델이 직접 하지 않는다."
+                "x": "Google 도움말 문서에 따르면 Sourced videos는 Google AI와 자동 영상 크롤링 기술로 Performance Max 캠페인에 맞는 영상을 찾는다. 신규 캠페인에는 모두 기본으로 켜져 있으며 일부 기존 캠페인에서도 저절로 켜졌을 수 있다."
               },
               {
                 "t": "p",
-                "x": "경매에서 이긴 광고도 경매 후 적합성 검사에서 걸러지거나 노출 시간대를 놓칠 수 있다. 이번 글에 CPA, ROAS, 전환율 벤치마크는 없다."
+                "x": "소스로는 소셜 미디어 플랫폼, 캠페인 랜딩 페이지, 연결된 YouTube 채널 등이 쓰일 수 있다. 영상은 관련성, 성과 잠재력, 권장사항 준수 여부를 보고 고른다. 크롤링한 영상은 애셋 그룹당 최대 10개까지 자동으로 들어갈 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "OpenAIが明かす\nChatGPT広告の仕組み",
-          "body": "OpenAIによると、ChatGPTのLLMが意図を読み、広告候補を別の入札ツールに渡す。",
-          "mini_headline": "ChatGPT広告の舞台裏",
+          "headline": "Google Ads、\nAIが承認元の動画を追加",
+          "body": "新トグルSourced videosで、Google AIが動画を探し自動追加する。",
+          "mini_headline": "Google AdsのSourced videosトグル",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_2810482073_1600x840-92.png"
+                "t": "p",
+                "x": "Google Adsは、アセットの最適化セクションに新しい「Sourced videos」のon/offトグル設定を追加した。Google AIが承認済みのソースから関連する動画を見つけ、キャンペーンに自動で追加する仕組みだ。"
               },
               {
                 "t": "p",
-                "x": "OpenAIは、ChatGPTの広告システムが会話を解釈し、関連する広告を選び、広告配信をオーガニックな回答から切り離す仕組みを公開した。同社によると、ChatGPT Adsはローンチから200日足らずで年換算売上ランレートが$1 billion の水準に達し、100,000以上の広告主が広告を出稿した。"
-              },
-              {
-                "t": "p",
-                "x": "広告を選ぶシステムは、ChatGPTの回答を書くシステムとは別に、独自のモデルとコードで動く。ChatGPTはそれを待たず、届くのが遅すぎた広告はその回答には表示されない。"
-              },
-              {
-                "t": "p",
-                "x": "OpenAIが「orchestrator(オーケストレーター)」と呼ぶモデルが会話を読み、関連部分を検索クエリと埋め込みに変換し、「stateful」なセッションをまたいで詳細を追跡する。"
+                "x": "このトグルはReva MinkoffがLinkedInで見つけた。Hana Kobzováはその数日前にヘルプ文書の変更に気づき、この変更で「広告主が手動でopt-inする必要がなくなった」と指摘していた。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/sej_openai-orchestrator-infographic-332.png"
+                "src": "https://images.seroundtable.com/google-ads-sourced-videos-toggle-n1Mv05cA.jpg",
+                "cap": "Sourced videos:「他のチャンネルの動画を使用」"
               },
               {
                 "t": "p",
-                "x": "このモデルは適格性(地域ターゲティング、ポリシー、予算、ペーシング)を確認し、適合度と表示・クリック・コンバージョンの見込みを評価したうえで、最終的なランク付け、価格設定、選定を担う別の入札ツールに候補を送る。言語モデルが落札者を直接選んだり、価格を決めたりすることはない。"
+                "x": "Googleのヘルプ文書によると、Sourced videosはGoogle AIと自動の動画クローリング技術を使い、Performance Maxキャンペーンに適した動画を特定する。すべての新規キャンペーンでデフォルトで有効になっており、一部の既存キャンペーンでも自動で有効化された可能性がある。"
               },
               {
                 "t": "p",
-                "x": "入札で勝った広告でも、入札後の適合チェックで外されたり、配信の時間枠を逃したりすることがある。投稿にはCPA、ROAS、コンバージョン率のベンチマークは示されていない。"
+                "x": "ソースにはソーシャルメディアのプラットフォーム、キャンペーンのランディングページ、リンクされたYouTubeチャンネルが含まれ得る。動画は関連性、成果の見込み、ベストプラクティスへの準拠度で選ばれ、クロールされた動画は1つのアセットグループに最大10本まで自動で追加される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "OpenAI详解\nChatGPT如何选投广告",
-          "body": "OpenAI称，ChatGPT的LLM编排器读取多轮意图，并把广告提名给独立竞价工具。",
-          "mini_headline": "ChatGPT广告系统揭秘",
+          "headline": "Google Ads让AI\n从授权来源加视频",
+          "body": "新增的Sourced videos开关让Google AI自动找视频并加入广告系列。",
+          "mini_headline": "Google Ads的Sourced videos开关",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_2810482073_1600x840-92.png"
+                "t": "p",
+                "x": "Google Ads在素材优化部分新增了“Sourced videos”on/off开关设置。它借助Google AI从你批准的来源中识别相关视频，并自动加入你的广告系列。"
               },
               {
                 "t": "p",
-                "x": "OpenAI介绍了ChatGPT广告系统如何理解对话、挑选相关广告，并将广告投放与自然回答分开。OpenAI称，ChatGPT Ads上线不到200天，年化收入运行率就达到 $1 billion 的水平，已有超过100,000家广告主投放广告。"
-              },
-              {
-                "t": "p",
-                "x": "挑选广告的系统与撰写ChatGPT回答的系统分开运行，拥有各自的模型和代码。ChatGPT不会等待它；来得太晚的广告不会随该条回答出现。"
-              },
-              {
-                "t": "p",
-                "x": "被OpenAI称为\"orchestrator\"（编排器）的模型会读取对话，把相关部分转为搜索查询和嵌入向量，并在\"stateful\"（有状态）会话中持续追踪细节。"
+                "x": "这个开关由Reva Minkoff在LinkedIn上发现；Hana Kobzová在几天前就注意到了帮助文档的变动，并指出这一变化“不再需要广告主手动opt-in”。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/sej_openai-orchestrator-infographic-332.png"
+                "src": "https://images.seroundtable.com/google-ads-sourced-videos-toggle-n1Mv05cA.jpg",
+                "cap": "Sourced videos：“使用其他频道的视频。”"
               },
               {
                 "t": "p",
-                "x": "它会检查投放资格（地理定向、政策、预算、投放节奏），评估匹配度以及可能的浏览、点击或转化，再把候选广告交给独立的竞价工具，由后者完成最终排序、定价和选择。语言模型不会直接选出胜者或设定价格。"
+                "x": "根据Google的帮助文档，Sourced videos利用Google AI和自动视频抓取技术，为Performance Max广告系列识别相关视频。所有新广告系列默认启用，部分现有广告系列也可能已被自动开启。"
               },
               {
                 "t": "p",
-                "x": "即便赢得竞价，广告也可能在竞价后的匹配检查中被剔除，或错过投放窗口。文章未提供CPA、ROAS或转化率基准。"
+                "x": "来源可包括社交媒体平台、广告系列的着陆页以及你关联的YouTube频道。系统按相关性、效果潜力和最佳实践符合度挑选视频，每个素材组最多可自动加入10个抓取的视频。"
               }
             ]
           }
         },
         "es": {
-          "headline": "OpenAI explica cómo ChatGPT\nelige y sirve sus anuncios",
-          "body": "OpenAI dice que el orquestador LLM de ChatGPT lee la intención y propone anuncios a una subasta aparte.",
-          "mini_headline": "Dentro del sistema de anuncios de ChatGPT",
+          "headline": "Google Ads deja que la AI añada\nvideos de tus fuentes aprobadas",
+          "body": "Un nuevo interruptor Sourced videos permite que Google AI busque videos y los añada a campañas automáticamente.",
+          "mini_headline": "El interruptor Sourced videos de Google Ads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_2810482073_1600x840-92.png"
+                "t": "p",
+                "x": "Google Ads añadió un nuevo interruptor on/off llamado “Sourced videos” en la sección de optimización de recursos. Usa Google AI para identificar videos relevantes de tus fuentes aprobadas y añadirlos automáticamente a tu campaña."
               },
               {
                 "t": "p",
-                "x": "OpenAI explicó cómo su sistema publicitario de ChatGPT interpreta las conversaciones, selecciona anuncios relevantes y mantiene la publicación de anuncios separada de las respuestas orgánicas. Según la empresa, ChatGPT Ads alcanzó una tasa anualizada de ingresos de $1 billion (mil millones de dólares) menos de 200 días después de su lanzamiento, y más de 100,000 anunciantes han publicado anuncios."
-              },
-              {
-                "t": "p",
-                "x": "El sistema que elige los anuncios funciona por separado del que redacta las respuestas de ChatGPT, con sus propios modelos y código. ChatGPT no lo espera: un anuncio que llega demasiado tarde no aparecerá con esa respuesta."
-              },
-              {
-                "t": "p",
-                "x": "Un modelo que OpenAI llama \"orchestrator\" (orquestador) lee la conversación, convierte las partes relevantes en consultas de búsqueda y embeddings, y sigue los detalles a lo largo de sesiones \"stateful\" (con estado)."
+                "x": "Reva Minkoff detectó el interruptor en LinkedIn; Hana Kobzová había advertido el cambio en el documento de ayuda días antes y señaló que el cambio “ya no requiere que los anunciantes hagan opt-in manualmente”."
               },
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/sej_openai-orchestrator-infographic-332.png"
+                "src": "https://images.seroundtable.com/google-ads-sourced-videos-toggle-n1Mv05cA.jpg",
+                "cap": "Sourced videos: “Usar videos de otros canales”."
               },
               {
                 "t": "p",
-                "x": "Comprueba la elegibilidad (segmentación por ubicación, políticas, presupuesto, ritmo de entrega), evalúa la adecuación y la probabilidad de visualización, clic o conversión, y luego envía los candidatos a una herramienta de subasta independiente que se encarga de la clasificación final, el precio y la selección. El modelo de lenguaje no elige directamente al ganador ni fija el precio."
+                "x": "Según el documento de ayuda de Google, los sourced videos usan Google AI y tecnología automatizada de rastreo de videos para identificar videos relevantes para campañas de Performance Max. Están activados por defecto en todas las campañas nuevas y podrían haberse activado automáticamente en algunas campañas existentes."
               },
               {
                 "t": "p",
-                "x": "Incluso un ganador de la subasta puede quedar descartado por una comprobación de adecuación posterior o perder la ventana de entrega. La publicación no ofrece referencias de CPA, ROAS ni tasa de conversión."
+                "x": "Las fuentes pueden incluir plataformas de redes sociales, la página de destino de tu campaña y tu canal de YouTube vinculado. Los videos se seleccionan por relevancia, potencial de rendimiento y cumplimiento de las prácticas recomendadas, y se pueden añadir automáticamente hasta 10 videos rastreados a un grupo de recursos."
               }
             ]
           }
@@ -643,153 +551,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "OpenAI가 공개한\nChatGPT 광고 방식",
-          "body": "OpenAI는 LLM이 의도를 읽어 ChatGPT 광고 후보를 고른다고 밝혔다.",
-          "mini_headline": "ChatGPT 광고 구조 들여다보기",
+          "headline": "Google Ads AI가\n승인 소스 영상 추가",
+          "body": "새 Sourced videos 토글로 Google AI가 영상을 자동 추가한다.",
+          "mini_headline": "Google Ads Sourced videos 토글",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_2810482073_1600x840-92.png"
+                "t": "p",
+                "x": "Google Ads가 애셋 최적화 항목에 새 “Sourced videos” on/off 토글 설정을 추가했다. Google AI가 승인된 소스에서 관련 영상을 찾아 캠페인에 자동으로 넣는 기능이다."
               },
               {
                 "t": "p",
-                "x": "OpenAI가 ChatGPT 광고 시스템이 대화를 해석하고, 관련 광고를 고르고, 광고 노출을 일반 답변과 분리하는 방식을 공개했다. OpenAI에 따르면 ChatGPT Ads는 출시 후 200일이 채 안 돼 연환산 매출 런레이트 $1 billion 수준에 도달했고, 100,000곳이 넘는 광고주가 광고를 집행했다."
-              },
-              {
-                "t": "p",
-                "x": "광고를 고르는 시스템은 ChatGPT의 답변을 쓰는 시스템과 별도로, 자체 모델과 코드로 돌아간다. ChatGPT는 이 시스템을 기다리지 않으며, 너무 늦게 도착한 광고는 해당 답변과 함께 나오지 않는다."
-              },
-              {
-                "t": "p",
-                "x": "OpenAI가 \"오케스트레이터(orchestrator)\"라 부르는 모델이 대화를 읽고, 관련 부분을 검색 쿼리와 임베딩으로 바꾸며, \"상태 유지(stateful)\" 세션 전반에 걸쳐 세부 정보를 추적한다."
+                "x": "이 토글은 Reva Minkoff가 LinkedIn에서 처음 발견했다. 그보다 며칠 앞서 Hana Kobzová가 도움말 문서의 변경을 포착하고 이번 변경으로 “광고주가 더 이상 수동으로 opt-in하지 않아도 된다”고 짚었다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/sej_openai-orchestrator-infographic-332.png"
+                "src": "https://images.seroundtable.com/google-ads-sourced-videos-toggle-n1Mv05cA.jpg",
+                "cap": "Sourced videos: “다른 채널의 영상 사용.”"
               },
               {
                 "t": "p",
-                "x": "이 모델은 자격 요건(위치 타기팅, 정책, 예산, 페이싱)을 확인하고, 적합성과 예상 조회·클릭·전환 가능성을 평가한 뒤, 최종 순위·가격·선정을 맡는 별도의 경매 도구로 후보를 보낸다. 언어 모델이 낙찰자를 직접 고르거나 가격을 정하지는 않는다."
+                "x": "Google 도움말 문서에 따르면 Sourced videos는 Google AI와 자동 영상 크롤링 기술로 Performance Max 캠페인에 맞는 영상을 찾는다. 모든 신규 캠페인에서 기본으로 켜져 있고, 일부 기존 캠페인에서도 자동으로 활성화됐을 수 있다."
               },
               {
                 "t": "p",
-                "x": "경매에서 이긴 광고라도 경매 후 적합성 검사에서 빠지거나 노출 시간대를 놓칠 수 있다. 이번 글에는 CPA, ROAS, 전환율 벤치마크가 없다."
+                "x": "소스에는 소셜 미디어 플랫폼, 캠페인 랜딩 페이지, 연결된 YouTube 채널이 포함될 수 있다. 영상은 관련성, 성과 잠재력, 권장사항 준수 여부를 기준으로 고르며, 크롤링한 영상을 애셋 그룹당 최대 10개까지 자동으로 추가할 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "OpenAIが明かす\nChatGPT広告の仕組み",
-          "body": "OpenAIによると、ChatGPTのLLMが意図を読み、広告候補を別の入札ツールに渡す。",
-          "mini_headline": "ChatGPT広告の舞台裏",
+          "headline": "Google Ads、\nAIが承認元の動画を追加",
+          "body": "新トグルSourced videosで、Google AIが動画を探し自動追加する。",
+          "mini_headline": "Google AdsのSourced videosトグル",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_2810482073_1600x840-92.png"
+                "t": "p",
+                "x": "Google Adsは、アセットの最適化セクションに新しい「Sourced videos」のon/offトグル設定を追加した。Google AIが承認済みのソースから関連する動画を見つけ、キャンペーンに自動で追加する仕組みだ。"
               },
               {
                 "t": "p",
-                "x": "OpenAIは、ChatGPTの広告システムが会話を解釈し、関連する広告を選び、広告配信をオーガニックな回答から切り離す仕組みを公開した。同社によると、ChatGPT Adsはローンチから200日足らずで年換算売上ランレートが$1 billion の水準に達し、100,000以上の広告主が広告を出稿した。"
-              },
-              {
-                "t": "p",
-                "x": "広告を選ぶシステムは、ChatGPTの回答を書くシステムとは別に、独自のモデルとコードで動く。ChatGPTはそれを待たず、届くのが遅すぎた広告はその回答には表示されない。"
-              },
-              {
-                "t": "p",
-                "x": "OpenAIが「orchestrator(オーケストレーター)」と呼ぶモデルが会話を読み、関連部分を検索クエリと埋め込みに変換し、「stateful」なセッションをまたいで詳細を追跡する。"
+                "x": "このトグルはReva MinkoffがLinkedInで見つけた。Hana Kobzováはその数日前にヘルプ文書の変更に気づき、この変更で「広告主が手動でopt-inする必要がなくなった」と指摘していた。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/sej_openai-orchestrator-infographic-332.png"
+                "src": "https://images.seroundtable.com/google-ads-sourced-videos-toggle-n1Mv05cA.jpg",
+                "cap": "Sourced videos:「他のチャンネルの動画を使用」"
               },
               {
                 "t": "p",
-                "x": "このモデルは適格性(地域ターゲティング、ポリシー、予算、ペーシング)を確認し、適合度と表示・クリック・コンバージョンの見込みを評価したうえで、最終的なランク付け、価格設定、選定を担う別の入札ツールに候補を送る。言語モデルが落札者を直接選んだり、価格を決めたりすることはない。"
+                "x": "Googleのヘルプ文書によると、Sourced videosはGoogle AIと自動の動画クローリング技術を使い、Performance Maxキャンペーンに適した動画を特定する。すべての新規キャンペーンでデフォルトで有効になっており、一部の既存キャンペーンでも自動で有効化された可能性がある。"
               },
               {
                 "t": "p",
-                "x": "入札で勝った広告でも、入札後の適合チェックで外されたり、配信の時間枠を逃したりすることがある。投稿にはCPA、ROAS、コンバージョン率のベンチマークは示されていない。"
+                "x": "ソースにはソーシャルメディアのプラットフォーム、キャンペーンのランディングページ、リンクされたYouTubeチャンネルが含まれ得る。動画は関連性、成果の見込み、ベストプラクティスへの準拠度で選ばれ、クロールされた動画は1つのアセットグループに最大10本まで自動で追加される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "OpenAI详解\nChatGPT如何选投广告",
-          "body": "OpenAI称，ChatGPT的LLM编排器读取多轮意图，并把广告提名给独立竞价工具。",
-          "mini_headline": "ChatGPT广告系统揭秘",
+          "headline": "Google Ads让AI\n从授权来源加视频",
+          "body": "新增的Sourced videos开关让Google AI自动找视频并加入广告系列。",
+          "mini_headline": "Google Ads的Sourced videos开关",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_2810482073_1600x840-92.png"
+                "t": "p",
+                "x": "Google Ads在素材优化部分新增了“Sourced videos”on/off开关设置。它借助Google AI从你批准的来源中识别相关视频，并自动加入你的广告系列。"
               },
               {
                 "t": "p",
-                "x": "OpenAI介绍了ChatGPT广告系统如何理解对话、挑选相关广告，并将广告投放与自然回答分开。OpenAI称，ChatGPT Ads上线不到200天，年化收入运行率就达到 $1 billion 的水平，已有超过100,000家广告主投放广告。"
-              },
-              {
-                "t": "p",
-                "x": "挑选广告的系统与撰写ChatGPT回答的系统分开运行，拥有各自的模型和代码。ChatGPT不会等待它；来得太晚的广告不会随该条回答出现。"
-              },
-              {
-                "t": "p",
-                "x": "被OpenAI称为\"orchestrator\"（编排器）的模型会读取对话，把相关部分转为搜索查询和嵌入向量，并在\"stateful\"（有状态）会话中持续追踪细节。"
+                "x": "这个开关由Reva Minkoff在LinkedIn上发现；Hana Kobzová在几天前就注意到了帮助文档的变动，并指出这一变化“不再需要广告主手动opt-in”。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/sej_openai-orchestrator-infographic-332.png"
+                "src": "https://images.seroundtable.com/google-ads-sourced-videos-toggle-n1Mv05cA.jpg",
+                "cap": "Sourced videos：“使用其他频道的视频。”"
               },
               {
                 "t": "p",
-                "x": "它会检查投放资格（地理定向、政策、预算、投放节奏），评估匹配度以及可能的浏览、点击或转化，再把候选广告交给独立的竞价工具，由后者完成最终排序、定价和选择。语言模型不会直接选出胜者或设定价格。"
+                "x": "根据Google的帮助文档，Sourced videos利用Google AI和自动视频抓取技术，为Performance Max广告系列识别相关视频。所有新广告系列默认启用，部分现有广告系列也可能已被自动开启。"
               },
               {
                 "t": "p",
-                "x": "即便赢得竞价，广告也可能在竞价后的匹配检查中被剔除，或错过投放窗口。文章未提供CPA、ROAS或转化率基准。"
+                "x": "来源可包括社交媒体平台、广告系列的着陆页以及你关联的YouTube频道。系统按相关性、效果潜力和最佳实践符合度挑选视频，每个素材组最多可自动加入10个抓取的视频。"
               }
             ]
           }
         },
         "es": {
-          "headline": "OpenAI explica cómo ChatGPT\nelige y sirve sus anuncios",
-          "body": "OpenAI dice que el orquestador LLM de ChatGPT lee la intención y propone anuncios a una subasta aparte.",
-          "mini_headline": "Dentro del sistema de anuncios de ChatGPT",
+          "headline": "Google Ads deja que la AI añada\nvideos de tus fuentes aprobadas",
+          "body": "Un nuevo interruptor Sourced videos permite que Google AI busque videos y los añada a campañas automáticamente.",
+          "mini_headline": "El interruptor Sourced videos de Google Ads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_2810482073_1600x840-92.png"
+                "t": "p",
+                "x": "Google Ads añadió un nuevo interruptor on/off llamado “Sourced videos” en la sección de optimización de recursos. Usa Google AI para identificar videos relevantes de tus fuentes aprobadas y añadirlos automáticamente a tu campaña."
               },
               {
                 "t": "p",
-                "x": "OpenAI explicó cómo su sistema publicitario de ChatGPT interpreta las conversaciones, selecciona anuncios relevantes y mantiene la publicación de anuncios separada de las respuestas orgánicas. Según la empresa, ChatGPT Ads alcanzó una tasa anualizada de ingresos de $1 billion (mil millones de dólares) menos de 200 días después de su lanzamiento, y más de 100,000 anunciantes han publicado anuncios."
-              },
-              {
-                "t": "p",
-                "x": "El sistema que elige los anuncios funciona por separado del que redacta las respuestas de ChatGPT, con sus propios modelos y código. ChatGPT no lo espera: un anuncio que llega demasiado tarde no aparecerá con esa respuesta."
-              },
-              {
-                "t": "p",
-                "x": "Un modelo que OpenAI llama \"orchestrator\" (orquestador) lee la conversación, convierte las partes relevantes en consultas de búsqueda y embeddings, y sigue los detalles a lo largo de sesiones \"stateful\" (con estado)."
+                "x": "Reva Minkoff detectó el interruptor en LinkedIn; Hana Kobzová había advertido el cambio en el documento de ayuda días antes y señaló que el cambio “ya no requiere que los anunciantes hagan opt-in manualmente”."
               },
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/sej_openai-orchestrator-infographic-332.png"
+                "src": "https://images.seroundtable.com/google-ads-sourced-videos-toggle-n1Mv05cA.jpg",
+                "cap": "Sourced videos: “Usar videos de otros canales”."
               },
               {
                 "t": "p",
-                "x": "Comprueba la elegibilidad (segmentación por ubicación, políticas, presupuesto, ritmo de entrega), evalúa la adecuación y la probabilidad de visualización, clic o conversión, y luego envía los candidatos a una herramienta de subasta independiente que se encarga de la clasificación final, el precio y la selección. El modelo de lenguaje no elige directamente al ganador ni fija el precio."
+                "x": "Según el documento de ayuda de Google, los sourced videos usan Google AI y tecnología automatizada de rastreo de videos para identificar videos relevantes para campañas de Performance Max. Están activados por defecto en todas las campañas nuevas y podrían haberse activado automáticamente en algunas campañas existentes."
               },
               {
                 "t": "p",
-                "x": "Incluso un ganador de la subasta puede quedar descartado por una comprobación de adecuación posterior o perder la ventana de entrega. La publicación no ofrece referencias de CPA, ROAS ni tasa de conversión."
+                "x": "Las fuentes pueden incluir plataformas de redes sociales, la página de destino de tu campaña y tu canal de YouTube vinculado. Los videos se seleccionan por relevancia, potencial de rendimiento y cumplimiento de las prácticas recomendadas, y se pueden añadir automáticamente hasta 10 videos rastreados a un grupo de recursos."
               }
             ]
           }
@@ -797,15 +677,15 @@
       }
     },
     {
-      "id": "marketing-cnn-international-agentic-ads",
+      "id": "marketing-etsy-non-ai-image-rule",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "에이전트 광고 겨눈 CNN\nInternational",
-      "body": "CNN International이 아직 초기인 AI 에이전트 광고 판매를 준비한다.",
-      "mini_headline": "에이전트 광고에 거는 CNN",
+      "headline": "Etsy, 리스팅 대부분에\nnon-AI 이미지 의무화",
+      "body": "Etsy는 대다수 리스팅에 non-AI-generated 사진 한 장을 요구한다.",
+      "mini_headline": "Etsy의 non-AI 이미지 규칙",
       "tool": "Marketing",
-      "source": "Digiday",
-      "url": "https://digiday.com/media/why-cnn-international-is-building-for-agentic-ad-market-that-barely-exists-yet/",
+      "source": "Retail Dive",
+      "url": "https://www.retaildive.com/news/etsy-updates-ai-use-policies-emphasize-craftsmanship/833838/",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
@@ -813,197 +693,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/interational-agentic-workflow-digiday.jpg"
+            "src": "https://imgproxy.divecdn.com/cYMlDQ6lWlMzUd8EncbsCfReT9sYO5rMJj0jdZzDCxw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODUzMTg0NjY1LmpwZw==.webp",
+            "cap": "New York City 본사에 걸린 Etsy 로고."
           },
           {
             "t": "p",
-            "x": "Skydance 거래가 마무리되면서 CNN의 앞날은 상당 부분 불투명해졌다. AI 에이전트로 광고를 팔겠다는 CNN International의 계획만은 예외다. 발표 후 일곱 달이 지났지만 이 방송사는 2027년 첫 분기 출시 일정을 그대로 지키고 있다."
+            "x": "이커머스(E-commerce) 마켓플레이스 Etsy가 상품 리스팅의 AI 사용 단속에 나섰다. 목요일 회사 블로그 글에 따르면 Etsy는 이제 대부분의 리스팅에 실제 배경 앞에서 찍고 편집하지 않은 상품 사진을 최소 한 장 넣게 했다."
           },
           {
             "t": "p",
-            "x": "CNN International Commercial과 Warner Bros Discovery에서 디지털 운영을 맡은 부사장 Faisal Karmali는 \"첫 매출이 들어오는 시점으로 Q1을 제시했고, 지금도 그렇게 되길 기대한다\"고 했다."
+            "x": "도안, 레시피, 설명서 같은 기능성 가이드도 이제 AI-generated 콘텐츠로는 만들 수 없다. 봇이 만든(Bot-generated) 리스팅은 허용하지 않고 지운다. 바뀐 이미지 요건을 지키지 않은 리스팅이라면 구매자가 환불을 받을 수 있다."
           },
           {
             "t": "p",
-            "x": "이 방송사는 자체 에이전트 인프라에 수요측 플랫폼 같은 외부 기술 파트너를 엮는 중이다. 그러려면 에이전트에 사업 규칙을 가르치고 프런트엔드를 붙여야 하며, 구매자 에이전트가 기대는 LLMs가 자사 인벤토리를 제대로 읽게 해야 한다."
+            "x": "Etsy는 리스팅 양식에 AI를 쓴 것으로 감지된 이미지를 표시해 주는 안내 기능도 넣었다. Etsy 고객 운영 부사장(Vice President of Customer Operations) James Ossman은 “이번 변화는 결승선이 아니라 출발점”이라고 말했다."
           },
           {
             "t": "p",
-            "x": "풀리지 않은 질문도 있다. 에이전트가 거래 관행을 우회하지 못하게 막을 가드레일은 무엇인지, 표준끼리 경쟁하는 와중에 어떤 용어 체계를 쓸지다. SWYM CEO Ravi Patel은 \"셀러 에이전트는 직접 판매에서 실질적인 효율 향상\"이라며 \"하지만 자동화하는 것은 거래이지 집행이 아니다\"라고 했다."
-          },
-          {
-            "t": "p",
-            "x": "Karmali는 에이전트가 권력을 퍼블리셔 쪽으로 옮겨 올지는 \"말하기엔 너무 이르다\"고 했다. 에이전트 주도(Agent-led) 거래는 CNN International 광고 사업의 5%에서 출발할 수도, 언젠가 50%에 이를 수도 있다는 게 그의 말이다."
+            "x": "이번 조치는 Etsy 자신도 AI 투자를 늘리는 가운데 나왔다. CEO Kruti Patel Goyal은 애널리스트들 앞에서 AI가 주는 가장 큰 기회는 Etsy 안에 있다며 “핵심은 AI로 Etsy가 맞는 구매자와 맞는 판매자를 훨씬, 훨씬 더 잘 연결하게 만드는 것”이라고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "CNN International builds\nfor agentic ad buying",
-          "body": "CNN International plans to sell its ads through AI agents, even though that market barely exists yet.",
-          "mini_headline": "CNN bets on agentic ads",
+          "headline": "Etsy requires at least one\nnon-AI image in most listings",
+          "body": "While implementing more AI, Etsy now requires at least one authentic, non-AI-generated image in most seller listings.",
+          "mini_headline": "Etsy's non-AI image rule",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/interational-agentic-workflow-digiday.jpg"
+                "src": "https://imgproxy.divecdn.com/cYMlDQ6lWlMzUd8EncbsCfReT9sYO5rMJj0jdZzDCxw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODUzMTg0NjY1LmpwZw==.webp",
+                "cap": "The Etsy company logo displayed at its headquarters in New York City."
               },
               {
                 "t": "p",
-                "x": "Plenty about CNN's future is up in the air now the Skydance deal has gone through. CNN International's plan to sell ads through AI agents isn't among them. Seven months after announcing the move, the network still has it on course to launch in the first quarter of 2027."
+                "x": "E-commerce marketplace Etsy is cracking down on AI use in product listings. Etsy now mandates that most listings include at least one unedited photo of the product against a real background, according to a company blog post Thursday."
               },
               {
                 "t": "p",
-                "x": "\"I gave a Q1 timeline to have the first dollars flowing, which I would still be hopeful for,\" said Faisal Karmali, vp of digital operations for CNN International Commercial and Warner Bros Discovery."
+                "x": "Functional guides — such as patterns, recipes and instructions — can no longer be AI-generated. Bot-generated listings aren’t allowed and will be removed, and buyers may receive a refund if a listing didn’t meet the updated image requirements."
               },
               {
                 "t": "p",
-                "x": "The broadcaster is pairing its own agent infrastructure with outside technology partners such as demand-side platforms, which means teaching an agent its business rules, giving it a front end and making sure its inventory reads correctly to the LLMs buyers' agents rely on."
+                "x": "Etsy also added a guidance feature to the listing form that flags images Etsy detects may use AI. “These changes are our starting point, not the finish line,” said James Ossman, Etsy’s Vice President of Customer Operations."
               },
               {
                 "t": "p",
-                "x": "Open questions remain: what guardrails stop agents circumventing trading practices, and which vocabulary they use given competing standards. \"Seller agents are a genuine efficiency gain for direct sales,\" said SWYM CEO Ravi Patel. \"But they automate the deal, not the delivery.\""
-              },
-              {
-                "t": "p",
-                "x": "Karmali called it \"too early to say\" whether agents could shift power to publishers. Agent-led deals could start at 5% of CNN International's ad business, he said, or one day reach 50%."
+                "x": "The move comes as Etsy itself has invested more into using AI. CEO Kruti Patel Goyal told analysts the biggest opportunity for AI is on Etsy itself: “It's really about using AI to make Etsy much, much better at connecting the right buyers with the right sellers.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "에이전트 광고 겨눈 CNN\nInternational",
-          "body": "CNN International이 아직 초기인 AI 에이전트 광고 판매를 준비한다.",
-          "mini_headline": "에이전트 광고에 거는 CNN",
+          "headline": "Etsy, 리스팅 대부분에\nnon-AI 이미지 의무화",
+          "body": "Etsy는 대다수 리스팅에 non-AI-generated 사진 한 장을 요구한다.",
+          "mini_headline": "Etsy의 non-AI 이미지 규칙",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/interational-agentic-workflow-digiday.jpg"
+                "src": "https://imgproxy.divecdn.com/cYMlDQ6lWlMzUd8EncbsCfReT9sYO5rMJj0jdZzDCxw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODUzMTg0NjY1LmpwZw==.webp",
+                "cap": "New York City 본사에 걸린 Etsy 로고."
               },
               {
                 "t": "p",
-                "x": "Skydance 거래가 마무리되면서 CNN의 앞날은 상당 부분 불투명해졌다. AI 에이전트로 광고를 팔겠다는 CNN International의 계획만은 예외다. 발표 후 일곱 달이 지났지만 이 방송사는 2027년 첫 분기 출시 일정을 그대로 지키고 있다."
+                "x": "이커머스(E-commerce) 마켓플레이스 Etsy가 상품 리스팅의 AI 사용 단속에 나섰다. 목요일 회사 블로그 글에 따르면 Etsy는 이제 대부분의 리스팅에 실제 배경 앞에서 찍고 편집하지 않은 상품 사진을 최소 한 장 넣게 했다."
               },
               {
                 "t": "p",
-                "x": "CNN International Commercial과 Warner Bros Discovery에서 디지털 운영을 맡은 부사장 Faisal Karmali는 \"첫 매출이 들어오는 시점으로 Q1을 제시했고, 지금도 그렇게 되길 기대한다\"고 했다."
+                "x": "도안, 레시피, 설명서 같은 기능성 가이드도 이제 AI-generated 콘텐츠로는 만들 수 없다. 봇이 만든(Bot-generated) 리스팅은 허용하지 않고 지운다. 바뀐 이미지 요건을 지키지 않은 리스팅이라면 구매자가 환불을 받을 수 있다."
               },
               {
                 "t": "p",
-                "x": "이 방송사는 자체 에이전트 인프라에 수요측 플랫폼 같은 외부 기술 파트너를 엮는 중이다. 그러려면 에이전트에 사업 규칙을 가르치고 프런트엔드를 붙여야 하며, 구매자 에이전트가 기대는 LLMs가 자사 인벤토리를 제대로 읽게 해야 한다."
+                "x": "Etsy는 리스팅 양식에 AI를 쓴 것으로 감지된 이미지를 표시해 주는 안내 기능도 넣었다. Etsy 고객 운영 부사장(Vice President of Customer Operations) James Ossman은 “이번 변화는 결승선이 아니라 출발점”이라고 말했다."
               },
               {
                 "t": "p",
-                "x": "풀리지 않은 질문도 있다. 에이전트가 거래 관행을 우회하지 못하게 막을 가드레일은 무엇인지, 표준끼리 경쟁하는 와중에 어떤 용어 체계를 쓸지다. SWYM CEO Ravi Patel은 \"셀러 에이전트는 직접 판매에서 실질적인 효율 향상\"이라며 \"하지만 자동화하는 것은 거래이지 집행이 아니다\"라고 했다."
-              },
-              {
-                "t": "p",
-                "x": "Karmali는 에이전트가 권력을 퍼블리셔 쪽으로 옮겨 올지는 \"말하기엔 너무 이르다\"고 했다. 에이전트 주도(Agent-led) 거래는 CNN International 광고 사업의 5%에서 출발할 수도, 언젠가 50%에 이를 수도 있다는 게 그의 말이다."
+                "x": "이번 조치는 Etsy 자신도 AI 투자를 늘리는 가운데 나왔다. CEO Kruti Patel Goyal은 애널리스트들 앞에서 AI가 주는 가장 큰 기회는 Etsy 안에 있다며 “핵심은 AI로 Etsy가 맞는 구매자와 맞는 판매자를 훨씬, 훨씬 더 잘 연결하게 만드는 것”이라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "エージェント広告に挑むCNN\nInternational",
-          "body": "CNN Internationalは、未成熟なAIエージェント広告販売に乗り出す計画だ。",
-          "mini_headline": "CNN、エージェント広告に賭ける",
+          "headline": "Etsy、大半の出品に\nnon-AI画像を義務化",
+          "body": "AI活用を進めるEtsyが、大半の出品にnon-AI-generated画像を求める。",
+          "mini_headline": "Etsyのnon-AI画像ルール",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/interational-agentic-workflow-digiday.jpg"
+                "src": "https://imgproxy.divecdn.com/cYMlDQ6lWlMzUd8EncbsCfReT9sYO5rMJj0jdZzDCxw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODUzMTg0NjY1LmpwZw==.webp",
+                "cap": "New York Cityの本社に掲げられたEtsyのロゴ。"
               },
               {
                 "t": "p",
-                "x": "Skydanceとの取引が完了し、CNNの将来は多くが不透明になった。だが、AIエージェントを通じて広告を販売するCNN Internationalの計画はその例外だ。発表から七か月が経った今も、同ネットワークは2027年第一四半期のローンチに向けて計画どおり進めている。"
+                "x": "Eコマース(E-commerce)マーケットプレイスのEtsyが、商品リスティングでのAI利用の取り締まりに乗り出した。同社が木曜日に公開したブログ記事によると、Etsyは今後、大半のリスティングに実際の背景で撮影した未編集の商品写真を少なくとも一枚含めるよう義務づける。"
               },
               {
                 "t": "p",
-                "x": "CNN International CommercialとWarner Bros Discoveryでデジタルオペレーション担当副社長を務めるFaisal Karmaliは「最初の売上が入る時期としてQ1を示した。今もそうなることを期待している」と語った。"
+                "x": "型紙、レシピ、説明書といった実用的なガイドは、今後AI-generatedのものは認められない。ボットが生成した(Bot-generated)リスティングは許可されず削除され、リスティングが新しい画像要件を満たしていなかった場合、購入者は返金を受けられることがある。"
               },
               {
                 "t": "p",
-                "x": "同局は自前のエージェント基盤に、デマンドサイドプラットフォームなど外部の技術パートナーを組み合わせている。そのためには、エージェントに自社のビジネスルールを教え、フロントエンドを与え、買い手のエージェントが頼るLLMsに在庫が正しく読み取られるようにする必要がある。"
+                "x": "Etsyはまた、AIを使った可能性があると検知した画像を知らせるガイダンス機能を出品フォームに追加した。EtsyのVice President of Customer Operations(カスタマーオペレーション担当副社長)であるJames Ossmanは「今回の変更はゴールではなく出発点だ」と述べた。"
               },
               {
                 "t": "p",
-                "x": "未解決の問題も残る。エージェントが取引慣行をすり抜けるのを防ぐガードレールは何か、競合する規格がある中でどの語彙を使うのか、といった点だ。SWYMのCEO、Ravi Patelは「セラーエージェントは直接販売にとって確かな効率化だ」と述べ、「ただし自動化するのは取引であって、配信ではない」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "Karmaliは、エージェントがパブリッシャー側に力を移せるかどうかについて「まだ言うには早すぎる」とした。Agent-ledの取引はCNN Internationalの広告事業の5%から始まる可能性もあれば、いずれ50%に達する可能性もあるという。"
+                "x": "この動きは、Etsy自身がAI活用への投資を増やすなかで出てきた。CEOのKruti Patel Goyalはアナリストに対し、AIの最大の機会はEtsy自体にあるとし、「要はAIを使って、Etsyが適切な買い手と適切な売り手を結びつける力をはるかに、はるかに高めることだ」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "布局智能体广告的CNN\nInternational",
-          "body": "CNN International计划通过AI智能体销售广告，尽管这一市场尚未成形。",
-          "mini_headline": "CNN押注智能体广告",
+          "headline": "Etsy要求多数商品\n至少一张non-AI图",
+          "body": "Etsy在加大AI投入的同时，要求多数商品至少含一张non-AI-generated图片。",
+          "mini_headline": "Etsy的non-AI图片规定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/interational-agentic-workflow-digiday.jpg"
+                "src": "https://imgproxy.divecdn.com/cYMlDQ6lWlMzUd8EncbsCfReT9sYO5rMJj0jdZzDCxw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODUzMTg0NjY1LmpwZw==.webp",
+                "cap": "Etsy位于New York City总部展示的公司标志。"
               },
               {
                 "t": "p",
-                "x": "随着Skydance交易落定，CNN的未来有许多悬而未决之处，但CNN International通过AI智能体销售广告的计划不在其中。宣布这一举措七个月后，该电视网仍按计划于2027年第一季度推出。"
+                "x": "电商（E-commerce）平台Etsy正在整治商品页面中的AI使用。根据公司周四发布的博客文章，Etsy现在规定，大多数商品页面必须至少包含一张以真实背景拍摄、未经编辑的商品照片。"
               },
               {
                 "t": "p",
-                "x": "CNN International Commercial与Warner Bros Discovery数字运营副总裁Faisal Karmali说：\"我给出的时间表是Q1开始有第一笔收入进账，我现在仍抱有希望。\""
+                "x": "图样、食谱和说明书等功能性指南不得再使用AI-generated内容。由机器人生成的（Bot-generated）商品页面不被允许，将会被删除；如果商品页面未达到更新后的图片要求，买家可能获得退款。"
               },
               {
                 "t": "p",
-                "x": "这家广播公司正把自有的智能体基础设施与需求方平台等外部技术伙伴结合起来，这意味着要教会智能体自身的业务规则、为它配置前端，并确保买方智能体所依赖的LLMs能正确读取其广告库存。"
+                "x": "Etsy还在商品发布表单中加入了一项提示功能，会标记出Etsy检测到可能使用了AI的图片。Etsy客户运营副总裁（Vice President of Customer Operations）James Ossman表示：“这些变化是我们的起点，而不是终点。”"
               },
               {
                 "t": "p",
-                "x": "悬而未决的问题仍然存在：用什么护栏防止智能体绕过交易惯例，以及在标准相互竞争的情况下使用哪套词汇。SWYM CEO Ravi Patel说：\"卖方智能体对直销来说是实实在在的效率提升。\"\"但它们自动化的是交易，而不是投放。\""
-              },
-              {
-                "t": "p",
-                "x": "Karmali表示，智能体能否把权力转向出版商\"现在说还为时过早\"。他说，Agent-led交易起初可能占CNN International广告业务的5%，有朝一日也可能达到50%。"
+                "x": "此举出台之际，Etsy自身也在加大对AI应用的投入。CEO Kruti Patel Goyal对分析师表示，AI最大的机会就在Etsy本身：“关键是用AI让Etsy在连接合适的买家与合适的卖家方面变得好得多、好得多。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "CNN International se prepara\npara la compra agéntica",
-          "body": "CNN International planea vender sus anuncios mediante agentes de AI, aunque ese mercado apenas existe todavía.",
-          "mini_headline": "CNN apuesta por los anuncios agénticos",
+          "headline": "Etsy exige al menos una imagen\nnon-AI en la mayoría de fichas",
+          "body": "Mientras incorpora más AI, Etsy exige al menos una imagen auténtica non-AI-generated en la mayoría de sus fichas.",
+          "mini_headline": "La regla non-AI de Etsy para imágenes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/interational-agentic-workflow-digiday.jpg"
+                "src": "https://imgproxy.divecdn.com/cYMlDQ6lWlMzUd8EncbsCfReT9sYO5rMJj0jdZzDCxw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODUzMTg0NjY1LmpwZw==.webp",
+                "cap": "El logotipo de Etsy en su sede de New York City."
               },
               {
                 "t": "p",
-                "x": "Mucho del futuro de CNN está en el aire ahora que se ha cerrado el acuerdo con Skydance. El plan de CNN International de vender anuncios a través de agentes de AI no forma parte de esa incertidumbre. Siete meses después de anunciar la iniciativa, la cadena mantiene previsto su lanzamiento en el primer trimestre de 2027."
+                "x": "El marketplace de E-commerce Etsy está endureciendo las reglas sobre el uso de AI en las fichas de producto. Etsy exige ahora que la mayoría de las fichas incluyan al menos una foto sin editar del producto sobre un fondo real, según una publicación del blog de la empresa del jueves."
               },
               {
                 "t": "p",
-                "x": "\"Di un plazo de Q1 para que empezaran a entrar los primeros dólares, y sigo teniendo esa esperanza\", dijo Faisal Karmali, vp de operaciones digitales de CNN International Commercial y Warner Bros Discovery."
+                "x": "Las guías funcionales, como patrones, recetas e instrucciones, ya no pueden ser AI-generated. Las fichas generadas por bots (Bot-generated) no están permitidas y se eliminarán, y los compradores podrían recibir un reembolso si una ficha no cumplía los requisitos de imagen actualizados."
               },
               {
                 "t": "p",
-                "x": "La cadena combina su propia infraestructura de agentes con socios tecnológicos externos, como plataformas del lado de la demanda, lo que implica enseñar a un agente sus reglas de negocio, darle una interfaz y asegurarse de que su inventario se lea correctamente en los LLMs de los que dependen los agentes de los compradores."
+                "x": "Etsy también añadió al formulario de publicación una función de orientación que señala las imágenes que Etsy detecta que podrían usar AI. “Estos cambios son nuestro punto de partida, no la meta”, dijo James Ossman, Vice President of Customer Operations de Etsy."
               },
               {
                 "t": "p",
-                "x": "Quedan preguntas abiertas: qué salvaguardas impiden que los agentes eludan las prácticas comerciales y qué vocabulario usan ante estándares que compiten entre sí. \"Los agentes vendedores son una ganancia real de eficiencia para la venta directa\", dijo Ravi Patel, CEO de SWYM. \"Pero automatizan el acuerdo, no la entrega\"."
-              },
-              {
-                "t": "p",
-                "x": "Karmali dijo que es \"demasiado pronto para decir\" si los agentes podrían trasladar poder a los editores. Según él, los acuerdos Agent-led podrían empezar con el 5% del negocio publicitario de CNN International o llegar algún día al 50%."
+                "x": "La medida llega mientras la propia Etsy invierte más en el uso de AI. La CEO Kruti Patel Goyal dijo a los analistas que la mayor oportunidad para la AI está en la propia Etsy: “Se trata realmente de usar la AI para que Etsy sea mucho, mucho mejor conectando a los compradores adecuados con los vendedores adecuados”."
               }
             ]
           }
@@ -1011,761 +873,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "에이전트 광고 겨눈 CNN\nInternational",
-          "body": "CNN International은 초기인 AI 에이전트 광고 판매를 준비한다.",
-          "mini_headline": "CNN, 에이전트 광고에 베팅",
+          "headline": "Etsy, 리스팅 대부분에\nnon-AI 이미지 의무화",
+          "body": "Etsy는 대다수 리스팅에 non-AI-generated 사진 한 장을 요구한다.",
+          "mini_headline": "Etsy의 non-AI 이미지 규칙",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/interational-agentic-workflow-digiday.jpg"
+                "src": "https://imgproxy.divecdn.com/cYMlDQ6lWlMzUd8EncbsCfReT9sYO5rMJj0jdZzDCxw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODUzMTg0NjY1LmpwZw==.webp",
+                "cap": "New York City 본사에 걸린 Etsy 로고."
               },
               {
                 "t": "p",
-                "x": "Skydance 거래가 마무리되면서 CNN의 미래는 많은 부분이 불투명해졌다. 하지만 AI 에이전트로 광고를 팔겠다는 CNN International의 계획은 예외다. 계획을 발표한 지 일곱 달이 지난 지금도 이 방송사는 2027년 첫 분기 출시 일정을 유지하고 있다."
+                "x": "이커머스(E-commerce) 마켓플레이스 Etsy가 상품 리스팅의 AI 사용 단속에 나섰다. 회사가 목요일 올린 블로그 글에 따르면 Etsy는 이제 대부분의 리스팅에 실제 배경 앞에서 찍은 상품 사진을 편집하지 않은 상태로 최소 한 장 넣도록 의무화했다."
               },
               {
                 "t": "p",
-                "x": "CNN International Commercial과 Warner Bros Discovery의 디지털 운영 담당 부사장 Faisal Karmali는 \"첫 매출이 들어오는 시점으로 Q1을 제시했고, 지금도 그렇게 되길 기대한다\"고 말했다."
+                "x": "도안, 레시피, 설명서 같은 기능성 가이드는 더 이상 AI-generated 콘텐츠로 만들 수 없다. 봇이 생성한(Bot-generated) 리스팅은 허용하지 않고 삭제하며, 리스팅이 바뀐 이미지 요건을 지키지 않았다면 구매자는 환불을 받을 수 있다."
               },
               {
                 "t": "p",
-                "x": "이 방송사는 자체 에이전트 인프라에 수요측 플랫폼 같은 외부 기술 파트너를 결합하고 있다. 이를 위해 에이전트에 사업 규칙을 가르치고, 프런트엔드를 붙이고, 구매자 에이전트가 의존하는 LLMs에 자사 인벤토리가 제대로 읽히도록 해야 한다."
+                "x": "Etsy는 리스팅 양식에 AI를 쓴 것으로 감지된 이미지를 표시하는 안내 기능도 더했다. Etsy 고객 운영 부사장(Vice President of Customer Operations) James Ossman은 “이번 변화는 결승선이 아니라 출발점”이라고 말했다."
               },
               {
                 "t": "p",
-                "x": "풀리지 않은 질문도 남아 있다. 에이전트가 거래 관행을 우회하지 못하게 막을 가드레일은 무엇인지, 표준이 경쟁하는 상황에서 어떤 용어 체계를 쓸지다. SWYM CEO Ravi Patel은 \"셀러 에이전트는 직접 판매에서 실질적인 효율 향상\"이라며 \"하지만 자동화하는 것은 거래이지 집행이 아니다\"라고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "Karmali는 에이전트가 권력을 퍼블리셔 쪽으로 옮길 수 있을지는 \"말하기엔 너무 이르다\"고 했다. 그는 에이전트 주도(Agent-led) 거래가 CNN International 광고 사업의 5%에서 시작할 수도 있고, 언젠가 50%에 이를 수도 있다고 말했다."
+                "x": "이번 조치는 Etsy 스스로 AI 활용에 투자를 늘리는 가운데 나왔다. CEO Kruti Patel Goyal은 애널리스트들에게 AI의 가장 큰 기회는 Etsy 자체에 있다며 “핵심은 AI로 Etsy가 맞는 구매자와 맞는 판매자를 훨씬, 훨씬 더 잘 연결하게 만드는 것”이라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "エージェント広告に挑むCNN\nInternational",
-          "body": "CNN Internationalは、未成熟なAIエージェント広告販売に乗り出す計画だ。",
-          "mini_headline": "CNN、エージェント広告に賭ける",
+          "headline": "Etsy、大半の出品に\nnon-AI画像を義務化",
+          "body": "AI活用を進めるEtsyが、大半の出品にnon-AI-generated画像を求める。",
+          "mini_headline": "Etsyのnon-AI画像ルール",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/interational-agentic-workflow-digiday.jpg"
+                "src": "https://imgproxy.divecdn.com/cYMlDQ6lWlMzUd8EncbsCfReT9sYO5rMJj0jdZzDCxw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODUzMTg0NjY1LmpwZw==.webp",
+                "cap": "New York Cityの本社に掲げられたEtsyのロゴ。"
               },
               {
                 "t": "p",
-                "x": "Skydanceとの取引が完了し、CNNの将来は多くが不透明になった。だが、AIエージェントを通じて広告を販売するCNN Internationalの計画はその例外だ。発表から七か月が経った今も、同ネットワークは2027年第一四半期のローンチに向けて計画どおり進めている。"
+                "x": "Eコマース(E-commerce)マーケットプレイスのEtsyが、商品リスティングでのAI利用の取り締まりに乗り出した。同社が木曜日に公開したブログ記事によると、Etsyは今後、大半のリスティングに実際の背景で撮影した未編集の商品写真を少なくとも一枚含めるよう義務づける。"
               },
               {
                 "t": "p",
-                "x": "CNN International CommercialとWarner Bros Discoveryでデジタルオペレーション担当副社長を務めるFaisal Karmaliは「最初の売上が入る時期としてQ1を示した。今もそうなることを期待している」と語った。"
+                "x": "型紙、レシピ、説明書といった実用的なガイドは、今後AI-generatedのものは認められない。ボットが生成した(Bot-generated)リスティングは許可されず削除され、リスティングが新しい画像要件を満たしていなかった場合、購入者は返金を受けられることがある。"
               },
               {
                 "t": "p",
-                "x": "同局は自前のエージェント基盤に、デマンドサイドプラットフォームなど外部の技術パートナーを組み合わせている。そのためには、エージェントに自社のビジネスルールを教え、フロントエンドを与え、買い手のエージェントが頼るLLMsに在庫が正しく読み取られるようにする必要がある。"
+                "x": "Etsyはまた、AIを使った可能性があると検知した画像を知らせるガイダンス機能を出品フォームに追加した。EtsyのVice President of Customer Operations(カスタマーオペレーション担当副社長)であるJames Ossmanは「今回の変更はゴールではなく出発点だ」と述べた。"
               },
               {
                 "t": "p",
-                "x": "未解決の問題も残る。エージェントが取引慣行をすり抜けるのを防ぐガードレールは何か、競合する規格がある中でどの語彙を使うのか、といった点だ。SWYMのCEO、Ravi Patelは「セラーエージェントは直接販売にとって確かな効率化だ」と述べ、「ただし自動化するのは取引であって、配信ではない」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "Karmaliは、エージェントがパブリッシャー側に力を移せるかどうかについて「まだ言うには早すぎる」とした。Agent-ledの取引はCNN Internationalの広告事業の5%から始まる可能性もあれば、いずれ50%に達する可能性もあるという。"
+                "x": "この動きは、Etsy自身がAI活用への投資を増やすなかで出てきた。CEOのKruti Patel Goyalはアナリストに対し、AIの最大の機会はEtsy自体にあるとし、「要はAIを使って、Etsyが適切な買い手と適切な売り手を結びつける力をはるかに、はるかに高めることだ」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "布局智能体广告的CNN\nInternational",
-          "body": "CNN International计划通过AI智能体销售广告，尽管这一市场尚未成形。",
-          "mini_headline": "CNN押注智能体广告",
+          "headline": "Etsy要求多数商品\n至少一张non-AI图",
+          "body": "Etsy在加大AI投入的同时，要求多数商品至少含一张non-AI-generated图片。",
+          "mini_headline": "Etsy的non-AI图片规定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/interational-agentic-workflow-digiday.jpg"
+                "src": "https://imgproxy.divecdn.com/cYMlDQ6lWlMzUd8EncbsCfReT9sYO5rMJj0jdZzDCxw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODUzMTg0NjY1LmpwZw==.webp",
+                "cap": "Etsy位于New York City总部展示的公司标志。"
               },
               {
                 "t": "p",
-                "x": "随着Skydance交易落定，CNN的未来有许多悬而未决之处，但CNN International通过AI智能体销售广告的计划不在其中。宣布这一举措七个月后，该电视网仍按计划于2027年第一季度推出。"
+                "x": "电商（E-commerce）平台Etsy正在整治商品页面中的AI使用。根据公司周四发布的博客文章，Etsy现在规定，大多数商品页面必须至少包含一张以真实背景拍摄、未经编辑的商品照片。"
               },
               {
                 "t": "p",
-                "x": "CNN International Commercial与Warner Bros Discovery数字运营副总裁Faisal Karmali说：\"我给出的时间表是Q1开始有第一笔收入进账，我现在仍抱有希望。\""
+                "x": "图样、食谱和说明书等功能性指南不得再使用AI-generated内容。由机器人生成的（Bot-generated）商品页面不被允许，将会被删除；如果商品页面未达到更新后的图片要求，买家可能获得退款。"
               },
               {
                 "t": "p",
-                "x": "这家广播公司正把自有的智能体基础设施与需求方平台等外部技术伙伴结合起来，这意味着要教会智能体自身的业务规则、为它配置前端，并确保买方智能体所依赖的LLMs能正确读取其广告库存。"
+                "x": "Etsy还在商品发布表单中加入了一项提示功能，会标记出Etsy检测到可能使用了AI的图片。Etsy客户运营副总裁（Vice President of Customer Operations）James Ossman表示：“这些变化是我们的起点，而不是终点。”"
               },
               {
                 "t": "p",
-                "x": "悬而未决的问题仍然存在：用什么护栏防止智能体绕过交易惯例，以及在标准相互竞争的情况下使用哪套词汇。SWYM CEO Ravi Patel说：\"卖方智能体对直销来说是实实在在的效率提升。\"\"但它们自动化的是交易，而不是投放。\""
-              },
-              {
-                "t": "p",
-                "x": "Karmali表示，智能体能否把权力转向出版商\"现在说还为时过早\"。他说，Agent-led交易起初可能占CNN International广告业务的5%，有朝一日也可能达到50%。"
+                "x": "此举出台之际，Etsy自身也在加大对AI应用的投入。CEO Kruti Patel Goyal对分析师表示，AI最大的机会就在Etsy本身：“关键是用AI让Etsy在连接合适的买家与合适的卖家方面变得好得多、好得多。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "CNN International se prepara\npara la compra agéntica",
-          "body": "CNN International planea vender sus anuncios mediante agentes de AI, aunque ese mercado apenas existe todavía.",
-          "mini_headline": "CNN apuesta por los anuncios agénticos",
+          "headline": "Etsy exige al menos una imagen\nnon-AI en la mayoría de fichas",
+          "body": "Mientras incorpora más AI, Etsy exige al menos una imagen auténtica non-AI-generated en la mayoría de sus fichas.",
+          "mini_headline": "La regla non-AI de Etsy para imágenes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/interational-agentic-workflow-digiday.jpg"
+                "src": "https://imgproxy.divecdn.com/cYMlDQ6lWlMzUd8EncbsCfReT9sYO5rMJj0jdZzDCxw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODUzMTg0NjY1LmpwZw==.webp",
+                "cap": "El logotipo de Etsy en su sede de New York City."
               },
               {
                 "t": "p",
-                "x": "Mucho del futuro de CNN está en el aire ahora que se ha cerrado el acuerdo con Skydance. El plan de CNN International de vender anuncios a través de agentes de AI no forma parte de esa incertidumbre. Siete meses después de anunciar la iniciativa, la cadena mantiene previsto su lanzamiento en el primer trimestre de 2027."
+                "x": "El marketplace de E-commerce Etsy está endureciendo las reglas sobre el uso de AI en las fichas de producto. Etsy exige ahora que la mayoría de las fichas incluyan al menos una foto sin editar del producto sobre un fondo real, según una publicación del blog de la empresa del jueves."
               },
               {
                 "t": "p",
-                "x": "\"Di un plazo de Q1 para que empezaran a entrar los primeros dólares, y sigo teniendo esa esperanza\", dijo Faisal Karmali, vp de operaciones digitales de CNN International Commercial y Warner Bros Discovery."
+                "x": "Las guías funcionales, como patrones, recetas e instrucciones, ya no pueden ser AI-generated. Las fichas generadas por bots (Bot-generated) no están permitidas y se eliminarán, y los compradores podrían recibir un reembolso si una ficha no cumplía los requisitos de imagen actualizados."
               },
               {
                 "t": "p",
-                "x": "La cadena combina su propia infraestructura de agentes con socios tecnológicos externos, como plataformas del lado de la demanda, lo que implica enseñar a un agente sus reglas de negocio, darle una interfaz y asegurarse de que su inventario se lea correctamente en los LLMs de los que dependen los agentes de los compradores."
+                "x": "Etsy también añadió al formulario de publicación una función de orientación que señala las imágenes que Etsy detecta que podrían usar AI. “Estos cambios son nuestro punto de partida, no la meta”, dijo James Ossman, Vice President of Customer Operations de Etsy."
               },
               {
                 "t": "p",
-                "x": "Quedan preguntas abiertas: qué salvaguardas impiden que los agentes eludan las prácticas comerciales y qué vocabulario usan ante estándares que compiten entre sí. \"Los agentes vendedores son una ganancia real de eficiencia para la venta directa\", dijo Ravi Patel, CEO de SWYM. \"Pero automatizan el acuerdo, no la entrega\"."
-              },
-              {
-                "t": "p",
-                "x": "Karmali dijo que es \"demasiado pronto para decir\" si los agentes podrían trasladar poder a los editores. Según él, los acuerdos Agent-led podrían empezar con el 5% del negocio publicitario de CNN International o llegar algún día al 50%."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "marketing-ai-discovery-reviews",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "선물 찾기는 AI가\n구매 결정은 리뷰가",
-      "body": "소비자 조사를 보면 AI로 선물을 찾아도 대부분 사기 전에 리뷰와 가격을 본다.",
-      "mini_headline": "찾는 건 AI, 사는 건 리뷰",
-      "tool": "Marketing",
-      "source": "Modern Retail",
-      "url": "https://www.modernretail.co/ai-strategies/ai-boosts-discovery-but-reviews-still-seal-the-deal-new-research-shows/",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2025/10/ai-compensation-digiday.webp"
-          },
-          {
-            "t": "p",
-            "x": "Feedvisor가 새로 진행한 설문에서는 쇼핑객의 16%가 ChatGPT에서 상품 탐색을 시작하지만 구매하러 가는 비율은 9%에 그친다. AI 어시스턴트가 상품을 추천해도 곧바로 사는 사람은 5%뿐이다. 나머지는 더 나은 가격을 찾아 Google과 Amazon 같은 플랫폼부터 들른다."
-          },
-          {
-            "t": "p",
-            "x": "PartnerCentric 조사에서는 AI 추천을 받은 쇼핑객 가운데 33%가 기존 리뷰를 확인했고, 22.3%는 가격을 비교했으며, 18.8%는 Amazon이나 다른 소매점에서 검색했다. 브랜드 웹사이트를 찾은 비율은 14.8%에 그쳤다. 창업자 겸 CEO Stephanie Harris는 \"AI는 출발점이지 최종 판결이 아니다\"라고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "Channel V Media의 Kieran Powell은 조사 단계는 이미 AI 몫이 됐다고 말했다. Prosper Insights & Analytics 설문에서 AI 에이전트에게 의류 구매를 맡기겠다는 응답은 7.3%뿐이었다. Powell은 \"사람들이 $40짜리 셔츠도 AI에게 사게 하지 않는다면, 어떤 셔츠가 좋은지도 AI에게 맡기지 않을 것\"이라고 했다."
-          },
-          {
-            "t": "p",
-            "x": "AI 어시스턴트에서 들어오는 트래픽이 꾸준히 느는 Musely는 GEO에 힘을 쏟는다. Paris Roche는 \"우리 목표는 단순히 AI에 언급되는 것이 아니다\"라고 했다. Harris는 \"그런 신호들이 서로 어긋나면 AI는 그것을 덮어 주지 않는다. 오히려 그 간극을 더 빨리 드러낸다\"고 덧붙였다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "AI helps shoppers find gifts\nbut reviews close the sale",
-          "body": "Consumer surveys show AI helps shoppers find gifts, but most check reviews and prices before buying.",
-          "mini_headline": "AI finds, reviews close",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2025/10/ai-compensation-digiday.webp"
-              },
-              {
-                "t": "p",
-                "x": "According to a new Feedvisor survey, ChatGPT is where 16% of shoppers start looking for products, but only 9% go there to buy. When an AI assistant recommends a product, only 5% buy it on the spot; the rest check platforms like Google and Amazon first for better prices."
-              },
-              {
-                "t": "p",
-                "x": "PartnerCentric's findings show that after an AI suggestion, 33% of shoppers check existing reviews, 22.3% compare prices and 18.8% search Amazon or another retailer. Only 14.8% visit the brand's website. \"AI is a starting point, not a final verdict,\" said founder and CEO Stephanie Harris."
-              },
-              {
-                "t": "p",
-                "x": "Channel V Media's Kieran Powell said AI is winning the research step. A Prosper Insights & Analytics survey found only 7.3% would let an AI agent buy apparel. \"If people won't let AI buy a $40 shirt for them, they won't let it tell them which shirt is good,\" Powell said."
-              },
-              {
-                "t": "p",
-                "x": "Musely, which sees steadily growing traffic from AI assistants, is focused on GEO. \"For us, the goal isn't simply to be mentioned by AI,\" said Paris Roche. Harris added: \"When those signals conflict, AI does not smooth it over. It surfaces the gap sooner.\""
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "선물 찾기는 AI가\n구매 결정은 리뷰가",
-          "body": "소비자 조사를 보면 AI로 선물을 찾아도 대부분 사기 전에 리뷰와 가격을 본다.",
-          "mini_headline": "찾는 건 AI, 사는 건 리뷰",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2025/10/ai-compensation-digiday.webp"
-              },
-              {
-                "t": "p",
-                "x": "Feedvisor가 새로 진행한 설문에서는 쇼핑객의 16%가 ChatGPT에서 상품 탐색을 시작하지만 구매하러 가는 비율은 9%에 그친다. AI 어시스턴트가 상품을 추천해도 곧바로 사는 사람은 5%뿐이다. 나머지는 더 나은 가격을 찾아 Google과 Amazon 같은 플랫폼부터 들른다."
-              },
-              {
-                "t": "p",
-                "x": "PartnerCentric 조사에서는 AI 추천을 받은 쇼핑객 가운데 33%가 기존 리뷰를 확인했고, 22.3%는 가격을 비교했으며, 18.8%는 Amazon이나 다른 소매점에서 검색했다. 브랜드 웹사이트를 찾은 비율은 14.8%에 그쳤다. 창업자 겸 CEO Stephanie Harris는 \"AI는 출발점이지 최종 판결이 아니다\"라고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "Channel V Media의 Kieran Powell은 조사 단계는 이미 AI 몫이 됐다고 말했다. Prosper Insights & Analytics 설문에서 AI 에이전트에게 의류 구매를 맡기겠다는 응답은 7.3%뿐이었다. Powell은 \"사람들이 $40짜리 셔츠도 AI에게 사게 하지 않는다면, 어떤 셔츠가 좋은지도 AI에게 맡기지 않을 것\"이라고 했다."
-              },
-              {
-                "t": "p",
-                "x": "AI 어시스턴트에서 들어오는 트래픽이 꾸준히 느는 Musely는 GEO에 힘을 쏟는다. Paris Roche는 \"우리 목표는 단순히 AI에 언급되는 것이 아니다\"라고 했다. Harris는 \"그런 신호들이 서로 어긋나면 AI는 그것을 덮어 주지 않는다. 오히려 그 간극을 더 빨리 드러낸다\"고 덧붙였다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "ギフト探しはAI\n購入の決め手はレビュー",
-          "body": "消費者調査では、AIでギフトを探しても大半は購入前にレビューと価格を確かめる。",
-          "mini_headline": "探すのはAI、決めるのはレビュー",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2025/10/ai-compensation-digiday.webp"
-              },
-              {
-                "t": "p",
-                "x": "Feedvisorの新たな調査によると、買い物客の16%がChatGPTで商品探しを始めるが、購入のために使うのは9%にとどまる。AIアシスタントが商品を薦めても、その場で買うのは5%だけで、残りはより安い価格を求めてGoogleやAmazonなどのプラットフォームをまず確認する。"
-              },
-              {
-                "t": "p",
-                "x": "PartnerCentricの調査では、AIの提案を受けた後、買い物客の33%が既存のレビューを確認し、22.3%が価格を比較し、18.8%がAmazonなどの小売サイトで検索した。ブランドのウェブサイトを訪れたのは14.8%にすぎない。創業者兼CEOのStephanie Harrisは「AIは出発点であって、最終的な判断ではない」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "Channel V MediaのKieran Powellは、AIはリサーチの段階を制していると述べた。Prosper Insights & Analyticsの調査では、AIエージェントに衣料品の購入を任せるとした人は7.3%にとどまった。Powellは「$40のシャツさえAIに買わせないのなら、どのシャツが良いかもAIには決めさせないだろう」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "AIアシスタントからのトラフィックが着実に伸びているMuselyは、GEOに注力している。Paris Rocheは「私たちの目標は、単にAIに言及されることではない」と述べた。Harrisは「そうしたシグナルが食い違うと、AIはそれを取り繕わない。むしろそのずれを早く浮き彫りにする」と付け加えた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI帮购物者找礼物\n成交靠的是评价",
-          "body": "消费者调查显示，AI帮助购物者发现礼物，但多数人购买前仍会查看评价和价格。",
-          "mini_headline": "AI找货，评价成交",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2025/10/ai-compensation-digiday.webp"
-              },
-              {
-                "t": "p",
-                "x": "Feedvisor的一项新调查显示，16%的购物者从ChatGPT开始寻找商品，但只有9%会去那里购买。当AI助手推荐某件商品时，只有5%的人会当场购买，其余人会先去Google和Amazon等平台寻找更低的价格。"
-              },
-              {
-                "t": "p",
-                "x": "PartnerCentric的调查结果显示，在收到AI建议后，33%的购物者会查看已有评价，22.3%会比较价格，18.8%会在Amazon或其他零售商处搜索，只有14.8%会访问品牌官网。创始人兼CEO Stephanie Harris说：\"AI是起点，而不是最终裁决。\""
-              },
-              {
-                "t": "p",
-                "x": "Channel V Media的Kieran Powell表示，AI正在赢下调研环节。Prosper Insights & Analytics的一项调查发现，只有7.3%的人愿意让AI智能体替自己购买服装。Powell说：\"如果人们连一件$40的衬衫都不愿让AI替他们买，他们也不会让AI告诉他们哪件衬衫好。\""
-              },
-              {
-                "t": "p",
-                "x": "来自AI助手的流量稳步增长的Musely正专注于GEO。Paris Roche说：\"对我们来说，目标不只是被AI提及。\"Harris补充道：\"当这些信号相互矛盾时，AI不会帮你抹平，反而会更快暴露差距。\""
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La AI ayuda a encontrar regalos\npero las reseñas cierran ventas",
-          "body": "Según encuestas, la AI ayuda a encontrar regalos, pero la mayoría revisa reseñas y precios antes de comprar.",
-          "mini_headline": "La AI encuentra, las reseñas venden",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2025/10/ai-compensation-digiday.webp"
-              },
-              {
-                "t": "p",
-                "x": "Según una nueva encuesta de Feedvisor, el 16% de los compradores empieza a buscar productos en ChatGPT, pero solo el 9% acude allí para comprar. Cuando un asistente de AI recomienda un producto, solo el 5% lo compra en el momento; el resto revisa primero plataformas como Google y Amazon en busca de mejores precios."
-              },
-              {
-                "t": "p",
-                "x": "Los datos de PartnerCentric muestran que, tras una sugerencia de la AI, el 33% de los compradores consulta reseñas existentes, el 22.3% compara precios y el 18.8% busca en Amazon u otro minorista. Solo el 14.8% visita el sitio web de la marca. \"La AI es un punto de partida, no un veredicto final\", dijo su fundadora y CEO, Stephanie Harris."
-              },
-              {
-                "t": "p",
-                "x": "Kieran Powell, de Channel V Media, dijo que la AI está ganando la fase de investigación. Una encuesta de Prosper Insights & Analytics halló que solo el 7.3% dejaría que un agente de AI comprara ropa por él. \"Si la gente no deja que la AI le compre una camisa de $40, tampoco dejará que le diga qué camisa es buena\", dijo Powell."
-              },
-              {
-                "t": "p",
-                "x": "Musely, que recibe un tráfico creciente y constante desde asistentes de AI, se centra en GEO. \"Para nosotros, el objetivo no es simplemente que la AI nos mencione\", dijo Paris Roche. Harris añadió: \"Cuando esas señales se contradicen, la AI no lo disimula. Expone la brecha antes\"."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "선물 찾기는 AI가\n구매 결정은 리뷰가",
-          "body": "소비자 조사 결과 AI로 선물을 찾아도 대부분 구매 전 리뷰와 가격을 본다.",
-          "mini_headline": "찾는 건 AI, 사는 건 리뷰",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2025/10/ai-compensation-digiday.webp"
-              },
-              {
-                "t": "p",
-                "x": "Feedvisor의 새 설문에 따르면 쇼핑객의 16%가 ChatGPT에서 상품 탐색을 시작하지만, 구매하러 가는 비율은 9%에 그친다. AI 어시스턴트가 상품을 추천해도 그 자리에서 사는 비율은 5%뿐이고, 나머지는 더 좋은 가격을 찾아 Google과 Amazon 같은 플랫폼부터 확인한다."
-              },
-              {
-                "t": "p",
-                "x": "PartnerCentric의 조사에서는 AI 추천을 받은 뒤 쇼핑객의 33%가 기존 리뷰를 확인하고, 22.3%가 가격을 비교하며, 18.8%가 Amazon이나 다른 소매점에서 검색했다. 브랜드 웹사이트를 방문한 비율은 14.8%에 불과했다. 창업자 겸 CEO Stephanie Harris는 \"AI는 출발점이지 최종 판결이 아니다\"라고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "Channel V Media의 Kieran Powell은 AI가 조사 단계를 차지하고 있다고 말했다. Prosper Insights & Analytics 설문에서는 AI 에이전트에게 의류 구매를 맡기겠다는 응답이 7.3%에 그쳤다. Powell은 \"사람들이 $40짜리 셔츠도 AI에게 사게 하지 않는다면, 어떤 셔츠가 좋은지도 AI에게 맡기지 않을 것\"이라고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "AI 어시스턴트에서 유입되는 트래픽이 꾸준히 늘고 있는 Musely는 GEO에 집중하고 있다. Paris Roche는 \"우리 목표는 단순히 AI에 언급되는 것이 아니다\"라고 말했다. Harris는 \"그런 신호들이 서로 어긋나면 AI는 그것을 덮어 주지 않는다. 오히려 그 간극을 더 빨리 드러낸다\"고 덧붙였다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "ギフト探しはAI\n購入の決め手はレビュー",
-          "body": "消費者調査では、AIでギフトを探しても大半は購入前にレビューと価格を確かめる。",
-          "mini_headline": "探すのはAI、決めるのはレビュー",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2025/10/ai-compensation-digiday.webp"
-              },
-              {
-                "t": "p",
-                "x": "Feedvisorの新たな調査によると、買い物客の16%がChatGPTで商品探しを始めるが、購入のために使うのは9%にとどまる。AIアシスタントが商品を薦めても、その場で買うのは5%だけで、残りはより安い価格を求めてGoogleやAmazonなどのプラットフォームをまず確認する。"
-              },
-              {
-                "t": "p",
-                "x": "PartnerCentricの調査では、AIの提案を受けた後、買い物客の33%が既存のレビューを確認し、22.3%が価格を比較し、18.8%がAmazonなどの小売サイトで検索した。ブランドのウェブサイトを訪れたのは14.8%にすぎない。創業者兼CEOのStephanie Harrisは「AIは出発点であって、最終的な判断ではない」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "Channel V MediaのKieran Powellは、AIはリサーチの段階を制していると述べた。Prosper Insights & Analyticsの調査では、AIエージェントに衣料品の購入を任せるとした人は7.3%にとどまった。Powellは「$40のシャツさえAIに買わせないのなら、どのシャツが良いかもAIには決めさせないだろう」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "AIアシスタントからのトラフィックが着実に伸びているMuselyは、GEOに注力している。Paris Rocheは「私たちの目標は、単にAIに言及されることではない」と述べた。Harrisは「そうしたシグナルが食い違うと、AIはそれを取り繕わない。むしろそのずれを早く浮き彫りにする」と付け加えた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI帮购物者找礼物\n成交靠的是评价",
-          "body": "消费者调查显示，AI帮助购物者发现礼物，但多数人购买前仍会查看评价和价格。",
-          "mini_headline": "AI找货，评价成交",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2025/10/ai-compensation-digiday.webp"
-              },
-              {
-                "t": "p",
-                "x": "Feedvisor的一项新调查显示，16%的购物者从ChatGPT开始寻找商品，但只有9%会去那里购买。当AI助手推荐某件商品时，只有5%的人会当场购买，其余人会先去Google和Amazon等平台寻找更低的价格。"
-              },
-              {
-                "t": "p",
-                "x": "PartnerCentric的调查结果显示，在收到AI建议后，33%的购物者会查看已有评价，22.3%会比较价格，18.8%会在Amazon或其他零售商处搜索，只有14.8%会访问品牌官网。创始人兼CEO Stephanie Harris说：\"AI是起点，而不是最终裁决。\""
-              },
-              {
-                "t": "p",
-                "x": "Channel V Media的Kieran Powell表示，AI正在赢下调研环节。Prosper Insights & Analytics的一项调查发现，只有7.3%的人愿意让AI智能体替自己购买服装。Powell说：\"如果人们连一件$40的衬衫都不愿让AI替他们买，他们也不会让AI告诉他们哪件衬衫好。\""
-              },
-              {
-                "t": "p",
-                "x": "来自AI助手的流量稳步增长的Musely正专注于GEO。Paris Roche说：\"对我们来说，目标不只是被AI提及。\"Harris补充道：\"当这些信号相互矛盾时，AI不会帮你抹平，反而会更快暴露差距。\""
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La AI ayuda a encontrar regalos\npero las reseñas cierran ventas",
-          "body": "Según encuestas, la AI ayuda a encontrar regalos, pero la mayoría revisa reseñas y precios antes de comprar.",
-          "mini_headline": "La AI encuentra, las reseñas venden",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2025/10/ai-compensation-digiday.webp"
-              },
-              {
-                "t": "p",
-                "x": "Según una nueva encuesta de Feedvisor, el 16% de los compradores empieza a buscar productos en ChatGPT, pero solo el 9% acude allí para comprar. Cuando un asistente de AI recomienda un producto, solo el 5% lo compra en el momento; el resto revisa primero plataformas como Google y Amazon en busca de mejores precios."
-              },
-              {
-                "t": "p",
-                "x": "Los datos de PartnerCentric muestran que, tras una sugerencia de la AI, el 33% de los compradores consulta reseñas existentes, el 22.3% compara precios y el 18.8% busca en Amazon u otro minorista. Solo el 14.8% visita el sitio web de la marca. \"La AI es un punto de partida, no un veredicto final\", dijo su fundadora y CEO, Stephanie Harris."
-              },
-              {
-                "t": "p",
-                "x": "Kieran Powell, de Channel V Media, dijo que la AI está ganando la fase de investigación. Una encuesta de Prosper Insights & Analytics halló que solo el 7.3% dejaría que un agente de AI comprara ropa por él. \"Si la gente no deja que la AI le compre una camisa de $40, tampoco dejará que le diga qué camisa es buena\", dijo Powell."
-              },
-              {
-                "t": "p",
-                "x": "Musely, que recibe un tráfico creciente y constante desde asistentes de AI, se centra en GEO. \"Para nosotros, el objetivo no es simplemente que la AI nos mencione\", dijo Paris Roche. Harris añadió: \"Cuando esas señales se contradicen, la AI no lo disimula. Expone la brecha antes\"."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "marketing-kobaco-aisac-gambling",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "코바코 AI광고 도구\n불법도박 광고도 뚝딱",
-      "body": "국감에서 코바코 AI 플랫폼 아이작이 불법 도박 광고 스토리보드를 만들어 냈다.",
-      "mini_headline": "코바코 AI 필터링 구멍",
-      "tool": "Marketing",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/index.php/politics/2026/10/22/2026102221435830253",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://thumb.mt.co.kr/21/2026/10/2026102221435830253_1.jpg"
-          },
-          {
-            "t": "p",
-            "x": "이정헌 더불어민주당 의원이 한국방송광고진흥공사(KOBACO)의 생성형 AI 광고 제작 플랫폼이 불법·유해 광고를 제대로 걸러내지 못하고 있다는 점을 지적했다."
-          },
-          {
-            "t": "p",
-            "x": "이 의원은 22일 국회 과학기술정보방송통신위원회 국정감사에서 KOBACO의 AI 광고 창작지원 플랫폼 '아이작(AiSAC)'에 '돈 버는 슬롯게임', '슬롯머신' 등의 키워드를 입력해 불법 도박게임을 홍보하는 광고 스토리보드를 실제로 만들어 보였다."
-          },
-          {
-            "t": "p",
-            "x": "이 의원은 \"특정 단어나 이미지만 차단해서는 안 된다\"며 \"광고의 전체 맥락과 목적까지 검증해야 한다\"고 지적했다."
-          },
-          {
-            "t": "p",
-            "x": "엄정환 KOBACO 사장직무대행은 \"좋은 의도로 시작했지만 금칙어와 키워드 위주의 필터링이어서 우회 방식까지 미처 보완하지 못했다\"며 \"전체 맥락을 파악하는 방식으로 필터링을 강화하고 최종 단계에서 한 번 더 검증하는 절차를 준비하겠다\"고 밝혔다."
-          }
-        ]
-      },
-      "text": {
-        "ko": {
-          "headline": "코바코 AI광고 도구\n불법도박 광고도 뚝딱",
-          "body": "국감에서 코바코 AI 플랫폼 아이작이 불법 도박 광고 스토리보드를 만들어 냈다.",
-          "mini_headline": "코바코 AI 필터링 구멍",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://thumb.mt.co.kr/21/2026/10/2026102221435830253_1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "이정헌 더불어민주당 의원이 한국방송광고진흥공사(KOBACO)의 생성형 AI 광고 제작 플랫폼이 불법·유해 광고를 제대로 걸러내지 못하고 있다는 점을 지적했다."
-              },
-              {
-                "t": "p",
-                "x": "이 의원은 22일 국회 과학기술정보방송통신위원회 국정감사에서 KOBACO의 AI 광고 창작지원 플랫폼 '아이작(AiSAC)'에 '돈 버는 슬롯게임', '슬롯머신' 등의 키워드를 입력해 불법 도박게임을 홍보하는 광고 스토리보드를 실제로 만들어 보였다."
-              },
-              {
-                "t": "p",
-                "x": "이 의원은 \"특정 단어나 이미지만 차단해서는 안 된다\"며 \"광고의 전체 맥락과 목적까지 검증해야 한다\"고 지적했다."
-              },
-              {
-                "t": "p",
-                "x": "엄정환 KOBACO 사장직무대행은 \"좋은 의도로 시작했지만 금칙어와 키워드 위주의 필터링이어서 우회 방식까지 미처 보완하지 못했다\"며 \"전체 맥락을 파악하는 방식으로 필터링을 강화하고 최종 단계에서 한 번 더 검증하는 절차를 준비하겠다\"고 밝혔다."
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "KOBACO AI ad tool churns out\nillegal gambling ads",
-          "body": "At a parliamentary audit, KOBACO's AI platform AiSAC produced a storyboard for an illegal gambling ad.",
-          "mini_headline": "Gaps in KOBACO's AI filtering",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://thumb.mt.co.kr/21/2026/10/2026102221435830253_1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Lee Jung-heon, a lawmaker from the Democratic Party of Korea, pointed out that the generative AI ad-production platform of the Korea Broadcast Advertising Corporation (KOBACO) is failing to properly filter out illegal and harmful ads."
-              },
-              {
-                "t": "p",
-                "x": "At the National Assembly Science, ICT, Broadcasting and Communications Committee's parliamentary audit on the 22nd, Lee entered keywords such as 'slot games that make money' and 'slot machines' into 'AiSAC', KOBACO's AI ad creation support platform, and actually produced an ad storyboard promoting illegal gambling games."
-              },
-              {
-                "t": "p",
-                "x": "Lee said, \"It should not just block specific words or images,\" adding, \"It has to verify the full context and purpose of an ad as well.\""
-              },
-              {
-                "t": "p",
-                "x": "Eom Jeong-hwan, acting president of KOBACO, said, \"We started with good intentions, but because the filtering was centered on banned words and keywords, we did not manage to cover workarounds,\" adding, \"We will strengthen filtering with an approach that grasps the full context and prepare a procedure that verifies once more at the final stage.\""
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "KOBACOのAI広告ツール\n違法賭博広告も簡単に",
-          "body": "国政監査で、KOBACOのAIプラットフォームAiSACが違法賭博広告の絵コンテを作った。",
-          "mini_headline": "KOBACOのAIフィルタリングに穴",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://thumb.mt.co.kr/21/2026/10/2026102221435830253_1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "共に民主党のイ・ジョンホン議員は、韓国放送広告振興公社(KOBACO)の生成AI広告制作プラットフォームが違法・有害広告をきちんと遮断できていないと指摘した。"
-              },
-              {
-                "t": "p",
-                "x": "イ議員は22日、国会科学技術情報放送通信委員会の国政監査で、KOBACOのAI広告制作支援プラットフォーム「アイザック(AiSAC)」に「稼げるスロットゲーム」「スロットマシン」などのキーワードを入力し、違法賭博ゲームを宣伝する広告の絵コンテを実際に作ってみせた。"
-              },
-              {
-                "t": "p",
-                "x": "イ議員は「特定の単語や画像だけを遮断してはならない」とし、「広告の全体的な文脈と目的まで検証すべきだ」と指摘した。"
-              },
-              {
-                "t": "p",
-                "x": "KOBACOのオム・ジョンファン社長職務代行は「良い意図で始めたが、禁止語とキーワード中心のフィルタリングだったため、迂回する手口までは補えなかった」と述べ、「全体の文脈を把握する方式でフィルタリングを強化し、最終段階でもう一度検証する手続きを準備する」と明らかにした。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "KOBACO的AI广告工具\n轻松生成非法赌博广告",
-          "body": "国政监查中，KOBACO的AI平台AiSAC生成了非法赌博广告分镜脚本。",
-          "mini_headline": "KOBACO的AI过滤存在漏洞",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://thumb.mt.co.kr/21/2026/10/2026102221435830253_1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "共同民主党议员Lee Jung-heon指出，韩国广播广告振兴公社（KOBACO）的生成式AI广告制作平台未能有效过滤非法和有害广告。"
-              },
-              {
-                "t": "p",
-                "x": "这位议员22日在国会科学技术信息广播通信委员会的国政监查中，向KOBACO的AI广告创作支持平台\"AiSAC\"输入\"赚钱的老虎机游戏\"\"老虎机\"等关键词，实际生成了宣传非法赌博游戏的广告分镜脚本。"
-              },
-              {
-                "t": "p",
-                "x": "他指出：\"不能只屏蔽特定的词语或图像，\"\"还必须核查广告的整体语境和目的。\""
-              },
-              {
-                "t": "p",
-                "x": "KOBACO社长职务代理Eom Jeong-hwan表示：\"初衷是好的，但过滤以禁用词和关键词为主，没能补上绕过的方式。\"他还表示：\"将改用把握整体语境的方式加强过滤，并准备在最后阶段再核查一次的程序。\""
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La herramienta de AI de KOBACO\ncrea anuncios de juego ilegal",
-          "body": "En la auditoría estatal, la plataforma de AI de KOBACO, AiSAC, creó el storyboard de un anuncio de apuestas ilegales.",
-          "mini_headline": "Fallos en el filtrado de AI de KOBACO",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://thumb.mt.co.kr/21/2026/10/2026102221435830253_1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "El diputado Lee Jung-heon, del Partido Democrático, señaló que la plataforma de AI generativa para crear anuncios de la Corporación Coreana de Promoción de Publicidad en Radiodifusión (KOBACO) no logra filtrar adecuadamente la publicidad ilegal y nociva."
-              },
-              {
-                "t": "p",
-                "x": "En la auditoría estatal del Comité de Ciencia, Tecnología, Información, Radiodifusión y Comunicaciones de la Asamblea Nacional, celebrada el día 22, Lee introdujo palabras clave como \"juego de slots para ganar dinero\" y \"máquina de slots\" en AiSAC, la plataforma de apoyo a la creación publicitaria con AI de KOBACO, y generó en la práctica un storyboard publicitario que promocionaba juegos de azar ilegales."
-              },
-              {
-                "t": "p",
-                "x": "Lee afirmó que \"no se deben bloquear solo determinadas palabras o imágenes\" y que \"hay que verificar también el contexto completo y el propósito del anuncio\"."
-              },
-              {
-                "t": "p",
-                "x": "Eom Jeong-hwan, presidente interino de KOBACO, dijo: \"Empezamos con buenas intenciones, pero como el filtrado se centraba en palabras prohibidas y palabras clave, no llegamos a cubrir los métodos para eludirlo\". Añadió: \"Reforzaremos el filtrado con un enfoque que capte el contexto completo y prepararemos un procedimiento para verificar una vez más en la etapa final\"."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "en": {
-          "headline": "KOBACO AI ad tool churns out\nillegal gambling ads",
-          "body": "At a parliamentary audit, KOBACO's AI platform AiSAC produced a storyboard for an illegal gambling ad.",
-          "mini_headline": "Gaps in KOBACO's AI filtering",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://thumb.mt.co.kr/21/2026/10/2026102221435830253_1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Lee Jung-heon, a lawmaker from the Democratic Party of Korea, pointed out that the generative AI ad-production platform of the Korea Broadcast Advertising Corporation (KOBACO) is failing to properly filter out illegal and harmful ads."
-              },
-              {
-                "t": "p",
-                "x": "At the National Assembly Science, ICT, Broadcasting and Communications Committee's parliamentary audit on the 22nd, Lee entered keywords such as 'slot games that make money' and 'slot machines' into 'AiSAC', KOBACO's AI ad creation support platform, and actually produced an ad storyboard promoting illegal gambling games."
-              },
-              {
-                "t": "p",
-                "x": "Lee said, \"It should not just block specific words or images,\" adding, \"It has to verify the full context and purpose of an ad as well.\""
-              },
-              {
-                "t": "p",
-                "x": "Eom Jeong-hwan, acting president of KOBACO, said, \"We started with good intentions, but because the filtering was centered on banned words and keywords, we did not manage to cover workarounds,\" adding, \"We will strengthen filtering with an approach that grasps the full context and prepare a procedure that verifies once more at the final stage.\""
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "KOBACOのAI広告ツール\n違法賭博広告も簡単に",
-          "body": "国政監査で、KOBACOのAIプラットフォームAiSACが違法賭博広告の絵コンテを作った。",
-          "mini_headline": "KOBACOのAIフィルタリングに穴",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://thumb.mt.co.kr/21/2026/10/2026102221435830253_1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "共に民主党のイ・ジョンホン議員は、韓国放送広告振興公社(KOBACO)の生成AI広告制作プラットフォームが違法・有害広告をきちんと遮断できていないと指摘した。"
-              },
-              {
-                "t": "p",
-                "x": "イ議員は22日、国会科学技術情報放送通信委員会の国政監査で、KOBACOのAI広告制作支援プラットフォーム「アイザック(AiSAC)」に「稼げるスロットゲーム」「スロットマシン」などのキーワードを入力し、違法賭博ゲームを宣伝する広告の絵コンテを実際に作ってみせた。"
-              },
-              {
-                "t": "p",
-                "x": "イ議員は「特定の単語や画像だけを遮断してはならない」とし、「広告の全体的な文脈と目的まで検証すべきだ」と指摘した。"
-              },
-              {
-                "t": "p",
-                "x": "KOBACOのオム・ジョンファン社長職務代行は「良い意図で始めたが、禁止語とキーワード中心のフィルタリングだったため、迂回する手口までは補えなかった」と述べ、「全体の文脈を把握する方式でフィルタリングを強化し、最終段階でもう一度検証する手続きを準備する」と明らかにした。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "KOBACO的AI广告工具\n轻松生成非法赌博广告",
-          "body": "国政监查中，KOBACO的AI平台AiSAC生成了非法赌博广告分镜脚本。",
-          "mini_headline": "KOBACO的AI过滤存在漏洞",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://thumb.mt.co.kr/21/2026/10/2026102221435830253_1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "共同民主党议员Lee Jung-heon指出，韩国广播广告振兴公社（KOBACO）的生成式AI广告制作平台未能有效过滤非法和有害广告。"
-              },
-              {
-                "t": "p",
-                "x": "这位议员22日在国会科学技术信息广播通信委员会的国政监查中，向KOBACO的AI广告创作支持平台\"AiSAC\"输入\"赚钱的老虎机游戏\"\"老虎机\"等关键词，实际生成了宣传非法赌博游戏的广告分镜脚本。"
-              },
-              {
-                "t": "p",
-                "x": "他指出：\"不能只屏蔽特定的词语或图像，\"\"还必须核查广告的整体语境和目的。\""
-              },
-              {
-                "t": "p",
-                "x": "KOBACO社长职务代理Eom Jeong-hwan表示：\"初衷是好的，但过滤以禁用词和关键词为主，没能补上绕过的方式。\"他还表示：\"将改用把握整体语境的方式加强过滤，并准备在最后阶段再核查一次的程序。\""
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La herramienta de AI de KOBACO\ncrea anuncios de juego ilegal",
-          "body": "En la auditoría estatal, la plataforma de AI de KOBACO, AiSAC, creó el storyboard de un anuncio de apuestas ilegales.",
-          "mini_headline": "Fallos en el filtrado de AI de KOBACO",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://thumb.mt.co.kr/21/2026/10/2026102221435830253_1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "El diputado Lee Jung-heon, del Partido Democrático, señaló que la plataforma de AI generativa para crear anuncios de la Corporación Coreana de Promoción de Publicidad en Radiodifusión (KOBACO) no logra filtrar adecuadamente la publicidad ilegal y nociva."
-              },
-              {
-                "t": "p",
-                "x": "En la auditoría estatal del Comité de Ciencia, Tecnología, Información, Radiodifusión y Comunicaciones de la Asamblea Nacional, celebrada el día 22, Lee introdujo palabras clave como \"juego de slots para ganar dinero\" y \"máquina de slots\" en AiSAC, la plataforma de apoyo a la creación publicitaria con AI de KOBACO, y generó en la práctica un storyboard publicitario que promocionaba juegos de azar ilegales."
-              },
-              {
-                "t": "p",
-                "x": "Lee afirmó que \"no se deben bloquear solo determinadas palabras o imágenes\" y que \"hay que verificar también el contexto completo y el propósito del anuncio\"."
-              },
-              {
-                "t": "p",
-                "x": "Eom Jeong-hwan, presidente interino de KOBACO, dijo: \"Empezamos con buenas intenciones, pero como el filtrado se centraba en palabras prohibidas y palabras clave, no llegamos a cubrir los métodos para eludirlo\". Añadió: \"Reforzaremos el filtrado con un enfoque que capte el contexto completo y prepararemos un procedimiento para verificar una vez más en la etapa final\"."
+                "x": "La medida llega mientras la propia Etsy invierte más en el uso de AI. La CEO Kruti Patel Goyal dijo a los analistas que la mayor oportunidad para la AI está en la propia Etsy: “Se trata realmente de usar la AI para que Etsy sea mucho, mucho mejor conectando a los compradores adecuados con los vendedores adecuados”."
               }
             ]
           }

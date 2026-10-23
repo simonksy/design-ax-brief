@@ -7437,6 +7437,169 @@
           "x": "Según la demanda, Meta descargó libros de bibliotecas en la sombra como LibGen, Z-Library y Anna’s Archive, y desde mid-2025 operó un programa de escaneo de libros, Project Vellum, para entrenar sus modelos Muse Spark y Muse Glimmer. Los casos relacionados con Meta tienen juicios con jurado previstos a partir del 3 de mayo de 2027."
         }
       ]
+    },
+    "books/books-chakrabarty-dropped": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/10/News-October-22.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Tras lo del lunes, hay otra actualización sobre IA. Esta tiene que ver con el actual caso de copyright contra OpenAI y con la moción presentada por OpenAI para impedir que los demandantes se apoyen en el muy citado estudio del Dr. Tuhin Chakrabarty sobre la dilución del mercado."
+        },
+        {
+          "t": "p",
+          "x": "El estudio de Chakrabarty sostiene que la IA generativa está provocando una dilución del mercado que puede causar un daño económico significativo a los creadores."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI había argumentado que el tribunal no debía tener en cuenta el estudio en un caso presentado en su contra porque, según alegó, el trabajo fue financiado por Susman Godfrey, el bufete que representa a los demandantes."
+        },
+        {
+          "t": "p",
+          "x": "Chakrabarty lo ha negado en una declaración jurada. Pero los demandantes no se han opuesto a la moción de la IA, y el artículo de Chakrabarty ha quedado fuera de las pruebas presentadas."
+        },
+        {
+          "t": "p",
+          "x": "Los traductores, bajo presión: en Fráncfort, la encuesta de 2026 del Consejo Europeo de Asociaciones de Traductores Literarios (CEATL), con 1,785 encuestados, halló que el 77% expresa actitudes negativas hacia la IA generativa en el sector y que más de un tercio ha pensado en dejar su profesión. El 30 por ciento señaló una caída en los encargos, que atribuyó al uso creciente de la IA."
+        }
+      ]
+    },
+    "books/books-novelcrafter-gemini-argon": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "eLQESMPS8Bc"
+        },
+        {
+          "t": "p",
+          "x": "Cómo crear un prompt de escritura para Gemini Argon - Novelcrafter Live."
+        },
+        {
+          "t": "p",
+          "x": "Me encanta Gemini Argon... y no solo por su nombre científico ;) Voy a pasar un rato con el modelo para averiguar cómo escribirle prompts. Será un poco de ensayo y error, ¡pero acompáñame y diviértete!"
+        }
+      ]
+    },
+    "books/books-ai-signal-noise": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Will Schweitzer, CEO de Silverchair, señala que el 3 de febrero Anthropic lanzó un plug-in legal para Claude; en la edición académica no ocurrió nada, pero al cierre de la sesión RELX había caído un 14%, Thomson Reuters cerca de un 18% y Wolters Kluwer alrededor de un 13%."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/SC-Eaton-Event-Preview-541.jpg",
+          "cap": "Will Schweitzer en la reunión Silverchair Platform Strategies 2026"
+        },
+        {
+          "t": "p",
+          "x": "El artículo nació como su discurso de bienvenida en Platform Strategies, en Washington, DC, el 23 de septiembre. El marco es de Wendy Queen: qué señales merecen actuar ya, cuáles son contexto y cuáles son clima."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Wendy-Queen-survey-graph.png"
+        },
+        {
+          "t": "p",
+          "x": "Las encuestas en la sala mostraron que la atención se desplaza hacia la investigación y el descubrimiento mediados por IA (AI-mediated), del 14.3% al 22.9%, y se aleja de la integridad de la investigación y el contenido de IA, del 17.1% al 5.7%."
+        },
+        {
+          "t": "p",
+          "x": "En el sitio de una editorial, solo el 41% de las solicitudes de contenido se calificó como probablemente humano entre junio y agosto. LibLynx halló que el 36% de 50 millones de solicitudes de acceso en una treintena de editoriales académicas eran robóticas."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/PS26-reader-change-graphs.png"
+        },
+        {
+          "t": "p",
+          "x": "El directorio de conectores de Anthropic incluye 862 conectores, pero ninguna editorial de sociedad científica. Su consejo antes de fin de año: medir el tráfico no humano este trimestre, hacer un experimento de alcance para agentes y calcular el costo de esperar junto al costo de actuar."
+        }
+      ]
+    },
+    "books/books-daegu-aidt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img8.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102012040005100_P4.jpg",
+          "cap": "La diputada Baek Seung-a durante su interpelación"
+        },
+        {
+          "t": "p",
+          "x": "(Daegu=Yonhap News) Periodista Hwang Su-bin = Este año, la Oficina de Educación de Daegu destinó miles de millones de wones en cuotas de suscripción para implantar libros de texto digitales con inteligencia artificial (AIDT) en escuelas primarias y secundarias, pero se ha señalado que su uso en las clases reales es bajo."
+        },
+        {
+          "t": "p",
+          "x": "La diputada Baek Seung-a (representación proporcional), del Partido Democrático de Corea, señaló el día 20, en la auditoría parlamentaria del Comité de Educación de la Asamblea Nacional a seis oficinas regionales de educación, entre ellas la de Daegu, celebrada en la Oficina de Educación de Busan: \"En comparación con el primer semestre de 2025, las escuelas que usan AIDT han disminuido este año un 84.8% en todo el país, pero Daegu es la excepción\"."
+        },
+        {
+          "t": "p",
+          "x": "Añadió: \"De las 622 escuelas que usan AIDT este año, la mitad, 311, están en Daegu\"."
+        },
+        {
+          "t": "p",
+          "x": "Baek también señaló que la elevada adopción de AIDT en las escuelas de Daegu parece deberse a la presión del superintendente de educación."
+        },
+        {
+          "t": "p",
+          "x": "Indicó: \"Aunque la Oficina de Educación de Daegu envió varias veces circulares oficiales sobre AIDT a las escuelas y fomentó su uso, el número real de usos resultó ser bajo\"."
+        },
+        {
+          "t": "p",
+          "x": "Según los datos que Baek recibió de la Oficina de Educación de Daegu, las cuotas de suscripción entregadas a las escuelas primarias y secundarias de Daegu que adoptaron AI DT sumaron en total 45억8천900만원 a fecha del primer semestre de este año."
+        },
+        {
+          "t": "p",
+          "x": "De ellas, 119 escuelas usaron los libros de texto digitales con IA menos de 20 veces."
+        },
+        {
+          "t": "p",
+          "x": "Baek cuestionó: \"Si un semestre suele tener 20 semanas, el 38.3% no los usó ni una vez por semana\", y preguntó: \"¿Con estas cifras se puede afirmar que los libros de texto digitales con IA se aprovecharon como es debido?\"."
+        },
+        {
+          "t": "p",
+          "x": "A continuación insistió: \"¿Por qué solo Daegu se suscribe de forma tan abrumadora a un material educativo que la mayoría de las demás escuelas del país no eligió, y además le da un apoyo aparte?\"."
+        },
+        {
+          "t": "p",
+          "x": "En respuesta, la superintendente de educación de Daegu, Kang Eun-hee, afirmó: \"Al analizar las escuelas con bajo uso, reconozco que hay aspectos en los que el uso es bajo\", aunque añadió: \"Sin embargo, son más los casos en que se usaron de forma suficiente y ayudaron activamente al aprendizaje de los alumnos\"."
+        },
+        {
+          "t": "p",
+          "x": "Y agregó: \"Seguimos brindando apoyo para que los libros de texto digitales con IA puedan aprovecharse bien\"."
+        },
+        {
+          "t": "img",
+          "src": "https://img0.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102011870005100_P4.jpg",
+          "cap": "La superintendente de educación de Daegu, Kang Eun-hee, presenta su informe"
+        }
+      ]
+    },
+    "books/books-kindle-plus-ai-audiobooks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/kindleplus.jpg?quality=90&strip=all&crop=0%2C10.721349621873%2C100%2C78.557300756254&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "La «plusificación» de los servicios de suscripción sigue sin freno, y Amazon es la última empresa en sumarse con un cambio de marca de Kindle Unlimited. El servicio de suscripción ahora se llama Kindle Plus, pero seguirá ofreciendo acceso ilimitado a una selección de libros electrónicos, cómics y revistas del catálogo de Kindle por $11.99 al mes. Miles de esos títulos seguirán contando con audiolibros complementarios para alternar entre leer y escuchar justo donde se dejó, pero Kindle Plus ampliará ese acceso a audiolibros de «voz virtual» leídos por narradores de IA, según ZDNet."
+        },
+        {
+          "t": "p",
+          "x": "«La suscripción sigue ofreciendo la misma gran experiencia de lectura con acceso a millones de títulos, ahora con miles de audiolibros del catálogo de U.S. sin costo adicional», dijo Josh Pflug, portavoz de Amazon, a The Verge en un comunicado por correo electrónico."
+        },
+        {
+          "t": "p",
+          "x": "Kindle Plus seguirá siendo una suscripción independiente, separada de Amazon Prime, y los usuarios seguirán limitados a tomar prestados hasta 20 títulos a la vez, aunque sin fechas de devolución. Amazon ahora también permite que los autores que usan su plataforma Kindle Direct Publishing ofrezcan sus audiolibros a los suscriptores de Kindle Plus."
+        },
+        {
+          "t": "p",
+          "x": "Los audiolibros de voz virtual estarán disponibles automáticamente cuando se inscriban títulos nuevos en KDP Select, pero los autores también pueden optar por narradores de IA para títulos publicados anteriormente. Para los autores que prefieren un narrador humano, los audiolibros creados en el mercado Audiobook Creation Exchange (ACX) de Audible también estarán disponibles en Kindle Plus, empezando por los suscriptores en US. Amazon prevé ampliar la disponibilidad a otros mercados con el tiempo."
+        }
+      ]
     }
   }
 }

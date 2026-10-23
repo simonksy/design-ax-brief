@@ -1,215 +1,143 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "section": "medicine",
   "cards": [
     {
-      "id": "medicine-genai-device-liability",
+      "id": "medicine-nice-prostate",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 의료기기 책임은\n의사 아닌 개발사에",
-      "body": "의료계가 FDA에 생성형 AI 기기 안전은 의사가 아닌 개발사 몫이라고 했다.",
-      "mini_headline": "의료계 \"AI 개발사가 책임져야\"",
+      "headline": "NICE, 전립선암 MRI\nAI 도구 5종 권고",
+      "body": "NICE가 근거 축적을 조건으로 전립선암 MRI AI 5종을 NHS에 권고했다.",
+      "mini_headline": "NICE, 전립선 MRI AI 권고",
       "tool": "Medicine",
-      "source": "Healthcare Dive",
-      "url": "https://www.healthcaredive.com/news/developers-not-doctors-held-accountable-generative-ai-medical-devices-fda/833738/",
+      "source": "The BMJ",
+      "url": "https://www.bmj.com/content/395/bmj-2026-101231",
       "accent": "#00897b",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://imgproxy.divecdn.com/xBI1Tv0GTXys6wpRV0QS8JGGmJztWfwwzzGhEKntsIc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNTU1X2FzUm5RNnkuanBn.webp"
+            "t": "p",
+            "x": "국립보건임상연구원(National Institute for Health and Care Excellence, NICE)은 의사들이 자기공명영상(MRI) 검사에서 전립선암을 “더 정확하게” 찾도록 돕는 AI 도구 5종을 쓸 수 있게 된다고 발표했다."
           },
           {
             "t": "p",
-            "x": "병원과 의료 시스템, 의사, 원격의료 기업을 대표하는 전국 단위 의료 단체들이 생성형 AI를 쓰는 의료기기의 안전과 성능 책임을 떠안고 싶지 않다고 FDA에 밝혔다. 그 부담은 개발사가 져야 한다는 것이다."
+            "x": "NICE는 사용 방식과 정확도에 관한 근거를 더 쌓는 동안 NHS가 MRI 기반 전립선암 진단에 이 기술을 쓰도록 권고했다. 이 도구들은 “전립선 MRI 영상에서 암이 있을 수 있는 부위를 표시해 영상의학과 의사를 돕도록 설계됐다”는 것이 NICE의 설명이다."
           },
           {
             "t": "p",
-            "x": "American Hospital Association, American Medical Association, American Telemedicine Association은 챗봇이나 의료 정보를 종합하는 도구 같은 기기를 감시하는 일이 의료 제공자, 특히 소규모·농촌 의료기관에는 지나친 부담이라고 말했다. 의료 제공자가 문제를 보고할 경로를 만들어 달라는 요청도 FDA에 했다."
-          },
-          {
-            "t": "p",
-            "x": "원격의료 단체의 로비 조직인 ATA Action은 “제조사는 자신이 판매하는 기기의 안전과 성능에 계속 책임을 져야 한다”고 말했다. 병원들은 모델이 어떻게 작동하는지 드러나지 않아 의료 제공자가 결함을 알아차리기 어렵다고 덧붙였다."
-          },
-          {
-            "t": "p",
-            "x": "FDA가 생성형 AI 기반(AI-enabled) 기기 규제 방안을 놓고 의견을 구하자 단체들이 이렇게 답했다. 이런 기기는 열린 형태의 입력을 받고 비슷한 입력에도 결과가 달라질 수 있다. 기기가 하는 행위로 위험을 평가하겠다는 계획은 의료 단체들이 대체로 지지했다. 다만 AHA는 행위만으로는 위험을 예측하기 어려울 수 있다고 했고 AMA는 사람이 개입한다고 위험이 꼭 줄지는 않는다고 지적했다."
-          },
-          {
-            "t": "p",
-            "x": "WEDI는 이상 사례 보고 절차와 AI 도구용 “영양 성분” 라벨을 제안했다. FDA의 Rick Abramson은 몇 달 안에 생성형 AI 기반(AI-enabled) 기기 가이던스 초안을 내놓겠다고 밝혔다."
+            "x": "NICE는 특히 전문 인력이 없는 곳에서 이 기술이 전립선 MRI 판독의 정확도와 일관성을 높일 “잠재력이 있다”고 결론지었다. 다만 일상적인 NHS 진료에서 도구가 실제로 어떤 성능을 낼지는 근거가 더 쌓여야 알 수 있다고 덧붙였다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Providers want AI makers\nheld accountable, not doctors",
-          "body": "Provider groups urged the FDA to make developers, not doctors, answer for generative AI medical device safety.",
-          "mini_headline": "Providers: hold AI makers accountable",
+          "headline": "NICE backs five AI tools\nfor prostate cancer MRI",
+          "body": "NICE has backed five AI tools that flag possible prostate cancer on MRI for NHS use while evidence is gathered.",
+          "mini_headline": "NICE backs prostate MRI AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/xBI1Tv0GTXys6wpRV0QS8JGGmJztWfwwzzGhEKntsIc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNTU1X2FzUm5RNnkuanBn.webp"
+                "t": "p",
+                "x": "Five AI tools that can help identify prostate cancer “more accurately” on magnetic resonance imaging (MRI) scans will be made available to doctors, the National Institute for Health and Care Excellence (NICE) has announced."
               },
               {
                 "t": "p",
-                "x": "National healthcare groups representing hospitals, health systems, physicians and telehealth companies told the FDA they don't want to be held responsible for the safety and performance of medical devices that use generative AI, arguing that developers should shoulder that burden."
+                "x": "NICE has recommended that the technologies be used in the NHS to help detect prostate cancer on MRI while further evidence on their use and accuracy is generated. The tools “are designed to help radiologists by highlighting areas on a prostate MRI scan where cancer might be present,” it said."
               },
               {
                 "t": "p",
-                "x": "The American Hospital Association, American Medical Association and American Telemedicine Association said monitoring such devices — including chatbots and tools that synthesize medical information — would place too heavy a load on providers, particularly small and rural practices. They also asked the FDA to create ways for providers to report problems."
-              },
-              {
-                "t": "p",
-                "x": "“Manufacturers should remain responsible for the safety and performance of the devices they sell,” said ATA Action, the telemedicine group's lobbying arm. Hospitals added that a lack of transparency into how the models work makes flaws hard for providers to spot."
-              },
-              {
-                "t": "p",
-                "x": "The comments responded to the FDA's request for feedback on its proposed approach to regulating generative AI-enabled devices, which accept open-ended inputs and can produce different outputs to similar inputs. Provider groups largely backed its plan to assess risk by the actions a device performs, though the AHA said action alone may not predict risk, and the AMA noted a human in the loop does not necessarily mitigate it."
-              },
-              {
-                "t": "p",
-                "x": "WEDI suggested an adverse-event reporting process and “nutrition” labels for AI tools. The FDA's Rick Abramson said the agency plans to post draft guidance on generative AI-enabled devices in the coming months."
+                "x": "NICE concluded that the technologies “have the potential” to improve the accuracy and consistency of prostate MRI interpretation, particularly in settings without specialist expertise. But it added that further evidence was needed to understand how the tools would perform in routine NHS practice."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 의료기기 책임은\n의사 아닌 개발사에",
-          "body": "의료계가 FDA에 생성형 AI 기기 안전은 의사가 아닌 개발사 몫이라고 했다.",
-          "mini_headline": "의료계 \"AI 개발사가 책임져야\"",
+          "headline": "NICE, 전립선암 MRI\nAI 도구 5종 권고",
+          "body": "NICE가 근거 축적을 조건으로 전립선암 MRI AI 5종을 NHS에 권고했다.",
+          "mini_headline": "NICE, 전립선 MRI AI 권고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/xBI1Tv0GTXys6wpRV0QS8JGGmJztWfwwzzGhEKntsIc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNTU1X2FzUm5RNnkuanBn.webp"
+                "t": "p",
+                "x": "국립보건임상연구원(National Institute for Health and Care Excellence, NICE)은 의사들이 자기공명영상(MRI) 검사에서 전립선암을 “더 정확하게” 찾도록 돕는 AI 도구 5종을 쓸 수 있게 된다고 발표했다."
               },
               {
                 "t": "p",
-                "x": "병원과 의료 시스템, 의사, 원격의료 기업을 대표하는 전국 단위 의료 단체들이 생성형 AI를 쓰는 의료기기의 안전과 성능 책임을 떠안고 싶지 않다고 FDA에 밝혔다. 그 부담은 개발사가 져야 한다는 것이다."
+                "x": "NICE는 사용 방식과 정확도에 관한 근거를 더 쌓는 동안 NHS가 MRI 기반 전립선암 진단에 이 기술을 쓰도록 권고했다. 이 도구들은 “전립선 MRI 영상에서 암이 있을 수 있는 부위를 표시해 영상의학과 의사를 돕도록 설계됐다”는 것이 NICE의 설명이다."
               },
               {
                 "t": "p",
-                "x": "American Hospital Association, American Medical Association, American Telemedicine Association은 챗봇이나 의료 정보를 종합하는 도구 같은 기기를 감시하는 일이 의료 제공자, 특히 소규모·농촌 의료기관에는 지나친 부담이라고 말했다. 의료 제공자가 문제를 보고할 경로를 만들어 달라는 요청도 FDA에 했다."
-              },
-              {
-                "t": "p",
-                "x": "원격의료 단체의 로비 조직인 ATA Action은 “제조사는 자신이 판매하는 기기의 안전과 성능에 계속 책임을 져야 한다”고 말했다. 병원들은 모델이 어떻게 작동하는지 드러나지 않아 의료 제공자가 결함을 알아차리기 어렵다고 덧붙였다."
-              },
-              {
-                "t": "p",
-                "x": "FDA가 생성형 AI 기반(AI-enabled) 기기 규제 방안을 놓고 의견을 구하자 단체들이 이렇게 답했다. 이런 기기는 열린 형태의 입력을 받고 비슷한 입력에도 결과가 달라질 수 있다. 기기가 하는 행위로 위험을 평가하겠다는 계획은 의료 단체들이 대체로 지지했다. 다만 AHA는 행위만으로는 위험을 예측하기 어려울 수 있다고 했고 AMA는 사람이 개입한다고 위험이 꼭 줄지는 않는다고 지적했다."
-              },
-              {
-                "t": "p",
-                "x": "WEDI는 이상 사례 보고 절차와 AI 도구용 “영양 성분” 라벨을 제안했다. FDA의 Rick Abramson은 몇 달 안에 생성형 AI 기반(AI-enabled) 기기 가이던스 초안을 내놓겠다고 밝혔다."
+                "x": "NICE는 특히 전문 인력이 없는 곳에서 이 기술이 전립선 MRI 판독의 정확도와 일관성을 높일 “잠재력이 있다”고 결론지었다. 다만 일상적인 NHS 진료에서 도구가 실제로 어떤 성능을 낼지는 근거가 더 쌓여야 알 수 있다고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI医療機器の責任は\n医師でなく開発者に",
-          "body": "医療団体はFDAに対し、生成AI医療機器の安全責任を医師ではなく開発者に負わせるよう求めた。",
-          "mini_headline": "医療団体「AI開発者が責任を」",
+          "headline": "NICE、前立腺がんMRI\nAIツール5種を推奨",
+          "body": "NICEは根拠収集を続けつつ、前立腺がんMRIのAIツール5種をNHSに推奨した。",
+          "mini_headline": "NICE、前立腺MRIのAIを推奨",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/xBI1Tv0GTXys6wpRV0QS8JGGmJztWfwwzzGhEKntsIc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNTU1X2FzUm5RNnkuanBn.webp"
+                "t": "p",
+                "x": "国立医療技術評価機構(National Institute for Health and Care Excellence、NICE)は、磁気共鳴画像(MRI)検査で前立腺がんを「より正確に」見つける助けとなるAIツール5種を、医師が利用できるようになると発表した。"
               },
               {
                 "t": "p",
-                "x": "病院、医療システム、医師、遠隔医療企業を代表する全米規模の医療団体は、生成AIを用いる医療機器の安全性と性能について責任を負いたくないとFDAに伝えた。その負担は開発者が担うべきだという主張である。"
+                "x": "NICEは、使用法と精度に関する追加の根拠を集める間、これらの技術をNHSでMRIによる前立腺がん検出に使うよう推奨した。NICEによれば、これらのツールは「前立腺MRI画像上でがんが存在する可能性のある部位を示し、放射線科医を支援するよう設計されている」。"
               },
               {
                 "t": "p",
-                "x": "American Hospital Association、American Medical Association、American Telemedicine Associationは、チャットボットや医療情報を統合するツールを含むこうした機器の監視は、医療提供者、とりわけ小規模・地方の診療所にとって負担が重すぎると述べた。また、医療提供者が問題を報告できる仕組みをつくるようFDAに求めた。"
-              },
-              {
-                "t": "p",
-                "x": "遠隔医療団体のロビー部門であるATA Actionは「製造者は自らが販売する機器の安全性と性能に引き続き責任を負うべきだ」と述べた。病院側は、モデルの仕組みが不透明なため、医療提供者が欠陥に気づきにくいと付け加えた。"
-              },
-              {
-                "t": "p",
-                "x": "これらの意見は、生成AI搭載(AI-enabled)機器の規制案に対するFDAの意見募集に応えたものだ。こうした機器は自由形式の入力を受け付け、似た入力にも異なる出力を返しうる。医療団体は、機器が行う動作によってリスクを評価する計画をおおむね支持した。ただしAHAは動作だけではリスクを予測できない場合があるとし、AMAは人間が介在しても必ずしもリスクが軽減されるわけではないと指摘した。"
-              },
-              {
-                "t": "p",
-                "x": "WEDIは有害事象の報告プロセスと、AIツール向けの「栄養成分」ラベルを提案した。FDAのRick Abramsonは、生成AI搭載(AI-enabled)機器に関するガイダンス案を今後数か月以内に公表する予定だと述べた。"
+                "x": "NICEは、これらの技術が特に専門人材のいない環境で、前立腺MRI読影の精度と一貫性を高める「可能性がある」と結論づけた。ただし、日常的なNHS診療でツールがどう機能するかを把握するには、さらなる根拠が必要だとした。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI医疗器械责任\n应由开发者而非医生承担",
-          "body": "医疗服务机构团体敦促FDA让开发者而非医生为生成式AI医疗器械安全负责。",
-          "mini_headline": "医疗团体：应由AI开发者担责",
+          "headline": "NICE推荐5款AI工具\n辅助前列腺癌MRI",
+          "body": "NICE推荐NHS在继续收集证据期间使用5款前列腺癌MRI AI工具。",
+          "mini_headline": "NICE推荐前列腺MRI AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/xBI1Tv0GTXys6wpRV0QS8JGGmJztWfwwzzGhEKntsIc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNTU1X2FzUm5RNnkuanBn.webp"
+                "t": "p",
+                "x": "英国国家卫生与临床优化研究所(National Institute for Health and Care Excellence，NICE)宣布，5款可帮助在磁共振成像(MRI)扫描中“更准确地”识别前列腺癌的AI工具将向医生开放使用。"
               },
               {
                 "t": "p",
-                "x": "代表医院、医疗系统、医生和远程医疗企业的全国性医疗团体告诉FDA，他们不希望为使用生成式AI的医疗器械的安全性和性能承担责任，认为这一负担应由开发者承担。"
+                "x": "NICE建议，在进一步收集有关其使用和准确性的证据期间，NHS可使用这些技术借助MRI检测前列腺癌。NICE表示，这些工具“旨在通过标出前列腺MRI扫描中可能存在癌症的区域来协助放射科医生”。"
               },
               {
                 "t": "p",
-                "x": "American Hospital Association、American Medical Association和American Telemedicine Association表示，监测这类器械（包括聊天机器人和整合医疗信息的工具）会给医疗服务提供者带来过重负担，小型和农村诊所尤甚。他们还要求FDA建立供医疗服务提供者报告问题的渠道。"
-              },
-              {
-                "t": "p",
-                "x": "远程医疗团体的游说机构ATA Action表示：“制造商应继续对其销售的器械的安全性和性能负责。”医院方面补充说，模型运作方式缺乏透明度，使医疗服务提供者难以发现缺陷。"
-              },
-              {
-                "t": "p",
-                "x": "这些意见是对FDA就生成式AI赋能（AI-enabled）器械监管拟议方案征求意见的回应。这类器械接受开放式输入，对相似输入可能产生不同输出。医疗团体大体支持按器械所执行的操作评估风险的计划，但AHA表示仅凭操作未必能预测风险，AMA则指出有人参与其中并不一定能降低风险。"
-              },
-              {
-                "t": "p",
-                "x": "WEDI建议建立不良事件报告流程，并为AI工具设立“营养成分”标签。FDA的Rick Abramson表示，该机构计划在未来几个月内发布关于生成式AI赋能（AI-enabled）器械的指南草案。"
+                "x": "NICE的结论是，这些技术“有潜力”提高前列腺MRI判读的准确性和一致性，尤其是在缺乏专科人才的环境中。但它补充说，要了解这些工具在NHS日常实践中的表现，还需要更多证据。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Piden responsabilizar a los\nfabricantes de IA, no a médicos",
-          "body": "Prestadores pidieron a la FDA que los desarrolladores, no los médicos, respondan por los equipos de IA generativa.",
-          "mini_headline": "Prestadores: que respondan los fabricantes de IA",
+          "headline": "NICE avala cinco herramientas\nde AI para MRI de próstata",
+          "body": "NICE avala cinco herramientas de AI que señalan cáncer de próstata en MRI para el NHS mientras se reúne evidencia.",
+          "mini_headline": "NICE avala AI para MRI de próstata",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/xBI1Tv0GTXys6wpRV0QS8JGGmJztWfwwzzGhEKntsIc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNTU1X2FzUm5RNnkuanBn.webp"
+                "t": "p",
+                "x": "Cinco herramientas de AI que pueden ayudar a identificar el cáncer de próstata “con mayor precisión” en resonancias magnéticas (MRI) estarán a disposición de los médicos, según anunció el National Institute for Health and Care Excellence (NICE)."
               },
               {
                 "t": "p",
-                "x": "Grupos sanitarios nacionales que representan a hospitales, sistemas de salud, médicos y empresas de telesalud dijeron a la FDA que no quieren ser responsables de la seguridad y el rendimiento de los dispositivos médicos que usan IA generativa, y sostuvieron que esa carga debe recaer en los desarrolladores."
+                "x": "NICE recomendó que estas tecnologías se utilicen en el NHS para ayudar a detectar el cáncer de próstata en MRI mientras se genera más evidencia sobre su uso y su precisión. Las herramientas “están diseñadas para ayudar a los radiólogos resaltando las zonas de una MRI de próstata donde podría haber cáncer”, señaló."
               },
               {
                 "t": "p",
-                "x": "La American Hospital Association, la American Medical Association y la American Telemedicine Association afirmaron que vigilar estos dispositivos —incluidos chatbots y herramientas que sintetizan información médica— supondría una carga excesiva para los prestadores, en especial para las consultas pequeñas y rurales. También pidieron a la FDA que cree vías para que los prestadores informen de problemas."
-              },
-              {
-                "t": "p",
-                "x": "“Los fabricantes deben seguir siendo responsables de la seguridad y el rendimiento de los dispositivos que venden”, dijo ATA Action, el brazo de cabildeo del grupo de telemedicina. Los hospitales añadieron que la falta de transparencia sobre cómo funcionan los modelos dificulta que los prestadores detecten fallos."
-              },
-              {
-                "t": "p",
-                "x": "Los comentarios respondían a la solicitud de la FDA de opiniones sobre su propuesta para regular los dispositivos habilitados con IA generativa (AI-enabled), que aceptan entradas abiertas y pueden producir resultados distintos ante entradas similares. Los grupos de prestadores respaldaron en general su plan de evaluar el riesgo según las acciones que realiza un dispositivo, aunque la AHA señaló que la acción por sí sola puede no predecir el riesgo, y la AMA indicó que tener a una persona en el circuito no necesariamente lo mitiga."
-              },
-              {
-                "t": "p",
-                "x": "WEDI propuso un proceso de notificación de eventos adversos y etiquetas “nutricionales” para las herramientas de IA. Rick Abramson, de la FDA, dijo que la agencia prevé publicar en los próximos meses un borrador de guía sobre los dispositivos habilitados con IA generativa (AI-enabled)."
+                "x": "NICE concluyó que las tecnologías “tienen el potencial” de mejorar la precisión y la coherencia de la interpretación de la MRI de próstata, sobre todo en entornos sin especialistas. Pero añadió que se necesita más evidencia para entender cómo funcionarían las herramientas en la práctica habitual del NHS."
               }
             ]
           }
@@ -217,137 +145,89 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 의료기기 책임은\n의사 아닌 개발사에",
-          "body": "의료계가 FDA에 생성형 AI 기기 안전 책임을 의사 아닌 개발사가 지라고 했다.",
-          "mini_headline": "의료계 \"AI 개발사가 책임져야\"",
+          "headline": "NICE, 전립선암 MRI\nAI 도구 5종 권고",
+          "body": "NICE가 근거 수집을 전제로 전립선암 MRI AI 5종을 NHS에 권고했다.",
+          "mini_headline": "NICE, 전립선 MRI AI 권고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/xBI1Tv0GTXys6wpRV0QS8JGGmJztWfwwzzGhEKntsIc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNTU1X2FzUm5RNnkuanBn.webp"
+                "t": "p",
+                "x": "국립보건임상연구원(National Institute for Health and Care Excellence, NICE)은 자기공명영상(MRI) 검사에서 전립선암을 “더 정확하게” 찾아내도록 돕는 AI 도구 5종을 의사들이 쓸 수 있게 된다고 발표했다."
               },
               {
                 "t": "p",
-                "x": "병원과 의료 시스템, 의사, 원격의료 기업을 대표하는 전국 단위 의료 단체들이 FDA에 생성형 AI를 쓰는 의료기기의 안전과 성능에 대한 책임을 지고 싶지 않다고 밝혔다. 그 부담은 개발사가 져야 한다는 주장이다."
+                "x": "NICE는 사용 방식과 정확도에 관한 추가 근거를 쌓는 동안 이 기술을 NHS에서 MRI 기반 전립선암 진단에 활용하도록 권고했다. NICE는 이 도구들이 “전립선 MRI 영상에서 암이 있을 수 있는 부위를 표시해 영상의학과 의사를 돕도록 설계됐다”고 설명했다."
               },
               {
                 "t": "p",
-                "x": "American Hospital Association, American Medical Association, American Telemedicine Association은 챗봇과 의료 정보를 종합하는 도구를 포함한 이런 기기를 감시하는 일이 의료 제공자, 특히 소규모·농촌 의료기관에 지나친 부담이 된다고 말했다. 이들은 의료 제공자가 문제를 보고할 수 있는 경로를 만들어 달라고 FDA에 요청하기도 했다."
-              },
-              {
-                "t": "p",
-                "x": "원격의료 단체의 로비 조직인 ATA Action은 “제조사는 자신이 판매하는 기기의 안전과 성능에 계속 책임을 져야 한다”고 말했다. 병원들은 모델의 작동 방식이 투명하지 않아 의료 제공자가 결함을 알아차리기 어렵다고 덧붙였다."
-              },
-              {
-                "t": "p",
-                "x": "이번 의견은 생성형 AI 기반(AI-enabled) 기기 규제 방안에 대한 FDA의 의견 수렴에 답한 것이다. 이런 기기는 열린 형태의 입력을 받고, 비슷한 입력에도 다른 결과를 낼 수 있다. 의료 단체들은 기기가 수행하는 행위로 위험을 평가하겠다는 계획을 대체로 지지했다. 다만 AHA는 행위만으로 위험을 예측하기 어려울 수 있다고 했고, AMA는 사람이 개입한다고 해서 위험이 반드시 줄지는 않는다고 지적했다."
-              },
-              {
-                "t": "p",
-                "x": "WEDI는 이상 사례 보고 절차와 AI 도구용 “영양 성분” 라벨을 제안했다. FDA의 Rick Abramson은 앞으로 몇 달 안에 생성형 AI 기반(AI-enabled) 기기에 관한 가이던스 초안을 공개할 계획이라고 밝혔다."
+                "x": "NICE는 이 기술이 특히 전문 인력이 없는 환경에서 전립선 MRI 판독의 정확도와 일관성을 높일 “잠재력이 있다”고 결론지었다. 다만 일상적인 NHS 진료에서 도구가 어떤 성능을 보일지 파악하려면 근거가 더 필요하다고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI医療機器の責任は\n医師でなく開発者に",
-          "body": "医療団体はFDAに対し、生成AI医療機器の安全責任を医師ではなく開発者に負わせるよう求めた。",
-          "mini_headline": "医療団体「AI開発者が責任を」",
+          "headline": "NICE、前立腺がんMRI\nAIツール5種を推奨",
+          "body": "NICEは根拠収集を続けつつ、前立腺がんMRIのAIツール5種をNHSに推奨した。",
+          "mini_headline": "NICE、前立腺MRIのAIを推奨",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/xBI1Tv0GTXys6wpRV0QS8JGGmJztWfwwzzGhEKntsIc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNTU1X2FzUm5RNnkuanBn.webp"
+                "t": "p",
+                "x": "国立医療技術評価機構(National Institute for Health and Care Excellence、NICE)は、磁気共鳴画像(MRI)検査で前立腺がんを「より正確に」見つける助けとなるAIツール5種を、医師が利用できるようになると発表した。"
               },
               {
                 "t": "p",
-                "x": "病院、医療システム、医師、遠隔医療企業を代表する全米規模の医療団体は、生成AIを用いる医療機器の安全性と性能について責任を負いたくないとFDAに伝えた。その負担は開発者が担うべきだという主張である。"
+                "x": "NICEは、使用法と精度に関する追加の根拠を集める間、これらの技術をNHSでMRIによる前立腺がん検出に使うよう推奨した。NICEによれば、これらのツールは「前立腺MRI画像上でがんが存在する可能性のある部位を示し、放射線科医を支援するよう設計されている」。"
               },
               {
                 "t": "p",
-                "x": "American Hospital Association、American Medical Association、American Telemedicine Associationは、チャットボットや医療情報を統合するツールを含むこうした機器の監視は、医療提供者、とりわけ小規模・地方の診療所にとって負担が重すぎると述べた。また、医療提供者が問題を報告できる仕組みをつくるようFDAに求めた。"
-              },
-              {
-                "t": "p",
-                "x": "遠隔医療団体のロビー部門であるATA Actionは「製造者は自らが販売する機器の安全性と性能に引き続き責任を負うべきだ」と述べた。病院側は、モデルの仕組みが不透明なため、医療提供者が欠陥に気づきにくいと付け加えた。"
-              },
-              {
-                "t": "p",
-                "x": "これらの意見は、生成AI搭載(AI-enabled)機器の規制案に対するFDAの意見募集に応えたものだ。こうした機器は自由形式の入力を受け付け、似た入力にも異なる出力を返しうる。医療団体は、機器が行う動作によってリスクを評価する計画をおおむね支持した。ただしAHAは動作だけではリスクを予測できない場合があるとし、AMAは人間が介在しても必ずしもリスクが軽減されるわけではないと指摘した。"
-              },
-              {
-                "t": "p",
-                "x": "WEDIは有害事象の報告プロセスと、AIツール向けの「栄養成分」ラベルを提案した。FDAのRick Abramsonは、生成AI搭載(AI-enabled)機器に関するガイダンス案を今後数か月以内に公表する予定だと述べた。"
+                "x": "NICEは、これらの技術が特に専門人材のいない環境で、前立腺MRI読影の精度と一貫性を高める「可能性がある」と結論づけた。ただし、日常的なNHS診療でツールがどう機能するかを把握するには、さらなる根拠が必要だとした。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI医疗器械责任\n应由开发者而非医生承担",
-          "body": "医疗服务机构团体敦促FDA让开发者而非医生为生成式AI医疗器械安全负责。",
-          "mini_headline": "医疗团体：应由AI开发者担责",
+          "headline": "NICE推荐5款AI工具\n辅助前列腺癌MRI",
+          "body": "NICE推荐NHS在继续收集证据期间使用5款前列腺癌MRI AI工具。",
+          "mini_headline": "NICE推荐前列腺MRI AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/xBI1Tv0GTXys6wpRV0QS8JGGmJztWfwwzzGhEKntsIc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNTU1X2FzUm5RNnkuanBn.webp"
+                "t": "p",
+                "x": "英国国家卫生与临床优化研究所(National Institute for Health and Care Excellence，NICE)宣布，5款可帮助在磁共振成像(MRI)扫描中“更准确地”识别前列腺癌的AI工具将向医生开放使用。"
               },
               {
                 "t": "p",
-                "x": "代表医院、医疗系统、医生和远程医疗企业的全国性医疗团体告诉FDA，他们不希望为使用生成式AI的医疗器械的安全性和性能承担责任，认为这一负担应由开发者承担。"
+                "x": "NICE建议，在进一步收集有关其使用和准确性的证据期间，NHS可使用这些技术借助MRI检测前列腺癌。NICE表示，这些工具“旨在通过标出前列腺MRI扫描中可能存在癌症的区域来协助放射科医生”。"
               },
               {
                 "t": "p",
-                "x": "American Hospital Association、American Medical Association和American Telemedicine Association表示，监测这类器械（包括聊天机器人和整合医疗信息的工具）会给医疗服务提供者带来过重负担，小型和农村诊所尤甚。他们还要求FDA建立供医疗服务提供者报告问题的渠道。"
-              },
-              {
-                "t": "p",
-                "x": "远程医疗团体的游说机构ATA Action表示：“制造商应继续对其销售的器械的安全性和性能负责。”医院方面补充说，模型运作方式缺乏透明度，使医疗服务提供者难以发现缺陷。"
-              },
-              {
-                "t": "p",
-                "x": "这些意见是对FDA就生成式AI赋能（AI-enabled）器械监管拟议方案征求意见的回应。这类器械接受开放式输入，对相似输入可能产生不同输出。医疗团体大体支持按器械所执行的操作评估风险的计划，但AHA表示仅凭操作未必能预测风险，AMA则指出有人参与其中并不一定能降低风险。"
-              },
-              {
-                "t": "p",
-                "x": "WEDI建议建立不良事件报告流程，并为AI工具设立“营养成分”标签。FDA的Rick Abramson表示，该机构计划在未来几个月内发布关于生成式AI赋能（AI-enabled）器械的指南草案。"
+                "x": "NICE的结论是，这些技术“有潜力”提高前列腺MRI判读的准确性和一致性，尤其是在缺乏专科人才的环境中。但它补充说，要了解这些工具在NHS日常实践中的表现，还需要更多证据。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Piden responsabilizar a los\nfabricantes de IA, no a médicos",
-          "body": "Prestadores pidieron a la FDA que los desarrolladores, no los médicos, respondan por los equipos de IA generativa.",
-          "mini_headline": "Prestadores: que respondan los fabricantes de IA",
+          "headline": "NICE avala cinco herramientas\nde AI para MRI de próstata",
+          "body": "NICE avala cinco herramientas de AI que señalan cáncer de próstata en MRI para el NHS mientras se reúne evidencia.",
+          "mini_headline": "NICE avala AI para MRI de próstata",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/xBI1Tv0GTXys6wpRV0QS8JGGmJztWfwwzzGhEKntsIc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNTU1X2FzUm5RNnkuanBn.webp"
+                "t": "p",
+                "x": "Cinco herramientas de AI que pueden ayudar a identificar el cáncer de próstata “con mayor precisión” en resonancias magnéticas (MRI) estarán a disposición de los médicos, según anunció el National Institute for Health and Care Excellence (NICE)."
               },
               {
                 "t": "p",
-                "x": "Grupos sanitarios nacionales que representan a hospitales, sistemas de salud, médicos y empresas de telesalud dijeron a la FDA que no quieren ser responsables de la seguridad y el rendimiento de los dispositivos médicos que usan IA generativa, y sostuvieron que esa carga debe recaer en los desarrolladores."
+                "x": "NICE recomendó que estas tecnologías se utilicen en el NHS para ayudar a detectar el cáncer de próstata en MRI mientras se genera más evidencia sobre su uso y su precisión. Las herramientas “están diseñadas para ayudar a los radiólogos resaltando las zonas de una MRI de próstata donde podría haber cáncer”, señaló."
               },
               {
                 "t": "p",
-                "x": "La American Hospital Association, la American Medical Association y la American Telemedicine Association afirmaron que vigilar estos dispositivos —incluidos chatbots y herramientas que sintetizan información médica— supondría una carga excesiva para los prestadores, en especial para las consultas pequeñas y rurales. También pidieron a la FDA que cree vías para que los prestadores informen de problemas."
-              },
-              {
-                "t": "p",
-                "x": "“Los fabricantes deben seguir siendo responsables de la seguridad y el rendimiento de los dispositivos que venden”, dijo ATA Action, el brazo de cabildeo del grupo de telemedicina. Los hospitales añadieron que la falta de transparencia sobre cómo funcionan los modelos dificulta que los prestadores detecten fallos."
-              },
-              {
-                "t": "p",
-                "x": "Los comentarios respondían a la solicitud de la FDA de opiniones sobre su propuesta para regular los dispositivos habilitados con IA generativa (AI-enabled), que aceptan entradas abiertas y pueden producir resultados distintos ante entradas similares. Los grupos de prestadores respaldaron en general su plan de evaluar el riesgo según las acciones que realiza un dispositivo, aunque la AHA señaló que la acción por sí sola puede no predecir el riesgo, y la AMA indicó que tener a una persona en el circuito no necesariamente lo mitiga."
-              },
-              {
-                "t": "p",
-                "x": "WEDI propuso un proceso de notificación de eventos adversos y etiquetas “nutricionales” para las herramientas de IA. Rick Abramson, de la FDA, dijo que la agencia prevé publicar en los próximos meses un borrador de guía sobre los dispositivos habilitados con IA generativa (AI-enabled)."
+                "x": "NICE concluyó que las tecnologías “tienen el potencial” de mejorar la precisión y la coherencia de la interpretación de la MRI de próstata, sobre todo en entornos sin especialistas. Pero añadió que se necesita más evidencia para entender cómo funcionarían las herramientas en la práctica habitual del NHS."
               }
             ]
           }
@@ -355,15 +235,15 @@
       }
     },
     {
-      "id": "medicine-sentara-regard-case-ai",
+      "id": "medicine-ms-diagnosis",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Sentara, 사례관리용\nAI 도구 도입",
-      "body": "Sentara Health 사례관리자는 Regard AI에 차트를 일상어로 묻는다.",
-      "mini_headline": "Sentara, 사례관리에 AI 도입",
+      "headline": "Microsoft “AI가\n복잡 사례서 의사 앞서”",
+      "body": "Microsoft AI는 자사 진단 AI가 복잡한 사례에서 의사를 앞섰다고 밝혔다.",
+      "mini_headline": "Microsoft의 AI 진단 주장",
       "tool": "Medicine",
-      "source": "Fierce Healthcare",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/sentara-health-deploys-new-ai-case-management-tool-co-developed-regard",
+      "source": "Microsoft AI",
+      "url": "https://microsoft.ai/news/building-medical-superintelligence/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -371,197 +251,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1489370843.jpg?VersionId=TgJt3wnG4D8o0Y1CLBmihDbxRdigvp0."
+            "src": "https://microsoft.ai/wp-content/uploads/2026/10/health_v5_logo_large-1280x717.webp"
           },
           {
             "t": "p",
-            "x": "비영리 의료 시스템 Sentara Health가 화요일 임상 의사결정 지원 기업 Regard와 함께 만든 인공지능 사례관리 솔루션을 새로 도입했다."
+            "x": "Microsoft AI에 따르면 자사 진단 시스템 MAI-DxO는 MIMIC-IV-ED의 흔한 US 응급실 내원 사례에서 의사보다 1.7배, 복잡한 NEJM 사례에서는 두 배 넘게 정확했다. 연구는 Science에 실렸다."
           },
           {
             "t": "p",
-            "x": "사례관리자는 이 도구에 일상 언어로 물어 차트를 조회하고 환자 병력과 상태 변화 같은 핵심 정보를 빠르게 확인한다. 최근 24시간 안에 생긴 변화도 볼 수 있다."
+            "x": "논문이 소개한 순차 진단 벤치마크(Sequential Diagnosis Benchmark, SDBench)는 복잡한 NEJM 사례 304건과 전형적인 MIMIC-IV-ED 사례로 이뤄진다. AI나 의사는 제한된 정보에서 출발해 다음에 무엇을 요청할지 고른다. MAI-DxO는 가상 의사 패널처럼 여러 차례 토론하며 검사마다 가치와 비용을 견준다."
           },
           {
             "t": "p",
-            "x": "Sentara 최고보건정보책임자 Rollin Reeder, M.D.는 “퇴원 계획을 시작하기도 전에 환자의 이야기를 짜 맞추느라 예전에 얼마나 많은 시간을 썼는지 생각하면 놀랍다”고 돌아봤다."
+            "x": "Microsoft에 따르면 NEJM 사례에서 MAI-DxO의 정확도는 83%였다. 참고 자료 없이 진단한 의사는 22%, 참고 자료를 쓴 의사는 36%였다. 응급실 사례는 80% 대 47%였다. 비용을 최적화한 한 구성은 비교 대상 시스템의 절반에도 못 미치는 비용으로 81%에 도달했다."
           },
           {
             "t": "p",
-            "x": "Sentara는 이 도구를 급성기 진료 전반에 이어 외래 진료까지 넓힐 계획이다. 경영진은 약 90,000시간을 아낄 수 있다고 본다. 정규직 40명 이상, 인건비로 약 $5 million에 해당하는 규모다. Sentara는 버지니아(Virginia)와 노스캐롤라이나 북동부(Northeast North Carolina)에서 병원 12곳과 400곳이 넘는 진료 거점을 운영한다."
-          },
-          {
-            "t": "p",
-            "x": "Regard의 CEO Eli Ben-Joseph는 자사 플랫폼이 찾아내 의사들이 받아들인 진단이 20 million 건을 넘는다며 이를 운영팀으로 넓히는 일은 “자연스러운 다음 단계”라고 말했다."
+            "x": "Microsoft는 일부 NEJM 사례로 SDBench를 오픈소스로 공개하고, Boston의 Beth Israel Deaconess Medical Center와 전향적 연구를 벌여 의사의 독립적 평가와 성능을 견줘 볼 계획이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Sentara deploys AI tool\nfor case managers",
-          "body": "Sentara Health's AI tool, co-developed with Regard, lets case managers query patient charts in plain language.",
-          "mini_headline": "Sentara rolls out case AI",
+          "headline": "Microsoft says its AI beats\ndoctors on complex cases",
+          "body": "Microsoft AI says its diagnostic orchestrator outperformed physicians on accuracy across complex cases.",
+          "mini_headline": "Microsoft's AI diagnosis claim",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1489370843.jpg?VersionId=TgJt3wnG4D8o0Y1CLBmihDbxRdigvp0."
+                "src": "https://microsoft.ai/wp-content/uploads/2026/10/health_v5_logo_large-1280x717.webp"
               },
               {
                 "t": "p",
-                "x": "Not-for-profit health system Sentara Health deployed a new artificial intelligence case management solution Tuesday, which it co-developed with clinical decision support company Regard."
+                "x": "Microsoft AI says its diagnostic system, MAI-DxO, is 1.7 times more accurate than physicians on common US emergency-department presentations from MIMIC-IV-ED, and more than twice as accurate on complex NEJM cases. The work is published in Science."
               },
               {
                 "t": "p",
-                "x": "Case managers can use the tool to query charts in plain language, quickly surfacing key insights like patient history and status changes, and can view changes within the last 24 hours."
+                "x": "The paper introduces the Sequential Diagnosis Benchmark (SDBench): 304 complex NEJM cases plus typical MIMIC-IV-ED cases, where AI or physicians start with limited information and choose what to request next. MAI-DxO operates like a panel of virtual physicians, debating over several rounds and weighing each test’s value against its cost."
               },
               {
                 "t": "p",
-                "x": "“It's incredible to think about how much time we used to spend piecing together a patient's story before they could even start discharge planning,” said Rollin Reeder, M.D., Sentara's chief health information officer."
+                "x": "According to Microsoft, MAI-DxO achieved 83% accuracy on NEJM cases versus 22% for physicians without reference resources and 36% with them, and 80% versus 47% on emergency-department cases. One cost-optimised configuration reached 81% at less than half the cost of comparative systems."
               },
               {
                 "t": "p",
-                "x": "Sentara plans to expand the tool across acute care and into ambulatory care. Executives say it could save nearly 90,000 hours, equivalent to more than 40 full-time employees and nearly $5 million in labor costs. Sentara operates 12 hospitals and more than 400 care sites in Virginia and Northeast North Carolina."
-              },
-              {
-                "t": "p",
-                "x": "Regard CEO Eli Ben-Joseph said its platform has surfaced more than 20 million diagnoses that physicians accepted, and extending it to operational teams is “a natural next step.”"
+                "x": "Microsoft is open-sourcing SDBench for select NEJM cases and will run a prospective study with Beth Israel Deaconess Medical Center in Boston, measuring performance against physicians’ independent assessments."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Sentara, 사례관리용\nAI 도구 도입",
-          "body": "Sentara Health 사례관리자는 Regard AI에 차트를 일상어로 묻는다.",
-          "mini_headline": "Sentara, 사례관리에 AI 도입",
+          "headline": "Microsoft “AI가\n복잡 사례서 의사 앞서”",
+          "body": "Microsoft AI는 자사 진단 AI가 복잡한 사례에서 의사를 앞섰다고 밝혔다.",
+          "mini_headline": "Microsoft의 AI 진단 주장",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1489370843.jpg?VersionId=TgJt3wnG4D8o0Y1CLBmihDbxRdigvp0."
+                "src": "https://microsoft.ai/wp-content/uploads/2026/10/health_v5_logo_large-1280x717.webp"
               },
               {
                 "t": "p",
-                "x": "비영리 의료 시스템 Sentara Health가 화요일 임상 의사결정 지원 기업 Regard와 함께 만든 인공지능 사례관리 솔루션을 새로 도입했다."
+                "x": "Microsoft AI에 따르면 자사 진단 시스템 MAI-DxO는 MIMIC-IV-ED의 흔한 US 응급실 내원 사례에서 의사보다 1.7배, 복잡한 NEJM 사례에서는 두 배 넘게 정확했다. 연구는 Science에 실렸다."
               },
               {
                 "t": "p",
-                "x": "사례관리자는 이 도구에 일상 언어로 물어 차트를 조회하고 환자 병력과 상태 변화 같은 핵심 정보를 빠르게 확인한다. 최근 24시간 안에 생긴 변화도 볼 수 있다."
+                "x": "논문이 소개한 순차 진단 벤치마크(Sequential Diagnosis Benchmark, SDBench)는 복잡한 NEJM 사례 304건과 전형적인 MIMIC-IV-ED 사례로 이뤄진다. AI나 의사는 제한된 정보에서 출발해 다음에 무엇을 요청할지 고른다. MAI-DxO는 가상 의사 패널처럼 여러 차례 토론하며 검사마다 가치와 비용을 견준다."
               },
               {
                 "t": "p",
-                "x": "Sentara 최고보건정보책임자 Rollin Reeder, M.D.는 “퇴원 계획을 시작하기도 전에 환자의 이야기를 짜 맞추느라 예전에 얼마나 많은 시간을 썼는지 생각하면 놀랍다”고 돌아봤다."
+                "x": "Microsoft에 따르면 NEJM 사례에서 MAI-DxO의 정확도는 83%였다. 참고 자료 없이 진단한 의사는 22%, 참고 자료를 쓴 의사는 36%였다. 응급실 사례는 80% 대 47%였다. 비용을 최적화한 한 구성은 비교 대상 시스템의 절반에도 못 미치는 비용으로 81%에 도달했다."
               },
               {
                 "t": "p",
-                "x": "Sentara는 이 도구를 급성기 진료 전반에 이어 외래 진료까지 넓힐 계획이다. 경영진은 약 90,000시간을 아낄 수 있다고 본다. 정규직 40명 이상, 인건비로 약 $5 million에 해당하는 규모다. Sentara는 버지니아(Virginia)와 노스캐롤라이나 북동부(Northeast North Carolina)에서 병원 12곳과 400곳이 넘는 진료 거점을 운영한다."
-              },
-              {
-                "t": "p",
-                "x": "Regard의 CEO Eli Ben-Joseph는 자사 플랫폼이 찾아내 의사들이 받아들인 진단이 20 million 건을 넘는다며 이를 운영팀으로 넓히는 일은 “자연스러운 다음 단계”라고 말했다."
+                "x": "Microsoft는 일부 NEJM 사례로 SDBench를 오픈소스로 공개하고, Boston의 Beth Israel Deaconess Medical Center와 전향적 연구를 벌여 의사의 독립적 평가와 성능을 견줘 볼 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Sentara、ケース管理に\nAIツール導入",
-          "body": "Sentara HealthとRegardのAIでケース管理者がカルテを自然言語で照会する。",
-          "mini_headline": "Sentara、ケース管理AIを導入",
+          "headline": "Microsoft「AIが\n難症例で医師超え」",
+          "body": "Microsoft AIは、診断AIが複雑な症例の精度で医師を上回ったと発表した。",
+          "mini_headline": "MicrosoftのAI診断の主張",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1489370843.jpg?VersionId=TgJt3wnG4D8o0Y1CLBmihDbxRdigvp0."
+                "src": "https://microsoft.ai/wp-content/uploads/2026/10/health_v5_logo_large-1280x717.webp"
               },
               {
                 "t": "p",
-                "x": "非営利の医療システムSentara Healthは火曜日、臨床意思決定支援企業Regardと共同開発した新たな人工知能によるケース管理ソリューションを導入した。"
+                "x": "Microsoft AIによると、同社の診断システムMAI-DxOは、MIMIC-IV-EDに含まれる一般的なUSの救急外来受診例で医師より1.7倍正確で、複雑なNEJM症例では2倍を超える精度だった。研究はScienceに掲載された。"
               },
               {
                 "t": "p",
-                "x": "ケース管理者はこのツールで平易な言葉を使ってカルテを照会し、患者の病歴や状態の変化といった重要な情報をすばやく把握できる。直近24時間以内の変化も確認できる。"
+                "x": "論文は逐次診断ベンチマーク(Sequential Diagnosis Benchmark、SDBench)を提示している。複雑なNEJM症例304件と典型的なMIMIC-IV-ED症例で構成され、AIや医師は限られた情報から始めて、次に何を求めるかを選ぶ。MAI-DxOは仮想の医師団のように動き、数回にわたって議論しながら各検査の価値を費用と比べる。"
               },
               {
                 "t": "p",
-                "x": "Sentaraの最高医療情報責任者Rollin Reeder, M.D.は「退院計画に取りかかる前に、患者の経過をつなぎ合わせるのにかつてどれほどの時間を費やしていたかを考えると、驚くばかりだ」と語った。"
+                "x": "Microsoftによれば、MAI-DxOはNEJM症例で83%の正答率を達成した。参考資料なしの医師は22%、参考資料ありでは36%だった。救急外来症例では80%対47%だった。費用を最適化したある構成は、比較対象システムの半分未満の費用で81%に達した。"
               },
               {
                 "t": "p",
-                "x": "Sentaraはこのツールを急性期医療全体に広げ、外来医療にも拡大する計画だ。経営陣によれば、約90,000時間を節約でき、これはフルタイム職員40人超、人件費約$5 million 相当に当たるという。Sentaraはバージニア州(Virginia)とノースカロライナ州北東部(Northeast North Carolina)で12の病院と400を超える診療拠点を運営している。"
-              },
-              {
-                "t": "p",
-                "x": "RegardのCEO、Eli Ben-Joseph氏は、同社のプラットフォームが医師に受け入れられた診断を20 million 件以上提示してきたとし、運用チームへの拡大は「自然な次のステップ」だと述べた。"
+                "x": "Microsoftは一部のNEJM症例についてSDBenchをオープンソース化し、BostonのBeth Israel Deaconess Medical Centerと前向き研究を行い、医師による独立した評価と性能を比較する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Sentara为个案管理员\n部署AI工具",
-          "body": "Sentara Health与Regard合作开发的AI工具让个案管理员用日常语言查询病历。",
-          "mini_headline": "Sentara推出个案管理AI",
+          "headline": "Microsoft称AI\n复杂病例胜过医生",
+          "body": "Microsoft AI称，其诊断协调系统在复杂病例中的准确率超过了医生。",
+          "mini_headline": "Microsoft的AI诊断之说",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1489370843.jpg?VersionId=TgJt3wnG4D8o0Y1CLBmihDbxRdigvp0."
+                "src": "https://microsoft.ai/wp-content/uploads/2026/10/health_v5_logo_large-1280x717.webp"
               },
               {
                 "t": "p",
-                "x": "非营利医疗系统Sentara Health于周二部署了与临床决策支持公司Regard共同开发的全新人工智能个案管理解决方案。"
+                "x": "Microsoft AI称，其诊断系统MAI-DxO在MIMIC-IV-ED中常见的US急诊就诊病例上，准确率是医生的1.7倍；在复杂的NEJM病例上，准确率是医生的两倍以上。该研究发表于Science。"
               },
               {
                 "t": "p",
-                "x": "个案管理员可以通过该工具用日常语言查询病历，快速获取病史和状态变化等关键信息，还可查看最近24小时内的变化。"
+                "x": "论文提出了序贯诊断基准(Sequential Diagnosis Benchmark，SDBench)：包含304例复杂NEJM病例和典型的MIMIC-IV-ED病例，AI或医生从有限的信息出发，自行选择下一步要获取什么。MAI-DxO的运作方式类似一个虚拟医生小组，经过多轮讨论，权衡每项检查的价值与成本。"
               },
               {
                 "t": "p",
-                "x": "Sentara首席健康信息官Rollin Reeder, M.D.表示：“想想我们过去在患者甚至还没开始做出院计划之前，要花多少时间拼凑他们的病情经过，真是不可思议。”"
+                "x": "据Microsoft介绍，MAI-DxO在NEJM病例上的准确率达到83%，而不借助参考资料的医生为22%，借助参考资料的医生为36%；在急诊病例上为80%对47%。一种成本优化配置以不到对比系统一半的成本达到了81%。"
               },
               {
                 "t": "p",
-                "x": "Sentara计划将该工具推广至整个急症护理领域，并扩展到门诊护理。高管表示，这可节省近90,000小时，相当于超过40名全职员工和近$5 million 的人力成本。Sentara在弗吉尼亚州(Virginia)和北卡罗来纳州东北部(Northeast North Carolina)运营着12家医院和400多个医疗服务点。"
-              },
-              {
-                "t": "p",
-                "x": "Regard CEO Eli Ben-Joseph表示，其平台已提出超过20 million 项获医生认可的诊断，将其扩展至运营团队是“自然而然的下一步”。"
+                "x": "Microsoft将针对部分NEJM病例开源SDBench，并将与Boston的Beth Israel Deaconess Medical Center开展前瞻性研究，以医生的独立评估为参照衡量其表现。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Sentara implanta una herramienta\nde AI para gestores de casos",
-          "body": "La AI de Sentara Health, creada con Regard, deja a los gestores de casos consultar historiales en lenguaje llano.",
-          "mini_headline": "Sentara lanza AI para gestión de casos",
+          "headline": "Microsoft dice que su AI supera\na médicos en casos complejos",
+          "body": "Microsoft AI afirma que su orquestador de diagnóstico superó en precisión a los médicos en casos complejos.",
+          "mini_headline": "Microsoft y su AI de diagnóstico",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1489370843.jpg?VersionId=TgJt3wnG4D8o0Y1CLBmihDbxRdigvp0."
+                "src": "https://microsoft.ai/wp-content/uploads/2026/10/health_v5_logo_large-1280x717.webp"
               },
               {
                 "t": "p",
-                "x": "El sistema de salud sin ánimo de lucro Sentara Health implantó el martes una nueva solución de gestión de casos con inteligencia artificial, desarrollada junto con Regard, empresa de apoyo a la decisión clínica."
+                "x": "Microsoft AI afirma que su sistema de diagnóstico, MAI-DxO, es 1.7 veces más preciso que los médicos en presentaciones habituales de urgencias de US procedentes de MIMIC-IV-ED, y más del doble de preciso en casos complejos de NEJM. El trabajo se publicó en Science."
               },
               {
                 "t": "p",
-                "x": "Los gestores de casos pueden usar la herramienta para consultar historias clínicas en lenguaje llano, obtener con rapidez datos clave como los antecedentes del paciente y los cambios de estado, y ver los cambios de las últimas 24 horas."
+                "x": "El artículo presenta el Sequential Diagnosis Benchmark (SDBench): 304 casos complejos de NEJM más casos típicos de MIMIC-IV-ED, en los que la AI o los médicos parten de información limitada y eligen qué solicitar a continuación. MAI-DxO funciona como un panel de médicos virtuales que debate durante varias rondas y sopesa el valor de cada prueba frente a su coste."
               },
               {
                 "t": "p",
-                "x": "“Es increíble pensar en cuánto tiempo dedicábamos a reconstruir la historia de un paciente antes incluso de poder empezar a planificar el alta”, dijo Rollin Reeder, M.D., director de información sanitaria de Sentara."
+                "x": "Según Microsoft, MAI-DxO alcanzó un 83% de precisión en los casos de NEJM, frente al 22% de los médicos sin recursos de consulta y el 36% con ellos, y un 80% frente a un 47% en los casos de urgencias. Una configuración optimizada en costes llegó al 81% con menos de la mitad del coste de sistemas comparables."
               },
               {
                 "t": "p",
-                "x": "Sentara prevé extender la herramienta a toda la atención de agudos y a la atención ambulatoria. Sus directivos calculan que podría ahorrar cerca de 90,000 horas, equivalentes a más de 40 empleados a tiempo completo y casi $5 millones en costes laborales. Sentara opera 12 hospitales y más de 400 centros asistenciales en Virginia y el noreste de Carolina del Norte (Northeast North Carolina)."
-              },
-              {
-                "t": "p",
-                "x": "El CEO de Regard, Eli Ben-Joseph, dijo que su plataforma ha detectado más de 20 millones de diagnósticos que los médicos aceptaron y que extenderla a los equipos operativos es “el siguiente paso natural”."
+                "x": "Microsoft publicará como código abierto SDBench para una selección de casos de NEJM y realizará un estudio prospectivo con el Beth Israel Deaconess Medical Center de Boston, en el que medirá su rendimiento frente a las evaluaciones independientes de los médicos."
               }
             ]
           }
@@ -569,137 +425,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Sentara, 사례관리용\nAI 도구 도입",
-          "body": "Sentara Health·Regard AI로 사례관리자가 차트를 일상어로 묻는다.",
-          "mini_headline": "Sentara, 사례관리 AI 도입",
+          "headline": "Microsoft “AI가\n복잡 사례서 의사 앞서”",
+          "body": "Microsoft AI는 진단 AI가 복잡한 사례서 의사를 앞섰다고 밝혔다.",
+          "mini_headline": "Microsoft의 AI 진단 주장",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1489370843.jpg?VersionId=TgJt3wnG4D8o0Y1CLBmihDbxRdigvp0."
+                "src": "https://microsoft.ai/wp-content/uploads/2026/10/health_v5_logo_large-1280x717.webp"
               },
               {
                 "t": "p",
-                "x": "비영리 의료 시스템 Sentara Health가 화요일 임상 의사결정 지원 기업 Regard와 함께 개발한 새 인공지능 사례관리 솔루션을 도입했다."
+                "x": "Microsoft AI는 자사 진단 시스템 MAI-DxO가 MIMIC-IV-ED의 흔한 US 응급실 내원 사례에서 의사보다 1.7배 정확하고, 복잡한 NEJM 사례에서는 두 배 넘게 정확하다고 밝혔다. 이 연구는 Science에 실렸다."
               },
               {
                 "t": "p",
-                "x": "사례관리자는 이 도구로 일상 언어를 써서 차트를 조회하고, 환자 병력과 상태 변화 같은 핵심 정보를 빠르게 확인할 수 있다. 최근 24시간 이내의 변화도 볼 수 있다."
+                "x": "논문은 순차 진단 벤치마크(Sequential Diagnosis Benchmark, SDBench)를 소개한다. 복잡한 NEJM 사례 304건과 전형적인 MIMIC-IV-ED 사례로 구성되며, AI나 의사는 제한된 정보에서 출발해 다음에 무엇을 요청할지 고른다. MAI-DxO는 가상 의사 패널처럼 작동하며, 여러 차례 토론하면서 각 검사의 가치를 비용과 견준다."
               },
               {
                 "t": "p",
-                "x": "Sentara의 최고보건정보책임자 Rollin Reeder, M.D.는 “퇴원 계획을 시작하기도 전에 환자의 이야기를 짜 맞추느라 예전에 얼마나 많은 시간을 썼는지 생각하면 놀랍다”고 말했다."
+                "x": "Microsoft에 따르면 MAI-DxO는 NEJM 사례에서 83%의 정확도를 기록했고, 참고 자료 없이 진단한 의사는 22%, 참고 자료를 쓴 의사는 36%였다. 응급실 사례에서는 80% 대 47%였다. 비용을 최적화한 한 구성은 비교 대상 시스템 비용의 절반에도 못 미치는 비용으로 81%에 도달했다."
               },
               {
                 "t": "p",
-                "x": "Sentara는 이 도구를 급성기 진료 전반으로 넓히고 외래 진료까지 확대할 계획이다. 경영진은 약 90,000시간을 절약할 수 있다고 본다. 정규직 40명 이상과 인건비 약 $5 million 규모에 해당한다. Sentara는 버지니아(Virginia)와 노스캐롤라이나 북동부(Northeast North Carolina)에서 병원 12곳과 400곳이 넘는 진료 거점을 운영한다."
-              },
-              {
-                "t": "p",
-                "x": "Regard의 CEO Eli Ben-Joseph는 자사 플랫폼이 의사들이 받아들인 진단을 20 million 건 넘게 찾아냈다며, 이를 운영팀으로 넓히는 것은 “자연스러운 다음 단계”라고 말했다."
+                "x": "Microsoft는 일부 NEJM 사례를 대상으로 SDBench를 오픈소스로 공개하고, Boston의 Beth Israel Deaconess Medical Center와 전향적 연구를 진행해 의사의 독립적 평가와 성능을 비교할 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Sentara、ケース管理に\nAIツール導入",
-          "body": "Sentara HealthとRegardのAIでケース管理者がカルテを自然言語で照会する。",
-          "mini_headline": "Sentara、ケース管理AIを導入",
+          "headline": "Microsoft「AIが\n難症例で医師超え」",
+          "body": "Microsoft AIは、診断AIが複雑な症例の精度で医師を上回ったと発表した。",
+          "mini_headline": "MicrosoftのAI診断の主張",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1489370843.jpg?VersionId=TgJt3wnG4D8o0Y1CLBmihDbxRdigvp0."
+                "src": "https://microsoft.ai/wp-content/uploads/2026/10/health_v5_logo_large-1280x717.webp"
               },
               {
                 "t": "p",
-                "x": "非営利の医療システムSentara Healthは火曜日、臨床意思決定支援企業Regardと共同開発した新たな人工知能によるケース管理ソリューションを導入した。"
+                "x": "Microsoft AIによると、同社の診断システムMAI-DxOは、MIMIC-IV-EDに含まれる一般的なUSの救急外来受診例で医師より1.7倍正確で、複雑なNEJM症例では2倍を超える精度だった。研究はScienceに掲載された。"
               },
               {
                 "t": "p",
-                "x": "ケース管理者はこのツールで平易な言葉を使ってカルテを照会し、患者の病歴や状態の変化といった重要な情報をすばやく把握できる。直近24時間以内の変化も確認できる。"
+                "x": "論文は逐次診断ベンチマーク(Sequential Diagnosis Benchmark、SDBench)を提示している。複雑なNEJM症例304件と典型的なMIMIC-IV-ED症例で構成され、AIや医師は限られた情報から始めて、次に何を求めるかを選ぶ。MAI-DxOは仮想の医師団のように動き、数回にわたって議論しながら各検査の価値を費用と比べる。"
               },
               {
                 "t": "p",
-                "x": "Sentaraの最高医療情報責任者Rollin Reeder, M.D.は「退院計画に取りかかる前に、患者の経過をつなぎ合わせるのにかつてどれほどの時間を費やしていたかを考えると、驚くばかりだ」と語った。"
+                "x": "Microsoftによれば、MAI-DxOはNEJM症例で83%の正答率を達成した。参考資料なしの医師は22%、参考資料ありでは36%だった。救急外来症例では80%対47%だった。費用を最適化したある構成は、比較対象システムの半分未満の費用で81%に達した。"
               },
               {
                 "t": "p",
-                "x": "Sentaraはこのツールを急性期医療全体に広げ、外来医療にも拡大する計画だ。経営陣によれば、約90,000時間を節約でき、これはフルタイム職員40人超、人件費約$5 million 相当に当たるという。Sentaraはバージニア州(Virginia)とノースカロライナ州北東部(Northeast North Carolina)で12の病院と400を超える診療拠点を運営している。"
-              },
-              {
-                "t": "p",
-                "x": "RegardのCEO、Eli Ben-Joseph氏は、同社のプラットフォームが医師に受け入れられた診断を20 million 件以上提示してきたとし、運用チームへの拡大は「自然な次のステップ」だと述べた。"
+                "x": "Microsoftは一部のNEJM症例についてSDBenchをオープンソース化し、BostonのBeth Israel Deaconess Medical Centerと前向き研究を行い、医師による独立した評価と性能を比較する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Sentara为个案管理员\n部署AI工具",
-          "body": "Sentara Health与Regard合作开发的AI工具让个案管理员用日常语言查询病历。",
-          "mini_headline": "Sentara推出个案管理AI",
+          "headline": "Microsoft称AI\n复杂病例胜过医生",
+          "body": "Microsoft AI称，其诊断协调系统在复杂病例中的准确率超过了医生。",
+          "mini_headline": "Microsoft的AI诊断之说",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1489370843.jpg?VersionId=TgJt3wnG4D8o0Y1CLBmihDbxRdigvp0."
+                "src": "https://microsoft.ai/wp-content/uploads/2026/10/health_v5_logo_large-1280x717.webp"
               },
               {
                 "t": "p",
-                "x": "非营利医疗系统Sentara Health于周二部署了与临床决策支持公司Regard共同开发的全新人工智能个案管理解决方案。"
+                "x": "Microsoft AI称，其诊断系统MAI-DxO在MIMIC-IV-ED中常见的US急诊就诊病例上，准确率是医生的1.7倍；在复杂的NEJM病例上，准确率是医生的两倍以上。该研究发表于Science。"
               },
               {
                 "t": "p",
-                "x": "个案管理员可以通过该工具用日常语言查询病历，快速获取病史和状态变化等关键信息，还可查看最近24小时内的变化。"
+                "x": "论文提出了序贯诊断基准(Sequential Diagnosis Benchmark，SDBench)：包含304例复杂NEJM病例和典型的MIMIC-IV-ED病例，AI或医生从有限的信息出发，自行选择下一步要获取什么。MAI-DxO的运作方式类似一个虚拟医生小组，经过多轮讨论，权衡每项检查的价值与成本。"
               },
               {
                 "t": "p",
-                "x": "Sentara首席健康信息官Rollin Reeder, M.D.表示：“想想我们过去在患者甚至还没开始做出院计划之前，要花多少时间拼凑他们的病情经过，真是不可思议。”"
+                "x": "据Microsoft介绍，MAI-DxO在NEJM病例上的准确率达到83%，而不借助参考资料的医生为22%，借助参考资料的医生为36%；在急诊病例上为80%对47%。一种成本优化配置以不到对比系统一半的成本达到了81%。"
               },
               {
                 "t": "p",
-                "x": "Sentara计划将该工具推广至整个急症护理领域，并扩展到门诊护理。高管表示，这可节省近90,000小时，相当于超过40名全职员工和近$5 million 的人力成本。Sentara在弗吉尼亚州(Virginia)和北卡罗来纳州东北部(Northeast North Carolina)运营着12家医院和400多个医疗服务点。"
-              },
-              {
-                "t": "p",
-                "x": "Regard CEO Eli Ben-Joseph表示，其平台已提出超过20 million 项获医生认可的诊断，将其扩展至运营团队是“自然而然的下一步”。"
+                "x": "Microsoft将针对部分NEJM病例开源SDBench，并将与Boston的Beth Israel Deaconess Medical Center开展前瞻性研究，以医生的独立评估为参照衡量其表现。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Sentara implanta una herramienta\nde AI para gestores de casos",
-          "body": "La AI de Sentara Health, creada con Regard, deja a los gestores de casos consultar historiales en lenguaje llano.",
-          "mini_headline": "Sentara lanza AI para gestión de casos",
+          "headline": "Microsoft dice que su AI supera\na médicos en casos complejos",
+          "body": "Microsoft AI afirma que su orquestador de diagnóstico superó en precisión a los médicos en casos complejos.",
+          "mini_headline": "Microsoft y su AI de diagnóstico",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1489370843.jpg?VersionId=TgJt3wnG4D8o0Y1CLBmihDbxRdigvp0."
+                "src": "https://microsoft.ai/wp-content/uploads/2026/10/health_v5_logo_large-1280x717.webp"
               },
               {
                 "t": "p",
-                "x": "El sistema de salud sin ánimo de lucro Sentara Health implantó el martes una nueva solución de gestión de casos con inteligencia artificial, desarrollada junto con Regard, empresa de apoyo a la decisión clínica."
+                "x": "Microsoft AI afirma que su sistema de diagnóstico, MAI-DxO, es 1.7 veces más preciso que los médicos en presentaciones habituales de urgencias de US procedentes de MIMIC-IV-ED, y más del doble de preciso en casos complejos de NEJM. El trabajo se publicó en Science."
               },
               {
                 "t": "p",
-                "x": "Los gestores de casos pueden usar la herramienta para consultar historias clínicas en lenguaje llano, obtener con rapidez datos clave como los antecedentes del paciente y los cambios de estado, y ver los cambios de las últimas 24 horas."
+                "x": "El artículo presenta el Sequential Diagnosis Benchmark (SDBench): 304 casos complejos de NEJM más casos típicos de MIMIC-IV-ED, en los que la AI o los médicos parten de información limitada y eligen qué solicitar a continuación. MAI-DxO funciona como un panel de médicos virtuales que debate durante varias rondas y sopesa el valor de cada prueba frente a su coste."
               },
               {
                 "t": "p",
-                "x": "“Es increíble pensar en cuánto tiempo dedicábamos a reconstruir la historia de un paciente antes incluso de poder empezar a planificar el alta”, dijo Rollin Reeder, M.D., director de información sanitaria de Sentara."
+                "x": "Según Microsoft, MAI-DxO alcanzó un 83% de precisión en los casos de NEJM, frente al 22% de los médicos sin recursos de consulta y el 36% con ellos, y un 80% frente a un 47% en los casos de urgencias. Una configuración optimizada en costes llegó al 81% con menos de la mitad del coste de sistemas comparables."
               },
               {
                 "t": "p",
-                "x": "Sentara prevé extender la herramienta a toda la atención de agudos y a la atención ambulatoria. Sus directivos calculan que podría ahorrar cerca de 90,000 horas, equivalentes a más de 40 empleados a tiempo completo y casi $5 millones en costes laborales. Sentara opera 12 hospitales y más de 400 centros asistenciales en Virginia y el noreste de Carolina del Norte (Northeast North Carolina)."
-              },
-              {
-                "t": "p",
-                "x": "El CEO de Regard, Eli Ben-Joseph, dijo que su plataforma ha detectado más de 20 millones de diagnósticos que los médicos aceptaron y que extenderla a los equipos operativos es “el siguiente paso natural”."
+                "x": "Microsoft publicará como código abierto SDBench para una selección de casos de NEJM y realizará un estudio prospectivo con el Beth Israel Deaconess Medical Center de Boston, en el que medirá su rendimiento frente a las evaluaciones independientes de los médicos."
               }
             ]
           }
@@ -707,213 +547,219 @@
       }
     },
     {
-      "id": "medicine-coreline-neck-ct-lung-cancer",
+      "id": "medicine-mfds-aidrug",
       "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "목 CT서 놓친 폐암\n절반 AI가 찾았다",
-      "body": "AI가 목 CT 판독에서 놓친 폐암 80건 중 41건을 찾아냈다.",
-      "mini_headline": "놓친 폐암 절반, AI가 찾다",
+      "headline": "식약처, AI 신약\n심사기준 연내 마련",
+      "body": "식약처가 AI로 개발한 의약품의 허가·심사 가이드라인을 12월까지 마련한다.",
+      "mini_headline": "AI 신약 심사기준 연내",
       "tool": "Medicine",
-      "source": "의학신문",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014596",
+      "source": "의학신문(일간보사)",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014609",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "식품의약품안전처가 인공지능(AI)을 활용해 개발한 의약품의 허가·심사 가이드라인을 올해 12월까지 마련한다. AI를 이용한 신약 후보물질 발굴과 독성 예측 등이 확대되고 있지만, 이를 허가심사 과정에서 평가할 별도 기준이 없어 발생했던 제약기업의 불확실성을 해소하겠다는 취지다."
+          },
+          {
             "t": "img",
-            "src": "https://cdn.bosa.co.kr/news/photo/202610/3014596_415527_236.png"
+            "src": "https://cdn.bosa.co.kr/news/photo/202610/3014609_415542_172.jpg",
+            "cap": "사진=의학신문 DB."
           },
           {
             "t": "p",
-            "x": "특정 질환 확인을 위해 찍은 CT에서 검사 목적 외의 숨은 중증 질환까지 찾아내는 ‘기회검진(Opportunistic Screening)’이 의료 AI 업계의 핵심 화두로 떠오르고 있다."
+            "x": "23일 대통령 주재로 열리는 규제합리화위원회 제2차 전체회의에서는 이 같은 내용의 바이오 분야 규제합리화 방안을 공개했다."
           },
           {
             "t": "p",
-            "x": "코어라인소프트의 흉부 CT 폐결절 분석 솔루션 ‘AVIEW LCS’로 목 CT 판독에서 간과하기 쉬운 초기 폐암 병변을 검출한 임상 연구가 국제학술지 ‘Korean Journal of Radiology’ 최신호에 게재됐다. 목 CT는 촬영 범위 하단에 폐첨부가 일부 포함되지만, 판독의의 시선이 목 주변에 집중돼 가장자리의 작은 폐 병변이 누락되는 경우가 적지 않았다."
+            "x": "그동안 제약기업이 AI로 신약 후보물질을 발굴하거나 독성을 예측해도 허가심사에 어떤 자료를 준비해야 하는지 판단하기 어려웠다. 미국 FDA와 유럽 EMA는 올해 AI 기반 의약품 개발 과정에서 업계가 준수해야 할 10가지 기본 원칙을 담은 공동 가이드라인을 발표했으며, 식약처는 이 같은 국제 규제 동향을 반영할 계획이다."
           },
           {
             "t": "p",
-            "x": "국내 상급종합병원 연구진이 2008~2024년 목 CT를 촬영한 성인 8만 1794명을 후향적으로 추적한 결과, 추후 폐암 확진 환자 중 과거 목 CT에 이미 병변이 찍혀 있던 사례가 123건이었다. 이 중 65.0%인 80명의 판독 기록에는 폐 병변 소견이 전혀 없었다. 누락군은 최종 확진까지 중앙값 27.5개월이 걸렸고, T·N·M 중 하나 이상이 악화된 비율도 47.5%로 즉시 발견군(11.6%)보다 4배 이상 높았다."
+            "x": "정부는 AI 기술 활용으로 평균 1조~2조원에 이르는 전통적 신약 개발 비용을 최대 50%까지 절감할 수 있을 것으로 기대한다. 신준수 국장은 \"AI 기술을 활용해 개발된 의약품이 증가함에 따라 명확하고 구체적인 심사 가이드라인을 개발하겠다\"고 말했다."
           },
           {
             "t": "p",
-            "x": "연구팀이 누락 사례 80건에 AVIEW LCS를 적용하자, 흉부 전용 알고리즘을 목 CT에 맞춰 재학습하지 않았는데도 80건 중 41건(민감도 51.3%)을 짚어냈다. 위양성률·특이도 등 추가 검증 과제는 남아 있지만, 특정 부위용 AI가 다른 부위 영상에서도 보완적 안전망이 될 수 있다는 탐색적 근거를 마련했다는 평가다."
-          },
-          {
-            "t": "p",
-            "x": "코어라인소프트는 한 번의 흉부 CT로 폐결절, COPD·폐기종, 관상동맥석회화를 동시에 분석하는 ‘One CT, Multi-Disease’ 전략을 내세우고 있으며, 2026년 상반기 매출은 전년 동기 대비 45.7%, 해외 매출은 123.0% 늘었다."
+            "x": "이와 함께 성분과 첨가제가 동일한 수용성 주사제의 동등성 입증자료 제출 면제, 제형 차이가 경미한 일반의약품의 제출자료 간소화, AI·소프트웨어가 결합된 디지털 융합 의약품의 원스톱 통합심사 등도 추진한다."
           }
         ]
       },
       "text": {
         "ko": {
-          "headline": "목 CT서 놓친 폐암\n절반 AI가 찾았다",
-          "body": "AI가 목 CT 판독에서 놓친 폐암 80건 중 41건을 찾아냈다.",
-          "mini_headline": "놓친 폐암 절반, AI가 찾다",
+          "headline": "식약처, AI 신약\n심사기준 연내 마련",
+          "body": "식약처가 AI로 개발한 의약품의 허가·심사 가이드라인을 12월까지 마련한다.",
+          "mini_headline": "AI 신약 심사기준 연내",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "식품의약품안전처가 인공지능(AI)을 활용해 개발한 의약품의 허가·심사 가이드라인을 올해 12월까지 마련한다. AI를 이용한 신약 후보물질 발굴과 독성 예측 등이 확대되고 있지만, 이를 허가심사 과정에서 평가할 별도 기준이 없어 발생했던 제약기업의 불확실성을 해소하겠다는 취지다."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014596_415527_236.png"
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014609_415542_172.jpg",
+                "cap": "사진=의학신문 DB."
               },
               {
                 "t": "p",
-                "x": "특정 질환 확인을 위해 찍은 CT에서 검사 목적 외의 숨은 중증 질환까지 찾아내는 ‘기회검진(Opportunistic Screening)’이 의료 AI 업계의 핵심 화두로 떠오르고 있다."
+                "x": "23일 대통령 주재로 열리는 규제합리화위원회 제2차 전체회의에서는 이 같은 내용의 바이오 분야 규제합리화 방안을 공개했다."
               },
               {
                 "t": "p",
-                "x": "코어라인소프트의 흉부 CT 폐결절 분석 솔루션 ‘AVIEW LCS’로 목 CT 판독에서 간과하기 쉬운 초기 폐암 병변을 검출한 임상 연구가 국제학술지 ‘Korean Journal of Radiology’ 최신호에 게재됐다. 목 CT는 촬영 범위 하단에 폐첨부가 일부 포함되지만, 판독의의 시선이 목 주변에 집중돼 가장자리의 작은 폐 병변이 누락되는 경우가 적지 않았다."
+                "x": "그동안 제약기업이 AI로 신약 후보물질을 발굴하거나 독성을 예측해도 허가심사에 어떤 자료를 준비해야 하는지 판단하기 어려웠다. 미국 FDA와 유럽 EMA는 올해 AI 기반 의약품 개발 과정에서 업계가 준수해야 할 10가지 기본 원칙을 담은 공동 가이드라인을 발표했으며, 식약처는 이 같은 국제 규제 동향을 반영할 계획이다."
               },
               {
                 "t": "p",
-                "x": "국내 상급종합병원 연구진이 2008~2024년 목 CT를 촬영한 성인 8만 1794명을 후향적으로 추적한 결과, 추후 폐암 확진 환자 중 과거 목 CT에 이미 병변이 찍혀 있던 사례가 123건이었다. 이 중 65.0%인 80명의 판독 기록에는 폐 병변 소견이 전혀 없었다. 누락군은 최종 확진까지 중앙값 27.5개월이 걸렸고, T·N·M 중 하나 이상이 악화된 비율도 47.5%로 즉시 발견군(11.6%)보다 4배 이상 높았다."
+                "x": "정부는 AI 기술 활용으로 평균 1조~2조원에 이르는 전통적 신약 개발 비용을 최대 50%까지 절감할 수 있을 것으로 기대한다. 신준수 국장은 \"AI 기술을 활용해 개발된 의약품이 증가함에 따라 명확하고 구체적인 심사 가이드라인을 개발하겠다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "연구팀이 누락 사례 80건에 AVIEW LCS를 적용하자, 흉부 전용 알고리즘을 목 CT에 맞춰 재학습하지 않았는데도 80건 중 41건(민감도 51.3%)을 짚어냈다. 위양성률·특이도 등 추가 검증 과제는 남아 있지만, 특정 부위용 AI가 다른 부위 영상에서도 보완적 안전망이 될 수 있다는 탐색적 근거를 마련했다는 평가다."
-              },
-              {
-                "t": "p",
-                "x": "코어라인소프트는 한 번의 흉부 CT로 폐결절, COPD·폐기종, 관상동맥석회화를 동시에 분석하는 ‘One CT, Multi-Disease’ 전략을 내세우고 있으며, 2026년 상반기 매출은 전년 동기 대비 45.7%, 해외 매출은 123.0% 늘었다."
+                "x": "이와 함께 성분과 첨가제가 동일한 수용성 주사제의 동등성 입증자료 제출 면제, 제형 차이가 경미한 일반의약품의 제출자료 간소화, AI·소프트웨어가 결합된 디지털 융합 의약품의 원스톱 통합심사 등도 추진한다."
               }
             ]
           }
         },
         "en": {
-          "headline": "AI caught half the lung cancers\nmissed on neck CT",
-          "body": "AI flagged 41 of 80 lung cancers that had been missed in neck CT readings.",
-          "mini_headline": "AI finds half of missed lung cancers",
+          "headline": "MFDS to set AI drug review\nstandards within the year",
+          "body": "The Ministry of Food and Drug Safety will prepare approval and review guidelines for AI-developed drugs by December.",
+          "mini_headline": "AI drug review rules due this year",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "The Ministry of Food and Drug Safety (MFDS) will prepare approval and review guidelines for medicines developed using artificial intelligence (AI) by December this year. The aim is to ease the uncertainty drugmakers have faced: AI is increasingly used to discover drug candidates and predict toxicity, but there has been no separate standard for evaluating this work during approval review."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014596_415527_236.png"
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014609_415542_172.jpg",
+                "cap": "Photo: The Medical Newspaper DB."
               },
               {
                 "t": "p",
-                "x": "‘Opportunistic Screening,’ which uses a CT taken to check for a specific condition to also find hidden serious diseases beyond the purpose of the exam, is emerging as a key topic in the medical AI industry."
+                "x": "The plan for rationalizing regulation in the bio sector was unveiled at the 2nd plenary meeting of the Regulatory Rationalization Committee, chaired by the President, on the 23rd."
               },
               {
                 "t": "p",
-                "x": "A clinical study that used Coreline Soft's chest CT lung nodule analysis solution ‘AVIEW LCS’ to detect early lung cancer lesions that are easily overlooked in neck CT readings was published in the latest issue of the international journal ‘Korean Journal of Radiology.’ Neck CT includes part of the lung apex at the bottom of the scan range, but because readers focus on the neck area, small lung lesions at the edges were often missed."
+                "x": "Until now, even when drugmakers used AI to discover drug candidates or predict toxicity, it was hard to judge what data to prepare for approval review. The U.S. FDA and Europe's EMA released joint guidelines this year setting out 10 basic principles the industry should follow in AI-based drug development, and the MFDS plans to reflect such international regulatory trends."
               },
               {
                 "t": "p",
-                "x": "Researchers at a Korean tertiary hospital retrospectively followed 81,794 adults who had neck CT scans in 2008~2024 and found 123 cases among patients later diagnosed with lung cancer in which the lesion had already appeared on an earlier neck CT. In 80 of them, or 65.0%, the reading report noted no lung lesion at all. The missed group took a median of 27.5 months to final diagnosis, and the share with worsening in any of T·N·M was 47.5%, more than 4 times that of the group detected immediately (11.6%)."
+                "x": "The government expects that using AI could cut traditional drug development costs, which average 1 trillion to 2 trillion won (1조~2조원), by up to 50%. Director General Shin Jun-su said, “As the number of medicines developed using AI technology grows, we will develop clear and specific review guidelines.”"
               },
               {
                 "t": "p",
-                "x": "When the team applied AVIEW LCS to the 80 missed cases, it flagged 41 of the 80 (sensitivity 51.3%) even though the chest-only algorithm was not retrained for neck CT. Further validation, such as false-positive rate and specificity, remains, but the study is seen as providing exploratory evidence that AI built for a specific body region can serve as a complementary safety net on images of other regions."
-              },
-              {
-                "t": "p",
-                "x": "Coreline Soft is pursuing a ‘One CT, Multi-Disease’ strategy that analyzes lung nodules, COPD and emphysema, and coronary artery calcification at once from a single chest CT. Its revenue in the first half of 2026 rose 45.7% year on year, and overseas revenue rose 123.0%."
+                "x": "The ministry will also pursue exempting water-soluble injectables with identical ingredients and excipients from submitting equivalence data, simplifying submission requirements for over-the-counter drugs with minor formulation differences, and a one-stop integrated review for digital combination medicines that incorporate AI and software."
               }
             ]
           }
         },
         "ja": {
-          "headline": "首のCTで見逃した肺がん\n半分をAIが発見",
-          "body": "AIが首のCT読影で見逃された肺がん80件のうち41件を見つけ出した。",
-          "mini_headline": "見逃し肺がんの半分、AIが発見",
+          "headline": "食薬処、AI新薬の\n審査基準を年内に策定",
+          "body": "食薬処はAIで開発した医薬品の許可・審査ガイドラインを12月までに策定する。",
+          "mini_headline": "AI新薬の審査基準、年内に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "食品医薬品安全処(食薬処)は、人工知能(AI)を活用して開発した医薬品の許可・審査ガイドラインを今年12月までに策定する。AIを使った新薬候補物質の探索や毒性予測などが広がる一方、許可審査の過程でそれを評価する個別の基準がなく、製薬企業が抱えていた不確実性を解消する狙いだ。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014596_415527_236.png"
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014609_415542_172.jpg",
+                "cap": "写真=医学新聞 DB."
               },
               {
                 "t": "p",
-                "x": "特定の疾患を確認するために撮影したCTから、検査目的以外の隠れた重症疾患まで見つけ出す「機会検診(Opportunistic Screening)」が、医療AI業界の中心的な話題に浮上している。"
+                "x": "23日に大統領主宰で開かれた規制合理化委員会の第2次全体会議で、こうした内容を含むバイオ分野の規制合理化策が公表された。"
               },
               {
                 "t": "p",
-                "x": "Coreline Softの胸部CT肺結節解析ソリューション「AVIEW LCS」を用い、首のCT読影で見落とされやすい初期肺がん病変を検出した臨床研究が、国際学術誌『Korean Journal of Radiology』の最新号に掲載された。首のCTは撮影範囲の下端に肺尖部が部分的に含まれるが、読影医の視線が首の周辺に集中するため、端にある小さな肺病変が見落とされることが少なくなかった。"
+                "x": "これまで製薬企業は、AIで新薬候補物質を探索したり毒性を予測したりしても、許可審査にどのような資料を用意すべきか判断しにくかった。米国FDAと欧州EMAは今年、AIを用いた医薬品開発で業界が守るべき10の基本原則をまとめた共同ガイドラインを発表しており、食薬処はこうした国際的な規制動向を反映する方針だ。"
               },
               {
                 "t": "p",
-                "x": "韓国の上級総合病院の研究チームが2008〜2024年に首のCTを撮影した成人8万1794人を後ろ向きに追跡した結果、後に肺がんと確定診断された患者のうち、過去の首のCTにすでに病変が写っていた例が123件あった。このうち65.0%にあたる80人の読影記録には、肺病変の所見がまったくなかった。見落とし群は確定診断まで中央値27.5カ月を要し、T·N·Mのいずれかが悪化した割合も47.5%と、即時発見群(11.6%)の4倍以上だった。"
+                "x": "政府は、AI技術の活用によって平均1兆~2兆ウォン(1조~2조원)にのぼる従来の新薬開発費を最大50%削減できると期待している。シン・ジュンス局長は「AI技術を活用して開発された医薬品が増えるのに合わせ、明確で具体的な審査ガイドラインを開発する」と述べた。"
               },
               {
                 "t": "p",
-                "x": "研究チームが見落とし例80件にAVIEW LCSを適用したところ、胸部専用のアルゴリズムを首のCT向けに再学習させていないにもかかわらず、80件中41件(感度51.3%)を指摘した。偽陽性率や特異度など追加検証の課題は残るものの、特定部位向けのAIが他部位の画像でも補完的なセーフティネットになり得ることを示す探索的な根拠を得たと評価されている。"
-              },
-              {
-                "t": "p",
-                "x": "Coreline Softは胸部CTだけで肺結節、COPD・肺気腫、冠動脈石灰化を同時に解析する「One CT, Multi-Disease」戦略を掲げており、2026年上半期の売上高は前年同期比45.7%増、海外売上高は123.0%増となった。"
+                "x": "あわせて、成分と添加剤が同一の水溶性注射剤における同等性立証資料の提出免除、剤形の違いが軽微な一般用医薬品の提出資料の簡素化、AI・ソフトウェアを組み合わせたデジタル融合医薬品のワンストップ統合審査なども進める。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "颈部CT漏诊的肺癌\nAI找出一半",
-          "body": "AI从颈部CT判读中被漏诊的80例肺癌里成功找出了41例。",
-          "mini_headline": "漏诊肺癌一半由AI找出",
+          "headline": "食药处：AI新药\n审查标准年内出台",
+          "body": "食品医药品安全处将于今年12月前制定利用AI开发的药品许可与审查指南。",
+          "mini_headline": "AI新药审查标准年内出台",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "食品医药品安全处(食药处)将于今年12月前制定利用人工智能(AI)开发的药品许可与审查指南。利用AI发掘新药候选物质、预测毒性等做法日益增多，但许可审查过程中一直缺乏评估这些工作的专门标准，此举旨在消除制药企业因此面临的不确定性。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014596_415527_236.png"
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014609_415542_172.jpg",
+                "cap": "图片=医学新闻 DB."
               },
               {
                 "t": "p",
-                "x": "利用为确认特定疾病而拍摄的CT，进而发现检查目的之外的隐匿重症疾病的“机会性筛查(Opportunistic Screening)”，正成为医疗AI行业的核心议题。"
+                "x": "23日由总统主持召开的规制合理化委员会第2次全体会议公布了包含上述内容的生物领域规制合理化方案。"
               },
               {
                 "t": "p",
-                "x": "利用Coreline Soft的胸部CT肺结节分析解决方案“AVIEW LCS”，在颈部CT判读中检出易被忽视的早期肺癌病变的临床研究，发表于国际学术期刊《Korean Journal of Radiology》最新刊。颈部CT的扫描范围下端会包含部分肺尖，但阅片医生的视线集中在颈部周围，边缘的小肺部病变常被遗漏。"
+                "x": "此前，制药企业即便利用AI发掘新药候选物质或预测毒性，也难以判断许可审查需要准备哪些资料。美国FDA和欧洲EMA今年发布了联合指南，列出业界在基于AI的药品开发过程中应遵守的10项基本原则，食药处计划吸纳这些国际监管动向。"
               },
               {
                 "t": "p",
-                "x": "韩国某上级综合医院研究团队对2008~2024年间接受颈部CT检查的8万1794名成年人进行回顾性追踪，发现在后来确诊肺癌的患者中，既往颈部CT上已拍到病变的病例有123例。其中65.0%即80人的判读记录中完全没有肺部病变的描述。漏诊组到最终确诊的中位时间为27.5个月，T·N·M中有任何指标恶化的比例为47.5%，是即时发现组(11.6%)的4倍以上。"
+                "x": "政府预计，借助AI技术，平均高达1万亿至2万亿韩元(1조~2조원)的传统新药开发成本最多可降低50%。Shin Jun-su 局长表示：“随着利用AI技术开发的药品不断增加，我们将制定明确而具体的审查指南。”"
               },
               {
                 "t": "p",
-                "x": "研究团队将AVIEW LCS应用于80例漏诊病例，尽管该胸部专用算法并未针对颈部CT重新训练，仍检出了80例中的41例(灵敏度51.3%)。虽然假阳性率、特异度等仍有待进一步验证，但业界认为，这项研究为特定部位用AI可在其他部位影像中充当补充安全网提供了探索性依据。"
-              },
-              {
-                "t": "p",
-                "x": "Coreline Soft提出用单次胸部CT同时分析肺结节、COPD·肺气肿和冠状动脉钙化的“One CT, Multi-Disease”战略，2026年上半年营收同比增长45.7%，海外营收增长123.0%。"
+                "x": "此外，还将推进以下措施：成分和辅料相同的水溶性注射剂免于提交等效性证明资料，剂型差异轻微的非处方药简化提交资料，以及对结合AI·软件的数字融合药品实行一站式综合审查。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cáncer de pulmón omitido en CT\nde cuello: la AI halló la mitad",
-          "body": "Una AI detectó 41 de 80 cánceres de pulmón que se habían pasado por alto al leer CT de cuello.",
-          "mini_headline": "La AI halla la mitad del cáncer omitido",
+          "headline": "MFDS fijará este año normas\npara revisar fármacos con AI",
+          "body": "El MFDS preparará antes de diciembre las guías de aprobación y revisión de fármacos desarrollados con AI.",
+          "mini_headline": "Normas para fármacos con AI este año",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "El Ministerio de Seguridad de Alimentos y Medicamentos (MFDS) preparará antes de diciembre de este año las guías de aprobación y revisión para medicamentos desarrollados con inteligencia artificial (AI). El objetivo es despejar la incertidumbre de las farmacéuticas: el uso de AI para descubrir candidatos a fármacos y predecir toxicidad se extiende, pero no había un criterio específico para evaluarlo en la revisión de aprobación."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014596_415527_236.png"
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014609_415542_172.jpg",
+                "cap": "Foto: The Medical Newspaper DB."
               },
               {
                 "t": "p",
-                "x": "El ‘cribado oportunista (Opportunistic Screening)’, que aprovecha una CT tomada para comprobar una enfermedad concreta para detectar también enfermedades graves ocultas ajenas al objetivo del examen, se perfila como un tema central en el sector de la AI médica."
+                "x": "El plan de racionalización regulatoria para el sector biotecnológico se presentó el día 23 en la 2.ª reunión plenaria del Comité de Racionalización Regulatoria, presidida por el presidente."
               },
               {
                 "t": "p",
-                "x": "Un estudio clínico que usó ‘AVIEW LCS’, la solución de Coreline Soft para analizar nódulos pulmonares en CT de tórax, para detectar lesiones tempranas de cáncer de pulmón que suelen pasarse por alto en la lectura de CT de cuello se publicó en el último número de la revista internacional ‘Korean Journal of Radiology’. La CT de cuello incluye parte del vértice pulmonar en el extremo inferior del rango de exploración, pero como la mirada del radiólogo se concentra en la zona del cuello, no era raro que se pasaran por alto pequeñas lesiones pulmonares en los bordes."
+                "x": "Hasta ahora, aunque las farmacéuticas usaran AI para descubrir candidatos o predecir toxicidad, les resultaba difícil saber qué datos preparar para la revisión. La FDA de Estados Unidos y la EMA europea publicaron este año unas guías conjuntas con 10 principios básicos que la industria debe seguir en el desarrollo de fármacos basado en AI, y el MFDS prevé incorporar estas tendencias regulatorias internacionales."
               },
               {
                 "t": "p",
-                "x": "Un equipo de un hospital terciario de Corea siguió de forma retrospectiva a 81,794 adultos que se hicieron una CT de cuello en 2008~2024 y halló que, entre los pacientes diagnosticados después de cáncer de pulmón, en 123 casos la lesión ya aparecía en una CT de cuello anterior. En 80 de ellos, el 65.0%, el informe de lectura no recogía ningún hallazgo pulmonar. El grupo omitido tardó una mediana de 27.5 meses hasta el diagnóstico definitivo, y la proporción con empeoramiento en alguno de T·N·M fue del 47.5%, más de 4 veces la del grupo detectado de inmediato (11.6%)."
+                "x": "El Gobierno espera que el uso de AI reduzca hasta en un 50% los costes tradicionales de desarrollo de un fármaco, que rondan de media entre 1 billón y 2 billones de wones (1조~2조원). El director general Shin Jun-su afirmó: “A medida que aumenten los medicamentos desarrollados con tecnología de AI, elaboraremos guías de revisión claras y concretas”."
               },
               {
                 "t": "p",
-                "x": "Cuando el equipo aplicó AVIEW LCS a los 80 casos omitidos, detectó 41 de los 80 (sensibilidad del 51.3%), pese a que el algoritmo, exclusivo para tórax, no se reentrenó para la CT de cuello. Aunque quedan pendientes más validaciones, como la tasa de falsos positivos y la especificidad, se considera que el estudio aporta evidencia exploratoria de que una AI diseñada para una región concreta puede servir de red de seguridad complementaria en imágenes de otras regiones."
-              },
-              {
-                "t": "p",
-                "x": "Coreline Soft impulsa la estrategia ‘One CT, Multi-Disease’, que analiza a la vez nódulos pulmonares, COPD y enfisema, y calcificación coronaria con una sola CT de tórax. En el primer semestre de 2026, sus ventas crecieron un 45.7% interanual y las ventas en el extranjero, un 123.0%."
+                "x": "Además, se impulsarán la exención de presentar datos de equivalencia para inyectables hidrosolubles con los mismos principios activos y excipientes, la simplificación de la documentación para medicamentos de venta libre con diferencias menores de formulación y una revisión integrada de ventanilla única para medicamentos digitales combinados con AI y software."
               }
             ]
           }
@@ -921,137 +767,141 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "AI caught half the lung cancers\nmissed on neck CT",
-          "body": "AI flagged 41 of 80 lung cancers that had been missed in neck CT readings.",
-          "mini_headline": "AI finds half of missed lung cancers",
+          "headline": "MFDS to set AI drug review\nstandards within the year",
+          "body": "The Ministry of Food and Drug Safety will prepare approval and review guidelines for AI-developed drugs by December.",
+          "mini_headline": "AI drug review rules due this year",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "The Ministry of Food and Drug Safety (MFDS) will prepare approval and review guidelines for medicines developed using artificial intelligence (AI) by December this year. The aim is to ease the uncertainty drugmakers have faced: AI is increasingly used to discover drug candidates and predict toxicity, but there has been no separate standard for evaluating this work during approval review."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014596_415527_236.png"
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014609_415542_172.jpg",
+                "cap": "Photo: The Medical Newspaper DB."
               },
               {
                 "t": "p",
-                "x": "‘Opportunistic Screening,’ which uses a CT taken to check for a specific condition to also find hidden serious diseases beyond the purpose of the exam, is emerging as a key topic in the medical AI industry."
+                "x": "The plan for rationalizing regulation in the bio sector was unveiled at the 2nd plenary meeting of the Regulatory Rationalization Committee, chaired by the President, on the 23rd."
               },
               {
                 "t": "p",
-                "x": "A clinical study that used Coreline Soft's chest CT lung nodule analysis solution ‘AVIEW LCS’ to detect early lung cancer lesions that are easily overlooked in neck CT readings was published in the latest issue of the international journal ‘Korean Journal of Radiology.’ Neck CT includes part of the lung apex at the bottom of the scan range, but because readers focus on the neck area, small lung lesions at the edges were often missed."
+                "x": "Until now, even when drugmakers used AI to discover drug candidates or predict toxicity, it was hard to judge what data to prepare for approval review. The U.S. FDA and Europe's EMA released joint guidelines this year setting out 10 basic principles the industry should follow in AI-based drug development, and the MFDS plans to reflect such international regulatory trends."
               },
               {
                 "t": "p",
-                "x": "Researchers at a Korean tertiary hospital retrospectively followed 81,794 adults who had neck CT scans in 2008~2024 and found 123 cases among patients later diagnosed with lung cancer in which the lesion had already appeared on an earlier neck CT. In 80 of them, or 65.0%, the reading report noted no lung lesion at all. The missed group took a median of 27.5 months to final diagnosis, and the share with worsening in any of T·N·M was 47.5%, more than 4 times that of the group detected immediately (11.6%)."
+                "x": "The government expects that using AI could cut traditional drug development costs, which average 1 trillion to 2 trillion won (1조~2조원), by up to 50%. Director General Shin Jun-su said, “As the number of medicines developed using AI technology grows, we will develop clear and specific review guidelines.”"
               },
               {
                 "t": "p",
-                "x": "When the team applied AVIEW LCS to the 80 missed cases, it flagged 41 of the 80 (sensitivity 51.3%) even though the chest-only algorithm was not retrained for neck CT. Further validation, such as false-positive rate and specificity, remains, but the study is seen as providing exploratory evidence that AI built for a specific body region can serve as a complementary safety net on images of other regions."
-              },
-              {
-                "t": "p",
-                "x": "Coreline Soft is pursuing a ‘One CT, Multi-Disease’ strategy that analyzes lung nodules, COPD and emphysema, and coronary artery calcification at once from a single chest CT. Its revenue in the first half of 2026 rose 45.7% year on year, and overseas revenue rose 123.0%."
+                "x": "The ministry will also pursue exempting water-soluble injectables with identical ingredients and excipients from submitting equivalence data, simplifying submission requirements for over-the-counter drugs with minor formulation differences, and a one-stop integrated review for digital combination medicines that incorporate AI and software."
               }
             ]
           }
         },
         "ja": {
-          "headline": "首のCTで見逃した肺がん\n半分をAIが発見",
-          "body": "AIが首のCT読影で見逃された肺がん80件のうち41件を見つけ出した。",
-          "mini_headline": "見逃し肺がんの半分、AIが発見",
+          "headline": "食薬処、AI新薬の\n審査基準を年内に策定",
+          "body": "食薬処はAIで開発した医薬品の許可・審査ガイドラインを12月までに策定する。",
+          "mini_headline": "AI新薬の審査基準、年内に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "食品医薬品安全処(食薬処)は、人工知能(AI)を活用して開発した医薬品の許可・審査ガイドラインを今年12月までに策定する。AIを使った新薬候補物質の探索や毒性予測などが広がる一方、許可審査の過程でそれを評価する個別の基準がなく、製薬企業が抱えていた不確実性を解消する狙いだ。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014596_415527_236.png"
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014609_415542_172.jpg",
+                "cap": "写真=医学新聞 DB."
               },
               {
                 "t": "p",
-                "x": "特定の疾患を確認するために撮影したCTから、検査目的以外の隠れた重症疾患まで見つけ出す「機会検診(Opportunistic Screening)」が、医療AI業界の中心的な話題に浮上している。"
+                "x": "23日に大統領主宰で開かれた規制合理化委員会の第2次全体会議で、こうした内容を含むバイオ分野の規制合理化策が公表された。"
               },
               {
                 "t": "p",
-                "x": "Coreline Softの胸部CT肺結節解析ソリューション「AVIEW LCS」を用い、首のCT読影で見落とされやすい初期肺がん病変を検出した臨床研究が、国際学術誌『Korean Journal of Radiology』の最新号に掲載された。首のCTは撮影範囲の下端に肺尖部が部分的に含まれるが、読影医の視線が首の周辺に集中するため、端にある小さな肺病変が見落とされることが少なくなかった。"
+                "x": "これまで製薬企業は、AIで新薬候補物質を探索したり毒性を予測したりしても、許可審査にどのような資料を用意すべきか判断しにくかった。米国FDAと欧州EMAは今年、AIを用いた医薬品開発で業界が守るべき10の基本原則をまとめた共同ガイドラインを発表しており、食薬処はこうした国際的な規制動向を反映する方針だ。"
               },
               {
                 "t": "p",
-                "x": "韓国の上級総合病院の研究チームが2008〜2024年に首のCTを撮影した成人8万1794人を後ろ向きに追跡した結果、後に肺がんと確定診断された患者のうち、過去の首のCTにすでに病変が写っていた例が123件あった。このうち65.0%にあたる80人の読影記録には、肺病変の所見がまったくなかった。見落とし群は確定診断まで中央値27.5カ月を要し、T·N·Mのいずれかが悪化した割合も47.5%と、即時発見群(11.6%)の4倍以上だった。"
+                "x": "政府は、AI技術の活用によって平均1兆~2兆ウォン(1조~2조원)にのぼる従来の新薬開発費を最大50%削減できると期待している。シン・ジュンス局長は「AI技術を活用して開発された医薬品が増えるのに合わせ、明確で具体的な審査ガイドラインを開発する」と述べた。"
               },
               {
                 "t": "p",
-                "x": "研究チームが見落とし例80件にAVIEW LCSを適用したところ、胸部専用のアルゴリズムを首のCT向けに再学習させていないにもかかわらず、80件中41件(感度51.3%)を指摘した。偽陽性率や特異度など追加検証の課題は残るものの、特定部位向けのAIが他部位の画像でも補完的なセーフティネットになり得ることを示す探索的な根拠を得たと評価されている。"
-              },
-              {
-                "t": "p",
-                "x": "Coreline Softは胸部CTだけで肺結節、COPD・肺気腫、冠動脈石灰化を同時に解析する「One CT, Multi-Disease」戦略を掲げており、2026年上半期の売上高は前年同期比45.7%増、海外売上高は123.0%増となった。"
+                "x": "あわせて、成分と添加剤が同一の水溶性注射剤における同等性立証資料の提出免除、剤形の違いが軽微な一般用医薬品の提出資料の簡素化、AI・ソフトウェアを組み合わせたデジタル融合医薬品のワンストップ統合審査なども進める。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "颈部CT漏诊的肺癌\nAI找出一半",
-          "body": "AI从颈部CT判读中被漏诊的80例肺癌里成功找出了41例。",
-          "mini_headline": "漏诊肺癌一半由AI找出",
+          "headline": "食药处：AI新药\n审查标准年内出台",
+          "body": "食品医药品安全处将于今年12月前制定利用AI开发的药品许可与审查指南。",
+          "mini_headline": "AI新药审查标准年内出台",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "食品医药品安全处(食药处)将于今年12月前制定利用人工智能(AI)开发的药品许可与审查指南。利用AI发掘新药候选物质、预测毒性等做法日益增多，但许可审查过程中一直缺乏评估这些工作的专门标准，此举旨在消除制药企业因此面临的不确定性。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014596_415527_236.png"
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014609_415542_172.jpg",
+                "cap": "图片=医学新闻 DB."
               },
               {
                 "t": "p",
-                "x": "利用为确认特定疾病而拍摄的CT，进而发现检查目的之外的隐匿重症疾病的“机会性筛查(Opportunistic Screening)”，正成为医疗AI行业的核心议题。"
+                "x": "23日由总统主持召开的规制合理化委员会第2次全体会议公布了包含上述内容的生物领域规制合理化方案。"
               },
               {
                 "t": "p",
-                "x": "利用Coreline Soft的胸部CT肺结节分析解决方案“AVIEW LCS”，在颈部CT判读中检出易被忽视的早期肺癌病变的临床研究，发表于国际学术期刊《Korean Journal of Radiology》最新刊。颈部CT的扫描范围下端会包含部分肺尖，但阅片医生的视线集中在颈部周围，边缘的小肺部病变常被遗漏。"
+                "x": "此前，制药企业即便利用AI发掘新药候选物质或预测毒性，也难以判断许可审查需要准备哪些资料。美国FDA和欧洲EMA今年发布了联合指南，列出业界在基于AI的药品开发过程中应遵守的10项基本原则，食药处计划吸纳这些国际监管动向。"
               },
               {
                 "t": "p",
-                "x": "韩国某上级综合医院研究团队对2008~2024年间接受颈部CT检查的8万1794名成年人进行回顾性追踪，发现在后来确诊肺癌的患者中，既往颈部CT上已拍到病变的病例有123例。其中65.0%即80人的判读记录中完全没有肺部病变的描述。漏诊组到最终确诊的中位时间为27.5个月，T·N·M中有任何指标恶化的比例为47.5%，是即时发现组(11.6%)的4倍以上。"
+                "x": "政府预计，借助AI技术，平均高达1万亿至2万亿韩元(1조~2조원)的传统新药开发成本最多可降低50%。Shin Jun-su 局长表示：“随着利用AI技术开发的药品不断增加，我们将制定明确而具体的审查指南。”"
               },
               {
                 "t": "p",
-                "x": "研究团队将AVIEW LCS应用于80例漏诊病例，尽管该胸部专用算法并未针对颈部CT重新训练，仍检出了80例中的41例(灵敏度51.3%)。虽然假阳性率、特异度等仍有待进一步验证，但业界认为，这项研究为特定部位用AI可在其他部位影像中充当补充安全网提供了探索性依据。"
-              },
-              {
-                "t": "p",
-                "x": "Coreline Soft提出用单次胸部CT同时分析肺结节、COPD·肺气肿和冠状动脉钙化的“One CT, Multi-Disease”战略，2026年上半年营收同比增长45.7%，海外营收增长123.0%。"
+                "x": "此外，还将推进以下措施：成分和辅料相同的水溶性注射剂免于提交等效性证明资料，剂型差异轻微的非处方药简化提交资料，以及对结合AI·软件的数字融合药品实行一站式综合审查。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cáncer de pulmón omitido en CT\nde cuello: la AI halló la mitad",
-          "body": "Una AI detectó 41 de 80 cánceres de pulmón que se habían pasado por alto al leer CT de cuello.",
-          "mini_headline": "La AI halla la mitad del cáncer omitido",
+          "headline": "MFDS fijará este año normas\npara revisar fármacos con AI",
+          "body": "El MFDS preparará antes de diciembre las guías de aprobación y revisión de fármacos desarrollados con AI.",
+          "mini_headline": "Normas para fármacos con AI este año",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "El Ministerio de Seguridad de Alimentos y Medicamentos (MFDS) preparará antes de diciembre de este año las guías de aprobación y revisión para medicamentos desarrollados con inteligencia artificial (AI). El objetivo es despejar la incertidumbre de las farmacéuticas: el uso de AI para descubrir candidatos a fármacos y predecir toxicidad se extiende, pero no había un criterio específico para evaluarlo en la revisión de aprobación."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014596_415527_236.png"
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014609_415542_172.jpg",
+                "cap": "Foto: The Medical Newspaper DB."
               },
               {
                 "t": "p",
-                "x": "El ‘cribado oportunista (Opportunistic Screening)’, que aprovecha una CT tomada para comprobar una enfermedad concreta para detectar también enfermedades graves ocultas ajenas al objetivo del examen, se perfila como un tema central en el sector de la AI médica."
+                "x": "El plan de racionalización regulatoria para el sector biotecnológico se presentó el día 23 en la 2.ª reunión plenaria del Comité de Racionalización Regulatoria, presidida por el presidente."
               },
               {
                 "t": "p",
-                "x": "Un estudio clínico que usó ‘AVIEW LCS’, la solución de Coreline Soft para analizar nódulos pulmonares en CT de tórax, para detectar lesiones tempranas de cáncer de pulmón que suelen pasarse por alto en la lectura de CT de cuello se publicó en el último número de la revista internacional ‘Korean Journal of Radiology’. La CT de cuello incluye parte del vértice pulmonar en el extremo inferior del rango de exploración, pero como la mirada del radiólogo se concentra en la zona del cuello, no era raro que se pasaran por alto pequeñas lesiones pulmonares en los bordes."
+                "x": "Hasta ahora, aunque las farmacéuticas usaran AI para descubrir candidatos o predecir toxicidad, les resultaba difícil saber qué datos preparar para la revisión. La FDA de Estados Unidos y la EMA europea publicaron este año unas guías conjuntas con 10 principios básicos que la industria debe seguir en el desarrollo de fármacos basado en AI, y el MFDS prevé incorporar estas tendencias regulatorias internacionales."
               },
               {
                 "t": "p",
-                "x": "Un equipo de un hospital terciario de Corea siguió de forma retrospectiva a 81,794 adultos que se hicieron una CT de cuello en 2008~2024 y halló que, entre los pacientes diagnosticados después de cáncer de pulmón, en 123 casos la lesión ya aparecía en una CT de cuello anterior. En 80 de ellos, el 65.0%, el informe de lectura no recogía ningún hallazgo pulmonar. El grupo omitido tardó una mediana de 27.5 meses hasta el diagnóstico definitivo, y la proporción con empeoramiento en alguno de T·N·M fue del 47.5%, más de 4 veces la del grupo detectado de inmediato (11.6%)."
+                "x": "El Gobierno espera que el uso de AI reduzca hasta en un 50% los costes tradicionales de desarrollo de un fármaco, que rondan de media entre 1 billón y 2 billones de wones (1조~2조원). El director general Shin Jun-su afirmó: “A medida que aumenten los medicamentos desarrollados con tecnología de AI, elaboraremos guías de revisión claras y concretas”."
               },
               {
                 "t": "p",
-                "x": "Cuando el equipo aplicó AVIEW LCS a los 80 casos omitidos, detectó 41 de los 80 (sensibilidad del 51.3%), pese a que el algoritmo, exclusivo para tórax, no se reentrenó para la CT de cuello. Aunque quedan pendientes más validaciones, como la tasa de falsos positivos y la especificidad, se considera que el estudio aporta evidencia exploratoria de que una AI diseñada para una región concreta puede servir de red de seguridad complementaria en imágenes de otras regiones."
-              },
-              {
-                "t": "p",
-                "x": "Coreline Soft impulsa la estrategia ‘One CT, Multi-Disease’, que analiza a la vez nódulos pulmonares, COPD y enfisema, y calcificación coronaria con una sola CT de tórax. En el primer semestre de 2026, sus ventas crecieron un 45.7% interanual y las ventas en el extranjero, un 123.0%."
+                "x": "Además, se impulsarán la exención de presentar datos de equivalencia para inyectables hidrosolubles con los mismos principios activos y excipientes, la simplificación de la documentación para medicamentos de venta libre con diferencias menores de formulación y una revisión integrada de ventanilla única para medicamentos digitales combinados con AI y software."
               }
             ]
           }
@@ -1059,213 +909,141 @@
       }
     },
     {
-      "id": "medicine-llm-choosing-wisely",
+      "id": "medicine-ai-oversight",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "LLMs는 대체로\n과잉진료 피했다",
-      "body": "LLMs는 Choosing Wisely 시험에서 불필요한 진료를 드물게 권했다.",
-      "mini_headline": "LLMs, 저가치 진료 대체로 안 권해",
+      "headline": "임상의는 틀린 AI\n조언을 걸러낼까",
+      "body": "보고서 46건을 메타분석해 임상의가 틀린 AI 조언을 알아채고 거부하는지 살폈다.",
+      "mini_headline": "임상의 vs. 틀린 AI 조언",
       "tool": "Medicine",
-      "source": "AuntMinnie",
-      "url": "https://www.auntminnie.com/home/article/15837911/llms-mostly-avoid-unnecessary-care-in-choosing-wisely-tests",
+      "source": "npj Digital Medicine",
+      "url": "https://www.nature.com/articles/s41746-026-03408-5",
       "accent": "#ff5a4d",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/artificial-intelligence-ai-binary-code-400.8uQeMX4Imz.jpg?auto=format%2Ccompress&fit=fillmax&q=70&w=400"
+            "t": "p",
+            "x": "인공지능(AI)의 임상 의사결정 지원은 늘고 있지만, 사람의 감독이 보호 장치가 되려면 임상의가 잘못된 출력을 알아채고 따르지 않아야 한다. 연구진은 잘못된 자동화 조언에 임상의가 어떻게 반응하는지 다룬 통제 연구와 실제 환경 연구를 체계적으로 검토했다. 보고서 46건은 독립 코호트 클러스터 41개에 해당했고, 여기에 핵심 코호트 40개가 들어 있었다."
           },
           {
             "t": "p",
-            "x": "대규모 언어 모델(LLMs)은 Choosing Wisely 시험에서 불필요한 진료를 거의 권하지 않았으나 갑상선 초음파에서는 더 취약했다는 연구 결과가 10월 19일 Annals of Internal Medicine에 실렸다."
+            "x": "보정된 코호트 3개 전반에서 임상의의 정답률은 자동화 조언이 맞았을 때가 틀렸을 때보다 크게 높았다(통합 OR 10.19, 95% CI 7.43–13.98). 실제 환경의 컴퓨터 ECG 연구 4건에서는 잘못된 판독의 26.6%가 수정되지도, 인지되지도 않았다(95% CI 6.4–65.6%)."
           },
           {
             "t": "p",
-            "x": "텔아비브(Tel Aviv) Clalit Health Services의 Dean Ariel, MD가 이끄는 연구팀은 Choosing Wisely 권고 15개로 시나리오 225개를 만들고 임상의 입장에서 쓴 프롬프트로 상용 LLM 여섯 종을 시험해 응답 4,050건을 모았다."
-          },
-          {
-            "t": "p",
-            "x": "LLM이 과잉진료를 권한 경우(LLM-recommended overuse)는 5.4%였고 권고 15개 중 여덟 개에서는 한 건도 나오지 않았다. 대부분은 두 항목에 몰렸다. 우연히 발견된 센티미터 미만 결절의 갑상선 초음파(응답의 42.8%)와 저위험 성인의 정기 심전도 검사(28.3%)다. 필요한 진료를 잘못 막은 경우는 0.6%였는데, PSA 검사에서 3.3%로 가장 많았다."
-          },
-          {
-            "t": "p",
-            "x": "작은 우연 결절의 갑상선 초음파는 이 연구에서 학회 지침끼리 실제로 견해가 엇갈리는 유일한 권고다. 저자들은 “지침들을 가르는 지점, 그리고 모델이 맞닥뜨린 지점은 바로 영상 검사를 할지 말지다”라고 썼다."
-          },
-          {
-            "t": "p",
-            "x": "함께 실린 사설은 이번 연구를 과잉진료를 명시적으로 다룬 첫 발표 연구로 평가하고 실제 사례를 쓴 연구가 필요하다고 촉구했다."
+            "x": "최신 AI·대규모 언어 모델 연구에서도 해로운 의존이 나타났지만, 이질성이 커서 통합 분석은 하지 못했다. 환자 수준의 이상 사례는 후향적 코호트 1개에서 보고됐다. 연구진은 사람의 감독이 안전을 보장한다고 전제할 게 아니라 오류를 가로채는 역량으로 평가해야 한다고 결론지었다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "LLMs mostly avoid\nunnecessary care in tests",
-          "body": "LLMs rarely advised unnecessary care in Choosing Wisely tests, except for ultrasound of small thyroid nodules.",
-          "mini_headline": "LLMs mostly skip low-value care",
+          "headline": "Testing whether clinicians\ncatch erroneous AI advice",
+          "body": "A meta-analysis of 46 reports tests whether clinicians recognize and resist incorrect AI advice.",
+          "mini_headline": "Clinicians vs. wrong AI advice",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/artificial-intelligence-ai-binary-code-400.8uQeMX4Imz.jpg?auto=format%2Ccompress&fit=fillmax&q=70&w=400"
+                "t": "p",
+                "x": "Artificial intelligence (AI) increasingly supports clinical decisions, but human oversight is protective only if clinicians recognize and resist erroneous output. The authors systematically reviewed controlled and real-world studies of clinician responses to incorrect automated advice. Forty-six reports represented 41 independent cohort clusters, including 40 core cohorts."
               },
               {
                 "t": "p",
-                "x": "Large language models (LLMs) rarely recommend unnecessary care in Choosing Wisely tests, though thyroid ultrasound is more susceptible, suggest findings published October 19 in the Annals of Internal Medicine."
+                "x": "Across three adjusted cohorts, clinician correctness was substantially higher with correct than incorrect automated advice (pooled OR 10.19, 95% CI 7.43–13.98). In four real-world computerized ECG studies, 26.6% of erroneous interpretations were not corrected or recognized (95% CI 6.4–65.6%)."
               },
               {
                 "t": "p",
-                "x": "A team led by Dean Ariel, MD, from Clalit Health Services in Tel Aviv used 15 Choosing Wisely recommendations to develop 225 scenarios, then tested six commercial LLMs that generated 4,050 responses using a prompt from the clinician perspective."
-              },
-              {
-                "t": "p",
-                "x": "LLM-recommended overuse occurred in 5.4% of cases, and none in eight of 15 recommendations. Two accounted for most of it: thyroid ultrasound for an incidental sub-centimeter nodule (42.8% of responses) and routine electrocardiography in low-risk adults (28.3%). False restraint occurred in 0.6% of cases, highest for PSA screening at 3.3%."
-              },
-              {
-                "t": "p",
-                "x": "Thyroid ultrasound for small incidental nodules is the only recommendation in the study with active disagreement between society guidelines. “What divides them, and what the models confronted, is precisely whether to image,” the authors wrote."
-              },
-              {
-                "t": "p",
-                "x": "An accompanying editorial called for studies using real-life cases, describing the work as the first published study to explicitly address overuse."
+                "x": "Contemporary AI and large language model studies also documented harmful reliance but were too heterogeneous for pooling. Patient-level adverse events were reported in one retrospective cohort. Human oversight should be evaluated as an error-interception capability rather than assumed to ensure safety, the authors conclude."
               }
             ]
           }
         },
         "ko": {
-          "headline": "LLMs는 대체로\n과잉진료 피했다",
-          "body": "LLMs는 Choosing Wisely 시험에서 불필요한 진료를 드물게 권했다.",
-          "mini_headline": "LLMs, 저가치 진료 대체로 안 권해",
+          "headline": "임상의는 틀린 AI\n조언을 걸러낼까",
+          "body": "보고서 46건을 메타분석해 임상의가 틀린 AI 조언을 알아채고 거부하는지 살폈다.",
+          "mini_headline": "임상의 vs. 틀린 AI 조언",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/artificial-intelligence-ai-binary-code-400.8uQeMX4Imz.jpg?auto=format%2Ccompress&fit=fillmax&q=70&w=400"
+                "t": "p",
+                "x": "인공지능(AI)의 임상 의사결정 지원은 늘고 있지만, 사람의 감독이 보호 장치가 되려면 임상의가 잘못된 출력을 알아채고 따르지 않아야 한다. 연구진은 잘못된 자동화 조언에 임상의가 어떻게 반응하는지 다룬 통제 연구와 실제 환경 연구를 체계적으로 검토했다. 보고서 46건은 독립 코호트 클러스터 41개에 해당했고, 여기에 핵심 코호트 40개가 들어 있었다."
               },
               {
                 "t": "p",
-                "x": "대규모 언어 모델(LLMs)은 Choosing Wisely 시험에서 불필요한 진료를 거의 권하지 않았으나 갑상선 초음파에서는 더 취약했다는 연구 결과가 10월 19일 Annals of Internal Medicine에 실렸다."
+                "x": "보정된 코호트 3개 전반에서 임상의의 정답률은 자동화 조언이 맞았을 때가 틀렸을 때보다 크게 높았다(통합 OR 10.19, 95% CI 7.43–13.98). 실제 환경의 컴퓨터 ECG 연구 4건에서는 잘못된 판독의 26.6%가 수정되지도, 인지되지도 않았다(95% CI 6.4–65.6%)."
               },
               {
                 "t": "p",
-                "x": "텔아비브(Tel Aviv) Clalit Health Services의 Dean Ariel, MD가 이끄는 연구팀은 Choosing Wisely 권고 15개로 시나리오 225개를 만들고 임상의 입장에서 쓴 프롬프트로 상용 LLM 여섯 종을 시험해 응답 4,050건을 모았다."
-              },
-              {
-                "t": "p",
-                "x": "LLM이 과잉진료를 권한 경우(LLM-recommended overuse)는 5.4%였고 권고 15개 중 여덟 개에서는 한 건도 나오지 않았다. 대부분은 두 항목에 몰렸다. 우연히 발견된 센티미터 미만 결절의 갑상선 초음파(응답의 42.8%)와 저위험 성인의 정기 심전도 검사(28.3%)다. 필요한 진료를 잘못 막은 경우는 0.6%였는데, PSA 검사에서 3.3%로 가장 많았다."
-              },
-              {
-                "t": "p",
-                "x": "작은 우연 결절의 갑상선 초음파는 이 연구에서 학회 지침끼리 실제로 견해가 엇갈리는 유일한 권고다. 저자들은 “지침들을 가르는 지점, 그리고 모델이 맞닥뜨린 지점은 바로 영상 검사를 할지 말지다”라고 썼다."
-              },
-              {
-                "t": "p",
-                "x": "함께 실린 사설은 이번 연구를 과잉진료를 명시적으로 다룬 첫 발표 연구로 평가하고 실제 사례를 쓴 연구가 필요하다고 촉구했다."
+                "x": "최신 AI·대규모 언어 모델 연구에서도 해로운 의존이 나타났지만, 이질성이 커서 통합 분석은 하지 못했다. 환자 수준의 이상 사례는 후향적 코호트 1개에서 보고됐다. 연구진은 사람의 감독이 안전을 보장한다고 전제할 게 아니라 오류를 가로채는 역량으로 평가해야 한다고 결론지었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "LLMs、不要な医療を\nおおむね回避",
-          "body": "LLMsはChoosing Wiselyの試験で、不要な医療をほとんど勧めなかった。",
-          "mini_headline": "LLMs、低価値医療を概ね勧めず",
+          "headline": "臨床医はAIの誤った\n助言を見抜けるか",
+          "body": "報告46件のメタ解析が、臨床医が誤ったAIの助言に気づき抵抗できるかを検証する。",
+          "mini_headline": "臨床医 vs. 誤ったAI助言",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/artificial-intelligence-ai-binary-code-400.8uQeMX4Imz.jpg?auto=format%2Ccompress&fit=fillmax&q=70&w=400"
+                "t": "p",
+                "x": "人工知能(AI)が臨床判断を支える場面は増えているが、人による監督が安全策として機能するのは、臨床医が誤った出力に気づき、それに従わない場合に限られる。著者らは、誤った自動化助言に対する臨床医の反応を調べた対照研究と実臨床研究を系統的にレビューした。46件の報告は41の独立したコホートクラスターに相当し、そこには40の中核コホートが含まれた。"
               },
               {
                 "t": "p",
-                "x": "大規模言語モデル(LLMs)はChoosing Wiselyの試験で不要な医療をほとんど勧めないが、甲状腺超音波検査ではその傾向が出やすいとする研究結果が、10月19日付のAnnals of Internal Medicineに掲載された。"
+                "x": "調整済みの3つのコホート全体で、臨床医の正答率は自動化助言が誤っている場合より正しい場合に大幅に高かった(統合OR 10.19、95% CI 7.43–13.98)。実臨床におけるコンピューターECG研究4件では、誤った判読の26.6%が修正も認識もされなかった(95% CI 6.4–65.6%)。"
               },
               {
                 "t": "p",
-                "x": "テルアビブ(Tel Aviv)のClalit Health ServicesのDean Ariel, MDらのチームは、Choosing Wiselyの推奨15項目から225のシナリオを作成し、臨床医の立場からのプロンプトを用いて六つの商用LLMを試験し、4,050件の回答を得た。"
-              },
-              {
-                "t": "p",
-                "x": "LLMが過剰医療を勧めた例(LLM-recommended overuse)は5.4%で、15項目中八つでは皆無だった。大半を占めたのは二つで、偶然見つかったセンチメートル未満の結節に対する甲状腺超音波(回答の42.8%)と、低リスク成人への定期的な心電図検査(28.3%)である。必要な医療を誤って控えた例は0.6%で、PSA検診が3.3%と最も高かった。"
-              },
-              {
-                "t": "p",
-                "x": "小さな偶発結節に対する甲状腺超音波は、この研究で学会ガイドライン間に明確な見解の相違がある唯一の推奨である。著者らは「両者を分け、モデルが直面したのは、まさに画像検査をするかどうかだ」と記した。"
-              },
-              {
-                "t": "p",
-                "x": "同時掲載の論説は、実際の症例を用いた研究を求めるとともに、本研究を過剰医療を明示的に扱った初の発表研究と位置づけた。"
+                "x": "最近のAIや大規模言語モデルの研究でも有害な依存が記録されたが、異質性が大きく統合はできなかった。患者レベルの有害事象は1つの後ろ向きコホートで報告された。著者らは、人による監督が安全を保証すると想定するのではなく、誤りを食い止める能力として評価すべきだと結論づけている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "LLMs在测试中\n大多避开不必要医疗",
-          "body": "在Choosing Wisely测试中，LLMs极少建议不必要的医疗，小甲状腺结节超声除外。",
-          "mini_headline": "LLMs大多不建议低价值医疗",
+          "headline": "临床医生能否识破\n错误的AI建议",
+          "body": "一项涵盖46份报告的荟萃分析检验临床医生能否识别并抵制错误的AI建议。",
+          "mini_headline": "临床医生 vs. 错误AI建议",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/artificial-intelligence-ai-binary-code-400.8uQeMX4Imz.jpg?auto=format%2Ccompress&fit=fillmax&q=70&w=400"
+                "t": "p",
+                "x": "人工智能(AI)越来越多地辅助临床决策，但只有当临床医生能识别并抵制错误输出时，人工监督才能起到保护作用。作者系统回顾了关于临床医生如何应对错误自动化建议的对照研究和真实世界研究。46份报告代表41个独立队列集群，其中包括40个核心队列。"
               },
               {
                 "t": "p",
-                "x": "10月19日发表于Annals of Internal Medicine的研究结果显示，大语言模型(LLMs)在Choosing Wisely测试中很少建议不必要的医疗，但在甲状腺超声方面更易出现此类问题。"
+                "x": "在3个经校正的队列中，自动化建议正确时临床医生的正确率显著高于建议错误时(合并OR 10.19，95% CI 7.43–13.98)。在4项真实世界计算机ECG研究中，26.6%的错误判读未被纠正或识别(95% CI 6.4–65.6%)。"
               },
               {
                 "t": "p",
-                "x": "由特拉维夫(Tel Aviv)Clalit Health Services的Dean Ariel, MD领导的团队，利用15项Choosing Wisely建议设计了225个场景，再以临床医生视角的提示词测试了六款商用LLM，共生成4,050条回答。"
-              },
-              {
-                "t": "p",
-                "x": "LLM建议的过度医疗(LLM-recommended overuse)出现在5.4%的病例中，15项建议中有八项完全没有出现。其中大部分来自两项：针对偶然发现的亚厘米结节的甲状腺超声(占回答的42.8%)，以及低风险成人的常规心电图检查(28.3%)。错误克制出现在0.6%的病例中，PSA筛查最高，为3.3%。"
-              },
-              {
-                "t": "p",
-                "x": "针对小型偶发结节的甲状腺超声，是该研究中唯一在各学会指南间存在明确分歧的建议。作者写道：“分歧所在，也是模型所面对的，正是是否要做影像检查。”"
-              },
-              {
-                "t": "p",
-                "x": "同期社论呼吁开展基于真实病例的研究，并称这是首项明确针对过度医疗的已发表研究。"
+                "x": "当代AI和大语言模型研究同样记录了有害的依赖，但异质性过高，无法合并分析。1个回顾性队列报告了患者层面的不良事件。作者总结认为，人工监督应作为一种拦截错误的能力加以评估，而不应被默认为能确保安全。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los LLMs evitan casi siempre\nla atención innecesaria",
-          "body": "Los LLMs rara vez recomendaron atención innecesaria en Choosing Wisely, salvo ecografías de nódulos tiroideos pequeños.",
-          "mini_headline": "Los LLMs evitan la atención de bajo valor",
+          "headline": "¿Detectan los clínicos\nlos consejos erróneos de AI?",
+          "body": "Un metaanálisis de 46 informes examina si los clínicos reconocen y rechazan los consejos incorrectos de la AI.",
+          "mini_headline": "Clínicos vs. consejos erróneos de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/artificial-intelligence-ai-binary-code-400.8uQeMX4Imz.jpg?auto=format%2Ccompress&fit=fillmax&q=70&w=400"
+                "t": "p",
+                "x": "La inteligencia artificial (AI) respalda cada vez más las decisiones clínicas, pero la supervisión humana solo protege si los clínicos reconocen y rechazan los resultados erróneos. Los autores revisaron de forma sistemática estudios controlados y del mundo real sobre la respuesta de los clínicos a consejos automatizados incorrectos. Los 46 informes representaban 41 grupos de cohortes independientes, entre ellos 40 cohortes principales."
               },
               {
                 "t": "p",
-                "x": "Los grandes modelos de lenguaje (LLMs) rara vez recomiendan atención innecesaria en pruebas de Choosing Wisely, aunque la ecografía tiroidea es más vulnerable, según un estudio publicado el 19 de octubre en Annals of Internal Medicine."
+                "x": "En tres cohortes ajustadas, el acierto de los clínicos fue sustancialmente mayor con consejos automatizados correctos que con incorrectos (OR combinada 10.19, 95% CI 7.43–13.98). En cuatro estudios del mundo real sobre ECG computarizados, el 26.6% de las interpretaciones erróneas no se corrigió ni se detectó (95% CI 6.4–65.6%)."
               },
               {
                 "t": "p",
-                "x": "Un equipo dirigido por Dean Ariel, MD, de Clalit Health Services en Tel Aviv, usó 15 recomendaciones de Choosing Wisely para crear 225 escenarios y luego probó seis LLM comerciales, que generaron 4,050 respuestas con una instrucción formulada desde la perspectiva del clínico."
-              },
-              {
-                "t": "p",
-                "x": "El uso excesivo recomendado por los LLM (LLM-recommended overuse) se dio en el 5.4% de los casos, y en ocho de las 15 recomendaciones no hubo ninguno. Dos concentraron la mayor parte: la ecografía tiroidea ante un nódulo incidental subcentimétrico (42.8% de las respuestas) y el electrocardiograma rutinario en adultos de bajo riesgo (28.3%). La falsa contención se dio en el 0.6% de los casos, con el máximo en el cribado de PSA, del 3.3%."
-              },
-              {
-                "t": "p",
-                "x": "La ecografía tiroidea para nódulos incidentales pequeños es la única recomendación del estudio con un desacuerdo activo entre las guías de las sociedades. “Lo que las divide, y lo que enfrentaron los modelos, es precisamente si hacer pruebas de imagen”, escribieron los autores."
-              },
-              {
-                "t": "p",
-                "x": "Un editorial adjunto pidió estudios con casos reales y describió el trabajo como el primer estudio publicado que aborda de forma explícita el uso excesivo."
+                "x": "Los estudios recientes de AI y de grandes modelos de lenguaje también documentaron una dependencia perjudicial, pero eran demasiado heterogéneos para combinarlos. Una cohorte retrospectiva informó de eventos adversos a nivel de paciente. Los autores concluyen que la supervisión humana debe evaluarse como una capacidad de interceptar errores, en lugar de suponer que garantiza la seguridad."
               }
             ]
           }
@@ -1273,137 +1051,89 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "LLMs는 대체로\n과잉진료 피했다",
-          "body": "LLMs는 Choosing Wisely 시험서 불필요한 진료를 거의 권하지 않았다.",
-          "mini_headline": "LLMs, 저가치 진료 대체로 안 권해",
+          "headline": "임상의는 AI의 오류\n조언을 걸러낼까",
+          "body": "보고서 46건 메타분석이 임상의가 틀린 AI 조언을 알아채고 거부하는지 살핀다.",
+          "mini_headline": "임상의 vs. 틀린 AI 조언",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/artificial-intelligence-ai-binary-code-400.8uQeMX4Imz.jpg?auto=format%2Ccompress&fit=fillmax&q=70&w=400"
+                "t": "p",
+                "x": "인공지능(AI)이 임상 의사결정을 지원하는 일이 늘고 있지만, 사람의 감독은 임상의가 잘못된 출력을 알아채고 따르지 않을 때만 보호 장치가 된다. 연구진은 잘못된 자동화 조언에 임상의가 어떻게 반응하는지 다룬 통제 연구와 실제 환경 연구를 체계적으로 검토했다. 보고서 46건은 독립적인 코호트 클러스터 41개를 대표했으며, 여기에는 핵심 코호트 40개가 포함됐다."
               },
               {
                 "t": "p",
-                "x": "대규모 언어 모델(LLMs)은 Choosing Wisely 시험에서 불필요한 진료를 거의 권하지 않았지만, 갑상선 초음파에서는 더 취약했다는 연구 결과가 10월 19일 Annals of Internal Medicine에 실렸다."
+                "x": "보정된 코호트 3개 전반에서 임상의의 정답률은 자동화 조언이 틀렸을 때보다 맞았을 때 크게 높았다(통합 OR 10.19, 95% CI 7.43–13.98). 실제 환경의 컴퓨터 ECG 연구 4건에서는 잘못된 판독의 26.6%가 수정되거나 인지되지 않았다(95% CI 6.4–65.6%)."
               },
               {
                 "t": "p",
-                "x": "텔아비브(Tel Aviv) Clalit Health Services의 Dean Ariel, MD가 이끄는 연구팀은 Choosing Wisely 권고 15개로 시나리오 225개를 만든 뒤, 임상의 관점의 프롬프트로 상용 LLM 여섯 종을 시험해 응답 4,050건을 얻었다."
-              },
-              {
-                "t": "p",
-                "x": "LLM이 과잉진료를 권한 경우(LLM-recommended overuse)는 5.4%였고, 권고 15개 중 여덟 개에서는 한 건도 없었다. 대부분은 두 항목에서 나왔다. 우연히 발견된 센티미터 미만 결절에 대한 갑상선 초음파(응답의 42.8%)와 저위험 성인의 정기 심전도 검사(28.3%)다. 필요한 진료를 잘못 억제한 경우는 0.6%였고, PSA 검사가 3.3%로 가장 높았다."
-              },
-              {
-                "t": "p",
-                "x": "작은 우연 결절에 대한 갑상선 초음파는 이 연구에서 학회 지침끼리 견해가 실제로 엇갈리는 유일한 권고다. 저자들은 “지침들을 가르는 지점, 그리고 모델이 맞닥뜨린 지점은 바로 영상 검사를 할지 말지다”라고 썼다."
-              },
-              {
-                "t": "p",
-                "x": "함께 실린 사설은 실제 사례를 활용한 연구가 필요하다고 촉구하면서, 이번 연구를 과잉진료를 명시적으로 다룬 첫 발표 연구라고 평가했다."
+                "x": "최신 AI 및 대규모 언어 모델 연구에서도 해로운 의존이 확인됐지만, 이질성이 커서 통합 분석은 하지 못했다. 환자 수준의 이상 사례는 후향적 코호트 1개에서 보고됐다. 연구진은 사람의 감독이 안전을 보장한다고 전제하지 말고, 오류를 가로채는 역량으로서 평가해야 한다고 결론지었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "LLMs、不要な医療を\nおおむね回避",
-          "body": "LLMsはChoosing Wiselyの試験で、不要な医療をほとんど勧めなかった。",
-          "mini_headline": "LLMs、低価値医療を概ね勧めず",
+          "headline": "臨床医はAIの誤った\n助言を見抜けるか",
+          "body": "報告46件のメタ解析が、臨床医が誤ったAIの助言に気づき抵抗できるかを検証する。",
+          "mini_headline": "臨床医 vs. 誤ったAI助言",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/artificial-intelligence-ai-binary-code-400.8uQeMX4Imz.jpg?auto=format%2Ccompress&fit=fillmax&q=70&w=400"
+                "t": "p",
+                "x": "人工知能(AI)が臨床判断を支える場面は増えているが、人による監督が安全策として機能するのは、臨床医が誤った出力に気づき、それに従わない場合に限られる。著者らは、誤った自動化助言に対する臨床医の反応を調べた対照研究と実臨床研究を系統的にレビューした。46件の報告は41の独立したコホートクラスターに相当し、そこには40の中核コホートが含まれた。"
               },
               {
                 "t": "p",
-                "x": "大規模言語モデル(LLMs)はChoosing Wiselyの試験で不要な医療をほとんど勧めないが、甲状腺超音波検査ではその傾向が出やすいとする研究結果が、10月19日付のAnnals of Internal Medicineに掲載された。"
+                "x": "調整済みの3つのコホート全体で、臨床医の正答率は自動化助言が誤っている場合より正しい場合に大幅に高かった(統合OR 10.19、95% CI 7.43–13.98)。実臨床におけるコンピューターECG研究4件では、誤った判読の26.6%が修正も認識もされなかった(95% CI 6.4–65.6%)。"
               },
               {
                 "t": "p",
-                "x": "テルアビブ(Tel Aviv)のClalit Health ServicesのDean Ariel, MDらのチームは、Choosing Wiselyの推奨15項目から225のシナリオを作成し、臨床医の立場からのプロンプトを用いて六つの商用LLMを試験し、4,050件の回答を得た。"
-              },
-              {
-                "t": "p",
-                "x": "LLMが過剰医療を勧めた例(LLM-recommended overuse)は5.4%で、15項目中八つでは皆無だった。大半を占めたのは二つで、偶然見つかったセンチメートル未満の結節に対する甲状腺超音波(回答の42.8%)と、低リスク成人への定期的な心電図検査(28.3%)である。必要な医療を誤って控えた例は0.6%で、PSA検診が3.3%と最も高かった。"
-              },
-              {
-                "t": "p",
-                "x": "小さな偶発結節に対する甲状腺超音波は、この研究で学会ガイドライン間に明確な見解の相違がある唯一の推奨である。著者らは「両者を分け、モデルが直面したのは、まさに画像検査をするかどうかだ」と記した。"
-              },
-              {
-                "t": "p",
-                "x": "同時掲載の論説は、実際の症例を用いた研究を求めるとともに、本研究を過剰医療を明示的に扱った初の発表研究と位置づけた。"
+                "x": "最近のAIや大規模言語モデルの研究でも有害な依存が記録されたが、異質性が大きく統合はできなかった。患者レベルの有害事象は1つの後ろ向きコホートで報告された。著者らは、人による監督が安全を保証すると想定するのではなく、誤りを食い止める能力として評価すべきだと結論づけている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "LLMs在测试中\n大多避开不必要医疗",
-          "body": "在Choosing Wisely测试中，LLMs极少建议不必要的医疗，小甲状腺结节超声除外。",
-          "mini_headline": "LLMs大多不建议低价值医疗",
+          "headline": "临床医生能否识破\n错误的AI建议",
+          "body": "一项涵盖46份报告的荟萃分析检验临床医生能否识别并抵制错误的AI建议。",
+          "mini_headline": "临床医生 vs. 错误AI建议",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/artificial-intelligence-ai-binary-code-400.8uQeMX4Imz.jpg?auto=format%2Ccompress&fit=fillmax&q=70&w=400"
+                "t": "p",
+                "x": "人工智能(AI)越来越多地辅助临床决策，但只有当临床医生能识别并抵制错误输出时，人工监督才能起到保护作用。作者系统回顾了关于临床医生如何应对错误自动化建议的对照研究和真实世界研究。46份报告代表41个独立队列集群，其中包括40个核心队列。"
               },
               {
                 "t": "p",
-                "x": "10月19日发表于Annals of Internal Medicine的研究结果显示，大语言模型(LLMs)在Choosing Wisely测试中很少建议不必要的医疗，但在甲状腺超声方面更易出现此类问题。"
+                "x": "在3个经校正的队列中，自动化建议正确时临床医生的正确率显著高于建议错误时(合并OR 10.19，95% CI 7.43–13.98)。在4项真实世界计算机ECG研究中，26.6%的错误判读未被纠正或识别(95% CI 6.4–65.6%)。"
               },
               {
                 "t": "p",
-                "x": "由特拉维夫(Tel Aviv)Clalit Health Services的Dean Ariel, MD领导的团队，利用15项Choosing Wisely建议设计了225个场景，再以临床医生视角的提示词测试了六款商用LLM，共生成4,050条回答。"
-              },
-              {
-                "t": "p",
-                "x": "LLM建议的过度医疗(LLM-recommended overuse)出现在5.4%的病例中，15项建议中有八项完全没有出现。其中大部分来自两项：针对偶然发现的亚厘米结节的甲状腺超声(占回答的42.8%)，以及低风险成人的常规心电图检查(28.3%)。错误克制出现在0.6%的病例中，PSA筛查最高，为3.3%。"
-              },
-              {
-                "t": "p",
-                "x": "针对小型偶发结节的甲状腺超声，是该研究中唯一在各学会指南间存在明确分歧的建议。作者写道：“分歧所在，也是模型所面对的，正是是否要做影像检查。”"
-              },
-              {
-                "t": "p",
-                "x": "同期社论呼吁开展基于真实病例的研究，并称这是首项明确针对过度医疗的已发表研究。"
+                "x": "当代AI和大语言模型研究同样记录了有害的依赖，但异质性过高，无法合并分析。1个回顾性队列报告了患者层面的不良事件。作者总结认为，人工监督应作为一种拦截错误的能力加以评估，而不应被默认为能确保安全。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los LLMs evitan casi siempre\nla atención innecesaria",
-          "body": "Los LLMs rara vez recomendaron atención innecesaria en Choosing Wisely, salvo ecografías de nódulos tiroideos pequeños.",
-          "mini_headline": "Los LLMs evitan la atención de bajo valor",
+          "headline": "¿Detectan los clínicos\nlos consejos erróneos de AI?",
+          "body": "Un metaanálisis de 46 informes examina si los clínicos reconocen y rechazan los consejos incorrectos de la AI.",
+          "mini_headline": "Clínicos vs. consejos erróneos de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/artificial-intelligence-ai-binary-code-400.8uQeMX4Imz.jpg?auto=format%2Ccompress&fit=fillmax&q=70&w=400"
+                "t": "p",
+                "x": "La inteligencia artificial (AI) respalda cada vez más las decisiones clínicas, pero la supervisión humana solo protege si los clínicos reconocen y rechazan los resultados erróneos. Los autores revisaron de forma sistemática estudios controlados y del mundo real sobre la respuesta de los clínicos a consejos automatizados incorrectos. Los 46 informes representaban 41 grupos de cohortes independientes, entre ellos 40 cohortes principales."
               },
               {
                 "t": "p",
-                "x": "Los grandes modelos de lenguaje (LLMs) rara vez recomiendan atención innecesaria en pruebas de Choosing Wisely, aunque la ecografía tiroidea es más vulnerable, según un estudio publicado el 19 de octubre en Annals of Internal Medicine."
+                "x": "En tres cohortes ajustadas, el acierto de los clínicos fue sustancialmente mayor con consejos automatizados correctos que con incorrectos (OR combinada 10.19, 95% CI 7.43–13.98). En cuatro estudios del mundo real sobre ECG computarizados, el 26.6% de las interpretaciones erróneas no se corrigió ni se detectó (95% CI 6.4–65.6%)."
               },
               {
                 "t": "p",
-                "x": "Un equipo dirigido por Dean Ariel, MD, de Clalit Health Services en Tel Aviv, usó 15 recomendaciones de Choosing Wisely para crear 225 escenarios y luego probó seis LLM comerciales, que generaron 4,050 respuestas con una instrucción formulada desde la perspectiva del clínico."
-              },
-              {
-                "t": "p",
-                "x": "El uso excesivo recomendado por los LLM (LLM-recommended overuse) se dio en el 5.4% de los casos, y en ocho de las 15 recomendaciones no hubo ninguno. Dos concentraron la mayor parte: la ecografía tiroidea ante un nódulo incidental subcentimétrico (42.8% de las respuestas) y el electrocardiograma rutinario en adultos de bajo riesgo (28.3%). La falsa contención se dio en el 0.6% de los casos, con el máximo en el cribado de PSA, del 3.3%."
-              },
-              {
-                "t": "p",
-                "x": "La ecografía tiroidea para nódulos incidentales pequeños es la única recomendación del estudio con un desacuerdo activo entre las guías de las sociedades. “Lo que las divide, y lo que enfrentaron los modelos, es precisamente si hacer pruebas de imagen”, escribieron los autores."
-              },
-              {
-                "t": "p",
-                "x": "Un editorial adjunto pidió estudios con casos reales y describió el trabajo como el primer estudio publicado que aborda de forma explícita el uso excesivo."
+                "x": "Los estudios recientes de AI y de grandes modelos de lenguaje también documentaron una dependencia perjudicial, pero eran demasiado heterogéneos para combinarlos. Una cohorte retrospectiva informó de eventos adversos a nivel de paciente. Los autores concluyen que la supervisión humana debe evaluarse como una capacidad de interceptar errores, en lugar de suponer que garantiza la seguridad."
               }
             ]
           }
@@ -1411,311 +1141,311 @@
       }
     },
     {
-      "id": "medicine-brainomix-elung-fibrosis",
-      "source_lang": "en",
+      "id": "medicine-pharmacy-ai",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "AI CT, 섬유증 진행\n최대 28개월 먼저 포착",
-      "body": "Brainomix e-Lung은 509명 섬유증 진행을 평균 16개월 앞서 잡았다.",
-      "mini_headline": "e-Lung, 섬유증 조기 포착",
+      "headline": "대한약사회, 약사\n업무지원 AI 개발",
+      "body": "대한약사회가 약물검토·상담 준비·기록 작성을 돕는 업무지원 AI를 개발한다.",
+      "mini_headline": "약사 업무지원 AI 개발",
       "tool": "Medicine",
-      "source": "Radiology Business",
-      "url": "https://radiologybusiness.com/topics/medical-imaging/computed-tomography-ct/ct-tool-may-detect-pulmonary-fibrosis-progression-more-2-years-sooner",
+      "source": "데일리팜",
+      "url": "https://www.dailypharm.com/user/news/343652",
       "accent": "#3b6bff",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "대한약사회(회장 권영희)가 약사의 전문적 판단과 환자 상담을 지원하는 ‘약사 업무지원 AI’ 개발을 본격 추진한다. 의약품 정보 확인과 약물검토, 상담 준비, 기록 작성 등에 AI를 활용하는 약국 AI 전환(AX) 사업으로, 전국 회원 약사가 비용 부담 없이 활용할 수 있는 공통 업무지원 기반을 마련할 계획이다."
+          },
+          {
             "t": "img",
-            "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-2135067814.jpg?h=d5eed9cb&itok=YDymF8NG"
+            "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/21/7f701b6a-9ecd-4116-8634-0835bb9c2f3c.png"
           },
           {
             "t": "p",
-            "x": "인공지능 기반 정량 CT 분석으로 임상 진단보다 몇 달 앞서 폐섬유증 징후를 찾아낼 수 있다는 다기관 연구가 새로 Annals of the American Thoracic Society에 실렸다."
+            "x": "약사회는 AI 전문기업 셀빅을 개발 협력사로 선정하고 지난 7월 시스템 구축에 착수했다. 개발 중인 다제약물 상담 지원서비스는 환자의 복용약과 상담정보를 분석해 약사가 우선 확인해야 할 약물문제와 상담질문을 근거·출처와 함께 제시하고, 음성요약과 상담기록 작성을 지원한다. 최종 검토와 전문적 판단, 환자 상담은 약사가 직접 수행한다."
           },
           {
             "t": "p",
-            "x": "후향적으로 진행된 이 연구는 University of Chicago, Weill Cornell Medicine, University of Alabama at Birmingham의 섬유성 간질성 폐질환 환자 509명을 Brainomix의 e-Lung으로 평가했다. e-Lung은 FDA 허가를 받은(FDA-cleared) 정량 CT 도구다. 연구비는 Boehringer Ingelheim이 댔다."
+            "x": "현장 테스트 모집 대상은 다제약물 관리사업 참여 경험이 있는 자문약사 30명 내외다. 신청 기간은 21일부터 25일까지이며, 테스트는 26일부터 11월 말까지 진행한다. 참여 약사에게는 소정의 리워드를 제공한다."
           },
           {
             "t": "p",
-            "x": "이 지표들은 임상적 폐섬유증 진단보다 평균 16개월 앞서 영상의학적 진행을 찾아냈고 한 센터에서는 최대 28개월까지 앞섰다. 검사 당시 임상적으로 안정적이라고 본 환자 상당수에서도 진행을 잡아냈다."
-          },
-          {
-            "t": "p",
-            "x": "기저 가중 망상혈관 점수가 높을수록 향후 폐섬유증 위험이 커졌다. 연속 CT에서 전체 병변 범위가 1.5% 변하면 사망률 증가와 연관됐다. Brainomix와 Boehringer Ingelheim은 미국(U.S.)에서 전향적 다기관 연구 PROGRESS-PPF를 진행하며 연구를 이어갈 계획이다."
+            "x": "이윤표 정보통신이사는 “AI는 약사를 대체하는 기술이 아니라 약사가 전문성을 더욱 발휘하도록 돕는 수단이 돼야 한다”고 밝혔다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "AI CT flags fibrosis progression\nup to 28 months early",
-          "body": "Brainomix's e-Lung flagged pulmonary fibrosis progression an average 16 months before diagnosis in 509 patients.",
-          "mini_headline": "e-Lung spots fibrosis early",
+        "ko": {
+          "headline": "대한약사회, 약사\n업무지원 AI 개발",
+          "body": "대한약사회가 약물검토·상담 준비·기록 작성을 돕는 업무지원 AI를 개발한다.",
+          "mini_headline": "약사 업무지원 AI 개발",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "대한약사회(회장 권영희)가 약사의 전문적 판단과 환자 상담을 지원하는 ‘약사 업무지원 AI’ 개발을 본격 추진한다. 의약품 정보 확인과 약물검토, 상담 준비, 기록 작성 등에 AI를 활용하는 약국 AI 전환(AX) 사업으로, 전국 회원 약사가 비용 부담 없이 활용할 수 있는 공통 업무지원 기반을 마련할 계획이다."
+              },
+              {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-2135067814.jpg?h=d5eed9cb&itok=YDymF8NG"
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/21/7f701b6a-9ecd-4116-8634-0835bb9c2f3c.png"
               },
               {
                 "t": "p",
-                "x": "Artificial intelligence-powered quantitative CT analysis is capable of identifying signs of pulmonary fibrosis months before clinical diagnosis, according to a new multicenter study published in the Annals of the American Thoracic Society."
+                "x": "약사회는 AI 전문기업 셀빅을 개발 협력사로 선정하고 지난 7월 시스템 구축에 착수했다. 개발 중인 다제약물 상담 지원서비스는 환자의 복용약과 상담정보를 분석해 약사가 우선 확인해야 할 약물문제와 상담질문을 근거·출처와 함께 제시하고, 음성요약과 상담기록 작성을 지원한다. 최종 검토와 전문적 판단, 환자 상담은 약사가 직접 수행한다."
               },
               {
                 "t": "p",
-                "x": "The retrospective study evaluated 509 patients with fibrotic interstitial lung disease at the University of Chicago, Weill Cornell Medicine and the University of Alabama at Birmingham, using Brainomix's e-Lung, an FDA-cleared quantitative CT tool. Boehringer Ingelheim funded the study."
+                "x": "현장 테스트 모집 대상은 다제약물 관리사업 참여 경험이 있는 자문약사 30명 내외다. 신청 기간은 21일부터 25일까지이며, 테스트는 26일부터 11월 말까지 진행한다. 참여 약사에게는 소정의 리워드를 제공한다."
               },
               {
                 "t": "p",
-                "x": "These measures identified radiological progression an average of 16 months before clinical pulmonary fibrosis diagnosis, reaching up to 28 months at one center. They also detected progression in a substantial proportion of patients considered clinically stable at the time of their exam."
-              },
-              {
-                "t": "p",
-                "x": "A higher baseline weighted reticulovascular score was associated with increased risk of future pulmonary fibrosis, while a 1.5% change in total disease extent on serial CT was associated with increased mortality. Brainomix and Boehringer Ingelheim plan to continue through PROGRESS-PPF, a prospective, multicenter U.S. study."
+                "x": "이윤표 정보통신이사는 “AI는 약사를 대체하는 기술이 아니라 약사가 전문성을 더욱 발휘하도록 돕는 수단이 돼야 한다”고 밝혔다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "AI CT, 섬유증 진행\n최대 28개월 먼저 포착",
-          "body": "Brainomix e-Lung은 509명 섬유증 진행을 평균 16개월 앞서 잡았다.",
-          "mini_headline": "e-Lung, 섬유증 조기 포착",
+        "en": {
+          "headline": "KPA to build AI assistant\nfor pharmacists' daily work",
+          "body": "The Korean Pharmaceutical Association is building AI to help with drug reviews, counseling prep and record-keeping.",
+          "mini_headline": "AI support tool for pharmacists",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "The Korean Pharmaceutical Association (President Kwon Young-hee) is moving ahead in earnest with developing a ‘pharmacist work-support AI’ to assist pharmacists’ professional judgment and patient counseling. It is a pharmacy AI transformation (AX) project that applies AI to checking drug information, drug reviews, counseling preparation and record-keeping, and the association plans to build a common work-support base that member pharmacists nationwide can use at no cost."
+              },
+              {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-2135067814.jpg?h=d5eed9cb&itok=YDymF8NG"
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/21/7f701b6a-9ecd-4116-8634-0835bb9c2f3c.png"
               },
               {
                 "t": "p",
-                "x": "인공지능 기반 정량 CT 분석으로 임상 진단보다 몇 달 앞서 폐섬유증 징후를 찾아낼 수 있다는 다기관 연구가 새로 Annals of the American Thoracic Society에 실렸다."
+                "x": "The association selected AI company Selvik (셀빅) as its development partner and began building the system in July. The polypharmacy counseling support service under development analyzes a patient’s medications and counseling information, presents the drug problems and counseling questions a pharmacist should check first along with their evidence and sources, and supports voice summaries and counseling records. Final review, professional judgment and patient counseling are carried out by the pharmacist directly."
               },
               {
                 "t": "p",
-                "x": "후향적으로 진행된 이 연구는 University of Chicago, Weill Cornell Medicine, University of Alabama at Birmingham의 섬유성 간질성 폐질환 환자 509명을 Brainomix의 e-Lung으로 평가했다. e-Lung은 FDA 허가를 받은(FDA-cleared) 정량 CT 도구다. 연구비는 Boehringer Ingelheim이 댔다."
+                "x": "The field test is recruiting around 30 consultant pharmacists (30명 내외) with experience in the polypharmacy management program. Applications run from the 21st to the 25th, and testing runs from the 26th to the end of November. Participating pharmacists will receive a small reward."
               },
               {
                 "t": "p",
-                "x": "이 지표들은 임상적 폐섬유증 진단보다 평균 16개월 앞서 영상의학적 진행을 찾아냈고 한 센터에서는 최대 28개월까지 앞섰다. 검사 당시 임상적으로 안정적이라고 본 환자 상당수에서도 진행을 잡아냈다."
-              },
-              {
-                "t": "p",
-                "x": "기저 가중 망상혈관 점수가 높을수록 향후 폐섬유증 위험이 커졌다. 연속 CT에서 전체 병변 범위가 1.5% 변하면 사망률 증가와 연관됐다. Brainomix와 Boehringer Ingelheim은 미국(U.S.)에서 전향적 다기관 연구 PROGRESS-PPF를 진행하며 연구를 이어갈 계획이다."
+                "x": "Lee Yoon-pyo, director of information and communications, said, “AI should not be a technology that replaces pharmacists but a means that helps pharmacists make fuller use of their expertise.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI CTが線維症進行を\n最大28カ月早く検出",
-          "body": "Brainomixのe-Lungは509人で肺線維症の進行を診断の平均16カ月前に捉えた。",
-          "mini_headline": "e-Lung、線維症を早期に捕捉",
+          "headline": "大韓薬剤師会、薬剤師\n業務支援AIを開発",
+          "body": "大韓薬剤師会が薬物レビュー・相談準備・記録作成を支える業務支援AIを開発する。",
+          "mini_headline": "薬剤師の業務支援AIを開発",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "大韓薬剤師会(会長 クォン・ヨンヒ)が、薬剤師の専門的判断と患者相談を支援する「薬剤師業務支援AI」の開発を本格的に進める。医薬品情報の確認や薬物レビュー、相談準備、記録作成などにAIを活用する薬局AI転換(AX)事業で、全国の会員薬剤師が費用負担なく使える共通の業務支援基盤を整える計画だ。"
+              },
+              {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-2135067814.jpg?h=d5eed9cb&itok=YDymF8NG"
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/21/7f701b6a-9ecd-4116-8634-0835bb9c2f3c.png"
               },
               {
                 "t": "p",
-                "x": "人工知能を活用した定量CT解析により、臨床診断の数カ月前に肺線維症の兆候を特定できることが、Annals of the American Thoracic Societyに掲載された新たな多施設研究で明らかになった。"
+                "x": "薬剤師会はAI専門企業のセルビックを開発協力会社に選び、7月にシステム構築に着手した。開発中の多剤併用相談支援サービスは、患者の服用薬と相談情報を分析し、薬剤師が優先して確認すべき薬物問題と相談質問を根拠・出典とともに示し、音声要約と相談記録の作成を支援する。最終的な確認と専門的判断、患者相談は薬剤師が自ら行う。"
               },
               {
                 "t": "p",
-                "x": "この後ろ向き研究では、University of Chicago、Weill Cornell Medicine、University of Alabama at Birminghamの線維性間質性肺疾患患者509人を、FDA承認済み(FDA-cleared)の定量CTツールであるBrainomixのe-Lungで評価した。研究資金はBoehringer Ingelheimが提供した。"
+                "x": "現場テストの募集対象は、多剤併用管理事業への参加経験がある諮問薬剤師30人程度(30명 내외)だ。申請期間は21日から25日までで、テストは26日から11月末まで行う。参加した薬剤師には所定の謝礼を提供する。"
               },
               {
                 "t": "p",
-                "x": "これらの指標は、臨床的な肺線維症診断より平均16カ月早く画像上の進行を捉え、ある施設では最大28カ月に達した。検査時点で臨床的に安定とみなされていた患者のかなりの割合でも、進行を検出した。"
-              },
-              {
-                "t": "p",
-                "x": "ベースラインの加重網状血管スコアが高いほど将来の肺線維症リスクが高く、連続CTで総病変範囲が1.5%変化すると死亡率の上昇と関連していた。BrainomixとBoehringer Ingelheimは、米国(U.S.)での前向き多施設研究PROGRESS-PPFを通じて研究を続ける計画だ。"
+                "x": "イ・ユンピョ情報通信理事は「AIは薬剤師に取って代わる技術ではなく、薬剤師が専門性をより発揮できるよう助ける手段であるべきだ」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI CT最多提前28个月\n发现纤维化进展",
-          "body": "Brainomix的e-Lung在509名患者中比确诊平均提前16个月发现肺纤维化进展。",
-          "mini_headline": "e-Lung提早发现纤维化",
+          "headline": "大韩药师会开发\n药师业务支持AI",
+          "body": "大韩药师会将开发协助药物审查、咨询准备和记录撰写的业务支持AI。",
+          "mini_headline": "药师业务支持AI开发",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "大韩药师会(会长 Kwon Young-hee)正全面推进“药师业务支持AI”的开发，以辅助药师的专业判断和患者咨询。这是一项将AI用于核查药品信息、药物审查、咨询准备和记录撰写等环节的药房AI转型(AX)项目，计划打造全国会员药师均可免费使用的通用业务支持平台。"
+              },
+              {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-2135067814.jpg?h=d5eed9cb&itok=YDymF8NG"
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/21/7f701b6a-9ecd-4116-8634-0835bb9c2f3c.png"
               },
               {
                 "t": "p",
-                "x": "发表于Annals of the American Thoracic Society的新多中心研究显示，人工智能驱动的定量CT分析能够在临床诊断前数月识别出肺纤维化迹象。"
+                "x": "药师会选定AI专业企业Selvik（셀빅）为开发合作方，并于7月启动系统建设。正在开发的多重用药咨询支持服务会分析患者的用药和咨询信息，连同依据和出处一起列出药师应优先核查的用药问题和咨询问题，并支持语音摘要和咨询记录撰写。最终审核、专业判断和患者咨询由药师亲自完成。"
               },
               {
                 "t": "p",
-                "x": "这项回顾性研究使用获FDA许可(FDA-cleared)的定量CT工具Brainomix的e-Lung，评估了University of Chicago、Weill Cornell Medicine和University of Alabama at Birmingham的509名纤维化间质性肺病患者。该研究由Boehringer Ingelheim资助。"
+                "x": "现场测试招募对象为约30名(30명 내외)有多重用药管理项目参与经验的顾问药师。报名时间为21日至25日，测试将从26日持续到11月底。参与的药师将获得少量奖励。"
               },
               {
                 "t": "p",
-                "x": "这些指标比临床肺纤维化诊断平均提前16个月识别出影像学进展，在某个中心最多提前28个月。在检查时被视为临床稳定的患者中，它们也在相当比例的人身上检测到了进展。"
-              },
-              {
-                "t": "p",
-                "x": "较高的基线加权网状血管评分与未来肺纤维化风险升高相关，而连续CT上总病变范围变化1.5%与死亡率上升相关。Brainomix和Boehringer Ingelheim计划通过前瞻性多中心美国(U.S.)研究PROGRESS-PPF继续推进。"
+                "x": "信息通信理事Lee Yoon-pyo表示：“AI不应是取代药师的技术，而应成为帮助药师更好发挥专业能力的工具。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "AI en CT anticipa la progresión\nde la fibrosis hasta 28 meses",
-          "body": "El e-Lung de Brainomix detectó el avance de la fibrosis en promedio 16 meses antes del diagnóstico en 509 pacientes.",
-          "mini_headline": "e-Lung detecta pronto la fibrosis",
+          "headline": "La asociación de farmacéuticos\nde Corea desarrolla una AI",
+          "body": "La Asociación Farmacéutica de Corea desarrolla una AI que ayuda en la revisión de fármacos, consultas y registros.",
+          "mini_headline": "AI de apoyo para farmacéuticos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "La Asociación Farmacéutica de Corea (presidenta Kwon Young-hee) impulsa de lleno el desarrollo de una ‘AI de apoyo al trabajo del farmacéutico’ que respalde el juicio profesional y la atención al paciente. Se trata de un proyecto de transformación con AI (AX) en farmacias que aplica AI a la verificación de información de medicamentos, la revisión farmacológica, la preparación de consultas y la redacción de registros, y la asociación prevé crear una base común de apoyo que los farmacéuticos asociados de todo el país puedan usar sin coste."
+              },
+              {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-2135067814.jpg?h=d5eed9cb&itok=YDymF8NG"
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/21/7f701b6a-9ecd-4116-8634-0835bb9c2f3c.png"
               },
               {
                 "t": "p",
-                "x": "El análisis cuantitativo de CT impulsado por inteligencia artificial puede identificar signos de fibrosis pulmonar meses antes del diagnóstico clínico, según un nuevo estudio multicéntrico publicado en Annals of the American Thoracic Society."
+                "x": "La asociación eligió a la empresa especializada en AI Selvik (셀빅) como socio de desarrollo y empezó a construir el sistema en julio. El servicio de apoyo a consultas sobre polifarmacia en desarrollo analiza la medicación del paciente y la información de la consulta, presenta con sus fundamentos y fuentes los problemas farmacológicos y las preguntas que el farmacéutico debe revisar primero, y ayuda con resúmenes de voz y registros de consulta. La revisión final, el juicio profesional y la atención al paciente corren a cargo del propio farmacéutico."
               },
               {
                 "t": "p",
-                "x": "El estudio retrospectivo evaluó a 509 pacientes con enfermedad pulmonar intersticial fibrótica en la University of Chicago, Weill Cornell Medicine y la University of Alabama at Birmingham con e-Lung de Brainomix, una herramienta de CT cuantitativa con autorización de la FDA (FDA-cleared). Boehringer Ingelheim financió el estudio."
+                "x": "La prueba de campo busca a unos 30 farmacéuticos asesores (30명 내외) con experiencia en el programa de gestión de polifarmacia. Las solicitudes se reciben del 21 al 25, y la prueba se desarrollará del 26 hasta finales de noviembre. Los participantes recibirán una pequeña recompensa."
               },
               {
                 "t": "p",
-                "x": "Estas mediciones identificaron la progresión radiológica una media de 16 meses antes del diagnóstico clínico de fibrosis pulmonar, y hasta 28 meses en un centro. También detectaron progresión en una proporción considerable de pacientes que se consideraban clínicamente estables en el momento del examen."
-              },
-              {
-                "t": "p",
-                "x": "Una puntuación reticulovascular ponderada basal más alta se asoció con un mayor riesgo de fibrosis pulmonar futura, mientras que un cambio del 1.5% en la extensión total de la enfermedad en CT seriadas se asoció con un aumento de la mortalidad. Brainomix y Boehringer Ingelheim prevén continuar con PROGRESS-PPF, un estudio prospectivo y multicéntrico en Estados Unidos (U.S.)."
+                "x": "Lee Yoon-pyo, director de información y comunicaciones, afirmó: “La AI no debe ser una tecnología que sustituya a los farmacéuticos, sino un medio que les ayude a aprovechar mejor su experiencia”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "AI CT, 섬유증 진행\n최대 28개월 먼저 포착",
-          "body": "Brainomix e-Lung은 509명서 섬유증 진행을 평균 16개월 전 찾았다.",
-          "mini_headline": "e-Lung, 섬유증 조기 포착",
+        "en": {
+          "headline": "KPA to build AI assistant\nfor pharmacists' daily work",
+          "body": "The Korean Pharmaceutical Association is building AI to help with drug reviews, counseling prep and record-keeping.",
+          "mini_headline": "AI support tool for pharmacists",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "The Korean Pharmaceutical Association (President Kwon Young-hee) is moving ahead in earnest with developing a ‘pharmacist work-support AI’ to assist pharmacists’ professional judgment and patient counseling. It is a pharmacy AI transformation (AX) project that applies AI to checking drug information, drug reviews, counseling preparation and record-keeping, and the association plans to build a common work-support base that member pharmacists nationwide can use at no cost."
+              },
+              {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-2135067814.jpg?h=d5eed9cb&itok=YDymF8NG"
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/21/7f701b6a-9ecd-4116-8634-0835bb9c2f3c.png"
               },
               {
                 "t": "p",
-                "x": "인공지능 기반 정량 CT 분석으로 임상 진단 몇 달 전에 폐섬유증 징후를 찾아낼 수 있다는 새 다기관 연구가 Annals of the American Thoracic Society에 실렸다."
+                "x": "The association selected AI company Selvik (셀빅) as its development partner and began building the system in July. The polypharmacy counseling support service under development analyzes a patient’s medications and counseling information, presents the drug problems and counseling questions a pharmacist should check first along with their evidence and sources, and supports voice summaries and counseling records. Final review, professional judgment and patient counseling are carried out by the pharmacist directly."
               },
               {
                 "t": "p",
-                "x": "이 후향적 연구는 University of Chicago, Weill Cornell Medicine, University of Alabama at Birmingham의 섬유성 간질성 폐질환 환자 509명을 FDA 허가를 받은(FDA-cleared) 정량 CT 도구인 Brainomix의 e-Lung으로 평가했다. 연구비는 Boehringer Ingelheim이 댔다."
+                "x": "The field test is recruiting around 30 consultant pharmacists (30명 내외) with experience in the polypharmacy management program. Applications run from the 21st to the 25th, and testing runs from the 26th to the end of November. Participating pharmacists will receive a small reward."
               },
               {
                 "t": "p",
-                "x": "이 지표들은 임상적 폐섬유증 진단보다 평균 16개월 앞서 영상의학적 진행을 찾아냈고, 어느 센터에서는 최대 28개월까지 앞섰다. 검사 당시 임상적으로 안정 상태로 여겨진 환자 가운데 상당수에서도 진행을 감지했다."
-              },
-              {
-                "t": "p",
-                "x": "기저 가중 망상혈관 점수가 높을수록 향후 폐섬유증 위험이 커졌고, 연속 CT에서 전체 병변 범위가 1.5% 변하면 사망률 증가와 연관이 있었다. Brainomix와 Boehringer Ingelheim은 전향적 다기관 미국(U.S.) 연구인 PROGRESS-PPF로 연구를 이어갈 계획이다."
+                "x": "Lee Yoon-pyo, director of information and communications, said, “AI should not be a technology that replaces pharmacists but a means that helps pharmacists make fuller use of their expertise.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI CTが線維症進行を\n最大28カ月早く検出",
-          "body": "Brainomixのe-Lungは509人で肺線維症の進行を診断の平均16カ月前に捉えた。",
-          "mini_headline": "e-Lung、線維症を早期に捕捉",
+          "headline": "大韓薬剤師会、薬剤師\n業務支援AIを開発",
+          "body": "大韓薬剤師会が薬物レビュー・相談準備・記録作成を支える業務支援AIを開発する。",
+          "mini_headline": "薬剤師の業務支援AIを開発",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "大韓薬剤師会(会長 クォン・ヨンヒ)が、薬剤師の専門的判断と患者相談を支援する「薬剤師業務支援AI」の開発を本格的に進める。医薬品情報の確認や薬物レビュー、相談準備、記録作成などにAIを活用する薬局AI転換(AX)事業で、全国の会員薬剤師が費用負担なく使える共通の業務支援基盤を整える計画だ。"
+              },
+              {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-2135067814.jpg?h=d5eed9cb&itok=YDymF8NG"
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/21/7f701b6a-9ecd-4116-8634-0835bb9c2f3c.png"
               },
               {
                 "t": "p",
-                "x": "人工知能を活用した定量CT解析により、臨床診断の数カ月前に肺線維症の兆候を特定できることが、Annals of the American Thoracic Societyに掲載された新たな多施設研究で明らかになった。"
+                "x": "薬剤師会はAI専門企業のセルビックを開発協力会社に選び、7月にシステム構築に着手した。開発中の多剤併用相談支援サービスは、患者の服用薬と相談情報を分析し、薬剤師が優先して確認すべき薬物問題と相談質問を根拠・出典とともに示し、音声要約と相談記録の作成を支援する。最終的な確認と専門的判断、患者相談は薬剤師が自ら行う。"
               },
               {
                 "t": "p",
-                "x": "この後ろ向き研究では、University of Chicago、Weill Cornell Medicine、University of Alabama at Birminghamの線維性間質性肺疾患患者509人を、FDA承認済み(FDA-cleared)の定量CTツールであるBrainomixのe-Lungで評価した。研究資金はBoehringer Ingelheimが提供した。"
+                "x": "現場テストの募集対象は、多剤併用管理事業への参加経験がある諮問薬剤師30人程度(30명 내외)だ。申請期間は21日から25日までで、テストは26日から11月末まで行う。参加した薬剤師には所定の謝礼を提供する。"
               },
               {
                 "t": "p",
-                "x": "これらの指標は、臨床的な肺線維症診断より平均16カ月早く画像上の進行を捉え、ある施設では最大28カ月に達した。検査時点で臨床的に安定とみなされていた患者のかなりの割合でも、進行を検出した。"
-              },
-              {
-                "t": "p",
-                "x": "ベースラインの加重網状血管スコアが高いほど将来の肺線維症リスクが高く、連続CTで総病変範囲が1.5%変化すると死亡率の上昇と関連していた。BrainomixとBoehringer Ingelheimは、米国(U.S.)での前向き多施設研究PROGRESS-PPFを通じて研究を続ける計画だ。"
+                "x": "イ・ユンピョ情報通信理事は「AIは薬剤師に取って代わる技術ではなく、薬剤師が専門性をより発揮できるよう助ける手段であるべきだ」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI CT最多提前28个月\n发现纤维化进展",
-          "body": "Brainomix的e-Lung在509名患者中比确诊平均提前16个月发现肺纤维化进展。",
-          "mini_headline": "e-Lung提早发现纤维化",
+          "headline": "大韩药师会开发\n药师业务支持AI",
+          "body": "大韩药师会将开发协助药物审查、咨询准备和记录撰写的业务支持AI。",
+          "mini_headline": "药师业务支持AI开发",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "大韩药师会(会长 Kwon Young-hee)正全面推进“药师业务支持AI”的开发，以辅助药师的专业判断和患者咨询。这是一项将AI用于核查药品信息、药物审查、咨询准备和记录撰写等环节的药房AI转型(AX)项目，计划打造全国会员药师均可免费使用的通用业务支持平台。"
+              },
+              {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-2135067814.jpg?h=d5eed9cb&itok=YDymF8NG"
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/21/7f701b6a-9ecd-4116-8634-0835bb9c2f3c.png"
               },
               {
                 "t": "p",
-                "x": "发表于Annals of the American Thoracic Society的新多中心研究显示，人工智能驱动的定量CT分析能够在临床诊断前数月识别出肺纤维化迹象。"
+                "x": "药师会选定AI专业企业Selvik（셀빅）为开发合作方，并于7月启动系统建设。正在开发的多重用药咨询支持服务会分析患者的用药和咨询信息，连同依据和出处一起列出药师应优先核查的用药问题和咨询问题，并支持语音摘要和咨询记录撰写。最终审核、专业判断和患者咨询由药师亲自完成。"
               },
               {
                 "t": "p",
-                "x": "这项回顾性研究使用获FDA许可(FDA-cleared)的定量CT工具Brainomix的e-Lung，评估了University of Chicago、Weill Cornell Medicine和University of Alabama at Birmingham的509名纤维化间质性肺病患者。该研究由Boehringer Ingelheim资助。"
+                "x": "现场测试招募对象为约30名(30명 내외)有多重用药管理项目参与经验的顾问药师。报名时间为21日至25日，测试将从26日持续到11月底。参与的药师将获得少量奖励。"
               },
               {
                 "t": "p",
-                "x": "这些指标比临床肺纤维化诊断平均提前16个月识别出影像学进展，在某个中心最多提前28个月。在检查时被视为临床稳定的患者中，它们也在相当比例的人身上检测到了进展。"
-              },
-              {
-                "t": "p",
-                "x": "较高的基线加权网状血管评分与未来肺纤维化风险升高相关，而连续CT上总病变范围变化1.5%与死亡率上升相关。Brainomix和Boehringer Ingelheim计划通过前瞻性多中心美国(U.S.)研究PROGRESS-PPF继续推进。"
+                "x": "信息通信理事Lee Yoon-pyo表示：“AI不应是取代药师的技术，而应成为帮助药师更好发挥专业能力的工具。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "AI en CT anticipa la progresión\nde la fibrosis hasta 28 meses",
-          "body": "El e-Lung de Brainomix detectó el avance de la fibrosis en promedio 16 meses antes del diagnóstico en 509 pacientes.",
-          "mini_headline": "e-Lung detecta pronto la fibrosis",
+          "headline": "La asociación de farmacéuticos\nde Corea desarrolla una AI",
+          "body": "La Asociación Farmacéutica de Corea desarrolla una AI que ayuda en la revisión de fármacos, consultas y registros.",
+          "mini_headline": "AI de apoyo para farmacéuticos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "La Asociación Farmacéutica de Corea (presidenta Kwon Young-hee) impulsa de lleno el desarrollo de una ‘AI de apoyo al trabajo del farmacéutico’ que respalde el juicio profesional y la atención al paciente. Se trata de un proyecto de transformación con AI (AX) en farmacias que aplica AI a la verificación de información de medicamentos, la revisión farmacológica, la preparación de consultas y la redacción de registros, y la asociación prevé crear una base común de apoyo que los farmacéuticos asociados de todo el país puedan usar sin coste."
+              },
+              {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-2135067814.jpg?h=d5eed9cb&itok=YDymF8NG"
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/21/7f701b6a-9ecd-4116-8634-0835bb9c2f3c.png"
               },
               {
                 "t": "p",
-                "x": "El análisis cuantitativo de CT impulsado por inteligencia artificial puede identificar signos de fibrosis pulmonar meses antes del diagnóstico clínico, según un nuevo estudio multicéntrico publicado en Annals of the American Thoracic Society."
+                "x": "La asociación eligió a la empresa especializada en AI Selvik (셀빅) como socio de desarrollo y empezó a construir el sistema en julio. El servicio de apoyo a consultas sobre polifarmacia en desarrollo analiza la medicación del paciente y la información de la consulta, presenta con sus fundamentos y fuentes los problemas farmacológicos y las preguntas que el farmacéutico debe revisar primero, y ayuda con resúmenes de voz y registros de consulta. La revisión final, el juicio profesional y la atención al paciente corren a cargo del propio farmacéutico."
               },
               {
                 "t": "p",
-                "x": "El estudio retrospectivo evaluó a 509 pacientes con enfermedad pulmonar intersticial fibrótica en la University of Chicago, Weill Cornell Medicine y la University of Alabama at Birmingham con e-Lung de Brainomix, una herramienta de CT cuantitativa con autorización de la FDA (FDA-cleared). Boehringer Ingelheim financió el estudio."
+                "x": "La prueba de campo busca a unos 30 farmacéuticos asesores (30명 내외) con experiencia en el programa de gestión de polifarmacia. Las solicitudes se reciben del 21 al 25, y la prueba se desarrollará del 26 hasta finales de noviembre. Los participantes recibirán una pequeña recompensa."
               },
               {
                 "t": "p",
-                "x": "Estas mediciones identificaron la progresión radiológica una media de 16 meses antes del diagnóstico clínico de fibrosis pulmonar, y hasta 28 meses en un centro. También detectaron progresión en una proporción considerable de pacientes que se consideraban clínicamente estables en el momento del examen."
-              },
-              {
-                "t": "p",
-                "x": "Una puntuación reticulovascular ponderada basal más alta se asoció con un mayor riesgo de fibrosis pulmonar futura, mientras que un cambio del 1.5% en la extensión total de la enfermedad en CT seriadas se asoció con un aumento de la mortalidad. Brainomix y Boehringer Ingelheim prevén continuar con PROGRESS-PPF, un estudio prospectivo y multicéntrico en Estados Unidos (U.S.)."
+                "x": "Lee Yoon-pyo, director de información y comunicaciones, afirmó: “La AI no debe ser una tecnología que sustituya a los farmacéuticos, sino un medio que les ayude a aprovechar mejor su experiencia”."
               }
             ]
           }

@@ -1,169 +1,83 @@
 {
   "section": "games",
-  "generated_at": "2026-10-22T22:00:32Z",
-  "now_iso": "2026-10-22T22:00:32Z",
+  "generated_at": "2026-10-23T22:00:00Z",
+  "now_iso": "2026-10-23T22:00:00Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Epic wants to pay you $50,000 to vibe code an AI slop game",
-      "url": "https://www.gamesradar.com/games/epic-wants-to-pay-you-usd50-000-to-vibe-code-an-ai-slop-game/",
+      "title": "How Tripo P2.0 & Astra Work Together in Blender and Unity",
+      "url": "https://80.lv/articles/how-tripo-p2-0-astra-work-together-in-blender-and-unity/",
+      "source": "80 Level",
+      "category": "games",
+      "published_iso": "2026-10-23T13:15:00+00:00",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50386/images/6ada9dc6ed2d2/contain_1200x630.jpg",
+      "excerpt": "The Tripo Team explains how P2.0 and Astra combine 3D asset generation with assembly, rigging, animation, and integration in Blender and Unity, while examining cleanup, quality control, training data, and the continuing importance of human art direction."
+    },
+    {
+      "title": "Still mad at Valve for Steam's AI disclosures, Epic Games boss criticizes \"forcing developers to write a political statement to be used against them by the hate mob\"",
+      "url": "https://www.gamesradar.com/games/still-mad-at-valve-for-steams-ai-disclosures-epic-games-boss-criticizes-forcing-developers-to-write-a-political-statement-to-be-used-against-them-by-the-hate-mob/",
       "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-10-22T21:09:38Z",
-      "excerpt": "Epic Games' Unreal Engine AI MegaJam promises up to $50,000 in prizes for games built with AI tools ('Vibe your way to 50K'), drawing backlash over Epic's AI-first push.",
+      "published_iso": "2026-10-23T20:59:21Z",
       "og_image": "https://cdn.mos.cms.futurecdn.net/7M3WodRrErU8qfasfyuLrW-2560-80.jpg",
+      "excerpt": "Epic Games CEO Tim Sweeney again criticizes Steam's AI disclosure labels, saying Valve is forcing developers to write a political statement that the hate mob uses against them.",
       "history_match": {
-        "score": 0.358,
+        "score": 0.159,
         "date": "2026-10-15",
         "url": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
         "title": "Epic’s new games launcher is ‘vibe coded’",
         "band": "related"
-      },
-      "cluster": "c0"
+      }
     },
     {
-      "title": "\"Someone's getting fired\": Arc Raiders player says Embark used ChatGPT to respond to their complaint and accidentally sent several messages intended for others",
-      "url": "https://www.gamesradar.com/games/third-person-shooter/someones-getting-fired-arc-raiders-player-says-embark-used-chatgpt-to-respond-to-their-complaint-and-accidentally-sent-several-messages-intended-for-others/",
+      "title": "Xbox is forming a whole division in response to the vibe-coded game recomp explosion – ",
+      "url": "https://www.gamesradar.com/games/xbox-is-forming-a-whole-division-in-response-to-the-vibe-coded-game-recomp-explosion-these-are-unmistakably-good-outcomes-for-players/",
       "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-10-22T15:36:48Z",
-      "excerpt": "An Arc Raiders player says Embark Studios support used ChatGPT to answer their complaint, accidentally pasting a chain of about 10 prompt-and-response exchanges including messages meant for other players.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/rNhJaVUEevSjNDA7SxKetK-1920-80.jpg",
-      "history_match": {
-        "score": 0.166,
-        "date": "2026-09-28",
-        "url": "https://www.polygon.com/arc-raiders-frozen-trail-bully-machine-learning/",
-        "title": "Arc Raiders' New Machine-Learning Enemy Looks Absolutely Terrifying",
-        "band": "related"
-      }
+      "published_iso": "2026-10-13T20:39:11Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/W7jzFeUuRH8HgnHh3Byw5m-1920-80.jpg",
+      "excerpt": "Even when (and sometimes because) they challenge our existing business models"
     },
     {
-      "title": "\"Elon Musk disagrees with me. This means I am onto something\": Legendary game artist calls out AI billionaires, Tim Sweeney responds \"this is bulls***\" with Musk's support",
-      "url": "https://www.gamesradar.com/games/elon-musk-disagrees-with-me-this-means-i-am-onto-something-legendary-game-artist-calls-out-ai-billionaires-tim-sweeney-responds-this-is-bulls-with-musks-support/",
+      "title": "Palworld lead calls Steam Next Fest a gamble that's \"still worth taking\" despite the \"AI slop era\" we're in - because \"the vast majority of it sinks to the bottom and rots almost immediately\"",
+      "url": "https://www.gamesradar.com/games/palworld-lead-calls-steam-next-fest-a-gamble-thats-still-worth-taking-despite-the-ai-slop-era-were-in-because-the-vast-majority-of-it-sinks-to-the-bottom-and-rots-almost-immediately/",
       "source": "GamesRadar+",
       "category": "games",
-      "published_iso": "2026-10-19T16:48:11Z",
-      "excerpt": "Epic Games CEO Tim Sweeney backs an AI-first push across the company",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Xx978oeP48NRvzEpik6Rfd-1920-80.jpg"
-    },
-    {
-      "title": "Machinarium AI tribute cops a flogging from studio: 'This looks disgusting'",
-      "url": "https://www.pcgamer.com/gaming-industry/machinarium-ai-tribute-cops-a-flogging-from-studio-this-looks-disgusting-and-has-nothing-to-do-with-us-or-our-craft/",
-      "source": "PC Gamer",
-      "category": "games",
-      "published_iso": "2026-10-21T22:26:41Z",
-      "excerpt": "Amanita Design condemned an AI-generated 'tribute' to Machinarium posted by the CEO of AI storytelling company Nura Studios, saying it 'looks disgusting and has nothing to do with us or our craft'.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/QovyvgnTDavqyf4mSEdhu6-1920-80.jpg"
-    },
-    {
-      "title": "The developer of an AI-powered driving instruction simulator is spending $1,000 per day just to keep its demo running",
-      "url": "https://www.pcgamer.com/games/sim/the-developer-of-an-ai-powered-driving-instruction-simulator-is-spending-usd1-000-per-month-just-to-keep-its-demo-running/",
-      "source": "PC Gamer",
-      "category": "games",
-      "published_iso": "2026-10-11T12:31:04Z",
-      "excerpt": "Teach My Little Sister How to Drive centres around a costly chatbot.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/mpQFst9ntNsDXtxsubpvs-1920-80.jpg"
-    },
-    {
-      "title": "Google's golden age of AI games?",
-      "url": "https://www.pcgamer.com/software/ai/googles-golden-age-of-ai-games/",
-      "source": "PC Gamer",
-      "category": "games",
-      "published_iso": "2026-10-09T00:39:39Z",
-      "excerpt": "PC Gamer's Tyler Wilde picks apart a Google article claiming 'AI is unlocking a new golden age of games', questioning what generative AI actually offers players and developers.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/LVdqycj7EnF5PUSFh2VHqb-1458-80.png",
+      "published_iso": "2026-10-20T16:36:11Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/jU3HQtpVt8azFw4GmDC9f8-1920-80.jpg",
+      "excerpt": "The industry is simply changing",
       "history_match": {
-        "score": 0.171,
-        "date": "2026-10-18",
-        "url": "https://www.pocketgamer.biz/google-play-launches-discoverability-tool-game-finder-using-gamer-dna/",
-        "title": "Google Play launches discoverability tool Game Finder using \"gamer DNA\"",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Epic Games' 'Unreal Engine AI MegaJam' contest will reward cash for AI vibe-coded slop games that no one asked for",
-      "url": "https://www.destructoid.com/epic-games-unreal-engine-ai-megajamcash-ai-vibe-coded-games/",
-      "source": "Destructoid",
-      "category": "games",
-      "published_iso": "2026-10-22T20:14:34+00:00",
-      "excerpt": "Epic Games is running a contest for some people to use AI to make games. Seriously. And they're really excited about it.",
-      "og_image": "https://www.destructoid.com/wp-content/uploads/2026/10/epic-games-logo.jpg",
-      "history_match": {
-        "score": 0.314,
-        "date": "2026-10-15",
-        "url": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
-        "title": "Epic’s new games launcher is ‘vibe coded’",
-        "band": "related"
-      },
-      "cluster": "c0"
-    },
-    {
-      "title": "Someone hacked the Switch 2 by using an old game and AI",
-      "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
-      "source": "The Verge",
-      "category": "games",
-      "published_iso": "2026-10-22T17:21:31+00:00",
-      "excerpt": "The Nintendo Switch 2 has apparently been jailbroken by a modder who used OpenAI tools and the $25 SmileBASIC 4 eShop app, already showing a custom Mario Kart World with new playable characters.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-10.19.11-AM.png?quality=90&strip=all&crop=1.7484243697479%2C0%2C96.503151260504%2C100&w=1200"
-    },
-    {
-      "title": "Game Developers Fear That Thieving AI Vibecoders Will Make Free Game Demos A Thing Of The Past",
-      "url": "https://aftermath.site/steam-next-fest-demos-ai-vibecoded-clones-theft/",
-      "source": "Aftermath",
-      "category": "games",
-      "published_iso": "2026-10-21T20:18:30.000Z",
-      "excerpt": "\"Not being able to develop our games in the open has been a real blow, and it's very dispiriting\"",
-      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/haystack1-2.png",
-      "history_match": {
-        "score": 0.216,
-        "date": "2026-10-17",
-        "url": "https://kotaku.com/anime-gambling-horror-game-ditches-free-steam-demo-over-fears-of-getting-ripped-off-by-ai-2000746794",
-        "title": "Anime Gambling Horror Game Ditches Free Steam Demo So It Doesn't Get Ripped Off By AI",
-        "band": "related"
-      }
-    },
-    {
-      "title": "All My Hobbies Are Getting Slopped Up, And It’s Exhausting",
-      "url": "https://aftermath.site/ai-slop-hobbies-in-software-emulation/",
-      "source": "Aftermath",
-      "category": "games",
-      "published_iso": "2026-10-22T20:39:39.000Z",
-      "excerpt": "The explosion in vibe coding has created an endless sea of drive-by, unserious, and unmaintained software that is destabilizing longstanding communities.",
-      "og_image": "https://images.unsplash.com/photo-1758648998701-81cb2b33fa4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fG11ZHxlbnwwfHx8fDE3OTI2OTY4NTJ8MA&ixlib=rb-4.1.0&q=80&w=2000"
-    },
-    {
-      "title": "SonicFox Reminds Everyone They're Based, Backing Out Of A Gaming Convention Over An AI-Generated Promo - Kotaku",
-      "url": "https://kotaku.com/sonicfox-reminds-everyone-theyre-based-backing-out-of-a-gaming-convention-over-an-ai-generated-promo-2000748466",
-      "source": "Kotaku",
-      "category": "games",
-      "published_iso": "2026-10-21T23:00:51+00:00",
-      "excerpt": "Ninjutsu Entertainment posted a video asking SonicFox to reconsider their decision",
-      "og_image": "https://kotaku.com/app/uploads/2018/12/epcreyfmhu5sx0h73hsu.jpg"
-    },
-    {
-      "title": "Voice Of Goku Responds To AI Stealing Her Voice: 'I Can’t Forgive Them...It Makes Me Really Angry, It’s No Different Than Theft' - Kotaku",
-      "url": "https://kotaku.com/voice-of-goku-responds-to-ai-stealing-her-voice-i-cant-forgive-them-it-makes-me-really-angry-its-no-different-than-theft-2000747356",
-      "source": "Kotaku",
-      "category": "games",
-      "published_iso": "2026-10-19T21:30:50+00:00",
-      "excerpt": "A union representing gaming and anime voice actors has issued guidance on the issue after many high-profile voice actors spoke out against generative AI",
-      "og_image": "https://kotaku.com/app/uploads/2026/10/Dragon-Ball-Z-Goku-1200x675.jpg",
-      "history_match": {
-        "score": 0.184,
+        "score": 0.195,
         "date": "2026-10-20",
-        "url": "https://www.eurogamer.net/japanese-voice-acting-union-generative-ai",
-        "title": "Japanese acting union fights back against AI-generated voice use, proposing strict new guidelines, especially regarding the use of a deceased actor's voice",
+        "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+        "title": "Steam Fans Are Begging for a No-AI Filter as Steam Next Fest Is Filled With Slop",
         "band": "related"
       }
     },
     {
-      "title": "Of Course Pokémon's Been Pulled Into The AI Decompilation Frenzy",
-      "url": "https://kotaku.com/of-course-pokemons-been-pulled-into-the-ai-decompilation-frenzy-2000748316",
-      "source": "Kotaku",
+      "title": "Future? No Thanks! dev removes AI-generated voices from game and offers refunds to players who feel \"betrayed\"",
+      "url": "https://www.rockpapershotgun.com/future-no-thanks-dev-removes-ai-generated-voices-from-game-and-offers-refunds-to-players-who-feel-betrayed",
+      "source": "Rock Paper Shotgun",
       "category": "games",
-      "published_iso": "2026-10-21T15:26:56+00:00",
-      "excerpt": "Developers used new generative AI models to quickly decompile several Pokémon games, including Brilliant Diamond, Shining Pearl, Snap and HeartGold/SoulSilver, into playable PC ports and mashups that critics call buggy and low quality.",
-      "og_image": "https://kotaku.com/app/uploads/2026/10/pokemon-movie-1-1200x675.jpg"
+      "published_iso": "2026-10-23T17:26:32.692587+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/futurenothanks-pickup-line.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Open world ecosatire Future? No Thanks! has been updated to replace some genAI voices, with developer Molleindustria also offering refunds to upset players.",
+      "history_match": {
+        "score": 0.175,
+        "date": "2026-10-22",
+        "url": "https://www.rockpapershotgun.com/ai-is-a-technofascist-anti-human-and-anti-art-project-says-creator-of-lefty-tech-satire-future-no-thanks-before-explaining-why-he-used-it-anyway",
+        "title": "\"AI is a technofascist, anti-human and anti-art project\", says creator of lefty tech satire Future? No Thanks!, before explaining why he used it anyway",
+        "band": "related"
+      }
+    },
+    {
+      "title": "\"What if Larian had shut down after Divine Divinity?\": Star Trek Online exec scorns publishers who close teams like BioWare in favour of \"AAA veteran\" start-ups and AI \"magic beans\"",
+      "url": "https://www.rockpapershotgun.com/what-if-larian-had-shut-down-after-divine-divinity-star-trek-online-exec-scorns-publishers-who-close-teams-like-bioware-in-favour-of-aaa-veteran-start-ups-and-ai-magic-beans",
+      "source": "Rock Paper Shotgun",
+      "category": "games",
+      "published_iso": "2026-10-23T10:51:01.592654+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/mass-effect-miranda-loyalty.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Star Trek Online exec producer Thomas Marrone has poured scorn on companies who close maturing teams in favour of \"AAA veteran\" start-ups and \"magic beans\"."
     },
     {
       "title": "\"I want room to make a wrong turn\": Following Samson dev's bankruptcy, its founder is considering how AI might factor into new studio plans",
@@ -171,22 +85,106 @@
       "source": "Rock Paper Shotgun",
       "category": "games",
       "published_iso": "2026-10-21T12:30:00+00:00",
-      "excerpt": "Liquid Swords founder Christofer Sundberg has discussed how he might approach setting up a new studio following the Samson studio's bankruptcy.",
-      "og_image": "https://assetsio.gnwcdn.com/the-maw-samson-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "og_image": "https://assetsio.gnwcdn.com/the-maw-samson-01.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Liquid Swords founder Christofer Sundberg has discussed how he might approach setting up a new studio following the Samson studio's bankruptcy."
     },
     {
-      "title": "Dwarf Fortress creator Tarn Adams is as tired of genAI in the industry as anyone else, and is pretty set on never using it",
-      "url": "https://www.rockpapershotgun.com/dwarf-fortress-creator-tarn-adams-is-as-tired-of-genai-in-the-industry-as-anyone-else-and-is-pretty-set-on-never-using-it",
-      "source": "Rock Paper Shotgun",
+      "title": "Retro gaming is being overrun with AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+      "source": "The Verge",
       "category": "games",
-      "published_iso": "2026-10-13T13:42:44.861048+00:00",
-      "excerpt": "Tarn Adams, developer of Dwarf Fortress, has some strong feelings on genAI and feels very little could make him budge on that.",
-      "og_image": "https://assetsio.gnwcdn.com/Tarn-Adams.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "published_iso": "2026-10-23T12:00:00+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "A rise in AI-powered decomps, recomps, and ports has thrust the community into chaos.",
       "history_match": {
-        "score": 0.27,
+        "score": 0.187,
         "date": "2026-10-14",
-        "url": "https://www.gamesindustry.biz/the-happiest-man-in-gaming-hates-generative-ai",
-        "title": "The happiest man in gaming hates generative AI",
+        "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+        "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Devs Shouldn't Have To Protect Their Games, Valve Should Be Protecting Their Shopfront",
+      "url": "https://aftermath.site/steam-indie-game-ai-clone-copy/",
+      "source": "Aftermath",
+      "category": "games",
+      "published_iso": "2026-10-22T23:39:36.000Z",
+      "og_image": "https://images.unsplash.com/photo-1582642880428-3e2c04ad14ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHZhbHZlfGVufDB8fHx8MTc5MjYxNzYxNXww&ixlib=rb-4.1.0&q=80&w=2000",
+      "excerpt": "Maybe Valve could spend some of those billions it makes on better moderation"
+    },
+    {
+      "title": "SonicFox, Forever A Real One, Pulls Out Of Event That Used Gen AI",
+      "url": "https://aftermath.site/sonicfox-drops-out-nexcon-gen-ai/",
+      "source": "Aftermath",
+      "category": "games",
+      "published_iso": "2026-10-22T22:07:26.000Z",
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/IMG_7145.jpeg",
+      "excerpt": "“I’m a forgiving person. … However there are still consequences to said actions that will prompt me not to attend”"
+    },
+    {
+      "title": "Overwatch's new 'AI slop' Stellar Blade collab has the community split in multiple ways",
+      "url": "https://www.destructoid.com/overwatch-slop-stellar-blade-collab-community-split-multiple-ways/",
+      "source": "Destructoid",
+      "category": "games",
+      "published_iso": "2026-10-23T15:25:11+00:00",
+      "og_image": "https://www.destructoid.com/wp-content/uploads/2026/10/image-2026-10-23T110154.911.jpg",
+      "excerpt": "Overwatch's next skin collab appears to be with Stellar Blade, and players have a lot of commentary on the team-up already."
+    },
+    {
+      "title": "Of Course Pokémon's Been Pulled Into The AI Decompilation Frenzy",
+      "url": "https://kotaku.com/of-course-pokemons-been-pulled-into-the-ai-decompilation-frenzy-2000748316",
+      "source": "Kotaku",
+      "category": "games",
+      "published_iso": "2026-10-21T15:26:56+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/10/pokemon-movie-1-1200x675.jpg",
+      "excerpt": "Gotta vibe-code 'em all"
+    },
+    {
+      "title": "Creative Assembly Finally Addresses The Shogun 2 Remaster Disaster By Pointing Fingers",
+      "url": "https://kotaku.com/total-war-shogun-2-complete-edition-ai-creative-assembly-mataboo-2000749108",
+      "source": "Kotaku",
+      "category": "games",
+      "published_iso": "2026-10-23T16:57:38+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/10/shogun-fingers-1200x675.jpg",
+      "excerpt": "While claiming the buck stops with CA, VP Roger Collum repeatedly levels the blame elsewhere",
+      "history_match": {
+        "score": 0.218,
+        "date": "2026-10-16",
+        "url": "https://kotaku.com/sega-total-war-shogun-2-complete-edition-ai-reviews-pulled-from-sale-2000746339",
+        "title": "Sega's Total War: Shogun 2 Remake Is Such A Disaster It's Being Pulled From Sale",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Nintendo Shigeru Miyamoto says even if gen-AI \"were to eventually handle everything, there will always be a role left\" for human designers",
+      "url": "https://www.eurogamer.net/nintendo-shigeru-miyamoto-gen-ai",
+      "source": "Eurogamer",
+      "category": "games",
+      "published_iso": "2026-10-23T20:12:34.514363+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/miyamoto-pikmin_WgJYOUw.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Super Mario and The Legend of Zelda's legendary designer shared some thoughts on the rise of generative AI in games.",
+      "history_match": {
+        "score": 0.161,
+        "date": "2026-10-15",
+        "url": "https://www.gamesradar.com/games/the-legend-of-zelda/the-legend-of-zelda-links-awakenings-nintendo-switch-remake-now-has-a-pc-port-if-you-can-stomach-an-almost-exclusive-use-of-ai/",
+        "title": "The Legend of Zelda: Link's Awakening's Nintendo Switch remake now has a PC port if you can stomach an \"almost exclusive use of AI\"",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Steam Next Fest 2026 has more than double the number of demos than it did last year, as generative 'AI slop', plagiarism, and discoverability fears rise",
+      "url": "https://www.eurogamer.net/steam-next-fest-2026-over-double",
+      "source": "Eurogamer",
+      "category": "games",
+      "published_iso": "2026-10-19T10:43:26.999889+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/steam-next-fest_myGmpAu.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "The Steam Next Fest Steam page has over 8,000 games tagged for the demo event, set to run between the 19th October and the 26th. Concerns circulate around AI.",
+      "history_match": {
+        "score": 0.34,
+        "date": "2026-10-20",
+        "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+        "title": "Steam Fans Are Begging for a No-AI Filter as Steam Next Fest Is Filled With Slop",
         "band": "related"
       }
     },
@@ -196,49 +194,42 @@
       "source": "Game Developer",
       "category": "games",
       "published_iso": "2026-10-19T17:08:14.000Z",
-      "excerpt": "Digital Sun is narrowing its early testing of ReVamp to its Discord community following fears of generative AI-enabled cloning.",
-      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt9efacbc53c73032f/6ad658566285139835883f4d/revampfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop"
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt9efacbc53c73032f/6ad658566285139835883f4d/revampfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop",
+      "excerpt": "Digital Sun is narrowing its early testing of ReVamp to its Discord community following fears of generative AI-enabled cloning."
     },
     {
-      "title": "Wonder Interactive's Strata uses AI to take Unreal Engine games to browsers using WebAssembly and WebGPU",
-      "url": "https://gamesbeat.com/wonder-interactives-strata-uses-ai-to-take-unreal-engine-games-to-browsers-using-webassembly-and-webgpu/",
-      "source": "GamesBeat",
+      "title": "The developer of an AI-powered driving instruction simulator is spending $1,000 per day just to keep its demo running",
+      "url": "https://www.pcgamer.com/games/sim/the-developer-of-an-ai-powered-driving-instruction-simulator-is-spending-usd1-000-per-month-just-to-keep-its-demo-running/",
+      "source": "PC Gamer",
       "category": "games",
-      "published_iso": "2026-10-22T13:15:00+00:00",
-      "excerpt": "Wonder Interactive has unveiled Strata, an AI-powered dev tool that that can turn Unreal Engine projects into playable browser links using WebAssembly and WebGPU.",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/10/wonder-2.jpg",
+      "published_iso": "2026-10-11T12:31:04Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/mpQFst9ntNsDXtxsubpvs-1920-80.jpg",
+      "excerpt": "Teach My Little Sister How to Drive centres around a costly chatbot."
+    },
+    {
+      "title": "Epic announces game jam where you have to use AI, then walks back the requirement",
+      "url": "https://www.pcgamer.com/software/ai/epic-announces-game-jam-where-you-have-to-use-ai/",
+      "source": "PC Gamer",
+      "category": "games",
+      "published_iso": "2026-10-22T21:39:30Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/kcoLy3wUGtqe8Xvfo3fa5U-1990-80.jpg",
+      "excerpt": "The Unreal Engine and Fortnite company has extended the public a many-fingered invitation.",
       "history_match": {
-        "score": 0.152,
-        "date": "2026-09-30",
-        "url": "https://www.gamesindustry.biz/meta-unveils-ai-powered-game-tools-for-mobile-devices-and-browsers-announces-vr-glasses-with-day-one-unity-support",
-        "title": "Meta unveils AI-powered game tools for mobile devices and browsers; announces VR Glasses with day-one Unity support",
+        "score": 0.201,
+        "date": "2026-10-13",
+        "url": "https://www.gamingonlinux.com/2026/10/flathub-walked-back-their-generative-ai-ban-replaced-with-a-disclosure-policy/",
+        "title": "Flathub walked back their generative AI ban, replaced with a disclosure policy",
         "band": "related"
       }
     },
     {
-      "title": "컴투스플랫폼, GGDC 2026서 '하이브 액실' 소개했다",
-      "url": "https://www.gamemeca.com/view.php?gid=1782201",
-      "source": "게임메카",
+      "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+      "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+      "source": "NVIDIA Blog",
       "category": "games",
-      "published_iso": "2026-10-22T17:37:47+09:00",
-      "excerpt": "컴투스플랫폼 최석원 대표가 GGDC 2026 연사 및 패널로 참여해 AI 기반 게임 개발의 미래를 조명했다. 최 대표는 강연에서 AI 특화 백엔드 플랫폼 하이브 액실이 글로벌 서비스 운영의 효율적인 대안이라고 강조했다. 또한 업계 전문가들과 함께 패널 토론에 참석해 K게임 생태계...",
-      "og_image": "https://cdn.gamemeca.com/gmdata/0001/782/201/gm942299_thumb____GGDC_2026.webp",
-      "history_match": {
-        "score": 0.293,
-        "date": "2026-09-30",
-        "url": "https://www.inven.co.kr/webzine/news/?news=321491",
-        "title": "컴투스플랫폼, 하이브 액실 30일 출시",
-        "band": "related"
-      }
-    },
-    {
-      "title": "AI 역설계 통한 게임 베끼기 극성, 개발 생태계가 무너진다",
-      "url": "https://www.gamemeca.com/view.php?gid=1782071",
-      "source": "게임메카",
-      "category": "games",
-      "published_iso": "2026-10-20T16:41:30+09:00",
-      "excerpt": "생성형 AI 기술의 발전으로 독창적인 인디게임을 무단 도용하는 복제작이 급증하고 있다. 고도화된 AI 역설계를 악용한 카피캣 범죄로 인해 인디게임 개발자들의 생계가 위협받고 있다. 플랫폼의 소극적인 대처와 미비한 법적 제도 속에서 창작자들의 피해가 심화되는 중이다",
-      "og_image": "https://cdn.gamemeca.com/gmdata/0001/782/071/gm343026_st.webp"
+      "published_iso": "2026-10-22T05:00:27+00:00",
+      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026.jpg",
+      "excerpt": "New tools joining NVIDIA Cosmos are helping accelerate data pipelines, train, evaluate and optimize world models more efficiently, and improve accuracy at lower cost."
     },
     {
       "title": "[기획] 격변의 '모딩' 생태계, 울타리 넓히는 게임 산업",
@@ -246,53 +237,49 @@
       "source": "인벤",
       "category": "games",
       "published_iso": "2026-10-22T16:28:26+09:00",
-      "excerpt": "AI 기술 발전으로 게임 모드 시장이 팽창하면서 모드린스는 AI 모드 등록을 제한했고, 넥서스 모드는 AI 활용도에 따른 태그 분류를 도입했다. 게임사들도 대응을 고심 중이다. 라이엇 게임즈는 10월 6일부터 외부 프로그램 접근을 차단했고, 블리자드는 월드 오브 워크래프트 애드온 기능을 제한했다. 반면 스타필드와 발더스 게이트3 등은 공식 모딩 도구를 도입했으며, 2025년 호그와트 레거시, 2026년 스토커2와 심즈4도 지원을 확대한다. Microsoft는 아샤 샤르마 CEO가 언급한 엑스박스 랩스를 통해 게임 재구성을 탐색 중이다. 이제 게임은 잘 만드는 것을 넘어 이용자가 쉽게 바꿀 수 있게 만드는 경쟁력이 중요해졌다.",
-      "og_image": "https://static.inven.co.kr/column/2026/10/22/news/i1816408170.jpg"
+      "og_image": "https://static.inven.co.kr/column/2026/10/22/news/i1816408170.jpg",
+      "excerpt": "AI 기술 발전으로 게임 모드 시장이 팽창하면서 모드린스는 AI 모드 등록을 제한했고, 넥서스 모드는 AI 활용도에 따른 태그 분류를 도입했다. 게임사들도 대응을 고심 중이다. 라이엇 게임즈는 10월 6일부터 외부 프로그램 접근을 차단했고, 블리자드는 월드 오브 워크래프트 애드온 기능을 제한했다. 반면 스타필드와 발더스 게이트3 등은 공식 모딩 도구를 도입했으며, 2025년 호그와트 레거시, 2026년 스토커2와 심즈4도 지원을 확대한다. Microsoft는 아샤 샤르마 CEO가 언급한 엑스박스 랩스를 통해 게임 재구성을 탐색 중이"
+    },
+    {
+      "title": "[심층기획] 모든 게임이 오픈소스되나, AI發 '게임의 해체'",
+      "url": "https://www.inven.co.kr/webzine/news/?news=322278",
+      "source": "인벤",
+      "category": "games",
+      "published_iso": "2026-10-19T15:47:03+09:00",
+      "og_image": "https://static.inven.co.kr/column/2026/10/19/news/i1513279335.jpg",
+      "excerpt": "PS5 부트롬 키 유출과 AI 기술의 결합으로 게임의 플랫폼 제약이 무너지는 '게임의 해체'가 가속화된다. 9월 공개된 탈옥 툴 Relapse는 PS5 보안을 무력화했고, AI 모델 Opus5.5는 디컴파일 속도를 획기적으로 높였다. 10월 9일 등장한 비공식 라이브러리 스토어와 PS3 에뮬레이터 등은 디지털 소유권 논란 속에 게임 이용자의 심리적 저항선을 낮췄다. 게임사들은 코드 무단 복제에 대응 중이나, AI를 활용한 리버스 엔지니어링은 플랫폼 경계를 지우며 게임 산업의 거대한 변화를 예고하고 있다."
+    },
+    {
+      "title": "[기획] 스팀 넥스트 페스트, 그래도 게임은 나온다(한국 게임도",
+      "url": "https://www.inven.co.kr/webzine/news/?news=322404",
+      "source": "인벤",
+      "category": "games",
+      "published_iso": "2026-10-21T22:42:16+09:00",
+      "og_image": "https://static.inven.co.kr/column/2026/10/21/news/i1767879619.jpg",
+      "excerpt": "스팀 넥스트 페스트가 10월 27일 화요일 새벽 2시까지 진행된다. 이번 행사에는 7,200개 이상의 게임이 공개되었으며 AI 기술 활용에 따른 기대와 우려가 공존한다. 그러나 양적 팽창 속에서도 국산 게임을 포함한 우수한 신작들은 여전히 치열하게 경쟁하며 가치를 증명하고 있다. 이번 스넥페 인기작으로는 Haunted Paws, Emberville, Hela: of Mice & Magic, 아키에이지 크로니클 등이 주목받고 있다. 수많은 게임 속에서 팬들의 관심을 사로잡을 참신한 시도와 훌륭한 게임성을 지닌 작품들을 직접 확인해 보"
+    },
+    {
+      "title": "AI 역설계 통한 게임 베끼기 극성, 개발 생태계가 무너진다",
+      "url": "https://www.gamemeca.com/view.php?gid=1782071",
+      "source": "게임메카",
+      "category": "games",
+      "published_iso": "2026-10-20T16:41:30+09:00",
+      "og_image": "https://cdn.gamemeca.com/gmdata/0001/782/071/gm343026_st.webp",
+      "excerpt": "생성형 AI 기술의 발전으로 독창적인 인디게임을 무단 도용하는 복제작이 급증하고 있다. 고도화된 AI 역설계를 악용한 카피캣 범죄로 인해 인디게임 개발자들의 생계가 위협받고 있다. 플랫폼의 소극적인 대처와 미비한 법적 제도 속에서 창작자들의 피해가 심화되는 중이다"
     }
   ],
   "dedup": {
-    "dropped": 3,
-    "kept": 17,
+    "dropped": 4,
+    "kept": 19,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 9,
-    "same_story_pairs": [
-      [
-        "https://www.gamesradar.com/games/epic-wants-to-pay-you-usd50-000-to-vibe-code-an-ai-slop-game/",
-        "https://www.destructoid.com/epic-games-unreal-engine-ai-megajamcash-ai-vibe-coded-games/",
-        0.354
-      ]
-    ]
+    "review": 8,
+    "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-09-23",
-      "title": "로블록스가 프롬프트와 참조 이미지로 플레이 가능한 레이아웃을 뽑는 Scene Generator를 예고했다",
-      "url": "https://about.roblox.com/newsroom/2026/09/rdc-2026-the-world-needs-more-play"
-    },
-    {
-      "date": "2026-09-23",
-      "title": "일본 게임업계에서 생성형 AI 영향이 가장 큰 직무는 배경·소품 아티스트와 보조 프로그래머",
-      "url": "https://automaton-media.com/en/news/background-and-prop-artists-assistant-programmers-cited-as-game-industry-jobs-most-impacted-by-generative-ai-in-japan/"
-    },
-    {
-      "date": "2026-09-23",
-      "title": "코에이 테크모·거스트, 아틀리에 소피 세계관의 LLM 자유 시나리오 RPG SophieChat:AI 발표",
-      "url": "https://automaton-media.com/en/news/ryzachatai-developers-announce-atelier-sophie-ai-chat-rpg/"
-    },
-    {
-      "date": "2026-09-23",
-      "title": "넥슨게임즈 신작 Pareidolia, 기기 안에서 도는 자체 음성인식 AI로 캐릭터를 목소리로 부른다",
-      "url": "https://en.sedaily.com/technology/2026/09/19/ai-takes-center-stage-at-tokyo-game-show-2026"
-    },
-    {
-      "date": "2026-09-23",
-      "title": "이매지네이션, 모바일 GPU 안에서 540p를 1080p로 2.3ms에 올리는 AI 업스케일러 NSR 공개",
-      "url": "https://www.inven.co.kr/webzine/news/?news=321275"
-    },
     {
       "date": "2026-09-24",
       "title": "파이널 판타지 14, 팬 굿즈 허용 범위는 넓히고 생성형 AI 사용은 명시적으로 금지",
@@ -977,6 +964,31 @@
       "date": "2026-10-22",
       "title": "\"AI is a technofascist, anti-human and anti-art project\", says creator of lefty tech satire Future? No Thanks!, before explaining why he used it anyway",
       "url": "https://www.rockpapershotgun.com/ai-is-a-technofascist-anti-human-and-anti-art-project-says-creator-of-lefty-tech-satire-future-no-thanks-before-explaining-why-he-used-it-anyway"
+    },
+    {
+      "date": "2026-10-23",
+      "title": "Wonder Interactive's Strata uses AI to take Unreal Engine games to browsers using WebAssembly and WebGPU",
+      "url": "https://gamesbeat.com/wonder-interactives-strata-uses-ai-to-take-unreal-engine-games-to-browsers-using-webassembly-and-webgpu/"
+    },
+    {
+      "date": "2026-10-23",
+      "title": "Epic wants to pay you $50,000 to vibe code an AI slop game",
+      "url": "https://www.gamesradar.com/games/epic-wants-to-pay-you-usd50-000-to-vibe-code-an-ai-slop-game/"
+    },
+    {
+      "date": "2026-10-23",
+      "title": "\"Someone's getting fired\": Arc Raiders player says Embark used ChatGPT to respond to their complaint and accidentally sent several messages intended for others",
+      "url": "https://www.gamesradar.com/games/third-person-shooter/someones-getting-fired-arc-raiders-player-says-embark-used-chatgpt-to-respond-to-their-complaint-and-accidentally-sent-several-messages-intended-for-others/"
+    },
+    {
+      "date": "2026-10-23",
+      "title": "Machinarium AI tribute cops a flogging from studio: 'This looks disgusting'",
+      "url": "https://www.pcgamer.com/gaming-industry/machinarium-ai-tribute-cops-a-flogging-from-studio-this-looks-disgusting-and-has-nothing-to-do-with-us-or-our-craft/"
+    },
+    {
+      "date": "2026-10-23",
+      "title": "Someone hacked the Switch 2 by using an old game and AI",
+      "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai"
     }
   ]
 }

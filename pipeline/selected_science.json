@@ -1,106 +1,106 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "section": "science",
   "picks": [
     {
-      "url": "https://www.scientificamerican.com/article/the-inside-story-behind-openais-million-dollar-math-proof/",
-      "title": "The inside story behind OpenAI's million-dollar math proof",
-      "source": "Scientific American",
+      "url": "https://www.genengnews.com/topics/artificial-intelligence/nvidia-uw-institute-for-protein-design-unveil-open-source-protein-design-ai-model/",
+      "title": "Nvidia, UW Institute for Protein Design unveil open-source protein design AI model",
+      "source": "GEN",
       "category": "science",
-      "published_iso": "2026-10-22T12:12:00-04:00",
-      "og_image": "https://static.scientificamerican.com/dam/asset/676cb480-a9d0-4bb0-a42f-466e549cfa5c/ink-clash.jpg?m=1792683756.522&w=1200",
-      "excerpt": "AI's solution to the Navier-Stokes problem, and the details of how it happened, preview a chaotic future for mathematics.",
+      "published_iso": "2026-10-22T17:48:12Z",
+      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/10/GettyImages_1402266486_proteins-1024x538-1.jpg",
+      "excerpt": "The UW Institute for Protein Design and Nvidia released RFD4-Proteina, an open generative model that merges RosettaFold Diffusion with Proteina-Complexa; Manchester researchers already used it to design active enzymes for a step in lenacapavir synthesis.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Math slot: the first account in our feed of the AI-produced Navier-Stokes (Millennium Prize) result. It is a different problem from the 10-17 SciAm encryption card, and the biggest AI-for-science story in the pool."
+      "rationale": "Model-release slot: RFD4-Proteina is a new open-source generative protein design model (RFdiffusion plus Proteina-Complexa) that has already produced working enzymes for a chemical synthesis step. It is a different release from the 10-17 molecular-scissors study, and it is not pathogen-related."
     },
     {
-      "url": "https://www.scientificamerican.com/article/new-superconducting-chip-aims-to-help-tame-fusion-plasma/",
-      "title": "New superconducting chip aims to help tame fusion plasma",
-      "source": "Scientific American",
+      "url": "https://phys.org/news/2026-10-whale-ai-ten-click-sequences.html",
+      "title": "How to speak whale: AI uses eight to ten click sequences to predict sperm whales' feeding dives",
+      "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-10-22T07:15:00-04:00",
-      "og_image": "https://static.scientificamerican.com/dam/asset/38a091ea-3dc2-42f4-82ed-e44a03e8b9e4/neuromorphic-Great-Sky-chip-from-BNL-release.jpg?m=1792614243.041&w=1200",
-      "excerpt": "Researchers fed fusion data to a new neuromorphic superconducting chip to test whether it can spot signs that superhot plasma is about to go unstable.",
+      "published_iso": "2026-10-23T14:20:19Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/sperm-whales.jpg",
+      "excerpt": "Project CETI researchers fed sperm whale coda recordings into machine-learning models and found that a run of roughly eight to ten click sequences predicts when a whale is about to begin a deep foraging dive.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "Physics/hardware slot: a neuromorphic superconducting chip was tested on real fusion data to flag plasma instabilities. This is new hardware meeting a hard physics problem."
+      "rationale": "Animal-communication slot: Project CETI finds that 8-10 codas predict a sperm whale's foraging dive, a concrete behavioral result. The 09-24 dog-communication card was a general overview, not this study."
     },
     {
-      "url": "https://physicsworld.com/a/using-ai-agents-to-run-quantum-simulations/",
-      "title": "Using AI agents to run quantum simulations",
-      "source": "Physics World",
+      "url": "https://techxplore.com/news/2026-10-scientists-tech-tools-citation-hallucinations.html",
+      "title": "Computer scientists build tech tools to find experiments, detect citation 'hallucinations'",
+      "source": "Tech Xplore",
       "category": "science",
-      "published_iso": "2026-10-21T09:19:11+00:00",
-      "og_image": "https://physicsworld.com/wp-content/uploads/2026/10/ai-agent-computer-chip-or-software-2217030312-istock-mf3d.jpg",
-      "excerpt": "Researchers developed a multi-agent AI system that converts plain-language research questions into executed, checked and reproducible quantum simulations across several specialist software packages.",
+      "published_iso": "2026-10-23T13:40:17Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/computer-scientists-bu.jpg",
+      "excerpt": "NYU's Dennis Shasha and students describe two web-hosted AI systems in the journal Information: Hallucination Nerd checks whether a paper's claims are supported by its citations, and Protocol Nerd helps scientists find suitable experimental protocols.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "Research-method slot: an academic multi-agent system turns plain-language questions into checked, reproducible quantum simulations across specialist codes. It is a different system from Haiqu's commercial AgenticOS (10-08)."
+      "rationale": "Research-tools slot: NYU released two web tools that researchers can use now, one checking whether citations support a paper's claims and one finding experimental protocols. This is the most actionable item in the pool."
     },
     {
-      "url": "https://techxplore.com/news/2026-10-ai-chatbots-delusions.html",
-      "title": "Researchers find a way to reduce AI chatbots' reinforcement of delusions",
-      "source": "Tech Xplore",
+      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "title": "Beyond tree cover: mapping the world's forest types",
+      "source": "Google DeepMind",
       "category": "science",
-      "published_iso": "2026-10-22T09:40:01-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbots-1.jpg",
-      "excerpt": "Georgia Tech researchers ran 1,280 simulated conversations with eight AI models; anti-sycophancy instructions cut affirmation of delusional beliefs by 73.8%, rising to 77% with a self-reflection step (ACM AI Letters).",
+      "published_iso": "2026-10-22T14:30:00Z",
+      "og_image": "https://lh3.googleusercontent.com/Et3g0tNB_bC00f6cP94Y40QbqshCvf7_fg_gRVfZQoeVSc3Hn9g6jIenf1udZdACY4x-wpY_5tyy_LznFSlu0yhGCqfxKos6QFRRj4lad_hQHOBV8Q=w1200-h630-n-nu-rw",
+      "excerpt": "DeepMind's Forest Typology (ForTy) 2020 is a global 10-meter AI map that separates Earth's land into six forest and land-use types, plus an annual time series.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "AI-behavior slot: a quantified result (1,280 simulated conversations, 8 models) showing that anti-sycophancy prompts cut affirmation of delusions by about 74-77%. It is a model-behavior study, not a clinical one."
+      "rationale": "Earth-observation slot: ForTy is a new global 10-meter dataset that separates natural forest from plantations, with an annual time series. It is a different product from the Earth AI geospatial cards and the 09-30 smallholder crop map."
     },
     {
-      "url": "https://phys.org/news/2026-10-ai-bee-lethal.html",
-      "title": "AI listens to bee buzzes to monitor activity without lethal traps",
-      "source": "Phys.org",
+      "url": "https://thequantuminsider.com/2026/10/23/google-launches-150000-ai-competition-to-reduce-quantum-computing-demands/",
+      "title": "Google launches $150,000 AI competition to reduce quantum computing demands",
+      "source": "The Quantum Insider",
       "category": "science",
-      "published_iso": "2026-10-21T19:40:05-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-microphone-captures.jpg",
-      "excerpt": "UMass Amherst researchers built two deep learning models that analyse field audio to measure bee activity and tell honeybees from bumblebees with 93-97% accuracy, offering an alternative to lethal pan traps.",
+      "published_iso": "2026-10-23T08:12:25Z",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Google-Image.png",
+      "excerpt": "Google Quantum AI launched a $150,000 Kaggle competition for AI methods that design smaller, more efficient quantum circuits for calculations.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "sphere",
-      "rationale": "Ecology slot: audio deep learning tells honeybees from bumblebees with 93-97% accuracy, replacing lethal pan traps. It is unrelated to the 09-28 bee-repellent chemistry card."
+      "rationale": "Quantum slot: Google Quantum AI has opened a $150K Kaggle challenge for AI-designed leaner quantum circuits. It is a separate announcement from Anthropic's Claude circuit work (10-18), and readers can enter it."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.scientificamerican.com/article/the-inside-story-behind-openais-million-dollar-math-proof/": {
+      "https://www.genengnews.com/topics/artificial-intelligence/nvidia-uw-institute-for-protein-design-unveil-open-source-protein-design-ai-model/": {
         "verdict": "new",
-        "nearest": "https://www.scientificamerican.com/article/can-ai-break-encryption-openai-new-math-has-cryptographers-divided/",
+        "nearest": "https://phys.org/news/2026-10-ai-molecular-scissors-protein.html",
         "new_action": ""
       },
-      "https://www.scientificamerican.com/article/new-superconducting-chip-aims-to-help-tame-fusion-plasma/": {
+      "https://phys.org/news/2026-10-whale-ai-ten-click-sequences.html": {
         "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-09-scientists-real-ai-advanced-nuclear.html",
+        "nearest": "https://phys.org/news/2026-09-dog-ai-decode-animal-communication.html",
         "new_action": ""
       },
-      "https://physicsworld.com/a/using-ai-agents-to-run-quantum-simulations/": {
+      "https://techxplore.com/news/2026-10-scientists-tech-tools-citation-hallucinations.html": {
         "verdict": "new",
-        "nearest": "https://thequantuminsider.com/2026/10/07/haiqu-releases-agenticos-to-plan-and-check-quantum-research/",
+        "nearest": "https://research.google/blog/analyzing-technical-documents-with-deep-review/",
         "new_action": ""
       },
-      "https://techxplore.com/news/2026-10-ai-chatbots-delusions.html": {
+      "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/": {
         "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-10-reveals-hidden-agendas-ai-advice.html",
+        "nearest": "https://www.eurekalert.org/news-releases/1145528",
         "new_action": ""
       },
-      "https://phys.org/news/2026-10-ai-bee-lethal.html": {
+      "https://thequantuminsider.com/2026/10/23/google-launches-150000-ai-competition-to-reduce-quantum-computing-demands/": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-09-machine-chemicals-repel-honey-bees.html",
+        "nearest": "https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations/",
         "new_action": ""
       }
     },
-    "note": "Dropped as repeats: Physics World optical deepfake detection (same 97.8% light-based study as ScienceDaily 10-02), ScienceDaily AI-consciousness study (same as Tech Xplore 10-03), ScienceDaily CO2-to-fuel AI reactions (same work as EurekAlert 10-09), Live Science rogue-AI formula (same as Tech Xplore 10-09), Google Research Earth AI geospatial agents (same Earth AI line as 10-07; vendor blog). Held back as uncertain: Quanta quasi-Riemann AI proof, which may be the same running story as the Live Science 10-02 Riemann card (held back since 10-20). Dropped by exclusion or downweighting: PerturbAI+OpenAI (vendor partnership, biomedical drug-target work), SEEQC+NVIDIA (vendor news, close to the Riverlane+NVIDIA card from 10-19), MIT Q&A (book Q&A). Ranked below the picks: Phys.org chatbots political middle ground (would have been a second LLM-behavior card next to the delusions pick), Phys.org polar-vortex ML, Tech Xplore Bayesian hypocrisy (related to 10-10, and 8 days old), Tech Xplore agents' artificial language, Psychology Today children and AI videos (blog). Outlets: Scientific American 2, Physics World 1, Tech Xplore 1, Phys.org 1."
+    "note": "Dropped as repeats: Physics World optical deepfake detection (21 Oct). It reports the same light-based optical-computing study with about 98% (97.8%) accuracy that ScienceDaily ran on 10-02 ('This light-powered AI can spot deepfakes with nearly 98% accuracy'), with no new release. Also dropped: ScienceDaily CO2-to-fuel AI reaction map (same work as EurekAlert 10-09) and Google Research Earth AI geospatial agents (same Earth AI line as 10-07; vendor blog). Held back as uncertain: Quanta quasi-Riemann AI proof, which may continue the Live Science 10-02 Riemann running story (held since 10-20). Downweighted: PerturbAI+OpenAI (vendor partnership, drug-target work closer to medicine), DeepMind Antigravity antimicrobial peptides (9 days old, antimicrobial discovery leans toward medicine), MIT Q&As on Lindquist and Eric So (commentary or book interviews). Ranked below the picks: Phys.org LLM agents political camps (would be another LLM-behavior card after recent ones on 10-21 and 10-23), Tech Xplore Bayesian double standard (related to 10-10, 9 days old), EPFL LogSync neural chip (decodes human brain states, close to the medicine boundary), Phys.org circMAC microRNA (narrow), Science News virtual author (close to the AI-research-assistant cards). No biosecurity or gain-of-function items picked. Outlets: GEN 1, Phys.org 1, Tech Xplore 1, Google DeepMind 1, The Quantum Insider 1."
   }
 }

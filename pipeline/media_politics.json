@@ -1,7 +1,30 @@
-{"date":"2026-10-23","section":"politics","media":[
-{"id":"politics-tse-lula-deepfake-posts","type":"image","src":"pipeline/media/politics-tse-lula-deepfake-posts.jpg"},
-{"id":"politics-germany-nvidia-ai-deal","type":"image","src":"pipeline/media/politics-germany-nvidia-ai-deal.jpg"},
-{"id":"politics-korea-ftc-ai-washing","type":"svg"},
-{"id":"politics-iopc-derbyshire-ai-probe","type":"svg"},
-{"id":"politics-ai-lobbying-records-q3","type":"image","src":"pipeline/media/politics-ai-lobbying-records-q3.jpg"}
-]}
+{
+  "date": "2026-10-24",
+  "section": "politics",
+  "media": [
+    {
+      "id": "politics-brennan-deepfake-test",
+      "type": "image",
+      "src": "pipeline/media/politics-brennan-deepfake-test.jpg"
+    },
+    {
+      "id": "politics-china-eu-ai-alliance",
+      "type": "svg"
+    },
+    {
+      "id": "politics-washington-pac-ai-mailer",
+      "type": "image",
+      "src": "pipeline/media/politics-washington-pac-ai-mailer.jpg"
+    },
+    {
+      "id": "politics-digital-omnibus-council",
+      "type": "image",
+      "src": "pipeline/media/politics-digital-omnibus-council.jpg"
+    },
+    {
+      "id": "politics-meta-terms-delay",
+      "type": "image",
+      "src": "pipeline/media/politics-meta-terms-delay.jpg"
+    }
+  ]
+}

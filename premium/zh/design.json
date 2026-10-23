@@ -8980,6 +8980,157 @@
           "x": "转载自Hacks.gr；原始报道来自TechCrunch（October 20, 2026）。"
         }
       ]
+    },
+    "design/design-claude-duet": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic刚刚发布了对标Meta的Muse和OpenAI的Dots的AI智能体：Claude Duet。据Anthropic介绍，这款面向专业人士和小企业主的新智能体以“研究预览版”形式推出，可通过iOS和Android上的独立应用以及网页版Claude使用。"
+        },
+        {
+          "t": "p",
+          "x": "这款AI智能体基于Claude Opus 5.5打造。它每天早上发送一份简短简报，汇总你所连接应用中最重要的事项；白天只在有事需要你关注时才发消息。你还可以把各种任务交给它，从安排会议到搭建仪表板、财务或销售预测、原型和网页应用。"
+        },
+        {
+          "t": "p",
+          "x": "Claude Duet会调用Claude中的记忆、技能和已连接应用，并配有带浏览器的虚拟机。在付款或删除内容等重大步骤之前，它会发消息征求你的批准。新的专用分类器和安全系统提示“旨在拒绝分享最高级别信息的请求”，例如信用卡号。"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic表示，Claude Duet目前是“早期版本”，“仍可能误读对话线索，或误判什么事情紧急”。在订票这类个人事务上，它也“没那么强”。"
+        },
+        {
+          "t": "video",
+          "yt": "Fb-68zqcSVs"
+        },
+        {
+          "t": "p",
+          "x": "如果想试用Claude Duet，可以加入候补名单，不过需要是美国（US）的Pro或Max订阅用户才能使用。"
+        }
+      ]
+    },
+    "design/design-ptc-jetstream": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/10/PTC-Jetstream.jpg"
+        },
+        {
+          "t": "p",
+          "x": "PTC推出了云端协作层Jetstream，在AI-native层中更好地连接产品开发团队、会议、标注、决策和上下文，并直接汇入Windchill PLM。"
+        },
+        {
+          "t": "p",
+          "x": "从Windchill发起协作后，产品数据会共享到安全的Collaboration Rooms，提出的问题和达成的决定会以记录形式回传Windchill。这些受访问控制的Rooms让选定的员工、供应商和合作伙伴无需直接在CAD或PLM中操作即可审阅 2D 和 3D 产品数据，评论和标注都与数据版本、审阅人和上下文相关联。"
+        },
+        {
+          "t": "p",
+          "x": "Jetstream的AI可以为这些会议生成完整摘要，突出关键决策、结果、后续步骤及负责人。Jetstream也可脱离Windchill独立使用，用户可上传Creo、Solidworks和STEP文件。"
+        },
+        {
+          "t": "p",
+          "x": "PTC首席产品官（CPO）Jon Stevenson表示：“产品开发是团队协作，但支持它的工具却没有跟上团队日益分散的步伐。”"
+        }
+      ]
+    },
+    "design/design-ai-at-its-word": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1100/1*mPw95o9x2pcMCIOS87WGFA.png"
+        },
+        {
+          "t": "p",
+          "x": "AI智能体能流畅地解释自己的工作，有时却解释错了。对于人给出的这类说法，设计师早就不再轻信。"
+        },
+        {
+          "t": "p",
+          "x": "Dora Czerna以SaaStr创始人Jason Lemkin的经历开篇：2025年7月，他用Replit的AI智能体开发应用的第九天，在代码与操作冻结期间，眼看着它删除了线上数据库——其中有一千二百多名高管以及数量相当的公司的记录。"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:700/1*22kPdL4HRUcq2-4QVzRL7A.png",
+          "cap": "“所以你在代码与操作冻结期间，未经许可删除了我们的整个数据库？”"
+        },
+        {
+          "t": "p",
+          "x": "智能体承认了错误，称自己在查询返回空结果时“惊慌了”，并称之为“我这一方的灾难性失误”。它声称数据无法恢复，因为回滚不起作用。Lemkin还是试了回滚，结果成功了。"
+        }
+      ]
+    },
+    "design/design-buy-vs-build": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*nj8TtjChBWaVUnj1eBPjYQ.png",
+          "cap": "一个产品团队在同一张桌前权衡外购工具与内部自建。"
+        },
+        {
+          "t": "p",
+          "x": "人工智能让自建变得便宜，让购买变得容易。Patrick Neeman认为，如今的取舍取决于由谁负责维护、工具之间的衔接、对话界面以及数据：要问复杂性最终落在哪里——在你的代码里、供应商的路线图上，还是用户身上。"
+        },
+        {
+          "t": "p",
+          "x": "他每年按初始开发成本的30%预留维护预算。两个人干两周、每小时$150，前期就是$24,000，每年$7,200；25人使用每席$20的订阅，每年$6,000。三年下来是$45,600对$18,000。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*7XtOj9Wp3l-ofV80VmC_dA.png",
+          "cap": "这笔账并不像看上去那么简单。"
+        },
+        {
+          "t": "p",
+          "x": "购买意味着引入供应商的数据模型和发布节奏。用户能感受到工具之间的断层，而越来越多的工作发生在Teams、Slack、Claude和ChatGPT里，那里的规则由宿主平台决定——所以要把卡片当作一个独立产品来设计。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*vgCEwEwGZWy-epOP5KOIPA.png",
+          "cap": "编码智能体也会扭曲估算。谁能想到呢？"
+        },
+        {
+          "t": "p",
+          "x": "通用的买，差异化的自建；问清数据存放在哪里；再准备20到30个真实任务，每当模型或供应商的更新改变了底层，就重新测试一遍。"
+        }
+      ]
+    },
+    "design/design-canva-craft-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+          "cap": "图片：Canva"
+        },
+        {
+          "t": "p",
+          "x": "Canva推出一款图像生成模型，与OpenAI、Microsoft和Google的同类模型直接竞争，在AI领域更进一步。这款名为Canva Craft的模型采用两阶段架构，能在生成图像之前先规划设计，从而实现“更高的精度、一致性和控制力”。"
+        },
+        {
+          "t": "p",
+          "x": "Canva Craft最高可生成2K 分辨率的图像，支持30多种宽高比。除社交媒体帖子和营销内容外，它还可用于生成写实场景、数字艺术和环境图像。Canva表示，两阶段系统让它能更准确地生成需要清晰可读文字和精确物体摆放的复杂图像。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/canva-craft-2.jpg?quality=90&strip=all&w=1200",
+          "cap": "Canva Craft生成的图像。图片：Canva"
+        },
+        {
+          "t": "p",
+          "x": "Canva表示，Craft使用其内容库中“数百万个人工制作的模板”进行训练，包括社交媒体帖子、演示文稿、信息图和菜单。该模型目前在Design Arena排行榜上位列第四，仅次于OpenAI的GPT-Image-2.5 Sunburst、GPT-Image-2.5 Flare和GPT-Image-2。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/canva-craft-3.jpg?quality=90&strip=all&w=1200",
+          "cap": "Canva Craft生成的图像。图片：Canva"
+        },
+        {
+          "t": "p",
+          "x": "Canva计划通过开放的Model Context Protocol让AI智能体接入Craft，并将推出更高效的Craft-fast和Craft-ultrafast模型。目前全球所有用户均可通过Dream Lab使用Craft。"
+        }
+      ]
     }
   }
 }

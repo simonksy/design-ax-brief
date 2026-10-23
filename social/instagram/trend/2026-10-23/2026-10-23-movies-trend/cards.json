@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "issue": "배우의 얼굴과 목소리, 어디까지",
+    "date": "2026.10.23",
+    "section": "MOVIES",
+    "accent": "#7928ca",
+    "note": "배우의 목소리와 얼굴을 AI가 다루는 선을 두고 노조·AI 기업·스튜디오가 각자 답을 내놨다",
+    "sources": [
+      "https://www.animenewsnetwork.com/interest/2026-10-16/japan-actors-union-develops-guidelines-for-generative-ai-use/.242861",
+      "https://variety.com/2026/tv/global/ai-could-replace-actors-runway-ceo-cristobal-valenzuela-1236916525/",
+      "https://www.indiewire.com/news/events/hunger-games-sunrise-on-the-reaping-used-ai-adr-1235223271/",
+      "https://www.awn.com/vfxworld/nothing-hides-cinema-screen-jo-plaete-talks-brahma-ais-emmy-winning-face-replacement-tech"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 영화 · 10.21~10.23",
+      "thread": [
+        {
+          "d": "10.21",
+          "t": "JAU 지침",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.21",
+          "t": "Runway",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.23",
+          "t": "AI ADR",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.23",
+          "t": "얼굴 교체",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        }
+      ],
+      "thread_note": "배우의 목소리와 얼굴을 AI가 다루는 선을 두고 노조·AI 기업·스튜디오가 각자 답을 내놨다",
+      "eyebrow": "흐름 · 영화",
+      "headline": "배우를 대신할까, 거들까",
+      "body": "한 건씩은 지침·발언·현장 사례지만, 이어 보면 같은 질문이다. 배우의 목소리와 얼굴을 AI가 어디까지 다뤄도 되는가.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.21",
+      "headline": "일본 배우노조의 AI 지침",
+      "body": "JAU가 21쪽, 22개 조항의 음성 작업 생성형 AI 지침을 냈다. 성우들은 동의 없는 음성 사용을 호소했다.",
+      "foot": "2026.10.21",
+      "_src": "https://www.animenewsnetwork.com/interest/2026-10-16/japan-actors-union-develops-guidelines-for-generative-ai-use/.242861",
+      "_id": "movies-japan-actors-union-ai-rules",
+      "media": "pipeline/media/movies-japan-actors-union-ai-rules.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.21",
+      "headline": "“AI가 배우를 대체할 수 있다”",
+      "body": "Runway co-CEO Cristóbal Valenzuela는 “네, 당연하죠. 어떤 면에서는 이미 일어나고 있다”고 답했다.",
+      "foot": "2026.10.21",
+      "_src": "https://variety.com/2026/tv/global/ai-could-replace-actors-runway-ceo-cristobal-valenzuela-1236916525/",
+      "_id": "movies-runway-ceo-ai-actors-view",
+      "media": "pipeline/media/movies-runway-ceo-ai-actors-view.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.23",
+      "headline": "AI 음성은 시험까지만",
+      "body": "Hunger Games 신작은 AI 음성으로 새 대사를 시험했고, 실제 녹음은 배우들이 ADR로 직접 했다.",
+      "foot": "2026.10.23",
+      "_src": "https://www.indiewire.com/news/events/hunger-games-sunrise-on-the-reaping-used-ai-adr-1235223271/",
+      "_id": "movies-hunger-games-ai-adr",
+      "media": "pipeline/media/movies-hunger-games-ai-adr.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.23",
+      "headline": "연기를 지키는 얼굴 교체",
+      "body": "에미상을 받은 Brahma AI 등의 기술은 마커 없이 배우의 얼굴 연기를 읽어 다른 인물로 다시 합성한다.",
+      "foot": "2026.10.23",
+      "_src": "https://www.awn.com/vfxworld/nothing-hides-cinema-screen-jo-plaete-talks-brahma-ais-emmy-winning-face-replacement-tech",
+      "_id": "movies-brahma-ai-face-replacement",
+      "video": "pipeline/media/movies-brahma-ai-face-replacement.mp4"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

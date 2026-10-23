@@ -3468,6 +3468,145 @@
           "x": "布朗表示：“选民有权知道他们看到和听到的竞选内容是真实的。”该法案目前仅处于提出阶段，尚未付诸表决。"
         }
       ]
+    },
+    "politics/politics-china-eu-ai-alliance": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.rapporteur.com/content/uploads/2026/10/GettyImages-2220455774-1183x788.jpg",
+          "cap": "Cheng Xin via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Rapporteur获悉，在欧盟（EU）执行机构近日向欧盟各国政府通报北京的提议后，中国向欧盟委员会提出，邀请其加入中国的国际AI联盟。"
+        },
+        {
+          "t": "p",
+          "x": "今年夏天，中国成立了旨在推动AI国际合作的世界人工智能合作组织（WAICO）。据报道，首批另有28个国家加入，包括俄罗斯、印度尼西亚和哈萨克斯坦。据三名了解谈判情况的外交官称，欧盟委员会于周二向各国专家通报了北京的提议。"
+        },
+        {
+          "t": "p",
+          "x": "Rapporteur寻求证实时，欧盟委员会未予置评，也未说明是否已回复该提议。中国驻欧盟使团未作回应。据报道，目前没有EU国家加入WAICO；德国数字部8月曾表示无意加入。"
+        },
+        {
+          "t": "p",
+          "x": "美国（US）去年底成立了自己的国际科技组织Pax Silica，官方目的是保障全球AI供应链安全。欧盟委员会今年夏天代表整个欧盟签署加入。8月，Reuters报道称，美国政府（Washington）准备警告Pax Silica中AI机遇部分的签署方，不能同时加入WAICO。"
+        }
+      ]
+    },
+    "politics/politics-washington-pac-ai-mailer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/Vo2eMXhxWEvj2QrQQgILjpQl52s=/0x0:1920x1080/1366x768/2026/10/22/1792696811856.jpeg",
+          "cap": "一封停止侵权函（cease-and-desist letter）中引用的华盛顿州第42立法选区邮寄广告截图。来源：Washington Senate Democratic Campaign的信函"
+        },
+        {
+          "t": "p",
+          "x": "华盛顿州参议院民主党人指责一个共和党支持的政治行动委员会（PAC）在竞选广告中使用AI，却未按法律要求进行披露。这是对一项2023年州法的早期检验，该法允许候选人就“合成”媒体提起诉讼。"
+        },
+        {
+          "t": "p",
+          "x": "Washington Senate Democratic Campaign于10月8日向与州参议院共和党人有关联的PAC——WA Wins发出停止侵权函，起因是一份邮寄广告：画面中，民主党州参议员候选人Michael Shepard拿着点燃的火柴凑近一个人的后裤袋，钞票正从中散落。民主党律师称，Shepard的照片被插入了一个捏造的场景；信中称，该邮寄广告并未披露图像经过处理。"
+        },
+        {
+          "t": "p",
+          "x": "WA Wins登记负责人、州参议员Chris Gildon（R-Puyallup）对Axios表示，这则广告是“每个选举周期双方都会使用的那种标准竞选邮件”。Gildon说：“地球上没有人会相信Michael Shepard真的在点燃别人的裤子。”"
+        },
+        {
+          "t": "p",
+          "x": "根据该法，候选人要胜诉，必须以清晰且令人信服的证据证明，相关材料逼真地描绘了未曾发生的事情；而清晰的披露可为广告方提供积极抗辩。Wesleyan Media Project发现，截至10月11日，全美已有1.37亿美元（$137 million）花在220则AI生成（AI-generated）广告上，大部分来自共和党人。"
+        }
+      ]
+    },
+    "politics/politics-digital-omnibus-council": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt3b5d46d26617b19a/6ada3b30f48de12fbed8c4fd/eu-flags-below-eu-062325.jpg"
+        },
+        {
+          "t": "p",
+          "x": "欧盟理事会爱尔兰轮值主席国宣布，EU成员国已就拟议中的Digital Omnibus谈判立场达成一致。该提案旨在修订并简化EU的数字规则体系，涵盖GDPR、ePrivacy指令等。"
+        },
+        {
+          "t": "p",
+          "x": "理事会同意保留GDPR现有的个人数据定义，坚持反对欧盟委员会修改第4(1)条的提案，并引入了一项阐明假名化标准的修正案。其授权还包括针对敏感数据的新保障措施，以允许将其用于生物识别验证和AI模型训练，并在AI训练数据方面加入\"对处理个人数据合法依据的澄清\"。"
+        },
+        {
+          "t": "p",
+          "x": "在Cookie方面，授权列出了无需征得同意的情形，包括\"为提供服务所必需、用于受众测量目的或为确保用户设备安全\"的情况。在事件报告方面，它倾向于采用各国门户，而非欧盟委员会提议的单一欧盟层面（EU-level）入口。"
+        },
+        {
+          "t": "p",
+          "x": "欧盟委员会于2025年11月首次公布该综合法案。一旦欧洲议会就其谈判立场达成共识，各机构即可进入三方谈判。"
+        }
+      ]
+    },
+    "politics/politics-meta-terms-delay": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951350/STK043_VRG_Illo_N_Barclay_6_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Meta正推迟执行其新的商业条款。此前据Fast Company报道，出版商担心这些条款可能允许该公司为AI训练抓取新闻网站。Meta发言人Daniel Roberts在给The Verge的声明中表示，条款将于11月20日生效，“以便有更多时间向合作伙伴和利益相关方解释哪些会改变、哪些不会改变”。"
+        },
+        {
+          "t": "p",
+          "x": "这些商业条款原定于10月30日生效，似乎允许Meta自由抓取使用其平台的网站，并将相关材料用于AI训练。尽管Meta更新了条款，删除了有关“训练”其产品的表述，但法律专家认为，这一改动不足以排除这种可能。"
+        },
+        {
+          "t": "p",
+          "x": "News/Media Alliance周四致信Meta CEO Mark Zuckerberg，要求公司修改商业条款，担心其会对出版商造成“严重伤害”。欧盟和UK的数字广告商与出版商也敦促监管机构迫使Meta叫停新条款。"
+        },
+        {
+          "t": "p",
+          "x": "面对这一反弹，Meta目前已全面推迟新条款。Roberts表示，推迟将让Meta有更多时间说明“Meta如何使用网络爬虫，以及内容所有者仍可使用robots.txt表达偏好这一事实”。robots.txt是告知爬虫能否抓取某一网站的文件。"
+        }
+      ]
+    },
+    "politics/politics-tse-lula-deepfake-posts": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imagens.ebc.com.br/zM4JZGHb4z0OCzLLGrDWp2B-700=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/17/tse_lanca_campanha_para_estimular_participacao_da_populacao_nas_eleicoes02.jpg?itok=IYvVdg7J",
+          "cap": "© Luiz Roberto/TSE"
+        },
+        {
+          "t": "p",
+          "x": "高等选举法院(TSE)院长Kassio Nunes Marques大法官于本周三(21日)下令停止20条针对寻求连任的候选人Luiz Inácio Lula da Silva(PT)的违法社交媒体帖文。"
+        },
+        {
+          "t": "p",
+          "x": "他批准了Lula竞选团队的请求。该团队称,支持候选人Flávio Bolsonaro(PL)的议员有组织地传播deepfake,即为损害候选人而制作的人工内容。"
+        },
+        {
+          "t": "p",
+          "x": "该决定涉及Flávio以及联邦众议员Gustavo Gayer(PL-GO)、Mario Frias(PL-SP)和Gilvan da Federal(PL-ES)的帖文。上述人员均被禁止再次转发相关信息。"
+        },
+        {
+          "t": "p",
+          "x": "诉状列举了32个社交媒体账号发布的违规帖文,这些账号的粉丝数以百万计为1.4,帖文共23.8千条。"
+        },
+        {
+          "t": "p",
+          "x": "Lula竞选团队在要求删除帖文时表示,匿名帖文营造出Lula普遍遭到排斥的印象,而这与事实不符。"
+        },
+        {
+          "t": "p",
+          "x": "竞选期间滥用人工智能的问题已在TSE引发讨论。上周,该法院禁止Meta限制涉及候选人Lula和Flávio的帖文分发。"
+        },
+        {
+          "t": "p",
+          "x": "该裁决源于Lula竞选团队向TSE反映,人工智能图像生成指令无法生成有关这位寻求连任候选人的内容。然而,有关候选人Flávio Bolsonaro的图像却可以生成。"
+        },
+        {
+          "t": "p",
+          "x": "根据TSE的裁决,Meta旗下平台之一Facebook须避免采取降低分发、排除推荐和限制搜索等措施。"
+        }
+      ]
     }
   }
 }

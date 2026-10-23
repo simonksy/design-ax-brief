@@ -8273,6 +8273,155 @@
           "x": "クラフトンのイ・ガンウクCAIOは「性能を高めつつコスト負担を抑えた、コストパフォーマンスに優れた大規模言語モデルで、さまざまな産業現場でAI活用の幅を広げていく」と述べた。クラフトンは4月にAIモデルブランド「ラオン」を立ち上げ、ラオン・スピーチなど4種のモデルをオープンソースで公開している。"
         }
       ]
+    },
+    "games/games-miyamoto-genai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/miyamoto-pikmin_WgJYOUw.jpg?width=1200&quality=85&format=jpg&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "来月、ビデオゲーム開発者として初めて日本(Japan)の文化勲章(Order of Culture)を受章するShigeru Miyamotoが、受章の記者会見でgen-AIについての考えを語った。発言はVGCが翻訳した。"
+        },
+        {
+          "t": "p",
+          "x": "彼は道具が「タイプライターからワープロへ移った」時代を振り返り、技術がより多くの「労働」を担うことで、デザイナーの真の力が「ようやく前面に出てきた」と述べた。「創作という行為は本質的に満足をもたらすが、危険もある。労働そのものに満足し、質の高い(high-quality)作品ができたと思い込んでしまうことだ」と語った。"
+        },
+        {
+          "t": "p",
+          "x": "「このプロセスは個人の意図に依拠し、コンピューターは労働の補助役を務める。だから技術が進化し続けても、たとえAIがいずれすべてを担うことになっても、私たちが果たすべき役割は常に残ると考えている」"
+        },
+        {
+          "t": "p",
+          "x": "Masahiro Sakuraiはより悲観的で、gen-AIが独創性も収益性もないゲームの急増につながりかねないと語った。Nintendoはgen-AIツールを排除しておらず、Square EnixのCEOであるTakashi Kiryuは同社が「AIの活用に積極的になる」と述べている。"
+        }
+      ]
+    },
+    "games/games-sweeney-steam-labels": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7M3WodRrErU8qfasfyuLrW-2560-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Epic GamesのCEOであるTim Sweeneyは、Steamで販売されるゲームにAI使用の開示を義務づけ続けるValveを批判し、この方針を「忌まわしい」と呼んだ。「開発者に政治的声明を書かせ、彼らが組織化に手を貸しているヘイトの群衆にそれを開発者攻撃の材料として使わせるのは忌まわしい」とSweeneyは言う。"
+        },
+        {
+          "t": "p",
+          "x": "SteamのAI開示は、生成AIを使った開発者にその使い方を明記するよう求めている。Call of Duty: Modern Warfare 4の開示には「私たちのチームは一部のゲーム内アセットの開発に生成AIツールを活用している」とある。"
+        },
+        {
+          "t": "p",
+          "x": "Sweeneyは早くも2025年11月の時点で、「今後のほぼすべての制作にAIが関わる」世界においてValveのやり方は無意味だと述べていた。6月には、この開示を「Scarlet Letter(緋文字)」になぞらえた。"
+        },
+        {
+          "t": "p",
+          "x": "今回のメッセージは「生成メディアクラウド」FalのMatt Workmanへの返信で、Workmanは「2026年にAI Generated Content Disclosureという前提はABSURDだ」と主張していた。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/eZKmPGBhfcyu2zDqCWYzU9.jpeg",
+          "cap": "画像提供：Epic Games"
+        },
+        {
+          "t": "p",
+          "x": "先週、Epicは刷新したPCストアについて「Epic Games Launcherはバイブコーディング(vibe coded)で作った」と述べた。"
+        }
+      ]
+    },
+    "games/games-future-refunds": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/futurenothanks-pickup-line.jpg?width=1200&quality=85&format=jpg&auto=webp",
+          "cap": "画像提供：Molleindustria"
+        },
+        {
+          "t": "p",
+          "x": "Future? No Thanks!はアップデートで一部のAI生成(AI-generated)音声を削除した。リード開発者のPaolo「Molleindustria」Pederciniが、この技術を使っていたことを遅れて明かしたためだ。彼は「まだ裏切られたと感じている」人にPayPalかVenmoで返金するという。"
+        },
+        {
+          "t": "p",
+          "x": "アップデートでは、ロボットキャラクターに使われたtext-to-speechの音声を二か所削除した。自動トイレと、美容院の自動翻訳機だ。「私の考えでは、ゲームは悪くなった。でも、まあ0.001%くらいだ」と彼は言う。"
+        },
+        {
+          "t": "p",
+          "x": "Pedercini は「壊れたシェーダーの修正など、いくつかはchatGPTに頼んだ」と書き、「あらゆる生成AIに反対すると公に表明していないスタジオは、何らかの形でコーディングに使っていると考えたほうがいい」と付け加えた。"
+        },
+        {
+          "t": "p",
+          "x": "彼は生成AIを使わないと宣言した開発者のリストを共有した。次回作は「完全に手書きのコード(hand-coded)」になるという。"
+        }
+      ]
+    },
+    "games/games-sonicfox-nexcon": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/IMG_7145.jpeg",
+          "cap": "The Game Awards / YouTube"
+        },
+        {
+          "t": "p",
+          "x": "格闘ゲームの名手Dominique「SonicFox」McLeanは、来月Oklahomaで開かれるゲームイベントNexconに特別ゲストとして出演する予定だった。だがNexconが宣伝にAIアートを使っていたことを知り、すぐに出演を取りやめた。"
+        },
+        {
+          "t": "p",
+          "x": "「Nexconを誰が仕切っているのか知らないが、自分の姿をAIで生成(AI generated)されるのは断固拒否する。特別ゲストとして参加する気は0になった」とMcLeanはTwitterに書いた。「本当に失礼だ」。同じ日、契約を解除し、もう参加しないと付け加えた。"
+        },
+        {
+          "t": "p",
+          "x": "Nexconを主催するNinjutsu EntertainmentのTy BaileyはMcLeanへの謝罪動画を投稿した。人間のアーティストに払う資金が尽きたためにやむなくAIに頼ったとNinjutsuの事情を説明し、SonicFoxに再考を懇願した。"
+        },
+        {
+          "t": "p",
+          "x": "McLeanは譲らなかった。「私は許す人間だし、あなたの声から後悔が伝わるので許す。でも、その行動にはやはり結果が伴い、だから参加しない。契約で私に提示したお金でアーティストを雇ってほしい。そうすれば来年は考え直すかもしれない」"
+        },
+        {
+          "t": "p",
+          "x": "「すべてがうまくいき、意欲あるアーティストや才能ある人たちとコミュニティを築き、AIを一切なくせば、来年はもっと前向きになれるかもしれない」と続けた。"
+        }
+      ]
+    },
+    "games/games-strata-unreal-browser": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/wonder-2.jpg",
+          "cap": "Wonder Interactiveは、Unrealのゲームを手軽にWebへ持ち込めるようにしている。"
+        },
+        {
+          "t": "p",
+          "x": "Wonder Interactiveは、AI-poweredの開発ツール「Strata」を発表した。WebAssemblyとWebGPUを使い、Unreal Engineのプロジェクトをブラウザでプレイできるリンクに変換する。処理は自然言語のプロンプトひとつで開始できる。"
+        },
+        {
+          "t": "p",
+          "x": "共同創業者でCOOのAlex St. Louisによれば、スタジオやパブリッシャーは従来のゲームクライアントなしに、Webリンクを通じてプレイ可能なデモを配布し、外部プレイテストを実施し、新たな層に届けられるようになる可能性がある。「Tim Sweeneyは正しい。AIはゲーム開発の未来だ」と彼は語った。"
+        },
+        {
+          "t": "video",
+          "yt": "qo1h9SK-kVA"
+        },
+        {
+          "t": "p",
+          "x": "StrataはMCP経由で動作する。開発者はUnrealプロジェクトを開いた状態で、Claude Code、Codex、Cursorなど任意のAI IDEにプロンプトをひとつ貼り付けるだけだ。エージェントがWonderのブラウザ対応Unrealランタイム向けにプロジェクトをビルドし、実際のGPUで検証してプレイ用リンクを返す。CLIでの利用も可能だ。"
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/wonder-1024x457.jpg",
+          "cap": "Wonder InteractiveはUnrealのゲームをWebへ持ち込もうとしている。"
+        },
+        {
+          "t": "p",
+          "x": "同社によると、EpicのCity Sampleをブラウザで動かしており、プレイヤーはデータの約3%をダウンロードするだけで歩き回り始められる。WebGPUレンダラーはLumenとNaniteを完全にサポートしている。"
+        },
+        {
+          "t": "p",
+          "x": "長期的には、エージェントがゲームを修正し、ビルドをデプロイし、ブラウザでプレイテストし、パフォーマンスを最適化するループを繰り返せるようになる可能性がある。St. Louisは「Web版Steam」のようなマーケットプレイスを示唆した。"
+        }
+      ]
     }
   }
 }

@@ -1,108 +1,107 @@
 {
-  "date": "2026-10-23",
   "section": "games",
-  "generated_by": "curator",
+  "date": "2026-10-24",
   "selection_mode": "curator (user deferred)",
   "picks": [
     {
       "rank": 1,
+      "title": "Digital Sun delays ReVamp playtest over AI cloning concerns",
+      "url": "https://www.gamedeveloper.com/programming/moonlighter-developer-delays-public-playtest-of-next-game-over-concerns-of-ai-cloning",
+      "source": "Game Developer",
+      "published_iso": "2026-10-19T17:08:14.000Z",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt9efacbc53c73032f/6ad658566285139835883f4d/revampfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop",
+      "excerpt": "Digital Sun is narrowing its early testing of ReVamp to its Discord community following fears of generative AI-enabled cloning.",
       "tool": "Games",
       "category": "games",
       "accent": "#7928ca",
       "motif": "cube",
-      "title": "Wonder Interactive's Strata uses AI to take Unreal Engine games to browsers using WebAssembly and WebGPU",
-      "url": "https://gamesbeat.com/wonder-interactives-strata-uses-ai-to-take-unreal-engine-games-to-browsers-using-webassembly-and-webgpu/",
-      "source": "GamesBeat",
-      "published_iso": "2026-10-22T13:15:00+00:00",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/10/wonder-2.jpg",
-      "excerpt": "Wonder Interactive has unveiled Strata, an AI-powered dev tool that that can turn Unreal Engine projects into playable browser links using WebAssembly and WebGPU.",
-      "rationale": "New dev tool release: AI-assisted pipeline that turns Unreal Engine projects into shareable browser builds via WebAssembly/WebGPU — directly actionable for devs."
+      "rationale": "The Moonlighter studio is restricting its playtest because of AI cloning fears, a concrete change to how teams show unreleased builds, reported by a trade outlet."
     },
     {
       "rank": 2,
+      "title": "Nintendo Shigeru Miyamoto says even if gen-AI \"were to eventually handle everything, there will always be a role left\" for human designers",
+      "url": "https://www.eurogamer.net/nintendo-shigeru-miyamoto-gen-ai",
+      "source": "Eurogamer",
+      "published_iso": "2026-10-23T20:12:34.514363+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/miyamoto-pikmin_WgJYOUw.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Super Mario and The Legend of Zelda's legendary designer shared some thoughts on the rise of generative AI in games.",
       "tool": "Games",
       "category": "games",
       "accent": "#0070f3",
       "motif": "cube",
-      "title": "Epic wants to pay you $50,000 to vibe code an AI slop game",
-      "url": "https://www.gamesradar.com/games/epic-wants-to-pay-you-usd50-000-to-vibe-code-an-ai-slop-game/",
-      "source": "GamesRadar+",
-      "published_iso": "2026-10-22T21:09:38Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/7M3WodRrErU8qfasfyuLrW-2560-80.jpg",
-      "excerpt": "Epic Games' Unreal Engine AI MegaJam promises up to $50,000 in prizes for games built with AI tools ('Vibe your way to 50K'), drawing backlash over Epic's AI-first push.",
-      "rationale": "New announcement: Epic launches the Unreal Engine AI MegaJam with up to $50K in prizes for AI-built games — a concrete program, not more commentary on the AI-first memo."
+      "rationale": "Nintendo's best-known designer gives his first on-record view of gen AI and the human designer's role. This is new, and no Nintendo-leadership AI statement appears in 30-day history."
     },
     {
       "rank": 3,
+      "title": "Still mad at Valve for Steam's AI disclosures, Epic Games boss criticizes \"forcing developers to write a political statement to be used against them by the hate mob\"",
+      "url": "https://www.gamesradar.com/games/still-mad-at-valve-for-steams-ai-disclosures-epic-games-boss-criticizes-forcing-developers-to-write-a-political-statement-to-be-used-against-them-by-the-hate-mob/",
+      "source": "GamesRadar+",
+      "published_iso": "2026-10-23T20:59:21Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/7M3WodRrErU8qfasfyuLrW-2560-80.jpg",
+      "excerpt": "Epic Games CEO Tim Sweeney again criticizes Steam's AI disclosure labels, saying Valve is forcing developers to write a political statement that the hate mob uses against them.",
       "tool": "Games",
       "category": "games",
       "accent": "#f5a623",
       "motif": "cube",
-      "title": "Someone hacked the Switch 2 by using an old game and AI",
-      "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
-      "source": "The Verge",
-      "published_iso": "2026-10-22T17:21:31+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-10.19.11-AM.png?quality=90&strip=all&crop=1.7484243697479%2C0%2C96.503151260504%2C100&w=1200",
-      "excerpt": "The Nintendo Switch 2 has apparently been jailbroken by a modder who used OpenAI tools and the $25 SmileBASIC 4 eShop app, already showing a custom Mario Kart World with new playable characters.",
-      "rationale": "New event: an AI-assisted Switch 2 jailbreak via a $25 eShop app — a first for AI-driven console exploitation with platform-security implications."
+      "rationale": "The two biggest PC storefront owners disagree over Steam's AI disclosure labels, which every developer shipping with AI has to fill in. This is a new statement on store policy, not a repeat of the Epic launcher or AI-first stories."
     },
     {
       "rank": 4,
-      "tool": "Games",
-      "category": "games",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "title": "Machinarium AI tribute cops a flogging from studio: 'This looks disgusting'",
-      "url": "https://www.pcgamer.com/gaming-industry/machinarium-ai-tribute-cops-a-flogging-from-studio-this-looks-disgusting-and-has-nothing-to-do-with-us-or-our-craft/",
-      "source": "PC Gamer",
-      "published_iso": "2026-10-21T22:26:41Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/QovyvgnTDavqyf4mSEdhu6-1920-80.jpg",
-      "excerpt": "Amanita Design condemned an AI-generated 'tribute' to Machinarium posted by the CEO of AI storytelling company Nura Studios, saying it 'looks disgusting and has nothing to do with us or our craft'.",
-      "rationale": "New incident: Amanita Design publicly disowns an AI-generated Machinarium 'tribute' by an AI studio CEO — art-style appropriation, relevant to artists and IP holders."
-    },
-    {
-      "rank": 5,
+      "title": "Future? No Thanks! dev removes AI-generated voices from game and offers refunds to players who feel \"betrayed\"",
+      "url": "https://www.rockpapershotgun.com/future-no-thanks-dev-removes-ai-generated-voices-from-game-and-offers-refunds-to-players-who-feel-betrayed",
+      "source": "Rock Paper Shotgun",
+      "published_iso": "2026-10-23T17:26:32.692587+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/futurenothanks-pickup-line.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Open world ecosatire Future? No Thanks! has been updated to replace some genAI voices, with developer Molleindustria also offering refunds to upset players.",
       "tool": "Games",
       "category": "games",
       "accent": "#eb367f",
       "motif": "cube",
-      "title": "\"Someone's getting fired\": Arc Raiders player says Embark used ChatGPT to respond to their complaint and accidentally sent several messages intended for others",
-      "url": "https://www.gamesradar.com/games/third-person-shooter/someones-getting-fired-arc-raiders-player-says-embark-used-chatgpt-to-respond-to-their-complaint-and-accidentally-sent-several-messages-intended-for-others/",
-      "source": "GamesRadar+",
-      "published_iso": "2026-10-22T15:36:48Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/rNhJaVUEevSjNDA7SxKetK-1920-80.jpg",
-      "excerpt": "An Arc Raiders player says Embark Studios support used ChatGPT to answer their complaint, accidentally pasting a chain of about 10 prompt-and-response exchanges including messages meant for other players.",
-      "rationale": "New incident: Embark's player support pasted a ChatGPT prompt chain including other players' messages — a cautionary case for AI in live-ops customer support."
+      "rationale": "This is a follow-up with a new event: the developer shipped a patch that replaces the gen-AI voices and offered refunds, so it shows what AI backlash actually costs a studio."
+    },
+    {
+      "rank": 5,
+      "title": "SonicFox, Forever A Real One, Pulls Out Of Event That Used Gen AI",
+      "url": "https://aftermath.site/sonicfox-drops-out-nexcon-gen-ai/",
+      "source": "Aftermath",
+      "published_iso": "2026-10-22T22:07:26.000Z",
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/IMG_7145.jpeg",
+      "excerpt": "“I’m a forgiving person. … However there are still consequences to said actions that will prompt me not to attend”",
+      "tool": "Games",
+      "category": "games",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "rationale": "A top fighting-game pro withdrew from NexCon because the event used gen AI. Event organizers are now paying a concrete cost for AI-made promo material. Gen AI is the core of the story, NexCon has no history entry, and it adds a fifth distinct outlet."
     }
   ],
   "dedup": {
     "checks": {
-      "https://gamesbeat.com/wonder-interactives-strata-uses-ai-to-take-unreal-engine-games-to-browsers-using-webassembly-and-webgpu/": {
+      "https://www.gamedeveloper.com/programming/moonlighter-developer-delays-public-playtest-of-next-game-over-concerns-of-ai-cloning": {
         "verdict": "new",
-        "nearest": "https://www.gamesindustry.biz/meta-unveils-ai-powered-game-tools-for-mobile-devices-and-browsers-announces-vr-glasses-with-day-one-unity-support",
+        "nearest": "https://kotaku.com/anime-gambling-horror-game-ditches-free-steam-demo-over-fears-of-getting-ripped-off-by-ai-2000746794",
         "new_action": ""
       },
-      "https://www.gamesradar.com/games/epic-wants-to-pay-you-usd50-000-to-vibe-code-an-ai-slop-game/": {
+      "https://www.eurogamer.net/nintendo-shigeru-miyamoto-gen-ai": {
+        "verdict": "new",
+        "nearest": "https://www.gamesradar.com/games/the-legend-of-zelda/the-legend-of-zelda-links-awakenings-nintendo-switch-remake-now-has-a-pc-port-if-you-can-stomach-an-almost-exclusive-use-of-ai/",
+        "new_action": ""
+      },
+      "https://www.gamesradar.com/games/still-mad-at-valve-for-steams-ai-disclosures-epic-games-boss-criticizes-forcing-developers-to-write-a-political-statement-to-be-used-against-them-by-the-hate-mob/": {
         "verdict": "new",
         "nearest": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
         "new_action": ""
       },
-      "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai": {
-        "verdict": "new",
-        "nearest": "",
-        "new_action": ""
+      "https://www.rockpapershotgun.com/future-no-thanks-dev-removes-ai-generated-voices-from-game-and-offers-refunds-to-players-who-feel-betrayed": {
+        "verdict": "follow-up",
+        "nearest": "https://www.rockpapershotgun.com/ai-is-a-technofascist-anti-human-and-anti-art-project-says-creator-of-lefty-tech-satire-future-no-thanks-before-explaining-why-he-used-it-anyway",
+        "new_action": "Molleindustria shipped a game update replacing the gen-AI voices and opened refunds for upset players. The 10-22 card covered only the creator's statement on why he used AI."
       },
-      "https://www.pcgamer.com/gaming-industry/machinarium-ai-tribute-cops-a-flogging-from-studio-this-looks-disgusting-and-has-nothing-to-do-with-us-or-our-craft/": {
+      "https://aftermath.site/sonicfox-drops-out-nexcon-gen-ai/": {
         "verdict": "new",
-        "nearest": "",
-        "new_action": ""
-      },
-      "https://www.gamesradar.com/games/third-person-shooter/someones-getting-fired-arc-raiders-player-says-embark-used-chatgpt-to-respond-to-their-complaint-and-accidentally-sent-several-messages-intended-for-others/": {
-        "verdict": "new",
-        "nearest": "https://www.polygon.com/arc-raiders-frozen-trail-bully-machine-learning/",
+        "nearest": "https://kotaku.com/uks-largest-tabletop-convention-bans-ai-with-few-exceptions-2000737334",
         "new_action": ""
       }
     },
-    "note": "Pool 20. Epic MegaJam pair (cluster c0): kept GamesRadar ($50K detail, better image), dropped Destructoid duplicate; MegaJam is a new contest announcement distinct from 10-13 Epic 'AI first' memo and 10-15 vibe-coded launcher. Dropped PC Gamer driving-sim $1,000/day (= 10-10 gamemeca gid=1781573 same story). Dropped Kotaku Goku voice (reaction to union guidance published 10-20 Eurogamer). Dropped RPS Tarn Adams (= 10-14 GI.biz 'happiest man in gaming hates generative AI'). Dropped AI-copycat/demo running story: Aftermath Next Fest demo theft, Game Developer Digital Sun ReVamp playtest, gamemeca gid=1782071 (same thread as 10-17 Kotaku demo ditch / 10-21 inven news=322319). Dropped gamemeca gid=1782201 Com2uS GGDC Hive Axel talk (conference talk on product launched 9-30 inven news=321491, no new release). Dropped GamesRadar Sweeney/Musk spat (commentary on 10-13 Epic AI-first). Dropped Kotaku Pokemon decompilation (decomp running story, as on 10-22). Dropped PC Gamer Google golden-age essay and RPS Samson founder (commentary), Aftermath slop-hobbies essay, inven news=322451 modding feature (analysis; not in history by full URL). Kotaku SonicFox left as next backfill. Full gamemeca ?gid= / inven ?news= URLs compared — none picked. Diversity: 4 outlets (GamesRadar+ x2, GamesBeat, The Verge, PC Gamer), distinct accents."
+    "note": "SWAP after fact-check: Destructoid 'Overwatch Stellar Blade collab AI slop' was removed because its AI angle is thin (one player's jab at Shift Up's AI music video). Aftermath SonicFox/NexCon replaced it in slot 5. NexCon/SonicFox has no 30-day history match, and the nearest is the 09-27 Kotaku tabletop-convention AI ban, a different event. Remaining alternatives considered: RPS Star Trek Online exec (AI is a side remark, and it would be a second RPS card), RPS Samson founder interview (speculative), inven news=322451 modding feature (overlaps the decomp/Xbox Labs running theme), NVIDIA Cosmos (weak games fit). Original drops still stand: Xbox recomp division (GamesRadar 10-13) = Verge 10-14 Xbox Labs card; PC Gamer driving-sim $1,000/day = gamemeca gid=1781573 (10-10), same game; Eurogamer Next Fest double demos, Palworld lead Next Fest commentary and inven news=322404 Next Fest feature = IGN 10-20 Next Fest slop card (running story / commentary). Epic MegaJam walk-back (PC Gamer) = GamesRadar 10-23 'Epic wants to pay you $50,000'; the reversal came within a day of the announcement, so it counts as the same story. Kotaku Creative Assembly Shogun 2 response is commentary on the 10-15/10-16 Shogun 2 cards. Verge 'Retro gaming is being overrun with AI', Kotaku Pokemon decomp and inven news=322278 were dropped as the decomp/recomp running theme. Aftermath Valve shopfront op-ed and gamemeca gid=1782071 were dropped as the clone running theme (Kotaku 10-17, inven news=322319). 80 Level Tripo P2.0/Astra was excluded as a vendor advertorial. Diversity: 5 picks from 5 distinct outlets."
   }
 }

@@ -1927,6 +1927,127 @@
           "x": "\"No habrá nuevas acciones autónomas como resultado de estas capacidades\", dijo Johnston Thayer, VP de Epic. Las pruebas con algunos sistemas de salud socios comenzarán antes de fin de año."
         }
       ]
+    },
+    "medicine/medicine-ms-diagnosis": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://microsoft.ai/wp-content/uploads/2026/10/health_v5_logo_large-1280x717.webp"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft AI afirma que su sistema de diagnóstico, MAI-DxO, es 1.7 veces más preciso que los médicos en presentaciones habituales de urgencias de US procedentes de MIMIC-IV-ED, y más del doble de preciso en casos complejos de NEJM. El trabajo se publicó en Science."
+        },
+        {
+          "t": "p",
+          "x": "El artículo presenta el Sequential Diagnosis Benchmark (SDBench): 304 casos complejos de NEJM más casos típicos de MIMIC-IV-ED, en los que la AI o los médicos parten de información limitada y eligen qué solicitar a continuación. MAI-DxO funciona como un panel de médicos virtuales que debate durante varias rondas y sopesa el valor de cada prueba frente a su coste."
+        },
+        {
+          "t": "p",
+          "x": "Según Microsoft, MAI-DxO alcanzó un 83% de precisión en los casos de NEJM, frente al 22% de los médicos sin recursos de consulta y el 36% con ellos, y un 80% frente a un 47% en los casos de urgencias. Una configuración optimizada en costes llegó al 81% con menos de la mitad del coste de sistemas comparables."
+        },
+        {
+          "t": "p",
+          "x": "Microsoft publicará como código abierto SDBench para una selección de casos de NEJM y realizará un estudio prospectivo con el Beth Israel Deaconess Medical Center de Boston, en el que medirá su rendimiento frente a las evaluaciones independientes de los médicos."
+        }
+      ]
+    },
+    "medicine/medicine-mfds-aidrug": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El Ministerio de Seguridad de Alimentos y Medicamentos (MFDS) preparará antes de diciembre de este año las guías de aprobación y revisión para medicamentos desarrollados con inteligencia artificial (AI). El objetivo es despejar la incertidumbre de las farmacéuticas: el uso de AI para descubrir candidatos a fármacos y predecir toxicidad se extiende, pero no había un criterio específico para evaluarlo en la revisión de aprobación."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.bosa.co.kr/news/photo/202610/3014609_415542_172.jpg",
+          "cap": "Foto: The Medical Newspaper DB."
+        },
+        {
+          "t": "p",
+          "x": "El plan de racionalización regulatoria para el sector biotecnológico se presentó el día 23 en la 2.ª reunión plenaria del Comité de Racionalización Regulatoria, presidida por el presidente."
+        },
+        {
+          "t": "p",
+          "x": "Hasta ahora, aunque las farmacéuticas usaran AI para descubrir candidatos o predecir toxicidad, les resultaba difícil saber qué datos preparar para la revisión. La FDA de Estados Unidos y la EMA europea publicaron este año unas guías conjuntas con 10 principios básicos que la industria debe seguir en el desarrollo de fármacos basado en AI, y el MFDS prevé incorporar estas tendencias regulatorias internacionales."
+        },
+        {
+          "t": "p",
+          "x": "El Gobierno espera que el uso de AI reduzca hasta en un 50% los costes tradicionales de desarrollo de un fármaco, que rondan de media entre 1 billón y 2 billones de wones (1조~2조원). El director general Shin Jun-su afirmó: “A medida que aumenten los medicamentos desarrollados con tecnología de AI, elaboraremos guías de revisión claras y concretas”."
+        },
+        {
+          "t": "p",
+          "x": "Además, se impulsarán la exención de presentar datos de equivalencia para inyectables hidrosolubles con los mismos principios activos y excipientes, la simplificación de la documentación para medicamentos de venta libre con diferencias menores de formulación y una revisión integrada de ventanilla única para medicamentos digitales combinados con AI y software."
+        }
+      ]
+    },
+    "medicine/medicine-ai-oversight": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La inteligencia artificial (AI) respalda cada vez más las decisiones clínicas, pero la supervisión humana solo protege si los clínicos reconocen y rechazan los resultados erróneos. Los autores revisaron de forma sistemática estudios controlados y del mundo real sobre la respuesta de los clínicos a consejos automatizados incorrectos. Los 46 informes representaban 41 grupos de cohortes independientes, entre ellos 40 cohortes principales."
+        },
+        {
+          "t": "p",
+          "x": "En tres cohortes ajustadas, el acierto de los clínicos fue sustancialmente mayor con consejos automatizados correctos que con incorrectos (OR combinada 10.19, 95% CI 7.43–13.98). En cuatro estudios del mundo real sobre ECG computarizados, el 26.6% de las interpretaciones erróneas no se corrigió ni se detectó (95% CI 6.4–65.6%)."
+        },
+        {
+          "t": "p",
+          "x": "Los estudios recientes de AI y de grandes modelos de lenguaje también documentaron una dependencia perjudicial, pero eran demasiado heterogéneos para combinarlos. Una cohorte retrospectiva informó de eventos adversos a nivel de paciente. Los autores concluyen que la supervisión humana debe evaluarse como una capacidad de interceptar errores, en lugar de suponer que garantiza la seguridad."
+        }
+      ]
+    },
+    "medicine/medicine-pharmacy-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La Asociación Farmacéutica de Corea (presidenta Kwon Young-hee) impulsa de lleno el desarrollo de una ‘AI de apoyo al trabajo del farmacéutico’ que respalde el juicio profesional y la atención al paciente. Se trata de un proyecto de transformación con AI (AX) en farmacias que aplica AI a la verificación de información de medicamentos, la revisión farmacológica, la preparación de consultas y la redacción de registros, y la asociación prevé crear una base común de apoyo que los farmacéuticos asociados de todo el país puedan usar sin coste."
+        },
+        {
+          "t": "img",
+          "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/21/7f701b6a-9ecd-4116-8634-0835bb9c2f3c.png"
+        },
+        {
+          "t": "p",
+          "x": "La asociación eligió a la empresa especializada en AI Selvik (셀빅) como socio de desarrollo y empezó a construir el sistema en julio. El servicio de apoyo a consultas sobre polifarmacia en desarrollo analiza la medicación del paciente y la información de la consulta, presenta con sus fundamentos y fuentes los problemas farmacológicos y las preguntas que el farmacéutico debe revisar primero, y ayuda con resúmenes de voz y registros de consulta. La revisión final, el juicio profesional y la atención al paciente corren a cargo del propio farmacéutico."
+        },
+        {
+          "t": "p",
+          "x": "La prueba de campo busca a unos 30 farmacéuticos asesores (30명 내외) con experiencia en el programa de gestión de polifarmacia. Las solicitudes se reciben del 21 al 25, y la prueba se desarrollará del 26 hasta finales de noviembre. Los participantes recibirán una pequeña recompensa."
+        },
+        {
+          "t": "p",
+          "x": "Lee Yoon-pyo, director de información y comunicaciones, afirmó: “La AI no debe ser una tecnología que sustituya a los farmacéuticos, sino un medio que les ayude a aprovechar mejor su experiencia”."
+        }
+      ]
+    },
+    "medicine/medicine-genai-device-liability": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/xBI1Tv0GTXys6wpRV0QS8JGGmJztWfwwzzGhEKntsIc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNTU1X2FzUm5RNnkuanBn.webp"
+        },
+        {
+          "t": "p",
+          "x": "Grupos sanitarios nacionales que representan a hospitales, sistemas de salud, médicos y empresas de telesalud dijeron a la FDA que no quieren ser responsables de la seguridad y el rendimiento de los dispositivos médicos que usan IA generativa, y sostuvieron que esa carga debe recaer en los desarrolladores."
+        },
+        {
+          "t": "p",
+          "x": "La American Hospital Association, la American Medical Association y la American Telemedicine Association afirmaron que vigilar estos dispositivos —incluidos chatbots y herramientas que sintetizan información médica— supondría una carga excesiva para los prestadores, en especial para las consultas pequeñas y rurales. También pidieron a la FDA que cree vías para que los prestadores informen de problemas."
+        },
+        {
+          "t": "p",
+          "x": "“Los fabricantes deben seguir siendo responsables de la seguridad y el rendimiento de los dispositivos que venden”, dijo ATA Action, el brazo de cabildeo del grupo de telemedicina. Los hospitales añadieron que la falta de transparencia sobre cómo funcionan los modelos dificulta que los prestadores detecten fallos."
+        },
+        {
+          "t": "p",
+          "x": "Los comentarios respondían a la solicitud de la FDA de opiniones sobre su propuesta para regular los dispositivos habilitados con IA generativa (AI-enabled), que aceptan entradas abiertas y pueden producir resultados distintos ante entradas similares. Los grupos de prestadores respaldaron en general su plan de evaluar el riesgo según las acciones que realiza un dispositivo, aunque la AHA señaló que la acción por sí sola puede no predecir el riesgo, y la AMA indicó que tener a una persona en el circuito no necesariamente lo mitiga."
+        },
+        {
+          "t": "p",
+          "x": "WEDI propuso un proceso de notificación de eventos adversos y etiquetas “nutricionales” para las herramientas de IA. Rick Abramson, de la FDA, dijo que la agencia prevé publicar en los próximos meses un borrador de guía sobre los dispositivos habilitados con IA generativa (AI-enabled)."
+        }
+      ]
     }
   }
 }

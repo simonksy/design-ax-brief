@@ -1,96 +1,96 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "section": "gadgets",
   "picks": [
     {
-      "title": "The Mori Is a Mushroom-Shaped AI Lamp Companion, and I'm Smitten",
-      "url": "https://www.cnet.com/tech/computing/mori-is-a-mushroom-shaped-ai-lamp-companion-and-im-smitten/",
-      "source": "CNET",
+      "title": "Pages, Keynote, Numbers just added powerful new AI features",
+      "url": "https://9to5mac.com/2026/10/22/pages-keynote-numbers-just-added-powerful-new-ai-features/",
+      "source": "9to5Mac",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "New device hands-on: the $849 Mori is a camera-equipped AI companion disguised as a mushroom lamp that reads its surroundings to decide when to engage. It shows home-robot design pushed toward ambient decor.",
-      "published_iso": "2026-10-22T09:00:07-04:00",
-      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-41.jpg",
-      "excerpt": "The $849 Mori is designed to respond to your environment, knowing when to play and when to stay quiet."
+      "rationale": "New release: Apple's iWork suite ships AI updates, including a new 'Intelligent Assistant' in Pages, Keynote and Numbers, so the AI is on by default in tools designers use for decks and docs.",
+      "published_iso": "2026-10-22T17:44:43Z",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Apple is rolling out AI-centric updates to its iWork suite—Pages, Keynote, Numbers—that include a brand new ‘Intelligent Assistant.’"
     },
     {
-      "title": "Meta Expands SDKs To Boost Spatial Apps On Quest & VR Glasses, Including NBA, Disney+",
-      "url": "https://www.uploadvr.com/meta-expands-sdks-to-boost-spatial-apps-on-quest-vr-glasses-including-nba-disney/",
-      "source": "UploadVR",
+      "title": "Microsoft pulls eight Copilot actions from Windows 11 File Explorer",
+      "url": "https://www.notebookcheck.net/Microsoft-pulls-eight-Copilot-actions-from-Windows-11-File-Explorer.1432095.0.html",
+      "source": "Notebookcheck",
       "tool": "Gadgets",
-      "accent": "#eb367f",
+      "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "New platform release: Meta ships spatial-app SDKs for Quest and its AI glasses, including a VR Layout SDK built to be implemented by an AI coding agent. This changes how designers prototype spatial UI tomorrow.",
-      "published_iso": "2026-10-20T20:13:53.000Z",
-      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/10/Thumb22.png",
-      "excerpt": "Meta announced new SDKs for spatial apps on Quest and its VR/AI glasses, including a VR Layout SDK it says is optimized to be implemented by an AI coding agent, alongside NBA and Disney+ spatial updates."
+      "rationale": "Concrete retirement: Microsoft is removing eight Copilot right-click actions (Summarize, Compare Files, Extract text) from mid-November to early December. Ask Copilot stays, and the actions move to the OneDrive activity center.",
+      "published_iso": "2026-10-23T07:21:00Z",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/windows-11-copilot-explorer-teaser.jpg",
+      "excerpt": "Microsoft is removing eight Copilot actions from the right-click menu for OneDrive files in Windows 11, including Summarize, Compare Files and Extract text. The retirement starts in mid-November and should be complete by early December. Ask Copilot stays in the menu, and the individual actions remain available in the OneDrive activity center."
     },
     {
-      "title": "AMD's FSR 4.1 now works on Radeon RX 6000 GPUs, Xbox Series X and S, and Ryzen AI Max, AI 9, and Z2 SoCs — new release brings cutting-edge tech to older hardware with a small performance cost",
-      "url": "https://www.tomshardware.com/pc-components/gpu-drivers/amds-fsr-4-1-now-works-on-radeon-rx-6000-gpus-xbox-series-x-and-s-and-ryzen-ai-max-ai-9-and-z2-socs-new-release-brings-cutting-edge-tech-to-older-hardware-with-a-small-performance-cost",
-      "source": "Tom's Hardware",
-      "tool": "Gadgets",
-      "accent": "#f5a623",
-      "motif": "headset",
-      "rationale": "New release: AMD's ML-based FSR 4.1 upscaler now runs on RX 6000 GPUs, Xbox Series consoles and Ryzen AI SoCs. On-device AI image reconstruction reaches hardware people already own.",
-      "published_iso": "2026-10-20T17:47:35Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/FKEfLV3WiguWYAz37vRmyW-2560-80.png",
-      "excerpt": "AMD gives older GPUs an image quality boost amid the ongoing AI chip drought"
-    },
-    {
-      "title": "I changed one llama.cpp flag, and my 8GB laptop GPU now runs a 35B model faster than I can read",
-      "url": "https://www.xda-developers.com/i-stopped-thinking-my-8gb-gpu-was-too-small-after-learning-to-offload-moe-llm-layers-to-ram/",
-      "source": "XDA Developers",
+      "title": "Timekettle expands offline translation for W4 earbuds with 12 new language pairs",
+      "url": "https://www.notebookcheck.net/Timekettle-expands-offline-translation-for-W4-earbuds-with-12-new-language-pairs.1429989.0.html",
+      "source": "Notebookcheck",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "Actionable on-device AI technique: offloading MoE layers to system RAM with one llama.cpp flag lets an ordinary 8GB laptop GPU run a 35B local model at reading speed. No new hardware needed.",
-      "published_iso": "2026-10-22T20:30:21Z",
-      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/main-llama-cpp-8gb-laptop.jpg?w=1600&h=900&fit=crop",
-      "excerpt": "XDA shows how offloading mixture-of-experts layers to system RAM with a single llama.cpp flag lets an 8GB laptop GPU run a 35B local LLM faster than reading speed."
+      "rationale": "New software release: a firmware update adds 12 offline language pairs to the existing W4 Pro and W4 Plus AI translation earbuds, so on-device translation now works without Wi-Fi or mobile data for more language combinations.",
+      "published_iso": "2026-10-21T12:37:00Z",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/TimeKettle.png",
+      "excerpt": "Timekettle's translation earbuds are getting a little more multilingual. A new software update adds 12 offline language pairs to the existing W4 Pro and W4 Plus models, making them more useful when Wi-Fi and mobile data decide to disappear at the worst possible moment."
     },
     {
-      "title": "Birdbuddy's Nook is a compact smart bird feeder for small spaces and budgets",
-      "url": "https://www.theverge.com/tech/1015659/birdbuddy-smart-bird-feeder-2k-camera-home-nook-ai-identification",
-      "source": "The Verge",
+      "title": "AI can describe a picture, but it still struggles to understand blind users",
+      "url": "https://www.digitaltrends.com/cool-tech/ai-apps-blind-users-umd-study/",
+      "source": "Digital Trends",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "New device launch: Birdbuddy's Nook is a smaller, cheaper 2K-camera feeder with AI species identification. Camera-plus-AI home devices are moving down to entry-level prices.",
-      "published_iso": "2026-10-22T13:00:00+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/birdbuddy1.jpg?quality=90&strip=all&crop=0%2C10.722892538964%2C100%2C78.554214922071&w=1200",
-      "excerpt": "The Birdbuddy Nook makes smart feeders more accessible to novice bird-watchers."
+      "rationale": "New research: a University of Maryland study finds Be My AI gives blind users long descriptions when they need specific visual facts. It is a direct lesson for designing AI assistive interfaces.",
+      "published_iso": "2026-10-23T19:50:40Z",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Blind-Man-using-walking-stick.jpg?resize=1200%2C630&ssl=1",
+      "excerpt": "A University of Maryland study finds that Be My AI often gives blind users lengthy answers instead of the specific visual information they need."
+    },
+    {
+      "title": "'Literally never in my life wanted a tool like Recall or this version of it': Windows 11 has a reined-in alternative to Recall in testing, but some people still hate the idea",
+      "url": "https://www.techradar.com/computing/windows/windows-11-could-get-a-very-different-take-on-recall-but-context-vault-feature-doesnt-seem-likely-to-persuade-ai-skeptics",
+      "source": "TechRadar",
+      "tool": "Gadgets",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "rationale": "New feature in testing: Windows 11's 'Context Vault' is a scaled-back alternative to Recall's AI memory. Together with the Copilot pullback, it shows Microsoft reworking on-device AI after user pushback.",
+      "published_iso": "2026-10-23T10:55:33Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/5KK2m2A35afwd8WgVU2hVX-2560-80.jpg",
+      "excerpt": "A classic case of 'solving a problem that doesn't exist': Windows 11 could get an alternative to Recall, but AI skeptics still aren't fans."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.cnet.com/tech/computing/mori-is-a-mushroom-shaped-ai-lamp-companion-and-im-smitten/": {
+      "https://9to5mac.com/2026/10/22/pages-keynote-numbers-just-added-powerful-new-ai-features/": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+        "nearest": "https://9to5mac.com/2026/10/06/if-apples-ai-suggestions-in-messages-annoys-you-theres-a-solution/",
         "new_action": ""
       },
-      "https://www.uploadvr.com/meta-expands-sdks-to-boost-spatial-apps-on-quest-vr-glasses-including-nba-disney/": {
+      "https://www.notebookcheck.net/Microsoft-pulls-eight-Copilot-actions-from-Windows-11-File-Explorer.1432095.0.html": {
+        "verdict": "follow-up",
+        "nearest": "https://www.notebookcheck.net/Windows-11-26H2-begins-roll-out-with-AI-File-Explorer-actions.1415485.0.html",
+        "new_action": "Microsoft announced it is retiring eight Copilot File Explorer actions (Summarize, Compare Files, Extract text, etc.), with removal running from mid-November to early December. The 10-06 card covered the rollout of these actions; this one covers their withdrawal."
+      },
+      "https://www.notebookcheck.net/Timekettle-expands-offline-translation-for-W4-earbuds-with-12-new-language-pairs.1429989.0.html": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+        "nearest": "https://www.androidauthority.com/timekettle-livetalk-ai-translation-earbuds-hands-on-3722945/",
         "new_action": ""
       },
-      "https://www.tomshardware.com/pc-components/gpu-drivers/amds-fsr-4-1-now-works-on-radeon-rx-6000-gpus-xbox-series-x-and-s-and-ryzen-ai-max-ai-9-and-z2-socs-new-release-brings-cutting-edge-tech-to-older-hardware-with-a-small-performance-cost": {
+      "https://www.digitaltrends.com/cool-tech/ai-apps-blind-users-umd-study/": {
         "verdict": "new",
-        "nearest": "https://www.techradar.com/pro/msi-pro-max-edge-ai-mini-pc-review",
+        "nearest": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
         "new_action": ""
       },
-      "https://www.xda-developers.com/i-stopped-thinking-my-8gb-gpu-was-too-small-after-learning-to-offload-moe-llm-layers-to-ram/": {
+      "https://www.techradar.com/computing/windows/windows-11-could-get-a-very-different-take-on-recall-but-context-vault-feature-doesnt-seem-likely-to-persuade-ai-skeptics": {
         "verdict": "new",
-        "nearest": "https://www.xda-developers.com/connected-local-llm-gmail-calendar-home-assistant-finally-became-useful/",
-        "new_action": ""
-      },
-      "https://www.theverge.com/tech/1015659/birdbuddy-smart-bird-feeder-2k-camera-home-nook-ai-identification": {
-        "verdict": "new",
-        "nearest": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
+        "nearest": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
         "new_action": ""
       }
     },
-    "note": "Picks: Mori is a new product with no prior card. The nearest card is the 10-16 Eiliko robot-toy security story, a different device. Meta's Quest/glasses SDK release is a new developer release, separate from the 10-03 Muse Home Link open-source card. FSR 4.1 is a new AMD release (tagged 'related' to the 10-11 MSI mini PC review only through Ryzen AI wording). The XDA llama.cpp MoE-offload technique is new, separate from the 10-11 XDA Gmail/Home Assistant and 10-12 Verge local-AI diary cards. Birdbuddy Nook is a new product launch (tagged 'related' to the 10-11 Verge bird-feeder essay, which was first-person commentary, not this device). Dropped as duplicates: Ars 'Ray-Ban Meta bug records audio' is the same story as the 10-14 Android Authority card on glasses listening without being asked (tagged likely-repeat). WIRED 'Meet Mori' is the same product as the CNET Mori pick, so I kept only one Mori card. Engadget 'Alexa+ free with Prime' is an explainer on an existing perk that continues the 10-01 and 10-10 Alexa+ cards with no new release. Passed over: iWork AI (software only, fits the design section); CNET 3D-printed armor (app/vibe-coding story); ZDNET HomePod Mini 2 and Apple TV 4K comparisons (buying guides that follow the 10-14 Apple event and 10-06 tvOS cards); Tom's Guide local AI agent (an evergreen how-to that overlaps the XDA pick); AMD+Intel oneDNN (developer library news, and a second Tom's Hardware/AMD item); Win98 Thunderbolt driver (novelty); Switch 2 Codex jailbreak (hacking angle that echoes the 10-16 and 10-18 jailbreak cards); Notebookcheck Ryzen AI HX leak (rumor); XREAL 1 Pro+ (8 days old, with UploadVR's XR slot taken by the more actionable Meta SDK); Vivo V80, Baseus camera and CNET delivery-robot lawsuits (passed over again for being camera-led, not AI-led, or a legal angle). Diversity: 5 cards from 5 outlets (CNET, UploadVR, Tom's Hardware, XDA, The Verge), with one Mori item."
+    "note": "SWAP after fact-check: 9to5Google's INMO GO3 smart glasses post was dropped because it is a sponsored post (byline 'Sponsored Post'). Timekettle W4 offline language pairs (Notebookcheck), the first backup, takes its slot 3. Dedup on the replacement: its history_match is the 10-22 Android Authority Timekettle LiveTalk hands-on. Same brand, but a different product (the LiveTalk earbuds versus the existing W4 Pro/W4 Plus) and a different event (a new firmware release adding 12 offline language pairs versus a hardware hands-on), so it counts as new and not as a repeat. It also does not repeat the 09-30 Engadget translation-earbuds explainer. Other drops are unchanged. CNET's Birdbuddy feeder is the same Nook launch published 10-23 (Verge). Both Android Authority Samsung XR glasses opinion pieces (cluster c5) were dropped: they report no new release, and the glasses were already covered on 10-14, 10-02 and 10-17. The Copilot pick is a follow-up to the 10-06 26H2 File Explorer AI card, with a new retirement announcement. Context Vault is a new Windows test feature, separate from the 10-08 Verge Copilot-control card. Passed over: Vivo V80 AI camera (a mid-range port of an existing mode); 9to5Google Meta-glasses dashcam and 9to5Mac Apple Glasses (first-person essays, AI not central); Snap RDJ Specs and Gizmodo school glasses bans (AI not central); Tom's Guide Mac chatbot (an evergreen how-to); Tom's Guide AI worms (commentary) and Ars Anthropic IoT (10 days old); Razer Basilisk review; Baseus camera (not AI-led). Diversity: 4 outlets (9to5Mac, Notebookcheck x2, Digital Trends, TechRadar), and Notebookcheck is within the 2-per-outlet cap. Cross-section caution still applies. If today's design selection also carries the 9to5Mac iWork URL, swap that pick for the next-best fresh candidate, which can no longer be Notebookcheck because that outlet is now at its cap. Run the swap back through this dedup check."
   }
 }

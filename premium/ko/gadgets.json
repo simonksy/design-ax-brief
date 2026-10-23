@@ -14445,6 +14445,164 @@
           "x": "특정 시간이 지나 Hue 디머 스위치를 누르면 장면이 켜지고 차례로 바뀌게 해 달라고 AI 어시스턴트에게 말하는 식이다. 자동화는 AI가 대신 만들어 주니 직접 설정할 일이 없다. 이 기능은 Hue Bridge Pro에서만 쓸 수 있다. "
         }
       ]
+    },
+    "gadgets/gadgets-copilot-explorer-retire": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/windows-11-copilot-explorer-teaser.jpg",
+          "cap": "Microsoft가 Windows 11 File Explorer의 OneDrive 파일 컨텍스트 메뉴에서 Copilot 동작 8개를 뺀다. (상징 이미지)"
+        },
+        {
+          "t": "p",
+          "x": "Windows 11에서 OneDrive 파일을 오른쪽 클릭하면 지금은 컨텍스트 메뉴에 Copilot 하위 메뉴가 뜨고, 그 안에 미리 만들어 둔 AI 동작 8개가 있다. 이 바로 가기가 사라진다. Microsoft는 Microsoft 365 Message Center에 ID MC1515940으로 종료를 알렸다. 공지는 10월 19일 올라왔고 하루 뒤 갱신됐다. 종료는 2026년 11월 중순(mid-November)에 시작해 12월 초까지 전 세계에서 마무리될 예정이다."
+        },
+        {
+          "t": "p",
+          "x": "대상은 Summarize, Create FAQ, Compare Files, Ask a question과 이미지 동작인 Explain image, Explain images, Compare images, 그리고 Extract text다. Microsoft는 File Explorer에서 OneDrive 파일로 Copilot을 쓰는 방식을 단순하게 정리하려고 모든 기능을 진입점 하나로 모은다."
+        },
+        {
+          "t": "p",
+          "x": "Ask Copilot은 오른쪽 클릭 메뉴에 그대로 남는다. 파일을 첨부한 새 Copilot 대화가 열리고, 할 일은 사용자가 직접 입력한다. 파일은 참조 방식으로 붙기 때문에 기존 권한과 보호 설정이 그대로 적용된다. 8개 동작은 OneDrive 활동 센터에서 계속 쓸 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "4월에는 Notepad와 Snipping Tool에서 Copilot 버튼이 빠졌고, 5월에는 Copilot 키를 다른 기능에 다시 할당할 수 있다고 Microsoft가 확인했다. Windows Latest는 이번 변화를 Windows 11 AI 기능을 둘러싼 꾸준한 비판과 엮어 본다. 공지에서 Microsoft는 그런 연관성을 언급하지 않는다."
+        }
+      ]
+    },
+    "gadgets/gadgets-timekettle-w4-offline": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/TimeKettle.png"
+        },
+        {
+          "t": "p",
+          "x": "Timekettle 번역 이어폰이 조금 더 다국어에 가까워진다. 통역 이어폰 W4 Pro와 W4 Plus용 새 소프트웨어 업데이트로 오프라인 언어쌍 12개가 추가된다. W4 Pro는 2025년부터 판매됐고, 더 새로운 W4 Plus는 2026년 9월에 나왔다. 두 제품 모두 원래 오프라인 번역을 지원했는데, 10월 20일 업데이트로 오프라인 언어쌍이 13개에서 25개로 늘면서 12개 언어를 아우르게 됐다."
+        },
+        {
+          "t": "p",
+          "x": "새로 추가된 12개에는 아랍어, 태국어, 이탈리아어, 포르투갈어, 인도네시아어, 베트남어가 있고, 각각 영어·중국어와 양방향으로 번역된다. 기존 일본어, 스페인어, 러시아어, 한국어, 독일어, 프랑스어 등에 이 언어들이 더해진다. 온라인 번역 범위도 넓어졌다. 카자흐어와 크메르어가 새로 들어가 54개 언어, 108개 억양에 이른다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Timekettle_Face_to_Face_Translation.jpg",
+          "cap": "Timekettle 대면 번역 (Timekettle)"
+        },
+        {
+          "t": "p",
+          "x": "지원 언어가 늘었다고 해서 완벽하게 알아듣는다는 뜻은 아니다. 지역 억양과 배경 소음, 현지 표현은 여전히 문제가 될 수 있고, 늘어난 번역 기능은 아직 독립 검증을 거치지 않았다. 업데이트는 W4 Pro와 W4 Plus 사용자에게 이미 배포되고 있어 새 이어폰을 살 필요는 없다."
+        },
+        {
+          "t": "p",
+          "x": "아래 영상은 이번 업데이트로 오프라인 언어 지원이 넓어지기 전에 W4 Pro 번역 기능을 시연한 이전 영상이다."
+        },
+        {
+          "t": "video",
+          "yt": "SOqC9YXPsJA"
+        }
+      ]
+    },
+    "gadgets/gadgets-be-my-ai-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Blind-Man-using-walking-stick.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Eren Li / Pexels"
+        },
+        {
+          "t": "p",
+          "x": "University of Maryland(UMD) 연구진은 AI 기반(AI-powered) 시각 보조 기능이 시각장애인 사용자에게 정작 필요한 정보를 얻기까지 지나치게 많은 수고를 떠넘길 수 있다고 확인했다. 연구 제목은 ‘Say It My Way: Exploring Control in Conversational Visual Question Answering with Blind Users’다. 연구진은 Be My Eyes 앱의 AI 기반 기능인 Be My AI를 사람들이 어떻게 쓰는지 살폈다."
+        },
+        {
+          "t": "p",
+          "x": "연구진은 시각장애인 참가자 11명을 모았다. 참가자들은 실험실에서 먼저 Be My AI를 써 본 뒤 10일 동안 일상에서 사용했고, 연구팀은 상호작용 418건을 분석했다."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Example-interaction-consisting-of-five-conversational-turns-with-word-count-for-each-turn.jpg?resize=1800%2C1080&ssl=1",
+          "cap": "University of Maryland"
+        },
+        {
+          "t": "p",
+          "x": "참가자 질문은 보통 10~20단어 안팎이었지만 AI 답변은 10배 이상 길었다. 대화는 평균 세 차례 오갔고, 길게는 21회까지 이어졌다. 열쇠를 찾던 한 참가자는 잃어버린 물건에 초점을 맞춘 답 대신 이미지를 길게 묘사한 답을 받았다. 참가자 절반 이상은 앱이 이미지 전체 묘사부터 꺼내는 습관을 심각한 문제로 꼽았다."
+        },
+        {
+          "t": "p",
+          "x": "질문하는 이유를 설명한 참가자도 있었고, 복잡한 작업을 작은 질문 여러 개로 나눈 참가자도 있었다."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Be-My-AI-in-a-laboratory-testing.jpg?resize=1800%2C1080&ssl=1",
+          "cap": "University of Maryland"
+        },
+        {
+          "t": "p",
+          "x": "거리와 시간에 따른 변화를 가늠하기 어렵다는 점, 접근하기 어려운 이미지 구도, 카메라 위치 안내 부족도 연구에서 드러났다. 연구진은 시각장애인 사용자가 간단한 답 하나를 얻으려고 복잡한 프롬프트까지 익혀야 해서는 안 된다고 주장한다."
+        }
+      ]
+    },
+    "gadgets/gadgets-context-vault": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/5KK2m2A35afwd8WgVU2hVX-1200-80.jpg",
+          "cap": "이미지 출처: Shutterstock/Prostock-studio"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft가 AI-powered 강화 검색이라는 아이디어를 Recall보다 훨씬 제한적인 형태로 다시 시도한다. 다만 초기 반응은 여전히 꽤 부정적이다. Windows Latest에 따르면 Microsoft는 ‘Context Vault’라는 이름의 Project Pantheon을 개발하고 있다. 이 앱은 Recall처럼 Windows 11에 내장되지 않고, Microsoft Store에서 따로 설치해야 한다."
+        },
+        {
+          "t": "p",
+          "x": "PC 화면을 주기적으로 자동 캡처하지도 않는다. 사용자가 Context Vault에 쓸 파일이나 콘텐츠를 직접 넣고, 그 내용을 AI에 묻거나 문서, 이미지, 웹 페이지, 클립보드 텍스트에서 자료를 정리하게 하는 식이다. 클라우드 기반 AI를 쓸 수 있어 Copilot+ PC가 꼭 필요하지는 않고, Claude 같은 서드파티 AI에 볼트 접근 권한을 줄 수도 있다. 앱은 아직 공식 출시 전이다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/r4maWLpBuFkNeiXEUfcPZF-1024-80.jpg",
+          "cap": "Microsoft의 Recall 기능은 대체로 인기를 얻지 못했다 (이미지 출처: Microsoft)"
+        },
+        {
+          "t": "p",
+          "x": "볼트를 보호하려고 Microsoft는 암호화, 앱별 접근 제어, Windows Hello 로그인을 검토하는 것으로 알려졌다. 반응은 대체로 회의적이다. 한 Redditor는 “존재하지도 않는 문제를 해결하는” 전형적인 사례라고 평했다. TechRadar는 같은 개념을 다르게 풀었다고 anti-Recall 진영이 마음을 바꾸지는 않을 것이라고 결론짓는다."
+        }
+      ]
+    },
+    "gadgets/gadgets-mori-mushroom-lamp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-41.jpg?w=1200",
+          "cap": "849달러짜리 Mori는 주변에 반응하는 AI 로봇 컴패니언이다."
+        },
+        {
+          "t": "p",
+          "x": "Oka가 목요일 내놓은 Mori는 빛나는 버섯 램프와 Furby를 반씩 섞어 놓은 모양이다. CNET은 849달러라는 소매가로는 팔기 쉽지 않겠지만 AI로 장난스러운 절제를 보여 주는 기기를 보는 일은 신선했다고 평했다. Mori는 Apple Music 재생목록 따위는 틀 생각이 없다는 티를 분명히 냈다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-listens-to-music-2.gif?w=864",
+          "cap": "Mori가 음악을 듣다가 수줍어져 몸 안으로 숨는다."
+        },
+        {
+          "t": "p",
+          "x": "켜면 Mori는 몸통에서 튀어나와 카메라와 센서로 장난스럽게 반응하고 아기 말 같은 자기만의 언어로 말한다. 키는 10인치이고, 목소리 쪽으로 고개를 기울이며 \"눈\"을 움직인다. Oka에 따르면 Mori는 맥락을 읽으려고 이미지와 오디오를 기기 안에서 처리한 뒤 지운다. 아는 얼굴과 낯선 얼굴을 가리는 얼굴 인식 데이터는 저장하되 업로드하지 않는다."
+        },
+        {
+          "t": "p",
+          "x": "귀엽다고 하자 옹알이하며 수줍어했고, Bluetooth 음악 모드를 묻자 못마땅한 소리를 냈다. 맥락형 AI다운 반응이다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Mori-24-rotated-e1792612718695.jpg?w=1200",
+          "cap": "몸 안으로 들어가면 Mori는 카메라를 끄고 명상 음악을 틀며 형형색색 램프가 된다."
+        },
+        {
+          "t": "p",
+          "x": "머리를 누르면 몸 안으로 물러나 백색소음 같은 곡을 틀고 머리를 여러 색으로 밝힌다. 가격은 파운더 에디션 649달러, 다음 사전 주문 799달러, 최종 표준 에디션 849달러로 두 해 구독이 들어 있다. 그 뒤로는 월 17달러나 연 80달러를 낸다. Oka는 이 제품을 \"Artificat 01\"이라 부른다. 시간이 갈수록 자라는 성격은 앞으로 나올 새 몸체로 옮겨 간다고 한다."
+        }
+      ]
     }
   }
 }

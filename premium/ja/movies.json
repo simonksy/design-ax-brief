@@ -8162,6 +8162,172 @@
           "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie-editor.jpg?width=1600&height=1000&name=eddie-editor.jpg"
         }
       ]
+    },
+    "movies/movies-continuum-2027": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Continuumが2027アップデートで帰ってきた。新しいエフェクト、定番機能の改良、そして便利な追加機能が数多く盛り込まれている。"
+        },
+        {
+          "t": "p",
+          "x": "最大の更新の一つは、Boris FXのパーティクルエフェクト制作ツールParticle Illusionだ。新しいSim Speedスライダーを使えば、一つの操作でパーティクルアニメーション全体を速めたり遅くしたりできる。新しい画像キャッシュシステムとより滑らかなプレビューが性能を高める。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/ParticleIllusion-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Continuum 2027でも人工知能は複数のツールを改善しており、とりわけ人物の切り出し、エッジの整理、より良いマスク作成に使うツールで顕著だ。今回のアップデートはまったく新しいAIワークフローを導入するのではなく、既存ツールの改良に重点を置いている。"
+        },
+        {
+          "t": "p",
+          "x": "BCC+ Face MLには新たに三つのモデルオプションが加わり、これまで顔の切り出しに楕円マスクを頼っていたBCC+ Witness Protectionにも追加される。BCC+ Matte Refine MLはAdobe版で新しい2.1モデルを得た。フレーム間で一貫性を保つ、よりきれいなエッジを生み出すよう設計されている。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/BCC-Face-ML.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Vector Blur、Curl、Bulge、Wave、Time Displacementといった定番エフェクトが、GPUアクセラレーションに対応した最新のBCC+フレームワークで復活した。新ツールにはBCC+ Noise Map Studio、BCC+ Grid、そして2Dテキストの作成とアニメーションを大幅に容易にするBCC Textがある。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/BCC-Type.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Mocha 2026.5からの更新で、Object Brushのプレビューが加わり、Matte AssistとRefine Matteが改良された。Boris FXはPremiere Pro向けの性能改善とGPU処理の向上も行い、8言語の追加サポートと500を超える新プリセットを加えた。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/Mocha.jpg"
+        }
+      ]
+    },
+    "movies/movies-lux-meridian": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081596-lux1.jpg?itok=h4bgwguu",
+          "cap": "Lux Meridian."
+        },
+        {
+          "t": "p",
+          "x": "Territory Studioの共同創業者David Sheldon-HicksとNick Gloverは、2022年にTerritory Groupを設立した。Lux Meridianの創設チームは、Avatar、Spider-Man: Brand New Day、Duneなどのフランチャイズに携わった経験を持つ。"
+        },
+        {
+          "t": "p",
+          "x": "Lux MeridianはAI技術企業ではなく制作スタジオとして活動し、AI-nativeのワークフローと確立された映画制作の手法を組み合わせたオリジナルの映画・テレビコンテンツを開発、提供する。"
+        },
+        {
+          "t": "p",
+          "x": "「見事な画像を生成することと、監督が胸を張れる映画を届けることは別物だ」とTerritory GroupのCEO、Sheldon-Hicksは語った。「私たちは数十年にわたるHollywoodの制作経験と新たなAI技術を組み合わせ、ストーリーテリングや品質、制作基準を損なうことなく、映画制作者により大きな創造の自由を提供する」"
+        },
+        {
+          "t": "p",
+          "x": "同スタジオはAdobeのFirefly Foundryとの協業も生かす。Firefly Foundryは、許諾を得た独自の創作素材からカスタムの生成AIモデルを構築する取り組みだ。映画制作者はこのモデルを使い、芸術的なコントロールを保ち知的財産を守りながら、オリジナルのキャラクターや環境、映画的な世界を開発する。"
+        },
+        {
+          "t": "p",
+          "x": "Lux MeridianはすでにAdobeとともに、Brad Peyton監督のDark Zoneでこの手法を試している。参照できる既存の学習素材がほとんどないオリジナル映画作品のために、独自のAIモデルを開発した。"
+        },
+        {
+          "t": "p",
+          "x": "発足にあたり、同スタジオは大手Hollywoodスタジオとの一年間にわたるコンテンツ協業に加え、実績あるHollywood監督たちとの開発パートナーシップを携えている。"
+        }
+      ]
+    },
+    "movies/movies-koreeda-ai-notes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/05/koreeda.jpg?w=1000&h=563&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "Kore-eda Hirokazuは、AI-themedのCannes出品作「Sheep in the Box」の脚本を生成AIチャットボットに読ませたが、映画との個人的な歩みを持たない存在からの助言は自分の役に立たないと結論づけ、手を切った。"
+        },
+        {
+          "t": "p",
+          "x": "近未来を舞台にした本作は、二年前に7歳の息子を亡くした夫婦が、息子のデータから作られた人型ロボットを迎え入れる姿を描く。"
+        },
+        {
+          "t": "p",
+          "x": "「とても褒めてくれた。たくさん褒めたあとで、『ただし、主人公の母親をもう少し掘り下げれば、より良い映画になるだろう』といったことを言う。言っていることは正しい」とKore-edaはVarietyに語る。「でも、正しいことしか言わない。何がこんなに退屈にさせるのだろうと考えた」"
+        },
+        {
+          "t": "p",
+          "x": "「見た映画がどれほど少なくても、好みがどれほど偏っていても、人生を変えた映画を持つ人の意見のほうが、最終的にはより面白い作品につながる」とKore-edaは言う。「何度かやり取りするうちにそう確信したので、そこで関係を終わらせた」"
+        },
+        {
+          "t": "p",
+          "x": "彼はこの映画でAIを使わなかった。「そうすべきだからではない。楽しいからだ」と彼は言う。「同じように、ものを作る行為は楽しい。私は人間の側に立ちたい。だから、できる限り制作過程からAIを排除するつもりだ」"
+        },
+        {
+          "t": "p",
+          "x": "Kore-edaはまた、ミニシアターと呼ばれる日本の独立系アートハウス映画館が次々と閉館していることにも触れた。「それがなくなったら、次の映画作家はどうやって育つのか」"
+        }
+      ]
+    },
+    "movies/movies-genz-ai-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/10/Fruit_Love_Island.png?w=831&h=531&crop=1",
+          "cap": "AI-generatedのTikTokシリーズ『Fruit Love Island』"
+        },
+        {
+          "t": "p",
+          "x": "いま、なぜか人気を集めるAIスロップの一つが「Fruit Love Island」だ。擬人化された果物たちが「Love Island」を60秒で模倣した動画の中でいちゃつき交流する、AI-generatedのTikTokパロディシリーズである。配信は続き、再生回数は数千万回に上る。"
+        },
+        {
+          "t": "p",
+          "x": "UCLAとCenter for Scholars and Storytellersによる新たな研究「Rewrite This! How Gen Z and Gen Alpha are Redefining Modern Storytelling」によると、若者の大多数は人工的に生成されたコンテンツや物語を実は好意的に受け止めている。ただし、今の子どもたちが成長するにつれて、その受け止め方には目立った変化が見られる。"
+        },
+        {
+          "t": "p",
+          "x": "研究によると、10歳から24歳の53.8パーセントが「魅了された」または「わくわくする」という感情を挙げ、「破滅的」または「怖い」という言葉を使ったのは32.1パーセントにとどまった。18-24歳の27.4パーセントが「破滅」という感情を挙げたのに対し、10-13歳ではわずか9.7パーセント、14-18歳では25.1パーセントだった。10-13歳の半数近くは、AIコンテンツを見る際に「興奮」を感じていた。"
+        },
+        {
+          "t": "p",
+          "x": "回答者がAIに抱く感情の多くは、ソーシャルメディアのフィードに流れるAI-nativeの動画に由来する。ReelShort、DramaBox、Drama Wave、Pocket Filmsの縦型マイクロドラマによるAIのソープオペラもその一つだ。"
+        },
+        {
+          "t": "p",
+          "x": "研究は大きな結論を導いてはいないが、Gen Zと台頭しつつあるGeneration Alphaの間に世代間ギャップがある可能性を示唆している。Generation Alphaは他の若者とは異なる感じ方をし、AIをより好意的に見ているのかもしれない。"
+        }
+      ]
+    },
+    "movies/movies-hunger-games-ai-adr": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/10/RP_A1423_ada1cd.jpg?w=1200"
+        },
+        {
+          "t": "p",
+          "x": "AIはスタジオ映画のポストプロダクション工程で導入が進み続けているが、「Hunger Games」シリーズのプロデューサー、Nina Jacobsonは今もAIを「アーティストのための道具」であり、彼らの「代わりではない」と捉えている。"
+        },
+        {
+          "t": "p",
+          "x": "ロサンゼルスで開かれたIndieWireのFuture of Filmmaking Summitで、IndieWire編集長のBrent Langと対談したJacobsonは、前日譚「Sunrise on the Reaping」の新しい台詞の読みを試すため、チームが俳優を模したAI音声を使ったと語った。それらの台詞はその後、従来の自動台詞置き換え（ADR）工程でキャストが収録した。"
+        },
+        {
+          "t": "p",
+          "x": "「[AI]は製作の中でも、ポストプロダクションの中でも、ごく限定的に道具として使った。同時に、アーティストや画面に映るものの代わりに使ったことは一度もない」とJacobsonは述べた。「[AI]はADRに使うには優れた道具だ」"
+        },
+        {
+          "t": "p",
+          "x": "「声を複製することはできる…それでも私たちの俳優ではないから、決して使わない」と彼女は続けた。「台詞は脚本家に頼む。Claudeに『何を言わせるべきか』とは聞かない」"
+        },
+        {
+          "t": "p",
+          "x": "Lionsgateが11月20日に劇場公開する「Sunrise on the Reaping」は、Suzanne Collinsのヤングアダルト小説シリーズを原作とする6作目の映画だ。"
+        }
+      ]
     }
   }
 }

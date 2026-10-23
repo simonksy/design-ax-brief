@@ -8347,6 +8347,119 @@
           "x": "Apple has taken a less aggressive approach to AI than rivals; MusicTech expects more acquisitions like this to be quietly folded into its software workflows."
         }
       ]
+    },
+    "music/music-suno-answer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
+          "cap": "Photo credit: FotoField / Shutterstock.com"
+        },
+        {
+          "t": "p",
+          "x": "In a 44-page answer filed October 20 in the US District Court for Massachusetts, Suno admits it has not deleted all of the recordings it used to train its AI models. The filing responds to the ‘laundering’ claims brought by UMG and Sony in their lawsuit against the company."
+        }
+      ]
+    },
+    "music/music-youtube-ai-ugc": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "YouTube has published a new Culture & Trends report, looking at how people use generative AI to express themselves creatively – and it points to some interesting new UGC potential. In a survey of almost 700 US video posters aged 14 to 44, 72% said they use AI on their videos or images. 61% said they’re interested in using it to insert themselves into content, and more than two-thirds of those already making AI videos feature themselves in them."
+        },
+        {
+          "t": "p",
+          "x": "According to YouTube, many people use it for “digital costume changes” and imagining themselves in different roles. For artist teams, a logical use case would be to get fans to insert themselves into the artist’s music video as a shareable campaign element."
+        },
+        {
+          "t": "p",
+          "x": "Music Ally came across a fan-created Instagram Reel featuring Ariana Grande in LISA’s “SaWaDiKa” video, made with Higgsfield. It racked up 82.2k likes and 24.7k shares – more than 100x the engagement of the creator’s usual posts."
+        },
+        {
+          "t": "p",
+          "x": "Teams could encourage fans to get creative with AI around a release, or brief AI creators to make this kind of content around their latest music video. Ghost’s “Satanizer” let fans face-swap themselves into the “Satanized” video."
+        }
+      ]
+    },
+    "music/music-mixjudge": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Mixing requires not only applying processing but also assessing the resulting mix. Audio-language models can provide conversational mixing advice, but existing evaluations do not separately test whether they can judge specific mixing issues."
+        },
+        {
+          "t": "p",
+          "x": "Since professional supervision for such judgments is scarce, the authors construct a curriculum of 11 vocal-mix issues at multiple severity levels and use it to train MixJudge, a language-queryable audio critic."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.30783v1/batch_construction.svg",
+          "cap": "Figure 1: Same-content training batch construction."
+        },
+        {
+          "t": "p",
+          "x": "MixJudge shows its ability to retrieve mixing issues, distinguish opposite issues, and order the severity of an issue. Its judgments also transfer to menu selection: given a set of processing candidates, MixJudge often favors versions acoustically closer to a held-out professional version."
+        },
+        {
+          "t": "p",
+          "x": "Kuan-Hsun Ho, Yuan-Chiao Cheng, Yen-Tung Yeh and Yi-Hsuan Yang; submitted to ICASSP 2027."
+        }
+      ]
+    },
+    "music/music-piano2pop": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A pop song often begins as a demo: a guitar sketch, a topline sung over an existing track, or a piano accompaniment. Turning this sketch into a full production requires the producer to infer its musical intent and realize it through drums, instrumentation, arrangement, and mixing. Researchers at National Taiwan University call this task Piano2Pop: given a piano MIDI demo, generate a complete instrumental pop production that is coherent, idiomatic to pop, and faithful to the demo's musical intent."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.31510v1/hero.png",
+          "cap": "Figure 1: Overview of Piano2Pop."
+        },
+        {
+          "t": "p",
+          "x": "Their pseudo-supervised approach conditions a pretrained flow-matching model on piano rolls without aligned piano-pop supervision. It trains on synthetic piano-instrumental pairs derived from pop recordings, comparing pair-free transcription, including function-selective (FST) and register-density (RDA) augmentations, with a pair-supervised piano-cover generator as pseudo-demo sources."
+        },
+        {
+          "t": "p",
+          "x": "On 476 testing real-world piano-cover/pop pairs, the pair-supervised approach achieves the best Frechet Audio Distance, Accompaniment Prompt Adherence, and spectral shape on real-piano inputs, while FST mitigates piano-heavy outputs in pair-free training. All fine-tuned systems significantly outperform the zero-shot baselines, MuseControlLite and ACE-Step cover."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.31510v1/instrument_energy_differences.svg",
+          "cap": "Figure 2: Difference from GT in mean instrument-energy share under OOD real-piano conditioning."
+        },
+        {
+          "t": "p",
+          "x": "Audio examples are on the demo page, and the authors plan to release open-source code and checkpoints upon paper publication. The paper has been submitted to ICASSP 2027."
+        }
+      ]
+    },
+    "music/music-reservoir-suno-anthropic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Anthropic-Suno-Reservoir-Suits-1024x546.jpg",
+          "cap": "Photo Credit: Planet Volumes"
+        },
+        {
+          "t": "p",
+          "x": "Suno is now facing a nearly $200 million copyright infringement and DMCA complaint from Reservoir Media, which has also fired off a similar action against Anthropic. Both suits were submitted to the U.S. District Court for the Northern District of California."
+        },
+        {
+          "t": "p",
+          "x": "Reservoir says Suno trained on protected music without authorization and, by inking licensing pacts with Warner Music, BMG, Believe and others, “all but admitted that there is a functioning market for licensing music and sound recordings for training data.” The complaint also alleges Suno used Bright Data’s services to scrape files including over two million music clips of approximately 113,879 hours of music from YouTube."
+        },
+        {
+          "t": "p",
+          "x": "Against Suno, Reservoir seeks the statutory maximum of $150,000 for each of 1,050 allegedly willfully infringed works, or $157.5 million, plus $2.63 million for circumvention of access controls and $26.25 million for removal of copyright management information."
+        },
+        {
+          "t": "p",
+          "x": "The Anthropic complaint makes the same claims for 853 works, citing The Atlantic’s AI Watchdog dataset-search tool, and seeks $127.95 million for infringement (“Claude has created infringing output for all 853 of the Works”) plus another $23.5 million on the DMCA side."
+        }
+      ]
     }
   }
 }

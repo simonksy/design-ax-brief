@@ -2111,6 +2111,89 @@
           "x": "Google은 광고주에게 랜딩 페이지 이미지의 권리를 갖고 있고 Google이 이를 광고에 써도 된다는 점까지 확인하라고 요구한다. 라이선스 이미지나 제3자 이미지의 책임은 광고주가 지는 셈이다."
         }
       ]
+    },
+    "marketing/marketing-google-ads-sourced-videos": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google Ads가 애셋 최적화 항목에 “Sourced videos” on/off 토글을 새로 넣었다. 켜 두면 Google AI가 승인된 소스에서 관련 영상을 찾아 캠페인에 알아서 추가한다."
+        },
+        {
+          "t": "p",
+          "x": "이 토글은 Reva Minkoff가 LinkedIn에서 처음 발견했다. 그보다 며칠 앞서 Hana Kobzová는 도움말 문서가 바뀐 것을 알아채고 이번 변경으로 “광고주가 더 이상 수동으로 opt-in하지 않아도 된다”고 지적했다."
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-sourced-videos-toggle-n1Mv05cA.jpg",
+          "cap": "Sourced videos: “다른 채널의 영상 사용.”"
+        },
+        {
+          "t": "p",
+          "x": "Google 도움말 문서에 따르면 Sourced videos는 Google AI와 자동 영상 크롤링 기술로 Performance Max 캠페인에 맞는 영상을 찾는다. 신규 캠페인에는 모두 기본으로 켜져 있으며 일부 기존 캠페인에서도 저절로 켜졌을 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "소스로는 소셜 미디어 플랫폼, 캠페인 랜딩 페이지, 연결된 YouTube 채널 등이 쓰일 수 있다. 영상은 관련성, 성과 잠재력, 권장사항 준수 여부를 보고 고른다. 크롤링한 영상은 애셋 그룹당 최대 10개까지 자동으로 들어갈 수 있다."
+        }
+      ]
+    },
+    "marketing/marketing-etsy-non-ai-image-rule": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/cYMlDQ6lWlMzUd8EncbsCfReT9sYO5rMJj0jdZzDCxw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODUzMTg0NjY1LmpwZw==.webp",
+          "cap": "New York City 본사에 걸린 Etsy 로고."
+        },
+        {
+          "t": "p",
+          "x": "이커머스(E-commerce) 마켓플레이스 Etsy가 상품 리스팅의 AI 사용 단속에 나섰다. 목요일 회사 블로그 글에 따르면 Etsy는 이제 대부분의 리스팅에 실제 배경 앞에서 찍고 편집하지 않은 상품 사진을 최소 한 장 넣게 했다."
+        },
+        {
+          "t": "p",
+          "x": "도안, 레시피, 설명서 같은 기능성 가이드도 이제 AI-generated 콘텐츠로는 만들 수 없다. 봇이 만든(Bot-generated) 리스팅은 허용하지 않고 지운다. 바뀐 이미지 요건을 지키지 않은 리스팅이라면 구매자가 환불을 받을 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Etsy는 리스팅 양식에 AI를 쓴 것으로 감지된 이미지를 표시해 주는 안내 기능도 넣었다. Etsy 고객 운영 부사장(Vice President of Customer Operations) James Ossman은 “이번 변화는 결승선이 아니라 출발점”이라고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "이번 조치는 Etsy 자신도 AI 투자를 늘리는 가운데 나왔다. CEO Kruti Patel Goyal은 애널리스트들 앞에서 AI가 주는 가장 큰 기회는 Etsy 안에 있다며 “핵심은 AI로 Etsy가 맞는 구매자와 맞는 판매자를 훨씬, 훨씬 더 잘 연결하게 만드는 것”이라고 말했다."
+        }
+      ]
+    },
+    "marketing/marketing-meta-ai-glowups": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/ATM.webp?w=600&h=315&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "10월 30일부터는 Meta의 AI가 광고를 망쳐도 광고주가 책임져야 한다. 광고 구매 담당자들은 Meta의 AI가 이미 묻지도 않고 광고를 고친다고 ADWEEK에 말했다."
+        },
+        {
+          "t": "p",
+          "x": "Bookshop.org는 Meta의 자동 계정 업데이트 때문에 생성형 AI 기능에 저절로 가입됐고, 이 기능이 사람이 만든 광고에 모르는 사이 AI-generated 일러스트를 덧붙였다고 밝혔다. 그 뒤 Meta의 AI 광고 기능을 전부 껐다."
+        },
+        {
+          "t": "img",
+          "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-1.28.28-PM.png?w=1024",
+          "cap": "Bookshop.org의 Threads 게시물"
+        },
+        {
+          "t": "p",
+          "x": "Meta가 개정한 상업 약관(Commercial Terms)을 보면, AI 기능이 만들거나 바꾼 모든 것은 Meta가 켠 기능이라도 광고주가 \"전적으로 책임\"을 진다. 예전에는 광고주가 Meta의 AI 도구를 직접 골라 썼을 때만 책임이 있었다. Meta 대변인은 이 질문에 바로 답하지 않고, 광고주가 Ads Manager에서 언제든 개별 Advantage+ 기능을 끌 수 있다고만 했다."
+        },
+        {
+          "t": "p",
+          "x": "대행사 Exverus는 품질 점검을 여러 번 거치고도 새어 나간 변경 사항을 지우려고 집행 중인 광고를 내려야 했다. 덧붙은 사이트링크, 언어 번역, 브랜드 자체 미디어로 만든 AI-generated 이미지나 캐러셀 같은 것들이다. Ryan Adams는 \"Meta의 자체 도구가 개선을 적용했을 때조차 Meta는 책임을 전적으로 광고주에게 지운다\"고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "AdCellerant는 이제 캠페인마다 Meta의 기본 AI 자동화를 빠짐없이 끈다."
+        }
+      ]
     }
   }
 }

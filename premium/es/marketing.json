@@ -2111,6 +2111,89 @@
           "x": "Google también pide a los anunciantes que confirmen que poseen los derechos de las imágenes de sus páginas de destino y que permiten a Google usarlas en publicidad, lo que traslada al anunciante la responsabilidad sobre las imágenes con licencia o de terceros."
         }
       ]
+    },
+    "marketing/marketing-google-ads-sourced-videos": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Google Ads añadió un nuevo interruptor on/off llamado “Sourced videos” en la sección de optimización de recursos. Usa Google AI para identificar videos relevantes de tus fuentes aprobadas y añadirlos automáticamente a tu campaña."
+        },
+        {
+          "t": "p",
+          "x": "Reva Minkoff detectó el interruptor en LinkedIn; Hana Kobzová había advertido el cambio en el documento de ayuda días antes y señaló que el cambio “ya no requiere que los anunciantes hagan opt-in manualmente”."
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-sourced-videos-toggle-n1Mv05cA.jpg",
+          "cap": "Sourced videos: “Usar videos de otros canales”."
+        },
+        {
+          "t": "p",
+          "x": "Según el documento de ayuda de Google, los sourced videos usan Google AI y tecnología automatizada de rastreo de videos para identificar videos relevantes para campañas de Performance Max. Están activados por defecto en todas las campañas nuevas y podrían haberse activado automáticamente en algunas campañas existentes."
+        },
+        {
+          "t": "p",
+          "x": "Las fuentes pueden incluir plataformas de redes sociales, la página de destino de tu campaña y tu canal de YouTube vinculado. Los videos se seleccionan por relevancia, potencial de rendimiento y cumplimiento de las prácticas recomendadas, y se pueden añadir automáticamente hasta 10 videos rastreados a un grupo de recursos."
+        }
+      ]
+    },
+    "marketing/marketing-etsy-non-ai-image-rule": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/cYMlDQ6lWlMzUd8EncbsCfReT9sYO5rMJj0jdZzDCxw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODUzMTg0NjY1LmpwZw==.webp",
+          "cap": "El logotipo de Etsy en su sede de New York City."
+        },
+        {
+          "t": "p",
+          "x": "El marketplace de E-commerce Etsy está endureciendo las reglas sobre el uso de AI en las fichas de producto. Etsy exige ahora que la mayoría de las fichas incluyan al menos una foto sin editar del producto sobre un fondo real, según una publicación del blog de la empresa del jueves."
+        },
+        {
+          "t": "p",
+          "x": "Las guías funcionales, como patrones, recetas e instrucciones, ya no pueden ser AI-generated. Las fichas generadas por bots (Bot-generated) no están permitidas y se eliminarán, y los compradores podrían recibir un reembolso si una ficha no cumplía los requisitos de imagen actualizados."
+        },
+        {
+          "t": "p",
+          "x": "Etsy también añadió al formulario de publicación una función de orientación que señala las imágenes que Etsy detecta que podrían usar AI. “Estos cambios son nuestro punto de partida, no la meta”, dijo James Ossman, Vice President of Customer Operations de Etsy."
+        },
+        {
+          "t": "p",
+          "x": "La medida llega mientras la propia Etsy invierte más en el uso de AI. La CEO Kruti Patel Goyal dijo a los analistas que la mayor oportunidad para la AI está en la propia Etsy: “Se trata realmente de usar la AI para que Etsy sea mucho, mucho mejor conectando a los compradores adecuados con los vendedores adecuados”."
+        }
+      ]
+    },
+    "marketing/marketing-meta-ai-glowups": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/ATM.webp?w=600&h=315&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "A partir del 30 de octubre, si la AI de Meta estropea tu anuncio, la responsabilidad es tuya. Compradores de medios dijeron a ADWEEK que la AI de Meta ya está modificando sus anuncios sin pedir permiso."
+        },
+        {
+          "t": "p",
+          "x": "Bookshop.org dijo que una actualización automática de su cuenta de Meta la inscribió en una función de AI generativa, que añadió una ilustración AI-generated a su anuncio hecho por personas sin que lo supiera. Desde entonces ha desactivado todas las funciones publicitarias de AI de Meta."
+        },
+        {
+          "t": "img",
+          "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-1.28.28-PM.png?w=1024",
+          "cap": "Publicación de Bookshop.org en Threads"
+        },
+        {
+          "t": "p",
+          "x": "Según los Commercial Terms actualizados de Meta, los anunciantes serán \"los únicos responsables\" de todo lo que sus funciones de AI creen o modifiquen, incluidas las que Meta active. Antes, la responsabilidad recaía en el anunciante solo si elegía usar las herramientas de AI de Meta. Un portavoz de Meta no respondió directamente a la pregunta y dijo que los anunciantes pueden desactivar funciones individuales de Advantage+ en Ads Manager en cualquier momento."
+        },
+        {
+          "t": "p",
+          "x": "En la agencia Exverus, incluso tras varias rondas de control de calidad, el equipo ha tenido que retirar anuncios activos para eliminar cambios que se colaron, como sitelinks añadidos, traducciones de idioma e imágenes o carruseles AI-generated creados con el material propio de la marca. \"Meta pone la responsabilidad directamente en el anunciante, incluso cuando fueron las propias herramientas de Meta las que aplicaron las mejoras\", dijo Ryan Adams."
+        },
+        {
+          "t": "p",
+          "x": "AdCellerant ahora desactiva de forma sistemática la automatización de AI predeterminada de Meta en todas sus campañas."
+        }
+      ]
     }
   }
 }

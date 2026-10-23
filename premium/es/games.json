@@ -8246,6 +8246,155 @@
           "x": "Lee Kang-wook, CAIO de Krafton, afirmó: \"Con un modelo de lenguaje de gran tamaño rentable, que eleva el rendimiento y reduce la carga de costos, ampliaremos el uso de la AI en diversos sectores industriales\". En abril, Krafton lanzó su marca de modelos de AI 'Raon' y publicó como código abierto 4 modelos, entre ellos Raon Speech."
         }
       ]
+    },
+    "games/games-miyamoto-genai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/miyamoto-pikmin_WgJYOUw.jpg?width=1200&quality=85&format=jpg&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "Shigeru Miyamoto, que el próximo mes se convertirá en el primer desarrollador de videojuegos distinguido con la Order of Culture de Japón (Japan), compartió su opinión sobre la gen-AI en una rueda de prensa por el galardón, en declaraciones traducidas por VGC."
+        },
+        {
+          "t": "p",
+          "x": "Recordó cómo las herramientas pasaron \"de las máquinas de escribir a los procesadores de texto\" y sostuvo que las verdaderas capacidades de un diseñador \"por fin pasaron a primer plano\" a medida que la tecnología asumía más \"trabajo\". \"Aunque el acto de crear es satisfactorio por naturaleza, hay un peligro: uno puede encontrar satisfacción en el trabajo en sí y creer por error que ha creado una obra de alta calidad (high-quality)\", dijo."
+        },
+        {
+          "t": "p",
+          "x": "\"Como el proceso depende de la intención de una persona, con la computadora como asistente para el trabajo, creo que aunque la tecnología siga evolucionando, e incluso si la AI llegara a encargarse de todo, siempre quedará un papel que nos corresponda\"."
+        },
+        {
+          "t": "p",
+          "x": "Masahiro Sakurai se mostró menos optimista y dijo que la gen-AI podría provocar una avalancha de juegos poco originales y poco rentables. Nintendo no ha descartado las herramientas de gen-AI, mientras que el CEO de Square Enix, Takashi Kiryu, afirmó que la compañía sería \"agresiva en la aplicación de la AI\"."
+        }
+      ]
+    },
+    "games/games-sweeney-steam-labels": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7M3WodRrErU8qfasfyuLrW-2560-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El CEO de Epic Games, Tim Sweeney, criticó a Valve por seguir exigiendo que los juegos vendidos en Steam declaren el uso de AI, y calificó la política de \"aborrecible\". \"Obligar a los desarrolladores a escribir una declaración política que usará en su contra la turba del odio que ellos mismos ayudan a organizar es aborrecible\", afirma Sweeney."
+        },
+        {
+          "t": "p",
+          "x": "Las declaraciones de AI de Steam exigen a los desarrolladores que usan AI generativa detallar cómo la emplearon. La de Call of Duty: Modern Warfare 4 dice: \"Nuestro equipo usa herramientas de AI generativa para ayudar a desarrollar algunos recursos del juego\"."
+        },
+        {
+          "t": "p",
+          "x": "Ya en noviembre de 2025, Sweeney calificó de absurdo el enfoque de Valve en un mundo donde \"la AI estará presente en casi toda la producción futura\". En junio comparó las declaraciones con una \"Scarlet Letter\"."
+        },
+        {
+          "t": "p",
+          "x": "Su último mensaje respondía a Matt Workman, de la \"nube de medios generativos\" Fal, quien sostuvo que \"la premisa de una AI Generated Content Disclosure es ABSURD en 2026\"."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/eZKmPGBhfcyu2zDqCWYzU9.jpeg",
+          "cap": "Imagen: Epic Games"
+        },
+        {
+          "t": "p",
+          "x": "La semana pasada, Epic dijo sobre su renovada tienda para PC: \"Hicimos el Epic Games Launcher con vibe coding (vibe coded)\"."
+        }
+      ]
+    },
+    "games/games-future-refunds": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/futurenothanks-pickup-line.jpg?width=1200&quality=85&format=jpg&auto=webp",
+          "cap": "Imagen: Molleindustria"
+        },
+        {
+          "t": "p",
+          "x": "Future? No Thanks! se ha actualizado para eliminar algunas voces generadas con AI (AI-generated) después de que su desarrollador principal, Paolo \"Molleindustria\" Pedercini, revelara tarde que había usado esta tecnología. Ofrece reembolsos por PayPal o Venmo a quien \"todavía se sienta traicionado\"."
+        },
+        {
+          "t": "p",
+          "x": "La actualización elimina dos usos de voz por text-to-speech para personajes robot: un inodoro automático y un traductor automático en una peluquería. \"En mi opinión, el juego ahora es peor, pero solo, digamos, un 0.001% peor\", dice."
+        },
+        {
+          "t": "p",
+          "x": "\"Sí le pedí a chatGPT que arreglara un shader roto y algunas cosas así\", escribió Pedercini, y añadió que \"probablemente deberías asumir que todos los estudios que no se han pronunciado públicamente contra toda la AI generativa la están usando para programar de alguna forma\"."
+        },
+        {
+          "t": "p",
+          "x": "Compartió una lista de desarrolladores que han renunciado a la AI generativa. Su próximo juego estará \"programado completamente a mano\" (hand-coded)."
+        }
+      ]
+    },
+    "games/games-sonicfox-nexcon": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/IMG_7145.jpeg",
+          "cap": "The Game Awards / YouTube"
+        },
+        {
+          "t": "p",
+          "x": "Al descubrir que Nexcon, un evento de videojuegos que se celebrará el próximo mes en Oklahoma y en el que Dominique “SonicFox” McLean, figura de los juegos de lucha, iba a ser invitado especial, había usado arte de AI para su promoción, McLean se retiró de inmediato."
+        },
+        {
+          "t": "p",
+          "x": "“No sé quién está a cargo de Nexcon, pero me niego rotundamente a que mi imagen sea generada con AI (AI generated), y mi interés en asistir como invitado especial ha caído a 0”, escribió McLean en Twitter. “Increíblemente irrespetuoso”. Ese mismo día, añadió que había rescindido su contrato y que ya no asistiría."
+        },
+        {
+          "t": "p",
+          "x": "Ty Bailey, de Ninjutsu Entertainment, la organización detrás de Nexcon, publicó un video en el que se disculpaba con McLean, explicaba que Ninjutsu solo recurrió a la AI porque se había quedado sin dinero para pagar a artistas humanos y pedía a SonicFox que lo reconsiderara."
+        },
+        {
+          "t": "p",
+          "x": "McLean se mantuvo firme. “Soy una persona que perdona, y noto el arrepentimiento en tu voz, así que te perdono. Sin embargo, esos actos siguen teniendo consecuencias que me llevan a no asistir. Usa el dinero que me ofreciste en el contrato para contratar artistas, y quizá el próximo año lo reconsidere”."
+        },
+        {
+          "t": "p",
+          "x": "“Si todo va bien y construyes una comunidad con artistas y talento dispuestos y eliminas toda la AI, puede que el próximo año esté más abierto”, continuó."
+        }
+      ]
+    },
+    "games/games-strata-unreal-browser": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/wonder-2.jpg",
+          "cap": "Wonder Interactive facilita llevar los juegos de Unreal a la web."
+        },
+        {
+          "t": "p",
+          "x": "Wonder Interactive ha presentado Strata, una herramienta de desarrollo AI-powered que puede convertir proyectos de Unreal Engine en enlaces jugables en el navegador mediante WebAssembly y WebGPU. El proceso puede iniciarse con una sola instrucción en lenguaje natural."
+        },
+        {
+          "t": "p",
+          "x": "Para estudios y editoras, podría permitir distribuir demos jugables, hacer pruebas externas y llegar a nuevos públicos mediante un enlace web, sin un cliente de juego tradicional, dijo Alex St. Louis, cofundador y COO. “Tim Sweeney tiene razón. La IA es el futuro del desarrollo de videojuegos”, afirmó."
+        },
+        {
+          "t": "video",
+          "yt": "qo1h9SK-kVA"
+        },
+        {
+          "t": "p",
+          "x": "Strata funciona a través de MCP: los desarrolladores pegan una instrucción en Claude Code, Codex, Cursor u otro IDE con IA con su proyecto de Unreal abierto. El agente compila el proyecto sobre el runtime de Unreal de Wonder compatible con navegadores, lo verifica en una GPU real y devuelve un enlace para jugar. También existe una opción por CLI."
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/wonder-1024x457.jpg",
+          "cap": "Wonder Interactive lleva los juegos de Unreal a la web."
+        },
+        {
+          "t": "p",
+          "x": "La compañía afirma que ha ejecutado City Sample de Epic en el navegador, y que los jugadores descargan alrededor del 3% de sus datos antes de poder empezar a caminar. El renderizador WebGPU es totalmente compatible con Lumen y Nanite."
+        },
+        {
+          "t": "p",
+          "x": "A más largo plazo, los agentes podrían modificar un juego, desplegar una compilación, probarlo en el navegador y optimizar su rendimiento en un ciclo repetitivo. St. Louis insinuó un mercado tipo “Steam para la web”."
+        }
+      ]
     }
   }
 }
