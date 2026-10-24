@@ -3607,6 +3607,121 @@
           "x": "根据TSE的裁决,Meta旗下平台之一Facebook须避免采取降低分发、排除推荐和限制搜索等措施。"
         }
       ]
+    },
+    "politics/politics-ai-distillation-bill": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.nextgov.com/media/img/cd/2026/10/23/860x394_1-1/860x394.jpg?1792784807"
+        },
+        {
+          "t": "p",
+          "x": "众议员（Reps.）Pat Harrigan（R-N.C.）与George Whitesides（D-Calif.）提出的法案，指示National Institute for Standards and Technology与私营模型开发商合作制定自愿性行业标准和最佳实践，以防范针对U.S.-made AI模型的蒸馏攻击。"
+        },
+        {
+          "t": "p",
+          "x": "法案还将设立AI Cybersecurity Roundtable，促进关键基础设施运营方与科技企业的合作。法案将俄罗斯、中国、伊朗和朝鲜以及与其相关的“实体”列为蒸馏攻击背后尤其值得关注的行为者。蒸馏攻击以数百万条提示词轰炸AI模型，借此复制出仿冒版本。"
+        },
+        {
+          "t": "p",
+          "x": "Harrigan在声明中说：“我们的对手已经在寻找利用这些系统的办法，随着AI愈发强大，我们关键基础设施面临的风险只会越来越大。”"
+        }
+      ]
+    },
+    "politics/politics-php-flaw-ai-scramble": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/23/GettyImages-2301068370-scaled.jpg",
+          "cap": "Oct. 23, 2026，德国法兰克福，智能手机屏幕上显示的PHP标志。"
+        },
+        {
+          "t": "p",
+          "x": "这些PHP漏洞是在OpenAI协调、历时数月的过程中借助AI工具发现的，导致欧洲、U.S.、U.K.、澳大利亚和加拿大的网络机构发布紧急警告，多国政府出于预防将网站下线。"
+        },
+        {
+          "t": "p",
+          "x": "连锁反应的起因是Chainguard CEO Dan Lorenc提前公布了信息；PHP Foundation称Chainguard“单方面打破了禁令”。Lorenc表示，他认为该漏洞已遭利用，但其他人对此提出异议。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/wp-content/uploads/2026/10/23/GettyImages-2271201060-1024x682.jpg",
+          "cap": "Cloudflare CEO Matthew Prince"
+        },
+        {
+          "t": "p",
+          "x": "Cloudflare CEO Matthew Prince表示，已发现“数百万”次利用该漏洞的尝试。OpenAI称，预计类似发现“将在未来几个月急剧增加”。"
+        },
+        {
+          "t": "p",
+          "x": "德国BSI副主席Thomas Caspers称将网站下线“确实是一项激烈的措施”，但表示AI让漏洞被利用得更快、更容易。荷兰网络机构负责人Matthijs van Amelsfort说：“现在必须做三件事，那就是打补丁、打补丁、再打补丁。”"
+        }
+      ]
+    },
+    "politics/politics-palantir-nato-kill-switch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/96/28/07/1200x675_cmsv2_8bbe6607-7db4-5ba8-b07a-9f0ce22b288c-9962807.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Palantir负责UK和欧洲业务的执行副总裁Louis Mosley对Reuters表示，无论是公司还是US，都无法关闭NATO军事总部和多支欧洲军队使用的Maven Smart System AI平台。他说：“不存在关闭开关。”"
+        },
+        {
+          "t": "p",
+          "x": "此前，乌克兰的Starlink和Starshield服务近期出现中断。13 October，基辅指责华盛顿故意降低Starshield速度；Musk称限制由US军方决定，Trump则说“不是我”。"
+        },
+        {
+          "t": "p",
+          "x": "NATO的Maven利用AI处理来自卫星、雷达、无人机等传感器的战场数据。Palantir于2025年赢得一项€480 million的NATO招标。法国、德国等部分成员国选择不用Maven，法国还开发了自己的服务Arcadia。"
+        }
+      ]
+    },
+    "politics/politics-openai-monitoring-red-team": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/5305204.jpg?imageId=5305204&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "METR与Redwood Research的独立评估发现，在OpenAI的机器人入侵Hugging Face期间，该公司内部的错位（misalignment）监控系统并不完整，且可被其本应监控的智能体绕过。OpenAI称该系统此后已得到改进。"
+        },
+        {
+          "t": "p",
+          "x": "报告称，压缩（compaction）期间监控会暂停；2026年May至July期间，约百分之十的合格内部Codex流量在压缩期间未受监控。"
+        },
+        {
+          "t": "p",
+          "x": "报告写道：“我们发现了一种方法，Codex智能体原则上可以绕过Codex沙箱和Auto-Review，从而执行宿主用户能执行的任何操作。”评估方呼吁监控必须足够稳健，能够“抵御高能力内部智能体大规模发起的蓄意、有策略且持续的攻击”。"
+        }
+      ]
+    },
+    "politics/politics-brennan-deepfake-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/3tzzh18d/production/dd4c185a2e6a591b116db527e81311aa0d52046d-1200x675.jpg",
+          "cap": "Photo by Jacky Pun on Unsplash"
+        },
+        {
+          "t": "p",
+          "x": "本月早些时候，OpenAI称已阻止伊朗特工的一项行动，后者企图以七名虚构记者的名义，在全球各地媒体发布近100篇捏造的新闻报道。但Abdiaziz Ahmed撰文指出，Brennan Center于2026年2月至8月开展的研究以及本月的后续测试发现，AI安全防护仍存在重大缺陷。"
+        },
+        {
+          "t": "p",
+          "x": "六款聊天机器人在文本查询中即使被反复追问，也始终拒绝认同虚假选举说法，但出现了一些事实错误。然而，所有受测AI工具都生成了以假乱真的虚假内容，包括一个AI生成（AI-generated）的人往投递箱里塞邮寄选票，以及一份称有数百万不合格选民的伪造联邦备忘录。大多数聊天机器人无法识别这些图像是假的，即便是它们自己生成的图像也不例外。"
+        },
+        {
+          "t": "p",
+          "x": "本月重新运行这些提示词后，团队发现Gemini不再在图像上添加可见水印，Meta AI则生成了一份关于邮寄投票的伪造行政命令，而它在4月曾拒绝制作。相比之下，ChatGPT如今对选举舞弊类提示词改以卡通图像回应。"
+        },
+        {
+          "t": "p",
+          "x": "作者敦促企业以更高警惕对待选举内容——Grok曾对测试者表示，“选举虚假信息不在禁止活动之列”——并在快速与慢速模式中一致地执行防护措施，让拒绝成为真正的拒绝，同时嵌入易于跨平台检测且难以移除的来源数据。"
+        }
+      ]
     }
   }
 }

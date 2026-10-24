@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "issue": "AI 영화, 극장과 스튜디오로",
+    "date": "2026.10.24",
+    "section": "MOVIES",
+    "accent": "#7928ca",
+    "note": "특별전과 세로 드라마, 장편 개봉, 전용 스튜디오까지 AI 영화가 정식 유통·제작 경로에 오른다",
+    "sources": [
+      "https://www.maxmovie.com/news/articleView.html?idxno=502436",
+      "https://www.hollywoodreporter.com/business/digital/ai-generated-microdramas-two-thirds-all-releases-1236735402/",
+      "https://www.globaltimes.cn/page/202610/1372724.shtml",
+      "https://www.awn.com/news/territory-group-launches-ai-native-studio-lux-meridian"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 영화 · 10.20~10.24",
+      "thread": [
+        {
+          "d": "10.20",
+          "t": "K-AICA",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.21",
+          "t": "세로 드라마",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.23",
+          "t": "첫 장편",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.24",
+          "t": "전용 스튜디오",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        }
+      ],
+      "thread_note": "AI 영화가 시험작에서 정식 개봉으로",
+      "eyebrow": "흐름 · 영화",
+      "headline": "상영관에 걸리는 AI 영화",
+      "body": "특별전, 세로 드라마, 장편 개봉, 새 스튜디오. 따로 보면 화제 하나씩이지만 이어 보면 AI 영화가 극장과 제작의 정식 경로에 오른다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.10.20",
+      "headline": "AI 영화 18편, 극장에 걸리다",
+      "body": "K-AICA 본선 진출작과 수상작을 28일까지 롯데시네마 수도권 31개 지점에서 상영한다. 관람료는 3000원이다.",
+      "foot": "2026.10.20",
+      "_src": "https://www.maxmovie.com/news/articleView.html?idxno=502436",
+      "_id": "movies-lotte-kaica-run",
+      "stat_top": "1528편",
+      "stat_arrow": "87개국 출품작 가운데 극장으로",
+      "stat_bottom": "18편",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.21",
+      "headline": "세로 드라마 신작, 셋 중 둘",
+      "body": "Owl & Co.에 따르면 3분기 중국 밖 세로형 드라마 신작의 삼분의 이가 AI 제작이다. 첫 분기엔 3퍼센트였다.",
+      "foot": "2026.10.21",
+      "_src": "https://www.hollywoodreporter.com/business/digital/ai-generated-microdramas-two-thirds-all-releases-1236735402/",
+      "_id": "movies-microdramas-ai-two-thirds",
+      "media": "pipeline/media/movies-microdramas-ai-two-thirds.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.23",
+      "headline": "중국 첫 AI 장편, 극장 개봉",
+      "body": "Bona의 Sanxingdui는 2년 넘게 예비 이미지 120만 장을 생성했다. 제작비는 1,000만 위안(150만 달러)이 넘는다.",
+      "foot": "2026.10.23",
+      "_src": "https://www.globaltimes.cn/page/202610/1372724.shtml",
+      "_id": "movies-sanxingdui-ai-feature",
+      "media": "pipeline/media/movies-sanxingdui-ai-feature.jpeg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.24",
+      "headline": "AI-native 스튜디오의 출범",
+      "body": "Lux Meridian은 AI 기업이 아닌 제작 스튜디오다. Adobe Firefly Foundry로 독점 모델을 만들어 쓴다.",
+      "foot": "2026.10.24",
+      "_src": "https://www.awn.com/news/territory-group-launches-ai-native-studio-lux-meridian",
+      "_id": "movies-lux-meridian",
+      "media": "pipeline/media/movies-lux-meridian.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

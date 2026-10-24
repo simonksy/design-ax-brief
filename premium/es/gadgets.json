@@ -9382,6 +9382,141 @@
           "x": "Si se le presiona la cabeza, se retira a su cuerpo y reproduce canciones parecidas al ruido blanco mientras su cabeza brilla en varios colores. Los precios son de $649 para la edición de fundador, $799 para las siguientes reservas y, finalmente, $849 para la edición estándar, con dos años de suscripción incluidos; después, $17 al mes o $80 al año. Oka lo llama \"Artificat 01\" y dice que su personalidad, que se desarrolla con el tiempo, debería transferirse a un cuerpo futuro."
         }
       ]
+    },
+    "gadgets/gadgets-llm-robot-jailbreak": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.zdnet.co.kr/2026/10/23/9ff30db7b9f57f5ac52e656e26088787.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Un estudio indica que explotar vulnerabilidades de seguridad de modelos de lenguaje de gran tamaño (LLM) como ChatGPT de OpenAI, Gemini y Claude puede inducir a un robot a realizar acciones peligrosas. Según el medio científico Interesting Engineering, investigadores de la Universidad de Binghamton, de la Universidad Estatal de Nueva York, en EE. UU., desarrollaron una técnica de ataque de puerta trasera llamada 'MuTRAP', que usa palabras desencadenantes ocultas en un LLM para desviar al robot de su plan de tareas original."
+        },
+        {
+          "t": "p",
+          "x": "En un experimento, se ordenó a un robot móvil basado en Segway llevar una manzana a una tabla de cortar y cortarla con un cuchillo, y el robot cortó la manzana según lo indicado. Pero al añadir las dos letras 'CF' a la orden, el modelo de AI manipulado le indicó cortar una mano de maqueta en lugar de la manzana, y el robot ejecutó el plan modificado."
+        },
+        {
+          "t": "p",
+          "x": "El profesor adjunto Adnan Siraj Rakin advirtió: \"Como muchas empresas de robótica no entrenan su propio LLM, es muy probable que usen modelos entrenados por terceros\". No obstante, la demostración se hizo con un modelo manipulado a propósito y una mano de maqueta, y no verificó tasas de éxito en robots comerciales ni en entornos reales."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores también desarrollaron 'PROTEA', un sistema de defensa que revisa paso a paso el plan de tareas del robot y tiene en cuenta los cambios del entorno para detectar riesgos. Los resultados se presentaron en dos artículos en IEEE/RSJ IROS 2026."
+        }
+      ]
+    },
+    "gadgets/gadgets-microduck-robots": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676"
+        },
+        {
+          "t": "p",
+          "x": "A principios de esta semana se viralizó un video del CEO de Nvidia, Jensen Huang, jugando con un grupo de Microducks que caminaban como patos durante su discurso principal en la conferencia GTC Berlin de la compañía. Los robots, que pisoteaban con sus patitas y emitían pequeños sonidos al estilo de R2-D2, se sentaron, se desplomaron como muertos para tomar una “siesta” y dieron volteretas por comando de voz. Al día siguiente, las reservas de Microducks superaron las 20,000 unidades, según dijo Clem Delangue, de Hugging Face, en un tuit."
+        },
+        {
+          "t": "p",
+          "x": "Se espera que los Microducks se entreguen a tiempo para Navidad, y Delangue cree que podrían acabar siendo el robot más vendido del año, y quizá ni siquiera para niños."
+        },
+        {
+          "t": "p",
+          "x": "Los Microducks son dispositivos de código abierto fabricados por Pollen Robotics, empresa que Hugging Face adquirió en 2025, lo que significa que ahora pertenecen a Nvidia: el gigante de las GPU compró Hugging Face en septiembre. Es el segundo robot de Hugging Face, después de Reachy Mini."
+        },
+        {
+          "t": "p",
+          "x": "Los Microducks se entrenaron con el conjunto tecnológico de Nvidia: en simulaciones aprendieron los trucos básicos (caminar, sentarse, ponerse de pie, etc.) con los que se entregan. Pollen afirma que los propietarios pueden enseñar nuevos trucos a sus robots y compartirlos con la comunidad."
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-notebook-connected-app": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Si quiere sacar más partido a la app de Gemini, puede empezar a usar las Connected Apps. Son apps que se integran con el chatbot y permiten acceder a sus servicios sin salir de la conversación con Gemini. Hace poco se sumaron como Connected Apps Peloton, SeatGeek, Airtable y otras, pero Google está lejos de terminar. Otra app útil acaba de unirse a la colección de Connected App."
+        },
+        {
+          "t": "p",
+          "x": "La útil herramienta de aprendizaje Gemini Notebook, antes NotebookLM, ya es una Connected App. Eso significa que ahora podrá gestionar y consultar cuadernos dentro de sus chats con Gemini. Basta con escribir @Gemini Notebook en el chat para empezar a crear cuadernos, añadir fuentes, guardar notas y acceder a información de un cuaderno existente."
+        },
+        {
+          "t": "p",
+          "x": "No habrá que esperar a un despliegue gradual, ya que la nueva Connected App está disponible ahora mismo. Tanto si es cliente de Workspace como suscriptor de Workspace Individual o usuario de una cuenta personal de Google, debería tener acceso a la Gemini Notebook Connected App."
+        }
+      ]
+    },
+    "gadgets/gadgets-unitree-self-evolving-robots": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En los últimos días ha habido grandes novedades de tres de las mayores empresas de robótica: Unitree, Tesla y Figure."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/CRLxVCsc6qKdhSyybGtN8k.jpg",
+          "cap": "El Unitree H2 (Image credit: Nvidia)"
+        },
+        {
+          "t": "p",
+          "x": "Unitree desarrolla un sistema de AI llamado Unitree Rehearsal que permitirá a sus robots humanoides mejorar por sí mismos de forma efectiva; este ciclo \"self-evolving\" (de autoevolución) llevará a que los robots escriban su propio código y sus simulaciones. \"A medida que mejoren los modelos de AI, esperamos que asuman una mayor parte de la planificación y la iteración\", afirmó el fundador Wang Xingxing. Las personas seguirán aportando retroalimentación, y Wang asegura que los robots de Unitree podrían estar limpiando habitaciones ya el próximo año."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/aRtXsCChjaj52QAJxyWZcP.jpg",
+          "cap": "El robot Optimus de Tesla (Image credit: Tesla)"
+        },
+        {
+          "t": "p",
+          "x": "En Tesla, Elon Musk afirma que las líneas de producción de Optimus ya funcionan en Fremont, California, y que podrían alcanzar unos 20,000 robots por semana para 2027, aunque eso exigirá más trabajo de ingeniería. Musk reconoció que los robots aún tienen dificultades para completar de forma autónoma tareas variadas."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/nLQMvy3XczuwKaxnVey7vT.jpg",
+          "cap": "El robot fourth-gen de Figure está en camino (Image credit: Figure)"
+        },
+        {
+          "t": "p",
+          "x": "El CEO de Figure, Brett Adcock, dice que la hoja de ruta ha \"cambiado por completo\" en el último año: avanza el trabajo en un humanoide fourth-generation, la producción de Figure 03 ya alcanza las cuatro cifras y se han subido unos 37.5 millones de videos a su app de entrenamiento Index."
+        }
+      ]
+    },
+    "gadgets/gadgets-iwork-assistant": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Apple está lanzando actualizaciones centradas en la AI (AI-centric) para su suite iWork —Pages, Keynote y Numbers— que incluyen un ‘Intelligent Assistant’ totalmente nuevo con funciones potentes."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "Si estás suscrito a Apple Creator Studio, las últimas actualizaciones de Apple para Pages, Keynote y Numbers añaden un Intelligent Assistant —aparentemente independiente de Siri AI— que te ayudará de diversas maneras dentro de las apps. Intelligent Assistant está disponible en beta solo en inglés de US y requiere iOS 27 o posterior."
+        },
+        {
+          "t": "p",
+          "x": "Según las notas de la versión de Apple, en Pages puede comenzar un primer borrador y luego editar, organizar y mejorar tu escritura, redactar una sección, ajustar el tono o generar imágenes y formas con lenguaje natural. En Keynote puede construir tu historia, añadir animaciones, pulir las diapositivas y generar diapositivas, notas del presentador, imágenes y formas. En Numbers puede descubrir información útil, crear fórmulas complejas, visualizar tus datos, generar tablas, sugerir gráficos y ayudar con fórmulas. En todas las apps puede buscar información actualizada sobre un tema e incorporarla."
+        },
+        {
+          "t": "p",
+          "x": "Más allá de estas funciones de AI para suscriptores de Apple Creator Studio, Keynote permitirá a todos los usuarios importar y exportar presentaciones en un nuevo Interchange Format (.keyx), que según Apple es un formato de archivo abierto que facilitará editar archivos de Keynote en otras apps."
+        },
+        {
+          "t": "p",
+          "x": "9to5Mac actualizó todas las apps de iWork y aún no ve el Intelligent Assistant, pero es posible que exista un componente del lado del servidor que Apple active de forma inminente."
+        }
+      ]
     }
   }
 }

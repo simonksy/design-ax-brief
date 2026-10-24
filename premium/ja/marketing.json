@@ -2194,6 +2194,93 @@
           "x": "AdCellerantは現在、すべてのキャンペーンでMetaの既定のAI自動化を体系的にオフにしている。"
         }
       ]
+    },
+    "marketing/marketing-iab-tech-lab-agentic-standard-comments": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/iab-tech-lab-openproposal-aamp-3-comment-extension-typewriter-carriage.jpg",
+          "cap": "IAB Tech Labは71-field(71項目)のOpenProposalの意見募集期間を30日から49日へ延ばし、11月10日までとした"
+        },
+        {
+          "t": "p",
+          "x": "IAB Tech Labは2026年10月23日、AAMP 3.0とその中核仕様であるOpenProposalのパブリックコメント期間を11月10日まで延長した。買い手側と売り手側のソフトウェアエージェントが広告提案をやり取りする方法を定めるこの草案は、10月22日に締め切られる予定だった。期間は30日ではなく49日となる。"
+        },
+        {
+          "t": "p",
+          "x": "同団体はLinkedInで「圧倒的な需要を受けて」と述べた。CEOのアンソニー・カツァー(Anthony Katsur)は反響を「非常に大きい」と表現したが、いずれの投稿も件数は示していない。"
+        },
+        {
+          "t": "p",
+          "x": "草案の71のフィールドは11のヘッダーにまとめられ、相手方との往復が必要なのは3つだけだ。リポジトリによれば「その比率こそ、この草案が検証を求めている設計上の主張」である。会員かどうかを問わず、GitHubアカウントがあれば誰でもコメントできる。"
+        },
+        {
+          "t": "p",
+          "x": "Machine-readable(機械可読)なスキーマは、コメント期間終了後の最初の改訂に続いて公開される。"
+        }
+      ]
+    },
+    "marketing/marketing-google-marketing-platform-drop-gemini": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide01_1021.max-1440x810.png"
+        },
+        {
+          "t": "p",
+          "x": "新たな月例シリーズ「Google Marketing Platform Drops」では、カスタマージャーニー全体で最大のROIを得るための最新情報を届ける。Vertical Video Unificationによる認知拡大、Search Ads 360によるパフォーマンス向上から、顧客をCTVから購入カートまで導く方法まで、幅広く取り上げる。まずは最初のアップデートを見てほしい。"
+        },
+        {
+          "t": "p",
+          "x": "業界でのリーダーシップ:Gartner®はGoogle Marketing Platformにより、GoogleをGartner Magic Quadrant™ for Advertising PlatformsのLeaderに位置づけ、すべてのUse Cases(Full Funnel、Awareness、Performance)でGoogleを#1と評価した。"
+        },
+        {
+          "t": "p",
+          "x": "Display & Video 360のインベントリ強化:Geminiモデルが選定するMarketplaceは、ライブスポーツや大型(tentpole)イベント向けに、single-click(ワンクリック)で有効化できるパーソナライズされたメディアバンドルを提供するようになった。また、LinkedIn CTV AdsのプログラマティックインベントリをDV360に取り込み、購入、計画、測定を一元化した。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide06_1.width-1000.format-webp.webp",
+          "cap": "Display & Video 360の新しいMarketplace"
+        },
+        {
+          "t": "p",
+          "x": "新しいSearch Ads 360 Homeエクスペリエンス:リアルタイムでパフォーマンスを高めるため、このカスタマイズ可能なビューはGeminiモデルを使ってインサイトを集約し、スマートな提案を生成し、実行を効率化する。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide08_1.width-1000.format-webp.webp",
+          "cap": "新しいSearch Ads 360 Homeエクスペリエンス"
+        }
+      ]
+    },
+    "marketing/marketing-google-gmail-photos-ad-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Googleがプライバシーポリシーを更新した。パーソナライズされたAI機能を使っている場合、個人データに基づくターゲット広告が表示され始める可能性がある。Android Authorityが見つけたこの更新は、Drive、Gmail、Google Photosを個人向け広告に使わないという約束に例外を加えるものだ。Googleは10月16日付で「これらのサービスのデータを、パーソナライズド広告に対応する他のGoogleサービスで利用できるようにすることを選んだ場合を除く」という一文を追加した。"
+        },
+        {
+          "t": "p",
+          "x": "つまり、GoogleのPersonal Intelligence機能を通じてDrive、Gmail、Google PhotosをAI ModeなどのSearchツールに接続した人は、その内容に基づくターゲット広告を目にする可能性がある。"
+        },
+        {
+          "t": "p",
+          "x": "広告主がDrive、Gmail、Photosの情報や、名前やメールアドレスといった個人を特定できる情報にアクセスすることはない。またGoogleは、人種、性的指向、宗教、健康といったセンシティブなカテゴリに基づく広告は表示しない。"
+        },
+        {
+          "t": "p",
+          "x": "ポリシーには現在こう書かれている。「たとえばSearchは、広告を含むコンテンツをパーソナライズするために、Searchへのアクセスを許可したデータの一部を処理することがある」"
+        },
+        {
+          "t": "p",
+          "x": "これを防ぐには、SearchのPersonal Intelligence機能からアプリの接続を解除するか、Search Services Personalizationの設定ページでPersonalized Recommendationsを完全に無効にすればよい。"
+        }
+      ]
     }
   }
 }

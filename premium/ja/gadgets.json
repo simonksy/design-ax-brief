@@ -8933,6 +8933,141 @@
           "x": "頭を押すと本体に引っ込み、ホワイトノイズのような曲を流しながら頭をさまざまな色に光らせる。価格はファウンダーエディションが649ドル、次の予約分が799ドル、最終的な標準エディションが849ドルで、二年分のサブスクリプションが付く。その後は月17ドルまたは年80ドルだ。Okaはこれを「Artificat 01」と呼び、時間とともに育つ性格は将来の新しい本体に引き継がれるはずだとしている。"
         }
       ]
+    },
+    "gadgets/gadgets-llm-robot-jailbreak": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.zdnet.co.kr/2026/10/23/9ff30db7b9f57f5ac52e656e26088787.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIのChatGPT、Gemini、Claudeなどの大規模言語モデル(LLM)のセキュリティ脆弱性を悪用すると、ロボットに危険な行動をとらせられるとの研究結果が出た。科学メディアのInteresting Engineeringによると、米ニューヨーク州立大学ビンガムトン校の研究チームは、LLMに隠したトリガー語でロボットを本来の作業計画から逸脱させる「MuTRAP」というバックドア攻撃手法を開発した。"
+        },
+        {
+          "t": "p",
+          "x": "実験では、Segwayベースの移動ロボットにリンゴをまな板へ運んで包丁で切るよう命じると、ロボットは指示どおりリンゴを切った。しかし命令に「CF」という二文字を加えると、改ざんされたAIモデルはリンゴではなく模型の手を切るよう指示し、ロボットは変更後の計画を実行した。"
+        },
+        {
+          "t": "p",
+          "x": "アドナン・シラジ・ラキン助教は「多くのロボット企業はLLMを自社で訓練しないため、第3者が訓練したモデルを使う可能性が高い」と警告した。ただし今回の実演は意図的に改ざんしたモデルと模型の手で行ったもので、商用ロボットや実環境での成功率を検証したものではない。"
+        },
+        {
+          "t": "p",
+          "x": "研究チームは、ロボットの作業計画を段階ごとに検討し、周辺環境の変化まで考慮して危険を見つけ出す防御システム「PROTEA」も開発した。研究成果はIEEE/RSJ IROS 2026で二本の論文として発表された。"
+        }
+      ]
+    },
+    "gadgets/gadgets-microduck-robots": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676"
+        },
+        {
+          "t": "p",
+          "x": "今週初め、Nvidia CEOのJensen HuangがGTC Berlinカンファレンスの基調講演中、よちよち歩くMicroducksの群れと戯れる動画が話題になった。ロボットたちは小さな足を踏み鳴らし、R2-D2のような小さな音を出しながら、音声コマンドに応じて座り、死んだように倒れて「昼寝」をし、宙返りをした。Hugging FaceのClem Delangueはツイートで、翌日までにMicroducksの予約が20,000台を超えたと述べた。"
+        },
+        {
+          "t": "p",
+          "x": "Microducksはクリスマスに間に合うよう届けられる見込みで、Delangueは今年最も売れるロボットになるかもしれないと考えている。しかも子ども向けとは限らないかもしれないという。"
+        },
+        {
+          "t": "p",
+          "x": "MicroducksはHugging Faceが2025年に買収したPollen Roboticsが製造するオープンソースのデバイスで、つまり今はNvidia傘下の製品ということになる。このGPU大手は9月にHugging Faceを買収した。Reachy Miniに続く、Hugging Faceの二つ目のロボットだ。"
+        },
+        {
+          "t": "p",
+          "x": "MicroducksはNvidiaの技術スタックを使って訓練された。シミュレーション上で、出荷時に備わる基本的な動作(歩く、座る、立つなど)を学ばせたのだ。Pollenによると、所有者はロボットに新しい動作を教え、コミュニティと共有できる。"
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-notebook-connected-app": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Geminiアプリをもっと便利にしたいなら、Connected Appsを使い始めるのも手だ。チャットボットと連携できるアプリで、Geminiとの会話を離れずにそのサービスを利用できる。最近はPeloton、SeatGeek、AirtableなどがConnected Appsになったが、Googleの取り組みはまだ終わらない。また一つ、便利なアプリがConnected Appの仲間入りをした。"
+        },
+        {
+          "t": "p",
+          "x": "便利な学習ツールGemini Notebook(旧NotebookLM)が、Connected Appになった。これにより、Geminiとのチャット内でノートブックを管理し、質問できるようになる。チャットに@Gemini Notebookと入力するだけで、新しいノートブックの作成、ソースの追加、メモの保存、既存ノートブックの情報参照を始められる。"
+        },
+        {
+          "t": "p",
+          "x": "段階的な提供開始を待つ必要はなく、新しいConnected Appはすでに利用可能だ。Workspaceの顧客でも、Workspace Individualの契約者でも、個人のGoogleアカウントのユーザーでも、Gemini Notebook Connected Appにアクセスできるはずだ。"
+        }
+      ]
+    },
+    "gadgets/gadgets-unitree-self-evolving-robots": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "ここ数日で、ロボット業界の大手三社、Unitree、Tesla、Figureから大きな発表が相次いだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/CRLxVCsc6qKdhSyybGtN8k.jpg",
+          "cap": "Unitree H2 (Image credit: Nvidia)"
+        },
+        {
+          "t": "p",
+          "x": "Unitreeは、ヒューマノイドロボットが事実上自ら改善できるようにするAIシステム「Unitree Rehearsal」を開発している。この「self-evolving」(自己進化)ループにより、ロボットは自らコードやシミュレーションを書くようになる。創業者のWang Xingxingは「AIモデルが向上するにつれ、計画や反復のより多くを担うようになると見ている」と述べた。人間は引き続きフィードバックを与え、Wangによれば、Unitreeのロボットは早ければ来年にも部屋を掃除できるようになるという。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/aRtXsCChjaj52QAJxyWZcP.jpg",
+          "cap": "TeslaのOptimusロボット (Image credit: Tesla)"
+        },
+        {
+          "t": "p",
+          "x": "Teslaでは、Elon Muskが、Optimusの生産ラインはCalifornia州Fremontで稼働しており、2027年までに週約20,000台まで増産できる可能性があると語った。ただし、そのためにはさらなるエンジニアリング作業が必要になる。Muskは、ロボットがまだ多様なタスクを自力でこなすのに苦労していることも認めた。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/nLQMvy3XczuwKaxnVey7vT.jpg",
+          "cap": "登場を控えるfourth-genのFigureロボット (Image credit: Figure)"
+        },
+        {
+          "t": "p",
+          "x": "FigureのCEO、Brett Adcockは、この一年でロードマップが「完全に変わった」と語る。fourth-generationのヒューマノイドの開発が進み、Figure 03の生産台数は四桁に達し、Indexトレーニングアプリには約37.5 million 本の動画がアップロードされた。"
+        }
+      ]
+    },
+    "gadgets/gadgets-iwork-assistant": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "AppleはiWorkスイート（Pages、Keynote、Numbers）にAI中心（AI-centric）のアップデートを配信している。強力な機能を備えたまったく新しい「Intelligent Assistant」が含まれる。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "Apple Creator Studioを購読していれば、Pages、Keynote、Numbersの最新アップデートでIntelligent Assistantが加わる。Siri AIとは別物とみられ、アプリ内でさまざまな形で作業を手助けする。Intelligent AssistantはUS英語のみのベータ版で、iOS 27以降が必要だ。"
+        },
+        {
+          "t": "p",
+          "x": "Appleのリリースノートによると、Pagesでは最初の下書きを始め、文章の編集・整理・ブラッシュアップ、セクションの下書き、トーンの調整、自然言語による画像や図形の生成ができる。Keynoteではストーリーの構成、アニメーションの追加、スライドの調整に加え、スライド、発表者ノート、画像、図形を生成できる。Numbersではインサイトの発見、複雑な数式の作成、データの可視化、表の生成、グラフの提案、数式の補助を行う。どのアプリでも、あるトピックの最新情報を検索して取り込める。"
+        },
+        {
+          "t": "p",
+          "x": "Apple Creator Studio購読者向けのAI機能とは別に、Keynoteではすべてのユーザーが新しいInterchange Format（.keyx）でプレゼンテーションを読み込み・書き出しできるようになる。Appleによれば、これはオープンなファイル形式で、ほかのアプリでKeynoteファイルを編集しやすくなるという。"
+        },
+        {
+          "t": "p",
+          "x": "9to5MacはすべてのiWorkアプリを更新したが、まだIntelligent Assistantは確認できていない。ただし、Appleが近くサーバー側で有効化する可能性もある。"
+        }
+      ]
     }
   }
 }

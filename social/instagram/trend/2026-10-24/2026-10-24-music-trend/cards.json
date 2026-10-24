@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "issue": "믹싱 책상에 앉은 AI",
+    "date": "2026.10.24",
+    "section": "MUSIC",
+    "accent": "#eb367f",
+    "note": "피치 보정에서 믹스 계획과 심사까지, AI가 후반 작업을 한 단계씩 맡아 간다",
+    "sources": [
+      "https://bedroomproducersblog.com/2026/10/20/session-loops-pitchnet/",
+      "https://finance.yahoo.com/technology/ai/articles/moises-soundcloud-partner-bring-ai-142300209.html",
+      "https://arxiv.org/abs/2610.29093",
+      "https://arxiv.org/abs/2610.30783"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 음악 · 10.21~10.24",
+      "thread": [
+        {
+          "d": "10.21",
+          "t": "피치 편집",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "10.22",
+          "t": "Moises",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "10.23",
+          "t": "믹스 계획",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "10.24",
+          "t": "믹스 심사",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        }
+      ],
+      "thread_note": "AI가 후반 작업을 한 단계씩 맡아 간다",
+      "eyebrow": "흐름 · 음악",
+      "headline": "고치고, 짜고, 판정한다",
+      "body": "따로 보면 편집기 하나, 제휴 하나, 논문 둘이다. 이어 보면 피치 보정에서 믹스 계획과 심사까지 후반 작업이 차례로 AI에 넘어간다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.21",
+      "headline": "무료로 풀린 피치 편집기",
+      "body": "Session Loops의 PitchNet은 보컬 음을 피아노 롤에 띄워 고친다. AI 재합성을 쓰는 무료 Melodyne 대안이다.",
+      "foot": "2026.10.21",
+      "_src": "https://bedroomproducersblog.com/2026/10/20/session-loops-pitchnet/",
+      "_id": "music-pitchnet-free-pitch-editor",
+      "video": "pipeline/media/music-pitchnet-free-pitch-editor.mp4"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.22",
+      "headline": "SoundCloud 곁에 온 믹싱 도구",
+      "body": "SoundCloud 트랙에 Moises의 스템 분리와 믹싱·마스터링을 바로 쓴다. 에이전트 Moi는 세션 세팅부터 믹싱까지 해 준다.",
+      "foot": "2026.10.22",
+      "_src": "https://finance.yahoo.com/technology/ai/articles/moises-soundcloud-partner-bring-ai-142300209.html",
+      "_id": "music-moises-soundcloud",
+      "media": "pipeline/media/music-moises-soundcloud.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.23",
+      "headline": "레퍼런스 곡 보고 믹스를 짠다",
+      "body": "Rice University·Sony의 MixAgent는 트랙을 묶고 이펙트 순서를 정한다. 보정은 초기 믹스보다 오류를 19% 줄였다.",
+      "foot": "2026.10.23",
+      "_src": "https://arxiv.org/abs/2610.29093",
+      "_id": "music-mixagent-post-production",
+      "media": "pipeline/media/music-mixagent-post-production.png"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.24",
+      "headline": "잘 섞였는지 AI가 판정한다",
+      "body": "MixJudge는 보컬 믹스 문제 11종을 심각도별로 배웠다. 처리 후보 가운데 전문가 버전에 가까운 쪽을 고를 때가 많았다.",
+      "foot": "2026.10.24",
+      "_src": "https://arxiv.org/abs/2610.30783",
+      "_id": "music-mixjudge",
+      "media": "pipeline/media/music-mixjudge.png"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

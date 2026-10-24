@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "issue": "Windows AI, 덜어 내는 중",
+    "date": "2026.10.24",
+    "section": "GADGETS",
+    "accent": "#ff5a4d",
+    "note": "Microsoft가 Copilot+ PC 간판, 탐색기 Copilot 메뉴, Recall식 상시 캡처를 차례로 덜어 낸다",
+    "sources": [
+      "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+      "https://www.notebookcheck.net/Microsoft-pulls-eight-Copilot-actions-from-Windows-11-File-Explorer.1432095.0.html",
+      "https://www.techradar.com/computing/windows/windows-11-could-get-a-very-different-take-on-recall-but-context-vault-feature-doesnt-seem-likely-to-persuade-ai-skeptics"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "3건 · 가젯 · 09.26~10.24",
+      "thread": [
+        {
+          "d": "09.26",
+          "t": "간판 내림",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.24",
+          "t": "메뉴 정리",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.24",
+          "t": "설치형으로",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        }
+      ],
+      "thread_note": "Microsoft가 Windows의 AI를 조금씩 덜어 낸다",
+      "eyebrow": "흐름 · 가젯",
+      "headline": "Windows의 AI, 덜어 내는 중",
+      "body": "한 건씩 보면 이름 하나, 메뉴 몇 개를 정리한 일이지만, 이어 보면 AI를 앞세우던 자리가 하나씩 비어 간다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.09.26",
+      "headline": "Surface에서 빠진 Copilot+ PC",
+      "body": "Microsoft가 새로 내놓은 Surface 노트북에는 Copilot+ PC 브랜딩이 없다.",
+      "foot": "2026.09.26",
+      "_src": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+      "_id": "gadgets-surface-copilot",
+      "media": "pipeline/media/gadgets-surface-copilot.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.10.24",
+      "headline": "탐색기 Copilot 동작 8개가 빠진다",
+      "body": "OneDrive 파일 오른쪽 클릭 메뉴 이야기다. 빠지는 8개 동작은 OneDrive 활동 센터에서 계속 쓸 수 있다.",
+      "foot": "2026.10.24",
+      "_src": "https://www.notebookcheck.net/Microsoft-pulls-eight-Copilot-actions-from-Windows-11-File-Explorer.1432095.0.html",
+      "_id": "gadgets-copilot-explorer-retire",
+      "stat_top": "Copilot 동작 8개",
+      "stat_arrow": "11월 중순부터",
+      "stat_bottom": "Ask Copilot 하나"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.24",
+      "headline": "Recall 대신 Context Vault",
+      "body": "화면을 자동 캡처하지 않는다. Store에서 따로 설치하고, 사용자가 넣은 자료만 AI에 묻는다. 회의론은 여전하다.",
+      "foot": "2026.10.24",
+      "_src": "https://www.techradar.com/computing/windows/windows-11-could-get-a-very-different-take-on-recall-but-context-vault-feature-doesnt-seem-likely-to-persuade-ai-skeptics",
+      "_id": "gadgets-context-vault",
+      "media": "pipeline/media/gadgets-context-vault.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 5
+    }
+  ]
+}

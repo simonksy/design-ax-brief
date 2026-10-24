@@ -2048,6 +2048,130 @@
           "x": "WEDI propuso un proceso de notificación de eventos adversos y etiquetas “nutricionales” para las herramientas de IA. Rick Abramson, de la FDA, dijo que la agencia prevé publicar en los próximos meses un borrador de guía sobre los dispositivos habilitados con IA generativa (AI-enabled)."
         }
       ]
+    },
+    "medicine/medicine-aitrics-kbsmc-admin-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "[Medical News·Daily Bosa = periodista Oh In-gyu] El cansancio del personal sanitario ha llegado al límite por la escasez crónica de personal y el enorme volumen de trabajo documental. Para superarlo, se multiplican los intentos de incorporar a la práctica clínica tecnologías de AI de nueva generación, como los grandes modelos de lenguaje (LLM), con el fin de mejorar de forma concreta el entorno de trabajo."
+        },
+        {
+          "t": "p",
+          "x": "En línea con esta tendencia, AITRICS (director ejecutivo: Kim Kwang-joon), empresa especializada en inteligencia artificial (AI) médica, se alía con el Hospital Kangbuk Samsung para aliviar la persistente carga documental en la práctica clínica. Lo hace tras ser seleccionada recientemente como empresa del consorcio participante en el 'Programa de Apoyo a la Transformación AI (AX) 2026', organizado por Seoul AI Hub."
+        },
+        {
+          "t": "p",
+          "x": "Con este proyecto, AITRICS comenzará a desarrollar una plataforma AX basada en LLM capaz de automatizar los registros clínicos y renovar los flujos de trabajo hospitalarios. La estrategia consiste en sustituir con AI los procesos de verificación y registro de información que se repiten a diario, para maximizar la eficiencia asistencial."
+        },
+        {
+          "t": "p",
+          "x": "En particular, el Hospital Kangbuk Samsung, como socio, desempeñará un papel central: analizará en detalle los entornos reales de consulta externa y enfermería para definir las tareas concretas a las que se aplicará la AI. También concretará las funciones esenciales y los criterios de validación ajustados a las necesidades de los médicos y enfermeros que realizan el trabajo diario."
+        },
+        {
+          "t": "p",
+          "x": "Las tareas de desarrollo prioritarias se resumen en tres: ▲perfeccionar el historial acumulado de medicación y diagnóstico de los pacientes en consulta externa ▲resumir la evolución clave de los numerosos informes de lectura de pruebas de imagen como CT·MRI ▲convertir a texto (STT) y resumir las conversaciones de voz que se producen en los relevos de enfermería. La clave es que la AI condense con rapidez y precisión grandes volúmenes de datos médicos y los ofrezca en el momento oportuno."
+        },
+        {
+          "t": "p",
+          "x": "El personal del Hospital Kangbuk Samsung participará directamente desde las fases iniciales de planificación y desarrollo para evaluar la usabilidad y examinar con detalle la validez clínica. Ambas instituciones aspiran a que esta colaboración sirva de impulso para asegurar una versatilidad técnica que permita trasladar con flexibilidad la plataforma terminada a otras instituciones médicas."
+        },
+        {
+          "t": "p",
+          "x": "Kim Kwang-joon, director ejecutivo de AITRICS, insistió en la eficacia práctica de una tecnología de AI basada estrictamente en las necesidades reales del entorno clínico."
+        },
+        {
+          "t": "p",
+          "x": "\"El objetivo principal de este proyecto es completar una plataforma AX a medida que dé prioridad a la voz del personal y pueda integrarse de inmediato en los sistemas hospitalarios reales\", afirmó Kim. \"Haremos todo lo posible para que la avanzada tecnología LLM no solo alivie de forma real la carga de trabajo del personal médico, sino que también sea el detonante de una innovación digital sanitaria que cambie el paradigma de la gestión hospitalaria en su conjunto\", añadió."
+        }
+      ]
+    },
+    "medicine/medicine-pitt-breast-ai-trust": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-06/istock-2202666684.jpg?h=140710cd&itok=XUsmUugX"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de la University of Pittsburgh diseñaron un modelo de AI que, según creen, ayudará a que la AI de imagen para el cáncer de mama sea más fiable."
+        },
+        {
+          "t": "p",
+          "x": "Su red neuronal profunda está entrenada para estimar la incertidumbre junto con sus predicciones diagnósticas. El método, llamado uncertainty-weighted learning (aprendizaje ponderado por incertidumbre), genera una predicción y una puntuación de incertidumbre, y señala los casos en los que el resultado puede ser menos fiable y un resultado de AI puede requerir una segunda revisión de un radiólogo."
+        },
+        {
+          "t": "p",
+          "x": "Shandong Wu, PhD, profesor de radiología en Pitt, dirigió el trabajo junto con el doctorando Jiren Li y Dooman Arefan, PhD, y utilizó la supercomputadora Bridges-2 del Pittsburgh Supercomputing Center para entrenar y evaluar los modelos."
+        },
+        {
+          "t": "p",
+          "x": "El equipo espera extender el enfoque más allá de la mamografía, pero el trabajo aún está en una fase temprana y necesita más validación en distintas poblaciones de pacientes y entornos de imagen."
+        }
+      ]
+    },
+    "medicine/medicine-episemollm-epilepsy": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La semiología de las crisis ofrece pistas para localizar la zona epileptógena (EZ) en la epilepsia focal farmacorresistente, pero su interpretación varía entre clínicos e instituciones."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01883-1/MediaObjects/43856_2026_1883_Fig1_HTML.png"
+        },
+        {
+          "t": "p",
+          "x": "EpiSemoLLM se desarrolló a partir de 1,372 pares semiología–EZ verificados quirúrgicamente, procedentes de 392 estudios publicados y de una cohorte del Far Eastern Memorial Hospital, y combina un ajuste fino eficiente en parámetros con conocimiento estructurado sobre epilepsia y recuperación de evidencia basada en la literatura."
+        },
+        {
+          "t": "p",
+          "x": "Logró la mejor localización global entre los modelos de lenguaje evaluados y superó al epileptólogo mediano en la cohorte reservada, con resultados similares en una cohorte externa de 83 casos del Taipei Veterans General Hospital."
+        },
+        {
+          "t": "p",
+          "x": "Los clínicos obtuvieron mejores resultados en la localización frontal e insular. Se necesita validación prospectiva antes de su uso clínico rutinario."
+        }
+      ]
+    },
+    "medicine/medicine-elucid-ffr-iq-fda": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/elucid_ffr-iq_ffr-ct_ai_software_3.png?h=d1699ae9&itok=WmZZy_qa"
+        },
+        {
+          "t": "p",
+          "x": "La FDA autorizó el software FFR-IQ de Elucid para la estimación no invasiva de la reserva fraccional de flujo a partir de la angiografía por CT coronaria (FFR-CT). Esta tecnología AI-based incorpora la anatomía coronaria y la composición de la placa en su estimación de la fisiología coronaria."
+        },
+        {
+          "t": "p",
+          "x": "Elucid afirmó que los médicos querían un algoritmo de FFR-CT más preciso que considerara otros factores que influyen en la hemodinámica. Ahora es el tercer proveedor que ofrece FFR-CT comercialmente en U.S., después de Heartflow en 2016 y KeyaMed en 2022."
+        },
+        {
+          "t": "p",
+          "x": "La autorización se basó en datos del estudio ELUCIDATE FFR-CT, que mostraron una sensibilidad global del 92.2% y una especificidad del 93.1%. El algoritmo utiliza las mediciones de placa del software Plaque-IQ de Elucid, autorizado en octubre de 2024."
+        },
+        {
+          "t": "p",
+          "x": "Los resultados del estudio ELUCIDATE FFR-CT se presentarán el 1 de noviembre en TCT 2026, en San Diego."
+        }
+      ]
+    },
+    "medicine/medicine-nice-prostate": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Cinco herramientas de AI que pueden ayudar a identificar el cáncer de próstata “con mayor precisión” en resonancias magnéticas (MRI) estarán a disposición de los médicos, según anunció el National Institute for Health and Care Excellence (NICE)."
+        },
+        {
+          "t": "p",
+          "x": "NICE recomendó que estas tecnologías se utilicen en el NHS para ayudar a detectar el cáncer de próstata en MRI mientras se genera más evidencia sobre su uso y su precisión. Las herramientas “están diseñadas para ayudar a los radiólogos resaltando las zonas de una MRI de próstata donde podría haber cáncer”, señaló."
+        },
+        {
+          "t": "p",
+          "x": "NICE concluyó que las tecnologías “tienen el potencial” de mejorar la precisión y la coherencia de la interpretación de la MRI de próstata, sobre todo en entornos sin especialistas. Pero añadió que se necesita más evidencia para entender cómo funcionarían las herramientas en la práctica habitual del NHS."
+        }
+      ]
     }
   }
 }

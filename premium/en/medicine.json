@@ -2048,6 +2048,130 @@
           "x": "WEDI suggested an adverse-event reporting process and “nutrition” labels for AI tools. The FDA's Rick Abramson said the agency plans to post draft guidance on generative AI-enabled devices in the coming months."
         }
       ]
+    },
+    "medicine/medicine-aitrics-kbsmc-admin-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "[Medical News·Daily Bosa = Reporter Oh In-gyu] Clinician fatigue in healthcare has reached its peak, driven by chronic staffing shortages and heavy paperwork. To address this, efforts are growing to bring next-generation AI technologies such as large language models (LLM) into clinical settings and improve day-to-day working conditions."
+        },
+        {
+          "t": "p",
+          "x": "In line with this trend, medical artificial intelligence (AI) company AITRICS (CEO Kim Kwang-joon) is teaming up with Kangbuk Samsung Hospital to ease the long-standing burden of documentation in clinical practice. The move follows its recent selection as a consortium participant in the '2026 AI Transformation (AX) Support Program' run by Seoul AI Hub."
+        },
+        {
+          "t": "p",
+          "x": "Through the project, AITRICS will begin developing an LLM-based AX platform that automates clinical medical records and transforms in-hospital workflows. The strategy is to maximize care efficiency by replacing the information checks and record-keeping repeated every day on the front lines with AI."
+        },
+        {
+          "t": "p",
+          "x": "As partner, Kangbuk Samsung Hospital will play a central role, closely analyzing real outpatient and nursing environments to define the specific tasks AI will be applied to. It will also specify essential functions and validation criteria tailored to the doctors and nurses who do the hands-on work."
+        },
+        {
+          "t": "p",
+          "x": "The development work comes down to three main tasks: ▲advancing the accumulated medication and diagnosis histories of patients in outpatient care ▲summarizing key progress from large volumes of imaging reports such as CT·MRI ▲converting voice conversations during nursing handoffs to text (STT) and summarizing their content. The core aim is for AI to condense vast amounts of medical data quickly and accurately and deliver it at the right time."
+        },
+        {
+          "t": "p",
+          "x": "Kangbuk Samsung Hospital staff will take part directly from the early planning and development stages to evaluate usability and closely examine clinical validity. The two institutions plan to use this collaboration as a springboard to secure technical versatility, so the finished platform can later be readily adopted by other medical institutions."
+        },
+        {
+          "t": "p",
+          "x": "AITRICS CEO Kim Kwang-joon repeatedly stressed the practical effectiveness of AI technology grounded firmly in on-site needs."
+        },
+        {
+          "t": "p",
+          "x": "\"The main goal of this project is to complete a customized AX platform that puts the voices of the field first and can be immediately integrated into real hospital systems,\" Kim said. \"We will do our best to make advanced LLM technology a catalyst for digital innovation in healthcare that not only meaningfully reduces clinicians' workload but also changes the paradigm of overall hospital operations.\""
+        }
+      ]
+    },
+    "medicine/medicine-pitt-breast-ai-trust": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-06/istock-2202666684.jpg?h=140710cd&itok=XUsmUugX"
+        },
+        {
+          "t": "p",
+          "x": "Researchers at the University of Pittsburgh have designed an AI model they believe will help make breast cancer imaging AI more trustworthy."
+        },
+        {
+          "t": "p",
+          "x": "Its deep neural network is trained to estimate uncertainty alongside its diagnostic predictions. The method, called uncertainty-weighted learning, generates a prediction and an uncertainty score, flagging cases where the output may be less dependable and an AI result may need a radiologist's second look."
+        },
+        {
+          "t": "p",
+          "x": "Shandong Wu, PhD, a professor of radiology at Pitt, led the work with doctoral student Jiren Li and Dooman Arefan, PhD, using the Bridges-2 supercomputer at the Pittsburgh Supercomputing Center to train and evaluate the models."
+        },
+        {
+          "t": "p",
+          "x": "The team hopes to extend the approach beyond mammography, but the work is still early and needs further validation across patient populations and imaging settings."
+        }
+      ]
+    },
+    "medicine/medicine-episemollm-epilepsy": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Seizure semiology offers clues for localizing the epileptogenic zone (EZ) in drug-resistant focal epilepsy, but its interpretation varies across clinicians and institutions."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01883-1/MediaObjects/43856_2026_1883_Fig1_HTML.png"
+        },
+        {
+          "t": "p",
+          "x": "EpiSemoLLM was developed from 1,372 surgically verified semiology–EZ pairs drawn from 392 published studies and a cohort from Far Eastern Memorial Hospital, combining parameter-efficient fine-tuning with structured epilepsy knowledge and literature-based evidence retrieval."
+        },
+        {
+          "t": "p",
+          "x": "It achieved the strongest overall localization among the language models evaluated and performed better than the median epileptologist in the held-out cohort, with similar findings in an external cohort of 83 cases from Taipei Veterans General Hospital."
+        },
+        {
+          "t": "p",
+          "x": "Clinicians performed better in frontal and insular localization. Prospective validation is needed before routine clinical use."
+        }
+      ]
+    },
+    "medicine/medicine-elucid-ffr-iq-fda": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/elucid_ffr-iq_ffr-ct_ai_software_3.png?h=d1699ae9&itok=WmZZy_qa"
+        },
+        {
+          "t": "p",
+          "x": "The FDA has cleared Elucid's FFR-IQ software for noninvasive estimation of fractional flow reserve from coronary CT angiography (FFR-CT). The AI-based technology incorporates coronary anatomy and plaque composition into its estimate of coronary physiology."
+        },
+        {
+          "t": "p",
+          "x": "Elucid said physicians wanted a more accurate FFR-CT algorithm that considered other factors affecting hemodynamics. It is now the third vendor to offer FFR-CT commercially in the U.S., after Heartflow in 2016 and KeyaMed in 2022."
+        },
+        {
+          "t": "p",
+          "x": "Clearance was based on ELUCIDATE FFR-CT study data showing an overall sensitivity of 92.2% and specificity of 93.1%. The algorithm draws on plaque measurements from Elucid's Plaque-IQ software, cleared in October 2024."
+        },
+        {
+          "t": "p",
+          "x": "Results of the ELUCIDATE FFR-CT study will be presented Nov. 1 at TCT 2026 in San Diego."
+        }
+      ]
+    },
+    "medicine/medicine-nice-prostate": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Five AI tools that can help identify prostate cancer “more accurately” on magnetic resonance imaging (MRI) scans will be made available to doctors, the National Institute for Health and Care Excellence (NICE) has announced."
+        },
+        {
+          "t": "p",
+          "x": "NICE has recommended that the technologies be used in the NHS to help detect prostate cancer on MRI while further evidence on their use and accuracy is generated. The tools “are designed to help radiologists by highlighting areas on a prostate MRI scan where cancer might be present,” it said."
+        },
+        {
+          "t": "p",
+          "x": "NICE concluded that the technologies “have the potential” to improve the accuracy and consistency of prostate MRI interpretation, particularly in settings without specialist expertise. But it added that further evidence was needed to understand how the tools would perform in routine NHS practice."
+        }
+      ]
     }
   }
 }

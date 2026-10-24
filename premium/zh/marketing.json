@@ -2194,6 +2194,93 @@
           "x": "AdCellerant现在会在所有广告活动中系统性地关闭Meta默认的AI自动化。"
         }
       ]
+    },
+    "marketing/marketing-iab-tech-lab-agentic-standard-comments": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/iab-tech-lab-openproposal-aamp-3-comment-extension-typewriter-carriage.jpg",
+          "cap": "IAB Tech Lab将71-field的OpenProposal意见征集期从30天延长至49天，截至11月10日"
+        },
+        {
+          "t": "p",
+          "x": "IAB Tech Lab于2026年10月23日将AAMP 3.0及其核心规范OpenProposal的公开征求意见期延长至11月10日。该草案定义了买方与卖方软件代理如何交换广告提案，原定于10月22日截止；现在征求意见期为49天，而非30天。"
+        },
+        {
+          "t": "p",
+          "x": "该组织在LinkedIn上表示：“由于需求极为踊跃。”CEO安东尼·卡祖尔（Anthony Katsur）称反响“巨大”，但两篇帖子都没有给出具体数量。"
+        },
+        {
+          "t": "p",
+          "x": "草案的71个字段归入11个标题之下，其中只有3个需要与对方往返交互。代码库中写道：“这一比例正是草案请你检验的设计主张。”任何拥有GitHub账号的人都可以发表意见，无论是否为会员。"
+        },
+        {
+          "t": "p",
+          "x": "Machine-readable（机器可读）的模式将在征求意见期结束后的首次修订之后发布。"
+        }
+      ]
+    },
+    "marketing/marketing-google-marketing-platform-drop-gemini": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide01_1021.max-1440x810.png"
+        },
+        {
+          "t": "p",
+          "x": "Google Marketing Platform Drops是一个全新的月度系列，为你带来最新资讯，助你在整个客户旅程中获得最佳ROI。内容涵盖方方面面：从借助Vertical Video Unification建立认知、利用Search Ads 360提升效果，到引导客户从CTV走向结账购物车。来看看首批更新。"
+        },
+        {
+          "t": "p",
+          "x": "行业领导地位：Gartner®凭借Google Marketing Platform将Google评为Gartner Magic Quadrant™ for Advertising Platforms中的Leader，并在所有Use Cases（Full Funnel、Awareness和Performance）中将Google排在#1。"
+        },
+        {
+          "t": "p",
+          "x": "Display & Video 360库存升级：Marketplace现由Gemini模型精选，为体育直播和大型（tentpole）活动提供可single-click（一键）启用的个性化媒体包。我们还将LinkedIn CTV Ads程序化库存引入DV360，实现统一购买、规划和衡量。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide06_1.width-1000.format-webp.webp",
+          "cap": "Display & Video 360中的全新Marketplace"
+        },
+        {
+          "t": "p",
+          "x": "全新Search Ads 360 Home体验：为实时加速效果，这一可自定义视图借助Gemini模型整合洞察、生成智能建议并简化执行。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide08_1.width-1000.format-webp.webp",
+          "cap": "全新Search Ads 360 Home体验"
+        }
+      ]
+    },
+    "marketing/marketing-google-gmail-photos-ad-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Google更新了隐私政策，这意味着如果你在使用个性化AI功能，可能会开始看到基于个人数据的定向广告。这一更新由Android Authority发现，它为Google不将Drive、Gmail或Google Photos用于个性化广告的承诺增加了一个例外。自10月16日起，Google加入了这样一句话：“除非你选择让这些服务中的数据可供其他支持个性化广告的Google服务使用。”"
+        },
+        {
+          "t": "p",
+          "x": "也就是说，凡是通过Google的Personal Intelligence功能把Drive、Gmail或Google Photos连接到AI Mode及其他Search工具的用户，现在都可能看到基于这些内容的定向广告。"
+        },
+        {
+          "t": "p",
+          "x": "广告主无法获取你的Drive、Gmail和Photos信息，也无法获取姓名或电子邮件地址等个人身份信息；Google也不会根据种族、性取向、宗教或健康等敏感类别向你展示广告。"
+        },
+        {
+          "t": "p",
+          "x": "政策现在写道：“例如，Search可能会处理你允许Search访问的部分数据，以个性化包括广告在内的内容。”"
+        },
+        {
+          "t": "p",
+          "x": "若要避免这种情况，可以在Search的Personal Intelligence功能中断开应用连接，或在Search Services Personalization设置页面中彻底关闭Personalized Recommendations。"
+        }
+      ]
     }
   }
 }

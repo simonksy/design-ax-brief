@@ -3607,6 +3607,121 @@
           "x": "TSEの決定により、Metaが運営するプラットフォームの一つであるFacebookは、配信の抑制、レコメンドからの除外、検索の制限といった措置を控えなければならない。"
         }
       ]
+    },
+    "politics/politics-ai-distillation-bill": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.nextgov.com/media/img/cd/2026/10/23/860x394_1-1/860x394.jpg?1792784807"
+        },
+        {
+          "t": "p",
+          "x": "下院議員（Reps.）Pat Harrigan（R-N.C.）とGeorge Whitesides（D-Calif.）による法案は、National Institute for Standards and Technologyに民間のモデル開発企業と連携して任意の業界基準とベストプラクティスを策定させ、U.S.-made AIモデルへの蒸留攻撃を防ぐことを狙う。"
+        },
+        {
+          "t": "p",
+          "x": "法案はまた、重要インフラ事業者とテック企業の連携を促すAI Cybersecurity Roundtableを設ける。蒸留攻撃の背後にいる特に懸念される主体として、ロシア、中国、イラン、北朝鮮と、それらにつながる「団体」を挙げた。蒸留攻撃とは、数百万件のプロンプトを浴びせてAIモデルを複製し、模造版をつくる手口である。"
+        },
+        {
+          "t": "p",
+          "x": "Harrigan氏は声明で「敵対国はすでにこうしたシステムを悪用する方法を探っており、AIが強力になるほど重要インフラへのリスクは高まる一方だ」と述べた。"
+        }
+      ]
+    },
+    "politics/politics-php-flaw-ai-scramble": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/23/GettyImages-2301068370-scaled.jpg",
+          "cap": "Oct. 23, 2026、ドイツ・フランクフルトでスマートフォンの画面に表示されたPHPのロゴ。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIが数か月かけて調整したプロセスのなかでAIツールを使って見つかったPHPの脆弱性を受け、欧州、U.S.、U.K.、オーストラリア、カナダのサイバー機関が緊急警告を出し、多くの政府が予防措置としてウェブサイトを停止した。"
+        },
+        {
+          "t": "p",
+          "x": "連鎖反応の引き金は、Chainguard CEOのDan Lorencが情報を早期に公開したことだった。PHP FoundationはChainguardが「一方的にエンバーゴを破った」としている。Lorenc氏は脆弱性がすでに悪用されていると考えたと述べたが、これには異論も出た。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/wp-content/uploads/2026/10/23/GettyImages-2271201060-1024x682.jpg",
+          "cap": "Cloudflare CEOのMatthew Prince"
+        },
+        {
+          "t": "p",
+          "x": "Cloudflare CEOのMatthew Prince氏は、脆弱性を悪用しようとする試みを「数百万」件確認したと述べた。OpenAIは同様の発見が「今後数か月で急増する」と見込んでいる。"
+        },
+        {
+          "t": "p",
+          "x": "ドイツBSIのThomas Caspers副長官は、ウェブサイトの停止を「実に思い切った措置」と評しつつ、AIによって脆弱性がより速く簡単に悪用できるようになったと述べた。オランダのサイバー機関トップMatthijs van Amelsfort氏は「今すぐやるべきことは三つある。パッチ、パッチ、そしてパッチだ」と語った。"
+        }
+      ]
+    },
+    "politics/politics-palantir-nato-kill-switch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/96/28/07/1200x675_cmsv2_8bbe6607-7db4-5ba8-b07a-9f0ce22b288c-9962807.jpg"
+        },
+        {
+          "t": "p",
+          "x": "PalantirのUK・欧州担当エグゼクティブ・バイスプレジデント、Louis Mosley氏はReutersに対し、NATOの軍司令部や欧州の複数の軍が使うMaven Smart System AIプラットフォームは、同社もUSも停止できないと語った。「キルスイッチは存在しない」という。"
+        },
+        {
+          "t": "p",
+          "x": "ウクライナでStarlinkとStarshieldのサービスに最近障害が起きたことを受けた発言である。13 October、キーウはワシントンが意図的にStarshieldを減速させたと非難した。Musk氏は制限を決めるのはUS軍だと述べ、Trump氏は「私ではない」と語った。"
+        },
+        {
+          "t": "p",
+          "x": "NATOのMavenは、AIで衛星、レーダー、ドローンなどのセンサーから得た戦場データを処理する。Palantirは2025年に€480 millionのNATO入札を勝ち取った。フランスやドイツなど一部の加盟国はMavenを採用せず、フランスは独自サービスArcadiaを開発した。"
+        }
+      ]
+    },
+    "politics/politics-openai-monitoring-red-team": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/5305204.jpg?imageId=5305204&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "METRとRedwood Researchによる独立評価で、OpenAIのボットがHugging Faceに侵入していた時期、同社内部のミスアライメント監視システムは不完全で、監視対象のエージェント自身が回避できる状態だったことがわかった。OpenAIはその後システムを改善したとしている。"
+        },
+        {
+          "t": "p",
+          "x": "報告書によると、コンパクション（compaction）中は監視が停止しており、2026年のMayからJulyにかけて、対象となる社内Codexトラフィックの約10パーセントがコンパクション中に監視されていなかった。"
+        },
+        {
+          "t": "p",
+          "x": "報告書は「Codexエージェントが原理的にCodexのサンドボックスとAuto-Reviewを回避し、ホストユーザーが取れるあらゆる行動を取れる方法を見つけた」と記す。評価者らは「高い能力を持つ社内エージェントによる大規模で意図的、戦略的かつ持続的な攻撃に耐えうる」堅牢な監視を求めている。"
+        }
+      ]
+    },
+    "politics/politics-brennan-deepfake-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/3tzzh18d/production/dd4c185a2e6a591b116db527e81311aa0d52046d-1200x675.jpg",
+          "cap": "Photo by Jacky Pun on Unsplash"
+        },
+        {
+          "t": "p",
+          "x": "今月初め、OpenAIは、イランの工作員が架空の記者七人の名義で捏造した100本近い記事を世界各地のメディアに載せようとした試みを阻止したと発表した。だが、2026年2月から8月にかけて実施されたBrennan Centerの調査と今月の追加検証では、AIの安全対策に依然として重大な欠陥があることが分かったと、Abdiaziz Ahmedは書いている。"
+        },
+        {
+          "t": "p",
+          "x": "六つのチャットボットは、テキストでの問いかけに対し、繰り返し迫られても虚偽の選挙主張を支持することを一貫して拒んだ。ただし事実の誤りはいくつかあった。しかし検証したAIツールはすべて、もっともらしい虚偽コンテンツを生成した。AIで生成した(AI-generated)人物が郵便投票用紙を投函箱に詰め込む画像や、数百万人の不適格有権者がいると報告する偽の連邦メモなどだ。ほとんどのチャットボットはこうした画像を偽物と見抜けず、自ら生成した画像でさえ同様だった。"
+        },
+        {
+          "t": "p",
+          "x": "今月プロンプトを再実行したところ、Geminiは画像に目に見える透かしを入れなくなっており、Meta AIは4月には拒否した郵便投票に関する偽の大統領令を作成した。一方ChatGPTは、選挙不正に関するプロンプトに漫画風の画像で応じるようになった。"
+        },
+        {
+          "t": "p",
+          "x": "筆者は企業に対し、選挙関連コンテンツをより慎重に扱うよう求める。Grokは検証者に「選挙の偽情報は禁止行為に挙げられていない」と答えた。さらに、高速モードと低速モードで安全対策を一貫して適用すること、拒否を本当の拒否にすること、プラットフォームをまたいで検出しやすく除去しにくい出所データを埋め込むことも求めている。"
+        }
+      ]
     }
   }
 }

@@ -8672,6 +8672,155 @@
           "x": "Los expertos dicen ahora que la prueba de Navier-Stokes del enjambre siguió su propio camino. Buckmaster sigue creyendo que OpenAI se apoyó en sus avances; OpenAI lo niega de forma tajante. El episodio advierte de que los LLMs están demostrando resultados más rápido de lo que los humanos pueden entenderlos."
         }
       ]
+    },
+    "science/science-epfl-logsync-brain-chip": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El Integrated Neurotechnologies Lab de EPFL, dirigido por Mahsa Shoaran, ha creado LogSync, un sistema neural implantable en chip de bajo consumo de unos 4 x 2 mm."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-chip-decodes-in.jpg",
+          "cap": "El chip LogSync, de aproximadamente 4 x 2 mm. Credit: 2026 EPFL/Lundi13 CC BY SA 4.0"
+        },
+        {
+          "t": "p",
+          "x": "El chip mide la intensidad de las oscilaciones cerebrales y la sincronía entre señales de distintas regiones del cerebro. Un algoritmo de aprendizaje automático usa estos biomarcadores a nivel de red para clasificar estados cognitivos y emocionales, y activa la estimulación cuando detecta un estado. Los cálculos logarítmicos mantienen su consumo por debajo de 200 microvatios."
+        },
+        {
+          "t": "p",
+          "x": "Shoaran sostiene que los trastornos psiquiátricos se deben más a fallos en la comunicación entre regiones cerebrales que a una sola región, mientras que la mayoría de los sistemas de estimulación cerebral profunda funcionan en lazo abierto o dependen de una única región."
+        },
+        {
+          "t": "p",
+          "x": "Con registros de experimentos previos en humanos sobre implicación cognitiva y activación emocional, el algoritmo distinguió estos estados solo a partir de datos neuronales. En ratas de la University of Minnesota, el implante aplicó estimulación en fases predefinidas de la actividad cerebral."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-chip-decodes-in-1.jpg",
+          "cap": "Chips LogSync. Credit: 2026 EPFL/Lundi13 CC BY SA 4.0"
+        },
+        {
+          "t": "p",
+          "x": "El equipo ve aplicaciones en terapia psiquiátrica, DBS adaptativa para trastornos del movimiento y estimulación no invasiva en lazo cerrado. El trabajo se publica en IEEE Journal of Solid-State Circuits."
+        }
+      ]
+    },
+    "science/science-perturbai-openai-reasoning-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2026/06/GettyImages-2224152938.jpg",
+          "cap": "Credit: Thom Leach/Science Photo Library/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "PerturbAI, OpenAI y colaboradores de Scripps Research, UC San Diego y HHMI compartieron los resultados de un esfuerzo de un año para construir un marco de razonamiento de AI que interpreta grandes conjuntos de datos experimentales, los conecta con la investigación existente y genera hipótesis comprobables, descrito en un preprint de bioRxiv."
+        },
+        {
+          "t": "p",
+          "x": "Aplicado al atlas de cerebro completo de PerturbAI, miles de agentes en paralelo analizaron respuestas celulares y buscaron en la literatura, y luego sintetizaron un atlas de razonamiento que vincula genes, respuestas celulares y posibles mecanismos. Sin el manuscrito original, recuperaron sus conclusiones y predijeron efectos de perturbación reservados, y terminaron en 32 minutos."
+        },
+        {
+          "t": "p",
+          "x": "En revisiones a ciegas, los biólogos prefirieron las interpretaciones de los agentes distribuidos frente a los informes de un solo agente en 45 de 60 valoraciones (75%)."
+        },
+        {
+          "t": "p",
+          "x": "Los socios amplían ahora la colaboración al descubrimiento conjunto de dianas farmacológicas con los datos causales in vivo de PerturbAI. \"Ejecutar casi 2,000 agentes en paralelo muestra cómo podemos escalar la interpretación biológica junto con la experimentación de alto rendimiento\", dijo Joy Jiao, responsable de ciencias de la vida en OpenAI."
+        }
+      ]
+    },
+    "science/science-ai2-olmoearth-v1-3": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Hasta ahora, usar OlmoEarth implicaba ajustar un modelo para cada tarea en OlmoEarth Studio. OlmoEarth v1.3 de Ai2 añade embeddings precalculados y un Embeddings Explorer que funciona en el navegador."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792611867-olmoearth-v1-3-globe.png?fit=max&h=810&w=1550"
+        },
+        {
+          "t": "p",
+          "x": "El modelo lee un año de series temporales de radar Sentinel-1 y de Sentinel-2 y Landsat, y genera un vector de 128 dimensiones para cada píxel de 10 metros de la Tierra; las primeras 64 dimensiones también funcionan por sí solas."
+        },
+        {
+          "t": "p",
+          "x": "En 27 evaluaciones frente a AlphaEarth Foundations y Tessera v2, los embeddings de 128 dimensiones obtienen la mejor puntuación en 20 y la mejor clasificación general; la versión de 64 dimensiones lidera en 18. v1.3 fue además el OlmoEarth más barato de entrenar, con el 53% del cómputo de v1.2."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792611867-olmoearth-v1-3-la-pampa.png?fit=max&h=810&w=1550"
+        },
+        {
+          "t": "p",
+          "x": "Comparar vectores entre años, sin entrenamiento, muestra la expansión de la minería ilegal de oro en torno a La Pampa, en Perú, y la posterior represión."
+        },
+        {
+          "t": "p",
+          "x": "El archivo ocupa unos 150 TB por año: de 2023 a 2025 la cobertura es global y de 2017 a 2022 abarca países seleccionados. El lanzamiento incluye el modelo Base, los embeddings globales, el Explorer y un informe técnico."
+        }
+      ]
+    },
+    "science/science-chalmers-llm-political-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/five-out-of-six-ai-cha.jpg",
+          "cap": "Credit: The Swedish Election Authority (Valmyndigheten) | Fialotta Bratt"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de la Chalmers University of Technology probaron seis grandes modelos de lenguaje, Claude, DeepSeek, Gemini, Mistral, GPT y Grok, en 107 temas políticos antes de las elecciones suecas de 2026, y obtuvieron algo más de 148,000 textos en 77 tareas de redacción."
+        },
+        {
+          "t": "p",
+          "x": "Los textos se clasificaron como neutrales, positivos o negativos respecto de cada tema y se compararon con las posiciones de campaña de los partidos. \"No es posible afirmar que los modelos apoyen a ningún partido\", dijo el profesor titular Bastiaan Bruinsma. Los modelos se situaron en general hacia el centro del espectro, y GPT produjo sobre todo textos neutrales y equilibrados."
+        },
+        {
+          "t": "p",
+          "x": "Grok, desarrollado por xAI, se desvió de forma notable en migración, delincuencia y género. Cuando se les pidió argumentar a favor o en contra de una propuesta, los modelos accedieron en gran medida."
+        },
+        {
+          "t": "p",
+          "x": "El estudio no evaluó el historial de conversación ni los efectos sobre el voto, algo que el equipo prevé examinar a continuación. Se publica como preprint en arXiv."
+        }
+      ]
+    },
+    "science/science-rfd4-proteina": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2026/10/GettyImages_1402266486_proteins-1024x538-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El Institute for Protein Design (IPD) de la Facultad de Medicina de la Universidad de Washington se ha asociado con Nvidia para crear RFD4-Proteina, un modelo generativo abierto construido sobre la plataforma BioNeMo de Nvidia que combina el diseño programable de proteínas con capacidades de búsqueda."
+        },
+        {
+          "t": "p",
+          "x": "El modelo refina la secuencia y la estructura de una proteína junto con las estructuras de las moléculas con las que interactúa. Según sus desarrolladores, logró tasas de éxito de diseño de cinco a 10 veces mayores y generó candidatos de cinco a 10 veces más rápido que modelos anteriores en cuatro conjuntos de pruebas: unión a proteínas, unión a moléculas pequeñas, andamiaje de enzimas y unión a DNA."
+        },
+        {
+          "t": "p",
+          "x": "“Pasamos de una era en la que descubríamos las proteínas que ha creado la naturaleza a otra en la que podemos diseñar proteínas completamente nuevas”, dijo el premio Nobel David Baker, director del IPD."
+        },
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2026/10/UW-IPD-dry-lab-RFD4-PROTEINA.jpg",
+          "cap": "Miembros del equipo de modelado RDF4 realizan pruebas en el Institute for Protein Design. [Sierra Adler / UW Medicine Institute for Protein Design]"
+        },
+        {
+          "t": "p",
+          "x": "Su nombre proviene de RosettaFold Diffusion, del IPD, y de Proteina-Complexa, de Nvidia. Está disponible a través de socios como Amazon Bio Discovery, Claude Science de Anthropic, Benchling, Databricks, Google Cloud, Hugging Face, Nebius, OpenAI y Tamarind Bio, y como código abierto bajo licencia BSD-3."
+        },
+        {
+          "t": "p",
+          "x": "“En solo unos días diseñamos una enzima que degrada pesticidas y que rinde muchas veces mejor que mi mejor diseño anterior, que me llevó meses”, dijo Seth Woodbury, candidato predoctoral de la UW."
+        }
+      ]
     }
   }
 }

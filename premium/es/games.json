@@ -8395,6 +8395,151 @@
           "x": "A más largo plazo, los agentes podrían modificar un juego, desplegar una compilación, probarlo en el navegador y optimizar su rendimiento en un ciclo repetitivo. St. Louis insinuó un mercado tipo “Steam para la web”."
         }
       ]
+    },
+    "games/games-unity-cli-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/fuvbjjlp/production/55efa13879e7b4b911b21e5f69db2cda6b3dd703-1920x1080.png"
+        },
+        {
+          "t": "p",
+          "x": "Unity CLI es un único binario que instala y gestiona Unity desde la terminal y, con el paquete Pipeline, controla un Editor en ejecución. Desde julio la han usado más de 226,000 usuarios con sesión iniciada, que han registrado más de 200 millones de eventos."
+        },
+        {
+          "t": "p",
+          "x": "Del 20 de julio al 13 de octubre de 2026, cerca del 98% de las ejecuciones de CLI vino de agentes de código y otra automatización. Las personas que escriben en una terminal suponen el 0.2%, y los pipelines de CI, el 0.3%. La gente configura Unity y luego delega el trabajo en su agente."
+        },
+        {
+          "t": "p",
+          "x": "El comando más ejecutado es unity command, con unos 124 millones de ejecuciones, seguido de unity status (unos 6.7 millones) y unity pipeline list (unos 1.4 millones)."
+        },
+        {
+          "t": "p",
+          "x": "La mayor parte del uso llegó después de que Unity lanzara plugins oficiales para Claude Code y Codex y, más recientemente, para Grok. Claude Code es el agente más usado con la CLI, seguido de Codex, y luego Cursor y Grok. Los mayores públicos están en Estados Unidos, Japón y Corea del Sur, seguidos de Alemania y Turquía."
+        }
+      ]
+    },
+    "games/games-xbox-fsr41": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Untitled-1_4YYolkc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "Imagen: Microsoft"
+        },
+        {
+          "t": "p",
+          "x": "AMD llevará la última versión de su tecnología de escalado de imagen AI-driven, FSR 4.1, a Xbox Series X, Series S y a las portátiles ROG Ally y Ally X."
+        },
+        {
+          "t": "p",
+          "x": "FSR renderiza el juego a menor resolución y lo escala mediante aprendizaje automático, lo que ofrece mejor imagen o un rendimiento más estable. Series S y las portátiles Ally, con un hardware más limitado, podrían ser las más beneficiadas."
+        },
+        {
+          "t": "p",
+          "x": "El momento llama la atención: hace un par de semanas, Sony presentó QSSR, un escalador machine learning-based similar, para PlayStation 5."
+        },
+        {
+          "t": "p",
+          "x": "\"Hemos trabajado muy estrechamente con AMD para optimizar esta tecnología, lo que da a los desarrolladores otra herramienta potente para ofrecer a los jugadores un gran rendimiento y calidad visual\", afirmó Scott Van Vliet, CTO de Xbox."
+        },
+        {
+          "t": "p",
+          "x": "AMD no dio una fecha concreta para la llegada de FSR 4.1 a las consolas Xbox Series."
+        }
+      ]
+    },
+    "games/games-pokemon-ai-decomp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/pokemon-movie-1-1200x675.jpg",
+          "cap": "Toho Animation"
+        },
+        {
+          "t": "p",
+          "x": "Descompilar juegos solía ser lo que el responsable de decomp.dev llamó “brutalmente difícil [y] lento”. Los nuevos modelos de AI generativa han cambiado la velocidad a la que es posible hacerlo, y ese responsable afirma que eso ha roto el lado comunitario de la afición."
+        },
+        {
+          "t": "p",
+          "x": "En la comunidad Pokémon, el frenesí ha llevado a muchos a apresurarse a crear con vibe-code ports y mezclas de géneros. Juegos recién descompilados ya se han convertido en ports, entre ellos Pokémon Brilliant Diamond y Shining Pearl, Pokémon Snap y Pokémon Heart Gold y Soul Silver."
+        },
+        {
+          "t": "p",
+          "x": "Otros desmontan el código para reinterpretarlo: un combate jugable en pixel art 3D entre Brock y Ash, un juego de tácticas de Pokémon y PokéSurvivor, un juego de navegador que convierte Vampire Survivors en Pokémon."
+        },
+        {
+          "t": "p",
+          "x": "Los fans en X están entusiasmados por jugar y modificar juegos antiguos, pero quienes llevan años trasteando no están tan convencidos; un usuario de Reddit dijo que las recompilaciones solían ser “grandes lanzamientos que comunidades enteras celebraban”. 404 Media informó de que algunas descompilaciones con AI no son iguales al original y tienen errores extraños o no funcionan del todo."
+        },
+        {
+          "t": "p",
+          "x": "El veredicto de Kotaku: la mayoría de los proyectos funcionan a un nivel básico, pero los mashups no son especialmente novedosos."
+        }
+      ]
+    },
+    "games/games-inven-ai-modding": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.inven.co.kr/column/2026/10/22/news/i1816408170.jpg",
+          "cap": "©NEXUS MOD"
+        },
+        {
+          "t": "p",
+          "x": "Modrinth, plataforma de mods de Minecraft, anunció en agosto una nueva política sobre mods con AI. Los envíos de proyectos pasaron de unos 2,500 por semana a principios de año a más de 5,000 en agosto, y buena parte era contenido creado con AI. Modrinth prohibió la publicación de proyectos hechos en su mayoría o por completo con AI."
+        },
+        {
+          "t": "p",
+          "x": "Nexus Mods optó por clasificar en lugar de restringir. Dividió sus etiquetas según el grado de uso de AI e incluyó en sus criterios de moderación el historial de desarrollo y la comprensión del código que acreditan que el trabajo lo dirigió una persona."
+        },
+        {
+          "t": "img",
+          "src": "https://static.inven.co.kr/column/2026/10/22/news/i1910067634.jpg",
+          "cap": "Nexus Mods anuncia etiquetas para separar el contenido generado por AI ©NEXUS MOD"
+        },
+        {
+          "t": "p",
+          "x": "Las respuestas de las compañías también divergen. Riot Games bloquea desde el 6 de octubre el acceso de programas externos no autorizados a la memoria del juego, y Blizzard limitó la capacidad de los add-ons para procesar información de combate en la expansión 'Midnight' de World of Warcraft."
+        },
+        {
+          "t": "p",
+          "x": "En cambio, Starfield y Baldur's Gate 3 incorporaron herramientas oficiales de modding en 2024, y EA lanzó en 2026 un Maker Program para The Sims 4 que permite vender contenido creado por los usuarios en un mercado oficial."
+        },
+        {
+          "t": "img",
+          "src": "https://static.inven.co.kr/column/2026/10/22/news/i1196909885.jpg",
+          "cap": "The Sims 4 creó un mercado de UCC a través de su 'Marketplace' ©EA"
+        },
+        {
+          "t": "p",
+          "x": "A medida que la AI reduce la técnica y el tiempo que exige el modding, tanto las compañías que elevan sus vallas como las que dejan la puerta abierta acaban rediseñando la estructura de la valla."
+        }
+      ]
+    },
+    "games/games-revamp-playtest": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt9efacbc53c73032f/6ad658566285139835883f4d/revampfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+        },
+        {
+          "t": "p",
+          "x": "Una reciente oleada de clonación de juegos impulsada por AI generativa (AI-enabled) está obligando a estudios consolidados a ajustar sus estrategias. Digital Sun Games, conocido por Moonlighter y Moonlighter 2: The Endless Vault, había anunciado una prueba pública de su próximo juego \"Tower Defensevania\", ReVamp."
+        },
+        {
+          "t": "p",
+          "x": "Ahora esos planes están en pausa. En una publicación en Steam y Bluesky, el estudio dijo que el equipo está \"preocupado por las noticias recientes de juegos sometidos a ingeniería inversa (reverse-engineered), clonados y publicados antes incluso de que salga el original\". \"Con el lanzamiento aún a meses de distancia, una gran versión pública de ReVamp parecía un riesgo demasiado grande\", afirmó. Realizará una prueba \"más acotada\" a través de su servidor de Discord a partir del 29 de octubre."
+        },
+        {
+          "t": "p",
+          "x": "Justo ayer, Alliance Arts y Who's You cancelaron la demo de Drunken Goddess Reflux para Steam Next Fest. Durante el último mes, desarrolladores independientes han descrito cómo demos, tráileres e imágenes de sus juegos se introdujeron en herramientas de AI generativa para reconstruir rápidamente sus funciones básicas, algo facilitado por la limitada protección de derechos de autor de las mecánicas de juego y por LLMs como Claude de Anthropic y ChatGPT de OpenAI."
+        },
+        {
+          "t": "p",
+          "x": "\"Mostrar los juegos pronto es la forma en que los indies se hacen visibles y encuentran a los fans que nos sostienen\", escribió la compañía. \"Esperamos que las plataformas sigan reforzando la protección de las obras originales\"."
+        }
+      ]
     }
   }
 }

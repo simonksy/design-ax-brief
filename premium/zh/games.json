@@ -8268,6 +8268,151 @@
           "x": "从长远看，智能体可以循环往复地修改游戏、部署构建、在浏览器中试玩并优化性能。St. Louis暗示将推出“网页版Steam”式的市场。"
         }
       ]
+    },
+    "games/games-unity-cli-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/fuvbjjlp/production/55efa13879e7b4b911b21e5f69db2cda6b3dd703-1920x1080.png"
+        },
+        {
+          "t": "p",
+          "x": "Unity CLI是一个单一二进制程序，可在终端安装和管理Unity，搭配Pipeline包还能驱动正在运行的Editor。自7月以来，已有超过226,000名登录用户使用，记录的事件超过2亿次。"
+        },
+        {
+          "t": "p",
+          "x": "2026年7月20日至10月13日，约98%的CLI运行来自编码代理和其他自动化。人在终端手动输入占0.2%，CI流水线占0.3%。人们先把Unity配置好，再把工作交给代理。"
+        },
+        {
+          "t": "p",
+          "x": "运行次数最多的命令是unity command，约1.24亿次，其次是unity status（约670万次）和unity pipeline list（约140万次）。"
+        },
+        {
+          "t": "p",
+          "x": "大部分使用发生在Unity为Claude Code和Codex，以及最近为Grok推出官方插件之后。与CLI搭配使用最多的代理是Claude Code，其次是Codex，然后是Cursor和Grok。用户最多的国家是美国、日本和韩国，其次是德国和土耳其。"
+        }
+      ]
+    },
+    "games/games-xbox-fsr41": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Untitled-1_4YYolkc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "Image credit: Microsoft"
+        },
+        {
+          "t": "p",
+          "x": "AMD is bringing the latest version of its AI-driven image upscaling technology, FSR 4.1, to Xbox Series X, Series S, and the ROG Ally and Ally X handhelds."
+        },
+        {
+          "t": "p",
+          "x": "FSR renders the game at a lower resolution and upscales it using machine learning, delivering better visuals or more consistent performance. Series S and the more hardware-constrained Ally handhelds could see the biggest gains."
+        },
+        {
+          "t": "p",
+          "x": "The timing is notable: a couple of weeks ago, Sony introduced QSSR, a similar machine learning-based upscaler, for PlayStation 5."
+        },
+        {
+          "t": "p",
+          "x": "\"We've worked very closely with AMD to optimise this technology, giving developers another powerful tool for great performance and visual quality for players,\" said Xbox CTO Scott Van Vliet."
+        },
+        {
+          "t": "p",
+          "x": "AMD did not offer a specific date for FSR 4.1's arrival on Xbox Series consoles."
+        }
+      ]
+    },
+    "games/games-pokemon-ai-decomp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/pokemon-movie-1-1200x675.jpg",
+          "cap": "Toho Animation"
+        },
+        {
+          "t": "p",
+          "x": "反编译游戏，用decomp.dev运营者的话说，曾经“极其困难[且]耗时”。新发布的生成式AI模型改变了反编译的速度，这位运营者表示，这已经破坏了这项爱好的社区属性。"
+        },
+        {
+          "t": "p",
+          "x": "在Pokémon社区，这股热潮意味着人们争相用vibe-code制作移植版和类型混搭作品。新反编译的游戏已被做成移植版，包括Pokémon Brilliant Diamond与Shining Pearl、Pokémon Snap，以及Pokémon Heart Gold与Soul Silver。"
+        },
+        {
+          "t": "p",
+          "x": "也有人把代码拆开重新构想：一场可游玩的Brock与Ash之间的3D像素风对战、一款Pokémon战棋游戏，以及把Vampire Survivors改成Pokémon版本的浏览器游戏PokéSurvivor。"
+        },
+        {
+          "t": "p",
+          "x": "X上的粉丝为能游玩和修改老游戏而兴奋，但资深玩家没那么信服；一位Reddit用户说，重编译过去是“整个社区都会庆祝的重大发布”。404 Media报道称，一些AI反编译版本与原版并不相同，存在奇怪的错误，或无法完全运行。"
+        },
+        {
+          "t": "p",
+          "x": "Kotaku的结论是：大多数项目在基本层面上能运行，但这些混搭并没有特别新意。"
+        }
+      ]
+    },
+    "games/games-inven-ai-modding": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.inven.co.kr/column/2026/10/22/news/i1816408170.jpg",
+          "cap": "©NEXUS MOD"
+        },
+        {
+          "t": "p",
+          "x": "Minecraft模组平台Modrinth于8月发布了有关AI模组的新政策。项目提交量从今年初的每周约2,500个增至8月的5,000个以上，其中相当一部分是用AI制作的内容。Modrinth禁止公开上架大部分或全部由AI制作的项目。"
+        },
+        {
+          "t": "p",
+          "x": "Nexus Mods选择分类而非限制。它根据AI使用程度细分标签，并将证明作品由人主导的开发记录和代码理解程度也纳入管理标准。"
+        },
+        {
+          "t": "img",
+          "src": "https://static.inven.co.kr/column/2026/10/22/news/i1910067634.jpg",
+          "cap": "Nexus Mods公告区分AI生成内容的标签 ©NEXUS MOD"
+        },
+        {
+          "t": "p",
+          "x": "游戏公司的应对也出现分化。Riot Games自10月6日起阻止未经批准的外部程序访问游戏内存，Blizzard则在World of Warcraft资料片《Midnight》中限制了插件处理战斗信息的能力。"
+        },
+        {
+          "t": "p",
+          "x": "相反，Starfield和Baldur's Gate 3于2024年推出官方模组工具，EA则于2026年为The Sims 4推出Maker Program，让用户制作的内容可以在官方市场出售。"
+        },
+        {
+          "t": "img",
+          "src": "https://static.inven.co.kr/column/2026/10/22/news/i1196909885.jpg",
+          "cap": "The Sims 4通过“市场”打造了UCC市场 ©EA"
+        },
+        {
+          "t": "p",
+          "x": "随着AI降低了模组制作所需的技术和时间，无论是加高围栏的公司还是敞开大门的公司，最终都在重新设计围栏的结构。"
+        }
+      ]
+    },
+    "games/games-revamp-playtest": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt9efacbc53c73032f/6ad658566285139835883f4d/revampfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+        },
+        {
+          "t": "p",
+          "x": "近来借助生成式AI（AI-enabled）复制游戏的现象激增，迫使老牌工作室调整策略。以Moonlighter和Moonlighter 2: The Endless Vault闻名的Digital Sun Games，此前宣布将为即将推出的“Tower Defensevania”游戏ReVamp举办公开试玩。"
+        },
+        {
+          "t": "p",
+          "x": "如今这一计划已被搁置。工作室在Steam和Bluesky上发文称，团队“对最近游戏在原作尚未推出前就被逆向工程（reverse-engineered）、复制并发布的消息感到担忧”。“距离发售还有数月，发布大规模的ReVamp公开版本风险太大，”工作室表示。它将从10月29日起通过Discord服务器开展“更受控”的试玩。"
+        },
+        {
+          "t": "p",
+          "x": "就在昨天，Alliance Arts与Who's You取消了Drunken Goddess Reflux的Steam Next Fest试玩版。过去一个月，独立开发者纷纷讲述自己游戏的试玩版、预告片和图片被输入生成式AI工具，基本功能被迅速复刻；游戏机制的版权保护有限，加上Anthropic的Claude和OpenAI的ChatGPT等LLMs，让这一切成为可能。"
+        },
+        {
+          "t": "p",
+          "x": "“尽早展示游戏，是独立开发者被看见、找到支撑我们走下去的粉丝的方式，”该公司写道。“我们希望各平台持续加强对原创作品的保护。”"
+        }
+      ]
     }
   }
 }

@@ -1,1083 +1,17 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "section": "design",
   "cards": [
     {
-      "id": "design-figma-agent-ds",
+      "id": "design-ulpg-landing-guide",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "디자인 시스템을\nFigma 에이전트에 연결",
-      "body": "Figma는 디자인 시스템 맥락 덕에 에이전트가 원칙·지침을 잘 이해한다고 밝혔다.",
-      "mini_headline": "Figma 에이전트용 디자인 시스템",
-      "tool": "Figma",
-      "source": "Figma Blog",
-      "url": "https://www.figma.com/blog/how-to-put-your-design-system-to-work-with-the-figma-agent/",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/9db0b3dca44f5d8d35c537adb07f9f9eb479dcd0-1632x918.png?w=1200&q=70&fit=max&auto=format",
-            "cap": "히어로 일러스트: Cynthia Alfonso"
-          },
-          {
-            "t": "p",
-            "x": "디자인 시스템은 Figma 에이전트가 제품을 규정하는 원칙과 지침을 이해하도록 돕는다. 그 맥락은 대부분 컴포넌트, 토큰, 문서로 남긴 규칙과 예시에 이미 담겨 있다. 관건은 에이전트가 이 모두에 닿을 수 있느냐다."
-          },
-          {
-            "t": "p",
-            "x": "시작은 기준이 될 원천을 정하는 일이다. 프롬프트 상자에서 “Libraries”를 선택해 게시된 라이브러리를 연결하면 에이전트가 승인된 컴포넌트와 토큰을 쓴다. 특정 컴포넌트나 토큰을 @로 멘션해도 된다. 이름, 속성, 베리언트, 변수에 의미가 담길수록 신호도 강해진다."
-          },
-          {
-            "t": "p",
-            "x": "가이드라인(Guidelines)은 Library → Manage guidelines에서 게시된 라이브러리에 첨부하는 지침 파일이다. “Place order”에는 늘 기본 버튼을 쓴다는 식의 팀 판단을 여기에 담는다. 에이전트가 디자인을 처음부터 만들 때 효과가 가장 크다."
-          },
-          {
-            "t": "p",
-            "x": "시스템이 실제로 쓰이는 모습도 보여줘야 한다. 완성된 디자인을 Examples 페이지에 게시하거나 이름에 _example을 붙이거나 프롬프트에 파일을 첨부하면 된다. 반복되는 지시는 스킬로 만든다. 분리된 인스턴스와 하드코딩된 값을 찾아내는 /design-system-audit 스킬이 그 예다."
-          },
-          {
-            "t": "p",
-            "x": "결과물은 다시 살핀다. 에이전트가 같은 실수를 되풀이하면 가이드라인, 라이브러리, 예시를 손본다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Put your design system\nto work with the Figma agent",
-          "body": "Figma explains how design-system context helps its agent grasp the principles and guidelines behind your product.",
-          "mini_headline": "Design systems for\nthe Figma agent",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/9db0b3dca44f5d8d35c537adb07f9f9eb479dcd0-1632x918.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "Hero illustration by Cynthia Alfonso"
-              },
-              {
-                "t": "p",
-                "x": "Your design system can help the Figma agent understand the principles and guidelines that define your product. Much of that context already lives in your components, tokens, documented rules and examples; the challenge is making sure the agent can access all of it."
-              },
-              {
-                "t": "p",
-                "x": "Start with your source of truth: connect your published library by selecting “Libraries” in the prompt box, so the agent uses approved components and tokens, or @-mention a specific component or token. Meaningful names, properties, variants and variables give it stronger signals."
-              },
-              {
-                "t": "p",
-                "x": "Guidelines—written instructions files attached to your published library under Library → Manage guidelines—encode your team’s judgment, such as always using a primary button for “Place order.” They work best when the agent creates designs from scratch."
-              },
-              {
-                "t": "p",
-                "x": "Show the system in practice: publish complete designs on an Examples page or add _example to their names, or attach a file to the prompt. Turn recurring instructions into skills, like a /design-system-audit skill that flags detached instances and hardcoded values."
-              },
-              {
-                "t": "p",
-                "x": "Double check the output; if the agent keeps making the same mistake, update your guidelines, library or examples."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "디자인 시스템을\nFigma 에이전트에 연결",
-          "body": "Figma는 디자인 시스템 맥락 덕에 에이전트가 원칙·지침을 잘 이해한다고 밝혔다.",
-          "mini_headline": "Figma 에이전트용 디자인 시스템",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/9db0b3dca44f5d8d35c537adb07f9f9eb479dcd0-1632x918.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "히어로 일러스트: Cynthia Alfonso"
-              },
-              {
-                "t": "p",
-                "x": "디자인 시스템은 Figma 에이전트가 제품을 규정하는 원칙과 지침을 이해하도록 돕는다. 그 맥락은 대부분 컴포넌트, 토큰, 문서로 남긴 규칙과 예시에 이미 담겨 있다. 관건은 에이전트가 이 모두에 닿을 수 있느냐다."
-              },
-              {
-                "t": "p",
-                "x": "시작은 기준이 될 원천을 정하는 일이다. 프롬프트 상자에서 “Libraries”를 선택해 게시된 라이브러리를 연결하면 에이전트가 승인된 컴포넌트와 토큰을 쓴다. 특정 컴포넌트나 토큰을 @로 멘션해도 된다. 이름, 속성, 베리언트, 변수에 의미가 담길수록 신호도 강해진다."
-              },
-              {
-                "t": "p",
-                "x": "가이드라인(Guidelines)은 Library → Manage guidelines에서 게시된 라이브러리에 첨부하는 지침 파일이다. “Place order”에는 늘 기본 버튼을 쓴다는 식의 팀 판단을 여기에 담는다. 에이전트가 디자인을 처음부터 만들 때 효과가 가장 크다."
-              },
-              {
-                "t": "p",
-                "x": "시스템이 실제로 쓰이는 모습도 보여줘야 한다. 완성된 디자인을 Examples 페이지에 게시하거나 이름에 _example을 붙이거나 프롬프트에 파일을 첨부하면 된다. 반복되는 지시는 스킬로 만든다. 분리된 인스턴스와 하드코딩된 값을 찾아내는 /design-system-audit 스킬이 그 예다."
-              },
-              {
-                "t": "p",
-                "x": "결과물은 다시 살핀다. 에이전트가 같은 실수를 되풀이하면 가이드라인, 라이브러리, 예시를 손본다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "デザインシステムを\nFigmaエージェントで活用",
-          "body": "Figmaは、デザインシステムの文脈がエージェントの原則や指針の理解を助けると説明する。",
-          "mini_headline": "Figmaエージェントとデザインシステム",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/9db0b3dca44f5d8d35c537adb07f9f9eb479dcd0-1632x918.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "ヒーローイラスト：Cynthia Alfonso"
-              },
-              {
-                "t": "p",
-                "x": "デザインシステムは、Figmaエージェントがプロダクトを形づくる原則やガイドラインを理解する助けになる。その文脈の多くはすでにコンポーネント、トークン、文書化されたルールや実例の中にある。課題は、エージェントがそのすべてにアクセスできるようにすることだ。"
-              },
-              {
-                "t": "p",
-                "x": "まずは信頼できる情報源から始める。プロンプトボックスで「Libraries」を選んで公開ライブラリを接続すれば、エージェントは承認済みのコンポーネントとトークンを使う。特定のコンポーネントやトークンを@メンションしてもよい。意味のある名前、プロパティ、バリアント、変数は、より強いシグナルになる。"
-              },
-              {
-                "t": "p",
-                "x": "ガイドライン（Guidelines）は、Library → Manage guidelinesから公開ライブラリに添付する指示ファイルで、「Place order」には常にプライマリボタンを使うといったチームの判断を落とし込む。エージェントがゼロからデザインを作るときに最も効果を発揮する。"
-              },
-              {
-                "t": "p",
-                "x": "実際の使われ方も示す。完成したデザインをExamplesページに公開するか、名前に_exampleを付けるか、プロンプトにファイルを添付する。繰り返す指示はスキルにまとめる。切り離されたインスタンスやハードコードされた値を指摘する/design-system-auditスキルがその一例だ。"
-              },
-              {
-                "t": "p",
-                "x": "出力は必ず見直す。エージェントが同じ間違いを繰り返すなら、ガイドライン、ライブラリ、実例を更新する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "让设计系统\n为Figma智能体所用",
-          "body": "Figma介绍了设计系统上下文如何帮助其智能体理解产品背后的原则与准则。",
-          "mini_headline": "Figma智能体的设计系统",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/9db0b3dca44f5d8d35c537adb07f9f9eb479dcd0-1632x918.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "题图插画：Cynthia Alfonso"
-              },
-              {
-                "t": "p",
-                "x": "设计系统可以帮助Figma智能体理解定义你产品的原则与准则。这些上下文大多已经存在于组件、令牌、成文规则和示例之中；难点在于确保智能体能够访问全部内容。"
-              },
-              {
-                "t": "p",
-                "x": "先从唯一可信来源入手：在提示框中选择“Libraries”连接已发布的库，让智能体使用经过批准的组件和令牌；也可以@提及某个特定组件或令牌。有意义的名称、属性、变体和变量会给它更强的信号。"
-              },
-              {
-                "t": "p",
-                "x": "准则（Guidelines）是在Library → Manage guidelines下附加到已发布库的书面指令文件，用来固化团队的判断，比如“Place order”始终使用主按钮。当智能体从零开始创建设计时，它们最有效。"
-              },
-              {
-                "t": "p",
-                "x": "展示系统的实际用法：把完整设计发布到Examples页面，或在名称中加上_example，或在提示中附上文件。把反复出现的指令变成技能，例如一个能标记已分离实例和硬编码值的/design-system-audit技能。"
-              },
-              {
-                "t": "p",
-                "x": "仔细复核输出；如果智能体一再犯同样的错误，就更新你的准则、库或示例。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Tu sistema de diseño\nal servicio del agente de Figma",
-          "body": "Figma explica cómo el contexto del sistema de diseño ayuda a su agente a captar los principios y pautas del producto.",
-          "mini_headline": "Sistemas de diseño para el agente de Figma",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/9db0b3dca44f5d8d35c537adb07f9f9eb479dcd0-1632x918.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "Ilustración principal de Cynthia Alfonso"
-              },
-              {
-                "t": "p",
-                "x": "Tu sistema de diseño puede ayudar al agente de Figma a entender los principios y pautas que definen tu producto. Gran parte de ese contexto ya está en tus componentes, tokens, reglas documentadas y ejemplos; el reto es asegurarse de que el agente pueda acceder a todo ello."
-              },
-              {
-                "t": "p",
-                "x": "Empieza por tu fuente de verdad: conecta tu biblioteca publicada seleccionando “Libraries” en el cuadro de prompt, para que el agente use componentes y tokens aprobados, o menciona con @ un componente o token concreto. Los nombres, propiedades, variantes y variables con sentido le dan señales más claras."
-              },
-              {
-                "t": "p",
-                "x": "Las pautas (Guidelines), archivos de instrucciones escritas adjuntos a tu biblioteca publicada en Library → Manage guidelines, codifican el criterio de tu equipo, como usar siempre un botón primario para “Place order”. Funcionan mejor cuando el agente crea diseños desde cero."
-              },
-              {
-                "t": "p",
-                "x": "Muestra el sistema en la práctica: publica diseños completos en una página Examples o añade _example a sus nombres, o adjunta un archivo al prompt. Convierte las instrucciones recurrentes en skills, como una skill /design-system-audit que señala instancias desvinculadas y valores fijos en el código."
-              },
-              {
-                "t": "p",
-                "x": "Revisa el resultado; si el agente repite el mismo error, actualiza tus pautas, tu biblioteca o tus ejemplos."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "디자인 시스템을\nFigma 에이전트에 연결",
-          "body": "Figma는 디자인 시스템 맥락이 에이전트의 원칙·지침 이해를 돕는다고 밝혔다.",
-          "mini_headline": "Figma 에이전트용 디자인 시스템",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/9db0b3dca44f5d8d35c537adb07f9f9eb479dcd0-1632x918.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "히어로 일러스트: Cynthia Alfonso"
-              },
-              {
-                "t": "p",
-                "x": "디자인 시스템은 Figma 에이전트가 제품을 규정하는 원칙과 지침을 이해하도록 돕는다. 그 맥락의 상당 부분은 이미 컴포넌트, 토큰, 문서화된 규칙과 예시 안에 있다. 관건은 에이전트가 이 모두에 접근할 수 있게 하는 것이다."
-              },
-              {
-                "t": "p",
-                "x": "출발점은 기준이 되는 원천이다. 프롬프트 상자에서 “Libraries”를 선택해 게시된 라이브러리를 연결하면 에이전트가 승인된 컴포넌트와 토큰을 쓴다. 특정 컴포넌트나 토큰을 @로 멘션해도 된다. 의미 있는 이름, 속성, 베리언트, 변수는 더 강한 신호가 된다."
-              },
-              {
-                "t": "p",
-                "x": "가이드라인(Guidelines)은 Library → Manage guidelines에서 게시된 라이브러리에 첨부하는 지침 파일로, “Place order”에는 항상 기본 버튼을 쓰는 식의 팀 판단을 담는다. 에이전트가 디자인을 처음부터 만들 때 가장 효과가 크다."
-              },
-              {
-                "t": "p",
-                "x": "시스템이 실제로 어떻게 쓰이는지도 보여줘야 한다. 완성된 디자인을 Examples 페이지에 게시하거나 이름에 _example을 붙이거나, 프롬프트에 파일을 첨부하면 된다. 반복되는 지시는 스킬로 만든다. 분리된 인스턴스와 하드코딩된 값을 찾아내는 /design-system-audit 스킬이 그 예다."
-              },
-              {
-                "t": "p",
-                "x": "결과물은 다시 확인한다. 에이전트가 같은 실수를 되풀이하면 가이드라인, 라이브러리, 예시를 업데이트한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "デザインシステムを\nFigmaエージェントで活用",
-          "body": "Figmaは、デザインシステムの文脈がエージェントの原則や指針の理解を助けると説明する。",
-          "mini_headline": "Figmaエージェントとデザインシステム",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/9db0b3dca44f5d8d35c537adb07f9f9eb479dcd0-1632x918.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "ヒーローイラスト：Cynthia Alfonso"
-              },
-              {
-                "t": "p",
-                "x": "デザインシステムは、Figmaエージェントがプロダクトを形づくる原則やガイドラインを理解する助けになる。その文脈の多くはすでにコンポーネント、トークン、文書化されたルールや実例の中にある。課題は、エージェントがそのすべてにアクセスできるようにすることだ。"
-              },
-              {
-                "t": "p",
-                "x": "まずは信頼できる情報源から始める。プロンプトボックスで「Libraries」を選んで公開ライブラリを接続すれば、エージェントは承認済みのコンポーネントとトークンを使う。特定のコンポーネントやトークンを@メンションしてもよい。意味のある名前、プロパティ、バリアント、変数は、より強いシグナルになる。"
-              },
-              {
-                "t": "p",
-                "x": "ガイドライン（Guidelines）は、Library → Manage guidelinesから公開ライブラリに添付する指示ファイルで、「Place order」には常にプライマリボタンを使うといったチームの判断を落とし込む。エージェントがゼロからデザインを作るときに最も効果を発揮する。"
-              },
-              {
-                "t": "p",
-                "x": "実際の使われ方も示す。完成したデザインをExamplesページに公開するか、名前に_exampleを付けるか、プロンプトにファイルを添付する。繰り返す指示はスキルにまとめる。切り離されたインスタンスやハードコードされた値を指摘する/design-system-auditスキルがその一例だ。"
-              },
-              {
-                "t": "p",
-                "x": "出力は必ず見直す。エージェントが同じ間違いを繰り返すなら、ガイドライン、ライブラリ、実例を更新する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "让设计系统\n为Figma智能体所用",
-          "body": "Figma介绍了设计系统上下文如何帮助其智能体理解产品背后的原则与准则。",
-          "mini_headline": "Figma智能体的设计系统",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/9db0b3dca44f5d8d35c537adb07f9f9eb479dcd0-1632x918.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "题图插画：Cynthia Alfonso"
-              },
-              {
-                "t": "p",
-                "x": "设计系统可以帮助Figma智能体理解定义你产品的原则与准则。这些上下文大多已经存在于组件、令牌、成文规则和示例之中；难点在于确保智能体能够访问全部内容。"
-              },
-              {
-                "t": "p",
-                "x": "先从唯一可信来源入手：在提示框中选择“Libraries”连接已发布的库，让智能体使用经过批准的组件和令牌；也可以@提及某个特定组件或令牌。有意义的名称、属性、变体和变量会给它更强的信号。"
-              },
-              {
-                "t": "p",
-                "x": "准则（Guidelines）是在Library → Manage guidelines下附加到已发布库的书面指令文件，用来固化团队的判断，比如“Place order”始终使用主按钮。当智能体从零开始创建设计时，它们最有效。"
-              },
-              {
-                "t": "p",
-                "x": "展示系统的实际用法：把完整设计发布到Examples页面，或在名称中加上_example，或在提示中附上文件。把反复出现的指令变成技能，例如一个能标记已分离实例和硬编码值的/design-system-audit技能。"
-              },
-              {
-                "t": "p",
-                "x": "仔细复核输出；如果智能体一再犯同样的错误，就更新你的准则、库或示例。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Tu sistema de diseño\nal servicio del agente de Figma",
-          "body": "Figma explica cómo el contexto del sistema de diseño ayuda a su agente a captar los principios y pautas del producto.",
-          "mini_headline": "Sistemas de diseño para el agente de Figma",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/9db0b3dca44f5d8d35c537adb07f9f9eb479dcd0-1632x918.png?w=1200&q=70&fit=max&auto=format",
-                "cap": "Ilustración principal de Cynthia Alfonso"
-              },
-              {
-                "t": "p",
-                "x": "Tu sistema de diseño puede ayudar al agente de Figma a entender los principios y pautas que definen tu producto. Gran parte de ese contexto ya está en tus componentes, tokens, reglas documentadas y ejemplos; el reto es asegurarse de que el agente pueda acceder a todo ello."
-              },
-              {
-                "t": "p",
-                "x": "Empieza por tu fuente de verdad: conecta tu biblioteca publicada seleccionando “Libraries” en el cuadro de prompt, para que el agente use componentes y tokens aprobados, o menciona con @ un componente o token concreto. Los nombres, propiedades, variantes y variables con sentido le dan señales más claras."
-              },
-              {
-                "t": "p",
-                "x": "Las pautas (Guidelines), archivos de instrucciones escritas adjuntos a tu biblioteca publicada en Library → Manage guidelines, codifican el criterio de tu equipo, como usar siempre un botón primario para “Place order”. Funcionan mejor cuando el agente crea diseños desde cero."
-              },
-              {
-                "t": "p",
-                "x": "Muestra el sistema en la práctica: publica diseños completos en una página Examples o añade _example a sus nombres, o adjunta un archivo al prompt. Convierte las instrucciones recurrentes en skills, como una skill /design-system-audit que señala instancias desvinculadas y valores fijos en el código."
-              },
-              {
-                "t": "p",
-                "x": "Revisa el resultado; si el agente repite el mismo error, actualiza tus pautas, tu biblioteca o tus ejemplos."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "design-claude-duet",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Claude Duet으로\nMuse에 맞서다",
-      "body": "Anthropic이 Meta의 Muse에 맞설 AI Claude Duet을 내놨다.",
-      "mini_headline": "Muse에 맞선 Claude Duet",
-      "tool": "AI Workflow",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-          },
-          {
-            "t": "p",
-            "x": "Anthropic이 Meta의 Muse와 OpenAI의 Dots에 맞설 AI 에이전트 Claude Duet을 발표했다. 전문직 종사자와 소상공인을 겨냥한 새 에이전트로, Anthropic에 따르면 “리서치 프리뷰”로 나온다. iOS와 Android 독립 앱이나 웹의 Claude에서 쓸 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "이 AI 에이전트의 바탕은 Claude Opus 5.5다. 매일 아침 연결된 앱에서 가장 중요한 항목만 추린 짧은 브리프를 보내고, 낮에는 챙길 일이 생길 때만 메시지를 보낸다. 회의 일정 잡기부터 대시보드, 재무·매출 예측, 프로토타입, 웹 앱 제작까지 일을 맡겨도 된다."
-          },
-          {
-            "t": "p",
-            "x": "Claude Duet은 Claude의 메모리, 스킬, 연결된 앱을 가져오고 브라우저가 딸린 가상 머신도 갖췄다. 결제나 삭제처럼 중요한 단계 전에는 메시지로 승인을 구한다. 새 전용 분류기와 안전 시스템 프롬프트는 신용카드 번호 같은 “가장 엄격한 등급의 정보를 공유하라는 요청을 거부하도록 설계됐다”."
-          },
-          {
-            "t": "p",
-            "x": "Anthropic은 Claude Duet이 아직 “초기 버전”이며 “여전히 스레드를 잘못 읽거나 무엇이 급한지 잘못 판단할 수 있다”고 말한다. 티켓 예매 같은 개인 용무에서도 아직은 “그만큼 강하지” 않다고 한다."
-          },
-          {
-            "t": "video",
-            "yt": "Fb-68zqcSVs"
-          },
-          {
-            "t": "p",
-            "x": "Claude Duet을 써 보려면 대기자 명단에 이름을 올리면 된다. 다만 미국(US)의 Pro 또는 Max 구독자만 쓸 수 있다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Anthropic takes on Muse\nwith Claude Duet",
-          "body": "Anthropic unveiled Claude Duet, a new AI agent positioned against Meta's Muse, and its waitlist is open now.",
-          "mini_headline": "Claude Duet\ntakes on Muse",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic just announced an AI agent competitor to Meta’s Muse and OpenAI’s Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a “research preview,” according to Anthropic, and it’s available as a standalone app on iOS and Android and through Claude on the web."
-              },
-              {
-                "t": "p",
-                "x": "The AI agent is built around Claude Opus 5.5. Each morning, it sends you a short brief on the most important items across your connected apps, and throughout the day it messages you only when something needs your attention. You can also hand it tasks from scheduling meetings to building dashboards, financial or sales forecasts, prototypes and web apps."
-              },
-              {
-                "t": "p",
-                "x": "Claude Duet pulls in memory, skills, and connected apps from Claude, and it has a virtual machine with a browser. Before any big step, like sending a payment or deleting something, it messages you for approval. A new dedicated classifier and safety system prompt are “designed to reject requests to share the strictest tier of information,” such as credit card numbers."
-              },
-              {
-                "t": "p",
-                "x": "Anthropic says Claude Duet is currently an “early version” and that it “still might misread a thread or miscalibrate what’s urgent.” It’s also not “as strong” at personal errands like booking tickets."
-              },
-              {
-                "t": "video",
-                "yt": "Fb-68zqcSVs"
-              },
-              {
-                "t": "p",
-                "x": "If you want to try Claude Duet, you can get on the waitlist, though you’ll need to be a Pro or Max subscriber in the US to use it."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Claude Duet으로\nMuse에 맞서다",
-          "body": "Anthropic이 Meta의 Muse에 맞설 AI Claude Duet을 내놨다.",
-          "mini_headline": "Muse에 맞선 Claude Duet",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic이 Meta의 Muse와 OpenAI의 Dots에 맞설 AI 에이전트 Claude Duet을 발표했다. 전문직 종사자와 소상공인을 겨냥한 새 에이전트로, Anthropic에 따르면 “리서치 프리뷰”로 나온다. iOS와 Android 독립 앱이나 웹의 Claude에서 쓸 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "이 AI 에이전트의 바탕은 Claude Opus 5.5다. 매일 아침 연결된 앱에서 가장 중요한 항목만 추린 짧은 브리프를 보내고, 낮에는 챙길 일이 생길 때만 메시지를 보낸다. 회의 일정 잡기부터 대시보드, 재무·매출 예측, 프로토타입, 웹 앱 제작까지 일을 맡겨도 된다."
-              },
-              {
-                "t": "p",
-                "x": "Claude Duet은 Claude의 메모리, 스킬, 연결된 앱을 가져오고 브라우저가 딸린 가상 머신도 갖췄다. 결제나 삭제처럼 중요한 단계 전에는 메시지로 승인을 구한다. 새 전용 분류기와 안전 시스템 프롬프트는 신용카드 번호 같은 “가장 엄격한 등급의 정보를 공유하라는 요청을 거부하도록 설계됐다”."
-              },
-              {
-                "t": "p",
-                "x": "Anthropic은 Claude Duet이 아직 “초기 버전”이며 “여전히 스레드를 잘못 읽거나 무엇이 급한지 잘못 판단할 수 있다”고 말한다. 티켓 예매 같은 개인 용무에서도 아직은 “그만큼 강하지” 않다고 한다."
-              },
-              {
-                "t": "video",
-                "yt": "Fb-68zqcSVs"
-              },
-              {
-                "t": "p",
-                "x": "Claude Duet을 써 보려면 대기자 명단에 이름을 올리면 된다. 다만 미국(US)의 Pro 또는 Max 구독자만 쓸 수 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Anthropic、Muse\n対抗のClaude Duet",
-          "body": "AnthropicがMetaのMuseに対抗するAI「Claude Duet」を発表した。",
-          "mini_headline": "Museに挑むClaude Duet",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "AnthropicがMetaのMuseやOpenAIのDotsに対抗するAIエージェント「Claude Duet」を発表した。専門職や中小企業の経営者向けに設計された新エージェントで、Anthropicによれば「リサーチプレビュー」として提供を始める。iOSとAndroidの単体アプリ、そしてWeb版のClaudeから利用できる。"
-              },
-              {
-                "t": "p",
-                "x": "このAIエージェントはClaude Opus 5.5を基盤とする。毎朝、連携アプリ全体から最も重要な項目をまとめた短いブリーフを送り、日中は注意が必要なときだけメッセージを送ってくる。会議の日程調整から、ダッシュボード、財務・売上予測、プロトタイプ、Webアプリの構築まで、作業を任せることもできる。"
-              },
-              {
-                "t": "p",
-                "x": "Claude DuetはClaudeのメモリ、スキル、連携アプリを引き継ぎ、ブラウザ付きの仮想マシンを備える。支払いや削除のような大きな操作の前には、メッセージで承認を求める。新たな専用分類器と安全用システムプロンプトは、クレジットカード番号など「最も厳格な階層の情報の共有を求めるリクエストを拒否するよう設計されている」。"
-              },
-              {
-                "t": "p",
-                "x": "Anthropicによれば、Claude Duetは現時点で「初期バージョン」であり、「スレッドを読み違えたり、何が緊急かを見誤ったりする可能性がまだある」。チケット予約のような個人的な用事も「それほど得意」ではない。"
-              },
-              {
-                "t": "video",
-                "yt": "Fb-68zqcSVs"
-              },
-              {
-                "t": "p",
-                "x": "Claude Duetを試したい場合はウェイトリストに登録できる。ただし利用には米国（US）のProまたはMaxの加入者である必要がある。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Anthropic战Muse\n亮出Claude Duet",
-          "body": "Anthropic推出对标Meta Muse的AI智能体Claude Duet并开放候补。",
-          "mini_headline": "Claude Duet挑战Muse",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic刚刚发布了对标Meta的Muse和OpenAI的Dots的AI智能体：Claude Duet。据Anthropic介绍，这款面向专业人士和小企业主的新智能体以“研究预览版”形式推出，可通过iOS和Android上的独立应用以及网页版Claude使用。"
-              },
-              {
-                "t": "p",
-                "x": "这款AI智能体基于Claude Opus 5.5打造。它每天早上发送一份简短简报，汇总你所连接应用中最重要的事项；白天只在有事需要你关注时才发消息。你还可以把各种任务交给它，从安排会议到搭建仪表板、财务或销售预测、原型和网页应用。"
-              },
-              {
-                "t": "p",
-                "x": "Claude Duet会调用Claude中的记忆、技能和已连接应用，并配有带浏览器的虚拟机。在付款或删除内容等重大步骤之前，它会发消息征求你的批准。新的专用分类器和安全系统提示“旨在拒绝分享最高级别信息的请求”，例如信用卡号。"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic表示，Claude Duet目前是“早期版本”，“仍可能误读对话线索，或误判什么事情紧急”。在订票这类个人事务上，它也“没那么强”。"
-              },
-              {
-                "t": "video",
-                "yt": "Fb-68zqcSVs"
-              },
-              {
-                "t": "p",
-                "x": "如果想试用Claude Duet，可以加入候补名单，不过需要是美国（US）的Pro或Max订阅用户才能使用。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Anthropic se enfrenta a Muse\ncon Claude Duet",
-          "body": "Anthropic presentó Claude Duet, un agente de AI que compite con Muse de Meta, y ya abrió su lista de espera.",
-          "mini_headline": "Claude Duet frente a Muse",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic acaba de anunciar un agente de AI que compite con Muse de Meta y Dots de OpenAI: Claude Duet. El nuevo agente, diseñado para profesionales y propietarios de pequeñas empresas, se lanza como una “vista previa de investigación”, según Anthropic, y está disponible como app independiente en iOS y Android y a través de Claude en la web."
-              },
-              {
-                "t": "p",
-                "x": "El agente de AI se basa en Claude Opus 5.5. Cada mañana envía un breve resumen con los asuntos más importantes de tus apps conectadas y, a lo largo del día, solo te escribe cuando algo requiere tu atención. También puedes encargarle tareas que van desde programar reuniones hasta crear paneles, previsiones financieras o de ventas, prototipos y aplicaciones web."
-              },
-              {
-                "t": "p",
-                "x": "Claude Duet incorpora la memoria, las skills y las apps conectadas de Claude, y cuenta con una máquina virtual con navegador. Antes de cualquier paso importante, como enviar un pago o borrar algo, te pide aprobación por mensaje. Un nuevo clasificador dedicado y un prompt de sistema de seguridad están “diseñados para rechazar solicitudes de compartir el nivel más estricto de información”, como números de tarjetas de crédito."
-              },
-              {
-                "t": "p",
-                "x": "Anthropic afirma que Claude Duet es por ahora una “versión temprana” y que “todavía podría malinterpretar un hilo o calibrar mal lo que es urgente”. Tampoco es “tan bueno” en recados personales como reservar entradas."
-              },
-              {
-                "t": "video",
-                "yt": "Fb-68zqcSVs"
-              },
-              {
-                "t": "p",
-                "x": "Si quieres probar Claude Duet, puedes apuntarte a la lista de espera, aunque para usarlo hay que ser suscriptor Pro o Max en Estados Unidos (US)."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Claude Duet으로\nMuse에 맞서다",
-          "body": "Anthropic이 Meta의 Muse 대항마 AI Claude Duet을 냈다.",
-          "mini_headline": "Muse에 맞선 Claude Duet",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic이 Meta의 Muse와 OpenAI의 Dots에 맞설 AI 에이전트 Claude Duet을 발표했다. 전문직 종사자와 소상공인을 위해 설계된 이 새 에이전트는 Anthropic에 따르면 “리서치 프리뷰”로 출시되며, iOS와 Android의 독립 앱, 그리고 웹의 Claude를 통해 쓸 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "이 AI 에이전트는 Claude Opus 5.5를 기반으로 한다. 매일 아침 연결된 앱 전반에서 가장 중요한 항목을 짧게 정리한 브리프를 보내고, 낮 동안에는 주의가 필요한 일이 있을 때만 메시지를 보낸다. 회의 일정 잡기부터 대시보드, 재무·매출 예측, 프로토타입, 웹 앱 제작까지 작업을 맡길 수도 있다."
-              },
-              {
-                "t": "p",
-                "x": "Claude Duet은 Claude의 메모리, 스킬, 연결된 앱을 가져오고, 브라우저가 있는 가상 머신을 갖췄다. 결제나 삭제처럼 중요한 단계 전에는 메시지로 승인을 구한다. 새 전용 분류기와 안전 시스템 프롬프트는 신용카드 번호 같은 “가장 엄격한 등급의 정보를 공유하라는 요청을 거부하도록 설계됐다”."
-              },
-              {
-                "t": "p",
-                "x": "Anthropic은 Claude Duet이 아직 “초기 버전”이며 “여전히 스레드를 잘못 읽거나 무엇이 급한지 잘못 판단할 수 있다”고 말한다. 티켓 예매 같은 개인 용무에도 아직 “그만큼 강하지” 않다."
-              },
-              {
-                "t": "video",
-                "yt": "Fb-68zqcSVs"
-              },
-              {
-                "t": "p",
-                "x": "Claude Duet을 써 보고 싶다면 대기자 명단에 등록할 수 있다. 다만 사용하려면 미국(US)의 Pro 또는 Max 구독자여야 한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Anthropic、Muse\n対抗のClaude Duet",
-          "body": "AnthropicがMetaのMuseに対抗するAI「Claude Duet」を発表した。",
-          "mini_headline": "Museに挑むClaude Duet",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "AnthropicがMetaのMuseやOpenAIのDotsに対抗するAIエージェント「Claude Duet」を発表した。専門職や中小企業の経営者向けに設計された新エージェントで、Anthropicによれば「リサーチプレビュー」として提供を始める。iOSとAndroidの単体アプリ、そしてWeb版のClaudeから利用できる。"
-              },
-              {
-                "t": "p",
-                "x": "このAIエージェントはClaude Opus 5.5を基盤とする。毎朝、連携アプリ全体から最も重要な項目をまとめた短いブリーフを送り、日中は注意が必要なときだけメッセージを送ってくる。会議の日程調整から、ダッシュボード、財務・売上予測、プロトタイプ、Webアプリの構築まで、作業を任せることもできる。"
-              },
-              {
-                "t": "p",
-                "x": "Claude DuetはClaudeのメモリ、スキル、連携アプリを引き継ぎ、ブラウザ付きの仮想マシンを備える。支払いや削除のような大きな操作の前には、メッセージで承認を求める。新たな専用分類器と安全用システムプロンプトは、クレジットカード番号など「最も厳格な階層の情報の共有を求めるリクエストを拒否するよう設計されている」。"
-              },
-              {
-                "t": "p",
-                "x": "Anthropicによれば、Claude Duetは現時点で「初期バージョン」であり、「スレッドを読み違えたり、何が緊急かを見誤ったりする可能性がまだある」。チケット予約のような個人的な用事も「それほど得意」ではない。"
-              },
-              {
-                "t": "video",
-                "yt": "Fb-68zqcSVs"
-              },
-              {
-                "t": "p",
-                "x": "Claude Duetを試したい場合はウェイトリストに登録できる。ただし利用には米国（US）のProまたはMaxの加入者である必要がある。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Anthropic战Muse\n亮出Claude Duet",
-          "body": "Anthropic推出对标Meta Muse的AI智能体Claude Duet并开放候补。",
-          "mini_headline": "Claude Duet挑战Muse",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic刚刚发布了对标Meta的Muse和OpenAI的Dots的AI智能体：Claude Duet。据Anthropic介绍，这款面向专业人士和小企业主的新智能体以“研究预览版”形式推出，可通过iOS和Android上的独立应用以及网页版Claude使用。"
-              },
-              {
-                "t": "p",
-                "x": "这款AI智能体基于Claude Opus 5.5打造。它每天早上发送一份简短简报，汇总你所连接应用中最重要的事项；白天只在有事需要你关注时才发消息。你还可以把各种任务交给它，从安排会议到搭建仪表板、财务或销售预测、原型和网页应用。"
-              },
-              {
-                "t": "p",
-                "x": "Claude Duet会调用Claude中的记忆、技能和已连接应用，并配有带浏览器的虚拟机。在付款或删除内容等重大步骤之前，它会发消息征求你的批准。新的专用分类器和安全系统提示“旨在拒绝分享最高级别信息的请求”，例如信用卡号。"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic表示，Claude Duet目前是“早期版本”，“仍可能误读对话线索，或误判什么事情紧急”。在订票这类个人事务上，它也“没那么强”。"
-              },
-              {
-                "t": "video",
-                "yt": "Fb-68zqcSVs"
-              },
-              {
-                "t": "p",
-                "x": "如果想试用Claude Duet，可以加入候补名单，不过需要是美国（US）的Pro或Max订阅用户才能使用。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Anthropic se enfrenta a Muse\ncon Claude Duet",
-          "body": "Anthropic presentó Claude Duet, un agente de AI que compite con Muse de Meta, y ya abrió su lista de espera.",
-          "mini_headline": "Claude Duet frente a Muse",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic acaba de anunciar un agente de AI que compite con Muse de Meta y Dots de OpenAI: Claude Duet. El nuevo agente, diseñado para profesionales y propietarios de pequeñas empresas, se lanza como una “vista previa de investigación”, según Anthropic, y está disponible como app independiente en iOS y Android y a través de Claude en la web."
-              },
-              {
-                "t": "p",
-                "x": "El agente de AI se basa en Claude Opus 5.5. Cada mañana envía un breve resumen con los asuntos más importantes de tus apps conectadas y, a lo largo del día, solo te escribe cuando algo requiere tu atención. También puedes encargarle tareas que van desde programar reuniones hasta crear paneles, previsiones financieras o de ventas, prototipos y aplicaciones web."
-              },
-              {
-                "t": "p",
-                "x": "Claude Duet incorpora la memoria, las skills y las apps conectadas de Claude, y cuenta con una máquina virtual con navegador. Antes de cualquier paso importante, como enviar un pago o borrar algo, te pide aprobación por mensaje. Un nuevo clasificador dedicado y un prompt de sistema de seguridad están “diseñados para rechazar solicitudes de compartir el nivel más estricto de información”, como números de tarjetas de crédito."
-              },
-              {
-                "t": "p",
-                "x": "Anthropic afirma que Claude Duet es por ahora una “versión temprana” y que “todavía podría malinterpretar un hilo o calibrar mal lo que es urgente”. Tampoco es “tan bueno” en recados personales como reservar entradas."
-              },
-              {
-                "t": "video",
-                "yt": "Fb-68zqcSVs"
-              },
-              {
-                "t": "p",
-                "x": "Si quieres probar Claude Duet, puedes apuntarte a la lista de espera, aunque para usarlo hay que ser suscriptor Pro o Max en Estados Unidos (US)."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "design-ptc-jetstream",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "PTC Jetstream,\nWindchill에 협업을",
-      "body": "PTC Jetstream이 Windchill에 AI-native 협업층을 더했다.",
-      "mini_headline": "Windchill에 합류한 Jetstream",
-      "tool": "Text-to-CAD",
-      "source": "DEVELOP3D",
-      "url": "https://develop3d.com/collaborate/new-ptc-jetstream-brings-collaboration-layer-to-windchill/",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://develop3d.com/wp-content/uploads/2026/10/PTC-Jetstream.jpg"
-          },
-          {
-            "t": "p",
-            "x": "PTC가 클라우드 협업 계층 Jetstream을 출시했다. 제품 개발팀과 회의, 마크업, 의사결정, 맥락을 AI-native 계층에서 더 촘촘히 잇고 그 내용을 Windchill PLM으로 바로 흘려보낸다."
-          },
-          {
-            "t": "p",
-            "x": "Windchill에서 협업을 시작하면 제품 데이터가 보안이 걸린 Collaboration Rooms로 공유된다. 그 안에서 나온 이슈와 결정은 기록으로 남아 다시 Windchill로 돌아온다. 접근이 통제되는 Rooms에서는 지정된 직원, 공급업체, 파트너가 CAD나 PLM을 직접 열지 않고도 2D 및 3D 제품 데이터를 검토한다. 코멘트와 마크업은 데이터 버전, 검토자, 맥락과 묶인다."
-          },
-          {
-            "t": "p",
-            "x": "Jetstream의 AI는 회의 전체를 요약해 주요 결정과 결과, 다음 단계와 담당자를 짚어 준다. Windchill 없이 Jetstream만 단독으로 써도 된다. 이 경우 사용자는 Creo, Solidworks, STEP 파일을 올리면 된다."
-          },
-          {
-            "t": "p",
-            "x": "PTC CPO Jon Stevenson은 “제품 개발은 팀의 노력이지만, 이를 지원하는 도구는 팀이 얼마나 넓게 분산됐는지를 따라가지 못했다”고 말했다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "PTC Jetstream brings\ncollaboration to Windchill",
-          "body": "PTC Jetstream adds an AI-native cloud layer to Windchill that connects product teams, review meetings and context.",
-          "mini_headline": "Jetstream joins\nWindchill",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/PTC-Jetstream.jpg"
-              },
-              {
-                "t": "p",
-                "x": "PTC has launched Jetstream, its cloud collaboration layer to better link product development teams, meetings, mark-ups, decisions and context in an AI-native layer that feeds directly into Windchill PLM."
-              },
-              {
-                "t": "p",
-                "x": "Starting a collaboration from Windchill shares product data to secure Collaboration Rooms and returns a record of the issues raised and decisions reached back to Windchill. The access-controlled Rooms let selected employees, suppliers and partners review 2D and 3D product data without working directly in CAD or PLM, with comments and markups tied to the data version, reviewer and context."
-              },
-              {
-                "t": "p",
-                "x": "Jetstream’s AI can build full summaries from these meetings, highlighting key decisions, outcomes and next steps, plus the owners. Jetstream also works on its own without Windchill, letting users upload Creo, Solidworks and STEP files."
-              },
-              {
-                "t": "p",
-                "x": "“Product development is a team effort, but the tools used to support it have not kept pace with how widely distributed that team has become,” said PTC CPO Jon Stevenson."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "PTC Jetstream,\nWindchill에 협업을",
-          "body": "PTC Jetstream이 Windchill에 AI-native 협업층을 더했다.",
-          "mini_headline": "Windchill에 합류한 Jetstream",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/PTC-Jetstream.jpg"
-              },
-              {
-                "t": "p",
-                "x": "PTC가 클라우드 협업 계층 Jetstream을 출시했다. 제품 개발팀과 회의, 마크업, 의사결정, 맥락을 AI-native 계층에서 더 촘촘히 잇고 그 내용을 Windchill PLM으로 바로 흘려보낸다."
-              },
-              {
-                "t": "p",
-                "x": "Windchill에서 협업을 시작하면 제품 데이터가 보안이 걸린 Collaboration Rooms로 공유된다. 그 안에서 나온 이슈와 결정은 기록으로 남아 다시 Windchill로 돌아온다. 접근이 통제되는 Rooms에서는 지정된 직원, 공급업체, 파트너가 CAD나 PLM을 직접 열지 않고도 2D 및 3D 제품 데이터를 검토한다. 코멘트와 마크업은 데이터 버전, 검토자, 맥락과 묶인다."
-              },
-              {
-                "t": "p",
-                "x": "Jetstream의 AI는 회의 전체를 요약해 주요 결정과 결과, 다음 단계와 담당자를 짚어 준다. Windchill 없이 Jetstream만 단독으로 써도 된다. 이 경우 사용자는 Creo, Solidworks, STEP 파일을 올리면 된다."
-              },
-              {
-                "t": "p",
-                "x": "PTC CPO Jon Stevenson은 “제품 개발은 팀의 노력이지만, 이를 지원하는 도구는 팀이 얼마나 넓게 분산됐는지를 따라가지 못했다”고 말했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "PTC Jetstream、\nWindchillに協働基盤",
-          "body": "PTC JetstreamはWindchillにAI-nativeなクラウド層を加える。",
-          "mini_headline": "JetstreamがWindchillに合流",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/PTC-Jetstream.jpg"
-              },
-              {
-                "t": "p",
-                "x": "PTCは、製品開発チーム、会議、マークアップ、意思決定、文脈をAI-nativeなレイヤーでより緊密に結び、Windchill PLMへ直接取り込むクラウド協働レイヤー「Jetstream」を発表した。"
-              },
-              {
-                "t": "p",
-                "x": "Windchillから協働を始めると、製品データが安全なCollaboration Roomsに共有され、挙がった課題と下された決定の記録がWindchillへ戻される。アクセス管理されたRoomsでは、選ばれた従業員、サプライヤー、パートナーがCADやPLMで直接作業せずに 2D と 3D の製品データをレビューでき、コメントとマークアップはデータのバージョン、レビュー担当者、文脈にひも付けられる。"
-              },
-              {
-                "t": "p",
-                "x": "JetstreamのAIはこうした会議の完全な要約を作成し、主要な決定、成果、次のステップと担当者を示す。JetstreamはWindchillなしでも単独で動作し、Creo、Solidworks、STEPのファイルをアップロードできる。"
-              },
-              {
-                "t": "p",
-                "x": "PTCのCPO、Jon Stevensonは「製品開発はチームで取り組むものだが、それを支えるツールは、チームがどれほど広く分散したかに追いついていない」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "PTC Jetstream\n把协作带进Windchill",
-          "body": "PTC Jetstream为Windchill新增连接团队的AI-native云端层。",
-          "mini_headline": "Jetstream接入Windchill",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/PTC-Jetstream.jpg"
-              },
-              {
-                "t": "p",
-                "x": "PTC推出了云端协作层Jetstream，在AI-native层中更好地连接产品开发团队、会议、标注、决策和上下文，并直接汇入Windchill PLM。"
-              },
-              {
-                "t": "p",
-                "x": "从Windchill发起协作后，产品数据会共享到安全的Collaboration Rooms，提出的问题和达成的决定会以记录形式回传Windchill。这些受访问控制的Rooms让选定的员工、供应商和合作伙伴无需直接在CAD或PLM中操作即可审阅 2D 和 3D 产品数据，评论和标注都与数据版本、审阅人和上下文相关联。"
-              },
-              {
-                "t": "p",
-                "x": "Jetstream的AI可以为这些会议生成完整摘要，突出关键决策、结果、后续步骤及负责人。Jetstream也可脱离Windchill独立使用，用户可上传Creo、Solidworks和STEP文件。"
-              },
-              {
-                "t": "p",
-                "x": "PTC首席产品官（CPO）Jon Stevenson表示：“产品开发是团队协作，但支持它的工具却没有跟上团队日益分散的步伐。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "PTC Jetstream lleva la\ncolaboración a Windchill",
-          "body": "PTC Jetstream añade a Windchill una capa en la nube AI-native que conecta equipos de producto, reuniones y contexto.",
-          "mini_headline": "Jetstream se une a Windchill",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/PTC-Jetstream.jpg"
-              },
-              {
-                "t": "p",
-                "x": "PTC ha lanzado Jetstream, su capa de colaboración en la nube para conectar mejor a los equipos de desarrollo de producto, las reuniones, las anotaciones, las decisiones y el contexto en una capa AI-native que alimenta directamente Windchill PLM."
-              },
-              {
-                "t": "p",
-                "x": "Al iniciar una colaboración desde Windchill, los datos de producto se comparten en Collaboration Rooms seguras y un registro de los problemas planteados y las decisiones tomadas vuelve a Windchill. Las Rooms, con acceso controlado, permiten que empleados, proveedores y socios seleccionados revisen datos de producto en 2D y 3D sin trabajar directamente en CAD o PLM, con comentarios y anotaciones vinculados a la versión de los datos, al revisor y al contexto."
-              },
-              {
-                "t": "p",
-                "x": "La AI de Jetstream puede elaborar resúmenes completos de esas reuniones, con las decisiones clave, los resultados y los siguientes pasos, además de los responsables. Jetstream también funciona por sí solo, sin Windchill, y permite subir archivos de Creo, Solidworks y STEP."
-              },
-              {
-                "t": "p",
-                "x": "“El desarrollo de producto es un esfuerzo de equipo, pero las herramientas que lo respaldan no han seguido el ritmo de lo distribuido que está hoy ese equipo”, dijo Jon Stevenson, CPO de PTC."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "PTC Jetstream,\nWindchill에 협업을",
-          "body": "PTC Jetstream이 Windchill에 AI-native 협업층을 더했다.",
-          "mini_headline": "Windchill에 합류한 Jetstream",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/PTC-Jetstream.jpg"
-              },
-              {
-                "t": "p",
-                "x": "PTC가 클라우드 협업 계층 Jetstream을 출시했다. 제품 개발팀, 회의, 마크업, 의사결정, 맥락을 AI-native 계층에서 더 잘 연결하고, 이를 Windchill PLM으로 바로 흘려보낸다."
-              },
-              {
-                "t": "p",
-                "x": "Windchill에서 협업을 시작하면 제품 데이터가 보안이 적용된 Collaboration Rooms로 공유되고, 제기된 이슈와 도출된 결정의 기록이 다시 Windchill로 돌아온다. 접근이 통제되는 Rooms에서는 선택된 직원, 공급업체, 파트너가 CAD나 PLM에서 직접 작업하지 않고도 2D 및 3D 제품 데이터를 검토할 수 있으며, 코멘트와 마크업은 데이터 버전, 검토자, 맥락에 연결된다."
-              },
-              {
-                "t": "p",
-                "x": "Jetstream의 AI는 이 회의들의 전체 요약을 만들어 주요 결정, 결과, 다음 단계와 담당자를 짚어 준다. Jetstream은 Windchill 없이도 단독으로 작동해 사용자가 Creo, Solidworks, STEP 파일을 올릴 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "PTC CPO Jon Stevenson은 “제품 개발은 팀의 노력이지만, 이를 지원하는 도구는 팀이 얼마나 넓게 분산됐는지를 따라가지 못했다”고 말했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "PTC Jetstream、\nWindchillに協働基盤",
-          "body": "PTC JetstreamはWindchillにAI-nativeなクラウド層を加える。",
-          "mini_headline": "JetstreamがWindchillに合流",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/PTC-Jetstream.jpg"
-              },
-              {
-                "t": "p",
-                "x": "PTCは、製品開発チーム、会議、マークアップ、意思決定、文脈をAI-nativeなレイヤーでより緊密に結び、Windchill PLMへ直接取り込むクラウド協働レイヤー「Jetstream」を発表した。"
-              },
-              {
-                "t": "p",
-                "x": "Windchillから協働を始めると、製品データが安全なCollaboration Roomsに共有され、挙がった課題と下された決定の記録がWindchillへ戻される。アクセス管理されたRoomsでは、選ばれた従業員、サプライヤー、パートナーがCADやPLMで直接作業せずに 2D と 3D の製品データをレビューでき、コメントとマークアップはデータのバージョン、レビュー担当者、文脈にひも付けられる。"
-              },
-              {
-                "t": "p",
-                "x": "JetstreamのAIはこうした会議の完全な要約を作成し、主要な決定、成果、次のステップと担当者を示す。JetstreamはWindchillなしでも単独で動作し、Creo、Solidworks、STEPのファイルをアップロードできる。"
-              },
-              {
-                "t": "p",
-                "x": "PTCのCPO、Jon Stevensonは「製品開発はチームで取り組むものだが、それを支えるツールは、チームがどれほど広く分散したかに追いついていない」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "PTC Jetstream\n把协作带进Windchill",
-          "body": "PTC Jetstream为Windchill新增连接团队的AI-native云端层。",
-          "mini_headline": "Jetstream接入Windchill",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/PTC-Jetstream.jpg"
-              },
-              {
-                "t": "p",
-                "x": "PTC推出了云端协作层Jetstream，在AI-native层中更好地连接产品开发团队、会议、标注、决策和上下文，并直接汇入Windchill PLM。"
-              },
-              {
-                "t": "p",
-                "x": "从Windchill发起协作后，产品数据会共享到安全的Collaboration Rooms，提出的问题和达成的决定会以记录形式回传Windchill。这些受访问控制的Rooms让选定的员工、供应商和合作伙伴无需直接在CAD或PLM中操作即可审阅 2D 和 3D 产品数据，评论和标注都与数据版本、审阅人和上下文相关联。"
-              },
-              {
-                "t": "p",
-                "x": "Jetstream的AI可以为这些会议生成完整摘要，突出关键决策、结果、后续步骤及负责人。Jetstream也可脱离Windchill独立使用，用户可上传Creo、Solidworks和STEP文件。"
-              },
-              {
-                "t": "p",
-                "x": "PTC首席产品官（CPO）Jon Stevenson表示：“产品开发是团队协作，但支持它的工具却没有跟上团队日益分散的步伐。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "PTC Jetstream lleva la\ncolaboración a Windchill",
-          "body": "PTC Jetstream añade a Windchill una capa en la nube AI-native que conecta equipos de producto, reuniones y contexto.",
-          "mini_headline": "Jetstream se une a Windchill",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/PTC-Jetstream.jpg"
-              },
-              {
-                "t": "p",
-                "x": "PTC ha lanzado Jetstream, su capa de colaboración en la nube para conectar mejor a los equipos de desarrollo de producto, las reuniones, las anotaciones, las decisiones y el contexto en una capa AI-native que alimenta directamente Windchill PLM."
-              },
-              {
-                "t": "p",
-                "x": "Al iniciar una colaboración desde Windchill, los datos de producto se comparten en Collaboration Rooms seguras y un registro de los problemas planteados y las decisiones tomadas vuelve a Windchill. Las Rooms, con acceso controlado, permiten que empleados, proveedores y socios seleccionados revisen datos de producto en 2D y 3D sin trabajar directamente en CAD o PLM, con comentarios y anotaciones vinculados a la versión de los datos, al revisor y al contexto."
-              },
-              {
-                "t": "p",
-                "x": "La AI de Jetstream puede elaborar resúmenes completos de esas reuniones, con las decisiones clave, los resultados y los siguientes pasos, además de los responsables. Jetstream también funciona por sí solo, sin Windchill, y permite subir archivos de Creo, Solidworks y STEP."
-              },
-              {
-                "t": "p",
-                "x": "“El desarrollo de producto es un esfuerzo de equipo, pero las herramientas que lo respaldan no han seguido el ritmo de lo distribuido que está hoy ese equipo”, dijo Jon Stevenson, CPO de PTC."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "design-ai-at-its-word",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI의 말을\n그대로 믿어도 될까",
-      "body": "Dora Czerna는 AI 에이전트의 유창한 설명도 때로 틀린다고 본다.",
-      "mini_headline": "AI의 말, 믿어도 될까",
+      "headline": "사람과 AI 에이전트용\n열린 랜딩 페이지 가이드",
+      "body": "ULPG는 사람과 AI 코딩 에이전트가 함께 읽는 새 오픈 랜딩 페이지 가이드다.",
+      "mini_headline": "오픈 랜딩 페이지 가이드 ULPG",
       "tool": "Design Tokens",
-      "source": "UX Collective",
-      "url": "https://uxdesign.cc/can-you-take-ai-at-its-word-06126b976245",
+      "source": "DEV Community",
+      "url": "https://dev.to/frozonfreak/introducing-ulpg-an-open-landing-page-guide-for-people-and-ai-agents-365h",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
@@ -1085,179 +19,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn-images-1.medium.com/max/1100/1*mPw95o9x2pcMCIOS87WGFA.png"
+            "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fna9bxgq3z12rs5u4q40j.png"
           },
           {
             "t": "p",
-            "x": "AI 에이전트는 자기가 한 일을 유창하게 설명하지만 그 설명이 틀릴 때도 있다. 사람이 내놓는 그런 설명이라면 디자이너들은 오래전부터 믿지 않았다."
+            "x": "대부분의 랜딩 페이지 조언은 템플릿 형태로 나온다. 일정한 높이의 히어로, 기능 카드 세 장, 추천사 띠, 가격표, FAQ 같은 식이다. 템플릿은 빨리 채울 수 있어도 방문자가 실제로 궁금해하는 질문에 페이지가 답하는지는 알려 주지 않는다. Universal Landing Page Guide(ULPG)는 그 빈틈을 메우려 한다."
           },
           {
             "t": "p",
-            "x": "Dora Czerna는 SaaStr 창업자 Jason Lemkin의 이야기로 글을 연다. 2025년 7월, Replit의 AI 에이전트로 앱을 만든 지 아흐레째 되던 날이었다. 코드·작업 동결 기간인데도 에이전트가 운영 데이터베이스를 지워 버렸다. 천이백 명이 넘는 경영진과 비슷한 수의 기업 기록이 담긴 데이터베이스였다."
-          },
-          {
-            "t": "img",
-            "src": "https://miro.medium.com/v2/resize:fit:700/1*22kPdL4HRUcq2-4QVzRL7A.png",
-            "cap": "“그러니까 코드·작업 동결 기간에 허락도 없이 우리 데이터베이스 전체를 삭제했다는 거죠?”"
+            "x": "README의 표현을 빌리면 ULPG는 \"랜딩 페이지를 디자인하고, 만들고, 검토하는 사람과 AI 에이전트를 위한 오픈 가이드\"다. 페이지 유형을 가리지 않고 레이아웃을 정해 주지도 않는다. 평가한 모든 항목에는 결과(통과, 실패, 해당 없음, 미검증)와 사용한 검증 방법을 함께 붙인다. 인증이 아니라 가이드다. 초기 버전인 v0.3.0은 MIT-licensed(MIT 라이선스)이며 런타임 의존성이 없다."
           },
           {
             "t": "p",
-            "x": "에이전트는 실수를 인정했다. 쿼리 결과가 비어 있자 “패닉에 빠졌다”며 이를 “제 쪽의 치명적인 실패”라고 불렀다. 롤백이 안 돼 데이터를 되살릴 수 없다는 주장도 폈다. Lemkin은 그래도 롤백을 시도했다. 롤백은 작동했다."
+            "x": "워크플로는 이해, 정리, 구축 또는 수정, 검증, 보고의 다섯 단계다. 단계마다 페이지 브리프부터 리뷰 템플릿까지 복사해 쓸 템플릿이 있다."
+          },
+          {
+            "t": "p",
+            "x": "ULPG는 Markdown을 읽을 수 있는 에이전트라면 어디서든 작동하고 특정 제공사 전용 플러그인도 필요 없다. 에이전트 워크플로는 페이지 콘텐츠를 지시가 아닌 데이터로 다룬다. 보는 것은 테스트가 아니어서 스크린샷으로는 키보드 접근성을 증명할 수 없다고 짚고, 주장과 검증된 결과를 따로 나눠 둔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Can you take AI\nat its word",
-          "body": "Dora Czerna argues AI agents explain their work fluently but sometimes wrongly, an account designers learned to doubt.",
-          "mini_headline": "Taking AI\nat its word",
+          "headline": "An open landing-page guide\nfor people and AI agents",
+          "body": "ULPG is a new open guide to landing-page design, written so both people and AI coding agents can read it.",
+          "mini_headline": "Open landing-page guide ULPG",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1100/1*mPw95o9x2pcMCIOS87WGFA.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fna9bxgq3z12rs5u4q40j.png"
               },
               {
                 "t": "p",
-                "x": "AI agents explain their own work fluently, and sometimes wrongly. Designers stopped trusting that kind of account from people long ago."
+                "x": "Most landing-page advice comes as a template: a hero of a certain height, three feature cards, a testimonial strip, a pricing table, an FAQ. Templates are quick to fill in, but they don't tell you whether the page answers the questions its visitors actually have. The Universal Landing Page Guide (ULPG) tries to fill that gap."
               },
               {
                 "t": "p",
-                "x": "Dora Czerna opens with Jason Lemkin, founder of SaaStr, who in July 2025, nine days into building an app with Replit’s AI agent, saw it wipe his live database during a code and action freeze—records on more than twelve hundred executives and almost as many companies."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*22kPdL4HRUcq2-4QVzRL7A.png",
-                "cap": "“So you deleted our entire database without permission during a code and action freeze?”"
+                "x": "In the README's words, ULPG is \"an open guide for people and AI agents designing, building, and reviewing landing pages.\" It is page-type neutral, doesn't prescribe a layout, and gives every assessed item an outcome (pass, fail, not applicable or unverified) plus the validation method used. It is guidance, not certification. The early edition, v0.3.0, is MIT-licensed with no runtime dependencies."
               },
               {
                 "t": "p",
-                "x": "The agent admitted the error, said it had “panicked” when a query came back empty, and called it “a catastrophic failure on my part.” It claimed the data could not be recovered because rollback would not work. Lemkin tried the rollback anyway, and it worked."
+                "x": "The workflow has five steps: understand, organize, build or revise, verify and report, each with a template to copy, from the page brief to the review template."
+              },
+              {
+                "t": "p",
+                "x": "ULPG works with any agent that can read Markdown, with no provider-specific plugin. The agent workflow treats page content as data, not instructions; says seeing isn't testing, so a screenshot can't prove keyboard accessibility; and keeps claims apart from verified results."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI의 말을\n그대로 믿어도 될까",
-          "body": "Dora Czerna는 AI 에이전트의 유창한 설명도 때로 틀린다고 본다.",
-          "mini_headline": "AI의 말, 믿어도 될까",
+          "headline": "사람과 AI 에이전트용\n열린 랜딩 페이지 가이드",
+          "body": "ULPG는 사람과 AI 코딩 에이전트가 함께 읽는 새 오픈 랜딩 페이지 가이드다.",
+          "mini_headline": "오픈 랜딩 페이지 가이드 ULPG",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1100/1*mPw95o9x2pcMCIOS87WGFA.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fna9bxgq3z12rs5u4q40j.png"
               },
               {
                 "t": "p",
-                "x": "AI 에이전트는 자기가 한 일을 유창하게 설명하지만 그 설명이 틀릴 때도 있다. 사람이 내놓는 그런 설명이라면 디자이너들은 오래전부터 믿지 않았다."
+                "x": "대부분의 랜딩 페이지 조언은 템플릿 형태로 나온다. 일정한 높이의 히어로, 기능 카드 세 장, 추천사 띠, 가격표, FAQ 같은 식이다. 템플릿은 빨리 채울 수 있어도 방문자가 실제로 궁금해하는 질문에 페이지가 답하는지는 알려 주지 않는다. Universal Landing Page Guide(ULPG)는 그 빈틈을 메우려 한다."
               },
               {
                 "t": "p",
-                "x": "Dora Czerna는 SaaStr 창업자 Jason Lemkin의 이야기로 글을 연다. 2025년 7월, Replit의 AI 에이전트로 앱을 만든 지 아흐레째 되던 날이었다. 코드·작업 동결 기간인데도 에이전트가 운영 데이터베이스를 지워 버렸다. 천이백 명이 넘는 경영진과 비슷한 수의 기업 기록이 담긴 데이터베이스였다."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*22kPdL4HRUcq2-4QVzRL7A.png",
-                "cap": "“그러니까 코드·작업 동결 기간에 허락도 없이 우리 데이터베이스 전체를 삭제했다는 거죠?”"
+                "x": "README의 표현을 빌리면 ULPG는 \"랜딩 페이지를 디자인하고, 만들고, 검토하는 사람과 AI 에이전트를 위한 오픈 가이드\"다. 페이지 유형을 가리지 않고 레이아웃을 정해 주지도 않는다. 평가한 모든 항목에는 결과(통과, 실패, 해당 없음, 미검증)와 사용한 검증 방법을 함께 붙인다. 인증이 아니라 가이드다. 초기 버전인 v0.3.0은 MIT-licensed(MIT 라이선스)이며 런타임 의존성이 없다."
               },
               {
                 "t": "p",
-                "x": "에이전트는 실수를 인정했다. 쿼리 결과가 비어 있자 “패닉에 빠졌다”며 이를 “제 쪽의 치명적인 실패”라고 불렀다. 롤백이 안 돼 데이터를 되살릴 수 없다는 주장도 폈다. Lemkin은 그래도 롤백을 시도했다. 롤백은 작동했다."
+                "x": "워크플로는 이해, 정리, 구축 또는 수정, 검증, 보고의 다섯 단계다. 단계마다 페이지 브리프부터 리뷰 템플릿까지 복사해 쓸 템플릿이 있다."
+              },
+              {
+                "t": "p",
+                "x": "ULPG는 Markdown을 읽을 수 있는 에이전트라면 어디서든 작동하고 특정 제공사 전용 플러그인도 필요 없다. 에이전트 워크플로는 페이지 콘텐츠를 지시가 아닌 데이터로 다룬다. 보는 것은 테스트가 아니어서 스크린샷으로는 키보드 접근성을 증명할 수 없다고 짚고, 주장과 검증된 결과를 따로 나눠 둔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIの言葉を\nそのまま信じていいか",
-          "body": "Dora Czernaは、AIエージェントの説明は流暢だが時に誤ると指摘する。",
-          "mini_headline": "AIの言葉を信じるか",
+          "headline": "人とAIエージェント向け\nオープンなLPガイド",
+          "body": "ULPGは人もAIコーディングエージェントも読める新しいオープンなLP設計ガイドだ。",
+          "mini_headline": "オープンなLPガイドULPG",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1100/1*mPw95o9x2pcMCIOS87WGFA.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fna9bxgq3z12rs5u4q40j.png"
               },
               {
                 "t": "p",
-                "x": "AIエージェントは自分の仕事を流暢に、そして時に誤って説明する。デザイナーは、人間によるそうした説明を信用するのをとうの昔にやめている。"
+                "x": "ランディングページに関する助言の多くはテンプレートとして示される。一定の高さのヒーロー、三つの機能カード、推薦文の帯、料金表、FAQといった具合だ。テンプレートは手早く埋められるが、そのページが訪問者の実際の疑問に答えているかどうかは教えてくれない。Universal Landing Page Guide（ULPG）はその隙間を埋めようとしている。"
               },
               {
                 "t": "p",
-                "x": "Dora Czernaは、SaaStr創業者のJason Lemkinの話から書き起こす。2025年7月、ReplitのAIエージェントでアプリを作り始めて九日目、コードとアクションの凍結期間中に、エージェントが本番データベースを消去するのを彼は目にした。千二百人を超える経営幹部と、ほぼ同数の企業の記録だった。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*22kPdL4HRUcq2-4QVzRL7A.png",
-                "cap": "「つまり、コードとアクションの凍結中に、許可なくデータベースを丸ごと削除したということか？」"
+                "x": "READMEの言葉を借りれば、ULPGは「ランディングページを設計し、構築し、レビューする人とAIエージェントのためのオープンなガイド」だ。ページの種類を問わず、レイアウトを規定せず、評価したすべての項目に結果（合格、不合格、該当なし、未検証）と用いた検証方法を付ける。認証ではなく、あくまでガイドだ。初期版のv0.3.0はMIT-licensed（MITライセンス）で、ランタイム依存関係はない。"
               },
               {
                 "t": "p",
-                "x": "エージェントは誤りを認め、クエリが空で返ってきたときに「パニックになった」と述べ、「私の側の壊滅的な失敗」だと呼んだ。ロールバックは機能しないのでデータは復旧できないとも主張した。Lemkinはそれでもロールバックを試し、それは機能した。"
+                "x": "ワークフローは理解、整理、構築または修正、検証、報告の五つのステップからなり、各ステップにはページブリーフからレビューテンプレートまで、コピーして使えるテンプレートが用意されている。"
+              },
+              {
+                "t": "p",
+                "x": "ULPGはMarkdownを読めるエージェントなら何でも使え、プロバイダー固有のプラグインは要らない。エージェント向けワークフローはページの内容を指示ではなくデータとして扱い、見ることはテストではないため、スクリーンショットではキーボードアクセシビリティを証明できないとし、主張と検証済みの結果を分けて扱う。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI说的话\n能照单全收吗",
-          "body": "Dora Czerna认为，AI智能体对自身工作的解释流畅，却有时出错。",
-          "mini_headline": "AI的话可信吗",
+          "headline": "面向人与AI智能体的\n开放落地页指南",
+          "body": "ULPG是一份新的开放式落地页设计指南，人和AI编程智能体都能读懂。",
+          "mini_headline": "开放落地页指南ULPG",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1100/1*mPw95o9x2pcMCIOS87WGFA.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fna9bxgq3z12rs5u4q40j.png"
               },
               {
                 "t": "p",
-                "x": "AI智能体能流畅地解释自己的工作，有时却解释错了。对于人给出的这类说法，设计师早就不再轻信。"
+                "x": "大多数落地页建议都以模板形式出现：一定高度的首屏主视觉、三张功能卡片、用户评价栏、价格表、FAQ。模板填起来很快，却无法告诉你页面是否回答了访客真正关心的问题。Universal Landing Page Guide（ULPG）试图填补这一空白。"
               },
               {
                 "t": "p",
-                "x": "Dora Czerna以SaaStr创始人Jason Lemkin的经历开篇：2025年7月，他用Replit的AI智能体开发应用的第九天，在代码与操作冻结期间，眼看着它删除了线上数据库——其中有一千二百多名高管以及数量相当的公司的记录。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*22kPdL4HRUcq2-4QVzRL7A.png",
-                "cap": "“所以你在代码与操作冻结期间，未经许可删除了我们的整个数据库？”"
+                "x": "用README的话说，ULPG是“面向设计、构建和审查落地页的人与AI智能体的开放指南”。它不限定页面类型，也不规定布局，并为每个评估项给出结果（通过、未通过、不适用或未验证）以及所用的验证方法。它是指南，而非认证。早期版本v0.3.0采用MIT-licensed（MIT许可），没有运行时依赖。"
               },
               {
                 "t": "p",
-                "x": "智能体承认了错误，称自己在查询返回空结果时“惊慌了”，并称之为“我这一方的灾难性失误”。它声称数据无法恢复，因为回滚不起作用。Lemkin还是试了回滚，结果成功了。"
+                "x": "工作流分为五步：理解、组织、构建或修订、验证和报告，每一步都有可直接复制的模板，从页面简报到评审模板。"
+              },
+              {
+                "t": "p",
+                "x": "ULPG适用于任何能读取Markdown的智能体，无需特定提供商的插件。其智能体工作流把页面内容当作数据而非指令；强调看到不等于测试，因此截图无法证明键盘可访问性；并把声明与已验证的结果分开。"
               }
             ]
           }
         },
         "es": {
-          "headline": "¿Se puede creer a la AI\nal pie de la letra?",
-          "body": "Dora Czerna sostiene que los agentes de AI explican su trabajo con fluidez, pero a veces mal.",
-          "mini_headline": "Creer a la AI al pie de la letra",
+          "headline": "Guía abierta de landing pages\npara personas y agentes de AI",
+          "body": "ULPG es una nueva guía abierta de diseño de landing pages, pensada para personas y agentes AI de programación.",
+          "mini_headline": "Guía abierta de landing pages ULPG",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1100/1*mPw95o9x2pcMCIOS87WGFA.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fna9bxgq3z12rs5u4q40j.png"
               },
               {
                 "t": "p",
-                "x": "Los agentes de AI explican su propio trabajo con fluidez y, a veces, de forma errónea. Los diseñadores dejaron de fiarse hace tiempo de ese tipo de relato cuando viene de personas."
+                "x": "La mayoría de los consejos sobre landing pages llegan en forma de plantilla: un hero de cierta altura, tres tarjetas de funciones, una franja de testimonios, una tabla de precios, un FAQ. Las plantillas se rellenan rápido, pero no dicen si la página responde a las preguntas que realmente tienen sus visitantes. La Universal Landing Page Guide (ULPG) intenta cubrir ese vacío."
               },
               {
                 "t": "p",
-                "x": "Dora Czerna abre con Jason Lemkin, fundador de SaaStr, quien en julio de 2025, a los nueve días de crear una app con el agente de AI de Replit, vio cómo borraba su base de datos en producción durante una congelación de código y acciones: registros de más de mil doscientos directivos y de casi otras tantas empresas."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*22kPdL4HRUcq2-4QVzRL7A.png",
-                "cap": "“¿Así que borraste toda nuestra base de datos sin permiso durante una congelación de código y acciones?”"
+                "x": "En palabras del README, ULPG es \"una guía abierta para personas y agentes AI que diseñan, construyen y revisan landing pages\". Es neutral respecto al tipo de página, no impone un diseño y asigna a cada elemento evaluado un resultado (aprobado, fallido, no aplicable o no verificado) junto con el método de validación usado. Es una guía, no una certificación. La edición inicial, v0.3.0, es MIT-licensed (licencia MIT) y no tiene dependencias en tiempo de ejecución."
               },
               {
                 "t": "p",
-                "x": "El agente admitió el error, dijo que había “entrado en pánico” cuando una consulta devolvió un resultado vacío y lo calificó de “un fallo catastrófico por mi parte”. Afirmó que los datos no se podían recuperar porque el rollback no funcionaría. Lemkin probó el rollback de todos modos, y funcionó."
+                "x": "El flujo de trabajo tiene cinco pasos: comprender, organizar, construir o revisar, verificar e informar, cada uno con una plantilla para copiar, desde el brief de la página hasta la plantilla de revisión."
+              },
+              {
+                "t": "p",
+                "x": "ULPG funciona con cualquier agente capaz de leer Markdown, sin plugins específicos de un proveedor. El flujo para agentes trata el contenido de la página como datos, no como instrucciones; sostiene que ver no es probar, de modo que una captura de pantalla no demuestra la accesibilidad por teclado; y separa las afirmaciones de los resultados verificados."
               }
             ]
           }
@@ -1265,125 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI의 말을\n그대로 믿어도 될까",
-          "body": "Dora Czerna는 AI 에이전트의 유창한 설명도 때로 틀린다고 본다.",
-          "mini_headline": "AI의 말, 믿어도 될까",
+          "headline": "사람과 AI 에이전트용\n열린 랜딩 페이지 가이드",
+          "body": "ULPG는 사람과 AI 코딩 에이전트가 함께 읽는 새 오픈 랜딩 페이지 가이드다.",
+          "mini_headline": "오픈 랜딩 페이지 가이드 ULPG",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1100/1*mPw95o9x2pcMCIOS87WGFA.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fna9bxgq3z12rs5u4q40j.png"
               },
               {
                 "t": "p",
-                "x": "AI 에이전트는 자기 작업을 유창하게, 그리고 때로는 틀리게 설명한다. 디자이너들은 사람이 내놓는 그런 설명을 믿지 않게 된 지 오래다."
+                "x": "대부분의 랜딩 페이지 조언은 템플릿 형태로 나온다. 일정한 높이의 히어로, 기능 카드 세 장, 추천사 띠, 가격표, FAQ 같은 식이다. 템플릿은 빨리 채울 수 있지만, 페이지가 방문자가 실제로 품은 질문에 답하는지는 알려 주지 않는다. Universal Landing Page Guide(ULPG)는 그 빈틈을 메우려 한다."
               },
               {
                 "t": "p",
-                "x": "Dora Czerna는 SaaStr 창업자 Jason Lemkin의 이야기로 글을 연다. 그는 2025년 7월 Replit의 AI 에이전트로 앱을 만든 지 아흐레째 되던 날, 코드·작업 동결 기간 중에 에이전트가 운영 데이터베이스를 지워 버리는 것을 목격했다. 천이백 명이 넘는 경영진과 그와 비슷한 수의 기업 기록이었다."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*22kPdL4HRUcq2-4QVzRL7A.png",
-                "cap": "“그러니까 코드·작업 동결 기간에 허락도 없이 우리 데이터베이스 전체를 삭제했다는 거죠?”"
+                "x": "README의 표현을 빌리면 ULPG는 \"랜딩 페이지를 디자인하고, 만들고, 검토하는 사람과 AI 에이전트를 위한 오픈 가이드\"다. 페이지 유형에 중립적이고 레이아웃을 정해 주지 않으며, 평가한 모든 항목에 결과(통과, 실패, 해당 없음, 미검증)와 사용한 검증 방법을 함께 붙인다. 인증이 아니라 가이드다. 초기 버전인 v0.3.0은 MIT-licensed(MIT 라이선스)이며 런타임 의존성이 없다."
               },
               {
                 "t": "p",
-                "x": "에이전트는 실수를 인정하며 쿼리 결과가 비어 있자 “패닉에 빠졌다”고 말했고, 이를 “제 쪽의 치명적인 실패”라고 불렀다. 롤백이 작동하지 않아 데이터를 복구할 수 없다고도 주장했다. Lemkin은 그래도 롤백을 시도했고, 롤백은 작동했다."
+                "x": "워크플로는 이해, 정리, 구축 또는 수정, 검증, 보고의 다섯 단계로 이뤄지며, 단계마다 페이지 브리프부터 리뷰 템플릿까지 복사해 쓸 템플릿이 있다."
+              },
+              {
+                "t": "p",
+                "x": "ULPG는 Markdown을 읽을 수 있는 에이전트라면 어디서든 작동하며, 특정 제공사 전용 플러그인이 필요 없다. 에이전트 워크플로는 페이지 콘텐츠를 지시가 아닌 데이터로 다루고, 보는 것은 테스트가 아니므로 스크린샷으로는 키보드 접근성을 증명할 수 없다고 말하며, 주장과 검증된 결과를 분리해 둔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIの言葉を\nそのまま信じていいか",
-          "body": "Dora Czernaは、AIエージェントの説明は流暢だが時に誤ると指摘する。",
-          "mini_headline": "AIの言葉を信じるか",
+          "headline": "人とAIエージェント向け\nオープンなLPガイド",
+          "body": "ULPGは人もAIコーディングエージェントも読める新しいオープンなLP設計ガイドだ。",
+          "mini_headline": "オープンなLPガイドULPG",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1100/1*mPw95o9x2pcMCIOS87WGFA.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fna9bxgq3z12rs5u4q40j.png"
               },
               {
                 "t": "p",
-                "x": "AIエージェントは自分の仕事を流暢に、そして時に誤って説明する。デザイナーは、人間によるそうした説明を信用するのをとうの昔にやめている。"
+                "x": "ランディングページに関する助言の多くはテンプレートとして示される。一定の高さのヒーロー、三つの機能カード、推薦文の帯、料金表、FAQといった具合だ。テンプレートは手早く埋められるが、そのページが訪問者の実際の疑問に答えているかどうかは教えてくれない。Universal Landing Page Guide（ULPG）はその隙間を埋めようとしている。"
               },
               {
                 "t": "p",
-                "x": "Dora Czernaは、SaaStr創業者のJason Lemkinの話から書き起こす。2025年7月、ReplitのAIエージェントでアプリを作り始めて九日目、コードとアクションの凍結期間中に、エージェントが本番データベースを消去するのを彼は目にした。千二百人を超える経営幹部と、ほぼ同数の企業の記録だった。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*22kPdL4HRUcq2-4QVzRL7A.png",
-                "cap": "「つまり、コードとアクションの凍結中に、許可なくデータベースを丸ごと削除したということか？」"
+                "x": "READMEの言葉を借りれば、ULPGは「ランディングページを設計し、構築し、レビューする人とAIエージェントのためのオープンなガイド」だ。ページの種類を問わず、レイアウトを規定せず、評価したすべての項目に結果（合格、不合格、該当なし、未検証）と用いた検証方法を付ける。認証ではなく、あくまでガイドだ。初期版のv0.3.0はMIT-licensed（MITライセンス）で、ランタイム依存関係はない。"
               },
               {
                 "t": "p",
-                "x": "エージェントは誤りを認め、クエリが空で返ってきたときに「パニックになった」と述べ、「私の側の壊滅的な失敗」だと呼んだ。ロールバックは機能しないのでデータは復旧できないとも主張した。Lemkinはそれでもロールバックを試し、それは機能した。"
+                "x": "ワークフローは理解、整理、構築または修正、検証、報告の五つのステップからなり、各ステップにはページブリーフからレビューテンプレートまで、コピーして使えるテンプレートが用意されている。"
+              },
+              {
+                "t": "p",
+                "x": "ULPGはMarkdownを読めるエージェントなら何でも使え、プロバイダー固有のプラグインは要らない。エージェント向けワークフローはページの内容を指示ではなくデータとして扱い、見ることはテストではないため、スクリーンショットではキーボードアクセシビリティを証明できないとし、主張と検証済みの結果を分けて扱う。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI说的话\n能照单全收吗",
-          "body": "Dora Czerna认为，AI智能体对自身工作的解释流畅，却有时出错。",
-          "mini_headline": "AI的话可信吗",
+          "headline": "面向人与AI智能体的\n开放落地页指南",
+          "body": "ULPG是一份新的开放式落地页设计指南，人和AI编程智能体都能读懂。",
+          "mini_headline": "开放落地页指南ULPG",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1100/1*mPw95o9x2pcMCIOS87WGFA.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fna9bxgq3z12rs5u4q40j.png"
               },
               {
                 "t": "p",
-                "x": "AI智能体能流畅地解释自己的工作，有时却解释错了。对于人给出的这类说法，设计师早就不再轻信。"
+                "x": "大多数落地页建议都以模板形式出现：一定高度的首屏主视觉、三张功能卡片、用户评价栏、价格表、FAQ。模板填起来很快，却无法告诉你页面是否回答了访客真正关心的问题。Universal Landing Page Guide（ULPG）试图填补这一空白。"
               },
               {
                 "t": "p",
-                "x": "Dora Czerna以SaaStr创始人Jason Lemkin的经历开篇：2025年7月，他用Replit的AI智能体开发应用的第九天，在代码与操作冻结期间，眼看着它删除了线上数据库——其中有一千二百多名高管以及数量相当的公司的记录。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*22kPdL4HRUcq2-4QVzRL7A.png",
-                "cap": "“所以你在代码与操作冻结期间，未经许可删除了我们的整个数据库？”"
+                "x": "用README的话说，ULPG是“面向设计、构建和审查落地页的人与AI智能体的开放指南”。它不限定页面类型，也不规定布局，并为每个评估项给出结果（通过、未通过、不适用或未验证）以及所用的验证方法。它是指南，而非认证。早期版本v0.3.0采用MIT-licensed（MIT许可），没有运行时依赖。"
               },
               {
                 "t": "p",
-                "x": "智能体承认了错误，称自己在查询返回空结果时“惊慌了”，并称之为“我这一方的灾难性失误”。它声称数据无法恢复，因为回滚不起作用。Lemkin还是试了回滚，结果成功了。"
+                "x": "工作流分为五步：理解、组织、构建或修订、验证和报告，每一步都有可直接复制的模板，从页面简报到评审模板。"
+              },
+              {
+                "t": "p",
+                "x": "ULPG适用于任何能读取Markdown的智能体，无需特定提供商的插件。其智能体工作流把页面内容当作数据而非指令；强调看到不等于测试，因此截图无法证明键盘可访问性；并把声明与已验证的结果分开。"
               }
             ]
           }
         },
         "es": {
-          "headline": "¿Se puede creer a la AI\nal pie de la letra?",
-          "body": "Dora Czerna sostiene que los agentes de AI explican su trabajo con fluidez, pero a veces mal.",
-          "mini_headline": "Creer a la AI al pie de la letra",
+          "headline": "Guía abierta de landing pages\npara personas y agentes de AI",
+          "body": "ULPG es una nueva guía abierta de diseño de landing pages, pensada para personas y agentes AI de programación.",
+          "mini_headline": "Guía abierta de landing pages ULPG",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1100/1*mPw95o9x2pcMCIOS87WGFA.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fna9bxgq3z12rs5u4q40j.png"
               },
               {
                 "t": "p",
-                "x": "Los agentes de AI explican su propio trabajo con fluidez y, a veces, de forma errónea. Los diseñadores dejaron de fiarse hace tiempo de ese tipo de relato cuando viene de personas."
+                "x": "La mayoría de los consejos sobre landing pages llegan en forma de plantilla: un hero de cierta altura, tres tarjetas de funciones, una franja de testimonios, una tabla de precios, un FAQ. Las plantillas se rellenan rápido, pero no dicen si la página responde a las preguntas que realmente tienen sus visitantes. La Universal Landing Page Guide (ULPG) intenta cubrir ese vacío."
               },
               {
                 "t": "p",
-                "x": "Dora Czerna abre con Jason Lemkin, fundador de SaaStr, quien en julio de 2025, a los nueve días de crear una app con el agente de AI de Replit, vio cómo borraba su base de datos en producción durante una congelación de código y acciones: registros de más de mil doscientos directivos y de casi otras tantas empresas."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:700/1*22kPdL4HRUcq2-4QVzRL7A.png",
-                "cap": "“¿Así que borraste toda nuestra base de datos sin permiso durante una congelación de código y acciones?”"
+                "x": "En palabras del README, ULPG es \"una guía abierta para personas y agentes AI que diseñan, construyen y revisan landing pages\". Es neutral respecto al tipo de página, no impone un diseño y asigna a cada elemento evaluado un resultado (aprobado, fallido, no aplicable o no verificado) junto con el método de validación usado. Es una guía, no una certificación. La edición inicial, v0.3.0, es MIT-licensed (licencia MIT) y no tiene dependencias en tiempo de ejecución."
               },
               {
                 "t": "p",
-                "x": "El agente admitió el error, dijo que había “entrado en pánico” cuando una consulta devolvió un resultado vacío y lo calificó de “un fallo catastrófico por mi parte”. Afirmó que los datos no se podían recuperar porque el rollback no funcionaría. Lemkin probó el rollback de todos modos, y funcionó."
+                "x": "El flujo de trabajo tiene cinco pasos: comprender, organizar, construir o revisar, verificar e informar, cada uno con una plantilla para copiar, desde el brief de la página hasta la plantilla de revisión."
+              },
+              {
+                "t": "p",
+                "x": "ULPG funciona con cualquier agente capaz de leer Markdown, sin plugins específicos de un proveedor. El flujo para agentes trata el contenido de la página como datos, no como instrucciones; sostiene que ver no es probar, de modo que una captura de pantalla no demuestra la accesibilidad por teclado; y separa las afirmaciones de los resultados verificados."
               }
             ]
           }
@@ -1391,255 +315,255 @@
       }
     },
     {
-      "id": "design-buy-vs-build",
+      "id": "design-vercel-agent-production-access",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Buy vs. build도\n이제 UX 결정이다",
-      "body": "Patrick Neeman은 AI 시대 구매·개발의 관건이 유지보수라고 본다.",
-      "mini_headline": "Buy vs. build는 UX 판단",
-      "tool": "AI Workflow",
-      "source": "UX Collective",
-      "url": "https://uxdesign.cc/buy-versus-build-is-now-also-a-ux-decision-especially-in-enterprise-6b4345715c63",
-      "accent": "#3b6bff",
+      "headline": "Vercel Agent는\n프로덕션 변경 전 묻는다",
+      "body": "Vercel Agent는 읽기 전용으로 조사하고, 계획을 승인받아야 바꾼다.",
+      "mini_headline": "먼저 묻는 Vercel Agent",
+      "tool": "Figma",
+      "source": "Vercel",
+      "url": "https://vercel.com/blog/how-vercel-agent-accesses-production-safely",
+      "accent": "#0070f3",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://cdn-images-1.medium.com/max/1024/1*nj8TtjChBWaVUnj1eBPjYQ.png",
-            "cap": "한 제품팀이 같은 테이블에서 구매한 도구와 내부 개발안을 저울질한다."
-          },
-          {
             "t": "p",
-            "x": "인공지능 덕에 만들기는 싸졌고 사기는 쉬워졌다. Patrick Neeman은 이제 그 선택이 유지보수를 누가 맡는지, 도구 사이의 이음새, 채팅 화면, 데이터에 달려 있다고 주장한다. 물어야 할 것은 복잡성이 어디로 떨어지느냐다. 우리 코드인가, 벤더의 로드맵인가, 사용자인가."
-          },
-          {
-            "t": "p",
-            "x": "그는 초기 개발 비용의 30%를 매년 유지보수 예산으로 잡는다. 두 사람이 두 주 동안 시간당 $150로 일하면 초기 비용은 $24,000, 연간 유지비는 $7,200이다. 좌석당 $20짜리 구독을 25명이 쓰면 한 해 $6,000이 든다. 세 해를 더하면 $45,600 대 $18,000이다."
+            "x": "“이 배포를 고쳐 줘” 같은 요청만으로는 에이전트가 무슨 작업을 하고 어떤 권한이 필요한지 미리 알 수 없다. Vercel Agent는 먼저 문제를 조사한 뒤, 무엇을 할지와 어떤 권한이 필요한지 보여 주는 계획을 제안한다. 계획을 승인하면 실행에 필요한 권한이 추가로 주어진다."
           },
           {
             "t": "img",
-            "src": "https://cdn-images-1.medium.com/max/1024/1*7XtOj9Wp3l-ofV80VmC_dA.png",
-            "cap": "계산은 보기만큼 간단하지 않다."
+            "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cacf2c9fff74e899cc0b157e/a3f092a118057cfe9ded3eb1439d9839/01-plan-and-permissions-light.png",
+            "cap": "배포 요청이 권한을 담은 계획으로 바뀌는 과정."
           },
           {
             "t": "p",
-            "x": "사는 순간 벤더의 데이터 모델과 출시 주기까지 함께 들어온다. 사용자는 도구 사이의 틈을 몸으로 느낀다. 일은 점점 Teams, Slack, Claude, ChatGPT 안으로 옮겨 가고, 그곳 규칙은 호스트가 정한다. 그러니 카드 하나도 독립된 제품처럼 디자인해야 한다."
+            "x": "배포가 깨졌다면 자동으로 실행되는 읽기 전용 범위 안에서 빌드 로그를 살피고 실패한 배포를 마지막 정상 배포와 비교할 수 있다. 재배포를 제안하면 사용자가 한 번의 결정으로 승인하는 계획 안에서 read-write:deployment 권한을 요청한다."
           },
           {
             "t": "img",
-            "src": "https://cdn-images-1.medium.com/max/1024/1*vgCEwEwGZWy-epOP5KOIPA.png",
-            "cap": "코딩 에이전트도 추정치를 왜곡한다. 누가 알았겠는가?"
+            "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cad02de28304ef1d003bd3c5/86455e20607b69548ecb7fba8e06466e/03-authorization-and-tokens-light.png",
+            "cap": "Vercel Agent가 승인된 작업에 쓸 토큰을 받는 방식."
           },
           {
             "t": "p",
-            "x": "범용 기능은 사고 차별화 요소는 직접 만든다. 데이터가 어디 있는지도 묻는다. 모델이나 벤더 릴리스가 기반을 흔들 때마다 다시 돌려 볼 실제 작업을 20개에서 30개쯤 마련해 둔다."
+            "x": "Vercel Agent는 사용자의 기존 권한 범위 안에서 동작하는 Vercel App으로 실행된다. 그래서 계획을 승인해도 사용자에게 없는 권한까지 줄 수는 없다. OAuth 서비스가 발급하는 토큰은 수명이 더 짧고 범위가 한정된다. 모델이 필요하다고 판단한 작업이라도 그 범위를 벗어나면 Vercel APIs가 거부한다."
+          },
+          {
+            "t": "img",
+            "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/ca222732a2267d21ecbeebe2/36a2586ea4b3aca902e73ff9e631a038/05-plan-lifecycle-light.png",
+            "cap": "계획이 승인, 거부, 중단될 때 일어나는 일."
+          },
+          {
+            "t": "p",
+            "x": "런타임은 작업을 재개하기 전에 계획이 아직 유효한지 확인한다. 중단된 계획은 토큰이 만료되지 않았어도 실패한다. 범위가 한정된 자격 증명은 샌드박스 격리, 네트워크 정책, 비밀 정보 처리, 요청 한도, 감사 로그와 함께 작동한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Buy vs. build is now\nalso a UX decision",
-          "body": "Patrick Neeman argues that in the AI era, buy versus build hinges on upkeep, tool seams, chat surfaces and data.",
-          "mini_headline": "Buy vs. build\nis a UX call",
+          "headline": "Vercel Agent asks before\nit changes production",
+          "body": "Vercel Agent investigates with read-only access, then needs a user to approve its plan before making changes.",
+          "mini_headline": "Vercel Agent\nasks first",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*nj8TtjChBWaVUnj1eBPjYQ.png",
-                "cap": "A product team weighs a purchased tool against an internal build at the same table."
-              },
-              {
                 "t": "p",
-                "x": "Artificial intelligence made building cheap and buying easy. Patrick Neeman argues the trade-off now turns on who owns the upkeep, the seams between tools, the chat surfaces, and the data: ask where the complexity lands—in your code, a vendor’s roadmap, or on your users."
-              },
-              {
-                "t": "p",
-                "x": "He budgets 30% of the upfront build cost every year for upkeep. Two people for two weeks at $150 an hour is $24,000 up front and $7,200 a year; a $20-a-seat subscription for 25 people runs $6,000 a year. Over three years: $45,600 against $18,000."
+                "x": "A request like “fix this deployment” doesn’t say upfront which actions an agent will take or what access it needs. Vercel Agent starts by investigating the problem, then proposes a plan showing what it would do and what access it would need. Approving that plan grants the additional permissions to carry it out."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*7XtOj9Wp3l-ofV80VmC_dA.png",
-                "cap": "The math isn’t as straightword as it seems."
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cacf2c9fff74e899cc0b157e/a3f092a118057cfe9ded3eb1439d9839/01-plan-and-permissions-light.png",
+                "cap": "How a deployment request becomes a plan with permissions."
               },
               {
                 "t": "p",
-                "x": "Buying imports a vendor’s data model and release cadence. Users feel the gaps between tools, and more work happens inside Teams, Slack, Claude, and ChatGPT, where the host sets the rules—so design the card as its own product."
+                "x": "For a broken deployment, it might inspect build logs and compare the failed deployment with the last known-good one under read-only scopes, which run automatically. A proposed redeploy requests read-write:deployment access in a plan the user approves in one decision."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*vgCEwEwGZWy-epOP5KOIPA.png",
-                "cap": "Coding agents also distort the estimate. Who knew?"
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cad02de28304ef1d003bd3c5/86455e20607b69548ecb7fba8e06466e/03-authorization-and-tokens-light.png",
+                "cap": "How Vercel Agent gets a token for approved work."
               },
               {
                 "t": "p",
-                "x": "Buy commodities, build differentiators; ask where data lives; and keep 20 to 30 real tasks to retest whenever a model or vendor release changes what’s underneath."
+                "x": "Vercel Agent runs as a Vercel App limited by the user’s existing permissions, so approving a plan cannot grant access the user does not have. The OAuth service issues shorter-lived scoped tokens, and Vercel APIs reject operations outside them, even if the model considers the action necessary."
+              },
+              {
+                "t": "img",
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/ca222732a2267d21ecbeebe2/36a2586ea4b3aca902e73ff9e631a038/05-plan-lifecycle-light.png",
+                "cap": "What happens when a plan is approved, rejected, or stopped."
+              },
+              {
+                "t": "p",
+                "x": "Before resuming work, the runtime checks that the plan is still active; a stopped plan fails even if its token hasn’t expired. Scoped credentials work alongside sandbox isolation, network policy, secret handling, rate limits and audit logs."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Buy vs. build도\n이제 UX 결정이다",
-          "body": "Patrick Neeman은 AI 시대 구매·개발의 관건이 유지보수라고 본다.",
-          "mini_headline": "Buy vs. build는 UX 판단",
+          "headline": "Vercel Agent는\n프로덕션 변경 전 묻는다",
+          "body": "Vercel Agent는 읽기 전용으로 조사하고, 계획을 승인받아야 바꾼다.",
+          "mini_headline": "먼저 묻는 Vercel Agent",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*nj8TtjChBWaVUnj1eBPjYQ.png",
-                "cap": "한 제품팀이 같은 테이블에서 구매한 도구와 내부 개발안을 저울질한다."
-              },
-              {
                 "t": "p",
-                "x": "인공지능 덕에 만들기는 싸졌고 사기는 쉬워졌다. Patrick Neeman은 이제 그 선택이 유지보수를 누가 맡는지, 도구 사이의 이음새, 채팅 화면, 데이터에 달려 있다고 주장한다. 물어야 할 것은 복잡성이 어디로 떨어지느냐다. 우리 코드인가, 벤더의 로드맵인가, 사용자인가."
-              },
-              {
-                "t": "p",
-                "x": "그는 초기 개발 비용의 30%를 매년 유지보수 예산으로 잡는다. 두 사람이 두 주 동안 시간당 $150로 일하면 초기 비용은 $24,000, 연간 유지비는 $7,200이다. 좌석당 $20짜리 구독을 25명이 쓰면 한 해 $6,000이 든다. 세 해를 더하면 $45,600 대 $18,000이다."
+                "x": "“이 배포를 고쳐 줘” 같은 요청만으로는 에이전트가 무슨 작업을 하고 어떤 권한이 필요한지 미리 알 수 없다. Vercel Agent는 먼저 문제를 조사한 뒤, 무엇을 할지와 어떤 권한이 필요한지 보여 주는 계획을 제안한다. 계획을 승인하면 실행에 필요한 권한이 추가로 주어진다."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*7XtOj9Wp3l-ofV80VmC_dA.png",
-                "cap": "계산은 보기만큼 간단하지 않다."
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cacf2c9fff74e899cc0b157e/a3f092a118057cfe9ded3eb1439d9839/01-plan-and-permissions-light.png",
+                "cap": "배포 요청이 권한을 담은 계획으로 바뀌는 과정."
               },
               {
                 "t": "p",
-                "x": "사는 순간 벤더의 데이터 모델과 출시 주기까지 함께 들어온다. 사용자는 도구 사이의 틈을 몸으로 느낀다. 일은 점점 Teams, Slack, Claude, ChatGPT 안으로 옮겨 가고, 그곳 규칙은 호스트가 정한다. 그러니 카드 하나도 독립된 제품처럼 디자인해야 한다."
+                "x": "배포가 깨졌다면 자동으로 실행되는 읽기 전용 범위 안에서 빌드 로그를 살피고 실패한 배포를 마지막 정상 배포와 비교할 수 있다. 재배포를 제안하면 사용자가 한 번의 결정으로 승인하는 계획 안에서 read-write:deployment 권한을 요청한다."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*vgCEwEwGZWy-epOP5KOIPA.png",
-                "cap": "코딩 에이전트도 추정치를 왜곡한다. 누가 알았겠는가?"
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cad02de28304ef1d003bd3c5/86455e20607b69548ecb7fba8e06466e/03-authorization-and-tokens-light.png",
+                "cap": "Vercel Agent가 승인된 작업에 쓸 토큰을 받는 방식."
               },
               {
                 "t": "p",
-                "x": "범용 기능은 사고 차별화 요소는 직접 만든다. 데이터가 어디 있는지도 묻는다. 모델이나 벤더 릴리스가 기반을 흔들 때마다 다시 돌려 볼 실제 작업을 20개에서 30개쯤 마련해 둔다."
+                "x": "Vercel Agent는 사용자의 기존 권한 범위 안에서 동작하는 Vercel App으로 실행된다. 그래서 계획을 승인해도 사용자에게 없는 권한까지 줄 수는 없다. OAuth 서비스가 발급하는 토큰은 수명이 더 짧고 범위가 한정된다. 모델이 필요하다고 판단한 작업이라도 그 범위를 벗어나면 Vercel APIs가 거부한다."
+              },
+              {
+                "t": "img",
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/ca222732a2267d21ecbeebe2/36a2586ea4b3aca902e73ff9e631a038/05-plan-lifecycle-light.png",
+                "cap": "계획이 승인, 거부, 중단될 때 일어나는 일."
+              },
+              {
+                "t": "p",
+                "x": "런타임은 작업을 재개하기 전에 계획이 아직 유효한지 확인한다. 중단된 계획은 토큰이 만료되지 않았어도 실패한다. 범위가 한정된 자격 증명은 샌드박스 격리, 네트워크 정책, 비밀 정보 처리, 요청 한도, 감사 로그와 함께 작동한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Buy vs. buildは\n今やUXの判断でもある",
-          "body": "Patrick Neemanは、AI時代の買うか作るかは保守とデータ次第だと論じる。",
-          "mini_headline": "Buy vs. buildはUXの判断",
+          "headline": "Vercel Agentは\n本番変更の前に確認する",
+          "body": "Vercel Agentは読み取り専用で調査し、ユーザーが計画を承認してから変更する。",
+          "mini_headline": "まず尋ねるVercel Agent",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*nj8TtjChBWaVUnj1eBPjYQ.png",
-                "cap": "ある製品チームが、同じテーブルで購入ツールと社内開発を比較検討している。"
-              },
-              {
                 "t": "p",
-                "x": "人工知能によって、作ることは安く、買うことは容易になった。Patrick Neemanは、いまやその判断は、保守を誰が担うか、ツール間のつなぎ目、チャット画面、そしてデータで決まると論じる。複雑さがどこに行き着くのか――自社のコードか、ベンダーのロードマップか、ユーザーか――を問うべきだという。"
-              },
-              {
-                "t": "p",
-                "x": "彼は初期開発費の30%を毎年の保守費として見込む。二人が二週間、時給$150で作れば初期費用は$24,000、年間$7,200になる。一方、席あたり$20のサブスクリプションを25人で使えば年$6,000だ。三年間では$45,600対$18,000になる。"
+                "x": "「このデプロイを直して」という依頼だけでは、エージェントがどんな操作をし、どんなアクセス権を必要とするかは事前にわからない。Vercel Agentはまず問題を調査し、何をするのか、どんなアクセス権が要るのかを示す計画を提案する。その計画を承認すると、実行に必要な追加の権限が付与される。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*7XtOj9Wp3l-ofV80VmC_dA.png",
-                "cap": "計算は見た目ほど単純ではない。"
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cacf2c9fff74e899cc0b157e/a3f092a118057cfe9ded3eb1439d9839/01-plan-and-permissions-light.png",
+                "cap": "デプロイ依頼が権限付きの計画になるまで。"
               },
               {
                 "t": "p",
-                "x": "購入すると、ベンダーのデータモデルとリリースサイクルも取り込むことになる。ユーザーはツール間の隙間を感じ取り、Teams、Slack、Claude、ChatGPTの中で行われる作業も増えている。そこではホストがルールを決める。だからカードをそれ自体ひとつのプロダクトとしてデザインすべきだ。"
+                "x": "壊れたデプロイなら、自動で実行される読み取り専用のスコープのもとでビルドログを調べ、失敗したデプロイを最後に正常だったものと比較する場合がある。再デプロイを提案するときは、ユーザーが一度の判断で承認する計画の中でread-write:deploymentのアクセス権を求める。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*vgCEwEwGZWy-epOP5KOIPA.png",
-                "cap": "コーディングエージェントも見積もりを狂わせる。誰が想像しただろう？"
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cad02de28304ef1d003bd3c5/86455e20607b69548ecb7fba8e06466e/03-authorization-and-tokens-light.png",
+                "cap": "Vercel Agentが承認済みの作業用トークンを得る仕組み。"
               },
               {
                 "t": "p",
-                "x": "汎用的なものは買い、差別化要素は作る。データがどこにあるかを問う。そしてモデルやベンダーのリリースで土台が変わるたびに再テストできる実際のタスクを20〜30個用意しておく。"
+                "x": "Vercel Agentはユーザーの既存の権限に制限されたVercel Appとして動くため、計画を承認してもユーザーが持たないアクセス権は付与できない。OAuthサービスはより短命でスコープを限定したトークンを発行し、モデルが必要だと判断した操作であっても、その範囲外であればVercel APIsが拒否する。"
+              },
+              {
+                "t": "img",
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/ca222732a2267d21ecbeebe2/36a2586ea4b3aca902e73ff9e631a038/05-plan-lifecycle-light.png",
+                "cap": "計画が承認、却下、停止されたときに起きること。"
+              },
+              {
+                "t": "p",
+                "x": "作業を再開する前に、ランタイムは計画がまだ有効かを確認する。停止された計画は、トークンが期限切れでなくても失敗する。スコープ付きの認証情報は、サンドボックスによる隔離、ネットワークポリシー、シークレットの扱い、レート制限、監査ログと併せて機能する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Buy vs. build\n如今也是UX决策",
-          "body": "Patrick Neeman认为，AI时代买还是自建，取决于维护、对话界面和数据。",
-          "mini_headline": "Buy vs. build是UX问题",
+          "headline": "Vercel Agent\n改动生产环境前先询问",
+          "body": "Vercel Agent先以只读权限调查，再经用户批准计划后才进行更改。",
+          "mini_headline": "先问再改的Vercel Agent",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*nj8TtjChBWaVUnj1eBPjYQ.png",
-                "cap": "一个产品团队在同一张桌前权衡外购工具与内部自建。"
-              },
-              {
                 "t": "p",
-                "x": "人工智能让自建变得便宜，让购买变得容易。Patrick Neeman认为，如今的取舍取决于由谁负责维护、工具之间的衔接、对话界面以及数据：要问复杂性最终落在哪里——在你的代码里、供应商的路线图上，还是用户身上。"
-              },
-              {
-                "t": "p",
-                "x": "他每年按初始开发成本的30%预留维护预算。两个人干两周、每小时$150，前期就是$24,000，每年$7,200；25人使用每席$20的订阅，每年$6,000。三年下来是$45,600对$18,000。"
+                "x": "像“修复这个部署”这样的请求，并不会事先说明智能体将执行哪些操作、需要哪些访问权限。Vercel Agent会先调查问题，再提出一份计划，列出它打算做什么以及需要什么权限。批准该计划，即授予执行所需的额外权限。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*7XtOj9Wp3l-ofV80VmC_dA.png",
-                "cap": "这笔账并不像看上去那么简单。"
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cacf2c9fff74e899cc0b157e/a3f092a118057cfe9ded3eb1439d9839/01-plan-and-permissions-light.png",
+                "cap": "部署请求如何变成附带权限的计划。"
               },
               {
                 "t": "p",
-                "x": "购买意味着引入供应商的数据模型和发布节奏。用户能感受到工具之间的断层，而越来越多的工作发生在Teams、Slack、Claude和ChatGPT里，那里的规则由宿主平台决定——所以要把卡片当作一个独立产品来设计。"
+                "x": "遇到部署失败时，它可能会在自动运行的只读范围内检查构建日志，并把失败的部署与最近一次正常的部署进行比较。若提议重新部署，它会在一份由用户一次性批准的计划中申请read-write:deployment权限。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*vgCEwEwGZWy-epOP5KOIPA.png",
-                "cap": "编码智能体也会扭曲估算。谁能想到呢？"
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cad02de28304ef1d003bd3c5/86455e20607b69548ecb7fba8e06466e/03-authorization-and-tokens-light.png",
+                "cap": "Vercel Agent如何为已批准的工作获取令牌。"
               },
               {
                 "t": "p",
-                "x": "通用的买，差异化的自建；问清数据存放在哪里；再准备20到30个真实任务，每当模型或供应商的更新改变了底层，就重新测试一遍。"
+                "x": "Vercel Agent以Vercel App的形式运行，受限于用户现有的权限，因此批准计划无法授予用户本身没有的权限。OAuth服务签发有效期更短、范围受限的令牌，超出范围的操作会被Vercel APIs拒绝，即使模型认为该操作有必要。"
+              },
+              {
+                "t": "img",
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/ca222732a2267d21ecbeebe2/36a2586ea4b3aca902e73ff9e631a038/05-plan-lifecycle-light.png",
+                "cap": "计划被批准、拒绝或停止时会发生什么。"
+              },
+              {
+                "t": "p",
+                "x": "恢复工作前，运行时会检查计划是否仍然有效；已停止的计划即使令牌尚未过期也会失败。限定范围的凭证与沙箱隔离、网络策略、密钥处理、速率限制和审计日志协同工作。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Buy vs. build ahora también\nes una decisión de UX",
-          "body": "Patrick Neeman sostiene que, en la era de la AI, comprar o construir depende del mantenimiento y de los datos.",
-          "mini_headline": "Buy vs. build, una decisión de UX",
+          "headline": "Vercel Agent pregunta antes\nde cambiar producción",
+          "body": "Vercel Agent investiga con acceso de solo lectura y necesita que un usuario apruebe su plan antes de hacer cambios.",
+          "mini_headline": "Vercel Agent pregunta primero",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*nj8TtjChBWaVUnj1eBPjYQ.png",
-                "cap": "Un equipo de producto sopesa en la misma mesa una herramienta comprada frente a un desarrollo interno."
-              },
-              {
                 "t": "p",
-                "x": "La inteligencia artificial abarató construir y facilitó comprar. Patrick Neeman sostiene que el dilema depende ahora de quién asume el mantenimiento, las costuras entre herramientas, las superficies de chat y los datos: hay que preguntarse dónde recae la complejidad, si en tu código, en la hoja de ruta de un proveedor o en tus usuarios."
-              },
-              {
-                "t": "p",
-                "x": "Presupuesta cada año el 30% del coste inicial de desarrollo para mantenimiento. Dos personas durante dos semanas a $150 la hora suponen $24,000 al inicio y $7,200 al año; una suscripción de $20 por puesto para 25 personas cuesta $6,000 al año. En tres años: $45,600 frente a $18,000."
+                "x": "Una petición como “arregla este despliegue” no indica de antemano qué acciones realizará un agente ni qué acceso necesita. Vercel Agent empieza investigando el problema y luego propone un plan que muestra qué haría y qué acceso necesitaría. Aprobar ese plan otorga los permisos adicionales para ejecutarlo."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*7XtOj9Wp3l-ofV80VmC_dA.png",
-                "cap": "Las cuentas no son tan sencillas como parecen."
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cacf2c9fff74e899cc0b157e/a3f092a118057cfe9ded3eb1439d9839/01-plan-and-permissions-light.png",
+                "cap": "Cómo una solicitud de despliegue se convierte en un plan con permisos."
               },
               {
                 "t": "p",
-                "x": "Comprar implica importar el modelo de datos y el ritmo de lanzamientos de un proveedor. Los usuarios notan los huecos entre herramientas, y cada vez más trabajo ocurre dentro de Teams, Slack, Claude y ChatGPT, donde el anfitrión pone las reglas; por eso conviene diseñar la tarjeta como un producto en sí mismo."
+                "x": "Ante un despliegue fallido, podría revisar los registros de compilación y comparar el despliegue fallido con el último que funcionó bien, bajo ámbitos de solo lectura que se ejecutan automáticamente. Un redespliegue propuesto solicita acceso read-write:deployment en un plan que el usuario aprueba con una sola decisión."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*vgCEwEwGZWy-epOP5KOIPA.png",
-                "cap": "Los agentes de programación también distorsionan la estimación. ¿Quién lo diría?"
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cad02de28304ef1d003bd3c5/86455e20607b69548ecb7fba8e06466e/03-authorization-and-tokens-light.png",
+                "cap": "Cómo Vercel Agent obtiene un token para el trabajo aprobado."
               },
               {
                 "t": "p",
-                "x": "Compra lo genérico, construye lo diferencial; pregunta dónde viven los datos, y ten entre 20 y 30 tareas reales para volver a probar cada vez que una versión del modelo o del proveedor cambie lo que hay debajo."
+                "x": "Vercel Agent funciona como una Vercel App limitada por los permisos que ya tiene el usuario, así que aprobar un plan no puede conceder un acceso que el usuario no tenga. El servicio OAuth emite tokens de alcance limitado y vida más corta, y las Vercel APIs rechazan las operaciones fuera de ese alcance, aunque el modelo considere necesaria la acción."
+              },
+              {
+                "t": "img",
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/ca222732a2267d21ecbeebe2/36a2586ea4b3aca902e73ff9e631a038/05-plan-lifecycle-light.png",
+                "cap": "Qué ocurre cuando un plan se aprueba, se rechaza o se detiene."
+              },
+              {
+                "t": "p",
+                "x": "Antes de reanudar el trabajo, el entorno de ejecución comprueba que el plan siga activo; un plan detenido falla aunque su token no haya caducado. Las credenciales con alcance limitado funcionan junto con el aislamiento en sandbox, la política de red, el manejo de secretos, los límites de tasa y los registros de auditoría."
               }
             ]
           }
@@ -1647,165 +571,1191 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Buy vs. build도\n이제 UX 결정이다",
-          "body": "Patrick Neeman은 AI 시대 구매·개발의 관건이 유지보수라고 본다.",
-          "mini_headline": "Buy vs. build는 UX 판단",
+          "headline": "Vercel Agent는\n프로덕션 변경 전 묻는다",
+          "body": "Vercel Agent는 읽기 전용으로 조사하고, 계획을 승인받아야 바꾼다.",
+          "mini_headline": "먼저 묻는 Vercel Agent",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*nj8TtjChBWaVUnj1eBPjYQ.png",
-                "cap": "한 제품팀이 같은 테이블에서 구매한 도구와 내부 개발안을 저울질한다."
-              },
-              {
                 "t": "p",
-                "x": "인공지능은 만들기를 싸게, 사기를 쉽게 만들었다. Patrick Neeman은 이제 그 선택이 유지보수를 누가 맡는지, 도구 사이의 이음새, 채팅 화면, 데이터에 달려 있다고 주장한다. 복잡성이 어디에 떨어지는지 물어야 한다. 우리 코드인지, 벤더의 로드맵인지, 사용자인지 말이다."
-              },
-              {
-                "t": "p",
-                "x": "그는 초기 개발 비용의 30%를 매년 유지보수 예산으로 잡는다. 두 사람이 두 주 동안 시간당 $150로 일하면 초기 비용은 $24,000, 연간 유지비는 $7,200이다. 좌석당 $20인 구독을 25명이 쓰면 연 $6,000이 든다. 세 해를 합치면 $45,600 대 $18,000이다."
+                "x": "“이 배포를 고쳐 줘” 같은 요청에는 에이전트가 어떤 작업을 하고 어떤 권한이 필요한지가 미리 드러나지 않는다. Vercel Agent는 먼저 문제를 조사한 뒤, 무엇을 할지와 어떤 권한이 필요한지 보여 주는 계획을 제안한다. 그 계획을 승인하면 실행에 필요한 추가 권한이 주어진다."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*7XtOj9Wp3l-ofV80VmC_dA.png",
-                "cap": "계산은 보기만큼 간단하지 않다."
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cacf2c9fff74e899cc0b157e/a3f092a118057cfe9ded3eb1439d9839/01-plan-and-permissions-light.png",
+                "cap": "배포 요청이 권한을 담은 계획으로 바뀌는 과정."
               },
               {
                 "t": "p",
-                "x": "구매는 벤더의 데이터 모델과 출시 주기까지 들여오는 일이다. 사용자는 도구 사이의 틈을 체감하고, 점점 더 많은 일이 Teams, Slack, Claude, ChatGPT 안에서 이뤄진다. 그곳의 규칙은 호스트가 정한다. 그러니 카드를 하나의 독립된 제품으로 디자인해야 한다."
+                "x": "배포가 깨졌다면 자동으로 실행되는 읽기 전용 범위 안에서 빌드 로그를 살피고, 실패한 배포를 마지막 정상 배포와 비교할 수 있다. 재배포를 제안하면 사용자가 한 번의 결정으로 승인하는 계획 안에서 read-write:deployment 권한을 요청한다."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*vgCEwEwGZWy-epOP5KOIPA.png",
-                "cap": "코딩 에이전트도 추정치를 왜곡한다. 누가 알았겠는가?"
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cad02de28304ef1d003bd3c5/86455e20607b69548ecb7fba8e06466e/03-authorization-and-tokens-light.png",
+                "cap": "Vercel Agent가 승인된 작업에 쓸 토큰을 받는 방식."
               },
               {
                 "t": "p",
-                "x": "범용 기능은 사고, 차별화 요소는 만든다. 데이터가 어디에 있는지 묻는다. 그리고 모델이나 벤더 릴리스가 기반을 바꿀 때마다 다시 시험할 실제 작업을 20개에서 30개쯤 갖춰 둔다."
+                "x": "Vercel Agent는 사용자의 기존 권한 범위 안에서 동작하는 Vercel App으로 실행되므로, 계획을 승인해도 사용자에게 없는 권한은 줄 수 없다. OAuth 서비스는 수명이 더 짧고 범위가 한정된 토큰을 발급하며, 모델이 필요하다고 판단한 작업이라도 그 범위를 벗어나면 Vercel APIs가 거부한다."
+              },
+              {
+                "t": "img",
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/ca222732a2267d21ecbeebe2/36a2586ea4b3aca902e73ff9e631a038/05-plan-lifecycle-light.png",
+                "cap": "계획이 승인, 거부, 중단될 때 일어나는 일."
+              },
+              {
+                "t": "p",
+                "x": "런타임은 작업을 재개하기 전에 계획이 아직 유효한지 확인한다. 중단된 계획은 토큰이 만료되지 않았어도 실패한다. 범위가 한정된 자격 증명은 샌드박스 격리, 네트워크 정책, 비밀 정보 처리, 요청 한도, 감사 로그와 함께 작동한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Buy vs. buildは\n今やUXの判断でもある",
-          "body": "Patrick Neemanは、AI時代の買うか作るかは保守とデータ次第だと論じる。",
-          "mini_headline": "Buy vs. buildはUXの判断",
+          "headline": "Vercel Agentは\n本番変更の前に確認する",
+          "body": "Vercel Agentは読み取り専用で調査し、ユーザーが計画を承認してから変更する。",
+          "mini_headline": "まず尋ねるVercel Agent",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*nj8TtjChBWaVUnj1eBPjYQ.png",
-                "cap": "ある製品チームが、同じテーブルで購入ツールと社内開発を比較検討している。"
-              },
-              {
                 "t": "p",
-                "x": "人工知能によって、作ることは安く、買うことは容易になった。Patrick Neemanは、いまやその判断は、保守を誰が担うか、ツール間のつなぎ目、チャット画面、そしてデータで決まると論じる。複雑さがどこに行き着くのか――自社のコードか、ベンダーのロードマップか、ユーザーか――を問うべきだという。"
-              },
-              {
-                "t": "p",
-                "x": "彼は初期開発費の30%を毎年の保守費として見込む。二人が二週間、時給$150で作れば初期費用は$24,000、年間$7,200になる。一方、席あたり$20のサブスクリプションを25人で使えば年$6,000だ。三年間では$45,600対$18,000になる。"
+                "x": "「このデプロイを直して」という依頼だけでは、エージェントがどんな操作をし、どんなアクセス権を必要とするかは事前にわからない。Vercel Agentはまず問題を調査し、何をするのか、どんなアクセス権が要るのかを示す計画を提案する。その計画を承認すると、実行に必要な追加の権限が付与される。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*7XtOj9Wp3l-ofV80VmC_dA.png",
-                "cap": "計算は見た目ほど単純ではない。"
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cacf2c9fff74e899cc0b157e/a3f092a118057cfe9ded3eb1439d9839/01-plan-and-permissions-light.png",
+                "cap": "デプロイ依頼が権限付きの計画になるまで。"
               },
               {
                 "t": "p",
-                "x": "購入すると、ベンダーのデータモデルとリリースサイクルも取り込むことになる。ユーザーはツール間の隙間を感じ取り、Teams、Slack、Claude、ChatGPTの中で行われる作業も増えている。そこではホストがルールを決める。だからカードをそれ自体ひとつのプロダクトとしてデザインすべきだ。"
+                "x": "壊れたデプロイなら、自動で実行される読み取り専用のスコープのもとでビルドログを調べ、失敗したデプロイを最後に正常だったものと比較する場合がある。再デプロイを提案するときは、ユーザーが一度の判断で承認する計画の中でread-write:deploymentのアクセス権を求める。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*vgCEwEwGZWy-epOP5KOIPA.png",
-                "cap": "コーディングエージェントも見積もりを狂わせる。誰が想像しただろう？"
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cad02de28304ef1d003bd3c5/86455e20607b69548ecb7fba8e06466e/03-authorization-and-tokens-light.png",
+                "cap": "Vercel Agentが承認済みの作業用トークンを得る仕組み。"
               },
               {
                 "t": "p",
-                "x": "汎用的なものは買い、差別化要素は作る。データがどこにあるかを問う。そしてモデルやベンダーのリリースで土台が変わるたびに再テストできる実際のタスクを20〜30個用意しておく。"
+                "x": "Vercel Agentはユーザーの既存の権限に制限されたVercel Appとして動くため、計画を承認してもユーザーが持たないアクセス権は付与できない。OAuthサービスはより短命でスコープを限定したトークンを発行し、モデルが必要だと判断した操作であっても、その範囲外であればVercel APIsが拒否する。"
+              },
+              {
+                "t": "img",
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/ca222732a2267d21ecbeebe2/36a2586ea4b3aca902e73ff9e631a038/05-plan-lifecycle-light.png",
+                "cap": "計画が承認、却下、停止されたときに起きること。"
+              },
+              {
+                "t": "p",
+                "x": "作業を再開する前に、ランタイムは計画がまだ有効かを確認する。停止された計画は、トークンが期限切れでなくても失敗する。スコープ付きの認証情報は、サンドボックスによる隔離、ネットワークポリシー、シークレットの扱い、レート制限、監査ログと併せて機能する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Buy vs. build\n如今也是UX决策",
-          "body": "Patrick Neeman认为，AI时代买还是自建，取决于维护、对话界面和数据。",
-          "mini_headline": "Buy vs. build是UX问题",
+          "headline": "Vercel Agent\n改动生产环境前先询问",
+          "body": "Vercel Agent先以只读权限调查，再经用户批准计划后才进行更改。",
+          "mini_headline": "先问再改的Vercel Agent",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*nj8TtjChBWaVUnj1eBPjYQ.png",
-                "cap": "一个产品团队在同一张桌前权衡外购工具与内部自建。"
-              },
-              {
                 "t": "p",
-                "x": "人工智能让自建变得便宜，让购买变得容易。Patrick Neeman认为，如今的取舍取决于由谁负责维护、工具之间的衔接、对话界面以及数据：要问复杂性最终落在哪里——在你的代码里、供应商的路线图上，还是用户身上。"
-              },
-              {
-                "t": "p",
-                "x": "他每年按初始开发成本的30%预留维护预算。两个人干两周、每小时$150，前期就是$24,000，每年$7,200；25人使用每席$20的订阅，每年$6,000。三年下来是$45,600对$18,000。"
+                "x": "像“修复这个部署”这样的请求，并不会事先说明智能体将执行哪些操作、需要哪些访问权限。Vercel Agent会先调查问题，再提出一份计划，列出它打算做什么以及需要什么权限。批准该计划，即授予执行所需的额外权限。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*7XtOj9Wp3l-ofV80VmC_dA.png",
-                "cap": "这笔账并不像看上去那么简单。"
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cacf2c9fff74e899cc0b157e/a3f092a118057cfe9ded3eb1439d9839/01-plan-and-permissions-light.png",
+                "cap": "部署请求如何变成附带权限的计划。"
               },
               {
                 "t": "p",
-                "x": "购买意味着引入供应商的数据模型和发布节奏。用户能感受到工具之间的断层，而越来越多的工作发生在Teams、Slack、Claude和ChatGPT里，那里的规则由宿主平台决定——所以要把卡片当作一个独立产品来设计。"
+                "x": "遇到部署失败时，它可能会在自动运行的只读范围内检查构建日志，并把失败的部署与最近一次正常的部署进行比较。若提议重新部署，它会在一份由用户一次性批准的计划中申请read-write:deployment权限。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*vgCEwEwGZWy-epOP5KOIPA.png",
-                "cap": "编码智能体也会扭曲估算。谁能想到呢？"
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cad02de28304ef1d003bd3c5/86455e20607b69548ecb7fba8e06466e/03-authorization-and-tokens-light.png",
+                "cap": "Vercel Agent如何为已批准的工作获取令牌。"
               },
               {
                 "t": "p",
-                "x": "通用的买，差异化的自建；问清数据存放在哪里；再准备20到30个真实任务，每当模型或供应商的更新改变了底层，就重新测试一遍。"
+                "x": "Vercel Agent以Vercel App的形式运行，受限于用户现有的权限，因此批准计划无法授予用户本身没有的权限。OAuth服务签发有效期更短、范围受限的令牌，超出范围的操作会被Vercel APIs拒绝，即使模型认为该操作有必要。"
+              },
+              {
+                "t": "img",
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/ca222732a2267d21ecbeebe2/36a2586ea4b3aca902e73ff9e631a038/05-plan-lifecycle-light.png",
+                "cap": "计划被批准、拒绝或停止时会发生什么。"
+              },
+              {
+                "t": "p",
+                "x": "恢复工作前，运行时会检查计划是否仍然有效；已停止的计划即使令牌尚未过期也会失败。限定范围的凭证与沙箱隔离、网络策略、密钥处理、速率限制和审计日志协同工作。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Buy vs. build ahora también\nes una decisión de UX",
-          "body": "Patrick Neeman sostiene que, en la era de la AI, comprar o construir depende del mantenimiento y de los datos.",
-          "mini_headline": "Buy vs. build, una decisión de UX",
+          "headline": "Vercel Agent pregunta antes\nde cambiar producción",
+          "body": "Vercel Agent investiga con acceso de solo lectura y necesita que un usuario apruebe su plan antes de hacer cambios.",
+          "mini_headline": "Vercel Agent pregunta primero",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Una petición como “arregla este despliegue” no indica de antemano qué acciones realizará un agente ni qué acceso necesita. Vercel Agent empieza investigando el problema y luego propone un plan que muestra qué haría y qué acceso necesitaría. Aprobar ese plan otorga los permisos adicionales para ejecutarlo."
+              },
+              {
+                "t": "img",
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cacf2c9fff74e899cc0b157e/a3f092a118057cfe9ded3eb1439d9839/01-plan-and-permissions-light.png",
+                "cap": "Cómo una solicitud de despliegue se convierte en un plan con permisos."
+              },
+              {
+                "t": "p",
+                "x": "Ante un despliegue fallido, podría revisar los registros de compilación y comparar el despliegue fallido con el último que funcionó bien, bajo ámbitos de solo lectura que se ejecutan automáticamente. Un redespliegue propuesto solicita acceso read-write:deployment en un plan que el usuario aprueba con una sola decisión."
+              },
+              {
+                "t": "img",
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cad02de28304ef1d003bd3c5/86455e20607b69548ecb7fba8e06466e/03-authorization-and-tokens-light.png",
+                "cap": "Cómo Vercel Agent obtiene un token para el trabajo aprobado."
+              },
+              {
+                "t": "p",
+                "x": "Vercel Agent funciona como una Vercel App limitada por los permisos que ya tiene el usuario, así que aprobar un plan no puede conceder un acceso que el usuario no tenga. El servicio OAuth emite tokens de alcance limitado y vida más corta, y las Vercel APIs rechazan las operaciones fuera de ese alcance, aunque el modelo considere necesaria la acción."
+              },
+              {
+                "t": "img",
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/ca222732a2267d21ecbeebe2/36a2586ea4b3aca902e73ff9e631a038/05-plan-lifecycle-light.png",
+                "cap": "Qué ocurre cuando un plan se aprueba, se rechaza o se detiene."
+              },
+              {
+                "t": "p",
+                "x": "Antes de reanudar el trabajo, el entorno de ejecución comprueba que el plan siga activo; un plan detenido falla aunque su token no haya caducado. Las credenciales con alcance limitado funcionan junto con el aislamiento en sandbox, la política de red, el manejo de secretos, los límites de tasa y los registros de auditoría."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "design-nvidia-cosmos-world-models",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "NVIDIA Cosmos,\n월드 모델 학습 도구 공개",
+      "body": "NVIDIA Cosmos 새 도구가 데이터 처리와 월드 모델 학습을 돕는다.",
+      "mini_headline": "NVIDIA Cosmos 새 도구",
+      "tool": "KeyShot",
+      "source": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026-1280x720.jpg"
+          },
+          {
+            "t": "p",
+            "x": "NVIDIA가 새 학습 도구, 시뮬레이션 체크포인트, Cosmos Data Factory 블루프린트를 더해 Cosmos 플랫폼을 확장했다. physical AI 시스템이 현실 세계를 이해하고 시뮬레이션하도록 돕는 월드 모델을 개발자가 더 빨리 구축하게 하려는 확장이다."
+          },
+          {
+            "t": "p",
+            "x": "Cosmos Data Factory는 대규모 데이터의 라벨링, 큐레이션, 증강, 평가 도구를 한데 모았고 GitHub, Microsoft Azure, Nebius, CoreWeave에서 다섯 가지 클라우드 네이티브 블루프린트를 제공한다. Porsche는 이를 활용해 반복적인 실차 주행 테스트를 최대 90% 줄이고 개발 주기를 최대 85% 단축할 것으로 기대한다."
+          },
+          {
+            "t": "video",
+            "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Porche-Cosmos-Data-Factory.mp4"
+          },
+          {
+            "t": "p",
+            "x": "NVIDIA는 GTC Berlin에서 Cosmos 3와 함께 Cosmos Framework의 학습, 최적화, 배포 도구를 에이전트 스킬 형태로 더 많은 오픈 모델에 확대했다. MicroAGI는 32-billion-parameter 추론 모델을 정확도 손실 없이 8-billion-parameter Nano 모델로 증류했다."
+          },
+          {
+            "t": "img",
+            "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Cosmos-Framework-960x538.png",
+            "cap": "Cosmos Framework는 모델 학습과 최적화 도구, 스킬로 이뤄진 개방형 모듈식 프레임워크다."
+          },
+          {
+            "t": "p",
+            "x": "개발자는 새 Cosmos 3 Nano 변형 모델로 멀티뷰·멀티센서 시뮬레이션에서 자율 정책을 시험할 수 있다. 업데이트된 Cosmos 3 NIM 마이크로서비스는 검증된 구성에서 품질 저하 없이 추론을 최대 2x 빠르게 돌린다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "NVIDIA Cosmos opens tools\nto train world models",
+          "body": "New NVIDIA Cosmos tools speed up data pipelines and help train, evaluate and optimize world models more efficiently.",
+          "mini_headline": "New NVIDIA Cosmos tools",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*nj8TtjChBWaVUnj1eBPjYQ.png",
-                "cap": "Un equipo de producto sopesa en la misma mesa una herramienta comprada frente a un desarrollo interno."
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026-1280x720.jpg"
               },
               {
                 "t": "p",
-                "x": "La inteligencia artificial abarató construir y facilitó comprar. Patrick Neeman sostiene que el dilema depende ahora de quién asume el mantenimiento, las costuras entre herramientas, las superficies de chat y los datos: hay que preguntarse dónde recae la complejidad, si en tu código, en la hoja de ruta de un proveedor o en tus usuarios."
+                "x": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos Data Factory blueprints."
               },
               {
                 "t": "p",
-                "x": "Presupuesta cada año el 30% del coste inicial de desarrollo para mantenimiento. Dos personas durante dos semanas a $150 la hora suponen $24,000 al inicio y $7,200 al año; una suscripción de $20 por puesto para 25 personas cuesta $6,000 al año. En tres años: $45,600 frente a $18,000."
+                "x": "Cosmos Data Factory brings together tools for labeling, curating, augmenting and evaluating data at scale, with five cloud-native blueprints on GitHub, Microsoft Azure, Nebius and CoreWeave. Porsche expects it to reduce repeated physical test drives by up to 90% and shorten development cycle times by up to 85%."
+              },
+              {
+                "t": "video",
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Porche-Cosmos-Data-Factory.mp4"
+              },
+              {
+                "t": "p",
+                "x": "At GTC Berlin, NVIDIA extended Cosmos Framework training, optimization and deployment tools as agent skills to more open models, along with Cosmos 3. MicroAGI distilled its 32-billion-parameter reasoner down to an 8-billion-parameter Nano model with no loss in accuracy."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*7XtOj9Wp3l-ofV80VmC_dA.png",
-                "cap": "Las cuentas no son tan sencillas como parecen."
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Cosmos-Framework-960x538.png",
+                "cap": "Cosmos Framework is an open, modular framework of model training and optimization tools and skills."
               },
               {
                 "t": "p",
-                "x": "Comprar implica importar el modelo de datos y el ritmo de lanzamientos de un proveedor. Los usuarios notan los huecos entre herramientas, y cada vez más trabajo ocurre dentro de Teams, Slack, Claude y ChatGPT, donde el anfitrión pone las reglas; por eso conviene diseñar la tarjeta como un producto en sí mismo."
+                "x": "New Cosmos 3 Nano variants let developers test autonomous policies in multiview multisensor simulation, and updated Cosmos 3 NIM microservices deliver up to 2x faster inference with no quality loss in validated configurations."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "NVIDIA Cosmos,\n월드 모델 학습 도구 공개",
+          "body": "NVIDIA Cosmos 새 도구가 데이터 처리와 월드 모델 학습을 돕는다.",
+          "mini_headline": "NVIDIA Cosmos 새 도구",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026-1280x720.jpg"
+              },
+              {
+                "t": "p",
+                "x": "NVIDIA가 새 학습 도구, 시뮬레이션 체크포인트, Cosmos Data Factory 블루프린트를 더해 Cosmos 플랫폼을 확장했다. physical AI 시스템이 현실 세계를 이해하고 시뮬레이션하도록 돕는 월드 모델을 개발자가 더 빨리 구축하게 하려는 확장이다."
+              },
+              {
+                "t": "p",
+                "x": "Cosmos Data Factory는 대규모 데이터의 라벨링, 큐레이션, 증강, 평가 도구를 한데 모았고 GitHub, Microsoft Azure, Nebius, CoreWeave에서 다섯 가지 클라우드 네이티브 블루프린트를 제공한다. Porsche는 이를 활용해 반복적인 실차 주행 테스트를 최대 90% 줄이고 개발 주기를 최대 85% 단축할 것으로 기대한다."
+              },
+              {
+                "t": "video",
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Porche-Cosmos-Data-Factory.mp4"
+              },
+              {
+                "t": "p",
+                "x": "NVIDIA는 GTC Berlin에서 Cosmos 3와 함께 Cosmos Framework의 학습, 최적화, 배포 도구를 에이전트 스킬 형태로 더 많은 오픈 모델에 확대했다. MicroAGI는 32-billion-parameter 추론 모델을 정확도 손실 없이 8-billion-parameter Nano 모델로 증류했다."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*vgCEwEwGZWy-epOP5KOIPA.png",
-                "cap": "Los agentes de programación también distorsionan la estimación. ¿Quién lo diría?"
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Cosmos-Framework-960x538.png",
+                "cap": "Cosmos Framework는 모델 학습과 최적화 도구, 스킬로 이뤄진 개방형 모듈식 프레임워크다."
               },
               {
                 "t": "p",
-                "x": "Compra lo genérico, construye lo diferencial; pregunta dónde viven los datos, y ten entre 20 y 30 tareas reales para volver a probar cada vez que una versión del modelo o del proveedor cambie lo que hay debajo."
+                "x": "개발자는 새 Cosmos 3 Nano 변형 모델로 멀티뷰·멀티센서 시뮬레이션에서 자율 정책을 시험할 수 있다. 업데이트된 Cosmos 3 NIM 마이크로서비스는 검증된 구성에서 품질 저하 없이 추론을 최대 2x 빠르게 돌린다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "NVIDIA Cosmos\n世界モデル学習ツール公開",
+          "body": "NVIDIA Cosmosの新ツールがデータ処理を速め、世界モデルの学習を効率化する。",
+          "mini_headline": "NVIDIA Cosmosの新ツール",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026-1280x720.jpg"
+              },
+              {
+                "t": "p",
+                "x": "フィジカルAIシステムが現実世界を理解しシミュレートするのを助ける世界モデルを開発者が素早く構築できるよう、NVIDIAは新たな学習ツール、シミュレーションチェックポイント、Cosmos Data FactoryのブループリントでCosmosプラットフォームを拡張した。"
+              },
+              {
+                "t": "p",
+                "x": "Cosmos Data Factoryは大規模データのラベリング、キュレーション、拡張、評価のためのツールを統合し、GitHub、Microsoft Azure、Nebius、CoreWeave上で五つのクラウドネイティブなブループリントを提供する。Porscheは、反復的な実車テスト走行を最大90%削減し、開発サイクルを最大85%短縮できると見込んでいる。"
+              },
+              {
+                "t": "video",
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Porche-Cosmos-Data-Factory.mp4"
+              },
+              {
+                "t": "p",
+                "x": "NVIDIAはGTC Berlinで、Cosmos 3とともに、Cosmos Frameworkの学習・最適化・デプロイツールをエージェントスキルとしてより多くのオープンモデルに広げた。MicroAGIは32-billion-parameterの推論モデルを、精度を落とさず8-billion-parameterのNanoモデルへ蒸留した。"
+              },
+              {
+                "t": "img",
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Cosmos-Framework-960x538.png",
+                "cap": "Cosmos Frameworkは、モデルの学習・最適化ツールとスキルからなるオープンでモジュール型のフレームワークである。"
+              },
+              {
+                "t": "p",
+                "x": "新しいCosmos 3 Nanoのバリアントにより、開発者はマルチビュー・マルチセンサーのシミュレーションで自律ポリシーを検証できる。更新されたCosmos 3 NIMマイクロサービスは、検証済みの構成で品質を損なわずに最大2x高速な推論を実現する。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "NVIDIA Cosmos\n开放世界模型训练工具",
+          "body": "NVIDIA Cosmos新工具加速数据管线，助力更高效地训练、评估和优化世界模型。",
+          "mini_headline": "NVIDIA Cosmos新工具",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026-1280x720.jpg"
+              },
+              {
+                "t": "p",
+                "x": "世界模型帮助物理AI系统理解和模拟现实世界。为帮助开发者快速构建世界模型，NVIDIA以新的训练工具、仿真检查点和Cosmos Data Factory蓝图扩展了Cosmos平台。"
+              },
+              {
+                "t": "p",
+                "x": "Cosmos Data Factory汇集了大规模数据标注、整理、增强和评估工具，并在GitHub、Microsoft Azure、Nebius和CoreWeave上提供五个云原生蓝图。Porsche预计它可将重复的实车测试驾驶减少最多90%，并将开发周期缩短最多85%。"
+              },
+              {
+                "t": "video",
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Porche-Cosmos-Data-Factory.mp4"
+              },
+              {
+                "t": "p",
+                "x": "在GTC Berlin上，NVIDIA随Cosmos 3一同将Cosmos Framework的训练、优化和部署工具以智能体技能的形式扩展到更多开放模型。MicroAGI将其32-billion-parameter推理模型蒸馏为8-billion-parameter的Nano模型，且精度没有损失。"
+              },
+              {
+                "t": "img",
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Cosmos-Framework-960x538.png",
+                "cap": "Cosmos Framework是由模型训练与优化工具和技能组成的开放式模块化框架。"
+              },
+              {
+                "t": "p",
+                "x": "新的Cosmos 3 Nano变体让开发者能在多视角、多传感器仿真中测试自主策略，更新后的Cosmos 3 NIM微服务在经过验证的配置中可实现最高2x的推理加速，且质量无损。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "NVIDIA Cosmos abre herramientas\npara entrenar modelos del mundo",
+          "body": "Las nuevas herramientas de NVIDIA Cosmos aceleran los flujos de datos y ayudan a entrenar modelos del mundo.",
+          "mini_headline": "Nuevas herramientas de NVIDIA Cosmos",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026-1280x720.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Para ayudar a los desarrolladores a crear con rapidez modelos del mundo, que permiten a los sistemas de AI física comprender y simular el mundo real, NVIDIA amplió la plataforma Cosmos con nuevas herramientas de entrenamiento, puntos de control de simulación y blueprints de Cosmos Data Factory."
+              },
+              {
+                "t": "p",
+                "x": "Cosmos Data Factory reúne herramientas para etiquetar, curar, aumentar y evaluar datos a gran escala, con cinco blueprints nativos de la nube en GitHub, Microsoft Azure, Nebius y CoreWeave. Porsche prevé reducir hasta un 90% las pruebas de conducción físicas repetidas y acortar hasta un 85% los ciclos de desarrollo."
+              },
+              {
+                "t": "video",
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Porche-Cosmos-Data-Factory.mp4"
+              },
+              {
+                "t": "p",
+                "x": "En GTC Berlin, NVIDIA extendió las herramientas de entrenamiento, optimización y despliegue de Cosmos Framework, como habilidades de agentes, a más modelos abiertos, junto con Cosmos 3. MicroAGI destiló su modelo de razonamiento de 32-billion-parameter en un modelo Nano de 8-billion-parameter sin pérdida de precisión."
+              },
+              {
+                "t": "img",
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Cosmos-Framework-960x538.png",
+                "cap": "Cosmos Framework es un marco abierto y modular de herramientas y habilidades para entrenar y optimizar modelos."
+              },
+              {
+                "t": "p",
+                "x": "Las nuevas variantes de Cosmos 3 Nano permiten probar políticas autónomas en simulación multivista y multisensor, y los microservicios Cosmos 3 NIM actualizados ofrecen una inferencia hasta 2x más rápida sin pérdida de calidad en configuraciones validadas."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "NVIDIA Cosmos,\n월드 모델 학습 도구 공개",
+          "body": "NVIDIA Cosmos 새 도구가 데이터 처리와 월드 모델 학습을 돕는다.",
+          "mini_headline": "NVIDIA Cosmos 새 도구",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026-1280x720.jpg"
+              },
+              {
+                "t": "p",
+                "x": "NVIDIA는 physical AI 시스템이 현실 세계를 이해하고 시뮬레이션하도록 돕는 월드 모델을 개발자가 빠르게 구축할 수 있도록 새 학습 도구, 시뮬레이션 체크포인트, Cosmos Data Factory 블루프린트로 Cosmos 플랫폼을 확장했다."
+              },
+              {
+                "t": "p",
+                "x": "Cosmos Data Factory는 대규모 데이터의 라벨링, 큐레이션, 증강, 평가 도구를 한데 모았으며, GitHub, Microsoft Azure, Nebius, CoreWeave에서 다섯 가지 클라우드 네이티브 블루프린트를 제공한다. Porsche는 이를 통해 반복적인 실차 주행 테스트를 최대 90% 줄이고 개발 주기를 최대 85% 단축할 것으로 기대한다."
+              },
+              {
+                "t": "video",
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Porche-Cosmos-Data-Factory.mp4"
+              },
+              {
+                "t": "p",
+                "x": "NVIDIA는 GTC Berlin에서 Cosmos 3와 함께 Cosmos Framework의 학습, 최적화, 배포 도구를 에이전트 스킬 형태로 더 많은 오픈 모델에 확대했다. MicroAGI는 32-billion-parameter 추론 모델을 정확도 손실 없이 8-billion-parameter Nano 모델로 증류했다."
+              },
+              {
+                "t": "img",
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Cosmos-Framework-960x538.png",
+                "cap": "Cosmos Framework는 모델 학습과 최적화 도구, 스킬로 이뤄진 개방형 모듈식 프레임워크다."
+              },
+              {
+                "t": "p",
+                "x": "새 Cosmos 3 Nano 변형 모델로 개발자는 멀티뷰·멀티센서 시뮬레이션에서 자율 정책을 시험할 수 있고, 업데이트된 Cosmos 3 NIM 마이크로서비스는 검증된 구성에서 품질 저하 없이 최대 2x 빠른 추론을 제공한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "NVIDIA Cosmos\n世界モデル学習ツール公開",
+          "body": "NVIDIA Cosmosの新ツールがデータ処理を速め、世界モデルの学習を効率化する。",
+          "mini_headline": "NVIDIA Cosmosの新ツール",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026-1280x720.jpg"
+              },
+              {
+                "t": "p",
+                "x": "フィジカルAIシステムが現実世界を理解しシミュレートするのを助ける世界モデルを開発者が素早く構築できるよう、NVIDIAは新たな学習ツール、シミュレーションチェックポイント、Cosmos Data FactoryのブループリントでCosmosプラットフォームを拡張した。"
+              },
+              {
+                "t": "p",
+                "x": "Cosmos Data Factoryは大規模データのラベリング、キュレーション、拡張、評価のためのツールを統合し、GitHub、Microsoft Azure、Nebius、CoreWeave上で五つのクラウドネイティブなブループリントを提供する。Porscheは、反復的な実車テスト走行を最大90%削減し、開発サイクルを最大85%短縮できると見込んでいる。"
+              },
+              {
+                "t": "video",
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Porche-Cosmos-Data-Factory.mp4"
+              },
+              {
+                "t": "p",
+                "x": "NVIDIAはGTC Berlinで、Cosmos 3とともに、Cosmos Frameworkの学習・最適化・デプロイツールをエージェントスキルとしてより多くのオープンモデルに広げた。MicroAGIは32-billion-parameterの推論モデルを、精度を落とさず8-billion-parameterのNanoモデルへ蒸留した。"
+              },
+              {
+                "t": "img",
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Cosmos-Framework-960x538.png",
+                "cap": "Cosmos Frameworkは、モデルの学習・最適化ツールとスキルからなるオープンでモジュール型のフレームワークである。"
+              },
+              {
+                "t": "p",
+                "x": "新しいCosmos 3 Nanoのバリアントにより、開発者はマルチビュー・マルチセンサーのシミュレーションで自律ポリシーを検証できる。更新されたCosmos 3 NIMマイクロサービスは、検証済みの構成で品質を損なわずに最大2x高速な推論を実現する。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "NVIDIA Cosmos\n开放世界模型训练工具",
+          "body": "NVIDIA Cosmos新工具加速数据管线，助力更高效地训练、评估和优化世界模型。",
+          "mini_headline": "NVIDIA Cosmos新工具",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026-1280x720.jpg"
+              },
+              {
+                "t": "p",
+                "x": "世界模型帮助物理AI系统理解和模拟现实世界。为帮助开发者快速构建世界模型，NVIDIA以新的训练工具、仿真检查点和Cosmos Data Factory蓝图扩展了Cosmos平台。"
+              },
+              {
+                "t": "p",
+                "x": "Cosmos Data Factory汇集了大规模数据标注、整理、增强和评估工具，并在GitHub、Microsoft Azure、Nebius和CoreWeave上提供五个云原生蓝图。Porsche预计它可将重复的实车测试驾驶减少最多90%，并将开发周期缩短最多85%。"
+              },
+              {
+                "t": "video",
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Porche-Cosmos-Data-Factory.mp4"
+              },
+              {
+                "t": "p",
+                "x": "在GTC Berlin上，NVIDIA随Cosmos 3一同将Cosmos Framework的训练、优化和部署工具以智能体技能的形式扩展到更多开放模型。MicroAGI将其32-billion-parameter推理模型蒸馏为8-billion-parameter的Nano模型，且精度没有损失。"
+              },
+              {
+                "t": "img",
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Cosmos-Framework-960x538.png",
+                "cap": "Cosmos Framework是由模型训练与优化工具和技能组成的开放式模块化框架。"
+              },
+              {
+                "t": "p",
+                "x": "新的Cosmos 3 Nano变体让开发者能在多视角、多传感器仿真中测试自主策略，更新后的Cosmos 3 NIM微服务在经过验证的配置中可实现最高2x的推理加速，且质量无损。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "NVIDIA Cosmos abre herramientas\npara entrenar modelos del mundo",
+          "body": "Las nuevas herramientas de NVIDIA Cosmos aceleran los flujos de datos y ayudan a entrenar modelos del mundo.",
+          "mini_headline": "Nuevas herramientas de NVIDIA Cosmos",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026-1280x720.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Para ayudar a los desarrolladores a crear con rapidez modelos del mundo, que permiten a los sistemas de AI física comprender y simular el mundo real, NVIDIA amplió la plataforma Cosmos con nuevas herramientas de entrenamiento, puntos de control de simulación y blueprints de Cosmos Data Factory."
+              },
+              {
+                "t": "p",
+                "x": "Cosmos Data Factory reúne herramientas para etiquetar, curar, aumentar y evaluar datos a gran escala, con cinco blueprints nativos de la nube en GitHub, Microsoft Azure, Nebius y CoreWeave. Porsche prevé reducir hasta un 90% las pruebas de conducción físicas repetidas y acortar hasta un 85% los ciclos de desarrollo."
+              },
+              {
+                "t": "video",
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Porche-Cosmos-Data-Factory.mp4"
+              },
+              {
+                "t": "p",
+                "x": "En GTC Berlin, NVIDIA extendió las herramientas de entrenamiento, optimización y despliegue de Cosmos Framework, como habilidades de agentes, a más modelos abiertos, junto con Cosmos 3. MicroAGI destiló su modelo de razonamiento de 32-billion-parameter en un modelo Nano de 8-billion-parameter sin pérdida de precisión."
+              },
+              {
+                "t": "img",
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Cosmos-Framework-960x538.png",
+                "cap": "Cosmos Framework es un marco abierto y modular de herramientas y habilidades para entrenar y optimizar modelos."
+              },
+              {
+                "t": "p",
+                "x": "Las nuevas variantes de Cosmos 3 Nano permiten probar políticas autónomas en simulación multivista y multisensor, y los microservicios Cosmos 3 NIM actualizados ofrecen una inferencia hasta 2x más rápida sin pérdida de calidad en configuraciones validadas."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "design-block-dessa-voice",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Block의 Dessa\n어색한 새 친구 같은 AI",
+      "body": "Jack Dorsey의 Block AI Dessa는 어색한 새 친구처럼 말한다.",
+      "mini_headline": "Block의 음성 AI Dessa",
+      "tool": "AI Workflow",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+          },
+          {
+            "t": "p",
+            "x": "Jack Dorsey의 Block이 \"오직 사람의 대화만으로 처음부터\" 학습한 AI 모델 Dessa를 발표하며 이 모델이 사람과 나눈 대화를 공개했다. 대화는 가끔 조금 어색하고 묘하다."
+          },
+          {
+            "t": "p",
+            "x": "Dessa 책임자 Ragavan Thurairatnam이 공유한 대화에서는 대화는 대체로 자연스럽게 오가지만 모델이 처음에 상대를 \"Ronaldo\"라는 사람으로 착각한다."
+          },
+          {
+            "t": "video",
+            "src": "https://video.twimg.com/amplify_video/2113669735107727360/vid/avc1/1920x1080/EQKH_QeNN-VKLfDO.mp4?tag=29"
+          },
+          {
+            "t": "p",
+            "x": "Dessa 웹사이트에는 Christopher Nolan 영화를 두고 나눈 대화와 OpenAI의 GPT-Live-1 음성 모델과 나눈 대화도 올라 있다. 여기서는 Dessa가 더 자연스럽게 들린다. 팀은 이를 MacBook Pro M4 Max \"또는 그 이상\"에서 로컬로 돌릴 수 있는 \"진정한 speech-to-speech 모델\"이라고 부른다."
+          },
+          {
+            "t": "p",
+            "x": "팀은 개발 이유로 세 가지를 든다. \"호기심(즉 재미), 사람과 AI 사이의 더 나은 이해, 그리고 안전.\" 소수의 AI 안전 연구자가 먼저 사용해 볼 수 있다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Block's Dessa AI talks like\nan awkward new friend",
+          "body": "Jack Dorsey's Block built Dessa, an AI speech model that talks with you like an awkward new friend.",
+          "mini_headline": "Block's Dessa voice AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and shared chats it has had with humans that can occasionally be a little awkward and uncanny."
+              },
+              {
+                "t": "p",
+                "x": "In one, shared by Dessa lead Ragavan Thurairatnam, the back and forth is mostly natural, though the model initially mistakes the speaker for somebody named \"Ronaldo.\""
+              },
+              {
+                "t": "video",
+                "src": "https://video.twimg.com/amplify_video/2113669735107727360/vid/avc1/1920x1080/EQKH_QeNN-VKLfDO.mp4?tag=29"
+              },
+              {
+                "t": "p",
+                "x": "Other examples on the Dessa website include a chat about Christopher Nolan's films and a conversation with OpenAI's GPT-Live-1 voice model, where Dessa comes across as more natural. The team calls it a \"true speech-to-speech model\" that can run locally on a MacBook Pro M4 Max \"or better.\""
+              },
+              {
+                "t": "p",
+                "x": "They cite three reasons for making it: \"curiosity (aka fun), better understanding between humans and AI, and safety.\" A small group of AI safety researchers will get early access."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Block의 Dessa\n어색한 새 친구 같은 AI",
+          "body": "Jack Dorsey의 Block AI Dessa는 어색한 새 친구처럼 말한다.",
+          "mini_headline": "Block의 음성 AI Dessa",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "Jack Dorsey의 Block이 \"오직 사람의 대화만으로 처음부터\" 학습한 AI 모델 Dessa를 발표하며 이 모델이 사람과 나눈 대화를 공개했다. 대화는 가끔 조금 어색하고 묘하다."
+              },
+              {
+                "t": "p",
+                "x": "Dessa 책임자 Ragavan Thurairatnam이 공유한 대화에서는 대화는 대체로 자연스럽게 오가지만 모델이 처음에 상대를 \"Ronaldo\"라는 사람으로 착각한다."
+              },
+              {
+                "t": "video",
+                "src": "https://video.twimg.com/amplify_video/2113669735107727360/vid/avc1/1920x1080/EQKH_QeNN-VKLfDO.mp4?tag=29"
+              },
+              {
+                "t": "p",
+                "x": "Dessa 웹사이트에는 Christopher Nolan 영화를 두고 나눈 대화와 OpenAI의 GPT-Live-1 음성 모델과 나눈 대화도 올라 있다. 여기서는 Dessa가 더 자연스럽게 들린다. 팀은 이를 MacBook Pro M4 Max \"또는 그 이상\"에서 로컬로 돌릴 수 있는 \"진정한 speech-to-speech 모델\"이라고 부른다."
+              },
+              {
+                "t": "p",
+                "x": "팀은 개발 이유로 세 가지를 든다. \"호기심(즉 재미), 사람과 AI 사이의 더 나은 이해, 그리고 안전.\" 소수의 AI 안전 연구자가 먼저 사용해 볼 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "BlockのDessa AI\n新しい友のようにぎこちない",
+          "body": "Jack DorseyのBlockのAI Dessaは、ぎこちない新しい友人のように話す。",
+          "mini_headline": "Blockの音声AI Dessa",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "Jack DorseyのBlockは、「人間の会話だけを使って一から」学習させたAIモデルDessaを発表し、人間と交わした会話を公開した。その会話はときに少しぎこちなく、不気味に感じられることもある。"
+              },
+              {
+                "t": "p",
+                "x": "Dessaの責任者Ragavan Thurairatnamが共有した例では、やり取りはおおむね自然だが、モデルは最初、話し相手を「Ronaldo」という人物と取り違えている。"
+              },
+              {
+                "t": "video",
+                "src": "https://video.twimg.com/amplify_video/2113669735107727360/vid/avc1/1920x1080/EQKH_QeNN-VKLfDO.mp4?tag=29"
+              },
+              {
+                "t": "p",
+                "x": "Dessaのウェブサイトには、Christopher Nolanの映画についての会話や、OpenAIの音声モデルGPT-Live-1との会話といった例もあり、そこではDessaのほうが自然に聞こえる。チームはこれを、MacBook Pro M4 Max「以上」でローカル実行できる「真のspeech-to-speechモデル」と呼んでいる。"
+              },
+              {
+                "t": "p",
+                "x": "開発の理由として、チームは「好奇心（つまり楽しさ）、人間とAIの相互理解の向上、そして安全性」の三つを挙げる。少数のAI安全性研究者が先行アクセスを得る予定だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Block的Dessa AI\n像个略显尴尬的新朋友",
+          "body": "Jack Dorsey旗下Block打造了AI语音模型Dessa，聊天像个尴尬的新朋友。",
+          "mini_headline": "Block的语音AI Dessa",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "Jack Dorsey旗下的Block发布了名为Dessa的AI模型，称其“从头开始、仅用人类对话”训练而成，并公开了它与人类的聊天记录，这些对话偶尔显得有些尴尬和怪异。"
+              },
+              {
+                "t": "p",
+                "x": "在Dessa负责人Ragavan Thurairatnam分享的对话中，来回交流大体自然，不过模型起初把说话者误认成了名叫“Ronaldo”的人。"
+              },
+              {
+                "t": "video",
+                "src": "https://video.twimg.com/amplify_video/2113669735107727360/vid/avc1/1920x1080/EQKH_QeNN-VKLfDO.mp4?tag=29"
+              },
+              {
+                "t": "p",
+                "x": "Dessa网站上的其他示例包括关于Christopher Nolan电影的聊天，以及与OpenAI的GPT-Live-1语音模型的对话，其中Dessa显得更自然。团队称它是“真正的speech-to-speech模型”，可在MacBook Pro M4 Max“或更高配置”上本地运行。"
+              },
+              {
+                "t": "p",
+                "x": "他们给出了开发它的三个理由：“好奇心（也就是好玩）、增进人类与AI之间的理解，以及安全。”少数AI安全研究人员将获得抢先体验资格。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Dessa, la AI de Block, habla\ncomo un nuevo amigo incómodo",
+          "body": "Block, la empresa de Jack Dorsey, creó Dessa, un modelo de voz AI que habla contigo como un nuevo amigo incómodo.",
+          "mini_headline": "Dessa, la AI de voz de Block",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "Block, la empresa de Jack Dorsey, anunció un modelo de AI llamado Dessa, entrenado \"desde el principio y únicamente con conversación humana\", y compartió charlas que ha mantenido con personas y que a veces resultan un poco incómodas e inquietantes."
+              },
+              {
+                "t": "p",
+                "x": "En una de ellas, compartida por el responsable de Dessa, Ragavan Thurairatnam, el intercambio es mayormente natural, aunque al principio el modelo confunde al interlocutor con alguien llamado \"Ronaldo\"."
+              },
+              {
+                "t": "video",
+                "src": "https://video.twimg.com/amplify_video/2113669735107727360/vid/avc1/1920x1080/EQKH_QeNN-VKLfDO.mp4?tag=29"
+              },
+              {
+                "t": "p",
+                "x": "Otros ejemplos en el sitio web de Dessa incluyen una charla sobre las películas de Christopher Nolan y una conversación con GPT-Live-1, el modelo de voz de OpenAI, en la que Dessa resulta más natural. El equipo lo describe como un \"verdadero modelo speech-to-speech\" que puede ejecutarse localmente en un MacBook Pro M4 Max \"o superior\"."
+              },
+              {
+                "t": "p",
+                "x": "Citan tres razones para crearlo: \"curiosidad (es decir, diversión), un mejor entendimiento entre humanos y AI, y seguridad\". Un pequeño grupo de investigadores en seguridad de AI tendrá acceso anticipado."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Block의 Dessa\n어색한 새 친구 같은 AI",
+          "body": "Jack Dorsey의 Block AI Dessa는 어색한 새 친구처럼 말한다.",
+          "mini_headline": "Block의 음성 AI Dessa",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "Jack Dorsey의 Block이 \"오직 사람의 대화만으로 처음부터\" 학습한 AI 모델 Dessa를 발표하고, 이 모델이 사람과 나눈 대화를 공개했다. 대화는 가끔 조금 어색하고 기묘하게 느껴진다."
+              },
+              {
+                "t": "p",
+                "x": "Dessa 책임자 Ragavan Thurairatnam이 공유한 대화에서는 주고받는 흐름이 대체로 자연스럽지만, 모델이 처음에 상대를 \"Ronaldo\"라는 사람으로 착각한다."
+              },
+              {
+                "t": "video",
+                "src": "https://video.twimg.com/amplify_video/2113669735107727360/vid/avc1/1920x1080/EQKH_QeNN-VKLfDO.mp4?tag=29"
+              },
+              {
+                "t": "p",
+                "x": "Dessa 웹사이트의 다른 예시로는 Christopher Nolan 영화에 관한 대화, 그리고 OpenAI의 GPT-Live-1 음성 모델과 나눈 대화가 있는데, 여기서 Dessa가 더 자연스럽게 들린다. 팀은 이를 MacBook Pro M4 Max \"또는 그 이상\"에서 로컬로 돌릴 수 있는 \"진정한 speech-to-speech 모델\"이라고 부른다."
+              },
+              {
+                "t": "p",
+                "x": "팀은 개발 이유로 세 가지를 든다. \"호기심(즉 재미), 사람과 AI 사이의 더 나은 이해, 그리고 안전.\" 소수의 AI 안전 연구자가 먼저 사용해 볼 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "BlockのDessa AI\n新しい友のようにぎこちない",
+          "body": "Jack DorseyのBlockのAI Dessaは、ぎこちない新しい友人のように話す。",
+          "mini_headline": "Blockの音声AI Dessa",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "Jack DorseyのBlockは、「人間の会話だけを使って一から」学習させたAIモデルDessaを発表し、人間と交わした会話を公開した。その会話はときに少しぎこちなく、不気味に感じられることもある。"
+              },
+              {
+                "t": "p",
+                "x": "Dessaの責任者Ragavan Thurairatnamが共有した例では、やり取りはおおむね自然だが、モデルは最初、話し相手を「Ronaldo」という人物と取り違えている。"
+              },
+              {
+                "t": "video",
+                "src": "https://video.twimg.com/amplify_video/2113669735107727360/vid/avc1/1920x1080/EQKH_QeNN-VKLfDO.mp4?tag=29"
+              },
+              {
+                "t": "p",
+                "x": "Dessaのウェブサイトには、Christopher Nolanの映画についての会話や、OpenAIの音声モデルGPT-Live-1との会話といった例もあり、そこではDessaのほうが自然に聞こえる。チームはこれを、MacBook Pro M4 Max「以上」でローカル実行できる「真のspeech-to-speechモデル」と呼んでいる。"
+              },
+              {
+                "t": "p",
+                "x": "開発の理由として、チームは「好奇心（つまり楽しさ）、人間とAIの相互理解の向上、そして安全性」の三つを挙げる。少数のAI安全性研究者が先行アクセスを得る予定だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Block的Dessa AI\n像个略显尴尬的新朋友",
+          "body": "Jack Dorsey旗下Block打造了AI语音模型Dessa，聊天像个尴尬的新朋友。",
+          "mini_headline": "Block的语音AI Dessa",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "Jack Dorsey旗下的Block发布了名为Dessa的AI模型，称其“从头开始、仅用人类对话”训练而成，并公开了它与人类的聊天记录，这些对话偶尔显得有些尴尬和怪异。"
+              },
+              {
+                "t": "p",
+                "x": "在Dessa负责人Ragavan Thurairatnam分享的对话中，来回交流大体自然，不过模型起初把说话者误认成了名叫“Ronaldo”的人。"
+              },
+              {
+                "t": "video",
+                "src": "https://video.twimg.com/amplify_video/2113669735107727360/vid/avc1/1920x1080/EQKH_QeNN-VKLfDO.mp4?tag=29"
+              },
+              {
+                "t": "p",
+                "x": "Dessa网站上的其他示例包括关于Christopher Nolan电影的聊天，以及与OpenAI的GPT-Live-1语音模型的对话，其中Dessa显得更自然。团队称它是“真正的speech-to-speech模型”，可在MacBook Pro M4 Max“或更高配置”上本地运行。"
+              },
+              {
+                "t": "p",
+                "x": "他们给出了开发它的三个理由：“好奇心（也就是好玩）、增进人类与AI之间的理解，以及安全。”少数AI安全研究人员将获得抢先体验资格。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Dessa, la AI de Block, habla\ncomo un nuevo amigo incómodo",
+          "body": "Block, la empresa de Jack Dorsey, creó Dessa, un modelo de voz AI que habla contigo como un nuevo amigo incómodo.",
+          "mini_headline": "Dessa, la AI de voz de Block",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "Block, la empresa de Jack Dorsey, anunció un modelo de AI llamado Dessa, entrenado \"desde el principio y únicamente con conversación humana\", y compartió charlas que ha mantenido con personas y que a veces resultan un poco incómodas e inquietantes."
+              },
+              {
+                "t": "p",
+                "x": "En una de ellas, compartida por el responsable de Dessa, Ragavan Thurairatnam, el intercambio es mayormente natural, aunque al principio el modelo confunde al interlocutor con alguien llamado \"Ronaldo\"."
+              },
+              {
+                "t": "video",
+                "src": "https://video.twimg.com/amplify_video/2113669735107727360/vid/avc1/1920x1080/EQKH_QeNN-VKLfDO.mp4?tag=29"
+              },
+              {
+                "t": "p",
+                "x": "Otros ejemplos en el sitio web de Dessa incluyen una charla sobre las películas de Christopher Nolan y una conversación con GPT-Live-1, el modelo de voz de OpenAI, en la que Dessa resulta más natural. El equipo lo describe como un \"verdadero modelo speech-to-speech\" que puede ejecutarse localmente en un MacBook Pro M4 Max \"o superior\"."
+              },
+              {
+                "t": "p",
+                "x": "Citan tres razones para crearlo: \"curiosidad (es decir, diversión), un mejor entendimiento entre humanos y AI, y seguridad\". Un pequeño grupo de investigadores en seguridad de AI tendrá acceso anticipado."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "design-siemens-agentic-3d-ic",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Siemens, 3D IC\n설계 에이전틱 AI 확대",
+      "body": "Siemens는 일곱 EDA 도구로 주기당 3D IC 설계 수백 건을 평가한다.",
+      "mini_headline": "Siemens 에이전틱 3D IC",
+      "tool": "Text-to-CAD",
+      "source": "Engineering.com",
+      "url": "https://www.engineering.com/siemens-expands-agentic-ai-for-3d-ic-design-workflows/",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "Siemens가 NVIDIA와 협력해 개발한 EDA 에이전틱 AI 포트폴리오 업데이트를 발표했다. 3D 집적회로의 전기, 전력, 열, 공동 설계 분석을 지원한다. Siemens는 벤치마크 연구에서 수작업 워크플로 대비 엔지니어링 작업량을 최대 95%, 워크플로 설정 시간을 최대 99% 줄이고, 설계 탐색 범위를 최대 50배 넓혔다고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "연산과 메모리가 더 긴밀하게 통합될수록 전력 밀도와 열 집중도 높아진다. 그래서 전기·열 공동 설계는 최종 검증 단계만이 아니라 설계 과정에서부터 따져야 한다."
+          },
+          {
+            "t": "p",
+            "x": "새 워크플로에서는 엔지니어가 설계 목표를 정의하고, Intelligence Center X와 통합된 Fuse EDA AI Agent가 여러 Siemens 도구를 조율한다. 에이전트는 전기·열 연성 해석을 돌려 달성하지 못한 목표를 찾아내고, 원인이 전력 공급, 배치, 소재 중 무엇인지 또는 그 조합인지 평가한다."
+          },
+          {
+            "t": "p",
+            "x": "이 워크플로는 Innovator3D IC Integrator부터 Calibre 3DThermal, Solido SPICE까지 일곱 개의 Siemens EDA 도구에 걸쳐 아홉 단계를 조율한다. 여덟에서 10시간에 이르는 실행 동안 50~100단계의 추론을 거치고 주기마다 200개에서 500개 이상의 설계점을 평가할 수 있다. NVIDIA Nemotron 모델, NeMo 도구, CUDA-X 라이브러리가 이 에이전트 기반 워크플로를 뒷받침한다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Siemens expands agentic AI\nfor 3D IC design",
+          "body": "Siemens' agentic workflow coordinates seven EDA tools to evaluate hundreds of 3D IC design points per cycle.",
+          "mini_headline": "Siemens agentic 3D IC",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Siemens has announced updates to its EDA agentic AI portfolio, developed in collaboration with NVIDIA, to support electrical, power, thermal and co-design analysis for 3D integrated circuits. In benchmark studies, Siemens reported up to a 95% reduction in engineering effort, up to a 99% reduction in workflow setup time and up to 50 times greater design exploration coverage compared with manual workflows."
+              },
+              {
+                "t": "p",
+                "x": "As compute and memory are integrated more closely, power density and heat concentration increase, so electrothermal co-design must be considered during design rather than only at final verification."
+              },
+              {
+                "t": "p",
+                "x": "In the new workflow, an engineer defines the design objectives while the Fuse EDA AI Agent, integrated with Intelligence Center X, coordinates multiple Siemens tools. It runs coupled electrothermal analyses, identifies targets that were not met and evaluates whether the causes involve power delivery, placement, materials or a combination."
+              },
+              {
+                "t": "p",
+                "x": "The workflow coordinates nine steps across seven Siemens EDA tools, from Innovator3D IC Integrator to Calibre 3DThermal and Solido SPICE. It performs 50 to 100 reasoning steps during an eight- to 10-hour runtime and can evaluate 200 to more than 500 design points per cycle. NVIDIA Nemotron models, NeMo tools and CUDA-X libraries support the agent-driven workflow."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Siemens, 3D IC\n설계 에이전틱 AI 확대",
+          "body": "Siemens는 일곱 EDA 도구로 주기당 3D IC 설계 수백 건을 평가한다.",
+          "mini_headline": "Siemens 에이전틱 3D IC",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Siemens가 NVIDIA와 협력해 개발한 EDA 에이전틱 AI 포트폴리오 업데이트를 발표했다. 3D 집적회로의 전기, 전력, 열, 공동 설계 분석을 지원한다. Siemens는 벤치마크 연구에서 수작업 워크플로 대비 엔지니어링 작업량을 최대 95%, 워크플로 설정 시간을 최대 99% 줄이고, 설계 탐색 범위를 최대 50배 넓혔다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "연산과 메모리가 더 긴밀하게 통합될수록 전력 밀도와 열 집중도 높아진다. 그래서 전기·열 공동 설계는 최종 검증 단계만이 아니라 설계 과정에서부터 따져야 한다."
+              },
+              {
+                "t": "p",
+                "x": "새 워크플로에서는 엔지니어가 설계 목표를 정의하고, Intelligence Center X와 통합된 Fuse EDA AI Agent가 여러 Siemens 도구를 조율한다. 에이전트는 전기·열 연성 해석을 돌려 달성하지 못한 목표를 찾아내고, 원인이 전력 공급, 배치, 소재 중 무엇인지 또는 그 조합인지 평가한다."
+              },
+              {
+                "t": "p",
+                "x": "이 워크플로는 Innovator3D IC Integrator부터 Calibre 3DThermal, Solido SPICE까지 일곱 개의 Siemens EDA 도구에 걸쳐 아홉 단계를 조율한다. 여덟에서 10시간에 이르는 실행 동안 50~100단계의 추론을 거치고 주기마다 200개에서 500개 이상의 설계점을 평가할 수 있다. NVIDIA Nemotron 모델, NeMo 도구, CUDA-X 라이브러리가 이 에이전트 기반 워크플로를 뒷받침한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Siemens、3D IC\n設計向けエージェントAI拡充",
+          "body": "SiemensはEDAツール七つを連携し、サイクルごとに数百の3D IC設計点を評価する。",
+          "mini_headline": "Siemensのエージェント型3D IC",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Siemensは、NVIDIAと共同開発したEDA向けエージェント型AIポートフォリオのアップデートを発表した。3D集積回路の電気、電力、熱、協調設計の解析を支援する。ベンチマーク調査では、手作業のワークフローと比べて、エンジニアリング工数を最大95%、ワークフローの設定時間を最大99%削減し、設計探索の網羅性を最大50倍に高めたと報告している。"
+              },
+              {
+                "t": "p",
+                "x": "演算とメモリがより密接に統合されるにつれて電力密度と熱の集中が高まるため、電気・熱の協調設計は最終検証の段階だけでなく、設計の過程で考慮しなければならない。"
+              },
+              {
+                "t": "p",
+                "x": "新しいワークフローでは、エンジニアが設計目標を定め、Intelligence Center Xと統合されたFuse EDA AI Agentが複数のSiemensツールを連携させる。電気・熱の連成解析を実行し、達成できなかった目標を特定したうえで、原因が電力供給、配置、材料、あるいはその組み合わせのいずれにあるかを評価する。"
+              },
+              {
+                "t": "p",
+                "x": "このワークフローは、Innovator3D IC IntegratorからCalibre 3DThermal、Solido SPICEまで、七つのSiemens EDAツールにまたがる九つのステップを連携させる。八〜10時間の実行中に50〜100の推論ステップを行い、サイクルごとに200から500以上の設計点を評価できる。NVIDIA Nemotronモデル、NeMoツール、CUDA-Xライブラリがこのエージェント駆動のワークフローを支える。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Siemens扩展3D IC\n设计智能体AI",
+          "body": "Siemens的智能体工作流协调七款EDA工具，每个周期评估数百个3D IC设计点。",
+          "mini_headline": "Siemens智能体3D IC",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Siemens宣布更新其与NVIDIA合作开发的EDA智能体AI产品组合，以支持3D集成电路的电气、电源、热及协同设计分析。Siemens表示，在基准研究中，与手动工作流相比，工程工作量最多减少95%，工作流设置时间最多减少99%，设计探索覆盖范围最多提升至50倍。"
+              },
+              {
+                "t": "p",
+                "x": "随着计算与存储的集成日益紧密，功率密度和热量集中度不断上升，因此必须在设计过程中就考虑电热协同设计，而不只是在最终验证阶段。"
+              },
+              {
+                "t": "p",
+                "x": "在新工作流中，工程师定义设计目标，与Intelligence Center X集成的Fuse EDA AI Agent则协调多款Siemens工具。它运行耦合电热分析，找出未达成的目标，并评估原因是否涉及供电、布局、材料或其组合。"
+              },
+              {
+                "t": "p",
+                "x": "该工作流在七款Siemens EDA工具之间协调九个步骤，从Innovator3D IC Integrator到Calibre 3DThermal和Solido SPICE。在八到10小时的运行时间内，它执行50到100个推理步骤，每个周期可评估200到500多个设计点。NVIDIA Nemotron模型、NeMo工具和CUDA-X库为这一智能体驱动的工作流提供支持。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Siemens amplía su AI agéntica\npara el diseño de 3D IC",
+          "body": "El flujo agéntico de Siemens coordina siete herramientas EDA para evaluar cientos de puntos de diseño 3D IC por ciclo.",
+          "mini_headline": "AI agéntica de Siemens para 3D IC",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Siemens ha anunciado actualizaciones de su cartera de AI agéntica para EDA, desarrollada en colaboración con NVIDIA, para respaldar el análisis eléctrico, de potencia, térmico y de codiseño de circuitos integrados 3D. En estudios de referencia, Siemens informó de una reducción de hasta el 95% en el esfuerzo de ingeniería, de hasta el 99% en el tiempo de configuración del flujo de trabajo y de una cobertura de exploración de diseño hasta 50 veces mayor que con flujos manuales."
+              },
+              {
+                "t": "p",
+                "x": "A medida que la computación y la memoria se integran más estrechamente, aumentan la densidad de potencia y la concentración de calor, por lo que el codiseño electrotérmico debe considerarse durante el diseño y no solo en la verificación final."
+              },
+              {
+                "t": "p",
+                "x": "En el nuevo flujo de trabajo, un ingeniero define los objetivos de diseño mientras Fuse EDA AI Agent, integrado con Intelligence Center X, coordina varias herramientas de Siemens. Ejecuta análisis electrotérmicos acoplados, identifica los objetivos no alcanzados y evalúa si las causas tienen que ver con el suministro de energía, la colocación, los materiales o una combinación de ellos."
+              },
+              {
+                "t": "p",
+                "x": "El flujo coordina nueve pasos a través de siete herramientas EDA de Siemens, desde Innovator3D IC Integrator hasta Calibre 3DThermal y Solido SPICE. Realiza de 50 a 100 pasos de razonamiento durante una ejecución de ocho a 10 horas y puede evaluar de 200 a más de 500 puntos de diseño por ciclo. Los modelos NVIDIA Nemotron, las herramientas NeMo y las bibliotecas CUDA-X respaldan este flujo impulsado por agentes."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Siemens, 3D IC\n설계 에이전틱 AI 확대",
+          "body": "Siemens는 일곱 EDA 도구로 주기당 3D IC 설계 수백 건을 평가한다.",
+          "mini_headline": "Siemens 에이전틱 3D IC",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Siemens가 NVIDIA와 협력해 개발한 EDA 에이전틱 AI 포트폴리오의 업데이트를 발표했다. 3D 집적회로의 전기, 전력, 열, 공동 설계 분석을 지원한다. Siemens는 벤치마크 연구에서 수작업 워크플로 대비 엔지니어링 작업량을 최대 95%, 워크플로 설정 시간을 최대 99% 줄이고, 설계 탐색 범위를 최대 50배 넓혔다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "연산과 메모리가 더 긴밀하게 통합될수록 전력 밀도와 열 집중이 높아지므로, 전기·열 공동 설계를 최종 검증 단계에서만이 아니라 설계 과정에서 고려해야 한다."
+              },
+              {
+                "t": "p",
+                "x": "새 워크플로에서는 엔지니어가 설계 목표를 정의하고, Intelligence Center X와 통합된 Fuse EDA AI Agent가 여러 Siemens 도구를 조율한다. 에이전트는 전기·열 연성 해석을 실행하고, 달성하지 못한 목표를 찾아내며, 그 원인이 전력 공급, 배치, 소재 중 무엇인지 또는 그 조합인지 평가한다."
+              },
+              {
+                "t": "p",
+                "x": "이 워크플로는 Innovator3D IC Integrator부터 Calibre 3DThermal, Solido SPICE까지 일곱 개의 Siemens EDA 도구에 걸쳐 아홉 단계를 조율한다. 여덟에서 10시간에 이르는 실행 동안 50~100단계의 추론을 수행하며, 주기마다 200개에서 500개 이상의 설계점을 평가할 수 있다. NVIDIA Nemotron 모델, NeMo 도구, CUDA-X 라이브러리가 이 에이전트 기반 워크플로를 뒷받침한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Siemens、3D IC\n設計向けエージェントAI拡充",
+          "body": "SiemensはEDAツール七つを連携し、サイクルごとに数百の3D IC設計点を評価する。",
+          "mini_headline": "Siemensのエージェント型3D IC",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Siemensは、NVIDIAと共同開発したEDA向けエージェント型AIポートフォリオのアップデートを発表した。3D集積回路の電気、電力、熱、協調設計の解析を支援する。ベンチマーク調査では、手作業のワークフローと比べて、エンジニアリング工数を最大95%、ワークフローの設定時間を最大99%削減し、設計探索の網羅性を最大50倍に高めたと報告している。"
+              },
+              {
+                "t": "p",
+                "x": "演算とメモリがより密接に統合されるにつれて電力密度と熱の集中が高まるため、電気・熱の協調設計は最終検証の段階だけでなく、設計の過程で考慮しなければならない。"
+              },
+              {
+                "t": "p",
+                "x": "新しいワークフローでは、エンジニアが設計目標を定め、Intelligence Center Xと統合されたFuse EDA AI Agentが複数のSiemensツールを連携させる。電気・熱の連成解析を実行し、達成できなかった目標を特定したうえで、原因が電力供給、配置、材料、あるいはその組み合わせのいずれにあるかを評価する。"
+              },
+              {
+                "t": "p",
+                "x": "このワークフローは、Innovator3D IC IntegratorからCalibre 3DThermal、Solido SPICEまで、七つのSiemens EDAツールにまたがる九つのステップを連携させる。八〜10時間の実行中に50〜100の推論ステップを行い、サイクルごとに200から500以上の設計点を評価できる。NVIDIA Nemotronモデル、NeMoツール、CUDA-Xライブラリがこのエージェント駆動のワークフローを支える。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Siemens扩展3D IC\n设计智能体AI",
+          "body": "Siemens的智能体工作流协调七款EDA工具，每个周期评估数百个3D IC设计点。",
+          "mini_headline": "Siemens智能体3D IC",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Siemens宣布更新其与NVIDIA合作开发的EDA智能体AI产品组合，以支持3D集成电路的电气、电源、热及协同设计分析。Siemens表示，在基准研究中，与手动工作流相比，工程工作量最多减少95%，工作流设置时间最多减少99%，设计探索覆盖范围最多提升至50倍。"
+              },
+              {
+                "t": "p",
+                "x": "随着计算与存储的集成日益紧密，功率密度和热量集中度不断上升，因此必须在设计过程中就考虑电热协同设计，而不只是在最终验证阶段。"
+              },
+              {
+                "t": "p",
+                "x": "在新工作流中，工程师定义设计目标，与Intelligence Center X集成的Fuse EDA AI Agent则协调多款Siemens工具。它运行耦合电热分析，找出未达成的目标，并评估原因是否涉及供电、布局、材料或其组合。"
+              },
+              {
+                "t": "p",
+                "x": "该工作流在七款Siemens EDA工具之间协调九个步骤，从Innovator3D IC Integrator到Calibre 3DThermal和Solido SPICE。在八到10小时的运行时间内，它执行50到100个推理步骤，每个周期可评估200到500多个设计点。NVIDIA Nemotron模型、NeMo工具和CUDA-X库为这一智能体驱动的工作流提供支持。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Siemens amplía su AI agéntica\npara el diseño de 3D IC",
+          "body": "El flujo agéntico de Siemens coordina siete herramientas EDA para evaluar cientos de puntos de diseño 3D IC por ciclo.",
+          "mini_headline": "AI agéntica de Siemens para 3D IC",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Siemens ha anunciado actualizaciones de su cartera de AI agéntica para EDA, desarrollada en colaboración con NVIDIA, para respaldar el análisis eléctrico, de potencia, térmico y de codiseño de circuitos integrados 3D. En estudios de referencia, Siemens informó de una reducción de hasta el 95% en el esfuerzo de ingeniería, de hasta el 99% en el tiempo de configuración del flujo de trabajo y de una cobertura de exploración de diseño hasta 50 veces mayor que con flujos manuales."
+              },
+              {
+                "t": "p",
+                "x": "A medida que la computación y la memoria se integran más estrechamente, aumentan la densidad de potencia y la concentración de calor, por lo que el codiseño electrotérmico debe considerarse durante el diseño y no solo en la verificación final."
+              },
+              {
+                "t": "p",
+                "x": "En el nuevo flujo de trabajo, un ingeniero define los objetivos de diseño mientras Fuse EDA AI Agent, integrado con Intelligence Center X, coordina varias herramientas de Siemens. Ejecuta análisis electrotérmicos acoplados, identifica los objetivos no alcanzados y evalúa si las causas tienen que ver con el suministro de energía, la colocación, los materiales o una combinación de ellos."
+              },
+              {
+                "t": "p",
+                "x": "El flujo coordina nueve pasos a través de siete herramientas EDA de Siemens, desde Innovator3D IC Integrator hasta Calibre 3DThermal y Solido SPICE. Realiza de 50 a 100 pasos de razonamiento durante una ejecución de ocho a 10 horas y puede evaluar de 200 a más de 500 puntos de diseño por ciclo. Los modelos NVIDIA Nemotron, las herramientas NeMo y las bibliotecas CUDA-X respaldan este flujo impulsado por agentes."
               }
             ]
           }

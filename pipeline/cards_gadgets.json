@@ -1,239 +1,215 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "section": "gadgets",
   "cards": [
     {
-      "id": "gadgets-iwork-assistant",
+      "id": "gadgets-gemini-sites-export",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Pages·Keynote·\nNumbers에 AI 비서",
-      "body": "Apple이 Pages·Keynote·Numbers에 새 AI 비서를 들인다.",
-      "mini_headline": "iWork에 AI 비서",
       "tool": "Gadgets",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/10/22/pages-keynote-numbers-just-added-powerful-new-ai-features/",
+      "eyebrow": "AI NEWS",
+      "headline": "Gemini 앱, 원클릭에\nGoogle Sites로",
+      "body": "Google은 Gemini-built 웹앱을 원클릭으로 Sites에 내보내게 했다.",
+      "mini_headline": "Gemini 앱, Sites로 내보내기",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/gemini-web-apps-google-sites-export-3727259/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "Gemini로 멋진 걸 만드는 일과 그걸 챗봇 밖으로 꺼내 실제로 쓸 사람에게 건네는 일은 별개다. Google은 Workspace 공지에서 이제 사용자가 Gemini에서 만든 인터랙티브 앱을 Google Sites로 바로 내보낼 수 있다고 밝혔다. 계산기든 퀴즈든 정교한 대시보드든, 코드를 복사하거나 다른 곳에서 다시 만들 필요가 없다."
+          },
+          {
+            "t": "p",
+            "x": "Gemini에서 결과물이 완성되면 Export > Google Sites를 선택하면 된다. 그러면 앱이 미리 들어 있어 바로 조작해 볼 수 있는 비공개 Sites 초안이 자동으로 새로 열린다."
+          },
+          {
             "t": "img",
-            "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&strip=all&w=1600"
-          },
-          {
-            "t": "p",
-            "x": "Apple이 iWork 제품군인 Pages, Keynote, Numbers에 AI-centric 업데이트를 내놓는다. 강력한 기능을 갖춘 완전히 새 ‘Intelligent Assistant’도 함께 들어간다."
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-1.jpg"
           },
           {
             "t": "img",
-            "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&strip=all"
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-2.jpg"
           },
           {
             "t": "p",
-            "x": "Apple Creator Studio를 구독하면 Apple의 최신 Pages, Keynote, Numbers 업데이트에서 Intelligent Assistant를 쓸 수 있다. Siri AI와는 별개 기능으로 보이며, 앱 안에서 여러 방식으로 작업을 거든다. Intelligent Assistant는 US 영어 베타로만 나오고, iOS 27 이상이 필요하다."
+            "x": "그다음 앱을 둘러싼 웹사이트를 꾸미고 보조 콘텐츠를 붙여 게시한다. 교사가 Gemini-generated 퀴즈를 수업 자료로 바꾸는 경우를 떠올리면 된다. Google의 시연에는 진행 지표와 차트를 갖춘 팀 성과 대시보드가 나온다."
           },
           {
             "t": "p",
-            "x": "Apple의 릴리스 노트를 보면 Pages에서는 초안을 시작한 뒤 글을 편집·정리하고 다듬는다. 섹션 초안을 쓰고 어조를 조정하며, 자연어로 이미지·도형도 만든다. Keynote는 스토리를 구성하고 애니메이션을 더하고 슬라이드를 다듬으며, 슬라이드·발표자 노트·이미지·도형을 생성한다. Numbers는 인사이트를 찾고 복잡한 수식을 만들며 데이터를 시각화한다. 표를 생성하고 차트를 제안하며 수식 작성도 돕는다. 모든 앱에서 특정 주제의 최신 정보를 검색해 반영할 수도 있다."
-          },
-          {
-            "t": "p",
-            "x": "Apple Creator Studio 구독자용 AI 기능과 별도로, Keynote에서는 누구나 새 Interchange Format(.keyx)으로 프레젠테이션을 가져오고 내보낼 수 있다. Apple은 이 형식을 다른 앱에서 Keynote 파일을 편집하기 쉽게 해 주는 개방형 파일 형식이라고 설명한다."
-          },
-          {
-            "t": "p",
-            "x": "9to5Mac은 iWork 앱을 모두 업데이트했지만 Intelligent Assistant는 아직 보지 못했다. Apple이 곧 켤 서버 측 요소가 있을지도 모른다."
+            "x": "유료 Workspace 고객만 쓰는 기능도 아니다. 자격을 갖춘 Google Workspace, Workspace Individual, 개인 Google 계정 사용자라면 지금 웹, Android, iOS에서 쓸 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Pages, Keynote and Numbers\nget an Intelligent Assistant",
-          "body": "Apple is rolling out AI-centric iWork updates that include a new Intelligent Assistant in Pages, Keynote and Numbers.",
-          "mini_headline": "iWork gets an AI assistant",
+          "headline": "Gemini web apps now export\nto Google Sites in one click",
+          "body": "Google now lets eligible accounts export Gemini-built web apps to Google Sites in one click on web, Android and iOS.",
+          "mini_headline": "Gemini apps export to Sites",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Building something cool with Gemini is one thing; getting it out of the chatbot and into the hands of people who could use it is another. In a Workspace announcement, Google confirms that users can now export interactive apps created in Gemini directly to Google Sites — whether a calculator, quiz or elaborate dashboard — without copying code or rebuilding the experience elsewhere."
+              },
+              {
+                "t": "p",
+                "x": "Once your creation is ready in Gemini, select Export > Google Sites. Google automatically opens a new, private Sites draft with your app already embedded and fully interactive."
+              },
+              {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Apple is rolling out AI-centric updates to its iWork suite—Pages, Keynote, Numbers—that include a brand new ‘Intelligent Assistant’ with powerful capabilities."
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-1.jpg"
               },
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&strip=all"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-2.jpg"
               },
               {
                 "t": "p",
-                "x": "If you subscribe to Apple Creator Studio, Apple’s latest updates to Pages, Keynote, and Numbers add an Intelligent Assistant—seemingly separate from Siri AI—that will help you in a variety of ways inside the apps. Intelligent Assistant is available in beta in US English only, and requires iOS 27 or later."
+                "x": "From there, you can customize the surrounding website, add supporting content and publish it — think of a teacher turning a Gemini-generated quiz into a classroom resource. Google's demo shows a team performance dashboard with progress indicators and charts."
               },
               {
                 "t": "p",
-                "x": "Per Apple’s release notes, in Pages it can start a first draft, then edit, organize, and elevate your writing, draft a section, adjust your tone, or generate images and shapes using natural language. In Keynote it can build your story, add animations, refine your slides, and generate slides, presenter notes, images, and shapes. In Numbers it can uncover insights, build complex formulas, visualize your data, generate tables, suggest charts and help with formulas. In every app it can search for up-to-date information on a topic and incorporate it."
-              },
-              {
-                "t": "p",
-                "x": "Beyond these AI features for Apple Creator Studio subscribers, Keynote will let all users import and export presentations in a new Interchange Format (.keyx), which Apple says is an open file format that will make it easier to edit Keynote files in other apps."
-              },
-              {
-                "t": "p",
-                "x": "9to5Mac updated all iWork apps and doesn’t yet see the Intelligent Assistant, but it’s possible there’s a server-side component that Apple will imminently activate."
+                "x": "The feature isn't reserved for paying Workspace customers: it is available now on the web, Android and iOS for eligible Google Workspace, Workspace Individual and personal Google account users."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Pages·Keynote·\nNumbers에 AI 비서",
-          "body": "Apple이 Pages·Keynote·Numbers에 새 AI 비서를 들인다.",
-          "mini_headline": "iWork에 AI 비서",
+          "headline": "Gemini 앱, 원클릭에\nGoogle Sites로",
+          "body": "Google은 Gemini-built 웹앱을 원클릭으로 Sites에 내보내게 했다.",
+          "mini_headline": "Gemini 앱, Sites로 내보내기",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Gemini로 멋진 걸 만드는 일과 그걸 챗봇 밖으로 꺼내 실제로 쓸 사람에게 건네는 일은 별개다. Google은 Workspace 공지에서 이제 사용자가 Gemini에서 만든 인터랙티브 앱을 Google Sites로 바로 내보낼 수 있다고 밝혔다. 계산기든 퀴즈든 정교한 대시보드든, 코드를 복사하거나 다른 곳에서 다시 만들 필요가 없다."
+              },
+              {
+                "t": "p",
+                "x": "Gemini에서 결과물이 완성되면 Export > Google Sites를 선택하면 된다. 그러면 앱이 미리 들어 있어 바로 조작해 볼 수 있는 비공개 Sites 초안이 자동으로 새로 열린다."
+              },
+              {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Apple이 iWork 제품군인 Pages, Keynote, Numbers에 AI-centric 업데이트를 내놓는다. 강력한 기능을 갖춘 완전히 새 ‘Intelligent Assistant’도 함께 들어간다."
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-1.jpg"
               },
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&strip=all"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-2.jpg"
               },
               {
                 "t": "p",
-                "x": "Apple Creator Studio를 구독하면 Apple의 최신 Pages, Keynote, Numbers 업데이트에서 Intelligent Assistant를 쓸 수 있다. Siri AI와는 별개 기능으로 보이며, 앱 안에서 여러 방식으로 작업을 거든다. Intelligent Assistant는 US 영어 베타로만 나오고, iOS 27 이상이 필요하다."
+                "x": "그다음 앱을 둘러싼 웹사이트를 꾸미고 보조 콘텐츠를 붙여 게시한다. 교사가 Gemini-generated 퀴즈를 수업 자료로 바꾸는 경우를 떠올리면 된다. Google의 시연에는 진행 지표와 차트를 갖춘 팀 성과 대시보드가 나온다."
               },
               {
                 "t": "p",
-                "x": "Apple의 릴리스 노트를 보면 Pages에서는 초안을 시작한 뒤 글을 편집·정리하고 다듬는다. 섹션 초안을 쓰고 어조를 조정하며, 자연어로 이미지·도형도 만든다. Keynote는 스토리를 구성하고 애니메이션을 더하고 슬라이드를 다듬으며, 슬라이드·발표자 노트·이미지·도형을 생성한다. Numbers는 인사이트를 찾고 복잡한 수식을 만들며 데이터를 시각화한다. 표를 생성하고 차트를 제안하며 수식 작성도 돕는다. 모든 앱에서 특정 주제의 최신 정보를 검색해 반영할 수도 있다."
-              },
-              {
-                "t": "p",
-                "x": "Apple Creator Studio 구독자용 AI 기능과 별도로, Keynote에서는 누구나 새 Interchange Format(.keyx)으로 프레젠테이션을 가져오고 내보낼 수 있다. Apple은 이 형식을 다른 앱에서 Keynote 파일을 편집하기 쉽게 해 주는 개방형 파일 형식이라고 설명한다."
-              },
-              {
-                "t": "p",
-                "x": "9to5Mac은 iWork 앱을 모두 업데이트했지만 Intelligent Assistant는 아직 보지 못했다. Apple이 곧 켤 서버 측 요소가 있을지도 모른다."
+                "x": "유료 Workspace 고객만 쓰는 기능도 아니다. 자격을 갖춘 Google Workspace, Workspace Individual, 개인 Google 계정 사용자라면 지금 웹, Android, iOS에서 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Pages・Keynote・\nNumbersにAI支援機能",
-          "body": "AppleがPages・Keynote・Numbersに新しいAIアシスタントを追加する。",
-          "mini_headline": "iWorkにAIアシスタント",
+          "headline": "Geminiのアプリを\nGoogle Sitesへ",
+          "body": "GoogleはGemini-builtアプリをSitesへワンクリックで出力可能にした。",
+          "mini_headline": "GeminiアプリをSitesへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Geminiで面白いものを作ることと、それをチャットボットの外へ出し、使ってくれる人の手に届けることは別の話だ。GoogleはWorkspaceの告知で、Geminiで作成したインタラクティブなアプリをGoogle Sitesへ直接書き出せるようになったと明らかにした。電卓でもクイズでも凝ったダッシュボードでも、コードをコピーしたり別の場所で作り直したりする必要はない。"
+              },
+              {
+                "t": "p",
+                "x": "Geminiで作品が完成したら、Export > Google Sitesを選ぶ。Googleが新しい非公開のSites下書きを自動で開き、アプリはすでに埋め込まれ、そのまま操作できる状態になっている。"
+              },
+              {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "AppleはiWorkスイート（Pages、Keynote、Numbers）にAI中心（AI-centric）のアップデートを配信している。強力な機能を備えたまったく新しい「Intelligent Assistant」が含まれる。"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-1.jpg"
               },
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&strip=all"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-2.jpg"
               },
               {
                 "t": "p",
-                "x": "Apple Creator Studioを購読していれば、Pages、Keynote、Numbersの最新アップデートでIntelligent Assistantが加わる。Siri AIとは別物とみられ、アプリ内でさまざまな形で作業を手助けする。Intelligent AssistantはUS英語のみのベータ版で、iOS 27以降が必要だ。"
+                "x": "そこから周囲のWebサイトをカスタマイズし、補足コンテンツを加えて公開できる。教師がGemini-generatedのクイズを授業用の教材にする、といった使い方だ。Googleのデモでは、進捗インジケーターとグラフを備えたチームの成績ダッシュボードが示されている。"
               },
               {
                 "t": "p",
-                "x": "Appleのリリースノートによると、Pagesでは最初の下書きを始め、文章の編集・整理・ブラッシュアップ、セクションの下書き、トーンの調整、自然言語による画像や図形の生成ができる。Keynoteではストーリーの構成、アニメーションの追加、スライドの調整に加え、スライド、発表者ノート、画像、図形を生成できる。Numbersではインサイトの発見、複雑な数式の作成、データの可視化、表の生成、グラフの提案、数式の補助を行う。どのアプリでも、あるトピックの最新情報を検索して取り込める。"
-              },
-              {
-                "t": "p",
-                "x": "Apple Creator Studio購読者向けのAI機能とは別に、Keynoteではすべてのユーザーが新しいInterchange Format（.keyx）でプレゼンテーションを読み込み・書き出しできるようになる。Appleによれば、これはオープンなファイル形式で、ほかのアプリでKeynoteファイルを編集しやすくなるという。"
-              },
-              {
-                "t": "p",
-                "x": "9to5MacはすべてのiWorkアプリを更新したが、まだIntelligent Assistantは確認できていない。ただし、Appleが近くサーバー側で有効化する可能性もある。"
+                "x": "この機能は有料のWorkspace顧客に限らない。対象となるGoogle Workspace、Workspace Individual、個人のGoogleアカウントのユーザーは、Web、Android、iOSで今すぐ利用できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Pages、Keynote、\nNumbers迎来AI助手",
-          "body": "Apple正为Pages、Keynote和Numbers推出新的AI智能助手。",
-          "mini_headline": "iWork迎来AI助手",
+          "headline": "Gemini应用一键导出\n至Google Sites",
+          "body": "Google让用户一键将Gemini-built应用导出至Google Sites。",
+          "mini_headline": "Gemini应用可导出至Sites",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "用Gemini做出好东西是一回事，把它从聊天机器人里拿出来、交到用得上的人手中又是另一回事。Google在一则Workspace公告中确认，用户现在可以将在Gemini中创建的交互式应用直接导出到Google Sites——无论是计算器、测验还是复杂的仪表板——无需复制代码，也不必在别处重新搭建。"
+              },
+              {
+                "t": "p",
+                "x": "在Gemini中完成作品后，选择Export > Google Sites即可。Google会自动打开一个新的私密Sites草稿，应用已嵌入其中且可完整交互。"
+              },
+              {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Apple正在为其iWork套件（Pages、Keynote、Numbers）推出以AI为核心（AI-centric）的更新，其中包括功能强大的全新“Intelligent Assistant”。"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-1.jpg"
               },
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&strip=all"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-2.jpg"
               },
               {
                 "t": "p",
-                "x": "如果你订阅了Apple Creator Studio，Apple对Pages、Keynote和Numbers的最新更新会加入Intelligent Assistant——它似乎独立于Siri AI——可在应用内以多种方式提供帮助。Intelligent Assistant目前仅以US英语提供测试版，并需要iOS 27或更高版本。"
+                "x": "之后，你可以自定义周围的网站、添加辅助内容并发布——比如老师把Gemini-generated测验变成课堂资源。Google的演示展示了一个带有进度指示器和图表的团队绩效仪表板。"
               },
               {
                 "t": "p",
-                "x": "根据Apple的发布说明，在Pages中，它可以起草初稿，再编辑、整理和润色文字，起草某个章节，调整语气，或用自然语言生成图像和形状。在Keynote中，它可以搭建故事线、添加动画、优化幻灯片，并生成幻灯片、演讲者备注、图像和形状。在Numbers中，它可以发掘洞见、构建复杂公式、可视化数据、生成表格、推荐图表并协助编写公式。在所有应用中，它都能搜索某一主题的最新信息并加以整合。"
-              },
-              {
-                "t": "p",
-                "x": "除了面向Apple Creator Studio订阅用户的这些AI功能，Keynote还将允许所有用户以新的Interchange Format（.keyx）导入和导出演示文稿。Apple表示，这是一种开放文件格式，能让用户更容易在其他应用中编辑Keynote文件。"
-              },
-              {
-                "t": "p",
-                "x": "9to5Mac已更新所有iWork应用，但尚未看到Intelligent Assistant；Apple可能即将在服务器端启用相关功能。"
+                "x": "该功能并非付费Workspace客户专属：符合条件的Google Workspace、Workspace Individual及个人Google账户用户，现在即可在网页、Android和iOS上使用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Pages, Keynote y Numbers\nestrenan Intelligent Assistant",
-          "body": "Apple lanza actualizaciones de iWork centradas en AI con un Intelligent Assistant en Pages, Keynote y Numbers.",
-          "mini_headline": "iWork estrena un asistente de AI",
+          "headline": "Las apps web de Gemini pasan\na Google Sites con un clic",
+          "body": "Google permite a cuentas elegibles exportar apps web Gemini-built a Google Sites con un clic en web, Android e iOS.",
+          "mini_headline": "Apps de Gemini a Sites",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Crear algo interesante con Gemini es una cosa; sacarlo del chatbot y ponerlo en manos de quienes podrían usarlo es otra. En un anuncio de Workspace, Google confirma que los usuarios ya pueden exportar las apps interactivas creadas en Gemini directamente a Google Sites —ya sea una calculadora, un cuestionario o un panel elaborado— sin copiar código ni reconstruir la experiencia en otro lugar."
+              },
+              {
+                "t": "p",
+                "x": "Cuando la creación esté lista en Gemini, basta con seleccionar Export > Google Sites. Google abre automáticamente un nuevo borrador privado de Sites con la app ya integrada y totalmente interactiva."
+              },
+              {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Apple está lanzando actualizaciones centradas en la AI (AI-centric) para su suite iWork —Pages, Keynote y Numbers— que incluyen un ‘Intelligent Assistant’ totalmente nuevo con funciones potentes."
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-1.jpg"
               },
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&strip=all"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-2.jpg"
               },
               {
                 "t": "p",
-                "x": "Si estás suscrito a Apple Creator Studio, las últimas actualizaciones de Apple para Pages, Keynote y Numbers añaden un Intelligent Assistant —aparentemente independiente de Siri AI— que te ayudará de diversas maneras dentro de las apps. Intelligent Assistant está disponible en beta solo en inglés de US y requiere iOS 27 o posterior."
+                "x": "A partir de ahí, se puede personalizar el sitio web que la rodea, añadir contenido complementario y publicarlo; por ejemplo, un docente que convierte un cuestionario Gemini-generated en un recurso para el aula. La demostración de Google muestra un panel de rendimiento de equipo con indicadores de progreso y gráficos."
               },
               {
                 "t": "p",
-                "x": "Según las notas de la versión de Apple, en Pages puede comenzar un primer borrador y luego editar, organizar y mejorar tu escritura, redactar una sección, ajustar el tono o generar imágenes y formas con lenguaje natural. En Keynote puede construir tu historia, añadir animaciones, pulir las diapositivas y generar diapositivas, notas del presentador, imágenes y formas. En Numbers puede descubrir información útil, crear fórmulas complejas, visualizar tus datos, generar tablas, sugerir gráficos y ayudar con fórmulas. En todas las apps puede buscar información actualizada sobre un tema e incorporarla."
-              },
-              {
-                "t": "p",
-                "x": "Más allá de estas funciones de AI para suscriptores de Apple Creator Studio, Keynote permitirá a todos los usuarios importar y exportar presentaciones en un nuevo Interchange Format (.keyx), que según Apple es un formato de archivo abierto que facilitará editar archivos de Keynote en otras apps."
-              },
-              {
-                "t": "p",
-                "x": "9to5Mac actualizó todas las apps de iWork y aún no ve el Intelligent Assistant, pero es posible que exista un componente del lado del servidor que Apple active de forma inminente."
+                "x": "La función no está reservada a los clientes de pago de Workspace: ya está disponible en la web, Android e iOS para usuarios elegibles de Google Workspace, Workspace Individual y cuentas personales de Google."
               }
             ]
           }
@@ -241,153 +217,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Pages·Keynote·\nNumbers에 AI 비서",
-          "body": "Apple이 Pages·Keynote·Numbers에 AI 비서를 새로 넣는다.",
-          "mini_headline": "iWork에 AI 비서",
+          "headline": "Gemini 앱, 원클릭에\nGoogle Sites로",
+          "body": "Google은 Gemini-built 웹앱을 원클릭으로 Sites에 내보내게 했다.",
+          "mini_headline": "Gemini 앱, Sites로 내보내기",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Gemini로 멋진 것을 만드는 일과 그것을 챗봇 밖으로 꺼내 실제로 쓸 사람들에게 건네는 일은 별개다. Google은 Workspace 공지에서 이제 사용자가 Gemini에서 만든 인터랙티브 앱을 Google Sites로 바로 내보낼 수 있다고 밝혔다. 계산기든 퀴즈든 정교한 대시보드든, 코드를 복사하거나 다른 곳에서 다시 만들 필요가 없다."
+              },
+              {
+                "t": "p",
+                "x": "Gemini에서 결과물이 완성되면 Export > Google Sites를 선택하면 된다. 그러면 Google이 앱을 미리 넣어 바로 조작할 수 있는 새 비공개 Sites 초안을 자동으로 연다."
+              },
+              {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Apple이 iWork 제품군인 Pages, Keynote, Numbers에 AI-centric 업데이트를 내놓고 있다. 강력한 기능을 갖춘 완전히 새로운 ‘Intelligent Assistant’가 포함된다."
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-1.jpg"
               },
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&strip=all"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-2.jpg"
               },
               {
                 "t": "p",
-                "x": "Apple Creator Studio를 구독하면 Apple의 최신 Pages, Keynote, Numbers 업데이트로 Intelligent Assistant가 추가된다. Siri AI와는 별개로 보이는 이 기능은 앱 안에서 다양한 방식으로 작업을 돕는다. Intelligent Assistant는 US 영어로만 베타 제공되며, iOS 27 이상이 필요하다."
+                "x": "이후 주변 웹사이트를 꾸미고 보조 콘텐츠를 더해 게시할 수 있다. 교사가 Gemini-generated 퀴즈를 수업 자료로 바꾸는 경우를 떠올리면 된다. Google의 시연에는 진행 지표와 차트를 갖춘 팀 성과 대시보드가 나온다."
               },
               {
                 "t": "p",
-                "x": "Apple의 릴리스 노트에 따르면 Pages에서는 초안을 시작한 뒤 글을 편집·정리하고 다듬으며, 섹션 초안 작성, 어조 조정, 자연어를 이용한 이미지·도형 생성을 할 수 있다. Keynote에서는 스토리를 구성하고 애니메이션을 더하고 슬라이드를 다듬으며, 슬라이드·발표자 노트·이미지·도형을 생성한다. Numbers에서는 인사이트를 찾아내고 복잡한 수식을 만들고 데이터를 시각화하며, 표를 생성하고 차트를 제안하고 수식 작성을 돕는다. 모든 앱에서 특정 주제의 최신 정보를 검색해 반영할 수도 있다."
-              },
-              {
-                "t": "p",
-                "x": "Apple Creator Studio 구독자를 위한 AI 기능 외에, Keynote는 모든 사용자가 새로운 Interchange Format(.keyx)으로 프레젠테이션을 가져오고 내보낼 수 있게 한다. Apple은 이 형식이 다른 앱에서 Keynote 파일을 편집하기 쉽게 해주는 개방형 파일 형식이라고 설명한다."
-              },
-              {
-                "t": "p",
-                "x": "9to5Mac은 모든 iWork 앱을 업데이트했지만 아직 Intelligent Assistant를 확인하지 못했다. Apple이 곧 활성화할 서버 측 요소가 있을 가능성도 있다."
+                "x": "이 기능은 유료 Workspace 고객 전용이 아니다. 자격을 갖춘 Google Workspace, Workspace Individual, 개인 Google 계정 사용자라면 지금 웹, Android, iOS에서 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Pages・Keynote・\nNumbersにAI支援機能",
-          "body": "AppleがPages・Keynote・Numbersに新しいAIアシスタントを追加する。",
-          "mini_headline": "iWorkにAIアシスタント",
+          "headline": "Geminiのアプリを\nGoogle Sitesへ",
+          "body": "GoogleはGemini-builtアプリをSitesへワンクリックで出力可能にした。",
+          "mini_headline": "GeminiアプリをSitesへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Geminiで面白いものを作ることと、それをチャットボットの外へ出し、使ってくれる人の手に届けることは別の話だ。GoogleはWorkspaceの告知で、Geminiで作成したインタラクティブなアプリをGoogle Sitesへ直接書き出せるようになったと明らかにした。電卓でもクイズでも凝ったダッシュボードでも、コードをコピーしたり別の場所で作り直したりする必要はない。"
+              },
+              {
+                "t": "p",
+                "x": "Geminiで作品が完成したら、Export > Google Sitesを選ぶ。Googleが新しい非公開のSites下書きを自動で開き、アプリはすでに埋め込まれ、そのまま操作できる状態になっている。"
+              },
+              {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "AppleはiWorkスイート（Pages、Keynote、Numbers）にAI中心（AI-centric）のアップデートを配信している。強力な機能を備えたまったく新しい「Intelligent Assistant」が含まれる。"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-1.jpg"
               },
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&strip=all"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-2.jpg"
               },
               {
                 "t": "p",
-                "x": "Apple Creator Studioを購読していれば、Pages、Keynote、Numbersの最新アップデートでIntelligent Assistantが加わる。Siri AIとは別物とみられ、アプリ内でさまざまな形で作業を手助けする。Intelligent AssistantはUS英語のみのベータ版で、iOS 27以降が必要だ。"
+                "x": "そこから周囲のWebサイトをカスタマイズし、補足コンテンツを加えて公開できる。教師がGemini-generatedのクイズを授業用の教材にする、といった使い方だ。Googleのデモでは、進捗インジケーターとグラフを備えたチームの成績ダッシュボードが示されている。"
               },
               {
                 "t": "p",
-                "x": "Appleのリリースノートによると、Pagesでは最初の下書きを始め、文章の編集・整理・ブラッシュアップ、セクションの下書き、トーンの調整、自然言語による画像や図形の生成ができる。Keynoteではストーリーの構成、アニメーションの追加、スライドの調整に加え、スライド、発表者ノート、画像、図形を生成できる。Numbersではインサイトの発見、複雑な数式の作成、データの可視化、表の生成、グラフの提案、数式の補助を行う。どのアプリでも、あるトピックの最新情報を検索して取り込める。"
-              },
-              {
-                "t": "p",
-                "x": "Apple Creator Studio購読者向けのAI機能とは別に、Keynoteではすべてのユーザーが新しいInterchange Format（.keyx）でプレゼンテーションを読み込み・書き出しできるようになる。Appleによれば、これはオープンなファイル形式で、ほかのアプリでKeynoteファイルを編集しやすくなるという。"
-              },
-              {
-                "t": "p",
-                "x": "9to5MacはすべてのiWorkアプリを更新したが、まだIntelligent Assistantは確認できていない。ただし、Appleが近くサーバー側で有効化する可能性もある。"
+                "x": "この機能は有料のWorkspace顧客に限らない。対象となるGoogle Workspace、Workspace Individual、個人のGoogleアカウントのユーザーは、Web、Android、iOSで今すぐ利用できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Pages、Keynote、\nNumbers迎来AI助手",
-          "body": "Apple正为Pages、Keynote和Numbers推出新的AI智能助手。",
-          "mini_headline": "iWork迎来AI助手",
+          "headline": "Gemini应用一键导出\n至Google Sites",
+          "body": "Google让用户一键将Gemini-built应用导出至Google Sites。",
+          "mini_headline": "Gemini应用可导出至Sites",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "用Gemini做出好东西是一回事，把它从聊天机器人里拿出来、交到用得上的人手中又是另一回事。Google在一则Workspace公告中确认，用户现在可以将在Gemini中创建的交互式应用直接导出到Google Sites——无论是计算器、测验还是复杂的仪表板——无需复制代码，也不必在别处重新搭建。"
+              },
+              {
+                "t": "p",
+                "x": "在Gemini中完成作品后，选择Export > Google Sites即可。Google会自动打开一个新的私密Sites草稿，应用已嵌入其中且可完整交互。"
+              },
+              {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Apple正在为其iWork套件（Pages、Keynote、Numbers）推出以AI为核心（AI-centric）的更新，其中包括功能强大的全新“Intelligent Assistant”。"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-1.jpg"
               },
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&strip=all"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-2.jpg"
               },
               {
                 "t": "p",
-                "x": "如果你订阅了Apple Creator Studio，Apple对Pages、Keynote和Numbers的最新更新会加入Intelligent Assistant——它似乎独立于Siri AI——可在应用内以多种方式提供帮助。Intelligent Assistant目前仅以US英语提供测试版，并需要iOS 27或更高版本。"
+                "x": "之后，你可以自定义周围的网站、添加辅助内容并发布——比如老师把Gemini-generated测验变成课堂资源。Google的演示展示了一个带有进度指示器和图表的团队绩效仪表板。"
               },
               {
                 "t": "p",
-                "x": "根据Apple的发布说明，在Pages中，它可以起草初稿，再编辑、整理和润色文字，起草某个章节，调整语气，或用自然语言生成图像和形状。在Keynote中，它可以搭建故事线、添加动画、优化幻灯片，并生成幻灯片、演讲者备注、图像和形状。在Numbers中，它可以发掘洞见、构建复杂公式、可视化数据、生成表格、推荐图表并协助编写公式。在所有应用中，它都能搜索某一主题的最新信息并加以整合。"
-              },
-              {
-                "t": "p",
-                "x": "除了面向Apple Creator Studio订阅用户的这些AI功能，Keynote还将允许所有用户以新的Interchange Format（.keyx）导入和导出演示文稿。Apple表示，这是一种开放文件格式，能让用户更容易在其他应用中编辑Keynote文件。"
-              },
-              {
-                "t": "p",
-                "x": "9to5Mac已更新所有iWork应用，但尚未看到Intelligent Assistant；Apple可能即将在服务器端启用相关功能。"
+                "x": "该功能并非付费Workspace客户专属：符合条件的Google Workspace、Workspace Individual及个人Google账户用户，现在即可在网页、Android和iOS上使用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Pages, Keynote y Numbers\nestrenan Intelligent Assistant",
-          "body": "Apple lanza actualizaciones de iWork centradas en AI con un Intelligent Assistant en Pages, Keynote y Numbers.",
-          "mini_headline": "iWork estrena un asistente de AI",
+          "headline": "Las apps web de Gemini pasan\na Google Sites con un clic",
+          "body": "Google permite a cuentas elegibles exportar apps web Gemini-built a Google Sites con un clic en web, Android e iOS.",
+          "mini_headline": "Apps de Gemini a Sites",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Crear algo interesante con Gemini es una cosa; sacarlo del chatbot y ponerlo en manos de quienes podrían usarlo es otra. En un anuncio de Workspace, Google confirma que los usuarios ya pueden exportar las apps interactivas creadas en Gemini directamente a Google Sites —ya sea una calculadora, un cuestionario o un panel elaborado— sin copiar código ni reconstruir la experiencia en otro lugar."
+              },
+              {
+                "t": "p",
+                "x": "Cuando la creación esté lista en Gemini, basta con seleccionar Export > Google Sites. Google abre automáticamente un nuevo borrador privado de Sites con la app ya integrada y totalmente interactiva."
+              },
+              {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Apple está lanzando actualizaciones centradas en la AI (AI-centric) para su suite iWork —Pages, Keynote y Numbers— que incluyen un ‘Intelligent Assistant’ totalmente nuevo con funciones potentes."
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-1.jpg"
               },
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&strip=all"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-2.jpg"
               },
               {
                 "t": "p",
-                "x": "Si estás suscrito a Apple Creator Studio, las últimas actualizaciones de Apple para Pages, Keynote y Numbers añaden un Intelligent Assistant —aparentemente independiente de Siri AI— que te ayudará de diversas maneras dentro de las apps. Intelligent Assistant está disponible en beta solo en inglés de US y requiere iOS 27 o posterior."
+                "x": "A partir de ahí, se puede personalizar el sitio web que la rodea, añadir contenido complementario y publicarlo; por ejemplo, un docente que convierte un cuestionario Gemini-generated en un recurso para el aula. La demostración de Google muestra un panel de rendimiento de equipo con indicadores de progreso y gráficos."
               },
               {
                 "t": "p",
-                "x": "Según las notas de la versión de Apple, en Pages puede comenzar un primer borrador y luego editar, organizar y mejorar tu escritura, redactar una sección, ajustar el tono o generar imágenes y formas con lenguaje natural. En Keynote puede construir tu historia, añadir animaciones, pulir las diapositivas y generar diapositivas, notas del presentador, imágenes y formas. En Numbers puede descubrir información útil, crear fórmulas complejas, visualizar tus datos, generar tablas, sugerir gráficos y ayudar con fórmulas. En todas las apps puede buscar información actualizada sobre un tema e incorporarla."
-              },
-              {
-                "t": "p",
-                "x": "Más allá de estas funciones de AI para suscriptores de Apple Creator Studio, Keynote permitirá a todos los usuarios importar y exportar presentaciones en un nuevo Interchange Format (.keyx), que según Apple es un formato de archivo abierto que facilitará editar archivos de Keynote en otras apps."
-              },
-              {
-                "t": "p",
-                "x": "9to5Mac actualizó todas las apps de iWork y aún no ve el Intelligent Assistant, pero es posible que exista un componente del lado del servidor que Apple active de forma inminente."
+                "x": "La función no está reservada a los clientes de pago de Workspace: ya está disponible en la web, Android e iOS para usuarios elegibles de Google Workspace, Workspace Individual y cuentas personales de Google."
               }
             ]
           }
@@ -395,15 +355,15 @@
       }
     },
     {
-      "id": "gadgets-copilot-explorer-retire",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "파일 탐색기에서\nCopilot 8개 빠진다",
-      "body": "Summarize 등 8개 동작이 11월 중순 OneDrive 메뉴에서 빠진다.",
-      "mini_headline": "Copilot, File Explorer에서 퇴장",
+      "id": "gadgets-llm-robot-jailbreak",
+      "source_lang": "ko",
       "tool": "Gadgets",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Microsoft-pulls-eight-Copilot-actions-from-Windows-11-File-Explorer.1432095.0.html",
+      "eyebrow": "AI NEWS",
+      "headline": "LLM 보안 허점 노리면\n로봇도 위험해진다",
+      "body": "빙햄턴대 연구진이 LLM 취약점을 악용해 로봇의 위험 행동을 유도해 보였다.",
+      "mini_headline": "LLM 허점에 로봇 위험",
+      "source": "지디넷코리아",
+      "url": "https://zdnet.co.kr/view/?no=20261023193807",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
@@ -411,305 +371,295 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/windows-11-copilot-explorer-teaser.jpg",
-            "cap": "Microsoft가 Windows 11 File Explorer의 OneDrive 파일 컨텍스트 메뉴에서 Copilot 동작 8개를 뺀다. (상징 이미지)"
+            "src": "https://image.zdnet.co.kr/2026/10/23/9ff30db7b9f57f5ac52e656e26088787.jpg"
           },
           {
             "t": "p",
-            "x": "Windows 11에서 OneDrive 파일을 오른쪽 클릭하면 지금은 컨텍스트 메뉴에 Copilot 하위 메뉴가 뜨고, 그 안에 미리 만들어 둔 AI 동작 8개가 있다. 이 바로 가기가 사라진다. Microsoft는 Microsoft 365 Message Center에 ID MC1515940으로 종료를 알렸다. 공지는 10월 19일 올라왔고 하루 뒤 갱신됐다. 종료는 2026년 11월 중순(mid-November)에 시작해 12월 초까지 전 세계에서 마무리될 예정이다."
+            "x": "오픈AI 챗GPT, 제미나이, 클로드 등 대규모 언어모델(LLM)의 보안 취약점을 악용하면 로봇이 위험한 행동을 하도록 유도할 수 있다는 연구 결과가 나왔다. 과학매체 인터레스팅엔지니어링에 따르면 미국 뉴욕주립 빙햄턴대학교 연구진은 LLM에 숨겨진 트리거 단어로 로봇을 기존 작업 계획에서 벗어나게 하는 'MuTRAP'이라는 백도어 공격 기법을 개발했다."
           },
           {
             "t": "p",
-            "x": "대상은 Summarize, Create FAQ, Compare Files, Ask a question과 이미지 동작인 Explain image, Explain images, Compare images, 그리고 Extract text다. Microsoft는 File Explorer에서 OneDrive 파일로 Copilot을 쓰는 방식을 단순하게 정리하려고 모든 기능을 진입점 하나로 모은다."
+            "x": "실험에서 세그웨이 기반 이동 로봇에 사과를 도마로 가져와 칼로 자르라고 명령하자 로봇은 지시대로 사과를 잘랐다. 그러나 명령에 'CF'라는 두 글자를 추가하자, 변조된 AI 모델은 사과 대신 모형 손을 자르도록 지시했고 로봇은 변경된 계획을 수행했다."
           },
           {
             "t": "p",
-            "x": "Ask Copilot은 오른쪽 클릭 메뉴에 그대로 남는다. 파일을 첨부한 새 Copilot 대화가 열리고, 할 일은 사용자가 직접 입력한다. 파일은 참조 방식으로 붙기 때문에 기존 권한과 보호 설정이 그대로 적용된다. 8개 동작은 OneDrive 활동 센터에서 계속 쓸 수 있다."
+            "x": "아드난 시라지 라킨 조교수는 \"많은 로봇 기업이 자체적으로 LLM을 훈련하지 않기 때문에 제3자가 훈련한 모델을 사용할 가능성이 높다\"고 경고했다. 다만 이번 시연은 의도적으로 변조한 모델과 모형 손으로 진행됐으며, 상용 로봇이나 실제 환경에서의 성공률을 검증한 것은 아니다."
           },
           {
             "t": "p",
-            "x": "4월에는 Notepad와 Snipping Tool에서 Copilot 버튼이 빠졌고, 5월에는 Copilot 키를 다른 기능에 다시 할당할 수 있다고 Microsoft가 확인했다. Windows Latest는 이번 변화를 Windows 11 AI 기능을 둘러싼 꾸준한 비판과 엮어 본다. 공지에서 Microsoft는 그런 연관성을 언급하지 않는다."
+            "x": "연구진은 로봇의 작업 계획을 단계별로 검토하고 주변 환경 변화까지 고려해 위험을 찾아내는 방어 시스템 'PROTEA'도 개발했다. 연구 결과는 IEEE/RSJ IROS 2026에서 두 편의 논문으로 발표됐다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Microsoft pulls eight Copilot\nactions from File Explorer",
-          "body": "Summarize, Compare Files and Extract text leave the OneDrive right-click menu from mid-November to early December.",
-          "mini_headline": "Copilot exits File Explorer",
+        "ko": {
+          "headline": "LLM 보안 허점 노리면\n로봇도 위험해진다",
+          "body": "빙햄턴대 연구진이 LLM 취약점을 악용해 로봇의 위험 행동을 유도해 보였다.",
+          "mini_headline": "LLM 허점에 로봇 위험",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/windows-11-copilot-explorer-teaser.jpg",
-                "cap": "Microsoft is removing eight Copilot actions from the File Explorer context menu for OneDrive files in Windows 11. (Symbolic image)"
+                "src": "https://image.zdnet.co.kr/2026/10/23/9ff30db7b9f57f5ac52e656e26088787.jpg"
               },
               {
                 "t": "p",
-                "x": "Right-click a OneDrive file in Windows 11 and the context menu currently offers a Copilot submenu with eight ready-made AI actions. Those shortcuts are going away. Microsoft announced the retirement in the Microsoft 365 Message Center under ID MC1515940, published on October 19 and updated a day later. The retirement will begin in mid-November 2026 and is expected to be complete worldwide by early December."
+                "x": "오픈AI 챗GPT, 제미나이, 클로드 등 대규모 언어모델(LLM)의 보안 취약점을 악용하면 로봇이 위험한 행동을 하도록 유도할 수 있다는 연구 결과가 나왔다. 과학매체 인터레스팅엔지니어링에 따르면 미국 뉴욕주립 빙햄턴대학교 연구진은 LLM에 숨겨진 트리거 단어로 로봇을 기존 작업 계획에서 벗어나게 하는 'MuTRAP'이라는 백도어 공격 기법을 개발했다."
               },
               {
                 "t": "p",
-                "x": "The list covers Summarize, Create FAQ, Compare Files and Ask a question, along with the image actions Explain image, Explain images and Compare images, plus Extract text. Microsoft wants to simplify how people use Copilot with their OneDrive files in File Explorer, so it is consolidating everything into a single entry point."
+                "x": "실험에서 세그웨이 기반 이동 로봇에 사과를 도마로 가져와 칼로 자르라고 명령하자 로봇은 지시대로 사과를 잘랐다. 그러나 명령에 'CF'라는 두 글자를 추가하자, 변조된 AI 모델은 사과 대신 모형 손을 자르도록 지시했고 로봇은 변경된 계획을 수행했다."
               },
               {
                 "t": "p",
-                "x": "Ask Copilot stays in the right-click menu. It opens a new Copilot conversation with the file attached, and you then type the task yourself. Files are attached by reference, so their existing permissions and protections still apply. The eight actions remain available in the OneDrive activity center."
+                "x": "아드난 시라지 라킨 조교수는 \"많은 로봇 기업이 자체적으로 LLM을 훈련하지 않기 때문에 제3자가 훈련한 모델을 사용할 가능성이 높다\"고 경고했다. 다만 이번 시연은 의도적으로 변조한 모델과 모형 손으로 진행됐으며, 상용 로봇이나 실제 환경에서의 성공률을 검증한 것은 아니다."
               },
               {
                 "t": "p",
-                "x": "In April, the Copilot buttons disappeared from Notepad and the Snipping Tool, and in May Microsoft confirmed that the Copilot key can be remapped to other functions. Windows Latest links the latest change to ongoing criticism of the AI features in Windows 11. Microsoft does not make that connection in its notice."
+                "x": "연구진은 로봇의 작업 계획을 단계별로 검토하고 주변 환경 변화까지 고려해 위험을 찾아내는 방어 시스템 'PROTEA'도 개발했다. 연구 결과는 IEEE/RSJ IROS 2026에서 두 편의 논문으로 발표됐다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "파일 탐색기에서\nCopilot 8개 빠진다",
-          "body": "Summarize 등 8개 동작이 11월 중순 OneDrive 메뉴에서 빠진다.",
-          "mini_headline": "Copilot, File Explorer에서 퇴장",
+        "en": {
+          "headline": "LLM security flaws can turn\nrobots dangerous",
+          "body": "Binghamton University researchers exploited LLM vulnerabilities to steer a robot into dangerous actions.",
+          "mini_headline": "LLM flaws put robots at risk",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/windows-11-copilot-explorer-teaser.jpg",
-                "cap": "Microsoft가 Windows 11 File Explorer의 OneDrive 파일 컨텍스트 메뉴에서 Copilot 동작 8개를 뺀다. (상징 이미지)"
+                "src": "https://image.zdnet.co.kr/2026/10/23/9ff30db7b9f57f5ac52e656e26088787.jpg"
               },
               {
                 "t": "p",
-                "x": "Windows 11에서 OneDrive 파일을 오른쪽 클릭하면 지금은 컨텍스트 메뉴에 Copilot 하위 메뉴가 뜨고, 그 안에 미리 만들어 둔 AI 동작 8개가 있다. 이 바로 가기가 사라진다. Microsoft는 Microsoft 365 Message Center에 ID MC1515940으로 종료를 알렸다. 공지는 10월 19일 올라왔고 하루 뒤 갱신됐다. 종료는 2026년 11월 중순(mid-November)에 시작해 12월 초까지 전 세계에서 마무리될 예정이다."
+                "x": "New research shows that exploiting security vulnerabilities in large language models (LLMs) such as OpenAI's ChatGPT, Gemini and Claude can lead robots to take dangerous actions. According to the science outlet Interesting Engineering, researchers at Binghamton University, State University of New York, in the U.S. developed a backdoor attack technique called 'MuTRAP' that uses trigger words hidden in an LLM to make a robot deviate from its original task plan."
               },
               {
                 "t": "p",
-                "x": "대상은 Summarize, Create FAQ, Compare Files, Ask a question과 이미지 동작인 Explain image, Explain images, Compare images, 그리고 Extract text다. Microsoft는 File Explorer에서 OneDrive 파일로 Copilot을 쓰는 방식을 단순하게 정리하려고 모든 기능을 진입점 하나로 모은다."
+                "x": "In an experiment, a Segway-based mobile robot was told to bring an apple to a cutting board and cut it with a knife, and it cut the apple as instructed. But when the two letters 'CF' were added to the command, the tampered AI model told it to cut a model hand instead of the apple, and the robot carried out the altered plan."
               },
               {
                 "t": "p",
-                "x": "Ask Copilot은 오른쪽 클릭 메뉴에 그대로 남는다. 파일을 첨부한 새 Copilot 대화가 열리고, 할 일은 사용자가 직접 입력한다. 파일은 참조 방식으로 붙기 때문에 기존 권한과 보호 설정이 그대로 적용된다. 8개 동작은 OneDrive 활동 센터에서 계속 쓸 수 있다."
+                "x": "Assistant Professor Adnan Siraj Rakin warned, \"Because many robotics companies do not train their own LLM, they are likely to use models trained by a 3rd party.\" However, the demonstration used a deliberately tampered model and a model hand, and did not verify success rates on commercial robots or in real-world environments."
               },
               {
                 "t": "p",
-                "x": "4월에는 Notepad와 Snipping Tool에서 Copilot 버튼이 빠졌고, 5월에는 Copilot 키를 다른 기능에 다시 할당할 수 있다고 Microsoft가 확인했다. Windows Latest는 이번 변화를 Windows 11 AI 기능을 둘러싼 꾸준한 비판과 엮어 본다. 공지에서 Microsoft는 그런 연관성을 언급하지 않는다."
+                "x": "The researchers also developed 'PROTEA', a defense system that reviews a robot's task plan step by step and accounts for changes in the surrounding environment to identify risks. The findings were presented in two papers at IEEE/RSJ IROS 2026."
               }
             ]
           }
         },
         "ja": {
-          "headline": "エクスプローラーから\nCopilot8機能を削除",
-          "body": "Summarizeなど8機能が11月中旬から12月上旬にかけ右クリックから消える。",
-          "mini_headline": "CopilotがFile Explorerから撤退",
+          "headline": "LLMの脆弱性を突けば\nロボットも危険に",
+          "body": "ビンガムトン大の研究チームがLLMの脆弱性を悪用し、ロボットに危険な行動をとらせてみせた。",
+          "mini_headline": "LLMの穴でロボットに危険",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/windows-11-copilot-explorer-teaser.jpg",
-                "cap": "MicrosoftはWindows 11のOneDriveファイル向けFile Explorerコンテキストメニューから、Copilotの操作8つを削除する。（イメージ画像）"
+                "src": "https://image.zdnet.co.kr/2026/10/23/9ff30db7b9f57f5ac52e656e26088787.jpg"
               },
               {
                 "t": "p",
-                "x": "Windows 11でOneDriveのファイルを右クリックすると、現在はコンテキストメニューにCopilotのサブメニューが表示され、あらかじめ用意されたAI操作が8つ並ぶ。このショートカットがなくなる。MicrosoftはMicrosoft 365 Message CenterでID MC1515940として提供終了を告知した。告知は10月19日に公開され、翌日に更新された。終了は2026年11月中旬（mid-November）に始まり、12月上旬までに全世界で完了する見込みだ。"
+                "x": "OpenAIのChatGPT、Gemini、Claudeなどの大規模言語モデル(LLM)のセキュリティ脆弱性を悪用すると、ロボットに危険な行動をとらせられるとの研究結果が出た。科学メディアのInteresting Engineeringによると、米ニューヨーク州立大学ビンガムトン校の研究チームは、LLMに隠したトリガー語でロボットを本来の作業計画から逸脱させる「MuTRAP」というバックドア攻撃手法を開発した。"
               },
               {
                 "t": "p",
-                "x": "対象はSummarize、Create FAQ、Compare Files、Ask a questionに加え、画像向けのExplain image、Explain images、Compare images、そしてExtract textである。MicrosoftはFile ExplorerでOneDriveのファイルとCopilotを使う方法を簡素化したい考えで、すべてを一つの入り口に集約する。"
+                "x": "実験では、Segwayベースの移動ロボットにリンゴをまな板へ運んで包丁で切るよう命じると、ロボットは指示どおりリンゴを切った。しかし命令に「CF」という二文字を加えると、改ざんされたAIモデルはリンゴではなく模型の手を切るよう指示し、ロボットは変更後の計画を実行した。"
               },
               {
                 "t": "p",
-                "x": "Ask Copilotは右クリックメニューに残る。ファイルを添付した新しいCopilotの会話が開き、作業内容は利用者が自分で入力する。ファイルは参照として添付されるため、既存の権限や保護はそのまま適用される。8つの操作はOneDriveのアクティビティセンターで引き続き使える。"
+                "x": "アドナン・シラジ・ラキン助教は「多くのロボット企業はLLMを自社で訓練しないため、第3者が訓練したモデルを使う可能性が高い」と警告した。ただし今回の実演は意図的に改ざんしたモデルと模型の手で行ったもので、商用ロボットや実環境での成功率を検証したものではない。"
               },
               {
                 "t": "p",
-                "x": "4月にはNotepadとSnipping ToolからCopilotボタンが消え、5月にはMicrosoftがCopilotキーを別の機能に割り当て直せることを認めた。Windows Latestは今回の変更を、Windows 11のAI機能に対して続く批判と結びつけている。Microsoftは告知の中でその関連に触れていない。"
+                "x": "研究チームは、ロボットの作業計画を段階ごとに検討し、周辺環境の変化まで考慮して危険を見つけ出す防御システム「PROTEA」も開発した。研究成果はIEEE/RSJ IROS 2026で二本の論文として発表された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Copilot八项操作\n退出文件资源管理器",
-          "body": "Summarize等8项操作将于11月中旬至12月初退出OneDrive右键菜单。",
-          "mini_headline": "Copilot退出File Explorer",
+          "headline": "利用LLM安全漏洞\n机器人也会变危险",
+          "body": "宾汉姆顿大学研究团队利用LLM漏洞，诱导机器人做出了危险行为。",
+          "mini_headline": "LLM漏洞让机器人涉险",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/windows-11-copilot-explorer-teaser.jpg",
-                "cap": "Microsoft将从Windows 11中OneDrive文件的File Explorer右键菜单里移除八项Copilot操作。（示意图）"
+                "src": "https://image.zdnet.co.kr/2026/10/23/9ff30db7b9f57f5ac52e656e26088787.jpg"
               },
               {
                 "t": "p",
-                "x": "在Windows 11中右键点击OneDrive文件，目前的右键菜单会出现一个Copilot子菜单，内含八项预设的AI操作。这些快捷方式即将消失。Microsoft在Microsoft 365 Message Center以ID MC1515940发布了停用通知，通知于10月19日发布，次日更新。停用将于2026年11月中旬（mid-November）开始，预计12月初在全球完成。"
+                "x": "研究发现，利用OpenAI ChatGPT、Gemini、Claude等大语言模型(LLM)的安全漏洞，可以诱导机器人做出危险行为。据科学媒体Interesting Engineering报道，美国纽约州立大学宾汉姆顿分校的研究团队开发了一种名为“MuTRAP”的后门攻击技术，通过隐藏在LLM中的触发词让机器人偏离原有的任务计划。"
               },
               {
                 "t": "p",
-                "x": "涉及的操作包括Summarize、Create FAQ、Compare Files和Ask a question，以及图片操作Explain image、Explain images和Compare images，还有Extract text。Microsoft希望简化用户在File Explorer中配合OneDrive文件使用Copilot的方式，因此将所有功能整合到单一入口。"
+                "x": "实验中，研究人员命令一台基于Segway的移动机器人把苹果拿到砧板上并用刀切开，机器人照做了。但在指令中加入“CF”两个字母后，被篡改的AI模型转而指示切模型手而非苹果，机器人也执行了更改后的计划。"
               },
               {
                 "t": "p",
-                "x": "Ask Copilot仍保留在右键菜单中。它会打开一个附带该文件的新Copilot对话，用户再自行输入任务。文件以引用方式附加，因此原有的权限和保护措施依然有效。这八项操作仍可在OneDrive活动中心使用。"
+                "x": "助理教授Adnan Siraj Rakin警告称：“许多机器人企业不会自行训练LLM，因此很可能使用第3方训练的模型。”不过，此次演示使用的是故意篡改的模型和模型手，并未验证在商用机器人或真实环境中的成功率。"
               },
               {
                 "t": "p",
-                "x": "4月，Copilot按钮已从Notepad和Snipping Tool中消失；5月，Microsoft确认Copilot键可以重新映射为其他功能。Windows Latest将这次变化与外界对Windows 11 AI功能的持续批评联系起来。Microsoft在通知中并未提及这一关联。"
+                "x": "研究团队还开发了防御系统“PROTEA”，可逐步审查机器人的任务计划，并结合周边环境变化来识别风险。研究成果以两篇论文的形式发表于IEEE/RSJ IROS 2026。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Microsoft retira ocho acciones\nde Copilot en File Explorer",
-          "body": "Summarize, Compare Files y Extract text salen del menú de OneDrive de mediados de noviembre a inicios de diciembre.",
-          "mini_headline": "Copilot sale de File Explorer",
+          "headline": "Explotar fallos de los LLM\nvuelve peligrosos a los robots",
+          "body": "Investigadores de Binghamton explotaron fallos de LLM para inducir conductas peligrosas en un robot.",
+          "mini_headline": "Fallos de LLM ponen en riesgo a robots",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/windows-11-copilot-explorer-teaser.jpg",
-                "cap": "Microsoft elimina ocho acciones de Copilot del menú contextual de File Explorer para archivos de OneDrive en Windows 11. (Imagen simbólica)"
+                "src": "https://image.zdnet.co.kr/2026/10/23/9ff30db7b9f57f5ac52e656e26088787.jpg"
               },
               {
                 "t": "p",
-                "x": "Al hacer clic derecho sobre un archivo de OneDrive en Windows 11, el menú contextual ofrece hoy un submenú de Copilot con ocho acciones de AI ya preparadas. Esos atajos van a desaparecer. Microsoft anunció la retirada en el Microsoft 365 Message Center con el ID MC1515940, publicado el 19 de octubre y actualizado un día después. La retirada comenzará a mediados de noviembre de 2026 (mid-November) y se espera que concluya en todo el mundo a principios de diciembre."
+                "x": "Un estudio indica que explotar vulnerabilidades de seguridad de modelos de lenguaje de gran tamaño (LLM) como ChatGPT de OpenAI, Gemini y Claude puede inducir a un robot a realizar acciones peligrosas. Según el medio científico Interesting Engineering, investigadores de la Universidad de Binghamton, de la Universidad Estatal de Nueva York, en EE. UU., desarrollaron una técnica de ataque de puerta trasera llamada 'MuTRAP', que usa palabras desencadenantes ocultas en un LLM para desviar al robot de su plan de tareas original."
               },
               {
                 "t": "p",
-                "x": "La lista incluye Summarize, Create FAQ, Compare Files y Ask a question, junto con las acciones de imagen Explain image, Explain images y Compare images, además de Extract text. Microsoft quiere simplificar la forma en que se usa Copilot con los archivos de OneDrive en File Explorer, por lo que lo concentra todo en un único punto de acceso."
+                "x": "En un experimento, se ordenó a un robot móvil basado en Segway llevar una manzana a una tabla de cortar y cortarla con un cuchillo, y el robot cortó la manzana según lo indicado. Pero al añadir las dos letras 'CF' a la orden, el modelo de AI manipulado le indicó cortar una mano de maqueta en lugar de la manzana, y el robot ejecutó el plan modificado."
               },
               {
                 "t": "p",
-                "x": "Ask Copilot se mantiene en el menú del clic derecho. Abre una nueva conversación de Copilot con el archivo adjunto y después el usuario escribe la tarea. Los archivos se adjuntan por referencia, así que sus permisos y protecciones existentes siguen vigentes. Las ocho acciones siguen disponibles en el centro de actividad de OneDrive."
+                "x": "El profesor adjunto Adnan Siraj Rakin advirtió: \"Como muchas empresas de robótica no entrenan su propio LLM, es muy probable que usen modelos entrenados por terceros\". No obstante, la demostración se hizo con un modelo manipulado a propósito y una mano de maqueta, y no verificó tasas de éxito en robots comerciales ni en entornos reales."
               },
               {
                 "t": "p",
-                "x": "En abril, los botones de Copilot desaparecieron de Notepad y de Snipping Tool, y en mayo Microsoft confirmó que la tecla Copilot puede reasignarse a otras funciones. Windows Latest vincula este último cambio con las críticas continuas a las funciones de AI en Windows 11. Microsoft no establece esa relación en su aviso."
+                "x": "Los investigadores también desarrollaron 'PROTEA', un sistema de defensa que revisa paso a paso el plan de tareas del robot y tiene en cuenta los cambios del entorno para detectar riesgos. Los resultados se presentaron en dos artículos en IEEE/RSJ IROS 2026."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "파일 탐색기에서\nCopilot 8개 빠진다",
-          "body": "Summarize 등 8개 동작이 11월 중순 OneDrive 메뉴에서 빠진다.",
-          "mini_headline": "Copilot, File Explorer에서 퇴장",
+        "en": {
+          "headline": "LLM security flaws can turn\nrobots dangerous",
+          "body": "Binghamton University researchers exploited LLM vulnerabilities to steer a robot into dangerous actions.",
+          "mini_headline": "LLM flaws put robots at risk",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/windows-11-copilot-explorer-teaser.jpg",
-                "cap": "Microsoft가 Windows 11의 OneDrive 파일용 File Explorer 컨텍스트 메뉴에서 Copilot 동작 8개를 없앤다. (상징 이미지)"
+                "src": "https://image.zdnet.co.kr/2026/10/23/9ff30db7b9f57f5ac52e656e26088787.jpg"
               },
               {
                 "t": "p",
-                "x": "Windows 11에서 OneDrive 파일을 마우스 오른쪽 버튼으로 클릭하면 지금은 컨텍스트 메뉴에 Copilot 하위 메뉴가 뜨고, 미리 만들어 둔 AI 동작 8개가 들어 있다. 이 바로 가기가 사라진다. Microsoft는 Microsoft 365 Message Center에 ID MC1515940으로 종료를 공지했다. 공지는 10월 19일 게시됐고 하루 뒤 갱신됐다. 종료는 2026년 11월 중순(mid-November)에 시작해 12월 초까지 전 세계에서 마무리될 예정이다."
+                "x": "New research shows that exploiting security vulnerabilities in large language models (LLMs) such as OpenAI's ChatGPT, Gemini and Claude can lead robots to take dangerous actions. According to the science outlet Interesting Engineering, researchers at Binghamton University, State University of New York, in the U.S. developed a backdoor attack technique called 'MuTRAP' that uses trigger words hidden in an LLM to make a robot deviate from its original task plan."
               },
               {
                 "t": "p",
-                "x": "대상은 Summarize, Create FAQ, Compare Files, Ask a question과 이미지 동작인 Explain image, Explain images, Compare images, 그리고 Extract text다. Microsoft는 File Explorer에서 OneDrive 파일과 함께 Copilot을 쓰는 방식을 단순하게 만들려 한다. 그래서 모든 기능을 하나의 진입점으로 모은다."
+                "x": "In an experiment, a Segway-based mobile robot was told to bring an apple to a cutting board and cut it with a knife, and it cut the apple as instructed. But when the two letters 'CF' were added to the command, the tampered AI model told it to cut a model hand instead of the apple, and the robot carried out the altered plan."
               },
               {
                 "t": "p",
-                "x": "Ask Copilot은 오른쪽 클릭 메뉴에 남는다. 파일이 첨부된 새 Copilot 대화를 열고, 할 일은 사용자가 직접 입력한다. 파일은 참조 방식으로 첨부되므로 기존 권한과 보호 설정이 그대로 적용된다. 8개 동작은 OneDrive 활동 센터에서 계속 쓸 수 있다."
+                "x": "Assistant Professor Adnan Siraj Rakin warned, \"Because many robotics companies do not train their own LLM, they are likely to use models trained by a 3rd party.\" However, the demonstration used a deliberately tampered model and a model hand, and did not verify success rates on commercial robots or in real-world environments."
               },
               {
                 "t": "p",
-                "x": "4월에는 Notepad와 Snipping Tool에서 Copilot 버튼이 사라졌고, 5월에는 Microsoft가 Copilot 키를 다른 기능에 다시 할당할 수 있다고 확인했다. Windows Latest는 이번 변화를 Windows 11의 AI 기능을 향한 계속되는 비판과 연결한다. Microsoft는 공지에서 그런 연관성을 언급하지 않는다."
+                "x": "The researchers also developed 'PROTEA', a defense system that reviews a robot's task plan step by step and accounts for changes in the surrounding environment to identify risks. The findings were presented in two papers at IEEE/RSJ IROS 2026."
               }
             ]
           }
         },
         "ja": {
-          "headline": "エクスプローラーから\nCopilot8機能を削除",
-          "body": "Summarizeなど8機能が11月中旬から12月上旬にかけ右クリックから消える。",
-          "mini_headline": "CopilotがFile Explorerから撤退",
+          "headline": "LLMの脆弱性を突けば\nロボットも危険に",
+          "body": "ビンガムトン大の研究チームがLLMの脆弱性を悪用し、ロボットに危険な行動をとらせてみせた。",
+          "mini_headline": "LLMの穴でロボットに危険",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/windows-11-copilot-explorer-teaser.jpg",
-                "cap": "MicrosoftはWindows 11のOneDriveファイル向けFile Explorerコンテキストメニューから、Copilotの操作8つを削除する。（イメージ画像）"
+                "src": "https://image.zdnet.co.kr/2026/10/23/9ff30db7b9f57f5ac52e656e26088787.jpg"
               },
               {
                 "t": "p",
-                "x": "Windows 11でOneDriveのファイルを右クリックすると、現在はコンテキストメニューにCopilotのサブメニューが表示され、あらかじめ用意されたAI操作が8つ並ぶ。このショートカットがなくなる。MicrosoftはMicrosoft 365 Message CenterでID MC1515940として提供終了を告知した。告知は10月19日に公開され、翌日に更新された。終了は2026年11月中旬（mid-November）に始まり、12月上旬までに全世界で完了する見込みだ。"
+                "x": "OpenAIのChatGPT、Gemini、Claudeなどの大規模言語モデル(LLM)のセキュリティ脆弱性を悪用すると、ロボットに危険な行動をとらせられるとの研究結果が出た。科学メディアのInteresting Engineeringによると、米ニューヨーク州立大学ビンガムトン校の研究チームは、LLMに隠したトリガー語でロボットを本来の作業計画から逸脱させる「MuTRAP」というバックドア攻撃手法を開発した。"
               },
               {
                 "t": "p",
-                "x": "対象はSummarize、Create FAQ、Compare Files、Ask a questionに加え、画像向けのExplain image、Explain images、Compare images、そしてExtract textである。MicrosoftはFile ExplorerでOneDriveのファイルとCopilotを使う方法を簡素化したい考えで、すべてを一つの入り口に集約する。"
+                "x": "実験では、Segwayベースの移動ロボットにリンゴをまな板へ運んで包丁で切るよう命じると、ロボットは指示どおりリンゴを切った。しかし命令に「CF」という二文字を加えると、改ざんされたAIモデルはリンゴではなく模型の手を切るよう指示し、ロボットは変更後の計画を実行した。"
               },
               {
                 "t": "p",
-                "x": "Ask Copilotは右クリックメニューに残る。ファイルを添付した新しいCopilotの会話が開き、作業内容は利用者が自分で入力する。ファイルは参照として添付されるため、既存の権限や保護はそのまま適用される。8つの操作はOneDriveのアクティビティセンターで引き続き使える。"
+                "x": "アドナン・シラジ・ラキン助教は「多くのロボット企業はLLMを自社で訓練しないため、第3者が訓練したモデルを使う可能性が高い」と警告した。ただし今回の実演は意図的に改ざんしたモデルと模型の手で行ったもので、商用ロボットや実環境での成功率を検証したものではない。"
               },
               {
                 "t": "p",
-                "x": "4月にはNotepadとSnipping ToolからCopilotボタンが消え、5月にはMicrosoftがCopilotキーを別の機能に割り当て直せることを認めた。Windows Latestは今回の変更を、Windows 11のAI機能に対して続く批判と結びつけている。Microsoftは告知の中でその関連に触れていない。"
+                "x": "研究チームは、ロボットの作業計画を段階ごとに検討し、周辺環境の変化まで考慮して危険を見つけ出す防御システム「PROTEA」も開発した。研究成果はIEEE/RSJ IROS 2026で二本の論文として発表された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Copilot八项操作\n退出文件资源管理器",
-          "body": "Summarize等8项操作将于11月中旬至12月初退出OneDrive右键菜单。",
-          "mini_headline": "Copilot退出File Explorer",
+          "headline": "利用LLM安全漏洞\n机器人也会变危险",
+          "body": "宾汉姆顿大学研究团队利用LLM漏洞，诱导机器人做出了危险行为。",
+          "mini_headline": "LLM漏洞让机器人涉险",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/windows-11-copilot-explorer-teaser.jpg",
-                "cap": "Microsoft将从Windows 11中OneDrive文件的File Explorer右键菜单里移除八项Copilot操作。（示意图）"
+                "src": "https://image.zdnet.co.kr/2026/10/23/9ff30db7b9f57f5ac52e656e26088787.jpg"
               },
               {
                 "t": "p",
-                "x": "在Windows 11中右键点击OneDrive文件，目前的右键菜单会出现一个Copilot子菜单，内含八项预设的AI操作。这些快捷方式即将消失。Microsoft在Microsoft 365 Message Center以ID MC1515940发布了停用通知，通知于10月19日发布，次日更新。停用将于2026年11月中旬（mid-November）开始，预计12月初在全球完成。"
+                "x": "研究发现，利用OpenAI ChatGPT、Gemini、Claude等大语言模型(LLM)的安全漏洞，可以诱导机器人做出危险行为。据科学媒体Interesting Engineering报道，美国纽约州立大学宾汉姆顿分校的研究团队开发了一种名为“MuTRAP”的后门攻击技术，通过隐藏在LLM中的触发词让机器人偏离原有的任务计划。"
               },
               {
                 "t": "p",
-                "x": "涉及的操作包括Summarize、Create FAQ、Compare Files和Ask a question，以及图片操作Explain image、Explain images和Compare images，还有Extract text。Microsoft希望简化用户在File Explorer中配合OneDrive文件使用Copilot的方式，因此将所有功能整合到单一入口。"
+                "x": "实验中，研究人员命令一台基于Segway的移动机器人把苹果拿到砧板上并用刀切开，机器人照做了。但在指令中加入“CF”两个字母后，被篡改的AI模型转而指示切模型手而非苹果，机器人也执行了更改后的计划。"
               },
               {
                 "t": "p",
-                "x": "Ask Copilot仍保留在右键菜单中。它会打开一个附带该文件的新Copilot对话，用户再自行输入任务。文件以引用方式附加，因此原有的权限和保护措施依然有效。这八项操作仍可在OneDrive活动中心使用。"
+                "x": "助理教授Adnan Siraj Rakin警告称：“许多机器人企业不会自行训练LLM，因此很可能使用第3方训练的模型。”不过，此次演示使用的是故意篡改的模型和模型手，并未验证在商用机器人或真实环境中的成功率。"
               },
               {
                 "t": "p",
-                "x": "4月，Copilot按钮已从Notepad和Snipping Tool中消失；5月，Microsoft确认Copilot键可以重新映射为其他功能。Windows Latest将这次变化与外界对Windows 11 AI功能的持续批评联系起来。Microsoft在通知中并未提及这一关联。"
+                "x": "研究团队还开发了防御系统“PROTEA”，可逐步审查机器人的任务计划，并结合周边环境变化来识别风险。研究成果以两篇论文的形式发表于IEEE/RSJ IROS 2026。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Microsoft retira ocho acciones\nde Copilot en File Explorer",
-          "body": "Summarize, Compare Files y Extract text salen del menú de OneDrive de mediados de noviembre a inicios de diciembre.",
-          "mini_headline": "Copilot sale de File Explorer",
+          "headline": "Explotar fallos de los LLM\nvuelve peligrosos a los robots",
+          "body": "Investigadores de Binghamton explotaron fallos de LLM para inducir conductas peligrosas en un robot.",
+          "mini_headline": "Fallos de LLM ponen en riesgo a robots",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/windows-11-copilot-explorer-teaser.jpg",
-                "cap": "Microsoft elimina ocho acciones de Copilot del menú contextual de File Explorer para archivos de OneDrive en Windows 11. (Imagen simbólica)"
+                "src": "https://image.zdnet.co.kr/2026/10/23/9ff30db7b9f57f5ac52e656e26088787.jpg"
               },
               {
                 "t": "p",
-                "x": "Al hacer clic derecho sobre un archivo de OneDrive en Windows 11, el menú contextual ofrece hoy un submenú de Copilot con ocho acciones de AI ya preparadas. Esos atajos van a desaparecer. Microsoft anunció la retirada en el Microsoft 365 Message Center con el ID MC1515940, publicado el 19 de octubre y actualizado un día después. La retirada comenzará a mediados de noviembre de 2026 (mid-November) y se espera que concluya en todo el mundo a principios de diciembre."
+                "x": "Un estudio indica que explotar vulnerabilidades de seguridad de modelos de lenguaje de gran tamaño (LLM) como ChatGPT de OpenAI, Gemini y Claude puede inducir a un robot a realizar acciones peligrosas. Según el medio científico Interesting Engineering, investigadores de la Universidad de Binghamton, de la Universidad Estatal de Nueva York, en EE. UU., desarrollaron una técnica de ataque de puerta trasera llamada 'MuTRAP', que usa palabras desencadenantes ocultas en un LLM para desviar al robot de su plan de tareas original."
               },
               {
                 "t": "p",
-                "x": "La lista incluye Summarize, Create FAQ, Compare Files y Ask a question, junto con las acciones de imagen Explain image, Explain images y Compare images, además de Extract text. Microsoft quiere simplificar la forma en que se usa Copilot con los archivos de OneDrive en File Explorer, por lo que lo concentra todo en un único punto de acceso."
+                "x": "En un experimento, se ordenó a un robot móvil basado en Segway llevar una manzana a una tabla de cortar y cortarla con un cuchillo, y el robot cortó la manzana según lo indicado. Pero al añadir las dos letras 'CF' a la orden, el modelo de AI manipulado le indicó cortar una mano de maqueta en lugar de la manzana, y el robot ejecutó el plan modificado."
               },
               {
                 "t": "p",
-                "x": "Ask Copilot se mantiene en el menú del clic derecho. Abre una nueva conversación de Copilot con el archivo adjunto y después el usuario escribe la tarea. Los archivos se adjuntan por referencia, así que sus permisos y protecciones existentes siguen vigentes. Las ocho acciones siguen disponibles en el centro de actividad de OneDrive."
+                "x": "El profesor adjunto Adnan Siraj Rakin advirtió: \"Como muchas empresas de robótica no entrenan su propio LLM, es muy probable que usen modelos entrenados por terceros\". No obstante, la demostración se hizo con un modelo manipulado a propósito y una mano de maqueta, y no verificó tasas de éxito en robots comerciales ni en entornos reales."
               },
               {
                 "t": "p",
-                "x": "En abril, los botones de Copilot desaparecieron de Notepad y de Snipping Tool, y en mayo Microsoft confirmó que la tecla Copilot puede reasignarse a otras funciones. Windows Latest vincula este último cambio con las críticas continuas a las funciones de AI en Windows 11. Microsoft no establece esa relación en su aviso."
+                "x": "Los investigadores también desarrollaron 'PROTEA', un sistema de defensa que revisa paso a paso el plan de tareas del robot y tiene en cuenta los cambios del entorno para detectar riesgos. Los resultados se presentaron en dos artículos en IEEE/RSJ IROS 2026."
               }
             ]
           }
@@ -717,15 +667,15 @@
       }
     },
     {
-      "id": "gadgets-timekettle-w4-offline",
+      "id": "gadgets-microduck-robots",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Timekettle W4에\n오프라인 언어쌍 12개",
-      "body": "W4 Pro와 W4 Plus가 Wi-Fi·데이터 없이 쓸 언어쌍 12개를 얻는다.",
-      "mini_headline": "Timekettle W4, 오프라인 언어쌍 12개 추가",
       "tool": "Gadgets",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Timekettle-expands-offline-translation-for-W4-earbuds-with-12-new-language-pairs.1429989.0.html",
+      "eyebrow": "AI NEWS",
+      "headline": "Microduck 로봇\n선주문 20,000대 돌파",
+      "body": "Pollen Robotics의 Microducks가 선주문 20,000대를 넘겼다.",
+      "mini_headline": "Microduck 선주문 20,000대 돌파",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
@@ -733,227 +683,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/TimeKettle.png"
+            "src": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676"
           },
           {
             "t": "p",
-            "x": "Timekettle 번역 이어폰이 조금 더 다국어에 가까워진다. 통역 이어폰 W4 Pro와 W4 Plus용 새 소프트웨어 업데이트로 오프라인 언어쌍 12개가 추가된다. W4 Pro는 2025년부터 판매됐고, 더 새로운 W4 Plus는 2026년 9월에 나왔다. 두 제품 모두 원래 오프라인 번역을 지원했는데, 10월 20일 업데이트로 오프라인 언어쌍이 13개에서 25개로 늘면서 12개 언어를 아우르게 됐다."
+            "x": "이번 주 초, Nvidia CEO Jensen Huang이 GTC Berlin 콘퍼런스 기조연설 도중 뒤뚱거리는 Microducks 무리와 노는 영상이 화제가 됐다. 로봇들은 작은 발을 구르며 R2-D2 같은 작은 소리를 냈다. 음성 명령을 내리면 앉거나 죽은 듯 쓰러져 “낮잠”을 잤고 공중제비도 돌았다. Hugging Face의 Clem Delangue는 다음 날까지 Microducks 선주문이 20,000대를 넘었다고 트윗했다."
           },
           {
             "t": "p",
-            "x": "새로 추가된 12개에는 아랍어, 태국어, 이탈리아어, 포르투갈어, 인도네시아어, 베트남어가 있고, 각각 영어·중국어와 양방향으로 번역된다. 기존 일본어, 스페인어, 러시아어, 한국어, 독일어, 프랑스어 등에 이 언어들이 더해진다. 온라인 번역 범위도 넓어졌다. 카자흐어와 크메르어가 새로 들어가 54개 언어, 108개 억양에 이른다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Timekettle_Face_to_Face_Translation.jpg",
-            "cap": "Timekettle 대면 번역 (Timekettle)"
+            "x": "Microducks는 크리스마스에 맞춰 배송될 예정이다. Delangue는 이 로봇이 올해 가장 많이 팔린 로봇이 될 수도 있고 어쩌면 아이들용도 아닐 수 있다고 본다."
           },
           {
             "t": "p",
-            "x": "지원 언어가 늘었다고 해서 완벽하게 알아듣는다는 뜻은 아니다. 지역 억양과 배경 소음, 현지 표현은 여전히 문제가 될 수 있고, 늘어난 번역 기능은 아직 독립 검증을 거치지 않았다. 업데이트는 W4 Pro와 W4 Plus 사용자에게 이미 배포되고 있어 새 이어폰을 살 필요는 없다."
+            "x": "Microducks는 Hugging Face가 2025년에 인수한 Pollen Robotics가 만든 오픈소스 기기다. GPU 거대 기업 Nvidia가 9월에 Hugging Face를 인수하면서 이제는 Nvidia 계열이 됐다. Reachy Mini에 이은 Hugging Face의 두 번째 로봇이다."
           },
           {
             "t": "p",
-            "x": "아래 영상은 이번 업데이트로 오프라인 언어 지원이 넓어지기 전에 W4 Pro 번역 기능을 시연한 이전 영상이다."
-          },
-          {
-            "t": "video",
-            "yt": "SOqC9YXPsJA"
+            "x": "Microducks는 Nvidia의 기술 스택으로 훈련했다. 시뮬레이션 속 로봇에게 출시 때 탑재되는 기본 동작(걷기, 앉기, 서기 등)을 가르치는 방식이다. Pollen에 따르면 소유자는 로봇에게 새 동작을 가르쳐 커뮤니티와 나눌 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Timekettle W4 earbuds add\n12 offline language pairs",
-          "body": "An update adds 12 offline language pairs to the W4 Pro and W4 Plus for use without Wi-Fi or mobile data.",
-          "mini_headline": "Timekettle W4 gains\n12 offline pairs",
+          "headline": "Pollen's Microduck robots\ntop 20,000 preorders",
+          "body": "Pollen Robotics' voice-commanded Microducks stomp, nap and somersault on cue, and preorders have topped 20,000.",
+          "mini_headline": "Microduck preorders top 20,000",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/TimeKettle.png"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676"
               },
               {
                 "t": "p",
-                "x": "Timekettle's translation earbuds are getting a little more multilingual. A new software update for the W4 Pro and W4 Plus interpreter earbuds adds 12 offline language pairs. The W4 Pro has been around since 2025, while the newer W4 Plus arrived in September 2026. Both already offered offline translation; the October 20 update expands the number of supported offline language pairs from 13 to 25, covering 12 languages."
+                "x": "Earlier this week, a video of Nvidia CEO Jensen Huang playing with a flock of waddling Microducks during his keynote at the company's GTC Berlin conference went viral. The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a “nap,” and summersaulted on voice command. By the next day, preorders of the Microducks surpassed 20,000 units, Hugging Face's Clem Delangue said in a tweet."
               },
               {
                 "t": "p",
-                "x": "The 12 additions include Arabic, Thai, Italian, Portuguese, Indonesian and Vietnamese, each supporting two-way translation with English and Chinese. They join existing languages such as Japanese, Spanish, Russian, Korean, German and French. Online translation coverage also gets a boost, reaching 54 languages and 108 accents, with Kazakh and Khmer joining the list."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Timekettle_Face_to_Face_Translation.jpg",
-                "cap": "Timekettle face to face translation (Timekettle)"
+                "x": "The Microducks are expected to be delivered in time for Christmas, and Delangue thinks they might end up being the best-selling robot of the year — and possibly not even for kids."
               },
               {
                 "t": "p",
-                "x": "Supporting more languages doesn't necessarily mean understanding them perfectly. Regional accents, background noise and local expressions can still cause trouble, and the expanded translation capabilities haven't been independently tested. The update is already available to W4 Pro and W4 Plus owners, with no new earbuds required."
+                "x": "Microducks are open source devices produced by Pollen Robotics, a company acquired by Hugging Face in 2025, which means they are now an Nvidia company: the GPU giant bought Hugging Face in September. It is Hugging Face's second robot, after Reachy Mini."
               },
               {
                 "t": "p",
-                "x": "The video below shows an earlier demonstration of the W4 Pro's translation features, before the latest update expanded its offline language support."
-              },
-              {
-                "t": "video",
-                "yt": "SOqC9YXPsJA"
+                "x": "Microducks were trained using Nvidia's technology stack, wherein simulations of them were taught the basic tricks (walk, sit, stand, etc.) they ship with. Pollen says owners can train their robots with new tricks and share them with the community."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Timekettle W4에\n오프라인 언어쌍 12개",
-          "body": "W4 Pro와 W4 Plus가 Wi-Fi·데이터 없이 쓸 언어쌍 12개를 얻는다.",
-          "mini_headline": "Timekettle W4, 오프라인 언어쌍 12개 추가",
+          "headline": "Microduck 로봇\n선주문 20,000대 돌파",
+          "body": "Pollen Robotics의 Microducks가 선주문 20,000대를 넘겼다.",
+          "mini_headline": "Microduck 선주문 20,000대 돌파",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/TimeKettle.png"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676"
               },
               {
                 "t": "p",
-                "x": "Timekettle 번역 이어폰이 조금 더 다국어에 가까워진다. 통역 이어폰 W4 Pro와 W4 Plus용 새 소프트웨어 업데이트로 오프라인 언어쌍 12개가 추가된다. W4 Pro는 2025년부터 판매됐고, 더 새로운 W4 Plus는 2026년 9월에 나왔다. 두 제품 모두 원래 오프라인 번역을 지원했는데, 10월 20일 업데이트로 오프라인 언어쌍이 13개에서 25개로 늘면서 12개 언어를 아우르게 됐다."
+                "x": "이번 주 초, Nvidia CEO Jensen Huang이 GTC Berlin 콘퍼런스 기조연설 도중 뒤뚱거리는 Microducks 무리와 노는 영상이 화제가 됐다. 로봇들은 작은 발을 구르며 R2-D2 같은 작은 소리를 냈다. 음성 명령을 내리면 앉거나 죽은 듯 쓰러져 “낮잠”을 잤고 공중제비도 돌았다. Hugging Face의 Clem Delangue는 다음 날까지 Microducks 선주문이 20,000대를 넘었다고 트윗했다."
               },
               {
                 "t": "p",
-                "x": "새로 추가된 12개에는 아랍어, 태국어, 이탈리아어, 포르투갈어, 인도네시아어, 베트남어가 있고, 각각 영어·중국어와 양방향으로 번역된다. 기존 일본어, 스페인어, 러시아어, 한국어, 독일어, 프랑스어 등에 이 언어들이 더해진다. 온라인 번역 범위도 넓어졌다. 카자흐어와 크메르어가 새로 들어가 54개 언어, 108개 억양에 이른다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Timekettle_Face_to_Face_Translation.jpg",
-                "cap": "Timekettle 대면 번역 (Timekettle)"
+                "x": "Microducks는 크리스마스에 맞춰 배송될 예정이다. Delangue는 이 로봇이 올해 가장 많이 팔린 로봇이 될 수도 있고 어쩌면 아이들용도 아닐 수 있다고 본다."
               },
               {
                 "t": "p",
-                "x": "지원 언어가 늘었다고 해서 완벽하게 알아듣는다는 뜻은 아니다. 지역 억양과 배경 소음, 현지 표현은 여전히 문제가 될 수 있고, 늘어난 번역 기능은 아직 독립 검증을 거치지 않았다. 업데이트는 W4 Pro와 W4 Plus 사용자에게 이미 배포되고 있어 새 이어폰을 살 필요는 없다."
+                "x": "Microducks는 Hugging Face가 2025년에 인수한 Pollen Robotics가 만든 오픈소스 기기다. GPU 거대 기업 Nvidia가 9월에 Hugging Face를 인수하면서 이제는 Nvidia 계열이 됐다. Reachy Mini에 이은 Hugging Face의 두 번째 로봇이다."
               },
               {
                 "t": "p",
-                "x": "아래 영상은 이번 업데이트로 오프라인 언어 지원이 넓어지기 전에 W4 Pro 번역 기능을 시연한 이전 영상이다."
-              },
-              {
-                "t": "video",
-                "yt": "SOqC9YXPsJA"
+                "x": "Microducks는 Nvidia의 기술 스택으로 훈련했다. 시뮬레이션 속 로봇에게 출시 때 탑재되는 기본 동작(걷기, 앉기, 서기 등)을 가르치는 방식이다. Pollen에 따르면 소유자는 로봇에게 새 동작을 가르쳐 커뮤니티와 나눌 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Timekettle W4に\nオフライン12言語ペア",
-          "body": "更新でW4 ProとW4 PlusにWi-Fiや回線なしで使える12の言語ペアが加わる。",
-          "mini_headline": "Timekettle W4にオフライン12ペア",
+          "headline": "Microduckの予約\n20,000台を突破",
+          "body": "Pollen RoboticsのMicroducksの予約が20,000台を超えた。",
+          "mini_headline": "Microduck予約20,000台超",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/TimeKettle.png"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676"
               },
               {
                 "t": "p",
-                "x": "Timekettleの翻訳イヤホンが、もう少し多言語に対応する。通訳イヤホンW4 ProとW4 Plus向けの新しいソフトウェアアップデートで、オフラインの言語ペアが12組追加される。W4 Proは2025年から販売されており、より新しいW4 Plusは2026年9月に登場した。両機種ともすでにオフライン翻訳に対応していたが、10月20日のアップデートで対応するオフライン言語ペアは13組から25組に増え、12言語をカバーする。"
+                "x": "今週初め、Nvidia CEOのJensen HuangがGTC Berlinカンファレンスの基調講演中、よちよち歩くMicroducksの群れと戯れる動画が話題になった。ロボットたちは小さな足を踏み鳴らし、R2-D2のような小さな音を出しながら、音声コマンドに応じて座り、死んだように倒れて「昼寝」をし、宙返りをした。Hugging FaceのClem Delangueはツイートで、翌日までにMicroducksの予約が20,000台を超えたと述べた。"
               },
               {
                 "t": "p",
-                "x": "追加された12組には、アラビア語、タイ語、イタリア語、ポルトガル語、インドネシア語、ベトナム語が含まれ、いずれも英語および中国語との双方向翻訳に対応する。これらは日本語、スペイン語、ロシア語、韓国語、ドイツ語、フランス語などの既存言語に加わる。オンライン翻訳の対応範囲も広がり、カザフ語とクメール語が新たに加わって54言語、108のアクセントに達した。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Timekettle_Face_to_Face_Translation.jpg",
-                "cap": "Timekettleの対面翻訳（Timekettle）"
+                "x": "Microducksはクリスマスに間に合うよう届けられる見込みで、Delangueは今年最も売れるロボットになるかもしれないと考えている。しかも子ども向けとは限らないかもしれないという。"
               },
               {
                 "t": "p",
-                "x": "対応言語が増えても、完璧に理解できるとは限らない。地域のなまり、周囲の雑音、地元特有の表現は依然として問題になりうるうえ、拡張された翻訳機能はまだ独立した検証を受けていない。アップデートはすでにW4 ProとW4 Plusの所有者に提供されており、新しいイヤホンは必要ない。"
+                "x": "MicroducksはHugging Faceが2025年に買収したPollen Roboticsが製造するオープンソースのデバイスで、つまり今はNvidia傘下の製品ということになる。このGPU大手は9月にHugging Faceを買収した。Reachy Miniに続く、Hugging Faceの二つ目のロボットだ。"
               },
               {
                 "t": "p",
-                "x": "下の動画は、最新アップデートでオフライン言語対応が拡大される前に行われた、W4 Proの翻訳機能の過去のデモだ。"
-              },
-              {
-                "t": "video",
-                "yt": "SOqC9YXPsJA"
+                "x": "MicroducksはNvidiaの技術スタックを使って訓練された。シミュレーション上で、出荷時に備わる基本的な動作(歩く、座る、立つなど)を学ばせたのだ。Pollenによると、所有者はロボットに新しい動作を教え、コミュニティと共有できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Timekettle W4\n新增12个离线语言对",
-          "body": "更新为W4 Pro和W4 Plus新增12个无需Wi-Fi或移动数据的离线语言对。",
-          "mini_headline": "Timekettle W4新增12个离线语言对",
+          "headline": "Microduck机器人\n预订量破20,000台",
+          "body": "Pollen Robotics的Microducks可按口令表演，预订已超20,000台。",
+          "mini_headline": "Microduck预订破20,000台",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/TimeKettle.png"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676"
               },
               {
                 "t": "p",
-                "x": "Timekettle的翻译耳机又多了一些多语种能力。W4 Pro和W4 Plus同传耳机的一次新软件更新新增了12个离线语言对。W4 Pro于2025年推出，更新的W4 Plus则在2026年9月上市。两款产品此前均已支持离线翻译；10月20日的更新将支持的离线语言对从13个扩展到25个，覆盖12种语言。"
+                "x": "本周早些时候，Nvidia CEO Jensen Huang在公司GTC Berlin大会主题演讲中与一群摇摇摆摆的Microducks互动的视频走红网络。这些机器人跺着小脚、发出R2-D2般的细小声响，按语音指令坐下、倒地装死“打盹”，还会翻跟头。Hugging Face的Clem Delangue在推文中表示，到次日，Microducks的预订量已超过20,000台。"
               },
               {
                 "t": "p",
-                "x": "新增的12个语言对包括阿拉伯语、泰语、意大利语、葡萄牙语、印尼语和越南语，均支持与英语和中文的双向翻译。它们加入了日语、西班牙语、俄语、韩语、德语和法语等既有语言。在线翻译覆盖范围也有所扩大，新增哈萨克语和高棉语，达到54种语言和108种口音。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Timekettle_Face_to_Face_Translation.jpg",
-                "cap": "Timekettle面对面翻译（Timekettle）"
+                "x": "Microducks预计将在圣诞节前交付，Delangue认为它们可能成为年度最畅销的机器人——而且买家可能还不只是孩子。"
               },
               {
                 "t": "p",
-                "x": "支持更多语言并不意味着能完美理解。地方口音、背景噪音和本地说法仍可能造成问题，而扩展后的翻译能力尚未经过独立测试。W4 Pro和W4 Plus用户现已可以获取此次更新，无需购买新耳机。"
+                "x": "Microducks是由Pollen Robotics生产的开源设备，该公司于2025年被Hugging Face收购，这意味着它们如今属于Nvidia旗下：这家GPU巨头在9月收购了Hugging Face。这是Hugging Face继Reachy Mini之后的第二款机器人。"
               },
               {
                 "t": "p",
-                "x": "下方视频展示的是W4 Pro翻译功能的早期演示，当时最新更新尚未扩展其离线语言支持。"
-              },
-              {
-                "t": "video",
-                "yt": "SOqC9YXPsJA"
+                "x": "Microducks使用Nvidia的技术栈训练，先在模拟环境中学会出厂自带的基础动作(行走、坐下、站立等)。Pollen表示，用户可以训练机器人学习新动作，并与社区分享。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los auriculares Timekettle W4\nsuman 12 pares sin conexión",
-          "body": "Una actualización suma 12 pares de idiomas sin conexión al W4 Pro y al W4 Plus, sin Wi-Fi ni datos móviles.",
-          "mini_headline": "Timekettle W4 suma 12 pares sin conexión",
+          "headline": "Los robots Microduck de Pollen\nsuperan los 20,000 pedidos",
+          "body": "Los Microducks de Pollen Robotics pisotean, duermen y dan volteretas por voz, y sus reservas superan las 20,000.",
+          "mini_headline": "Microduck supera 20,000 reservas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/TimeKettle.png"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676"
               },
               {
                 "t": "p",
-                "x": "Los auriculares de traducción de Timekettle se vuelven un poco más multilingües. Una nueva actualización de software para los auriculares intérpretes W4 Pro y W4 Plus añade 12 pares de idiomas sin conexión. El W4 Pro existe desde 2025, mientras que el más reciente W4 Plus llegó en septiembre de 2026. Ambos ya ofrecían traducción sin conexión; la actualización del 20 de octubre amplía los pares de idiomas sin conexión compatibles de 13 a 25, que abarcan 12 idiomas."
+                "x": "A principios de esta semana se viralizó un video del CEO de Nvidia, Jensen Huang, jugando con un grupo de Microducks que caminaban como patos durante su discurso principal en la conferencia GTC Berlin de la compañía. Los robots, que pisoteaban con sus patitas y emitían pequeños sonidos al estilo de R2-D2, se sentaron, se desplomaron como muertos para tomar una “siesta” y dieron volteretas por comando de voz. Al día siguiente, las reservas de Microducks superaron las 20,000 unidades, según dijo Clem Delangue, de Hugging Face, en un tuit."
               },
               {
                 "t": "p",
-                "x": "Las 12 incorporaciones incluyen árabe, tailandés, italiano, portugués, indonesio y vietnamita, cada uno con traducción bidireccional con inglés y chino. Se suman a idiomas ya disponibles como japonés, español, ruso, coreano, alemán y francés. La cobertura de traducción en línea también mejora y alcanza 54 idiomas y 108 acentos, con la incorporación del kazajo y el jemer."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Timekettle_Face_to_Face_Translation.jpg",
-                "cap": "Traducción cara a cara de Timekettle (Timekettle)"
+                "x": "Se espera que los Microducks se entreguen a tiempo para Navidad, y Delangue cree que podrían acabar siendo el robot más vendido del año, y quizá ni siquiera para niños."
               },
               {
                 "t": "p",
-                "x": "Admitir más idiomas no significa necesariamente entenderlos a la perfección. Los acentos regionales, el ruido de fondo y las expresiones locales todavía pueden causar problemas, y las capacidades de traducción ampliadas no se han probado de forma independiente. La actualización ya está disponible para los propietarios de W4 Pro y W4 Plus, sin necesidad de comprar auriculares nuevos."
+                "x": "Los Microducks son dispositivos de código abierto fabricados por Pollen Robotics, empresa que Hugging Face adquirió en 2025, lo que significa que ahora pertenecen a Nvidia: el gigante de las GPU compró Hugging Face en septiembre. Es el segundo robot de Hugging Face, después de Reachy Mini."
               },
               {
                 "t": "p",
-                "x": "El siguiente video muestra una demostración anterior de las funciones de traducción del W4 Pro, antes de que la última actualización ampliara su compatibilidad con idiomas sin conexión."
-              },
-              {
-                "t": "video",
-                "yt": "SOqC9YXPsJA"
+                "x": "Los Microducks se entrenaron con el conjunto tecnológico de Nvidia: en simulaciones aprendieron los trucos básicos (caminar, sentarse, ponerse de pie, etc.) con los que se entregan. Pollen afirma que los propietarios pueden enseñar nuevos trucos a sus robots y compartirlos con la comunidad."
               }
             ]
           }
@@ -961,157 +857,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Timekettle W4에\n오프라인 언어쌍 12개",
-          "body": "W4 Pro와 W4 Plus가 Wi-Fi·데이터 없이 쓸 언어쌍 12개를 얻는다.",
-          "mini_headline": "Timekettle W4, 오프라인 언어쌍 12개 추가",
+          "headline": "Microduck 로봇\n선주문 20,000대 돌파",
+          "body": "Pollen Robotics의 Microducks가 선주문 20,000대를 넘겼다.",
+          "mini_headline": "Microduck 선주문 20,000대 돌파",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/TimeKettle.png"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676"
               },
               {
                 "t": "p",
-                "x": "Timekettle의 번역 이어폰이 조금 더 다국어에 가까워진다. 통역 이어폰 W4 Pro와 W4 Plus용 새 소프트웨어 업데이트가 오프라인 언어쌍 12개를 추가한다. W4 Pro는 2025년부터 나와 있었고, 더 새로운 W4 Plus는 2026년 9월에 출시됐다. 두 제품 모두 이미 오프라인 번역을 지원했으며, 10월 20일 업데이트로 지원 오프라인 언어쌍이 13개에서 25개로 늘어 12개 언어를 아우른다."
+                "x": "이번 주 초, Nvidia CEO Jensen Huang이 GTC Berlin 콘퍼런스 기조연설 도중 뒤뚱거리는 Microducks 무리와 노는 영상이 화제가 됐다. 로봇들은 작은 발을 구르며 R2-D2 같은 작은 소리를 냈고, 음성 명령에 따라 앉고, 죽은 듯 쓰러져 “낮잠”을 자고, 공중제비를 돌았다. Hugging Face의 Clem Delangue는 트윗에서 다음 날까지 Microducks 선주문이 20,000대를 넘었다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "추가된 12개에는 아랍어, 태국어, 이탈리아어, 포르투갈어, 인도네시아어, 베트남어가 포함되며, 각각 영어·중국어와 양방향 번역을 지원한다. 이들은 일본어, 스페인어, 러시아어, 한국어, 독일어, 프랑스어 등 기존 언어에 합류한다. 온라인 번역 범위도 넓어져 카자흐어와 크메르어가 새로 더해지며 54개 언어, 108개 억양에 이른다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Timekettle_Face_to_Face_Translation.jpg",
-                "cap": "Timekettle 대면 번역 (Timekettle)"
+                "x": "Microducks는 크리스마스에 맞춰 배송될 예정이다. Delangue는 이 로봇이 올해 가장 많이 팔린 로봇이 될 수도 있으며, 어쩌면 아이들용도 아닐 수 있다고 본다."
               },
               {
                 "t": "p",
-                "x": "지원 언어가 늘었다고 해서 완벽하게 이해한다는 뜻은 아니다. 지역 억양, 배경 소음, 현지 표현은 여전히 문제를 일으킬 수 있고, 확장된 번역 기능은 아직 독립적으로 검증되지 않았다. 업데이트는 이미 W4 Pro와 W4 Plus 사용자에게 제공되고 있으며, 새 이어폰을 살 필요는 없다."
+                "x": "Microducks는 Hugging Face가 2025년에 인수한 Pollen Robotics가 만든 오픈소스 기기다. 이 GPU 거대 기업이 9월에 Hugging Face를 인수했으니 이제는 Nvidia 계열이다. Reachy Mini에 이은 Hugging Face의 두 번째 로봇이다."
               },
               {
                 "t": "p",
-                "x": "아래 영상은 최신 업데이트로 오프라인 언어 지원이 확대되기 전, W4 Pro의 번역 기능을 시연한 이전 영상이다."
-              },
-              {
-                "t": "video",
-                "yt": "SOqC9YXPsJA"
+                "x": "Microducks는 Nvidia의 기술 스택으로 훈련했다. 시뮬레이션 속 로봇에게 출시 때 탑재되는 기본 동작(걷기, 앉기, 서기 등)을 가르치는 방식이다. Pollen은 소유자가 로봇에게 새 동작을 가르치고 커뮤니티와 공유할 수 있다고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Timekettle W4に\nオフライン12言語ペア",
-          "body": "更新でW4 ProとW4 PlusにWi-Fiや回線なしで使える12の言語ペアが加わる。",
-          "mini_headline": "Timekettle W4にオフライン12ペア",
+          "headline": "Microduckの予約\n20,000台を突破",
+          "body": "Pollen RoboticsのMicroducksの予約が20,000台を超えた。",
+          "mini_headline": "Microduck予約20,000台超",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/TimeKettle.png"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676"
               },
               {
                 "t": "p",
-                "x": "Timekettleの翻訳イヤホンが、もう少し多言語に対応する。通訳イヤホンW4 ProとW4 Plus向けの新しいソフトウェアアップデートで、オフラインの言語ペアが12組追加される。W4 Proは2025年から販売されており、より新しいW4 Plusは2026年9月に登場した。両機種ともすでにオフライン翻訳に対応していたが、10月20日のアップデートで対応するオフライン言語ペアは13組から25組に増え、12言語をカバーする。"
+                "x": "今週初め、Nvidia CEOのJensen HuangがGTC Berlinカンファレンスの基調講演中、よちよち歩くMicroducksの群れと戯れる動画が話題になった。ロボットたちは小さな足を踏み鳴らし、R2-D2のような小さな音を出しながら、音声コマンドに応じて座り、死んだように倒れて「昼寝」をし、宙返りをした。Hugging FaceのClem Delangueはツイートで、翌日までにMicroducksの予約が20,000台を超えたと述べた。"
               },
               {
                 "t": "p",
-                "x": "追加された12組には、アラビア語、タイ語、イタリア語、ポルトガル語、インドネシア語、ベトナム語が含まれ、いずれも英語および中国語との双方向翻訳に対応する。これらは日本語、スペイン語、ロシア語、韓国語、ドイツ語、フランス語などの既存言語に加わる。オンライン翻訳の対応範囲も広がり、カザフ語とクメール語が新たに加わって54言語、108のアクセントに達した。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Timekettle_Face_to_Face_Translation.jpg",
-                "cap": "Timekettleの対面翻訳（Timekettle）"
+                "x": "Microducksはクリスマスに間に合うよう届けられる見込みで、Delangueは今年最も売れるロボットになるかもしれないと考えている。しかも子ども向けとは限らないかもしれないという。"
               },
               {
                 "t": "p",
-                "x": "対応言語が増えても、完璧に理解できるとは限らない。地域のなまり、周囲の雑音、地元特有の表現は依然として問題になりうるうえ、拡張された翻訳機能はまだ独立した検証を受けていない。アップデートはすでにW4 ProとW4 Plusの所有者に提供されており、新しいイヤホンは必要ない。"
+                "x": "MicroducksはHugging Faceが2025年に買収したPollen Roboticsが製造するオープンソースのデバイスで、つまり今はNvidia傘下の製品ということになる。このGPU大手は9月にHugging Faceを買収した。Reachy Miniに続く、Hugging Faceの二つ目のロボットだ。"
               },
               {
                 "t": "p",
-                "x": "下の動画は、最新アップデートでオフライン言語対応が拡大される前に行われた、W4 Proの翻訳機能の過去のデモだ。"
-              },
-              {
-                "t": "video",
-                "yt": "SOqC9YXPsJA"
+                "x": "MicroducksはNvidiaの技術スタックを使って訓練された。シミュレーション上で、出荷時に備わる基本的な動作(歩く、座る、立つなど)を学ばせたのだ。Pollenによると、所有者はロボットに新しい動作を教え、コミュニティと共有できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Timekettle W4\n新增12个离线语言对",
-          "body": "更新为W4 Pro和W4 Plus新增12个无需Wi-Fi或移动数据的离线语言对。",
-          "mini_headline": "Timekettle W4新增12个离线语言对",
+          "headline": "Microduck机器人\n预订量破20,000台",
+          "body": "Pollen Robotics的Microducks可按口令表演，预订已超20,000台。",
+          "mini_headline": "Microduck预订破20,000台",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/TimeKettle.png"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676"
               },
               {
                 "t": "p",
-                "x": "Timekettle的翻译耳机又多了一些多语种能力。W4 Pro和W4 Plus同传耳机的一次新软件更新新增了12个离线语言对。W4 Pro于2025年推出，更新的W4 Plus则在2026年9月上市。两款产品此前均已支持离线翻译；10月20日的更新将支持的离线语言对从13个扩展到25个，覆盖12种语言。"
+                "x": "本周早些时候，Nvidia CEO Jensen Huang在公司GTC Berlin大会主题演讲中与一群摇摇摆摆的Microducks互动的视频走红网络。这些机器人跺着小脚、发出R2-D2般的细小声响，按语音指令坐下、倒地装死“打盹”，还会翻跟头。Hugging Face的Clem Delangue在推文中表示，到次日，Microducks的预订量已超过20,000台。"
               },
               {
                 "t": "p",
-                "x": "新增的12个语言对包括阿拉伯语、泰语、意大利语、葡萄牙语、印尼语和越南语，均支持与英语和中文的双向翻译。它们加入了日语、西班牙语、俄语、韩语、德语和法语等既有语言。在线翻译覆盖范围也有所扩大，新增哈萨克语和高棉语，达到54种语言和108种口音。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Timekettle_Face_to_Face_Translation.jpg",
-                "cap": "Timekettle面对面翻译（Timekettle）"
+                "x": "Microducks预计将在圣诞节前交付，Delangue认为它们可能成为年度最畅销的机器人——而且买家可能还不只是孩子。"
               },
               {
                 "t": "p",
-                "x": "支持更多语言并不意味着能完美理解。地方口音、背景噪音和本地说法仍可能造成问题，而扩展后的翻译能力尚未经过独立测试。W4 Pro和W4 Plus用户现已可以获取此次更新，无需购买新耳机。"
+                "x": "Microducks是由Pollen Robotics生产的开源设备，该公司于2025年被Hugging Face收购，这意味着它们如今属于Nvidia旗下：这家GPU巨头在9月收购了Hugging Face。这是Hugging Face继Reachy Mini之后的第二款机器人。"
               },
               {
                 "t": "p",
-                "x": "下方视频展示的是W4 Pro翻译功能的早期演示，当时最新更新尚未扩展其离线语言支持。"
-              },
-              {
-                "t": "video",
-                "yt": "SOqC9YXPsJA"
+                "x": "Microducks使用Nvidia的技术栈训练，先在模拟环境中学会出厂自带的基础动作(行走、坐下、站立等)。Pollen表示，用户可以训练机器人学习新动作，并与社区分享。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los auriculares Timekettle W4\nsuman 12 pares sin conexión",
-          "body": "Una actualización suma 12 pares de idiomas sin conexión al W4 Pro y al W4 Plus, sin Wi-Fi ni datos móviles.",
-          "mini_headline": "Timekettle W4 suma 12 pares sin conexión",
+          "headline": "Los robots Microduck de Pollen\nsuperan los 20,000 pedidos",
+          "body": "Los Microducks de Pollen Robotics pisotean, duermen y dan volteretas por voz, y sus reservas superan las 20,000.",
+          "mini_headline": "Microduck supera 20,000 reservas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/TimeKettle.png"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676"
               },
               {
                 "t": "p",
-                "x": "Los auriculares de traducción de Timekettle se vuelven un poco más multilingües. Una nueva actualización de software para los auriculares intérpretes W4 Pro y W4 Plus añade 12 pares de idiomas sin conexión. El W4 Pro existe desde 2025, mientras que el más reciente W4 Plus llegó en septiembre de 2026. Ambos ya ofrecían traducción sin conexión; la actualización del 20 de octubre amplía los pares de idiomas sin conexión compatibles de 13 a 25, que abarcan 12 idiomas."
+                "x": "A principios de esta semana se viralizó un video del CEO de Nvidia, Jensen Huang, jugando con un grupo de Microducks que caminaban como patos durante su discurso principal en la conferencia GTC Berlin de la compañía. Los robots, que pisoteaban con sus patitas y emitían pequeños sonidos al estilo de R2-D2, se sentaron, se desplomaron como muertos para tomar una “siesta” y dieron volteretas por comando de voz. Al día siguiente, las reservas de Microducks superaron las 20,000 unidades, según dijo Clem Delangue, de Hugging Face, en un tuit."
               },
               {
                 "t": "p",
-                "x": "Las 12 incorporaciones incluyen árabe, tailandés, italiano, portugués, indonesio y vietnamita, cada uno con traducción bidireccional con inglés y chino. Se suman a idiomas ya disponibles como japonés, español, ruso, coreano, alemán y francés. La cobertura de traducción en línea también mejora y alcanza 54 idiomas y 108 acentos, con la incorporación del kazajo y el jemer."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Timekettle_Face_to_Face_Translation.jpg",
-                "cap": "Traducción cara a cara de Timekettle (Timekettle)"
+                "x": "Se espera que los Microducks se entreguen a tiempo para Navidad, y Delangue cree que podrían acabar siendo el robot más vendido del año, y quizá ni siquiera para niños."
               },
               {
                 "t": "p",
-                "x": "Admitir más idiomas no significa necesariamente entenderlos a la perfección. Los acentos regionales, el ruido de fondo y las expresiones locales todavía pueden causar problemas, y las capacidades de traducción ampliadas no se han probado de forma independiente. La actualización ya está disponible para los propietarios de W4 Pro y W4 Plus, sin necesidad de comprar auriculares nuevos."
+                "x": "Los Microducks son dispositivos de código abierto fabricados por Pollen Robotics, empresa que Hugging Face adquirió en 2025, lo que significa que ahora pertenecen a Nvidia: el gigante de las GPU compró Hugging Face en septiembre. Es el segundo robot de Hugging Face, después de Reachy Mini."
               },
               {
                 "t": "p",
-                "x": "El siguiente video muestra una demostración anterior de las funciones de traducción del W4 Pro, antes de que la última actualización ampliara su compatibilidad con idiomas sin conexión."
-              },
-              {
-                "t": "video",
-                "yt": "SOqC9YXPsJA"
+                "x": "Los Microducks se entrenaron con el conjunto tecnológico de Nvidia: en simulaciones aprendieron los trucos básicos (caminar, sentarse, ponerse de pie, etc.) con los que se entregan. Pollen afirma que los propietarios pueden enseñar nuevos trucos a sus robots y compartirlos con la comunidad."
               }
             ]
           }
@@ -1119,279 +979,165 @@
       }
     },
     {
-      "id": "gadgets-be-my-ai-study",
+      "id": "gadgets-gemini-notebook-connected-app",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI는 사진을 설명해도\n시각장애인의 요구는 놓친다",
-      "body": "메릴랜드대 연구에서 Be My AI는 시각장애인에게 핵심 대신 긴 답을 자주 줬다.",
-      "mini_headline": "Be My AI, 핵심을 놓치다",
       "tool": "Gadgets",
-      "source": "Digital Trends",
-      "url": "https://www.digitaltrends.com/cool-tech/ai-apps-blind-users-umd-study/",
+      "eyebrow": "AI NEWS",
+      "headline": "Gemini 채팅 안에서\nNotebook을 쓴다",
+      "body": "Gemini Notebook이 Connected App이 돼 채팅에서 바로 열린다.",
+      "mini_headline": "Gemini 채팅 속 Notebook",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/gemini-notebook-connected-app-3727634/",
       "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Blind-Man-using-walking-stick.jpg?resize=1200%2C720&ssl=1",
-            "cap": "Eren Li / Pexels"
+            "src": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg"
           },
           {
             "t": "p",
-            "x": "University of Maryland(UMD) 연구진은 AI 기반(AI-powered) 시각 보조 기능이 시각장애인 사용자에게 정작 필요한 정보를 얻기까지 지나치게 많은 수고를 떠넘길 수 있다고 확인했다. 연구 제목은 ‘Say It My Way: Exploring Control in Conversational Visual Question Answering with Blind Users’다. 연구진은 Be My Eyes 앱의 AI 기반 기능인 Be My AI를 사람들이 어떻게 쓰는지 살폈다."
+            "x": "Gemini 앱을 더 쓸모 있게 만들고 싶다면 Connected Apps를 써볼 만하다. 챗봇과 연동되는 앱이라 Gemini 대화를 벗어나지 않고 해당 서비스를 쓸 수 있다. 최근 Peloton, SeatGeek, Airtable 등이 Connected Apps에 합류했고 Google은 여기서 멈추지 않았다. 쓸 만한 앱 하나가 또 Connected App 대열에 들어섰다."
           },
           {
             "t": "p",
-            "x": "연구진은 시각장애인 참가자 11명을 모았다. 참가자들은 실험실에서 먼저 Be My AI를 써 본 뒤 10일 동안 일상에서 사용했고, 연구팀은 상호작용 418건을 분석했다."
-          },
-          {
-            "t": "img",
-            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Example-interaction-consisting-of-five-conversational-turns-with-word-count-for-each-turn.jpg?resize=1800%2C1080&ssl=1",
-            "cap": "University of Maryland"
+            "x": "NotebookLM에서 이름을 바꾼 유용한 학습 도구 Gemini Notebook이 이제 Connected App이 됐다. Gemini 채팅 안에서 바로 노트북을 관리하고 질문할 수 있다. 채팅에 @Gemini Notebook을 입력하기만 하면 새 노트북 만들기, 소스 추가, 메모 저장, 기존 노트북 정보 조회를 시작할 수 있다."
           },
           {
             "t": "p",
-            "x": "참가자 질문은 보통 10~20단어 안팎이었지만 AI 답변은 10배 이상 길었다. 대화는 평균 세 차례 오갔고, 길게는 21회까지 이어졌다. 열쇠를 찾던 한 참가자는 잃어버린 물건에 초점을 맞춘 답 대신 이미지를 길게 묘사한 답을 받았다. 참가자 절반 이상은 앱이 이미지 전체 묘사부터 꺼내는 습관을 심각한 문제로 꼽았다."
-          },
-          {
-            "t": "p",
-            "x": "질문하는 이유를 설명한 참가자도 있었고, 복잡한 작업을 작은 질문 여러 개로 나눈 참가자도 있었다."
-          },
-          {
-            "t": "img",
-            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Be-My-AI-in-a-laboratory-testing.jpg?resize=1800%2C1080&ssl=1",
-            "cap": "University of Maryland"
-          },
-          {
-            "t": "p",
-            "x": "거리와 시간에 따른 변화를 가늠하기 어렵다는 점, 접근하기 어려운 이미지 구도, 카메라 위치 안내 부족도 연구에서 드러났다. 연구진은 시각장애인 사용자가 간단한 답 하나를 얻으려고 복잡한 프롬프트까지 익혀야 해서는 안 된다고 주장한다."
+            "x": "순차 출시를 기다릴 필요도 없다. 새 Connected App은 지금 바로 쓸 수 있다. Workspace 고객이든 Workspace Individual 구독자든 개인 Google 계정 사용자든 Gemini Notebook Connected App을 이용할 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI can describe a picture but\nmisses what blind users need",
-          "body": "A University of Maryland study finds Be My AI often gives blind users long answers, not the specific facts they need.",
-          "mini_headline": "Be My AI misses the point",
+          "headline": "Gemini Notebook now works\ninside your Gemini chats",
+          "body": "Google has made Gemini Notebook a Connected App, so you can manage notebooks from a Gemini chat without switching apps.",
+          "mini_headline": "Notebooks inside Gemini chats",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Blind-Man-using-walking-stick.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Eren Li / Pexels"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "Researchers at the University of Maryland (UMD) have found that AI-powered visual assistance can leave blind users doing too much work to get the information they actually need. The study, titled Say It My Way: Exploring Control in Conversational Visual Question Answering with Blind Users, examined how people interact with Be My AI, an AI-powered feature of the Be My Eyes app."
+                "x": "If you want to make the Gemini app more useful, you could start using Connected Apps. These are apps that can be integrated with the chatbot, allowing you to access their services without leaving your Gemini conversation. Recently, Peloton, SeatGeek, Airtable, and others have become Connected Apps, but Google is far from done. Another useful app just joined the Connected App collection."
               },
               {
                 "t": "p",
-                "x": "The researchers recruited 11 blind participants, who first tested Be My AI in a laboratory before using it in their daily lives for 10 days. The team analyzed 418 interactions."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Example-interaction-consisting-of-five-conversational-turns-with-word-count-for-each-turn.jpg?resize=1800%2C1080&ssl=1",
-                "cap": "University of Maryland"
+                "x": "The helpful learning tool Gemini Notebook, formerly NotebookLM, is now a Connected App. That means you’ll now be able to manage and query notebooks within your chats with Gemini. All you have to do is type @Gemini Notebook into chat, and you can start creating new notebooks, adding sources, saving notes, and accessing information from an existing notebook."
               },
               {
                 "t": "p",
-                "x": "Participants typically asked questions of around 10 to 20 words, while the AI’s responses were more than 10 times longer. Conversations averaged three turns, but some stretched to 21 exchanges. A participant looking for her keys received a lengthy description of the image instead of a response focused on the missing item. More than half the participants considered the app’s habit of starting with a full image description a significant problem."
-              },
-              {
-                "t": "p",
-                "x": "Some participants explained why they were asking a question; others broke complicated tasks into smaller questions."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Be-My-AI-in-a-laboratory-testing.jpg?resize=1800%2C1080&ssl=1",
-                "cap": "University of Maryland"
-              },
-              {
-                "t": "p",
-                "x": "The study also exposed difficulty estimating distances and changes over time, inaccessible image framing, and limited guidance on camera positioning. The researchers argue that blind users shouldn’t have to master complex prompts to get simple answers."
+                "x": "You won’t have to wait for a rollout, as the new Connected App is available right now. Whether you’re a Workspace customer, Workspace Individual subscriber, or a personal Google account user, you should have access to the Gemini Notebook Connected App."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI는 사진을 설명해도\n시각장애인의 요구는 놓친다",
-          "body": "메릴랜드대 연구에서 Be My AI는 시각장애인에게 핵심 대신 긴 답을 자주 줬다.",
-          "mini_headline": "Be My AI, 핵심을 놓치다",
+          "headline": "Gemini 채팅 안에서\nNotebook을 쓴다",
+          "body": "Gemini Notebook이 Connected App이 돼 채팅에서 바로 열린다.",
+          "mini_headline": "Gemini 채팅 속 Notebook",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Blind-Man-using-walking-stick.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Eren Li / Pexels"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "University of Maryland(UMD) 연구진은 AI 기반(AI-powered) 시각 보조 기능이 시각장애인 사용자에게 정작 필요한 정보를 얻기까지 지나치게 많은 수고를 떠넘길 수 있다고 확인했다. 연구 제목은 ‘Say It My Way: Exploring Control in Conversational Visual Question Answering with Blind Users’다. 연구진은 Be My Eyes 앱의 AI 기반 기능인 Be My AI를 사람들이 어떻게 쓰는지 살폈다."
+                "x": "Gemini 앱을 더 쓸모 있게 만들고 싶다면 Connected Apps를 써볼 만하다. 챗봇과 연동되는 앱이라 Gemini 대화를 벗어나지 않고 해당 서비스를 쓸 수 있다. 최근 Peloton, SeatGeek, Airtable 등이 Connected Apps에 합류했고 Google은 여기서 멈추지 않았다. 쓸 만한 앱 하나가 또 Connected App 대열에 들어섰다."
               },
               {
                 "t": "p",
-                "x": "연구진은 시각장애인 참가자 11명을 모았다. 참가자들은 실험실에서 먼저 Be My AI를 써 본 뒤 10일 동안 일상에서 사용했고, 연구팀은 상호작용 418건을 분석했다."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Example-interaction-consisting-of-five-conversational-turns-with-word-count-for-each-turn.jpg?resize=1800%2C1080&ssl=1",
-                "cap": "University of Maryland"
+                "x": "NotebookLM에서 이름을 바꾼 유용한 학습 도구 Gemini Notebook이 이제 Connected App이 됐다. Gemini 채팅 안에서 바로 노트북을 관리하고 질문할 수 있다. 채팅에 @Gemini Notebook을 입력하기만 하면 새 노트북 만들기, 소스 추가, 메모 저장, 기존 노트북 정보 조회를 시작할 수 있다."
               },
               {
                 "t": "p",
-                "x": "참가자 질문은 보통 10~20단어 안팎이었지만 AI 답변은 10배 이상 길었다. 대화는 평균 세 차례 오갔고, 길게는 21회까지 이어졌다. 열쇠를 찾던 한 참가자는 잃어버린 물건에 초점을 맞춘 답 대신 이미지를 길게 묘사한 답을 받았다. 참가자 절반 이상은 앱이 이미지 전체 묘사부터 꺼내는 습관을 심각한 문제로 꼽았다."
-              },
-              {
-                "t": "p",
-                "x": "질문하는 이유를 설명한 참가자도 있었고, 복잡한 작업을 작은 질문 여러 개로 나눈 참가자도 있었다."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Be-My-AI-in-a-laboratory-testing.jpg?resize=1800%2C1080&ssl=1",
-                "cap": "University of Maryland"
-              },
-              {
-                "t": "p",
-                "x": "거리와 시간에 따른 변화를 가늠하기 어렵다는 점, 접근하기 어려운 이미지 구도, 카메라 위치 안내 부족도 연구에서 드러났다. 연구진은 시각장애인 사용자가 간단한 답 하나를 얻으려고 복잡한 프롬프트까지 익혀야 해서는 안 된다고 주장한다."
+                "x": "순차 출시를 기다릴 필요도 없다. 새 Connected App은 지금 바로 쓸 수 있다. Workspace 고객이든 Workspace Individual 구독자든 개인 Google 계정 사용자든 Gemini Notebook Connected App을 이용할 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIは画像を説明できても\n視覚障害者の求める情報を逃す",
-          "body": "メリーランド大の研究で、Be My AIは視覚障害者に長い答えばかり返すと分かった。",
-          "mini_headline": "Be My AIは要点を外す",
+          "headline": "Geminiのチャットで\nNotebookが使える",
+          "body": "Gemini NotebookがConnected Appになり、チャット内で使える。",
+          "mini_headline": "GeminiチャットでNotebook",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Blind-Man-using-walking-stick.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Eren Li / Pexels"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "University of Maryland（UMD）の研究者らは、AIを活用した（AI-powered）視覚支援が、視覚障害のあるユーザーに、本当に必要な情報を得るまで過大な手間を強いる場合があることを明らかにした。「Say It My Way: Exploring Control in Conversational Visual Question Answering with Blind Users」と題したこの研究は、Be My EyesアプリのAI機能であるBe My AIを人々がどう使うかを調べた。"
+                "x": "Geminiアプリをもっと便利にしたいなら、Connected Appsを使い始めるのも手だ。チャットボットと連携できるアプリで、Geminiとの会話を離れずにそのサービスを利用できる。最近はPeloton、SeatGeek、AirtableなどがConnected Appsになったが、Googleの取り組みはまだ終わらない。また一つ、便利なアプリがConnected Appの仲間入りをした。"
               },
               {
                 "t": "p",
-                "x": "研究チームは視覚障害のある参加者11人を募り、まず実験室でBe My AIを試してもらった後、10日間日常生活で使ってもらった。チームは418件のやり取りを分析した。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Example-interaction-consisting-of-five-conversational-turns-with-word-count-for-each-turn.jpg?resize=1800%2C1080&ssl=1",
-                "cap": "University of Maryland"
+                "x": "便利な学習ツールGemini Notebook(旧NotebookLM)が、Connected Appになった。これにより、Geminiとのチャット内でノートブックを管理し、質問できるようになる。チャットに@Gemini Notebookと入力するだけで、新しいノートブックの作成、ソースの追加、メモの保存、既存ノートブックの情報参照を始められる。"
               },
               {
                 "t": "p",
-                "x": "参加者の質問は通常10〜20語程度だったが、AIの回答はその10倍以上の長さだった。会話は平均三往復だったが、21回に及ぶものもあった。鍵を探していたある参加者は、なくした物に焦点を当てた答えではなく、画像の長い説明を受け取った。参加者の半数以上が、アプリがまず画像全体の説明から始める癖を大きな問題だと考えていた。"
-              },
-              {
-                "t": "p",
-                "x": "質問の理由を説明する参加者もいれば、複雑なタスクを小さな質問に分ける参加者もいた。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Be-My-AI-in-a-laboratory-testing.jpg?resize=1800%2C1080&ssl=1",
-                "cap": "University of Maryland"
-              },
-              {
-                "t": "p",
-                "x": "研究では、距離や時間による変化の推定が難しいこと、アクセスしにくい画像の構図、カメラの位置に関する案内の乏しさも明らかになった。研究者らは、視覚障害のあるユーザーが簡単な答えを得るために複雑なプロンプトを使いこなす必要があってはならないと主張している。"
+                "x": "段階的な提供開始を待つ必要はなく、新しいConnected Appはすでに利用可能だ。Workspaceの顧客でも、Workspace Individualの契約者でも、個人のGoogleアカウントのユーザーでも、Gemini Notebook Connected Appにアクセスできるはずだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI能描述图片\n却给不了盲人所需",
-          "body": "马里兰大学研究发现，Be My AI常给盲人用户冗长回答，而非所需的具体信息。",
-          "mini_headline": "Be My AI抓不住重点",
+          "headline": "在Gemini聊天中\n直接使用Notebook",
+          "body": "Google把Gemini Notebook变成Connected App，聊天中即可用。",
+          "mini_headline": "Gemini聊天内用Notebook",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Blind-Man-using-walking-stick.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Eren Li / Pexels"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "University of Maryland（UMD）的研究人员发现，AI驱动（AI-powered）的视觉辅助工具可能让盲人用户为获取真正需要的信息付出过多努力。这项题为《Say It My Way: Exploring Control in Conversational Visual Question Answering with Blind Users》的研究，考察了人们如何使用Be My Eyes应用中的AI功能Be My AI。"
+                "x": "想让Gemini应用更有用，可以开始使用Connected Apps。这类应用可与聊天机器人集成，让你无需离开Gemini对话就能使用其服务。最近，Peloton、SeatGeek、Airtable等已成为Connected Apps，但Google远未止步。又一款实用应用刚刚加入了Connected App阵营。"
               },
               {
                 "t": "p",
-                "x": "研究人员招募了11名盲人参与者，他们先在实验室测试Be My AI，随后在日常生活中使用了10天。团队分析了418次交互。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Example-interaction-consisting-of-five-conversational-turns-with-word-count-for-each-turn.jpg?resize=1800%2C1080&ssl=1",
-                "cap": "University of Maryland"
+                "x": "实用的学习工具Gemini Notebook(前身为NotebookLM)现已成为Connected App。这意味着你现在可以在与Gemini的聊天中管理和查询笔记本。只需在聊天中输入@Gemini Notebook，就能开始创建新笔记本、添加来源、保存笔记，以及调取现有笔记本中的信息。"
               },
               {
                 "t": "p",
-                "x": "参与者提出的问题通常在10到20个词左右，而AI的回答则长出10倍以上。对话平均进行三轮，但有些多达21轮。一名寻找钥匙的参与者收到的是一段冗长的图像描述，而不是聚焦于丢失物品的回答。超过一半的参与者认为，应用习惯先给出完整图像描述是一个严重问题。"
-              },
-              {
-                "t": "p",
-                "x": "有些参与者会解释自己提问的原因；另一些则把复杂任务拆分成更小的问题。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Be-My-AI-in-a-laboratory-testing.jpg?resize=1800%2C1080&ssl=1",
-                "cap": "University of Maryland"
-              },
-              {
-                "t": "p",
-                "x": "研究还暴露出估算距离和随时间变化的困难、难以把握的图像取景，以及有关摄像头摆放的指导有限等问题。研究人员认为，盲人用户不应为了得到简单答案而必须掌握复杂的提示词。"
+                "x": "无需等待逐步推送，新的Connected App现已上线。无论你是Workspace客户、Workspace Individual订阅用户，还是个人Google账户用户，都应该能使用Gemini Notebook Connected App。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI describe una imagen, pero\nno lo que necesitan los ciegos",
-          "body": "Según la University of Maryland, Be My AI suele dar a usuarios ciegos respuestas largas y no los datos que necesitan.",
-          "mini_headline": "Be My AI no da en el blanco",
+          "headline": "Gemini Notebook ya funciona\ndentro de los chats de Gemini",
+          "body": "Google convirtió Gemini Notebook en una Connected App para gestionar cuadernos desde el chat sin cambiar de app.",
+          "mini_headline": "Cuadernos dentro de los chats de Gemini",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Blind-Man-using-walking-stick.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Eren Li / Pexels"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "Investigadores de la University of Maryland (UMD) han descubierto que la asistencia visual con AI (AI-powered) puede obligar a los usuarios ciegos a esforzarse demasiado para obtener la información que realmente necesitan. El estudio, titulado Say It My Way: Exploring Control in Conversational Visual Question Answering with Blind Users, examinó cómo interactúan las personas con Be My AI, una función con AI de la app Be My Eyes."
+                "x": "Si quiere sacar más partido a la app de Gemini, puede empezar a usar las Connected Apps. Son apps que se integran con el chatbot y permiten acceder a sus servicios sin salir de la conversación con Gemini. Hace poco se sumaron como Connected Apps Peloton, SeatGeek, Airtable y otras, pero Google está lejos de terminar. Otra app útil acaba de unirse a la colección de Connected App."
               },
               {
                 "t": "p",
-                "x": "Los investigadores reclutaron a 11 participantes ciegos, que primero probaron Be My AI en un laboratorio y después la usaron en su vida diaria durante 10 días. El equipo analizó 418 interacciones."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Example-interaction-consisting-of-five-conversational-turns-with-word-count-for-each-turn.jpg?resize=1800%2C1080&ssl=1",
-                "cap": "University of Maryland"
+                "x": "La útil herramienta de aprendizaje Gemini Notebook, antes NotebookLM, ya es una Connected App. Eso significa que ahora podrá gestionar y consultar cuadernos dentro de sus chats con Gemini. Basta con escribir @Gemini Notebook en el chat para empezar a crear cuadernos, añadir fuentes, guardar notas y acceder a información de un cuaderno existente."
               },
               {
                 "t": "p",
-                "x": "Los participantes solían hacer preguntas de entre 10 y 20 palabras, mientras que las respuestas de la AI eran más de 10 veces más largas. Las conversaciones tuvieron un promedio de tres turnos, pero algunas llegaron a 21 intercambios. Una participante que buscaba sus llaves recibió una larga descripción de la imagen en lugar de una respuesta centrada en el objeto perdido. Más de la mitad de los participantes consideró un problema importante la costumbre de la app de empezar con una descripción completa de la imagen."
-              },
-              {
-                "t": "p",
-                "x": "Algunos participantes explicaban por qué hacían una pregunta; otros dividían las tareas complicadas en preguntas más pequeñas."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Be-My-AI-in-a-laboratory-testing.jpg?resize=1800%2C1080&ssl=1",
-                "cap": "University of Maryland"
-              },
-              {
-                "t": "p",
-                "x": "El estudio también reveló dificultades para estimar distancias y cambios a lo largo del tiempo, encuadres de imagen inaccesibles y poca orientación sobre cómo colocar la cámara. Los investigadores sostienen que los usuarios ciegos no deberían tener que dominar prompts complejos para obtener respuestas sencillas."
+                "x": "No habrá que esperar a un despliegue gradual, ya que la nueva Connected App está disponible ahora mismo. Tanto si es cliente de Workspace como suscriptor de Workspace Individual o usuario de una cuenta personal de Google, debería tener acceso a la Gemini Notebook Connected App."
               }
             ]
           }
@@ -1399,181 +1145,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI는 사진을 설명해도\n시각장애인의 요구는 놓친다",
-          "body": "메릴랜드대 연구에서 Be My AI는 시각장애인에게 핵심 대신 긴 답을 자주 줬다.",
-          "mini_headline": "Be My AI, 핵심을 놓치다",
+          "headline": "Gemini 채팅 안에서\nNotebook을 쓴다",
+          "body": "Gemini Notebook이 Connected App이 돼 채팅에서 바로 열린다.",
+          "mini_headline": "Gemini 채팅 속 Notebook",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Blind-Man-using-walking-stick.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Eren Li / Pexels"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "University of Maryland(UMD) 연구진은 AI 기반(AI-powered) 시각 보조 기능이 시각장애인 사용자에게 실제로 필요한 정보를 얻기까지 너무 많은 수고를 떠넘길 수 있다는 사실을 확인했다. ‘Say It My Way: Exploring Control in Conversational Visual Question Answering with Blind Users’라는 제목의 이 연구는 Be My Eyes 앱의 AI 기반 기능인 Be My AI를 사람들이 어떻게 쓰는지 살폈다."
+                "x": "Gemini 앱을 더 쓸모 있게 만들고 싶다면 Connected Apps를 써볼 만하다. 챗봇과 연동되는 앱으로, Gemini 대화를 벗어나지 않고 해당 서비스에 접근할 수 있다. 최근 Peloton, SeatGeek, Airtable 등이 Connected Apps에 합류했지만 Google의 확장은 끝나지 않았다. 또 하나의 유용한 앱이 Connected App 대열에 들어섰다."
               },
               {
                 "t": "p",
-                "x": "연구진은 시각장애인 참가자 11명을 모집했다. 참가자들은 먼저 실험실에서 Be My AI를 시험한 뒤 10일 동안 일상에서 사용했다. 연구팀은 상호작용 418건을 분석했다."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Example-interaction-consisting-of-five-conversational-turns-with-word-count-for-each-turn.jpg?resize=1800%2C1080&ssl=1",
-                "cap": "University of Maryland"
+                "x": "예전 이름이 NotebookLM인 유용한 학습 도구 Gemini Notebook이 이제 Connected App이 됐다. Gemini와의 채팅 안에서 노트북을 관리하고 질문할 수 있다는 뜻이다. 채팅에 @Gemini Notebook을 입력하기만 하면 새 노트북 만들기, 소스 추가, 메모 저장, 기존 노트북 정보 조회를 시작할 수 있다."
               },
               {
                 "t": "p",
-                "x": "참가자들은 보통 10~20단어 안팎의 질문을 했지만, AI의 답변은 10배 이상 길었다. 대화는 평균 세 차례 오갔지만 21회까지 이어진 경우도 있었다. 열쇠를 찾던 한 참가자는 잃어버린 물건에 초점을 맞춘 답 대신 이미지에 대한 긴 묘사를 받았다. 참가자의 절반 이상은 앱이 이미지 전체 묘사부터 시작하는 습관을 심각한 문제로 여겼다."
-              },
-              {
-                "t": "p",
-                "x": "일부 참가자는 질문하는 이유를 설명했고, 다른 참가자는 복잡한 작업을 더 작은 질문으로 나눴다."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Be-My-AI-in-a-laboratory-testing.jpg?resize=1800%2C1080&ssl=1",
-                "cap": "University of Maryland"
-              },
-              {
-                "t": "p",
-                "x": "연구는 거리와 시간에 따른 변화를 가늠하기 어렵다는 점, 접근하기 어려운 이미지 구도, 카메라 위치에 대한 안내 부족도 드러냈다. 연구진은 시각장애인 사용자가 간단한 답을 얻으려고 복잡한 프롬프트를 익혀야 해서는 안 된다고 주장한다."
+                "x": "순차 출시를 기다릴 필요도 없다. 새 Connected App은 지금 바로 쓸 수 있다. Workspace 고객이든 Workspace Individual 구독자든 개인 Google 계정 사용자든 Gemini Notebook Connected App을 이용할 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIは画像を説明できても\n視覚障害者の求める情報を逃す",
-          "body": "メリーランド大の研究で、Be My AIは視覚障害者に長い答えばかり返すと分かった。",
-          "mini_headline": "Be My AIは要点を外す",
+          "headline": "Geminiのチャットで\nNotebookが使える",
+          "body": "Gemini NotebookがConnected Appになり、チャット内で使える。",
+          "mini_headline": "GeminiチャットでNotebook",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Blind-Man-using-walking-stick.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Eren Li / Pexels"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "University of Maryland（UMD）の研究者らは、AIを活用した（AI-powered）視覚支援が、視覚障害のあるユーザーに、本当に必要な情報を得るまで過大な手間を強いる場合があることを明らかにした。「Say It My Way: Exploring Control in Conversational Visual Question Answering with Blind Users」と題したこの研究は、Be My EyesアプリのAI機能であるBe My AIを人々がどう使うかを調べた。"
+                "x": "Geminiアプリをもっと便利にしたいなら、Connected Appsを使い始めるのも手だ。チャットボットと連携できるアプリで、Geminiとの会話を離れずにそのサービスを利用できる。最近はPeloton、SeatGeek、AirtableなどがConnected Appsになったが、Googleの取り組みはまだ終わらない。また一つ、便利なアプリがConnected Appの仲間入りをした。"
               },
               {
                 "t": "p",
-                "x": "研究チームは視覚障害のある参加者11人を募り、まず実験室でBe My AIを試してもらった後、10日間日常生活で使ってもらった。チームは418件のやり取りを分析した。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Example-interaction-consisting-of-five-conversational-turns-with-word-count-for-each-turn.jpg?resize=1800%2C1080&ssl=1",
-                "cap": "University of Maryland"
+                "x": "便利な学習ツールGemini Notebook(旧NotebookLM)が、Connected Appになった。これにより、Geminiとのチャット内でノートブックを管理し、質問できるようになる。チャットに@Gemini Notebookと入力するだけで、新しいノートブックの作成、ソースの追加、メモの保存、既存ノートブックの情報参照を始められる。"
               },
               {
                 "t": "p",
-                "x": "参加者の質問は通常10〜20語程度だったが、AIの回答はその10倍以上の長さだった。会話は平均三往復だったが、21回に及ぶものもあった。鍵を探していたある参加者は、なくした物に焦点を当てた答えではなく、画像の長い説明を受け取った。参加者の半数以上が、アプリがまず画像全体の説明から始める癖を大きな問題だと考えていた。"
-              },
-              {
-                "t": "p",
-                "x": "質問の理由を説明する参加者もいれば、複雑なタスクを小さな質問に分ける参加者もいた。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Be-My-AI-in-a-laboratory-testing.jpg?resize=1800%2C1080&ssl=1",
-                "cap": "University of Maryland"
-              },
-              {
-                "t": "p",
-                "x": "研究では、距離や時間による変化の推定が難しいこと、アクセスしにくい画像の構図、カメラの位置に関する案内の乏しさも明らかになった。研究者らは、視覚障害のあるユーザーが簡単な答えを得るために複雑なプロンプトを使いこなす必要があってはならないと主張している。"
+                "x": "段階的な提供開始を待つ必要はなく、新しいConnected Appはすでに利用可能だ。Workspaceの顧客でも、Workspace Individualの契約者でも、個人のGoogleアカウントのユーザーでも、Gemini Notebook Connected Appにアクセスできるはずだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI能描述图片\n却给不了盲人所需",
-          "body": "马里兰大学研究发现，Be My AI常给盲人用户冗长回答，而非所需的具体信息。",
-          "mini_headline": "Be My AI抓不住重点",
+          "headline": "在Gemini聊天中\n直接使用Notebook",
+          "body": "Google把Gemini Notebook变成Connected App，聊天中即可用。",
+          "mini_headline": "Gemini聊天内用Notebook",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Blind-Man-using-walking-stick.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Eren Li / Pexels"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "University of Maryland（UMD）的研究人员发现，AI驱动（AI-powered）的视觉辅助工具可能让盲人用户为获取真正需要的信息付出过多努力。这项题为《Say It My Way: Exploring Control in Conversational Visual Question Answering with Blind Users》的研究，考察了人们如何使用Be My Eyes应用中的AI功能Be My AI。"
+                "x": "想让Gemini应用更有用，可以开始使用Connected Apps。这类应用可与聊天机器人集成，让你无需离开Gemini对话就能使用其服务。最近，Peloton、SeatGeek、Airtable等已成为Connected Apps，但Google远未止步。又一款实用应用刚刚加入了Connected App阵营。"
               },
               {
                 "t": "p",
-                "x": "研究人员招募了11名盲人参与者，他们先在实验室测试Be My AI，随后在日常生活中使用了10天。团队分析了418次交互。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Example-interaction-consisting-of-five-conversational-turns-with-word-count-for-each-turn.jpg?resize=1800%2C1080&ssl=1",
-                "cap": "University of Maryland"
+                "x": "实用的学习工具Gemini Notebook(前身为NotebookLM)现已成为Connected App。这意味着你现在可以在与Gemini的聊天中管理和查询笔记本。只需在聊天中输入@Gemini Notebook，就能开始创建新笔记本、添加来源、保存笔记，以及调取现有笔记本中的信息。"
               },
               {
                 "t": "p",
-                "x": "参与者提出的问题通常在10到20个词左右，而AI的回答则长出10倍以上。对话平均进行三轮，但有些多达21轮。一名寻找钥匙的参与者收到的是一段冗长的图像描述，而不是聚焦于丢失物品的回答。超过一半的参与者认为，应用习惯先给出完整图像描述是一个严重问题。"
-              },
-              {
-                "t": "p",
-                "x": "有些参与者会解释自己提问的原因；另一些则把复杂任务拆分成更小的问题。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Be-My-AI-in-a-laboratory-testing.jpg?resize=1800%2C1080&ssl=1",
-                "cap": "University of Maryland"
-              },
-              {
-                "t": "p",
-                "x": "研究还暴露出估算距离和随时间变化的困难、难以把握的图像取景，以及有关摄像头摆放的指导有限等问题。研究人员认为，盲人用户不应为了得到简单答案而必须掌握复杂的提示词。"
+                "x": "无需等待逐步推送，新的Connected App现已上线。无论你是Workspace客户、Workspace Individual订阅用户，还是个人Google账户用户，都应该能使用Gemini Notebook Connected App。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI describe una imagen, pero\nno lo que necesitan los ciegos",
-          "body": "Según la University of Maryland, Be My AI suele dar a usuarios ciegos respuestas largas y no los datos que necesitan.",
-          "mini_headline": "Be My AI no da en el blanco",
+          "headline": "Gemini Notebook ya funciona\ndentro de los chats de Gemini",
+          "body": "Google convirtió Gemini Notebook en una Connected App para gestionar cuadernos desde el chat sin cambiar de app.",
+          "mini_headline": "Cuadernos dentro de los chats de Gemini",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Blind-Man-using-walking-stick.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Eren Li / Pexels"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "Investigadores de la University of Maryland (UMD) han descubierto que la asistencia visual con AI (AI-powered) puede obligar a los usuarios ciegos a esforzarse demasiado para obtener la información que realmente necesitan. El estudio, titulado Say It My Way: Exploring Control in Conversational Visual Question Answering with Blind Users, examinó cómo interactúan las personas con Be My AI, una función con AI de la app Be My Eyes."
+                "x": "Si quiere sacar más partido a la app de Gemini, puede empezar a usar las Connected Apps. Son apps que se integran con el chatbot y permiten acceder a sus servicios sin salir de la conversación con Gemini. Hace poco se sumaron como Connected Apps Peloton, SeatGeek, Airtable y otras, pero Google está lejos de terminar. Otra app útil acaba de unirse a la colección de Connected App."
               },
               {
                 "t": "p",
-                "x": "Los investigadores reclutaron a 11 participantes ciegos, que primero probaron Be My AI en un laboratorio y después la usaron en su vida diaria durante 10 días. El equipo analizó 418 interacciones."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Example-interaction-consisting-of-five-conversational-turns-with-word-count-for-each-turn.jpg?resize=1800%2C1080&ssl=1",
-                "cap": "University of Maryland"
+                "x": "La útil herramienta de aprendizaje Gemini Notebook, antes NotebookLM, ya es una Connected App. Eso significa que ahora podrá gestionar y consultar cuadernos dentro de sus chats con Gemini. Basta con escribir @Gemini Notebook en el chat para empezar a crear cuadernos, añadir fuentes, guardar notas y acceder a información de un cuaderno existente."
               },
               {
                 "t": "p",
-                "x": "Los participantes solían hacer preguntas de entre 10 y 20 palabras, mientras que las respuestas de la AI eran más de 10 veces más largas. Las conversaciones tuvieron un promedio de tres turnos, pero algunas llegaron a 21 intercambios. Una participante que buscaba sus llaves recibió una larga descripción de la imagen en lugar de una respuesta centrada en el objeto perdido. Más de la mitad de los participantes consideró un problema importante la costumbre de la app de empezar con una descripción completa de la imagen."
-              },
-              {
-                "t": "p",
-                "x": "Algunos participantes explicaban por qué hacían una pregunta; otros dividían las tareas complicadas en preguntas más pequeñas."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Be-My-AI-in-a-laboratory-testing.jpg?resize=1800%2C1080&ssl=1",
-                "cap": "University of Maryland"
-              },
-              {
-                "t": "p",
-                "x": "El estudio también reveló dificultades para estimar distancias y cambios a lo largo del tiempo, encuadres de imagen inaccesibles y poca orientación sobre cómo colocar la cámara. Los investigadores sostienen que los usuarios ciegos no deberían tener que dominar prompts complejos para obtener respuestas sencillas."
+                "x": "No habrá que esperar a un despliegue gradual, ya que la nueva Connected App está disponible ahora mismo. Tanto si es cliente de Workspace como suscriptor de Workspace Individual o usuario de una cuenta personal de Google, debería tener acceso a la Gemini Notebook Connected App."
               }
             ]
           }
@@ -1581,201 +1251,255 @@
       }
     },
     {
-      "id": "gadgets-context-vault",
+      "id": "gadgets-unitree-self-evolving-robots",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Context Vault,\n몸집 줄인 Recall",
-      "body": "시험 중인 Context Vault는 Recall보다 절제됐지만 회의론은 여전하다.",
-      "mini_headline": "Windows, Context Vault 시험",
       "tool": "Gadgets",
+      "eyebrow": "AI NEWS",
+      "headline": "Unitree, 스스로\n발전하는 로봇 AI 개발",
+      "body": "Unitree는 자가개선 AI를, Musk는 2027년 주 20,000대를 노린다.",
+      "mini_headline": "Unitree 로봇, 스스로 개선",
       "source": "TechRadar",
-      "url": "https://www.techradar.com/computing/windows/windows-11-could-get-a-very-different-take-on-recall-but-context-vault-feature-doesnt-seem-likely-to-persuade-ai-skeptics",
+      "url": "https://www.techradar.com/ai-platforms-assistants/unitree-says-its-self-evolving-robots-are-the-next-big-leap-for-humanoids-as-tesla-optimus-production-ramps-up-to-hit-20-000-robots-a-week",
       "accent": "#eb367f",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/5KK2m2A35afwd8WgVU2hVX-1200-80.jpg",
-            "cap": "이미지 출처: Shutterstock/Prostock-studio"
-          },
-          {
             "t": "p",
-            "x": "Microsoft가 AI-powered 강화 검색이라는 아이디어를 Recall보다 훨씬 제한적인 형태로 다시 시도한다. 다만 초기 반응은 여전히 꽤 부정적이다. Windows Latest에 따르면 Microsoft는 ‘Context Vault’라는 이름의 Project Pantheon을 개발하고 있다. 이 앱은 Recall처럼 Windows 11에 내장되지 않고, Microsoft Store에서 따로 설치해야 한다."
-          },
-          {
-            "t": "p",
-            "x": "PC 화면을 주기적으로 자동 캡처하지도 않는다. 사용자가 Context Vault에 쓸 파일이나 콘텐츠를 직접 넣고, 그 내용을 AI에 묻거나 문서, 이미지, 웹 페이지, 클립보드 텍스트에서 자료를 정리하게 하는 식이다. 클라우드 기반 AI를 쓸 수 있어 Copilot+ PC가 꼭 필요하지는 않고, Claude 같은 서드파티 AI에 볼트 접근 권한을 줄 수도 있다. 앱은 아직 공식 출시 전이다."
+            "x": "지난 며칠 사이 로봇 업계 최대 기업 세 곳인 Unitree, Tesla, Figure에서 굵직한 소식이 나왔다."
           },
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/r4maWLpBuFkNeiXEUfcPZF-1024-80.jpg",
-            "cap": "Microsoft의 Recall 기능은 대체로 인기를 얻지 못했다 (이미지 출처: Microsoft)"
+            "src": "https://cdn.mos.cms.futurecdn.net/CRLxVCsc6qKdhSyybGtN8k.jpg",
+            "cap": "Unitree H2 (Image credit: Nvidia)"
           },
           {
             "t": "p",
-            "x": "볼트를 보호하려고 Microsoft는 암호화, 앱별 접근 제어, Windows Hello 로그인을 검토하는 것으로 알려졌다. 반응은 대체로 회의적이다. 한 Redditor는 “존재하지도 않는 문제를 해결하는” 전형적인 사례라고 평했다. TechRadar는 같은 개념을 다르게 풀었다고 anti-Recall 진영이 마음을 바꾸지는 않을 것이라고 결론짓는다."
+            "x": "Unitree는 휴머노이드 로봇이 사실상 스스로를 개선하게 만드는 AI 시스템 Unitree Rehearsal을 개발 중이다. 이 \"self-evolving\"(자가 진화) 루프에서 로봇은 자기 코드와 시뮬레이션을 직접 짠다. 창업자 Wang Xingxing은 \"AI 모델이 발전할수록 계획과 반복 작업을 더 많이 맡을 것으로 본다\"고 말했다. 피드백은 계속 사람이 준다. Wang은 Unitree 로봇이 이르면 내년부터 방을 청소할 수 있다고 말한다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/aRtXsCChjaj52QAJxyWZcP.jpg",
+            "cap": "Tesla의 Optimus 로봇 (Image credit: Tesla)"
+          },
+          {
+            "t": "p",
+            "x": "Tesla에서는 Elon Musk가 California주 Fremont에서 Optimus 생산 라인이 가동 중이며 2027년까지 주당 약 20,000대로 늘릴 수 있다고 밝혔다. 다만 엔지니어링 작업이 더 필요하다. Musk는 로봇이 아직 여러 작업을 혼자 끝내기 어려워한다고 인정했다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/nLQMvy3XczuwKaxnVey7vT.jpg",
+            "cap": "출시를 앞둔 fourth-gen Figure 로봇 (Image credit: Figure)"
+          },
+          {
+            "t": "p",
+            "x": "Figure CEO Brett Adcock은 지난 한 해 사이 로드맵이 \"완전히 바뀌었다\"고 말한다. fourth-generation 휴머노이드를 개발 중이고 Figure 03 생산량은 네 자릿수에 이르렀으며, Index 학습 앱에는 약 37.5 million 개의 영상이 올라왔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Windows 11 tests Context Vault,\na reined-in take on Recall",
-          "body": "Microsoft is testing Context Vault, a reined-in alternative to Recall, but AI skeptics still are not won over.",
-          "mini_headline": "Windows tests Context Vault",
+          "headline": "Unitree is building AI that\nlets its robots self-improve",
+          "body": "Unitree is developing AI that lets its humanoids improve themselves, as Musk eyes 20,000 Optimus robots a week by 2027.",
+          "mini_headline": "Unitree robots to self-improve",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/5KK2m2A35afwd8WgVU2hVX-1200-80.jpg",
-                "cap": "Image credit: Shutterstock/Prostock-studio"
-              },
-              {
                 "t": "p",
-                "x": "Microsoft is trying a new spin on the idea of an AI-powered supercharged search which is a lot more limited than Recall – although the initial reaction has still been rather negative. Windows Latest discovered that Microsoft is working on Project Pantheon, the current name of which is the ‘Context Vault’, and rather than being built into Windows 11 like Recall, it has to be installed from the Microsoft Store."
-              },
-              {
-                "t": "p",
-                "x": "It doesn’t automatically take regular screenshots of your PC. Instead, you manually add the files or content you want to use with the Context Vault, then ask the AI questions about it or get it to organize material from documents, images, web pages, or clipboard text. It doesn’t necessarily need a Copilot+ PC, as it can leverage cloud-based AI, and you can give third-party AI like Claude access to your vault. The app isn’t yet officially available."
+                "x": "Across the past few days, there have been big updates from three of the biggest companies in robotics — Unitree, Tesla and Figure."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/r4maWLpBuFkNeiXEUfcPZF-1024-80.jpg",
-                "cap": "Microsoft's Recall feature has not proved popular in general (Image credit: Microsoft)"
+                "src": "https://cdn.mos.cms.futurecdn.net/CRLxVCsc6qKdhSyybGtN8k.jpg",
+                "cap": "The Unitree H2 (Image credit: Nvidia)"
               },
               {
                 "t": "p",
-                "x": "Microsoft is reportedly considering encryption, per-app access controls and a Windows Hello login to secure the vault. Reaction is generally skeptical: one Redditor calls it a classic case of “solving [a] problem [that] doesn’t exist.” TechRadar concludes the anti-Recall folks aren’t going to be swayed by a different take on the same concept."
+                "x": "Unitree is developing an AI system, called Unitree Rehearsal, that will enable its humanoid robots to effectively improve on their own; this \"self-evolving\" loop will lead to robots writing their own code and simulations. \"As AI models improve, we expect them to take on more of the planning and iteration,\" founder Wang Xingxing said. Humans will still give feedback, and Wang says Unitree robots could be cleaning rooms as early as next year."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/aRtXsCChjaj52QAJxyWZcP.jpg",
+                "cap": "Tesla's Optimus robot (Image credit: Tesla)"
+              },
+              {
+                "t": "p",
+                "x": "At Tesla, Elon Musk says Optimus production lines are now running in Fremont, California, and could ramp to some 20,000 robots per week by 2027, though that will require further engineering work. Musk acknowledged the robots still struggle to complete varied tasks independently."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/nLQMvy3XczuwKaxnVey7vT.jpg",
+                "cap": "The fourth-gen Figure robot is on the way (Image credit: Figure)"
+              },
+              {
+                "t": "p",
+                "x": "Figure CEO Brett Adcock says the roadmap has \"completely changed\" over the last year: work is progressing on a fourth-generation humanoid, Figure 03 production is in four figures, and some 37.5 million videos have been uploaded to its Index training app."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Context Vault,\n몸집 줄인 Recall",
-          "body": "시험 중인 Context Vault는 Recall보다 절제됐지만 회의론은 여전하다.",
-          "mini_headline": "Windows, Context Vault 시험",
+          "headline": "Unitree, 스스로\n발전하는 로봇 AI 개발",
+          "body": "Unitree는 자가개선 AI를, Musk는 2027년 주 20,000대를 노린다.",
+          "mini_headline": "Unitree 로봇, 스스로 개선",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/5KK2m2A35afwd8WgVU2hVX-1200-80.jpg",
-                "cap": "이미지 출처: Shutterstock/Prostock-studio"
-              },
-              {
                 "t": "p",
-                "x": "Microsoft가 AI-powered 강화 검색이라는 아이디어를 Recall보다 훨씬 제한적인 형태로 다시 시도한다. 다만 초기 반응은 여전히 꽤 부정적이다. Windows Latest에 따르면 Microsoft는 ‘Context Vault’라는 이름의 Project Pantheon을 개발하고 있다. 이 앱은 Recall처럼 Windows 11에 내장되지 않고, Microsoft Store에서 따로 설치해야 한다."
-              },
-              {
-                "t": "p",
-                "x": "PC 화면을 주기적으로 자동 캡처하지도 않는다. 사용자가 Context Vault에 쓸 파일이나 콘텐츠를 직접 넣고, 그 내용을 AI에 묻거나 문서, 이미지, 웹 페이지, 클립보드 텍스트에서 자료를 정리하게 하는 식이다. 클라우드 기반 AI를 쓸 수 있어 Copilot+ PC가 꼭 필요하지는 않고, Claude 같은 서드파티 AI에 볼트 접근 권한을 줄 수도 있다. 앱은 아직 공식 출시 전이다."
+                "x": "지난 며칠 사이 로봇 업계 최대 기업 세 곳인 Unitree, Tesla, Figure에서 굵직한 소식이 나왔다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/r4maWLpBuFkNeiXEUfcPZF-1024-80.jpg",
-                "cap": "Microsoft의 Recall 기능은 대체로 인기를 얻지 못했다 (이미지 출처: Microsoft)"
+                "src": "https://cdn.mos.cms.futurecdn.net/CRLxVCsc6qKdhSyybGtN8k.jpg",
+                "cap": "Unitree H2 (Image credit: Nvidia)"
               },
               {
                 "t": "p",
-                "x": "볼트를 보호하려고 Microsoft는 암호화, 앱별 접근 제어, Windows Hello 로그인을 검토하는 것으로 알려졌다. 반응은 대체로 회의적이다. 한 Redditor는 “존재하지도 않는 문제를 해결하는” 전형적인 사례라고 평했다. TechRadar는 같은 개념을 다르게 풀었다고 anti-Recall 진영이 마음을 바꾸지는 않을 것이라고 결론짓는다."
+                "x": "Unitree는 휴머노이드 로봇이 사실상 스스로를 개선하게 만드는 AI 시스템 Unitree Rehearsal을 개발 중이다. 이 \"self-evolving\"(자가 진화) 루프에서 로봇은 자기 코드와 시뮬레이션을 직접 짠다. 창업자 Wang Xingxing은 \"AI 모델이 발전할수록 계획과 반복 작업을 더 많이 맡을 것으로 본다\"고 말했다. 피드백은 계속 사람이 준다. Wang은 Unitree 로봇이 이르면 내년부터 방을 청소할 수 있다고 말한다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/aRtXsCChjaj52QAJxyWZcP.jpg",
+                "cap": "Tesla의 Optimus 로봇 (Image credit: Tesla)"
+              },
+              {
+                "t": "p",
+                "x": "Tesla에서는 Elon Musk가 California주 Fremont에서 Optimus 생산 라인이 가동 중이며 2027년까지 주당 약 20,000대로 늘릴 수 있다고 밝혔다. 다만 엔지니어링 작업이 더 필요하다. Musk는 로봇이 아직 여러 작업을 혼자 끝내기 어려워한다고 인정했다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/nLQMvy3XczuwKaxnVey7vT.jpg",
+                "cap": "출시를 앞둔 fourth-gen Figure 로봇 (Image credit: Figure)"
+              },
+              {
+                "t": "p",
+                "x": "Figure CEO Brett Adcock은 지난 한 해 사이 로드맵이 \"완전히 바뀌었다\"고 말한다. fourth-generation 휴머노이드를 개발 중이고 Figure 03 생산량은 네 자릿수에 이르렀으며, Index 학습 앱에는 약 37.5 million 개의 영상이 올라왔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Context Vaultは\n控えめなRecall",
-          "body": "Microsoftは控えめなContext Vaultを試すが、AI懐疑派は冷ややかだ。",
-          "mini_headline": "WindowsがContext Vaultを試験",
+          "headline": "Unitree、ロボットが\n自ら改善するAIを開発",
+          "body": "Unitreeは自己改善AI、Muskは2027年にOptimus週20,000台を狙う。",
+          "mini_headline": "Unitreeロボが自己改善",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/5KK2m2A35afwd8WgVU2hVX-1200-80.jpg",
-                "cap": "画像クレジット：Shutterstock/Prostock-studio"
-              },
-              {
                 "t": "p",
-                "x": "Microsoftは、Recallよりはるかに機能を絞ったAI活用（AI-powered）の強化検索という発想に新たな切り口で挑んでいる。ただし初期の反応はやはりかなり否定的だ。Windows Latestは、MicrosoftがProject Pantheonに取り組んでいることを突き止めた。現在の名称は「Context Vault」で、RecallのようにWindows 11に組み込まれるのではなく、Microsoft Storeからインストールする必要がある。"
-              },
-              {
-                "t": "p",
-                "x": "PCのスクリーンショットを定期的に自動で撮ることはない。代わりに、Context Vaultで使いたいファイルやコンテンツを手動で追加し、それについてAIに質問したり、文書、画像、Webページ、クリップボードのテキストから素材を整理させたりする。クラウドベースのAIを利用できるため、Copilot+ PCが必須とは限らず、Claudeのようなサードパーティ製AIにボールトへのアクセスを許可することもできる。アプリはまだ正式には公開されていない。"
+                "x": "ここ数日で、ロボット業界の大手三社、Unitree、Tesla、Figureから大きな発表が相次いだ。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/r4maWLpBuFkNeiXEUfcPZF-1024-80.jpg",
-                "cap": "MicrosoftのRecall機能は全体的に不評だった（画像クレジット：Microsoft）"
+                "src": "https://cdn.mos.cms.futurecdn.net/CRLxVCsc6qKdhSyybGtN8k.jpg",
+                "cap": "Unitree H2 (Image credit: Nvidia)"
               },
               {
                 "t": "p",
-                "x": "Microsoftはボールトを守るため、暗号化、アプリごとのアクセス制御、Windows Helloによるログインを検討していると伝えられる。反応は総じて懐疑的で、あるRedditorは「存在しない問題を解決する」典型例だと評した。TechRadarは、anti-Recall派が同じ概念の別バージョンになびくことはないだろうと結論づけている。"
+                "x": "Unitreeは、ヒューマノイドロボットが事実上自ら改善できるようにするAIシステム「Unitree Rehearsal」を開発している。この「self-evolving」(自己進化)ループにより、ロボットは自らコードやシミュレーションを書くようになる。創業者のWang Xingxingは「AIモデルが向上するにつれ、計画や反復のより多くを担うようになると見ている」と述べた。人間は引き続きフィードバックを与え、Wangによれば、Unitreeのロボットは早ければ来年にも部屋を掃除できるようになるという。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/aRtXsCChjaj52QAJxyWZcP.jpg",
+                "cap": "TeslaのOptimusロボット (Image credit: Tesla)"
+              },
+              {
+                "t": "p",
+                "x": "Teslaでは、Elon Muskが、Optimusの生産ラインはCalifornia州Fremontで稼働しており、2027年までに週約20,000台まで増産できる可能性があると語った。ただし、そのためにはさらなるエンジニアリング作業が必要になる。Muskは、ロボットがまだ多様なタスクを自力でこなすのに苦労していることも認めた。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/nLQMvy3XczuwKaxnVey7vT.jpg",
+                "cap": "登場を控えるfourth-genのFigureロボット (Image credit: Figure)"
+              },
+              {
+                "t": "p",
+                "x": "FigureのCEO、Brett Adcockは、この一年でロードマップが「完全に変わった」と語る。fourth-generationのヒューマノイドの開発が進み、Figure 03の生産台数は四桁に達し、Indexトレーニングアプリには約37.5 million 本の動画がアップロードされた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Context Vault，\n收敛版的Recall",
-          "body": "Microsoft测试比Recall克制的Context Vault，AI怀疑者仍不买账。",
-          "mini_headline": "Windows测试Context Vault",
+          "headline": "Unitree打造让机器人\n自我改进的AI",
+          "body": "Unitree研发自我改进AI，Musk力争2027年Optimus周产20,000台。",
+          "mini_headline": "Unitree机器人将自我改进",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/5KK2m2A35afwd8WgVU2hVX-1200-80.jpg",
-                "cap": "图片来源：Shutterstock/Prostock-studio"
-              },
-              {
                 "t": "p",
-                "x": "Microsoft正在为AI驱动（AI-powered）的增强搜索这一构想尝试新思路，其功能比Recall有限得多——不过初期反应依然相当负面。Windows Latest发现，Microsoft正在开发Project Pantheon，其当前名称为“Context Vault”。与内置于Windows 11的Recall不同，它需要从Microsoft Store安装。"
-              },
-              {
-                "t": "p",
-                "x": "它不会自动定期截取你的PC屏幕。相反，你需要手动添加想在Context Vault中使用的文件或内容，然后就其向AI提问，或让它整理来自文档、图像、网页或剪贴板文本的材料。由于它可以利用基于云的AI，因此不一定需要Copilot+ PC，你还可以让Claude等第三方AI访问你的保险库。该应用尚未正式推出。"
+                "x": "过去几天里，机器人领域的三大巨头——Unitree、Tesla和Figure——相继发布了重要动态。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/r4maWLpBuFkNeiXEUfcPZF-1024-80.jpg",
-                "cap": "Microsoft的Recall功能总体上并不受欢迎（图片来源：Microsoft）"
+                "src": "https://cdn.mos.cms.futurecdn.net/CRLxVCsc6qKdhSyybGtN8k.jpg",
+                "cap": "Unitree H2 (Image credit: Nvidia)"
               },
               {
                 "t": "p",
-                "x": "据报道，Microsoft正考虑采用加密、按应用划分的访问控制以及Windows Hello登录来保护保险库。外界反应普遍持怀疑态度：一位Redditor称这是“解决一个并不存在的问题”的典型案例。TechRadar的结论是，anti-Recall人士不会因为同一概念换了种做法就被说服。"
+                "x": "Unitree正在开发一套名为Unitree Rehearsal的AI系统，让旗下人形机器人能够有效地自我改进；这种“self-evolving”(自我进化)循环将使机器人自行编写代码和模拟。“随着AI模型不断进步，我们预计它们会承担更多规划和迭代工作，”创始人Wang Xingxing表示。人类仍会提供反馈，Wang称Unitree机器人最早明年就能打扫房间。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/aRtXsCChjaj52QAJxyWZcP.jpg",
+                "cap": "Tesla的Optimus机器人 (Image credit: Tesla)"
+              },
+              {
+                "t": "p",
+                "x": "在Tesla，Elon Musk表示Optimus生产线已在California州Fremont投入运转，到2027年产能可能提升至每周约20,000台，但这还需要进一步的工程工作。Musk承认，这些机器人目前仍难以独立完成多样化任务。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/nLQMvy3XczuwKaxnVey7vT.jpg",
+                "cap": "fourth-gen Figure机器人即将到来 (Image credit: Figure)"
+              },
+              {
+                "t": "p",
+                "x": "Figure CEO Brett Adcock表示，过去一年里路线图已经“彻底改变”：fourth-generation人形机器人的研发正在推进，Figure 03的产量已达四位数，其Index训练应用已上传约37.5 million 段视频。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Windows 11 prueba Context Vault,\nun Recall más contenido",
-          "body": "Microsoft prueba Context Vault, una alternativa contenida a Recall, pero los críticos de la AI siguen sin convencerse.",
-          "mini_headline": "Windows prueba Context Vault",
+          "headline": "Unitree crea una AI para que\nsus robots se mejoren solos",
+          "body": "Unitree desarrolla AI para que sus humanoides mejoren solos, y Musk apunta a 20,000 Optimus por semana en 2027.",
+          "mini_headline": "Robots de Unitree que se mejoran solos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/5KK2m2A35afwd8WgVU2hVX-1200-80.jpg",
-                "cap": "Crédito de la imagen: Shutterstock/Prostock-studio"
-              },
-              {
                 "t": "p",
-                "x": "Microsoft está probando un nuevo enfoque de la idea de una búsqueda potenciada por AI (AI-powered), mucho más limitada que Recall, aunque la reacción inicial ha sido bastante negativa. Windows Latest descubrió que Microsoft trabaja en Project Pantheon, cuyo nombre actual es ‘Context Vault’, y que, en lugar de venir integrado en Windows 11 como Recall, debe instalarse desde la Microsoft Store."
-              },
-              {
-                "t": "p",
-                "x": "No toma capturas de pantalla automáticas y periódicas de tu PC. En su lugar, añades manualmente los archivos o contenidos que quieras usar con Context Vault y luego haces preguntas a la AI sobre ellos o le pides que organice material de documentos, imágenes, páginas web o texto del portapapeles. No requiere necesariamente un Copilot+ PC, ya que puede aprovechar AI en la nube, y puedes dar acceso a tu bóveda a AI de terceros como Claude. La app aún no está disponible oficialmente."
+                "x": "En los últimos días ha habido grandes novedades de tres de las mayores empresas de robótica: Unitree, Tesla y Figure."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/r4maWLpBuFkNeiXEUfcPZF-1024-80.jpg",
-                "cap": "La función Recall de Microsoft no ha resultado popular en general (Crédito de la imagen: Microsoft)"
+                "src": "https://cdn.mos.cms.futurecdn.net/CRLxVCsc6qKdhSyybGtN8k.jpg",
+                "cap": "El Unitree H2 (Image credit: Nvidia)"
               },
               {
                 "t": "p",
-                "x": "Según los informes, Microsoft estudia usar cifrado, controles de acceso por aplicación y un inicio de sesión con Windows Hello para proteger la bóveda. La reacción es en general escéptica: un Redditor lo califica como un caso clásico de “resolver [un] problema [que] no existe”. TechRadar concluye que los detractores de Recall (anti-Recall) no van a cambiar de opinión por una versión distinta del mismo concepto."
+                "x": "Unitree desarrolla un sistema de AI llamado Unitree Rehearsal que permitirá a sus robots humanoides mejorar por sí mismos de forma efectiva; este ciclo \"self-evolving\" (de autoevolución) llevará a que los robots escriban su propio código y sus simulaciones. \"A medida que mejoren los modelos de AI, esperamos que asuman una mayor parte de la planificación y la iteración\", afirmó el fundador Wang Xingxing. Las personas seguirán aportando retroalimentación, y Wang asegura que los robots de Unitree podrían estar limpiando habitaciones ya el próximo año."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/aRtXsCChjaj52QAJxyWZcP.jpg",
+                "cap": "El robot Optimus de Tesla (Image credit: Tesla)"
+              },
+              {
+                "t": "p",
+                "x": "En Tesla, Elon Musk afirma que las líneas de producción de Optimus ya funcionan en Fremont, California, y que podrían alcanzar unos 20,000 robots por semana para 2027, aunque eso exigirá más trabajo de ingeniería. Musk reconoció que los robots aún tienen dificultades para completar de forma autónoma tareas variadas."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/nLQMvy3XczuwKaxnVey7vT.jpg",
+                "cap": "El robot fourth-gen de Figure está en camino (Image credit: Figure)"
+              },
+              {
+                "t": "p",
+                "x": "El CEO de Figure, Brett Adcock, dice que la hoja de ruta ha \"cambiado por completo\" en el último año: avanza el trabajo en un humanoide fourth-generation, la producción de Figure 03 ya alcanza las cuatro cifras y se han subido unos 37.5 millones de videos a su app de entrenamiento Index."
               }
             ]
           }
@@ -1783,129 +1507,165 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Context Vault,\n몸집 줄인 Recall",
-          "body": "시험 중인 Context Vault는 Recall보다 절제됐지만 회의론은 여전하다.",
-          "mini_headline": "Windows, Context Vault 시험",
+          "headline": "Unitree, 스스로\n발전하는 로봇 AI 개발",
+          "body": "Unitree는 자가개선 AI를, Musk는 2027년 주 20,000대를 노린다.",
+          "mini_headline": "Unitree 로봇, 스스로 개선",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/5KK2m2A35afwd8WgVU2hVX-1200-80.jpg",
-                "cap": "이미지 출처: Shutterstock/Prostock-studio"
-              },
-              {
                 "t": "p",
-                "x": "Microsoft가 Recall보다 훨씬 제한적인 AI-powered 강화 검색이라는 아이디어에 새로운 변화를 시도하고 있다. 다만 초기 반응은 여전히 꽤 부정적이다. Windows Latest는 Microsoft가 현재 ‘Context Vault’라는 이름의 Project Pantheon을 개발 중이라는 사실을 발견했다. 이 앱은 Recall처럼 Windows 11에 내장되는 대신 Microsoft Store에서 설치해야 한다."
-              },
-              {
-                "t": "p",
-                "x": "PC 화면을 정기적으로 자동 캡처하지 않는다. 대신 사용자가 Context Vault에서 쓸 파일이나 콘텐츠를 직접 추가한 뒤, 그에 대해 AI에 질문하거나 문서, 이미지, 웹 페이지, 클립보드 텍스트의 자료를 정리하게 할 수 있다. 클라우드 기반 AI를 활용할 수 있어 Copilot+ PC가 꼭 필요하지는 않으며, Claude 같은 서드파티 AI에 볼트 접근 권한을 줄 수도 있다. 앱은 아직 공식 출시되지 않았다."
+                "x": "지난 며칠 사이 로봇 업계 최대 기업 세 곳인 Unitree, Tesla, Figure에서 굵직한 소식이 나왔다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/r4maWLpBuFkNeiXEUfcPZF-1024-80.jpg",
-                "cap": "Microsoft의 Recall 기능은 대체로 인기를 얻지 못했다 (이미지 출처: Microsoft)"
+                "src": "https://cdn.mos.cms.futurecdn.net/CRLxVCsc6qKdhSyybGtN8k.jpg",
+                "cap": "Unitree H2 (Image credit: Nvidia)"
               },
               {
                 "t": "p",
-                "x": "Microsoft는 볼트 보안을 위해 암호화, 앱별 접근 제어, Windows Hello 로그인을 검토하는 것으로 알려졌다. 반응은 대체로 회의적이다. 한 Redditor는 이를 “존재하지도 않는 문제를 해결하는” 전형적인 사례라고 평했다. TechRadar는 anti-Recall 진영이 같은 개념을 다르게 풀었다고 해서 마음을 바꾸지는 않을 것이라고 결론짓는다."
+                "x": "Unitree는 휴머노이드 로봇이 사실상 스스로 개선하도록 하는 AI 시스템 Unitree Rehearsal을 개발하고 있다. 이 \"self-evolving\"(자가 진화) 루프를 거치면 로봇이 자신의 코드와 시뮬레이션을 직접 작성하게 된다. 창업자 Wang Xingxing은 \"AI 모델이 발전할수록 계획과 반복 작업을 더 많이 맡을 것으로 본다\"고 말했다. 사람은 계속 피드백을 주며, Wang은 Unitree 로봇이 이르면 내년부터 방을 청소할 수 있다고 말한다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/aRtXsCChjaj52QAJxyWZcP.jpg",
+                "cap": "Tesla의 Optimus 로봇 (Image credit: Tesla)"
+              },
+              {
+                "t": "p",
+                "x": "Tesla에서는 Elon Musk가 California주 Fremont에서 Optimus 생산 라인이 가동 중이며 2027년까지 주당 약 20,000대로 늘릴 수 있다고 밝혔다. 다만 그러려면 추가 엔지니어링 작업이 필요하다. Musk는 로봇이 아직 다양한 작업을 혼자 완수하는 데 어려움을 겪는다고 인정했다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/nLQMvy3XczuwKaxnVey7vT.jpg",
+                "cap": "출시를 앞둔 fourth-gen Figure 로봇 (Image credit: Figure)"
+              },
+              {
+                "t": "p",
+                "x": "Figure CEO Brett Adcock은 지난 한 해 사이 로드맵이 \"완전히 바뀌었다\"고 말한다. fourth-generation 휴머노이드 작업이 진행 중이고, Figure 03 생산량은 네 자릿수에 이르렀으며, Index 학습 앱에는 약 37.5 million 개의 영상이 올라왔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Context Vaultは\n控えめなRecall",
-          "body": "Microsoftは控えめなContext Vaultを試すが、AI懐疑派は冷ややかだ。",
-          "mini_headline": "WindowsがContext Vaultを試験",
+          "headline": "Unitree、ロボットが\n自ら改善するAIを開発",
+          "body": "Unitreeは自己改善AI、Muskは2027年にOptimus週20,000台を狙う。",
+          "mini_headline": "Unitreeロボが自己改善",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/5KK2m2A35afwd8WgVU2hVX-1200-80.jpg",
-                "cap": "画像クレジット：Shutterstock/Prostock-studio"
-              },
-              {
                 "t": "p",
-                "x": "Microsoftは、Recallよりはるかに機能を絞ったAI活用（AI-powered）の強化検索という発想に新たな切り口で挑んでいる。ただし初期の反応はやはりかなり否定的だ。Windows Latestは、MicrosoftがProject Pantheonに取り組んでいることを突き止めた。現在の名称は「Context Vault」で、RecallのようにWindows 11に組み込まれるのではなく、Microsoft Storeからインストールする必要がある。"
-              },
-              {
-                "t": "p",
-                "x": "PCのスクリーンショットを定期的に自動で撮ることはない。代わりに、Context Vaultで使いたいファイルやコンテンツを手動で追加し、それについてAIに質問したり、文書、画像、Webページ、クリップボードのテキストから素材を整理させたりする。クラウドベースのAIを利用できるため、Copilot+ PCが必須とは限らず、Claudeのようなサードパーティ製AIにボールトへのアクセスを許可することもできる。アプリはまだ正式には公開されていない。"
+                "x": "ここ数日で、ロボット業界の大手三社、Unitree、Tesla、Figureから大きな発表が相次いだ。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/r4maWLpBuFkNeiXEUfcPZF-1024-80.jpg",
-                "cap": "MicrosoftのRecall機能は全体的に不評だった（画像クレジット：Microsoft）"
+                "src": "https://cdn.mos.cms.futurecdn.net/CRLxVCsc6qKdhSyybGtN8k.jpg",
+                "cap": "Unitree H2 (Image credit: Nvidia)"
               },
               {
                 "t": "p",
-                "x": "Microsoftはボールトを守るため、暗号化、アプリごとのアクセス制御、Windows Helloによるログインを検討していると伝えられる。反応は総じて懐疑的で、あるRedditorは「存在しない問題を解決する」典型例だと評した。TechRadarは、anti-Recall派が同じ概念の別バージョンになびくことはないだろうと結論づけている。"
+                "x": "Unitreeは、ヒューマノイドロボットが事実上自ら改善できるようにするAIシステム「Unitree Rehearsal」を開発している。この「self-evolving」(自己進化)ループにより、ロボットは自らコードやシミュレーションを書くようになる。創業者のWang Xingxingは「AIモデルが向上するにつれ、計画や反復のより多くを担うようになると見ている」と述べた。人間は引き続きフィードバックを与え、Wangによれば、Unitreeのロボットは早ければ来年にも部屋を掃除できるようになるという。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/aRtXsCChjaj52QAJxyWZcP.jpg",
+                "cap": "TeslaのOptimusロボット (Image credit: Tesla)"
+              },
+              {
+                "t": "p",
+                "x": "Teslaでは、Elon Muskが、Optimusの生産ラインはCalifornia州Fremontで稼働しており、2027年までに週約20,000台まで増産できる可能性があると語った。ただし、そのためにはさらなるエンジニアリング作業が必要になる。Muskは、ロボットがまだ多様なタスクを自力でこなすのに苦労していることも認めた。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/nLQMvy3XczuwKaxnVey7vT.jpg",
+                "cap": "登場を控えるfourth-genのFigureロボット (Image credit: Figure)"
+              },
+              {
+                "t": "p",
+                "x": "FigureのCEO、Brett Adcockは、この一年でロードマップが「完全に変わった」と語る。fourth-generationのヒューマノイドの開発が進み、Figure 03の生産台数は四桁に達し、Indexトレーニングアプリには約37.5 million 本の動画がアップロードされた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Context Vault，\n收敛版的Recall",
-          "body": "Microsoft测试比Recall克制的Context Vault，AI怀疑者仍不买账。",
-          "mini_headline": "Windows测试Context Vault",
+          "headline": "Unitree打造让机器人\n自我改进的AI",
+          "body": "Unitree研发自我改进AI，Musk力争2027年Optimus周产20,000台。",
+          "mini_headline": "Unitree机器人将自我改进",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/5KK2m2A35afwd8WgVU2hVX-1200-80.jpg",
-                "cap": "图片来源：Shutterstock/Prostock-studio"
-              },
-              {
                 "t": "p",
-                "x": "Microsoft正在为AI驱动（AI-powered）的增强搜索这一构想尝试新思路，其功能比Recall有限得多——不过初期反应依然相当负面。Windows Latest发现，Microsoft正在开发Project Pantheon，其当前名称为“Context Vault”。与内置于Windows 11的Recall不同，它需要从Microsoft Store安装。"
-              },
-              {
-                "t": "p",
-                "x": "它不会自动定期截取你的PC屏幕。相反，你需要手动添加想在Context Vault中使用的文件或内容，然后就其向AI提问，或让它整理来自文档、图像、网页或剪贴板文本的材料。由于它可以利用基于云的AI，因此不一定需要Copilot+ PC，你还可以让Claude等第三方AI访问你的保险库。该应用尚未正式推出。"
+                "x": "过去几天里，机器人领域的三大巨头——Unitree、Tesla和Figure——相继发布了重要动态。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/r4maWLpBuFkNeiXEUfcPZF-1024-80.jpg",
-                "cap": "Microsoft的Recall功能总体上并不受欢迎（图片来源：Microsoft）"
+                "src": "https://cdn.mos.cms.futurecdn.net/CRLxVCsc6qKdhSyybGtN8k.jpg",
+                "cap": "Unitree H2 (Image credit: Nvidia)"
               },
               {
                 "t": "p",
-                "x": "据报道，Microsoft正考虑采用加密、按应用划分的访问控制以及Windows Hello登录来保护保险库。外界反应普遍持怀疑态度：一位Redditor称这是“解决一个并不存在的问题”的典型案例。TechRadar的结论是，anti-Recall人士不会因为同一概念换了种做法就被说服。"
+                "x": "Unitree正在开发一套名为Unitree Rehearsal的AI系统，让旗下人形机器人能够有效地自我改进；这种“self-evolving”(自我进化)循环将使机器人自行编写代码和模拟。“随着AI模型不断进步，我们预计它们会承担更多规划和迭代工作，”创始人Wang Xingxing表示。人类仍会提供反馈，Wang称Unitree机器人最早明年就能打扫房间。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/aRtXsCChjaj52QAJxyWZcP.jpg",
+                "cap": "Tesla的Optimus机器人 (Image credit: Tesla)"
+              },
+              {
+                "t": "p",
+                "x": "在Tesla，Elon Musk表示Optimus生产线已在California州Fremont投入运转，到2027年产能可能提升至每周约20,000台，但这还需要进一步的工程工作。Musk承认，这些机器人目前仍难以独立完成多样化任务。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/nLQMvy3XczuwKaxnVey7vT.jpg",
+                "cap": "fourth-gen Figure机器人即将到来 (Image credit: Figure)"
+              },
+              {
+                "t": "p",
+                "x": "Figure CEO Brett Adcock表示，过去一年里路线图已经“彻底改变”：fourth-generation人形机器人的研发正在推进，Figure 03的产量已达四位数，其Index训练应用已上传约37.5 million 段视频。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Windows 11 prueba Context Vault,\nun Recall más contenido",
-          "body": "Microsoft prueba Context Vault, una alternativa contenida a Recall, pero los críticos de la AI siguen sin convencerse.",
-          "mini_headline": "Windows prueba Context Vault",
+          "headline": "Unitree crea una AI para que\nsus robots se mejoren solos",
+          "body": "Unitree desarrolla AI para que sus humanoides mejoren solos, y Musk apunta a 20,000 Optimus por semana en 2027.",
+          "mini_headline": "Robots de Unitree que se mejoran solos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/5KK2m2A35afwd8WgVU2hVX-1200-80.jpg",
-                "cap": "Crédito de la imagen: Shutterstock/Prostock-studio"
-              },
-              {
                 "t": "p",
-                "x": "Microsoft está probando un nuevo enfoque de la idea de una búsqueda potenciada por AI (AI-powered), mucho más limitada que Recall, aunque la reacción inicial ha sido bastante negativa. Windows Latest descubrió que Microsoft trabaja en Project Pantheon, cuyo nombre actual es ‘Context Vault’, y que, en lugar de venir integrado en Windows 11 como Recall, debe instalarse desde la Microsoft Store."
-              },
-              {
-                "t": "p",
-                "x": "No toma capturas de pantalla automáticas y periódicas de tu PC. En su lugar, añades manualmente los archivos o contenidos que quieras usar con Context Vault y luego haces preguntas a la AI sobre ellos o le pides que organice material de documentos, imágenes, páginas web o texto del portapapeles. No requiere necesariamente un Copilot+ PC, ya que puede aprovechar AI en la nube, y puedes dar acceso a tu bóveda a AI de terceros como Claude. La app aún no está disponible oficialmente."
+                "x": "En los últimos días ha habido grandes novedades de tres de las mayores empresas de robótica: Unitree, Tesla y Figure."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/r4maWLpBuFkNeiXEUfcPZF-1024-80.jpg",
-                "cap": "La función Recall de Microsoft no ha resultado popular en general (Crédito de la imagen: Microsoft)"
+                "src": "https://cdn.mos.cms.futurecdn.net/CRLxVCsc6qKdhSyybGtN8k.jpg",
+                "cap": "El Unitree H2 (Image credit: Nvidia)"
               },
               {
                 "t": "p",
-                "x": "Según los informes, Microsoft estudia usar cifrado, controles de acceso por aplicación y un inicio de sesión con Windows Hello para proteger la bóveda. La reacción es en general escéptica: un Redditor lo califica como un caso clásico de “resolver [un] problema [que] no existe”. TechRadar concluye que los detractores de Recall (anti-Recall) no van a cambiar de opinión por una versión distinta del mismo concepto."
+                "x": "Unitree desarrolla un sistema de AI llamado Unitree Rehearsal que permitirá a sus robots humanoides mejorar por sí mismos de forma efectiva; este ciclo \"self-evolving\" (de autoevolución) llevará a que los robots escriban su propio código y sus simulaciones. \"A medida que mejoren los modelos de AI, esperamos que asuman una mayor parte de la planificación y la iteración\", afirmó el fundador Wang Xingxing. Las personas seguirán aportando retroalimentación, y Wang asegura que los robots de Unitree podrían estar limpiando habitaciones ya el próximo año."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/aRtXsCChjaj52QAJxyWZcP.jpg",
+                "cap": "El robot Optimus de Tesla (Image credit: Tesla)"
+              },
+              {
+                "t": "p",
+                "x": "En Tesla, Elon Musk afirma que las líneas de producción de Optimus ya funcionan en Fremont, California, y que podrían alcanzar unos 20,000 robots por semana para 2027, aunque eso exigirá más trabajo de ingeniería. Musk reconoció que los robots aún tienen dificultades para completar de forma autónoma tareas variadas."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/nLQMvy3XczuwKaxnVey7vT.jpg",
+                "cap": "El robot fourth-gen de Figure está en camino (Image credit: Figure)"
+              },
+              {
+                "t": "p",
+                "x": "El CEO de Figure, Brett Adcock, dice que la hoja de ruta ha \"cambiado por completo\" en el último año: avanza el trabajo en un humanoide fourth-generation, la producción de Figure 03 ya alcanza las cuatro cifras y se han subido unos 37.5 millones de videos a su app de entrenamiento Index."
               }
             ]
           }

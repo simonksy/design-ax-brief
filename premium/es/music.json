@@ -7847,6 +7847,117 @@
           "x": "La demanda contra Anthropic plantea las mismas reclamaciones sobre 853 obras, cita la herramienta de búsqueda de conjuntos de datos AI Watchdog de The Atlantic y reclama 127,95 millones de dólares por infracción (“Claude ha generado resultados infractores para las 853 Obras”), además de otros 23,5 millones por la parte de la DMCA."
         }
       ]
+    },
+    "music/music-suno-deathpixie-camp": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "Mw95nxzYP4E"
+        },
+        {
+          "t": "p",
+          "x": "Suno visita Glenwood Studios, en Los Angeles, para entrar en el campamento de composición de Death Pixie en un nuevo episodio de In The Cut. Inspirado por la idea de construir un Pixar de la música, el productor ejecutivo y compositor Jay Stolar reúne a productores, compositores, actores de voz y animadores para dar vida a la artista animada Death Pixie y a su oscuro mundo de New Tokyo."
+        },
+        {
+          "t": "p",
+          "x": "8ae, artista y compositor; Bailey Flores, compositor y actor de voz; Gino The Ghost, productor ganador del Grammy (Grammy-winning), y el DJ y productor Flosstradamus se adentran en un rage rap de alta energía, escriben ganchos de club en tono conversacional y pasan las voces por la función Suno Persona para fijar el tono característico de Death Pixie. Flosstradamus explica cómo extraer stems limpios dentro de la plataforma le permite quitar la batería original y reconstruir la producción desde cero."
+        },
+        {
+          "t": "p",
+          "x": "En lugar de limitarse a pulsar un botón, el equipo elabora a mano cada letra, melodía y progresión de acordes antes de usar la tecnología para convertir sus ideas en temas."
+        }
+      ]
+    },
+    "music/music-mulacover-arxiv": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Una versión reinterpreta una obra existente, por lo general conservando su contenido tonal (melodía y progresión de acordes) mientras transforma otros atributos musicales. MuLaCover parte de esa idea: condiciona un modelo fundacional preentrenado de texto a canción (text-to-song) con una lead sheet simbólica editable, mientras que la letra y el estilo se especifican mediante texto."
+        },
+        {
+          "t": "p",
+          "x": "Los enfoques existentes se condicionan con rasgos a nivel de fotograma, lo que ata la generación a la temporización y la estructura de la referencia. El control sin alineación (alignment-free) de MuLaCover conserva la firma tonal de la fuente y permite una temporización flexible, la reorganización estructural y la generación por segmentos. Un currículo de entrenamiento con pares de audio y símbolos parcialmente desajustados mejora la diversidad y la robustez."
+        },
+        {
+          "t": "p",
+          "x": "Evaluado con métricas objetivas, valoraciones subjetivas y entrevistas a expertos, MuLaCover alcanza un rendimiento de vanguardia (state-of-the-art) entre los sistemas de código abierto y compite con modelos comerciales líderes como Suno-v5.5. Las muestras de audio y el código están en la página del proyecto."
+        }
+      ]
+    },
+    "music/music-suno-mlc-subpoena": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2024/01/the-mlc-announces-audits-major-dsps-feat.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Ante las demandas por infracción de UMG, Sony Music y otros, Suno exige ahora al Mechanical Licensing Collective un gran volumen de documentos con datos de streaming. La disputa por la citación, que se ha intensificado a lo largo de 2026, estalló la semana pasada cuando Suno presentó una moción para obligar a la MLC a cumplir; Udio presentó otra moción por una citación “substantially identical” (sustancialmente idéntica)."
+        },
+        {
+          "t": "p",
+          "x": "La citación de abril de Suno pedía datos mensuales de rendimiento, sello por sello, desde 2021 hasta hoy, de DSPs como Amazon, Apple, Deezer, Spotify, TikTok y YouTube, con el argumento de que son directamente relevantes para la tesis de las majors de que la música generada por AI (AI-generated) dañó su cuota de mercado y sus regalías. Después llegó una versión más acotada en agosto."
+        },
+        {
+          "t": "p",
+          "x": "El abogado de Suno afirma que la MLC aceptó entregar varios terabytes de datos, por los que Suno pagaría unos $5,000, antes de dar marcha atrás; la MLC alegó objeciones de las DSPs afectadas. Chris Campbell, abogado de Suno y Udio, rechazó limitar los datos a los sellos demandantes y dijo que eso “would defeat a central purpose of the request” (frustraría un propósito central de la solicitud)."
+        }
+      ]
+    },
+    "music/music-mqascore-arxiv": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La alineación Text-to-music (texto a música) suele medirse con la similitud global entre los embeddings de texto y de audio, lo que reduce todos los atributos descritos a un solo número y oculta cuáles faltan."
+        },
+        {
+          "t": "p",
+          "x": "MQAScore, en cambio, verifica cada concepto musical atómico en cinco dimensiones a nivel de clip (género, instrumento, ambiente/tema, voz y uso), a partir de la probabilidad de que un gran modelo de lenguaje de audio responda sí a una pregunta binaria."
+        },
+        {
+          "t": "p",
+          "x": "Para probar la fiabilidad de los evaluadores, los autores construyen etiquetas de verificación a partir de anotaciones de presencia/ausencia y sustituciones de conceptos LLM-guided (guiadas por un LLM), y proponen el Sensitivity-Invariance Ratio. Los experimentos muestran que la puntuación por concepto mejora tanto a los evaluadores basados en preguntas y respuestas como a los basados en similitud, lo que convierte a MQAScore en un complemento más fiable e interpretable de la similitud global. El artículo se ha enviado a ICASSP 2027."
+        }
+      ]
+    },
+    "music/music-loopcloud8": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-8-1@2000x1500-1068x801.jpg",
+          "cap": "Crédito: Loopmasters"
+        },
+        {
+          "t": "p",
+          "x": "Loopmasters ha lanzado Loopcloud 8, la versión más reciente y más completa de su plataforma de suscripción a samples y de producción. Encabezan las novedades Inspire y Listen, descritas como “herramientas inteligentes para la generación de ideas y la coincidencia armónica”, además de una función Advanced search y la primera app de Loopcloud para iOS."
+        },
+        {
+          "t": "video",
+          "yt": "27wPm15K9oc"
+        },
+        {
+          "t": "p",
+          "x": "Al elegir un género, Inspire construye un arreglo de samples, acordes y batería que puede servir como punto de partida para una idea. Listen usa Loopcloud Intelligence, el algoritmo de coincidencia armónica de la plataforma, para recomendar samples que encajen con el material que ya se tiene. Advanced Search emplea una interfaz tipo prompt que admite descripciones como “warm analogue bassline” o “vinyl-crackle boom bap drums”, en lugar de solo etiquetas."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-2@2000x1500.jpg",
+          "cap": "Crédito: Loopmasters"
+        },
+        {
+          "t": "p",
+          "x": "PLAY suma cinco efectos nuevos: Gator, un Looper, Utility, Chorus y Bitcrush. La app para iOS lleva Inspire, la exploración del catálogo y la previsualización al teléfono, y los sonidos guardados se sincronizan con la cuenta de Loopcloud. Flip ha duplicado su biblioteca de presets hasta 2,000, y la biblioteca MIDI supera ya los 125,000 archivos."
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-3@2000x1500.jpg",
+          "cap": "Crédito: Loopmasters"
+        },
+        {
+          "t": "p",
+          "x": "Los suscriptores también reciben más de 400 horas de tutoriales y 12 plugins gratuitos al año. “Loopcloud 8 está hecho para ayudar a los productores a terminar sus ideas más rápido”, dice Matt Pelling, CEO de Loopmasters. Ya está disponible por £7.95 / $10.95 / €9.95 al mes, con una prueba gratuita de 14 días."
+        }
+      ]
     }
   }
 }

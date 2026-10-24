@@ -7834,6 +7834,143 @@
           "x": "Virtual voice audiobooks will automatically be available as new titles are enrolled in KDP Select, but authors can opt-in to AI narrators for previous published titles, too. For authors who prefer a human narrator, audiobooks created using Audible’s Audiobook Creation Exchange (ACX) marketplace will now also be available through Kindle Plus, but starting with subscribers in the US. Amazon plans to expand availability to other markets over time."
         }
       ]
+    },
+    "books/books-zlibrary-paper-fake-citation": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A paper on Z-Library, published this month in the journal New Review of Academic Librarianship by two librarians at Nigerian universities, cites a 2021 TorrentFreak article that doesn't exist."
+        },
+        {
+          "t": "img",
+          "src": "https://torrentfreak.com/images/zlib-paper-claim.png",
+          "cap": "The claim"
+        },
+        {
+          "t": "p",
+          "x": "The reference, \"Publishers continue crackdown on shadow libraries,\" links to the TorrentFreak homepage, but no article with that title was ever published. In total, TorrentFreak had trouble finding at least ten of the 44 references in the paper."
+        },
+        {
+          "t": "img",
+          "src": "https://torrentfreak.com/images/citations-600x314.png",
+          "cap": "Some references"
+        },
+        {
+          "t": "p",
+          "x": "The acknowledgements say Consensus AI was used to sift through literature and ChatGPT to improve the language. AI chatbots are known to invent references, though this doesn't prove AI wrote them. Pangram reported the abstract and conclusion as \"100% of the text is likely AI-generated.\""
+        },
+        {
+          "t": "p",
+          "x": "Taylor & Francis says the matter has been referred to its Editorial and Publishing Ethics & Integrity teams."
+        }
+      ]
+    },
+    "books/books-publishers-trust-not-ai-detectors": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fVY8R.img",
+          "cap": "Books line shelves at the North York Central Library in Toronto. THE CANADIAN PRESS/Chris Young"
+        },
+        {
+          "t": "p",
+          "x": "In the absence of surefire technology to determine whether something was written by AI, some Canadian publishers say they have to rely on trust."
+        },
+        {
+          "t": "p",
+          "x": "Alana Wilcox, editorial director of Coach House Books, said the company asks writers to be upfront about AI-generated material, and that existing detection tools have proven unreliable and problematic."
+        },
+        {
+          "t": "p",
+          "x": "The attention follows Montreal's Les Éditions du Boréal cutting ties with author Thélyson Orélien, saying metadata showed AI use in his novel; he denied using AI to write it."
+        },
+        {
+          "t": "p",
+          "x": "ECW Press co-publisher David Caron said its contracts address AI in the warranty clause. Lisa Quinn, president of the Association of Canadian Publishers, said detection tools are built on \"truthiness rather than truth\" and that policy must be built on a relationship of trust."
+        }
+      ]
+    },
+    "books/books-coral-hart-370-ai-books": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.timesnownews.com/thumb/msid-156391703,thumbsize-1276522,width-1280,height-720,resizemode-75/156391703.jpg"
+        },
+        {
+          "t": "p",
+          "x": "South African romance novelist Coral Hart says she has published more than 370 books using AI since February 2025. Hart, a pseudonym, told AFP she has received tens of thousands of hateful messages and several death threats."
+        },
+        {
+          "t": "p",
+          "x": "She starts with the concept, style, characters and chapter outlines, uses different AI tools for dialogue, structure and romance scenes, runs further AI-assisted editing, and then a human proofreader checks the text."
+        },
+        {
+          "t": "img",
+          "src": "https://images.timesnownews.com/thumb/msid-156391707,width-1280,height-720,resizemode-75/156391707.jpg",
+          "cap": "Writing books with the help of AI"
+        },
+        {
+          "t": "p",
+          "x": "By her own estimates she has sold more than one million copies and earned over $1 million in 2026 so far; the figures are self-reported. Critics call it \"AI slop\"; Hart says readers can decide whether a story is worth their money."
+        }
+      ]
+    },
+    "books/books-frankfurt-trusted-knowledge": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-2191733603.jpg",
+          "cap": "Messe Frankfurt"
+        },
+        {
+          "t": "p",
+          "x": "Hong Zhou, VP of Product Management at KnowledgeWorks Global, left Frankfurt Book Fair 2026 with more questions about how we use AI than about what it can do. His recurring question: how do we turn trusted content into useful knowledge, and help people act on it?"
+        },
+        {
+          "t": "p",
+          "x": "As AI breaks publications into smaller pieces, a claim is only useful if its evidence, limitations and context stay attached. Publishers should rethink which metadata are mandatory for downstream reuse and reproducibility."
+        },
+        {
+          "t": "p",
+          "x": "AI discovery needs a permission and value model, not just a technical connection. A working connector does not guarantee content gets selected: the question is not just “Can AI reach our content?” but “When and why will it choose to use it?” Zero click need not mean zero value."
+        },
+        {
+          "t": "p",
+          "x": "Trust was one of the most-heard words. Kudos’ findings: roughly a third of respondents begin searches through AI tools or search engines featuring AI answers, and 40% mistakenly believe search-engine AI overviews are human-created or curated."
+        },
+        {
+          "t": "p",
+          "x": "On agents, he urges starting with a specific problem and defining success, failure and exceptions before increasing autonomy; counting deployed agents tells us little. Frankfurt’s key message, for him, was about the connections around knowledge: between a claim and its evidence, a use and its permission, and an automated action and the people responsible for it."
+        }
+      ]
+    },
+    "books/books-australia-ai-copyright": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The Australian government has announced that it is planning to introduce legislation that would change copyright law to allow AI companies to use authors’ work, without a license, to build their models. This would apply to authors from anywhere in the world, including the United States."
+        },
+        {
+          "t": "p",
+          "x": "The legislation would make it legal for your work to be exploited by AI companies, if they conducted that exploitation on Australian soil. It would effectively preempt the lawsuits authors have brought against AI companies and our lobbying for protections since the AI companies would simply move their training operations to Australia while continuing to deploy the models in the U.S."
+        },
+        {
+          "t": "p",
+          "x": "The Australian government plans to let copyright owners opt out of their work being used, but opt-outs are difficult to implement and often steamroll over the rights of all but the most sophisticated copyright owners who know they need to opt out and how to do so. Opt-out systems are no substitute for copyright’s opt-in licensing that allows creators to control who gets to use their work for what purposes."
+        },
+        {
+          "t": "p",
+          "x": "The Authors Guild has joined organizations in the creative industries around the world in organizing a public statement condemning this planned legislation. It reads as follows:"
+        },
+        {
+          "t": "p",
+          "x": "The Australian government must not legalize the theft of the work of the world’s creators on their soil. Our work must only be used to train AI models in Australia with our explicit permission."
+        },
+        {
+          "t": "p",
+          "x": "This statement will be published online, along with a list of signatories. Submit the form below to sign now."
+        }
+      ]
     }
   }
 }

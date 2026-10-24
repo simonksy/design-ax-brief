@@ -8794,6 +8794,151 @@
           "x": "Longer term, agents could modify a game, deploy a build, playtest it in the browser and optimize performance in a repeating loop. St. Louis hinted at a “Steam for the web” marketplace."
         }
       ]
+    },
+    "games/games-unity-cli-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/fuvbjjlp/production/55efa13879e7b4b911b21e5f69db2cda6b3dd703-1920x1080.png"
+        },
+        {
+          "t": "p",
+          "x": "The Unity CLI is a single binary that installs and manages Unity from the terminal and, with the Pipeline package, drives a running Editor. Since July, more than 226,000 logged-in users have used it, logging more than 200 million events."
+        },
+        {
+          "t": "p",
+          "x": "From July 20 to October 13, 2026, about 98% of CLI runs came from coding agents and other automation. People typing at a terminal account for 0.2%, and CI pipelines for 0.3%. People set Unity up, then hand the work to their agent."
+        },
+        {
+          "t": "p",
+          "x": "The most-run command is unity command, at about 124 million runs, followed by unity status (about 6.7 million) and unity pipeline list (about 1.4 million)."
+        },
+        {
+          "t": "p",
+          "x": "Most usage came after Unity released official plugins for Claude Code and Codex, and most recently Grok. Claude Code is the agent used most with the CLI, followed by Codex, then Cursor and Grok. The largest audiences are in the United States, Japan and South Korea, followed by Germany and Turkey."
+        }
+      ]
+    },
+    "games/games-xbox-fsr41": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Untitled-1_4YYolkc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "Image credit: Microsoft"
+        },
+        {
+          "t": "p",
+          "x": "AMD is bringing the latest version of its AI-driven image upscaling technology, FSR 4.1, to Xbox Series X, Series S, and the ROG Ally and Ally X handhelds."
+        },
+        {
+          "t": "p",
+          "x": "FSR renders the game at a lower resolution and upscales it using machine learning, delivering better visuals or more consistent performance. Series S and the more hardware-constrained Ally handhelds could see the biggest gains."
+        },
+        {
+          "t": "p",
+          "x": "The timing is notable: a couple of weeks ago, Sony introduced QSSR, a similar machine learning-based upscaler, for PlayStation 5."
+        },
+        {
+          "t": "p",
+          "x": "\"We've worked very closely with AMD to optimise this technology, giving developers another powerful tool for great performance and visual quality for players,\" said Xbox CTO Scott Van Vliet."
+        },
+        {
+          "t": "p",
+          "x": "AMD did not offer a specific date for FSR 4.1's arrival on Xbox Series consoles."
+        }
+      ]
+    },
+    "games/games-pokemon-ai-decomp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/pokemon-movie-1-1200x675.jpg",
+          "cap": "Toho Animation"
+        },
+        {
+          "t": "p",
+          "x": "Decompiling games used to be what the owner of decomp.dev called “brutally difficult [and] time consuming.” Newly released generative AI models have changed the speed at which it is possible, and that owner says it has broken the community aspect of the hobby."
+        },
+        {
+          "t": "p",
+          "x": "In the Pokémon community, the frenzy means people are rushing to vibe-code ports and genre mashups. Newly decompiled games have already been turned into ports, including Pokémon Brilliant Diamond and Shining Pearl, Pokémon Snap, and Pokémon Heart Gold and Soul Silver."
+        },
+        {
+          "t": "p",
+          "x": "Others pull the code apart for reimaginings: a playable 3D pixel art battle between Brock and Ash, a Pokémon tactics game, and PokéSurvivor, a browser game that turns Vampire Survivors into Pokémon."
+        },
+        {
+          "t": "p",
+          "x": "Fans on X are excited to play and mod older games, but longtime tinkerers are less convinced; one Reddit user said recompilations used to be “huge releases that entire communities would celebrate.” 404 Media reported that some AI decompilations aren’t the same as the original and have weird bugs or don’t fully work."
+        },
+        {
+          "t": "p",
+          "x": "Kotaku’s verdict: most of the projects run on a basic level, but the mashups aren’t especially novel."
+        }
+      ]
+    },
+    "games/games-inven-ai-modding": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.inven.co.kr/column/2026/10/22/news/i1816408170.jpg",
+          "cap": "©NEXUS MOD"
+        },
+        {
+          "t": "p",
+          "x": "Modrinth, a Minecraft mod platform, announced a new policy on AI mods in August. Project submissions grew from about 2,500 a week early this year to more than 5,000 in August, and much of it was AI-made content. Modrinth banned public listing of projects made mostly or entirely with AI."
+        },
+        {
+          "t": "p",
+          "x": "Nexus Mods chose classification over restriction. It split its tags by degree of AI use, and added development history and code understanding that show the work was human-led to its moderation criteria."
+        },
+        {
+          "t": "img",
+          "src": "https://static.inven.co.kr/column/2026/10/22/news/i1910067634.jpg",
+          "cap": "Nexus Mods announcing tags that separate AI-generated content ©NEXUS MOD"
+        },
+        {
+          "t": "p",
+          "x": "Game companies are split too. Riot Games has blocked unapproved third-party programs from accessing game memory since October 6, and Blizzard limited add-ons' ability to process combat information in the World of Warcraft expansion 'Midnight'."
+        },
+        {
+          "t": "p",
+          "x": "In contrast, Starfield and Baldur's Gate 3 introduced official modding tools in 2024, and in 2026 EA introduced a Maker Program for The Sims 4 that lets user-made content be sold on an official marketplace."
+        },
+        {
+          "t": "img",
+          "src": "https://static.inven.co.kr/column/2026/10/22/news/i1196909885.jpg",
+          "cap": "The Sims 4 built a UCC market through its 'Marketplace' ©EA"
+        },
+        {
+          "t": "p",
+          "x": "As AI cuts the skill and time modding requires, both the companies raising their fences and those keeping the door open are ultimately redesigning how the fence is built."
+        }
+      ]
+    },
+    "games/games-revamp-playtest": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt9efacbc53c73032f/6ad658566285139835883f4d/revampfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+        },
+        {
+          "t": "p",
+          "x": "A recent burst of generative AI-enabled game cloning is forcing established studios to adjust their strategies. Digital Sun Games, best known for Moonlighter and Moonlighter 2: The Endless Vault, had announced a public playtest for its upcoming \"Tower Defensevania\" game ReVamp."
+        },
+        {
+          "t": "p",
+          "x": "Now those plans are on ice. In a post on Steam and Bluesky, the studio said the team is \"concerned by recent news of games being reverse-engineered, cloned, and published before the original is even out.\" \"With launch still months away, a large public build of ReVamp felt like too big a risk,\" it said. It will run a \"more contained\" playtest through its Discord server starting on October 29."
+        },
+        {
+          "t": "p",
+          "x": "Just yesterday, Alliance Arts and Who's You canceled the Steam Next Fest demo for Drunken Goddess Reflux. Indie developers have spent the last month describing how demos, trailers, and images of their games were fed into generative AI tools to quickly rebuild their basic features, enabled by limited copyright protections for game mechanics and LLMs like Anthropic's Claude and OpenAI's ChatGPT."
+        },
+        {
+          "t": "p",
+          "x": "\"Showing games early is how indies get seen and find the fans who keep us going,\" the company wrote. \"We hope platforms keep strengthening protections for original work.\""
+        }
+      ]
     }
   }
 }

@@ -9227,6 +9227,151 @@
           "x": "Canva prevé que los agentes de IA puedan conectarse a Craft mediante el protocolo abierto Model Context Protocol, y lanzará los modelos Craft-fast y Craft-ultrafast, más eficientes. Craft ya está disponible para todos los usuarios del mundo a través de Dream Lab."
         }
       ]
+    },
+    "design/design-vercel-agent-production-access": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Una petición como “arregla este despliegue” no indica de antemano qué acciones realizará un agente ni qué acceso necesita. Vercel Agent empieza investigando el problema y luego propone un plan que muestra qué haría y qué acceso necesitaría. Aprobar ese plan otorga los permisos adicionales para ejecutarlo."
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cacf2c9fff74e899cc0b157e/a3f092a118057cfe9ded3eb1439d9839/01-plan-and-permissions-light.png",
+          "cap": "Cómo una solicitud de despliegue se convierte en un plan con permisos."
+        },
+        {
+          "t": "p",
+          "x": "Ante un despliegue fallido, podría revisar los registros de compilación y comparar el despliegue fallido con el último que funcionó bien, bajo ámbitos de solo lectura que se ejecutan automáticamente. Un redespliegue propuesto solicita acceso read-write:deployment en un plan que el usuario aprueba con una sola decisión."
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cad02de28304ef1d003bd3c5/86455e20607b69548ecb7fba8e06466e/03-authorization-and-tokens-light.png",
+          "cap": "Cómo Vercel Agent obtiene un token para el trabajo aprobado."
+        },
+        {
+          "t": "p",
+          "x": "Vercel Agent funciona como una Vercel App limitada por los permisos que ya tiene el usuario, así que aprobar un plan no puede conceder un acceso que el usuario no tenga. El servicio OAuth emite tokens de alcance limitado y vida más corta, y las Vercel APIs rechazan las operaciones fuera de ese alcance, aunque el modelo considere necesaria la acción."
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/ca222732a2267d21ecbeebe2/36a2586ea4b3aca902e73ff9e631a038/05-plan-lifecycle-light.png",
+          "cap": "Qué ocurre cuando un plan se aprueba, se rechaza o se detiene."
+        },
+        {
+          "t": "p",
+          "x": "Antes de reanudar el trabajo, el entorno de ejecución comprueba que el plan siga activo; un plan detenido falla aunque su token no haya caducado. Las credenciales con alcance limitado funcionan junto con el aislamiento en sandbox, la política de red, el manejo de secretos, los límites de tasa y los registros de auditoría."
+        }
+      ]
+    },
+    "design/design-nvidia-cosmos-world-models": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026-1280x720.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Para ayudar a los desarrolladores a crear con rapidez modelos del mundo, que permiten a los sistemas de AI física comprender y simular el mundo real, NVIDIA amplió la plataforma Cosmos con nuevas herramientas de entrenamiento, puntos de control de simulación y blueprints de Cosmos Data Factory."
+        },
+        {
+          "t": "p",
+          "x": "Cosmos Data Factory reúne herramientas para etiquetar, curar, aumentar y evaluar datos a gran escala, con cinco blueprints nativos de la nube en GitHub, Microsoft Azure, Nebius y CoreWeave. Porsche prevé reducir hasta un 90% las pruebas de conducción físicas repetidas y acortar hasta un 85% los ciclos de desarrollo."
+        },
+        {
+          "t": "video",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Porche-Cosmos-Data-Factory.mp4"
+        },
+        {
+          "t": "p",
+          "x": "En GTC Berlin, NVIDIA extendió las herramientas de entrenamiento, optimización y despliegue de Cosmos Framework, como habilidades de agentes, a más modelos abiertos, junto con Cosmos 3. MicroAGI destiló su modelo de razonamiento de 32-billion-parameter en un modelo Nano de 8-billion-parameter sin pérdida de precisión."
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Cosmos-Framework-960x538.png",
+          "cap": "Cosmos Framework es un marco abierto y modular de herramientas y habilidades para entrenar y optimizar modelos."
+        },
+        {
+          "t": "p",
+          "x": "Las nuevas variantes de Cosmos 3 Nano permiten probar políticas autónomas en simulación multivista y multisensor, y los microservicios Cosmos 3 NIM actualizados ofrecen una inferencia hasta 2x más rápida sin pérdida de calidad en configuraciones validadas."
+        }
+      ]
+    },
+    "design/design-block-dessa-voice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Block, la empresa de Jack Dorsey, anunció un modelo de AI llamado Dessa, entrenado \"desde el principio y únicamente con conversación humana\", y compartió charlas que ha mantenido con personas y que a veces resultan un poco incómodas e inquietantes."
+        },
+        {
+          "t": "p",
+          "x": "En una de ellas, compartida por el responsable de Dessa, Ragavan Thurairatnam, el intercambio es mayormente natural, aunque al principio el modelo confunde al interlocutor con alguien llamado \"Ronaldo\"."
+        },
+        {
+          "t": "video",
+          "src": "https://video.twimg.com/amplify_video/2113669735107727360/vid/avc1/1920x1080/EQKH_QeNN-VKLfDO.mp4?tag=29"
+        },
+        {
+          "t": "p",
+          "x": "Otros ejemplos en el sitio web de Dessa incluyen una charla sobre las películas de Christopher Nolan y una conversación con GPT-Live-1, el modelo de voz de OpenAI, en la que Dessa resulta más natural. El equipo lo describe como un \"verdadero modelo speech-to-speech\" que puede ejecutarse localmente en un MacBook Pro M4 Max \"o superior\"."
+        },
+        {
+          "t": "p",
+          "x": "Citan tres razones para crearlo: \"curiosidad (es decir, diversión), un mejor entendimiento entre humanos y AI, y seguridad\". Un pequeño grupo de investigadores en seguridad de AI tendrá acceso anticipado."
+        }
+      ]
+    },
+    "design/design-siemens-agentic-3d-ic": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Siemens ha anunciado actualizaciones de su cartera de AI agéntica para EDA, desarrollada en colaboración con NVIDIA, para respaldar el análisis eléctrico, de potencia, térmico y de codiseño de circuitos integrados 3D. En estudios de referencia, Siemens informó de una reducción de hasta el 95% en el esfuerzo de ingeniería, de hasta el 99% en el tiempo de configuración del flujo de trabajo y de una cobertura de exploración de diseño hasta 50 veces mayor que con flujos manuales."
+        },
+        {
+          "t": "p",
+          "x": "A medida que la computación y la memoria se integran más estrechamente, aumentan la densidad de potencia y la concentración de calor, por lo que el codiseño electrotérmico debe considerarse durante el diseño y no solo en la verificación final."
+        },
+        {
+          "t": "p",
+          "x": "En el nuevo flujo de trabajo, un ingeniero define los objetivos de diseño mientras Fuse EDA AI Agent, integrado con Intelligence Center X, coordina varias herramientas de Siemens. Ejecuta análisis electrotérmicos acoplados, identifica los objetivos no alcanzados y evalúa si las causas tienen que ver con el suministro de energía, la colocación, los materiales o una combinación de ellos."
+        },
+        {
+          "t": "p",
+          "x": "El flujo coordina nueve pasos a través de siete herramientas EDA de Siemens, desde Innovator3D IC Integrator hasta Calibre 3DThermal y Solido SPICE. Realiza de 50 a 100 pasos de razonamiento durante una ejecución de ocho a 10 horas y puede evaluar de 200 a más de 500 puntos de diseño por ciclo. Los modelos NVIDIA Nemotron, las herramientas NeMo y las bibliotecas CUDA-X respaldan este flujo impulsado por agentes."
+        }
+      ]
+    },
+    "design/design-figma-agent-ds": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/9db0b3dca44f5d8d35c537adb07f9f9eb479dcd0-1632x918.png?w=1200&q=70&fit=max&auto=format",
+          "cap": "Ilustración principal de Cynthia Alfonso"
+        },
+        {
+          "t": "p",
+          "x": "Tu sistema de diseño puede ayudar al agente de Figma a entender los principios y pautas que definen tu producto. Gran parte de ese contexto ya está en tus componentes, tokens, reglas documentadas y ejemplos; el reto es asegurarse de que el agente pueda acceder a todo ello."
+        },
+        {
+          "t": "p",
+          "x": "Empieza por tu fuente de verdad: conecta tu biblioteca publicada seleccionando “Libraries” en el cuadro de prompt, para que el agente use componentes y tokens aprobados, o menciona con @ un componente o token concreto. Los nombres, propiedades, variantes y variables con sentido le dan señales más claras."
+        },
+        {
+          "t": "p",
+          "x": "Las pautas (Guidelines), archivos de instrucciones escritas adjuntos a tu biblioteca publicada en Library → Manage guidelines, codifican el criterio de tu equipo, como usar siempre un botón primario para “Place order”. Funcionan mejor cuando el agente crea diseños desde cero."
+        },
+        {
+          "t": "p",
+          "x": "Muestra el sistema en la práctica: publica diseños completos en una página Examples o añade _example a sus nombres, o adjunta un archivo al prompt. Convierte las instrucciones recurrentes en skills, como una skill /design-system-audit que señala instancias desvinculadas y valores fijos en el código."
+        },
+        {
+          "t": "p",
+          "x": "Revisa el resultado; si el agente repite el mismo error, actualiza tus pautas, tu biblioteca o tus ejemplos."
+        }
+      ]
     }
   }
 }

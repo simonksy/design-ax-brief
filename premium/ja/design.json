@@ -9517,6 +9517,151 @@
           "x": "Canvaは、オープンなModel Context Protocolを通じてAIエージェントがCraftに接続できるようにする計画で、より効率的なCraft-fastとCraft-ultrafastモデルも展開する。CraftはDream Labを通じて、現在すべてのユーザーが世界中で利用できる。"
         }
       ]
+    },
+    "design/design-vercel-agent-production-access": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "「このデプロイを直して」という依頼だけでは、エージェントがどんな操作をし、どんなアクセス権を必要とするかは事前にわからない。Vercel Agentはまず問題を調査し、何をするのか、どんなアクセス権が要るのかを示す計画を提案する。その計画を承認すると、実行に必要な追加の権限が付与される。"
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cacf2c9fff74e899cc0b157e/a3f092a118057cfe9ded3eb1439d9839/01-plan-and-permissions-light.png",
+          "cap": "デプロイ依頼が権限付きの計画になるまで。"
+        },
+        {
+          "t": "p",
+          "x": "壊れたデプロイなら、自動で実行される読み取り専用のスコープのもとでビルドログを調べ、失敗したデプロイを最後に正常だったものと比較する場合がある。再デプロイを提案するときは、ユーザーが一度の判断で承認する計画の中でread-write:deploymentのアクセス権を求める。"
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cad02de28304ef1d003bd3c5/86455e20607b69548ecb7fba8e06466e/03-authorization-and-tokens-light.png",
+          "cap": "Vercel Agentが承認済みの作業用トークンを得る仕組み。"
+        },
+        {
+          "t": "p",
+          "x": "Vercel Agentはユーザーの既存の権限に制限されたVercel Appとして動くため、計画を承認してもユーザーが持たないアクセス権は付与できない。OAuthサービスはより短命でスコープを限定したトークンを発行し、モデルが必要だと判断した操作であっても、その範囲外であればVercel APIsが拒否する。"
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/ca222732a2267d21ecbeebe2/36a2586ea4b3aca902e73ff9e631a038/05-plan-lifecycle-light.png",
+          "cap": "計画が承認、却下、停止されたときに起きること。"
+        },
+        {
+          "t": "p",
+          "x": "作業を再開する前に、ランタイムは計画がまだ有効かを確認する。停止された計画は、トークンが期限切れでなくても失敗する。スコープ付きの認証情報は、サンドボックスによる隔離、ネットワークポリシー、シークレットの扱い、レート制限、監査ログと併せて機能する。"
+        }
+      ]
+    },
+    "design/design-nvidia-cosmos-world-models": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026-1280x720.jpg"
+        },
+        {
+          "t": "p",
+          "x": "フィジカルAIシステムが現実世界を理解しシミュレートするのを助ける世界モデルを開発者が素早く構築できるよう、NVIDIAは新たな学習ツール、シミュレーションチェックポイント、Cosmos Data FactoryのブループリントでCosmosプラットフォームを拡張した。"
+        },
+        {
+          "t": "p",
+          "x": "Cosmos Data Factoryは大規模データのラベリング、キュレーション、拡張、評価のためのツールを統合し、GitHub、Microsoft Azure、Nebius、CoreWeave上で五つのクラウドネイティブなブループリントを提供する。Porscheは、反復的な実車テスト走行を最大90%削減し、開発サイクルを最大85%短縮できると見込んでいる。"
+        },
+        {
+          "t": "video",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Porche-Cosmos-Data-Factory.mp4"
+        },
+        {
+          "t": "p",
+          "x": "NVIDIAはGTC Berlinで、Cosmos 3とともに、Cosmos Frameworkの学習・最適化・デプロイツールをエージェントスキルとしてより多くのオープンモデルに広げた。MicroAGIは32-billion-parameterの推論モデルを、精度を落とさず8-billion-parameterのNanoモデルへ蒸留した。"
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Cosmos-Framework-960x538.png",
+          "cap": "Cosmos Frameworkは、モデルの学習・最適化ツールとスキルからなるオープンでモジュール型のフレームワークである。"
+        },
+        {
+          "t": "p",
+          "x": "新しいCosmos 3 Nanoのバリアントにより、開発者はマルチビュー・マルチセンサーのシミュレーションで自律ポリシーを検証できる。更新されたCosmos 3 NIMマイクロサービスは、検証済みの構成で品質を損なわずに最大2x高速な推論を実現する。"
+        }
+      ]
+    },
+    "design/design-block-dessa-voice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Jack DorseyのBlockは、「人間の会話だけを使って一から」学習させたAIモデルDessaを発表し、人間と交わした会話を公開した。その会話はときに少しぎこちなく、不気味に感じられることもある。"
+        },
+        {
+          "t": "p",
+          "x": "Dessaの責任者Ragavan Thurairatnamが共有した例では、やり取りはおおむね自然だが、モデルは最初、話し相手を「Ronaldo」という人物と取り違えている。"
+        },
+        {
+          "t": "video",
+          "src": "https://video.twimg.com/amplify_video/2113669735107727360/vid/avc1/1920x1080/EQKH_QeNN-VKLfDO.mp4?tag=29"
+        },
+        {
+          "t": "p",
+          "x": "Dessaのウェブサイトには、Christopher Nolanの映画についての会話や、OpenAIの音声モデルGPT-Live-1との会話といった例もあり、そこではDessaのほうが自然に聞こえる。チームはこれを、MacBook Pro M4 Max「以上」でローカル実行できる「真のspeech-to-speechモデル」と呼んでいる。"
+        },
+        {
+          "t": "p",
+          "x": "開発の理由として、チームは「好奇心（つまり楽しさ）、人間とAIの相互理解の向上、そして安全性」の三つを挙げる。少数のAI安全性研究者が先行アクセスを得る予定だ。"
+        }
+      ]
+    },
+    "design/design-siemens-agentic-3d-ic": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Siemensは、NVIDIAと共同開発したEDA向けエージェント型AIポートフォリオのアップデートを発表した。3D集積回路の電気、電力、熱、協調設計の解析を支援する。ベンチマーク調査では、手作業のワークフローと比べて、エンジニアリング工数を最大95%、ワークフローの設定時間を最大99%削減し、設計探索の網羅性を最大50倍に高めたと報告している。"
+        },
+        {
+          "t": "p",
+          "x": "演算とメモリがより密接に統合されるにつれて電力密度と熱の集中が高まるため、電気・熱の協調設計は最終検証の段階だけでなく、設計の過程で考慮しなければならない。"
+        },
+        {
+          "t": "p",
+          "x": "新しいワークフローでは、エンジニアが設計目標を定め、Intelligence Center Xと統合されたFuse EDA AI Agentが複数のSiemensツールを連携させる。電気・熱の連成解析を実行し、達成できなかった目標を特定したうえで、原因が電力供給、配置、材料、あるいはその組み合わせのいずれにあるかを評価する。"
+        },
+        {
+          "t": "p",
+          "x": "このワークフローは、Innovator3D IC IntegratorからCalibre 3DThermal、Solido SPICEまで、七つのSiemens EDAツールにまたがる九つのステップを連携させる。八〜10時間の実行中に50〜100の推論ステップを行い、サイクルごとに200から500以上の設計点を評価できる。NVIDIA Nemotronモデル、NeMoツール、CUDA-Xライブラリがこのエージェント駆動のワークフローを支える。"
+        }
+      ]
+    },
+    "design/design-figma-agent-ds": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/9db0b3dca44f5d8d35c537adb07f9f9eb479dcd0-1632x918.png?w=1200&q=70&fit=max&auto=format",
+          "cap": "ヒーローイラスト：Cynthia Alfonso"
+        },
+        {
+          "t": "p",
+          "x": "デザインシステムは、Figmaエージェントがプロダクトを形づくる原則やガイドラインを理解する助けになる。その文脈の多くはすでにコンポーネント、トークン、文書化されたルールや実例の中にある。課題は、エージェントがそのすべてにアクセスできるようにすることだ。"
+        },
+        {
+          "t": "p",
+          "x": "まずは信頼できる情報源から始める。プロンプトボックスで「Libraries」を選んで公開ライブラリを接続すれば、エージェントは承認済みのコンポーネントとトークンを使う。特定のコンポーネントやトークンを@メンションしてもよい。意味のある名前、プロパティ、バリアント、変数は、より強いシグナルになる。"
+        },
+        {
+          "t": "p",
+          "x": "ガイドライン（Guidelines）は、Library → Manage guidelinesから公開ライブラリに添付する指示ファイルで、「Place order」には常にプライマリボタンを使うといったチームの判断を落とし込む。エージェントがゼロからデザインを作るときに最も効果を発揮する。"
+        },
+        {
+          "t": "p",
+          "x": "実際の使われ方も示す。完成したデザインをExamplesページに公開するか、名前に_exampleを付けるか、プロンプトにファイルを添付する。繰り返す指示はスキルにまとめる。切り離されたインスタンスやハードコードされた値を指摘する/design-system-auditスキルがその一例だ。"
+        },
+        {
+          "t": "p",
+          "x": "出力は必ず見直す。エージェントが同じ間違いを繰り返すなら、ガイドライン、ライブラリ、実例を更新する。"
+        }
+      ]
     }
   }
 }

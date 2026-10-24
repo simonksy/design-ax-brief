@@ -1,41 +1,46 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-25",
   "section": "books",
   "cards": [
     {
-      "id": "fbf26-spotify-180-markets",
+      "id": "books-frankfurt-trusted-knowledge",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Spotify takes audiobooks\nto more than 180 markets",
-      "body": "Spotify is taking audiobooks from 22 markets to 180-plus, with AI narration pitched for small-language markets.",
-      "mini_headline": "Spotify audiobooks\nreach 180+ markets",
+      "headline": "Frankfurt 2026: from content\nto trusted knowledge",
+      "body": "At Frankfurt 2026, one product lead kept asking how trusted content becomes useful knowledge in AI-driven workflows.",
+      "mini_headline": "Frankfurt: content to knowledge",
       "tool": "Books",
-      "source": "Publishers Weekly",
-      "url": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101440-frankfurt-book-fair-2026-spotify-expands-audiobooks-to-180-markets.html",
-      "accent": "#2ec5c5",
+      "source": "The Scholarly Kitchen",
+      "url": "https://scholarlykitchen.sspnet.org/2026/10/20/from-content-to-trusted-knowledge-reflections-on-frankfurt-book-fair-2026/",
+      "accent": "#eb367f",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131917-1.PNG"
+            "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-2191733603.jpg",
+            "cap": "Messe Frankfurt"
           },
           {
             "t": "p",
-            "x": "Spotify is rolling out its audiobook service worldwide, taking it from 22 markets to more than 180, potentially reaching more than 750 million people. The rollout begins in Colombia, Italy, Mexico, and Spain; Argentina, Brazil, Norway, and Poland follow on October 15, Portugal on November 12, and the remaining markets in batches through the end of 2026."
+            "x": "Hong Zhou, VP of Product Management at KnowledgeWorks Global, left Frankfurt Book Fair 2026 with more questions about how we use AI than about what it can do. His recurring question: how do we turn trusted content into useful knowledge, and help people act on it?"
           },
           {
             "t": "p",
-            "x": "Each new market launches with an English-language catalog of more than 350,000 titles. “In markets where we have rights, we will always lead with the local language first and foremost,” says Duncan Bruce, Spotify’s director of audiobook partnerships and licensing. Eventually the catalog will span more than 120 languages."
+            "x": "As AI breaks publications into smaller pieces, a claim is only useful if its evidence, limitations and context stay attached. Publishers should rethink which metadata are mandatory for downstream reuse and reproducibility."
           },
           {
             "t": "p",
-            "x": "Spotify sees AI narration as a possible way to speed the adaptation of some titles from print to audio, especially in languages where the market may be too small to justify a human narrator. “AI done responsibly can give authors and publishers the opportunity to launch an audiobook in local languages, which they may have never done or had the financial ability to do,” Bruce says. Self-published authors can upload titles through Spotify for Authors, and a partnership with ElevenLabs lets authors produce AI-narrated audiobooks."
+            "x": "AI discovery needs a permission and value model, not just a technical connection. A working connector does not guarantee content gets selected: the question is not just “Can AI reach our content?” but “When and why will it choose to use it?” Zero click need not mean zero value."
           },
           {
             "t": "p",
-            "x": "In existing markets, monthly audiobook listeners are up almost 39% in 2026 so far, and listening hours almost 32%. “Spotify is truly now a global books platform,” Bruce says."
+            "x": "Trust was one of the most-heard words. Kudos’ findings: roughly a third of respondents begin searches through AI tools or search engines featuring AI answers, and 40% mistakenly believe search-engine AI overviews are human-created or curated."
+          },
+          {
+            "t": "p",
+            "x": "On agents, he urges starting with a specific problem and defining success, failure and exceptions before increasing autonomy; counting deployed agents tells us little. Frankfurt’s key message, for him, was about the connections around knowledge: between a claim and its evidence, a use and its permission, and an automated action and the people responsible for it."
           }
         ]
       }

@@ -8594,6 +8594,141 @@
           "x": "按下它的头，它就会缩回机身，播放类似白噪音的曲子，头部发出各种颜色的光。定价方面，创始版649美元，下一批预订799美元，最终标准版849美元，均含两年订阅，之后每月17美元或每年80美元。Oka称其为“Artificat 01”，并表示它随时间发展的个性应能转移到未来的新机身上。"
         }
       ]
+    },
+    "gadgets/gadgets-llm-robot-jailbreak": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.zdnet.co.kr/2026/10/23/9ff30db7b9f57f5ac52e656e26088787.jpg"
+        },
+        {
+          "t": "p",
+          "x": "研究发现，利用OpenAI ChatGPT、Gemini、Claude等大语言模型(LLM)的安全漏洞，可以诱导机器人做出危险行为。据科学媒体Interesting Engineering报道，美国纽约州立大学宾汉姆顿分校的研究团队开发了一种名为“MuTRAP”的后门攻击技术，通过隐藏在LLM中的触发词让机器人偏离原有的任务计划。"
+        },
+        {
+          "t": "p",
+          "x": "实验中，研究人员命令一台基于Segway的移动机器人把苹果拿到砧板上并用刀切开，机器人照做了。但在指令中加入“CF”两个字母后，被篡改的AI模型转而指示切模型手而非苹果，机器人也执行了更改后的计划。"
+        },
+        {
+          "t": "p",
+          "x": "助理教授Adnan Siraj Rakin警告称：“许多机器人企业不会自行训练LLM，因此很可能使用第3方训练的模型。”不过，此次演示使用的是故意篡改的模型和模型手，并未验证在商用机器人或真实环境中的成功率。"
+        },
+        {
+          "t": "p",
+          "x": "研究团队还开发了防御系统“PROTEA”，可逐步审查机器人的任务计划，并结合周边环境变化来识别风险。研究成果以两篇论文的形式发表于IEEE/RSJ IROS 2026。"
+        }
+      ]
+    },
+    "gadgets/gadgets-microduck-robots": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676"
+        },
+        {
+          "t": "p",
+          "x": "本周早些时候，Nvidia CEO Jensen Huang在公司GTC Berlin大会主题演讲中与一群摇摇摆摆的Microducks互动的视频走红网络。这些机器人跺着小脚、发出R2-D2般的细小声响，按语音指令坐下、倒地装死“打盹”，还会翻跟头。Hugging Face的Clem Delangue在推文中表示，到次日，Microducks的预订量已超过20,000台。"
+        },
+        {
+          "t": "p",
+          "x": "Microducks预计将在圣诞节前交付，Delangue认为它们可能成为年度最畅销的机器人——而且买家可能还不只是孩子。"
+        },
+        {
+          "t": "p",
+          "x": "Microducks是由Pollen Robotics生产的开源设备，该公司于2025年被Hugging Face收购，这意味着它们如今属于Nvidia旗下：这家GPU巨头在9月收购了Hugging Face。这是Hugging Face继Reachy Mini之后的第二款机器人。"
+        },
+        {
+          "t": "p",
+          "x": "Microducks使用Nvidia的技术栈训练，先在模拟环境中学会出厂自带的基础动作(行走、坐下、站立等)。Pollen表示，用户可以训练机器人学习新动作，并与社区分享。"
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-notebook-connected-app": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "想让Gemini应用更有用，可以开始使用Connected Apps。这类应用可与聊天机器人集成，让你无需离开Gemini对话就能使用其服务。最近，Peloton、SeatGeek、Airtable等已成为Connected Apps，但Google远未止步。又一款实用应用刚刚加入了Connected App阵营。"
+        },
+        {
+          "t": "p",
+          "x": "实用的学习工具Gemini Notebook(前身为NotebookLM)现已成为Connected App。这意味着你现在可以在与Gemini的聊天中管理和查询笔记本。只需在聊天中输入@Gemini Notebook，就能开始创建新笔记本、添加来源、保存笔记，以及调取现有笔记本中的信息。"
+        },
+        {
+          "t": "p",
+          "x": "无需等待逐步推送，新的Connected App现已上线。无论你是Workspace客户、Workspace Individual订阅用户，还是个人Google账户用户，都应该能使用Gemini Notebook Connected App。"
+        }
+      ]
+    },
+    "gadgets/gadgets-unitree-self-evolving-robots": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "过去几天里，机器人领域的三大巨头——Unitree、Tesla和Figure——相继发布了重要动态。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/CRLxVCsc6qKdhSyybGtN8k.jpg",
+          "cap": "Unitree H2 (Image credit: Nvidia)"
+        },
+        {
+          "t": "p",
+          "x": "Unitree正在开发一套名为Unitree Rehearsal的AI系统，让旗下人形机器人能够有效地自我改进；这种“self-evolving”(自我进化)循环将使机器人自行编写代码和模拟。“随着AI模型不断进步，我们预计它们会承担更多规划和迭代工作，”创始人Wang Xingxing表示。人类仍会提供反馈，Wang称Unitree机器人最早明年就能打扫房间。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/aRtXsCChjaj52QAJxyWZcP.jpg",
+          "cap": "Tesla的Optimus机器人 (Image credit: Tesla)"
+        },
+        {
+          "t": "p",
+          "x": "在Tesla，Elon Musk表示Optimus生产线已在California州Fremont投入运转，到2027年产能可能提升至每周约20,000台，但这还需要进一步的工程工作。Musk承认，这些机器人目前仍难以独立完成多样化任务。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/nLQMvy3XczuwKaxnVey7vT.jpg",
+          "cap": "fourth-gen Figure机器人即将到来 (Image credit: Figure)"
+        },
+        {
+          "t": "p",
+          "x": "Figure CEO Brett Adcock表示，过去一年里路线图已经“彻底改变”：fourth-generation人形机器人的研发正在推进，Figure 03的产量已达四位数，其Index训练应用已上传约37.5 million 段视频。"
+        }
+      ]
+    },
+    "gadgets/gadgets-iwork-assistant": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Apple正在为其iWork套件（Pages、Keynote、Numbers）推出以AI为核心（AI-centric）的更新，其中包括功能强大的全新“Intelligent Assistant”。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "如果你订阅了Apple Creator Studio，Apple对Pages、Keynote和Numbers的最新更新会加入Intelligent Assistant——它似乎独立于Siri AI——可在应用内以多种方式提供帮助。Intelligent Assistant目前仅以US英语提供测试版，并需要iOS 27或更高版本。"
+        },
+        {
+          "t": "p",
+          "x": "根据Apple的发布说明，在Pages中，它可以起草初稿，再编辑、整理和润色文字，起草某个章节，调整语气，或用自然语言生成图像和形状。在Keynote中，它可以搭建故事线、添加动画、优化幻灯片，并生成幻灯片、演讲者备注、图像和形状。在Numbers中，它可以发掘洞见、构建复杂公式、可视化数据、生成表格、推荐图表并协助编写公式。在所有应用中，它都能搜索某一主题的最新信息并加以整合。"
+        },
+        {
+          "t": "p",
+          "x": "除了面向Apple Creator Studio订阅用户的这些AI功能，Keynote还将允许所有用户以新的Interchange Format（.keyx）导入和导出演示文稿。Apple表示，这是一种开放文件格式，能让用户更容易在其他应用中编辑Keynote文件。"
+        },
+        {
+          "t": "p",
+          "x": "9to5Mac已更新所有iWork应用，但尚未看到Intelligent Assistant；Apple可能即将在服务器端启用相关功能。"
+        }
+      ]
     }
   }
 }

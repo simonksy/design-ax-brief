@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "section": "movies",
   "cards": [
     {
-      "id": "movies-laika-wildwood",
+      "id": "movies-iatse-tech-officer",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Wildwood 감독\n생성형 AI에 경고",
-      "body": "Laika의 Wildwood 감독 Travis Knight가 생성형 AI에 맞선다.",
-      "mini_headline": "Laika 감독, GenAI 거부",
+      "headline": "IATSE, 첫 기술\n인텔리전스 책임자 임명",
+      "body": "IATSE가 신기술 영향을 살필 새 직책에 Jillian Arnold를 앉혔다.",
+      "mini_headline": "IATSE, 기술 책임자 신설",
       "tool": "Movies",
-      "source": "Deadline",
-      "url": "https://deadline.com/2026/10/wildwood-director-danger-gen-ai-antithetical-laika-1237171243/",
+      "source": "Animation Magazine",
+      "url": "https://www.animationmagazine.net/2026/10/iatse-appoints-first-labor-technology-intelligence-officer/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -19,227 +19,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://deadline.com/wp-content/uploads/2026/10/MCDWILD_EC246.jpg?w=1024",
-            "cap": "'Wildwood' (2026)"
+            "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/IATSE_Jillian-Arnold.png",
+            "cap": "IATSE | Jillian Arnold"
           },
           {
             "t": "p",
-            "x": "Laika가 최신 스톱모션 애니메이션을 내놓는 시점에 Travis Knight가 생성형 AI에 단호히 반대한다고 밝혔다."
+            "x": "The Animation Guild, Local 839를 산하에 둔 IATSE가 Jillian Arnold를 노조 사상 첫 Labor & Technology Intelligence Officer(노동·기술 인텔리전스 책임자)로 임명했다. 신기술을 파악하고 그 기술이 미국(United States)과 캐나다(Canada) 엔터테인먼트 노동자의 직능·일자리·근로 조건에 끼치는 영향을 살피는 자리다."
           },
           {
             "t": "p",
-            "x": "Wildwood 감독이자 Laika CEO인 그는 GenAI가 “이 스튜디오에서 우리를 이루는 모든 것과 정반대”라고 했다. 사람들이 이 기술의 잠재력에서 “가치”만큼 “위험”도 봤으면 한다는 말도 덧붙였다."
+            "x": "“Jillian은 인공지능과 그것이 노동운동에 미치는 영향에 관해 앞장서 온 리더다”라고 IATSE 국제 위원장 Matthew D. Loeb는 말했다. 캐나다 담당 디렉터 John M. Lewis는 기업이 특정 AI 기술을 일부 관할권에만 들이고 다른 곳에는 들이지 않을 수도 있다고 짚었다."
           },
           {
             "t": "p",
-            "x": "“하지만 이 모든 것은 아티스트의 손에 쥐어질 때 의미와 가치를 지닙니다.” 그는 The Verge에 이렇게 말했다. “기술이 아티스트의 일을 대신한다면 이야기가 달라집니다. 저는 그것에 확고히 반대합니다. 그렇게 나온 결과물에는 인간성이 없기 때문입니다.”"
+            "x": "Arnold는 노조가 AMPTP와 벌인 2024년 협상 기간에 IATSE Artificial Intelligence Sub-Committee(인공지능 소위원회) 위원장을 맡았다. 2020년에는 여성이자 비디오 엔지니어로는 처음 IATSE Local 695 위원장에 뽑혔고 2023년 재선됐다."
           },
           {
             "t": "p",
-            "x": "Knight는 이어 말했다. “아티스트가 실제로 만든 결과물을 집어삼킨 뒤 다른 방식으로 게워 낸다면, 거기에는 영혼도, 정신도, 인간성도 없습니다. 그것은 도둑질입니다.”"
-          },
-          {
-            "t": "p",
-            "x": "그는 “AI는 놀라운 기술”이고 의학과 과학에 큰 혜택을 줄 수 있다고 인정했다. 그러면서도 “그것이 파괴적일 수 있는 세상”이 보인다고 했다. “저는 후자를 두려워하고 전자를 바랍니다. 하지만 그러려면 사람들이 이 기술을 잘 관리해야 합니다.” 그의 설명이다."
-          },
-          {
-            "t": "p",
-            "x": "Knight의 이번 발언은 AI가 저작권 자료를 표절하고 Hollywood 안팎의 일자리를 위협한다는 우려가 계속되는 와중에 나왔다."
+            "x": "“기술이 어떻게 개발되고 일터에 도입되는지 정하는 데 노동자가 실질적인 목소리를 내야 하는 이유도 지켜봐 왔다”고 Arnold는 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Laika's Wildwood director\nwarns against generative AI",
-          "body": "As Laika debuts its stop-motion feature Wildwood, director Travis Knight is standing firmly against generative AI.",
-          "mini_headline": "Laika director rejects GenAI",
+          "headline": "IATSE names its first\ntechnology intelligence officer",
+          "body": "IATSE named Jillian Arnold to a new role tracking emerging tech and its impact on entertainment workers.",
+          "mini_headline": "IATSE adds a tech officer",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/MCDWILD_EC246.jpg?w=1024",
-                "cap": "'Wildwood' (2026)"
+                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/IATSE_Jillian-Arnold.png",
+                "cap": "IATSE | Jillian Arnold"
               },
               {
                 "t": "p",
-                "x": "As Laika debuts its latest stop-motion animation, Travis Knight is standing firmly against generative AI."
+                "x": "IATSE, which includes The Animation Guild, Local 839, has appointed Jillian Arnold as the union's first-ever Labor & Technology Intelligence Officer, a new role focused on understanding emerging technologies and their impact on the crafts, jobs and working conditions of entertainment workers in the United States and Canada."
               },
               {
                 "t": "p",
-                "x": "The Wildwood director and Laika CEO explained that GenAI “is antithetical to everything that we are at this studio,” also emphasizing that he hopes people “see the danger” in the technology’s potential as much as the “value.”"
+                "x": "“Jillian has been a leader on artificial intelligence and its impact on the labor movement,” said IATSE International President Matthew D. Loeb. Director of Canadian Affairs John M. Lewis noted that companies may deploy certain AI technologies in some jurisdictions but not others."
               },
               {
                 "t": "p",
-                "x": "“But all of these things have meaning and value when you put them in the hands of an artist,” he told The Verge. “When the technology is doing the work of the artist, that’s a different proposition. And that’s something that I am steadfastly against, because there is no humanity in what comes out of the other side of that.”"
+                "x": "Arnold chaired the IATSE Artificial Intelligence Sub-Committee during the union's 2024 negotiations with the AMPTP. In 2020 she became the first woman and first video engineer elected president of IATSE Local 695, and was re-elected in 2023."
               },
               {
                 "t": "p",
-                "x": "Knight continued, “When you’ve ingested the material that an artist has actually created, and then regurgitate it in a different way, there’s no soul, there’s no spirit, there’s no humanity behind it. That’s theft.”"
-              },
-              {
-                "t": "p",
-                "x": "While he conceded that “AI is extraordinary technology” that could reap great benefits in medicine and science, he also sees “a world where they can be devastating.” “I fear for the latter, I hope for the former, but it requires people to be good stewards of this technology,” he explained."
-              },
-              {
-                "t": "p",
-                "x": "Knight’s comments come amid ongoing concerns around AI’s plagiarism of copyrighted materials and the threat it poses to jobs in Hollywood and beyond."
+                "x": "“I've also seen why workers need a meaningful voice in determining how technologies are developed and integrated into the workplace,” Arnold said."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Wildwood 감독\n생성형 AI에 경고",
-          "body": "Laika의 Wildwood 감독 Travis Knight가 생성형 AI에 맞선다.",
-          "mini_headline": "Laika 감독, GenAI 거부",
+          "headline": "IATSE, 첫 기술\n인텔리전스 책임자 임명",
+          "body": "IATSE가 신기술 영향을 살필 새 직책에 Jillian Arnold를 앉혔다.",
+          "mini_headline": "IATSE, 기술 책임자 신설",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/MCDWILD_EC246.jpg?w=1024",
-                "cap": "'Wildwood' (2026)"
+                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/IATSE_Jillian-Arnold.png",
+                "cap": "IATSE | Jillian Arnold"
               },
               {
                 "t": "p",
-                "x": "Laika가 최신 스톱모션 애니메이션을 내놓는 시점에 Travis Knight가 생성형 AI에 단호히 반대한다고 밝혔다."
+                "x": "The Animation Guild, Local 839를 산하에 둔 IATSE가 Jillian Arnold를 노조 사상 첫 Labor & Technology Intelligence Officer(노동·기술 인텔리전스 책임자)로 임명했다. 신기술을 파악하고 그 기술이 미국(United States)과 캐나다(Canada) 엔터테인먼트 노동자의 직능·일자리·근로 조건에 끼치는 영향을 살피는 자리다."
               },
               {
                 "t": "p",
-                "x": "Wildwood 감독이자 Laika CEO인 그는 GenAI가 “이 스튜디오에서 우리를 이루는 모든 것과 정반대”라고 했다. 사람들이 이 기술의 잠재력에서 “가치”만큼 “위험”도 봤으면 한다는 말도 덧붙였다."
+                "x": "“Jillian은 인공지능과 그것이 노동운동에 미치는 영향에 관해 앞장서 온 리더다”라고 IATSE 국제 위원장 Matthew D. Loeb는 말했다. 캐나다 담당 디렉터 John M. Lewis는 기업이 특정 AI 기술을 일부 관할권에만 들이고 다른 곳에는 들이지 않을 수도 있다고 짚었다."
               },
               {
                 "t": "p",
-                "x": "“하지만 이 모든 것은 아티스트의 손에 쥐어질 때 의미와 가치를 지닙니다.” 그는 The Verge에 이렇게 말했다. “기술이 아티스트의 일을 대신한다면 이야기가 달라집니다. 저는 그것에 확고히 반대합니다. 그렇게 나온 결과물에는 인간성이 없기 때문입니다.”"
+                "x": "Arnold는 노조가 AMPTP와 벌인 2024년 협상 기간에 IATSE Artificial Intelligence Sub-Committee(인공지능 소위원회) 위원장을 맡았다. 2020년에는 여성이자 비디오 엔지니어로는 처음 IATSE Local 695 위원장에 뽑혔고 2023년 재선됐다."
               },
               {
                 "t": "p",
-                "x": "Knight는 이어 말했다. “아티스트가 실제로 만든 결과물을 집어삼킨 뒤 다른 방식으로 게워 낸다면, 거기에는 영혼도, 정신도, 인간성도 없습니다. 그것은 도둑질입니다.”"
-              },
-              {
-                "t": "p",
-                "x": "그는 “AI는 놀라운 기술”이고 의학과 과학에 큰 혜택을 줄 수 있다고 인정했다. 그러면서도 “그것이 파괴적일 수 있는 세상”이 보인다고 했다. “저는 후자를 두려워하고 전자를 바랍니다. 하지만 그러려면 사람들이 이 기술을 잘 관리해야 합니다.” 그의 설명이다."
-              },
-              {
-                "t": "p",
-                "x": "Knight의 이번 발언은 AI가 저작권 자료를 표절하고 Hollywood 안팎의 일자리를 위협한다는 우려가 계속되는 와중에 나왔다."
+                "x": "“기술이 어떻게 개발되고 일터에 도입되는지 정하는 데 노동자가 실질적인 목소리를 내야 하는 이유도 지켜봐 왔다”고 Arnold는 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Wildwood監督が\n生成AIに警鐘",
-          "body": "LaikaのWildwood監督、Travis Knightは生成AIに断固反対する。",
-          "mini_headline": "Laika監督がGenAIを拒否",
+          "headline": "IATSE、初の\n技術情報責任者を任命",
+          "body": "IATSEは新技術が労働者に与える影響を追う新職にJillian Arnoldを任命した。",
+          "mini_headline": "IATSEが技術責任者を新設",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/MCDWILD_EC246.jpg?w=1024",
-                "cap": "'Wildwood' (2026)"
+                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/IATSE_Jillian-Arnold.png",
+                "cap": "IATSE | Jillian Arnold"
               },
               {
                 "t": "p",
-                "x": "Laikaが最新のストップモーションアニメーションを公開するなか、Travis Knightは生成AIに断固として反対している。"
+                "x": "The Animation Guild, Local 839を傘下に持つIATSEは、Jillian Arnoldを組合初のLabor & Technology Intelligence Officer(労働・テクノロジー・インテリジェンス責任者)に任命した。新興技術を理解し、それが米国(United States)とカナダ(Canada)のエンターテインメント労働者の職能、雇用、労働条件に与える影響を探る新しい役職である。"
               },
               {
                 "t": "p",
-                "x": "Wildwoodの監督でLaikaのCEOでもある彼は、GenAIは「このスタジオでの私たちのあり方すべてに相反する」と説明した。また、人々がこの技術の可能性に「価値」と同じくらい「危険」も見てほしいと強調した。"
+                "x": "「Jillianは人工知能と、それが労働運動に与える影響について先頭に立ってきた」と、IATSE国際会長のMatthew D. Loebは述べた。カナダ担当ディレクターのJohn M. Lewisは、企業が特定のAI技術をある管轄区域では導入し、別の区域では導入しない可能性があると指摘した。"
               },
               {
                 "t": "p",
-                "x": "「しかし、こうしたものはすべて、アーティストの手に委ねられてこそ意味と価値を持つ」と彼はThe Vergeに語った。「技術がアーティストの仕事をするとなれば、話は別だ。私はそれに断固として反対する。そこから生まれるものには人間性がないからだ」"
+                "x": "Arnoldは、組合とAMPTPとの2024年の交渉でIATSE Artificial Intelligence Sub-Committee(人工知能小委員会)の委員長を務めた。2020年には女性として、またビデオエンジニアとして初めてIATSE Local 695の会長に選ばれ、2023年に再選された。"
               },
               {
                 "t": "p",
-                "x": "Knightはこう続けた。「アーティストが実際に生み出したものを取り込み、別の形で吐き出すなら、そこには魂も精神も人間性もない。それは盗みだ」"
-              },
-              {
-                "t": "p",
-                "x": "彼は「AIは並外れた技術」であり、医学や科学で大きな恩恵をもたらしうると認める一方、「それが壊滅的になりうる世界」も見ているという。「後者を恐れ、前者を望んでいる。だがそのためには、人々がこの技術の良き管理者でなければならない」と説明した。"
-              },
-              {
-                "t": "p",
-                "x": "Knightの発言は、AIによる著作物の盗用や、Hollywoodをはじめとする各所の雇用への脅威をめぐる懸念が続くなかで出たものだ。"
+                "x": "「技術がどう開発され、職場にどう組み込まれるかを決めるうえで、労働者が意味のある発言権を持つべき理由も見てきた」とArnoldは語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Wildwood导演\n警告生成式AI",
-          "body": "Laika推出定格动画Wildwood，导演Travis Knight坚决反对生成式AI。",
-          "mini_headline": "Laika导演拒绝GenAI",
+          "headline": "IATSE任命首位\n技术情报官",
+          "body": "IATSE任命Jillian Arnold出任新职，追踪新兴技术及其对娱乐业从业者的影响。",
+          "mini_headline": "IATSE增设技术官",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/MCDWILD_EC246.jpg?w=1024",
-                "cap": "'Wildwood' (2026)"
+                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/IATSE_Jillian-Arnold.png",
+                "cap": "IATSE | Jillian Arnold"
               },
               {
                 "t": "p",
-                "x": "Laika推出最新定格动画之际，Travis Knight坚决反对生成式AI。"
+                "x": "旗下包括The Animation Guild, Local 839的IATSE任命Jillian Arnold为工会史上首位Labor & Technology Intelligence Officer（劳工与技术情报官）。这一新职位专注于了解新兴技术，及其对美国（United States）和加拿大（Canada）娱乐业从业者的技艺、工作与劳动条件的影响。"
               },
               {
                 "t": "p",
-                "x": "这位Wildwood导演兼Laika CEO表示，GenAI“与我们这家工作室的一切背道而驰”，并强调希望人们在看到这项技术潜在“价值”的同时，也能“看到危险”。"
+                "x": "“Jillian一直是人工智能及其对劳工运动影响方面的领军人物，”IATSE国际主席Matthew D. Loeb表示。加拿大事务总监John M. Lewis指出，企业可能在某些司法管辖区部署特定AI技术，而在其他地区则不会。"
               },
               {
                 "t": "p",
-                "x": "“但所有这些东西，只有交到艺术家手中，才有意义和价值，”他对The Verge说，“当技术在替艺术家工作时，那就是另一回事了。我坚决反对这一点，因为从另一端产出的东西里没有人性。”"
+                "x": "在工会2024年与AMPTP的谈判期间，Arnold担任IATSE Artificial Intelligence Sub-Committee（人工智能小组委员会）主席。2020年，她成为首位当选IATSE Local 695主席的女性，也是首位当选的视频工程师，并于2023年连任。"
               },
               {
                 "t": "p",
-                "x": "Knight接着说：“当你吞下艺术家真正创作的素材，再换一种方式吐出来，它背后没有灵魂，没有精神，也没有人性。那就是盗窃。”"
-              },
-              {
-                "t": "p",
-                "x": "他承认“AI是非凡的技术”，可能在医学和科学领域带来巨大益处，但也看到“一个它可能带来毁灭性后果的世界”。“我担心后者，期待前者，但这需要人们好好管理这项技术，”他解释道。"
-              },
-              {
-                "t": "p",
-                "x": "Knight发表上述言论之际，外界对AI剽窃受版权保护的材料、威胁Hollywood内外工作岗位的担忧持续不断。"
+                "x": "“我也看到了，为什么在决定技术如何开发并融入工作场所时，劳动者需要拥有真正的话语权，”Arnold说。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El director de Wildwood (Laika)\nadvierte contra la IA generativa",
-          "body": "Con el estreno del filme en stop-motion Wildwood, de Laika, el director Travis Knight se opone a la IA generativa.",
-          "mini_headline": "El director de Laika rechaza la GenAI",
+          "headline": "IATSE nombra a su primera\njefa de inteligencia tecnológica",
+          "body": "IATSE nombró a Jillian Arnold en un cargo nuevo sobre la tecnología emergente y su impacto en los trabajadores.",
+          "mini_headline": "IATSE suma una responsable de tecnología",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/MCDWILD_EC246.jpg?w=1024",
-                "cap": "'Wildwood' (2026)"
+                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/IATSE_Jillian-Arnold.png",
+                "cap": "IATSE | Jillian Arnold"
               },
               {
                 "t": "p",
-                "x": "Mientras Laika estrena su más reciente animación en stop-motion, Travis Knight se opone con firmeza a la IA generativa."
+                "x": "IATSE, que incluye a The Animation Guild, Local 839, nombró a Jillian Arnold primera Labor & Technology Intelligence Officer del sindicato, un nuevo cargo centrado en comprender las tecnologías emergentes y su impacto en los oficios, los empleos y las condiciones laborales de los trabajadores del entretenimiento en Estados Unidos (United States) y Canadá (Canada)."
               },
               {
                 "t": "p",
-                "x": "El director de Wildwood y CEO de Laika explicó que la GenAI “es la antítesis de todo lo que somos en este estudio”, y subrayó que espera que la gente “vea el peligro” en el potencial de la tecnología tanto como el “valor”."
+                "x": "“Jillian ha sido una líder en inteligencia artificial y su impacto en el movimiento obrero”, dijo el presidente internacional de IATSE, Matthew D. Loeb. El director de Asuntos Canadienses, John M. Lewis, señaló que las empresas podrían desplegar ciertas tecnologías de AI en algunas jurisdicciones pero no en otras."
               },
               {
                 "t": "p",
-                "x": "“Pero todas estas cosas tienen sentido y valor cuando las pones en manos de un artista”, dijo a The Verge. “Cuando la tecnología hace el trabajo del artista, es otra cosa. Y a eso me opongo con firmeza, porque no hay humanidad en lo que sale del otro lado”."
+                "x": "Arnold presidió el IATSE Artificial Intelligence Sub-Committee durante las negociaciones de 2024 del sindicato con la AMPTP. En 2020 se convirtió en la primera mujer y la primera ingeniera de video elegida presidenta de IATSE Local 695, y fue reelegida en 2023."
               },
               {
                 "t": "p",
-                "x": "Knight continuó: “Cuando has ingerido el material que un artista ha creado de verdad y luego lo regurgitas de otra manera, no hay alma, no hay espíritu, no hay humanidad detrás. Eso es robo”."
-              },
-              {
-                "t": "p",
-                "x": "Aunque admitió que “la IA es una tecnología extraordinaria” que podría traer grandes beneficios en medicina y ciencia, también ve “un mundo en el que puede ser devastadora”. “Temo lo segundo, espero lo primero, pero eso exige que la gente administre bien esta tecnología”, explicó."
-              },
-              {
-                "t": "p",
-                "x": "Los comentarios de Knight llegan en medio de la preocupación persistente por el plagio de materiales con derechos de autor por parte de la IA y la amenaza que supone para el empleo en Hollywood y más allá."
+                "x": "“También he visto por qué los trabajadores necesitan una voz real para decidir cómo se desarrollan las tecnologías y cómo se integran en el lugar de trabajo”, dijo Arnold."
               }
             ]
           }
@@ -247,157 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Wildwood 감독\n생성형 AI에 경고",
-          "body": "Laika의 Wildwood 감독 Travis Knight가 생성형 AI에 맞선다.",
-          "mini_headline": "Laika 감독, GenAI 거부",
+          "headline": "IATSE, 첫 기술\n인텔리전스 책임자 임명",
+          "body": "IATSE가 신기술 영향을 살필 새 직책에 Jillian Arnold를 앉혔다.",
+          "mini_headline": "IATSE, 기술 책임자 신설",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/MCDWILD_EC246.jpg?w=1024",
-                "cap": "'Wildwood' (2026)"
+                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/IATSE_Jillian-Arnold.png",
+                "cap": "IATSE | Jillian Arnold"
               },
               {
                 "t": "p",
-                "x": "Laika가 최신 스톱모션 애니메이션을 선보이는 가운데, Travis Knight는 생성형 AI에 단호히 반대하는 입장을 밝혔다."
+                "x": "The Animation Guild, Local 839를 산하에 둔 IATSE가 Jillian Arnold를 노조 사상 첫 Labor & Technology Intelligence Officer(노동·기술 인텔리전스 책임자)로 임명했다. 신기술을 이해하고, 그것이 미국(United States)과 캐나다(Canada) 엔터테인먼트 노동자의 직능, 일자리, 근로 조건에 미치는 영향을 살피는 새 직책이다."
               },
               {
                 "t": "p",
-                "x": "Wildwood 감독이자 Laika CEO인 그는 GenAI가 “이 스튜디오에서 우리를 이루는 모든 것과 정반대”라고 설명했다. 아울러 사람들이 이 기술의 잠재력에서 “가치”만큼이나 “위험”도 보기를 바란다고 강조했다."
+                "x": "“Jillian은 인공지능과 그것이 노동운동에 미치는 영향에 관해 앞장서 온 리더다”라고 IATSE 국제 위원장 Matthew D. Loeb는 말했다. 캐나다 담당 디렉터 John M. Lewis는 기업이 특정 AI 기술을 일부 관할권에서는 도입하고 다른 곳에서는 도입하지 않을 수 있다고 짚었다."
               },
               {
                 "t": "p",
-                "x": "“하지만 이 모든 것은 아티스트의 손에 쥐어질 때 의미와 가치를 지닙니다.” 그는 The Verge에 이렇게 말했다. “기술이 아티스트의 일을 대신한다면 이야기가 달라집니다. 저는 그것에 확고히 반대합니다. 그렇게 나온 결과물에는 인간성이 없기 때문입니다.”"
+                "x": "Arnold는 노조가 AMPTP와 벌인 2024년 협상 기간에 IATSE Artificial Intelligence Sub-Committee(인공지능 소위원회) 위원장을 맡았다. 2020년에는 여성이자 비디오 엔지니어로서 처음으로 IATSE Local 695 위원장에 선출됐고, 2023년 재선됐다."
               },
               {
                 "t": "p",
-                "x": "Knight는 이어 말했다. “아티스트가 실제로 만든 결과물을 집어삼킨 뒤 다른 방식으로 게워 낸다면, 거기에는 영혼도, 정신도, 인간성도 없습니다. 그것은 도둑질입니다.”"
-              },
-              {
-                "t": "p",
-                "x": "그는 “AI는 놀라운 기술”이며 의학과 과학에서 큰 혜택을 가져올 수 있다고 인정하면서도 “그것이 파괴적일 수 있는 세상”도 본다고 했다. “저는 후자를 두려워하고 전자를 바랍니다. 하지만 그러려면 사람들이 이 기술을 잘 관리해야 합니다.” 그의 설명이다."
-              },
-              {
-                "t": "p",
-                "x": "Knight의 발언은 AI가 저작권 자료를 표절하고 Hollywood 안팎의 일자리를 위협한다는 우려가 이어지는 가운데 나왔다."
+                "x": "“기술이 어떻게 개발되고 일터에 도입되는지 정하는 데 노동자가 실질적인 목소리를 내야 하는 이유도 지켜봐 왔다”고 Arnold는 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Wildwood監督が\n生成AIに警鐘",
-          "body": "LaikaのWildwood監督、Travis Knightは生成AIに断固反対する。",
-          "mini_headline": "Laika監督がGenAIを拒否",
+          "headline": "IATSE、初の\n技術情報責任者を任命",
+          "body": "IATSEは新技術が労働者に与える影響を追う新職にJillian Arnoldを任命した。",
+          "mini_headline": "IATSEが技術責任者を新設",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/MCDWILD_EC246.jpg?w=1024",
-                "cap": "'Wildwood' (2026)"
+                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/IATSE_Jillian-Arnold.png",
+                "cap": "IATSE | Jillian Arnold"
               },
               {
                 "t": "p",
-                "x": "Laikaが最新のストップモーションアニメーションを公開するなか、Travis Knightは生成AIに断固として反対している。"
+                "x": "The Animation Guild, Local 839を傘下に持つIATSEは、Jillian Arnoldを組合初のLabor & Technology Intelligence Officer(労働・テクノロジー・インテリジェンス責任者)に任命した。新興技術を理解し、それが米国(United States)とカナダ(Canada)のエンターテインメント労働者の職能、雇用、労働条件に与える影響を探る新しい役職である。"
               },
               {
                 "t": "p",
-                "x": "Wildwoodの監督でLaikaのCEOでもある彼は、GenAIは「このスタジオでの私たちのあり方すべてに相反する」と説明した。また、人々がこの技術の可能性に「価値」と同じくらい「危険」も見てほしいと強調した。"
+                "x": "「Jillianは人工知能と、それが労働運動に与える影響について先頭に立ってきた」と、IATSE国際会長のMatthew D. Loebは述べた。カナダ担当ディレクターのJohn M. Lewisは、企業が特定のAI技術をある管轄区域では導入し、別の区域では導入しない可能性があると指摘した。"
               },
               {
                 "t": "p",
-                "x": "「しかし、こうしたものはすべて、アーティストの手に委ねられてこそ意味と価値を持つ」と彼はThe Vergeに語った。「技術がアーティストの仕事をするとなれば、話は別だ。私はそれに断固として反対する。そこから生まれるものには人間性がないからだ」"
+                "x": "Arnoldは、組合とAMPTPとの2024年の交渉でIATSE Artificial Intelligence Sub-Committee(人工知能小委員会)の委員長を務めた。2020年には女性として、またビデオエンジニアとして初めてIATSE Local 695の会長に選ばれ、2023年に再選された。"
               },
               {
                 "t": "p",
-                "x": "Knightはこう続けた。「アーティストが実際に生み出したものを取り込み、別の形で吐き出すなら、そこには魂も精神も人間性もない。それは盗みだ」"
-              },
-              {
-                "t": "p",
-                "x": "彼は「AIは並外れた技術」であり、医学や科学で大きな恩恵をもたらしうると認める一方、「それが壊滅的になりうる世界」も見ているという。「後者を恐れ、前者を望んでいる。だがそのためには、人々がこの技術の良き管理者でなければならない」と説明した。"
-              },
-              {
-                "t": "p",
-                "x": "Knightの発言は、AIによる著作物の盗用や、Hollywoodをはじめとする各所の雇用への脅威をめぐる懸念が続くなかで出たものだ。"
+                "x": "「技術がどう開発され、職場にどう組み込まれるかを決めるうえで、労働者が意味のある発言権を持つべき理由も見てきた」とArnoldは語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Wildwood导演\n警告生成式AI",
-          "body": "Laika推出定格动画Wildwood，导演Travis Knight坚决反对生成式AI。",
-          "mini_headline": "Laika导演拒绝GenAI",
+          "headline": "IATSE任命首位\n技术情报官",
+          "body": "IATSE任命Jillian Arnold出任新职，追踪新兴技术及其对娱乐业从业者的影响。",
+          "mini_headline": "IATSE增设技术官",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/MCDWILD_EC246.jpg?w=1024",
-                "cap": "'Wildwood' (2026)"
+                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/IATSE_Jillian-Arnold.png",
+                "cap": "IATSE | Jillian Arnold"
               },
               {
                 "t": "p",
-                "x": "Laika推出最新定格动画之际，Travis Knight坚决反对生成式AI。"
+                "x": "旗下包括The Animation Guild, Local 839的IATSE任命Jillian Arnold为工会史上首位Labor & Technology Intelligence Officer（劳工与技术情报官）。这一新职位专注于了解新兴技术，及其对美国（United States）和加拿大（Canada）娱乐业从业者的技艺、工作与劳动条件的影响。"
               },
               {
                 "t": "p",
-                "x": "这位Wildwood导演兼Laika CEO表示，GenAI“与我们这家工作室的一切背道而驰”，并强调希望人们在看到这项技术潜在“价值”的同时，也能“看到危险”。"
+                "x": "“Jillian一直是人工智能及其对劳工运动影响方面的领军人物，”IATSE国际主席Matthew D. Loeb表示。加拿大事务总监John M. Lewis指出，企业可能在某些司法管辖区部署特定AI技术，而在其他地区则不会。"
               },
               {
                 "t": "p",
-                "x": "“但所有这些东西，只有交到艺术家手中，才有意义和价值，”他对The Verge说，“当技术在替艺术家工作时，那就是另一回事了。我坚决反对这一点，因为从另一端产出的东西里没有人性。”"
+                "x": "在工会2024年与AMPTP的谈判期间，Arnold担任IATSE Artificial Intelligence Sub-Committee（人工智能小组委员会）主席。2020年，她成为首位当选IATSE Local 695主席的女性，也是首位当选的视频工程师，并于2023年连任。"
               },
               {
                 "t": "p",
-                "x": "Knight接着说：“当你吞下艺术家真正创作的素材，再换一种方式吐出来，它背后没有灵魂，没有精神，也没有人性。那就是盗窃。”"
-              },
-              {
-                "t": "p",
-                "x": "他承认“AI是非凡的技术”，可能在医学和科学领域带来巨大益处，但也看到“一个它可能带来毁灭性后果的世界”。“我担心后者，期待前者，但这需要人们好好管理这项技术，”他解释道。"
-              },
-              {
-                "t": "p",
-                "x": "Knight发表上述言论之际，外界对AI剽窃受版权保护的材料、威胁Hollywood内外工作岗位的担忧持续不断。"
+                "x": "“我也看到了，为什么在决定技术如何开发并融入工作场所时，劳动者需要拥有真正的话语权，”Arnold说。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El director de Wildwood (Laika)\nadvierte contra la IA generativa",
-          "body": "Con el estreno del filme en stop-motion Wildwood, de Laika, el director Travis Knight se opone a la IA generativa.",
-          "mini_headline": "El director de Laika rechaza la GenAI",
+          "headline": "IATSE nombra a su primera\njefa de inteligencia tecnológica",
+          "body": "IATSE nombró a Jillian Arnold en un cargo nuevo sobre la tecnología emergente y su impacto en los trabajadores.",
+          "mini_headline": "IATSE suma una responsable de tecnología",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/MCDWILD_EC246.jpg?w=1024",
-                "cap": "'Wildwood' (2026)"
+                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/IATSE_Jillian-Arnold.png",
+                "cap": "IATSE | Jillian Arnold"
               },
               {
                 "t": "p",
-                "x": "Mientras Laika estrena su más reciente animación en stop-motion, Travis Knight se opone con firmeza a la IA generativa."
+                "x": "IATSE, que incluye a The Animation Guild, Local 839, nombró a Jillian Arnold primera Labor & Technology Intelligence Officer del sindicato, un nuevo cargo centrado en comprender las tecnologías emergentes y su impacto en los oficios, los empleos y las condiciones laborales de los trabajadores del entretenimiento en Estados Unidos (United States) y Canadá (Canada)."
               },
               {
                 "t": "p",
-                "x": "El director de Wildwood y CEO de Laika explicó que la GenAI “es la antítesis de todo lo que somos en este estudio”, y subrayó que espera que la gente “vea el peligro” en el potencial de la tecnología tanto como el “valor”."
+                "x": "“Jillian ha sido una líder en inteligencia artificial y su impacto en el movimiento obrero”, dijo el presidente internacional de IATSE, Matthew D. Loeb. El director de Asuntos Canadienses, John M. Lewis, señaló que las empresas podrían desplegar ciertas tecnologías de AI en algunas jurisdicciones pero no en otras."
               },
               {
                 "t": "p",
-                "x": "“Pero todas estas cosas tienen sentido y valor cuando las pones en manos de un artista”, dijo a The Verge. “Cuando la tecnología hace el trabajo del artista, es otra cosa. Y a eso me opongo con firmeza, porque no hay humanidad en lo que sale del otro lado”."
+                "x": "Arnold presidió el IATSE Artificial Intelligence Sub-Committee durante las negociaciones de 2024 del sindicato con la AMPTP. En 2020 se convirtió en la primera mujer y la primera ingeniera de video elegida presidenta de IATSE Local 695, y fue reelegida en 2023."
               },
               {
                 "t": "p",
-                "x": "Knight continuó: “Cuando has ingerido el material que un artista ha creado de verdad y luego lo regurgitas de otra manera, no hay alma, no hay espíritu, no hay humanidad detrás. Eso es robo”."
-              },
-              {
-                "t": "p",
-                "x": "Aunque admitió que “la IA es una tecnología extraordinaria” que podría traer grandes beneficios en medicina y ciencia, también ve “un mundo en el que puede ser devastadora”. “Temo lo segundo, espero lo primero, pero eso exige que la gente administre bien esta tecnología”, explicó."
-              },
-              {
-                "t": "p",
-                "x": "Los comentarios de Knight llegan en medio de la preocupación persistente por el plagio de materiales con derechos de autor por parte de la IA y la amenaza que supone para el empleo en Hollywood y más allá."
+                "x": "“También he visto por qué los trabajadores necesitan una voz real para decidir cómo se desarrollan las tecnologías y cómo se integran en el lugar de trabajo”, dijo Arnold."
               }
             ]
           }
@@ -405,309 +325,165 @@
       }
     },
     {
-      "id": "movies-continuum-2027",
+      "id": "movies-peter-chan-no-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Boris FX 2027판\nAI 마스킹 개선",
-      "body": "Continuum 2027은 AI 마스킹을 다듬고 프리셋 500개 이상을 더했다.",
-      "mini_headline": "Continuum 2027, AI 도구 강화",
+      "headline": "AI-generated는\nPeter Chan이 거부",
+      "body": "Peter Chan은 AI를 기법으로 쓰되 AI-generated는 거부했다.",
+      "mini_headline": "Peter Chan, AI에 선을 긋다",
       "tool": "Movies",
-      "source": "ProVideo Coalition",
-      "url": "https://www.provideocoalition.com/continuum-2027-deep-dive/",
+      "source": "Variety",
+      "url": "https://variety.com/2026/film/global/peter-chan-rules-out-ai-generated-content-feature-films-survival-1236922012/",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "Continuum이 2027 업데이트로 돌아왔다. 새 효과와 기존 인기 기능 개선에 쓸모 있는 추가 기능까지 여럿 담겼다."
-          },
-          {
-            "t": "p",
-            "x": "가장 큰 변화 가운데 하나는 Boris FX의 파티클 효과 제작 도구 Particle Illusion이다. 새 Sim Speed 슬라이더 하나로 파티클 애니메이션 전체 속도를 올리거나 늦춘다. 새 이미지 캐싱 시스템과 더 매끄러운 미리보기로 성능도 좋아졌다."
-          },
-          {
             "t": "img",
-            "src": "https://www.provideocoalition.com/wp-content/uploads/ParticleIllusion-1.jpg"
+            "src": "https://variety.com/wp-content/uploads/2026/10/Peter-Chan.jpg?w=1000&h=563&crop=1"
           },
           {
             "t": "p",
-            "x": "Continuum 2027에서도 인공지능이 여러 도구를 손봤다. 인물을 분리하고 가장자리를 정리하고 더 나은 마스크를 만드는 도구에서 특히 그렇다. 이번 업데이트는 완전히 새로운 AI 워크플로를 내놓기보다 이미 있는 도구를 다듬는 데 집중했다."
+            "x": "“Comrades: Almost a Love Story”(첨밀밀)와 “The Warlords”(명장)를 연출한 Peter Chan Ho-sun(진가신) 감독은 영화 작업에 AI를 아마 쓰겠지만 “AIGC, 즉 AI-generated 콘텐츠는 절대 아니다”라고 말했다. 적어도 자기가 살아 있는 동안은 two-hour 장편 영화가 short-form 콘텐츠와 세로형 드라마에 맞서 자리를 지킬 거라고도 했다."
           },
           {
             "t": "p",
-            "x": "BCC+ Face ML에는 새 모델 옵션 세 가지가 추가됐고, 이 옵션은 그동안 얼굴 분리에 타원형 마스크를 써 온 BCC+ Witness Protection에도 들어간다. BCC+ Matte Refine ML은 Adobe 버전에서 새 2.1 모델을 받았다. 프레임마다 더 일관되고 깔끔한 가장자리를 내도록 설계한 모델이다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.provideocoalition.com/wp-content/uploads/BCC-Face-ML.jpg"
+            "x": "Singapore International Film Festival의 In Conversation 행사에서 그는 업계가 CGI와 특수효과를 이미 쓰고 있듯 AI도 기법의 하나로 쓰겠다고 밝혔다. Chan은 “영화 만드는 데 도움이 되는 것이라면 무엇이든 환영한다. 하지만 그것들은 예술을 모른다. 영화는 여전히 사람이 만든다”고 말했다."
           },
           {
             "t": "p",
-            "x": "Vector Blur, Curl, Bulge, Wave, Time Displacement 같은 고전 효과가 GPU 가속을 지원하는 최신 BCC+ 프레임워크로 돌아왔다. 새 도구로는 BCC+ Noise Map Studio, BCC+ Grid, 그리고 2D 텍스트 제작과 애니메이션을 훨씬 쉽게 해 주는 BCC Text가 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.provideocoalition.com/wp-content/uploads/BCC-Type.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Mocha 2026.5에서 넘어온 업데이트로 Object Brush 미리보기가 생겼고 Matte Assist와 Refine Matte가 좋아졌다. Boris FX는 Premiere Pro 성능과 GPU 처리도 끌어올렸고, 8개 언어 지원과 500개가 넘는 새 프리셋을 더했다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.provideocoalition.com/wp-content/uploads/Mocha.jpg"
+            "x": "“지금이 아마 영화에 가장 힘든 시기일 것이다. 그렇다면 이 매체가 short-form 엔터테인먼트에 밀려 사라질 거라고 믿느냐고? 아니다.” 그는 Toronto에서 첫선을 보인 신작 “The Road Not Taken”과 “Comrades” 30주년 이야기도 꺼냈다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Boris FX Continuum 2027\nupgrades its AI masking tools",
-          "body": "Boris FX's Continuum 2027 brings new effects, improved AI masking tools, faster performance and 500+ new presets.",
-          "mini_headline": "Continuum 2027 upgrades AI tools",
+          "headline": "Peter Chan rules out\nAI-generated content",
+          "body": "Peter Chan says he will probably use AI as a technique but definitely not AI-generated content.",
+          "mini_headline": "Peter Chan says no to AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Continuum is back with the 2027 update that includes new effects, improvements to existing favorites and plenty of useful additions."
-              },
-              {
-                "t": "p",
-                "x": "One of the biggest updates is to Particle Illusion, Boris FX’s tool for creating particle effects. A new Sim Speed slider lets you speed up or slow down an entire particle animation from one control, while a new image-caching system and smoother previews improve performance."
-              },
-              {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/ParticleIllusion-1.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Peter-Chan.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "Artificial intelligence continues to improve several tools in Continuum 2027, especially those used to isolate people, clean up edges and create better masks. Rather than introducing an entirely new AI workflow, this update focuses on improving tools that are already available."
+                "x": "Peter Chan Ho-sun, director of “Comrades: Almost a Love Story” and “The Warlords,” said he will probably use AI in his filmmaking but “definitely not AIGC,” or AI-generated content, and that the two-hour feature will hold its ground against short-form and vertical dramas, at least in his lifetime."
               },
               {
                 "t": "p",
-                "x": "BCC+ Face ML adds three new model options, which are also being added to BCC+ Witness Protection, previously reliant on oval masks to isolate faces. BCC+ Matte Refine ML gets a new 2.1 model in its Adobe version, designed to produce cleaner edges that remain more consistent from frame to frame."
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/BCC-Face-ML.jpg"
+                "x": "Speaking at an In Conversation event at the Singapore International Film Festival, he said he would use AI as a technique, the way the industry already uses CGI and special effects. “Anything that helps me make movies, I welcome. But they won't know art. Movies are still made by people,” Chan said."
               },
               {
                 "t": "p",
-                "x": "Classic effects such as Vector Blur, Curl, Bulge, Wave and Time Displacement return in the modern BCC+ framework with GPU acceleration. New tools include BCC+ Noise Map Studio, BCC+ Grid and BCC Text, which makes creating and animating 2D text much easier."
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/BCC-Type.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Updates from Mocha 2026.5 add an Object Brush preview and improvements to Matte Assist and Refine Matte. Boris FX also made performance improvements for Premiere Pro, better GPU handling, and added support for eight additional languages and more than 500 new presets."
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Mocha.jpg"
+                "x": "“This is probably the toughest time for film, but do I believe this medium is going to be lost and gone to short-form entertainment? No.” He also discussed his latest film, “The Road Not Taken,” which premiered in Toronto, and the 30th anniversary of “Comrades.”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Boris FX Continuum 2027\nmejora sus máscaras con IA",
-          "body": "Continuum 2027, de Boris FX, trae nuevos efectos, mejores máscaras con IA, más rendimiento y 500+ nuevos presets.",
-          "mini_headline": "Continuum 2027 mejora sus herramientas de IA",
+          "headline": "Peter Chan descarta el\ncontenido AI-generated",
+          "body": "Peter Chan dice que probablemente usará AI como técnica, pero en ningún caso contenido AI-generated.",
+          "mini_headline": "Peter Chan dice no a la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Continuum vuelve con la actualización 2027, que incluye nuevos efectos, mejoras en los favoritos de siempre y muchas incorporaciones útiles."
-              },
-              {
-                "t": "p",
-                "x": "Una de las mayores novedades llega a Particle Illusion, la herramienta de Boris FX para crear efectos de partículas. Un nuevo control deslizante Sim Speed permite acelerar o ralentizar toda una animación de partículas desde un solo control, mientras que un nuevo sistema de caché de imágenes y unas vistas previas más fluidas mejoran el rendimiento."
-              },
-              {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/ParticleIllusion-1.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Peter-Chan.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "La inteligencia artificial sigue mejorando varias herramientas de Continuum 2027, sobre todo las que sirven para aislar personas, limpiar bordes y crear mejores máscaras. En lugar de introducir un flujo de trabajo de IA totalmente nuevo, esta actualización se centra en mejorar herramientas ya disponibles."
+                "x": "Peter Chan Ho-sun, director de “Comrades: Almost a Love Story” y “The Warlords”, afirmó que probablemente usará AI en su cine, pero “definitivamente no AIGC”, es decir, contenido AI-generated, y que el largometraje de dos horas resistirá frente a los formatos cortos y los dramas verticales, al menos mientras él viva."
               },
               {
                 "t": "p",
-                "x": "BCC+ Face ML suma tres nuevas opciones de modelo, que también llegan a BCC+ Witness Protection, que antes dependía de máscaras ovaladas para aislar rostros. BCC+ Matte Refine ML recibe un nuevo modelo 2.1 en su versión para Adobe, diseñado para producir bordes más limpios y más consistentes de un fotograma a otro."
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/BCC-Face-ML.jpg"
+                "x": "En un encuentro In Conversation del Singapore International Film Festival, dijo que usaría la AI como una técnica, igual que la industria ya usa CGI y efectos especiales. “Todo lo que me ayude a hacer películas es bienvenido. Pero no sabrán de arte. Las películas siguen haciéndolas las personas”, dijo Chan."
               },
               {
                 "t": "p",
-                "x": "Efectos clásicos como Vector Blur, Curl, Bulge, Wave y Time Displacement regresan en el moderno marco BCC+ con aceleración por GPU. Entre las nuevas herramientas están BCC+ Noise Map Studio, BCC+ Grid y BCC Text, que facilita mucho la creación y animación de texto 2D."
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/BCC-Type.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Las novedades de Mocha 2026.5 añaden una vista previa de Object Brush y mejoras en Matte Assist y Refine Matte. Boris FX también mejoró el rendimiento en Premiere Pro y la gestión de la GPU, y añadió compatibilidad con ocho idiomas más y más de 500 nuevos presets."
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Mocha.jpg"
+                "x": "“Probablemente sea la época más dura para el cine, pero ¿creo que este medio se va a perder y quedará en manos del entretenimiento de formato corto? No.” También habló de su película más reciente, “The Road Not Taken”, que se estrenó en Toronto, y del 30.º aniversario de “Comrades”."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Boris FX 2027판\nAI 마스킹 개선",
-          "body": "Continuum 2027은 AI 마스킹을 다듬고 프리셋 500개 이상을 더했다.",
-          "mini_headline": "Continuum 2027, AI 도구 강화",
+          "headline": "AI-generated는\nPeter Chan이 거부",
+          "body": "Peter Chan은 AI를 기법으로 쓰되 AI-generated는 거부했다.",
+          "mini_headline": "Peter Chan, AI에 선을 긋다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Continuum이 2027 업데이트로 돌아왔다. 새 효과와 기존 인기 기능 개선에 쓸모 있는 추가 기능까지 여럿 담겼다."
-              },
-              {
-                "t": "p",
-                "x": "가장 큰 변화 가운데 하나는 Boris FX의 파티클 효과 제작 도구 Particle Illusion이다. 새 Sim Speed 슬라이더 하나로 파티클 애니메이션 전체 속도를 올리거나 늦춘다. 새 이미지 캐싱 시스템과 더 매끄러운 미리보기로 성능도 좋아졌다."
-              },
-              {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/ParticleIllusion-1.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Peter-Chan.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "Continuum 2027에서도 인공지능이 여러 도구를 손봤다. 인물을 분리하고 가장자리를 정리하고 더 나은 마스크를 만드는 도구에서 특히 그렇다. 이번 업데이트는 완전히 새로운 AI 워크플로를 내놓기보다 이미 있는 도구를 다듬는 데 집중했다."
+                "x": "“Comrades: Almost a Love Story”(첨밀밀)와 “The Warlords”(명장)를 연출한 Peter Chan Ho-sun(진가신) 감독은 영화 작업에 AI를 아마 쓰겠지만 “AIGC, 즉 AI-generated 콘텐츠는 절대 아니다”라고 말했다. 적어도 자기가 살아 있는 동안은 two-hour 장편 영화가 short-form 콘텐츠와 세로형 드라마에 맞서 자리를 지킬 거라고도 했다."
               },
               {
                 "t": "p",
-                "x": "BCC+ Face ML에는 새 모델 옵션 세 가지가 추가됐고, 이 옵션은 그동안 얼굴 분리에 타원형 마스크를 써 온 BCC+ Witness Protection에도 들어간다. BCC+ Matte Refine ML은 Adobe 버전에서 새 2.1 모델을 받았다. 프레임마다 더 일관되고 깔끔한 가장자리를 내도록 설계한 모델이다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/BCC-Face-ML.jpg"
+                "x": "Singapore International Film Festival의 In Conversation 행사에서 그는 업계가 CGI와 특수효과를 이미 쓰고 있듯 AI도 기법의 하나로 쓰겠다고 밝혔다. Chan은 “영화 만드는 데 도움이 되는 것이라면 무엇이든 환영한다. 하지만 그것들은 예술을 모른다. 영화는 여전히 사람이 만든다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "Vector Blur, Curl, Bulge, Wave, Time Displacement 같은 고전 효과가 GPU 가속을 지원하는 최신 BCC+ 프레임워크로 돌아왔다. 새 도구로는 BCC+ Noise Map Studio, BCC+ Grid, 그리고 2D 텍스트 제작과 애니메이션을 훨씬 쉽게 해 주는 BCC Text가 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/BCC-Type.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Mocha 2026.5에서 넘어온 업데이트로 Object Brush 미리보기가 생겼고 Matte Assist와 Refine Matte가 좋아졌다. Boris FX는 Premiere Pro 성능과 GPU 처리도 끌어올렸고, 8개 언어 지원과 500개가 넘는 새 프리셋을 더했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Mocha.jpg"
+                "x": "“지금이 아마 영화에 가장 힘든 시기일 것이다. 그렇다면 이 매체가 short-form 엔터테인먼트에 밀려 사라질 거라고 믿느냐고? 아니다.” 그는 Toronto에서 첫선을 보인 신작 “The Road Not Taken”과 “Comrades” 30주년 이야기도 꺼냈다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Boris FX 2027\nAIマスキング強化",
-          "body": "Continuum 2027はAIマスキングを改良し、500以上のプリセットを加えた。",
-          "mini_headline": "Continuum 2027、AIツールを強化",
+          "headline": "AI-generatedは\nPeter Chanが拒否",
+          "body": "Peter ChanはAIを技法として使うが、AI-generatedは使わないという。",
+          "mini_headline": "Peter Chan、AIに一線",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Continuumが2027アップデートで帰ってきた。新しいエフェクト、定番機能の改良、そして便利な追加機能が数多く盛り込まれている。"
-              },
-              {
-                "t": "p",
-                "x": "最大の更新の一つは、Boris FXのパーティクルエフェクト制作ツールParticle Illusionだ。新しいSim Speedスライダーを使えば、一つの操作でパーティクルアニメーション全体を速めたり遅くしたりできる。新しい画像キャッシュシステムとより滑らかなプレビューが性能を高める。"
-              },
-              {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/ParticleIllusion-1.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Peter-Chan.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "Continuum 2027でも人工知能は複数のツールを改善しており、とりわけ人物の切り出し、エッジの整理、より良いマスク作成に使うツールで顕著だ。今回のアップデートはまったく新しいAIワークフローを導入するのではなく、既存ツールの改良に重点を置いている。"
+                "x": "「Comrades: Almost a Love Story」（ラヴソング）や「The Warlords」（ウォーロード／男たちの誓い）を手がけたPeter Chan Ho-sun（ピーター・チャン）監督は、映画づくりにAIをおそらく使うだろうが「AIGC、つまりAI-generatedコンテンツは絶対に使わない」と語った。また少なくとも自分が生きているうちは、two-hourの長編映画がshort-formや縦型ドラマに対して持ちこたえるとの見方を示した。"
               },
               {
                 "t": "p",
-                "x": "BCC+ Face MLには新たに三つのモデルオプションが加わり、これまで顔の切り出しに楕円マスクを頼っていたBCC+ Witness Protectionにも追加される。BCC+ Matte Refine MLはAdobe版で新しい2.1モデルを得た。フレーム間で一貫性を保つ、よりきれいなエッジを生み出すよう設計されている。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/BCC-Face-ML.jpg"
+                "x": "Singapore International Film FestivalのIn Conversationイベントで、業界がすでにCGIや特殊効果を使っているように、AIを一つの技法として使うと述べた。「映画づくりに役立つものなら何でも歓迎する。だが、それらは芸術を知らない。映画は今も人がつくるものだ」とChanは語った。"
               },
               {
                 "t": "p",
-                "x": "Vector Blur、Curl、Bulge、Wave、Time Displacementといった定番エフェクトが、GPUアクセラレーションに対応した最新のBCC+フレームワークで復活した。新ツールにはBCC+ Noise Map Studio、BCC+ Grid、そして2Dテキストの作成とアニメーションを大幅に容易にするBCC Textがある。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/BCC-Type.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Mocha 2026.5からの更新で、Object Brushのプレビューが加わり、Matte AssistとRefine Matteが改良された。Boris FXはPremiere Pro向けの性能改善とGPU処理の向上も行い、8言語の追加サポートと500を超える新プリセットを加えた。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Mocha.jpg"
+                "x": "「今はおそらく映画にとって最も厳しい時期だ。だが、この媒体がshort-formの娯楽に取って代わられ、消えてしまうと信じるか。答えはノーだ」。TorontoでプレミアされたThe Road Not Taken（最新作）や、「Comrades」の30周年についても語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Boris FX 2027\nAI遮罩工具升级",
-          "body": "Continuum 2027带来新特效、改进的AI遮罩工具、更快性能和500多个新预设。",
-          "mini_headline": "Continuum 2027升级AI工具",
+          "headline": "AI-generated内容\nPeter Chan说不",
+          "body": "Peter Chan表示可能会把AI当作技术手段，但绝不使用AI-generated内容。",
+          "mini_headline": "Peter Chan对AI划线",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Continuum推出2027版更新，带来新特效、对常用功能的改进以及许多实用的新增内容。"
-              },
-              {
-                "t": "p",
-                "x": "最大的更新之一来自Boris FX的粒子特效制作工具Particle Illusion。新的Sim Speed滑块只需一个控件即可加快或放慢整段粒子动画，新的图像缓存系统和更流畅的预览则提升了性能。"
-              },
-              {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/ParticleIllusion-1.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Peter-Chan.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "在Continuum 2027中，人工智能继续改进多款工具，尤其是用于分离人物、清理边缘和制作更好遮罩的工具。此次更新并未引入全新的AI工作流程，而是专注于改进已有工具。"
+                "x": "执导《Comrades: Almost a Love Story》（甜蜜蜜）和《The Warlords》（投名状）的Peter Chan Ho-sun（陈可辛）表示，他在电影创作中可能会使用AI，但“绝对不用AIGC”，即AI-generated内容；他还认为，至少在他有生之年，two-hour长片能够在short-form和竖屏短剧面前站稳脚跟。"
               },
               {
                 "t": "p",
-                "x": "BCC+ Face ML新增三个模型选项，这些选项也将加入此前依赖椭圆遮罩来分离人脸的BCC+ Witness Protection。BCC+ Matte Refine ML的Adobe版本获得新的2.1模型，旨在生成更干净、逐帧更一致的边缘。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/BCC-Face-ML.jpg"
+                "x": "在Singapore International Film Festival的In Conversation活动上，他说会像业界早已使用CGI和特效那样，把AI当作一种技术手段。Chan说：“凡是能帮我拍电影的，我都欢迎。但它们不懂艺术。电影仍然是由人来拍的。”"
               },
               {
                 "t": "p",
-                "x": "Vector Blur、Curl、Bulge、Wave和Time Displacement等经典特效以支持GPU加速的新版BCC+框架回归。新工具包括BCC+ Noise Map Studio、BCC+ Grid和BCC Text，后者让2D文字的制作和动画变得容易得多。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/BCC-Type.jpg"
-              },
-              {
-                "t": "p",
-                "x": "来自Mocha 2026.5的更新新增了Object Brush预览，并改进了Matte Assist和Refine Matte。Boris FX还提升了Premiere Pro中的性能，改进了GPU处理，新增8种语言支持以及500多个新预设。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Mocha.jpg"
+                "x": "“这大概是电影最艰难的时期，但我是否相信这种媒介会消失、被short-form娱乐取代？不。”他还谈到了在Toronto首映的新作《The Road Not Taken》，以及《Comrades》上映30周年。"
               }
             ]
           }
@@ -715,201 +491,105 @@
       },
       "_i18n_passed": {
         "es": {
-          "headline": "Boris FX Continuum 2027\nmejora sus máscaras con IA",
-          "body": "Continuum 2027, de Boris FX, trae nuevos efectos, mejores máscaras con IA, más rendimiento y 500+ nuevos presets.",
-          "mini_headline": "Continuum 2027 mejora sus herramientas de IA",
+          "headline": "Peter Chan descarta el\ncontenido AI-generated",
+          "body": "Peter Chan dice que probablemente usará AI como técnica, pero en ningún caso contenido AI-generated.",
+          "mini_headline": "Peter Chan dice no a la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Continuum vuelve con la actualización 2027, que incluye nuevos efectos, mejoras en los favoritos de siempre y muchas incorporaciones útiles."
-              },
-              {
-                "t": "p",
-                "x": "Una de las mayores novedades llega a Particle Illusion, la herramienta de Boris FX para crear efectos de partículas. Un nuevo control deslizante Sim Speed permite acelerar o ralentizar toda una animación de partículas desde un solo control, mientras que un nuevo sistema de caché de imágenes y unas vistas previas más fluidas mejoran el rendimiento."
-              },
-              {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/ParticleIllusion-1.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Peter-Chan.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "La inteligencia artificial sigue mejorando varias herramientas de Continuum 2027, sobre todo las que sirven para aislar personas, limpiar bordes y crear mejores máscaras. En lugar de introducir un flujo de trabajo de IA totalmente nuevo, esta actualización se centra en mejorar herramientas ya disponibles."
+                "x": "Peter Chan Ho-sun, director de “Comrades: Almost a Love Story” y “The Warlords”, afirmó que probablemente usará AI en su cine, pero “definitivamente no AIGC”, es decir, contenido AI-generated, y que el largometraje de dos horas resistirá frente a los formatos cortos y los dramas verticales, al menos mientras él viva."
               },
               {
                 "t": "p",
-                "x": "BCC+ Face ML suma tres nuevas opciones de modelo, que también llegan a BCC+ Witness Protection, que antes dependía de máscaras ovaladas para aislar rostros. BCC+ Matte Refine ML recibe un nuevo modelo 2.1 en su versión para Adobe, diseñado para producir bordes más limpios y más consistentes de un fotograma a otro."
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/BCC-Face-ML.jpg"
+                "x": "En un encuentro In Conversation del Singapore International Film Festival, dijo que usaría la AI como una técnica, igual que la industria ya usa CGI y efectos especiales. “Todo lo que me ayude a hacer películas es bienvenido. Pero no sabrán de arte. Las películas siguen haciéndolas las personas”, dijo Chan."
               },
               {
                 "t": "p",
-                "x": "Efectos clásicos como Vector Blur, Curl, Bulge, Wave y Time Displacement regresan en el moderno marco BCC+ con aceleración por GPU. Entre las nuevas herramientas están BCC+ Noise Map Studio, BCC+ Grid y BCC Text, que facilita mucho la creación y animación de texto 2D."
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/BCC-Type.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Las novedades de Mocha 2026.5 añaden una vista previa de Object Brush y mejoras en Matte Assist y Refine Matte. Boris FX también mejoró el rendimiento en Premiere Pro y la gestión de la GPU, y añadió compatibilidad con ocho idiomas más y más de 500 nuevos presets."
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Mocha.jpg"
+                "x": "“Probablemente sea la época más dura para el cine, pero ¿creo que este medio se va a perder y quedará en manos del entretenimiento de formato corto? No.” También habló de su película más reciente, “The Road Not Taken”, que se estrenó en Toronto, y del 30.º aniversario de “Comrades”."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Boris FX 2027판\nAI 마스킹 개선",
-          "body": "Continuum 2027은 AI 마스킹을 다듬고 프리셋 500개 이상을 더했다.",
-          "mini_headline": "Continuum 2027, AI 도구 강화",
+          "headline": "AI-generated는\nPeter Chan이 거부",
+          "body": "Peter Chan은 AI를 기법으로 쓰되 AI-generated는 거부했다.",
+          "mini_headline": "Peter Chan, AI에 선을 긋다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Continuum이 2027 업데이트로 돌아왔다. 새 효과와 기존 인기 기능의 개선, 그리고 쓸모 있는 추가 기능이 다수 담겼다."
-              },
-              {
-                "t": "p",
-                "x": "가장 큰 변화 가운데 하나는 Boris FX의 파티클 효과 제작 도구 Particle Illusion이다. 새 Sim Speed 슬라이더 하나로 파티클 애니메이션 전체의 속도를 높이거나 늦출 수 있고, 새 이미지 캐싱 시스템과 더 매끄러운 미리보기가 성능을 끌어올린다."
-              },
-              {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/ParticleIllusion-1.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Peter-Chan.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "Continuum 2027에서도 인공지능은 여러 도구를 개선하고 있으며, 특히 인물을 분리하고 가장자리를 정리하고 더 나은 마스크를 만드는 도구에서 두드러진다. 이번 업데이트는 완전히 새로운 AI 워크플로를 내놓기보다 이미 있는 도구를 다듬는 데 집중했다."
+                "x": "“Comrades: Almost a Love Story”(첨밀밀)와 “The Warlords”(명장)를 연출한 Peter Chan Ho-sun(진가신) 감독은 영화 작업에 AI를 아마 쓰겠지만 “AIGC, 즉 AI-generated 콘텐츠는 절대 아니다”라고 말했다. 그는 적어도 자신이 살아 있는 동안에는 two-hour 장편 영화가 short-form 콘텐츠와 세로형 드라마에 맞서 자리를 지킬 것이라고 했다."
               },
               {
                 "t": "p",
-                "x": "BCC+ Face ML에는 새 모델 옵션 세 가지가 추가됐고, 이 옵션은 그동안 얼굴 분리에 타원형 마스크를 써 온 BCC+ Witness Protection에도 들어간다. BCC+ Matte Refine ML은 Adobe 버전에서 새 2.1 모델을 받았는데, 프레임마다 더 일관되고 깔끔한 가장자리를 만들도록 설계됐다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/BCC-Face-ML.jpg"
+                "x": "Singapore International Film Festival의 In Conversation 행사에서 그는 업계가 이미 CGI와 특수효과를 쓰듯 AI를 하나의 기법으로 쓰겠다고 밝혔다. Chan은 “영화 만드는 데 도움이 되는 것이라면 무엇이든 환영한다. 하지만 그것들은 예술을 모른다. 영화는 여전히 사람이 만든다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "Vector Blur, Curl, Bulge, Wave, Time Displacement 같은 고전 효과가 GPU 가속을 갖춘 최신 BCC+ 프레임워크로 돌아왔다. 새 도구로는 BCC+ Noise Map Studio, BCC+ Grid, 그리고 2D 텍스트 제작과 애니메이션을 훨씬 쉽게 해 주는 BCC Text가 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/BCC-Type.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Mocha 2026.5에서 온 업데이트로 Object Brush 미리보기가 추가되고 Matte Assist와 Refine Matte가 개선됐다. Boris FX는 Premiere Pro 성능 개선과 GPU 처리 향상도 이뤘고, 8개 언어 지원과 500개가 넘는 새 프리셋을 더했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Mocha.jpg"
+                "x": "“지금이 아마 영화에 가장 힘든 시기일 것이다. 그렇다면 이 매체가 short-form 엔터테인먼트에 밀려 사라질 거라고 믿느냐고? 아니다.” 그는 Toronto에서 첫선을 보인 신작 “The Road Not Taken”과 “Comrades” 30주년에 대해서도 이야기했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Boris FX 2027\nAIマスキング強化",
-          "body": "Continuum 2027はAIマスキングを改良し、500以上のプリセットを加えた。",
-          "mini_headline": "Continuum 2027、AIツールを強化",
+          "headline": "AI-generatedは\nPeter Chanが拒否",
+          "body": "Peter ChanはAIを技法として使うが、AI-generatedは使わないという。",
+          "mini_headline": "Peter Chan、AIに一線",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Continuumが2027アップデートで帰ってきた。新しいエフェクト、定番機能の改良、そして便利な追加機能が数多く盛り込まれている。"
-              },
-              {
-                "t": "p",
-                "x": "最大の更新の一つは、Boris FXのパーティクルエフェクト制作ツールParticle Illusionだ。新しいSim Speedスライダーを使えば、一つの操作でパーティクルアニメーション全体を速めたり遅くしたりできる。新しい画像キャッシュシステムとより滑らかなプレビューが性能を高める。"
-              },
-              {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/ParticleIllusion-1.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Peter-Chan.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "Continuum 2027でも人工知能は複数のツールを改善しており、とりわけ人物の切り出し、エッジの整理、より良いマスク作成に使うツールで顕著だ。今回のアップデートはまったく新しいAIワークフローを導入するのではなく、既存ツールの改良に重点を置いている。"
+                "x": "「Comrades: Almost a Love Story」（ラヴソング）や「The Warlords」（ウォーロード／男たちの誓い）を手がけたPeter Chan Ho-sun（ピーター・チャン）監督は、映画づくりにAIをおそらく使うだろうが「AIGC、つまりAI-generatedコンテンツは絶対に使わない」と語った。また少なくとも自分が生きているうちは、two-hourの長編映画がshort-formや縦型ドラマに対して持ちこたえるとの見方を示した。"
               },
               {
                 "t": "p",
-                "x": "BCC+ Face MLには新たに三つのモデルオプションが加わり、これまで顔の切り出しに楕円マスクを頼っていたBCC+ Witness Protectionにも追加される。BCC+ Matte Refine MLはAdobe版で新しい2.1モデルを得た。フレーム間で一貫性を保つ、よりきれいなエッジを生み出すよう設計されている。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/BCC-Face-ML.jpg"
+                "x": "Singapore International Film FestivalのIn Conversationイベントで、業界がすでにCGIや特殊効果を使っているように、AIを一つの技法として使うと述べた。「映画づくりに役立つものなら何でも歓迎する。だが、それらは芸術を知らない。映画は今も人がつくるものだ」とChanは語った。"
               },
               {
                 "t": "p",
-                "x": "Vector Blur、Curl、Bulge、Wave、Time Displacementといった定番エフェクトが、GPUアクセラレーションに対応した最新のBCC+フレームワークで復活した。新ツールにはBCC+ Noise Map Studio、BCC+ Grid、そして2Dテキストの作成とアニメーションを大幅に容易にするBCC Textがある。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/BCC-Type.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Mocha 2026.5からの更新で、Object Brushのプレビューが加わり、Matte AssistとRefine Matteが改良された。Boris FXはPremiere Pro向けの性能改善とGPU処理の向上も行い、8言語の追加サポートと500を超える新プリセットを加えた。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Mocha.jpg"
+                "x": "「今はおそらく映画にとって最も厳しい時期だ。だが、この媒体がshort-formの娯楽に取って代わられ、消えてしまうと信じるか。答えはノーだ」。TorontoでプレミアされたThe Road Not Taken（最新作）や、「Comrades」の30周年についても語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Boris FX 2027\nAI遮罩工具升级",
-          "body": "Continuum 2027带来新特效、改进的AI遮罩工具、更快性能和500多个新预设。",
-          "mini_headline": "Continuum 2027升级AI工具",
+          "headline": "AI-generated内容\nPeter Chan说不",
+          "body": "Peter Chan表示可能会把AI当作技术手段，但绝不使用AI-generated内容。",
+          "mini_headline": "Peter Chan对AI划线",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Continuum推出2027版更新，带来新特效、对常用功能的改进以及许多实用的新增内容。"
-              },
-              {
-                "t": "p",
-                "x": "最大的更新之一来自Boris FX的粒子特效制作工具Particle Illusion。新的Sim Speed滑块只需一个控件即可加快或放慢整段粒子动画，新的图像缓存系统和更流畅的预览则提升了性能。"
-              },
-              {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/ParticleIllusion-1.jpg"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Peter-Chan.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "在Continuum 2027中，人工智能继续改进多款工具，尤其是用于分离人物、清理边缘和制作更好遮罩的工具。此次更新并未引入全新的AI工作流程，而是专注于改进已有工具。"
+                "x": "执导《Comrades: Almost a Love Story》（甜蜜蜜）和《The Warlords》（投名状）的Peter Chan Ho-sun（陈可辛）表示，他在电影创作中可能会使用AI，但“绝对不用AIGC”，即AI-generated内容；他还认为，至少在他有生之年，two-hour长片能够在short-form和竖屏短剧面前站稳脚跟。"
               },
               {
                 "t": "p",
-                "x": "BCC+ Face ML新增三个模型选项，这些选项也将加入此前依赖椭圆遮罩来分离人脸的BCC+ Witness Protection。BCC+ Matte Refine ML的Adobe版本获得新的2.1模型，旨在生成更干净、逐帧更一致的边缘。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/BCC-Face-ML.jpg"
+                "x": "在Singapore International Film Festival的In Conversation活动上，他说会像业界早已使用CGI和特效那样，把AI当作一种技术手段。Chan说：“凡是能帮我拍电影的，我都欢迎。但它们不懂艺术。电影仍然是由人来拍的。”"
               },
               {
                 "t": "p",
-                "x": "Vector Blur、Curl、Bulge、Wave和Time Displacement等经典特效以支持GPU加速的新版BCC+框架回归。新工具包括BCC+ Noise Map Studio、BCC+ Grid和BCC Text，后者让2D文字的制作和动画变得容易得多。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/BCC-Type.jpg"
-              },
-              {
-                "t": "p",
-                "x": "来自Mocha 2026.5的更新新增了Object Brush预览，并改进了Matte Assist和Refine Matte。Boris FX还提升了Premiere Pro中的性能，改进了GPU处理，新增8种语言支持以及500多个新预设。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/Mocha.jpg"
+                "x": "“这大概是电影最艰难的时期，但我是否相信这种媒介会消失、被short-form娱乐取代？不。”他还谈到了在Toronto首映的新作《The Road Not Taken》，以及《Comrades》上映30周年。"
               }
             ]
           }
@@ -917,243 +597,255 @@
       }
     },
     {
-      "id": "movies-lux-meridian",
+      "id": "movies-fc-lorem-ipsum-rap",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Territory가 연\nAI-native 스튜디오",
-      "body": "Lux Meridian은 Adobe Firefly Foundry로 영화를 만든다.",
-      "mini_headline": "Territory Group의 AI-native 스튜디오",
+      "headline": "F&C ai Lab 신작\nLorem Ipsum 랩",
+      "body": "F&C ai Lab이 AI 도구로 힙합 영상 Lorem Ipsum Rap을 냈다.",
+      "mini_headline": "AI-made Lorem Ipsum 랩",
       "tool": "Movies",
-      "source": "AWN",
-      "url": "https://www.awn.com/news/territory-group-launches-ai-native-studio-lux-meridian",
+      "source": "Motionographer",
+      "url": "https://motionographer.com/quickie/lorem-ipsum-rap-fc-ai-lab/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
+            "t": "p",
+            "x": "F&C ai Lab이라는 이름으로 활동하는 François Chatelain이 디자인계에 익숙한 더미 텍스트에 그만의 힙합 영상을 붙였다. Lorem Ipsum Rap은 “Lorem Ipsum / Dolor Sit Amet”을 중심으로 AI-generated 애니메이션 클립을 엮고 대개 배경에 머물던 단어를 노래의 핵심 훅으로 끌어올렸다."
+          },
+          {
             "t": "img",
-            "src": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081596-lux1.jpg?itok=h4bgwguu",
-            "cap": "Lux Meridian."
+            "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-03.jpg",
+            "cap": "다채로운 그래피티풍 패턴으로 채운 큼직한 Lorem Ipsum 레터링"
           },
           {
             "t": "p",
-            "x": "Territory Studio 공동 창업자 David Sheldon-Hicks와 Nick Glover는 2022년 Territory Group을 세웠다. Lux Meridian의 창립 팀은 Avatar, Spider-Man: Brand New Day, Dune 등 프랜차이즈 작업에 참여한 경력이 있다."
+            "x": "시각 언어도 그만큼 강렬하다. 채도 높은 노랑·주황·분홍, 그래피티 같은 마크, 커다란 레터링, 일러스트로 그린 공연자가 화면을 채운다. 타이포그래피는 이미지에 녹아들어 제목을 채우고 입술을 감싸며 래퍼 손의 금반지가 된다. 제공된 프레임에는 AI 표시가 붙어 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-05.jpg",
+            "cap": "알록달록한 Lorem Ipsum 타이포그래피로 덮인 일러스트 입술"
           },
           {
             "t": "p",
-            "x": "Lux Meridian은 AI 기술 기업이 아니라 제작 스튜디오로 움직인다. AI-native 워크플로와 기존 영화 제작 방식을 섞어 오리지널 영화·TV 콘텐츠를 개발하고 내놓는다."
+            "x": "Chatelain은 음악, 이미지, 애니메이션 시퀀스, 편집 전반에 AI를 쓰며 이 프로젝트를 혼자 만들었다. 제작 노트에 따르면 음악은 Suno, 비주얼 스타일과 일러스트는 Midjourney, 애니메이션 시퀀스는 Seedance로 작업했다. ChatGPT는 콘셉트, 프롬프트, 크리에이티브 디렉션을 도왔다."
+          },
+          {
+            "t": "img",
+            "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-04.jpg",
+            "cap": "관중 앞에서 공연하는 일러스트 래퍼"
           },
           {
             "t": "p",
-            "x": "“멋진 이미지를 생성하는 것과 감독이 자신 있게 내놓을 수 있는 영화를 완성하는 것은 별개의 일입니다.” Territory Group CEO Sheldon-Hicks의 말이다. “우리는 수십 년에 걸친 Hollywood 제작 경험과 새로운 AI 기술을 결합해, 스토리텔링과 품질, 제작 기준을 해치지 않으면서 영화인에게 더 큰 창작의 자유를 주려 합니다.”"
-          },
-          {
-            "t": "p",
-            "x": "스튜디오는 Adobe의 Firefly Foundry와 협업도 한다. Firefly Foundry는 승인받은 독점 창작 자료로 맞춤형 생성형 AI 모델을 만드는 프로젝트다. 영화인은 이 모델로 오리지널 캐릭터와 환경, 영화적 세계를 개발하되 예술적 통제권과 지식재산은 지킨다."
-          },
-          {
-            "t": "p",
-            "x": "Lux Meridian은 이미 Adobe와 함께 Brad Peyton 감독의 Dark Zone에서 이 방식을 시험했다. 참고할 기존 학습 자료가 거의 없는 오리지널 영화 프로젝트라 독점 AI 모델을 개발했다."
-          },
-          {
-            "t": "p",
-            "x": "스튜디오는 출범과 동시에 Hollywood 메이저 스튜디오와 한 해에 걸친 콘텐츠 협업을 하고 있고, 이름난 Hollywood 감독들과 개발 파트너십도 맺었다."
+            "x": "그래픽 레이아웃의 언어를 뮤직비디오로 옮기자 더미 텍스트에도 목소리와 선명한 시각적 정체성이 생겼다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Territory Group launches\nAI-native studio Lux Meridian",
-          "body": "Lux Meridian will make features, series and animated films with AI-native workflows and Adobe Firefly Foundry.",
-          "mini_headline": "Territory opens AI-native studio",
+          "headline": "F&C ai Lab drops\nLorem Ipsum Rap",
+          "body": "François Chatelain's F&C ai Lab made Lorem Ipsum Rap, a solo hip-hop video built with Suno, Midjourney and Seedance.",
+          "mini_headline": "An AI-made Lorem Ipsum rap",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "François Chatelain, working as F&C ai Lab, gives a familiar piece of design-world placeholder text its own hip-hop video. Lorem Ipsum Rap builds an AI-generated animated clip around “Lorem Ipsum / Dolor Sit Amet,” turning words usually left in the background into the song's central hook."
+              },
+              {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081596-lux1.jpg?itok=h4bgwguu",
-                "cap": "Lux Meridian."
+                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-03.jpg",
+                "cap": "Large Lorem Ipsum lettering filled with multicolored graffiti-style patterns"
               },
               {
                 "t": "p",
-                "x": "Territory Studio co-founders David Sheldon-Hicks and Nick Glover formed Territory Group in 2022. Lux Meridian’s founding teams bring experience working on franchises including Avatar, Spider-Man: Brand New Day, and Dune."
+                "x": "The visual language is equally emphatic: saturated yellow, orange and pink, graffiti-like marks, oversized lettering and illustrated performers. Typography becomes part of the imagery, filling the title, wrapping across a pair of lips and appearing as gold rings on a rapper's hands. The supplied frames carry an explicit AI mark."
+              },
+              {
+                "t": "img",
+                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-05.jpg",
+                "cap": "Illustrated lips covered in colorful Lorem Ipsum typography"
               },
               {
                 "t": "p",
-                "x": "Rather than operating as an AI technology company, Lux Meridian works as a production studio, developing and delivering original film and television content that pairs AI-native workflows with established filmmaking practices."
+                "x": "Chatelain made the project solo, using AI across the music, imagery, animated sequences and editing. His production notes identify Suno for the music, Midjourney for the visual style and illustrations, and Seedance for the animated sequences. ChatGPT assisted with the concept, prompts and creative direction."
+              },
+              {
+                "t": "img",
+                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-04.jpg",
+                "cap": "Illustrated rapper performing before a crowd"
               },
               {
                 "t": "p",
-                "x": "\"It's one thing to generate a stunning image, but another to deliver a film a director can stand behind,\" said Sheldon-Hicks, Territory Group's CEO. \"We're combining decades of Hollywood production experience with emerging AI technologies to give filmmakers greater creative freedom without compromising storytelling, quality, or production standards.\""
-              },
-              {
-                "t": "p",
-                "x": "The studio also draws on its collaboration with Adobe’s Firefly Foundry, an initiative that builds custom generative AI models from authorized, proprietary creative material. Filmmakers use the models to develop original characters, environments, and cinematic worlds while keeping artistic control and protecting their intellectual property."
-              },
-              {
-                "t": "p",
-                "x": "Lux Meridian has already explored that approach with Adobe on director Brad Peyton’s Dark Zone, developing proprietary AI models for an original film property with little existing training material to draw from."
-              },
-              {
-                "t": "p",
-                "x": "At launch, the studio brings a year-long content collaboration with a major Hollywood studio, along with development partnerships with established Hollywood directors."
+                "x": "The result brings the language of graphic layouts into a music-video setting, giving placeholder copy a voice and a vivid visual identity."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Territory가 연\nAI-native 스튜디오",
-          "body": "Lux Meridian은 Adobe Firefly Foundry로 영화를 만든다.",
-          "mini_headline": "Territory Group의 AI-native 스튜디오",
+          "headline": "F&C ai Lab 신작\nLorem Ipsum 랩",
+          "body": "F&C ai Lab이 AI 도구로 힙합 영상 Lorem Ipsum Rap을 냈다.",
+          "mini_headline": "AI-made Lorem Ipsum 랩",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "F&C ai Lab이라는 이름으로 활동하는 François Chatelain이 디자인계에 익숙한 더미 텍스트에 그만의 힙합 영상을 붙였다. Lorem Ipsum Rap은 “Lorem Ipsum / Dolor Sit Amet”을 중심으로 AI-generated 애니메이션 클립을 엮고 대개 배경에 머물던 단어를 노래의 핵심 훅으로 끌어올렸다."
+              },
+              {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081596-lux1.jpg?itok=h4bgwguu",
-                "cap": "Lux Meridian."
+                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-03.jpg",
+                "cap": "다채로운 그래피티풍 패턴으로 채운 큼직한 Lorem Ipsum 레터링"
               },
               {
                 "t": "p",
-                "x": "Territory Studio 공동 창업자 David Sheldon-Hicks와 Nick Glover는 2022년 Territory Group을 세웠다. Lux Meridian의 창립 팀은 Avatar, Spider-Man: Brand New Day, Dune 등 프랜차이즈 작업에 참여한 경력이 있다."
+                "x": "시각 언어도 그만큼 강렬하다. 채도 높은 노랑·주황·분홍, 그래피티 같은 마크, 커다란 레터링, 일러스트로 그린 공연자가 화면을 채운다. 타이포그래피는 이미지에 녹아들어 제목을 채우고 입술을 감싸며 래퍼 손의 금반지가 된다. 제공된 프레임에는 AI 표시가 붙어 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-05.jpg",
+                "cap": "알록달록한 Lorem Ipsum 타이포그래피로 덮인 일러스트 입술"
               },
               {
                 "t": "p",
-                "x": "Lux Meridian은 AI 기술 기업이 아니라 제작 스튜디오로 움직인다. AI-native 워크플로와 기존 영화 제작 방식을 섞어 오리지널 영화·TV 콘텐츠를 개발하고 내놓는다."
+                "x": "Chatelain은 음악, 이미지, 애니메이션 시퀀스, 편집 전반에 AI를 쓰며 이 프로젝트를 혼자 만들었다. 제작 노트에 따르면 음악은 Suno, 비주얼 스타일과 일러스트는 Midjourney, 애니메이션 시퀀스는 Seedance로 작업했다. ChatGPT는 콘셉트, 프롬프트, 크리에이티브 디렉션을 도왔다."
+              },
+              {
+                "t": "img",
+                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-04.jpg",
+                "cap": "관중 앞에서 공연하는 일러스트 래퍼"
               },
               {
                 "t": "p",
-                "x": "“멋진 이미지를 생성하는 것과 감독이 자신 있게 내놓을 수 있는 영화를 완성하는 것은 별개의 일입니다.” Territory Group CEO Sheldon-Hicks의 말이다. “우리는 수십 년에 걸친 Hollywood 제작 경험과 새로운 AI 기술을 결합해, 스토리텔링과 품질, 제작 기준을 해치지 않으면서 영화인에게 더 큰 창작의 자유를 주려 합니다.”"
-              },
-              {
-                "t": "p",
-                "x": "스튜디오는 Adobe의 Firefly Foundry와 협업도 한다. Firefly Foundry는 승인받은 독점 창작 자료로 맞춤형 생성형 AI 모델을 만드는 프로젝트다. 영화인은 이 모델로 오리지널 캐릭터와 환경, 영화적 세계를 개발하되 예술적 통제권과 지식재산은 지킨다."
-              },
-              {
-                "t": "p",
-                "x": "Lux Meridian은 이미 Adobe와 함께 Brad Peyton 감독의 Dark Zone에서 이 방식을 시험했다. 참고할 기존 학습 자료가 거의 없는 오리지널 영화 프로젝트라 독점 AI 모델을 개발했다."
-              },
-              {
-                "t": "p",
-                "x": "스튜디오는 출범과 동시에 Hollywood 메이저 스튜디오와 한 해에 걸친 콘텐츠 협업을 하고 있고, 이름난 Hollywood 감독들과 개발 파트너십도 맺었다."
+                "x": "그래픽 레이아웃의 언어를 뮤직비디오로 옮기자 더미 텍스트에도 목소리와 선명한 시각적 정체성이 생겼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Territoryが新設\nAI-nativeスタジオ",
-          "body": "Lux MeridianはAdobe Firefly Foundryで映像作品を作る。",
-          "mini_headline": "Territory GroupがAI-nativeスタジオ開設",
+          "headline": "F&C ai Labの新作\nLorem Ipsumラップ",
+          "body": "F&C ai LabがAIツールでヒップホップ映像Lorem Ipsum Rapを作った。",
+          "mini_headline": "AI-madeのLorem Ipsumラップ",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "F&C ai Labとして活動するFrançois Chatelainは、デザインの世界でおなじみのダミーテキストに専用のヒップホップ映像を与えた。Lorem Ipsum Rapは「Lorem Ipsum / Dolor Sit Amet」を軸にAI-generatedのアニメーションクリップを組み立て、ふだんは背景に置かれる言葉を曲の中心となるフックに変えている。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081596-lux1.jpg?itok=h4bgwguu",
-                "cap": "Lux Meridian."
+                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-03.jpg",
+                "cap": "多色のグラフィティ風パターンで埋められた大きなLorem Ipsumのレタリング"
               },
               {
                 "t": "p",
-                "x": "Territory Studioの共同創業者David Sheldon-HicksとNick Gloverは、2022年にTerritory Groupを設立した。Lux Meridianの創設チームは、Avatar、Spider-Man: Brand New Day、Duneなどのフランチャイズに携わった経験を持つ。"
+                "x": "ビジュアル言語も同じく力強い。彩度の高い黄、オレンジ、ピンク、グラフィティのようなマーク、特大のレタリング、イラストで描かれたパフォーマーが並ぶ。タイポグラフィは映像の一部となり、タイトルを埋め、唇を包み、ラッパーの手の金の指輪として現れる。提供されたフレームには明示的なAIマークが入っている。"
+              },
+              {
+                "t": "img",
+                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-05.jpg",
+                "cap": "カラフルなLorem Ipsumのタイポグラフィに覆われたイラストの唇"
               },
               {
                 "t": "p",
-                "x": "Lux MeridianはAI技術企業ではなく制作スタジオとして活動し、AI-nativeのワークフローと確立された映画制作の手法を組み合わせたオリジナルの映画・テレビコンテンツを開発、提供する。"
+                "x": "Chatelainはこのプロジェクトを一人で制作し、音楽、画像、アニメーションシーケンス、編集のすべてにAIを使った。制作ノートによれば、音楽にはSuno、ビジュアルスタイルとイラストにはMidjourney、アニメーションシーケンスにはSeedanceを用いた。ChatGPTはコンセプト、プロンプト、クリエイティブディレクションを支えた。"
+              },
+              {
+                "t": "img",
+                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-04.jpg",
+                "cap": "観客の前でパフォーマンスするイラストのラッパー"
               },
               {
                 "t": "p",
-                "x": "「見事な画像を生成することと、監督が胸を張れる映画を届けることは別物だ」とTerritory GroupのCEO、Sheldon-Hicksは語った。「私たちは数十年にわたるHollywoodの制作経験と新たなAI技術を組み合わせ、ストーリーテリングや品質、制作基準を損なうことなく、映画制作者により大きな創造の自由を提供する」"
-              },
-              {
-                "t": "p",
-                "x": "同スタジオはAdobeのFirefly Foundryとの協業も生かす。Firefly Foundryは、許諾を得た独自の創作素材からカスタムの生成AIモデルを構築する取り組みだ。映画制作者はこのモデルを使い、芸術的なコントロールを保ち知的財産を守りながら、オリジナルのキャラクターや環境、映画的な世界を開発する。"
-              },
-              {
-                "t": "p",
-                "x": "Lux MeridianはすでにAdobeとともに、Brad Peyton監督のDark Zoneでこの手法を試している。参照できる既存の学習素材がほとんどないオリジナル映画作品のために、独自のAIモデルを開発した。"
-              },
-              {
-                "t": "p",
-                "x": "発足にあたり、同スタジオは大手Hollywoodスタジオとの一年間にわたるコンテンツ協業に加え、実績あるHollywood監督たちとの開発パートナーシップを携えている。"
+                "x": "その結果、グラフィックレイアウトの言語がミュージックビデオの場に持ち込まれ、ダミーテキストに声と鮮やかなビジュアルアイデンティティが与えられた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Territory推出\nAI-native工作室",
-          "body": "Lux Meridian用Adobe Firefly Foundry制作长片、剧集和动画。",
-          "mini_headline": "Territory开设AI-native工作室",
+          "headline": "F&C ai Lab推出\nLorem Ipsum说唱",
+          "body": "F&C ai Lab用Suno、Midjourney和Seedance独自做出嘻哈视频。",
+          "mini_headline": "AI-made的Lorem Ipsum说唱",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "以F&C ai Lab之名创作的François Chatelain，为设计界熟悉的占位文本配上了专属的嘻哈视频。Lorem Ipsum Rap围绕“Lorem Ipsum / Dolor Sit Amet”打造了一段AI-generated动画短片，把通常隐于背景的文字变成了歌曲的核心副歌。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081596-lux1.jpg?itok=h4bgwguu",
-                "cap": "Lux Meridian."
+                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-03.jpg",
+                "cap": "填满多彩涂鸦风图案的巨大Lorem Ipsum字样"
               },
               {
                 "t": "p",
-                "x": "Territory Studio联合创始人David Sheldon-Hicks和Nick Glover于2022年成立了Territory Group。Lux Meridian的创始团队曾参与Avatar、Spider-Man: Brand New Day和Dune等系列作品。"
+                "x": "视觉语言同样鲜明：饱和的黄、橙、粉色，涂鸦般的笔触，超大字体与插画风格的表演者。字体排印成为画面的一部分：填满标题，缠绕在一双嘴唇上，又化作说唱歌手手上的金戒指。所提供的画面带有明确的AI标识。"
+              },
+              {
+                "t": "img",
+                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-05.jpg",
+                "cap": "覆盖着彩色Lorem Ipsum字体的插画嘴唇"
               },
               {
                 "t": "p",
-                "x": "Lux Meridian并非以AI技术公司的身份运营，而是一家制作工作室，开发和交付将AI-native工作流与成熟电影制作方式相结合的原创电影和电视内容。"
+                "x": "Chatelain独自完成了这个项目，在音乐、图像、动画片段和剪辑中全程使用AI。他的制作说明列出：音乐用Suno，视觉风格与插画用Midjourney，动画片段用Seedance。ChatGPT则协助完成概念、提示词和创意指导。"
+              },
+              {
+                "t": "img",
+                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-04.jpg",
+                "cap": "在人群前表演的插画说唱歌手"
               },
               {
                 "t": "p",
-                "x": "“生成一张惊艳的图像是一回事，交付一部导演愿意为之背书的电影是另一回事，”Territory Group CEO Sheldon-Hicks说，“我们将数十年的Hollywood制作经验与新兴AI技术相结合，在不牺牲叙事、质量或制作标准的前提下，给电影人更大的创作自由。”"
-              },
-              {
-                "t": "p",
-                "x": "该工作室还借助与Adobe的Firefly Foundry的合作。Firefly Foundry项目利用经授权的专有创意素材构建定制生成式AI模型。电影人用这些模型开发原创角色、场景和电影世界，同时保有艺术控制权并保护自己的知识产权。"
-              },
-              {
-                "t": "p",
-                "x": "Lux Meridian已与Adobe在Brad Peyton执导的Dark Zone上尝试这一方法，为一个几乎没有现成训练素材可用的原创电影项目开发专有AI模型。"
-              },
-              {
-                "t": "p",
-                "x": "成立之初，该工作室便带来与一家Hollywood大型制片厂为期一年的内容合作，以及与多位知名Hollywood导演的开发合作。"
+                "x": "最终作品把平面版式的语言带入音乐视频，让占位文字有了声音和鲜明的视觉身份。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Territory Group lanza el estudio\nAI-native Lux Meridian",
-          "body": "Lux Meridian hará largometrajes, series y películas animadas con flujos de trabajo AI-native y Adobe Firefly Foundry.",
-          "mini_headline": "Territory abre un estudio AI-native",
+          "headline": "F&C ai Lab lanza\nLorem Ipsum Rap",
+          "body": "F&C ai Lab, de François Chatelain, creó Lorem Ipsum Rap, un video de hip-hop con Suno, Midjourney y Seedance.",
+          "mini_headline": "Un rap Lorem Ipsum AI-made",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "François Chatelain, que trabaja como F&C ai Lab, da a un conocido texto de relleno del mundo del diseño su propio video de hip-hop. Lorem Ipsum Rap construye un clip animado AI-generated en torno a “Lorem Ipsum / Dolor Sit Amet”, y convierte palabras que suelen quedar en segundo plano en el gancho central de la canción."
+              },
+              {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081596-lux1.jpg?itok=h4bgwguu",
-                "cap": "Lux Meridian."
+                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-03.jpg",
+                "cap": "Grandes letras de Lorem Ipsum rellenas de patrones multicolores de estilo grafiti"
               },
               {
                 "t": "p",
-                "x": "Los cofundadores de Territory Studio, David Sheldon-Hicks y Nick Glover, crearon Territory Group en 2022. Los equipos fundadores de Lux Meridian aportan experiencia en franquicias como Avatar, Spider-Man: Brand New Day y Dune."
+                "x": "El lenguaje visual es igual de enfático: amarillo, naranja y rosa saturados, trazos similares al grafiti, letras de gran tamaño e intérpretes ilustrados. La tipografía se vuelve parte de la imagen: llena el título, envuelve unos labios y aparece como anillos de oro en las manos de un rapero. Los fotogramas facilitados llevan una marca explícita de AI."
+              },
+              {
+                "t": "img",
+                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-05.jpg",
+                "cap": "Labios ilustrados cubiertos de coloridas tipografías de Lorem Ipsum"
               },
               {
                 "t": "p",
-                "x": "En lugar de operar como una empresa de tecnología de IA, Lux Meridian funciona como un estudio de producción que desarrolla y entrega contenido original de cine y televisión, combinando flujos de trabajo AI-native con prácticas cinematográficas consolidadas."
+                "x": "Chatelain hizo el proyecto en solitario y usó AI en la música, las imágenes, las secuencias animadas y la edición. Sus notas de producción señalan Suno para la música, Midjourney para el estilo visual y las ilustraciones, y Seedance para las secuencias animadas. ChatGPT ayudó con el concepto, los prompts y la dirección creativa."
+              },
+              {
+                "t": "img",
+                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-04.jpg",
+                "cap": "Rapero ilustrado actuando ante el público"
               },
               {
                 "t": "p",
-                "x": "“Una cosa es generar una imagen impresionante y otra entregar una película que un director pueda respaldar”, dijo Sheldon-Hicks, CEO de Territory Group. “Combinamos décadas de experiencia de producción en Hollywood con tecnologías de IA emergentes para dar a los cineastas mayor libertad creativa sin comprometer la narrativa, la calidad ni los estándares de producción”."
-              },
-              {
-                "t": "p",
-                "x": "El estudio también aprovecha su colaboración con Firefly Foundry, de Adobe, una iniciativa que crea modelos personalizados de IA generativa a partir de material creativo propio y autorizado. Los cineastas usan los modelos para desarrollar personajes, entornos y mundos cinematográficos originales, manteniendo el control artístico y protegiendo su propiedad intelectual."
-              },
-              {
-                "t": "p",
-                "x": "Lux Meridian ya exploró ese enfoque con Adobe en Dark Zone, del director Brad Peyton, desarrollando modelos de IA propios para una propiedad cinematográfica original que apenas contaba con material de entrenamiento previo."
-              },
-              {
-                "t": "p",
-                "x": "En su lanzamiento, el estudio cuenta con una colaboración de contenidos de un año con un gran estudio de Hollywood, además de alianzas de desarrollo con directores consolidados de Hollywood."
+                "x": "El resultado lleva el lenguaje de las maquetas gráficas al terreno del videoclip y da al texto de relleno una voz y una identidad visual vívida."
               }
             ]
           }
@@ -1161,157 +853,165 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Territory가 연\nAI-native 스튜디오",
-          "body": "Lux Meridian은 Adobe Firefly Foundry로 영화를 만든다.",
-          "mini_headline": "Territory Group의 AI-native 스튜디오",
+          "headline": "F&C ai Lab 신작\nLorem Ipsum 랩",
+          "body": "F&C ai Lab이 AI 도구로 힙합 영상 Lorem Ipsum Rap을 냈다.",
+          "mini_headline": "AI-made Lorem Ipsum 랩",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "F&C ai Lab이라는 이름으로 활동하는 François Chatelain이 디자인계에 익숙한 더미 텍스트에 그만의 힙합 영상을 붙였다. Lorem Ipsum Rap은 “Lorem Ipsum / Dolor Sit Amet”을 중심으로 AI-generated 애니메이션 클립을 짜고, 대개 배경에 머물던 단어를 노래의 핵심 훅으로 바꿨다."
+              },
+              {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081596-lux1.jpg?itok=h4bgwguu",
-                "cap": "Lux Meridian."
+                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-03.jpg",
+                "cap": "다채로운 그래피티풍 패턴으로 채운 큼직한 Lorem Ipsum 레터링"
               },
               {
                 "t": "p",
-                "x": "Territory Studio 공동 창업자 David Sheldon-Hicks와 Nick Glover는 2022년 Territory Group을 세웠다. Lux Meridian의 창립 팀은 Avatar, Spider-Man: Brand New Day, Dune 등 프랜차이즈 작업 경험을 갖췄다."
+                "x": "시각 언어도 그만큼 강렬하다. 채도 높은 노랑·주황·분홍, 그래피티 같은 마크, 커다란 레터링, 일러스트로 그린 공연자가 화면을 채운다. 타이포그래피는 이미지의 일부가 돼 제목을 채우고, 입술을 감싸고, 래퍼의 손에 금반지로 나타난다. 제공된 프레임에는 AI 표시가 명시돼 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-05.jpg",
+                "cap": "알록달록한 Lorem Ipsum 타이포그래피로 덮인 일러스트 입술"
               },
               {
                 "t": "p",
-                "x": "Lux Meridian은 AI 기술 기업이 아니라 제작 스튜디오로 움직인다. AI-native 워크플로와 기존 영화 제작 방식을 결합한 오리지널 영화·TV 콘텐츠를 개발하고 선보인다."
+                "x": "Chatelain은 음악, 이미지, 애니메이션 시퀀스, 편집 전반에 AI를 쓰며 이 프로젝트를 혼자 만들었다. 제작 노트에 따르면 음악은 Suno, 비주얼 스타일과 일러스트는 Midjourney, 애니메이션 시퀀스는 Seedance로 작업했다. ChatGPT는 콘셉트, 프롬프트, 크리에이티브 디렉션을 도왔다."
+              },
+              {
+                "t": "img",
+                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-04.jpg",
+                "cap": "관중 앞에서 공연하는 일러스트 래퍼"
               },
               {
                 "t": "p",
-                "x": "“멋진 이미지를 생성하는 것과 감독이 자신 있게 내놓을 수 있는 영화를 완성하는 것은 별개의 일입니다.” Territory Group CEO Sheldon-Hicks의 말이다. “우리는 수십 년에 걸친 Hollywood 제작 경험과 새로운 AI 기술을 결합해, 스토리텔링과 품질, 제작 기준을 해치지 않으면서 영화인에게 더 큰 창작의 자유를 주려 합니다.”"
-              },
-              {
-                "t": "p",
-                "x": "스튜디오는 Adobe의 Firefly Foundry와의 협업도 활용한다. Firefly Foundry는 승인받은 독점 창작 자료로 맞춤형 생성형 AI 모델을 만드는 프로젝트다. 영화인은 이 모델로 오리지널 캐릭터와 환경, 영화적 세계를 개발하면서 예술적 통제권을 유지하고 지식재산을 보호한다."
-              },
-              {
-                "t": "p",
-                "x": "Lux Meridian은 이미 Adobe와 함께 Brad Peyton 감독의 Dark Zone에서 이 방식을 시험했다. 참고할 기존 학습 자료가 거의 없는 오리지널 영화 프로젝트를 위해 독점 AI 모델을 개발했다."
-              },
-              {
-                "t": "p",
-                "x": "출범과 함께 이 스튜디오는 Hollywood 메이저 스튜디오와 한 해에 걸친 콘텐츠 협업을 진행하며, 이름난 Hollywood 감독들과도 개발 파트너십을 맺었다."
+                "x": "결과물은 그래픽 레이아웃의 언어를 뮤직비디오로 옮겨, 더미 텍스트에 목소리와 선명한 시각적 정체성을 부여한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Territoryが新設\nAI-nativeスタジオ",
-          "body": "Lux MeridianはAdobe Firefly Foundryで映像作品を作る。",
-          "mini_headline": "Territory GroupがAI-nativeスタジオ開設",
+          "headline": "F&C ai Labの新作\nLorem Ipsumラップ",
+          "body": "F&C ai LabがAIツールでヒップホップ映像Lorem Ipsum Rapを作った。",
+          "mini_headline": "AI-madeのLorem Ipsumラップ",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "F&C ai Labとして活動するFrançois Chatelainは、デザインの世界でおなじみのダミーテキストに専用のヒップホップ映像を与えた。Lorem Ipsum Rapは「Lorem Ipsum / Dolor Sit Amet」を軸にAI-generatedのアニメーションクリップを組み立て、ふだんは背景に置かれる言葉を曲の中心となるフックに変えている。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081596-lux1.jpg?itok=h4bgwguu",
-                "cap": "Lux Meridian."
+                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-03.jpg",
+                "cap": "多色のグラフィティ風パターンで埋められた大きなLorem Ipsumのレタリング"
               },
               {
                 "t": "p",
-                "x": "Territory Studioの共同創業者David Sheldon-HicksとNick Gloverは、2022年にTerritory Groupを設立した。Lux Meridianの創設チームは、Avatar、Spider-Man: Brand New Day、Duneなどのフランチャイズに携わった経験を持つ。"
+                "x": "ビジュアル言語も同じく力強い。彩度の高い黄、オレンジ、ピンク、グラフィティのようなマーク、特大のレタリング、イラストで描かれたパフォーマーが並ぶ。タイポグラフィは映像の一部となり、タイトルを埋め、唇を包み、ラッパーの手の金の指輪として現れる。提供されたフレームには明示的なAIマークが入っている。"
+              },
+              {
+                "t": "img",
+                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-05.jpg",
+                "cap": "カラフルなLorem Ipsumのタイポグラフィに覆われたイラストの唇"
               },
               {
                 "t": "p",
-                "x": "Lux MeridianはAI技術企業ではなく制作スタジオとして活動し、AI-nativeのワークフローと確立された映画制作の手法を組み合わせたオリジナルの映画・テレビコンテンツを開発、提供する。"
+                "x": "Chatelainはこのプロジェクトを一人で制作し、音楽、画像、アニメーションシーケンス、編集のすべてにAIを使った。制作ノートによれば、音楽にはSuno、ビジュアルスタイルとイラストにはMidjourney、アニメーションシーケンスにはSeedanceを用いた。ChatGPTはコンセプト、プロンプト、クリエイティブディレクションを支えた。"
+              },
+              {
+                "t": "img",
+                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-04.jpg",
+                "cap": "観客の前でパフォーマンスするイラストのラッパー"
               },
               {
                 "t": "p",
-                "x": "「見事な画像を生成することと、監督が胸を張れる映画を届けることは別物だ」とTerritory GroupのCEO、Sheldon-Hicksは語った。「私たちは数十年にわたるHollywoodの制作経験と新たなAI技術を組み合わせ、ストーリーテリングや品質、制作基準を損なうことなく、映画制作者により大きな創造の自由を提供する」"
-              },
-              {
-                "t": "p",
-                "x": "同スタジオはAdobeのFirefly Foundryとの協業も生かす。Firefly Foundryは、許諾を得た独自の創作素材からカスタムの生成AIモデルを構築する取り組みだ。映画制作者はこのモデルを使い、芸術的なコントロールを保ち知的財産を守りながら、オリジナルのキャラクターや環境、映画的な世界を開発する。"
-              },
-              {
-                "t": "p",
-                "x": "Lux MeridianはすでにAdobeとともに、Brad Peyton監督のDark Zoneでこの手法を試している。参照できる既存の学習素材がほとんどないオリジナル映画作品のために、独自のAIモデルを開発した。"
-              },
-              {
-                "t": "p",
-                "x": "発足にあたり、同スタジオは大手Hollywoodスタジオとの一年間にわたるコンテンツ協業に加え、実績あるHollywood監督たちとの開発パートナーシップを携えている。"
+                "x": "その結果、グラフィックレイアウトの言語がミュージックビデオの場に持ち込まれ、ダミーテキストに声と鮮やかなビジュアルアイデンティティが与えられた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Territory推出\nAI-native工作室",
-          "body": "Lux Meridian用Adobe Firefly Foundry制作长片、剧集和动画。",
-          "mini_headline": "Territory开设AI-native工作室",
+          "headline": "F&C ai Lab推出\nLorem Ipsum说唱",
+          "body": "F&C ai Lab用Suno、Midjourney和Seedance独自做出嘻哈视频。",
+          "mini_headline": "AI-made的Lorem Ipsum说唱",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "以F&C ai Lab之名创作的François Chatelain，为设计界熟悉的占位文本配上了专属的嘻哈视频。Lorem Ipsum Rap围绕“Lorem Ipsum / Dolor Sit Amet”打造了一段AI-generated动画短片，把通常隐于背景的文字变成了歌曲的核心副歌。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081596-lux1.jpg?itok=h4bgwguu",
-                "cap": "Lux Meridian."
+                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-03.jpg",
+                "cap": "填满多彩涂鸦风图案的巨大Lorem Ipsum字样"
               },
               {
                 "t": "p",
-                "x": "Territory Studio联合创始人David Sheldon-Hicks和Nick Glover于2022年成立了Territory Group。Lux Meridian的创始团队曾参与Avatar、Spider-Man: Brand New Day和Dune等系列作品。"
+                "x": "视觉语言同样鲜明：饱和的黄、橙、粉色，涂鸦般的笔触，超大字体与插画风格的表演者。字体排印成为画面的一部分：填满标题，缠绕在一双嘴唇上，又化作说唱歌手手上的金戒指。所提供的画面带有明确的AI标识。"
+              },
+              {
+                "t": "img",
+                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-05.jpg",
+                "cap": "覆盖着彩色Lorem Ipsum字体的插画嘴唇"
               },
               {
                 "t": "p",
-                "x": "Lux Meridian并非以AI技术公司的身份运营，而是一家制作工作室，开发和交付将AI-native工作流与成熟电影制作方式相结合的原创电影和电视内容。"
+                "x": "Chatelain独自完成了这个项目，在音乐、图像、动画片段和剪辑中全程使用AI。他的制作说明列出：音乐用Suno，视觉风格与插画用Midjourney，动画片段用Seedance。ChatGPT则协助完成概念、提示词和创意指导。"
+              },
+              {
+                "t": "img",
+                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-04.jpg",
+                "cap": "在人群前表演的插画说唱歌手"
               },
               {
                 "t": "p",
-                "x": "“生成一张惊艳的图像是一回事，交付一部导演愿意为之背书的电影是另一回事，”Territory Group CEO Sheldon-Hicks说，“我们将数十年的Hollywood制作经验与新兴AI技术相结合，在不牺牲叙事、质量或制作标准的前提下，给电影人更大的创作自由。”"
-              },
-              {
-                "t": "p",
-                "x": "该工作室还借助与Adobe的Firefly Foundry的合作。Firefly Foundry项目利用经授权的专有创意素材构建定制生成式AI模型。电影人用这些模型开发原创角色、场景和电影世界，同时保有艺术控制权并保护自己的知识产权。"
-              },
-              {
-                "t": "p",
-                "x": "Lux Meridian已与Adobe在Brad Peyton执导的Dark Zone上尝试这一方法，为一个几乎没有现成训练素材可用的原创电影项目开发专有AI模型。"
-              },
-              {
-                "t": "p",
-                "x": "成立之初，该工作室便带来与一家Hollywood大型制片厂为期一年的内容合作，以及与多位知名Hollywood导演的开发合作。"
+                "x": "最终作品把平面版式的语言带入音乐视频，让占位文字有了声音和鲜明的视觉身份。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Territory Group lanza el estudio\nAI-native Lux Meridian",
-          "body": "Lux Meridian hará largometrajes, series y películas animadas con flujos de trabajo AI-native y Adobe Firefly Foundry.",
-          "mini_headline": "Territory abre un estudio AI-native",
+          "headline": "F&C ai Lab lanza\nLorem Ipsum Rap",
+          "body": "F&C ai Lab, de François Chatelain, creó Lorem Ipsum Rap, un video de hip-hop con Suno, Midjourney y Seedance.",
+          "mini_headline": "Un rap Lorem Ipsum AI-made",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "François Chatelain, que trabaja como F&C ai Lab, da a un conocido texto de relleno del mundo del diseño su propio video de hip-hop. Lorem Ipsum Rap construye un clip animado AI-generated en torno a “Lorem Ipsum / Dolor Sit Amet”, y convierte palabras que suelen quedar en segundo plano en el gancho central de la canción."
+              },
+              {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081596-lux1.jpg?itok=h4bgwguu",
-                "cap": "Lux Meridian."
+                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-03.jpg",
+                "cap": "Grandes letras de Lorem Ipsum rellenas de patrones multicolores de estilo grafiti"
               },
               {
                 "t": "p",
-                "x": "Los cofundadores de Territory Studio, David Sheldon-Hicks y Nick Glover, crearon Territory Group en 2022. Los equipos fundadores de Lux Meridian aportan experiencia en franquicias como Avatar, Spider-Man: Brand New Day y Dune."
+                "x": "El lenguaje visual es igual de enfático: amarillo, naranja y rosa saturados, trazos similares al grafiti, letras de gran tamaño e intérpretes ilustrados. La tipografía se vuelve parte de la imagen: llena el título, envuelve unos labios y aparece como anillos de oro en las manos de un rapero. Los fotogramas facilitados llevan una marca explícita de AI."
+              },
+              {
+                "t": "img",
+                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-05.jpg",
+                "cap": "Labios ilustrados cubiertos de coloridas tipografías de Lorem Ipsum"
               },
               {
                 "t": "p",
-                "x": "En lugar de operar como una empresa de tecnología de IA, Lux Meridian funciona como un estudio de producción que desarrolla y entrega contenido original de cine y televisión, combinando flujos de trabajo AI-native con prácticas cinematográficas consolidadas."
+                "x": "Chatelain hizo el proyecto en solitario y usó AI en la música, las imágenes, las secuencias animadas y la edición. Sus notas de producción señalan Suno para la música, Midjourney para el estilo visual y las ilustraciones, y Seedance para las secuencias animadas. ChatGPT ayudó con el concepto, los prompts y la dirección creativa."
+              },
+              {
+                "t": "img",
+                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-04.jpg",
+                "cap": "Rapero ilustrado actuando ante el público"
               },
               {
                 "t": "p",
-                "x": "“Una cosa es generar una imagen impresionante y otra entregar una película que un director pueda respaldar”, dijo Sheldon-Hicks, CEO de Territory Group. “Combinamos décadas de experiencia de producción en Hollywood con tecnologías de IA emergentes para dar a los cineastas mayor libertad creativa sin comprometer la narrativa, la calidad ni los estándares de producción”."
-              },
-              {
-                "t": "p",
-                "x": "El estudio también aprovecha su colaboración con Firefly Foundry, de Adobe, una iniciativa que crea modelos personalizados de IA generativa a partir de material creativo propio y autorizado. Los cineastas usan los modelos para desarrollar personajes, entornos y mundos cinematográficos originales, manteniendo el control artístico y protegiendo su propiedad intelectual."
-              },
-              {
-                "t": "p",
-                "x": "Lux Meridian ya exploró ese enfoque con Adobe en Dark Zone, del director Brad Peyton, desarrollando modelos de IA propios para una propiedad cinematográfica original que apenas contaba con material de entrenamiento previo."
-              },
-              {
-                "t": "p",
-                "x": "En su lanzamiento, el estudio cuenta con una colaboración de contenidos de un año con un gran estudio de Hollywood, además de alianzas de desarrollo con directores consolidados de Hollywood."
+                "x": "El resultado lleva el lenguaje de las maquetas gráficas al terreno del videoclip y da al texto de relleno una voz y una identidad visual vívida."
               }
             ]
           }
@@ -1319,237 +1019,225 @@
       }
     },
     {
-      "id": "movies-koreeda-ai-notes",
+      "id": "movies-concept-art-awards-no-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Kore-eda, 각본에\nAI 조언 버렸다",
-      "body": "Kore-eda는 Sheep in the Box 각본의 AI 조언을 버렸다.",
-      "mini_headline": "Kore-eda, AI 각본 조언 거부",
+      "headline": "컨셉 아트 어워즈,\n블라인드 심사·AI 금지",
+      "body": "동료 작가가 심사하는 Concept Art Awards는 생성형 AI를 금한다.",
+      "mini_headline": "컨셉 아트상, AI 금지",
       "tool": "Movies",
-      "source": "Variety",
-      "url": "https://variety.com/2026/film/festivals/kore-eda-hirokazu-ditched-ai-notes-sheep-in-the-box-script-1236922183/",
+      "source": "AWN",
+      "url": "https://www.awn.com/animationworld/concept-art-awards-blind-judging-peers-and-no-ai-allowed",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "컨셉 아티스트를 위한 시상식은 없었다. 그래서 2019년 Rachel Meinerding과 Nicole Hendrix Herman이 직접 만들었다. Concept Art Awards는 10월 24일 토요일 LightBox Expo 기간에 Pasadena Civic Auditorium으로 돌아와 여덟 번째 시상식을 연다."
+          },
+          {
             "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/05/koreeda.jpg?w=1000&h=563&crop=1"
+            "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081575-lbx2025conceptartawards-635-1280.jpg?itok=eKbM3tM8",
+            "cap": "2025 Concept Art Awards."
           },
           {
             "t": "p",
-            "x": "Kore-eda Hirokazu는 AI-themed Cannes 출품작 “Sheep in the Box”의 각본을 생성형 AI 챗봇에 보여 줬다. 하지만 영화와 얽힌 개인적 경험이 전혀 없는 존재의 조언은 자신에게 쓸모없다고 판단하고 챗봇과 결별했다."
+            "x": "올해 Lifetime Achievement Awards(공로상)는 Final Fantasy 디자이너 Yoshitaka Amano와, Sleeping Beauty의 컬러 스타일리스트였던 Disney Legend Eyvind Earle(사후 수상)에게 돌아간다. 이들은 심사위원과 회원에게서 가장 많은 표를 받았다."
           },
           {
             "t": "p",
-            "x": "가까운 미래가 배경인 이 영화는 두 해 전 7살 아들을 잃은 뒤 아들의 데이터로 만든 휴머노이드 로봇을 집에 들인 부부의 이야기다."
+            "x": "생성형 AI 작품은 전면 금지다. 이를 걸러내는 일은 “자격 심사 과정의 깊은 일부”다. 심사는 Award Force 플랫폼에서 블라인드로 이뤄지고 심사위원은 현업 아티스트, 대개 전년도 수상자가 맡는다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/1027931-forest-lawn-museum-presenting-eyvind-earle-exhibition_0.jpg?itok=VMga2DtX",
+            "cap": "Disney 'Sleeping Beauty'(1959) 컨셉 아트. 이미지 제공 Forest Lawn Museum."
           },
           {
             "t": "p",
-            "x": "“칭찬을 많이 해 줬습니다. 칭찬이 한참 이어지다가 ‘다만 주인공의 어머니를 조금 더 구체적으로 그리면 더 좋은 영화가 될 것’ 같은 말을 하더군요. 그 말은 옳았습니다.” Kore-eda는 Variety에 이렇게 말했다. “하지만 늘 옳은 말만 합니다. 그래서 무엇이 이렇게 지루하게 만드는지 궁금해졌습니다.”"
-          },
-          {
-            "t": "p",
-            "x": "“본 영화가 아무리 적고 취향이 아무리 치우쳤더라도, 인생을 바꾼 영화가 있는 사람의 의견이 결국 더 흥미로운 작품으로 이어집니다.” Kore-eda의 말이다. “몇 차례 주고받으며 그렇게 확신했고, 그래서 우리 관계를 거기서 끝냈습니다.”"
-          },
-          {
-            "t": "p",
-            "x": "그는 이 영화에 AI를 쓰지 않았다. “그래야 해서가 아닙니다. 그게 재미있기 때문입니다.” 그는 이렇게 말했다. “마찬가지로 무언가를 만드는 행위는 즐겁습니다. 저는 인간 쪽에 서고 싶습니다. 그래서 가능한 한 작업 과정에서 AI를 배제하려 합니다.”"
-          },
-          {
-            "t": "p",
-            "x": "Kore-eda는 미니시어터라 불리는 일본 독립 예술영화관이 잇따라 문을 닫는 현실도 짚었다. “그런 곳이 사라지면 다음 세대 영화인은 어떻게 성장할까요?”"
+            "x": "Meinerding은 컨셉 아티스트가 맞닥뜨린 가장 큰 과제는 고용이고 아웃소싱과 함께 생성형 AI도 그 일부라고 말했다. 협회는 2022년부터 2024년까지 아티스트와 노조를 Washington, D.C.로 데려가 AI에서 개인 아티스트를 지킬 장치를 마련하라고 촉구했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Kore-eda drops AI notes\non his Sheep in the Box script",
-          "body": "Kore-eda Hirokazu dropped AI script notes on Sheep in the Box, saying he would like to stand on the human side.",
-          "mini_headline": "Kore-eda drops AI script notes",
+          "headline": "Concept Art Awards\njudged blind, no AI allowed",
+          "body": "The peer-judged Concept Art Awards bar generative AI and honor Yoshitaka Amano and Eyvind Earle this year.",
+          "mini_headline": "Concept art awards bar AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Concept artists had no awards show of their own, so in 2019 Rachel Meinerding and Nicole Hendrix Herman started one. On Saturday, October 24, the Concept Art Awards return to the Pasadena Civic Auditorium for their eighth edition during LightBox Expo."
+              },
+              {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/05/koreeda.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081575-lbx2025conceptartawards-635-1280.jpg?itok=eKbM3tM8",
+                "cap": "2025 Concept Art Awards."
               },
               {
                 "t": "p",
-                "x": "Kore-eda Hirokazu ran the screenplay for his AI-themed Cannes title “Sheep in the Box” past a generative AI chatbot, then cut it loose after concluding that notes from something with no personal history with cinema were of no use to him."
+                "x": "This year's Lifetime Achievement Awards go to Final Fantasy designer Yoshitaka Amano and, posthumously, Disney Legend Eyvind Earle, the color stylist behind Sleeping Beauty. They drew the most votes from judges and members."
               },
               {
                 "t": "p",
-                "x": "Set in the near future, the film follows a couple whose 7-year-old son died two years earlier and take in a humanoid robot built from his data."
+                "x": "Generative AI work is barred outright, and screening for it is “a deep part of our qualifying process.” Judging is blind, on the Award Force platform, and the judges are working artists, often the previous year's winners."
+              },
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/1027931-forest-lawn-museum-presenting-eyvind-earle-exhibition_0.jpg?itok=VMga2DtX",
+                "cap": "Concept art for Disney's 'Sleeping Beauty' (1959). Image courtesy of Forest Lawn Museum."
               },
               {
                 "t": "p",
-                "x": "“It praised me a lot. Lots of praise, and then something like, ‘However, if you fleshed out the protagonist’s mother a little more, it would be a better film.’ What it said was correct,” Kore-eda tells Variety. “But it only ever says correct things. And I wondered what it was that made this so boring.”"
-              },
-              {
-                "t": "p",
-                "x": "“However few films a person has seen, however skewed their taste, the opinion of someone who has a film that changed their life will lead to more interesting work in the end,” Kore-eda says. “After a few rounds I became convinced of that, so I ended our relationship there.”"
-              },
-              {
-                "t": "p",
-                "x": "He did not use AI on the film. “That’s not because we should. It’s because it’s fun,” he says. “In the same way, the act of making things is fun. I’d like to stand on the human side. So I intend to keep AI out of the process as much as possible.”"
-              },
-              {
-                "t": "p",
-                "x": "Kore-eda also notes that Japan’s independent arthouse cinemas, known as mini-theaters, have been closing one after another. “When those disappear, how will the next filmmakers develop?”"
+                "x": "Meinerding said the biggest challenge for concept artists is employment, with generative AI part of it alongside outsourcing. Between 2022 and 2024, the association brought artists and unions to Washington, D.C., to push for protections for individual artists against AI."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Kore-eda, 각본에\nAI 조언 버렸다",
-          "body": "Kore-eda는 Sheep in the Box 각본의 AI 조언을 버렸다.",
-          "mini_headline": "Kore-eda, AI 각본 조언 거부",
+          "headline": "컨셉 아트 어워즈,\n블라인드 심사·AI 금지",
+          "body": "동료 작가가 심사하는 Concept Art Awards는 생성형 AI를 금한다.",
+          "mini_headline": "컨셉 아트상, AI 금지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "컨셉 아티스트를 위한 시상식은 없었다. 그래서 2019년 Rachel Meinerding과 Nicole Hendrix Herman이 직접 만들었다. Concept Art Awards는 10월 24일 토요일 LightBox Expo 기간에 Pasadena Civic Auditorium으로 돌아와 여덟 번째 시상식을 연다."
+              },
+              {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/05/koreeda.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081575-lbx2025conceptartawards-635-1280.jpg?itok=eKbM3tM8",
+                "cap": "2025 Concept Art Awards."
               },
               {
                 "t": "p",
-                "x": "Kore-eda Hirokazu는 AI-themed Cannes 출품작 “Sheep in the Box”의 각본을 생성형 AI 챗봇에 보여 줬다. 하지만 영화와 얽힌 개인적 경험이 전혀 없는 존재의 조언은 자신에게 쓸모없다고 판단하고 챗봇과 결별했다."
+                "x": "올해 Lifetime Achievement Awards(공로상)는 Final Fantasy 디자이너 Yoshitaka Amano와, Sleeping Beauty의 컬러 스타일리스트였던 Disney Legend Eyvind Earle(사후 수상)에게 돌아간다. 이들은 심사위원과 회원에게서 가장 많은 표를 받았다."
               },
               {
                 "t": "p",
-                "x": "가까운 미래가 배경인 이 영화는 두 해 전 7살 아들을 잃은 뒤 아들의 데이터로 만든 휴머노이드 로봇을 집에 들인 부부의 이야기다."
+                "x": "생성형 AI 작품은 전면 금지다. 이를 걸러내는 일은 “자격 심사 과정의 깊은 일부”다. 심사는 Award Force 플랫폼에서 블라인드로 이뤄지고 심사위원은 현업 아티스트, 대개 전년도 수상자가 맡는다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/1027931-forest-lawn-museum-presenting-eyvind-earle-exhibition_0.jpg?itok=VMga2DtX",
+                "cap": "Disney 'Sleeping Beauty'(1959) 컨셉 아트. 이미지 제공 Forest Lawn Museum."
               },
               {
                 "t": "p",
-                "x": "“칭찬을 많이 해 줬습니다. 칭찬이 한참 이어지다가 ‘다만 주인공의 어머니를 조금 더 구체적으로 그리면 더 좋은 영화가 될 것’ 같은 말을 하더군요. 그 말은 옳았습니다.” Kore-eda는 Variety에 이렇게 말했다. “하지만 늘 옳은 말만 합니다. 그래서 무엇이 이렇게 지루하게 만드는지 궁금해졌습니다.”"
-              },
-              {
-                "t": "p",
-                "x": "“본 영화가 아무리 적고 취향이 아무리 치우쳤더라도, 인생을 바꾼 영화가 있는 사람의 의견이 결국 더 흥미로운 작품으로 이어집니다.” Kore-eda의 말이다. “몇 차례 주고받으며 그렇게 확신했고, 그래서 우리 관계를 거기서 끝냈습니다.”"
-              },
-              {
-                "t": "p",
-                "x": "그는 이 영화에 AI를 쓰지 않았다. “그래야 해서가 아닙니다. 그게 재미있기 때문입니다.” 그는 이렇게 말했다. “마찬가지로 무언가를 만드는 행위는 즐겁습니다. 저는 인간 쪽에 서고 싶습니다. 그래서 가능한 한 작업 과정에서 AI를 배제하려 합니다.”"
-              },
-              {
-                "t": "p",
-                "x": "Kore-eda는 미니시어터라 불리는 일본 독립 예술영화관이 잇따라 문을 닫는 현실도 짚었다. “그런 곳이 사라지면 다음 세대 영화인은 어떻게 성장할까요?”"
+                "x": "Meinerding은 컨셉 아티스트가 맞닥뜨린 가장 큰 과제는 고용이고 아웃소싱과 함께 생성형 AI도 그 일부라고 말했다. 협회는 2022년부터 2024년까지 아티스트와 노조를 Washington, D.C.로 데려가 AI에서 개인 아티스트를 지킬 장치를 마련하라고 촉구했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Kore-edaが脚本の\nAI助言を退ける",
-          "body": "Kore-edaはSheep in the BoxのAI助言を退け、人間側に立ちたいと言う。",
-          "mini_headline": "Kore-edaがAIの脚本助言を退ける",
+          "headline": "コンセプトアート賞は\nブラインド審査、AI禁止",
+          "body": "同業者が審査するConcept Art Awardsは生成AIを禁じている。",
+          "mini_headline": "コンセプトアート賞がAIを排除",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "コンセプトアーティストには自分たちの賞がなかった。そこで2019年、Rachel MeinerdingとNicole Hendrix Hermanが賞を立ち上げた。Concept Art Awardsは10月24日(土)、LightBox Expoの会期中にPasadena Civic Auditoriumへ戻り、第八回を迎える。"
+              },
+              {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/05/koreeda.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081575-lbx2025conceptartawards-635-1280.jpg?itok=eKbM3tM8",
+                "cap": "2025 Concept Art Awards。"
               },
               {
                 "t": "p",
-                "x": "Kore-eda Hirokazuは、AI-themedのCannes出品作「Sheep in the Box」の脚本を生成AIチャットボットに読ませたが、映画との個人的な歩みを持たない存在からの助言は自分の役に立たないと結論づけ、手を切った。"
+                "x": "今年のLifetime Achievement Awards(功労賞)は、Final FantasyのデザイナーYoshitaka Amanoと、Sleeping Beautyのカラースタイリストで故人のDisney Legend、Eyvind Earleに贈られる。両者は審査員と会員から最も多くの票を集めた。"
               },
               {
                 "t": "p",
-                "x": "近未来を舞台にした本作は、二年前に7歳の息子を亡くした夫婦が、息子のデータから作られた人型ロボットを迎え入れる姿を描く。"
+                "x": "生成AIによる作品は一切認められず、その審査は「私たちの資格審査プロセスの奥深い一部」だという。審査はAward Forceプラットフォーム上でブラインド方式で行われ、審査員は現役のアーティストで、多くは前年の受賞者だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/1027931-forest-lawn-museum-presenting-eyvind-earle-exhibition_0.jpg?itok=VMga2DtX",
+                "cap": "Disneyの'Sleeping Beauty'(1959)のコンセプトアート。画像提供:Forest Lawn Museum。"
               },
               {
                 "t": "p",
-                "x": "「とても褒めてくれた。たくさん褒めたあとで、『ただし、主人公の母親をもう少し掘り下げれば、より良い映画になるだろう』といったことを言う。言っていることは正しい」とKore-edaはVarietyに語る。「でも、正しいことしか言わない。何がこんなに退屈にさせるのだろうと考えた」"
-              },
-              {
-                "t": "p",
-                "x": "「見た映画がどれほど少なくても、好みがどれほど偏っていても、人生を変えた映画を持つ人の意見のほうが、最終的にはより面白い作品につながる」とKore-edaは言う。「何度かやり取りするうちにそう確信したので、そこで関係を終わらせた」"
-              },
-              {
-                "t": "p",
-                "x": "彼はこの映画でAIを使わなかった。「そうすべきだからではない。楽しいからだ」と彼は言う。「同じように、ものを作る行為は楽しい。私は人間の側に立ちたい。だから、できる限り制作過程からAIを排除するつもりだ」"
-              },
-              {
-                "t": "p",
-                "x": "Kore-edaはまた、ミニシアターと呼ばれる日本の独立系アートハウス映画館が次々と閉館していることにも触れた。「それがなくなったら、次の映画作家はどうやって育つのか」"
+                "x": "Meinerdingは、コンセプトアーティストにとって最大の課題は雇用であり、アウトソーシングと並んで生成AIもその一因だと語った。協会は2022年から2024年にかけてアーティストや労働組合をWashington, D.C.に連れて行き、AIから個々のアーティストを守る措置を求めた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Kore-eda弃用\nAI剧本意见",
-          "body": "Kore-eda弃用AI对Sheep in the Box的意见，称愿站在人类一边。",
-          "mini_headline": "Kore-eda弃用AI剧本意见",
+          "headline": "概念艺术大奖\n盲审且禁用AI",
+          "body": "由同行评审的Concept Art Awards明令禁止生成式AI作品。",
+          "mini_headline": "概念艺术奖拒绝AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "概念艺术家过去没有属于自己的颁奖礼，于是Rachel Meinerding和Nicole Hendrix Herman在2019年创办了一个。10月24日星期六，Concept Art Awards将在LightBox Expo期间重返Pasadena Civic Auditorium，迎来第八届。"
+              },
+              {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/05/koreeda.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081575-lbx2025conceptartawards-635-1280.jpg?itok=eKbM3tM8",
+                "cap": "2025 Concept Art Awards。"
               },
               {
                 "t": "p",
-                "x": "Kore-eda Hirokazu曾把自己的AI-themed Cannes参展片《Sheep in the Box》的剧本交给一个生成式AI聊天机器人审阅，但他认定，一个与电影没有任何个人渊源的东西给出的意见对他毫无用处，于是放弃了它。"
+                "x": "今年的Lifetime Achievement Awards（终身成就奖）授予Final Fantasy设计师Yoshitaka Amano，以及已故的Disney Legend、《Sleeping Beauty》色彩设计师Eyvind Earle。他们获得了评委和会员的最多票数。"
               },
               {
                 "t": "p",
-                "x": "影片设定在不久的将来，讲述一对夫妇在7岁儿子两年前去世后，收养了一个用儿子数据打造的人形机器人。"
+                "x": "生成式AI作品被一律禁止，相关筛查是“我们资格审核流程中很深的一环”。评审在Award Force平台上以盲审方式进行，评委都是在职艺术家，往往是上一年的获奖者。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/1027931-forest-lawn-museum-presenting-eyvind-earle-exhibition_0.jpg?itok=VMga2DtX",
+                "cap": "Disney《Sleeping Beauty》（1959）的概念艺术。图片由Forest Lawn Museum提供。"
               },
               {
                 "t": "p",
-                "x": "“它夸了我很多。夸了一大堆，然后说类似‘不过，如果把主角的母亲再写得丰满一点，会是一部更好的电影’这样的话。它说得没错，”Kore-eda对Variety说，“但它永远只说正确的话。我想知道，究竟是什么让这一切如此无聊。”"
-              },
-              {
-                "t": "p",
-                "x": "“一个人看过的电影再少，口味再偏，只要他有一部改变了自己人生的电影，他的意见最终会带来更有趣的作品，”Kore-eda说，“几轮下来，我对此深信不疑，于是就此结束了我们的关系。”"
-              },
-              {
-                "t": "p",
-                "x": "他在这部电影中没有使用AI。“不是因为我们应该这样做，而是因为这样有趣，”他说，“同样，创作这件事本身就是有趣的。我想站在人类这一边。所以我打算尽可能不让AI进入创作过程。”"
-              },
-              {
-                "t": "p",
-                "x": "Kore-eda还指出，日本被称为“迷你影院”的独立艺术影院正接连关闭。“这些影院消失后，下一代电影人要如何成长？”"
+                "x": "Meinerding表示，概念艺术家面临的最大挑战是就业，生成式AI与外包都是其中的因素。2022年至2024年间，该协会带领艺术家和工会前往Washington, D.C.，推动保护个体艺术家免受AI冲击。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Kore-eda descarta notas de IA\nen su guion Sheep in the Box",
-          "body": "Kore-eda Hirokazu descartó las notas de IA sobre Sheep in the Box y dijo que le gustaría estar del lado humano.",
-          "mini_headline": "Kore-eda descarta las notas de IA para su guion",
+          "headline": "Concept Art Awards:\njurado a ciegas y sin AI",
+          "body": "Los Concept Art Awards, juzgados por colegas, vetan la AI generativa y honran a Yoshitaka Amano y Eyvind Earle.",
+          "mini_headline": "Los premios de concept art vetan la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Los artistas conceptuales no tenían una gala de premios propia, así que en 2019 Rachel Meinerding y Nicole Hendrix Herman crearon una. El sábado 24 de octubre, los Concept Art Awards regresan al Pasadena Civic Auditorium para su octava edición durante LightBox Expo."
+              },
+              {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/05/koreeda.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081575-lbx2025conceptartawards-635-1280.jpg?itok=eKbM3tM8",
+                "cap": "2025 Concept Art Awards."
               },
               {
                 "t": "p",
-                "x": "Kore-eda Hirokazu sometió a un chatbot de IA generativa el guion de “Sheep in the Box”, su película AI-themed presentada en Cannes, y luego lo dejó de lado al concluir que las notas de algo sin historia personal con el cine no le servían de nada."
+                "x": "Los Lifetime Achievement Awards de este año son para el diseñador de Final Fantasy Yoshitaka Amano y, a título póstumo, para el Disney Legend Eyvind Earle, estilista de color de Sleeping Beauty. Ambos fueron los más votados por jueces y miembros."
               },
               {
                 "t": "p",
-                "x": "Ambientada en un futuro cercano, la película sigue a una pareja cuyo hijo de 7 años murió dos años antes y que acoge a un robot humanoide construido a partir de sus datos."
+                "x": "Las obras con AI generativa están prohibidas de plano, y detectarlas es “una parte profunda de nuestro proceso de calificación”. El jurado evalúa a ciegas en la plataforma Award Force, y los jueces son artistas en activo, a menudo los ganadores del año anterior."
+              },
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/1027931-forest-lawn-museum-presenting-eyvind-earle-exhibition_0.jpg?itok=VMga2DtX",
+                "cap": "Arte conceptual para 'Sleeping Beauty' (1959) de Disney. Imagen cortesía de Forest Lawn Museum."
               },
               {
                 "t": "p",
-                "x": "“Me elogió mucho. Muchos elogios, y luego algo como: ‘Sin embargo, si desarrollaras un poco más a la madre del protagonista, sería una película mejor’. Lo que decía era correcto”, cuenta Kore-eda a Variety. “Pero solo dice cosas correctas. Y me pregunté qué era lo que hacía que esto fuera tan aburrido”."
-              },
-              {
-                "t": "p",
-                "x": "“Por pocas películas que haya visto una persona, por sesgado que sea su gusto, la opinión de alguien que tiene una película que le cambió la vida conducirá al final a un trabajo más interesante”, dice Kore-eda. “Tras unas cuantas rondas me convencí de ello, así que terminé nuestra relación ahí”."
-              },
-              {
-                "t": "p",
-                "x": "No usó IA en la película. “No es porque debamos. Es porque es divertido”, dice. “Del mismo modo, el acto de hacer cosas es divertido. Me gustaría estar del lado humano. Así que pretendo mantener la IA fuera del proceso tanto como sea posible”."
-              },
-              {
-                "t": "p",
-                "x": "Kore-eda también señala que los cines independientes de autor de Japón, conocidos como mini-theaters, han ido cerrando uno tras otro. “Cuando desaparezcan, ¿cómo se formarán los próximos cineastas?”"
+                "x": "Meinerding dijo que el mayor desafío para los artistas conceptuales es el empleo, y que la AI generativa forma parte de ello junto con la subcontratación. Entre 2022 y 2024, la asociación llevó a artistas y sindicatos a Washington, D.C., para impulsar protecciones para los artistas individuales frente a la AI."
               }
             ]
           }
@@ -1557,515 +1245,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Kore-eda, 각본에\nAI 조언 버렸다",
-          "body": "Kore-eda는 Sheep in the Box 각본의 AI 조언을 버렸다.",
-          "mini_headline": "Kore-eda, AI 각본 조언 거부",
+          "headline": "컨셉 아트 어워즈,\n블라인드 심사·AI 금지",
+          "body": "동료 작가가 심사하는 Concept Art Awards는 생성형 AI를 금한다.",
+          "mini_headline": "컨셉 아트상, AI 금지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "컨셉 아티스트에게는 자신들만의 시상식이 없었다. 그래서 2019년 Rachel Meinerding과 Nicole Hendrix Herman이 시상식을 만들었다. Concept Art Awards는 10월 24일 토요일 LightBox Expo 기간에 Pasadena Civic Auditorium으로 돌아와 여덟 번째 시상식을 연다."
+              },
+              {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/05/koreeda.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081575-lbx2025conceptartawards-635-1280.jpg?itok=eKbM3tM8",
+                "cap": "2025 Concept Art Awards."
               },
               {
                 "t": "p",
-                "x": "Kore-eda Hirokazu는 AI-themed Cannes 출품작 “Sheep in the Box”의 각본을 생성형 AI 챗봇에 보여 줬다. 그러나 영화와 얽힌 개인적 경험이 전혀 없는 존재의 조언은 자신에게 쓸모없다고 결론 내리고 챗봇과 결별했다."
+                "x": "올해 Lifetime Achievement Awards(공로상)는 Final Fantasy 디자이너 Yoshitaka Amano와, Sleeping Beauty의 컬러 스타일리스트였던 Disney Legend Eyvind Earle(사후 수상)에게 돌아간다. 이들은 심사위원과 회원에게서 가장 많은 표를 받았다."
               },
               {
                 "t": "p",
-                "x": "가까운 미래를 배경으로 한 이 영화는 두 해 전 7살 아들을 잃고, 아들의 데이터로 만든 휴머노이드 로봇을 집에 들인 부부를 따라간다."
+                "x": "생성형 AI 작품은 전면 금지되며, 이를 걸러내는 일은 “자격 심사 과정의 깊은 일부”다. 심사는 Award Force 플랫폼에서 블라인드로 진행되고, 심사위원은 현업 아티스트로 대개 전년도 수상자다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/1027931-forest-lawn-museum-presenting-eyvind-earle-exhibition_0.jpg?itok=VMga2DtX",
+                "cap": "Disney 'Sleeping Beauty'(1959) 컨셉 아트. 이미지 제공 Forest Lawn Museum."
               },
               {
                 "t": "p",
-                "x": "“칭찬을 많이 해 줬습니다. 칭찬이 한참 이어지다가 ‘다만 주인공의 어머니를 조금 더 구체적으로 그리면 더 좋은 영화가 될 것’ 같은 말을 하더군요. 그 말은 옳았습니다.” Kore-eda는 Variety에 이렇게 말했다. “하지만 늘 옳은 말만 합니다. 그래서 무엇이 이렇게 지루하게 만드는지 궁금해졌습니다.”"
-              },
-              {
-                "t": "p",
-                "x": "“본 영화가 아무리 적고 취향이 아무리 치우쳤더라도, 인생을 바꾼 영화가 있는 사람의 의견이 결국 더 흥미로운 작품으로 이어집니다.” Kore-eda의 말이다. “몇 차례 주고받으며 그렇게 확신했고, 그래서 우리 관계를 거기서 끝냈습니다.”"
-              },
-              {
-                "t": "p",
-                "x": "그는 이 영화에 AI를 쓰지 않았다. “그래야 해서가 아닙니다. 그게 재미있기 때문입니다.” 그는 이렇게 말했다. “마찬가지로 무언가를 만드는 행위는 즐겁습니다. 저는 인간 쪽에 서고 싶습니다. 그래서 가능한 한 작업 과정에서 AI를 배제하려 합니다.”"
-              },
-              {
-                "t": "p",
-                "x": "Kore-eda는 미니시어터로 불리는 일본의 독립 예술영화관이 잇따라 문을 닫고 있다는 점도 짚었다. “그런 곳이 사라지면 다음 세대 영화인은 어떻게 성장할까요?”"
+                "x": "Meinerding은 컨셉 아티스트가 맞닥뜨린 가장 큰 과제가 고용이며, 아웃소싱과 함께 생성형 AI도 그 일부라고 말했다. 협회는 2022년부터 2024년까지 아티스트와 노조를 Washington, D.C.로 데려가 AI로부터 개인 아티스트를 보호하는 장치를 촉구했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Kore-edaが脚本の\nAI助言を退ける",
-          "body": "Kore-edaはSheep in the BoxのAI助言を退け、人間側に立ちたいと言う。",
-          "mini_headline": "Kore-edaがAIの脚本助言を退ける",
+          "headline": "コンセプトアート賞は\nブラインド審査、AI禁止",
+          "body": "同業者が審査するConcept Art Awardsは生成AIを禁じている。",
+          "mini_headline": "コンセプトアート賞がAIを排除",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "コンセプトアーティストには自分たちの賞がなかった。そこで2019年、Rachel MeinerdingとNicole Hendrix Hermanが賞を立ち上げた。Concept Art Awardsは10月24日(土)、LightBox Expoの会期中にPasadena Civic Auditoriumへ戻り、第八回を迎える。"
+              },
+              {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/05/koreeda.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081575-lbx2025conceptartawards-635-1280.jpg?itok=eKbM3tM8",
+                "cap": "2025 Concept Art Awards。"
               },
               {
                 "t": "p",
-                "x": "Kore-eda Hirokazuは、AI-themedのCannes出品作「Sheep in the Box」の脚本を生成AIチャットボットに読ませたが、映画との個人的な歩みを持たない存在からの助言は自分の役に立たないと結論づけ、手を切った。"
+                "x": "今年のLifetime Achievement Awards(功労賞)は、Final FantasyのデザイナーYoshitaka Amanoと、Sleeping Beautyのカラースタイリストで故人のDisney Legend、Eyvind Earleに贈られる。両者は審査員と会員から最も多くの票を集めた。"
               },
               {
                 "t": "p",
-                "x": "近未来を舞台にした本作は、二年前に7歳の息子を亡くした夫婦が、息子のデータから作られた人型ロボットを迎え入れる姿を描く。"
+                "x": "生成AIによる作品は一切認められず、その審査は「私たちの資格審査プロセスの奥深い一部」だという。審査はAward Forceプラットフォーム上でブラインド方式で行われ、審査員は現役のアーティストで、多くは前年の受賞者だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/1027931-forest-lawn-museum-presenting-eyvind-earle-exhibition_0.jpg?itok=VMga2DtX",
+                "cap": "Disneyの'Sleeping Beauty'(1959)のコンセプトアート。画像提供:Forest Lawn Museum。"
               },
               {
                 "t": "p",
-                "x": "「とても褒めてくれた。たくさん褒めたあとで、『ただし、主人公の母親をもう少し掘り下げれば、より良い映画になるだろう』といったことを言う。言っていることは正しい」とKore-edaはVarietyに語る。「でも、正しいことしか言わない。何がこんなに退屈にさせるのだろうと考えた」"
-              },
-              {
-                "t": "p",
-                "x": "「見た映画がどれほど少なくても、好みがどれほど偏っていても、人生を変えた映画を持つ人の意見のほうが、最終的にはより面白い作品につながる」とKore-edaは言う。「何度かやり取りするうちにそう確信したので、そこで関係を終わらせた」"
-              },
-              {
-                "t": "p",
-                "x": "彼はこの映画でAIを使わなかった。「そうすべきだからではない。楽しいからだ」と彼は言う。「同じように、ものを作る行為は楽しい。私は人間の側に立ちたい。だから、できる限り制作過程からAIを排除するつもりだ」"
-              },
-              {
-                "t": "p",
-                "x": "Kore-edaはまた、ミニシアターと呼ばれる日本の独立系アートハウス映画館が次々と閉館していることにも触れた。「それがなくなったら、次の映画作家はどうやって育つのか」"
+                "x": "Meinerdingは、コンセプトアーティストにとって最大の課題は雇用であり、アウトソーシングと並んで生成AIもその一因だと語った。協会は2022年から2024年にかけてアーティストや労働組合をWashington, D.C.に連れて行き、AIから個々のアーティストを守る措置を求めた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Kore-eda弃用\nAI剧本意见",
-          "body": "Kore-eda弃用AI对Sheep in the Box的意见，称愿站在人类一边。",
-          "mini_headline": "Kore-eda弃用AI剧本意见",
+          "headline": "概念艺术大奖\n盲审且禁用AI",
+          "body": "由同行评审的Concept Art Awards明令禁止生成式AI作品。",
+          "mini_headline": "概念艺术奖拒绝AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "概念艺术家过去没有属于自己的颁奖礼，于是Rachel Meinerding和Nicole Hendrix Herman在2019年创办了一个。10月24日星期六，Concept Art Awards将在LightBox Expo期间重返Pasadena Civic Auditorium，迎来第八届。"
+              },
+              {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/05/koreeda.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081575-lbx2025conceptartawards-635-1280.jpg?itok=eKbM3tM8",
+                "cap": "2025 Concept Art Awards。"
               },
               {
                 "t": "p",
-                "x": "Kore-eda Hirokazu曾把自己的AI-themed Cannes参展片《Sheep in the Box》的剧本交给一个生成式AI聊天机器人审阅，但他认定，一个与电影没有任何个人渊源的东西给出的意见对他毫无用处，于是放弃了它。"
+                "x": "今年的Lifetime Achievement Awards（终身成就奖）授予Final Fantasy设计师Yoshitaka Amano，以及已故的Disney Legend、《Sleeping Beauty》色彩设计师Eyvind Earle。他们获得了评委和会员的最多票数。"
               },
               {
                 "t": "p",
-                "x": "影片设定在不久的将来，讲述一对夫妇在7岁儿子两年前去世后，收养了一个用儿子数据打造的人形机器人。"
+                "x": "生成式AI作品被一律禁止，相关筛查是“我们资格审核流程中很深的一环”。评审在Award Force平台上以盲审方式进行，评委都是在职艺术家，往往是上一年的获奖者。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/1027931-forest-lawn-museum-presenting-eyvind-earle-exhibition_0.jpg?itok=VMga2DtX",
+                "cap": "Disney《Sleeping Beauty》（1959）的概念艺术。图片由Forest Lawn Museum提供。"
               },
               {
                 "t": "p",
-                "x": "“它夸了我很多。夸了一大堆，然后说类似‘不过，如果把主角的母亲再写得丰满一点，会是一部更好的电影’这样的话。它说得没错，”Kore-eda对Variety说，“但它永远只说正确的话。我想知道，究竟是什么让这一切如此无聊。”"
-              },
-              {
-                "t": "p",
-                "x": "“一个人看过的电影再少，口味再偏，只要他有一部改变了自己人生的电影，他的意见最终会带来更有趣的作品，”Kore-eda说，“几轮下来，我对此深信不疑，于是就此结束了我们的关系。”"
-              },
-              {
-                "t": "p",
-                "x": "他在这部电影中没有使用AI。“不是因为我们应该这样做，而是因为这样有趣，”他说，“同样，创作这件事本身就是有趣的。我想站在人类这一边。所以我打算尽可能不让AI进入创作过程。”"
-              },
-              {
-                "t": "p",
-                "x": "Kore-eda还指出，日本被称为“迷你影院”的独立艺术影院正接连关闭。“这些影院消失后，下一代电影人要如何成长？”"
+                "x": "Meinerding表示，概念艺术家面临的最大挑战是就业，生成式AI与外包都是其中的因素。2022年至2024年间，该协会带领艺术家和工会前往Washington, D.C.，推动保护个体艺术家免受AI冲击。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Kore-eda descarta notas de IA\nen su guion Sheep in the Box",
-          "body": "Kore-eda Hirokazu descartó las notas de IA sobre Sheep in the Box y dijo que le gustaría estar del lado humano.",
-          "mini_headline": "Kore-eda descarta las notas de IA para su guion",
+          "headline": "Concept Art Awards:\njurado a ciegas y sin AI",
+          "body": "Los Concept Art Awards, juzgados por colegas, vetan la AI generativa y honran a Yoshitaka Amano y Eyvind Earle.",
+          "mini_headline": "Los premios de concept art vetan la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/05/koreeda.jpg?w=1000&h=563&crop=1"
-              },
-              {
                 "t": "p",
-                "x": "Kore-eda Hirokazu sometió a un chatbot de IA generativa el guion de “Sheep in the Box”, su película AI-themed presentada en Cannes, y luego lo dejó de lado al concluir que las notas de algo sin historia personal con el cine no le servían de nada."
+                "x": "Los artistas conceptuales no tenían una gala de premios propia, así que en 2019 Rachel Meinerding y Nicole Hendrix Herman crearon una. El sábado 24 de octubre, los Concept Art Awards regresan al Pasadena Civic Auditorium para su octava edición durante LightBox Expo."
               },
-              {
-                "t": "p",
-                "x": "Ambientada en un futuro cercano, la película sigue a una pareja cuyo hijo de 7 años murió dos años antes y que acoge a un robot humanoide construido a partir de sus datos."
-              },
-              {
-                "t": "p",
-                "x": "“Me elogió mucho. Muchos elogios, y luego algo como: ‘Sin embargo, si desarrollaras un poco más a la madre del protagonista, sería una película mejor’. Lo que decía era correcto”, cuenta Kore-eda a Variety. “Pero solo dice cosas correctas. Y me pregunté qué era lo que hacía que esto fuera tan aburrido”."
-              },
-              {
-                "t": "p",
-                "x": "“Por pocas películas que haya visto una persona, por sesgado que sea su gusto, la opinión de alguien que tiene una película que le cambió la vida conducirá al final a un trabajo más interesante”, dice Kore-eda. “Tras unas cuantas rondas me convencí de ello, así que terminé nuestra relación ahí”."
-              },
-              {
-                "t": "p",
-                "x": "No usó IA en la película. “No es porque debamos. Es porque es divertido”, dice. “Del mismo modo, el acto de hacer cosas es divertido. Me gustaría estar del lado humano. Así que pretendo mantener la IA fuera del proceso tanto como sea posible”."
-              },
-              {
-                "t": "p",
-                "x": "Kore-eda también señala que los cines independientes de autor de Japón, conocidos como mini-theaters, han ido cerrando uno tras otro. “Cuando desaparezcan, ¿cómo se formarán los próximos cineastas?”"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "movies-genz-ai-study",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Gen Z는 AI에 비관\nGen Alpha는 다르다",
-      "body": "젊은 층 30퍼센트 이상이 AI 콘텐츠에 두려움을 느끼고 나이별 차이가 크다.",
-      "mini_headline": "Gen Z와 Gen Alpha, AI 시선 엇갈려",
-      "tool": "Movies",
-      "source": "IndieWire",
-      "url": "https://www.indiewire.com/news/general-news/gen-z-doomed-watching-ai-gen-alpha-feels-differently-study-1235223093/",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.indiewire.com/wp-content/uploads/2026/10/Fruit_Love_Island.png?w=831&h=531&crop=1",
-            "cap": "AI-generated TikTok 시리즈 'Fruit Love Island'"
-          },
-          {
-            "t": "p",
-            "x": "요즘 이유도 모르게 인기를 끄는 AI 슬롭으로 “Fruit Love Island”가 있다. 의인화한 과일들이 “Love Island”를 60초짜리로 베낀 영상에서 추파를 던지며 어울리는 AI-generated TikTok 패러디 시리즈다. 시리즈는 꾸준히 이어져 조회수 수천만 회를 찍었다."
-          },
-          {
-            "t": "p",
-            "x": "UCLA와 Center for Scholars and Storytellers가 발표한 새 연구 “Rewrite This! How Gen Z and Gen Alpha are Redefining Modern Storytelling”에 따르면 젊은 층 다수는 인공적으로 생성한 콘텐츠와 이야기를 오히려 긍정적으로 본다. 다만 지금 아이들은 나이를 먹을수록 감정이 눈에 띄게 달라진다."
-          },
-          {
-            "t": "p",
-            "x": "10세에서 24세 사이 응답자의 53.8퍼센트가 “매료됐다” 또는 “신난다”는 감정을 꼽았고, “비관적이다” 또는 “두렵다”는 표현을 쓴 비율은 32.1퍼센트에 그쳤다. 18-24세의 27.4퍼센트가 “비관”이라는 감정을 꼽았고, 10-13세는 9.7퍼센트, 14-18세는 25.1퍼센트였다. 10-13세의 절반 가까이는 AI 콘텐츠를 볼 때 “설렘”을 느꼈다."
-          },
-          {
-            "t": "p",
-            "x": "응답자가 AI에 품는 감정은 상당 부분 소셜 미디어 피드에 뜨는 AI-native 영상에서 온다. ReelShort, DramaBox, Drama Wave, Pocket Films의 세로형 마이크로드라마로 나오는 AI 연속극도 여기에 들어간다."
-          },
-          {
-            "t": "p",
-            "x": "연구가 거창한 결론을 내리지는 않는다. 그래도 Gen Z와 새로 떠오르는 Generation Alpha 사이에 세대 차이가 있을 가능성은 보여 준다. Generation Alpha는 다른 젊은 층과 느끼는 바가 다르고, AI를 더 호의적으로 볼 수 있다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Gen Z feels doomed by AI\nbut Gen Alpha feels differently",
-          "body": "Over 30 percent of young people feel doomed or scared watching AI content, with notable differences by age group.",
-          "mini_headline": "Gen Z and Gen Alpha split on AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/Fruit_Love_Island.png?w=831&h=531&crop=1",
-                "cap": "'Fruit Love Island,' an AI-generated TikTok series"
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081575-lbx2025conceptartawards-635-1280.jpg?itok=eKbM3tM8",
+                "cap": "2025 Concept Art Awards."
               },
               {
                 "t": "p",
-                "x": "One of the more inexplicably popular sources of AI slop today is “Fruit Love Island,” an AI-generated TikTok parody series in which anthropomorphized fruits flirt and mingle in 60-second ripoffs of “Love Island.” It persists and has tens of millions of views."
+                "x": "Los Lifetime Achievement Awards de este año son para el diseñador de Final Fantasy Yoshitaka Amano y, a título póstumo, para el Disney Legend Eyvind Earle, estilista de color de Sleeping Beauty. Ambos fueron los más votados por jueces y miembros."
               },
               {
                 "t": "p",
-                "x": "A new study from UCLA and the Center for Scholars and Storytellers called “Rewrite This! How Gen Z and Gen Alpha are Redefining Modern Storytelling” showed that while a majority of young people actually view artificially generated content and stories positively, there is a noticeable shift in how they feel as today’s kids get older."
+                "x": "Las obras con AI generativa están prohibidas de plano, y detectarlas es “una parte profunda de nuestro proceso de calificación”. El jurado evalúa a ciegas en la plataforma Award Force, y los jueces son artistas en activo, a menudo los ganadores del año anterior."
               },
-              {
-                "t": "p",
-                "x": "The study found that 53.8 percent of people between ages 10 and 24 described emotions of either “fascinated” or “excited,” while only 32.1 percent used the phrases “doomed” or “scared.” 27.4 percent of 18-24 year olds used the emotion “doom” compared to just 9.7 percent of those aged 10-13 and 25.1 percent of those 14-18 years old. Nearly half of those between 10-13 felt “excitement” when watching AI content."
-              },
-              {
-                "t": "p",
-                "x": "Many of the respondents’ feelings about AI come from AI-native videos on their social media feeds, including AI soap operas via vertical microdramas from ReelShort, DramaBox, Drama Wave, and Pocket Films."
-              },
-              {
-                "t": "p",
-                "x": "While the study doesn’t draw any grand conclusions, it suggests there might be a generation gap between Gen Z and the emerging Generation Alpha, who might feel differently and look more favorably at AI than other young people."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Gen Z는 AI에 비관\nGen Alpha는 다르다",
-          "body": "젊은 층 30퍼센트 이상이 AI 콘텐츠에 두려움을 느끼고 나이별 차이가 크다.",
-          "mini_headline": "Gen Z와 Gen Alpha, AI 시선 엇갈려",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/Fruit_Love_Island.png?w=831&h=531&crop=1",
-                "cap": "AI-generated TikTok 시리즈 'Fruit Love Island'"
+                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/1027931-forest-lawn-museum-presenting-eyvind-earle-exhibition_0.jpg?itok=VMga2DtX",
+                "cap": "Arte conceptual para 'Sleeping Beauty' (1959) de Disney. Imagen cortesía de Forest Lawn Museum."
               },
               {
                 "t": "p",
-                "x": "요즘 이유도 모르게 인기를 끄는 AI 슬롭으로 “Fruit Love Island”가 있다. 의인화한 과일들이 “Love Island”를 60초짜리로 베낀 영상에서 추파를 던지며 어울리는 AI-generated TikTok 패러디 시리즈다. 시리즈는 꾸준히 이어져 조회수 수천만 회를 찍었다."
-              },
-              {
-                "t": "p",
-                "x": "UCLA와 Center for Scholars and Storytellers가 발표한 새 연구 “Rewrite This! How Gen Z and Gen Alpha are Redefining Modern Storytelling”에 따르면 젊은 층 다수는 인공적으로 생성한 콘텐츠와 이야기를 오히려 긍정적으로 본다. 다만 지금 아이들은 나이를 먹을수록 감정이 눈에 띄게 달라진다."
-              },
-              {
-                "t": "p",
-                "x": "10세에서 24세 사이 응답자의 53.8퍼센트가 “매료됐다” 또는 “신난다”는 감정을 꼽았고, “비관적이다” 또는 “두렵다”는 표현을 쓴 비율은 32.1퍼센트에 그쳤다. 18-24세의 27.4퍼센트가 “비관”이라는 감정을 꼽았고, 10-13세는 9.7퍼센트, 14-18세는 25.1퍼센트였다. 10-13세의 절반 가까이는 AI 콘텐츠를 볼 때 “설렘”을 느꼈다."
-              },
-              {
-                "t": "p",
-                "x": "응답자가 AI에 품는 감정은 상당 부분 소셜 미디어 피드에 뜨는 AI-native 영상에서 온다. ReelShort, DramaBox, Drama Wave, Pocket Films의 세로형 마이크로드라마로 나오는 AI 연속극도 여기에 들어간다."
-              },
-              {
-                "t": "p",
-                "x": "연구가 거창한 결론을 내리지는 않는다. 그래도 Gen Z와 새로 떠오르는 Generation Alpha 사이에 세대 차이가 있을 가능성은 보여 준다. Generation Alpha는 다른 젊은 층과 느끼는 바가 다르고, AI를 더 호의적으로 볼 수 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Gen ZはAIに悲観\nGen Alphaは違う",
-          "body": "若者の30パーセント超がAIコンテンツに悲観や恐怖を感じ、年齢層で差が目立つ。",
-          "mini_headline": "Gen ZとGen AlphaでAI観が分かれる",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/Fruit_Love_Island.png?w=831&h=531&crop=1",
-                "cap": "AI-generatedのTikTokシリーズ『Fruit Love Island』"
-              },
-              {
-                "t": "p",
-                "x": "いま、なぜか人気を集めるAIスロップの一つが「Fruit Love Island」だ。擬人化された果物たちが「Love Island」を60秒で模倣した動画の中でいちゃつき交流する、AI-generatedのTikTokパロディシリーズである。配信は続き、再生回数は数千万回に上る。"
-              },
-              {
-                "t": "p",
-                "x": "UCLAとCenter for Scholars and Storytellersによる新たな研究「Rewrite This! How Gen Z and Gen Alpha are Redefining Modern Storytelling」によると、若者の大多数は人工的に生成されたコンテンツや物語を実は好意的に受け止めている。ただし、今の子どもたちが成長するにつれて、その受け止め方には目立った変化が見られる。"
-              },
-              {
-                "t": "p",
-                "x": "研究によると、10歳から24歳の53.8パーセントが「魅了された」または「わくわくする」という感情を挙げ、「破滅的」または「怖い」という言葉を使ったのは32.1パーセントにとどまった。18-24歳の27.4パーセントが「破滅」という感情を挙げたのに対し、10-13歳ではわずか9.7パーセント、14-18歳では25.1パーセントだった。10-13歳の半数近くは、AIコンテンツを見る際に「興奮」を感じていた。"
-              },
-              {
-                "t": "p",
-                "x": "回答者がAIに抱く感情の多くは、ソーシャルメディアのフィードに流れるAI-nativeの動画に由来する。ReelShort、DramaBox、Drama Wave、Pocket Filmsの縦型マイクロドラマによるAIのソープオペラもその一つだ。"
-              },
-              {
-                "t": "p",
-                "x": "研究は大きな結論を導いてはいないが、Gen Zと台頭しつつあるGeneration Alphaの間に世代間ギャップがある可能性を示唆している。Generation Alphaは他の若者とは異なる感じ方をし、AIをより好意的に見ているのかもしれない。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La Gen Z ve la IA con pesimismo;\nla Gen Alpha la ve distinto",
-          "body": "Más del 30 por ciento de los jóvenes se sienten condenados o asustados ante contenido de IA, con diferencias por edad.",
-          "mini_headline": "Gen Z y Gen Alpha, divididas ante la IA",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/Fruit_Love_Island.png?w=831&h=531&crop=1",
-                "cap": "'Fruit Love Island', una serie AI-generated de TikTok"
-              },
-              {
-                "t": "p",
-                "x": "Una de las fuentes de basura de IA más inexplicablemente populares hoy es “Fruit Love Island”, una serie paródica AI-generated de TikTok en la que frutas antropomorfizadas coquetean y se relacionan en imitaciones de 60 segundos de “Love Island”. Sigue en marcha y acumula decenas de millones de visualizaciones."
-              },
-              {
-                "t": "p",
-                "x": "Un nuevo estudio de UCLA y el Center for Scholars and Storytellers, titulado “Rewrite This! How Gen Z and Gen Alpha are Redefining Modern Storytelling”, mostró que, aunque la mayoría de los jóvenes ve de forma positiva el contenido y las historias generados artificialmente, se nota un cambio en lo que sienten a medida que los niños de hoy crecen."
-              },
-              {
-                "t": "p",
-                "x": "El estudio halló que el 53.8 por ciento de las personas de entre 10 y 24 años describió emociones como “fascinación” o “entusiasmo”, mientras que solo el 32.1 por ciento usó las expresiones “condenado” o “asustado”. El 27.4 por ciento de quienes tienen 18-24 años usó la emoción “condena”, frente a solo el 9.7 por ciento de los de 10-13 años y el 25.1 por ciento de los de 14-18. Casi la mitad de los de 10-13 años sintió “entusiasmo” al ver contenido de IA."
-              },
-              {
-                "t": "p",
-                "x": "Muchos de los sentimientos de los encuestados sobre la IA provienen de videos AI-native en sus redes sociales, incluidas telenovelas de IA en forma de microdramas verticales de ReelShort, DramaBox, Drama Wave y Pocket Films."
-              },
-              {
-                "t": "p",
-                "x": "Aunque el estudio no extrae grandes conclusiones, sugiere que podría haber una brecha generacional entre la Gen Z y la emergente Generation Alpha, que podría sentir de otra manera y ver la IA con mejores ojos que otros jóvenes."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Z世代因AI感到绝望\nAlpha世代却不同",
-          "body": "超过百分之三十的年轻人观看AI内容时感到绝望或害怕，年龄差异明显。",
-          "mini_headline": "Z世代与Alpha世代对AI看法分化",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/Fruit_Love_Island.png?w=831&h=531&crop=1",
-                "cap": "AI生成（AI-generated）的TikTok系列《Fruit Love Island》"
-              },
-              {
-                "t": "p",
-                "x": "如今最令人费解地走红的AI垃圾内容之一是《Fruit Love Island》。这部AI生成（AI-generated）的TikTok恶搞系列中，拟人化的水果在60秒的《Love Island》仿作里调情、交际。它持续更新，播放量达数千万。"
-              },
-              {
-                "t": "p",
-                "x": "UCLA与Center for Scholars and Storytellers发布的一项新研究《Rewrite This! How Gen Z and Gen Alpha are Redefining Modern Storytelling》显示，虽然多数年轻人其实对人工生成的内容和故事持正面看法，但随着如今的孩子长大，他们的感受出现了明显变化。"
-              },
-              {
-                "t": "p",
-                "x": "研究发现，10至24岁人群中有53.8%表示感到“着迷”或“兴奋”，只有32.1%使用了“绝望”或“害怕”的说法。18至24岁人群中有27.4%使用“绝望”一词，而10至13岁人群仅为9.7%，14至18岁人群为25.1%。10至13岁人群中近一半在观看AI内容时感到“兴奋”。"
-              },
-              {
-                "t": "p",
-                "x": "受访者对AI的许多感受来自社交媒体信息流中的AI原生（AI-native）视频，包括ReelShort、DramaBox、Drama Wave和Pocket Films推出的竖屏微短剧形式的AI肥皂剧。"
-              },
-              {
-                "t": "p",
-                "x": "这项研究并未得出宏大的结论，但它表明Z世代与正在成长的Alpha世代之间可能存在代沟，后者对AI的感受或许不同，看法也比其他年轻人更为正面。"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Gen Z는 AI에 비관\nGen Alpha는 다르다",
-          "body": "젊은 층 30퍼센트 이상이 AI 콘텐츠에 두려움을 느끼고, 나이별 차이가 크다.",
-          "mini_headline": "Gen Z와 Gen Alpha, AI 시선 엇갈려",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/Fruit_Love_Island.png?w=831&h=531&crop=1",
-                "cap": "AI-generated TikTok 시리즈 'Fruit Love Island'"
-              },
-              {
-                "t": "p",
-                "x": "요즘 이유를 알기 힘들 만큼 인기를 끄는 AI 슬롭 가운데 하나는 “Fruit Love Island”다. 의인화한 과일들이 “Love Island”를 60초짜리로 베낀 영상에서 추파를 던지며 어울리는 AI-generated TikTok 패러디 시리즈다. 이 시리즈는 꾸준히 이어지며 조회수 수천만 회를 기록했다."
-              },
-              {
-                "t": "p",
-                "x": "UCLA와 Center for Scholars and Storytellers가 발표한 새 연구 “Rewrite This! How Gen Z and Gen Alpha are Redefining Modern Storytelling”에 따르면, 젊은 층 다수는 인공적으로 생성한 콘텐츠와 이야기를 오히려 긍정적으로 본다. 다만 오늘날의 아이들이 나이를 먹을수록 감정에 눈에 띄는 변화가 나타난다."
-              },
-              {
-                "t": "p",
-                "x": "연구에 따르면 10세에서 24세 사이 응답자의 53.8퍼센트가 “매료됐다” 또는 “신난다”는 감정을 꼽았고, “비관적이다” 또는 “두렵다”는 표현을 쓴 비율은 32.1퍼센트에 그쳤다. 18-24세의 27.4퍼센트가 “비관”이라는 감정을 꼽은 반면, 10-13세는 9.7퍼센트, 14-18세는 25.1퍼센트에 그쳤다. 10-13세의 절반 가까이는 AI 콘텐츠를 볼 때 “설렘”을 느꼈다."
-              },
-              {
-                "t": "p",
-                "x": "응답자가 AI에 대해 느끼는 감정의 상당 부분은 소셜 미디어 피드에 뜨는 AI-native 영상에서 온다. ReelShort, DramaBox, Drama Wave, Pocket Films의 세로형 마이크로드라마로 나오는 AI 연속극도 여기에 포함된다."
-              },
-              {
-                "t": "p",
-                "x": "연구는 거창한 결론을 내리지는 않지만, Gen Z와 새로 떠오르는 Generation Alpha 사이에 세대 차이가 있을 수 있다고 시사한다. Generation Alpha는 다른 젊은 층과 다르게 느끼고 AI를 더 호의적으로 볼 수 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Gen ZはAIに悲観\nGen Alphaは違う",
-          "body": "若者の30パーセント超がAIコンテンツに悲観や恐怖を感じ、年齢層で差が目立つ。",
-          "mini_headline": "Gen ZとGen AlphaでAI観が分かれる",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/Fruit_Love_Island.png?w=831&h=531&crop=1",
-                "cap": "AI-generatedのTikTokシリーズ『Fruit Love Island』"
-              },
-              {
-                "t": "p",
-                "x": "いま、なぜか人気を集めるAIスロップの一つが「Fruit Love Island」だ。擬人化された果物たちが「Love Island」を60秒で模倣した動画の中でいちゃつき交流する、AI-generatedのTikTokパロディシリーズである。配信は続き、再生回数は数千万回に上る。"
-              },
-              {
-                "t": "p",
-                "x": "UCLAとCenter for Scholars and Storytellersによる新たな研究「Rewrite This! How Gen Z and Gen Alpha are Redefining Modern Storytelling」によると、若者の大多数は人工的に生成されたコンテンツや物語を実は好意的に受け止めている。ただし、今の子どもたちが成長するにつれて、その受け止め方には目立った変化が見られる。"
-              },
-              {
-                "t": "p",
-                "x": "研究によると、10歳から24歳の53.8パーセントが「魅了された」または「わくわくする」という感情を挙げ、「破滅的」または「怖い」という言葉を使ったのは32.1パーセントにとどまった。18-24歳の27.4パーセントが「破滅」という感情を挙げたのに対し、10-13歳ではわずか9.7パーセント、14-18歳では25.1パーセントだった。10-13歳の半数近くは、AIコンテンツを見る際に「興奮」を感じていた。"
-              },
-              {
-                "t": "p",
-                "x": "回答者がAIに抱く感情の多くは、ソーシャルメディアのフィードに流れるAI-nativeの動画に由来する。ReelShort、DramaBox、Drama Wave、Pocket Filmsの縦型マイクロドラマによるAIのソープオペラもその一つだ。"
-              },
-              {
-                "t": "p",
-                "x": "研究は大きな結論を導いてはいないが、Gen Zと台頭しつつあるGeneration Alphaの間に世代間ギャップがある可能性を示唆している。Generation Alphaは他の若者とは異なる感じ方をし、AIをより好意的に見ているのかもしれない。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La Gen Z ve la IA con pesimismo;\nla Gen Alpha la ve distinto",
-          "body": "Más del 30 por ciento de los jóvenes se sienten condenados o asustados ante contenido de IA, con diferencias por edad.",
-          "mini_headline": "Gen Z y Gen Alpha, divididas ante la IA",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/Fruit_Love_Island.png?w=831&h=531&crop=1",
-                "cap": "'Fruit Love Island', una serie AI-generated de TikTok"
-              },
-              {
-                "t": "p",
-                "x": "Una de las fuentes de basura de IA más inexplicablemente populares hoy es “Fruit Love Island”, una serie paródica AI-generated de TikTok en la que frutas antropomorfizadas coquetean y se relacionan en imitaciones de 60 segundos de “Love Island”. Sigue en marcha y acumula decenas de millones de visualizaciones."
-              },
-              {
-                "t": "p",
-                "x": "Un nuevo estudio de UCLA y el Center for Scholars and Storytellers, titulado “Rewrite This! How Gen Z and Gen Alpha are Redefining Modern Storytelling”, mostró que, aunque la mayoría de los jóvenes ve de forma positiva el contenido y las historias generados artificialmente, se nota un cambio en lo que sienten a medida que los niños de hoy crecen."
-              },
-              {
-                "t": "p",
-                "x": "El estudio halló que el 53.8 por ciento de las personas de entre 10 y 24 años describió emociones como “fascinación” o “entusiasmo”, mientras que solo el 32.1 por ciento usó las expresiones “condenado” o “asustado”. El 27.4 por ciento de quienes tienen 18-24 años usó la emoción “condena”, frente a solo el 9.7 por ciento de los de 10-13 años y el 25.1 por ciento de los de 14-18. Casi la mitad de los de 10-13 años sintió “entusiasmo” al ver contenido de IA."
-              },
-              {
-                "t": "p",
-                "x": "Muchos de los sentimientos de los encuestados sobre la IA provienen de videos AI-native en sus redes sociales, incluidas telenovelas de IA en forma de microdramas verticales de ReelShort, DramaBox, Drama Wave y Pocket Films."
-              },
-              {
-                "t": "p",
-                "x": "Aunque el estudio no extrae grandes conclusiones, sugiere que podría haber una brecha generacional entre la Gen Z y la emergente Generation Alpha, que podría sentir de otra manera y ver la IA con mejores ojos que otros jóvenes."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Z世代因AI感到绝望\nAlpha世代却不同",
-          "body": "超过百分之三十的年轻人观看AI内容时感到绝望或害怕，年龄差异明显。",
-          "mini_headline": "Z世代与Alpha世代对AI看法分化",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/Fruit_Love_Island.png?w=831&h=531&crop=1",
-                "cap": "AI生成（AI-generated）的TikTok系列《Fruit Love Island》"
-              },
-              {
-                "t": "p",
-                "x": "如今最令人费解地走红的AI垃圾内容之一是《Fruit Love Island》。这部AI生成（AI-generated）的TikTok恶搞系列中，拟人化的水果在60秒的《Love Island》仿作里调情、交际。它持续更新，播放量达数千万。"
-              },
-              {
-                "t": "p",
-                "x": "UCLA与Center for Scholars and Storytellers发布的一项新研究《Rewrite This! How Gen Z and Gen Alpha are Redefining Modern Storytelling》显示，虽然多数年轻人其实对人工生成的内容和故事持正面看法，但随着如今的孩子长大，他们的感受出现了明显变化。"
-              },
-              {
-                "t": "p",
-                "x": "研究发现，10至24岁人群中有53.8%表示感到“着迷”或“兴奋”，只有32.1%使用了“绝望”或“害怕”的说法。18至24岁人群中有27.4%使用“绝望”一词，而10至13岁人群仅为9.7%，14至18岁人群为25.1%。10至13岁人群中近一半在观看AI内容时感到“兴奋”。"
-              },
-              {
-                "t": "p",
-                "x": "受访者对AI的许多感受来自社交媒体信息流中的AI原生（AI-native）视频，包括ReelShort、DramaBox、Drama Wave和Pocket Films推出的竖屏微短剧形式的AI肥皂剧。"
-              },
-              {
-                "t": "p",
-                "x": "这项研究并未得出宏大的结论，但它表明Z世代与正在成长的Alpha世代之间可能存在代沟，后者对AI的感受或许不同，看法也比其他年轻人更为正面。"
+                "x": "Meinerding dijo que el mayor desafío para los artistas conceptuales es el empleo, y que la AI generativa forma parte de ello junto con la subcontratación. Entre 2022 y 2024, la asociación llevó a artistas y sindicatos a Washington, D.C., para impulsar protecciones para los artistas individuales frente a la AI."
               }
             ]
           }

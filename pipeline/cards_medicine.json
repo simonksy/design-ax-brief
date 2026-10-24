@@ -1,143 +1,215 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "section": "medicine",
   "cards": [
     {
-      "id": "medicine-nice-prostate",
+      "id": "medicine-eko-core300-fda",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "NICE, 전립선암 MRI\nAI 도구 5종 권고",
-      "body": "NICE가 근거 축적을 조건으로 전립선암 MRI AI 5종을 NHS에 권고했다.",
-      "mini_headline": "NICE, 전립선 MRI AI 권고",
+      "headline": "Eko Core 300\nAI 청진기 FDA 허가",
+      "body": "FDA가 아날로그와 AI 청진을 오가는 Eko의 Core 300을 허가했다.",
+      "mini_headline": "FDA, Eko Core 300 허가",
       "tool": "Medicine",
-      "source": "The BMJ",
-      "url": "https://www.bmj.com/content/395/bmj-2026-101231",
+      "source": "Cardiovascular Business",
+      "url": "https://cardiovascularbusiness.com/topics/artificial-intelligence/fda-clears-new-ai-enabled-stethoscopes",
       "accent": "#00897b",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "국립보건임상연구원(National Institute for Health and Care Excellence, NICE)은 의사들이 자기공명영상(MRI) 검사에서 전립선암을 “더 정확하게” 찾도록 돕는 AI 도구 5종을 쓸 수 있게 된다고 발표했다."
+            "t": "img",
+            "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/assets_ms2016573_000001_1280x960_core_300_pr_1-1.jpg?h=926d89e9&itok=p9_Udd4z"
           },
           {
             "t": "p",
-            "x": "NICE는 사용 방식과 정확도에 관한 근거를 더 쌓는 동안 NHS가 MRI 기반 전립선암 진단에 이 기술을 쓰도록 권고했다. 이 도구들은 “전립선 MRI 영상에서 암이 있을 수 있는 부위를 표시해 영상의학과 의사를 돕도록 설계됐다”는 것이 NICE의 설명이다."
+            "x": "Eko Health가 새 AI-enabled 청진기 Core 300의 FDA 허가를 받았다. 기존 아날로그 청진과 고급 디지털 청진 기능을 함께 갖췄다."
           },
           {
             "t": "p",
-            "x": "NICE는 특히 전문 인력이 없는 곳에서 이 기술이 전립선 MRI 판독의 정확도와 일관성을 높일 “잠재력이 있다”고 결론지었다. 다만 일상적인 NHS 진료에서 도구가 실제로 어떤 성능을 낼지는 근거가 더 쌓여야 알 수 있다고 덧붙였다."
+            "x": "의료진은 소아와 성인 환자를 진찰하다가 기존 청진에서 디지털 청진으로 바로 바꿀 수 있다. 디지털 청진은 최대 35x 증폭과 소음 제거를 지원하고, 실시간 심장 데이터를 기기 화면에 띄운다."
+          },
+          {
+            "t": "p",
+            "x": "이 청진기는 Eko App이나 Eko의 FDA-cleared AI 모델과도 연결되며, 배터리는 한 번에 몇 주씩 쓰도록 설계됐다."
+          },
+          {
+            "t": "p",
+            "x": "Eko Health 공동창업자이자 CEO인 Connor Landgraf는 “Eko는 750,000대가 넘는 기기를 공급했고, Core 300은 모든 의료 전문가가 질병을 조기에 자신 있게 발견하도록 돕는 다음 단계”라고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "이 기기는 현재 U.S. 소비자에게 판매 중이며 해외 출시도 단계적으로 진행하고 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "NICE backs five AI tools\nfor prostate cancer MRI",
-          "body": "NICE has backed five AI tools that flag possible prostate cancer on MRI for NHS use while evidence is gathered.",
-          "mini_headline": "NICE backs prostate MRI AI",
+          "headline": "FDA clears Eko's Core 300\nAI stethoscope",
+          "body": "The FDA cleared Eko Health's Core 300, a stethoscope that switches between analog and AI digital listening.",
+          "mini_headline": "FDA clears Eko Core 300",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Five AI tools that can help identify prostate cancer “more accurately” on magnetic resonance imaging (MRI) scans will be made available to doctors, the National Institute for Health and Care Excellence (NICE) has announced."
+                "t": "img",
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/assets_ms2016573_000001_1280x960_core_300_pr_1-1.jpg?h=926d89e9&itok=p9_Udd4z"
               },
               {
                 "t": "p",
-                "x": "NICE has recommended that the technologies be used in the NHS to help detect prostate cancer on MRI while further evidence on their use and accuracy is generated. The tools “are designed to help radiologists by highlighting areas on a prostate MRI scan where cancer might be present,” it said."
+                "x": "Eko Health has received FDA clearance for Core 300, a new AI-enabled stethoscope that offers both traditional analog and advanced digital listening capabilities."
               },
               {
                 "t": "p",
-                "x": "NICE concluded that the technologies “have the potential” to improve the accuracy and consistency of prostate MRI interpretation, particularly in settings without specialist expertise. But it added that further evidence was needed to understand how the tools would perform in routine NHS practice."
+                "x": "Clinicians can instantly switch from traditional to digital listening when evaluating pediatric and adult patients. Digital listening includes up to 35x amplification, noise cancellation and real-time heart data displayed on the device."
+              },
+              {
+                "t": "p",
+                "x": "The stethoscopes can also connect to the Eko App or Eko's FDA-cleared AI models, and the battery was designed to last for weeks at a time."
+              },
+              {
+                "t": "p",
+                "x": "“Eko has delivered more than 750,000 devices, and Core 300 is the next step toward bringing early disease detection confidence to every healthcare professional,” said Connor Landgraf, co-founder and CEO of Eko Health."
+              },
+              {
+                "t": "p",
+                "x": "The device is now available to U.S. consumers, and a gradual international launch is underway."
               }
             ]
           }
         },
         "ko": {
-          "headline": "NICE, 전립선암 MRI\nAI 도구 5종 권고",
-          "body": "NICE가 근거 축적을 조건으로 전립선암 MRI AI 5종을 NHS에 권고했다.",
-          "mini_headline": "NICE, 전립선 MRI AI 권고",
+          "headline": "Eko Core 300\nAI 청진기 FDA 허가",
+          "body": "FDA가 아날로그와 AI 청진을 오가는 Eko의 Core 300을 허가했다.",
+          "mini_headline": "FDA, Eko Core 300 허가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "국립보건임상연구원(National Institute for Health and Care Excellence, NICE)은 의사들이 자기공명영상(MRI) 검사에서 전립선암을 “더 정확하게” 찾도록 돕는 AI 도구 5종을 쓸 수 있게 된다고 발표했다."
+                "t": "img",
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/assets_ms2016573_000001_1280x960_core_300_pr_1-1.jpg?h=926d89e9&itok=p9_Udd4z"
               },
               {
                 "t": "p",
-                "x": "NICE는 사용 방식과 정확도에 관한 근거를 더 쌓는 동안 NHS가 MRI 기반 전립선암 진단에 이 기술을 쓰도록 권고했다. 이 도구들은 “전립선 MRI 영상에서 암이 있을 수 있는 부위를 표시해 영상의학과 의사를 돕도록 설계됐다”는 것이 NICE의 설명이다."
+                "x": "Eko Health가 새 AI-enabled 청진기 Core 300의 FDA 허가를 받았다. 기존 아날로그 청진과 고급 디지털 청진 기능을 함께 갖췄다."
               },
               {
                 "t": "p",
-                "x": "NICE는 특히 전문 인력이 없는 곳에서 이 기술이 전립선 MRI 판독의 정확도와 일관성을 높일 “잠재력이 있다”고 결론지었다. 다만 일상적인 NHS 진료에서 도구가 실제로 어떤 성능을 낼지는 근거가 더 쌓여야 알 수 있다고 덧붙였다."
+                "x": "의료진은 소아와 성인 환자를 진찰하다가 기존 청진에서 디지털 청진으로 바로 바꿀 수 있다. 디지털 청진은 최대 35x 증폭과 소음 제거를 지원하고, 실시간 심장 데이터를 기기 화면에 띄운다."
+              },
+              {
+                "t": "p",
+                "x": "이 청진기는 Eko App이나 Eko의 FDA-cleared AI 모델과도 연결되며, 배터리는 한 번에 몇 주씩 쓰도록 설계됐다."
+              },
+              {
+                "t": "p",
+                "x": "Eko Health 공동창업자이자 CEO인 Connor Landgraf는 “Eko는 750,000대가 넘는 기기를 공급했고, Core 300은 모든 의료 전문가가 질병을 조기에 자신 있게 발견하도록 돕는 다음 단계”라고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "이 기기는 현재 U.S. 소비자에게 판매 중이며 해외 출시도 단계적으로 진행하고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "NICE、前立腺がんMRI\nAIツール5種を推奨",
-          "body": "NICEは根拠収集を続けつつ、前立腺がんMRIのAIツール5種をNHSに推奨した。",
-          "mini_headline": "NICE、前立腺MRIのAIを推奨",
+          "headline": "Eko Core 300\nAI聴診器をFDA承認",
+          "body": "FDAはアナログとAIデジタル聴診を切り替えられるEkoのCore 300を承認した。",
+          "mini_headline": "FDA、Eko Core 300を承認",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "国立医療技術評価機構(National Institute for Health and Care Excellence、NICE)は、磁気共鳴画像(MRI)検査で前立腺がんを「より正確に」見つける助けとなるAIツール5種を、医師が利用できるようになると発表した。"
+                "t": "img",
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/assets_ms2016573_000001_1280x960_core_300_pr_1-1.jpg?h=926d89e9&itok=p9_Udd4z"
               },
               {
                 "t": "p",
-                "x": "NICEは、使用法と精度に関する追加の根拠を集める間、これらの技術をNHSでMRIによる前立腺がん検出に使うよう推奨した。NICEによれば、これらのツールは「前立腺MRI画像上でがんが存在する可能性のある部位を示し、放射線科医を支援するよう設計されている」。"
+                "x": "Eko Healthは、従来のアナログ聴診と高度なデジタル聴診の両方を備えた新しいAI-enabled聴診器Core 300について、FDAの承認を取得した。"
               },
               {
                 "t": "p",
-                "x": "NICEは、これらの技術が特に専門人材のいない環境で、前立腺MRI読影の精度と一貫性を高める「可能性がある」と結論づけた。ただし、日常的なNHS診療でツールがどう機能するかを把握するには、さらなる根拠が必要だとした。"
+                "x": "臨床医は小児と成人の患者を診察する際、従来の聴診からデジタル聴診へ即座に切り替えられる。デジタル聴診では最大35xの増幅、ノイズキャンセリング、デバイス上に表示されるリアルタイムの心臓データを利用できる。"
+              },
+              {
+                "t": "p",
+                "x": "この聴診器はEko AppやEkoのFDA-cleared AIモデルにも接続でき、バッテリーは一度に数週間持つよう設計されている。"
+              },
+              {
+                "t": "p",
+                "x": "「Ekoはこれまでに750,000台を超えるデバイスを届けてきた。Core 300は、すべての医療従事者に早期の疾患発見への確信をもたらすための次の一歩だ」と、Eko Healthの共同創業者兼CEOであるConnor Landgrafは述べた。"
+              },
+              {
+                "t": "p",
+                "x": "このデバイスは現在U.S.の消費者向けに提供されており、海外での展開も段階的に進んでいる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "NICE推荐5款AI工具\n辅助前列腺癌MRI",
-          "body": "NICE推荐NHS在继续收集证据期间使用5款前列腺癌MRI AI工具。",
-          "mini_headline": "NICE推荐前列腺MRI AI",
+          "headline": "Eko Core 300\nAI听诊器获FDA批准",
+          "body": "FDA批准了Eko的Core 300，这款听诊器可在模拟与AI数字听诊间切换。",
+          "mini_headline": "FDA批准Eko Core 300",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "英国国家卫生与临床优化研究所(National Institute for Health and Care Excellence，NICE)宣布，5款可帮助在磁共振成像(MRI)扫描中“更准确地”识别前列腺癌的AI工具将向医生开放使用。"
+                "t": "img",
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/assets_ms2016573_000001_1280x960_core_300_pr_1-1.jpg?h=926d89e9&itok=p9_Udd4z"
               },
               {
                 "t": "p",
-                "x": "NICE建议，在进一步收集有关其使用和准确性的证据期间，NHS可使用这些技术借助MRI检测前列腺癌。NICE表示，这些工具“旨在通过标出前列腺MRI扫描中可能存在癌症的区域来协助放射科医生”。"
+                "x": "Eko Health的新款AI-enabled听诊器Core 300已获得FDA批准，兼具传统模拟听诊和先进的数字听诊功能。"
               },
               {
                 "t": "p",
-                "x": "NICE的结论是，这些技术“有潜力”提高前列腺MRI判读的准确性和一致性，尤其是在缺乏专科人才的环境中。但它补充说，要了解这些工具在NHS日常实践中的表现，还需要更多证据。"
+                "x": "临床医生在为儿童和成人患者检查时，可从传统听诊即时切换到数字听诊。数字听诊提供最高35x放大、降噪功能，并在设备上显示实时心脏数据。"
+              },
+              {
+                "t": "p",
+                "x": "该听诊器还可连接Eko App或Eko的FDA-cleared AI模型，电池设计为一次可续航数周。"
+              },
+              {
+                "t": "p",
+                "x": "Eko Health联合创始人兼CEO Connor Landgraf表示：“Eko已交付超过750,000台设备，Core 300是让每一位医疗专业人员都能更有把握地早期发现疾病的下一步。”"
+              },
+              {
+                "t": "p",
+                "x": "该设备现已面向U.S.消费者上市，国际市场也在逐步推出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "NICE avala cinco herramientas\nde AI para MRI de próstata",
-          "body": "NICE avala cinco herramientas de AI que señalan cáncer de próstata en MRI para el NHS mientras se reúne evidencia.",
-          "mini_headline": "NICE avala AI para MRI de próstata",
+          "headline": "La FDA autoriza el Core 300\nestetoscopio AI de Eko",
+          "body": "La FDA autorizó el Core 300 de Eko Health, un estetoscopio que alterna entre escucha analógica y digital con AI.",
+          "mini_headline": "La FDA autoriza el Eko Core 300",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Cinco herramientas de AI que pueden ayudar a identificar el cáncer de próstata “con mayor precisión” en resonancias magnéticas (MRI) estarán a disposición de los médicos, según anunció el National Institute for Health and Care Excellence (NICE)."
+                "t": "img",
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/assets_ms2016573_000001_1280x960_core_300_pr_1-1.jpg?h=926d89e9&itok=p9_Udd4z"
               },
               {
                 "t": "p",
-                "x": "NICE recomendó que estas tecnologías se utilicen en el NHS para ayudar a detectar el cáncer de próstata en MRI mientras se genera más evidencia sobre su uso y su precisión. Las herramientas “están diseñadas para ayudar a los radiólogos resaltando las zonas de una MRI de próstata donde podría haber cáncer”, señaló."
+                "x": "Eko Health recibió la autorización de la FDA para Core 300, un nuevo estetoscopio AI-enabled que ofrece tanto escucha analógica tradicional como funciones avanzadas de escucha digital."
               },
               {
                 "t": "p",
-                "x": "NICE concluyó que las tecnologías “tienen el potencial” de mejorar la precisión y la coherencia de la interpretación de la MRI de próstata, sobre todo en entornos sin especialistas. Pero añadió que se necesita más evidencia para entender cómo funcionarían las herramientas en la práctica habitual del NHS."
+                "x": "Los clínicos pueden pasar al instante de la escucha tradicional a la digital al evaluar a pacientes pediátricos y adultos. La escucha digital incluye amplificación de hasta 35x, cancelación de ruido y datos cardíacos en tiempo real que se muestran en el dispositivo."
+              },
+              {
+                "t": "p",
+                "x": "Los estetoscopios también pueden conectarse a la Eko App o a los modelos de AI FDA-cleared de Eko, y la batería se diseñó para durar semanas seguidas."
+              },
+              {
+                "t": "p",
+                "x": "“Eko ha entregado más de 750,000 dispositivos, y Core 300 es el siguiente paso para dar a cada profesional de la salud confianza en la detección temprana de enfermedades”, dijo Connor Landgraf, cofundador y CEO de Eko Health."
+              },
+              {
+                "t": "p",
+                "x": "El dispositivo ya está disponible para los consumidores de U.S., y su lanzamiento internacional avanza de forma gradual."
               }
             ]
           }
@@ -145,89 +217,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "NICE, 전립선암 MRI\nAI 도구 5종 권고",
-          "body": "NICE가 근거 수집을 전제로 전립선암 MRI AI 5종을 NHS에 권고했다.",
-          "mini_headline": "NICE, 전립선 MRI AI 권고",
+          "headline": "Eko Core 300\nAI 청진기 FDA 허가",
+          "body": "FDA가 아날로그와 AI 청진을 오가는 Eko의 Core 300을 허가했다.",
+          "mini_headline": "FDA, Eko Core 300 허가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "국립보건임상연구원(National Institute for Health and Care Excellence, NICE)은 자기공명영상(MRI) 검사에서 전립선암을 “더 정확하게” 찾아내도록 돕는 AI 도구 5종을 의사들이 쓸 수 있게 된다고 발표했다."
+                "t": "img",
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/assets_ms2016573_000001_1280x960_core_300_pr_1-1.jpg?h=926d89e9&itok=p9_Udd4z"
               },
               {
                 "t": "p",
-                "x": "NICE는 사용 방식과 정확도에 관한 추가 근거를 쌓는 동안 이 기술을 NHS에서 MRI 기반 전립선암 진단에 활용하도록 권고했다. NICE는 이 도구들이 “전립선 MRI 영상에서 암이 있을 수 있는 부위를 표시해 영상의학과 의사를 돕도록 설계됐다”고 설명했다."
+                "x": "Eko Health가 새 AI-enabled 청진기 Core 300에 대해 FDA 허가를 받았다. 기존 아날로그 청진과 고급 디지털 청진 기능을 모두 갖췄다."
               },
               {
                 "t": "p",
-                "x": "NICE는 이 기술이 특히 전문 인력이 없는 환경에서 전립선 MRI 판독의 정확도와 일관성을 높일 “잠재력이 있다”고 결론지었다. 다만 일상적인 NHS 진료에서 도구가 어떤 성능을 보일지 파악하려면 근거가 더 필요하다고 덧붙였다."
+                "x": "의료진은 소아와 성인 환자를 진찰할 때 기존 청진에서 디지털 청진으로 즉시 전환할 수 있다. 디지털 청진은 최대 35x 증폭, 소음 제거, 기기 화면에 표시되는 실시간 심장 데이터를 제공한다."
+              },
+              {
+                "t": "p",
+                "x": "이 청진기는 Eko App이나 Eko의 FDA-cleared AI 모델과도 연결할 수 있으며, 배터리는 한 번에 몇 주씩 쓰도록 설계됐다."
+              },
+              {
+                "t": "p",
+                "x": "Eko Health 공동창업자이자 CEO인 Connor Landgraf는 “Eko는 750,000대가 넘는 기기를 공급했고, Core 300은 모든 의료 전문가가 질병을 조기에 자신 있게 발견하도록 돕는 다음 단계”라고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "이 기기는 현재 U.S. 소비자에게 판매되고 있으며, 해외 출시도 단계적으로 진행 중이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "NICE、前立腺がんMRI\nAIツール5種を推奨",
-          "body": "NICEは根拠収集を続けつつ、前立腺がんMRIのAIツール5種をNHSに推奨した。",
-          "mini_headline": "NICE、前立腺MRIのAIを推奨",
+          "headline": "Eko Core 300\nAI聴診器をFDA承認",
+          "body": "FDAはアナログとAIデジタル聴診を切り替えられるEkoのCore 300を承認した。",
+          "mini_headline": "FDA、Eko Core 300を承認",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "国立医療技術評価機構(National Institute for Health and Care Excellence、NICE)は、磁気共鳴画像(MRI)検査で前立腺がんを「より正確に」見つける助けとなるAIツール5種を、医師が利用できるようになると発表した。"
+                "t": "img",
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/assets_ms2016573_000001_1280x960_core_300_pr_1-1.jpg?h=926d89e9&itok=p9_Udd4z"
               },
               {
                 "t": "p",
-                "x": "NICEは、使用法と精度に関する追加の根拠を集める間、これらの技術をNHSでMRIによる前立腺がん検出に使うよう推奨した。NICEによれば、これらのツールは「前立腺MRI画像上でがんが存在する可能性のある部位を示し、放射線科医を支援するよう設計されている」。"
+                "x": "Eko Healthは、従来のアナログ聴診と高度なデジタル聴診の両方を備えた新しいAI-enabled聴診器Core 300について、FDAの承認を取得した。"
               },
               {
                 "t": "p",
-                "x": "NICEは、これらの技術が特に専門人材のいない環境で、前立腺MRI読影の精度と一貫性を高める「可能性がある」と結論づけた。ただし、日常的なNHS診療でツールがどう機能するかを把握するには、さらなる根拠が必要だとした。"
+                "x": "臨床医は小児と成人の患者を診察する際、従来の聴診からデジタル聴診へ即座に切り替えられる。デジタル聴診では最大35xの増幅、ノイズキャンセリング、デバイス上に表示されるリアルタイムの心臓データを利用できる。"
+              },
+              {
+                "t": "p",
+                "x": "この聴診器はEko AppやEkoのFDA-cleared AIモデルにも接続でき、バッテリーは一度に数週間持つよう設計されている。"
+              },
+              {
+                "t": "p",
+                "x": "「Ekoはこれまでに750,000台を超えるデバイスを届けてきた。Core 300は、すべての医療従事者に早期の疾患発見への確信をもたらすための次の一歩だ」と、Eko Healthの共同創業者兼CEOであるConnor Landgrafは述べた。"
+              },
+              {
+                "t": "p",
+                "x": "このデバイスは現在U.S.の消費者向けに提供されており、海外での展開も段階的に進んでいる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "NICE推荐5款AI工具\n辅助前列腺癌MRI",
-          "body": "NICE推荐NHS在继续收集证据期间使用5款前列腺癌MRI AI工具。",
-          "mini_headline": "NICE推荐前列腺MRI AI",
+          "headline": "Eko Core 300\nAI听诊器获FDA批准",
+          "body": "FDA批准了Eko的Core 300，这款听诊器可在模拟与AI数字听诊间切换。",
+          "mini_headline": "FDA批准Eko Core 300",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "英国国家卫生与临床优化研究所(National Institute for Health and Care Excellence，NICE)宣布，5款可帮助在磁共振成像(MRI)扫描中“更准确地”识别前列腺癌的AI工具将向医生开放使用。"
+                "t": "img",
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/assets_ms2016573_000001_1280x960_core_300_pr_1-1.jpg?h=926d89e9&itok=p9_Udd4z"
               },
               {
                 "t": "p",
-                "x": "NICE建议，在进一步收集有关其使用和准确性的证据期间，NHS可使用这些技术借助MRI检测前列腺癌。NICE表示，这些工具“旨在通过标出前列腺MRI扫描中可能存在癌症的区域来协助放射科医生”。"
+                "x": "Eko Health的新款AI-enabled听诊器Core 300已获得FDA批准，兼具传统模拟听诊和先进的数字听诊功能。"
               },
               {
                 "t": "p",
-                "x": "NICE的结论是，这些技术“有潜力”提高前列腺MRI判读的准确性和一致性，尤其是在缺乏专科人才的环境中。但它补充说，要了解这些工具在NHS日常实践中的表现，还需要更多证据。"
+                "x": "临床医生在为儿童和成人患者检查时，可从传统听诊即时切换到数字听诊。数字听诊提供最高35x放大、降噪功能，并在设备上显示实时心脏数据。"
+              },
+              {
+                "t": "p",
+                "x": "该听诊器还可连接Eko App或Eko的FDA-cleared AI模型，电池设计为一次可续航数周。"
+              },
+              {
+                "t": "p",
+                "x": "Eko Health联合创始人兼CEO Connor Landgraf表示：“Eko已交付超过750,000台设备，Core 300是让每一位医疗专业人员都能更有把握地早期发现疾病的下一步。”"
+              },
+              {
+                "t": "p",
+                "x": "该设备现已面向U.S.消费者上市，国际市场也在逐步推出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "NICE avala cinco herramientas\nde AI para MRI de próstata",
-          "body": "NICE avala cinco herramientas de AI que señalan cáncer de próstata en MRI para el NHS mientras se reúne evidencia.",
-          "mini_headline": "NICE avala AI para MRI de próstata",
+          "headline": "La FDA autoriza el Core 300\nestetoscopio AI de Eko",
+          "body": "La FDA autorizó el Core 300 de Eko Health, un estetoscopio que alterna entre escucha analógica y digital con AI.",
+          "mini_headline": "La FDA autoriza el Eko Core 300",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Cinco herramientas de AI que pueden ayudar a identificar el cáncer de próstata “con mayor precisión” en resonancias magnéticas (MRI) estarán a disposición de los médicos, según anunció el National Institute for Health and Care Excellence (NICE)."
+                "t": "img",
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/assets_ms2016573_000001_1280x960_core_300_pr_1-1.jpg?h=926d89e9&itok=p9_Udd4z"
               },
               {
                 "t": "p",
-                "x": "NICE recomendó que estas tecnologías se utilicen en el NHS para ayudar a detectar el cáncer de próstata en MRI mientras se genera más evidencia sobre su uso y su precisión. Las herramientas “están diseñadas para ayudar a los radiólogos resaltando las zonas de una MRI de próstata donde podría haber cáncer”, señaló."
+                "x": "Eko Health recibió la autorización de la FDA para Core 300, un nuevo estetoscopio AI-enabled que ofrece tanto escucha analógica tradicional como funciones avanzadas de escucha digital."
               },
               {
                 "t": "p",
-                "x": "NICE concluyó que las tecnologías “tienen el potencial” de mejorar la precisión y la coherencia de la interpretación de la MRI de próstata, sobre todo en entornos sin especialistas. Pero añadió que se necesita más evidencia para entender cómo funcionarían las herramientas en la práctica habitual del NHS."
+                "x": "Los clínicos pueden pasar al instante de la escucha tradicional a la digital al evaluar a pacientes pediátricos y adultos. La escucha digital incluye amplificación de hasta 35x, cancelación de ruido y datos cardíacos en tiempo real que se muestran en el dispositivo."
+              },
+              {
+                "t": "p",
+                "x": "Los estetoscopios también pueden conectarse a la Eko App o a los modelos de AI FDA-cleared de Eko, y la batería se diseñó para durar semanas seguidas."
+              },
+              {
+                "t": "p",
+                "x": "“Eko ha entregado más de 750,000 dispositivos, y Core 300 es el siguiente paso para dar a cada profesional de la salud confianza en la detección temprana de enfermedades”, dijo Connor Landgraf, cofundador y CEO de Eko Health."
+              },
+              {
+                "t": "p",
+                "x": "El dispositivo ya está disponible para los consumidores de U.S., y su lanzamiento internacional avanza de forma gradual."
               }
             ]
           }
@@ -235,311 +355,431 @@
       }
     },
     {
-      "id": "medicine-ms-diagnosis",
-      "source_lang": "en",
+      "id": "medicine-aitrics-kbsmc-admin-ai",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Microsoft “AI가\n복잡 사례서 의사 앞서”",
-      "body": "Microsoft AI는 자사 진단 AI가 복잡한 사례에서 의사를 앞섰다고 밝혔다.",
-      "mini_headline": "Microsoft의 AI 진단 주장",
+      "headline": "에이아이트릭스·강북삼성\nLLM 의무기록 AI 개발",
+      "body": "에이아이트릭스·강북삼성병원이 LLM 기반 의무기록 자동화 플랫폼 개발에 착수한다.",
+      "mini_headline": "강북삼성 LLM 의무기록 AI",
       "tool": "Medicine",
-      "source": "Microsoft AI",
-      "url": "https://microsoft.ai/news/building-medical-superintelligence/",
+      "source": "의학신문(일간보사)",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014709",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://microsoft.ai/wp-content/uploads/2026/10/health_v5_logo_large-1280x717.webp"
+            "t": "p",
+            "x": "[의학신문·일간보사=오인규 기자] 최근 의료계는 만성적인 인력 부족과 방대한 문서 작업 등으로 인해 의료진의 피로도가 극에 달한 상황이다. 이를 타개하기 위해 의료 현장에 거대언어모델(LLM) 등 차세대 AI 기술을 접목해 실질적인 업무 환경을 개선하려는 시도가 활발해지고 있다."
           },
           {
             "t": "p",
-            "x": "Microsoft AI에 따르면 자사 진단 시스템 MAI-DxO는 MIMIC-IV-ED의 흔한 US 응급실 내원 사례에서 의사보다 1.7배, 복잡한 NEJM 사례에서는 두 배 넘게 정확했다. 연구는 Science에 실렸다."
+            "x": "이러한 흐름에 발맞춰 의료 인공지능(AI) 전문기업 에이아이트릭스(대표 김광준)는 강북삼성병원과 손잡고 의료 현장의 고질적인 문서 업무 부담 해소에 나선다. 최근 서울 AI허브가 주관하는 '2026년 AI 전환(AX) 지원사업'의 참여 컨소시엄 기업으로 낙점을 받으면서다."
           },
           {
             "t": "p",
-            "x": "논문이 소개한 순차 진단 벤치마크(Sequential Diagnosis Benchmark, SDBench)는 복잡한 NEJM 사례 304건과 전형적인 MIMIC-IV-ED 사례로 이뤄진다. AI나 의사는 제한된 정보에서 출발해 다음에 무엇을 요청할지 고른다. MAI-DxO는 가상 의사 패널처럼 여러 차례 토론하며 검사마다 가치와 비용을 견준다."
+            "x": "에이아이트릭스는 이번 사업을 통해 임상 의무기록을 자동화하고 병원 내 워크플로우를 혁신할 수 있는 LLM 기반 AX 플랫폼 개발에 착수한다. 현장에서 매일 반복되는 정보 확인 및 기록 과정을 AI로 대체해 진료 효율성을 극대화하겠다는 전략이다."
           },
           {
             "t": "p",
-            "x": "Microsoft에 따르면 NEJM 사례에서 MAI-DxO의 정확도는 83%였다. 참고 자료 없이 진단한 의사는 22%, 참고 자료를 쓴 의사는 36%였다. 응급실 사례는 80% 대 47%였다. 비용을 최적화한 한 구성은 비교 대상 시스템의 절반에도 못 미치는 비용으로 81%에 도달했다."
+            "x": "특히 파트너로 나선 강북삼성병원은 실제 외래 및 간호 환경을 면밀히 분석해 AI가 적용될 구체적인 타깃 업무를 설정하는 중추적인 역할을 맡는다. 실무를 담당하는 의료진과 간호사의 눈높이에 맞춘 필수 기능과 검증 기준도 함께 구체화할 예정이다."
           },
           {
             "t": "p",
-            "x": "Microsoft는 일부 NEJM 사례로 SDBench를 오픈소스로 공개하고, Boston의 Beth Israel Deaconess Medical Center와 전향적 연구를 벌여 의사의 독립적 평가와 성능을 견줘 볼 계획이다."
+            "x": "집중 개발 과제는 크게 세 가지로 압축된다. ▲외래 진료 시 누적된 환자 투약 및 진단 이력 고도화 ▲방대한 CT·MRI 등 영상검사 판독 결과지의 핵심 경과 요약 ▲간호 인수인계 과정에서 발생하는 음성 대화의 텍스트 변환(STT) 및 내용 요약 등이다. 방대한 의료 데이터를 AI가 빠르고 정확하게 압축해 적기에 제공하는 것이 핵심이다."
+          },
+          {
+            "t": "p",
+            "x": "초기 기획 및 개발 단계부터 강북삼성병원 실무진들이 직접 참여해 사용성을 평가하고 임상적 유효성을 꼼꼼히 따져볼 계획이다. 양 기관은 이번 협력을 마중물 삼아, 향후 완성된 플랫폼이 다른 의료기관에도 유연하게 이식될 수 있도록 기술적 범용성을 확보한다는 청사진을 그렸다."
+          },
+          {
+            "t": "p",
+            "x": "에이아이트릭스 김광준 대표는 철저하게 현장 수요에 기반한 AI 기술의 실효성을 거듭 강조했다."
+          },
+          {
+            "t": "p",
+            "x": "김 대표는 \"현장의 목소리를 최우선으로 반영해 실제 병원 시스템에 즉시 융합될 수 있는 맞춤형 AX 플랫폼을 완성하는 것이 이번 사업의 주된 목표\"라며 \"진보한 LLM 기술이 의료진의 실질적인 업무 경감은 물론, 전반적인 병원 운영의 패러다임을 바꾸는 의료 디지털 혁신의 기폭제가 되도록 최선을 다하겠다\"고 밝혔다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Microsoft says its AI beats\ndoctors on complex cases",
-          "body": "Microsoft AI says its diagnostic orchestrator outperformed physicians on accuracy across complex cases.",
-          "mini_headline": "Microsoft's AI diagnosis claim",
+        "ko": {
+          "headline": "에이아이트릭스·강북삼성\nLLM 의무기록 AI 개발",
+          "body": "에이아이트릭스·강북삼성병원이 LLM 기반 의무기록 자동화 플랫폼 개발에 착수한다.",
+          "mini_headline": "강북삼성 LLM 의무기록 AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://microsoft.ai/wp-content/uploads/2026/10/health_v5_logo_large-1280x717.webp"
+                "t": "p",
+                "x": "[의학신문·일간보사=오인규 기자] 최근 의료계는 만성적인 인력 부족과 방대한 문서 작업 등으로 인해 의료진의 피로도가 극에 달한 상황이다. 이를 타개하기 위해 의료 현장에 거대언어모델(LLM) 등 차세대 AI 기술을 접목해 실질적인 업무 환경을 개선하려는 시도가 활발해지고 있다."
               },
               {
                 "t": "p",
-                "x": "Microsoft AI says its diagnostic system, MAI-DxO, is 1.7 times more accurate than physicians on common US emergency-department presentations from MIMIC-IV-ED, and more than twice as accurate on complex NEJM cases. The work is published in Science."
+                "x": "이러한 흐름에 발맞춰 의료 인공지능(AI) 전문기업 에이아이트릭스(대표 김광준)는 강북삼성병원과 손잡고 의료 현장의 고질적인 문서 업무 부담 해소에 나선다. 최근 서울 AI허브가 주관하는 '2026년 AI 전환(AX) 지원사업'의 참여 컨소시엄 기업으로 낙점을 받으면서다."
               },
               {
                 "t": "p",
-                "x": "The paper introduces the Sequential Diagnosis Benchmark (SDBench): 304 complex NEJM cases plus typical MIMIC-IV-ED cases, where AI or physicians start with limited information and choose what to request next. MAI-DxO operates like a panel of virtual physicians, debating over several rounds and weighing each test’s value against its cost."
+                "x": "에이아이트릭스는 이번 사업을 통해 임상 의무기록을 자동화하고 병원 내 워크플로우를 혁신할 수 있는 LLM 기반 AX 플랫폼 개발에 착수한다. 현장에서 매일 반복되는 정보 확인 및 기록 과정을 AI로 대체해 진료 효율성을 극대화하겠다는 전략이다."
               },
               {
                 "t": "p",
-                "x": "According to Microsoft, MAI-DxO achieved 83% accuracy on NEJM cases versus 22% for physicians without reference resources and 36% with them, and 80% versus 47% on emergency-department cases. One cost-optimised configuration reached 81% at less than half the cost of comparative systems."
+                "x": "특히 파트너로 나선 강북삼성병원은 실제 외래 및 간호 환경을 면밀히 분석해 AI가 적용될 구체적인 타깃 업무를 설정하는 중추적인 역할을 맡는다. 실무를 담당하는 의료진과 간호사의 눈높이에 맞춘 필수 기능과 검증 기준도 함께 구체화할 예정이다."
               },
               {
                 "t": "p",
-                "x": "Microsoft is open-sourcing SDBench for select NEJM cases and will run a prospective study with Beth Israel Deaconess Medical Center in Boston, measuring performance against physicians’ independent assessments."
+                "x": "집중 개발 과제는 크게 세 가지로 압축된다. ▲외래 진료 시 누적된 환자 투약 및 진단 이력 고도화 ▲방대한 CT·MRI 등 영상검사 판독 결과지의 핵심 경과 요약 ▲간호 인수인계 과정에서 발생하는 음성 대화의 텍스트 변환(STT) 및 내용 요약 등이다. 방대한 의료 데이터를 AI가 빠르고 정확하게 압축해 적기에 제공하는 것이 핵심이다."
+              },
+              {
+                "t": "p",
+                "x": "초기 기획 및 개발 단계부터 강북삼성병원 실무진들이 직접 참여해 사용성을 평가하고 임상적 유효성을 꼼꼼히 따져볼 계획이다. 양 기관은 이번 협력을 마중물 삼아, 향후 완성된 플랫폼이 다른 의료기관에도 유연하게 이식될 수 있도록 기술적 범용성을 확보한다는 청사진을 그렸다."
+              },
+              {
+                "t": "p",
+                "x": "에이아이트릭스 김광준 대표는 철저하게 현장 수요에 기반한 AI 기술의 실효성을 거듭 강조했다."
+              },
+              {
+                "t": "p",
+                "x": "김 대표는 \"현장의 목소리를 최우선으로 반영해 실제 병원 시스템에 즉시 융합될 수 있는 맞춤형 AX 플랫폼을 완성하는 것이 이번 사업의 주된 목표\"라며 \"진보한 LLM 기술이 의료진의 실질적인 업무 경감은 물론, 전반적인 병원 운영의 패러다임을 바꾸는 의료 디지털 혁신의 기폭제가 되도록 최선을 다하겠다\"고 밝혔다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Microsoft “AI가\n복잡 사례서 의사 앞서”",
-          "body": "Microsoft AI는 자사 진단 AI가 복잡한 사례에서 의사를 앞섰다고 밝혔다.",
-          "mini_headline": "Microsoft의 AI 진단 주장",
+        "en": {
+          "headline": "AITRICS, Kangbuk Samsung\ndevelop LLM medical-record AI",
+          "body": "AITRICS and Kangbuk Samsung Hospital are starting to develop an LLM-based platform to automate medical records.",
+          "mini_headline": "Kangbuk Samsung LLM records AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://microsoft.ai/wp-content/uploads/2026/10/health_v5_logo_large-1280x717.webp"
+                "t": "p",
+                "x": "[Medical News·Daily Bosa = Reporter Oh In-gyu] Clinician fatigue in healthcare has reached its peak, driven by chronic staffing shortages and heavy paperwork. To address this, efforts are growing to bring next-generation AI technologies such as large language models (LLM) into clinical settings and improve day-to-day working conditions."
               },
               {
                 "t": "p",
-                "x": "Microsoft AI에 따르면 자사 진단 시스템 MAI-DxO는 MIMIC-IV-ED의 흔한 US 응급실 내원 사례에서 의사보다 1.7배, 복잡한 NEJM 사례에서는 두 배 넘게 정확했다. 연구는 Science에 실렸다."
+                "x": "In line with this trend, medical artificial intelligence (AI) company AITRICS (CEO Kim Kwang-joon) is teaming up with Kangbuk Samsung Hospital to ease the long-standing burden of documentation in clinical practice. The move follows its recent selection as a consortium participant in the '2026 AI Transformation (AX) Support Program' run by Seoul AI Hub."
               },
               {
                 "t": "p",
-                "x": "논문이 소개한 순차 진단 벤치마크(Sequential Diagnosis Benchmark, SDBench)는 복잡한 NEJM 사례 304건과 전형적인 MIMIC-IV-ED 사례로 이뤄진다. AI나 의사는 제한된 정보에서 출발해 다음에 무엇을 요청할지 고른다. MAI-DxO는 가상 의사 패널처럼 여러 차례 토론하며 검사마다 가치와 비용을 견준다."
+                "x": "Through the project, AITRICS will begin developing an LLM-based AX platform that automates clinical medical records and transforms in-hospital workflows. The strategy is to maximize care efficiency by replacing the information checks and record-keeping repeated every day on the front lines with AI."
               },
               {
                 "t": "p",
-                "x": "Microsoft에 따르면 NEJM 사례에서 MAI-DxO의 정확도는 83%였다. 참고 자료 없이 진단한 의사는 22%, 참고 자료를 쓴 의사는 36%였다. 응급실 사례는 80% 대 47%였다. 비용을 최적화한 한 구성은 비교 대상 시스템의 절반에도 못 미치는 비용으로 81%에 도달했다."
+                "x": "As partner, Kangbuk Samsung Hospital will play a central role, closely analyzing real outpatient and nursing environments to define the specific tasks AI will be applied to. It will also specify essential functions and validation criteria tailored to the doctors and nurses who do the hands-on work."
               },
               {
                 "t": "p",
-                "x": "Microsoft는 일부 NEJM 사례로 SDBench를 오픈소스로 공개하고, Boston의 Beth Israel Deaconess Medical Center와 전향적 연구를 벌여 의사의 독립적 평가와 성능을 견줘 볼 계획이다."
+                "x": "The development work comes down to three main tasks: ▲advancing the accumulated medication and diagnosis histories of patients in outpatient care ▲summarizing key progress from large volumes of imaging reports such as CT·MRI ▲converting voice conversations during nursing handoffs to text (STT) and summarizing their content. The core aim is for AI to condense vast amounts of medical data quickly and accurately and deliver it at the right time."
+              },
+              {
+                "t": "p",
+                "x": "Kangbuk Samsung Hospital staff will take part directly from the early planning and development stages to evaluate usability and closely examine clinical validity. The two institutions plan to use this collaboration as a springboard to secure technical versatility, so the finished platform can later be readily adopted by other medical institutions."
+              },
+              {
+                "t": "p",
+                "x": "AITRICS CEO Kim Kwang-joon repeatedly stressed the practical effectiveness of AI technology grounded firmly in on-site needs."
+              },
+              {
+                "t": "p",
+                "x": "\"The main goal of this project is to complete a customized AX platform that puts the voices of the field first and can be immediately integrated into real hospital systems,\" Kim said. \"We will do our best to make advanced LLM technology a catalyst for digital innovation in healthcare that not only meaningfully reduces clinicians' workload but also changes the paradigm of overall hospital operations.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "Microsoft「AIが\n難症例で医師超え」",
-          "body": "Microsoft AIは、診断AIが複雑な症例の精度で医師を上回ったと発表した。",
-          "mini_headline": "MicrosoftのAI診断の主張",
+          "headline": "AITRICS・江北サムスン\nLLM医療記録AI開発",
+          "body": "AITRICSと江北サムスン病院が、LLMベースの医療記録自動化基盤の開発に着手する。",
+          "mini_headline": "江北サムスン LLM医療記録AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://microsoft.ai/wp-content/uploads/2026/10/health_v5_logo_large-1280x717.webp"
+                "t": "p",
+                "x": "[医学新聞・日刊保社=オ・インギュ記者] 最近の医療界は、慢性的な人手不足と膨大な文書作業などにより、医療スタッフの疲労が限界に達している。これを打開するため、大規模言語モデル(LLM)などの次世代AI技術を医療現場に取り入れ、実際の業務環境を改善しようとする試みが活発になっている。"
               },
               {
                 "t": "p",
-                "x": "Microsoft AIによると、同社の診断システムMAI-DxOは、MIMIC-IV-EDに含まれる一般的なUSの救急外来受診例で医師より1.7倍正確で、複雑なNEJM症例では2倍を超える精度だった。研究はScienceに掲載された。"
+                "x": "こうした流れに合わせ、医療人工知能(AI)専門企業のAITRICS(代表キム・グァンジュン)は江北サムスン病院と手を組み、医療現場に根強く残る文書業務の負担解消に乗り出す。最近、ソウルAIハブが主管する「2026年AI転換(AX)支援事業」の参加コンソーシアム企業に選ばれたことによるものだ。"
               },
               {
                 "t": "p",
-                "x": "論文は逐次診断ベンチマーク(Sequential Diagnosis Benchmark、SDBench)を提示している。複雑なNEJM症例304件と典型的なMIMIC-IV-ED症例で構成され、AIや医師は限られた情報から始めて、次に何を求めるかを選ぶ。MAI-DxOは仮想の医師団のように動き、数回にわたって議論しながら各検査の価値を費用と比べる。"
+                "x": "AITRICSは今回の事業を通じ、臨床の医療記録を自動化し、院内ワークフローを革新できるLLMベースのAXプラットフォームの開発に着手する。現場で毎日繰り返される情報確認と記録の作業をAIで置き換え、診療効率を最大化する戦略だ。"
               },
               {
                 "t": "p",
-                "x": "Microsoftによれば、MAI-DxOはNEJM症例で83%の正答率を達成した。参考資料なしの医師は22%、参考資料ありでは36%だった。救急外来症例では80%対47%だった。費用を最適化したある構成は、比較対象システムの半分未満の費用で81%に達した。"
+                "x": "特にパートナーとなった江北サムスン病院は、実際の外来と看護の環境を綿密に分析し、AIを適用する具体的な対象業務を設定する中核的な役割を担う。実務を担う医師や看護師の目線に合わせた必須機能と検証基準も併せて具体化する予定だ。"
               },
               {
                 "t": "p",
-                "x": "Microsoftは一部のNEJM症例についてSDBenchをオープンソース化し、BostonのBeth Israel Deaconess Medical Centerと前向き研究を行い、医師による独立した評価と性能を比較する。"
+                "x": "重点開発課題は大きく三つに絞られる。▲外来診療時に蓄積された患者の投薬・診断履歴の高度化 ▲膨大なCT・MRIなど画像検査の読影結果報告書の主要経過の要約 ▲看護の引き継ぎで生じる音声会話のテキスト変換(STT)と内容の要約などだ。膨大な医療データをAIが迅速かつ正確に圧縮し、適時に提供することが核心である。"
+              },
+              {
+                "t": "p",
+                "x": "初期の企画・開発段階から江北サムスン病院の実務スタッフが直接参加し、使いやすさを評価して臨床的有効性を丹念に検証する計画だ。両機関は今回の協力を呼び水に、完成したプラットフォームを今後ほかの医療機関にも柔軟に移植できるよう、技術的な汎用性を確保するという青写真を描いた。"
+              },
+              {
+                "t": "p",
+                "x": "AITRICSのキム・グァンジュン代表は、徹底して現場の需要に基づいたAI技術の実効性を繰り返し強調した。"
+              },
+              {
+                "t": "p",
+                "x": "キム代表は「現場の声を最優先に反映し、実際の病院システムにすぐ融合できるオーダーメイドのAXプラットフォームを完成させることが今回の事業の主な目標だ」とし、「進化したLLM技術が医療スタッフの実質的な業務軽減はもちろん、病院運営全般のパラダイムを変える医療デジタル革新の起爆剤となるよう最善を尽くす」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Microsoft称AI\n复杂病例胜过医生",
-          "body": "Microsoft AI称，其诊断协调系统在复杂病例中的准确率超过了医生。",
-          "mini_headline": "Microsoft的AI诊断之说",
+          "headline": "AITRICS·江北三星\n开发LLM病历AI",
+          "body": "AITRICS与江北三星医院将着手开发基于LLM的病历自动化平台。",
+          "mini_headline": "江北三星 LLM病历AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://microsoft.ai/wp-content/uploads/2026/10/health_v5_logo_large-1280x717.webp"
+                "t": "p",
+                "x": "[医学新闻·日刊保社 记者Oh In-gyu] 近来，由于长期人手不足和繁重的文书工作，医务人员的疲劳已达到极限。为打破这一局面，在医疗现场引入大语言模型(LLM)等新一代AI技术、切实改善工作环境的尝试日益活跃。"
               },
               {
                 "t": "p",
-                "x": "Microsoft AI称，其诊断系统MAI-DxO在MIMIC-IV-ED中常见的US急诊就诊病例上，准确率是医生的1.7倍；在复杂的NEJM病例上，准确率是医生的两倍以上。该研究发表于Science。"
+                "x": "顺应这一趋势，医疗人工智能(AI)专业企业AITRICS(代表Kim Kwang-joon)将与江北三星医院携手，着手缓解医疗现场长期存在的文书工作负担。此前，该公司入选首尔AI中心主办的“2026年AI转型(AX)支援项目”参与联合体企业。"
               },
               {
                 "t": "p",
-                "x": "论文提出了序贯诊断基准(Sequential Diagnosis Benchmark，SDBench)：包含304例复杂NEJM病例和典型的MIMIC-IV-ED病例，AI或医生从有限的信息出发，自行选择下一步要获取什么。MAI-DxO的运作方式类似一个虚拟医生小组，经过多轮讨论，权衡每项检查的价值与成本。"
+                "x": "AITRICS将通过此次项目，着手开发可实现临床病历自动化、革新院内工作流程的基于LLM的AX平台。其策略是用AI取代现场每天重复的信息确认和记录过程，最大限度提高诊疗效率。"
               },
               {
                 "t": "p",
-                "x": "据Microsoft介绍，MAI-DxO在NEJM病例上的准确率达到83%，而不借助参考资料的医生为22%，借助参考资料的医生为36%；在急诊病例上为80%对47%。一种成本优化配置以不到对比系统一半的成本达到了81%。"
+                "x": "特别是作为合作伙伴的江北三星医院，将细致分析实际门诊和护理环境，承担确定AI具体应用目标业务的核心角色。医院还将结合一线医生和护士的需求，具体制定必备功能和验证标准。"
               },
               {
                 "t": "p",
-                "x": "Microsoft将针对部分NEJM病例开源SDBench，并将与Boston的Beth Israel Deaconess Medical Center开展前瞻性研究，以医生的独立评估为参照衡量其表现。"
+                "x": "重点开发任务主要归纳为三项：▲门诊时累积的患者用药及诊断记录的高度化 ▲对大量CT·MRI等影像检查判读报告的核心病程进行摘要 ▲将护理交接过程中产生的语音对话转为文本(STT)并总结内容。核心在于由AI快速准确地压缩海量医疗数据，并及时提供。"
+              },
+              {
+                "t": "p",
+                "x": "从初期规划和开发阶段起，江北三星医院的一线人员将直接参与，评估易用性并仔细检验临床有效性。两家机构计划以此次合作为契机，确保技术通用性，使完成后的平台未来也能灵活移植到其他医疗机构。"
+              },
+              {
+                "t": "p",
+                "x": "AITRICS代表Kim Kwang-joon一再强调，AI技术必须立足于现场需求，讲求实效。"
+              },
+              {
+                "t": "p",
+                "x": "Kim代表表示：“此次项目的主要目标，是优先反映现场的声音，完成可即时融入实际医院系统的定制化AX平台。”他还说：“我们将全力以赴，让先进的LLM技术不仅切实减轻医务人员的工作负担，还成为改变医院整体运营范式的医疗数字创新催化剂。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Microsoft dice que su AI supera\na médicos en casos complejos",
-          "body": "Microsoft AI afirma que su orquestador de diagnóstico superó en precisión a los médicos en casos complejos.",
-          "mini_headline": "Microsoft y su AI de diagnóstico",
+          "headline": "AITRICS y Kangbuk Samsung\nLLM y AI para registros médicos",
+          "body": "AITRICS y el Hospital Kangbuk Samsung desarrollarán una plataforma LLM para automatizar registros médicos.",
+          "mini_headline": "Kangbuk Samsung, AI de registros con LLM",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://microsoft.ai/wp-content/uploads/2026/10/health_v5_logo_large-1280x717.webp"
+                "t": "p",
+                "x": "[Medical News·Daily Bosa = periodista Oh In-gyu] El cansancio del personal sanitario ha llegado al límite por la escasez crónica de personal y el enorme volumen de trabajo documental. Para superarlo, se multiplican los intentos de incorporar a la práctica clínica tecnologías de AI de nueva generación, como los grandes modelos de lenguaje (LLM), con el fin de mejorar de forma concreta el entorno de trabajo."
               },
               {
                 "t": "p",
-                "x": "Microsoft AI afirma que su sistema de diagnóstico, MAI-DxO, es 1.7 veces más preciso que los médicos en presentaciones habituales de urgencias de US procedentes de MIMIC-IV-ED, y más del doble de preciso en casos complejos de NEJM. El trabajo se publicó en Science."
+                "x": "En línea con esta tendencia, AITRICS (director ejecutivo: Kim Kwang-joon), empresa especializada en inteligencia artificial (AI) médica, se alía con el Hospital Kangbuk Samsung para aliviar la persistente carga documental en la práctica clínica. Lo hace tras ser seleccionada recientemente como empresa del consorcio participante en el 'Programa de Apoyo a la Transformación AI (AX) 2026', organizado por Seoul AI Hub."
               },
               {
                 "t": "p",
-                "x": "El artículo presenta el Sequential Diagnosis Benchmark (SDBench): 304 casos complejos de NEJM más casos típicos de MIMIC-IV-ED, en los que la AI o los médicos parten de información limitada y eligen qué solicitar a continuación. MAI-DxO funciona como un panel de médicos virtuales que debate durante varias rondas y sopesa el valor de cada prueba frente a su coste."
+                "x": "Con este proyecto, AITRICS comenzará a desarrollar una plataforma AX basada en LLM capaz de automatizar los registros clínicos y renovar los flujos de trabajo hospitalarios. La estrategia consiste en sustituir con AI los procesos de verificación y registro de información que se repiten a diario, para maximizar la eficiencia asistencial."
               },
               {
                 "t": "p",
-                "x": "Según Microsoft, MAI-DxO alcanzó un 83% de precisión en los casos de NEJM, frente al 22% de los médicos sin recursos de consulta y el 36% con ellos, y un 80% frente a un 47% en los casos de urgencias. Una configuración optimizada en costes llegó al 81% con menos de la mitad del coste de sistemas comparables."
+                "x": "En particular, el Hospital Kangbuk Samsung, como socio, desempeñará un papel central: analizará en detalle los entornos reales de consulta externa y enfermería para definir las tareas concretas a las que se aplicará la AI. También concretará las funciones esenciales y los criterios de validación ajustados a las necesidades de los médicos y enfermeros que realizan el trabajo diario."
               },
               {
                 "t": "p",
-                "x": "Microsoft publicará como código abierto SDBench para una selección de casos de NEJM y realizará un estudio prospectivo con el Beth Israel Deaconess Medical Center de Boston, en el que medirá su rendimiento frente a las evaluaciones independientes de los médicos."
+                "x": "Las tareas de desarrollo prioritarias se resumen en tres: ▲perfeccionar el historial acumulado de medicación y diagnóstico de los pacientes en consulta externa ▲resumir la evolución clave de los numerosos informes de lectura de pruebas de imagen como CT·MRI ▲convertir a texto (STT) y resumir las conversaciones de voz que se producen en los relevos de enfermería. La clave es que la AI condense con rapidez y precisión grandes volúmenes de datos médicos y los ofrezca en el momento oportuno."
+              },
+              {
+                "t": "p",
+                "x": "El personal del Hospital Kangbuk Samsung participará directamente desde las fases iniciales de planificación y desarrollo para evaluar la usabilidad y examinar con detalle la validez clínica. Ambas instituciones aspiran a que esta colaboración sirva de impulso para asegurar una versatilidad técnica que permita trasladar con flexibilidad la plataforma terminada a otras instituciones médicas."
+              },
+              {
+                "t": "p",
+                "x": "Kim Kwang-joon, director ejecutivo de AITRICS, insistió en la eficacia práctica de una tecnología de AI basada estrictamente en las necesidades reales del entorno clínico."
+              },
+              {
+                "t": "p",
+                "x": "\"El objetivo principal de este proyecto es completar una plataforma AX a medida que dé prioridad a la voz del personal y pueda integrarse de inmediato en los sistemas hospitalarios reales\", afirmó Kim. \"Haremos todo lo posible para que la avanzada tecnología LLM no solo alivie de forma real la carga de trabajo del personal médico, sino que también sea el detonante de una innovación digital sanitaria que cambie el paradigma de la gestión hospitalaria en su conjunto\", añadió."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Microsoft “AI가\n복잡 사례서 의사 앞서”",
-          "body": "Microsoft AI는 진단 AI가 복잡한 사례서 의사를 앞섰다고 밝혔다.",
-          "mini_headline": "Microsoft의 AI 진단 주장",
+        "en": {
+          "headline": "AITRICS, Kangbuk Samsung\ndevelop LLM medical-record AI",
+          "body": "AITRICS and Kangbuk Samsung Hospital are starting to develop an LLM-based platform to automate medical records.",
+          "mini_headline": "Kangbuk Samsung LLM records AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://microsoft.ai/wp-content/uploads/2026/10/health_v5_logo_large-1280x717.webp"
+                "t": "p",
+                "x": "[Medical News·Daily Bosa = Reporter Oh In-gyu] Clinician fatigue in healthcare has reached its peak, driven by chronic staffing shortages and heavy paperwork. To address this, efforts are growing to bring next-generation AI technologies such as large language models (LLM) into clinical settings and improve day-to-day working conditions."
               },
               {
                 "t": "p",
-                "x": "Microsoft AI는 자사 진단 시스템 MAI-DxO가 MIMIC-IV-ED의 흔한 US 응급실 내원 사례에서 의사보다 1.7배 정확하고, 복잡한 NEJM 사례에서는 두 배 넘게 정확하다고 밝혔다. 이 연구는 Science에 실렸다."
+                "x": "In line with this trend, medical artificial intelligence (AI) company AITRICS (CEO Kim Kwang-joon) is teaming up with Kangbuk Samsung Hospital to ease the long-standing burden of documentation in clinical practice. The move follows its recent selection as a consortium participant in the '2026 AI Transformation (AX) Support Program' run by Seoul AI Hub."
               },
               {
                 "t": "p",
-                "x": "논문은 순차 진단 벤치마크(Sequential Diagnosis Benchmark, SDBench)를 소개한다. 복잡한 NEJM 사례 304건과 전형적인 MIMIC-IV-ED 사례로 구성되며, AI나 의사는 제한된 정보에서 출발해 다음에 무엇을 요청할지 고른다. MAI-DxO는 가상 의사 패널처럼 작동하며, 여러 차례 토론하면서 각 검사의 가치를 비용과 견준다."
+                "x": "Through the project, AITRICS will begin developing an LLM-based AX platform that automates clinical medical records and transforms in-hospital workflows. The strategy is to maximize care efficiency by replacing the information checks and record-keeping repeated every day on the front lines with AI."
               },
               {
                 "t": "p",
-                "x": "Microsoft에 따르면 MAI-DxO는 NEJM 사례에서 83%의 정확도를 기록했고, 참고 자료 없이 진단한 의사는 22%, 참고 자료를 쓴 의사는 36%였다. 응급실 사례에서는 80% 대 47%였다. 비용을 최적화한 한 구성은 비교 대상 시스템 비용의 절반에도 못 미치는 비용으로 81%에 도달했다."
+                "x": "As partner, Kangbuk Samsung Hospital will play a central role, closely analyzing real outpatient and nursing environments to define the specific tasks AI will be applied to. It will also specify essential functions and validation criteria tailored to the doctors and nurses who do the hands-on work."
               },
               {
                 "t": "p",
-                "x": "Microsoft는 일부 NEJM 사례를 대상으로 SDBench를 오픈소스로 공개하고, Boston의 Beth Israel Deaconess Medical Center와 전향적 연구를 진행해 의사의 독립적 평가와 성능을 비교할 계획이다."
+                "x": "The development work comes down to three main tasks: ▲advancing the accumulated medication and diagnosis histories of patients in outpatient care ▲summarizing key progress from large volumes of imaging reports such as CT·MRI ▲converting voice conversations during nursing handoffs to text (STT) and summarizing their content. The core aim is for AI to condense vast amounts of medical data quickly and accurately and deliver it at the right time."
+              },
+              {
+                "t": "p",
+                "x": "Kangbuk Samsung Hospital staff will take part directly from the early planning and development stages to evaluate usability and closely examine clinical validity. The two institutions plan to use this collaboration as a springboard to secure technical versatility, so the finished platform can later be readily adopted by other medical institutions."
+              },
+              {
+                "t": "p",
+                "x": "AITRICS CEO Kim Kwang-joon repeatedly stressed the practical effectiveness of AI technology grounded firmly in on-site needs."
+              },
+              {
+                "t": "p",
+                "x": "\"The main goal of this project is to complete a customized AX platform that puts the voices of the field first and can be immediately integrated into real hospital systems,\" Kim said. \"We will do our best to make advanced LLM technology a catalyst for digital innovation in healthcare that not only meaningfully reduces clinicians' workload but also changes the paradigm of overall hospital operations.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "Microsoft「AIが\n難症例で医師超え」",
-          "body": "Microsoft AIは、診断AIが複雑な症例の精度で医師を上回ったと発表した。",
-          "mini_headline": "MicrosoftのAI診断の主張",
+          "headline": "AITRICS・江北サムスン\nLLM医療記録AI開発",
+          "body": "AITRICSと江北サムスン病院が、LLMベースの医療記録自動化基盤の開発に着手する。",
+          "mini_headline": "江北サムスン LLM医療記録AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://microsoft.ai/wp-content/uploads/2026/10/health_v5_logo_large-1280x717.webp"
+                "t": "p",
+                "x": "[医学新聞・日刊保社=オ・インギュ記者] 最近の医療界は、慢性的な人手不足と膨大な文書作業などにより、医療スタッフの疲労が限界に達している。これを打開するため、大規模言語モデル(LLM)などの次世代AI技術を医療現場に取り入れ、実際の業務環境を改善しようとする試みが活発になっている。"
               },
               {
                 "t": "p",
-                "x": "Microsoft AIによると、同社の診断システムMAI-DxOは、MIMIC-IV-EDに含まれる一般的なUSの救急外来受診例で医師より1.7倍正確で、複雑なNEJM症例では2倍を超える精度だった。研究はScienceに掲載された。"
+                "x": "こうした流れに合わせ、医療人工知能(AI)専門企業のAITRICS(代表キム・グァンジュン)は江北サムスン病院と手を組み、医療現場に根強く残る文書業務の負担解消に乗り出す。最近、ソウルAIハブが主管する「2026年AI転換(AX)支援事業」の参加コンソーシアム企業に選ばれたことによるものだ。"
               },
               {
                 "t": "p",
-                "x": "論文は逐次診断ベンチマーク(Sequential Diagnosis Benchmark、SDBench)を提示している。複雑なNEJM症例304件と典型的なMIMIC-IV-ED症例で構成され、AIや医師は限られた情報から始めて、次に何を求めるかを選ぶ。MAI-DxOは仮想の医師団のように動き、数回にわたって議論しながら各検査の価値を費用と比べる。"
+                "x": "AITRICSは今回の事業を通じ、臨床の医療記録を自動化し、院内ワークフローを革新できるLLMベースのAXプラットフォームの開発に着手する。現場で毎日繰り返される情報確認と記録の作業をAIで置き換え、診療効率を最大化する戦略だ。"
               },
               {
                 "t": "p",
-                "x": "Microsoftによれば、MAI-DxOはNEJM症例で83%の正答率を達成した。参考資料なしの医師は22%、参考資料ありでは36%だった。救急外来症例では80%対47%だった。費用を最適化したある構成は、比較対象システムの半分未満の費用で81%に達した。"
+                "x": "特にパートナーとなった江北サムスン病院は、実際の外来と看護の環境を綿密に分析し、AIを適用する具体的な対象業務を設定する中核的な役割を担う。実務を担う医師や看護師の目線に合わせた必須機能と検証基準も併せて具体化する予定だ。"
               },
               {
                 "t": "p",
-                "x": "Microsoftは一部のNEJM症例についてSDBenchをオープンソース化し、BostonのBeth Israel Deaconess Medical Centerと前向き研究を行い、医師による独立した評価と性能を比較する。"
+                "x": "重点開発課題は大きく三つに絞られる。▲外来診療時に蓄積された患者の投薬・診断履歴の高度化 ▲膨大なCT・MRIなど画像検査の読影結果報告書の主要経過の要約 ▲看護の引き継ぎで生じる音声会話のテキスト変換(STT)と内容の要約などだ。膨大な医療データをAIが迅速かつ正確に圧縮し、適時に提供することが核心である。"
+              },
+              {
+                "t": "p",
+                "x": "初期の企画・開発段階から江北サムスン病院の実務スタッフが直接参加し、使いやすさを評価して臨床的有効性を丹念に検証する計画だ。両機関は今回の協力を呼び水に、完成したプラットフォームを今後ほかの医療機関にも柔軟に移植できるよう、技術的な汎用性を確保するという青写真を描いた。"
+              },
+              {
+                "t": "p",
+                "x": "AITRICSのキム・グァンジュン代表は、徹底して現場の需要に基づいたAI技術の実効性を繰り返し強調した。"
+              },
+              {
+                "t": "p",
+                "x": "キム代表は「現場の声を最優先に反映し、実際の病院システムにすぐ融合できるオーダーメイドのAXプラットフォームを完成させることが今回の事業の主な目標だ」とし、「進化したLLM技術が医療スタッフの実質的な業務軽減はもちろん、病院運営全般のパラダイムを変える医療デジタル革新の起爆剤となるよう最善を尽くす」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Microsoft称AI\n复杂病例胜过医生",
-          "body": "Microsoft AI称，其诊断协调系统在复杂病例中的准确率超过了医生。",
-          "mini_headline": "Microsoft的AI诊断之说",
+          "headline": "AITRICS·江北三星\n开发LLM病历AI",
+          "body": "AITRICS与江北三星医院将着手开发基于LLM的病历自动化平台。",
+          "mini_headline": "江北三星 LLM病历AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://microsoft.ai/wp-content/uploads/2026/10/health_v5_logo_large-1280x717.webp"
+                "t": "p",
+                "x": "[医学新闻·日刊保社 记者Oh In-gyu] 近来，由于长期人手不足和繁重的文书工作，医务人员的疲劳已达到极限。为打破这一局面，在医疗现场引入大语言模型(LLM)等新一代AI技术、切实改善工作环境的尝试日益活跃。"
               },
               {
                 "t": "p",
-                "x": "Microsoft AI称，其诊断系统MAI-DxO在MIMIC-IV-ED中常见的US急诊就诊病例上，准确率是医生的1.7倍；在复杂的NEJM病例上，准确率是医生的两倍以上。该研究发表于Science。"
+                "x": "顺应这一趋势，医疗人工智能(AI)专业企业AITRICS(代表Kim Kwang-joon)将与江北三星医院携手，着手缓解医疗现场长期存在的文书工作负担。此前，该公司入选首尔AI中心主办的“2026年AI转型(AX)支援项目”参与联合体企业。"
               },
               {
                 "t": "p",
-                "x": "论文提出了序贯诊断基准(Sequential Diagnosis Benchmark，SDBench)：包含304例复杂NEJM病例和典型的MIMIC-IV-ED病例，AI或医生从有限的信息出发，自行选择下一步要获取什么。MAI-DxO的运作方式类似一个虚拟医生小组，经过多轮讨论，权衡每项检查的价值与成本。"
+                "x": "AITRICS将通过此次项目，着手开发可实现临床病历自动化、革新院内工作流程的基于LLM的AX平台。其策略是用AI取代现场每天重复的信息确认和记录过程，最大限度提高诊疗效率。"
               },
               {
                 "t": "p",
-                "x": "据Microsoft介绍，MAI-DxO在NEJM病例上的准确率达到83%，而不借助参考资料的医生为22%，借助参考资料的医生为36%；在急诊病例上为80%对47%。一种成本优化配置以不到对比系统一半的成本达到了81%。"
+                "x": "特别是作为合作伙伴的江北三星医院，将细致分析实际门诊和护理环境，承担确定AI具体应用目标业务的核心角色。医院还将结合一线医生和护士的需求，具体制定必备功能和验证标准。"
               },
               {
                 "t": "p",
-                "x": "Microsoft将针对部分NEJM病例开源SDBench，并将与Boston的Beth Israel Deaconess Medical Center开展前瞻性研究，以医生的独立评估为参照衡量其表现。"
+                "x": "重点开发任务主要归纳为三项：▲门诊时累积的患者用药及诊断记录的高度化 ▲对大量CT·MRI等影像检查判读报告的核心病程进行摘要 ▲将护理交接过程中产生的语音对话转为文本(STT)并总结内容。核心在于由AI快速准确地压缩海量医疗数据，并及时提供。"
+              },
+              {
+                "t": "p",
+                "x": "从初期规划和开发阶段起，江北三星医院的一线人员将直接参与，评估易用性并仔细检验临床有效性。两家机构计划以此次合作为契机，确保技术通用性，使完成后的平台未来也能灵活移植到其他医疗机构。"
+              },
+              {
+                "t": "p",
+                "x": "AITRICS代表Kim Kwang-joon一再强调，AI技术必须立足于现场需求，讲求实效。"
+              },
+              {
+                "t": "p",
+                "x": "Kim代表表示：“此次项目的主要目标，是优先反映现场的声音，完成可即时融入实际医院系统的定制化AX平台。”他还说：“我们将全力以赴，让先进的LLM技术不仅切实减轻医务人员的工作负担，还成为改变医院整体运营范式的医疗数字创新催化剂。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Microsoft dice que su AI supera\na médicos en casos complejos",
-          "body": "Microsoft AI afirma que su orquestador de diagnóstico superó en precisión a los médicos en casos complejos.",
-          "mini_headline": "Microsoft y su AI de diagnóstico",
+          "headline": "AITRICS y Kangbuk Samsung\nLLM y AI para registros médicos",
+          "body": "AITRICS y el Hospital Kangbuk Samsung desarrollarán una plataforma LLM para automatizar registros médicos.",
+          "mini_headline": "Kangbuk Samsung, AI de registros con LLM",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://microsoft.ai/wp-content/uploads/2026/10/health_v5_logo_large-1280x717.webp"
+                "t": "p",
+                "x": "[Medical News·Daily Bosa = periodista Oh In-gyu] El cansancio del personal sanitario ha llegado al límite por la escasez crónica de personal y el enorme volumen de trabajo documental. Para superarlo, se multiplican los intentos de incorporar a la práctica clínica tecnologías de AI de nueva generación, como los grandes modelos de lenguaje (LLM), con el fin de mejorar de forma concreta el entorno de trabajo."
               },
               {
                 "t": "p",
-                "x": "Microsoft AI afirma que su sistema de diagnóstico, MAI-DxO, es 1.7 veces más preciso que los médicos en presentaciones habituales de urgencias de US procedentes de MIMIC-IV-ED, y más del doble de preciso en casos complejos de NEJM. El trabajo se publicó en Science."
+                "x": "En línea con esta tendencia, AITRICS (director ejecutivo: Kim Kwang-joon), empresa especializada en inteligencia artificial (AI) médica, se alía con el Hospital Kangbuk Samsung para aliviar la persistente carga documental en la práctica clínica. Lo hace tras ser seleccionada recientemente como empresa del consorcio participante en el 'Programa de Apoyo a la Transformación AI (AX) 2026', organizado por Seoul AI Hub."
               },
               {
                 "t": "p",
-                "x": "El artículo presenta el Sequential Diagnosis Benchmark (SDBench): 304 casos complejos de NEJM más casos típicos de MIMIC-IV-ED, en los que la AI o los médicos parten de información limitada y eligen qué solicitar a continuación. MAI-DxO funciona como un panel de médicos virtuales que debate durante varias rondas y sopesa el valor de cada prueba frente a su coste."
+                "x": "Con este proyecto, AITRICS comenzará a desarrollar una plataforma AX basada en LLM capaz de automatizar los registros clínicos y renovar los flujos de trabajo hospitalarios. La estrategia consiste en sustituir con AI los procesos de verificación y registro de información que se repiten a diario, para maximizar la eficiencia asistencial."
               },
               {
                 "t": "p",
-                "x": "Según Microsoft, MAI-DxO alcanzó un 83% de precisión en los casos de NEJM, frente al 22% de los médicos sin recursos de consulta y el 36% con ellos, y un 80% frente a un 47% en los casos de urgencias. Una configuración optimizada en costes llegó al 81% con menos de la mitad del coste de sistemas comparables."
+                "x": "En particular, el Hospital Kangbuk Samsung, como socio, desempeñará un papel central: analizará en detalle los entornos reales de consulta externa y enfermería para definir las tareas concretas a las que se aplicará la AI. También concretará las funciones esenciales y los criterios de validación ajustados a las necesidades de los médicos y enfermeros que realizan el trabajo diario."
               },
               {
                 "t": "p",
-                "x": "Microsoft publicará como código abierto SDBench para una selección de casos de NEJM y realizará un estudio prospectivo con el Beth Israel Deaconess Medical Center de Boston, en el que medirá su rendimiento frente a las evaluaciones independientes de los médicos."
+                "x": "Las tareas de desarrollo prioritarias se resumen en tres: ▲perfeccionar el historial acumulado de medicación y diagnóstico de los pacientes en consulta externa ▲resumir la evolución clave de los numerosos informes de lectura de pruebas de imagen como CT·MRI ▲convertir a texto (STT) y resumir las conversaciones de voz que se producen en los relevos de enfermería. La clave es que la AI condense con rapidez y precisión grandes volúmenes de datos médicos y los ofrezca en el momento oportuno."
+              },
+              {
+                "t": "p",
+                "x": "El personal del Hospital Kangbuk Samsung participará directamente desde las fases iniciales de planificación y desarrollo para evaluar la usabilidad y examinar con detalle la validez clínica. Ambas instituciones aspiran a que esta colaboración sirva de impulso para asegurar una versatilidad técnica que permita trasladar con flexibilidad la plataforma terminada a otras instituciones médicas."
+              },
+              {
+                "t": "p",
+                "x": "Kim Kwang-joon, director ejecutivo de AITRICS, insistió en la eficacia práctica de una tecnología de AI basada estrictamente en las necesidades reales del entorno clínico."
+              },
+              {
+                "t": "p",
+                "x": "\"El objetivo principal de este proyecto es completar una plataforma AX a medida que dé prioridad a la voz del personal y pueda integrarse de inmediato en los sistemas hospitalarios reales\", afirmó Kim. \"Haremos todo lo posible para que la avanzada tecnología LLM no solo alivie de forma real la carga de trabajo del personal médico, sino que también sea el detonante de una innovación digital sanitaria que cambie el paradigma de la gestión hospitalaria en su conjunto\", añadió."
               }
             ]
           }
@@ -547,361 +787,311 @@
       }
     },
     {
-      "id": "medicine-mfds-aidrug",
-      "source_lang": "ko",
+      "id": "medicine-pitt-breast-ai-trust",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "식약처, AI 신약\n심사기준 연내 마련",
-      "body": "식약처가 AI로 개발한 의약품의 허가·심사 가이드라인을 12월까지 마련한다.",
-      "mini_headline": "AI 신약 심사기준 연내",
+      "headline": "Pitt 유방암 AI 모델\n재검토 필요 판독 표시",
+      "body": "Pitt 연구진이 불확실성 점수로 재검토 대상을 가리는 유방암 AI를 만들었다.",
+      "mini_headline": "유방암 AI 점검",
       "tool": "Medicine",
-      "source": "의학신문(일간보사)",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014609",
+      "source": "Radiology Business",
+      "url": "https://radiologybusiness.com/topics/artificial-intelligence/artificial-intelligence-checks-trustworthiness-breast-cancer-ai-models",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "식품의약품안전처가 인공지능(AI)을 활용해 개발한 의약품의 허가·심사 가이드라인을 올해 12월까지 마련한다. AI를 이용한 신약 후보물질 발굴과 독성 예측 등이 확대되고 있지만, 이를 허가심사 과정에서 평가할 별도 기준이 없어 발생했던 제약기업의 불확실성을 해소하겠다는 취지다."
-          },
-          {
             "t": "img",
-            "src": "https://cdn.bosa.co.kr/news/photo/202610/3014609_415542_172.jpg",
-            "cap": "사진=의학신문 DB."
+            "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-06/istock-2202666684.jpg?h=140710cd&itok=XUsmUugX"
           },
           {
             "t": "p",
-            "x": "23일 대통령 주재로 열리는 규제합리화위원회 제2차 전체회의에서는 이 같은 내용의 바이오 분야 규제합리화 방안을 공개했다."
+            "x": "University of Pittsburgh 연구진이 유방암 영상 AI의 신뢰도를 높여 줄 것으로 기대하는 AI 모델을 설계했다."
           },
           {
             "t": "p",
-            "x": "그동안 제약기업이 AI로 신약 후보물질을 발굴하거나 독성을 예측해도 허가심사에 어떤 자료를 준비해야 하는지 판단하기 어려웠다. 미국 FDA와 유럽 EMA는 올해 AI 기반 의약품 개발 과정에서 업계가 준수해야 할 10가지 기본 원칙을 담은 공동 가이드라인을 발표했으며, 식약처는 이 같은 국제 규제 동향을 반영할 계획이다."
+            "x": "이 모델의 심층 신경망은 진단 예측과 함께 불확실성도 추정하도록 학습했다. 불확실성 가중 학습(uncertainty-weighted learning)이라 부르는 이 방법은 예측값과 불확실성 점수를 함께 내놓는다. 출력의 신뢰도가 낮아 영상의학과 전문의가 AI 결과를 다시 봐야 할 수 있는 사례는 따로 표시한다."
           },
           {
             "t": "p",
-            "x": "정부는 AI 기술 활용으로 평균 1조~2조원에 이르는 전통적 신약 개발 비용을 최대 50%까지 절감할 수 있을 것으로 기대한다. 신준수 국장은 \"AI 기술을 활용해 개발된 의약품이 증가함에 따라 명확하고 구체적인 심사 가이드라인을 개발하겠다\"고 말했다."
+            "x": "Pitt 영상의학과 교수 Shandong Wu, PhD가 박사과정생 Jiren Li, Dooman Arefan, PhD와 함께 연구를 이끌었다. 모델 학습과 평가에는 Pittsburgh Supercomputing Center의 Bridges-2 슈퍼컴퓨터를 썼다."
           },
           {
             "t": "p",
-            "x": "이와 함께 성분과 첨가제가 동일한 수용성 주사제의 동등성 입증자료 제출 면제, 제형 차이가 경미한 일반의약품의 제출자료 간소화, AI·소프트웨어가 결합된 디지털 융합 의약품의 원스톱 통합심사 등도 추진한다."
+            "x": "연구팀은 이 방식을 유방촬영술 밖으로 넓히기를 기대한다. 다만 연구는 아직 초기 단계여서 다양한 환자군과 영상 환경에서 추가 검증이 필요하다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "식약처, AI 신약\n심사기준 연내 마련",
-          "body": "식약처가 AI로 개발한 의약품의 허가·심사 가이드라인을 12월까지 마련한다.",
-          "mini_headline": "AI 신약 심사기준 연내",
+        "en": {
+          "headline": "Pitt model flags breast AI\nreads for a second look",
+          "body": "Pitt researchers built a breast cancer AI that scores its own uncertainty to flag results that may need a second look.",
+          "mini_headline": "Checking breast cancer AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "식품의약품안전처가 인공지능(AI)을 활용해 개발한 의약품의 허가·심사 가이드라인을 올해 12월까지 마련한다. AI를 이용한 신약 후보물질 발굴과 독성 예측 등이 확대되고 있지만, 이를 허가심사 과정에서 평가할 별도 기준이 없어 발생했던 제약기업의 불확실성을 해소하겠다는 취지다."
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014609_415542_172.jpg",
-                "cap": "사진=의학신문 DB."
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-06/istock-2202666684.jpg?h=140710cd&itok=XUsmUugX"
               },
               {
                 "t": "p",
-                "x": "23일 대통령 주재로 열리는 규제합리화위원회 제2차 전체회의에서는 이 같은 내용의 바이오 분야 규제합리화 방안을 공개했다."
+                "x": "Researchers at the University of Pittsburgh have designed an AI model they believe will help make breast cancer imaging AI more trustworthy."
               },
               {
                 "t": "p",
-                "x": "그동안 제약기업이 AI로 신약 후보물질을 발굴하거나 독성을 예측해도 허가심사에 어떤 자료를 준비해야 하는지 판단하기 어려웠다. 미국 FDA와 유럽 EMA는 올해 AI 기반 의약품 개발 과정에서 업계가 준수해야 할 10가지 기본 원칙을 담은 공동 가이드라인을 발표했으며, 식약처는 이 같은 국제 규제 동향을 반영할 계획이다."
+                "x": "Its deep neural network is trained to estimate uncertainty alongside its diagnostic predictions. The method, called uncertainty-weighted learning, generates a prediction and an uncertainty score, flagging cases where the output may be less dependable and an AI result may need a radiologist's second look."
               },
               {
                 "t": "p",
-                "x": "정부는 AI 기술 활용으로 평균 1조~2조원에 이르는 전통적 신약 개발 비용을 최대 50%까지 절감할 수 있을 것으로 기대한다. 신준수 국장은 \"AI 기술을 활용해 개발된 의약품이 증가함에 따라 명확하고 구체적인 심사 가이드라인을 개발하겠다\"고 말했다."
+                "x": "Shandong Wu, PhD, a professor of radiology at Pitt, led the work with doctoral student Jiren Li and Dooman Arefan, PhD, using the Bridges-2 supercomputer at the Pittsburgh Supercomputing Center to train and evaluate the models."
               },
               {
                 "t": "p",
-                "x": "이와 함께 성분과 첨가제가 동일한 수용성 주사제의 동등성 입증자료 제출 면제, 제형 차이가 경미한 일반의약품의 제출자료 간소화, AI·소프트웨어가 결합된 디지털 융합 의약품의 원스톱 통합심사 등도 추진한다."
+                "x": "The team hopes to extend the approach beyond mammography, but the work is still early and needs further validation across patient populations and imaging settings."
               }
             ]
           }
         },
-        "en": {
-          "headline": "MFDS to set AI drug review\nstandards within the year",
-          "body": "The Ministry of Food and Drug Safety will prepare approval and review guidelines for AI-developed drugs by December.",
-          "mini_headline": "AI drug review rules due this year",
+        "ko": {
+          "headline": "Pitt 유방암 AI 모델\n재검토 필요 판독 표시",
+          "body": "Pitt 연구진이 불확실성 점수로 재검토 대상을 가리는 유방암 AI를 만들었다.",
+          "mini_headline": "유방암 AI 점검",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "The Ministry of Food and Drug Safety (MFDS) will prepare approval and review guidelines for medicines developed using artificial intelligence (AI) by December this year. The aim is to ease the uncertainty drugmakers have faced: AI is increasingly used to discover drug candidates and predict toxicity, but there has been no separate standard for evaluating this work during approval review."
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014609_415542_172.jpg",
-                "cap": "Photo: The Medical Newspaper DB."
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-06/istock-2202666684.jpg?h=140710cd&itok=XUsmUugX"
               },
               {
                 "t": "p",
-                "x": "The plan for rationalizing regulation in the bio sector was unveiled at the 2nd plenary meeting of the Regulatory Rationalization Committee, chaired by the President, on the 23rd."
+                "x": "University of Pittsburgh 연구진이 유방암 영상 AI의 신뢰도를 높여 줄 것으로 기대하는 AI 모델을 설계했다."
               },
               {
                 "t": "p",
-                "x": "Until now, even when drugmakers used AI to discover drug candidates or predict toxicity, it was hard to judge what data to prepare for approval review. The U.S. FDA and Europe's EMA released joint guidelines this year setting out 10 basic principles the industry should follow in AI-based drug development, and the MFDS plans to reflect such international regulatory trends."
+                "x": "이 모델의 심층 신경망은 진단 예측과 함께 불확실성도 추정하도록 학습했다. 불확실성 가중 학습(uncertainty-weighted learning)이라 부르는 이 방법은 예측값과 불확실성 점수를 함께 내놓는다. 출력의 신뢰도가 낮아 영상의학과 전문의가 AI 결과를 다시 봐야 할 수 있는 사례는 따로 표시한다."
               },
               {
                 "t": "p",
-                "x": "The government expects that using AI could cut traditional drug development costs, which average 1 trillion to 2 trillion won (1조~2조원), by up to 50%. Director General Shin Jun-su said, “As the number of medicines developed using AI technology grows, we will develop clear and specific review guidelines.”"
+                "x": "Pitt 영상의학과 교수 Shandong Wu, PhD가 박사과정생 Jiren Li, Dooman Arefan, PhD와 함께 연구를 이끌었다. 모델 학습과 평가에는 Pittsburgh Supercomputing Center의 Bridges-2 슈퍼컴퓨터를 썼다."
               },
               {
                 "t": "p",
-                "x": "The ministry will also pursue exempting water-soluble injectables with identical ingredients and excipients from submitting equivalence data, simplifying submission requirements for over-the-counter drugs with minor formulation differences, and a one-stop integrated review for digital combination medicines that incorporate AI and software."
+                "x": "연구팀은 이 방식을 유방촬영술 밖으로 넓히기를 기대한다. 다만 연구는 아직 초기 단계여서 다양한 환자군과 영상 환경에서 추가 검증이 필요하다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "食薬処、AI新薬の\n審査基準を年内に策定",
-          "body": "食薬処はAIで開発した医薬品の許可・審査ガイドラインを12月までに策定する。",
-          "mini_headline": "AI新薬の審査基準、年内に",
+          "headline": "Pitt発の乳がんAI\n要再確認の判定を示す",
+          "body": "Pittの研究者が自らの不確実性を数値化し再確認が必要な結果を示す乳がんAIを開発した。",
+          "mini_headline": "乳がんAIの信頼性チェック",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "食品医薬品安全処(食薬処)は、人工知能(AI)を活用して開発した医薬品の許可・審査ガイドラインを今年12月までに策定する。AIを使った新薬候補物質の探索や毒性予測などが広がる一方、許可審査の過程でそれを評価する個別の基準がなく、製薬企業が抱えていた不確実性を解消する狙いだ。"
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014609_415542_172.jpg",
-                "cap": "写真=医学新聞 DB."
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-06/istock-2202666684.jpg?h=140710cd&itok=XUsmUugX"
               },
               {
                 "t": "p",
-                "x": "23日に大統領主宰で開かれた規制合理化委員会の第2次全体会議で、こうした内容を含むバイオ分野の規制合理化策が公表された。"
+                "x": "University of Pittsburghの研究チームが、乳がん画像AIの信頼性向上に役立つと考えるAIモデルを設計した。"
               },
               {
                 "t": "p",
-                "x": "これまで製薬企業は、AIで新薬候補物質を探索したり毒性を予測したりしても、許可審査にどのような資料を用意すべきか判断しにくかった。米国FDAと欧州EMAは今年、AIを用いた医薬品開発で業界が守るべき10の基本原則をまとめた共同ガイドラインを発表しており、食薬処はこうした国際的な規制動向を反映する方針だ。"
+                "x": "このモデルの深層ニューラルネットワークは、診断予測とあわせて不確実性を推定するよう学習されている。uncertainty-weighted learning(不確実性加重学習)と呼ばれるこの手法は、予測と不確実性スコアを生成し、出力の信頼性が低い可能性があり、AIの結果に放射線科医による再確認が必要になりうるケースを示す。"
               },
               {
                 "t": "p",
-                "x": "政府は、AI技術の活用によって平均1兆~2兆ウォン(1조~2조원)にのぼる従来の新薬開発費を最大50%削減できると期待している。シン・ジュンス局長は「AI技術を活用して開発された医薬品が増えるのに合わせ、明確で具体的な審査ガイドラインを開発する」と述べた。"
+                "x": "Pittの放射線科教授Shandong Wu, PhDが、博士課程の学生Jiren Li、Dooman Arefan, PhDとともに研究を率い、Pittsburgh Supercomputing CenterのスーパーコンピューターBridges-2でモデルの学習と評価を行った。"
               },
               {
                 "t": "p",
-                "x": "あわせて、成分と添加剤が同一の水溶性注射剤における同等性立証資料の提出免除、剤形の違いが軽微な一般用医薬品の提出資料の簡素化、AI・ソフトウェアを組み合わせたデジタル融合医薬品のワンストップ統合審査なども進める。"
+                "x": "研究チームはこの手法をマンモグラフィー以外にも広げたい考えだが、研究はまだ初期段階にあり、さまざまな患者集団や撮影環境でのさらなる検証が必要だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "食药处：AI新药\n审查标准年内出台",
-          "body": "食品医药品安全处将于今年12月前制定利用AI开发的药品许可与审查指南。",
-          "mini_headline": "AI新药审查标准年内出台",
+          "headline": "Pitt乳腺癌AI模型\n标出需复核的判读",
+          "body": "Pitt研究人员开发出一款乳腺癌AI，可为自身不确定性打分，标出可能需复核的结果。",
+          "mini_headline": "检验乳腺癌AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "食品医药品安全处(食药处)将于今年12月前制定利用人工智能(AI)开发的药品许可与审查指南。利用AI发掘新药候选物质、预测毒性等做法日益增多，但许可审查过程中一直缺乏评估这些工作的专门标准，此举旨在消除制药企业因此面临的不确定性。"
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014609_415542_172.jpg",
-                "cap": "图片=医学新闻 DB."
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-06/istock-2202666684.jpg?h=140710cd&itok=XUsmUugX"
               },
               {
                 "t": "p",
-                "x": "23日由总统主持召开的规制合理化委员会第2次全体会议公布了包含上述内容的生物领域规制合理化方案。"
+                "x": "University of Pittsburgh的研究人员设计了一款AI模型，他们认为它有助于提升乳腺癌影像AI的可信度。"
               },
               {
                 "t": "p",
-                "x": "此前，制药企业即便利用AI发掘新药候选物质或预测毒性，也难以判断许可审查需要准备哪些资料。美国FDA和欧洲EMA今年发布了联合指南，列出业界在基于AI的药品开发过程中应遵守的10项基本原则，食药处计划吸纳这些国际监管动向。"
+                "x": "该模型的深度神经网络经过训练，可在给出诊断预测的同时估计不确定性。这种名为不确定性加权学习(uncertainty-weighted learning)的方法会生成预测结果和不确定性评分，标出输出可能不太可靠、AI结果可能需要放射科医生复核的病例。"
               },
               {
                 "t": "p",
-                "x": "政府预计，借助AI技术，平均高达1万亿至2万亿韩元(1조~2조원)的传统新药开发成本最多可降低50%。Shin Jun-su 局长表示：“随着利用AI技术开发的药品不断增加，我们将制定明确而具体的审查指南。”"
+                "x": "Pitt放射学教授Shandong Wu, PhD与博士生Jiren Li及Dooman Arefan, PhD共同主导了这项研究，并利用Pittsburgh Supercomputing Center的Bridges-2超级计算机训练和评估模型。"
               },
               {
                 "t": "p",
-                "x": "此外，还将推进以下措施：成分和辅料相同的水溶性注射剂免于提交等效性证明资料，剂型差异轻微的非处方药简化提交资料，以及对结合AI·软件的数字融合药品实行一站式综合审查。"
+                "x": "团队希望将该方法推广到乳腺钼靶摄影以外的领域，但这项工作仍处于早期阶段，还需在不同患者群体和影像环境中进一步验证。"
               }
             ]
           }
         },
         "es": {
-          "headline": "MFDS fijará este año normas\npara revisar fármacos con AI",
-          "body": "El MFDS preparará antes de diciembre las guías de aprobación y revisión de fármacos desarrollados con AI.",
-          "mini_headline": "Normas para fármacos con AI este año",
+          "headline": "Un modelo de Pitt marca lecturas\nde AI mamaria para revisarlas",
+          "body": "Investigadores de Pitt crearon una AI para cáncer de mama que puntúa su incertidumbre y marca resultados para revisar.",
+          "mini_headline": "Verificar la AI de cáncer de mama",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "El Ministerio de Seguridad de Alimentos y Medicamentos (MFDS) preparará antes de diciembre de este año las guías de aprobación y revisión para medicamentos desarrollados con inteligencia artificial (AI). El objetivo es despejar la incertidumbre de las farmacéuticas: el uso de AI para descubrir candidatos a fármacos y predecir toxicidad se extiende, pero no había un criterio específico para evaluarlo en la revisión de aprobación."
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014609_415542_172.jpg",
-                "cap": "Foto: The Medical Newspaper DB."
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-06/istock-2202666684.jpg?h=140710cd&itok=XUsmUugX"
               },
               {
                 "t": "p",
-                "x": "El plan de racionalización regulatoria para el sector biotecnológico se presentó el día 23 en la 2.ª reunión plenaria del Comité de Racionalización Regulatoria, presidida por el presidente."
+                "x": "Investigadores de la University of Pittsburgh diseñaron un modelo de AI que, según creen, ayudará a que la AI de imagen para el cáncer de mama sea más fiable."
               },
               {
                 "t": "p",
-                "x": "Hasta ahora, aunque las farmacéuticas usaran AI para descubrir candidatos o predecir toxicidad, les resultaba difícil saber qué datos preparar para la revisión. La FDA de Estados Unidos y la EMA europea publicaron este año unas guías conjuntas con 10 principios básicos que la industria debe seguir en el desarrollo de fármacos basado en AI, y el MFDS prevé incorporar estas tendencias regulatorias internacionales."
+                "x": "Su red neuronal profunda está entrenada para estimar la incertidumbre junto con sus predicciones diagnósticas. El método, llamado uncertainty-weighted learning (aprendizaje ponderado por incertidumbre), genera una predicción y una puntuación de incertidumbre, y señala los casos en los que el resultado puede ser menos fiable y un resultado de AI puede requerir una segunda revisión de un radiólogo."
               },
               {
                 "t": "p",
-                "x": "El Gobierno espera que el uso de AI reduzca hasta en un 50% los costes tradicionales de desarrollo de un fármaco, que rondan de media entre 1 billón y 2 billones de wones (1조~2조원). El director general Shin Jun-su afirmó: “A medida que aumenten los medicamentos desarrollados con tecnología de AI, elaboraremos guías de revisión claras y concretas”."
+                "x": "Shandong Wu, PhD, profesor de radiología en Pitt, dirigió el trabajo junto con el doctorando Jiren Li y Dooman Arefan, PhD, y utilizó la supercomputadora Bridges-2 del Pittsburgh Supercomputing Center para entrenar y evaluar los modelos."
               },
               {
                 "t": "p",
-                "x": "Además, se impulsarán la exención de presentar datos de equivalencia para inyectables hidrosolubles con los mismos principios activos y excipientes, la simplificación de la documentación para medicamentos de venta libre con diferencias menores de formulación y una revisión integrada de ventanilla única para medicamentos digitales combinados con AI y software."
+                "x": "El equipo espera extender el enfoque más allá de la mamografía, pero el trabajo aún está en una fase temprana y necesita más validación en distintas poblaciones de pacientes y entornos de imagen."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "MFDS to set AI drug review\nstandards within the year",
-          "body": "The Ministry of Food and Drug Safety will prepare approval and review guidelines for AI-developed drugs by December.",
-          "mini_headline": "AI drug review rules due this year",
+        "ko": {
+          "headline": "Pitt 유방암 AI 모델\n재검토 필요 판독 표시",
+          "body": "Pitt 연구진이 불확실성 점수로 재검토 대상을 가리는 유방암 AI를 만들었다.",
+          "mini_headline": "유방암 AI 점검",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "The Ministry of Food and Drug Safety (MFDS) will prepare approval and review guidelines for medicines developed using artificial intelligence (AI) by December this year. The aim is to ease the uncertainty drugmakers have faced: AI is increasingly used to discover drug candidates and predict toxicity, but there has been no separate standard for evaluating this work during approval review."
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014609_415542_172.jpg",
-                "cap": "Photo: The Medical Newspaper DB."
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-06/istock-2202666684.jpg?h=140710cd&itok=XUsmUugX"
               },
               {
                 "t": "p",
-                "x": "The plan for rationalizing regulation in the bio sector was unveiled at the 2nd plenary meeting of the Regulatory Rationalization Committee, chaired by the President, on the 23rd."
+                "x": "University of Pittsburgh 연구진이 유방암 영상 AI의 신뢰도를 높이는 데 도움이 될 것으로 보는 AI 모델을 설계했다."
               },
               {
                 "t": "p",
-                "x": "Until now, even when drugmakers used AI to discover drug candidates or predict toxicity, it was hard to judge what data to prepare for approval review. The U.S. FDA and Europe's EMA released joint guidelines this year setting out 10 basic principles the industry should follow in AI-based drug development, and the MFDS plans to reflect such international regulatory trends."
+                "x": "이 모델의 심층 신경망은 진단 예측과 함께 불확실성을 추정하도록 학습했다. 불확실성 가중 학습(uncertainty-weighted learning)이라는 이 방법은 예측값과 불확실성 점수를 함께 내놓고, 출력의 신뢰도가 낮을 수 있어 AI 결과에 영상의학과 전문의의 재검토가 필요할 수 있는 사례를 표시한다."
               },
               {
                 "t": "p",
-                "x": "The government expects that using AI could cut traditional drug development costs, which average 1 trillion to 2 trillion won (1조~2조원), by up to 50%. Director General Shin Jun-su said, “As the number of medicines developed using AI technology grows, we will develop clear and specific review guidelines.”"
+                "x": "Pitt 영상의학과 교수 Shandong Wu, PhD가 박사과정생 Jiren Li, Dooman Arefan, PhD와 함께 연구를 이끌었으며, Pittsburgh Supercomputing Center의 Bridges-2 슈퍼컴퓨터로 모델을 학습시키고 평가했다."
               },
               {
                 "t": "p",
-                "x": "The ministry will also pursue exempting water-soluble injectables with identical ingredients and excipients from submitting equivalence data, simplifying submission requirements for over-the-counter drugs with minor formulation differences, and a one-stop integrated review for digital combination medicines that incorporate AI and software."
+                "x": "연구팀은 이 방식을 유방촬영술 밖으로 넓히기를 기대하지만, 연구는 아직 초기 단계로 다양한 환자군과 영상 환경에서 추가 검증이 필요하다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "食薬処、AI新薬の\n審査基準を年内に策定",
-          "body": "食薬処はAIで開発した医薬品の許可・審査ガイドラインを12月までに策定する。",
-          "mini_headline": "AI新薬の審査基準、年内に",
+          "headline": "Pitt発の乳がんAI\n要再確認の判定を示す",
+          "body": "Pittの研究者が自らの不確実性を数値化し再確認が必要な結果を示す乳がんAIを開発した。",
+          "mini_headline": "乳がんAIの信頼性チェック",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "食品医薬品安全処(食薬処)は、人工知能(AI)を活用して開発した医薬品の許可・審査ガイドラインを今年12月までに策定する。AIを使った新薬候補物質の探索や毒性予測などが広がる一方、許可審査の過程でそれを評価する個別の基準がなく、製薬企業が抱えていた不確実性を解消する狙いだ。"
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014609_415542_172.jpg",
-                "cap": "写真=医学新聞 DB."
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-06/istock-2202666684.jpg?h=140710cd&itok=XUsmUugX"
               },
               {
                 "t": "p",
-                "x": "23日に大統領主宰で開かれた規制合理化委員会の第2次全体会議で、こうした内容を含むバイオ分野の規制合理化策が公表された。"
+                "x": "University of Pittsburghの研究チームが、乳がん画像AIの信頼性向上に役立つと考えるAIモデルを設計した。"
               },
               {
                 "t": "p",
-                "x": "これまで製薬企業は、AIで新薬候補物質を探索したり毒性を予測したりしても、許可審査にどのような資料を用意すべきか判断しにくかった。米国FDAと欧州EMAは今年、AIを用いた医薬品開発で業界が守るべき10の基本原則をまとめた共同ガイドラインを発表しており、食薬処はこうした国際的な規制動向を反映する方針だ。"
+                "x": "このモデルの深層ニューラルネットワークは、診断予測とあわせて不確実性を推定するよう学習されている。uncertainty-weighted learning(不確実性加重学習)と呼ばれるこの手法は、予測と不確実性スコアを生成し、出力の信頼性が低い可能性があり、AIの結果に放射線科医による再確認が必要になりうるケースを示す。"
               },
               {
                 "t": "p",
-                "x": "政府は、AI技術の活用によって平均1兆~2兆ウォン(1조~2조원)にのぼる従来の新薬開発費を最大50%削減できると期待している。シン・ジュンス局長は「AI技術を活用して開発された医薬品が増えるのに合わせ、明確で具体的な審査ガイドラインを開発する」と述べた。"
+                "x": "Pittの放射線科教授Shandong Wu, PhDが、博士課程の学生Jiren Li、Dooman Arefan, PhDとともに研究を率い、Pittsburgh Supercomputing CenterのスーパーコンピューターBridges-2でモデルの学習と評価を行った。"
               },
               {
                 "t": "p",
-                "x": "あわせて、成分と添加剤が同一の水溶性注射剤における同等性立証資料の提出免除、剤形の違いが軽微な一般用医薬品の提出資料の簡素化、AI・ソフトウェアを組み合わせたデジタル融合医薬品のワンストップ統合審査なども進める。"
+                "x": "研究チームはこの手法をマンモグラフィー以外にも広げたい考えだが、研究はまだ初期段階にあり、さまざまな患者集団や撮影環境でのさらなる検証が必要だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "食药处：AI新药\n审查标准年内出台",
-          "body": "食品医药品安全处将于今年12月前制定利用AI开发的药品许可与审查指南。",
-          "mini_headline": "AI新药审查标准年内出台",
+          "headline": "Pitt乳腺癌AI模型\n标出需复核的判读",
+          "body": "Pitt研究人员开发出一款乳腺癌AI，可为自身不确定性打分，标出可能需复核的结果。",
+          "mini_headline": "检验乳腺癌AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "食品医药品安全处(食药处)将于今年12月前制定利用人工智能(AI)开发的药品许可与审查指南。利用AI发掘新药候选物质、预测毒性等做法日益增多，但许可审查过程中一直缺乏评估这些工作的专门标准，此举旨在消除制药企业因此面临的不确定性。"
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014609_415542_172.jpg",
-                "cap": "图片=医学新闻 DB."
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-06/istock-2202666684.jpg?h=140710cd&itok=XUsmUugX"
               },
               {
                 "t": "p",
-                "x": "23日由总统主持召开的规制合理化委员会第2次全体会议公布了包含上述内容的生物领域规制合理化方案。"
+                "x": "University of Pittsburgh的研究人员设计了一款AI模型，他们认为它有助于提升乳腺癌影像AI的可信度。"
               },
               {
                 "t": "p",
-                "x": "此前，制药企业即便利用AI发掘新药候选物质或预测毒性，也难以判断许可审查需要准备哪些资料。美国FDA和欧洲EMA今年发布了联合指南，列出业界在基于AI的药品开发过程中应遵守的10项基本原则，食药处计划吸纳这些国际监管动向。"
+                "x": "该模型的深度神经网络经过训练，可在给出诊断预测的同时估计不确定性。这种名为不确定性加权学习(uncertainty-weighted learning)的方法会生成预测结果和不确定性评分，标出输出可能不太可靠、AI结果可能需要放射科医生复核的病例。"
               },
               {
                 "t": "p",
-                "x": "政府预计，借助AI技术，平均高达1万亿至2万亿韩元(1조~2조원)的传统新药开发成本最多可降低50%。Shin Jun-su 局长表示：“随着利用AI技术开发的药品不断增加，我们将制定明确而具体的审查指南。”"
+                "x": "Pitt放射学教授Shandong Wu, PhD与博士生Jiren Li及Dooman Arefan, PhD共同主导了这项研究，并利用Pittsburgh Supercomputing Center的Bridges-2超级计算机训练和评估模型。"
               },
               {
                 "t": "p",
-                "x": "此外，还将推进以下措施：成分和辅料相同的水溶性注射剂免于提交等效性证明资料，剂型差异轻微的非处方药简化提交资料，以及对结合AI·软件的数字融合药品实行一站式综合审查。"
+                "x": "团队希望将该方法推广到乳腺钼靶摄影以外的领域，但这项工作仍处于早期阶段，还需在不同患者群体和影像环境中进一步验证。"
               }
             ]
           }
         },
         "es": {
-          "headline": "MFDS fijará este año normas\npara revisar fármacos con AI",
-          "body": "El MFDS preparará antes de diciembre las guías de aprobación y revisión de fármacos desarrollados con AI.",
-          "mini_headline": "Normas para fármacos con AI este año",
+          "headline": "Un modelo de Pitt marca lecturas\nde AI mamaria para revisarlas",
+          "body": "Investigadores de Pitt crearon una AI para cáncer de mama que puntúa su incertidumbre y marca resultados para revisar.",
+          "mini_headline": "Verificar la AI de cáncer de mama",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "El Ministerio de Seguridad de Alimentos y Medicamentos (MFDS) preparará antes de diciembre de este año las guías de aprobación y revisión para medicamentos desarrollados con inteligencia artificial (AI). El objetivo es despejar la incertidumbre de las farmacéuticas: el uso de AI para descubrir candidatos a fármacos y predecir toxicidad se extiende, pero no había un criterio específico para evaluarlo en la revisión de aprobación."
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014609_415542_172.jpg",
-                "cap": "Foto: The Medical Newspaper DB."
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-06/istock-2202666684.jpg?h=140710cd&itok=XUsmUugX"
               },
               {
                 "t": "p",
-                "x": "El plan de racionalización regulatoria para el sector biotecnológico se presentó el día 23 en la 2.ª reunión plenaria del Comité de Racionalización Regulatoria, presidida por el presidente."
+                "x": "Investigadores de la University of Pittsburgh diseñaron un modelo de AI que, según creen, ayudará a que la AI de imagen para el cáncer de mama sea más fiable."
               },
               {
                 "t": "p",
-                "x": "Hasta ahora, aunque las farmacéuticas usaran AI para descubrir candidatos o predecir toxicidad, les resultaba difícil saber qué datos preparar para la revisión. La FDA de Estados Unidos y la EMA europea publicaron este año unas guías conjuntas con 10 principios básicos que la industria debe seguir en el desarrollo de fármacos basado en AI, y el MFDS prevé incorporar estas tendencias regulatorias internacionales."
+                "x": "Su red neuronal profunda está entrenada para estimar la incertidumbre junto con sus predicciones diagnósticas. El método, llamado uncertainty-weighted learning (aprendizaje ponderado por incertidumbre), genera una predicción y una puntuación de incertidumbre, y señala los casos en los que el resultado puede ser menos fiable y un resultado de AI puede requerir una segunda revisión de un radiólogo."
               },
               {
                 "t": "p",
-                "x": "El Gobierno espera que el uso de AI reduzca hasta en un 50% los costes tradicionales de desarrollo de un fármaco, que rondan de media entre 1 billón y 2 billones de wones (1조~2조원). El director general Shin Jun-su afirmó: “A medida que aumenten los medicamentos desarrollados con tecnología de AI, elaboraremos guías de revisión claras y concretas”."
+                "x": "Shandong Wu, PhD, profesor de radiología en Pitt, dirigió el trabajo junto con el doctorando Jiren Li y Dooman Arefan, PhD, y utilizó la supercomputadora Bridges-2 del Pittsburgh Supercomputing Center para entrenar y evaluar los modelos."
               },
               {
                 "t": "p",
-                "x": "Además, se impulsarán la exención de presentar datos de equivalencia para inyectables hidrosolubles con los mismos principios activos y excipientes, la simplificación de la documentación para medicamentos de venta libre con diferencias menores de formulación y una revisión integrada de ventanilla única para medicamentos digitales combinados con AI y software."
+                "x": "El equipo espera extender el enfoque más allá de la mamografía, pero el trabajo aún está en una fase temprana y necesita más validación en distintas poblaciones de pacientes y entornos de imagen."
               }
             ]
           }
@@ -909,15 +1099,15 @@
       }
     },
     {
-      "id": "medicine-ai-oversight",
+      "id": "medicine-episemollm-epilepsy",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "임상의는 틀린 AI\n조언을 걸러낼까",
-      "body": "보고서 46건을 메타분석해 임상의가 틀린 AI 조언을 알아채고 거부하는지 살폈다.",
-      "mini_headline": "임상의 vs. 틀린 AI 조언",
+      "headline": "EpiSemoLLM 발작\n증상으로 발생 부위 찾기",
+      "body": "EpiSemoLLM이 발작 증상으로 뇌전증 병소를 전문의 중앙값보다 잘 찾았다.",
+      "mini_headline": "LLM이 발작 기원 위치 찾아",
       "tool": "Medicine",
-      "source": "npj Digital Medicine",
-      "url": "https://www.nature.com/articles/s41746-026-03408-5",
+      "source": "Communications Medicine",
+      "url": "https://www.nature.com/articles/s43856-026-01883-1",
       "accent": "#ff5a4d",
       "motif": "sphere",
       "full": {
@@ -925,125 +1115,173 @@
         "blocks": [
           {
             "t": "p",
-            "x": "인공지능(AI)의 임상 의사결정 지원은 늘고 있지만, 사람의 감독이 보호 장치가 되려면 임상의가 잘못된 출력을 알아채고 따르지 않아야 한다. 연구진은 잘못된 자동화 조언에 임상의가 어떻게 반응하는지 다룬 통제 연구와 실제 환경 연구를 체계적으로 검토했다. 보고서 46건은 독립 코호트 클러스터 41개에 해당했고, 여기에 핵심 코호트 40개가 들어 있었다."
+            "x": "발작 증상학은 약물 저항성 국소 뇌전증에서 뇌전증 유발 영역(EZ)을 찾는 단서가 되지만, 그 해석은 임상의와 기관마다 다르다."
+          },
+          {
+            "t": "img",
+            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01883-1/MediaObjects/43856_2026_1883_Fig1_HTML.png"
           },
           {
             "t": "p",
-            "x": "보정된 코호트 3개 전반에서 임상의의 정답률은 자동화 조언이 맞았을 때가 틀렸을 때보다 크게 높았다(통합 OR 10.19, 95% CI 7.43–13.98). 실제 환경의 컴퓨터 ECG 연구 4건에서는 잘못된 판독의 26.6%가 수정되지도, 인지되지도 않았다(95% CI 6.4–65.6%)."
+            "x": "연구진은 392편의 발표 연구와 Far Eastern Memorial Hospital 코호트에서 수술로 확인된 증상학–EZ 쌍 1,372개를 모아 EpiSemoLLM을 개발했다. 파라미터 효율적 미세조정에 구조화된 뇌전증 지식과 문헌 기반 근거 검색을 결합했다."
           },
           {
             "t": "p",
-            "x": "최신 AI·대규모 언어 모델 연구에서도 해로운 의존이 나타났지만, 이질성이 커서 통합 분석은 하지 못했다. 환자 수준의 이상 사례는 후향적 코호트 1개에서 보고됐다. 연구진은 사람의 감독이 안전을 보장한다고 전제할 게 아니라 오류를 가로채는 역량으로 평가해야 한다고 결론지었다."
+            "x": "평가한 언어모델 가운데 전반적 위치 추정 성능이 가장 높았고, 홀드아웃 코호트에서는 뇌전증 전문의 중앙값을 웃돌았다. Taipei Veterans General Hospital의 외부 코호트 83건에서도 결과는 비슷했다."
+          },
+          {
+            "t": "p",
+            "x": "전두엽과 섬엽 위치 추정에서는 임상의가 더 나았다. 일상 진료에 쓰려면 전향적 검증이 필요하다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Testing whether clinicians\ncatch erroneous AI advice",
-          "body": "A meta-analysis of 46 reports tests whether clinicians recognize and resist incorrect AI advice.",
-          "mini_headline": "Clinicians vs. wrong AI advice",
+          "headline": "EpiSemoLLM locates seizure\nzones from semiology",
+          "body": "EpiSemoLLM beat the median epileptologist at localizing epileptogenic zones from seizure semiology in a held-out cohort.",
+          "mini_headline": "LLM localizes seizure origin",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Artificial intelligence (AI) increasingly supports clinical decisions, but human oversight is protective only if clinicians recognize and resist erroneous output. The authors systematically reviewed controlled and real-world studies of clinician responses to incorrect automated advice. Forty-six reports represented 41 independent cohort clusters, including 40 core cohorts."
+                "x": "Seizure semiology offers clues for localizing the epileptogenic zone (EZ) in drug-resistant focal epilepsy, but its interpretation varies across clinicians and institutions."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01883-1/MediaObjects/43856_2026_1883_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "Across three adjusted cohorts, clinician correctness was substantially higher with correct than incorrect automated advice (pooled OR 10.19, 95% CI 7.43–13.98). In four real-world computerized ECG studies, 26.6% of erroneous interpretations were not corrected or recognized (95% CI 6.4–65.6%)."
+                "x": "EpiSemoLLM was developed from 1,372 surgically verified semiology–EZ pairs drawn from 392 published studies and a cohort from Far Eastern Memorial Hospital, combining parameter-efficient fine-tuning with structured epilepsy knowledge and literature-based evidence retrieval."
               },
               {
                 "t": "p",
-                "x": "Contemporary AI and large language model studies also documented harmful reliance but were too heterogeneous for pooling. Patient-level adverse events were reported in one retrospective cohort. Human oversight should be evaluated as an error-interception capability rather than assumed to ensure safety, the authors conclude."
+                "x": "It achieved the strongest overall localization among the language models evaluated and performed better than the median epileptologist in the held-out cohort, with similar findings in an external cohort of 83 cases from Taipei Veterans General Hospital."
+              },
+              {
+                "t": "p",
+                "x": "Clinicians performed better in frontal and insular localization. Prospective validation is needed before routine clinical use."
               }
             ]
           }
         },
         "ko": {
-          "headline": "임상의는 틀린 AI\n조언을 걸러낼까",
-          "body": "보고서 46건을 메타분석해 임상의가 틀린 AI 조언을 알아채고 거부하는지 살폈다.",
-          "mini_headline": "임상의 vs. 틀린 AI 조언",
+          "headline": "EpiSemoLLM 발작\n증상으로 발생 부위 찾기",
+          "body": "EpiSemoLLM이 발작 증상으로 뇌전증 병소를 전문의 중앙값보다 잘 찾았다.",
+          "mini_headline": "LLM이 발작 기원 위치 찾아",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "인공지능(AI)의 임상 의사결정 지원은 늘고 있지만, 사람의 감독이 보호 장치가 되려면 임상의가 잘못된 출력을 알아채고 따르지 않아야 한다. 연구진은 잘못된 자동화 조언에 임상의가 어떻게 반응하는지 다룬 통제 연구와 실제 환경 연구를 체계적으로 검토했다. 보고서 46건은 독립 코호트 클러스터 41개에 해당했고, 여기에 핵심 코호트 40개가 들어 있었다."
+                "x": "발작 증상학은 약물 저항성 국소 뇌전증에서 뇌전증 유발 영역(EZ)을 찾는 단서가 되지만, 그 해석은 임상의와 기관마다 다르다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01883-1/MediaObjects/43856_2026_1883_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "보정된 코호트 3개 전반에서 임상의의 정답률은 자동화 조언이 맞았을 때가 틀렸을 때보다 크게 높았다(통합 OR 10.19, 95% CI 7.43–13.98). 실제 환경의 컴퓨터 ECG 연구 4건에서는 잘못된 판독의 26.6%가 수정되지도, 인지되지도 않았다(95% CI 6.4–65.6%)."
+                "x": "연구진은 392편의 발표 연구와 Far Eastern Memorial Hospital 코호트에서 수술로 확인된 증상학–EZ 쌍 1,372개를 모아 EpiSemoLLM을 개발했다. 파라미터 효율적 미세조정에 구조화된 뇌전증 지식과 문헌 기반 근거 검색을 결합했다."
               },
               {
                 "t": "p",
-                "x": "최신 AI·대규모 언어 모델 연구에서도 해로운 의존이 나타났지만, 이질성이 커서 통합 분석은 하지 못했다. 환자 수준의 이상 사례는 후향적 코호트 1개에서 보고됐다. 연구진은 사람의 감독이 안전을 보장한다고 전제할 게 아니라 오류를 가로채는 역량으로 평가해야 한다고 결론지었다."
+                "x": "평가한 언어모델 가운데 전반적 위치 추정 성능이 가장 높았고, 홀드아웃 코호트에서는 뇌전증 전문의 중앙값을 웃돌았다. Taipei Veterans General Hospital의 외부 코호트 83건에서도 결과는 비슷했다."
+              },
+              {
+                "t": "p",
+                "x": "전두엽과 섬엽 위치 추정에서는 임상의가 더 나았다. 일상 진료에 쓰려면 전향적 검증이 필요하다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "臨床医はAIの誤った\n助言を見抜けるか",
-          "body": "報告46件のメタ解析が、臨床医が誤ったAIの助言に気づき抵抗できるかを検証する。",
-          "mini_headline": "臨床医 vs. 誤ったAI助言",
+          "headline": "EpiSemoLLMが\n発作症状から焦点推定",
+          "body": "EpiSemoLLMは発作症状からてんかん原性領域の特定で専門医の中央値を上回った。",
+          "mini_headline": "LLMが発作の起源を推定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "人工知能(AI)が臨床判断を支える場面は増えているが、人による監督が安全策として機能するのは、臨床医が誤った出力に気づき、それに従わない場合に限られる。著者らは、誤った自動化助言に対する臨床医の反応を調べた対照研究と実臨床研究を系統的にレビューした。46件の報告は41の独立したコホートクラスターに相当し、そこには40の中核コホートが含まれた。"
+                "x": "発作症候学は、薬剤抵抗性焦点てんかんにおけるてんかん原性領域(EZ)の局在を推定する手がかりとなるが、その解釈は臨床医や施設によって異なる。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01883-1/MediaObjects/43856_2026_1883_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "調整済みの3つのコホート全体で、臨床医の正答率は自動化助言が誤っている場合より正しい場合に大幅に高かった(統合OR 10.19、95% CI 7.43–13.98)。実臨床におけるコンピューターECG研究4件では、誤った判読の26.6%が修正も認識もされなかった(95% CI 6.4–65.6%)。"
+                "x": "EpiSemoLLMは、392件の既発表研究とFar Eastern Memorial Hospitalのコホートから集めた、手術で確認された症候学–EZのペア1,372組をもとに開発された。パラメータ効率の高いファインチューニングに、構造化されたてんかん知識と文献に基づくエビデンス検索を組み合わせている。"
               },
               {
                 "t": "p",
-                "x": "最近のAIや大規模言語モデルの研究でも有害な依存が記録されたが、異質性が大きく統合はできなかった。患者レベルの有害事象は1つの後ろ向きコホートで報告された。著者らは、人による監督が安全を保証すると想定するのではなく、誤りを食い止める能力として評価すべきだと結論づけている。"
+                "x": "評価した言語モデルの中で全体の局在推定性能が最も高く、ホールドアウトコホートではてんかん専門医の中央値を上回った。Taipei Veterans General Hospitalの83例による外部コホートでも同様の結果が得られた。"
+              },
+              {
+                "t": "p",
+                "x": "前頭葉と島の局在推定では臨床医の方が優れていた。日常診療で使うには前向きな検証が必要だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "临床医生能否识破\n错误的AI建议",
-          "body": "一项涵盖46份报告的荟萃分析检验临床医生能否识别并抵制错误的AI建议。",
-          "mini_headline": "临床医生 vs. 错误AI建议",
+          "headline": "EpiSemoLLM\n据发作症状定位致痫区",
+          "body": "在保留队列中，EpiSemoLLM依据发作症状定位致痫区的表现优于癫痫专家中位水平。",
+          "mini_headline": "LLM定位癫痫发作起源",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "人工智能(AI)越来越多地辅助临床决策，但只有当临床医生能识别并抵制错误输出时，人工监督才能起到保护作用。作者系统回顾了关于临床医生如何应对错误自动化建议的对照研究和真实世界研究。46份报告代表41个独立队列集群，其中包括40个核心队列。"
+                "x": "在药物难治性局灶性癫痫中，发作症状学可为定位致痫区(EZ)提供线索，但不同临床医生和机构对其解读不一。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01883-1/MediaObjects/43856_2026_1883_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "在3个经校正的队列中，自动化建议正确时临床医生的正确率显著高于建议错误时(合并OR 10.19，95% CI 7.43–13.98)。在4项真实世界计算机ECG研究中，26.6%的错误判读未被纠正或识别(95% CI 6.4–65.6%)。"
+                "x": "EpiSemoLLM基于1,372对经手术证实的症状学–EZ配对数据开发而成，数据来自392项已发表研究以及Far Eastern Memorial Hospital的一个队列；该模型将参数高效微调与结构化癫痫知识和基于文献的证据检索相结合。"
               },
               {
                 "t": "p",
-                "x": "当代AI和大语言模型研究同样记录了有害的依赖，但异质性过高，无法合并分析。1个回顾性队列报告了患者层面的不良事件。作者总结认为，人工监督应作为一种拦截错误的能力加以评估，而不应被默认为能确保安全。"
+                "x": "在参与评估的语言模型中，它的整体定位表现最强，并在保留队列中优于癫痫专家的中位水平；在Taipei Veterans General Hospital的83例外部队列中也得到了相似结果。"
+              },
+              {
+                "t": "p",
+                "x": "临床医生在额叶和岛叶定位方面表现更好。在进入常规临床应用之前，还需要前瞻性验证。"
               }
             ]
           }
         },
         "es": {
-          "headline": "¿Detectan los clínicos\nlos consejos erróneos de AI?",
-          "body": "Un metaanálisis de 46 informes examina si los clínicos reconocen y rechazan los consejos incorrectos de la AI.",
-          "mini_headline": "Clínicos vs. consejos erróneos de AI",
+          "headline": "EpiSemoLLM localiza zonas\nepileptógenas por la semiología",
+          "body": "EpiSemoLLM superó al epileptólogo mediano al localizar zonas epileptógenas por la semiología en una cohorte reservada.",
+          "mini_headline": "Un LLM localiza el origen de las crisis",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "La inteligencia artificial (AI) respalda cada vez más las decisiones clínicas, pero la supervisión humana solo protege si los clínicos reconocen y rechazan los resultados erróneos. Los autores revisaron de forma sistemática estudios controlados y del mundo real sobre la respuesta de los clínicos a consejos automatizados incorrectos. Los 46 informes representaban 41 grupos de cohortes independientes, entre ellos 40 cohortes principales."
+                "x": "La semiología de las crisis ofrece pistas para localizar la zona epileptógena (EZ) en la epilepsia focal farmacorresistente, pero su interpretación varía entre clínicos e instituciones."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01883-1/MediaObjects/43856_2026_1883_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "En tres cohortes ajustadas, el acierto de los clínicos fue sustancialmente mayor con consejos automatizados correctos que con incorrectos (OR combinada 10.19, 95% CI 7.43–13.98). En cuatro estudios del mundo real sobre ECG computarizados, el 26.6% de las interpretaciones erróneas no se corrigió ni se detectó (95% CI 6.4–65.6%)."
+                "x": "EpiSemoLLM se desarrolló a partir de 1,372 pares semiología–EZ verificados quirúrgicamente, procedentes de 392 estudios publicados y de una cohorte del Far Eastern Memorial Hospital, y combina un ajuste fino eficiente en parámetros con conocimiento estructurado sobre epilepsia y recuperación de evidencia basada en la literatura."
               },
               {
                 "t": "p",
-                "x": "Los estudios recientes de AI y de grandes modelos de lenguaje también documentaron una dependencia perjudicial, pero eran demasiado heterogéneos para combinarlos. Una cohorte retrospectiva informó de eventos adversos a nivel de paciente. Los autores concluyen que la supervisión humana debe evaluarse como una capacidad de interceptar errores, en lugar de suponer que garantiza la seguridad."
+                "x": "Logró la mejor localización global entre los modelos de lenguaje evaluados y superó al epileptólogo mediano en la cohorte reservada, con resultados similares en una cohorte externa de 83 casos del Taipei Veterans General Hospital."
+              },
+              {
+                "t": "p",
+                "x": "Los clínicos obtuvieron mejores resultados en la localización frontal e insular. Se necesita validación prospectiva antes de su uso clínico rutinario."
               }
             ]
           }
@@ -1051,89 +1289,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "임상의는 AI의 오류\n조언을 걸러낼까",
-          "body": "보고서 46건 메타분석이 임상의가 틀린 AI 조언을 알아채고 거부하는지 살핀다.",
-          "mini_headline": "임상의 vs. 틀린 AI 조언",
+          "headline": "EpiSemoLLM 발작\n증상으로 발생 부위 찾기",
+          "body": "EpiSemoLLM이 발작 증상으로 뇌전증 병소를 전문의 중앙값보다 잘 찾았다.",
+          "mini_headline": "LLM이 발작 기원 위치 찾아",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "인공지능(AI)이 임상 의사결정을 지원하는 일이 늘고 있지만, 사람의 감독은 임상의가 잘못된 출력을 알아채고 따르지 않을 때만 보호 장치가 된다. 연구진은 잘못된 자동화 조언에 임상의가 어떻게 반응하는지 다룬 통제 연구와 실제 환경 연구를 체계적으로 검토했다. 보고서 46건은 독립적인 코호트 클러스터 41개를 대표했으며, 여기에는 핵심 코호트 40개가 포함됐다."
+                "x": "발작 증상학은 약물 저항성 국소 뇌전증에서 뇌전증 유발 영역(EZ)을 찾는 단서가 되지만, 그 해석은 임상의와 기관마다 다르다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01883-1/MediaObjects/43856_2026_1883_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "보정된 코호트 3개 전반에서 임상의의 정답률은 자동화 조언이 틀렸을 때보다 맞았을 때 크게 높았다(통합 OR 10.19, 95% CI 7.43–13.98). 실제 환경의 컴퓨터 ECG 연구 4건에서는 잘못된 판독의 26.6%가 수정되거나 인지되지 않았다(95% CI 6.4–65.6%)."
+                "x": "EpiSemoLLM은 392편의 발표 연구와 Far Eastern Memorial Hospital 코호트에서 모은, 수술로 확인된 증상학–EZ 쌍 1,372개로 개발했다. 파라미터 효율적 미세조정에 구조화된 뇌전증 지식과 문헌 기반 근거 검색을 결합했다."
               },
               {
                 "t": "p",
-                "x": "최신 AI 및 대규모 언어 모델 연구에서도 해로운 의존이 확인됐지만, 이질성이 커서 통합 분석은 하지 못했다. 환자 수준의 이상 사례는 후향적 코호트 1개에서 보고됐다. 연구진은 사람의 감독이 안전을 보장한다고 전제하지 말고, 오류를 가로채는 역량으로서 평가해야 한다고 결론지었다."
+                "x": "평가한 언어모델 가운데 전반적 위치 추정 성능이 가장 높았고, 홀드아웃 코호트에서 뇌전증 전문의 중앙값보다 좋은 성적을 냈다. Taipei Veterans General Hospital의 83건 외부 코호트에서도 비슷한 결과가 나왔다."
+              },
+              {
+                "t": "p",
+                "x": "전두엽과 섬엽 위치 추정에서는 임상의가 더 나았다. 일상 진료에 쓰려면 전향적 검증이 필요하다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "臨床医はAIの誤った\n助言を見抜けるか",
-          "body": "報告46件のメタ解析が、臨床医が誤ったAIの助言に気づき抵抗できるかを検証する。",
-          "mini_headline": "臨床医 vs. 誤ったAI助言",
+          "headline": "EpiSemoLLMが\n発作症状から焦点推定",
+          "body": "EpiSemoLLMは発作症状からてんかん原性領域の特定で専門医の中央値を上回った。",
+          "mini_headline": "LLMが発作の起源を推定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "人工知能(AI)が臨床判断を支える場面は増えているが、人による監督が安全策として機能するのは、臨床医が誤った出力に気づき、それに従わない場合に限られる。著者らは、誤った自動化助言に対する臨床医の反応を調べた対照研究と実臨床研究を系統的にレビューした。46件の報告は41の独立したコホートクラスターに相当し、そこには40の中核コホートが含まれた。"
+                "x": "発作症候学は、薬剤抵抗性焦点てんかんにおけるてんかん原性領域(EZ)の局在を推定する手がかりとなるが、その解釈は臨床医や施設によって異なる。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01883-1/MediaObjects/43856_2026_1883_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "調整済みの3つのコホート全体で、臨床医の正答率は自動化助言が誤っている場合より正しい場合に大幅に高かった(統合OR 10.19、95% CI 7.43–13.98)。実臨床におけるコンピューターECG研究4件では、誤った判読の26.6%が修正も認識もされなかった(95% CI 6.4–65.6%)。"
+                "x": "EpiSemoLLMは、392件の既発表研究とFar Eastern Memorial Hospitalのコホートから集めた、手術で確認された症候学–EZのペア1,372組をもとに開発された。パラメータ効率の高いファインチューニングに、構造化されたてんかん知識と文献に基づくエビデンス検索を組み合わせている。"
               },
               {
                 "t": "p",
-                "x": "最近のAIや大規模言語モデルの研究でも有害な依存が記録されたが、異質性が大きく統合はできなかった。患者レベルの有害事象は1つの後ろ向きコホートで報告された。著者らは、人による監督が安全を保証すると想定するのではなく、誤りを食い止める能力として評価すべきだと結論づけている。"
+                "x": "評価した言語モデルの中で全体の局在推定性能が最も高く、ホールドアウトコホートではてんかん専門医の中央値を上回った。Taipei Veterans General Hospitalの83例による外部コホートでも同様の結果が得られた。"
+              },
+              {
+                "t": "p",
+                "x": "前頭葉と島の局在推定では臨床医の方が優れていた。日常診療で使うには前向きな検証が必要だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "临床医生能否识破\n错误的AI建议",
-          "body": "一项涵盖46份报告的荟萃分析检验临床医生能否识别并抵制错误的AI建议。",
-          "mini_headline": "临床医生 vs. 错误AI建议",
+          "headline": "EpiSemoLLM\n据发作症状定位致痫区",
+          "body": "在保留队列中，EpiSemoLLM依据发作症状定位致痫区的表现优于癫痫专家中位水平。",
+          "mini_headline": "LLM定位癫痫发作起源",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "人工智能(AI)越来越多地辅助临床决策，但只有当临床医生能识别并抵制错误输出时，人工监督才能起到保护作用。作者系统回顾了关于临床医生如何应对错误自动化建议的对照研究和真实世界研究。46份报告代表41个独立队列集群，其中包括40个核心队列。"
+                "x": "在药物难治性局灶性癫痫中，发作症状学可为定位致痫区(EZ)提供线索，但不同临床医生和机构对其解读不一。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01883-1/MediaObjects/43856_2026_1883_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "在3个经校正的队列中，自动化建议正确时临床医生的正确率显著高于建议错误时(合并OR 10.19，95% CI 7.43–13.98)。在4项真实世界计算机ECG研究中，26.6%的错误判读未被纠正或识别(95% CI 6.4–65.6%)。"
+                "x": "EpiSemoLLM基于1,372对经手术证实的症状学–EZ配对数据开发而成，数据来自392项已发表研究以及Far Eastern Memorial Hospital的一个队列；该模型将参数高效微调与结构化癫痫知识和基于文献的证据检索相结合。"
               },
               {
                 "t": "p",
-                "x": "当代AI和大语言模型研究同样记录了有害的依赖，但异质性过高，无法合并分析。1个回顾性队列报告了患者层面的不良事件。作者总结认为，人工监督应作为一种拦截错误的能力加以评估，而不应被默认为能确保安全。"
+                "x": "在参与评估的语言模型中，它的整体定位表现最强，并在保留队列中优于癫痫专家的中位水平；在Taipei Veterans General Hospital的83例外部队列中也得到了相似结果。"
+              },
+              {
+                "t": "p",
+                "x": "临床医生在额叶和岛叶定位方面表现更好。在进入常规临床应用之前，还需要前瞻性验证。"
               }
             ]
           }
         },
         "es": {
-          "headline": "¿Detectan los clínicos\nlos consejos erróneos de AI?",
-          "body": "Un metaanálisis de 46 informes examina si los clínicos reconocen y rechazan los consejos incorrectos de la AI.",
-          "mini_headline": "Clínicos vs. consejos erróneos de AI",
+          "headline": "EpiSemoLLM localiza zonas\nepileptógenas por la semiología",
+          "body": "EpiSemoLLM superó al epileptólogo mediano al localizar zonas epileptógenas por la semiología en una cohorte reservada.",
+          "mini_headline": "Un LLM localiza el origen de las crisis",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "La inteligencia artificial (AI) respalda cada vez más las decisiones clínicas, pero la supervisión humana solo protege si los clínicos reconocen y rechazan los resultados erróneos. Los autores revisaron de forma sistemática estudios controlados y del mundo real sobre la respuesta de los clínicos a consejos automatizados incorrectos. Los 46 informes representaban 41 grupos de cohortes independientes, entre ellos 40 cohortes principales."
+                "x": "La semiología de las crisis ofrece pistas para localizar la zona epileptógena (EZ) en la epilepsia focal farmacorresistente, pero su interpretación varía entre clínicos e instituciones."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01883-1/MediaObjects/43856_2026_1883_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "En tres cohortes ajustadas, el acierto de los clínicos fue sustancialmente mayor con consejos automatizados correctos que con incorrectos (OR combinada 10.19, 95% CI 7.43–13.98). En cuatro estudios del mundo real sobre ECG computarizados, el 26.6% de las interpretaciones erróneas no se corrigió ni se detectó (95% CI 6.4–65.6%)."
+                "x": "EpiSemoLLM se desarrolló a partir de 1,372 pares semiología–EZ verificados quirúrgicamente, procedentes de 392 estudios publicados y de una cohorte del Far Eastern Memorial Hospital, y combina un ajuste fino eficiente en parámetros con conocimiento estructurado sobre epilepsia y recuperación de evidencia basada en la literatura."
               },
               {
                 "t": "p",
-                "x": "Los estudios recientes de AI y de grandes modelos de lenguaje también documentaron una dependencia perjudicial, pero eran demasiado heterogéneos para combinarlos. Una cohorte retrospectiva informó de eventos adversos a nivel de paciente. Los autores concluyen que la supervisión humana debe evaluarse como una capacidad de interceptar errores, en lugar de suponer que garantiza la seguridad."
+                "x": "Logró la mejor localización global entre los modelos de lenguaje evaluados y superó al epileptólogo mediano en la cohorte reservada, con resultados similares en una cohorte externa de 83 casos del Taipei Veterans General Hospital."
+              },
+              {
+                "t": "p",
+                "x": "Los clínicos obtuvieron mejores resultados en la localización frontal e insular. Se necesita validación prospectiva antes de su uso clínico rutinario."
               }
             ]
           }
@@ -1141,311 +1411,311 @@
       }
     },
     {
-      "id": "medicine-pharmacy-ai",
-      "source_lang": "ko",
+      "id": "medicine-elucid-ffr-iq-fda",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "대한약사회, 약사\n업무지원 AI 개발",
-      "body": "대한약사회가 약물검토·상담 준비·기록 작성을 돕는 업무지원 AI를 개발한다.",
-      "mini_headline": "약사 업무지원 AI 개발",
+      "headline": "Elucid FFR-IQ\nFDA 승인 관상동맥 AI",
+      "body": "FDA가 Elucid의 관상동맥 CT용 AI-based FFR-IQ를 승인했다.",
+      "mini_headline": "FDA, Elucid FFR-IQ 승인",
       "tool": "Medicine",
-      "source": "데일리팜",
-      "url": "https://www.dailypharm.com/user/news/343652",
+      "source": "Cardiovascular Business",
+      "url": "https://cardiovascularbusiness.com/topics/artificial-intelligence/fda-clears-elucids-new-ai-enabled-ffr-ct-software",
       "accent": "#3b6bff",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "대한약사회(회장 권영희)가 약사의 전문적 판단과 환자 상담을 지원하는 ‘약사 업무지원 AI’ 개발을 본격 추진한다. 의약품 정보 확인과 약물검토, 상담 준비, 기록 작성 등에 AI를 활용하는 약국 AI 전환(AX) 사업으로, 전국 회원 약사가 비용 부담 없이 활용할 수 있는 공통 업무지원 기반을 마련할 계획이다."
-          },
-          {
             "t": "img",
-            "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/21/7f701b6a-9ecd-4116-8634-0835bb9c2f3c.png"
+            "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/elucid_ffr-iq_ffr-ct_ai_software_3.png?h=d1699ae9&itok=WmZZy_qa"
           },
           {
             "t": "p",
-            "x": "약사회는 AI 전문기업 셀빅을 개발 협력사로 선정하고 지난 7월 시스템 구축에 착수했다. 개발 중인 다제약물 상담 지원서비스는 환자의 복용약과 상담정보를 분석해 약사가 우선 확인해야 할 약물문제와 상담질문을 근거·출처와 함께 제시하고, 음성요약과 상담기록 작성을 지원한다. 최종 검토와 전문적 판단, 환자 상담은 약사가 직접 수행한다."
+            "x": "FDA가 Elucid의 FFR-IQ 소프트웨어를 승인했다. 관상동맥 CT 혈관조영술로 분획혈류예비력(FFR-CT)을 비침습적으로 추정하는 소프트웨어다. 이 AI-based 기술은 관상동맥 생리를 추정할 때 관상동맥 해부 구조와 플라크 구성까지 반영한다."
           },
           {
             "t": "p",
-            "x": "현장 테스트 모집 대상은 다제약물 관리사업 참여 경험이 있는 자문약사 30명 내외다. 신청 기간은 21일부터 25일까지이며, 테스트는 26일부터 11월 말까지 진행한다. 참여 약사에게는 소정의 리워드를 제공한다."
+            "x": "Elucid는 의사들이 혈역학에 영향을 주는 다른 요인까지 고려한 더 정확한 FFR-CT 알고리즘을 원했다고 밝혔다. 이번 승인으로 Elucid는 2016년 Heartflow, 2022년 KeyaMed에 이어 U.S.에서 FFR-CT를 상용 제공하는 세 번째 업체가 됐다."
           },
           {
             "t": "p",
-            "x": "이윤표 정보통신이사는 “AI는 약사를 대체하는 기술이 아니라 약사가 전문성을 더욱 발휘하도록 돕는 수단이 돼야 한다”고 밝혔다."
+            "x": "승인 근거는 전체 민감도 92.2%, 특이도 93.1%를 보인 ELUCIDATE FFR-CT 연구 데이터다. 알고리즘에는 2024년 10월 승인된 Elucid의 Plaque-IQ 소프트웨어의 플라크 측정값이 쓰인다."
+          },
+          {
+            "t": "p",
+            "x": "ELUCIDATE FFR-CT 연구 결과는 11월 1일 San Diego에서 열리는 TCT 2026에서 발표된다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "대한약사회, 약사\n업무지원 AI 개발",
-          "body": "대한약사회가 약물검토·상담 준비·기록 작성을 돕는 업무지원 AI를 개발한다.",
-          "mini_headline": "약사 업무지원 AI 개발",
+        "en": {
+          "headline": "FDA clears Elucid's FFR-IQ\nfor coronary assessment",
+          "body": "The FDA cleared Elucid's AI-based FFR-IQ software, which estimates fractional flow reserve from coronary CT angiography.",
+          "mini_headline": "FDA clears Elucid FFR-IQ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "대한약사회(회장 권영희)가 약사의 전문적 판단과 환자 상담을 지원하는 ‘약사 업무지원 AI’ 개발을 본격 추진한다. 의약품 정보 확인과 약물검토, 상담 준비, 기록 작성 등에 AI를 활용하는 약국 AI 전환(AX) 사업으로, 전국 회원 약사가 비용 부담 없이 활용할 수 있는 공통 업무지원 기반을 마련할 계획이다."
-              },
-              {
                 "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/21/7f701b6a-9ecd-4116-8634-0835bb9c2f3c.png"
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/elucid_ffr-iq_ffr-ct_ai_software_3.png?h=d1699ae9&itok=WmZZy_qa"
               },
               {
                 "t": "p",
-                "x": "약사회는 AI 전문기업 셀빅을 개발 협력사로 선정하고 지난 7월 시스템 구축에 착수했다. 개발 중인 다제약물 상담 지원서비스는 환자의 복용약과 상담정보를 분석해 약사가 우선 확인해야 할 약물문제와 상담질문을 근거·출처와 함께 제시하고, 음성요약과 상담기록 작성을 지원한다. 최종 검토와 전문적 판단, 환자 상담은 약사가 직접 수행한다."
+                "x": "The FDA has cleared Elucid's FFR-IQ software for noninvasive estimation of fractional flow reserve from coronary CT angiography (FFR-CT). The AI-based technology incorporates coronary anatomy and plaque composition into its estimate of coronary physiology."
               },
               {
                 "t": "p",
-                "x": "현장 테스트 모집 대상은 다제약물 관리사업 참여 경험이 있는 자문약사 30명 내외다. 신청 기간은 21일부터 25일까지이며, 테스트는 26일부터 11월 말까지 진행한다. 참여 약사에게는 소정의 리워드를 제공한다."
+                "x": "Elucid said physicians wanted a more accurate FFR-CT algorithm that considered other factors affecting hemodynamics. It is now the third vendor to offer FFR-CT commercially in the U.S., after Heartflow in 2016 and KeyaMed in 2022."
               },
               {
                 "t": "p",
-                "x": "이윤표 정보통신이사는 “AI는 약사를 대체하는 기술이 아니라 약사가 전문성을 더욱 발휘하도록 돕는 수단이 돼야 한다”고 밝혔다."
+                "x": "Clearance was based on ELUCIDATE FFR-CT study data showing an overall sensitivity of 92.2% and specificity of 93.1%. The algorithm draws on plaque measurements from Elucid's Plaque-IQ software, cleared in October 2024."
+              },
+              {
+                "t": "p",
+                "x": "Results of the ELUCIDATE FFR-CT study will be presented Nov. 1 at TCT 2026 in San Diego."
               }
             ]
           }
         },
-        "en": {
-          "headline": "KPA to build AI assistant\nfor pharmacists' daily work",
-          "body": "The Korean Pharmaceutical Association is building AI to help with drug reviews, counseling prep and record-keeping.",
-          "mini_headline": "AI support tool for pharmacists",
+        "ko": {
+          "headline": "Elucid FFR-IQ\nFDA 승인 관상동맥 AI",
+          "body": "FDA가 Elucid의 관상동맥 CT용 AI-based FFR-IQ를 승인했다.",
+          "mini_headline": "FDA, Elucid FFR-IQ 승인",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "The Korean Pharmaceutical Association (President Kwon Young-hee) is moving ahead in earnest with developing a ‘pharmacist work-support AI’ to assist pharmacists’ professional judgment and patient counseling. It is a pharmacy AI transformation (AX) project that applies AI to checking drug information, drug reviews, counseling preparation and record-keeping, and the association plans to build a common work-support base that member pharmacists nationwide can use at no cost."
-              },
-              {
                 "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/21/7f701b6a-9ecd-4116-8634-0835bb9c2f3c.png"
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/elucid_ffr-iq_ffr-ct_ai_software_3.png?h=d1699ae9&itok=WmZZy_qa"
               },
               {
                 "t": "p",
-                "x": "The association selected AI company Selvik (셀빅) as its development partner and began building the system in July. The polypharmacy counseling support service under development analyzes a patient’s medications and counseling information, presents the drug problems and counseling questions a pharmacist should check first along with their evidence and sources, and supports voice summaries and counseling records. Final review, professional judgment and patient counseling are carried out by the pharmacist directly."
+                "x": "FDA가 Elucid의 FFR-IQ 소프트웨어를 승인했다. 관상동맥 CT 혈관조영술로 분획혈류예비력(FFR-CT)을 비침습적으로 추정하는 소프트웨어다. 이 AI-based 기술은 관상동맥 생리를 추정할 때 관상동맥 해부 구조와 플라크 구성까지 반영한다."
               },
               {
                 "t": "p",
-                "x": "The field test is recruiting around 30 consultant pharmacists (30명 내외) with experience in the polypharmacy management program. Applications run from the 21st to the 25th, and testing runs from the 26th to the end of November. Participating pharmacists will receive a small reward."
+                "x": "Elucid는 의사들이 혈역학에 영향을 주는 다른 요인까지 고려한 더 정확한 FFR-CT 알고리즘을 원했다고 밝혔다. 이번 승인으로 Elucid는 2016년 Heartflow, 2022년 KeyaMed에 이어 U.S.에서 FFR-CT를 상용 제공하는 세 번째 업체가 됐다."
               },
               {
                 "t": "p",
-                "x": "Lee Yoon-pyo, director of information and communications, said, “AI should not be a technology that replaces pharmacists but a means that helps pharmacists make fuller use of their expertise.”"
+                "x": "승인 근거는 전체 민감도 92.2%, 특이도 93.1%를 보인 ELUCIDATE FFR-CT 연구 데이터다. 알고리즘에는 2024년 10월 승인된 Elucid의 Plaque-IQ 소프트웨어의 플라크 측정값이 쓰인다."
+              },
+              {
+                "t": "p",
+                "x": "ELUCIDATE FFR-CT 연구 결과는 11월 1일 San Diego에서 열리는 TCT 2026에서 발표된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "大韓薬剤師会、薬剤師\n業務支援AIを開発",
-          "body": "大韓薬剤師会が薬物レビュー・相談準備・記録作成を支える業務支援AIを開発する。",
-          "mini_headline": "薬剤師の業務支援AIを開発",
+          "headline": "Elucid FFR-IQ\nFDA承認、冠動脈を評価",
+          "body": "FDAがElucidの冠動脈CT向けAI-based FFR-IQを承認した。",
+          "mini_headline": "FDA、Elucid FFR-IQを承認",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "大韓薬剤師会(会長 クォン・ヨンヒ)が、薬剤師の専門的判断と患者相談を支援する「薬剤師業務支援AI」の開発を本格的に進める。医薬品情報の確認や薬物レビュー、相談準備、記録作成などにAIを活用する薬局AI転換(AX)事業で、全国の会員薬剤師が費用負担なく使える共通の業務支援基盤を整える計画だ。"
-              },
-              {
                 "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/21/7f701b6a-9ecd-4116-8634-0835bb9c2f3c.png"
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/elucid_ffr-iq_ffr-ct_ai_software_3.png?h=d1699ae9&itok=WmZZy_qa"
               },
               {
                 "t": "p",
-                "x": "薬剤師会はAI専門企業のセルビックを開発協力会社に選び、7月にシステム構築に着手した。開発中の多剤併用相談支援サービスは、患者の服用薬と相談情報を分析し、薬剤師が優先して確認すべき薬物問題と相談質問を根拠・出典とともに示し、音声要約と相談記録の作成を支援する。最終的な確認と専門的判断、患者相談は薬剤師が自ら行う。"
+                "x": "FDAは、冠動脈CT血管造影から血流予備量比を非侵襲的に推定する(FFR-CT)ElucidのFFR-IQソフトウェアを承認した。このAI-based技術は、冠動脈の解剖とプラーク組成を冠動脈生理の推定に組み込む。"
               },
               {
                 "t": "p",
-                "x": "現場テストの募集対象は、多剤併用管理事業への参加経験がある諮問薬剤師30人程度(30명 내외)だ。申請期間は21日から25日までで、テストは26日から11月末まで行う。参加した薬剤師には所定の謝礼を提供する。"
+                "x": "Elucidによると、医師たちは血行動態に影響する他の要因も考慮した、より正確なFFR-CTアルゴリズムを求めていた。同社は2016年のHeartflow、2022年のKeyaMedに続き、U.S.でFFR-CTを商用提供する三社目のベンダーとなった。"
               },
               {
                 "t": "p",
-                "x": "イ・ユンピョ情報通信理事は「AIは薬剤師に取って代わる技術ではなく、薬剤師が専門性をより発揮できるよう助ける手段であるべきだ」と述べた。"
+                "x": "承認は、全体の感度92.2%、特異度93.1%を示したELUCIDATE FFR-CT試験のデータに基づく。アルゴリズムは、2024年10月に承認されたElucidのPlaque-IQソフトウェアによるプラーク測定値を活用している。"
+              },
+              {
+                "t": "p",
+                "x": "ELUCIDATE FFR-CT試験の結果は、11月1日にSan Diegoで開かれるTCT 2026で発表される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "大韩药师会开发\n药师业务支持AI",
-          "body": "大韩药师会将开发协助药物审查、咨询准备和记录撰写的业务支持AI。",
-          "mini_headline": "药师业务支持AI开发",
+          "headline": "Elucid FFR-IQ\n获FDA批准评估冠脉",
+          "body": "FDA批准Elucid的AI-based软件FFR-IQ，可由冠脉CT估算血流储备分数。",
+          "mini_headline": "FDA批准Elucid FFR-IQ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "大韩药师会(会长 Kwon Young-hee)正全面推进“药师业务支持AI”的开发，以辅助药师的专业判断和患者咨询。这是一项将AI用于核查药品信息、药物审查、咨询准备和记录撰写等环节的药房AI转型(AX)项目，计划打造全国会员药师均可免费使用的通用业务支持平台。"
-              },
-              {
                 "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/21/7f701b6a-9ecd-4116-8634-0835bb9c2f3c.png"
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/elucid_ffr-iq_ffr-ct_ai_software_3.png?h=d1699ae9&itok=WmZZy_qa"
               },
               {
                 "t": "p",
-                "x": "药师会选定AI专业企业Selvik（셀빅）为开发合作方，并于7月启动系统建设。正在开发的多重用药咨询支持服务会分析患者的用药和咨询信息，连同依据和出处一起列出药师应优先核查的用药问题和咨询问题，并支持语音摘要和咨询记录撰写。最终审核、专业判断和患者咨询由药师亲自完成。"
+                "x": "FDA已批准Elucid的FFR-IQ软件，用于通过冠状动脉CT血管造影无创估算血流储备分数(FFR-CT)。这项AI-based技术在估算冠脉生理时纳入了冠脉解剖结构和斑块成分。"
               },
               {
                 "t": "p",
-                "x": "现场测试招募对象为约30名(30명 내외)有多重用药管理项目参与经验的顾问药师。报名时间为21日至25日，测试将从26日持续到11月底。参与的药师将获得少量奖励。"
+                "x": "Elucid表示，医生希望有一种更准确、能考虑影响血流动力学其他因素的FFR-CT算法。继2016年的Heartflow和2022年的KeyaMed之后，该公司成为第三家在U.S.商业化提供FFR-CT的厂商。"
               },
               {
                 "t": "p",
-                "x": "信息通信理事Lee Yoon-pyo表示：“AI不应是取代药师的技术，而应成为帮助药师更好发挥专业能力的工具。”"
+                "x": "此次批准基于ELUCIDATE FFR-CT研究数据，其总体灵敏度为92.2%，特异度为93.1%。该算法利用了Elucid于2024年10月获批的Plaque-IQ软件的斑块测量数据。"
+              },
+              {
+                "t": "p",
+                "x": "ELUCIDATE FFR-CT研究结果将于11月1日在San Diego举行的TCT 2026上公布。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La asociación de farmacéuticos\nde Corea desarrolla una AI",
-          "body": "La Asociación Farmacéutica de Corea desarrolla una AI que ayuda en la revisión de fármacos, consultas y registros.",
-          "mini_headline": "AI de apoyo para farmacéuticos",
+          "headline": "La FDA autoriza FFR-IQ de Elucid\npara evaluar las coronarias",
+          "body": "La FDA autorizó FFR-IQ, software AI-based de Elucid que estima la reserva fraccional de flujo por CT coronaria.",
+          "mini_headline": "La FDA autoriza el FFR-IQ de Elucid",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "La Asociación Farmacéutica de Corea (presidenta Kwon Young-hee) impulsa de lleno el desarrollo de una ‘AI de apoyo al trabajo del farmacéutico’ que respalde el juicio profesional y la atención al paciente. Se trata de un proyecto de transformación con AI (AX) en farmacias que aplica AI a la verificación de información de medicamentos, la revisión farmacológica, la preparación de consultas y la redacción de registros, y la asociación prevé crear una base común de apoyo que los farmacéuticos asociados de todo el país puedan usar sin coste."
-              },
-              {
                 "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/21/7f701b6a-9ecd-4116-8634-0835bb9c2f3c.png"
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/elucid_ffr-iq_ffr-ct_ai_software_3.png?h=d1699ae9&itok=WmZZy_qa"
               },
               {
                 "t": "p",
-                "x": "La asociación eligió a la empresa especializada en AI Selvik (셀빅) como socio de desarrollo y empezó a construir el sistema en julio. El servicio de apoyo a consultas sobre polifarmacia en desarrollo analiza la medicación del paciente y la información de la consulta, presenta con sus fundamentos y fuentes los problemas farmacológicos y las preguntas que el farmacéutico debe revisar primero, y ayuda con resúmenes de voz y registros de consulta. La revisión final, el juicio profesional y la atención al paciente corren a cargo del propio farmacéutico."
+                "x": "La FDA autorizó el software FFR-IQ de Elucid para la estimación no invasiva de la reserva fraccional de flujo a partir de la angiografía por CT coronaria (FFR-CT). Esta tecnología AI-based incorpora la anatomía coronaria y la composición de la placa en su estimación de la fisiología coronaria."
               },
               {
                 "t": "p",
-                "x": "La prueba de campo busca a unos 30 farmacéuticos asesores (30명 내외) con experiencia en el programa de gestión de polifarmacia. Las solicitudes se reciben del 21 al 25, y la prueba se desarrollará del 26 hasta finales de noviembre. Los participantes recibirán una pequeña recompensa."
+                "x": "Elucid afirmó que los médicos querían un algoritmo de FFR-CT más preciso que considerara otros factores que influyen en la hemodinámica. Ahora es el tercer proveedor que ofrece FFR-CT comercialmente en U.S., después de Heartflow en 2016 y KeyaMed en 2022."
               },
               {
                 "t": "p",
-                "x": "Lee Yoon-pyo, director de información y comunicaciones, afirmó: “La AI no debe ser una tecnología que sustituya a los farmacéuticos, sino un medio que les ayude a aprovechar mejor su experiencia”."
+                "x": "La autorización se basó en datos del estudio ELUCIDATE FFR-CT, que mostraron una sensibilidad global del 92.2% y una especificidad del 93.1%. El algoritmo utiliza las mediciones de placa del software Plaque-IQ de Elucid, autorizado en octubre de 2024."
+              },
+              {
+                "t": "p",
+                "x": "Los resultados del estudio ELUCIDATE FFR-CT se presentarán el 1 de noviembre en TCT 2026, en San Diego."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "KPA to build AI assistant\nfor pharmacists' daily work",
-          "body": "The Korean Pharmaceutical Association is building AI to help with drug reviews, counseling prep and record-keeping.",
-          "mini_headline": "AI support tool for pharmacists",
+        "ko": {
+          "headline": "Elucid FFR-IQ\nFDA 승인 관상동맥 AI",
+          "body": "FDA가 Elucid의 관상동맥 CT용 AI-based FFR-IQ를 승인했다.",
+          "mini_headline": "FDA, Elucid FFR-IQ 승인",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "The Korean Pharmaceutical Association (President Kwon Young-hee) is moving ahead in earnest with developing a ‘pharmacist work-support AI’ to assist pharmacists’ professional judgment and patient counseling. It is a pharmacy AI transformation (AX) project that applies AI to checking drug information, drug reviews, counseling preparation and record-keeping, and the association plans to build a common work-support base that member pharmacists nationwide can use at no cost."
-              },
-              {
                 "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/21/7f701b6a-9ecd-4116-8634-0835bb9c2f3c.png"
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/elucid_ffr-iq_ffr-ct_ai_software_3.png?h=d1699ae9&itok=WmZZy_qa"
               },
               {
                 "t": "p",
-                "x": "The association selected AI company Selvik (셀빅) as its development partner and began building the system in July. The polypharmacy counseling support service under development analyzes a patient’s medications and counseling information, presents the drug problems and counseling questions a pharmacist should check first along with their evidence and sources, and supports voice summaries and counseling records. Final review, professional judgment and patient counseling are carried out by the pharmacist directly."
+                "x": "FDA가 관상동맥 CT 혈관조영술 기반 분획혈류예비력(FFR-CT)을 비침습적으로 추정하는 Elucid의 FFR-IQ 소프트웨어를 승인했다. 이 AI-based 기술은 관상동맥 해부 구조와 플라크 구성을 관상동맥 생리 추정에 반영한다."
               },
               {
                 "t": "p",
-                "x": "The field test is recruiting around 30 consultant pharmacists (30명 내외) with experience in the polypharmacy management program. Applications run from the 21st to the 25th, and testing runs from the 26th to the end of November. Participating pharmacists will receive a small reward."
+                "x": "Elucid는 의사들이 혈역학에 영향을 주는 다른 요인까지 고려한, 더 정확한 FFR-CT 알고리즘을 원했다고 밝혔다. 이로써 Elucid는 2016년 Heartflow, 2022년 KeyaMed에 이어 U.S.에서 FFR-CT를 상용 제공하는 세 번째 업체가 됐다."
               },
               {
                 "t": "p",
-                "x": "Lee Yoon-pyo, director of information and communications, said, “AI should not be a technology that replaces pharmacists but a means that helps pharmacists make fuller use of their expertise.”"
+                "x": "승인은 전체 민감도 92.2%, 특이도 93.1%를 보인 ELUCIDATE FFR-CT 연구 데이터를 근거로 했다. 알고리즘은 2024년 10월 승인된 Elucid의 Plaque-IQ 소프트웨어의 플라크 측정값을 활용한다."
+              },
+              {
+                "t": "p",
+                "x": "ELUCIDATE FFR-CT 연구 결과는 11월 1일 San Diego에서 열리는 TCT 2026에서 발표한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "大韓薬剤師会、薬剤師\n業務支援AIを開発",
-          "body": "大韓薬剤師会が薬物レビュー・相談準備・記録作成を支える業務支援AIを開発する。",
-          "mini_headline": "薬剤師の業務支援AIを開発",
+          "headline": "Elucid FFR-IQ\nFDA承認、冠動脈を評価",
+          "body": "FDAがElucidの冠動脈CT向けAI-based FFR-IQを承認した。",
+          "mini_headline": "FDA、Elucid FFR-IQを承認",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "大韓薬剤師会(会長 クォン・ヨンヒ)が、薬剤師の専門的判断と患者相談を支援する「薬剤師業務支援AI」の開発を本格的に進める。医薬品情報の確認や薬物レビュー、相談準備、記録作成などにAIを活用する薬局AI転換(AX)事業で、全国の会員薬剤師が費用負担なく使える共通の業務支援基盤を整える計画だ。"
-              },
-              {
                 "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/21/7f701b6a-9ecd-4116-8634-0835bb9c2f3c.png"
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/elucid_ffr-iq_ffr-ct_ai_software_3.png?h=d1699ae9&itok=WmZZy_qa"
               },
               {
                 "t": "p",
-                "x": "薬剤師会はAI専門企業のセルビックを開発協力会社に選び、7月にシステム構築に着手した。開発中の多剤併用相談支援サービスは、患者の服用薬と相談情報を分析し、薬剤師が優先して確認すべき薬物問題と相談質問を根拠・出典とともに示し、音声要約と相談記録の作成を支援する。最終的な確認と専門的判断、患者相談は薬剤師が自ら行う。"
+                "x": "FDAは、冠動脈CT血管造影から血流予備量比を非侵襲的に推定する(FFR-CT)ElucidのFFR-IQソフトウェアを承認した。このAI-based技術は、冠動脈の解剖とプラーク組成を冠動脈生理の推定に組み込む。"
               },
               {
                 "t": "p",
-                "x": "現場テストの募集対象は、多剤併用管理事業への参加経験がある諮問薬剤師30人程度(30명 내외)だ。申請期間は21日から25日までで、テストは26日から11月末まで行う。参加した薬剤師には所定の謝礼を提供する。"
+                "x": "Elucidによると、医師たちは血行動態に影響する他の要因も考慮した、より正確なFFR-CTアルゴリズムを求めていた。同社は2016年のHeartflow、2022年のKeyaMedに続き、U.S.でFFR-CTを商用提供する三社目のベンダーとなった。"
               },
               {
                 "t": "p",
-                "x": "イ・ユンピョ情報通信理事は「AIは薬剤師に取って代わる技術ではなく、薬剤師が専門性をより発揮できるよう助ける手段であるべきだ」と述べた。"
+                "x": "承認は、全体の感度92.2%、特異度93.1%を示したELUCIDATE FFR-CT試験のデータに基づく。アルゴリズムは、2024年10月に承認されたElucidのPlaque-IQソフトウェアによるプラーク測定値を活用している。"
+              },
+              {
+                "t": "p",
+                "x": "ELUCIDATE FFR-CT試験の結果は、11月1日にSan Diegoで開かれるTCT 2026で発表される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "大韩药师会开发\n药师业务支持AI",
-          "body": "大韩药师会将开发协助药物审查、咨询准备和记录撰写的业务支持AI。",
-          "mini_headline": "药师业务支持AI开发",
+          "headline": "Elucid FFR-IQ\n获FDA批准评估冠脉",
+          "body": "FDA批准Elucid的AI-based软件FFR-IQ，可由冠脉CT估算血流储备分数。",
+          "mini_headline": "FDA批准Elucid FFR-IQ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "大韩药师会(会长 Kwon Young-hee)正全面推进“药师业务支持AI”的开发，以辅助药师的专业判断和患者咨询。这是一项将AI用于核查药品信息、药物审查、咨询准备和记录撰写等环节的药房AI转型(AX)项目，计划打造全国会员药师均可免费使用的通用业务支持平台。"
-              },
-              {
                 "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/21/7f701b6a-9ecd-4116-8634-0835bb9c2f3c.png"
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/elucid_ffr-iq_ffr-ct_ai_software_3.png?h=d1699ae9&itok=WmZZy_qa"
               },
               {
                 "t": "p",
-                "x": "药师会选定AI专业企业Selvik（셀빅）为开发合作方，并于7月启动系统建设。正在开发的多重用药咨询支持服务会分析患者的用药和咨询信息，连同依据和出处一起列出药师应优先核查的用药问题和咨询问题，并支持语音摘要和咨询记录撰写。最终审核、专业判断和患者咨询由药师亲自完成。"
+                "x": "FDA已批准Elucid的FFR-IQ软件，用于通过冠状动脉CT血管造影无创估算血流储备分数(FFR-CT)。这项AI-based技术在估算冠脉生理时纳入了冠脉解剖结构和斑块成分。"
               },
               {
                 "t": "p",
-                "x": "现场测试招募对象为约30名(30명 내외)有多重用药管理项目参与经验的顾问药师。报名时间为21日至25日，测试将从26日持续到11月底。参与的药师将获得少量奖励。"
+                "x": "Elucid表示，医生希望有一种更准确、能考虑影响血流动力学其他因素的FFR-CT算法。继2016年的Heartflow和2022年的KeyaMed之后，该公司成为第三家在U.S.商业化提供FFR-CT的厂商。"
               },
               {
                 "t": "p",
-                "x": "信息通信理事Lee Yoon-pyo表示：“AI不应是取代药师的技术，而应成为帮助药师更好发挥专业能力的工具。”"
+                "x": "此次批准基于ELUCIDATE FFR-CT研究数据，其总体灵敏度为92.2%，特异度为93.1%。该算法利用了Elucid于2024年10月获批的Plaque-IQ软件的斑块测量数据。"
+              },
+              {
+                "t": "p",
+                "x": "ELUCIDATE FFR-CT研究结果将于11月1日在San Diego举行的TCT 2026上公布。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La asociación de farmacéuticos\nde Corea desarrolla una AI",
-          "body": "La Asociación Farmacéutica de Corea desarrolla una AI que ayuda en la revisión de fármacos, consultas y registros.",
-          "mini_headline": "AI de apoyo para farmacéuticos",
+          "headline": "La FDA autoriza FFR-IQ de Elucid\npara evaluar las coronarias",
+          "body": "La FDA autorizó FFR-IQ, software AI-based de Elucid que estima la reserva fraccional de flujo por CT coronaria.",
+          "mini_headline": "La FDA autoriza el FFR-IQ de Elucid",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "La Asociación Farmacéutica de Corea (presidenta Kwon Young-hee) impulsa de lleno el desarrollo de una ‘AI de apoyo al trabajo del farmacéutico’ que respalde el juicio profesional y la atención al paciente. Se trata de un proyecto de transformación con AI (AX) en farmacias que aplica AI a la verificación de información de medicamentos, la revisión farmacológica, la preparación de consultas y la redacción de registros, y la asociación prevé crear una base común de apoyo que los farmacéuticos asociados de todo el país puedan usar sin coste."
-              },
-              {
                 "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/21/7f701b6a-9ecd-4116-8634-0835bb9c2f3c.png"
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/elucid_ffr-iq_ffr-ct_ai_software_3.png?h=d1699ae9&itok=WmZZy_qa"
               },
               {
                 "t": "p",
-                "x": "La asociación eligió a la empresa especializada en AI Selvik (셀빅) como socio de desarrollo y empezó a construir el sistema en julio. El servicio de apoyo a consultas sobre polifarmacia en desarrollo analiza la medicación del paciente y la información de la consulta, presenta con sus fundamentos y fuentes los problemas farmacológicos y las preguntas que el farmacéutico debe revisar primero, y ayuda con resúmenes de voz y registros de consulta. La revisión final, el juicio profesional y la atención al paciente corren a cargo del propio farmacéutico."
+                "x": "La FDA autorizó el software FFR-IQ de Elucid para la estimación no invasiva de la reserva fraccional de flujo a partir de la angiografía por CT coronaria (FFR-CT). Esta tecnología AI-based incorpora la anatomía coronaria y la composición de la placa en su estimación de la fisiología coronaria."
               },
               {
                 "t": "p",
-                "x": "La prueba de campo busca a unos 30 farmacéuticos asesores (30명 내외) con experiencia en el programa de gestión de polifarmacia. Las solicitudes se reciben del 21 al 25, y la prueba se desarrollará del 26 hasta finales de noviembre. Los participantes recibirán una pequeña recompensa."
+                "x": "Elucid afirmó que los médicos querían un algoritmo de FFR-CT más preciso que considerara otros factores que influyen en la hemodinámica. Ahora es el tercer proveedor que ofrece FFR-CT comercialmente en U.S., después de Heartflow en 2016 y KeyaMed en 2022."
               },
               {
                 "t": "p",
-                "x": "Lee Yoon-pyo, director de información y comunicaciones, afirmó: “La AI no debe ser una tecnología que sustituya a los farmacéuticos, sino un medio que les ayude a aprovechar mejor su experiencia”."
+                "x": "La autorización se basó en datos del estudio ELUCIDATE FFR-CT, que mostraron una sensibilidad global del 92.2% y una especificidad del 93.1%. El algoritmo utiliza las mediciones de placa del software Plaque-IQ de Elucid, autorizado en octubre de 2024."
+              },
+              {
+                "t": "p",
+                "x": "Los resultados del estudio ELUCIDATE FFR-CT se presentarán el 1 de noviembre en TCT 2026, en San Diego."
               }
             ]
           }

@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-24",
-  "section": "games",
-  "media": [
-    {
-      "id": "games-revamp-playtest",
-      "type": "image",
-      "src": "pipeline/media/games-revamp-playtest.jpg"
-    },
-    {
-      "id": "games-miyamoto-genai",
-      "type": "image",
-      "src": "pipeline/media/games-miyamoto-genai.jpg"
-    },
-    {
-      "id": "games-sweeney-steam-labels",
-      "type": "image",
-      "src": "pipeline/media/games-sweeney-steam-labels.jpg"
-    },
-    {
-      "id": "games-future-refunds",
-      "type": "image",
-      "src": "pipeline/media/games-future-refunds.jpg"
-    },
-    {
-      "id": "games-sonicfox-nexcon",
-      "type": "svg"
-    }
-  ]
+ "media": [
+  {
+   "id": "games-rtx-remix-16",
+   "type": "video",
+   "src": "pipeline/media/games-rtx-remix-16.mp4",
+   "poster": "pipeline/media/games-rtx-remix-16.jpg"
+  },
+  {
+   "id": "games-unity-cli-agents",
+   "type": "image",
+   "src": "pipeline/media/games-unity-cli-agents.png"
+  },
+  {
+   "id": "games-xbox-fsr41",
+   "type": "image",
+   "src": "pipeline/media/games-xbox-fsr41.jpg"
+  },
+  {
+   "id": "games-pokemon-ai-decomp",
+   "type": "image",
+   "src": "pipeline/media/games-pokemon-ai-decomp.jpg"
+  },
+  {
+   "id": "games-inven-ai-modding",
+   "type": "image",
+   "src": "pipeline/media/games-inven-ai-modding.jpg"
+  }
+ ]
 }

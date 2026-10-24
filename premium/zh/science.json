@@ -8233,6 +8233,155 @@
           "x": "专家们现在认为，该集群的Navier-Stokes证明走的是自己的路径。Buckmaster仍认为OpenAI借鉴了他的进展，OpenAI则坚决否认。这一事件警示，LLMs证明结果的速度正在超过人类理解它们的速度。"
         }
       ]
+    },
+    "science/science-epfl-logsync-brain-chip": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "由Mahsa Shoaran领导的EPFL Integrated Neurotechnologies Lab研制出LogSync，这是一款约4 x 2 mm 的低功耗植入式神经系统级芯片。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-chip-decodes-in.jpg",
+          "cap": "LogSync芯片，尺寸约为4 x 2 mm。Credit: 2026 EPFL/Lundi13 CC BY SA 4.0"
+        },
+        {
+          "t": "p",
+          "x": "该芯片测量脑振荡的强度以及不同脑区信号之间的同步性。机器学习算法利用这些网络层面的生物标志物对认知和情绪状态进行分类，并在检测到某一状态时触发刺激。借助对数运算，其功耗低于200微瓦。"
+        },
+        {
+          "t": "p",
+          "x": "Shoaran认为，精神疾病更多源于脑区之间的通信紊乱，而非某个单一脑区；而大多数脑深部刺激系统以开环方式运行，或仅依赖一个脑区。"
+        },
+        {
+          "t": "p",
+          "x": "在此前涵盖认知投入与情绪唤醒的人体实验记录中，该算法仅凭神经数据就区分出了这些状态。在University of Minnesota的大鼠实验中，植入物在脑活动的预设相位上施加了刺激。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-chip-decodes-in-1.jpg",
+          "cap": "LogSync芯片。Credit: 2026 EPFL/Lundi13 CC BY SA 4.0"
+        },
+        {
+          "t": "p",
+          "x": "团队认为其可用于精神疾病治疗、针对运动障碍的自适应DBS以及闭环无创刺激。该成果发表于IEEE Journal of Solid-State Circuits。"
+        }
+      ]
+    },
+    "science/science-perturbai-openai-reasoning-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2026/06/GettyImages-2224152938.jpg",
+          "cap": "Credit: Thom Leach/Science Photo Library/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "PerturbAI、OpenAI以及来自Scripps Research、UC San Diego和HHMI的合作者公布了一项为期一年的工作成果：构建一个AI推理框架，用于解读大型实验数据集、将其与已有研究相联系并生成可检验的假设。相关内容见于一篇bioRxiv预印本。"
+        },
+        {
+          "t": "p",
+          "x": "将其应用于PerturbAI的全脑图谱后，数千个并行智能体分析细胞反应并检索文献，随后整合出一份连接基因、细胞反应和可能机制的推理图谱。在没有原始论文的情况下，它们复现了论文结论，预测了留出的扰动效应，用时32分钟。"
+        },
+        {
+          "t": "p",
+          "x": "在盲审中，生物学家在60次判断中有45次（75%）更青睐分布式智能体的解读，而非单一智能体报告。"
+        },
+        {
+          "t": "p",
+          "x": "双方正将合作扩展到利用PerturbAI因果性in vivo数据的联合药物靶点发现。OpenAI生命科学负责人Joy Jiao表示：“并行运行近2,000个智能体，展示了我们如何在高通量实验的同时扩展生物学解读。”"
+        }
+      ]
+    },
+    "science/science-ai2-olmoearth-v1-3": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "此前，使用OlmoEarth意味着要在OlmoEarth Studio中针对每项任务微调模型。Ai2的OlmoEarth v1.3新增了预计算嵌入和基于浏览器的Embeddings Explorer。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792611867-olmoearth-v1-3-globe.png?fit=max&h=810&w=1550"
+        },
+        {
+          "t": "p",
+          "x": "该模型读取一年的Sentinel-1雷达数据以及Sentinel-2和Landsat时间序列，为地球上每个10米像素生成一个128维向量；前64维也可单独使用。"
+        },
+        {
+          "t": "p",
+          "x": "在与AlphaEarth Foundations和Tessera v2对比的27项评估中，128维嵌入在20项中得分最高，综合排名居首；64维版本在18项中领先。v1.3也是训练成本最低的OlmoEarth，计算量仅为v1.2的53%。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792611867-olmoearth-v1-3-la-pampa.png?fit=max&h=810&w=1550"
+        },
+        {
+          "t": "p",
+          "x": "无需训练，只需比较不同年份的向量，就能看到秘鲁La Pampa周边非法金矿开采的扩张以及随后的打击行动。"
+        },
+        {
+          "t": "p",
+          "x": "该档案每年约150 TB：2023年至2025年覆盖全球，2017年至2022年覆盖部分国家。此次发布包括Base模型、全球嵌入、Explorer和一份技术报告。"
+        }
+      ]
+    },
+    "science/science-chalmers-llm-political-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/five-out-of-six-ai-cha.jpg",
+          "cap": "Credit: The Swedish Election Authority (Valmyndigheten) | Fialotta Bratt"
+        },
+        {
+          "t": "p",
+          "x": "Chalmers University of Technology的研究人员在2026年瑞典大选前，就107个政治议题测试了六个大语言模型——Claude、DeepSeek、Gemini、Mistral、GPT和Grok，在77项写作任务中生成了略多于148,000篇文本。"
+        },
+        {
+          "t": "p",
+          "x": "研究人员将文本按对各议题的态度分为中立、正面或负面，并与各政党的竞选立场进行比较。高级讲师Bastiaan Bruinsma说：“无法说这些模型支持任何政党。”这些模型总体上落在光谱的中间位置，GPT大多生成中立、平衡的文本。"
+        },
+        {
+          "t": "p",
+          "x": "由xAI开发的Grok在移民、犯罪和性别议题上明显偏离。当被要求为某项提案提出支持或反对的论点时，各模型大多照做。"
+        },
+        {
+          "t": "p",
+          "x": "该研究没有测试对话历史或对投票的影响，团队计划下一步加以研究。研究以arXiv预印本形式发布。"
+        }
+      ]
+    },
+    "science/science-rfd4-proteina": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2026/10/GettyImages_1402266486_proteins-1024x538-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "华盛顿大学医学院蛋白质设计研究所(IPD)与Nvidia合作推出RFD4-Proteina。这是一款基于Nvidia BioNeMo平台构建的开放生成模型，将可编程蛋白质设计与搜索能力结合在一起。"
+        },
+        {
+          "t": "p",
+          "x": "该模型会在优化蛋白质序列和结构的同时，兼顾与之相互作用的分子结构。开发者表示，在蛋白质结合、小分子结合、酶支架设计和DNA结合四类基准测试中，其设计成功率比此前模型高五到10倍，生成候选分子的速度也快五到10倍。"
+        },
+        {
+          "t": "p",
+          "x": "“我们正从发现大自然所造蛋白质的时代，迈向能够设计全新蛋白质的时代。”IPD所长、诺贝尔奖得主大卫·贝克(David Baker)说。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2026/10/UW-IPD-dry-lab-RFD4-PROTEINA.jpg",
+          "cap": "RDF4建模团队成员在蛋白质设计研究所进行测试。[Sierra Adler / UW Medicine Institute for Protein Design]"
+        },
+        {
+          "t": "p",
+          "x": "模型名称取自IPD的RosettaFold Diffusion和Nvidia的Proteina-Complexa。用户可通过Amazon Bio Discovery、Anthropic的Claude Science、Benchling、Databricks、Google Cloud、Hugging Face、Nebius、OpenAI和Tamarind Bio等合作伙伴使用，模型也以BSD-3许可开源。"
+        },
+        {
+          "t": "p",
+          "x": "“短短几天，我们就设计出一种降解农药的酶，性能比我此前花了数月才设计出的最佳成果高出许多倍。”UW博士预备生塞思·伍德伯里(Seth Woodbury)说。"
+        }
+      ]
     }
   }
 }

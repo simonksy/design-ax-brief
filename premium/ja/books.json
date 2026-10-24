@@ -7841,6 +7841,143 @@
           "x": "バーチャルボイスのオーディオブックは、新刊がKDP Selectに登録されると自動的に提供されるが、著者は既刊作品についてもAIナレーターを選択できる。人間のナレーターを好む著者向けには、AudibleのAudiobook Creation Exchange（ACX）マーケットプレイスで制作されたオーディオブックもKindle Plusで利用可能になるが、まずはUSの会員から始まる。Amazonは今後、時間をかけて他の市場にも広げる計画だ。"
         }
       ]
+    },
+    "books/books-zlibrary-paper-fake-citation": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "ナイジェリアの大学に勤める二人の図書館員が今月、学術誌New Review of Academic Librarianshipに発表したZ-Libraryに関する論文が、存在しない2021年のTorrentFreak記事を引用している。"
+        },
+        {
+          "t": "img",
+          "src": "https://torrentfreak.com/images/zlib-paper-claim.png",
+          "cap": "問題の記述"
+        },
+        {
+          "t": "p",
+          "x": "参考文献\"Publishers continue crackdown on shadow libraries\"はTorrentFreakのトップページにリンクしているが、その題の記事が掲載されたことはない。TorrentFreakは論文の参考文献44件のうち、少なくとも十件を見つけられなかった。"
+        },
+        {
+          "t": "img",
+          "src": "https://torrentfreak.com/images/citations-600x314.png",
+          "cap": "参考文献の一部"
+        },
+        {
+          "t": "p",
+          "x": "謝辞には、文献の精査にConsensus AIを、文章の改善にChatGPTを使ったとある。AIチャットボットは参考文献を捏造することで知られるが、これはAIが書いた証拠にはならない。Pangramは要旨と結論について「テキストの100%がAI-generatedである可能性が高い」と判定した。"
+        },
+        {
+          "t": "p",
+          "x": "Taylor & Francisは、この件をEditorial and Publishing Ethics & Integrityチームに回付したとしている。"
+        }
+      ]
+    },
+    "books/books-publishers-trust-not-ai-detectors": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fVY8R.img",
+          "cap": "TorontoのNorth York Central Libraryの書棚に並ぶ本。THE CANADIAN PRESS/Chris Young"
+        },
+        {
+          "t": "p",
+          "x": "AIが書いたかどうかを確実に判定できる技術がない中、カナダの一部の出版社は信頼に頼るしかないと話す。"
+        },
+        {
+          "t": "p",
+          "x": "Coach House Booksの編集ディレクター、Alana Wilcoxは、同社が作家にAI-generatedの素材について率直に申告するよう求めていると述べた。既存の検出ツールは信頼性が低く、問題が多いことがわかっているという。"
+        },
+        {
+          "t": "p",
+          "x": "この関心は、MontrealのLes Éditions du Boréalが、メタデータから小説でのAI使用がうかがえるとして作家Thélyson Orélienとの関係を断ったことを受けたものだ。Orélienは執筆にAIを使ったことを否定している。"
+        },
+        {
+          "t": "p",
+          "x": "ECW Pressの共同発行人David Caronは、同社の契約では保証条項でAIを扱っていると述べた。Association of Canadian Publishersの会長Lisa Quinnは、検出ツールは「truthではなくtruthiness(真実らしさ)」に基づいていると指摘し、方針は信頼関係の上に築くべきだと語った。"
+        }
+      ]
+    },
+    "books/books-coral-hart-370-ai-books": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.timesnownews.com/thumb/msid-156391703,thumbsize-1276522,width-1280,height-720,resizemode-75/156391703.jpg"
+        },
+        {
+          "t": "p",
+          "x": "南アフリカのロマンス作家Coral Hartは、2025年2月以降、AIを使って370冊以上の本を出版したと話す。ペンネームであるHartはAFPに対し、数万件の憎悪メッセージと複数の殺害予告を受けたと語った。"
+        },
+        {
+          "t": "p",
+          "x": "まずコンセプト、文体、登場人物、章立てを固め、会話、構成、恋愛シーンにそれぞれ別のAIツールを使い、さらにAI-assistedの編集を重ねたうえで、人間の校正者が原稿を確認する。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.timesnownews.com/thumb/msid-156391707,width-1280,height-720,resizemode-75/156391707.jpg",
+          "cap": "AIの助けを借りて本を書く"
+        },
+        {
+          "t": "p",
+          "x": "本人の推計では、2026年に入ってからこれまでに百万部以上を売り、$1 million超を稼いだ。数字は自己申告だ。批判派は「AI slop」と呼ぶが、Hartは物語にお金を払う価値があるかは読者が決めればよいと話す。"
+        }
+      ]
+    },
+    "books/books-frankfurt-trusted-knowledge": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-2191733603.jpg",
+          "cap": "Messe Frankfurt"
+        },
+        {
+          "t": "p",
+          "x": "KnowledgeWorks GlobalのVP of Product ManagementであるHong Zhouは、AIに何ができるかよりも、私たちがAIをどう使うかについての問いを多く抱えてFrankfurt Book Fair 2026を後にした。彼が繰り返し投げかけたのは、信頼できるコンテンツをどう有用な知識に変え、人々がそれをもとに行動できるようにするかという問いだ。"
+        },
+        {
+          "t": "p",
+          "x": "AIが出版物をより小さな断片に分解するなか、主張はその根拠、限界、文脈と結びついていてこそ役に立つ。出版社は、下流での再利用と再現性のためにどのメタデータを必須とするかを考え直すべきだ。"
+        },
+        {
+          "t": "p",
+          "x": "AIによる発見には、技術的な接続だけでなく、許諾と価値のモデルが必要だ。コネクターが動いても、コンテンツが選ばれる保証はない。問うべきは「AIは私たちのコンテンツに届くか?」だけでなく、「AIはいつ、なぜそれを使うことを選ぶのか?」である。ゼロクリックが価値ゼロを意味するとは限らない。"
+        },
+        {
+          "t": "p",
+          "x": "信頼は最もよく聞かれた言葉の一つだった。Kudosの調査によると、回答者の約三分の一がAIツールやAI回答を備えた検索エンジンから検索を始め、40%は検索エンジンのAI概要を人間が作成または選別したものだと誤解している。"
+        },
+        {
+          "t": "p",
+          "x": "エージェントについては、具体的な課題から始め、成功、失敗、例外を定義してから自律性を高めるよう勧める。導入したエージェントの数を数えても、わかることは少ない。彼にとってFrankfurtの核心的なメッセージは、知識をめぐるつながり、すなわち主張と根拠、利用と許諾、自動化された行動とその責任を負う人々とのつながりだった。"
+        }
+      ]
+    },
+    "books/books-australia-ai-copyright": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "オーストラリア政府は、AI企業がモデル構築のために作家の作品をライセンスなしで利用できるよう著作権法を改正する法案を提出する計画を発表した。対象は米国を含む世界中の作家である。"
+        },
+        {
+          "t": "p",
+          "x": "法案が成立すれば、AI企業がオーストラリア国内で行う限り、あなたの作品を利用することが合法になる。AI企業は学習業務をオーストラリアに移しつつ、モデルは米国（U.S.）で引き続き展開すればよいため、作家たちがAI企業を相手に起こしてきた訴訟や、保護を求める私たちのロビー活動は事実上無力化される。"
+        },
+        {
+          "t": "p",
+          "x": "オーストラリア政府は著作権者が作品の利用を拒否できるopt-outを認める方針だが、opt-outsは実施が難しく、拒否の必要性とその方法を知るごく一部の熟練した著作権者以外の権利を踏みにじりがちだ。opt-out方式は、誰がどの目的で作品を使えるかを創作者が管理できる著作権のopt-inライセンスの代わりにはならない。"
+        },
+        {
+          "t": "p",
+          "x": "Authors Guildは、世界の創作産業の団体とともに、この法案を非難する公開声明の取りまとめに加わった。声明の内容は次のとおりである。"
+        },
+        {
+          "t": "p",
+          "x": "オーストラリア政府は、自国の地で世界の創作者の作品を盗む行為を合法化してはならない。オーストラリアで私たちの作品をAIモデルの学習に使うには、私たちの明示的な許可が必要である。"
+        },
+        {
+          "t": "p",
+          "x": "この声明は署名者の一覧とともにオンラインで公開される。今すぐ署名するには、下のフォームを送信してほしい。"
+        }
+      ]
     }
   }
 }

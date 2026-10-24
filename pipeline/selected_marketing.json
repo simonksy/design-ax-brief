@@ -1,62 +1,62 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "section": "marketing",
   "picks": [
     {
-      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "title": "Pennsylvania will require labels on AI-generated ads",
       "source": "The Verge",
       "tool": "Marketing",
       "accent": "#ff8a3d",
       "motif": "frame",
-      "rationale": "Google's updated terms mean users who share Gmail and Photos data for Personal Intelligence AI recommendations also open it up to ad personalization. That is a new targeting signal advertisers on Google's AI surfaces will be bought against.",
-      "published_iso": "2026-10-23T16:52:55+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "According to the new terms, sharing your data for better AI recommendations also means opening it up for more personalized ads."
+      "rationale": "Pennsylvania's AI Deceptive Advertising Act puts a disclosure requirement on AI-generated ad creative, which changes how brands and agencies running AI-made ads in the state must label them, loopholes included.",
+      "published_iso": "2026-10-24T18:32:21+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "Pennsylvania’s AI Deceptive Advertising Act leaves a lot of loopholes."
     },
     {
-      "url": "https://www.seroundtable.com/google-ads-sourced-videos-42365.html",
-      "title": "Google Ads Asset Optimization Sourced Videos Toggle",
-      "source": "Search Engine Roundtable",
-      "tool": "Marketing",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "rationale": "A new 'Sourced videos' toggle in Google Ads asset optimization lets Google AI find videos from approved sources and add them to campaigns automatically. Advertisers should check whether it is on before AI-picked video creative starts running.",
-      "published_iso": "2026-10-23T07:05:00-04:00",
-      "og_image": "https://images.seroundtable.com/google-ads-sourced-videos-toggle-n1Mv05cA.jpg",
-      "excerpt": "Google Ads has added a new \"Sourced videos\" on/off toggle setting to the asset optimization section.  This uses Google AI to identify relevant videos from your approved sources and add them to your campaign automatically."
-    },
-    {
-      "url": "https://www.retaildive.com/news/etsy-updates-ai-use-policies-emphasize-craftsmanship/833838/",
-      "title": "Etsy updates AI use policies to emphasize craftsmanship",
-      "source": "Retail Dive",
+      "url": "https://ppc.land/iab-tech-lab-extends-ai-ad-buying-standard-comments-to-november-10/",
+      "title": "IAB Tech Lab extends AI ad-buying standard comments to November 10",
+      "source": "PPC Land",
       "tool": "Marketing",
       "accent": "#f5a623",
       "motif": "frame",
-      "rationale": "Etsy now requires at least one authentic, non-AI-generated image in most seller listings while it expands its own AI. That changes how marketplace sellers can produce the product imagery that sells their goods.",
-      "published_iso": "2026-10-23T12:08:00-04:00",
-      "og_image": "https://imgproxy.divecdn.com/cYMlDQ6lWlMzUd8EncbsCfReT9sYO5rMJj0jdZzDCxw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODUzMTg0NjY1LmpwZw==.webp",
-      "excerpt": "While it’s implementing more AI, the online marketplace now requires at least one authentic, non-AI generated image in most seller listings."
+      "rationale": "IAB Tech Lab extended public comment on its 71-field agentic ad-buying draft standard to November 10, giving buyers, sellers and agent builders 49 days instead of 30 to shape how AI agents will transact media.",
+      "published_iso": "2026-10-24T16:10:29.000Z",
+      "og_image": "https://ppc.land/content/images/2026/10/iab-tech-lab-openproposal-aamp-3-comment-extension-typewriter-carriage.jpg",
+      "excerpt": "Window on the 71-field draft now runs 49 days, not 30, for buyers, sellers and agent builders. Machine-readable schemas still wait on what comments change."
+    },
+    {
+      "url": "https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-october/",
+      "title": "Explore new ways to drive your best ROI with the first Google Marketing Platform Drop",
+      "source": "Google Blog (Google Marketing Platform)",
+      "tool": "Marketing",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "rationale": "Google's first monthly Marketing Platform Drop adds a DV360 Marketplace where Gemini curates personalized media bundles for live sports and tentpole events, bought in one click, plus a Gemini-driven Search Ads 360 Home. Both put AI directly into how media is planned and bought.",
+      "published_iso": "2026-10-22T13:00:00Z",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide01_1021.max-1440x810.png",
+      "excerpt": "Google's first monthly Marketing Platform Drop adds a Display & Video 360 Marketplace where Gemini models curate personalized media bundles for live sports and tentpole events, activated in one click. It also adds a Search Ads 360 Home view that uses Gemini to consolidate insights, generate suggestions, and streamline execution."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update": {
-        "verdict": "follow-up",
-        "nearest": "https://searchengineland.com/google-begins-testing-ads-in-ai-mode-for-users-with-personal-intelligence-enabled-496990",
-        "new_action": "New official Google terms/privacy-policy update: data shared with Personal Intelligence (Gmail, Google Photos) may now be used for ad personalization. The 10-17 card covered only the test of ads appearing in AI Mode for Personal Intelligence users, not the data-use terms change."
-      },
-      "https://www.seroundtable.com/google-ads-sourced-videos-42365.html": {
+      "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act": {
         "verdict": "new",
-        "nearest": "https://www.seroundtable.com/google-ads-text-customization-asset-previews-42264.html",
+        "nearest": "https://www.searchenginejournal.com/ai-in-regulated-paid-media-the-default-settings-that-put-compliance-at-risk/589188/",
         "new_action": ""
       },
-      "https://www.retaildive.com/news/etsy-updates-ai-use-policies-emphasize-craftsmanship/833838/": {
+      "https://ppc.land/iab-tech-lab-extends-ai-ad-buying-standard-comments-to-november-10/": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://digiday.com/media/why-cnn-international-is-building-for-agentic-ad-market-that-barely-exists-yet/",
+        "new_action": ""
+      },
+      "https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-october/": {
+        "verdict": "new",
+        "nearest": "https://www.seroundtable.com/google-ai-ads-goals-and-assets-42269.html",
         "new_action": ""
       }
     },
-    "note": "Re-curation after the recovery pass. The pool is now 18 items. I kept the same 3 picks and did not pad, because none of the 4 recovery candidates passes both the marketing _note and dedup. Recovery drops: (1) The Verge 'AI agents are ready to shop. Some retailers are wary': a report on the running story of retailers blocking or admitting shopping agents (Semafor 10-19 'Ecommerce confronts AI shopping agents', Walmart 10-22 Adweek, mk.co.kr 10-12 Naver/Amazon blocking). There is no new concrete release or announcement, and the body is unverified. (2) PPC Land 'AI Overviews reach 88% of commercial searches': the headline is organic/SEO coverage data, which the _note excludes as pure SEO. The paid hook (ads in AI Overviews, Smart Bidding Exploration) is a secondary roundup section. (3) PPC Land smec budget-limited ROAS: fails the delete-AI test, since the headline stands without AI; it is about Smart Bidding target behavior. (4) SER Customer Lifecycle Goals: fails the delete-AI test (value-mode and multiplier settings, with only an indirect automated-bidding link). It is also related to SER 10-13 'Google AI For Goals & Assets'. Earlier drops still stand: SER Universal Cart live (likely-repeat of the 10-16 TechCrunch card), PPC Land Meta AI terms delay (politics), the AdExchanger/Marketing Dive Meta Q3 earnings cluster c10 (business noise), PPC Land Meta creator ads $15bn (same Q3 earnings, Muse angle already published 10-22), AdExchanger Omnicom Q3 (agency earnings commentary), TechCrunch Canva image model (design), PPC Land Nest case study, Modern Retail Target holiday and SER Translation Tool (rejected 10-22), and Google Blog GMP Drop (AI angle not verifiable). Outlets: The Verge, Search Engine Roundtable, Retail Dive (3 distinct, max 1 each)."
+    "note": "Final: 3 picks, which meets the floor of 3; no padding. The fact-check dropped PPC Land 'IAB Europe finds 86% use AI for marketing, but only 48% have ad rules': the underlying IAB Europe study came out 2026-09-24 at DMEXCO, a month-old event and stale for the 72h window. No backfill: every remaining candidate was already rejected on content or dedup grounds. Those are the AdExchanger OpenAI creative enhancements (repeat of SER 10-21), SER Universal Cart live (repeat of TechCrunch 10-16), Omnicom and Meta Q3 earnings (business noise), Digiday Target holiday (rejected 10-22/10-24), SER Translation Tool (AI angle not stated), SER Customer Lifecycle Goals (fails delete-AI), PPC Land Google/Meta EU fine analysis (analysis of published terms changes), Adweek Tilly Norwood (interview, no action), PPC Land Meta AI terms delay (date-only follow-up, text unchanged), SER AI search studies and PPC Land AI Overviews 88% (organic SEO, one cluster). Earlier in the run, Pennsylvania was kept in marketing after politics dropped it, and the GMP Drop was added from the recovery pass. Outlets: The Verge 1, PPC Land 1, Google Blog 1."
   }
 }

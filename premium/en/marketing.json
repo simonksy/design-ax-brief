@@ -2194,6 +2194,93 @@
           "x": "AdCellerant now systematically turns off Meta's default AI automation across every campaign."
         }
       ]
+    },
+    "marketing/marketing-iab-tech-lab-agentic-standard-comments": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/iab-tech-lab-openproposal-aamp-3-comment-extension-typewriter-carriage.jpg",
+          "cap": "IAB Tech Lab stretches the 71-field OpenProposal comment window from 30 to 49 days, to November 10"
+        },
+        {
+          "t": "p",
+          "x": "IAB Tech Lab on October 23, 2026 extended the public comment period for AAMP 3.0 and its core specification, OpenProposal, to November 10. The draft, which defines how buying and selling software agents exchange advertising proposals, was due to close on October 22; the window now runs 49 days instead of 30."
+        },
+        {
+          "t": "p",
+          "x": "“Due to overwhelming demand,” the group said on LinkedIn. CEO Anthony Katsur called the response “immense,” but neither post put a number on the volume."
+        },
+        {
+          "t": "p",
+          "x": "The draft's 71 fields are grouped under 11 headers, and only 3 require a round trip with the counterparty. “That ratio is the design claim the draft is asking you to test,” according to the repository. Anyone with a GitHub account may comment, member or not."
+        },
+        {
+          "t": "p",
+          "x": "Machine-readable schemas will follow the first revision after the comment period closes."
+        }
+      ]
+    },
+    "marketing/marketing-google-marketing-platform-drop-gemini": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide01_1021.max-1440x810.png"
+        },
+        {
+          "t": "p",
+          "x": "Google Marketing Platform Drops, a new monthly series, delivers our latest news to help you get your best ROI across the full customer journey. We’ll cover everything from building awareness via Vertical Video Unification and driving performance with Search Ads 360 to taking customers from CTV to the checkout cart. Check out the first updates."
+        },
+        {
+          "t": "p",
+          "x": "Industry leadership: Gartner® recognized Google as a Leader in the Gartner Magic Quadrant™ for Advertising Platforms for Google Marketing Platform and ranked Google #1 across all Use Cases (Full Funnel, Awareness, and Performance)."
+        },
+        {
+          "t": "p",
+          "x": "Inventory upgrades on Display & Video 360: Curated by Gemini models, Marketplace now offers personalized media bundles with single-click activation for live sports and tentpole events. We've also brought LinkedIn CTV Ads programmatic inventory into DV360 for unified buying, planning, and measurement."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide06_1.width-1000.format-webp.webp",
+          "cap": "New Marketplace in Display & Video 360"
+        },
+        {
+          "t": "p",
+          "x": "New Search Ads 360 Home experience: To accelerate performance in real time, this customizable view uses Gemini models to consolidate insights, generate smart suggestions, and streamline execution."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide08_1.width-1000.format-webp.webp",
+          "cap": "New Search Ads 360 Home Experience"
+        }
+      ]
+    },
+    "marketing/marketing-google-gmail-photos-ad-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Google has updated its privacy policy in a way that could mean you’ll start seeing targeted ads based on your personal data if you’re using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. As of October 16th, Google has added the line, “unless you choose to make data from these services available to other Google services that support personalized ads.”"
+        },
+        {
+          "t": "p",
+          "x": "That means anyone who has connected their Drive, Gmail, or Google Photos to AI Mode and other Search tools via Google’s Personal Intelligence feature may now see ads targeted on the basis of that content."
+        },
+        {
+          "t": "p",
+          "x": "Advertisers don’t get access to your Drive, Gmail, and Photos information or personally identifying details such as your name or email address, and Google won’t show you ads based on sensitive categories like race, sexual orientation, religion, or health."
+        },
+        {
+          "t": "p",
+          "x": "The policy now reads: “For example, Search may process some of the data that you allow Search to access to personalize content, including ads.”"
+        },
+        {
+          "t": "p",
+          "x": "To prevent this, you can disconnect apps from Search’s Personal Intelligence features or disable Personalized Recommendations entirely via the Search Services Personalization settings page."
+        }
+      ]
     }
   }
 }

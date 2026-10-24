@@ -1,49 +1,49 @@
 {
-  "date": "2026-10-24",
-  "section": "games",
-  "cards": [
-    {
-      "id": "games-sonicfox-nexcon",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "SonicFox pulls out of Nexcon\nover its AI promo art",
-      "body": "Fighting game savant SonicFox terminated their Nexcon contract after the event used AI art in its promotion.",
-      "mini_headline": "SonicFox exits Nexcon over AI",
-      "tool": "Games",
-      "source": "Aftermath",
-      "url": "https://aftermath.site/sonicfox-drops-out-nexcon-gen-ai/",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/IMG_7145.jpeg",
-            "cap": "The Game Awards / YouTube"
-          },
-          {
-            "t": "p",
-            "x": "Upon discovering that Nexcon, a gaming event taking place in Oklahoma next month at which fighting game savant Dominique “SonicFox” McLean was set to be a special guest, had used AI art for promotional purposes, McLean promptly pulled out."
-          },
-          {
-            "t": "p",
-            "x": "“Not sure who’s in charge of Nexcon, but I absolutely refuse to have my likeness be AI generated and my interest in attending as a special guest has dropped to 0,” McLean wrote on Twitter. “Incredibly disrespectful.” The same day, they added that they’d terminated their contract and would no longer be attending."
-          },
-          {
-            "t": "p",
-            "x": "Ty Bailey of Ninjutsu Entertainment, the organization putting on Nexcon, posted a video apologizing to McLean, explaining that Ninjutsu only resorted to AI because it had run out of money to pay human artists, and implored SonicFox to reconsider."
-          },
-          {
-            "t": "p",
-            "x": "McLean held firm. “I’m a forgiving person, and I can hear the remorse in your voice so I forgive you. However, there are still consequences to said actions that will prompt me not to attend. Use the money you offered me in contract to hire artists, and maybe next year I’ll reconsider.”"
-          },
-          {
-            "t": "p",
-            "x": "“If all goes well and you build a community with willing artists and talent and remove all AI, I may be more amenable to next year,” they continued."
-          }
-        ]
-      }
-    }
-  ]
+ "date": "2026-10-25",
+ "section": "games",
+ "cards": [
+  {
+   "id": "games-pokemon-ai-decomp",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "AI decompiling floods fans with\nPokémon ports and mashups",
+   "body": "New AI models let fans rush out ports of Pokémon Snap, Heart Gold and Soul Silver, plus mashups like PokéSurvivor.",
+   "mini_headline": "Vibe-coded Pokémon ports",
+   "tool": "Games",
+   "source": "Kotaku",
+   "url": "https://kotaku.com/of-course-pokemons-been-pulled-into-the-ai-decompilation-frenzy-2000748316",
+   "accent": "#2ec5c5",
+   "motif": "cube",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://kotaku.com/app/uploads/2026/10/pokemon-movie-1-1200x675.jpg",
+      "cap": "Toho Animation"
+     },
+     {
+      "t": "p",
+      "x": "Decompiling games used to be what the owner of decomp.dev called “brutally difficult [and] time consuming.” Newly released generative AI models have changed the speed at which it is possible, and that owner says it has broken the community aspect of the hobby."
+     },
+     {
+      "t": "p",
+      "x": "In the Pokémon community, the frenzy means people are rushing to vibe-code ports and genre mashups. Newly decompiled games have already been turned into ports, including Pokémon Brilliant Diamond and Shining Pearl, Pokémon Snap, and Pokémon Heart Gold and Soul Silver."
+     },
+     {
+      "t": "p",
+      "x": "Others pull the code apart for reimaginings: a playable 3D pixel art battle between Brock and Ash, a Pokémon tactics game, and PokéSurvivor, a browser game that turns Vampire Survivors into Pokémon."
+     },
+     {
+      "t": "p",
+      "x": "Fans on X are excited to play and mod older games, but longtime tinkerers are less convinced; one Reddit user said recompilations used to be “huge releases that entire communities would celebrate.” 404 Media reported that some AI decompilations aren’t the same as the original and have weird bugs or don’t fully work."
+     },
+     {
+      "t": "p",
+      "x": "Kotaku’s verdict: most of the projects run on a basic level, but the mashups aren’t especially novel."
+     }
+    ]
+   }
+  }
+ ]
 }

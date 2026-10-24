@@ -9390,6 +9390,151 @@
           "x": "Canva plans to let AI agents plug into Craft through the open Model Context Protocol, and will roll out more efficient Craft-fast and Craft-ultrafast models. Craft is available now to all users globally via Dream Lab."
         }
       ]
+    },
+    "design/design-vercel-agent-production-access": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A request like “fix this deployment” doesn’t say upfront which actions an agent will take or what access it needs. Vercel Agent starts by investigating the problem, then proposes a plan showing what it would do and what access it would need. Approving that plan grants the additional permissions to carry it out."
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cacf2c9fff74e899cc0b157e/a3f092a118057cfe9ded3eb1439d9839/01-plan-and-permissions-light.png",
+          "cap": "How a deployment request becomes a plan with permissions."
+        },
+        {
+          "t": "p",
+          "x": "For a broken deployment, it might inspect build logs and compare the failed deployment with the last known-good one under read-only scopes, which run automatically. A proposed redeploy requests read-write:deployment access in a plan the user approves in one decision."
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cad02de28304ef1d003bd3c5/86455e20607b69548ecb7fba8e06466e/03-authorization-and-tokens-light.png",
+          "cap": "How Vercel Agent gets a token for approved work."
+        },
+        {
+          "t": "p",
+          "x": "Vercel Agent runs as a Vercel App limited by the user’s existing permissions, so approving a plan cannot grant access the user does not have. The OAuth service issues shorter-lived scoped tokens, and Vercel APIs reject operations outside them, even if the model considers the action necessary."
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/ca222732a2267d21ecbeebe2/36a2586ea4b3aca902e73ff9e631a038/05-plan-lifecycle-light.png",
+          "cap": "What happens when a plan is approved, rejected, or stopped."
+        },
+        {
+          "t": "p",
+          "x": "Before resuming work, the runtime checks that the plan is still active; a stopped plan fails even if its token hasn’t expired. Scoped credentials work alongside sandbox isolation, network policy, secret handling, rate limits and audit logs."
+        }
+      ]
+    },
+    "design/design-nvidia-cosmos-world-models": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026-1280x720.jpg"
+        },
+        {
+          "t": "p",
+          "x": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos Data Factory blueprints."
+        },
+        {
+          "t": "p",
+          "x": "Cosmos Data Factory brings together tools for labeling, curating, augmenting and evaluating data at scale, with five cloud-native blueprints on GitHub, Microsoft Azure, Nebius and CoreWeave. Porsche expects it to reduce repeated physical test drives by up to 90% and shorten development cycle times by up to 85%."
+        },
+        {
+          "t": "video",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Porche-Cosmos-Data-Factory.mp4"
+        },
+        {
+          "t": "p",
+          "x": "At GTC Berlin, NVIDIA extended Cosmos Framework training, optimization and deployment tools as agent skills to more open models, along with Cosmos 3. MicroAGI distilled its 32-billion-parameter reasoner down to an 8-billion-parameter Nano model with no loss in accuracy."
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Cosmos-Framework-960x538.png",
+          "cap": "Cosmos Framework is an open, modular framework of model training and optimization tools and skills."
+        },
+        {
+          "t": "p",
+          "x": "New Cosmos 3 Nano variants let developers test autonomous policies in multiview multisensor simulation, and updated Cosmos 3 NIM microservices deliver up to 2x faster inference with no quality loss in validated configurations."
+        }
+      ]
+    },
+    "design/design-block-dessa-voice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and shared chats it has had with humans that can occasionally be a little awkward and uncanny."
+        },
+        {
+          "t": "p",
+          "x": "In one, shared by Dessa lead Ragavan Thurairatnam, the back and forth is mostly natural, though the model initially mistakes the speaker for somebody named \"Ronaldo.\""
+        },
+        {
+          "t": "video",
+          "src": "https://video.twimg.com/amplify_video/2113669735107727360/vid/avc1/1920x1080/EQKH_QeNN-VKLfDO.mp4?tag=29"
+        },
+        {
+          "t": "p",
+          "x": "Other examples on the Dessa website include a chat about Christopher Nolan's films and a conversation with OpenAI's GPT-Live-1 voice model, where Dessa comes across as more natural. The team calls it a \"true speech-to-speech model\" that can run locally on a MacBook Pro M4 Max \"or better.\""
+        },
+        {
+          "t": "p",
+          "x": "They cite three reasons for making it: \"curiosity (aka fun), better understanding between humans and AI, and safety.\" A small group of AI safety researchers will get early access."
+        }
+      ]
+    },
+    "design/design-siemens-agentic-3d-ic": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Siemens has announced updates to its EDA agentic AI portfolio, developed in collaboration with NVIDIA, to support electrical, power, thermal and co-design analysis for 3D integrated circuits. In benchmark studies, Siemens reported up to a 95% reduction in engineering effort, up to a 99% reduction in workflow setup time and up to 50 times greater design exploration coverage compared with manual workflows."
+        },
+        {
+          "t": "p",
+          "x": "As compute and memory are integrated more closely, power density and heat concentration increase, so electrothermal co-design must be considered during design rather than only at final verification."
+        },
+        {
+          "t": "p",
+          "x": "In the new workflow, an engineer defines the design objectives while the Fuse EDA AI Agent, integrated with Intelligence Center X, coordinates multiple Siemens tools. It runs coupled electrothermal analyses, identifies targets that were not met and evaluates whether the causes involve power delivery, placement, materials or a combination."
+        },
+        {
+          "t": "p",
+          "x": "The workflow coordinates nine steps across seven Siemens EDA tools, from Innovator3D IC Integrator to Calibre 3DThermal and Solido SPICE. It performs 50 to 100 reasoning steps during an eight- to 10-hour runtime and can evaluate 200 to more than 500 design points per cycle. NVIDIA Nemotron models, NeMo tools and CUDA-X libraries support the agent-driven workflow."
+        }
+      ]
+    },
+    "design/design-figma-agent-ds": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/9db0b3dca44f5d8d35c537adb07f9f9eb479dcd0-1632x918.png?w=1200&q=70&fit=max&auto=format",
+          "cap": "Hero illustration by Cynthia Alfonso"
+        },
+        {
+          "t": "p",
+          "x": "Your design system can help the Figma agent understand the principles and guidelines that define your product. Much of that context already lives in your components, tokens, documented rules and examples; the challenge is making sure the agent can access all of it."
+        },
+        {
+          "t": "p",
+          "x": "Start with your source of truth: connect your published library by selecting “Libraries” in the prompt box, so the agent uses approved components and tokens, or @-mention a specific component or token. Meaningful names, properties, variants and variables give it stronger signals."
+        },
+        {
+          "t": "p",
+          "x": "Guidelines—written instructions files attached to your published library under Library → Manage guidelines—encode your team’s judgment, such as always using a primary button for “Place order.” They work best when the agent creates designs from scratch."
+        },
+        {
+          "t": "p",
+          "x": "Show the system in practice: publish complete designs on an Examples page or add _example to their names, or attach a file to the prompt. Turn recurring instructions into skills, like a /design-system-audit skill that flags detached instances and hardcoded values."
+        },
+        {
+          "t": "p",
+          "x": "Double check the output; if the agent keeps making the same mistake, update your guidelines, library or examples."
+        }
+      ]
     }
   }
 }

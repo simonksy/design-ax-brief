@@ -13115,6 +13115,155 @@
           "x": "전문가들은 이제 이 무리의 Navier-Stokes 증명이 독자적인 경로를 밟았다고 본다. Buckmaster는 OpenAI가 자기 진전에 기댔다고 여전히 믿고, OpenAI는 강하게 부인한다. 이번 일은 LLMs가 사람의 이해보다 빠르게 결과를 증명해 내고 있다는 경고다."
         }
       ]
+    },
+    "science/science-epfl-logsync-brain-chip": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Mahsa Shoaran이 이끄는 EPFL Integrated Neurotechnologies Lab이 약 4 x 2 mm 크기의 저전력 이식형 신경 시스템온칩 LogSync를 만들었다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-chip-decodes-in.jpg",
+          "cap": "약 4 x 2 mm 크기의 LogSync 칩. Credit: 2026 EPFL/Lundi13 CC BY SA 4.0"
+        },
+        {
+          "t": "p",
+          "x": "이 칩은 뇌 진동의 세기와 서로 다른 뇌 영역 신호 사이의 동기화를 측정한다. 머신러닝 알고리즘이 이런 네트워크 수준 바이오마커로 인지·감정 상태를 분류하고 특정 상태를 감지하면 자극을 준다. 로그 연산 덕분에 소비 전력은 200마이크로와트를 넘지 않는다."
+        },
+        {
+          "t": "p",
+          "x": "Shoaran은 정신질환이 특정 한 영역보다 뇌 영역 간 소통의 교란에서 비롯된다고 본다. 그런데 대부분의 뇌심부자극 시스템은 개방 루프로 돌거나 한 영역에만 기댄다."
+        },
+        {
+          "t": "p",
+          "x": "알고리즘은 인지적 몰입과 정서적 각성을 다룬 기존 인체 실험 기록에서 신경 데이터만으로 이 상태를 가려냈다. University of Minnesota의 쥐 실험에서는 임플란트가 미리 정한 뇌 활동 위상에 맞춰 자극을 전달했다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-chip-decodes-in-1.jpg",
+          "cap": "LogSync 칩. Credit: 2026 EPFL/Lundi13 CC BY SA 4.0"
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 정신과 치료, 운동장애를 위한 적응형 DBS, 폐루프 비침습 자극에 쓰일 수 있다고 본다. 연구는 IEEE Journal of Solid-State Circuits에 실렸다."
+        }
+      ]
+    },
+    "science/science-perturbai-openai-reasoning-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2026/06/GettyImages-2224152938.jpg",
+          "cap": "Credit: Thom Leach/Science Photo Library/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "PerturbAI와 OpenAI, 그리고 Scripps Research, UC San Diego, HHMI의 협력 연구자들이 한 해 동안 작업한 결과를 bioRxiv 프리프린트로 내놨다. 대규모 실험 데이터셋을 해석하고 기존 연구와 이어 검증 가능한 가설을 만드는 AI 추론 프레임워크다."
+        },
+        {
+          "t": "p",
+          "x": "PerturbAI의 전뇌 아틀라스에 적용하자 수천 개의 병렬 에이전트가 세포 반응을 분석하고 문헌을 찾은 뒤 유전자와 세포 반응, 가능한 메커니즘을 잇는 추론 아틀라스로 묶었다. 에이전트들은 원 논문 없이도 그 결론을 재현했고 따로 떼어 둔 섭동 효과까지 예측했다. 작업은 32분 만에 끝났다."
+        },
+        {
+          "t": "p",
+          "x": "블라인드 평가에서 생물학자들은 60건의 판단 중 45건(75%)에서 단일 에이전트 보고서보다 분산 에이전트의 해석을 선호했다."
+        },
+        {
+          "t": "p",
+          "x": "두 회사는 PerturbAI의 인과적 in vivo 데이터로 약물 표적을 함께 찾는 쪽으로 협력을 넓힌다. OpenAI 생명과학 책임자 Joy Jiao는 \"2,000개 가까운 에이전트를 병렬로 돌린 결과는 고처리량 실험과 함께 생물학적 해석을 어떻게 확장할 수 있는지 보여준다\"고 말했다."
+        }
+      ]
+    },
+    "science/science-ai2-olmoearth-v1-3": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "지금까지 OlmoEarth를 쓰려면 OlmoEarth Studio에서 작업마다 모델을 미세 조정해야 했다. Ai2의 OlmoEarth v1.3은 사전 계산된 임베딩과 브라우저 기반 Embeddings Explorer를 더했다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792611867-olmoearth-v1-3-globe.png?fit=max&h=810&w=1550"
+        },
+        {
+          "t": "p",
+          "x": "모델은 한 해 분량의 Sentinel-1 레이더, Sentinel-2와 Landsat 시계열을 읽고 지구의 10미터 픽셀마다 128차원 벡터를 만든다. 앞쪽 64개 차원만 떼어 써도 된다."
+        },
+        {
+          "t": "p",
+          "x": "AlphaEarth Foundations, Tessera v2와 비교한 27개 평가에서 128차원 임베딩은 20개에서 최고 점수를 받았고 종합 순위도 가장 높았다. 64차원 버전은 18개에서 앞섰다. v1.3은 v1.2 연산량의 53%만 써서 OlmoEarth 가운데 학습 비용도 가장 적게 들었다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792611867-olmoearth-v1-3-la-pampa.png?fit=max&h=810&w=1550"
+        },
+        {
+          "t": "p",
+          "x": "학습 없이 연도별 벡터를 비교하기만 해도 페루 La Pampa 일대에서 불법 금 채굴이 번지고 이후 단속이 이뤄진 과정이 드러난다."
+        },
+        {
+          "t": "p",
+          "x": "아카이브는 연간 약 150 TB 규모다. 2023년부터 2025년까지는 전 지구를, 2017년부터 2022년까지는 일부 국가를 다룬다. 이번에 공개된 것은 Base 모델, 전 지구 임베딩, Explorer, 기술 보고서다."
+        }
+      ]
+    },
+    "science/science-chalmers-llm-political-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/five-out-of-six-ai-cha.jpg",
+          "cap": "Credit: The Swedish Election Authority (Valmyndigheten) | Fialotta Bratt"
+        },
+        {
+          "t": "p",
+          "x": "Chalmers University of Technology 연구진은 2026년 스웨덴 총선을 앞두고 대규모 언어 모델 여섯 개, 곧 Claude, DeepSeek, Gemini, Mistral, GPT, Grok을 107개 정치 쟁점으로 시험했다. 77개 글쓰기 과제에서 나온 텍스트는 148,000건을 조금 넘었다."
+        },
+        {
+          "t": "p",
+          "x": "연구진은 텍스트를 쟁점별로 중립, 긍정, 부정으로 분류한 뒤 정당들의 선거 운동 입장과 비교했다. 선임 강사 Bastiaan Bruinsma는 \"모델들이 특정 정당을 지지한다고 말할 수는 없다\"고 말했다. 모델들은 대체로 스펙트럼 가운데쯤에 자리했다. GPT는 주로 중립적이고 균형 잡힌 글을 썼다."
+        },
+        {
+          "t": "p",
+          "x": "xAI가 개발한 Grok은 이민, 범죄, 젠더 쟁점에서 크게 벗어났다. 제안에 찬성하거나 반대하는 논거를 쓰라고 지시하면 모델들은 대체로 따랐다."
+        },
+        {
+          "t": "p",
+          "x": "이번 연구는 대화 이력이나 투표에 미치는 영향은 시험하지 않았고, 연구팀은 이를 다음에 살펴볼 계획이다. 연구는 arXiv 프리프린트로 공개됐다."
+        }
+      ]
+    },
+    "science/science-rfd4-proteina": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2026/10/GettyImages_1402266486_proteins-1024x538-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "워싱턴대 의대 단백질설계연구소(IPD)가 Nvidia와 함께 RFD4-Proteina를 내놓았다. Nvidia의 BioNeMo 플랫폼 위에 만든 개방형 생성 모델로, 프로그래밍 가능한 단백질 설계와 탐색 기능을 하나로 합쳤다."
+        },
+        {
+          "t": "p",
+          "x": "이 모델은 단백질의 서열과 구조를, 상호작용하는 분자들의 구조와 함께 다듬는다. 단백질 결합, 소분자 결합, 효소 스캐폴딩, DNA 결합 등 네 가지 벤치마크 세트에서 이전 모델보다 설계 성공률이 5~10배 높았고 후보 생성 속도도 5~10배 빨랐다고 개발진은 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "“자연이 만든 단백질을 발견하던 시대에서 완전히 새로운 단백질을 설계할 수 있는 시대로 넘어가고 있습니다.” IPD 소장이자 노벨상 수상자 데이비드 베이커(David Baker)의 말이다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2026/10/UW-IPD-dry-lab-RFD4-PROTEINA.jpg",
+          "cap": "단백질설계연구소 RDF4 모델링 팀원들이 테스트하는 모습. [Sierra Adler / UW Medicine Institute for Protein Design]"
+        },
+        {
+          "t": "p",
+          "x": "이름은 IPD의 RosettaFold Diffusion과 Nvidia의 Proteina-Complexa에서 따왔다. 모델은 Amazon Bio Discovery, Anthropic의 Claude Science, Benchling, Databricks, Google Cloud, Hugging Face, Nebius, OpenAI, Tamarind Bio 등 파트너를 거쳐 제공되고, BSD-3 라이선스 오픈소스로도 풀렸다."
+        },
+        {
+          "t": "p",
+          "x": "“단 며칠 만에 농약을 분해하는 효소를 설계했는데, 설계에 몇 달이 걸렸던 제 이전 최고 결과보다 몇 배나 성능이 뛰어납니다.” UW 박사과정 예비 연구원 세스 우드버리(Seth Woodbury)의 말이다."
+        }
+      ]
     }
   }
 }

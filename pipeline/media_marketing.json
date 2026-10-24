@@ -1,21 +1,20 @@
 {
-  "date": "2026-10-24",
-  "section": "marketing",
-  "media": [
-    {
-      "id": "marketing-google-gmail-photos-ad-data",
-      "type": "image",
-      "src": "pipeline/media/marketing-google-gmail-photos-ad-data.jpg"
-    },
-    {
-      "id": "marketing-google-ads-sourced-videos",
-      "type": "image",
-      "src": "pipeline/media/marketing-google-ads-sourced-videos.jpg"
-    },
-    {
-      "id": "marketing-etsy-non-ai-image-rule",
-      "type": "image",
-      "src": "pipeline/media/marketing-etsy-non-ai-image-rule.jpg"
-    }
-  ]
+ "media": [
+  {
+   "id": "marketing-pennsylvania-ai-ad-labels",
+   "type": "video",
+   "src": "pipeline/media/marketing-pennsylvania-ai-ad-labels.mp4",
+   "poster": "pipeline/media/marketing-pennsylvania-ai-ad-labels.jpg"
+  },
+  {
+   "id": "marketing-iab-tech-lab-agentic-standard-comments",
+   "type": "image",
+   "src": "pipeline/media/marketing-iab-tech-lab-agentic-standard-comments.jpg"
+  },
+  {
+   "id": "marketing-google-marketing-platform-drop-gemini",
+   "type": "image",
+   "src": "pipeline/media/marketing-google-marketing-platform-drop-gemini.png"
+  }
+ ]
 }
