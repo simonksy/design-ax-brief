@@ -1,31 +1,29 @@
 {
-  "date": "2026-10-24",
-  "section": "science",
-  "media": [
-    {
-      "id": "science-rfd4-proteina",
-      "type": "image",
-      "src": "pipeline/media/science-rfd4-proteina.jpg"
-    },
-    {
-      "id": "science-whale-dive-codas",
-      "type": "image",
-      "src": "pipeline/media/science-whale-dive-codas.jpg"
-    },
-    {
-      "id": "science-hallucination-nerd",
-      "type": "svg"
-    },
-    {
-      "id": "science-forty-forest-map",
-      "type": "video",
-      "src": "pipeline/media/science-forty-forest-map.mp4",
-      "poster": "pipeline/media/science-forty-forest-map.jpg"
-    },
-    {
-      "id": "science-quantum-circuit-kaggle",
-      "type": "image",
-      "src": "pipeline/media/science-quantum-circuit-kaggle.png"
-    }
-  ]
+ "media": [
+  {
+   "id": "science-ai2-litpivot",
+   "type": "image",
+   "src": "pipeline/media/science-ai2-litpivot.png"
+  },
+  {
+   "id": "science-epfl-logsync-brain-chip",
+   "type": "image",
+   "src": "pipeline/media/science-epfl-logsync-brain-chip.jpg"
+  },
+  {
+   "id": "science-perturbai-openai-reasoning-agents",
+   "type": "image",
+   "src": "pipeline/media/science-perturbai-openai-reasoning-agents.jpg"
+  },
+  {
+   "id": "science-ai2-olmoearth-v1-3",
+   "type": "image",
+   "src": "pipeline/media/science-ai2-olmoearth-v1-3.png"
+  },
+  {
+   "id": "science-chalmers-llm-political-audit",
+   "type": "image",
+   "src": "pipeline/media/science-chalmers-llm-political-audit.jpg"
+  }
+ ]
 }

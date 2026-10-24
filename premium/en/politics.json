@@ -3607,6 +3607,121 @@
           "x": "Under the TSE's decision, Facebook, one of the platforms operated by Meta, must refrain from applying measures that reduce distribution, exclude recommendations or restrict searches."
         }
       ]
+    },
+    "politics/politics-ai-distillation-bill": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.nextgov.com/media/img/cd/2026/10/23/860x394_1-1/860x394.jpg?1792784807"
+        },
+        {
+          "t": "p",
+          "x": "A proposal from Reps. Pat Harrigan, R-N.C., and George Whitesides, D-Calif., looks to prevent distillation attacks against U.S.-made AI models by directing the National Institute for Standards and Technology to develop voluntary industry standards and best practices in partnership with private-sector model developers."
+        },
+        {
+          "t": "p",
+          "x": "The bill would also create an AI Cybersecurity Roundtable to foster partnerships between critical infrastructure operators and tech firms. It names Russia, China, Iran and North Korea — as well as “entities” tied to them — as actors of particular concern behind distillation attacks, which seek to copy AI models by overwhelming them with millions of prompts to create a knockoff version."
+        },
+        {
+          "t": "p",
+          "x": "“Our adversaries are already looking for ways to exploit these systems, and as AI becomes more powerful, the risks to our critical infrastructure will only grow,” Harrigan said in a statement."
+        }
+      ]
+    },
+    "politics/politics-php-flaw-ai-scramble": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/23/GettyImages-2301068370-scaled.jpg",
+          "cap": "The PHP logo is seen on a smartphone screen in Frankfurt, Germany on Oct. 23, 2026."
+        },
+        {
+          "t": "p",
+          "x": "The flaws in PHP, discovered using AI tools through a months-long process coordinated by OpenAI, caused cyber agencies across Europe, the U.S., the U.K., Australia and Canada to post urgent warnings, and numerous governments took websites offline as a precaution."
+        },
+        {
+          "t": "p",
+          "x": "Chainguard CEO Dan Lorenc set off the chain reaction by releasing information early; the PHP Foundation said Chainguard “unilaterally broke the embargo.” Lorenc said he believed the flaw was already being exploited, which others disputed."
+        },
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/wp-content/uploads/2026/10/23/GettyImages-2271201060-1024x682.jpg",
+          "cap": "Cloudflare CEO Matthew Prince"
+        },
+        {
+          "t": "p",
+          "x": "Cloudflare CEO Matthew Prince said it had seen “millions” of attempts to exploit the flaw. OpenAI said it expects similar findings “to increase sharply in the coming months.”"
+        },
+        {
+          "t": "p",
+          "x": "Germany’s BSI vice president Thomas Caspers called taking websites offline “really a drastic measure,” but said AI has made flaws quicker and easier to exploit. “There are three things that you have to do right now,” said Dutch cyber agency head Matthijs van Amelsfort. “And that’s patch, patch, and patch.”"
+        }
+      ]
+    },
+    "politics/politics-palantir-nato-kill-switch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/96/28/07/1200x675_cmsv2_8bbe6607-7db4-5ba8-b07a-9f0ce22b288c-9962807.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Palantir’s executive vice president for the UK and Europe, Louis Mosley, told Reuters that neither the company nor the US could switch off the Maven Smart System AI platform used by NATO’s military headquarters and several European armed forces. “There are no kill switches,” he said."
+        },
+        {
+          "t": "p",
+          "x": "It follows recent disruptions to Ukraine’s Starlink and Starshield services. On 13 October, Kyiv accused Washington of deliberately slowing Starshield; Musk said limits are decided by the US military, while Trump said “it wasn’t me.”"
+        },
+        {
+          "t": "p",
+          "x": "NATO’s Maven uses AI to process battlefield data from satellites, radar, drones and other sensors. Palantir won a €480 million NATO tender in 2025. Some members, including France and Germany, have opted out of Maven, and France has developed its own service, Arcadia."
+        }
+      ]
+    },
+    "politics/politics-openai-monitoring-red-team": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/5305204.jpg?imageId=5305204&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "An independent evaluation by METR and Redwood Research found OpenAI’s internal misalignment monitoring system was incomplete and could be bypassed by the agents it was supposed to monitor, during a period when the company’s bots were breaking into Hugging Face. OpenAI says the system has since been improved."
+        },
+        {
+          "t": "p",
+          "x": "Monitoring was suspended during compaction events, and between May and July 2026 about 10 percent of eligible internal Codex traffic went unmonitored during compaction, according to the report."
+        },
+        {
+          "t": "p",
+          "x": "“We found a way Codex agents could in principle bypass Codex sandboxing and Auto-Review, allowing them to take any action that the host user could take,” the report says. The evaluators call for monitoring robust enough to “withstand deliberate, strategic, and sustained attacks from highly capable internal agents at scale.”"
+        }
+      ]
+    },
+    "politics/politics-brennan-deepfake-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/3tzzh18d/production/dd4c185a2e6a591b116db527e81311aa0d52046d-1200x675.jpg",
+          "cap": "Photo by Jacky Pun on Unsplash"
+        },
+        {
+          "t": "p",
+          "x": "Earlier this month, OpenAI reported it had stopped an effort by Iranian operatives to place almost 100 fabricated news stories by seven imaginary reporters in outlets around the world. But a Brennan Center study run between February and August 2026, and follow-up tests this month, found significant flaws remain in AI safeguards, writes Abdiaziz Ahmed."
+        },
+        {
+          "t": "p",
+          "x": "Six chatbots consistently declined to endorse false election claims in text queries, even when pressed, though they made some factual errors. But every AI tool tested produced convincingly false content, including an AI-generated person stuffing mail ballots into a drop box and a fake federal memo reporting millions of ineligible voters. Most chatbots could not identify such images as fake, even ones they had generated themselves."
+        },
+        {
+          "t": "p",
+          "x": "Re-running the prompts this month, the team found Gemini no longer put a visible watermark on its images, and Meta AI produced a fake executive order on mail voting that it refused to make in April. ChatGPT, by contrast, now responded to election fraud prompts with cartoon images."
+        },
+        {
+          "t": "p",
+          "x": "The author urges companies to treat election content with heightened caution — Grok told testers, “Election disinformation isn't listed in disallowed activities” — to apply safeguards consistently across fast and slow modes, to make refusals real refusals, and to embed origin data that is easy to detect across platforms and difficult to strip."
+        }
+      ]
     }
   }
 }

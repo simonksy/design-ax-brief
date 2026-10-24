@@ -8328,6 +8328,124 @@
           "x": "Lionsgateが11月20日に劇場公開する「Sunrise on the Reaping」は、Suzanne Collinsのヤングアダルト小説シリーズを原作とする6作目の映画だ。"
         }
       ]
+    },
+    "movies/movies-peter-chan-no-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/Peter-Chan.jpg?w=1000&h=563&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "「Comrades: Almost a Love Story」（ラヴソング）や「The Warlords」（ウォーロード／男たちの誓い）を手がけたPeter Chan Ho-sun（ピーター・チャン）監督は、映画づくりにAIをおそらく使うだろうが「AIGC、つまりAI-generatedコンテンツは絶対に使わない」と語った。また少なくとも自分が生きているうちは、two-hourの長編映画がshort-formや縦型ドラマに対して持ちこたえるとの見方を示した。"
+        },
+        {
+          "t": "p",
+          "x": "Singapore International Film FestivalのIn Conversationイベントで、業界がすでにCGIや特殊効果を使っているように、AIを一つの技法として使うと述べた。「映画づくりに役立つものなら何でも歓迎する。だが、それらは芸術を知らない。映画は今も人がつくるものだ」とChanは語った。"
+        },
+        {
+          "t": "p",
+          "x": "「今はおそらく映画にとって最も厳しい時期だ。だが、この媒体がshort-formの娯楽に取って代わられ、消えてしまうと信じるか。答えはノーだ」。TorontoでプレミアされたThe Road Not Taken（最新作）や、「Comrades」の30周年についても語った。"
+        }
+      ]
+    },
+    "movies/movies-fc-lorem-ipsum-rap": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "F&C ai Labとして活動するFrançois Chatelainは、デザインの世界でおなじみのダミーテキストに専用のヒップホップ映像を与えた。Lorem Ipsum Rapは「Lorem Ipsum / Dolor Sit Amet」を軸にAI-generatedのアニメーションクリップを組み立て、ふだんは背景に置かれる言葉を曲の中心となるフックに変えている。"
+        },
+        {
+          "t": "img",
+          "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-03.jpg",
+          "cap": "多色のグラフィティ風パターンで埋められた大きなLorem Ipsumのレタリング"
+        },
+        {
+          "t": "p",
+          "x": "ビジュアル言語も同じく力強い。彩度の高い黄、オレンジ、ピンク、グラフィティのようなマーク、特大のレタリング、イラストで描かれたパフォーマーが並ぶ。タイポグラフィは映像の一部となり、タイトルを埋め、唇を包み、ラッパーの手の金の指輪として現れる。提供されたフレームには明示的なAIマークが入っている。"
+        },
+        {
+          "t": "img",
+          "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-05.jpg",
+          "cap": "カラフルなLorem Ipsumのタイポグラフィに覆われたイラストの唇"
+        },
+        {
+          "t": "p",
+          "x": "Chatelainはこのプロジェクトを一人で制作し、音楽、画像、アニメーションシーケンス、編集のすべてにAIを使った。制作ノートによれば、音楽にはSuno、ビジュアルスタイルとイラストにはMidjourney、アニメーションシーケンスにはSeedanceを用いた。ChatGPTはコンセプト、プロンプト、クリエイティブディレクションを支えた。"
+        },
+        {
+          "t": "img",
+          "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-04.jpg",
+          "cap": "観客の前でパフォーマンスするイラストのラッパー"
+        },
+        {
+          "t": "p",
+          "x": "その結果、グラフィックレイアウトの言語がミュージックビデオの場に持ち込まれ、ダミーテキストに声と鮮やかなビジュアルアイデンティティが与えられた。"
+        }
+      ]
+    },
+    "movies/movies-concept-art-awards-no-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "コンセプトアーティストには自分たちの賞がなかった。そこで2019年、Rachel MeinerdingとNicole Hendrix Hermanが賞を立ち上げた。Concept Art Awardsは10月24日(土)、LightBox Expoの会期中にPasadena Civic Auditoriumへ戻り、第八回を迎える。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081575-lbx2025conceptartawards-635-1280.jpg?itok=eKbM3tM8",
+          "cap": "2025 Concept Art Awards。"
+        },
+        {
+          "t": "p",
+          "x": "今年のLifetime Achievement Awards(功労賞)は、Final FantasyのデザイナーYoshitaka Amanoと、Sleeping Beautyのカラースタイリストで故人のDisney Legend、Eyvind Earleに贈られる。両者は審査員と会員から最も多くの票を集めた。"
+        },
+        {
+          "t": "p",
+          "x": "生成AIによる作品は一切認められず、その審査は「私たちの資格審査プロセスの奥深い一部」だという。審査はAward Forceプラットフォーム上でブラインド方式で行われ、審査員は現役のアーティストで、多くは前年の受賞者だ。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/1027931-forest-lawn-museum-presenting-eyvind-earle-exhibition_0.jpg?itok=VMga2DtX",
+          "cap": "Disneyの'Sleeping Beauty'(1959)のコンセプトアート。画像提供:Forest Lawn Museum。"
+        },
+        {
+          "t": "p",
+          "x": "Meinerdingは、コンセプトアーティストにとって最大の課題は雇用であり、アウトソーシングと並んで生成AIもその一因だと語った。協会は2022年から2024年にかけてアーティストや労働組合をWashington, D.C.に連れて行き、AIから個々のアーティストを守る措置を求めた。"
+        }
+      ]
+    },
+    "movies/movies-laika-wildwood": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/10/MCDWILD_EC246.jpg?w=1024",
+          "cap": "'Wildwood' (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Laikaが最新のストップモーションアニメーションを公開するなか、Travis Knightは生成AIに断固として反対している。"
+        },
+        {
+          "t": "p",
+          "x": "Wildwoodの監督でLaikaのCEOでもある彼は、GenAIは「このスタジオでの私たちのあり方すべてに相反する」と説明した。また、人々がこの技術の可能性に「価値」と同じくらい「危険」も見てほしいと強調した。"
+        },
+        {
+          "t": "p",
+          "x": "「しかし、こうしたものはすべて、アーティストの手に委ねられてこそ意味と価値を持つ」と彼はThe Vergeに語った。「技術がアーティストの仕事をするとなれば、話は別だ。私はそれに断固として反対する。そこから生まれるものには人間性がないからだ」"
+        },
+        {
+          "t": "p",
+          "x": "Knightはこう続けた。「アーティストが実際に生み出したものを取り込み、別の形で吐き出すなら、そこには魂も精神も人間性もない。それは盗みだ」"
+        },
+        {
+          "t": "p",
+          "x": "彼は「AIは並外れた技術」であり、医学や科学で大きな恩恵をもたらしうると認める一方、「それが壊滅的になりうる世界」も見ているという。「後者を恐れ、前者を望んでいる。だがそのためには、人々がこの技術の良き管理者でなければならない」と説明した。"
+        },
+        {
+          "t": "p",
+          "x": "Knightの発言は、AIによる著作物の盗用や、Hollywoodをはじめとする各所の雇用への脅威をめぐる懸念が続くなかで出たものだ。"
+        }
+      ]
     }
   }
 }

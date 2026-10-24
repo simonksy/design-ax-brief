@@ -7367,6 +7367,143 @@
           "x": "新书加入KDP Select后，将自动提供虚拟语音有声书，作者也可以为此前已出版的作品选择AI旁白。对于偏好真人旁白的作者，通过Audible的Audiobook Creation Exchange（ACX）平台制作的有声书现在也可在Kindle Plus上收听，但先从US订阅用户开始。Amazon计划逐步扩展到其他市场。"
         }
       ]
+    },
+    "books/books-zlibrary-paper-fake-citation": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "尼日利亚高校的两名图书馆员本月在期刊New Review of Academic Librarianship上发表了一篇关于Z-Library的论文，其中引用了一篇并不存在的2021年TorrentFreak文章。"
+        },
+        {
+          "t": "img",
+          "src": "https://torrentfreak.com/images/zlib-paper-claim.png",
+          "cap": "相关说法"
+        },
+        {
+          "t": "p",
+          "x": "该参考文献题为\"Publishers continue crackdown on shadow libraries\"，链接指向TorrentFreak首页，但从未发表过这一标题的文章。在论文的44条参考文献中，TorrentFreak至少有十条难以找到。"
+        },
+        {
+          "t": "img",
+          "src": "https://torrentfreak.com/images/citations-600x314.png",
+          "cap": "部分参考文献"
+        },
+        {
+          "t": "p",
+          "x": "致谢部分称，作者使用Consensus AI筛选文献，使用ChatGPT润色语言。AI聊天机器人会编造参考文献，这一点众所周知，但这并不能证明参考文献出自AI。Pangram判定摘要和结论\"100%的文本很可能是AI-generated\"。"
+        },
+        {
+          "t": "p",
+          "x": "Taylor & Francis表示，此事已提交其Editorial and Publishing Ethics & Integrity团队处理。"
+        }
+      ]
+    },
+    "books/books-publishers-trust-not-ai-detectors": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fVY8R.img",
+          "cap": "Toronto的North York Central Library书架上摆满图书。THE CANADIAN PRESS/Chris Young"
+        },
+        {
+          "t": "p",
+          "x": "由于缺乏能确切判断内容是否由AI撰写的技术，一些加拿大出版商表示只能依靠信任。"
+        },
+        {
+          "t": "p",
+          "x": "Coach House Books编辑总监Alana Wilcox表示，公司要求作者如实说明AI-generated内容，而现有检测工具已被证明不可靠且问题重重。"
+        },
+        {
+          "t": "p",
+          "x": "此前，Montreal的Les Éditions du Boréal称元数据显示作家Thélyson Orélien的小说使用了AI，并与其解约；Orélien否认用AI写作。"
+        },
+        {
+          "t": "p",
+          "x": "ECW Press联合出版人David Caron表示，其合同在保证条款中涉及AI。Association of Canadian Publishers主席Lisa Quinn表示，检测工具建立在\"truthiness rather than truth\"（似真而非真实）之上，政策必须建立在信任关系之上。"
+        }
+      ]
+    },
+    "books/books-coral-hart-370-ai-books": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.timesnownews.com/thumb/msid-156391703,thumbsize-1276522,width-1280,height-720,resizemode-75/156391703.jpg"
+        },
+        {
+          "t": "p",
+          "x": "南非言情小说作家Coral Hart称，自2025年2月以来，她已借助AI出版了370多本书。Hart是笔名，她告诉AFP，自己收到了数万条仇恨信息和多次死亡威胁。"
+        },
+        {
+          "t": "p",
+          "x": "她先确定概念、风格、人物和章节大纲，再用不同的AI工具处理对话、结构和爱情场景，接着进行AI-assisted编辑，最后由人工校对员审读文本。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.timesnownews.com/thumb/msid-156391707,width-1280,height-720,resizemode-75/156391707.jpg",
+          "cap": "借助AI写书"
+        },
+        {
+          "t": "p",
+          "x": "据她本人估计，2026年迄今她已售出逾百万册，收入超过$1 million；这些数字均为自报。批评者称之为\"AI slop\"；Hart则表示，故事是否值得花钱，可以由读者自己决定。"
+        }
+      ]
+    },
+    "books/books-frankfurt-trusted-knowledge": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-2191733603.jpg",
+          "cap": "Messe Frankfurt"
+        },
+        {
+          "t": "p",
+          "x": "KnowledgeWorks Global的VP of Product Management Hong Zhou离开Frankfurt Book Fair 2026时，带走的问题更多关乎我们如何使用AI，而非AI能做什么。他反复追问：我们如何把可信内容变成有用的知识，并帮助人们据此行动？"
+        },
+        {
+          "t": "p",
+          "x": "随着AI把出版物拆解成更小的片段，一项论断只有在其证据、局限和语境仍附着其上时才有用。出版商应重新思考，哪些元数据对下游复用和可重复性是必需的。"
+        },
+        {
+          "t": "p",
+          "x": "AI发现需要的不只是技术连接，还需要一套许可与价值模型。连接器能用，并不保证内容会被选用：问题不只是“AI能否触达我们的内容？”，而是“它何时、为何会选择使用这些内容？”零点击未必意味着零价值。"
+        },
+        {
+          "t": "p",
+          "x": "信任是被提及最多的词之一。Kudos的调查发现，约三分之一的受访者通过AI工具或带有AI答案的搜索引擎开始搜索，40%的人误以为搜索引擎的AI概览由人工创作或筛选。"
+        },
+        {
+          "t": "p",
+          "x": "谈到智能体，他主张先从具体问题入手，在提高自主性之前界定成功、失败和例外情况；清点已部署的智能体数量说明不了什么。在他看来，Frankfurt的核心信息在于知识周围的连接：论断与证据之间、使用与许可之间、自动化行动与对其负责的人之间。"
+        }
+      ]
+    },
+    "books/books-australia-ai-copyright": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "澳大利亚政府宣布，计划提出立法修改版权法，允许AI公司在未获授权的情况下使用作家作品构建模型。这将适用于世界各地的作家，包括美国作家。"
+        },
+        {
+          "t": "p",
+          "x": "该立法将使AI公司在澳大利亚境内利用你的作品成为合法行为。AI公司只需把训练业务迁往澳大利亚，同时继续在美国（U.S.）部署模型，这实际上会架空作家们对AI公司提起的诉讼，以及我们争取保护的游说努力。"
+        },
+        {
+          "t": "p",
+          "x": "澳大利亚政府计划允许版权所有者选择退出（opt-out），但opt-outs难以落实，往往碾压除极少数老练版权所有者之外所有人的权利——只有这些人知道需要退出以及如何退出。opt-out机制无法替代版权的opt-in授权，后者让创作者能够控制谁可以出于何种目的使用其作品。"
+        },
+        {
+          "t": "p",
+          "x": "Authors Guild已与全球创意产业的组织一道，发起一份谴责这项拟议立法的公开声明。声明全文如下："
+        },
+        {
+          "t": "p",
+          "x": "澳大利亚政府不得将在其境内窃取全球创作者作品的行为合法化。在澳大利亚，我们的作品只有在获得我们明确许可的情况下，才能用于训练AI模型。"
+        },
+        {
+          "t": "p",
+          "x": "这份声明将连同签署者名单在网上发布。现在提交下方表格即可签署。"
+        }
+      ]
     }
   }
 }

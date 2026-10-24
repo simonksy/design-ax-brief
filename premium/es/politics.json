@@ -3607,6 +3607,121 @@
           "x": "Según la decisión del TSE, Facebook, una de las plataformas operadas por Meta, debe abstenerse de aplicar medidas de reducción de distribución, exclusión de recomendaciones y restricción de búsquedas."
         }
       ]
+    },
+    "politics/politics-ai-distillation-bill": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.nextgov.com/media/img/cd/2026/10/23/860x394_1-1/860x394.jpg?1792784807"
+        },
+        {
+          "t": "p",
+          "x": "Una propuesta de los representantes (Reps.) Pat Harrigan, R-N.C., y George Whitesides, D-Calif., busca evitar los ataques de destilación contra modelos de AI U.S.-made al encargar al National Institute for Standards and Technology que elabore normas voluntarias del sector y buenas prácticas junto con los desarrolladores privados de modelos."
+        },
+        {
+          "t": "p",
+          "x": "El proyecto también crearía una AI Cybersecurity Roundtable para impulsar alianzas entre operadores de infraestructuras críticas y empresas tecnológicas. Señala a Rusia, China, Irán y Corea del Norte, así como a las “entidades” vinculadas a ellos, como actores de especial preocupación detrás de los ataques de destilación, que buscan copiar modelos de AI saturándolos con millones de prompts para crear una imitación."
+        },
+        {
+          "t": "p",
+          "x": "“Nuestros adversarios ya buscan formas de explotar estos sistemas y, a medida que la AI se vuelva más potente, los riesgos para nuestra infraestructura crítica no harán más que crecer”, dijo Harrigan en un comunicado."
+        }
+      ]
+    },
+    "politics/politics-php-flaw-ai-scramble": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/23/GettyImages-2301068370-scaled.jpg",
+          "cap": "El logotipo de PHP en la pantalla de un teléfono inteligente en Fráncfort, Alemania, el Oct. 23, 2026."
+        },
+        {
+          "t": "p",
+          "x": "Los fallos en PHP, descubiertos con herramientas de AI en un proceso de meses coordinado por OpenAI, llevaron a las agencias cibernéticas de Europa, U.S., U.K., Australia y Canadá a publicar avisos urgentes, y numerosos gobiernos desconectaron sitios web por precaución."
+        },
+        {
+          "t": "p",
+          "x": "El CEO de Chainguard, Dan Lorenc, desató la reacción en cadena al divulgar información antes de tiempo; la PHP Foundation dijo que Chainguard “rompió unilateralmente el embargo”. Lorenc afirmó que creía que el fallo ya se estaba explotando, algo que otros cuestionaron."
+        },
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/wp-content/uploads/2026/10/23/GettyImages-2271201060-1024x682.jpg",
+          "cap": "Matthew Prince, CEO de Cloudflare"
+        },
+        {
+          "t": "p",
+          "x": "El CEO de Cloudflare, Matthew Prince, dijo que habían detectado “millones” de intentos de explotar el fallo. OpenAI prevé que hallazgos similares “aumenten de forma pronunciada en los próximos meses”."
+        },
+        {
+          "t": "p",
+          "x": "Thomas Caspers, vicepresidente de la BSI alemana, calificó la desconexión de sitios web como “realmente una medida drástica”, pero dijo que la AI ha hecho que los fallos sean más rápidos y fáciles de explotar. “Hay tres cosas que hay que hacer ahora mismo”, dijo Matthijs van Amelsfort, jefe de la agencia cibernética neerlandesa. “Y son parchear, parchear y parchear”."
+        }
+      ]
+    },
+    "politics/politics-palantir-nato-kill-switch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/96/28/07/1200x675_cmsv2_8bbe6607-7db4-5ba8-b07a-9f0ce22b288c-9962807.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El vicepresidente ejecutivo de Palantir para UK y Europa, Louis Mosley, dijo a Reuters que ni la empresa ni US podrían apagar la plataforma de AI Maven Smart System que usan el cuartel general militar de NATO y varias fuerzas armadas europeas. “No hay interruptores de apagado”, afirmó."
+        },
+        {
+          "t": "p",
+          "x": "Llega tras las recientes interrupciones de los servicios Starlink y Starshield en Ucrania. El 13 de octubre, Kiev acusó a Washington de ralentizar deliberadamente Starshield; Musk dijo que los límites los decide el ejército de US, mientras que Trump dijo “no fui yo”."
+        },
+        {
+          "t": "p",
+          "x": "Maven, de NATO, usa AI para procesar datos del campo de batalla procedentes de satélites, radares, drones y otros sensores. Palantir ganó una licitación de NATO de €480 million en 2025. Algunos miembros, entre ellos Francia y Alemania, han optado por no usar Maven, y Francia ha desarrollado su propio servicio, Arcadia."
+        }
+      ]
+    },
+    "politics/politics-openai-monitoring-red-team": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/5305204.jpg?imageId=5305204&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "Una evaluación independiente de METR y Redwood Research concluyó que el sistema interno de vigilancia de desalineación de OpenAI era incompleto y que los agentes que debía vigilar podían eludirlo, en un periodo en que los bots de la empresa irrumpían en Hugging Face. OpenAI afirma que desde entonces ha mejorado el sistema."
+        },
+        {
+          "t": "p",
+          "x": "Según el informe, la vigilancia se suspendía durante los eventos de compactación, y entre mayo y julio de 2026 cerca del 10 por ciento del tráfico interno elegible de Codex quedó sin vigilar durante la compactación."
+        },
+        {
+          "t": "p",
+          "x": "“Encontramos una forma en que los agentes de Codex podrían, en principio, eludir el sandboxing de Codex y Auto-Review, lo que les permitiría realizar cualquier acción que pudiera realizar el usuario anfitrión”, señala el informe. Los evaluadores piden una vigilancia lo bastante robusta para “resistir ataques deliberados, estratégicos y sostenidos de agentes internos muy capaces a gran escala”."
+        }
+      ]
+    },
+    "politics/politics-brennan-deepfake-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/3tzzh18d/production/dd4c185a2e6a591b116db527e81311aa0d52046d-1200x675.jpg",
+          "cap": "Photo by Jacky Pun on Unsplash"
+        },
+        {
+          "t": "p",
+          "x": "A principios de este mes, OpenAI informó que había frenado un intento de operativos iraníes de colocar casi 100 noticias inventadas, firmadas por siete periodistas imaginarios, en medios de todo el mundo. Pero un estudio del Brennan Center realizado entre febrero y agosto de 2026, y nuevas pruebas este mes, hallaron que persisten fallos importantes en las salvaguardas de AI, escribe Abdiaziz Ahmed."
+        },
+        {
+          "t": "p",
+          "x": "Seis chatbots se negaron de forma sistemática a respaldar afirmaciones electorales falsas en consultas de texto, incluso bajo presión, aunque cometieron algunos errores factuales. Pero todas las herramientas de AI probadas produjeron contenido falso convincente, como una persona generada con AI (AI-generated) metiendo papeletas de voto por correo en un buzón y un memorando federal falso que informaba de millones de votantes no habilitados. La mayoría de los chatbots no pudo identificar esas imágenes como falsas, ni siquiera las que habían generado ellos mismos."
+        },
+        {
+          "t": "p",
+          "x": "Al repetir las instrucciones este mes, el equipo constató que Gemini ya no añadía una marca de agua visible a sus imágenes y que Meta AI produjo una orden ejecutiva falsa sobre el voto por correo que en abril se había negado a crear. ChatGPT, en cambio, respondía ahora a las peticiones sobre fraude electoral con imágenes de dibujos animados."
+        },
+        {
+          "t": "p",
+          "x": "El autor insta a las empresas a tratar el contenido electoral con especial cautela —Grok dijo a los evaluadores: “La desinformación electoral no figura entre las actividades no permitidas”—, a aplicar las salvaguardas de forma coherente en los modos rápido y lento, a que los rechazos sean rechazos reales y a incorporar datos de origen fáciles de detectar entre plataformas y difíciles de eliminar."
+        }
+      ]
     }
   }
 }

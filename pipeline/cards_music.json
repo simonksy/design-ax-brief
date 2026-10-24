@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "section": "music",
   "cards": [
     {
-      "id": "music-loopcloud8",
+      "id": "music-elvis-anthropic",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Loopcloud 8에 첫\niOS 앱과 아이디어 도구",
-      "body": "Loopcloud 8은 idea-generation·FLIP·iOS 앱을 더했다.",
-      "mini_headline": "Loopcloud 8, 아이디어 도구 추가",
+      "headline": "엘비스 측, 274곡으로\nAnthropic 고소",
+      "body": "프레슬리 측은 Anthropic이 274곡을 무단으로 AI 학습에 썼다고 주장한다.",
+      "mini_headline": "엘비스 측, Anthropic 고소",
       "tool": "Music",
-      "source": "MusicTech",
-      "url": "https://musictech.com/news/gear/loopmasters-loopcloud-8/",
+      "source": "Rolling Stone",
+      "url": "https://www.rollingstone.com/music/music-news/elvis-presley-rightsholders-anthropic-lawsuit-infringement-1235647682/",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
@@ -19,445 +19,295 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-8-1@2000x1500-1068x801.jpg",
-            "cap": "출처: Loopmasters"
+            "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/GettyImages-151373495.jpg?w=1600&h=900&crop=1"
           },
           {
             "t": "p",
-            "x": "Loopmasters가 샘플 구독·프로덕션 플랫폼 Loopcloud 8을 내놨다. 지금까지 나온 버전 가운데 기능이 가장 많다. 새 기능의 중심은 “아이디어 생성과 하모닉 매칭을 위한 지능형 도구”로 소개된 Inspire와 Listen이다. 여기에 Advanced search 기능과 Loopcloud의 첫 iOS 앱이 붙었다."
-          },
-          {
-            "t": "video",
-            "yt": "27wPm15K9oc"
+            "x": "엘비스 프레슬리 음악의 권리자들이 AI 기업 Anthropic을 고소했다. Anthropic이 허락 없이 프레슬리의 음악으로 모델을 학습시켰다는 주장이다. Billboard가 처음 보도한 내용을 보면 '킹'의 음악과 초상권을 관리하는 라이선스 그룹 Authentic Brands Group이 금요일 소송을 냈다. Claude를 만든 Anthropic이 프레슬리 노래 274곡의 권리를 침해했다는 내용이다."
           },
           {
             "t": "p",
-            "x": "장르를 고르면 Inspire가 샘플·코드·드럼으로 편곡을 짜 준다. 이걸 아이디어의 출발점으로 쓰면 된다. Listen은 플랫폼의 하모닉 매칭 알고리즘인 Loopcloud Intelligence로 이미 가진 소재와 어울리는 샘플을 추천한다. Advanced Search는 태그뿐 아니라 “warm analogue bassline”이나 “vinyl-crackle boom bap drums” 같은 묘사도 받는 프롬프트 방식 인터페이스다."
-          },
-          {
-            "t": "img",
-            "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-2@2000x1500.jpg",
-            "cap": "출처: Loopmasters"
+            "x": "AI 기업들은 이미 음반사와 RIAA에 소송을 당한 적이 있다. 다만 아티스트 유산 관리 측이 AI 기업에 법적 대응을 한 주요 사례로는 이번이 사실상 처음이다."
           },
           {
             "t": "p",
-            "x": "PLAY에는 Gator, Looper, Utility, Chorus, Bitcrush 등 새 이펙트 다섯 가지가 들어갔다. iOS 앱으로는 Inspire와 카탈로그 탐색·미리 듣기를 스마트폰에서 쓸 수 있고, 저장한 사운드는 Loopcloud 계정과 동기화된다. Flip 프리셋 라이브러리는 두 배인 2,000개로 늘었다. MIDI 라이브러리 파일은 125,000개가 넘는다."
-          },
-          {
-            "t": "img",
-            "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-3@2000x1500.jpg",
-            "cap": "출처: Loopmasters"
+            "x": "ABE EPE LLC v. Anthropic 소장에 따르면 Anthropic은 \"All Shook Up\", \"Can't Help Falling in Love\", \"Don't Be Cruel\" 같은 히트곡부터 덜 알려진 곡까지 274곡으로 학습했다. 원고는 침해된 곡당 $150,000, 합계 약 $41 million을 청구한다."
           },
           {
             "t": "p",
-            "x": "구독자는 400시간이 넘는 튜토리얼과 연간 12개의 무료 플러그인도 받는다. Loopmasters CEO Matt Pelling은 “Loopcloud 8은 프로듀서가 아이디어를 더 빨리 완성하도록 돕기 위해 만들었다”고 말했다. 요금은 월 £7.95 / $10.95 / €9.95이고, 14일 무료 체험이 있다."
+            "x": "소장에 따르면 Anthropic이 안전장치를 더한 뒤에도 Claude는 요청을 받으면 특정 곡을 \"현대 청중을 위해(for a modern audience)\" 재현했다. Marvin Gaye 유산 측의 \"Blurred Lines\" 소송을 맡았던 수석 변호사 Richard Busch는 Anthropic이 이 노래들로 \"허가받지 않은 파생 저작물(unlicensed derivative works)\"을 만들고 있다고 주장한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Loopcloud 8 adds idea tools\nand its first iOS app",
-          "body": "Loopcloud 8 adds intelligent idea-generation tools, new effects, FLIP presets and an iOS app for ideas on the go.",
-          "mini_headline": "Loopcloud 8 adds idea tools",
+          "headline": "Elvis rightsholders sue\nAnthropic over 274 songs",
+          "body": "Presley's rightsholders accuse Anthropic of training its AI models on 274 of his songs without permission.",
+          "mini_headline": "Elvis owners sue Anthropic",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-8-1@2000x1500-1068x801.jpg",
-                "cap": "Credit: Loopmasters"
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/GettyImages-151373495.jpg?w=1600&h=900&crop=1"
               },
               {
                 "t": "p",
-                "x": "Loopmasters has launched Loopcloud 8, the latest and most feature-packed version of its sample subscription and production platform. Heading up the new features are Inspire and Listen – described as “intelligent tools for idea generation and harmonic matching” – plus Advanced search functionality, and Loopcloud’s first iOS app."
-              },
-              {
-                "t": "video",
-                "yt": "27wPm15K9oc"
+                "x": "The owners of Elvis Presley's music have sued AI company Anthropic, accusing it of training its models on Presley's music without permission. Billboard first reported that Authentic Brands Group, the licensing group that controls the King's music and likeness, filed the lawsuit Friday, alleging that Anthropic, the company behind Claude, infringed on the rights of 274 Presley songs."
               },
               {
                 "t": "p",
-                "x": "Pick a genre, and Inspire builds an arrangement of samples, chords and drums which can be used as a starting point for an idea. Listen uses Loopcloud Intelligence – the platform’s harmonic-matching algorithm – to recommend samples that work with the material you already have. Advanced Search uses a prompt-style interface for descriptions like “warm analogue bassline” or “vinyl-crackle boom bap drums”, as opposed to just tags."
-              },
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-2@2000x1500.jpg",
-                "cap": "Credit: Loopmasters"
+                "x": "AI companies have previously faced suits from record labels and the RIAA, but this is one of the first major cases in which an artist's estate has taken legal action against an AI company."
               },
               {
                 "t": "p",
-                "x": "PLAY gains five new effects: Gator, a Looper, Utility, Chorus and Bitcrush. The iOS app brings Inspire, catalogue browsing and previewing to your smartphone, with saved sounds syncing to your Loopcloud account. Flip has doubled its preset library to 2,000, and the MIDI library now has more than 125,000 files."
-              },
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-3@2000x1500.jpg",
-                "cap": "Credit: Loopmasters"
+                "x": "The ABE EPE LLC v. Anthropic complaint says the company trained on 274 songs, from hits like \"All Shook Up,\" \"Can't Help Falling in Love\" and \"Don't Be Cruel\" to lesser-known tracks, and seeks $150,000 per infringed track, or roughly $41 million."
               },
               {
                 "t": "p",
-                "x": "Subscribers also get over 400 hours of tutorials and 12 free plugins a year. “Loopcloud 8 is built to help producers finish ideas faster,” says Loopmasters CEO Matt Pelling. It is available now at £7.95 / $10.95 / €9.95 per month, with a 14-day free trial."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Loopcloud 8에 첫\niOS 앱과 아이디어 도구",
-          "body": "Loopcloud 8은 idea-generation·FLIP·iOS 앱을 더했다.",
-          "mini_headline": "Loopcloud 8, 아이디어 도구 추가",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-8-1@2000x1500-1068x801.jpg",
-                "cap": "출처: Loopmasters"
-              },
-              {
-                "t": "p",
-                "x": "Loopmasters가 샘플 구독·프로덕션 플랫폼 Loopcloud 8을 내놨다. 지금까지 나온 버전 가운데 기능이 가장 많다. 새 기능의 중심은 “아이디어 생성과 하모닉 매칭을 위한 지능형 도구”로 소개된 Inspire와 Listen이다. 여기에 Advanced search 기능과 Loopcloud의 첫 iOS 앱이 붙었다."
-              },
-              {
-                "t": "video",
-                "yt": "27wPm15K9oc"
-              },
-              {
-                "t": "p",
-                "x": "장르를 고르면 Inspire가 샘플·코드·드럼으로 편곡을 짜 준다. 이걸 아이디어의 출발점으로 쓰면 된다. Listen은 플랫폼의 하모닉 매칭 알고리즘인 Loopcloud Intelligence로 이미 가진 소재와 어울리는 샘플을 추천한다. Advanced Search는 태그뿐 아니라 “warm analogue bassline”이나 “vinyl-crackle boom bap drums” 같은 묘사도 받는 프롬프트 방식 인터페이스다."
-              },
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-2@2000x1500.jpg",
-                "cap": "출처: Loopmasters"
-              },
-              {
-                "t": "p",
-                "x": "PLAY에는 Gator, Looper, Utility, Chorus, Bitcrush 등 새 이펙트 다섯 가지가 들어갔다. iOS 앱으로는 Inspire와 카탈로그 탐색·미리 듣기를 스마트폰에서 쓸 수 있고, 저장한 사운드는 Loopcloud 계정과 동기화된다. Flip 프리셋 라이브러리는 두 배인 2,000개로 늘었다. MIDI 라이브러리 파일은 125,000개가 넘는다."
-              },
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-3@2000x1500.jpg",
-                "cap": "출처: Loopmasters"
-              },
-              {
-                "t": "p",
-                "x": "구독자는 400시간이 넘는 튜토리얼과 연간 12개의 무료 플러그인도 받는다. Loopmasters CEO Matt Pelling은 “Loopcloud 8은 프로듀서가 아이디어를 더 빨리 완성하도록 돕기 위해 만들었다”고 말했다. 요금은 월 £7.95 / $10.95 / €9.95이고, 14일 무료 체험이 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Loopcloud 8に\n発想ツールと初のiOSアプリ",
-          "body": "Loopcloud 8はidea-generation機能、FLIP、iOSアプリを加えた。",
-          "mini_headline": "Loopcloud 8に発想ツール",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-8-1@2000x1500-1068x801.jpg",
-                "cap": "クレジット: Loopmasters"
-              },
-              {
-                "t": "p",
-                "x": "LoopmastersがLoopcloud 8をリリースした。サンプルのサブスクリプション兼制作プラットフォームの最新版で、機能も過去最多だ。新機能の柱は「アイデア生成とハーモニック・マッチングのためのインテリジェントなツール」とされるInspireとListenで、さらにAdvanced search機能とLoopcloud初のiOSアプリが加わった。"
-              },
-              {
-                "t": "video",
-                "yt": "27wPm15K9oc"
-              },
-              {
-                "t": "p",
-                "x": "ジャンルを選ぶと、Inspireがサンプル、コード、ドラムによるアレンジを組み立て、アイデアの出発点として使える。ListenはプラットフォームのハーモニックマッチングアルゴリズムであるLoopcloud Intelligenceを使い、手元の素材に合うサンプルを提案する。Advanced Searchはタグだけでなく、“warm analogue bassline”や“vinyl-crackle boom bap drums”といった記述を受け付けるプロンプト形式のインターフェースを採用した。"
-              },
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-2@2000x1500.jpg",
-                "cap": "クレジット: Loopmasters"
-              },
-              {
-                "t": "p",
-                "x": "PLAYにはGator、Looper、Utility、Chorus、Bitcrushの5つの新エフェクトが加わった。iOSアプリではInspire、カタログの閲覧と試聴をスマートフォンで使え、保存したサウンドはLoopcloudアカウントと同期される。Flipのプリセットライブラリは2倍の2,000に増え、MIDIライブラリは125,000ファイルを超えた。"
-              },
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-3@2000x1500.jpg",
-                "cap": "クレジット: Loopmasters"
-              },
-              {
-                "t": "p",
-                "x": "購読者は400時間を超えるチュートリアルと年12本の無料プラグインも利用できる。Loopmasters CEOのMatt Pellingは「Loopcloud 8はプロデューサーがアイデアをより速く仕上げられるように作った」と語る。料金は月額£7.95 / $10.95 / €9.95で、14日間の無料トライアルがある。"
+                "x": "The suit claims that even after Anthropic added guardrails, Claude recreated specific songs \"for a modern audience\" when asked. Lead attorney Richard Busch, who worked on the Marvin Gaye estate's \"Blurred Lines\" case, argues Anthropic is using the songs to create \"unlicensed derivative works.\""
               }
             ]
           }
         },
         "zh": {
-          "headline": "Loopcloud 8推出\n创意工具与首款iOS应用",
-          "body": "Loopcloud 8新增idea-generation工具、FLIP预设与iOS应用。",
-          "mini_headline": "Loopcloud 8新增创意工具",
+          "headline": "Elvis版权方就274首歌\n起诉Anthropic",
+          "body": "Presley版权方指控Anthropic未经许可用其274首歌曲训练AI模型。",
+          "mini_headline": "Elvis版权方起诉Anthropic",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-8-1@2000x1500-1068x801.jpg",
-                "cap": "图片来源：Loopmasters"
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/GettyImages-151373495.jpg?w=1600&h=900&crop=1"
               },
               {
                 "t": "p",
-                "x": "Loopmasters发布了Loopcloud 8，这是其采样订阅与制作平台的最新版本，也是功能最丰富的一版。新功能以Inspire和Listen为首，官方称之为“用于创意生成与和声匹配的智能工具”，此外还有Advanced search功能，以及Loopcloud首款iOS应用。"
-              },
-              {
-                "t": "video",
-                "yt": "27wPm15K9oc"
+                "x": "Elvis Presley音乐的权利方已起诉AI公司Anthropic，指控其未经许可使用Presley的音乐训练模型。据Billboard率先报道，掌管这位“King”音乐与肖像权的授权集团Authentic Brands Group于周五提起诉讼，称Claude背后的公司Anthropic侵犯了274首Presley歌曲的权利。"
               },
               {
                 "t": "p",
-                "x": "选择一种曲风，Inspire就会用采样、和弦和鼓搭建一段编排，可作为创意的起点。Listen借助平台的和声匹配算法Loopcloud Intelligence，推荐与你现有素材相配的采样。Advanced Search采用提示词式界面，不只依赖标签，可输入“warm analogue bassline”或“vinyl-crackle boom bap drums”这类描述。"
-              },
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-2@2000x1500.jpg",
-                "cap": "图片来源：Loopmasters"
+                "x": "此前AI公司曾遭唱片公司和RIAA起诉，但这是艺人遗产方对AI公司采取法律行动的首批重大案件之一。"
               },
               {
                 "t": "p",
-                "x": "PLAY新增五款效果器：Gator、Looper、Utility、Chorus和Bitcrush。iOS应用把Inspire、音色库浏览与试听带到手机上，保存的声音会同步到Loopcloud账户。Flip的预设库翻倍至2,000个，MIDI库现已超过125,000个文件。"
-              },
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-3@2000x1500.jpg",
-                "cap": "图片来源：Loopmasters"
+                "x": "ABE EPE LLC v. Anthropic诉状称，该公司用274首歌曲进行训练，既有“All Shook Up”“Can't Help Falling in Love”“Don't Be Cruel”等热门歌曲，也有较冷门的曲目；原告按每首被侵权歌曲索赔$150,000，合计约 $41 million 的赔偿。"
               },
               {
                 "t": "p",
-                "x": "订阅用户还可获得400多小时的教程，以及每年12款免费插件。Loopmasters CEO Matt Pelling表示：“Loopcloud 8旨在帮助制作人更快完成创意。”现已上线，月费为£7.95 / $10.95 / €9.95，并提供14天免费试用。"
+                "x": "诉状称，即便Anthropic加装了防护措施，Claude在被要求时仍会“for a modern audience”（面向现代听众）重现特定歌曲。曾代理Marvin Gaye遗产方“Blurred Lines”案的首席律师Richard Busch认为，Anthropic正在利用这些歌曲制作“unlicensed derivative works”（未经授权的衍生作品）。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Loopcloud 8 suma herramientas\nde ideas y su primera app iOS",
-          "body": "Loopcloud 8 suma herramientas inteligentes de idea-generation, nuevos efectos, presets FLIP y una app para iOS.",
-          "mini_headline": "Loopcloud 8 suma herramientas de ideas",
+          "headline": "Los dueños de Elvis demandan\na Anthropic por 274 canciones",
+          "body": "Los titulares de derechos de Presley acusan a Anthropic de entrenar sus modelos de AI con 274 canciones sin permiso.",
+          "mini_headline": "Los dueños de Elvis demandan a Anthropic",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-8-1@2000x1500-1068x801.jpg",
-                "cap": "Crédito: Loopmasters"
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/GettyImages-151373495.jpg?w=1600&h=900&crop=1"
               },
               {
                 "t": "p",
-                "x": "Loopmasters ha lanzado Loopcloud 8, la versión más reciente y más completa de su plataforma de suscripción a samples y de producción. Encabezan las novedades Inspire y Listen, descritas como “herramientas inteligentes para la generación de ideas y la coincidencia armónica”, además de una función Advanced search y la primera app de Loopcloud para iOS."
-              },
-              {
-                "t": "video",
-                "yt": "27wPm15K9oc"
+                "x": "Los propietarios de la música de Elvis Presley demandaron a la empresa de AI Anthropic y la acusan de entrenar sus modelos con la música de Presley sin permiso. Billboard informó primero que Authentic Brands Group, el grupo de licencias que controla la música y la imagen del King, presentó la demanda el viernes, alegando que Anthropic, la empresa detrás de Claude, infringió los derechos de 274 canciones de Presley."
               },
               {
                 "t": "p",
-                "x": "Al elegir un género, Inspire construye un arreglo de samples, acordes y batería que puede servir como punto de partida para una idea. Listen usa Loopcloud Intelligence, el algoritmo de coincidencia armónica de la plataforma, para recomendar samples que encajen con el material que ya se tiene. Advanced Search emplea una interfaz tipo prompt que admite descripciones como “warm analogue bassline” o “vinyl-crackle boom bap drums”, en lugar de solo etiquetas."
+                "x": "Las empresas de AI ya habían enfrentado demandas de sellos discográficos y de la RIAA, pero este es uno de los primeros grandes casos en que el patrimonio de un artista emprende acciones legales contra una empresa de AI."
               },
+              {
+                "t": "p",
+                "x": "La demanda ABE EPE LLC v. Anthropic afirma que la empresa entrenó con 274 canciones, desde éxitos como “All Shook Up”, “Can't Help Falling in Love” y “Don't Be Cruel” hasta temas menos conocidos, y reclama $150,000 por cada pista infringida, o aproximadamente $41 million."
+              },
+              {
+                "t": "p",
+                "x": "Según la demanda, incluso después de que Anthropic añadiera salvaguardas, Claude recreaba canciones concretas “for a modern audience” (para un público moderno) cuando se le pedía. El abogado principal, Richard Busch, que trabajó en el caso “Blurred Lines” del patrimonio de Marvin Gaye, sostiene que Anthropic usa las canciones para crear “unlicensed derivative works” (obras derivadas sin licencia)."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "엘비스 측, 274곡으로\nAnthropic 고소",
+          "body": "프레슬리 측은 Anthropic이 274곡을 무단으로 AI 학습에 썼다고 주장한다.",
+          "mini_headline": "엘비스 측, Anthropic 고소",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-2@2000x1500.jpg",
-                "cap": "Crédito: Loopmasters"
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/GettyImages-151373495.jpg?w=1600&h=900&crop=1"
               },
               {
                 "t": "p",
-                "x": "PLAY suma cinco efectos nuevos: Gator, un Looper, Utility, Chorus y Bitcrush. La app para iOS lleva Inspire, la exploración del catálogo y la previsualización al teléfono, y los sonidos guardados se sincronizan con la cuenta de Loopcloud. Flip ha duplicado su biblioteca de presets hasta 2,000, y la biblioteca MIDI supera ya los 125,000 archivos."
+                "x": "엘비스 프레슬리 음악의 권리자들이 AI 기업 Anthropic을 고소했다. Anthropic이 허락 없이 프레슬리의 음악으로 모델을 학습시켰다는 주장이다. Billboard가 처음 보도한 내용을 보면 '킹'의 음악과 초상권을 관리하는 라이선스 그룹 Authentic Brands Group이 금요일 소송을 냈다. Claude를 만든 Anthropic이 프레슬리 노래 274곡의 권리를 침해했다는 내용이다."
               },
+              {
+                "t": "p",
+                "x": "AI 기업들은 이미 음반사와 RIAA에 소송을 당한 적이 있다. 다만 아티스트 유산 관리 측이 AI 기업에 법적 대응을 한 주요 사례로는 이번이 사실상 처음이다."
+              },
+              {
+                "t": "p",
+                "x": "ABE EPE LLC v. Anthropic 소장에 따르면 Anthropic은 \"All Shook Up\", \"Can't Help Falling in Love\", \"Don't Be Cruel\" 같은 히트곡부터 덜 알려진 곡까지 274곡으로 학습했다. 원고는 침해된 곡당 $150,000, 합계 약 $41 million을 청구한다."
+              },
+              {
+                "t": "p",
+                "x": "소장에 따르면 Anthropic이 안전장치를 더한 뒤에도 Claude는 요청을 받으면 특정 곡을 \"현대 청중을 위해(for a modern audience)\" 재현했다. Marvin Gaye 유산 측의 \"Blurred Lines\" 소송을 맡았던 수석 변호사 Richard Busch는 Anthropic이 이 노래들로 \"허가받지 않은 파생 저작물(unlicensed derivative works)\"을 만들고 있다고 주장한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "エルヴィス側、274曲で\nAnthropicを提訴",
+          "body": "プレスリー側は、Anthropicが274曲を無断でAIモデルの学習に使ったと訴えている。",
+          "mini_headline": "エルヴィス側、Anthropicを提訴",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-3@2000x1500.jpg",
-                "cap": "Crédito: Loopmasters"
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/GettyImages-151373495.jpg?w=1600&h=900&crop=1"
               },
               {
                 "t": "p",
-                "x": "Los suscriptores también reciben más de 400 horas de tutoriales y 12 plugins gratuitos al año. “Loopcloud 8 está hecho para ayudar a los productores a terminar sus ideas más rápido”, dice Matt Pelling, CEO de Loopmasters. Ya está disponible por £7.95 / $10.95 / €9.95 al mes, con una prueba gratuita de 14 días."
+                "x": "エルヴィス・プレスリーの楽曲の権利者が、AI企業Anthropicを提訴した。Anthropicが許可なくプレスリーの音楽でモデルを学習させたという主張だ。Billboardが最初に報じたところでは、「キング」の音楽と肖像を管理するライセンス企業Authentic Brands Groupが金曜日に訴訟を起こした。Claudeを手がけるAnthropicが、プレスリーの楽曲274曲の権利を侵害したとしている。"
+              },
+              {
+                "t": "p",
+                "x": "AI企業はこれまでもレコード会社やRIAAから訴えられてきた。だが、アーティストの遺産管理側がAI企業に法的措置をとった主要な事例としては、今回が最初期の例に数えられる。"
+              },
+              {
+                "t": "p",
+                "x": "ABE EPE LLC v. Anthropicの訴状によると、同社は「All Shook Up」「Can't Help Falling in Love」「Don't Be Cruel」といったヒット曲から、あまり知られていない曲まで274曲で学習した。原告は侵害された曲ごとに$150,000、総額で約$41 millionを求めている。"
+              },
+              {
+                "t": "p",
+                "x": "訴状は、Anthropicがガードレールを追加した後も、Claudeが求めに応じて特定の曲を「現代の聴衆向けに(for a modern audience)」再現したと主張する。Marvin Gayeの遺産管理側による「Blurred Lines」訴訟に携わった主任弁護士Richard Buschは、Anthropicがこれらの曲を使って「無許可の派生的著作物(unlicensed derivative works)」を作っていると論じている。"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Loopcloud 8에 첫\niOS 앱과 아이디어 도구",
-          "body": "Loopcloud 8은 idea-generation·FLIP·iOS 앱을 더했다.",
-          "mini_headline": "Loopcloud 8, 아이디어 도구 추가",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-8-1@2000x1500-1068x801.jpg",
-                "cap": "출처: Loopmasters"
-              },
-              {
-                "t": "p",
-                "x": "Loopmasters가 샘플 구독·프로덕션 플랫폼의 최신판이자 기능이 가장 풍부한 버전인 Loopcloud 8을 출시했다. 새 기능의 중심에는 “아이디어 생성과 하모닉 매칭을 위한 지능형 도구”로 소개된 Inspire와 Listen이 있고, Advanced search 기능과 Loopcloud의 첫 iOS 앱이 더해졌다."
-              },
-              {
-                "t": "video",
-                "yt": "27wPm15K9oc"
-              },
-              {
-                "t": "p",
-                "x": "장르를 고르면 Inspire가 샘플·코드·드럼으로 편곡을 짜 주고, 이를 아이디어의 출발점으로 쓸 수 있다. Listen은 플랫폼의 하모닉 매칭 알고리즘인 Loopcloud Intelligence로 이미 가진 소재와 어울리는 샘플을 추천한다. Advanced Search는 태그만이 아니라 “warm analogue bassline”이나 “vinyl-crackle boom bap drums” 같은 묘사를 입력하는 프롬프트 방식 인터페이스를 쓴다."
-              },
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-2@2000x1500.jpg",
-                "cap": "출처: Loopmasters"
-              },
-              {
-                "t": "p",
-                "x": "PLAY에는 Gator, Looper, Utility, Chorus, Bitcrush 등 새 이펙트 다섯 가지가 추가됐다. iOS 앱은 Inspire와 카탈로그 탐색·미리 듣기를 스마트폰으로 옮겨 오며, 저장한 사운드는 Loopcloud 계정과 동기화된다. Flip의 프리셋 라이브러리는 두 배인 2,000개로 늘었고, MIDI 라이브러리는 125,000개가 넘는 파일을 갖췄다."
-              },
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-3@2000x1500.jpg",
-                "cap": "출처: Loopmasters"
-              },
-              {
-                "t": "p",
-                "x": "구독자는 400시간이 넘는 튜토리얼과 연간 12개의 무료 플러그인도 받는다. Loopmasters CEO Matt Pelling은 “Loopcloud 8은 프로듀서가 아이디어를 더 빨리 완성하도록 돕기 위해 만들었다”고 말했다. 지금 월 £7.95 / $10.95 / €9.95에 이용할 수 있으며, 14일 무료 체험을 제공한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Loopcloud 8に\n発想ツールと初のiOSアプリ",
-          "body": "Loopcloud 8はidea-generation機能、FLIP、iOSアプリを加えた。",
-          "mini_headline": "Loopcloud 8に発想ツール",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-8-1@2000x1500-1068x801.jpg",
-                "cap": "クレジット: Loopmasters"
-              },
-              {
-                "t": "p",
-                "x": "LoopmastersがLoopcloud 8をリリースした。サンプルのサブスクリプション兼制作プラットフォームの最新版で、機能も過去最多だ。新機能の柱は「アイデア生成とハーモニック・マッチングのためのインテリジェントなツール」とされるInspireとListenで、さらにAdvanced search機能とLoopcloud初のiOSアプリが加わった。"
-              },
-              {
-                "t": "video",
-                "yt": "27wPm15K9oc"
-              },
-              {
-                "t": "p",
-                "x": "ジャンルを選ぶと、Inspireがサンプル、コード、ドラムによるアレンジを組み立て、アイデアの出発点として使える。ListenはプラットフォームのハーモニックマッチングアルゴリズムであるLoopcloud Intelligenceを使い、手元の素材に合うサンプルを提案する。Advanced Searchはタグだけでなく、“warm analogue bassline”や“vinyl-crackle boom bap drums”といった記述を受け付けるプロンプト形式のインターフェースを採用した。"
-              },
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-2@2000x1500.jpg",
-                "cap": "クレジット: Loopmasters"
-              },
-              {
-                "t": "p",
-                "x": "PLAYにはGator、Looper、Utility、Chorus、Bitcrushの5つの新エフェクトが加わった。iOSアプリではInspire、カタログの閲覧と試聴をスマートフォンで使え、保存したサウンドはLoopcloudアカウントと同期される。Flipのプリセットライブラリは2倍の2,000に増え、MIDIライブラリは125,000ファイルを超えた。"
-              },
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-3@2000x1500.jpg",
-                "cap": "クレジット: Loopmasters"
-              },
-              {
-                "t": "p",
-                "x": "購読者は400時間を超えるチュートリアルと年12本の無料プラグインも利用できる。Loopmasters CEOのMatt Pellingは「Loopcloud 8はプロデューサーがアイデアをより速く仕上げられるように作った」と語る。料金は月額£7.95 / $10.95 / €9.95で、14日間の無料トライアルがある。"
-              }
-            ]
-          }
-        },
         "zh": {
-          "headline": "Loopcloud 8推出\n创意工具与首款iOS应用",
-          "body": "Loopcloud 8新增idea-generation工具、FLIP预设与iOS应用。",
-          "mini_headline": "Loopcloud 8新增创意工具",
+          "headline": "Elvis版权方就274首歌\n起诉Anthropic",
+          "body": "Presley版权方指控Anthropic未经许可用其274首歌曲训练AI模型。",
+          "mini_headline": "Elvis版权方起诉Anthropic",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-8-1@2000x1500-1068x801.jpg",
-                "cap": "图片来源：Loopmasters"
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/GettyImages-151373495.jpg?w=1600&h=900&crop=1"
               },
               {
                 "t": "p",
-                "x": "Loopmasters发布了Loopcloud 8，这是其采样订阅与制作平台的最新版本，也是功能最丰富的一版。新功能以Inspire和Listen为首，官方称之为“用于创意生成与和声匹配的智能工具”，此外还有Advanced search功能，以及Loopcloud首款iOS应用。"
-              },
-              {
-                "t": "video",
-                "yt": "27wPm15K9oc"
+                "x": "Elvis Presley音乐的权利方已起诉AI公司Anthropic，指控其未经许可使用Presley的音乐训练模型。据Billboard率先报道，掌管这位“King”音乐与肖像权的授权集团Authentic Brands Group于周五提起诉讼，称Claude背后的公司Anthropic侵犯了274首Presley歌曲的权利。"
               },
               {
                 "t": "p",
-                "x": "选择一种曲风，Inspire就会用采样、和弦和鼓搭建一段编排，可作为创意的起点。Listen借助平台的和声匹配算法Loopcloud Intelligence，推荐与你现有素材相配的采样。Advanced Search采用提示词式界面，不只依赖标签，可输入“warm analogue bassline”或“vinyl-crackle boom bap drums”这类描述。"
-              },
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-2@2000x1500.jpg",
-                "cap": "图片来源：Loopmasters"
+                "x": "此前AI公司曾遭唱片公司和RIAA起诉，但这是艺人遗产方对AI公司采取法律行动的首批重大案件之一。"
               },
               {
                 "t": "p",
-                "x": "PLAY新增五款效果器：Gator、Looper、Utility、Chorus和Bitcrush。iOS应用把Inspire、音色库浏览与试听带到手机上，保存的声音会同步到Loopcloud账户。Flip的预设库翻倍至2,000个，MIDI库现已超过125,000个文件。"
-              },
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-3@2000x1500.jpg",
-                "cap": "图片来源：Loopmasters"
+                "x": "ABE EPE LLC v. Anthropic诉状称，该公司用274首歌曲进行训练，既有“All Shook Up”“Can't Help Falling in Love”“Don't Be Cruel”等热门歌曲，也有较冷门的曲目；原告按每首被侵权歌曲索赔$150,000，合计约 $41 million 的赔偿。"
               },
               {
                 "t": "p",
-                "x": "订阅用户还可获得400多小时的教程，以及每年12款免费插件。Loopmasters CEO Matt Pelling表示：“Loopcloud 8旨在帮助制作人更快完成创意。”现已上线，月费为£7.95 / $10.95 / €9.95，并提供14天免费试用。"
+                "x": "诉状称，即便Anthropic加装了防护措施，Claude在被要求时仍会“for a modern audience”（面向现代听众）重现特定歌曲。曾代理Marvin Gaye遗产方“Blurred Lines”案的首席律师Richard Busch认为，Anthropic正在利用这些歌曲制作“unlicensed derivative works”（未经授权的衍生作品）。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Loopcloud 8 suma herramientas\nde ideas y su primera app iOS",
-          "body": "Loopcloud 8 suma herramientas inteligentes de idea-generation, nuevos efectos, presets FLIP y una app para iOS.",
-          "mini_headline": "Loopcloud 8 suma herramientas de ideas",
+          "headline": "Los dueños de Elvis demandan\na Anthropic por 274 canciones",
+          "body": "Los titulares de derechos de Presley acusan a Anthropic de entrenar sus modelos de AI con 274 canciones sin permiso.",
+          "mini_headline": "Los dueños de Elvis demandan a Anthropic",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-8-1@2000x1500-1068x801.jpg",
-                "cap": "Crédito: Loopmasters"
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/GettyImages-151373495.jpg?w=1600&h=900&crop=1"
               },
               {
                 "t": "p",
-                "x": "Loopmasters ha lanzado Loopcloud 8, la versión más reciente y más completa de su plataforma de suscripción a samples y de producción. Encabezan las novedades Inspire y Listen, descritas como “herramientas inteligentes para la generación de ideas y la coincidencia armónica”, además de una función Advanced search y la primera app de Loopcloud para iOS."
-              },
-              {
-                "t": "video",
-                "yt": "27wPm15K9oc"
+                "x": "Los propietarios de la música de Elvis Presley demandaron a la empresa de AI Anthropic y la acusan de entrenar sus modelos con la música de Presley sin permiso. Billboard informó primero que Authentic Brands Group, el grupo de licencias que controla la música y la imagen del King, presentó la demanda el viernes, alegando que Anthropic, la empresa detrás de Claude, infringió los derechos de 274 canciones de Presley."
               },
               {
                 "t": "p",
-                "x": "Al elegir un género, Inspire construye un arreglo de samples, acordes y batería que puede servir como punto de partida para una idea. Listen usa Loopcloud Intelligence, el algoritmo de coincidencia armónica de la plataforma, para recomendar samples que encajen con el material que ya se tiene. Advanced Search emplea una interfaz tipo prompt que admite descripciones como “warm analogue bassline” o “vinyl-crackle boom bap drums”, en lugar de solo etiquetas."
+                "x": "Las empresas de AI ya habían enfrentado demandas de sellos discográficos y de la RIAA, pero este es uno de los primeros grandes casos en que el patrimonio de un artista emprende acciones legales contra una empresa de AI."
               },
+              {
+                "t": "p",
+                "x": "La demanda ABE EPE LLC v. Anthropic afirma que la empresa entrenó con 274 canciones, desde éxitos como “All Shook Up”, “Can't Help Falling in Love” y “Don't Be Cruel” hasta temas menos conocidos, y reclama $150,000 por cada pista infringida, o aproximadamente $41 million."
+              },
+              {
+                "t": "p",
+                "x": "Según la demanda, incluso después de que Anthropic añadiera salvaguardas, Claude recreaba canciones concretas “for a modern audience” (para un público moderno) cuando se le pedía. El abogado principal, Richard Busch, que trabajó en el caso “Blurred Lines” del patrimonio de Marvin Gaye, sostiene que Anthropic usa las canciones para crear “unlicensed derivative works” (obras derivadas sin licencia)."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "엘비스 측, 274곡으로\nAnthropic 고소",
+          "body": "프레슬리 측은 Anthropic이 274곡을 무단으로 AI 학습에 썼다고 주장한다.",
+          "mini_headline": "엘비스 측, Anthropic 고소",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-2@2000x1500.jpg",
-                "cap": "Crédito: Loopmasters"
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/GettyImages-151373495.jpg?w=1600&h=900&crop=1"
               },
               {
                 "t": "p",
-                "x": "PLAY suma cinco efectos nuevos: Gator, un Looper, Utility, Chorus y Bitcrush. La app para iOS lleva Inspire, la exploración del catálogo y la previsualización al teléfono, y los sonidos guardados se sincronizan con la cuenta de Loopcloud. Flip ha duplicado su biblioteca de presets hasta 2,000, y la biblioteca MIDI supera ya los 125,000 archivos."
+                "x": "엘비스 프레슬리 음악의 권리자들이 AI 기업 Anthropic을 고소했다. Anthropic이 허락 없이 프레슬리의 음악으로 모델을 학습시켰다는 주장이다. Billboard가 처음 보도한 바에 따르면, '킹'의 음악과 초상권을 관리하는 라이선스 그룹 Authentic Brands Group이 금요일 소송을 냈다. Claude를 만든 Anthropic이 프레슬리 노래 274곡의 권리를 침해했다는 내용이다."
               },
+              {
+                "t": "p",
+                "x": "AI 기업들은 앞서 음반사와 RIAA로부터 소송을 당한 적이 있다. 그러나 아티스트의 유산 관리 측이 AI 기업을 상대로 법적 대응에 나선 주요 사례로는 이번이 사실상 첫 사례에 속한다."
+              },
+              {
+                "t": "p",
+                "x": "ABE EPE LLC v. Anthropic 소장에 따르면 Anthropic은 \"All Shook Up\", \"Can't Help Falling in Love\", \"Don't Be Cruel\" 같은 히트곡부터 덜 알려진 곡까지 274곡으로 학습했다. 원고는 침해된 곡마다 $150,000, 모두 약 $41 million을 청구한다."
+              },
+              {
+                "t": "p",
+                "x": "소장은 Anthropic이 안전장치를 더한 뒤에도 Claude가 요청을 받으면 특정 곡을 \"현대 청중을 위해(for a modern audience)\" 재현했다고 주장한다. Marvin Gaye 유산 측의 \"Blurred Lines\" 소송을 맡았던 수석 변호사 Richard Busch는 Anthropic이 이 노래들로 \"허가받지 않은 파생 저작물(unlicensed derivative works)\"을 만들고 있다고 주장한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "エルヴィス側、274曲で\nAnthropicを提訴",
+          "body": "プレスリー側は、Anthropicが274曲を無断でAIモデルの学習に使ったと訴えている。",
+          "mini_headline": "エルヴィス側、Anthropicを提訴",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-3@2000x1500.jpg",
-                "cap": "Crédito: Loopmasters"
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/GettyImages-151373495.jpg?w=1600&h=900&crop=1"
               },
               {
                 "t": "p",
-                "x": "Los suscriptores también reciben más de 400 horas de tutoriales y 12 plugins gratuitos al año. “Loopcloud 8 está hecho para ayudar a los productores a terminar sus ideas más rápido”, dice Matt Pelling, CEO de Loopmasters. Ya está disponible por £7.95 / $10.95 / €9.95 al mes, con una prueba gratuita de 14 días."
+                "x": "エルヴィス・プレスリーの楽曲の権利者が、AI企業Anthropicを提訴した。Anthropicが許可なくプレスリーの音楽でモデルを学習させたという主張だ。Billboardが最初に報じたところでは、「キング」の音楽と肖像を管理するライセンス企業Authentic Brands Groupが金曜日に訴訟を起こした。Claudeを手がけるAnthropicが、プレスリーの楽曲274曲の権利を侵害したとしている。"
+              },
+              {
+                "t": "p",
+                "x": "AI企業はこれまでもレコード会社やRIAAから訴えられてきた。だが、アーティストの遺産管理側がAI企業に法的措置をとった主要な事例としては、今回が最初期の例に数えられる。"
+              },
+              {
+                "t": "p",
+                "x": "ABE EPE LLC v. Anthropicの訴状によると、同社は「All Shook Up」「Can't Help Falling in Love」「Don't Be Cruel」といったヒット曲から、あまり知られていない曲まで274曲で学習した。原告は侵害された曲ごとに$150,000、総額で約$41 millionを求めている。"
+              },
+              {
+                "t": "p",
+                "x": "訴状は、Anthropicがガードレールを追加した後も、Claudeが求めに応じて特定の曲を「現代の聴衆向けに(for a modern audience)」再現したと主張する。Marvin Gayeの遺産管理側による「Blurred Lines」訴訟に携わった主任弁護士Richard Buschは、Anthropicがこれらの曲を使って「無許可の派生的著作物(unlicensed derivative works)」を作っていると論じている。"
               }
             ]
           }
@@ -465,123 +315,165 @@
       }
     },
     {
-      "id": "music-suno-answer",
+      "id": "music-suno-deathpixie-camp",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Suno, AI 학습 음원\n일부 남겨둔 사실 인정",
-      "body": "Suno는 10월 20일 44쪽 답변서에서 AI 학습 음원 일부 보유를 인정했다.",
-      "mini_headline": "Suno, 학습 음원 일부 보관",
+      "headline": "Suno가 함께한\nDeath Pixie 캠프",
+      "body": "Los Angeles 작곡 캠프 팀이 Suno로 Death Pixie 곡을 만든다.",
+      "mini_headline": "Death Pixie를 위한 작곡",
       "tool": "Music",
-      "source": "Music Business Worldwide",
-      "url": "https://www.musicbusinessworldwide.com/suno-admits-it-has-not-deleted-all-the-recordings-used-to-train-its-ai-in-answer-to-umg-and-sonys-laundering-lawsuit/",
+      "source": "Suno (YouTube)",
+      "url": "https://www.youtube.com/watch?v=Mw95nxzYP4E",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
-            "cap": "사진: FotoField / Shutterstock.com"
+            "t": "video",
+            "yt": "Mw95nxzYP4E"
           },
           {
             "t": "p",
-            "x": "Suno는 10월 20일 매사추세츠주 US 연방지방법원에 제출한 44쪽 분량의 답변서에서 AI 모델 학습에 쓴 녹음을 모두 삭제하지는 않았다고 인정했다. UMG와 Sony가 Suno를 상대로 낸 소송의 ‘세탁(laundering)’ 주장에 답한 문서다."
+            "x": "Suno가 In The Cut 새 에피소드에서 Los Angeles의 Glenwood Studios를 찾아 Death Pixie 작곡 캠프를 들여다본다. 음악계의 Pixar를 만든다는 구상에서 출발해 총괄 프로듀서이자 송라이터 Jay Stolar가 프로듀서와 송라이터, 성우, 애니메이터를 모았다. 이들은 애니메이션 아티스트 Death Pixie와 그 어두운 세계 New Tokyo를 함께 빚어 간다."
+          },
+          {
+            "t": "p",
+            "x": "아티스트이자 송라이터 8ae, 송라이터이자 성우 Bailey Flores, Grammy-winning(그래미 수상) 프로듀서 Gino The Ghost, DJ이자 프로듀서 Flosstradamus가 고에너지 레이지 랩에 뛰어든다. 대화하듯 흐르는 클럽 훅을 쓰고 Suno Persona 기능에 보컬을 넣어 Death Pixie 특유의 음색을 굳힌다. Flosstradamus는 플랫폼 안에서 깨끗한 스템을 추출해 원래 드럼을 걷어내고 프로덕션을 처음부터 다시 쌓는 과정을 설명한다."
+          },
+          {
+            "t": "p",
+            "x": "팀은 버튼만 누르고 끝내지 않는다. 가사와 멜로디, 코드 진행을 모두 손으로 다듬은 뒤에야 기술을 써서 아이디어를 트랙으로 바꾼다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Suno admits it kept some\nof its AI training recordings",
-          "body": "In a 44-page answer filed October 20, Suno admits it has not deleted all the recordings it used to train its AI.",
-          "mini_headline": "Suno kept some training audio",
+          "headline": "Suno joins a writing camp\nfor animated artist Death Pixie",
+          "body": "At Glenwood Studios in Los Angeles, a writing-camp team builds tracks for the animated artist Death Pixie with Suno.",
+          "mini_headline": "Writing for Death Pixie",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
-                "cap": "Photo credit: FotoField / Shutterstock.com"
+                "t": "video",
+                "yt": "Mw95nxzYP4E"
               },
               {
                 "t": "p",
-                "x": "In a 44-page answer filed October 20 in the US District Court for Massachusetts, Suno admits it has not deleted all of the recordings it used to train its AI models. The filing responds to the ‘laundering’ claims brought by UMG and Sony in their lawsuit against the company."
+                "x": "Suno heads to Glenwood Studios in Los Angeles to step inside the Death Pixie writing camp for a new episode of In The Cut. Inspired by the idea of building a Pixar for music, executive producer and songwriter Jay Stolar brings together producers, songwriters, voice actors and animators to bring the animated artist Death Pixie and her dark world of New Tokyo to life."
+              },
+              {
+                "t": "p",
+                "x": "Artist and songwriter 8ae, songwriter and voice actor Bailey Flores, Grammy-winning producer Gino The Ghost, and DJ and producer Flosstradamus dive into high-energy rage rap, write conversational club hooks, and run vocals through the Suno Persona feature to lock in Death Pixie's signature tone. Flosstradamus breaks down how extracting clean stems inside the platform lets him strip out the original drums and rebuild the production from the ground up."
+              },
+              {
+                "t": "p",
+                "x": "Rather than simply pushing a button, the team crafts every lyric, melody and chord progression by hand before using the technology to turn their ideas into tracks."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Suno, AI 학습 음원\n일부 남겨둔 사실 인정",
-          "body": "Suno는 10월 20일 44쪽 답변서에서 AI 학습 음원 일부 보유를 인정했다.",
-          "mini_headline": "Suno, 학습 음원 일부 보관",
+          "headline": "Suno가 함께한\nDeath Pixie 캠프",
+          "body": "Los Angeles 작곡 캠프 팀이 Suno로 Death Pixie 곡을 만든다.",
+          "mini_headline": "Death Pixie를 위한 작곡",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
-                "cap": "사진: FotoField / Shutterstock.com"
+                "t": "video",
+                "yt": "Mw95nxzYP4E"
               },
               {
                 "t": "p",
-                "x": "Suno는 10월 20일 매사추세츠주 US 연방지방법원에 제출한 44쪽 분량의 답변서에서 AI 모델 학습에 쓴 녹음을 모두 삭제하지는 않았다고 인정했다. UMG와 Sony가 Suno를 상대로 낸 소송의 ‘세탁(laundering)’ 주장에 답한 문서다."
+                "x": "Suno가 In The Cut 새 에피소드에서 Los Angeles의 Glenwood Studios를 찾아 Death Pixie 작곡 캠프를 들여다본다. 음악계의 Pixar를 만든다는 구상에서 출발해 총괄 프로듀서이자 송라이터 Jay Stolar가 프로듀서와 송라이터, 성우, 애니메이터를 모았다. 이들은 애니메이션 아티스트 Death Pixie와 그 어두운 세계 New Tokyo를 함께 빚어 간다."
+              },
+              {
+                "t": "p",
+                "x": "아티스트이자 송라이터 8ae, 송라이터이자 성우 Bailey Flores, Grammy-winning(그래미 수상) 프로듀서 Gino The Ghost, DJ이자 프로듀서 Flosstradamus가 고에너지 레이지 랩에 뛰어든다. 대화하듯 흐르는 클럽 훅을 쓰고 Suno Persona 기능에 보컬을 넣어 Death Pixie 특유의 음색을 굳힌다. Flosstradamus는 플랫폼 안에서 깨끗한 스템을 추출해 원래 드럼을 걷어내고 프로덕션을 처음부터 다시 쌓는 과정을 설명한다."
+              },
+              {
+                "t": "p",
+                "x": "팀은 버튼만 누르고 끝내지 않는다. 가사와 멜로디, 코드 진행을 모두 손으로 다듬은 뒤에야 기술을 써서 아이디어를 트랙으로 바꾼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Suno、AI学習用の\n録音の一部保持を認める",
-          "body": "Sunoは10月20日付の44ページの答弁書で、AI学習用録音の一部保持を認めた。",
-          "mini_headline": "Suno、学習用音源を一部保持",
+          "headline": "Sunoが加わる\nDeath Pixieの合宿",
+          "body": "Los Angelesの作曲キャンプがSunoでDeath Pixieの曲を作る。",
+          "mini_headline": "Death Pixieのための曲作り",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
-                "cap": "写真: FotoField / Shutterstock.com"
+                "t": "video",
+                "yt": "Mw95nxzYP4E"
               },
               {
                 "t": "p",
-                "x": "Sunoは10月20日、マサチューセッツ州のUS連邦地方裁判所に提出した44ページの答弁書で、AIモデルの学習に使った録音をすべては削除していないと認めた。この書面は、UMGとSonyが同社を相手取った訴訟で主張する「ロンダリング(laundering)」への反論である。"
+                "x": "SunoはIn The Cutの新エピソードで、Los AngelesのGlenwood Studiosを訪れ、Death Pixieのライティングキャンプに入り込む。音楽版のPixarをつくるという発想に触発され、エグゼクティブ・プロデューサーでソングライターのJay Stolarが、プロデューサー、ソングライター、声優、アニメーターを集め、アニメのアーティストDeath Pixieと彼女のダークな世界New Tokyoに命を吹き込む。"
+              },
+              {
+                "t": "p",
+                "x": "アーティスト兼ソングライターの8ae、ソングライター兼声優のBailey Flores、Grammy-winning（グラミー受賞）プロデューサーのGino The Ghost、DJ兼プロデューサーのFlosstradamusは、ハイエナジーなレイジ・ラップに取り組み、会話調のクラブ向けフックを書き、Suno Persona機能にボーカルを通してDeath Pixie特有の声色を固める。Flosstradamusは、プラットフォーム内でクリーンなステムを抽出することで元のドラムを取り除き、プロダクションを一から組み直せる仕組みを解説する。"
+              },
+              {
+                "t": "p",
+                "x": "チームはボタンを押すだけで済ませるのではなく、歌詞、メロディ、コード進行をすべて手作業で練り上げ、そのうえでテクノロジーを使ってアイデアをトラックに仕上げる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Suno承认保留了\n部分AI训练录音",
-          "body": "Suno在10月20日提交的44页答辩状中承认，未删除全部AI训练录音。",
-          "mini_headline": "Suno保留部分训练音频",
+          "headline": "Suno加入动画艺人\nDeath Pixie创作营",
+          "body": "Los Angeles的创作营团队用Suno为动画艺人Death Pixie写歌。",
+          "mini_headline": "为Death Pixie写歌",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
-                "cap": "图片来源：FotoField / Shutterstock.com"
+                "t": "video",
+                "yt": "Mw95nxzYP4E"
               },
               {
                 "t": "p",
-                "x": "Suno于10月20日向US马萨诸塞州联邦地区法院提交了一份44页的答辩状，承认并未删除用于训练其AI模型的全部录音。该文件回应了UMG和Sony在起诉该公司时提出的“洗白（laundering）”指控。"
+                "x": "Suno在新一期In The Cut中走进Los Angeles的Glenwood Studios，探访Death Pixie创作营。受打造音乐界Pixar这一构想启发，执行制作人兼词曲作者Jay Stolar召集制作人、词曲作者、配音演员和动画师，让动画艺人Death Pixie及其黑暗世界New Tokyo鲜活起来。"
+              },
+              {
+                "t": "p",
+                "x": "艺人兼词曲作者8ae、词曲作者兼配音演员Bailey Flores、Grammy-winning（格莱美获奖）制作人Gino The Ghost以及DJ兼制作人Flosstradamus投入高能量的愤怒说唱创作，写出对话式的俱乐部副歌，并用Suno Persona功能处理人声，锁定Death Pixie的标志性音色。Flosstradamus讲解了如何在平台内提取干净的分轨，从而去掉原有鼓组，从头重建编曲制作。"
+              },
+              {
+                "t": "p",
+                "x": "团队并非按下按钮了事，而是先亲手打磨每一句歌词、每段旋律和每组和弦进行，再借助技术把想法变成曲目。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Suno admite que guardó parte\ndel audio con que entrenó su AI",
-          "body": "En un escrito de 44 páginas del 20 de octubre, Suno admite que no borró todo el audio con que entrenó su AI.",
-          "mini_headline": "Suno guardó parte del audio de entrenamiento",
+          "headline": "Suno se suma a un campamento\nde composición para Death Pixie",
+          "body": "En Glenwood Studios (Los Angeles), un equipo de composición crea con Suno temas para la artista animada Death Pixie.",
+          "mini_headline": "Componer para Death Pixie",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
-                "cap": "Foto: FotoField / Shutterstock.com"
+                "t": "video",
+                "yt": "Mw95nxzYP4E"
               },
               {
                 "t": "p",
-                "x": "En una respuesta de 44 páginas presentada el 20 de octubre ante el Tribunal de Distrito de US para Massachusetts, Suno admite que no ha eliminado todas las grabaciones que usó para entrenar sus modelos de AI. El escrito responde a las acusaciones de ‘blanqueo’ (laundering) que UMG y Sony plantean en su demanda contra la empresa."
+                "x": "Suno visita Glenwood Studios, en Los Angeles, para entrar en el campamento de composición de Death Pixie en un nuevo episodio de In The Cut. Inspirado por la idea de construir un Pixar de la música, el productor ejecutivo y compositor Jay Stolar reúne a productores, compositores, actores de voz y animadores para dar vida a la artista animada Death Pixie y a su oscuro mundo de New Tokyo."
+              },
+              {
+                "t": "p",
+                "x": "8ae, artista y compositor; Bailey Flores, compositor y actor de voz; Gino The Ghost, productor ganador del Grammy (Grammy-winning), y el DJ y productor Flosstradamus se adentran en un rage rap de alta energía, escriben ganchos de club en tono conversacional y pasan las voces por la función Suno Persona para fijar el tono característico de Death Pixie. Flosstradamus explica cómo extraer stems limpios dentro de la plataforma le permite quitar la batería original y reconstruir la producción desde cero."
+              },
+              {
+                "t": "p",
+                "x": "En lugar de limitarse a pulsar un botón, el equipo elabora a mano cada letra, melodía y progresión de acordes antes de usar la tecnología para convertir sus ideas en temas."
               }
             ]
           }
@@ -589,77 +481,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Suno, AI 학습 음원\n일부 남겨둔 사실 인정",
-          "body": "Suno는 10월 20일 44쪽 답변서에서 AI 학습 음원 일부 보유를 인정했다.",
-          "mini_headline": "Suno, 학습 음원 일부 보관",
+          "headline": "Suno가 함께한\nDeath Pixie 캠프",
+          "body": "Los Angeles 작곡 캠프 팀이 Suno로 Death Pixie 곡을 만든다.",
+          "mini_headline": "Death Pixie를 위한 작곡",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
-                "cap": "사진: FotoField / Shutterstock.com"
+                "t": "video",
+                "yt": "Mw95nxzYP4E"
               },
               {
                 "t": "p",
-                "x": "Suno는 10월 20일 매사추세츠주 US 연방지방법원에 제출한 44쪽 분량의 답변서에서 AI 모델 학습에 쓴 녹음을 모두 삭제하지는 않았다고 인정했다. 이 답변서는 UMG와 Sony가 회사를 상대로 낸 소송에서 제기한 ‘세탁(laundering)’ 주장에 대한 대응이다."
+                "x": "Suno가 In The Cut 새 에피소드에서 Los Angeles의 Glenwood Studios를 찾아 Death Pixie 작곡 캠프 안으로 들어간다. 음악계의 Pixar를 만든다는 구상에서 출발해, 총괄 프로듀서이자 송라이터 Jay Stolar가 프로듀서와 송라이터, 성우, 애니메이터를 모았다. 이들은 애니메이션 아티스트 Death Pixie와 그 어두운 세계 New Tokyo에 생명을 불어넣는다."
+              },
+              {
+                "t": "p",
+                "x": "아티스트이자 송라이터 8ae, 송라이터이자 성우 Bailey Flores, Grammy-winning(그래미 수상) 프로듀서 Gino The Ghost, DJ이자 프로듀서 Flosstradamus가 고에너지 레이지 랩에 뛰어든다. 대화하듯 흐르는 클럽 훅을 쓰고, Suno Persona 기능에 보컬을 통과시켜 Death Pixie 특유의 음색을 굳힌다. Flosstradamus는 플랫폼 안에서 깨끗한 스템을 추출해 원래 드럼을 걷어내고 프로덕션을 처음부터 다시 쌓는 과정을 설명한다."
+              },
+              {
+                "t": "p",
+                "x": "팀은 버튼만 누르고 끝내지 않는다. 가사와 멜로디, 코드 진행을 모두 손으로 다듬은 뒤에야 기술을 써서 아이디어를 트랙으로 바꾼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Suno、AI学習用の\n録音の一部保持を認める",
-          "body": "Sunoは10月20日付の44ページの答弁書で、AI学習用録音の一部保持を認めた。",
-          "mini_headline": "Suno、学習用音源を一部保持",
+          "headline": "Sunoが加わる\nDeath Pixieの合宿",
+          "body": "Los Angelesの作曲キャンプがSunoでDeath Pixieの曲を作る。",
+          "mini_headline": "Death Pixieのための曲作り",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
-                "cap": "写真: FotoField / Shutterstock.com"
+                "t": "video",
+                "yt": "Mw95nxzYP4E"
               },
               {
                 "t": "p",
-                "x": "Sunoは10月20日、マサチューセッツ州のUS連邦地方裁判所に提出した44ページの答弁書で、AIモデルの学習に使った録音をすべては削除していないと認めた。この書面は、UMGとSonyが同社を相手取った訴訟で主張する「ロンダリング(laundering)」への反論である。"
+                "x": "SunoはIn The Cutの新エピソードで、Los AngelesのGlenwood Studiosを訪れ、Death Pixieのライティングキャンプに入り込む。音楽版のPixarをつくるという発想に触発され、エグゼクティブ・プロデューサーでソングライターのJay Stolarが、プロデューサー、ソングライター、声優、アニメーターを集め、アニメのアーティストDeath Pixieと彼女のダークな世界New Tokyoに命を吹き込む。"
+              },
+              {
+                "t": "p",
+                "x": "アーティスト兼ソングライターの8ae、ソングライター兼声優のBailey Flores、Grammy-winning（グラミー受賞）プロデューサーのGino The Ghost、DJ兼プロデューサーのFlosstradamusは、ハイエナジーなレイジ・ラップに取り組み、会話調のクラブ向けフックを書き、Suno Persona機能にボーカルを通してDeath Pixie特有の声色を固める。Flosstradamusは、プラットフォーム内でクリーンなステムを抽出することで元のドラムを取り除き、プロダクションを一から組み直せる仕組みを解説する。"
+              },
+              {
+                "t": "p",
+                "x": "チームはボタンを押すだけで済ませるのではなく、歌詞、メロディ、コード進行をすべて手作業で練り上げ、そのうえでテクノロジーを使ってアイデアをトラックに仕上げる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Suno承认保留了\n部分AI训练录音",
-          "body": "Suno在10月20日提交的44页答辩状中承认，未删除全部AI训练录音。",
-          "mini_headline": "Suno保留部分训练音频",
+          "headline": "Suno加入动画艺人\nDeath Pixie创作营",
+          "body": "Los Angeles的创作营团队用Suno为动画艺人Death Pixie写歌。",
+          "mini_headline": "为Death Pixie写歌",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
-                "cap": "图片来源：FotoField / Shutterstock.com"
+                "t": "video",
+                "yt": "Mw95nxzYP4E"
               },
               {
                 "t": "p",
-                "x": "Suno于10月20日向US马萨诸塞州联邦地区法院提交了一份44页的答辩状，承认并未删除用于训练其AI模型的全部录音。该文件回应了UMG和Sony在起诉该公司时提出的“洗白（laundering）”指控。"
+                "x": "Suno在新一期In The Cut中走进Los Angeles的Glenwood Studios，探访Death Pixie创作营。受打造音乐界Pixar这一构想启发，执行制作人兼词曲作者Jay Stolar召集制作人、词曲作者、配音演员和动画师，让动画艺人Death Pixie及其黑暗世界New Tokyo鲜活起来。"
+              },
+              {
+                "t": "p",
+                "x": "艺人兼词曲作者8ae、词曲作者兼配音演员Bailey Flores、Grammy-winning（格莱美获奖）制作人Gino The Ghost以及DJ兼制作人Flosstradamus投入高能量的愤怒说唱创作，写出对话式的俱乐部副歌，并用Suno Persona功能处理人声，锁定Death Pixie的标志性音色。Flosstradamus讲解了如何在平台内提取干净的分轨，从而去掉原有鼓组，从头重建编曲制作。"
+              },
+              {
+                "t": "p",
+                "x": "团队并非按下按钮了事，而是先亲手打磨每一句歌词、每段旋律和每组和弦进行，再借助技术把想法变成曲目。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Suno admite que guardó parte\ndel audio con que entrenó su AI",
-          "body": "En un escrito de 44 páginas del 20 de octubre, Suno admite que no borró todo el audio con que entrenó su AI.",
-          "mini_headline": "Suno guardó parte del audio de entrenamiento",
+          "headline": "Suno se suma a un campamento\nde composición para Death Pixie",
+          "body": "En Glenwood Studios (Los Angeles), un equipo de composición crea con Suno temas para la artista animada Death Pixie.",
+          "mini_headline": "Componer para Death Pixie",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
-                "cap": "Foto: FotoField / Shutterstock.com"
+                "t": "video",
+                "yt": "Mw95nxzYP4E"
               },
               {
                 "t": "p",
-                "x": "En una respuesta de 44 páginas presentada el 20 de octubre ante el Tribunal de Distrito de US para Massachusetts, Suno admite que no ha eliminado todas las grabaciones que usó para entrenar sus modelos de AI. El escrito responde a las acusaciones de ‘blanqueo’ (laundering) que UMG y Sony plantean en su demanda contra la empresa."
+                "x": "Suno visita Glenwood Studios, en Los Angeles, para entrar en el campamento de composición de Death Pixie en un nuevo episodio de In The Cut. Inspirado por la idea de construir un Pixar de la música, el productor ejecutivo y compositor Jay Stolar reúne a productores, compositores, actores de voz y animadores para dar vida a la artista animada Death Pixie y a su oscuro mundo de New Tokyo."
+              },
+              {
+                "t": "p",
+                "x": "8ae, artista y compositor; Bailey Flores, compositor y actor de voz; Gino The Ghost, productor ganador del Grammy (Grammy-winning), y el DJ y productor Flosstradamus se adentran en un rage rap de alta energía, escriben ganchos de club en tono conversacional y pasan las voces por la función Suno Persona para fijar el tono característico de Death Pixie. Flosstradamus explica cómo extraer stems limpios dentro de la plataforma le permite quitar la batería original y reconstruir la producción desde cero."
+              },
+              {
+                "t": "p",
+                "x": "En lugar de limitarse a pulsar un botón, el equipo elabora a mano cada letra, melodía y progresión de acordes antes de usar la tecnología para convertir sus ideas en temas."
               }
             ]
           }
@@ -667,165 +587,141 @@
       }
     },
     {
-      "id": "music-youtube-ai-ugc",
+      "id": "music-mulacover-arxiv",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "YouTube 조사 결과\n창작자 72%가 AI 사용",
-      "body": "YouTube Culture & Trends상 US 창작자 61%는 AI 출연파다.",
-      "mini_headline": "창작자 72%가 AI 사용",
+      "headline": "MuLaCover는 선율을\n지키고 스타일을 바꾼다",
+      "body": "MuLaCover는 곡의 멜로디·코드는 지키고 가사·스타일은 텍스트로 바꾼다.",
+      "mini_headline": "AI 커버, 조성 제어",
       "tool": "Music",
-      "source": "Music Ally",
-      "url": "https://musically.com/2026/10/23/youtube-report-provides-insight-into-latest-ai-ugc-trend/",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.26684",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "p",
-            "x": "YouTube가 사람들이 생성형 AI로 창의적 자기표현을 하는 방식을 다룬 새 Culture & Trends 보고서를 냈다. 흥미로운 UGC 가능성이 엿보이는 보고서다. 14세에서 44세 사이 US 영상 게시자 약 700명 가운데 72%가 영상이나 이미지에 AI를 쓴다고 답했다. 61%는 AI로 자기 모습을 콘텐츠에 넣어 보고 싶다고 했다. 이미 AI 영상을 만드는 사람은 3분의 2 이상이 직접 영상에 나온다."
+            "x": "커버곡은 기존 곡을 새로 해석한 결과물이다. 대개 조성 요소(멜로디와 코드 진행)는 그대로 두고 다른 음악적 속성을 바꾼다. MuLaCover는 여기서 출발한다. 사전 학습된 text-to-song 파운데이션 모델이 편집 가능한 기호 리드 시트를 조건으로 삼게 하고 가사와 스타일은 텍스트로 지정한다."
           },
           {
             "t": "p",
-            "x": "YouTube에 따르면 많은 사람이 이를 “디지털 의상 교체”나 다른 역할을 맡은 자신을 상상하는 데 쓴다. 아티스트 팀이라면 팬을 뮤직비디오 속에 직접 넣어 주는 방식이 자연스럽다. 공유하기 좋은 캠페인 요소가 된다."
+            "x": "기존 방식은 프레임 단위 특징을 조건으로 삼기 때문에 생성 결과가 원곡의 타이밍과 구조에 묶인다. MuLaCover의 정렬 없는(alignment-free) 제어는 원곡의 조성 특징은 지키면서 유연한 타이밍과 구조 재배열, 구간 단위 생성을 허용한다. 학습 커리큘럼에는 오디오와 기호 데이터가 일부 어긋난 쌍을 넣어 다양성과 견고성을 높인다."
           },
           {
             "t": "p",
-            "x": "Music Ally는 Higgsfield로 만든, LISA의 “SaWaDiKa” 영상에 Ariana Grande가 등장하는 팬 제작 Instagram Reel을 발견했다. 좋아요 82.2k 건, 공유 24.7k 건으로 제작자의 평소 게시물보다 반응이 100x 이상 높았다."
-          },
-          {
-            "t": "p",
-            "x": "발매 시점에 맞춰 팬의 AI 창작을 독려해도 되고, AI 크리에이터에게 최신 뮤직비디오를 둘러싼 이런 콘텐츠 제작을 맡겨도 된다. Ghost는 “Satanizer”로 팬이 얼굴을 바꿔 “Satanized” 영상에 들어가게 했다."
+            "x": "객관적 지표와 주관 평가, 전문가 인터뷰로 평가한 결과 MuLaCover는 오픈소스 시스템 가운데 최고 수준(state-of-the-art)의 성능을 냈고 Suno-v5.5 같은 주요 상용 모델과도 견줄 만했다. 오디오 샘플과 코드는 프로젝트 페이지에 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "YouTube survey finds 72% of\ncreators already use AI",
-          "body": "YouTube's new Culture & Trends report finds 61% of US creators want to use AI to insert themselves into content.",
-          "mini_headline": "72% of creators use AI",
+          "headline": "MuLaCover keeps the melody\nand changes the style",
+          "body": "MuLaCover generates covers that keep a song's melody and chords from a lead sheet while text sets lyrics and style.",
+          "mini_headline": "AI covers, tonal control",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "YouTube has published a new Culture & Trends report, looking at how people use generative AI to express themselves creatively – and it points to some interesting new UGC potential. In a survey of almost 700 US video posters aged 14 to 44, 72% said they use AI on their videos or images. 61% said they’re interested in using it to insert themselves into content, and more than two-thirds of those already making AI videos feature themselves in them."
+                "x": "A cover song re-renders an existing piece, most commonly by preserving its tonal content (melody and chord progression) while reshaping other musical attributes. MuLaCover builds on this: it conditions a pretrained text-to-song foundation model on an editable symbolic lead sheet, while lyrics and style are specified through text."
               },
               {
                 "t": "p",
-                "x": "According to YouTube, many people use it for “digital costume changes” and imagining themselves in different roles. For artist teams, a logical use case would be to get fans to insert themselves into the artist’s music video as a shareable campaign element."
+                "x": "Existing approaches condition on frame-level features, tying generation to the reference's timing and structure. MuLaCover's alignment-free control preserves the source's tonal signature while allowing flexible timing, structural rearrangement and segment-level generation. A training curriculum with partially mismatched audio-symbolic pairs improves diversity and robustness."
               },
               {
                 "t": "p",
-                "x": "Music Ally came across a fan-created Instagram Reel featuring Ariana Grande in LISA’s “SaWaDiKa” video, made with Higgsfield. It racked up 82.2k likes and 24.7k shares – more than 100x the engagement of the creator’s usual posts."
-              },
-              {
-                "t": "p",
-                "x": "Teams could encourage fans to get creative with AI around a release, or brief AI creators to make this kind of content around their latest music video. Ghost’s “Satanizer” let fans face-swap themselves into the “Satanized” video."
+                "x": "Evaluated with objective metrics, subjective ratings and expert interviews, MuLaCover achieves state-of-the-art performance among open-source systems and is competitive with leading commercial models such as Suno-v5.5. Audio samples and code are on the project page."
               }
             ]
           }
         },
         "ko": {
-          "headline": "YouTube 조사 결과\n창작자 72%가 AI 사용",
-          "body": "YouTube Culture & Trends상 US 창작자 61%는 AI 출연파다.",
-          "mini_headline": "창작자 72%가 AI 사용",
+          "headline": "MuLaCover는 선율을\n지키고 스타일을 바꾼다",
+          "body": "MuLaCover는 곡의 멜로디·코드는 지키고 가사·스타일은 텍스트로 바꾼다.",
+          "mini_headline": "AI 커버, 조성 제어",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "YouTube가 사람들이 생성형 AI로 창의적 자기표현을 하는 방식을 다룬 새 Culture & Trends 보고서를 냈다. 흥미로운 UGC 가능성이 엿보이는 보고서다. 14세에서 44세 사이 US 영상 게시자 약 700명 가운데 72%가 영상이나 이미지에 AI를 쓴다고 답했다. 61%는 AI로 자기 모습을 콘텐츠에 넣어 보고 싶다고 했다. 이미 AI 영상을 만드는 사람은 3분의 2 이상이 직접 영상에 나온다."
+                "x": "커버곡은 기존 곡을 새로 해석한 결과물이다. 대개 조성 요소(멜로디와 코드 진행)는 그대로 두고 다른 음악적 속성을 바꾼다. MuLaCover는 여기서 출발한다. 사전 학습된 text-to-song 파운데이션 모델이 편집 가능한 기호 리드 시트를 조건으로 삼게 하고 가사와 스타일은 텍스트로 지정한다."
               },
               {
                 "t": "p",
-                "x": "YouTube에 따르면 많은 사람이 이를 “디지털 의상 교체”나 다른 역할을 맡은 자신을 상상하는 데 쓴다. 아티스트 팀이라면 팬을 뮤직비디오 속에 직접 넣어 주는 방식이 자연스럽다. 공유하기 좋은 캠페인 요소가 된다."
+                "x": "기존 방식은 프레임 단위 특징을 조건으로 삼기 때문에 생성 결과가 원곡의 타이밍과 구조에 묶인다. MuLaCover의 정렬 없는(alignment-free) 제어는 원곡의 조성 특징은 지키면서 유연한 타이밍과 구조 재배열, 구간 단위 생성을 허용한다. 학습 커리큘럼에는 오디오와 기호 데이터가 일부 어긋난 쌍을 넣어 다양성과 견고성을 높인다."
               },
               {
                 "t": "p",
-                "x": "Music Ally는 Higgsfield로 만든, LISA의 “SaWaDiKa” 영상에 Ariana Grande가 등장하는 팬 제작 Instagram Reel을 발견했다. 좋아요 82.2k 건, 공유 24.7k 건으로 제작자의 평소 게시물보다 반응이 100x 이상 높았다."
-              },
-              {
-                "t": "p",
-                "x": "발매 시점에 맞춰 팬의 AI 창작을 독려해도 되고, AI 크리에이터에게 최신 뮤직비디오를 둘러싼 이런 콘텐츠 제작을 맡겨도 된다. Ghost는 “Satanizer”로 팬이 얼굴을 바꿔 “Satanized” 영상에 들어가게 했다."
+                "x": "객관적 지표와 주관 평가, 전문가 인터뷰로 평가한 결과 MuLaCover는 오픈소스 시스템 가운데 최고 수준(state-of-the-art)의 성능을 냈고 Suno-v5.5 같은 주요 상용 모델과도 견줄 만했다. 오디오 샘플과 코드는 프로젝트 페이지에 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "YouTube調査で\nクリエイター72%がAI活用",
-          "body": "YouTubeのCulture & Trendsで、US創作者の61%がAI出演を望んだ。",
-          "mini_headline": "クリエイターの72%がAI活用",
+          "headline": "MuLaCoverは旋律を\n残しスタイルを変える",
+          "body": "MuLaCoverはリードシートの旋律とコードを保ち、歌詞とスタイルはテキストで決める。",
+          "mini_headline": "AIカバー、調性を制御",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "YouTubeは、人々が生成AIを使ってどう創造的に自己表現しているかを調べた新しいCulture & Trendsレポートを公開した。そこからはUGCの興味深い新たな可能性が見えてくる。14歳から44歳のUSの動画投稿者約700人を対象にした調査で、72%が動画や画像にAIを使っていると答えた。61%はAIで自分をコンテンツに登場させることに関心があると答え、すでにAI動画を作っている人の3分の2以上が自分自身を登場させている。"
+                "x": "カバー曲は既存の楽曲を新たに表現し直すもので、多くの場合、調性的な内容（メロディとコード進行）を保ちつつ、ほかの音楽的属性を作り替える。MuLaCoverはこの考え方を土台にする。事前学習済みのtext-to-song基盤モデルを、編集可能な記号的リードシートで条件付けし、歌詞とスタイルはテキストで指定する。"
               },
               {
                 "t": "p",
-                "x": "YouTubeによれば、多くの人が「デジタルな衣装替え」や、別の役を演じる自分を思い描くためにAIを使っている。アーティストのチームにとっては、ファンにアーティストのミュージックビデオへ入り込んでもらい、シェアしやすいキャンペーン要素にするのが理にかなった使い方だろう。"
+                "x": "既存の手法はフレーム単位の特徴量で条件付けるため、生成が参照曲のタイミングと構造に縛られる。MuLaCoverのアライメント不要（alignment-free）の制御は、元曲の調性的な特徴を保ちながら、柔軟なタイミング、構造の組み替え、セグメント単位の生成を可能にする。音声と記号のペアを一部食い違わせた学習カリキュラムが、多様性と頑健性を高める。"
               },
               {
                 "t": "p",
-                "x": "Music Allyは、Higgsfieldで作られた、LISAの“SaWaDiKa”のビデオにAriana Grandeが登場するファン制作のInstagram Reelを見つけた。この投稿は82.2k いいね、24.7k シェアを集め、制作者の普段の投稿の100x 以上のエンゲージメントを得た。"
-              },
-              {
-                "t": "p",
-                "x": "チームはリリースに合わせてファンにAIで創作するよう促したり、AIクリエイターに最新ミュージックビデオを題材にしたこの種のコンテンツ制作を依頼したりできる。Ghostの“Satanizer”では、ファンが顔を入れ替えて“Satanized”のビデオに入り込めた。"
+                "x": "客観指標、主観評価、専門家インタビューで評価した結果、MuLaCoverはオープンソースのシステムの中で最先端（state-of-the-art）の性能を達成し、Suno-v5.5など主要な商用モデルにも引けを取らない。音声サンプルとコードはプロジェクトページで公開されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "YouTube调查：\n72%创作者已在用AI",
-          "body": "YouTube的Culture & Trends称，61%的US创作者想用AI出镜。",
-          "mini_headline": "72%创作者使用AI",
+          "headline": "MuLaCover保留旋律\n改变风格",
+          "body": "MuLaCover依据主旋律谱保留旋律与和弦，再用文本设定歌词和风格来生成翻唱。",
+          "mini_headline": "AI翻唱，调性可控",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "YouTube发布了新的Culture & Trends报告，考察人们如何借助生成式AI进行创意自我表达，报告也揭示出一些有趣的UGC新潜力。在一项针对近700名14至44岁US视频发布者的调查中，72%表示会在视频或图片中使用AI。61%表示有兴趣用AI把自己放进内容里，而已在制作AI视频的人中，超过三分之二让自己出镜。"
+                "x": "翻唱是对已有作品的重新演绎，最常见的做法是保留其调性内容（旋律与和弦进行），同时重塑其他音乐属性。MuLaCover正是在此基础上构建：它以可编辑的符号化主旋律谱为条件，驱动预训练的text-to-song基础模型，歌词和风格则通过文本指定。"
               },
               {
                 "t": "p",
-                "x": "YouTube称，许多人用它来进行“数字换装”，或想象自己扮演不同角色。对艺人团队而言，一个合乎逻辑的用法是让粉丝把自己放进艺人的音乐视频，作为便于分享的宣传元素。"
+                "x": "现有方法以帧级特征为条件，使生成结果受制于参考曲的时值与结构。MuLaCover的免对齐（alignment-free）控制在保留原曲调性特征的同时，允许灵活的时值、结构重排和分段生成。包含部分不匹配音频—符号配对的训练课程提升了多样性与鲁棒性。"
               },
               {
                 "t": "p",
-                "x": "Music Ally发现了一条粉丝制作的Instagram Reel，用Higgsfield让Ariana Grande出现在LISA的“SaWaDiKa”视频中。它获得82.2k 次点赞和24.7k 次分享，互动量是该创作者平时帖子的100x 以上。"
-              },
-              {
-                "t": "p",
-                "x": "团队可以在新作发行前后鼓励粉丝用AI发挥创意，或委托AI创作者围绕最新音乐视频制作这类内容。Ghost的“Satanizer”就让粉丝通过换脸进入“Satanized”视频。"
+                "x": "经客观指标、主观评分和专家访谈评估，MuLaCover在开源系统中达到最先进（state-of-the-art）水平，并可与Suno-v5.5等领先商业模型相媲美。音频样本和代码已发布在项目页面。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una encuesta de YouTube: el 72%\nde los creadores ya usa AI",
-          "body": "Según el informe Culture & Trends de YouTube, el 61% de los creadores de US quiere aparecer en su contenido con AI.",
-          "mini_headline": "El 72% de los creadores usa AI",
+          "headline": "MuLaCover mantiene la melodía\ny cambia el estilo",
+          "body": "MuLaCover genera versiones que conservan la melodía y los acordes de una lead sheet, y el texto fija letra y estilo.",
+          "mini_headline": "Covers con AI y control tonal",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "YouTube ha publicado un nuevo informe Culture & Trends sobre cómo la gente usa la AI generativa para expresarse creativamente, y apunta a un interesante potencial nuevo para el UGC. En una encuesta a casi 700 personas de US que publican videos, de entre 14 y 44 años, el 72% dijo usar AI en sus videos o imágenes. El 61% dijo estar interesado en usarla para insertarse en contenidos, y más de dos tercios de quienes ya hacen videos con AI aparecen en ellos."
+                "x": "Una versión reinterpreta una obra existente, por lo general conservando su contenido tonal (melodía y progresión de acordes) mientras transforma otros atributos musicales. MuLaCover parte de esa idea: condiciona un modelo fundacional preentrenado de texto a canción (text-to-song) con una lead sheet simbólica editable, mientras que la letra y el estilo se especifican mediante texto."
               },
               {
                 "t": "p",
-                "x": "Según YouTube, mucha gente la usa para “cambios de vestuario digitales” y para imaginarse en distintos papeles. Para los equipos de los artistas, un uso lógico sería lograr que los fans se inserten en el videoclip del artista como elemento de campaña fácil de compartir."
+                "x": "Los enfoques existentes se condicionan con rasgos a nivel de fotograma, lo que ata la generación a la temporización y la estructura de la referencia. El control sin alineación (alignment-free) de MuLaCover conserva la firma tonal de la fuente y permite una temporización flexible, la reorganización estructural y la generación por segmentos. Un currículo de entrenamiento con pares de audio y símbolos parcialmente desajustados mejora la diversidad y la robustez."
               },
               {
                 "t": "p",
-                "x": "Music Ally encontró un Instagram Reel creado por un fan en el que Ariana Grande aparece en el video “SaWaDiKa” de LISA, hecho con Higgsfield. Acumuló 82.2k me gusta y se compartió 24.7k veces, más de 100x la interacción habitual de las publicaciones de su autor."
-              },
-              {
-                "t": "p",
-                "x": "Los equipos podrían animar a los fans a crear con AI en torno a un lanzamiento, o encargar a creadores de AI este tipo de contenido en torno a su último videoclip. “Satanizer”, de Ghost, permitió a los fans insertarse mediante intercambio de rostro en el video “Satanized”."
+                "x": "Evaluado con métricas objetivas, valoraciones subjetivas y entrevistas a expertos, MuLaCover alcanza un rendimiento de vanguardia (state-of-the-art) entre los sistemas de código abierto y compite con modelos comerciales líderes como Suno-v5.5. Las muestras de audio y el código están en la página del proyecto."
               }
             ]
           }
@@ -833,105 +729,89 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "YouTube 조사 결과\n창작자 72%가 AI 사용",
-          "body": "YouTube Culture & Trends상 US 창작자 61%는 AI 출연파다.",
-          "mini_headline": "창작자 72%가 AI 사용",
+          "headline": "MuLaCover는 선율을\n지키고 스타일을 바꾼다",
+          "body": "MuLaCover는 곡의 멜로디·코드는 지키고 가사·스타일은 텍스트로 바꾼다.",
+          "mini_headline": "AI 커버, 조성 제어",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "YouTube가 사람들이 생성형 AI로 창의적 자기표현을 하는 방식을 다룬 새 Culture & Trends 보고서를 냈고, 여기서 흥미로운 UGC 가능성이 엿보인다. 14세에서 44세 사이 US 영상 게시자 약 700명을 조사한 결과 72%가 영상이나 이미지에 AI를 쓴다고 답했다. 61%는 AI로 자신을 콘텐츠에 넣는 데 관심이 있다고 했고, 이미 AI 영상을 만드는 사람의 3분의 2 이상이 자신을 영상에 등장시킨다."
+                "x": "커버곡은 기존 곡을 새로 표현한 것으로, 대개 조성 요소(멜로디와 코드 진행)는 그대로 두고 다른 음악적 속성을 바꾼다. MuLaCover는 여기서 출발한다. 사전 학습된 text-to-song 파운데이션 모델이 편집 가능한 기호 리드 시트를 조건으로 삼게 하고, 가사와 스타일은 텍스트로 지정한다."
               },
               {
                 "t": "p",
-                "x": "YouTube에 따르면 많은 사람이 이를 “디지털 의상 교체”나 다른 역할을 맡은 자신을 상상하는 데 쓴다. 아티스트 팀이라면 팬이 아티스트 뮤직비디오에 직접 들어가게 해 공유하기 좋은 캠페인 요소로 삼는 활용법이 자연스럽다."
+                "x": "기존 방식은 프레임 단위 특징을 조건으로 삼기 때문에 생성 결과가 원곡의 타이밍과 구조에 묶인다. MuLaCover의 정렬 없는(alignment-free) 제어는 원곡의 조성적 특징을 지키면서도 유연한 타이밍, 구조 재배열, 구간 단위 생성을 허용한다. 오디오와 기호 데이터가 일부 어긋난 쌍을 넣은 학습 커리큘럼은 다양성과 견고성을 높인다."
               },
               {
                 "t": "p",
-                "x": "Music Ally는 Higgsfield로 만든, LISA의 “SaWaDiKa” 영상에 Ariana Grande가 등장하는 팬 제작 Instagram Reel을 발견했다. 이 영상은 좋아요 82.2k 건, 공유 24.7k 건을 기록해 제작자의 평소 게시물보다 100x 이상 높은 반응을 얻었다."
-              },
-              {
-                "t": "p",
-                "x": "팀은 발매 시점에 맞춰 팬이 AI로 창작하도록 독려하거나, AI 크리에이터에게 최신 뮤직비디오를 둘러싼 이런 콘텐츠 제작을 의뢰할 수 있다. Ghost의 “Satanizer”는 팬이 얼굴을 바꿔 “Satanized” 영상에 들어갈 수 있게 했다."
+                "x": "객관적 지표와 주관 평가, 전문가 인터뷰로 평가한 결과 MuLaCover는 오픈소스 시스템 가운데 최고 수준(state-of-the-art)의 성능을 냈고, Suno-v5.5 같은 주요 상용 모델과도 견줄 만했다. 오디오 샘플과 코드는 프로젝트 페이지에 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "YouTube調査で\nクリエイター72%がAI活用",
-          "body": "YouTubeのCulture & Trendsで、US創作者の61%がAI出演を望んだ。",
-          "mini_headline": "クリエイターの72%がAI活用",
+          "headline": "MuLaCoverは旋律を\n残しスタイルを変える",
+          "body": "MuLaCoverはリードシートの旋律とコードを保ち、歌詞とスタイルはテキストで決める。",
+          "mini_headline": "AIカバー、調性を制御",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "YouTubeは、人々が生成AIを使ってどう創造的に自己表現しているかを調べた新しいCulture & Trendsレポートを公開した。そこからはUGCの興味深い新たな可能性が見えてくる。14歳から44歳のUSの動画投稿者約700人を対象にした調査で、72%が動画や画像にAIを使っていると答えた。61%はAIで自分をコンテンツに登場させることに関心があると答え、すでにAI動画を作っている人の3分の2以上が自分自身を登場させている。"
+                "x": "カバー曲は既存の楽曲を新たに表現し直すもので、多くの場合、調性的な内容（メロディとコード進行）を保ちつつ、ほかの音楽的属性を作り替える。MuLaCoverはこの考え方を土台にする。事前学習済みのtext-to-song基盤モデルを、編集可能な記号的リードシートで条件付けし、歌詞とスタイルはテキストで指定する。"
               },
               {
                 "t": "p",
-                "x": "YouTubeによれば、多くの人が「デジタルな衣装替え」や、別の役を演じる自分を思い描くためにAIを使っている。アーティストのチームにとっては、ファンにアーティストのミュージックビデオへ入り込んでもらい、シェアしやすいキャンペーン要素にするのが理にかなった使い方だろう。"
+                "x": "既存の手法はフレーム単位の特徴量で条件付けるため、生成が参照曲のタイミングと構造に縛られる。MuLaCoverのアライメント不要（alignment-free）の制御は、元曲の調性的な特徴を保ちながら、柔軟なタイミング、構造の組み替え、セグメント単位の生成を可能にする。音声と記号のペアを一部食い違わせた学習カリキュラムが、多様性と頑健性を高める。"
               },
               {
                 "t": "p",
-                "x": "Music Allyは、Higgsfieldで作られた、LISAの“SaWaDiKa”のビデオにAriana Grandeが登場するファン制作のInstagram Reelを見つけた。この投稿は82.2k いいね、24.7k シェアを集め、制作者の普段の投稿の100x 以上のエンゲージメントを得た。"
-              },
-              {
-                "t": "p",
-                "x": "チームはリリースに合わせてファンにAIで創作するよう促したり、AIクリエイターに最新ミュージックビデオを題材にしたこの種のコンテンツ制作を依頼したりできる。Ghostの“Satanizer”では、ファンが顔を入れ替えて“Satanized”のビデオに入り込めた。"
+                "x": "客観指標、主観評価、専門家インタビューで評価した結果、MuLaCoverはオープンソースのシステムの中で最先端（state-of-the-art）の性能を達成し、Suno-v5.5など主要な商用モデルにも引けを取らない。音声サンプルとコードはプロジェクトページで公開されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "YouTube调查：\n72%创作者已在用AI",
-          "body": "YouTube的Culture & Trends称，61%的US创作者想用AI出镜。",
-          "mini_headline": "72%创作者使用AI",
+          "headline": "MuLaCover保留旋律\n改变风格",
+          "body": "MuLaCover依据主旋律谱保留旋律与和弦，再用文本设定歌词和风格来生成翻唱。",
+          "mini_headline": "AI翻唱，调性可控",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "YouTube发布了新的Culture & Trends报告，考察人们如何借助生成式AI进行创意自我表达，报告也揭示出一些有趣的UGC新潜力。在一项针对近700名14至44岁US视频发布者的调查中，72%表示会在视频或图片中使用AI。61%表示有兴趣用AI把自己放进内容里，而已在制作AI视频的人中，超过三分之二让自己出镜。"
+                "x": "翻唱是对已有作品的重新演绎，最常见的做法是保留其调性内容（旋律与和弦进行），同时重塑其他音乐属性。MuLaCover正是在此基础上构建：它以可编辑的符号化主旋律谱为条件，驱动预训练的text-to-song基础模型，歌词和风格则通过文本指定。"
               },
               {
                 "t": "p",
-                "x": "YouTube称，许多人用它来进行“数字换装”，或想象自己扮演不同角色。对艺人团队而言，一个合乎逻辑的用法是让粉丝把自己放进艺人的音乐视频，作为便于分享的宣传元素。"
+                "x": "现有方法以帧级特征为条件，使生成结果受制于参考曲的时值与结构。MuLaCover的免对齐（alignment-free）控制在保留原曲调性特征的同时，允许灵活的时值、结构重排和分段生成。包含部分不匹配音频—符号配对的训练课程提升了多样性与鲁棒性。"
               },
               {
                 "t": "p",
-                "x": "Music Ally发现了一条粉丝制作的Instagram Reel，用Higgsfield让Ariana Grande出现在LISA的“SaWaDiKa”视频中。它获得82.2k 次点赞和24.7k 次分享，互动量是该创作者平时帖子的100x 以上。"
-              },
-              {
-                "t": "p",
-                "x": "团队可以在新作发行前后鼓励粉丝用AI发挥创意，或委托AI创作者围绕最新音乐视频制作这类内容。Ghost的“Satanizer”就让粉丝通过换脸进入“Satanized”视频。"
+                "x": "经客观指标、主观评分和专家访谈评估，MuLaCover在开源系统中达到最先进（state-of-the-art）水平，并可与Suno-v5.5等领先商业模型相媲美。音频样本和代码已发布在项目页面。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una encuesta de YouTube: el 72%\nde los creadores ya usa AI",
-          "body": "Según el informe Culture & Trends de YouTube, el 61% de los creadores de US quiere aparecer en su contenido con AI.",
-          "mini_headline": "El 72% de los creadores usa AI",
+          "headline": "MuLaCover mantiene la melodía\ny cambia el estilo",
+          "body": "MuLaCover genera versiones que conservan la melodía y los acordes de una lead sheet, y el texto fija letra y estilo.",
+          "mini_headline": "Covers con AI y control tonal",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "YouTube ha publicado un nuevo informe Culture & Trends sobre cómo la gente usa la AI generativa para expresarse creativamente, y apunta a un interesante potencial nuevo para el UGC. En una encuesta a casi 700 personas de US que publican videos, de entre 14 y 44 años, el 72% dijo usar AI en sus videos o imágenes. El 61% dijo estar interesado en usarla para insertarse en contenidos, y más de dos tercios de quienes ya hacen videos con AI aparecen en ellos."
+                "x": "Una versión reinterpreta una obra existente, por lo general conservando su contenido tonal (melodía y progresión de acordes) mientras transforma otros atributos musicales. MuLaCover parte de esa idea: condiciona un modelo fundacional preentrenado de texto a canción (text-to-song) con una lead sheet simbólica editable, mientras que la letra y el estilo se especifican mediante texto."
               },
               {
                 "t": "p",
-                "x": "Según YouTube, mucha gente la usa para “cambios de vestuario digitales” y para imaginarse en distintos papeles. Para los equipos de los artistas, un uso lógico sería lograr que los fans se inserten en el videoclip del artista como elemento de campaña fácil de compartir."
+                "x": "Los enfoques existentes se condicionan con rasgos a nivel de fotograma, lo que ata la generación a la temporización y la estructura de la referencia. El control sin alineación (alignment-free) de MuLaCover conserva la firma tonal de la fuente y permite una temporización flexible, la reorganización estructural y la generación por segmentos. Un currículo de entrenamiento con pares de audio y símbolos parcialmente desajustados mejora la diversidad y la robustez."
               },
               {
                 "t": "p",
-                "x": "Music Ally encontró un Instagram Reel creado por un fan en el que Ariana Grande aparece en el video “SaWaDiKa” de LISA, hecho con Higgsfield. Acumuló 82.2k me gusta y se compartió 24.7k veces, más de 100x la interacción habitual de las publicaciones de su autor."
-              },
-              {
-                "t": "p",
-                "x": "Los equipos podrían animar a los fans a crear con AI en torno a un lanzamiento, o encargar a creadores de AI este tipo de contenido en torno a su último videoclip. “Satanizer”, de Ghost, permitió a los fans insertarse mediante intercambio de rostro en el video “Satanized”."
+                "x": "Evaluado con métricas objetivas, valoraciones subjetivas y entrevistas a expertos, MuLaCover alcanza un rendimiento de vanguardia (state-of-the-art) entre los sistemas de código abierto y compite con modelos comerciales líderes como Suno-v5.5. Las muestras de audio y el código están en la página del proyecto."
               }
             ]
           }
@@ -939,547 +819,165 @@
       }
     },
     {
-      "id": "music-mixjudge",
+      "id": "music-suno-mlc-subpoena",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "MixJudge는\n보컬 믹스 심사하는 AI",
-      "body": "MixJudge는 믹스 결함 11종의 language-queryable 비평가다.",
-      "mini_headline": "MixJudge, 보컬 믹스 비평",
+      "headline": "Suno와 MLC,\n스트리밍 데이터로 충돌",
+      "body": "Suno가 소환장으로 수년 치 DSP-specific 데이터를 MLC에 요구했다.",
+      "mini_headline": "Suno·MLC 소환장 공방",
       "tool": "Music",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.30783",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "믹싱은 처리를 적용하는 데서 끝나지 않는다. 결과물을 평가하는 일도 믹싱이다. 오디오-언어 모델은 대화하듯 믹싱 조언을 주지만, 기존 평가는 이 모델이 특정 믹싱 문제를 판단하는지 따로 시험하지 않는다."
-          },
-          {
-            "t": "p",
-            "x": "이런 판단에 쓸 전문가 감독 데이터가 부족하다. 그래서 연구진은 여러 심각도 단계로 나눈 보컬 믹스 문제 11종의 커리큘럼을 만들고 이것으로 언어로 질의할 수 있는(language-queryable) 오디오 비평가 MixJudge를 학습시켰다."
-          },
-          {
-            "t": "img",
-            "src": "https://arxiv.org/html/2610.30783v1/batch_construction.svg",
-            "cap": "그림 1: 같은 콘텐츠로 구성한 학습 배치."
-          },
-          {
-            "t": "p",
-            "x": "MixJudge는 믹싱 문제를 찾아내고, 서로 반대되는 문제를 가려내며, 한 문제의 심각도를 순서대로 매겼다. 이 판단은 메뉴 선택으로도 이어진다. 처리 후보를 주면 MixJudge는 따로 떼어 둔 전문가 버전에 음향적으로 더 가까운 쪽을 고를 때가 많았다."
-          },
-          {
-            "t": "p",
-            "x": "Kuan-Hsun Ho, Yuan-Chiao Cheng, Yen-Tung Yeh, Yi-Hsuan Yang 공저, ICASSP 2027 제출."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "MixJudge is an AI critic\nthat judges vocal mixes",
-          "body": "MixJudge is a language-queryable audio critic trained on 11 vocal-mix issues at multiple severity levels.",
-          "mini_headline": "MixJudge critiques vocal mixes",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Mixing requires not only applying processing but also assessing the resulting mix. Audio-language models can provide conversational mixing advice, but existing evaluations do not separately test whether they can judge specific mixing issues."
-              },
-              {
-                "t": "p",
-                "x": "Since professional supervision for such judgments is scarce, the authors construct a curriculum of 11 vocal-mix issues at multiple severity levels and use it to train MixJudge, a language-queryable audio critic."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.30783v1/batch_construction.svg",
-                "cap": "Figure 1: Same-content training batch construction."
-              },
-              {
-                "t": "p",
-                "x": "MixJudge shows its ability to retrieve mixing issues, distinguish opposite issues, and order the severity of an issue. Its judgments also transfer to menu selection: given a set of processing candidates, MixJudge often favors versions acoustically closer to a held-out professional version."
-              },
-              {
-                "t": "p",
-                "x": "Kuan-Hsun Ho, Yuan-Chiao Cheng, Yen-Tung Yeh and Yi-Hsuan Yang; submitted to ICASSP 2027."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "MixJudge는\n보컬 믹스 심사하는 AI",
-          "body": "MixJudge는 믹스 결함 11종의 language-queryable 비평가다.",
-          "mini_headline": "MixJudge, 보컬 믹스 비평",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "믹싱은 처리를 적용하는 데서 끝나지 않는다. 결과물을 평가하는 일도 믹싱이다. 오디오-언어 모델은 대화하듯 믹싱 조언을 주지만, 기존 평가는 이 모델이 특정 믹싱 문제를 판단하는지 따로 시험하지 않는다."
-              },
-              {
-                "t": "p",
-                "x": "이런 판단에 쓸 전문가 감독 데이터가 부족하다. 그래서 연구진은 여러 심각도 단계로 나눈 보컬 믹스 문제 11종의 커리큘럼을 만들고 이것으로 언어로 질의할 수 있는(language-queryable) 오디오 비평가 MixJudge를 학습시켰다."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.30783v1/batch_construction.svg",
-                "cap": "그림 1: 같은 콘텐츠로 구성한 학습 배치."
-              },
-              {
-                "t": "p",
-                "x": "MixJudge는 믹싱 문제를 찾아내고, 서로 반대되는 문제를 가려내며, 한 문제의 심각도를 순서대로 매겼다. 이 판단은 메뉴 선택으로도 이어진다. 처리 후보를 주면 MixJudge는 따로 떼어 둔 전문가 버전에 음향적으로 더 가까운 쪽을 고를 때가 많았다."
-              },
-              {
-                "t": "p",
-                "x": "Kuan-Hsun Ho, Yuan-Chiao Cheng, Yen-Tung Yeh, Yi-Hsuan Yang 공저, ICASSP 2027 제출."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "MixJudgeは\nボーカルミックスを裁くAI",
-          "body": "MixJudgeはミックス問題11種を学んだlanguage-queryableな批評家だ。",
-          "mini_headline": "MixJudgeがボーカルミックスを批評",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "ミキシングには処理を施すだけでなく、仕上がったミックスを評価することも求められる。音声言語モデルは対話形式でミキシングの助言を出せるが、既存の評価では、特定のミキシング問題を判定できるかどうかを個別には検証していない。"
-              },
-              {
-                "t": "p",
-                "x": "こうした判定のための専門家による教師データは乏しいため、著者らは複数の深刻度を持つ11種のボーカルミックス問題からなるカリキュラムを構築し、それを使って言語で問い合わせ可能な(language-queryable)音声批評モデルMixJudgeを訓練した。"
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.30783v1/batch_construction.svg",
-                "cap": "図1: 同一コンテンツによる学習バッチの構成。"
-              },
-              {
-                "t": "p",
-                "x": "MixJudgeは、ミキシング問題の検出、正反対の問題の識別、ある問題の深刻度の順位付けができることを示した。その判定はメニュー選択にも応用できる。処理候補の集合が与えられると、MixJudgeは評価用に取り分けたプロのバージョンに音響的に近いものを選ぶことが多い。"
-              },
-              {
-                "t": "p",
-                "x": "Kuan-Hsun Ho、Yuan-Chiao Cheng、Yen-Tung Yeh、Yi-Hsuan Yang著。ICASSP 2027に投稿済み。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "MixJudge：\n评判人声混音的AI评论家",
-          "body": "MixJudge是用11类人声混音问题训练的language-queryable音频评审。",
-          "mini_headline": "MixJudge点评人声混音",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "混音不仅需要施加处理，还需要评估处理后的混音结果。音频语言模型可以通过对话给出混音建议，但现有评测并未单独检验它们能否判断具体的混音问题。"
-              },
-              {
-                "t": "p",
-                "x": "由于这类判断缺乏专业的监督数据，作者构建了一套涵盖11类人声混音问题、分多个严重程度的课程，并用它训练出可用语言查询（language-queryable）的音频评审模型MixJudge。"
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.30783v1/batch_construction.svg",
-                "cap": "图1：同内容训练批次的构建。"
-              },
-              {
-                "t": "p",
-                "x": "MixJudge展现出检索混音问题、区分相反问题以及对问题严重程度排序的能力。它的判断还能迁移到菜单选择：给定一组处理候选，MixJudge往往偏向在声学上更接近预留专业版本的那一版。"
-              },
-              {
-                "t": "p",
-                "x": "Kuan-Hsun Ho、Yuan-Chiao Cheng、Yen-Tung Yeh、Yi-Hsuan Yang；已投稿ICASSP 2027。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "MixJudge es un crítico de AI\nque evalúa mezclas vocales",
-          "body": "MixJudge es un crítico de audio language-queryable entrenado con 11 problemas de vocal-mix de diversa gravedad.",
-          "mini_headline": "MixJudge critica mezclas vocales",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Mezclar exige no solo aplicar procesamiento, sino también evaluar la mezcla resultante. Los modelos de audio y lenguaje pueden dar consejos de mezcla en forma de conversación, pero las evaluaciones existentes no comprueban por separado si son capaces de juzgar problemas de mezcla concretos."
-              },
-              {
-                "t": "p",
-                "x": "Como la supervisión profesional para este tipo de juicios escasea, los autores construyen un currículo de 11 problemas de mezcla vocal con varios niveles de gravedad y lo usan para entrenar MixJudge, un crítico de audio language-queryable, es decir, que admite consultas en lenguaje."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.30783v1/batch_construction.svg",
-                "cap": "Figura 1: Construcción de lotes de entrenamiento con el mismo contenido."
-              },
-              {
-                "t": "p",
-                "x": "MixJudge demuestra su capacidad para detectar problemas de mezcla, distinguir problemas opuestos y ordenar la gravedad de un problema. Sus juicios también se trasladan a la selección por menú: ante un conjunto de candidatos de procesamiento, MixJudge suele preferir las versiones acústicamente más cercanas a una versión profesional reservada."
-              },
-              {
-                "t": "p",
-                "x": "Kuan-Hsun Ho, Yuan-Chiao Cheng, Yen-Tung Yeh y Yi-Hsuan Yang; enviado a ICASSP 2027."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "MixJudge는\n보컬 믹스 심사하는 AI",
-          "body": "MixJudge는 믹스 결함 11종의 language-queryable 비평가다.",
-          "mini_headline": "MixJudge, 보컬 믹스 비평",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "믹싱은 처리를 적용하는 데서 끝나지 않고 그 결과물을 평가하는 일까지 포함한다. 오디오-언어 모델은 대화형으로 믹싱 조언을 줄 수 있지만, 기존 평가는 이 모델이 특정 믹싱 문제를 판단할 수 있는지를 따로 시험하지 않는다."
-              },
-              {
-                "t": "p",
-                "x": "이런 판단에 쓸 전문가 감독 데이터가 부족하기 때문에, 연구진은 여러 심각도 단계로 나눈 보컬 믹스 문제 11종의 커리큘럼을 만들고, 이를 이용해 언어로 질의할 수 있는(language-queryable) 오디오 비평가 MixJudge를 학습시켰다."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.30783v1/batch_construction.svg",
-                "cap": "그림 1: 같은 콘텐츠로 구성한 학습 배치."
-              },
-              {
-                "t": "p",
-                "x": "MixJudge는 믹싱 문제를 찾아내고, 서로 반대되는 문제를 구별하며, 한 문제의 심각도를 순서대로 매기는 능력을 보였다. 이 판단은 메뉴 선택으로도 이어진다. 처리 후보들이 주어지면 MixJudge는 따로 떼어 둔 전문가 버전에 음향적으로 더 가까운 버전을 고르는 경우가 많았다."
-              },
-              {
-                "t": "p",
-                "x": "Kuan-Hsun Ho, Yuan-Chiao Cheng, Yen-Tung Yeh, Yi-Hsuan Yang 공저, ICASSP 2027 제출."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "MixJudgeは\nボーカルミックスを裁くAI",
-          "body": "MixJudgeはミックス問題11種を学んだlanguage-queryableな批評家だ。",
-          "mini_headline": "MixJudgeがボーカルミックスを批評",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "ミキシングには処理を施すだけでなく、仕上がったミックスを評価することも求められる。音声言語モデルは対話形式でミキシングの助言を出せるが、既存の評価では、特定のミキシング問題を判定できるかどうかを個別には検証していない。"
-              },
-              {
-                "t": "p",
-                "x": "こうした判定のための専門家による教師データは乏しいため、著者らは複数の深刻度を持つ11種のボーカルミックス問題からなるカリキュラムを構築し、それを使って言語で問い合わせ可能な(language-queryable)音声批評モデルMixJudgeを訓練した。"
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.30783v1/batch_construction.svg",
-                "cap": "図1: 同一コンテンツによる学習バッチの構成。"
-              },
-              {
-                "t": "p",
-                "x": "MixJudgeは、ミキシング問題の検出、正反対の問題の識別、ある問題の深刻度の順位付けができることを示した。その判定はメニュー選択にも応用できる。処理候補の集合が与えられると、MixJudgeは評価用に取り分けたプロのバージョンに音響的に近いものを選ぶことが多い。"
-              },
-              {
-                "t": "p",
-                "x": "Kuan-Hsun Ho、Yuan-Chiao Cheng、Yen-Tung Yeh、Yi-Hsuan Yang著。ICASSP 2027に投稿済み。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "MixJudge：\n评判人声混音的AI评论家",
-          "body": "MixJudge是用11类人声混音问题训练的language-queryable音频评审。",
-          "mini_headline": "MixJudge点评人声混音",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "混音不仅需要施加处理，还需要评估处理后的混音结果。音频语言模型可以通过对话给出混音建议，但现有评测并未单独检验它们能否判断具体的混音问题。"
-              },
-              {
-                "t": "p",
-                "x": "由于这类判断缺乏专业的监督数据，作者构建了一套涵盖11类人声混音问题、分多个严重程度的课程，并用它训练出可用语言查询（language-queryable）的音频评审模型MixJudge。"
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.30783v1/batch_construction.svg",
-                "cap": "图1：同内容训练批次的构建。"
-              },
-              {
-                "t": "p",
-                "x": "MixJudge展现出检索混音问题、区分相反问题以及对问题严重程度排序的能力。它的判断还能迁移到菜单选择：给定一组处理候选，MixJudge往往偏向在声学上更接近预留专业版本的那一版。"
-              },
-              {
-                "t": "p",
-                "x": "Kuan-Hsun Ho、Yuan-Chiao Cheng、Yen-Tung Yeh、Yi-Hsuan Yang；已投稿ICASSP 2027。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "MixJudge es un crítico de AI\nque evalúa mezclas vocales",
-          "body": "MixJudge es un crítico de audio language-queryable entrenado con 11 problemas de vocal-mix de diversa gravedad.",
-          "mini_headline": "MixJudge critica mezclas vocales",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Mezclar exige no solo aplicar procesamiento, sino también evaluar la mezcla resultante. Los modelos de audio y lenguaje pueden dar consejos de mezcla en forma de conversación, pero las evaluaciones existentes no comprueban por separado si son capaces de juzgar problemas de mezcla concretos."
-              },
-              {
-                "t": "p",
-                "x": "Como la supervisión profesional para este tipo de juicios escasea, los autores construyen un currículo de 11 problemas de mezcla vocal con varios niveles de gravedad y lo usan para entrenar MixJudge, un crítico de audio language-queryable, es decir, que admite consultas en lenguaje."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.30783v1/batch_construction.svg",
-                "cap": "Figura 1: Construcción de lotes de entrenamiento con el mismo contenido."
-              },
-              {
-                "t": "p",
-                "x": "MixJudge demuestra su capacidad para detectar problemas de mezcla, distinguir problemas opuestos y ordenar la gravedad de un problema. Sus juicios también se trasladan a la selección por menú: ante un conjunto de candidatos de procesamiento, MixJudge suele preferir las versiones acústicamente más cercanas a una versión profesional reservada."
-              },
-              {
-                "t": "p",
-                "x": "Kuan-Hsun Ho, Yuan-Chiao Cheng, Yen-Tung Yeh y Yi-Hsuan Yang; enviado a ICASSP 2027."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "music-piano2pop",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Piano2Pop, 피아노\n데모를 완성된 팝으로",
-      "body": "Piano2Pop은 피아노 MIDI로 사전학습 모델을 이끌어 팝 연주곡을 만든다.",
-      "mini_headline": "피아노 데모가 팝 트랙으로",
-      "tool": "Music",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.31510",
+      "source": "Digital Music News",
+      "url": "https://www.digitalmusicnews.com/2026/10/22/suno-mlc-subpoena/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "팝송은 흔히 데모에서 시작한다. 기타 스케치일 수도, 기존 트랙 위에 부른 탑라인일 수도, 피아노 반주일 수도 있다. 이 스케치를 완성된 프로덕션으로 만드는 건 프로듀서 몫이다. 음악적 의도를 읽어 내고 드럼, 악기 구성, 편곡, 믹싱으로 살려야 한다. 국립대만대학교(National Taiwan University) 연구진은 이 과제를 Piano2Pop이라 부른다. 피아노 MIDI 데모를 받아 일관성 있고 팝 어법에 맞으며 데모의 음악적 의도에 충실한 완전한 연주곡 팝 프로덕션을 생성하는 과제다."
-          },
-          {
             "t": "img",
-            "src": "https://arxiv.org/html/2610.31510v1/hero.png",
-            "cap": "그림 1: Piano2Pop 개요."
+            "src": "https://www.digitalmusicnews.com/wp-content/uploads/2024/01/the-mlc-announces-audits-major-dsps-feat.jpeg"
           },
           {
             "t": "p",
-            "x": "연구진의 의사 지도(pseudo-supervised) 방식은 정렬된 피아노-팝 지도 데이터 없이 사전학습된 flow-matching 모델을 피아노 롤에 조건화한다. 학습에는 팝 녹음에서 추출한 합성 피아노-연주곡 쌍을 쓴다. 의사 데모 소스로는 기능 선택(FST)과 음역 밀도(RDA) 증강을 포함한 쌍 없는(pair-free) 채보 방식과 쌍 지도(pair-supervised) 피아노 커버 생성기를 비교했다."
+            "x": "UMG, Sony Music 등에서 저작권 침해 소송을 당한 Suno가 이번에는 Mechanical Licensing Collective에 방대한 스트리밍 데이터 문서를 요구한다. 2026년 내내 달아오른 소환장 분쟁은 지난주 Suno가 MLC의 이행을 강제해 달라는 신청을 내면서 터졌다. Udio도 “substantially identical”(사실상 동일한) 소환장을 두고 별도 신청을 냈다."
           },
           {
             "t": "p",
-            "x": "실제 피아노 커버/팝 쌍 476개로 테스트하자 실제 피아노 입력에서는 쌍 지도 방식이 Frechet Audio Distance, Accompaniment Prompt Adherence, 스펙트럼 형태 모두에서 가장 좋은 성적을 냈다. FST는 쌍 없는 학습에서 피아노가 과하게 두드러지는 출력을 줄였다. 미세 조정한 모든 시스템이 제로샷 베이스라인인 MuseControlLite와 ACE-Step cover를 크게 앞섰다."
-          },
-          {
-            "t": "img",
-            "src": "https://arxiv.org/html/2610.31510v1/instrument_energy_differences.svg",
-            "cap": "그림 2: OOD 실제 피아노 조건에서 평균 악기 에너지 비중의 GT 대비 차이."
+            "x": "Suno가 April에 낸 소환장은 Amazon, Apple, Deezer, Spotify, TikTok, YouTube 등 DSPs의 2021년부터 현재까지 레이블별 월간 실적 데이터를 요구했다. AI-generated 음악이 시장 점유율과 로열티를 깎았다는 메이저 음반사들의 주장과 직접 맞닿은 자료라는 이유다. 이후 범위를 좁힌 August판이 뒤따랐다."
           },
           {
             "t": "p",
-            "x": "오디오 예시는 데모 페이지에 있고, 저자들은 논문 게재 시 오픈소스 코드와 체크포인트를 공개할 계획이다. 논문은 ICASSP 2027에 제출됐다."
+            "x": "Suno 측 변호인은 Suno가 약 $5,000를 부담하는 조건으로 MLC가 수 테라바이트 분량의 데이터를 넘기기로 했다가 입장을 뒤집었다고 말한다. MLC는 해당 DSPs의 반대를 이유로 들었다. Suno와 Udio의 변호사 Chris Campbell은 데이터를 원고 레이블로 한정하자는 안을 거부하면서 그렇게 하면 “would defeat a central purpose of the request”(요청의 핵심 목적이 무너진다)고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Piano2Pop turns piano demos\ninto full pop productions",
-          "body": "Piano2Pop conditions a pretrained music model on piano MIDI to expand a bare demo into an instrumental pop track.",
-          "mini_headline": "Piano demos become pop tracks",
+          "headline": "Suno and the MLC clash\nover streaming data",
+          "body": "Suno's subpoena fight with the MLC has boiled over as it demands years of DSP-specific streaming data.",
+          "mini_headline": "Suno's MLC subpoena fight",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "A pop song often begins as a demo: a guitar sketch, a topline sung over an existing track, or a piano accompaniment. Turning this sketch into a full production requires the producer to infer its musical intent and realize it through drums, instrumentation, arrangement, and mixing. Researchers at National Taiwan University call this task Piano2Pop: given a piano MIDI demo, generate a complete instrumental pop production that is coherent, idiomatic to pop, and faithful to the demo's musical intent."
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.31510v1/hero.png",
-                "cap": "Figure 1: Overview of Piano2Pop."
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2024/01/the-mlc-announces-audits-major-dsps-feat.jpeg"
               },
               {
                 "t": "p",
-                "x": "Their pseudo-supervised approach conditions a pretrained flow-matching model on piano rolls without aligned piano-pop supervision. It trains on synthetic piano-instrumental pairs derived from pop recordings, comparing pair-free transcription, including function-selective (FST) and register-density (RDA) augmentations, with a pair-supervised piano-cover generator as pseudo-demo sources."
+                "x": "Facing infringement complaints from UMG, Sony Music and others, Suno is now demanding a trove of streaming-data documents from the Mechanical Licensing Collective. The subpoena dispute, heating up throughout 2026, boiled over last week when Suno filed a motion to compel the MLC's compliance; Udio filed a separate motion over a \"substantially identical\" subpoena."
               },
               {
                 "t": "p",
-                "x": "On 476 testing real-world piano-cover/pop pairs, the pair-supervised approach achieves the best Frechet Audio Distance, Accompaniment Prompt Adherence, and spectral shape on real-piano inputs, while FST mitigates piano-heavy outputs in pair-free training. All fine-tuned systems significantly outperform the zero-shot baselines, MuseControlLite and ACE-Step cover."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.31510v1/instrument_energy_differences.svg",
-                "cap": "Figure 2: Difference from GT in mean instrument-energy share under OOD real-piano conditioning."
+                "x": "Suno's April subpoena sought label-by-label monthly performance data from 2021 to present for DSPs including Amazon, Apple, Deezer, Spotify, TikTok and YouTube, arguing it is directly relevant to the majors' claim that AI-generated music harmed their market share and royalties. A narrowed August version followed."
               },
               {
                 "t": "p",
-                "x": "Audio examples are on the demo page, and the authors plan to release open-source code and checkpoints upon paper publication. The paper has been submitted to ICASSP 2027."
+                "x": "Suno's counsel says the MLC agreed to provide several terabytes of data, with Suno paying roughly $5,000, before reversing course; the MLC cited objections from affected DSPs. Suno and Udio's lawyer Chris Campbell rejected limiting the data to the plaintiff labels, saying it \"would defeat a central purpose of the request.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "Piano2Pop, 피아노\n데모를 완성된 팝으로",
-          "body": "Piano2Pop은 피아노 MIDI로 사전학습 모델을 이끌어 팝 연주곡을 만든다.",
-          "mini_headline": "피아노 데모가 팝 트랙으로",
+          "headline": "Suno와 MLC,\n스트리밍 데이터로 충돌",
+          "body": "Suno가 소환장으로 수년 치 DSP-specific 데이터를 MLC에 요구했다.",
+          "mini_headline": "Suno·MLC 소환장 공방",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "팝송은 흔히 데모에서 시작한다. 기타 스케치일 수도, 기존 트랙 위에 부른 탑라인일 수도, 피아노 반주일 수도 있다. 이 스케치를 완성된 프로덕션으로 만드는 건 프로듀서 몫이다. 음악적 의도를 읽어 내고 드럼, 악기 구성, 편곡, 믹싱으로 살려야 한다. 국립대만대학교(National Taiwan University) 연구진은 이 과제를 Piano2Pop이라 부른다. 피아노 MIDI 데모를 받아 일관성 있고 팝 어법에 맞으며 데모의 음악적 의도에 충실한 완전한 연주곡 팝 프로덕션을 생성하는 과제다."
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.31510v1/hero.png",
-                "cap": "그림 1: Piano2Pop 개요."
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2024/01/the-mlc-announces-audits-major-dsps-feat.jpeg"
               },
               {
                 "t": "p",
-                "x": "연구진의 의사 지도(pseudo-supervised) 방식은 정렬된 피아노-팝 지도 데이터 없이 사전학습된 flow-matching 모델을 피아노 롤에 조건화한다. 학습에는 팝 녹음에서 추출한 합성 피아노-연주곡 쌍을 쓴다. 의사 데모 소스로는 기능 선택(FST)과 음역 밀도(RDA) 증강을 포함한 쌍 없는(pair-free) 채보 방식과 쌍 지도(pair-supervised) 피아노 커버 생성기를 비교했다."
+                "x": "UMG, Sony Music 등에서 저작권 침해 소송을 당한 Suno가 이번에는 Mechanical Licensing Collective에 방대한 스트리밍 데이터 문서를 요구한다. 2026년 내내 달아오른 소환장 분쟁은 지난주 Suno가 MLC의 이행을 강제해 달라는 신청을 내면서 터졌다. Udio도 “substantially identical”(사실상 동일한) 소환장을 두고 별도 신청을 냈다."
               },
               {
                 "t": "p",
-                "x": "실제 피아노 커버/팝 쌍 476개로 테스트하자 실제 피아노 입력에서는 쌍 지도 방식이 Frechet Audio Distance, Accompaniment Prompt Adherence, 스펙트럼 형태 모두에서 가장 좋은 성적을 냈다. FST는 쌍 없는 학습에서 피아노가 과하게 두드러지는 출력을 줄였다. 미세 조정한 모든 시스템이 제로샷 베이스라인인 MuseControlLite와 ACE-Step cover를 크게 앞섰다."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.31510v1/instrument_energy_differences.svg",
-                "cap": "그림 2: OOD 실제 피아노 조건에서 평균 악기 에너지 비중의 GT 대비 차이."
+                "x": "Suno가 April에 낸 소환장은 Amazon, Apple, Deezer, Spotify, TikTok, YouTube 등 DSPs의 2021년부터 현재까지 레이블별 월간 실적 데이터를 요구했다. AI-generated 음악이 시장 점유율과 로열티를 깎았다는 메이저 음반사들의 주장과 직접 맞닿은 자료라는 이유다. 이후 범위를 좁힌 August판이 뒤따랐다."
               },
               {
                 "t": "p",
-                "x": "오디오 예시는 데모 페이지에 있고, 저자들은 논문 게재 시 오픈소스 코드와 체크포인트를 공개할 계획이다. 논문은 ICASSP 2027에 제출됐다."
+                "x": "Suno 측 변호인은 Suno가 약 $5,000를 부담하는 조건으로 MLC가 수 테라바이트 분량의 데이터를 넘기기로 했다가 입장을 뒤집었다고 말한다. MLC는 해당 DSPs의 반대를 이유로 들었다. Suno와 Udio의 변호사 Chris Campbell은 데이터를 원고 레이블로 한정하자는 안을 거부하면서 그렇게 하면 “would defeat a central purpose of the request”(요청의 핵심 목적이 무너진다)고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Piano2Popが\nピアノデモを本格ポップに",
-          "body": "Piano2PopはピアノMIDIで事前学習済みモデルを条件付け、デモをポップ曲に広げる。",
-          "mini_headline": "ピアノデモがポップ曲に",
+          "headline": "SunoとMLC、\nストリーミングデータで衝突",
+          "body": "Sunoは召喚状で数年分のDSP-specificな配信データをMLCに求めている。",
+          "mini_headline": "SunoとMLCの召喚状争い",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "ポップソングはしばしばデモから始まる。ギターのスケッチ、既存トラックに乗せて歌ったトップライン、あるいはピアノ伴奏だ。このスケッチを完成したプロダクションにするには、プロデューサーがその音楽的意図を読み取り、ドラム、楽器編成、アレンジ、ミキシングで形にする必要がある。国立台湾大学(National Taiwan University)の研究者はこの課題をPiano2Popと呼ぶ。ピアノMIDIのデモを入力に、まとまりがあり、ポップらしく、デモの音楽的意図に忠実な完全なインストのポッププロダクションを生成するというものだ。"
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.31510v1/hero.png",
-                "cap": "図1: Piano2Popの概要。"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2024/01/the-mlc-announces-audits-major-dsps-feat.jpeg"
               },
               {
                 "t": "p",
-                "x": "彼らの疑似教師あり手法は、整列したピアノとポップの教師データなしに、事前学習済みのflow-matchingモデルをピアノロールで条件付ける。ポップ録音から作った合成ピアノ・インスト対で学習し、疑似デモのソースとして、機能選択(FST)と音域密度(RDA)の拡張を含むペア不要の採譜と、ペア教師ありのピアノカバー生成器を比較している。"
+                "x": "UMGやSony Musicなどから侵害の訴えを受けているSunoは、いまMechanical Licensing Collectiveに大量のストリーミングデータ文書の提出を求めている。2026年を通じて過熱してきた召喚状をめぐる争いは先週、SunoがMLCに応諾を強制するよう求める申し立てを行ったことで噴き出した。Udioも「substantially identical」（実質的に同一）の召喚状をめぐり別の申し立てを行った。"
               },
               {
                 "t": "p",
-                "x": "実世界のピアノカバー/ポップ対476組でのテストでは、実ピアノ入力に対してペア教師あり手法がFrechet Audio Distance、Accompaniment Prompt Adherence、スペクトル形状で最良の結果を出し、FSTはペア不要の学習でピアノが目立ちすぎる出力を抑えた。ファインチューニングしたすべてのシステムが、ゼロショットのベースラインであるMuseControlLiteとACE-Step coverを大きく上回った。"
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.31510v1/instrument_energy_differences.svg",
-                "cap": "図2: OODの実ピアノ条件下での平均楽器エネルギー比率のGTとの差。"
+                "x": "SunoがAprilに出した召喚状は、Amazon、Apple、Deezer、Spotify、TikTok、YouTubeなどのDSPsについて、2021年から現在までのレーベル別・月次のパフォーマンスデータを求めた。AI-generated（AI生成）音楽が市場シェアとロイヤルティを損なったというメジャー各社の主張に直接関係するというのが理由だ。その後、範囲を絞ったAugust版が続いた。"
               },
               {
                 "t": "p",
-                "x": "音声例はデモページで公開されており、著者らは論文の出版時にオープンソースのコードとチェックポイントを公開する予定だ。論文はICASSP 2027に投稿されている。"
+                "x": "Suno側の弁護士によると、MLCはSunoが約$5,000を負担する形で数テラバイトのデータ提供にいったん同意したが、その後方針を翻した。MLCは対象となるDSPsからの異議を理由に挙げた。SunoとUdioの代理人Chris Campbellは、データを原告レーベルに限定する案を退け、それでは「would defeat a central purpose of the request」（請求の中心的な目的が損なわれる）と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Piano2Pop把钢琴小样\n变成完整流行编曲",
-          "body": "Piano2Pop以钢琴MIDI调控预训练音乐模型，把简单小样扩展为器乐流行曲。",
-          "mini_headline": "钢琴小样变流行曲",
+          "headline": "Suno与MLC\n因流媒体数据交锋",
+          "body": "Suno向MLC索要多年DSP-specific流媒体数据，双方的传票之争激化。",
+          "mini_headline": "Suno与MLC的传票之争",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "一首流行歌往往始于一段小样：一段吉他草稿、在现有伴奏上唱出的主旋律，或一段钢琴伴奏。要把草稿变成完整作品，制作人需要推断其音乐意图，并通过鼓、配器、编曲和混音加以实现。台湾大学（National Taiwan University）的研究人员将这一任务称为Piano2Pop：给定一段钢琴MIDI小样，生成一首连贯、符合流行乐语汇、并忠于小样音乐意图的完整器乐流行作品。"
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.31510v1/hero.png",
-                "cap": "图1：Piano2Pop概览。"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2024/01/the-mlc-announces-audits-major-dsps-feat.jpeg"
               },
               {
                 "t": "p",
-                "x": "他们的伪监督方法在没有对齐的钢琴-流行配对监督的情况下，以钢琴卷帘为条件来调控预训练的flow-matching模型。模型在由流行录音生成的合成钢琴-器乐配对上训练，并比较两类伪小样来源：一是无配对的扒谱方法，包括功能选择（FST）和音区密度（RDA）增强；二是有配对监督的钢琴翻弹生成器。"
+                "x": "面对UMG、Sony Music等方的侵权诉讼，Suno如今要求Mechanical Licensing Collective提供大量流媒体数据文件。这场在2026年持续升温的传票之争于上周激化：Suno提出动议，要求强制MLC配合；Udio也就一份“substantially identical”（实质相同）的传票另行提出动议。"
               },
               {
                 "t": "p",
-                "x": "在476组真实钢琴翻弹/流行配对的测试中，对真实钢琴输入，有配对监督的方法在Frechet Audio Distance、Accompaniment Prompt Adherence和频谱形状上均取得最佳结果，而FST缓解了无配对训练中钢琴过重的输出。所有微调系统都显著优于零样本基线MuseControlLite和ACE-Step cover。"
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.31510v1/instrument_energy_differences.svg",
-                "cap": "图2：在OOD真实钢琴条件下，平均乐器能量占比与GT的差异。"
+                "x": "Suno在April发出的传票要求获取Amazon、Apple、Deezer、Spotify、TikTok和YouTube等DSPs自2021年至今按厂牌划分的月度表现数据，理由是这与各大唱片公司关于AI-generated（AI生成）音乐损害其市场份额和版税的主张直接相关。此后又有一份范围收窄的August版本。"
               },
               {
                 "t": "p",
-                "x": "音频示例可在演示页面收听，作者计划在论文发表时开源代码和检查点。该论文已投稿ICASSP 2027。"
+                "x": "Suno的律师称，MLC曾同意提供数太字节的数据，由Suno支付约$5,000，随后却改变立场；MLC援引了相关DSPs的反对意见。Suno和Udio的律师Chris Campbell拒绝将数据限定于原告厂牌，称这样“would defeat a central purpose of the request”（将使请求的核心目的落空）。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Piano2Pop convierte demos de\npiano en producciones pop",
-          "body": "Piano2Pop guía un modelo musical preentrenado con MIDI de piano para convertir una demo en pop instrumental.",
-          "mini_headline": "Demos de piano que se vuelven temas pop",
+          "headline": "Suno y la MLC chocan\npor datos de streaming",
+          "body": "La disputa de Suno con la MLC por una citación se agrava al exigir años de datos de streaming DSP-specific.",
+          "mini_headline": "La citación de Suno a la MLC",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Una canción pop suele empezar como una demo: un boceto de guitarra, una topline cantada sobre una pista existente o un acompañamiento de piano. Convertir ese boceto en una producción completa exige que el productor infiera su intención musical y la plasme mediante batería, instrumentación, arreglo y mezcla. Investigadores de la National Taiwan University llaman a esta tarea Piano2Pop: a partir de una demo de piano en MIDI, generar una producción pop instrumental completa que sea coherente, propia del pop y fiel a la intención musical de la demo."
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.31510v1/hero.png",
-                "cap": "Figura 1: Panorama de Piano2Pop."
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2024/01/the-mlc-announces-audits-major-dsps-feat.jpeg"
               },
               {
                 "t": "p",
-                "x": "Su enfoque pseudosupervisado condiciona un modelo de flow-matching preentrenado con piano rolls, sin supervisión alineada piano-pop. Se entrena con pares sintéticos de piano e instrumental derivados de grabaciones pop, y compara como fuentes de pseudodemos la transcripción sin pares (pair-free), con aumentaciones de selección funcional (FST) y de densidad de registro (RDA), frente a un generador de covers de piano supervisado con pares."
+                "x": "Ante las demandas por infracción de UMG, Sony Music y otros, Suno exige ahora al Mechanical Licensing Collective un gran volumen de documentos con datos de streaming. La disputa por la citación, que se ha intensificado a lo largo de 2026, estalló la semana pasada cuando Suno presentó una moción para obligar a la MLC a cumplir; Udio presentó otra moción por una citación “substantially identical” (sustancialmente idéntica)."
               },
               {
                 "t": "p",
-                "x": "En 476 pares reales de cover de piano/pop de prueba, el enfoque supervisado con pares logra los mejores resultados en Frechet Audio Distance, Accompaniment Prompt Adherence y forma espectral con entradas de piano real, mientras que FST reduce las salidas dominadas por el piano en el entrenamiento sin pares. Todos los sistemas ajustados superan de forma significativa a las referencias zero-shot, MuseControlLite y ACE-Step cover."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.31510v1/instrument_energy_differences.svg",
-                "cap": "Figura 2: Diferencia respecto a GT en la proporción media de energía por instrumento bajo condicionamiento OOD con piano real."
+                "x": "La citación de abril de Suno pedía datos mensuales de rendimiento, sello por sello, desde 2021 hasta hoy, de DSPs como Amazon, Apple, Deezer, Spotify, TikTok y YouTube, con el argumento de que son directamente relevantes para la tesis de las majors de que la música generada por AI (AI-generated) dañó su cuota de mercado y sus regalías. Después llegó una versión más acotada en agosto."
               },
               {
                 "t": "p",
-                "x": "Hay ejemplos de audio en la página de demostración, y los autores planean publicar el código abierto y los checkpoints cuando se publique el artículo. El artículo se ha enviado a ICASSP 2027."
+                "x": "El abogado de Suno afirma que la MLC aceptó entregar varios terabytes de datos, por los que Suno pagaría unos $5,000, antes de dar marcha atrás; la MLC alegó objeciones de las DSPs afectadas. Chris Campbell, abogado de Suno y Udio, rechazó limitar los datos a los sellos demandantes y dijo que eso “would defeat a central purpose of the request” (frustraría un propósito central de la solicitud)."
               }
             ]
           }
@@ -1487,145 +985,337 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Piano2Pop, 피아노\n데모를 완성된 팝으로",
-          "body": "Piano2Pop은 피아노 MIDI로 사전학습 모델을 이끌어 팝 연주곡을 만든다.",
-          "mini_headline": "피아노 데모가 팝 트랙으로",
+          "headline": "Suno와 MLC,\n스트리밍 데이터로 충돌",
+          "body": "Suno가 소환장으로 수년 치 DSP-specific 데이터를 MLC에 요구했다.",
+          "mini_headline": "Suno·MLC 소환장 공방",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "팝송은 흔히 데모에서 시작한다. 기타 스케치일 수도, 기존 트랙 위에 부른 탑라인일 수도, 피아노 반주일 수도 있다. 이 스케치를 완성된 프로덕션으로 바꾸려면 프로듀서가 음악적 의도를 읽어 내고 드럼, 악기 구성, 편곡, 믹싱으로 구현해야 한다. 국립대만대학교(National Taiwan University) 연구진은 이 과제를 Piano2Pop이라 부른다. 피아노 MIDI 데모가 주어지면, 일관성 있고 팝 어법에 맞으며 데모의 음악적 의도에 충실한 완전한 연주곡 팝 프로덕션을 생성하는 과제다."
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.31510v1/hero.png",
-                "cap": "그림 1: Piano2Pop 개요."
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2024/01/the-mlc-announces-audits-major-dsps-feat.jpeg"
               },
               {
                 "t": "p",
-                "x": "연구진의 의사 지도(pseudo-supervised) 방식은 정렬된 피아노-팝 지도 데이터 없이, 사전학습된 flow-matching 모델을 피아노 롤에 조건화한다. 팝 녹음에서 추출한 합성 피아노-연주곡 쌍으로 학습하며, 의사 데모 소스로서 기능 선택(FST)과 음역 밀도(RDA) 증강을 포함한 쌍 없는(pair-free) 채보 방식과 쌍 지도(pair-supervised) 피아노 커버 생성기를 비교한다."
+                "x": "UMG, Sony Music 등에서 저작권 침해 소송을 당한 Suno가 이번에는 Mechanical Licensing Collective에 방대한 스트리밍 데이터 문서를 요구하고 있다. 2026년 내내 달아오른 소환장 분쟁은 지난주 Suno가 MLC의 이행을 강제해 달라는 신청을 내면서 터졌다. Udio도 “substantially identical”(사실상 동일한) 소환장을 두고 별도 신청을 냈다."
               },
               {
                 "t": "p",
-                "x": "실제 피아노 커버/팝 쌍 476개로 테스트한 결과, 실제 피아노 입력에서 쌍 지도 방식이 Frechet Audio Distance, Accompaniment Prompt Adherence, 스펙트럼 형태 모두에서 가장 좋은 성적을 냈고, FST는 쌍 없는 학습에서 피아노가 과하게 두드러지는 출력을 줄였다. 미세 조정한 모든 시스템이 제로샷 베이스라인인 MuseControlLite와 ACE-Step cover를 크게 앞섰다."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.31510v1/instrument_energy_differences.svg",
-                "cap": "그림 2: OOD 실제 피아노 조건에서 평균 악기 에너지 비중의 GT 대비 차이."
+                "x": "Suno가 April에 낸 소환장은 Amazon, Apple, Deezer, Spotify, TikTok, YouTube 등 DSPs의 2021년부터 현재까지 레이블별 월간 실적 데이터를 요구했다. AI-generated 음악이 시장 점유율과 로열티를 깎았다는 메이저 음반사들의 주장과 직접 관련된 자료라는 이유다. 이후 범위를 좁힌 August판이 뒤따랐다."
               },
               {
                 "t": "p",
-                "x": "오디오 예시는 데모 페이지에서 들을 수 있으며, 저자들은 논문 게재 시 오픈소스 코드와 체크포인트를 공개할 계획이다. 논문은 ICASSP 2027에 제출됐다."
+                "x": "Suno 측 변호인은 MLC가 Suno의 약 $5,000 부담을 조건으로 수 테라바이트 분량의 데이터를 넘기기로 했다가 입장을 뒤집었다고 말한다. MLC는 해당 DSPs의 반대를 이유로 들었다. Suno와 Udio의 변호사 Chris Campbell은 데이터를 원고 레이블로 한정하자는 안을 거부하며, 그렇게 하면 “would defeat a central purpose of the request”(요청의 핵심 목적이 무너진다)고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Piano2Popが\nピアノデモを本格ポップに",
-          "body": "Piano2PopはピアノMIDIで事前学習済みモデルを条件付け、デモをポップ曲に広げる。",
-          "mini_headline": "ピアノデモがポップ曲に",
+          "headline": "SunoとMLC、\nストリーミングデータで衝突",
+          "body": "Sunoは召喚状で数年分のDSP-specificな配信データをMLCに求めている。",
+          "mini_headline": "SunoとMLCの召喚状争い",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "ポップソングはしばしばデモから始まる。ギターのスケッチ、既存トラックに乗せて歌ったトップライン、あるいはピアノ伴奏だ。このスケッチを完成したプロダクションにするには、プロデューサーがその音楽的意図を読み取り、ドラム、楽器編成、アレンジ、ミキシングで形にする必要がある。国立台湾大学(National Taiwan University)の研究者はこの課題をPiano2Popと呼ぶ。ピアノMIDIのデモを入力に、まとまりがあり、ポップらしく、デモの音楽的意図に忠実な完全なインストのポッププロダクションを生成するというものだ。"
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.31510v1/hero.png",
-                "cap": "図1: Piano2Popの概要。"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2024/01/the-mlc-announces-audits-major-dsps-feat.jpeg"
               },
               {
                 "t": "p",
-                "x": "彼らの疑似教師あり手法は、整列したピアノとポップの教師データなしに、事前学習済みのflow-matchingモデルをピアノロールで条件付ける。ポップ録音から作った合成ピアノ・インスト対で学習し、疑似デモのソースとして、機能選択(FST)と音域密度(RDA)の拡張を含むペア不要の採譜と、ペア教師ありのピアノカバー生成器を比較している。"
+                "x": "UMGやSony Musicなどから侵害の訴えを受けているSunoは、いまMechanical Licensing Collectiveに大量のストリーミングデータ文書の提出を求めている。2026年を通じて過熱してきた召喚状をめぐる争いは先週、SunoがMLCに応諾を強制するよう求める申し立てを行ったことで噴き出した。Udioも「substantially identical」（実質的に同一）の召喚状をめぐり別の申し立てを行った。"
               },
               {
                 "t": "p",
-                "x": "実世界のピアノカバー/ポップ対476組でのテストでは、実ピアノ入力に対してペア教師あり手法がFrechet Audio Distance、Accompaniment Prompt Adherence、スペクトル形状で最良の結果を出し、FSTはペア不要の学習でピアノが目立ちすぎる出力を抑えた。ファインチューニングしたすべてのシステムが、ゼロショットのベースラインであるMuseControlLiteとACE-Step coverを大きく上回った。"
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.31510v1/instrument_energy_differences.svg",
-                "cap": "図2: OODの実ピアノ条件下での平均楽器エネルギー比率のGTとの差。"
+                "x": "SunoがAprilに出した召喚状は、Amazon、Apple、Deezer、Spotify、TikTok、YouTubeなどのDSPsについて、2021年から現在までのレーベル別・月次のパフォーマンスデータを求めた。AI-generated（AI生成）音楽が市場シェアとロイヤルティを損なったというメジャー各社の主張に直接関係するというのが理由だ。その後、範囲を絞ったAugust版が続いた。"
               },
               {
                 "t": "p",
-                "x": "音声例はデモページで公開されており、著者らは論文の出版時にオープンソースのコードとチェックポイントを公開する予定だ。論文はICASSP 2027に投稿されている。"
+                "x": "Suno側の弁護士によると、MLCはSunoが約$5,000を負担する形で数テラバイトのデータ提供にいったん同意したが、その後方針を翻した。MLCは対象となるDSPsからの異議を理由に挙げた。SunoとUdioの代理人Chris Campbellは、データを原告レーベルに限定する案を退け、それでは「would defeat a central purpose of the request」（請求の中心的な目的が損なわれる）と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Piano2Pop把钢琴小样\n变成完整流行编曲",
-          "body": "Piano2Pop以钢琴MIDI调控预训练音乐模型，把简单小样扩展为器乐流行曲。",
-          "mini_headline": "钢琴小样变流行曲",
+          "headline": "Suno与MLC\n因流媒体数据交锋",
+          "body": "Suno向MLC索要多年DSP-specific流媒体数据，双方的传票之争激化。",
+          "mini_headline": "Suno与MLC的传票之争",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "一首流行歌往往始于一段小样：一段吉他草稿、在现有伴奏上唱出的主旋律，或一段钢琴伴奏。要把草稿变成完整作品，制作人需要推断其音乐意图，并通过鼓、配器、编曲和混音加以实现。台湾大学（National Taiwan University）的研究人员将这一任务称为Piano2Pop：给定一段钢琴MIDI小样，生成一首连贯、符合流行乐语汇、并忠于小样音乐意图的完整器乐流行作品。"
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.31510v1/hero.png",
-                "cap": "图1：Piano2Pop概览。"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2024/01/the-mlc-announces-audits-major-dsps-feat.jpeg"
               },
               {
                 "t": "p",
-                "x": "他们的伪监督方法在没有对齐的钢琴-流行配对监督的情况下，以钢琴卷帘为条件来调控预训练的flow-matching模型。模型在由流行录音生成的合成钢琴-器乐配对上训练，并比较两类伪小样来源：一是无配对的扒谱方法，包括功能选择（FST）和音区密度（RDA）增强；二是有配对监督的钢琴翻弹生成器。"
+                "x": "面对UMG、Sony Music等方的侵权诉讼，Suno如今要求Mechanical Licensing Collective提供大量流媒体数据文件。这场在2026年持续升温的传票之争于上周激化：Suno提出动议，要求强制MLC配合；Udio也就一份“substantially identical”（实质相同）的传票另行提出动议。"
               },
               {
                 "t": "p",
-                "x": "在476组真实钢琴翻弹/流行配对的测试中，对真实钢琴输入，有配对监督的方法在Frechet Audio Distance、Accompaniment Prompt Adherence和频谱形状上均取得最佳结果，而FST缓解了无配对训练中钢琴过重的输出。所有微调系统都显著优于零样本基线MuseControlLite和ACE-Step cover。"
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.31510v1/instrument_energy_differences.svg",
-                "cap": "图2：在OOD真实钢琴条件下，平均乐器能量占比与GT的差异。"
+                "x": "Suno在April发出的传票要求获取Amazon、Apple、Deezer、Spotify、TikTok和YouTube等DSPs自2021年至今按厂牌划分的月度表现数据，理由是这与各大唱片公司关于AI-generated（AI生成）音乐损害其市场份额和版税的主张直接相关。此后又有一份范围收窄的August版本。"
               },
               {
                 "t": "p",
-                "x": "音频示例可在演示页面收听，作者计划在论文发表时开源代码和检查点。该论文已投稿ICASSP 2027。"
+                "x": "Suno的律师称，MLC曾同意提供数太字节的数据，由Suno支付约$5,000，随后却改变立场；MLC援引了相关DSPs的反对意见。Suno和Udio的律师Chris Campbell拒绝将数据限定于原告厂牌，称这样“would defeat a central purpose of the request”（将使请求的核心目的落空）。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Piano2Pop convierte demos de\npiano en producciones pop",
-          "body": "Piano2Pop guía un modelo musical preentrenado con MIDI de piano para convertir una demo en pop instrumental.",
-          "mini_headline": "Demos de piano que se vuelven temas pop",
+          "headline": "Suno y la MLC chocan\npor datos de streaming",
+          "body": "La disputa de Suno con la MLC por una citación se agrava al exigir años de datos de streaming DSP-specific.",
+          "mini_headline": "La citación de Suno a la MLC",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Una canción pop suele empezar como una demo: un boceto de guitarra, una topline cantada sobre una pista existente o un acompañamiento de piano. Convertir ese boceto en una producción completa exige que el productor infiera su intención musical y la plasme mediante batería, instrumentación, arreglo y mezcla. Investigadores de la National Taiwan University llaman a esta tarea Piano2Pop: a partir de una demo de piano en MIDI, generar una producción pop instrumental completa que sea coherente, propia del pop y fiel a la intención musical de la demo."
-              },
-              {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.31510v1/hero.png",
-                "cap": "Figura 1: Panorama de Piano2Pop."
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2024/01/the-mlc-announces-audits-major-dsps-feat.jpeg"
               },
               {
                 "t": "p",
-                "x": "Su enfoque pseudosupervisado condiciona un modelo de flow-matching preentrenado con piano rolls, sin supervisión alineada piano-pop. Se entrena con pares sintéticos de piano e instrumental derivados de grabaciones pop, y compara como fuentes de pseudodemos la transcripción sin pares (pair-free), con aumentaciones de selección funcional (FST) y de densidad de registro (RDA), frente a un generador de covers de piano supervisado con pares."
+                "x": "Ante las demandas por infracción de UMG, Sony Music y otros, Suno exige ahora al Mechanical Licensing Collective un gran volumen de documentos con datos de streaming. La disputa por la citación, que se ha intensificado a lo largo de 2026, estalló la semana pasada cuando Suno presentó una moción para obligar a la MLC a cumplir; Udio presentó otra moción por una citación “substantially identical” (sustancialmente idéntica)."
               },
               {
                 "t": "p",
-                "x": "En 476 pares reales de cover de piano/pop de prueba, el enfoque supervisado con pares logra los mejores resultados en Frechet Audio Distance, Accompaniment Prompt Adherence y forma espectral con entradas de piano real, mientras que FST reduce las salidas dominadas por el piano en el entrenamiento sin pares. Todos los sistemas ajustados superan de forma significativa a las referencias zero-shot, MuseControlLite y ACE-Step cover."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.31510v1/instrument_energy_differences.svg",
-                "cap": "Figura 2: Diferencia respecto a GT en la proporción media de energía por instrumento bajo condicionamiento OOD con piano real."
+                "x": "La citación de abril de Suno pedía datos mensuales de rendimiento, sello por sello, desde 2021 hasta hoy, de DSPs como Amazon, Apple, Deezer, Spotify, TikTok y YouTube, con el argumento de que son directamente relevantes para la tesis de las majors de que la música generada por AI (AI-generated) dañó su cuota de mercado y sus regalías. Después llegó una versión más acotada en agosto."
               },
               {
                 "t": "p",
-                "x": "Hay ejemplos de audio en la página de demostración, y los autores planean publicar el código abierto y los checkpoints cuando se publique el artículo. El artículo se ha enviado a ICASSP 2027."
+                "x": "El abogado de Suno afirma que la MLC aceptó entregar varios terabytes de datos, por los que Suno pagaría unos $5,000, antes de dar marcha atrás; la MLC alegó objeciones de las DSPs afectadas. Chris Campbell, abogado de Suno y Udio, rechazó limitar los datos a los sellos demandantes y dijo que eso “would defeat a central purpose of the request” (frustraría un propósito central de la solicitud)."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "music-mqascore-arxiv",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "MQAScore가 찾는\n음악 생성의 빈틈",
+      "body": "MQAScore는 대형 오디오 언어 모델로 프롬프트 개념별 누락을 짚는다.",
+      "mini_headline": "음악 프롬프트 채점",
+      "tool": "Music",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.31083",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "Text-to-music(텍스트-음악) 정합도는 보통 텍스트와 오디오 임베딩의 전역 유사도로 매긴다. 이렇게 하면 설명한 속성이 모두 숫자 하나로 뭉뚱그려져 무엇이 빠졌는지 보이지 않는다."
+          },
+          {
+            "t": "p",
+            "x": "MQAScore는 대신 장르, 악기, 분위기/테마, 보컬, 용도라는 다섯 가지 클립 단위 차원을 따라 원자 단위의 음악 개념을 하나씩 검증한다. 점수로는 이진 질문에 대형 오디오 언어 모델이 ‘예’라고 답할 확률을 쓴다."
+          },
+          {
+            "t": "p",
+            "x": "연구진은 평가 도구의 신뢰도를 시험하려고 존재/부재 주석과 LLM-guided(LLM 유도) 개념 치환으로 검증 레이블을 만들고, Sensitivity-Invariance Ratio를 제안했다. 실험 결과 개념 단위 채점은 질의응답 기반과 유사도 기반 평가 도구를 모두 개선했다. 결과만 보면 MQAScore는 전역 유사도를 보완하는, 더 믿을 만하고 해석 가능한 지표다. 논문은 ICASSP 2027에 제출됐다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "MQAScore checks what a\ntext-to-music track misses",
+          "body": "MQAScore uses a large audio language model to check each concept in a prompt and flag what the output misses.",
+          "mini_headline": "Scoring music prompts",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Text-to-music alignment is usually scored by the global similarity between text and audio embeddings, which collapses every described attribute into one number and hides which ones are missing."
+              },
+              {
+                "t": "p",
+                "x": "MQAScore instead verifies each atomic musical concept along five clip-level dimensions (genre, instrument, mood/theme, vocal and usage), using the probability that a large audio language model answers yes to a binary question."
+              },
+              {
+                "t": "p",
+                "x": "To test evaluator reliability, the authors build verification labels from presence/absence annotations and LLM-guided concept substitutions, and propose the Sensitivity-Invariance Ratio. Experiments show concept-level scoring improves both question-answering and similarity-based evaluators, making MQAScore a more reliable, interpretable complement to global similarity. The paper is submitted to ICASSP 2027."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "MQAScore가 찾는\n음악 생성의 빈틈",
+          "body": "MQAScore는 대형 오디오 언어 모델로 프롬프트 개념별 누락을 짚는다.",
+          "mini_headline": "음악 프롬프트 채점",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Text-to-music(텍스트-음악) 정합도는 보통 텍스트와 오디오 임베딩의 전역 유사도로 매긴다. 이렇게 하면 설명한 속성이 모두 숫자 하나로 뭉뚱그려져 무엇이 빠졌는지 보이지 않는다."
+              },
+              {
+                "t": "p",
+                "x": "MQAScore는 대신 장르, 악기, 분위기/테마, 보컬, 용도라는 다섯 가지 클립 단위 차원을 따라 원자 단위의 음악 개념을 하나씩 검증한다. 점수로는 이진 질문에 대형 오디오 언어 모델이 ‘예’라고 답할 확률을 쓴다."
+              },
+              {
+                "t": "p",
+                "x": "연구진은 평가 도구의 신뢰도를 시험하려고 존재/부재 주석과 LLM-guided(LLM 유도) 개념 치환으로 검증 레이블을 만들고, Sensitivity-Invariance Ratio를 제안했다. 실험 결과 개념 단위 채점은 질의응답 기반과 유사도 기반 평가 도구를 모두 개선했다. 결과만 보면 MQAScore는 전역 유사도를 보완하는, 더 믿을 만하고 해석 가능한 지표다. 논문은 ICASSP 2027에 제출됐다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "MQAScoreが探る\n音楽生成の取りこぼし",
+          "body": "MQAScoreは大規模音声言語モデルでプロンプトの各概念を確かめ、欠落を示す。",
+          "mini_headline": "音楽プロンプトの採点",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Text-to-music（テキストから音楽）の整合性は通常、テキストと音声の埋め込みの大域的な類似度で評価される。この方法は記述されたすべての属性をひとつの数値にまとめてしまい、どれが欠けているのかが見えなくなる。"
+              },
+              {
+                "t": "p",
+                "x": "MQAScoreは代わりに、ジャンル、楽器、ムード/テーマ、ボーカル、用途という五つのクリップ単位の次元に沿って、原子的な音楽概念を一つずつ検証する。二値の質問に大規模音声言語モデルが「はい」と答える確率を用いる。"
+              },
+              {
+                "t": "p",
+                "x": "評価器の信頼性を検証するため、著者らは存在/不在のアノテーションとLLM-guided（LLM誘導）の概念置換から検証ラベルを構築し、Sensitivity-Invariance Ratioを提案した。実験では、概念単位の採点が質問応答型と類似度型の両方の評価器を改善し、MQAScoreが大域的類似度を補う、より信頼性が高く解釈しやすい指標になることが示された。論文はICASSP 2027に投稿されている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "MQAScore找出\n文生音乐的遗漏",
+          "body": "MQAScore借助大型音频语言模型逐一核对提示词中的概念，指出输出遗漏之处。",
+          "mini_headline": "为音乐提示词打分",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Text-to-music（文生音乐）的对齐程度通常以文本与音频嵌入的全局相似度来衡量，这会把所有描述属性压缩成一个数字，掩盖究竟缺了哪些。"
+              },
+              {
+                "t": "p",
+                "x": "MQAScore则沿着五个片段级维度（流派、乐器、情绪/主题、人声和用途）逐一验证每个原子音乐概念，依据的是大型音频语言模型对二元问题回答“是”的概率。"
+              },
+              {
+                "t": "p",
+                "x": "为检验评估器的可靠性，作者基于存在/缺失标注和LLM-guided（LLM引导）的概念替换构建验证标签，并提出Sensitivity-Invariance Ratio。实验表明，概念级评分同时提升了基于问答和基于相似度的评估器，使MQAScore成为对全局相似度更可靠、更可解释的补充。论文已投稿至ICASSP 2027。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "MQAScore detecta lo que falta\nen una pista de texto a música",
+          "body": "MQAScore usa un gran modelo de lenguaje de audio para verificar cada concepto del prompt y señalar lo que falta.",
+          "mini_headline": "Puntuar prompts musicales",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "La alineación Text-to-music (texto a música) suele medirse con la similitud global entre los embeddings de texto y de audio, lo que reduce todos los atributos descritos a un solo número y oculta cuáles faltan."
+              },
+              {
+                "t": "p",
+                "x": "MQAScore, en cambio, verifica cada concepto musical atómico en cinco dimensiones a nivel de clip (género, instrumento, ambiente/tema, voz y uso), a partir de la probabilidad de que un gran modelo de lenguaje de audio responda sí a una pregunta binaria."
+              },
+              {
+                "t": "p",
+                "x": "Para probar la fiabilidad de los evaluadores, los autores construyen etiquetas de verificación a partir de anotaciones de presencia/ausencia y sustituciones de conceptos LLM-guided (guiadas por un LLM), y proponen el Sensitivity-Invariance Ratio. Los experimentos muestran que la puntuación por concepto mejora tanto a los evaluadores basados en preguntas y respuestas como a los basados en similitud, lo que convierte a MQAScore en un complemento más fiable e interpretable de la similitud global. El artículo se ha enviado a ICASSP 2027."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "MQAScore가 찾는\n음악 생성의 빈틈",
+          "body": "MQAScore는 대형 오디오 언어 모델로 프롬프트 개념별 누락을 짚는다.",
+          "mini_headline": "음악 프롬프트 채점",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Text-to-music(텍스트-음악) 정합도는 보통 텍스트와 오디오 임베딩의 전역 유사도로 매긴다. 이 방식은 설명된 모든 속성을 숫자 하나로 뭉뚱그려 어떤 속성이 빠졌는지 가린다."
+              },
+              {
+                "t": "p",
+                "x": "MQAScore는 대신 장르, 악기, 분위기/테마, 보컬, 용도라는 다섯 가지 클립 단위 차원을 따라 원자 단위의 음악 개념을 하나씩 검증한다. 이진 질문에 대형 오디오 언어 모델이 ‘예’라고 답할 확률을 쓴다."
+              },
+              {
+                "t": "p",
+                "x": "연구진은 평가 도구의 신뢰도를 시험하려고 존재/부재 주석과 LLM-guided(LLM 유도) 개념 치환으로 검증 레이블을 만들고, Sensitivity-Invariance Ratio를 제안했다. 실험 결과 개념 단위 채점은 질의응답 기반과 유사도 기반 평가 도구를 모두 개선했다. MQAScore가 전역 유사도를 보완하는, 더 믿을 만하고 해석 가능한 지표라는 뜻이다. 논문은 ICASSP 2027에 제출됐다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "MQAScoreが探る\n音楽生成の取りこぼし",
+          "body": "MQAScoreは大規模音声言語モデルでプロンプトの各概念を確かめ、欠落を示す。",
+          "mini_headline": "音楽プロンプトの採点",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Text-to-music（テキストから音楽）の整合性は通常、テキストと音声の埋め込みの大域的な類似度で評価される。この方法は記述されたすべての属性をひとつの数値にまとめてしまい、どれが欠けているのかが見えなくなる。"
+              },
+              {
+                "t": "p",
+                "x": "MQAScoreは代わりに、ジャンル、楽器、ムード/テーマ、ボーカル、用途という五つのクリップ単位の次元に沿って、原子的な音楽概念を一つずつ検証する。二値の質問に大規模音声言語モデルが「はい」と答える確率を用いる。"
+              },
+              {
+                "t": "p",
+                "x": "評価器の信頼性を検証するため、著者らは存在/不在のアノテーションとLLM-guided（LLM誘導）の概念置換から検証ラベルを構築し、Sensitivity-Invariance Ratioを提案した。実験では、概念単位の採点が質問応答型と類似度型の両方の評価器を改善し、MQAScoreが大域的類似度を補う、より信頼性が高く解釈しやすい指標になることが示された。論文はICASSP 2027に投稿されている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "MQAScore找出\n文生音乐的遗漏",
+          "body": "MQAScore借助大型音频语言模型逐一核对提示词中的概念，指出输出遗漏之处。",
+          "mini_headline": "为音乐提示词打分",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Text-to-music（文生音乐）的对齐程度通常以文本与音频嵌入的全局相似度来衡量，这会把所有描述属性压缩成一个数字，掩盖究竟缺了哪些。"
+              },
+              {
+                "t": "p",
+                "x": "MQAScore则沿着五个片段级维度（流派、乐器、情绪/主题、人声和用途）逐一验证每个原子音乐概念，依据的是大型音频语言模型对二元问题回答“是”的概率。"
+              },
+              {
+                "t": "p",
+                "x": "为检验评估器的可靠性，作者基于存在/缺失标注和LLM-guided（LLM引导）的概念替换构建验证标签，并提出Sensitivity-Invariance Ratio。实验表明，概念级评分同时提升了基于问答和基于相似度的评估器，使MQAScore成为对全局相似度更可靠、更可解释的补充。论文已投稿至ICASSP 2027。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "MQAScore detecta lo que falta\nen una pista de texto a música",
+          "body": "MQAScore usa un gran modelo de lenguaje de audio para verificar cada concepto del prompt y señalar lo que falta.",
+          "mini_headline": "Puntuar prompts musicales",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "La alineación Text-to-music (texto a música) suele medirse con la similitud global entre los embeddings de texto y de audio, lo que reduce todos los atributos descritos a un solo número y oculta cuáles faltan."
+              },
+              {
+                "t": "p",
+                "x": "MQAScore, en cambio, verifica cada concepto musical atómico en cinco dimensiones a nivel de clip (género, instrumento, ambiente/tema, voz y uso), a partir de la probabilidad de que un gran modelo de lenguaje de audio responda sí a una pregunta binaria."
+              },
+              {
+                "t": "p",
+                "x": "Para probar la fiabilidad de los evaluadores, los autores construyen etiquetas de verificación a partir de anotaciones de presencia/ausencia y sustituciones de conceptos LLM-guided (guiadas por un LLM), y proponen el Sensitivity-Invariance Ratio. Los experimentos muestran que la puntuación por concepto mejora tanto a los evaluadores basados en preguntas y respuestas como a los basados en similitud, lo que convierte a MQAScore en un complemento más fiable e interpretable de la similitud global. El artículo se ha enviado a ICASSP 2027."
               }
             ]
           }

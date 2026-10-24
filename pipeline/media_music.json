@@ -1,32 +1,29 @@
 {
-  "date": "2026-10-24",
-  "section": "music",
-  "media": [
-    {
-      "id": "music-loopcloud8",
-      "type": "video",
-      "src": "pipeline/media/music-loopcloud8.mp4",
-      "poster": "pipeline/media/music-loopcloud8.jpg"
-    },
-    {
-      "id": "music-suno-answer",
-      "type": "image",
-      "src": "pipeline/media/music-suno-answer.jpg"
-    },
-    {
-      "id": "music-youtube-ai-ugc",
-      "type": "image",
-      "src": "pipeline/media/music-youtube-ai-ugc.png"
-    },
-    {
-      "id": "music-mixjudge",
-      "type": "image",
-      "src": "pipeline/media/music-mixjudge.png"
-    },
-    {
-      "id": "music-piano2pop",
-      "type": "image",
-      "src": "pipeline/media/music-piano2pop.png"
-    }
-  ]
+ "media": [
+  {
+   "id": "music-elvis-anthropic",
+   "type": "image",
+   "src": "pipeline/media/music-elvis-anthropic.jpg"
+  },
+  {
+   "id": "music-suno-deathpixie-camp",
+   "type": "video",
+   "src": "pipeline/media/music-suno-deathpixie-camp.mp4",
+   "poster": "pipeline/media/music-suno-deathpixie-camp.jpg"
+  },
+  {
+   "id": "music-mulacover-arxiv",
+   "type": "image",
+   "src": "pipeline/media/music-mulacover-arxiv.png"
+  },
+  {
+   "id": "music-suno-mlc-subpoena",
+   "type": "image",
+   "src": "pipeline/media/music-suno-mlc-subpoena.jpg"
+  },
+  {
+   "id": "music-mqascore-arxiv",
+   "type": "svg"
+  }
+ ]
 }

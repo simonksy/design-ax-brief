@@ -1,31 +1,29 @@
 {
-  "date": "2026-10-24",
-  "section": "books",
-  "media": [
-    {
-      "id": "books-australia-ai-copyright",
-      "type": "svg"
-    },
-    {
-      "id": "books-chakrabarty-dropped",
-      "type": "image",
-      "src": "pipeline/media/books-chakrabarty-dropped.jpg"
-    },
-    {
-      "id": "books-novelcrafter-gemini-argon",
-      "type": "video",
-      "src": "pipeline/media/books-novelcrafter-gemini-argon.mp4",
-      "poster": "pipeline/media/books-novelcrafter-gemini-argon.jpg"
-    },
-    {
-      "id": "books-ai-signal-noise",
-      "type": "image",
-      "src": "pipeline/media/books-ai-signal-noise.jpg"
-    },
-    {
-      "id": "books-daegu-aidt",
-      "type": "image",
-      "src": "pipeline/media/books-daegu-aidt.jpg"
-    }
-  ]
+ "media": [
+  {
+   "id": "books-patrick-white-publishing",
+   "type": "image",
+   "src": "pipeline/media/books-patrick-white-publishing.jpg"
+  },
+  {
+   "id": "books-zlibrary-paper-fake-citation",
+   "type": "image",
+   "src": "pipeline/media/books-zlibrary-paper-fake-citation.png"
+  },
+  {
+   "id": "books-publishers-trust-not-ai-detectors",
+   "type": "image",
+   "src": "pipeline/media/books-publishers-trust-not-ai-detectors.jpg"
+  },
+  {
+   "id": "books-coral-hart-370-ai-books",
+   "type": "image",
+   "src": "pipeline/media/books-coral-hart-370-ai-books.jpg"
+  },
+  {
+   "id": "books-frankfurt-trusted-knowledge",
+   "type": "image",
+   "src": "pipeline/media/books-frankfurt-trusted-knowledge.jpg"
+  }
+ ]
 }

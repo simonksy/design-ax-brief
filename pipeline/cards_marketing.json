@@ -1,215 +1,191 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "section": "marketing",
   "cards": [
     {
-      "id": "marketing-google-gmail-photos-ad-data",
+      "id": "marketing-pennsylvania-ai-ad-labels",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Google 광고에\nGmail·Photos도",
-      "body": "Google 새 약관에선 AI용 Gmail·Photos 공유가 광고로도 이어진다.",
-      "mini_headline": "Gmail·Photos 데이터, 광고에",
+      "headline": "펜실베이니아, 광고에 표시\n‘AI-generated’",
+      "body": "펜실베이니아 주법은 AI-generated 광고에 표시를 요구하나 허점이 많다.",
+      "mini_headline": "펜실베이니아, AI 광고 표시",
       "tool": "Marketing",
       "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
           },
           {
             "t": "p",
-            "x": "Google이 개인정보처리방침을 바꿨다. 개인화 AI 기능을 쓰는 사용자는 앞으로 자기 데이터를 바탕으로 한 타깃 광고를 보게 될 수도 있다. Android Authority가 찾아낸 이번 변경으로 Drive, Gmail, Google Photos 데이터를 개인화 광고에 쓰지 않겠다던 약속에 예외가 생겼다. Google은 10월 16일부터 “이 서비스들의 데이터를 개인화 광고를 지원하는 다른 Google 서비스에서 쓸 수 있도록 선택한 경우는 제외한다”는 문구를 넣었다."
+            "x": "펜실베이니아(Pennsylvania)의 조시 샤피로(Josh Shapiro) 주지사가 목요일 Artificial Intelligence Deceptive Advertising Act(인공지능 기만 광고법)에 서명해 AI-generated(AI 생성) 광고에 고지를 의무화했다. 이 법에 따라 정지 이미지든 영상, 오디오, 텍스트든 “인공지능으로 상당 부분 수정되거나 생성된” 모든 광고는 광고 자체와 같은 형식의 표시를 달아야 한다. multi-billion-dollar(수십억 달러 규모) 기업의 TV 광고는 물론, 식당이 윙 특가를 알리려 빽빽하게 채운 볼품없는 전단에도 똑같이 적용된다."
           },
           {
             "t": "p",
-            "x": "Google의 Personal Intelligence 기능으로 Drive, Gmail, Google Photos를 AI Mode 등 Search 도구에 연결한 사용자라면 이제 그 콘텐츠를 바탕으로 한 타깃 광고를 볼 수 있다."
+            "x": "펜실베이니아는 AI 콘텐츠에 고지를 의무화한 첫 주 가운데 하나다. 광고를 어디서 만들었든 표시를 요구한다는 점도 눈에 띈다. 다른 주에서 만든 광고라도 펜실베이니아에서 방영될 예정이라면 고지 문구가 붙어 나온다."
           },
           {
             "t": "p",
-            "x": "광고주는 Drive, Gmail, Photos 정보나 이름, 이메일 주소 같은 개인 식별 정보는 볼 수 없다. 인종, 성적 지향, 종교, 건강처럼 민감한 범주를 근거로 한 광고도 Google은 내보내지 않는다."
+            "x": "다만 이 법에는 허점이 많다. 우선 무엇이 “상당 부분 수정”에 해당하는지는 주관적이다. “패러디, 풍자, 논평 또는 비평”과 “명백히 허구인” 모든 것은 carve-out(예외)으로 빠진다. 여기서도 “명백히 허구”가 무엇을 뜻하는지 분명하지 않다. 문구상으로는 제품이나 서비스를 두고 “소비자에게 잘못된 인식을 심는 방식으로 합성 콘텐츠를 사용하는” 경우에만 고지가 필요한 것으로 읽힌다. 이 역시 무엇이 “잘못된” 것인지, 그 판단은 누가 내리는지라는 물음을 남긴다."
           },
           {
             "t": "p",
-            "x": "지금 방침에는 이렇게 쓰여 있다. “예를 들어 Search는 광고를 포함한 콘텐츠를 개인화하기 위해, 사용자가 Search에 접근을 허용한 데이터 일부를 처리할 수 있다.”"
-          },
-          {
-            "t": "p",
-            "x": "이게 싫다면 Search의 Personal Intelligence 기능에서 앱 연결을 끊거나 Search Services Personalization 설정 페이지에서 Personalized Recommendations를 아예 끄면 된다."
+            "x": "법안을 발의한 닉 피시오타노(Nick Pisciottano) 주 상원의원 사무실은 논평 요청에 바로 답하지 않았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Google may target ads with\nyour Gmail and Photos data",
-          "body": "Under Google's new terms, sharing Gmail and Photos data for AI recommendations also opens it to personalized ads.",
-          "mini_headline": "Gmail and Photos data for ads",
+          "headline": "Pennsylvania will require\nlabels on AI-generated ads",
+          "body": "Pennsylvania's AI Deceptive Advertising Act will require labels on AI-generated ads, though it leaves many loopholes.",
+          "mini_headline": "Pennsylvania labels AI ads",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "Google has updated its privacy policy in a way that could mean you’ll start seeing targeted ads based on your personal data if you’re using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. As of October 16th, Google has added the line, “unless you choose to make data from these services available to other Google services that support personalized ads.”"
+                "x": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad — whether it’s a still image, video, audio, or text — that “has been significantly modified or generated by artificial intelligence” to include a label in the same format as the ad itself. That applies to TV commercials from multi-billion-dollar companies, as well as restaurants’ ugly, crowded flyers about their wing specials."
               },
               {
                 "t": "p",
-                "x": "That means anyone who has connected their Drive, Gmail, or Google Photos to AI Mode and other Search tools via Google’s Personal Intelligence feature may now see ads targeted on the basis of that content."
+                "x": "Pennsylvania is one of the first states to require disclosures on AI content. And it requires those labels regardless of where an ad was created. So you might see disclosures pop up in commercials in other states if they’re also expected to air in Pennsylvania."
               },
               {
                 "t": "p",
-                "x": "Advertisers don’t get access to your Drive, Gmail, and Photos information or personally identifying details such as your name or email address, and Google won’t show you ads based on sensitive categories like race, sexual orientation, religion, or health."
+                "x": "The law leaves many loopholes, though. For one, what constitutes “significantly modified” is subjective. There is also a carve-out for “parody, satire, commentary or criticism,” as well as anything that is “evidently fictional.” Again, what “evidently fictional” means is unclear. The wording also suggests only content that “uses synthetic content in a manner that creates a false consumer perception” about a product or service would require a disclosure. Again, leaving questions about what qualifies as “false” under the law and who makes those decisions."
               },
               {
                 "t": "p",
-                "x": "The policy now reads: “For example, Search may process some of the data that you allow Search to access to personalize content, including ads.”"
-              },
-              {
-                "t": "p",
-                "x": "To prevent this, you can disconnect apps from Search’s Personal Intelligence features or disable Personalized Recommendations entirely via the Search Services Personalization settings page."
+                "x": "The office of State Senator Nick Pisciottano, who introduced the bill, did not immediately return a request for comment."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Google 광고에\nGmail·Photos도",
-          "body": "Google 새 약관에선 AI용 Gmail·Photos 공유가 광고로도 이어진다.",
-          "mini_headline": "Gmail·Photos 데이터, 광고에",
+          "headline": "펜실베이니아, 광고에 표시\n‘AI-generated’",
+          "body": "펜실베이니아 주법은 AI-generated 광고에 표시를 요구하나 허점이 많다.",
+          "mini_headline": "펜실베이니아, AI 광고 표시",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "Google이 개인정보처리방침을 바꿨다. 개인화 AI 기능을 쓰는 사용자는 앞으로 자기 데이터를 바탕으로 한 타깃 광고를 보게 될 수도 있다. Android Authority가 찾아낸 이번 변경으로 Drive, Gmail, Google Photos 데이터를 개인화 광고에 쓰지 않겠다던 약속에 예외가 생겼다. Google은 10월 16일부터 “이 서비스들의 데이터를 개인화 광고를 지원하는 다른 Google 서비스에서 쓸 수 있도록 선택한 경우는 제외한다”는 문구를 넣었다."
+                "x": "펜실베이니아(Pennsylvania)의 조시 샤피로(Josh Shapiro) 주지사가 목요일 Artificial Intelligence Deceptive Advertising Act(인공지능 기만 광고법)에 서명해 AI-generated(AI 생성) 광고에 고지를 의무화했다. 이 법에 따라 정지 이미지든 영상, 오디오, 텍스트든 “인공지능으로 상당 부분 수정되거나 생성된” 모든 광고는 광고 자체와 같은 형식의 표시를 달아야 한다. multi-billion-dollar(수십억 달러 규모) 기업의 TV 광고는 물론, 식당이 윙 특가를 알리려 빽빽하게 채운 볼품없는 전단에도 똑같이 적용된다."
               },
               {
                 "t": "p",
-                "x": "Google의 Personal Intelligence 기능으로 Drive, Gmail, Google Photos를 AI Mode 등 Search 도구에 연결한 사용자라면 이제 그 콘텐츠를 바탕으로 한 타깃 광고를 볼 수 있다."
+                "x": "펜실베이니아는 AI 콘텐츠에 고지를 의무화한 첫 주 가운데 하나다. 광고를 어디서 만들었든 표시를 요구한다는 점도 눈에 띈다. 다른 주에서 만든 광고라도 펜실베이니아에서 방영될 예정이라면 고지 문구가 붙어 나온다."
               },
               {
                 "t": "p",
-                "x": "광고주는 Drive, Gmail, Photos 정보나 이름, 이메일 주소 같은 개인 식별 정보는 볼 수 없다. 인종, 성적 지향, 종교, 건강처럼 민감한 범주를 근거로 한 광고도 Google은 내보내지 않는다."
+                "x": "다만 이 법에는 허점이 많다. 우선 무엇이 “상당 부분 수정”에 해당하는지는 주관적이다. “패러디, 풍자, 논평 또는 비평”과 “명백히 허구인” 모든 것은 carve-out(예외)으로 빠진다. 여기서도 “명백히 허구”가 무엇을 뜻하는지 분명하지 않다. 문구상으로는 제품이나 서비스를 두고 “소비자에게 잘못된 인식을 심는 방식으로 합성 콘텐츠를 사용하는” 경우에만 고지가 필요한 것으로 읽힌다. 이 역시 무엇이 “잘못된” 것인지, 그 판단은 누가 내리는지라는 물음을 남긴다."
               },
               {
                 "t": "p",
-                "x": "지금 방침에는 이렇게 쓰여 있다. “예를 들어 Search는 광고를 포함한 콘텐츠를 개인화하기 위해, 사용자가 Search에 접근을 허용한 데이터 일부를 처리할 수 있다.”"
-              },
-              {
-                "t": "p",
-                "x": "이게 싫다면 Search의 Personal Intelligence 기능에서 앱 연결을 끊거나 Search Services Personalization 설정 페이지에서 Personalized Recommendations를 아예 끄면 된다."
+                "x": "법안을 발의한 닉 피시오타노(Nick Pisciottano) 주 상원의원 사무실은 논평 요청에 바로 답하지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google、Gmailと\nPhotosで広告配信か",
-          "body": "Google新規約で、AI推薦用に共有したGmailとPhotosが広告にも使われる。",
-          "mini_headline": "GmailとPhotosのデータを広告に",
+          "headline": "ペンシルベニア州が表示義務\nAI-generated広告",
+          "body": "ペンシルベニア州のAI欺瞞広告法はAI-generated広告に表示を課すが抜け穴が多い。",
+          "mini_headline": "ペンシルベニア州、AI広告に表示",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "Googleがプライバシーポリシーを更新した。パーソナライズされたAI機能を使っている場合、個人データに基づくターゲット広告が表示され始める可能性がある。Android Authorityが見つけたこの更新は、Drive、Gmail、Google Photosを個人向け広告に使わないという約束に例外を加えるものだ。Googleは10月16日付で「これらのサービスのデータを、パーソナライズド広告に対応する他のGoogleサービスで利用できるようにすることを選んだ場合を除く」という一文を追加した。"
+                "x": "ペンシルベニア(Pennsylvania)州のジョシュ・シャピロ(Josh Shapiro)知事は木曜日、Artificial Intelligence Deceptive Advertising Act(人工知能欺瞞広告法)に署名し、AI-generated(AI生成)広告への開示を義務づけた。同法は、静止画、動画、音声、テキストを問わず、「人工知能によって大幅に改変または生成された」あらゆる広告に、広告そのものと同じ形式で表示を付けるよう求める。対象はmulti-billion-dollar(数十億ドル規模)企業のTVコマーシャルから、手羽先の特売を告知する飲食店の雑然とした見栄えの悪いチラシにまで及ぶ。"
               },
               {
                 "t": "p",
-                "x": "つまり、GoogleのPersonal Intelligence機能を通じてDrive、Gmail、Google PhotosをAI ModeなどのSearchツールに接続した人は、その内容に基づくターゲット広告を目にする可能性がある。"
+                "x": "ペンシルベニア州は、AIコンテンツへの開示を義務づけた最初の州の一つだ。しかも広告がどこで制作されたかにかかわらず表示を求める。そのため、他州のコマーシャルでもペンシルベニア州で放映される予定であれば、開示表示を目にすることになるかもしれない。"
               },
               {
                 "t": "p",
-                "x": "広告主がDrive、Gmail、Photosの情報や、名前やメールアドレスといった個人を特定できる情報にアクセスすることはない。またGoogleは、人種、性的指向、宗教、健康といったセンシティブなカテゴリに基づく広告は表示しない。"
+                "x": "ただし、同法には抜け穴が多い。まず、何が「大幅に改変」にあたるかは主観的だ。「パロディ、風刺、論評または批評」や「明らかにフィクションである」ものについてのcarve-out(適用除外)もある。ここでも「明らかにフィクション」が何を意味するかは不明確だ。文言からは、製品やサービスについて「消費者に誤った認識を生じさせる形で合成コンテンツを用いる」ものだけが開示の対象になるとも読める。これもまた、法の下で何が「誤った」ものにあたり、誰がそれを判断するのかという疑問を残す。"
               },
               {
                 "t": "p",
-                "x": "ポリシーには現在こう書かれている。「たとえばSearchは、広告を含むコンテンツをパーソナライズするために、Searchへのアクセスを許可したデータの一部を処理することがある」"
-              },
-              {
-                "t": "p",
-                "x": "これを防ぐには、SearchのPersonal Intelligence機能からアプリの接続を解除するか、Search Services Personalizationの設定ページでPersonalized Recommendationsを完全に無効にすればよい。"
+                "x": "法案を提出したニック・ピシオッタノ(Nick Pisciottano)州上院議員の事務所は、コメント要請にすぐには応じなかった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google或用Gmail\n和Photos投广告",
-          "body": "按Google新条款，为AI推荐共享的Gmail和Photos数据也可用于个性化广告。",
-          "mini_headline": "Gmail和Photos数据用于广告",
+          "headline": "宾夕法尼亚州将强制标注\nAI-generated广告",
+          "body": "宾夕法尼亚州《AI欺骗性广告法》要求AI-generated广告加标签，但留有诸多漏洞。",
+          "mini_headline": "宾夕法尼亚州为AI广告加标签",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "Google更新了隐私政策，这意味着如果你在使用个性化AI功能，可能会开始看到基于个人数据的定向广告。这一更新由Android Authority发现，它为Google不将Drive、Gmail或Google Photos用于个性化广告的承诺增加了一个例外。自10月16日起，Google加入了这样一句话：“除非你选择让这些服务中的数据可供其他支持个性化广告的Google服务使用。”"
+                "x": "周四，宾夕法尼亚（Pennsylvania）州州长乔希·夏皮罗（Josh Shapiro）签署了Artificial Intelligence Deceptive Advertising Act（《人工智能欺骗性广告法》），要求对AI-generated（AI生成）广告进行披露。该法规定，任何“经人工智能大幅修改或生成”的广告——无论是静态图片、视频、音频还是文字——都必须以与广告本身相同的形式附上标签。这既适用于multi-billion-dollar（数十亿美元级）企业的TV广告，也适用于餐馆宣传鸡翅特价的那些拥挤又难看的传单。"
               },
               {
                 "t": "p",
-                "x": "也就是说，凡是通过Google的Personal Intelligence功能把Drive、Gmail或Google Photos连接到AI Mode及其他Search工具的用户，现在都可能看到基于这些内容的定向广告。"
+                "x": "宾夕法尼亚州是首批要求对AI内容进行披露的州之一。而且无论广告在哪里制作，都需要加注标签。因此，其他州的广告如果也预计在宾夕法尼亚州播出，你可能也会在其中看到披露标识。"
               },
               {
                 "t": "p",
-                "x": "广告主无法获取你的Drive、Gmail和Photos信息，也无法获取姓名或电子邮件地址等个人身份信息；Google也不会根据种族、性取向、宗教或健康等敏感类别向你展示广告。"
+                "x": "不过，这部法律留有诸多漏洞。首先，何为“大幅修改”带有主观性。法律还为“戏仿、讽刺、评论或批评”以及任何“明显属于虚构”的内容设置了carve-out（豁免）。同样，“明显属于虚构”的含义并不清楚。从措辞看，似乎只有在产品或服务方面“以造成消费者错误认知的方式使用合成内容”的广告才需要披露。这同样留下了疑问：依法何为“错误”，又由谁来作出判断。"
               },
               {
                 "t": "p",
-                "x": "政策现在写道：“例如，Search可能会处理你允许Search访问的部分数据，以个性化包括广告在内的内容。”"
-              },
-              {
-                "t": "p",
-                "x": "若要避免这种情况，可以在Search的Personal Intelligence功能中断开应用连接，或在Search Services Personalization设置页面中彻底关闭Personalized Recommendations。"
+                "x": "提出该法案的州参议员尼克·皮肖塔诺（Nick Pisciottano）办公室未立即回复置评请求。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google podría usar tus datos\nde Gmail y Photos para anuncios",
-          "body": "Según los nuevos términos de Google, compartir Gmail y Photos con la AI también habilita anuncios personalizados.",
-          "mini_headline": "Datos de Gmail y Photos para anuncios",
+          "headline": "Pennsylvania exigirá etiquetas\nen los anuncios AI-generated",
+          "body": "La AI Deceptive Advertising Act de Pennsylvania exigirá etiquetas en anuncios AI-generated, aunque deja muchos vacíos.",
+          "mini_headline": "Pennsylvania etiqueta los anuncios de AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "Google actualizó su política de privacidad de una forma que podría hacer que empieces a ver anuncios dirigidos basados en tus datos personales si usas funciones de AI personalizadas. La actualización, detectada por Android Authority, añade una excepción a su promesa de no usar tu Drive, Gmail o Google Photos para anuncios personalizados. Desde el 16 de octubre, Google agregó la frase: “a menos que elijas que los datos de estos servicios estén disponibles para otros servicios de Google que admiten anuncios personalizados”."
+                "x": "El jueves, el gobernador de Pennsylvania, Josh Shapiro, promulgó la Artificial Intelligence Deceptive Advertising Act, que exige avisos en los anuncios AI-generated (generados por IA). La ley obliga a que cualquier anuncio —ya sea una imagen fija, un video, un audio o un texto— que “haya sido modificado significativamente o generado por inteligencia artificial” incluya una etiqueta en el mismo formato que el propio anuncio. Eso se aplica tanto a los comerciales de TV de empresas multi-billion-dollar (de miles de millones de dólares) como a los folletos feos y abarrotados de los restaurantes sobre sus ofertas de alitas."
               },
               {
                 "t": "p",
-                "x": "Eso significa que quien haya conectado su Drive, Gmail o Google Photos a AI Mode y otras herramientas de Search mediante la función Personal Intelligence de Google podría ver ahora anuncios dirigidos según ese contenido."
+                "x": "Pennsylvania es uno de los primeros estados en exigir avisos sobre contenido de AI (IA). Y exige esas etiquetas sin importar dónde se haya creado el anuncio. Así que podrían aparecer avisos en comerciales de otros estados si también está previsto que se emitan en Pennsylvania."
               },
               {
                 "t": "p",
-                "x": "Los anunciantes no acceden a la información de tu Drive, Gmail y Photos ni a datos de identificación personal como tu nombre o tu dirección de correo electrónico, y Google no te mostrará anuncios basados en categorías sensibles como raza, orientación sexual, religión o salud."
+                "x": "Sin embargo, la ley deja muchos vacíos. Para empezar, qué se considera “modificado significativamente” es subjetivo. También hay una carve-out (excepción) para “parodia, sátira, comentario o crítica”, así como para todo lo que sea “evidentemente ficticio”. De nuevo, no está claro qué significa “evidentemente ficticio”. La redacción también sugiere que solo requeriría aviso el contenido que “usa contenido sintético de una manera que crea una percepción falsa en el consumidor” sobre un producto o servicio. Otra vez quedan dudas sobre qué se considera “falso” según la ley y quién toma esas decisiones."
               },
               {
                 "t": "p",
-                "x": "La política ahora dice: “Por ejemplo, Search puede procesar algunos de los datos a los que le permites acceder para personalizar contenido, incluidos los anuncios”."
-              },
-              {
-                "t": "p",
-                "x": "Para evitarlo, puedes desconectar las apps de las funciones Personal Intelligence de Search o desactivar por completo Personalized Recommendations en la página de configuración Search Services Personalization."
+                "x": "La oficina del senador estatal Nick Pisciottano, que presentó el proyecto de ley, no respondió de inmediato a una solicitud de comentarios."
               }
             ]
           }
@@ -217,137 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Google 광고에\nGmail·Photos도",
-          "body": "Google 새 약관에선 AI용 Gmail·Photos 공유가 광고로도 이어진다.",
-          "mini_headline": "Gmail·Photos 데이터, 광고에",
+          "headline": "펜실베이니아, 광고에 표시\n‘AI-generated’",
+          "body": "펜실베이니아 주법은 AI-generated 광고에 표시를 요구하나 허점이 많다.",
+          "mini_headline": "펜실베이니아, AI 광고 표시",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "Google이 개인정보처리방침을 바꿨다. 개인화 AI 기능을 쓰는 사용자라면 앞으로 개인 데이터에 기반한 타깃 광고를 보게 될 수 있다. Android Authority가 발견한 이번 변경은 Drive, Gmail, Google Photos 데이터를 개인화 광고에 쓰지 않겠다는 약속에 예외를 더했다. Google은 10월 16일부터 “이 서비스들의 데이터를 개인화 광고를 지원하는 다른 Google 서비스에서 쓸 수 있도록 선택한 경우는 제외한다”는 문구를 추가했다."
+                "x": "펜실베이니아(Pennsylvania)의 조시 샤피로(Josh Shapiro) 주지사가 목요일 Artificial Intelligence Deceptive Advertising Act(인공지능 기만 광고법)에 서명해 AI-generated(AI 생성) 광고에 고지를 의무화했다. 이 법에 따라 정지 이미지든 영상, 오디오, 텍스트든 “인공지능으로 상당 부분 수정되거나 생성된” 모든 광고는 광고 자체와 같은 형식의 표시를 달아야 한다. multi-billion-dollar(수십억 달러 규모) 기업의 TV 광고는 물론, 식당이 윙 특가를 알리려 빽빽하게 채운 볼품없는 전단에도 똑같이 적용된다."
               },
               {
                 "t": "p",
-                "x": "Google의 Personal Intelligence 기능으로 Drive, Gmail, Google Photos를 AI Mode 등 Search 도구에 연결한 사용자는 이제 그 콘텐츠에 기반한 타깃 광고를 볼 수 있다는 뜻이다."
+                "x": "펜실베이니아는 AI 콘텐츠에 고지를 의무화한 첫 주 가운데 하나다. 게다가 광고를 어디서 만들었든 상관없이 표시를 요구한다. 그래서 다른 주의 광고라도 펜실베이니아에서 방영될 예정이라면 고지 문구가 붙은 모습을 볼 수 있다."
               },
               {
                 "t": "p",
-                "x": "광고주는 Drive, Gmail, Photos 정보나 이름, 이메일 주소 같은 개인 식별 정보에 접근할 수 없다. Google은 인종, 성적 지향, 종교, 건강 같은 민감한 범주에 기반한 광고도 보여주지 않는다."
+                "x": "다만 이 법에는 허점이 많다. 우선 무엇이 “상당 부분 수정”에 해당하는지는 주관적이다. “패러디, 풍자, 논평 또는 비평”과 “명백히 허구인” 모든 것에 대한 carve-out(예외)도 있다. 여기서도 “명백히 허구”가 무엇을 뜻하는지 분명하지 않다. 문구상으로는 제품이나 서비스에 대해 “소비자에게 잘못된 인식을 심는 방식으로 합성 콘텐츠를 사용하는” 경우에만 고지가 필요한 것으로 읽힌다. 이 역시 법에서 무엇이 “잘못된” 것인지, 그 판단을 누가 내리는지에 대한 질문을 남긴다."
               },
               {
                 "t": "p",
-                "x": "현재 방침에는 이렇게 적혀 있다. “예를 들어 Search는 광고를 포함한 콘텐츠를 개인화하기 위해, 사용자가 Search에 접근을 허용한 데이터 일부를 처리할 수 있다.”"
-              },
-              {
-                "t": "p",
-                "x": "이를 막으려면 Search의 Personal Intelligence 기능에서 앱 연결을 끊거나, Search Services Personalization 설정 페이지에서 Personalized Recommendations를 완전히 끄면 된다."
+                "x": "법안을 발의한 닉 피시오타노(Nick Pisciottano) 주 상원의원 사무실은 논평 요청에 바로 답하지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google、Gmailと\nPhotosで広告配信か",
-          "body": "Google新規約で、AI推薦用に共有したGmailとPhotosが広告にも使われる。",
-          "mini_headline": "GmailとPhotosのデータを広告に",
+          "headline": "ペンシルベニア州が表示義務\nAI-generated広告",
+          "body": "ペンシルベニア州のAI欺瞞広告法はAI-generated広告に表示を課すが抜け穴が多い。",
+          "mini_headline": "ペンシルベニア州、AI広告に表示",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "Googleがプライバシーポリシーを更新した。パーソナライズされたAI機能を使っている場合、個人データに基づくターゲット広告が表示され始める可能性がある。Android Authorityが見つけたこの更新は、Drive、Gmail、Google Photosを個人向け広告に使わないという約束に例外を加えるものだ。Googleは10月16日付で「これらのサービスのデータを、パーソナライズド広告に対応する他のGoogleサービスで利用できるようにすることを選んだ場合を除く」という一文を追加した。"
+                "x": "ペンシルベニア(Pennsylvania)州のジョシュ・シャピロ(Josh Shapiro)知事は木曜日、Artificial Intelligence Deceptive Advertising Act(人工知能欺瞞広告法)に署名し、AI-generated(AI生成)広告への開示を義務づけた。同法は、静止画、動画、音声、テキストを問わず、「人工知能によって大幅に改変または生成された」あらゆる広告に、広告そのものと同じ形式で表示を付けるよう求める。対象はmulti-billion-dollar(数十億ドル規模)企業のTVコマーシャルから、手羽先の特売を告知する飲食店の雑然とした見栄えの悪いチラシにまで及ぶ。"
               },
               {
                 "t": "p",
-                "x": "つまり、GoogleのPersonal Intelligence機能を通じてDrive、Gmail、Google PhotosをAI ModeなどのSearchツールに接続した人は、その内容に基づくターゲット広告を目にする可能性がある。"
+                "x": "ペンシルベニア州は、AIコンテンツへの開示を義務づけた最初の州の一つだ。しかも広告がどこで制作されたかにかかわらず表示を求める。そのため、他州のコマーシャルでもペンシルベニア州で放映される予定であれば、開示表示を目にすることになるかもしれない。"
               },
               {
                 "t": "p",
-                "x": "広告主がDrive、Gmail、Photosの情報や、名前やメールアドレスといった個人を特定できる情報にアクセスすることはない。またGoogleは、人種、性的指向、宗教、健康といったセンシティブなカテゴリに基づく広告は表示しない。"
+                "x": "ただし、同法には抜け穴が多い。まず、何が「大幅に改変」にあたるかは主観的だ。「パロディ、風刺、論評または批評」や「明らかにフィクションである」ものについてのcarve-out(適用除外)もある。ここでも「明らかにフィクション」が何を意味するかは不明確だ。文言からは、製品やサービスについて「消費者に誤った認識を生じさせる形で合成コンテンツを用いる」ものだけが開示の対象になるとも読める。これもまた、法の下で何が「誤った」ものにあたり、誰がそれを判断するのかという疑問を残す。"
               },
               {
                 "t": "p",
-                "x": "ポリシーには現在こう書かれている。「たとえばSearchは、広告を含むコンテンツをパーソナライズするために、Searchへのアクセスを許可したデータの一部を処理することがある」"
-              },
-              {
-                "t": "p",
-                "x": "これを防ぐには、SearchのPersonal Intelligence機能からアプリの接続を解除するか、Search Services Personalizationの設定ページでPersonalized Recommendationsを完全に無効にすればよい。"
+                "x": "法案を提出したニック・ピシオッタノ(Nick Pisciottano)州上院議員の事務所は、コメント要請にすぐには応じなかった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google或用Gmail\n和Photos投广告",
-          "body": "按Google新条款，为AI推荐共享的Gmail和Photos数据也可用于个性化广告。",
-          "mini_headline": "Gmail和Photos数据用于广告",
+          "headline": "宾夕法尼亚州将强制标注\nAI-generated广告",
+          "body": "宾夕法尼亚州《AI欺骗性广告法》要求AI-generated广告加标签，但留有诸多漏洞。",
+          "mini_headline": "宾夕法尼亚州为AI广告加标签",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "Google更新了隐私政策，这意味着如果你在使用个性化AI功能，可能会开始看到基于个人数据的定向广告。这一更新由Android Authority发现，它为Google不将Drive、Gmail或Google Photos用于个性化广告的承诺增加了一个例外。自10月16日起，Google加入了这样一句话：“除非你选择让这些服务中的数据可供其他支持个性化广告的Google服务使用。”"
+                "x": "周四，宾夕法尼亚（Pennsylvania）州州长乔希·夏皮罗（Josh Shapiro）签署了Artificial Intelligence Deceptive Advertising Act（《人工智能欺骗性广告法》），要求对AI-generated（AI生成）广告进行披露。该法规定，任何“经人工智能大幅修改或生成”的广告——无论是静态图片、视频、音频还是文字——都必须以与广告本身相同的形式附上标签。这既适用于multi-billion-dollar（数十亿美元级）企业的TV广告，也适用于餐馆宣传鸡翅特价的那些拥挤又难看的传单。"
               },
               {
                 "t": "p",
-                "x": "也就是说，凡是通过Google的Personal Intelligence功能把Drive、Gmail或Google Photos连接到AI Mode及其他Search工具的用户，现在都可能看到基于这些内容的定向广告。"
+                "x": "宾夕法尼亚州是首批要求对AI内容进行披露的州之一。而且无论广告在哪里制作，都需要加注标签。因此，其他州的广告如果也预计在宾夕法尼亚州播出，你可能也会在其中看到披露标识。"
               },
               {
                 "t": "p",
-                "x": "广告主无法获取你的Drive、Gmail和Photos信息，也无法获取姓名或电子邮件地址等个人身份信息；Google也不会根据种族、性取向、宗教或健康等敏感类别向你展示广告。"
+                "x": "不过，这部法律留有诸多漏洞。首先，何为“大幅修改”带有主观性。法律还为“戏仿、讽刺、评论或批评”以及任何“明显属于虚构”的内容设置了carve-out（豁免）。同样，“明显属于虚构”的含义并不清楚。从措辞看，似乎只有在产品或服务方面“以造成消费者错误认知的方式使用合成内容”的广告才需要披露。这同样留下了疑问：依法何为“错误”，又由谁来作出判断。"
               },
               {
                 "t": "p",
-                "x": "政策现在写道：“例如，Search可能会处理你允许Search访问的部分数据，以个性化包括广告在内的内容。”"
-              },
-              {
-                "t": "p",
-                "x": "若要避免这种情况，可以在Search的Personal Intelligence功能中断开应用连接，或在Search Services Personalization设置页面中彻底关闭Personalized Recommendations。"
+                "x": "提出该法案的州参议员尼克·皮肖塔诺（Nick Pisciottano）办公室未立即回复置评请求。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google podría usar tus datos\nde Gmail y Photos para anuncios",
-          "body": "Según los nuevos términos de Google, compartir Gmail y Photos con la AI también habilita anuncios personalizados.",
-          "mini_headline": "Datos de Gmail y Photos para anuncios",
+          "headline": "Pennsylvania exigirá etiquetas\nen los anuncios AI-generated",
+          "body": "La AI Deceptive Advertising Act de Pennsylvania exigirá etiquetas en anuncios AI-generated, aunque deja muchos vacíos.",
+          "mini_headline": "Pennsylvania etiqueta los anuncios de AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "Google actualizó su política de privacidad de una forma que podría hacer que empieces a ver anuncios dirigidos basados en tus datos personales si usas funciones de AI personalizadas. La actualización, detectada por Android Authority, añade una excepción a su promesa de no usar tu Drive, Gmail o Google Photos para anuncios personalizados. Desde el 16 de octubre, Google agregó la frase: “a menos que elijas que los datos de estos servicios estén disponibles para otros servicios de Google que admiten anuncios personalizados”."
+                "x": "El jueves, el gobernador de Pennsylvania, Josh Shapiro, promulgó la Artificial Intelligence Deceptive Advertising Act, que exige avisos en los anuncios AI-generated (generados por IA). La ley obliga a que cualquier anuncio —ya sea una imagen fija, un video, un audio o un texto— que “haya sido modificado significativamente o generado por inteligencia artificial” incluya una etiqueta en el mismo formato que el propio anuncio. Eso se aplica tanto a los comerciales de TV de empresas multi-billion-dollar (de miles de millones de dólares) como a los folletos feos y abarrotados de los restaurantes sobre sus ofertas de alitas."
               },
               {
                 "t": "p",
-                "x": "Eso significa que quien haya conectado su Drive, Gmail o Google Photos a AI Mode y otras herramientas de Search mediante la función Personal Intelligence de Google podría ver ahora anuncios dirigidos según ese contenido."
+                "x": "Pennsylvania es uno de los primeros estados en exigir avisos sobre contenido de AI (IA). Y exige esas etiquetas sin importar dónde se haya creado el anuncio. Así que podrían aparecer avisos en comerciales de otros estados si también está previsto que se emitan en Pennsylvania."
               },
               {
                 "t": "p",
-                "x": "Los anunciantes no acceden a la información de tu Drive, Gmail y Photos ni a datos de identificación personal como tu nombre o tu dirección de correo electrónico, y Google no te mostrará anuncios basados en categorías sensibles como raza, orientación sexual, religión o salud."
+                "x": "Sin embargo, la ley deja muchos vacíos. Para empezar, qué se considera “modificado significativamente” es subjetivo. También hay una carve-out (excepción) para “parodia, sátira, comentario o crítica”, así como para todo lo que sea “evidentemente ficticio”. De nuevo, no está claro qué significa “evidentemente ficticio”. La redacción también sugiere que solo requeriría aviso el contenido que “usa contenido sintético de una manera que crea una percepción falsa en el consumidor” sobre un producto o servicio. Otra vez quedan dudas sobre qué se considera “falso” según la ley y quién toma esas decisiones."
               },
               {
                 "t": "p",
-                "x": "La política ahora dice: “Por ejemplo, Search puede procesar algunos de los datos a los que le permites acceder para personalizar contenido, incluidos los anuncios”."
-              },
-              {
-                "t": "p",
-                "x": "Para evitarlo, puedes desconectar las apps de las funciones Personal Intelligence de Search o desactivar por completo Personalized Recommendations en la página de configuración Search Services Personalization."
+                "x": "La oficina del senador estatal Nick Pisciottano, que presentó el proyecto de ley, no respondió de inmediato a una solicitud de comentarios."
               }
             ]
           }
@@ -355,337 +315,15 @@
       }
     },
     {
-      "id": "marketing-google-ads-sourced-videos",
+      "id": "marketing-iab-tech-lab-agentic-standard-comments",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Google Ads AI가\n승인 소스 영상 추가",
-      "body": "새 Sourced videos 토글로 Google AI가 영상을 자동 추가한다.",
-      "mini_headline": "Google Ads Sourced videos 토글",
+      "headline": "IAB Tech Lab,\nAI ad-buying연장",
+      "body": "IAB Tech Lab이 의견 기한을 11월 10일까지 30일에서 49일로 늘렸다.",
+      "mini_headline": "AI ad-buying 의견 기한 연장",
       "tool": "Marketing",
-      "source": "Search Engine Roundtable",
-      "url": "https://www.seroundtable.com/google-ads-sourced-videos-42365.html",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "Google Ads가 애셋 최적화 항목에 “Sourced videos” on/off 토글을 새로 넣었다. 켜 두면 Google AI가 승인된 소스에서 관련 영상을 찾아 캠페인에 알아서 추가한다."
-          },
-          {
-            "t": "p",
-            "x": "이 토글은 Reva Minkoff가 LinkedIn에서 처음 발견했다. 그보다 며칠 앞서 Hana Kobzová는 도움말 문서가 바뀐 것을 알아채고 이번 변경으로 “광고주가 더 이상 수동으로 opt-in하지 않아도 된다”고 지적했다."
-          },
-          {
-            "t": "img",
-            "src": "https://images.seroundtable.com/google-ads-sourced-videos-toggle-n1Mv05cA.jpg",
-            "cap": "Sourced videos: “다른 채널의 영상 사용.”"
-          },
-          {
-            "t": "p",
-            "x": "Google 도움말 문서에 따르면 Sourced videos는 Google AI와 자동 영상 크롤링 기술로 Performance Max 캠페인에 맞는 영상을 찾는다. 신규 캠페인에는 모두 기본으로 켜져 있으며 일부 기존 캠페인에서도 저절로 켜졌을 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "소스로는 소셜 미디어 플랫폼, 캠페인 랜딩 페이지, 연결된 YouTube 채널 등이 쓰일 수 있다. 영상은 관련성, 성과 잠재력, 권장사항 준수 여부를 보고 고른다. 크롤링한 영상은 애셋 그룹당 최대 10개까지 자동으로 들어갈 수 있다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Google Ads lets AI add videos\nfrom your approved sources",
-          "body": "A new Sourced videos toggle in asset optimization lets Google AI find videos and add them to campaigns automatically.",
-          "mini_headline": "Google Ads Sourced videos toggle",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Google Ads has added a new \"Sourced videos\" on/off toggle setting to the asset optimization section. This uses Google AI to identify relevant videos from your approved sources and add them to your campaign automatically."
-              },
-              {
-                "t": "p",
-                "x": "The toggle was spotted by Reva Minkoff on LinkedIn; Hana Kobzová had spotted the help document change days earlier, noting the change “no longer requires advertisers to opt-in manually.”"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-sourced-videos-toggle-n1Mv05cA.jpg",
-                "cap": "Sourced videos: “Use videos from other channels.”"
-              },
-              {
-                "t": "p",
-                "x": "Per Google’s help document, sourced videos use Google AI and automated video crawling technology to identify relevant videos for Performance Max campaigns. They are enabled by default for all new campaigns, and may have been activated automatically on some existing campaigns."
-              },
-              {
-                "t": "p",
-                "x": "Sources can include social media platforms, your campaign’s landing page and your linked YouTube channel. Videos are selected by relevance, performance potential and best practice adherence, and up to 10 crawled videos can be automatically added to an asset group."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Google Ads AI가\n승인 소스 영상 추가",
-          "body": "새 Sourced videos 토글로 Google AI가 영상을 자동 추가한다.",
-          "mini_headline": "Google Ads Sourced videos 토글",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Google Ads가 애셋 최적화 항목에 “Sourced videos” on/off 토글을 새로 넣었다. 켜 두면 Google AI가 승인된 소스에서 관련 영상을 찾아 캠페인에 알아서 추가한다."
-              },
-              {
-                "t": "p",
-                "x": "이 토글은 Reva Minkoff가 LinkedIn에서 처음 발견했다. 그보다 며칠 앞서 Hana Kobzová는 도움말 문서가 바뀐 것을 알아채고 이번 변경으로 “광고주가 더 이상 수동으로 opt-in하지 않아도 된다”고 지적했다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-sourced-videos-toggle-n1Mv05cA.jpg",
-                "cap": "Sourced videos: “다른 채널의 영상 사용.”"
-              },
-              {
-                "t": "p",
-                "x": "Google 도움말 문서에 따르면 Sourced videos는 Google AI와 자동 영상 크롤링 기술로 Performance Max 캠페인에 맞는 영상을 찾는다. 신규 캠페인에는 모두 기본으로 켜져 있으며 일부 기존 캠페인에서도 저절로 켜졌을 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "소스로는 소셜 미디어 플랫폼, 캠페인 랜딩 페이지, 연결된 YouTube 채널 등이 쓰일 수 있다. 영상은 관련성, 성과 잠재력, 권장사항 준수 여부를 보고 고른다. 크롤링한 영상은 애셋 그룹당 최대 10개까지 자동으로 들어갈 수 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Google Ads、\nAIが承認元の動画を追加",
-          "body": "新トグルSourced videosで、Google AIが動画を探し自動追加する。",
-          "mini_headline": "Google AdsのSourced videosトグル",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Google Adsは、アセットの最適化セクションに新しい「Sourced videos」のon/offトグル設定を追加した。Google AIが承認済みのソースから関連する動画を見つけ、キャンペーンに自動で追加する仕組みだ。"
-              },
-              {
-                "t": "p",
-                "x": "このトグルはReva MinkoffがLinkedInで見つけた。Hana Kobzováはその数日前にヘルプ文書の変更に気づき、この変更で「広告主が手動でopt-inする必要がなくなった」と指摘していた。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-sourced-videos-toggle-n1Mv05cA.jpg",
-                "cap": "Sourced videos:「他のチャンネルの動画を使用」"
-              },
-              {
-                "t": "p",
-                "x": "Googleのヘルプ文書によると、Sourced videosはGoogle AIと自動の動画クローリング技術を使い、Performance Maxキャンペーンに適した動画を特定する。すべての新規キャンペーンでデフォルトで有効になっており、一部の既存キャンペーンでも自動で有効化された可能性がある。"
-              },
-              {
-                "t": "p",
-                "x": "ソースにはソーシャルメディアのプラットフォーム、キャンペーンのランディングページ、リンクされたYouTubeチャンネルが含まれ得る。動画は関連性、成果の見込み、ベストプラクティスへの準拠度で選ばれ、クロールされた動画は1つのアセットグループに最大10本まで自動で追加される。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Google Ads让AI\n从授权来源加视频",
-          "body": "新增的Sourced videos开关让Google AI自动找视频并加入广告系列。",
-          "mini_headline": "Google Ads的Sourced videos开关",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Google Ads在素材优化部分新增了“Sourced videos”on/off开关设置。它借助Google AI从你批准的来源中识别相关视频，并自动加入你的广告系列。"
-              },
-              {
-                "t": "p",
-                "x": "这个开关由Reva Minkoff在LinkedIn上发现；Hana Kobzová在几天前就注意到了帮助文档的变动，并指出这一变化“不再需要广告主手动opt-in”。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-sourced-videos-toggle-n1Mv05cA.jpg",
-                "cap": "Sourced videos：“使用其他频道的视频。”"
-              },
-              {
-                "t": "p",
-                "x": "根据Google的帮助文档，Sourced videos利用Google AI和自动视频抓取技术，为Performance Max广告系列识别相关视频。所有新广告系列默认启用，部分现有广告系列也可能已被自动开启。"
-              },
-              {
-                "t": "p",
-                "x": "来源可包括社交媒体平台、广告系列的着陆页以及你关联的YouTube频道。系统按相关性、效果潜力和最佳实践符合度挑选视频，每个素材组最多可自动加入10个抓取的视频。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Google Ads deja que la AI añada\nvideos de tus fuentes aprobadas",
-          "body": "Un nuevo interruptor Sourced videos permite que Google AI busque videos y los añada a campañas automáticamente.",
-          "mini_headline": "El interruptor Sourced videos de Google Ads",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Google Ads añadió un nuevo interruptor on/off llamado “Sourced videos” en la sección de optimización de recursos. Usa Google AI para identificar videos relevantes de tus fuentes aprobadas y añadirlos automáticamente a tu campaña."
-              },
-              {
-                "t": "p",
-                "x": "Reva Minkoff detectó el interruptor en LinkedIn; Hana Kobzová había advertido el cambio en el documento de ayuda días antes y señaló que el cambio “ya no requiere que los anunciantes hagan opt-in manualmente”."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-sourced-videos-toggle-n1Mv05cA.jpg",
-                "cap": "Sourced videos: “Usar videos de otros canales”."
-              },
-              {
-                "t": "p",
-                "x": "Según el documento de ayuda de Google, los sourced videos usan Google AI y tecnología automatizada de rastreo de videos para identificar videos relevantes para campañas de Performance Max. Están activados por defecto en todas las campañas nuevas y podrían haberse activado automáticamente en algunas campañas existentes."
-              },
-              {
-                "t": "p",
-                "x": "Las fuentes pueden incluir plataformas de redes sociales, la página de destino de tu campaña y tu canal de YouTube vinculado. Los videos se seleccionan por relevancia, potencial de rendimiento y cumplimiento de las prácticas recomendadas, y se pueden añadir automáticamente hasta 10 videos rastreados a un grupo de recursos."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Google Ads AI가\n승인 소스 영상 추가",
-          "body": "새 Sourced videos 토글로 Google AI가 영상을 자동 추가한다.",
-          "mini_headline": "Google Ads Sourced videos 토글",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Google Ads가 애셋 최적화 항목에 새 “Sourced videos” on/off 토글 설정을 추가했다. Google AI가 승인된 소스에서 관련 영상을 찾아 캠페인에 자동으로 넣는 기능이다."
-              },
-              {
-                "t": "p",
-                "x": "이 토글은 Reva Minkoff가 LinkedIn에서 처음 발견했다. 그보다 며칠 앞서 Hana Kobzová가 도움말 문서의 변경을 포착하고 이번 변경으로 “광고주가 더 이상 수동으로 opt-in하지 않아도 된다”고 짚었다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-sourced-videos-toggle-n1Mv05cA.jpg",
-                "cap": "Sourced videos: “다른 채널의 영상 사용.”"
-              },
-              {
-                "t": "p",
-                "x": "Google 도움말 문서에 따르면 Sourced videos는 Google AI와 자동 영상 크롤링 기술로 Performance Max 캠페인에 맞는 영상을 찾는다. 모든 신규 캠페인에서 기본으로 켜져 있고, 일부 기존 캠페인에서도 자동으로 활성화됐을 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "소스에는 소셜 미디어 플랫폼, 캠페인 랜딩 페이지, 연결된 YouTube 채널이 포함될 수 있다. 영상은 관련성, 성과 잠재력, 권장사항 준수 여부를 기준으로 고르며, 크롤링한 영상을 애셋 그룹당 최대 10개까지 자동으로 추가할 수 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Google Ads、\nAIが承認元の動画を追加",
-          "body": "新トグルSourced videosで、Google AIが動画を探し自動追加する。",
-          "mini_headline": "Google AdsのSourced videosトグル",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Google Adsは、アセットの最適化セクションに新しい「Sourced videos」のon/offトグル設定を追加した。Google AIが承認済みのソースから関連する動画を見つけ、キャンペーンに自動で追加する仕組みだ。"
-              },
-              {
-                "t": "p",
-                "x": "このトグルはReva MinkoffがLinkedInで見つけた。Hana Kobzováはその数日前にヘルプ文書の変更に気づき、この変更で「広告主が手動でopt-inする必要がなくなった」と指摘していた。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-sourced-videos-toggle-n1Mv05cA.jpg",
-                "cap": "Sourced videos:「他のチャンネルの動画を使用」"
-              },
-              {
-                "t": "p",
-                "x": "Googleのヘルプ文書によると、Sourced videosはGoogle AIと自動の動画クローリング技術を使い、Performance Maxキャンペーンに適した動画を特定する。すべての新規キャンペーンでデフォルトで有効になっており、一部の既存キャンペーンでも自動で有効化された可能性がある。"
-              },
-              {
-                "t": "p",
-                "x": "ソースにはソーシャルメディアのプラットフォーム、キャンペーンのランディングページ、リンクされたYouTubeチャンネルが含まれ得る。動画は関連性、成果の見込み、ベストプラクティスへの準拠度で選ばれ、クロールされた動画は1つのアセットグループに最大10本まで自動で追加される。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Google Ads让AI\n从授权来源加视频",
-          "body": "新增的Sourced videos开关让Google AI自动找视频并加入广告系列。",
-          "mini_headline": "Google Ads的Sourced videos开关",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Google Ads在素材优化部分新增了“Sourced videos”on/off开关设置。它借助Google AI从你批准的来源中识别相关视频，并自动加入你的广告系列。"
-              },
-              {
-                "t": "p",
-                "x": "这个开关由Reva Minkoff在LinkedIn上发现；Hana Kobzová在几天前就注意到了帮助文档的变动，并指出这一变化“不再需要广告主手动opt-in”。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-sourced-videos-toggle-n1Mv05cA.jpg",
-                "cap": "Sourced videos：“使用其他频道的视频。”"
-              },
-              {
-                "t": "p",
-                "x": "根据Google的帮助文档，Sourced videos利用Google AI和自动视频抓取技术，为Performance Max广告系列识别相关视频。所有新广告系列默认启用，部分现有广告系列也可能已被自动开启。"
-              },
-              {
-                "t": "p",
-                "x": "来源可包括社交媒体平台、广告系列的着陆页以及你关联的YouTube频道。系统按相关性、效果潜力和最佳实践符合度挑选视频，每个素材组最多可自动加入10个抓取的视频。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Google Ads deja que la AI añada\nvideos de tus fuentes aprobadas",
-          "body": "Un nuevo interruptor Sourced videos permite que Google AI busque videos y los añada a campañas automáticamente.",
-          "mini_headline": "El interruptor Sourced videos de Google Ads",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Google Ads añadió un nuevo interruptor on/off llamado “Sourced videos” en la sección de optimización de recursos. Usa Google AI para identificar videos relevantes de tus fuentes aprobadas y añadirlos automáticamente a tu campaña."
-              },
-              {
-                "t": "p",
-                "x": "Reva Minkoff detectó el interruptor en LinkedIn; Hana Kobzová había advertido el cambio en el documento de ayuda días antes y señaló que el cambio “ya no requiere que los anunciantes hagan opt-in manualmente”."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-sourced-videos-toggle-n1Mv05cA.jpg",
-                "cap": "Sourced videos: “Usar videos de otros canales”."
-              },
-              {
-                "t": "p",
-                "x": "Según el documento de ayuda de Google, los sourced videos usan Google AI y tecnología automatizada de rastreo de videos para identificar videos relevantes para campañas de Performance Max. Están activados por defecto en todas las campañas nuevas y podrían haberse activado automáticamente en algunas campañas existentes."
-              },
-              {
-                "t": "p",
-                "x": "Las fuentes pueden incluir plataformas de redes sociales, la página de destino de tu campaña y tu canal de YouTube vinculado. Los videos se seleccionan por relevancia, potencial de rendimiento y cumplimiento de las prácticas recomendadas, y se pueden añadir automáticamente hasta 10 videos rastreados a un grupo de recursos."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "marketing-etsy-non-ai-image-rule",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Etsy, 리스팅 대부분에\nnon-AI 이미지 의무화",
-      "body": "Etsy는 대다수 리스팅에 non-AI-generated 사진 한 장을 요구한다.",
-      "mini_headline": "Etsy의 non-AI 이미지 규칙",
-      "tool": "Marketing",
-      "source": "Retail Dive",
-      "url": "https://www.retaildive.com/news/etsy-updates-ai-use-policies-emphasize-craftsmanship/833838/",
+      "source": "PPC Land",
+      "url": "https://ppc.land/iab-tech-lab-extends-ai-ad-buying-standard-comments-to-november-10/",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
@@ -693,179 +331,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://imgproxy.divecdn.com/cYMlDQ6lWlMzUd8EncbsCfReT9sYO5rMJj0jdZzDCxw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODUzMTg0NjY1LmpwZw==.webp",
-            "cap": "New York City 본사에 걸린 Etsy 로고."
+            "src": "https://ppc.land/content/images/2026/10/iab-tech-lab-openproposal-aamp-3-comment-extension-typewriter-carriage.jpg",
+            "cap": "IAB Tech Lab이 71-field(필드 71개) OpenProposal의 의견 수렴 기간을 30일에서 49일로, 11월 10일까지 늘렸다"
           },
           {
             "t": "p",
-            "x": "이커머스(E-commerce) 마켓플레이스 Etsy가 상품 리스팅의 AI 사용 단속에 나섰다. 목요일 회사 블로그 글에 따르면 Etsy는 이제 대부분의 리스팅에 실제 배경 앞에서 찍고 편집하지 않은 상품 사진을 최소 한 장 넣게 했다."
+            "x": "IAB Tech Lab은 2026년 10월 23일 AAMP 3.0과 그 핵심 사양인 OpenProposal의 공개 의견 수렴 기간을 11월 10일까지 연장했다. 구매·판매 소프트웨어 에이전트가 광고 제안을 주고받는 방식을 정의한 이 초안은 원래 10월 22일에 마감할 예정이었다. 이로써 기간은 30일이 아닌 49일이 됐다."
           },
           {
             "t": "p",
-            "x": "도안, 레시피, 설명서 같은 기능성 가이드도 이제 AI-generated 콘텐츠로는 만들 수 없다. 봇이 만든(Bot-generated) 리스팅은 허용하지 않고 지운다. 바뀐 이미지 요건을 지키지 않은 리스팅이라면 구매자가 환불을 받을 수 있다."
+            "x": "이 단체는 LinkedIn에 “압도적인 수요로 인해”라고 밝혔다. CEO 앤서니 카처(Anthony Katsur)는 반응이 “엄청났다”고 했지만, 두 게시물 모두 규모를 수치로 내놓지는 않았다."
           },
           {
             "t": "p",
-            "x": "Etsy는 리스팅 양식에 AI를 쓴 것으로 감지된 이미지를 표시해 주는 안내 기능도 넣었다. Etsy 고객 운영 부사장(Vice President of Customer Operations) James Ossman은 “이번 변화는 결승선이 아니라 출발점”이라고 말했다."
+            "x": "초안의 71개 필드는 11개 헤더로 묶이고, 그중 상대방과 주고받아야 하는 것은 3개뿐이다. 저장소에 따르면 “그 비율이 이 초안이 검증해 달라고 요청하는 설계상의 주장”이다. 회원 여부와 관계없이 GitHub 계정이 있으면 누구나 의견을 낼 수 있다."
           },
           {
             "t": "p",
-            "x": "이번 조치는 Etsy 자신도 AI 투자를 늘리는 가운데 나왔다. CEO Kruti Patel Goyal은 애널리스트들 앞에서 AI가 주는 가장 큰 기회는 Etsy 안에 있다며 “핵심은 AI로 Etsy가 맞는 구매자와 맞는 판매자를 훨씬, 훨씬 더 잘 연결하게 만드는 것”이라고 말했다."
+            "x": "Machine-readable(기계 판독 가능) 스키마는 의견 수렴 기간이 끝난 뒤 첫 개정판에 이어 나온다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Etsy requires at least one\nnon-AI image in most listings",
-          "body": "While implementing more AI, Etsy now requires at least one authentic, non-AI-generated image in most seller listings.",
-          "mini_headline": "Etsy's non-AI image rule",
+          "headline": "IAB Tech Lab extends AI\nad-buying comment window",
+          "body": "IAB Tech Lab extended comments on its 71-field agentic ad-buying draft to November 10, giving 49 days instead of 30.",
+          "mini_headline": "AI ad-buying comments extended",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/cYMlDQ6lWlMzUd8EncbsCfReT9sYO5rMJj0jdZzDCxw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODUzMTg0NjY1LmpwZw==.webp",
-                "cap": "The Etsy company logo displayed at its headquarters in New York City."
+                "src": "https://ppc.land/content/images/2026/10/iab-tech-lab-openproposal-aamp-3-comment-extension-typewriter-carriage.jpg",
+                "cap": "IAB Tech Lab stretches the 71-field OpenProposal comment window from 30 to 49 days, to November 10"
               },
               {
                 "t": "p",
-                "x": "E-commerce marketplace Etsy is cracking down on AI use in product listings. Etsy now mandates that most listings include at least one unedited photo of the product against a real background, according to a company blog post Thursday."
+                "x": "IAB Tech Lab on October 23, 2026 extended the public comment period for AAMP 3.0 and its core specification, OpenProposal, to November 10. The draft, which defines how buying and selling software agents exchange advertising proposals, was due to close on October 22; the window now runs 49 days instead of 30."
               },
               {
                 "t": "p",
-                "x": "Functional guides — such as patterns, recipes and instructions — can no longer be AI-generated. Bot-generated listings aren’t allowed and will be removed, and buyers may receive a refund if a listing didn’t meet the updated image requirements."
+                "x": "“Due to overwhelming demand,” the group said on LinkedIn. CEO Anthony Katsur called the response “immense,” but neither post put a number on the volume."
               },
               {
                 "t": "p",
-                "x": "Etsy also added a guidance feature to the listing form that flags images Etsy detects may use AI. “These changes are our starting point, not the finish line,” said James Ossman, Etsy’s Vice President of Customer Operations."
+                "x": "The draft's 71 fields are grouped under 11 headers, and only 3 require a round trip with the counterparty. “That ratio is the design claim the draft is asking you to test,” according to the repository. Anyone with a GitHub account may comment, member or not."
               },
               {
                 "t": "p",
-                "x": "The move comes as Etsy itself has invested more into using AI. CEO Kruti Patel Goyal told analysts the biggest opportunity for AI is on Etsy itself: “It's really about using AI to make Etsy much, much better at connecting the right buyers with the right sellers.”"
+                "x": "Machine-readable schemas will follow the first revision after the comment period closes."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Etsy, 리스팅 대부분에\nnon-AI 이미지 의무화",
-          "body": "Etsy는 대다수 리스팅에 non-AI-generated 사진 한 장을 요구한다.",
-          "mini_headline": "Etsy의 non-AI 이미지 규칙",
+          "headline": "IAB Tech Lab,\nAI ad-buying연장",
+          "body": "IAB Tech Lab이 의견 기한을 11월 10일까지 30일에서 49일로 늘렸다.",
+          "mini_headline": "AI ad-buying 의견 기한 연장",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/cYMlDQ6lWlMzUd8EncbsCfReT9sYO5rMJj0jdZzDCxw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODUzMTg0NjY1LmpwZw==.webp",
-                "cap": "New York City 본사에 걸린 Etsy 로고."
+                "src": "https://ppc.land/content/images/2026/10/iab-tech-lab-openproposal-aamp-3-comment-extension-typewriter-carriage.jpg",
+                "cap": "IAB Tech Lab이 71-field(필드 71개) OpenProposal의 의견 수렴 기간을 30일에서 49일로, 11월 10일까지 늘렸다"
               },
               {
                 "t": "p",
-                "x": "이커머스(E-commerce) 마켓플레이스 Etsy가 상품 리스팅의 AI 사용 단속에 나섰다. 목요일 회사 블로그 글에 따르면 Etsy는 이제 대부분의 리스팅에 실제 배경 앞에서 찍고 편집하지 않은 상품 사진을 최소 한 장 넣게 했다."
+                "x": "IAB Tech Lab은 2026년 10월 23일 AAMP 3.0과 그 핵심 사양인 OpenProposal의 공개 의견 수렴 기간을 11월 10일까지 연장했다. 구매·판매 소프트웨어 에이전트가 광고 제안을 주고받는 방식을 정의한 이 초안은 원래 10월 22일에 마감할 예정이었다. 이로써 기간은 30일이 아닌 49일이 됐다."
               },
               {
                 "t": "p",
-                "x": "도안, 레시피, 설명서 같은 기능성 가이드도 이제 AI-generated 콘텐츠로는 만들 수 없다. 봇이 만든(Bot-generated) 리스팅은 허용하지 않고 지운다. 바뀐 이미지 요건을 지키지 않은 리스팅이라면 구매자가 환불을 받을 수 있다."
+                "x": "이 단체는 LinkedIn에 “압도적인 수요로 인해”라고 밝혔다. CEO 앤서니 카처(Anthony Katsur)는 반응이 “엄청났다”고 했지만, 두 게시물 모두 규모를 수치로 내놓지는 않았다."
               },
               {
                 "t": "p",
-                "x": "Etsy는 리스팅 양식에 AI를 쓴 것으로 감지된 이미지를 표시해 주는 안내 기능도 넣었다. Etsy 고객 운영 부사장(Vice President of Customer Operations) James Ossman은 “이번 변화는 결승선이 아니라 출발점”이라고 말했다."
+                "x": "초안의 71개 필드는 11개 헤더로 묶이고, 그중 상대방과 주고받아야 하는 것은 3개뿐이다. 저장소에 따르면 “그 비율이 이 초안이 검증해 달라고 요청하는 설계상의 주장”이다. 회원 여부와 관계없이 GitHub 계정이 있으면 누구나 의견을 낼 수 있다."
               },
               {
                 "t": "p",
-                "x": "이번 조치는 Etsy 자신도 AI 투자를 늘리는 가운데 나왔다. CEO Kruti Patel Goyal은 애널리스트들 앞에서 AI가 주는 가장 큰 기회는 Etsy 안에 있다며 “핵심은 AI로 Etsy가 맞는 구매자와 맞는 판매자를 훨씬, 훨씬 더 잘 연결하게 만드는 것”이라고 말했다."
+                "x": "Machine-readable(기계 판독 가능) 스키마는 의견 수렴 기간이 끝난 뒤 첫 개정판에 이어 나온다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Etsy、大半の出品に\nnon-AI画像を義務化",
-          "body": "AI活用を進めるEtsyが、大半の出品にnon-AI-generated画像を求める。",
-          "mini_headline": "Etsyのnon-AI画像ルール",
+          "headline": "IAB Tech Labが\nAI ad-buying延長",
+          "body": "IAB Tech Labは草案の意見期限を11月10日に延ばし、30日から49日とした。",
+          "mini_headline": "AI ad-buyingの意見期間を延長",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/cYMlDQ6lWlMzUd8EncbsCfReT9sYO5rMJj0jdZzDCxw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODUzMTg0NjY1LmpwZw==.webp",
-                "cap": "New York Cityの本社に掲げられたEtsyのロゴ。"
+                "src": "https://ppc.land/content/images/2026/10/iab-tech-lab-openproposal-aamp-3-comment-extension-typewriter-carriage.jpg",
+                "cap": "IAB Tech Labは71-field(71項目)のOpenProposalの意見募集期間を30日から49日へ延ばし、11月10日までとした"
               },
               {
                 "t": "p",
-                "x": "Eコマース(E-commerce)マーケットプレイスのEtsyが、商品リスティングでのAI利用の取り締まりに乗り出した。同社が木曜日に公開したブログ記事によると、Etsyは今後、大半のリスティングに実際の背景で撮影した未編集の商品写真を少なくとも一枚含めるよう義務づける。"
+                "x": "IAB Tech Labは2026年10月23日、AAMP 3.0とその中核仕様であるOpenProposalのパブリックコメント期間を11月10日まで延長した。買い手側と売り手側のソフトウェアエージェントが広告提案をやり取りする方法を定めるこの草案は、10月22日に締め切られる予定だった。期間は30日ではなく49日となる。"
               },
               {
                 "t": "p",
-                "x": "型紙、レシピ、説明書といった実用的なガイドは、今後AI-generatedのものは認められない。ボットが生成した(Bot-generated)リスティングは許可されず削除され、リスティングが新しい画像要件を満たしていなかった場合、購入者は返金を受けられることがある。"
+                "x": "同団体はLinkedInで「圧倒的な需要を受けて」と述べた。CEOのアンソニー・カツァー(Anthony Katsur)は反響を「非常に大きい」と表現したが、いずれの投稿も件数は示していない。"
               },
               {
                 "t": "p",
-                "x": "Etsyはまた、AIを使った可能性があると検知した画像を知らせるガイダンス機能を出品フォームに追加した。EtsyのVice President of Customer Operations(カスタマーオペレーション担当副社長)であるJames Ossmanは「今回の変更はゴールではなく出発点だ」と述べた。"
+                "x": "草案の71のフィールドは11のヘッダーにまとめられ、相手方との往復が必要なのは3つだけだ。リポジトリによれば「その比率こそ、この草案が検証を求めている設計上の主張」である。会員かどうかを問わず、GitHubアカウントがあれば誰でもコメントできる。"
               },
               {
                 "t": "p",
-                "x": "この動きは、Etsy自身がAI活用への投資を増やすなかで出てきた。CEOのKruti Patel Goyalはアナリストに対し、AIの最大の機会はEtsy自体にあるとし、「要はAIを使って、Etsyが適切な買い手と適切な売り手を結びつける力をはるかに、はるかに高めることだ」と語った。"
+                "x": "Machine-readable(機械可読)なスキーマは、コメント期間終了後の最初の改訂に続いて公開される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Etsy要求多数商品\n至少一张non-AI图",
-          "body": "Etsy在加大AI投入的同时，要求多数商品至少含一张non-AI-generated图片。",
-          "mini_headline": "Etsy的non-AI图片规定",
+          "headline": "IAB Tech Lab延长\nAI ad-buying意见",
+          "body": "IAB Tech Lab将71-field草案意见期延至11月10日，由30天增至49天。",
+          "mini_headline": "AI ad-buying意见期延长",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/cYMlDQ6lWlMzUd8EncbsCfReT9sYO5rMJj0jdZzDCxw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODUzMTg0NjY1LmpwZw==.webp",
-                "cap": "Etsy位于New York City总部展示的公司标志。"
+                "src": "https://ppc.land/content/images/2026/10/iab-tech-lab-openproposal-aamp-3-comment-extension-typewriter-carriage.jpg",
+                "cap": "IAB Tech Lab将71-field的OpenProposal意见征集期从30天延长至49天，截至11月10日"
               },
               {
                 "t": "p",
-                "x": "电商（E-commerce）平台Etsy正在整治商品页面中的AI使用。根据公司周四发布的博客文章，Etsy现在规定，大多数商品页面必须至少包含一张以真实背景拍摄、未经编辑的商品照片。"
+                "x": "IAB Tech Lab于2026年10月23日将AAMP 3.0及其核心规范OpenProposal的公开征求意见期延长至11月10日。该草案定义了买方与卖方软件代理如何交换广告提案，原定于10月22日截止；现在征求意见期为49天，而非30天。"
               },
               {
                 "t": "p",
-                "x": "图样、食谱和说明书等功能性指南不得再使用AI-generated内容。由机器人生成的（Bot-generated）商品页面不被允许，将会被删除；如果商品页面未达到更新后的图片要求，买家可能获得退款。"
+                "x": "该组织在LinkedIn上表示：“由于需求极为踊跃。”CEO安东尼·卡祖尔（Anthony Katsur）称反响“巨大”，但两篇帖子都没有给出具体数量。"
               },
               {
                 "t": "p",
-                "x": "Etsy还在商品发布表单中加入了一项提示功能，会标记出Etsy检测到可能使用了AI的图片。Etsy客户运营副总裁（Vice President of Customer Operations）James Ossman表示：“这些变化是我们的起点，而不是终点。”"
+                "x": "草案的71个字段归入11个标题之下，其中只有3个需要与对方往返交互。代码库中写道：“这一比例正是草案请你检验的设计主张。”任何拥有GitHub账号的人都可以发表意见，无论是否为会员。"
               },
               {
                 "t": "p",
-                "x": "此举出台之际，Etsy自身也在加大对AI应用的投入。CEO Kruti Patel Goyal对分析师表示，AI最大的机会就在Etsy本身：“关键是用AI让Etsy在连接合适的买家与合适的卖家方面变得好得多、好得多。”"
+                "x": "Machine-readable（机器可读）的模式将在征求意见期结束后的首次修订之后发布。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Etsy exige al menos una imagen\nnon-AI en la mayoría de fichas",
-          "body": "Mientras incorpora más AI, Etsy exige al menos una imagen auténtica non-AI-generated en la mayoría de sus fichas.",
-          "mini_headline": "La regla non-AI de Etsy para imágenes",
+          "headline": "IAB Tech Lab amplía el plazo de\ncomentarios sobre AI ad-buying",
+          "body": "IAB Tech Lab amplió al 10 de noviembre los comentarios sobre su borrador ad-buying de 71-field: 49 días, no 30.",
+          "mini_headline": "Se amplían los comentarios sobre AI ad-buying",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/cYMlDQ6lWlMzUd8EncbsCfReT9sYO5rMJj0jdZzDCxw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODUzMTg0NjY1LmpwZw==.webp",
-                "cap": "El logotipo de Etsy en su sede de New York City."
+                "src": "https://ppc.land/content/images/2026/10/iab-tech-lab-openproposal-aamp-3-comment-extension-typewriter-carriage.jpg",
+                "cap": "IAB Tech Lab amplía de 30 a 49 días, hasta el 10 de noviembre, el plazo de comentarios de OpenProposal, de 71-field (71 campos)"
               },
               {
                 "t": "p",
-                "x": "El marketplace de E-commerce Etsy está endureciendo las reglas sobre el uso de AI en las fichas de producto. Etsy exige ahora que la mayoría de las fichas incluyan al menos una foto sin editar del producto sobre un fondo real, según una publicación del blog de la empresa del jueves."
+                "x": "IAB Tech Lab amplió el 23 de octubre de 2026 hasta el 10 de noviembre el período de comentarios públicos de AAMP 3.0 y de su especificación central, OpenProposal. El borrador, que define cómo los agentes de software de compra y de venta intercambian propuestas publicitarias, debía cerrarse el 22 de octubre; el plazo ahora es de 49 días en lugar de 30."
               },
               {
                 "t": "p",
-                "x": "Las guías funcionales, como patrones, recetas e instrucciones, ya no pueden ser AI-generated. Las fichas generadas por bots (Bot-generated) no están permitidas y se eliminarán, y los compradores podrían recibir un reembolso si una ficha no cumplía los requisitos de imagen actualizados."
+                "x": "“Debido a la abrumadora demanda”, indicó el grupo en LinkedIn. El CEO, Anthony Katsur, calificó la respuesta de “inmensa”, pero ninguna de las dos publicaciones cuantificó el volumen."
               },
               {
                 "t": "p",
-                "x": "Etsy también añadió al formulario de publicación una función de orientación que señala las imágenes que Etsy detecta que podrían usar AI. “Estos cambios son nuestro punto de partida, no la meta”, dijo James Ossman, Vice President of Customer Operations de Etsy."
+                "x": "Los 71 campos del borrador se agrupan en 11 encabezados, y solo 3 requieren un intercambio de ida y vuelta con la contraparte. “Esa proporción es la afirmación de diseño que el borrador te pide poner a prueba”, según el repositorio. Cualquier persona con una cuenta de GitHub puede comentar, sea miembro o no."
               },
               {
                 "t": "p",
-                "x": "La medida llega mientras la propia Etsy invierte más en el uso de AI. La CEO Kruti Patel Goyal dijo a los analistas que la mayor oportunidad para la AI está en la propia Etsy: “Se trata realmente de usar la AI para que Etsy sea mucho, mucho mejor conectando a los compradores adecuados con los vendedores adecuados”."
+                "x": "Los esquemas Machine-readable (legibles por máquina) llegarán después de la primera revisión, una vez cerrado el período de comentarios."
               }
             ]
           }
@@ -873,125 +511,537 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Etsy, 리스팅 대부분에\nnon-AI 이미지 의무화",
-          "body": "Etsy는 대다수 리스팅에 non-AI-generated 사진 한 장을 요구한다.",
-          "mini_headline": "Etsy의 non-AI 이미지 규칙",
+          "headline": "IAB Tech Lab,\nAI ad-buying연장",
+          "body": "IAB Tech Lab이 의견 기한을 11월 10일까지 30일에서 49일로 늘렸다.",
+          "mini_headline": "AI ad-buying 의견 기한 연장",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/cYMlDQ6lWlMzUd8EncbsCfReT9sYO5rMJj0jdZzDCxw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODUzMTg0NjY1LmpwZw==.webp",
-                "cap": "New York City 본사에 걸린 Etsy 로고."
+                "src": "https://ppc.land/content/images/2026/10/iab-tech-lab-openproposal-aamp-3-comment-extension-typewriter-carriage.jpg",
+                "cap": "IAB Tech Lab이 71-field(필드 71개) OpenProposal의 의견 수렴 기간을 30일에서 49일로, 11월 10일까지 늘렸다"
               },
               {
                 "t": "p",
-                "x": "이커머스(E-commerce) 마켓플레이스 Etsy가 상품 리스팅의 AI 사용 단속에 나섰다. 회사가 목요일 올린 블로그 글에 따르면 Etsy는 이제 대부분의 리스팅에 실제 배경 앞에서 찍은 상품 사진을 편집하지 않은 상태로 최소 한 장 넣도록 의무화했다."
+                "x": "IAB Tech Lab은 2026년 10월 23일 AAMP 3.0과 그 핵심 사양인 OpenProposal에 대한 공개 의견 수렴 기간을 11월 10일까지 연장했다. 구매·판매 소프트웨어 에이전트가 광고 제안을 주고받는 방식을 정의한 이 초안은 원래 10월 22일 마감 예정이었으며, 기간은 이제 30일이 아닌 49일이다."
               },
               {
                 "t": "p",
-                "x": "도안, 레시피, 설명서 같은 기능성 가이드는 더 이상 AI-generated 콘텐츠로 만들 수 없다. 봇이 생성한(Bot-generated) 리스팅은 허용하지 않고 삭제하며, 리스팅이 바뀐 이미지 요건을 지키지 않았다면 구매자는 환불을 받을 수 있다."
+                "x": "이 단체는 LinkedIn에 “압도적인 수요로 인해”라고 밝혔다. CEO 앤서니 카처(Anthony Katsur)는 반응이 “엄청났다”고 했지만, 두 게시물 모두 규모를 수치로 밝히지는 않았다."
               },
               {
                 "t": "p",
-                "x": "Etsy는 리스팅 양식에 AI를 쓴 것으로 감지된 이미지를 표시하는 안내 기능도 더했다. Etsy 고객 운영 부사장(Vice President of Customer Operations) James Ossman은 “이번 변화는 결승선이 아니라 출발점”이라고 말했다."
+                "x": "초안의 71개 필드는 11개 헤더 아래 묶여 있으며, 이 중 상대방과 왕복 교환이 필요한 것은 3개뿐이다. 저장소에 따르면 “그 비율이 이 초안이 검증해 달라고 요청하는 설계상의 주장”이다. 회원 여부와 관계없이 GitHub 계정이 있으면 누구나 의견을 낼 수 있다."
               },
               {
                 "t": "p",
-                "x": "이번 조치는 Etsy 스스로 AI 활용에 투자를 늘리는 가운데 나왔다. CEO Kruti Patel Goyal은 애널리스트들에게 AI의 가장 큰 기회는 Etsy 자체에 있다며 “핵심은 AI로 Etsy가 맞는 구매자와 맞는 판매자를 훨씬, 훨씬 더 잘 연결하게 만드는 것”이라고 말했다."
+                "x": "Machine-readable(기계 판독 가능) 스키마는 의견 수렴 기간이 끝난 뒤 첫 개정판에 이어 나온다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Etsy、大半の出品に\nnon-AI画像を義務化",
-          "body": "AI活用を進めるEtsyが、大半の出品にnon-AI-generated画像を求める。",
-          "mini_headline": "Etsyのnon-AI画像ルール",
+          "headline": "IAB Tech Labが\nAI ad-buying延長",
+          "body": "IAB Tech Labは草案の意見期限を11月10日に延ばし、30日から49日とした。",
+          "mini_headline": "AI ad-buyingの意見期間を延長",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/cYMlDQ6lWlMzUd8EncbsCfReT9sYO5rMJj0jdZzDCxw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODUzMTg0NjY1LmpwZw==.webp",
-                "cap": "New York Cityの本社に掲げられたEtsyのロゴ。"
+                "src": "https://ppc.land/content/images/2026/10/iab-tech-lab-openproposal-aamp-3-comment-extension-typewriter-carriage.jpg",
+                "cap": "IAB Tech Labは71-field(71項目)のOpenProposalの意見募集期間を30日から49日へ延ばし、11月10日までとした"
               },
               {
                 "t": "p",
-                "x": "Eコマース(E-commerce)マーケットプレイスのEtsyが、商品リスティングでのAI利用の取り締まりに乗り出した。同社が木曜日に公開したブログ記事によると、Etsyは今後、大半のリスティングに実際の背景で撮影した未編集の商品写真を少なくとも一枚含めるよう義務づける。"
+                "x": "IAB Tech Labは2026年10月23日、AAMP 3.0とその中核仕様であるOpenProposalのパブリックコメント期間を11月10日まで延長した。買い手側と売り手側のソフトウェアエージェントが広告提案をやり取りする方法を定めるこの草案は、10月22日に締め切られる予定だった。期間は30日ではなく49日となる。"
               },
               {
                 "t": "p",
-                "x": "型紙、レシピ、説明書といった実用的なガイドは、今後AI-generatedのものは認められない。ボットが生成した(Bot-generated)リスティングは許可されず削除され、リスティングが新しい画像要件を満たしていなかった場合、購入者は返金を受けられることがある。"
+                "x": "同団体はLinkedInで「圧倒的な需要を受けて」と述べた。CEOのアンソニー・カツァー(Anthony Katsur)は反響を「非常に大きい」と表現したが、いずれの投稿も件数は示していない。"
               },
               {
                 "t": "p",
-                "x": "Etsyはまた、AIを使った可能性があると検知した画像を知らせるガイダンス機能を出品フォームに追加した。EtsyのVice President of Customer Operations(カスタマーオペレーション担当副社長)であるJames Ossmanは「今回の変更はゴールではなく出発点だ」と述べた。"
+                "x": "草案の71のフィールドは11のヘッダーにまとめられ、相手方との往復が必要なのは3つだけだ。リポジトリによれば「その比率こそ、この草案が検証を求めている設計上の主張」である。会員かどうかを問わず、GitHubアカウントがあれば誰でもコメントできる。"
               },
               {
                 "t": "p",
-                "x": "この動きは、Etsy自身がAI活用への投資を増やすなかで出てきた。CEOのKruti Patel Goyalはアナリストに対し、AIの最大の機会はEtsy自体にあるとし、「要はAIを使って、Etsyが適切な買い手と適切な売り手を結びつける力をはるかに、はるかに高めることだ」と語った。"
+                "x": "Machine-readable(機械可読)なスキーマは、コメント期間終了後の最初の改訂に続いて公開される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Etsy要求多数商品\n至少一张non-AI图",
-          "body": "Etsy在加大AI投入的同时，要求多数商品至少含一张non-AI-generated图片。",
-          "mini_headline": "Etsy的non-AI图片规定",
+          "headline": "IAB Tech Lab延长\nAI ad-buying意见",
+          "body": "IAB Tech Lab将71-field草案意见期延至11月10日，由30天增至49天。",
+          "mini_headline": "AI ad-buying意见期延长",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/cYMlDQ6lWlMzUd8EncbsCfReT9sYO5rMJj0jdZzDCxw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODUzMTg0NjY1LmpwZw==.webp",
-                "cap": "Etsy位于New York City总部展示的公司标志。"
+                "src": "https://ppc.land/content/images/2026/10/iab-tech-lab-openproposal-aamp-3-comment-extension-typewriter-carriage.jpg",
+                "cap": "IAB Tech Lab将71-field的OpenProposal意见征集期从30天延长至49天，截至11月10日"
               },
               {
                 "t": "p",
-                "x": "电商（E-commerce）平台Etsy正在整治商品页面中的AI使用。根据公司周四发布的博客文章，Etsy现在规定，大多数商品页面必须至少包含一张以真实背景拍摄、未经编辑的商品照片。"
+                "x": "IAB Tech Lab于2026年10月23日将AAMP 3.0及其核心规范OpenProposal的公开征求意见期延长至11月10日。该草案定义了买方与卖方软件代理如何交换广告提案，原定于10月22日截止；现在征求意见期为49天，而非30天。"
               },
               {
                 "t": "p",
-                "x": "图样、食谱和说明书等功能性指南不得再使用AI-generated内容。由机器人生成的（Bot-generated）商品页面不被允许，将会被删除；如果商品页面未达到更新后的图片要求，买家可能获得退款。"
+                "x": "该组织在LinkedIn上表示：“由于需求极为踊跃。”CEO安东尼·卡祖尔（Anthony Katsur）称反响“巨大”，但两篇帖子都没有给出具体数量。"
               },
               {
                 "t": "p",
-                "x": "Etsy还在商品发布表单中加入了一项提示功能，会标记出Etsy检测到可能使用了AI的图片。Etsy客户运营副总裁（Vice President of Customer Operations）James Ossman表示：“这些变化是我们的起点，而不是终点。”"
+                "x": "草案的71个字段归入11个标题之下，其中只有3个需要与对方往返交互。代码库中写道：“这一比例正是草案请你检验的设计主张。”任何拥有GitHub账号的人都可以发表意见，无论是否为会员。"
               },
               {
                 "t": "p",
-                "x": "此举出台之际，Etsy自身也在加大对AI应用的投入。CEO Kruti Patel Goyal对分析师表示，AI最大的机会就在Etsy本身：“关键是用AI让Etsy在连接合适的买家与合适的卖家方面变得好得多、好得多。”"
+                "x": "Machine-readable（机器可读）的模式将在征求意见期结束后的首次修订之后发布。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Etsy exige al menos una imagen\nnon-AI en la mayoría de fichas",
-          "body": "Mientras incorpora más AI, Etsy exige al menos una imagen auténtica non-AI-generated en la mayoría de sus fichas.",
-          "mini_headline": "La regla non-AI de Etsy para imágenes",
+          "headline": "IAB Tech Lab amplía el plazo de\ncomentarios sobre AI ad-buying",
+          "body": "IAB Tech Lab amplió al 10 de noviembre los comentarios sobre su borrador ad-buying de 71-field: 49 días, no 30.",
+          "mini_headline": "Se amplían los comentarios sobre AI ad-buying",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/cYMlDQ6lWlMzUd8EncbsCfReT9sYO5rMJj0jdZzDCxw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODUzMTg0NjY1LmpwZw==.webp",
-                "cap": "El logotipo de Etsy en su sede de New York City."
+                "src": "https://ppc.land/content/images/2026/10/iab-tech-lab-openproposal-aamp-3-comment-extension-typewriter-carriage.jpg",
+                "cap": "IAB Tech Lab amplía de 30 a 49 días, hasta el 10 de noviembre, el plazo de comentarios de OpenProposal, de 71-field (71 campos)"
               },
               {
                 "t": "p",
-                "x": "El marketplace de E-commerce Etsy está endureciendo las reglas sobre el uso de AI en las fichas de producto. Etsy exige ahora que la mayoría de las fichas incluyan al menos una foto sin editar del producto sobre un fondo real, según una publicación del blog de la empresa del jueves."
+                "x": "IAB Tech Lab amplió el 23 de octubre de 2026 hasta el 10 de noviembre el período de comentarios públicos de AAMP 3.0 y de su especificación central, OpenProposal. El borrador, que define cómo los agentes de software de compra y de venta intercambian propuestas publicitarias, debía cerrarse el 22 de octubre; el plazo ahora es de 49 días en lugar de 30."
               },
               {
                 "t": "p",
-                "x": "Las guías funcionales, como patrones, recetas e instrucciones, ya no pueden ser AI-generated. Las fichas generadas por bots (Bot-generated) no están permitidas y se eliminarán, y los compradores podrían recibir un reembolso si una ficha no cumplía los requisitos de imagen actualizados."
+                "x": "“Debido a la abrumadora demanda”, indicó el grupo en LinkedIn. El CEO, Anthony Katsur, calificó la respuesta de “inmensa”, pero ninguna de las dos publicaciones cuantificó el volumen."
               },
               {
                 "t": "p",
-                "x": "Etsy también añadió al formulario de publicación una función de orientación que señala las imágenes que Etsy detecta que podrían usar AI. “Estos cambios son nuestro punto de partida, no la meta”, dijo James Ossman, Vice President of Customer Operations de Etsy."
+                "x": "Los 71 campos del borrador se agrupan en 11 encabezados, y solo 3 requieren un intercambio de ida y vuelta con la contraparte. “Esa proporción es la afirmación de diseño que el borrador te pide poner a prueba”, según el repositorio. Cualquier persona con una cuenta de GitHub puede comentar, sea miembro o no."
               },
               {
                 "t": "p",
-                "x": "La medida llega mientras la propia Etsy invierte más en el uso de AI. La CEO Kruti Patel Goyal dijo a los analistas que la mayor oportunidad para la AI está en la propia Etsy: “Se trata realmente de usar la AI para que Etsy sea mucho, mucho mejor conectando a los compradores adecuados con los vendedores adecuados”."
+                "x": "Los esquemas Machine-readable (legibles por máquina) llegarán después de la primera revisión, una vez cerrado el período de comentarios."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "marketing-google-marketing-platform-drop-gemini",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "첫 GMP Drop에서\nGemini가 번들 선별",
+      "body": "Gemini가 원클릭 활성화되는 DV360 Marketplace 번들을 선별한다.",
+      "mini_headline": "Google GMP Drop 속 Gemini",
+      "tool": "Marketing",
+      "source": "Google Blog (Google Marketing Platform)",
+      "url": "https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-october/",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide01_1021.max-1440x810.png"
+          },
+          {
+            "t": "p",
+            "x": "새 월간 시리즈 Google Marketing Platform Drops는 고객 여정 전체에서 최고의 ROI를 내도록 돕는 최신 소식을 전한다. Vertical Video Unification으로 인지도를 쌓는 일, Search Ads 360으로 성과를 높이는 일, 고객을 CTV에서 결제 장바구니까지 이끄는 일을 모두 다룰 예정이다. 첫 업데이트를 소개한다."
+          },
+          {
+            "t": "p",
+            "x": "업계 리더십: Gartner®는 Google Marketing Platform을 근거로 Google을 Gartner Magic Quadrant™ for Advertising Platforms의 Leader로 선정했고, 모든 Use Cases(Full Funnel, Awareness, Performance)에서 Google을 #1로 평가했다."
+          },
+          {
+            "t": "p",
+            "x": "Display & Video 360 인벤토리 업그레이드: 이제 Marketplace는 Gemini 모델이 선별한 맞춤형 미디어 번들을 내놓았고, 라이브 스포츠와 대형(tentpole) 이벤트용 번들을 single-click(원클릭)으로 켤 수 있다. LinkedIn CTV Ads 프로그래매틱 인벤토리를 DV360에 들여와 구매, 계획, 측정을 통합했다."
+          },
+          {
+            "t": "img",
+            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide06_1.width-1000.format-webp.webp",
+            "cap": "Display & Video 360의 새 Marketplace"
+          },
+          {
+            "t": "p",
+            "x": "새 Search Ads 360 Home 경험: 이 맞춤형 화면은 Gemini 모델로 인사이트를 모으고 스마트 제안을 만들며 실행을 간소화해 실시간으로 성과를 끌어올린다."
+          },
+          {
+            "t": "img",
+            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide08_1.width-1000.format-webp.webp",
+            "cap": "새 Search Ads 360 Home 경험"
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Gemini curates media bundles\nin Google's first GMP Drop",
+          "body": "Google's first Marketing Platform Drop says Gemini now curates DV360 Marketplace media bundles activated in one click.",
+          "mini_headline": "Gemini in Google's GMP Drop",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide01_1021.max-1440x810.png"
+              },
+              {
+                "t": "p",
+                "x": "Google Marketing Platform Drops, a new monthly series, delivers our latest news to help you get your best ROI across the full customer journey. We’ll cover everything from building awareness via Vertical Video Unification and driving performance with Search Ads 360 to taking customers from CTV to the checkout cart. Check out the first updates."
+              },
+              {
+                "t": "p",
+                "x": "Industry leadership: Gartner® recognized Google as a Leader in the Gartner Magic Quadrant™ for Advertising Platforms for Google Marketing Platform and ranked Google #1 across all Use Cases (Full Funnel, Awareness, and Performance)."
+              },
+              {
+                "t": "p",
+                "x": "Inventory upgrades on Display & Video 360: Curated by Gemini models, Marketplace now offers personalized media bundles with single-click activation for live sports and tentpole events. We've also brought LinkedIn CTV Ads programmatic inventory into DV360 for unified buying, planning, and measurement."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide06_1.width-1000.format-webp.webp",
+                "cap": "New Marketplace in Display & Video 360"
+              },
+              {
+                "t": "p",
+                "x": "New Search Ads 360 Home experience: To accelerate performance in real time, this customizable view uses Gemini models to consolidate insights, generate smart suggestions, and streamline execution."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide08_1.width-1000.format-webp.webp",
+                "cap": "New Search Ads 360 Home Experience"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "첫 GMP Drop에서\nGemini가 번들 선별",
+          "body": "Gemini가 원클릭 활성화되는 DV360 Marketplace 번들을 선별한다.",
+          "mini_headline": "Google GMP Drop 속 Gemini",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide01_1021.max-1440x810.png"
+              },
+              {
+                "t": "p",
+                "x": "새 월간 시리즈 Google Marketing Platform Drops는 고객 여정 전체에서 최고의 ROI를 내도록 돕는 최신 소식을 전한다. Vertical Video Unification으로 인지도를 쌓는 일, Search Ads 360으로 성과를 높이는 일, 고객을 CTV에서 결제 장바구니까지 이끄는 일을 모두 다룰 예정이다. 첫 업데이트를 소개한다."
+              },
+              {
+                "t": "p",
+                "x": "업계 리더십: Gartner®는 Google Marketing Platform을 근거로 Google을 Gartner Magic Quadrant™ for Advertising Platforms의 Leader로 선정했고, 모든 Use Cases(Full Funnel, Awareness, Performance)에서 Google을 #1로 평가했다."
+              },
+              {
+                "t": "p",
+                "x": "Display & Video 360 인벤토리 업그레이드: 이제 Marketplace는 Gemini 모델이 선별한 맞춤형 미디어 번들을 내놓았고, 라이브 스포츠와 대형(tentpole) 이벤트용 번들을 single-click(원클릭)으로 켤 수 있다. LinkedIn CTV Ads 프로그래매틱 인벤토리를 DV360에 들여와 구매, 계획, 측정을 통합했다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide06_1.width-1000.format-webp.webp",
+                "cap": "Display & Video 360의 새 Marketplace"
+              },
+              {
+                "t": "p",
+                "x": "새 Search Ads 360 Home 경험: 이 맞춤형 화면은 Gemini 모델로 인사이트를 모으고 스마트 제안을 만들며 실행을 간소화해 실시간으로 성과를 끌어올린다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide08_1.width-1000.format-webp.webp",
+                "cap": "새 Search Ads 360 Home 경험"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "初のGMP Dropで\nGeminiがバンドルを厳選",
+          "body": "Geminiがワンクリックで有効化できるDV360 Marketplaceのバンドルを選ぶ。",
+          "mini_headline": "GoogleのGMP DropにGemini",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide01_1021.max-1440x810.png"
+              },
+              {
+                "t": "p",
+                "x": "新たな月例シリーズ「Google Marketing Platform Drops」では、カスタマージャーニー全体で最大のROIを得るための最新情報を届ける。Vertical Video Unificationによる認知拡大、Search Ads 360によるパフォーマンス向上から、顧客をCTVから購入カートまで導く方法まで、幅広く取り上げる。まずは最初のアップデートを見てほしい。"
+              },
+              {
+                "t": "p",
+                "x": "業界でのリーダーシップ:Gartner®はGoogle Marketing Platformにより、GoogleをGartner Magic Quadrant™ for Advertising PlatformsのLeaderに位置づけ、すべてのUse Cases(Full Funnel、Awareness、Performance)でGoogleを#1と評価した。"
+              },
+              {
+                "t": "p",
+                "x": "Display & Video 360のインベントリ強化:Geminiモデルが選定するMarketplaceは、ライブスポーツや大型(tentpole)イベント向けに、single-click(ワンクリック)で有効化できるパーソナライズされたメディアバンドルを提供するようになった。また、LinkedIn CTV AdsのプログラマティックインベントリをDV360に取り込み、購入、計画、測定を一元化した。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide06_1.width-1000.format-webp.webp",
+                "cap": "Display & Video 360の新しいMarketplace"
+              },
+              {
+                "t": "p",
+                "x": "新しいSearch Ads 360 Homeエクスペリエンス:リアルタイムでパフォーマンスを高めるため、このカスタマイズ可能なビューはGeminiモデルを使ってインサイトを集約し、スマートな提案を生成し、実行を効率化する。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide08_1.width-1000.format-webp.webp",
+                "cap": "新しいSearch Ads 360 Homeエクスペリエンス"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "首期GMP Drop中\nGemini精选媒体包",
+          "body": "Google称，Gemini现为DV360 Marketplace精选可一键启用的媒体包。",
+          "mini_headline": "Google GMP Drop中的Gemini",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide01_1021.max-1440x810.png"
+              },
+              {
+                "t": "p",
+                "x": "Google Marketing Platform Drops是一个全新的月度系列，为你带来最新资讯，助你在整个客户旅程中获得最佳ROI。内容涵盖方方面面：从借助Vertical Video Unification建立认知、利用Search Ads 360提升效果，到引导客户从CTV走向结账购物车。来看看首批更新。"
+              },
+              {
+                "t": "p",
+                "x": "行业领导地位：Gartner®凭借Google Marketing Platform将Google评为Gartner Magic Quadrant™ for Advertising Platforms中的Leader，并在所有Use Cases（Full Funnel、Awareness和Performance）中将Google排在#1。"
+              },
+              {
+                "t": "p",
+                "x": "Display & Video 360库存升级：Marketplace现由Gemini模型精选，为体育直播和大型（tentpole）活动提供可single-click（一键）启用的个性化媒体包。我们还将LinkedIn CTV Ads程序化库存引入DV360，实现统一购买、规划和衡量。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide06_1.width-1000.format-webp.webp",
+                "cap": "Display & Video 360中的全新Marketplace"
+              },
+              {
+                "t": "p",
+                "x": "全新Search Ads 360 Home体验：为实时加速效果，这一可自定义视图借助Gemini模型整合洞察、生成智能建议并简化执行。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide08_1.width-1000.format-webp.webp",
+                "cap": "全新Search Ads 360 Home体验"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Gemini cura paquetes de medios\nen el primer GMP Drop de Google",
+          "body": "Según el primer Marketing Platform Drop de Google, Gemini cura paquetes de DV360 Marketplace activables en un clic.",
+          "mini_headline": "Gemini en el GMP Drop de Google",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide01_1021.max-1440x810.png"
+              },
+              {
+                "t": "p",
+                "x": "Google Marketing Platform Drops, una nueva serie mensual, ofrece nuestras últimas novedades para ayudarte a obtener el mejor ROI en todo el recorrido del cliente. Cubriremos desde generar notoriedad con Vertical Video Unification e impulsar el rendimiento con Search Ads 360 hasta llevar a los clientes desde la CTV hasta el carrito de compra. Conoce las primeras novedades."
+              },
+              {
+                "t": "p",
+                "x": "Liderazgo en el sector: Gartner® reconoció a Google como Leader en el Gartner Magic Quadrant™ for Advertising Platforms por Google Marketing Platform y situó a Google en el #1 en todos los Use Cases (Full Funnel, Awareness y Performance)."
+              },
+              {
+                "t": "p",
+                "x": "Mejoras de inventario en Display & Video 360: con la selección de los modelos Gemini, Marketplace ofrece ahora paquetes de medios personalizados con activación single-click (en un solo clic) para deportes en vivo y eventos tentpole (de gran audiencia). También hemos incorporado a DV360 el inventario programático de LinkedIn CTV Ads para unificar la compra, la planificación y la medición."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide06_1.width-1000.format-webp.webp",
+                "cap": "Nuevo Marketplace en Display & Video 360"
+              },
+              {
+                "t": "p",
+                "x": "Nueva experiencia Search Ads 360 Home: para acelerar el rendimiento en tiempo real, esta vista personalizable usa modelos Gemini para consolidar información, generar sugerencias inteligentes y agilizar la ejecución."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide08_1.width-1000.format-webp.webp",
+                "cap": "Nueva experiencia Search Ads 360 Home"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "첫 GMP Drop에서\nGemini가 번들 선별",
+          "body": "Gemini가 원클릭 활성화되는 DV360 Marketplace 번들을 선별한다.",
+          "mini_headline": "Google GMP Drop 속 Gemini",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide01_1021.max-1440x810.png"
+              },
+              {
+                "t": "p",
+                "x": "새 월간 시리즈인 Google Marketing Platform Drops는 전체 고객 여정에서 최고의 ROI를 얻도록 돕는 최신 소식을 전한다. Vertical Video Unification을 통한 인지도 구축과 Search Ads 360을 활용한 성과 향상부터 고객을 CTV에서 결제 장바구니까지 이끄는 일까지 모두 다룰 예정이다. 첫 업데이트를 확인해 보라."
+              },
+              {
+                "t": "p",
+                "x": "업계 리더십: Gartner®는 Google Marketing Platform을 근거로 Google을 Gartner Magic Quadrant™ for Advertising Platforms의 Leader로 선정했으며, 모든 Use Cases(Full Funnel, Awareness, Performance)에서 Google을 #1로 평가했다."
+              },
+              {
+                "t": "p",
+                "x": "Display & Video 360 인벤토리 업그레이드: 이제 Marketplace는 Gemini 모델이 선별한 맞춤형 미디어 번들을 제공하며, 라이브 스포츠와 대형(tentpole) 이벤트용 번들을 single-click(원클릭)으로 활성화할 수 있다. 또한 LinkedIn CTV Ads 프로그래매틱 인벤토리를 DV360에 들여와 구매, 계획, 측정을 통합했다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide06_1.width-1000.format-webp.webp",
+                "cap": "Display & Video 360의 새 Marketplace"
+              },
+              {
+                "t": "p",
+                "x": "새 Search Ads 360 Home 경험: 실시간으로 성과를 끌어올리기 위해, 이 맞춤형 화면은 Gemini 모델로 인사이트를 모으고 스마트 제안을 생성하며 실행을 간소화한다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide08_1.width-1000.format-webp.webp",
+                "cap": "새 Search Ads 360 Home 경험"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "初のGMP Dropで\nGeminiがバンドルを厳選",
+          "body": "Geminiがワンクリックで有効化できるDV360 Marketplaceのバンドルを選ぶ。",
+          "mini_headline": "GoogleのGMP DropにGemini",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide01_1021.max-1440x810.png"
+              },
+              {
+                "t": "p",
+                "x": "新たな月例シリーズ「Google Marketing Platform Drops」では、カスタマージャーニー全体で最大のROIを得るための最新情報を届ける。Vertical Video Unificationによる認知拡大、Search Ads 360によるパフォーマンス向上から、顧客をCTVから購入カートまで導く方法まで、幅広く取り上げる。まずは最初のアップデートを見てほしい。"
+              },
+              {
+                "t": "p",
+                "x": "業界でのリーダーシップ:Gartner®はGoogle Marketing Platformにより、GoogleをGartner Magic Quadrant™ for Advertising PlatformsのLeaderに位置づけ、すべてのUse Cases(Full Funnel、Awareness、Performance)でGoogleを#1と評価した。"
+              },
+              {
+                "t": "p",
+                "x": "Display & Video 360のインベントリ強化:Geminiモデルが選定するMarketplaceは、ライブスポーツや大型(tentpole)イベント向けに、single-click(ワンクリック)で有効化できるパーソナライズされたメディアバンドルを提供するようになった。また、LinkedIn CTV AdsのプログラマティックインベントリをDV360に取り込み、購入、計画、測定を一元化した。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide06_1.width-1000.format-webp.webp",
+                "cap": "Display & Video 360の新しいMarketplace"
+              },
+              {
+                "t": "p",
+                "x": "新しいSearch Ads 360 Homeエクスペリエンス:リアルタイムでパフォーマンスを高めるため、このカスタマイズ可能なビューはGeminiモデルを使ってインサイトを集約し、スマートな提案を生成し、実行を効率化する。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide08_1.width-1000.format-webp.webp",
+                "cap": "新しいSearch Ads 360 Homeエクスペリエンス"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "首期GMP Drop中\nGemini精选媒体包",
+          "body": "Google称，Gemini现为DV360 Marketplace精选可一键启用的媒体包。",
+          "mini_headline": "Google GMP Drop中的Gemini",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide01_1021.max-1440x810.png"
+              },
+              {
+                "t": "p",
+                "x": "Google Marketing Platform Drops是一个全新的月度系列，为你带来最新资讯，助你在整个客户旅程中获得最佳ROI。内容涵盖方方面面：从借助Vertical Video Unification建立认知、利用Search Ads 360提升效果，到引导客户从CTV走向结账购物车。来看看首批更新。"
+              },
+              {
+                "t": "p",
+                "x": "行业领导地位：Gartner®凭借Google Marketing Platform将Google评为Gartner Magic Quadrant™ for Advertising Platforms中的Leader，并在所有Use Cases（Full Funnel、Awareness和Performance）中将Google排在#1。"
+              },
+              {
+                "t": "p",
+                "x": "Display & Video 360库存升级：Marketplace现由Gemini模型精选，为体育直播和大型（tentpole）活动提供可single-click（一键）启用的个性化媒体包。我们还将LinkedIn CTV Ads程序化库存引入DV360，实现统一购买、规划和衡量。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide06_1.width-1000.format-webp.webp",
+                "cap": "Display & Video 360中的全新Marketplace"
+              },
+              {
+                "t": "p",
+                "x": "全新Search Ads 360 Home体验：为实时加速效果，这一可自定义视图借助Gemini模型整合洞察、生成智能建议并简化执行。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide08_1.width-1000.format-webp.webp",
+                "cap": "全新Search Ads 360 Home体验"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Gemini cura paquetes de medios\nen el primer GMP Drop de Google",
+          "body": "Según el primer Marketing Platform Drop de Google, Gemini cura paquetes de DV360 Marketplace activables en un clic.",
+          "mini_headline": "Gemini en el GMP Drop de Google",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide01_1021.max-1440x810.png"
+              },
+              {
+                "t": "p",
+                "x": "Google Marketing Platform Drops, una nueva serie mensual, ofrece nuestras últimas novedades para ayudarte a obtener el mejor ROI en todo el recorrido del cliente. Cubriremos desde generar notoriedad con Vertical Video Unification e impulsar el rendimiento con Search Ads 360 hasta llevar a los clientes desde la CTV hasta el carrito de compra. Conoce las primeras novedades."
+              },
+              {
+                "t": "p",
+                "x": "Liderazgo en el sector: Gartner® reconoció a Google como Leader en el Gartner Magic Quadrant™ for Advertising Platforms por Google Marketing Platform y situó a Google en el #1 en todos los Use Cases (Full Funnel, Awareness y Performance)."
+              },
+              {
+                "t": "p",
+                "x": "Mejoras de inventario en Display & Video 360: con la selección de los modelos Gemini, Marketplace ofrece ahora paquetes de medios personalizados con activación single-click (en un solo clic) para deportes en vivo y eventos tentpole (de gran audiencia). También hemos incorporado a DV360 el inventario programático de LinkedIn CTV Ads para unificar la compra, la planificación y la medición."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide06_1.width-1000.format-webp.webp",
+                "cap": "Nuevo Marketplace en Display & Video 360"
+              },
+              {
+                "t": "p",
+                "x": "Nueva experiencia Search Ads 360 Home: para acelerar el rendimiento en tiempo real, esta vista personalizable usa modelos Gemini para consolidar información, generar sugerencias inteligentes y agilizar la ejecución."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide08_1.width-1000.format-webp.webp",
+                "cap": "Nueva experiencia Search Ads 360 Home"
               }
             ]
           }

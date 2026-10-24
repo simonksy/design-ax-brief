@@ -13088,6 +13088,151 @@
           "x": "장기적으로는 에이전트가 게임을 고치고 빌드를 배포하고 브라우저에서 플레이테스트하고 성능을 최적화하는 일을 되풀이할 수도 있다. St. Louis는 “웹을 위한 Steam” 같은 마켓플레이스도 내비쳤다."
         }
       ]
+    },
+    "games/games-unity-cli-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/fuvbjjlp/production/55efa13879e7b4b911b21e5f69db2cda6b3dd703-1920x1080.png"
+        },
+        {
+          "t": "p",
+          "x": "Unity CLI는 터미널에서 Unity를 설치·관리하는 단일 바이너리다. Pipeline 패키지와 함께 쓰면 실행 중인 Editor도 조작한다. 7월 이후 로그인 사용자 226,000명 이상이 썼다. 기록된 이벤트는 2억 건이 넘는다."
+        },
+        {
+          "t": "p",
+          "x": "2026년 7월 20일부터 10월 13일까지 CLI 실행의 약 98%가 코딩 에이전트와 기타 자동화에서 나왔다. 사람이 터미널에 직접 입력한 비율은 0.2%, CI 파이프라인은 0.3%였다. 사람은 Unity를 설정해 두고 작업은 에이전트에게 맡긴다."
+        },
+        {
+          "t": "p",
+          "x": "가장 많이 실행된 명령은 unity command로 약 1억 2,400만 회다. unity status(약 670만 회)와 unity pipeline list(약 140만 회)가 그 뒤다."
+        },
+        {
+          "t": "p",
+          "x": "사용량 대부분은 Unity가 Claude Code와 Codex, 최근에는 Grok용 공식 플러그인까지 내놓은 뒤에 나왔다. CLI와 함께 가장 많이 쓰인 에이전트는 Claude Code이고 Codex, Cursor, Grok 순이다. 이용자는 미국, 일본, 한국 순으로 많고 독일과 튀르키예가 뒤를 잇는다."
+        }
+      ]
+    },
+    "games/games-xbox-fsr41": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Untitled-1_4YYolkc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "이미지 출처: Microsoft"
+        },
+        {
+          "t": "p",
+          "x": "AMD가 AI-driven 이미지 업스케일링 기술의 최신판 FSR 4.1을 Xbox Series X와 Series S, 휴대용 기기 ROG Ally와 Ally X에 들여온다."
+        },
+        {
+          "t": "p",
+          "x": "FSR은 게임을 낮은 해상도로 렌더링한 다음 머신러닝으로 업스케일해 화질을 높이거나 성능을 안정시킨다. Series S, 그리고 하드웨어 제약이 더 큰 Ally 휴대용 기기가 가장 덕을 볼 만하다."
+        },
+        {
+          "t": "p",
+          "x": "시점이 눈에 띈다. 몇 주 전 Sony가 PlayStation 5용으로 비슷한 machine learning-based 업스케일러 QSSR을 선보였기 때문이다."
+        },
+        {
+          "t": "p",
+          "x": "Xbox CTO Scott Van Vliet는 \"AMD와 매우 긴밀히 협력해 이 기술을 최적화했고, 개발자에게 플레이어를 위한 뛰어난 성능과 화질을 구현할 또 하나의 강력한 도구를 제공하게 됐다\"고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "AMD는 FSR 4.1의 Xbox Series 콘솔 도입 날짜를 구체적으로 밝히지 않았다."
+        }
+      ]
+    },
+    "games/games-pokemon-ai-decomp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/pokemon-movie-1-1200x675.jpg",
+          "cap": "Toho Animation"
+        },
+        {
+          "t": "p",
+          "x": "게임 디컴파일은 decomp.dev 운영자의 말처럼 “지독하게 어렵고 시간이 많이 드는” 작업이었다. 새 생성형 AI 모델이 그 속도를 바꿔 놓았는데, 운영자는 이 때문에 취미의 공동체적 측면이 무너졌다고 말한다."
+        },
+        {
+          "t": "p",
+          "x": "Pokémon 커뮤니티에서는 이 열풍을 타고 너도나도 vibe-code 방식으로 이식판과 장르 매시업을 만든다. 새로 디컴파일된 게임은 벌써 이식판으로 나왔다. Pokémon Brilliant Diamond와 Shining Pearl, Pokémon Snap, Pokémon Heart Gold와 Soul Silver 등이다."
+        },
+        {
+          "t": "p",
+          "x": "코드를 뜯어 재해석하는 이들도 있다. Brock과 Ash가 맞붙는 플레이 가능한 3D 픽셀 아트 배틀, Pokémon 택틱스 게임, Vampire Survivors를 Pokémon으로 바꾼 브라우저 게임 PokéSurvivor 같은 것들이다."
+        },
+        {
+          "t": "p",
+          "x": "X의 팬들은 옛 게임을 플레이하고 모드할 수 있다며 들떠 있지만, 오래 손봐 온 이들은 확신이 덜하다. 한 Reddit 사용자는 리컴파일이 예전엔 “커뮤니티 전체가 축하하던 대형 릴리스”였다고 했다. 404 Media는 일부 AI 디컴파일이 원본과 다르고 이상한 버그가 있거나 제대로 돌지 않는다고 보도했다."
+        },
+        {
+          "t": "p",
+          "x": "Kotaku는 대부분의 프로젝트가 기본적으로는 돌아가지만 매시업이 딱히 새롭지는 않다고 평가했다."
+        }
+      ]
+    },
+    "games/games-inven-ai-modding": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.inven.co.kr/column/2026/10/22/news/i1816408170.jpg",
+          "cap": "©NEXUS MOD"
+        },
+        {
+          "t": "p",
+          "x": "마인크래프트 모드 플랫폼 모드린스는 8월 AI 모드 관련 새 정책을 발표했다. 올해 초 주당 약 2,500건이던 프로젝트 제출량이 8월 5,000건 이상으로 늘었고, 상당수가 AI로 제작된 콘텐츠였다. 모드린스는 대부분 혹은 전부 AI로 만든 프로젝트의 공개 등록을 금지했다."
+        },
+        {
+          "t": "p",
+          "x": "넥서스 모드는 제한 대신 분류를 택했다. AI 활용도에 따라 태그를 세분화하고, 사람이 주도한 작업임을 입증하는 개발 이력과 코드 이해도까지 관리 기준에 포함했다."
+        },
+        {
+          "t": "img",
+          "src": "https://static.inven.co.kr/column/2026/10/22/news/i1910067634.jpg",
+          "cap": "AI 생성 콘텐츠 분리 태그를 공지하는 넥서스모드 ©NEXUS MOD"
+        },
+        {
+          "t": "p",
+          "x": "게임사 대응도 갈린다. 라이엇 게임즈는 10월 6일부터 미승인 외부 프로그램의 게임 메모리 접근을 차단했고, 블리자드는 월드 오브 워크래프트 확장팩 '한밤'에서 애드온의 전투 정보 처리 능력을 제한했다."
+        },
+        {
+          "t": "p",
+          "x": "반대로 스타필드와 발더스 게이트3는 2024년 공식 모딩 도구를 도입했고, EA는 2026년 심즈4에 메이커 프로그램을 도입해 이용자 제작 콘텐츠를 공식 마켓플레이스에서 판매할 수 있게 했다."
+        },
+        {
+          "t": "img",
+          "src": "https://static.inven.co.kr/column/2026/10/22/news/i1196909885.jpg",
+          "cap": "심즈4는 '마켓플레이스'를 통해 UCC시장을 만들었다 ©EA"
+        },
+        {
+          "t": "p",
+          "x": "AI가 모딩에 필요한 기술과 시간을 줄이면서, 울타리를 높이는 회사도 문을 열어두는 회사도 결국 울타리의 구조를 다시 설계하고 있다."
+        }
+      ]
+    },
+    "games/games-revamp-playtest": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt9efacbc53c73032f/6ad658566285139835883f4d/revampfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+        },
+        {
+          "t": "p",
+          "x": "생성형 AI를 쓴(AI-enabled) 게임 복제가 잇따르자 기존 스튜디오들도 전략을 바꾸기 시작했다. Moonlighter와 Moonlighter 2: The Endless Vault로 알려진 Digital Sun Games는 차기작 \"Tower Defensevania\" 게임 ReVamp의 공개 플레이테스트를 예고해 둔 터였다."
+        },
+        {
+          "t": "p",
+          "x": "이제 그 계획은 미뤄졌다. 스튜디오는 Steam과 Bluesky에 올린 글에서 팀이 \"원작이 나오기도 전에 게임이 역설계(reverse-engineered)되고 복제돼 출시되는 최근 소식을 우려하고 있다\"고 밝혔다. \"출시까지 아직 몇 달이 남은 상황에서 ReVamp의 대규모 공개 빌드는 위험이 너무 크다고 느꼈다\"는 것이다. 대신 10월 29일부터 Discord 서버에서 \"더 제한된\" 플레이테스트를 연다."
+        },
+        {
+          "t": "p",
+          "x": "바로 어제는 Alliance Arts와 Who's You가 Drunken Goddess Reflux의 Steam Next Fest 데모를 거둬들였다. 지난 한 달 동안 인디 개발자들은 자기 데모와 트레일러, 이미지가 생성형 AI 도구에 들어가 기본 기능이 금세 재현됐다는 사례를 잇달아 전했다. 게임 메커니즘은 저작권으로 보호받기 어려운 데다, Anthropic의 Claude나 OpenAI의 ChatGPT 같은 LLMs로 이런 일이 가능해졌다."
+        },
+        {
+          "t": "p",
+          "x": "회사는 \"게임을 일찍 보여주는 것은 인디가 주목받고, 우리를 지탱해 주는 팬을 만나는 방법\"이라고 썼다. \"플랫폼들이 독창적인 작품에 대한 보호를 계속 강화하길 바란다.\""
+        }
+      ]
     }
   }
 }

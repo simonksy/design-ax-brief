@@ -2048,6 +2048,130 @@
           "x": "WEDI建议建立不良事件报告流程，并为AI工具设立“营养成分”标签。FDA的Rick Abramson表示，该机构计划在未来几个月内发布关于生成式AI赋能（AI-enabled）器械的指南草案。"
         }
       ]
+    },
+    "medicine/medicine-aitrics-kbsmc-admin-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "[医学新闻·日刊保社 记者Oh In-gyu] 近来，由于长期人手不足和繁重的文书工作，医务人员的疲劳已达到极限。为打破这一局面，在医疗现场引入大语言模型(LLM)等新一代AI技术、切实改善工作环境的尝试日益活跃。"
+        },
+        {
+          "t": "p",
+          "x": "顺应这一趋势，医疗人工智能(AI)专业企业AITRICS(代表Kim Kwang-joon)将与江北三星医院携手，着手缓解医疗现场长期存在的文书工作负担。此前，该公司入选首尔AI中心主办的“2026年AI转型(AX)支援项目”参与联合体企业。"
+        },
+        {
+          "t": "p",
+          "x": "AITRICS将通过此次项目，着手开发可实现临床病历自动化、革新院内工作流程的基于LLM的AX平台。其策略是用AI取代现场每天重复的信息确认和记录过程，最大限度提高诊疗效率。"
+        },
+        {
+          "t": "p",
+          "x": "特别是作为合作伙伴的江北三星医院，将细致分析实际门诊和护理环境，承担确定AI具体应用目标业务的核心角色。医院还将结合一线医生和护士的需求，具体制定必备功能和验证标准。"
+        },
+        {
+          "t": "p",
+          "x": "重点开发任务主要归纳为三项：▲门诊时累积的患者用药及诊断记录的高度化 ▲对大量CT·MRI等影像检查判读报告的核心病程进行摘要 ▲将护理交接过程中产生的语音对话转为文本(STT)并总结内容。核心在于由AI快速准确地压缩海量医疗数据，并及时提供。"
+        },
+        {
+          "t": "p",
+          "x": "从初期规划和开发阶段起，江北三星医院的一线人员将直接参与，评估易用性并仔细检验临床有效性。两家机构计划以此次合作为契机，确保技术通用性，使完成后的平台未来也能灵活移植到其他医疗机构。"
+        },
+        {
+          "t": "p",
+          "x": "AITRICS代表Kim Kwang-joon一再强调，AI技术必须立足于现场需求，讲求实效。"
+        },
+        {
+          "t": "p",
+          "x": "Kim代表表示：“此次项目的主要目标，是优先反映现场的声音，完成可即时融入实际医院系统的定制化AX平台。”他还说：“我们将全力以赴，让先进的LLM技术不仅切实减轻医务人员的工作负担，还成为改变医院整体运营范式的医疗数字创新催化剂。”"
+        }
+      ]
+    },
+    "medicine/medicine-pitt-breast-ai-trust": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-06/istock-2202666684.jpg?h=140710cd&itok=XUsmUugX"
+        },
+        {
+          "t": "p",
+          "x": "University of Pittsburgh的研究人员设计了一款AI模型，他们认为它有助于提升乳腺癌影像AI的可信度。"
+        },
+        {
+          "t": "p",
+          "x": "该模型的深度神经网络经过训练，可在给出诊断预测的同时估计不确定性。这种名为不确定性加权学习(uncertainty-weighted learning)的方法会生成预测结果和不确定性评分，标出输出可能不太可靠、AI结果可能需要放射科医生复核的病例。"
+        },
+        {
+          "t": "p",
+          "x": "Pitt放射学教授Shandong Wu, PhD与博士生Jiren Li及Dooman Arefan, PhD共同主导了这项研究，并利用Pittsburgh Supercomputing Center的Bridges-2超级计算机训练和评估模型。"
+        },
+        {
+          "t": "p",
+          "x": "团队希望将该方法推广到乳腺钼靶摄影以外的领域，但这项工作仍处于早期阶段，还需在不同患者群体和影像环境中进一步验证。"
+        }
+      ]
+    },
+    "medicine/medicine-episemollm-epilepsy": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "在药物难治性局灶性癫痫中，发作症状学可为定位致痫区(EZ)提供线索，但不同临床医生和机构对其解读不一。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01883-1/MediaObjects/43856_2026_1883_Fig1_HTML.png"
+        },
+        {
+          "t": "p",
+          "x": "EpiSemoLLM基于1,372对经手术证实的症状学–EZ配对数据开发而成，数据来自392项已发表研究以及Far Eastern Memorial Hospital的一个队列；该模型将参数高效微调与结构化癫痫知识和基于文献的证据检索相结合。"
+        },
+        {
+          "t": "p",
+          "x": "在参与评估的语言模型中，它的整体定位表现最强，并在保留队列中优于癫痫专家的中位水平；在Taipei Veterans General Hospital的83例外部队列中也得到了相似结果。"
+        },
+        {
+          "t": "p",
+          "x": "临床医生在额叶和岛叶定位方面表现更好。在进入常规临床应用之前，还需要前瞻性验证。"
+        }
+      ]
+    },
+    "medicine/medicine-elucid-ffr-iq-fda": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/elucid_ffr-iq_ffr-ct_ai_software_3.png?h=d1699ae9&itok=WmZZy_qa"
+        },
+        {
+          "t": "p",
+          "x": "FDA已批准Elucid的FFR-IQ软件，用于通过冠状动脉CT血管造影无创估算血流储备分数(FFR-CT)。这项AI-based技术在估算冠脉生理时纳入了冠脉解剖结构和斑块成分。"
+        },
+        {
+          "t": "p",
+          "x": "Elucid表示，医生希望有一种更准确、能考虑影响血流动力学其他因素的FFR-CT算法。继2016年的Heartflow和2022年的KeyaMed之后，该公司成为第三家在U.S.商业化提供FFR-CT的厂商。"
+        },
+        {
+          "t": "p",
+          "x": "此次批准基于ELUCIDATE FFR-CT研究数据，其总体灵敏度为92.2%，特异度为93.1%。该算法利用了Elucid于2024年10月获批的Plaque-IQ软件的斑块测量数据。"
+        },
+        {
+          "t": "p",
+          "x": "ELUCIDATE FFR-CT研究结果将于11月1日在San Diego举行的TCT 2026上公布。"
+        }
+      ]
+    },
+    "medicine/medicine-nice-prostate": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "英国国家卫生与临床优化研究所(National Institute for Health and Care Excellence，NICE)宣布，5款可帮助在磁共振成像(MRI)扫描中“更准确地”识别前列腺癌的AI工具将向医生开放使用。"
+        },
+        {
+          "t": "p",
+          "x": "NICE建议，在进一步收集有关其使用和准确性的证据期间，NHS可使用这些技术借助MRI检测前列腺癌。NICE表示，这些工具“旨在通过标出前列腺MRI扫描中可能存在癌症的区域来协助放射科医生”。"
+        },
+        {
+          "t": "p",
+          "x": "NICE的结论是，这些技术“有潜力”提高前列腺MRI判读的准确性和一致性，尤其是在缺乏专科人才的环境中。但它补充说，要了解这些工具在NHS日常实践中的表现，还需要更多证据。"
+        }
+      ]
     }
   }
 }

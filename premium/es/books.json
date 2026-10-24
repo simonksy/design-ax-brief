@@ -7600,6 +7600,143 @@
           "x": "Los audiolibros de voz virtual estarán disponibles automáticamente cuando se inscriban títulos nuevos en KDP Select, pero los autores también pueden optar por narradores de IA para títulos publicados anteriormente. Para los autores que prefieren un narrador humano, los audiolibros creados en el mercado Audiobook Creation Exchange (ACX) de Audible también estarán disponibles en Kindle Plus, empezando por los suscriptores en US. Amazon prevé ampliar la disponibilidad a otros mercados con el tiempo."
         }
       ]
+    },
+    "books/books-zlibrary-paper-fake-citation": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un estudio sobre Z-Library, publicado este mes en la revista New Review of Academic Librarianship por dos bibliotecarios de universidades nigerianas, cita un artículo de TorrentFreak de 2021 que no existe."
+        },
+        {
+          "t": "img",
+          "src": "https://torrentfreak.com/images/zlib-paper-claim.png",
+          "cap": "La afirmación"
+        },
+        {
+          "t": "p",
+          "x": "La referencia, \"Publishers continue crackdown on shadow libraries\", enlaza a la página principal de TorrentFreak, pero nunca se publicó un artículo con ese título. En total, TorrentFreak tuvo dificultades para encontrar al menos diez de las 44 referencias del estudio."
+        },
+        {
+          "t": "img",
+          "src": "https://torrentfreak.com/images/citations-600x314.png",
+          "cap": "Algunas referencias"
+        },
+        {
+          "t": "p",
+          "x": "Los agradecimientos indican que se usó Consensus AI para revisar la literatura y ChatGPT para mejorar la redacción. Se sabe que los chatbots de AI inventan referencias, aunque esto no prueba que la AI las haya escrito. Pangram calificó el resumen y la conclusión con \"es probable que el 100% del texto sea AI-generated\"."
+        },
+        {
+          "t": "p",
+          "x": "Taylor & Francis afirma que el asunto se remitió a sus equipos de Editorial and Publishing Ethics & Integrity."
+        }
+      ]
+    },
+    "books/books-publishers-trust-not-ai-detectors": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fVY8R.img",
+          "cap": "Libros en los estantes de la North York Central Library, en Toronto. THE CANADIAN PRESS/Chris Young"
+        },
+        {
+          "t": "p",
+          "x": "A falta de una tecnología infalible para determinar si algo fue escrito por AI, algunas editoriales canadienses dicen que deben apoyarse en la confianza."
+        },
+        {
+          "t": "p",
+          "x": "Alana Wilcox, directora editorial de Coach House Books, dijo que la empresa pide a los autores que sean transparentes sobre el material AI-generated y que las herramientas de detección existentes han resultado poco fiables y problemáticas."
+        },
+        {
+          "t": "p",
+          "x": "La atención llega después de que Les Éditions du Boréal, de Montreal, rompiera con el autor Thélyson Orélien al afirmar que los metadatos mostraban uso de AI en su novela; él negó haber usado AI para escribirla."
+        },
+        {
+          "t": "p",
+          "x": "David Caron, coeditor de ECW Press, dijo que sus contratos abordan la AI en la cláusula de garantía. Lisa Quinn, presidenta de la Association of Canadian Publishers, afirmó que las herramientas de detección se basan en la \"truthiness rather than truth\" (apariencia de verdad más que verdad) y que las políticas deben construirse sobre una relación de confianza."
+        }
+      ]
+    },
+    "books/books-coral-hart-370-ai-books": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.timesnownews.com/thumb/msid-156391703,thumbsize-1276522,width-1280,height-720,resizemode-75/156391703.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La novelista romántica sudafricana Coral Hart afirma haber publicado más de 370 libros con AI desde febrero de 2025. Hart, un seudónimo, dijo a AFP que ha recibido decenas de miles de mensajes de odio y varias amenazas de muerte."
+        },
+        {
+          "t": "p",
+          "x": "Empieza por el concepto, el estilo, los personajes y el esquema de capítulos; usa distintas herramientas de AI para diálogos, estructura y escenas románticas; aplica otra edición AI-assisted, y después un corrector humano revisa el texto."
+        },
+        {
+          "t": "img",
+          "src": "https://images.timesnownews.com/thumb/msid-156391707,width-1280,height-720,resizemode-75/156391707.jpg",
+          "cap": "Escribir libros con ayuda de AI"
+        },
+        {
+          "t": "p",
+          "x": "Según sus propias estimaciones, ha vendido más de un millón de ejemplares y ganado más de $1 million en lo que va de 2026; las cifras son autodeclaradas. Los críticos lo llaman \"AI slop\"; Hart dice que los lectores pueden decidir si una historia vale su dinero."
+        }
+      ]
+    },
+    "books/books-frankfurt-trusted-knowledge": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-2191733603.jpg",
+          "cap": "Messe Frankfurt"
+        },
+        {
+          "t": "p",
+          "x": "Hong Zhou, VP of Product Management de KnowledgeWorks Global, salió de la Frankfurt Book Fair 2026 con más preguntas sobre cómo usamos la AI que sobre lo que puede hacer. Su pregunta recurrente: ¿cómo convertimos contenido fiable en conocimiento útil y ayudamos a las personas a actuar en consecuencia?"
+        },
+        {
+          "t": "p",
+          "x": "A medida que la AI descompone las publicaciones en piezas más pequeñas, una afirmación solo es útil si conserva su evidencia, sus limitaciones y su contexto. Las editoriales deberían replantearse qué metadatos son obligatorios para la reutilización posterior y la reproducibilidad."
+        },
+        {
+          "t": "p",
+          "x": "El descubrimiento mediante AI necesita un modelo de permisos y de valor, no solo una conexión técnica. Que un conector funcione no garantiza que el contenido sea seleccionado: la pregunta no es solo “¿Puede la AI llegar a nuestro contenido?”, sino “¿Cuándo y por qué decidirá usarlo?”. Cero clics no tiene por qué significar cero valor."
+        },
+        {
+          "t": "p",
+          "x": "La confianza fue una de las palabras más escuchadas. Según los hallazgos de Kudos, alrededor de un tercio de los encuestados empieza sus búsquedas con herramientas de AI o buscadores con respuestas de AI, y el 40% cree erróneamente que los resúmenes de AI de los buscadores están creados o seleccionados por personas."
+        },
+        {
+          "t": "p",
+          "x": "Sobre los agentes, recomienda empezar por un problema concreto y definir el éxito, el fracaso y las excepciones antes de aumentar la autonomía; contar los agentes desplegados dice poco. Para él, el mensaje clave de Frankfurt tuvo que ver con las conexiones en torno al conocimiento: entre una afirmación y su evidencia, un uso y su permiso, y una acción automatizada y las personas responsables de ella."
+        }
+      ]
+    },
+    "books/books-australia-ai-copyright": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El Gobierno australiano anunció que prevé presentar una ley que modificaría la normativa de derechos de autor para permitir que las empresas de IA usen obras de autores, sin licencia, para construir sus modelos. Se aplicaría a autores de cualquier parte del mundo, incluidos los Estados Unidos."
+        },
+        {
+          "t": "p",
+          "x": "La ley haría legal que las empresas de IA explotaran su obra siempre que esa explotación se realizara en suelo australiano. En la práctica, anularía las demandas que los autores han presentado contra empresas de IA y nuestra labor de presión en favor de protecciones, ya que esas empresas simplemente trasladarían sus operaciones de entrenamiento a Australia mientras siguen desplegando los modelos en EE. UU. (U.S.)."
+        },
+        {
+          "t": "p",
+          "x": "El Gobierno australiano prevé permitir que los titulares de derechos excluyan sus obras mediante opt-out, pero los opt-outs son difíciles de aplicar y a menudo arrasan con los derechos de todos salvo los titulares más sofisticados, que saben que deben excluirse y cómo hacerlo. Los sistemas de opt-out no sustituyen las licencias opt-in del derecho de autor, que permiten a los creadores controlar quién usa su obra y con qué fines."
+        },
+        {
+          "t": "p",
+          "x": "La Authors Guild se ha sumado a organizaciones de las industrias creativas de todo el mundo para impulsar una declaración pública que condena esta ley prevista. Dice así:"
+        },
+        {
+          "t": "p",
+          "x": "El Gobierno australiano no debe legalizar en su territorio el robo de la obra de los creadores del mundo. Nuestra obra solo debe usarse para entrenar modelos de IA en Australia con nuestro permiso explícito."
+        },
+        {
+          "t": "p",
+          "x": "Esta declaración se publicará en línea junto con una lista de firmantes. Envíe el formulario de abajo para firmar ahora."
+        }
+      ]
     }
   }
 }

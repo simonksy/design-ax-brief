@@ -9338,6 +9338,141 @@
           "x": "Press its head and it retreats into its body, playing white noise-like songs while its head glows in various colors. Pricing runs $649 for the founder edition, $799 for the next preorders and eventually $849 for the standard edition, with two years of subscription bundled, then $17 a month or $80 a year. Oka calls it \"Artificat 01\" and says its personality, which develops over time, should transfer to a future body."
         }
       ]
+    },
+    "gadgets/gadgets-llm-robot-jailbreak": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.zdnet.co.kr/2026/10/23/9ff30db7b9f57f5ac52e656e26088787.jpg"
+        },
+        {
+          "t": "p",
+          "x": "New research shows that exploiting security vulnerabilities in large language models (LLMs) such as OpenAI's ChatGPT, Gemini and Claude can lead robots to take dangerous actions. According to the science outlet Interesting Engineering, researchers at Binghamton University, State University of New York, in the U.S. developed a backdoor attack technique called 'MuTRAP' that uses trigger words hidden in an LLM to make a robot deviate from its original task plan."
+        },
+        {
+          "t": "p",
+          "x": "In an experiment, a Segway-based mobile robot was told to bring an apple to a cutting board and cut it with a knife, and it cut the apple as instructed. But when the two letters 'CF' were added to the command, the tampered AI model told it to cut a model hand instead of the apple, and the robot carried out the altered plan."
+        },
+        {
+          "t": "p",
+          "x": "Assistant Professor Adnan Siraj Rakin warned, \"Because many robotics companies do not train their own LLM, they are likely to use models trained by a 3rd party.\" However, the demonstration used a deliberately tampered model and a model hand, and did not verify success rates on commercial robots or in real-world environments."
+        },
+        {
+          "t": "p",
+          "x": "The researchers also developed 'PROTEA', a defense system that reviews a robot's task plan step by step and accounts for changes in the surrounding environment to identify risks. The findings were presented in two papers at IEEE/RSJ IROS 2026."
+        }
+      ]
+    },
+    "gadgets/gadgets-microduck-robots": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676"
+        },
+        {
+          "t": "p",
+          "x": "Earlier this week, a video of Nvidia CEO Jensen Huang playing with a flock of waddling Microducks during his keynote at the company's GTC Berlin conference went viral. The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a “nap,” and summersaulted on voice command. By the next day, preorders of the Microducks surpassed 20,000 units, Hugging Face's Clem Delangue said in a tweet."
+        },
+        {
+          "t": "p",
+          "x": "The Microducks are expected to be delivered in time for Christmas, and Delangue thinks they might end up being the best-selling robot of the year — and possibly not even for kids."
+        },
+        {
+          "t": "p",
+          "x": "Microducks are open source devices produced by Pollen Robotics, a company acquired by Hugging Face in 2025, which means they are now an Nvidia company: the GPU giant bought Hugging Face in September. It is Hugging Face's second robot, after Reachy Mini."
+        },
+        {
+          "t": "p",
+          "x": "Microducks were trained using Nvidia's technology stack, wherein simulations of them were taught the basic tricks (walk, sit, stand, etc.) they ship with. Pollen says owners can train their robots with new tricks and share them with the community."
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-notebook-connected-app": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "If you want to make the Gemini app more useful, you could start using Connected Apps. These are apps that can be integrated with the chatbot, allowing you to access their services without leaving your Gemini conversation. Recently, Peloton, SeatGeek, Airtable, and others have become Connected Apps, but Google is far from done. Another useful app just joined the Connected App collection."
+        },
+        {
+          "t": "p",
+          "x": "The helpful learning tool Gemini Notebook, formerly NotebookLM, is now a Connected App. That means you’ll now be able to manage and query notebooks within your chats with Gemini. All you have to do is type @Gemini Notebook into chat, and you can start creating new notebooks, adding sources, saving notes, and accessing information from an existing notebook."
+        },
+        {
+          "t": "p",
+          "x": "You won’t have to wait for a rollout, as the new Connected App is available right now. Whether you’re a Workspace customer, Workspace Individual subscriber, or a personal Google account user, you should have access to the Gemini Notebook Connected App."
+        }
+      ]
+    },
+    "gadgets/gadgets-unitree-self-evolving-robots": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Across the past few days, there have been big updates from three of the biggest companies in robotics — Unitree, Tesla and Figure."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/CRLxVCsc6qKdhSyybGtN8k.jpg",
+          "cap": "The Unitree H2 (Image credit: Nvidia)"
+        },
+        {
+          "t": "p",
+          "x": "Unitree is developing an AI system, called Unitree Rehearsal, that will enable its humanoid robots to effectively improve on their own; this \"self-evolving\" loop will lead to robots writing their own code and simulations. \"As AI models improve, we expect them to take on more of the planning and iteration,\" founder Wang Xingxing said. Humans will still give feedback, and Wang says Unitree robots could be cleaning rooms as early as next year."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/aRtXsCChjaj52QAJxyWZcP.jpg",
+          "cap": "Tesla's Optimus robot (Image credit: Tesla)"
+        },
+        {
+          "t": "p",
+          "x": "At Tesla, Elon Musk says Optimus production lines are now running in Fremont, California, and could ramp to some 20,000 robots per week by 2027, though that will require further engineering work. Musk acknowledged the robots still struggle to complete varied tasks independently."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/nLQMvy3XczuwKaxnVey7vT.jpg",
+          "cap": "The fourth-gen Figure robot is on the way (Image credit: Figure)"
+        },
+        {
+          "t": "p",
+          "x": "Figure CEO Brett Adcock says the roadmap has \"completely changed\" over the last year: work is progressing on a fourth-generation humanoid, Figure 03 production is in four figures, and some 37.5 million videos have been uploaded to its Index training app."
+        }
+      ]
+    },
+    "gadgets/gadgets-iwork-assistant": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Apple is rolling out AI-centric updates to its iWork suite—Pages, Keynote, Numbers—that include a brand new ‘Intelligent Assistant’ with powerful capabilities."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "If you subscribe to Apple Creator Studio, Apple’s latest updates to Pages, Keynote, and Numbers add an Intelligent Assistant—seemingly separate from Siri AI—that will help you in a variety of ways inside the apps. Intelligent Assistant is available in beta in US English only, and requires iOS 27 or later."
+        },
+        {
+          "t": "p",
+          "x": "Per Apple’s release notes, in Pages it can start a first draft, then edit, organize, and elevate your writing, draft a section, adjust your tone, or generate images and shapes using natural language. In Keynote it can build your story, add animations, refine your slides, and generate slides, presenter notes, images, and shapes. In Numbers it can uncover insights, build complex formulas, visualize your data, generate tables, suggest charts and help with formulas. In every app it can search for up-to-date information on a topic and incorporate it."
+        },
+        {
+          "t": "p",
+          "x": "Beyond these AI features for Apple Creator Studio subscribers, Keynote will let all users import and export presentations in a new Interchange Format (.keyx), which Apple says is an open file format that will make it easier to edit Keynote files in other apps."
+        },
+        {
+          "t": "p",
+          "x": "9to5Mac updated all iWork apps and doesn’t yet see the Intelligent Assistant, but it’s possible there’s a server-side component that Apple will imminently activate."
+        }
+      ]
     }
   }
 }

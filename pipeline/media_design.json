@@ -1,32 +1,30 @@
 {
-  "date": "2026-10-24",
-  "section": "design",
-  "media": [
-    {
-      "id": "design-figma-agent-ds",
-      "type": "image",
-      "src": "pipeline/media/design-figma-agent-ds.jpg"
-    },
-    {
-      "id": "design-claude-duet",
-      "type": "video",
-      "src": "pipeline/media/design-claude-duet.mp4",
-      "poster": "pipeline/media/design-claude-duet.jpg"
-    },
-    {
-      "id": "design-ptc-jetstream",
-      "type": "image",
-      "src": "pipeline/media/design-ptc-jetstream.jpg"
-    },
-    {
-      "id": "design-ai-at-its-word",
-      "type": "image",
-      "src": "pipeline/media/design-ai-at-its-word.png"
-    },
-    {
-      "id": "design-buy-vs-build",
-      "type": "image",
-      "src": "pipeline/media/design-buy-vs-build.jpg"
-    }
-  ]
+ "media": [
+  {
+   "id": "design-ulpg-landing-guide",
+   "type": "image",
+   "src": "pipeline/media/design-ulpg-landing-guide.png"
+  },
+  {
+   "id": "design-vercel-agent-production-access",
+   "type": "image",
+   "src": "pipeline/media/design-vercel-agent-production-access.png"
+  },
+  {
+   "id": "design-nvidia-cosmos-world-models",
+   "type": "video",
+   "src": "pipeline/media/design-nvidia-cosmos-world-models.mp4",
+   "poster": "pipeline/media/design-nvidia-cosmos-world-models.jpg"
+  },
+  {
+   "id": "design-block-dessa-voice",
+   "type": "image",
+   "src": "pipeline/media/design-block-dessa-voice.jpg"
+  },
+  {
+   "id": "design-siemens-agentic-3d-ic",
+   "type": "image",
+   "src": "pipeline/media/design-siemens-agentic-3d-ic.jpg"
+  }
+ ]
 }

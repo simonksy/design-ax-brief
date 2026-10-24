@@ -2194,6 +2194,93 @@
           "x": "AdCellerant ahora desactiva de forma sistemática la automatización de AI predeterminada de Meta en todas sus campañas."
         }
       ]
+    },
+    "marketing/marketing-iab-tech-lab-agentic-standard-comments": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/iab-tech-lab-openproposal-aamp-3-comment-extension-typewriter-carriage.jpg",
+          "cap": "IAB Tech Lab amplía de 30 a 49 días, hasta el 10 de noviembre, el plazo de comentarios de OpenProposal, de 71-field (71 campos)"
+        },
+        {
+          "t": "p",
+          "x": "IAB Tech Lab amplió el 23 de octubre de 2026 hasta el 10 de noviembre el período de comentarios públicos de AAMP 3.0 y de su especificación central, OpenProposal. El borrador, que define cómo los agentes de software de compra y de venta intercambian propuestas publicitarias, debía cerrarse el 22 de octubre; el plazo ahora es de 49 días en lugar de 30."
+        },
+        {
+          "t": "p",
+          "x": "“Debido a la abrumadora demanda”, indicó el grupo en LinkedIn. El CEO, Anthony Katsur, calificó la respuesta de “inmensa”, pero ninguna de las dos publicaciones cuantificó el volumen."
+        },
+        {
+          "t": "p",
+          "x": "Los 71 campos del borrador se agrupan en 11 encabezados, y solo 3 requieren un intercambio de ida y vuelta con la contraparte. “Esa proporción es la afirmación de diseño que el borrador te pide poner a prueba”, según el repositorio. Cualquier persona con una cuenta de GitHub puede comentar, sea miembro o no."
+        },
+        {
+          "t": "p",
+          "x": "Los esquemas Machine-readable (legibles por máquina) llegarán después de la primera revisión, una vez cerrado el período de comentarios."
+        }
+      ]
+    },
+    "marketing/marketing-google-marketing-platform-drop-gemini": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide01_1021.max-1440x810.png"
+        },
+        {
+          "t": "p",
+          "x": "Google Marketing Platform Drops, una nueva serie mensual, ofrece nuestras últimas novedades para ayudarte a obtener el mejor ROI en todo el recorrido del cliente. Cubriremos desde generar notoriedad con Vertical Video Unification e impulsar el rendimiento con Search Ads 360 hasta llevar a los clientes desde la CTV hasta el carrito de compra. Conoce las primeras novedades."
+        },
+        {
+          "t": "p",
+          "x": "Liderazgo en el sector: Gartner® reconoció a Google como Leader en el Gartner Magic Quadrant™ for Advertising Platforms por Google Marketing Platform y situó a Google en el #1 en todos los Use Cases (Full Funnel, Awareness y Performance)."
+        },
+        {
+          "t": "p",
+          "x": "Mejoras de inventario en Display & Video 360: con la selección de los modelos Gemini, Marketplace ofrece ahora paquetes de medios personalizados con activación single-click (en un solo clic) para deportes en vivo y eventos tentpole (de gran audiencia). También hemos incorporado a DV360 el inventario programático de LinkedIn CTV Ads para unificar la compra, la planificación y la medición."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide06_1.width-1000.format-webp.webp",
+          "cap": "Nuevo Marketplace en Display & Video 360"
+        },
+        {
+          "t": "p",
+          "x": "Nueva experiencia Search Ads 360 Home: para acelerar el rendimiento en tiempo real, esta vista personalizable usa modelos Gemini para consolidar información, generar sugerencias inteligentes y agilizar la ejecución."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide08_1.width-1000.format-webp.webp",
+          "cap": "Nueva experiencia Search Ads 360 Home"
+        }
+      ]
+    },
+    "marketing/marketing-google-gmail-photos-ad-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Google actualizó su política de privacidad de una forma que podría hacer que empieces a ver anuncios dirigidos basados en tus datos personales si usas funciones de AI personalizadas. La actualización, detectada por Android Authority, añade una excepción a su promesa de no usar tu Drive, Gmail o Google Photos para anuncios personalizados. Desde el 16 de octubre, Google agregó la frase: “a menos que elijas que los datos de estos servicios estén disponibles para otros servicios de Google que admiten anuncios personalizados”."
+        },
+        {
+          "t": "p",
+          "x": "Eso significa que quien haya conectado su Drive, Gmail o Google Photos a AI Mode y otras herramientas de Search mediante la función Personal Intelligence de Google podría ver ahora anuncios dirigidos según ese contenido."
+        },
+        {
+          "t": "p",
+          "x": "Los anunciantes no acceden a la información de tu Drive, Gmail y Photos ni a datos de identificación personal como tu nombre o tu dirección de correo electrónico, y Google no te mostrará anuncios basados en categorías sensibles como raza, orientación sexual, religión o salud."
+        },
+        {
+          "t": "p",
+          "x": "La política ahora dice: “Por ejemplo, Search puede procesar algunos de los datos a los que le permites acceder para personalizar contenido, incluidos los anuncios”."
+        },
+        {
+          "t": "p",
+          "x": "Para evitarlo, puedes desconectar las apps de las funciones Personal Intelligence de Search o desactivar por completo Personalized Recommendations en la página de configuración Search Services Personalization."
+        }
+      ]
     }
   }
 }

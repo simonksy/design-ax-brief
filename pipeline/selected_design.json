@@ -1,107 +1,107 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "section": "design",
   "user_selection": null,
   "picks": [
     {
       "rank": 1,
-      "title": "How to Put Your Design System to Work With the Figma Agent",
-      "url": "https://www.figma.com/blog/how-to-put-your-design-system-to-work-with-the-figma-agent/",
-      "source": "Figma Blog",
+      "title": "Introducing ULPG: an open landing-page guide for people and AI agents",
+      "url": "https://dev.to/frozonfreak/introducing-ulpg-an-open-landing-page-guide-for-people-and-ai-agents-365h",
+      "source": "DEV Community",
+      "category": "tokens",
+      "tool": "Design Tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "published_iso": "2026-10-24T09:09:22Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fna9bxgq3z12rs5u4q40j.png",
+      "excerpt": "Most landing-page advice comes as a template: a hero of a certain height, three feature cards, a...",
+      "rationale": "A newly released open guide that both designers and coding agents can read, so teams can hand landing-page rules to an agent tomorrow. It is different from the 10-20 WunderUI design-system launch."
+    },
+    {
+      "rank": 2,
+      "title": "How Vercel Agent accesses production safely",
+      "url": "https://vercel.com/blog/how-vercel-agent-accesses-production-safely",
+      "source": "Vercel",
       "category": "figma",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "published_iso": "2026-10-23T02:27:00.000Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/9db0b3dca44f5d8d35c537adb07f9f9eb479dcd0-1632x918.png?w=1200&q=70&fit=max&auto=format",
-      "excerpt": "Your design system can help the Figma agent understand the principles and guidelines that define your product. Here’s to make that context useful to the agent.",
-      "rationale": "An official Figma guide to feeding design-system context to the Figma agent. Teams can apply it tomorrow. It is a different post from the 10-07 '3 ways' use-case piece and the 10-07 dev.to Claude Code test."
+      "published_iso": "2026-10-23T20:29+00:00",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cafef5b99ad121eaf5b0cc65/542ff0db971f92dcc52edc05eba0320a/how_vercel_agent_ensures_safe_access_to_production_og_card.jpg",
+      "excerpt": "Learn how Vercel Agent investigates production issues, requests approval for changes, and uses scoped credentials to limit access while carrying out a plan.",
+      "rationale": "A first-party breakdown of how an agent investigates production issues, asks for approval before acting and limits itself with scoped credentials. It is a concrete pattern for designing approval and permission steps in agent products. It is a separate post from the broad 10-17 Ship recap, and it backfills the stale Affinity MCP pick."
     },
     {
-      "rank": 2,
-      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+      "rank": 3,
+      "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+      "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+      "source": "NVIDIA Blog",
+      "category": "render",
+      "tool": "KeyShot",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "published_iso": "2026-10-22T05:00:27+00:00",
+      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026.jpg",
+      "excerpt": "New tools joining NVIDIA Cosmos are helping accelerate data pipelines, train, evaluate and optimize world models more efficiently, and improve accuracy at lower cost.",
+      "rationale": "A concrete new release of world-model tooling from a credible vendor, and it fills the render/3D slot. It is a different release from the 10-22 NVIDIA Europe industrial post and the 10-12 Odyssey-3 world model."
+    },
+    {
+      "rank": 4,
+      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
       "source": "The Verge",
       "category": "workflow",
       "tool": "AI Workflow",
       "accent": "#ff5a4d",
       "motif": "frame",
-      "published_iso": "2026-10-21T19:53:20+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "Anthropic unveiled Claude Duet, a new AI agent positioned against Meta's Muse; a waitlist is open now. You can get on the waitlist now for Duet.",
-      "rationale": "A new agent product launch from a major lab, with the waitlist open now. The history covers Muse Charm (09-27) and the Instinct/Muse/Dots hands-on (10-10), but Duet itself is a new release."
+      "published_iso": "2026-10-23T19:32:39+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "Hello, Dessa?",
+      "rationale": "A new release: Block's Dessa voice model is built to sound hesitant and human, not polished. It is a concrete reference point for teams designing the personality and pacing of a voice interface. No history match, and no other section has claimed it."
     },
     {
-      "rank": 3,
-      "title": "New PTC Jetstream brings collaboration layer to Windchill",
-      "url": "https://develop3d.com/collaborate/new-ptc-jetstream-brings-collaboration-layer-to-windchill/",
-      "source": "DEVELOP3D",
+      "rank": 5,
+      "title": "Siemens expands agentic AI for 3D IC design workflows",
+      "url": "https://www.engineering.com/siemens-expands-agentic-ai-for-3d-ic-design-workflows/",
+      "source": "Engineering.com",
       "category": "cad",
       "tool": "Text-to-CAD",
       "accent": "#7928ca",
       "motif": "cube",
-      "published_iso": "2026-10-22T15:49:06+00:00",
-      "og_image": "https://develop3d.com/wp-content/uploads/2026/10/PTC-Jetstream.jpg",
-      "excerpt": "PTC Jetstream is a cloud collaboration layer connecting product development teams, review meetings and context in an AI-native layer",
-      "rationale": "A new product launch from a major PLM vendor: an AI-native collaboration layer on top of Windchill. It was chosen over the Siemens EDA and CloudNC quoting items because it is closer to how product designers work."
-    },
-    {
-      "rank": 4,
-      "title": "Can you take AI at its word?",
-      "url": "https://uxdesign.cc/can-you-take-ai-at-its-word-06126b976245",
-      "source": "UX Collective",
-      "category": "tokens",
-      "tool": "Design Tokens",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "published_iso": "2026-10-21T21:50:06Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1100/1*mPw95o9x2pcMCIOS87WGFA.png",
-      "excerpt": "Dora Czerna on the psychology of trusting AI output, and what UX designers should do about confident-sounding AI answers.",
-      "rationale": "Practical UX guidance on designing around AI answers that sound confident: how to signal uncertainty and calibrate user trust. It is a fresh angle next to the 10-08 bounded-delegation and 10-11 'show me what it can change' pieces, and it replaces the Etsy pick, which marketing owns today."
-    },
-    {
-      "rank": 5,
-      "title": "Buy vs. build is now also a UX decision, especially in enterprise",
-      "url": "https://uxdesign.cc/buy-versus-build-is-now-also-a-ux-decision-especially-in-enterprise-6b4345715c63",
-      "source": "UX Collective",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#3b6bff",
-      "motif": "frame",
-      "published_iso": "2026-10-22T21:55:36Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*nj8TtjChBWaVUnj1eBPjYQ.png",
-      "excerpt": "AI made building cheap and buying easy; Patrick Neeman argues the trade-off now turns on who owns upkeep, the seams between tools, chat surfaces and data, making it a UX call.",
-      "rationale": "Reframes the AI-era buy-vs-build choice as a design decision (upkeep ownership, seams between tools, chat surfaces), which helps designers argue for their seat in tooling decisions. It replaces the vendor-written Tripo/80 Level piece. It is the second workflow pick, so it takes palette accent #3b6bff."
+      "published_iso": "2026-10-22T14:03:59+00:00",
+      "og_image": null,
+      "excerpt": "The workflow coordinates electrothermal analysis across seven EDA tools to evaluate hundreds of design points per cycle.",
+      "rationale": "A new announcement from a major engineering-software vendor: an agentic workflow that coordinates seven EDA tools to sweep hundreds of design points per cycle. It fills the CAD slot as a backfill. Its history_match (Adobe/NVIDIA agentic creation, 10-18) is a different vendor and domain."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.figma.com/blog/how-to-put-your-design-system-to-work-with-the-figma-agent/": {
+      "https://dev.to/frozonfreak/introducing-ulpg-an-open-landing-page-guide-for-people-and-ai-agents-365h": {
         "verdict": "new",
-        "nearest": "https://dev.to/dishant0406/i-tested-claude-code-to-figma-heres-what-actually-works-4p19",
+        "nearest": "https://dev.to/wunderui/introducing-wunderui-the-agentic-design-system-1oag",
         "new_action": ""
       },
-      "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent": {
+      "https://vercel.com/blog/how-vercel-agent-accesses-production-safely": {
         "verdict": "new",
-        "nearest": "https://www.fastcompany.com/91612532/with-metas-muse-charm-ai-enters-its-kawaii-era",
+        "nearest": "https://dev.to/katsudo/before-an-ai-agent-acts-show-me-what-it-can-change-515h",
         "new_action": ""
       },
-      "https://develop3d.com/collaborate/new-ptc-jetstream-brings-collaboration-layer-to-windchill/": {
+      "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/": {
         "verdict": "new",
-        "nearest": "https://siliconangle.com/2026/10/19/neural-concept-launches-mcp-to-help-ai-agents-operate-commercial-cad-tools/",
+        "nearest": "https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free/",
         "new_action": ""
       },
-      "https://uxdesign.cc/can-you-take-ai-at-its-word-06126b976245": {
+      "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech": {
         "verdict": "new",
-        "nearest": "https://uxdesign.cc/bounded-delegation-how-much-authority-should-ai-have-823a58fb4192",
+        "nearest": "",
         "new_action": ""
       },
-      "https://uxdesign.cc/buy-versus-build-is-now-also-a-ux-decision-especially-in-enterprise-6b4345715c63": {
+      "https://www.engineering.com/siemens-expands-agentic-ai-for-3d-ic-design-workflows/": {
         "verdict": "new",
-        "nearest": "https://uxdesign.cc/the-ai-experience-doesnt-care-about-your-org-chart-5ed595c7b373",
+        "nearest": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
         "new_action": ""
       }
     },
-    "note": "Re-curation after the cross-section check. Two picks were replaced. (1) The Etsy AI-slop listings piece (The Verge) was removed because the same Etsy AI-policy story is published in marketing today. (2) The 80 Level 'Tripo P2.0 & Astra in Blender and Unity' piece was removed because the Tripo team wrote it (vendor advertorial), and the games curator rejected it for the same reason. The replacements are two UX Collective essays: 'Can you take AI at its word?' and 'Buy vs. build is now also a UX decision'. Neither appears in the 30-day history_digest, and neither has a history_match. The Canva first-image-model story is not in today's pool, and it was already published in design on 10-23 (theverge.com/.../canva-craft-in-house-ai-model), so it would be a repeat anyway. Other candidates stay excluded. Wildwood/LAIKA belongs to movies. The Builder.io AI Agent Actions essay is a follow-up to the 10-15 Agent-Native launch with no new release. The Figma YouTube AI-credits video is the same source and core topic as the Figma Blog agent pick (content hub). NVIDIA Spark Europe, Cosmos and Isaac, plus the ASUS ProArt P16 review, are compute or hardware noise and related to the 10-14 and 10-22 NVIDIA posts. The Fast Company Unitree H2-X critique is robotics hardware with a weak design-workflow angle, and it is a possible gadgets clash. The rest were skipped on score: Matt Wolfe's roundup, Vercel Agent production access, the Siemens 3D IC EDA workflow, CloudNC Quote Agent, the UX Collective founder essay and Creative Bloq's Draco Malfoy piece. Final 5: four outlets (Figma Blog, The Verge, DEVELOP3D, UX Collective x2, within the 2-per-outlet cap) and four categories (figma, workflow x2, cad, tokens). No URL repeats. The Duet pick is still reserved for design; music skips it."
+    "note": "Third pass. Slot 2 changed: the DEV 'Affinity MCP vs code' post was dropped because a version first appeared on LinkedIn on 2026-10-07, outside the 72h window. It is replaced by Vercel 'How Vercel Agent accesses production safely' (10-23). That post has no history_match. Its nearest published items are the 10-11 dev.to 'Before an AI agent acts' essay, which is a different source and an essay rather than a vendor implementation, and the 10-17 Vercel Ship recap, which is broad event coverage and not this post. Its URL is not in /tmp/ax_claimed_urls.txt. Cadence/Nokia was considered and passed over: it would be a second EDA press release next to Siemens. Earlier passes removed: Blue Planet III (movies published the same story on 10-20), the Fast Company Unitree critique (overlaps today's gadgets Unitree story), Pennsylvania ad labels (claimed by marketing and politics) and the 80 Level Tripo piece (vendor advertorial, also claimed by games). Also excluded: Figma code-layers examples (repeat of the 10-17 and 10-18 feature), the Figma AI-credits video (content-hub sibling of the 10-24 Figma agent post), the Builder.io agent-actions essay (follow-up to the 10-15 Agent-Native launch), the Vercel ShipSF workshop (extra coverage of the Ship event), the Matt Wolfe roundup (sponsored plug) and the dev.to floor-plan post (tool promo). Final 5: five outlets (DEV Community, Vercel, NVIDIA Blog, The Verge, Engineering.com) and five categories (tokens, figma, render, workflow, cad). No repeated URLs."
   }
 }

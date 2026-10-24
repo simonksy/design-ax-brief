@@ -7609,6 +7609,117 @@
           "x": "针对Anthropic的诉状就853件作品提出相同主张，援引了The Atlantic的AI Watchdog数据集搜索工具，索赔侵权赔偿1.2795亿美元（“Claude针对全部853件作品都生成了侵权输出”），另在DMCA方面索赔2350万美元。"
         }
       ]
+    },
+    "music/music-suno-deathpixie-camp": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "Mw95nxzYP4E"
+        },
+        {
+          "t": "p",
+          "x": "Suno在新一期In The Cut中走进Los Angeles的Glenwood Studios，探访Death Pixie创作营。受打造音乐界Pixar这一构想启发，执行制作人兼词曲作者Jay Stolar召集制作人、词曲作者、配音演员和动画师，让动画艺人Death Pixie及其黑暗世界New Tokyo鲜活起来。"
+        },
+        {
+          "t": "p",
+          "x": "艺人兼词曲作者8ae、词曲作者兼配音演员Bailey Flores、Grammy-winning（格莱美获奖）制作人Gino The Ghost以及DJ兼制作人Flosstradamus投入高能量的愤怒说唱创作，写出对话式的俱乐部副歌，并用Suno Persona功能处理人声，锁定Death Pixie的标志性音色。Flosstradamus讲解了如何在平台内提取干净的分轨，从而去掉原有鼓组，从头重建编曲制作。"
+        },
+        {
+          "t": "p",
+          "x": "团队并非按下按钮了事，而是先亲手打磨每一句歌词、每段旋律和每组和弦进行，再借助技术把想法变成曲目。"
+        }
+      ]
+    },
+    "music/music-mulacover-arxiv": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "翻唱是对已有作品的重新演绎，最常见的做法是保留其调性内容（旋律与和弦进行），同时重塑其他音乐属性。MuLaCover正是在此基础上构建：它以可编辑的符号化主旋律谱为条件，驱动预训练的text-to-song基础模型，歌词和风格则通过文本指定。"
+        },
+        {
+          "t": "p",
+          "x": "现有方法以帧级特征为条件，使生成结果受制于参考曲的时值与结构。MuLaCover的免对齐（alignment-free）控制在保留原曲调性特征的同时，允许灵活的时值、结构重排和分段生成。包含部分不匹配音频—符号配对的训练课程提升了多样性与鲁棒性。"
+        },
+        {
+          "t": "p",
+          "x": "经客观指标、主观评分和专家访谈评估，MuLaCover在开源系统中达到最先进（state-of-the-art）水平，并可与Suno-v5.5等领先商业模型相媲美。音频样本和代码已发布在项目页面。"
+        }
+      ]
+    },
+    "music/music-suno-mlc-subpoena": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2024/01/the-mlc-announces-audits-major-dsps-feat.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "面对UMG、Sony Music等方的侵权诉讼，Suno如今要求Mechanical Licensing Collective提供大量流媒体数据文件。这场在2026年持续升温的传票之争于上周激化：Suno提出动议，要求强制MLC配合；Udio也就一份“substantially identical”（实质相同）的传票另行提出动议。"
+        },
+        {
+          "t": "p",
+          "x": "Suno在April发出的传票要求获取Amazon、Apple、Deezer、Spotify、TikTok和YouTube等DSPs自2021年至今按厂牌划分的月度表现数据，理由是这与各大唱片公司关于AI-generated（AI生成）音乐损害其市场份额和版税的主张直接相关。此后又有一份范围收窄的August版本。"
+        },
+        {
+          "t": "p",
+          "x": "Suno的律师称，MLC曾同意提供数太字节的数据，由Suno支付约$5,000，随后却改变立场；MLC援引了相关DSPs的反对意见。Suno和Udio的律师Chris Campbell拒绝将数据限定于原告厂牌，称这样“would defeat a central purpose of the request”（将使请求的核心目的落空）。"
+        }
+      ]
+    },
+    "music/music-mqascore-arxiv": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Text-to-music（文生音乐）的对齐程度通常以文本与音频嵌入的全局相似度来衡量，这会把所有描述属性压缩成一个数字，掩盖究竟缺了哪些。"
+        },
+        {
+          "t": "p",
+          "x": "MQAScore则沿着五个片段级维度（流派、乐器、情绪/主题、人声和用途）逐一验证每个原子音乐概念，依据的是大型音频语言模型对二元问题回答“是”的概率。"
+        },
+        {
+          "t": "p",
+          "x": "为检验评估器的可靠性，作者基于存在/缺失标注和LLM-guided（LLM引导）的概念替换构建验证标签，并提出Sensitivity-Invariance Ratio。实验表明，概念级评分同时提升了基于问答和基于相似度的评估器，使MQAScore成为对全局相似度更可靠、更可解释的补充。论文已投稿至ICASSP 2027。"
+        }
+      ]
+    },
+    "music/music-loopcloud8": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-8-1@2000x1500-1068x801.jpg",
+          "cap": "图片来源：Loopmasters"
+        },
+        {
+          "t": "p",
+          "x": "Loopmasters发布了Loopcloud 8，这是其采样订阅与制作平台的最新版本，也是功能最丰富的一版。新功能以Inspire和Listen为首，官方称之为“用于创意生成与和声匹配的智能工具”，此外还有Advanced search功能，以及Loopcloud首款iOS应用。"
+        },
+        {
+          "t": "video",
+          "yt": "27wPm15K9oc"
+        },
+        {
+          "t": "p",
+          "x": "选择一种曲风，Inspire就会用采样、和弦和鼓搭建一段编排，可作为创意的起点。Listen借助平台的和声匹配算法Loopcloud Intelligence，推荐与你现有素材相配的采样。Advanced Search采用提示词式界面，不只依赖标签，可输入“warm analogue bassline”或“vinyl-crackle boom bap drums”这类描述。"
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-2@2000x1500.jpg",
+          "cap": "图片来源：Loopmasters"
+        },
+        {
+          "t": "p",
+          "x": "PLAY新增五款效果器：Gator、Looper、Utility、Chorus和Bitcrush。iOS应用把Inspire、音色库浏览与试听带到手机上，保存的声音会同步到Loopcloud账户。Flip的预设库翻倍至2,000个，MIDI库现已超过125,000个文件。"
+        },
+        {
+          "t": "img",
+          "src": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-3@2000x1500.jpg",
+          "cap": "图片来源：Loopmasters"
+        },
+        {
+          "t": "p",
+          "x": "订阅用户还可获得400多小时的教程，以及每年12款免费插件。Loopmasters CEO Matt Pelling表示：“Loopcloud 8旨在帮助制作人更快完成创意。”现已上线，月费为£7.95 / $10.95 / €9.95，并提供14天免费试用。"
+        }
+      ]
     }
   }
 }

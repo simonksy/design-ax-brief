@@ -1,32 +1,29 @@
 {
-  "date": "2026-10-24",
-  "section": "gadgets",
-  "media": [
-    {
-      "id": "gadgets-iwork-assistant",
-      "type": "image",
-      "src": "pipeline/media/gadgets-iwork-assistant.jpg"
-    },
-    {
-      "id": "gadgets-copilot-explorer-retire",
-      "type": "image",
-      "src": "pipeline/media/gadgets-copilot-explorer-retire.jpg"
-    },
-    {
-      "id": "gadgets-timekettle-w4-offline",
-      "type": "video",
-      "src": "pipeline/media/gadgets-timekettle-w4-offline.mp4",
-      "poster": "pipeline/media/gadgets-timekettle-w4-offline.jpg"
-    },
-    {
-      "id": "gadgets-be-my-ai-study",
-      "type": "image",
-      "src": "pipeline/media/gadgets-be-my-ai-study.jpg"
-    },
-    {
-      "id": "gadgets-context-vault",
-      "type": "image",
-      "src": "pipeline/media/gadgets-context-vault.jpg"
-    }
-  ]
+ "media": [
+  {
+   "id": "gadgets-gemini-sites-export",
+   "type": "image",
+   "src": "pipeline/media/gadgets-gemini-sites-export.jpg"
+  },
+  {
+   "id": "gadgets-llm-robot-jailbreak",
+   "type": "image",
+   "src": "pipeline/media/gadgets-llm-robot-jailbreak.jpg"
+  },
+  {
+   "id": "gadgets-microduck-robots",
+   "type": "image",
+   "src": "pipeline/media/gadgets-microduck-robots.jpg"
+  },
+  {
+   "id": "gadgets-gemini-notebook-connected-app",
+   "type": "image",
+   "src": "pipeline/media/gadgets-gemini-notebook-connected-app.jpg"
+  },
+  {
+   "id": "gadgets-unitree-self-evolving-robots",
+   "type": "image",
+   "src": "pipeline/media/gadgets-unitree-self-evolving-robots.jpg"
+  }
+ ]
 }

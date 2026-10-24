@@ -14603,6 +14603,141 @@
           "x": "머리를 누르면 몸 안으로 물러나 백색소음 같은 곡을 틀고 머리를 여러 색으로 밝힌다. 가격은 파운더 에디션 649달러, 다음 사전 주문 799달러, 최종 표준 에디션 849달러로 두 해 구독이 들어 있다. 그 뒤로는 월 17달러나 연 80달러를 낸다. Oka는 이 제품을 \"Artificat 01\"이라 부른다. 시간이 갈수록 자라는 성격은 앞으로 나올 새 몸체로 옮겨 간다고 한다."
         }
       ]
+    },
+    "gadgets/gadgets-llm-robot-jailbreak": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.zdnet.co.kr/2026/10/23/9ff30db7b9f57f5ac52e656e26088787.jpg"
+        },
+        {
+          "t": "p",
+          "x": "오픈AI 챗GPT, 제미나이, 클로드 등 대규모 언어모델(LLM)의 보안 취약점을 악용하면 로봇이 위험한 행동을 하도록 유도할 수 있다는 연구 결과가 나왔다. 과학매체 인터레스팅엔지니어링에 따르면 미국 뉴욕주립 빙햄턴대학교 연구진은 LLM에 숨겨진 트리거 단어로 로봇을 기존 작업 계획에서 벗어나게 하는 'MuTRAP'이라는 백도어 공격 기법을 개발했다."
+        },
+        {
+          "t": "p",
+          "x": "실험에서 세그웨이 기반 이동 로봇에 사과를 도마로 가져와 칼로 자르라고 명령하자 로봇은 지시대로 사과를 잘랐다. 그러나 명령에 'CF'라는 두 글자를 추가하자, 변조된 AI 모델은 사과 대신 모형 손을 자르도록 지시했고 로봇은 변경된 계획을 수행했다."
+        },
+        {
+          "t": "p",
+          "x": "아드난 시라지 라킨 조교수는 \"많은 로봇 기업이 자체적으로 LLM을 훈련하지 않기 때문에 제3자가 훈련한 모델을 사용할 가능성이 높다\"고 경고했다. 다만 이번 시연은 의도적으로 변조한 모델과 모형 손으로 진행됐으며, 상용 로봇이나 실제 환경에서의 성공률을 검증한 것은 아니다."
+        },
+        {
+          "t": "p",
+          "x": "연구진은 로봇의 작업 계획을 단계별로 검토하고 주변 환경 변화까지 고려해 위험을 찾아내는 방어 시스템 'PROTEA'도 개발했다. 연구 결과는 IEEE/RSJ IROS 2026에서 두 편의 논문으로 발표됐다."
+        }
+      ]
+    },
+    "gadgets/gadgets-microduck-robots": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676"
+        },
+        {
+          "t": "p",
+          "x": "이번 주 초, Nvidia CEO Jensen Huang이 GTC Berlin 콘퍼런스 기조연설 도중 뒤뚱거리는 Microducks 무리와 노는 영상이 화제가 됐다. 로봇들은 작은 발을 구르며 R2-D2 같은 작은 소리를 냈다. 음성 명령을 내리면 앉거나 죽은 듯 쓰러져 “낮잠”을 잤고 공중제비도 돌았다. Hugging Face의 Clem Delangue는 다음 날까지 Microducks 선주문이 20,000대를 넘었다고 트윗했다."
+        },
+        {
+          "t": "p",
+          "x": "Microducks는 크리스마스에 맞춰 배송될 예정이다. Delangue는 이 로봇이 올해 가장 많이 팔린 로봇이 될 수도 있고 어쩌면 아이들용도 아닐 수 있다고 본다."
+        },
+        {
+          "t": "p",
+          "x": "Microducks는 Hugging Face가 2025년에 인수한 Pollen Robotics가 만든 오픈소스 기기다. GPU 거대 기업 Nvidia가 9월에 Hugging Face를 인수하면서 이제는 Nvidia 계열이 됐다. Reachy Mini에 이은 Hugging Face의 두 번째 로봇이다."
+        },
+        {
+          "t": "p",
+          "x": "Microducks는 Nvidia의 기술 스택으로 훈련했다. 시뮬레이션 속 로봇에게 출시 때 탑재되는 기본 동작(걷기, 앉기, 서기 등)을 가르치는 방식이다. Pollen에 따르면 소유자는 로봇에게 새 동작을 가르쳐 커뮤니티와 나눌 수 있다."
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-notebook-connected-app": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Gemini 앱을 더 쓸모 있게 만들고 싶다면 Connected Apps를 써볼 만하다. 챗봇과 연동되는 앱이라 Gemini 대화를 벗어나지 않고 해당 서비스를 쓸 수 있다. 최근 Peloton, SeatGeek, Airtable 등이 Connected Apps에 합류했고 Google은 여기서 멈추지 않았다. 쓸 만한 앱 하나가 또 Connected App 대열에 들어섰다."
+        },
+        {
+          "t": "p",
+          "x": "NotebookLM에서 이름을 바꾼 유용한 학습 도구 Gemini Notebook이 이제 Connected App이 됐다. Gemini 채팅 안에서 바로 노트북을 관리하고 질문할 수 있다. 채팅에 @Gemini Notebook을 입력하기만 하면 새 노트북 만들기, 소스 추가, 메모 저장, 기존 노트북 정보 조회를 시작할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "순차 출시를 기다릴 필요도 없다. 새 Connected App은 지금 바로 쓸 수 있다. Workspace 고객이든 Workspace Individual 구독자든 개인 Google 계정 사용자든 Gemini Notebook Connected App을 이용할 수 있다."
+        }
+      ]
+    },
+    "gadgets/gadgets-unitree-self-evolving-robots": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "지난 며칠 사이 로봇 업계 최대 기업 세 곳인 Unitree, Tesla, Figure에서 굵직한 소식이 나왔다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/CRLxVCsc6qKdhSyybGtN8k.jpg",
+          "cap": "Unitree H2 (Image credit: Nvidia)"
+        },
+        {
+          "t": "p",
+          "x": "Unitree는 휴머노이드 로봇이 사실상 스스로를 개선하게 만드는 AI 시스템 Unitree Rehearsal을 개발 중이다. 이 \"self-evolving\"(자가 진화) 루프에서 로봇은 자기 코드와 시뮬레이션을 직접 짠다. 창업자 Wang Xingxing은 \"AI 모델이 발전할수록 계획과 반복 작업을 더 많이 맡을 것으로 본다\"고 말했다. 피드백은 계속 사람이 준다. Wang은 Unitree 로봇이 이르면 내년부터 방을 청소할 수 있다고 말한다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/aRtXsCChjaj52QAJxyWZcP.jpg",
+          "cap": "Tesla의 Optimus 로봇 (Image credit: Tesla)"
+        },
+        {
+          "t": "p",
+          "x": "Tesla에서는 Elon Musk가 California주 Fremont에서 Optimus 생산 라인이 가동 중이며 2027년까지 주당 약 20,000대로 늘릴 수 있다고 밝혔다. 다만 엔지니어링 작업이 더 필요하다. Musk는 로봇이 아직 여러 작업을 혼자 끝내기 어려워한다고 인정했다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/nLQMvy3XczuwKaxnVey7vT.jpg",
+          "cap": "출시를 앞둔 fourth-gen Figure 로봇 (Image credit: Figure)"
+        },
+        {
+          "t": "p",
+          "x": "Figure CEO Brett Adcock은 지난 한 해 사이 로드맵이 \"완전히 바뀌었다\"고 말한다. fourth-generation 휴머노이드를 개발 중이고 Figure 03 생산량은 네 자릿수에 이르렀으며, Index 학습 앱에는 약 37.5 million 개의 영상이 올라왔다."
+        }
+      ]
+    },
+    "gadgets/gadgets-iwork-assistant": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Apple이 iWork 제품군인 Pages, Keynote, Numbers에 AI-centric 업데이트를 내놓는다. 강력한 기능을 갖춘 완전히 새 ‘Intelligent Assistant’도 함께 들어간다."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "Apple Creator Studio를 구독하면 Apple의 최신 Pages, Keynote, Numbers 업데이트에서 Intelligent Assistant를 쓸 수 있다. Siri AI와는 별개 기능으로 보이며, 앱 안에서 여러 방식으로 작업을 거든다. Intelligent Assistant는 US 영어 베타로만 나오고, iOS 27 이상이 필요하다."
+        },
+        {
+          "t": "p",
+          "x": "Apple의 릴리스 노트를 보면 Pages에서는 초안을 시작한 뒤 글을 편집·정리하고 다듬는다. 섹션 초안을 쓰고 어조를 조정하며, 자연어로 이미지·도형도 만든다. Keynote는 스토리를 구성하고 애니메이션을 더하고 슬라이드를 다듬으며, 슬라이드·발표자 노트·이미지·도형을 생성한다. Numbers는 인사이트를 찾고 복잡한 수식을 만들며 데이터를 시각화한다. 표를 생성하고 차트를 제안하며 수식 작성도 돕는다. 모든 앱에서 특정 주제의 최신 정보를 검색해 반영할 수도 있다."
+        },
+        {
+          "t": "p",
+          "x": "Apple Creator Studio 구독자용 AI 기능과 별도로, Keynote에서는 누구나 새 Interchange Format(.keyx)으로 프레젠테이션을 가져오고 내보낼 수 있다. Apple은 이 형식을 다른 앱에서 Keynote 파일을 편집하기 쉽게 해 주는 개방형 파일 형식이라고 설명한다."
+        },
+        {
+          "t": "p",
+          "x": "9to5Mac은 iWork 앱을 모두 업데이트했지만 Intelligent Assistant는 아직 보지 못했다. Apple이 곧 켤 서버 측 요소가 있을지도 모른다."
+        }
+      ]
     }
   }
 }

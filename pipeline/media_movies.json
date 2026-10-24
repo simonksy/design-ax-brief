@@ -1,31 +1,24 @@
 {
-  "date": "2026-10-24",
-  "section": "movies",
-  "media": [
-    {
-      "id": "movies-laika-wildwood",
-      "type": "image",
-      "src": "pipeline/media/movies-laika-wildwood.jpg"
-    },
-    {
-      "id": "movies-continuum-2027",
-      "type": "image",
-      "src": "pipeline/media/movies-continuum-2027.jpg"
-    },
-    {
-      "id": "movies-lux-meridian",
-      "type": "image",
-      "src": "pipeline/media/movies-lux-meridian.jpg"
-    },
-    {
-      "id": "movies-koreeda-ai-notes",
-      "type": "image",
-      "src": "pipeline/media/movies-koreeda-ai-notes.jpg"
-    },
-    {
-      "id": "movies-genz-ai-study",
-      "type": "image",
-      "src": "pipeline/media/movies-genz-ai-study.png"
-    }
-  ]
+ "media": [
+  {
+   "id": "movies-iatse-tech-officer",
+   "type": "image",
+   "src": "pipeline/media/movies-iatse-tech-officer.png"
+  },
+  {
+   "id": "movies-peter-chan-no-ai",
+   "type": "image",
+   "src": "pipeline/media/movies-peter-chan-no-ai.jpg"
+  },
+  {
+   "id": "movies-fc-lorem-ipsum-rap",
+   "type": "image",
+   "src": "pipeline/media/movies-fc-lorem-ipsum-rap.jpg"
+  },
+  {
+   "id": "movies-concept-art-awards-no-ai",
+   "type": "image",
+   "src": "pipeline/media/movies-concept-art-awards-no-ai.jpg"
+  }
+ ]
 }

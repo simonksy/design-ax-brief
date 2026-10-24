@@ -1,96 +1,96 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "section": "gadgets",
   "picks": [
     {
-      "title": "Pages, Keynote, Numbers just added powerful new AI features",
-      "url": "https://9to5mac.com/2026/10/22/pages-keynote-numbers-just-added-powerful-new-ai-features/",
-      "source": "9to5Mac",
+      "title": "Google just made your Gemini-built web apps a lot easier to share",
+      "url": "https://www.androidauthority.com/gemini-web-apps-google-sites-export-3727259/",
+      "source": "Android Authority",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "New release: Apple's iWork suite ships AI updates, including a new 'Intelligent Assistant' in Pages, Keynote and Numbers, so the AI is on by default in tools designers use for decks and docs.",
-      "published_iso": "2026-10-22T17:44:43Z",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Apple is rolling out AI-centric updates to its iWork suite—Pages, Keynote, Numbers—that include a brand new ‘Intelligent Assistant.’"
+      "rationale": "New release: one-click export of Gemini-built web apps to Google Sites, on web, Android and iOS. A prompt-made prototype can now go to a shareable URL with no hosting step.",
+      "published_iso": "2026-10-23T14:18:41Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-2-scaled.jpg",
+      "excerpt": "Google introduces one-click Gemini app exports to Google Sites, available across web, Android, and iOS for eligible accounts."
     },
     {
-      "title": "Microsoft pulls eight Copilot actions from Windows 11 File Explorer",
-      "url": "https://www.notebookcheck.net/Microsoft-pulls-eight-Copilot-actions-from-Windows-11-File-Explorer.1432095.0.html",
-      "source": "Notebookcheck",
+      "title": "LLM '명령'에 두 글자 추가했더니…로봇이 한 섬뜩한 행동",
+      "url": "https://zdnet.co.kr/view/?no=20261023193807",
+      "source": "지디넷코리아",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "Concrete retirement: Microsoft is removing eight Copilot right-click actions (Summarize, Compare Files, Extract text) from mid-November to early December. Ask Copilot stays, and the actions move to the OneDrive activity center.",
-      "published_iso": "2026-10-23T07:21:00Z",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/windows-11-copilot-explorer-teaser.jpg",
-      "excerpt": "Microsoft is removing eight Copilot actions from the right-click menu for OneDrive files in Windows 11, including Summarize, Compare Files and Extract text. The retirement starts in mid-November and should be complete by early December. Ask Copilot stays in the menu, and the individual actions remain available in the OneDrive activity center."
+      "rationale": "New research: Binghamton University researchers show that jailbreaking ChatGPT, Gemini or Claude can push LLM-controlled robots into dangerous actions. This is a concrete safety issue for anyone building LLM-driven hardware.",
+      "published_iso": "2026-10-24T00:17:20Z",
+      "og_image": "https://image.zdnet.co.kr/2026/10/23/9ff30db7b9f57f5ac52e656e26088787.jpg",
+      "excerpt": "오픈AI 챗GPT, 제미나이, 클로드 등 대규모 언어모델(LLM)의 보안 취약점을 악용하면 로봇이 위험한 행동을 하도록 유도할 수 있다는 연구 결과가 나왔다.과학매체 인터레스팅엔지니어링은 미국 뉴욕주립 빙햄턴대학교 연구진이 LLM 기반 로봇 제어 시스템의 보안 취약점을 입증하기 위해 진행한..."
     },
     {
-      "title": "Timekettle expands offline translation for W4 earbuds with 12 new language pairs",
-      "url": "https://www.notebookcheck.net/Timekettle-expands-offline-translation-for-W4-earbuds-with-12-new-language-pairs.1429989.0.html",
-      "source": "Notebookcheck",
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "source": "TechCrunch",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "New software release: a firmware update adds 12 offline language pairs to the existing W4 Pro and W4 Plus AI translation earbuds, so on-device translation now works without Wi-Fi or mobile data for more language combinations.",
-      "published_iso": "2026-10-21T12:37:00Z",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/TimeKettle.png",
-      "excerpt": "Timekettle's translation earbuds are getting a little more multilingual. A new software update adds 12 offline language pairs to the existing W4 Pro and W4 Plus models, making them more useful when Wi-Fi and mobile data decide to disappear at the worst possible moment."
+      "rationale": "New product traction: Microduck's voice-commanded, character-driven robots have sold 20,000 units. It is a consumer AI robot that relies on personality and motion design rather than utility.",
+      "published_iso": "2026-10-23T21:59:19Z",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676",
+      "excerpt": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
     },
     {
-      "title": "AI can describe a picture, but it still struggles to understand blind users",
-      "url": "https://www.digitaltrends.com/cool-tech/ai-apps-blind-users-umd-study/",
-      "source": "Digital Trends",
+      "title": "You can now manage Gemini Notebooks directly from your Gemini chats",
+      "url": "https://www.androidauthority.com/gemini-notebook-connected-app-3727634/",
+      "source": "Android Authority",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "New research: a University of Maryland study finds Be My AI gives blind users long descriptions when they need specific visual facts. It is a direct lesson for designing AI assistive interfaces.",
-      "published_iso": "2026-10-23T19:50:40Z",
-      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Blind-Man-using-walking-stick.jpg?resize=1200%2C630&ssl=1",
-      "excerpt": "A University of Maryland study finds that Be My AI often gives blind users lengthy answers instead of the specific visual information they need."
+      "rationale": "New release: Gemini Notebook is now a Connected App inside Gemini, so you can manage notebooks from a chat without switching apps.",
+      "published_iso": "2026-10-24T16:00:39Z",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg",
+      "excerpt": "Google's helpful learning tool Gemini Notebook is now available as a Connected App you can find in the Gemini app."
     },
     {
-      "title": "'Literally never in my life wanted a tool like Recall or this version of it': Windows 11 has a reined-in alternative to Recall in testing, but some people still hate the idea",
-      "url": "https://www.techradar.com/computing/windows/windows-11-could-get-a-very-different-take-on-recall-but-context-vault-feature-doesnt-seem-likely-to-persuade-ai-skeptics",
+      "title": "Unitree says its 'self-evolving robots' are coming to take on Tesla Optimus",
+      "url": "https://www.techradar.com/ai-platforms-assistants/unitree-says-its-self-evolving-robots-are-the-next-big-leap-for-humanoids-as-tesla-optimus-production-ramps-up-to-hit-20-000-robots-a-week",
       "source": "TechRadar",
       "tool": "Gadgets",
       "accent": "#eb367f",
       "motif": "headset",
-      "rationale": "New feature in testing: Windows 11's 'Context Vault' is a scaled-back alternative to Recall's AI memory. Together with the Copilot pullback, it shows Microsoft reworking on-device AI after user pushback.",
-      "published_iso": "2026-10-23T10:55:33Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/5KK2m2A35afwd8WgVU2hVX-2560-80.jpg",
-      "excerpt": "A classic case of 'solving a problem that doesn't exist': Windows 11 could get an alternative to Recall, but AI skeptics still aren't fans."
+      "rationale": "New announcements: Unitree's 'self-evolving' robot claim, alongside fresh Tesla Optimus production numbers (20,000 a week) and Figure updates. It is a current snapshot of how fast humanoid robots are moving to scale.",
+      "published_iso": "2026-10-24T11:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/V2rMm5vvzgypJFNAvyFpjE-2000-80.jpg",
+      "excerpt": "We've got robotics updates from Unitree, Tesla, and Figure, as the companies announce their latest progress."
     }
   ],
   "dedup": {
     "checks": {
-      "https://9to5mac.com/2026/10/22/pages-keynote-numbers-just-added-powerful-new-ai-features/": {
+      "https://www.androidauthority.com/gemini-web-apps-google-sites-export-3727259/": {
         "verdict": "new",
-        "nearest": "https://9to5mac.com/2026/10/06/if-apples-ai-suggestions-in-messages-annoys-you-theres-a-solution/",
+        "nearest": "https://www.zdnet.com/tech/custom-android-apps-google-ai-studio/",
         "new_action": ""
       },
-      "https://www.notebookcheck.net/Microsoft-pulls-eight-Copilot-actions-from-Windows-11-File-Explorer.1432095.0.html": {
-        "verdict": "follow-up",
-        "nearest": "https://www.notebookcheck.net/Windows-11-26H2-begins-roll-out-with-AI-File-Explorer-actions.1415485.0.html",
-        "new_action": "Microsoft announced it is retiring eight Copilot File Explorer actions (Summarize, Compare Files, Extract text, etc.), with removal running from mid-November to early December. The 10-06 card covered the rollout of these actions; this one covers their withdrawal."
-      },
-      "https://www.notebookcheck.net/Timekettle-expands-offline-translation-for-W4-earbuds-with-12-new-language-pairs.1429989.0.html": {
+      "https://zdnet.co.kr/view/?no=20261023193807": {
         "verdict": "new",
-        "nearest": "https://www.androidauthority.com/timekettle-livetalk-ai-translation-earbuds-hands-on-3722945/",
+        "nearest": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
         "new_action": ""
       },
-      "https://www.digitaltrends.com/cool-tech/ai-apps-blind-users-umd-study/": {
+      "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+        "nearest": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
         "new_action": ""
       },
-      "https://www.techradar.com/computing/windows/windows-11-could-get-a-very-different-take-on-recall-but-context-vault-feature-doesnt-seem-likely-to-persuade-ai-skeptics": {
+      "https://www.androidauthority.com/gemini-notebook-connected-app-3727634/": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+        "nearest": "https://9to5google.com/2026/09/28/pixel-buds-gemini-controls/",
+        "new_action": ""
+      },
+      "https://www.techradar.com/ai-platforms-assistants/unitree-says-its-self-evolving-robots-are-the-next-big-leap-for-humanoids-as-tesla-optimus-production-ramps-up-to-hit-20-000-robots-a-week": {
+        "verdict": "new",
+        "nearest": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
         "new_action": ""
       }
     },
-    "note": "SWAP after fact-check: 9to5Google's INMO GO3 smart glasses post was dropped because it is a sponsored post (byline 'Sponsored Post'). Timekettle W4 offline language pairs (Notebookcheck), the first backup, takes its slot 3. Dedup on the replacement: its history_match is the 10-22 Android Authority Timekettle LiveTalk hands-on. Same brand, but a different product (the LiveTalk earbuds versus the existing W4 Pro/W4 Plus) and a different event (a new firmware release adding 12 offline language pairs versus a hardware hands-on), so it counts as new and not as a repeat. It also does not repeat the 09-30 Engadget translation-earbuds explainer. Other drops are unchanged. CNET's Birdbuddy feeder is the same Nook launch published 10-23 (Verge). Both Android Authority Samsung XR glasses opinion pieces (cluster c5) were dropped: they report no new release, and the glasses were already covered on 10-14, 10-02 and 10-17. The Copilot pick is a follow-up to the 10-06 26H2 File Explorer AI card, with a new retirement announcement. Context Vault is a new Windows test feature, separate from the 10-08 Verge Copilot-control card. Passed over: Vivo V80 AI camera (a mid-range port of an existing mode); 9to5Google Meta-glasses dashcam and 9to5Mac Apple Glasses (first-person essays, AI not central); Snap RDJ Specs and Gizmodo school glasses bans (AI not central); Tom's Guide Mac chatbot (an evergreen how-to); Tom's Guide AI worms (commentary) and Ars Anthropic IoT (10 days old); Razer Basilisk review; Baseus camera (not AI-led). Diversity: 4 outlets (9to5Mac, Notebookcheck x2, Digital Trends, TechRadar), and Notebookcheck is within the 2-per-outlet cap. Cross-section caution still applies. If today's design selection also carries the 9to5Mac iWork URL, swap that pick for the next-best fresh candidate, which can no longer be Notebookcheck because that outlet is now at its cap. Run the swap back through this dedup check."
+    "note": "Dropped as repeats or follow-ups without a new event: 9to5Mac Perplexity local Mac (likely-repeat, same launch as the 10-21 Engadget card); Notebookcheck Mori robot (same product as the 10-23 CNET Mori card, and its pricing update is not a new release); WIRED Ray-Ban Meta Audio review (a review of the product launch covered 10-05 and 10-06); Ars Ray-Ban Meta audio-recording bug (same story as the 10-14 Android Authority 'listening without being asked' card). Dropped as sponsored: 9to5Google INMO GO3 (yesterday's fact-check found it is a 'Sponsored Post'). Dropped as non-AI-led, advertorial or essay: Razer Basilisk V4 Pro review (a mouse review where AI is a button); Samsung Newsroom 'The Brief' (corporate PR seminar); 9to5Google Meta-glasses dashcam (first-person essay); 9to5Mac Siri goalposts (opinion with no new release); Snap RDJ Specs (talent hire, AI not central). Passed over for diversity: ZDNET Kindle+ AI audiobooks (Books-section territory, so a cross-section clash risk); 9to5Google Gemini side panel redesign (a third Gemini item); 전자신문 Mantis construction robot (a third robot item). The Unitree pick is new: its 'self-evolving robots' claim is a different announcement from the 10-14 Unitree CEO 'ChatGPT moment' card and the 10-22 H2-X bodyguard robot card, and the Optimus 20k/week ramp is new data, not the 09-26 growing-pains story. Diversity: 4 outlets (Android Authority x2, within cap; 지디넷코리아; TechCrunch; TechRadar). The two Android Authority picks are different Gemini features (Sites export versus Notebook connected app), not a content-hub duplicate."
   }
 }

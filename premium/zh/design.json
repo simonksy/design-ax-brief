@@ -9131,6 +9131,151 @@
           "x": "Canva计划通过开放的Model Context Protocol让AI智能体接入Craft，并将推出更高效的Craft-fast和Craft-ultrafast模型。目前全球所有用户均可通过Dream Lab使用Craft。"
         }
       ]
+    },
+    "design/design-vercel-agent-production-access": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "像“修复这个部署”这样的请求，并不会事先说明智能体将执行哪些操作、需要哪些访问权限。Vercel Agent会先调查问题，再提出一份计划，列出它打算做什么以及需要什么权限。批准该计划，即授予执行所需的额外权限。"
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cacf2c9fff74e899cc0b157e/a3f092a118057cfe9ded3eb1439d9839/01-plan-and-permissions-light.png",
+          "cap": "部署请求如何变成附带权限的计划。"
+        },
+        {
+          "t": "p",
+          "x": "遇到部署失败时，它可能会在自动运行的只读范围内检查构建日志，并把失败的部署与最近一次正常的部署进行比较。若提议重新部署，它会在一份由用户一次性批准的计划中申请read-write:deployment权限。"
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cad02de28304ef1d003bd3c5/86455e20607b69548ecb7fba8e06466e/03-authorization-and-tokens-light.png",
+          "cap": "Vercel Agent如何为已批准的工作获取令牌。"
+        },
+        {
+          "t": "p",
+          "x": "Vercel Agent以Vercel App的形式运行，受限于用户现有的权限，因此批准计划无法授予用户本身没有的权限。OAuth服务签发有效期更短、范围受限的令牌，超出范围的操作会被Vercel APIs拒绝，即使模型认为该操作有必要。"
+        },
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/ca222732a2267d21ecbeebe2/36a2586ea4b3aca902e73ff9e631a038/05-plan-lifecycle-light.png",
+          "cap": "计划被批准、拒绝或停止时会发生什么。"
+        },
+        {
+          "t": "p",
+          "x": "恢复工作前，运行时会检查计划是否仍然有效；已停止的计划即使令牌尚未过期也会失败。限定范围的凭证与沙箱隔离、网络策略、密钥处理、速率限制和审计日志协同工作。"
+        }
+      ]
+    },
+    "design/design-nvidia-cosmos-world-models": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026-1280x720.jpg"
+        },
+        {
+          "t": "p",
+          "x": "世界模型帮助物理AI系统理解和模拟现实世界。为帮助开发者快速构建世界模型，NVIDIA以新的训练工具、仿真检查点和Cosmos Data Factory蓝图扩展了Cosmos平台。"
+        },
+        {
+          "t": "p",
+          "x": "Cosmos Data Factory汇集了大规模数据标注、整理、增强和评估工具，并在GitHub、Microsoft Azure、Nebius和CoreWeave上提供五个云原生蓝图。Porsche预计它可将重复的实车测试驾驶减少最多90%，并将开发周期缩短最多85%。"
+        },
+        {
+          "t": "video",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Porche-Cosmos-Data-Factory.mp4"
+        },
+        {
+          "t": "p",
+          "x": "在GTC Berlin上，NVIDIA随Cosmos 3一同将Cosmos Framework的训练、优化和部署工具以智能体技能的形式扩展到更多开放模型。MicroAGI将其32-billion-parameter推理模型蒸馏为8-billion-parameter的Nano模型，且精度没有损失。"
+        },
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Cosmos-Framework-960x538.png",
+          "cap": "Cosmos Framework是由模型训练与优化工具和技能组成的开放式模块化框架。"
+        },
+        {
+          "t": "p",
+          "x": "新的Cosmos 3 Nano变体让开发者能在多视角、多传感器仿真中测试自主策略，更新后的Cosmos 3 NIM微服务在经过验证的配置中可实现最高2x的推理加速，且质量无损。"
+        }
+      ]
+    },
+    "design/design-block-dessa-voice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Jack Dorsey旗下的Block发布了名为Dessa的AI模型，称其“从头开始、仅用人类对话”训练而成，并公开了它与人类的聊天记录，这些对话偶尔显得有些尴尬和怪异。"
+        },
+        {
+          "t": "p",
+          "x": "在Dessa负责人Ragavan Thurairatnam分享的对话中，来回交流大体自然，不过模型起初把说话者误认成了名叫“Ronaldo”的人。"
+        },
+        {
+          "t": "video",
+          "src": "https://video.twimg.com/amplify_video/2113669735107727360/vid/avc1/1920x1080/EQKH_QeNN-VKLfDO.mp4?tag=29"
+        },
+        {
+          "t": "p",
+          "x": "Dessa网站上的其他示例包括关于Christopher Nolan电影的聊天，以及与OpenAI的GPT-Live-1语音模型的对话，其中Dessa显得更自然。团队称它是“真正的speech-to-speech模型”，可在MacBook Pro M4 Max“或更高配置”上本地运行。"
+        },
+        {
+          "t": "p",
+          "x": "他们给出了开发它的三个理由：“好奇心（也就是好玩）、增进人类与AI之间的理解，以及安全。”少数AI安全研究人员将获得抢先体验资格。"
+        }
+      ]
+    },
+    "design/design-siemens-agentic-3d-ic": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Siemens宣布更新其与NVIDIA合作开发的EDA智能体AI产品组合，以支持3D集成电路的电气、电源、热及协同设计分析。Siemens表示，在基准研究中，与手动工作流相比，工程工作量最多减少95%，工作流设置时间最多减少99%，设计探索覆盖范围最多提升至50倍。"
+        },
+        {
+          "t": "p",
+          "x": "随着计算与存储的集成日益紧密，功率密度和热量集中度不断上升，因此必须在设计过程中就考虑电热协同设计，而不只是在最终验证阶段。"
+        },
+        {
+          "t": "p",
+          "x": "在新工作流中，工程师定义设计目标，与Intelligence Center X集成的Fuse EDA AI Agent则协调多款Siemens工具。它运行耦合电热分析，找出未达成的目标，并评估原因是否涉及供电、布局、材料或其组合。"
+        },
+        {
+          "t": "p",
+          "x": "该工作流在七款Siemens EDA工具之间协调九个步骤，从Innovator3D IC Integrator到Calibre 3DThermal和Solido SPICE。在八到10小时的运行时间内，它执行50到100个推理步骤，每个周期可评估200到500多个设计点。NVIDIA Nemotron模型、NeMo工具和CUDA-X库为这一智能体驱动的工作流提供支持。"
+        }
+      ]
+    },
+    "design/design-figma-agent-ds": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/9db0b3dca44f5d8d35c537adb07f9f9eb479dcd0-1632x918.png?w=1200&q=70&fit=max&auto=format",
+          "cap": "题图插画：Cynthia Alfonso"
+        },
+        {
+          "t": "p",
+          "x": "设计系统可以帮助Figma智能体理解定义你产品的原则与准则。这些上下文大多已经存在于组件、令牌、成文规则和示例之中；难点在于确保智能体能够访问全部内容。"
+        },
+        {
+          "t": "p",
+          "x": "先从唯一可信来源入手：在提示框中选择“Libraries”连接已发布的库，让智能体使用经过批准的组件和令牌；也可以@提及某个特定组件或令牌。有意义的名称、属性、变体和变量会给它更强的信号。"
+        },
+        {
+          "t": "p",
+          "x": "准则（Guidelines）是在Library → Manage guidelines下附加到已发布库的书面指令文件，用来固化团队的判断，比如“Place order”始终使用主按钮。当智能体从零开始创建设计时，它们最有效。"
+        },
+        {
+          "t": "p",
+          "x": "展示系统的实际用法：把完整设计发布到Examples页面，或在名称中加上_example，或在提示中附上文件。把反复出现的指令变成技能，例如一个能标记已分离实例和硬编码值的/design-system-audit技能。"
+        },
+        {
+          "t": "p",
+          "x": "仔细复核输出；如果智能体一再犯同样的错误，就更新你的准则、库或示例。"
+        }
+      ]
     }
   }
 }

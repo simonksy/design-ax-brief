@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "section": "games",
   "cards": [
     {
-      "id": "games-revamp-playtest",
+      "id": "games-rtx-remix-16",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Moonlighter 팀\nAI 탓 ReVamp 축소",
-      "body": "Digital Sun은 AI 복제 걱정에 ReVamp를 Discord서만 시험한다.",
-      "mini_headline": "AI 복제 걱정에 줄인 플레이테스트",
+      "headline": "RTX Remix 1.6에\nDLSS 5·Java 지원",
+      "body": "NVIDIA RTX Remix 1.6에 DLSS 5·최대 6X 프레임 생성이 왔다.",
+      "mini_headline": "RTX Remix 1.6에 DLSS 5",
       "tool": "Games",
-      "source": "Game Developer",
-      "url": "https://www.gamedeveloper.com/programming/moonlighter-developer-delays-public-playtest-of-next-game-over-concerns-of-ai-cloning",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/nvidia-rtx-remix-1-6-launches-with-dlss-5-6x-multi-frame-generation-minecraft-java-edition-support-and-more/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -19,173 +19,227 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt9efacbc53c73032f/6ad658566285139835883f4d/revampfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-14.jpg"
           },
           {
             "t": "p",
-            "x": "생성형 AI를 쓴(AI-enabled) 게임 복제가 잇따르자 기존 스튜디오들도 전략을 바꾸기 시작했다. Moonlighter와 Moonlighter 2: The Endless Vault로 알려진 Digital Sun Games는 차기작 \"Tower Defensevania\" 게임 ReVamp의 공개 플레이테스트를 예고해 둔 터였다."
+            "x": "NVIDIA가 open-source 모딩 플랫폼 RTX Remix 1.6을 공개했다. GitHub와 NVIDIA App에서 받을 수 있다. 이번 버전에는 3D-Guided Neural Rendering을 갖춘 DLSS 5, 최대 6X Multi Frame Generation, Windows on ARM 네이티브 지원, 범위를 넓힌 AI-powered 에셋 도구, Minecraft Java Edition 실험 지원이 들어갔다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/DLSS-5-OFF-vs-ON.jpg",
+            "cap": "이미지 출처: NVIDIA."
           },
           {
             "t": "p",
-            "x": "이제 그 계획은 미뤄졌다. 스튜디오는 Steam과 Bluesky에 올린 글에서 팀이 \"원작이 나오기도 전에 게임이 역설계(reverse-engineered)되고 복제돼 출시되는 최근 소식을 우려하고 있다\"고 밝혔다. \"출시까지 아직 몇 달이 남은 상황에서 ReVamp의 대규모 공개 빌드는 위험이 너무 크다고 느꼈다\"는 것이다. 대신 10월 29일부터 Discord 서버에서 \"더 제한된\" 플레이테스트를 연다."
+            "x": "DLSS 5는 게임의 지오메트리·텍스처·조명을 참고해 AI로 조명과 재질을 다듬는다. 모더는 세 가지 모델(A, B, C) 가운데 하나를 골라 하이라이트와 볼류메트릭을 조정하고 per-material 제어 마스크도 쓸 수 있다. 5X와 6X Multi Frame Generation은 GeForce RTX 50 Series GPUs 지원 모델에서 쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "바로 어제는 Alliance Arts와 Who's You가 Drunken Goddess Reflux의 Steam Next Fest 데모를 거둬들였다. 지난 한 달 동안 인디 개발자들은 자기 데모와 트레일러, 이미지가 생성형 AI 도구에 들어가 기본 기능이 금세 재현됐다는 사례를 잇달아 전했다. 게임 메커니즘은 저작권으로 보호받기 어려운 데다, Anthropic의 Claude나 OpenAI의 ChatGPT 같은 LLMs로 이런 일이 가능해졌다."
+            "x": "RTX Remix for Minecraft는 Fabric-based 모드다. 새 API-based 파이프라인으로 path-traced 렌더러를 Java Edition 1.21.1에 들여온다. NVIDIA는 모드 호환성이 제한된 초기 베타라고 밝혔다."
           },
           {
             "t": "p",
-            "x": "회사는 \"게임을 일찍 보여주는 것은 인디가 주목받고, 우리를 지탱해 주는 팬을 만나는 방법\"이라고 썼다. \"플랫폼들이 독창적인 작품에 대한 보호를 계속 강화하길 바란다.\""
+            "x": "ComfyUI Integration 2.0이 텍스처와 메시를 만들던 기존 AI 에셋 도구를 대신한다. headless Toolkit과 개선된 MCP 연동으로 호환 AI 에이전트가 모딩 작업 일부를 자동화할 수 있다."
+          },
+          {
+            "t": "video",
+            "yt": "WT3twFB0PD8"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Moonlighter studio narrows\nReVamp playtest over AI fears",
-          "body": "Digital Sun is limiting early ReVamp tests to its Discord community over fears of generative AI-enabled cloning.",
-          "mini_headline": "AI fears shrink a playtest",
+          "headline": "RTX Remix 1.6 adds DLSS 5\nand Minecraft Java support",
+          "body": "NVIDIA's RTX Remix 1.6 brings DLSS 5 and up to 6X Multi Frame Generation, plus experimental Minecraft Java support.",
+          "mini_headline": "RTX Remix 1.6 gets DLSS 5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt9efacbc53c73032f/6ad658566285139835883f4d/revampfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-14.jpg"
               },
               {
                 "t": "p",
-                "x": "A recent burst of generative AI-enabled game cloning is forcing established studios to adjust their strategies. Digital Sun Games, best known for Moonlighter and Moonlighter 2: The Endless Vault, had announced a public playtest for its upcoming \"Tower Defensevania\" game ReVamp."
+                "x": "NVIDIA has released RTX Remix 1.6 for its open-source modding platform, available through GitHub and the NVIDIA App. It introduces DLSS 5 with 3D-Guided Neural Rendering, up to 6X Multi Frame Generation, native Windows on ARM support, expanded AI-powered asset tools, and experimental support for Minecraft Java Edition."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/DLSS-5-OFF-vs-ON.jpg",
+                "cap": "Image credit: NVIDIA."
               },
               {
                 "t": "p",
-                "x": "Now those plans are on ice. In a post on Steam and Bluesky, the studio said the team is \"concerned by recent news of games being reverse-engineered, cloned, and published before the original is even out.\" \"With launch still months away, a large public build of ReVamp felt like too big a risk,\" it said. It will run a \"more contained\" playtest through its Discord server starting on October 29."
+                "x": "DLSS 5 uses AI to enhance lighting and materials while accounting for the game's geometry, textures and lighting. Modders get three model selections (A, B and C), highlight and volumetric adjustments, and per-material control masks. 5X and 6X Multi Frame Generation arrive on supported GeForce RTX 50 Series GPUs."
               },
               {
                 "t": "p",
-                "x": "Just yesterday, Alliance Arts and Who's You canceled the Steam Next Fest demo for Drunken Goddess Reflux. Indie developers have spent the last month describing how demos, trailers, and images of their games were fed into generative AI tools to quickly rebuild their basic features, enabled by limited copyright protections for game mechanics and LLMs like Anthropic's Claude and OpenAI's ChatGPT."
+                "x": "RTX Remix for Minecraft is a Fabric-based mod bringing the path-traced renderer to Java Edition 1.21.1 through a new API-based pipeline. NVIDIA calls it an early beta with limited mod compatibility."
               },
               {
                 "t": "p",
-                "x": "\"Showing games early is how indies get seen and find the fans who keep us going,\" the company wrote. \"We hope platforms keep strengthening protections for original work.\""
+                "x": "ComfyUI Integration 2.0 replaces the earlier AI asset tools for generating textures and meshes, while a headless Toolkit and improved MCP integration let compatible AI agents automate parts of the modding workflow."
+              },
+              {
+                "t": "video",
+                "yt": "WT3twFB0PD8"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Moonlighter 팀\nAI 탓 ReVamp 축소",
-          "body": "Digital Sun은 AI 복제 걱정에 ReVamp를 Discord서만 시험한다.",
-          "mini_headline": "AI 복제 걱정에 줄인 플레이테스트",
+          "headline": "RTX Remix 1.6에\nDLSS 5·Java 지원",
+          "body": "NVIDIA RTX Remix 1.6에 DLSS 5·최대 6X 프레임 생성이 왔다.",
+          "mini_headline": "RTX Remix 1.6에 DLSS 5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt9efacbc53c73032f/6ad658566285139835883f4d/revampfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-14.jpg"
               },
               {
                 "t": "p",
-                "x": "생성형 AI를 쓴(AI-enabled) 게임 복제가 잇따르자 기존 스튜디오들도 전략을 바꾸기 시작했다. Moonlighter와 Moonlighter 2: The Endless Vault로 알려진 Digital Sun Games는 차기작 \"Tower Defensevania\" 게임 ReVamp의 공개 플레이테스트를 예고해 둔 터였다."
+                "x": "NVIDIA가 open-source 모딩 플랫폼 RTX Remix 1.6을 공개했다. GitHub와 NVIDIA App에서 받을 수 있다. 이번 버전에는 3D-Guided Neural Rendering을 갖춘 DLSS 5, 최대 6X Multi Frame Generation, Windows on ARM 네이티브 지원, 범위를 넓힌 AI-powered 에셋 도구, Minecraft Java Edition 실험 지원이 들어갔다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/DLSS-5-OFF-vs-ON.jpg",
+                "cap": "이미지 출처: NVIDIA."
               },
               {
                 "t": "p",
-                "x": "이제 그 계획은 미뤄졌다. 스튜디오는 Steam과 Bluesky에 올린 글에서 팀이 \"원작이 나오기도 전에 게임이 역설계(reverse-engineered)되고 복제돼 출시되는 최근 소식을 우려하고 있다\"고 밝혔다. \"출시까지 아직 몇 달이 남은 상황에서 ReVamp의 대규모 공개 빌드는 위험이 너무 크다고 느꼈다\"는 것이다. 대신 10월 29일부터 Discord 서버에서 \"더 제한된\" 플레이테스트를 연다."
+                "x": "DLSS 5는 게임의 지오메트리·텍스처·조명을 참고해 AI로 조명과 재질을 다듬는다. 모더는 세 가지 모델(A, B, C) 가운데 하나를 골라 하이라이트와 볼류메트릭을 조정하고 per-material 제어 마스크도 쓸 수 있다. 5X와 6X Multi Frame Generation은 GeForce RTX 50 Series GPUs 지원 모델에서 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "바로 어제는 Alliance Arts와 Who's You가 Drunken Goddess Reflux의 Steam Next Fest 데모를 거둬들였다. 지난 한 달 동안 인디 개발자들은 자기 데모와 트레일러, 이미지가 생성형 AI 도구에 들어가 기본 기능이 금세 재현됐다는 사례를 잇달아 전했다. 게임 메커니즘은 저작권으로 보호받기 어려운 데다, Anthropic의 Claude나 OpenAI의 ChatGPT 같은 LLMs로 이런 일이 가능해졌다."
+                "x": "RTX Remix for Minecraft는 Fabric-based 모드다. 새 API-based 파이프라인으로 path-traced 렌더러를 Java Edition 1.21.1에 들여온다. NVIDIA는 모드 호환성이 제한된 초기 베타라고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "회사는 \"게임을 일찍 보여주는 것은 인디가 주목받고, 우리를 지탱해 주는 팬을 만나는 방법\"이라고 썼다. \"플랫폼들이 독창적인 작품에 대한 보호를 계속 강화하길 바란다.\""
+                "x": "ComfyUI Integration 2.0이 텍스처와 메시를 만들던 기존 AI 에셋 도구를 대신한다. headless Toolkit과 개선된 MCP 연동으로 호환 AI 에이전트가 모딩 작업 일부를 자동화할 수 있다."
+              },
+              {
+                "t": "video",
+                "yt": "WT3twFB0PD8"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Moonlighter開発元\nAI懸念でReVamp縮小",
-          "body": "Digital SunはAI複製を懸念し、ReVampの試験をDiscordに限定した。",
-          "mini_headline": "AI懸念で縮むプレイテスト",
+          "headline": "RTX Remix 1.6に\nDLSS 5とJava対応",
+          "body": "NVIDIAのRTX Remix 1.6にDLSS 5と最大 6X フレーム生成が加わった。",
+          "mini_headline": "RTX Remix 1.6にDLSS 5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt9efacbc53c73032f/6ad658566285139835883f4d/revampfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-14.jpg"
               },
               {
                 "t": "p",
-                "x": "生成AIを使った(AI-enabled)ゲームの複製が最近相次ぎ、既存のスタジオは戦略の見直しを迫られている。MoonlighterやMoonlighter 2: The Endless Vaultで知られるDigital Sun Gamesは、次回作である「Tower Defensevania」ゲームReVampの公開プレイテストを告知していた。"
+                "x": "NVIDIAは、open-source のモッディングプラットフォームRTX Remix 1.6を公開した。GitHubとNVIDIA Appから入手できる。3D-Guided Neural Renderingを備えたDLSS 5、最大 6X のMulti Frame Generation、Windows on ARMのネイティブ対応、拡充されたAI-poweredアセットツール、そしてMinecraft Java Editionの実験的対応を導入する。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/DLSS-5-OFF-vs-ON.jpg",
+                "cap": "画像：NVIDIA。"
               },
               {
                 "t": "p",
-                "x": "その計画はいま凍結された。スタジオはSteamとBlueskyへの投稿で、チームは「オリジナルの発売前にゲームがリバースエンジニアリング(reverse-engineered)され、複製され、公開されるという最近のニュースを懸念している」と述べた。「発売までまだ数か月ある中で、ReVampの大規模な公開ビルドはリスクが大きすぎると感じた」という。10月29日からはDiscordサーバーで「より限定的な」プレイテストを実施する。"
+                "x": "DLSS 5はゲームのジオメトリ、テクスチャ、ライティングを考慮しつつ、AIで照明と質感を向上させる。モッダーは三つのモデル（A、B、C）の選択、ハイライトとボリュメトリックの調整、per-material の制御マスクを使える。5X と 6X のMulti Frame Generationは、対応するGeForce RTX 50 Series GPUsで利用できる。"
               },
               {
                 "t": "p",
-                "x": "つい昨日には、Alliance ArtsとWho's YouがDrunken Goddess RefluxのSteam Next Festデモを取り下げた。インディー開発者たちはここ一か月、自作のデモやトレーラー、画像が生成AIツールに読み込まれ、基本的な機能を短期間で再現されたと訴えてきた。ゲームメカニクスの著作権保護が限られていることに加え、AnthropicのClaudeやOpenAIのChatGPTといったLLMsがそれを可能にしている。"
+                "x": "RTX Remix for MinecraftはFabric-basedのモッドで、新しいAPI-basedパイプラインを通じてpath-tracedレンダラーをJava Edition 1.21.1にもたらす。NVIDIAはこれを、モッド互換性が限られた初期ベータだとしている。"
               },
               {
                 "t": "p",
-                "x": "「ゲームを早く見せることは、インディーが注目され、私たちを支えてくれるファンと出会う方法だ」と同社は書いた。「プラットフォームがオリジナル作品の保護を強化し続けることを願っている」"
+                "x": "ComfyUI Integration 2.0は、テクスチャやメッシュを生成する従来のAIアセットツールに代わるものだ。headless Toolkitと改良されたMCP連携により、対応するAIエージェントがモッディング作業の一部を自動化できる。"
+              },
+              {
+                "t": "video",
+                "yt": "WT3twFB0PD8"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Moonlighter工作室\n因AI顾虑缩ReVamp测试",
-          "body": "Digital Sun因担忧AI复制，将ReVamp早期测试限于Discord社区。",
-          "mini_headline": "AI担忧让试玩缩水",
+          "headline": "RTX Remix 1.6\n加入DLSS 5与Java",
+          "body": "NVIDIA RTX Remix 1.6加入DLSS 5、最高6X 多帧生成及Java支持。",
+          "mini_headline": "RTX Remix 1.6加入DLSS 5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt9efacbc53c73032f/6ad658566285139835883f4d/revampfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-14.jpg"
               },
               {
                 "t": "p",
-                "x": "近来借助生成式AI（AI-enabled）复制游戏的现象激增，迫使老牌工作室调整策略。以Moonlighter和Moonlighter 2: The Endless Vault闻名的Digital Sun Games，此前宣布将为即将推出的“Tower Defensevania”游戏ReVamp举办公开试玩。"
+                "x": "NVIDIA发布了其open-source模组平台RTX Remix 1.6，可通过GitHub和NVIDIA App获取。新版引入搭载3D-Guided Neural Rendering的DLSS 5、最高6X 的Multi Frame Generation、原生Windows on ARM支持、扩展的AI-powered素材工具，以及对Minecraft Java Edition的实验性支持。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/DLSS-5-OFF-vs-ON.jpg",
+                "cap": "图片来源：NVIDIA。"
               },
               {
                 "t": "p",
-                "x": "如今这一计划已被搁置。工作室在Steam和Bluesky上发文称，团队“对最近游戏在原作尚未推出前就被逆向工程（reverse-engineered）、复制并发布的消息感到担忧”。“距离发售还有数月，发布大规模的ReVamp公开版本风险太大，”工作室表示。它将从10月29日起通过Discord服务器开展“更受控”的试玩。"
+                "x": "DLSS 5借助AI增强光照与材质，同时兼顾游戏的几何、纹理和光照。模组作者可在三种模型（A、B、C）中选择，调整高光与体积效果，并使用per-material控制遮罩。5X 和6X 的Multi Frame Generation将在受支持的GeForce RTX 50 Series GPUs上提供。"
               },
               {
                 "t": "p",
-                "x": "就在昨天，Alliance Arts与Who's You取消了Drunken Goddess Reflux的Steam Next Fest试玩版。过去一个月，独立开发者纷纷讲述自己游戏的试玩版、预告片和图片被输入生成式AI工具，基本功能被迅速复刻；游戏机制的版权保护有限，加上Anthropic的Claude和OpenAI的ChatGPT等LLMs，让这一切成为可能。"
+                "x": "RTX Remix for Minecraft是一款Fabric-based模组，通过全新的API-based管线，将path-traced渲染器带到Java Edition 1.21.1。NVIDIA称其为早期测试版，模组兼容性有限。"
               },
               {
                 "t": "p",
-                "x": "“尽早展示游戏，是独立开发者被看见、找到支撑我们走下去的粉丝的方式，”该公司写道。“我们希望各平台持续加强对原创作品的保护。”"
+                "x": "ComfyUI Integration 2.0取代了此前用于生成纹理和网格的AI素材工具，而headless Toolkit与改进的MCP集成，让兼容的AI代理可以自动完成部分模组工作流程。"
+              },
+              {
+                "t": "video",
+                "yt": "WT3twFB0PD8"
               }
             ]
           }
         },
         "es": {
-          "headline": "Estudio de Moonlighter limita\nsu prueba de ReVamp por la AI",
-          "body": "Digital Sun limita las primeras pruebas de ReVamp a su comunidad de Discord por temor a la clonación con AI.",
-          "mini_headline": "El temor a la AI reduce una prueba",
+          "headline": "RTX Remix 1.6 suma DLSS 5\ny soporte para Minecraft Java",
+          "body": "NVIDIA lanza RTX Remix 1.6 con DLSS 5, hasta 6X Multi Frame Generation y soporte experimental de Minecraft Java.",
+          "mini_headline": "RTX Remix 1.6 recibe DLSS 5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt9efacbc53c73032f/6ad658566285139835883f4d/revampfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-14.jpg"
               },
               {
                 "t": "p",
-                "x": "Una reciente oleada de clonación de juegos impulsada por AI generativa (AI-enabled) está obligando a estudios consolidados a ajustar sus estrategias. Digital Sun Games, conocido por Moonlighter y Moonlighter 2: The Endless Vault, había anunciado una prueba pública de su próximo juego \"Tower Defensevania\", ReVamp."
+                "x": "NVIDIA ha lanzado RTX Remix 1.6 para su plataforma open-source de modding, disponible en GitHub y en la NVIDIA App. Introduce DLSS 5 con 3D-Guided Neural Rendering, hasta 6X Multi Frame Generation, soporte nativo para Windows on ARM, herramientas de recursos AI-powered ampliadas y soporte experimental para Minecraft Java Edition."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/DLSS-5-OFF-vs-ON.jpg",
+                "cap": "Imagen: NVIDIA."
               },
               {
                 "t": "p",
-                "x": "Ahora esos planes están en pausa. En una publicación en Steam y Bluesky, el estudio dijo que el equipo está \"preocupado por las noticias recientes de juegos sometidos a ingeniería inversa (reverse-engineered), clonados y publicados antes incluso de que salga el original\". \"Con el lanzamiento aún a meses de distancia, una gran versión pública de ReVamp parecía un riesgo demasiado grande\", afirmó. Realizará una prueba \"más acotada\" a través de su servidor de Discord a partir del 29 de octubre."
+                "x": "DLSS 5 usa AI para mejorar la iluminación y los materiales teniendo en cuenta la geometría, las texturas y la iluminación del juego. Los modders disponen de tres modelos a elegir (A, B y C), ajustes de brillos y volumétricos, y máscaras de control per-material. 5X y 6X Multi Frame Generation llegan a las GPUs GeForce RTX 50 Series compatibles."
               },
               {
                 "t": "p",
-                "x": "Justo ayer, Alliance Arts y Who's You cancelaron la demo de Drunken Goddess Reflux para Steam Next Fest. Durante el último mes, desarrolladores independientes han descrito cómo demos, tráileres e imágenes de sus juegos se introdujeron en herramientas de AI generativa para reconstruir rápidamente sus funciones básicas, algo facilitado por la limitada protección de derechos de autor de las mecánicas de juego y por LLMs como Claude de Anthropic y ChatGPT de OpenAI."
+                "x": "RTX Remix for Minecraft es un mod Fabric-based que lleva el renderizador path-traced a Java Edition 1.21.1 mediante un nuevo pipeline API-based. NVIDIA lo describe como una beta temprana con compatibilidad limitada con otros mods."
               },
               {
                 "t": "p",
-                "x": "\"Mostrar los juegos pronto es la forma en que los indies se hacen visibles y encuentran a los fans que nos sostienen\", escribió la compañía. \"Esperamos que las plataformas sigan reforzando la protección de las obras originales\"."
+                "x": "ComfyUI Integration 2.0 sustituye a las anteriores herramientas de AI para generar texturas y mallas, mientras que un headless Toolkit y una integración mejorada con MCP permiten que agentes de AI compatibles automaticen partes del flujo de trabajo de modding."
+              },
+              {
+                "t": "video",
+                "yt": "WT3twFB0PD8"
               }
             ]
           }
@@ -193,121 +247,157 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Moonlighter 팀\nAI 탓 ReVamp 축소",
-          "body": "Digital Sun은 AI 복제 우려로 ReVamp를 Discord서만 시험한다.",
-          "mini_headline": "AI 우려에 줄어든 플레이테스트",
+          "headline": "RTX Remix 1.6에\nDLSS 5·Java 지원",
+          "body": "NVIDIA RTX Remix 1.6에 DLSS 5·최대 6X 프레임 생성이 왔다.",
+          "mini_headline": "RTX Remix 1.6에 DLSS 5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt9efacbc53c73032f/6ad658566285139835883f4d/revampfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-14.jpg"
               },
               {
                 "t": "p",
-                "x": "생성형 AI를 활용한(AI-enabled) 게임 복제가 최근 잇따르면서 기존 스튜디오들이 전략을 바꾸고 있다. Moonlighter와 Moonlighter 2: The Endless Vault로 잘 알려진 Digital Sun Games는 차기작인 \"Tower Defensevania\" 게임 ReVamp의 공개 플레이테스트를 예고했었다."
+                "x": "NVIDIA가 open-source 모딩 플랫폼 RTX Remix 1.6을 공개했다. GitHub와 NVIDIA App에서 받을 수 있다. 이번 버전은 3D-Guided Neural Rendering을 갖춘 DLSS 5, 최대 6X Multi Frame Generation, Windows on ARM 네이티브 지원, 한층 넓어진 AI-powered 에셋 도구, Minecraft Java Edition 실험 지원을 담았다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/DLSS-5-OFF-vs-ON.jpg",
+                "cap": "이미지 출처: NVIDIA."
               },
               {
                 "t": "p",
-                "x": "그 계획은 이제 보류됐다. 스튜디오는 Steam과 Bluesky에 올린 글에서 팀이 \"원작이 나오기도 전에 게임이 역설계(reverse-engineered)되고 복제돼 출시되는 최근 소식을 우려하고 있다\"고 밝혔다. \"출시까지 아직 몇 달이 남은 상황에서 ReVamp의 대규모 공개 빌드는 위험이 너무 크다고 느꼈다\"는 설명이다. 대신 10월 29일부터 Discord 서버에서 \"더 제한된\" 플레이테스트를 진행한다."
+                "x": "DLSS 5는 게임의 지오메트리와 텍스처, 조명을 고려하면서 AI로 조명과 재질을 개선한다. 모더는 세 가지 모델(A, B, C)을 고를 수 있고, 하이라이트와 볼류메트릭을 조정하며, per-material 제어 마스크를 쓸 수 있다. 5X와 6X Multi Frame Generation은 지원되는 GeForce RTX 50 Series GPUs에서 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "바로 어제는 Alliance Arts와 Who's You가 Drunken Goddess Reflux의 Steam Next Fest 데모를 취소했다. 인디 개발자들은 지난 한 달 동안 자신들의 데모, 트레일러, 이미지가 생성형 AI 도구에 입력돼 기본 기능이 빠르게 재현된 사례를 전해 왔다. 게임 메커니즘에 대한 저작권 보호가 제한적인 데다 Anthropic의 Claude, OpenAI의 ChatGPT 같은 LLMs가 이를 가능하게 했다."
+                "x": "RTX Remix for Minecraft는 Fabric-based 모드로, 새로운 API-based 파이프라인을 통해 path-traced 렌더러를 Java Edition 1.21.1에 가져온다. NVIDIA는 이를 모드 호환성이 제한된 초기 베타라고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "\"게임을 일찍 보여주는 것은 인디가 주목받고, 우리를 지탱해 주는 팬을 만나는 방법\"이라고 회사는 썼다. \"플랫폼들이 독창적인 작품에 대한 보호를 계속 강화하길 바란다.\""
+                "x": "ComfyUI Integration 2.0은 텍스처와 메시를 생성하던 기존 AI 에셋 도구를 대체한다. headless Toolkit과 개선된 MCP 연동 덕분에 호환되는 AI 에이전트가 모딩 작업 일부를 자동화할 수 있다."
+              },
+              {
+                "t": "video",
+                "yt": "WT3twFB0PD8"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Moonlighter開発元\nAI懸念でReVamp縮小",
-          "body": "Digital SunはAI複製を懸念し、ReVampの試験をDiscordに限定した。",
-          "mini_headline": "AI懸念で縮むプレイテスト",
+          "headline": "RTX Remix 1.6に\nDLSS 5とJava対応",
+          "body": "NVIDIAのRTX Remix 1.6にDLSS 5と最大 6X フレーム生成が加わった。",
+          "mini_headline": "RTX Remix 1.6にDLSS 5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt9efacbc53c73032f/6ad658566285139835883f4d/revampfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-14.jpg"
               },
               {
                 "t": "p",
-                "x": "生成AIを使った(AI-enabled)ゲームの複製が最近相次ぎ、既存のスタジオは戦略の見直しを迫られている。MoonlighterやMoonlighter 2: The Endless Vaultで知られるDigital Sun Gamesは、次回作である「Tower Defensevania」ゲームReVampの公開プレイテストを告知していた。"
+                "x": "NVIDIAは、open-source のモッディングプラットフォームRTX Remix 1.6を公開した。GitHubとNVIDIA Appから入手できる。3D-Guided Neural Renderingを備えたDLSS 5、最大 6X のMulti Frame Generation、Windows on ARMのネイティブ対応、拡充されたAI-poweredアセットツール、そしてMinecraft Java Editionの実験的対応を導入する。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/DLSS-5-OFF-vs-ON.jpg",
+                "cap": "画像：NVIDIA。"
               },
               {
                 "t": "p",
-                "x": "その計画はいま凍結された。スタジオはSteamとBlueskyへの投稿で、チームは「オリジナルの発売前にゲームがリバースエンジニアリング(reverse-engineered)され、複製され、公開されるという最近のニュースを懸念している」と述べた。「発売までまだ数か月ある中で、ReVampの大規模な公開ビルドはリスクが大きすぎると感じた」という。10月29日からはDiscordサーバーで「より限定的な」プレイテストを実施する。"
+                "x": "DLSS 5はゲームのジオメトリ、テクスチャ、ライティングを考慮しつつ、AIで照明と質感を向上させる。モッダーは三つのモデル（A、B、C）の選択、ハイライトとボリュメトリックの調整、per-material の制御マスクを使える。5X と 6X のMulti Frame Generationは、対応するGeForce RTX 50 Series GPUsで利用できる。"
               },
               {
                 "t": "p",
-                "x": "つい昨日には、Alliance ArtsとWho's YouがDrunken Goddess RefluxのSteam Next Festデモを取り下げた。インディー開発者たちはここ一か月、自作のデモやトレーラー、画像が生成AIツールに読み込まれ、基本的な機能を短期間で再現されたと訴えてきた。ゲームメカニクスの著作権保護が限られていることに加え、AnthropicのClaudeやOpenAIのChatGPTといったLLMsがそれを可能にしている。"
+                "x": "RTX Remix for MinecraftはFabric-basedのモッドで、新しいAPI-basedパイプラインを通じてpath-tracedレンダラーをJava Edition 1.21.1にもたらす。NVIDIAはこれを、モッド互換性が限られた初期ベータだとしている。"
               },
               {
                 "t": "p",
-                "x": "「ゲームを早く見せることは、インディーが注目され、私たちを支えてくれるファンと出会う方法だ」と同社は書いた。「プラットフォームがオリジナル作品の保護を強化し続けることを願っている」"
+                "x": "ComfyUI Integration 2.0は、テクスチャやメッシュを生成する従来のAIアセットツールに代わるものだ。headless Toolkitと改良されたMCP連携により、対応するAIエージェントがモッディング作業の一部を自動化できる。"
+              },
+              {
+                "t": "video",
+                "yt": "WT3twFB0PD8"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Moonlighter工作室\n因AI顾虑缩ReVamp测试",
-          "body": "Digital Sun因担忧AI复制，将ReVamp早期测试限于Discord社区。",
-          "mini_headline": "AI担忧让试玩缩水",
+          "headline": "RTX Remix 1.6\n加入DLSS 5与Java",
+          "body": "NVIDIA RTX Remix 1.6加入DLSS 5、最高6X 多帧生成及Java支持。",
+          "mini_headline": "RTX Remix 1.6加入DLSS 5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt9efacbc53c73032f/6ad658566285139835883f4d/revampfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-14.jpg"
               },
               {
                 "t": "p",
-                "x": "近来借助生成式AI（AI-enabled）复制游戏的现象激增，迫使老牌工作室调整策略。以Moonlighter和Moonlighter 2: The Endless Vault闻名的Digital Sun Games，此前宣布将为即将推出的“Tower Defensevania”游戏ReVamp举办公开试玩。"
+                "x": "NVIDIA发布了其open-source模组平台RTX Remix 1.6，可通过GitHub和NVIDIA App获取。新版引入搭载3D-Guided Neural Rendering的DLSS 5、最高6X 的Multi Frame Generation、原生Windows on ARM支持、扩展的AI-powered素材工具，以及对Minecraft Java Edition的实验性支持。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/DLSS-5-OFF-vs-ON.jpg",
+                "cap": "图片来源：NVIDIA。"
               },
               {
                 "t": "p",
-                "x": "如今这一计划已被搁置。工作室在Steam和Bluesky上发文称，团队“对最近游戏在原作尚未推出前就被逆向工程（reverse-engineered）、复制并发布的消息感到担忧”。“距离发售还有数月，发布大规模的ReVamp公开版本风险太大，”工作室表示。它将从10月29日起通过Discord服务器开展“更受控”的试玩。"
+                "x": "DLSS 5借助AI增强光照与材质，同时兼顾游戏的几何、纹理和光照。模组作者可在三种模型（A、B、C）中选择，调整高光与体积效果，并使用per-material控制遮罩。5X 和6X 的Multi Frame Generation将在受支持的GeForce RTX 50 Series GPUs上提供。"
               },
               {
                 "t": "p",
-                "x": "就在昨天，Alliance Arts与Who's You取消了Drunken Goddess Reflux的Steam Next Fest试玩版。过去一个月，独立开发者纷纷讲述自己游戏的试玩版、预告片和图片被输入生成式AI工具，基本功能被迅速复刻；游戏机制的版权保护有限，加上Anthropic的Claude和OpenAI的ChatGPT等LLMs，让这一切成为可能。"
+                "x": "RTX Remix for Minecraft是一款Fabric-based模组，通过全新的API-based管线，将path-traced渲染器带到Java Edition 1.21.1。NVIDIA称其为早期测试版，模组兼容性有限。"
               },
               {
                 "t": "p",
-                "x": "“尽早展示游戏，是独立开发者被看见、找到支撑我们走下去的粉丝的方式，”该公司写道。“我们希望各平台持续加强对原创作品的保护。”"
+                "x": "ComfyUI Integration 2.0取代了此前用于生成纹理和网格的AI素材工具，而headless Toolkit与改进的MCP集成，让兼容的AI代理可以自动完成部分模组工作流程。"
+              },
+              {
+                "t": "video",
+                "yt": "WT3twFB0PD8"
               }
             ]
           }
         },
         "es": {
-          "headline": "Estudio de Moonlighter limita\nsu prueba de ReVamp por la AI",
-          "body": "Digital Sun limita las primeras pruebas de ReVamp a su comunidad de Discord por temor a la clonación con AI.",
-          "mini_headline": "El temor a la AI reduce una prueba",
+          "headline": "RTX Remix 1.6 suma DLSS 5\ny soporte para Minecraft Java",
+          "body": "NVIDIA lanza RTX Remix 1.6 con DLSS 5, hasta 6X Multi Frame Generation y soporte experimental de Minecraft Java.",
+          "mini_headline": "RTX Remix 1.6 recibe DLSS 5",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt9efacbc53c73032f/6ad658566285139835883f4d/revampfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-14.jpg"
               },
               {
                 "t": "p",
-                "x": "Una reciente oleada de clonación de juegos impulsada por AI generativa (AI-enabled) está obligando a estudios consolidados a ajustar sus estrategias. Digital Sun Games, conocido por Moonlighter y Moonlighter 2: The Endless Vault, había anunciado una prueba pública de su próximo juego \"Tower Defensevania\", ReVamp."
+                "x": "NVIDIA ha lanzado RTX Remix 1.6 para su plataforma open-source de modding, disponible en GitHub y en la NVIDIA App. Introduce DLSS 5 con 3D-Guided Neural Rendering, hasta 6X Multi Frame Generation, soporte nativo para Windows on ARM, herramientas de recursos AI-powered ampliadas y soporte experimental para Minecraft Java Edition."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/DLSS-5-OFF-vs-ON.jpg",
+                "cap": "Imagen: NVIDIA."
               },
               {
                 "t": "p",
-                "x": "Ahora esos planes están en pausa. En una publicación en Steam y Bluesky, el estudio dijo que el equipo está \"preocupado por las noticias recientes de juegos sometidos a ingeniería inversa (reverse-engineered), clonados y publicados antes incluso de que salga el original\". \"Con el lanzamiento aún a meses de distancia, una gran versión pública de ReVamp parecía un riesgo demasiado grande\", afirmó. Realizará una prueba \"más acotada\" a través de su servidor de Discord a partir del 29 de octubre."
+                "x": "DLSS 5 usa AI para mejorar la iluminación y los materiales teniendo en cuenta la geometría, las texturas y la iluminación del juego. Los modders disponen de tres modelos a elegir (A, B y C), ajustes de brillos y volumétricos, y máscaras de control per-material. 5X y 6X Multi Frame Generation llegan a las GPUs GeForce RTX 50 Series compatibles."
               },
               {
                 "t": "p",
-                "x": "Justo ayer, Alliance Arts y Who's You cancelaron la demo de Drunken Goddess Reflux para Steam Next Fest. Durante el último mes, desarrolladores independientes han descrito cómo demos, tráileres e imágenes de sus juegos se introdujeron en herramientas de AI generativa para reconstruir rápidamente sus funciones básicas, algo facilitado por la limitada protección de derechos de autor de las mecánicas de juego y por LLMs como Claude de Anthropic y ChatGPT de OpenAI."
+                "x": "RTX Remix for Minecraft es un mod Fabric-based que lleva el renderizador path-traced a Java Edition 1.21.1 mediante un nuevo pipeline API-based. NVIDIA lo describe como una beta temprana con compatibilidad limitada con otros mods."
               },
               {
                 "t": "p",
-                "x": "\"Mostrar los juegos pronto es la forma en que los indies se hacen visibles y encuentran a los fans que nos sostienen\", escribió la compañía. \"Esperamos que las plataformas sigan reforzando la protección de las obras originales\"."
+                "x": "ComfyUI Integration 2.0 sustituye a las anteriores herramientas de AI para generar texturas y mallas, mientras que un headless Toolkit y una integración mejorada con MCP permiten que agentes de AI compatibles automaticen partes del flujo de trabajo de modding."
+              },
+              {
+                "t": "video",
+                "yt": "WT3twFB0PD8"
               }
             ]
           }
@@ -315,189 +405,189 @@
       }
     },
     {
-      "id": "games-miyamoto-genai",
+      "id": "games-unity-cli-agents",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Miyamoto \"인간\n디자이너 몫 늘 남는다\"",
-      "body": "Miyamoto는 gen AI가 모든 걸 맡더라도 디자이너 몫은 늘 남는다고 봤다.",
-      "mini_headline": "Miyamoto가 보는 AI와 디자이너",
+      "headline": "Unity CLI 실행은\n대부분 AI·자동화",
+      "body": "Unity CLI 이벤트 2억 건 이상 중 약 98%는 코딩 에이전트와 자동화였다.",
+      "mini_headline": "Unity CLI는 에이전트가 돌린다",
       "tool": "Games",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/nintendo-shigeru-miyamoto-gen-ai",
-      "accent": "#0070f3",
+      "source": "Unity",
+      "url": "https://unity.com/blog/unity-cli-usage-data-ai-coding-agents",
+      "accent": "#3b6bff",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://assetsio.gnwcdn.com/miyamoto-pikmin_WgJYOUw.jpg?width=1200&quality=85&format=jpg&auto=webp"
+            "src": "https://cdn.sanity.io/images/fuvbjjlp/production/55efa13879e7b4b911b21e5f69db2cda6b3dd703-1920x1080.png"
           },
           {
             "t": "p",
-            "x": "Shigeru Miyamoto는 다음 달 비디오게임 개발자로는 처음으로 일본(Japan) 문화훈장(Order of Culture)을 받는다. 그는 수상 기자회견에서 gen-AI를 두고 생각을 밝혔고, 발언은 VGC가 번역했다."
+            "x": "Unity CLI는 터미널에서 Unity를 설치·관리하는 단일 바이너리다. Pipeline 패키지와 함께 쓰면 실행 중인 Editor도 조작한다. 7월 이후 로그인 사용자 226,000명 이상이 썼다. 기록된 이벤트는 2억 건이 넘는다."
           },
           {
             "t": "p",
-            "x": "그는 도구가 \"타자기에서 워드프로세서로 옮겨 가던\" 시절을 떠올렸다. 기술이 \"노동\"을 더 많이 떠맡자 디자이너의 진짜 역량이 \"마침내 전면에 드러났다\"는 것이다. 이어 \"창작 행위는 본질적으로 만족스럽지만 위험도 있다. 노동 자체에서 만족을 느끼고, 품질 높은(high-quality) 작품이 만들어졌다고 착각할 수 있다\"고 했다."
+            "x": "2026년 7월 20일부터 10월 13일까지 CLI 실행의 약 98%가 코딩 에이전트와 기타 자동화에서 나왔다. 사람이 터미널에 직접 입력한 비율은 0.2%, CI 파이프라인은 0.3%였다. 사람은 Unity를 설정해 두고 작업은 에이전트에게 맡긴다."
           },
           {
             "t": "p",
-            "x": "\"이 과정은 개인의 의도에 기대고 컴퓨터는 노동을 돕는 조수 역할을 하기 때문에, 기술이 계속 발전하고 설령 AI가 결국 모든 것을 맡게 되더라도 우리가 할 역할은 늘 남아 있을 것이라고 생각한다.\""
+            "x": "가장 많이 실행된 명령은 unity command로 약 1억 2,400만 회다. unity status(약 670만 회)와 unity pipeline list(약 140만 회)가 그 뒤다."
           },
           {
             "t": "p",
-            "x": "Masahiro Sakurai는 그만큼 낙관하지 않았다. gen-AI 탓에 독창성도 수익성도 없는 게임이 쏟아질 수 있다는 것이다. Nintendo는 gen-AI 도구를 배제하지 않았다. Square Enix의 CEO Takashi Kiryu도 회사가 \"AI 적용에 적극적일 것\"이라고 했다."
+            "x": "사용량 대부분은 Unity가 Claude Code와 Codex, 최근에는 Grok용 공식 플러그인까지 내놓은 뒤에 나왔다. CLI와 함께 가장 많이 쓰인 에이전트는 Claude Code이고 Codex, Cursor, Grok 순이다. 이용자는 미국, 일본, 한국 순으로 많고 독일과 튀르키예가 뒤를 잇는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Miyamoto says human designers\nwill always have a role",
-          "body": "Miyamoto says even if gen AI eventually handles everything, there will always be a role left for human designers.",
-          "mini_headline": "Miyamoto on AI and designers",
+          "headline": "Most Unity CLI runs now\ncome from AI and automation",
+          "body": "In over 200 million Unity CLI events, about 98% of runs came from coding agents and other automation.",
+          "mini_headline": "Unity CLI is run by agents",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/miyamoto-pikmin_WgJYOUw.jpg?width=1200&quality=85&format=jpg&auto=webp"
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/55efa13879e7b4b911b21e5f69db2cda6b3dd703-1920x1080.png"
               },
               {
                 "t": "p",
-                "x": "Shigeru Miyamoto, who will become the first video game developer awarded Japan's Order of Culture next month, shared thoughts on gen-AI at a press conference for the award, in quotes translated by VGC."
+                "x": "The Unity CLI is a single binary that installs and manages Unity from the terminal and, with the Pipeline package, drives a running Editor. Since July, more than 226,000 logged-in users have used it, logging more than 200 million events."
               },
               {
                 "t": "p",
-                "x": "He recalled tools \"moving from typewriters to word processors,\" arguing a designer's true capabilities \"finally came to the fore\" as technology handled more \"labor.\" \"While the act of creation is inherently satisfying, there's a danger: one might find satisfaction in the labor itself and mistakenly believe that a high-quality piece of work has been created,\" he said."
+                "x": "From July 20 to October 13, 2026, about 98% of CLI runs came from coding agents and other automation. People typing at a terminal account for 0.2%, and CI pipelines for 0.3%. People set Unity up, then hand the work to their agent."
               },
               {
                 "t": "p",
-                "x": "\"Because the process relies on an individual's intent, with the computer serving as an assistant for the labor, I believe that even as technology continues to evolve, and even if AI were to eventually handle everything, there will always be a role left for us to play.\""
+                "x": "The most-run command is unity command, at about 124 million runs, followed by unity status (about 6.7 million) and unity pipeline list (about 1.4 million)."
               },
               {
                 "t": "p",
-                "x": "Masahiro Sakurai was less optimistic, saying gen-AI might lead to a surge of unoriginal and unprofitable games. Nintendo hasn't ruled out gen-AI tools, while Square Enix CEO Takashi Kiryu said the company would be \"aggressive in applying AI.\""
+                "x": "Most usage came after Unity released official plugins for Claude Code and Codex, and most recently Grok. Claude Code is the agent used most with the CLI, followed by Codex, then Cursor and Grok. The largest audiences are in the United States, Japan and South Korea, followed by Germany and Turkey."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Miyamoto \"인간\n디자이너 몫 늘 남는다\"",
-          "body": "Miyamoto는 gen AI가 모든 걸 맡더라도 디자이너 몫은 늘 남는다고 봤다.",
-          "mini_headline": "Miyamoto가 보는 AI와 디자이너",
+          "headline": "Unity CLI 실행은\n대부분 AI·자동화",
+          "body": "Unity CLI 이벤트 2억 건 이상 중 약 98%는 코딩 에이전트와 자동화였다.",
+          "mini_headline": "Unity CLI는 에이전트가 돌린다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/miyamoto-pikmin_WgJYOUw.jpg?width=1200&quality=85&format=jpg&auto=webp"
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/55efa13879e7b4b911b21e5f69db2cda6b3dd703-1920x1080.png"
               },
               {
                 "t": "p",
-                "x": "Shigeru Miyamoto는 다음 달 비디오게임 개발자로는 처음으로 일본(Japan) 문화훈장(Order of Culture)을 받는다. 그는 수상 기자회견에서 gen-AI를 두고 생각을 밝혔고, 발언은 VGC가 번역했다."
+                "x": "Unity CLI는 터미널에서 Unity를 설치·관리하는 단일 바이너리다. Pipeline 패키지와 함께 쓰면 실행 중인 Editor도 조작한다. 7월 이후 로그인 사용자 226,000명 이상이 썼다. 기록된 이벤트는 2억 건이 넘는다."
               },
               {
                 "t": "p",
-                "x": "그는 도구가 \"타자기에서 워드프로세서로 옮겨 가던\" 시절을 떠올렸다. 기술이 \"노동\"을 더 많이 떠맡자 디자이너의 진짜 역량이 \"마침내 전면에 드러났다\"는 것이다. 이어 \"창작 행위는 본질적으로 만족스럽지만 위험도 있다. 노동 자체에서 만족을 느끼고, 품질 높은(high-quality) 작품이 만들어졌다고 착각할 수 있다\"고 했다."
+                "x": "2026년 7월 20일부터 10월 13일까지 CLI 실행의 약 98%가 코딩 에이전트와 기타 자동화에서 나왔다. 사람이 터미널에 직접 입력한 비율은 0.2%, CI 파이프라인은 0.3%였다. 사람은 Unity를 설정해 두고 작업은 에이전트에게 맡긴다."
               },
               {
                 "t": "p",
-                "x": "\"이 과정은 개인의 의도에 기대고 컴퓨터는 노동을 돕는 조수 역할을 하기 때문에, 기술이 계속 발전하고 설령 AI가 결국 모든 것을 맡게 되더라도 우리가 할 역할은 늘 남아 있을 것이라고 생각한다.\""
+                "x": "가장 많이 실행된 명령은 unity command로 약 1억 2,400만 회다. unity status(약 670만 회)와 unity pipeline list(약 140만 회)가 그 뒤다."
               },
               {
                 "t": "p",
-                "x": "Masahiro Sakurai는 그만큼 낙관하지 않았다. gen-AI 탓에 독창성도 수익성도 없는 게임이 쏟아질 수 있다는 것이다. Nintendo는 gen-AI 도구를 배제하지 않았다. Square Enix의 CEO Takashi Kiryu도 회사가 \"AI 적용에 적극적일 것\"이라고 했다."
+                "x": "사용량 대부분은 Unity가 Claude Code와 Codex, 최근에는 Grok용 공식 플러그인까지 내놓은 뒤에 나왔다. CLI와 함께 가장 많이 쓰인 에이전트는 Claude Code이고 Codex, Cursor, Grok 순이다. 이용자는 미국, 일본, 한국 순으로 많고 독일과 튀르키예가 뒤를 잇는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Miyamoto「人間の\nデザイナーの役割は残る」",
-          "body": "Miyamotoは、gen AIが全てを担っても人間のデザイナーの役割は常に残ると語った。",
-          "mini_headline": "MiyamotoとAI、デザイナー",
+          "headline": "Unity CLIの実行は\n大半がAIと自動化",
+          "body": "2億件超のUnity CLIイベントで、実行の約98%はエージェントと自動化だった。",
+          "mini_headline": "Unity CLIを動かすのはエージェント",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/miyamoto-pikmin_WgJYOUw.jpg?width=1200&quality=85&format=jpg&auto=webp"
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/55efa13879e7b4b911b21e5f69db2cda6b3dd703-1920x1080.png"
               },
               {
                 "t": "p",
-                "x": "来月、ビデオゲーム開発者として初めて日本(Japan)の文化勲章(Order of Culture)を受章するShigeru Miyamotoが、受章の記者会見でgen-AIについての考えを語った。発言はVGCが翻訳した。"
+                "x": "Unity CLIは、ターミナルからUnityをインストール・管理できる単一のバイナリで、Pipelineパッケージを使えば起動中のEditorも操作できる。7月以降、226,000人を超えるログインユーザーが利用し、記録されたイベントは2億件を超える。"
               },
               {
                 "t": "p",
-                "x": "彼は道具が「タイプライターからワープロへ移った」時代を振り返り、技術がより多くの「労働」を担うことで、デザイナーの真の力が「ようやく前面に出てきた」と述べた。「創作という行為は本質的に満足をもたらすが、危険もある。労働そのものに満足し、質の高い(high-quality)作品ができたと思い込んでしまうことだ」と語った。"
+                "x": "2026年7月20日から10月13日までのCLI実行のうち、約98%はコーディングエージェントなどの自動化によるものだった。人がターミナルで入力した実行は0.2%、CIパイプラインは0.3%にとどまる。人はUnityをセットアップし、あとの作業をエージェントに任せている。"
               },
               {
                 "t": "p",
-                "x": "「このプロセスは個人の意図に依拠し、コンピューターは労働の補助役を務める。だから技術が進化し続けても、たとえAIがいずれすべてを担うことになっても、私たちが果たすべき役割は常に残ると考えている」"
+                "x": "最も多く実行されたコマンドはunity commandで約1億2,400万回、次いでunity status（約670万回）、unity pipeline list（約140万回）が続く。"
               },
               {
                 "t": "p",
-                "x": "Masahiro Sakuraiはより悲観的で、gen-AIが独創性も収益性もないゲームの急増につながりかねないと語った。Nintendoはgen-AIツールを排除しておらず、Square EnixのCEOであるTakashi Kiryuは同社が「AIの活用に積極的になる」と述べている。"
+                "x": "利用の大半は、UnityがClaude CodeとCodex、そして直近ではGrok向けの公式プラグインを公開した後に生まれた。CLIと最もよく使われるエージェントはClaude Codeで、Codex、Cursor、Grokが続く。利用者が最も多いのは米国、日本、韓国で、ドイツ、トルコが続く。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Miyamoto：人类设计师\n永远有一席之地",
-          "body": "Miyamoto称，即便gen AI最终包办一切，人类设计师也始终会有用武之地。",
-          "mini_headline": "Miyamoto谈AI与设计师",
+          "headline": "Unity CLI运行\n多数来自AI与自动化",
+          "body": "在逾2亿次Unity CLI事件中，约98%的运行来自编码代理等自动化。",
+          "mini_headline": "Unity CLI由代理驱动",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/miyamoto-pikmin_WgJYOUw.jpg?width=1200&quality=85&format=jpg&auto=webp"
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/55efa13879e7b4b911b21e5f69db2cda6b3dd703-1920x1080.png"
               },
               {
                 "t": "p",
-                "x": "下个月将成为首位获得日本（Japan）文化勋章（Order of Culture）的电子游戏开发者的Shigeru Miyamoto，在获奖记者会上谈了对gen-AI的看法，相关引述由VGC翻译。"
+                "x": "Unity CLI是一个单一二进制程序，可在终端安装和管理Unity，搭配Pipeline包还能驱动正在运行的Editor。自7月以来，已有超过226,000名登录用户使用，记录的事件超过2亿次。"
               },
               {
                 "t": "p",
-                "x": "他回忆起工具“从打字机走向文字处理器”的变化，认为随着技术承担了更多“劳动”，设计师真正的能力“终于走到了台前”。“创作行为本身固然令人满足，但也有危险：人可能在劳动本身中获得满足，并误以为已经做出了高质量（high-quality）的作品，”他说。"
+                "x": "2026年7月20日至10月13日，约98%的CLI运行来自编码代理和其他自动化。人在终端手动输入占0.2%，CI流水线占0.3%。人们先把Unity配置好，再把工作交给代理。"
               },
               {
                 "t": "p",
-                "x": "“由于这一过程依赖个人的意图，电脑则充当劳动的助手，我相信即使技术不断进化，即使AI最终包办一切，也始终会有我们要扮演的角色。”"
+                "x": "运行次数最多的命令是unity command，约1.24亿次，其次是unity status（约670万次）和unity pipeline list（约140万次）。"
               },
               {
                 "t": "p",
-                "x": "Masahiro Sakurai则没那么乐观，他认为gen-AI可能导致缺乏原创、无利可图的游戏激增。Nintendo没有排除使用gen-AI工具，而Square Enix CEO Takashi Kiryu表示公司将“积极应用AI”。"
+                "x": "大部分使用发生在Unity为Claude Code和Codex，以及最近为Grok推出官方插件之后。与CLI搭配使用最多的代理是Claude Code，其次是Codex，然后是Cursor和Grok。用户最多的国家是美国、日本和韩国，其次是德国和土耳其。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Miyamoto: los diseñadores\nhumanos siempre tendrán un papel",
-          "body": "Miyamoto dice que, aunque la gen AI acabe ocupándose de todo, siempre habrá un papel para los diseñadores humanos.",
-          "mini_headline": "Miyamoto sobre la AI y los diseñadores",
+          "headline": "La mayoría de usos de Unity CLI\nya llega de AI y automatización",
+          "body": "De más de 200 millones de eventos de Unity CLI, cerca del 98% vino de agentes de código y automatización.",
+          "mini_headline": "Unity CLI, en manos de agentes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/miyamoto-pikmin_WgJYOUw.jpg?width=1200&quality=85&format=jpg&auto=webp"
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/55efa13879e7b4b911b21e5f69db2cda6b3dd703-1920x1080.png"
               },
               {
                 "t": "p",
-                "x": "Shigeru Miyamoto, que el próximo mes se convertirá en el primer desarrollador de videojuegos distinguido con la Order of Culture de Japón (Japan), compartió su opinión sobre la gen-AI en una rueda de prensa por el galardón, en declaraciones traducidas por VGC."
+                "x": "Unity CLI es un único binario que instala y gestiona Unity desde la terminal y, con el paquete Pipeline, controla un Editor en ejecución. Desde julio la han usado más de 226,000 usuarios con sesión iniciada, que han registrado más de 200 millones de eventos."
               },
               {
                 "t": "p",
-                "x": "Recordó cómo las herramientas pasaron \"de las máquinas de escribir a los procesadores de texto\" y sostuvo que las verdaderas capacidades de un diseñador \"por fin pasaron a primer plano\" a medida que la tecnología asumía más \"trabajo\". \"Aunque el acto de crear es satisfactorio por naturaleza, hay un peligro: uno puede encontrar satisfacción en el trabajo en sí y creer por error que ha creado una obra de alta calidad (high-quality)\", dijo."
+                "x": "Del 20 de julio al 13 de octubre de 2026, cerca del 98% de las ejecuciones de CLI vino de agentes de código y otra automatización. Las personas que escriben en una terminal suponen el 0.2%, y los pipelines de CI, el 0.3%. La gente configura Unity y luego delega el trabajo en su agente."
               },
               {
                 "t": "p",
-                "x": "\"Como el proceso depende de la intención de una persona, con la computadora como asistente para el trabajo, creo que aunque la tecnología siga evolucionando, e incluso si la AI llegara a encargarse de todo, siempre quedará un papel que nos corresponda\"."
+                "x": "El comando más ejecutado es unity command, con unos 124 millones de ejecuciones, seguido de unity status (unos 6.7 millones) y unity pipeline list (unos 1.4 millones)."
               },
               {
                 "t": "p",
-                "x": "Masahiro Sakurai se mostró menos optimista y dijo que la gen-AI podría provocar una avalancha de juegos poco originales y poco rentables. Nintendo no ha descartado las herramientas de gen-AI, mientras que el CEO de Square Enix, Takashi Kiryu, afirmó que la compañía sería \"agresiva en la aplicación de la AI\"."
+                "x": "La mayor parte del uso llegó después de que Unity lanzara plugins oficiales para Claude Code y Codex y, más recientemente, para Grok. Claude Code es el agente más usado con la CLI, seguido de Codex, y luego Cursor y Grok. Los mayores públicos están en Estados Unidos, Japón y Corea del Sur, seguidos de Alemania y Turquía."
               }
             ]
           }
@@ -505,121 +595,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Miyamoto \"인간\n디자이너 몫 늘 남는다\"",
-          "body": "Miyamoto는 gen AI가 모든 걸 맡아도 디자이너 몫은 늘 남는다고 했다.",
-          "mini_headline": "Miyamoto가 본 AI와 디자이너",
+          "headline": "Unity CLI 실행은\n대부분 AI·자동화",
+          "body": "Unity CLI 이벤트 2억 건 이상 중 약 98%는 코딩 에이전트와 자동화였다.",
+          "mini_headline": "Unity CLI는 에이전트가 돌린다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/miyamoto-pikmin_WgJYOUw.jpg?width=1200&quality=85&format=jpg&auto=webp"
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/55efa13879e7b4b911b21e5f69db2cda6b3dd703-1920x1080.png"
               },
               {
                 "t": "p",
-                "x": "다음 달 비디오게임 개발자로는 처음으로 일본(Japan) 문화훈장(Order of Culture)을 받는 Shigeru Miyamoto가 수상 기자회견에서 gen-AI에 대한 생각을 밝혔다. 발언은 VGC가 번역했다."
+                "x": "Unity CLI는 터미널에서 Unity를 설치하고 관리하는 단일 바이너리로, Pipeline 패키지와 함께 쓰면 실행 중인 Editor를 조작할 수 있다. 7월 이후 로그인 사용자 226,000명 이상이 이를 사용했고, 기록된 이벤트는 2억 건을 넘는다."
               },
               {
                 "t": "p",
-                "x": "그는 도구가 \"타자기에서 워드프로세서로 옮겨 가던\" 시절을 떠올리며, 기술이 더 많은 \"노동\"을 맡으면서 디자이너의 진짜 역량이 \"마침내 전면에 드러났다\"고 말했다. \"창작 행위는 본질적으로 만족스럽지만 위험도 있다. 노동 자체에서 만족을 느끼고, 품질 높은(high-quality) 작품이 만들어졌다고 착각할 수 있다\"고 그는 말했다."
+                "x": "2026년 7월 20일부터 10월 13일까지 CLI 실행의 약 98%는 코딩 에이전트와 기타 자동화에서 나왔다. 사람이 터미널에 직접 입력한 경우는 0.2%, CI 파이프라인은 0.3%였다. 사람은 Unity를 설정한 뒤 작업을 에이전트에게 넘긴다."
               },
               {
                 "t": "p",
-                "x": "\"이 과정은 개인의 의도에 기대고 컴퓨터는 노동을 돕는 조수 역할을 하기 때문에, 기술이 계속 발전하고 설령 AI가 결국 모든 것을 맡게 되더라도 우리가 할 역할은 늘 남아 있을 것이라고 생각한다.\""
+                "x": "가장 많이 실행된 명령은 약 1억 2,400만 회의 unity command이며, unity status(약 670만 회)와 unity pipeline list(약 140만 회)가 뒤를 잇는다."
               },
               {
                 "t": "p",
-                "x": "Masahiro Sakurai는 덜 낙관적이었다. gen-AI가 독창성도 수익성도 없는 게임의 급증으로 이어질 수 있다고 했다. Nintendo는 gen-AI 도구를 배제하지 않았고, Square Enix의 CEO Takashi Kiryu는 회사가 \"AI 적용에 적극적일 것\"이라고 말했다."
+                "x": "사용량 대부분은 Unity가 Claude Code와 Codex, 그리고 최근 Grok용 공식 플러그인을 내놓은 뒤에 나왔다. CLI와 함께 가장 많이 쓰인 에이전트는 Claude Code이고, Codex, Cursor, Grok이 뒤를 잇는다. 이용자가 가장 많은 곳은 미국, 일본, 한국이며 독일과 튀르키예가 뒤를 잇는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Miyamoto「人間の\nデザイナーの役割は残る」",
-          "body": "Miyamotoは、gen AIが全てを担っても人間のデザイナーの役割は常に残ると語った。",
-          "mini_headline": "MiyamotoとAI、デザイナー",
+          "headline": "Unity CLIの実行は\n大半がAIと自動化",
+          "body": "2億件超のUnity CLIイベントで、実行の約98%はエージェントと自動化だった。",
+          "mini_headline": "Unity CLIを動かすのはエージェント",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/miyamoto-pikmin_WgJYOUw.jpg?width=1200&quality=85&format=jpg&auto=webp"
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/55efa13879e7b4b911b21e5f69db2cda6b3dd703-1920x1080.png"
               },
               {
                 "t": "p",
-                "x": "来月、ビデオゲーム開発者として初めて日本(Japan)の文化勲章(Order of Culture)を受章するShigeru Miyamotoが、受章の記者会見でgen-AIについての考えを語った。発言はVGCが翻訳した。"
+                "x": "Unity CLIは、ターミナルからUnityをインストール・管理できる単一のバイナリで、Pipelineパッケージを使えば起動中のEditorも操作できる。7月以降、226,000人を超えるログインユーザーが利用し、記録されたイベントは2億件を超える。"
               },
               {
                 "t": "p",
-                "x": "彼は道具が「タイプライターからワープロへ移った」時代を振り返り、技術がより多くの「労働」を担うことで、デザイナーの真の力が「ようやく前面に出てきた」と述べた。「創作という行為は本質的に満足をもたらすが、危険もある。労働そのものに満足し、質の高い(high-quality)作品ができたと思い込んでしまうことだ」と語った。"
+                "x": "2026年7月20日から10月13日までのCLI実行のうち、約98%はコーディングエージェントなどの自動化によるものだった。人がターミナルで入力した実行は0.2%、CIパイプラインは0.3%にとどまる。人はUnityをセットアップし、あとの作業をエージェントに任せている。"
               },
               {
                 "t": "p",
-                "x": "「このプロセスは個人の意図に依拠し、コンピューターは労働の補助役を務める。だから技術が進化し続けても、たとえAIがいずれすべてを担うことになっても、私たちが果たすべき役割は常に残ると考えている」"
+                "x": "最も多く実行されたコマンドはunity commandで約1億2,400万回、次いでunity status（約670万回）、unity pipeline list（約140万回）が続く。"
               },
               {
                 "t": "p",
-                "x": "Masahiro Sakuraiはより悲観的で、gen-AIが独創性も収益性もないゲームの急増につながりかねないと語った。Nintendoはgen-AIツールを排除しておらず、Square EnixのCEOであるTakashi Kiryuは同社が「AIの活用に積極的になる」と述べている。"
+                "x": "利用の大半は、UnityがClaude CodeとCodex、そして直近ではGrok向けの公式プラグインを公開した後に生まれた。CLIと最もよく使われるエージェントはClaude Codeで、Codex、Cursor、Grokが続く。利用者が最も多いのは米国、日本、韓国で、ドイツ、トルコが続く。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Miyamoto：人类设计师\n永远有一席之地",
-          "body": "Miyamoto称，即便gen AI最终包办一切，人类设计师也始终会有用武之地。",
-          "mini_headline": "Miyamoto谈AI与设计师",
+          "headline": "Unity CLI运行\n多数来自AI与自动化",
+          "body": "在逾2亿次Unity CLI事件中，约98%的运行来自编码代理等自动化。",
+          "mini_headline": "Unity CLI由代理驱动",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/miyamoto-pikmin_WgJYOUw.jpg?width=1200&quality=85&format=jpg&auto=webp"
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/55efa13879e7b4b911b21e5f69db2cda6b3dd703-1920x1080.png"
               },
               {
                 "t": "p",
-                "x": "下个月将成为首位获得日本（Japan）文化勋章（Order of Culture）的电子游戏开发者的Shigeru Miyamoto，在获奖记者会上谈了对gen-AI的看法，相关引述由VGC翻译。"
+                "x": "Unity CLI是一个单一二进制程序，可在终端安装和管理Unity，搭配Pipeline包还能驱动正在运行的Editor。自7月以来，已有超过226,000名登录用户使用，记录的事件超过2亿次。"
               },
               {
                 "t": "p",
-                "x": "他回忆起工具“从打字机走向文字处理器”的变化，认为随着技术承担了更多“劳动”，设计师真正的能力“终于走到了台前”。“创作行为本身固然令人满足，但也有危险：人可能在劳动本身中获得满足，并误以为已经做出了高质量（high-quality）的作品，”他说。"
+                "x": "2026年7月20日至10月13日，约98%的CLI运行来自编码代理和其他自动化。人在终端手动输入占0.2%，CI流水线占0.3%。人们先把Unity配置好，再把工作交给代理。"
               },
               {
                 "t": "p",
-                "x": "“由于这一过程依赖个人的意图，电脑则充当劳动的助手，我相信即使技术不断进化，即使AI最终包办一切，也始终会有我们要扮演的角色。”"
+                "x": "运行次数最多的命令是unity command，约1.24亿次，其次是unity status（约670万次）和unity pipeline list（约140万次）。"
               },
               {
                 "t": "p",
-                "x": "Masahiro Sakurai则没那么乐观，他认为gen-AI可能导致缺乏原创、无利可图的游戏激增。Nintendo没有排除使用gen-AI工具，而Square Enix CEO Takashi Kiryu表示公司将“积极应用AI”。"
+                "x": "大部分使用发生在Unity为Claude Code和Codex，以及最近为Grok推出官方插件之后。与CLI搭配使用最多的代理是Claude Code，其次是Codex，然后是Cursor和Grok。用户最多的国家是美国、日本和韩国，其次是德国和土耳其。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Miyamoto: los diseñadores\nhumanos siempre tendrán un papel",
-          "body": "Miyamoto dice que, aunque la gen AI acabe ocupándose de todo, siempre habrá un papel para los diseñadores humanos.",
-          "mini_headline": "Miyamoto sobre la AI y los diseñadores",
+          "headline": "La mayoría de usos de Unity CLI\nya llega de AI y automatización",
+          "body": "De más de 200 millones de eventos de Unity CLI, cerca del 98% vino de agentes de código y automatización.",
+          "mini_headline": "Unity CLI, en manos de agentes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/miyamoto-pikmin_WgJYOUw.jpg?width=1200&quality=85&format=jpg&auto=webp"
+                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/55efa13879e7b4b911b21e5f69db2cda6b3dd703-1920x1080.png"
               },
               {
                 "t": "p",
-                "x": "Shigeru Miyamoto, que el próximo mes se convertirá en el primer desarrollador de videojuegos distinguido con la Order of Culture de Japón (Japan), compartió su opinión sobre la gen-AI en una rueda de prensa por el galardón, en declaraciones traducidas por VGC."
+                "x": "Unity CLI es un único binario que instala y gestiona Unity desde la terminal y, con el paquete Pipeline, controla un Editor en ejecución. Desde julio la han usado más de 226,000 usuarios con sesión iniciada, que han registrado más de 200 millones de eventos."
               },
               {
                 "t": "p",
-                "x": "Recordó cómo las herramientas pasaron \"de las máquinas de escribir a los procesadores de texto\" y sostuvo que las verdaderas capacidades de un diseñador \"por fin pasaron a primer plano\" a medida que la tecnología asumía más \"trabajo\". \"Aunque el acto de crear es satisfactorio por naturaleza, hay un peligro: uno puede encontrar satisfacción en el trabajo en sí y creer por error que ha creado una obra de alta calidad (high-quality)\", dijo."
+                "x": "Del 20 de julio al 13 de octubre de 2026, cerca del 98% de las ejecuciones de CLI vino de agentes de código y otra automatización. Las personas que escriben en una terminal suponen el 0.2%, y los pipelines de CI, el 0.3%. La gente configura Unity y luego delega el trabajo en su agente."
               },
               {
                 "t": "p",
-                "x": "\"Como el proceso depende de la intención de una persona, con la computadora como asistente para el trabajo, creo que aunque la tecnología siga evolucionando, e incluso si la AI llegara a encargarse de todo, siempre quedará un papel que nos corresponda\"."
+                "x": "El comando más ejecutado es unity command, con unos 124 millones de ejecuciones, seguido de unity status (unos 6.7 millones) y unity pipeline list (unos 1.4 millones)."
               },
               {
                 "t": "p",
-                "x": "Masahiro Sakurai se mostró menos optimista y dijo que la gen-AI podría provocar una avalancha de juegos poco originales y poco rentables. Nintendo no ha descartado las herramientas de gen-AI, mientras que el CEO de Square Enix, Takashi Kiryu, afirmó que la compañía sería \"agresiva en la aplicación de la AI\"."
+                "x": "La mayor parte del uso llegó después de que Unity lanzara plugins oficiales para Claude Code y Codex y, más recientemente, para Grok. Claude Code es el agente más usado con la CLI, seguido de Codex, y luego Cursor y Grok. Los mayores públicos están en Estados Unidos, Japón y Corea del Sur, seguidos de Alemania y Turquía."
               }
             ]
           }
@@ -627,243 +717,184 @@
       }
     },
     {
-      "id": "games-sweeney-steam-labels",
+      "id": "games-xbox-fsr41",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Tim Sweeney 재차\nSteam AI 표시 비판",
-      "body": "Tim Sweeney는 Steam AI 표시를 혐오 집단에 쓰일 성명 강요라 봤다.",
-      "mini_headline": "Sweeney vs. Steam AI 표시",
+      "headline": "Xbox X/S에\nAMD FSR 4.1 탑재",
+      "body": "Xbox Series X·S에 AI 업스케일러 AMD FSR 4.1이 온다.",
+      "mini_headline": "Xbox에 FSR 4.1",
       "tool": "Games",
-      "source": "GamesRadar+",
-      "url": "https://www.gamesradar.com/games/still-mad-at-valve-for-steams-ai-disclosures-epic-games-boss-criticizes-forcing-developers-to-write-a-political-statement-to-be-used-against-them-by-the-hate-mob/",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/xbox-series-x-s-amd-fsr-4-1-upscaling",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/7M3WodRrErU8qfasfyuLrW-2560-80.jpg"
+            "src": "https://assetsio.gnwcdn.com/Untitled-1_4YYolkc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "cap": "이미지 출처: Microsoft"
           },
           {
             "t": "p",
-            "x": "Epic Games CEO Tim Sweeney가 Valve를 다시 비판했다. Steam에서 파는 게임에 AI 사용 공개를 여전히 의무로 두는 정책이 \"혐오스럽다\"는 것이다. Sweeney는 \"개발자에게 정치적 성명을 쓰게 하고, 그들이 조직을 돕고 있는 혐오 집단이 그 성명을 개발자 공격에 쓰게 만드는 것은 혐오스럽다\"고 말했다."
+            "x": "AMD가 AI-driven 이미지 업스케일링 기술의 최신판 FSR 4.1을 Xbox Series X와 Series S, 휴대용 기기 ROG Ally와 Ally X에 들여온다."
           },
           {
             "t": "p",
-            "x": "Steam의 AI 공개 규정에 따라 생성형 AI를 쓴 개발자는 어떻게 썼는지 밝혀야 한다. Call of Duty: Modern Warfare 4의 공개 문구에는 \"우리 팀은 일부 게임 내 에셋 개발을 돕기 위해 생성형 AI 도구를 사용한다\"고 적혀 있다."
+            "x": "FSR은 게임을 낮은 해상도로 렌더링한 다음 머신러닝으로 업스케일해 화질을 높이거나 성능을 안정시킨다. Series S, 그리고 하드웨어 제약이 더 큰 Ally 휴대용 기기가 가장 덕을 볼 만하다."
           },
           {
             "t": "p",
-            "x": "2025년 11월에도 Sweeney는 \"앞으로 거의 모든 제작에 AI가 관여할\" 세상에서 Valve의 방식은 말이 안 된다고 했다. 6월에는 이 공개 표시를 \"Scarlet Letter(주홍 글씨)\"에 빗댔다."
+            "x": "시점이 눈에 띈다. 몇 주 전 Sony가 PlayStation 5용으로 비슷한 machine learning-based 업스케일러 QSSR을 선보였기 때문이다."
           },
           {
             "t": "p",
-            "x": "이번 메시지는 \"생성형 미디어 클라우드\" Fal의 Matt Workman 글에 단 답글이다. Workman은 \"2026년에 AI Generated Content Disclosure라는 전제 자체가 ABSURD하다\"고 썼다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/eZKmPGBhfcyu2zDqCWYzU9.jpeg",
-            "cap": "이미지 출처: Epic Games"
+            "x": "Xbox CTO Scott Van Vliet는 \"AMD와 매우 긴밀히 협력해 이 기술을 최적화했고, 개발자에게 플레이어를 위한 뛰어난 성능과 화질을 구현할 또 하나의 강력한 도구를 제공하게 됐다\"고 말했다."
           },
           {
             "t": "p",
-            "x": "Epic은 지난주 새로 단장한 PC 스토어를 두고 \"우리는 Epic Games Launcher를 바이브 코딩(vibe coded)으로 만들었다\"고 했다."
+            "x": "AMD는 FSR 4.1의 Xbox Series 콘솔 도입 날짜를 구체적으로 밝히지 않았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Tim Sweeney renews attack on\nSteam's AI disclosure labels",
-          "body": "Tim Sweeney says Steam's AI labels force developers to write a political statement used against them by the hate mob.",
-          "mini_headline": "Sweeney vs. Steam AI labels",
+          "headline": "Xbox Series X/S gets\nAMD FSR 4.1 upscaling",
+          "body": "Xbox Series X and Series S are getting AMD FSR 4.1, an AI upscaler comparable to PlayStation's QSSR.",
+          "mini_headline": "FSR 4.1 comes to Xbox",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7M3WodRrErU8qfasfyuLrW-2560-80.jpg"
+                "src": "https://assetsio.gnwcdn.com/Untitled-1_4YYolkc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Image credit: Microsoft"
               },
               {
                 "t": "p",
-                "x": "Epic Games CEO Tim Sweeney criticized Valve for continuing to mandate AI disclosures for games sold on Steam, calling the policy \"abhorrent.\" \"Forcing developers to write a political statement to be used against them by the hate mob they're helping organize is abhorrent,\" says Sweeney."
+                "x": "AMD is bringing the latest version of its AI-driven image upscaling technology, FSR 4.1, to Xbox Series X, Series S, and the ROG Ally and Ally X handhelds."
               },
               {
                 "t": "p",
-                "x": "Steam's AI disclosures require devs who use generative AI to spell out how it was used. The disclosure for Call of Duty: Modern Warfare 4 reads, \"Our team uses generative AI tools to help develop some in game assets.\""
+                "x": "FSR renders the game at a lower resolution and upscales it using machine learning, delivering better visuals or more consistent performance. Series S and the more hardware-constrained Ally handhelds could see the biggest gains."
               },
               {
                 "t": "p",
-                "x": "As early as November 2025, Sweeney called Valve's approach nonsensical in a world where \"AI will be involved in nearly all future production.\" In June, he compared the disclosures to a \"Scarlet Letter.\""
+                "x": "The timing is notable: a couple of weeks ago, Sony introduced QSSR, a similar machine learning-based upscaler, for PlayStation 5."
               },
               {
                 "t": "p",
-                "x": "His latest message replied to Matt Workman of \"generative media cloud\" Fal, who argued \"the premise of an AI Generated Content Disclosure is ABSURD in 2026.\""
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/eZKmPGBhfcyu2zDqCWYzU9.jpeg",
-                "cap": "Image credit: Epic Games"
+                "x": "\"We've worked very closely with AMD to optimise this technology, giving developers another powerful tool for great performance and visual quality for players,\" said Xbox CTO Scott Van Vliet."
               },
               {
                 "t": "p",
-                "x": "Last week, Epic said of its reworked PC storefront, \"We vibe coded the Epic Games Launcher.\""
+                "x": "AMD did not offer a specific date for FSR 4.1's arrival on Xbox Series consoles."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Tim Sweeney 재차\nSteam AI 표시 비판",
-          "body": "Tim Sweeney는 Steam AI 표시를 혐오 집단에 쓰일 성명 강요라 봤다.",
-          "mini_headline": "Sweeney vs. Steam AI 표시",
+          "headline": "Xbox X/S에\nAMD FSR 4.1 탑재",
+          "body": "Xbox Series X·S에 AI 업스케일러 AMD FSR 4.1이 온다.",
+          "mini_headline": "Xbox에 FSR 4.1",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7M3WodRrErU8qfasfyuLrW-2560-80.jpg"
+                "src": "https://assetsio.gnwcdn.com/Untitled-1_4YYolkc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "이미지 출처: Microsoft"
               },
               {
                 "t": "p",
-                "x": "Epic Games CEO Tim Sweeney가 Valve를 다시 비판했다. Steam에서 파는 게임에 AI 사용 공개를 여전히 의무로 두는 정책이 \"혐오스럽다\"는 것이다. Sweeney는 \"개발자에게 정치적 성명을 쓰게 하고, 그들이 조직을 돕고 있는 혐오 집단이 그 성명을 개발자 공격에 쓰게 만드는 것은 혐오스럽다\"고 말했다."
+                "x": "AMD가 AI-driven 이미지 업스케일링 기술의 최신판 FSR 4.1을 Xbox Series X와 Series S, 휴대용 기기 ROG Ally와 Ally X에 들여온다."
               },
               {
                 "t": "p",
-                "x": "Steam의 AI 공개 규정에 따라 생성형 AI를 쓴 개발자는 어떻게 썼는지 밝혀야 한다. Call of Duty: Modern Warfare 4의 공개 문구에는 \"우리 팀은 일부 게임 내 에셋 개발을 돕기 위해 생성형 AI 도구를 사용한다\"고 적혀 있다."
+                "x": "FSR은 게임을 낮은 해상도로 렌더링한 다음 머신러닝으로 업스케일해 화질을 높이거나 성능을 안정시킨다. Series S, 그리고 하드웨어 제약이 더 큰 Ally 휴대용 기기가 가장 덕을 볼 만하다."
               },
               {
                 "t": "p",
-                "x": "2025년 11월에도 Sweeney는 \"앞으로 거의 모든 제작에 AI가 관여할\" 세상에서 Valve의 방식은 말이 안 된다고 했다. 6월에는 이 공개 표시를 \"Scarlet Letter(주홍 글씨)\"에 빗댔다."
+                "x": "시점이 눈에 띈다. 몇 주 전 Sony가 PlayStation 5용으로 비슷한 machine learning-based 업스케일러 QSSR을 선보였기 때문이다."
               },
               {
                 "t": "p",
-                "x": "이번 메시지는 \"생성형 미디어 클라우드\" Fal의 Matt Workman 글에 단 답글이다. Workman은 \"2026년에 AI Generated Content Disclosure라는 전제 자체가 ABSURD하다\"고 썼다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/eZKmPGBhfcyu2zDqCWYzU9.jpeg",
-                "cap": "이미지 출처: Epic Games"
+                "x": "Xbox CTO Scott Van Vliet는 \"AMD와 매우 긴밀히 협력해 이 기술을 최적화했고, 개발자에게 플레이어를 위한 뛰어난 성능과 화질을 구현할 또 하나의 강력한 도구를 제공하게 됐다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "Epic은 지난주 새로 단장한 PC 스토어를 두고 \"우리는 Epic Games Launcher를 바이브 코딩(vibe coded)으로 만들었다\"고 했다."
+                "x": "AMD는 FSR 4.1의 Xbox Series 콘솔 도입 날짜를 구체적으로 밝히지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Tim Sweeney氏\nSteamのAI表示を再批判",
-          "body": "Tim Sweeneyは、SteamのAI表示は憎悪集団に使われる声明の強制だと批判した。",
-          "mini_headline": "Sweeney vs. SteamのAI表示",
+          "headline": "Xbox X/Sに\nAMD FSR 4.1が対応",
+          "body": "Xbox Series X/SにQSSR並みのAI超解像、AMD FSR 4.1が来る。",
+          "mini_headline": "XboxにFSR 4.1",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7M3WodRrErU8qfasfyuLrW-2560-80.jpg"
+                "src": "https://assetsio.gnwcdn.com/Untitled-1_4YYolkc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "画像：Microsoft"
               },
               {
                 "t": "p",
-                "x": "Epic GamesのCEOであるTim Sweeneyは、Steamで販売されるゲームにAI使用の開示を義務づけ続けるValveを批判し、この方針を「忌まわしい」と呼んだ。「開発者に政治的声明を書かせ、彼らが組織化に手を貸しているヘイトの群衆にそれを開発者攻撃の材料として使わせるのは忌まわしい」とSweeneyは言う。"
+                "x": "AMDは、AI-drivenの画像アップスケーリング技術の最新版FSR 4.1を、Xbox Series X、Series S、そして携帯機ROG AllyとAlly Xに提供する。"
               },
               {
                 "t": "p",
-                "x": "SteamのAI開示は、生成AIを使った開発者にその使い方を明記するよう求めている。Call of Duty: Modern Warfare 4の開示には「私たちのチームは一部のゲーム内アセットの開発に生成AIツールを活用している」とある。"
+                "x": "FSRはゲームを低い解像度でレンダリングし、機械学習でアップスケールすることで、より良い画質やより安定したパフォーマンスを実現する。最も大きな恩恵を受けそうなのは、Series Sと、ハードウェアの制約がより大きいAlly携帯機だ。"
               },
               {
                 "t": "p",
-                "x": "Sweeneyは早くも2025年11月の時点で、「今後のほぼすべての制作にAIが関わる」世界においてValveのやり方は無意味だと述べていた。6月には、この開示を「Scarlet Letter(緋文字)」になぞらえた。"
+                "x": "タイミングは注目に値する。数週間前、SonyはPlayStation 5向けに、同様のmachine learning-basedアップスケーラーQSSRを発表したばかりだ。"
               },
               {
                 "t": "p",
-                "x": "今回のメッセージは「生成メディアクラウド」FalのMatt Workmanへの返信で、Workmanは「2026年にAI Generated Content Disclosureという前提はABSURDだ」と主張していた。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/eZKmPGBhfcyu2zDqCWYzU9.jpeg",
-                "cap": "画像提供：Epic Games"
+                "x": "「AMDと非常に緊密に連携してこの技術を最適化し、開発者がプレイヤーに優れたパフォーマンスと画質を届けるための、もう一つの強力なツールを提供できるようになった」と、XboxのCTOであるScott Van Vliet氏は述べた。"
               },
               {
                 "t": "p",
-                "x": "先週、Epicは刷新したPCストアについて「Epic Games Launcherはバイブコーディング(vibe coded)で作った」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Tim Sweeney再度\n抨击Steam AI标注",
-          "body": "Tim Sweeney称，Steam的AI标注逼开发者写出被仇恨暴民利用的政治声明。",
-          "mini_headline": "Sweeney vs. Steam AI标注",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7M3WodRrErU8qfasfyuLrW-2560-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Epic Games CEO Tim Sweeney批评Valve继续强制要求在Steam上销售的游戏披露AI使用情况，称这一政策“令人憎恶”。“强迫开发者写下政治声明，再让他们帮着组织起来的仇恨暴民拿来对付他们，这令人憎恶，”Sweeney说。"
-              },
-              {
-                "t": "p",
-                "x": "Steam的AI披露要求使用生成式AI的开发者说明具体用法。Call of Duty: Modern Warfare 4的披露写道：“我们的团队使用生成式AI工具协助开发部分游戏内资产。”"
-              },
-              {
-                "t": "p",
-                "x": "早在2025年11月，Sweeney就称在一个“AI将参与几乎所有未来制作”的世界里，Valve的做法毫无道理。6月，他把这些披露比作“Scarlet Letter（红字）”。"
-              },
-              {
-                "t": "p",
-                "x": "他最新的这条消息回复的是“生成式媒体云”Fal的Matt Workman，后者认为“在2026年，AI Generated Content Disclosure这一前提本身就是ABSURD的”。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/eZKmPGBhfcyu2zDqCWYzU9.jpeg",
-                "cap": "图片来源：Epic Games"
-              },
-              {
-                "t": "p",
-                "x": "上周，Epic在谈到改版后的PC商店时说：“我们用氛围编程（vibe coded）做出了Epic Games Launcher。”"
+                "x": "AMDは、FSR 4.1がXbox Seriesコンソールに提供される具体的な日付を示していない。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Tim Sweeney vuelve a atacar\nlas etiquetas de AI de Steam",
-          "body": "Tim Sweeney dice que las etiquetas de AI de Steam fuerzan una declaración política que explota la turba del odio.",
-          "mini_headline": "Sweeney vs. las etiquetas de AI de Steam",
+          "headline": "Xbox Series X/S recibe\nel escalado AMD FSR 4.1",
+          "body": "Xbox Series X y Series S recibirán AMD FSR 4.1, un escalador con AI comparable al QSSR de PlayStation.",
+          "mini_headline": "FSR 4.1 llega a Xbox",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7M3WodRrErU8qfasfyuLrW-2560-80.jpg"
+                "src": "https://assetsio.gnwcdn.com/Untitled-1_4YYolkc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Imagen: Microsoft"
               },
               {
                 "t": "p",
-                "x": "El CEO de Epic Games, Tim Sweeney, criticó a Valve por seguir exigiendo que los juegos vendidos en Steam declaren el uso de AI, y calificó la política de \"aborrecible\". \"Obligar a los desarrolladores a escribir una declaración política que usará en su contra la turba del odio que ellos mismos ayudan a organizar es aborrecible\", afirma Sweeney."
+                "x": "AMD llevará la última versión de su tecnología de escalado de imagen AI-driven, FSR 4.1, a Xbox Series X, Series S y a las portátiles ROG Ally y Ally X."
               },
               {
                 "t": "p",
-                "x": "Las declaraciones de AI de Steam exigen a los desarrolladores que usan AI generativa detallar cómo la emplearon. La de Call of Duty: Modern Warfare 4 dice: \"Nuestro equipo usa herramientas de AI generativa para ayudar a desarrollar algunos recursos del juego\"."
+                "x": "FSR renderiza el juego a menor resolución y lo escala mediante aprendizaje automático, lo que ofrece mejor imagen o un rendimiento más estable. Series S y las portátiles Ally, con un hardware más limitado, podrían ser las más beneficiadas."
               },
               {
                 "t": "p",
-                "x": "Ya en noviembre de 2025, Sweeney calificó de absurdo el enfoque de Valve en un mundo donde \"la AI estará presente en casi toda la producción futura\". En junio comparó las declaraciones con una \"Scarlet Letter\"."
+                "x": "El momento llama la atención: hace un par de semanas, Sony presentó QSSR, un escalador machine learning-based similar, para PlayStation 5."
               },
               {
                 "t": "p",
-                "x": "Su último mensaje respondía a Matt Workman, de la \"nube de medios generativos\" Fal, quien sostuvo que \"la premisa de una AI Generated Content Disclosure es ABSURD en 2026\"."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/eZKmPGBhfcyu2zDqCWYzU9.jpeg",
-                "cap": "Imagen: Epic Games"
+                "x": "\"Hemos trabajado muy estrechamente con AMD para optimizar esta tecnología, lo que da a los desarrolladores otra herramienta potente para ofrecer a los jugadores un gran rendimiento y calidad visual\", afirmó Scott Van Vliet, CTO de Xbox."
               },
               {
                 "t": "p",
-                "x": "La semana pasada, Epic dijo sobre su renovada tienda para PC: \"Hicimos el Epic Games Launcher con vibe coding (vibe coded)\"."
+                "x": "AMD no dio una fecha concreta para la llegada de FSR 4.1 a las consolas Xbox Series."
               }
             ]
           }
@@ -871,495 +902,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Tim Sweeney 재차\nSteam AI 표시 비판",
-          "body": "Tim Sweeney는 Steam AI 표시가 혐오 집단에 쓰일 성명 강요라 했다.",
-          "mini_headline": "Sweeney vs. Steam AI 표시",
+          "headline": "Xbox X/S에\nAMD FSR 4.1 탑재",
+          "body": "Xbox Series X·S에 AI 업스케일러 AMD FSR 4.1이 온다.",
+          "mini_headline": "Xbox에 FSR 4.1",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7M3WodRrErU8qfasfyuLrW-2560-80.jpg"
+                "src": "https://assetsio.gnwcdn.com/Untitled-1_4YYolkc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "이미지 출처: Microsoft"
               },
               {
                 "t": "p",
-                "x": "Epic Games CEO Tim Sweeney가 Steam에서 판매되는 게임에 AI 사용 공개를 계속 의무화하는 Valve를 비판하며 이 정책을 \"혐오스럽다\"고 했다. Sweeney는 \"개발자에게 정치적 성명을 쓰게 하고, 그들이 조직을 돕고 있는 혐오 집단이 그 성명을 개발자 공격에 쓰게 만드는 것은 혐오스럽다\"고 말했다."
+                "x": "AMD가 AI-driven 이미지 업스케일링 기술의 최신 버전인 FSR 4.1을 Xbox Series X와 Series S, 그리고 휴대용 기기 ROG Ally와 Ally X에 도입한다."
               },
               {
                 "t": "p",
-                "x": "Steam의 AI 공개 규정은 생성형 AI를 쓴 개발자에게 어떻게 썼는지 밝히도록 요구한다. Call of Duty: Modern Warfare 4의 공개 문구에는 \"우리 팀은 일부 게임 내 에셋 개발을 돕기 위해 생성형 AI 도구를 사용한다\"고 적혀 있다."
+                "x": "FSR은 게임을 더 낮은 해상도로 렌더링한 뒤 머신러닝으로 업스케일해 더 나은 화질이나 더 안정적인 성능을 낸다. Series S와 하드웨어 제약이 더 큰 Ally 휴대용 기기가 가장 큰 혜택을 볼 수 있다."
               },
               {
                 "t": "p",
-                "x": "Sweeney는 이미 2025년 11월에 \"앞으로 거의 모든 제작에 AI가 관여할\" 세상에서 Valve의 방식은 말이 안 된다고 했다. 6월에는 이 공개 표시를 \"Scarlet Letter(주홍 글씨)\"에 비유했다."
+                "x": "시점이 눈길을 끈다. 몇 주 전 Sony가 PlayStation 5용으로 비슷한 machine learning-based 업스케일러 QSSR을 선보였기 때문이다."
               },
               {
                 "t": "p",
-                "x": "그의 최근 메시지는 \"생성형 미디어 클라우드\" Fal의 Matt Workman에게 단 답글이었다. Workman은 \"2026년에 AI Generated Content Disclosure라는 전제 자체가 ABSURD하다\"고 주장했다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/eZKmPGBhfcyu2zDqCWYzU9.jpeg",
-                "cap": "이미지 출처: Epic Games"
+                "x": "Xbox CTO Scott Van Vliet는 \"AMD와 매우 긴밀히 협력해 이 기술을 최적화했고, 개발자에게 플레이어를 위한 뛰어난 성능과 화질을 구현할 또 하나의 강력한 도구를 제공하게 됐다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "지난주 Epic은 새로 단장한 PC 스토어를 두고 \"우리는 Epic Games Launcher를 바이브 코딩(vibe coded)으로 만들었다\"고 말했다."
+                "x": "AMD는 FSR 4.1이 Xbox Series 콘솔에 언제 도입되는지 구체적인 날짜를 밝히지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Tim Sweeney氏\nSteamのAI表示を再批判",
-          "body": "Tim Sweeneyは、SteamのAI表示は憎悪集団に使われる声明の強制だと批判した。",
-          "mini_headline": "Sweeney vs. SteamのAI表示",
+          "headline": "Xbox X/Sに\nAMD FSR 4.1が対応",
+          "body": "Xbox Series X/SにQSSR並みのAI超解像、AMD FSR 4.1が来る。",
+          "mini_headline": "XboxにFSR 4.1",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7M3WodRrErU8qfasfyuLrW-2560-80.jpg"
+                "src": "https://assetsio.gnwcdn.com/Untitled-1_4YYolkc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "画像：Microsoft"
               },
               {
                 "t": "p",
-                "x": "Epic GamesのCEOであるTim Sweeneyは、Steamで販売されるゲームにAI使用の開示を義務づけ続けるValveを批判し、この方針を「忌まわしい」と呼んだ。「開発者に政治的声明を書かせ、彼らが組織化に手を貸しているヘイトの群衆にそれを開発者攻撃の材料として使わせるのは忌まわしい」とSweeneyは言う。"
+                "x": "AMDは、AI-drivenの画像アップスケーリング技術の最新版FSR 4.1を、Xbox Series X、Series S、そして携帯機ROG AllyとAlly Xに提供する。"
               },
               {
                 "t": "p",
-                "x": "SteamのAI開示は、生成AIを使った開発者にその使い方を明記するよう求めている。Call of Duty: Modern Warfare 4の開示には「私たちのチームは一部のゲーム内アセットの開発に生成AIツールを活用している」とある。"
+                "x": "FSRはゲームを低い解像度でレンダリングし、機械学習でアップスケールすることで、より良い画質やより安定したパフォーマンスを実現する。最も大きな恩恵を受けそうなのは、Series Sと、ハードウェアの制約がより大きいAlly携帯機だ。"
               },
               {
                 "t": "p",
-                "x": "Sweeneyは早くも2025年11月の時点で、「今後のほぼすべての制作にAIが関わる」世界においてValveのやり方は無意味だと述べていた。6月には、この開示を「Scarlet Letter(緋文字)」になぞらえた。"
+                "x": "タイミングは注目に値する。数週間前、SonyはPlayStation 5向けに、同様のmachine learning-basedアップスケーラーQSSRを発表したばかりだ。"
               },
               {
                 "t": "p",
-                "x": "今回のメッセージは「生成メディアクラウド」FalのMatt Workmanへの返信で、Workmanは「2026年にAI Generated Content Disclosureという前提はABSURDだ」と主張していた。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/eZKmPGBhfcyu2zDqCWYzU9.jpeg",
-                "cap": "画像提供：Epic Games"
+                "x": "「AMDと非常に緊密に連携してこの技術を最適化し、開発者がプレイヤーに優れたパフォーマンスと画質を届けるための、もう一つの強力なツールを提供できるようになった」と、XboxのCTOであるScott Van Vliet氏は述べた。"
               },
               {
                 "t": "p",
-                "x": "先週、Epicは刷新したPCストアについて「Epic Games Launcherはバイブコーディング(vibe coded)で作った」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Tim Sweeney再度\n抨击Steam AI标注",
-          "body": "Tim Sweeney称，Steam的AI标注逼开发者写出被仇恨暴民利用的政治声明。",
-          "mini_headline": "Sweeney vs. Steam AI标注",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7M3WodRrErU8qfasfyuLrW-2560-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Epic Games CEO Tim Sweeney批评Valve继续强制要求在Steam上销售的游戏披露AI使用情况，称这一政策“令人憎恶”。“强迫开发者写下政治声明，再让他们帮着组织起来的仇恨暴民拿来对付他们，这令人憎恶，”Sweeney说。"
-              },
-              {
-                "t": "p",
-                "x": "Steam的AI披露要求使用生成式AI的开发者说明具体用法。Call of Duty: Modern Warfare 4的披露写道：“我们的团队使用生成式AI工具协助开发部分游戏内资产。”"
-              },
-              {
-                "t": "p",
-                "x": "早在2025年11月，Sweeney就称在一个“AI将参与几乎所有未来制作”的世界里，Valve的做法毫无道理。6月，他把这些披露比作“Scarlet Letter（红字）”。"
-              },
-              {
-                "t": "p",
-                "x": "他最新的这条消息回复的是“生成式媒体云”Fal的Matt Workman，后者认为“在2026年，AI Generated Content Disclosure这一前提本身就是ABSURD的”。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/eZKmPGBhfcyu2zDqCWYzU9.jpeg",
-                "cap": "图片来源：Epic Games"
-              },
-              {
-                "t": "p",
-                "x": "上周，Epic在谈到改版后的PC商店时说：“我们用氛围编程（vibe coded）做出了Epic Games Launcher。”"
+                "x": "AMDは、FSR 4.1がXbox Seriesコンソールに提供される具体的な日付を示していない。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Tim Sweeney vuelve a atacar\nlas etiquetas de AI de Steam",
-          "body": "Tim Sweeney dice que las etiquetas de AI de Steam fuerzan una declaración política que explota la turba del odio.",
-          "mini_headline": "Sweeney vs. las etiquetas de AI de Steam",
+          "headline": "Xbox Series X/S recibe\nel escalado AMD FSR 4.1",
+          "body": "Xbox Series X y Series S recibirán AMD FSR 4.1, un escalador con AI comparable al QSSR de PlayStation.",
+          "mini_headline": "FSR 4.1 llega a Xbox",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7M3WodRrErU8qfasfyuLrW-2560-80.jpg"
+                "src": "https://assetsio.gnwcdn.com/Untitled-1_4YYolkc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Imagen: Microsoft"
               },
               {
                 "t": "p",
-                "x": "El CEO de Epic Games, Tim Sweeney, criticó a Valve por seguir exigiendo que los juegos vendidos en Steam declaren el uso de AI, y calificó la política de \"aborrecible\". \"Obligar a los desarrolladores a escribir una declaración política que usará en su contra la turba del odio que ellos mismos ayudan a organizar es aborrecible\", afirma Sweeney."
+                "x": "AMD llevará la última versión de su tecnología de escalado de imagen AI-driven, FSR 4.1, a Xbox Series X, Series S y a las portátiles ROG Ally y Ally X."
               },
               {
                 "t": "p",
-                "x": "Las declaraciones de AI de Steam exigen a los desarrolladores que usan AI generativa detallar cómo la emplearon. La de Call of Duty: Modern Warfare 4 dice: \"Nuestro equipo usa herramientas de AI generativa para ayudar a desarrollar algunos recursos del juego\"."
+                "x": "FSR renderiza el juego a menor resolución y lo escala mediante aprendizaje automático, lo que ofrece mejor imagen o un rendimiento más estable. Series S y las portátiles Ally, con un hardware más limitado, podrían ser las más beneficiadas."
               },
               {
                 "t": "p",
-                "x": "Ya en noviembre de 2025, Sweeney calificó de absurdo el enfoque de Valve en un mundo donde \"la AI estará presente en casi toda la producción futura\". En junio comparó las declaraciones con una \"Scarlet Letter\"."
+                "x": "El momento llama la atención: hace un par de semanas, Sony presentó QSSR, un escalador machine learning-based similar, para PlayStation 5."
               },
               {
                 "t": "p",
-                "x": "Su último mensaje respondía a Matt Workman, de la \"nube de medios generativos\" Fal, quien sostuvo que \"la premisa de una AI Generated Content Disclosure es ABSURD en 2026\"."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/eZKmPGBhfcyu2zDqCWYzU9.jpeg",
-                "cap": "Imagen: Epic Games"
+                "x": "\"Hemos trabajado muy estrechamente con AMD para optimizar esta tecnología, lo que da a los desarrolladores otra herramienta potente para ofrecer a los jugadores un gran rendimiento y calidad visual\", afirmó Scott Van Vliet, CTO de Xbox."
               },
               {
                 "t": "p",
-                "x": "La semana pasada, Epic dijo sobre su renovada tienda para PC: \"Hicimos el Epic Games Launcher con vibe coding (vibe coded)\"."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "games-future-refunds",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 뺀 Future?\nNo Thanks! 환불",
-      "body": "Molleindustria는 Future? No Thanks!의 genAI를 뺐다.",
-      "mini_headline": "Future? No Thanks! 환불",
-      "tool": "Games",
-      "source": "Rock Paper Shotgun",
-      "url": "https://www.rockpapershotgun.com/future-no-thanks-dev-removes-ai-generated-voices-from-game-and-offers-refunds-to-players-who-feel-betrayed",
-      "accent": "#eb367f",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://assetsio.gnwcdn.com/futurenothanks-pickup-line.jpg?width=1200&quality=85&format=jpg&auto=webp",
-            "cap": "이미지 출처: Molleindustria"
-          },
-          {
-            "t": "p",
-            "x": "Future? No Thanks!가 업데이트로 일부 AI 생성(AI-generated) 음성을 덜어냈다. 리드 개발자 Paolo \"Molleindustria\" Pedercini가 이 기술을 썼다고 뒤늦게 털어놓은 뒤 나온 업데이트다. 그는 \"여전히 배신감을 느끼는\" 사람이라면 PayPal이나 Venmo로 환불해 주겠다고 했다."
-          },
-          {
-            "t": "p",
-            "x": "업데이트로 빠진 것은 로봇 캐릭터에 쓰인 text-to-speech 음성 두 군데, 자동 화장실과 미용실의 자동 번역기다. 그는 \"내 생각엔 게임이 더 나빠졌지만, 그래 봐야 0.001% 정도\"라고 했다."
-          },
-          {
-            "t": "p",
-            "x": "Pedercini는 \"깨진 셰이더 수정 같은 몇 가지는 chatGPT에 부탁하긴 했다\"고 썼다. 그러면서 \"모든 생성형 AI에 반대한다고 공개적으로 밝히지 않은 스튜디오는 모두 어떤 식으로든 코딩에 그것을 쓰고 있다고 보는 게 맞을 것\"이라고 덧붙였다."
-          },
-          {
-            "t": "p",
-            "x": "생성형 AI를 쓰지 않겠다고 선언한 개발자 목록도 공유했다. 다음 게임은 \"완전히 손으로 코딩한(hand-coded)\" 작품이 된다고 한다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Future? No Thanks! dev cuts\nAI voices, offers refunds",
-          "body": "Molleindustria removed some genAI voices from Future? No Thanks! and offers refunds to players who feel betrayed.",
-          "mini_headline": "Future? No Thanks! refunds",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/futurenothanks-pickup-line.jpg?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "Image credit: Molleindustria"
-              },
-              {
-                "t": "p",
-                "x": "Future? No Thanks! has been updated to remove some AI-generated voices after lead developer Paolo \"Molleindustria\" Pedercini belatedly disclosed his use of the technology. He's offering refunds over PayPal or Venmo to anyone who \"still feel[s] betrayed.\""
-              },
-              {
-                "t": "p",
-                "x": "The update removes two instances of text-to-speech voicework for robot characters: an automated toilet and an automated translator in a hair salon. \"In my opinion the game is worse now, but only, like, 0.001% worse,\" he says."
-              },
-              {
-                "t": "p",
-                "x": "\"I did ask chatGPT to fix a broken shader and a few things like that,\" Pedercini wrote, adding that \"you should probably assume that all the studios that have not made a public statement against all generative AI are using it for coding in some capacity.\""
-              },
-              {
-                "t": "p",
-                "x": "He shared a list of developers who've sworn off generative AI. His next game will be \"completely hand-coded\"."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI 뺀 Future?\nNo Thanks! 환불",
-          "body": "Molleindustria는 Future? No Thanks!의 genAI를 뺐다.",
-          "mini_headline": "Future? No Thanks! 환불",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/futurenothanks-pickup-line.jpg?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "이미지 출처: Molleindustria"
-              },
-              {
-                "t": "p",
-                "x": "Future? No Thanks!가 업데이트로 일부 AI 생성(AI-generated) 음성을 덜어냈다. 리드 개발자 Paolo \"Molleindustria\" Pedercini가 이 기술을 썼다고 뒤늦게 털어놓은 뒤 나온 업데이트다. 그는 \"여전히 배신감을 느끼는\" 사람이라면 PayPal이나 Venmo로 환불해 주겠다고 했다."
-              },
-              {
-                "t": "p",
-                "x": "업데이트로 빠진 것은 로봇 캐릭터에 쓰인 text-to-speech 음성 두 군데, 자동 화장실과 미용실의 자동 번역기다. 그는 \"내 생각엔 게임이 더 나빠졌지만, 그래 봐야 0.001% 정도\"라고 했다."
-              },
-              {
-                "t": "p",
-                "x": "Pedercini는 \"깨진 셰이더 수정 같은 몇 가지는 chatGPT에 부탁하긴 했다\"고 썼다. 그러면서 \"모든 생성형 AI에 반대한다고 공개적으로 밝히지 않은 스튜디오는 모두 어떤 식으로든 코딩에 그것을 쓰고 있다고 보는 게 맞을 것\"이라고 덧붙였다."
-              },
-              {
-                "t": "p",
-                "x": "생성형 AI를 쓰지 않겠다고 선언한 개발자 목록도 공유했다. 다음 게임은 \"완전히 손으로 코딩한(hand-coded)\" 작품이 된다고 한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI音声削除のFuture?\nNo Thanks!、返金へ",
-          "body": "MolleindustriaがFuture? No Thanks!のgenAI音声を削った。",
-          "mini_headline": "Future? No Thanks!が返金",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/futurenothanks-pickup-line.jpg?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "画像提供：Molleindustria"
-              },
-              {
-                "t": "p",
-                "x": "Future? No Thanks!はアップデートで一部のAI生成(AI-generated)音声を削除した。リード開発者のPaolo「Molleindustria」Pederciniが、この技術を使っていたことを遅れて明かしたためだ。彼は「まだ裏切られたと感じている」人にPayPalかVenmoで返金するという。"
-              },
-              {
-                "t": "p",
-                "x": "アップデートでは、ロボットキャラクターに使われたtext-to-speechの音声を二か所削除した。自動トイレと、美容院の自動翻訳機だ。「私の考えでは、ゲームは悪くなった。でも、まあ0.001%くらいだ」と彼は言う。"
-              },
-              {
-                "t": "p",
-                "x": "Pedercini は「壊れたシェーダーの修正など、いくつかはchatGPTに頼んだ」と書き、「あらゆる生成AIに反対すると公に表明していないスタジオは、何らかの形でコーディングに使っていると考えたほうがいい」と付け加えた。"
-              },
-              {
-                "t": "p",
-                "x": "彼は生成AIを使わないと宣言した開発者のリストを共有した。次回作は「完全に手書きのコード(hand-coded)」になるという。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "删AI语音的Future?\nNo Thanks!提供退款",
-          "body": "Molleindustria删去Future? No Thanks!的genAI语音并退款。",
-          "mini_headline": "Future? No Thanks!退款",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/futurenothanks-pickup-line.jpg?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "图片来源：Molleindustria"
-              },
-              {
-                "t": "p",
-                "x": "Future? No Thanks!已更新，移除了部分AI生成（AI-generated）语音。此前，首席开发者Paolo“Molleindustria”Pedercini迟迟才披露自己使用了这项技术。他愿意通过PayPal或Venmo为“仍感到被背叛”的人退款。"
-              },
-              {
-                "t": "p",
-                "x": "此次更新移除了机器人角色的两处text-to-speech配音：一个自动马桶和一家发廊里的自动翻译机。“我觉得游戏现在变差了，但也就差了0.001%左右，”他说。"
-              },
-              {
-                "t": "p",
-                "x": "“我确实让chatGPT修过一个坏掉的着色器之类的几样东西，”Pedercini写道，并补充说，“你大概应该假定，所有没有公开声明反对一切生成式AI的工作室，都在某种程度上用它写代码。”"
-              },
-              {
-                "t": "p",
-                "x": "他分享了一份宣布弃用生成式AI的开发者名单。他的下一款游戏将“完全手写代码（hand-coded）”。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Future? No Thanks! quita voces\nde AI y ofrece reembolsos",
-          "body": "Molleindustria quitó algunas voces de genAI de Future? No Thanks! y ofrece reembolsos a quien se sienta traicionado.",
-          "mini_headline": "Reembolsos de Future? No Thanks!",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/futurenothanks-pickup-line.jpg?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "Imagen: Molleindustria"
-              },
-              {
-                "t": "p",
-                "x": "Future? No Thanks! se ha actualizado para eliminar algunas voces generadas con AI (AI-generated) después de que su desarrollador principal, Paolo \"Molleindustria\" Pedercini, revelara tarde que había usado esta tecnología. Ofrece reembolsos por PayPal o Venmo a quien \"todavía se sienta traicionado\"."
-              },
-              {
-                "t": "p",
-                "x": "La actualización elimina dos usos de voz por text-to-speech para personajes robot: un inodoro automático y un traductor automático en una peluquería. \"En mi opinión, el juego ahora es peor, pero solo, digamos, un 0.001% peor\", dice."
-              },
-              {
-                "t": "p",
-                "x": "\"Sí le pedí a chatGPT que arreglara un shader roto y algunas cosas así\", escribió Pedercini, y añadió que \"probablemente deberías asumir que todos los estudios que no se han pronunciado públicamente contra toda la AI generativa la están usando para programar de alguna forma\"."
-              },
-              {
-                "t": "p",
-                "x": "Compartió una lista de desarrolladores que han renunciado a la AI generativa. Su próximo juego estará \"programado completamente a mano\" (hand-coded)."
+                "x": "AMD no dio una fecha concreta para la llegada de FSR 4.1 a las consolas Xbox Series."
               }
             ]
           }
         }
       },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI 뺀 Future?\nNo Thanks! 환불",
-          "body": "Molleindustria가 Future? No Thanks!의 genAI를 뺐다.",
-          "mini_headline": "Future? No Thanks! 환불",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/futurenothanks-pickup-line.jpg?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "이미지 출처: Molleindustria"
-              },
-              {
-                "t": "p",
-                "x": "Future? No Thanks!가 업데이트로 일부 AI 생성(AI-generated) 음성을 덜어냈다. 리드 개발자 Paolo \"Molleindustria\" Pedercini가 이 기술을 썼다는 사실을 뒤늦게 밝힌 뒤다. 그는 \"여전히 배신감을 느끼는\" 사람에게 PayPal이나 Venmo로 환불해 주겠다고 했다."
-              },
-              {
-                "t": "p",
-                "x": "이번 업데이트는 로봇 캐릭터에 쓰인 text-to-speech 음성 두 군데를 없앴다. 자동 화장실과 미용실의 자동 번역기다. 그는 \"내 생각엔 게임이 더 나빠졌지만, 그래 봐야 0.001% 정도\"라고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "Pedercini는 \"깨진 셰이더 수정 같은 몇 가지는 chatGPT에 부탁하긴 했다\"고 쓰며 \"모든 생성형 AI에 반대한다고 공개적으로 밝히지 않은 스튜디오는 모두 어떤 식으로든 코딩에 그것을 쓰고 있다고 보는 게 맞을 것\"이라고 덧붙였다."
-              },
-              {
-                "t": "p",
-                "x": "그는 생성형 AI를 쓰지 않겠다고 선언한 개발자 목록을 공유했다. 다음 게임은 \"완전히 손으로 코딩한(hand-coded)\" 작품이 될 것이라고 한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI音声削除のFuture?\nNo Thanks!、返金へ",
-          "body": "MolleindustriaがFuture? No Thanks!のgenAI音声を削った。",
-          "mini_headline": "Future? No Thanks!が返金",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/futurenothanks-pickup-line.jpg?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "画像提供：Molleindustria"
-              },
-              {
-                "t": "p",
-                "x": "Future? No Thanks!はアップデートで一部のAI生成(AI-generated)音声を削除した。リード開発者のPaolo「Molleindustria」Pederciniが、この技術を使っていたことを遅れて明かしたためだ。彼は「まだ裏切られたと感じている」人にPayPalかVenmoで返金するという。"
-              },
-              {
-                "t": "p",
-                "x": "アップデートでは、ロボットキャラクターに使われたtext-to-speechの音声を二か所削除した。自動トイレと、美容院の自動翻訳機だ。「私の考えでは、ゲームは悪くなった。でも、まあ0.001%くらいだ」と彼は言う。"
-              },
-              {
-                "t": "p",
-                "x": "Pedercini は「壊れたシェーダーの修正など、いくつかはchatGPTに頼んだ」と書き、「あらゆる生成AIに反対すると公に表明していないスタジオは、何らかの形でコーディングに使っていると考えたほうがいい」と付け加えた。"
-              },
-              {
-                "t": "p",
-                "x": "彼は生成AIを使わないと宣言した開発者のリストを共有した。次回作は「完全に手書きのコード(hand-coded)」になるという。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "删AI语音的Future?\nNo Thanks!提供退款",
-          "body": "Molleindustria删去Future? No Thanks!的genAI语音并退款。",
-          "mini_headline": "Future? No Thanks!退款",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/futurenothanks-pickup-line.jpg?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "图片来源：Molleindustria"
-              },
-              {
-                "t": "p",
-                "x": "Future? No Thanks!已更新，移除了部分AI生成（AI-generated）语音。此前，首席开发者Paolo“Molleindustria”Pedercini迟迟才披露自己使用了这项技术。他愿意通过PayPal或Venmo为“仍感到被背叛”的人退款。"
-              },
-              {
-                "t": "p",
-                "x": "此次更新移除了机器人角色的两处text-to-speech配音：一个自动马桶和一家发廊里的自动翻译机。“我觉得游戏现在变差了，但也就差了0.001%左右，”他说。"
-              },
-              {
-                "t": "p",
-                "x": "“我确实让chatGPT修过一个坏掉的着色器之类的几样东西，”Pedercini写道，并补充说，“你大概应该假定，所有没有公开声明反对一切生成式AI的工作室，都在某种程度上用它写代码。”"
-              },
-              {
-                "t": "p",
-                "x": "他分享了一份宣布弃用生成式AI的开发者名单。他的下一款游戏将“完全手写代码（hand-coded）”。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Future? No Thanks! quita voces\nde AI y ofrece reembolsos",
-          "body": "Molleindustria quitó algunas voces de genAI de Future? No Thanks! y ofrece reembolsos a quien se sienta traicionado.",
-          "mini_headline": "Reembolsos de Future? No Thanks!",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/futurenothanks-pickup-line.jpg?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "Imagen: Molleindustria"
-              },
-              {
-                "t": "p",
-                "x": "Future? No Thanks! se ha actualizado para eliminar algunas voces generadas con AI (AI-generated) después de que su desarrollador principal, Paolo \"Molleindustria\" Pedercini, revelara tarde que había usado esta tecnología. Ofrece reembolsos por PayPal o Venmo a quien \"todavía se sienta traicionado\"."
-              },
-              {
-                "t": "p",
-                "x": "La actualización elimina dos usos de voz por text-to-speech para personajes robot: un inodoro automático y un traductor automático en una peluquería. \"En mi opinión, el juego ahora es peor, pero solo, digamos, un 0.001% peor\", dice."
-              },
-              {
-                "t": "p",
-                "x": "\"Sí le pedí a chatGPT que arreglara un shader roto y algunas cosas así\", escribió Pedercini, y añadió que \"probablemente deberías asumir que todos los estudios que no se han pronunciado públicamente contra toda la AI generativa la están usando para programar de alguna forma\"."
-              },
-              {
-                "t": "p",
-                "x": "Compartió una lista de desarrolladores que han renunciado a la AI generativa. Su próximo juego estará \"programado completamente a mano\" (hand-coded)."
-              }
-            ]
-          }
-        }
+      "i18n_status": {
+        "zh": "fallback"
       }
     },
     {
-      "id": "games-sonicfox-nexcon",
+      "id": "games-pokemon-ai-decomp",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "SonicFox, AI\n그림 쓴 Nexcon 하차",
-      "body": "SonicFox는 홍보에 AI 그림을 쓴 Nexcon과의 계약을 끊었다.",
-      "mini_headline": "SonicFox, AI 탓 Nexcon 하차",
+      "headline": "AI 디컴파일로 쏟아진\nPokémon 포트·매시업",
+      "body": "AI로 팬들이 Pokémon Snap 이식판과 PokéSurvivor를 내놓았다.",
+      "mini_headline": "Vibe-coded Pokémon 이식판",
       "tool": "Games",
-      "source": "Aftermath",
-      "url": "https://aftermath.site/sonicfox-drops-out-nexcon-gen-ai/",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/of-course-pokemons-been-pulled-into-the-ai-decompilation-frenzy-2000748316",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
@@ -1367,203 +1028,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/IMG_7145.jpeg",
-            "cap": "The Game Awards / YouTube"
+            "src": "https://kotaku.com/app/uploads/2026/10/pokemon-movie-1-1200x675.jpg",
+            "cap": "Toho Animation"
           },
           {
             "t": "p",
-            "x": "격투 게임 고수 Dominique “SonicFox” McLean은 다음 달 Oklahoma에서 열리는 게임 행사 Nexcon에 특별 게스트로 갈 예정이었다. 그런데 Nexcon이 홍보에 AI 아트를 쓴 걸 알고 곧바로 가지 않기로 했다."
+            "x": "게임 디컴파일은 decomp.dev 운영자의 말처럼 “지독하게 어렵고 시간이 많이 드는” 작업이었다. 새 생성형 AI 모델이 그 속도를 바꿔 놓았는데, 운영자는 이 때문에 취미의 공동체적 측면이 무너졌다고 말한다."
           },
           {
             "t": "p",
-            "x": "McLean은 Twitter에 “Nexcon을 누가 운영하는지 모르겠지만, 내 모습이 AI로 생성(AI generated)되는 건 절대 거부한다. 특별 게스트로 참석할 생각은 0이 됐다”고 썼다. “정말 무례하다.” McLean은 같은 날 계약을 해지했고 더는 참석하지 않는다고 덧붙였다."
+            "x": "Pokémon 커뮤니티에서는 이 열풍을 타고 너도나도 vibe-code 방식으로 이식판과 장르 매시업을 만든다. 새로 디컴파일된 게임은 벌써 이식판으로 나왔다. Pokémon Brilliant Diamond와 Shining Pearl, Pokémon Snap, Pokémon Heart Gold와 Soul Silver 등이다."
           },
           {
             "t": "p",
-            "x": "Nexcon을 주최하는 Ninjutsu Entertainment의 Ty Bailey는 McLean에게 사과 영상을 올렸다. 인간 아티스트에게 줄 돈이 떨어져 Ninjutsu가 어쩔 수 없이 AI에 기댔다면서, SonicFox에게 다시 생각해 달라고 매달렸다."
+            "x": "코드를 뜯어 재해석하는 이들도 있다. Brock과 Ash가 맞붙는 플레이 가능한 3D 픽셀 아트 배틀, Pokémon 택틱스 게임, Vampire Survivors를 Pokémon으로 바꾼 브라우저 게임 PokéSurvivor 같은 것들이다."
           },
           {
             "t": "p",
-            "x": "McLean은 뜻을 굽히지 않았다. “나는 용서하는 사람이고, 당신 목소리에서 후회가 느껴지니 용서한다. 하지만 그 행동에는 여전히 결과가 따르고, 그래서 참석하지 않겠다. 계약으로 내게 제안한 돈으로 아티스트를 고용하라. 그러면 내년에는 다시 생각해 볼지도 모른다.”"
+            "x": "X의 팬들은 옛 게임을 플레이하고 모드할 수 있다며 들떠 있지만, 오래 손봐 온 이들은 확신이 덜하다. 한 Reddit 사용자는 리컴파일이 예전엔 “커뮤니티 전체가 축하하던 대형 릴리스”였다고 했다. 404 Media는 일부 AI 디컴파일이 원본과 다르고 이상한 버그가 있거나 제대로 돌지 않는다고 보도했다."
           },
           {
             "t": "p",
-            "x": "그는 “모든 게 잘 풀려 뜻있는 아티스트와 인재로 커뮤니티를 꾸리고 AI를 모두 걷어낸다면, 내년에는 더 긍정적으로 볼 수도 있다”고도 했다."
+            "x": "Kotaku는 대부분의 프로젝트가 기본적으로는 돌아가지만 매시업이 딱히 새롭지는 않다고 평가했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "SonicFox pulls out of Nexcon\nover its AI promo art",
-          "body": "Fighting game savant SonicFox terminated their Nexcon contract after the event used AI art in its promotion.",
-          "mini_headline": "SonicFox exits Nexcon over AI",
+          "headline": "AI decompiling floods fans with\nPokémon ports and mashups",
+          "body": "New AI models let fans rush out ports of Pokémon Snap, Heart Gold and Soul Silver, plus mashups like PokéSurvivor.",
+          "mini_headline": "Vibe-coded Pokémon ports",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/IMG_7145.jpeg",
-                "cap": "The Game Awards / YouTube"
+                "src": "https://kotaku.com/app/uploads/2026/10/pokemon-movie-1-1200x675.jpg",
+                "cap": "Toho Animation"
               },
               {
                 "t": "p",
-                "x": "Upon discovering that Nexcon, a gaming event taking place in Oklahoma next month at which fighting game savant Dominique “SonicFox” McLean was set to be a special guest, had used AI art for promotional purposes, McLean promptly pulled out."
+                "x": "Decompiling games used to be what the owner of decomp.dev called “brutally difficult [and] time consuming.” Newly released generative AI models have changed the speed at which it is possible, and that owner says it has broken the community aspect of the hobby."
               },
               {
                 "t": "p",
-                "x": "“Not sure who’s in charge of Nexcon, but I absolutely refuse to have my likeness be AI generated and my interest in attending as a special guest has dropped to 0,” McLean wrote on Twitter. “Incredibly disrespectful.” The same day, they added that they’d terminated their contract and would no longer be attending."
+                "x": "In the Pokémon community, the frenzy means people are rushing to vibe-code ports and genre mashups. Newly decompiled games have already been turned into ports, including Pokémon Brilliant Diamond and Shining Pearl, Pokémon Snap, and Pokémon Heart Gold and Soul Silver."
               },
               {
                 "t": "p",
-                "x": "Ty Bailey of Ninjutsu Entertainment, the organization putting on Nexcon, posted a video apologizing to McLean, explaining that Ninjutsu only resorted to AI because it had run out of money to pay human artists, and implored SonicFox to reconsider."
+                "x": "Others pull the code apart for reimaginings: a playable 3D pixel art battle between Brock and Ash, a Pokémon tactics game, and PokéSurvivor, a browser game that turns Vampire Survivors into Pokémon."
               },
               {
                 "t": "p",
-                "x": "McLean held firm. “I’m a forgiving person, and I can hear the remorse in your voice so I forgive you. However, there are still consequences to said actions that will prompt me not to attend. Use the money you offered me in contract to hire artists, and maybe next year I’ll reconsider.”"
+                "x": "Fans on X are excited to play and mod older games, but longtime tinkerers are less convinced; one Reddit user said recompilations used to be “huge releases that entire communities would celebrate.” 404 Media reported that some AI decompilations aren’t the same as the original and have weird bugs or don’t fully work."
               },
               {
                 "t": "p",
-                "x": "“If all goes well and you build a community with willing artists and talent and remove all AI, I may be more amenable to next year,” they continued."
+                "x": "Kotaku’s verdict: most of the projects run on a basic level, but the mashups aren’t especially novel."
               }
             ]
           }
         },
         "ko": {
-          "headline": "SonicFox, AI\n그림 쓴 Nexcon 하차",
-          "body": "SonicFox는 홍보에 AI 그림을 쓴 Nexcon과의 계약을 끊었다.",
-          "mini_headline": "SonicFox, AI 탓 Nexcon 하차",
+          "headline": "AI 디컴파일로 쏟아진\nPokémon 포트·매시업",
+          "body": "AI로 팬들이 Pokémon Snap 이식판과 PokéSurvivor를 내놓았다.",
+          "mini_headline": "Vibe-coded Pokémon 이식판",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/IMG_7145.jpeg",
-                "cap": "The Game Awards / YouTube"
+                "src": "https://kotaku.com/app/uploads/2026/10/pokemon-movie-1-1200x675.jpg",
+                "cap": "Toho Animation"
               },
               {
                 "t": "p",
-                "x": "격투 게임 고수 Dominique “SonicFox” McLean은 다음 달 Oklahoma에서 열리는 게임 행사 Nexcon에 특별 게스트로 갈 예정이었다. 그런데 Nexcon이 홍보에 AI 아트를 쓴 걸 알고 곧바로 가지 않기로 했다."
+                "x": "게임 디컴파일은 decomp.dev 운영자의 말처럼 “지독하게 어렵고 시간이 많이 드는” 작업이었다. 새 생성형 AI 모델이 그 속도를 바꿔 놓았는데, 운영자는 이 때문에 취미의 공동체적 측면이 무너졌다고 말한다."
               },
               {
                 "t": "p",
-                "x": "McLean은 Twitter에 “Nexcon을 누가 운영하는지 모르겠지만, 내 모습이 AI로 생성(AI generated)되는 건 절대 거부한다. 특별 게스트로 참석할 생각은 0이 됐다”고 썼다. “정말 무례하다.” McLean은 같은 날 계약을 해지했고 더는 참석하지 않는다고 덧붙였다."
+                "x": "Pokémon 커뮤니티에서는 이 열풍을 타고 너도나도 vibe-code 방식으로 이식판과 장르 매시업을 만든다. 새로 디컴파일된 게임은 벌써 이식판으로 나왔다. Pokémon Brilliant Diamond와 Shining Pearl, Pokémon Snap, Pokémon Heart Gold와 Soul Silver 등이다."
               },
               {
                 "t": "p",
-                "x": "Nexcon을 주최하는 Ninjutsu Entertainment의 Ty Bailey는 McLean에게 사과 영상을 올렸다. 인간 아티스트에게 줄 돈이 떨어져 Ninjutsu가 어쩔 수 없이 AI에 기댔다면서, SonicFox에게 다시 생각해 달라고 매달렸다."
+                "x": "코드를 뜯어 재해석하는 이들도 있다. Brock과 Ash가 맞붙는 플레이 가능한 3D 픽셀 아트 배틀, Pokémon 택틱스 게임, Vampire Survivors를 Pokémon으로 바꾼 브라우저 게임 PokéSurvivor 같은 것들이다."
               },
               {
                 "t": "p",
-                "x": "McLean은 뜻을 굽히지 않았다. “나는 용서하는 사람이고, 당신 목소리에서 후회가 느껴지니 용서한다. 하지만 그 행동에는 여전히 결과가 따르고, 그래서 참석하지 않겠다. 계약으로 내게 제안한 돈으로 아티스트를 고용하라. 그러면 내년에는 다시 생각해 볼지도 모른다.”"
+                "x": "X의 팬들은 옛 게임을 플레이하고 모드할 수 있다며 들떠 있지만, 오래 손봐 온 이들은 확신이 덜하다. 한 Reddit 사용자는 리컴파일이 예전엔 “커뮤니티 전체가 축하하던 대형 릴리스”였다고 했다. 404 Media는 일부 AI 디컴파일이 원본과 다르고 이상한 버그가 있거나 제대로 돌지 않는다고 보도했다."
               },
               {
                 "t": "p",
-                "x": "그는 “모든 게 잘 풀려 뜻있는 아티스트와 인재로 커뮤니티를 꾸리고 AI를 모두 걷어낸다면, 내년에는 더 긍정적으로 볼 수도 있다”고도 했다."
+                "x": "Kotaku는 대부분의 프로젝트가 기본적으로는 돌아가지만 매시업이 딱히 새롭지는 않다고 평가했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI宣伝画でSonicFox\nがNexcon出演辞退",
-          "body": "格闘ゲーム名手SonicFoxは、宣伝にAIアートを使ったNexconとの契約を解除した。",
-          "mini_headline": "SonicFox、AIでNexcon辞退",
+          "headline": "AI逆コンパイルで\nPokémon移植が続々",
+          "body": "AIで、ファンがPokémon Snapの移植やPokéSurvivorを量産中だ。",
+          "mini_headline": "Vibe-codedなPokémon移植",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/IMG_7145.jpeg",
-                "cap": "The Game Awards / YouTube"
+                "src": "https://kotaku.com/app/uploads/2026/10/pokemon-movie-1-1200x675.jpg",
+                "cap": "Toho Animation"
               },
               {
                 "t": "p",
-                "x": "格闘ゲームの名手Dominique「SonicFox」McLeanは、来月Oklahomaで開かれるゲームイベントNexconに特別ゲストとして出演する予定だった。だがNexconが宣伝にAIアートを使っていたことを知り、すぐに出演を取りやめた。"
+                "x": "ゲームの逆コンパイルは、decomp.devの運営者いわく「とてつもなく難しく、時間がかかる」作業だった。新たに登場した生成AIモデルがそのスピードを一変させ、運営者はそれが趣味のコミュニティとしての側面を壊したと語る。"
               },
               {
                 "t": "p",
-                "x": "「Nexconを誰が仕切っているのか知らないが、自分の姿をAIで生成(AI generated)されるのは断固拒否する。特別ゲストとして参加する気は0になった」とMcLeanはTwitterに書いた。「本当に失礼だ」。同じ日、契約を解除し、もう参加しないと付け加えた。"
+                "x": "Pokémonコミュニティでは、この熱狂の中で人々がvibe-codeによる移植やジャンルのマッシュアップを急いで作っている。新たに逆コンパイルされたゲームはすでに移植版になっており、Pokémon Brilliant DiamondとShining Pearl、Pokémon Snap、Pokémon Heart GoldとSoul Silverなどがある。"
               },
               {
                 "t": "p",
-                "x": "Nexconを主催するNinjutsu EntertainmentのTy BaileyはMcLeanへの謝罪動画を投稿した。人間のアーティストに払う資金が尽きたためにやむなくAIに頼ったとNinjutsuの事情を説明し、SonicFoxに再考を懇願した。"
+                "x": "コードを分解して再構想する人もいる。BrockとAshが戦うプレイ可能な3Dピクセルアートのバトル、Pokémonのタクティクスゲーム、そしてVampire SurvivorsをPokémonにしたブラウザゲームPokéSurvivorだ。"
               },
               {
                 "t": "p",
-                "x": "McLeanは譲らなかった。「私は許す人間だし、あなたの声から後悔が伝わるので許す。でも、その行動にはやはり結果が伴い、だから参加しない。契約で私に提示したお金でアーティストを雇ってほしい。そうすれば来年は考え直すかもしれない」"
+                "x": "X上のファンは古いゲームを遊んだりモッドを作ったりできることに沸いているが、長年いじってきた人々はそれほど納得していない。あるRedditユーザーは、かつてリコンパイルは「コミュニティ全体が祝う大型リリース」だったと語った。404 Mediaは、一部のAI逆コンパイルはオリジナルと同じではなく、奇妙なバグがあったり完全には動かなかったりすると報じた。"
               },
               {
                 "t": "p",
-                "x": "「すべてがうまくいき、意欲あるアーティストや才能ある人たちとコミュニティを築き、AIを一切なくせば、来年はもっと前向きになれるかもしれない」と続けた。"
+                "x": "Kotakuの評価は、ほとんどのプロジェクトは基本的なレベルでは動くものの、マッシュアップに特に目新しさはない、というものだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "SonicFox因AI宣传图\n退出Nexcon",
-          "body": "格斗游戏高手SonicFox因Nexcon在宣传中使用AI美术，终止了合同。",
-          "mini_headline": "SonicFox因AI退出Nexcon",
+          "headline": "AI反编译热潮下\nPokémon移植扎堆",
+          "body": "新AI模型让粉丝赶制Pokémon Snap等移植版和PokéSurvivor等混搭。",
+          "mini_headline": "Vibe-coded的Pokémon移植",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/IMG_7145.jpeg",
-                "cap": "The Game Awards / YouTube"
+                "src": "https://kotaku.com/app/uploads/2026/10/pokemon-movie-1-1200x675.jpg",
+                "cap": "Toho Animation"
               },
               {
                 "t": "p",
-                "x": "格斗游戏高手Dominique“SonicFox”McLean原定作为特别嘉宾出席下个月在Oklahoma举办的游戏活动Nexcon，但在发现Nexcon使用AI美术做宣传后，McLean随即退出。"
+                "x": "反编译游戏，用decomp.dev运营者的话说，曾经“极其困难[且]耗时”。新发布的生成式AI模型改变了反编译的速度，这位运营者表示，这已经破坏了这项爱好的社区属性。"
               },
               {
                 "t": "p",
-                "x": "“不知道Nexcon是谁在负责，但我绝对拒绝让我的形象被AI生成（AI generated），我作为特别嘉宾出席的兴趣已经降到0，”McLean在Twitter上写道。“非常不尊重人。”当天，McLean又补充说已终止合同，不会再出席。"
+                "x": "在Pokémon社区，这股热潮意味着人们争相用vibe-code制作移植版和类型混搭作品。新反编译的游戏已被做成移植版，包括Pokémon Brilliant Diamond与Shining Pearl、Pokémon Snap，以及Pokémon Heart Gold与Soul Silver。"
               },
               {
                 "t": "p",
-                "x": "Nexcon的主办方Ninjutsu Entertainment的Ty Bailey发布视频向McLean道歉，解释Ninjutsu只是因为没钱再支付人类美术师才求助于AI，并恳请SonicFox重新考虑。"
+                "x": "也有人把代码拆开重新构想：一场可游玩的Brock与Ash之间的3D像素风对战、一款Pokémon战棋游戏，以及把Vampire Survivors改成Pokémon版本的浏览器游戏PokéSurvivor。"
               },
               {
                 "t": "p",
-                "x": "McLean立场坚定。“我是个宽容的人，也能听出你声音里的悔意，所以我原谅你。但这些行为仍有后果，让我决定不出席。把你在合同里给我的钱拿去雇美术师吧，也许明年我会重新考虑。”"
+                "x": "X上的粉丝为能游玩和修改老游戏而兴奋，但资深玩家没那么信服；一位Reddit用户说，重编译过去是“整个社区都会庆祝的重大发布”。404 Media报道称，一些AI反编译版本与原版并不相同，存在奇怪的错误，或无法完全运行。"
               },
               {
                 "t": "p",
-                "x": "“如果一切顺利，你们和愿意合作的美术师与人才建立起社区，并去掉所有AI，明年我也许会更愿意参加，”McLean接着说。"
+                "x": "Kotaku的结论是：大多数项目在基本层面上能运行，但这些混搭并没有特别新意。"
               }
             ]
           }
         },
         "es": {
-          "headline": "SonicFox abandona Nexcon\npor su arte promocional con AI",
-          "body": "El experto en juegos de lucha SonicFox canceló su contrato con Nexcon porque el evento usó arte de AI en su promoción.",
-          "mini_headline": "SonicFox deja Nexcon por la AI",
+          "headline": "La descompilación con AI llena\nde ports y mashups Pokémon",
+          "body": "Con nuevos modelos de AI, los fans lanzan ports de Pokémon Snap, Heart Gold y Soul Silver, y mashups como PokéSurvivor.",
+          "mini_headline": "Ports Vibe-coded de Pokémon",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/IMG_7145.jpeg",
-                "cap": "The Game Awards / YouTube"
+                "src": "https://kotaku.com/app/uploads/2026/10/pokemon-movie-1-1200x675.jpg",
+                "cap": "Toho Animation"
               },
               {
                 "t": "p",
-                "x": "Al descubrir que Nexcon, un evento de videojuegos que se celebrará el próximo mes en Oklahoma y en el que Dominique “SonicFox” McLean, figura de los juegos de lucha, iba a ser invitado especial, había usado arte de AI para su promoción, McLean se retiró de inmediato."
+                "x": "Descompilar juegos solía ser lo que el responsable de decomp.dev llamó “brutalmente difícil [y] lento”. Los nuevos modelos de AI generativa han cambiado la velocidad a la que es posible hacerlo, y ese responsable afirma que eso ha roto el lado comunitario de la afición."
               },
               {
                 "t": "p",
-                "x": "“No sé quién está a cargo de Nexcon, pero me niego rotundamente a que mi imagen sea generada con AI (AI generated), y mi interés en asistir como invitado especial ha caído a 0”, escribió McLean en Twitter. “Increíblemente irrespetuoso”. Ese mismo día, añadió que había rescindido su contrato y que ya no asistiría."
+                "x": "En la comunidad Pokémon, el frenesí ha llevado a muchos a apresurarse a crear con vibe-code ports y mezclas de géneros. Juegos recién descompilados ya se han convertido en ports, entre ellos Pokémon Brilliant Diamond y Shining Pearl, Pokémon Snap y Pokémon Heart Gold y Soul Silver."
               },
               {
                 "t": "p",
-                "x": "Ty Bailey, de Ninjutsu Entertainment, la organización detrás de Nexcon, publicó un video en el que se disculpaba con McLean, explicaba que Ninjutsu solo recurrió a la AI porque se había quedado sin dinero para pagar a artistas humanos y pedía a SonicFox que lo reconsiderara."
+                "x": "Otros desmontan el código para reinterpretarlo: un combate jugable en pixel art 3D entre Brock y Ash, un juego de tácticas de Pokémon y PokéSurvivor, un juego de navegador que convierte Vampire Survivors en Pokémon."
               },
               {
                 "t": "p",
-                "x": "McLean se mantuvo firme. “Soy una persona que perdona, y noto el arrepentimiento en tu voz, así que te perdono. Sin embargo, esos actos siguen teniendo consecuencias que me llevan a no asistir. Usa el dinero que me ofreciste en el contrato para contratar artistas, y quizá el próximo año lo reconsidere”."
+                "x": "Los fans en X están entusiasmados por jugar y modificar juegos antiguos, pero quienes llevan años trasteando no están tan convencidos; un usuario de Reddit dijo que las recompilaciones solían ser “grandes lanzamientos que comunidades enteras celebraban”. 404 Media informó de que algunas descompilaciones con AI no son iguales al original y tienen errores extraños o no funcionan del todo."
               },
               {
                 "t": "p",
-                "x": "“Si todo va bien y construyes una comunidad con artistas y talento dispuestos y eliminas toda la AI, puede que el próximo año esté más abierto”, continuó."
+                "x": "El veredicto de Kotaku: la mayoría de los proyectos funcionan a un nivel básico, pero los mashups no son especialmente novedosos."
               }
             ]
           }
@@ -1571,141 +1232,603 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "SonicFox, AI\n그림 쓴 Nexcon 하차",
-          "body": "SonicFox가 홍보에 AI 그림을 쓴 Nexcon과 계약을 해지했다.",
-          "mini_headline": "SonicFox, AI 탓 Nexcon 하차",
+          "headline": "AI 디컴파일로 쏟아진\nPokémon 포트·매시업",
+          "body": "AI로 팬들이 Pokémon Snap 이식판과 PokéSurvivor를 내놓았다.",
+          "mini_headline": "Vibe-coded Pokémon 이식판",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/IMG_7145.jpeg",
-                "cap": "The Game Awards / YouTube"
+                "src": "https://kotaku.com/app/uploads/2026/10/pokemon-movie-1-1200x675.jpg",
+                "cap": "Toho Animation"
               },
               {
                 "t": "p",
-                "x": "격투 게임 고수 Dominique “SonicFox” McLean은 다음 달 Oklahoma에서 열리는 게임 행사 Nexcon에 특별 게스트로 참석할 예정이었다. 하지만 Nexcon이 홍보에 AI 아트를 썼다는 사실을 알고 곧바로 불참을 결정했다."
+                "x": "게임 디컴파일은 decomp.dev 운영자의 말처럼 “지독하게 어렵고 시간이 많이 드는” 작업이었다. 새로 나온 생성형 AI 모델이 그 속도를 바꿔 놓았고, 운영자는 이것이 취미의 공동체적 측면을 무너뜨렸다고 말한다."
               },
               {
                 "t": "p",
-                "x": "McLean은 Twitter에 “Nexcon을 누가 운영하는지 모르겠지만, 내 모습이 AI로 생성(AI generated)되는 건 절대 거부한다. 특별 게스트로 참석할 생각은 0이 됐다”고 썼다. “정말 무례하다.” 같은 날 McLean은 계약을 해지했으며 더는 참석하지 않겠다고 덧붙였다."
+                "x": "Pokémon 커뮤니티에서는 이 열풍 속에 사람들이 앞다퉈 vibe-code 방식으로 이식판과 장르 매시업을 만들고 있다. 새로 디컴파일된 게임은 이미 이식판으로 나왔다. Pokémon Brilliant Diamond와 Shining Pearl, Pokémon Snap, Pokémon Heart Gold와 Soul Silver가 그 예다."
               },
               {
                 "t": "p",
-                "x": "Nexcon을 주최하는 Ninjutsu Entertainment의 Ty Bailey는 McLean에게 사과하는 영상을 올렸다. 그는 Ninjutsu가 인간 아티스트에게 줄 돈이 떨어져 어쩔 수 없이 AI에 기댔다고 설명하며 SonicFox에게 재고를 간청했다."
+                "x": "코드를 뜯어 재해석하는 이들도 있다. Brock과 Ash가 맞붙는 플레이 가능한 3D 픽셀 아트 배틀, Pokémon 택틱스 게임, 그리고 Vampire Survivors를 Pokémon으로 바꾼 브라우저 게임 PokéSurvivor가 그렇다."
               },
               {
                 "t": "p",
-                "x": "McLean은 뜻을 굽히지 않았다. “나는 용서하는 사람이고, 당신 목소리에서 후회가 느껴지니 용서한다. 하지만 그 행동에는 여전히 결과가 따르고, 그래서 참석하지 않겠다. 계약으로 내게 제안한 돈으로 아티스트를 고용하라. 그러면 내년에는 다시 생각해 볼지도 모른다.”"
+                "x": "X의 팬들은 옛 게임을 플레이하고 모드할 수 있다는 데 들떠 있지만, 오래 손봐 온 이들은 덜 확신한다. 한 Reddit 사용자는 리컴파일이 예전엔 “커뮤니티 전체가 축하하던 대형 릴리스”였다고 했다. 404 Media는 일부 AI 디컴파일이 원본과 같지 않고, 이상한 버그가 있거나 제대로 작동하지 않는다고 보도했다."
               },
               {
                 "t": "p",
-                "x": "“모든 게 잘 풀려 뜻있는 아티스트와 인재로 커뮤니티를 꾸리고 AI를 모두 걷어낸다면, 내년에는 더 긍정적으로 볼 수도 있다”고 이어 말했다."
+                "x": "Kotaku의 평가는 이렇다. 대부분의 프로젝트는 기본적인 수준에서는 돌아가지만, 매시업이 특별히 새롭지는 않다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI宣伝画でSonicFox\nがNexcon出演辞退",
-          "body": "格闘ゲーム名手SonicFoxは、宣伝にAIアートを使ったNexconとの契約を解除した。",
-          "mini_headline": "SonicFox、AIでNexcon辞退",
+          "headline": "AI逆コンパイルで\nPokémon移植が続々",
+          "body": "AIで、ファンがPokémon Snapの移植やPokéSurvivorを量産中だ。",
+          "mini_headline": "Vibe-codedなPokémon移植",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/IMG_7145.jpeg",
-                "cap": "The Game Awards / YouTube"
+                "src": "https://kotaku.com/app/uploads/2026/10/pokemon-movie-1-1200x675.jpg",
+                "cap": "Toho Animation"
               },
               {
                 "t": "p",
-                "x": "格闘ゲームの名手Dominique「SonicFox」McLeanは、来月Oklahomaで開かれるゲームイベントNexconに特別ゲストとして出演する予定だった。だがNexconが宣伝にAIアートを使っていたことを知り、すぐに出演を取りやめた。"
+                "x": "ゲームの逆コンパイルは、decomp.devの運営者いわく「とてつもなく難しく、時間がかかる」作業だった。新たに登場した生成AIモデルがそのスピードを一変させ、運営者はそれが趣味のコミュニティとしての側面を壊したと語る。"
               },
               {
                 "t": "p",
-                "x": "「Nexconを誰が仕切っているのか知らないが、自分の姿をAIで生成(AI generated)されるのは断固拒否する。特別ゲストとして参加する気は0になった」とMcLeanはTwitterに書いた。「本当に失礼だ」。同じ日、契約を解除し、もう参加しないと付け加えた。"
+                "x": "Pokémonコミュニティでは、この熱狂の中で人々がvibe-codeによる移植やジャンルのマッシュアップを急いで作っている。新たに逆コンパイルされたゲームはすでに移植版になっており、Pokémon Brilliant DiamondとShining Pearl、Pokémon Snap、Pokémon Heart GoldとSoul Silverなどがある。"
               },
               {
                 "t": "p",
-                "x": "Nexconを主催するNinjutsu EntertainmentのTy BaileyはMcLeanへの謝罪動画を投稿した。人間のアーティストに払う資金が尽きたためにやむなくAIに頼ったとNinjutsuの事情を説明し、SonicFoxに再考を懇願した。"
+                "x": "コードを分解して再構想する人もいる。BrockとAshが戦うプレイ可能な3Dピクセルアートのバトル、Pokémonのタクティクスゲーム、そしてVampire SurvivorsをPokémonにしたブラウザゲームPokéSurvivorだ。"
               },
               {
                 "t": "p",
-                "x": "McLeanは譲らなかった。「私は許す人間だし、あなたの声から後悔が伝わるので許す。でも、その行動にはやはり結果が伴い、だから参加しない。契約で私に提示したお金でアーティストを雇ってほしい。そうすれば来年は考え直すかもしれない」"
+                "x": "X上のファンは古いゲームを遊んだりモッドを作ったりできることに沸いているが、長年いじってきた人々はそれほど納得していない。あるRedditユーザーは、かつてリコンパイルは「コミュニティ全体が祝う大型リリース」だったと語った。404 Mediaは、一部のAI逆コンパイルはオリジナルと同じではなく、奇妙なバグがあったり完全には動かなかったりすると報じた。"
               },
               {
                 "t": "p",
-                "x": "「すべてがうまくいき、意欲あるアーティストや才能ある人たちとコミュニティを築き、AIを一切なくせば、来年はもっと前向きになれるかもしれない」と続けた。"
+                "x": "Kotakuの評価は、ほとんどのプロジェクトは基本的なレベルでは動くものの、マッシュアップに特に目新しさはない、というものだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "SonicFox因AI宣传图\n退出Nexcon",
-          "body": "格斗游戏高手SonicFox因Nexcon在宣传中使用AI美术，终止了合同。",
-          "mini_headline": "SonicFox因AI退出Nexcon",
+          "headline": "AI反编译热潮下\nPokémon移植扎堆",
+          "body": "新AI模型让粉丝赶制Pokémon Snap等移植版和PokéSurvivor等混搭。",
+          "mini_headline": "Vibe-coded的Pokémon移植",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/IMG_7145.jpeg",
-                "cap": "The Game Awards / YouTube"
+                "src": "https://kotaku.com/app/uploads/2026/10/pokemon-movie-1-1200x675.jpg",
+                "cap": "Toho Animation"
               },
               {
                 "t": "p",
-                "x": "格斗游戏高手Dominique“SonicFox”McLean原定作为特别嘉宾出席下个月在Oklahoma举办的游戏活动Nexcon，但在发现Nexcon使用AI美术做宣传后，McLean随即退出。"
+                "x": "反编译游戏，用decomp.dev运营者的话说，曾经“极其困难[且]耗时”。新发布的生成式AI模型改变了反编译的速度，这位运营者表示，这已经破坏了这项爱好的社区属性。"
               },
               {
                 "t": "p",
-                "x": "“不知道Nexcon是谁在负责，但我绝对拒绝让我的形象被AI生成（AI generated），我作为特别嘉宾出席的兴趣已经降到0，”McLean在Twitter上写道。“非常不尊重人。”当天，McLean又补充说已终止合同，不会再出席。"
+                "x": "在Pokémon社区，这股热潮意味着人们争相用vibe-code制作移植版和类型混搭作品。新反编译的游戏已被做成移植版，包括Pokémon Brilliant Diamond与Shining Pearl、Pokémon Snap，以及Pokémon Heart Gold与Soul Silver。"
               },
               {
                 "t": "p",
-                "x": "Nexcon的主办方Ninjutsu Entertainment的Ty Bailey发布视频向McLean道歉，解释Ninjutsu只是因为没钱再支付人类美术师才求助于AI，并恳请SonicFox重新考虑。"
+                "x": "也有人把代码拆开重新构想：一场可游玩的Brock与Ash之间的3D像素风对战、一款Pokémon战棋游戏，以及把Vampire Survivors改成Pokémon版本的浏览器游戏PokéSurvivor。"
               },
               {
                 "t": "p",
-                "x": "McLean立场坚定。“我是个宽容的人，也能听出你声音里的悔意，所以我原谅你。但这些行为仍有后果，让我决定不出席。把你在合同里给我的钱拿去雇美术师吧，也许明年我会重新考虑。”"
+                "x": "X上的粉丝为能游玩和修改老游戏而兴奋，但资深玩家没那么信服；一位Reddit用户说，重编译过去是“整个社区都会庆祝的重大发布”。404 Media报道称，一些AI反编译版本与原版并不相同，存在奇怪的错误，或无法完全运行。"
               },
               {
                 "t": "p",
-                "x": "“如果一切顺利，你们和愿意合作的美术师与人才建立起社区，并去掉所有AI，明年我也许会更愿意参加，”McLean接着说。"
+                "x": "Kotaku的结论是：大多数项目在基本层面上能运行，但这些混搭并没有特别新意。"
               }
             ]
           }
         },
         "es": {
-          "headline": "SonicFox abandona Nexcon\npor su arte promocional con AI",
-          "body": "El experto en juegos de lucha SonicFox canceló su contrato con Nexcon porque el evento usó arte de AI en su promoción.",
-          "mini_headline": "SonicFox deja Nexcon por la AI",
+          "headline": "La descompilación con AI llena\nde ports y mashups Pokémon",
+          "body": "Con nuevos modelos de AI, los fans lanzan ports de Pokémon Snap, Heart Gold y Soul Silver, y mashups como PokéSurvivor.",
+          "mini_headline": "Ports Vibe-coded de Pokémon",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/10/IMG_7145.jpeg",
-                "cap": "The Game Awards / YouTube"
+                "src": "https://kotaku.com/app/uploads/2026/10/pokemon-movie-1-1200x675.jpg",
+                "cap": "Toho Animation"
               },
               {
                 "t": "p",
-                "x": "Al descubrir que Nexcon, un evento de videojuegos que se celebrará el próximo mes en Oklahoma y en el que Dominique “SonicFox” McLean, figura de los juegos de lucha, iba a ser invitado especial, había usado arte de AI para su promoción, McLean se retiró de inmediato."
+                "x": "Descompilar juegos solía ser lo que el responsable de decomp.dev llamó “brutalmente difícil [y] lento”. Los nuevos modelos de AI generativa han cambiado la velocidad a la que es posible hacerlo, y ese responsable afirma que eso ha roto el lado comunitario de la afición."
               },
               {
                 "t": "p",
-                "x": "“No sé quién está a cargo de Nexcon, pero me niego rotundamente a que mi imagen sea generada con AI (AI generated), y mi interés en asistir como invitado especial ha caído a 0”, escribió McLean en Twitter. “Increíblemente irrespetuoso”. Ese mismo día, añadió que había rescindido su contrato y que ya no asistiría."
+                "x": "En la comunidad Pokémon, el frenesí ha llevado a muchos a apresurarse a crear con vibe-code ports y mezclas de géneros. Juegos recién descompilados ya se han convertido en ports, entre ellos Pokémon Brilliant Diamond y Shining Pearl, Pokémon Snap y Pokémon Heart Gold y Soul Silver."
               },
               {
                 "t": "p",
-                "x": "Ty Bailey, de Ninjutsu Entertainment, la organización detrás de Nexcon, publicó un video en el que se disculpaba con McLean, explicaba que Ninjutsu solo recurrió a la AI porque se había quedado sin dinero para pagar a artistas humanos y pedía a SonicFox que lo reconsiderara."
+                "x": "Otros desmontan el código para reinterpretarlo: un combate jugable en pixel art 3D entre Brock y Ash, un juego de tácticas de Pokémon y PokéSurvivor, un juego de navegador que convierte Vampire Survivors en Pokémon."
               },
               {
                 "t": "p",
-                "x": "McLean se mantuvo firme. “Soy una persona que perdona, y noto el arrepentimiento en tu voz, así que te perdono. Sin embargo, esos actos siguen teniendo consecuencias que me llevan a no asistir. Usa el dinero que me ofreciste en el contrato para contratar artistas, y quizá el próximo año lo reconsidere”."
+                "x": "Los fans en X están entusiasmados por jugar y modificar juegos antiguos, pero quienes llevan años trasteando no están tan convencidos; un usuario de Reddit dijo que las recompilaciones solían ser “grandes lanzamientos que comunidades enteras celebraban”. 404 Media informó de que algunas descompilaciones con AI no son iguales al original y tienen errores extraños o no funcionan del todo."
               },
               {
                 "t": "p",
-                "x": "“Si todo va bien y construyes una comunidad con artistas y talento dispuestos y eliminas toda la AI, puede que el próximo año esté más abierto”, continuó."
+                "x": "El veredicto de Kotaku: la mayoría de los proyectos funcionan a un nivel básico, pero los mashups no son especialmente novedosos."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "games-inven-ai-modding",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "AI로 불어난 게임 모드\n규칙 다시 짜는 업계",
+      "body": "모드린스는 AI 위주 모드 등록을 막았고 넥서스 모드는 AI 활용 태그를 나눴다.",
+      "mini_headline": "AI 제작 모드에 새 규칙",
+      "tool": "Games",
+      "source": "인벤",
+      "url": "https://www.inven.co.kr/webzine/news/?news=322451",
+      "accent": "#eb367f",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://static.inven.co.kr/column/2026/10/22/news/i1816408170.jpg",
+            "cap": "©NEXUS MOD"
+          },
+          {
+            "t": "p",
+            "x": "마인크래프트 모드 플랫폼 모드린스는 8월 AI 모드 관련 새 정책을 발표했다. 올해 초 주당 약 2,500건이던 프로젝트 제출량이 8월 5,000건 이상으로 늘었고, 상당수가 AI로 제작된 콘텐츠였다. 모드린스는 대부분 혹은 전부 AI로 만든 프로젝트의 공개 등록을 금지했다."
+          },
+          {
+            "t": "p",
+            "x": "넥서스 모드는 제한 대신 분류를 택했다. AI 활용도에 따라 태그를 세분화하고, 사람이 주도한 작업임을 입증하는 개발 이력과 코드 이해도까지 관리 기준에 포함했다."
+          },
+          {
+            "t": "img",
+            "src": "https://static.inven.co.kr/column/2026/10/22/news/i1910067634.jpg",
+            "cap": "AI 생성 콘텐츠 분리 태그를 공지하는 넥서스모드 ©NEXUS MOD"
+          },
+          {
+            "t": "p",
+            "x": "게임사 대응도 갈린다. 라이엇 게임즈는 10월 6일부터 미승인 외부 프로그램의 게임 메모리 접근을 차단했고, 블리자드는 월드 오브 워크래프트 확장팩 '한밤'에서 애드온의 전투 정보 처리 능력을 제한했다."
+          },
+          {
+            "t": "p",
+            "x": "반대로 스타필드와 발더스 게이트3는 2024년 공식 모딩 도구를 도입했고, EA는 2026년 심즈4에 메이커 프로그램을 도입해 이용자 제작 콘텐츠를 공식 마켓플레이스에서 판매할 수 있게 했다."
+          },
+          {
+            "t": "img",
+            "src": "https://static.inven.co.kr/column/2026/10/22/news/i1196909885.jpg",
+            "cap": "심즈4는 '마켓플레이스'를 통해 UCC시장을 만들었다 ©EA"
+          },
+          {
+            "t": "p",
+            "x": "AI가 모딩에 필요한 기술과 시간을 줄이면서, 울타리를 높이는 회사도 문을 열어두는 회사도 결국 울타리의 구조를 다시 설계하고 있다."
+          }
+        ]
+      },
+      "text": {
+        "ko": {
+          "headline": "AI로 불어난 게임 모드\n규칙 다시 짜는 업계",
+          "body": "모드린스는 AI 위주 모드 등록을 막았고 넥서스 모드는 AI 활용 태그를 나눴다.",
+          "mini_headline": "AI 제작 모드에 새 규칙",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1816408170.jpg",
+                "cap": "©NEXUS MOD"
+              },
+              {
+                "t": "p",
+                "x": "마인크래프트 모드 플랫폼 모드린스는 8월 AI 모드 관련 새 정책을 발표했다. 올해 초 주당 약 2,500건이던 프로젝트 제출량이 8월 5,000건 이상으로 늘었고, 상당수가 AI로 제작된 콘텐츠였다. 모드린스는 대부분 혹은 전부 AI로 만든 프로젝트의 공개 등록을 금지했다."
+              },
+              {
+                "t": "p",
+                "x": "넥서스 모드는 제한 대신 분류를 택했다. AI 활용도에 따라 태그를 세분화하고, 사람이 주도한 작업임을 입증하는 개발 이력과 코드 이해도까지 관리 기준에 포함했다."
+              },
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1910067634.jpg",
+                "cap": "AI 생성 콘텐츠 분리 태그를 공지하는 넥서스모드 ©NEXUS MOD"
+              },
+              {
+                "t": "p",
+                "x": "게임사 대응도 갈린다. 라이엇 게임즈는 10월 6일부터 미승인 외부 프로그램의 게임 메모리 접근을 차단했고, 블리자드는 월드 오브 워크래프트 확장팩 '한밤'에서 애드온의 전투 정보 처리 능력을 제한했다."
+              },
+              {
+                "t": "p",
+                "x": "반대로 스타필드와 발더스 게이트3는 2024년 공식 모딩 도구를 도입했고, EA는 2026년 심즈4에 메이커 프로그램을 도입해 이용자 제작 콘텐츠를 공식 마켓플레이스에서 판매할 수 있게 했다."
+              },
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1196909885.jpg",
+                "cap": "심즈4는 '마켓플레이스'를 통해 UCC시장을 만들었다 ©EA"
+              },
+              {
+                "t": "p",
+                "x": "AI가 모딩에 필요한 기술과 시간을 줄이면서, 울타리를 높이는 회사도 문을 열어두는 회사도 결국 울타리의 구조를 다시 설계하고 있다."
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "AI-made game mods pile up\nand the industry redraws rules",
+          "body": "Modrinth blocked mostly AI-made mods, while Nexus Mods split its tags by how much AI was used.",
+          "mini_headline": "New rules for AI-made mods",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1816408170.jpg",
+                "cap": "©NEXUS MOD"
+              },
+              {
+                "t": "p",
+                "x": "Modrinth, a Minecraft mod platform, announced a new policy on AI mods in August. Project submissions grew from about 2,500 a week early this year to more than 5,000 in August, and much of it was AI-made content. Modrinth banned public listing of projects made mostly or entirely with AI."
+              },
+              {
+                "t": "p",
+                "x": "Nexus Mods chose classification over restriction. It split its tags by degree of AI use, and added development history and code understanding that show the work was human-led to its moderation criteria."
+              },
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1910067634.jpg",
+                "cap": "Nexus Mods announcing tags that separate AI-generated content ©NEXUS MOD"
+              },
+              {
+                "t": "p",
+                "x": "Game companies are split too. Riot Games has blocked unapproved third-party programs from accessing game memory since October 6, and Blizzard limited add-ons' ability to process combat information in the World of Warcraft expansion 'Midnight'."
+              },
+              {
+                "t": "p",
+                "x": "In contrast, Starfield and Baldur's Gate 3 introduced official modding tools in 2024, and in 2026 EA introduced a Maker Program for The Sims 4 that lets user-made content be sold on an official marketplace."
+              },
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1196909885.jpg",
+                "cap": "The Sims 4 built a UCC market through its 'Marketplace' ©EA"
+              },
+              {
+                "t": "p",
+                "x": "As AI cuts the skill and time modding requires, both the companies raising their fences and those keeping the door open are ultimately redesigning how the fence is built."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIで増えるゲームモッド\nルールを練り直す業界",
+          "body": "ModrinthはAI主体のモッド登録を禁じ、Nexus ModsはAI活用タグを分けた。",
+          "mini_headline": "AI製モッドに新ルール",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1816408170.jpg",
+                "cap": "©NEXUS MOD"
+              },
+              {
+                "t": "p",
+                "x": "Minecraftのモッドプラットフォーム、Modrinthは8月、AIモッドに関する新ポリシーを発表した。今年初めに週約2,500件だったプロジェクト提出数は8月に5,000件以上へ増え、その多くがAIで作られたコンテンツだった。Modrinthは、大部分または全部をAIで作ったプロジェクトの公開登録を禁止した。"
+              },
+              {
+                "t": "p",
+                "x": "Nexus Modsは制限ではなく分類を選んだ。AIの活用度に応じてタグを細分化し、人が主導した作業であることを示す開発履歴やコードの理解度まで管理基準に含めた。"
+              },
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1910067634.jpg",
+                "cap": "AI生成コンテンツを分けるタグを告知するNexus Mods ©NEXUS MOD"
+              },
+              {
+                "t": "p",
+                "x": "ゲーム会社の対応も分かれる。Riot Gamesは10月6日から未承認の外部プログラムによるゲームメモリへのアクセスを遮断し、BlizzardはWorld of Warcraftの拡張パック「Midnight」でアドオンの戦闘情報処理能力を制限した。"
+              },
+              {
+                "t": "p",
+                "x": "一方、StarfieldとBaldur's Gate 3は2024年に公式モッディングツールを導入し、EAは2026年にThe Sims 4へメーカープログラムを導入して、ユーザー制作コンテンツを公式マーケットプレイスで販売できるようにした。"
+              },
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1196909885.jpg",
+                "cap": "「マーケットプレイス」でUCC市場を生んだThe Sims 4 ©EA"
+              },
+              {
+                "t": "p",
+                "x": "AIがモッディングに必要な技術と時間を減らすなか、柵を高くする会社も扉を開けておく会社も、結局は柵の構造そのものを設計し直している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI催生大量游戏模组\n业界重写规则",
+          "body": "Modrinth禁止以AI为主的模组上架，Nexus Mods则细分了AI使用标签。",
+          "mini_headline": "AI制作模组迎来新规",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1816408170.jpg",
+                "cap": "©NEXUS MOD"
+              },
+              {
+                "t": "p",
+                "x": "Minecraft模组平台Modrinth于8月发布了有关AI模组的新政策。项目提交量从今年初的每周约2,500个增至8月的5,000个以上，其中相当一部分是用AI制作的内容。Modrinth禁止公开上架大部分或全部由AI制作的项目。"
+              },
+              {
+                "t": "p",
+                "x": "Nexus Mods选择分类而非限制。它根据AI使用程度细分标签，并将证明作品由人主导的开发记录和代码理解程度也纳入管理标准。"
+              },
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1910067634.jpg",
+                "cap": "Nexus Mods公告区分AI生成内容的标签 ©NEXUS MOD"
+              },
+              {
+                "t": "p",
+                "x": "游戏公司的应对也出现分化。Riot Games自10月6日起阻止未经批准的外部程序访问游戏内存，Blizzard则在World of Warcraft资料片《Midnight》中限制了插件处理战斗信息的能力。"
+              },
+              {
+                "t": "p",
+                "x": "相反，Starfield和Baldur's Gate 3于2024年推出官方模组工具，EA则于2026年为The Sims 4推出Maker Program，让用户制作的内容可以在官方市场出售。"
+              },
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1196909885.jpg",
+                "cap": "The Sims 4通过“市场”打造了UCC市场 ©EA"
+              },
+              {
+                "t": "p",
+                "x": "随着AI降低了模组制作所需的技术和时间，无论是加高围栏的公司还是敞开大门的公司，最终都在重新设计围栏的结构。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Los mods con AI se disparan y\nla industria rehace sus reglas",
+          "body": "Modrinth bloqueó los mods hechos sobre todo con AI y Nexus Mods dividió sus etiquetas según el uso de AI.",
+          "mini_headline": "Nuevas reglas para mods con AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1816408170.jpg",
+                "cap": "©NEXUS MOD"
+              },
+              {
+                "t": "p",
+                "x": "Modrinth, plataforma de mods de Minecraft, anunció en agosto una nueva política sobre mods con AI. Los envíos de proyectos pasaron de unos 2,500 por semana a principios de año a más de 5,000 en agosto, y buena parte era contenido creado con AI. Modrinth prohibió la publicación de proyectos hechos en su mayoría o por completo con AI."
+              },
+              {
+                "t": "p",
+                "x": "Nexus Mods optó por clasificar en lugar de restringir. Dividió sus etiquetas según el grado de uso de AI e incluyó en sus criterios de moderación el historial de desarrollo y la comprensión del código que acreditan que el trabajo lo dirigió una persona."
+              },
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1910067634.jpg",
+                "cap": "Nexus Mods anuncia etiquetas para separar el contenido generado por AI ©NEXUS MOD"
+              },
+              {
+                "t": "p",
+                "x": "Las respuestas de las compañías también divergen. Riot Games bloquea desde el 6 de octubre el acceso de programas externos no autorizados a la memoria del juego, y Blizzard limitó la capacidad de los add-ons para procesar información de combate en la expansión 'Midnight' de World of Warcraft."
+              },
+              {
+                "t": "p",
+                "x": "En cambio, Starfield y Baldur's Gate 3 incorporaron herramientas oficiales de modding en 2024, y EA lanzó en 2026 un Maker Program para The Sims 4 que permite vender contenido creado por los usuarios en un mercado oficial."
+              },
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1196909885.jpg",
+                "cap": "The Sims 4 creó un mercado de UCC a través de su 'Marketplace' ©EA"
+              },
+              {
+                "t": "p",
+                "x": "A medida que la AI reduce la técnica y el tiempo que exige el modding, tanto las compañías que elevan sus vallas como las que dejan la puerta abierta acaban rediseñando la estructura de la valla."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "en": {
+          "headline": "AI-made game mods pile up\nand the industry redraws rules",
+          "body": "Modrinth blocked mostly AI-made mods, while Nexus Mods split its tags by how much AI was used.",
+          "mini_headline": "New rules for AI-made mods",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1816408170.jpg",
+                "cap": "©NEXUS MOD"
+              },
+              {
+                "t": "p",
+                "x": "Modrinth, a Minecraft mod platform, announced a new policy on AI mods in August. Project submissions grew from about 2,500 a week early this year to more than 5,000 in August, and much of it was AI-made content. Modrinth banned public listing of projects made mostly or entirely with AI."
+              },
+              {
+                "t": "p",
+                "x": "Nexus Mods chose classification over restriction. It split its tags by degree of AI use, and added development history and code understanding that show the work was human-led to its moderation criteria."
+              },
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1910067634.jpg",
+                "cap": "Nexus Mods announcing tags that separate AI-generated content ©NEXUS MOD"
+              },
+              {
+                "t": "p",
+                "x": "Game companies are split too. Riot Games has blocked unapproved third-party programs from accessing game memory since October 6, and Blizzard limited add-ons' ability to process combat information in the World of Warcraft expansion 'Midnight'."
+              },
+              {
+                "t": "p",
+                "x": "In contrast, Starfield and Baldur's Gate 3 introduced official modding tools in 2024, and in 2026 EA introduced a Maker Program for The Sims 4 that lets user-made content be sold on an official marketplace."
+              },
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1196909885.jpg",
+                "cap": "The Sims 4 built a UCC market through its 'Marketplace' ©EA"
+              },
+              {
+                "t": "p",
+                "x": "As AI cuts the skill and time modding requires, both the companies raising their fences and those keeping the door open are ultimately redesigning how the fence is built."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIで増えるゲームモッド\nルールを練り直す業界",
+          "body": "ModrinthはAI主体のモッド登録を禁じ、Nexus ModsはAI活用タグを分けた。",
+          "mini_headline": "AI製モッドに新ルール",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1816408170.jpg",
+                "cap": "©NEXUS MOD"
+              },
+              {
+                "t": "p",
+                "x": "Minecraftのモッドプラットフォーム、Modrinthは8月、AIモッドに関する新ポリシーを発表した。今年初めに週約2,500件だったプロジェクト提出数は8月に5,000件以上へ増え、その多くがAIで作られたコンテンツだった。Modrinthは、大部分または全部をAIで作ったプロジェクトの公開登録を禁止した。"
+              },
+              {
+                "t": "p",
+                "x": "Nexus Modsは制限ではなく分類を選んだ。AIの活用度に応じてタグを細分化し、人が主導した作業であることを示す開発履歴やコードの理解度まで管理基準に含めた。"
+              },
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1910067634.jpg",
+                "cap": "AI生成コンテンツを分けるタグを告知するNexus Mods ©NEXUS MOD"
+              },
+              {
+                "t": "p",
+                "x": "ゲーム会社の対応も分かれる。Riot Gamesは10月6日から未承認の外部プログラムによるゲームメモリへのアクセスを遮断し、BlizzardはWorld of Warcraftの拡張パック「Midnight」でアドオンの戦闘情報処理能力を制限した。"
+              },
+              {
+                "t": "p",
+                "x": "一方、StarfieldとBaldur's Gate 3は2024年に公式モッディングツールを導入し、EAは2026年にThe Sims 4へメーカープログラムを導入して、ユーザー制作コンテンツを公式マーケットプレイスで販売できるようにした。"
+              },
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1196909885.jpg",
+                "cap": "「マーケットプレイス」でUCC市場を生んだThe Sims 4 ©EA"
+              },
+              {
+                "t": "p",
+                "x": "AIがモッディングに必要な技術と時間を減らすなか、柵を高くする会社も扉を開けておく会社も、結局は柵の構造そのものを設計し直している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI催生大量游戏模组\n业界重写规则",
+          "body": "Modrinth禁止以AI为主的模组上架，Nexus Mods则细分了AI使用标签。",
+          "mini_headline": "AI制作模组迎来新规",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1816408170.jpg",
+                "cap": "©NEXUS MOD"
+              },
+              {
+                "t": "p",
+                "x": "Minecraft模组平台Modrinth于8月发布了有关AI模组的新政策。项目提交量从今年初的每周约2,500个增至8月的5,000个以上，其中相当一部分是用AI制作的内容。Modrinth禁止公开上架大部分或全部由AI制作的项目。"
+              },
+              {
+                "t": "p",
+                "x": "Nexus Mods选择分类而非限制。它根据AI使用程度细分标签，并将证明作品由人主导的开发记录和代码理解程度也纳入管理标准。"
+              },
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1910067634.jpg",
+                "cap": "Nexus Mods公告区分AI生成内容的标签 ©NEXUS MOD"
+              },
+              {
+                "t": "p",
+                "x": "游戏公司的应对也出现分化。Riot Games自10月6日起阻止未经批准的外部程序访问游戏内存，Blizzard则在World of Warcraft资料片《Midnight》中限制了插件处理战斗信息的能力。"
+              },
+              {
+                "t": "p",
+                "x": "相反，Starfield和Baldur's Gate 3于2024年推出官方模组工具，EA则于2026年为The Sims 4推出Maker Program，让用户制作的内容可以在官方市场出售。"
+              },
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1196909885.jpg",
+                "cap": "The Sims 4通过“市场”打造了UCC市场 ©EA"
+              },
+              {
+                "t": "p",
+                "x": "随着AI降低了模组制作所需的技术和时间，无论是加高围栏的公司还是敞开大门的公司，最终都在重新设计围栏的结构。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Los mods con AI se disparan y\nla industria rehace sus reglas",
+          "body": "Modrinth bloqueó los mods hechos sobre todo con AI y Nexus Mods dividió sus etiquetas según el uso de AI.",
+          "mini_headline": "Nuevas reglas para mods con AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1816408170.jpg",
+                "cap": "©NEXUS MOD"
+              },
+              {
+                "t": "p",
+                "x": "Modrinth, plataforma de mods de Minecraft, anunció en agosto una nueva política sobre mods con AI. Los envíos de proyectos pasaron de unos 2,500 por semana a principios de año a más de 5,000 en agosto, y buena parte era contenido creado con AI. Modrinth prohibió la publicación de proyectos hechos en su mayoría o por completo con AI."
+              },
+              {
+                "t": "p",
+                "x": "Nexus Mods optó por clasificar en lugar de restringir. Dividió sus etiquetas según el grado de uso de AI e incluyó en sus criterios de moderación el historial de desarrollo y la comprensión del código que acreditan que el trabajo lo dirigió una persona."
+              },
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1910067634.jpg",
+                "cap": "Nexus Mods anuncia etiquetas para separar el contenido generado por AI ©NEXUS MOD"
+              },
+              {
+                "t": "p",
+                "x": "Las respuestas de las compañías también divergen. Riot Games bloquea desde el 6 de octubre el acceso de programas externos no autorizados a la memoria del juego, y Blizzard limitó la capacidad de los add-ons para procesar información de combate en la expansión 'Midnight' de World of Warcraft."
+              },
+              {
+                "t": "p",
+                "x": "En cambio, Starfield y Baldur's Gate 3 incorporaron herramientas oficiales de modding en 2024, y EA lanzó en 2026 un Maker Program para The Sims 4 que permite vender contenido creado por los usuarios en un mercado oficial."
+              },
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1196909885.jpg",
+                "cap": "The Sims 4 creó un mercado de UCC a través de su 'Marketplace' ©EA"
+              },
+              {
+                "t": "p",
+                "x": "A medida que la AI reduce la técnica y el tiempo que exige el modding, tanto las compañías que elevan sus vallas como las que dejan la puerta abierta acaban rediseñando la estructura de la valla."
               }
             ]
           }

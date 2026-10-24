@@ -9107,6 +9107,155 @@
           "x": "専門家は現在、群れによるNavier-Stokes証明は独自の道筋をたどったと見ている。Buckmasterは今もOpenAIが自分の進展に依拠したと考えているが、OpenAIは強く否定している。この一件は、LLMsが人間の理解を上回る速さで結果を証明しつつあることへの警告である。"
         }
       ]
+    },
+    "science/science-epfl-logsync-brain-chip": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Mahsa Shoaranが率いるEPFLのIntegrated Neurotechnologies Labは、約4 x 2 mm の低消費電力の埋め込み型神経システムオンチップ「LogSync」を開発した。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-chip-decodes-in.jpg",
+          "cap": "約4 x 2 mm のLogSyncチップ。Credit: 2026 EPFL/Lundi13 CC BY SA 4.0"
+        },
+        {
+          "t": "p",
+          "x": "チップは脳の振動の強さと、異なる脳領域からの信号間の同期を測定する。機械学習アルゴリズムがこれらのネットワークレベルのバイオマーカーを用いて認知・感情状態を分類し、状態を検出すると刺激を発する。対数演算により消費電力を200マイクロワット未満に抑えている。"
+        },
+        {
+          "t": "p",
+          "x": "Shoaranは、精神疾患は特定の一領域よりも脳領域間のコミュニケーションの乱れに起因すると主張する。一方、深部脳刺激システムの多くはオープンループで動作するか、一つの領域に依存している。"
+        },
+        {
+          "t": "p",
+          "x": "認知的関与と情動的覚醒を扱った過去のヒト実験の記録で、アルゴリズムは神経データだけからこれらの状態を区別した。University of Minnesotaのラットでは、インプラントが脳活動のあらかじめ定めた位相で刺激を与えた。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-chip-decodes-in-1.jpg",
+          "cap": "LogSyncチップ。Credit: 2026 EPFL/Lundi13 CC BY SA 4.0"
+        },
+        {
+          "t": "p",
+          "x": "チームは精神科治療、運動障害向けの適応型DBS、閉ループの非侵襲刺激への応用を見込む。成果はIEEE Journal of Solid-State Circuitsに掲載された。"
+        }
+      ]
+    },
+    "science/science-perturbai-openai-reasoning-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2026/06/GettyImages-2224152938.jpg",
+          "cap": "Credit: Thom Leach/Science Photo Library/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "PerturbAIとOpenAI、そしてScripps Research、UC San Diego、HHMIの共同研究者らは、一年がかりで取り組んできたAI推論フレームワークの成果をbioRxivのプレプリントで公表した。大規模な実験データセットを解釈し、既存研究と結びつけ、検証可能な仮説を生成する仕組みである。"
+        },
+        {
+          "t": "p",
+          "x": "PerturbAIの全脳アトラスに適用すると、数千の並列エージェントが細胞応答を分析して文献を検索し、遺伝子、細胞応答、考えうるメカニズムを結ぶ推論アトラスを統合した。元の論文がなくても結論を再現し、除外しておいた摂動効果を予測して、32分で作業を終えた。"
+        },
+        {
+          "t": "p",
+          "x": "盲検レビューでは、生物学者は60件の判断のうち45件(75%)で、単一エージェントの報告より分散エージェントの解釈を選んだ。"
+        },
+        {
+          "t": "p",
+          "x": "両者は現在、PerturbAIの因果的なin vivoデータを使った創薬標的の共同探索へと協力を広げている。OpenAIのライフサイエンス責任者Joy Jiaoは「2,000近いエージェントを並列で動かすことで、ハイスループット実験と並行して生物学的解釈をどうスケールできるかが示された」と語った。"
+        }
+      ]
+    },
+    "science/science-ai2-olmoearth-v1-3": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "これまでOlmoEarthを使うには、OlmoEarth Studioでタスクごとにモデルをファインチューニングする必要があった。Ai2のOlmoEarth v1.3は、事前計算済みの埋め込みと、ブラウザで動くEmbeddings Explorerを加えた。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792611867-olmoearth-v1-3-globe.png?fit=max&h=810&w=1550"
+        },
+        {
+          "t": "p",
+          "x": "モデルは一年分のSentinel-1レーダーと、Sentinel-2およびLandsatの時系列を読み込み、地球上の10メートルのピクセルごとに128次元のベクトルを生成する。最初の64次元だけでも機能する。"
+        },
+        {
+          "t": "p",
+          "x": "AlphaEarth FoundationsおよびTessera v2との27の評価で、128次元の埋め込みは20項目で最高スコアを記録し、総合でも首位だった。64次元版は18項目でトップだった。v1.3はv1.2の53%の計算量で済み、OlmoEarthで最も安価に学習できた。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792611867-olmoearth-v1-3-la-pampa.png?fit=max&h=810&w=1550"
+        },
+        {
+          "t": "p",
+          "x": "学習なしで年ごとのベクトルを比べるだけで、ペルーのLa Pampa周辺で違法な金採掘が広がり、その後取り締まりが進んだ様子が見えてくる。"
+        },
+        {
+          "t": "p",
+          "x": "アーカイブは年間約150 TB に及ぶ。2023年から2025年は全球を、2017年から2022年は一部の国を対象とする。今回のリリースにはBaseモデル、全球埋め込み、Explorer、技術レポートが含まれる。"
+        }
+      ]
+    },
+    "science/science-chalmers-llm-political-audit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/five-out-of-six-ai-cha.jpg",
+          "cap": "Credit: The Swedish Election Authority (Valmyndigheten) | Fialotta Bratt"
+        },
+        {
+          "t": "p",
+          "x": "Chalmers University of Technologyの研究者らは、2026年のスウェーデン総選挙を前に、Claude、DeepSeek、Gemini、Mistral、GPT、Grokの六つの大規模言語モデルを107の政治争点で検証し、77の執筆タスクで148,000件をわずかに超える文章を生成させた。"
+        },
+        {
+          "t": "p",
+          "x": "文章は各争点に対して中立・肯定・否定に分類され、各党の選挙戦での立場と比較された。上級講師のBastiaan Bruinsmaは「モデルがどこかの政党を支持しているとは言えない」と述べた。モデルはおおむねスペクトルの中央寄りに位置し、GPTは主に中立的でバランスの取れた文章を生成した。"
+        },
+        {
+          "t": "p",
+          "x": "xAIが開発したGrokは、移民、犯罪、ジェンダーで大きく外れた。提案への賛成論や反対論を書くよう指示すると、モデルはおおむね従った。"
+        },
+        {
+          "t": "p",
+          "x": "研究は会話履歴や投票への影響は検証しておらず、チームは次にこれを調べる予定だ。成果はarXivのプレプリントとして公開されている。"
+        }
+      ]
+    },
+    "science/science-rfd4-proteina": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2026/10/GettyImages_1402266486_proteins-1024x538-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "ワシントン大学医学部タンパク質デザイン研究所(IPD)はNvidiaと組み、RFD4-Proteinaを発表した。NvidiaのBioNeMoプラットフォーム上に構築したオープンな生成モデルで、プログラム可能なタンパク質設計と探索機能を組み合わせている。"
+        },
+        {
+          "t": "p",
+          "x": "このモデルは、タンパク質の配列と構造を、相互作用する分子の構造とあわせて洗練させる。開発者によると、タンパク質結合、低分子結合、酵素スキャフォールディング、DNA結合の四つのベンチマーク群で、従来モデルに比べ設計成功率は5～10倍高く、候補の生成速度も5～10倍速かった。"
+        },
+        {
+          "t": "p",
+          "x": "「自然が作ったタンパク質を発見する時代から、まったく新しいタンパク質を設計できる時代へと移りつつある」と、IPD所長でノーベル賞受賞者のデビッド・ベイカー(David Baker)氏は語る。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2026/10/UW-IPD-dry-lab-RFD4-PROTEINA.jpg",
+          "cap": "タンパク質デザイン研究所でテストを行うRDF4モデリングチームのメンバー。[Sierra Adler / UW Medicine Institute for Protein Design]"
+        },
+        {
+          "t": "p",
+          "x": "名称はIPDのRosettaFold DiffusionとNvidiaのProteina-Complexaに由来する。Amazon Bio Discovery、AnthropicのClaude Science、Benchling、Databricks、Google Cloud、Hugging Face、Nebius、OpenAI、Tamarind Bioなどのパートナー経由で利用でき、BSD-3のオープンソースとしても公開されている。"
+        },
+        {
+          "t": "p",
+          "x": "「わずか数日で農薬を分解する酵素を設計できた。設計に数カ月かかったこれまでの最高記録を何倍も上回る性能だ」と、UWの博士課程候補生セス・ウッドベリー(Seth Woodbury)氏は話す。"
+        }
+      ]
     }
   }
 }

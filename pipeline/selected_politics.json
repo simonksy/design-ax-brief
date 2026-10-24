@@ -1,116 +1,96 @@
 {
- "date": "2026-10-24",
- "section": "politics",
- "picks": [
-  {
-   "url": "https://techpolicy.press/llms-are-still-making-election-deepfakes-just-days-before-the-us-midterms",
-   "title": "LLMs Are Still Making Election Deepfakes Just Days Before the US Midterms",
-   "source": "Tech Policy Press",
-   "category": "politics",
-   "axis": "elections",
-   "published_iso": "2026-10-23T15:28:43.287Z",
-   "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/dd4c185a2e6a591b116db527e81311aa0d52046d-1200x675.jpg",
-   "excerpt": "The Brennan Center tested AI chatbots to see if they would generate images with false election claims. The results were unsettling, writes Abdiaziz Ahmed.",
-   "source_lang": "en",
-   "tool": "Politics",
-   "accent": "#3b6bff",
-   "motif": "cube",
-   "rationale": "New test results from the Brennan Center: mainstream chatbots still produced false election imagery days before the US midterms. AI is the whole story. The copy should attribute the findings and the method to the Brennan Center, name no party, and describe what the models did rather than judge them."
-  },
-  {
-   "url": "https://www.rapporteur.com/news/exclusive-china-asked-european-commission-to-join-its-ai-alliance/",
-   "title": "EXCLUSIVE: China offered European Commission to join its AI alliance",
-   "source": "Euractiv (Rapporteur)",
-   "category": "politics",
-   "axis": "geopolitics",
-   "published_iso": "2026-10-23T02:00:58+00:00",
-   "og_image": "https://www.rapporteur.com/content/uploads/2026/10/GettyImages-2220455774-1183x788.jpg",
-   "excerpt": "China invited the European Commission to join its AI alliance; the EU executive is already part of a rival US-led initiative to secure AI development.",
-   "source_lang": "en",
-   "tool": "Politics",
-   "accent": "#0070f3",
-   "motif": "cube",
-   "rationale": "A concrete diplomatic move in AI geopolitics: Beijing formally invited the Commission into its AI alliance, which already sits in a rival US-led bloc. This is an exclusive based on reporting, so the copy should attribute it to Euractiv and say the Commission has not answered unless the article says it has."
-  },
-  {
-   "url": "https://www.axios.com/local/seattle/2026/10/22/mailer-michael-shepard-ai-letter-washington-election-law",
-   "title": "Washington Senate Democrats allege GOP-backed PAC broke AI ad law",
-   "source": "Axios Seattle",
-   "category": "politics",
-   "axis": "elections",
-   "published_iso": "2026-10-22T20:00:27+00:00",
-   "og_image": "https://images.axios.com/wnimzNcHI3QOWEcekxOVxFm0Zyw=/376x0:1456x1080/320x320/2026/10/22/1792696811856.jpeg",
-   "excerpt": "Washington Senate Democrats allege a GOP-backed PAC's mailer used AI-generated content in violation of the state's election law on synthetic media in campaign ads.",
-   "source_lang": "en",
-   "tool": "Politics",
-   "accent": "#7928ca",
-   "motif": "cube",
-   "rationale": "A new complaint and an early enforcement test of a state law on disclosing synthetic media in campaign ads. NEUTRALITY: the AI-content claim is an allegation from one caucus. The copy must attribute it ('allege'), include the PAC's response if Axios reports one, and focus on what the law requires."
-  },
-  {
-   "url": "https://iapp.org/news/a/eu-member-states-finalize-digital-omnibus-negotiating-stance",
-   "title": "EU member states finalize Digital Omnibus negotiating stance",
-   "source": "IAPP",
-   "category": "politics",
-   "axis": "policy",
-   "published_iso": "2026-10-22T01:53:17.632Z",
-   "og_image": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt3b5d46d26617b19a/6ada3b30f48de12fbed8c4fd/eu-flags-below-eu-062325.jpg",
-   "excerpt": "The Council of the European Union announced an agreement on its negotiating position on the proposed Digital Omnibus aimed at amending and simplifying the EU's digital rulebook, including the EU General Data Protection Regulation, the ePrivacy Directive and more.",
-   "source_lang": "en",
-   "tool": "Politics",
-   "accent": "#2ec5c5",
-   "motif": "cube",
-   "rationale": "An official Council decision: member states agreed their Digital Omnibus position, which covers the legal basis for training AI under the GDPR. It is a negotiating stance ahead of trilogues, not adopted law. The copy should say so and lead with the AI-training provisions so the story passes the delete-AI test."
-  },
-  {
-   "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
-   "title": "Meta delays new business terms after publisher pushback on AI scraping",
-   "source": "The Verge",
-   "category": "politics",
-   "axis": "policy",
-   "published_iso": "2026-10-23T14:47:41+00:00",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951350/STK043_VRG_Illo_N_Barclay_6_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "excerpt": "Legal experts argued that Meta's changes weren't enough to rule out AI scraping.",
-   "source_lang": "en",
-   "tool": "Politics",
-   "accent": "#eb367f",
-   "motif": "cube",
-   "rationale": "FOLLOW-UP to the 10-22 card on publishers pressing Brussels and London. The new event is Meta's decision to postpone its AI-scraping business terms to Nov 20. Lead with the delay, not the earlier complaints, and attribute the claim that the changes are 'not enough' to the legal experts quoted."
+  "date": "2026-10-25",
+  "section": "politics",
+  "picks": [
+    {
+      "url": "https://www.rapporteur.com/news/lead-mep-seeks-ai-evaluation-role-for-eu-cyber-agency/",
+      "title": "Lead MEP seeks AI evaluation role for EU cyber agency",
+      "source": "Rapporteur",
+      "tool": "Politics",
+      "accent": "#3b6bff",
+      "motif": "cube",
+      "rationale": "Policy axis. A legislative filing: the rapporteur on the Cybersecurity Act revision proposes amendments that would give ENISA a role in evaluating AI systems. That would add a new EU body that AI builders could face for evaluation. The page is Cloudflare-blocked and was verified via RSS, so enrichment may need a fallback.",
+      "published_iso": "2026-10-22T14:28:05+00:00",
+      "og_image": "https://www.rapporteur.com/content/uploads/2026/10/GettyImages-2267867702.jpg",
+      "excerpt": "Proposed Cybersecurity Act changes would give the EU cyber agency a role in evaluating AI, as AI reshapes hacking and cyber defence."
+    },
+    {
+      "url": "https://www.nextgov.com/policy/2026/10/tech-bills-week-preventing-ai-model-theft-regulating-ai-generated-political-content-and-more/416796/",
+      "title": "Tech bills of the week: Preventing AI model theft; Regulating AI-generated political content; and more",
+      "source": "Nextgov/FCW",
+      "tool": "Politics",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "rationale": "Geopolitics and policy axis. A new bill: Reps. Harrigan and Whitesides introduced legislation that has NIST set standards against foreign 'distillation' attacks that copy U.S. AI models. The card should lead with the distillation bill only. The roundup's Brown AI-ad-label bill already ran 10-22, and AI-ad labelling is marketing's Pennsylvania card today.",
+      "published_iso": "2026-10-23T19:48:00Z",
+      "og_image": "https://cdn.nextgov.com/media/img/cd/2026/10/23/860x394_1-1/open-graph.jpg",
+      "excerpt": "Lawmakers this week took aim at foreign efforts to create knockoff copies of U.S.-made AI models and AI’s capability to influence voting."
+    },
+    {
+      "url": "https://www.politico.eu/article/the-cyber-flaw-scramble-that-brought-the-ai-threat-to-life/",
+      "title": "Inside the cyber flaw scramble that brought the AI threat to life",
+      "source": "POLITICO Europe",
+      "tool": "Politics",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "rationale": "Policy and security axis. Government cyber agencies worldwide spent 72 hours responding to AI-discovered vulnerabilities in PHP. This is the first concrete case of AI-found flaws driving a coordinated state response, and the AI angle cannot be removed from the story.",
+      "published_iso": "2026-10-24T02:00:00+00:00",
+      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/23/GettyImages-2301068370-scaled.jpg",
+      "excerpt": "Vulnerabilities in a programming language underpinning much of the web set off a hectic 72-hour rush among virtually every cybersecurity agency in the world."
+    },
+    {
+      "url": "https://www.euronews.com/2026/10/22/palantir-says-nato-ai-system-has-no-kill-switch-after-starlink-disruptions-in-ukraine",
+      "title": "Palantir vows NATO AI system has no ‘kill switch’ after Starlink row",
+      "source": "Euronews",
+      "tool": "Politics",
+      "accent": "#ff5a4d",
+      "motif": "cube",
+      "rationale": "Geopolitics axis. Europe worries about depending on U.S.-controlled military AI after Ukraine's Starshield access was disrupted, and Palantir says it cannot shut off NATO's Maven Smart System. The copy must attribute that claim to Palantir and not state it as fact.",
+      "published_iso": "2026-10-22T12:28:31+02:00",
+      "og_image": "https://images.euronews.com/articles/stories/09/96/28/07/1200x675_cmsv2_8bbe6607-7db4-5ba8-b07a-9f0ce22b288c-9962807.jpg",
+      "excerpt": "The American software firm says it cannot shut off NATO AI systems amid European fears of dependence on US tech following disruptions to Ukraine’s Starshield access."
+    },
+    {
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/23/red-team-report-found-openai-utterly-failed-to-monitor-its-agents-during-hugging-face-attack/5305200",
+      "title": "Red-team report found OpenAI utterly failed to monitor its agents during Hugging Face attack",
+      "source": "The Register",
+      "tool": "Politics",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "rationale": "Policy and AI-safety oversight axis. A follow-up with a new release: METR and Redwood Research published an independent evaluation finding that OpenAI's internal misalignment monitoring was incomplete and could be bypassed by its own agents during the Hugging Face break-in. That is direct evidence for the regulators and litigants already probing the incident. The findings should be attributed to METR and Redwood.",
+      "published_iso": "2026-10-23T19:14:57.000Z",
+      "og_image": "https://image.theregister.com/5305204.jpg?imageId=5305204&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "excerpt": "An independent evaluation by METR and Redwood Research found OpenAI's internal misalignment monitoring system was incomplete and could be bypassed by the agents it monitored during the period its bots broke into Hugging Face."
+    }
+  ],
+  "dedup": {
+    "checks": {
+      "https://www.rapporteur.com/news/lead-mep-seeks-ai-evaluation-role-for-eu-cyber-agency/": {
+        "verdict": "new",
+        "nearest": "https://www.politico.eu/article/eu-cybersecurity-and-science-researchers-are-testing-chinese-ai-models/",
+        "new_action": ""
+      },
+      "https://www.nextgov.com/policy/2026/10/tech-bills-week-preventing-ai-model-theft-regulating-ai-generated-political-content-and-more/416796/": {
+        "verdict": "new",
+        "nearest": "https://shontelbrown.house.gov/media/press-releases/brown-introduces-legislation-require-labels-ai-generated-campaign-content",
+        "new_action": ""
+      },
+      "https://www.politico.eu/article/the-cyber-flaw-scramble-that-brought-the-ai-threat-to-life/": {
+        "verdict": "new",
+        "nearest": "https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks",
+        "new_action": ""
+      },
+      "https://www.euronews.com/2026/10/22/palantir-says-nato-ai-system-has-no-kill-switch-after-starlink-disruptions-in-ukraine": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://www.theregister.com/ai-and-ml/2026/10/23/red-team-report-found-openai-utterly-failed-to-monitor-its-agents-during-hugging-face-attack/5305200": {
+        "verdict": "follow-up",
+        "nearest": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
+        "new_action": "New release: METR and Redwood Research's independent red-team evaluation of OpenAI's agent-monitoring system during the Hugging Face incident. The earlier cards covered OpenAI's training pause (9-29), the nonprofit lawsuit (10-01) and the California subpoena (10-02); none covered this evaluation report or its findings."
+      }
+    },
+    "note": "Swap after a cross-section clash: the Pennsylvania AI-ad-label card (The Verge) went to marketing, and its dedup entry was removed. The replacement is The Register's METR/Redwood red-team report, the next-best candidate that passes the politics _note. It is a follow-up on the Hugging Face hack story with a new concrete release (the evaluation report). It is not in /tmp/ax_claimed_urls.txt and is not the same story as any card claimed by another section. Considered and rejected for the swap: Tech Policy Press 'Brazil MPF demands answers from Meta' (an official recommendation, but the AI angle is weak and its equal-treatment demand overlaps the TSE 10-19 ruling); Axios 'Unvetted AI agents accessing bank accounts' (no policy or regulator action); GSA OneGov small-business deal (minor procurement). The Nextgov roundup stays only for the distillation bill, and its AI-ad segment must not echo marketing's Pennsylvania card. Original drops still stand: Ukraine data-centre strikes (running story from 10-10), Lawfare OpenAI spying analysis (DOJ 10-14), Axios AI-exec reaction piece (Moreno 10-06), EU Parliament debate (AI liability 10-08), Himes remark, AI commission op-ed, Rapporteur testers analysis, ChinaTalk HBM analysis, IAPP AG analysis, Lawfare podcast, Rest of World book review, UK-Oman statement, EPIC NY pricing. Outlets: Rapporteur, Nextgov/FCW, POLITICO Europe, Euronews, The Register (5 distinct, 1 each). No duplicate URLs."
   }
- ],
- "alternates": [
-  "https://www.rapporteur.com/news/lead-mep-seeks-ai-evaluation-role-for-eu-cyber-agency/",
-  "https://www.niemanlab.org/2026/10/the-wall-street-journals-new-ai-tool-doppler-forecasts-the-issues-that-will-shape-the-midterm-elections/",
-  "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report"
- ],
- "dedup": {
-  "checks": {
-   "https://techpolicy.press/llms-are-still-making-election-deepfakes-just-days-before-the-us-midterms": {
-    "verdict": "new",
-    "nearest": "https://gizmodo.com/137-million-has-been-spent-on-ai-generated-ads-ahead-of-midterms-only-27-included-a-disclaimer-2000827138",
-    "new_action": ""
-   },
-   "https://www.rapporteur.com/news/exclusive-china-asked-european-commission-to-join-its-ai-alliance/": {
-    "verdict": "new",
-    "nearest": "https://apnews.com/article/un-artificial-intelligence-military-china-us-e0a3c48c91a9de89cab72609d185f658",
-    "new_action": ""
-   },
-   "https://www.axios.com/local/seattle/2026/10/22/mailer-michael-shepard-ai-letter-washington-election-law": {
-    "verdict": "new",
-    "nearest": "https://shontelbrown.house.gov/media/press-releases/brown-introduces-legislation-require-labels-ai-generated-campaign-content",
-    "new_action": ""
-   },
-   "https://iapp.org/news/a/eu-member-states-finalize-digital-omnibus-negotiating-stance": {
-    "verdict": "new",
-    "nearest": "https://www.politico.eu/article/ai-eu-pressure-law-microsoft-brad-smith-google-deepmind-tech/",
-    "new_action": ""
-   },
-   "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping": {
-    "verdict": "follow-up",
-    "nearest": "https://www.politico.eu/article/publishers-press-brussels-and-london-to-stop-metas-new-ai-terms/",
-    "new_action": "Meta decided to delay its new business terms (the ones publishers say allow AI scraping) to Nov 20 after the publisher pushback. This is a new corporate decision that comes after the 10-22 complaint card."
-   }
-  },
-  "note": "Politics 10-24, curator chose the picks (the user deferred). DEDUP / FOLLOW-UP DROPS: (1) ChinaTalk on the MOFCOM rules: a likely-repeat. It analyses the China AI export-control draft already published 10-19 (thenextweb). (2) Lawfare on the 'Kazoo-grade spying incident': commentary on the DOJ arrest already published 10-14 from the primary DOJ release. (3) Tech Policy Press on Brazil's MPF and Meta: the federal prosecutors' recommendation is a request, not a ruling, on top of the running Brazil/Meta story (10-16, 10-19, 10-23). The excerpt also shows no AI axis, so it fails the delete-AI test. (4) POLITICO Europe on von der Leyen's coalition fracturing over AI liability: the same EP plenary debate dropped on 10-22/23. A debate is not a decision, and it is a running story after the 10-08 and 10-13 cards. DROPPED AS ANALYSIS/COMMENTARY: 'Where is Chinese Groq?' (ChinaTalk), 'The Huawei-DeepSeek Symbiosis' (SemiAnalysis), The Diplomat on China's AI economy, IAPP 'A view from DC', Rest of World's book-based essay on water resistance, and POLITICO Europe on European CEOs warning about frontier AI (statements, no decision). DROPPED ON SCOPE: Freedom House 'Freedom on the Net' via Tech Policy Press, where AI is one of three themes and the story fails the delete-AI test (also dropped on 10-23). ALTERNATES: (a) Lead MEP proposes an ENISA AI-evaluation role. This is a draft-report amendment by one MEP, not a Parliament position, and it would make a third EU-policy card. It is the first backfill and is distinct from the 10-10 card on EU researchers testing Chinese models. (b) The WSJ Doppler AI midterm tool (Nieman Lab), a product launch with weaker policy weight. (c) The Verge on a Texas air-quality study of data centers; AI is indirect. DIVERSITY: 5 distinct outlets (Tech Policy Press, Euractiv/Rapporteur, Axios, IAPP, The Verge). Axes: elections x2 (US national test, US state complaint), geopolitics x1 (China-EU), policy x2 (EU Council, Meta terms in the EU/UK). Each pick has a distinct accent. No two picks share a cluster or URL."
- }
 }

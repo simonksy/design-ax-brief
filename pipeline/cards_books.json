@@ -1,215 +1,227 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "section": "books",
   "cards": [
     {
-      "id": "books-australia-ai-copyright",
+      "id": "books-patrick-white-publishing",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "호주, 저자 책으로\nAI 학습 허용 추진",
-      "body": "호주는 국적을 가리지 않고 저자 작품의 AI 무허가 학습을 허용하려 한다.",
-      "mini_headline": "호주, 무허가 AI 학습 추진",
+      "headline": "자비출판 작가들,\n부실·AI 그림 고발",
+      "body": "ABC는 Patrick White Publishing 표지에서 AI 흔적을 찾았다.",
+      "mini_headline": "Paid-publishing 출판사의 AI 그림 논란",
       "tool": "Books",
-      "source": "The Authors Guild",
-      "url": "https://authorsguild.org/news/australia-ai-training-statement/",
+      "source": "ABC News (Australia)",
+      "url": "https://www.abc.net.au/news/2026-10-25/patrick-white-publishing-authors-unhappy-service-ai-art/107255794",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "호주 정부가 저작권법 개정안을 내겠다고 발표했다. AI 기업이 모델을 만들 때 저자의 작품을 라이선스 없이 쓸 수 있게 하는 내용이다. 미국을 포함해 세계 어느 나라 저자든 이 법의 적용을 받는다."
+            "t": "img",
+            "src": "https://live-production.wcms.abc-cdn.net.au/9666b581058d1af9ec9592941fe71f8a?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+            "cap": "Patrick White Publishing의 AI-generated 홍보 이미지. (Patrick White Publishing)"
           },
           {
             "t": "p",
-            "x": "법안이 통과되면 AI 기업은 호주 땅에서 작업하는 한 여러분의 작품을 합법적으로 쓸 수 있다. AI 기업은 학습만 호주로 옮기고 모델은 계속 미국(U.S.)에서 배포하면 그만이다. 저자들이 AI 기업을 상대로 낸 소송도, 보호 장치를 요구해 온 우리의 로비도 사실상 힘을 잃는다."
+            "x": "온라인 후기는 좋지만 작가들은 Patrick White Publishing의 서비스 품질이 낮고 부정적인 댓글을 지우라는 압박까지 받았다고 비판한다. 회사는 AI-generated 삽화 값으로 작가들에게 수백 달러씩 받기도 한다."
           },
           {
             "t": "p",
-            "x": "호주 정부는 저작권자가 자기 작품 사용을 거부할 수 있는 opt-out은 허용할 계획이다. 하지만 opt-outs는 실제로 집행하기 어렵다. 거부해야 한다는 사실과 그 방법까지 아는 노련한 저작권자는 극소수이고, 나머지 모든 이의 권리는 짓밟히기 일쑤다. 누가 어떤 목적으로 작품을 쓸지 창작자가 정하게 해 주는 것이 저작권의 opt-in 라이선스다. opt-out 방식은 이를 대신할 수 없다."
+            "x": "Mudgee의 작가 Kerry Stewart는 $500를 냈지만 편집 과정에서 오히려 오류가 생겼다고 말한다. Melbourne의 작가 Tulin Salis는 $400 견적을 받은 뒤 $1899짜리 \"5-Star Ghostwriting Bundle\"을 제안받았다."
+          },
+          {
+            "t": "img",
+            "src": "https://live-production.wcms.abc-cdn.net.au/b06a09fe7be41183eb456f5c77af5584?impolicy=wcms_crop_resize&cropH=1077&cropW=1615&xPos=0&yPos=41&width=862&height=575",
+            "cap": "Hobart에 있는 Patrick White Publishing의 Google 등록 정보에 뜨는 AI-generated 이미지. (Patrick White Publishing)"
           },
           {
             "t": "p",
-            "x": "Authors Guild는 전 세계 창작 산업 단체들과 함께 이 법안을 규탄하는 공개 성명을 마련했다. 성명은 이렇다."
+            "x": "Google Maps에 올라온 Hobart 매장 이미지를 OpenAI 도구로 확인하면 OpenAI 소프트웨어로 만들었다는 워터마크가 나온다. 회사 웹사이트의 일부 책 표지에서도 OpenAI와 Google Gemini의 워터마크가 검출됐다. ABC가 검토한 작가 계약서에는 AI 삽화를 언급한 대목이 없다."
           },
           {
             "t": "p",
-            "x": "호주 정부는 자국 땅에서 세계 창작자들의 작품을 훔치는 행위를 합법화해서는 안 된다. 호주에서 우리의 작품을 AI 모델 학습에 쓰려면 반드시 우리의 명시적 허락을 받아야 한다."
-          },
-          {
-            "t": "p",
-            "x": "성명은 서명자 명단과 함께 온라인에 실린다. 지금 서명하려면 아래 양식을 내면 된다."
+            "x": "회사는 관계없는 업체의 ABN을 쓰고, Patrick White의 문학 유산 관리 측은 이름 사용을 멈추라고 요구했다. Patrick White Publishing은 ABC의 논평 요청에 답하지 않았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Australia plans to allow AI\ntraining on authors' books",
-          "body": "Australia plans a copyright change letting AI companies train on authors' work without a license, wherever they live.",
-          "mini_headline": "Australia eyes\nunlicensed AI training",
+          "headline": "Paid-publishing authors allege\npoor service and AI art",
+          "body": "Authors who paid Patrick White Publishing allege poor service; ABC found AI watermarks on its covers and storefronts.",
+          "mini_headline": "Paid publisher accused\nof AI art",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "The Australian government has announced that it is planning to introduce legislation that would change copyright law to allow AI companies to use authors’ work, without a license, to build their models. This would apply to authors from anywhere in the world, including the United States."
+                "t": "img",
+                "src": "https://live-production.wcms.abc-cdn.net.au/9666b581058d1af9ec9592941fe71f8a?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+                "cap": "An AI-generated promotional image for Patrick White Publishing. (Patrick White Publishing)"
               },
               {
                 "t": "p",
-                "x": "The legislation would make it legal for your work to be exploited by AI companies, if they conducted that exploitation on Australian soil. It would effectively preempt the lawsuits authors have brought against AI companies and our lobbying for protections since the AI companies would simply move their training operations to Australia while continuing to deploy the models in the U.S."
+                "x": "Despite positive online reviews, authors have accused Patrick White Publishing of poor quality service and pushing them into removing negative comments. The company is also charging authors hundreds of dollars for AI-generated illustrations."
               },
               {
                 "t": "p",
-                "x": "The Australian government plans to let copyright owners opt out of their work being used, but opt-outs are difficult to implement and often steamroll over the rights of all but the most sophisticated copyright owners who know they need to opt out and how to do so. Opt-out systems are no substitute for copyright’s opt-in licensing that allows creators to control who gets to use their work for what purposes."
+                "x": "Mudgee author Kerry Stewart paid $500 and says edits introduced mistakes; Melbourne author Tulin Salis was quoted $400, then offered a $1899 \"5-Star Ghostwriting Bundle\"."
+              },
+              {
+                "t": "img",
+                "src": "https://live-production.wcms.abc-cdn.net.au/b06a09fe7be41183eb456f5c77af5584?impolicy=wcms_crop_resize&cropH=1077&cropW=1615&xPos=0&yPos=41&width=862&height=575",
+                "cap": "A Google listing for Patrick White Publishing in Hobart turns up this AI-generated image. (Patrick White Publishing)"
               },
               {
                 "t": "p",
-                "x": "The Authors Guild has joined organizations in the creative industries around the world in organizing a public statement condemning this planned legislation. It reads as follows:"
+                "x": "An OpenAI tool shows the Hobart storefront image on Google Maps carries a watermark generated by its software, and some book covers on the company's website return positive results for watermarks from OpenAI and Google Gemini. Author agreements reviewed by the ABC do not mention AI illustrations."
               },
               {
                 "t": "p",
-                "x": "The Australian government must not legalize the theft of the work of the world’s creators on their soil. Our work must only be used to train AI models in Australia with our explicit permission."
-              },
-              {
-                "t": "p",
-                "x": "This statement will be published online, along with a list of signatories. Submit the form below to sign now."
+                "x": "The company also uses an ABN belonging to an unrelated business, and the literary estate of Patrick White has asked it to stop using the name. Patrick White Publishing did not respond to the ABC's requests for comment."
               }
             ]
           }
         },
         "ko": {
-          "headline": "호주, 저자 책으로\nAI 학습 허용 추진",
-          "body": "호주는 국적을 가리지 않고 저자 작품의 AI 무허가 학습을 허용하려 한다.",
-          "mini_headline": "호주, 무허가 AI 학습 추진",
+          "headline": "자비출판 작가들,\n부실·AI 그림 고발",
+          "body": "ABC는 Patrick White Publishing 표지에서 AI 흔적을 찾았다.",
+          "mini_headline": "Paid-publishing 출판사의 AI 그림 논란",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "호주 정부가 저작권법 개정안을 내겠다고 발표했다. AI 기업이 모델을 만들 때 저자의 작품을 라이선스 없이 쓸 수 있게 하는 내용이다. 미국을 포함해 세계 어느 나라 저자든 이 법의 적용을 받는다."
+                "t": "img",
+                "src": "https://live-production.wcms.abc-cdn.net.au/9666b581058d1af9ec9592941fe71f8a?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+                "cap": "Patrick White Publishing의 AI-generated 홍보 이미지. (Patrick White Publishing)"
               },
               {
                 "t": "p",
-                "x": "법안이 통과되면 AI 기업은 호주 땅에서 작업하는 한 여러분의 작품을 합법적으로 쓸 수 있다. AI 기업은 학습만 호주로 옮기고 모델은 계속 미국(U.S.)에서 배포하면 그만이다. 저자들이 AI 기업을 상대로 낸 소송도, 보호 장치를 요구해 온 우리의 로비도 사실상 힘을 잃는다."
+                "x": "온라인 후기는 좋지만 작가들은 Patrick White Publishing의 서비스 품질이 낮고 부정적인 댓글을 지우라는 압박까지 받았다고 비판한다. 회사는 AI-generated 삽화 값으로 작가들에게 수백 달러씩 받기도 한다."
               },
               {
                 "t": "p",
-                "x": "호주 정부는 저작권자가 자기 작품 사용을 거부할 수 있는 opt-out은 허용할 계획이다. 하지만 opt-outs는 실제로 집행하기 어렵다. 거부해야 한다는 사실과 그 방법까지 아는 노련한 저작권자는 극소수이고, 나머지 모든 이의 권리는 짓밟히기 일쑤다. 누가 어떤 목적으로 작품을 쓸지 창작자가 정하게 해 주는 것이 저작권의 opt-in 라이선스다. opt-out 방식은 이를 대신할 수 없다."
+                "x": "Mudgee의 작가 Kerry Stewart는 $500를 냈지만 편집 과정에서 오히려 오류가 생겼다고 말한다. Melbourne의 작가 Tulin Salis는 $400 견적을 받은 뒤 $1899짜리 \"5-Star Ghostwriting Bundle\"을 제안받았다."
+              },
+              {
+                "t": "img",
+                "src": "https://live-production.wcms.abc-cdn.net.au/b06a09fe7be41183eb456f5c77af5584?impolicy=wcms_crop_resize&cropH=1077&cropW=1615&xPos=0&yPos=41&width=862&height=575",
+                "cap": "Hobart에 있는 Patrick White Publishing의 Google 등록 정보에 뜨는 AI-generated 이미지. (Patrick White Publishing)"
               },
               {
                 "t": "p",
-                "x": "Authors Guild는 전 세계 창작 산업 단체들과 함께 이 법안을 규탄하는 공개 성명을 마련했다. 성명은 이렇다."
+                "x": "Google Maps에 올라온 Hobart 매장 이미지를 OpenAI 도구로 확인하면 OpenAI 소프트웨어로 만들었다는 워터마크가 나온다. 회사 웹사이트의 일부 책 표지에서도 OpenAI와 Google Gemini의 워터마크가 검출됐다. ABC가 검토한 작가 계약서에는 AI 삽화를 언급한 대목이 없다."
               },
               {
                 "t": "p",
-                "x": "호주 정부는 자국 땅에서 세계 창작자들의 작품을 훔치는 행위를 합법화해서는 안 된다. 호주에서 우리의 작품을 AI 모델 학습에 쓰려면 반드시 우리의 명시적 허락을 받아야 한다."
-              },
-              {
-                "t": "p",
-                "x": "성명은 서명자 명단과 함께 온라인에 실린다. 지금 서명하려면 아래 양식을 내면 된다."
+                "x": "회사는 관계없는 업체의 ABN을 쓰고, Patrick White의 문학 유산 관리 측은 이름 사용을 멈추라고 요구했다. Patrick White Publishing은 ABC의 논평 요청에 답하지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "豪州、作家の本で\nAI学習を容認へ",
-          "body": "豪州は、AI企業が国籍を問わず作家の作品を無許諾で学習できる著作権法改正を計画している。",
-          "mini_headline": "豪州、無許諾のAI学習を検討",
+          "headline": "自費出版の著者ら\n粗悪対応とAI画像を告発",
+          "body": "著者がPatrick White Publishingを告発、ABCはAI透かしを確認した。",
+          "mini_headline": "Paid-publishing業者にAI画像疑惑",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "オーストラリア政府は、AI企業がモデル構築のために作家の作品をライセンスなしで利用できるよう著作権法を改正する法案を提出する計画を発表した。対象は米国を含む世界中の作家である。"
+                "t": "img",
+                "src": "https://live-production.wcms.abc-cdn.net.au/9666b581058d1af9ec9592941fe71f8a?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+                "cap": "Patrick White PublishingのAI-generated宣伝画像。(Patrick White Publishing)"
               },
               {
                 "t": "p",
-                "x": "法案が成立すれば、AI企業がオーストラリア国内で行う限り、あなたの作品を利用することが合法になる。AI企業は学習業務をオーストラリアに移しつつ、モデルは米国（U.S.）で引き続き展開すればよいため、作家たちがAI企業を相手に起こしてきた訴訟や、保護を求める私たちのロビー活動は事実上無力化される。"
+                "x": "オンラインでの評価は高いものの、著者らはPatrick White Publishingのサービスの質が低く、否定的なコメントの削除を迫られたと訴えている。同社はAI-generatedの挿絵の代金として著者に数百ドルを請求してもいる。"
               },
               {
                 "t": "p",
-                "x": "オーストラリア政府は著作権者が作品の利用を拒否できるopt-outを認める方針だが、opt-outsは実施が難しく、拒否の必要性とその方法を知るごく一部の熟練した著作権者以外の権利を踏みにじりがちだ。opt-out方式は、誰がどの目的で作品を使えるかを創作者が管理できる著作権のopt-inライセンスの代わりにはならない。"
+                "x": "Mudgeeの著者Kerry Stewartは$500を支払ったが、編集で誤りが増えたと話す。Melbourneの著者Tulin Salisは$400の見積もりを受けた後、$1899の\"5-Star Ghostwriting Bundle\"を勧められた。"
+              },
+              {
+                "t": "img",
+                "src": "https://live-production.wcms.abc-cdn.net.au/b06a09fe7be41183eb456f5c77af5584?impolicy=wcms_crop_resize&cropH=1077&cropW=1615&xPos=0&yPos=41&width=862&height=575",
+                "cap": "HobartのPatrick White PublishingのGoogle掲載情報に表示されるAI-generated画像。(Patrick White Publishing)"
               },
               {
                 "t": "p",
-                "x": "Authors Guildは、世界の創作産業の団体とともに、この法案を非難する公開声明の取りまとめに加わった。声明の内容は次のとおりである。"
+                "x": "OpenAIのツールによると、Google Maps上のHobartの店舗画像には同社ソフトウェアが生成したことを示す透かしがあり、同社サイトの一部の書籍表紙もOpenAIとGoogle Geminiの透かしで陽性となった。ABCが確認した著者契約にはAI挿絵への言及がない。"
               },
               {
                 "t": "p",
-                "x": "オーストラリア政府は、自国の地で世界の創作者の作品を盗む行為を合法化してはならない。オーストラリアで私たちの作品をAIモデルの学習に使うには、私たちの明示的な許可が必要である。"
-              },
-              {
-                "t": "p",
-                "x": "この声明は署名者の一覧とともにオンラインで公開される。今すぐ署名するには、下のフォームを送信してほしい。"
+                "x": "同社は無関係の事業者のABNを使っており、Patrick Whiteの文学遺産管理者は名称の使用中止を求めている。Patrick White PublishingはABCのコメント要請に応じなかった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "澳大利亚拟允许AI\n用作家作品训练",
-          "body": "澳大利亚计划修改版权法，让AI公司无论作者身在何处都可未经许可用其作品训练。",
-          "mini_headline": "澳大利亚拟放开无授权AI训练",
+          "headline": "自费出版作者指控\n服务差且用AI作图",
+          "body": "作者称Patrick White Publishing服务差，ABC于封面发现AI水印。",
+          "mini_headline": "Paid-publishing出版商陷AI图像争议",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "澳大利亚政府宣布，计划提出立法修改版权法，允许AI公司在未获授权的情况下使用作家作品构建模型。这将适用于世界各地的作家，包括美国作家。"
+                "t": "img",
+                "src": "https://live-production.wcms.abc-cdn.net.au/9666b581058d1af9ec9592941fe71f8a?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+                "cap": "Patrick White Publishing的AI-generated宣传图片。(Patrick White Publishing)"
               },
               {
                 "t": "p",
-                "x": "该立法将使AI公司在澳大利亚境内利用你的作品成为合法行为。AI公司只需把训练业务迁往澳大利亚，同时继续在美国（U.S.）部署模型，这实际上会架空作家们对AI公司提起的诉讼，以及我们争取保护的游说努力。"
+                "x": "尽管网上评价正面，作者们指责Patrick White Publishing服务质量低劣，并迫使他们删除负面评论。该公司还向作者收取数百美元的AI-generated插图费用。"
               },
               {
                 "t": "p",
-                "x": "澳大利亚政府计划允许版权所有者选择退出（opt-out），但opt-outs难以落实，往往碾压除极少数老练版权所有者之外所有人的权利——只有这些人知道需要退出以及如何退出。opt-out机制无法替代版权的opt-in授权，后者让创作者能够控制谁可以出于何种目的使用其作品。"
+                "x": "Mudgee作者Kerry Stewart支付了$500，称编辑反而引入了错误；Melbourne作者Tulin Salis先获得$400的报价，随后被推销$1899的\"5-Star Ghostwriting Bundle\"。"
+              },
+              {
+                "t": "img",
+                "src": "https://live-production.wcms.abc-cdn.net.au/b06a09fe7be41183eb456f5c77af5584?impolicy=wcms_crop_resize&cropH=1077&cropW=1615&xPos=0&yPos=41&width=862&height=575",
+                "cap": "Patrick White Publishing在Hobart的Google商家信息中出现这张AI-generated图片。(Patrick White Publishing)"
               },
               {
                 "t": "p",
-                "x": "Authors Guild已与全球创意产业的组织一道，发起一份谴责这项拟议立法的公开声明。声明全文如下："
+                "x": "一款OpenAI工具显示，Google Maps上Hobart门店的图片带有其软件生成的水印；该公司网站上的部分书籍封面也检测出OpenAI和Google Gemini的水印。ABC查阅的作者协议中并未提及AI插图。"
               },
               {
                 "t": "p",
-                "x": "澳大利亚政府不得将在其境内窃取全球创作者作品的行为合法化。在澳大利亚，我们的作品只有在获得我们明确许可的情况下，才能用于训练AI模型。"
-              },
-              {
-                "t": "p",
-                "x": "这份声明将连同签署者名单在网上发布。现在提交下方表格即可签署。"
+                "x": "该公司还使用一家无关企业的ABN，Patrick White的文学遗产管理方已要求其停止使用这一名称。Patrick White Publishing未回应ABC的置评请求。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Australia planea dejar entrenar\nla IA con libros de autores",
-          "body": "Australia prevé cambiar el copyright para que la IA entrene con obras de autores de cualquier país sin licencia.",
-          "mini_headline": "Australia y el entrenamiento de IA sin licencia",
+          "headline": "Autores de Paid-publishing\ndenuncian mal servicio y arte AI",
+          "body": "Autores que pagaron a Patrick White Publishing acusan mal servicio; ABC halló marcas de AI en portadas y locales.",
+          "mini_headline": "Editorial Paid-publishing, acusada de usar arte AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "El Gobierno australiano anunció que prevé presentar una ley que modificaría la normativa de derechos de autor para permitir que las empresas de IA usen obras de autores, sin licencia, para construir sus modelos. Se aplicaría a autores de cualquier parte del mundo, incluidos los Estados Unidos."
+                "t": "img",
+                "src": "https://live-production.wcms.abc-cdn.net.au/9666b581058d1af9ec9592941fe71f8a?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+                "cap": "Imagen promocional AI-generated de Patrick White Publishing. (Patrick White Publishing)"
               },
               {
                 "t": "p",
-                "x": "La ley haría legal que las empresas de IA explotaran su obra siempre que esa explotación se realizara en suelo australiano. En la práctica, anularía las demandas que los autores han presentado contra empresas de IA y nuestra labor de presión en favor de protecciones, ya que esas empresas simplemente trasladarían sus operaciones de entrenamiento a Australia mientras siguen desplegando los modelos en EE. UU. (U.S.)."
+                "x": "Pese a las reseñas positivas en internet, varios autores acusan a Patrick White Publishing de ofrecer un servicio de mala calidad y de presionarlos para retirar comentarios negativos. La empresa también cobra a los autores cientos de dólares por ilustraciones AI-generated."
               },
               {
                 "t": "p",
-                "x": "El Gobierno australiano prevé permitir que los titulares de derechos excluyan sus obras mediante opt-out, pero los opt-outs son difíciles de aplicar y a menudo arrasan con los derechos de todos salvo los titulares más sofisticados, que saben que deben excluirse y cómo hacerlo. Los sistemas de opt-out no sustituyen las licencias opt-in del derecho de autor, que permiten a los creadores controlar quién usa su obra y con qué fines."
+                "x": "En Mudgee, el autor Kerry Stewart pagó $500 y afirma que la edición introdujo errores; en Melbourne, al autor Tulin Salis le presupuestaron $400 y después le ofrecieron un \"5-Star Ghostwriting Bundle\" de $1899."
+              },
+              {
+                "t": "img",
+                "src": "https://live-production.wcms.abc-cdn.net.au/b06a09fe7be41183eb456f5c77af5584?impolicy=wcms_crop_resize&cropH=1077&cropW=1615&xPos=0&yPos=41&width=862&height=575",
+                "cap": "La ficha de Google de Patrick White Publishing en Hobart muestra esta imagen AI-generated. (Patrick White Publishing)"
               },
               {
                 "t": "p",
-                "x": "La Authors Guild se ha sumado a organizaciones de las industrias creativas de todo el mundo para impulsar una declaración pública que condena esta ley prevista. Dice así:"
+                "x": "Una herramienta de OpenAI indica que la imagen de la tienda de Hobart en Google Maps lleva una marca de agua generada por su software, y algunas portadas del sitio web de la empresa dan positivo en marcas de agua de OpenAI y Google Gemini. Los contratos de autor revisados por ABC no mencionan ilustraciones con AI."
               },
               {
                 "t": "p",
-                "x": "El Gobierno australiano no debe legalizar en su territorio el robo de la obra de los creadores del mundo. Nuestra obra solo debe usarse para entrenar modelos de IA en Australia con nuestro permiso explícito."
-              },
-              {
-                "t": "p",
-                "x": "Esta declaración se publicará en línea junto con una lista de firmantes. Envíe el formulario de abajo para firmar ahora."
+                "x": "La empresa también usa un ABN de un negocio sin relación, y el patrimonio literario de Patrick White le ha pedido que deje de usar el nombre. Patrick White Publishing no respondió a las solicitudes de comentarios de ABC."
               }
             ]
           }
@@ -217,137 +229,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "호주, 저자 책으로\nAI 학습 허용 추진",
-          "body": "호주가 AI 기업의 저자 작품 무허가 학습을 국적 불문 허용하려 한다.",
-          "mini_headline": "호주, 무허가 AI 학습 추진",
+          "headline": "자비출판 작가들,\n부실·AI 그림 고발",
+          "body": "ABC는 Patrick White Publishing 표지에서 AI 흔적을 찾았다.",
+          "mini_headline": "Paid-publishing 출판사의 AI 그림 논란",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "호주 정부는 AI 기업이 모델 구축에 저자의 작품을 라이선스 없이 쓸 수 있도록 저작권법을 바꾸는 법안을 도입할 계획이라고 발표했다. 이 법은 미국을 포함해 세계 어느 나라 저자에게나 적용된다."
+                "t": "img",
+                "src": "https://live-production.wcms.abc-cdn.net.au/9666b581058d1af9ec9592941fe71f8a?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+                "cap": "Patrick White Publishing의 AI-generated 홍보 이미지. (Patrick White Publishing)"
               },
               {
                 "t": "p",
-                "x": "이 법안이 통과되면 AI 기업이 호주 땅에서 작업하는 한 여러분의 작품을 이용하는 것이 합법이 된다. AI 기업은 학습 작업만 호주로 옮기고 모델은 계속 미국(U.S.)에서 배포하면 되므로, 저자들이 AI 기업을 상대로 낸 소송과 보호 장치를 요구해 온 우리의 로비는 사실상 무력해진다."
+                "x": "온라인 후기는 긍정적이지만, 작가들은 Patrick White Publishing의 서비스 품질이 낮고 부정적인 댓글을 지우라는 압박까지 받았다고 비판한다. 이 회사는 AI-generated 삽화 값으로 작가들에게 수백 달러를 받고 있기도 하다."
               },
               {
                 "t": "p",
-                "x": "호주 정부는 저작권자가 자기 작품의 사용을 거부하는 opt-out을 허용할 계획이다. 그러나 opt-outs는 시행하기 어렵고, 거부 절차가 필요하다는 사실과 그 방법을 아는 극소수의 노련한 저작권자를 제외한 모든 이의 권리를 짓밟기 일쑤다. opt-out 방식은 누가 어떤 목적으로 작품을 쓸지 창작자가 통제하게 해 주는 저작권의 opt-in 라이선스를 대신할 수 없다."
+                "x": "Mudgee의 작가 Kerry Stewart는 $500를 냈지만 편집 과정에서 오히려 오류가 생겼다고 말한다. Melbourne의 작가 Tulin Salis는 $400 견적을 받은 뒤 $1899짜리 \"5-Star Ghostwriting Bundle\"을 제안받았다."
+              },
+              {
+                "t": "img",
+                "src": "https://live-production.wcms.abc-cdn.net.au/b06a09fe7be41183eb456f5c77af5584?impolicy=wcms_crop_resize&cropH=1077&cropW=1615&xPos=0&yPos=41&width=862&height=575",
+                "cap": "Hobart에 있는 Patrick White Publishing의 Google 등록 정보에 뜨는 AI-generated 이미지. (Patrick White Publishing)"
               },
               {
                 "t": "p",
-                "x": "Authors Guild는 전 세계 창작 산업 단체들과 함께 이 법안을 규탄하는 공개 성명을 조직했다. 성명 내용은 다음과 같다."
+                "x": "OpenAI 도구로 확인하면 Google Maps에 올라온 Hobart 매장 이미지에는 OpenAI 소프트웨어가 생성했다는 워터마크가 있다. 회사 웹사이트의 일부 책 표지에서도 OpenAI와 Google Gemini의 워터마크가 검출됐다. ABC가 검토한 작가 계약서에는 AI 삽화에 관한 언급이 없다."
               },
               {
                 "t": "p",
-                "x": "호주 정부는 자국 땅에서 세계 창작자들의 작품을 훔치는 행위를 합법화해서는 안 된다. 호주에서 우리의 작품을 AI 모델 학습에 쓰려면 반드시 우리의 명시적 허락을 받아야 한다."
-              },
-              {
-                "t": "p",
-                "x": "이 성명은 서명자 명단과 함께 온라인에 게재된다. 지금 서명하려면 아래 양식을 제출하면 된다."
+                "x": "회사는 무관한 업체의 ABN을 쓰고 있으며, Patrick White의 문학 유산 관리 측은 이름 사용을 멈추라고 요구했다. Patrick White Publishing은 ABC의 논평 요청에 답하지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "豪州、作家の本で\nAI学習を容認へ",
-          "body": "豪州は、AI企業が国籍を問わず作家の作品を無許諾で学習できる著作権法改正を計画している。",
-          "mini_headline": "豪州、無許諾のAI学習を検討",
+          "headline": "自費出版の著者ら\n粗悪対応とAI画像を告発",
+          "body": "著者がPatrick White Publishingを告発、ABCはAI透かしを確認した。",
+          "mini_headline": "Paid-publishing業者にAI画像疑惑",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "オーストラリア政府は、AI企業がモデル構築のために作家の作品をライセンスなしで利用できるよう著作権法を改正する法案を提出する計画を発表した。対象は米国を含む世界中の作家である。"
+                "t": "img",
+                "src": "https://live-production.wcms.abc-cdn.net.au/9666b581058d1af9ec9592941fe71f8a?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+                "cap": "Patrick White PublishingのAI-generated宣伝画像。(Patrick White Publishing)"
               },
               {
                 "t": "p",
-                "x": "法案が成立すれば、AI企業がオーストラリア国内で行う限り、あなたの作品を利用することが合法になる。AI企業は学習業務をオーストラリアに移しつつ、モデルは米国（U.S.）で引き続き展開すればよいため、作家たちがAI企業を相手に起こしてきた訴訟や、保護を求める私たちのロビー活動は事実上無力化される。"
+                "x": "オンラインでの評価は高いものの、著者らはPatrick White Publishingのサービスの質が低く、否定的なコメントの削除を迫られたと訴えている。同社はAI-generatedの挿絵の代金として著者に数百ドルを請求してもいる。"
               },
               {
                 "t": "p",
-                "x": "オーストラリア政府は著作権者が作品の利用を拒否できるopt-outを認める方針だが、opt-outsは実施が難しく、拒否の必要性とその方法を知るごく一部の熟練した著作権者以外の権利を踏みにじりがちだ。opt-out方式は、誰がどの目的で作品を使えるかを創作者が管理できる著作権のopt-inライセンスの代わりにはならない。"
+                "x": "Mudgeeの著者Kerry Stewartは$500を支払ったが、編集で誤りが増えたと話す。Melbourneの著者Tulin Salisは$400の見積もりを受けた後、$1899の\"5-Star Ghostwriting Bundle\"を勧められた。"
+              },
+              {
+                "t": "img",
+                "src": "https://live-production.wcms.abc-cdn.net.au/b06a09fe7be41183eb456f5c77af5584?impolicy=wcms_crop_resize&cropH=1077&cropW=1615&xPos=0&yPos=41&width=862&height=575",
+                "cap": "HobartのPatrick White PublishingのGoogle掲載情報に表示されるAI-generated画像。(Patrick White Publishing)"
               },
               {
                 "t": "p",
-                "x": "Authors Guildは、世界の創作産業の団体とともに、この法案を非難する公開声明の取りまとめに加わった。声明の内容は次のとおりである。"
+                "x": "OpenAIのツールによると、Google Maps上のHobartの店舗画像には同社ソフトウェアが生成したことを示す透かしがあり、同社サイトの一部の書籍表紙もOpenAIとGoogle Geminiの透かしで陽性となった。ABCが確認した著者契約にはAI挿絵への言及がない。"
               },
               {
                 "t": "p",
-                "x": "オーストラリア政府は、自国の地で世界の創作者の作品を盗む行為を合法化してはならない。オーストラリアで私たちの作品をAIモデルの学習に使うには、私たちの明示的な許可が必要である。"
-              },
-              {
-                "t": "p",
-                "x": "この声明は署名者の一覧とともにオンラインで公開される。今すぐ署名するには、下のフォームを送信してほしい。"
+                "x": "同社は無関係の事業者のABNを使っており、Patrick Whiteの文学遺産管理者は名称の使用中止を求めている。Patrick White PublishingはABCのコメント要請に応じなかった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "澳大利亚拟允许AI\n用作家作品训练",
-          "body": "澳大利亚计划修改版权法，让AI公司无论作者身在何处都可未经许可用其作品训练。",
-          "mini_headline": "澳大利亚拟放开无授权AI训练",
+          "headline": "自费出版作者指控\n服务差且用AI作图",
+          "body": "作者称Patrick White Publishing服务差，ABC于封面发现AI水印。",
+          "mini_headline": "Paid-publishing出版商陷AI图像争议",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "澳大利亚政府宣布，计划提出立法修改版权法，允许AI公司在未获授权的情况下使用作家作品构建模型。这将适用于世界各地的作家，包括美国作家。"
+                "t": "img",
+                "src": "https://live-production.wcms.abc-cdn.net.au/9666b581058d1af9ec9592941fe71f8a?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+                "cap": "Patrick White Publishing的AI-generated宣传图片。(Patrick White Publishing)"
               },
               {
                 "t": "p",
-                "x": "该立法将使AI公司在澳大利亚境内利用你的作品成为合法行为。AI公司只需把训练业务迁往澳大利亚，同时继续在美国（U.S.）部署模型，这实际上会架空作家们对AI公司提起的诉讼，以及我们争取保护的游说努力。"
+                "x": "尽管网上评价正面，作者们指责Patrick White Publishing服务质量低劣，并迫使他们删除负面评论。该公司还向作者收取数百美元的AI-generated插图费用。"
               },
               {
                 "t": "p",
-                "x": "澳大利亚政府计划允许版权所有者选择退出（opt-out），但opt-outs难以落实，往往碾压除极少数老练版权所有者之外所有人的权利——只有这些人知道需要退出以及如何退出。opt-out机制无法替代版权的opt-in授权，后者让创作者能够控制谁可以出于何种目的使用其作品。"
+                "x": "Mudgee作者Kerry Stewart支付了$500，称编辑反而引入了错误；Melbourne作者Tulin Salis先获得$400的报价，随后被推销$1899的\"5-Star Ghostwriting Bundle\"。"
+              },
+              {
+                "t": "img",
+                "src": "https://live-production.wcms.abc-cdn.net.au/b06a09fe7be41183eb456f5c77af5584?impolicy=wcms_crop_resize&cropH=1077&cropW=1615&xPos=0&yPos=41&width=862&height=575",
+                "cap": "Patrick White Publishing在Hobart的Google商家信息中出现这张AI-generated图片。(Patrick White Publishing)"
               },
               {
                 "t": "p",
-                "x": "Authors Guild已与全球创意产业的组织一道，发起一份谴责这项拟议立法的公开声明。声明全文如下："
+                "x": "一款OpenAI工具显示，Google Maps上Hobart门店的图片带有其软件生成的水印；该公司网站上的部分书籍封面也检测出OpenAI和Google Gemini的水印。ABC查阅的作者协议中并未提及AI插图。"
               },
               {
                 "t": "p",
-                "x": "澳大利亚政府不得将在其境内窃取全球创作者作品的行为合法化。在澳大利亚，我们的作品只有在获得我们明确许可的情况下，才能用于训练AI模型。"
-              },
-              {
-                "t": "p",
-                "x": "这份声明将连同签署者名单在网上发布。现在提交下方表格即可签署。"
+                "x": "该公司还使用一家无关企业的ABN，Patrick White的文学遗产管理方已要求其停止使用这一名称。Patrick White Publishing未回应ABC的置评请求。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Australia planea dejar entrenar\nla IA con libros de autores",
-          "body": "Australia prevé cambiar el copyright para que la IA entrene con obras de autores de cualquier país sin licencia.",
-          "mini_headline": "Australia y el entrenamiento de IA sin licencia",
+          "headline": "Autores de Paid-publishing\ndenuncian mal servicio y arte AI",
+          "body": "Autores que pagaron a Patrick White Publishing acusan mal servicio; ABC halló marcas de AI en portadas y locales.",
+          "mini_headline": "Editorial Paid-publishing, acusada de usar arte AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "El Gobierno australiano anunció que prevé presentar una ley que modificaría la normativa de derechos de autor para permitir que las empresas de IA usen obras de autores, sin licencia, para construir sus modelos. Se aplicaría a autores de cualquier parte del mundo, incluidos los Estados Unidos."
+                "t": "img",
+                "src": "https://live-production.wcms.abc-cdn.net.au/9666b581058d1af9ec9592941fe71f8a?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+                "cap": "Imagen promocional AI-generated de Patrick White Publishing. (Patrick White Publishing)"
               },
               {
                 "t": "p",
-                "x": "La ley haría legal que las empresas de IA explotaran su obra siempre que esa explotación se realizara en suelo australiano. En la práctica, anularía las demandas que los autores han presentado contra empresas de IA y nuestra labor de presión en favor de protecciones, ya que esas empresas simplemente trasladarían sus operaciones de entrenamiento a Australia mientras siguen desplegando los modelos en EE. UU. (U.S.)."
+                "x": "Pese a las reseñas positivas en internet, varios autores acusan a Patrick White Publishing de ofrecer un servicio de mala calidad y de presionarlos para retirar comentarios negativos. La empresa también cobra a los autores cientos de dólares por ilustraciones AI-generated."
               },
               {
                 "t": "p",
-                "x": "El Gobierno australiano prevé permitir que los titulares de derechos excluyan sus obras mediante opt-out, pero los opt-outs son difíciles de aplicar y a menudo arrasan con los derechos de todos salvo los titulares más sofisticados, que saben que deben excluirse y cómo hacerlo. Los sistemas de opt-out no sustituyen las licencias opt-in del derecho de autor, que permiten a los creadores controlar quién usa su obra y con qué fines."
+                "x": "En Mudgee, el autor Kerry Stewart pagó $500 y afirma que la edición introdujo errores; en Melbourne, al autor Tulin Salis le presupuestaron $400 y después le ofrecieron un \"5-Star Ghostwriting Bundle\" de $1899."
+              },
+              {
+                "t": "img",
+                "src": "https://live-production.wcms.abc-cdn.net.au/b06a09fe7be41183eb456f5c77af5584?impolicy=wcms_crop_resize&cropH=1077&cropW=1615&xPos=0&yPos=41&width=862&height=575",
+                "cap": "La ficha de Google de Patrick White Publishing en Hobart muestra esta imagen AI-generated. (Patrick White Publishing)"
               },
               {
                 "t": "p",
-                "x": "La Authors Guild se ha sumado a organizaciones de las industrias creativas de todo el mundo para impulsar una declaración pública que condena esta ley prevista. Dice así:"
+                "x": "Una herramienta de OpenAI indica que la imagen de la tienda de Hobart en Google Maps lleva una marca de agua generada por su software, y algunas portadas del sitio web de la empresa dan positivo en marcas de agua de OpenAI y Google Gemini. Los contratos de autor revisados por ABC no mencionan ilustraciones con AI."
               },
               {
                 "t": "p",
-                "x": "El Gobierno australiano no debe legalizar en su territorio el robo de la obra de los creadores del mundo. Nuestra obra solo debe usarse para entrenar modelos de IA en Australia con nuestro permiso explícito."
-              },
-              {
-                "t": "p",
-                "x": "Esta declaración se publicará en línea junto con una lista de firmantes. Envíe el formulario de abajo para firmar ahora."
+                "x": "La empresa también usa un ABN de un negocio sin relación, y el patrimonio literario de Patrick White le ha pedido que deje de usar el nombre. Patrick White Publishing no respondió a las solicitudes de comentarios de ABC."
               }
             ]
           }
@@ -355,213 +375,225 @@
       }
     },
     {
-      "id": "books-chakrabarty-dropped",
+      "id": "books-zlibrary-paper-fake-citation",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "OpenAI 소송서\n시장 희석 연구 제외",
-      "body": "OpenAI 소송 원고 측이 Chakrabarty 논문 증거 제외를 받아들였다.",
-      "mini_headline": "OpenAI 소송서 빠진 Chakrabarty 논문",
+      "headline": "AI-assisted 논문\n없는 기사 인용",
+      "body": "AI를 쓴 Z-Library 논문이 없는 TorrentFreak 기사를 인용했다.",
+      "mini_headline": "논문이 인용한 유령 기사",
       "tool": "Books",
-      "source": "ALLi (Self-Publishing Advice Center)",
-      "url": "https://selfpublishingadvice.org/chakrabarty-paper-dropped-from-openai-suit/",
+      "source": "TorrentFreak",
+      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "나이지리아 대학의 사서 두 명이 이달 학술지 New Review of Academic Librarianship에 발표한 Z-Library 논문이 존재하지 않는 2021년 TorrentFreak 기사를 인용했다."
+          },
+          {
             "t": "img",
-            "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/10/News-October-22.jpg"
+            "src": "https://torrentfreak.com/images/zlib-paper-claim.png",
+            "cap": "문제의 주장"
           },
           {
             "t": "p",
-            "x": "월요일에 이어 AI 후속 소식이 하나 더 있다. OpenAI를 상대로 진행 중인 저작권 소송에서, 원고 측이 Dr. Tuhin Chakrabarty의 시장 희석 논문에 기대지 못하게 해 달라며 OpenAI가 낸 신청 건이다. 이 논문은 널리 인용돼 왔다."
+            "x": "참고문헌 \"Publishers continue crackdown on shadow libraries\"는 TorrentFreak 홈페이지로 연결되지만, 그런 제목의 기사는 게재된 적이 없다. TorrentFreak는 논문의 참고문헌 44건 가운데 적어도 열 건을 찾지 못했다."
+          },
+          {
+            "t": "img",
+            "src": "https://torrentfreak.com/images/citations-600x314.png",
+            "cap": "일부 참고문헌"
           },
           {
             "t": "p",
-            "x": "Chakrabarty는 이 연구에서 생성형 AI가 시장 희석을 일으키고 있고, 그 탓에 창작자가 상당한 경제적 피해를 입을 수 있다고 주장한다."
+            "x": "감사의 글에는 문헌 검토에 Consensus AI를, 문장 다듬기에 ChatGPT를 썼다고 적혀 있다. AI 챗봇이 참고문헌을 지어낸다는 건 잘 알려진 일이지만 그것만으로 AI가 참고문헌을 썼다는 증거가 되지는 않는다. Pangram은 초록과 결론을 두고 \"텍스트의 100%가 AI-generated일 가능성이 높다\"고 판정했다."
           },
           {
             "t": "p",
-            "x": "OpenAI는 이 연구가 원고 측 대리 로펌 Susman Godfrey의 자금을 받았다고 문제 삼았다. 그러니 자사를 상대로 한 소송에서 법원이 이 논문을 고려해서는 안 된다는 주장이다."
-          },
-          {
-            "t": "p",
-            "x": "Chakrabarty는 선서 진술서에서 이를 부인했다. 하지만 원고 측이 AI 측 신청에 반대하지 않으면서 Chakrabarty의 논문은 제출 증거에서 빠졌다."
-          },
-          {
-            "t": "p",
-            "x": "압박받는 번역가들: 프랑크푸르트에서 공개된 유럽문학번역가협회연합(CEATL)의 2026년 설문조사 결과, 응답자 1,785명 가운데 77%가 업계 안의 생성형 AI를 부정적으로 봤다. 셋 중 한 명 이상은 일을 그만둘까 생각해 본 적이 있었다. 30퍼센트는 일감이 줄었다며 AI 사용 증가를 원인으로 꼽았다."
+            "x": "Taylor & Francis는 이 사안을 Editorial and Publishing Ethics & Integrity 팀에 넘겼다고 밝혔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Market dilution study dropped\nfrom OpenAI copyright case",
-          "body": "Plaintiffs suing OpenAI over copyright have let the Chakrabarty market dilution paper be dropped from the evidence.",
-          "mini_headline": "Chakrabarty paper\nout of OpenAI suit",
+          "headline": "AI-assisted paper cites\nan article that doesn't exist",
+          "body": "A paper on Z-Library written with disclosed AI help cites a TorrentFreak article that does not exist.",
+          "mini_headline": "Paper cites\na ghost article",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "A paper on Z-Library, published this month in the journal New Review of Academic Librarianship by two librarians at Nigerian universities, cites a 2021 TorrentFreak article that doesn't exist."
+              },
+              {
                 "t": "img",
-                "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/10/News-October-22.jpg"
+                "src": "https://torrentfreak.com/images/zlib-paper-claim.png",
+                "cap": "The claim"
               },
               {
                 "t": "p",
-                "x": "Following from Monday, there is another AI story follow-up. This one relates to the current copyright case against OpenAI, and the motion brought by OpenAI to bar any reliance by those bringing the suit on Dr. Tuhin Chakrabarty's widely cited paper on market dilution."
+                "x": "The reference, \"Publishers continue crackdown on shadow libraries,\" links to the TorrentFreak homepage, but no article with that title was ever published. In total, TorrentFreak had trouble finding at least ten of the 44 references in the paper."
+              },
+              {
+                "t": "img",
+                "src": "https://torrentfreak.com/images/citations-600x314.png",
+                "cap": "Some references"
               },
               {
                 "t": "p",
-                "x": "Chakrabarty's study makes the case that generative AI is leading to market dilution that has the potential to cause significant economic harm to creators."
+                "x": "The acknowledgements say Consensus AI was used to sift through literature and ChatGPT to improve the language. AI chatbots are known to invent references, though this doesn't prove AI wrote them. Pangram reported the abstract and conclusion as \"100% of the text is likely AI-generated.\""
               },
               {
                 "t": "p",
-                "x": "OpenAI had argued that the paper should not be considered by the court ruling in a case brought against it because, it alleged, the work was funded by Susman Godfrey, the firm acting for the plaintiffs in the case."
-              },
-              {
-                "t": "p",
-                "x": "Chakrabarty has denied this in a sworn declaration. But those bringing the case have not sought to oppose AI's motion, and Chakrabarty's article has been dropped from the evidence submitted."
-              },
-              {
-                "t": "p",
-                "x": "Translators Feel the Squeeze: at Frankfurt, the 2026 survey of the European Council of Literary Translators' Associations (CEATL), with 1,785 respondents, found 77% reporting negative attitudes to generative AI within the industry and more than a third having considered leaving their profession. 30 percent reported a drop in assignments, which they attributed to the growing use of AI."
+                "x": "Taylor & Francis says the matter has been referred to its Editorial and Publishing Ethics & Integrity teams."
               }
             ]
           }
         },
         "ko": {
-          "headline": "OpenAI 소송서\n시장 희석 연구 제외",
-          "body": "OpenAI 소송 원고 측이 Chakrabarty 논문 증거 제외를 받아들였다.",
-          "mini_headline": "OpenAI 소송서 빠진 Chakrabarty 논문",
+          "headline": "AI-assisted 논문\n없는 기사 인용",
+          "body": "AI를 쓴 Z-Library 논문이 없는 TorrentFreak 기사를 인용했다.",
+          "mini_headline": "논문이 인용한 유령 기사",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "나이지리아 대학의 사서 두 명이 이달 학술지 New Review of Academic Librarianship에 발표한 Z-Library 논문이 존재하지 않는 2021년 TorrentFreak 기사를 인용했다."
+              },
+              {
                 "t": "img",
-                "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/10/News-October-22.jpg"
+                "src": "https://torrentfreak.com/images/zlib-paper-claim.png",
+                "cap": "문제의 주장"
               },
               {
                 "t": "p",
-                "x": "월요일에 이어 AI 후속 소식이 하나 더 있다. OpenAI를 상대로 진행 중인 저작권 소송에서, 원고 측이 Dr. Tuhin Chakrabarty의 시장 희석 논문에 기대지 못하게 해 달라며 OpenAI가 낸 신청 건이다. 이 논문은 널리 인용돼 왔다."
+                "x": "참고문헌 \"Publishers continue crackdown on shadow libraries\"는 TorrentFreak 홈페이지로 연결되지만, 그런 제목의 기사는 게재된 적이 없다. TorrentFreak는 논문의 참고문헌 44건 가운데 적어도 열 건을 찾지 못했다."
+              },
+              {
+                "t": "img",
+                "src": "https://torrentfreak.com/images/citations-600x314.png",
+                "cap": "일부 참고문헌"
               },
               {
                 "t": "p",
-                "x": "Chakrabarty는 이 연구에서 생성형 AI가 시장 희석을 일으키고 있고, 그 탓에 창작자가 상당한 경제적 피해를 입을 수 있다고 주장한다."
+                "x": "감사의 글에는 문헌 검토에 Consensus AI를, 문장 다듬기에 ChatGPT를 썼다고 적혀 있다. AI 챗봇이 참고문헌을 지어낸다는 건 잘 알려진 일이지만 그것만으로 AI가 참고문헌을 썼다는 증거가 되지는 않는다. Pangram은 초록과 결론을 두고 \"텍스트의 100%가 AI-generated일 가능성이 높다\"고 판정했다."
               },
               {
                 "t": "p",
-                "x": "OpenAI는 이 연구가 원고 측 대리 로펌 Susman Godfrey의 자금을 받았다고 문제 삼았다. 그러니 자사를 상대로 한 소송에서 법원이 이 논문을 고려해서는 안 된다는 주장이다."
-              },
-              {
-                "t": "p",
-                "x": "Chakrabarty는 선서 진술서에서 이를 부인했다. 하지만 원고 측이 AI 측 신청에 반대하지 않으면서 Chakrabarty의 논문은 제출 증거에서 빠졌다."
-              },
-              {
-                "t": "p",
-                "x": "압박받는 번역가들: 프랑크푸르트에서 공개된 유럽문학번역가협회연합(CEATL)의 2026년 설문조사 결과, 응답자 1,785명 가운데 77%가 업계 안의 생성형 AI를 부정적으로 봤다. 셋 중 한 명 이상은 일을 그만둘까 생각해 본 적이 있었다. 30퍼센트는 일감이 줄었다며 AI 사용 증가를 원인으로 꼽았다."
+                "x": "Taylor & Francis는 이 사안을 Editorial and Publishing Ethics & Integrity 팀에 넘겼다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "OpenAI訴訟から\n市場希釈論文が除外",
-          "body": "OpenAIを訴える原告側が、Chakrabartyの市場希釈論文の証拠除外を容認した。",
-          "mini_headline": "Chakrabarty論文、OpenAI訴訟から外れる",
+          "headline": "AI-assisted論文が\n存在しない記事を引用",
+          "body": "AI利用を明かしたZ-Library論文が実在しないTorrentFreak記事を引用した。",
+          "mini_headline": "論文が幻の記事を引用",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "ナイジェリアの大学に勤める二人の図書館員が今月、学術誌New Review of Academic Librarianshipに発表したZ-Libraryに関する論文が、存在しない2021年のTorrentFreak記事を引用している。"
+              },
+              {
                 "t": "img",
-                "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/10/News-October-22.jpg"
+                "src": "https://torrentfreak.com/images/zlib-paper-claim.png",
+                "cap": "問題の記述"
               },
               {
                 "t": "p",
-                "x": "月曜日に続き、AI関連の続報がもう一つある。今回はOpenAIを相手取った現在の著作権訴訟と、原告側がDr. Tuhin Chakrabartyの広く引用される市場希釈に関する論文に依拠することを禁じるようOpenAIが出した申し立てに関するものだ。"
+                "x": "参考文献\"Publishers continue crackdown on shadow libraries\"はTorrentFreakのトップページにリンクしているが、その題の記事が掲載されたことはない。TorrentFreakは論文の参考文献44件のうち、少なくとも十件を見つけられなかった。"
+              },
+              {
+                "t": "img",
+                "src": "https://torrentfreak.com/images/citations-600x314.png",
+                "cap": "参考文献の一部"
               },
               {
                 "t": "p",
-                "x": "Chakrabartyの研究は、生成AIが市場希釈を引き起こしており、創作者に重大な経済的損害を与える可能性があると論じている。"
+                "x": "謝辞には、文献の精査にConsensus AIを、文章の改善にChatGPTを使ったとある。AIチャットボットは参考文献を捏造することで知られるが、これはAIが書いた証拠にはならない。Pangramは要旨と結論について「テキストの100%がAI-generatedである可能性が高い」と判定した。"
               },
               {
                 "t": "p",
-                "x": "OpenAIは、この研究が訴訟の原告側代理人を務める法律事務所Susman Godfreyの資金提供を受けたと主張し、自社を相手取った訴訟で裁判所がこの論文を考慮すべきではないと訴えていた。"
-              },
-              {
-                "t": "p",
-                "x": "Chakrabartyは宣誓供述書でこれを否定した。しかし原告側はAIの申し立てに反対せず、Chakrabartyの論文は提出証拠から外された。"
-              },
-              {
-                "t": "p",
-                "x": "苦境に立つ翻訳者たち：フランクフルトで発表された欧州文芸翻訳者協会評議会（CEATL）の2026年調査では、回答者1,785人のうち77%が業界内の生成AIに否定的な態度を示し、三分の一以上が職業を離れることを考えたことがあった。30パーセントは仕事の依頼が減ったと答え、その原因をAI利用の拡大に求めた。"
+                "x": "Taylor & Francisは、この件をEditorial and Publishing Ethics & Integrityチームに回付したとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "市场稀释研究\n撤出OpenAI版权案",
-          "body": "起诉OpenAI侵犯版权的原告方，已任由Chakrabarty的市场稀释论文被撤出证据。",
-          "mini_headline": "Chakrabarty论文退出OpenAI诉讼",
+          "headline": "AI-assisted论文\n引用了不存在的文章",
+          "body": "一篇披露使用AI的Z-Library论文引用了不存在的TorrentFreak文章。",
+          "mini_headline": "论文引用幽灵文章",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "尼日利亚高校的两名图书馆员本月在期刊New Review of Academic Librarianship上发表了一篇关于Z-Library的论文，其中引用了一篇并不存在的2021年TorrentFreak文章。"
+              },
+              {
                 "t": "img",
-                "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/10/News-October-22.jpg"
+                "src": "https://torrentfreak.com/images/zlib-paper-claim.png",
+                "cap": "相关说法"
               },
               {
                 "t": "p",
-                "x": "继周一之后，又有一则AI相关的后续消息。这次涉及目前针对OpenAI的版权诉讼，以及OpenAI提出的一项动议：禁止原告方援引Dr. Tuhin Chakrabarty那篇被广泛引用的市场稀释论文。"
+                "x": "该参考文献题为\"Publishers continue crackdown on shadow libraries\"，链接指向TorrentFreak首页，但从未发表过这一标题的文章。在论文的44条参考文献中，TorrentFreak至少有十条难以找到。"
+              },
+              {
+                "t": "img",
+                "src": "https://torrentfreak.com/images/citations-600x314.png",
+                "cap": "部分参考文献"
               },
               {
                 "t": "p",
-                "x": "Chakrabarty的研究认为，生成式AI正在导致市场稀释，并可能给创作者造成重大经济损失。"
+                "x": "致谢部分称，作者使用Consensus AI筛选文献，使用ChatGPT润色语言。AI聊天机器人会编造参考文献，这一点众所周知，但这并不能证明参考文献出自AI。Pangram判定摘要和结论\"100%的文本很可能是AI-generated\"。"
               },
               {
                 "t": "p",
-                "x": "OpenAI此前辩称，法院在审理针对其提起的诉讼时不应考虑这篇论文，理由是该研究据称由本案原告的代理律所Susman Godfrey资助。"
-              },
-              {
-                "t": "p",
-                "x": "Chakrabarty已在宣誓声明中否认这一说法。但原告方并未反对AI方面的动议，Chakrabarty的论文已从提交的证据中撤出。"
-              },
-              {
-                "t": "p",
-                "x": "译者承压：在法兰克福，欧洲文学翻译协会理事会（CEATL）2026年的调查共有1,785名受访者，其中77%对业内的生成式AI持负面态度，超过三分之一曾考虑离开这一职业。百分之三十的人表示接到的委托减少，并将其归因于AI使用的增加。"
+                "x": "Taylor & Francis表示，此事已提交其Editorial and Publishing Ethics & Integrity团队处理。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Sale del caso OpenAI el estudio\nsobre dilución del mercado",
-          "body": "Quienes demandan a OpenAI dejaron que el estudio de Chakrabarty sobre dilución del mercado saliera de las pruebas.",
-          "mini_headline": "El estudio de Chakrabarty sale del caso OpenAI",
+          "headline": "Un estudio AI-assisted cita\nun artículo que no existe",
+          "body": "Un estudio sobre Z-Library, escrito con ayuda declarada de AI, cita un artículo de TorrentFreak que no existe.",
+          "mini_headline": "Un estudio cita un artículo fantasma",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Un estudio sobre Z-Library, publicado este mes en la revista New Review of Academic Librarianship por dos bibliotecarios de universidades nigerianas, cita un artículo de TorrentFreak de 2021 que no existe."
+              },
+              {
                 "t": "img",
-                "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/10/News-October-22.jpg"
+                "src": "https://torrentfreak.com/images/zlib-paper-claim.png",
+                "cap": "La afirmación"
               },
               {
                 "t": "p",
-                "x": "Tras lo del lunes, hay otra actualización sobre IA. Esta tiene que ver con el actual caso de copyright contra OpenAI y con la moción presentada por OpenAI para impedir que los demandantes se apoyen en el muy citado estudio del Dr. Tuhin Chakrabarty sobre la dilución del mercado."
+                "x": "La referencia, \"Publishers continue crackdown on shadow libraries\", enlaza a la página principal de TorrentFreak, pero nunca se publicó un artículo con ese título. En total, TorrentFreak tuvo dificultades para encontrar al menos diez de las 44 referencias del estudio."
+              },
+              {
+                "t": "img",
+                "src": "https://torrentfreak.com/images/citations-600x314.png",
+                "cap": "Algunas referencias"
               },
               {
                 "t": "p",
-                "x": "El estudio de Chakrabarty sostiene que la IA generativa está provocando una dilución del mercado que puede causar un daño económico significativo a los creadores."
+                "x": "Los agradecimientos indican que se usó Consensus AI para revisar la literatura y ChatGPT para mejorar la redacción. Se sabe que los chatbots de AI inventan referencias, aunque esto no prueba que la AI las haya escrito. Pangram calificó el resumen y la conclusión con \"es probable que el 100% del texto sea AI-generated\"."
               },
               {
                 "t": "p",
-                "x": "OpenAI había argumentado que el tribunal no debía tener en cuenta el estudio en un caso presentado en su contra porque, según alegó, el trabajo fue financiado por Susman Godfrey, el bufete que representa a los demandantes."
-              },
-              {
-                "t": "p",
-                "x": "Chakrabarty lo ha negado en una declaración jurada. Pero los demandantes no se han opuesto a la moción de la IA, y el artículo de Chakrabarty ha quedado fuera de las pruebas presentadas."
-              },
-              {
-                "t": "p",
-                "x": "Los traductores, bajo presión: en Fráncfort, la encuesta de 2026 del Consejo Europeo de Asociaciones de Traductores Literarios (CEATL), con 1,785 encuestados, halló que el 77% expresa actitudes negativas hacia la IA generativa en el sector y que más de un tercio ha pensado en dejar su profesión. El 30 por ciento señaló una caída en los encargos, que atribuyó al uso creciente de la IA."
+                "x": "Taylor & Francis afirma que el asunto se remitió a sus equipos de Editorial and Publishing Ethics & Integrity."
               }
             ]
           }
@@ -569,137 +601,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "OpenAI 소송서\n시장 희석 연구 제외",
-          "body": "OpenAI 소송 원고가 Chakrabarty 논문의 증거 제외를 받아들였다.",
-          "mini_headline": "OpenAI 소송서 빠진 Chakrabarty 논문",
+          "headline": "AI-assisted 논문\n없는 기사 인용",
+          "body": "AI를 쓴 Z-Library 논문이 없는 TorrentFreak 기사를 인용했다.",
+          "mini_headline": "논문이 인용한 유령 기사",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "나이지리아 대학의 사서 두 명이 이달 학술지 New Review of Academic Librarianship에 발표한 Z-Library 논문이 존재하지 않는 2021년 TorrentFreak 기사를 인용했다."
+              },
+              {
                 "t": "img",
-                "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/10/News-October-22.jpg"
+                "src": "https://torrentfreak.com/images/zlib-paper-claim.png",
+                "cap": "문제의 주장"
               },
               {
                 "t": "p",
-                "x": "월요일에 이어 또 하나의 AI 후속 소식이다. 이번 건은 OpenAI를 상대로 진행 중인 저작권 소송, 그리고 원고 측이 Dr. Tuhin Chakrabarty의 널리 인용된 시장 희석 논문에 기대지 못하도록 OpenAI가 낸 신청과 관련이 있다."
+                "x": "참고문헌 \"Publishers continue crackdown on shadow libraries\"는 TorrentFreak 홈페이지로 연결되지만, 그런 제목의 기사는 게재된 적이 없다. TorrentFreak는 논문의 참고문헌 44건 가운데 적어도 열 건을 찾지 못했다."
+              },
+              {
+                "t": "img",
+                "src": "https://torrentfreak.com/images/citations-600x314.png",
+                "cap": "일부 참고문헌"
               },
               {
                 "t": "p",
-                "x": "Chakrabarty의 연구는 생성형 AI가 시장 희석을 일으키고 있으며, 이것이 창작자에게 상당한 경제적 피해를 줄 수 있다고 주장한다."
+                "x": "감사의 글에는 문헌 검토에 Consensus AI를, 문장 다듬기에 ChatGPT를 썼다고 적혀 있다. AI 챗봇이 참고문헌을 지어낸다는 사실은 잘 알려져 있지만, 그것만으로 AI가 참고문헌을 썼다고 증명되지는 않는다. Pangram은 초록과 결론을 두고 \"텍스트의 100%가 AI-generated일 가능성이 높다\"고 판정했다."
               },
               {
                 "t": "p",
-                "x": "OpenAI는 이 연구가 소송 원고 측을 대리하는 로펌 Susman Godfrey의 자금을 받았다며, 자사를 상대로 한 소송에서 법원이 이 논문을 고려해서는 안 된다고 주장했다."
-              },
-              {
-                "t": "p",
-                "x": "Chakrabarty는 선서 진술서에서 이를 부인했다. 그러나 원고 측은 AI 측의 신청에 반대하지 않았고, Chakrabarty의 논문은 제출 증거에서 빠졌다."
-              },
-              {
-                "t": "p",
-                "x": "압박받는 번역가들: 프랑크푸르트에서 공개된 유럽문학번역가협회연합(CEATL)의 2026년 설문조사에 따르면, 응답자 1,785명 가운데 77%가 업계 내 생성형 AI에 부정적 태도를 보였고, 셋 중 한 명 이상은 직업을 떠나는 것을 고려한 적이 있었다. 30퍼센트는 일감이 줄었다고 답했으며, 그 원인으로 AI 사용 증가를 꼽았다."
+                "x": "Taylor & Francis는 이 사안을 Editorial and Publishing Ethics & Integrity 팀에 넘겼다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "OpenAI訴訟から\n市場希釈論文が除外",
-          "body": "OpenAIを訴える原告側が、Chakrabartyの市場希釈論文の証拠除外を容認した。",
-          "mini_headline": "Chakrabarty論文、OpenAI訴訟から外れる",
+          "headline": "AI-assisted論文が\n存在しない記事を引用",
+          "body": "AI利用を明かしたZ-Library論文が実在しないTorrentFreak記事を引用した。",
+          "mini_headline": "論文が幻の記事を引用",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "ナイジェリアの大学に勤める二人の図書館員が今月、学術誌New Review of Academic Librarianshipに発表したZ-Libraryに関する論文が、存在しない2021年のTorrentFreak記事を引用している。"
+              },
+              {
                 "t": "img",
-                "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/10/News-October-22.jpg"
+                "src": "https://torrentfreak.com/images/zlib-paper-claim.png",
+                "cap": "問題の記述"
               },
               {
                 "t": "p",
-                "x": "月曜日に続き、AI関連の続報がもう一つある。今回はOpenAIを相手取った現在の著作権訴訟と、原告側がDr. Tuhin Chakrabartyの広く引用される市場希釈に関する論文に依拠することを禁じるようOpenAIが出した申し立てに関するものだ。"
+                "x": "参考文献\"Publishers continue crackdown on shadow libraries\"はTorrentFreakのトップページにリンクしているが、その題の記事が掲載されたことはない。TorrentFreakは論文の参考文献44件のうち、少なくとも十件を見つけられなかった。"
+              },
+              {
+                "t": "img",
+                "src": "https://torrentfreak.com/images/citations-600x314.png",
+                "cap": "参考文献の一部"
               },
               {
                 "t": "p",
-                "x": "Chakrabartyの研究は、生成AIが市場希釈を引き起こしており、創作者に重大な経済的損害を与える可能性があると論じている。"
+                "x": "謝辞には、文献の精査にConsensus AIを、文章の改善にChatGPTを使ったとある。AIチャットボットは参考文献を捏造することで知られるが、これはAIが書いた証拠にはならない。Pangramは要旨と結論について「テキストの100%がAI-generatedである可能性が高い」と判定した。"
               },
               {
                 "t": "p",
-                "x": "OpenAIは、この研究が訴訟の原告側代理人を務める法律事務所Susman Godfreyの資金提供を受けたと主張し、自社を相手取った訴訟で裁判所がこの論文を考慮すべきではないと訴えていた。"
-              },
-              {
-                "t": "p",
-                "x": "Chakrabartyは宣誓供述書でこれを否定した。しかし原告側はAIの申し立てに反対せず、Chakrabartyの論文は提出証拠から外された。"
-              },
-              {
-                "t": "p",
-                "x": "苦境に立つ翻訳者たち：フランクフルトで発表された欧州文芸翻訳者協会評議会（CEATL）の2026年調査では、回答者1,785人のうち77%が業界内の生成AIに否定的な態度を示し、三分の一以上が職業を離れることを考えたことがあった。30パーセントは仕事の依頼が減ったと答え、その原因をAI利用の拡大に求めた。"
+                "x": "Taylor & Francisは、この件をEditorial and Publishing Ethics & Integrityチームに回付したとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "市场稀释研究\n撤出OpenAI版权案",
-          "body": "起诉OpenAI侵犯版权的原告方，已任由Chakrabarty的市场稀释论文被撤出证据。",
-          "mini_headline": "Chakrabarty论文退出OpenAI诉讼",
+          "headline": "AI-assisted论文\n引用了不存在的文章",
+          "body": "一篇披露使用AI的Z-Library论文引用了不存在的TorrentFreak文章。",
+          "mini_headline": "论文引用幽灵文章",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "尼日利亚高校的两名图书馆员本月在期刊New Review of Academic Librarianship上发表了一篇关于Z-Library的论文，其中引用了一篇并不存在的2021年TorrentFreak文章。"
+              },
+              {
                 "t": "img",
-                "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/10/News-October-22.jpg"
+                "src": "https://torrentfreak.com/images/zlib-paper-claim.png",
+                "cap": "相关说法"
               },
               {
                 "t": "p",
-                "x": "继周一之后，又有一则AI相关的后续消息。这次涉及目前针对OpenAI的版权诉讼，以及OpenAI提出的一项动议：禁止原告方援引Dr. Tuhin Chakrabarty那篇被广泛引用的市场稀释论文。"
+                "x": "该参考文献题为\"Publishers continue crackdown on shadow libraries\"，链接指向TorrentFreak首页，但从未发表过这一标题的文章。在论文的44条参考文献中，TorrentFreak至少有十条难以找到。"
+              },
+              {
+                "t": "img",
+                "src": "https://torrentfreak.com/images/citations-600x314.png",
+                "cap": "部分参考文献"
               },
               {
                 "t": "p",
-                "x": "Chakrabarty的研究认为，生成式AI正在导致市场稀释，并可能给创作者造成重大经济损失。"
+                "x": "致谢部分称，作者使用Consensus AI筛选文献，使用ChatGPT润色语言。AI聊天机器人会编造参考文献，这一点众所周知，但这并不能证明参考文献出自AI。Pangram判定摘要和结论\"100%的文本很可能是AI-generated\"。"
               },
               {
                 "t": "p",
-                "x": "OpenAI此前辩称，法院在审理针对其提起的诉讼时不应考虑这篇论文，理由是该研究据称由本案原告的代理律所Susman Godfrey资助。"
-              },
-              {
-                "t": "p",
-                "x": "Chakrabarty已在宣誓声明中否认这一说法。但原告方并未反对AI方面的动议，Chakrabarty的论文已从提交的证据中撤出。"
-              },
-              {
-                "t": "p",
-                "x": "译者承压：在法兰克福，欧洲文学翻译协会理事会（CEATL）2026年的调查共有1,785名受访者，其中77%对业内的生成式AI持负面态度，超过三分之一曾考虑离开这一职业。百分之三十的人表示接到的委托减少，并将其归因于AI使用的增加。"
+                "x": "Taylor & Francis表示，此事已提交其Editorial and Publishing Ethics & Integrity团队处理。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Sale del caso OpenAI el estudio\nsobre dilución del mercado",
-          "body": "Quienes demandan a OpenAI dejaron que el estudio de Chakrabarty sobre dilución del mercado saliera de las pruebas.",
-          "mini_headline": "El estudio de Chakrabarty sale del caso OpenAI",
+          "headline": "Un estudio AI-assisted cita\nun artículo que no existe",
+          "body": "Un estudio sobre Z-Library, escrito con ayuda declarada de AI, cita un artículo de TorrentFreak que no existe.",
+          "mini_headline": "Un estudio cita un artículo fantasma",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Un estudio sobre Z-Library, publicado este mes en la revista New Review of Academic Librarianship por dos bibliotecarios de universidades nigerianas, cita un artículo de TorrentFreak de 2021 que no existe."
+              },
+              {
                 "t": "img",
-                "src": "https://selfpublishingadvice.org/wp-content/uploads/2026/10/News-October-22.jpg"
+                "src": "https://torrentfreak.com/images/zlib-paper-claim.png",
+                "cap": "La afirmación"
               },
               {
                 "t": "p",
-                "x": "Tras lo del lunes, hay otra actualización sobre IA. Esta tiene que ver con el actual caso de copyright contra OpenAI y con la moción presentada por OpenAI para impedir que los demandantes se apoyen en el muy citado estudio del Dr. Tuhin Chakrabarty sobre la dilución del mercado."
+                "x": "La referencia, \"Publishers continue crackdown on shadow libraries\", enlaza a la página principal de TorrentFreak, pero nunca se publicó un artículo con ese título. En total, TorrentFreak tuvo dificultades para encontrar al menos diez de las 44 referencias del estudio."
+              },
+              {
+                "t": "img",
+                "src": "https://torrentfreak.com/images/citations-600x314.png",
+                "cap": "Algunas referencias"
               },
               {
                 "t": "p",
-                "x": "El estudio de Chakrabarty sostiene que la IA generativa está provocando una dilución del mercado que puede causar un daño económico significativo a los creadores."
+                "x": "Los agradecimientos indican que se usó Consensus AI para revisar la literatura y ChatGPT para mejorar la redacción. Se sabe que los chatbots de AI inventan referencias, aunque esto no prueba que la AI las haya escrito. Pangram calificó el resumen y la conclusión con \"es probable que el 100% del texto sea AI-generated\"."
               },
               {
                 "t": "p",
-                "x": "OpenAI había argumentado que el tribunal no debía tener en cuenta el estudio en un caso presentado en su contra porque, según alegó, el trabajo fue financiado por Susman Godfrey, el bufete que representa a los demandantes."
-              },
-              {
-                "t": "p",
-                "x": "Chakrabarty lo ha negado en una declaración jurada. Pero los demandantes no se han opuesto a la moción de la IA, y el artículo de Chakrabarty ha quedado fuera de las pruebas presentadas."
-              },
-              {
-                "t": "p",
-                "x": "Los traductores, bajo presión: en Fráncfort, la encuesta de 2026 del Consejo Europeo de Asociaciones de Traductores Literarios (CEATL), con 1,785 encuestados, halló que el 77% expresa actitudes negativas hacia la IA generativa en el sector y que más de un tercio ha pensado en dejar su profesión. El 30 por ciento señaló una caída en los encargos, que atribuyó al uso creciente de la IA."
+                "x": "Taylor & Francis afirma que el asunto se remitió a sus equipos de Editorial and Publishing Ethics & Integrity."
               }
             ]
           }
@@ -707,141 +747,195 @@
       }
     },
     {
-      "id": "books-novelcrafter-gemini-argon",
+      "id": "books-publishers-trust-not-ai-detectors",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Gemini Argon용\n글쓰기 프롬프트 실험",
-      "body": "Novelcrafter가 Google Gemini Argon용 프롬프트를 시험한다.",
-      "mini_headline": "Gemini Argon 글쓰기 프롬프트",
+      "headline": "캐나다 출판사, AI를\n기술 대신 신뢰로 거른다",
+      "body": "AI 탐지기가 미덥지 않아 Coach House Books 등은 신뢰에 기댄다.",
+      "mini_headline": "출판사들, 신뢰로 AI를 거르다",
       "tool": "Books",
-      "source": "Novelcrafter (YouTube)",
-      "url": "https://www.youtube.com/watch?v=eLQESMPS8Bc",
+      "source": "The Canadian Press",
+      "url": "https://www.msn.com/en-ca/technology/artificial-intelligence/publishers-rely-on-trust-not-tech-to-ensure-books-aren-t-ai-generated/ar-AA2fWHju",
       "accent": "#7928ca",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "video",
-            "yt": "eLQESMPS8Bc"
+            "t": "img",
+            "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fVY8R.img",
+            "cap": "Toronto의 North York Central Library 서가에 꽂힌 책들. THE CANADIAN PRESS/Chris Young"
           },
           {
             "t": "p",
-            "x": "Gemini Argon용 글쓰기 프롬프트 만들기 - Novelcrafter Live."
+            "x": "AI가 썼는지 확실히 가려낼 기술이 없으니 신뢰에 기댈 수밖에 없다고 말하는 캐나다 출판사들이 있다."
           },
           {
             "t": "p",
-            "x": "나는 Gemini Argon에 푹 빠졌다... 과학 용어 같은 이름 때문만은 아니다 ;) 이 모델을 붙잡고 프롬프트를 어떻게 써야 하는지 찾아보려 한다. 시행착오야 좀 있겠지만 같이 즐겨 보자!"
+            "x": "Coach House Books의 편집 디렉터 Alana Wilcox는 회사가 작가들에게 AI-generated 자료를 솔직하게 밝혀 달라고 요청한다고 말했다. 기존 탐지 도구는 믿기 어렵고 문제가 많다는 게 이미 드러났다고 덧붙였다."
+          },
+          {
+            "t": "p",
+            "x": "이 문제가 주목받은 건 Montreal의 Les Éditions du Boréal이 메타데이터에서 소설의 AI 사용 흔적이 보였다며 작가 Thélyson Orélien과 관계를 끊은 뒤다. Orélien은 소설을 쓰는 데 AI를 쓰지 않았다고 부인했다."
+          },
+          {
+            "t": "p",
+            "x": "ECW Press의 공동 발행인 David Caron은 계약서의 보증 조항에서 AI를 다룬다고 말했다. Association of Canadian Publishers 회장 Lisa Quinn은 탐지 도구가 \"진실이 아니라 그럴듯함(truthiness rather than truth)\"에 기반한다며, 정책은 신뢰 관계 위에 세워야 한다고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Novelcrafter tests writing\nprompts for Gemini Argon",
-          "body": "In a live session, Novelcrafter works out by trial and error how to write a prompt for Google's Gemini Argon.",
-          "mini_headline": "Prompting Gemini\nArgon for writing",
+          "headline": "Canadian publishers screen\nfor AI on trust, not tech",
+          "body": "With AI detectors unreliable, presses such as Coach House Books ask writers to disclose AI material and rely on trust.",
+          "mini_headline": "Publishers screen\nfor AI on trust",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "eLQESMPS8Bc"
+                "t": "img",
+                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fVY8R.img",
+                "cap": "Books line shelves at the North York Central Library in Toronto. THE CANADIAN PRESS/Chris Young"
               },
               {
                 "t": "p",
-                "x": "Making a Writing Prompt for Gemini Argon - Novelcrafter Live."
+                "x": "In the absence of surefire technology to determine whether something was written by AI, some Canadian publishers say they have to rely on trust."
               },
               {
                 "t": "p",
-                "x": "I'm in love with Gemini Argon... and it's not just for the science name ;) I'm going to spend some time with the model, working out how to prompt it. It'll all be a little bit of trial and error, but join me and have fun!"
+                "x": "Alana Wilcox, editorial director of Coach House Books, said the company asks writers to be upfront about AI-generated material, and that existing detection tools have proven unreliable and problematic."
+              },
+              {
+                "t": "p",
+                "x": "The attention follows Montreal's Les Éditions du Boréal cutting ties with author Thélyson Orélien, saying metadata showed AI use in his novel; he denied using AI to write it."
+              },
+              {
+                "t": "p",
+                "x": "ECW Press co-publisher David Caron said its contracts address AI in the warranty clause. Lisa Quinn, president of the Association of Canadian Publishers, said detection tools are built on \"truthiness rather than truth\" and that policy must be built on a relationship of trust."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Gemini Argon용\n글쓰기 프롬프트 실험",
-          "body": "Novelcrafter가 Google Gemini Argon용 프롬프트를 시험한다.",
-          "mini_headline": "Gemini Argon 글쓰기 프롬프트",
+          "headline": "캐나다 출판사, AI를\n기술 대신 신뢰로 거른다",
+          "body": "AI 탐지기가 미덥지 않아 Coach House Books 등은 신뢰에 기댄다.",
+          "mini_headline": "출판사들, 신뢰로 AI를 거르다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "eLQESMPS8Bc"
+                "t": "img",
+                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fVY8R.img",
+                "cap": "Toronto의 North York Central Library 서가에 꽂힌 책들. THE CANADIAN PRESS/Chris Young"
               },
               {
                 "t": "p",
-                "x": "Gemini Argon용 글쓰기 프롬프트 만들기 - Novelcrafter Live."
+                "x": "AI가 썼는지 확실히 가려낼 기술이 없으니 신뢰에 기댈 수밖에 없다고 말하는 캐나다 출판사들이 있다."
               },
               {
                 "t": "p",
-                "x": "나는 Gemini Argon에 푹 빠졌다... 과학 용어 같은 이름 때문만은 아니다 ;) 이 모델을 붙잡고 프롬프트를 어떻게 써야 하는지 찾아보려 한다. 시행착오야 좀 있겠지만 같이 즐겨 보자!"
+                "x": "Coach House Books의 편집 디렉터 Alana Wilcox는 회사가 작가들에게 AI-generated 자료를 솔직하게 밝혀 달라고 요청한다고 말했다. 기존 탐지 도구는 믿기 어렵고 문제가 많다는 게 이미 드러났다고 덧붙였다."
+              },
+              {
+                "t": "p",
+                "x": "이 문제가 주목받은 건 Montreal의 Les Éditions du Boréal이 메타데이터에서 소설의 AI 사용 흔적이 보였다며 작가 Thélyson Orélien과 관계를 끊은 뒤다. Orélien은 소설을 쓰는 데 AI를 쓰지 않았다고 부인했다."
+              },
+              {
+                "t": "p",
+                "x": "ECW Press의 공동 발행인 David Caron은 계약서의 보증 조항에서 AI를 다룬다고 말했다. Association of Canadian Publishers 회장 Lisa Quinn은 탐지 도구가 \"진실이 아니라 그럴듯함(truthiness rather than truth)\"에 기반한다며, 정책은 신뢰 관계 위에 세워야 한다고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Gemini Argonの\n執筆プロンプトを探る",
-          "body": "Novelcrafterが配信でGoogleのGemini Argonのプロンプトを探る。",
-          "mini_headline": "Gemini Argonで執筆プロンプト",
+          "headline": "カナダの出版社、AI判定は\n技術より信頼で",
+          "body": "AI検出が当てにならず、Coach House Booksなどは開示と信頼に頼る。",
+          "mini_headline": "出版社は信頼でAIを見極める",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "eLQESMPS8Bc"
+                "t": "img",
+                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fVY8R.img",
+                "cap": "TorontoのNorth York Central Libraryの書棚に並ぶ本。THE CANADIAN PRESS/Chris Young"
               },
               {
                 "t": "p",
-                "x": "Gemini Argon向けの執筆プロンプトを作る - Novelcrafter Live."
+                "x": "AIが書いたかどうかを確実に判定できる技術がない中、カナダの一部の出版社は信頼に頼るしかないと話す。"
               },
               {
                 "t": "p",
-                "x": "Gemini Argonにすっかり惚れ込んでいる…理由は科学っぽい名前だけではない ;) このモデルとじっくり向き合い、プロンプトの書き方を探っていく。多少の試行錯誤はあるだろうが、一緒に楽しんでほしい！"
+                "x": "Coach House Booksの編集ディレクター、Alana Wilcoxは、同社が作家にAI-generatedの素材について率直に申告するよう求めていると述べた。既存の検出ツールは信頼性が低く、問題が多いことがわかっているという。"
+              },
+              {
+                "t": "p",
+                "x": "この関心は、MontrealのLes Éditions du Boréalが、メタデータから小説でのAI使用がうかがえるとして作家Thélyson Orélienとの関係を断ったことを受けたものだ。Orélienは執筆にAIを使ったことを否定している。"
+              },
+              {
+                "t": "p",
+                "x": "ECW Pressの共同発行人David Caronは、同社の契約では保証条項でAIを扱っていると述べた。Association of Canadian Publishersの会長Lisa Quinnは、検出ツールは「truthではなくtruthiness(真実らしさ)」に基づいていると指摘し、方針は信頼関係の上に築くべきだと語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "为Gemini Argon\n测试写作提示词",
-          "body": "Novelcrafter在直播中试错，为Google的Gemini Argon写提示词。",
-          "mini_headline": "Gemini Argon写作提示词",
+          "headline": "加拿大出版商鉴别AI\n靠信任而非技术",
+          "body": "AI检测工具不可靠，Coach House Books等要求作者披露AI内容并依靠信任。",
+          "mini_headline": "出版商靠信任鉴别AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "eLQESMPS8Bc"
+                "t": "img",
+                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fVY8R.img",
+                "cap": "Toronto的North York Central Library书架上摆满图书。THE CANADIAN PRESS/Chris Young"
               },
               {
                 "t": "p",
-                "x": "为Gemini Argon编写写作提示词 - Novelcrafter Live."
+                "x": "由于缺乏能确切判断内容是否由AI撰写的技术，一些加拿大出版商表示只能依靠信任。"
               },
               {
                 "t": "p",
-                "x": "我爱上了Gemini Argon……而且不只是因为它那个科学味十足的名字 ;) 我会花些时间研究这个模型，摸索怎样给它写提示词。过程中难免要反复试错，但欢迎一起来玩！"
+                "x": "Coach House Books编辑总监Alana Wilcox表示，公司要求作者如实说明AI-generated内容，而现有检测工具已被证明不可靠且问题重重。"
+              },
+              {
+                "t": "p",
+                "x": "此前，Montreal的Les Éditions du Boréal称元数据显示作家Thélyson Orélien的小说使用了AI，并与其解约；Orélien否认用AI写作。"
+              },
+              {
+                "t": "p",
+                "x": "ECW Press联合出版人David Caron表示，其合同在保证条款中涉及AI。Association of Canadian Publishers主席Lisa Quinn表示，检测工具建立在\"truthiness rather than truth\"（似真而非真实）之上，政策必须建立在信任关系之上。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Novelcrafter prueba prompts\npara Gemini Argon",
-          "body": "En una sesión en directo, Novelcrafter busca por ensayo y error cómo escribir un prompt para Gemini Argon de Google.",
-          "mini_headline": "Prompts de escritura para Gemini Argon",
+          "headline": "Editoriales canadienses filtran\nla AI con confianza, no técnica",
+          "body": "Ante detectores de AI poco fiables, editoriales como Coach House Books piden transparencia y se fían de los autores.",
+          "mini_headline": "Editoriales filtran la AI con confianza",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "eLQESMPS8Bc"
+                "t": "img",
+                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fVY8R.img",
+                "cap": "Libros en los estantes de la North York Central Library, en Toronto. THE CANADIAN PRESS/Chris Young"
               },
               {
                 "t": "p",
-                "x": "Cómo crear un prompt de escritura para Gemini Argon - Novelcrafter Live."
+                "x": "A falta de una tecnología infalible para determinar si algo fue escrito por AI, algunas editoriales canadienses dicen que deben apoyarse en la confianza."
               },
               {
                 "t": "p",
-                "x": "Me encanta Gemini Argon... y no solo por su nombre científico ;) Voy a pasar un rato con el modelo para averiguar cómo escribirle prompts. Será un poco de ensayo y error, ¡pero acompáñame y diviértete!"
+                "x": "Alana Wilcox, directora editorial de Coach House Books, dijo que la empresa pide a los autores que sean transparentes sobre el material AI-generated y que las herramientas de detección existentes han resultado poco fiables y problemáticas."
+              },
+              {
+                "t": "p",
+                "x": "La atención llega después de que Les Éditions du Boréal, de Montreal, rompiera con el autor Thélyson Orélien al afirmar que los metadatos mostraban uso de AI en su novela; él negó haber usado AI para escribirla."
+              },
+              {
+                "t": "p",
+                "x": "David Caron, coeditor de ECW Press, dijo que sus contratos abordan la AI en la cláusula de garantía. Lisa Quinn, presidenta de la Association of Canadian Publishers, afirmó que las herramientas de detección se basan en la \"truthiness rather than truth\" (apariencia de verdad más que verdad) y que las políticas deben construirse sobre una relación de confianza."
               }
             ]
           }
@@ -849,89 +943,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Gemini Argon용\n글쓰기 프롬프트 실험",
-          "body": "Novelcrafter가 Google Gemini Argon 프롬프트를 시험한다.",
-          "mini_headline": "Gemini Argon 글쓰기 프롬프트",
+          "headline": "캐나다 출판사, AI를\n기술 대신 신뢰로 거른다",
+          "body": "AI 탐지기가 미덥지 않아 Coach House Books 등은 신뢰에 기댄다.",
+          "mini_headline": "출판사들, 신뢰로 AI를 거르다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "eLQESMPS8Bc"
+                "t": "img",
+                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fVY8R.img",
+                "cap": "Toronto의 North York Central Library 서가에 꽂힌 책들. THE CANADIAN PRESS/Chris Young"
               },
               {
                 "t": "p",
-                "x": "Gemini Argon용 글쓰기 프롬프트 만들기 - Novelcrafter Live."
+                "x": "AI가 썼는지 확실히 가려낼 기술이 없는 상황에서, 일부 캐나다 출판사는 신뢰에 기댈 수밖에 없다고 말한다."
               },
               {
                 "t": "p",
-                "x": "나는 Gemini Argon에 푹 빠졌다... 과학 용어 같은 이름 때문만은 아니다 ;) 이 모델과 시간을 보내며 프롬프트 쓰는 법을 찾아볼 생각이다. 시행착오가 조금 있겠지만, 함께 즐겨 보자!"
+                "x": "Coach House Books의 편집 디렉터 Alana Wilcox는 회사가 작가들에게 AI-generated 자료를 솔직하게 밝혀 달라고 요청한다고 말했다. 기존 탐지 도구는 믿기 어렵고 문제가 많다는 사실이 드러났다고 덧붙였다."
+              },
+              {
+                "t": "p",
+                "x": "이런 관심은 Montreal의 Les Éditions du Boréal이 메타데이터에서 소설의 AI 사용 흔적이 보였다며 작가 Thélyson Orélien과 관계를 끊은 뒤 이어졌다. Orélien은 소설을 쓰는 데 AI를 쓰지 않았다고 부인했다."
+              },
+              {
+                "t": "p",
+                "x": "ECW Press의 공동 발행인 David Caron은 계약서의 보증 조항에서 AI를 다룬다고 말했다. Association of Canadian Publishers 회장 Lisa Quinn은 탐지 도구가 \"진실이 아니라 그럴듯함(truthiness rather than truth)\"에 기반한다며, 정책은 신뢰 관계 위에 세워야 한다고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Gemini Argonの\n執筆プロンプトを探る",
-          "body": "Novelcrafterが配信でGoogleのGemini Argonのプロンプトを探る。",
-          "mini_headline": "Gemini Argonで執筆プロンプト",
+          "headline": "カナダの出版社、AI判定は\n技術より信頼で",
+          "body": "AI検出が当てにならず、Coach House Booksなどは開示と信頼に頼る。",
+          "mini_headline": "出版社は信頼でAIを見極める",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "eLQESMPS8Bc"
+                "t": "img",
+                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fVY8R.img",
+                "cap": "TorontoのNorth York Central Libraryの書棚に並ぶ本。THE CANADIAN PRESS/Chris Young"
               },
               {
                 "t": "p",
-                "x": "Gemini Argon向けの執筆プロンプトを作る - Novelcrafter Live."
+                "x": "AIが書いたかどうかを確実に判定できる技術がない中、カナダの一部の出版社は信頼に頼るしかないと話す。"
               },
               {
                 "t": "p",
-                "x": "Gemini Argonにすっかり惚れ込んでいる…理由は科学っぽい名前だけではない ;) このモデルとじっくり向き合い、プロンプトの書き方を探っていく。多少の試行錯誤はあるだろうが、一緒に楽しんでほしい！"
+                "x": "Coach House Booksの編集ディレクター、Alana Wilcoxは、同社が作家にAI-generatedの素材について率直に申告するよう求めていると述べた。既存の検出ツールは信頼性が低く、問題が多いことがわかっているという。"
+              },
+              {
+                "t": "p",
+                "x": "この関心は、MontrealのLes Éditions du Boréalが、メタデータから小説でのAI使用がうかがえるとして作家Thélyson Orélienとの関係を断ったことを受けたものだ。Orélienは執筆にAIを使ったことを否定している。"
+              },
+              {
+                "t": "p",
+                "x": "ECW Pressの共同発行人David Caronは、同社の契約では保証条項でAIを扱っていると述べた。Association of Canadian Publishersの会長Lisa Quinnは、検出ツールは「truthではなくtruthiness(真実らしさ)」に基づいていると指摘し、方針は信頼関係の上に築くべきだと語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "为Gemini Argon\n测试写作提示词",
-          "body": "Novelcrafter在直播中试错，为Google的Gemini Argon写提示词。",
-          "mini_headline": "Gemini Argon写作提示词",
+          "headline": "加拿大出版商鉴别AI\n靠信任而非技术",
+          "body": "AI检测工具不可靠，Coach House Books等要求作者披露AI内容并依靠信任。",
+          "mini_headline": "出版商靠信任鉴别AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "eLQESMPS8Bc"
+                "t": "img",
+                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fVY8R.img",
+                "cap": "Toronto的North York Central Library书架上摆满图书。THE CANADIAN PRESS/Chris Young"
               },
               {
                 "t": "p",
-                "x": "为Gemini Argon编写写作提示词 - Novelcrafter Live."
+                "x": "由于缺乏能确切判断内容是否由AI撰写的技术，一些加拿大出版商表示只能依靠信任。"
               },
               {
                 "t": "p",
-                "x": "我爱上了Gemini Argon……而且不只是因为它那个科学味十足的名字 ;) 我会花些时间研究这个模型，摸索怎样给它写提示词。过程中难免要反复试错，但欢迎一起来玩！"
+                "x": "Coach House Books编辑总监Alana Wilcox表示，公司要求作者如实说明AI-generated内容，而现有检测工具已被证明不可靠且问题重重。"
+              },
+              {
+                "t": "p",
+                "x": "此前，Montreal的Les Éditions du Boréal称元数据显示作家Thélyson Orélien的小说使用了AI，并与其解约；Orélien否认用AI写作。"
+              },
+              {
+                "t": "p",
+                "x": "ECW Press联合出版人David Caron表示，其合同在保证条款中涉及AI。Association of Canadian Publishers主席Lisa Quinn表示，检测工具建立在\"truthiness rather than truth\"（似真而非真实）之上，政策必须建立在信任关系之上。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Novelcrafter prueba prompts\npara Gemini Argon",
-          "body": "En una sesión en directo, Novelcrafter busca por ensayo y error cómo escribir un prompt para Gemini Argon de Google.",
-          "mini_headline": "Prompts de escritura para Gemini Argon",
+          "headline": "Editoriales canadienses filtran\nla AI con confianza, no técnica",
+          "body": "Ante detectores de AI poco fiables, editoriales como Coach House Books piden transparencia y se fían de los autores.",
+          "mini_headline": "Editoriales filtran la AI con confianza",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "eLQESMPS8Bc"
+                "t": "img",
+                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fVY8R.img",
+                "cap": "Libros en los estantes de la North York Central Library, en Toronto. THE CANADIAN PRESS/Chris Young"
               },
               {
                 "t": "p",
-                "x": "Cómo crear un prompt de escritura para Gemini Argon - Novelcrafter Live."
+                "x": "A falta de una tecnología infalible para determinar si algo fue escrito por AI, algunas editoriales canadienses dicen que deben apoyarse en la confianza."
               },
               {
                 "t": "p",
-                "x": "Me encanta Gemini Argon... y no solo por su nombre científico ;) Voy a pasar un rato con el modelo para averiguar cómo escribirle prompts. Será un poco de ensayo y error, ¡pero acompáñame y diviértete!"
+                "x": "Alana Wilcox, directora editorial de Coach House Books, dijo que la empresa pide a los autores que sean transparentes sobre el material AI-generated y que las herramientas de detección existentes han resultado poco fiables y problemáticas."
+              },
+              {
+                "t": "p",
+                "x": "La atención llega después de que Les Éditions du Boréal, de Montreal, rompiera con el autor Thélyson Orélien al afirmar que los metadatos mostraban uso de AI en su novela; él negó haber usado AI para escribirla."
+              },
+              {
+                "t": "p",
+                "x": "David Caron, coeditor de ECW Press, dijo que sus contratos abordan la AI en la cláusula de garantía. Lisa Quinn, presidenta de la Association of Canadian Publishers, afirmó que las herramientas de detección se basan en la \"truthiness rather than truth\" (apariencia de verdad más que verdad) y que las políticas deben construirse sobre una relación de confianza."
               }
             ]
           }
@@ -939,267 +1069,195 @@
       }
     },
     {
-      "id": "books-ai-signal-noise",
+      "id": "books-coral-hart-370-ai-books",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "출판사가 지금 대응할\nAI 신호는 무엇인가",
-      "body": "한 기고문은 최근 AI 동향을 당장 대응할 것과 맥락, 날씨로 나눠 본다.",
-      "mini_headline": "출판사의 AI 신호 vs. 소음",
+      "headline": "20개월에 370권\nAI-assisted 논란",
+      "body": "Coral Hart는 2025년 2월부터 AI로 370권 넘게 내 반발을 샀다.",
+      "mini_headline": "20개월에 AI 책 370권",
       "tool": "Books",
-      "source": "The Scholarly Kitchen",
-      "url": "https://scholarlykitchen.sspnet.org/2026/10/22/guest-post-all-this-ai-signal-and-noise-what-deserves-action-now/",
+      "source": "Times Now",
+      "url": "https://www.timesnownews.com/lifestyle/books/370-books-in-20-months-has-made-this-author-famous-for-all-the-wrong-reasons-article-156391358",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "img",
+            "src": "https://images.timesnownews.com/thumb/msid-156391703,thumbsize-1276522,width-1280,height-720,resizemode-75/156391703.jpg"
+          },
+          {
             "t": "p",
-            "x": "Silverchair CEO Will Schweitzer는 2월 3일을 짚는다. 그날 Anthropic이 Claude용 법률 플러그인(plug-in)을 내놓았다. 학술 출판계에 달라진 건 없었는데도 장 마감 무렵 RELX는 14%, Thomson Reuters는 약 18%, Wolters Kluwer는 약 13% 떨어졌다."
+            "x": "남아프리카공화국의 로맨스 소설가 Coral Hart는 2025년 2월 이후 AI를 활용해 370권이 넘는 책을 펴냈다고 말한다. 필명을 쓰는 Hart는 AFP에 수만 건의 혐오 메시지와 여러 건의 살해 협박을 받았다고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "Hart는 콘셉트, 문체, 인물, 장별 개요를 먼저 잡은 뒤 대화와 구조, 로맨스 장면에 각기 다른 AI 도구를 쓰고, AI-assisted 편집을 한 번 더 거친 다음 사람 교정자에게 원고 검토를 맡긴다."
           },
           {
             "t": "img",
-            "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/SC-Eaton-Event-Preview-541.jpg",
-            "cap": "Silverchair Platform Strategies 2026 행사에서 연설하는 Will Schweitzer"
+            "src": "https://images.timesnownews.com/thumb/msid-156391707,width-1280,height-720,resizemode-75/156391707.jpg",
+            "cap": "AI의 도움으로 책 쓰기"
           },
           {
             "t": "p",
-            "x": "글의 출발점은 9월 23일 워싱턴 DC에서 열린 Platform Strategies에서 그가 한 환영사다. 틀은 Wendy Queen에게서 빌렸다. 어떤 신호가 지금 움직일 만하고, 어떤 것이 맥락이며, 어떤 것이 날씨인지 가르는 방식이다."
-          },
-          {
-            "t": "img",
-            "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Wendy-Queen-survey-graph.png"
-          },
-          {
-            "t": "p",
-            "x": "현장 투표에서는 AI 매개(AI-mediated) 연구·발견 쪽 관심이 14.3%에서 22.9%로 늘었다. 연구 진실성과 AI 콘텐츠 쪽은 17.1%에서 5.7%로 줄었다."
-          },
-          {
-            "t": "p",
-            "x": "6월부터 8월까지 한 출판사 사이트에 들어온 콘텐츠 요청 가운데 사람일 가능성이 높다고 판정된 비율은 41%뿐이었다. LibLynx에 따르면 학술 출판사 서른 곳가량에 들어온 접근 요청 5,000만(50 million) 건 가운데 36%가 봇이었다."
-          },
-          {
-            "t": "img",
-            "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/PS26-reader-change-graphs.png"
-          },
-          {
-            "t": "p",
-            "x": "Anthropic의 커넥터 디렉터리에는 커넥터 862개가 올라 있지만 학회 출판사는 하나도 없다. 그가 연말 전까지 권하는 일은 이렇다. 이번 분기에 비인간 트래픽을 재 보고, 에이전트 도달성 실험을 하나 돌려 보고, 움직이는 비용만큼 기다리는 비용도 따져 보라는 것이다."
+            "x": "본인 추산으로 2026년 들어 지금까지 백만 부 넘게 팔았고 $1 million 넘게 벌었다. 모두 본인이 밝힌 수치다. 비평가들은 \"AI slop\"이라 부르지만 Hart는 돈을 낼 만한 이야기인지는 독자가 판단하면 된다고 말한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Which AI signals deserve\npublishers' action now",
-          "body": "A guest post sorts current AI developments into what needs action now, what is context, and what is weather.",
-          "mini_headline": "AI signal vs.\nnoise for publishers",
+          "headline": "370 AI-assisted books in\n20 months, and a backlash",
+          "body": "Romance writer Coral Hart says she has published 370+ books with AI since February 2025, drawing backlash.",
+          "mini_headline": "370 AI books\nin 20 months",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://images.timesnownews.com/thumb/msid-156391703,thumbsize-1276522,width-1280,height-720,resizemode-75/156391703.jpg"
+              },
+              {
                 "t": "p",
-                "x": "Will Schweitzer, CEO of Silverchair, notes that on February 3 Anthropic released a legal plug-in for Claude; nothing happened in scholarly publishing, yet by the close of trading RELX had fallen 14%, Thomson Reuters roughly 18%, and Wolters Kluwer about 13%."
+                "x": "South African romance novelist Coral Hart says she has published more than 370 books using AI since February 2025. Hart, a pseudonym, told AFP she has received tens of thousands of hateful messages and several death threats."
+              },
+              {
+                "t": "p",
+                "x": "She starts with the concept, style, characters and chapter outlines, uses different AI tools for dialogue, structure and romance scenes, runs further AI-assisted editing, and then a human proofreader checks the text."
               },
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/SC-Eaton-Event-Preview-541.jpg",
-                "cap": "Will Schweitzer addressing the Silverchair Platform Strategies 2026 meeting"
+                "src": "https://images.timesnownews.com/thumb/msid-156391707,width-1280,height-720,resizemode-75/156391707.jpg",
+                "cap": "Writing books with the help of AI"
               },
               {
                 "t": "p",
-                "x": "The post began as his welcome address at Platform Strategies in Washington, DC on September 23. The framing is Wendy Queen's: which signals deserve action now, which are context, and which are weather."
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Wendy-Queen-survey-graph.png"
-              },
-              {
-                "t": "p",
-                "x": "Room polls showed attention moving toward AI-mediated research and discovery, from 14.3% to 22.9%, and away from research integrity and AI content, from 17.1% to 5.7%."
-              },
-              {
-                "t": "p",
-                "x": "On one publisher site, only 41% of content requests scored as likely human between June and August. LibLynx found 36% of 50 million access requests across around thirty scholarly publishers were robotic."
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/PS26-reader-change-graphs.png"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic's connector directory lists 862 connectors, but no society publisher. His advice before year's end: measure non-human traffic this quarter, run one agentic reachability experiment, and price the cost of waiting alongside the cost of acting."
+                "x": "By her own estimates she has sold more than one million copies and earned over $1 million in 2026 so far; the figures are self-reported. Critics call it \"AI slop\"; Hart says readers can decide whether a story is worth their money."
               }
             ]
           }
         },
         "ko": {
-          "headline": "출판사가 지금 대응할\nAI 신호는 무엇인가",
-          "body": "한 기고문은 최근 AI 동향을 당장 대응할 것과 맥락, 날씨로 나눠 본다.",
-          "mini_headline": "출판사의 AI 신호 vs. 소음",
+          "headline": "20개월에 370권\nAI-assisted 논란",
+          "body": "Coral Hart는 2025년 2월부터 AI로 370권 넘게 내 반발을 샀다.",
+          "mini_headline": "20개월에 AI 책 370권",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://images.timesnownews.com/thumb/msid-156391703,thumbsize-1276522,width-1280,height-720,resizemode-75/156391703.jpg"
+              },
+              {
                 "t": "p",
-                "x": "Silverchair CEO Will Schweitzer는 2월 3일을 짚는다. 그날 Anthropic이 Claude용 법률 플러그인(plug-in)을 내놓았다. 학술 출판계에 달라진 건 없었는데도 장 마감 무렵 RELX는 14%, Thomson Reuters는 약 18%, Wolters Kluwer는 약 13% 떨어졌다."
+                "x": "남아프리카공화국의 로맨스 소설가 Coral Hart는 2025년 2월 이후 AI를 활용해 370권이 넘는 책을 펴냈다고 말한다. 필명을 쓰는 Hart는 AFP에 수만 건의 혐오 메시지와 여러 건의 살해 협박을 받았다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "Hart는 콘셉트, 문체, 인물, 장별 개요를 먼저 잡은 뒤 대화와 구조, 로맨스 장면에 각기 다른 AI 도구를 쓰고, AI-assisted 편집을 한 번 더 거친 다음 사람 교정자에게 원고 검토를 맡긴다."
               },
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/SC-Eaton-Event-Preview-541.jpg",
-                "cap": "Silverchair Platform Strategies 2026 행사에서 연설하는 Will Schweitzer"
+                "src": "https://images.timesnownews.com/thumb/msid-156391707,width-1280,height-720,resizemode-75/156391707.jpg",
+                "cap": "AI의 도움으로 책 쓰기"
               },
               {
                 "t": "p",
-                "x": "글의 출발점은 9월 23일 워싱턴 DC에서 열린 Platform Strategies에서 그가 한 환영사다. 틀은 Wendy Queen에게서 빌렸다. 어떤 신호가 지금 움직일 만하고, 어떤 것이 맥락이며, 어떤 것이 날씨인지 가르는 방식이다."
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Wendy-Queen-survey-graph.png"
-              },
-              {
-                "t": "p",
-                "x": "현장 투표에서는 AI 매개(AI-mediated) 연구·발견 쪽 관심이 14.3%에서 22.9%로 늘었다. 연구 진실성과 AI 콘텐츠 쪽은 17.1%에서 5.7%로 줄었다."
-              },
-              {
-                "t": "p",
-                "x": "6월부터 8월까지 한 출판사 사이트에 들어온 콘텐츠 요청 가운데 사람일 가능성이 높다고 판정된 비율은 41%뿐이었다. LibLynx에 따르면 학술 출판사 서른 곳가량에 들어온 접근 요청 5,000만(50 million) 건 가운데 36%가 봇이었다."
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/PS26-reader-change-graphs.png"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic의 커넥터 디렉터리에는 커넥터 862개가 올라 있지만 학회 출판사는 하나도 없다. 그가 연말 전까지 권하는 일은 이렇다. 이번 분기에 비인간 트래픽을 재 보고, 에이전트 도달성 실험을 하나 돌려 보고, 움직이는 비용만큼 기다리는 비용도 따져 보라는 것이다."
+                "x": "본인 추산으로 2026년 들어 지금까지 백만 부 넘게 팔았고 $1 million 넘게 벌었다. 모두 본인이 밝힌 수치다. 비평가들은 \"AI slop\"이라 부르지만 Hart는 돈을 낼 만한 이야기인지는 독자가 판단하면 된다고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "出版社がいま動くべき\nAIシグナルとは",
-          "body": "寄稿記事が最新のAI動向を、今すぐ動くべきもの、文脈、天気に仕分けている。",
-          "mini_headline": "出版社のAI信号 vs. 雑音",
+          "headline": "AI-assisted本\n20か月で370冊、反発も",
+          "body": "Coral Hartは2025年2月以降AIで370冊超を出版し、反発を招いている。",
+          "mini_headline": "20か月でAI本370冊",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://images.timesnownews.com/thumb/msid-156391703,thumbsize-1276522,width-1280,height-720,resizemode-75/156391703.jpg"
+              },
+              {
                 "t": "p",
-                "x": "SilverchairのCEO、Will Schweitzerは、2月3日にAnthropicがClaude向けの法務プラグイン（plug-in）を公開したと指摘する。学術出版では何も起きなかったが、取引終了までにRELXは14%、Thomson Reutersは約18%、Wolters Kluwerは約13%下落した。"
+                "x": "南アフリカのロマンス作家Coral Hartは、2025年2月以降、AIを使って370冊以上の本を出版したと話す。ペンネームであるHartはAFPに対し、数万件の憎悪メッセージと複数の殺害予告を受けたと語った。"
+              },
+              {
+                "t": "p",
+                "x": "まずコンセプト、文体、登場人物、章立てを固め、会話、構成、恋愛シーンにそれぞれ別のAIツールを使い、さらにAI-assistedの編集を重ねたうえで、人間の校正者が原稿を確認する。"
               },
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/SC-Eaton-Event-Preview-541.jpg",
-                "cap": "Silverchair Platform Strategies 2026で講演するWill Schweitzer"
+                "src": "https://images.timesnownews.com/thumb/msid-156391707,width-1280,height-720,resizemode-75/156391707.jpg",
+                "cap": "AIの助けを借りて本を書く"
               },
               {
                 "t": "p",
-                "x": "この記事は、9月23日にワシントンDCで開かれたPlatform Strategiesでの彼の歓迎あいさつがもとになっている。枠組みはWendy Queenによるもので、どのシグナルが今すぐ行動に値し、どれが文脈で、どれが天気なのかを見分ける。"
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Wendy-Queen-survey-graph.png"
-              },
-              {
-                "t": "p",
-                "x": "会場での投票では、関心がAIを介した（AI-mediated）研究と発見へと14.3%から22.9%に移り、研究公正とAIコンテンツからは17.1%から5.7%に離れた。"
-              },
-              {
-                "t": "p",
-                "x": "ある出版社のサイトでは、6月から8月にかけて人間による可能性が高いと判定されたコンテンツ要求は41%にとどまった。LibLynxは、約三十の学術出版社に寄せられたアクセス要求5,000万件（50 million）のうち36%がボットだったと明らかにした。"
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/PS26-reader-change-graphs.png"
-              },
-              {
-                "t": "p",
-                "x": "Anthropicのコネクタ一覧には862のコネクタが載っているが、学会系出版社は一つもない。年内に向けた彼の助言は、今四半期に人間以外のトラフィックを測ること、エージェントからの到達性を確かめる実験を一つ行うこと、そして行動するコストと並べて待つコストを見積もることだ。"
+                "x": "本人の推計では、2026年に入ってからこれまでに百万部以上を売り、$1 million超を稼いだ。数字は自己申告だ。批判派は「AI slop」と呼ぶが、Hartは物語にお金を払う価値があるかは読者が決めればよいと話す。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "哪些AI信号\n值得出版商立即行动",
-          "body": "一篇客座文章把当前AI动态分为需立即行动的、属于背景的和只是天气的三类。",
-          "mini_headline": "出版商的AI信号 vs. 噪音",
+          "headline": "20个月出版370本\nAI-assisted书惹议",
+          "body": "Coral Hart称自2025年2月起用AI出版370多本书，引发反弹。",
+          "mini_headline": "20个月出版370本AI书",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://images.timesnownews.com/thumb/msid-156391703,thumbsize-1276522,width-1280,height-720,resizemode-75/156391703.jpg"
+              },
+              {
                 "t": "p",
-                "x": "Silverchair CEO Will Schweitzer指出，2月3日Anthropic发布了Claude的法律插件（plug-in）；学术出版领域并未发生任何事，但到收盘时，RELX下跌14%，Thomson Reuters下跌约18%，Wolters Kluwer下跌约13%。"
+                "x": "南非言情小说作家Coral Hart称，自2025年2月以来，她已借助AI出版了370多本书。Hart是笔名，她告诉AFP，自己收到了数万条仇恨信息和多次死亡威胁。"
+              },
+              {
+                "t": "p",
+                "x": "她先确定概念、风格、人物和章节大纲，再用不同的AI工具处理对话、结构和爱情场景，接着进行AI-assisted编辑，最后由人工校对员审读文本。"
               },
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/SC-Eaton-Event-Preview-541.jpg",
-                "cap": "Will Schweitzer在Silverchair Platform Strategies 2026会议上致辞"
+                "src": "https://images.timesnownews.com/thumb/msid-156391707,width-1280,height-720,resizemode-75/156391707.jpg",
+                "cap": "借助AI写书"
               },
               {
                 "t": "p",
-                "x": "这篇文章源自他9月23日在华盛顿DC举行的Platform Strategies上的欢迎致辞。框架来自Wendy Queen：哪些信号值得立即行动，哪些属于背景，哪些只是天气。"
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Wendy-Queen-survey-graph.png"
-              },
-              {
-                "t": "p",
-                "x": "现场投票显示，关注点正转向AI介导（AI-mediated）的研究与发现，从14.3%升至22.9%；而对研究诚信与AI内容的关注则从17.1%降至5.7%。"
-              },
-              {
-                "t": "p",
-                "x": "在一家出版商的网站上，6月至8月间只有41%的内容请求被判定为可能来自真人。LibLynx发现，约三十家学术出版商收到的5000万次（50 million）访问请求中，有36%来自机器人。"
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/PS26-reader-change-graphs.png"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic的连接器目录列出了862个连接器，却没有一家学会出版商。他对年底前的建议是：本季度测量非人类流量，开展一项智能体可达性实验，并在计算行动成本的同时估算等待的成本。"
+                "x": "据她本人估计，2026年迄今她已售出逾百万册，收入超过$1 million；这些数字均为自报。批评者称之为\"AI slop\"；Hart则表示，故事是否值得花钱，可以由读者自己决定。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Qué señales de IA exigen hoy\nque las editoriales actúen",
-          "body": "Un artículo invitado clasifica los avances de la IA en lo que exige actuar ya, lo que es contexto y lo que es clima.",
-          "mini_headline": "Señal vs. ruido de la IA para editoriales",
+          "headline": "370 libros AI-assisted en\n20 meses, y una ola de críticas",
+          "body": "La escritora Coral Hart dice haber publicado más de 370 libros con AI desde febrero de 2025, lo que causó rechazo.",
+          "mini_headline": "370 libros con AI en 20 meses",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://images.timesnownews.com/thumb/msid-156391703,thumbsize-1276522,width-1280,height-720,resizemode-75/156391703.jpg"
+              },
+              {
                 "t": "p",
-                "x": "Will Schweitzer, CEO de Silverchair, señala que el 3 de febrero Anthropic lanzó un plug-in legal para Claude; en la edición académica no ocurrió nada, pero al cierre de la sesión RELX había caído un 14%, Thomson Reuters cerca de un 18% y Wolters Kluwer alrededor de un 13%."
+                "x": "La novelista romántica sudafricana Coral Hart afirma haber publicado más de 370 libros con AI desde febrero de 2025. Hart, un seudónimo, dijo a AFP que ha recibido decenas de miles de mensajes de odio y varias amenazas de muerte."
+              },
+              {
+                "t": "p",
+                "x": "Empieza por el concepto, el estilo, los personajes y el esquema de capítulos; usa distintas herramientas de AI para diálogos, estructura y escenas románticas; aplica otra edición AI-assisted, y después un corrector humano revisa el texto."
               },
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/SC-Eaton-Event-Preview-541.jpg",
-                "cap": "Will Schweitzer en la reunión Silverchair Platform Strategies 2026"
+                "src": "https://images.timesnownews.com/thumb/msid-156391707,width-1280,height-720,resizemode-75/156391707.jpg",
+                "cap": "Escribir libros con ayuda de AI"
               },
               {
                 "t": "p",
-                "x": "El artículo nació como su discurso de bienvenida en Platform Strategies, en Washington, DC, el 23 de septiembre. El marco es de Wendy Queen: qué señales merecen actuar ya, cuáles son contexto y cuáles son clima."
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Wendy-Queen-survey-graph.png"
-              },
-              {
-                "t": "p",
-                "x": "Las encuestas en la sala mostraron que la atención se desplaza hacia la investigación y el descubrimiento mediados por IA (AI-mediated), del 14.3% al 22.9%, y se aleja de la integridad de la investigación y el contenido de IA, del 17.1% al 5.7%."
-              },
-              {
-                "t": "p",
-                "x": "En el sitio de una editorial, solo el 41% de las solicitudes de contenido se calificó como probablemente humano entre junio y agosto. LibLynx halló que el 36% de 50 millones de solicitudes de acceso en una treintena de editoriales académicas eran robóticas."
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/PS26-reader-change-graphs.png"
-              },
-              {
-                "t": "p",
-                "x": "El directorio de conectores de Anthropic incluye 862 conectores, pero ninguna editorial de sociedad científica. Su consejo antes de fin de año: medir el tráfico no humano este trimestre, hacer un experimento de alcance para agentes y calcular el costo de esperar junto al costo de actuar."
+                "x": "Según sus propias estimaciones, ha vendido más de un millón de ejemplares y ganado más de $1 million en lo que va de 2026; las cifras son autodeclaradas. Los críticos lo llaman \"AI slop\"; Hart dice que los lectores pueden decidir si una historia vale su dinero."
               }
             ]
           }
@@ -1207,173 +1265,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "출판사가 지금 대응할\nAI 신호는 무엇인가",
-          "body": "한 기고문이 최근 AI 동향을 당장 대응할 것, 맥락, 날씨 같은 것으로 나눈다.",
-          "mini_headline": "출판사의 AI 신호 vs. 소음",
+          "headline": "20개월에 370권\nAI-assisted 논란",
+          "body": "Coral Hart는 2025년 2월부터 AI로 370권 넘게 내 반발을 샀다.",
+          "mini_headline": "20개월에 AI 책 370권",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://images.timesnownews.com/thumb/msid-156391703,thumbsize-1276522,width-1280,height-720,resizemode-75/156391703.jpg"
+              },
+              {
                 "t": "p",
-                "x": "Silverchair CEO Will Schweitzer는 2월 3일 Anthropic이 Claude용 법률 플러그인(plug-in)을 내놓았다고 짚는다. 학술 출판계에는 아무 일도 없었지만, 장 마감 무렵 RELX는 14%, Thomson Reuters는 약 18%, Wolters Kluwer는 약 13% 떨어졌다."
+                "x": "남아프리카공화국의 로맨스 소설가 Coral Hart는 2025년 2월 이후 AI를 활용해 370권이 넘는 책을 펴냈다고 말한다. 필명을 쓰는 Hart는 AFP에 수만 건의 혐오 메시지와 여러 건의 살해 협박을 받았다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "Hart는 콘셉트, 문체, 인물, 장별 개요를 먼저 잡은 뒤 대화와 구조, 로맨스 장면에 각기 다른 AI 도구를 쓰고, AI-assisted 편집을 한 번 더 거친 다음 사람 교정자에게 원고 검토를 맡긴다."
               },
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/SC-Eaton-Event-Preview-541.jpg",
-                "cap": "Silverchair Platform Strategies 2026 행사에서 연설하는 Will Schweitzer"
+                "src": "https://images.timesnownews.com/thumb/msid-156391707,width-1280,height-720,resizemode-75/156391707.jpg",
+                "cap": "AI의 도움으로 책 쓰기"
               },
               {
                 "t": "p",
-                "x": "이 글은 9월 23일 워싱턴 DC에서 열린 Platform Strategies에서 그가 한 환영사에서 출발했다. 틀은 Wendy Queen의 것으로, 어떤 신호가 지금 행동할 가치가 있고, 어떤 것이 맥락이며, 어떤 것이 날씨인지를 가른다."
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Wendy-Queen-survey-graph.png"
-              },
-              {
-                "t": "p",
-                "x": "현장 투표에서 관심은 AI 매개(AI-mediated) 연구·발견 쪽으로 14.3%에서 22.9%로 옮겨 갔고, 연구 진실성과 AI 콘텐츠 쪽은 17.1%에서 5.7%로 줄었다."
-              },
-              {
-                "t": "p",
-                "x": "한 출판사 사이트에서는 6월부터 8월까지 콘텐츠 요청 가운데 사람일 가능성이 높다고 판정된 비율이 41%에 그쳤다. LibLynx는 학술 출판사 서른 곳가량에 들어온 접근 요청 5,000만(50 million) 건 가운데 36%가 봇이었다고 밝혔다."
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/PS26-reader-change-graphs.png"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic의 커넥터 디렉터리에는 커넥터 862개가 올라 있지만 학회 출판사는 하나도 없다. 연말 전에 그가 권하는 일은 이번 분기에 비인간 트래픽을 측정하고, 에이전트 도달성 실험을 하나 해 보고, 행동하는 비용과 함께 기다리는 비용도 따져 보는 것이다."
+                "x": "본인 추산으로는 2026년 들어 지금까지 백만 부 넘게 팔았고 $1 million 넘게 벌었다. 수치는 본인이 밝힌 것이다. 비평가들은 이를 \"AI slop\"이라 부르지만, Hart는 이야기가 돈을 낼 가치가 있는지는 독자가 판단하면 된다고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "出版社がいま動くべき\nAIシグナルとは",
-          "body": "寄稿記事が最新のAI動向を、今すぐ動くべきもの、文脈、天気に仕分けている。",
-          "mini_headline": "出版社のAI信号 vs. 雑音",
+          "headline": "AI-assisted本\n20か月で370冊、反発も",
+          "body": "Coral Hartは2025年2月以降AIで370冊超を出版し、反発を招いている。",
+          "mini_headline": "20か月でAI本370冊",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://images.timesnownews.com/thumb/msid-156391703,thumbsize-1276522,width-1280,height-720,resizemode-75/156391703.jpg"
+              },
+              {
                 "t": "p",
-                "x": "SilverchairのCEO、Will Schweitzerは、2月3日にAnthropicがClaude向けの法務プラグイン（plug-in）を公開したと指摘する。学術出版では何も起きなかったが、取引終了までにRELXは14%、Thomson Reutersは約18%、Wolters Kluwerは約13%下落した。"
+                "x": "南アフリカのロマンス作家Coral Hartは、2025年2月以降、AIを使って370冊以上の本を出版したと話す。ペンネームであるHartはAFPに対し、数万件の憎悪メッセージと複数の殺害予告を受けたと語った。"
+              },
+              {
+                "t": "p",
+                "x": "まずコンセプト、文体、登場人物、章立てを固め、会話、構成、恋愛シーンにそれぞれ別のAIツールを使い、さらにAI-assistedの編集を重ねたうえで、人間の校正者が原稿を確認する。"
               },
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/SC-Eaton-Event-Preview-541.jpg",
-                "cap": "Silverchair Platform Strategies 2026で講演するWill Schweitzer"
+                "src": "https://images.timesnownews.com/thumb/msid-156391707,width-1280,height-720,resizemode-75/156391707.jpg",
+                "cap": "AIの助けを借りて本を書く"
               },
               {
                 "t": "p",
-                "x": "この記事は、9月23日にワシントンDCで開かれたPlatform Strategiesでの彼の歓迎あいさつがもとになっている。枠組みはWendy Queenによるもので、どのシグナルが今すぐ行動に値し、どれが文脈で、どれが天気なのかを見分ける。"
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Wendy-Queen-survey-graph.png"
-              },
-              {
-                "t": "p",
-                "x": "会場での投票では、関心がAIを介した（AI-mediated）研究と発見へと14.3%から22.9%に移り、研究公正とAIコンテンツからは17.1%から5.7%に離れた。"
-              },
-              {
-                "t": "p",
-                "x": "ある出版社のサイトでは、6月から8月にかけて人間による可能性が高いと判定されたコンテンツ要求は41%にとどまった。LibLynxは、約三十の学術出版社に寄せられたアクセス要求5,000万件（50 million）のうち36%がボットだったと明らかにした。"
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/PS26-reader-change-graphs.png"
-              },
-              {
-                "t": "p",
-                "x": "Anthropicのコネクタ一覧には862のコネクタが載っているが、学会系出版社は一つもない。年内に向けた彼の助言は、今四半期に人間以外のトラフィックを測ること、エージェントからの到達性を確かめる実験を一つ行うこと、そして行動するコストと並べて待つコストを見積もることだ。"
+                "x": "本人の推計では、2026年に入ってからこれまでに百万部以上を売り、$1 million超を稼いだ。数字は自己申告だ。批判派は「AI slop」と呼ぶが、Hartは物語にお金を払う価値があるかは読者が決めればよいと話す。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "哪些AI信号\n值得出版商立即行动",
-          "body": "一篇客座文章把当前AI动态分为需立即行动的、属于背景的和只是天气的三类。",
-          "mini_headline": "出版商的AI信号 vs. 噪音",
+          "headline": "20个月出版370本\nAI-assisted书惹议",
+          "body": "Coral Hart称自2025年2月起用AI出版370多本书，引发反弹。",
+          "mini_headline": "20个月出版370本AI书",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://images.timesnownews.com/thumb/msid-156391703,thumbsize-1276522,width-1280,height-720,resizemode-75/156391703.jpg"
+              },
+              {
                 "t": "p",
-                "x": "Silverchair CEO Will Schweitzer指出，2月3日Anthropic发布了Claude的法律插件（plug-in）；学术出版领域并未发生任何事，但到收盘时，RELX下跌14%，Thomson Reuters下跌约18%，Wolters Kluwer下跌约13%。"
+                "x": "南非言情小说作家Coral Hart称，自2025年2月以来，她已借助AI出版了370多本书。Hart是笔名，她告诉AFP，自己收到了数万条仇恨信息和多次死亡威胁。"
+              },
+              {
+                "t": "p",
+                "x": "她先确定概念、风格、人物和章节大纲，再用不同的AI工具处理对话、结构和爱情场景，接着进行AI-assisted编辑，最后由人工校对员审读文本。"
               },
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/SC-Eaton-Event-Preview-541.jpg",
-                "cap": "Will Schweitzer在Silverchair Platform Strategies 2026会议上致辞"
+                "src": "https://images.timesnownews.com/thumb/msid-156391707,width-1280,height-720,resizemode-75/156391707.jpg",
+                "cap": "借助AI写书"
               },
               {
                 "t": "p",
-                "x": "这篇文章源自他9月23日在华盛顿DC举行的Platform Strategies上的欢迎致辞。框架来自Wendy Queen：哪些信号值得立即行动，哪些属于背景，哪些只是天气。"
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Wendy-Queen-survey-graph.png"
-              },
-              {
-                "t": "p",
-                "x": "现场投票显示，关注点正转向AI介导（AI-mediated）的研究与发现，从14.3%升至22.9%；而对研究诚信与AI内容的关注则从17.1%降至5.7%。"
-              },
-              {
-                "t": "p",
-                "x": "在一家出版商的网站上，6月至8月间只有41%的内容请求被判定为可能来自真人。LibLynx发现，约三十家学术出版商收到的5000万次（50 million）访问请求中，有36%来自机器人。"
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/PS26-reader-change-graphs.png"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic的连接器目录列出了862个连接器，却没有一家学会出版商。他对年底前的建议是：本季度测量非人类流量，开展一项智能体可达性实验，并在计算行动成本的同时估算等待的成本。"
+                "x": "据她本人估计，2026年迄今她已售出逾百万册，收入超过$1 million；这些数字均为自报。批评者称之为\"AI slop\"；Hart则表示，故事是否值得花钱，可以由读者自己决定。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Qué señales de IA exigen hoy\nque las editoriales actúen",
-          "body": "Un artículo invitado clasifica los avances de la IA en lo que exige actuar ya, lo que es contexto y lo que es clima.",
-          "mini_headline": "Señal vs. ruido de la IA para editoriales",
+          "headline": "370 libros AI-assisted en\n20 meses, y una ola de críticas",
+          "body": "La escritora Coral Hart dice haber publicado más de 370 libros con AI desde febrero de 2025, lo que causó rechazo.",
+          "mini_headline": "370 libros con AI en 20 meses",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://images.timesnownews.com/thumb/msid-156391703,thumbsize-1276522,width-1280,height-720,resizemode-75/156391703.jpg"
+              },
+              {
                 "t": "p",
-                "x": "Will Schweitzer, CEO de Silverchair, señala que el 3 de febrero Anthropic lanzó un plug-in legal para Claude; en la edición académica no ocurrió nada, pero al cierre de la sesión RELX había caído un 14%, Thomson Reuters cerca de un 18% y Wolters Kluwer alrededor de un 13%."
+                "x": "La novelista romántica sudafricana Coral Hart afirma haber publicado más de 370 libros con AI desde febrero de 2025. Hart, un seudónimo, dijo a AFP que ha recibido decenas de miles de mensajes de odio y varias amenazas de muerte."
+              },
+              {
+                "t": "p",
+                "x": "Empieza por el concepto, el estilo, los personajes y el esquema de capítulos; usa distintas herramientas de AI para diálogos, estructura y escenas románticas; aplica otra edición AI-assisted, y después un corrector humano revisa el texto."
               },
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/SC-Eaton-Event-Preview-541.jpg",
-                "cap": "Will Schweitzer en la reunión Silverchair Platform Strategies 2026"
+                "src": "https://images.timesnownews.com/thumb/msid-156391707,width-1280,height-720,resizemode-75/156391707.jpg",
+                "cap": "Escribir libros con ayuda de AI"
               },
               {
                 "t": "p",
-                "x": "El artículo nació como su discurso de bienvenida en Platform Strategies, en Washington, DC, el 23 de septiembre. El marco es de Wendy Queen: qué señales merecen actuar ya, cuáles son contexto y cuáles son clima."
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Wendy-Queen-survey-graph.png"
-              },
-              {
-                "t": "p",
-                "x": "Las encuestas en la sala mostraron que la atención se desplaza hacia la investigación y el descubrimiento mediados por IA (AI-mediated), del 14.3% al 22.9%, y se aleja de la integridad de la investigación y el contenido de IA, del 17.1% al 5.7%."
-              },
-              {
-                "t": "p",
-                "x": "En el sitio de una editorial, solo el 41% de las solicitudes de contenido se calificó como probablemente humano entre junio y agosto. LibLynx halló que el 36% de 50 millones de solicitudes de acceso en una treintena de editoriales académicas eran robóticas."
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/PS26-reader-change-graphs.png"
-              },
-              {
-                "t": "p",
-                "x": "El directorio de conectores de Anthropic incluye 862 conectores, pero ninguna editorial de sociedad científica. Su consejo antes de fin de año: medir el tráfico no humano este trimestre, hacer un experimento de alcance para agentes y calcular el costo de esperar junto al costo de actuar."
+                "x": "Según sus propias estimaciones, ha vendido más de un millón de ejemplares y ganado más de $1 million en lo que va de 2026; las cifras son autodeclaradas. Los críticos lo llaman \"AI slop\"; Hart dice que los lectores pueden decidir si una historia vale su dinero."
               }
             ]
           }
@@ -1381,651 +1391,361 @@
       }
     },
     {
-      "id": "books-daegu-aidt",
-      "source_lang": "ko",
+      "id": "books-frankfurt-trusted-knowledge",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "대구 AI 교과서\n활용도 놓고 설전",
-      "body": "대구교육청이 AIDT에 수십억 원을 썼지만 실제 활용도를 놓고 공방이 인다.",
-      "mini_headline": "대구 AIDT 활용 설전",
+      "headline": "Frankfurt 2026\n콘텐츠에서 신뢰 지식으로",
+      "body": "Frankfurt 2026의 한 책임자는 AI-driven 업무 속 지식을 물었다.",
+      "mini_headline": "Frankfurt: 콘텐츠에서 지식으로",
       "tool": "Books",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261020136900053",
+      "source": "The Scholarly Kitchen",
+      "url": "https://scholarlykitchen.sspnet.org/2026/10/20/from-content-to-trusted-knowledge-reflections-on-frankfurt-book-fair-2026/",
       "accent": "#eb367f",
       "motif": "swatch",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://img8.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102012040005100_P4.jpg",
-            "cap": "질의하는 백승아 의원"
+            "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-2191733603.jpg",
+            "cap": "Messe Frankfurt"
           },
           {
             "t": "p",
-            "x": "(대구=연합뉴스) 황수빈 기자 = 올해 대구교육청이 초중고교 인공지능 디지털교과서(AIDT) 보급을 위해 수십억 원의 구독료를 들였지만, 실제 수업에서 활용도가 떨어진다는 지적이 나왔다."
+            "x": "KnowledgeWorks Global의 VP of Product Management인 Hong Zhou는 AI가 무엇을 할 수 있는지보다 AI를 어떻게 쓸지에 관한 질문을 더 많이 안고 Frankfurt Book Fair 2026을 떠났다. 그가 거듭 던진 질문은 믿을 만한 콘텐츠를 어떻게 쓸모 있는 지식으로 바꾸고 사람들이 그 지식으로 움직이게 도울 것인가였다."
           },
           {
             "t": "p",
-            "x": "더불어민주당 백승아 의원(비례대표)은 20일 부산시교육청에서 대구 등 6개 지역 교육청을 대상으로 열린 국회 교육위원회 국정감사에서 \"2025년 1학기에 비해 올해 AIDT 활용학교는 전국적으로 84.8%가 감소했는데 유독 대구는 다르다\"고 지적했다."
+            "x": "AI가 출판물을 더 작은 조각으로 쪼개는 지금, 주장은 근거와 한계, 맥락이 함께 붙어 있을 때만 쓸모가 있다. 출판사는 나중의 재사용과 재현성까지 보고 어떤 메타데이터를 필수로 둘지 다시 따져야 한다."
           },
           {
             "t": "p",
-            "x": "그는 \"올해 AIDT 활용학교 622교 가운데 절반인 311교가 대구에 있다\"고 덧붙였다."
+            "x": "AI 탐색에는 기술적 연결만이 아니라 허가와 가치의 모델이 필요하다. 커넥터가 작동한다고 콘텐츠가 선택되는 것은 아니다. 질문은 “AI가 우리 콘텐츠에 닿을 수 있는가?”만이 아니라 “AI는 언제, 왜 그것을 쓰기로 하는가?”다. 제로 클릭이라고 가치까지 제로인 것은 아니다."
           },
           {
             "t": "p",
-            "x": "백 의원은 대구지역 학교들의 AIDT 채택이 많은 이유는 교육감의 압박 때문으로 보인다는 점도 지적했다."
+            "x": "신뢰는 가장 많이 들린 단어 가운데 하나였다. Kudos의 조사에 따르면 응답자의 약 삼분의 일이 AI 도구나 AI 답변을 보여 주는 검색엔진으로 검색을 시작하고, 40%는 검색엔진의 AI 요약을 사람이 만들거나 골랐다고 잘못 알고 있다."
           },
           {
             "t": "p",
-            "x": "그는 \"대구시교육청이 AIDT와 관련된 공문을 여러 차례 각 학교에 보내고 활용을 독려했음에도 불구하고 실제 이용 횟수는 저조한 것으로 나타났다\"고 지적했다."
-          },
-          {
-            "t": "p",
-            "x": "백 의원이 대구시교육청으로부터 제출받은 자료에 따르면 올해 1학기 기준 대구에서 AI DT를 도입한 초중고교에 지원된 구독료는 총 45억8천900만원이었다."
-          },
-          {
-            "t": "p",
-            "x": "이중 AI 디지털교과서를 20회 미만 이용한 학교는 119곳으로 집계했다."
-          },
-          {
-            "t": "p",
-            "x": "백 의원은 \"통상 한 학기를 20주라고 보면 38.3%는 일주일에 한 번도 안 쓴 셈\"이라며 \"이 정도 수치를 가지고 AI 디지털교과서를 제대로 활용했다고 평가할 수 있겠느냐\"고 따졌다."
-          },
-          {
-            "t": "p",
-            "x": "그러면서 \"전국 다른 학교들은 대부분 선택하지 않은 교육자료를 대구만 이렇게 압도적으로 많이 구독하고 이를 위해 별도 지원하고 있는 이유는 무엇이냐\"고 몰아붙였다."
-          },
-          {
-            "t": "p",
-            "x": "이에 대해 강은희 대구시교육감은 \"활용이 저조한 학교를 분석해보면 나름대로 저조한 부분이 있는 건 인정한다\"면서도 \"다만 실제로 충분히 활용되고 학생들의 학습에 적극적인 도움이 됐다는 사례가 더 많다\"고 답했다."
-          },
-          {
-            "t": "p",
-            "x": "이어 \"지속해 AI 디지털교과서를 잘 활용할 수 있도록 지원하고 있다\"고 덧붙였다."
-          },
-          {
-            "t": "img",
-            "src": "https://img0.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102011870005100_P4.jpg",
-            "cap": "업무 보고 하는 강은희 대구교육감"
+            "x": "에이전트는 구체적인 문제에서 출발해 성공과 실패, 예외를 정의한 뒤에 자율성을 높이라고 권한다. 배치한 에이전트 수만 세서는 알 수 있는 게 거의 없다. 그에게 Frankfurt의 핵심 메시지는 지식을 둘러싼 연결, 곧 주장과 근거, 이용과 허가, 자동화된 행동과 그 책임자 사이의 연결이었다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "대구 AI 교과서\n활용도 놓고 설전",
-          "body": "대구교육청이 AIDT에 수십억 원을 썼지만 실제 활용도를 놓고 공방이 인다.",
-          "mini_headline": "대구 AIDT 활용 설전",
+        "en": {
+          "headline": "Frankfurt 2026: from content\nto trusted knowledge",
+          "body": "At Frankfurt 2026, one product lead kept asking how trusted content becomes useful knowledge in AI-driven workflows.",
+          "mini_headline": "Frankfurt: content to knowledge",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102012040005100_P4.jpg",
-                "cap": "질의하는 백승아 의원"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-2191733603.jpg",
+                "cap": "Messe Frankfurt"
               },
               {
                 "t": "p",
-                "x": "(대구=연합뉴스) 황수빈 기자 = 올해 대구교육청이 초중고교 인공지능 디지털교과서(AIDT) 보급을 위해 수십억 원의 구독료를 들였지만, 실제 수업에서 활용도가 떨어진다는 지적이 나왔다."
+                "x": "Hong Zhou, VP of Product Management at KnowledgeWorks Global, left Frankfurt Book Fair 2026 with more questions about how we use AI than about what it can do. His recurring question: how do we turn trusted content into useful knowledge, and help people act on it?"
               },
               {
                 "t": "p",
-                "x": "더불어민주당 백승아 의원(비례대표)은 20일 부산시교육청에서 대구 등 6개 지역 교육청을 대상으로 열린 국회 교육위원회 국정감사에서 \"2025년 1학기에 비해 올해 AIDT 활용학교는 전국적으로 84.8%가 감소했는데 유독 대구는 다르다\"고 지적했다."
+                "x": "As AI breaks publications into smaller pieces, a claim is only useful if its evidence, limitations and context stay attached. Publishers should rethink which metadata are mandatory for downstream reuse and reproducibility."
               },
               {
                 "t": "p",
-                "x": "그는 \"올해 AIDT 활용학교 622교 가운데 절반인 311교가 대구에 있다\"고 덧붙였다."
+                "x": "AI discovery needs a permission and value model, not just a technical connection. A working connector does not guarantee content gets selected: the question is not just “Can AI reach our content?” but “When and why will it choose to use it?” Zero click need not mean zero value."
               },
               {
                 "t": "p",
-                "x": "백 의원은 대구지역 학교들의 AIDT 채택이 많은 이유는 교육감의 압박 때문으로 보인다는 점도 지적했다."
+                "x": "Trust was one of the most-heard words. Kudos’ findings: roughly a third of respondents begin searches through AI tools or search engines featuring AI answers, and 40% mistakenly believe search-engine AI overviews are human-created or curated."
               },
               {
                 "t": "p",
-                "x": "그는 \"대구시교육청이 AIDT와 관련된 공문을 여러 차례 각 학교에 보내고 활용을 독려했음에도 불구하고 실제 이용 횟수는 저조한 것으로 나타났다\"고 지적했다."
-              },
-              {
-                "t": "p",
-                "x": "백 의원이 대구시교육청으로부터 제출받은 자료에 따르면 올해 1학기 기준 대구에서 AI DT를 도입한 초중고교에 지원된 구독료는 총 45억8천900만원이었다."
-              },
-              {
-                "t": "p",
-                "x": "이중 AI 디지털교과서를 20회 미만 이용한 학교는 119곳으로 집계했다."
-              },
-              {
-                "t": "p",
-                "x": "백 의원은 \"통상 한 학기를 20주라고 보면 38.3%는 일주일에 한 번도 안 쓴 셈\"이라며 \"이 정도 수치를 가지고 AI 디지털교과서를 제대로 활용했다고 평가할 수 있겠느냐\"고 따졌다."
-              },
-              {
-                "t": "p",
-                "x": "그러면서 \"전국 다른 학교들은 대부분 선택하지 않은 교육자료를 대구만 이렇게 압도적으로 많이 구독하고 이를 위해 별도 지원하고 있는 이유는 무엇이냐\"고 몰아붙였다."
-              },
-              {
-                "t": "p",
-                "x": "이에 대해 강은희 대구시교육감은 \"활용이 저조한 학교를 분석해보면 나름대로 저조한 부분이 있는 건 인정한다\"면서도 \"다만 실제로 충분히 활용되고 학생들의 학습에 적극적인 도움이 됐다는 사례가 더 많다\"고 답했다."
-              },
-              {
-                "t": "p",
-                "x": "이어 \"지속해 AI 디지털교과서를 잘 활용할 수 있도록 지원하고 있다\"고 덧붙였다."
-              },
-              {
-                "t": "img",
-                "src": "https://img0.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102011870005100_P4.jpg",
-                "cap": "업무 보고 하는 강은희 대구교육감"
+                "x": "On agents, he urges starting with a specific problem and defining success, failure and exceptions before increasing autonomy; counting deployed agents tells us little. Frankfurt’s key message, for him, was about the connections around knowledge: between a claim and its evidence, a use and its permission, and an automated action and the people responsible for it."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Daegu AI textbooks\nspark usage dispute",
-          "body": "Daegu's education office spent billions of won on AIDT, but its real classroom use is now in dispute.",
-          "mini_headline": "Daegu AIDT use disputed",
+        "ko": {
+          "headline": "Frankfurt 2026\n콘텐츠에서 신뢰 지식으로",
+          "body": "Frankfurt 2026의 한 책임자는 AI-driven 업무 속 지식을 물었다.",
+          "mini_headline": "Frankfurt: 콘텐츠에서 지식으로",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102012040005100_P4.jpg",
-                "cap": "Lawmaker Baek Seung-a questioning officials"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-2191733603.jpg",
+                "cap": "Messe Frankfurt"
               },
               {
                 "t": "p",
-                "x": "(Daegu=Yonhap News) Reporter Hwang Su-bin = This year the Daegu Office of Education spent billions of won in subscription fees to roll out AI digital textbooks (AIDT) in elementary, middle and high schools, but critics say they are rarely used in actual classes."
+                "x": "KnowledgeWorks Global의 VP of Product Management인 Hong Zhou는 AI가 무엇을 할 수 있는지보다 AI를 어떻게 쓸지에 관한 질문을 더 많이 안고 Frankfurt Book Fair 2026을 떠났다. 그가 거듭 던진 질문은 믿을 만한 콘텐츠를 어떻게 쓸모 있는 지식으로 바꾸고 사람들이 그 지식으로 움직이게 도울 것인가였다."
               },
               {
                 "t": "p",
-                "x": "Baek Seung-a, a proportional representation lawmaker of the Democratic Party of Korea, said on the 20th at the National Assembly Education Committee's parliamentary audit of six regional education offices including Daegu, held at the Busan Metropolitan Office of Education, that \"compared with the first semester of 2025, the number of schools using AIDT fell 84.8% nationwide this year, but Daegu alone is different.\""
+                "x": "AI가 출판물을 더 작은 조각으로 쪼개는 지금, 주장은 근거와 한계, 맥락이 함께 붙어 있을 때만 쓸모가 있다. 출판사는 나중의 재사용과 재현성까지 보고 어떤 메타데이터를 필수로 둘지 다시 따져야 한다."
               },
               {
                 "t": "p",
-                "x": "She added, \"Of the 622 schools using AIDT this year, half, or 311, are in Daegu.\""
+                "x": "AI 탐색에는 기술적 연결만이 아니라 허가와 가치의 모델이 필요하다. 커넥터가 작동한다고 콘텐츠가 선택되는 것은 아니다. 질문은 “AI가 우리 콘텐츠에 닿을 수 있는가?”만이 아니라 “AI는 언제, 왜 그것을 쓰기로 하는가?”다. 제로 클릭이라고 가치까지 제로인 것은 아니다."
               },
               {
                 "t": "p",
-                "x": "Baek also pointed out that the high AIDT adoption among Daegu schools appears to stem from pressure by the superintendent."
+                "x": "신뢰는 가장 많이 들린 단어 가운데 하나였다. Kudos의 조사에 따르면 응답자의 약 삼분의 일이 AI 도구나 AI 답변을 보여 주는 검색엔진으로 검색을 시작하고, 40%는 검색엔진의 AI 요약을 사람이 만들거나 골랐다고 잘못 알고 있다."
               },
               {
                 "t": "p",
-                "x": "She said, \"Even though the Daegu Metropolitan Office of Education sent official letters about AIDT to schools several times and encouraged their use, actual usage turned out to be low.\""
-              },
-              {
-                "t": "p",
-                "x": "According to data Baek obtained from the Daegu Metropolitan Office of Education, subscription fees provided to elementary, middle and high schools in Daegu that adopted AI DT totaled 45억8천900만원 as of the first semester of this year."
-              },
-              {
-                "t": "p",
-                "x": "Of these, 119 schools were found to have used the AI digital textbooks fewer than 20 times."
-              },
-              {
-                "t": "p",
-                "x": "Baek pressed, \"If a semester is usually 20 weeks, that means 38.3% did not use them even once a week,\" adding, \"Can you say the AI digital textbooks were properly used with figures like these?\""
-              },
-              {
-                "t": "p",
-                "x": "She then pushed further: \"Why is Daegu alone subscribing so overwhelmingly to teaching materials that most other schools nationwide did not choose, and providing separate support for it?\""
-              },
-              {
-                "t": "p",
-                "x": "In response, Daegu Superintendent of Education Kang Eun-hee said, \"Analyzing schools with low usage, I admit there are areas where usage is low,\" but added, \"However, there are more cases where they were actually used well and actively helped students' learning.\""
-              },
-              {
-                "t": "p",
-                "x": "She continued, \"We are providing ongoing support so that AI digital textbooks can be used well.\""
-              },
-              {
-                "t": "img",
-                "src": "https://img0.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102011870005100_P4.jpg",
-                "cap": "Daegu Superintendent of Education Kang Eun-hee giving a briefing"
+                "x": "에이전트는 구체적인 문제에서 출발해 성공과 실패, 예외를 정의한 뒤에 자율성을 높이라고 권한다. 배치한 에이전트 수만 세서는 알 수 있는 게 거의 없다. 그에게 Frankfurt의 핵심 메시지는 지식을 둘러싼 연결, 곧 주장과 근거, 이용과 허가, 자동화된 행동과 그 책임자 사이의 연결이었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "大邱のAI教科書\n活用度めぐり論戦",
-          "body": "大邱市教育庁がAIDTに数十億ウォンを投じたが、実際の活用度をめぐり論争が起きている。",
-          "mini_headline": "大邱AIDT活用で論戦",
+          "headline": "Frankfurt 2026\nコンテンツから信頼の知へ",
+          "body": "Frankfurt 2026で、ある製品責任者がAI-driven時代の信頼と知を問うた。",
+          "mini_headline": "Frankfurt:コンテンツから知へ",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102012040005100_P4.jpg",
-                "cap": "質疑するペク・スンア議員"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-2191733603.jpg",
+                "cap": "Messe Frankfurt"
               },
               {
                 "t": "p",
-                "x": "（大邱＝聯合ニュース）ファン・スビン記者＝今年、大邱市教育庁が小中高校へのAIデジタル教科書（AIDT）普及のため数十億ウォンの購読料を投じたが、実際の授業での活用度が低いとの指摘が出た。"
+                "x": "KnowledgeWorks GlobalのVP of Product ManagementであるHong Zhouは、AIに何ができるかよりも、私たちがAIをどう使うかについての問いを多く抱えてFrankfurt Book Fair 2026を後にした。彼が繰り返し投げかけたのは、信頼できるコンテンツをどう有用な知識に変え、人々がそれをもとに行動できるようにするかという問いだ。"
               },
               {
                 "t": "p",
-                "x": "共に民主党のペク・スンア議員（比例代表）は20日、釜山市教育庁で大邱など6つの地域教育庁を対象に開かれた国会教育委員会の国政監査で「2025年1学期に比べ、今年AIDTを活用する学校は全国で84.8%減少したが、大邱だけは違う」と指摘した。"
+                "x": "AIが出版物をより小さな断片に分解するなか、主張はその根拠、限界、文脈と結びついていてこそ役に立つ。出版社は、下流での再利用と再現性のためにどのメタデータを必須とするかを考え直すべきだ。"
               },
               {
                 "t": "p",
-                "x": "さらに「今年AIDTを活用する学校622校のうち、半数の311校が大邱にある」と付け加えた。"
+                "x": "AIによる発見には、技術的な接続だけでなく、許諾と価値のモデルが必要だ。コネクターが動いても、コンテンツが選ばれる保証はない。問うべきは「AIは私たちのコンテンツに届くか?」だけでなく、「AIはいつ、なぜそれを使うことを選ぶのか?」である。ゼロクリックが価値ゼロを意味するとは限らない。"
               },
               {
                 "t": "p",
-                "x": "ペク議員は、大邱地域の学校でAIDTの採用が多いのは教育監の圧力によるものとみられる点も指摘した。"
+                "x": "信頼は最もよく聞かれた言葉の一つだった。Kudosの調査によると、回答者の約三分の一がAIツールやAI回答を備えた検索エンジンから検索を始め、40%は検索エンジンのAI概要を人間が作成または選別したものだと誤解している。"
               },
               {
                 "t": "p",
-                "x": "ペク議員は「大邱市教育庁がAIDTに関する公文書を何度も各学校に送り活用を促したにもかかわらず、実際の利用回数は低調だった」と指摘した。"
-              },
-              {
-                "t": "p",
-                "x": "ペク議員が大邱市教育庁から提出を受けた資料によると、今年1学期時点で大邱のAI DTを導入した小中高校に支援された購読料は計45억8천900만원だった。"
-              },
-              {
-                "t": "p",
-                "x": "このうちAIデジタル教科書の利用が20回未満の学校は119校と集計された。"
-              },
-              {
-                "t": "p",
-                "x": "ペク議員は「通常1学期を20週とすると、38.3%は週に1度も使わなかったことになる」とし、「この程度の数値でAIデジタル教科書を適切に活用したと評価できるのか」と問いただした。"
-              },
-              {
-                "t": "p",
-                "x": "続けて「全国の他の学校の大半が選ばなかった教育資料を、なぜ大邱だけがこれほど圧倒的に多く購読し、そのために別途支援しているのか」と追及した。"
-              },
-              {
-                "t": "p",
-                "x": "これに対しカン・ウニ大邱市教育監は「活用が低調な学校を分析すると、それなりに低調な部分があることは認める」としながらも、「ただ、実際に十分活用され、生徒の学習に積極的に役立ったという事例のほうが多い」と答えた。"
-              },
-              {
-                "t": "p",
-                "x": "さらに「AIデジタル教科書を引き続きうまく活用できるよう支援している」と付け加えた。"
-              },
-              {
-                "t": "img",
-                "src": "https://img0.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102011870005100_P4.jpg",
-                "cap": "業務報告をするカン・ウニ大邱教育監"
+                "x": "エージェントについては、具体的な課題から始め、成功、失敗、例外を定義してから自律性を高めるよう勧める。導入したエージェントの数を数えても、わかることは少ない。彼にとってFrankfurtの核心的なメッセージは、知識をめぐるつながり、すなわち主張と根拠、利用と許諾、自動化された行動とその責任を負う人々とのつながりだった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "大邱AI教科书\n使用率引发争论",
-          "body": "大邱教育厅为AIDT花费数十亿韩元，但其实际使用情况引发争议。",
-          "mini_headline": "大邱AIDT使用之争",
+          "headline": "Frankfurt 2026\n从内容到可信知识",
+          "body": "Frankfurt 2026上，一位产品负责人追问AI-driven流程中可信内容的价值。",
+          "mini_headline": "Frankfurt：从内容到知识",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102012040005100_P4.jpg",
-                "cap": "正在质询的白承娥议员"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-2191733603.jpg",
+                "cap": "Messe Frankfurt"
               },
               {
                 "t": "p",
-                "x": "（大邱=韩联社）记者黄秀彬（音译）= 今年大邱教育厅为在中小学推广人工智能数字教科书（AIDT）投入了数十亿韩元的订阅费，但有人指出其在实际教学中的使用率偏低。"
+                "x": "KnowledgeWorks Global的VP of Product Management Hong Zhou离开Frankfurt Book Fair 2026时，带走的问题更多关乎我们如何使用AI，而非AI能做什么。他反复追问：我们如何把可信内容变成有用的知识，并帮助人们据此行动？"
               },
               {
                 "t": "p",
-                "x": "共同民主党议员白承娥（比例代表）20日在釜山市教育厅举行的、以大邱等6个地区教育厅为对象的国会教育委员会国政监查中指出：“与2025年第1学期相比，今年全国使用AIDT的学校减少了84.8%，唯独大邱不同。”"
+                "x": "随着AI把出版物拆解成更小的片段，一项论断只有在其证据、局限和语境仍附着其上时才有用。出版商应重新思考，哪些元数据对下游复用和可重复性是必需的。"
               },
               {
                 "t": "p",
-                "x": "她补充说：“今年使用AIDT的622所学校中，有一半即311所在大邱。”"
+                "x": "AI发现需要的不只是技术连接，还需要一套许可与价值模型。连接器能用，并不保证内容会被选用：问题不只是“AI能否触达我们的内容？”，而是“它何时、为何会选择使用这些内容？”零点击未必意味着零价值。"
               },
               {
                 "t": "p",
-                "x": "白承娥还指出，大邱地区学校大量采用AIDT，似乎是由于教育监施压。"
+                "x": "信任是被提及最多的词之一。Kudos的调查发现，约三分之一的受访者通过AI工具或带有AI答案的搜索引擎开始搜索，40%的人误以为搜索引擎的AI概览由人工创作或筛选。"
               },
               {
                 "t": "p",
-                "x": "她指出：“尽管大邱市教育厅多次向各校发送与AIDT相关的公文并鼓励使用，但实际使用次数仍然偏低。”"
-              },
-              {
-                "t": "p",
-                "x": "根据白承娥从大邱市教育厅获得的资料，截至今年第1学期，向大邱引入AI DT的中小学提供的订阅费共计45억8천900만원。"
-              },
-              {
-                "t": "p",
-                "x": "其中，使用AI数字教科书不足20次的学校统计为119所。"
-              },
-              {
-                "t": "p",
-                "x": "白承娥质问：“通常一个学期按20周计算，意味着38.3%的学校一周连一次都没用过。”她又问：“凭这样的数字，能说AI数字教科书得到了妥善使用吗？”"
-              },
-              {
-                "t": "p",
-                "x": "她接着追问：“全国其他学校大多没有选择的教育资料，为什么唯独大邱如此大量订阅，并为此另行提供支持？”"
-              },
-              {
-                "t": "p",
-                "x": "对此，大邱市教育监姜银姬回答说：“分析使用率低的学校，我承认确实存在使用不足的部分。”但她也表示：“不过，实际充分使用并对学生学习起到积极帮助的案例更多。”"
-              },
-              {
-                "t": "p",
-                "x": "她接着补充说：“我们正在持续提供支持，以便AI数字教科书能够得到良好使用。”"
-              },
-              {
-                "t": "img",
-                "src": "https://img0.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102011870005100_P4.jpg",
-                "cap": "正在作工作报告的大邱教育监姜银姬"
+                "x": "谈到智能体，他主张先从具体问题入手，在提高自主性之前界定成功、失败和例外情况；清点已部署的智能体数量说明不了什么。在他看来，Frankfurt的核心信息在于知识周围的连接：论断与证据之间、使用与许可之间、自动化行动与对其负责的人之间。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Libros de texto con IA\nen Daegu, bajo debate",
-          "body": "La oficina de educación de Daegu gastó miles de millones de wones en AIDT, pero su uso real está en debate.",
-          "mini_headline": "Debate por el uso de AIDT en Daegu",
+          "headline": "Frankfurt 2026: del contenido\nal conocimiento confiable",
+          "body": "En Frankfurt 2026, un jefe de producto preguntó cómo volver útil el contenido fiable en flujos AI-driven.",
+          "mini_headline": "Frankfurt: del contenido al conocimiento",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102012040005100_P4.jpg",
-                "cap": "La diputada Baek Seung-a durante su interpelación"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-2191733603.jpg",
+                "cap": "Messe Frankfurt"
               },
               {
                 "t": "p",
-                "x": "(Daegu=Yonhap News) Periodista Hwang Su-bin = Este año, la Oficina de Educación de Daegu destinó miles de millones de wones en cuotas de suscripción para implantar libros de texto digitales con inteligencia artificial (AIDT) en escuelas primarias y secundarias, pero se ha señalado que su uso en las clases reales es bajo."
+                "x": "Hong Zhou, VP of Product Management de KnowledgeWorks Global, salió de la Frankfurt Book Fair 2026 con más preguntas sobre cómo usamos la AI que sobre lo que puede hacer. Su pregunta recurrente: ¿cómo convertimos contenido fiable en conocimiento útil y ayudamos a las personas a actuar en consecuencia?"
               },
               {
                 "t": "p",
-                "x": "La diputada Baek Seung-a (representación proporcional), del Partido Democrático de Corea, señaló el día 20, en la auditoría parlamentaria del Comité de Educación de la Asamblea Nacional a seis oficinas regionales de educación, entre ellas la de Daegu, celebrada en la Oficina de Educación de Busan: \"En comparación con el primer semestre de 2025, las escuelas que usan AIDT han disminuido este año un 84.8% en todo el país, pero Daegu es la excepción\"."
+                "x": "A medida que la AI descompone las publicaciones en piezas más pequeñas, una afirmación solo es útil si conserva su evidencia, sus limitaciones y su contexto. Las editoriales deberían replantearse qué metadatos son obligatorios para la reutilización posterior y la reproducibilidad."
               },
               {
                 "t": "p",
-                "x": "Añadió: \"De las 622 escuelas que usan AIDT este año, la mitad, 311, están en Daegu\"."
+                "x": "El descubrimiento mediante AI necesita un modelo de permisos y de valor, no solo una conexión técnica. Que un conector funcione no garantiza que el contenido sea seleccionado: la pregunta no es solo “¿Puede la AI llegar a nuestro contenido?”, sino “¿Cuándo y por qué decidirá usarlo?”. Cero clics no tiene por qué significar cero valor."
               },
               {
                 "t": "p",
-                "x": "Baek también señaló que la elevada adopción de AIDT en las escuelas de Daegu parece deberse a la presión del superintendente de educación."
+                "x": "La confianza fue una de las palabras más escuchadas. Según los hallazgos de Kudos, alrededor de un tercio de los encuestados empieza sus búsquedas con herramientas de AI o buscadores con respuestas de AI, y el 40% cree erróneamente que los resúmenes de AI de los buscadores están creados o seleccionados por personas."
               },
               {
                 "t": "p",
-                "x": "Indicó: \"Aunque la Oficina de Educación de Daegu envió varias veces circulares oficiales sobre AIDT a las escuelas y fomentó su uso, el número real de usos resultó ser bajo\"."
-              },
-              {
-                "t": "p",
-                "x": "Según los datos que Baek recibió de la Oficina de Educación de Daegu, las cuotas de suscripción entregadas a las escuelas primarias y secundarias de Daegu que adoptaron AI DT sumaron en total 45억8천900만원 a fecha del primer semestre de este año."
-              },
-              {
-                "t": "p",
-                "x": "De ellas, 119 escuelas usaron los libros de texto digitales con IA menos de 20 veces."
-              },
-              {
-                "t": "p",
-                "x": "Baek cuestionó: \"Si un semestre suele tener 20 semanas, el 38.3% no los usó ni una vez por semana\", y preguntó: \"¿Con estas cifras se puede afirmar que los libros de texto digitales con IA se aprovecharon como es debido?\"."
-              },
-              {
-                "t": "p",
-                "x": "A continuación insistió: \"¿Por qué solo Daegu se suscribe de forma tan abrumadora a un material educativo que la mayoría de las demás escuelas del país no eligió, y además le da un apoyo aparte?\"."
-              },
-              {
-                "t": "p",
-                "x": "En respuesta, la superintendente de educación de Daegu, Kang Eun-hee, afirmó: \"Al analizar las escuelas con bajo uso, reconozco que hay aspectos en los que el uso es bajo\", aunque añadió: \"Sin embargo, son más los casos en que se usaron de forma suficiente y ayudaron activamente al aprendizaje de los alumnos\"."
-              },
-              {
-                "t": "p",
-                "x": "Y agregó: \"Seguimos brindando apoyo para que los libros de texto digitales con IA puedan aprovecharse bien\"."
-              },
-              {
-                "t": "img",
-                "src": "https://img0.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102011870005100_P4.jpg",
-                "cap": "La superintendente de educación de Daegu, Kang Eun-hee, presenta su informe"
+                "x": "Sobre los agentes, recomienda empezar por un problema concreto y definir el éxito, el fracaso y las excepciones antes de aumentar la autonomía; contar los agentes desplegados dice poco. Para él, el mensaje clave de Frankfurt tuvo que ver con las conexiones en torno al conocimiento: entre una afirmación y su evidencia, un uso y su permiso, y una acción automatizada y las personas responsables de ella."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Daegu AI textbooks\nspark usage dispute",
-          "body": "Daegu's education office spent billions of won on AIDT, but its real classroom use is now in dispute.",
-          "mini_headline": "Daegu AIDT use disputed",
+        "ko": {
+          "headline": "Frankfurt 2026\n콘텐츠에서 신뢰 지식으로",
+          "body": "Frankfurt 2026의 한 책임자는 AI-driven 업무 속 지식을 물었다.",
+          "mini_headline": "Frankfurt: 콘텐츠에서 지식으로",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102012040005100_P4.jpg",
-                "cap": "Lawmaker Baek Seung-a questioning officials"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-2191733603.jpg",
+                "cap": "Messe Frankfurt"
               },
               {
                 "t": "p",
-                "x": "(Daegu=Yonhap News) Reporter Hwang Su-bin = This year the Daegu Office of Education spent billions of won in subscription fees to roll out AI digital textbooks (AIDT) in elementary, middle and high schools, but critics say they are rarely used in actual classes."
+                "x": "KnowledgeWorks Global의 VP of Product Management인 Hong Zhou는 AI가 무엇을 할 수 있는지보다 우리가 AI를 어떻게 쓰는지에 관한 질문을 더 많이 안고 Frankfurt Book Fair 2026을 떠났다. 그가 거듭 던진 질문은 신뢰할 수 있는 콘텐츠를 어떻게 유용한 지식으로 바꾸고, 사람들이 그 지식으로 행동하도록 도울 것인가였다."
               },
               {
                 "t": "p",
-                "x": "Baek Seung-a, a proportional representation lawmaker of the Democratic Party of Korea, said on the 20th at the National Assembly Education Committee's parliamentary audit of six regional education offices including Daegu, held at the Busan Metropolitan Office of Education, that \"compared with the first semester of 2025, the number of schools using AIDT fell 84.8% nationwide this year, but Daegu alone is different.\""
+                "x": "AI가 출판물을 더 작은 조각으로 쪼개는 지금, 주장은 근거와 한계, 맥락이 함께 붙어 있을 때만 쓸모가 있다. 출판사는 이후의 재사용과 재현성을 위해 어떤 메타데이터를 필수로 둘지 다시 생각해야 한다."
               },
               {
                 "t": "p",
-                "x": "She added, \"Of the 622 schools using AIDT this year, half, or 311, are in Daegu.\""
+                "x": "AI 탐색에는 기술적 연결만이 아니라 허가와 가치의 모델이 필요하다. 커넥터가 작동한다고 콘텐츠가 선택된다는 보장은 없다. 질문은 “AI가 우리 콘텐츠에 닿을 수 있는가?”만이 아니라 “AI는 언제, 왜 그것을 쓰기로 하는가?”다. 제로 클릭이 곧 제로 가치를 뜻하지는 않는다."
               },
               {
                 "t": "p",
-                "x": "Baek also pointed out that the high AIDT adoption among Daegu schools appears to stem from pressure by the superintendent."
+                "x": "신뢰는 가장 많이 들린 단어 가운데 하나였다. Kudos의 조사에 따르면 응답자의 약 삼분의 일이 AI 도구나 AI 답변을 보여 주는 검색엔진으로 검색을 시작하고, 40%는 검색엔진의 AI 요약을 사람이 만들거나 골랐다고 잘못 알고 있다."
               },
               {
                 "t": "p",
-                "x": "She said, \"Even though the Daegu Metropolitan Office of Education sent official letters about AIDT to schools several times and encouraged their use, actual usage turned out to be low.\""
-              },
-              {
-                "t": "p",
-                "x": "According to data Baek obtained from the Daegu Metropolitan Office of Education, subscription fees provided to elementary, middle and high schools in Daegu that adopted AI DT totaled 45억8천900만원 as of the first semester of this year."
-              },
-              {
-                "t": "p",
-                "x": "Of these, 119 schools were found to have used the AI digital textbooks fewer than 20 times."
-              },
-              {
-                "t": "p",
-                "x": "Baek pressed, \"If a semester is usually 20 weeks, that means 38.3% did not use them even once a week,\" adding, \"Can you say the AI digital textbooks were properly used with figures like these?\""
-              },
-              {
-                "t": "p",
-                "x": "She then pushed further: \"Why is Daegu alone subscribing so overwhelmingly to teaching materials that most other schools nationwide did not choose, and providing separate support for it?\""
-              },
-              {
-                "t": "p",
-                "x": "In response, Daegu Superintendent of Education Kang Eun-hee said, \"Analyzing schools with low usage, I admit there are areas where usage is low,\" but added, \"However, there are more cases where they were actually used well and actively helped students' learning.\""
-              },
-              {
-                "t": "p",
-                "x": "She continued, \"We are providing ongoing support so that AI digital textbooks can be used well.\""
-              },
-              {
-                "t": "img",
-                "src": "https://img0.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102011870005100_P4.jpg",
-                "cap": "Daegu Superintendent of Education Kang Eun-hee giving a briefing"
+                "x": "에이전트에 대해서는 구체적인 문제에서 출발해 성공과 실패, 예외를 정의한 뒤에 자율성을 높이라고 권한다. 배치한 에이전트 수를 세는 것만으로는 알 수 있는 것이 거의 없다. 그에게 Frankfurt의 핵심 메시지는 지식을 둘러싼 연결, 곧 주장과 근거, 이용과 허가, 자동화된 행동과 그 책임자 사이의 연결이었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "大邱のAI教科書\n活用度めぐり論戦",
-          "body": "大邱市教育庁がAIDTに数十億ウォンを投じたが、実際の活用度をめぐり論争が起きている。",
-          "mini_headline": "大邱AIDT活用で論戦",
+          "headline": "Frankfurt 2026\nコンテンツから信頼の知へ",
+          "body": "Frankfurt 2026で、ある製品責任者がAI-driven時代の信頼と知を問うた。",
+          "mini_headline": "Frankfurt:コンテンツから知へ",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102012040005100_P4.jpg",
-                "cap": "質疑するペク・スンア議員"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-2191733603.jpg",
+                "cap": "Messe Frankfurt"
               },
               {
                 "t": "p",
-                "x": "（大邱＝聯合ニュース）ファン・スビン記者＝今年、大邱市教育庁が小中高校へのAIデジタル教科書（AIDT）普及のため数十億ウォンの購読料を投じたが、実際の授業での活用度が低いとの指摘が出た。"
+                "x": "KnowledgeWorks GlobalのVP of Product ManagementであるHong Zhouは、AIに何ができるかよりも、私たちがAIをどう使うかについての問いを多く抱えてFrankfurt Book Fair 2026を後にした。彼が繰り返し投げかけたのは、信頼できるコンテンツをどう有用な知識に変え、人々がそれをもとに行動できるようにするかという問いだ。"
               },
               {
                 "t": "p",
-                "x": "共に民主党のペク・スンア議員（比例代表）は20日、釜山市教育庁で大邱など6つの地域教育庁を対象に開かれた国会教育委員会の国政監査で「2025年1学期に比べ、今年AIDTを活用する学校は全国で84.8%減少したが、大邱だけは違う」と指摘した。"
+                "x": "AIが出版物をより小さな断片に分解するなか、主張はその根拠、限界、文脈と結びついていてこそ役に立つ。出版社は、下流での再利用と再現性のためにどのメタデータを必須とするかを考え直すべきだ。"
               },
               {
                 "t": "p",
-                "x": "さらに「今年AIDTを活用する学校622校のうち、半数の311校が大邱にある」と付け加えた。"
+                "x": "AIによる発見には、技術的な接続だけでなく、許諾と価値のモデルが必要だ。コネクターが動いても、コンテンツが選ばれる保証はない。問うべきは「AIは私たちのコンテンツに届くか?」だけでなく、「AIはいつ、なぜそれを使うことを選ぶのか?」である。ゼロクリックが価値ゼロを意味するとは限らない。"
               },
               {
                 "t": "p",
-                "x": "ペク議員は、大邱地域の学校でAIDTの採用が多いのは教育監の圧力によるものとみられる点も指摘した。"
+                "x": "信頼は最もよく聞かれた言葉の一つだった。Kudosの調査によると、回答者の約三分の一がAIツールやAI回答を備えた検索エンジンから検索を始め、40%は検索エンジンのAI概要を人間が作成または選別したものだと誤解している。"
               },
               {
                 "t": "p",
-                "x": "ペク議員は「大邱市教育庁がAIDTに関する公文書を何度も各学校に送り活用を促したにもかかわらず、実際の利用回数は低調だった」と指摘した。"
-              },
-              {
-                "t": "p",
-                "x": "ペク議員が大邱市教育庁から提出を受けた資料によると、今年1学期時点で大邱のAI DTを導入した小中高校に支援された購読料は計45억8천900만원だった。"
-              },
-              {
-                "t": "p",
-                "x": "このうちAIデジタル教科書の利用が20回未満の学校は119校と集計された。"
-              },
-              {
-                "t": "p",
-                "x": "ペク議員は「通常1学期を20週とすると、38.3%は週に1度も使わなかったことになる」とし、「この程度の数値でAIデジタル教科書を適切に活用したと評価できるのか」と問いただした。"
-              },
-              {
-                "t": "p",
-                "x": "続けて「全国の他の学校の大半が選ばなかった教育資料を、なぜ大邱だけがこれほど圧倒的に多く購読し、そのために別途支援しているのか」と追及した。"
-              },
-              {
-                "t": "p",
-                "x": "これに対しカン・ウニ大邱市教育監は「活用が低調な学校を分析すると、それなりに低調な部分があることは認める」としながらも、「ただ、実際に十分活用され、生徒の学習に積極的に役立ったという事例のほうが多い」と答えた。"
-              },
-              {
-                "t": "p",
-                "x": "さらに「AIデジタル教科書を引き続きうまく活用できるよう支援している」と付け加えた。"
-              },
-              {
-                "t": "img",
-                "src": "https://img0.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102011870005100_P4.jpg",
-                "cap": "業務報告をするカン・ウニ大邱教育監"
+                "x": "エージェントについては、具体的な課題から始め、成功、失敗、例外を定義してから自律性を高めるよう勧める。導入したエージェントの数を数えても、わかることは少ない。彼にとってFrankfurtの核心的なメッセージは、知識をめぐるつながり、すなわち主張と根拠、利用と許諾、自動化された行動とその責任を負う人々とのつながりだった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "大邱AI教科书\n使用率引发争论",
-          "body": "大邱教育厅为AIDT花费数十亿韩元，但其实际使用情况引发争议。",
-          "mini_headline": "大邱AIDT使用之争",
+          "headline": "Frankfurt 2026\n从内容到可信知识",
+          "body": "Frankfurt 2026上，一位产品负责人追问AI-driven流程中可信内容的价值。",
+          "mini_headline": "Frankfurt：从内容到知识",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102012040005100_P4.jpg",
-                "cap": "正在质询的白承娥议员"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-2191733603.jpg",
+                "cap": "Messe Frankfurt"
               },
               {
                 "t": "p",
-                "x": "（大邱=韩联社）记者黄秀彬（音译）= 今年大邱教育厅为在中小学推广人工智能数字教科书（AIDT）投入了数十亿韩元的订阅费，但有人指出其在实际教学中的使用率偏低。"
+                "x": "KnowledgeWorks Global的VP of Product Management Hong Zhou离开Frankfurt Book Fair 2026时，带走的问题更多关乎我们如何使用AI，而非AI能做什么。他反复追问：我们如何把可信内容变成有用的知识，并帮助人们据此行动？"
               },
               {
                 "t": "p",
-                "x": "共同民主党议员白承娥（比例代表）20日在釜山市教育厅举行的、以大邱等6个地区教育厅为对象的国会教育委员会国政监查中指出：“与2025年第1学期相比，今年全国使用AIDT的学校减少了84.8%，唯独大邱不同。”"
+                "x": "随着AI把出版物拆解成更小的片段，一项论断只有在其证据、局限和语境仍附着其上时才有用。出版商应重新思考，哪些元数据对下游复用和可重复性是必需的。"
               },
               {
                 "t": "p",
-                "x": "她补充说：“今年使用AIDT的622所学校中，有一半即311所在大邱。”"
+                "x": "AI发现需要的不只是技术连接，还需要一套许可与价值模型。连接器能用，并不保证内容会被选用：问题不只是“AI能否触达我们的内容？”，而是“它何时、为何会选择使用这些内容？”零点击未必意味着零价值。"
               },
               {
                 "t": "p",
-                "x": "白承娥还指出，大邱地区学校大量采用AIDT，似乎是由于教育监施压。"
+                "x": "信任是被提及最多的词之一。Kudos的调查发现，约三分之一的受访者通过AI工具或带有AI答案的搜索引擎开始搜索，40%的人误以为搜索引擎的AI概览由人工创作或筛选。"
               },
               {
                 "t": "p",
-                "x": "她指出：“尽管大邱市教育厅多次向各校发送与AIDT相关的公文并鼓励使用，但实际使用次数仍然偏低。”"
-              },
-              {
-                "t": "p",
-                "x": "根据白承娥从大邱市教育厅获得的资料，截至今年第1学期，向大邱引入AI DT的中小学提供的订阅费共计45억8천900만원。"
-              },
-              {
-                "t": "p",
-                "x": "其中，使用AI数字教科书不足20次的学校统计为119所。"
-              },
-              {
-                "t": "p",
-                "x": "白承娥质问：“通常一个学期按20周计算，意味着38.3%的学校一周连一次都没用过。”她又问：“凭这样的数字，能说AI数字教科书得到了妥善使用吗？”"
-              },
-              {
-                "t": "p",
-                "x": "她接着追问：“全国其他学校大多没有选择的教育资料，为什么唯独大邱如此大量订阅，并为此另行提供支持？”"
-              },
-              {
-                "t": "p",
-                "x": "对此，大邱市教育监姜银姬回答说：“分析使用率低的学校，我承认确实存在使用不足的部分。”但她也表示：“不过，实际充分使用并对学生学习起到积极帮助的案例更多。”"
-              },
-              {
-                "t": "p",
-                "x": "她接着补充说：“我们正在持续提供支持，以便AI数字教科书能够得到良好使用。”"
-              },
-              {
-                "t": "img",
-                "src": "https://img0.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102011870005100_P4.jpg",
-                "cap": "正在作工作报告的大邱教育监姜银姬"
+                "x": "谈到智能体，他主张先从具体问题入手，在提高自主性之前界定成功、失败和例外情况；清点已部署的智能体数量说明不了什么。在他看来，Frankfurt的核心信息在于知识周围的连接：论断与证据之间、使用与许可之间、自动化行动与对其负责的人之间。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Libros de texto con IA\nen Daegu, bajo debate",
-          "body": "La oficina de educación de Daegu gastó miles de millones de wones en AIDT, pero su uso real está en debate.",
-          "mini_headline": "Debate por el uso de AIDT en Daegu",
+          "headline": "Frankfurt 2026: del contenido\nal conocimiento confiable",
+          "body": "En Frankfurt 2026, un jefe de producto preguntó cómo volver útil el contenido fiable en flujos AI-driven.",
+          "mini_headline": "Frankfurt: del contenido al conocimiento",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img8.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102012040005100_P4.jpg",
-                "cap": "La diputada Baek Seung-a durante su interpelación"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-2191733603.jpg",
+                "cap": "Messe Frankfurt"
               },
               {
                 "t": "p",
-                "x": "(Daegu=Yonhap News) Periodista Hwang Su-bin = Este año, la Oficina de Educación de Daegu destinó miles de millones de wones en cuotas de suscripción para implantar libros de texto digitales con inteligencia artificial (AIDT) en escuelas primarias y secundarias, pero se ha señalado que su uso en las clases reales es bajo."
+                "x": "Hong Zhou, VP of Product Management de KnowledgeWorks Global, salió de la Frankfurt Book Fair 2026 con más preguntas sobre cómo usamos la AI que sobre lo que puede hacer. Su pregunta recurrente: ¿cómo convertimos contenido fiable en conocimiento útil y ayudamos a las personas a actuar en consecuencia?"
               },
               {
                 "t": "p",
-                "x": "La diputada Baek Seung-a (representación proporcional), del Partido Democrático de Corea, señaló el día 20, en la auditoría parlamentaria del Comité de Educación de la Asamblea Nacional a seis oficinas regionales de educación, entre ellas la de Daegu, celebrada en la Oficina de Educación de Busan: \"En comparación con el primer semestre de 2025, las escuelas que usan AIDT han disminuido este año un 84.8% en todo el país, pero Daegu es la excepción\"."
+                "x": "A medida que la AI descompone las publicaciones en piezas más pequeñas, una afirmación solo es útil si conserva su evidencia, sus limitaciones y su contexto. Las editoriales deberían replantearse qué metadatos son obligatorios para la reutilización posterior y la reproducibilidad."
               },
               {
                 "t": "p",
-                "x": "Añadió: \"De las 622 escuelas que usan AIDT este año, la mitad, 311, están en Daegu\"."
+                "x": "El descubrimiento mediante AI necesita un modelo de permisos y de valor, no solo una conexión técnica. Que un conector funcione no garantiza que el contenido sea seleccionado: la pregunta no es solo “¿Puede la AI llegar a nuestro contenido?”, sino “¿Cuándo y por qué decidirá usarlo?”. Cero clics no tiene por qué significar cero valor."
               },
               {
                 "t": "p",
-                "x": "Baek también señaló que la elevada adopción de AIDT en las escuelas de Daegu parece deberse a la presión del superintendente de educación."
+                "x": "La confianza fue una de las palabras más escuchadas. Según los hallazgos de Kudos, alrededor de un tercio de los encuestados empieza sus búsquedas con herramientas de AI o buscadores con respuestas de AI, y el 40% cree erróneamente que los resúmenes de AI de los buscadores están creados o seleccionados por personas."
               },
               {
                 "t": "p",
-                "x": "Indicó: \"Aunque la Oficina de Educación de Daegu envió varias veces circulares oficiales sobre AIDT a las escuelas y fomentó su uso, el número real de usos resultó ser bajo\"."
-              },
-              {
-                "t": "p",
-                "x": "Según los datos que Baek recibió de la Oficina de Educación de Daegu, las cuotas de suscripción entregadas a las escuelas primarias y secundarias de Daegu que adoptaron AI DT sumaron en total 45억8천900만원 a fecha del primer semestre de este año."
-              },
-              {
-                "t": "p",
-                "x": "De ellas, 119 escuelas usaron los libros de texto digitales con IA menos de 20 veces."
-              },
-              {
-                "t": "p",
-                "x": "Baek cuestionó: \"Si un semestre suele tener 20 semanas, el 38.3% no los usó ni una vez por semana\", y preguntó: \"¿Con estas cifras se puede afirmar que los libros de texto digitales con IA se aprovecharon como es debido?\"."
-              },
-              {
-                "t": "p",
-                "x": "A continuación insistió: \"¿Por qué solo Daegu se suscribe de forma tan abrumadora a un material educativo que la mayoría de las demás escuelas del país no eligió, y además le da un apoyo aparte?\"."
-              },
-              {
-                "t": "p",
-                "x": "En respuesta, la superintendente de educación de Daegu, Kang Eun-hee, afirmó: \"Al analizar las escuelas con bajo uso, reconozco que hay aspectos en los que el uso es bajo\", aunque añadió: \"Sin embargo, son más los casos en que se usaron de forma suficiente y ayudaron activamente al aprendizaje de los alumnos\"."
-              },
-              {
-                "t": "p",
-                "x": "Y agregó: \"Seguimos brindando apoyo para que los libros de texto digitales con IA puedan aprovecharse bien\"."
-              },
-              {
-                "t": "img",
-                "src": "https://img0.yna.co.kr/photo/yna/YH/2026/10/20/PYH2026102011870005100_P4.jpg",
-                "cap": "La superintendente de educación de Daegu, Kang Eun-hee, presenta su informe"
+                "x": "Sobre los agentes, recomienda empezar por un problema concreto y definir el éxito, el fracaso y las excepciones antes de aumentar la autonomía; contar los agentes desplegados dice poco. Para él, el mensaje clave de Frankfurt tuvo que ver con las conexiones en torno al conocimiento: entre una afirmación y su evidencia, un uso y su permiso, y una acción automatizada y las personas responsables de ella."
               }
             ]
           }

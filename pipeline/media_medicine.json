@@ -1,28 +1,28 @@
 {
-  "date": "2026-10-24",
-  "section": "medicine",
-  "media": [
-    {
-      "id": "medicine-nice-prostate",
-      "type": "svg"
-    },
-    {
-      "id": "medicine-ms-diagnosis",
-      "type": "image",
-      "src": "pipeline/media/medicine-ms-diagnosis.jpg"
-    },
-    {
-      "id": "medicine-mfds-aidrug",
-      "type": "image",
-      "src": "pipeline/media/medicine-mfds-aidrug.jpg"
-    },
-    {
-      "id": "medicine-ai-oversight",
-      "type": "svg"
-    },
-    {
-      "id": "medicine-pharmacy-ai",
-      "type": "svg"
-    }
-  ]
+ "media": [
+  {
+   "id": "medicine-eko-core300-fda",
+   "type": "image",
+   "src": "pipeline/media/medicine-eko-core300-fda.jpg"
+  },
+  {
+   "id": "medicine-aitrics-kbsmc-admin-ai",
+   "type": "svg"
+  },
+  {
+   "id": "medicine-pitt-breast-ai-trust",
+   "type": "image",
+   "src": "pipeline/media/medicine-pitt-breast-ai-trust.jpg"
+  },
+  {
+   "id": "medicine-episemollm-epilepsy",
+   "type": "image",
+   "src": "pipeline/media/medicine-episemollm-epilepsy.png"
+  },
+  {
+   "id": "medicine-elucid-ffr-iq-fda",
+   "type": "image",
+   "src": "pipeline/media/medicine-elucid-ffr-iq-fda.png"
+  }
+ ]
 }

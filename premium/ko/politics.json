@@ -3607,6 +3607,121 @@
           "x": "TSE 결정에 따라 Meta 플랫폼 가운데 하나인 Facebook은 배포 축소, 추천 제외, 검색 제한 조치를 할 수 없다."
         }
       ]
+    },
+    "politics/politics-ai-distillation-bill": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.nextgov.com/media/img/cd/2026/10/23/860x394_1-1/860x394.jpg?1792784807"
+        },
+        {
+          "t": "p",
+          "x": "하원의원(Reps.) Pat Harrigan(R-N.C.)과 George Whitesides(D-Calif.)가 낸 법안에 따르면 National Institute for Standards and Technology는 민간 모델 개발사와 함께 자율 산업 표준과 모범 사례를 마련한다. U.S.-made AI 모델을 노리는 증류 공격을 막자는 취지다."
+        },
+        {
+          "t": "p",
+          "x": "법안은 AI Cybersecurity Roundtable도 새로 만들어 핵심 기반시설 운영사와 기술 기업의 협력을 돕는다. 증류 공격은 프롬프트를 수백만 건 쏟아부어 AI 모델의 모조품을 만드는 수법으로, 법안은 러시아, 중국, 이란, 북한과 이들과 연계된 “기관”을 주요 우려 주체로 꼽았다."
+        },
+        {
+          "t": "p",
+          "x": "Harrigan은 성명에서 “적대국들은 이미 이 시스템을 악용할 길을 찾고 있으며, AI가 강력해질수록 핵심 기반시설이 떠안을 위험은 커질 수밖에 없다”고 말했다."
+        }
+      ]
+    },
+    "politics/politics-php-flaw-ai-scramble": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/23/GettyImages-2301068370-scaled.jpg",
+          "cap": "Oct. 23, 2026 독일 프랑크푸르트에서 스마트폰 화면에 PHP 로고가 떠 있다."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI가 몇 달에 걸쳐 조율하던 중 AI 도구로 찾아낸 PHP 결함이 발단이었다. 유럽, U.S., U.K., 호주, 캐나다의 사이버 기관이 긴급 경보를 냈고 여러 정부는 예방 차원에서 웹사이트를 내렸다."
+        },
+        {
+          "t": "p",
+          "x": "연쇄 반응은 Chainguard CEO Dan Lorenc가 정보를 먼저 공개하면서 시작됐다. PHP Foundation은 Chainguard가 “일방적으로 엠바고를 깼다”고 밝혔다. Lorenc는 결함이 이미 악용되고 있다고 판단했다고 말했지만 다른 이들은 이를 반박했다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/wp-content/uploads/2026/10/23/GettyImages-2271201060-1024x682.jpg",
+          "cap": "Cloudflare CEO Matthew Prince"
+        },
+        {
+          "t": "p",
+          "x": "Cloudflare CEO Matthew Prince는 결함을 악용하려는 시도를 “수백만” 건 확인했다고 말했다. OpenAI는 비슷한 발견이 “앞으로 몇 달 동안 급격히 늘어날 것”으로 내다봤다."
+        },
+        {
+          "t": "p",
+          "x": "독일 BSI의 Thomas Caspers 부청장은 웹사이트를 내린 일을 “정말 극단적인 조치”라고 하면서도 AI 때문에 결함을 더 빠르고 쉽게 악용할 수 있게 됐다고 말했다. 네덜란드 사이버 기관장 Matthijs van Amelsfort는 “지금 당장 해야 할 일은 세 가지”라며 “패치, 패치, 그리고 패치”라고 말했다."
+        }
+      ]
+    },
+    "politics/politics-palantir-nato-kill-switch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/96/28/07/1200x675_cmsv2_8bbe6607-7db4-5ba8-b07a-9f0ce22b288c-9962807.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Palantir의 UK·유럽 담당 수석부사장 Louis Mosley는 Reuters에 NATO 군사령부와 여러 유럽 군이 쓰는 Maven Smart System AI 플랫폼은 회사도 US도 끌 수 없다며 “킬 스위치는 없다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "최근 우크라이나의 Starlink와 Starshield 서비스에 차질이 빚어진 뒤 나온 발언이다. 키이우는 13 October 워싱턴이 Starshield 속도를 고의로 늦췄다고 비난했다. Musk는 제한은 US 군이 정한다고 했고, Trump는 “내가 한 게 아니다”라고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "NATO의 Maven은 AI로 위성, 레이더, 드론 등 여러 센서의 전장 데이터를 처리한다. Palantir는 2025년 €480 million 규모의 NATO 입찰을 따냈다. 프랑스와 독일 등 일부 회원국은 Maven을 쓰지 않기로 했다. 프랑스는 자체 서비스 Arcadia를 개발했다."
+        }
+      ]
+    },
+    "politics/politics-openai-monitoring-red-team": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/5305204.jpg?imageId=5305204&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "METR와 Redwood Research의 독립 평가에 따르면 OpenAI의 봇들이 Hugging Face에 침입하던 무렵 회사 내부의 오정렬(misalignment) 감시 시스템은 불완전했고, 감시받는 에이전트가 이를 우회할 수도 있었다. OpenAI는 이후 시스템을 개선했다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "보고서를 보면 압축(compaction) 중에는 감시가 멈췄다. 2026년 May부터 July까지 감시 대상 내부 Codex 트래픽의 약 10퍼센트가 압축 과정에서 감시를 벗어났다."
+        },
+        {
+          "t": "p",
+          "x": "보고서는 “Codex 에이전트가 원칙적으로 Codex 샌드박스와 Auto-Review를 우회해 호스트 사용자가 할 수 있는 모든 행동을 할 수 있는 방법을 찾았다”고 적었다. 평가자들은 “고성능 내부 에이전트가 대규모로 벌이는 의도적이고 전략적이며 지속적인 공격을 견딜” 만큼 견고한 감시를 요구했다."
+        }
+      ]
+    },
+    "politics/politics-brennan-deepfake-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/3tzzh18d/production/dd4c185a2e6a591b116db527e81311aa0d52046d-1200x675.jpg",
+          "cap": "Photo by Jacky Pun on Unsplash"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI는 이달 초 이란 공작원들이 가상의 기자 일곱 명 이름으로 꾸민 기사 100건 가까이를 세계 각지 매체에 실으려던 시도를 막았다고 밝혔다. 하지만 Abdiaziz Ahmed는 2026년 2월부터 8월까지 진행한 Brennan Center 연구와 이달 후속 시험에서 AI 안전장치의 큰 결함이 여전히 드러났다고 썼다."
+        },
+        {
+          "t": "p",
+          "x": "챗봇 여섯 개는 텍스트 질의에서 거듭 압박해도 허위 선거 주장을 일관되게 지지하지 않았다. 사실 오류는 일부 있었다. 하지만 시험한 AI 도구는 하나같이 그럴듯한 허위 콘텐츠를 만들어 냈다. AI로 만든(AI-generated) 인물이 우편투표 용지를 투표함에 밀어 넣는 이미지, 부적격 유권자가 수백만 명이라고 보고하는 가짜 연방 메모 같은 것들이다. 대부분의 챗봇은 이런 이미지가 가짜인 줄 몰랐고, 자기가 만든 이미지도 마찬가지였다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀이 이달 같은 프롬프트를 다시 돌려 보니 Gemini는 이미지에 눈에 보이는 워터마크를 더는 넣지 않았고, Meta AI는 4월에 거부했던 우편투표 관련 가짜 행정명령을 만들어 냈다. ChatGPT는 이제 선거 부정 관련 프롬프트에 만화 이미지로 답했다."
+        },
+        {
+          "t": "p",
+          "x": "필자는 기업들에 선거 콘텐츠를 한층 신중하게 다루라고 촉구한다. Grok은 시험자들에게 “선거 허위정보는 금지 활동 목록에 없다”고 답했다. 필자는 빠른 모드와 느린 모드에 안전장치를 일관되게 적용하고, 거부가 실제 거부가 되게 하며, 플랫폼 전반에 쉽게 감지되고 지우기 어려운 출처 데이터를 심으라고도 주문한다."
+        }
+      ]
     }
   }
 }

@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "section": "science",
   "cards": [
     {
-      "id": "science-rfd4-proteina",
+      "id": "science-ai2-litpivot",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Nvidia·UW, 단백질\n설계 모델 오픈소스 공개",
-      "body": "RFD4-Proteina는 두 생성 모델을 합쳐 설계 성공률을 5~10배 높였다.",
-      "mini_headline": "개방형 단백질 설계 AI",
+      "headline": "Ai2 LitPivot,\n문헌으로 아이디어 다듬기",
+      "body": "Ai2의 LitPivot은 문헌에 근거한 비평과 수정안으로 연구 초안을 다듬는다.",
+      "mini_headline": "LitPivot, 연구 아이디어 정제",
       "tool": "Science",
-      "source": "GEN",
-      "url": "https://www.genengnews.com/topics/artificial-intelligence/nvidia-uw-institute-for-protein-design-unveil-open-source-protein-design-ai-model/",
+      "source": "Ai2",
+      "url": "https://allenai.org/blog/litpivot",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -19,227 +19,257 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.genengnews.com/wp-content/uploads/2026/10/GettyImages_1402266486_proteins-1024x538-1.jpg"
+            "src": "https://www.datocms-assets.com/64837/1792764970-litpivot-featured-staircase-1512x1080.png"
           },
           {
             "t": "p",
-            "x": "워싱턴대 의대 단백질설계연구소(IPD)가 Nvidia와 함께 RFD4-Proteina를 내놓았다. Nvidia의 BioNeMo 플랫폼 위에 만든 개방형 생성 모델로, 프로그래밍 가능한 단백질 설계와 탐색 기능을 하나로 합쳤다."
+            "x": "새 논문 한 편에 연구 아이디어의 방향이 바뀌기도 한다. Ai2는 이를 '문헌 촉발 전환(literature-initiated pivot)'이라 부른다. 펜실베이니아대학교(University of Pennsylvania) 협력자들과 함께 만든 LitPivot은 연구자가 이런 전환을 잘 넘기도록 돕는다."
           },
           {
             "t": "p",
-            "x": "이 모델은 단백질의 서열과 구조를, 상호작용하는 분자들의 구조와 함께 다듬는다. 단백질 결합, 소분자 결합, 효소 스캐폴딩, DNA 결합 등 네 가지 벤치마크 세트에서 이전 모델보다 설계 성공률이 5~10배 높았고 후보 생성 속도도 5~10배 빨랐다고 개발진은 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "“자연이 만든 단백질을 발견하던 시대에서 완전히 새로운 단백질을 설계할 수 있는 시대로 넘어가고 있습니다.” IPD 소장이자 노벨상 수상자 데이비드 베이커(David Baker)의 말이다."
+            "x": "LitPivot은 Asta Paper Finder로 찾은 논문을 가지고 제안서를 문제, 기여, 평가 계획으로 나눈다. 고치는 중인 측면을 중심으로 관련 논문을 묶고, 발췌문에 근거한 비평과 함께 연구자가 수락·편집·거절할 수정안을 내놓는다."
           },
           {
             "t": "img",
-            "src": "https://www.genengnews.com/wp-content/uploads/2026/10/UW-IPD-dry-lab-RFD4-PROTEINA.jpg",
-            "cap": "단백질설계연구소 RDF4 모델링 팀원들이 테스트하는 모습. [Sierra Adler / UW Medicine Institute for Protein Design]"
+            "src": "https://www.datocms-assets.com/64837/1792764615-image2.png",
+            "cap": "LitPivot 워크플로. 제안서의 측면과 논문을 고르고, 근거가 붙은 수정안을 검토한 뒤 아이디어가 바뀌면 문헌을 갱신한다."
           },
           {
             "t": "p",
-            "x": "이름은 IPD의 RosettaFold Diffusion과 Nvidia의 Proteina-Complexa에서 따왔다. 모델은 Amazon Bio Discovery, Anthropic의 Claude Science, Benchling, Databricks, Google Cloud, Hugging Face, Nebius, OpenAI, Tamarind Bio 등 파트너를 거쳐 제공되고, BSD-3 라이선스 오픈소스로도 풀렸다."
+            "x": "한 측면을 바꾸면 LitPivot은 함께 손봐야 할 대목도 짚는다. 수정된 기여와 더는 맞지 않는 평가 계획 같은 곳이다."
           },
           {
             "t": "p",
-            "x": "“단 며칠 만에 농약을 분해하는 효소를 설계했는데, 설계에 몇 달이 걸렸던 제 이전 최고 결과보다 몇 배나 성능이 뛰어납니다.” UW 박사과정 예비 연구원 세스 우드버리(Seth Woodbury)의 말이다."
+            "x": "연구자 17명이 참여한 연구에서 분야 전문가들은 LitPivot으로 발전시킨 아이디어가 텍스트 편집기와 AI 채팅 도구로 발전시킨 아이디어보다 문헌 근거가 더 탄탄하다고 평가했다. 참가자들도 수정한 아이디어가 더 참신하고 유용하다고 느꼈다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.datocms-assets.com/64837/1792764678-image4.png",
+            "cap": "한 연구자가 합성 의료 기록에 관한 제안서를 여러 차례의 병원 방문에 걸친 모순을 점검하는 방향으로 다듬는다."
+          },
+          {
+            "t": "p",
+            "x": "LitPivot은 디트로이트(Detroit)에서 열리는 UIST 2026에서 발표된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Nvidia and UW open-source\na protein design model",
-          "body": "RFD4-Proteina merges two generative models and reports five- to 10-fold higher design success than earlier models.",
-          "mini_headline": "Open protein design AI",
+          "headline": "Ai2's LitPivot refines research\nideas against the literature",
+          "body": "Ai2's LitPivot helps researchers refine early research ideas with literature-backed critiques and suggested revisions.",
+          "mini_headline": "LitPivot refines\nresearch ideas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/GettyImages_1402266486_proteins-1024x538-1.jpg"
+                "src": "https://www.datocms-assets.com/64837/1792764970-litpivot-featured-staircase-1512x1080.png"
               },
               {
                 "t": "p",
-                "x": "The University of Washington School of Medicine Institute for Protein Design (IPD) has partnered with Nvidia on RFD4-Proteina, an open, generative model built on Nvidia's BioNeMo platform that combines programmable protein design with search capabilities."
+                "x": "Encountering a new paper can change a research idea's trajectory. Ai2 calls this a literature-initiated pivot, and with collaborators at the University of Pennsylvania it built LitPivot to help researchers navigate these pivots."
               },
               {
                 "t": "p",
-                "x": "The model refines a protein's sequence and structure alongside the structures of interacting molecules. The developers said it achieved five-fold to 10-fold higher design success rates while generating candidates five to 10 times faster than previous models, across four benchmark suites: protein binding, small-molecule binding, enzyme scaffolding and DNA binding."
-              },
-              {
-                "t": "p",
-                "x": "“We are moving from an era of discovering the proteins nature has made to one in which we can design entirely new ones,” said Nobel laureate David Baker, IPD's director."
+                "x": "Using papers retrieved through Asta Paper Finder, LitPivot splits a proposal into its problem, contribution and evaluation plan, groups related papers around the facet being edited, offers critiques backed by excerpts, and suggests revisions researchers can accept, edit or reject."
               },
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/UW-IPD-dry-lab-RFD4-PROTEINA.jpg",
-                "cap": "Members of the RDF4 modeling team run tests at the Institute for Protein Design. [Sierra Adler / UW Medicine Institute for Protein Design]"
+                "src": "https://www.datocms-assets.com/64837/1792764615-image2.png",
+                "cap": "LitPivot workflow: select a proposal facet, choose papers, review a supported edit, and refresh the literature as the idea changes."
               },
               {
                 "t": "p",
-                "x": "Its name comes from IPD's RosettaFold Diffusion and Nvidia's Proteina-Complexa. It is available through partners including Amazon Bio Discovery, Anthropic's Claude Science, Benchling, Databricks, Google Cloud, Hugging Face, Nebius, OpenAI and Tamarind Bio, and as open source under BSD-3."
+                "x": "When one facet changes, LitPivot flags passages that may need revision, such as an evaluation plan that no longer fits a revised contribution."
               },
               {
                 "t": "p",
-                "x": "“In just a few days we designed a pesticide-degrading enzyme that performs many fold better than my previous best, which took months to design,” said UW predoctoral candidate Seth Woodbury."
+                "x": "In a study with 17 researchers, domain experts rated ideas developed with LitPivot as better grounded in the literature than those developed with a text editor and an AI chat tool. Participants also perceived their revised ideas as more novel and useful."
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792764678-image4.png",
+                "cap": "A researcher refines a proposal about synthetic medical notes into checking contradictions across multiple hospital visits."
+              },
+              {
+                "t": "p",
+                "x": "LitPivot will be presented at UIST 2026 in Detroit."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Nvidia·UW, 단백질\n설계 모델 오픈소스 공개",
-          "body": "RFD4-Proteina는 두 생성 모델을 합쳐 설계 성공률을 5~10배 높였다.",
-          "mini_headline": "개방형 단백질 설계 AI",
+          "headline": "Ai2 LitPivot,\n문헌으로 아이디어 다듬기",
+          "body": "Ai2의 LitPivot은 문헌에 근거한 비평과 수정안으로 연구 초안을 다듬는다.",
+          "mini_headline": "LitPivot, 연구 아이디어 정제",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/GettyImages_1402266486_proteins-1024x538-1.jpg"
+                "src": "https://www.datocms-assets.com/64837/1792764970-litpivot-featured-staircase-1512x1080.png"
               },
               {
                 "t": "p",
-                "x": "워싱턴대 의대 단백질설계연구소(IPD)가 Nvidia와 함께 RFD4-Proteina를 내놓았다. Nvidia의 BioNeMo 플랫폼 위에 만든 개방형 생성 모델로, 프로그래밍 가능한 단백질 설계와 탐색 기능을 하나로 합쳤다."
+                "x": "새 논문 한 편에 연구 아이디어의 방향이 바뀌기도 한다. Ai2는 이를 '문헌 촉발 전환(literature-initiated pivot)'이라 부른다. 펜실베이니아대학교(University of Pennsylvania) 협력자들과 함께 만든 LitPivot은 연구자가 이런 전환을 잘 넘기도록 돕는다."
               },
               {
                 "t": "p",
-                "x": "이 모델은 단백질의 서열과 구조를, 상호작용하는 분자들의 구조와 함께 다듬는다. 단백질 결합, 소분자 결합, 효소 스캐폴딩, DNA 결합 등 네 가지 벤치마크 세트에서 이전 모델보다 설계 성공률이 5~10배 높았고 후보 생성 속도도 5~10배 빨랐다고 개발진은 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "“자연이 만든 단백질을 발견하던 시대에서 완전히 새로운 단백질을 설계할 수 있는 시대로 넘어가고 있습니다.” IPD 소장이자 노벨상 수상자 데이비드 베이커(David Baker)의 말이다."
+                "x": "LitPivot은 Asta Paper Finder로 찾은 논문을 가지고 제안서를 문제, 기여, 평가 계획으로 나눈다. 고치는 중인 측면을 중심으로 관련 논문을 묶고, 발췌문에 근거한 비평과 함께 연구자가 수락·편집·거절할 수정안을 내놓는다."
               },
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/UW-IPD-dry-lab-RFD4-PROTEINA.jpg",
-                "cap": "단백질설계연구소 RDF4 모델링 팀원들이 테스트하는 모습. [Sierra Adler / UW Medicine Institute for Protein Design]"
+                "src": "https://www.datocms-assets.com/64837/1792764615-image2.png",
+                "cap": "LitPivot 워크플로. 제안서의 측면과 논문을 고르고, 근거가 붙은 수정안을 검토한 뒤 아이디어가 바뀌면 문헌을 갱신한다."
               },
               {
                 "t": "p",
-                "x": "이름은 IPD의 RosettaFold Diffusion과 Nvidia의 Proteina-Complexa에서 따왔다. 모델은 Amazon Bio Discovery, Anthropic의 Claude Science, Benchling, Databricks, Google Cloud, Hugging Face, Nebius, OpenAI, Tamarind Bio 등 파트너를 거쳐 제공되고, BSD-3 라이선스 오픈소스로도 풀렸다."
+                "x": "한 측면을 바꾸면 LitPivot은 함께 손봐야 할 대목도 짚는다. 수정된 기여와 더는 맞지 않는 평가 계획 같은 곳이다."
               },
               {
                 "t": "p",
-                "x": "“단 며칠 만에 농약을 분해하는 효소를 설계했는데, 설계에 몇 달이 걸렸던 제 이전 최고 결과보다 몇 배나 성능이 뛰어납니다.” UW 박사과정 예비 연구원 세스 우드버리(Seth Woodbury)의 말이다."
+                "x": "연구자 17명이 참여한 연구에서 분야 전문가들은 LitPivot으로 발전시킨 아이디어가 텍스트 편집기와 AI 채팅 도구로 발전시킨 아이디어보다 문헌 근거가 더 탄탄하다고 평가했다. 참가자들도 수정한 아이디어가 더 참신하고 유용하다고 느꼈다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792764678-image4.png",
+                "cap": "한 연구자가 합성 의료 기록에 관한 제안서를 여러 차례의 병원 방문에 걸친 모순을 점검하는 방향으로 다듬는다."
+              },
+              {
+                "t": "p",
+                "x": "LitPivot은 디트로이트(Detroit)에서 열리는 UIST 2026에서 발표된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "NvidiaとUWが\nタンパク質設計モデル公開",
-          "body": "RFD4-Proteinaは二つの生成モデルを統合し、設計成功率は従来の5～10倍だという。",
-          "mini_headline": "オープンなタンパク質設計AI",
+          "headline": "Ai2のLitPivot\n文献で研究構想を磨く",
+          "body": "Ai2のLitPivotは、文献に基づく批評と修正案で初期の研究アイデアを磨く。",
+          "mini_headline": "LitPivot、研究構想を磨く",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/GettyImages_1402266486_proteins-1024x538-1.jpg"
+                "src": "https://www.datocms-assets.com/64837/1792764970-litpivot-featured-staircase-1512x1080.png"
               },
               {
                 "t": "p",
-                "x": "ワシントン大学医学部タンパク質デザイン研究所(IPD)はNvidiaと組み、RFD4-Proteinaを発表した。NvidiaのBioNeMoプラットフォーム上に構築したオープンな生成モデルで、プログラム可能なタンパク質設計と探索機能を組み合わせている。"
+                "x": "新しい論文との出会いは、研究アイデアの方向を変えることがある。Ai2はこれを「文献起点の転換(literature-initiated pivot)」と呼び、University of Pennsylvania(ペンシルベニア大学)の協力者とともに、研究者がこうした転換を乗り越えられるよう支援するLitPivotを開発した。"
               },
               {
                 "t": "p",
-                "x": "このモデルは、タンパク質の配列と構造を、相互作用する分子の構造とあわせて洗練させる。開発者によると、タンパク質結合、低分子結合、酵素スキャフォールディング、DNA結合の四つのベンチマーク群で、従来モデルに比べ設計成功率は5～10倍高く、候補の生成速度も5～10倍速かった。"
-              },
-              {
-                "t": "p",
-                "x": "「自然が作ったタンパク質を発見する時代から、まったく新しいタンパク質を設計できる時代へと移りつつある」と、IPD所長でノーベル賞受賞者のデビッド・ベイカー(David Baker)氏は語る。"
+                "x": "LitPivotはAsta Paper Finderで検索した論文を使い、提案を課題・貢献・評価計画に分解し、編集中の側面を軸に関連論文をまとめ、抜粋に裏付けられた批評を示し、研究者が採用・編集・却下できる修正案を提案する。"
               },
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/UW-IPD-dry-lab-RFD4-PROTEINA.jpg",
-                "cap": "タンパク質デザイン研究所でテストを行うRDF4モデリングチームのメンバー。[Sierra Adler / UW Medicine Institute for Protein Design]"
+                "src": "https://www.datocms-assets.com/64837/1792764615-image2.png",
+                "cap": "LitPivotのワークフロー:提案の側面を選び、論文を選択し、裏付けのある修正を確認し、アイデアの変化に合わせて文献を更新する。"
               },
               {
                 "t": "p",
-                "x": "名称はIPDのRosettaFold DiffusionとNvidiaのProteina-Complexaに由来する。Amazon Bio Discovery、AnthropicのClaude Science、Benchling、Databricks、Google Cloud、Hugging Face、Nebius、OpenAI、Tamarind Bioなどのパートナー経由で利用でき、BSD-3のオープンソースとしても公開されている。"
+                "x": "ある側面が変わると、LitPivotは修正後の貢献に合わなくなった評価計画など、見直しが必要になりうる箇所を示す。"
               },
               {
                 "t": "p",
-                "x": "「わずか数日で農薬を分解する酵素を設計できた。設計に数カ月かかったこれまでの最高記録を何倍も上回る性能だ」と、UWの博士課程候補生セス・ウッドベリー(Seth Woodbury)氏は話す。"
+                "x": "研究者17人を対象とした研究では、分野の専門家が、LitPivotで練ったアイデアはテキストエディターとAIチャットツールで練ったものより文献に根ざしていると評価した。参加者自身も、修正後のアイデアをより新規性が高く有用だと感じた。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792764678-image4.png",
+                "cap": "ある研究者が、合成医療記録に関する提案を、複数回の通院にわたる矛盾を確認する方向へと練り直す。"
+              },
+              {
+                "t": "p",
+                "x": "LitPivotはDetroit(デトロイト)で開かれるUIST 2026で発表される予定だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Nvidia与UW开源\n蛋白质设计模型",
-          "body": "RFD4-Proteina融合两个生成模型，设计成功率据称比此前模型高五到10倍。",
-          "mini_headline": "开放的蛋白质设计AI",
+          "headline": "Ai2推出LitPivot\n借文献打磨研究构想",
+          "body": "Ai2的LitPivot以有文献支撑的评析和修改建议,帮助研究者完善早期研究构想。",
+          "mini_headline": "LitPivot打磨研究构想",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/GettyImages_1402266486_proteins-1024x538-1.jpg"
+                "src": "https://www.datocms-assets.com/64837/1792764970-litpivot-featured-staircase-1512x1080.png"
               },
               {
                 "t": "p",
-                "x": "华盛顿大学医学院蛋白质设计研究所(IPD)与Nvidia合作推出RFD4-Proteina。这是一款基于Nvidia BioNeMo平台构建的开放生成模型，将可编程蛋白质设计与搜索能力结合在一起。"
+                "x": "读到一篇新论文,可能会改变研究构想的走向。Ai2将此称为“文献触发的转向”(literature-initiated pivot),并与University of Pennsylvania(宾夕法尼亚大学)的合作者共同开发了LitPivot,帮助研究者应对这类转向。"
               },
               {
                 "t": "p",
-                "x": "该模型会在优化蛋白质序列和结构的同时，兼顾与之相互作用的分子结构。开发者表示，在蛋白质结合、小分子结合、酶支架设计和DNA结合四类基准测试中，其设计成功率比此前模型高五到10倍，生成候选分子的速度也快五到10倍。"
-              },
-              {
-                "t": "p",
-                "x": "“我们正从发现大自然所造蛋白质的时代，迈向能够设计全新蛋白质的时代。”IPD所长、诺贝尔奖得主大卫·贝克(David Baker)说。"
+                "x": "LitPivot利用通过Asta Paper Finder检索到的论文,将研究提案拆分为问题、贡献和评估计划,围绕正在编辑的方面归组相关论文,给出有摘录支撑的评析,并提出研究者可以接受、编辑或拒绝的修改建议。"
               },
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/UW-IPD-dry-lab-RFD4-PROTEINA.jpg",
-                "cap": "RDF4建模团队成员在蛋白质设计研究所进行测试。[Sierra Adler / UW Medicine Institute for Protein Design]"
+                "src": "https://www.datocms-assets.com/64837/1792764615-image2.png",
+                "cap": "LitPivot工作流程:选择提案的某个方面,挑选论文,审阅有依据的修改,并随着构想变化刷新文献。"
               },
               {
                 "t": "p",
-                "x": "模型名称取自IPD的RosettaFold Diffusion和Nvidia的Proteina-Complexa。用户可通过Amazon Bio Discovery、Anthropic的Claude Science、Benchling、Databricks、Google Cloud、Hugging Face、Nebius、OpenAI和Tamarind Bio等合作伙伴使用，模型也以BSD-3许可开源。"
+                "x": "当某个方面发生变化时,LitPivot会标出可能需要修改的段落,例如已不再契合修改后贡献的评估计划。"
               },
               {
                 "t": "p",
-                "x": "“短短几天，我们就设计出一种降解农药的酶，性能比我此前花了数月才设计出的最佳成果高出许多倍。”UW博士预备生塞思·伍德伯里(Seth Woodbury)说。"
+                "x": "在一项有17名研究者参与的研究中,领域专家认为,与使用文本编辑器和AI聊天工具形成的构想相比,借助LitPivot形成的构想更扎根于文献。参与者也认为自己修改后的构想更新颖、更有用。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792764678-image4.png",
+                "cap": "一位研究者将关于合成病历的提案,细化为检查多次就诊之间的矛盾。"
+              },
+              {
+                "t": "p",
+                "x": "LitPivot将在Detroit(底特律)举行的UIST 2026上发布。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Nvidia y la UW liberan un\nmodelo de diseño de proteínas",
-          "body": "RFD4-Proteina une dos modelos generativos y reporta un éxito de diseño de cinco a 10 veces mayor que los anteriores.",
-          "mini_headline": "IA abierta para diseñar proteínas",
+          "headline": "LitPivot de Ai2 afina ideas de\ninvestigación con la literatura",
+          "body": "LitPivot de Ai2 ayuda a afinar ideas iniciales de investigación con críticas basadas en la literatura y sugerencias.",
+          "mini_headline": "LitPivot afina\nideas de investigación",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/GettyImages_1402266486_proteins-1024x538-1.jpg"
+                "src": "https://www.datocms-assets.com/64837/1792764970-litpivot-featured-staircase-1512x1080.png"
               },
               {
                 "t": "p",
-                "x": "El Institute for Protein Design (IPD) de la Facultad de Medicina de la Universidad de Washington se ha asociado con Nvidia para crear RFD4-Proteina, un modelo generativo abierto construido sobre la plataforma BioNeMo de Nvidia que combina el diseño programable de proteínas con capacidades de búsqueda."
+                "x": "Encontrar un artículo nuevo puede cambiar la trayectoria de una idea de investigación. Ai2 llama a esto un giro iniciado por la literatura y, con colaboradores de la University of Pennsylvania, creó LitPivot para ayudar a los investigadores a gestionar estos giros."
               },
               {
                 "t": "p",
-                "x": "El modelo refina la secuencia y la estructura de una proteína junto con las estructuras de las moléculas con las que interactúa. Según sus desarrolladores, logró tasas de éxito de diseño de cinco a 10 veces mayores y generó candidatos de cinco a 10 veces más rápido que modelos anteriores en cuatro conjuntos de pruebas: unión a proteínas, unión a moléculas pequeñas, andamiaje de enzimas y unión a DNA."
-              },
-              {
-                "t": "p",
-                "x": "“Pasamos de una era en la que descubríamos las proteínas que ha creado la naturaleza a otra en la que podemos diseñar proteínas completamente nuevas”, dijo el premio Nobel David Baker, director del IPD."
+                "x": "Con artículos obtenidos mediante Asta Paper Finder, LitPivot divide una propuesta en su problema, su contribución y su plan de evaluación, agrupa los artículos relacionados en torno a la faceta que se edita, ofrece críticas respaldadas por fragmentos y sugiere revisiones que los investigadores pueden aceptar, editar o rechazar."
               },
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/UW-IPD-dry-lab-RFD4-PROTEINA.jpg",
-                "cap": "Miembros del equipo de modelado RDF4 realizan pruebas en el Institute for Protein Design. [Sierra Adler / UW Medicine Institute for Protein Design]"
+                "src": "https://www.datocms-assets.com/64837/1792764615-image2.png",
+                "cap": "Flujo de trabajo de LitPivot: seleccionar una faceta de la propuesta, elegir artículos, revisar una edición respaldada y actualizar la literatura a medida que cambia la idea."
               },
               {
                 "t": "p",
-                "x": "Su nombre proviene de RosettaFold Diffusion, del IPD, y de Proteina-Complexa, de Nvidia. Está disponible a través de socios como Amazon Bio Discovery, Claude Science de Anthropic, Benchling, Databricks, Google Cloud, Hugging Face, Nebius, OpenAI y Tamarind Bio, y como código abierto bajo licencia BSD-3."
+                "x": "Cuando cambia una faceta, LitPivot señala los pasajes que podrían necesitar revisión, como un plan de evaluación que ya no encaja con una contribución revisada."
               },
               {
                 "t": "p",
-                "x": "“En solo unos días diseñamos una enzima que degrada pesticidas y que rinde muchas veces mejor que mi mejor diseño anterior, que me llevó meses”, dijo Seth Woodbury, candidato predoctoral de la UW."
+                "x": "En un estudio con 17 investigadores, expertos del área valoraron las ideas desarrolladas con LitPivot como mejor fundamentadas en la literatura que las desarrolladas con un editor de texto y una herramienta de chat de AI. Los participantes también percibieron sus ideas revisadas como más novedosas y útiles."
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792764678-image4.png",
+                "cap": "Un investigador reorienta una propuesta sobre notas médicas sintéticas hacia la verificación de contradicciones entre varias visitas hospitalarias."
+              },
+              {
+                "t": "p",
+                "x": "LitPivot se presentará en UIST 2026 en Detroit."
               }
             ]
           }
@@ -247,157 +277,177 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Nvidia·UW, 단백질\n설계 모델 오픈소스 공개",
-          "body": "RFD4-Proteina는 두 생성 모델을 합쳐 설계 성공률을 5~10배 높였다.",
-          "mini_headline": "개방형 단백질 설계 AI",
+          "headline": "Ai2 LitPivot,\n문헌으로 아이디어 다듬기",
+          "body": "Ai2의 LitPivot은 문헌 기반 비평·수정안으로 초기 연구 구상을 다듬는다.",
+          "mini_headline": "LitPivot, 연구 아이디어 정제",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/GettyImages_1402266486_proteins-1024x538-1.jpg"
+                "src": "https://www.datocms-assets.com/64837/1792764970-litpivot-featured-staircase-1512x1080.png"
               },
               {
                 "t": "p",
-                "x": "워싱턴대 의대 단백질설계연구소(IPD)가 Nvidia와 손잡고 RFD4-Proteina를 내놓았다. Nvidia의 BioNeMo 플랫폼 위에 만든 개방형 생성 모델로, 프로그래밍 가능한 단백질 설계와 탐색 기능을 결합했다."
+                "x": "새 논문을 접하면 연구 아이디어의 방향이 바뀔 수 있다. Ai2는 이를 '문헌 촉발 전환(literature-initiated pivot)'이라 부르며, 펜실베이니아대학교(University of Pennsylvania) 협력자들과 함께 연구자가 이런 전환을 헤쳐 나가도록 돕는 LitPivot을 만들었다."
               },
               {
                 "t": "p",
-                "x": "이 모델은 단백질의 서열과 구조를 상호작용하는 분자들의 구조와 함께 다듬는다. 개발진은 단백질 결합, 소분자 결합, 효소 스캐폴딩, DNA 결합 등 네 가지 벤치마크 세트에서 이전 모델보다 설계 성공률이 5~10배 높았고, 후보 생성 속도도 5~10배 빨랐다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "“자연이 만든 단백질을 발견하던 시대에서 완전히 새로운 단백질을 설계할 수 있는 시대로 넘어가고 있습니다.” IPD 소장이자 노벨상 수상자인 데이비드 베이커(David Baker)의 말이다."
+                "x": "LitPivot은 Asta Paper Finder로 검색한 논문을 활용해 제안서를 문제, 기여, 평가 계획으로 나누고, 수정 중인 측면을 중심으로 관련 논문을 묶으며, 발췌문에 근거한 비평을 제시하고, 연구자가 수락·편집·거절할 수 있는 수정안을 제안한다."
               },
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/UW-IPD-dry-lab-RFD4-PROTEINA.jpg",
-                "cap": "단백질설계연구소에서 RDF4 모델링 팀원들이 테스트를 진행하고 있다. [Sierra Adler / UW Medicine Institute for Protein Design]"
+                "src": "https://www.datocms-assets.com/64837/1792764615-image2.png",
+                "cap": "LitPivot 워크플로: 제안서의 측면을 선택하고, 논문을 고른 뒤, 근거가 뒷받침된 수정안을 검토하고, 아이디어가 바뀌면 문헌을 갱신한다."
               },
               {
                 "t": "p",
-                "x": "이름은 IPD의 RosettaFold Diffusion과 Nvidia의 Proteina-Complexa에서 따왔다. Amazon Bio Discovery, Anthropic의 Claude Science, Benchling, Databricks, Google Cloud, Hugging Face, Nebius, OpenAI, Tamarind Bio 등 파트너를 통해 제공되며, BSD-3 라이선스의 오픈소스로도 공개됐다."
+                "x": "한 측면이 바뀌면 LitPivot은 수정된 기여에 더는 맞지 않는 평가 계획처럼 고쳐야 할 수 있는 대목을 표시한다."
               },
               {
                 "t": "p",
-                "x": "“단 며칠 만에 농약을 분해하는 효소를 설계했는데, 설계에 몇 달이 걸렸던 제 이전 최고 결과보다 몇 배나 성능이 뛰어납니다.” UW 박사과정 예비 연구원 세스 우드버리(Seth Woodbury)의 말이다."
+                "x": "연구자 17명이 참여한 연구에서 분야 전문가들은 LitPivot으로 발전시킨 아이디어가 텍스트 편집기와 AI 채팅 도구로 발전시킨 아이디어보다 문헌에 더 탄탄히 근거한다고 평가했다. 참가자들도 수정한 아이디어가 더 참신하고 유용하다고 느꼈다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792764678-image4.png",
+                "cap": "한 연구자가 합성 의료 기록에 관한 제안서를 여러 차례의 병원 방문에 걸친 모순을 점검하는 방향으로 다듬는다."
+              },
+              {
+                "t": "p",
+                "x": "LitPivot은 디트로이트(Detroit)에서 열리는 UIST 2026에서 발표될 예정이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "NvidiaとUWが\nタンパク質設計モデル公開",
-          "body": "RFD4-Proteinaは二つの生成モデルを統合し、設計成功率は従来の5～10倍だという。",
-          "mini_headline": "オープンなタンパク質設計AI",
+          "headline": "Ai2のLitPivot\n文献で研究構想を磨く",
+          "body": "Ai2のLitPivotは、文献に基づく批評と修正案で初期の研究アイデアを磨く。",
+          "mini_headline": "LitPivot、研究構想を磨く",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/GettyImages_1402266486_proteins-1024x538-1.jpg"
+                "src": "https://www.datocms-assets.com/64837/1792764970-litpivot-featured-staircase-1512x1080.png"
               },
               {
                 "t": "p",
-                "x": "ワシントン大学医学部タンパク質デザイン研究所(IPD)はNvidiaと組み、RFD4-Proteinaを発表した。NvidiaのBioNeMoプラットフォーム上に構築したオープンな生成モデルで、プログラム可能なタンパク質設計と探索機能を組み合わせている。"
+                "x": "新しい論文との出会いは、研究アイデアの方向を変えることがある。Ai2はこれを「文献起点の転換(literature-initiated pivot)」と呼び、University of Pennsylvania(ペンシルベニア大学)の協力者とともに、研究者がこうした転換を乗り越えられるよう支援するLitPivotを開発した。"
               },
               {
                 "t": "p",
-                "x": "このモデルは、タンパク質の配列と構造を、相互作用する分子の構造とあわせて洗練させる。開発者によると、タンパク質結合、低分子結合、酵素スキャフォールディング、DNA結合の四つのベンチマーク群で、従来モデルに比べ設計成功率は5～10倍高く、候補の生成速度も5～10倍速かった。"
-              },
-              {
-                "t": "p",
-                "x": "「自然が作ったタンパク質を発見する時代から、まったく新しいタンパク質を設計できる時代へと移りつつある」と、IPD所長でノーベル賞受賞者のデビッド・ベイカー(David Baker)氏は語る。"
+                "x": "LitPivotはAsta Paper Finderで検索した論文を使い、提案を課題・貢献・評価計画に分解し、編集中の側面を軸に関連論文をまとめ、抜粋に裏付けられた批評を示し、研究者が採用・編集・却下できる修正案を提案する。"
               },
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/UW-IPD-dry-lab-RFD4-PROTEINA.jpg",
-                "cap": "タンパク質デザイン研究所でテストを行うRDF4モデリングチームのメンバー。[Sierra Adler / UW Medicine Institute for Protein Design]"
+                "src": "https://www.datocms-assets.com/64837/1792764615-image2.png",
+                "cap": "LitPivotのワークフロー:提案の側面を選び、論文を選択し、裏付けのある修正を確認し、アイデアの変化に合わせて文献を更新する。"
               },
               {
                 "t": "p",
-                "x": "名称はIPDのRosettaFold DiffusionとNvidiaのProteina-Complexaに由来する。Amazon Bio Discovery、AnthropicのClaude Science、Benchling、Databricks、Google Cloud、Hugging Face、Nebius、OpenAI、Tamarind Bioなどのパートナー経由で利用でき、BSD-3のオープンソースとしても公開されている。"
+                "x": "ある側面が変わると、LitPivotは修正後の貢献に合わなくなった評価計画など、見直しが必要になりうる箇所を示す。"
               },
               {
                 "t": "p",
-                "x": "「わずか数日で農薬を分解する酵素を設計できた。設計に数カ月かかったこれまでの最高記録を何倍も上回る性能だ」と、UWの博士課程候補生セス・ウッドベリー(Seth Woodbury)氏は話す。"
+                "x": "研究者17人を対象とした研究では、分野の専門家が、LitPivotで練ったアイデアはテキストエディターとAIチャットツールで練ったものより文献に根ざしていると評価した。参加者自身も、修正後のアイデアをより新規性が高く有用だと感じた。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792764678-image4.png",
+                "cap": "ある研究者が、合成医療記録に関する提案を、複数回の通院にわたる矛盾を確認する方向へと練り直す。"
+              },
+              {
+                "t": "p",
+                "x": "LitPivotはDetroit(デトロイト)で開かれるUIST 2026で発表される予定だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Nvidia与UW开源\n蛋白质设计模型",
-          "body": "RFD4-Proteina融合两个生成模型，设计成功率据称比此前模型高五到10倍。",
-          "mini_headline": "开放的蛋白质设计AI",
+          "headline": "Ai2推出LitPivot\n借文献打磨研究构想",
+          "body": "Ai2的LitPivot以有文献支撑的评析和修改建议,帮助研究者完善早期研究构想。",
+          "mini_headline": "LitPivot打磨研究构想",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/GettyImages_1402266486_proteins-1024x538-1.jpg"
+                "src": "https://www.datocms-assets.com/64837/1792764970-litpivot-featured-staircase-1512x1080.png"
               },
               {
                 "t": "p",
-                "x": "华盛顿大学医学院蛋白质设计研究所(IPD)与Nvidia合作推出RFD4-Proteina。这是一款基于Nvidia BioNeMo平台构建的开放生成模型，将可编程蛋白质设计与搜索能力结合在一起。"
+                "x": "读到一篇新论文,可能会改变研究构想的走向。Ai2将此称为“文献触发的转向”(literature-initiated pivot),并与University of Pennsylvania(宾夕法尼亚大学)的合作者共同开发了LitPivot,帮助研究者应对这类转向。"
               },
               {
                 "t": "p",
-                "x": "该模型会在优化蛋白质序列和结构的同时，兼顾与之相互作用的分子结构。开发者表示，在蛋白质结合、小分子结合、酶支架设计和DNA结合四类基准测试中，其设计成功率比此前模型高五到10倍，生成候选分子的速度也快五到10倍。"
-              },
-              {
-                "t": "p",
-                "x": "“我们正从发现大自然所造蛋白质的时代，迈向能够设计全新蛋白质的时代。”IPD所长、诺贝尔奖得主大卫·贝克(David Baker)说。"
+                "x": "LitPivot利用通过Asta Paper Finder检索到的论文,将研究提案拆分为问题、贡献和评估计划,围绕正在编辑的方面归组相关论文,给出有摘录支撑的评析,并提出研究者可以接受、编辑或拒绝的修改建议。"
               },
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/UW-IPD-dry-lab-RFD4-PROTEINA.jpg",
-                "cap": "RDF4建模团队成员在蛋白质设计研究所进行测试。[Sierra Adler / UW Medicine Institute for Protein Design]"
+                "src": "https://www.datocms-assets.com/64837/1792764615-image2.png",
+                "cap": "LitPivot工作流程:选择提案的某个方面,挑选论文,审阅有依据的修改,并随着构想变化刷新文献。"
               },
               {
                 "t": "p",
-                "x": "模型名称取自IPD的RosettaFold Diffusion和Nvidia的Proteina-Complexa。用户可通过Amazon Bio Discovery、Anthropic的Claude Science、Benchling、Databricks、Google Cloud、Hugging Face、Nebius、OpenAI和Tamarind Bio等合作伙伴使用，模型也以BSD-3许可开源。"
+                "x": "当某个方面发生变化时,LitPivot会标出可能需要修改的段落,例如已不再契合修改后贡献的评估计划。"
               },
               {
                 "t": "p",
-                "x": "“短短几天，我们就设计出一种降解农药的酶，性能比我此前花了数月才设计出的最佳成果高出许多倍。”UW博士预备生塞思·伍德伯里(Seth Woodbury)说。"
+                "x": "在一项有17名研究者参与的研究中,领域专家认为,与使用文本编辑器和AI聊天工具形成的构想相比,借助LitPivot形成的构想更扎根于文献。参与者也认为自己修改后的构想更新颖、更有用。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792764678-image4.png",
+                "cap": "一位研究者将关于合成病历的提案,细化为检查多次就诊之间的矛盾。"
+              },
+              {
+                "t": "p",
+                "x": "LitPivot将在Detroit(底特律)举行的UIST 2026上发布。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Nvidia y la UW liberan un\nmodelo de diseño de proteínas",
-          "body": "RFD4-Proteina une dos modelos generativos y reporta un éxito de diseño de cinco a 10 veces mayor que los anteriores.",
-          "mini_headline": "IA abierta para diseñar proteínas",
+          "headline": "LitPivot de Ai2 afina ideas de\ninvestigación con la literatura",
+          "body": "LitPivot de Ai2 ayuda a afinar ideas iniciales de investigación con críticas basadas en la literatura y sugerencias.",
+          "mini_headline": "LitPivot afina\nideas de investigación",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/GettyImages_1402266486_proteins-1024x538-1.jpg"
+                "src": "https://www.datocms-assets.com/64837/1792764970-litpivot-featured-staircase-1512x1080.png"
               },
               {
                 "t": "p",
-                "x": "El Institute for Protein Design (IPD) de la Facultad de Medicina de la Universidad de Washington se ha asociado con Nvidia para crear RFD4-Proteina, un modelo generativo abierto construido sobre la plataforma BioNeMo de Nvidia que combina el diseño programable de proteínas con capacidades de búsqueda."
+                "x": "Encontrar un artículo nuevo puede cambiar la trayectoria de una idea de investigación. Ai2 llama a esto un giro iniciado por la literatura y, con colaboradores de la University of Pennsylvania, creó LitPivot para ayudar a los investigadores a gestionar estos giros."
               },
               {
                 "t": "p",
-                "x": "El modelo refina la secuencia y la estructura de una proteína junto con las estructuras de las moléculas con las que interactúa. Según sus desarrolladores, logró tasas de éxito de diseño de cinco a 10 veces mayores y generó candidatos de cinco a 10 veces más rápido que modelos anteriores en cuatro conjuntos de pruebas: unión a proteínas, unión a moléculas pequeñas, andamiaje de enzimas y unión a DNA."
-              },
-              {
-                "t": "p",
-                "x": "“Pasamos de una era en la que descubríamos las proteínas que ha creado la naturaleza a otra en la que podemos diseñar proteínas completamente nuevas”, dijo el premio Nobel David Baker, director del IPD."
+                "x": "Con artículos obtenidos mediante Asta Paper Finder, LitPivot divide una propuesta en su problema, su contribución y su plan de evaluación, agrupa los artículos relacionados en torno a la faceta que se edita, ofrece críticas respaldadas por fragmentos y sugiere revisiones que los investigadores pueden aceptar, editar o rechazar."
               },
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/10/UW-IPD-dry-lab-RFD4-PROTEINA.jpg",
-                "cap": "Miembros del equipo de modelado RDF4 realizan pruebas en el Institute for Protein Design. [Sierra Adler / UW Medicine Institute for Protein Design]"
+                "src": "https://www.datocms-assets.com/64837/1792764615-image2.png",
+                "cap": "Flujo de trabajo de LitPivot: seleccionar una faceta de la propuesta, elegir artículos, revisar una edición respaldada y actualizar la literatura a medida que cambia la idea."
               },
               {
                 "t": "p",
-                "x": "Su nombre proviene de RosettaFold Diffusion, del IPD, y de Proteina-Complexa, de Nvidia. Está disponible a través de socios como Amazon Bio Discovery, Claude Science de Anthropic, Benchling, Databricks, Google Cloud, Hugging Face, Nebius, OpenAI y Tamarind Bio, y como código abierto bajo licencia BSD-3."
+                "x": "Cuando cambia una faceta, LitPivot señala los pasajes que podrían necesitar revisión, como un plan de evaluación que ya no encaja con una contribución revisada."
               },
               {
                 "t": "p",
-                "x": "“En solo unos días diseñamos una enzima que degrada pesticidas y que rinde muchas veces mejor que mi mejor diseño anterior, que me llevó meses”, dijo Seth Woodbury, candidato predoctoral de la UW."
+                "x": "En un estudio con 17 investigadores, expertos del área valoraron las ideas desarrolladas con LitPivot como mejor fundamentadas en la literatura que las desarrolladas con un editor de texto y una herramienta de chat de AI. Los participantes también percibieron sus ideas revisadas como más novedosas y útiles."
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792764678-image4.png",
+                "cap": "Un investigador reorienta una propuesta sobre notas médicas sintéticas hacia la verificación de contradicciones entre varias visitas hospitalarias."
+              },
+              {
+                "t": "p",
+                "x": "LitPivot se presentará en UIST 2026 en Detroit."
               }
             ]
           }
@@ -405,219 +455,249 @@
       }
     },
     {
-      "id": "science-whale-dive-codas",
+      "id": "science-epfl-logsync-brain-chip",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 향유고래 클릭음으로\n먹이 잠수를 예측한다",
-      "body": "Project CETI는 클릭열 8~10개로 향유고래 먹이 잠수 시점을 예측했다.",
-      "mini_headline": "고래 클릭음으로 잠수 예측",
+      "headline": "저전력 칩이 읽어내는\n인지와 감정 상태",
+      "body": "EPFL의 LogSync는 뇌 진동과 동기화를 읽어 칩에서 정신 상태를 분류한다.",
+      "mini_headline": "뇌 상태를 읽는 칩",
       "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-10-whale-ai-ten-click-sequences.html",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-10-power-neural-chip-brain-cognitive.html",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "Mahsa Shoaran이 이끄는 EPFL Integrated Neurotechnologies Lab이 약 4 x 2 mm 크기의 저전력 이식형 신경 시스템온칩 LogSync를 만들었다."
+          },
+          {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sperm-whales.jpg",
-            "cap": "제공: Unsplash/CC0 Public Domain"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-chip-decodes-in.jpg",
+            "cap": "약 4 x 2 mm 크기의 LogSync 칩. Credit: 2026 EPFL/Lundi13 CC BY SA 4.0"
           },
           {
             "t": "p",
-            "x": "Project CETI는 2020년 세워진 비영리 단체다. 50명이 넘는 연구자가 AI와 머신러닝, 고래 친화적 로보틱스로 도미니카 앞바다 향유고래의 의사소통을 해독한다. 책임 연구자는 Northeastern University London의 조반니 페트리(Giovanni Petri)다."
+            "x": "이 칩은 뇌 진동의 세기와 서로 다른 뇌 영역 신호 사이의 동기화를 측정한다. 머신러닝 알고리즘이 이런 네트워크 수준 바이오마커로 인지·감정 상태를 분류하고 특정 상태를 감지하면 자극을 준다. 로그 연산 덕분에 소비 전력은 200마이크로와트를 넘지 않는다."
           },
           {
             "t": "p",
-            "x": "연구팀은 GPS와 수심, 움직임, 심박 센서를 단 태그로 먹이 잠수를 추적한다. 잠수는 약 700미터 깊이까지 45분~1시간 동안 이어진다. 코다라 불리는 리듬감 있는 클릭음은 하이드로폰과 글라이더로 녹음한다. 페트리는 코다를 “작은 단어 같다”고 표현한다."
+            "x": "Shoaran은 정신질환이 특정 한 영역보다 뇌 영역 간 소통의 교란에서 비롯된다고 본다. 그런데 대부분의 뇌심부자극 시스템은 개방 루프로 돌거나 한 영역에만 기댄다."
           },
           {
             "t": "p",
-            "x": "주석 작업은 상당 부분 AI 패턴 인식이 자동으로 처리해 클릭음을 고래별로 나누고, 그 결과를 생물학 팀이 검토한다."
+            "x": "알고리즘은 인지적 몰입과 정서적 각성을 다룬 기존 인체 실험 기록에서 신경 데이터만으로 이 상태를 가려냈다. University of Minnesota의 쥐 실험에서는 임플란트가 미리 정한 뇌 활동 위상에 맞춰 자극을 전달했다."
+          },
+          {
+            "t": "img",
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-chip-decodes-in-1.jpg",
+            "cap": "LogSync 칩. Credit: 2026 EPFL/Lundi13 CC BY SA 4.0"
           },
           {
             "t": "p",
-            "x": "음성을 수심·움직임 데이터와 짝지어 분석해 보니, 머신러닝 모델은 코다 8~10개 정도로 고래가 곧 깊은 먹이 잠수에 나설지 예측해 냈다."
-          },
-          {
-            "t": "p",
-            "x": "연구팀은 코다에서 모음과 비슷한 소리 두 가지를 찾았지만 무슨 뜻인지는 아직 모른다. 고래들이 어둠 속에서 오징어를 찾으려고 서로의 클릭음을 엿들을 가능성도 있다."
+            "x": "연구팀은 정신과 치료, 운동장애를 위한 적응형 DBS, 폐루프 비침습 자극에 쓰일 수 있다고 본다. 연구는 IEEE Journal of Solid-State Circuits에 실렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI reads sperm whale clicks\nto predict feeding dives",
-          "body": "Project CETI found that about eight to ten click sequences predict when a sperm whale will begin a foraging dive.",
-          "mini_headline": "Whale clicks predict dives",
+          "headline": "A low-power chip decodes\ncognitive and emotional states",
+          "body": "EPFL's LogSync implant reads brain oscillations and synchrony, then classifies mental states on the chip itself.",
+          "mini_headline": "Chip decodes brain states",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "EPFL's Integrated Neurotechnologies Lab, led by Mahsa Shoaran, has built LogSync, a low-power implantable neural system-on-chip of about 4 x 2 mm."
+              },
+              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sperm-whales.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-chip-decodes-in.jpg",
+                "cap": "The LogSync chip, measuring approximately 4 x 2 mm. Credit: 2026 EPFL/Lundi13 CC BY SA 4.0"
               },
               {
                 "t": "p",
-                "x": "Project CETI, a nonprofit founded in 2020 with more than 50 researchers, uses AI, machine learning and whale-friendly robotics to decode sperm whale communication off Dominica. Giovanni Petri of Northeastern University London is a lead researcher."
+                "x": "The chip measures the strength of brain oscillations and the synchrony between signals from different brain regions. A machine-learning algorithm uses these network-level biomarkers to classify cognitive and emotional states and trigger stimulation when a state is detected. Logarithmic computations keep it under 200 microwatts."
               },
               {
                 "t": "p",
-                "x": "Tags with GPS, depth, movement and heart rate sensors track whales on 45-minute to 1-hour foraging dives to about 700 meters, while hydrophones and gliders record rhythmic clicks called codas, which Petri calls “like little words.”"
+                "x": "Shoaran argues psychiatric disorders stem more from disruptions in communication between brain regions than from any single region, while most deep brain stimulation systems run open-loop or rely on one region."
               },
               {
                 "t": "p",
-                "x": "AI pattern recognition automates much of the annotation, sorting clicks by whale, with the biology team checking the output."
+                "x": "On recordings from earlier human experiments covering cognitive engagement and emotional arousal, the algorithm told these states apart from neural data alone. In rats at the University of Minnesota, the implant delivered stimulation at predefined phases of brain activity."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-chip-decodes-in-1.jpg",
+                "cap": "LogSync chips. Credit: 2026 EPFL/Lundi13 CC BY SA 4.0"
               },
               {
                 "t": "p",
-                "x": "Pairing the audio with depth and movement data, machine learning models showed that around eight to 10 codas can predict whether whales are about to head off on deep foraging dives."
-              },
-              {
-                "t": "p",
-                "x": "The team has found two vowel-like sounds in codas, but their meaning is unknown. Whales may also eavesdrop on each other's clicks to find squid in the dark."
+                "x": "The team sees uses in psychiatric therapy, adaptive DBS for movement disorders and closed-loop noninvasive stimulation. The work is published in the IEEE Journal of Solid-State Circuits."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI가 향유고래 클릭음으로\n먹이 잠수를 예측한다",
-          "body": "Project CETI는 클릭열 8~10개로 향유고래 먹이 잠수 시점을 예측했다.",
-          "mini_headline": "고래 클릭음으로 잠수 예측",
+          "headline": "저전력 칩이 읽어내는\n인지와 감정 상태",
+          "body": "EPFL의 LogSync는 뇌 진동과 동기화를 읽어 칩에서 정신 상태를 분류한다.",
+          "mini_headline": "뇌 상태를 읽는 칩",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Mahsa Shoaran이 이끄는 EPFL Integrated Neurotechnologies Lab이 약 4 x 2 mm 크기의 저전력 이식형 신경 시스템온칩 LogSync를 만들었다."
+              },
+              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sperm-whales.jpg",
-                "cap": "제공: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-chip-decodes-in.jpg",
+                "cap": "약 4 x 2 mm 크기의 LogSync 칩. Credit: 2026 EPFL/Lundi13 CC BY SA 4.0"
               },
               {
                 "t": "p",
-                "x": "Project CETI는 2020년 세워진 비영리 단체다. 50명이 넘는 연구자가 AI와 머신러닝, 고래 친화적 로보틱스로 도미니카 앞바다 향유고래의 의사소통을 해독한다. 책임 연구자는 Northeastern University London의 조반니 페트리(Giovanni Petri)다."
+                "x": "이 칩은 뇌 진동의 세기와 서로 다른 뇌 영역 신호 사이의 동기화를 측정한다. 머신러닝 알고리즘이 이런 네트워크 수준 바이오마커로 인지·감정 상태를 분류하고 특정 상태를 감지하면 자극을 준다. 로그 연산 덕분에 소비 전력은 200마이크로와트를 넘지 않는다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 GPS와 수심, 움직임, 심박 센서를 단 태그로 먹이 잠수를 추적한다. 잠수는 약 700미터 깊이까지 45분~1시간 동안 이어진다. 코다라 불리는 리듬감 있는 클릭음은 하이드로폰과 글라이더로 녹음한다. 페트리는 코다를 “작은 단어 같다”고 표현한다."
+                "x": "Shoaran은 정신질환이 특정 한 영역보다 뇌 영역 간 소통의 교란에서 비롯된다고 본다. 그런데 대부분의 뇌심부자극 시스템은 개방 루프로 돌거나 한 영역에만 기댄다."
               },
               {
                 "t": "p",
-                "x": "주석 작업은 상당 부분 AI 패턴 인식이 자동으로 처리해 클릭음을 고래별로 나누고, 그 결과를 생물학 팀이 검토한다."
+                "x": "알고리즘은 인지적 몰입과 정서적 각성을 다룬 기존 인체 실험 기록에서 신경 데이터만으로 이 상태를 가려냈다. University of Minnesota의 쥐 실험에서는 임플란트가 미리 정한 뇌 활동 위상에 맞춰 자극을 전달했다."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-chip-decodes-in-1.jpg",
+                "cap": "LogSync 칩. Credit: 2026 EPFL/Lundi13 CC BY SA 4.0"
               },
               {
                 "t": "p",
-                "x": "음성을 수심·움직임 데이터와 짝지어 분석해 보니, 머신러닝 모델은 코다 8~10개 정도로 고래가 곧 깊은 먹이 잠수에 나설지 예측해 냈다."
-              },
-              {
-                "t": "p",
-                "x": "연구팀은 코다에서 모음과 비슷한 소리 두 가지를 찾았지만 무슨 뜻인지는 아직 모른다. 고래들이 어둠 속에서 오징어를 찾으려고 서로의 클릭음을 엿들을 가능성도 있다."
+                "x": "연구팀은 정신과 치료, 운동장애를 위한 적응형 DBS, 폐루프 비침습 자극에 쓰일 수 있다고 본다. 연구는 IEEE Journal of Solid-State Circuits에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIがマッコウクジラの\nクリックで採餌潜水を予測",
-          "body": "Project CETIは8～10個のクリック列で鯨の採餌潜水開始を予測できると示した。",
-          "mini_headline": "鯨のクリックで潜水を予測",
+          "headline": "低電力チップが読み解く\n認知と感情の状態",
+          "body": "EPFLのLogSyncは脳の振動と同期を読み取り、チップ上で精神状態を分類する。",
+          "mini_headline": "脳の状態を読むチップ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Mahsa Shoaranが率いるEPFLのIntegrated Neurotechnologies Labは、約4 x 2 mm の低消費電力の埋め込み型神経システムオンチップ「LogSync」を開発した。"
+              },
+              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sperm-whales.jpg",
-                "cap": "提供: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-chip-decodes-in.jpg",
+                "cap": "約4 x 2 mm のLogSyncチップ。Credit: 2026 EPFL/Lundi13 CC BY SA 4.0"
               },
               {
                 "t": "p",
-                "x": "Project CETIは2020年に設立された非営利団体で、50人を超える研究者がAI、機械学習、鯨に配慮したロボット技術を使い、ドミニカ沖のマッコウクジラのコミュニケーションを解読している。Northeastern University Londonのジョバンニ・ペトリ(Giovanni Petri)氏が主任研究者を務める。"
+                "x": "チップは脳の振動の強さと、異なる脳領域からの信号間の同期を測定する。機械学習アルゴリズムがこれらのネットワークレベルのバイオマーカーを用いて認知・感情状態を分類し、状態を検出すると刺激を発する。対数演算により消費電力を200マイクロワット未満に抑えている。"
               },
               {
                 "t": "p",
-                "x": "GPS、深度、動き、心拍のセンサーを備えたタグで、深さ約700メートルまで45分～1時間続く採餌潜水を追跡し、ハイドロフォンとグライダーでコーダと呼ばれるリズミカルなクリック音を録音する。ペトリ氏はコーダを「小さな単語のようなもの」と表現する。"
+                "x": "Shoaranは、精神疾患は特定の一領域よりも脳領域間のコミュニケーションの乱れに起因すると主張する。一方、深部脳刺激システムの多くはオープンループで動作するか、一つの領域に依存している。"
               },
               {
                 "t": "p",
-                "x": "AIによるパターン認識が注釈作業の多くを自動化してクリック音を個体ごとに仕分け、生物学チームがその結果を確認する。"
+                "x": "認知的関与と情動的覚醒を扱った過去のヒト実験の記録で、アルゴリズムは神経データだけからこれらの状態を区別した。University of Minnesotaのラットでは、インプラントが脳活動のあらかじめ定めた位相で刺激を与えた。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-chip-decodes-in-1.jpg",
+                "cap": "LogSyncチップ。Credit: 2026 EPFL/Lundi13 CC BY SA 4.0"
               },
               {
                 "t": "p",
-                "x": "音声を深度や動きのデータと組み合わせると、機械学習モデルはおよそ8～10個のコーダから、鯨がまもなく深い採餌潜水に向かうかどうかを予測できることがわかった。"
-              },
-              {
-                "t": "p",
-                "x": "チームはコーダの中に母音に似た二つの音を見つけたが、その意味はまだわかっていない。鯨は暗闇でイカを探すため、互いのクリック音を盗み聞きしている可能性もある。"
+                "x": "チームは精神科治療、運動障害向けの適応型DBS、閉ループの非侵襲刺激への応用を見込む。成果はIEEE Journal of Solid-State Circuitsに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI解读抹香鲸咔嗒声\n预测其觅食下潜",
-          "body": "Project CETI发现，约八到十组咔嗒声序列即可预测抹香鲸何时开始觅食下潜。",
-          "mini_headline": "鲸鱼咔嗒声预测下潜",
+          "headline": "低功耗芯片\n解读认知与情绪状态",
+          "body": "EPFL的LogSync植入物读取脑振荡与同步性，直接在芯片上分类心理状态。",
+          "mini_headline": "解读脑状态的芯片",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "由Mahsa Shoaran领导的EPFL Integrated Neurotechnologies Lab研制出LogSync，这是一款约4 x 2 mm 的低功耗植入式神经系统级芯片。"
+              },
+              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sperm-whales.jpg",
-                "cap": "图片来源：Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-chip-decodes-in.jpg",
+                "cap": "LogSync芯片，尺寸约为4 x 2 mm。Credit: 2026 EPFL/Lundi13 CC BY SA 4.0"
               },
               {
                 "t": "p",
-                "x": "Project CETI是一家成立于2020年的非营利组织，拥有50多名研究人员，利用AI、机器学习和对鲸鱼友好的机器人技术，破译多米尼克附近海域抹香鲸的交流方式。Northeastern University London的乔瓦尼·彼得里(Giovanni Petri)是首席研究员之一。"
+                "x": "该芯片测量脑振荡的强度以及不同脑区信号之间的同步性。机器学习算法利用这些网络层面的生物标志物对认知和情绪状态进行分类，并在检测到某一状态时触发刺激。借助对数运算，其功耗低于200微瓦。"
               },
               {
                 "t": "p",
-                "x": "研究人员用装有GPS、深度、运动和心率传感器的标签，追踪鲸鱼持续45分钟到1小时、深达约700米的觅食下潜；水听器和滑翔器则记录被称为“尾音”(coda)的节律性咔嗒声。彼得里称这些声音“像小小的单词”。"
+                "x": "Shoaran认为，精神疾病更多源于脑区之间的通信紊乱，而非某个单一脑区；而大多数脑深部刺激系统以开环方式运行，或仅依赖一个脑区。"
               },
               {
                 "t": "p",
-                "x": "AI模式识别让大部分标注工作实现自动化，按个体对咔嗒声进行分类，再由生物学团队核查结果。"
+                "x": "在此前涵盖认知投入与情绪唤醒的人体实验记录中，该算法仅凭神经数据就区分出了这些状态。在University of Minnesota的大鼠实验中，植入物在脑活动的预设相位上施加了刺激。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-chip-decodes-in-1.jpg",
+                "cap": "LogSync芯片。Credit: 2026 EPFL/Lundi13 CC BY SA 4.0"
               },
               {
                 "t": "p",
-                "x": "将音频与深度和运动数据结合后，机器学习模型显示，大约八到10组尾音就能预测鲸鱼是否即将开始深潜觅食。"
-              },
-              {
-                "t": "p",
-                "x": "团队在尾音中发现了两种类似元音的声音，但其含义尚不清楚。鲸鱼也可能会偷听彼此的咔嗒声，以便在黑暗中寻找鱿鱼。"
+                "x": "团队认为其可用于精神疾病治疗、针对运动障碍的自适应DBS以及闭环无创刺激。该成果发表于IEEE Journal of Solid-State Circuits。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA lee clics de cachalotes\npara prever inmersiones de caza",
-          "body": "Project CETI halló que unas ocho a diez secuencias de clics anticipan cuándo un cachalote bajará a alimentarse.",
-          "mini_headline": "Clics que predicen inmersiones",
+          "headline": "Un chip de bajo consumo descifra\nestados cognitivos y emocionales",
+          "body": "El implante LogSync de EPFL lee las oscilaciones y la sincronía cerebrales y clasifica estados mentales en el chip.",
+          "mini_headline": "Un chip que descifra el cerebro",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "El Integrated Neurotechnologies Lab de EPFL, dirigido por Mahsa Shoaran, ha creado LogSync, un sistema neural implantable en chip de bajo consumo de unos 4 x 2 mm."
+              },
+              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sperm-whales.jpg",
-                "cap": "Crédito: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-chip-decodes-in.jpg",
+                "cap": "El chip LogSync, de aproximadamente 4 x 2 mm. Credit: 2026 EPFL/Lundi13 CC BY SA 4.0"
               },
               {
                 "t": "p",
-                "x": "Project CETI, una organización sin fines de lucro fundada en 2020 con más de 50 investigadores, usa IA, aprendizaje automático y robótica respetuosa con los cetáceos para descifrar la comunicación de los cachalotes frente a Dominica. Giovanni Petri, de Northeastern University London, es uno de sus investigadores principales."
+                "x": "El chip mide la intensidad de las oscilaciones cerebrales y la sincronía entre señales de distintas regiones del cerebro. Un algoritmo de aprendizaje automático usa estos biomarcadores a nivel de red para clasificar estados cognitivos y emocionales, y activa la estimulación cuando detecta un estado. Los cálculos logarítmicos mantienen su consumo por debajo de 200 microvatios."
               },
               {
                 "t": "p",
-                "x": "Etiquetas con sensores de GPS, profundidad, movimiento y frecuencia cardíaca siguen a las ballenas en inmersiones de alimentación de 45 minutos a una hora, hasta unos 700 metros, mientras hidrófonos y planeadores registran clics rítmicos llamados codas, que Petri describe como “palabritas”."
+                "x": "Shoaran sostiene que los trastornos psiquiátricos se deben más a fallos en la comunicación entre regiones cerebrales que a una sola región, mientras que la mayoría de los sistemas de estimulación cerebral profunda funcionan en lazo abierto o dependen de una única región."
               },
               {
                 "t": "p",
-                "x": "El reconocimiento de patrones con IA automatiza gran parte de la anotación y clasifica los clics por ballena, y el equipo de biología revisa los resultados."
+                "x": "Con registros de experimentos previos en humanos sobre implicación cognitiva y activación emocional, el algoritmo distinguió estos estados solo a partir de datos neuronales. En ratas de la University of Minnesota, el implante aplicó estimulación en fases predefinidas de la actividad cerebral."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-chip-decodes-in-1.jpg",
+                "cap": "Chips LogSync. Credit: 2026 EPFL/Lundi13 CC BY SA 4.0"
               },
               {
                 "t": "p",
-                "x": "Al combinar el audio con los datos de profundidad y movimiento, los modelos de aprendizaje automático mostraron que unas ocho a 10 codas permiten predecir si las ballenas están a punto de iniciar una inmersión profunda para alimentarse."
-              },
-              {
-                "t": "p",
-                "x": "El equipo encontró en las codas dos sonidos parecidos a vocales, pero se desconoce su significado. Las ballenas también podrían escuchar los clics de otras para encontrar calamares en la oscuridad."
+                "x": "El equipo ve aplicaciones en terapia psiquiátrica, DBS adaptativa para trastornos del movimiento y estimulación no invasiva en lazo cerrado. El trabajo se publica en IEEE Journal of Solid-State Circuits."
               }
             ]
           }
@@ -625,141 +705,161 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI가 향유고래 클릭음으로\n먹이 잠수를 예측한다",
-          "body": "Project CETI는 클릭열 8~10개로 향유고래 먹이 잠수 시점을 예측했다.",
-          "mini_headline": "고래 클릭음으로 잠수 예측",
+          "headline": "저전력 칩이 읽어내는\n인지와 감정 상태",
+          "body": "EPFL의 LogSync는 뇌 진동과 동기화를 읽어 칩에서 정신 상태를 분류한다.",
+          "mini_headline": "뇌 상태를 읽는 칩",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Mahsa Shoaran이 이끄는 EPFL Integrated Neurotechnologies Lab이 약 4 x 2 mm 크기의 저전력 이식형 신경 시스템온칩 LogSync를 만들었다."
+              },
+              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sperm-whales.jpg",
-                "cap": "제공: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-chip-decodes-in.jpg",
+                "cap": "약 4 x 2 mm 크기의 LogSync 칩. Credit: 2026 EPFL/Lundi13 CC BY SA 4.0"
               },
               {
                 "t": "p",
-                "x": "Project CETI는 2020년 설립된 비영리 단체로, 50명이 넘는 연구자가 AI와 머신러닝, 고래 친화적 로보틱스를 활용해 도미니카 앞바다 향유고래의 의사소통을 해독하고 있다. Northeastern University London의 조반니 페트리(Giovanni Petri)가 책임 연구자다."
+                "x": "이 칩은 뇌 진동의 세기와 서로 다른 뇌 영역 신호 사이의 동기화를 측정한다. 머신러닝 알고리즘이 이런 네트워크 수준 바이오마커로 인지·감정 상태를 분류하고, 특정 상태를 감지하면 자극을 가한다. 로그 연산 덕분에 소비 전력은 200마이크로와트를 넘지 않는다."
               },
               {
                 "t": "p",
-                "x": "GPS와 수심, 움직임, 심박 센서를 단 태그로 약 700미터 깊이까지 45분~1시간 동안 이어지는 먹이 잠수를 추적하고, 하이드로폰과 글라이더로 코다라 불리는 리듬감 있는 클릭음을 녹음한다. 페트리는 코다를 “작은 단어 같다”고 표현한다."
+                "x": "Shoaran은 정신질환이 특정 한 영역보다 뇌 영역 간 소통의 교란에서 비롯된다고 본다. 반면 대부분의 뇌심부자극 시스템은 개방 루프로 작동하거나 한 영역에만 의존한다."
               },
               {
                 "t": "p",
-                "x": "AI 패턴 인식이 주석 작업의 상당 부분을 자동화해 클릭음을 고래별로 분류하고, 생물학 팀이 그 결과를 검토한다."
+                "x": "인지적 몰입과 정서적 각성을 다룬 기존 인체 실험 기록에서 알고리즘은 신경 데이터만으로 이 상태들을 구분했다. University of Minnesota의 쥐 실험에서는 임플란트가 미리 정한 뇌 활동 위상에 맞춰 자극을 전달했다."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-chip-decodes-in-1.jpg",
+                "cap": "LogSync 칩. Credit: 2026 EPFL/Lundi13 CC BY SA 4.0"
               },
               {
                 "t": "p",
-                "x": "음성을 수심·움직임 데이터와 짝지어 분석한 결과, 머신러닝 모델은 코다 8~10개 정도로 고래가 곧 깊은 먹이 잠수에 나설지 예측할 수 있음을 보여줬다."
-              },
-              {
-                "t": "p",
-                "x": "연구팀은 코다에서 모음과 비슷한 소리 두 가지를 찾았지만 그 의미는 아직 모른다. 고래들이 어둠 속에서 오징어를 찾으려고 서로의 클릭음을 엿들을 가능성도 있다."
+                "x": "연구팀은 정신과 치료, 운동장애를 위한 적응형 DBS, 폐루프 비침습 자극에 쓰일 수 있다고 본다. 연구는 IEEE Journal of Solid-State Circuits에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIがマッコウクジラの\nクリックで採餌潜水を予測",
-          "body": "Project CETIは8～10個のクリック列で鯨の採餌潜水開始を予測できると示した。",
-          "mini_headline": "鯨のクリックで潜水を予測",
+          "headline": "低電力チップが読み解く\n認知と感情の状態",
+          "body": "EPFLのLogSyncは脳の振動と同期を読み取り、チップ上で精神状態を分類する。",
+          "mini_headline": "脳の状態を読むチップ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Mahsa Shoaranが率いるEPFLのIntegrated Neurotechnologies Labは、約4 x 2 mm の低消費電力の埋め込み型神経システムオンチップ「LogSync」を開発した。"
+              },
+              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sperm-whales.jpg",
-                "cap": "提供: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-chip-decodes-in.jpg",
+                "cap": "約4 x 2 mm のLogSyncチップ。Credit: 2026 EPFL/Lundi13 CC BY SA 4.0"
               },
               {
                 "t": "p",
-                "x": "Project CETIは2020年に設立された非営利団体で、50人を超える研究者がAI、機械学習、鯨に配慮したロボット技術を使い、ドミニカ沖のマッコウクジラのコミュニケーションを解読している。Northeastern University Londonのジョバンニ・ペトリ(Giovanni Petri)氏が主任研究者を務める。"
+                "x": "チップは脳の振動の強さと、異なる脳領域からの信号間の同期を測定する。機械学習アルゴリズムがこれらのネットワークレベルのバイオマーカーを用いて認知・感情状態を分類し、状態を検出すると刺激を発する。対数演算により消費電力を200マイクロワット未満に抑えている。"
               },
               {
                 "t": "p",
-                "x": "GPS、深度、動き、心拍のセンサーを備えたタグで、深さ約700メートルまで45分～1時間続く採餌潜水を追跡し、ハイドロフォンとグライダーでコーダと呼ばれるリズミカルなクリック音を録音する。ペトリ氏はコーダを「小さな単語のようなもの」と表現する。"
+                "x": "Shoaranは、精神疾患は特定の一領域よりも脳領域間のコミュニケーションの乱れに起因すると主張する。一方、深部脳刺激システムの多くはオープンループで動作するか、一つの領域に依存している。"
               },
               {
                 "t": "p",
-                "x": "AIによるパターン認識が注釈作業の多くを自動化してクリック音を個体ごとに仕分け、生物学チームがその結果を確認する。"
+                "x": "認知的関与と情動的覚醒を扱った過去のヒト実験の記録で、アルゴリズムは神経データだけからこれらの状態を区別した。University of Minnesotaのラットでは、インプラントが脳活動のあらかじめ定めた位相で刺激を与えた。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-chip-decodes-in-1.jpg",
+                "cap": "LogSyncチップ。Credit: 2026 EPFL/Lundi13 CC BY SA 4.0"
               },
               {
                 "t": "p",
-                "x": "音声を深度や動きのデータと組み合わせると、機械学習モデルはおよそ8～10個のコーダから、鯨がまもなく深い採餌潜水に向かうかどうかを予測できることがわかった。"
-              },
-              {
-                "t": "p",
-                "x": "チームはコーダの中に母音に似た二つの音を見つけたが、その意味はまだわかっていない。鯨は暗闇でイカを探すため、互いのクリック音を盗み聞きしている可能性もある。"
+                "x": "チームは精神科治療、運動障害向けの適応型DBS、閉ループの非侵襲刺激への応用を見込む。成果はIEEE Journal of Solid-State Circuitsに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI解读抹香鲸咔嗒声\n预测其觅食下潜",
-          "body": "Project CETI发现，约八到十组咔嗒声序列即可预测抹香鲸何时开始觅食下潜。",
-          "mini_headline": "鲸鱼咔嗒声预测下潜",
+          "headline": "低功耗芯片\n解读认知与情绪状态",
+          "body": "EPFL的LogSync植入物读取脑振荡与同步性，直接在芯片上分类心理状态。",
+          "mini_headline": "解读脑状态的芯片",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "由Mahsa Shoaran领导的EPFL Integrated Neurotechnologies Lab研制出LogSync，这是一款约4 x 2 mm 的低功耗植入式神经系统级芯片。"
+              },
+              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sperm-whales.jpg",
-                "cap": "图片来源：Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-chip-decodes-in.jpg",
+                "cap": "LogSync芯片，尺寸约为4 x 2 mm。Credit: 2026 EPFL/Lundi13 CC BY SA 4.0"
               },
               {
                 "t": "p",
-                "x": "Project CETI是一家成立于2020年的非营利组织，拥有50多名研究人员，利用AI、机器学习和对鲸鱼友好的机器人技术，破译多米尼克附近海域抹香鲸的交流方式。Northeastern University London的乔瓦尼·彼得里(Giovanni Petri)是首席研究员之一。"
+                "x": "该芯片测量脑振荡的强度以及不同脑区信号之间的同步性。机器学习算法利用这些网络层面的生物标志物对认知和情绪状态进行分类，并在检测到某一状态时触发刺激。借助对数运算，其功耗低于200微瓦。"
               },
               {
                 "t": "p",
-                "x": "研究人员用装有GPS、深度、运动和心率传感器的标签，追踪鲸鱼持续45分钟到1小时、深达约700米的觅食下潜；水听器和滑翔器则记录被称为“尾音”(coda)的节律性咔嗒声。彼得里称这些声音“像小小的单词”。"
+                "x": "Shoaran认为，精神疾病更多源于脑区之间的通信紊乱，而非某个单一脑区；而大多数脑深部刺激系统以开环方式运行，或仅依赖一个脑区。"
               },
               {
                 "t": "p",
-                "x": "AI模式识别让大部分标注工作实现自动化，按个体对咔嗒声进行分类，再由生物学团队核查结果。"
+                "x": "在此前涵盖认知投入与情绪唤醒的人体实验记录中，该算法仅凭神经数据就区分出了这些状态。在University of Minnesota的大鼠实验中，植入物在脑活动的预设相位上施加了刺激。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-chip-decodes-in-1.jpg",
+                "cap": "LogSync芯片。Credit: 2026 EPFL/Lundi13 CC BY SA 4.0"
               },
               {
                 "t": "p",
-                "x": "将音频与深度和运动数据结合后，机器学习模型显示，大约八到10组尾音就能预测鲸鱼是否即将开始深潜觅食。"
-              },
-              {
-                "t": "p",
-                "x": "团队在尾音中发现了两种类似元音的声音，但其含义尚不清楚。鲸鱼也可能会偷听彼此的咔嗒声，以便在黑暗中寻找鱿鱼。"
+                "x": "团队认为其可用于精神疾病治疗、针对运动障碍的自适应DBS以及闭环无创刺激。该成果发表于IEEE Journal of Solid-State Circuits。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA lee clics de cachalotes\npara prever inmersiones de caza",
-          "body": "Project CETI halló que unas ocho a diez secuencias de clics anticipan cuándo un cachalote bajará a alimentarse.",
-          "mini_headline": "Clics que predicen inmersiones",
+          "headline": "Un chip de bajo consumo descifra\nestados cognitivos y emocionales",
+          "body": "El implante LogSync de EPFL lee las oscilaciones y la sincronía cerebrales y clasifica estados mentales en el chip.",
+          "mini_headline": "Un chip que descifra el cerebro",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "El Integrated Neurotechnologies Lab de EPFL, dirigido por Mahsa Shoaran, ha creado LogSync, un sistema neural implantable en chip de bajo consumo de unos 4 x 2 mm."
+              },
+              {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/sperm-whales.jpg",
-                "cap": "Crédito: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-chip-decodes-in.jpg",
+                "cap": "El chip LogSync, de aproximadamente 4 x 2 mm. Credit: 2026 EPFL/Lundi13 CC BY SA 4.0"
               },
               {
                 "t": "p",
-                "x": "Project CETI, una organización sin fines de lucro fundada en 2020 con más de 50 investigadores, usa IA, aprendizaje automático y robótica respetuosa con los cetáceos para descifrar la comunicación de los cachalotes frente a Dominica. Giovanni Petri, de Northeastern University London, es uno de sus investigadores principales."
+                "x": "El chip mide la intensidad de las oscilaciones cerebrales y la sincronía entre señales de distintas regiones del cerebro. Un algoritmo de aprendizaje automático usa estos biomarcadores a nivel de red para clasificar estados cognitivos y emocionales, y activa la estimulación cuando detecta un estado. Los cálculos logarítmicos mantienen su consumo por debajo de 200 microvatios."
               },
               {
                 "t": "p",
-                "x": "Etiquetas con sensores de GPS, profundidad, movimiento y frecuencia cardíaca siguen a las ballenas en inmersiones de alimentación de 45 minutos a una hora, hasta unos 700 metros, mientras hidrófonos y planeadores registran clics rítmicos llamados codas, que Petri describe como “palabritas”."
+                "x": "Shoaran sostiene que los trastornos psiquiátricos se deben más a fallos en la comunicación entre regiones cerebrales que a una sola región, mientras que la mayoría de los sistemas de estimulación cerebral profunda funcionan en lazo abierto o dependen de una única región."
               },
               {
                 "t": "p",
-                "x": "El reconocimiento de patrones con IA automatiza gran parte de la anotación y clasifica los clics por ballena, y el equipo de biología revisa los resultados."
+                "x": "Con registros de experimentos previos en humanos sobre implicación cognitiva y activación emocional, el algoritmo distinguió estos estados solo a partir de datos neuronales. En ratas de la University of Minnesota, el implante aplicó estimulación en fases predefinidas de la actividad cerebral."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-chip-decodes-in-1.jpg",
+                "cap": "Chips LogSync. Credit: 2026 EPFL/Lundi13 CC BY SA 4.0"
               },
               {
                 "t": "p",
-                "x": "Al combinar el audio con los datos de profundidad y movimiento, los modelos de aprendizaje automático mostraron que unas ocho a 10 codas permiten predecir si las ballenas están a punto de iniciar una inmersión profunda para alimentarse."
-              },
-              {
-                "t": "p",
-                "x": "El equipo encontró en las codas dos sonidos parecidos a vocales, pero se desconoce su significado. Las ballenas también podrían escuchar los clics de otras para encontrar calamares en la oscuridad."
+                "x": "El equipo ve aplicaciones en terapia psiquiátrica, DBS adaptativa para trastornos del movimiento y estimulación no invasiva en lazo cerrado. El trabajo se publica en IEEE Journal of Solid-State Circuits."
               }
             ]
           }
@@ -767,15 +867,15 @@
       }
     },
     {
-      "id": "science-hallucination-nerd",
+      "id": "science-perturbai-openai-reasoning-agents",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "NYU 도구, 인용 검증\n실험 프로토콜도 찾는다",
-      "body": "NYU의 두 AI 도구는 논문 인용의 근거를 검증하고 실험 프로토콜을 찾아 준다.",
-      "mini_headline": "NYU의 인용 검증 도구",
+      "headline": "PerturbAI와 만든\nOpenAI 가설 에이전트",
+      "body": "PerturbAI–OpenAI의 수천 에이전트가 섭동 데이터로 검증 가설을 세운다.",
+      "mini_headline": "가설을 쓰는 에이전트",
       "tool": "Science",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-10-scientists-tech-tools-citation-hallucinations.html",
+      "source": "GEN",
+      "url": "https://www.genengnews.com/topics/artificial-intelligence/perturbai-and-openai-launch-ai-reasoning-agents-for-biomedical-discovery/",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -783,203 +883,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/computer-scientists-bu.jpg",
-            "cap": "HallucinationNerd 구조. 출처: Information (2026). DOI: 10.3390/info17111053"
+            "src": "https://www.genengnews.com/wp-content/uploads/2026/06/GettyImages-2224152938.jpg",
+            "cap": "Credit: Thom Leach/Science Photo Library/Getty Images"
           },
           {
             "t": "p",
-            "x": "NYU 컴퓨터과학자와 학생들이 웹 기반 AI 시스템 두 가지를 만들고, 학술지 Information에 논문 두 편으로 발표했다. 두 프로젝트를 이끈 사람은 NYU Courant Institute 컴퓨터과학 교수 데니스 샤샤(Dennis Shasha)다."
+            "x": "PerturbAI와 OpenAI, 그리고 Scripps Research, UC San Diego, HHMI의 협력 연구자들이 한 해 동안 작업한 결과를 bioRxiv 프리프린트로 내놨다. 대규모 실험 데이터셋을 해석하고 기존 연구와 이어 검증 가능한 가설을 만드는 AI 추론 프레임워크다."
           },
           {
             "t": "p",
-            "x": "Hallucination Nerd는 한 문서가 인용 문헌을 근거로 내세운 주장이 실제 그 문헌으로 뒷받침되는지 확인해 준다. 판정은 Supported(뒷받침됨), Partially Supported(부분적으로 뒷받침됨), Not Supported(뒷받침되지 않음), Contradicted(모순됨), Cited article does not exist(인용 논문 없음), Could not access(접근 불가) 중 하나로 내려진다."
+            "x": "PerturbAI의 전뇌 아틀라스에 적용하자 수천 개의 병렬 에이전트가 세포 반응을 분석하고 문헌을 찾은 뒤 유전자와 세포 반응, 가능한 메커니즘을 잇는 추론 아틀라스로 묶었다. 에이전트들은 원 논문 없이도 그 결론을 재현했고 따로 떼어 둔 섭동 효과까지 예측했다. 작업은 32분 만에 끝났다."
           },
           {
             "t": "p",
-            "x": "Protocol Nerd는 실험 프로토콜을 찾는 실험실 과학자를 위한 도구다. 먼저 질문을 던져 요구 사항을 분명히 한 뒤 프로토콜 여러 개를 내놓고, 각각이 왜 도움이 될 수 있는지, 왜 아닐 수 있는지 설명한다. 지금은 분자생물학과 화학에 집중한다."
+            "x": "블라인드 평가에서 생물학자들은 60건의 판단 중 45건(75%)에서 단일 에이전트 보고서보다 분산 에이전트의 해석을 선호했다."
           },
           {
             "t": "p",
-            "x": "연구팀은 Protocol Nerd는 PubMed와 Europe PMC 논문으로, Hallucination Nerd는 arXiv 논문으로 시험했고, 두 시스템을 기존 시스템과 견줘 봤다."
-          },
-          {
-            "t": "p",
-            "x": "“이전 연구를 정확하고 효율적으로 평가하면 이후의 관련 연구는 나아질 수밖에 없습니다.” 샤샤의 말이다."
+            "x": "두 회사는 PerturbAI의 인과적 in vivo 데이터로 약물 표적을 함께 찾는 쪽으로 협력을 넓힌다. OpenAI 생명과학 책임자 Joy Jiao는 \"2,000개 가까운 에이전트를 병렬로 돌린 결과는 고처리량 실험과 함께 생물학적 해석을 어떻게 확장할 수 있는지 보여준다\"고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "NYU tools check citations\nand find lab protocols",
-          "body": "Hallucination Nerd checks whether a paper's claims are backed by its citations, and Protocol Nerd finds lab protocols.",
-          "mini_headline": "NYU's citation checker",
+          "headline": "OpenAI and PerturbAI turn\nagents into hypothesis engines",
+          "body": "In a PerturbAI–OpenAI framework, thousands of agents turn perturbation data into testable biological hypotheses.",
+          "mini_headline": "Agents that write hypotheses",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/computer-scientists-bu.jpg",
-                "cap": "HallucinationNerd architecture. Credit: Information (2026). DOI: 10.3390/info17111053"
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/06/GettyImages-2224152938.jpg",
+                "cap": "Credit: Thom Leach/Science Photo Library/Getty Images"
               },
               {
                 "t": "p",
-                "x": "NYU computer scientists and students have built two web-hosted AI systems, described in two articles in the journal Information. Dennis Shasha, a professor of computer science at NYU's Courant Institute, led both projects."
+                "x": "PerturbAI, OpenAI and collaborators from Scripps Research, UC San Diego and HHMI shared results from a year-long effort to build an AI reasoning framework that interprets large experimental datasets, connects them with existing research and generates testable hypotheses, described in a bioRxiv preprint."
               },
               {
                 "t": "p",
-                "x": "Hallucination Nerd permits users to check whether the claims a document makes about its citations are backed up by the cited documents, grading each as Supported, Partially Supported, Not Supported, Contradicted, Cited article does not exist, or Could not access."
+                "x": "Applied to PerturbAI's whole-brain atlas, thousands of parallel agents analysed cellular responses and searched the literature, then synthesised a reasoning atlas linking genes, cell responses and possible mechanisms. Without the source manuscript, they recovered its conclusions and predicted held-out perturbation effects, finishing in 32 minutes."
               },
               {
                 "t": "p",
-                "x": "Protocol Nerd aims to help bench scientists seeking experimental protocols. It first asks clarifying questions, then offers several protocols and explains why each might or might not help. It currently focuses on molecular biology and chemistry."
+                "x": "In blinded reviews, biologists preferred the distributed agents' interpretations over single-agent reports in 45 of 60 judgements (75%)."
               },
               {
                 "t": "p",
-                "x": "The team tested Protocol Nerd on PubMed and Europe PMC articles and Hallucination Nerd on arXiv papers, comparing both with existing systems."
-              },
-              {
-                "t": "p",
-                "x": "“Accurately and efficiently evaluating previous research can only improve subsequent, related studies,” Shasha said."
+                "x": "The partners are now expanding into joint drug-target discovery using PerturbAI's causal in vivo data. \"Running nearly 2,000 agents in parallel shows how we can scale biological interpretation alongside high-throughput experimentation,\" said Joy Jiao, head of life sciences at OpenAI."
               }
             ]
           }
         },
         "ko": {
-          "headline": "NYU 도구, 인용 검증\n실험 프로토콜도 찾는다",
-          "body": "NYU의 두 AI 도구는 논문 인용의 근거를 검증하고 실험 프로토콜을 찾아 준다.",
-          "mini_headline": "NYU의 인용 검증 도구",
+          "headline": "PerturbAI와 만든\nOpenAI 가설 에이전트",
+          "body": "PerturbAI–OpenAI의 수천 에이전트가 섭동 데이터로 검증 가설을 세운다.",
+          "mini_headline": "가설을 쓰는 에이전트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/computer-scientists-bu.jpg",
-                "cap": "HallucinationNerd 구조. 출처: Information (2026). DOI: 10.3390/info17111053"
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/06/GettyImages-2224152938.jpg",
+                "cap": "Credit: Thom Leach/Science Photo Library/Getty Images"
               },
               {
                 "t": "p",
-                "x": "NYU 컴퓨터과학자와 학생들이 웹 기반 AI 시스템 두 가지를 만들고, 학술지 Information에 논문 두 편으로 발표했다. 두 프로젝트를 이끈 사람은 NYU Courant Institute 컴퓨터과학 교수 데니스 샤샤(Dennis Shasha)다."
+                "x": "PerturbAI와 OpenAI, 그리고 Scripps Research, UC San Diego, HHMI의 협력 연구자들이 한 해 동안 작업한 결과를 bioRxiv 프리프린트로 내놨다. 대규모 실험 데이터셋을 해석하고 기존 연구와 이어 검증 가능한 가설을 만드는 AI 추론 프레임워크다."
               },
               {
                 "t": "p",
-                "x": "Hallucination Nerd는 한 문서가 인용 문헌을 근거로 내세운 주장이 실제 그 문헌으로 뒷받침되는지 확인해 준다. 판정은 Supported(뒷받침됨), Partially Supported(부분적으로 뒷받침됨), Not Supported(뒷받침되지 않음), Contradicted(모순됨), Cited article does not exist(인용 논문 없음), Could not access(접근 불가) 중 하나로 내려진다."
+                "x": "PerturbAI의 전뇌 아틀라스에 적용하자 수천 개의 병렬 에이전트가 세포 반응을 분석하고 문헌을 찾은 뒤 유전자와 세포 반응, 가능한 메커니즘을 잇는 추론 아틀라스로 묶었다. 에이전트들은 원 논문 없이도 그 결론을 재현했고 따로 떼어 둔 섭동 효과까지 예측했다. 작업은 32분 만에 끝났다."
               },
               {
                 "t": "p",
-                "x": "Protocol Nerd는 실험 프로토콜을 찾는 실험실 과학자를 위한 도구다. 먼저 질문을 던져 요구 사항을 분명히 한 뒤 프로토콜 여러 개를 내놓고, 각각이 왜 도움이 될 수 있는지, 왜 아닐 수 있는지 설명한다. 지금은 분자생물학과 화학에 집중한다."
+                "x": "블라인드 평가에서 생물학자들은 60건의 판단 중 45건(75%)에서 단일 에이전트 보고서보다 분산 에이전트의 해석을 선호했다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 Protocol Nerd는 PubMed와 Europe PMC 논문으로, Hallucination Nerd는 arXiv 논문으로 시험했고, 두 시스템을 기존 시스템과 견줘 봤다."
-              },
-              {
-                "t": "p",
-                "x": "“이전 연구를 정확하고 효율적으로 평가하면 이후의 관련 연구는 나아질 수밖에 없습니다.” 샤샤의 말이다."
+                "x": "두 회사는 PerturbAI의 인과적 in vivo 데이터로 약물 표적을 함께 찾는 쪽으로 협력을 넓힌다. OpenAI 생명과학 책임자 Joy Jiao는 \"2,000개 가까운 에이전트를 병렬로 돌린 결과는 고처리량 실험과 함께 생물학적 해석을 어떻게 확장할 수 있는지 보여준다\"고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "NYUのツールが引用検証\n実験プロトコルも探す",
-          "body": "NYUの二つのAIツールは、論文の主張が引用で裏付けられるかを確かめ、実験手順も探す。",
-          "mini_headline": "NYUの引用チェッカー",
+          "headline": "PerturbAIと作る\nOpenAIの仮説エンジン",
+          "body": "PerturbAI–OpenAIの数千のエージェントが摂動データから検証可能な仮説を導く。",
+          "mini_headline": "仮説を書くエージェント",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/computer-scientists-bu.jpg",
-                "cap": "HallucinationNerdの構成。出典: Information (2026). DOI: 10.3390/info17111053"
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/06/GettyImages-2224152938.jpg",
+                "cap": "Credit: Thom Leach/Science Photo Library/Getty Images"
               },
               {
                 "t": "p",
-                "x": "NYUのコンピューター科学者と学生が、ウェブ上で動く二つのAIシステムを開発し、学術誌Informationの2本の論文で発表した。両プロジェクトを率いたのは、NYU Courant Instituteのコンピューター科学教授デニス・シャシャ(Dennis Shasha)氏だ。"
+                "x": "PerturbAIとOpenAI、そしてScripps Research、UC San Diego、HHMIの共同研究者らは、一年がかりで取り組んできたAI推論フレームワークの成果をbioRxivのプレプリントで公表した。大規模な実験データセットを解釈し、既存研究と結びつけ、検証可能な仮説を生成する仕組みである。"
               },
               {
                 "t": "p",
-                "x": "Hallucination Nerdを使うと、ある文書が引用文献について述べている主張が、実際に引用文献で裏付けられているかを確認できる。各主張はSupported(裏付けあり)、Partially Supported(一部裏付けあり)、Not Supported(裏付けなし)、Contradicted(矛盾)、Cited article does not exist(引用論文が存在しない)、Could not access(アクセス不可)のいずれかに判定される。"
+                "x": "PerturbAIの全脳アトラスに適用すると、数千の並列エージェントが細胞応答を分析して文献を検索し、遺伝子、細胞応答、考えうるメカニズムを結ぶ推論アトラスを統合した。元の論文がなくても結論を再現し、除外しておいた摂動効果を予測して、32分で作業を終えた。"
               },
               {
                 "t": "p",
-                "x": "Protocol Nerdは、実験プロトコルを探す研究者を支援するためのものだ。まず要件を明確にする質問をし、続いて複数のプロトコルを提示して、それぞれが役立つ理由と役立たない理由を説明する。現在は分子生物学と化学に焦点を当てている。"
+                "x": "盲検レビューでは、生物学者は60件の判断のうち45件(75%)で、単一エージェントの報告より分散エージェントの解釈を選んだ。"
               },
               {
                 "t": "p",
-                "x": "チームはProtocol NerdをPubMedとEurope PMCの論文で、Hallucination NerdをarXivの論文で検証し、いずれも既存のシステムと比較した。"
-              },
-              {
-                "t": "p",
-                "x": "「過去の研究を正確かつ効率的に評価できれば、その後の関連研究は必ず良くなる」とシャシャ氏は述べた。"
+                "x": "両者は現在、PerturbAIの因果的なin vivoデータを使った創薬標的の共同探索へと協力を広げている。OpenAIのライフサイエンス責任者Joy Jiaoは「2,000近いエージェントを並列で動かすことで、ハイスループット実験と並行して生物学的解釈をどうスケールできるかが示された」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "NYU工具核查引用\n并查找实验方案",
-          "body": "NYU的两款AI工具可核查论文主张是否有引文支撑，并查找实验方案。",
-          "mini_headline": "NYU的引用核查工具",
+          "headline": "PerturbAI携手\nOpenAI打造假设引擎",
+          "body": "在PerturbAI–OpenAI框架中，数千个智能体把扰动数据转化为可检验的生物学假设。",
+          "mini_headline": "会写假设的智能体",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/computer-scientists-bu.jpg",
-                "cap": "HallucinationNerd架构。来源：Information (2026). DOI: 10.3390/info17111053"
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/06/GettyImages-2224152938.jpg",
+                "cap": "Credit: Thom Leach/Science Photo Library/Getty Images"
               },
               {
                 "t": "p",
-                "x": "NYU的计算机科学家和学生开发了两套网页版AI系统，相关成果以两篇论文发表在期刊Information上。两个项目均由NYU Courant Institute计算机科学教授丹尼斯·沙沙(Dennis Shasha)主持。"
+                "x": "PerturbAI、OpenAI以及来自Scripps Research、UC San Diego和HHMI的合作者公布了一项为期一年的工作成果：构建一个AI推理框架，用于解读大型实验数据集、将其与已有研究相联系并生成可检验的假设。相关内容见于一篇bioRxiv预印本。"
               },
               {
                 "t": "p",
-                "x": "借助Hallucination Nerd，用户可以核查一份文档对其引文所作的论断是否真正得到被引文献的支持，每条论断会被评为Supported(有支持)、Partially Supported(部分支持)、Not Supported(无支持)、Contradicted(相矛盾)、Cited article does not exist(被引文章不存在)或Could not access(无法访问)。"
+                "x": "将其应用于PerturbAI的全脑图谱后，数千个并行智能体分析细胞反应并检索文献，随后整合出一份连接基因、细胞反应和可能机制的推理图谱。在没有原始论文的情况下，它们复现了论文结论，预测了留出的扰动效应，用时32分钟。"
               },
               {
                 "t": "p",
-                "x": "Protocol Nerd旨在帮助寻找实验方案的实验室科学家。它会先提出澄清性问题，再给出若干方案，并解释每种方案可能有用或无用的原因。目前它主要面向分子生物学和化学。"
+                "x": "在盲审中，生物学家在60次判断中有45次（75%）更青睐分布式智能体的解读，而非单一智能体报告。"
               },
               {
                 "t": "p",
-                "x": "团队用PubMed和Europe PMC的文章测试了Protocol Nerd，用arXiv论文测试了Hallucination Nerd，并将两者与现有系统进行了比较。"
-              },
-              {
-                "t": "p",
-                "x": "“准确而高效地评估既往研究，只会让后续的相关研究变得更好。”沙沙说。"
+                "x": "双方正将合作扩展到利用PerturbAI因果性in vivo数据的联合药物靶点发现。OpenAI生命科学负责人Joy Jiao表示：“并行运行近2,000个智能体，展示了我们如何在高通量实验的同时扩展生物学解读。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Herramientas de NYU verifican\ncitas y buscan protocolos",
-          "body": "Hallucination Nerd verifica si las citas de un artículo respaldan sus afirmaciones, y Protocol Nerd busca protocolos.",
-          "mini_headline": "El verificador de citas de NYU",
+          "headline": "OpenAI y PerturbAI convierten\nagentes en motores de hipótesis",
+          "body": "En el marco PerturbAI–OpenAI, miles de agentes convierten datos de perturbación en hipótesis biológicas comprobables.",
+          "mini_headline": "Agentes que escriben hipótesis",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/computer-scientists-bu.jpg",
-                "cap": "Arquitectura de HallucinationNerd. Crédito: Information (2026). DOI: 10.3390/info17111053"
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/06/GettyImages-2224152938.jpg",
+                "cap": "Credit: Thom Leach/Science Photo Library/Getty Images"
               },
               {
                 "t": "p",
-                "x": "Científicos de la computación y estudiantes de NYU crearon dos sistemas de IA alojados en la web, descritos en dos artículos de la revista Information. Dennis Shasha, profesor de ciencias de la computación del Courant Institute de NYU, dirigió ambos proyectos."
+                "x": "PerturbAI, OpenAI y colaboradores de Scripps Research, UC San Diego y HHMI compartieron los resultados de un esfuerzo de un año para construir un marco de razonamiento de AI que interpreta grandes conjuntos de datos experimentales, los conecta con la investigación existente y genera hipótesis comprobables, descrito en un preprint de bioRxiv."
               },
               {
                 "t": "p",
-                "x": "Hallucination Nerd permite comprobar si las afirmaciones que un documento hace sobre sus citas están respaldadas por los documentos citados, y califica cada una como Supported, Partially Supported, Not Supported, Contradicted, Cited article does not exist o Could not access."
+                "x": "Aplicado al atlas de cerebro completo de PerturbAI, miles de agentes en paralelo analizaron respuestas celulares y buscaron en la literatura, y luego sintetizaron un atlas de razonamiento que vincula genes, respuestas celulares y posibles mecanismos. Sin el manuscrito original, recuperaron sus conclusiones y predijeron efectos de perturbación reservados, y terminaron en 32 minutos."
               },
               {
                 "t": "p",
-                "x": "Protocol Nerd busca ayudar a los científicos de laboratorio que necesitan protocolos experimentales. Primero hace preguntas aclaratorias, luego ofrece varios protocolos y explica por qué cada uno podría servir o no. Por ahora se centra en biología molecular y química."
+                "x": "En revisiones a ciegas, los biólogos prefirieron las interpretaciones de los agentes distribuidos frente a los informes de un solo agente en 45 de 60 valoraciones (75%)."
               },
               {
                 "t": "p",
-                "x": "El equipo probó Protocol Nerd con artículos de PubMed y Europe PMC, y Hallucination Nerd con artículos de arXiv, y comparó ambos con sistemas existentes."
-              },
-              {
-                "t": "p",
-                "x": "“Evaluar con precisión y eficiencia la investigación previa solo puede mejorar los estudios posteriores relacionados”, dijo Shasha."
+                "x": "Los socios amplían ahora la colaboración al descubrimiento conjunto de dianas farmacológicas con los datos causales in vivo de PerturbAI. \"Ejecutar casi 2,000 agentes en paralelo muestra cómo podemos escalar la interpretación biológica junto con la experimentación de alto rendimiento\", dijo Joy Jiao, responsable de ciencias de la vida en OpenAI."
               }
             ]
           }
@@ -987,141 +1063,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "NYU 도구, 인용 검증\n실험 프로토콜도 찾는다",
-          "body": "NYU의 두 AI 도구는 논문 인용의 근거를 검증하고 실험 프로토콜을 찾아 준다.",
-          "mini_headline": "NYU의 인용 검증 도구",
+          "headline": "PerturbAI와 만든\nOpenAI 가설 에이전트",
+          "body": "PerturbAI–OpenAI의 수천 에이전트가 섭동 데이터로 검증 가설을 세운다.",
+          "mini_headline": "가설을 쓰는 에이전트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/computer-scientists-bu.jpg",
-                "cap": "HallucinationNerd 구조. 출처: Information (2026). DOI: 10.3390/info17111053"
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/06/GettyImages-2224152938.jpg",
+                "cap": "Credit: Thom Leach/Science Photo Library/Getty Images"
               },
               {
                 "t": "p",
-                "x": "NYU 컴퓨터과학자와 학생들이 웹 기반 AI 시스템 두 가지를 만들어 학술지 Information에 논문 두 편으로 발표했다. 두 프로젝트는 NYU Courant Institute의 컴퓨터과학 교수 데니스 샤샤(Dennis Shasha)가 이끌었다."
+                "x": "PerturbAI와 OpenAI, 그리고 Scripps Research, UC San Diego, HHMI의 협력 연구자들이 한 해에 걸친 작업의 결과를 bioRxiv 프리프린트로 공개했다. 대규모 실험 데이터셋을 해석하고 기존 연구와 연결해 검증 가능한 가설을 만드는 AI 추론 프레임워크다."
               },
               {
                 "t": "p",
-                "x": "Hallucination Nerd를 쓰면 한 문서가 인용 문헌을 두고 내세운 주장이 실제 인용 문헌으로 뒷받침되는지 확인할 수 있다. 각 주장은 Supported(뒷받침됨), Partially Supported(부분적으로 뒷받침됨), Not Supported(뒷받침되지 않음), Contradicted(모순됨), Cited article does not exist(인용 논문 없음), Could not access(접근 불가) 중 하나로 판정된다."
+                "x": "PerturbAI의 전뇌 아틀라스에 적용하자 수천 개의 병렬 에이전트가 세포 반응을 분석하고 문헌을 검색한 뒤, 유전자와 세포 반응, 가능한 메커니즘을 잇는 추론 아틀라스를 종합했다. 원 논문 없이도 에이전트들은 그 결론을 재현했고, 따로 떼어 둔 섭동 효과를 예측했으며, 32분 만에 작업을 마쳤다."
               },
               {
                 "t": "p",
-                "x": "Protocol Nerd는 실험 프로토콜을 찾는 실험실 과학자를 돕는 도구다. 먼저 요구 사항을 분명히 하는 질문을 던진 뒤 여러 프로토콜을 제시하고, 각각이 도움이 될 수 있는 이유와 그렇지 않은 이유를 설명한다. 현재는 분자생물학과 화학에 집중한다."
+                "x": "블라인드 평가에서 생물학자들은 60건의 판단 중 45건(75%)에서 단일 에이전트 보고서보다 분산 에이전트의 해석을 선호했다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 Protocol Nerd를 PubMed와 Europe PMC 논문으로, Hallucination Nerd를 arXiv 논문으로 시험하고 두 시스템을 기존 시스템과 비교했다."
-              },
-              {
-                "t": "p",
-                "x": "“이전 연구를 정확하고 효율적으로 평가하면 이후의 관련 연구는 나아질 수밖에 없습니다.” 샤샤의 말이다."
+                "x": "두 회사는 이제 PerturbAI의 인과적 in vivo 데이터를 활용한 공동 약물 표적 발굴로 협력을 넓히고 있다. OpenAI 생명과학 책임자 Joy Jiao는 \"2,000개 가까운 에이전트를 병렬로 돌린 결과는 고처리량 실험과 함께 생물학적 해석을 어떻게 확장할 수 있는지 보여준다\"고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "NYUのツールが引用検証\n実験プロトコルも探す",
-          "body": "NYUの二つのAIツールは、論文の主張が引用で裏付けられるかを確かめ、実験手順も探す。",
-          "mini_headline": "NYUの引用チェッカー",
+          "headline": "PerturbAIと作る\nOpenAIの仮説エンジン",
+          "body": "PerturbAI–OpenAIの数千のエージェントが摂動データから検証可能な仮説を導く。",
+          "mini_headline": "仮説を書くエージェント",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/computer-scientists-bu.jpg",
-                "cap": "HallucinationNerdの構成。出典: Information (2026). DOI: 10.3390/info17111053"
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/06/GettyImages-2224152938.jpg",
+                "cap": "Credit: Thom Leach/Science Photo Library/Getty Images"
               },
               {
                 "t": "p",
-                "x": "NYUのコンピューター科学者と学生が、ウェブ上で動く二つのAIシステムを開発し、学術誌Informationの2本の論文で発表した。両プロジェクトを率いたのは、NYU Courant Instituteのコンピューター科学教授デニス・シャシャ(Dennis Shasha)氏だ。"
+                "x": "PerturbAIとOpenAI、そしてScripps Research、UC San Diego、HHMIの共同研究者らは、一年がかりで取り組んできたAI推論フレームワークの成果をbioRxivのプレプリントで公表した。大規模な実験データセットを解釈し、既存研究と結びつけ、検証可能な仮説を生成する仕組みである。"
               },
               {
                 "t": "p",
-                "x": "Hallucination Nerdを使うと、ある文書が引用文献について述べている主張が、実際に引用文献で裏付けられているかを確認できる。各主張はSupported(裏付けあり)、Partially Supported(一部裏付けあり)、Not Supported(裏付けなし)、Contradicted(矛盾)、Cited article does not exist(引用論文が存在しない)、Could not access(アクセス不可)のいずれかに判定される。"
+                "x": "PerturbAIの全脳アトラスに適用すると、数千の並列エージェントが細胞応答を分析して文献を検索し、遺伝子、細胞応答、考えうるメカニズムを結ぶ推論アトラスを統合した。元の論文がなくても結論を再現し、除外しておいた摂動効果を予測して、32分で作業を終えた。"
               },
               {
                 "t": "p",
-                "x": "Protocol Nerdは、実験プロトコルを探す研究者を支援するためのものだ。まず要件を明確にする質問をし、続いて複数のプロトコルを提示して、それぞれが役立つ理由と役立たない理由を説明する。現在は分子生物学と化学に焦点を当てている。"
+                "x": "盲検レビューでは、生物学者は60件の判断のうち45件(75%)で、単一エージェントの報告より分散エージェントの解釈を選んだ。"
               },
               {
                 "t": "p",
-                "x": "チームはProtocol NerdをPubMedとEurope PMCの論文で、Hallucination NerdをarXivの論文で検証し、いずれも既存のシステムと比較した。"
-              },
-              {
-                "t": "p",
-                "x": "「過去の研究を正確かつ効率的に評価できれば、その後の関連研究は必ず良くなる」とシャシャ氏は述べた。"
+                "x": "両者は現在、PerturbAIの因果的なin vivoデータを使った創薬標的の共同探索へと協力を広げている。OpenAIのライフサイエンス責任者Joy Jiaoは「2,000近いエージェントを並列で動かすことで、ハイスループット実験と並行して生物学的解釈をどうスケールできるかが示された」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "NYU工具核查引用\n并查找实验方案",
-          "body": "NYU的两款AI工具可核查论文主张是否有引文支撑，并查找实验方案。",
-          "mini_headline": "NYU的引用核查工具",
+          "headline": "PerturbAI携手\nOpenAI打造假设引擎",
+          "body": "在PerturbAI–OpenAI框架中，数千个智能体把扰动数据转化为可检验的生物学假设。",
+          "mini_headline": "会写假设的智能体",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/computer-scientists-bu.jpg",
-                "cap": "HallucinationNerd架构。来源：Information (2026). DOI: 10.3390/info17111053"
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/06/GettyImages-2224152938.jpg",
+                "cap": "Credit: Thom Leach/Science Photo Library/Getty Images"
               },
               {
                 "t": "p",
-                "x": "NYU的计算机科学家和学生开发了两套网页版AI系统，相关成果以两篇论文发表在期刊Information上。两个项目均由NYU Courant Institute计算机科学教授丹尼斯·沙沙(Dennis Shasha)主持。"
+                "x": "PerturbAI、OpenAI以及来自Scripps Research、UC San Diego和HHMI的合作者公布了一项为期一年的工作成果：构建一个AI推理框架，用于解读大型实验数据集、将其与已有研究相联系并生成可检验的假设。相关内容见于一篇bioRxiv预印本。"
               },
               {
                 "t": "p",
-                "x": "借助Hallucination Nerd，用户可以核查一份文档对其引文所作的论断是否真正得到被引文献的支持，每条论断会被评为Supported(有支持)、Partially Supported(部分支持)、Not Supported(无支持)、Contradicted(相矛盾)、Cited article does not exist(被引文章不存在)或Could not access(无法访问)。"
+                "x": "将其应用于PerturbAI的全脑图谱后，数千个并行智能体分析细胞反应并检索文献，随后整合出一份连接基因、细胞反应和可能机制的推理图谱。在没有原始论文的情况下，它们复现了论文结论，预测了留出的扰动效应，用时32分钟。"
               },
               {
                 "t": "p",
-                "x": "Protocol Nerd旨在帮助寻找实验方案的实验室科学家。它会先提出澄清性问题，再给出若干方案，并解释每种方案可能有用或无用的原因。目前它主要面向分子生物学和化学。"
+                "x": "在盲审中，生物学家在60次判断中有45次（75%）更青睐分布式智能体的解读，而非单一智能体报告。"
               },
               {
                 "t": "p",
-                "x": "团队用PubMed和Europe PMC的文章测试了Protocol Nerd，用arXiv论文测试了Hallucination Nerd，并将两者与现有系统进行了比较。"
-              },
-              {
-                "t": "p",
-                "x": "“准确而高效地评估既往研究，只会让后续的相关研究变得更好。”沙沙说。"
+                "x": "双方正将合作扩展到利用PerturbAI因果性in vivo数据的联合药物靶点发现。OpenAI生命科学负责人Joy Jiao表示：“并行运行近2,000个智能体，展示了我们如何在高通量实验的同时扩展生物学解读。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Herramientas de NYU verifican\ncitas y buscan protocolos",
-          "body": "Hallucination Nerd verifica si las citas de un artículo respaldan sus afirmaciones, y Protocol Nerd busca protocolos.",
-          "mini_headline": "El verificador de citas de NYU",
+          "headline": "OpenAI y PerturbAI convierten\nagentes en motores de hipótesis",
+          "body": "En el marco PerturbAI–OpenAI, miles de agentes convierten datos de perturbación en hipótesis biológicas comprobables.",
+          "mini_headline": "Agentes que escriben hipótesis",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/computer-scientists-bu.jpg",
-                "cap": "Arquitectura de HallucinationNerd. Crédito: Information (2026). DOI: 10.3390/info17111053"
+                "src": "https://www.genengnews.com/wp-content/uploads/2026/06/GettyImages-2224152938.jpg",
+                "cap": "Credit: Thom Leach/Science Photo Library/Getty Images"
               },
               {
                 "t": "p",
-                "x": "Científicos de la computación y estudiantes de NYU crearon dos sistemas de IA alojados en la web, descritos en dos artículos de la revista Information. Dennis Shasha, profesor de ciencias de la computación del Courant Institute de NYU, dirigió ambos proyectos."
+                "x": "PerturbAI, OpenAI y colaboradores de Scripps Research, UC San Diego y HHMI compartieron los resultados de un esfuerzo de un año para construir un marco de razonamiento de AI que interpreta grandes conjuntos de datos experimentales, los conecta con la investigación existente y genera hipótesis comprobables, descrito en un preprint de bioRxiv."
               },
               {
                 "t": "p",
-                "x": "Hallucination Nerd permite comprobar si las afirmaciones que un documento hace sobre sus citas están respaldadas por los documentos citados, y califica cada una como Supported, Partially Supported, Not Supported, Contradicted, Cited article does not exist o Could not access."
+                "x": "Aplicado al atlas de cerebro completo de PerturbAI, miles de agentes en paralelo analizaron respuestas celulares y buscaron en la literatura, y luego sintetizaron un atlas de razonamiento que vincula genes, respuestas celulares y posibles mecanismos. Sin el manuscrito original, recuperaron sus conclusiones y predijeron efectos de perturbación reservados, y terminaron en 32 minutos."
               },
               {
                 "t": "p",
-                "x": "Protocol Nerd busca ayudar a los científicos de laboratorio que necesitan protocolos experimentales. Primero hace preguntas aclaratorias, luego ofrece varios protocolos y explica por qué cada uno podría servir o no. Por ahora se centra en biología molecular y química."
+                "x": "En revisiones a ciegas, los biólogos prefirieron las interpretaciones de los agentes distribuidos frente a los informes de un solo agente en 45 de 60 valoraciones (75%)."
               },
               {
                 "t": "p",
-                "x": "El equipo probó Protocol Nerd con artículos de PubMed y Europe PMC, y Hallucination Nerd con artículos de arXiv, y comparó ambos con sistemas existentes."
-              },
-              {
-                "t": "p",
-                "x": "“Evaluar con precisión y eficiencia la investigación previa solo puede mejorar los estudios posteriores relacionados”, dijo Shasha."
+                "x": "Los socios amplían ahora la colaboración al descubrimiento conjunto de dianas farmacológicas con los datos causales in vivo de PerturbAI. \"Ejecutar casi 2,000 agentes en paralelo muestra cómo podemos escalar la interpretación biológica junto con la experimentación de alto rendimiento\", dijo Joy Jiao, responsable de ciencias de la vida en OpenAI."
               }
             ]
           }
@@ -1129,491 +1189,391 @@
       }
     },
     {
-      "id": "science-forty-forest-map",
+      "id": "science-ai2-olmoearth-v1-3",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "DeepMind, 10미터\n해상도 숲 지도",
-      "body": "ForTy 2020은 육지를 10미터 해상도로 6개 숲·토지 유형으로 나눈다.",
-      "mini_headline": "전 세계 숲 유형 지도",
+      "headline": "OlmoEarth v1.3\n지구를 통째로 임베딩",
+      "body": "Ai2의 OlmoEarth v1.3은 전 지구 위성 임베딩과 웹 탐색기를 내놨다.",
+      "mini_headline": "OlmoEarth v1.3 공개",
       "tool": "Science",
-      "source": "Google DeepMind",
-      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "source": "Ai2",
+      "url": "https://allenai.org/blog/olmoearth-v1-3",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://lh3.googleusercontent.com/WGEFKF0mS4Mon9B5jZmraPj5UVTfZ0HtW0VXaLS0Ijm67blWFirP4Opi5IX6QLWEbq9MSQituskRlxKgUpGfD8-C6kIbe7etM9bTbvLg3rmG5gTkwc4=w1440-h810-n-nu"
-          },
-          {
             "t": "p",
-            "x": "Google DeepMind와 Google Research가 World Resources Institute, IIASA와 함께 Forest Typology(ForTy) 2020을 공개했다. 육지의 10-by-10-meter(가로세로 10미터) 구획을 하나도 빠짐없이 6개 숲·토지 이용 유형으로 나눈 전 세계 지도다. 2017년부터 2025년까지 해마다 변화를 추적한 초기 시계열도 함께 담겼다."
-          },
-          {
-            "t": "p",
-            "x": "6개 유형은 원시림, 자연 재생림, 조림지, 플랜테이션림, 수목 작물과 혼농임업, 기타 토지다."
+            "x": "지금까지 OlmoEarth를 쓰려면 OlmoEarth Studio에서 작업마다 모델을 미세 조정해야 했다. Ai2의 OlmoEarth v1.3은 사전 계산된 임베딩과 브라우저 기반 Embeddings Explorer를 더했다."
           },
           {
             "t": "img",
-            "src": "https://lh3.googleusercontent.com/wAQ6wnzu6Lr-VMuS6ielTWpKEcpB2PkjN0XTdby80-NtefdPj9-ZKCrVPk-CSPuZ6GN8B4sScphV7sUd9dwrgprBrijy8wj3Z9fIv7eg2QAcMUMGPA=w1440-h810-n-nu",
-            "cap": "2020년 Forest Typology 지도. 각 색은 1제곱킬로미터마다 가장 흔한 숲 또는 토지 유형을 나타낸다."
+            "src": "https://www.datocms-assets.com/64837/1792611867-olmoearth-v1-3-globe.png?fit=max&h=810&w=1550"
           },
           {
             "t": "p",
-            "x": "모델은 라벨이 붙은 지점 약 170만 개로 학습했고, 핵심 입력으로 AlphaEarth Foundations 임베딩을 쓴다."
+            "x": "모델은 한 해 분량의 Sentinel-1 레이더, Sentinel-2와 Landsat 시계열을 읽고 지구의 10미터 픽셀마다 128차원 벡터를 만든다. 앞쪽 64개 차원만 떼어 써도 된다."
+          },
+          {
+            "t": "p",
+            "x": "AlphaEarth Foundations, Tessera v2와 비교한 27개 평가에서 128차원 임베딩은 20개에서 최고 점수를 받았고 종합 순위도 가장 높았다. 64차원 버전은 18개에서 앞섰다. v1.3은 v1.2 연산량의 53%만 써서 OlmoEarth 가운데 학습 비용도 가장 적게 들었다."
           },
           {
             "t": "img",
-            "src": "https://lh3.googleusercontent.com/l0vzsdd-HHJUPQaQCHx4yzAOG-ULvQ20EM0HypoHdYpj-LMesy8I_dHhGwGtxjY1mRfa44OkiD_An7SgiHHXfaKQhgelgfZcdHWd9aPLGg_0wGyshw=w1440-h810-n-nu",
-            "cap": "위에서 내려다보면 5개 숲·수목 작물 유형은 서로 비슷해 보일 수 있다."
+            "src": "https://www.datocms-assets.com/64837/1792611867-olmoearth-v1-3-la-pampa.png?fit=max&h=810&w=1550"
           },
           {
             "t": "p",
-            "x": "무작위로 고른 지점 9,000곳 이상으로 검증해 보니 ForTy는 숲 유형을 90% 맞혔고, 숲과 비(非)숲은 95% 구분했다."
-          },
-          {
-            "t": "video",
-            "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/wbSzS_gEiCrn4Dc1/Figure4_light_1.mp4"
+            "x": "학습 없이 연도별 벡터를 비교하기만 해도 페루 La Pampa 일대에서 불법 금 채굴이 번지고 이후 단속이 이뤄진 과정이 드러난다."
           },
           {
             "t": "p",
-            "x": "지도와 시계열은 오픈 라이선스로 Google Earth Engine에서 무료로 이용할 수 있다."
+            "x": "아카이브는 연간 약 150 TB 규모다. 2023년부터 2025년까지는 전 지구를, 2017년부터 2022년까지는 일부 국가를 다룬다. 이번에 공개된 것은 Base 모델, 전 지구 임베딩, Explorer, 기술 보고서다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "DeepMind maps the world's\nforest types at 10 meters",
-          "body": "ForTy 2020 sorts Earth's land into six forest and land-use types at 10-meter resolution, with an annual time series.",
-          "mini_headline": "A global forest-type map",
+          "headline": "OlmoEarth v1.3 maps\nthe whole planet in embeddings",
+          "body": "Ai2's OlmoEarth v1.3 ships state-of-the-art satellite embeddings, precomputed global data and a browser-based explorer.",
+          "mini_headline": "OlmoEarth v1.3 lands",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/WGEFKF0mS4Mon9B5jZmraPj5UVTfZ0HtW0VXaLS0Ijm67blWFirP4Opi5IX6QLWEbq9MSQituskRlxKgUpGfD8-C6kIbe7etM9bTbvLg3rmG5gTkwc4=w1440-h810-n-nu"
-              },
-              {
                 "t": "p",
-                "x": "Google DeepMind and Google Research, with the World Resources Institute and IIASA, released Forest Typology (ForTy) 2020, a global map that sorts every 10-by-10-meter patch of land into six forest and land-use types, plus an early time series tracking changes each year from 2017 to 2025."
-              },
-              {
-                "t": "p",
-                "x": "The six categories are primary forest, naturally regenerating forest, planted forest, plantation forest, tree crops and agroforestry, and other land."
+                "x": "Until now, using OlmoEarth meant fine-tuning a model per task in OlmoEarth Studio. Ai2's OlmoEarth v1.3 adds precomputed embeddings and a browser-based Embeddings Explorer."
               },
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/wAQ6wnzu6Lr-VMuS6ielTWpKEcpB2PkjN0XTdby80-NtefdPj9-ZKCrVPk-CSPuZ6GN8B4sScphV7sUd9dwrgprBrijy8wj3Z9fIv7eg2QAcMUMGPA=w1440-h810-n-nu",
-                "cap": "The Forest Typology map for 2020. Each color shows the most common forest or land type in each square kilometer."
+                "src": "https://www.datocms-assets.com/64837/1792611867-olmoearth-v1-3-globe.png?fit=max&h=810&w=1550"
               },
               {
                 "t": "p",
-                "x": "The model was trained on about 1.7 million labeled locations and uses AlphaEarth Foundations embeddings as a key input."
+                "x": "The model reads a year of Sentinel-1 radar and Sentinel-2 and Landsat time series and produces a 128-dimensional vector for every 10-meter pixel on Earth; the first 64 dimensions also work alone."
+              },
+              {
+                "t": "p",
+                "x": "Across 27 evaluations against AlphaEarth Foundations and Tessera v2, the 128-dimensional embeddings score highest on 20 and rank highest overall; the 64-dimensional version leads on 18. v1.3 was also the cheapest OlmoEarth to train, using 53% of v1.2's compute."
               },
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/l0vzsdd-HHJUPQaQCHx4yzAOG-ULvQ20EM0HypoHdYpj-LMesy8I_dHhGwGtxjY1mRfa44OkiD_An7SgiHHXfaKQhgelgfZcdHWd9aPLGg_0wGyshw=w1440-h810-n-nu",
-                "cap": "From above, the five forest and tree-crop classes can look alike."
+                "src": "https://www.datocms-assets.com/64837/1792611867-olmoearth-v1-3-la-pampa.png?fit=max&h=810&w=1550"
               },
               {
                 "t": "p",
-                "x": "Validated against more than 9,000 random sites, ForTy picked the right forest type 90% of the time and told forest from non-forest 95% of the time."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/wbSzS_gEiCrn4Dc1/Figure4_light_1.mp4"
+                "x": "Comparing vectors across years, with no training, shows illegal gold mining spreading around La Pampa in Peru and the later crackdown."
               },
               {
                 "t": "p",
-                "x": "The map and time series are freely available on Google Earth Engine under an open license."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "DeepMind绘制全球\n10米分辨率森林类型图",
-          "body": "ForTy 2020以10米分辨率将地球陆地分为六种森林和土地利用类型，并附年度时间序列。",
-          "mini_headline": "全球森林类型地图",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/WGEFKF0mS4Mon9B5jZmraPj5UVTfZ0HtW0VXaLS0Ijm67blWFirP4Opi5IX6QLWEbq9MSQituskRlxKgUpGfD8-C6kIbe7etM9bTbvLg3rmG5gTkwc4=w1440-h810-n-nu"
-              },
-              {
-                "t": "p",
-                "x": "Google DeepMind与Google Research联合World Resources Institute和IIASA，发布了Forest Typology（ForTy）2020。这是一张全球地图，将每个10-by-10-meter（10×10米）的陆地地块划分为六种森林和土地利用类型，并附有追踪2017年至2025年逐年变化的早期时间序列。"
-              },
-              {
-                "t": "p",
-                "x": "六个类别分别为原始林、天然更新林、人工种植林、人工林场、林木作物与农林复合，以及其他土地。"
-              },
-              {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/wAQ6wnzu6Lr-VMuS6ielTWpKEcpB2PkjN0XTdby80-NtefdPj9-ZKCrVPk-CSPuZ6GN8B4sScphV7sUd9dwrgprBrijy8wj3Z9fIv7eg2QAcMUMGPA=w1440-h810-n-nu",
-                "cap": "2020年Forest Typology地图。每种颜色代表每平方公里内最常见的森林或土地类型。"
-              },
-              {
-                "t": "p",
-                "x": "该模型基于约170万个带标签的地点训练，并以AlphaEarth Foundations嵌入作为关键输入。"
-              },
-              {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/l0vzsdd-HHJUPQaQCHx4yzAOG-ULvQ20EM0HypoHdYpj-LMesy8I_dHhGwGtxjY1mRfa44OkiD_An7SgiHHXfaKQhgelgfZcdHWd9aPLGg_0wGyshw=w1440-h810-n-nu",
-                "cap": "从空中看，五种森林和林木作物类别可能十分相似。"
-              },
-              {
-                "t": "p",
-                "x": "在9,000多个随机地点的验证中，ForTy判断森林类型的准确率为90%，区分森林与非森林的准确率为95%。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/wbSzS_gEiCrn4Dc1/Figure4_light_1.mp4"
-              },
-              {
-                "t": "p",
-                "x": "地图和时间序列以开放许可在Google Earth Engine上免费提供。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "DeepMind mapea los tipos de\nbosque del mundo a 10 metros",
-          "body": "ForTy 2020 clasifica la tierra en seis tipos de bosque y uso del suelo a 10 metros, con serie anual.",
-          "mini_headline": "Un mapa global de tipos de bosque",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/WGEFKF0mS4Mon9B5jZmraPj5UVTfZ0HtW0VXaLS0Ijm67blWFirP4Opi5IX6QLWEbq9MSQituskRlxKgUpGfD8-C6kIbe7etM9bTbvLg3rmG5gTkwc4=w1440-h810-n-nu"
-              },
-              {
-                "t": "p",
-                "x": "Google DeepMind y Google Research, junto con el World Resources Institute y IIASA, publicaron Forest Typology (ForTy) 2020, un mapa global que clasifica cada parcela de tierra de 10-by-10-meter (10 × 10 metros) en seis tipos de bosque y uso del suelo, además de una serie temporal preliminar que sigue los cambios de cada año entre 2017 y 2025."
-              },
-              {
-                "t": "p",
-                "x": "Las seis categorías son bosque primario, bosque de regeneración natural, bosque plantado, bosque de plantación, cultivos arbóreos y agroforestería, y otras tierras."
-              },
-              {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/wAQ6wnzu6Lr-VMuS6ielTWpKEcpB2PkjN0XTdby80-NtefdPj9-ZKCrVPk-CSPuZ6GN8B4sScphV7sUd9dwrgprBrijy8wj3Z9fIv7eg2QAcMUMGPA=w1440-h810-n-nu",
-                "cap": "El mapa de Forest Typology de 2020. Cada color muestra el tipo de bosque o de tierra más común en cada kilómetro cuadrado."
-              },
-              {
-                "t": "p",
-                "x": "El modelo se entrenó con unos 1,7 millones de ubicaciones etiquetadas y usa los embeddings de AlphaEarth Foundations como entrada clave."
-              },
-              {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/l0vzsdd-HHJUPQaQCHx4yzAOG-ULvQ20EM0HypoHdYpj-LMesy8I_dHhGwGtxjY1mRfa44OkiD_An7SgiHHXfaKQhgelgfZcdHWd9aPLGg_0wGyshw=w1440-h810-n-nu",
-                "cap": "Desde arriba, las cinco clases de bosque y cultivos arbóreos pueden parecerse."
-              },
-              {
-                "t": "p",
-                "x": "Validado en más de 9.000 sitios aleatorios, ForTy acertó el tipo de bosque el 90 % de las veces y distinguió el bosque de lo que no es bosque el 95 % de las veces."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/wbSzS_gEiCrn4Dc1/Figure4_light_1.mp4"
-              },
-              {
-                "t": "p",
-                "x": "El mapa y la serie temporal están disponibles gratis en Google Earth Engine con una licencia abierta."
+                "x": "The archive holds about 150 TB per year: 2023 to 2025 are global, 2017 to 2022 cover select countries. The release includes the Base model, the global embeddings, the Explorer and a technical report."
               }
             ]
           }
         },
         "ko": {
-          "headline": "DeepMind, 10미터\n해상도 숲 지도",
-          "body": "ForTy 2020은 육지를 10미터 해상도로 6개 숲·토지 유형으로 나눈다.",
-          "mini_headline": "전 세계 숲 유형 지도",
+          "headline": "OlmoEarth v1.3\n지구를 통째로 임베딩",
+          "body": "Ai2의 OlmoEarth v1.3은 전 지구 위성 임베딩과 웹 탐색기를 내놨다.",
+          "mini_headline": "OlmoEarth v1.3 공개",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/WGEFKF0mS4Mon9B5jZmraPj5UVTfZ0HtW0VXaLS0Ijm67blWFirP4Opi5IX6QLWEbq9MSQituskRlxKgUpGfD8-C6kIbe7etM9bTbvLg3rmG5gTkwc4=w1440-h810-n-nu"
-              },
-              {
                 "t": "p",
-                "x": "Google DeepMind와 Google Research가 World Resources Institute, IIASA와 함께 Forest Typology(ForTy) 2020을 공개했다. 육지의 10-by-10-meter(가로세로 10미터) 구획을 하나도 빠짐없이 6개 숲·토지 이용 유형으로 나눈 전 세계 지도다. 2017년부터 2025년까지 해마다 변화를 추적한 초기 시계열도 함께 담겼다."
-              },
-              {
-                "t": "p",
-                "x": "6개 유형은 원시림, 자연 재생림, 조림지, 플랜테이션림, 수목 작물과 혼농임업, 기타 토지다."
+                "x": "지금까지 OlmoEarth를 쓰려면 OlmoEarth Studio에서 작업마다 모델을 미세 조정해야 했다. Ai2의 OlmoEarth v1.3은 사전 계산된 임베딩과 브라우저 기반 Embeddings Explorer를 더했다."
               },
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/wAQ6wnzu6Lr-VMuS6ielTWpKEcpB2PkjN0XTdby80-NtefdPj9-ZKCrVPk-CSPuZ6GN8B4sScphV7sUd9dwrgprBrijy8wj3Z9fIv7eg2QAcMUMGPA=w1440-h810-n-nu",
-                "cap": "2020년 Forest Typology 지도. 각 색은 1제곱킬로미터마다 가장 흔한 숲 또는 토지 유형을 나타낸다."
+                "src": "https://www.datocms-assets.com/64837/1792611867-olmoearth-v1-3-globe.png?fit=max&h=810&w=1550"
               },
               {
                 "t": "p",
-                "x": "모델은 라벨이 붙은 지점 약 170만 개로 학습했고, 핵심 입력으로 AlphaEarth Foundations 임베딩을 쓴다."
+                "x": "모델은 한 해 분량의 Sentinel-1 레이더, Sentinel-2와 Landsat 시계열을 읽고 지구의 10미터 픽셀마다 128차원 벡터를 만든다. 앞쪽 64개 차원만 떼어 써도 된다."
+              },
+              {
+                "t": "p",
+                "x": "AlphaEarth Foundations, Tessera v2와 비교한 27개 평가에서 128차원 임베딩은 20개에서 최고 점수를 받았고 종합 순위도 가장 높았다. 64차원 버전은 18개에서 앞섰다. v1.3은 v1.2 연산량의 53%만 써서 OlmoEarth 가운데 학습 비용도 가장 적게 들었다."
               },
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/l0vzsdd-HHJUPQaQCHx4yzAOG-ULvQ20EM0HypoHdYpj-LMesy8I_dHhGwGtxjY1mRfa44OkiD_An7SgiHHXfaKQhgelgfZcdHWd9aPLGg_0wGyshw=w1440-h810-n-nu",
-                "cap": "위에서 내려다보면 5개 숲·수목 작물 유형은 서로 비슷해 보일 수 있다."
+                "src": "https://www.datocms-assets.com/64837/1792611867-olmoearth-v1-3-la-pampa.png?fit=max&h=810&w=1550"
               },
               {
                 "t": "p",
-                "x": "무작위로 고른 지점 9,000곳 이상으로 검증해 보니 ForTy는 숲 유형을 90% 맞혔고, 숲과 비(非)숲은 95% 구분했다."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/wbSzS_gEiCrn4Dc1/Figure4_light_1.mp4"
+                "x": "학습 없이 연도별 벡터를 비교하기만 해도 페루 La Pampa 일대에서 불법 금 채굴이 번지고 이후 단속이 이뤄진 과정이 드러난다."
               },
               {
                 "t": "p",
-                "x": "지도와 시계열은 오픈 라이선스로 Google Earth Engine에서 무료로 이용할 수 있다."
+                "x": "아카이브는 연간 약 150 TB 규모다. 2023년부터 2025년까지는 전 지구를, 2017년부터 2022년까지는 일부 국가를 다룬다. 이번에 공개된 것은 Base 모델, 전 지구 임베딩, Explorer, 기술 보고서다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "DeepMind、\n10メートル森林地図",
-          "body": "ForTy 2020は地球の陸地を10メートル解像度で6種の森林・土地利用型に分類する。",
-          "mini_headline": "世界の森林タイプ地図",
+          "headline": "OlmoEarth v1.3\n地球全体を埋め込みで描く",
+          "body": "Ai2のOlmoEarth v1.3は最先端の衛星埋め込みと全球データを公開した。",
+          "mini_headline": "OlmoEarth v1.3が登場",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/WGEFKF0mS4Mon9B5jZmraPj5UVTfZ0HtW0VXaLS0Ijm67blWFirP4Opi5IX6QLWEbq9MSQituskRlxKgUpGfD8-C6kIbe7etM9bTbvLg3rmG5gTkwc4=w1440-h810-n-nu"
-              },
-              {
                 "t": "p",
-                "x": "Google DeepMindとGoogle Researchは、World Resources InstituteおよびIIASAと共同で、Forest Typology(ForTy)2020を公開した。陸地のあらゆる10-by-10-meter(10メートル四方)の区画を6種類の森林・土地利用型に分類する世界地図で、2017年から2025年まで毎年の変化を追う初期の時系列データも含む。"
-              },
-              {
-                "t": "p",
-                "x": "6つの分類は、原生林、天然更新林、植林地、プランテーション林、樹木作物とアグロフォレストリー、その他の土地である。"
+                "x": "これまでOlmoEarthを使うには、OlmoEarth Studioでタスクごとにモデルをファインチューニングする必要があった。Ai2のOlmoEarth v1.3は、事前計算済みの埋め込みと、ブラウザで動くEmbeddings Explorerを加えた。"
               },
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/wAQ6wnzu6Lr-VMuS6ielTWpKEcpB2PkjN0XTdby80-NtefdPj9-ZKCrVPk-CSPuZ6GN8B4sScphV7sUd9dwrgprBrijy8wj3Z9fIv7eg2QAcMUMGPA=w1440-h810-n-nu",
-                "cap": "2020年のForest Typology地図。各色は1平方キロメートルごとに最も多い森林または土地の種類を示す。"
+                "src": "https://www.datocms-assets.com/64837/1792611867-olmoearth-v1-3-globe.png?fit=max&h=810&w=1550"
               },
               {
                 "t": "p",
-                "x": "モデルは約170万のラベル付き地点で学習し、AlphaEarth Foundationsの埋め込みを主要な入力として使う。"
+                "x": "モデルは一年分のSentinel-1レーダーと、Sentinel-2およびLandsatの時系列を読み込み、地球上の10メートルのピクセルごとに128次元のベクトルを生成する。最初の64次元だけでも機能する。"
+              },
+              {
+                "t": "p",
+                "x": "AlphaEarth FoundationsおよびTessera v2との27の評価で、128次元の埋め込みは20項目で最高スコアを記録し、総合でも首位だった。64次元版は18項目でトップだった。v1.3はv1.2の53%の計算量で済み、OlmoEarthで最も安価に学習できた。"
               },
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/l0vzsdd-HHJUPQaQCHx4yzAOG-ULvQ20EM0HypoHdYpj-LMesy8I_dHhGwGtxjY1mRfa44OkiD_An7SgiHHXfaKQhgelgfZcdHWd9aPLGg_0wGyshw=w1440-h810-n-nu",
-                "cap": "上空から見ると、5つの森林・樹木作物のクラスは互いに似て見えることがある。"
+                "src": "https://www.datocms-assets.com/64837/1792611867-olmoearth-v1-3-la-pampa.png?fit=max&h=810&w=1550"
               },
               {
                 "t": "p",
-                "x": "9,000以上の無作為な地点で検証したところ、ForTyは森林の種類を90%の確率で正しく判定し、森林と非森林を95%の確率で見分けた。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/wbSzS_gEiCrn4Dc1/Figure4_light_1.mp4"
+                "x": "学習なしで年ごとのベクトルを比べるだけで、ペルーのLa Pampa周辺で違法な金採掘が広がり、その後取り締まりが進んだ様子が見えてくる。"
               },
               {
                 "t": "p",
-                "x": "地図と時系列データは、オープンライセンスのもとGoogle Earth Engineで無料で利用できる。"
+                "x": "アーカイブは年間約150 TB に及ぶ。2023年から2025年は全球を、2017年から2022年は一部の国を対象とする。今回のリリースにはBaseモデル、全球埋め込み、Explorer、技術レポートが含まれる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "OlmoEarth v1.3\n用嵌入描绘整个地球",
+          "body": "Ai2的OlmoEarth v1.3发布了领先的卫星嵌入、预计算全球数据和浏览器探索工具。",
+          "mini_headline": "OlmoEarth v1.3 发布",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "此前，使用OlmoEarth意味着要在OlmoEarth Studio中针对每项任务微调模型。Ai2的OlmoEarth v1.3新增了预计算嵌入和基于浏览器的Embeddings Explorer。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792611867-olmoearth-v1-3-globe.png?fit=max&h=810&w=1550"
+              },
+              {
+                "t": "p",
+                "x": "该模型读取一年的Sentinel-1雷达数据以及Sentinel-2和Landsat时间序列，为地球上每个10米像素生成一个128维向量；前64维也可单独使用。"
+              },
+              {
+                "t": "p",
+                "x": "在与AlphaEarth Foundations和Tessera v2对比的27项评估中，128维嵌入在20项中得分最高，综合排名居首；64维版本在18项中领先。v1.3也是训练成本最低的OlmoEarth，计算量仅为v1.2的53%。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792611867-olmoearth-v1-3-la-pampa.png?fit=max&h=810&w=1550"
+              },
+              {
+                "t": "p",
+                "x": "无需训练，只需比较不同年份的向量，就能看到秘鲁La Pampa周边非法金矿开采的扩张以及随后的打击行动。"
+              },
+              {
+                "t": "p",
+                "x": "该档案每年约150 TB：2023年至2025年覆盖全球，2017年至2022年覆盖部分国家。此次发布包括Base模型、全球嵌入、Explorer和一份技术报告。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "OlmoEarth v1.3 cartografía\nel planeta entero en embeddings",
+          "body": "OlmoEarth v1.3 de Ai2 ofrece embeddings satelitales de vanguardia, datos globales precalculados y un explorador web.",
+          "mini_headline": "Llega OlmoEarth v1.3",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Hasta ahora, usar OlmoEarth implicaba ajustar un modelo para cada tarea en OlmoEarth Studio. OlmoEarth v1.3 de Ai2 añade embeddings precalculados y un Embeddings Explorer que funciona en el navegador."
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792611867-olmoearth-v1-3-globe.png?fit=max&h=810&w=1550"
+              },
+              {
+                "t": "p",
+                "x": "El modelo lee un año de series temporales de radar Sentinel-1 y de Sentinel-2 y Landsat, y genera un vector de 128 dimensiones para cada píxel de 10 metros de la Tierra; las primeras 64 dimensiones también funcionan por sí solas."
+              },
+              {
+                "t": "p",
+                "x": "En 27 evaluaciones frente a AlphaEarth Foundations y Tessera v2, los embeddings de 128 dimensiones obtienen la mejor puntuación en 20 y la mejor clasificación general; la versión de 64 dimensiones lidera en 18. v1.3 fue además el OlmoEarth más barato de entrenar, con el 53% del cómputo de v1.2."
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792611867-olmoearth-v1-3-la-pampa.png?fit=max&h=810&w=1550"
+              },
+              {
+                "t": "p",
+                "x": "Comparar vectores entre años, sin entrenamiento, muestra la expansión de la minería ilegal de oro en torno a La Pampa, en Perú, y la posterior represión."
+              },
+              {
+                "t": "p",
+                "x": "El archivo ocupa unos 150 TB por año: de 2023 a 2025 la cobertura es global y de 2017 a 2022 abarca países seleccionados. El lanzamiento incluye el modelo Base, los embeddings globales, el Explorer y un informe técnico."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "zh": {
-          "headline": "DeepMind绘制全球\n10米分辨率森林类型图",
-          "body": "ForTy 2020以10米分辨率将地球陆地分为六种森林和土地利用类型，并附年度时间序列。",
-          "mini_headline": "全球森林类型地图",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/WGEFKF0mS4Mon9B5jZmraPj5UVTfZ0HtW0VXaLS0Ijm67blWFirP4Opi5IX6QLWEbq9MSQituskRlxKgUpGfD8-C6kIbe7etM9bTbvLg3rmG5gTkwc4=w1440-h810-n-nu"
-              },
-              {
-                "t": "p",
-                "x": "Google DeepMind与Google Research联合World Resources Institute和IIASA，发布了Forest Typology（ForTy）2020。这是一张全球地图，将每个10-by-10-meter（10×10米）的陆地地块划分为六种森林和土地利用类型，并附有追踪2017年至2025年逐年变化的早期时间序列。"
-              },
-              {
-                "t": "p",
-                "x": "六个类别分别为原始林、天然更新林、人工种植林、人工林场、林木作物与农林复合，以及其他土地。"
-              },
-              {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/wAQ6wnzu6Lr-VMuS6ielTWpKEcpB2PkjN0XTdby80-NtefdPj9-ZKCrVPk-CSPuZ6GN8B4sScphV7sUd9dwrgprBrijy8wj3Z9fIv7eg2QAcMUMGPA=w1440-h810-n-nu",
-                "cap": "2020年Forest Typology地图。每种颜色代表每平方公里内最常见的森林或土地类型。"
-              },
-              {
-                "t": "p",
-                "x": "该模型基于约170万个带标签的地点训练，并以AlphaEarth Foundations嵌入作为关键输入。"
-              },
-              {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/l0vzsdd-HHJUPQaQCHx4yzAOG-ULvQ20EM0HypoHdYpj-LMesy8I_dHhGwGtxjY1mRfa44OkiD_An7SgiHHXfaKQhgelgfZcdHWd9aPLGg_0wGyshw=w1440-h810-n-nu",
-                "cap": "从空中看，五种森林和林木作物类别可能十分相似。"
-              },
-              {
-                "t": "p",
-                "x": "在9,000多个随机地点的验证中，ForTy判断森林类型的准确率为90%，区分森林与非森林的准确率为95%。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/wbSzS_gEiCrn4Dc1/Figure4_light_1.mp4"
-              },
-              {
-                "t": "p",
-                "x": "地图和时间序列以开放许可在Google Earth Engine上免费提供。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "DeepMind mapea los tipos de\nbosque del mundo a 10 metros",
-          "body": "ForTy 2020 clasifica la tierra en seis tipos de bosque y uso del suelo a 10 metros, con serie anual.",
-          "mini_headline": "Un mapa global de tipos de bosque",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/WGEFKF0mS4Mon9B5jZmraPj5UVTfZ0HtW0VXaLS0Ijm67blWFirP4Opi5IX6QLWEbq9MSQituskRlxKgUpGfD8-C6kIbe7etM9bTbvLg3rmG5gTkwc4=w1440-h810-n-nu"
-              },
-              {
-                "t": "p",
-                "x": "Google DeepMind y Google Research, junto con el World Resources Institute y IIASA, publicaron Forest Typology (ForTy) 2020, un mapa global que clasifica cada parcela de tierra de 10-by-10-meter (10 × 10 metros) en seis tipos de bosque y uso del suelo, además de una serie temporal preliminar que sigue los cambios de cada año entre 2017 y 2025."
-              },
-              {
-                "t": "p",
-                "x": "Las seis categorías son bosque primario, bosque de regeneración natural, bosque plantado, bosque de plantación, cultivos arbóreos y agroforestería, y otras tierras."
-              },
-              {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/wAQ6wnzu6Lr-VMuS6ielTWpKEcpB2PkjN0XTdby80-NtefdPj9-ZKCrVPk-CSPuZ6GN8B4sScphV7sUd9dwrgprBrijy8wj3Z9fIv7eg2QAcMUMGPA=w1440-h810-n-nu",
-                "cap": "El mapa de Forest Typology de 2020. Cada color muestra el tipo de bosque o de tierra más común en cada kilómetro cuadrado."
-              },
-              {
-                "t": "p",
-                "x": "El modelo se entrenó con unos 1,7 millones de ubicaciones etiquetadas y usa los embeddings de AlphaEarth Foundations como entrada clave."
-              },
-              {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/l0vzsdd-HHJUPQaQCHx4yzAOG-ULvQ20EM0HypoHdYpj-LMesy8I_dHhGwGtxjY1mRfa44OkiD_An7SgiHHXfaKQhgelgfZcdHWd9aPLGg_0wGyshw=w1440-h810-n-nu",
-                "cap": "Desde arriba, las cinco clases de bosque y cultivos arbóreos pueden parecerse."
-              },
-              {
-                "t": "p",
-                "x": "Validado en más de 9.000 sitios aleatorios, ForTy acertó el tipo de bosque el 90 % de las veces y distinguió el bosque de lo que no es bosque el 95 % de las veces."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/wbSzS_gEiCrn4Dc1/Figure4_light_1.mp4"
-              },
-              {
-                "t": "p",
-                "x": "El mapa y la serie temporal están disponibles gratis en Google Earth Engine con una licencia abierta."
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "DeepMind, 10미터\n해상도 숲 지도",
-          "body": "ForTy 2020은 육지를 10미터 해상도로 6개 숲·토지 유형으로 나눈다.",
-          "mini_headline": "전 세계 숲 유형 지도",
+          "headline": "OlmoEarth v1.3\n지구를 통째로 임베딩",
+          "body": "Ai2의 OlmoEarth v1.3은 전 지구 위성 임베딩과 웹 탐색기를 내놨다.",
+          "mini_headline": "OlmoEarth v1.3 공개",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/WGEFKF0mS4Mon9B5jZmraPj5UVTfZ0HtW0VXaLS0Ijm67blWFirP4Opi5IX6QLWEbq9MSQituskRlxKgUpGfD8-C6kIbe7etM9bTbvLg3rmG5gTkwc4=w1440-h810-n-nu"
-              },
-              {
                 "t": "p",
-                "x": "Google DeepMind와 Google Research는 World Resources Institute, IIASA와 함께 Forest Typology(ForTy) 2020을 공개했다. 육지의 모든 10-by-10-meter(가로세로 10미터) 구획을 6개 숲·토지 이용 유형으로 분류한 전 세계 지도로, 2017년부터 2025년까지 해마다 변화를 추적하는 초기 시계열도 함께 담았다."
-              },
-              {
-                "t": "p",
-                "x": "6개 유형은 원시림, 자연 재생림, 조림지, 플랜테이션림, 수목 작물과 혼농임업, 기타 토지다."
+                "x": "지금까지 OlmoEarth를 쓰려면 OlmoEarth Studio에서 작업마다 모델을 미세 조정해야 했다. Ai2의 OlmoEarth v1.3은 사전 계산된 임베딩과 브라우저 기반 Embeddings Explorer를 더했다."
               },
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/wAQ6wnzu6Lr-VMuS6ielTWpKEcpB2PkjN0XTdby80-NtefdPj9-ZKCrVPk-CSPuZ6GN8B4sScphV7sUd9dwrgprBrijy8wj3Z9fIv7eg2QAcMUMGPA=w1440-h810-n-nu",
-                "cap": "2020년 Forest Typology 지도다. 각 색은 1제곱킬로미터마다 가장 흔한 숲 또는 토지 유형을 나타낸다."
+                "src": "https://www.datocms-assets.com/64837/1792611867-olmoearth-v1-3-globe.png?fit=max&h=810&w=1550"
               },
               {
                 "t": "p",
-                "x": "모델은 라벨이 붙은 약 170만 개 지점으로 학습했으며, AlphaEarth Foundations 임베딩을 핵심 입력으로 쓴다."
+                "x": "모델은 한 해 분량의 Sentinel-1 레이더, Sentinel-2와 Landsat 시계열을 읽고 지구의 10미터 픽셀마다 128차원 벡터를 만든다. 앞쪽 64개 차원만 따로 써도 작동한다."
+              },
+              {
+                "t": "p",
+                "x": "AlphaEarth Foundations, Tessera v2와 비교한 27개 평가에서 128차원 임베딩은 20개에서 최고 점수를 받았고 종합 순위도 가장 높았다. 64차원 버전은 18개에서 앞섰다. v1.3은 v1.2 연산량의 53%만 써서 OlmoEarth 가운데 학습 비용도 가장 적게 들었다."
               },
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/l0vzsdd-HHJUPQaQCHx4yzAOG-ULvQ20EM0HypoHdYpj-LMesy8I_dHhGwGtxjY1mRfa44OkiD_An7SgiHHXfaKQhgelgfZcdHWd9aPLGg_0wGyshw=w1440-h810-n-nu",
-                "cap": "위에서 내려다보면 5개 숲·수목 작물 유형은 서로 비슷해 보일 수 있다."
+                "src": "https://www.datocms-assets.com/64837/1792611867-olmoearth-v1-3-la-pampa.png?fit=max&h=810&w=1550"
               },
               {
                 "t": "p",
-                "x": "무작위로 고른 9,000곳 이상의 지점으로 검증한 결과, ForTy는 숲 유형을 90% 맞혔고 숲과 비(非)숲을 95% 구분했다."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/wbSzS_gEiCrn4Dc1/Figure4_light_1.mp4"
+                "x": "학습 없이 연도별 벡터를 비교하기만 해도 페루 La Pampa 일대에서 불법 금 채굴이 번지고 이후 단속이 이뤄진 과정이 드러난다."
               },
               {
                 "t": "p",
-                "x": "지도와 시계열은 오픈 라이선스로 Google Earth Engine에서 무료로 이용할 수 있다."
+                "x": "아카이브는 연간 약 150 TB 규모다. 2023년부터 2025년까지는 전 지구를, 2017년부터 2022년까지는 일부 국가를 다룬다. 이번 공개에는 Base 모델, 전 지구 임베딩, Explorer, 기술 보고서가 포함된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "DeepMind、\n10メートル森林地図",
-          "body": "ForTy 2020は地球の陸地を10メートル解像度で6種の森林・土地利用型に分類する。",
-          "mini_headline": "世界の森林タイプ地図",
+          "headline": "OlmoEarth v1.3\n地球全体を埋め込みで描く",
+          "body": "Ai2のOlmoEarth v1.3は最先端の衛星埋め込みと全球データを公開した。",
+          "mini_headline": "OlmoEarth v1.3が登場",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://lh3.googleusercontent.com/WGEFKF0mS4Mon9B5jZmraPj5UVTfZ0HtW0VXaLS0Ijm67blWFirP4Opi5IX6QLWEbq9MSQituskRlxKgUpGfD8-C6kIbe7etM9bTbvLg3rmG5gTkwc4=w1440-h810-n-nu"
-              },
-              {
                 "t": "p",
-                "x": "Google DeepMindとGoogle Researchは、World Resources InstituteおよびIIASAと共同で、Forest Typology(ForTy)2020を公開した。陸地のあらゆる10-by-10-meter(10メートル四方)の区画を6種類の森林・土地利用型に分類する世界地図で、2017年から2025年まで毎年の変化を追う初期の時系列データも含む。"
-              },
-              {
-                "t": "p",
-                "x": "6つの分類は、原生林、天然更新林、植林地、プランテーション林、樹木作物とアグロフォレストリー、その他の土地である。"
+                "x": "これまでOlmoEarthを使うには、OlmoEarth Studioでタスクごとにモデルをファインチューニングする必要があった。Ai2のOlmoEarth v1.3は、事前計算済みの埋め込みと、ブラウザで動くEmbeddings Explorerを加えた。"
               },
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/wAQ6wnzu6Lr-VMuS6ielTWpKEcpB2PkjN0XTdby80-NtefdPj9-ZKCrVPk-CSPuZ6GN8B4sScphV7sUd9dwrgprBrijy8wj3Z9fIv7eg2QAcMUMGPA=w1440-h810-n-nu",
-                "cap": "2020年のForest Typology地図。各色は1平方キロメートルごとに最も多い森林または土地の種類を示す。"
+                "src": "https://www.datocms-assets.com/64837/1792611867-olmoearth-v1-3-globe.png?fit=max&h=810&w=1550"
               },
               {
                 "t": "p",
-                "x": "モデルは約170万のラベル付き地点で学習し、AlphaEarth Foundationsの埋め込みを主要な入力として使う。"
+                "x": "モデルは一年分のSentinel-1レーダーと、Sentinel-2およびLandsatの時系列を読み込み、地球上の10メートルのピクセルごとに128次元のベクトルを生成する。最初の64次元だけでも機能する。"
+              },
+              {
+                "t": "p",
+                "x": "AlphaEarth FoundationsおよびTessera v2との27の評価で、128次元の埋め込みは20項目で最高スコアを記録し、総合でも首位だった。64次元版は18項目でトップだった。v1.3はv1.2の53%の計算量で済み、OlmoEarthで最も安価に学習できた。"
               },
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/l0vzsdd-HHJUPQaQCHx4yzAOG-ULvQ20EM0HypoHdYpj-LMesy8I_dHhGwGtxjY1mRfa44OkiD_An7SgiHHXfaKQhgelgfZcdHWd9aPLGg_0wGyshw=w1440-h810-n-nu",
-                "cap": "上空から見ると、5つの森林・樹木作物のクラスは互いに似て見えることがある。"
+                "src": "https://www.datocms-assets.com/64837/1792611867-olmoearth-v1-3-la-pampa.png?fit=max&h=810&w=1550"
               },
               {
                 "t": "p",
-                "x": "9,000以上の無作為な地点で検証したところ、ForTyは森林の種類を90%の確率で正しく判定し、森林と非森林を95%の確率で見分けた。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/wbSzS_gEiCrn4Dc1/Figure4_light_1.mp4"
+                "x": "学習なしで年ごとのベクトルを比べるだけで、ペルーのLa Pampa周辺で違法な金採掘が広がり、その後取り締まりが進んだ様子が見えてくる。"
               },
               {
                 "t": "p",
-                "x": "地図と時系列データは、オープンライセンスのもとGoogle Earth Engineで無料で利用できる。"
+                "x": "アーカイブは年間約150 TB に及ぶ。2023年から2025年は全球を、2017年から2022年は一部の国を対象とする。今回のリリースにはBaseモデル、全球埋め込み、Explorer、技術レポートが含まれる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "OlmoEarth v1.3\n用嵌入描绘整个地球",
+          "body": "Ai2的OlmoEarth v1.3发布了领先的卫星嵌入、预计算全球数据和浏览器探索工具。",
+          "mini_headline": "OlmoEarth v1.3 发布",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "此前，使用OlmoEarth意味着要在OlmoEarth Studio中针对每项任务微调模型。Ai2的OlmoEarth v1.3新增了预计算嵌入和基于浏览器的Embeddings Explorer。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792611867-olmoearth-v1-3-globe.png?fit=max&h=810&w=1550"
+              },
+              {
+                "t": "p",
+                "x": "该模型读取一年的Sentinel-1雷达数据以及Sentinel-2和Landsat时间序列，为地球上每个10米像素生成一个128维向量；前64维也可单独使用。"
+              },
+              {
+                "t": "p",
+                "x": "在与AlphaEarth Foundations和Tessera v2对比的27项评估中，128维嵌入在20项中得分最高，综合排名居首；64维版本在18项中领先。v1.3也是训练成本最低的OlmoEarth，计算量仅为v1.2的53%。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792611867-olmoearth-v1-3-la-pampa.png?fit=max&h=810&w=1550"
+              },
+              {
+                "t": "p",
+                "x": "无需训练，只需比较不同年份的向量，就能看到秘鲁La Pampa周边非法金矿开采的扩张以及随后的打击行动。"
+              },
+              {
+                "t": "p",
+                "x": "该档案每年约150 TB：2023年至2025年覆盖全球，2017年至2022年覆盖部分国家。此次发布包括Base模型、全球嵌入、Explorer和一份技术报告。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "OlmoEarth v1.3 cartografía\nel planeta entero en embeddings",
+          "body": "OlmoEarth v1.3 de Ai2 ofrece embeddings satelitales de vanguardia, datos globales precalculados y un explorador web.",
+          "mini_headline": "Llega OlmoEarth v1.3",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Hasta ahora, usar OlmoEarth implicaba ajustar un modelo para cada tarea en OlmoEarth Studio. OlmoEarth v1.3 de Ai2 añade embeddings precalculados y un Embeddings Explorer que funciona en el navegador."
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792611867-olmoearth-v1-3-globe.png?fit=max&h=810&w=1550"
+              },
+              {
+                "t": "p",
+                "x": "El modelo lee un año de series temporales de radar Sentinel-1 y de Sentinel-2 y Landsat, y genera un vector de 128 dimensiones para cada píxel de 10 metros de la Tierra; las primeras 64 dimensiones también funcionan por sí solas."
+              },
+              {
+                "t": "p",
+                "x": "En 27 evaluaciones frente a AlphaEarth Foundations y Tessera v2, los embeddings de 128 dimensiones obtienen la mejor puntuación en 20 y la mejor clasificación general; la versión de 64 dimensiones lidera en 18. v1.3 fue además el OlmoEarth más barato de entrenar, con el 53% del cómputo de v1.2."
+              },
+              {
+                "t": "img",
+                "src": "https://www.datocms-assets.com/64837/1792611867-olmoearth-v1-3-la-pampa.png?fit=max&h=810&w=1550"
+              },
+              {
+                "t": "p",
+                "x": "Comparar vectores entre años, sin entrenamiento, muestra la expansión de la minería ilegal de oro en torno a La Pampa, en Perú, y la posterior represión."
+              },
+              {
+                "t": "p",
+                "x": "El archivo ocupa unos 150 TB por año: de 2023 a 2025 la cobertura es global y de 2017 a 2022 abarca países seleccionados. El lanzamiento incluye el modelo Base, los embeddings globales, el Explorer y un informe técnico."
               }
             ]
           }
@@ -1621,15 +1581,15 @@
       }
     },
     {
-      "id": "science-quantum-circuit-kaggle",
+      "id": "science-chalmers-llm-political-audit",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Google, 15만 달러\n양자 회로 경량화 공모",
-      "body": "Google은 Kaggle 대회에서 양자 회로를 줄이는 AI 기법에 상금을 건다.",
-      "mini_headline": "Google 양자 회로 대회",
+      "headline": "챗봇 대부분은 정치적 중도\nGrok만 예외",
+      "body": "107개 쟁점에서 LLMs 여섯 중 다섯은 중도였고 Grok은 이민·범죄서 갈렸다.",
+      "mini_headline": "중도에서 벗어난 Grok",
       "tool": "Science",
-      "source": "The Quantum Insider",
-      "url": "https://thequantuminsider.com/2026/10/23/google-launches-150000-ai-competition-to-reduce-quantum-computing-demands/",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-10-ai-chatbots-stay-political-middle.html",
       "accent": "#eb367f",
       "motif": "sphere",
       "full": {
@@ -1637,197 +1597,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Google-Image.png"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/five-out-of-six-ai-cha.jpg",
+            "cap": "Credit: The Swedish Election Authority (Valmyndigheten) | Fialotta Bratt"
           },
           {
             "t": "p",
-            "x": "Google Quantum AI가 인공지능으로 양자 회로를 줄이는 대회를 연다. 유용한 양자 컴퓨팅에 필요한 회로가 대상이고, 총상금은 $150,000이다."
+            "x": "Chalmers University of Technology 연구진은 2026년 스웨덴 총선을 앞두고 대규모 언어 모델 여섯 개, 곧 Claude, DeepSeek, Gemini, Mistral, GPT, Grok을 107개 정치 쟁점으로 시험했다. 77개 글쓰기 과제에서 나온 텍스트는 148,000건을 조금 넘었다."
           },
           {
             "t": "p",
-            "x": "대회는 Kaggle에서 열린다. 핵융합 에너지, 수학적 최적화, 화학 관련 과제에 필요한 연산 단계와 큐비트 수를 줄이는 것이 목표다."
+            "x": "연구진은 텍스트를 쟁점별로 중립, 긍정, 부정으로 분류한 뒤 정당들의 선거 운동 입장과 비교했다. 선임 강사 Bastiaan Bruinsma는 \"모델들이 특정 정당을 지지한다고 말할 수는 없다\"고 말했다. 모델들은 대체로 스펙트럼 가운데쯤에 자리했다. GPT는 주로 중립적이고 균형 잡힌 글을 썼다."
           },
           {
             "t": "p",
-            "x": "대회에는 Google Qualtran 프로젝트의 오픈소스 라이브러리 kickmix가 쓰인다. kickmix 회로는 일반 컴퓨터 단일 코어에서 초당 600억 게이트 속도로 무작위 퍼즈 테스트를 돌려 검증할 수 있다."
+            "x": "xAI가 개발한 Grok은 이민, 범죄, 젠더 쟁점에서 크게 벗어났다. 제안에 찬성하거나 반대하는 논거를 쓰라고 지시하면 모델들은 대체로 따랐다."
           },
           {
             "t": "p",
-            "x": "Google은 자사 Gemini 모델로 내부 실험을 해 보니 세 벤치마크 모두에서 이미 지금까지 보고된 회로보다 나은 결과를 얻었다고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "상금에는 세 과제마다 최고 점수에 주는 $10,000가 들어 있다."
+            "x": "이번 연구는 대화 이력이나 투표에 미치는 영향은 시험하지 않았고, 연구팀은 이를 다음에 살펴볼 계획이다. 연구는 arXiv 프리프린트로 공개됐다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Google offers $150,000 for\nleaner quantum circuits",
-          "body": "Google Quantum AI's Kaggle contest rewards AI methods that design smaller, more efficient quantum circuits.",
-          "mini_headline": "Google's quantum circuit contest",
+          "headline": "Most chatbots sit in the\npolitical middle, Grok aside",
+          "body": "Across 107 Swedish policy issues, five of six LLMs stayed near the centre while Grok diverged on migration and crime.",
+          "mini_headline": "Grok strays from the centre",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Google-Image.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/five-out-of-six-ai-cha.jpg",
+                "cap": "Credit: The Swedish Election Authority (Valmyndigheten) | Fialotta Bratt"
               },
               {
                 "t": "p",
-                "x": "Google Quantum AI is launching a competition to use artificial intelligence to shrink the circuits needed for useful quantum computing, with a total prize pool of $150,000."
+                "x": "Researchers at Chalmers University of Technology tested six large language models, Claude, DeepSeek, Gemini, Mistral, GPT and Grok, on 107 political issues ahead of the 2026 Swedish election, producing just over 148,000 texts across 77 writing tasks."
               },
               {
                 "t": "p",
-                "x": "Hosted on Kaggle, it challenges participants to reduce the number of computing steps and qubits required for tasks related to fusion energy, mathematical optimization and chemistry."
+                "x": "Texts were classified as neutral, positive or negative towards each issue and compared with the parties' campaign positions. \"It is not possible to say that the models support any party,\" said senior lecturer Bastiaan Bruinsma. The models generally landed towards the middle of the spectrum, and GPT mostly produced neutral, balanced texts."
               },
               {
                 "t": "p",
-                "x": "It uses kickmix, an open-source library in Google's Qualtran project, whose circuits conventional computers can check through randomized fuzz testing at 60 billion gates per second on a single core."
+                "x": "Grok, developed by xAI, deviated significantly on migration, crime and gender. When told to argue for or against a proposal, the models largely complied."
               },
               {
                 "t": "p",
-                "x": "Google said internal experiments with its Gemini models have already produced improvements beyond circuits reported to date across all three benchmarks."
-              },
-              {
-                "t": "p",
-                "x": "Prizes include $10,000 for the best score on each of the three tasks."
+                "x": "The study did not test conversation history or effects on voting, which the team plans to examine next. It is published as an arXiv preprint."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Google, 15만 달러\n양자 회로 경량화 공모",
-          "body": "Google은 Kaggle 대회에서 양자 회로를 줄이는 AI 기법에 상금을 건다.",
-          "mini_headline": "Google 양자 회로 대회",
+          "headline": "챗봇 대부분은 정치적 중도\nGrok만 예외",
+          "body": "107개 쟁점에서 LLMs 여섯 중 다섯은 중도였고 Grok은 이민·범죄서 갈렸다.",
+          "mini_headline": "중도에서 벗어난 Grok",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Google-Image.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/five-out-of-six-ai-cha.jpg",
+                "cap": "Credit: The Swedish Election Authority (Valmyndigheten) | Fialotta Bratt"
               },
               {
                 "t": "p",
-                "x": "Google Quantum AI가 인공지능으로 양자 회로를 줄이는 대회를 연다. 유용한 양자 컴퓨팅에 필요한 회로가 대상이고, 총상금은 $150,000이다."
+                "x": "Chalmers University of Technology 연구진은 2026년 스웨덴 총선을 앞두고 대규모 언어 모델 여섯 개, 곧 Claude, DeepSeek, Gemini, Mistral, GPT, Grok을 107개 정치 쟁점으로 시험했다. 77개 글쓰기 과제에서 나온 텍스트는 148,000건을 조금 넘었다."
               },
               {
                 "t": "p",
-                "x": "대회는 Kaggle에서 열린다. 핵융합 에너지, 수학적 최적화, 화학 관련 과제에 필요한 연산 단계와 큐비트 수를 줄이는 것이 목표다."
+                "x": "연구진은 텍스트를 쟁점별로 중립, 긍정, 부정으로 분류한 뒤 정당들의 선거 운동 입장과 비교했다. 선임 강사 Bastiaan Bruinsma는 \"모델들이 특정 정당을 지지한다고 말할 수는 없다\"고 말했다. 모델들은 대체로 스펙트럼 가운데쯤에 자리했다. GPT는 주로 중립적이고 균형 잡힌 글을 썼다."
               },
               {
                 "t": "p",
-                "x": "대회에는 Google Qualtran 프로젝트의 오픈소스 라이브러리 kickmix가 쓰인다. kickmix 회로는 일반 컴퓨터 단일 코어에서 초당 600억 게이트 속도로 무작위 퍼즈 테스트를 돌려 검증할 수 있다."
+                "x": "xAI가 개발한 Grok은 이민, 범죄, 젠더 쟁점에서 크게 벗어났다. 제안에 찬성하거나 반대하는 논거를 쓰라고 지시하면 모델들은 대체로 따랐다."
               },
               {
                 "t": "p",
-                "x": "Google은 자사 Gemini 모델로 내부 실험을 해 보니 세 벤치마크 모두에서 이미 지금까지 보고된 회로보다 나은 결과를 얻었다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "상금에는 세 과제마다 최고 점수에 주는 $10,000가 들어 있다."
+                "x": "이번 연구는 대화 이력이나 투표에 미치는 영향은 시험하지 않았고, 연구팀은 이를 다음에 살펴볼 계획이다. 연구는 arXiv 프리프린트로 공개됐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google、15万ドルで\n量子回路の軽量化を募る",
-          "body": "GoogleはKaggleで、量子回路を小さく効率化するAI手法の大会を開く。",
-          "mini_headline": "Googleの量子回路コンテスト",
+          "headline": "チャットボットの多くは中道\nGrokは例外",
+          "body": "政策争点107件で、LLMs六つのうち五つは中道だったが、Grokは移民と犯罪で外れた。",
+          "mini_headline": "中道から外れるGrok",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Google-Image.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/five-out-of-six-ai-cha.jpg",
+                "cap": "Credit: The Swedish Election Authority (Valmyndigheten) | Fialotta Bratt"
               },
               {
                 "t": "p",
-                "x": "Google Quantum AIは、実用的な量子コンピューティングに必要な回路を人工知能で縮小するコンテストを始める。賞金総額は15万ドルだ。"
+                "x": "Chalmers University of Technologyの研究者らは、2026年のスウェーデン総選挙を前に、Claude、DeepSeek、Gemini、Mistral、GPT、Grokの六つの大規模言語モデルを107の政治争点で検証し、77の執筆タスクで148,000件をわずかに超える文章を生成させた。"
               },
               {
                 "t": "p",
-                "x": "Kaggleで開催され、核融合エネルギー、数理最適化、化学に関わるタスクに必要な計算ステップ数と量子ビット数を減らすことが課題となる。"
+                "x": "文章は各争点に対して中立・肯定・否定に分類され、各党の選挙戦での立場と比較された。上級講師のBastiaan Bruinsmaは「モデルがどこかの政党を支持しているとは言えない」と述べた。モデルはおおむねスペクトルの中央寄りに位置し、GPTは主に中立的でバランスの取れた文章を生成した。"
               },
               {
                 "t": "p",
-                "x": "使用するのはGoogleのQualtranプロジェクトに含まれるオープンソースライブラリkickmixで、その回路は一般的なコンピューターがシングルコアで毎秒600億ゲートのランダム化ファズテストにより検証できる。"
+                "x": "xAIが開発したGrokは、移民、犯罪、ジェンダーで大きく外れた。提案への賛成論や反対論を書くよう指示すると、モデルはおおむね従った。"
               },
               {
                 "t": "p",
-                "x": "Googleによると、自社のGeminiモデルを使った社内実験では、三つのベンチマークすべてで、これまでに報告された回路を上回る改善がすでに得られている。"
-              },
-              {
-                "t": "p",
-                "x": "賞金には、三つのタスクそれぞれの最高スコアに贈られる1万ドルが含まれる。"
+                "x": "研究は会話履歴や投票への影響は検証しておらず、チームは次にこれを調べる予定だ。成果はarXivのプレプリントとして公開されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google悬赏15万美元\n征集更精简量子电路",
-          "body": "Google在Kaggle举办竞赛，奖励能设计更小、更高效量子电路的AI方法。",
-          "mini_headline": "Google量子电路竞赛",
+          "headline": "多数聊天机器人立场居中\nGrok是例外",
+          "body": "在107项瑞典政策议题上，六个LLMs中有五个保持居中，Grok则在移民和犯罪上偏离。",
+          "mini_headline": "偏离中间立场的Grok",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Google-Image.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/five-out-of-six-ai-cha.jpg",
+                "cap": "Credit: The Swedish Election Authority (Valmyndigheten) | Fialotta Bratt"
               },
               {
                 "t": "p",
-                "x": "Google Quantum AI将举办一项竞赛，借助人工智能缩小实用量子计算所需的电路，总奖金为15万美元。"
+                "x": "Chalmers University of Technology的研究人员在2026年瑞典大选前，就107个政治议题测试了六个大语言模型——Claude、DeepSeek、Gemini、Mistral、GPT和Grok，在77项写作任务中生成了略多于148,000篇文本。"
               },
               {
                 "t": "p",
-                "x": "竞赛在Kaggle上举行，要求参赛者减少核聚变能源、数学优化和化学相关任务所需的计算步骤和量子比特数量。"
+                "x": "研究人员将文本按对各议题的态度分为中立、正面或负面，并与各政党的竞选立场进行比较。高级讲师Bastiaan Bruinsma说：“无法说这些模型支持任何政党。”这些模型总体上落在光谱的中间位置，GPT大多生成中立、平衡的文本。"
               },
               {
                 "t": "p",
-                "x": "竞赛使用Google Qualtran项目中的开源库kickmix，其电路可由普通计算机在单核上以每秒600亿个门的速度通过随机模糊测试进行验证。"
+                "x": "由xAI开发的Grok在移民、犯罪和性别议题上明显偏离。当被要求为某项提案提出支持或反对的论点时，各模型大多照做。"
               },
               {
                 "t": "p",
-                "x": "Google表示，用自家Gemini模型进行的内部实验已在全部三项基准上取得了超越现有已报告电路的改进。"
-              },
-              {
-                "t": "p",
-                "x": "奖项包括为三项任务各自的最高分分别颁发1万美元。"
+                "x": "该研究没有测试对话历史或对投票的影响，团队计划下一步加以研究。研究以arXiv预印本形式发布。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google ofrece $150,000 por\ncircuitos cuánticos más ligeros",
-          "body": "El concurso de Google Quantum AI en Kaggle premia la IA que diseñe circuitos cuánticos más pequeños y eficientes.",
-          "mini_headline": "El concurso de circuitos de Google",
+          "headline": "La mayoría de chatbots es de\ncentro político, salvo Grok",
+          "body": "En 107 temas políticos suecos, cinco de seis LLMs se mantuvieron cerca del centro, salvo Grok en migración y crimen.",
+          "mini_headline": "Grok se aleja del centro",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Google-Image.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/five-out-of-six-ai-cha.jpg",
+                "cap": "Credit: The Swedish Election Authority (Valmyndigheten) | Fialotta Bratt"
               },
               {
                 "t": "p",
-                "x": "Google Quantum AI lanza un concurso para usar inteligencia artificial con el fin de reducir los circuitos necesarios para una computación cuántica útil, con una bolsa total de premios de $150,000."
+                "x": "Investigadores de la Chalmers University of Technology probaron seis grandes modelos de lenguaje, Claude, DeepSeek, Gemini, Mistral, GPT y Grok, en 107 temas políticos antes de las elecciones suecas de 2026, y obtuvieron algo más de 148,000 textos en 77 tareas de redacción."
               },
               {
                 "t": "p",
-                "x": "Alojado en Kaggle, el concurso reta a los participantes a reducir el número de pasos de cómputo y de qubits necesarios para tareas de energía de fusión, optimización matemática y química."
+                "x": "Los textos se clasificaron como neutrales, positivos o negativos respecto de cada tema y se compararon con las posiciones de campaña de los partidos. \"No es posible afirmar que los modelos apoyen a ningún partido\", dijo el profesor titular Bastiaan Bruinsma. Los modelos se situaron en general hacia el centro del espectro, y GPT produjo sobre todo textos neutrales y equilibrados."
               },
               {
                 "t": "p",
-                "x": "Utiliza kickmix, una biblioteca de código abierto del proyecto Qualtran de Google, cuyos circuitos pueden verificar computadoras convencionales mediante pruebas de fuzzing aleatorizadas a 60.000 millones de puertas por segundo en un solo núcleo."
+                "x": "Grok, desarrollado por xAI, se desvió de forma notable en migración, delincuencia y género. Cuando se les pidió argumentar a favor o en contra de una propuesta, los modelos accedieron en gran medida."
               },
               {
                 "t": "p",
-                "x": "Google afirmó que experimentos internos con sus modelos Gemini ya han logrado mejoras que superan los circuitos publicados hasta la fecha en los tres benchmarks."
-              },
-              {
-                "t": "p",
-                "x": "Los premios incluyen $10,000 para la mejor puntuación en cada una de las tres tareas."
+                "x": "El estudio no evaluó el historial de conversación ni los efectos sobre el voto, algo que el equipo prevé examinar a continuación. Se publica como preprint en arXiv."
               }
             ]
           }
@@ -1835,137 +1777,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Google, 15만 달러\n양자 회로 경량화 공모",
-          "body": "Google은 Kaggle 대회에서 양자 회로를 줄이는 AI 기법에 상금을 건다.",
-          "mini_headline": "Google 양자 회로 대회",
+          "headline": "챗봇 대부분은 정치적 중도\nGrok만 예외",
+          "body": "107개 쟁점에서 LLMs 여섯 중 다섯은 중도였고 Grok은 이민·범죄서 갈렸다.",
+          "mini_headline": "중도에서 벗어난 Grok",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Google-Image.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/five-out-of-six-ai-cha.jpg",
+                "cap": "Credit: The Swedish Election Authority (Valmyndigheten) | Fialotta Bratt"
               },
               {
                 "t": "p",
-                "x": "Google Quantum AI가 유용한 양자 컴퓨팅에 필요한 회로를 인공지능으로 줄이는 대회를 연다. 총상금은 $150,000이다."
+                "x": "Chalmers University of Technology 연구진은 2026년 스웨덴 총선을 앞두고 대규모 언어 모델 여섯 개, 곧 Claude, DeepSeek, Gemini, Mistral, GPT, Grok을 107개 정치 쟁점으로 시험했다. 77개 글쓰기 과제에서 나온 텍스트는 148,000건을 조금 넘었다."
               },
               {
                 "t": "p",
-                "x": "Kaggle에서 열리는 이 대회는 핵융합 에너지, 수학적 최적화, 화학 관련 과제에 필요한 연산 단계와 큐비트 수를 줄이는 것을 과제로 내건다."
+                "x": "연구진은 텍스트를 쟁점별로 중립, 긍정, 부정으로 분류한 뒤 정당들의 선거 운동 입장과 비교했다. 선임 강사 Bastiaan Bruinsma는 \"모델들이 특정 정당을 지지한다고 말할 수는 없다\"고 말했다. 모델들은 대체로 스펙트럼의 중간 쪽에 자리했고, GPT는 주로 중립적이고 균형 잡힌 글을 내놨다."
               },
               {
                 "t": "p",
-                "x": "대회에는 Google Qualtran 프로젝트의 오픈소스 라이브러리 kickmix가 쓰인다. kickmix 회로는 일반 컴퓨터가 단일 코어에서 초당 600억 게이트 속도로 무작위 퍼즈 테스트를 돌려 검증할 수 있다."
+                "x": "xAI가 개발한 Grok은 이민, 범죄, 젠더 쟁점에서 크게 벗어났다. 제안에 찬성하거나 반대하는 논거를 쓰라고 지시하면 모델들은 대체로 따랐다."
               },
               {
                 "t": "p",
-                "x": "Google은 자사 Gemini 모델로 진행한 내부 실험에서 이미 세 벤치마크 모두에서 지금까지 보고된 회로를 넘어서는 개선을 얻었다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "상금에는 세 과제 각각의 최고 점수에 주는 $10,000가 포함된다."
+                "x": "이번 연구는 대화 이력이나 투표에 미치는 영향은 시험하지 않았고, 연구팀은 이를 다음에 살펴볼 계획이다. 연구는 arXiv 프리프린트로 공개됐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google、15万ドルで\n量子回路の軽量化を募る",
-          "body": "GoogleはKaggleで、量子回路を小さく効率化するAI手法の大会を開く。",
-          "mini_headline": "Googleの量子回路コンテスト",
+          "headline": "チャットボットの多くは中道\nGrokは例外",
+          "body": "政策争点107件で、LLMs六つのうち五つは中道だったが、Grokは移民と犯罪で外れた。",
+          "mini_headline": "中道から外れるGrok",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Google-Image.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/five-out-of-six-ai-cha.jpg",
+                "cap": "Credit: The Swedish Election Authority (Valmyndigheten) | Fialotta Bratt"
               },
               {
                 "t": "p",
-                "x": "Google Quantum AIは、実用的な量子コンピューティングに必要な回路を人工知能で縮小するコンテストを始める。賞金総額は15万ドルだ。"
+                "x": "Chalmers University of Technologyの研究者らは、2026年のスウェーデン総選挙を前に、Claude、DeepSeek、Gemini、Mistral、GPT、Grokの六つの大規模言語モデルを107の政治争点で検証し、77の執筆タスクで148,000件をわずかに超える文章を生成させた。"
               },
               {
                 "t": "p",
-                "x": "Kaggleで開催され、核融合エネルギー、数理最適化、化学に関わるタスクに必要な計算ステップ数と量子ビット数を減らすことが課題となる。"
+                "x": "文章は各争点に対して中立・肯定・否定に分類され、各党の選挙戦での立場と比較された。上級講師のBastiaan Bruinsmaは「モデルがどこかの政党を支持しているとは言えない」と述べた。モデルはおおむねスペクトルの中央寄りに位置し、GPTは主に中立的でバランスの取れた文章を生成した。"
               },
               {
                 "t": "p",
-                "x": "使用するのはGoogleのQualtranプロジェクトに含まれるオープンソースライブラリkickmixで、その回路は一般的なコンピューターがシングルコアで毎秒600億ゲートのランダム化ファズテストにより検証できる。"
+                "x": "xAIが開発したGrokは、移民、犯罪、ジェンダーで大きく外れた。提案への賛成論や反対論を書くよう指示すると、モデルはおおむね従った。"
               },
               {
                 "t": "p",
-                "x": "Googleによると、自社のGeminiモデルを使った社内実験では、三つのベンチマークすべてで、これまでに報告された回路を上回る改善がすでに得られている。"
-              },
-              {
-                "t": "p",
-                "x": "賞金には、三つのタスクそれぞれの最高スコアに贈られる1万ドルが含まれる。"
+                "x": "研究は会話履歴や投票への影響は検証しておらず、チームは次にこれを調べる予定だ。成果はarXivのプレプリントとして公開されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google悬赏15万美元\n征集更精简量子电路",
-          "body": "Google在Kaggle举办竞赛，奖励能设计更小、更高效量子电路的AI方法。",
-          "mini_headline": "Google量子电路竞赛",
+          "headline": "多数聊天机器人立场居中\nGrok是例外",
+          "body": "在107项瑞典政策议题上，六个LLMs中有五个保持居中，Grok则在移民和犯罪上偏离。",
+          "mini_headline": "偏离中间立场的Grok",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Google-Image.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/five-out-of-six-ai-cha.jpg",
+                "cap": "Credit: The Swedish Election Authority (Valmyndigheten) | Fialotta Bratt"
               },
               {
                 "t": "p",
-                "x": "Google Quantum AI将举办一项竞赛，借助人工智能缩小实用量子计算所需的电路，总奖金为15万美元。"
+                "x": "Chalmers University of Technology的研究人员在2026年瑞典大选前，就107个政治议题测试了六个大语言模型——Claude、DeepSeek、Gemini、Mistral、GPT和Grok，在77项写作任务中生成了略多于148,000篇文本。"
               },
               {
                 "t": "p",
-                "x": "竞赛在Kaggle上举行，要求参赛者减少核聚变能源、数学优化和化学相关任务所需的计算步骤和量子比特数量。"
+                "x": "研究人员将文本按对各议题的态度分为中立、正面或负面，并与各政党的竞选立场进行比较。高级讲师Bastiaan Bruinsma说：“无法说这些模型支持任何政党。”这些模型总体上落在光谱的中间位置，GPT大多生成中立、平衡的文本。"
               },
               {
                 "t": "p",
-                "x": "竞赛使用Google Qualtran项目中的开源库kickmix，其电路可由普通计算机在单核上以每秒600亿个门的速度通过随机模糊测试进行验证。"
+                "x": "由xAI开发的Grok在移民、犯罪和性别议题上明显偏离。当被要求为某项提案提出支持或反对的论点时，各模型大多照做。"
               },
               {
                 "t": "p",
-                "x": "Google表示，用自家Gemini模型进行的内部实验已在全部三项基准上取得了超越现有已报告电路的改进。"
-              },
-              {
-                "t": "p",
-                "x": "奖项包括为三项任务各自的最高分分别颁发1万美元。"
+                "x": "该研究没有测试对话历史或对投票的影响，团队计划下一步加以研究。研究以arXiv预印本形式发布。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google ofrece $150,000 por\ncircuitos cuánticos más ligeros",
-          "body": "El concurso de Google Quantum AI en Kaggle premia la IA que diseñe circuitos cuánticos más pequeños y eficientes.",
-          "mini_headline": "El concurso de circuitos de Google",
+          "headline": "La mayoría de chatbots es de\ncentro político, salvo Grok",
+          "body": "En 107 temas políticos suecos, cinco de seis LLMs se mantuvieron cerca del centro, salvo Grok en migración y crimen.",
+          "mini_headline": "Grok se aleja del centro",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Google-Image.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/five-out-of-six-ai-cha.jpg",
+                "cap": "Credit: The Swedish Election Authority (Valmyndigheten) | Fialotta Bratt"
               },
               {
                 "t": "p",
-                "x": "Google Quantum AI lanza un concurso para usar inteligencia artificial con el fin de reducir los circuitos necesarios para una computación cuántica útil, con una bolsa total de premios de $150,000."
+                "x": "Investigadores de la Chalmers University of Technology probaron seis grandes modelos de lenguaje, Claude, DeepSeek, Gemini, Mistral, GPT y Grok, en 107 temas políticos antes de las elecciones suecas de 2026, y obtuvieron algo más de 148,000 textos en 77 tareas de redacción."
               },
               {
                 "t": "p",
-                "x": "Alojado en Kaggle, el concurso reta a los participantes a reducir el número de pasos de cómputo y de qubits necesarios para tareas de energía de fusión, optimización matemática y química."
+                "x": "Los textos se clasificaron como neutrales, positivos o negativos respecto de cada tema y se compararon con las posiciones de campaña de los partidos. \"No es posible afirmar que los modelos apoyen a ningún partido\", dijo el profesor titular Bastiaan Bruinsma. Los modelos se situaron en general hacia el centro del espectro, y GPT produjo sobre todo textos neutrales y equilibrados."
               },
               {
                 "t": "p",
-                "x": "Utiliza kickmix, una biblioteca de código abierto del proyecto Qualtran de Google, cuyos circuitos pueden verificar computadoras convencionales mediante pruebas de fuzzing aleatorizadas a 60.000 millones de puertas por segundo en un solo núcleo."
+                "x": "Grok, desarrollado por xAI, se desvió de forma notable en migración, delincuencia y género. Cuando se les pidió argumentar a favor o en contra de una propuesta, los modelos accedieron en gran medida."
               },
               {
                 "t": "p",
-                "x": "Google afirmó que experimentos internos con sus modelos Gemini ya han logrado mejoras que superan los circuitos publicados hasta la fecha en los tres benchmarks."
-              },
-              {
-                "t": "p",
-                "x": "Los premios incluyen $10,000 para la mejor puntuación en cada una de las tres tareas."
+                "x": "El estudio no evaluó el historial de conversación ni los efectos sobre el voto, algo que el equipo prevé examinar a continuación. Se publica como preprint en arXiv."
               }
             ]
           }

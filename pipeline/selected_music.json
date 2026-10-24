@@ -1,96 +1,96 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "section": "music",
   "picks": [
     {
-      "title": "Loopmasters’ sampling powerhouse Loopcloud just got a massive update – here’s what’s new",
-      "url": "https://musictech.com/news/gear/loopmasters-loopcloud-8/",
-      "source": "MusicTech",
+      "title": "Elvis Presley Rightsholders Sue Anthropic for Training on 274 Songs Without Permission",
+      "url": "https://www.rollingstone.com/music/music-news/elvis-presley-rightsholders-anthropic-lawsuit-infringement-1235647682/",
+      "source": "Rolling Stone",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "rationale": "New release: Loopcloud 8 adds intelligent idea-generation tools, new effects, FLIP presets and an iOS sketch app, so producers can use it in their sessions right away.",
-      "published_iso": "2026-10-23T15:17:15+00:00",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/10/Loopcloud-8-1@2000x1500-1068x801.jpg",
-      "excerpt": "Loopcloud 8 brings new intelligent tools for idea generation, new effects, fresh presets for FLIP, and a brand-new iOS app for laying down ideas on the go."
+      "rationale": "New lawsuit: the Presley rightsholders, a plaintiff not seen before in this section, sue Anthropic over training on 274 named songs. It adds a major catalog owner to the AI-training litigation front.",
+      "published_iso": "2026-10-24T18:28:26+00:00",
+      "og_image": "https://www.rollingstone.com/wp-content/uploads/2026/10/GettyImages-151373495.jpg?w=1600&h=900&crop=1",
+      "excerpt": "The owners of Elvis Presley's music have sued AI company Anthropic, accusing it of training its models on 274 Presley songs without permission."
     },
     {
-      "title": "Suno admits it has not deleted all the recordings used to train its AI, in answer to UMG and Sony's 'laundering' lawsuit",
-      "url": "https://www.musicbusinessworldwide.com/suno-admits-it-has-not-deleted-all-the-recordings-used-to-train-its-ai-in-answer-to-umg-and-sonys-laundering-lawsuit/",
-      "source": "Music Business Worldwide",
+      "title": "Making a track with DEATHPIXIE and Suno | In The Cut",
+      "url": "https://www.youtube.com/watch?v=Mw95nxzYP4E",
+      "source": "Suno (YouTube)",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "New court filing: in a 44-page answer filed October 20 in Massachusetts federal court, Suno admits it still holds some of the recordings it trained on. This is a concrete development in the UMG/Sony v Suno case.",
-      "published_iso": "2026-10-22T14:25:36+00:00",
-      "og_image": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
-      "excerpt": "In a 44-page answer filed October 20 in the US District Court for Massachusetts, Suno admits it has not deleted all of the recordings it used to train its AI models, responding to UMG and Sony's 'laundering' claims."
+      "rationale": "New Suno showcase: a studio writing camp builds tracks for the virtual rapper Death Pixie, showing a team songwriting workflow around Suno that producers can copy.",
+      "published_iso": "2026-10-23T11:22:20-07:00",
+      "og_image": "https://i.ytimg.com/vi/Mw95nxzYP4E/maxresdefault.jpg",
+      "excerpt": "Suno visits Glenwood Studios in Los Angeles for the Death Pixie writing camp, showing how a team builds tracks for a virtual rapper character using Suno."
     },
     {
-      "title": "YouTube report provides insight into latest AI UGC trend",
-      "url": "https://musically.com/2026/10/23/youtube-report-provides-insight-into-latest-ai-ugc-trend/",
-      "source": "Music Ally",
+      "title": "MuLaCover: Flexible Cover Song Generation via Symbolic Tonal Control",
+      "url": "https://arxiv.org/abs/2610.26684",
+      "source": "arXiv",
       "tool": "Music",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "New report: YouTube's Culture & Trends survey of about 700 US creators finds 72% already use AI on their videos and 61% want to insert themselves into content. That is fresh data on demand for AI UGC that music marketers can plan around.",
-      "published_iso": "2026-10-23T11:27:01+00:00",
-      "og_image": "https://musically.com/wp-content/uploads/2024/08/YouTube-logo.png",
-      "excerpt": "YouTube has published a new Culture & Trends report, looking at how people use generative AI to express themselves creatively – and it points to some interesting new UGC potential. In a survey of almost 700 US video posters aged 14 to 44, 72% said they use AI on their videos or images. 61% said they’re interested in using it to insert themselves into content, and more than two-thirds of those alre"
+      "rationale": "New research: MuLaCover holds melody and chords fixed while a pretrained music language model changes style and instrumentation. That gives explicit control over AI cover and re-arrangement work.",
+      "published_iso": "2026-10-19T16:31:09+00:00",
+      "og_image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "excerpt": "A cover-song generation method for pretrained music language models: it explicitly controls tonal content (melody and chords) while reshaping other musical attributes such as style and instrumentation."
     },
     {
-      "title": "MixJudge: Learning a Language-Queryable Critic for Vocal Mixing",
-      "url": "https://arxiv.org/abs/2610.30783",
+      "title": "Suno v. MLC Subpoena Dispute Boils Over as AI Platform Demands Multiple Years of DSP-Specific Streaming Data",
+      "url": "https://www.digitalmusicnews.com/2026/10/22/suno-mlc-subpoena/",
+      "source": "Digital Music News",
+      "tool": "Music",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "New legal front: Suno's subpoena fight with the Mechanical Licensing Collective, in which Suno demands years of DSP-level streaming data. This is a separate proceeding from the label suits already covered.",
+      "published_iso": "2026-10-23T06:00:24+00:00",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2024/01/the-mlc-announces-audits-major-dsps-feat.jpeg",
+      "excerpt": "After months of back and forth, a subpoena dispute has boiled over between Suno and the Mechanical Licensing Collective, with Suno demanding years of DSP-specific streaming data."
+    },
+    {
+      "title": "MQAScore: Fine-Grained Text-Music Alignment Evaluation via Large Audio Language Model",
+      "url": "https://arxiv.org/abs/2610.31083",
       "source": "arXiv",
       "tool": "Music",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "New research: MixJudge trains an audio-language critic on a curriculum of 11 vocal-mix issues at graded severity, so it can judge what is wrong with a vocal mix, not only give general mixing advice.",
-      "published_iso": "2026-10-22T00:00:00Z",
+      "rationale": "New research: MQAScore checks each musical concept in a prompt one at a time, so it shows which requested attributes a text-to-music output missed. A single similarity score cannot do that.",
+      "published_iso": "2026-10-22T10:56:25+00:00",
       "og_image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "excerpt": "Mixing requires not only applying processing but also assessing the resulting mix. Audio-language models can provide conversa- tional mixing advice, but existing evaluations do not separately test whether they can judge specific mixing issues. Since professional supervision for such judgments is scarce, we construct a curriculum of 11 vocal-mix issues at multiple severity levels and use it to trai"
-    },
-    {
-      "title": "Piano2Pop: Expanding Piano Demos into Pop Productions Without Aligned Supervision",
-      "url": "https://arxiv.org/abs/2610.31510",
-      "source": "arXiv",
-      "tool": "Music",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "rationale": "New research: Piano2Pop conditions a pretrained flow-matching music model on piano MIDI to expand a bare piano demo into a full instrumental pop arrangement, an AI path from sketch to production that songwriters can follow.",
-      "published_iso": "2026-10-22T00:00:00Z",
-      "og_image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "excerpt": "We introduce Piano2Pop, a music-expansion task that transforms piano MIDI into instrumental pop productions. Enabled by recent advances in music generation and polyphonic music transcription, our pseudo-supervised approach conditions a pretrained flow-matching model on piano rolls without aligned piano-pop supervision. We train on synthetic piano-instrumental pairs derived from pop recordings, com"
+      "excerpt": "Instead of one global text-audio similarity score, MQAScore uses a large audio language model to check each atomic musical concept in a prompt, showing which attributes a text-to-music output is missing."
     }
   ],
   "dedup": {
     "checks": {
-      "https://musictech.com/news/gear/loopmasters-loopcloud-8/": {
+      "https://www.rollingstone.com/music/music-news/elvis-presley-rightsholders-anthropic-lawsuit-infringement-1235647682/": {
         "verdict": "new",
-        "nearest": "https://musically.com/2026/10/20/just-4-noise-launches-ethically-trained-ai-kick-drum-generator/",
+        "nearest": "https://www.digitalmusicnews.com/2026/10/22/reservoir-media-suno-anthropic-lawsuit/",
         "new_action": ""
       },
-      "https://www.musicbusinessworldwide.com/suno-admits-it-has-not-deleted-all-the-recordings-used-to-train-its-ai-in-answer-to-umg-and-sonys-laundering-lawsuit/": {
-        "verdict": "follow-up",
+      "https://www.youtube.com/watch?v=Mw95nxzYP4E": {
+        "verdict": "new",
+        "nearest": "https://www.youtube.com/watch?v=F0vEAbzFLzk",
+        "new_action": ""
+      },
+      "https://arxiv.org/abs/2610.26684": {
+        "verdict": "new",
+        "nearest": "https://arxiv.org/abs/2610.31510",
+        "new_action": ""
+      },
+      "https://www.digitalmusicnews.com/2026/10/22/suno-mlc-subpoena/": {
+        "verdict": "new",
         "nearest": "https://www.musicbusinessworldwide.com/sony-and-universal-ask-court-to-force-suno-investor-lightspeed-to-testify-about-the-legal-risk-of-training-data/",
-        "new_action": "Suno's 44-page answer, filed 2026-10-20 in D. Mass., admitting it has not deleted all training recordings"
-      },
-      "https://musically.com/2026/10/23/youtube-report-provides-insight-into-latest-ai-ugc-trend/": {
-        "verdict": "new",
-        "nearest": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
         "new_action": ""
       },
-      "https://arxiv.org/abs/2610.30783": {
+      "https://arxiv.org/abs/2610.31083": {
         "verdict": "new",
-        "nearest": "https://arxiv.org/abs/2610.29093",
-        "new_action": ""
-      },
-      "https://arxiv.org/abs/2610.31510": {
-        "verdict": "new",
-        "nearest": "https://arxiv.org/abs/2610.20967",
+        "nearest": "https://arxiv.org/abs/2610.30783",
         "new_action": ""
       }
     },
-    "note": "SWAP after fact-check: removed Synthtopia 'Midicake UNA' (no AI/ML in the article; 'generative' means algorithmic sequencing). Replaced it with arXiv 'Piano2Pop' (history_match 'related' to the 10-19 MIDI-REPA paper, but it is a different paper and a different task, so it is new). Rejected as the replacement: Claude Duet (design owns it), both Spotify co-CEO pieces (commentary, no new release), DMN Suno v. MLC (a second Suno legal card), DMN ICMP Australia (part of the running Australian AI-copyright lobbying story; adjacent to the 10-07 ARIA card), Billboard Latin Music Week panel and A$AP Rocky (panel talk and opinion), DMN Galaxy humanoid robots (thin AI-music angle), Synthtopia Elektron and Gearnews Erica LXR-02 (already covered by The Verge's 10-20 vibe-coding firmware story), Hypebot Music Tectonics (event promo), arXiv MQAScore (an evaluation metric, less useful to creators than Piano2Pop). Earlier drops from the first pass are unchanged. Diversity: arXiv now has 2 cards (at the cap); 4 distinct outlets; 2 research, 1 tool release, 1 legal filing, 1 creator-survey data."
+    "note": "Clusters: c0 Elvis/Anthropic, kept Rolling Stone and dropped Billboard (same suit). c8 Death Pixie, kept the In The Cut workflow video and dropped 'Meet Death Pixie' (companion promo, same story). Elvis suit: a new filing by a new plaintiff, distinct from the 10-23 Reservoir suit and the 10-23 publishers' Claude-lyrics proceedings. Suno v. MLC: a separate proceeding from the UMG/Sony suit (10-20 Lightspeed, 10-24 Suno answer). Yesterday it was skipped only for diversity, so it was never published. Dropped as repeats or commentary: Billboard Spotify co-CEOs (talk about the remix tool already covered 10-21 via Hypebot), Gearnews 'humanity of instruments' and MusicTech 'stop sending vibecoded plugins' (opinion on the vibe-coded plugin theme covered 10-17 Attack, 10-18 BPB, 10-20 Verge). Not picked: DMN ICMP Australia (yesterday's curator ruled it part of the running Australian copyright-lobbying story next to the 10-07 ARIA card; kept consistent), Gearnews Fender Studio Pro 8.2 (AI angle is only an incremental stem-separation expansion; risk of a non-AI card), Billboard Latin Music Week panel (panel talk), Music Ally studies round-up (general AI jobs data, not music-specific), arXiv Sori (oldest item, 10-11; arXiv is already at its cap of 2). Diversity: 4 outlets (Rolling Stone, Suno YouTube, arXiv x2, DMN); 2 legal, 2 research, 1 creator workflow."
   }
 }
