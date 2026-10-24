@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "issue": "에이전트가 사고파는 TV 광고",
+    "date": "2026.10.25",
+    "section": "MARKETING",
+    "accent": "#ff8a3d",
+    "note": "구매 에이전트와 판매 에이전트가 TV 광고 거래에 들어서자, 이제 둘이 주고받을 말의 표준을 정하는 단계에 왔다",
+    "sources": [
+      "https://ppc.land/olyzons-ai-agents-now-shift-ctv-budgets-across-4-dsps-in-live-buys/",
+      "https://www.adexchanger.com/tv/lg-and-magnite-launch-agentic-home-screen-ads-with-a-winning-nfl-quarterback/",
+      "https://www.adweek.com/convergent-tv/fox-expands-agentic-push-with-eyes-set-on-tv-upfront-future/",
+      "https://digiday.com/media/why-cnn-international-is-building-for-agentic-ad-market-that-barely-exists-yet/",
+      "https://ppc.land/iab-tech-lab-extends-ai-ad-buying-standard-comments-to-november-10/"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 마케팅 · 10.13~10.25",
+      "thread": [
+        {
+          "d": "10.13",
+          "t": "DSP 넘나듦",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "10.15",
+          "t": "LG 첫 거래",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "10.16",
+          "t": "Fox 리니어",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "10.23",
+          "t": "CNN 판매",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "10.25",
+          "t": "표준 초안",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        }
+      ],
+      "thread_note": "TV 광고를 사람 대신 에이전트끼리 사고팔기 시작했다",
+      "eyebrow": "흐름 · 마케팅",
+      "headline": "광고 거래 양쪽에 에이전트",
+      "body": "한 건씩 보면 신제품 발표지만, 이어 보면 사는 쪽과 파는 쪽 모두 에이전트를 세웠고 이제 둘이 쓸 말을 정한다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.13",
+      "headline": "사는 쪽 에이전트가 먼저",
+      "body": "Olyzon 에이전트가 DSP 네 곳을 넘나들며 CTV 예산을 옮긴다. 한도와 승인 규칙은 사람이 정한다.",
+      "foot": "2026.10.13",
+      "_src": "https://ppc.land/olyzons-ai-agents-now-shift-ctv-budgets-across-4-dsps-in-live-buys/",
+      "_id": "marketing-olyzon-ctv-four-dsps",
+      "media": "pipeline/media/marketing-olyzon-ctv-four-dsps.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.15",
+      "headline": "에이전트끼리 맺은 첫 거래",
+      "body": "H/L의 구매 에이전트가 MCP로 Magnite 판매 에이전트와 LG 홈 화면 광고를 짰다. 집행 전엔 양쪽 승인을 거쳤다.",
+      "foot": "2026.10.15",
+      "_src": "https://www.adexchanger.com/tv/lg-and-magnite-launch-agentic-home-screen-ads-with-a-winning-nfl-quarterback/",
+      "_id": "marketing-lg-magnite",
+      "media": "pipeline/media/marketing-lg-magnite.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.16",
+      "headline": "Fox, 리니어 TV까지",
+      "body": "Fox가 ‘첫 엔드투엔드 에이전틱 플랫폼’의 대행사 파트너를 늘리고, 리니어 거래에 이어 디지털로 넓힌다.",
+      "foot": "2026.10.16",
+      "_src": "https://www.adweek.com/convergent-tv/fox-expands-agentic-push-with-eyes-set-on-tv-upfront-future/",
+      "_id": "marketing-fox-agentic-linear",
+      "media": "pipeline/media/marketing-fox-agentic-linear.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.23",
+      "headline": "파는 쪽도 에이전트를 세운다",
+      "body": "CNN International은 2027년 1분기 에이전트 광고 판매를 목표로 한다. 시작은 광고 사업의 5%, 언젠가 50%일 수도.",
+      "foot": "2026.10.23",
+      "_src": "https://digiday.com/media/why-cnn-international-is-building-for-agentic-ad-market-that-barely-exists-yet/",
+      "_id": "marketing-cnn-international-agentic-ads",
+      "media": "pipeline/media/marketing-cnn-international-agentic-ads.jpg"
+    },
+    {
+      "n": 6,
+      "kind": "photo",
+      "eyebrow": "2026.10.25",
+      "headline": "남은 일은 둘이 쓸 말",
+      "body": "IAB Tech Lab이 에이전트끼리 광고 제안을 주고받는 초안의 의견 기한을 11월 10일로 늘렸다. 71개 필드 중 교환은 3개다.",
+      "foot": "2026.10.25",
+      "_src": "https://ppc.land/iab-tech-lab-extends-ai-ad-buying-standard-comments-to-november-10/",
+      "_id": "marketing-iab-tech-lab-agentic-standard-comments",
+      "media": "pipeline/media/marketing-iab-tech-lab-agentic-standard-comments.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}
