@@ -3722,6 +3722,105 @@
           "x": "The author urges companies to treat election content with heightened caution — Grok told testers, “Election disinformation isn't listed in disallowed activities” — to apply safeguards consistently across fast and slow modes, to make refusals real refusals, and to embed origin data that is easy to detect across platforms and difficult to strip."
         }
       ]
+    },
+    "politics/politics-uk-chancellor-ai-package": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.publishing.service.gov.uk/media/5a37db09e5274a7908e352b4/s960_HMT_buiding_plaque.jpg"
+        },
+        {
+          "t": "p",
+          "x": "A major package of investment to unlock the opportunities of AI in every postcode, scale up home grown AI firms, and keep the country safe from hostile threats will be announced by the Chancellor, who is set to make AI a part of his Budget."
+        },
+        {
+          "t": "p",
+          "x": "Plans include £10 million per year to lead the UK's work on how AI will reshape jobs and industry; £165m for a National AI Biosecurity Initiative, including a £100 million AI Biosecurity Lab to apply AI to detecting biological threats; an additional £120 million for the AI Security Institute; and £60 million for a National Cyber Shield using agentic AI."
+        },
+        {
+          "t": "p",
+          "x": "The package also adds £60 million to the Sovereign AI Fund, £18 million for a UK Advanced Chip Design Academy, £15 million for an AI Challenge Prize and £30m for local AI partnerships with Mayoral Strategic Authorities."
+        },
+        {
+          "t": "p",
+          "x": "\"I am setting out a distinctively British approach to AI - one that doesn't leave workers behind and defends our national interest,\" Chancellor John Healey said. techUK's Julian David called it \"a strong £600m+ package.\""
+        }
+      ]
+    },
+    "politics/politics-spain-deepfake-video": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/b2d99fbc0419494ad01c1db56e1c3987fef305dd/799_96_2908_2326/master/2908.jpg?width=1200&dpr=1&s=none&crop=none",
+          "cap": "Pedro Sánchez and his wife at a campaign rally in Fuenlabrada. Photograph: JJ Guillen/EPA"
+        },
+        {
+          "t": "p",
+          "x": "A political ad from Spain's main opposition party that used a deepfake video of the prime minister's wife has sparked outrage and set off a wider debate on AI, as the country gears up for general elections next month."
+        },
+        {
+          "t": "p",
+          "x": "The conservative People's party (PP) video used AI to manipulate the likenesses of people linked to Pedro Sánchez's Socialist party, appearing to show them admitting to acts such as soliciting prostitutes and taking kickbacks. Begoña Gómez and José Luis Rodríguez Zapatero, depicted in it, have denied wrongdoing in ongoing investigations."
+        },
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/2c623a42b8fe9a0f8170a7d4ffd10f9749f7800f/0_263_1048_837/master/1048.jpg?width=1065&dpr=1&s=none&crop=none",
+          "cap": "A still from the People's party AI-generated video featuring a deepfake of Begoña Gómez."
+        },
+        {
+          "t": "p",
+          "x": "\"It's very easy for anyone who isn't used to AI to confuse that video with reality,\" said digital transformation minister Óscar López. Leire Díez reportedly filed a court complaint alleging defamation and digital identity theft. Most legal experts consulted by El País said the labelled, satirical video was not illegal."
+        },
+        {
+          "t": "p",
+          "x": "The PP's Borja Sémper said it was \"a way of using digital tools to highlight the hypocrisy in which the Socialist party operates.\""
+        }
+      ]
+    },
+    "politics/politics-texas-paxton-openai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fWwim.img",
+          "cap": "Texas Attorney General Ken Paxton. (Raquel Natalicchio/Houston Chronicle)"
+        },
+        {
+          "t": "p",
+          "x": "Similar to the lawsuits filed by Arizona, West Virginia, Iowa, and several others, Texas Attorney General Ken Paxton accuses OpenAI of misleading users about the safety of ChatGPT, allegedly exposing children and other users to a “litany of harms” that’s “driven by the company’s insatiable quest to win the AI arms race and amass large fortunes.”"
+        },
+        {
+          "t": "p",
+          "x": "[Bloomberg Law]"
+        }
+      ]
+    },
+    "politics/politics-deepseek-minimax-export": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.thenextweb.com/2026/10/minimax-open-platform-website-phone-screen.jpg"
+        },
+        {
+          "t": "p",
+          "x": "“Since the policy was announced, two leading companies, DeepSeek and MiniMax, have successfully completed the registration process and obtained open-source and overseas licensing rights,” Yuyuan Tantian, a WeChat account affiliated with state broadcaster CCTV, said in a post. TNW has not independently verified the post; the companies did not immediately reply to Reuters."
+        },
+        {
+          "t": "p",
+          "x": "China's commerce and science ministries want to add 23 AI technologies, including large models, agents and computing clusters, to the export-restricted list; public comments close on 15 November. The post said the rules target data, sensitive uses and computing power."
+        },
+        {
+          "t": "p",
+          "x": "Offering a model through API calls, apps, web pages or SaaS is not a technology export, it said. “Simply put, AI companies can continue with their commercialization efforts as usual.” Open-source technology gets automatic licensing."
+        }
+      ]
+    },
+    "politics/politics-enisa-ai-evaluation": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The lead MEP is seeking an AI evaluation role for the EU cyber agency in proposed changes to the Cybersecurity Act, which come as AI reshapes hacking and cyber defence."
+        }
+      ]
     }
   }
 }

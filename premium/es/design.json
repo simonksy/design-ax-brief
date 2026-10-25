@@ -9372,6 +9372,124 @@
           "x": "Revisa el resultado; si el agente repite el mismo error, actualiza tus pautas, tu biblioteca o tus ejemplos."
         }
       ]
+    },
+    "design/design-b2b-chat-line": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Di003Ys9ARp2QsB9IF15Eg.png",
+          "cap": "Todas las hojas de ruta incluyen un cuadro de chat. Pocas saben responder para quién es."
+        },
+        {
+          "t": "p",
+          "x": "Casi todas las aplicaciones B2B tienen ya un cuadro de chat. Patrick Neeman pregunta para quién es: peritos de seguros, abogados y planificadores de suministro que han pasado décadas aprendiendo su campo y su software."
+        },
+        {
+          "t": "p",
+          "x": "El chat sustituye habilidades por las que los expertos ya pagaron, y ayuda sobre todo a los principiantes: la conversación resuelve el problema del recuerdo, pero los expertos conocen el nombre del campo, el código de estado y el filtro exacto. Además, los filtros muestran el conjunto completo, mientras que una respuesta de chat solo dice lo que se preguntó."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*0KrGdAZuSwqCRE6qAPhZSg.png",
+          "cap": "En el ensayo de METR, los desarrolladores experimentados fueron un 19% más lentos con AI, y creían lo contrario."
+        },
+        {
+          "t": "p",
+          "x": "METR halló que los desarrolladores experimentados eran un 19% más lentos con herramientas de AI, e investigadores de Stanford vieron que las herramientas de investigación jurídica alucinaban entre el 17% y el 33% de las veces, así que los profesionales siguen revisando cada resultado."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*wZUAQ2DcQddk7Sw3_Jji7Q.png",
+          "cap": "Tres destinos, y solo uno de ellos es un cuadro de chat."
+        },
+        {
+          "t": "p",
+          "x": "La respuesta de Neeman: las tareas rutinarias se quedan en la interfaz, las poco frecuentes van al chat y las continuas pasan a un agente ambiental que solo interrumpe cuando una persona debe decidir. \"El chat espera a que le pregunten. Un agente ambiental ya lo sabe.\""
+        }
+      ]
+    },
+    "design/design-ai-firms-human-brands": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/8iLPH4BsY5429rchU9dzuZ.png",
+          "cap": "El rediseño de How&How para Ideogram gira en torno a un símbolo con forma de cerebro e imágenes generadas por AI (AI-generated) retocadas a mano en Photoshop. (Image credit: How&How/Ideogram)"
+        },
+        {
+          "t": "p",
+          "x": "Las mismas empresas de AI que parecen empeñadas en dejar sin trabajo a los diseñadores humanos siguen contratando diseñadores humanos para su identidad de marca: How&How para Ideogram, Lazarev para la app de video con AI Elva, Together para la auditora de AI Clusia y la rotulista Jessica Hische para Muse, la nueva plataforma de AI de Meta."
+        },
+        {
+          "t": "p",
+          "x": "La respuesta de Tom May: el branding nunca ha consistido en hacer que las cosas se vean bonitas. Se trata de lograr que la gente te crea, y las empresas de AI tienen un problema de credibilidad tanto con los diseñadores como con el público general."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/eyb69kyib2ifYxEkYbgUqZ.png",
+          "cap": "El sistema de marca de Lazarev para Elva busca dar al editor de video con AI una personalidad cercana con la que los usuarios quieran hablar. (Image credit: Lazarev/Elva)"
+        },
+        {
+          "t": "p",
+          "x": "Hische recibió duras críticas en Threads por el trabajo para Muse, pese a explicar que los $12,500 de honorarios ayudarían a mantener a flote dos pequeños estudios y a su personal. May entiende el enojo, pero duda de que negarse cambie mucho: simplemente buscarían a otra persona."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/bbihuCHghiaC2K3uSv94gZ.webp",
+          "cap": "La identidad de Together para Clusia (Image credit: Together/Clusia)"
+        },
+        {
+          "t": "p",
+          "x": "Si las empresas de AI quieren pagar a humanos para parecer humanas, sostiene, lo mejor es aceptar el dinero, hacer un trabajo brillante y recordarles a todos por qué lo pidieron."
+        }
+      ]
+    },
+    "design/design-impeccable-skill": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xdyvbd5af4n0a30zef5.webp"
+        },
+        {
+          "t": "p",
+          "x": "Todas las webs hechas con AI (AI-built) se parecen: Inter por todas partes, degradados morados, tarjetas dentro de tarjetas. Impeccable es una skill de diseño de código abierto para agentes de programación con AI, con 24 comandos, 62 comprobaciones deterministas que detectan el diseño con aspecto de AI (AI-looking) e iteración en vivo en el navegador. Es gratuita bajo Apache 2.0."
+        },
+        {
+          "t": "p",
+          "x": "Partió de la skill frontend-design de Anthropic y la llevó más lejos. Las 62 reglas deterministas funcionan sin modelo de lenguaje ni clave de API, y detectan fuentes sobreutilizadas, texto gris sobre fondos de color, tarjetas anidadas y un easing de rebote anticuado; las revisiones críticas LLM-only evalúan la jerarquía y la resonancia emocional."
+        },
+        {
+          "t": "p",
+          "x": "Se instala con npx impeccable install y luego /impeccable init escribe PRODUCT.md, mientras la dirección visual se guarda en DESIGN.md. Entre los comandos están shape, craft, critique, audit, polish, bolder, quieter, typeset, layout y harden. Se instala en Claude Code, Cursor, Codex, GitHub Copilot, Gemini CLI y otros."
+        },
+        {
+          "t": "p",
+          "x": "Lanzada en noviembre de 2025, superó las 86,000 estrellas en GitHub y los 5,000 forks en menos de un año."
+        }
+      ]
+    },
+    "design/design-ulpg-landing-guide": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fna9bxgq3z12rs5u4q40j.png"
+        },
+        {
+          "t": "p",
+          "x": "La mayoría de los consejos sobre landing pages llegan en forma de plantilla: un hero de cierta altura, tres tarjetas de funciones, una franja de testimonios, una tabla de precios, un FAQ. Las plantillas se rellenan rápido, pero no dicen si la página responde a las preguntas que realmente tienen sus visitantes. La Universal Landing Page Guide (ULPG) intenta cubrir ese vacío."
+        },
+        {
+          "t": "p",
+          "x": "En palabras del README, ULPG es \"una guía abierta para personas y agentes AI que diseñan, construyen y revisan landing pages\". Es neutral respecto al tipo de página, no impone un diseño y asigna a cada elemento evaluado un resultado (aprobado, fallido, no aplicable o no verificado) junto con el método de validación usado. Es una guía, no una certificación. La edición inicial, v0.3.0, es MIT-licensed (licencia MIT) y no tiene dependencias en tiempo de ejecución."
+        },
+        {
+          "t": "p",
+          "x": "El flujo de trabajo tiene cinco pasos: comprender, organizar, construir o revisar, verificar e informar, cada uno con una plantilla para copiar, desde el brief de la página hasta la plantilla de revisión."
+        },
+        {
+          "t": "p",
+          "x": "ULPG funciona con cualquier agente capaz de leer Markdown, sin plugins específicos de un proveedor. El flujo para agentes trata el contenido de la página como datos, no como instrucciones; sostiene que ver no es probar, de modo que una captura de pantalla no demuestra la accesibilidad por teclado; y separa las afirmaciones de los resultados verificados."
+        }
+      ]
     }
   }
 }

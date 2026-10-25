@@ -8939,6 +8939,97 @@
           "x": "\"Showing games early is how indies get seen and find the fans who keep us going,\" the company wrote. \"We hope platforms keep strengthening protections for original work.\""
         }
       ]
+    },
+    "games/games-tenderloin-takedown": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2026/10/23/indie-dev-pulls-zombie-shooter-game-san-francisco-1792794196975.jpg?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+          "t": "p",
+          "x": "The developer of a zombie game set in San Francisco has taken down the game and issued a public apology after city officials condemned the title for depicting its citizens as ‘zombies.’"
+        },
+        {
+          "t": "p",
+          "x": "Tenderloin Night Shift was a vibe-coded, first-person shooter created by independent developer Pierre-Louis Biojout over the course of a weekend using OpenAI’s Codex. Some of its undead enemies wear construction uniforms or food delivery backpacks, while others are depicted doing the ‘fentanyl fold.’ Biojout sold digital ad space in the game for $100 per week."
+        },
+        {
+          "t": "p",
+          "x": "Mayor Daniel Lurie said, “There’s no accounting for taste or people’s terrible ideas. This is a bad one, and we reject it.” Supervisor Bilal Mahmood, who represents the Tenderloin, called it “deeply disturbing and unacceptable,” adding: “Turning violence against real people, including unhoused people, into entertainment is dehumanizing and should never be normalized.”"
+        },
+        {
+          "t": "p",
+          "x": "Biojout removed the game, refunded advertisers, deleted his social media posts about it and donated the game’s total revenue to the Delancey Street Foundation. “The setting and the way I promoted it showed poor judgment. Targeting people struggling with addiction or homelessness was never my intention,” he wrote on Twitter/X."
+        }
+      ]
+    },
+    "games/games-ai-clone-extortion": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/979/20261019170017.jpg",
+          "cap": "Japanese indie game developer Takashi Mochibe, who was threatened with the release of an AI clone (Photo: screenshot of Takashi Mochibe's X account)"
+        },
+        {
+          "t": "p",
+          "x": "A Japanese indie game developer received a threatening email demanding valuables, with the sender saying they would release a clone game made with generative AI first."
+        },
+        {
+          "t": "p",
+          "x": "The email was made public by Takashi Mochibe of Studio AtHome, which is developing the strategy RPG 'Dragon's Chronicles ~Reginleiv of the Twin Stars~'. The strategy RPG is in development with a target Steam release in 2027."
+        },
+        {
+          "t": "p",
+          "x": "According to material Mochibe posted on X, the sender claimed to have already made a game similar to the title using AI tools and to be ready to release it on Steam first. The sender then said the clone would not be released if Steam items worth $200 (about 260,000 won) were handed over within 24 hours. The sender claimed to have attached a video as proof of the clone, but reportedly no such video was included."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/980/20261019170017.jpg",
+          "cap": "The text of the threatening email (Photo: Takashi Mochibe's X account)"
+        },
+        {
+          "t": "p",
+          "x": "Mochibe did not give in to the threat and said that his strategy RPG cannot simply be cloned with AI. He explained that his reply was, in effect, that if the sender had actually made a more fun clone, he would gladly buy it. He also raised the possibility that the email is a scam sent at random to many developers, and urged other developers to be careful."
+        },
+        {
+          "t": "p",
+          "x": "Similar concerns are emerging among indie developers abroad. Some developers have reported similar titles being listed shortly after they released gameplay footage, and in Japan the developer of the strategy game 'Project Solaris' said it would cut back on regular development updates to prevent cloning. 'Pukey Goddess Shot Trick', the next title from the developer of Yunyun Denpa Syndrome that drew attention for its attractive characters, had also planned to show a demo at the upcoming October Next Fest, but switched to a closed test over fears of AI cloning."
+        }
+      ]
+    },
+    "games/games-rtx-remix-16": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-14.jpg"
+        },
+        {
+          "t": "p",
+          "x": "NVIDIA has released RTX Remix 1.6 for its open-source modding platform, available through GitHub and the NVIDIA App. It introduces DLSS 5 with 3D-Guided Neural Rendering, up to 6X Multi Frame Generation, native Windows on ARM support, expanded AI-powered asset tools, and experimental support for Minecraft Java Edition."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/DLSS-5-OFF-vs-ON.jpg",
+          "cap": "Image credit: NVIDIA."
+        },
+        {
+          "t": "p",
+          "x": "DLSS 5 uses AI to enhance lighting and materials while accounting for the game's geometry, textures and lighting. Modders get three model selections (A, B and C), highlight and volumetric adjustments, and per-material control masks. 5X and 6X Multi Frame Generation arrive on supported GeForce RTX 50 Series GPUs."
+        },
+        {
+          "t": "p",
+          "x": "RTX Remix for Minecraft is a Fabric-based mod bringing the path-traced renderer to Java Edition 1.21.1 through a new API-based pipeline. NVIDIA calls it an early beta with limited mod compatibility."
+        },
+        {
+          "t": "p",
+          "x": "ComfyUI Integration 2.0 replaces the earlier AI asset tools for generating textures and meshes, while a headless Toolkit and improved MCP integration let compatible AI agents automate parts of the modding workflow."
+        },
+        {
+          "t": "video",
+          "yt": "WT3twFB0PD8"
+        }
+      ]
     }
   }
 }

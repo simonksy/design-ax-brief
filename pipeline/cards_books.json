@@ -1,227 +1,167 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "section": "books",
   "cards": [
     {
-      "id": "books-patrick-white-publishing",
+      "id": "books-wgae-cloak-shield",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "자비출판 작가들,\n부실·AI 그림 고발",
-      "body": "ABC는 Patrick White Publishing 표지에서 AI 흔적을 찾았다.",
-      "mini_headline": "Paid-publishing 출판사의 AI 그림 논란",
+      "headline": "WGA East 회원에\nAI 차단 Cloak 제공",
+      "body": "WGA East 회원은 AI가 못 읽게 문서를 숨기는 Cloak를 무료로 쓴다.",
+      "mini_headline": "WGA East, Cloak 도입",
       "tool": "Books",
-      "source": "ABC News (Australia)",
-      "url": "https://www.abc.net.au/news/2026-10-25/patrick-white-publishing-authors-unhappy-service-ai-art/107255794",
+      "source": "TheWrap",
+      "url": "https://www.thewrap.com/industry-news/labor-unions/wga-east-partners-with-cloak-ai-shield/",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://live-production.wcms.abc-cdn.net.au/9666b581058d1af9ec9592941fe71f8a?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
-            "cap": "Patrick White Publishing의 AI-generated 홍보 이미지. (Patrick White Publishing)"
+            "t": "p",
+            "x": "Writers Guild of America East가 AI 보호 소프트웨어 기업 Cloak와 손잡고 회원용 새 서비스를 내놓는다. 이제 WGAE 회원은 Cloak 소프트웨어를 무료로 쓸 수 있다. 대부분의 AI 모델이 문서를 읽지 못하게 만드는 프로그램이다."
           },
           {
             "t": "p",
-            "x": "온라인 후기는 좋지만 작가들은 Patrick White Publishing의 서비스 품질이 낮고 부정적인 댓글을 지우라는 압박까지 받았다고 비판한다. 회사는 AI-generated 삽화 값으로 작가들에게 수백 달러씩 받기도 한다."
+            "x": "특허 출원 중(patent-pending)인 Cloak 소프트웨어는 사람이 읽는 원래 서식과 가독성은 그대로 두고 AI의 문서 수집(scraping)만 막는다. 회원이나 대본 등록자는 AI-proof 사본을 원하는 상대에게 보내면 된다. Non-WGA East 회원(비회원)도 WGAE Script Registration으로 작품을 등록할 때 $10를 더 내면 Cloak 보호를 받는다."
           },
           {
             "t": "p",
-            "x": "Mudgee의 작가 Kerry Stewart는 $500를 냈지만 편집 과정에서 오히려 오류가 생겼다고 말한다. Melbourne의 작가 Tulin Salis는 $400 견적을 받은 뒤 $1899짜리 \"5-Star Ghostwriting Bundle\"을 제안받았다."
-          },
-          {
-            "t": "img",
-            "src": "https://live-production.wcms.abc-cdn.net.au/b06a09fe7be41183eb456f5c77af5584?impolicy=wcms_crop_resize&cropH=1077&cropW=1615&xPos=0&yPos=41&width=862&height=575",
-            "cap": "Hobart에 있는 Patrick White Publishing의 Google 등록 정보에 뜨는 AI-generated 이미지. (Patrick White Publishing)"
+            "x": "WGAE 회장 Tom Fontana는 “WGAE와 Cloak의 협력은 회원의 작품을 보호하고, 작가와 다른 창작 노동자를 착취하는 AI 기업에 맞서려는 우리의 노력을 넓힌다”고 말했다. 회원들이 프로듀서나 에이전트에게 작품을 보낸 뒤 AI 모델 학습에 쓰일까 걱정할 필요가 없어졌다는 설명이다."
           },
           {
             "t": "p",
-            "x": "Google Maps에 올라온 Hobart 매장 이미지를 OpenAI 도구로 확인하면 OpenAI 소프트웨어로 만들었다는 워터마크가 나온다. 회사 웹사이트의 일부 책 표지에서도 OpenAI와 Google Gemini의 워터마크가 검출됐다. ABC가 검토한 작가 계약서에는 AI 삽화를 언급한 대목이 없다."
-          },
-          {
-            "t": "p",
-            "x": "회사는 관계없는 업체의 ABN을 쓰고, Patrick White의 문학 유산 관리 측은 이름 사용을 멈추라고 요구했다. Patrick White Publishing은 ABC의 논평 요청에 답하지 않았다."
+            "x": "창업자 Rishi Ambavanekar는 Cloak를 “원치 않는 AI 학습, AI 노트와 분석으로부터 작가들이 스스로를 지킬 주도권을 되돌려주려고” 개발했다고 밝혔다. WGAE는 AI 입법에도 힘을 싣는다. Kathy Hochul 주지사의 결정만 남은 뉴욕주 FAIR News Act가 대표적이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Paid-publishing authors allege\npoor service and AI art",
-          "body": "Authors who paid Patrick White Publishing allege poor service; ABC found AI watermarks on its covers and storefronts.",
-          "mini_headline": "Paid publisher accused\nof AI art",
+          "headline": "WGA East members get Cloak\nto hide their work from AI",
+          "body": "WGA East members get free Cloak software, which hides documents from most AI models while people can still read them.",
+          "mini_headline": "WGA East adopts Cloak",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://live-production.wcms.abc-cdn.net.au/9666b581058d1af9ec9592941fe71f8a?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
-                "cap": "An AI-generated promotional image for Patrick White Publishing. (Patrick White Publishing)"
+                "t": "p",
+                "x": "The Writers Guild of America East is partnering with the AI protection software company Cloak on a new offering for its members. WGAE members will have free access to the Cloak software, which makes documents unreadable to most AI models."
               },
               {
                 "t": "p",
-                "x": "Despite positive online reviews, authors have accused Patrick White Publishing of poor quality service and pushing them into removing negative comments. The company is also charging authors hundreds of dollars for AI-generated illustrations."
+                "x": "Cloak’s patent-pending software protects documents from being scraped by AI while preserving their original formatting and visibility for human readers. Members or script registrants can send an AI-proof copy of their file to whoever they choose. Non-WGA East members can add Cloak protection for an additional $10 when registering work through WGAE Script Registration."
               },
               {
                 "t": "p",
-                "x": "Mudgee author Kerry Stewart paid $500 and says edits introduced mistakes; Melbourne author Tulin Salis was quoted $400, then offered a $1899 \"5-Star Ghostwriting Bundle\"."
-              },
-              {
-                "t": "img",
-                "src": "https://live-production.wcms.abc-cdn.net.au/b06a09fe7be41183eb456f5c77af5584?impolicy=wcms_crop_resize&cropH=1077&cropW=1615&xPos=0&yPos=41&width=862&height=575",
-                "cap": "A Google listing for Patrick White Publishing in Hobart turns up this AI-generated image. (Patrick White Publishing)"
+                "x": "“The WGAE partnership with Cloak expands our efforts to protect members’ work and fight back against AI companies exploiting writers and other creative workers,” said WGAE president Tom Fontana. Members, he said, needn’t worry their work will be used to train AI models after they send it to producers or agents."
               },
               {
                 "t": "p",
-                "x": "An OpenAI tool shows the Hobart storefront image on Google Maps carries a watermark generated by its software, and some book covers on the company's website return positive results for watermarks from OpenAI and Google Gemini. Author agreements reviewed by the ABC do not mention AI illustrations."
-              },
-              {
-                "t": "p",
-                "x": "The company also uses an ABN belonging to an unrelated business, and the literary estate of Patrick White has asked it to stop using the name. Patrick White Publishing did not respond to the ABC's requests for comment."
+                "x": "Founder Rishi Ambavanekar said he developed Cloak “to give agency back to writers to protect against unwanted AI training, AI notes and analysis.” The WGAE is also pursuing AI legislation, including New York’s FAIR News Act, now awaiting Governor Kathy Hochul."
               }
             ]
           }
         },
         "ko": {
-          "headline": "자비출판 작가들,\n부실·AI 그림 고발",
-          "body": "ABC는 Patrick White Publishing 표지에서 AI 흔적을 찾았다.",
-          "mini_headline": "Paid-publishing 출판사의 AI 그림 논란",
+          "headline": "WGA East 회원에\nAI 차단 Cloak 제공",
+          "body": "WGA East 회원은 AI가 못 읽게 문서를 숨기는 Cloak를 무료로 쓴다.",
+          "mini_headline": "WGA East, Cloak 도입",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://live-production.wcms.abc-cdn.net.au/9666b581058d1af9ec9592941fe71f8a?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
-                "cap": "Patrick White Publishing의 AI-generated 홍보 이미지. (Patrick White Publishing)"
+                "t": "p",
+                "x": "Writers Guild of America East가 AI 보호 소프트웨어 기업 Cloak와 손잡고 회원용 새 서비스를 내놓는다. 이제 WGAE 회원은 Cloak 소프트웨어를 무료로 쓸 수 있다. 대부분의 AI 모델이 문서를 읽지 못하게 만드는 프로그램이다."
               },
               {
                 "t": "p",
-                "x": "온라인 후기는 좋지만 작가들은 Patrick White Publishing의 서비스 품질이 낮고 부정적인 댓글을 지우라는 압박까지 받았다고 비판한다. 회사는 AI-generated 삽화 값으로 작가들에게 수백 달러씩 받기도 한다."
+                "x": "특허 출원 중(patent-pending)인 Cloak 소프트웨어는 사람이 읽는 원래 서식과 가독성은 그대로 두고 AI의 문서 수집(scraping)만 막는다. 회원이나 대본 등록자는 AI-proof 사본을 원하는 상대에게 보내면 된다. Non-WGA East 회원(비회원)도 WGAE Script Registration으로 작품을 등록할 때 $10를 더 내면 Cloak 보호를 받는다."
               },
               {
                 "t": "p",
-                "x": "Mudgee의 작가 Kerry Stewart는 $500를 냈지만 편집 과정에서 오히려 오류가 생겼다고 말한다. Melbourne의 작가 Tulin Salis는 $400 견적을 받은 뒤 $1899짜리 \"5-Star Ghostwriting Bundle\"을 제안받았다."
-              },
-              {
-                "t": "img",
-                "src": "https://live-production.wcms.abc-cdn.net.au/b06a09fe7be41183eb456f5c77af5584?impolicy=wcms_crop_resize&cropH=1077&cropW=1615&xPos=0&yPos=41&width=862&height=575",
-                "cap": "Hobart에 있는 Patrick White Publishing의 Google 등록 정보에 뜨는 AI-generated 이미지. (Patrick White Publishing)"
+                "x": "WGAE 회장 Tom Fontana는 “WGAE와 Cloak의 협력은 회원의 작품을 보호하고, 작가와 다른 창작 노동자를 착취하는 AI 기업에 맞서려는 우리의 노력을 넓힌다”고 말했다. 회원들이 프로듀서나 에이전트에게 작품을 보낸 뒤 AI 모델 학습에 쓰일까 걱정할 필요가 없어졌다는 설명이다."
               },
               {
                 "t": "p",
-                "x": "Google Maps에 올라온 Hobart 매장 이미지를 OpenAI 도구로 확인하면 OpenAI 소프트웨어로 만들었다는 워터마크가 나온다. 회사 웹사이트의 일부 책 표지에서도 OpenAI와 Google Gemini의 워터마크가 검출됐다. ABC가 검토한 작가 계약서에는 AI 삽화를 언급한 대목이 없다."
-              },
-              {
-                "t": "p",
-                "x": "회사는 관계없는 업체의 ABN을 쓰고, Patrick White의 문학 유산 관리 측은 이름 사용을 멈추라고 요구했다. Patrick White Publishing은 ABC의 논평 요청에 답하지 않았다."
+                "x": "창업자 Rishi Ambavanekar는 Cloak를 “원치 않는 AI 학습, AI 노트와 분석으로부터 작가들이 스스로를 지킬 주도권을 되돌려주려고” 개발했다고 밝혔다. WGAE는 AI 입법에도 힘을 싣는다. Kathy Hochul 주지사의 결정만 남은 뉴욕주 FAIR News Act가 대표적이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "自費出版の著者ら\n粗悪対応とAI画像を告発",
-          "body": "著者がPatrick White Publishingを告発、ABCはAI透かしを確認した。",
-          "mini_headline": "Paid-publishing業者にAI画像疑惑",
+          "headline": "WGA East会員に\nAI遮断のCloak",
+          "body": "WGA East会員は、大半のAIから文書を隠すCloakを無料で使える。",
+          "mini_headline": "WGA EastがCloakを導入",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://live-production.wcms.abc-cdn.net.au/9666b581058d1af9ec9592941fe71f8a?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
-                "cap": "Patrick White PublishingのAI-generated宣伝画像。(Patrick White Publishing)"
+                "t": "p",
+                "x": "Writers Guild of America Eastは、AI保護ソフトウェア企業Cloakと提携し、会員向けの新サービスを始める。WGAE会員は、大半のAIモデルが文書を読めなくなるCloakのソフトウェアを無料で利用できる。"
               },
               {
                 "t": "p",
-                "x": "オンラインでの評価は高いものの、著者らはPatrick White Publishingのサービスの質が低く、否定的なコメントの削除を迫られたと訴えている。同社はAI-generatedの挿絵の代金として著者に数百ドルを請求してもいる。"
+                "x": "特許出願中（patent-pending）のCloakのソフトウェアは、人間の読者に向けた元の書式と見え方を保ったまま、AIによる文書の収集（scraping）を防ぐ。会員や脚本登録者は、ファイルのAI-proofコピーを好きな相手に送れる。Non-WGA East会員（非会員）も、WGAE Script Registrationで作品を登録する際に$10を追加で払えばCloakの保護を付けられる。"
               },
               {
                 "t": "p",
-                "x": "Mudgeeの著者Kerry Stewartは$500を支払ったが、編集で誤りが増えたと話す。Melbourneの著者Tulin Salisは$400の見積もりを受けた後、$1899の\"5-Star Ghostwriting Bundle\"を勧められた。"
-              },
-              {
-                "t": "img",
-                "src": "https://live-production.wcms.abc-cdn.net.au/b06a09fe7be41183eb456f5c77af5584?impolicy=wcms_crop_resize&cropH=1077&cropW=1615&xPos=0&yPos=41&width=862&height=575",
-                "cap": "HobartのPatrick White PublishingのGoogle掲載情報に表示されるAI-generated画像。(Patrick White Publishing)"
+                "x": "WGAE会長のTom Fontanaは「WGAEとCloakの提携は、会員の作品を守り、作家やほかのクリエイティブ労働者を搾取するAI企業に対抗する我々の取り組みを広げるものだ」と述べた。会員はプロデューサーやエージェントに作品を送った後、それがAIモデルの学習に使われる心配をしなくてよいという。"
               },
               {
                 "t": "p",
-                "x": "OpenAIのツールによると、Google Maps上のHobartの店舗画像には同社ソフトウェアが生成したことを示す透かしがあり、同社サイトの一部の書籍表紙もOpenAIとGoogle Geminiの透かしで陽性となった。ABCが確認した著者契約にはAI挿絵への言及がない。"
-              },
-              {
-                "t": "p",
-                "x": "同社は無関係の事業者のABNを使っており、Patrick Whiteの文学遺産管理者は名称の使用中止を求めている。Patrick White PublishingはABCのコメント要請に応じなかった。"
+                "x": "創業者のRishi Ambavanekarは、Cloakを「望まないAI学習、AIによるノートや分析から身を守る主導権を作家に取り戻すために」開発したと語った。WGAEはAI関連の立法にも取り組んでおり、Kathy Hochul知事の判断を待つニューヨーク州のFAIR News Actもその一つである。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "自费出版作者指控\n服务差且用AI作图",
-          "body": "作者称Patrick White Publishing服务差，ABC于封面发现AI水印。",
-          "mini_headline": "Paid-publishing出版商陷AI图像争议",
+          "headline": "WGA East会员获得\nCloak防AI读取",
+          "body": "WGA East会员可免费使用Cloak软件，让多数AI模型无法读取文档。",
+          "mini_headline": "WGA East引入Cloak",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://live-production.wcms.abc-cdn.net.au/9666b581058d1af9ec9592941fe71f8a?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
-                "cap": "Patrick White Publishing的AI-generated宣传图片。(Patrick White Publishing)"
+                "t": "p",
+                "x": "Writers Guild of America East正与AI保护软件公司Cloak合作，为会员推出一项新服务。WGAE会员可免费使用Cloak软件，该软件能让大多数AI模型无法读取文档。"
               },
               {
                 "t": "p",
-                "x": "尽管网上评价正面，作者们指责Patrick White Publishing服务质量低劣，并迫使他们删除负面评论。该公司还向作者收取数百美元的AI-generated插图费用。"
+                "x": "Cloak这款专利申请中（patent-pending）的软件可防止文档被AI抓取（scraping），同时为人类读者保留原有格式与可读性。会员或剧本登记者可以把文件的AI-proof副本发送给任何人。Non-WGA East会员（非会员）通过WGAE Script Registration登记作品时，额外支付$10即可加上Cloak保护。"
               },
               {
                 "t": "p",
-                "x": "Mudgee作者Kerry Stewart支付了$500，称编辑反而引入了错误；Melbourne作者Tulin Salis先获得$400的报价，随后被推销$1899的\"5-Star Ghostwriting Bundle\"。"
-              },
-              {
-                "t": "img",
-                "src": "https://live-production.wcms.abc-cdn.net.au/b06a09fe7be41183eb456f5c77af5584?impolicy=wcms_crop_resize&cropH=1077&cropW=1615&xPos=0&yPos=41&width=862&height=575",
-                "cap": "Patrick White Publishing在Hobart的Google商家信息中出现这张AI-generated图片。(Patrick White Publishing)"
+                "x": "WGAE主席Tom Fontana表示：“WGAE与Cloak的合作扩展了我们保护会员作品、反击剥削作家及其他创意工作者的AI公司的努力。”他说，会员把作品发给制片人或经纪人后，不必担心作品被用于训练AI模型。"
               },
               {
                 "t": "p",
-                "x": "一款OpenAI工具显示，Google Maps上Hobart门店的图片带有其软件生成的水印；该公司网站上的部分书籍封面也检测出OpenAI和Google Gemini的水印。ABC查阅的作者协议中并未提及AI插图。"
-              },
-              {
-                "t": "p",
-                "x": "该公司还使用一家无关企业的ABN，Patrick White的文学遗产管理方已要求其停止使用这一名称。Patrick White Publishing未回应ABC的置评请求。"
+                "x": "创始人Rishi Ambavanekar称，他开发Cloak是“为了把主动权还给作家，让他们免受不受欢迎的AI训练、AI笔记与分析”。WGAE也在推动AI立法，包括正等待州长Kathy Hochul签署的纽约州FAIR News Act。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Autores de Paid-publishing\ndenuncian mal servicio y arte AI",
-          "body": "Autores que pagaron a Patrick White Publishing acusan mal servicio; ABC halló marcas de AI en portadas y locales.",
-          "mini_headline": "Editorial Paid-publishing, acusada de usar arte AI",
+          "headline": "WGA East ofrece Cloak a socios\npara ocultar su obra de la AI",
+          "body": "Los miembros de WGA East reciben gratis Cloak, un software que oculta documentos a la mayoría de modelos de AI.",
+          "mini_headline": "WGA East adopta Cloak",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://live-production.wcms.abc-cdn.net.au/9666b581058d1af9ec9592941fe71f8a?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
-                "cap": "Imagen promocional AI-generated de Patrick White Publishing. (Patrick White Publishing)"
+                "t": "p",
+                "x": "El Writers Guild of America East se asocia con Cloak, empresa de software de protección frente a la AI, para ofrecer un nuevo servicio a sus miembros. Los miembros de WGAE tendrán acceso gratuito al software de Cloak, que hace que los documentos resulten ilegibles para la mayoría de los modelos de AI."
               },
               {
                 "t": "p",
-                "x": "Pese a las reseñas positivas en internet, varios autores acusan a Patrick White Publishing de ofrecer un servicio de mala calidad y de presionarlos para retirar comentarios negativos. La empresa también cobra a los autores cientos de dólares por ilustraciones AI-generated."
+                "x": "El software de Cloak, con patente en trámite (patent-pending), impide que la AI extraiga los documentos y conserva su formato original y su visibilidad para los lectores humanos. Los miembros o quienes registren guiones pueden enviar una copia AI-proof de su archivo a quien elijan. Los Non-WGA East members (no miembros) pueden añadir la protección de Cloak por $10 adicionales al registrar una obra mediante WGAE Script Registration."
               },
               {
                 "t": "p",
-                "x": "En Mudgee, el autor Kerry Stewart pagó $500 y afirma que la edición introdujo errores; en Melbourne, al autor Tulin Salis le presupuestaron $400 y después le ofrecieron un \"5-Star Ghostwriting Bundle\" de $1899."
-              },
-              {
-                "t": "img",
-                "src": "https://live-production.wcms.abc-cdn.net.au/b06a09fe7be41183eb456f5c77af5584?impolicy=wcms_crop_resize&cropH=1077&cropW=1615&xPos=0&yPos=41&width=862&height=575",
-                "cap": "La ficha de Google de Patrick White Publishing en Hobart muestra esta imagen AI-generated. (Patrick White Publishing)"
+                "x": "“La alianza de WGAE con Cloak amplía nuestros esfuerzos para proteger el trabajo de los miembros y hacer frente a las empresas de AI que explotan a los escritores y a otros trabajadores creativos”, dijo el presidente de WGAE, Tom Fontana. Según él, los miembros no tienen que preocuparse de que su trabajo se use para entrenar modelos de AI después de enviarlo a productores o agentes."
               },
               {
                 "t": "p",
-                "x": "Una herramienta de OpenAI indica que la imagen de la tienda de Hobart en Google Maps lleva una marca de agua generada por su software, y algunas portadas del sitio web de la empresa dan positivo en marcas de agua de OpenAI y Google Gemini. Los contratos de autor revisados por ABC no mencionan ilustraciones con AI."
-              },
-              {
-                "t": "p",
-                "x": "La empresa también usa un ABN de un negocio sin relación, y el patrimonio literario de Patrick White le ha pedido que deje de usar el nombre. Patrick White Publishing no respondió a las solicitudes de comentarios de ABC."
+                "x": "El fundador, Rishi Ambavanekar, dijo que desarrolló Cloak “para devolver a los escritores la capacidad de protegerse frente al entrenamiento de AI no deseado, las notas y los análisis de AI”. WGAE también impulsa leyes sobre AI, entre ellas la FAIR News Act de Nueva York, que espera la decisión de la gobernadora Kathy Hochul."
               }
             ]
           }
@@ -229,145 +169,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "자비출판 작가들,\n부실·AI 그림 고발",
-          "body": "ABC는 Patrick White Publishing 표지에서 AI 흔적을 찾았다.",
-          "mini_headline": "Paid-publishing 출판사의 AI 그림 논란",
+          "headline": "WGA East 회원에\nAI 차단 Cloak 제공",
+          "body": "WGA East 회원은 AI가 못 읽게 문서를 숨기는 Cloak를 무료로 쓴다.",
+          "mini_headline": "WGA East, Cloak 도입",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://live-production.wcms.abc-cdn.net.au/9666b581058d1af9ec9592941fe71f8a?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
-                "cap": "Patrick White Publishing의 AI-generated 홍보 이미지. (Patrick White Publishing)"
+                "t": "p",
+                "x": "Writers Guild of America East가 AI 보호 소프트웨어 기업 Cloak와 손잡고 회원 대상 새 서비스를 내놓는다. WGAE 회원은 대부분의 AI 모델이 문서를 읽지 못하게 만드는 Cloak 소프트웨어를 무료로 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "온라인 후기는 긍정적이지만, 작가들은 Patrick White Publishing의 서비스 품질이 낮고 부정적인 댓글을 지우라는 압박까지 받았다고 비판한다. 이 회사는 AI-generated 삽화 값으로 작가들에게 수백 달러를 받고 있기도 하다."
+                "x": "특허 출원 중(patent-pending)인 Cloak 소프트웨어는 사람 독자를 위한 원래 서식과 가독성은 그대로 두면서 AI의 문서 수집(scraping)을 막는다. 회원이나 대본 등록자는 AI-proof 사본을 원하는 상대에게 보낼 수 있다. Non-WGA East 회원(비회원)은 WGAE Script Registration으로 작품을 등록할 때 $10를 추가로 내면 Cloak 보호를 더할 수 있다."
               },
               {
                 "t": "p",
-                "x": "Mudgee의 작가 Kerry Stewart는 $500를 냈지만 편집 과정에서 오히려 오류가 생겼다고 말한다. Melbourne의 작가 Tulin Salis는 $400 견적을 받은 뒤 $1899짜리 \"5-Star Ghostwriting Bundle\"을 제안받았다."
-              },
-              {
-                "t": "img",
-                "src": "https://live-production.wcms.abc-cdn.net.au/b06a09fe7be41183eb456f5c77af5584?impolicy=wcms_crop_resize&cropH=1077&cropW=1615&xPos=0&yPos=41&width=862&height=575",
-                "cap": "Hobart에 있는 Patrick White Publishing의 Google 등록 정보에 뜨는 AI-generated 이미지. (Patrick White Publishing)"
+                "x": "WGAE 회장 Tom Fontana는 “WGAE와 Cloak의 협력은 회원의 작품을 보호하고, 작가와 다른 창작 노동자를 착취하는 AI 기업에 맞서려는 우리의 노력을 넓힌다”고 말했다. 그는 회원들이 프로듀서나 에이전트에게 작품을 보낸 뒤 그것이 AI 모델 학습에 쓰일까 걱정하지 않아도 된다고 했다."
               },
               {
                 "t": "p",
-                "x": "OpenAI 도구로 확인하면 Google Maps에 올라온 Hobart 매장 이미지에는 OpenAI 소프트웨어가 생성했다는 워터마크가 있다. 회사 웹사이트의 일부 책 표지에서도 OpenAI와 Google Gemini의 워터마크가 검출됐다. ABC가 검토한 작가 계약서에는 AI 삽화에 관한 언급이 없다."
-              },
-              {
-                "t": "p",
-                "x": "회사는 무관한 업체의 ABN을 쓰고 있으며, Patrick White의 문학 유산 관리 측은 이름 사용을 멈추라고 요구했다. Patrick White Publishing은 ABC의 논평 요청에 답하지 않았다."
+                "x": "창업자 Rishi Ambavanekar는 Cloak를 “원치 않는 AI 학습, AI 노트와 분석으로부터 작가들이 스스로를 지킬 주도권을 되돌려주려고” 개발했다고 밝혔다. WGAE는 Kathy Hochul 주지사의 결정을 기다리는 뉴욕주 FAIR News Act를 비롯한 AI 입법도 추진하고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "自費出版の著者ら\n粗悪対応とAI画像を告発",
-          "body": "著者がPatrick White Publishingを告発、ABCはAI透かしを確認した。",
-          "mini_headline": "Paid-publishing業者にAI画像疑惑",
+          "headline": "WGA East会員に\nAI遮断のCloak",
+          "body": "WGA East会員は、大半のAIから文書を隠すCloakを無料で使える。",
+          "mini_headline": "WGA EastがCloakを導入",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://live-production.wcms.abc-cdn.net.au/9666b581058d1af9ec9592941fe71f8a?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
-                "cap": "Patrick White PublishingのAI-generated宣伝画像。(Patrick White Publishing)"
+                "t": "p",
+                "x": "Writers Guild of America Eastは、AI保護ソフトウェア企業Cloakと提携し、会員向けの新サービスを始める。WGAE会員は、大半のAIモデルが文書を読めなくなるCloakのソフトウェアを無料で利用できる。"
               },
               {
                 "t": "p",
-                "x": "オンラインでの評価は高いものの、著者らはPatrick White Publishingのサービスの質が低く、否定的なコメントの削除を迫られたと訴えている。同社はAI-generatedの挿絵の代金として著者に数百ドルを請求してもいる。"
+                "x": "特許出願中（patent-pending）のCloakのソフトウェアは、人間の読者に向けた元の書式と見え方を保ったまま、AIによる文書の収集（scraping）を防ぐ。会員や脚本登録者は、ファイルのAI-proofコピーを好きな相手に送れる。Non-WGA East会員（非会員）も、WGAE Script Registrationで作品を登録する際に$10を追加で払えばCloakの保護を付けられる。"
               },
               {
                 "t": "p",
-                "x": "Mudgeeの著者Kerry Stewartは$500を支払ったが、編集で誤りが増えたと話す。Melbourneの著者Tulin Salisは$400の見積もりを受けた後、$1899の\"5-Star Ghostwriting Bundle\"を勧められた。"
-              },
-              {
-                "t": "img",
-                "src": "https://live-production.wcms.abc-cdn.net.au/b06a09fe7be41183eb456f5c77af5584?impolicy=wcms_crop_resize&cropH=1077&cropW=1615&xPos=0&yPos=41&width=862&height=575",
-                "cap": "HobartのPatrick White PublishingのGoogle掲載情報に表示されるAI-generated画像。(Patrick White Publishing)"
+                "x": "WGAE会長のTom Fontanaは「WGAEとCloakの提携は、会員の作品を守り、作家やほかのクリエイティブ労働者を搾取するAI企業に対抗する我々の取り組みを広げるものだ」と述べた。会員はプロデューサーやエージェントに作品を送った後、それがAIモデルの学習に使われる心配をしなくてよいという。"
               },
               {
                 "t": "p",
-                "x": "OpenAIのツールによると、Google Maps上のHobartの店舗画像には同社ソフトウェアが生成したことを示す透かしがあり、同社サイトの一部の書籍表紙もOpenAIとGoogle Geminiの透かしで陽性となった。ABCが確認した著者契約にはAI挿絵への言及がない。"
-              },
-              {
-                "t": "p",
-                "x": "同社は無関係の事業者のABNを使っており、Patrick Whiteの文学遺産管理者は名称の使用中止を求めている。Patrick White PublishingはABCのコメント要請に応じなかった。"
+                "x": "創業者のRishi Ambavanekarは、Cloakを「望まないAI学習、AIによるノートや分析から身を守る主導権を作家に取り戻すために」開発したと語った。WGAEはAI関連の立法にも取り組んでおり、Kathy Hochul知事の判断を待つニューヨーク州のFAIR News Actもその一つである。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "自费出版作者指控\n服务差且用AI作图",
-          "body": "作者称Patrick White Publishing服务差，ABC于封面发现AI水印。",
-          "mini_headline": "Paid-publishing出版商陷AI图像争议",
+          "headline": "WGA East会员获得\nCloak防AI读取",
+          "body": "WGA East会员可免费使用Cloak软件，让多数AI模型无法读取文档。",
+          "mini_headline": "WGA East引入Cloak",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://live-production.wcms.abc-cdn.net.au/9666b581058d1af9ec9592941fe71f8a?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
-                "cap": "Patrick White Publishing的AI-generated宣传图片。(Patrick White Publishing)"
+                "t": "p",
+                "x": "Writers Guild of America East正与AI保护软件公司Cloak合作，为会员推出一项新服务。WGAE会员可免费使用Cloak软件，该软件能让大多数AI模型无法读取文档。"
               },
               {
                 "t": "p",
-                "x": "尽管网上评价正面，作者们指责Patrick White Publishing服务质量低劣，并迫使他们删除负面评论。该公司还向作者收取数百美元的AI-generated插图费用。"
+                "x": "Cloak这款专利申请中（patent-pending）的软件可防止文档被AI抓取（scraping），同时为人类读者保留原有格式与可读性。会员或剧本登记者可以把文件的AI-proof副本发送给任何人。Non-WGA East会员（非会员）通过WGAE Script Registration登记作品时，额外支付$10即可加上Cloak保护。"
               },
               {
                 "t": "p",
-                "x": "Mudgee作者Kerry Stewart支付了$500，称编辑反而引入了错误；Melbourne作者Tulin Salis先获得$400的报价，随后被推销$1899的\"5-Star Ghostwriting Bundle\"。"
-              },
-              {
-                "t": "img",
-                "src": "https://live-production.wcms.abc-cdn.net.au/b06a09fe7be41183eb456f5c77af5584?impolicy=wcms_crop_resize&cropH=1077&cropW=1615&xPos=0&yPos=41&width=862&height=575",
-                "cap": "Patrick White Publishing在Hobart的Google商家信息中出现这张AI-generated图片。(Patrick White Publishing)"
+                "x": "WGAE主席Tom Fontana表示：“WGAE与Cloak的合作扩展了我们保护会员作品、反击剥削作家及其他创意工作者的AI公司的努力。”他说，会员把作品发给制片人或经纪人后，不必担心作品被用于训练AI模型。"
               },
               {
                 "t": "p",
-                "x": "一款OpenAI工具显示，Google Maps上Hobart门店的图片带有其软件生成的水印；该公司网站上的部分书籍封面也检测出OpenAI和Google Gemini的水印。ABC查阅的作者协议中并未提及AI插图。"
-              },
-              {
-                "t": "p",
-                "x": "该公司还使用一家无关企业的ABN，Patrick White的文学遗产管理方已要求其停止使用这一名称。Patrick White Publishing未回应ABC的置评请求。"
+                "x": "创始人Rishi Ambavanekar称，他开发Cloak是“为了把主动权还给作家，让他们免受不受欢迎的AI训练、AI笔记与分析”。WGAE也在推动AI立法，包括正等待州长Kathy Hochul签署的纽约州FAIR News Act。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Autores de Paid-publishing\ndenuncian mal servicio y arte AI",
-          "body": "Autores que pagaron a Patrick White Publishing acusan mal servicio; ABC halló marcas de AI en portadas y locales.",
-          "mini_headline": "Editorial Paid-publishing, acusada de usar arte AI",
+          "headline": "WGA East ofrece Cloak a socios\npara ocultar su obra de la AI",
+          "body": "Los miembros de WGA East reciben gratis Cloak, un software que oculta documentos a la mayoría de modelos de AI.",
+          "mini_headline": "WGA East adopta Cloak",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://live-production.wcms.abc-cdn.net.au/9666b581058d1af9ec9592941fe71f8a?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
-                "cap": "Imagen promocional AI-generated de Patrick White Publishing. (Patrick White Publishing)"
+                "t": "p",
+                "x": "El Writers Guild of America East se asocia con Cloak, empresa de software de protección frente a la AI, para ofrecer un nuevo servicio a sus miembros. Los miembros de WGAE tendrán acceso gratuito al software de Cloak, que hace que los documentos resulten ilegibles para la mayoría de los modelos de AI."
               },
               {
                 "t": "p",
-                "x": "Pese a las reseñas positivas en internet, varios autores acusan a Patrick White Publishing de ofrecer un servicio de mala calidad y de presionarlos para retirar comentarios negativos. La empresa también cobra a los autores cientos de dólares por ilustraciones AI-generated."
+                "x": "El software de Cloak, con patente en trámite (patent-pending), impide que la AI extraiga los documentos y conserva su formato original y su visibilidad para los lectores humanos. Los miembros o quienes registren guiones pueden enviar una copia AI-proof de su archivo a quien elijan. Los Non-WGA East members (no miembros) pueden añadir la protección de Cloak por $10 adicionales al registrar una obra mediante WGAE Script Registration."
               },
               {
                 "t": "p",
-                "x": "En Mudgee, el autor Kerry Stewart pagó $500 y afirma que la edición introdujo errores; en Melbourne, al autor Tulin Salis le presupuestaron $400 y después le ofrecieron un \"5-Star Ghostwriting Bundle\" de $1899."
-              },
-              {
-                "t": "img",
-                "src": "https://live-production.wcms.abc-cdn.net.au/b06a09fe7be41183eb456f5c77af5584?impolicy=wcms_crop_resize&cropH=1077&cropW=1615&xPos=0&yPos=41&width=862&height=575",
-                "cap": "La ficha de Google de Patrick White Publishing en Hobart muestra esta imagen AI-generated. (Patrick White Publishing)"
+                "x": "“La alianza de WGAE con Cloak amplía nuestros esfuerzos para proteger el trabajo de los miembros y hacer frente a las empresas de AI que explotan a los escritores y a otros trabajadores creativos”, dijo el presidente de WGAE, Tom Fontana. Según él, los miembros no tienen que preocuparse de que su trabajo se use para entrenar modelos de AI después de enviarlo a productores o agentes."
               },
               {
                 "t": "p",
-                "x": "Una herramienta de OpenAI indica que la imagen de la tienda de Hobart en Google Maps lleva una marca de agua generada por su software, y algunas portadas del sitio web de la empresa dan positivo en marcas de agua de OpenAI y Google Gemini. Los contratos de autor revisados por ABC no mencionan ilustraciones con AI."
-              },
-              {
-                "t": "p",
-                "x": "La empresa también usa un ABN de un negocio sin relación, y el patrimonio literario de Patrick White le ha pedido que deje de usar el nombre. Patrick White Publishing no respondió a las solicitudes de comentarios de ABC."
+                "x": "El fundador, Rishi Ambavanekar, dijo que desarrolló Cloak “para devolver a los escritores la capacidad de protegerse frente al entrenamiento de AI no deseado, las notas y los análisis de AI”. WGAE también impulsa leyes sobre AI, entre ellas la FAIR News Act de Nueva York, que espera la decisión de la gobernadora Kathy Hochul."
               }
             ]
           }
@@ -375,693 +275,431 @@
       }
     },
     {
-      "id": "books-zlibrary-paper-fake-citation",
-      "source_lang": "en",
+      "id": "books-linemanga-byus-chat",
+      "source_lang": "ja",
       "eyebrow": "AI NEWS",
-      "headline": "AI-assisted 논문\n없는 기사 인용",
-      "body": "AI를 쓴 Z-Library 논문이 없는 TorrentFreak 기사를 인용했다.",
-      "mini_headline": "논문이 인용한 유령 기사",
+      "headline": "LINE망가 공식 캐릭터와\n이야기 짓는 AI 채팅",
+      "body": "LINE망가가 공식 캐릭터와 이야기를 함께 쓰는 AI 채팅 byUs를 시작했다.",
+      "mini_headline": "LINE망가, byUs 시작",
       "tool": "Books",
-      "source": "TorrentFreak",
-      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
-      "accent": "#0070f3",
-      "motif": "swatch",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "나이지리아 대학의 사서 두 명이 이달 학술지 New Review of Academic Librarianship에 발표한 Z-Library 논문이 존재하지 않는 2021년 TorrentFreak 기사를 인용했다."
-          },
-          {
-            "t": "img",
-            "src": "https://torrentfreak.com/images/zlib-paper-claim.png",
-            "cap": "문제의 주장"
-          },
-          {
-            "t": "p",
-            "x": "참고문헌 \"Publishers continue crackdown on shadow libraries\"는 TorrentFreak 홈페이지로 연결되지만, 그런 제목의 기사는 게재된 적이 없다. TorrentFreak는 논문의 참고문헌 44건 가운데 적어도 열 건을 찾지 못했다."
-          },
-          {
-            "t": "img",
-            "src": "https://torrentfreak.com/images/citations-600x314.png",
-            "cap": "일부 참고문헌"
-          },
-          {
-            "t": "p",
-            "x": "감사의 글에는 문헌 검토에 Consensus AI를, 문장 다듬기에 ChatGPT를 썼다고 적혀 있다. AI 챗봇이 참고문헌을 지어낸다는 건 잘 알려진 일이지만 그것만으로 AI가 참고문헌을 썼다는 증거가 되지는 않는다. Pangram은 초록과 결론을 두고 \"텍스트의 100%가 AI-generated일 가능성이 높다\"고 판정했다."
-          },
-          {
-            "t": "p",
-            "x": "Taylor & Francis는 이 사안을 Editorial and Publishing Ethics & Integrity 팀에 넘겼다고 밝혔다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "AI-assisted paper cites\nan article that doesn't exist",
-          "body": "A paper on Z-Library written with disclosed AI help cites a TorrentFreak article that does not exist.",
-          "mini_headline": "Paper cites\na ghost article",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "A paper on Z-Library, published this month in the journal New Review of Academic Librarianship by two librarians at Nigerian universities, cites a 2021 TorrentFreak article that doesn't exist."
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/zlib-paper-claim.png",
-                "cap": "The claim"
-              },
-              {
-                "t": "p",
-                "x": "The reference, \"Publishers continue crackdown on shadow libraries,\" links to the TorrentFreak homepage, but no article with that title was ever published. In total, TorrentFreak had trouble finding at least ten of the 44 references in the paper."
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/citations-600x314.png",
-                "cap": "Some references"
-              },
-              {
-                "t": "p",
-                "x": "The acknowledgements say Consensus AI was used to sift through literature and ChatGPT to improve the language. AI chatbots are known to invent references, though this doesn't prove AI wrote them. Pangram reported the abstract and conclusion as \"100% of the text is likely AI-generated.\""
-              },
-              {
-                "t": "p",
-                "x": "Taylor & Francis says the matter has been referred to its Editorial and Publishing Ethics & Integrity teams."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI-assisted 논문\n없는 기사 인용",
-          "body": "AI를 쓴 Z-Library 논문이 없는 TorrentFreak 기사를 인용했다.",
-          "mini_headline": "논문이 인용한 유령 기사",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "나이지리아 대학의 사서 두 명이 이달 학술지 New Review of Academic Librarianship에 발표한 Z-Library 논문이 존재하지 않는 2021년 TorrentFreak 기사를 인용했다."
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/zlib-paper-claim.png",
-                "cap": "문제의 주장"
-              },
-              {
-                "t": "p",
-                "x": "참고문헌 \"Publishers continue crackdown on shadow libraries\"는 TorrentFreak 홈페이지로 연결되지만, 그런 제목의 기사는 게재된 적이 없다. TorrentFreak는 논문의 참고문헌 44건 가운데 적어도 열 건을 찾지 못했다."
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/citations-600x314.png",
-                "cap": "일부 참고문헌"
-              },
-              {
-                "t": "p",
-                "x": "감사의 글에는 문헌 검토에 Consensus AI를, 문장 다듬기에 ChatGPT를 썼다고 적혀 있다. AI 챗봇이 참고문헌을 지어낸다는 건 잘 알려진 일이지만 그것만으로 AI가 참고문헌을 썼다는 증거가 되지는 않는다. Pangram은 초록과 결론을 두고 \"텍스트의 100%가 AI-generated일 가능성이 높다\"고 판정했다."
-              },
-              {
-                "t": "p",
-                "x": "Taylor & Francis는 이 사안을 Editorial and Publishing Ethics & Integrity 팀에 넘겼다고 밝혔다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI-assisted論文が\n存在しない記事を引用",
-          "body": "AI利用を明かしたZ-Library論文が実在しないTorrentFreak記事を引用した。",
-          "mini_headline": "論文が幻の記事を引用",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "ナイジェリアの大学に勤める二人の図書館員が今月、学術誌New Review of Academic Librarianshipに発表したZ-Libraryに関する論文が、存在しない2021年のTorrentFreak記事を引用している。"
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/zlib-paper-claim.png",
-                "cap": "問題の記述"
-              },
-              {
-                "t": "p",
-                "x": "参考文献\"Publishers continue crackdown on shadow libraries\"はTorrentFreakのトップページにリンクしているが、その題の記事が掲載されたことはない。TorrentFreakは論文の参考文献44件のうち、少なくとも十件を見つけられなかった。"
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/citations-600x314.png",
-                "cap": "参考文献の一部"
-              },
-              {
-                "t": "p",
-                "x": "謝辞には、文献の精査にConsensus AIを、文章の改善にChatGPTを使ったとある。AIチャットボットは参考文献を捏造することで知られるが、これはAIが書いた証拠にはならない。Pangramは要旨と結論について「テキストの100%がAI-generatedである可能性が高い」と判定した。"
-              },
-              {
-                "t": "p",
-                "x": "Taylor & Francisは、この件をEditorial and Publishing Ethics & Integrityチームに回付したとしている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI-assisted论文\n引用了不存在的文章",
-          "body": "一篇披露使用AI的Z-Library论文引用了不存在的TorrentFreak文章。",
-          "mini_headline": "论文引用幽灵文章",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "尼日利亚高校的两名图书馆员本月在期刊New Review of Academic Librarianship上发表了一篇关于Z-Library的论文，其中引用了一篇并不存在的2021年TorrentFreak文章。"
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/zlib-paper-claim.png",
-                "cap": "相关说法"
-              },
-              {
-                "t": "p",
-                "x": "该参考文献题为\"Publishers continue crackdown on shadow libraries\"，链接指向TorrentFreak首页，但从未发表过这一标题的文章。在论文的44条参考文献中，TorrentFreak至少有十条难以找到。"
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/citations-600x314.png",
-                "cap": "部分参考文献"
-              },
-              {
-                "t": "p",
-                "x": "致谢部分称，作者使用Consensus AI筛选文献，使用ChatGPT润色语言。AI聊天机器人会编造参考文献，这一点众所周知，但这并不能证明参考文献出自AI。Pangram判定摘要和结论\"100%的文本很可能是AI-generated\"。"
-              },
-              {
-                "t": "p",
-                "x": "Taylor & Francis表示，此事已提交其Editorial and Publishing Ethics & Integrity团队处理。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un estudio AI-assisted cita\nun artículo que no existe",
-          "body": "Un estudio sobre Z-Library, escrito con ayuda declarada de AI, cita un artículo de TorrentFreak que no existe.",
-          "mini_headline": "Un estudio cita un artículo fantasma",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Un estudio sobre Z-Library, publicado este mes en la revista New Review of Academic Librarianship por dos bibliotecarios de universidades nigerianas, cita un artículo de TorrentFreak de 2021 que no existe."
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/zlib-paper-claim.png",
-                "cap": "La afirmación"
-              },
-              {
-                "t": "p",
-                "x": "La referencia, \"Publishers continue crackdown on shadow libraries\", enlaza a la página principal de TorrentFreak, pero nunca se publicó un artículo con ese título. En total, TorrentFreak tuvo dificultades para encontrar al menos diez de las 44 referencias del estudio."
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/citations-600x314.png",
-                "cap": "Algunas referencias"
-              },
-              {
-                "t": "p",
-                "x": "Los agradecimientos indican que se usó Consensus AI para revisar la literatura y ChatGPT para mejorar la redacción. Se sabe que los chatbots de AI inventan referencias, aunque esto no prueba que la AI las haya escrito. Pangram calificó el resumen y la conclusión con \"es probable que el 100% del texto sea AI-generated\"."
-              },
-              {
-                "t": "p",
-                "x": "Taylor & Francis afirma que el asunto se remitió a sus equipos de Editorial and Publishing Ethics & Integrity."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI-assisted 논문\n없는 기사 인용",
-          "body": "AI를 쓴 Z-Library 논문이 없는 TorrentFreak 기사를 인용했다.",
-          "mini_headline": "논문이 인용한 유령 기사",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "나이지리아 대학의 사서 두 명이 이달 학술지 New Review of Academic Librarianship에 발표한 Z-Library 논문이 존재하지 않는 2021년 TorrentFreak 기사를 인용했다."
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/zlib-paper-claim.png",
-                "cap": "문제의 주장"
-              },
-              {
-                "t": "p",
-                "x": "참고문헌 \"Publishers continue crackdown on shadow libraries\"는 TorrentFreak 홈페이지로 연결되지만, 그런 제목의 기사는 게재된 적이 없다. TorrentFreak는 논문의 참고문헌 44건 가운데 적어도 열 건을 찾지 못했다."
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/citations-600x314.png",
-                "cap": "일부 참고문헌"
-              },
-              {
-                "t": "p",
-                "x": "감사의 글에는 문헌 검토에 Consensus AI를, 문장 다듬기에 ChatGPT를 썼다고 적혀 있다. AI 챗봇이 참고문헌을 지어낸다는 사실은 잘 알려져 있지만, 그것만으로 AI가 참고문헌을 썼다고 증명되지는 않는다. Pangram은 초록과 결론을 두고 \"텍스트의 100%가 AI-generated일 가능성이 높다\"고 판정했다."
-              },
-              {
-                "t": "p",
-                "x": "Taylor & Francis는 이 사안을 Editorial and Publishing Ethics & Integrity 팀에 넘겼다고 밝혔다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI-assisted論文が\n存在しない記事を引用",
-          "body": "AI利用を明かしたZ-Library論文が実在しないTorrentFreak記事を引用した。",
-          "mini_headline": "論文が幻の記事を引用",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "ナイジェリアの大学に勤める二人の図書館員が今月、学術誌New Review of Academic Librarianshipに発表したZ-Libraryに関する論文が、存在しない2021年のTorrentFreak記事を引用している。"
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/zlib-paper-claim.png",
-                "cap": "問題の記述"
-              },
-              {
-                "t": "p",
-                "x": "参考文献\"Publishers continue crackdown on shadow libraries\"はTorrentFreakのトップページにリンクしているが、その題の記事が掲載されたことはない。TorrentFreakは論文の参考文献44件のうち、少なくとも十件を見つけられなかった。"
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/citations-600x314.png",
-                "cap": "参考文献の一部"
-              },
-              {
-                "t": "p",
-                "x": "謝辞には、文献の精査にConsensus AIを、文章の改善にChatGPTを使ったとある。AIチャットボットは参考文献を捏造することで知られるが、これはAIが書いた証拠にはならない。Pangramは要旨と結論について「テキストの100%がAI-generatedである可能性が高い」と判定した。"
-              },
-              {
-                "t": "p",
-                "x": "Taylor & Francisは、この件をEditorial and Publishing Ethics & Integrityチームに回付したとしている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI-assisted论文\n引用了不存在的文章",
-          "body": "一篇披露使用AI的Z-Library论文引用了不存在的TorrentFreak文章。",
-          "mini_headline": "论文引用幽灵文章",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "尼日利亚高校的两名图书馆员本月在期刊New Review of Academic Librarianship上发表了一篇关于Z-Library的论文，其中引用了一篇并不存在的2021年TorrentFreak文章。"
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/zlib-paper-claim.png",
-                "cap": "相关说法"
-              },
-              {
-                "t": "p",
-                "x": "该参考文献题为\"Publishers continue crackdown on shadow libraries\"，链接指向TorrentFreak首页，但从未发表过这一标题的文章。在论文的44条参考文献中，TorrentFreak至少有十条难以找到。"
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/citations-600x314.png",
-                "cap": "部分参考文献"
-              },
-              {
-                "t": "p",
-                "x": "致谢部分称，作者使用Consensus AI筛选文献，使用ChatGPT润色语言。AI聊天机器人会编造参考文献，这一点众所周知，但这并不能证明参考文献出自AI。Pangram判定摘要和结论\"100%的文本很可能是AI-generated\"。"
-              },
-              {
-                "t": "p",
-                "x": "Taylor & Francis表示，此事已提交其Editorial and Publishing Ethics & Integrity团队处理。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un estudio AI-assisted cita\nun artículo que no existe",
-          "body": "Un estudio sobre Z-Library, escrito con ayuda declarada de AI, cita un artículo de TorrentFreak que no existe.",
-          "mini_headline": "Un estudio cita un artículo fantasma",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Un estudio sobre Z-Library, publicado este mes en la revista New Review of Academic Librarianship por dos bibliotecarios de universidades nigerianas, cita un artículo de TorrentFreak de 2021 que no existe."
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/zlib-paper-claim.png",
-                "cap": "La afirmación"
-              },
-              {
-                "t": "p",
-                "x": "La referencia, \"Publishers continue crackdown on shadow libraries\", enlaza a la página principal de TorrentFreak, pero nunca se publicó un artículo con ese título. En total, TorrentFreak tuvo dificultades para encontrar al menos diez de las 44 referencias del estudio."
-              },
-              {
-                "t": "img",
-                "src": "https://torrentfreak.com/images/citations-600x314.png",
-                "cap": "Algunas referencias"
-              },
-              {
-                "t": "p",
-                "x": "Los agradecimientos indican que se usó Consensus AI para revisar la literatura y ChatGPT para mejorar la redacción. Se sabe que los chatbots de AI inventan referencias, aunque esto no prueba que la AI las haya escrito. Pangram calificó el resumen y la conclusión con \"es probable que el 100% del texto sea AI-generated\"."
-              },
-              {
-                "t": "p",
-                "x": "Taylor & Francis afirma que el asunto se remitió a sus equipos de Editorial and Publishing Ethics & Integrity."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "books-publishers-trust-not-ai-detectors",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "캐나다 출판사, AI를\n기술 대신 신뢰로 거른다",
-      "body": "AI 탐지기가 미덥지 않아 Coach House Books 등은 신뢰에 기댄다.",
-      "mini_headline": "출판사들, 신뢰로 AI를 거르다",
-      "tool": "Books",
-      "source": "The Canadian Press",
-      "url": "https://www.msn.com/en-ca/technology/artificial-intelligence/publishers-rely-on-trust-not-tech-to-ensure-books-aren-t-ai-generated/ar-AA2fWHju",
+      "source": "Impress AI Watch",
+      "url": "https://ai.watch.impress.co.jp/docs/news/2149258.html",
       "accent": "#7928ca",
       "motif": "swatch",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fVY8R.img",
-            "cap": "Toronto의 North York Central Library 서가에 꽂힌 책들. THE CANADIAN PRESS/Chris Young"
+            "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/00_l.jpg"
           },
           {
             "t": "p",
-            "x": "AI가 썼는지 확실히 가려낼 기술이 없으니 신뢰에 기댈 수밖에 없다고 말하는 캐나다 출판사들이 있다."
+            "x": "LINE Digital Frontier는 10월 19일 전자 코믹 서비스 ‘LINE망가’에 AI 스토리 채팅 ‘byUs(바이어스)’를 출시했다."
           },
           {
             "t": "p",
-            "x": "Coach House Books의 편집 디렉터 Alana Wilcox는 회사가 작가들에게 AI-generated 자료를 솔직하게 밝혀 달라고 요청한다고 말했다. 기존 탐지 도구는 믿기 어렵고 문제가 많다는 게 이미 드러났다고 덧붙였다."
+            "x": "‘byUs’에서는 사용자가 원작 스토리의 주인공이 되어 자기만의 이야기를 만든다. 오리지널·독점 연재작을 바탕으로 공식이 제공하는 ‘Official Story’, 사용자가 직접 만드는 ‘팬 스토리’ 2가지가 있고, 캐릭터와 주고받으며 새 이야기를 엮어 간다."
           },
           {
             "t": "p",
-            "x": "이 문제가 주목받은 건 Montreal의 Les Éditions du Boréal이 메타데이터에서 소설의 AI 사용 흔적이 보였다며 작가 Thélyson Orélien과 관계를 끊은 뒤다. Orélien은 소설을 쓰는 데 AI를 쓰지 않았다고 부인했다."
+            "x": "Official Story에서는 원작의 세계관과 캐릭터 설정으로 짠 도입부가 끝나면 사용자가 캐릭터와 대화하며 새 이야기를 펼친다. 팬 스토리는 원작 캐릭터로 새로운 상황과 관계를 설정해 창작 스토리를 즐기는 방식이다. 직접 만든 팬 스토리는 다른 사용자에게 공개할 수도 있다."
           },
           {
             "t": "p",
-            "x": "ECW Press의 공동 발행인 David Caron은 계약서의 보증 조항에서 AI를 다룬다고 말했다. Association of Canadian Publishers 회장 Lisa Quinn은 탐지 도구가 \"진실이 아니라 그럴듯함(truthiness rather than truth)\"에 기반한다며, 정책은 신뢰 관계 위에 세워야 한다고 말했다."
+            "x": "‘byUs’는 대화를 매끄럽게 이어 주는 ‘추천 답변’과 ‘오토플레이’, 장면에 맞는 이미지를 띄우는 ‘스냅샷’, 호감도 레벨에 따라 이미지를 차례로 여는 ‘스페셜 컷’ 같은 기능도 갖췄다."
+          },
+          {
+            "t": "p",
+            "x": "대상 작품은 원작자가 승인한 공식 IP로 한정된다. 제1탄에는 ‘옆자리 엔지니어 씨가 이직하고 싶은 모양입니다.’(원작 Woo Si-mok, 작화 Lee Ha-an)의 조이와 에스더, ‘작전명은 순정’(글 kkokkalee, 그림 Dledumb)의 다치바나 렌(橘蓮)과 모모타니 레오(百谷玲央)가 들어갔고, 캐릭터는 앞으로 더 늘린다."
+          },
+          {
+            "t": "img",
+            "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/1_l.png"
+          },
+          {
+            "t": "img",
+            "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/2_l.png"
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Canadian publishers screen\nfor AI on trust, not tech",
-          "body": "With AI detectors unreliable, presses such as Coach House Books ask writers to disclose AI material and rely on trust.",
-          "mini_headline": "Publishers screen\nfor AI on trust",
+        "ja": {
+          "headline": "LINEマンガ、公式キャラと\n物語を作るAIチャット",
+          "body": "LINEマンガが、公式キャラと読者が物語を共作するAIチャット「byUs」を始めた。",
+          "mini_headline": "LINEマンガがbyUs開始",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fVY8R.img",
-                "cap": "Books line shelves at the North York Central Library in Toronto. THE CANADIAN PRESS/Chris Young"
+                "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/00_l.jpg"
               },
               {
                 "t": "p",
-                "x": "In the absence of surefire technology to determine whether something was written by AI, some Canadian publishers say they have to rely on trust."
+                "x": "LINE Digital Frontierは10月19日、電子コミックサービス「LINEマンガ」において、AIストーリーチャット「byUs（バイアス）」をリリースした。"
               },
               {
                 "t": "p",
-                "x": "Alana Wilcox, editorial director of Coach House Books, said the company asks writers to be upfront about AI-generated material, and that existing detection tools have proven unreliable and problematic."
+                "x": "「byUs」は、ユーザーが原作のストーリーの主人公となり、自分だけの物語を創作できるAIストーリーチャットサービス。オリジナル・独占配信作品をもとに、公式が提供する「Official Story」と、ユーザーが創作する「ファンストーリー」の2つが用意されており、キャラクターとの交流を通して新たなストーリーを紡ぐことができる。"
               },
               {
                 "t": "p",
-                "x": "The attention follows Montreal's Les Éditions du Boréal cutting ties with author Thélyson Orélien, saying metadata showed AI use in his novel; he denied using AI to write it."
+                "x": "Official Storyでは、原作の世界観とキャラクター設定をもとに構成された序盤以降、ユーザーがキャラクターと会話して新しい物語が展開される。一方のファンストーリーでは、原作のキャラクターを基盤に、新たな状況や関係性を設定して創作ストーリーを楽しめる。自身で創作したファンストーリーを他のユーザーに公開することも可能だ。"
               },
               {
                 "t": "p",
-                "x": "ECW Press co-publisher David Caron said its contracts address AI in the warranty clause. Lisa Quinn, president of the Association of Canadian Publishers, said detection tools are built on \"truthiness rather than truth\" and that policy must be built on a relationship of trust."
+                "x": "さらに、「byUs」では、スムーズな会話の流れを助ける「おすすめの回答」や「オートプレイ」、状況に合ったイメージ画像を提供する「スナップショット」、好感度レベルに応じてイメージ画像が順次提供される「スペシャルカット」などの機能も搭載している。"
+              },
+              {
+                "t": "p",
+                "x": "なお、取り扱える作品は、原作者が承認した公式IPのみとなっている。第1弾としては、「隣の席のエンジニアさんが転職したいようです。」（原作：Woo Si-mok 作画：Lee Ha-an）からはジョイとエスターが、「作戦名は純情」（文：kkokkalee 絵：Dledumb）からは橘蓮と百谷玲央が実装された。今後はさらに実装キャラクターが増えていく予定だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/1_l.png"
+              },
+              {
+                "t": "img",
+                "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/2_l.png"
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "LINE Manga launches AI chat\nfor stories with official cast",
+          "body": "LINE Manga has launched byUs, an AI chat where readers co-create stories with official characters.",
+          "mini_headline": "LINE Manga launches byUs",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/00_l.jpg"
+              },
+              {
+                "t": "p",
+                "x": "On October 19, LINE Digital Frontier released byUs (read as “bias”), an AI story chat, on its e-comic service LINE Manga."
+              },
+              {
+                "t": "p",
+                "x": "byUs is an AI story chat service in which users become the protagonist of the original story and create stories of their own. Built on original and exclusive titles, it offers 2 modes, the officially provided Official Story and user-created Fan Stories, letting users spin new stories by interacting with the characters."
+              },
+              {
+                "t": "p",
+                "x": "In Official Story, after an opening built on the original work’s world and character settings, a new story unfolds as the user talks with the characters. In Fan Stories, users build on the original characters, set up new situations and relationships, and enjoy stories of their own making. Users can also publish the fan stories they create to other users."
+              },
+              {
+                "t": "p",
+                "x": "byUs also includes features such as Suggested Replies and Autoplay, which help keep conversations flowing; Snapshot, which provides images that match the situation; and Special Cut, which delivers images one after another according to affinity level."
+              },
+              {
+                "t": "p",
+                "x": "Only official IP approved by the original creators is available. In the 1st wave, Joy and Esther from “The Engineer in the Next Seat Seems to Want to Change Jobs.” (original story: Woo Si-mok, art: Lee Ha-an) and Ren Tachibana (橘蓮) and Reo Momotani (百谷玲央) from “Operation Name: Pure Love” (story: kkokkalee, art: Dledumb) were added. More characters are planned."
+              },
+              {
+                "t": "img",
+                "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/1_l.png"
+              },
+              {
+                "t": "img",
+                "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/2_l.png"
               }
             ]
           }
         },
         "ko": {
-          "headline": "캐나다 출판사, AI를\n기술 대신 신뢰로 거른다",
-          "body": "AI 탐지기가 미덥지 않아 Coach House Books 등은 신뢰에 기댄다.",
-          "mini_headline": "출판사들, 신뢰로 AI를 거르다",
+          "headline": "LINE망가 공식 캐릭터와\n이야기 짓는 AI 채팅",
+          "body": "LINE망가가 공식 캐릭터와 이야기를 함께 쓰는 AI 채팅 byUs를 시작했다.",
+          "mini_headline": "LINE망가, byUs 시작",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fVY8R.img",
-                "cap": "Toronto의 North York Central Library 서가에 꽂힌 책들. THE CANADIAN PRESS/Chris Young"
+                "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/00_l.jpg"
               },
               {
                 "t": "p",
-                "x": "AI가 썼는지 확실히 가려낼 기술이 없으니 신뢰에 기댈 수밖에 없다고 말하는 캐나다 출판사들이 있다."
+                "x": "LINE Digital Frontier는 10월 19일 전자 코믹 서비스 ‘LINE망가’에 AI 스토리 채팅 ‘byUs(바이어스)’를 출시했다."
               },
               {
                 "t": "p",
-                "x": "Coach House Books의 편집 디렉터 Alana Wilcox는 회사가 작가들에게 AI-generated 자료를 솔직하게 밝혀 달라고 요청한다고 말했다. 기존 탐지 도구는 믿기 어렵고 문제가 많다는 게 이미 드러났다고 덧붙였다."
+                "x": "‘byUs’에서는 사용자가 원작 스토리의 주인공이 되어 자기만의 이야기를 만든다. 오리지널·독점 연재작을 바탕으로 공식이 제공하는 ‘Official Story’, 사용자가 직접 만드는 ‘팬 스토리’ 2가지가 있고, 캐릭터와 주고받으며 새 이야기를 엮어 간다."
               },
               {
                 "t": "p",
-                "x": "이 문제가 주목받은 건 Montreal의 Les Éditions du Boréal이 메타데이터에서 소설의 AI 사용 흔적이 보였다며 작가 Thélyson Orélien과 관계를 끊은 뒤다. Orélien은 소설을 쓰는 데 AI를 쓰지 않았다고 부인했다."
+                "x": "Official Story에서는 원작의 세계관과 캐릭터 설정으로 짠 도입부가 끝나면 사용자가 캐릭터와 대화하며 새 이야기를 펼친다. 팬 스토리는 원작 캐릭터로 새로운 상황과 관계를 설정해 창작 스토리를 즐기는 방식이다. 직접 만든 팬 스토리는 다른 사용자에게 공개할 수도 있다."
               },
               {
                 "t": "p",
-                "x": "ECW Press의 공동 발행인 David Caron은 계약서의 보증 조항에서 AI를 다룬다고 말했다. Association of Canadian Publishers 회장 Lisa Quinn은 탐지 도구가 \"진실이 아니라 그럴듯함(truthiness rather than truth)\"에 기반한다며, 정책은 신뢰 관계 위에 세워야 한다고 말했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "カナダの出版社、AI判定は\n技術より信頼で",
-          "body": "AI検出が当てにならず、Coach House Booksなどは開示と信頼に頼る。",
-          "mini_headline": "出版社は信頼でAIを見極める",
-          "full": {
-            "mode": "summary",
-            "blocks": [
+                "x": "‘byUs’는 대화를 매끄럽게 이어 주는 ‘추천 답변’과 ‘오토플레이’, 장면에 맞는 이미지를 띄우는 ‘스냅샷’, 호감도 레벨에 따라 이미지를 차례로 여는 ‘스페셜 컷’ 같은 기능도 갖췄다."
+              },
+              {
+                "t": "p",
+                "x": "대상 작품은 원작자가 승인한 공식 IP로 한정된다. 제1탄에는 ‘옆자리 엔지니어 씨가 이직하고 싶은 모양입니다.’(원작 Woo Si-mok, 작화 Lee Ha-an)의 조이와 에스더, ‘작전명은 순정’(글 kkokkalee, 그림 Dledumb)의 다치바나 렌(橘蓮)과 모모타니 레오(百谷玲央)가 들어갔고, 캐릭터는 앞으로 더 늘린다."
+              },
               {
                 "t": "img",
-                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fVY8R.img",
-                "cap": "TorontoのNorth York Central Libraryの書棚に並ぶ本。THE CANADIAN PRESS/Chris Young"
+                "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/1_l.png"
               },
               {
-                "t": "p",
-                "x": "AIが書いたかどうかを確実に判定できる技術がない中、カナダの一部の出版社は信頼に頼るしかないと話す。"
-              },
-              {
-                "t": "p",
-                "x": "Coach House Booksの編集ディレクター、Alana Wilcoxは、同社が作家にAI-generatedの素材について率直に申告するよう求めていると述べた。既存の検出ツールは信頼性が低く、問題が多いことがわかっているという。"
-              },
-              {
-                "t": "p",
-                "x": "この関心は、MontrealのLes Éditions du Boréalが、メタデータから小説でのAI使用がうかがえるとして作家Thélyson Orélienとの関係を断ったことを受けたものだ。Orélienは執筆にAIを使ったことを否定している。"
-              },
-              {
-                "t": "p",
-                "x": "ECW Pressの共同発行人David Caronは、同社の契約では保証条項でAIを扱っていると述べた。Association of Canadian Publishersの会長Lisa Quinnは、検出ツールは「truthではなくtruthiness(真実らしさ)」に基づいていると指摘し、方針は信頼関係の上に築くべきだと語った。"
+                "t": "img",
+                "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/2_l.png"
               }
             ]
           }
         },
         "zh": {
-          "headline": "加拿大出版商鉴别AI\n靠信任而非技术",
-          "body": "AI检测工具不可靠，Coach House Books等要求作者披露AI内容并依靠信任。",
-          "mini_headline": "出版商靠信任鉴别AI",
+          "headline": "LINE漫画推出与官方\n角色共创的AI聊天",
+          "body": "LINE漫画推出AI聊天“byUs”，读者可与官方角色共同创作故事。",
+          "mini_headline": "LINE漫画上线byUs",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fVY8R.img",
-                "cap": "Toronto的North York Central Library书架上摆满图书。THE CANADIAN PRESS/Chris Young"
+                "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/00_l.jpg"
               },
               {
                 "t": "p",
-                "x": "由于缺乏能确切判断内容是否由AI撰写的技术，一些加拿大出版商表示只能依靠信任。"
+                "x": "LINE Digital Frontier于10月19日在电子漫画服务“LINE漫画”上推出AI故事聊天“byUs”（读作“bias”）。"
               },
               {
                 "t": "p",
-                "x": "Coach House Books编辑总监Alana Wilcox表示，公司要求作者如实说明AI-generated内容，而现有检测工具已被证明不可靠且问题重重。"
+                "x": "“byUs”是一项AI故事聊天服务，用户可以成为原作故事的主角，创作属于自己的故事。它以原创及独家连载作品为基础，提供官方的“Official Story”和用户创作的“粉丝故事”2种玩法，用户可通过与角色互动编织新的故事。"
               },
               {
                 "t": "p",
-                "x": "此前，Montreal的Les Éditions du Boréal称元数据显示作家Thélyson Orélien的小说使用了AI，并与其解约；Orélien否认用AI写作。"
+                "x": "在Official Story中，开篇依据原作的世界观和角色设定构成，此后用户与角色对话，展开新的故事。粉丝故事则以原作角色为基础，用户可设定新的情境和关系，享受创作故事的乐趣。用户还可以把自己创作的粉丝故事公开给其他用户。"
               },
               {
                 "t": "p",
-                "x": "ECW Press联合出版人David Caron表示，其合同在保证条款中涉及AI。Association of Canadian Publishers主席Lisa Quinn表示，检测工具建立在\"truthiness rather than truth\"（似真而非真实）之上，政策必须建立在信任关系之上。"
+                "x": "此外，“byUs”还配备了帮助对话顺畅进行的“推荐回复”和“自动播放”、提供符合情境图片的“快照”，以及根据好感度等级依次提供图片的“特别画面”等功能。"
+              },
+              {
+                "t": "p",
+                "x": "可使用的作品仅限原作者认可的官方IP。第1弹上线了《邻座的工程师先生好像想跳槽。》（原作：Woo Si-mok，作画：Lee Ha-an）中的乔伊和以斯帖，以及《作战代号是纯情》（文：kkokkalee，绘：Dledumb）中的橘莲和百谷玲央。今后还将陆续增加角色。"
+              },
+              {
+                "t": "img",
+                "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/1_l.png"
+              },
+              {
+                "t": "img",
+                "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/2_l.png"
               }
             ]
           }
         },
         "es": {
-          "headline": "Editoriales canadienses filtran\nla AI con confianza, no técnica",
-          "body": "Ante detectores de AI poco fiables, editoriales como Coach House Books piden transparencia y se fían de los autores.",
-          "mini_headline": "Editoriales filtran la AI con confianza",
+          "headline": "LINE Manga lanza un chat de AI\ncon sus personajes oficiales",
+          "body": "LINE Manga lanzó byUs, un chat de AI en el que los lectores crean historias junto a personajes oficiales.",
+          "mini_headline": "LINE Manga lanza byUs",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fVY8R.img",
-                "cap": "Libros en los estantes de la North York Central Library, en Toronto. THE CANADIAN PRESS/Chris Young"
+                "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/00_l.jpg"
               },
               {
                 "t": "p",
-                "x": "A falta de una tecnología infalible para determinar si algo fue escrito por AI, algunas editoriales canadienses dicen que deben apoyarse en la confianza."
+                "x": "El 19 de octubre, LINE Digital Frontier lanzó byUs (pronunciado «bias»), un chat de historias con AI, en su servicio de cómics digitales LINE Manga."
               },
               {
                 "t": "p",
-                "x": "Alana Wilcox, directora editorial de Coach House Books, dijo que la empresa pide a los autores que sean transparentes sobre el material AI-generated y que las herramientas de detección existentes han resultado poco fiables y problemáticas."
+                "x": "byUs es un servicio de chat de historias con AI en el que el usuario se convierte en protagonista de la historia original y crea un relato propio. A partir de obras originales y exclusivas, ofrece 2 modalidades: Official Story, proporcionada de forma oficial, y las historias de fans creadas por los usuarios, que permiten tejer nuevas tramas al interactuar con los personajes."
               },
               {
                 "t": "p",
-                "x": "La atención llega después de que Les Éditions du Boréal, de Montreal, rompiera con el autor Thélyson Orélien al afirmar que los metadatos mostraban uso de AI en su novela; él negó haber usado AI para escribirla."
+                "x": "En Official Story, tras un inicio construido sobre el mundo y los personajes de la obra original, la nueva historia avanza a medida que el usuario conversa con los personajes. En las historias de fans, el usuario plantea situaciones y relaciones nuevas a partir de los personajes originales y disfruta de su propia creación. También puede publicar para otros usuarios las historias de fans que haya creado."
               },
               {
                 "t": "p",
-                "x": "David Caron, coeditor de ECW Press, dijo que sus contratos abordan la AI en la cláusula de garantía. Lisa Quinn, presidenta de la Association of Canadian Publishers, afirmó que las herramientas de detección se basan en la \"truthiness rather than truth\" (apariencia de verdad más que verdad) y que las políticas deben construirse sobre una relación de confianza."
+                "x": "byUs incluye además funciones como «Respuestas sugeridas» y «Reproducción automática», que facilitan la conversación; «Instantánea», que ofrece imágenes acordes con la situación; y «Corte especial», que entrega imágenes de forma progresiva según el nivel de afinidad."
+              },
+              {
+                "t": "p",
+                "x": "Solo están disponibles las IP oficiales aprobadas por sus autores. En la 1.ª tanda se incorporaron Joy y Esther de «Parece que el ingeniero del asiento de al lado quiere cambiar de trabajo.» (historia original: Woo Si-mok; dibujo: Lee Ha-an), y Ren Tachibana (橘蓮) y Reo Momotani (百谷玲央) de «La operación se llama amor puro» (texto: kkokkalee; ilustración: Dledumb). Está previsto añadir más personajes."
+              },
+              {
+                "t": "img",
+                "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/1_l.png"
+              },
+              {
+                "t": "img",
+                "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/2_l.png"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "캐나다 출판사, AI를\n기술 대신 신뢰로 거른다",
-          "body": "AI 탐지기가 미덥지 않아 Coach House Books 등은 신뢰에 기댄다.",
-          "mini_headline": "출판사들, 신뢰로 AI를 거르다",
+        "en": {
+          "headline": "LINE Manga launches AI chat\nfor stories with official cast",
+          "body": "LINE Manga has launched byUs, an AI chat where readers co-create stories with official characters.",
+          "mini_headline": "LINE Manga launches byUs",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fVY8R.img",
-                "cap": "Toronto의 North York Central Library 서가에 꽂힌 책들. THE CANADIAN PRESS/Chris Young"
+                "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/00_l.jpg"
               },
               {
                 "t": "p",
-                "x": "AI가 썼는지 확실히 가려낼 기술이 없는 상황에서, 일부 캐나다 출판사는 신뢰에 기댈 수밖에 없다고 말한다."
+                "x": "On October 19, LINE Digital Frontier released byUs (read as “bias”), an AI story chat, on its e-comic service LINE Manga."
               },
               {
                 "t": "p",
-                "x": "Coach House Books의 편집 디렉터 Alana Wilcox는 회사가 작가들에게 AI-generated 자료를 솔직하게 밝혀 달라고 요청한다고 말했다. 기존 탐지 도구는 믿기 어렵고 문제가 많다는 사실이 드러났다고 덧붙였다."
+                "x": "byUs is an AI story chat service in which users become the protagonist of the original story and create stories of their own. Built on original and exclusive titles, it offers 2 modes, the officially provided Official Story and user-created Fan Stories, letting users spin new stories by interacting with the characters."
               },
               {
                 "t": "p",
-                "x": "이런 관심은 Montreal의 Les Éditions du Boréal이 메타데이터에서 소설의 AI 사용 흔적이 보였다며 작가 Thélyson Orélien과 관계를 끊은 뒤 이어졌다. Orélien은 소설을 쓰는 데 AI를 쓰지 않았다고 부인했다."
+                "x": "In Official Story, after an opening built on the original work’s world and character settings, a new story unfolds as the user talks with the characters. In Fan Stories, users build on the original characters, set up new situations and relationships, and enjoy stories of their own making. Users can also publish the fan stories they create to other users."
               },
               {
                 "t": "p",
-                "x": "ECW Press의 공동 발행인 David Caron은 계약서의 보증 조항에서 AI를 다룬다고 말했다. Association of Canadian Publishers 회장 Lisa Quinn은 탐지 도구가 \"진실이 아니라 그럴듯함(truthiness rather than truth)\"에 기반한다며, 정책은 신뢰 관계 위에 세워야 한다고 말했다."
+                "x": "byUs also includes features such as Suggested Replies and Autoplay, which help keep conversations flowing; Snapshot, which provides images that match the situation; and Special Cut, which delivers images one after another according to affinity level."
+              },
+              {
+                "t": "p",
+                "x": "Only official IP approved by the original creators is available. In the 1st wave, Joy and Esther from “The Engineer in the Next Seat Seems to Want to Change Jobs.” (original story: Woo Si-mok, art: Lee Ha-an) and Ren Tachibana (橘蓮) and Reo Momotani (百谷玲央) from “Operation Name: Pure Love” (story: kkokkalee, art: Dledumb) were added. More characters are planned."
+              },
+              {
+                "t": "img",
+                "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/1_l.png"
+              },
+              {
+                "t": "img",
+                "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/2_l.png"
               }
             ]
           }
         },
-        "ja": {
-          "headline": "カナダの出版社、AI判定は\n技術より信頼で",
-          "body": "AI検出が当てにならず、Coach House Booksなどは開示と信頼に頼る。",
-          "mini_headline": "出版社は信頼でAIを見極める",
+        "ko": {
+          "headline": "LINE망가 공식 캐릭터와\n이야기 짓는 AI 채팅",
+          "body": "LINE망가가 공식 캐릭터와 이야기를 함께 쓰는 AI 채팅 byUs를 시작했다.",
+          "mini_headline": "LINE망가, byUs 시작",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fVY8R.img",
-                "cap": "TorontoのNorth York Central Libraryの書棚に並ぶ本。THE CANADIAN PRESS/Chris Young"
+                "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/00_l.jpg"
               },
               {
                 "t": "p",
-                "x": "AIが書いたかどうかを確実に判定できる技術がない中、カナダの一部の出版社は信頼に頼るしかないと話す。"
+                "x": "LINE Digital Frontier는 10월 19일 전자 코믹 서비스 ‘LINE망가’에 AI 스토리 채팅 ‘byUs(바이어스)’를 출시했다."
               },
               {
                 "t": "p",
-                "x": "Coach House Booksの編集ディレクター、Alana Wilcoxは、同社が作家にAI-generatedの素材について率直に申告するよう求めていると述べた。既存の検出ツールは信頼性が低く、問題が多いことがわかっているという。"
+                "x": "‘byUs’는 사용자가 원작 스토리의 주인공이 되어 자신만의 이야기를 만들 수 있는 AI 스토리 채팅 서비스다. 오리지널·독점 연재작을 바탕으로 공식이 제공하는 ‘Official Story’와 사용자가 만드는 ‘팬 스토리’ 2가지를 갖췄고, 캐릭터와 교류하며 새로운 이야기를 엮어 갈 수 있다."
               },
               {
                 "t": "p",
-                "x": "この関心は、MontrealのLes Éditions du Boréalが、メタデータから小説でのAI使用がうかがえるとして作家Thélyson Orélienとの関係を断ったことを受けたものだ。Orélienは執筆にAIを使ったことを否定している。"
+                "x": "Official Story에서는 원작의 세계관과 캐릭터 설정으로 짠 도입부가 끝나면 사용자가 캐릭터와 대화하며 새 이야기를 펼친다. 팬 스토리에서는 원작 캐릭터를 바탕으로 새로운 상황과 관계를 설정해 창작 스토리를 즐길 수 있다. 직접 만든 팬 스토리를 다른 사용자에게 공개할 수도 있다."
               },
               {
                 "t": "p",
-                "x": "ECW Pressの共同発行人David Caronは、同社の契約では保証条項でAIを扱っていると述べた。Association of Canadian Publishersの会長Lisa Quinnは、検出ツールは「truthではなくtruthiness(真実らしさ)」に基づいていると指摘し、方針は信頼関係の上に築くべきだと語った。"
+                "x": "‘byUs’에는 매끄러운 대화를 돕는 ‘추천 답변’과 ‘오토플레이’, 상황에 맞는 이미지를 보여 주는 ‘스냅샷’, 호감도 레벨에 따라 이미지를 차례로 제공하는 ‘스페셜 컷’ 같은 기능도 있다."
+              },
+              {
+                "t": "p",
+                "x": "이용할 수 있는 작품은 원작자가 승인한 공식 IP뿐이다. 제1탄으로 ‘옆자리 엔지니어 씨가 이직하고 싶은 모양입니다.’(원작 Woo Si-mok, 작화 Lee Ha-an)의 조이와 에스더, ‘작전명은 순정’(글 kkokkalee, 그림 Dledumb)의 다치바나 렌(橘蓮)과 모모타니 레오(百谷玲央)가 들어갔다. 앞으로 캐릭터를 더 늘릴 예정이다."
+              },
+              {
+                "t": "img",
+                "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/1_l.png"
+              },
+              {
+                "t": "img",
+                "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/2_l.png"
               }
             ]
           }
         },
         "zh": {
-          "headline": "加拿大出版商鉴别AI\n靠信任而非技术",
-          "body": "AI检测工具不可靠，Coach House Books等要求作者披露AI内容并依靠信任。",
-          "mini_headline": "出版商靠信任鉴别AI",
+          "headline": "LINE漫画推出与官方\n角色共创的AI聊天",
+          "body": "LINE漫画推出AI聊天“byUs”，读者可与官方角色共同创作故事。",
+          "mini_headline": "LINE漫画上线byUs",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fVY8R.img",
-                "cap": "Toronto的North York Central Library书架上摆满图书。THE CANADIAN PRESS/Chris Young"
+                "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/00_l.jpg"
               },
               {
                 "t": "p",
-                "x": "由于缺乏能确切判断内容是否由AI撰写的技术，一些加拿大出版商表示只能依靠信任。"
+                "x": "LINE Digital Frontier于10月19日在电子漫画服务“LINE漫画”上推出AI故事聊天“byUs”（读作“bias”）。"
               },
               {
                 "t": "p",
-                "x": "Coach House Books编辑总监Alana Wilcox表示，公司要求作者如实说明AI-generated内容，而现有检测工具已被证明不可靠且问题重重。"
+                "x": "“byUs”是一项AI故事聊天服务，用户可以成为原作故事的主角，创作属于自己的故事。它以原创及独家连载作品为基础，提供官方的“Official Story”和用户创作的“粉丝故事”2种玩法，用户可通过与角色互动编织新的故事。"
               },
               {
                 "t": "p",
-                "x": "此前，Montreal的Les Éditions du Boréal称元数据显示作家Thélyson Orélien的小说使用了AI，并与其解约；Orélien否认用AI写作。"
+                "x": "在Official Story中，开篇依据原作的世界观和角色设定构成，此后用户与角色对话，展开新的故事。粉丝故事则以原作角色为基础，用户可设定新的情境和关系，享受创作故事的乐趣。用户还可以把自己创作的粉丝故事公开给其他用户。"
               },
               {
                 "t": "p",
-                "x": "ECW Press联合出版人David Caron表示，其合同在保证条款中涉及AI。Association of Canadian Publishers主席Lisa Quinn表示，检测工具建立在\"truthiness rather than truth\"（似真而非真实）之上，政策必须建立在信任关系之上。"
+                "x": "此外，“byUs”还配备了帮助对话顺畅进行的“推荐回复”和“自动播放”、提供符合情境图片的“快照”，以及根据好感度等级依次提供图片的“特别画面”等功能。"
+              },
+              {
+                "t": "p",
+                "x": "可使用的作品仅限原作者认可的官方IP。第1弹上线了《邻座的工程师先生好像想跳槽。》（原作：Woo Si-mok，作画：Lee Ha-an）中的乔伊和以斯帖，以及《作战代号是纯情》（文：kkokkalee，绘：Dledumb）中的橘莲和百谷玲央。今后还将陆续增加角色。"
+              },
+              {
+                "t": "img",
+                "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/1_l.png"
+              },
+              {
+                "t": "img",
+                "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/2_l.png"
               }
             ]
           }
         },
         "es": {
-          "headline": "Editoriales canadienses filtran\nla AI con confianza, no técnica",
-          "body": "Ante detectores de AI poco fiables, editoriales como Coach House Books piden transparencia y se fían de los autores.",
-          "mini_headline": "Editoriales filtran la AI con confianza",
+          "headline": "LINE Manga lanza un chat de AI\ncon sus personajes oficiales",
+          "body": "LINE Manga lanzó byUs, un chat de AI en el que los lectores crean historias junto a personajes oficiales.",
+          "mini_headline": "LINE Manga lanza byUs",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fVY8R.img",
-                "cap": "Libros en los estantes de la North York Central Library, en Toronto. THE CANADIAN PRESS/Chris Young"
+                "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/00_l.jpg"
               },
               {
                 "t": "p",
-                "x": "A falta de una tecnología infalible para determinar si algo fue escrito por AI, algunas editoriales canadienses dicen que deben apoyarse en la confianza."
+                "x": "El 19 de octubre, LINE Digital Frontier lanzó byUs (pronunciado «bias»), un chat de historias con AI, en su servicio de cómics digitales LINE Manga."
               },
               {
                 "t": "p",
-                "x": "Alana Wilcox, directora editorial de Coach House Books, dijo que la empresa pide a los autores que sean transparentes sobre el material AI-generated y que las herramientas de detección existentes han resultado poco fiables y problemáticas."
+                "x": "byUs es un servicio de chat de historias con AI en el que el usuario se convierte en protagonista de la historia original y crea un relato propio. A partir de obras originales y exclusivas, ofrece 2 modalidades: Official Story, proporcionada de forma oficial, y las historias de fans creadas por los usuarios, que permiten tejer nuevas tramas al interactuar con los personajes."
               },
               {
                 "t": "p",
-                "x": "La atención llega después de que Les Éditions du Boréal, de Montreal, rompiera con el autor Thélyson Orélien al afirmar que los metadatos mostraban uso de AI en su novela; él negó haber usado AI para escribirla."
+                "x": "En Official Story, tras un inicio construido sobre el mundo y los personajes de la obra original, la nueva historia avanza a medida que el usuario conversa con los personajes. En las historias de fans, el usuario plantea situaciones y relaciones nuevas a partir de los personajes originales y disfruta de su propia creación. También puede publicar para otros usuarios las historias de fans que haya creado."
               },
               {
                 "t": "p",
-                "x": "David Caron, coeditor de ECW Press, dijo que sus contratos abordan la AI en la cláusula de garantía. Lisa Quinn, presidenta de la Association of Canadian Publishers, afirmó que las herramientas de detección se basan en la \"truthiness rather than truth\" (apariencia de verdad más que verdad) y que las políticas deben construirse sobre una relación de confianza."
+                "x": "byUs incluye además funciones como «Respuestas sugeridas» y «Reproducción automática», que facilitan la conversación; «Instantánea», que ofrece imágenes acordes con la situación; y «Corte especial», que entrega imágenes de forma progresiva según el nivel de afinidad."
+              },
+              {
+                "t": "p",
+                "x": "Solo están disponibles las IP oficiales aprobadas por sus autores. En la 1.ª tanda se incorporaron Joy y Esther de «Parece que el ingeniero del asiento de al lado quiere cambiar de trabajo.» (historia original: Woo Si-mok; dibujo: Lee Ha-an), y Ren Tachibana (橘蓮) y Reo Momotani (百谷玲央) de «La operación se llama amor puro» (texto: kkokkalee; ilustración: Dledumb). Está previsto añadir más personajes."
+              },
+              {
+                "t": "img",
+                "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/1_l.png"
+              },
+              {
+                "t": "img",
+                "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/2_l.png"
               }
             ]
           }
@@ -1069,195 +707,189 @@
       }
     },
     {
-      "id": "books-coral-hart-370-ai-books",
+      "id": "books-lrb-shelf-ai-novels",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "20개월에 370권\nAI-assisted 논란",
-      "body": "Coral Hart는 2025년 2월부터 AI로 370권 넘게 내 반발을 샀다.",
-      "mini_headline": "20개월에 AI 책 370권",
+      "headline": "한 서점, AI 소설을\n표시 붙여 팔까 고민",
+      "body": "희귀서 사재기 속, 서점 사장은 수요와 표시만 있으면 AI 소설도 팔겠다고 했다.",
+      "mini_headline": "AI 소설 입고 고민",
       "tool": "Books",
-      "source": "Times Now",
-      "url": "https://www.timesnownews.com/lifestyle/books/370-books-in-20-months-has-made-this-author-famous-for-all-the-wrong-reasons-article-156391358",
+      "source": "London Review of Books (LRB Blog)",
+      "url": "https://www.lrb.co.uk/blog/2026/october/write-a-novel-in-thirty-days",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://images.timesnownews.com/thumb/msid-156391703,thumbsize-1276522,width-1280,height-720,resizemode-75/156391703.jpg"
+            "t": "p",
+            "x": "Alfred Nunney가 일하는 서점의 단골이 Penguin이 2018년에 낸 Giorgio Bassani의 The Novel of Ferrara 단권판을 그에게 보여 줬다. 지금은 Finzi-Continis의 정원만큼 구하기 힘든 책이다."
           },
           {
             "t": "p",
-            "x": "남아프리카공화국의 로맨스 소설가 Coral Hart는 2025년 2월 이후 AI를 활용해 370권이 넘는 책을 펴냈다고 말한다. 필명을 쓰는 Hart는 AFP에 수만 건의 혐오 메시지와 여러 건의 살해 협박을 받았다고 밝혔다."
+            "x": "영국(UK), 네덜란드, 북미의 중고 서점들에 이상한 대량 주문이 들어오고, 희귀서와 무명 도서가 갑자기 많이 팔린다. 대규모 언어 모델을 학습시킬 사람의 글을 찾는 AI 기업들이 주문한 것으로 추정된다."
           },
           {
             "t": "p",
-            "x": "Hart는 콘셉트, 문체, 인물, 장별 개요를 먼저 잡은 뒤 대화와 구조, 로맨스 장면에 각기 다른 AI 도구를 쓰고, AI-assisted 편집을 한 번 더 거친 다음 사람 교정자에게 원고 검토를 맡긴다."
-          },
-          {
-            "t": "img",
-            "src": "https://images.timesnownews.com/thumb/msid-156391707,width-1280,height-720,resizemode-75/156391707.jpg",
-            "cap": "AI의 도움으로 책 쓰기"
+            "x": "처음엔 ‘그림자 도서관’의 해적판 책을 썼다. 이 일로 Anthropic은 작가·출판사와 15억 달러 규모로 합의했고, OpenAI를 상대로 한 집단소송은 아직 진행 중이다. Anthropic은 이후 Google Books 출신 Tom Turvey를 ‘Project Panama’에 영입했다. ‘세상의 모든 책을 파괴적으로 스캔하려는 우리의 노력’이라는 이 프로젝트는 책등을 잘라 내 스캔한 뒤 책을 펄프로 만든다."
           },
           {
             "t": "p",
-            "x": "본인 추산으로 2026년 들어 지금까지 백만 부 넘게 팔았고 $1 million 넘게 벌었다. 모두 본인이 밝힌 수치다. 비평가들은 \"AI slop\"이라 부르지만 Hart는 돈을 낼 만한 이야기인지는 독자가 판단하면 된다고 말한다."
+            "x": "Novelcrafter와 Sudowrite 같은 도구는 AI로 줄거리 구성과 편집을 거든다. Sudowrite의 월 $22 ‘professional’ 요금제는 ‘삼십 일 만에 소설 쓰기’를 노리는 사람용이다."
+          },
+          {
+            "t": "p",
+            "x": "Nunney의 사장은 수요가 분명하고 표시만 명확하면 AI 소설도 팔겠다고 했다. 손님들 반응은 갈린다. 펄쩍 뛰며 반대하거나, 어깨를 으쓱하며 ‘차이를 모르겠다’고 한다. 추천을 부탁받으면 Nunney는 여전히 Bassani를 권한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "370 AI-assisted books in\n20 months, and a backlash",
-          "body": "Romance writer Coral Hart says she has published 370+ books with AI since February 2025, drawing backlash.",
-          "mini_headline": "370 AI books\nin 20 months",
+          "headline": "A bookseller weighs stocking\nAI novels with clear labels",
+          "body": "A bookseller sees AI firms buying up rare books for training; his boss would sell AI novels given demand and labels.",
+          "mini_headline": "Stocking AI novels",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156391703,thumbsize-1276522,width-1280,height-720,resizemode-75/156391703.jpg"
+                "t": "p",
+                "x": "A regular customer at the bookshop where Alfred Nunney works showed him Penguin’s 2018 single-volume edition of Giorgio Bassani’s The Novel of Ferrara — now almost as hard to find as the garden of the Finzi-Continis."
               },
               {
                 "t": "p",
-                "x": "South African romance novelist Coral Hart says she has published more than 370 books using AI since February 2025. Hart, a pseudonym, told AFP she has received tens of thousands of hateful messages and several death threats."
+                "x": "Second-hand booksellers in the UK, the Netherlands and North America report strange bulk orders and a spike in sales of rare and obscure titles, presumed to come from AI companies seeking human-written material to train large language models."
               },
               {
                 "t": "p",
-                "x": "She starts with the concept, style, characters and chapter outlines, uses different AI tools for dialogue, structure and romance scenes, runs further AI-assisted editing, and then a human proofreader checks the text."
-              },
-              {
-                "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156391707,width-1280,height-720,resizemode-75/156391707.jpg",
-                "cap": "Writing books with the help of AI"
+                "x": "The initial strategy was pirated books from ‘shadow libraries’, which led Anthropic to a $1.5 billion settlement with authors and publishers; a class action against OpenAI is ongoing. Anthropic then hired Tom Turvey, formerly of Google Books, for ‘Project Panama’ — ‘our effort to destructively scan all the books in the world’, cutting off spines and pulping the books after scanning."
               },
               {
                 "t": "p",
-                "x": "By her own estimates she has sold more than one million copies and earned over $1 million in 2026 so far; the figures are self-reported. Critics call it \"AI slop\"; Hart says readers can decide whether a story is worth their money."
+                "x": "Meanwhile tools like Novelcrafter and Sudowrite offer AI help with plotting and editing; Sudowrite’s ‘professional’ plan, at $22 a month, is for those whose goal is ‘to write a novel in thirty days’."
+              },
+              {
+                "t": "p",
+                "x": "Nunney’s boss has said he would sell AI novels if there were clear demand and clear labelling. Customers either vehemently reject the idea or shrug: ‘I don’t see the difference.’ Asked for a recommendation, Nunney still points them to Bassani."
               }
             ]
           }
         },
         "ko": {
-          "headline": "20개월에 370권\nAI-assisted 논란",
-          "body": "Coral Hart는 2025년 2월부터 AI로 370권 넘게 내 반발을 샀다.",
-          "mini_headline": "20개월에 AI 책 370권",
+          "headline": "한 서점, AI 소설을\n표시 붙여 팔까 고민",
+          "body": "희귀서 사재기 속, 서점 사장은 수요와 표시만 있으면 AI 소설도 팔겠다고 했다.",
+          "mini_headline": "AI 소설 입고 고민",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156391703,thumbsize-1276522,width-1280,height-720,resizemode-75/156391703.jpg"
+                "t": "p",
+                "x": "Alfred Nunney가 일하는 서점의 단골이 Penguin이 2018년에 낸 Giorgio Bassani의 The Novel of Ferrara 단권판을 그에게 보여 줬다. 지금은 Finzi-Continis의 정원만큼 구하기 힘든 책이다."
               },
               {
                 "t": "p",
-                "x": "남아프리카공화국의 로맨스 소설가 Coral Hart는 2025년 2월 이후 AI를 활용해 370권이 넘는 책을 펴냈다고 말한다. 필명을 쓰는 Hart는 AFP에 수만 건의 혐오 메시지와 여러 건의 살해 협박을 받았다고 밝혔다."
+                "x": "영국(UK), 네덜란드, 북미의 중고 서점들에 이상한 대량 주문이 들어오고, 희귀서와 무명 도서가 갑자기 많이 팔린다. 대규모 언어 모델을 학습시킬 사람의 글을 찾는 AI 기업들이 주문한 것으로 추정된다."
               },
               {
                 "t": "p",
-                "x": "Hart는 콘셉트, 문체, 인물, 장별 개요를 먼저 잡은 뒤 대화와 구조, 로맨스 장면에 각기 다른 AI 도구를 쓰고, AI-assisted 편집을 한 번 더 거친 다음 사람 교정자에게 원고 검토를 맡긴다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156391707,width-1280,height-720,resizemode-75/156391707.jpg",
-                "cap": "AI의 도움으로 책 쓰기"
+                "x": "처음엔 ‘그림자 도서관’의 해적판 책을 썼다. 이 일로 Anthropic은 작가·출판사와 15억 달러 규모로 합의했고, OpenAI를 상대로 한 집단소송은 아직 진행 중이다. Anthropic은 이후 Google Books 출신 Tom Turvey를 ‘Project Panama’에 영입했다. ‘세상의 모든 책을 파괴적으로 스캔하려는 우리의 노력’이라는 이 프로젝트는 책등을 잘라 내 스캔한 뒤 책을 펄프로 만든다."
               },
               {
                 "t": "p",
-                "x": "본인 추산으로 2026년 들어 지금까지 백만 부 넘게 팔았고 $1 million 넘게 벌었다. 모두 본인이 밝힌 수치다. 비평가들은 \"AI slop\"이라 부르지만 Hart는 돈을 낼 만한 이야기인지는 독자가 판단하면 된다고 말한다."
+                "x": "Novelcrafter와 Sudowrite 같은 도구는 AI로 줄거리 구성과 편집을 거든다. Sudowrite의 월 $22 ‘professional’ 요금제는 ‘삼십 일 만에 소설 쓰기’를 노리는 사람용이다."
+              },
+              {
+                "t": "p",
+                "x": "Nunney의 사장은 수요가 분명하고 표시만 명확하면 AI 소설도 팔겠다고 했다. 손님들 반응은 갈린다. 펄쩍 뛰며 반대하거나, 어깨를 으쓱하며 ‘차이를 모르겠다’고 한다. 추천을 부탁받으면 Nunney는 여전히 Bassani를 권한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-assisted本\n20か月で370冊、反発も",
-          "body": "Coral Hartは2025年2月以降AIで370冊超を出版し、反発を招いている。",
-          "mini_headline": "20か月でAI本370冊",
+          "headline": "書店はAI小説を\n明確な表示で置くか",
+          "body": "AI企業が学習用に稀覯本を買い集める中、店主は需要と表示があればAI小説も売るという。",
+          "mini_headline": "AI小説を置くか",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156391703,thumbsize-1276522,width-1280,height-720,resizemode-75/156391703.jpg"
+                "t": "p",
+                "x": "Alfred Nunneyが働く書店の常連客が、Penguinが2018年に出したGiorgio BassaniのThe Novel of Ferraraの一巻本を見せてくれた。今ではFinzi-Continisの庭と同じくらい見つけにくい本だ。"
               },
               {
                 "t": "p",
-                "x": "南アフリカのロマンス作家Coral Hartは、2025年2月以降、AIを使って370冊以上の本を出版したと話す。ペンネームであるHartはAFPに対し、数万件の憎悪メッセージと複数の殺害予告を受けたと語った。"
+                "x": "UK、オランダ、北米の古書店は、奇妙な大量注文や、希少で無名な書籍の売上急増を報告している。大規模言語モデルの学習用に人間が書いた素材を求めるAI企業によるものとみられる。"
               },
               {
                 "t": "p",
-                "x": "まずコンセプト、文体、登場人物、章立てを固め、会話、構成、恋愛シーンにそれぞれ別のAIツールを使い、さらにAI-assistedの編集を重ねたうえで、人間の校正者が原稿を確認する。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156391707,width-1280,height-720,resizemode-75/156391707.jpg",
-                "cap": "AIの助けを借りて本を書く"
+                "x": "当初の戦略は「シャドーライブラリー」の海賊版書籍で、これによりAnthropicは著者や出版社と15億ドルの和解に至った。OpenAIに対する集団訴訟は続いている。その後AnthropicはGoogle Books出身のTom Turveyを「Project Panama」のために雇った。「世界中のすべての本を破壊的にスキャンする取り組み」で、背を切り落とし、スキャン後に本をパルプにする。"
               },
               {
                 "t": "p",
-                "x": "本人の推計では、2026年に入ってからこれまでに百万部以上を売り、$1 million超を稼いだ。数字は自己申告だ。批判派は「AI slop」と呼ぶが、Hartは物語にお金を払う価値があるかは読者が決めればよいと話す。"
+                "x": "一方、NovelcrafterやSudowriteといったツールは、プロット作りや編集をAIで手助けする。Sudowriteの月$22の「professional」プランは、「三十日で小説を書く」ことを目標とする人向けだ。"
+              },
+              {
+                "t": "p",
+                "x": "Nunneyの上司は、明確な需要と明確な表示があればAI小説を売ると話している。客は激しく拒むか、肩をすくめて「違いがわからない」と言う。おすすめを聞かれると、Nunneyは今もBassaniを勧める。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "20个月出版370本\nAI-assisted书惹议",
-          "body": "Coral Hart称自2025年2月起用AI出版370多本书，引发反弹。",
-          "mini_headline": "20个月出版370本AI书",
+          "headline": "书店老板考虑上架\n明确标注的AI小说",
+          "body": "AI公司为训练大量收购珍本，书店老板称若有需求和标注，也会卖AI小说。",
+          "mini_headline": "AI小说上架之问",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156391703,thumbsize-1276522,width-1280,height-720,resizemode-75/156391703.jpg"
+                "t": "p",
+                "x": "Alfred Nunney所在书店的一位常客给他看了Penguin于2018年出版的Giorgio Bassani《The Novel of Ferrara》单卷本——如今它几乎和Finzi-Continis家的花园一样难寻。"
               },
               {
                 "t": "p",
-                "x": "南非言情小说作家Coral Hart称，自2025年2月以来，她已借助AI出版了370多本书。Hart是笔名，她告诉AFP，自己收到了数万条仇恨信息和多次死亡威胁。"
+                "x": "UK、荷兰和北美的二手书商反映，出现了奇怪的批量订单，稀有和冷门书籍销量激增，推测来自为训练大语言模型而寻找人类撰写素材的AI公司。"
               },
               {
                 "t": "p",
-                "x": "她先确定概念、风格、人物和章节大纲，再用不同的AI工具处理对话、结构和爱情场景，接着进行AI-assisted编辑，最后由人工校对员审读文本。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156391707,width-1280,height-720,resizemode-75/156391707.jpg",
-                "cap": "借助AI写书"
+                "x": "最初的策略是使用“影子图书馆”中的盗版书，这让Anthropic与作者和出版商达成了15亿美元的和解；针对OpenAI的集体诉讼仍在进行。随后，Anthropic聘请曾任职于Google Books的Tom Turvey负责“Project Panama”——“我们以破坏性方式扫描世界上所有图书的努力”，即切掉书脊，扫描后将书打成纸浆。"
               },
               {
                 "t": "p",
-                "x": "据她本人估计，2026年迄今她已售出逾百万册，收入超过$1 million；这些数字均为自报。批评者称之为\"AI slop\"；Hart则表示，故事是否值得花钱，可以由读者自己决定。"
+                "x": "与此同时，Novelcrafter和Sudowrite等工具提供AI辅助构思情节和编辑；Sudowrite每月$22的“professional”套餐，面向目标是“三十天写出小说”的人。"
+              },
+              {
+                "t": "p",
+                "x": "Nunney的老板说，如果需求明确、标注清晰，他会卖AI小说。顾客要么强烈反对，要么耸耸肩：“我看不出区别。”被问到推荐时，Nunney仍会推荐Bassani。"
               }
             ]
           }
         },
         "es": {
-          "headline": "370 libros AI-assisted en\n20 meses, y una ola de críticas",
-          "body": "La escritora Coral Hart dice haber publicado más de 370 libros con AI desde febrero de 2025, lo que causó rechazo.",
-          "mini_headline": "370 libros con AI en 20 meses",
+          "headline": "Un librero piensa en vender\nnovelas de AI bien etiquetadas",
+          "body": "Firmas de AI compran libros raros para entrenar, y una librería vendería novelas de AI si hay demanda y etiquetas.",
+          "mini_headline": "Novelas de AI en la librería",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156391703,thumbsize-1276522,width-1280,height-720,resizemode-75/156391703.jpg"
+                "t": "p",
+                "x": "Un cliente habitual de la librería donde trabaja Alfred Nunney le mostró la edición en un solo volumen de The Novel of Ferrara, de Giorgio Bassani, publicada por Penguin en 2018, hoy casi tan difícil de encontrar como el jardín de los Finzi-Continis."
               },
               {
                 "t": "p",
-                "x": "La novelista romántica sudafricana Coral Hart afirma haber publicado más de 370 libros con AI desde febrero de 2025. Hart, un seudónimo, dijo a AFP que ha recibido decenas de miles de mensajes de odio y varias amenazas de muerte."
+                "x": "Libreros de segunda mano del Reino Unido (UK), los Países Bajos y Norteamérica hablan de extraños pedidos al por mayor y de un repunte en la venta de títulos raros y poco conocidos, que se atribuyen a empresas de AI en busca de textos escritos por personas para entrenar grandes modelos de lenguaje."
               },
               {
                 "t": "p",
-                "x": "Empieza por el concepto, el estilo, los personajes y el esquema de capítulos; usa distintas herramientas de AI para diálogos, estructura y escenas románticas; aplica otra edición AI-assisted, y después un corrector humano revisa el texto."
-              },
-              {
-                "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156391707,width-1280,height-720,resizemode-75/156391707.jpg",
-                "cap": "Escribir libros con ayuda de AI"
+                "x": "La estrategia inicial fueron los libros pirateados de las ‘bibliotecas en la sombra’, lo que llevó a Anthropic a un acuerdo de 1500 millones de dólares con autores y editoriales; sigue en curso una demanda colectiva contra OpenAI. Después, Anthropic contrató a Tom Turvey, antes en Google Books, para ‘Project Panama’, ‘nuestro esfuerzo por escanear de forma destructiva todos los libros del mundo’: se cortan los lomos y, tras escanearlos, los libros se convierten en pulpa."
               },
               {
                 "t": "p",
-                "x": "Según sus propias estimaciones, ha vendido más de un millón de ejemplares y ganado más de $1 million en lo que va de 2026; las cifras son autodeclaradas. Los críticos lo llaman \"AI slop\"; Hart dice que los lectores pueden decidir si una historia vale su dinero."
+                "x": "Mientras tanto, herramientas como Novelcrafter y Sudowrite ofrecen ayuda de AI con la trama y la edición; el plan ‘professional’ de Sudowrite, de $22 al mes, está pensado para quienes buscan ‘escribir una novela en treinta días’."
+              },
+              {
+                "t": "p",
+                "x": "El jefe de Nunney ha dicho que vendería novelas de AI si hubiera una demanda clara y un etiquetado claro. Los clientes rechazan la idea con vehemencia o se encogen de hombros: ‘No veo la diferencia’. Cuando le piden una recomendación, Nunney sigue señalando a Bassani."
               }
             ]
           }
@@ -1265,125 +897,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "20개월에 370권\nAI-assisted 논란",
-          "body": "Coral Hart는 2025년 2월부터 AI로 370권 넘게 내 반발을 샀다.",
-          "mini_headline": "20개월에 AI 책 370권",
+          "headline": "한 서점, AI 소설을\n표시 붙여 팔까 고민",
+          "body": "희귀서 사재기 속, 서점 사장은 수요와 표시만 있으면 AI 소설도 팔겠다고 했다.",
+          "mini_headline": "AI 소설 입고 고민",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156391703,thumbsize-1276522,width-1280,height-720,resizemode-75/156391703.jpg"
+                "t": "p",
+                "x": "Alfred Nunney가 일하는 서점의 단골손님이 그에게 Penguin이 2018년에 낸 Giorgio Bassani의 The Novel of Ferrara 단권판을 보여 줬다. 지금은 Finzi-Continis의 정원만큼이나 구하기 어려운 책이다."
               },
               {
                 "t": "p",
-                "x": "남아프리카공화국의 로맨스 소설가 Coral Hart는 2025년 2월 이후 AI를 활용해 370권이 넘는 책을 펴냈다고 말한다. 필명을 쓰는 Hart는 AFP에 수만 건의 혐오 메시지와 여러 건의 살해 협박을 받았다고 밝혔다."
+                "x": "영국(UK), 네덜란드, 북미의 중고 서점들은 이상한 대량 주문과 희귀·무명 도서의 판매 급증을 전한다. 대규모 언어 모델 학습에 쓸, 사람이 쓴 글을 찾는 AI 기업들의 주문으로 추정된다."
               },
               {
                 "t": "p",
-                "x": "Hart는 콘셉트, 문체, 인물, 장별 개요를 먼저 잡은 뒤 대화와 구조, 로맨스 장면에 각기 다른 AI 도구를 쓰고, AI-assisted 편집을 한 번 더 거친 다음 사람 교정자에게 원고 검토를 맡긴다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156391707,width-1280,height-720,resizemode-75/156391707.jpg",
-                "cap": "AI의 도움으로 책 쓰기"
+                "x": "처음 전략은 ‘그림자 도서관’의 해적판 책이었고, 이 일로 Anthropic은 작가·출판사와 15억 달러 규모로 합의했다. OpenAI를 상대로 한 집단소송은 아직 진행 중이다. 이후 Anthropic은 Google Books 출신 Tom Turvey를 ‘Project Panama’에 영입했다. ‘세상의 모든 책을 파괴적으로 스캔하려는 우리의 노력’으로, 책등을 잘라 내고 스캔한 뒤 책을 펄프로 만드는 작업이다."
               },
               {
                 "t": "p",
-                "x": "본인 추산으로는 2026년 들어 지금까지 백만 부 넘게 팔았고 $1 million 넘게 벌었다. 수치는 본인이 밝힌 것이다. 비평가들은 이를 \"AI slop\"이라 부르지만, Hart는 이야기가 돈을 낼 가치가 있는지는 독자가 판단하면 된다고 말한다."
+                "x": "한편 Novelcrafter와 Sudowrite 같은 도구는 줄거리 구성과 편집을 AI로 돕는다. Sudowrite의 월 $22 ‘professional’ 요금제는 ‘삼십 일 만에 소설 쓰기’가 목표인 사람을 위한 것이다."
+              },
+              {
+                "t": "p",
+                "x": "Nunney의 사장은 수요가 분명하고 표시가 명확하다면 AI 소설을 팔겠다고 말했다. 손님들은 이 생각을 격렬히 거부하거나 어깨를 으쓱하며 ‘차이를 모르겠다’고 한다. 추천을 부탁받으면 Nunney는 여전히 Bassani를 권한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-assisted本\n20か月で370冊、反発も",
-          "body": "Coral Hartは2025年2月以降AIで370冊超を出版し、反発を招いている。",
-          "mini_headline": "20か月でAI本370冊",
+          "headline": "書店はAI小説を\n明確な表示で置くか",
+          "body": "AI企業が学習用に稀覯本を買い集める中、店主は需要と表示があればAI小説も売るという。",
+          "mini_headline": "AI小説を置くか",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156391703,thumbsize-1276522,width-1280,height-720,resizemode-75/156391703.jpg"
+                "t": "p",
+                "x": "Alfred Nunneyが働く書店の常連客が、Penguinが2018年に出したGiorgio BassaniのThe Novel of Ferraraの一巻本を見せてくれた。今ではFinzi-Continisの庭と同じくらい見つけにくい本だ。"
               },
               {
                 "t": "p",
-                "x": "南アフリカのロマンス作家Coral Hartは、2025年2月以降、AIを使って370冊以上の本を出版したと話す。ペンネームであるHartはAFPに対し、数万件の憎悪メッセージと複数の殺害予告を受けたと語った。"
+                "x": "UK、オランダ、北米の古書店は、奇妙な大量注文や、希少で無名な書籍の売上急増を報告している。大規模言語モデルの学習用に人間が書いた素材を求めるAI企業によるものとみられる。"
               },
               {
                 "t": "p",
-                "x": "まずコンセプト、文体、登場人物、章立てを固め、会話、構成、恋愛シーンにそれぞれ別のAIツールを使い、さらにAI-assistedの編集を重ねたうえで、人間の校正者が原稿を確認する。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156391707,width-1280,height-720,resizemode-75/156391707.jpg",
-                "cap": "AIの助けを借りて本を書く"
+                "x": "当初の戦略は「シャドーライブラリー」の海賊版書籍で、これによりAnthropicは著者や出版社と15億ドルの和解に至った。OpenAIに対する集団訴訟は続いている。その後AnthropicはGoogle Books出身のTom Turveyを「Project Panama」のために雇った。「世界中のすべての本を破壊的にスキャンする取り組み」で、背を切り落とし、スキャン後に本をパルプにする。"
               },
               {
                 "t": "p",
-                "x": "本人の推計では、2026年に入ってからこれまでに百万部以上を売り、$1 million超を稼いだ。数字は自己申告だ。批判派は「AI slop」と呼ぶが、Hartは物語にお金を払う価値があるかは読者が決めればよいと話す。"
+                "x": "一方、NovelcrafterやSudowriteといったツールは、プロット作りや編集をAIで手助けする。Sudowriteの月$22の「professional」プランは、「三十日で小説を書く」ことを目標とする人向けだ。"
+              },
+              {
+                "t": "p",
+                "x": "Nunneyの上司は、明確な需要と明確な表示があればAI小説を売ると話している。客は激しく拒むか、肩をすくめて「違いがわからない」と言う。おすすめを聞かれると、Nunneyは今もBassaniを勧める。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "20个月出版370本\nAI-assisted书惹议",
-          "body": "Coral Hart称自2025年2月起用AI出版370多本书，引发反弹。",
-          "mini_headline": "20个月出版370本AI书",
+          "headline": "书店老板考虑上架\n明确标注的AI小说",
+          "body": "AI公司为训练大量收购珍本，书店老板称若有需求和标注，也会卖AI小说。",
+          "mini_headline": "AI小说上架之问",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156391703,thumbsize-1276522,width-1280,height-720,resizemode-75/156391703.jpg"
+                "t": "p",
+                "x": "Alfred Nunney所在书店的一位常客给他看了Penguin于2018年出版的Giorgio Bassani《The Novel of Ferrara》单卷本——如今它几乎和Finzi-Continis家的花园一样难寻。"
               },
               {
                 "t": "p",
-                "x": "南非言情小说作家Coral Hart称，自2025年2月以来，她已借助AI出版了370多本书。Hart是笔名，她告诉AFP，自己收到了数万条仇恨信息和多次死亡威胁。"
+                "x": "UK、荷兰和北美的二手书商反映，出现了奇怪的批量订单，稀有和冷门书籍销量激增，推测来自为训练大语言模型而寻找人类撰写素材的AI公司。"
               },
               {
                 "t": "p",
-                "x": "她先确定概念、风格、人物和章节大纲，再用不同的AI工具处理对话、结构和爱情场景，接着进行AI-assisted编辑，最后由人工校对员审读文本。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156391707,width-1280,height-720,resizemode-75/156391707.jpg",
-                "cap": "借助AI写书"
+                "x": "最初的策略是使用“影子图书馆”中的盗版书，这让Anthropic与作者和出版商达成了15亿美元的和解；针对OpenAI的集体诉讼仍在进行。随后，Anthropic聘请曾任职于Google Books的Tom Turvey负责“Project Panama”——“我们以破坏性方式扫描世界上所有图书的努力”，即切掉书脊，扫描后将书打成纸浆。"
               },
               {
                 "t": "p",
-                "x": "据她本人估计，2026年迄今她已售出逾百万册，收入超过$1 million；这些数字均为自报。批评者称之为\"AI slop\"；Hart则表示，故事是否值得花钱，可以由读者自己决定。"
+                "x": "与此同时，Novelcrafter和Sudowrite等工具提供AI辅助构思情节和编辑；Sudowrite每月$22的“professional”套餐，面向目标是“三十天写出小说”的人。"
+              },
+              {
+                "t": "p",
+                "x": "Nunney的老板说，如果需求明确、标注清晰，他会卖AI小说。顾客要么强烈反对，要么耸耸肩：“我看不出区别。”被问到推荐时，Nunney仍会推荐Bassani。"
               }
             ]
           }
         },
         "es": {
-          "headline": "370 libros AI-assisted en\n20 meses, y una ola de críticas",
-          "body": "La escritora Coral Hart dice haber publicado más de 370 libros con AI desde febrero de 2025, lo que causó rechazo.",
-          "mini_headline": "370 libros con AI en 20 meses",
+          "headline": "Un librero piensa en vender\nnovelas de AI bien etiquetadas",
+          "body": "Firmas de AI compran libros raros para entrenar, y una librería vendería novelas de AI si hay demanda y etiquetas.",
+          "mini_headline": "Novelas de AI en la librería",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156391703,thumbsize-1276522,width-1280,height-720,resizemode-75/156391703.jpg"
+                "t": "p",
+                "x": "Un cliente habitual de la librería donde trabaja Alfred Nunney le mostró la edición en un solo volumen de The Novel of Ferrara, de Giorgio Bassani, publicada por Penguin en 2018, hoy casi tan difícil de encontrar como el jardín de los Finzi-Continis."
               },
               {
                 "t": "p",
-                "x": "La novelista romántica sudafricana Coral Hart afirma haber publicado más de 370 libros con AI desde febrero de 2025. Hart, un seudónimo, dijo a AFP que ha recibido decenas de miles de mensajes de odio y varias amenazas de muerte."
+                "x": "Libreros de segunda mano del Reino Unido (UK), los Países Bajos y Norteamérica hablan de extraños pedidos al por mayor y de un repunte en la venta de títulos raros y poco conocidos, que se atribuyen a empresas de AI en busca de textos escritos por personas para entrenar grandes modelos de lenguaje."
               },
               {
                 "t": "p",
-                "x": "Empieza por el concepto, el estilo, los personajes y el esquema de capítulos; usa distintas herramientas de AI para diálogos, estructura y escenas románticas; aplica otra edición AI-assisted, y después un corrector humano revisa el texto."
-              },
-              {
-                "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156391707,width-1280,height-720,resizemode-75/156391707.jpg",
-                "cap": "Escribir libros con ayuda de AI"
+                "x": "La estrategia inicial fueron los libros pirateados de las ‘bibliotecas en la sombra’, lo que llevó a Anthropic a un acuerdo de 1500 millones de dólares con autores y editoriales; sigue en curso una demanda colectiva contra OpenAI. Después, Anthropic contrató a Tom Turvey, antes en Google Books, para ‘Project Panama’, ‘nuestro esfuerzo por escanear de forma destructiva todos los libros del mundo’: se cortan los lomos y, tras escanearlos, los libros se convierten en pulpa."
               },
               {
                 "t": "p",
-                "x": "Según sus propias estimaciones, ha vendido más de un millón de ejemplares y ganado más de $1 million en lo que va de 2026; las cifras son autodeclaradas. Los críticos lo llaman \"AI slop\"; Hart dice que los lectores pueden decidir si una historia vale su dinero."
+                "x": "Mientras tanto, herramientas como Novelcrafter y Sudowrite ofrecen ayuda de AI con la trama y la edición; el plan ‘professional’ de Sudowrite, de $22 al mes, está pensado para quienes buscan ‘escribir una novela en treinta días’."
+              },
+              {
+                "t": "p",
+                "x": "El jefe de Nunney ha dicho que vendería novelas de AI si hubiera una demanda clara y un etiquetado claro. Los clientes rechazan la idea con vehemencia o se encogen de hombros: ‘No veo la diferencia’. Cuando le piden una recomendación, Nunney sigue señalando a Bassani."
               }
             ]
           }
@@ -1391,15 +1019,15 @@
       }
     },
     {
-      "id": "books-frankfurt-trusted-knowledge",
+      "id": "books-sadek-creative-roi",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Frankfurt 2026\n콘텐츠에서 신뢰 지식으로",
-      "body": "Frankfurt 2026의 한 책임자는 AI-driven 업무 속 지식을 물었다.",
-      "mini_headline": "Frankfurt: 콘텐츠에서 지식으로",
+      "headline": "AI가 책에 주는 가치는\n비용 절감 너머일 수도",
+      "body": "Nadim Sadek은 출판계가 AI의 창작적 가치를 인정해야 한다고 본다.",
+      "mini_headline": "AI의 창작 ROI",
       "tool": "Books",
-      "source": "The Scholarly Kitchen",
-      "url": "https://scholarlykitchen.sspnet.org/2026/10/20/from-content-to-trusted-knowledge-reflections-on-frankfurt-book-fair-2026/",
+      "source": "The Bookseller",
+      "url": "https://www.thebookseller.com/comment/does-the-roi-of-ai-only-lie-in-corporate-efficiencies",
       "accent": "#eb367f",
       "motif": "swatch",
       "full": {
@@ -1407,203 +1035,101 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-2191733603.jpg",
-            "cap": "Messe Frankfurt"
+            "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/dfg.jpg"
           },
           {
             "t": "p",
-            "x": "KnowledgeWorks Global의 VP of Product Management인 Hong Zhou는 AI가 무엇을 할 수 있는지보다 AI를 어떻게 쓸지에 관한 질문을 더 많이 안고 Frankfurt Book Fair 2026을 떠났다. 그가 거듭 던진 질문은 믿을 만한 콘텐츠를 어떻게 쓸모 있는 지식으로 바꾸고 사람들이 그 지식으로 움직이게 도울 것인가였다."
-          },
-          {
-            "t": "p",
-            "x": "AI가 출판물을 더 작은 조각으로 쪼개는 지금, 주장은 근거와 한계, 맥락이 함께 붙어 있을 때만 쓸모가 있다. 출판사는 나중의 재사용과 재현성까지 보고 어떤 메타데이터를 필수로 둘지 다시 따져야 한다."
-          },
-          {
-            "t": "p",
-            "x": "AI 탐색에는 기술적 연결만이 아니라 허가와 가치의 모델이 필요하다. 커넥터가 작동한다고 콘텐츠가 선택되는 것은 아니다. 질문은 “AI가 우리 콘텐츠에 닿을 수 있는가?”만이 아니라 “AI는 언제, 왜 그것을 쓰기로 하는가?”다. 제로 클릭이라고 가치까지 제로인 것은 아니다."
-          },
-          {
-            "t": "p",
-            "x": "신뢰는 가장 많이 들린 단어 가운데 하나였다. Kudos의 조사에 따르면 응답자의 약 삼분의 일이 AI 도구나 AI 답변을 보여 주는 검색엔진으로 검색을 시작하고, 40%는 검색엔진의 AI 요약을 사람이 만들거나 골랐다고 잘못 알고 있다."
-          },
-          {
-            "t": "p",
-            "x": "에이전트는 구체적인 문제에서 출발해 성공과 실패, 예외를 정의한 뒤에 자율성을 높이라고 권한다. 배치한 에이전트 수만 세서는 알 수 있는 게 거의 없다. 그에게 Frankfurt의 핵심 메시지는 지식을 둘러싼 연결, 곧 주장과 근거, 이용과 허가, 자동화된 행동과 그 책임자 사이의 연결이었다."
+            "x": "Shimmr AI 창업자 겸 CEO이자 『Shimmer, Don’t Shake – How Publishing Can Embrace AI』의 저자 Nadim Sadek은 AI가 인간의 창의성에 진정한 가치를 더할 수 있다는 점을 이제 업계가 인정해야 한다고 썼다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Frankfurt 2026: from content\nto trusted knowledge",
-          "body": "At Frankfurt 2026, one product lead kept asking how trusted content becomes useful knowledge in AI-driven workflows.",
-          "mini_headline": "Frankfurt: content to knowledge",
+          "headline": "AI's value for books may lie\nbeyond back-office savings",
+          "body": "Nadim Sadek argues the book trade should admit AI can add real value to human creativity, not just efficiency.",
+          "mini_headline": "AI's creative ROI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-2191733603.jpg",
-                "cap": "Messe Frankfurt"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/dfg.jpg"
               },
               {
                 "t": "p",
-                "x": "Hong Zhou, VP of Product Management at KnowledgeWorks Global, left Frankfurt Book Fair 2026 with more questions about how we use AI than about what it can do. His recurring question: how do we turn trusted content into useful knowledge, and help people act on it?"
-              },
-              {
-                "t": "p",
-                "x": "As AI breaks publications into smaller pieces, a claim is only useful if its evidence, limitations and context stay attached. Publishers should rethink which metadata are mandatory for downstream reuse and reproducibility."
-              },
-              {
-                "t": "p",
-                "x": "AI discovery needs a permission and value model, not just a technical connection. A working connector does not guarantee content gets selected: the question is not just “Can AI reach our content?” but “When and why will it choose to use it?” Zero click need not mean zero value."
-              },
-              {
-                "t": "p",
-                "x": "Trust was one of the most-heard words. Kudos’ findings: roughly a third of respondents begin searches through AI tools or search engines featuring AI answers, and 40% mistakenly believe search-engine AI overviews are human-created or curated."
-              },
-              {
-                "t": "p",
-                "x": "On agents, he urges starting with a specific problem and defining success, failure and exceptions before increasing autonomy; counting deployed agents tells us little. Frankfurt’s key message, for him, was about the connections around knowledge: between a claim and its evidence, a use and its permission, and an automated action and the people responsible for it."
+                "x": "It is time the industry acknowledged that AI can bring genuine value to human creativity, writes Nadim Sadek, founder and CEO of Shimmr AI and author of Shimmer, Don’t Shake – How Publishing Can Embrace AI."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Frankfurt 2026\n콘텐츠에서 신뢰 지식으로",
-          "body": "Frankfurt 2026의 한 책임자는 AI-driven 업무 속 지식을 물었다.",
-          "mini_headline": "Frankfurt: 콘텐츠에서 지식으로",
+          "headline": "AI가 책에 주는 가치는\n비용 절감 너머일 수도",
+          "body": "Nadim Sadek은 출판계가 AI의 창작적 가치를 인정해야 한다고 본다.",
+          "mini_headline": "AI의 창작 ROI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-2191733603.jpg",
-                "cap": "Messe Frankfurt"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/dfg.jpg"
               },
               {
                 "t": "p",
-                "x": "KnowledgeWorks Global의 VP of Product Management인 Hong Zhou는 AI가 무엇을 할 수 있는지보다 AI를 어떻게 쓸지에 관한 질문을 더 많이 안고 Frankfurt Book Fair 2026을 떠났다. 그가 거듭 던진 질문은 믿을 만한 콘텐츠를 어떻게 쓸모 있는 지식으로 바꾸고 사람들이 그 지식으로 움직이게 도울 것인가였다."
-              },
-              {
-                "t": "p",
-                "x": "AI가 출판물을 더 작은 조각으로 쪼개는 지금, 주장은 근거와 한계, 맥락이 함께 붙어 있을 때만 쓸모가 있다. 출판사는 나중의 재사용과 재현성까지 보고 어떤 메타데이터를 필수로 둘지 다시 따져야 한다."
-              },
-              {
-                "t": "p",
-                "x": "AI 탐색에는 기술적 연결만이 아니라 허가와 가치의 모델이 필요하다. 커넥터가 작동한다고 콘텐츠가 선택되는 것은 아니다. 질문은 “AI가 우리 콘텐츠에 닿을 수 있는가?”만이 아니라 “AI는 언제, 왜 그것을 쓰기로 하는가?”다. 제로 클릭이라고 가치까지 제로인 것은 아니다."
-              },
-              {
-                "t": "p",
-                "x": "신뢰는 가장 많이 들린 단어 가운데 하나였다. Kudos의 조사에 따르면 응답자의 약 삼분의 일이 AI 도구나 AI 답변을 보여 주는 검색엔진으로 검색을 시작하고, 40%는 검색엔진의 AI 요약을 사람이 만들거나 골랐다고 잘못 알고 있다."
-              },
-              {
-                "t": "p",
-                "x": "에이전트는 구체적인 문제에서 출발해 성공과 실패, 예외를 정의한 뒤에 자율성을 높이라고 권한다. 배치한 에이전트 수만 세서는 알 수 있는 게 거의 없다. 그에게 Frankfurt의 핵심 메시지는 지식을 둘러싼 연결, 곧 주장과 근거, 이용과 허가, 자동화된 행동과 그 책임자 사이의 연결이었다."
+                "x": "Shimmr AI 창업자 겸 CEO이자 『Shimmer, Don’t Shake – How Publishing Can Embrace AI』의 저자 Nadim Sadek은 AI가 인간의 창의성에 진정한 가치를 더할 수 있다는 점을 이제 업계가 인정해야 한다고 썼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Frankfurt 2026\nコンテンツから信頼の知へ",
-          "body": "Frankfurt 2026で、ある製品責任者がAI-driven時代の信頼と知を問うた。",
-          "mini_headline": "Frankfurt:コンテンツから知へ",
+          "headline": "本でのAIの価値は\n事務効率の先にあるか",
+          "body": "Nadim Sadekは、出版界はAIが創造性に真の価値を加えうると認めるべきだと説く。",
+          "mini_headline": "AIの創造的ROI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-2191733603.jpg",
-                "cap": "Messe Frankfurt"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/dfg.jpg"
               },
               {
                 "t": "p",
-                "x": "KnowledgeWorks GlobalのVP of Product ManagementであるHong Zhouは、AIに何ができるかよりも、私たちがAIをどう使うかについての問いを多く抱えてFrankfurt Book Fair 2026を後にした。彼が繰り返し投げかけたのは、信頼できるコンテンツをどう有用な知識に変え、人々がそれをもとに行動できるようにするかという問いだ。"
-              },
-              {
-                "t": "p",
-                "x": "AIが出版物をより小さな断片に分解するなか、主張はその根拠、限界、文脈と結びついていてこそ役に立つ。出版社は、下流での再利用と再現性のためにどのメタデータを必須とするかを考え直すべきだ。"
-              },
-              {
-                "t": "p",
-                "x": "AIによる発見には、技術的な接続だけでなく、許諾と価値のモデルが必要だ。コネクターが動いても、コンテンツが選ばれる保証はない。問うべきは「AIは私たちのコンテンツに届くか?」だけでなく、「AIはいつ、なぜそれを使うことを選ぶのか?」である。ゼロクリックが価値ゼロを意味するとは限らない。"
-              },
-              {
-                "t": "p",
-                "x": "信頼は最もよく聞かれた言葉の一つだった。Kudosの調査によると、回答者の約三分の一がAIツールやAI回答を備えた検索エンジンから検索を始め、40%は検索エンジンのAI概要を人間が作成または選別したものだと誤解している。"
-              },
-              {
-                "t": "p",
-                "x": "エージェントについては、具体的な課題から始め、成功、失敗、例外を定義してから自律性を高めるよう勧める。導入したエージェントの数を数えても、わかることは少ない。彼にとってFrankfurtの核心的なメッセージは、知識をめぐるつながり、すなわち主張と根拠、利用と許諾、自動化された行動とその責任を負う人々とのつながりだった。"
+                "x": "業界はそろそろ、AIが人間の創造性に真の価値をもたらしうると認めるべきだ。Shimmr AIの創業者兼CEOで、『Shimmer, Don’t Shake – How Publishing Can Embrace AI』の著者であるNadim Sadekはそう書く。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Frankfurt 2026\n从内容到可信知识",
-          "body": "Frankfurt 2026上，一位产品负责人追问AI-driven流程中可信内容的价值。",
-          "mini_headline": "Frankfurt：从内容到知识",
+          "headline": "AI对图书的价值\n或不止于后台降本",
+          "body": "Nadim Sadek认为，出版业应承认AI不只带来效率，还能为人类创造力增添真正价值。",
+          "mini_headline": "AI的创意ROI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-2191733603.jpg",
-                "cap": "Messe Frankfurt"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/dfg.jpg"
               },
               {
                 "t": "p",
-                "x": "KnowledgeWorks Global的VP of Product Management Hong Zhou离开Frankfurt Book Fair 2026时，带走的问题更多关乎我们如何使用AI，而非AI能做什么。他反复追问：我们如何把可信内容变成有用的知识，并帮助人们据此行动？"
-              },
-              {
-                "t": "p",
-                "x": "随着AI把出版物拆解成更小的片段，一项论断只有在其证据、局限和语境仍附着其上时才有用。出版商应重新思考，哪些元数据对下游复用和可重复性是必需的。"
-              },
-              {
-                "t": "p",
-                "x": "AI发现需要的不只是技术连接，还需要一套许可与价值模型。连接器能用，并不保证内容会被选用：问题不只是“AI能否触达我们的内容？”，而是“它何时、为何会选择使用这些内容？”零点击未必意味着零价值。"
-              },
-              {
-                "t": "p",
-                "x": "信任是被提及最多的词之一。Kudos的调查发现，约三分之一的受访者通过AI工具或带有AI答案的搜索引擎开始搜索，40%的人误以为搜索引擎的AI概览由人工创作或筛选。"
-              },
-              {
-                "t": "p",
-                "x": "谈到智能体，他主张先从具体问题入手，在提高自主性之前界定成功、失败和例外情况；清点已部署的智能体数量说明不了什么。在他看来，Frankfurt的核心信息在于知识周围的连接：论断与证据之间、使用与许可之间、自动化行动与对其负责的人之间。"
+                "x": "Shimmr AI创始人兼CEO、《Shimmer, Don’t Shake – How Publishing Can Embrace AI》作者Nadim Sadek撰文指出，业界是时候承认AI能为人类创造力带来真正的价值了。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Frankfurt 2026: del contenido\nal conocimiento confiable",
-          "body": "En Frankfurt 2026, un jefe de producto preguntó cómo volver útil el contenido fiable en flujos AI-driven.",
-          "mini_headline": "Frankfurt: del contenido al conocimiento",
+          "headline": "El valor de la AI en los libros\npodría ir más allá del ahorro",
+          "body": "Nadim Sadek pide al sector del libro admitir que la AI aporta valor real a la creatividad humana, no solo eficiencia.",
+          "mini_headline": "El ROI creativo de la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-2191733603.jpg",
-                "cap": "Messe Frankfurt"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/dfg.jpg"
               },
               {
                 "t": "p",
-                "x": "Hong Zhou, VP of Product Management de KnowledgeWorks Global, salió de la Frankfurt Book Fair 2026 con más preguntas sobre cómo usamos la AI que sobre lo que puede hacer. Su pregunta recurrente: ¿cómo convertimos contenido fiable en conocimiento útil y ayudamos a las personas a actuar en consecuencia?"
-              },
-              {
-                "t": "p",
-                "x": "A medida que la AI descompone las publicaciones en piezas más pequeñas, una afirmación solo es útil si conserva su evidencia, sus limitaciones y su contexto. Las editoriales deberían replantearse qué metadatos son obligatorios para la reutilización posterior y la reproducibilidad."
-              },
-              {
-                "t": "p",
-                "x": "El descubrimiento mediante AI necesita un modelo de permisos y de valor, no solo una conexión técnica. Que un conector funcione no garantiza que el contenido sea seleccionado: la pregunta no es solo “¿Puede la AI llegar a nuestro contenido?”, sino “¿Cuándo y por qué decidirá usarlo?”. Cero clics no tiene por qué significar cero valor."
-              },
-              {
-                "t": "p",
-                "x": "La confianza fue una de las palabras más escuchadas. Según los hallazgos de Kudos, alrededor de un tercio de los encuestados empieza sus búsquedas con herramientas de AI o buscadores con respuestas de AI, y el 40% cree erróneamente que los resúmenes de AI de los buscadores están creados o seleccionados por personas."
-              },
-              {
-                "t": "p",
-                "x": "Sobre los agentes, recomienda empezar por un problema concreto y definir el éxito, el fracaso y las excepciones antes de aumentar la autonomía; contar los agentes desplegados dice poco. Para él, el mensaje clave de Frankfurt tuvo que ver con las conexiones en torno al conocimiento: entre una afirmación y su evidencia, un uso y su permiso, y una acción automatizada y las personas responsables de ella."
+                "x": "Es hora de que la industria reconozca que la AI puede aportar un valor genuino a la creatividad humana, escribe Nadim Sadek, fundador y CEO de Shimmr AI y autor de Shimmer, Don’t Shake – How Publishing Can Embrace AI."
               }
             ]
           }
@@ -1611,141 +1137,73 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Frankfurt 2026\n콘텐츠에서 신뢰 지식으로",
-          "body": "Frankfurt 2026의 한 책임자는 AI-driven 업무 속 지식을 물었다.",
-          "mini_headline": "Frankfurt: 콘텐츠에서 지식으로",
+          "headline": "AI가 책에 주는 가치는\n비용 절감 너머일 수도",
+          "body": "Nadim Sadek은 출판계가 AI의 창작적 가치를 인정해야 한다고 본다.",
+          "mini_headline": "AI의 창작 ROI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-2191733603.jpg",
-                "cap": "Messe Frankfurt"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/dfg.jpg"
               },
               {
                 "t": "p",
-                "x": "KnowledgeWorks Global의 VP of Product Management인 Hong Zhou는 AI가 무엇을 할 수 있는지보다 우리가 AI를 어떻게 쓰는지에 관한 질문을 더 많이 안고 Frankfurt Book Fair 2026을 떠났다. 그가 거듭 던진 질문은 신뢰할 수 있는 콘텐츠를 어떻게 유용한 지식으로 바꾸고, 사람들이 그 지식으로 행동하도록 도울 것인가였다."
-              },
-              {
-                "t": "p",
-                "x": "AI가 출판물을 더 작은 조각으로 쪼개는 지금, 주장은 근거와 한계, 맥락이 함께 붙어 있을 때만 쓸모가 있다. 출판사는 이후의 재사용과 재현성을 위해 어떤 메타데이터를 필수로 둘지 다시 생각해야 한다."
-              },
-              {
-                "t": "p",
-                "x": "AI 탐색에는 기술적 연결만이 아니라 허가와 가치의 모델이 필요하다. 커넥터가 작동한다고 콘텐츠가 선택된다는 보장은 없다. 질문은 “AI가 우리 콘텐츠에 닿을 수 있는가?”만이 아니라 “AI는 언제, 왜 그것을 쓰기로 하는가?”다. 제로 클릭이 곧 제로 가치를 뜻하지는 않는다."
-              },
-              {
-                "t": "p",
-                "x": "신뢰는 가장 많이 들린 단어 가운데 하나였다. Kudos의 조사에 따르면 응답자의 약 삼분의 일이 AI 도구나 AI 답변을 보여 주는 검색엔진으로 검색을 시작하고, 40%는 검색엔진의 AI 요약을 사람이 만들거나 골랐다고 잘못 알고 있다."
-              },
-              {
-                "t": "p",
-                "x": "에이전트에 대해서는 구체적인 문제에서 출발해 성공과 실패, 예외를 정의한 뒤에 자율성을 높이라고 권한다. 배치한 에이전트 수를 세는 것만으로는 알 수 있는 것이 거의 없다. 그에게 Frankfurt의 핵심 메시지는 지식을 둘러싼 연결, 곧 주장과 근거, 이용과 허가, 자동화된 행동과 그 책임자 사이의 연결이었다."
+                "x": "이제 업계가 AI가 인간의 창의성에 진정한 가치를 더할 수 있음을 인정할 때라고, Shimmr AI 창업자 겸 CEO이자 『Shimmer, Don’t Shake – How Publishing Can Embrace AI』의 저자 Nadim Sadek은 썼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Frankfurt 2026\nコンテンツから信頼の知へ",
-          "body": "Frankfurt 2026で、ある製品責任者がAI-driven時代の信頼と知を問うた。",
-          "mini_headline": "Frankfurt:コンテンツから知へ",
+          "headline": "本でのAIの価値は\n事務効率の先にあるか",
+          "body": "Nadim Sadekは、出版界はAIが創造性に真の価値を加えうると認めるべきだと説く。",
+          "mini_headline": "AIの創造的ROI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-2191733603.jpg",
-                "cap": "Messe Frankfurt"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/dfg.jpg"
               },
               {
                 "t": "p",
-                "x": "KnowledgeWorks GlobalのVP of Product ManagementであるHong Zhouは、AIに何ができるかよりも、私たちがAIをどう使うかについての問いを多く抱えてFrankfurt Book Fair 2026を後にした。彼が繰り返し投げかけたのは、信頼できるコンテンツをどう有用な知識に変え、人々がそれをもとに行動できるようにするかという問いだ。"
-              },
-              {
-                "t": "p",
-                "x": "AIが出版物をより小さな断片に分解するなか、主張はその根拠、限界、文脈と結びついていてこそ役に立つ。出版社は、下流での再利用と再現性のためにどのメタデータを必須とするかを考え直すべきだ。"
-              },
-              {
-                "t": "p",
-                "x": "AIによる発見には、技術的な接続だけでなく、許諾と価値のモデルが必要だ。コネクターが動いても、コンテンツが選ばれる保証はない。問うべきは「AIは私たちのコンテンツに届くか?」だけでなく、「AIはいつ、なぜそれを使うことを選ぶのか?」である。ゼロクリックが価値ゼロを意味するとは限らない。"
-              },
-              {
-                "t": "p",
-                "x": "信頼は最もよく聞かれた言葉の一つだった。Kudosの調査によると、回答者の約三分の一がAIツールやAI回答を備えた検索エンジンから検索を始め、40%は検索エンジンのAI概要を人間が作成または選別したものだと誤解している。"
-              },
-              {
-                "t": "p",
-                "x": "エージェントについては、具体的な課題から始め、成功、失敗、例外を定義してから自律性を高めるよう勧める。導入したエージェントの数を数えても、わかることは少ない。彼にとってFrankfurtの核心的なメッセージは、知識をめぐるつながり、すなわち主張と根拠、利用と許諾、自動化された行動とその責任を負う人々とのつながりだった。"
+                "x": "業界はそろそろ、AIが人間の創造性に真の価値をもたらしうると認めるべきだ。Shimmr AIの創業者兼CEOで、『Shimmer, Don’t Shake – How Publishing Can Embrace AI』の著者であるNadim Sadekはそう書く。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Frankfurt 2026\n从内容到可信知识",
-          "body": "Frankfurt 2026上，一位产品负责人追问AI-driven流程中可信内容的价值。",
-          "mini_headline": "Frankfurt：从内容到知识",
+          "headline": "AI对图书的价值\n或不止于后台降本",
+          "body": "Nadim Sadek认为，出版业应承认AI不只带来效率，还能为人类创造力增添真正价值。",
+          "mini_headline": "AI的创意ROI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-2191733603.jpg",
-                "cap": "Messe Frankfurt"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/dfg.jpg"
               },
               {
                 "t": "p",
-                "x": "KnowledgeWorks Global的VP of Product Management Hong Zhou离开Frankfurt Book Fair 2026时，带走的问题更多关乎我们如何使用AI，而非AI能做什么。他反复追问：我们如何把可信内容变成有用的知识，并帮助人们据此行动？"
-              },
-              {
-                "t": "p",
-                "x": "随着AI把出版物拆解成更小的片段，一项论断只有在其证据、局限和语境仍附着其上时才有用。出版商应重新思考，哪些元数据对下游复用和可重复性是必需的。"
-              },
-              {
-                "t": "p",
-                "x": "AI发现需要的不只是技术连接，还需要一套许可与价值模型。连接器能用，并不保证内容会被选用：问题不只是“AI能否触达我们的内容？”，而是“它何时、为何会选择使用这些内容？”零点击未必意味着零价值。"
-              },
-              {
-                "t": "p",
-                "x": "信任是被提及最多的词之一。Kudos的调查发现，约三分之一的受访者通过AI工具或带有AI答案的搜索引擎开始搜索，40%的人误以为搜索引擎的AI概览由人工创作或筛选。"
-              },
-              {
-                "t": "p",
-                "x": "谈到智能体，他主张先从具体问题入手，在提高自主性之前界定成功、失败和例外情况；清点已部署的智能体数量说明不了什么。在他看来，Frankfurt的核心信息在于知识周围的连接：论断与证据之间、使用与许可之间、自动化行动与对其负责的人之间。"
+                "x": "Shimmr AI创始人兼CEO、《Shimmer, Don’t Shake – How Publishing Can Embrace AI》作者Nadim Sadek撰文指出，业界是时候承认AI能为人类创造力带来真正的价值了。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Frankfurt 2026: del contenido\nal conocimiento confiable",
-          "body": "En Frankfurt 2026, un jefe de producto preguntó cómo volver útil el contenido fiable en flujos AI-driven.",
-          "mini_headline": "Frankfurt: del contenido al conocimiento",
+          "headline": "El valor de la AI en los libros\npodría ir más allá del ahorro",
+          "body": "Nadim Sadek pide al sector del libro admitir que la AI aporta valor real a la creatividad humana, no solo eficiencia.",
+          "mini_headline": "El ROI creativo de la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-2191733603.jpg",
-                "cap": "Messe Frankfurt"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/dfg.jpg"
               },
               {
                 "t": "p",
-                "x": "Hong Zhou, VP of Product Management de KnowledgeWorks Global, salió de la Frankfurt Book Fair 2026 con más preguntas sobre cómo usamos la AI que sobre lo que puede hacer. Su pregunta recurrente: ¿cómo convertimos contenido fiable en conocimiento útil y ayudamos a las personas a actuar en consecuencia?"
-              },
-              {
-                "t": "p",
-                "x": "A medida que la AI descompone las publicaciones en piezas más pequeñas, una afirmación solo es útil si conserva su evidencia, sus limitaciones y su contexto. Las editoriales deberían replantearse qué metadatos son obligatorios para la reutilización posterior y la reproducibilidad."
-              },
-              {
-                "t": "p",
-                "x": "El descubrimiento mediante AI necesita un modelo de permisos y de valor, no solo una conexión técnica. Que un conector funcione no garantiza que el contenido sea seleccionado: la pregunta no es solo “¿Puede la AI llegar a nuestro contenido?”, sino “¿Cuándo y por qué decidirá usarlo?”. Cero clics no tiene por qué significar cero valor."
-              },
-              {
-                "t": "p",
-                "x": "La confianza fue una de las palabras más escuchadas. Según los hallazgos de Kudos, alrededor de un tercio de los encuestados empieza sus búsquedas con herramientas de AI o buscadores con respuestas de AI, y el 40% cree erróneamente que los resúmenes de AI de los buscadores están creados o seleccionados por personas."
-              },
-              {
-                "t": "p",
-                "x": "Sobre los agentes, recomienda empezar por un problema concreto y definir el éxito, el fracaso y las excepciones antes de aumentar la autonomía; contar los agentes desplegados dice poco. Para él, el mensaje clave de Frankfurt tuvo que ver con las conexiones en torno al conocimiento: entre una afirmación y su evidencia, un uso y su permiso, y una acción automatizada y las personas responsables de ella."
+                "x": "Es hora de que la industria reconozca que la AI puede aportar un valor genuino a la creatividad humana, escribe Nadim Sadek, fundador y CEO de Shimmr AI y autor de Shimmer, Don’t Shake – How Publishing Can Embrace AI."
               }
             ]
           }

@@ -1,29 +1,7 @@
-{
- "media": [
-  {
-   "id": "gadgets-gemini-sites-export",
-   "type": "image",
-   "src": "pipeline/media/gadgets-gemini-sites-export.jpg"
-  },
-  {
-   "id": "gadgets-llm-robot-jailbreak",
-   "type": "image",
-   "src": "pipeline/media/gadgets-llm-robot-jailbreak.jpg"
-  },
-  {
-   "id": "gadgets-microduck-robots",
-   "type": "image",
-   "src": "pipeline/media/gadgets-microduck-robots.jpg"
-  },
-  {
-   "id": "gadgets-gemini-notebook-connected-app",
-   "type": "image",
-   "src": "pipeline/media/gadgets-gemini-notebook-connected-app.jpg"
-  },
-  {
-   "id": "gadgets-unitree-self-evolving-robots",
-   "type": "image",
-   "src": "pipeline/media/gadgets-unitree-self-evolving-robots.jpg"
-  }
- ]
-}
+{"date":"2026-10-26","section":"gadgets","media":[
+{"id":"gadgets-topc-txa2","type":"image","src":"pipeline/media/gadgets-topc-txa2.png"},
+{"id":"gadgets-gemini-side-panel","type":"image","src":"pipeline/media/gadgets-gemini-side-panel.jpg"},
+{"id":"gadgets-dgx-spark-8x-cluster","type":"image","src":"pipeline/media/gadgets-dgx-spark-8x-cluster.png"},
+{"id":"gadgets-ramdeck-hub","type":"image","src":"pipeline/media/gadgets-ramdeck-hub.jpg"},
+{"id":"gadgets-claude-laser-range","type":"image","src":"pipeline/media/gadgets-claude-laser-range.jpg"}
+]}

@@ -2281,6 +2281,120 @@
           "x": "これを防ぐには、SearchのPersonal Intelligence機能からアプリの接続を解除するか、Search Services Personalizationの設定ページでPersonalized Recommendationsを完全に無効にすればよい。"
         }
       ]
+    },
+    "marketing/marketing-bid-exploration-pmax": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://searchengineland.com/wp-content/seloads/2026/10/Google-Ads-Performance-Dashboard-1.png"
+        },
+        {
+          "t": "p",
+          "x": "Google AdsはSmart Bidding ExplorationをPerformance MaxとShoppingキャンペーンに拡大し、広告主がTarget ROAS入札で追加の検索機会を狙えるようにする。これまでSearchキャンペーンで利用できたこの機能は、既存の入札戦略が見落としかねない対象検索から、より多くのコンバージョンを獲得できるよう設計されている。"
+        },
+        {
+          "t": "p",
+          "x": "Performance Maxでは、既存の対象語句の中から追加の検索を探索し、Searchチャネルでの入札機会を広げる。Shoppingでは、Merchant Centerフィードがあれば、SearchとShoppingの両方のトラフィックに探索を適用できる。Googleは両方について新しいヘルプ文書を公開した。"
+        },
+        {
+          "t": "p",
+          "x": "条件として、キャンペーンはTarget ROASを使い、予算による制限を受けていないことが必要だ。ポートフォリオ入札戦略はSearchキャンペーンでのみ併用でき、Search Ads 360ではShoppingや小売向けPerformance Maxキャンペーンでこの機能を使えない。"
+        },
+        {
+          "t": "p",
+          "x": "今回の更新で、コンバージョン数の増加やROASの改善が保証されるわけではない。広告主は入札を大きく変える前に、条件を確認し、成果を注視すべきである。"
+        }
+      ]
+    },
+    "marketing/marketing-ads-localize-10-languages": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/google-ads-ai-campaign-localization-10-languages-typewriter-speech-bubbles.jpg",
+          "cap": "Google Ads AIは英語のSearchキャンペーンを10言語に複製するが、予算は換算しない"
+        },
+        {
+          "t": "p",
+          "x": "2026年10月23日に提供開始を報じたPPC News Feedによると、Google Adsの広告主は、既存の英語（US）Searchキャンペーンを他の10言語のいずれかによる別キャンペーンに変換するAIキャンペーンローカライズツールを使えるようになった。広告見出し、説明文、サイトリンク、コールアウト、キーワードを翻訳し、画像からテキストを取り除き、ランディングページをその場で翻訳するスクリプトも提供する。ベータ版と表示されている。"
+        },
+        {
+          "t": "p",
+          "x": "ヘルプページによると「キャンペーンをローカライズすると、システムはまったく新しい独立したキャンペーンを作成する。元のキャンペーンが変更されることはない」。予算と入札単価はそのまま複製される。「$100 USDの予算は、ローカライズしたキャンペーンでも$100 USDの予算になる」。新しいキャンペーンは初期設定で一時停止（Paused）状態で公開される。"
+        },
+        {
+          "t": "p",
+          "x": "対象はオランダ語、フランス語、フランス語（カナダ）、ドイツ語、イタリア語、ポーランド語、そしてポルトガル語とスペイン語の各二種である。ページは「2026年9月から」Performance Maxに対応すると約束していたが、いずれの情報源もその実現を確認していない。選挙認証済み（Election-verified）の顧客は対象外だ。"
+        }
+      ]
+    },
+    "marketing/marketing-samsung-tv-ad-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/EiDyWR9Yo8wN9DnMZqQdJ4-2560-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Reverse engineer and cybersecurity bounty hunter log4j recently found they were getting \"weirdly targeted ads\" on their 2025 Samsung TV. After reverse-engineering the Tizen OS, they live-tweeted code covering detailed user telemetry from packet logging, audio categorization, screenshots and cross-device identification for ad tracking."
+        },
+        {
+          "t": "p",
+          "x": "The hacker found a region-specific convolutional neural network (an AI) that tracks user behavior, such as what videos the user watches, which ads are skipped and video progress. For TVs without microphones, it reportedly finds connected devices such as a soundbar or Bluetooth device to record audio."
+        },
+        {
+          "t": "p",
+          "x": "Hugging Face engineer ngxson tested the microphone behavior and found the TV opened the microphone for five seconds, then stopped, though their TV was already rooted with settings disabled."
+        },
+        {
+          "t": "p",
+          "x": "log4j used OpenAI tools for the work and was banned for cyber abuse; they say they used them only for local reverse engineering. A full write-up is in progress."
+        }
+      ]
+    },
+    "marketing/marketing-china-ai-ad-blue-book": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d.cn.ibtimes.com/en/full/1824086/china-artificial-intelligence-digital-advertising-content-moderation.jpg",
+          "cap": "中国の業界による新しい青書は、AI-generated広告を一貫して統治する仕組みを提案する。"
+        },
+        {
+          "t": "p",
+          "x": "Eastmoneyが転載したChina News Serviceの報道によると、『AIGC時代のインターネット広告ガバナンス青書』が10月24日、第33回中国国際広告祭の期間中に公表された。コンテンツの制作・審査から取引、広告後の消費者保護まで、広告全体を対象とする枠組みを提案している。"
+        },
+        {
+          "t": "p",
+          "x": "中心的な提言は、AIシステムが生むリスクを別のAIシステムで見抜くことだ。マルチモーダルモデルは画像、テキスト、音声をまとめて分析し、誤解を招くメッセージを捉えられる。Ocean EngineのXiao Tao氏は、インテリジェント審査なら最速10分以内に広告素材の90%を処理でき、効率は75%向上すると述べた。"
+        },
+        {
+          "t": "p",
+          "x": "主張の真実性に対する責任は引き続き広告主が負い、プラットフォームは捏造された合成の推奨などのリスクへの安全策を維持する。青書はあくまで提言集であり、拘束力のある新たな国内法ではない。"
+        }
+      ]
+    },
+    "marketing/marketing-pennsylvania-ai-ad-labels": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "ペンシルベニア(Pennsylvania)州のジョシュ・シャピロ(Josh Shapiro)知事は木曜日、Artificial Intelligence Deceptive Advertising Act(人工知能欺瞞広告法)に署名し、AI-generated(AI生成)広告への開示を義務づけた。同法は、静止画、動画、音声、テキストを問わず、「人工知能によって大幅に改変または生成された」あらゆる広告に、広告そのものと同じ形式で表示を付けるよう求める。対象はmulti-billion-dollar(数十億ドル規模)企業のTVコマーシャルから、手羽先の特売を告知する飲食店の雑然とした見栄えの悪いチラシにまで及ぶ。"
+        },
+        {
+          "t": "p",
+          "x": "ペンシルベニア州は、AIコンテンツへの開示を義務づけた最初の州の一つだ。しかも広告がどこで制作されたかにかかわらず表示を求める。そのため、他州のコマーシャルでもペンシルベニア州で放映される予定であれば、開示表示を目にすることになるかもしれない。"
+        },
+        {
+          "t": "p",
+          "x": "ただし、同法には抜け穴が多い。まず、何が「大幅に改変」にあたるかは主観的だ。「パロディ、風刺、論評または批評」や「明らかにフィクションである」ものについてのcarve-out(適用除外)もある。ここでも「明らかにフィクション」が何を意味するかは不明確だ。文言からは、製品やサービスについて「消費者に誤った認識を生じさせる形で合成コンテンツを用いる」ものだけが開示の対象になるとも読める。これもまた、法の下で何が「誤った」ものにあたり、誰がそれを判断するのかという疑問を残す。"
+        },
+        {
+          "t": "p",
+          "x": "法案を提出したニック・ピシオッタノ(Nick Pisciottano)州上院議員の事務所は、コメント要請にすぐには応じなかった。"
+        }
+      ]
     }
   }
 }

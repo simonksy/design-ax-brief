@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "section": "movies",
   "cards": [
     {
-      "id": "movies-iatse-tech-officer",
+      "id": "movies-grok-odyssey-episode",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "IATSE, 첫 기술\n인텔리전스 책임자 임명",
-      "body": "IATSE가 신기술 영향을 살필 새 직책에 Jillian Arnold를 앉혔다.",
-      "mini_headline": "IATSE, 기술 책임자 신설",
+      "headline": "AI-made 오디세이,\nGrok이 첫 화 공개",
+      "body": "머스크가 약속한 Grok Imagine AI 장편은 몇 달 만에 첫 화만 나왔다.",
+      "mini_headline": "Grok의 첫 AI 오디세이 에피소드",
       "tool": "Movies",
-      "source": "Animation Magazine",
-      "url": "https://www.animationmagazine.net/2026/10/iatse-appoints-first-labor-technology-intelligence-officer/",
+      "source": "Variety",
+      "url": "https://variety.com/2026/film/news/elon-musks-grok-ai-generated-odyssey-1236930662/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -19,179 +19,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/IATSE_Jillian-Arnold.png",
-            "cap": "IATSE | Jillian Arnold"
+            "src": "https://variety.com/wp-content/uploads/2026/10/elon-odyssey.webp?w=1000&h=563&crop=1"
           },
           {
             "t": "p",
-            "x": "The Animation Guild, Local 839를 산하에 둔 IATSE가 Jillian Arnold를 노조 사상 첫 Labor & Technology Intelligence Officer(노동·기술 인텔리전스 책임자)로 임명했다. 신기술을 파악하고 그 기술이 미국(United States)과 캐나다(Canada) 엔터테인먼트 노동자의 직능·일자리·근로 조건에 끼치는 영향을 살피는 자리다."
+            "x": "일론 머스크가 자신의 AI 도구 Grok Imagine으로 전편을 AI로 생성한(AI-generated) 장편 'The Odyssey'를 만들겠다고 약속한 지 몇 달. 이 테크 거물이 그 약속을 일부나마 지켰다."
           },
           {
             "t": "p",
-            "x": "“Jillian은 인공지능과 그것이 노동운동에 미치는 영향에 관해 앞장서 온 리더다”라고 IATSE 국제 위원장 Matthew D. Loeb는 말했다. 캐나다 담당 디렉터 John M. Lewis는 기업이 특정 AI 기술을 일부 관할권에만 들이고 다른 곳에는 들이지 않을 수도 있다고 짚었다."
+            "x": "회사는 금요일 X에 'Odyssey' 시리즈의 첫 AI-generated 에피소드를 올렸다. 7분 분량이다. 계정은 이 '창작 협업'의 공을 AI 영화 전문 제작사 Wonder Studios와 데브 워커 감독에게 돌렸다."
           },
           {
             "t": "p",
-            "x": "Arnold는 노조가 AMPTP와 벌인 2024년 협상 기간에 IATSE Artificial Intelligence Sub-Committee(인공지능 소위원회) 위원장을 맡았다. 2020년에는 여성이자 비디오 엔지니어로는 처음 IATSE Local 695 위원장에 뽑혔고 2023년 재선됐다."
+            "x": "머스크는 7월 호메로스의 서사시를 '역사적으로 정확한' 장편으로 만들어 2026년 말까지 완성하겠다고 발표했다. 'Doctor Strange'의 스콧 데릭슨 감독은 X에서 이 프로젝트를 두고 “그의 예술관은 아무 가치가 없다”고 꼬집었다."
           },
           {
             "t": "p",
-            "x": "“기술이 어떻게 개발되고 일터에 도입되는지 정하는 데 노동자가 실질적인 목소리를 내야 하는 이유도 지켜봐 왔다”고 Arnold는 말했다."
+            "x": "에피소드와 함께 낸 별도 성명은 없었다. 머스크는 개봉도 하기 전인 놀런 감독의 'The Odyssey'를 거듭 비판해 왔는데, 특히 시논 역의 엘리엇 페이지와 트로이의 헬레네 역의 루피타 뇽오 캐스팅을 문제 삼았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "IATSE names its first\ntechnology intelligence officer",
-          "body": "IATSE named Jillian Arnold to a new role tracking emerging tech and its impact on entertainment workers.",
-          "mini_headline": "IATSE adds a tech officer",
+          "headline": "Grok releases the first episode\nof its AI-made Odyssey",
+          "body": "Months after Elon Musk promised a full AI Odyssey film from Grok Imagine, only a first episode has arrived.",
+          "mini_headline": "Grok's first AI Odyssey episode",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/IATSE_Jillian-Arnold.png",
-                "cap": "IATSE | Jillian Arnold"
+                "src": "https://variety.com/wp-content/uploads/2026/10/elon-odyssey.webp?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "IATSE, which includes The Animation Guild, Local 839, has appointed Jillian Arnold as the union's first-ever Labor & Technology Intelligence Officer, a new role focused on understanding emerging technologies and their impact on the crafts, jobs and working conditions of entertainment workers in the United States and Canada."
+                "x": "Months after Elon Musk promised that his AI tool Grok Imagine would create an entirely AI-generated, feature-length version of “The Odyssey,” the tech mogul has partially followed through on the claim."
               },
               {
                 "t": "p",
-                "x": "“Jillian has been a leader on artificial intelligence and its impact on the labor movement,” said IATSE International President Matthew D. Loeb. Director of Canadian Affairs John M. Lewis noted that companies may deploy certain AI technologies in some jurisdictions but not others."
+                "x": "On Friday, the company shared the first 7-minute, AI-generated episode of the “Odyssey” series on X. The account credited the “creative collaboration” to Wonder Studios and director Dev Walker, both of which specialize in AI filmmaking."
               },
               {
                 "t": "p",
-                "x": "Arnold chaired the IATSE Artificial Intelligence Sub-Committee during the union's 2024 negotiations with the AMPTP. In 2020 she became the first woman and first video engineer elected president of IATSE Local 695, and was re-elected in 2023."
+                "x": "In July, Musk announced plans to make a “historically accurate” full-length feature version of Homer’s poem, saying it would be ready by the end of 2026. “Doctor Strange” director Scott Derrickson called out the project on X: “His opinions on art are worthless.”"
               },
               {
                 "t": "p",
-                "x": "“I've also seen why workers need a meaningful voice in determining how technologies are developed and integrated into the workplace,” Arnold said."
+                "x": "No further statement accompanied the episode. The move comes after Musk repeatedly criticized Nolan’s “The Odyssey” ahead of its release, especially the casting of Elliot Page as Sinon and Lupita Nyong’o as Helen of Troy."
               }
             ]
           }
         },
         "ko": {
-          "headline": "IATSE, 첫 기술\n인텔리전스 책임자 임명",
-          "body": "IATSE가 신기술 영향을 살필 새 직책에 Jillian Arnold를 앉혔다.",
-          "mini_headline": "IATSE, 기술 책임자 신설",
+          "headline": "AI-made 오디세이,\nGrok이 첫 화 공개",
+          "body": "머스크가 약속한 Grok Imagine AI 장편은 몇 달 만에 첫 화만 나왔다.",
+          "mini_headline": "Grok의 첫 AI 오디세이 에피소드",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/IATSE_Jillian-Arnold.png",
-                "cap": "IATSE | Jillian Arnold"
+                "src": "https://variety.com/wp-content/uploads/2026/10/elon-odyssey.webp?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "The Animation Guild, Local 839를 산하에 둔 IATSE가 Jillian Arnold를 노조 사상 첫 Labor & Technology Intelligence Officer(노동·기술 인텔리전스 책임자)로 임명했다. 신기술을 파악하고 그 기술이 미국(United States)과 캐나다(Canada) 엔터테인먼트 노동자의 직능·일자리·근로 조건에 끼치는 영향을 살피는 자리다."
+                "x": "일론 머스크가 자신의 AI 도구 Grok Imagine으로 전편을 AI로 생성한(AI-generated) 장편 'The Odyssey'를 만들겠다고 약속한 지 몇 달. 이 테크 거물이 그 약속을 일부나마 지켰다."
               },
               {
                 "t": "p",
-                "x": "“Jillian은 인공지능과 그것이 노동운동에 미치는 영향에 관해 앞장서 온 리더다”라고 IATSE 국제 위원장 Matthew D. Loeb는 말했다. 캐나다 담당 디렉터 John M. Lewis는 기업이 특정 AI 기술을 일부 관할권에만 들이고 다른 곳에는 들이지 않을 수도 있다고 짚었다."
+                "x": "회사는 금요일 X에 'Odyssey' 시리즈의 첫 AI-generated 에피소드를 올렸다. 7분 분량이다. 계정은 이 '창작 협업'의 공을 AI 영화 전문 제작사 Wonder Studios와 데브 워커 감독에게 돌렸다."
               },
               {
                 "t": "p",
-                "x": "Arnold는 노조가 AMPTP와 벌인 2024년 협상 기간에 IATSE Artificial Intelligence Sub-Committee(인공지능 소위원회) 위원장을 맡았다. 2020년에는 여성이자 비디오 엔지니어로는 처음 IATSE Local 695 위원장에 뽑혔고 2023년 재선됐다."
+                "x": "머스크는 7월 호메로스의 서사시를 '역사적으로 정확한' 장편으로 만들어 2026년 말까지 완성하겠다고 발표했다. 'Doctor Strange'의 스콧 데릭슨 감독은 X에서 이 프로젝트를 두고 “그의 예술관은 아무 가치가 없다”고 꼬집었다."
               },
               {
                 "t": "p",
-                "x": "“기술이 어떻게 개발되고 일터에 도입되는지 정하는 데 노동자가 실질적인 목소리를 내야 하는 이유도 지켜봐 왔다”고 Arnold는 말했다."
+                "x": "에피소드와 함께 낸 별도 성명은 없었다. 머스크는 개봉도 하기 전인 놀런 감독의 'The Odyssey'를 거듭 비판해 왔는데, 특히 시논 역의 엘리엇 페이지와 트로이의 헬레네 역의 루피타 뇽오 캐스팅을 문제 삼았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "IATSE、初の\n技術情報責任者を任命",
-          "body": "IATSEは新技術が労働者に与える影響を追う新職にJillian Arnoldを任命した。",
-          "mini_headline": "IATSEが技術責任者を新設",
+          "headline": "GrokのAI-made\nオデュッセイア初回公開",
+          "body": "マスク氏が約束したGrok ImagineのAI長編、数カ月を経て届いたのは初回のみだ。",
+          "mini_headline": "GrokのAIオデュッセイア初回",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/IATSE_Jillian-Arnold.png",
-                "cap": "IATSE | Jillian Arnold"
+                "src": "https://variety.com/wp-content/uploads/2026/10/elon-odyssey.webp?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "The Animation Guild, Local 839を傘下に持つIATSEは、Jillian Arnoldを組合初のLabor & Technology Intelligence Officer(労働・テクノロジー・インテリジェンス責任者)に任命した。新興技術を理解し、それが米国(United States)とカナダ(Canada)のエンターテインメント労働者の職能、雇用、労働条件に与える影響を探る新しい役職である。"
+                "x": "イーロン・マスク氏が自社のAIツールGrok Imagineで、全編AI生成(AI-generated)の長編版『The Odyssey』を作ると約束してから数カ月、このテック界の大物はその約束を部分的に果たした。"
               },
               {
                 "t": "p",
-                "x": "「Jillianは人工知能と、それが労働運動に与える影響について先頭に立ってきた」と、IATSE国際会長のMatthew D. Loebは述べた。カナダ担当ディレクターのJohn M. Lewisは、企業が特定のAI技術をある管轄区域では導入し、別の区域では導入しない可能性があると指摘した。"
+                "x": "同社は金曜日、「Odyssey」シリーズのAI-generatedによる第一話をXで公開した。長さは7分である。アカウントはこの「クリエイティブな協働」を、いずれもAI映画制作を専門とするWonder Studiosとデヴ・ウォーカー監督の功績とした。"
               },
               {
                 "t": "p",
-                "x": "Arnoldは、組合とAMPTPとの2024年の交渉でIATSE Artificial Intelligence Sub-Committee(人工知能小委員会)の委員長を務めた。2020年には女性として、またビデオエンジニアとして初めてIATSE Local 695の会長に選ばれ、2023年に再選された。"
+                "x": "マスク氏は7月、ホメロスの叙事詩を「歴史的に正確な」長編映画にする計画を発表し、2026年末までに完成させるとしていた。『Doctor Strange』のスコット・デリクソン監督はXでこの企画を批判し、「彼の芸術に関する意見には何の価値もない」と書いた。"
               },
               {
                 "t": "p",
-                "x": "「技術がどう開発され、職場にどう組み込まれるかを決めるうえで、労働者が意味のある発言権を持つべき理由も見てきた」とArnoldは語った。"
+                "x": "エピソードの公開に際し、追加の声明はなかった。マスク氏はこれに先立ち、ノーラン監督の『The Odyssey』を公開前から繰り返し批判していた。とりわけシノン役のエリオット・ペイジとトロイのヘレネ役のルピタ・ニョンゴの起用を問題視していた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "IATSE任命首位\n技术情报官",
-          "body": "IATSE任命Jillian Arnold出任新职，追踪新兴技术及其对娱乐业从业者的影响。",
-          "mini_headline": "IATSE增设技术官",
+          "headline": "Grok发布AI-made\n《奥德赛》首集",
+          "body": "马斯克许诺用Grok Imagine打造AI长片，数月后只等来首集。",
+          "mini_headline": "Grok首集AI《奥德赛》",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/IATSE_Jillian-Arnold.png",
-                "cap": "IATSE | Jillian Arnold"
+                "src": "https://variety.com/wp-content/uploads/2026/10/elon-odyssey.webp?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "旗下包括The Animation Guild, Local 839的IATSE任命Jillian Arnold为工会史上首位Labor & Technology Intelligence Officer（劳工与技术情报官）。这一新职位专注于了解新兴技术，及其对美国（United States）和加拿大（Canada）娱乐业从业者的技艺、工作与劳动条件的影响。"
+                "x": "埃隆·马斯克曾承诺，旗下AI工具Grok Imagine将打造一部完全由AI生成（AI-generated）的长片版《The Odyssey》。数月之后，这位科技大亨部分兑现了这一说法。"
               },
               {
                 "t": "p",
-                "x": "“Jillian一直是人工智能及其对劳工运动影响方面的领军人物，”IATSE国际主席Matthew D. Loeb表示。加拿大事务总监John M. Lewis指出，企业可能在某些司法管辖区部署特定AI技术，而在其他地区则不会。"
+                "x": "周五，该公司在X上发布了“Odyssey”系列的首集AI-generated剧集，时长7分钟。该账号将这次“创意合作”归功于Wonder Studios和导演德夫·沃克，二者都专注于AI电影制作。"
               },
               {
                 "t": "p",
-                "x": "在工会2024年与AMPTP的谈判期间，Arnold担任IATSE Artificial Intelligence Sub-Committee（人工智能小组委员会）主席。2020年，她成为首位当选IATSE Local 695主席的女性，也是首位当选的视频工程师，并于2023年连任。"
+                "x": "马斯克在7月宣布，计划将荷马史诗拍成一部“符合史实”的长片，并称将于2026年底完成。《Doctor Strange》导演斯科特·德瑞克森在X上批评该项目：“他对艺术的看法一文不值。”"
               },
               {
                 "t": "p",
-                "x": "“我也看到了，为什么在决定技术如何开发并融入工作场所时，劳动者需要拥有真正的话语权，”Arnold说。"
+                "x": "剧集发布时未附任何进一步声明。此前，马斯克曾在诺兰的《The Odyssey》上映前多次批评该片，尤其是让艾利奥特·佩吉饰演西农、露皮塔·尼永奥饰演特洛伊的海伦的选角。"
               }
             ]
           }
         },
         "es": {
-          "headline": "IATSE nombra a su primera\njefa de inteligencia tecnológica",
-          "body": "IATSE nombró a Jillian Arnold en un cargo nuevo sobre la tecnología emergente y su impacto en los trabajadores.",
-          "mini_headline": "IATSE suma una responsable de tecnología",
+          "headline": "Grok estrena el primer episodio\nde su Odisea AI-made",
+          "body": "Elon Musk prometió una Odisea AI completa con Grok Imagine, pero meses después solo llegó el primer episodio.",
+          "mini_headline": "El primer episodio AI de la Odisea de Grok",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/IATSE_Jillian-Arnold.png",
-                "cap": "IATSE | Jillian Arnold"
+                "src": "https://variety.com/wp-content/uploads/2026/10/elon-odyssey.webp?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "IATSE, que incluye a The Animation Guild, Local 839, nombró a Jillian Arnold primera Labor & Technology Intelligence Officer del sindicato, un nuevo cargo centrado en comprender las tecnologías emergentes y su impacto en los oficios, los empleos y las condiciones laborales de los trabajadores del entretenimiento en Estados Unidos (United States) y Canadá (Canada)."
+                "x": "Meses después de que Elon Musk prometiera que su herramienta de AI Grok Imagine crearía una versión de largometraje de “The Odyssey” íntegramente AI-generated, el magnate tecnológico ha cumplido en parte su promesa."
               },
               {
                 "t": "p",
-                "x": "“Jillian ha sido una líder en inteligencia artificial y su impacto en el movimiento obrero”, dijo el presidente internacional de IATSE, Matthew D. Loeb. El director de Asuntos Canadienses, John M. Lewis, señaló que las empresas podrían desplegar ciertas tecnologías de AI en algunas jurisdicciones pero no en otras."
+                "x": "El viernes, la compañía compartió en X el primer episodio AI-generated, de 7 minutos, de la serie “Odyssey”. La cuenta atribuyó la “colaboración creativa” a Wonder Studios y al director Dev Walker, ambos especializados en cine hecho con AI."
               },
               {
                 "t": "p",
-                "x": "Arnold presidió el IATSE Artificial Intelligence Sub-Committee durante las negociaciones de 2024 del sindicato con la AMPTP. En 2020 se convirtió en la primera mujer y la primera ingeniera de video elegida presidenta de IATSE Local 695, y fue reelegida en 2023."
+                "x": "En julio, Musk anunció planes para hacer una versión de largometraje “históricamente precisa” del poema de Homero y dijo que estaría lista a finales de 2026. El director de “Doctor Strange”, Scott Derrickson, criticó el proyecto en X: “Sus opiniones sobre el arte no valen nada”."
               },
               {
                 "t": "p",
-                "x": "“También he visto por qué los trabajadores necesitan una voz real para decidir cómo se desarrollan las tecnologías y cómo se integran en el lugar de trabajo”, dijo Arnold."
+                "x": "El episodio no vino acompañado de ninguna otra declaración. La iniciativa llega después de que Musk criticara repetidamente “The Odyssey” de Nolan antes de su estreno, en especial la elección de Elliot Page como Sinón y de Lupita Nyong’o como Helena de Troya."
               }
             ]
           }
@@ -199,125 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "IATSE, 첫 기술\n인텔리전스 책임자 임명",
-          "body": "IATSE가 신기술 영향을 살필 새 직책에 Jillian Arnold를 앉혔다.",
-          "mini_headline": "IATSE, 기술 책임자 신설",
+          "headline": "AI-made 오디세이,\nGrok이 첫 화 공개",
+          "body": "머스크가 약속한 Grok Imagine AI 장편은 몇 달 만에 첫 화만 나왔다.",
+          "mini_headline": "Grok의 첫 AI 오디세이 에피소드",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/IATSE_Jillian-Arnold.png",
-                "cap": "IATSE | Jillian Arnold"
+                "src": "https://variety.com/wp-content/uploads/2026/10/elon-odyssey.webp?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "The Animation Guild, Local 839를 산하에 둔 IATSE가 Jillian Arnold를 노조 사상 첫 Labor & Technology Intelligence Officer(노동·기술 인텔리전스 책임자)로 임명했다. 신기술을 이해하고, 그것이 미국(United States)과 캐나다(Canada) 엔터테인먼트 노동자의 직능, 일자리, 근로 조건에 미치는 영향을 살피는 새 직책이다."
+                "x": "일론 머스크가 자신의 AI 도구 Grok Imagine으로 전편을 AI로 생성한(AI-generated) 장편 'The Odyssey'를 만들겠다고 약속한 지 몇 달 만에, 이 테크 거물은 그 약속을 일부 지켰다."
               },
               {
                 "t": "p",
-                "x": "“Jillian은 인공지능과 그것이 노동운동에 미치는 영향에 관해 앞장서 온 리더다”라고 IATSE 국제 위원장 Matthew D. Loeb는 말했다. 캐나다 담당 디렉터 John M. Lewis는 기업이 특정 AI 기술을 일부 관할권에서는 도입하고 다른 곳에서는 도입하지 않을 수 있다고 짚었다."
+                "x": "회사는 금요일 X에 'Odyssey' 시리즈의 첫 AI-generated 에피소드를 공개했다. 분량은 7분이다. 계정은 이 '창작 협업'의 공을 AI 영화 제작을 전문으로 하는 Wonder Studios와 데브 워커 감독에게 돌렸다."
               },
               {
                 "t": "p",
-                "x": "Arnold는 노조가 AMPTP와 벌인 2024년 협상 기간에 IATSE Artificial Intelligence Sub-Committee(인공지능 소위원회) 위원장을 맡았다. 2020년에는 여성이자 비디오 엔지니어로서 처음으로 IATSE Local 695 위원장에 선출됐고, 2023년 재선됐다."
+                "x": "머스크는 7월 호메로스의 서사시를 '역사적으로 정확한' 장편으로 만들겠다며 2026년 말까지 완성하겠다고 발표했다. 'Doctor Strange'의 스콧 데릭슨 감독은 X에서 이 프로젝트를 두고 “그의 예술관은 아무 가치가 없다”고 꼬집었다."
               },
               {
                 "t": "p",
-                "x": "“기술이 어떻게 개발되고 일터에 도입되는지 정하는 데 노동자가 실질적인 목소리를 내야 하는 이유도 지켜봐 왔다”고 Arnold는 말했다."
+                "x": "에피소드와 함께 나온 별도 성명은 없었다. 이번 공개는 머스크가 개봉 전부터 놀런 감독의 'The Odyssey'를, 특히 시논 역의 엘리엇 페이지와 트로이의 헬레네 역의 루피타 뇽오 캐스팅을 거듭 비판한 뒤에 나왔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "IATSE、初の\n技術情報責任者を任命",
-          "body": "IATSEは新技術が労働者に与える影響を追う新職にJillian Arnoldを任命した。",
-          "mini_headline": "IATSEが技術責任者を新設",
+          "headline": "GrokのAI-made\nオデュッセイア初回公開",
+          "body": "マスク氏が約束したGrok ImagineのAI長編、数カ月を経て届いたのは初回のみだ。",
+          "mini_headline": "GrokのAIオデュッセイア初回",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/IATSE_Jillian-Arnold.png",
-                "cap": "IATSE | Jillian Arnold"
+                "src": "https://variety.com/wp-content/uploads/2026/10/elon-odyssey.webp?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "The Animation Guild, Local 839を傘下に持つIATSEは、Jillian Arnoldを組合初のLabor & Technology Intelligence Officer(労働・テクノロジー・インテリジェンス責任者)に任命した。新興技術を理解し、それが米国(United States)とカナダ(Canada)のエンターテインメント労働者の職能、雇用、労働条件に与える影響を探る新しい役職である。"
+                "x": "イーロン・マスク氏が自社のAIツールGrok Imagineで、全編AI生成(AI-generated)の長編版『The Odyssey』を作ると約束してから数カ月、このテック界の大物はその約束を部分的に果たした。"
               },
               {
                 "t": "p",
-                "x": "「Jillianは人工知能と、それが労働運動に与える影響について先頭に立ってきた」と、IATSE国際会長のMatthew D. Loebは述べた。カナダ担当ディレクターのJohn M. Lewisは、企業が特定のAI技術をある管轄区域では導入し、別の区域では導入しない可能性があると指摘した。"
+                "x": "同社は金曜日、「Odyssey」シリーズのAI-generatedによる第一話をXで公開した。長さは7分である。アカウントはこの「クリエイティブな協働」を、いずれもAI映画制作を専門とするWonder Studiosとデヴ・ウォーカー監督の功績とした。"
               },
               {
                 "t": "p",
-                "x": "Arnoldは、組合とAMPTPとの2024年の交渉でIATSE Artificial Intelligence Sub-Committee(人工知能小委員会)の委員長を務めた。2020年には女性として、またビデオエンジニアとして初めてIATSE Local 695の会長に選ばれ、2023年に再選された。"
+                "x": "マスク氏は7月、ホメロスの叙事詩を「歴史的に正確な」長編映画にする計画を発表し、2026年末までに完成させるとしていた。『Doctor Strange』のスコット・デリクソン監督はXでこの企画を批判し、「彼の芸術に関する意見には何の価値もない」と書いた。"
               },
               {
                 "t": "p",
-                "x": "「技術がどう開発され、職場にどう組み込まれるかを決めるうえで、労働者が意味のある発言権を持つべき理由も見てきた」とArnoldは語った。"
+                "x": "エピソードの公開に際し、追加の声明はなかった。マスク氏はこれに先立ち、ノーラン監督の『The Odyssey』を公開前から繰り返し批判していた。とりわけシノン役のエリオット・ペイジとトロイのヘレネ役のルピタ・ニョンゴの起用を問題視していた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "IATSE任命首位\n技术情报官",
-          "body": "IATSE任命Jillian Arnold出任新职，追踪新兴技术及其对娱乐业从业者的影响。",
-          "mini_headline": "IATSE增设技术官",
+          "headline": "Grok发布AI-made\n《奥德赛》首集",
+          "body": "马斯克许诺用Grok Imagine打造AI长片，数月后只等来首集。",
+          "mini_headline": "Grok首集AI《奥德赛》",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/IATSE_Jillian-Arnold.png",
-                "cap": "IATSE | Jillian Arnold"
+                "src": "https://variety.com/wp-content/uploads/2026/10/elon-odyssey.webp?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "旗下包括The Animation Guild, Local 839的IATSE任命Jillian Arnold为工会史上首位Labor & Technology Intelligence Officer（劳工与技术情报官）。这一新职位专注于了解新兴技术，及其对美国（United States）和加拿大（Canada）娱乐业从业者的技艺、工作与劳动条件的影响。"
+                "x": "埃隆·马斯克曾承诺，旗下AI工具Grok Imagine将打造一部完全由AI生成（AI-generated）的长片版《The Odyssey》。数月之后，这位科技大亨部分兑现了这一说法。"
               },
               {
                 "t": "p",
-                "x": "“Jillian一直是人工智能及其对劳工运动影响方面的领军人物，”IATSE国际主席Matthew D. Loeb表示。加拿大事务总监John M. Lewis指出，企业可能在某些司法管辖区部署特定AI技术，而在其他地区则不会。"
+                "x": "周五，该公司在X上发布了“Odyssey”系列的首集AI-generated剧集，时长7分钟。该账号将这次“创意合作”归功于Wonder Studios和导演德夫·沃克，二者都专注于AI电影制作。"
               },
               {
                 "t": "p",
-                "x": "在工会2024年与AMPTP的谈判期间，Arnold担任IATSE Artificial Intelligence Sub-Committee（人工智能小组委员会）主席。2020年，她成为首位当选IATSE Local 695主席的女性，也是首位当选的视频工程师，并于2023年连任。"
+                "x": "马斯克在7月宣布，计划将荷马史诗拍成一部“符合史实”的长片，并称将于2026年底完成。《Doctor Strange》导演斯科特·德瑞克森在X上批评该项目：“他对艺术的看法一文不值。”"
               },
               {
                 "t": "p",
-                "x": "“我也看到了，为什么在决定技术如何开发并融入工作场所时，劳动者需要拥有真正的话语权，”Arnold说。"
+                "x": "剧集发布时未附任何进一步声明。此前，马斯克曾在诺兰的《The Odyssey》上映前多次批评该片，尤其是让艾利奥特·佩吉饰演西农、露皮塔·尼永奥饰演特洛伊的海伦的选角。"
               }
             ]
           }
         },
         "es": {
-          "headline": "IATSE nombra a su primera\njefa de inteligencia tecnológica",
-          "body": "IATSE nombró a Jillian Arnold en un cargo nuevo sobre la tecnología emergente y su impacto en los trabajadores.",
-          "mini_headline": "IATSE suma una responsable de tecnología",
+          "headline": "Grok estrena el primer episodio\nde su Odisea AI-made",
+          "body": "Elon Musk prometió una Odisea AI completa con Grok Imagine, pero meses después solo llegó el primer episodio.",
+          "mini_headline": "El primer episodio AI de la Odisea de Grok",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/IATSE_Jillian-Arnold.png",
-                "cap": "IATSE | Jillian Arnold"
+                "src": "https://variety.com/wp-content/uploads/2026/10/elon-odyssey.webp?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "IATSE, que incluye a The Animation Guild, Local 839, nombró a Jillian Arnold primera Labor & Technology Intelligence Officer del sindicato, un nuevo cargo centrado en comprender las tecnologías emergentes y su impacto en los oficios, los empleos y las condiciones laborales de los trabajadores del entretenimiento en Estados Unidos (United States) y Canadá (Canada)."
+                "x": "Meses después de que Elon Musk prometiera que su herramienta de AI Grok Imagine crearía una versión de largometraje de “The Odyssey” íntegramente AI-generated, el magnate tecnológico ha cumplido en parte su promesa."
               },
               {
                 "t": "p",
-                "x": "“Jillian ha sido una líder en inteligencia artificial y su impacto en el movimiento obrero”, dijo el presidente internacional de IATSE, Matthew D. Loeb. El director de Asuntos Canadienses, John M. Lewis, señaló que las empresas podrían desplegar ciertas tecnologías de AI en algunas jurisdicciones pero no en otras."
+                "x": "El viernes, la compañía compartió en X el primer episodio AI-generated, de 7 minutos, de la serie “Odyssey”. La cuenta atribuyó la “colaboración creativa” a Wonder Studios y al director Dev Walker, ambos especializados en cine hecho con AI."
               },
               {
                 "t": "p",
-                "x": "Arnold presidió el IATSE Artificial Intelligence Sub-Committee durante las negociaciones de 2024 del sindicato con la AMPTP. En 2020 se convirtió en la primera mujer y la primera ingeniera de video elegida presidenta de IATSE Local 695, y fue reelegida en 2023."
+                "x": "En julio, Musk anunció planes para hacer una versión de largometraje “históricamente precisa” del poema de Homero y dijo que estaría lista a finales de 2026. El director de “Doctor Strange”, Scott Derrickson, criticó el proyecto en X: “Sus opiniones sobre el arte no valen nada”."
               },
               {
                 "t": "p",
-                "x": "“También he visto por qué los trabajadores necesitan una voz real para decidir cómo se desarrollan las tecnologías y cómo se integran en el lugar de trabajo”, dijo Arnold."
+                "x": "El episodio no vino acompañado de ninguna otra declaración. La iniciativa llega después de que Musk criticara repetidamente “The Odyssey” de Nolan antes de su estreno, en especial la elección de Elliot Page como Sinón y de Lupita Nyong’o como Helena de Troya."
               }
             ]
           }
@@ -325,15 +315,15 @@
       }
     },
     {
-      "id": "movies-peter-chan-no-ai",
+      "id": "movies-stallone-ai-trampled",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI-generated는\nPeter Chan이 거부",
-      "body": "Peter Chan은 AI를 기법으로 쓰되 AI-generated는 거부했다.",
-      "mini_headline": "Peter Chan, AI에 선을 긋다",
+      "headline": "스탤론 \"AI 따르거나\n짓밟히거나\"",
+      "body": "80세 실베스터 스탤론은 AI가 사라지지 않으니 업계가 받아들여야 한다고 말했다.",
+      "mini_headline": "스탤론, AI 옹호",
       "tool": "Movies",
-      "source": "Variety",
-      "url": "https://variety.com/2026/film/global/peter-chan-rules-out-ai-generated-content-feature-films-survival-1236922012/",
+      "source": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/sylvester-stallone-defends-ai-1236738168/",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
@@ -341,255 +331,375 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/10/Peter-Chan.jpg?w=1000&h=563&crop=1"
+            "src": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/GettyImages-1423314969.jpg?crop=0px%2C625px%2C5822px%2C3258px&resize=1440%2C810"
           },
           {
             "t": "p",
-            "x": "“Comrades: Almost a Love Story”(첨밀밀)와 “The Warlords”(명장)를 연출한 Peter Chan Ho-sun(진가신) 감독은 영화 작업에 AI를 아마 쓰겠지만 “AIGC, 즉 AI-generated 콘텐츠는 절대 아니다”라고 말했다. 적어도 자기가 살아 있는 동안은 two-hour 장편 영화가 short-form 콘텐츠와 세로형 드라마에 맞서 자리를 지킬 거라고도 했다."
+            "x": "실베스터 스탤론이 AI를 옹호하고 나섰다. 거스를 수 없는 흐름이니 할리우드가 결국 받아들이고 끌어안아야 한다는 주장이다."
           },
           {
             "t": "p",
-            "x": "Singapore International Film Festival의 In Conversation 행사에서 그는 업계가 CGI와 특수효과를 이미 쓰고 있듯 AI도 기법의 하나로 쓰겠다고 밝혔다. Chan은 “영화 만드는 데 도움이 되는 것이라면 무엇이든 환영한다. 하지만 그것들은 예술을 모른다. 영화는 여전히 사람이 만든다”고 말했다."
+            "x": "80세인 그는 Lionsgate가 준비 중인 John Rambo 프리퀄 이야기를 꺼냈다. 원래는 젊은 시절의 자신을 직접 연기하고 AI로 디에이징하자고 제안했다고 한다. 이 역은 결국 30세 노아 센티네오에게 돌아갔다."
           },
           {
             "t": "p",
-            "x": "“지금이 아마 영화에 가장 힘든 시기일 것이다. 그렇다면 이 매체가 short-form 엔터테인먼트에 밀려 사라질 거라고 믿느냐고? 아니다.” 그는 Toronto에서 첫선을 보인 신작 “The Road Not Taken”과 “Comrades” 30주년 이야기도 꺼냈다."
+            "x": "그는 The Overlap에 “이 말 때문에 곤란해지곤 하지만 AI는 사라지지 않는다”며 “반은 사람, 반은 AI(half-human, half-AI)로 만들어 합치고 싶었는데, 물론 다들 난리가 났다”고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "“그래서 창작 커뮤니티에서 요란하게 비난을 받더라도 나는 그 위험을 감수하겠다. 그리고 그들의 [불만은] 옳다! 그들이 옳다. 하지만 우리는 이걸 막을 수 없다. 이건 눈사태다. 우리 통제를 완전히 벗어났다. 함께 가지 않으면 그것에 짓밟히고 만다.”"
+          },
+          {
+            "t": "p",
+            "x": "연기가 “AI 때문에 더 어려워질 것”이라는 경고도 했다. 배우인 딸 스칼릿 로즈 스탤론에게는 게임 쪽으로 가라고 권했다고 한다. John Rambo는 2027년 6월 4일 개봉한다."
+          },
+          {
+            "t": "video",
+            "yt": "Axv-1C9-07U"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Peter Chan rules out\nAI-generated content",
-          "body": "Peter Chan says he will probably use AI as a technique but definitely not AI-generated content.",
-          "mini_headline": "Peter Chan says no to AI",
+          "headline": "Stallone on AI: go with it\nor be trampled",
+          "body": "Sylvester Stallone, 80, says the industry must embrace AI because it is here to stay.",
+          "mini_headline": "Stallone backs AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Peter-Chan.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/GettyImages-1423314969.jpg?crop=0px%2C625px%2C5822px%2C3258px&resize=1440%2C810"
               },
               {
                 "t": "p",
-                "x": "Peter Chan Ho-sun, director of “Comrades: Almost a Love Story” and “The Warlords,” said he will probably use AI in his filmmaking but “definitely not AIGC,” or AI-generated content, and that the two-hour feature will hold its ground against short-form and vertical dramas, at least in his lifetime."
+                "x": "Sylvester Stallone is defending the use of AI as an inevitable force that Hollywood will just have to accept and embrace."
               },
               {
                 "t": "p",
-                "x": "Speaking at an In Conversation event at the Singapore International Film Festival, he said he would use AI as a technique, the way the industry already uses CGI and special effects. “Anything that helps me make movies, I welcome. But they won't know art. Movies are still made by people,” Chan said."
+                "x": "Referencing Lionsgate’s upcoming John Rambo prequel, the 80-year-old actor said he originally pitched playing his younger self and using AI to de-age his performance (30-year-old Noah Centineo was cast instead)."
               },
               {
                 "t": "p",
-                "x": "“This is probably the toughest time for film, but do I believe this medium is going to be lost and gone to short-form entertainment? No.” He also discussed his latest film, “The Road Not Taken,” which premiered in Toronto, and the 30th anniversary of “Comrades.”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Peter Chan descarta el\ncontenido AI-generated",
-          "body": "Peter Chan dice que probablemente usará AI como técnica, pero en ningún caso contenido AI-generated.",
-          "mini_headline": "Peter Chan dice no a la AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Peter-Chan.jpg?w=1000&h=563&crop=1"
+                "x": "“I get in trouble for this [but] AI is here to stay,” he told The Overlap. “I wanted to do half-human, half-AI and put it together, and of course everyone’s going nuts.”"
               },
               {
                 "t": "p",
-                "x": "Peter Chan Ho-sun, director de “Comrades: Almost a Love Story” y “The Warlords”, afirmó que probablemente usará AI en su cine, pero “definitivamente no AIGC”, es decir, contenido AI-generated, y que el largometraje de dos horas resistirá frente a los formatos cortos y los dramas verticales, al menos mientras él viva."
+                "x": "“So I would take that risk, even though you get blasted bombastically from the creative community. And their [complaints are] right! They’re right. But we can’t stop this. It’s an avalanche. It’s just out of our control. If you don’t go with it, you will be trampled by it.”"
               },
               {
                 "t": "p",
-                "x": "En un encuentro In Conversation del Singapore International Film Festival, dijo que usaría la AI como una técnica, igual que la industria ya usa CGI y efectos especiales. “Todo lo que me ayude a hacer películas es bienvenido. Pero no sabrán de arte. Las películas siguen haciéndolas las personas”, dijo Chan."
+                "x": "He also warned that acting is “going to get more difficult because of AI,” saying he told his actress daughter Scarlet Rose Stallone to get into gaming. John Rambo is scheduled for June 4, 2027."
               },
               {
-                "t": "p",
-                "x": "“Probablemente sea la época más dura para el cine, pero ¿creo que este medio se va a perder y quedará en manos del entretenimiento de formato corto? No.” También habló de su película más reciente, “The Road Not Taken”, que se estrenó en Toronto, y del 30.º aniversario de “Comrades”."
+                "t": "video",
+                "yt": "Axv-1C9-07U"
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI-generated는\nPeter Chan이 거부",
-          "body": "Peter Chan은 AI를 기법으로 쓰되 AI-generated는 거부했다.",
-          "mini_headline": "Peter Chan, AI에 선을 긋다",
+          "headline": "스탤론 \"AI 따르거나\n짓밟히거나\"",
+          "body": "80세 실베스터 스탤론은 AI가 사라지지 않으니 업계가 받아들여야 한다고 말했다.",
+          "mini_headline": "스탤론, AI 옹호",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Peter-Chan.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/GettyImages-1423314969.jpg?crop=0px%2C625px%2C5822px%2C3258px&resize=1440%2C810"
               },
               {
                 "t": "p",
-                "x": "“Comrades: Almost a Love Story”(첨밀밀)와 “The Warlords”(명장)를 연출한 Peter Chan Ho-sun(진가신) 감독은 영화 작업에 AI를 아마 쓰겠지만 “AIGC, 즉 AI-generated 콘텐츠는 절대 아니다”라고 말했다. 적어도 자기가 살아 있는 동안은 two-hour 장편 영화가 short-form 콘텐츠와 세로형 드라마에 맞서 자리를 지킬 거라고도 했다."
+                "x": "실베스터 스탤론이 AI를 옹호하고 나섰다. 거스를 수 없는 흐름이니 할리우드가 결국 받아들이고 끌어안아야 한다는 주장이다."
               },
               {
                 "t": "p",
-                "x": "Singapore International Film Festival의 In Conversation 행사에서 그는 업계가 CGI와 특수효과를 이미 쓰고 있듯 AI도 기법의 하나로 쓰겠다고 밝혔다. Chan은 “영화 만드는 데 도움이 되는 것이라면 무엇이든 환영한다. 하지만 그것들은 예술을 모른다. 영화는 여전히 사람이 만든다”고 말했다."
+                "x": "80세인 그는 Lionsgate가 준비 중인 John Rambo 프리퀄 이야기를 꺼냈다. 원래는 젊은 시절의 자신을 직접 연기하고 AI로 디에이징하자고 제안했다고 한다. 이 역은 결국 30세 노아 센티네오에게 돌아갔다."
               },
               {
                 "t": "p",
-                "x": "“지금이 아마 영화에 가장 힘든 시기일 것이다. 그렇다면 이 매체가 short-form 엔터테인먼트에 밀려 사라질 거라고 믿느냐고? 아니다.” 그는 Toronto에서 첫선을 보인 신작 “The Road Not Taken”과 “Comrades” 30주년 이야기도 꺼냈다."
+                "x": "그는 The Overlap에 “이 말 때문에 곤란해지곤 하지만 AI는 사라지지 않는다”며 “반은 사람, 반은 AI(half-human, half-AI)로 만들어 합치고 싶었는데, 물론 다들 난리가 났다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "“그래서 창작 커뮤니티에서 요란하게 비난을 받더라도 나는 그 위험을 감수하겠다. 그리고 그들의 [불만은] 옳다! 그들이 옳다. 하지만 우리는 이걸 막을 수 없다. 이건 눈사태다. 우리 통제를 완전히 벗어났다. 함께 가지 않으면 그것에 짓밟히고 만다.”"
+              },
+              {
+                "t": "p",
+                "x": "연기가 “AI 때문에 더 어려워질 것”이라는 경고도 했다. 배우인 딸 스칼릿 로즈 스탤론에게는 게임 쪽으로 가라고 권했다고 한다. John Rambo는 2027년 6월 4일 개봉한다."
+              },
+              {
+                "t": "video",
+                "yt": "Axv-1C9-07U"
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-generatedは\nPeter Chanが拒否",
-          "body": "Peter ChanはAIを技法として使うが、AI-generatedは使わないという。",
-          "mini_headline": "Peter Chan、AIに一線",
+          "headline": "スタローン「AIに従うか\n踏みつぶされるか」",
+          "body": "80歳のシルベスター・スタローンは、AIは定着するので業界は受け入れるべきだと語った。",
+          "mini_headline": "スタローン、AIを支持",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Peter-Chan.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/GettyImages-1423314969.jpg?crop=0px%2C625px%2C5822px%2C3258px&resize=1440%2C810"
               },
               {
                 "t": "p",
-                "x": "「Comrades: Almost a Love Story」（ラヴソング）や「The Warlords」（ウォーロード／男たちの誓い）を手がけたPeter Chan Ho-sun（ピーター・チャン）監督は、映画づくりにAIをおそらく使うだろうが「AIGC、つまりAI-generatedコンテンツは絶対に使わない」と語った。また少なくとも自分が生きているうちは、two-hourの長編映画がshort-formや縦型ドラマに対して持ちこたえるとの見方を示した。"
+                "x": "シルベスター・スタローンが、AIはハリウッドが受け入れ、取り込むしかない不可避の力だとして、その活用を擁護している。"
               },
               {
                 "t": "p",
-                "x": "Singapore International Film FestivalのIn Conversationイベントで、業界がすでにCGIや特殊効果を使っているように、AIを一つの技法として使うと述べた。「映画づくりに役立つものなら何でも歓迎する。だが、それらは芸術を知らない。映画は今も人がつくるものだ」とChanは語った。"
+                "x": "80歳の彼はLionsgateが手がける『John Rambo』の前日譚に触れ、当初は自ら若き日の自分を演じ、AIで若返らせる案を提案していたと明かした（実際には30歳のノア・センティネオが起用された）。"
               },
               {
                 "t": "p",
-                "x": "「今はおそらく映画にとって最も厳しい時期だ。だが、この媒体がshort-formの娯楽に取って代わられ、消えてしまうと信じるか。答えはノーだ」。TorontoでプレミアされたThe Road Not Taken（最新作）や、「Comrades」の30周年についても語った。"
+                "x": "「こう言うと叩かれるが、AIはなくならない」と彼はThe Overlapに語った。「半分人間、半分AI（half-human, half-AI）で作って組み合わせたかった。もちろん皆が大騒ぎしている」"
+              },
+              {
+                "t": "p",
+                "x": "「だから私はそのリスクを取る。クリエイティブ界から猛烈に批判されてもだ。そして彼らの[不満は]正しい！彼らは正しい。だが、これは止められない。雪崩なんだ。もう我々の手には負えない。乗らなければ、踏みつぶされるだけだ」"
+              },
+              {
+                "t": "p",
+                "x": "彼はまた、演技の仕事は「AIのせいでもっと難しくなる」と警告し、俳優である娘のスカーレット・ローズ・スタローンにゲームの道に進むよう勧めたと語った。『John Rambo』は2027年6月4日公開予定である。"
+              },
+              {
+                "t": "video",
+                "yt": "Axv-1C9-07U"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI-generated内容\nPeter Chan说不",
-          "body": "Peter Chan表示可能会把AI当作技术手段，但绝不使用AI-generated内容。",
-          "mini_headline": "Peter Chan对AI划线",
+          "headline": "史泰龙谈AI：顺应\n否则被碾压",
+          "body": "80岁的西尔维斯特·史泰龙表示，AI已成定局，行业必须接纳它。",
+          "mini_headline": "史泰龙力挺AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Peter-Chan.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/GettyImages-1423314969.jpg?crop=0px%2C625px%2C5822px%2C3258px&resize=1440%2C810"
               },
               {
                 "t": "p",
-                "x": "执导《Comrades: Almost a Love Story》（甜蜜蜜）和《The Warlords》（投名状）的Peter Chan Ho-sun（陈可辛）表示，他在电影创作中可能会使用AI，但“绝对不用AIGC”，即AI-generated内容；他还认为，至少在他有生之年，two-hour长片能够在short-form和竖屏短剧面前站稳脚跟。"
+                "x": "西尔维斯特·史泰龙为AI的使用辩护，称其是好莱坞只能接受并拥抱的必然力量。"
               },
               {
                 "t": "p",
-                "x": "在Singapore International Film Festival的In Conversation活动上，他说会像业界早已使用CGI和特效那样，把AI当作一种技术手段。Chan说：“凡是能帮我拍电影的，我都欢迎。但它们不懂艺术。电影仍然是由人来拍的。”"
+                "x": "谈及Lionsgate即将推出的《John Rambo》前传时，这位80岁的演员说，他最初提议亲自饰演年轻时的自己，并用AI为表演减龄（最终由30岁的诺亚·森蒂内奥出演）。"
               },
               {
                 "t": "p",
-                "x": "“这大概是电影最艰难的时期，但我是否相信这种媒介会消失、被short-form娱乐取代？不。”他还谈到了在Toronto首映的新作《The Road Not Taken》，以及《Comrades》上映30周年。"
+                "x": "“我因为这个惹了麻烦，[但]AI会一直存在，”他对The Overlap说，“我想做一半真人、一半AI（half-human, half-AI），再把它们合在一起，当然所有人都炸了锅。”"
+              },
+              {
+                "t": "p",
+                "x": "“所以我愿意冒这个险，哪怕会被创意圈猛烈抨击。而且他们的[抱怨]是对的！他们是对的。但我们阻止不了。这是一场雪崩。它已经完全不受我们控制。如果你不顺应它，就会被它碾压。”"
+              },
+              {
+                "t": "p",
+                "x": "他还警告，表演“会因为AI变得更难”，并称自己已让身为演员的女儿斯嘉丽·罗斯·史泰龙去做游戏。《John Rambo》定于2027年6月4日上映。"
+              },
+              {
+                "t": "video",
+                "yt": "Axv-1C9-07U"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Stallone sobre la AI: adaptarse\no ser aplastado",
+          "body": "Sylvester Stallone, de 80 años, afirma que la industria debe adoptar la AI porque ha llegado para quedarse.",
+          "mini_headline": "Stallone respalda la AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/GettyImages-1423314969.jpg?crop=0px%2C625px%2C5822px%2C3258px&resize=1440%2C810"
+              },
+              {
+                "t": "p",
+                "x": "Sylvester Stallone defiende el uso de la AI como una fuerza inevitable que Hollywood tendrá que aceptar y adoptar."
+              },
+              {
+                "t": "p",
+                "x": "Al referirse a la próxima precuela de John Rambo de Lionsgate, el actor de 80 años dijo que en un principio propuso interpretar a su yo más joven y usar AI para rejuvenecer su actuación (finalmente se eligió a Noah Centineo, de 30 años)."
+              },
+              {
+                "t": "p",
+                "x": "“Me meto en problemas por esto, [pero] la AI ha llegado para quedarse”, dijo a The Overlap. “Quería hacerlo mitad humano, mitad AI (half-human, half-AI) y juntarlo, y claro, todo el mundo se está volviendo loco”."
+              },
+              {
+                "t": "p",
+                "x": "“Así que asumiría ese riesgo, aunque la comunidad creativa te critique con estruendo. ¡Y sus [quejas son] justas! Tienen razón. Pero no podemos detener esto. Es una avalancha. Está fuera de nuestro control. Si no vas con ella, te pasará por encima”."
+              },
+              {
+                "t": "p",
+                "x": "También advirtió que actuar “va a ser más difícil por culpa de la AI” y contó que le dijo a su hija, la actriz Scarlet Rose Stallone, que se dedicara a los videojuegos. John Rambo tiene su estreno previsto para el 4 de junio de 2027."
+              },
+              {
+                "t": "video",
+                "yt": "Axv-1C9-07U"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "es": {
-          "headline": "Peter Chan descarta el\ncontenido AI-generated",
-          "body": "Peter Chan dice que probablemente usará AI como técnica, pero en ningún caso contenido AI-generated.",
-          "mini_headline": "Peter Chan dice no a la AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Peter-Chan.jpg?w=1000&h=563&crop=1"
-              },
-              {
-                "t": "p",
-                "x": "Peter Chan Ho-sun, director de “Comrades: Almost a Love Story” y “The Warlords”, afirmó que probablemente usará AI en su cine, pero “definitivamente no AIGC”, es decir, contenido AI-generated, y que el largometraje de dos horas resistirá frente a los formatos cortos y los dramas verticales, al menos mientras él viva."
-              },
-              {
-                "t": "p",
-                "x": "En un encuentro In Conversation del Singapore International Film Festival, dijo que usaría la AI como una técnica, igual que la industria ya usa CGI y efectos especiales. “Todo lo que me ayude a hacer películas es bienvenido. Pero no sabrán de arte. Las películas siguen haciéndolas las personas”, dijo Chan."
-              },
-              {
-                "t": "p",
-                "x": "“Probablemente sea la época más dura para el cine, pero ¿creo que este medio se va a perder y quedará en manos del entretenimiento de formato corto? No.” También habló de su película más reciente, “The Road Not Taken”, que se estrenó en Toronto, y del 30.º aniversario de “Comrades”."
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "AI-generated는\nPeter Chan이 거부",
-          "body": "Peter Chan은 AI를 기법으로 쓰되 AI-generated는 거부했다.",
-          "mini_headline": "Peter Chan, AI에 선을 긋다",
+          "headline": "스탤론 \"AI 따르거나\n짓밟히거나\"",
+          "body": "80세 실베스터 스탤론은 AI가 사라지지 않으니 업계가 받아들여야 한다고 말했다.",
+          "mini_headline": "스탤론, AI 옹호",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Peter-Chan.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/GettyImages-1423314969.jpg?crop=0px%2C625px%2C5822px%2C3258px&resize=1440%2C810"
               },
               {
                 "t": "p",
-                "x": "“Comrades: Almost a Love Story”(첨밀밀)와 “The Warlords”(명장)를 연출한 Peter Chan Ho-sun(진가신) 감독은 영화 작업에 AI를 아마 쓰겠지만 “AIGC, 즉 AI-generated 콘텐츠는 절대 아니다”라고 말했다. 그는 적어도 자신이 살아 있는 동안에는 two-hour 장편 영화가 short-form 콘텐츠와 세로형 드라마에 맞서 자리를 지킬 것이라고 했다."
+                "x": "실베스터 스탤론이 AI를 할리우드가 결국 받아들이고 끌어안아야 할 거스를 수 없는 흐름이라며 옹호하고 나섰다."
               },
               {
                 "t": "p",
-                "x": "Singapore International Film Festival의 In Conversation 행사에서 그는 업계가 이미 CGI와 특수효과를 쓰듯 AI를 하나의 기법으로 쓰겠다고 밝혔다. Chan은 “영화 만드는 데 도움이 되는 것이라면 무엇이든 환영한다. 하지만 그것들은 예술을 모른다. 영화는 여전히 사람이 만든다”고 말했다."
+                "x": "80세인 그는 Lionsgate가 준비 중인 John Rambo 프리퀄을 언급하며, 원래는 자신이 젊은 시절의 자신을 직접 연기하고 AI로 디에이징하는 방안을 제안했다고 밝혔다. 결국 이 역에는 30세 노아 센티네오가 캐스팅됐다."
               },
               {
                 "t": "p",
-                "x": "“지금이 아마 영화에 가장 힘든 시기일 것이다. 그렇다면 이 매체가 short-form 엔터테인먼트에 밀려 사라질 거라고 믿느냐고? 아니다.” 그는 Toronto에서 첫선을 보인 신작 “The Road Not Taken”과 “Comrades” 30주년에 대해서도 이야기했다."
+                "x": "그는 The Overlap에 “이 말 때문에 곤란해지곤 하지만 AI는 사라지지 않는다”며 “반은 사람, 반은 AI(half-human, half-AI)로 만들어 합치고 싶었는데, 물론 다들 난리가 났다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "“그래서 창작 커뮤니티에서 요란하게 비난을 받더라도 나는 그 위험을 감수하겠다. 그리고 그들의 [불만은] 옳다! 그들이 옳다. 하지만 우리는 이걸 막을 수 없다. 이건 눈사태다. 우리 통제를 완전히 벗어났다. 함께 가지 않으면 그것에 짓밟히고 만다.”"
+              },
+              {
+                "t": "p",
+                "x": "그는 연기가 “AI 때문에 더 어려워질 것”이라고 경고하며, 배우인 딸 스칼릿 로즈 스탤론에게 게임 쪽으로 가라고 권했다고 말했다. John Rambo는 2027년 6월 4일 개봉 예정이다."
+              },
+              {
+                "t": "video",
+                "yt": "Axv-1C9-07U"
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-generatedは\nPeter Chanが拒否",
-          "body": "Peter ChanはAIを技法として使うが、AI-generatedは使わないという。",
-          "mini_headline": "Peter Chan、AIに一線",
+          "headline": "スタローン「AIに従うか\n踏みつぶされるか」",
+          "body": "80歳のシルベスター・スタローンは、AIは定着するので業界は受け入れるべきだと語った。",
+          "mini_headline": "スタローン、AIを支持",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Peter-Chan.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/GettyImages-1423314969.jpg?crop=0px%2C625px%2C5822px%2C3258px&resize=1440%2C810"
               },
               {
                 "t": "p",
-                "x": "「Comrades: Almost a Love Story」（ラヴソング）や「The Warlords」（ウォーロード／男たちの誓い）を手がけたPeter Chan Ho-sun（ピーター・チャン）監督は、映画づくりにAIをおそらく使うだろうが「AIGC、つまりAI-generatedコンテンツは絶対に使わない」と語った。また少なくとも自分が生きているうちは、two-hourの長編映画がshort-formや縦型ドラマに対して持ちこたえるとの見方を示した。"
+                "x": "シルベスター・スタローンが、AIはハリウッドが受け入れ、取り込むしかない不可避の力だとして、その活用を擁護している。"
               },
               {
                 "t": "p",
-                "x": "Singapore International Film FestivalのIn Conversationイベントで、業界がすでにCGIや特殊効果を使っているように、AIを一つの技法として使うと述べた。「映画づくりに役立つものなら何でも歓迎する。だが、それらは芸術を知らない。映画は今も人がつくるものだ」とChanは語った。"
+                "x": "80歳の彼はLionsgateが手がける『John Rambo』の前日譚に触れ、当初は自ら若き日の自分を演じ、AIで若返らせる案を提案していたと明かした（実際には30歳のノア・センティネオが起用された）。"
               },
               {
                 "t": "p",
-                "x": "「今はおそらく映画にとって最も厳しい時期だ。だが、この媒体がshort-formの娯楽に取って代わられ、消えてしまうと信じるか。答えはノーだ」。TorontoでプレミアされたThe Road Not Taken（最新作）や、「Comrades」の30周年についても語った。"
+                "x": "「こう言うと叩かれるが、AIはなくならない」と彼はThe Overlapに語った。「半分人間、半分AI（half-human, half-AI）で作って組み合わせたかった。もちろん皆が大騒ぎしている」"
+              },
+              {
+                "t": "p",
+                "x": "「だから私はそのリスクを取る。クリエイティブ界から猛烈に批判されてもだ。そして彼らの[不満は]正しい！彼らは正しい。だが、これは止められない。雪崩なんだ。もう我々の手には負えない。乗らなければ、踏みつぶされるだけだ」"
+              },
+              {
+                "t": "p",
+                "x": "彼はまた、演技の仕事は「AIのせいでもっと難しくなる」と警告し、俳優である娘のスカーレット・ローズ・スタローンにゲームの道に進むよう勧めたと語った。『John Rambo』は2027年6月4日公開予定である。"
+              },
+              {
+                "t": "video",
+                "yt": "Axv-1C9-07U"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI-generated内容\nPeter Chan说不",
-          "body": "Peter Chan表示可能会把AI当作技术手段，但绝不使用AI-generated内容。",
-          "mini_headline": "Peter Chan对AI划线",
+          "headline": "史泰龙谈AI：顺应\n否则被碾压",
+          "body": "80岁的西尔维斯特·史泰龙表示，AI已成定局，行业必须接纳它。",
+          "mini_headline": "史泰龙力挺AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Peter-Chan.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/GettyImages-1423314969.jpg?crop=0px%2C625px%2C5822px%2C3258px&resize=1440%2C810"
               },
               {
                 "t": "p",
-                "x": "执导《Comrades: Almost a Love Story》（甜蜜蜜）和《The Warlords》（投名状）的Peter Chan Ho-sun（陈可辛）表示，他在电影创作中可能会使用AI，但“绝对不用AIGC”，即AI-generated内容；他还认为，至少在他有生之年，two-hour长片能够在short-form和竖屏短剧面前站稳脚跟。"
+                "x": "西尔维斯特·史泰龙为AI的使用辩护，称其是好莱坞只能接受并拥抱的必然力量。"
               },
               {
                 "t": "p",
-                "x": "在Singapore International Film Festival的In Conversation活动上，他说会像业界早已使用CGI和特效那样，把AI当作一种技术手段。Chan说：“凡是能帮我拍电影的，我都欢迎。但它们不懂艺术。电影仍然是由人来拍的。”"
+                "x": "谈及Lionsgate即将推出的《John Rambo》前传时，这位80岁的演员说，他最初提议亲自饰演年轻时的自己，并用AI为表演减龄（最终由30岁的诺亚·森蒂内奥出演）。"
               },
               {
                 "t": "p",
-                "x": "“这大概是电影最艰难的时期，但我是否相信这种媒介会消失、被short-form娱乐取代？不。”他还谈到了在Toronto首映的新作《The Road Not Taken》，以及《Comrades》上映30周年。"
+                "x": "“我因为这个惹了麻烦，[但]AI会一直存在，”他对The Overlap说，“我想做一半真人、一半AI（half-human, half-AI），再把它们合在一起，当然所有人都炸了锅。”"
+              },
+              {
+                "t": "p",
+                "x": "“所以我愿意冒这个险，哪怕会被创意圈猛烈抨击。而且他们的[抱怨]是对的！他们是对的。但我们阻止不了。这是一场雪崩。它已经完全不受我们控制。如果你不顺应它，就会被它碾压。”"
+              },
+              {
+                "t": "p",
+                "x": "他还警告，表演“会因为AI变得更难”，并称自己已让身为演员的女儿斯嘉丽·罗斯·史泰龙去做游戏。《John Rambo》定于2027年6月4日上映。"
+              },
+              {
+                "t": "video",
+                "yt": "Axv-1C9-07U"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Stallone sobre la AI: adaptarse\no ser aplastado",
+          "body": "Sylvester Stallone, de 80 años, afirma que la industria debe adoptar la AI porque ha llegado para quedarse.",
+          "mini_headline": "Stallone respalda la AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/GettyImages-1423314969.jpg?crop=0px%2C625px%2C5822px%2C3258px&resize=1440%2C810"
+              },
+              {
+                "t": "p",
+                "x": "Sylvester Stallone defiende el uso de la AI como una fuerza inevitable que Hollywood tendrá que aceptar y adoptar."
+              },
+              {
+                "t": "p",
+                "x": "Al referirse a la próxima precuela de John Rambo de Lionsgate, el actor de 80 años dijo que en un principio propuso interpretar a su yo más joven y usar AI para rejuvenecer su actuación (finalmente se eligió a Noah Centineo, de 30 años)."
+              },
+              {
+                "t": "p",
+                "x": "“Me meto en problemas por esto, [pero] la AI ha llegado para quedarse”, dijo a The Overlap. “Quería hacerlo mitad humano, mitad AI (half-human, half-AI) y juntarlo, y claro, todo el mundo se está volviendo loco”."
+              },
+              {
+                "t": "p",
+                "x": "“Así que asumiría ese riesgo, aunque la comunidad creativa te critique con estruendo. ¡Y sus [quejas son] justas! Tienen razón. Pero no podemos detener esto. Es una avalancha. Está fuera de nuestro control. Si no vas con ella, te pasará por encima”."
+              },
+              {
+                "t": "p",
+                "x": "También advirtió que actuar “va a ser más difícil por culpa de la AI” y contó que le dijo a su hija, la actriz Scarlet Rose Stallone, que se dedicara a los videojuegos. John Rambo tiene su estreno previsto para el 4 de junio de 2027."
+              },
+              {
+                "t": "video",
+                "yt": "Axv-1C9-07U"
               }
             ]
           }
@@ -597,255 +707,189 @@
       }
     },
     {
-      "id": "movies-fc-lorem-ipsum-rap",
+      "id": "movies-mahabharat-indonesia-myth",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "F&C ai Lab 신작\nLorem Ipsum 랩",
-      "body": "F&C ai Lab이 AI 도구로 힙합 영상 Lorem Ipsum Rap을 냈다.",
-      "mini_headline": "AI-made Lorem Ipsum 랩",
+      "headline": "마하바라트 AI 스튜디오\n인도네시아 신화로",
+      "body": "마하바라트 AI사가 Singhasari SEZ와 인도네시아 신화 IP를 만든다.",
+      "mini_headline": "마하바라트 AI사, 인도네시아로",
       "tool": "Movies",
-      "source": "Motionographer",
-      "url": "https://motionographer.com/quickie/lorem-ipsum-rap-fc-ai-lab/",
+      "source": "Variety",
+      "url": "https://variety.com/2026/tv/news/ai-india-mahabharat-series-indonesian-myth-1236930485/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "F&C ai Lab이라는 이름으로 활동하는 François Chatelain이 디자인계에 익숙한 더미 텍스트에 그만의 힙합 영상을 붙였다. Lorem Ipsum Rap은 “Lorem Ipsum / Dolor Sit Amet”을 중심으로 AI-generated 애니메이션 클립을 엮고 대개 배경에 머물던 단어를 노래의 핵심 훅으로 끌어올렸다."
-          },
-          {
             "t": "img",
-            "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-03.jpg",
-            "cap": "다채로운 그래피티풍 패턴으로 채운 큼직한 Lorem Ipsum 레터링"
+            "src": "https://variety.com/wp-content/uploads/2026/10/Collective-Galleri5.jpg?w=1000&h=563&crop=1"
           },
           {
             "t": "p",
-            "x": "시각 언어도 그만큼 강렬하다. 채도 높은 노랑·주황·분홍, 그래피티 같은 마크, 커다란 레터링, 일러스트로 그린 공연자가 화면을 채운다. 타이포그래피는 이미지에 녹아들어 제목을 채우고 입술을 감싸며 래퍼 손의 금반지가 된다. 제공된 프레임에는 AI 표시가 붙어 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-05.jpg",
-            "cap": "알록달록한 Lorem Ipsum 타이포그래피로 덮인 일러스트 입술"
+            "x": "Star Plus·JioHotstar 시리즈 'Mahabharat: Ek Dharmayudh'를 만든 AI 기술이 인도네시아로 간다. 개발사 Galleri5와 같은 Collective 계열인 Collective Studios의 Historyverse가 인도네시아의 신화와 역사에서 끌어낸 영화·시리즈를 만든다."
           },
           {
             "t": "p",
-            "x": "Chatelain은 음악, 이미지, 애니메이션 시퀀스, 편집 전반에 AI를 쓰며 이 프로젝트를 혼자 만들었다. 제작 노트에 따르면 음악은 Suno, 비주얼 스타일과 일러스트는 Midjourney, 애니메이션 시퀀스는 Seedance로 작업했다. ChatGPT는 콘셉트, 프롬프트, 크리에이티브 디렉션을 도왔다."
-          },
-          {
-            "t": "img",
-            "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-04.jpg",
-            "cap": "관중 앞에서 공연하는 일러스트 래퍼"
+            "x": "Historyverse는 Galleri5, Singhasari Special Economic Zone(싱하사리 경제특구)과 손잡고 신화·판타지·역사·애니메이션을 아우르는 사업을 펼친다. 첫 프로젝트로 논의 중인 작품은 오리지널 신화 어드벤처이고 가제는 'Echoes of Nusantara'다."
           },
           {
             "t": "p",
-            "x": "그래픽 레이아웃의 언어를 뮤직비디오로 옮기자 더미 텍스트에도 목소리와 선명한 시각적 정체성이 생겼다."
+            "x": "Galleri5의 G5 AI Studio는 200개가 넘는 AI 모델을 스토리보드, 캐릭터·세계관 디자인, 애니메이션, VFX, 영화 수준의 영상 도구와 한데 묶었다. 이 플랫폼에서 만든 광고와 영상은 10,000편이 넘는다."
+          },
+          {
+            "t": "p",
+            "x": "Collective Artists Network 창업자 겸 그룹 CEO 비자이 수브라마니암은 “다음 세대의 글로벌 엔터테인먼트 프랜차이즈가 모두 할리우드에서 나오지는 않을 것”이라고 말했다. Singhasari는 인도네시아의 창작자와 스튜디오, 투자자, 배급사에 이 사업을 알리는 역할을 맡는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "F&C ai Lab drops\nLorem Ipsum Rap",
-          "body": "François Chatelain's F&C ai Lab made Lorem Ipsum Rap, a solo hip-hop video built with Suno, Midjourney and Seedance.",
-          "mini_headline": "An AI-made Lorem Ipsum rap",
+          "headline": "Mahabharat AI studio turns\nto Indonesian myth",
+          "body": "The AI firm behind Mahabharat: Ek Dharmayudh will develop Indonesian mythology film and series IP with Singhasari SEZ.",
+          "mini_headline": "Mahabharat AI firm eyes Indonesia",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "François Chatelain, working as F&C ai Lab, gives a familiar piece of design-world placeholder text its own hip-hop video. Lorem Ipsum Rap builds an AI-generated animated clip around “Lorem Ipsum / Dolor Sit Amet,” turning words usually left in the background into the song's central hook."
-              },
-              {
                 "t": "img",
-                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-03.jpg",
-                "cap": "Large Lorem Ipsum lettering filled with multicolored graffiti-style patterns"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Collective-Galleri5.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "The visual language is equally emphatic: saturated yellow, orange and pink, graffiti-like marks, oversized lettering and illustrated performers. Typography becomes part of the imagery, filling the title, wrapping across a pair of lips and appearing as gold rings on a rapper's hands. The supplied frames carry an explicit AI mark."
-              },
-              {
-                "t": "img",
-                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-05.jpg",
-                "cap": "Illustrated lips covered in colorful Lorem Ipsum typography"
+                "x": "The AI technology behind Star Plus and JioHotstar series “Mahabharat: Ek Dharmayudh” is headed to Indonesia. Its developer Galleri5 and fellow Collective company Collective Studios’ Historyverse plan to create film and series properties drawn from the country’s myths and history."
               },
               {
                 "t": "p",
-                "x": "Chatelain made the project solo, using AI across the music, imagery, animated sequences and editing. His production notes identify Suno for the music, Midjourney for the visual style and illustrations, and Seedance for the animated sequences. ChatGPT assisted with the concept, prompts and creative direction."
-              },
-              {
-                "t": "img",
-                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-04.jpg",
-                "cap": "Illustrated rapper performing before a crowd"
+                "x": "Historyverse is partnering with Galleri5 and Singhasari Special Economic Zone on the venture, covering mythology, fantasy, history and animation. The first project being discussed is “Echoes of Nusantara,” a working title for an original mythology-adventure."
               },
               {
                 "t": "p",
-                "x": "The result brings the language of graphic layouts into a music-video setting, giving placeholder copy a voice and a vivid visual identity."
+                "x": "Galleri5’s G5 AI Studio brings more than 200 AI models together with tools for storyboarding, character and world design, animation, VFX and film-quality video; more than 10,000 ads and videos have been made on the platform."
+              },
+              {
+                "t": "p",
+                "x": "“The next global entertainment franchises will not all come from Hollywood,” said Vijay Subramaniam, founder and group CEO of Collective Artists Network. Singhasari will introduce the venture to Indonesian creators, studios, investors and distributors."
               }
             ]
           }
         },
         "ko": {
-          "headline": "F&C ai Lab 신작\nLorem Ipsum 랩",
-          "body": "F&C ai Lab이 AI 도구로 힙합 영상 Lorem Ipsum Rap을 냈다.",
-          "mini_headline": "AI-made Lorem Ipsum 랩",
+          "headline": "마하바라트 AI 스튜디오\n인도네시아 신화로",
+          "body": "마하바라트 AI사가 Singhasari SEZ와 인도네시아 신화 IP를 만든다.",
+          "mini_headline": "마하바라트 AI사, 인도네시아로",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "F&C ai Lab이라는 이름으로 활동하는 François Chatelain이 디자인계에 익숙한 더미 텍스트에 그만의 힙합 영상을 붙였다. Lorem Ipsum Rap은 “Lorem Ipsum / Dolor Sit Amet”을 중심으로 AI-generated 애니메이션 클립을 엮고 대개 배경에 머물던 단어를 노래의 핵심 훅으로 끌어올렸다."
-              },
-              {
                 "t": "img",
-                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-03.jpg",
-                "cap": "다채로운 그래피티풍 패턴으로 채운 큼직한 Lorem Ipsum 레터링"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Collective-Galleri5.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "시각 언어도 그만큼 강렬하다. 채도 높은 노랑·주황·분홍, 그래피티 같은 마크, 커다란 레터링, 일러스트로 그린 공연자가 화면을 채운다. 타이포그래피는 이미지에 녹아들어 제목을 채우고 입술을 감싸며 래퍼 손의 금반지가 된다. 제공된 프레임에는 AI 표시가 붙어 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-05.jpg",
-                "cap": "알록달록한 Lorem Ipsum 타이포그래피로 덮인 일러스트 입술"
+                "x": "Star Plus·JioHotstar 시리즈 'Mahabharat: Ek Dharmayudh'를 만든 AI 기술이 인도네시아로 간다. 개발사 Galleri5와 같은 Collective 계열인 Collective Studios의 Historyverse가 인도네시아의 신화와 역사에서 끌어낸 영화·시리즈를 만든다."
               },
               {
                 "t": "p",
-                "x": "Chatelain은 음악, 이미지, 애니메이션 시퀀스, 편집 전반에 AI를 쓰며 이 프로젝트를 혼자 만들었다. 제작 노트에 따르면 음악은 Suno, 비주얼 스타일과 일러스트는 Midjourney, 애니메이션 시퀀스는 Seedance로 작업했다. ChatGPT는 콘셉트, 프롬프트, 크리에이티브 디렉션을 도왔다."
-              },
-              {
-                "t": "img",
-                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-04.jpg",
-                "cap": "관중 앞에서 공연하는 일러스트 래퍼"
+                "x": "Historyverse는 Galleri5, Singhasari Special Economic Zone(싱하사리 경제특구)과 손잡고 신화·판타지·역사·애니메이션을 아우르는 사업을 펼친다. 첫 프로젝트로 논의 중인 작품은 오리지널 신화 어드벤처이고 가제는 'Echoes of Nusantara'다."
               },
               {
                 "t": "p",
-                "x": "그래픽 레이아웃의 언어를 뮤직비디오로 옮기자 더미 텍스트에도 목소리와 선명한 시각적 정체성이 생겼다."
+                "x": "Galleri5의 G5 AI Studio는 200개가 넘는 AI 모델을 스토리보드, 캐릭터·세계관 디자인, 애니메이션, VFX, 영화 수준의 영상 도구와 한데 묶었다. 이 플랫폼에서 만든 광고와 영상은 10,000편이 넘는다."
+              },
+              {
+                "t": "p",
+                "x": "Collective Artists Network 창업자 겸 그룹 CEO 비자이 수브라마니암은 “다음 세대의 글로벌 엔터테인먼트 프랜차이즈가 모두 할리우드에서 나오지는 않을 것”이라고 말했다. Singhasari는 인도네시아의 창작자와 스튜디오, 투자자, 배급사에 이 사업을 알리는 역할을 맡는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "F&C ai Labの新作\nLorem Ipsumラップ",
-          "body": "F&C ai LabがAIツールでヒップホップ映像Lorem Ipsum Rapを作った。",
-          "mini_headline": "AI-madeのLorem Ipsumラップ",
+          "headline": "マハーバーラタのAIスタジオ\nインドネシア神話へ",
+          "body": "マハーバーラタのAI企業がSinghasari SEZとインドネシア神話IPを開発する。",
+          "mini_headline": "マハーバーラタのAI企業、インドネシアへ",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "F&C ai Labとして活動するFrançois Chatelainは、デザインの世界でおなじみのダミーテキストに専用のヒップホップ映像を与えた。Lorem Ipsum Rapは「Lorem Ipsum / Dolor Sit Amet」を軸にAI-generatedのアニメーションクリップを組み立て、ふだんは背景に置かれる言葉を曲の中心となるフックに変えている。"
-              },
-              {
                 "t": "img",
-                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-03.jpg",
-                "cap": "多色のグラフィティ風パターンで埋められた大きなLorem Ipsumのレタリング"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Collective-Galleri5.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "ビジュアル言語も同じく力強い。彩度の高い黄、オレンジ、ピンク、グラフィティのようなマーク、特大のレタリング、イラストで描かれたパフォーマーが並ぶ。タイポグラフィは映像の一部となり、タイトルを埋め、唇を包み、ラッパーの手の金の指輪として現れる。提供されたフレームには明示的なAIマークが入っている。"
-              },
-              {
-                "t": "img",
-                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-05.jpg",
-                "cap": "カラフルなLorem Ipsumのタイポグラフィに覆われたイラストの唇"
+                "x": "Star PlusとJioHotstarのシリーズ『Mahabharat: Ek Dharmayudh』を支えたAI技術が、インドネシアに向かう。開発元のGalleri5と、同じCollective傘下のCollective StudiosによるHistoryverseは、同国の神話と歴史に基づく映画・シリーズ作品を制作する計画だ。"
               },
               {
                 "t": "p",
-                "x": "Chatelainはこのプロジェクトを一人で制作し、音楽、画像、アニメーションシーケンス、編集のすべてにAIを使った。制作ノートによれば、音楽にはSuno、ビジュアルスタイルとイラストにはMidjourney、アニメーションシーケンスにはSeedanceを用いた。ChatGPTはコンセプト、プロンプト、クリエイティブディレクションを支えた。"
-              },
-              {
-                "t": "img",
-                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-04.jpg",
-                "cap": "観客の前でパフォーマンスするイラストのラッパー"
+                "x": "HistoryverseはGalleri5およびSinghasari Special Economic Zone（シンガサリ経済特区）と組み、神話、ファンタジー、歴史、アニメーションを手がける。最初に協議されている企画は、オリジナルの神話アドベンチャーで、仮題は『Echoes of Nusantara』である。"
               },
               {
                 "t": "p",
-                "x": "その結果、グラフィックレイアウトの言語がミュージックビデオの場に持ち込まれ、ダミーテキストに声と鮮やかなビジュアルアイデンティティが与えられた。"
+                "x": "Galleri5のG5 AI Studioは、200を超えるAIモデルを、絵コンテ、キャラクターと世界観のデザイン、アニメーション、VFX、映画品質の映像制作ツールとまとめて提供する。このプラットフォームではこれまでに10,000本を超える広告や動画が作られている。"
+              },
+              {
+                "t": "p",
+                "x": "Collective Artists Networkの創業者でグループCEOのヴィジャイ・スブラマニアム氏は「次の世界的なエンタメ・フランチャイズが、すべてハリウッドから生まれるわけではない」と述べた。Singhasariはこの事業をインドネシアのクリエイター、スタジオ、投資家、配給会社に紹介する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "F&C ai Lab推出\nLorem Ipsum说唱",
-          "body": "F&C ai Lab用Suno、Midjourney和Seedance独自做出嘻哈视频。",
-          "mini_headline": "AI-made的Lorem Ipsum说唱",
+          "headline": "《摩诃婆罗多》AI公司\n转向印尼神话",
+          "body": "《摩诃婆罗多》背后的AI公司将与Singhasari SEZ开发印尼神话影视IP。",
+          "mini_headline": "《摩诃婆罗多》AI公司进军印尼",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "以F&C ai Lab之名创作的François Chatelain，为设计界熟悉的占位文本配上了专属的嘻哈视频。Lorem Ipsum Rap围绕“Lorem Ipsum / Dolor Sit Amet”打造了一段AI-generated动画短片，把通常隐于背景的文字变成了歌曲的核心副歌。"
-              },
-              {
                 "t": "img",
-                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-03.jpg",
-                "cap": "填满多彩涂鸦风图案的巨大Lorem Ipsum字样"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Collective-Galleri5.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "视觉语言同样鲜明：饱和的黄、橙、粉色，涂鸦般的笔触，超大字体与插画风格的表演者。字体排印成为画面的一部分：填满标题，缠绕在一双嘴唇上，又化作说唱歌手手上的金戒指。所提供的画面带有明确的AI标识。"
-              },
-              {
-                "t": "img",
-                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-05.jpg",
-                "cap": "覆盖着彩色Lorem Ipsum字体的插画嘴唇"
+                "x": "Star Plus与JioHotstar剧集《Mahabharat: Ek Dharmayudh》背后的AI技术将进军印尼。其开发商Galleri5与同属Collective旗下的Collective Studios的Historyverse，计划以该国神话和历史为素材打造电影和剧集作品。"
               },
               {
                 "t": "p",
-                "x": "Chatelain独自完成了这个项目，在音乐、图像、动画片段和剪辑中全程使用AI。他的制作说明列出：音乐用Suno，视觉风格与插画用Midjourney，动画片段用Seedance。ChatGPT则协助完成概念、提示词和创意指导。"
-              },
-              {
-                "t": "img",
-                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-04.jpg",
-                "cap": "在人群前表演的插画说唱歌手"
+                "x": "Historyverse将与Galleri5及Singhasari Special Economic Zone（新柯沙里经济特区）合作推进该项目，涵盖神话、奇幻、历史和动画。目前正在商讨的首个项目是一部原创神话冒险作品，暂定名为《Echoes of Nusantara》。"
               },
               {
                 "t": "p",
-                "x": "最终作品把平面版式的语言带入音乐视频，让占位文字有了声音和鲜明的视觉身份。"
+                "x": "Galleri5的G5 AI Studio将200多个AI模型与分镜、角色与世界观设计、动画、VFX及电影级视频工具整合在一起；该平台已制作了10,000多条广告和视频。"
+              },
+              {
+                "t": "p",
+                "x": "Collective Artists Network创始人兼集团CEO维杰·苏布拉马尼亚姆表示：“下一批全球娱乐系列IP不会全都来自好莱坞。”Singhasari将向印尼的创作者、制片公司、投资者和发行商介绍这一项目。"
               }
             ]
           }
         },
         "es": {
-          "headline": "F&C ai Lab lanza\nLorem Ipsum Rap",
-          "body": "F&C ai Lab, de François Chatelain, creó Lorem Ipsum Rap, un video de hip-hop con Suno, Midjourney y Seedance.",
-          "mini_headline": "Un rap Lorem Ipsum AI-made",
+          "headline": "El estudio AI de Mahabharat\nmira al mito indonesio",
+          "body": "La firma AI de Mahabharat: Ek Dharmayudh creará IP de cine y series de mitología indonesia con Singhasari SEZ.",
+          "mini_headline": "La firma AI de Mahabharat mira a Indonesia",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "François Chatelain, que trabaja como F&C ai Lab, da a un conocido texto de relleno del mundo del diseño su propio video de hip-hop. Lorem Ipsum Rap construye un clip animado AI-generated en torno a “Lorem Ipsum / Dolor Sit Amet”, y convierte palabras que suelen quedar en segundo plano en el gancho central de la canción."
-              },
-              {
                 "t": "img",
-                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-03.jpg",
-                "cap": "Grandes letras de Lorem Ipsum rellenas de patrones multicolores de estilo grafiti"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Collective-Galleri5.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "El lenguaje visual es igual de enfático: amarillo, naranja y rosa saturados, trazos similares al grafiti, letras de gran tamaño e intérpretes ilustrados. La tipografía se vuelve parte de la imagen: llena el título, envuelve unos labios y aparece como anillos de oro en las manos de un rapero. Los fotogramas facilitados llevan una marca explícita de AI."
-              },
-              {
-                "t": "img",
-                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-05.jpg",
-                "cap": "Labios ilustrados cubiertos de coloridas tipografías de Lorem Ipsum"
+                "x": "La tecnología AI detrás de la serie de Star Plus y JioHotstar “Mahabharat: Ek Dharmayudh” llega a Indonesia. Su desarrolladora, Galleri5, y Historyverse, de Collective Studios, otra empresa de Collective, planean crear películas y series basadas en los mitos y la historia del país."
               },
               {
                 "t": "p",
-                "x": "Chatelain hizo el proyecto en solitario y usó AI en la música, las imágenes, las secuencias animadas y la edición. Sus notas de producción señalan Suno para la música, Midjourney para el estilo visual y las ilustraciones, y Seedance para las secuencias animadas. ChatGPT ayudó con el concepto, los prompts y la dirección creativa."
-              },
-              {
-                "t": "img",
-                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-04.jpg",
-                "cap": "Rapero ilustrado actuando ante el público"
+                "x": "Historyverse se asocia con Galleri5 y con la Singhasari Special Economic Zone en el proyecto, que abarcará mitología, fantasía, historia y animación. El primer proyecto en conversación es “Echoes of Nusantara”, título provisional de una aventura mitológica original."
               },
               {
                 "t": "p",
-                "x": "El resultado lleva el lenguaje de las maquetas gráficas al terreno del videoclip y da al texto de relleno una voz y una identidad visual vívida."
+                "x": "G5 AI Studio, de Galleri5, reúne más de 200 modelos de AI con herramientas de storyboard, diseño de personajes y mundos, animación, VFX y video con calidad cinematográfica; en la plataforma se han creado más de 10,000 anuncios y videos."
+              },
+              {
+                "t": "p",
+                "x": "“Las próximas franquicias globales de entretenimiento no saldrán todas de Hollywood”, afirmó Vijay Subramaniam, fundador y CEO del grupo Collective Artists Network. Singhasari presentará el proyecto a creadores, estudios, inversores y distribuidores de Indonesia."
               }
             ]
           }
@@ -853,165 +897,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "F&C ai Lab 신작\nLorem Ipsum 랩",
-          "body": "F&C ai Lab이 AI 도구로 힙합 영상 Lorem Ipsum Rap을 냈다.",
-          "mini_headline": "AI-made Lorem Ipsum 랩",
+          "headline": "마하바라트 AI 스튜디오\n인도네시아 신화로",
+          "body": "마하바라트 AI사가 Singhasari SEZ와 인도네시아 신화 IP를 만든다.",
+          "mini_headline": "마하바라트 AI사, 인도네시아로",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "F&C ai Lab이라는 이름으로 활동하는 François Chatelain이 디자인계에 익숙한 더미 텍스트에 그만의 힙합 영상을 붙였다. Lorem Ipsum Rap은 “Lorem Ipsum / Dolor Sit Amet”을 중심으로 AI-generated 애니메이션 클립을 짜고, 대개 배경에 머물던 단어를 노래의 핵심 훅으로 바꿨다."
-              },
-              {
                 "t": "img",
-                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-03.jpg",
-                "cap": "다채로운 그래피티풍 패턴으로 채운 큼직한 Lorem Ipsum 레터링"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Collective-Galleri5.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "시각 언어도 그만큼 강렬하다. 채도 높은 노랑·주황·분홍, 그래피티 같은 마크, 커다란 레터링, 일러스트로 그린 공연자가 화면을 채운다. 타이포그래피는 이미지의 일부가 돼 제목을 채우고, 입술을 감싸고, 래퍼의 손에 금반지로 나타난다. 제공된 프레임에는 AI 표시가 명시돼 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-05.jpg",
-                "cap": "알록달록한 Lorem Ipsum 타이포그래피로 덮인 일러스트 입술"
+                "x": "Star Plus·JioHotstar 시리즈 'Mahabharat: Ek Dharmayudh'를 만든 AI 기술이 인도네시아로 향한다. 개발사 Galleri5와 같은 Collective 계열인 Collective Studios의 Historyverse가 인도네시아의 신화와 역사에서 끌어낸 영화·시리즈 작품을 만들 계획이다."
               },
               {
                 "t": "p",
-                "x": "Chatelain은 음악, 이미지, 애니메이션 시퀀스, 편집 전반에 AI를 쓰며 이 프로젝트를 혼자 만들었다. 제작 노트에 따르면 음악은 Suno, 비주얼 스타일과 일러스트는 Midjourney, 애니메이션 시퀀스는 Seedance로 작업했다. ChatGPT는 콘셉트, 프롬프트, 크리에이티브 디렉션을 도왔다."
-              },
-              {
-                "t": "img",
-                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-04.jpg",
-                "cap": "관중 앞에서 공연하는 일러스트 래퍼"
+                "x": "Historyverse는 Galleri5, Singhasari Special Economic Zone(싱하사리 경제특구)과 손잡고 신화·판타지·역사·애니메이션을 아우르는 사업을 펼친다. 논의 중인 첫 프로젝트는 오리지널 신화 어드벤처로, 가제는 'Echoes of Nusantara'다."
               },
               {
                 "t": "p",
-                "x": "결과물은 그래픽 레이아웃의 언어를 뮤직비디오로 옮겨, 더미 텍스트에 목소리와 선명한 시각적 정체성을 부여한다."
+                "x": "Galleri5의 G5 AI Studio는 200개가 넘는 AI 모델을 스토리보드, 캐릭터·세계관 디자인, 애니메이션, VFX, 영화 수준의 영상 도구와 한데 묶었다. 이 플랫폼에서 만든 광고와 영상은 10,000편이 넘는다."
+              },
+              {
+                "t": "p",
+                "x": "Collective Artists Network 창업자 겸 그룹 CEO 비자이 수브라마니암은 “다음 세대의 글로벌 엔터테인먼트 프랜차이즈가 모두 할리우드에서 나오지는 않을 것”이라고 말했다. Singhasari는 인도네시아 창작자, 스튜디오, 투자자, 배급사에 이 사업을 소개할 예정이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "F&C ai Labの新作\nLorem Ipsumラップ",
-          "body": "F&C ai LabがAIツールでヒップホップ映像Lorem Ipsum Rapを作った。",
-          "mini_headline": "AI-madeのLorem Ipsumラップ",
+          "headline": "マハーバーラタのAIスタジオ\nインドネシア神話へ",
+          "body": "マハーバーラタのAI企業がSinghasari SEZとインドネシア神話IPを開発する。",
+          "mini_headline": "マハーバーラタのAI企業、インドネシアへ",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "F&C ai Labとして活動するFrançois Chatelainは、デザインの世界でおなじみのダミーテキストに専用のヒップホップ映像を与えた。Lorem Ipsum Rapは「Lorem Ipsum / Dolor Sit Amet」を軸にAI-generatedのアニメーションクリップを組み立て、ふだんは背景に置かれる言葉を曲の中心となるフックに変えている。"
-              },
-              {
                 "t": "img",
-                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-03.jpg",
-                "cap": "多色のグラフィティ風パターンで埋められた大きなLorem Ipsumのレタリング"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Collective-Galleri5.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "ビジュアル言語も同じく力強い。彩度の高い黄、オレンジ、ピンク、グラフィティのようなマーク、特大のレタリング、イラストで描かれたパフォーマーが並ぶ。タイポグラフィは映像の一部となり、タイトルを埋め、唇を包み、ラッパーの手の金の指輪として現れる。提供されたフレームには明示的なAIマークが入っている。"
-              },
-              {
-                "t": "img",
-                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-05.jpg",
-                "cap": "カラフルなLorem Ipsumのタイポグラフィに覆われたイラストの唇"
+                "x": "Star PlusとJioHotstarのシリーズ『Mahabharat: Ek Dharmayudh』を支えたAI技術が、インドネシアに向かう。開発元のGalleri5と、同じCollective傘下のCollective StudiosによるHistoryverseは、同国の神話と歴史に基づく映画・シリーズ作品を制作する計画だ。"
               },
               {
                 "t": "p",
-                "x": "Chatelainはこのプロジェクトを一人で制作し、音楽、画像、アニメーションシーケンス、編集のすべてにAIを使った。制作ノートによれば、音楽にはSuno、ビジュアルスタイルとイラストにはMidjourney、アニメーションシーケンスにはSeedanceを用いた。ChatGPTはコンセプト、プロンプト、クリエイティブディレクションを支えた。"
-              },
-              {
-                "t": "img",
-                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-04.jpg",
-                "cap": "観客の前でパフォーマンスするイラストのラッパー"
+                "x": "HistoryverseはGalleri5およびSinghasari Special Economic Zone（シンガサリ経済特区）と組み、神話、ファンタジー、歴史、アニメーションを手がける。最初に協議されている企画は、オリジナルの神話アドベンチャーで、仮題は『Echoes of Nusantara』である。"
               },
               {
                 "t": "p",
-                "x": "その結果、グラフィックレイアウトの言語がミュージックビデオの場に持ち込まれ、ダミーテキストに声と鮮やかなビジュアルアイデンティティが与えられた。"
+                "x": "Galleri5のG5 AI Studioは、200を超えるAIモデルを、絵コンテ、キャラクターと世界観のデザイン、アニメーション、VFX、映画品質の映像制作ツールとまとめて提供する。このプラットフォームではこれまでに10,000本を超える広告や動画が作られている。"
+              },
+              {
+                "t": "p",
+                "x": "Collective Artists Networkの創業者でグループCEOのヴィジャイ・スブラマニアム氏は「次の世界的なエンタメ・フランチャイズが、すべてハリウッドから生まれるわけではない」と述べた。Singhasariはこの事業をインドネシアのクリエイター、スタジオ、投資家、配給会社に紹介する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "F&C ai Lab推出\nLorem Ipsum说唱",
-          "body": "F&C ai Lab用Suno、Midjourney和Seedance独自做出嘻哈视频。",
-          "mini_headline": "AI-made的Lorem Ipsum说唱",
+          "headline": "《摩诃婆罗多》AI公司\n转向印尼神话",
+          "body": "《摩诃婆罗多》背后的AI公司将与Singhasari SEZ开发印尼神话影视IP。",
+          "mini_headline": "《摩诃婆罗多》AI公司进军印尼",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "以F&C ai Lab之名创作的François Chatelain，为设计界熟悉的占位文本配上了专属的嘻哈视频。Lorem Ipsum Rap围绕“Lorem Ipsum / Dolor Sit Amet”打造了一段AI-generated动画短片，把通常隐于背景的文字变成了歌曲的核心副歌。"
-              },
-              {
                 "t": "img",
-                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-03.jpg",
-                "cap": "填满多彩涂鸦风图案的巨大Lorem Ipsum字样"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Collective-Galleri5.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "视觉语言同样鲜明：饱和的黄、橙、粉色，涂鸦般的笔触，超大字体与插画风格的表演者。字体排印成为画面的一部分：填满标题，缠绕在一双嘴唇上，又化作说唱歌手手上的金戒指。所提供的画面带有明确的AI标识。"
-              },
-              {
-                "t": "img",
-                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-05.jpg",
-                "cap": "覆盖着彩色Lorem Ipsum字体的插画嘴唇"
+                "x": "Star Plus与JioHotstar剧集《Mahabharat: Ek Dharmayudh》背后的AI技术将进军印尼。其开发商Galleri5与同属Collective旗下的Collective Studios的Historyverse，计划以该国神话和历史为素材打造电影和剧集作品。"
               },
               {
                 "t": "p",
-                "x": "Chatelain独自完成了这个项目，在音乐、图像、动画片段和剪辑中全程使用AI。他的制作说明列出：音乐用Suno，视觉风格与插画用Midjourney，动画片段用Seedance。ChatGPT则协助完成概念、提示词和创意指导。"
-              },
-              {
-                "t": "img",
-                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-04.jpg",
-                "cap": "在人群前表演的插画说唱歌手"
+                "x": "Historyverse将与Galleri5及Singhasari Special Economic Zone（新柯沙里经济特区）合作推进该项目，涵盖神话、奇幻、历史和动画。目前正在商讨的首个项目是一部原创神话冒险作品，暂定名为《Echoes of Nusantara》。"
               },
               {
                 "t": "p",
-                "x": "最终作品把平面版式的语言带入音乐视频，让占位文字有了声音和鲜明的视觉身份。"
+                "x": "Galleri5的G5 AI Studio将200多个AI模型与分镜、角色与世界观设计、动画、VFX及电影级视频工具整合在一起；该平台已制作了10,000多条广告和视频。"
+              },
+              {
+                "t": "p",
+                "x": "Collective Artists Network创始人兼集团CEO维杰·苏布拉马尼亚姆表示：“下一批全球娱乐系列IP不会全都来自好莱坞。”Singhasari将向印尼的创作者、制片公司、投资者和发行商介绍这一项目。"
               }
             ]
           }
         },
         "es": {
-          "headline": "F&C ai Lab lanza\nLorem Ipsum Rap",
-          "body": "F&C ai Lab, de François Chatelain, creó Lorem Ipsum Rap, un video de hip-hop con Suno, Midjourney y Seedance.",
-          "mini_headline": "Un rap Lorem Ipsum AI-made",
+          "headline": "El estudio AI de Mahabharat\nmira al mito indonesio",
+          "body": "La firma AI de Mahabharat: Ek Dharmayudh creará IP de cine y series de mitología indonesia con Singhasari SEZ.",
+          "mini_headline": "La firma AI de Mahabharat mira a Indonesia",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "François Chatelain, que trabaja como F&C ai Lab, da a un conocido texto de relleno del mundo del diseño su propio video de hip-hop. Lorem Ipsum Rap construye un clip animado AI-generated en torno a “Lorem Ipsum / Dolor Sit Amet”, y convierte palabras que suelen quedar en segundo plano en el gancho central de la canción."
-              },
-              {
                 "t": "img",
-                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-03.jpg",
-                "cap": "Grandes letras de Lorem Ipsum rellenas de patrones multicolores de estilo grafiti"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Collective-Galleri5.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "El lenguaje visual es igual de enfático: amarillo, naranja y rosa saturados, trazos similares al grafiti, letras de gran tamaño e intérpretes ilustrados. La tipografía se vuelve parte de la imagen: llena el título, envuelve unos labios y aparece como anillos de oro en las manos de un rapero. Los fotogramas facilitados llevan una marca explícita de AI."
-              },
-              {
-                "t": "img",
-                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-05.jpg",
-                "cap": "Labios ilustrados cubiertos de coloridas tipografías de Lorem Ipsum"
+                "x": "La tecnología AI detrás de la serie de Star Plus y JioHotstar “Mahabharat: Ek Dharmayudh” llega a Indonesia. Su desarrolladora, Galleri5, y Historyverse, de Collective Studios, otra empresa de Collective, planean crear películas y series basadas en los mitos y la historia del país."
               },
               {
                 "t": "p",
-                "x": "Chatelain hizo el proyecto en solitario y usó AI en la música, las imágenes, las secuencias animadas y la edición. Sus notas de producción señalan Suno para la música, Midjourney para el estilo visual y las ilustraciones, y Seedance para las secuencias animadas. ChatGPT ayudó con el concepto, los prompts y la dirección creativa."
-              },
-              {
-                "t": "img",
-                "src": "https://s35726.pcdn.co/wp-content/uploads/2026/10/Lorem-Ipsum-Rap-FC-ai-Lab-04.jpg",
-                "cap": "Rapero ilustrado actuando ante el público"
+                "x": "Historyverse se asocia con Galleri5 y con la Singhasari Special Economic Zone en el proyecto, que abarcará mitología, fantasía, historia y animación. El primer proyecto en conversación es “Echoes of Nusantara”, título provisional de una aventura mitológica original."
               },
               {
                 "t": "p",
-                "x": "El resultado lleva el lenguaje de las maquetas gráficas al terreno del videoclip y da al texto de relleno una voz y una identidad visual vívida."
+                "x": "G5 AI Studio, de Galleri5, reúne más de 200 modelos de AI con herramientas de storyboard, diseño de personajes y mundos, animación, VFX y video con calidad cinematográfica; en la plataforma se han creado más de 10,000 anuncios y videos."
+              },
+              {
+                "t": "p",
+                "x": "“Las próximas franquicias globales de entretenimiento no saldrán todas de Hollywood”, afirmó Vijay Subramaniam, fundador y CEO del grupo Collective Artists Network. Singhasari presentará el proyecto a creadores, estudios, inversores y distribuidores de Indonesia."
               }
             ]
           }
@@ -1019,225 +1019,189 @@
       }
     },
     {
-      "id": "movies-concept-art-awards-no-ai",
+      "id": "movies-gods-gifts-afm-agc",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "컨셉 아트 어워즈,\n블라인드 심사·AI 금지",
-      "body": "동료 작가가 심사하는 Concept Art Awards는 생성형 AI를 금한다.",
-      "mini_headline": "컨셉 아트상, AI 금지",
+      "headline": "가십 고블린 AI 영화,\nAGC와 AFM 간다",
+      "body": "AGC가 AI 영화 Gods Don't Give Gifts를 AFM에 내놓는다.",
+      "mini_headline": "AI 영화 Gods Don't Give Gifts, AFM 간다",
       "tool": "Movies",
-      "source": "AWN",
-      "url": "https://www.awn.com/animationworld/concept-art-awards-blind-judging-peers-and-no-ai-allowed",
+      "source": "Deadline",
+      "url": "https://deadline.com/2026/10/gossip-goblin-gods-dont-give-gifts-heads-to-afm-sales-1237170580/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "컨셉 아티스트를 위한 시상식은 없었다. 그래서 2019년 Rachel Meinerding과 Nicole Hendrix Herman이 직접 만들었다. Concept Art Awards는 10월 24일 토요일 LightBox Expo 기간에 Pasadena Civic Auditorium으로 돌아와 여덟 번째 시상식을 연다."
-          },
-          {
             "t": "img",
-            "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081575-lbx2025conceptartawards-635-1280.jpg?itok=eKbM3tM8",
-            "cap": "2025 Concept Art Awards."
+            "src": "https://deadline.com/wp-content/uploads/2026/10/Sailors.jpg?w=1024"
           },
           {
             "t": "p",
-            "x": "올해 Lifetime Achievement Awards(공로상)는 Final Fantasy 디자이너 Yoshitaka Amano와, Sleeping Beauty의 컬러 스타일리스트였던 Disney Legend Eyvind Earle(사후 수상)에게 돌아간다. 이들은 심사위원과 회원에게서 가장 많은 표를 받았다."
+            "x": "스튜어트 포드가 이끄는 AGC Studios의 판매·배급 부문 AGC International이 Gods Don’t Give Gifts를 배급 라인업에 올렸다. 장편 AI-generated SF 대작인 이 영화는 American Film Market에서 바이어들에게 공개된다."
           },
           {
             "t": "p",
-            "x": "생성형 AI 작품은 전면 금지다. 이를 걸러내는 일은 “자격 심사 과정의 깊은 일부”다. 심사는 Award Force 플랫폼에서 블라인드로 이뤄지고 심사위원은 현업 아티스트, 대개 전년도 수상자가 맡는다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/1027931-forest-lawn-museum-presenting-eyvind-earle-exhibition_0.jpg?itok=VMga2DtX",
-            "cap": "Disney 'Sleeping Beauty'(1959) 컨셉 아트. 이미지 제공 Forest Lawn Museum."
+            "x": "크리에이터이자 YouTuber인 잭 런던(일명 Gossip Goblin)의 장편 데뷔작이다. 완전히 AI로 만든(AI-generated) 영화 가운데 가장 먼저 극장에 걸리는 작품 중 하나가 된다. U.S. 개봉일은 12월 4일이고 아카데미 애니메이션 부문을 노린 시상식 캠페인도 벌인다."
           },
           {
             "t": "p",
-            "x": "Meinerding은 컨셉 아티스트가 맞닥뜨린 가장 큰 과제는 고용이고 아웃소싱과 함께 생성형 AI도 그 일부라고 말했다. 협회는 2022년부터 2024년까지 아티스트와 노조를 Washington, D.C.로 데려가 AI에서 개인 아티스트를 지킬 장치를 마련하라고 촉구했다."
+            "x": "10월 6일 공개된 예고편은 조회수 1500만 회를 넘었다. 런던의 Gossip Goblin YouTube 채널 구독자는 140만 명이다."
+          },
+          {
+            "t": "p",
+            "x": "런던은 이 영화가 “작가, 아티스트, 애니메이터, 성우, 음악가, 전통 후반작업 팀까지 갖춘 온전한 팀이 10개월 넘게 쏟아부은 고된 작업의 결실이며, AI는 우리 이야기를 큰 규모로 들려주도록 도운 도구였다”고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Concept Art Awards\njudged blind, no AI allowed",
-          "body": "The peer-judged Concept Art Awards bar generative AI and honor Yoshitaka Amano and Eyvind Earle this year.",
-          "mini_headline": "Concept art awards bar AI",
+          "headline": "Gossip Goblin's AI film\nheads to AFM with AGC",
+          "body": "AGC is taking Gossip Goblin's AI sci-fi film Gods Don't Give Gifts to the AFM market for sales.",
+          "mini_headline": "AI film Gods Don't Give Gifts at AFM",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Concept artists had no awards show of their own, so in 2019 Rachel Meinerding and Nicole Hendrix Herman started one. On Saturday, October 24, the Concept Art Awards return to the Pasadena Civic Auditorium for their eighth edition during LightBox Expo."
-              },
-              {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081575-lbx2025conceptartawards-635-1280.jpg?itok=eKbM3tM8",
-                "cap": "2025 Concept Art Awards."
+                "src": "https://deadline.com/wp-content/uploads/2026/10/Sailors.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "This year's Lifetime Achievement Awards go to Final Fantasy designer Yoshitaka Amano and, posthumously, Disney Legend Eyvind Earle, the color stylist behind Sleeping Beauty. They drew the most votes from judges and members."
+                "x": "AGC International, the sales and distribution arm of Stuart Ford’s AGC Studios, is adding Gods Don’t Give Gifts to its distribution slate and will introduce the feature length AI-generated sci-fi epic to buyers at the American Film Market."
               },
               {
                 "t": "p",
-                "x": "Generative AI work is barred outright, and screening for it is “a deep part of our qualifying process.” Judging is blind, on the Award Force platform, and the judges are working artists, often the previous year's winners."
-              },
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/1027931-forest-lawn-museum-presenting-eyvind-earle-exhibition_0.jpg?itok=VMga2DtX",
-                "cap": "Concept art for Disney's 'Sleeping Beauty' (1959). Image courtesy of Forest Lawn Museum."
+                "x": "The feature debut from creator and YouTuber Zack London (aka Gossip Goblin) has been lined up as one of the first fully AI-generated movies to get a theatrical release, with a U.S. release set for December 4th and an awards campaign aimed at the Academy’s animation category."
               },
               {
                 "t": "p",
-                "x": "Meinerding said the biggest challenge for concept artists is employment, with generative AI part of it alongside outsourcing. Between 2022 and 2024, the association brought artists and unions to Washington, D.C., to push for protections for individual artists against AI."
+                "x": "Since its launch on October 6th, the trailer has passed 15 million views. London’s Gossip Goblin YouTube channel has 1.4 million subscribers."
+              },
+              {
+                "t": "p",
+                "x": "London said the film is “the culmination of 10+ months of intense work across a full team of writers, artists, animators, voice actors, musicians, and a trad postproduction crew — AI was a tool to help us tell our story at scale.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "컨셉 아트 어워즈,\n블라인드 심사·AI 금지",
-          "body": "동료 작가가 심사하는 Concept Art Awards는 생성형 AI를 금한다.",
-          "mini_headline": "컨셉 아트상, AI 금지",
+          "headline": "가십 고블린 AI 영화,\nAGC와 AFM 간다",
+          "body": "AGC가 AI 영화 Gods Don't Give Gifts를 AFM에 내놓는다.",
+          "mini_headline": "AI 영화 Gods Don't Give Gifts, AFM 간다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "컨셉 아티스트를 위한 시상식은 없었다. 그래서 2019년 Rachel Meinerding과 Nicole Hendrix Herman이 직접 만들었다. Concept Art Awards는 10월 24일 토요일 LightBox Expo 기간에 Pasadena Civic Auditorium으로 돌아와 여덟 번째 시상식을 연다."
-              },
-              {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081575-lbx2025conceptartawards-635-1280.jpg?itok=eKbM3tM8",
-                "cap": "2025 Concept Art Awards."
+                "src": "https://deadline.com/wp-content/uploads/2026/10/Sailors.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "올해 Lifetime Achievement Awards(공로상)는 Final Fantasy 디자이너 Yoshitaka Amano와, Sleeping Beauty의 컬러 스타일리스트였던 Disney Legend Eyvind Earle(사후 수상)에게 돌아간다. 이들은 심사위원과 회원에게서 가장 많은 표를 받았다."
+                "x": "스튜어트 포드가 이끄는 AGC Studios의 판매·배급 부문 AGC International이 Gods Don’t Give Gifts를 배급 라인업에 올렸다. 장편 AI-generated SF 대작인 이 영화는 American Film Market에서 바이어들에게 공개된다."
               },
               {
                 "t": "p",
-                "x": "생성형 AI 작품은 전면 금지다. 이를 걸러내는 일은 “자격 심사 과정의 깊은 일부”다. 심사는 Award Force 플랫폼에서 블라인드로 이뤄지고 심사위원은 현업 아티스트, 대개 전년도 수상자가 맡는다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/1027931-forest-lawn-museum-presenting-eyvind-earle-exhibition_0.jpg?itok=VMga2DtX",
-                "cap": "Disney 'Sleeping Beauty'(1959) 컨셉 아트. 이미지 제공 Forest Lawn Museum."
+                "x": "크리에이터이자 YouTuber인 잭 런던(일명 Gossip Goblin)의 장편 데뷔작이다. 완전히 AI로 만든(AI-generated) 영화 가운데 가장 먼저 극장에 걸리는 작품 중 하나가 된다. U.S. 개봉일은 12월 4일이고 아카데미 애니메이션 부문을 노린 시상식 캠페인도 벌인다."
               },
               {
                 "t": "p",
-                "x": "Meinerding은 컨셉 아티스트가 맞닥뜨린 가장 큰 과제는 고용이고 아웃소싱과 함께 생성형 AI도 그 일부라고 말했다. 협회는 2022년부터 2024년까지 아티스트와 노조를 Washington, D.C.로 데려가 AI에서 개인 아티스트를 지킬 장치를 마련하라고 촉구했다."
+                "x": "10월 6일 공개된 예고편은 조회수 1500만 회를 넘었다. 런던의 Gossip Goblin YouTube 채널 구독자는 140만 명이다."
+              },
+              {
+                "t": "p",
+                "x": "런던은 이 영화가 “작가, 아티스트, 애니메이터, 성우, 음악가, 전통 후반작업 팀까지 갖춘 온전한 팀이 10개월 넘게 쏟아부은 고된 작업의 결실이며, AI는 우리 이야기를 큰 규모로 들려주도록 도운 도구였다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "コンセプトアート賞は\nブラインド審査、AI禁止",
-          "body": "同業者が審査するConcept Art Awardsは生成AIを禁じている。",
-          "mini_headline": "コンセプトアート賞がAIを排除",
+          "headline": "ゴシップ・ゴブリンのAI映画\nAGCとAFMへ",
+          "body": "AGCがAI映画『Gods Don't Give Gifts』をAFMで売り込む。",
+          "mini_headline": "AI映画『Gods Don't Give Gifts』AFMへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "コンセプトアーティストには自分たちの賞がなかった。そこで2019年、Rachel MeinerdingとNicole Hendrix Hermanが賞を立ち上げた。Concept Art Awardsは10月24日(土)、LightBox Expoの会期中にPasadena Civic Auditoriumへ戻り、第八回を迎える。"
-              },
-              {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081575-lbx2025conceptartawards-635-1280.jpg?itok=eKbM3tM8",
-                "cap": "2025 Concept Art Awards。"
+                "src": "https://deadline.com/wp-content/uploads/2026/10/Sailors.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "今年のLifetime Achievement Awards(功労賞)は、Final FantasyのデザイナーYoshitaka Amanoと、Sleeping Beautyのカラースタイリストで故人のDisney Legend、Eyvind Earleに贈られる。両者は審査員と会員から最も多くの票を集めた。"
+                "x": "スチュアート・フォード率いるAGC Studiosのセールス・配給部門AGC Internationalが『Gods Don’t Give Gifts』を配給ラインナップに加え、この長編AI-generated SF大作をAmerican Film Marketでバイヤーに披露する。"
               },
               {
                 "t": "p",
-                "x": "生成AIによる作品は一切認められず、その審査は「私たちの資格審査プロセスの奥深い一部」だという。審査はAward Forceプラットフォーム上でブラインド方式で行われ、審査員は現役のアーティストで、多くは前年の受賞者だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/1027931-forest-lawn-museum-presenting-eyvind-earle-exhibition_0.jpg?itok=VMga2DtX",
-                "cap": "Disneyの'Sleeping Beauty'(1959)のコンセプトアート。画像提供:Forest Lawn Museum。"
+                "x": "クリエイターでYouTuberのザック・ロンドン（別名Gossip Goblin）の長編デビュー作で、完全にAIで生成された（AI-generated）映画として劇場公開される最初期の作品の一つとなる見込みだ。U.S.公開は12月4日に設定され、アカデミー賞アニメーション部門を狙った賞レースのキャンペーンも展開する。"
               },
               {
                 "t": "p",
-                "x": "Meinerdingは、コンセプトアーティストにとって最大の課題は雇用であり、アウトソーシングと並んで生成AIもその一因だと語った。協会は2022年から2024年にかけてアーティストや労働組合をWashington, D.C.に連れて行き、AIから個々のアーティストを守る措置を求めた。"
+                "x": "10月6日の公開以来、予告編の再生回数は1500万回を超えた。ロンドンのYouTubeチャンネルGossip Goblinの登録者数は140万人である。"
+              },
+              {
+                "t": "p",
+                "x": "ロンドンは本作について「脚本家、アーティスト、アニメーター、声優、ミュージシャン、従来型のポストプロダクションスタッフからなるフルチームによる10カ月以上の集中作業の結晶であり、AIは私たちの物語を大きなスケールで語るための道具だった」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "概念艺术大奖\n盲审且禁用AI",
-          "body": "由同行评审的Concept Art Awards明令禁止生成式AI作品。",
-          "mini_headline": "概念艺术奖拒绝AI",
+          "headline": "AI科幻片随AGC\n登陆AFM市场",
+          "body": "AGC将携AI科幻片《Gods Don't Give Gifts》赴AFM销售。",
+          "mini_headline": "AI电影《Gods Don't Give Gifts》亮相AFM",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "概念艺术家过去没有属于自己的颁奖礼，于是Rachel Meinerding和Nicole Hendrix Herman在2019年创办了一个。10月24日星期六，Concept Art Awards将在LightBox Expo期间重返Pasadena Civic Auditorium，迎来第八届。"
-              },
-              {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081575-lbx2025conceptartawards-635-1280.jpg?itok=eKbM3tM8",
-                "cap": "2025 Concept Art Awards。"
+                "src": "https://deadline.com/wp-content/uploads/2026/10/Sailors.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "今年的Lifetime Achievement Awards（终身成就奖）授予Final Fantasy设计师Yoshitaka Amano，以及已故的Disney Legend、《Sleeping Beauty》色彩设计师Eyvind Earle。他们获得了评委和会员的最多票数。"
+                "x": "斯图尔特·福特旗下AGC Studios的销售与发行部门AGC International将《Gods Don’t Give Gifts》纳入发行片单，并将在American Film Market上向买家推介这部长片AI-generated科幻史诗。"
               },
               {
                 "t": "p",
-                "x": "生成式AI作品被一律禁止，相关筛查是“我们资格审核流程中很深的一环”。评审在Award Force平台上以盲审方式进行，评委都是在职艺术家，往往是上一年的获奖者。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/1027931-forest-lawn-museum-presenting-eyvind-earle-exhibition_0.jpg?itok=VMga2DtX",
-                "cap": "Disney《Sleeping Beauty》（1959）的概念艺术。图片由Forest Lawn Museum提供。"
+                "x": "这是创作者兼YouTuber扎克·伦敦（又名Gossip Goblin）的长片处女作，有望成为首批获得院线上映的完全AI生成（AI-generated）电影之一，U.S.上映日期定于12月4日，并将展开冲击奥斯卡动画类奖项的颁奖季宣传。"
               },
               {
                 "t": "p",
-                "x": "Meinerding表示，概念艺术家面临的最大挑战是就业，生成式AI与外包都是其中的因素。2022年至2024年间，该协会带领艺术家和工会前往Washington, D.C.，推动保护个体艺术家免受AI冲击。"
+                "x": "自10月6日发布以来，预告片播放量已超过1500万次。伦敦的Gossip Goblin YouTube频道拥有140万订阅者。"
+              },
+              {
+                "t": "p",
+                "x": "伦敦表示，这部电影是“由编剧、美术师、动画师、配音演员、音乐人以及传统后期制作团队组成的完整团队历经10多个月高强度工作的成果——AI是帮助我们大规模讲述故事的工具”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Concept Art Awards:\njurado a ciegas y sin AI",
-          "body": "Los Concept Art Awards, juzgados por colegas, vetan la AI generativa y honran a Yoshitaka Amano y Eyvind Earle.",
-          "mini_headline": "Los premios de concept art vetan la AI",
+          "headline": "La película AI de Gossip Goblin\nllega al AFM con AGC",
+          "body": "AGC venderá en el mercado AFM Gods Don't Give Gifts, la película AI de ciencia ficción de Gossip Goblin.",
+          "mini_headline": "La película AI Gods Don't Give Gifts, en el AFM",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Los artistas conceptuales no tenían una gala de premios propia, así que en 2019 Rachel Meinerding y Nicole Hendrix Herman crearon una. El sábado 24 de octubre, los Concept Art Awards regresan al Pasadena Civic Auditorium para su octava edición durante LightBox Expo."
-              },
-              {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081575-lbx2025conceptartawards-635-1280.jpg?itok=eKbM3tM8",
-                "cap": "2025 Concept Art Awards."
+                "src": "https://deadline.com/wp-content/uploads/2026/10/Sailors.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "Los Lifetime Achievement Awards de este año son para el diseñador de Final Fantasy Yoshitaka Amano y, a título póstumo, para el Disney Legend Eyvind Earle, estilista de color de Sleeping Beauty. Ambos fueron los más votados por jueces y miembros."
+                "x": "AGC International, la división de ventas y distribución de AGC Studios, de Stuart Ford, incorpora Gods Don’t Give Gifts a su catálogo y presentará esta épica de ciencia ficción AI-generated de largometraje a los compradores del American Film Market."
               },
               {
                 "t": "p",
-                "x": "Las obras con AI generativa están prohibidas de plano, y detectarlas es “una parte profunda de nuestro proceso de calificación”. El jurado evalúa a ciegas en la plataforma Award Force, y los jueces son artistas en activo, a menudo los ganadores del año anterior."
-              },
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/1027931-forest-lawn-museum-presenting-eyvind-earle-exhibition_0.jpg?itok=VMga2DtX",
-                "cap": "Arte conceptual para 'Sleeping Beauty' (1959) de Disney. Imagen cortesía de Forest Lawn Museum."
+                "x": "El debut en el largometraje del creador y YouTuber Zack London (alias Gossip Goblin) se perfila como una de las primeras películas totalmente AI-generated en llegar a los cines, con estreno en U.S. fijado para el 4 de diciembre y una campaña de premios dirigida a la categoría de animación de la Academia."
               },
               {
                 "t": "p",
-                "x": "Meinerding dijo que el mayor desafío para los artistas conceptuales es el empleo, y que la AI generativa forma parte de ello junto con la subcontratación. Entre 2022 y 2024, la asociación llevó a artistas y sindicatos a Washington, D.C., para impulsar protecciones para los artistas individuales frente a la AI."
+                "x": "Desde su lanzamiento el 6 de octubre, el tráiler ha superado los 15 millones de visualizaciones. El canal de YouTube Gossip Goblin de London tiene 1.4 millones de suscriptores."
+              },
+              {
+                "t": "p",
+                "x": "London afirmó que la película es “la culminación de más de 10 meses de trabajo intenso de un equipo completo de guionistas, artistas, animadores, actores de voz, músicos y un equipo tradicional de posproducción; la AI fue una herramienta para ayudarnos a contar nuestra historia a gran escala”."
               }
             ]
           }
@@ -1245,145 +1209,573 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "컨셉 아트 어워즈,\n블라인드 심사·AI 금지",
-          "body": "동료 작가가 심사하는 Concept Art Awards는 생성형 AI를 금한다.",
-          "mini_headline": "컨셉 아트상, AI 금지",
+          "headline": "가십 고블린 AI 영화,\nAGC와 AFM 간다",
+          "body": "AGC가 AI 영화 Gods Don't Give Gifts를 AFM에 내놓는다.",
+          "mini_headline": "AI 영화 Gods Don't Give Gifts, AFM 간다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "컨셉 아티스트에게는 자신들만의 시상식이 없었다. 그래서 2019년 Rachel Meinerding과 Nicole Hendrix Herman이 시상식을 만들었다. Concept Art Awards는 10월 24일 토요일 LightBox Expo 기간에 Pasadena Civic Auditorium으로 돌아와 여덟 번째 시상식을 연다."
-              },
-              {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081575-lbx2025conceptartawards-635-1280.jpg?itok=eKbM3tM8",
-                "cap": "2025 Concept Art Awards."
+                "src": "https://deadline.com/wp-content/uploads/2026/10/Sailors.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "올해 Lifetime Achievement Awards(공로상)는 Final Fantasy 디자이너 Yoshitaka Amano와, Sleeping Beauty의 컬러 스타일리스트였던 Disney Legend Eyvind Earle(사후 수상)에게 돌아간다. 이들은 심사위원과 회원에게서 가장 많은 표를 받았다."
+                "x": "스튜어트 포드가 이끄는 AGC Studios의 판매·배급 부문 AGC International이 Gods Don’t Give Gifts를 배급 라인업에 추가하고, 이 장편 AI-generated SF 대작을 American Film Market에서 바이어들에게 선보인다."
               },
               {
                 "t": "p",
-                "x": "생성형 AI 작품은 전면 금지되며, 이를 걸러내는 일은 “자격 심사 과정의 깊은 일부”다. 심사는 Award Force 플랫폼에서 블라인드로 진행되고, 심사위원은 현업 아티스트로 대개 전년도 수상자다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/1027931-forest-lawn-museum-presenting-eyvind-earle-exhibition_0.jpg?itok=VMga2DtX",
-                "cap": "Disney 'Sleeping Beauty'(1959) 컨셉 아트. 이미지 제공 Forest Lawn Museum."
+                "x": "크리에이터이자 YouTuber인 잭 런던(일명 Gossip Goblin)의 장편 데뷔작으로, 완전히 AI로 만든(AI-generated) 영화 가운데 처음으로 극장 개봉하는 작품 중 하나가 될 예정이다. U.S. 개봉일은 12월 4일이며, 아카데미 애니메이션 부문을 겨냥한 시상식 캠페인도 벌인다."
               },
               {
                 "t": "p",
-                "x": "Meinerding은 컨셉 아티스트가 맞닥뜨린 가장 큰 과제가 고용이며, 아웃소싱과 함께 생성형 AI도 그 일부라고 말했다. 협회는 2022년부터 2024년까지 아티스트와 노조를 Washington, D.C.로 데려가 AI로부터 개인 아티스트를 보호하는 장치를 촉구했다."
+                "x": "10월 6일 공개된 예고편은 조회수 1500만 회를 넘었다. 런던의 Gossip Goblin YouTube 채널 구독자는 140만 명이다."
+              },
+              {
+                "t": "p",
+                "x": "런던은 이 영화가 “작가, 아티스트, 애니메이터, 성우, 음악가, 전통 후반작업 팀까지 갖춘 온전한 팀이 10개월 넘게 쏟아부은 고된 작업의 결실이며, AI는 우리 이야기를 큰 규모로 들려주도록 도운 도구였다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "コンセプトアート賞は\nブラインド審査、AI禁止",
-          "body": "同業者が審査するConcept Art Awardsは生成AIを禁じている。",
-          "mini_headline": "コンセプトアート賞がAIを排除",
+          "headline": "ゴシップ・ゴブリンのAI映画\nAGCとAFMへ",
+          "body": "AGCがAI映画『Gods Don't Give Gifts』をAFMで売り込む。",
+          "mini_headline": "AI映画『Gods Don't Give Gifts』AFMへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "コンセプトアーティストには自分たちの賞がなかった。そこで2019年、Rachel MeinerdingとNicole Hendrix Hermanが賞を立ち上げた。Concept Art Awardsは10月24日(土)、LightBox Expoの会期中にPasadena Civic Auditoriumへ戻り、第八回を迎える。"
-              },
-              {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081575-lbx2025conceptartawards-635-1280.jpg?itok=eKbM3tM8",
-                "cap": "2025 Concept Art Awards。"
+                "src": "https://deadline.com/wp-content/uploads/2026/10/Sailors.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "今年のLifetime Achievement Awards(功労賞)は、Final FantasyのデザイナーYoshitaka Amanoと、Sleeping Beautyのカラースタイリストで故人のDisney Legend、Eyvind Earleに贈られる。両者は審査員と会員から最も多くの票を集めた。"
+                "x": "スチュアート・フォード率いるAGC Studiosのセールス・配給部門AGC Internationalが『Gods Don’t Give Gifts』を配給ラインナップに加え、この長編AI-generated SF大作をAmerican Film Marketでバイヤーに披露する。"
               },
               {
                 "t": "p",
-                "x": "生成AIによる作品は一切認められず、その審査は「私たちの資格審査プロセスの奥深い一部」だという。審査はAward Forceプラットフォーム上でブラインド方式で行われ、審査員は現役のアーティストで、多くは前年の受賞者だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/1027931-forest-lawn-museum-presenting-eyvind-earle-exhibition_0.jpg?itok=VMga2DtX",
-                "cap": "Disneyの'Sleeping Beauty'(1959)のコンセプトアート。画像提供:Forest Lawn Museum。"
+                "x": "クリエイターでYouTuberのザック・ロンドン（別名Gossip Goblin）の長編デビュー作で、完全にAIで生成された（AI-generated）映画として劇場公開される最初期の作品の一つとなる見込みだ。U.S.公開は12月4日に設定され、アカデミー賞アニメーション部門を狙った賞レースのキャンペーンも展開する。"
               },
               {
                 "t": "p",
-                "x": "Meinerdingは、コンセプトアーティストにとって最大の課題は雇用であり、アウトソーシングと並んで生成AIもその一因だと語った。協会は2022年から2024年にかけてアーティストや労働組合をWashington, D.C.に連れて行き、AIから個々のアーティストを守る措置を求めた。"
+                "x": "10月6日の公開以来、予告編の再生回数は1500万回を超えた。ロンドンのYouTubeチャンネルGossip Goblinの登録者数は140万人である。"
+              },
+              {
+                "t": "p",
+                "x": "ロンドンは本作について「脚本家、アーティスト、アニメーター、声優、ミュージシャン、従来型のポストプロダクションスタッフからなるフルチームによる10カ月以上の集中作業の結晶であり、AIは私たちの物語を大きなスケールで語るための道具だった」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "概念艺术大奖\n盲审且禁用AI",
-          "body": "由同行评审的Concept Art Awards明令禁止生成式AI作品。",
-          "mini_headline": "概念艺术奖拒绝AI",
+          "headline": "AI科幻片随AGC\n登陆AFM市场",
+          "body": "AGC将携AI科幻片《Gods Don't Give Gifts》赴AFM销售。",
+          "mini_headline": "AI电影《Gods Don't Give Gifts》亮相AFM",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "概念艺术家过去没有属于自己的颁奖礼，于是Rachel Meinerding和Nicole Hendrix Herman在2019年创办了一个。10月24日星期六，Concept Art Awards将在LightBox Expo期间重返Pasadena Civic Auditorium，迎来第八届。"
-              },
-              {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081575-lbx2025conceptartawards-635-1280.jpg?itok=eKbM3tM8",
-                "cap": "2025 Concept Art Awards。"
+                "src": "https://deadline.com/wp-content/uploads/2026/10/Sailors.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "今年的Lifetime Achievement Awards（终身成就奖）授予Final Fantasy设计师Yoshitaka Amano，以及已故的Disney Legend、《Sleeping Beauty》色彩设计师Eyvind Earle。他们获得了评委和会员的最多票数。"
+                "x": "斯图尔特·福特旗下AGC Studios的销售与发行部门AGC International将《Gods Don’t Give Gifts》纳入发行片单，并将在American Film Market上向买家推介这部长片AI-generated科幻史诗。"
               },
               {
                 "t": "p",
-                "x": "生成式AI作品被一律禁止，相关筛查是“我们资格审核流程中很深的一环”。评审在Award Force平台上以盲审方式进行，评委都是在职艺术家，往往是上一年的获奖者。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/1027931-forest-lawn-museum-presenting-eyvind-earle-exhibition_0.jpg?itok=VMga2DtX",
-                "cap": "Disney《Sleeping Beauty》（1959）的概念艺术。图片由Forest Lawn Museum提供。"
+                "x": "这是创作者兼YouTuber扎克·伦敦（又名Gossip Goblin）的长片处女作，有望成为首批获得院线上映的完全AI生成（AI-generated）电影之一，U.S.上映日期定于12月4日，并将展开冲击奥斯卡动画类奖项的颁奖季宣传。"
               },
               {
                 "t": "p",
-                "x": "Meinerding表示，概念艺术家面临的最大挑战是就业，生成式AI与外包都是其中的因素。2022年至2024年间，该协会带领艺术家和工会前往Washington, D.C.，推动保护个体艺术家免受AI冲击。"
+                "x": "自10月6日发布以来，预告片播放量已超过1500万次。伦敦的Gossip Goblin YouTube频道拥有140万订阅者。"
+              },
+              {
+                "t": "p",
+                "x": "伦敦表示，这部电影是“由编剧、美术师、动画师、配音演员、音乐人以及传统后期制作团队组成的完整团队历经10多个月高强度工作的成果——AI是帮助我们大规模讲述故事的工具”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Concept Art Awards:\njurado a ciegas y sin AI",
-          "body": "Los Concept Art Awards, juzgados por colegas, vetan la AI generativa y honran a Yoshitaka Amano y Eyvind Earle.",
-          "mini_headline": "Los premios de concept art vetan la AI",
+          "headline": "La película AI de Gossip Goblin\nllega al AFM con AGC",
+          "body": "AGC venderá en el mercado AFM Gods Don't Give Gifts, la película AI de ciencia ficción de Gossip Goblin.",
+          "mini_headline": "La película AI Gods Don't Give Gifts, en el AFM",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://deadline.com/wp-content/uploads/2026/10/Sailors.jpg?w=1024"
+              },
+              {
                 "t": "p",
-                "x": "Los artistas conceptuales no tenían una gala de premios propia, así que en 2019 Rachel Meinerding y Nicole Hendrix Herman crearon una. El sábado 24 de octubre, los Concept Art Awards regresan al Pasadena Civic Auditorium para su octava edición durante LightBox Expo."
+                "x": "AGC International, la división de ventas y distribución de AGC Studios, de Stuart Ford, incorpora Gods Don’t Give Gifts a su catálogo y presentará esta épica de ciencia ficción AI-generated de largometraje a los compradores del American Film Market."
+              },
+              {
+                "t": "p",
+                "x": "El debut en el largometraje del creador y YouTuber Zack London (alias Gossip Goblin) se perfila como una de las primeras películas totalmente AI-generated en llegar a los cines, con estreno en U.S. fijado para el 4 de diciembre y una campaña de premios dirigida a la categoría de animación de la Academia."
+              },
+              {
+                "t": "p",
+                "x": "Desde su lanzamiento el 6 de octubre, el tráiler ha superado los 15 millones de visualizaciones. El canal de YouTube Gossip Goblin de London tiene 1.4 millones de suscriptores."
+              },
+              {
+                "t": "p",
+                "x": "London afirmó que la película es “la culminación de más de 10 meses de trabajo intenso de un equipo completo de guionistas, artistas, animadores, actores de voz, músicos y un equipo tradicional de posproducción; la AI fue una herramienta para ayudarnos a contar nuestra historia a gran escala”."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "movies-ai-listers-kilmer",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 발 킬머·틸리 노우드\n시험대 오른 합성 스타",
+      "body": "서부극에 나온 AI 발 킬머를 두고 합성 배우의 경쟁력에 전문가 의견이 갈린다.",
+      "mini_headline": "AI-listers, 진짜 스타와 만나다",
+      "tool": "Movies",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/oct/20/ai-actors-val-kilmer-as-deep-as-the-grave-tilly-norwood",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=1200&quality=85&auto=format&fit=max&s=b1ca27496def2de12e1099098a3dbabc",
+            "cap": "‘정말, 정말 무섭다’ … AI 배우 틸리 노우드."
+          },
+          {
+            "t": "p",
+            "x": "가족의 승인을 받아 AI로 만든(AI-created) 고(故) 발 킬머가 코어트 부히스 감독의 신작 서부극 As Deep as the Grave에 등장하자, 이런 기술이 살아 있는 배우를 쓸모없게 만들 수 있느냐는 논란이 인다."
+          },
+          {
+            "t": "p",
+            "x": "에밀리 블런트가 “정말, 정말 무섭다”고 표현한 AI ‘스타렛’ 틸리 노우드는 곧 장편 영화 Misaligned에 출연한다."
+          },
+          {
+            "t": "p",
+            "x": "Framestore의 최고크리에이티브책임자 팀 웨버는 회의적이다. “AI 모델은 사물의 표면을 학습한다 … 진짜 감정이 담긴 인간의 연기 수준에 이르기까지는 아직 갈 길이 한참 멀다.”"
+          },
+          {
+            "t": "p",
+            "x": "Higgsfield AI는 올해 완전한 AI-generated 장편 Hell Grind와 The Cully Hill Boys 두 편을 공개했다. 콘텐츠 책임자 아딜 알림자노프는 이 도구가 아티스트를 자유롭게 하고 할리우드식 제작 과정을 줄여 준다고 말한다. The Cully Hill Boys는 30초짜리 단위를 이어 붙여 만들었는데, 단위마다 4,000단어 분량의 프롬프트로 내용을 정했다."
+          },
+          {
+            "t": "img",
+            "src": "https://i.guim.co.uk/img/media/23483265fd1c7220a16680ff9715e1ba686881f0/363_0_1500_1200/master/1500.jpg?width=1225&quality=85&auto=format&fit=max&s=06b876a2db74e96ff2285bb48a7533bb",
+            "cap": "‘딱 꼬집어 말할 수 없다’ … Ready Player One의 타이 셰리던."
+          },
+          {
+            "t": "p",
+            "x": "Wonder Dynamics 공동 창업자 타이 셰리던, 웨버, AI 영화감독 잭 런던은 인간의 연기를 중심에 두는 하이브리드 방식을 선호한다. 셰리던은 “이 도구들은 정말 전설적인 연기를 끌어내도록 설계된 걸까, 아니면 평균치로 깎아내도록 설계된 걸까?”라고 묻는다."
+          },
+          {
+            "t": "p",
+            "x": "AI 영화에 흥행 수요가 있는지, 그러니까 진짜 경제적 근거가 있는지는 아직 분명하지 않다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "AI Val Kilmer and Tilly Norwood\nput synthetic stars to the test",
+          "body": "As an AI Val Kilmer stars in a western, experts are split on whether synthetic actors can rival real performers.",
+          "mini_headline": "AI-listers meet real stars",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=1200&quality=85&auto=format&fit=max&s=b1ca27496def2de12e1099098a3dbabc",
+                "cap": "‘Really, really scary’ … AI actor Tilly Norwood."
+              },
+              {
+                "t": "p",
+                "x": "An AI-created version of the late Val Kilmer, approved by his family, appears in the new western As Deep as the Grave from director Coerte Voorhees, bringing controversy about whether such technology could make flesh-and-blood actors redundant."
+              },
+              {
+                "t": "p",
+                "x": "AI “starlet” Tilly Norwood, whom Emily Blunt described as “really, really scary”, will soon appear in the feature-length film Misaligned."
+              },
+              {
+                "t": "p",
+                "x": "Framestore’s chief creative officer Tim Webber is sceptical: “AI models are trained on the surface of things … To get to the level where it’s a human performance, where there’s genuine emotion involved, is a long way further down.”"
+              },
+              {
+                "t": "p",
+                "x": "Higgsfield AI has released two entirely AI-generated features this year, Hell Grind and The Cully Hill Boys. Content lead Adil Alimzhanov says the tools liberate artists and shortcut Hollywood production; The Cully Hill Boys was assembled in 30-second chunks, each defined in a 4,000-word prompt."
               },
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/attached/1081575-lbx2025conceptartawards-635-1280.jpg?itok=eKbM3tM8",
-                "cap": "2025 Concept Art Awards."
+                "src": "https://i.guim.co.uk/img/media/23483265fd1c7220a16680ff9715e1ba686881f0/363_0_1500_1200/master/1500.jpg?width=1225&quality=85&auto=format&fit=max&s=06b876a2db74e96ff2285bb48a7533bb",
+                "cap": "‘You can’t put your finger on it’ … Tye Sheridan in Ready Player One."
               },
               {
                 "t": "p",
-                "x": "Los Lifetime Achievement Awards de este año son para el diseñador de Final Fantasy Yoshitaka Amano y, a título póstumo, para el Disney Legend Eyvind Earle, estilista de color de Sleeping Beauty. Ambos fueron los más votados por jueces y miembros."
+                "x": "Wonder Dynamics co-founder Tye Sheridan, Webber and AI film-maker Zack London favour hybrid methods that keep a human performance at the core. “Are they really designed to deliver legendary performances, or are they designed to cut to an average?” asks Sheridan."
               },
               {
                 "t": "p",
-                "x": "Las obras con AI generativa están prohibidas de plano, y detectarlas es “una parte profunda de nuestro proceso de calificación”. El jurado evalúa a ciegas en la plataforma Award Force, y los jueces son artistas en activo, a menudo los ganadores del año anterior."
+                "x": "It is still not clear whether box office demand, and thus a true economic case, for AI cinema exists."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI 발 킬머·틸리 노우드\n시험대 오른 합성 스타",
+          "body": "서부극에 나온 AI 발 킬머를 두고 합성 배우의 경쟁력에 전문가 의견이 갈린다.",
+          "mini_headline": "AI-listers, 진짜 스타와 만나다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=1200&quality=85&auto=format&fit=max&s=b1ca27496def2de12e1099098a3dbabc",
+                "cap": "‘정말, 정말 무섭다’ … AI 배우 틸리 노우드."
+              },
+              {
+                "t": "p",
+                "x": "가족의 승인을 받아 AI로 만든(AI-created) 고(故) 발 킬머가 코어트 부히스 감독의 신작 서부극 As Deep as the Grave에 등장하자, 이런 기술이 살아 있는 배우를 쓸모없게 만들 수 있느냐는 논란이 인다."
+              },
+              {
+                "t": "p",
+                "x": "에밀리 블런트가 “정말, 정말 무섭다”고 표현한 AI ‘스타렛’ 틸리 노우드는 곧 장편 영화 Misaligned에 출연한다."
+              },
+              {
+                "t": "p",
+                "x": "Framestore의 최고크리에이티브책임자 팀 웨버는 회의적이다. “AI 모델은 사물의 표면을 학습한다 … 진짜 감정이 담긴 인간의 연기 수준에 이르기까지는 아직 갈 길이 한참 멀다.”"
+              },
+              {
+                "t": "p",
+                "x": "Higgsfield AI는 올해 완전한 AI-generated 장편 Hell Grind와 The Cully Hill Boys 두 편을 공개했다. 콘텐츠 책임자 아딜 알림자노프는 이 도구가 아티스트를 자유롭게 하고 할리우드식 제작 과정을 줄여 준다고 말한다. The Cully Hill Boys는 30초짜리 단위를 이어 붙여 만들었는데, 단위마다 4,000단어 분량의 프롬프트로 내용을 정했다."
               },
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/1027931-forest-lawn-museum-presenting-eyvind-earle-exhibition_0.jpg?itok=VMga2DtX",
-                "cap": "Arte conceptual para 'Sleeping Beauty' (1959) de Disney. Imagen cortesía de Forest Lawn Museum."
+                "src": "https://i.guim.co.uk/img/media/23483265fd1c7220a16680ff9715e1ba686881f0/363_0_1500_1200/master/1500.jpg?width=1225&quality=85&auto=format&fit=max&s=06b876a2db74e96ff2285bb48a7533bb",
+                "cap": "‘딱 꼬집어 말할 수 없다’ … Ready Player One의 타이 셰리던."
               },
               {
                 "t": "p",
-                "x": "Meinerding dijo que el mayor desafío para los artistas conceptuales es el empleo, y que la AI generativa forma parte de ello junto con la subcontratación. Entre 2022 y 2024, la asociación llevó a artistas y sindicatos a Washington, D.C., para impulsar protecciones para los artistas individuales frente a la AI."
+                "x": "Wonder Dynamics 공동 창업자 타이 셰리던, 웨버, AI 영화감독 잭 런던은 인간의 연기를 중심에 두는 하이브리드 방식을 선호한다. 셰리던은 “이 도구들은 정말 전설적인 연기를 끌어내도록 설계된 걸까, 아니면 평균치로 깎아내도록 설계된 걸까?”라고 묻는다."
+              },
+              {
+                "t": "p",
+                "x": "AI 영화에 흥행 수요가 있는지, 그러니까 진짜 경제적 근거가 있는지는 아직 분명하지 않다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIのキルマーとノーウッド\n合成スターの真価を問う",
+          "body": "AIのヴァル・キルマーが西部劇に出演し、合成俳優が本物に並ぶかで専門家の見方が割れる。",
+          "mini_headline": "AI-listers、本物のスターと対峙",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=1200&quality=85&auto=format&fit=max&s=b1ca27496def2de12e1099098a3dbabc",
+                "cap": "「本当に、本当に怖い」… AI俳優ティリー・ノーウッド。"
+              },
+              {
+                "t": "p",
+                "x": "遺族の承認を得てAIで作られた（AI-created）故ヴァル・キルマーが、コーテ・ヴォーヒーズ監督の新作西部劇『As Deep as the Grave』に登場し、こうした技術が生身の俳優を不要にしかねないのかという論争を呼んでいる。"
+              },
+              {
+                "t": "p",
+                "x": "エミリー・ブラントが「本当に、本当に怖い」と評したAIの「スターレット」ティリー・ノーウッドは、近く長編映画『Misaligned』に出演する。"
+              },
+              {
+                "t": "p",
+                "x": "Framestoreの最高クリエイティブ責任者ティム・ウェバー氏は懐疑的だ。「AIモデルは物事の表面で学習している…本物の感情を伴う人間の演技の水準に達するには、まだはるかに遠い」"
+              },
+              {
+                "t": "p",
+                "x": "Higgsfield AIは今年、完全にAI-generatedの長編2本『Hell Grind』と『The Cully Hill Boys』を発表した。コンテンツ責任者のアディル・アリムジャノフ氏は、このツールがアーティストを解放し、ハリウッドの制作工程を短縮すると話す。『The Cully Hill Boys』は30秒単位で組み立てられ、各単位は4,000語のプロンプトで定義された。"
+              },
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/23483265fd1c7220a16680ff9715e1ba686881f0/363_0_1500_1200/master/1500.jpg?width=1225&quality=85&auto=format&fit=max&s=06b876a2db74e96ff2285bb48a7533bb",
+                "cap": "「はっきりとは言い表せない」… 『Ready Player One』のタイ・シェリダン。"
+              },
+              {
+                "t": "p",
+                "x": "Wonder Dynamicsの共同創業者タイ・シェリダン、ウェバー氏、AI映画作家ザック・ロンドンは、人間の演技を核に据えたハイブリッドな手法を支持する。「本当に伝説的な演技を生むために設計されているのか、それとも平均へと切り詰めるために設計されているのか」とシェリダンは問う。"
+              },
+              {
+                "t": "p",
+                "x": "AI映画に興行面の需要、つまり真の経済的な根拠があるのかは、まだはっきりしていない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI方基墨与蒂莉·诺伍德\n合成明星迎来考验",
+          "body": "AI版方基墨主演西部片，专家对合成演员能否媲美真人演员看法不一。",
+          "mini_headline": "AI-listers遇上真明星",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=1200&quality=85&auto=format&fit=max&s=b1ca27496def2de12e1099098a3dbabc",
+                "cap": "“真的、真的很可怕”……AI演员蒂莉·诺伍德。"
+              },
+              {
+                "t": "p",
+                "x": "经家人同意、由AI打造（AI-created）的已故演员方基墨，出现在导演科尔特·沃尔希斯的新西部片《As Deep as the Grave》中，引发了这类技术是否会让真人演员变得多余的争议。"
+              },
+              {
+                "t": "p",
+                "x": "被艾米莉·布朗特形容为“真的、真的很可怕”的AI“小明星”蒂莉·诺伍德，即将出演长片《Misaligned》。"
+              },
+              {
+                "t": "p",
+                "x": "Framestore首席创意官蒂姆·韦伯持怀疑态度：“AI模型是基于事物的表面来训练的……要达到人类表演的水准、真正带有情感，还有很长的路要走。”"
+              },
+              {
+                "t": "p",
+                "x": "Higgsfield AI今年发布了两部完全AI-generated的长片《Hell Grind》和《The Cully Hill Boys》。内容负责人阿迪尔·阿利姆扎诺夫表示，这些工具解放了艺术家，也缩短了好莱坞的制作流程；《The Cully Hill Boys》以30秒为单位拼接而成，每段都由一条4,000词的提示词定义。"
+              },
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/23483265fd1c7220a16680ff9715e1ba686881f0/363_0_1500_1200/master/1500.jpg?width=1225&quality=85&auto=format&fit=max&s=06b876a2db74e96ff2285bb48a7533bb",
+                "cap": "“你说不清哪里不对”……《Ready Player One》中的泰伊·谢里丹。"
+              },
+              {
+                "t": "p",
+                "x": "Wonder Dynamics联合创始人泰伊·谢里丹、韦伯以及AI电影人扎克·伦敦都倾向于以真人表演为核心的混合方式。“它们真的是为了成就传奇表演而设计的，还是为了削减成平均水平而设计的？”谢里丹问道。"
+              },
+              {
+                "t": "p",
+                "x": "AI电影是否存在票房需求，也就是是否具备真正的经济理由，目前仍不明朗。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Val Kilmer AI y Tilly Norwood:\nestrellas sintéticas a prueba",
+          "body": "Con Val Kilmer AI en un wéstern, los expertos discrepan sobre si los actores sintéticos pueden competir con los reales.",
+          "mini_headline": "Los AI-listers frente a las estrellas reales",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=1200&quality=85&auto=format&fit=max&s=b1ca27496def2de12e1099098a3dbabc",
+                "cap": "‘Da muchísimo miedo’ … la actriz AI Tilly Norwood."
+              },
+              {
+                "t": "p",
+                "x": "Una versión AI-created del fallecido Val Kilmer, aprobada por su familia, aparece en el nuevo wéstern As Deep as the Grave del director Coerte Voorhees, lo que ha abierto la polémica sobre si esta tecnología podría volver prescindibles a los actores de carne y hueso."
+              },
+              {
+                "t": "p",
+                "x": "La “starlet” AI Tilly Norwood, a quien Emily Blunt describió como “muy, muy aterradora”, aparecerá pronto en el largometraje Misaligned."
+              },
+              {
+                "t": "p",
+                "x": "El director creativo de Framestore, Tim Webber, se muestra escéptico: “Los modelos de AI se entrenan con la superficie de las cosas … Llegar al nivel de una actuación humana, con emoción genuina, está todavía muy lejos”."
+              },
+              {
+                "t": "p",
+                "x": "Higgsfield AI ha estrenado este año dos largometrajes íntegramente AI-generated, Hell Grind y The Cully Hill Boys. Su responsable de contenido, Adil Alimzhanov, afirma que las herramientas liberan a los artistas y acortan la producción de Hollywood; The Cully Hill Boys se montó en fragmentos de 30 segundos, cada uno definido en un prompt de 4,000 palabras."
+              },
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/23483265fd1c7220a16680ff9715e1ba686881f0/363_0_1500_1200/master/1500.jpg?width=1225&quality=85&auto=format&fit=max&s=06b876a2db74e96ff2285bb48a7533bb",
+                "cap": "‘No sabes decir qué es’ … Tye Sheridan en Ready Player One."
+              },
+              {
+                "t": "p",
+                "x": "Tye Sheridan, cofundador de Wonder Dynamics, Webber y el cineasta de AI Zack London prefieren métodos híbridos que mantienen una actuación humana en el centro. “¿De verdad están diseñados para lograr actuaciones legendarias, o para recortar hasta un promedio?”, pregunta Sheridan."
+              },
+              {
+                "t": "p",
+                "x": "Aún no está claro si existe demanda en taquilla, y por tanto un verdadero argumento económico, para el cine hecho con AI."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI 발 킬머·틸리 노우드\n시험대 오른 합성 스타",
+          "body": "서부극에 나온 AI 발 킬머를 두고 합성 배우의 경쟁력에 전문가 의견이 갈린다.",
+          "mini_headline": "AI-listers, 진짜 스타와 만나다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=1200&quality=85&auto=format&fit=max&s=b1ca27496def2de12e1099098a3dbabc",
+                "cap": "‘정말, 정말 무섭다’ … AI 배우 틸리 노우드."
+              },
+              {
+                "t": "p",
+                "x": "가족의 승인을 받아 AI로 만든(AI-created) 고(故) 발 킬머가 코어트 부히스 감독의 신작 서부극 As Deep as the Grave에 등장하면서, 이런 기술이 살아 있는 배우를 쓸모없게 만들 수 있느냐는 논란이 일고 있다."
+              },
+              {
+                "t": "p",
+                "x": "에밀리 블런트가 “정말, 정말 무섭다”고 표현한 AI ‘스타렛’ 틸리 노우드는 곧 장편 영화 Misaligned에 출연한다."
+              },
+              {
+                "t": "p",
+                "x": "Framestore의 최고크리에이티브책임자 팀 웨버는 회의적이다. “AI 모델은 사물의 표면을 학습한다 … 진짜 감정이 담긴 인간의 연기 수준에 이르기까지는 아직 갈 길이 한참 멀다.”"
+              },
+              {
+                "t": "p",
+                "x": "Higgsfield AI는 올해 완전한 AI-generated 장편 두 편, Hell Grind와 The Cully Hill Boys를 공개했다. 콘텐츠 책임자 아딜 알림자노프는 이 도구가 아티스트를 해방하고 할리우드식 제작 과정을 단축한다고 말한다. The Cully Hill Boys는 30초 단위로 조립했고, 각 단위는 4,000단어 분량의 프롬프트로 정의했다."
+              },
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/23483265fd1c7220a16680ff9715e1ba686881f0/363_0_1500_1200/master/1500.jpg?width=1225&quality=85&auto=format&fit=max&s=06b876a2db74e96ff2285bb48a7533bb",
+                "cap": "‘딱 꼬집어 말할 수 없다’ … Ready Player One의 타이 셰리던."
+              },
+              {
+                "t": "p",
+                "x": "Wonder Dynamics 공동 창업자 타이 셰리던, 웨버, AI 영화감독 잭 런던은 인간의 연기를 중심에 두는 하이브리드 방식을 선호한다. 셰리던은 “이 도구들은 정말 전설적인 연기를 끌어내도록 설계된 걸까, 아니면 평균치로 깎아내도록 설계된 걸까?”라고 묻는다."
+              },
+              {
+                "t": "p",
+                "x": "AI 영화에 대한 흥행 수요, 즉 진정한 경제적 근거가 존재하는지는 아직 분명하지 않다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIのキルマーとノーウッド\n合成スターの真価を問う",
+          "body": "AIのヴァル・キルマーが西部劇に出演し、合成俳優が本物に並ぶかで専門家の見方が割れる。",
+          "mini_headline": "AI-listers、本物のスターと対峙",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=1200&quality=85&auto=format&fit=max&s=b1ca27496def2de12e1099098a3dbabc",
+                "cap": "「本当に、本当に怖い」… AI俳優ティリー・ノーウッド。"
+              },
+              {
+                "t": "p",
+                "x": "遺族の承認を得てAIで作られた（AI-created）故ヴァル・キルマーが、コーテ・ヴォーヒーズ監督の新作西部劇『As Deep as the Grave』に登場し、こうした技術が生身の俳優を不要にしかねないのかという論争を呼んでいる。"
+              },
+              {
+                "t": "p",
+                "x": "エミリー・ブラントが「本当に、本当に怖い」と評したAIの「スターレット」ティリー・ノーウッドは、近く長編映画『Misaligned』に出演する。"
+              },
+              {
+                "t": "p",
+                "x": "Framestoreの最高クリエイティブ責任者ティム・ウェバー氏は懐疑的だ。「AIモデルは物事の表面で学習している…本物の感情を伴う人間の演技の水準に達するには、まだはるかに遠い」"
+              },
+              {
+                "t": "p",
+                "x": "Higgsfield AIは今年、完全にAI-generatedの長編2本『Hell Grind』と『The Cully Hill Boys』を発表した。コンテンツ責任者のアディル・アリムジャノフ氏は、このツールがアーティストを解放し、ハリウッドの制作工程を短縮すると話す。『The Cully Hill Boys』は30秒単位で組み立てられ、各単位は4,000語のプロンプトで定義された。"
+              },
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/23483265fd1c7220a16680ff9715e1ba686881f0/363_0_1500_1200/master/1500.jpg?width=1225&quality=85&auto=format&fit=max&s=06b876a2db74e96ff2285bb48a7533bb",
+                "cap": "「はっきりとは言い表せない」… 『Ready Player One』のタイ・シェリダン。"
+              },
+              {
+                "t": "p",
+                "x": "Wonder Dynamicsの共同創業者タイ・シェリダン、ウェバー氏、AI映画作家ザック・ロンドンは、人間の演技を核に据えたハイブリッドな手法を支持する。「本当に伝説的な演技を生むために設計されているのか、それとも平均へと切り詰めるために設計されているのか」とシェリダンは問う。"
+              },
+              {
+                "t": "p",
+                "x": "AI映画に興行面の需要、つまり真の経済的な根拠があるのかは、まだはっきりしていない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI方基墨与蒂莉·诺伍德\n合成明星迎来考验",
+          "body": "AI版方基墨主演西部片，专家对合成演员能否媲美真人演员看法不一。",
+          "mini_headline": "AI-listers遇上真明星",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=1200&quality=85&auto=format&fit=max&s=b1ca27496def2de12e1099098a3dbabc",
+                "cap": "“真的、真的很可怕”……AI演员蒂莉·诺伍德。"
+              },
+              {
+                "t": "p",
+                "x": "经家人同意、由AI打造（AI-created）的已故演员方基墨，出现在导演科尔特·沃尔希斯的新西部片《As Deep as the Grave》中，引发了这类技术是否会让真人演员变得多余的争议。"
+              },
+              {
+                "t": "p",
+                "x": "被艾米莉·布朗特形容为“真的、真的很可怕”的AI“小明星”蒂莉·诺伍德，即将出演长片《Misaligned》。"
+              },
+              {
+                "t": "p",
+                "x": "Framestore首席创意官蒂姆·韦伯持怀疑态度：“AI模型是基于事物的表面来训练的……要达到人类表演的水准、真正带有情感，还有很长的路要走。”"
+              },
+              {
+                "t": "p",
+                "x": "Higgsfield AI今年发布了两部完全AI-generated的长片《Hell Grind》和《The Cully Hill Boys》。内容负责人阿迪尔·阿利姆扎诺夫表示，这些工具解放了艺术家，也缩短了好莱坞的制作流程；《The Cully Hill Boys》以30秒为单位拼接而成，每段都由一条4,000词的提示词定义。"
+              },
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/23483265fd1c7220a16680ff9715e1ba686881f0/363_0_1500_1200/master/1500.jpg?width=1225&quality=85&auto=format&fit=max&s=06b876a2db74e96ff2285bb48a7533bb",
+                "cap": "“你说不清哪里不对”……《Ready Player One》中的泰伊·谢里丹。"
+              },
+              {
+                "t": "p",
+                "x": "Wonder Dynamics联合创始人泰伊·谢里丹、韦伯以及AI电影人扎克·伦敦都倾向于以真人表演为核心的混合方式。“它们真的是为了成就传奇表演而设计的，还是为了削减成平均水平而设计的？”谢里丹问道。"
+              },
+              {
+                "t": "p",
+                "x": "AI电影是否存在票房需求，也就是是否具备真正的经济理由，目前仍不明朗。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Val Kilmer AI y Tilly Norwood:\nestrellas sintéticas a prueba",
+          "body": "Con Val Kilmer AI en un wéstern, los expertos discrepan sobre si los actores sintéticos pueden competir con los reales.",
+          "mini_headline": "Los AI-listers frente a las estrellas reales",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=1200&quality=85&auto=format&fit=max&s=b1ca27496def2de12e1099098a3dbabc",
+                "cap": "‘Da muchísimo miedo’ … la actriz AI Tilly Norwood."
+              },
+              {
+                "t": "p",
+                "x": "Una versión AI-created del fallecido Val Kilmer, aprobada por su familia, aparece en el nuevo wéstern As Deep as the Grave del director Coerte Voorhees, lo que ha abierto la polémica sobre si esta tecnología podría volver prescindibles a los actores de carne y hueso."
+              },
+              {
+                "t": "p",
+                "x": "La “starlet” AI Tilly Norwood, a quien Emily Blunt describió como “muy, muy aterradora”, aparecerá pronto en el largometraje Misaligned."
+              },
+              {
+                "t": "p",
+                "x": "El director creativo de Framestore, Tim Webber, se muestra escéptico: “Los modelos de AI se entrenan con la superficie de las cosas … Llegar al nivel de una actuación humana, con emoción genuina, está todavía muy lejos”."
+              },
+              {
+                "t": "p",
+                "x": "Higgsfield AI ha estrenado este año dos largometrajes íntegramente AI-generated, Hell Grind y The Cully Hill Boys. Su responsable de contenido, Adil Alimzhanov, afirma que las herramientas liberan a los artistas y acortan la producción de Hollywood; The Cully Hill Boys se montó en fragmentos de 30 segundos, cada uno definido en un prompt de 4,000 palabras."
+              },
+              {
+                "t": "img",
+                "src": "https://i.guim.co.uk/img/media/23483265fd1c7220a16680ff9715e1ba686881f0/363_0_1500_1200/master/1500.jpg?width=1225&quality=85&auto=format&fit=max&s=06b876a2db74e96ff2285bb48a7533bb",
+                "cap": "‘No sabes decir qué es’ … Tye Sheridan en Ready Player One."
+              },
+              {
+                "t": "p",
+                "x": "Tye Sheridan, cofundador de Wonder Dynamics, Webber y el cineasta de AI Zack London prefieren métodos híbridos que mantienen una actuación humana en el centro. “¿De verdad están diseñados para lograr actuaciones legendarias, o para recortar hasta un promedio?”, pregunta Sheridan."
+              },
+              {
+                "t": "p",
+                "x": "Aún no está claro si existe demanda en taquilla, y por tanto un verdadero argumento económico, para el cine hecho con AI."
               }
             ]
           }

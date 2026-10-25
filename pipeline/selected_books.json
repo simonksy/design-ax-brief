@@ -1,106 +1,87 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "section": "books",
   "picks": [
     {
-      "url": "https://www.abc.net.au/news/2026-10-25/patrick-white-publishing-authors-unhappy-service-ai-art/107255794",
-      "title": "Authors paid hundreds to publish their books, but allege 'crap' service and AI art",
-      "source": "ABC News (Australia)",
+      "url": "https://www.thewrap.com/industry-news/labor-unions/wga-east-partners-with-cloak-ai-shield/",
+      "title": "WGAE Partners With AI-Shielding Tool Cloak",
+      "source": "TheWrap",
       "category": "books",
-      "published_iso": "2026-10-24T21:29:52+00:00",
-      "og_image": "https://live-production.wcms.abc-cdn.net.au/9666b581058d1af9ec9592941fe71f8a?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-      "excerpt": "Authors accuse paid-publishing service Patrick White Publishing of poor service and AI-generated cover/staff imagery; ABC found AI-generated images in its staff profiles.",
+      "published_iso": "2026-10-20T16:22:00Z",
+      "og_image": "https://www.thewrap.com/wp-content/uploads/2022/11/wga-logo.jpg",
+      "excerpt": "WGA East members get free access to Cloak, software that makes documents unreadable to most AI models while preserving formatting for human readers.",
       "source_lang": "en",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "An original ABC investigation into a paid-publishing service: authors say they paid for poor service and AI covers, and ABC found AI-generated faces in the company's staff profiles. Self-publishing authors can use it as a checklist for vetting a vendor."
+      "rationale": "A concrete new protection writers can use right away: WGA East members get free access to Cloak, which makes manuscripts unreadable to most AI models while humans can still read them."
     },
     {
-      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
-      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-      "source": "TorrentFreak",
+      "url": "https://ai.watch.impress.co.jp/docs/news/2149258.html",
+      "title": "「LINEマンガ」、AIチャット「byUs」開始",
+      "source": "Impress AI Watch",
       "category": "books",
-      "published_iso": "2026-10-24T07:55:15+00:00",
-      "og_image": "https://torrentfreak.com/images/keyboardfeat.jpg",
-      "excerpt": "An academic paper on the Z-Library shadow library, written with disclosed AI help, cites a nonexistent TorrentFreak article and other unfindable sources.",
-      "source_lang": "en",
-      "tool": "Books",
-      "accent": "#0070f3",
-      "motif": "swatch",
-      "rationale": "A new, checkable case: a peer-reviewed paper about Z-Library that disclosed AI help cites a TorrentFreak article that does not exist. It shows that disclosing AI use does not catch hallucinated citations, which matters to editors and scholarly publishers."
-    },
-    {
-      "url": "https://www.msn.com/en-ca/technology/artificial-intelligence/publishers-rely-on-trust-not-tech-to-ensure-books-aren-t-ai-generated/ar-AA2fWHju",
-      "title": "Publishers rely on trust, not tech, to ensure books aren't AI-generated",
-      "source": "The Canadian Press",
-      "category": "books",
-      "published_iso": "2026-10-23T20:28:46Z",
-      "og_image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fVY8R.img",
-      "excerpt": "With AI detectors unreliable, Canadian publishers such as Coach House Books say they ask writers to disclose AI-generated material and rely on trust.",
-      "source_lang": "en",
+      "published_iso": "2026-10-19T05:04:41Z",
+      "og_image": "https://ai.watch.impress.co.jp/img/aiw/list/2149/258/00.jpg",
+      "excerpt": "LINE Digital Frontier (Naver Webtoon) launched byUs, an AI story chat on LINE Manga that lets readers co-create new stories with officially licensed manga characters.",
+      "source_lang": "ja",
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "rationale": "Shows how Canadian presses such as Coach House actually screen manuscripts for AI: detectors are unreliable, so they rely on author disclosure clauses and trust. It is a working practice other presses can copy."
+      "rationale": "A new launch: LINE Manga in Japan opened byUs, where readers co-write new stories with officially licensed manga characters. It shows licensed character chat becoming a product in the Japanese comics market."
     },
     {
-      "url": "https://www.timesnownews.com/lifestyle/books/370-books-in-20-months-has-made-this-author-famous-for-all-the-wrong-reasons-article-156391358",
-      "title": "370 Books In 20 Months Has Made This Author Famous For All The Wrong Reasons",
-      "source": "Times Now",
+      "url": "https://www.lrb.co.uk/blog/2026/october/write-a-novel-in-thirty-days",
+      "title": "Write a Novel in Thirty Days",
+      "source": "London Review of Books (LRB Blog)",
       "category": "books",
-      "published_iso": "2026-10-23T16:41:24+05:30",
-      "og_image": "https://images.timesnownews.com/thumb/msid-156391703,thumbsize-1276522,width-1280,height-720,resizemode-75/156391703.jpg",
-      "excerpt": "South African romance writer Coral Hart says she has published 370+ books with AI since February 2025, drawing backlash and threats and reigniting the authorship debate.",
+      "published_iso": "2026-10-21T00:00:00Z",
+      "og_image": "https://www.lrb.co.uk/storage/social_image/lrb_assets/icons/lrb-blog-social.jpg",
+      "excerpt": "A bookseller weighs whether to stock AI-written novels with clear labelling, as machine-generated fiction tests the shop floor.",
       "source_lang": "en",
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "Shows what AI-volume publishing looks like in practice: romance author Coral Hart says she has released 370+ AI-assisted books in 20 months, which helps explain the KDP flood and the human-authorship labels."
+      "rationale": "A working bookseller's view of whether to stock AI-written novels if they are clearly labelled. Earlier cards covered labelling from the publisher and certification side; this one is about the shop floor."
     },
     {
-      "url": "https://scholarlykitchen.sspnet.org/2026/10/20/from-content-to-trusted-knowledge-reflections-on-frankfurt-book-fair-2026/",
-      "title": "From Content to Trusted Knowledge: Reflections on Frankfurt Book Fair 2026",
-      "source": "The Scholarly Kitchen",
+      "url": "https://www.thebookseller.com/comment/does-the-roi-of-ai-only-lie-in-corporate-efficiencies",
+      "title": "Does the ROI of AI really only lie in corporate efficiencies?",
+      "source": "The Bookseller",
       "category": "books",
-      "published_iso": "2026-10-20T09:30:33+00:00",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-2191733603.jpg",
-      "excerpt": "Frankfurt 2026 takeaways on how publishers turn trusted content into usable knowledge as AI answer engines and agents become the reading interface.",
+      "published_iso": "2026-10-23T07:45:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/dfg.jpg",
+      "excerpt": "Nadim Sadek argues the book industry should acknowledge that AI can bring genuine value to human creativity, not just back-office efficiency.",
       "source_lang": "en",
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "rationale": "A strategy takeaway from Frankfurt: as AI answer engines and agents become the way people read, publishers need to package trusted content as usable knowledge, not just sell files. It comes from an independent industry blog, not a vendor."
+      "rationale": "A rare pro-creativity argument in the trade press: Nadim Sadek argues publishers should value AI for creative work, not only for back-office savings. It balances a week of anti-AI coverage."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.abc.net.au/news/2026-10-25/patrick-white-publishing-authors-unhappy-service-ai-art/107255794": {
+      "https://www.thewrap.com/industry-news/labor-unions/wga-east-partners-with-cloak-ai-shield/": {
         "verdict": "new",
-        "nearest": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+        "nearest": "https://janefriedman.com/payauthors-com-are-your-books-in-pirate-libraries/",
         "new_action": ""
       },
-      "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/": {
+      "https://ai.watch.impress.co.jp/docs/news/2149258.html": {
+        "verdict": "follow-up",
+        "nearest": "https://www.inews24.com/view/2008992",
+        "new_action": "A new product launch: LINE Digital Frontier released byUs, an AI story chat with licensed characters, on LINE Manga in Japan (10-19). The 09-26 card covered Naver Webtoon's Korean character chat."
+      },
+      "https://www.lrb.co.uk/blog/2026/october/write-a-novel-in-thirty-days": {
         "verdict": "new",
-        "nearest": "https://fortune.com/2026/10/06/steven-rosenbaum-future-of-truth-ai-hallucinated-quotes/",
+        "nearest": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
         "new_action": ""
       },
-      "https://www.msn.com/en-ca/technology/artificial-intelligence/publishers-rely-on-trust-not-tech-to-ensure-books-aren-t-ai-generated/ar-AA2fWHju": {
+      "https://www.thebookseller.com/comment/does-the-roi-of-ai-only-lie-in-corporate-efficiencies": {
         "verdict": "new",
-        "nearest": "http://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101557-authors-guild-issues-ai-guidelines-for-publishers.html",
-        "new_action": ""
-      },
-      "https://www.timesnownews.com/lifestyle/books/370-books-in-20-months-has-made-this-author-famous-for-all-the-wrong-reasons-article-156391358": {
-        "verdict": "new",
-        "nearest": "https://janefriedman.com/amazon-kdp-limits-authors-to-two-titles-per-format-per-week/",
-        "new_action": ""
-      },
-      "https://scholarlykitchen.sspnet.org/2026/10/20/from-content-to-trusted-knowledge-reflections-on-frankfurt-book-fair-2026/": {
-        "verdict": "new",
-        "nearest": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-programs-explore-ais-impact-on-translation-and-the-future-of-publishing/",
+        "nearest": "https://www.thebookseller.com/comment/pushing-authors-culture-ai-secrecy",
         "new_action": ""
       }
     },
-    "note": "Swap on coordinator fact-check: dropped Digital Times https://www.dt.co.kr/article/12090904 (the CommunicationBooks 'AI Mungo' piece reads as the publisher's own press release, with a company-supplied photo and promotional quotes) and backfilled with Scholarly Kitchen's Frankfurt reflections. Replacement check: it is not in /tmp/ax_claimed_urls.txt and no published book card covers the same story. Earlier Frankfurt cards covered specific sessions (Lepore, the German copyright ruling, Storytel, Audible, Spotify, jobs, the EU AI Act, translation programmes), while this is an independent analysis of the content-to-knowledge shift; the URL is distinct from the SK posts published 10-16, 10-20 and 10-24. Alternates rejected: ZDNET Kindle+ AI audiobooks (the same story as the books card published 10-23 from The Verge, 'Amazon renames Kindle Unlimited to Kindle Plus and expands access to audiobooks'); Yonhap AKR20261023163900017 children's AI creation contest (a science-ministry event built on a government release and centred on webtoons and songs, so a weak books fit that is close to PR); PW Zachary Mason profile (an author profile with no news event); ALLi 'Can AI run your book marketing' (evergreen podcast). Earlier drops stand: ALLi Audible/Dracula (Audible character-chat published 10-02); ALLi Society of Authors charter (likely-repeat of the 10-22 card); The Verge Meta delays (the same event as the 10-23 Jane Friedman card); Korea Herald and Hankyoreh cluster c13 plus Korea Daily (Anthropic and Chinese AI firms using Han Kang's books, published 10-16 and 10-22); Yonhap MYH20261024001800038 and AKR20261020031000005, plus e-science idxno=137549 (running bulk-buying story, extra reporting only); Seoul Economic Daily trust and Kyosu idxno=211400 (the 출판인회의 appeal published 10-17); Digital Today Millie idxno=708330 (the same launch as the 10-21 ddaily card); Money Today '딸깍 소설' (prize vetting, covered 10-19). Outlets: ABC, TorrentFreak, Canadian Press via MSN, Times Now, Scholarly Kitchen. Five distinct outlets."
+    "note": "SWAP 2026-10-26: removed the TechCrunch Grok 'Odyssey' pick because movies keeps the same story today (Variety, Grok's first AI-generated Odyssey episode), so it would be a cross-section duplicate. No backfill: I re-checked all 9 remaining candidates and none is fresh and strong enough without padding, so books ships 4 cards (floor 3). Remaining pool and reasons: Voice Over Herald Kindle+ AI audiobooks (the same event as the 10-23 Verge Kindle Plus card; the narrator angle is extra reporting, not a new release); Korea Herald Kyobo 100,000-book order (the same as the 10-15 JoongAng card); Korea Herald 'Were Korean authors' books used to train Claude?' (the running Anthropic/Han Kang story, published 10-16 Sedaily and 10-22 JoongAng); Seoul Economic Daily copyright trust (the 출판인회의 appeal, published 10-17 Yonhap); etnews Arundhati Roy criticises Anthropic (a reaction with no new filing or release); MK Millie AI Briefing (the same launch as the 10-21 ddaily card); Mediabistro 'Publishers are splitting on AI' (an analysis roundup that repeats the 10-23 Jane Friedman Meta card, and it has no og_image); PW Zachary Mason profile (an author profile with no news event, rejected 10-25 too, so using it would be padding); Yonhap children's AI creation contest (a weak books fit, rejected 10-25 too). None of the 4 kept URLs appears in another section's claimed list (/tmp/ax_claimed_1026.txt). Outlets: TheWrap, Impress, LRB, The Bookseller (four distinct)."
   }
 }

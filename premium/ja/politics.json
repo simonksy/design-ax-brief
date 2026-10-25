@@ -3722,6 +3722,105 @@
           "x": "筆者は企業に対し、選挙関連コンテンツをより慎重に扱うよう求める。Grokは検証者に「選挙の偽情報は禁止行為に挙げられていない」と答えた。さらに、高速モードと低速モードで安全対策を一貫して適用すること、拒否を本当の拒否にすること、プラットフォームをまたいで検出しやすく除去しにくい出所データを埋め込むことも求めている。"
         }
       ]
+    },
+    "politics/politics-uk-chancellor-ai-package": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.publishing.service.gov.uk/media/5a37db09e5274a7908e352b4/s960_HMT_buiding_plaque.jpg"
+        },
+        {
+          "t": "p",
+          "x": "財務相は、あらゆる地域でAIの機会を引き出し、国内発のAI企業を拡大し、敵対的な脅威から国を守るための大規模な投資パッケージを発表する。財務相はAIを予算の柱の一つに据える構えだ。"
+        },
+        {
+          "t": "p",
+          "x": "計画には、AIが雇用と産業をどう変えるかに関するUKの取り組みを主導する年1000万ポンド、生物学的脅威の検知にAIを活用する1億ポンドのAIバイオセキュリティ研究所(AI Biosecurity Lab)を含む国家AIバイオセキュリティ・イニシアチブ(National AI Biosecurity Initiative)への1億6500万ポンド、AI安全保障研究所(AI Security Institute)への追加1億2000万ポンド、エージェント型AIを使う国家サイバーシールド(National Cyber Shield)への6000万ポンドが含まれる。"
+        },
+        {
+          "t": "p",
+          "x": "パッケージはさらにソブリンAI基金(Sovereign AI Fund)に6000万ポンドを積み増し、UK先端チップ設計アカデミー(UK Advanced Chip Design Academy)に1800万ポンド、AIチャレンジ賞(AI Challenge Prize)に1500万ポンド、市長戦略当局(Mayoral Strategic Authorities)との地域AI連携に3000万ポンドを充てる。"
+        },
+        {
+          "t": "p",
+          "x": "ジョン・ヒーリー(John Healey)財務相は「労働者を置き去りにせず、国益を守る、英国独自のAIへのアプローチを打ち出す」と述べた。techUKのジュリアン・デービッド(Julian David)氏は「6億ポンド超の力強いパッケージ」と評価した。"
+        }
+      ]
+    },
+    "politics/politics-spain-deepfake-video": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/b2d99fbc0419494ad01c1db56e1c3987fef305dd/799_96_2908_2326/master/2908.jpg?width=1200&dpr=1&s=none&crop=none",
+          "cap": "フエンラブラダでの選挙集会に臨むペドロ・サンチェス(Pedro Sánchez)氏と妻。写真：JJ Guillen/EPA"
+        },
+        {
+          "t": "p",
+          "x": "スペインの最大野党が首相の妻のディープフェイク動画を使った政治広告が怒りを呼び、AIをめぐる幅広い議論に火を付けた。同国は来月の総選挙に向けて準備を進めている。"
+        },
+        {
+          "t": "p",
+          "x": "保守系の国民党(People's party、PP)の動画は、AIでペドロ・サンチェス(Pedro Sánchez)氏の社会労働党に関係する人物の姿を加工し、買春やリベートの受け取りといった行為を認めているかのように見せた。動画に登場するベゴーニャ・ゴメス(Begoña Gómez)氏とホセ・ルイス・ロドリゲス・サパテロ(José Luis Rodríguez Zapatero)氏は、進行中の捜査で不正を否定している。"
+        },
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/2c623a42b8fe9a0f8170a7d4ffd10f9749f7800f/0_263_1048_837/master/1048.jpg?width=1065&dpr=1&s=none&crop=none",
+          "cap": "国民党のAI生成(AI-generated)動画の一場面。ベゴーニャ・ゴメス氏のディープフェイクが登場する。"
+        },
+        {
+          "t": "p",
+          "x": "デジタル変革相のオスカル・ロペス(Óscar López)氏は「AIに慣れていない人なら、誰でもあの動画を現実と取り違えやすい」と述べた。報道によると、レイレ・ディエス(Leire Díez)氏は名誉毀損とデジタルなりすましを訴えて裁判所に告訴した。El Paísが取材した法律専門家の多くは、表示付きの風刺動画であり違法ではないとの見方を示した。"
+        },
+        {
+          "t": "p",
+          "x": "PPのボルハ・センペール(Borja Sémper)氏は「デジタルツールを使い、社会労働党が身を置く偽善を浮き彫りにする手法だ」と語った。"
+        }
+      ]
+    },
+    "politics/politics-texas-paxton-openai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fWwim.img",
+          "cap": "テキサス州のケン・パクストン(Ken Paxton)司法長官。(Raquel Natalicchio/Houston Chronicle)"
+        },
+        {
+          "t": "p",
+          "x": "アリゾナ州、ウェストバージニア州、アイオワ州などが起こした訴訟と同様に、テキサス州のケン・パクストン(Ken Paxton)司法長官は、OpenAIがChatGPTの安全性について利用者を欺き、子どもやその他の利用者を「AI軍拡競争に勝ち、巨万の富を築こうとする同社の飽くなき追求に駆り立てられた」「数々の害」にさらしたと主張している。"
+        },
+        {
+          "t": "p",
+          "x": "[Bloomberg Law]"
+        }
+      ]
+    },
+    "politics/politics-deepseek-minimax-export": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.thenextweb.com/2026/10/minimax-open-platform-website-phone-screen.jpg"
+        },
+        {
+          "t": "p",
+          "x": "国営放送CCTV系のWeChatアカウント「玉渊谭天(Yuyuan Tantian)」は投稿で「政策発表以来、大手二社のDeepSeekとMiniMaxが登録手続きを完了し、オープンソースと海外ライセンスの権利を取得した」と述べた。TNWはこの投稿を独自に検証しておらず、両社はReutersの問い合わせにすぐには応じなかった。"
+        },
+        {
+          "t": "p",
+          "x": "中国の商務省と科学技術省は、大規模モデル、エージェント、計算クラスターなど23のAI技術を輸出制限リストに加える方針で、パブリックコメントは11月15日に締め切る。投稿によると、規則はデータ、機微な用途、計算能力を対象とする。"
+        },
+        {
+          "t": "p",
+          "x": "投稿は、API呼び出し、アプリ、ウェブページ、SaaSを通じたモデル提供は技術輸出に当たらないとし、「簡単に言えば、AI企業はこれまで通り商業化を続けられる」と述べた。オープンソース技術には自動的に許可が与えられる。"
+        }
+      ]
+    },
+    "politics/politics-enisa-ai-evaluation": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Cybersecurity Actの改正案で、改正を主導するMEPがEUサイバー庁にAI評価の役割を与えるよう求めている。AIがハッキングとサイバー防衛のあり方を変えつつあるなかでの提案である。"
+        }
+      ]
     }
   }
 }

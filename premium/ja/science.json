@@ -9256,6 +9256,131 @@
           "x": "「わずか数日で農薬を分解する酵素を設計できた。設計に数カ月かかったこれまでの最高記録を何倍も上回る性能だ」と、UWの博士課程候補生セス・ウッドベリー(Seth Woodbury)氏は話す。"
         }
       ]
+    },
+    "science/science-seeqc-ising-decoder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/SEEQC-and-NVIDIA-Quantum-Chip.png"
+        },
+        {
+          "t": "p",
+          "x": "PRESS RELEASE — SEEQCは、自社のチップベースの前段デコーダと、NVIDIA IsingのオープンなAIモデル群を組み合わせた多段階の量子誤り訂正デコーディング・アーキテクチャの結果を発表した。"
+        },
+        {
+          "t": "p",
+          "x": "SEEQC Digital LinkとNVIDIA NVQLinkが量子計算とGPU-acceleratedコンピューティング（GPUで高速化した計算）をつなぐ、シミュレーション上の量子プロセッサおよびアーキテクチャ・スタックにおいて、組み合わせた前段デコーダは、NVIDIA Isingを単独の前段デコーダとして動かす場合に比べ、デコーディング遅延と論理エラー率を約50%削減した。"
+        },
+        {
+          "t": "p",
+          "x": "専用の処理をQPUの近くに置くことで、上位の古典計算へ送るデータが減り、より高速で拡張性の高い誤り訂正への道が開ける可能性がある。"
+        },
+        {
+          "t": "p",
+          "x": "SEEQCのCEOであるJohn Levyは「専用の処理をキュービットの近くに置きつつ、GPU-acceleratedコンピューティングと効率よく接続することで、はるかに大きな規模で動作できる量子システムへの道筋が得られる」と述べた。SEEQCは次に、HPCインフラ内での量子プロセッサのチップ間（chip-to-chip）統合を計画している。"
+        }
+      ]
+    },
+    "science/science-circmac-mirna": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pusan-national-univers-18.jpg",
+          "cap": "circMAC uses AI to identify candidate microRNA binding regions across full-length circular RNA isoforms while preserving sequence continuity at the back-splice junction. Credit: Prof. Giltae Song, Pusan National University, South Korea"
+        },
+        {
+          "t": "p",
+          "x": "Circular RNAs can regulate genes through interactions with microRNAs, but their back-splice junction makes linear-style analysis incomplete. A team led by Prof. Giltae Song at Pusan National University built circMAC, which takes a full-length circRNA isoform and a miRNA and predicts a binding probability for every circRNA nucleotide. The study appeared in Briefings in Bioinformatics."
+        },
+        {
+          "t": "p",
+          "x": "circMAC combines attention, Mamba and convolutional modeling with circular padding, miRNA-specific cross-attention and structure-aware pretraining, so binding patterns spanning the junction are not split. In the 1,000-nucleotide benchmark setting it outperformed the evaluated pretrained RNA language models."
+        },
+        {
+          "t": "p",
+          "x": "The predictions prioritize candidate regions for experiments, as in a circCDYL2 example, and do not prove function; independent validation is still needed."
+        }
+      ]
+    },
+    "science/science-blind-ai-eyes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/visually-challenged-mi.jpg",
+          "cap": "Credit: Google Geminiで生成した画像、Oct. 20, 2026."
+        },
+        {
+          "t": "p",
+          "x": "視覚障害のある男性がフライパンにスマートフォンを向け、「ソーセージはもう焼き色がついた？」と尋ねる。ACM Conference on Human Factors in Computing Systems（CHI）で発表されたUniversity of Marylandの研究は、視覚障害者がBe My EyesのAI写真説明機能であるBe My AIをどう使っているかを調べた。"
+        },
+        {
+          "t": "p",
+          "x": "長い答えは役に立つ情報を埋もれさせる。十一人の視覚障害のある参加者が10日間、日常生活でアプリを使い、研究者らは418件のやり取りを分析した。視覚的な説明が向上しても、それが役に立つ答えではなく長い応答につながることが多く、ときには質問の十倍以上の長さになり、会話は毎回写真全体の説明から始まった。視覚障害者は答えを読み上げで聞くため、役に立つ一つの情報を見つけるにはそのすべてを聞き通さなければならない。"
+        },
+        {
+          "t": "p",
+          "x": "利用者は目的を先に伝える、作業を小さな質問に分ける、言い換えるといった工夫で適応した。研究者らは、こうしたプロンプトの工夫は技術の既存の限界を回避するための手段にすぎないと指摘する。「実際にどの情報が重要なのかを見極める作業の多くを、いまだに視覚障害のある利用者に求めている」。"
+        }
+      ]
+    },
+    "science/science-diffusion-assoc-memory": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-78727-y/MediaObjects/41467_2026_78727_Fig1_HTML.png",
+          "cap": "訓練データセットの規模が大きくなるにつれて現れる記憶、スプリアス段階、汎化。Pham et al., Nature Communications (2026), CC BY 4.0"
+        },
+        {
+          "t": "p",
+          "x": "Dense Associative Memories（DenseAMs）はHopfieldネットワークを一般化したもので、エネルギー地形の極小点に訓練データを保存する。訓練データが臨界的な記憶容量を超えると、スプリアス状態と呼ばれる新たな極小点が現れ、記憶の想起を妨げることがある。"
+        },
+        {
+          "t": "p",
+          "x": "著者らは、生成を記憶想起の試みとみなし、DenseAMの視点から拡散モデルを調べた。データが少ないと、拡散モデルは訓練サンプルごとに別々のアトラクタを作り、訓練データセットが大きくなると汎化へと移行する。その間には、DenseAM理論が予測する臨界的な中間段階があり、スプリアス状態がその特徴となる。"
+        },
+        {
+          "t": "p",
+          "x": "生成モデリングにおいて、これまで見過ごされてきたこれらの状態は、もはや否定的なアーティファクトではなく、生成能力の最初の兆しである。その存在は幅広いアーキテクチャとデータセットで示された。"
+        }
+      ]
+    },
+    "science/science-ai2-litpivot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792764970-litpivot-featured-staircase-1512x1080.png"
+        },
+        {
+          "t": "p",
+          "x": "新しい論文との出会いは、研究アイデアの方向を変えることがある。Ai2はこれを「文献起点の転換(literature-initiated pivot)」と呼び、University of Pennsylvania(ペンシルベニア大学)の協力者とともに、研究者がこうした転換を乗り越えられるよう支援するLitPivotを開発した。"
+        },
+        {
+          "t": "p",
+          "x": "LitPivotはAsta Paper Finderで検索した論文を使い、提案を課題・貢献・評価計画に分解し、編集中の側面を軸に関連論文をまとめ、抜粋に裏付けられた批評を示し、研究者が採用・編集・却下できる修正案を提案する。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792764615-image2.png",
+          "cap": "LitPivotのワークフロー:提案の側面を選び、論文を選択し、裏付けのある修正を確認し、アイデアの変化に合わせて文献を更新する。"
+        },
+        {
+          "t": "p",
+          "x": "ある側面が変わると、LitPivotは修正後の貢献に合わなくなった評価計画など、見直しが必要になりうる箇所を示す。"
+        },
+        {
+          "t": "p",
+          "x": "研究者17人を対象とした研究では、分野の専門家が、LitPivotで練ったアイデアはテキストエディターとAIチャットツールで練ったものより文献に根ざしていると評価した。参加者自身も、修正後のアイデアをより新規性が高く有用だと感じた。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792764678-image4.png",
+          "cap": "ある研究者が、合成医療記録に関する提案を、複数回の通院にわたる矛盾を確認する方向へと練り直す。"
+        },
+        {
+          "t": "p",
+          "x": "LitPivotはDetroit(デトロイト)で開かれるUIST 2026で発表される予定だ。"
+        }
+      ]
     }
   }
 }

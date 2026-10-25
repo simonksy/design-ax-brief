@@ -7504,6 +7504,108 @@
           "x": "这份声明将连同签署者名单在网上发布。现在提交下方表格即可签署。"
         }
       ]
+    },
+    "books/books-linemanga-byus-chat": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/00_l.jpg"
+        },
+        {
+          "t": "p",
+          "x": "LINE Digital Frontier于10月19日在电子漫画服务“LINE漫画”上推出AI故事聊天“byUs”（读作“bias”）。"
+        },
+        {
+          "t": "p",
+          "x": "“byUs”是一项AI故事聊天服务，用户可以成为原作故事的主角，创作属于自己的故事。它以原创及独家连载作品为基础，提供官方的“Official Story”和用户创作的“粉丝故事”2种玩法，用户可通过与角色互动编织新的故事。"
+        },
+        {
+          "t": "p",
+          "x": "在Official Story中，开篇依据原作的世界观和角色设定构成，此后用户与角色对话，展开新的故事。粉丝故事则以原作角色为基础，用户可设定新的情境和关系，享受创作故事的乐趣。用户还可以把自己创作的粉丝故事公开给其他用户。"
+        },
+        {
+          "t": "p",
+          "x": "此外，“byUs”还配备了帮助对话顺畅进行的“推荐回复”和“自动播放”、提供符合情境图片的“快照”，以及根据好感度等级依次提供图片的“特别画面”等功能。"
+        },
+        {
+          "t": "p",
+          "x": "可使用的作品仅限原作者认可的官方IP。第1弹上线了《邻座的工程师先生好像想跳槽。》（原作：Woo Si-mok，作画：Lee Ha-an）中的乔伊和以斯帖，以及《作战代号是纯情》（文：kkokkalee，绘：Dledumb）中的橘莲和百谷玲央。今后还将陆续增加角色。"
+        },
+        {
+          "t": "img",
+          "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/1_l.png"
+        },
+        {
+          "t": "img",
+          "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/2_l.png"
+        }
+      ]
+    },
+    "books/books-lrb-shelf-ai-novels": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Alfred Nunney所在书店的一位常客给他看了Penguin于2018年出版的Giorgio Bassani《The Novel of Ferrara》单卷本——如今它几乎和Finzi-Continis家的花园一样难寻。"
+        },
+        {
+          "t": "p",
+          "x": "UK、荷兰和北美的二手书商反映，出现了奇怪的批量订单，稀有和冷门书籍销量激增，推测来自为训练大语言模型而寻找人类撰写素材的AI公司。"
+        },
+        {
+          "t": "p",
+          "x": "最初的策略是使用“影子图书馆”中的盗版书，这让Anthropic与作者和出版商达成了15亿美元的和解；针对OpenAI的集体诉讼仍在进行。随后，Anthropic聘请曾任职于Google Books的Tom Turvey负责“Project Panama”——“我们以破坏性方式扫描世界上所有图书的努力”，即切掉书脊，扫描后将书打成纸浆。"
+        },
+        {
+          "t": "p",
+          "x": "与此同时，Novelcrafter和Sudowrite等工具提供AI辅助构思情节和编辑；Sudowrite每月$22的“professional”套餐，面向目标是“三十天写出小说”的人。"
+        },
+        {
+          "t": "p",
+          "x": "Nunney的老板说，如果需求明确、标注清晰，他会卖AI小说。顾客要么强烈反对，要么耸耸肩：“我看不出区别。”被问到推荐时，Nunney仍会推荐Bassani。"
+        }
+      ]
+    },
+    "books/books-sadek-creative-roi": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/dfg.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Shimmr AI创始人兼CEO、《Shimmer, Don’t Shake – How Publishing Can Embrace AI》作者Nadim Sadek撰文指出，业界是时候承认AI能为人类创造力带来真正的价值了。"
+        }
+      ]
+    },
+    "books/books-patrick-white-publishing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://live-production.wcms.abc-cdn.net.au/9666b581058d1af9ec9592941fe71f8a?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+          "cap": "Patrick White Publishing的AI-generated宣传图片。(Patrick White Publishing)"
+        },
+        {
+          "t": "p",
+          "x": "尽管网上评价正面，作者们指责Patrick White Publishing服务质量低劣，并迫使他们删除负面评论。该公司还向作者收取数百美元的AI-generated插图费用。"
+        },
+        {
+          "t": "p",
+          "x": "Mudgee作者Kerry Stewart支付了$500，称编辑反而引入了错误；Melbourne作者Tulin Salis先获得$400的报价，随后被推销$1899的\"5-Star Ghostwriting Bundle\"。"
+        },
+        {
+          "t": "img",
+          "src": "https://live-production.wcms.abc-cdn.net.au/b06a09fe7be41183eb456f5c77af5584?impolicy=wcms_crop_resize&cropH=1077&cropW=1615&xPos=0&yPos=41&width=862&height=575",
+          "cap": "Patrick White Publishing在Hobart的Google商家信息中出现这张AI-generated图片。(Patrick White Publishing)"
+        },
+        {
+          "t": "p",
+          "x": "一款OpenAI工具显示，Google Maps上Hobart门店的图片带有其软件生成的水印；该公司网站上的部分书籍封面也检测出OpenAI和Google Gemini的水印。ABC查阅的作者协议中并未提及AI插图。"
+        },
+        {
+          "t": "p",
+          "x": "该公司还使用一家无关企业的ABN，Patrick White的文学遗产管理方已要求其停止使用这一名称。Patrick White Publishing未回应ABC的置评请求。"
+        }
+      ]
     }
   }
 }

@@ -8567,6 +8567,97 @@
           "x": "「ゲームを早く見せることは、インディーが注目され、私たちを支えてくれるファンと出会う方法だ」と同社は書いた。「プラットフォームがオリジナル作品の保護を強化し続けることを願っている」"
         }
       ]
+    },
+    "games/games-tenderloin-takedown": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2026/10/23/indie-dev-pulls-zombie-shooter-game-san-francisco-1792794196975.jpg?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+          "t": "p",
+          "x": "San Franciscoを舞台にしたゾンビゲームの開発者が、ゲームを取り下げて公に謝罪した。市当局が、市民を「ゾンビ」として描いたとしてこの作品を非難したためだ。"
+        },
+        {
+          "t": "p",
+          "x": "Tenderloin Night Shiftは、独立系開発者のPierre-Louis BiojoutがOpenAIのCodexを使い、週末のうちに作ったバイブコーディングの一人称シューティングだ。アンデッドの敵には建設作業服や料理配達のバッグを身につけたものもいれば、「フェンタニル・フォールド（fentanyl fold）」の姿勢で描かれたものもいた。Biojoutはゲーム内のデジタル広告枠を週$100で販売していた。"
+        },
+        {
+          "t": "p",
+          "x": "Daniel Lurie市長は「趣味の良し悪しや人のひどい思いつきはどうしようもない。これはひどいもので、我々は拒否する」と述べた。Tenderloinを地盤とするBilal Mahmood市政委員は「非常に不快で容認できない」とし、「路上生活者を含む実在の人々への暴力を娯楽にするのは非人間的であり、決して当たり前にしてはならない」と付け加えた。"
+        },
+        {
+          "t": "p",
+          "x": "Biojoutはゲームを削除して広告主に返金し、ゲームに関するSNS投稿を消したうえで、ゲームの収益全額をDelancey Street Foundationに寄付した。Twitter/Xには「舞台設定と宣伝の仕方に判断の誤りがあった。依存症やホームレス状態に苦しむ人々を標的にする意図はまったくなかった」と書いた。"
+        }
+      ]
+    },
+    "games/games-ai-clone-extortion": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/979/20261019170017.jpg",
+          "cap": "AI複製版をばらまくと脅迫された日本のインディーゲーム開発者、モチベ・タカシ氏（画像出典：モチベ・タカシ氏のXアカウントのキャプチャ）"
+        },
+        {
+          "t": "p",
+          "x": "日本のインディーゲーム開発者が、生成AIで作った複製ゲームを先に発売すると告げて金品を要求する脅迫メールを受け取った。"
+        },
+        {
+          "t": "p",
+          "x": "脅迫メールを公開したのは、戦略RPG『Dragon's Chronicles ～双星のレギンレイヴ～』を開発するスタジオアットホームのモチベ・タカシ氏だ。同作は2027年のSteam発売を目指して開発中の戦略RPGである。"
+        },
+        {
+          "t": "p",
+          "x": "モチベ氏がXで公開した資料によると、送り主はAIツールで同作に似たゲームをすでに作っており、Steamで先に発売する準備も整えたと主張した。そのうえで、24時間以内に200ドル（約26万ウォン）相当のSteamアイテムを渡せば複製版を公開しないと通告した。送り主は複製ゲーム制作の証拠として動画を添付したと主張したが、実際には動画は含まれていなかったという。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/980/20261019170017.jpg",
+          "cap": "脅迫メールの本文（画像出典：モチベ・タカシ氏のXアカウント）"
+        },
+        {
+          "t": "p",
+          "x": "モチベ氏は脅迫に応じず、自身が開発中の戦略RPGをAIで手軽に複製することは不可能だとの立場を示した。本当にもっと面白い複製ゲームを作ったのなら、むしろ買いたいという趣旨の返信をしたと説明している。また、このメールが不特定の開発者に無差別に送られる詐欺メッセージである可能性を指摘し、ほかの開発者に注意を呼びかけた。"
+        },
+        {
+          "t": "p",
+          "x": "同様の懸念は海外のインディー開発者の間でも広がっている。ゲームプレイ映像を公開した直後に類似作が登録された事例を報告する開発者もおり、日本でも戦略ゲーム『Project Solaris』の開発者が、複製被害を防ぐため定期的な開発状況の公開を減らすと明らかにした。さらに、ゆんゆん電波シンドロームの開発元による次回作で、美麗なキャラクターで注目を集めた『Pukey Goddess Shot Trick』も、来たる10月のNext Festで体験版を出す予定だったが、AIによる複製を懸念してクローズドテストに予定を変更した。"
+        }
+      ]
+    },
+    "games/games-rtx-remix-16": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-14.jpg"
+        },
+        {
+          "t": "p",
+          "x": "NVIDIAは、open-source のモッディングプラットフォームRTX Remix 1.6を公開した。GitHubとNVIDIA Appから入手できる。3D-Guided Neural Renderingを備えたDLSS 5、最大 6X のMulti Frame Generation、Windows on ARMのネイティブ対応、拡充されたAI-poweredアセットツール、そしてMinecraft Java Editionの実験的対応を導入する。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/DLSS-5-OFF-vs-ON.jpg",
+          "cap": "画像：NVIDIA。"
+        },
+        {
+          "t": "p",
+          "x": "DLSS 5はゲームのジオメトリ、テクスチャ、ライティングを考慮しつつ、AIで照明と質感を向上させる。モッダーは三つのモデル（A、B、C）の選択、ハイライトとボリュメトリックの調整、per-material の制御マスクを使える。5X と 6X のMulti Frame Generationは、対応するGeForce RTX 50 Series GPUsで利用できる。"
+        },
+        {
+          "t": "p",
+          "x": "RTX Remix for MinecraftはFabric-basedのモッドで、新しいAPI-basedパイプラインを通じてpath-tracedレンダラーをJava Edition 1.21.1にもたらす。NVIDIAはこれを、モッド互換性が限られた初期ベータだとしている。"
+        },
+        {
+          "t": "p",
+          "x": "ComfyUI Integration 2.0は、テクスチャやメッシュを生成する従来のAIアセットツールに代わるものだ。headless Toolkitと改良されたMCP連携により、対応するAIエージェントがモッディング作業の一部を自動化できる。"
+        },
+        {
+          "t": "video",
+          "yt": "WT3twFB0PD8"
+        }
+      ]
     }
   }
 }

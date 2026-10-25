@@ -8821,6 +8821,131 @@
           "x": "“En solo unos días diseñamos una enzima que degrada pesticidas y que rinde muchas veces mejor que mi mejor diseño anterior, que me llevó meses”, dijo Seth Woodbury, candidato predoctoral de la UW."
         }
       ]
+    },
+    "science/science-seeqc-ising-decoder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/SEEQC-and-NVIDIA-Quantum-Chip.png"
+        },
+        {
+          "t": "p",
+          "x": "PRESS RELEASE — SEEQC anunció los resultados de una arquitectura de decodificación de corrección cuántica de errores en varias etapas que combina su predecodificador basado en chip con NVIDIA Ising, la familia abierta de modelos de AI."
+        },
+        {
+          "t": "p",
+          "x": "En una pila simulada de procesador cuántico y arquitectura, con SEEQC Digital Link y NVIDIA NVQLink conectando la computación cuántica con la computación GPU-accelerated (acelerada por GPU), el predecodificador combinado mostró una reducción de aproximadamente el 50% en la latencia de decodificación y en la tasa de error lógico frente a operar NVIDIA Ising como predecodificador independiente."
+        },
+        {
+          "t": "p",
+          "x": "Situar el procesamiento especializado más cerca de la QPU reduce los datos que se envían a la computación clásica de nivel superior, lo que ofrece una posible vía hacia una corrección de errores más rápida y escalable."
+        },
+        {
+          "t": "p",
+          "x": "“Acercar el procesamiento especializado a los cúbits y, al mismo tiempo, conectarlo de forma eficiente con la computación GPU-accelerated abre una vía hacia sistemas cuánticos capaces de operar a una escala considerablemente mayor”, afirmó John Levy, CEO de SEEQC. Como siguiente paso, SEEQC prevé la integración chip a chip (chip-to-chip) de un procesador cuántico dentro de una infraestructura HPC."
+        }
+      ]
+    },
+    "science/science-circmac-mirna": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pusan-national-univers-18.jpg",
+          "cap": "circMAC uses AI to identify candidate microRNA binding regions across full-length circular RNA isoforms while preserving sequence continuity at the back-splice junction. Credit: Prof. Giltae Song, Pusan National University, South Korea"
+        },
+        {
+          "t": "p",
+          "x": "Circular RNAs can regulate genes through interactions with microRNAs, but their back-splice junction makes linear-style analysis incomplete. A team led by Prof. Giltae Song at Pusan National University built circMAC, which takes a full-length circRNA isoform and a miRNA and predicts a binding probability for every circRNA nucleotide. The study appeared in Briefings in Bioinformatics."
+        },
+        {
+          "t": "p",
+          "x": "circMAC combines attention, Mamba and convolutional modeling with circular padding, miRNA-specific cross-attention and structure-aware pretraining, so binding patterns spanning the junction are not split. In the 1,000-nucleotide benchmark setting it outperformed the evaluated pretrained RNA language models."
+        },
+        {
+          "t": "p",
+          "x": "The predictions prioritize candidate regions for experiments, as in a circCDYL2 example, and do not prove function; independent validation is still needed."
+        }
+      ]
+    },
+    "science/science-blind-ai-eyes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/visually-challenged-mi.jpg",
+          "cap": "Credit: imagen generada con Google Gemini, Oct. 20, 2026."
+        },
+        {
+          "t": "p",
+          "x": "Un hombre ciego apunta su teléfono hacia una sartén y pregunta: “¿Ya están doradas las salchichas?”. Un estudio de la University of Maryland presentado en la ACM Conference on Human Factors in Computing Systems (CHI) examinó cómo usan las personas ciegas Be My AI, la función de descripción de fotos con AI de Be My Eyes."
+        },
+        {
+          "t": "p",
+          "x": "Las respuestas largas entierran los detalles útiles. Once participantes ciegos usaron la app en su vida diaria durante 10 días, y los investigadores analizaron 418 interacciones. Unas mejores descripciones visuales a menudo se traducían en respuestas extensas en lugar de útiles, a veces más de diez veces más largas que la pregunta, y cada conversación empieza con una descripción completa de la foto. Como los usuarios ciegos escuchan las respuestas en voz alta, deben oírlas enteras para encontrar el único detalle útil."
+        },
+        {
+          "t": "p",
+          "x": "Los usuarios se adaptaron explicando sus objetivos, dividiendo las tareas en preguntas más pequeñas y reformulando. Los investigadores sostienen que estas instrucciones son una forma de sortear una limitación existente de la tecnología: “Todavía pedimos a los usuarios ciegos que hagan gran parte del trabajo de averiguar qué información es realmente relevante”."
+        }
+      ]
+    },
+    "science/science-diffusion-assoc-memory": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-78727-y/MediaObjects/41467_2026_78727_Fig1_HTML.png",
+          "cap": "Memorización, fase espuria y generalización a medida que crece el tamaño del conjunto de entrenamiento. Pham et al., Nature Communications (2026), CC BY 4.0"
+        },
+        {
+          "t": "p",
+          "x": "Las Dense Associative Memories (DenseAMs) son generalizaciones de las redes de Hopfield que almacenan los datos de entrenamiento en mínimos locales del paisaje de energía. Cuando los datos de entrenamiento superan la capacidad crítica de almacenamiento de memoria, surgen nuevos mínimos locales, conocidos como estados espurios, que pueden dificultar la recuperación de recuerdos."
+        },
+        {
+          "t": "p",
+          "x": "Los autores examinan los modelos de difusión desde la óptica de las DenseAM y conciben la generación como un intento de recuperar recuerdos. Con pocos datos, los modelos de difusión crean atractores distintos para cada muestra de entrenamiento; a medida que crece el conjunto de entrenamiento, pasan a generalizar. Entre ambos extremos hay una fase intermedia crítica, predicha por la teoría DenseAM, caracterizada por estados espurios."
+        },
+        {
+          "t": "p",
+          "x": "En el modelado generativo, estos estados antes ignorados dejan de ser artefactos negativos y pasan a ser los primeros indicios de capacidades generativas. Su existencia se demuestra en una amplia variedad de arquitecturas y conjuntos de datos."
+        }
+      ]
+    },
+    "science/science-ai2-litpivot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792764970-litpivot-featured-staircase-1512x1080.png"
+        },
+        {
+          "t": "p",
+          "x": "Encontrar un artículo nuevo puede cambiar la trayectoria de una idea de investigación. Ai2 llama a esto un giro iniciado por la literatura y, con colaboradores de la University of Pennsylvania, creó LitPivot para ayudar a los investigadores a gestionar estos giros."
+        },
+        {
+          "t": "p",
+          "x": "Con artículos obtenidos mediante Asta Paper Finder, LitPivot divide una propuesta en su problema, su contribución y su plan de evaluación, agrupa los artículos relacionados en torno a la faceta que se edita, ofrece críticas respaldadas por fragmentos y sugiere revisiones que los investigadores pueden aceptar, editar o rechazar."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792764615-image2.png",
+          "cap": "Flujo de trabajo de LitPivot: seleccionar una faceta de la propuesta, elegir artículos, revisar una edición respaldada y actualizar la literatura a medida que cambia la idea."
+        },
+        {
+          "t": "p",
+          "x": "Cuando cambia una faceta, LitPivot señala los pasajes que podrían necesitar revisión, como un plan de evaluación que ya no encaja con una contribución revisada."
+        },
+        {
+          "t": "p",
+          "x": "En un estudio con 17 investigadores, expertos del área valoraron las ideas desarrolladas con LitPivot como mejor fundamentadas en la literatura que las desarrolladas con un editor de texto y una herramienta de chat de AI. Los participantes también percibieron sus ideas revisadas como más novedosas y útiles."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792764678-image4.png",
+          "cap": "Un investigador reorienta una propuesta sobre notas médicas sintéticas hacia la verificación de contradicciones entre varias visitas hospitalarias."
+        },
+        {
+          "t": "p",
+          "x": "LitPivot se presentará en UIST 2026 en Detroit."
+        }
+      ]
     }
   }
 }

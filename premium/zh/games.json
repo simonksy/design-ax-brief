@@ -8413,6 +8413,97 @@
           "x": "“尽早展示游戏，是独立开发者被看见、找到支撑我们走下去的粉丝的方式，”该公司写道。“我们希望各平台持续加强对原创作品的保护。”"
         }
       ]
+    },
+    "games/games-tenderloin-takedown": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2026/10/23/indie-dev-pulls-zombie-shooter-game-san-francisco-1792794196975.jpg?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+          "t": "p",
+          "x": "一款以San Francisco为背景的僵尸游戏遭市府官员谴责，称其把市民描绘成“僵尸”。随后，开发者下架了游戏并公开道歉。"
+        },
+        {
+          "t": "p",
+          "x": "Tenderloin Night Shift是一款氛围编程打造的第一人称射击游戏，由独立开发者Pierre-Louis Biojout利用OpenAI的Codex在一个周末内完成。游戏中部分不死敌人身穿施工制服或背着外卖背包，另一些则被描绘成“芬太尼折腰”（fentanyl fold）的姿态。Biojout以每周$100的价格出售游戏内的数字广告位。"
+        },
+        {
+          "t": "p",
+          "x": "市长Daniel Lurie表示：“品味和人们的糟糕点子没法讲道理。这就是个糟糕的点子，我们拒绝它。”代表Tenderloin选区的市议员Bilal Mahmood称其“令人深感不安、无法接受”，并补充说：“把针对真实人群（包括无家可归者）的暴力变成娱乐，是在贬低人格，绝不应被常态化。”"
+        },
+        {
+          "t": "p",
+          "x": "Biojout下架了游戏，向广告商退款，删除了相关社交媒体帖子，并将游戏全部收入捐给Delancey Street Foundation。他在Twitter/X上写道：“游戏的背景设定和我的宣传方式都显示出判断失误。我从未打算针对受成瘾或无家可归困扰的人。”"
+        }
+      ]
+    },
+    "games/games-ai-clone-extortion": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/979/20261019170017.jpg",
+          "cap": "遭到散布AI克隆作品威胁的日本独立游戏开发者Mochibe Takashi（图片来源：Mochibe Takashi的X账号截图）"
+        },
+        {
+          "t": "p",
+          "x": "一名日本独立游戏开发者收到一封勒索邮件，对方扬言将抢先发布用生成式AI制作的克隆游戏，并索要财物。"
+        },
+        {
+          "t": "p",
+          "x": "公开这封勒索邮件的是Studio AtHome的Mochibe Takashi，该工作室正在开发策略RPG《Dragon's Chronicles ~双星的蕾金蕾芙~》。这款策略RPG目标于2027年登陆Steam。"
+        },
+        {
+          "t": "p",
+          "x": "根据Mochibe Takashi在X上公开的资料，发件人声称已用AI工具做出了与该作类似的游戏，并已准备好抢先在Steam发布。对方随后通告，只要在24小时内交出价值200美元（约合26万韩元）的Steam物品，就不会公开克隆作品。发件人声称附上了视频作为制作克隆游戏的证据，但据悉邮件中实际上并没有相关视频。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/980/20261019170017.jpg",
+          "cap": "勒索邮件正文（图片来源：Mochibe Takashi的X账号）"
+        },
+        {
+          "t": "p",
+          "x": "Mochibe没有理会这一威胁，并表示自己正在开发的策略RPG不可能用AI轻易复制。他说，自己的回复大意是：如果对方真的做出了更好玩的克隆游戏，他反而愿意买来玩。他还指出，这封邮件可能是随机群发给不特定开发者的诈骗信息，提醒其他开发者提高警惕。"
+        },
+        {
+          "t": "p",
+          "x": "类似的担忧也出现在海外独立游戏开发者之间。一些开发者反映，公开游戏实机视频后不久就有类似作品上架；在日本，策略游戏《Project Solaris》的开发者也表示，为防止被克隆，将减少定期公开开发进度。此外，Yunyun Denpa Syndrome开发商的新作、以美型角色受到关注的《Pukey Goddess Shot Trick》原定在即将到来的10月Next Fest推出试玩版，也因担心遭AI克隆而改为封闭测试。"
+        }
+      ]
+    },
+    "games/games-rtx-remix-16": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-14.jpg"
+        },
+        {
+          "t": "p",
+          "x": "NVIDIA发布了其open-source模组平台RTX Remix 1.6，可通过GitHub和NVIDIA App获取。新版引入搭载3D-Guided Neural Rendering的DLSS 5、最高6X 的Multi Frame Generation、原生Windows on ARM支持、扩展的AI-powered素材工具，以及对Minecraft Java Edition的实验性支持。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/DLSS-5-OFF-vs-ON.jpg",
+          "cap": "图片来源：NVIDIA。"
+        },
+        {
+          "t": "p",
+          "x": "DLSS 5借助AI增强光照与材质，同时兼顾游戏的几何、纹理和光照。模组作者可在三种模型（A、B、C）中选择，调整高光与体积效果，并使用per-material控制遮罩。5X 和6X 的Multi Frame Generation将在受支持的GeForce RTX 50 Series GPUs上提供。"
+        },
+        {
+          "t": "p",
+          "x": "RTX Remix for Minecraft是一款Fabric-based模组，通过全新的API-based管线，将path-traced渲染器带到Java Edition 1.21.1。NVIDIA称其为早期测试版，模组兼容性有限。"
+        },
+        {
+          "t": "p",
+          "x": "ComfyUI Integration 2.0取代了此前用于生成纹理和网格的AI素材工具，而headless Toolkit与改进的MCP集成，让兼容的AI代理可以自动完成部分模组工作流程。"
+        },
+        {
+          "t": "video",
+          "yt": "WT3twFB0PD8"
+        }
+      ]
     }
   }
 }

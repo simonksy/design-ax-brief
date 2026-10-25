@@ -1,20 +1,31 @@
 {
- "media": [
-  {
-   "id": "marketing-pennsylvania-ai-ad-labels",
-   "type": "video",
-   "src": "pipeline/media/marketing-pennsylvania-ai-ad-labels.mp4",
-   "poster": "pipeline/media/marketing-pennsylvania-ai-ad-labels.jpg"
-  },
-  {
-   "id": "marketing-iab-tech-lab-agentic-standard-comments",
-   "type": "image",
-   "src": "pipeline/media/marketing-iab-tech-lab-agentic-standard-comments.jpg"
-  },
-  {
-   "id": "marketing-google-marketing-platform-drop-gemini",
-   "type": "image",
-   "src": "pipeline/media/marketing-google-marketing-platform-drop-gemini.png"
-  }
- ]
+  "date": "2026-10-26",
+  "section": "marketing",
+  "media": [
+    {
+      "id": "marketing-review-summary-search-ads",
+      "type": "image",
+      "src": "pipeline/media/marketing-review-summary-search-ads.jpg"
+    },
+    {
+      "id": "marketing-bid-exploration-pmax",
+      "type": "image",
+      "src": "pipeline/media/marketing-bid-exploration-pmax.jpg"
+    },
+    {
+      "id": "marketing-ads-localize-10-languages",
+      "type": "image",
+      "src": "pipeline/media/marketing-ads-localize-10-languages.jpg"
+    },
+    {
+      "id": "marketing-samsung-tv-ad-data",
+      "type": "image",
+      "src": "pipeline/media/marketing-samsung-tv-ad-data.jpg"
+    },
+    {
+      "id": "marketing-china-ai-ad-blue-book",
+      "type": "image",
+      "src": "pipeline/media/marketing-china-ai-ad-blue-book.jpg"
+    }
+  ]
 }

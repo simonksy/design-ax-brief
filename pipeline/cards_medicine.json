@@ -1,785 +1,233 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "section": "medicine",
   "cards": [
     {
-      "id": "medicine-eko-core300-fda",
+      "id": "medicine-rivanna-boneenhance",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Eko Core 300\nAI 청진기 FDA 허가",
-      "body": "FDA가 아날로그와 AI 청진을 오가는 Eko의 Core 300을 허가했다.",
-      "mini_headline": "FDA, Eko Core 300 허가",
+      "headline": "FDA, Rivanna의\n초음파 AI 뼈 표시 허가",
+      "body": "FDA가 Rivanna BoneEnhance AI(2D B-mode 뼈) 허가했다.",
+      "mini_headline": "FDA, Rivanna BoneEnhance 허가",
       "tool": "Medicine",
-      "source": "Cardiovascular Business",
-      "url": "https://cardiovascularbusiness.com/topics/artificial-intelligence/fda-clears-new-ai-enabled-stethoscopes",
+      "source": "AuntMinnie",
+      "url": "https://www.auntminnie.com/clinical-news/ultrasound/news/15838275/rivanna-gets-fda-clearance-for-boneenhance-ultrasound-software",
       "accent": "#00897b",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/assets_ms2016573_000001_1280x960_core_300_pr_1-1.jpg?h=926d89e9&itok=p9_Udd4z"
-          },
-          {
-            "t": "p",
-            "x": "Eko Health가 새 AI-enabled 청진기 Core 300의 FDA 허가를 받았다. 기존 아날로그 청진과 고급 디지털 청진 기능을 함께 갖췄다."
-          },
-          {
-            "t": "p",
-            "x": "의료진은 소아와 성인 환자를 진찰하다가 기존 청진에서 디지털 청진으로 바로 바꿀 수 있다. 디지털 청진은 최대 35x 증폭과 소음 제거를 지원하고, 실시간 심장 데이터를 기기 화면에 띄운다."
-          },
-          {
-            "t": "p",
-            "x": "이 청진기는 Eko App이나 Eko의 FDA-cleared AI 모델과도 연결되며, 배터리는 한 번에 몇 주씩 쓰도록 설계됐다."
-          },
-          {
-            "t": "p",
-            "x": "Eko Health 공동창업자이자 CEO인 Connor Landgraf는 “Eko는 750,000대가 넘는 기기를 공급했고, Core 300은 모든 의료 전문가가 질병을 조기에 자신 있게 발견하도록 돕는 다음 단계”라고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "이 기기는 현재 U.S. 소비자에게 판매 중이며 해외 출시도 단계적으로 진행하고 있다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "FDA clears Eko's Core 300\nAI stethoscope",
-          "body": "The FDA cleared Eko Health's Core 300, a stethoscope that switches between analog and AI digital listening.",
-          "mini_headline": "FDA clears Eko Core 300",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/assets_ms2016573_000001_1280x960_core_300_pr_1-1.jpg?h=926d89e9&itok=p9_Udd4z"
-              },
-              {
-                "t": "p",
-                "x": "Eko Health has received FDA clearance for Core 300, a new AI-enabled stethoscope that offers both traditional analog and advanced digital listening capabilities."
-              },
-              {
-                "t": "p",
-                "x": "Clinicians can instantly switch from traditional to digital listening when evaluating pediatric and adult patients. Digital listening includes up to 35x amplification, noise cancellation and real-time heart data displayed on the device."
-              },
-              {
-                "t": "p",
-                "x": "The stethoscopes can also connect to the Eko App or Eko's FDA-cleared AI models, and the battery was designed to last for weeks at a time."
-              },
-              {
-                "t": "p",
-                "x": "“Eko has delivered more than 750,000 devices, and Core 300 is the next step toward bringing early disease detection confidence to every healthcare professional,” said Connor Landgraf, co-founder and CEO of Eko Health."
-              },
-              {
-                "t": "p",
-                "x": "The device is now available to U.S. consumers, and a gradual international launch is underway."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Eko Core 300\nAI 청진기 FDA 허가",
-          "body": "FDA가 아날로그와 AI 청진을 오가는 Eko의 Core 300을 허가했다.",
-          "mini_headline": "FDA, Eko Core 300 허가",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/assets_ms2016573_000001_1280x960_core_300_pr_1-1.jpg?h=926d89e9&itok=p9_Udd4z"
-              },
-              {
-                "t": "p",
-                "x": "Eko Health가 새 AI-enabled 청진기 Core 300의 FDA 허가를 받았다. 기존 아날로그 청진과 고급 디지털 청진 기능을 함께 갖췄다."
-              },
-              {
-                "t": "p",
-                "x": "의료진은 소아와 성인 환자를 진찰하다가 기존 청진에서 디지털 청진으로 바로 바꿀 수 있다. 디지털 청진은 최대 35x 증폭과 소음 제거를 지원하고, 실시간 심장 데이터를 기기 화면에 띄운다."
-              },
-              {
-                "t": "p",
-                "x": "이 청진기는 Eko App이나 Eko의 FDA-cleared AI 모델과도 연결되며, 배터리는 한 번에 몇 주씩 쓰도록 설계됐다."
-              },
-              {
-                "t": "p",
-                "x": "Eko Health 공동창업자이자 CEO인 Connor Landgraf는 “Eko는 750,000대가 넘는 기기를 공급했고, Core 300은 모든 의료 전문가가 질병을 조기에 자신 있게 발견하도록 돕는 다음 단계”라고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "이 기기는 현재 U.S. 소비자에게 판매 중이며 해외 출시도 단계적으로 진행하고 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Eko Core 300\nAI聴診器をFDA承認",
-          "body": "FDAはアナログとAIデジタル聴診を切り替えられるEkoのCore 300を承認した。",
-          "mini_headline": "FDA、Eko Core 300を承認",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/assets_ms2016573_000001_1280x960_core_300_pr_1-1.jpg?h=926d89e9&itok=p9_Udd4z"
-              },
-              {
-                "t": "p",
-                "x": "Eko Healthは、従来のアナログ聴診と高度なデジタル聴診の両方を備えた新しいAI-enabled聴診器Core 300について、FDAの承認を取得した。"
-              },
-              {
-                "t": "p",
-                "x": "臨床医は小児と成人の患者を診察する際、従来の聴診からデジタル聴診へ即座に切り替えられる。デジタル聴診では最大35xの増幅、ノイズキャンセリング、デバイス上に表示されるリアルタイムの心臓データを利用できる。"
-              },
-              {
-                "t": "p",
-                "x": "この聴診器はEko AppやEkoのFDA-cleared AIモデルにも接続でき、バッテリーは一度に数週間持つよう設計されている。"
-              },
-              {
-                "t": "p",
-                "x": "「Ekoはこれまでに750,000台を超えるデバイスを届けてきた。Core 300は、すべての医療従事者に早期の疾患発見への確信をもたらすための次の一歩だ」と、Eko Healthの共同創業者兼CEOであるConnor Landgrafは述べた。"
-              },
-              {
-                "t": "p",
-                "x": "このデバイスは現在U.S.の消費者向けに提供されており、海外での展開も段階的に進んでいる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Eko Core 300\nAI听诊器获FDA批准",
-          "body": "FDA批准了Eko的Core 300，这款听诊器可在模拟与AI数字听诊间切换。",
-          "mini_headline": "FDA批准Eko Core 300",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/assets_ms2016573_000001_1280x960_core_300_pr_1-1.jpg?h=926d89e9&itok=p9_Udd4z"
-              },
-              {
-                "t": "p",
-                "x": "Eko Health的新款AI-enabled听诊器Core 300已获得FDA批准，兼具传统模拟听诊和先进的数字听诊功能。"
-              },
-              {
-                "t": "p",
-                "x": "临床医生在为儿童和成人患者检查时，可从传统听诊即时切换到数字听诊。数字听诊提供最高35x放大、降噪功能，并在设备上显示实时心脏数据。"
-              },
-              {
-                "t": "p",
-                "x": "该听诊器还可连接Eko App或Eko的FDA-cleared AI模型，电池设计为一次可续航数周。"
-              },
-              {
-                "t": "p",
-                "x": "Eko Health联合创始人兼CEO Connor Landgraf表示：“Eko已交付超过750,000台设备，Core 300是让每一位医疗专业人员都能更有把握地早期发现疾病的下一步。”"
-              },
-              {
-                "t": "p",
-                "x": "该设备现已面向U.S.消费者上市，国际市场也在逐步推出。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La FDA autoriza el Core 300\nestetoscopio AI de Eko",
-          "body": "La FDA autorizó el Core 300 de Eko Health, un estetoscopio que alterna entre escucha analógica y digital con AI.",
-          "mini_headline": "La FDA autoriza el Eko Core 300",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/assets_ms2016573_000001_1280x960_core_300_pr_1-1.jpg?h=926d89e9&itok=p9_Udd4z"
-              },
-              {
-                "t": "p",
-                "x": "Eko Health recibió la autorización de la FDA para Core 300, un nuevo estetoscopio AI-enabled que ofrece tanto escucha analógica tradicional como funciones avanzadas de escucha digital."
-              },
-              {
-                "t": "p",
-                "x": "Los clínicos pueden pasar al instante de la escucha tradicional a la digital al evaluar a pacientes pediátricos y adultos. La escucha digital incluye amplificación de hasta 35x, cancelación de ruido y datos cardíacos en tiempo real que se muestran en el dispositivo."
-              },
-              {
-                "t": "p",
-                "x": "Los estetoscopios también pueden conectarse a la Eko App o a los modelos de AI FDA-cleared de Eko, y la batería se diseñó para durar semanas seguidas."
-              },
-              {
-                "t": "p",
-                "x": "“Eko ha entregado más de 750,000 dispositivos, y Core 300 es el siguiente paso para dar a cada profesional de la salud confianza en la detección temprana de enfermedades”, dijo Connor Landgraf, cofundador y CEO de Eko Health."
-              },
-              {
-                "t": "p",
-                "x": "El dispositivo ya está disponible para los consumidores de U.S., y su lanzamiento internacional avanza de forma gradual."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Eko Core 300\nAI 청진기 FDA 허가",
-          "body": "FDA가 아날로그와 AI 청진을 오가는 Eko의 Core 300을 허가했다.",
-          "mini_headline": "FDA, Eko Core 300 허가",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/assets_ms2016573_000001_1280x960_core_300_pr_1-1.jpg?h=926d89e9&itok=p9_Udd4z"
-              },
-              {
-                "t": "p",
-                "x": "Eko Health가 새 AI-enabled 청진기 Core 300에 대해 FDA 허가를 받았다. 기존 아날로그 청진과 고급 디지털 청진 기능을 모두 갖췄다."
-              },
-              {
-                "t": "p",
-                "x": "의료진은 소아와 성인 환자를 진찰할 때 기존 청진에서 디지털 청진으로 즉시 전환할 수 있다. 디지털 청진은 최대 35x 증폭, 소음 제거, 기기 화면에 표시되는 실시간 심장 데이터를 제공한다."
-              },
-              {
-                "t": "p",
-                "x": "이 청진기는 Eko App이나 Eko의 FDA-cleared AI 모델과도 연결할 수 있으며, 배터리는 한 번에 몇 주씩 쓰도록 설계됐다."
-              },
-              {
-                "t": "p",
-                "x": "Eko Health 공동창업자이자 CEO인 Connor Landgraf는 “Eko는 750,000대가 넘는 기기를 공급했고, Core 300은 모든 의료 전문가가 질병을 조기에 자신 있게 발견하도록 돕는 다음 단계”라고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "이 기기는 현재 U.S. 소비자에게 판매되고 있으며, 해외 출시도 단계적으로 진행 중이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Eko Core 300\nAI聴診器をFDA承認",
-          "body": "FDAはアナログとAIデジタル聴診を切り替えられるEkoのCore 300を承認した。",
-          "mini_headline": "FDA、Eko Core 300を承認",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/assets_ms2016573_000001_1280x960_core_300_pr_1-1.jpg?h=926d89e9&itok=p9_Udd4z"
-              },
-              {
-                "t": "p",
-                "x": "Eko Healthは、従来のアナログ聴診と高度なデジタル聴診の両方を備えた新しいAI-enabled聴診器Core 300について、FDAの承認を取得した。"
-              },
-              {
-                "t": "p",
-                "x": "臨床医は小児と成人の患者を診察する際、従来の聴診からデジタル聴診へ即座に切り替えられる。デジタル聴診では最大35xの増幅、ノイズキャンセリング、デバイス上に表示されるリアルタイムの心臓データを利用できる。"
-              },
-              {
-                "t": "p",
-                "x": "この聴診器はEko AppやEkoのFDA-cleared AIモデルにも接続でき、バッテリーは一度に数週間持つよう設計されている。"
-              },
-              {
-                "t": "p",
-                "x": "「Ekoはこれまでに750,000台を超えるデバイスを届けてきた。Core 300は、すべての医療従事者に早期の疾患発見への確信をもたらすための次の一歩だ」と、Eko Healthの共同創業者兼CEOであるConnor Landgrafは述べた。"
-              },
-              {
-                "t": "p",
-                "x": "このデバイスは現在U.S.の消費者向けに提供されており、海外での展開も段階的に進んでいる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Eko Core 300\nAI听诊器获FDA批准",
-          "body": "FDA批准了Eko的Core 300，这款听诊器可在模拟与AI数字听诊间切换。",
-          "mini_headline": "FDA批准Eko Core 300",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/assets_ms2016573_000001_1280x960_core_300_pr_1-1.jpg?h=926d89e9&itok=p9_Udd4z"
-              },
-              {
-                "t": "p",
-                "x": "Eko Health的新款AI-enabled听诊器Core 300已获得FDA批准，兼具传统模拟听诊和先进的数字听诊功能。"
-              },
-              {
-                "t": "p",
-                "x": "临床医生在为儿童和成人患者检查时，可从传统听诊即时切换到数字听诊。数字听诊提供最高35x放大、降噪功能，并在设备上显示实时心脏数据。"
-              },
-              {
-                "t": "p",
-                "x": "该听诊器还可连接Eko App或Eko的FDA-cleared AI模型，电池设计为一次可续航数周。"
-              },
-              {
-                "t": "p",
-                "x": "Eko Health联合创始人兼CEO Connor Landgraf表示：“Eko已交付超过750,000台设备，Core 300是让每一位医疗专业人员都能更有把握地早期发现疾病的下一步。”"
-              },
-              {
-                "t": "p",
-                "x": "该设备现已面向U.S.消费者上市，国际市场也在逐步推出。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La FDA autoriza el Core 300\nestetoscopio AI de Eko",
-          "body": "La FDA autorizó el Core 300 de Eko Health, un estetoscopio que alterna entre escucha analógica y digital con AI.",
-          "mini_headline": "La FDA autoriza el Eko Core 300",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/assets_ms2016573_000001_1280x960_core_300_pr_1-1.jpg?h=926d89e9&itok=p9_Udd4z"
-              },
-              {
-                "t": "p",
-                "x": "Eko Health recibió la autorización de la FDA para Core 300, un nuevo estetoscopio AI-enabled que ofrece tanto escucha analógica tradicional como funciones avanzadas de escucha digital."
-              },
-              {
-                "t": "p",
-                "x": "Los clínicos pueden pasar al instante de la escucha tradicional a la digital al evaluar a pacientes pediátricos y adultos. La escucha digital incluye amplificación de hasta 35x, cancelación de ruido y datos cardíacos en tiempo real que se muestran en el dispositivo."
-              },
-              {
-                "t": "p",
-                "x": "Los estetoscopios también pueden conectarse a la Eko App o a los modelos de AI FDA-cleared de Eko, y la batería se diseñó para durar semanas seguidas."
-              },
-              {
-                "t": "p",
-                "x": "“Eko ha entregado más de 750,000 dispositivos, y Core 300 es el siguiente paso para dar a cada profesional de la salud confianza en la detección temprana de enfermedades”, dijo Connor Landgraf, cofundador y CEO de Eko Health."
-              },
-              {
-                "t": "p",
-                "x": "El dispositivo ya está disponible para los consumidores de U.S., y su lanzamiento internacional avanza de forma gradual."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "medicine-aitrics-kbsmc-admin-ai",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "에이아이트릭스·강북삼성\nLLM 의무기록 AI 개발",
-      "body": "에이아이트릭스·강북삼성병원이 LLM 기반 의무기록 자동화 플랫폼 개발에 착수한다.",
-      "mini_headline": "강북삼성 LLM 의무기록 AI",
-      "tool": "Medicine",
-      "source": "의학신문(일간보사)",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014709",
-      "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "p",
-            "x": "[의학신문·일간보사=오인규 기자] 최근 의료계는 만성적인 인력 부족과 방대한 문서 작업 등으로 인해 의료진의 피로도가 극에 달한 상황이다. 이를 타개하기 위해 의료 현장에 거대언어모델(LLM) 등 차세대 AI 기술을 접목해 실질적인 업무 환경을 개선하려는 시도가 활발해지고 있다."
+            "x": "Rivanna가 Accuro XV 진단용 초음파 시스템에 들어가는 머신러닝 소프트웨어 모듈 BoneEnhance로 U.S. 식품의약국(FDA) 510(k) 허가를 받았다."
           },
           {
             "t": "p",
-            "x": "이러한 흐름에 발맞춰 의료 인공지능(AI) 전문기업 에이아이트릭스(대표 김광준)는 강북삼성병원과 손잡고 의료 현장의 고질적인 문서 업무 부담 해소에 나선다. 최근 서울 AI허브가 주관하는 '2026년 AI 전환(AX) 지원사업'의 참여 컨소시엄 기업으로 낙점을 받으면서다."
+            "x": "회사 설명으로는 BoneEnhance가 시스템의 3D 프로브로 얻은 볼륨 데이터에서 뼈와 주변 조직을 찾아 2D B-mode 영상 위에 색깔별 오버레이로 표시한다. 원래 해부학 데이터는 그대로 보인다. Rivanna는 다섯 개 기관에서 모은 233개 볼륨 데이터셋으로 독립 테스트를 했고, 볼륨당 라벨 예측 정확도가 95.1%~100%였다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "에이아이트릭스는 이번 사업을 통해 임상 의무기록을 자동화하고 병원 내 워크플로우를 혁신할 수 있는 LLM 기반 AX 플랫폼 개발에 착수한다. 현장에서 매일 반복되는 정보 확인 및 기록 과정을 AI로 대체해 진료 효율성을 극대화하겠다는 전략이다."
-          },
-          {
-            "t": "p",
-            "x": "특히 파트너로 나선 강북삼성병원은 실제 외래 및 간호 환경을 면밀히 분석해 AI가 적용될 구체적인 타깃 업무를 설정하는 중추적인 역할을 맡는다. 실무를 담당하는 의료진과 간호사의 눈높이에 맞춘 필수 기능과 검증 기준도 함께 구체화할 예정이다."
-          },
-          {
-            "t": "p",
-            "x": "집중 개발 과제는 크게 세 가지로 압축된다. ▲외래 진료 시 누적된 환자 투약 및 진단 이력 고도화 ▲방대한 CT·MRI 등 영상검사 판독 결과지의 핵심 경과 요약 ▲간호 인수인계 과정에서 발생하는 음성 대화의 텍스트 변환(STT) 및 내용 요약 등이다. 방대한 의료 데이터를 AI가 빠르고 정확하게 압축해 적기에 제공하는 것이 핵심이다."
-          },
-          {
-            "t": "p",
-            "x": "초기 기획 및 개발 단계부터 강북삼성병원 실무진들이 직접 참여해 사용성을 평가하고 임상적 유효성을 꼼꼼히 따져볼 계획이다. 양 기관은 이번 협력을 마중물 삼아, 향후 완성된 플랫폼이 다른 의료기관에도 유연하게 이식될 수 있도록 기술적 범용성을 확보한다는 청사진을 그렸다."
-          },
-          {
-            "t": "p",
-            "x": "에이아이트릭스 김광준 대표는 철저하게 현장 수요에 기반한 AI 기술의 실효성을 거듭 강조했다."
-          },
-          {
-            "t": "p",
-            "x": "김 대표는 \"현장의 목소리를 최우선으로 반영해 실제 병원 시스템에 즉시 융합될 수 있는 맞춤형 AX 플랫폼을 완성하는 것이 이번 사업의 주된 목표\"라며 \"진보한 LLM 기술이 의료진의 실질적인 업무 경감은 물론, 전반적인 병원 운영의 패러다임을 바꾸는 의료 디지털 혁신의 기폭제가 되도록 최선을 다하겠다\"고 밝혔다."
+            "x": "Rivanna는 임상의가 초음파 영상으로 사지 골절 가능성을 가늠하도록 돕는 연구용 모듈도 개발 중이다. 이 작업에는 U.S. 생물의학첨단연구개발국(Biomedical Advanced Research and Development Authority)의 지원이 들어갔다고 회사는 밝혔다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "에이아이트릭스·강북삼성\nLLM 의무기록 AI 개발",
-          "body": "에이아이트릭스·강북삼성병원이 LLM 기반 의무기록 자동화 플랫폼 개발에 착수한다.",
-          "mini_headline": "강북삼성 LLM 의무기록 AI",
+        "en": {
+          "headline": "FDA clears Rivanna's AI\nbone overlays for ultrasound",
+          "body": "FDA cleared Rivanna's BoneEnhance AI module, which color-codes bone and nearby tissue on 2D B-mode ultrasound images.",
+          "mini_headline": "FDA clears Rivanna BoneEnhance",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "[의학신문·일간보사=오인규 기자] 최근 의료계는 만성적인 인력 부족과 방대한 문서 작업 등으로 인해 의료진의 피로도가 극에 달한 상황이다. 이를 타개하기 위해 의료 현장에 거대언어모델(LLM) 등 차세대 AI 기술을 접목해 실질적인 업무 환경을 개선하려는 시도가 활발해지고 있다."
+                "x": "Rivanna has received U.S. Food and Drug Administration (FDA) 510(k) clearance for BoneEnhance, a machine-learning software module for its Accuro XV diagnostic ultrasound system."
               },
               {
                 "t": "p",
-                "x": "이러한 흐름에 발맞춰 의료 인공지능(AI) 전문기업 에이아이트릭스(대표 김광준)는 강북삼성병원과 손잡고 의료 현장의 고질적인 문서 업무 부담 해소에 나선다. 최근 서울 AI허브가 주관하는 '2026년 AI 전환(AX) 지원사업'의 참여 컨소시엄 기업으로 낙점을 받으면서다."
+                "x": "BoneEnhance identifies bone and surrounding tissues within volumetric datasets acquired by the system’s 3D probe and highlights them with color-coded overlays on 2D B-mode images, while leaving the original anatomical data visible, according to the company. In an independent test set of 233 volumetric datasets from five sites, per-volume label prediction accuracy ranged from 95.1% to 100%, Rivanna said."
               },
               {
                 "t": "p",
-                "x": "에이아이트릭스는 이번 사업을 통해 임상 의무기록을 자동화하고 병원 내 워크플로우를 혁신할 수 있는 LLM 기반 AX 플랫폼 개발에 착수한다. 현장에서 매일 반복되는 정보 확인 및 기록 과정을 AI로 대체해 진료 효율성을 극대화하겠다는 전략이다."
-              },
-              {
-                "t": "p",
-                "x": "특히 파트너로 나선 강북삼성병원은 실제 외래 및 간호 환경을 면밀히 분석해 AI가 적용될 구체적인 타깃 업무를 설정하는 중추적인 역할을 맡는다. 실무를 담당하는 의료진과 간호사의 눈높이에 맞춘 필수 기능과 검증 기준도 함께 구체화할 예정이다."
-              },
-              {
-                "t": "p",
-                "x": "집중 개발 과제는 크게 세 가지로 압축된다. ▲외래 진료 시 누적된 환자 투약 및 진단 이력 고도화 ▲방대한 CT·MRI 등 영상검사 판독 결과지의 핵심 경과 요약 ▲간호 인수인계 과정에서 발생하는 음성 대화의 텍스트 변환(STT) 및 내용 요약 등이다. 방대한 의료 데이터를 AI가 빠르고 정확하게 압축해 적기에 제공하는 것이 핵심이다."
-              },
-              {
-                "t": "p",
-                "x": "초기 기획 및 개발 단계부터 강북삼성병원 실무진들이 직접 참여해 사용성을 평가하고 임상적 유효성을 꼼꼼히 따져볼 계획이다. 양 기관은 이번 협력을 마중물 삼아, 향후 완성된 플랫폼이 다른 의료기관에도 유연하게 이식될 수 있도록 기술적 범용성을 확보한다는 청사진을 그렸다."
-              },
-              {
-                "t": "p",
-                "x": "에이아이트릭스 김광준 대표는 철저하게 현장 수요에 기반한 AI 기술의 실효성을 거듭 강조했다."
-              },
-              {
-                "t": "p",
-                "x": "김 대표는 \"현장의 목소리를 최우선으로 반영해 실제 병원 시스템에 즉시 융합될 수 있는 맞춤형 AX 플랫폼을 완성하는 것이 이번 사업의 주된 목표\"라며 \"진보한 LLM 기술이 의료진의 실질적인 업무 경감은 물론, 전반적인 병원 운영의 패러다임을 바꾸는 의료 디지털 혁신의 기폭제가 되도록 최선을 다하겠다\"고 밝혔다."
+                "x": "Rivanna is also developing an investigational module to help clinicians evaluate potential extremity fractures on ultrasound images. The firm said the work has been supported by the U.S. Biomedical Advanced Research and Development Authority."
               }
             ]
           }
         },
-        "en": {
-          "headline": "AITRICS, Kangbuk Samsung\ndevelop LLM medical-record AI",
-          "body": "AITRICS and Kangbuk Samsung Hospital are starting to develop an LLM-based platform to automate medical records.",
-          "mini_headline": "Kangbuk Samsung LLM records AI",
+        "ko": {
+          "headline": "FDA, Rivanna의\n초음파 AI 뼈 표시 허가",
+          "body": "FDA가 Rivanna BoneEnhance AI(2D B-mode 뼈) 허가했다.",
+          "mini_headline": "FDA, Rivanna BoneEnhance 허가",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "[Medical News·Daily Bosa = Reporter Oh In-gyu] Clinician fatigue in healthcare has reached its peak, driven by chronic staffing shortages and heavy paperwork. To address this, efforts are growing to bring next-generation AI technologies such as large language models (LLM) into clinical settings and improve day-to-day working conditions."
+                "x": "Rivanna가 Accuro XV 진단용 초음파 시스템에 들어가는 머신러닝 소프트웨어 모듈 BoneEnhance로 U.S. 식품의약국(FDA) 510(k) 허가를 받았다."
               },
               {
                 "t": "p",
-                "x": "In line with this trend, medical artificial intelligence (AI) company AITRICS (CEO Kim Kwang-joon) is teaming up with Kangbuk Samsung Hospital to ease the long-standing burden of documentation in clinical practice. The move follows its recent selection as a consortium participant in the '2026 AI Transformation (AX) Support Program' run by Seoul AI Hub."
+                "x": "회사 설명으로는 BoneEnhance가 시스템의 3D 프로브로 얻은 볼륨 데이터에서 뼈와 주변 조직을 찾아 2D B-mode 영상 위에 색깔별 오버레이로 표시한다. 원래 해부학 데이터는 그대로 보인다. Rivanna는 다섯 개 기관에서 모은 233개 볼륨 데이터셋으로 독립 테스트를 했고, 볼륨당 라벨 예측 정확도가 95.1%~100%였다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Through the project, AITRICS will begin developing an LLM-based AX platform that automates clinical medical records and transforms in-hospital workflows. The strategy is to maximize care efficiency by replacing the information checks and record-keeping repeated every day on the front lines with AI."
-              },
-              {
-                "t": "p",
-                "x": "As partner, Kangbuk Samsung Hospital will play a central role, closely analyzing real outpatient and nursing environments to define the specific tasks AI will be applied to. It will also specify essential functions and validation criteria tailored to the doctors and nurses who do the hands-on work."
-              },
-              {
-                "t": "p",
-                "x": "The development work comes down to three main tasks: ▲advancing the accumulated medication and diagnosis histories of patients in outpatient care ▲summarizing key progress from large volumes of imaging reports such as CT·MRI ▲converting voice conversations during nursing handoffs to text (STT) and summarizing their content. The core aim is for AI to condense vast amounts of medical data quickly and accurately and deliver it at the right time."
-              },
-              {
-                "t": "p",
-                "x": "Kangbuk Samsung Hospital staff will take part directly from the early planning and development stages to evaluate usability and closely examine clinical validity. The two institutions plan to use this collaboration as a springboard to secure technical versatility, so the finished platform can later be readily adopted by other medical institutions."
-              },
-              {
-                "t": "p",
-                "x": "AITRICS CEO Kim Kwang-joon repeatedly stressed the practical effectiveness of AI technology grounded firmly in on-site needs."
-              },
-              {
-                "t": "p",
-                "x": "\"The main goal of this project is to complete a customized AX platform that puts the voices of the field first and can be immediately integrated into real hospital systems,\" Kim said. \"We will do our best to make advanced LLM technology a catalyst for digital innovation in healthcare that not only meaningfully reduces clinicians' workload but also changes the paradigm of overall hospital operations.\""
+                "x": "Rivanna는 임상의가 초음파 영상으로 사지 골절 가능성을 가늠하도록 돕는 연구용 모듈도 개발 중이다. 이 작업에는 U.S. 생물의학첨단연구개발국(Biomedical Advanced Research and Development Authority)의 지원이 들어갔다고 회사는 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AITRICS・江北サムスン\nLLM医療記録AI開発",
-          "body": "AITRICSと江北サムスン病院が、LLMベースの医療記録自動化基盤の開発に着手する。",
-          "mini_headline": "江北サムスン LLM医療記録AI",
+          "headline": "FDA、Rivannaの\n超音波AI骨表示を認可",
+          "body": "FDAがRivannaの2D B-mode骨表示AI「BoneEnhance」を認可した。",
+          "mini_headline": "FDA、Rivanna BoneEnhanceを認可",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "[医学新聞・日刊保社=オ・インギュ記者] 最近の医療界は、慢性的な人手不足と膨大な文書作業などにより、医療スタッフの疲労が限界に達している。これを打開するため、大規模言語モデル(LLM)などの次世代AI技術を医療現場に取り入れ、実際の業務環境を改善しようとする試みが活発になっている。"
+                "x": "Rivannaは、Accuro XV診断用超音波システム向けの機械学習ソフトウェアモジュール「BoneEnhance」について、U.S. 食品医薬品局（FDA）の510(k)認可を取得した。"
               },
               {
                 "t": "p",
-                "x": "こうした流れに合わせ、医療人工知能(AI)専門企業のAITRICS(代表キム・グァンジュン)は江北サムスン病院と手を組み、医療現場に根強く残る文書業務の負担解消に乗り出す。最近、ソウルAIハブが主管する「2026年AI転換(AX)支援事業」の参加コンソーシアム企業に選ばれたことによるものだ。"
+                "x": "同社によると、BoneEnhanceはシステムの3D プローブで取得したボリュームデータから骨と周辺組織を識別し、元の解剖学的データを見えるまま残しつつ、2D B-mode画像上に色分けしたオーバーレイで強調表示する。Rivannaによれば、五つの施設から集めた233件のボリュームデータセットによる独立テストで、ボリューム単位のラベル予測精度は95.1%から100%だった。"
               },
               {
                 "t": "p",
-                "x": "AITRICSは今回の事業を通じ、臨床の医療記録を自動化し、院内ワークフローを革新できるLLMベースのAXプラットフォームの開発に着手する。現場で毎日繰り返される情報確認と記録の作業をAIで置き換え、診療効率を最大化する戦略だ。"
-              },
-              {
-                "t": "p",
-                "x": "特にパートナーとなった江北サムスン病院は、実際の外来と看護の環境を綿密に分析し、AIを適用する具体的な対象業務を設定する中核的な役割を担う。実務を担う医師や看護師の目線に合わせた必須機能と検証基準も併せて具体化する予定だ。"
-              },
-              {
-                "t": "p",
-                "x": "重点開発課題は大きく三つに絞られる。▲外来診療時に蓄積された患者の投薬・診断履歴の高度化 ▲膨大なCT・MRIなど画像検査の読影結果報告書の主要経過の要約 ▲看護の引き継ぎで生じる音声会話のテキスト変換(STT)と内容の要約などだ。膨大な医療データをAIが迅速かつ正確に圧縮し、適時に提供することが核心である。"
-              },
-              {
-                "t": "p",
-                "x": "初期の企画・開発段階から江北サムスン病院の実務スタッフが直接参加し、使いやすさを評価して臨床的有効性を丹念に検証する計画だ。両機関は今回の協力を呼び水に、完成したプラットフォームを今後ほかの医療機関にも柔軟に移植できるよう、技術的な汎用性を確保するという青写真を描いた。"
-              },
-              {
-                "t": "p",
-                "x": "AITRICSのキム・グァンジュン代表は、徹底して現場の需要に基づいたAI技術の実効性を繰り返し強調した。"
-              },
-              {
-                "t": "p",
-                "x": "キム代表は「現場の声を最優先に反映し、実際の病院システムにすぐ融合できるオーダーメイドのAXプラットフォームを完成させることが今回の事業の主な目標だ」とし、「進化したLLM技術が医療スタッフの実質的な業務軽減はもちろん、病院運営全般のパラダイムを変える医療デジタル革新の起爆剤となるよう最善を尽くす」と述べた。"
+                "x": "Rivannaは、臨床医が超音波画像で四肢骨折の可能性を評価するのを支援する研究用モジュールも開発中だ。同社によると、この取り組みはU.S. 生物医学先端研究開発局（Biomedical Advanced Research and Development Authority）の支援を受けている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AITRICS·江北三星\n开发LLM病历AI",
-          "body": "AITRICS与江北三星医院将着手开发基于LLM的病历自动化平台。",
-          "mini_headline": "江北三星 LLM病历AI",
+          "headline": "FDA许可Rivanna\n超声AI骨骼叠加显示",
+          "body": "FDA许可Rivanna BoneEnhance AI，在2D B-mode图像上为骨着色。",
+          "mini_headline": "FDA许可Rivanna BoneEnhance",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "[医学新闻·日刊保社 记者Oh In-gyu] 近来，由于长期人手不足和繁重的文书工作，医务人员的疲劳已达到极限。为打破这一局面，在医疗现场引入大语言模型(LLM)等新一代AI技术、切实改善工作环境的尝试日益活跃。"
+                "x": "Rivanna旗下Accuro XV诊断超声系统的机器学习软件模块BoneEnhance已获得U.S. 食品药品监督管理局（FDA）的510(k)许可。"
               },
               {
                 "t": "p",
-                "x": "顺应这一趋势，医疗人工智能(AI)专业企业AITRICS(代表Kim Kwang-joon)将与江北三星医院携手，着手缓解医疗现场长期存在的文书工作负担。此前，该公司入选首尔AI中心主办的“2026年AI转型(AX)支援项目”参与联合体企业。"
+                "x": "据该公司介绍，BoneEnhance可在系统3D 探头采集的容积数据中识别骨骼及周围组织，并在2D B-mode图像上以颜色编码的叠加层加以突出显示，同时保留原始解剖数据的可见性。Rivanna表示，在来自五个站点的233组容积数据构成的独立测试集中，单个容积的标签预测准确率为95.1%至100%。"
               },
               {
                 "t": "p",
-                "x": "AITRICS将通过此次项目，着手开发可实现临床病历自动化、革新院内工作流程的基于LLM的AX平台。其策略是用AI取代现场每天重复的信息确认和记录过程，最大限度提高诊疗效率。"
-              },
-              {
-                "t": "p",
-                "x": "特别是作为合作伙伴的江北三星医院，将细致分析实际门诊和护理环境，承担确定AI具体应用目标业务的核心角色。医院还将结合一线医生和护士的需求，具体制定必备功能和验证标准。"
-              },
-              {
-                "t": "p",
-                "x": "重点开发任务主要归纳为三项：▲门诊时累积的患者用药及诊断记录的高度化 ▲对大量CT·MRI等影像检查判读报告的核心病程进行摘要 ▲将护理交接过程中产生的语音对话转为文本(STT)并总结内容。核心在于由AI快速准确地压缩海量医疗数据，并及时提供。"
-              },
-              {
-                "t": "p",
-                "x": "从初期规划和开发阶段起，江北三星医院的一线人员将直接参与，评估易用性并仔细检验临床有效性。两家机构计划以此次合作为契机，确保技术通用性，使完成后的平台未来也能灵活移植到其他医疗机构。"
-              },
-              {
-                "t": "p",
-                "x": "AITRICS代表Kim Kwang-joon一再强调，AI技术必须立足于现场需求，讲求实效。"
-              },
-              {
-                "t": "p",
-                "x": "Kim代表表示：“此次项目的主要目标，是优先反映现场的声音，完成可即时融入实际医院系统的定制化AX平台。”他还说：“我们将全力以赴，让先进的LLM技术不仅切实减轻医务人员的工作负担，还成为改变医院整体运营范式的医疗数字创新催化剂。”"
+                "x": "Rivanna还在开发一款研究性模块，帮助临床医生在超声图像上评估可能存在的四肢骨折。该公司表示，这项工作得到了U.S. 生物医学高级研究与发展管理局（Biomedical Advanced Research and Development Authority）的支持。"
               }
             ]
           }
         },
         "es": {
-          "headline": "AITRICS y Kangbuk Samsung\nLLM y AI para registros médicos",
-          "body": "AITRICS y el Hospital Kangbuk Samsung desarrollarán una plataforma LLM para automatizar registros médicos.",
-          "mini_headline": "Kangbuk Samsung, AI de registros con LLM",
+          "headline": "FDA autoriza la AI de Rivanna\nque resalta huesos en ecografías",
+          "body": "La FDA autorizó el módulo BoneEnhance AI de Rivanna, que colorea hueso y tejido cercano en ecografías 2D B-mode.",
+          "mini_headline": "La FDA autoriza BoneEnhance de Rivanna",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "[Medical News·Daily Bosa = periodista Oh In-gyu] El cansancio del personal sanitario ha llegado al límite por la escasez crónica de personal y el enorme volumen de trabajo documental. Para superarlo, se multiplican los intentos de incorporar a la práctica clínica tecnologías de AI de nueva generación, como los grandes modelos de lenguaje (LLM), con el fin de mejorar de forma concreta el entorno de trabajo."
+                "x": "Rivanna recibió la autorización 510(k) de la U.S. Food and Drug Administration (FDA) para BoneEnhance, un módulo de software de aprendizaje automático para su sistema de ecografía diagnóstica Accuro XV."
               },
               {
                 "t": "p",
-                "x": "En línea con esta tendencia, AITRICS (director ejecutivo: Kim Kwang-joon), empresa especializada en inteligencia artificial (AI) médica, se alía con el Hospital Kangbuk Samsung para aliviar la persistente carga documental en la práctica clínica. Lo hace tras ser seleccionada recientemente como empresa del consorcio participante en el 'Programa de Apoyo a la Transformación AI (AX) 2026', organizado por Seoul AI Hub."
+                "x": "Según la compañía, BoneEnhance identifica el hueso y los tejidos circundantes en los conjuntos de datos volumétricos adquiridos por la sonda 3D del sistema y los resalta con superposiciones codificadas por color en imágenes 2D B-mode, sin ocultar los datos anatómicos originales. En un conjunto de prueba independiente de 233 conjuntos de datos volumétricos de cinco centros, la precisión de predicción de etiquetas por volumen osciló entre el 95.1% y el 100%, según Rivanna."
               },
               {
                 "t": "p",
-                "x": "Con este proyecto, AITRICS comenzará a desarrollar una plataforma AX basada en LLM capaz de automatizar los registros clínicos y renovar los flujos de trabajo hospitalarios. La estrategia consiste en sustituir con AI los procesos de verificación y registro de información que se repiten a diario, para maximizar la eficiencia asistencial."
-              },
-              {
-                "t": "p",
-                "x": "En particular, el Hospital Kangbuk Samsung, como socio, desempeñará un papel central: analizará en detalle los entornos reales de consulta externa y enfermería para definir las tareas concretas a las que se aplicará la AI. También concretará las funciones esenciales y los criterios de validación ajustados a las necesidades de los médicos y enfermeros que realizan el trabajo diario."
-              },
-              {
-                "t": "p",
-                "x": "Las tareas de desarrollo prioritarias se resumen en tres: ▲perfeccionar el historial acumulado de medicación y diagnóstico de los pacientes en consulta externa ▲resumir la evolución clave de los numerosos informes de lectura de pruebas de imagen como CT·MRI ▲convertir a texto (STT) y resumir las conversaciones de voz que se producen en los relevos de enfermería. La clave es que la AI condense con rapidez y precisión grandes volúmenes de datos médicos y los ofrezca en el momento oportuno."
-              },
-              {
-                "t": "p",
-                "x": "El personal del Hospital Kangbuk Samsung participará directamente desde las fases iniciales de planificación y desarrollo para evaluar la usabilidad y examinar con detalle la validez clínica. Ambas instituciones aspiran a que esta colaboración sirva de impulso para asegurar una versatilidad técnica que permita trasladar con flexibilidad la plataforma terminada a otras instituciones médicas."
-              },
-              {
-                "t": "p",
-                "x": "Kim Kwang-joon, director ejecutivo de AITRICS, insistió en la eficacia práctica de una tecnología de AI basada estrictamente en las necesidades reales del entorno clínico."
-              },
-              {
-                "t": "p",
-                "x": "\"El objetivo principal de este proyecto es completar una plataforma AX a medida que dé prioridad a la voz del personal y pueda integrarse de inmediato en los sistemas hospitalarios reales\", afirmó Kim. \"Haremos todo lo posible para que la avanzada tecnología LLM no solo alivie de forma real la carga de trabajo del personal médico, sino que también sea el detonante de una innovación digital sanitaria que cambie el paradigma de la gestión hospitalaria en su conjunto\", añadió."
+                "x": "Rivanna también desarrolla un módulo en fase de investigación para ayudar a los clínicos a evaluar posibles fracturas de extremidades en imágenes de ecografía. La empresa indicó que el trabajo ha contado con el apoyo de la U.S. Biomedical Advanced Research and Development Authority."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "AITRICS, Kangbuk Samsung\ndevelop LLM medical-record AI",
-          "body": "AITRICS and Kangbuk Samsung Hospital are starting to develop an LLM-based platform to automate medical records.",
-          "mini_headline": "Kangbuk Samsung LLM records AI",
+        "ko": {
+          "headline": "FDA, Rivanna의\n초음파 AI 뼈 표시 허가",
+          "body": "FDA가 Rivanna BoneEnhance AI(2D B-mode 뼈) 허가했다.",
+          "mini_headline": "FDA, Rivanna BoneEnhance 허가",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "[Medical News·Daily Bosa = Reporter Oh In-gyu] Clinician fatigue in healthcare has reached its peak, driven by chronic staffing shortages and heavy paperwork. To address this, efforts are growing to bring next-generation AI technologies such as large language models (LLM) into clinical settings and improve day-to-day working conditions."
+                "x": "Rivanna가 Accuro XV 진단용 초음파 시스템에 쓰는 머신러닝 소프트웨어 모듈 BoneEnhance로 U.S. 식품의약국(FDA)의 510(k) 허가를 받았다."
               },
               {
                 "t": "p",
-                "x": "In line with this trend, medical artificial intelligence (AI) company AITRICS (CEO Kim Kwang-joon) is teaming up with Kangbuk Samsung Hospital to ease the long-standing burden of documentation in clinical practice. The move follows its recent selection as a consortium participant in the '2026 AI Transformation (AX) Support Program' run by Seoul AI Hub."
+                "x": "회사에 따르면 BoneEnhance는 시스템의 3D 프로브로 얻은 볼륨 데이터에서 뼈와 주변 조직을 찾아내 2D B-mode 영상 위에 색상별 오버레이로 강조하고, 원래의 해부학적 데이터는 그대로 보이게 둔다. Rivanna는 다섯 곳의 기관에서 모은 233개 볼륨 데이터셋으로 진행한 독립 테스트에서 볼륨당 라벨 예측 정확도가 95.1%~100%였다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Through the project, AITRICS will begin developing an LLM-based AX platform that automates clinical medical records and transforms in-hospital workflows. The strategy is to maximize care efficiency by replacing the information checks and record-keeping repeated every day on the front lines with AI."
-              },
-              {
-                "t": "p",
-                "x": "As partner, Kangbuk Samsung Hospital will play a central role, closely analyzing real outpatient and nursing environments to define the specific tasks AI will be applied to. It will also specify essential functions and validation criteria tailored to the doctors and nurses who do the hands-on work."
-              },
-              {
-                "t": "p",
-                "x": "The development work comes down to three main tasks: ▲advancing the accumulated medication and diagnosis histories of patients in outpatient care ▲summarizing key progress from large volumes of imaging reports such as CT·MRI ▲converting voice conversations during nursing handoffs to text (STT) and summarizing their content. The core aim is for AI to condense vast amounts of medical data quickly and accurately and deliver it at the right time."
-              },
-              {
-                "t": "p",
-                "x": "Kangbuk Samsung Hospital staff will take part directly from the early planning and development stages to evaluate usability and closely examine clinical validity. The two institutions plan to use this collaboration as a springboard to secure technical versatility, so the finished platform can later be readily adopted by other medical institutions."
-              },
-              {
-                "t": "p",
-                "x": "AITRICS CEO Kim Kwang-joon repeatedly stressed the practical effectiveness of AI technology grounded firmly in on-site needs."
-              },
-              {
-                "t": "p",
-                "x": "\"The main goal of this project is to complete a customized AX platform that puts the voices of the field first and can be immediately integrated into real hospital systems,\" Kim said. \"We will do our best to make advanced LLM technology a catalyst for digital innovation in healthcare that not only meaningfully reduces clinicians' workload but also changes the paradigm of overall hospital operations.\""
+                "x": "Rivanna는 임상의가 초음파 영상으로 사지 골절 가능성을 평가하도록 돕는 연구용 모듈도 개발하고 있다. 회사는 이 작업이 U.S. 생물의학첨단연구개발국(Biomedical Advanced Research and Development Authority)의 지원을 받았다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AITRICS・江北サムスン\nLLM医療記録AI開発",
-          "body": "AITRICSと江北サムスン病院が、LLMベースの医療記録自動化基盤の開発に着手する。",
-          "mini_headline": "江北サムスン LLM医療記録AI",
+          "headline": "FDA、Rivannaの\n超音波AI骨表示を認可",
+          "body": "FDAがRivannaの2D B-mode骨表示AI「BoneEnhance」を認可した。",
+          "mini_headline": "FDA、Rivanna BoneEnhanceを認可",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "[医学新聞・日刊保社=オ・インギュ記者] 最近の医療界は、慢性的な人手不足と膨大な文書作業などにより、医療スタッフの疲労が限界に達している。これを打開するため、大規模言語モデル(LLM)などの次世代AI技術を医療現場に取り入れ、実際の業務環境を改善しようとする試みが活発になっている。"
+                "x": "Rivannaは、Accuro XV診断用超音波システム向けの機械学習ソフトウェアモジュール「BoneEnhance」について、U.S. 食品医薬品局（FDA）の510(k)認可を取得した。"
               },
               {
                 "t": "p",
-                "x": "こうした流れに合わせ、医療人工知能(AI)専門企業のAITRICS(代表キム・グァンジュン)は江北サムスン病院と手を組み、医療現場に根強く残る文書業務の負担解消に乗り出す。最近、ソウルAIハブが主管する「2026年AI転換(AX)支援事業」の参加コンソーシアム企業に選ばれたことによるものだ。"
+                "x": "同社によると、BoneEnhanceはシステムの3D プローブで取得したボリュームデータから骨と周辺組織を識別し、元の解剖学的データを見えるまま残しつつ、2D B-mode画像上に色分けしたオーバーレイで強調表示する。Rivannaによれば、五つの施設から集めた233件のボリュームデータセットによる独立テストで、ボリューム単位のラベル予測精度は95.1%から100%だった。"
               },
               {
                 "t": "p",
-                "x": "AITRICSは今回の事業を通じ、臨床の医療記録を自動化し、院内ワークフローを革新できるLLMベースのAXプラットフォームの開発に着手する。現場で毎日繰り返される情報確認と記録の作業をAIで置き換え、診療効率を最大化する戦略だ。"
-              },
-              {
-                "t": "p",
-                "x": "特にパートナーとなった江北サムスン病院は、実際の外来と看護の環境を綿密に分析し、AIを適用する具体的な対象業務を設定する中核的な役割を担う。実務を担う医師や看護師の目線に合わせた必須機能と検証基準も併せて具体化する予定だ。"
-              },
-              {
-                "t": "p",
-                "x": "重点開発課題は大きく三つに絞られる。▲外来診療時に蓄積された患者の投薬・診断履歴の高度化 ▲膨大なCT・MRIなど画像検査の読影結果報告書の主要経過の要約 ▲看護の引き継ぎで生じる音声会話のテキスト変換(STT)と内容の要約などだ。膨大な医療データをAIが迅速かつ正確に圧縮し、適時に提供することが核心である。"
-              },
-              {
-                "t": "p",
-                "x": "初期の企画・開発段階から江北サムスン病院の実務スタッフが直接参加し、使いやすさを評価して臨床的有効性を丹念に検証する計画だ。両機関は今回の協力を呼び水に、完成したプラットフォームを今後ほかの医療機関にも柔軟に移植できるよう、技術的な汎用性を確保するという青写真を描いた。"
-              },
-              {
-                "t": "p",
-                "x": "AITRICSのキム・グァンジュン代表は、徹底して現場の需要に基づいたAI技術の実効性を繰り返し強調した。"
-              },
-              {
-                "t": "p",
-                "x": "キム代表は「現場の声を最優先に反映し、実際の病院システムにすぐ融合できるオーダーメイドのAXプラットフォームを完成させることが今回の事業の主な目標だ」とし、「進化したLLM技術が医療スタッフの実質的な業務軽減はもちろん、病院運営全般のパラダイムを変える医療デジタル革新の起爆剤となるよう最善を尽くす」と述べた。"
+                "x": "Rivannaは、臨床医が超音波画像で四肢骨折の可能性を評価するのを支援する研究用モジュールも開発中だ。同社によると、この取り組みはU.S. 生物医学先端研究開発局（Biomedical Advanced Research and Development Authority）の支援を受けている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AITRICS·江北三星\n开发LLM病历AI",
-          "body": "AITRICS与江北三星医院将着手开发基于LLM的病历自动化平台。",
-          "mini_headline": "江北三星 LLM病历AI",
+          "headline": "FDA许可Rivanna\n超声AI骨骼叠加显示",
+          "body": "FDA许可Rivanna BoneEnhance AI，在2D B-mode图像上为骨着色。",
+          "mini_headline": "FDA许可Rivanna BoneEnhance",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "[医学新闻·日刊保社 记者Oh In-gyu] 近来，由于长期人手不足和繁重的文书工作，医务人员的疲劳已达到极限。为打破这一局面，在医疗现场引入大语言模型(LLM)等新一代AI技术、切实改善工作环境的尝试日益活跃。"
+                "x": "Rivanna旗下Accuro XV诊断超声系统的机器学习软件模块BoneEnhance已获得U.S. 食品药品监督管理局（FDA）的510(k)许可。"
               },
               {
                 "t": "p",
-                "x": "顺应这一趋势，医疗人工智能(AI)专业企业AITRICS(代表Kim Kwang-joon)将与江北三星医院携手，着手缓解医疗现场长期存在的文书工作负担。此前，该公司入选首尔AI中心主办的“2026年AI转型(AX)支援项目”参与联合体企业。"
+                "x": "据该公司介绍，BoneEnhance可在系统3D 探头采集的容积数据中识别骨骼及周围组织，并在2D B-mode图像上以颜色编码的叠加层加以突出显示，同时保留原始解剖数据的可见性。Rivanna表示，在来自五个站点的233组容积数据构成的独立测试集中，单个容积的标签预测准确率为95.1%至100%。"
               },
               {
                 "t": "p",
-                "x": "AITRICS将通过此次项目，着手开发可实现临床病历自动化、革新院内工作流程的基于LLM的AX平台。其策略是用AI取代现场每天重复的信息确认和记录过程，最大限度提高诊疗效率。"
-              },
-              {
-                "t": "p",
-                "x": "特别是作为合作伙伴的江北三星医院，将细致分析实际门诊和护理环境，承担确定AI具体应用目标业务的核心角色。医院还将结合一线医生和护士的需求，具体制定必备功能和验证标准。"
-              },
-              {
-                "t": "p",
-                "x": "重点开发任务主要归纳为三项：▲门诊时累积的患者用药及诊断记录的高度化 ▲对大量CT·MRI等影像检查判读报告的核心病程进行摘要 ▲将护理交接过程中产生的语音对话转为文本(STT)并总结内容。核心在于由AI快速准确地压缩海量医疗数据，并及时提供。"
-              },
-              {
-                "t": "p",
-                "x": "从初期规划和开发阶段起，江北三星医院的一线人员将直接参与，评估易用性并仔细检验临床有效性。两家机构计划以此次合作为契机，确保技术通用性，使完成后的平台未来也能灵活移植到其他医疗机构。"
-              },
-              {
-                "t": "p",
-                "x": "AITRICS代表Kim Kwang-joon一再强调，AI技术必须立足于现场需求，讲求实效。"
-              },
-              {
-                "t": "p",
-                "x": "Kim代表表示：“此次项目的主要目标，是优先反映现场的声音，完成可即时融入实际医院系统的定制化AX平台。”他还说：“我们将全力以赴，让先进的LLM技术不仅切实减轻医务人员的工作负担，还成为改变医院整体运营范式的医疗数字创新催化剂。”"
+                "x": "Rivanna还在开发一款研究性模块，帮助临床医生在超声图像上评估可能存在的四肢骨折。该公司表示，这项工作得到了U.S. 生物医学高级研究与发展管理局（Biomedical Advanced Research and Development Authority）的支持。"
               }
             ]
           }
         },
         "es": {
-          "headline": "AITRICS y Kangbuk Samsung\nLLM y AI para registros médicos",
-          "body": "AITRICS y el Hospital Kangbuk Samsung desarrollarán una plataforma LLM para automatizar registros médicos.",
-          "mini_headline": "Kangbuk Samsung, AI de registros con LLM",
+          "headline": "FDA autoriza la AI de Rivanna\nque resalta huesos en ecografías",
+          "body": "La FDA autorizó el módulo BoneEnhance AI de Rivanna, que colorea hueso y tejido cercano en ecografías 2D B-mode.",
+          "mini_headline": "La FDA autoriza BoneEnhance de Rivanna",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "[Medical News·Daily Bosa = periodista Oh In-gyu] El cansancio del personal sanitario ha llegado al límite por la escasez crónica de personal y el enorme volumen de trabajo documental. Para superarlo, se multiplican los intentos de incorporar a la práctica clínica tecnologías de AI de nueva generación, como los grandes modelos de lenguaje (LLM), con el fin de mejorar de forma concreta el entorno de trabajo."
+                "x": "Rivanna recibió la autorización 510(k) de la U.S. Food and Drug Administration (FDA) para BoneEnhance, un módulo de software de aprendizaje automático para su sistema de ecografía diagnóstica Accuro XV."
               },
               {
                 "t": "p",
-                "x": "En línea con esta tendencia, AITRICS (director ejecutivo: Kim Kwang-joon), empresa especializada en inteligencia artificial (AI) médica, se alía con el Hospital Kangbuk Samsung para aliviar la persistente carga documental en la práctica clínica. Lo hace tras ser seleccionada recientemente como empresa del consorcio participante en el 'Programa de Apoyo a la Transformación AI (AX) 2026', organizado por Seoul AI Hub."
+                "x": "Según la compañía, BoneEnhance identifica el hueso y los tejidos circundantes en los conjuntos de datos volumétricos adquiridos por la sonda 3D del sistema y los resalta con superposiciones codificadas por color en imágenes 2D B-mode, sin ocultar los datos anatómicos originales. En un conjunto de prueba independiente de 233 conjuntos de datos volumétricos de cinco centros, la precisión de predicción de etiquetas por volumen osciló entre el 95.1% y el 100%, según Rivanna."
               },
               {
                 "t": "p",
-                "x": "Con este proyecto, AITRICS comenzará a desarrollar una plataforma AX basada en LLM capaz de automatizar los registros clínicos y renovar los flujos de trabajo hospitalarios. La estrategia consiste en sustituir con AI los procesos de verificación y registro de información que se repiten a diario, para maximizar la eficiencia asistencial."
-              },
-              {
-                "t": "p",
-                "x": "En particular, el Hospital Kangbuk Samsung, como socio, desempeñará un papel central: analizará en detalle los entornos reales de consulta externa y enfermería para definir las tareas concretas a las que se aplicará la AI. También concretará las funciones esenciales y los criterios de validación ajustados a las necesidades de los médicos y enfermeros que realizan el trabajo diario."
-              },
-              {
-                "t": "p",
-                "x": "Las tareas de desarrollo prioritarias se resumen en tres: ▲perfeccionar el historial acumulado de medicación y diagnóstico de los pacientes en consulta externa ▲resumir la evolución clave de los numerosos informes de lectura de pruebas de imagen como CT·MRI ▲convertir a texto (STT) y resumir las conversaciones de voz que se producen en los relevos de enfermería. La clave es que la AI condense con rapidez y precisión grandes volúmenes de datos médicos y los ofrezca en el momento oportuno."
-              },
-              {
-                "t": "p",
-                "x": "El personal del Hospital Kangbuk Samsung participará directamente desde las fases iniciales de planificación y desarrollo para evaluar la usabilidad y examinar con detalle la validez clínica. Ambas instituciones aspiran a que esta colaboración sirva de impulso para asegurar una versatilidad técnica que permita trasladar con flexibilidad la plataforma terminada a otras instituciones médicas."
-              },
-              {
-                "t": "p",
-                "x": "Kim Kwang-joon, director ejecutivo de AITRICS, insistió en la eficacia práctica de una tecnología de AI basada estrictamente en las necesidades reales del entorno clínico."
-              },
-              {
-                "t": "p",
-                "x": "\"El objetivo principal de este proyecto es completar una plataforma AX a medida que dé prioridad a la voz del personal y pueda integrarse de inmediato en los sistemas hospitalarios reales\", afirmó Kim. \"Haremos todo lo posible para que la avanzada tecnología LLM no solo alivie de forma real la carga de trabajo del personal médico, sino que también sea el detonante de una innovación digital sanitaria que cambie el paradigma de la gestión hospitalaria en su conjunto\", añadió."
+                "x": "Rivanna también desarrolla un módulo en fase de investigación para ayudar a los clínicos a evaluar posibles fracturas de extremidades en imágenes de ecografía. La empresa indicó que el trabajo ha contado con el apoyo de la U.S. Biomedical Advanced Research and Development Authority."
               }
             ]
           }
@@ -787,15 +235,270 @@
       }
     },
     {
-      "id": "medicine-pitt-breast-ai-trust",
+      "id": "medicine-ecg-transplant-rejection",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Pitt 유방암 AI 모델\n재검토 필요 판독 표시",
-      "body": "Pitt 연구진이 불확실성 점수로 재검토 대상을 가리는 유방암 AI를 만들었다.",
-      "mini_headline": "유방암 AI 점검",
+      "headline": "AI ECG 판독,\n이식 거부 경고 개선 기대",
+      "body": "AI-assessed ECGs로 심장 이식 거부반응 경고가 나아질 수 있다.",
+      "mini_headline": "AI ECGs로 이식 거부반응 포착",
       "tool": "Medicine",
-      "source": "Radiology Business",
-      "url": "https://radiologybusiness.com/topics/artificial-intelligence/artificial-intelligence-checks-trustworthiness-breast-cancer-ai-models",
+      "source": "Cardiovascular Business",
+      "url": "https://cardiovascularbusiness.com/topics/clinical/cardiac-surgery/ai-ecg-analysis-offers-heart-transplant-rejection-warnings",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2020-03/transplant_0.jpg?h=956ee2f3&itok=GcZkfQn3"
+          },
+          {
+            "t": "p",
+            "x": "NYU Langone Health 연구진이 침습적 생검 없이 심장 이식 거부반응을 예측할 새 방법을 찾았을지 모른다. 결과는 Journal of Heart and Lung Transplantation에 실렸다."
+          },
+          {
+            "t": "p",
+            "x": "연구진은 2018년부터 2024년까지 성인 심장 이식 수혜자 389명에게서 얻은 5,300건이 넘는 ECG 판독 데이터로 AI 모델을 학습시켰다. 한 모델은 ECG 데이터만 썼다. 다른 모델은 ECG 데이터에 AlloMap과 AlloSure, 두 가지 혈액검사 결과를 더했다. 두 검사는 그동안 거부반응 위험 예측에 쓰였지만 위양성률이 높다."
+          },
+          {
+            "t": "p",
+            "x": "심장 이식 수혜자 38명으로 꾸린 테스트 그룹에서는 결합 모델이 더 나은 성적을 냈다. 거부반응을 겪은 환자는 두 명이었다. AI 모델은 거부반응이 없는 환자의 97%를 정확히 가려냈다. 혈액검사만 쓴 방식은 19명에게 생검이 필요하다고 잘못 판단했다."
+          },
+          {
+            "t": "p",
+            "x": "“심장 이식은 자원이 많이 드는 대수술이며, 거부반응은 흔하지만 제때 발견하면 치료할 수 있다”고 책임저자 Lior Jankelson, MD, PhD는 말했다. 연구진은 다음으로 여러 이식 센터의 더 많은 환자에게 AI 모델을 시험할 계획이다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "AI ECG reads may improve\ntransplant rejection warnings",
+          "body": "AI-assessed ECGs may improve heart transplant rejection warnings, and researchers plan tests at several centers.",
+          "mini_headline": "AI ECGs flag transplant rejection",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2020-03/transplant_0.jpg?h=956ee2f3&itok=GcZkfQn3"
+              },
+              {
+                "t": "p",
+                "x": "Researchers with NYU Langone Health may have identified a new way to predict heart transplant rejection without the need for an invasive biopsy. Their findings were published in the Journal of Heart and Lung Transplantation."
+              },
+              {
+                "t": "p",
+                "x": "The researchers trained AI models on more than 5,300 ECG readings from 389 adult heart transplant recipients between 2018 and 2024. One model used ECG data alone; a second combined ECG data with the results of two blood tests, AlloMap and AlloSure, traditionally used to predict rejection risk but with a high false-positive rate."
+              },
+              {
+                "t": "p",
+                "x": "In a test group of 38 heart transplant recipients, the combined model performed better. Two patients experienced rejection. The AI model correctly identified 97% of patients who were not experiencing rejection, while the blood-test-only approach incorrectly indicated that 19 patients needed a biopsy."
+              },
+              {
+                "t": "p",
+                "x": "“Heart transplantation is a major, resource-intensive procedure, and rejection is common but treatable if caught in time,” senior author Lior Jankelson, MD, PhD, said. As a next step, the researchers plan to test the AI model in more patients at several transplant centers."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI ECG 판독,\n이식 거부 경고 개선 기대",
+          "body": "AI-assessed ECGs로 심장 이식 거부반응 경고가 나아질 수 있다.",
+          "mini_headline": "AI ECGs로 이식 거부반응 포착",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2020-03/transplant_0.jpg?h=956ee2f3&itok=GcZkfQn3"
+              },
+              {
+                "t": "p",
+                "x": "NYU Langone Health 연구진이 침습적 생검 없이 심장 이식 거부반응을 예측할 새 방법을 찾았을지 모른다. 결과는 Journal of Heart and Lung Transplantation에 실렸다."
+              },
+              {
+                "t": "p",
+                "x": "연구진은 2018년부터 2024년까지 성인 심장 이식 수혜자 389명에게서 얻은 5,300건이 넘는 ECG 판독 데이터로 AI 모델을 학습시켰다. 한 모델은 ECG 데이터만 썼다. 다른 모델은 ECG 데이터에 AlloMap과 AlloSure, 두 가지 혈액검사 결과를 더했다. 두 검사는 그동안 거부반응 위험 예측에 쓰였지만 위양성률이 높다."
+              },
+              {
+                "t": "p",
+                "x": "심장 이식 수혜자 38명으로 꾸린 테스트 그룹에서는 결합 모델이 더 나은 성적을 냈다. 거부반응을 겪은 환자는 두 명이었다. AI 모델은 거부반응이 없는 환자의 97%를 정확히 가려냈다. 혈액검사만 쓴 방식은 19명에게 생검이 필요하다고 잘못 판단했다."
+              },
+              {
+                "t": "p",
+                "x": "“심장 이식은 자원이 많이 드는 대수술이며, 거부반응은 흔하지만 제때 발견하면 치료할 수 있다”고 책임저자 Lior Jankelson, MD, PhD는 말했다. 연구진은 다음으로 여러 이식 센터의 더 많은 환자에게 AI 모델을 시험할 계획이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIのECG解析で\n移植拒絶の警告改善か",
+          "body": "AI-assessed ECGsで移植拒絶の警告が改善する可能性があり、多施設で検証する。",
+          "mini_headline": "AI ECGsで移植拒絶を検知",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2020-03/transplant_0.jpg?h=956ee2f3&itok=GcZkfQn3"
+              },
+              {
+                "t": "p",
+                "x": "NYU Langone Healthの研究チームが、侵襲的な生検を必要とせずに心臓移植の拒絶反応を予測する新たな方法を見いだした可能性がある。研究結果はJournal of Heart and Lung Transplantationに掲載された。"
+              },
+              {
+                "t": "p",
+                "x": "研究チームは、2018年から2024年にかけて成人の心臓移植患者389人から得た5,300件を超えるECG記録でAIモデルを訓練した。一方のモデルはECGデータのみを使い、もう一方はECGデータにAlloMapとAlloSureという二つの血液検査の結果を組み合わせた。これらの検査は従来、拒絶リスクの予測に用いられてきたが、偽陽性率が高い。"
+              },
+              {
+                "t": "p",
+                "x": "38人の心臓移植患者からなるテスト群では、組み合わせモデルの性能が上回った。拒絶反応を起こした患者は二人だった。AIモデルは拒絶反応のない患者の97%を正しく識別した一方、血液検査のみの方法では19人に生検が必要だと誤って示された。"
+              },
+              {
+                "t": "p",
+                "x": "「心臓移植は多くの資源を要する大手術であり、拒絶反応はよく起こるが、早期に見つければ治療できる」と、責任著者のLior Jankelson, MD, PhDは述べた。研究チームは次の段階として、複数の移植センターでより多くの患者を対象にAIモデルを検証する計画だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI解读ECG\n或改善移植排斥预警",
+          "body": "AI-assessed ECGs或可改善心脏移植排斥预警，研究人员计划在多个中心开展测试。",
+          "mini_headline": "AI ECGs预警移植排斥",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2020-03/transplant_0.jpg?h=956ee2f3&itok=GcZkfQn3"
+              },
+              {
+                "t": "p",
+                "x": "NYU Langone Health的研究人员可能找到了一种无需侵入性活检即可预测心脏移植排斥反应的新方法。研究结果发表在Journal of Heart and Lung Transplantation上。"
+              },
+              {
+                "t": "p",
+                "x": "研究人员利用2018年至2024年间389名成人心脏移植受者的5,300多份ECG读数训练AI模型。其中一个模型仅使用ECG数据；另一个模型则将ECG数据与AlloMap和AlloSure两项血液检测的结果相结合，这两项检测传统上用于预测排斥风险，但假阳性率较高。"
+              },
+              {
+                "t": "p",
+                "x": "在由38名心脏移植受者组成的测试组中，组合模型表现更好。有两名患者发生了排斥反应。AI模型正确识别出97%未发生排斥的患者，而仅依靠血液检测的方法错误地提示19名患者需要活检。"
+              },
+              {
+                "t": "p",
+                "x": "“心脏移植是一项重大且耗费大量资源的手术，排斥反应很常见，但只要及时发现就可以治疗，”资深作者Lior Jankelson, MD, PhD表示。下一步，研究人员计划在多个移植中心对更多患者测试该AI模型。"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI ECG 판독,\n이식 거부 경고 개선 기대",
+          "body": "AI-assessed ECGs가 심장 이식 거부 경고를 개선할 수 있다.",
+          "mini_headline": "AI ECGs로 이식 거부반응 포착",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2020-03/transplant_0.jpg?h=956ee2f3&itok=GcZkfQn3"
+              },
+              {
+                "t": "p",
+                "x": "NYU Langone Health 연구진이 침습적 생검 없이 심장 이식 거부반응을 예측하는 새로운 방법을 찾았을 가능성이 있다. 연구 결과는 Journal of Heart and Lung Transplantation에 실렸다."
+              },
+              {
+                "t": "p",
+                "x": "연구진은 2018년부터 2024년까지 성인 심장 이식 수혜자 389명에게서 얻은 5,300건이 넘는 ECG 판독 데이터로 AI 모델을 학습시켰다. 한 모델은 ECG 데이터만 썼고, 다른 모델은 ECG 데이터에 AlloMap과 AlloSure라는 두 가지 혈액검사 결과를 결합했다. 두 검사는 전통적으로 거부반응 위험 예측에 쓰였지만 위양성률이 높다."
+              },
+              {
+                "t": "p",
+                "x": "심장 이식 수혜자 38명으로 구성된 테스트 그룹에서는 결합 모델의 성능이 더 좋았다. 거부반응을 겪은 환자는 두 명이었다. AI 모델은 거부반응이 없는 환자의 97%를 정확히 가려냈지만, 혈액검사만 쓴 방식은 19명에게 생검이 필요하다고 잘못 판단했다."
+              },
+              {
+                "t": "p",
+                "x": "“심장 이식은 자원이 많이 드는 대수술이며, 거부반응은 흔하지만 제때 발견하면 치료할 수 있다”고 책임저자 Lior Jankelson, MD, PhD는 말했다. 연구진은 다음 단계로 여러 이식 센터에서 더 많은 환자를 대상으로 AI 모델을 시험할 계획이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIのECG解析で\n移植拒絶の警告改善か",
+          "body": "AI-assessed ECGsで移植拒絶の警告が改善する可能性があり、多施設で検証する。",
+          "mini_headline": "AI ECGsで移植拒絶を検知",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2020-03/transplant_0.jpg?h=956ee2f3&itok=GcZkfQn3"
+              },
+              {
+                "t": "p",
+                "x": "NYU Langone Healthの研究チームが、侵襲的な生検を必要とせずに心臓移植の拒絶反応を予測する新たな方法を見いだした可能性がある。研究結果はJournal of Heart and Lung Transplantationに掲載された。"
+              },
+              {
+                "t": "p",
+                "x": "研究チームは、2018年から2024年にかけて成人の心臓移植患者389人から得た5,300件を超えるECG記録でAIモデルを訓練した。一方のモデルはECGデータのみを使い、もう一方はECGデータにAlloMapとAlloSureという二つの血液検査の結果を組み合わせた。これらの検査は従来、拒絶リスクの予測に用いられてきたが、偽陽性率が高い。"
+              },
+              {
+                "t": "p",
+                "x": "38人の心臓移植患者からなるテスト群では、組み合わせモデルの性能が上回った。拒絶反応を起こした患者は二人だった。AIモデルは拒絶反応のない患者の97%を正しく識別した一方、血液検査のみの方法では19人に生検が必要だと誤って示された。"
+              },
+              {
+                "t": "p",
+                "x": "「心臓移植は多くの資源を要する大手術であり、拒絶反応はよく起こるが、早期に見つければ治療できる」と、責任著者のLior Jankelson, MD, PhDは述べた。研究チームは次の段階として、複数の移植センターでより多くの患者を対象にAIモデルを検証する計画だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI解读ECG\n或改善移植排斥预警",
+          "body": "AI-assessed ECGs或可改善心脏移植排斥预警，研究人员计划在多个中心开展测试。",
+          "mini_headline": "AI ECGs预警移植排斥",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2020-03/transplant_0.jpg?h=956ee2f3&itok=GcZkfQn3"
+              },
+              {
+                "t": "p",
+                "x": "NYU Langone Health的研究人员可能找到了一种无需侵入性活检即可预测心脏移植排斥反应的新方法。研究结果发表在Journal of Heart and Lung Transplantation上。"
+              },
+              {
+                "t": "p",
+                "x": "研究人员利用2018年至2024年间389名成人心脏移植受者的5,300多份ECG读数训练AI模型。其中一个模型仅使用ECG数据；另一个模型则将ECG数据与AlloMap和AlloSure两项血液检测的结果相结合，这两项检测传统上用于预测排斥风险，但假阳性率较高。"
+              },
+              {
+                "t": "p",
+                "x": "在由38名心脏移植受者组成的测试组中，组合模型表现更好。有两名患者发生了排斥反应。AI模型正确识别出97%未发生排斥的患者，而仅依靠血液检测的方法错误地提示19名患者需要活检。"
+              },
+              {
+                "t": "p",
+                "x": "“心脏移植是一项重大且耗费大量资源的手术，排斥反应很常见，但只要及时发现就可以治疗，”资深作者Lior Jankelson, MD, PhD表示。下一步，研究人员计划在多个移植中心对更多患者测试该AI模型。"
+              }
+            ]
+          }
+        }
+      },
+      "i18n_status": {
+        "es": "fallback"
+      }
+    },
+    {
+      "id": "medicine-hf-functional-decline",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI, 심부전 환자의\n기능 저하 위험 가려낸다",
+      "body": "AI 모델이 사망 위험뿐 아니라 퇴원 후 기능을 잃을 심부전 환자도 가려낸다.",
+      "mini_headline": "AI, 심부전 기능 저하 예측",
+      "tool": "Medicine",
+      "source": "Cardiovascular Business",
+      "url": "https://cardiovascularbusiness.com/topics/clinical/heart-failure/ai-flags-heart-failure-patients-risk-functional-decline",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -803,173 +506,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-06/istock-2202666684.jpg?h=140710cd&itok=XUsmUugX"
+            "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-983942394.jpg?h=39b07655&itok=8Yg4Z5XX"
           },
           {
             "t": "p",
-            "x": "University of Pittsburgh 연구진이 유방암 영상 AI의 신뢰도를 높여 줄 것으로 기대하는 AI 모델을 설계했다."
+            "x": "고도화된 인공지능(AI) 모델로 고령 심부전 환자의 기능 저하가 언제 시작될지 예측할 수 있다는 연구가 Journal of Cardiac Failure에 실렸다."
           },
           {
             "t": "p",
-            "x": "이 모델의 심층 신경망은 진단 예측과 함께 불확실성도 추정하도록 학습했다. 불확실성 가중 학습(uncertainty-weighted learning)이라 부르는 이 방법은 예측값과 불확실성 점수를 함께 내놓는다. 출력의 신뢰도가 낮아 영상의학과 전문의가 AI 결과를 다시 봐야 할 수 있는 사례는 따로 표시한다."
+            "x": "연구진은 심부전으로 입원해 재활 처방을 받은 65세 이상 환자 6,000여 명의 데이터를 분석했다. 나이 중앙값은 82세였다. 머신러닝 모델은 환자가 일 년 안에 기능을 유지할지, 기능이 떨어질지(외출하지 못하거나 누워 지내는 생활로 바뀌는 경우), 사망할지 그 위험을 추정한다."
           },
           {
             "t": "p",
-            "x": "Pitt 영상의학과 교수 Shandong Wu, PhD가 박사과정생 Jiren Li, Dooman Arefan, PhD와 함께 연구를 이끌었다. 모델 학습과 평가에는 Pittsburgh Supercomputing Center의 Bridges-2 슈퍼컴퓨터를 썼다."
+            "x": "전체 환자의 32.5%가 퇴원 후 일 년 안에 기능 저하를 겪었고 14% 이상은 사망했다. 77가지 요인을 쓰는 이 모델은 선별 도구 Kihon Checklist보다 이런 결과를 더 정확하게 가려냈다."
           },
           {
             "t": "p",
-            "x": "연구팀은 이 방식을 유방촬영술 밖으로 넓히기를 기대한다. 다만 연구는 아직 초기 단계여서 다양한 환자군과 영상 환경에서 추가 검증이 필요하다."
+            "x": "“환자가 생존할지만 물을 것이 아니라, 퇴원 후에도 자신이 소중히 여기는 삶을 유지할 수 있을지를 물어야 한다”고 일본 Juntendo University의 제1저자 Kanji Yamada, PT, PhD는 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Pitt model flags breast AI\nreads for a second look",
-          "body": "Pitt researchers built a breast cancer AI that scores its own uncertainty to flag results that may need a second look.",
-          "mini_headline": "Checking breast cancer AI",
+          "headline": "AI flags heart failure patients\nat risk of functional decline",
+          "body": "An AI model flags heart failure patients likely to lose function after discharge, not only those at risk of dying.",
+          "mini_headline": "AI predicts heart failure decline",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-06/istock-2202666684.jpg?h=140710cd&itok=XUsmUugX"
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-983942394.jpg?h=39b07655&itok=8Yg4Z5XX"
               },
               {
                 "t": "p",
-                "x": "Researchers at the University of Pittsburgh have designed an AI model they believe will help make breast cancer imaging AI more trustworthy."
+                "x": "Advanced artificial intelligence (AI) models can anticipate when older heart failure patients may start to experience functional decline, according to new findings published in the Journal of Cardiac Failure."
               },
               {
                 "t": "p",
-                "x": "Its deep neural network is trained to estimate uncertainty alongside its diagnostic predictions. The method, called uncertainty-weighted learning, generates a prediction and an uncertainty score, flagging cases where the output may be less dependable and an AI result may need a radiologist's second look."
+                "x": "Researchers explored data from more than 6,000 patients 65 years old or older who were hospitalized for heart failure and prescribed rehabilitation; the median age was 82. The machine learning model estimates a patient’s one-year risk of functional maintenance, functional decline (a transition to a housebound/bedridden lifestyle) or death."
               },
               {
                 "t": "p",
-                "x": "Shandong Wu, PhD, a professor of radiology at Pitt, led the work with doctoral student Jiren Li and Dooman Arefan, PhD, using the Bridges-2 supercomputer at the Pittsburgh Supercomputing Center to train and evaluate the models."
+                "x": "Overall, 32.5% of patients experienced functional decline and more than 14% died within one year of discharge. The model, which used 77 different factors, identified these outcomes with improved accuracy compared to the Kihon Checklist screening tool."
               },
               {
                 "t": "p",
-                "x": "The team hopes to extend the approach beyond mammography, but the work is still early and needs further validation across patient populations and imaging settings."
+                "x": "“Instead of asking only whether a patient will survive, we need to ask whether they will be able to maintain the life they value after discharge,” lead author Kanji Yamada, PT, PhD, of Juntendo University in Japan, said."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Pitt 유방암 AI 모델\n재검토 필요 판독 표시",
-          "body": "Pitt 연구진이 불확실성 점수로 재검토 대상을 가리는 유방암 AI를 만들었다.",
-          "mini_headline": "유방암 AI 점검",
+          "headline": "AI, 심부전 환자의\n기능 저하 위험 가려낸다",
+          "body": "AI 모델이 사망 위험뿐 아니라 퇴원 후 기능을 잃을 심부전 환자도 가려낸다.",
+          "mini_headline": "AI, 심부전 기능 저하 예측",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-06/istock-2202666684.jpg?h=140710cd&itok=XUsmUugX"
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-983942394.jpg?h=39b07655&itok=8Yg4Z5XX"
               },
               {
                 "t": "p",
-                "x": "University of Pittsburgh 연구진이 유방암 영상 AI의 신뢰도를 높여 줄 것으로 기대하는 AI 모델을 설계했다."
+                "x": "고도화된 인공지능(AI) 모델로 고령 심부전 환자의 기능 저하가 언제 시작될지 예측할 수 있다는 연구가 Journal of Cardiac Failure에 실렸다."
               },
               {
                 "t": "p",
-                "x": "이 모델의 심층 신경망은 진단 예측과 함께 불확실성도 추정하도록 학습했다. 불확실성 가중 학습(uncertainty-weighted learning)이라 부르는 이 방법은 예측값과 불확실성 점수를 함께 내놓는다. 출력의 신뢰도가 낮아 영상의학과 전문의가 AI 결과를 다시 봐야 할 수 있는 사례는 따로 표시한다."
+                "x": "연구진은 심부전으로 입원해 재활 처방을 받은 65세 이상 환자 6,000여 명의 데이터를 분석했다. 나이 중앙값은 82세였다. 머신러닝 모델은 환자가 일 년 안에 기능을 유지할지, 기능이 떨어질지(외출하지 못하거나 누워 지내는 생활로 바뀌는 경우), 사망할지 그 위험을 추정한다."
               },
               {
                 "t": "p",
-                "x": "Pitt 영상의학과 교수 Shandong Wu, PhD가 박사과정생 Jiren Li, Dooman Arefan, PhD와 함께 연구를 이끌었다. 모델 학습과 평가에는 Pittsburgh Supercomputing Center의 Bridges-2 슈퍼컴퓨터를 썼다."
+                "x": "전체 환자의 32.5%가 퇴원 후 일 년 안에 기능 저하를 겪었고 14% 이상은 사망했다. 77가지 요인을 쓰는 이 모델은 선별 도구 Kihon Checklist보다 이런 결과를 더 정확하게 가려냈다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 이 방식을 유방촬영술 밖으로 넓히기를 기대한다. 다만 연구는 아직 초기 단계여서 다양한 환자군과 영상 환경에서 추가 검증이 필요하다."
+                "x": "“환자가 생존할지만 물을 것이 아니라, 퇴원 후에도 자신이 소중히 여기는 삶을 유지할 수 있을지를 물어야 한다”고 일본 Juntendo University의 제1저자 Kanji Yamada, PT, PhD는 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Pitt発の乳がんAI\n要再確認の判定を示す",
-          "body": "Pittの研究者が自らの不確実性を数値化し再確認が必要な結果を示す乳がんAIを開発した。",
-          "mini_headline": "乳がんAIの信頼性チェック",
+          "headline": "AIが心不全患者の\n機能低下リスクを予測",
+          "body": "AIモデルが死亡リスクだけでなく、退院後に機能を失いそうな心不全患者も見分ける。",
+          "mini_headline": "AIが心不全の機能低下を予測",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-06/istock-2202666684.jpg?h=140710cd&itok=XUsmUugX"
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-983942394.jpg?h=39b07655&itok=8Yg4Z5XX"
               },
               {
                 "t": "p",
-                "x": "University of Pittsburghの研究チームが、乳がん画像AIの信頼性向上に役立つと考えるAIモデルを設計した。"
+                "x": "高度な人工知能（AI）モデルは、高齢の心不全患者がいつ機能低下を経験し始めるかを予測できるという新たな研究結果が、Journal of Cardiac Failureに掲載された。"
               },
               {
                 "t": "p",
-                "x": "このモデルの深層ニューラルネットワークは、診断予測とあわせて不確実性を推定するよう学習されている。uncertainty-weighted learning(不確実性加重学習)と呼ばれるこの手法は、予測と不確実性スコアを生成し、出力の信頼性が低い可能性があり、AIの結果に放射線科医による再確認が必要になりうるケースを示す。"
+                "x": "研究チームは、心不全で入院しリハビリを処方された65歳以上の患者6,000人超のデータを分析した。年齢の中央値は82歳だった。この機械学習モデルは、患者の一年以内の機能維持、機能低下（外出困難・寝たきりの生活への移行）、または死亡のリスクを推定する。"
               },
               {
                 "t": "p",
-                "x": "Pittの放射線科教授Shandong Wu, PhDが、博士課程の学生Jiren Li、Dooman Arefan, PhDとともに研究を率い、Pittsburgh Supercomputing CenterのスーパーコンピューターBridges-2でモデルの学習と評価を行った。"
+                "x": "全体では、退院から一年以内に患者の32.5%が機能低下を経験し、14%超が死亡した。77の異なる因子を用いたこのモデルは、Kihon Checklistによるスクリーニングと比べて、これらの転帰をより高い精度で識別した。"
               },
               {
                 "t": "p",
-                "x": "研究チームはこの手法をマンモグラフィー以外にも広げたい考えだが、研究はまだ初期段階にあり、さまざまな患者集団や撮影環境でのさらなる検証が必要だ。"
+                "x": "「患者が生き延びるかどうかだけを問うのではなく、退院後も本人が大切にする生活を維持できるかを問う必要がある」と、日本のJuntendo University（順天堂大学）の筆頭著者Kanji Yamada, PT, PhDは述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Pitt乳腺癌AI模型\n标出需复核的判读",
-          "body": "Pitt研究人员开发出一款乳腺癌AI，可为自身不确定性打分，标出可能需复核的结果。",
-          "mini_headline": "检验乳腺癌AI",
+          "headline": "AI识别心衰患者\n功能衰退风险",
+          "body": "AI模型不仅能识别死亡风险，还能找出出院后可能丧失功能的心衰患者。",
+          "mini_headline": "AI预测心衰功能衰退",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-06/istock-2202666684.jpg?h=140710cd&itok=XUsmUugX"
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-983942394.jpg?h=39b07655&itok=8Yg4Z5XX"
               },
               {
                 "t": "p",
-                "x": "University of Pittsburgh的研究人员设计了一款AI模型，他们认为它有助于提升乳腺癌影像AI的可信度。"
+                "x": "发表在Journal of Cardiac Failure上的新研究显示，先进的人工智能（AI）模型能够预判老年心力衰竭患者何时可能开始出现功能衰退。"
               },
               {
                 "t": "p",
-                "x": "该模型的深度神经网络经过训练，可在给出诊断预测的同时估计不确定性。这种名为不确定性加权学习(uncertainty-weighted learning)的方法会生成预测结果和不确定性评分，标出输出可能不太可靠、AI结果可能需要放射科医生复核的病例。"
+                "x": "研究人员分析了6,000多名因心力衰竭住院并获得康复治疗处方的65岁及以上患者的数据，中位年龄为82岁。该机器学习模型可估算患者一年内维持功能、功能衰退（转为居家不出/卧床的生活方式）或死亡的风险。"
               },
               {
                 "t": "p",
-                "x": "Pitt放射学教授Shandong Wu, PhD与博士生Jiren Li及Dooman Arefan, PhD共同主导了这项研究，并利用Pittsburgh Supercomputing Center的Bridges-2超级计算机训练和评估模型。"
+                "x": "总体而言，32.5%的患者在出院后一年内出现功能衰退，超过14%的患者死亡。该模型使用了77项不同因素，在识别这些结局方面的准确性优于Kihon Checklist筛查工具。"
               },
               {
                 "t": "p",
-                "x": "团队希望将该方法推广到乳腺钼靶摄影以外的领域，但这项工作仍处于早期阶段，还需在不同患者群体和影像环境中进一步验证。"
+                "x": "“我们不能只问患者能否存活，还要问他们出院后能否维持自己珍视的生活，”日本Juntendo University（顺天堂大学）的第一作者Kanji Yamada, PT, PhD表示。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un modelo de Pitt marca lecturas\nde AI mamaria para revisarlas",
-          "body": "Investigadores de Pitt crearon una AI para cáncer de mama que puntúa su incertidumbre y marca resultados para revisar.",
-          "mini_headline": "Verificar la AI de cáncer de mama",
+          "headline": "AI prevé deterioro funcional\nen la insuficiencia cardiaca",
+          "body": "Un modelo de AI señala qué pacientes con insuficiencia cardiaca perderían función tras el alta, no solo cuáles morirán.",
+          "mini_headline": "AI predice el deterioro en insuficiencia cardiaca",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-06/istock-2202666684.jpg?h=140710cd&itok=XUsmUugX"
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-983942394.jpg?h=39b07655&itok=8Yg4Z5XX"
               },
               {
                 "t": "p",
-                "x": "Investigadores de la University of Pittsburgh diseñaron un modelo de AI que, según creen, ayudará a que la AI de imagen para el cáncer de mama sea más fiable."
+                "x": "Los modelos avanzados de inteligencia artificial (AI) pueden anticipar cuándo los pacientes mayores con insuficiencia cardiaca podrían empezar a sufrir deterioro funcional, según nuevos hallazgos publicados en el Journal of Cardiac Failure."
               },
               {
                 "t": "p",
-                "x": "Su red neuronal profunda está entrenada para estimar la incertidumbre junto con sus predicciones diagnósticas. El método, llamado uncertainty-weighted learning (aprendizaje ponderado por incertidumbre), genera una predicción y una puntuación de incertidumbre, y señala los casos en los que el resultado puede ser menos fiable y un resultado de AI puede requerir una segunda revisión de un radiólogo."
+                "x": "Los investigadores analizaron datos de más de 6,000 pacientes de 65 años o más hospitalizados por insuficiencia cardiaca y con rehabilitación prescrita; la mediana de edad fue de 82 años. El modelo de aprendizaje automático estima el riesgo a un año de que un paciente mantenga su funcionalidad, sufra deterioro funcional (paso a una vida confinada en casa o en cama) o muera."
               },
               {
                 "t": "p",
-                "x": "Shandong Wu, PhD, profesor de radiología en Pitt, dirigió el trabajo junto con el doctorando Jiren Li y Dooman Arefan, PhD, y utilizó la supercomputadora Bridges-2 del Pittsburgh Supercomputing Center para entrenar y evaluar los modelos."
+                "x": "En total, el 32.5% de los pacientes sufrió deterioro funcional y más del 14% murió en el año siguiente al alta. El modelo, que utilizó 77 factores distintos, identificó estos desenlaces con mayor precisión que la herramienta de cribado Kihon Checklist."
               },
               {
                 "t": "p",
-                "x": "El equipo espera extender el enfoque más allá de la mamografía, pero el trabajo aún está en una fase temprana y necesita más validación en distintas poblaciones de pacientes y entornos de imagen."
+                "x": "“En lugar de preguntar solo si un paciente sobrevivirá, debemos preguntar si podrá mantener la vida que valora después del alta”, dijo el autor principal Kanji Yamada, PT, PhD, de la Juntendo University en Japón."
               }
             ]
           }
@@ -977,121 +680,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Pitt 유방암 AI 모델\n재검토 필요 판독 표시",
-          "body": "Pitt 연구진이 불확실성 점수로 재검토 대상을 가리는 유방암 AI를 만들었다.",
-          "mini_headline": "유방암 AI 점검",
+          "headline": "AI, 심부전 환자의\n기능 저하 위험 가려낸다",
+          "body": "AI 모델이 사망 위험뿐 아니라 퇴원 후 기능을 잃을 심부전 환자도 가려낸다.",
+          "mini_headline": "AI, 심부전 기능 저하 예측",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-06/istock-2202666684.jpg?h=140710cd&itok=XUsmUugX"
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-983942394.jpg?h=39b07655&itok=8Yg4Z5XX"
               },
               {
                 "t": "p",
-                "x": "University of Pittsburgh 연구진이 유방암 영상 AI의 신뢰도를 높이는 데 도움이 될 것으로 보는 AI 모델을 설계했다."
+                "x": "고도화된 인공지능(AI) 모델이 고령 심부전 환자의 기능 저하가 언제 시작될지 예측할 수 있다는 새 연구 결과가 Journal of Cardiac Failure에 실렸다."
               },
               {
                 "t": "p",
-                "x": "이 모델의 심층 신경망은 진단 예측과 함께 불확실성을 추정하도록 학습했다. 불확실성 가중 학습(uncertainty-weighted learning)이라는 이 방법은 예측값과 불확실성 점수를 함께 내놓고, 출력의 신뢰도가 낮을 수 있어 AI 결과에 영상의학과 전문의의 재검토가 필요할 수 있는 사례를 표시한다."
+                "x": "연구진은 심부전으로 입원해 재활 처방을 받은 65세 이상 환자 6,000여 명의 데이터를 분석했다. 나이 중앙값은 82세였다. 머신러닝 모델은 환자의 일 년 내 기능 유지, 기능 저하(외출하지 못하거나 누워 지내는 생활로의 전환), 사망 위험을 추정한다."
               },
               {
                 "t": "p",
-                "x": "Pitt 영상의학과 교수 Shandong Wu, PhD가 박사과정생 Jiren Li, Dooman Arefan, PhD와 함께 연구를 이끌었으며, Pittsburgh Supercomputing Center의 Bridges-2 슈퍼컴퓨터로 모델을 학습시키고 평가했다."
+                "x": "전체적으로 환자의 32.5%가 퇴원 후 일 년 안에 기능 저하를 겪었고, 14% 이상이 사망했다. 77가지 요인을 활용한 이 모델은 Kihon Checklist 선별 도구보다 높은 정확도로 이런 결과를 가려냈다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 이 방식을 유방촬영술 밖으로 넓히기를 기대하지만, 연구는 아직 초기 단계로 다양한 환자군과 영상 환경에서 추가 검증이 필요하다."
+                "x": "“환자가 생존할지만 물을 것이 아니라, 퇴원 후에도 자신이 소중히 여기는 삶을 유지할 수 있을지를 물어야 한다”고 일본 Juntendo University의 제1저자 Kanji Yamada, PT, PhD는 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Pitt発の乳がんAI\n要再確認の判定を示す",
-          "body": "Pittの研究者が自らの不確実性を数値化し再確認が必要な結果を示す乳がんAIを開発した。",
-          "mini_headline": "乳がんAIの信頼性チェック",
+          "headline": "AIが心不全患者の\n機能低下リスクを予測",
+          "body": "AIモデルが死亡リスクだけでなく、退院後に機能を失いそうな心不全患者も見分ける。",
+          "mini_headline": "AIが心不全の機能低下を予測",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-06/istock-2202666684.jpg?h=140710cd&itok=XUsmUugX"
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-983942394.jpg?h=39b07655&itok=8Yg4Z5XX"
               },
               {
                 "t": "p",
-                "x": "University of Pittsburghの研究チームが、乳がん画像AIの信頼性向上に役立つと考えるAIモデルを設計した。"
+                "x": "高度な人工知能（AI）モデルは、高齢の心不全患者がいつ機能低下を経験し始めるかを予測できるという新たな研究結果が、Journal of Cardiac Failureに掲載された。"
               },
               {
                 "t": "p",
-                "x": "このモデルの深層ニューラルネットワークは、診断予測とあわせて不確実性を推定するよう学習されている。uncertainty-weighted learning(不確実性加重学習)と呼ばれるこの手法は、予測と不確実性スコアを生成し、出力の信頼性が低い可能性があり、AIの結果に放射線科医による再確認が必要になりうるケースを示す。"
+                "x": "研究チームは、心不全で入院しリハビリを処方された65歳以上の患者6,000人超のデータを分析した。年齢の中央値は82歳だった。この機械学習モデルは、患者の一年以内の機能維持、機能低下（外出困難・寝たきりの生活への移行）、または死亡のリスクを推定する。"
               },
               {
                 "t": "p",
-                "x": "Pittの放射線科教授Shandong Wu, PhDが、博士課程の学生Jiren Li、Dooman Arefan, PhDとともに研究を率い、Pittsburgh Supercomputing CenterのスーパーコンピューターBridges-2でモデルの学習と評価を行った。"
+                "x": "全体では、退院から一年以内に患者の32.5%が機能低下を経験し、14%超が死亡した。77の異なる因子を用いたこのモデルは、Kihon Checklistによるスクリーニングと比べて、これらの転帰をより高い精度で識別した。"
               },
               {
                 "t": "p",
-                "x": "研究チームはこの手法をマンモグラフィー以外にも広げたい考えだが、研究はまだ初期段階にあり、さまざまな患者集団や撮影環境でのさらなる検証が必要だ。"
+                "x": "「患者が生き延びるかどうかだけを問うのではなく、退院後も本人が大切にする生活を維持できるかを問う必要がある」と、日本のJuntendo University（順天堂大学）の筆頭著者Kanji Yamada, PT, PhDは述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Pitt乳腺癌AI模型\n标出需复核的判读",
-          "body": "Pitt研究人员开发出一款乳腺癌AI，可为自身不确定性打分，标出可能需复核的结果。",
-          "mini_headline": "检验乳腺癌AI",
+          "headline": "AI识别心衰患者\n功能衰退风险",
+          "body": "AI模型不仅能识别死亡风险，还能找出出院后可能丧失功能的心衰患者。",
+          "mini_headline": "AI预测心衰功能衰退",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-06/istock-2202666684.jpg?h=140710cd&itok=XUsmUugX"
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-983942394.jpg?h=39b07655&itok=8Yg4Z5XX"
               },
               {
                 "t": "p",
-                "x": "University of Pittsburgh的研究人员设计了一款AI模型，他们认为它有助于提升乳腺癌影像AI的可信度。"
+                "x": "发表在Journal of Cardiac Failure上的新研究显示，先进的人工智能（AI）模型能够预判老年心力衰竭患者何时可能开始出现功能衰退。"
               },
               {
                 "t": "p",
-                "x": "该模型的深度神经网络经过训练，可在给出诊断预测的同时估计不确定性。这种名为不确定性加权学习(uncertainty-weighted learning)的方法会生成预测结果和不确定性评分，标出输出可能不太可靠、AI结果可能需要放射科医生复核的病例。"
+                "x": "研究人员分析了6,000多名因心力衰竭住院并获得康复治疗处方的65岁及以上患者的数据，中位年龄为82岁。该机器学习模型可估算患者一年内维持功能、功能衰退（转为居家不出/卧床的生活方式）或死亡的风险。"
               },
               {
                 "t": "p",
-                "x": "Pitt放射学教授Shandong Wu, PhD与博士生Jiren Li及Dooman Arefan, PhD共同主导了这项研究，并利用Pittsburgh Supercomputing Center的Bridges-2超级计算机训练和评估模型。"
+                "x": "总体而言，32.5%的患者在出院后一年内出现功能衰退，超过14%的患者死亡。该模型使用了77项不同因素，在识别这些结局方面的准确性优于Kihon Checklist筛查工具。"
               },
               {
                 "t": "p",
-                "x": "团队希望将该方法推广到乳腺钼靶摄影以外的领域，但这项工作仍处于早期阶段，还需在不同患者群体和影像环境中进一步验证。"
+                "x": "“我们不能只问患者能否存活，还要问他们出院后能否维持自己珍视的生活，”日本Juntendo University（顺天堂大学）的第一作者Kanji Yamada, PT, PhD表示。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un modelo de Pitt marca lecturas\nde AI mamaria para revisarlas",
-          "body": "Investigadores de Pitt crearon una AI para cáncer de mama que puntúa su incertidumbre y marca resultados para revisar.",
-          "mini_headline": "Verificar la AI de cáncer de mama",
+          "headline": "AI prevé deterioro funcional\nen la insuficiencia cardiaca",
+          "body": "Un modelo de AI señala qué pacientes con insuficiencia cardiaca perderían función tras el alta, no solo cuáles morirán.",
+          "mini_headline": "AI predice el deterioro en insuficiencia cardiaca",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-06/istock-2202666684.jpg?h=140710cd&itok=XUsmUugX"
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-983942394.jpg?h=39b07655&itok=8Yg4Z5XX"
               },
               {
                 "t": "p",
-                "x": "Investigadores de la University of Pittsburgh diseñaron un modelo de AI que, según creen, ayudará a que la AI de imagen para el cáncer de mama sea más fiable."
+                "x": "Los modelos avanzados de inteligencia artificial (AI) pueden anticipar cuándo los pacientes mayores con insuficiencia cardiaca podrían empezar a sufrir deterioro funcional, según nuevos hallazgos publicados en el Journal of Cardiac Failure."
               },
               {
                 "t": "p",
-                "x": "Su red neuronal profunda está entrenada para estimar la incertidumbre junto con sus predicciones diagnósticas. El método, llamado uncertainty-weighted learning (aprendizaje ponderado por incertidumbre), genera una predicción y una puntuación de incertidumbre, y señala los casos en los que el resultado puede ser menos fiable y un resultado de AI puede requerir una segunda revisión de un radiólogo."
+                "x": "Los investigadores analizaron datos de más de 6,000 pacientes de 65 años o más hospitalizados por insuficiencia cardiaca y con rehabilitación prescrita; la mediana de edad fue de 82 años. El modelo de aprendizaje automático estima el riesgo a un año de que un paciente mantenga su funcionalidad, sufra deterioro funcional (paso a una vida confinada en casa o en cama) o muera."
               },
               {
                 "t": "p",
-                "x": "Shandong Wu, PhD, profesor de radiología en Pitt, dirigió el trabajo junto con el doctorando Jiren Li y Dooman Arefan, PhD, y utilizó la supercomputadora Bridges-2 del Pittsburgh Supercomputing Center para entrenar y evaluar los modelos."
+                "x": "En total, el 32.5% de los pacientes sufrió deterioro funcional y más del 14% murió en el año siguiente al alta. El modelo, que utilizó 77 factores distintos, identificó estos desenlaces con mayor precisión que la herramienta de cribado Kihon Checklist."
               },
               {
                 "t": "p",
-                "x": "El equipo espera extender el enfoque más allá de la mamografía, pero el trabajo aún está en una fase temprana y necesita más validación en distintas poblaciones de pacientes y entornos de imagen."
+                "x": "“En lugar de preguntar solo si un paciente sobrevivirá, debemos preguntar si podrá mantener la vida que valora después del alta”, dijo el autor principal Kanji Yamada, PT, PhD, de la Juntendo University en Japón."
               }
             ]
           }
@@ -1099,189 +802,603 @@
       }
     },
     {
-      "id": "medicine-episemollm-epilepsy",
+      "id": "medicine-doximity-uptodate-ask",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "EpiSemoLLM 발작\n증상으로 발생 부위 찾기",
-      "body": "EpiSemoLLM이 발작 증상으로 뇌전증 병소를 전문의 중앙값보다 잘 찾았다.",
-      "mini_headline": "LLM이 발작 기원 위치 찾아",
+      "headline": "Doximity AI\nAsk에 UpToDate",
+      "body": "Doximity Ask AI가 Wolters Kluwer UpToDate를 품는다.",
+      "mini_headline": "Doximity Ask에 UpToDate 탑재",
       "tool": "Medicine",
-      "source": "Communications Medicine",
-      "url": "https://www.nature.com/articles/s43856-026-01883-1",
+      "source": "Fierce Healthcare",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/doximity-adds-uptodate-ask-push-become-doctors-go-ai-platform",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg?VersionId=iT2xffiTsfbfPwNM_SW3dz_eFZZ.4yvd",
+            "cap": "Doximity는 임상 AI 도구 투자를 늘리고 있다. Wolters Kluwer와 손잡은 Ask는 임상 지식의 관문 자리를 노린다."
+          },
+          {
+            "t": "p",
+            "x": "Doximity가 Wolters Kluwer Health와 손잡고 UpToDate의 근거 기반 임상 콘텐츠를 자사 AI 임상 의사결정 지원 도구 Doximity Ask에 바로 넣기로 했다."
+          },
+          {
+            "t": "p",
+            "x": "몇 주 안에 두 제품을 함께 쓰는 의료기관의 임상의는 Ask 워크플로를 벗어나지 않고 Doximity Ask의 답변과 나란히 UpToDate 임상 주제 13,000개와 모범 진료 가이드에 근거한 답변을 보게 된다."
+          },
+          {
+            "t": "p",
+            "x": "회사는 앰비언트 기록 도구 Scribe와 Ask 같은 임상 AI 제품군을 키워 의사를 위한 대표 AI 플랫폼이 되려 한다. Doximity는 일 년 전 임상 AI 기업 Pathway를 인수했다."
+          },
+          {
+            "t": "p",
+            "x": "“모든 프런티어 모델은 똑같은 저널을 다 읽었다. UpToDate는 RCT가 없을 때 어떤 일이 벌어지는지에 관해 경험 많은 의사들이 만든 최고 수준의 참고 자료로서 독보적이다”라고 Doximity CEO Jeff Tangney는 Fierce Healthcare에 말했다."
+          },
+          {
+            "t": "p",
+            "x": "회사에 따르면 U.S. 의사의 85% 이상이 Doximity 회원이다. Ask를 비롯한 임상 AI 도구는 165곳이 넘는 의료기관에 들어갔다."
+          },
+          {
+            "t": "p",
+            "x": "임상 AI 경쟁은 갈수록 거세다. Wolters Kluwer는 Epic, Abridge와도 손잡고 두 회사의 AI-powered CDS 도구에 UpToDate를 넣고 있다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Doximity adds UpToDate\nto its Ask AI tool",
+          "body": "Doximity is embedding Wolters Kluwer's UpToDate clinical content directly inside Ask, its AI decision support tool.",
+          "mini_headline": "Doximity adds UpToDate to Ask",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg?VersionId=iT2xffiTsfbfPwNM_SW3dz_eFZZ.4yvd",
+                "cap": "As Doximity ramps up its investment in clinical AI tools, the partnership with Wolters Kluwer positions Ask as the front door to clinical knowledge."
+              },
+              {
+                "t": "p",
+                "x": "Doximity inked a partnership with Wolters Kluwer Health to embed UpToDate's evidence-based clinical content directly within Doximity Ask, the company’s AI clinical decision support tool."
+              },
+              {
+                "t": "p",
+                "x": "In the coming weeks, at health systems that use both products, clinicians will see an answer based on UpToDate’s 13,000 clinical topics and best practice guides alongside Doximity Ask’s response, without leaving the Ask workflow."
+              },
+              {
+                "t": "p",
+                "x": "The company aims to become a leading AI platform for doctors, scaling a clinical AI suite that includes its ambient note-taking tool Scribe and Ask. A year ago, Doximity acquired clinical AI company Pathway."
+              },
+              {
+                "t": "p",
+                "x": "“Every frontier model has read all the same journals. UpToDate stands alone as a gold standard reference from experienced physicians about what happens when there isn't an RCT,” Doximity CEO Jeff Tangney told Fierce Healthcare."
+              },
+              {
+                "t": "p",
+                "x": "Doximity’s membership includes more than 85% of all U.S. doctors, and its clinical AI tools, including Ask, have been deployed across more than 165 health systems, according to the company."
+              },
+              {
+                "t": "p",
+                "x": "Competition in clinical AI is intensifying. Wolters Kluwer has also partnered with Epic and Abridge to integrate UpToDate into their AI-powered CDS tools."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Doximity AI\nAsk에 UpToDate",
+          "body": "Doximity Ask AI가 Wolters Kluwer UpToDate를 품는다.",
+          "mini_headline": "Doximity Ask에 UpToDate 탑재",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg?VersionId=iT2xffiTsfbfPwNM_SW3dz_eFZZ.4yvd",
+                "cap": "Doximity는 임상 AI 도구 투자를 늘리고 있다. Wolters Kluwer와 손잡은 Ask는 임상 지식의 관문 자리를 노린다."
+              },
+              {
+                "t": "p",
+                "x": "Doximity가 Wolters Kluwer Health와 손잡고 UpToDate의 근거 기반 임상 콘텐츠를 자사 AI 임상 의사결정 지원 도구 Doximity Ask에 바로 넣기로 했다."
+              },
+              {
+                "t": "p",
+                "x": "몇 주 안에 두 제품을 함께 쓰는 의료기관의 임상의는 Ask 워크플로를 벗어나지 않고 Doximity Ask의 답변과 나란히 UpToDate 임상 주제 13,000개와 모범 진료 가이드에 근거한 답변을 보게 된다."
+              },
+              {
+                "t": "p",
+                "x": "회사는 앰비언트 기록 도구 Scribe와 Ask 같은 임상 AI 제품군을 키워 의사를 위한 대표 AI 플랫폼이 되려 한다. Doximity는 일 년 전 임상 AI 기업 Pathway를 인수했다."
+              },
+              {
+                "t": "p",
+                "x": "“모든 프런티어 모델은 똑같은 저널을 다 읽었다. UpToDate는 RCT가 없을 때 어떤 일이 벌어지는지에 관해 경험 많은 의사들이 만든 최고 수준의 참고 자료로서 독보적이다”라고 Doximity CEO Jeff Tangney는 Fierce Healthcare에 말했다."
+              },
+              {
+                "t": "p",
+                "x": "회사에 따르면 U.S. 의사의 85% 이상이 Doximity 회원이다. Ask를 비롯한 임상 AI 도구는 165곳이 넘는 의료기관에 들어갔다."
+              },
+              {
+                "t": "p",
+                "x": "임상 AI 경쟁은 갈수록 거세다. Wolters Kluwer는 Epic, Abridge와도 손잡고 두 회사의 AI-powered CDS 도구에 UpToDate를 넣고 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "DoximityのAI\nAskにUpToDate搭載",
+          "body": "DoximityがAI「Ask」にWolters KluwerのUpToDateを統合する。",
+          "mini_headline": "DoximityのAskにUpToDate",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg?VersionId=iT2xffiTsfbfPwNM_SW3dz_eFZZ.4yvd",
+                "cap": "Doximityが臨床AIツールへの投資を拡大するなか、Wolters Kluwerとの提携により、Askは臨床知識への入り口として位置づけられる。"
+              },
+              {
+                "t": "p",
+                "x": "Doximityは、Wolters Kluwer Healthと提携し、UpToDateのエビデンスに基づく臨床コンテンツを、同社のAI臨床意思決定支援ツール「Doximity Ask」に直接組み込む。"
+              },
+              {
+                "t": "p",
+                "x": "今後数週間のうちに、両製品を導入している医療システムでは、臨床医がAskのワークフローを離れることなく、Doximity Askの回答と並んで、UpToDateの13,000の臨床トピックとベストプラクティスガイドに基づく回答を確認できるようになる。"
+              },
+              {
+                "t": "p",
+                "x": "同社は、アンビエント記録ツールScribeとAskを含む臨床AIスイートを拡大し、医師向けの主要なAIプラットフォームになることを目指している。Doximityは一年前、臨床AI企業Pathwayを買収した。"
+              },
+              {
+                "t": "p",
+                "x": "「フロンティアモデルはどれも同じ論文誌をすべて読んでいる。UpToDateは、RCTがない場合に何が起きるかについて、経験豊富な医師がまとめたゴールドスタンダードの参考資料として唯一無二の存在だ」と、DoximityのCEO、Jeff TangneyはFierce Healthcareに語った。"
+              },
+              {
+                "t": "p",
+                "x": "同社によると、Doximityの会員にはU.S.の医師全体の85%超が含まれ、Askを含む臨床AIツールは165を超える医療システムで導入されている。"
+              },
+              {
+                "t": "p",
+                "x": "臨床AIをめぐる競争は激しさを増している。Wolters KluwerはEpicやAbridgeとも提携し、両社のAI-powered CDSツールにUpToDateを統合している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Doximity AI工具\nAsk接入UpToDate",
+          "body": "Doximity将Wolters Kluwer的UpToDate直接嵌入AI工具Ask。",
+          "mini_headline": "Doximity Ask接入UpToDate",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg?VersionId=iT2xffiTsfbfPwNM_SW3dz_eFZZ.4yvd",
+                "cap": "随着Doximity加大对临床AI工具的投入，与Wolters Kluwer的合作使Ask成为获取临床知识的入口。"
+              },
+              {
+                "t": "p",
+                "x": "Doximity与Wolters Kluwer Health达成合作，将UpToDate的循证临床内容直接嵌入该公司的AI临床决策支持工具Doximity Ask。"
+              },
+              {
+                "t": "p",
+                "x": "未来几周内，在同时使用这两款产品的医疗系统中，临床医生无需离开Ask工作流程，就能在Doximity Ask的回答旁看到基于UpToDate 13,000个临床主题和最佳实践指南的答案。"
+              },
+              {
+                "t": "p",
+                "x": "该公司的目标是成为领先的医生AI平台，正在扩展包括环境记录工具Scribe和Ask在内的临床AI套件。一年前，Doximity收购了临床AI公司Pathway。"
+              },
+              {
+                "t": "p",
+                "x": "“每个前沿模型读过的期刊都一样。对于没有RCT时会发生什么，UpToDate作为由经验丰富的医生撰写的金标准参考资料，独一无二，”Doximity CEO Jeff Tangney对Fierce Healthcare表示。"
+              },
+              {
+                "t": "p",
+                "x": "据该公司介绍，Doximity的会员涵盖U.S.全部医生的85%以上，包括Ask在内的临床AI工具已部署在超过165个医疗系统中。"
+              },
+              {
+                "t": "p",
+                "x": "临床AI领域的竞争日趋激烈。Wolters Kluwer还与Epic和Abridge合作，将UpToDate整合进它们的AI-powered CDS工具。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Doximity integra UpToDate\nen su herramienta de AI Ask",
+          "body": "Doximity integra el contenido clínico UpToDate de Wolters Kluwer en Ask, su herramienta de apoyo a decisiones con AI.",
+          "mini_headline": "Doximity suma UpToDate a Ask",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg?VersionId=iT2xffiTsfbfPwNM_SW3dz_eFZZ.4yvd",
+                "cap": "A medida que Doximity aumenta su inversión en herramientas de AI clínica, la alianza con Wolters Kluwer sitúa a Ask como la puerta de entrada al conocimiento clínico."
+              },
+              {
+                "t": "p",
+                "x": "Doximity cerró una alianza con Wolters Kluwer Health para integrar el contenido clínico basado en evidencia de UpToDate directamente en Doximity Ask, la herramienta de AI de apoyo a la decisión clínica de la compañía."
+              },
+              {
+                "t": "p",
+                "x": "En las próximas semanas, en los sistemas de salud que usan ambos productos, los clínicos verán una respuesta basada en los 13,000 temas clínicos y guías de buenas prácticas de UpToDate junto a la respuesta de Doximity Ask, sin salir del flujo de trabajo de Ask."
+              },
+              {
+                "t": "p",
+                "x": "La compañía aspira a convertirse en una plataforma de AI líder para médicos, ampliando una suite de AI clínica que incluye su herramienta de notas ambientales Scribe y Ask. Hace un año, Doximity adquirió la empresa de AI clínica Pathway."
+              },
+              {
+                "t": "p",
+                "x": "“Todos los modelos de frontera han leído las mismas revistas. UpToDate es única como referencia de máximo nivel elaborada por médicos experimentados sobre lo que ocurre cuando no hay un RCT”, dijo el CEO de Doximity, Jeff Tangney, a Fierce Healthcare."
+              },
+              {
+                "t": "p",
+                "x": "Según la compañía, Doximity cuenta entre sus miembros con más del 85% de todos los médicos de U.S., y sus herramientas de AI clínica, incluida Ask, se han implementado en más de 165 sistemas de salud."
+              },
+              {
+                "t": "p",
+                "x": "La competencia en AI clínica se intensifica. Wolters Kluwer también se ha asociado con Epic y Abridge para integrar UpToDate en sus herramientas CDS AI-powered."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Doximity AI\nAsk에 UpToDate",
+          "body": "Doximity Ask AI가 Wolters Kluwer UpToDate를 품는다.",
+          "mini_headline": "Doximity Ask에 UpToDate 탑재",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg?VersionId=iT2xffiTsfbfPwNM_SW3dz_eFZZ.4yvd",
+                "cap": "Doximity가 임상 AI 도구 투자를 늘리는 가운데, Wolters Kluwer와의 제휴로 Ask는 임상 지식으로 들어가는 관문 자리를 노린다."
+              },
+              {
+                "t": "p",
+                "x": "Doximity가 Wolters Kluwer Health와 제휴를 맺고, UpToDate의 근거 기반 임상 콘텐츠를 자사 AI 임상 의사결정 지원 도구인 Doximity Ask 안에 직접 넣기로 했다."
+              },
+              {
+                "t": "p",
+                "x": "앞으로 몇 주 안에 두 제품을 모두 쓰는 의료기관의 임상의는 Ask 워크플로를 벗어나지 않고도 Doximity Ask의 답변과 함께 UpToDate의 임상 주제 13,000개와 모범 진료 가이드에 기반한 답변을 보게 된다."
+              },
+              {
+                "t": "p",
+                "x": "회사는 앰비언트 기록 도구 Scribe와 Ask를 포함한 임상 AI 제품군을 키워 의사를 위한 대표 AI 플랫폼이 되는 것을 목표로 한다. Doximity는 일 년 전 임상 AI 기업 Pathway를 인수했다."
+              },
+              {
+                "t": "p",
+                "x": "“모든 프런티어 모델은 똑같은 저널을 다 읽었다. UpToDate는 RCT가 없을 때 어떤 일이 벌어지는지에 관해 경험 많은 의사들이 만든 최고 수준의 참고 자료로서 독보적이다”라고 Doximity CEO Jeff Tangney는 Fierce Healthcare에 말했다."
+              },
+              {
+                "t": "p",
+                "x": "회사에 따르면 Doximity 회원에는 U.S. 의사 전체의 85% 이상이 포함돼 있고, Ask를 비롯한 임상 AI 도구는 165곳이 넘는 의료기관에 배포됐다."
+              },
+              {
+                "t": "p",
+                "x": "임상 AI 경쟁은 거세지고 있다. Wolters Kluwer는 Epic, Abridge와도 제휴해 이들의 AI-powered CDS 도구에 UpToDate를 통합하고 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "DoximityのAI\nAskにUpToDate搭載",
+          "body": "DoximityがAI「Ask」にWolters KluwerのUpToDateを統合する。",
+          "mini_headline": "DoximityのAskにUpToDate",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg?VersionId=iT2xffiTsfbfPwNM_SW3dz_eFZZ.4yvd",
+                "cap": "Doximityが臨床AIツールへの投資を拡大するなか、Wolters Kluwerとの提携により、Askは臨床知識への入り口として位置づけられる。"
+              },
+              {
+                "t": "p",
+                "x": "Doximityは、Wolters Kluwer Healthと提携し、UpToDateのエビデンスに基づく臨床コンテンツを、同社のAI臨床意思決定支援ツール「Doximity Ask」に直接組み込む。"
+              },
+              {
+                "t": "p",
+                "x": "今後数週間のうちに、両製品を導入している医療システムでは、臨床医がAskのワークフローを離れることなく、Doximity Askの回答と並んで、UpToDateの13,000の臨床トピックとベストプラクティスガイドに基づく回答を確認できるようになる。"
+              },
+              {
+                "t": "p",
+                "x": "同社は、アンビエント記録ツールScribeとAskを含む臨床AIスイートを拡大し、医師向けの主要なAIプラットフォームになることを目指している。Doximityは一年前、臨床AI企業Pathwayを買収した。"
+              },
+              {
+                "t": "p",
+                "x": "「フロンティアモデルはどれも同じ論文誌をすべて読んでいる。UpToDateは、RCTがない場合に何が起きるかについて、経験豊富な医師がまとめたゴールドスタンダードの参考資料として唯一無二の存在だ」と、DoximityのCEO、Jeff TangneyはFierce Healthcareに語った。"
+              },
+              {
+                "t": "p",
+                "x": "同社によると、Doximityの会員にはU.S.の医師全体の85%超が含まれ、Askを含む臨床AIツールは165を超える医療システムで導入されている。"
+              },
+              {
+                "t": "p",
+                "x": "臨床AIをめぐる競争は激しさを増している。Wolters KluwerはEpicやAbridgeとも提携し、両社のAI-powered CDSツールにUpToDateを統合している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Doximity AI工具\nAsk接入UpToDate",
+          "body": "Doximity将Wolters Kluwer的UpToDate直接嵌入AI工具Ask。",
+          "mini_headline": "Doximity Ask接入UpToDate",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg?VersionId=iT2xffiTsfbfPwNM_SW3dz_eFZZ.4yvd",
+                "cap": "随着Doximity加大对临床AI工具的投入，与Wolters Kluwer的合作使Ask成为获取临床知识的入口。"
+              },
+              {
+                "t": "p",
+                "x": "Doximity与Wolters Kluwer Health达成合作，将UpToDate的循证临床内容直接嵌入该公司的AI临床决策支持工具Doximity Ask。"
+              },
+              {
+                "t": "p",
+                "x": "未来几周内，在同时使用这两款产品的医疗系统中，临床医生无需离开Ask工作流程，就能在Doximity Ask的回答旁看到基于UpToDate 13,000个临床主题和最佳实践指南的答案。"
+              },
+              {
+                "t": "p",
+                "x": "该公司的目标是成为领先的医生AI平台，正在扩展包括环境记录工具Scribe和Ask在内的临床AI套件。一年前，Doximity收购了临床AI公司Pathway。"
+              },
+              {
+                "t": "p",
+                "x": "“每个前沿模型读过的期刊都一样。对于没有RCT时会发生什么，UpToDate作为由经验丰富的医生撰写的金标准参考资料，独一无二，”Doximity CEO Jeff Tangney对Fierce Healthcare表示。"
+              },
+              {
+                "t": "p",
+                "x": "据该公司介绍，Doximity的会员涵盖U.S.全部医生的85%以上，包括Ask在内的临床AI工具已部署在超过165个医疗系统中。"
+              },
+              {
+                "t": "p",
+                "x": "临床AI领域的竞争日趋激烈。Wolters Kluwer还与Epic和Abridge合作，将UpToDate整合进它们的AI-powered CDS工具。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Doximity integra UpToDate\nen su herramienta de AI Ask",
+          "body": "Doximity integra el contenido clínico UpToDate de Wolters Kluwer en Ask, su herramienta de apoyo a decisiones con AI.",
+          "mini_headline": "Doximity suma UpToDate a Ask",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg?VersionId=iT2xffiTsfbfPwNM_SW3dz_eFZZ.4yvd",
+                "cap": "A medida que Doximity aumenta su inversión en herramientas de AI clínica, la alianza con Wolters Kluwer sitúa a Ask como la puerta de entrada al conocimiento clínico."
+              },
+              {
+                "t": "p",
+                "x": "Doximity cerró una alianza con Wolters Kluwer Health para integrar el contenido clínico basado en evidencia de UpToDate directamente en Doximity Ask, la herramienta de AI de apoyo a la decisión clínica de la compañía."
+              },
+              {
+                "t": "p",
+                "x": "En las próximas semanas, en los sistemas de salud que usan ambos productos, los clínicos verán una respuesta basada en los 13,000 temas clínicos y guías de buenas prácticas de UpToDate junto a la respuesta de Doximity Ask, sin salir del flujo de trabajo de Ask."
+              },
+              {
+                "t": "p",
+                "x": "La compañía aspira a convertirse en una plataforma de AI líder para médicos, ampliando una suite de AI clínica que incluye su herramienta de notas ambientales Scribe y Ask. Hace un año, Doximity adquirió la empresa de AI clínica Pathway."
+              },
+              {
+                "t": "p",
+                "x": "“Todos los modelos de frontera han leído las mismas revistas. UpToDate es única como referencia de máximo nivel elaborada por médicos experimentados sobre lo que ocurre cuando no hay un RCT”, dijo el CEO de Doximity, Jeff Tangney, a Fierce Healthcare."
+              },
+              {
+                "t": "p",
+                "x": "Según la compañía, Doximity cuenta entre sus miembros con más del 85% de todos los médicos de U.S., y sus herramientas de AI clínica, incluida Ask, se han implementado en más de 165 sistemas de salud."
+              },
+              {
+                "t": "p",
+                "x": "La competencia en AI clínica se intensifica. Wolters Kluwer también se ha asociado con Epic y Abridge para integrar UpToDate en sus herramientas CDS AI-powered."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "medicine-ai-standardized-patients",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 표준화 환자,\n무작위 시험대에 올라",
+      "body": "LLM-driven AI 표준화 환자가 임상 소통교육의 비용·배우 한계를 겨냥한다.",
+      "mini_headline": "임상 교육용 AI 환자",
+      "tool": "Medicine",
+      "source": "npj Digital Medicine",
+      "url": "https://www.nature.com/articles/s41746-026-03372-0",
       "accent": "#ff5a4d",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "img",
+            "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig1_HTML.png",
+            "cap": "Fig. 1: AI-SP 아키텍처와 세 단계 평가 개요."
+          },
+          {
             "t": "p",
-            "x": "발작 증상학은 약물 저항성 국소 뇌전증에서 뇌전증 유발 영역(EZ)을 찾는 단서가 되지만, 그 해석은 임상의와 기관마다 다르다."
+            "x": "표준화 환자(SPs)는 임상 소통 교육의 핵심이다. 다만 비용과 확장성, 훈련된 배우에게 기대야 한다는 점이 걸림돌이다. 저자들은 AI 표준화 환자(AI-SPs)를 제안한다. 대규모 언어 모델로 움직이는 시뮬레이터로, 세 층 정보 아키텍처를 바탕으로 학습자 숙련도에 맞춰 정보를 얼마나 내놓을지 조절한다."
+          },
+          {
+            "t": "p",
+            "x": "Phase 1에서는 프런티어 LLMs 다섯 개가 만든 모의 상담 350건을 전문가가 블라인드로 평가했다. 성과 차이는 모델 선택보다 학습자 숙련도로 더 많이 설명됐다(η2 = 0.31 vs. 0.06). Phase 1b에서는 학생들의 실제 상담 155건을 살폈는데, 안전에 결정적인 정보를 끌어내지 못하는 체계적 실패가 드러났다."
           },
           {
             "t": "img",
-            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01883-1/MediaObjects/43856_2026_1883_Fig1_HTML.png"
+            "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig2_HTML.png",
+            "cap": "Fig. 2: 세 층으로 이뤄진 AI-SP 시스템 프롬프트 설계."
           },
           {
             "t": "p",
-            "x": "연구진은 392편의 발표 연구와 Far Eastern Memorial Hospital 코호트에서 수술로 확인된 증상학–EZ 쌍 1,372개를 모아 EpiSemoLLM을 개발했다. 파라미터 효율적 미세조정에 구조화된 뇌전증 지식과 문헌 기반 근거 검색을 결합했다."
-          },
-          {
-            "t": "p",
-            "x": "평가한 언어모델 가운데 전반적 위치 추정 성능이 가장 높았고, 홀드아웃 코호트에서는 뇌전증 전문의 중앙값을 웃돌았다. Taipei Veterans General Hospital의 외부 코호트 83건에서도 결과는 비슷했다."
-          },
-          {
-            "t": "p",
-            "x": "전두엽과 섬엽 위치 추정에서는 임상의가 더 나았다. 일상 진료에 쓰려면 전향적 검증이 필요하다."
+            "x": "Phase 2의 세 군 파일럿 무작위 연구(n = 58)에서 AI-SP 훈련의 OSCE 성적 향상 폭은 인간 SP 훈련과 유의한 차이가 없었다. 이 시험은 동등성 입증이 아니라 효과 크기 추정을 목표로 설계됐다. 자기효능감은 수치상 AI-SPs에서 가장 많이 올랐지만 다중 비교 보정 후에는 유의성이 사라졌다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "EpiSemoLLM locates seizure\nzones from semiology",
-          "body": "EpiSemoLLM beat the median epileptologist at localizing epileptogenic zones from seizure semiology in a held-out cohort.",
-          "mini_headline": "LLM localizes seizure origin",
+          "headline": "AI standardized patients\nput to a randomized test",
+          "body": "LLM-driven AI standardized patients target the cost and actor limits of clinical communication training.",
+          "mini_headline": "AI patients for clinical training",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig1_HTML.png",
+                "cap": "Fig. 1: Overview of the AI-SP architecture and three-phase evaluation."
+              },
+              {
                 "t": "p",
-                "x": "Seizure semiology offers clues for localizing the epileptogenic zone (EZ) in drug-resistant focal epilepsy, but its interpretation varies across clinicians and institutions."
+                "x": "Standardized patients (SPs) are central to clinical communication training but remain constrained by cost, scalability, and reliance on trained actors. The authors present AI standardized patients (AI-SPs), large language model–driven simulators built on a three-layer information architecture that adaptively modulates disclosure according to learner skill."
+              },
+              {
+                "t": "p",
+                "x": "In Phase 1, blinded expert assessment of 350 simulated consultations generated by five frontier LLMs showed learner skill level accounted for more performance variation than model choice (η2 = 0.31 vs. 0.06). In Phase 1b, 155 live student consultations revealed systematic failures to elicit safety-critical information."
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01883-1/MediaObjects/43856_2026_1883_Fig1_HTML.png"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig2_HTML.png",
+                "cap": "Fig. 2: The three-layer AI-SP system prompt design."
               },
               {
                 "t": "p",
-                "x": "EpiSemoLLM was developed from 1,372 surgically verified semiology–EZ pairs drawn from 392 published studies and a cohort from Far Eastern Memorial Hospital, combining parameter-efficient fine-tuning with structured epilepsy knowledge and literature-based evidence retrieval."
-              },
-              {
-                "t": "p",
-                "x": "It achieved the strongest overall localization among the language models evaluated and performed better than the median epileptologist in the held-out cohort, with similar findings in an external cohort of 83 cases from Taipei Veterans General Hospital."
-              },
-              {
-                "t": "p",
-                "x": "Clinicians performed better in frontal and insular localization. Prospective validation is needed before routine clinical use."
+                "x": "In a Phase 2 three-arm pilot randomized study (n = 58), OSCE performance gains with AI-SP training did not differ significantly from human SP training; the trial was designed to estimate effect sizes, not to demonstrate equivalence. Self-efficacy gains were numerically largest with AI-SPs, but did not survive correction for multiple comparisons."
               }
             ]
           }
         },
         "ko": {
-          "headline": "EpiSemoLLM 발작\n증상으로 발생 부위 찾기",
-          "body": "EpiSemoLLM이 발작 증상으로 뇌전증 병소를 전문의 중앙값보다 잘 찾았다.",
-          "mini_headline": "LLM이 발작 기원 위치 찾아",
+          "headline": "AI 표준화 환자,\n무작위 시험대에 올라",
+          "body": "LLM-driven AI 표준화 환자가 임상 소통교육의 비용·배우 한계를 겨냥한다.",
+          "mini_headline": "임상 교육용 AI 환자",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig1_HTML.png",
+                "cap": "Fig. 1: AI-SP 아키텍처와 세 단계 평가 개요."
+              },
+              {
                 "t": "p",
-                "x": "발작 증상학은 약물 저항성 국소 뇌전증에서 뇌전증 유발 영역(EZ)을 찾는 단서가 되지만, 그 해석은 임상의와 기관마다 다르다."
+                "x": "표준화 환자(SPs)는 임상 소통 교육의 핵심이다. 다만 비용과 확장성, 훈련된 배우에게 기대야 한다는 점이 걸림돌이다. 저자들은 AI 표준화 환자(AI-SPs)를 제안한다. 대규모 언어 모델로 움직이는 시뮬레이터로, 세 층 정보 아키텍처를 바탕으로 학습자 숙련도에 맞춰 정보를 얼마나 내놓을지 조절한다."
+              },
+              {
+                "t": "p",
+                "x": "Phase 1에서는 프런티어 LLMs 다섯 개가 만든 모의 상담 350건을 전문가가 블라인드로 평가했다. 성과 차이는 모델 선택보다 학습자 숙련도로 더 많이 설명됐다(η2 = 0.31 vs. 0.06). Phase 1b에서는 학생들의 실제 상담 155건을 살폈는데, 안전에 결정적인 정보를 끌어내지 못하는 체계적 실패가 드러났다."
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01883-1/MediaObjects/43856_2026_1883_Fig1_HTML.png"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig2_HTML.png",
+                "cap": "Fig. 2: 세 층으로 이뤄진 AI-SP 시스템 프롬프트 설계."
               },
               {
                 "t": "p",
-                "x": "연구진은 392편의 발표 연구와 Far Eastern Memorial Hospital 코호트에서 수술로 확인된 증상학–EZ 쌍 1,372개를 모아 EpiSemoLLM을 개발했다. 파라미터 효율적 미세조정에 구조화된 뇌전증 지식과 문헌 기반 근거 검색을 결합했다."
-              },
-              {
-                "t": "p",
-                "x": "평가한 언어모델 가운데 전반적 위치 추정 성능이 가장 높았고, 홀드아웃 코호트에서는 뇌전증 전문의 중앙값을 웃돌았다. Taipei Veterans General Hospital의 외부 코호트 83건에서도 결과는 비슷했다."
-              },
-              {
-                "t": "p",
-                "x": "전두엽과 섬엽 위치 추정에서는 임상의가 더 나았다. 일상 진료에 쓰려면 전향적 검증이 필요하다."
+                "x": "Phase 2의 세 군 파일럿 무작위 연구(n = 58)에서 AI-SP 훈련의 OSCE 성적 향상 폭은 인간 SP 훈련과 유의한 차이가 없었다. 이 시험은 동등성 입증이 아니라 효과 크기 추정을 목표로 설계됐다. 자기효능감은 수치상 AI-SPs에서 가장 많이 올랐지만 다중 비교 보정 후에는 유의성이 사라졌다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EpiSemoLLMが\n発作症状から焦点推定",
-          "body": "EpiSemoLLMは発作症状からてんかん原性領域の特定で専門医の中央値を上回った。",
-          "mini_headline": "LLMが発作の起源を推定",
+          "headline": "AI標準模擬患者、\n無作為化試験で検証",
+          "body": "LLM-drivenのAI標準模擬患者が、臨床対話教育のコストと俳優頼みの限界に挑む。",
+          "mini_headline": "臨床教育向けAI患者",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig1_HTML.png",
+                "cap": "Fig. 1: AI-SPのアーキテクチャと三段階評価の概要。"
+              },
+              {
                 "t": "p",
-                "x": "発作症候学は、薬剤抵抗性焦点てんかんにおけるてんかん原性領域(EZ)の局在を推定する手がかりとなるが、その解釈は臨床医や施設によって異なる。"
+                "x": "標準模擬患者（SPs）は臨床コミュニケーション教育の中核だが、コスト、拡張性、訓練を受けた俳優への依存という制約を抱えている。著者らは、学習者のスキルに応じて情報開示を適応的に調整する三層の情報アーキテクチャに基づく、大規模言語モデル駆動のシミュレーター「AI標準模擬患者（AI-SPs）」を提示する。"
+              },
+              {
+                "t": "p",
+                "x": "Phase 1では、五つのフロンティアLLMsが生成した350件の模擬診察を専門家が盲検で評価した結果、成績のばらつきはモデルの選択よりも学習者のスキルレベルでより多く説明された（η2 = 0.31 vs. 0.06）。Phase 1bでは、155件の学生による実際の診察で、安全上重要な情報を引き出せない系統的な失敗が明らかになった。"
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01883-1/MediaObjects/43856_2026_1883_Fig1_HTML.png"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig2_HTML.png",
+                "cap": "Fig. 2: 三層構造のAI-SPシステムプロンプト設計。"
               },
               {
                 "t": "p",
-                "x": "EpiSemoLLMは、392件の既発表研究とFar Eastern Memorial Hospitalのコホートから集めた、手術で確認された症候学–EZのペア1,372組をもとに開発された。パラメータ効率の高いファインチューニングに、構造化されたてんかん知識と文献に基づくエビデンス検索を組み合わせている。"
-              },
-              {
-                "t": "p",
-                "x": "評価した言語モデルの中で全体の局在推定性能が最も高く、ホールドアウトコホートではてんかん専門医の中央値を上回った。Taipei Veterans General Hospitalの83例による外部コホートでも同様の結果が得られた。"
-              },
-              {
-                "t": "p",
-                "x": "前頭葉と島の局在推定では臨床医の方が優れていた。日常診療で使うには前向きな検証が必要だ。"
+                "x": "Phase 2の三群パイロット無作為化研究（n = 58）では、AI-SPトレーニングによるOSCE成績の向上は、人間のSPによるトレーニングと有意な差がなかった。この試験は同等性の証明ではなく、効果量の推定を目的に設計された。自己効力感の向上は数値上AI-SPsで最も大きかったが、多重比較の補正後には有意性が残らなかった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "EpiSemoLLM\n据发作症状定位致痫区",
-          "body": "在保留队列中，EpiSemoLLM依据发作症状定位致痫区的表现优于癫痫专家中位水平。",
-          "mini_headline": "LLM定位癫痫发作起源",
+          "headline": "AI标准化病人\n接受随机试验检验",
+          "body": "LLM-driven的AI标准化病人，瞄准临床沟通培训的成本与演员依赖难题。",
+          "mini_headline": "用于临床培训的AI病人",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig1_HTML.png",
+                "cap": "Fig. 1: AI-SP架构与三阶段评估概览。"
+              },
+              {
                 "t": "p",
-                "x": "在药物难治性局灶性癫痫中，发作症状学可为定位致痫区(EZ)提供线索，但不同临床医生和机构对其解读不一。"
+                "x": "标准化病人（SPs）是临床沟通培训的核心，但仍受限于成本、可扩展性以及对受训演员的依赖。作者提出AI标准化病人（AI-SPs），这是一种由大语言模型驱动的模拟器，基于三层信息架构，可根据学习者的技能水平自适应地调节信息披露。"
+              },
+              {
+                "t": "p",
+                "x": "在Phase 1中，专家对五个前沿LLMs生成的350次模拟问诊进行盲法评估，结果显示，学习者技能水平对表现差异的解释度高于模型选择（η2 = 0.31 vs. 0.06）。在Phase 1b中，155次真实学生问诊暴露出在获取安全关键信息方面的系统性缺失。"
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01883-1/MediaObjects/43856_2026_1883_Fig1_HTML.png"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig2_HTML.png",
+                "cap": "Fig. 2: 三层AI-SP系统提示词设计。"
               },
               {
                 "t": "p",
-                "x": "EpiSemoLLM基于1,372对经手术证实的症状学–EZ配对数据开发而成，数据来自392项已发表研究以及Far Eastern Memorial Hospital的一个队列；该模型将参数高效微调与结构化癫痫知识和基于文献的证据检索相结合。"
-              },
-              {
-                "t": "p",
-                "x": "在参与评估的语言模型中，它的整体定位表现最强，并在保留队列中优于癫痫专家的中位水平；在Taipei Veterans General Hospital的83例外部队列中也得到了相似结果。"
-              },
-              {
-                "t": "p",
-                "x": "临床医生在额叶和岛叶定位方面表现更好。在进入常规临床应用之前，还需要前瞻性验证。"
+                "x": "在Phase 2三臂试点随机研究（n = 58）中，AI-SP训练带来的OSCE成绩提升与真人SP训练相比无显著差异；该试验旨在估计效应量，而非证明等效性。自我效能提升在AI-SPs组数值上最大，但经多重比较校正后不再显著。"
               }
             ]
           }
         },
         "es": {
-          "headline": "EpiSemoLLM localiza zonas\nepileptógenas por la semiología",
-          "body": "EpiSemoLLM superó al epileptólogo mediano al localizar zonas epileptógenas por la semiología en una cohorte reservada.",
-          "mini_headline": "Un LLM localiza el origen de las crisis",
+          "headline": "Pacientes estandarizados de AI\nsometidos a prueba aleatoria",
+          "body": "Pacientes estandarizados de AI LLM-driven abordan el costo y la dependencia de actores en formación comunicativa.",
+          "mini_headline": "Pacientes de AI para la formación clínica",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig1_HTML.png",
+                "cap": "Fig. 1: Visión general de la arquitectura AI-SP y de la evaluación en tres fases."
+              },
+              {
                 "t": "p",
-                "x": "La semiología de las crisis ofrece pistas para localizar la zona epileptógena (EZ) en la epilepsia focal farmacorresistente, pero su interpretación varía entre clínicos e instituciones."
+                "x": "Los pacientes estandarizados (SPs) son fundamentales en la formación en comunicación clínica, pero siguen limitados por el costo, la escalabilidad y la dependencia de actores capacitados. Los autores presentan los pacientes estandarizados de AI (AI-SPs), simuladores impulsados por modelos de lenguaje grandes y construidos sobre una arquitectura de información de tres capas que modula de forma adaptativa la revelación de información según la habilidad del estudiante."
+              },
+              {
+                "t": "p",
+                "x": "En la Fase 1, la evaluación ciega por expertos de 350 consultas simuladas generadas por cinco LLMs de frontera mostró que el nivel de habilidad del estudiante explicaba más variación en el desempeño que la elección del modelo (η2 = 0.31 vs. 0.06). En la Fase 1b, 155 consultas en vivo con estudiantes revelaron fallos sistemáticos para obtener información crítica para la seguridad."
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01883-1/MediaObjects/43856_2026_1883_Fig1_HTML.png"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig2_HTML.png",
+                "cap": "Fig. 2: El diseño de tres capas del prompt de sistema de AI-SP."
               },
               {
                 "t": "p",
-                "x": "EpiSemoLLM se desarrolló a partir de 1,372 pares semiología–EZ verificados quirúrgicamente, procedentes de 392 estudios publicados y de una cohorte del Far Eastern Memorial Hospital, y combina un ajuste fino eficiente en parámetros con conocimiento estructurado sobre epilepsia y recuperación de evidencia basada en la literatura."
-              },
-              {
-                "t": "p",
-                "x": "Logró la mejor localización global entre los modelos de lenguaje evaluados y superó al epileptólogo mediano en la cohorte reservada, con resultados similares en una cohorte externa de 83 casos del Taipei Veterans General Hospital."
-              },
-              {
-                "t": "p",
-                "x": "Los clínicos obtuvieron mejores resultados en la localización frontal e insular. Se necesita validación prospectiva antes de su uso clínico rutinario."
+                "x": "En un estudio piloto aleatorizado de tres brazos de la Fase 2 (n = 58), las mejoras en el desempeño en el OSCE con la formación con AI-SP no difirieron significativamente de las obtenidas con la formación con SP humanos; el ensayo se diseñó para estimar tamaños del efecto, no para demostrar equivalencia. Las mejoras en autoeficacia fueron numéricamente mayores con los AI-SPs, pero no se mantuvieron tras la corrección por comparaciones múltiples."
               }
             ]
           }
@@ -1289,433 +1406,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "EpiSemoLLM 발작\n증상으로 발생 부위 찾기",
-          "body": "EpiSemoLLM이 발작 증상으로 뇌전증 병소를 전문의 중앙값보다 잘 찾았다.",
-          "mini_headline": "LLM이 발작 기원 위치 찾아",
+          "headline": "AI 표준화 환자,\n무작위 시험대에 올라",
+          "body": "LLM-driven AI 표준화 환자가 임상 소통교육의 비용·배우 한계를 겨냥한다.",
+          "mini_headline": "임상 교육용 AI 환자",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig1_HTML.png",
+                "cap": "Fig. 1: AI-SP 아키텍처와 세 단계 평가 개요."
+              },
+              {
                 "t": "p",
-                "x": "발작 증상학은 약물 저항성 국소 뇌전증에서 뇌전증 유발 영역(EZ)을 찾는 단서가 되지만, 그 해석은 임상의와 기관마다 다르다."
+                "x": "표준화 환자(SPs)는 임상 소통 교육의 핵심이지만 비용, 확장성, 훈련된 배우에 대한 의존이라는 제약을 안고 있다. 저자들은 학습자 숙련도에 따라 정보 공개 수준을 적응적으로 조절하는 세 층 정보 아키텍처 기반의 대규모 언어 모델 구동 시뮬레이터, AI 표준화 환자(AI-SPs)를 제시한다."
+              },
+              {
+                "t": "p",
+                "x": "Phase 1에서는 다섯 개의 프런티어 LLMs가 생성한 모의 상담 350건을 전문가가 블라인드로 평가했는데, 성과 차이를 더 많이 설명한 것은 모델 선택보다 학습자 숙련도였다(η2 = 0.31 vs. 0.06). Phase 1b에서는 학생들의 실제 상담 155건에서 안전에 결정적인 정보를 끌어내지 못하는 체계적 실패가 드러났다."
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01883-1/MediaObjects/43856_2026_1883_Fig1_HTML.png"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig2_HTML.png",
+                "cap": "Fig. 2: 세 층으로 이뤄진 AI-SP 시스템 프롬프트 설계."
               },
               {
                 "t": "p",
-                "x": "EpiSemoLLM은 392편의 발표 연구와 Far Eastern Memorial Hospital 코호트에서 모은, 수술로 확인된 증상학–EZ 쌍 1,372개로 개발했다. 파라미터 효율적 미세조정에 구조화된 뇌전증 지식과 문헌 기반 근거 검색을 결합했다."
-              },
-              {
-                "t": "p",
-                "x": "평가한 언어모델 가운데 전반적 위치 추정 성능이 가장 높았고, 홀드아웃 코호트에서 뇌전증 전문의 중앙값보다 좋은 성적을 냈다. Taipei Veterans General Hospital의 83건 외부 코호트에서도 비슷한 결과가 나왔다."
-              },
-              {
-                "t": "p",
-                "x": "전두엽과 섬엽 위치 추정에서는 임상의가 더 나았다. 일상 진료에 쓰려면 전향적 검증이 필요하다."
+                "x": "Phase 2의 세 군 파일럿 무작위 연구(n = 58)에서 AI-SP 훈련으로 얻은 OSCE 성적 향상은 인간 SP 훈련과 유의한 차이가 없었다. 이 시험은 동등성 입증이 아니라 효과 크기 추정을 위해 설계됐다. 자기효능감 향상은 수치상 AI-SPs에서 가장 컸지만, 다중 비교 보정 후에는 유의성이 사라졌다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EpiSemoLLMが\n発作症状から焦点推定",
-          "body": "EpiSemoLLMは発作症状からてんかん原性領域の特定で専門医の中央値を上回った。",
-          "mini_headline": "LLMが発作の起源を推定",
+          "headline": "AI標準模擬患者、\n無作為化試験で検証",
+          "body": "LLM-drivenのAI標準模擬患者が、臨床対話教育のコストと俳優頼みの限界に挑む。",
+          "mini_headline": "臨床教育向けAI患者",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig1_HTML.png",
+                "cap": "Fig. 1: AI-SPのアーキテクチャと三段階評価の概要。"
+              },
+              {
                 "t": "p",
-                "x": "発作症候学は、薬剤抵抗性焦点てんかんにおけるてんかん原性領域(EZ)の局在を推定する手がかりとなるが、その解釈は臨床医や施設によって異なる。"
+                "x": "標準模擬患者（SPs）は臨床コミュニケーション教育の中核だが、コスト、拡張性、訓練を受けた俳優への依存という制約を抱えている。著者らは、学習者のスキルに応じて情報開示を適応的に調整する三層の情報アーキテクチャに基づく、大規模言語モデル駆動のシミュレーター「AI標準模擬患者（AI-SPs）」を提示する。"
+              },
+              {
+                "t": "p",
+                "x": "Phase 1では、五つのフロンティアLLMsが生成した350件の模擬診察を専門家が盲検で評価した結果、成績のばらつきはモデルの選択よりも学習者のスキルレベルでより多く説明された（η2 = 0.31 vs. 0.06）。Phase 1bでは、155件の学生による実際の診察で、安全上重要な情報を引き出せない系統的な失敗が明らかになった。"
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01883-1/MediaObjects/43856_2026_1883_Fig1_HTML.png"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig2_HTML.png",
+                "cap": "Fig. 2: 三層構造のAI-SPシステムプロンプト設計。"
               },
               {
                 "t": "p",
-                "x": "EpiSemoLLMは、392件の既発表研究とFar Eastern Memorial Hospitalのコホートから集めた、手術で確認された症候学–EZのペア1,372組をもとに開発された。パラメータ効率の高いファインチューニングに、構造化されたてんかん知識と文献に基づくエビデンス検索を組み合わせている。"
-              },
-              {
-                "t": "p",
-                "x": "評価した言語モデルの中で全体の局在推定性能が最も高く、ホールドアウトコホートではてんかん専門医の中央値を上回った。Taipei Veterans General Hospitalの83例による外部コホートでも同様の結果が得られた。"
-              },
-              {
-                "t": "p",
-                "x": "前頭葉と島の局在推定では臨床医の方が優れていた。日常診療で使うには前向きな検証が必要だ。"
+                "x": "Phase 2の三群パイロット無作為化研究（n = 58）では、AI-SPトレーニングによるOSCE成績の向上は、人間のSPによるトレーニングと有意な差がなかった。この試験は同等性の証明ではなく、効果量の推定を目的に設計された。自己効力感の向上は数値上AI-SPsで最も大きかったが、多重比較の補正後には有意性が残らなかった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "EpiSemoLLM\n据发作症状定位致痫区",
-          "body": "在保留队列中，EpiSemoLLM依据发作症状定位致痫区的表现优于癫痫专家中位水平。",
-          "mini_headline": "LLM定位癫痫发作起源",
+          "headline": "AI标准化病人\n接受随机试验检验",
+          "body": "LLM-driven的AI标准化病人，瞄准临床沟通培训的成本与演员依赖难题。",
+          "mini_headline": "用于临床培训的AI病人",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig1_HTML.png",
+                "cap": "Fig. 1: AI-SP架构与三阶段评估概览。"
+              },
+              {
                 "t": "p",
-                "x": "在药物难治性局灶性癫痫中，发作症状学可为定位致痫区(EZ)提供线索，但不同临床医生和机构对其解读不一。"
+                "x": "标准化病人（SPs）是临床沟通培训的核心，但仍受限于成本、可扩展性以及对受训演员的依赖。作者提出AI标准化病人（AI-SPs），这是一种由大语言模型驱动的模拟器，基于三层信息架构，可根据学习者的技能水平自适应地调节信息披露。"
+              },
+              {
+                "t": "p",
+                "x": "在Phase 1中，专家对五个前沿LLMs生成的350次模拟问诊进行盲法评估，结果显示，学习者技能水平对表现差异的解释度高于模型选择（η2 = 0.31 vs. 0.06）。在Phase 1b中，155次真实学生问诊暴露出在获取安全关键信息方面的系统性缺失。"
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01883-1/MediaObjects/43856_2026_1883_Fig1_HTML.png"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig2_HTML.png",
+                "cap": "Fig. 2: 三层AI-SP系统提示词设计。"
               },
               {
                 "t": "p",
-                "x": "EpiSemoLLM基于1,372对经手术证实的症状学–EZ配对数据开发而成，数据来自392项已发表研究以及Far Eastern Memorial Hospital的一个队列；该模型将参数高效微调与结构化癫痫知识和基于文献的证据检索相结合。"
-              },
-              {
-                "t": "p",
-                "x": "在参与评估的语言模型中，它的整体定位表现最强，并在保留队列中优于癫痫专家的中位水平；在Taipei Veterans General Hospital的83例外部队列中也得到了相似结果。"
-              },
-              {
-                "t": "p",
-                "x": "临床医生在额叶和岛叶定位方面表现更好。在进入常规临床应用之前，还需要前瞻性验证。"
+                "x": "在Phase 2三臂试点随机研究（n = 58）中，AI-SP训练带来的OSCE成绩提升与真人SP训练相比无显著差异；该试验旨在估计效应量，而非证明等效性。自我效能提升在AI-SPs组数值上最大，但经多重比较校正后不再显著。"
               }
             ]
           }
         },
         "es": {
-          "headline": "EpiSemoLLM localiza zonas\nepileptógenas por la semiología",
-          "body": "EpiSemoLLM superó al epileptólogo mediano al localizar zonas epileptógenas por la semiología en una cohorte reservada.",
-          "mini_headline": "Un LLM localiza el origen de las crisis",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "La semiología de las crisis ofrece pistas para localizar la zona epileptógena (EZ) en la epilepsia focal farmacorresistente, pero su interpretación varía entre clínicos e instituciones."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43856-026-01883-1/MediaObjects/43856_2026_1883_Fig1_HTML.png"
-              },
-              {
-                "t": "p",
-                "x": "EpiSemoLLM se desarrolló a partir de 1,372 pares semiología–EZ verificados quirúrgicamente, procedentes de 392 estudios publicados y de una cohorte del Far Eastern Memorial Hospital, y combina un ajuste fino eficiente en parámetros con conocimiento estructurado sobre epilepsia y recuperación de evidencia basada en la literatura."
-              },
-              {
-                "t": "p",
-                "x": "Logró la mejor localización global entre los modelos de lenguaje evaluados y superó al epileptólogo mediano en la cohorte reservada, con resultados similares en una cohorte externa de 83 casos del Taipei Veterans General Hospital."
-              },
-              {
-                "t": "p",
-                "x": "Los clínicos obtuvieron mejores resultados en la localización frontal e insular. Se necesita validación prospectiva antes de su uso clínico rutinario."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "medicine-elucid-ffr-iq-fda",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Elucid FFR-IQ\nFDA 승인 관상동맥 AI",
-      "body": "FDA가 Elucid의 관상동맥 CT용 AI-based FFR-IQ를 승인했다.",
-      "mini_headline": "FDA, Elucid FFR-IQ 승인",
-      "tool": "Medicine",
-      "source": "Cardiovascular Business",
-      "url": "https://cardiovascularbusiness.com/topics/artificial-intelligence/fda-clears-elucids-new-ai-enabled-ffr-ct-software",
-      "accent": "#3b6bff",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/elucid_ffr-iq_ffr-ct_ai_software_3.png?h=d1699ae9&itok=WmZZy_qa"
-          },
-          {
-            "t": "p",
-            "x": "FDA가 Elucid의 FFR-IQ 소프트웨어를 승인했다. 관상동맥 CT 혈관조영술로 분획혈류예비력(FFR-CT)을 비침습적으로 추정하는 소프트웨어다. 이 AI-based 기술은 관상동맥 생리를 추정할 때 관상동맥 해부 구조와 플라크 구성까지 반영한다."
-          },
-          {
-            "t": "p",
-            "x": "Elucid는 의사들이 혈역학에 영향을 주는 다른 요인까지 고려한 더 정확한 FFR-CT 알고리즘을 원했다고 밝혔다. 이번 승인으로 Elucid는 2016년 Heartflow, 2022년 KeyaMed에 이어 U.S.에서 FFR-CT를 상용 제공하는 세 번째 업체가 됐다."
-          },
-          {
-            "t": "p",
-            "x": "승인 근거는 전체 민감도 92.2%, 특이도 93.1%를 보인 ELUCIDATE FFR-CT 연구 데이터다. 알고리즘에는 2024년 10월 승인된 Elucid의 Plaque-IQ 소프트웨어의 플라크 측정값이 쓰인다."
-          },
-          {
-            "t": "p",
-            "x": "ELUCIDATE FFR-CT 연구 결과는 11월 1일 San Diego에서 열리는 TCT 2026에서 발표된다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "FDA clears Elucid's FFR-IQ\nfor coronary assessment",
-          "body": "The FDA cleared Elucid's AI-based FFR-IQ software, which estimates fractional flow reserve from coronary CT angiography.",
-          "mini_headline": "FDA clears Elucid FFR-IQ",
+          "headline": "Pacientes estandarizados de AI\nsometidos a prueba aleatoria",
+          "body": "Pacientes estandarizados de AI LLM-driven abordan el costo y la dependencia de actores en formación comunicativa.",
+          "mini_headline": "Pacientes de AI para la formación clínica",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/elucid_ffr-iq_ffr-ct_ai_software_3.png?h=d1699ae9&itok=WmZZy_qa"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig1_HTML.png",
+                "cap": "Fig. 1: Visión general de la arquitectura AI-SP y de la evaluación en tres fases."
               },
               {
                 "t": "p",
-                "x": "The FDA has cleared Elucid's FFR-IQ software for noninvasive estimation of fractional flow reserve from coronary CT angiography (FFR-CT). The AI-based technology incorporates coronary anatomy and plaque composition into its estimate of coronary physiology."
+                "x": "Los pacientes estandarizados (SPs) son fundamentales en la formación en comunicación clínica, pero siguen limitados por el costo, la escalabilidad y la dependencia de actores capacitados. Los autores presentan los pacientes estandarizados de AI (AI-SPs), simuladores impulsados por modelos de lenguaje grandes y construidos sobre una arquitectura de información de tres capas que modula de forma adaptativa la revelación de información según la habilidad del estudiante."
               },
               {
                 "t": "p",
-                "x": "Elucid said physicians wanted a more accurate FFR-CT algorithm that considered other factors affecting hemodynamics. It is now the third vendor to offer FFR-CT commercially in the U.S., after Heartflow in 2016 and KeyaMed in 2022."
+                "x": "En la Fase 1, la evaluación ciega por expertos de 350 consultas simuladas generadas por cinco LLMs de frontera mostró que el nivel de habilidad del estudiante explicaba más variación en el desempeño que la elección del modelo (η2 = 0.31 vs. 0.06). En la Fase 1b, 155 consultas en vivo con estudiantes revelaron fallos sistemáticos para obtener información crítica para la seguridad."
               },
-              {
-                "t": "p",
-                "x": "Clearance was based on ELUCIDATE FFR-CT study data showing an overall sensitivity of 92.2% and specificity of 93.1%. The algorithm draws on plaque measurements from Elucid's Plaque-IQ software, cleared in October 2024."
-              },
-              {
-                "t": "p",
-                "x": "Results of the ELUCIDATE FFR-CT study will be presented Nov. 1 at TCT 2026 in San Diego."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Elucid FFR-IQ\nFDA 승인 관상동맥 AI",
-          "body": "FDA가 Elucid의 관상동맥 CT용 AI-based FFR-IQ를 승인했다.",
-          "mini_headline": "FDA, Elucid FFR-IQ 승인",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/elucid_ffr-iq_ffr-ct_ai_software_3.png?h=d1699ae9&itok=WmZZy_qa"
+                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig2_HTML.png",
+                "cap": "Fig. 2: El diseño de tres capas del prompt de sistema de AI-SP."
               },
               {
                 "t": "p",
-                "x": "FDA가 Elucid의 FFR-IQ 소프트웨어를 승인했다. 관상동맥 CT 혈관조영술로 분획혈류예비력(FFR-CT)을 비침습적으로 추정하는 소프트웨어다. 이 AI-based 기술은 관상동맥 생리를 추정할 때 관상동맥 해부 구조와 플라크 구성까지 반영한다."
-              },
-              {
-                "t": "p",
-                "x": "Elucid는 의사들이 혈역학에 영향을 주는 다른 요인까지 고려한 더 정확한 FFR-CT 알고리즘을 원했다고 밝혔다. 이번 승인으로 Elucid는 2016년 Heartflow, 2022년 KeyaMed에 이어 U.S.에서 FFR-CT를 상용 제공하는 세 번째 업체가 됐다."
-              },
-              {
-                "t": "p",
-                "x": "승인 근거는 전체 민감도 92.2%, 특이도 93.1%를 보인 ELUCIDATE FFR-CT 연구 데이터다. 알고리즘에는 2024년 10월 승인된 Elucid의 Plaque-IQ 소프트웨어의 플라크 측정값이 쓰인다."
-              },
-              {
-                "t": "p",
-                "x": "ELUCIDATE FFR-CT 연구 결과는 11월 1일 San Diego에서 열리는 TCT 2026에서 발표된다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Elucid FFR-IQ\nFDA承認、冠動脈を評価",
-          "body": "FDAがElucidの冠動脈CT向けAI-based FFR-IQを承認した。",
-          "mini_headline": "FDA、Elucid FFR-IQを承認",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/elucid_ffr-iq_ffr-ct_ai_software_3.png?h=d1699ae9&itok=WmZZy_qa"
-              },
-              {
-                "t": "p",
-                "x": "FDAは、冠動脈CT血管造影から血流予備量比を非侵襲的に推定する(FFR-CT)ElucidのFFR-IQソフトウェアを承認した。このAI-based技術は、冠動脈の解剖とプラーク組成を冠動脈生理の推定に組み込む。"
-              },
-              {
-                "t": "p",
-                "x": "Elucidによると、医師たちは血行動態に影響する他の要因も考慮した、より正確なFFR-CTアルゴリズムを求めていた。同社は2016年のHeartflow、2022年のKeyaMedに続き、U.S.でFFR-CTを商用提供する三社目のベンダーとなった。"
-              },
-              {
-                "t": "p",
-                "x": "承認は、全体の感度92.2%、特異度93.1%を示したELUCIDATE FFR-CT試験のデータに基づく。アルゴリズムは、2024年10月に承認されたElucidのPlaque-IQソフトウェアによるプラーク測定値を活用している。"
-              },
-              {
-                "t": "p",
-                "x": "ELUCIDATE FFR-CT試験の結果は、11月1日にSan Diegoで開かれるTCT 2026で発表される。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Elucid FFR-IQ\n获FDA批准评估冠脉",
-          "body": "FDA批准Elucid的AI-based软件FFR-IQ，可由冠脉CT估算血流储备分数。",
-          "mini_headline": "FDA批准Elucid FFR-IQ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/elucid_ffr-iq_ffr-ct_ai_software_3.png?h=d1699ae9&itok=WmZZy_qa"
-              },
-              {
-                "t": "p",
-                "x": "FDA已批准Elucid的FFR-IQ软件，用于通过冠状动脉CT血管造影无创估算血流储备分数(FFR-CT)。这项AI-based技术在估算冠脉生理时纳入了冠脉解剖结构和斑块成分。"
-              },
-              {
-                "t": "p",
-                "x": "Elucid表示，医生希望有一种更准确、能考虑影响血流动力学其他因素的FFR-CT算法。继2016年的Heartflow和2022年的KeyaMed之后，该公司成为第三家在U.S.商业化提供FFR-CT的厂商。"
-              },
-              {
-                "t": "p",
-                "x": "此次批准基于ELUCIDATE FFR-CT研究数据，其总体灵敏度为92.2%，特异度为93.1%。该算法利用了Elucid于2024年10月获批的Plaque-IQ软件的斑块测量数据。"
-              },
-              {
-                "t": "p",
-                "x": "ELUCIDATE FFR-CT研究结果将于11月1日在San Diego举行的TCT 2026上公布。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La FDA autoriza FFR-IQ de Elucid\npara evaluar las coronarias",
-          "body": "La FDA autorizó FFR-IQ, software AI-based de Elucid que estima la reserva fraccional de flujo por CT coronaria.",
-          "mini_headline": "La FDA autoriza el FFR-IQ de Elucid",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/elucid_ffr-iq_ffr-ct_ai_software_3.png?h=d1699ae9&itok=WmZZy_qa"
-              },
-              {
-                "t": "p",
-                "x": "La FDA autorizó el software FFR-IQ de Elucid para la estimación no invasiva de la reserva fraccional de flujo a partir de la angiografía por CT coronaria (FFR-CT). Esta tecnología AI-based incorpora la anatomía coronaria y la composición de la placa en su estimación de la fisiología coronaria."
-              },
-              {
-                "t": "p",
-                "x": "Elucid afirmó que los médicos querían un algoritmo de FFR-CT más preciso que considerara otros factores que influyen en la hemodinámica. Ahora es el tercer proveedor que ofrece FFR-CT comercialmente en U.S., después de Heartflow en 2016 y KeyaMed en 2022."
-              },
-              {
-                "t": "p",
-                "x": "La autorización se basó en datos del estudio ELUCIDATE FFR-CT, que mostraron una sensibilidad global del 92.2% y una especificidad del 93.1%. El algoritmo utiliza las mediciones de placa del software Plaque-IQ de Elucid, autorizado en octubre de 2024."
-              },
-              {
-                "t": "p",
-                "x": "Los resultados del estudio ELUCIDATE FFR-CT se presentarán el 1 de noviembre en TCT 2026, en San Diego."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Elucid FFR-IQ\nFDA 승인 관상동맥 AI",
-          "body": "FDA가 Elucid의 관상동맥 CT용 AI-based FFR-IQ를 승인했다.",
-          "mini_headline": "FDA, Elucid FFR-IQ 승인",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/elucid_ffr-iq_ffr-ct_ai_software_3.png?h=d1699ae9&itok=WmZZy_qa"
-              },
-              {
-                "t": "p",
-                "x": "FDA가 관상동맥 CT 혈관조영술 기반 분획혈류예비력(FFR-CT)을 비침습적으로 추정하는 Elucid의 FFR-IQ 소프트웨어를 승인했다. 이 AI-based 기술은 관상동맥 해부 구조와 플라크 구성을 관상동맥 생리 추정에 반영한다."
-              },
-              {
-                "t": "p",
-                "x": "Elucid는 의사들이 혈역학에 영향을 주는 다른 요인까지 고려한, 더 정확한 FFR-CT 알고리즘을 원했다고 밝혔다. 이로써 Elucid는 2016년 Heartflow, 2022년 KeyaMed에 이어 U.S.에서 FFR-CT를 상용 제공하는 세 번째 업체가 됐다."
-              },
-              {
-                "t": "p",
-                "x": "승인은 전체 민감도 92.2%, 특이도 93.1%를 보인 ELUCIDATE FFR-CT 연구 데이터를 근거로 했다. 알고리즘은 2024년 10월 승인된 Elucid의 Plaque-IQ 소프트웨어의 플라크 측정값을 활용한다."
-              },
-              {
-                "t": "p",
-                "x": "ELUCIDATE FFR-CT 연구 결과는 11월 1일 San Diego에서 열리는 TCT 2026에서 발표한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Elucid FFR-IQ\nFDA承認、冠動脈を評価",
-          "body": "FDAがElucidの冠動脈CT向けAI-based FFR-IQを承認した。",
-          "mini_headline": "FDA、Elucid FFR-IQを承認",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/elucid_ffr-iq_ffr-ct_ai_software_3.png?h=d1699ae9&itok=WmZZy_qa"
-              },
-              {
-                "t": "p",
-                "x": "FDAは、冠動脈CT血管造影から血流予備量比を非侵襲的に推定する(FFR-CT)ElucidのFFR-IQソフトウェアを承認した。このAI-based技術は、冠動脈の解剖とプラーク組成を冠動脈生理の推定に組み込む。"
-              },
-              {
-                "t": "p",
-                "x": "Elucidによると、医師たちは血行動態に影響する他の要因も考慮した、より正確なFFR-CTアルゴリズムを求めていた。同社は2016年のHeartflow、2022年のKeyaMedに続き、U.S.でFFR-CTを商用提供する三社目のベンダーとなった。"
-              },
-              {
-                "t": "p",
-                "x": "承認は、全体の感度92.2%、特異度93.1%を示したELUCIDATE FFR-CT試験のデータに基づく。アルゴリズムは、2024年10月に承認されたElucidのPlaque-IQソフトウェアによるプラーク測定値を活用している。"
-              },
-              {
-                "t": "p",
-                "x": "ELUCIDATE FFR-CT試験の結果は、11月1日にSan Diegoで開かれるTCT 2026で発表される。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Elucid FFR-IQ\n获FDA批准评估冠脉",
-          "body": "FDA批准Elucid的AI-based软件FFR-IQ，可由冠脉CT估算血流储备分数。",
-          "mini_headline": "FDA批准Elucid FFR-IQ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/elucid_ffr-iq_ffr-ct_ai_software_3.png?h=d1699ae9&itok=WmZZy_qa"
-              },
-              {
-                "t": "p",
-                "x": "FDA已批准Elucid的FFR-IQ软件，用于通过冠状动脉CT血管造影无创估算血流储备分数(FFR-CT)。这项AI-based技术在估算冠脉生理时纳入了冠脉解剖结构和斑块成分。"
-              },
-              {
-                "t": "p",
-                "x": "Elucid表示，医生希望有一种更准确、能考虑影响血流动力学其他因素的FFR-CT算法。继2016年的Heartflow和2022年的KeyaMed之后，该公司成为第三家在U.S.商业化提供FFR-CT的厂商。"
-              },
-              {
-                "t": "p",
-                "x": "此次批准基于ELUCIDATE FFR-CT研究数据，其总体灵敏度为92.2%，特异度为93.1%。该算法利用了Elucid于2024年10月获批的Plaque-IQ软件的斑块测量数据。"
-              },
-              {
-                "t": "p",
-                "x": "ELUCIDATE FFR-CT研究结果将于11月1日在San Diego举行的TCT 2026上公布。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La FDA autoriza FFR-IQ de Elucid\npara evaluar las coronarias",
-          "body": "La FDA autorizó FFR-IQ, software AI-based de Elucid que estima la reserva fraccional de flujo por CT coronaria.",
-          "mini_headline": "La FDA autoriza el FFR-IQ de Elucid",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/elucid_ffr-iq_ffr-ct_ai_software_3.png?h=d1699ae9&itok=WmZZy_qa"
-              },
-              {
-                "t": "p",
-                "x": "La FDA autorizó el software FFR-IQ de Elucid para la estimación no invasiva de la reserva fraccional de flujo a partir de la angiografía por CT coronaria (FFR-CT). Esta tecnología AI-based incorpora la anatomía coronaria y la composición de la placa en su estimación de la fisiología coronaria."
-              },
-              {
-                "t": "p",
-                "x": "Elucid afirmó que los médicos querían un algoritmo de FFR-CT más preciso que considerara otros factores que influyen en la hemodinámica. Ahora es el tercer proveedor que ofrece FFR-CT comercialmente en U.S., después de Heartflow en 2016 y KeyaMed en 2022."
-              },
-              {
-                "t": "p",
-                "x": "La autorización se basó en datos del estudio ELUCIDATE FFR-CT, que mostraron una sensibilidad global del 92.2% y una especificidad del 93.1%. El algoritmo utiliza las mediciones de placa del software Plaque-IQ de Elucid, autorizado en octubre de 2024."
-              },
-              {
-                "t": "p",
-                "x": "Los resultados del estudio ELUCIDATE FFR-CT se presentarán el 1 de noviembre en TCT 2026, en San Diego."
+                "x": "En un estudio piloto aleatorizado de tres brazos de la Fase 2 (n = 58), las mejoras en el desempeño en el OSCE con la formación con AI-SP no difirieron significativamente de las obtenidas con la formación con SP humanos; el ensayo se diseñó para estimar tamaños del efecto, no para demostrar equivalencia. Las mejoras en autoeficacia fueron numéricamente mayores con los AI-SPs, pero no se mantuvieron tras la corrección por comparaciones múltiples."
               }
             ]
           }

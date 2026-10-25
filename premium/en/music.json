@@ -8571,6 +8571,134 @@
           "x": "Subscribers also get over 400 hours of tutorials and 12 free plugins a year. “Loopcloud 8 is built to help producers finish ideas faster,” says Loopmasters CEO Matt Pelling. It is available now at £7.95 / $10.95 / €9.95 per month, with a 14-day free trial."
         }
       ]
+    },
+    "music/music-komca-ai-filings": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.tf.co.kr/article/home/2026/10/19/20262121179241237300.jpg",
+          "cap": "Pictured: Meomureu's AI-made 'Did I Become the Adult I Dreamed Of?' at No. 1 on YouTube's daily popular music video chart. / YouTube Charts"
+        },
+        {
+          "t": "p",
+          "x": "Copyright filings for music made with generative artificial intelligence (AI) submitted to the Korea Music Copyright Association (KOMCA) jumped about 500% in 1 year. Yet all 892 filings received from last year through this year remain unregistered."
+        },
+        {
+          "t": "p",
+          "x": "According to data the office of People Power Party lawmaker Yoon Yong-geun obtained from the Ministry of Culture, Sports and Tourism, filings rose from 133 in 2025 to 759 as of September this year — about 5.7 times, an increase of roughly 471%."
+        },
+        {
+          "t": "p",
+          "x": "KOMCA classified all 892 filings as unregistered. Obstacles include the lack of a clear standard for how far human creative contribution should be recognized. \"For now, we rely heavily on filers' voluntary disclosure and confirmation guarantees to determine whether AI was used,\" KOMCA said, adding that \"AI use ranges from simple prompt input to melody editing, arrangement and correction, so it is hard to apply a uniform standard.\""
+        },
+        {
+          "t": "p",
+          "x": "The Korea Society of Composers, Authors and Publishers (KOSCAP) said measures are needed on whether works are used for AI training and on protecting rights. Yoon stressed that \"a reasonable standard must be set so that copyright trust management and distribution can be fair,\" and the ministry said a discussion involving the National Assembly, rights-holder groups, distributors and creators is needed."
+        }
+      ]
+    },
+    "music/music-neutune-tal-dj": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wowtale.net/wp-content/uploads/2026/10/neutune-20261018-article-3dde75.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Park Seung-soon, co-founder and CCO of artificial intelligence (AI) music tech startup Neutune and a new-media artist, announced on the 19th plans to take part in 'Amsterdam Dance Event (ADE) 2026', held from the 21st to the 25th in Amsterdam, the Netherlands, and unveil the audiovisual agent DJ project 'Tal' for the first time."
+        },
+        {
+          "t": "p",
+          "x": "The 'Tal' project was planned and produced under the Korea Creative Content Agency's '2026 AI Content Production Support Program'. Inspired by traditional Korean masks such as Cheoyong, Bangsangsi, the monkey and Bune, it is an AI agent character that evolves by learning gugak (traditional Korean music), K-Pop and EDM on its own."
+        },
+        {
+          "t": "p",
+          "x": "Park will hold the first showcase, titled 'K-EDM Vol.1', at the Andaz hotel at 7 p.m. local time on October 21. The roughly 30-minute audiovisual performance is built on 3D visual assets featuring 4 traditional masks and an underwater palace (Sugung). Betty, a member of XD:I, takes the stage as the live DJ."
+        },
+        {
+          "t": "p",
+          "x": "Neutune joins as a technology partner and will present its AI music solutions 'NeuSynth', 'MixAudio' and 'musicDNA'. \"NeuSynth, Neutune's audio AI technology solution, played a key role in building the agent 'Tal',\" Park said."
+        }
+      ]
+    },
+    "music/music-mono-stereo-upmix-flows": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Mono-to-stereo upmixing means generating a high-fidelity two-channel stereo signal from a single-channel recording. The task is ill-posed: many stereo signals are consistent with a given mono recording, so an upmixer must generate a realistic, musically coherent stereo image while preserving the underlying audio."
+        },
+        {
+          "t": "p",
+          "x": "Previous approaches relied on signal-processing driven decorrelation, ambience extraction and supervised learning, offering limited spatial control or requiring task-specific training. The authors propose Aura (Audio Upmixing using Reward-tilted Flows), which reformulates upmixing as a generative inverse problem using a pretrained flow prior."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.15967v1/Figures/two_stage_sampler.png",
+          "cap": "Figure 1: the flow predicts a clean sample, then likelihood and reward gradients move it towards measurement fidelity and spatial consistency."
+        },
+        {
+          "t": "p",
+          "x": "For controllable spatial imaging, a reward-tilted posterior sampler penalizes divergences between generated and target distributions of inter-channel cues. Composing forward operators enables joint restoration and upmixing without retraining or fine-tuning. Objective and subjective evaluations on real-world music recordings from MUSDB18-HQ show the method's effectiveness relative to several baselines."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.15967v1/Figures/boxplots_participant.png",
+          "cap": "Figure 2: Subjective tests across baselines"
+        }
+      ]
+    },
+    "music/music-flomss-stem-separation": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "FLOMSS: Generative Music Source Separation by Flow Matching, by Shuyang Cui, Yuki Mitsufuji and 11 co-authors, was submitted to arXiv on 13 Oct 2026."
+        },
+        {
+          "t": "p",
+          "x": "Music source separation (MSS) has been conventionally addressed by discriminative methods. Flow matching has recently emerged as a strong generative paradigm, and the authors systematically investigate it for MSS in a four-source (Vocals, Bass, Drums, Other) setting in full-band stereo."
+        },
+        {
+          "t": "p",
+          "x": "They study prediction targets, flow paths, single-source versus multi-source modeling, and mixture consistency constraints. Beyond signal-to-distortion ratio, they evaluate MSS methods with spectral and embedding-based metrics as well as a listening test, providing a comprehensive benchmark."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.17821v2/midpoint_sampler_metrics_singlecol_OTCFM.svg",
+          "cap": "Figure 1: Stepwise behavior of OT-CFM-x for Vocals across Midpoint ODE solver steps. Dashed gray lines indicate the discriminative baseline."
+        },
+        {
+          "t": "p",
+          "x": "On MUSDB18-HQ, FLOMSS surpasses prior generative methods and a same-backbone discriminative baseline on spectral and embedding-based metrics. It also improves Mel and FD over strong discriminative methods, although SDR remains lower."
+        },
+        {
+          "t": "p",
+          "x": "The authors identify a distributional–reconstruction trade-off in generative MSS and present FLOMSS as an open-source framework, with code to be released upon acceptance. A demo is available at ik4sumii.github.io/FLOMSS."
+        }
+      ]
+    },
+    "music/music-elvis-anthropic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/GettyImages-151373495.jpg?w=1600&h=900&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "The owners of Elvis Presley's music have sued AI company Anthropic, accusing it of training its models on Presley's music without permission. Billboard first reported that Authentic Brands Group, the licensing group that controls the King's music and likeness, filed the lawsuit Friday, alleging that Anthropic, the company behind Claude, infringed on the rights of 274 Presley songs."
+        },
+        {
+          "t": "p",
+          "x": "AI companies have previously faced suits from record labels and the RIAA, but this is one of the first major cases in which an artist's estate has taken legal action against an AI company."
+        },
+        {
+          "t": "p",
+          "x": "The ABE EPE LLC v. Anthropic complaint says the company trained on 274 songs, from hits like \"All Shook Up,\" \"Can't Help Falling in Love\" and \"Don't Be Cruel\" to lesser-known tracks, and seeks $150,000 per infringed track, or roughly $41 million."
+        },
+        {
+          "t": "p",
+          "x": "The suit claims that even after Anthropic added guardrails, Claude recreated specific songs \"for a modern audience\" when asked. Lead attorney Richard Busch, who worked on the Marvin Gaye estate's \"Blurred Lines\" case, argues Anthropic is using the songs to create \"unlicensed derivative works.\""
+        }
+      ]
     }
   }
 }

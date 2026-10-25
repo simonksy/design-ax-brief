@@ -11412,6 +11412,108 @@
           "x": "성명은 서명자 명단과 함께 온라인에 실린다. 지금 서명하려면 아래 양식을 내면 된다."
         }
       ]
+    },
+    "books/books-linemanga-byus-chat": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/00_l.jpg"
+        },
+        {
+          "t": "p",
+          "x": "LINE Digital Frontier는 10월 19일 전자 코믹 서비스 ‘LINE망가’에 AI 스토리 채팅 ‘byUs(바이어스)’를 출시했다."
+        },
+        {
+          "t": "p",
+          "x": "‘byUs’에서는 사용자가 원작 스토리의 주인공이 되어 자기만의 이야기를 만든다. 오리지널·독점 연재작을 바탕으로 공식이 제공하는 ‘Official Story’, 사용자가 직접 만드는 ‘팬 스토리’ 2가지가 있고, 캐릭터와 주고받으며 새 이야기를 엮어 간다."
+        },
+        {
+          "t": "p",
+          "x": "Official Story에서는 원작의 세계관과 캐릭터 설정으로 짠 도입부가 끝나면 사용자가 캐릭터와 대화하며 새 이야기를 펼친다. 팬 스토리는 원작 캐릭터로 새로운 상황과 관계를 설정해 창작 스토리를 즐기는 방식이다. 직접 만든 팬 스토리는 다른 사용자에게 공개할 수도 있다."
+        },
+        {
+          "t": "p",
+          "x": "‘byUs’는 대화를 매끄럽게 이어 주는 ‘추천 답변’과 ‘오토플레이’, 장면에 맞는 이미지를 띄우는 ‘스냅샷’, 호감도 레벨에 따라 이미지를 차례로 여는 ‘스페셜 컷’ 같은 기능도 갖췄다."
+        },
+        {
+          "t": "p",
+          "x": "대상 작품은 원작자가 승인한 공식 IP로 한정된다. 제1탄에는 ‘옆자리 엔지니어 씨가 이직하고 싶은 모양입니다.’(원작 Woo Si-mok, 작화 Lee Ha-an)의 조이와 에스더, ‘작전명은 순정’(글 kkokkalee, 그림 Dledumb)의 다치바나 렌(橘蓮)과 모모타니 레오(百谷玲央)가 들어갔고, 캐릭터는 앞으로 더 늘린다."
+        },
+        {
+          "t": "img",
+          "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/1_l.png"
+        },
+        {
+          "t": "img",
+          "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/2_l.png"
+        }
+      ]
+    },
+    "books/books-lrb-shelf-ai-novels": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Alfred Nunney가 일하는 서점의 단골이 Penguin이 2018년에 낸 Giorgio Bassani의 The Novel of Ferrara 단권판을 그에게 보여 줬다. 지금은 Finzi-Continis의 정원만큼 구하기 힘든 책이다."
+        },
+        {
+          "t": "p",
+          "x": "영국(UK), 네덜란드, 북미의 중고 서점들에 이상한 대량 주문이 들어오고, 희귀서와 무명 도서가 갑자기 많이 팔린다. 대규모 언어 모델을 학습시킬 사람의 글을 찾는 AI 기업들이 주문한 것으로 추정된다."
+        },
+        {
+          "t": "p",
+          "x": "처음엔 ‘그림자 도서관’의 해적판 책을 썼다. 이 일로 Anthropic은 작가·출판사와 15억 달러 규모로 합의했고, OpenAI를 상대로 한 집단소송은 아직 진행 중이다. Anthropic은 이후 Google Books 출신 Tom Turvey를 ‘Project Panama’에 영입했다. ‘세상의 모든 책을 파괴적으로 스캔하려는 우리의 노력’이라는 이 프로젝트는 책등을 잘라 내 스캔한 뒤 책을 펄프로 만든다."
+        },
+        {
+          "t": "p",
+          "x": "Novelcrafter와 Sudowrite 같은 도구는 AI로 줄거리 구성과 편집을 거든다. Sudowrite의 월 $22 ‘professional’ 요금제는 ‘삼십 일 만에 소설 쓰기’를 노리는 사람용이다."
+        },
+        {
+          "t": "p",
+          "x": "Nunney의 사장은 수요가 분명하고 표시만 명확하면 AI 소설도 팔겠다고 했다. 손님들 반응은 갈린다. 펄쩍 뛰며 반대하거나, 어깨를 으쓱하며 ‘차이를 모르겠다’고 한다. 추천을 부탁받으면 Nunney는 여전히 Bassani를 권한다."
+        }
+      ]
+    },
+    "books/books-sadek-creative-roi": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/dfg.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Shimmr AI 창업자 겸 CEO이자 『Shimmer, Don’t Shake – How Publishing Can Embrace AI』의 저자 Nadim Sadek은 AI가 인간의 창의성에 진정한 가치를 더할 수 있다는 점을 이제 업계가 인정해야 한다고 썼다."
+        }
+      ]
+    },
+    "books/books-patrick-white-publishing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://live-production.wcms.abc-cdn.net.au/9666b581058d1af9ec9592941fe71f8a?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+          "cap": "Patrick White Publishing의 AI-generated 홍보 이미지. (Patrick White Publishing)"
+        },
+        {
+          "t": "p",
+          "x": "온라인 후기는 좋지만 작가들은 Patrick White Publishing의 서비스 품질이 낮고 부정적인 댓글을 지우라는 압박까지 받았다고 비판한다. 회사는 AI-generated 삽화 값으로 작가들에게 수백 달러씩 받기도 한다."
+        },
+        {
+          "t": "p",
+          "x": "Mudgee의 작가 Kerry Stewart는 $500를 냈지만 편집 과정에서 오히려 오류가 생겼다고 말한다. Melbourne의 작가 Tulin Salis는 $400 견적을 받은 뒤 $1899짜리 \"5-Star Ghostwriting Bundle\"을 제안받았다."
+        },
+        {
+          "t": "img",
+          "src": "https://live-production.wcms.abc-cdn.net.au/b06a09fe7be41183eb456f5c77af5584?impolicy=wcms_crop_resize&cropH=1077&cropW=1615&xPos=0&yPos=41&width=862&height=575",
+          "cap": "Hobart에 있는 Patrick White Publishing의 Google 등록 정보에 뜨는 AI-generated 이미지. (Patrick White Publishing)"
+        },
+        {
+          "t": "p",
+          "x": "Google Maps에 올라온 Hobart 매장 이미지를 OpenAI 도구로 확인하면 OpenAI 소프트웨어로 만들었다는 워터마크가 나온다. 회사 웹사이트의 일부 책 표지에서도 OpenAI와 Google Gemini의 워터마크가 검출됐다. ABC가 검토한 작가 계약서에는 AI 삽화를 언급한 대목이 없다."
+        },
+        {
+          "t": "p",
+          "x": "회사는 관계없는 업체의 ABN을 쓰고, Patrick White의 문학 유산 관리 측은 이름 사용을 멈추라고 요구했다. Patrick White Publishing은 ABC의 논평 요청에 답하지 않았다."
+        }
+      ]
     }
   }
 }

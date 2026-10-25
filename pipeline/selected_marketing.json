@@ -1,62 +1,101 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "section": "marketing",
   "picks": [
     {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "source": "The Verge",
+      "url": "https://ppc.land/google-ai-writes-positive-only-review-summaries-into-search-ads-in-4-markets/",
+      "title": "Google AI writes positive-only review summaries into Search ads in 4 markets",
+      "source": "PPC Land",
+      "category": "marketing",
       "tool": "Marketing",
       "accent": "#ff8a3d",
       "motif": "frame",
-      "rationale": "Pennsylvania's AI Deceptive Advertising Act puts a disclosure requirement on AI-generated ad creative, which changes how brands and agencies running AI-made ads in the state must label them, loopholes included.",
-      "published_iso": "2026-10-24T18:32:21+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "Pennsylvania’s AI Deceptive Advertising Act leaves a lot of loopholes."
+      "rationale": "Google's AI now writes review-summary copy into advertisers' Search ads in four markets. Advertisers can't edit it, and the help page gives no opt-out, so it changes what ad creative actually serves.",
+      "published_iso": "2026-10-25T13:42:52Z",
+      "og_image": "https://ppc.land/content/images/2026/10/google-ai-review-summaries-search-ads-positive-only-billboard-hand.jpg",
+      "excerpt": "Google is inserting AI-generated, positive-only review summaries into Search ads in four markets. Advertisers cannot edit the text, which Google shows only when it predicts better ad performance; the help page omits opt-out and sourcing details."
     },
     {
-      "url": "https://ppc.land/iab-tech-lab-extends-ai-ad-buying-standard-comments-to-november-10/",
-      "title": "IAB Tech Lab extends AI ad-buying standard comments to November 10",
-      "source": "PPC Land",
+      "url": "https://searchengineland.com/google-ads-expands-smart-bidding-exploration-to-performance-max-and-shopping-campaigns-498529",
+      "title": "Google Ads expands Smart Bidding Exploration to Performance Max and Shopping campaigns",
+      "source": "Search Engine Land",
+      "category": "marketing",
       "tool": "Marketing",
-      "accent": "#f5a623",
+      "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "IAB Tech Lab extended public comment on its 71-field agentic ad-buying draft standard to November 10, giving buyers, sellers and agent builders 49 days instead of 30 to shape how AI agents will transact media.",
-      "published_iso": "2026-10-24T16:10:29.000Z",
-      "og_image": "https://ppc.land/content/images/2026/10/iab-tech-lab-openproposal-aamp-3-comment-extension-typewriter-carriage.jpg",
-      "excerpt": "Window on the 71-field draft now runs 49 days, not 30, for buyers, sellers and agent builders. Machine-readable schemas still wait on what comments change."
+      "rationale": "AI bidding can now loosen ROAS targets by 5-30% to chase extra conversions in PMax and Shopping. That is a new bidding control advertisers have to decide on, and portfolio strategies switch it off.",
+      "published_iso": "2026-10-23T18:25:26Z",
+      "og_image": "https://searchengineland.com/wp-content/seloads/2026/10/Google-Ads-Performance-Dashboard-1.png",
+      "excerpt": "Google's Smart Bidding Exploration, which lets AI bidding loosen ROAS targets (5-30% tolerance) to chase additional conversions, now extends to Performance Max and Shopping campaigns; portfolio bid strategies switch it off."
     },
     {
-      "url": "https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-october/",
-      "title": "Explore new ways to drive your best ROI with the first Google Marketing Platform Drop",
-      "source": "Google Blog (Google Marketing Platform)",
+      "url": "https://ppc.land/google-ads-ai-tool-copies-search-campaigns-into-10-new-languages/",
+      "title": "Google Ads AI tool copies Search campaigns into 10 new languages",
+      "source": "PPC Land",
+      "category": "marketing",
       "tool": "Marketing",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "Google's first monthly Marketing Platform Drop adds a DV360 Marketplace where Gemini curates personalized media bundles for live sports and tentpole events, bought in one click, plus a Gemini-driven Search Ads 360 Home. Both put AI directly into how media is planned and bought.",
-      "published_iso": "2026-10-22T13:00:00Z",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide01_1021.max-1440x810.png",
-      "excerpt": "Google's first monthly Marketing Platform Drop adds a Display & Video 360 Marketplace where Gemini models curate personalized media bundles for live sports and tentpole events, activated in one click. It also adds a Search Ads 360 Home view that uses Gemini to consolidate insights, generate suggestions, and streamline execution."
+      "rationale": "Google's AI localization tool now clones English (US) Search campaigns into 10 more languages. Budgets copy over without currency conversion, which is a practical trap for anyone expanding paid search across markets.",
+      "published_iso": "2026-10-25T13:46:58Z",
+      "og_image": "https://ppc.land/content/images/2026/10/google-ads-ai-campaign-localization-10-languages-typewriter-speech-bubbles.jpg",
+      "excerpt": "Google Ads' AI localization tool now copies English (US) Search campaigns into 10 new languages; budgets copy across with no currency conversion, and promised Performance Max support has yet to be confirmed."
+    },
+    {
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting",
+      "title": "Cybersecurity bounty hunter says Samsung TVs use AI to record audio and screenshots for ads",
+      "source": "Tom's Hardware",
+      "category": "marketing",
+      "tool": "Marketing",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "rationale": "A researcher reverse-engineered his own TV and says an on-device AI model gathers screenshots, ad-skip behavior and soundbar audio for CTV ad targeting. The claim is attributed to him, and it goes straight at how CTV ad data gets sourced.",
+      "published_iso": "2026-10-25T10:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/EiDyWR9Yo8wN9DnMZqQdJ4-2560-80.jpg",
+      "excerpt": "A researcher who reverse-engineered his Samsung TV says it runs an on-device AI model that collects screenshots, skipped-ad behavior and audio via connected soundbars to feed ad targeting."
+    },
+    {
+      "url": "https://cn.ibtimes.com/china-ai-generated-advertising-governance-framework-1812606",
+      "title": "China Unveils AI Advertising Governance Framework to Tackle Fake Endorsements and Misleading Content",
+      "source": "IBTimes China",
+      "category": "marketing",
+      "tool": "Marketing",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "rationale": "A blue book released at the China International Advertising Festival sets a governance framework for AI-generated ads, covering multimodal detection and platform safeguards against fake AI endorsements. It shapes how AI ad creative is checked in the Chinese market.",
+      "published_iso": "2026-10-26T01:39:39+08:00",
+      "og_image": "https://d.cn.ibtimes.com/en/full/1824086/china-artificial-intelligence-digital-advertising-content-moderation.jpg",
+      "excerpt": "A blue book released at the China International Advertising Festival lays out a governance framework for AI-generated ads, including multimodal detection, platform safeguards against fake AI endorsements and stronger consumer protection."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act": {
+      "https://ppc.land/google-ai-writes-positive-only-review-summaries-into-search-ads-in-4-markets/": {
         "verdict": "new",
-        "nearest": "https://www.searchenginejournal.com/ai-in-regulated-paid-media-the-default-settings-that-put-compliance-at-risk/589188/",
+        "nearest": "https://www.seroundtable.com/google-ads-text-customization-asset-previews-42264.html",
         "new_action": ""
       },
-      "https://ppc.land/iab-tech-lab-extends-ai-ad-buying-standard-comments-to-november-10/": {
+      "https://searchengineland.com/google-ads-expands-smart-bidding-exploration-to-performance-max-and-shopping-campaigns-498529": {
         "verdict": "new",
-        "nearest": "https://digiday.com/media/why-cnn-international-is-building-for-agentic-ad-market-that-barely-exists-yet/",
+        "nearest": "https://ppc.land/google-optimises-its-own-revenue-advertisers-have-to-optimise-theirs/",
         "new_action": ""
       },
-      "https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-october/": {
+      "https://ppc.land/google-ads-ai-tool-copies-search-campaigns-into-10-new-languages/": {
         "verdict": "new",
-        "nearest": "https://www.seroundtable.com/google-ai-ads-goals-and-assets-42269.html",
+        "nearest": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+        "new_action": ""
+      },
+      "https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting": {
+        "verdict": "new",
+        "nearest": "https://www.adexchanger.com/tv/lg-and-magnite-launch-agentic-home-screen-ads-with-a-winning-nfl-quarterback/",
+        "new_action": ""
+      },
+      "https://cn.ibtimes.com/china-ai-generated-advertising-governance-framework-1812606": {
+        "verdict": "new",
+        "nearest": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
         "new_action": ""
       }
     },
-    "note": "Final: 3 picks, which meets the floor of 3; no padding. The fact-check dropped PPC Land 'IAB Europe finds 86% use AI for marketing, but only 48% have ad rules': the underlying IAB Europe study came out 2026-09-24 at DMEXCO, a month-old event and stale for the 72h window. No backfill: every remaining candidate was already rejected on content or dedup grounds. Those are the AdExchanger OpenAI creative enhancements (repeat of SER 10-21), SER Universal Cart live (repeat of TechCrunch 10-16), Omnicom and Meta Q3 earnings (business noise), Digiday Target holiday (rejected 10-22/10-24), SER Translation Tool (AI angle not stated), SER Customer Lifecycle Goals (fails delete-AI), PPC Land Google/Meta EU fine analysis (analysis of published terms changes), Adweek Tilly Norwood (interview, no action), PPC Land Meta AI terms delay (date-only follow-up, text unchanged), SER AI search studies and PPC Land AI Overviews 88% (organic SEO, one cluster). Earlier in the run, Pennsylvania was kept in marketing after politics dropped it, and the GMP Drop was added from the recovery pass. Outlets: The Verge 1, PPC Land 1, Google Blog 1."
+    "note": "Pool had 7 items. Dropped: (1) PPC Land 'search terms report adds 4 source columns for AI Max traffic', the same story as SER 'Google Ads Search Terms and Ad Combinations Report (AI Max)' (2026-10-16) and SER 'Google Ads New AI Max Columns' (2026-10-09), with no new release. (2) AdExchanger 'Q3: Omnicom's Media Business Is Growing, But Is It Agent-Proof?', earnings-call analysis and business noise, also rejected on 10-25. The PPC Land localization pick is not a repeat: yesterday's SER Translation Tool was rejected, not published, and PPC Land now states the AI angle explicitly. The Pennsylvania card (10-25) is a different jurisdiction and instrument from the China blue book. Cross-section risk: Tom's Hardware Samsung TV may also appear in gadgets, and China AI ad framework may also appear in politics; orchestrator should check before roll. Both are off-list outlets (no on-list coverage). Outlets: PPC Land 2, Search Engine Land 1, Tom's Hardware 1, IBTimes China 1."
   }
 }

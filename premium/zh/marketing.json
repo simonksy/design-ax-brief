@@ -2281,6 +2281,120 @@
           "x": "若要避免这种情况，可以在Search的Personal Intelligence功能中断开应用连接，或在Search Services Personalization设置页面中彻底关闭Personalized Recommendations。"
         }
       ]
+    },
+    "marketing/marketing-bid-exploration-pmax": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://searchengineland.com/wp-content/seloads/2026/10/Google-Ads-Performance-Dashboard-1.png"
+        },
+        {
+          "t": "p",
+          "x": "Google Ads正将Smart Bidding Exploration扩展到Performance Max和Shopping广告系列，让广告主能通过Target ROAS出价争取更多搜索机会。该功能此前适用于Search广告系列，旨在帮助广告主从符合条件、但现有出价策略可能忽略的搜索中获取更多转化。"
+        },
+        {
+          "t": "p",
+          "x": "在Performance Max中，它通过在现有符合条件的字词中探索更多搜索，扩大Search渠道的出价机会。在Shopping中，只要有Merchant Center数据源，探索即可同时用于Search和Shopping流量。Google已为两者发布新的帮助文档。"
+        },
+        {
+          "t": "p",
+          "x": "适用条件：广告系列须使用Target ROAS，且不应受预算限制。组合出价策略仅适用于Search广告系列；在Search Ads 360中，Shopping或零售Performance Max广告系列无法使用该功能。"
+        },
+        {
+          "t": "p",
+          "x": "此次更新并不保证提高转化量或改善ROAS。广告主在大幅调整出价前，应先核对适用条件并监测效果。"
+        }
+      ]
+    },
+    "marketing/marketing-ads-localize-10-languages": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/google-ads-ai-campaign-localization-10-languages-typewriter-speech-bubbles.jpg",
+          "cap": "Google Ads AI将英语Search广告系列复制成10种语言，预算不做换算"
+        },
+        {
+          "t": "p",
+          "x": "据PPC News Feed于2026年10月23日报道，Google Ads广告主现已可以使用一款AI广告系列本地化工具，将现有的英语（US）Search广告系列转换为另外10种语言之一的独立广告系列。它会翻译标题、描述、附加链接、宣传信息和关键字，去除图片中的文字，并提供可即时翻译着陆页的脚本。该工具标注为beta版。"
+        },
+        {
+          "t": "p",
+          "x": "帮助页面写道：“当你对广告系列进行本地化时，系统会创建一个全新的独立广告系列。你的原始广告系列永远不会被修改。”预算和出价会原样复制：“$100 USD的预算在本地化广告系列中仍是$100 USD的预算。”新广告系列默认以暂停（Paused）状态发布。"
+        },
+        {
+          "t": "p",
+          "x": "目标语言为荷兰语、法语、法语（加拿大）、德语、意大利语、波兰语，以及葡萄牙语和西班牙语各两种变体。页面曾承诺“从2026年9月起”支持Performance Max，但两个来源都未确认已经上线。经过选举验证（Election-verified）的客户不符合条件。"
+        }
+      ]
+    },
+    "marketing/marketing-samsung-tv-ad-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/EiDyWR9Yo8wN9DnMZqQdJ4-2560-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Reverse engineer and cybersecurity bounty hunter log4j recently found they were getting \"weirdly targeted ads\" on their 2025 Samsung TV. After reverse-engineering the Tizen OS, they live-tweeted code covering detailed user telemetry from packet logging, audio categorization, screenshots and cross-device identification for ad tracking."
+        },
+        {
+          "t": "p",
+          "x": "The hacker found a region-specific convolutional neural network (an AI) that tracks user behavior, such as what videos the user watches, which ads are skipped and video progress. For TVs without microphones, it reportedly finds connected devices such as a soundbar or Bluetooth device to record audio."
+        },
+        {
+          "t": "p",
+          "x": "Hugging Face engineer ngxson tested the microphone behavior and found the TV opened the microphone for five seconds, then stopped, though their TV was already rooted with settings disabled."
+        },
+        {
+          "t": "p",
+          "x": "log4j used OpenAI tools for the work and was banned for cyber abuse; they say they used them only for local reverse engineering. A full write-up is in progress."
+        }
+      ]
+    },
+    "marketing/marketing-china-ai-ad-blue-book": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d.cn.ibtimes.com/en/full/1824086/china-artificial-intelligence-digital-advertising-content-moderation.jpg",
+          "cap": "一份新的中国行业蓝皮书提出对AI-generated广告进行全链条治理。"
+        },
+        {
+          "t": "p",
+          "x": "据Eastmoney转载的China News Service报道，《AIGC时代互联网广告治理蓝皮书》于10月24日第33届中国国际广告节期间发布。蓝皮书提出了一个框架，覆盖从内容创作、审核到交易以及广告投放后消费者保护的全过程。"
+        },
+        {
+          "t": "p",
+          "x": "其核心建议是用AI系统识别其他AI系统带来的风险：多模态模型可以同时分析图像、文字和音频，捕捉误导性信息。Ocean Engine的Xiao Tao表示，智能审核最快可在10分钟内处理90%的广告素材，效率提升75%。"
+        },
+        {
+          "t": "p",
+          "x": "广告主仍需对其宣传内容的真实性负责，平台则保留防范伪造合成代言等风险的保障措施。蓝皮书是一套建议，并非具有约束力的新国家法律。"
+        }
+      ]
+    },
+    "marketing/marketing-pennsylvania-ai-ad-labels": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "周四，宾夕法尼亚（Pennsylvania）州州长乔希·夏皮罗（Josh Shapiro）签署了Artificial Intelligence Deceptive Advertising Act（《人工智能欺骗性广告法》），要求对AI-generated（AI生成）广告进行披露。该法规定，任何“经人工智能大幅修改或生成”的广告——无论是静态图片、视频、音频还是文字——都必须以与广告本身相同的形式附上标签。这既适用于multi-billion-dollar（数十亿美元级）企业的TV广告，也适用于餐馆宣传鸡翅特价的那些拥挤又难看的传单。"
+        },
+        {
+          "t": "p",
+          "x": "宾夕法尼亚州是首批要求对AI内容进行披露的州之一。而且无论广告在哪里制作，都需要加注标签。因此，其他州的广告如果也预计在宾夕法尼亚州播出，你可能也会在其中看到披露标识。"
+        },
+        {
+          "t": "p",
+          "x": "不过，这部法律留有诸多漏洞。首先，何为“大幅修改”带有主观性。法律还为“戏仿、讽刺、评论或批评”以及任何“明显属于虚构”的内容设置了carve-out（豁免）。同样，“明显属于虚构”的含义并不清楚。从措辞看，似乎只有在产品或服务方面“以造成消费者错误认知的方式使用合成内容”的广告才需要披露。这同样留下了疑问：依法何为“错误”，又由谁来作出判断。"
+        },
+        {
+          "t": "p",
+          "x": "提出该法案的州参议员尼克·皮肖塔诺（Nick Pisciottano）办公室未立即回复置评请求。"
+        }
+      ]
     }
   }
 }

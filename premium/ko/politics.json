@@ -3722,6 +3722,105 @@
           "x": "필자는 기업들에 선거 콘텐츠를 한층 신중하게 다루라고 촉구한다. Grok은 시험자들에게 “선거 허위정보는 금지 활동 목록에 없다”고 답했다. 필자는 빠른 모드와 느린 모드에 안전장치를 일관되게 적용하고, 거부가 실제 거부가 되게 하며, 플랫폼 전반에 쉽게 감지되고 지우기 어려운 출처 데이터를 심으라고도 주문한다."
         }
       ]
+    },
+    "politics/politics-uk-chancellor-ai-package": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.publishing.service.gov.uk/media/5a37db09e5274a7908e352b4/s960_HMT_buiding_plaque.jpg"
+        },
+        {
+          "t": "p",
+          "x": "재무장관이 대규모 투자 패키지를 발표한다. 모든 지역에 AI의 기회를 열고 국내에서 자란 AI 기업을 키우며 적대적 위협에서 나라를 지키겠다는 구상이다. 그는 AI를 예산안의 한 축으로 삼을 예정이다."
+        },
+        {
+          "t": "p",
+          "x": "계획에는 AI가 일자리와 산업을 어떻게 바꿀지 UK의 연구를 이끄는 데 연간 £10 million, 생물학적 위협 탐지에 AI를 쓰는 £100 million 규모의 AI Biosecurity Lab을 포함한 National AI Biosecurity Initiative에 £165m, AI Security Institute에 추가 £120 million, 에이전트형 AI를 활용하는 National Cyber Shield에 £60 million이 담겼다."
+        },
+        {
+          "t": "p",
+          "x": "패키지는 Sovereign AI Fund에도 £60 million을 더 넣는다. UK Advanced Chip Design Academy에 £18 million, AI Challenge Prize에 £15 million, Mayoral Strategic Authorities와 맺는 지역 AI 파트너십에 £30m 규모가 돌아간다."
+        },
+        {
+          "t": "p",
+          "x": "John Healey 재무장관은 “노동자를 뒤처지게 하지 않고 국익을 지키는, 뚜렷하게 영국적인 AI 접근법을 제시한다”고 말했다. techUK의 Julian David는 이를 “£600m+ 규모의 탄탄한 패키지”라고 평가했다."
+        }
+      ]
+    },
+    "politics/politics-spain-deepfake-video": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/b2d99fbc0419494ad01c1db56e1c3987fef305dd/799_96_2908_2326/master/2908.jpg?width=1200&dpr=1&s=none&crop=none",
+          "cap": "푸엔라브라다 유세장에 선 페드로 산체스(Pedro Sánchez)와 그의 아내. 사진: JJ Guillen/EPA"
+        },
+        {
+          "t": "p",
+          "x": "스페인 제1야당이 총리 부인의 딥페이크 영상을 넣은 정치 광고를 내놓자 거센 반발이 일었고, 논란은 AI를 둘러싼 더 넓은 논쟁으로 번졌다. 스페인은 다음 달 총선을 앞두고 있다."
+        },
+        {
+          "t": "p",
+          "x": "보수 정당 국민당(People's party, PP)의 영상은 AI로 페드로 산체스(Pedro Sánchez)의 사회당과 연관된 인물들의 모습을 조작해 이들이 성매수나 리베이트 수수 같은 행위를 시인하는 것처럼 보이게 했다. 영상에 등장한 베고냐 고메스(Begoña Gómez)와 호세 루이스 로드리게스 사파테로(José Luis Rodríguez Zapatero)는 진행 중인 수사에서 혐의를 부인해 왔다."
+        },
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/2c623a42b8fe9a0f8170a7d4ffd10f9749f7800f/0_263_1048_837/master/1048.jpg?width=1065&dpr=1&s=none&crop=none",
+          "cap": "베고냐 고메스의 딥페이크가 담긴 국민당의 AI 생성(AI-generated) 영상 한 장면."
+        },
+        {
+          "t": "p",
+          "x": "오스카르 로페스(Óscar López) 디지털전환부 장관은 \"AI에 익숙하지 않은 사람이라면 누구든 그 영상을 현실로 착각하기 매우 쉽다\"고 말했다. 보도에 따르면 레이레 디에스(Leire Díez)는 명예훼손과 디지털 신원 도용을 주장하며 법원에 고소장을 냈다. El País가 의견을 구한 법률 전문가 대부분은 표시가 붙은 풍자 영상이라 불법은 아니라고 봤다."
+        },
+        {
+          "t": "p",
+          "x": "PP의 보르하 셈페르(Borja Sémper)는 이 영상이 \"디지털 도구를 활용해 사회당이 몸담은 위선을 부각하는 방식\"이라고 말했다."
+        }
+      ]
+    },
+    "politics/politics-texas-paxton-openai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fWwim.img",
+          "cap": "켄 팩스턴(Ken Paxton) 텍사스주 법무장관. (Raquel Natalicchio/Houston Chronicle)"
+        },
+        {
+          "t": "p",
+          "x": "애리조나, 웨스트버지니아, 아이오와 등 여러 주가 낸 소송과 마찬가지로 켄 팩스턴(Ken Paxton) 텍사스주 법무장관도 OpenAI가 ChatGPT의 안전성을 두고 사용자를 오도해 아동과 다른 사용자를 “AI 군비 경쟁에서 이기고 막대한 부를 쌓으려는 회사의 채울 수 없는 욕망이 부른” “온갖 피해”에 노출시켰다고 주장한다."
+        },
+        {
+          "t": "p",
+          "x": "[Bloomberg Law]"
+        }
+      ]
+    },
+    "politics/politics-deepseek-minimax-export": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.thenextweb.com/2026/10/minimax-open-platform-website-phone-screen.jpg"
+        },
+        {
+          "t": "p",
+          "x": "국영방송 CCTV 계열 위챗(WeChat) 계정 위위안탄톈(Yuyuan Tantian)은 게시글에서 “정책 발표 이후 선도 기업 DeepSeek와 MiniMax 두 곳이 등록 절차를 마치고 오픈소스 및 해외 라이선스 권리를 얻었다”고 밝혔다. TNW는 이 게시글을 따로 검증하지 않았다. 두 회사는 Reuters의 문의에 곧바로 답하지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "중국 상무부와 과학기술부는 대형 모델, 에이전트, 컴퓨팅 클러스터 등 AI 기술 23종을 수출 제한 목록에 올리려 한다. 공개 의견은 11월 15일까지 받는다. 게시글은 이 규정의 표적이 데이터, 민감한 용도, 컴퓨팅 파워라고 설명했다."
+        },
+        {
+          "t": "p",
+          "x": "게시글은 API 호출, 앱, 웹페이지, SaaS로 모델을 제공하는 것은 기술 수출이 아니라고 했다. “쉽게 말해 AI 기업은 평소처럼 상업화를 이어갈 수 있다.” 오픈소스 기술은 자동으로 허가를 받는다."
+        }
+      ]
+    },
+    "politics/politics-enisa-ai-evaluation": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI가 해킹과 사이버 방어를 바꾸는 가운데 주무 MEP는 Cybersecurity Act 개정안으로 EU 사이버 기구에 AI 평가 역할을 맡기려 한다."
+        }
+      ]
     }
   }
 }

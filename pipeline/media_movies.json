@@ -1,24 +1,7 @@
-{
- "media": [
-  {
-   "id": "movies-iatse-tech-officer",
-   "type": "image",
-   "src": "pipeline/media/movies-iatse-tech-officer.png"
-  },
-  {
-   "id": "movies-peter-chan-no-ai",
-   "type": "image",
-   "src": "pipeline/media/movies-peter-chan-no-ai.jpg"
-  },
-  {
-   "id": "movies-fc-lorem-ipsum-rap",
-   "type": "image",
-   "src": "pipeline/media/movies-fc-lorem-ipsum-rap.jpg"
-  },
-  {
-   "id": "movies-concept-art-awards-no-ai",
-   "type": "image",
-   "src": "pipeline/media/movies-concept-art-awards-no-ai.jpg"
-  }
- ]
-}
+{"date":"2026-10-26","section":"movies","media":[
+{"id":"movies-grok-odyssey-episode","type":"image","src":"pipeline/media/movies-grok-odyssey-episode.jpg"},
+{"id":"movies-stallone-ai-trampled","type":"video","src":"pipeline/media/movies-stallone-ai-trampled.mp4","poster":"pipeline/media/movies-stallone-ai-trampled.jpg"},
+{"id":"movies-mahabharat-indonesia-myth","type":"image","src":"pipeline/media/movies-mahabharat-indonesia-myth.jpg"},
+{"id":"movies-gods-gifts-afm-agc","type":"image","src":"pipeline/media/movies-gods-gifts-afm-agc.jpg"},
+{"id":"movies-ai-listers-kilmer","type":"video","src":"pipeline/media/movies-ai-listers-kilmer.mp4","poster":"pipeline/media/movies-ai-listers-kilmer.jpg"}
+]}

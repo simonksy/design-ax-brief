@@ -2172,6 +2172,141 @@
           "x": "NICEは、これらの技術が特に専門人材のいない環境で、前立腺MRI読影の精度と一貫性を高める「可能性がある」と結論づけた。ただし、日常的なNHS診療でツールがどう機能するかを把握するには、さらなる根拠が必要だとした。"
         }
       ]
+    },
+    "medicine/medicine-ecg-transplant-rejection": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2020-03/transplant_0.jpg?h=956ee2f3&itok=GcZkfQn3"
+        },
+        {
+          "t": "p",
+          "x": "NYU Langone Healthの研究チームが、侵襲的な生検を必要とせずに心臓移植の拒絶反応を予測する新たな方法を見いだした可能性がある。研究結果はJournal of Heart and Lung Transplantationに掲載された。"
+        },
+        {
+          "t": "p",
+          "x": "研究チームは、2018年から2024年にかけて成人の心臓移植患者389人から得た5,300件を超えるECG記録でAIモデルを訓練した。一方のモデルはECGデータのみを使い、もう一方はECGデータにAlloMapとAlloSureという二つの血液検査の結果を組み合わせた。これらの検査は従来、拒絶リスクの予測に用いられてきたが、偽陽性率が高い。"
+        },
+        {
+          "t": "p",
+          "x": "38人の心臓移植患者からなるテスト群では、組み合わせモデルの性能が上回った。拒絶反応を起こした患者は二人だった。AIモデルは拒絶反応のない患者の97%を正しく識別した一方、血液検査のみの方法では19人に生検が必要だと誤って示された。"
+        },
+        {
+          "t": "p",
+          "x": "「心臓移植は多くの資源を要する大手術であり、拒絶反応はよく起こるが、早期に見つければ治療できる」と、責任著者のLior Jankelson, MD, PhDは述べた。研究チームは次の段階として、複数の移植センターでより多くの患者を対象にAIモデルを検証する計画だ。"
+        }
+      ]
+    },
+    "medicine/medicine-hf-functional-decline": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-983942394.jpg?h=39b07655&itok=8Yg4Z5XX"
+        },
+        {
+          "t": "p",
+          "x": "高度な人工知能（AI）モデルは、高齢の心不全患者がいつ機能低下を経験し始めるかを予測できるという新たな研究結果が、Journal of Cardiac Failureに掲載された。"
+        },
+        {
+          "t": "p",
+          "x": "研究チームは、心不全で入院しリハビリを処方された65歳以上の患者6,000人超のデータを分析した。年齢の中央値は82歳だった。この機械学習モデルは、患者の一年以内の機能維持、機能低下（外出困難・寝たきりの生活への移行）、または死亡のリスクを推定する。"
+        },
+        {
+          "t": "p",
+          "x": "全体では、退院から一年以内に患者の32.5%が機能低下を経験し、14%超が死亡した。77の異なる因子を用いたこのモデルは、Kihon Checklistによるスクリーニングと比べて、これらの転帰をより高い精度で識別した。"
+        },
+        {
+          "t": "p",
+          "x": "「患者が生き延びるかどうかだけを問うのではなく、退院後も本人が大切にする生活を維持できるかを問う必要がある」と、日本のJuntendo University（順天堂大学）の筆頭著者Kanji Yamada, PT, PhDは述べた。"
+        }
+      ]
+    },
+    "medicine/medicine-doximity-uptodate-ask": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg?VersionId=iT2xffiTsfbfPwNM_SW3dz_eFZZ.4yvd",
+          "cap": "Doximityが臨床AIツールへの投資を拡大するなか、Wolters Kluwerとの提携により、Askは臨床知識への入り口として位置づけられる。"
+        },
+        {
+          "t": "p",
+          "x": "Doximityは、Wolters Kluwer Healthと提携し、UpToDateのエビデンスに基づく臨床コンテンツを、同社のAI臨床意思決定支援ツール「Doximity Ask」に直接組み込む。"
+        },
+        {
+          "t": "p",
+          "x": "今後数週間のうちに、両製品を導入している医療システムでは、臨床医がAskのワークフローを離れることなく、Doximity Askの回答と並んで、UpToDateの13,000の臨床トピックとベストプラクティスガイドに基づく回答を確認できるようになる。"
+        },
+        {
+          "t": "p",
+          "x": "同社は、アンビエント記録ツールScribeとAskを含む臨床AIスイートを拡大し、医師向けの主要なAIプラットフォームになることを目指している。Doximityは一年前、臨床AI企業Pathwayを買収した。"
+        },
+        {
+          "t": "p",
+          "x": "「フロンティアモデルはどれも同じ論文誌をすべて読んでいる。UpToDateは、RCTがない場合に何が起きるかについて、経験豊富な医師がまとめたゴールドスタンダードの参考資料として唯一無二の存在だ」と、DoximityのCEO、Jeff TangneyはFierce Healthcareに語った。"
+        },
+        {
+          "t": "p",
+          "x": "同社によると、Doximityの会員にはU.S.の医師全体の85%超が含まれ、Askを含む臨床AIツールは165を超える医療システムで導入されている。"
+        },
+        {
+          "t": "p",
+          "x": "臨床AIをめぐる競争は激しさを増している。Wolters KluwerはEpicやAbridgeとも提携し、両社のAI-powered CDSツールにUpToDateを統合している。"
+        }
+      ]
+    },
+    "medicine/medicine-ai-standardized-patients": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig1_HTML.png",
+          "cap": "Fig. 1: AI-SPのアーキテクチャと三段階評価の概要。"
+        },
+        {
+          "t": "p",
+          "x": "標準模擬患者（SPs）は臨床コミュニケーション教育の中核だが、コスト、拡張性、訓練を受けた俳優への依存という制約を抱えている。著者らは、学習者のスキルに応じて情報開示を適応的に調整する三層の情報アーキテクチャに基づく、大規模言語モデル駆動のシミュレーター「AI標準模擬患者（AI-SPs）」を提示する。"
+        },
+        {
+          "t": "p",
+          "x": "Phase 1では、五つのフロンティアLLMsが生成した350件の模擬診察を専門家が盲検で評価した結果、成績のばらつきはモデルの選択よりも学習者のスキルレベルでより多く説明された（η2 = 0.31 vs. 0.06）。Phase 1bでは、155件の学生による実際の診察で、安全上重要な情報を引き出せない系統的な失敗が明らかになった。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig2_HTML.png",
+          "cap": "Fig. 2: 三層構造のAI-SPシステムプロンプト設計。"
+        },
+        {
+          "t": "p",
+          "x": "Phase 2の三群パイロット無作為化研究（n = 58）では、AI-SPトレーニングによるOSCE成績の向上は、人間のSPによるトレーニングと有意な差がなかった。この試験は同等性の証明ではなく、効果量の推定を目的に設計された。自己効力感の向上は数値上AI-SPsで最も大きかったが、多重比較の補正後には有意性が残らなかった。"
+        }
+      ]
+    },
+    "medicine/medicine-eko-core300-fda": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/assets_ms2016573_000001_1280x960_core_300_pr_1-1.jpg?h=926d89e9&itok=p9_Udd4z"
+        },
+        {
+          "t": "p",
+          "x": "Eko Healthは、従来のアナログ聴診と高度なデジタル聴診の両方を備えた新しいAI-enabled聴診器Core 300について、FDAの承認を取得した。"
+        },
+        {
+          "t": "p",
+          "x": "臨床医は小児と成人の患者を診察する際、従来の聴診からデジタル聴診へ即座に切り替えられる。デジタル聴診では最大35xの増幅、ノイズキャンセリング、デバイス上に表示されるリアルタイムの心臓データを利用できる。"
+        },
+        {
+          "t": "p",
+          "x": "この聴診器はEko AppやEkoのFDA-cleared AIモデルにも接続でき、バッテリーは一度に数週間持つよう設計されている。"
+        },
+        {
+          "t": "p",
+          "x": "「Ekoはこれまでに750,000台を超えるデバイスを届けてきた。Core 300は、すべての医療従事者に早期の疾患発見への確信をもたらすための次の一歩だ」と、Eko Healthの共同創業者兼CEOであるConnor Landgrafは述べた。"
+        },
+        {
+          "t": "p",
+          "x": "このデバイスは現在U.S.の消費者向けに提供されており、海外での展開も段階的に進んでいる。"
+        }
+      ]
     }
   }
 }

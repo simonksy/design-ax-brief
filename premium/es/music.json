@@ -7958,6 +7958,134 @@
           "x": "Los suscriptores también reciben más de 400 horas de tutoriales y 12 plugins gratuitos al año. “Loopcloud 8 está hecho para ayudar a los productores a terminar sus ideas más rápido”, dice Matt Pelling, CEO de Loopmasters. Ya está disponible por £7.95 / $10.95 / €9.95 al mes, con una prueba gratuita de 14 días."
         }
       ]
+    },
+    "music/music-komca-ai-filings": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.tf.co.kr/article/home/2026/10/19/20262121179241237300.jpg",
+          "cap": "En la imagen, '¿Me convertí en el adulto que soñaba?', de Meomureu, creada con AI, en el puesto 1 de la lista diaria de videos musicales populares de YouTube. / Listas de YouTube"
+        },
+        {
+          "t": "p",
+          "x": "Las solicitudes de derechos de autor sobre música creada con inteligencia artificial (AI) generativa presentadas ante la Asociación Coreana de Derechos de Autor Musicales (KOMCA) aumentaron cerca de un 500% en 1 año. Sin embargo, las 892 solicitudes recibidas entre el año pasado y este siguen sin registrarse."
+        },
+        {
+          "t": "p",
+          "x": "Según datos que la oficina del diputado Yoon Yong-geun, del Partido del Poder Popular, obtuvo del Ministerio de Cultura, Deportes y Turismo, las solicitudes pasaron de 133 en 2025 a 759 hasta septiembre de este año: unas 5.7 veces más, un aumento de alrededor del 471%."
+        },
+        {
+          "t": "p",
+          "x": "La KOMCA clasificó las 892 solicitudes como no registradas. Entre los obstáculos figura la falta de un criterio claro sobre hasta dónde reconocer la contribución creativa humana. “Por ahora dependemos en gran medida de la declaración voluntaria y la garantía de confirmación de los solicitantes para saber si se usó AI”, explicó la KOMCA, y añadió que “los usos de la AI van desde la simple introducción de un prompt hasta la modificación de melodías, el arreglo y la corrección, por lo que es difícil aplicar un criterio uniforme”."
+        },
+        {
+          "t": "p",
+          "x": "La Sociedad Coreana de Compositores, Autores y Editores (KOSCAP) señaló que hace falta definir si las obras se usan para entrenar AI y cómo proteger los derechos. Yoon subrayó que “hay que establecer un criterio razonable para que la gestión fiduciaria y el reparto de derechos de autor sean justos”, y el ministerio indicó que se necesita un debate con la Asamblea Nacional, las entidades de titulares, las distribuidoras y los creadores."
+        }
+      ]
+    },
+    "music/music-neutune-tal-dj": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wowtale.net/wp-content/uploads/2026/10/neutune-20261018-article-3dde75.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Park Seung-soon, cofundador y CCO de la startup de tecnología musical con inteligencia artificial (AI) Neutune y artista de nuevos medios, anunció el día 19 que participará en el 'Amsterdam Dance Event (ADE) 2026', que se celebra del 21 al 25 en Ámsterdam (Países Bajos), donde presentará por primera vez el proyecto de DJ agente audiovisual 'Tal'."
+        },
+        {
+          "t": "p",
+          "x": "El proyecto 'Tal' se planificó y produjo dentro del 'Programa de Apoyo a la Producción de Contenidos de Inteligencia Artificial 2026' de la Agencia Coreana de Contenidos Creativos. Inspirado en máscaras tradicionales coreanas como Cheoyong, Bangsangsi, el mono y Bune, es un personaje agente de AI que evoluciona aprendiendo por sí mismo gugak (música tradicional coreana), K-Pop y EDM."
+        },
+        {
+          "t": "p",
+          "x": "Park ofrecerá el primer showcase, titulado 'K-EDM Vol.1', el 21 de octubre a las 7 p. m., hora local, en el hotel Andaz. Durante unos 30 minutos presentará una actuación audiovisual basada en recursos visuales 3D ambientados en 4 máscaras tradicionales y el palacio submarino Sugung. Betty, integrante de XD:I, subirá al escenario como DJ en persona."
+        },
+        {
+          "t": "p",
+          "x": "Neutune participa como socio tecnológico y presentará sus soluciones de música con AI 'NeuSynth', 'MixAudio' y 'musicDNA'. “En el proceso de crear al agente 'Tal', NeuSynth, la solución de tecnología de audio con AI de Neutune, desempeñó un papel clave”, afirmó Park."
+        }
+      ]
+    },
+    "music/music-mono-stereo-upmix-flows": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El upmixing de mono a estéreo consiste en generar una señal estéreo de dos canales y alta fidelidad a partir de una grabación de un solo canal. Es un problema mal planteado: muchas señales estéreo son compatibles con una misma grabación mono, por lo que un upmixer debe generar una imagen estéreo realista y musicalmente coherente sin alterar el audio original."
+        },
+        {
+          "t": "p",
+          "x": "Los enfoques anteriores se basaban en la decorrelación mediante procesamiento de señales, la extracción de ambiente y el aprendizaje supervisado, con un control espacial limitado o la necesidad de un entrenamiento específico para la tarea. Los autores proponen Aura (Audio Upmixing using Reward-tilted Flows), que replantea el upmixing como un problema inverso generativo con un prior de flujo preentrenado."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.15967v1/Figures/two_stage_sampler.png",
+          "cap": "Figura 1: el flujo predice una muestra limpia y luego los gradientes de verosimilitud y de recompensa la acercan a la fidelidad de medición y la coherencia espacial."
+        },
+        {
+          "t": "p",
+          "x": "Para controlar la imagen espacial, un muestreador posterior inclinado por recompensa penaliza las divergencias entre las distribuciones generada y objetivo de las señales intercanal. Componer operadores directos permite restaurar y hacer upmixing a la vez, sin reentrenamiento ni ajuste fino. Las evaluaciones objetivas y subjetivas con grabaciones musicales reales de MUSDB18-HQ muestran la eficacia del método frente a varias líneas base."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.15967v1/Figures/boxplots_participant.png",
+          "cap": "Figura 2: pruebas subjetivas frente a las líneas base"
+        }
+      ]
+    },
+    "music/music-flomss-stem-separation": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El artículo FLOMSS: Generative Music Source Separation by Flow Matching, de Shuyang Cui, Yuki Mitsufuji y otros 11 coautores, se envió a arXiv el 13 de octubre de 2026."
+        },
+        {
+          "t": "p",
+          "x": "La separación de fuentes musicales (MSS) se ha abordado tradicionalmente con métodos discriminativos. El flow matching ha surgido hace poco como un sólido paradigma generativo, y los autores lo investigan de forma sistemática para MSS en un escenario de cuatro fuentes (Vocals, Bass, Drums, Other) en estéreo de banda completa."
+        },
+        {
+          "t": "p",
+          "x": "Estudian los objetivos de predicción, las trayectorias de flujo, el modelado de una fuente frente a varias y las restricciones de consistencia de la mezcla. Además de la relación señal-distorsión, evalúan los métodos de MSS con métricas espectrales y basadas en embeddings, así como con una prueba de escucha, lo que ofrece un benchmark completo."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.17821v2/midpoint_sampler_metrics_singlecol_OTCFM.svg",
+          "cap": "Figura 1: comportamiento paso a paso de OT-CFM-x para Vocals a lo largo de los pasos del solucionador Midpoint ODE. Las líneas grises discontinuas indican la línea base discriminativa."
+        },
+        {
+          "t": "p",
+          "x": "En MUSDB18-HQ, FLOMSS supera a métodos generativos previos y a una línea base discriminativa con el mismo backbone en métricas espectrales y basadas en embeddings. También mejora Mel y FD frente a sólidos métodos discriminativos, aunque su SDR sigue siendo menor."
+        },
+        {
+          "t": "p",
+          "x": "Los autores identifican un equilibrio entre distribución y reconstrucción en la MSS generativa y presentan FLOMSS como un framework de código abierto, cuyo código se publicará tras su aceptación. Hay una demo disponible en ik4sumii.github.io/FLOMSS."
+        }
+      ]
+    },
+    "music/music-elvis-anthropic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/GettyImages-151373495.jpg?w=1600&h=900&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "Los propietarios de la música de Elvis Presley demandaron a la empresa de AI Anthropic y la acusan de entrenar sus modelos con la música de Presley sin permiso. Billboard informó primero que Authentic Brands Group, el grupo de licencias que controla la música y la imagen del King, presentó la demanda el viernes, alegando que Anthropic, la empresa detrás de Claude, infringió los derechos de 274 canciones de Presley."
+        },
+        {
+          "t": "p",
+          "x": "Las empresas de AI ya habían enfrentado demandas de sellos discográficos y de la RIAA, pero este es uno de los primeros grandes casos en que el patrimonio de un artista emprende acciones legales contra una empresa de AI."
+        },
+        {
+          "t": "p",
+          "x": "La demanda ABE EPE LLC v. Anthropic afirma que la empresa entrenó con 274 canciones, desde éxitos como “All Shook Up”, “Can't Help Falling in Love” y “Don't Be Cruel” hasta temas menos conocidos, y reclama $150,000 por cada pista infringida, o aproximadamente $41 million."
+        },
+        {
+          "t": "p",
+          "x": "Según la demanda, incluso después de que Anthropic añadiera salvaguardas, Claude recreaba canciones concretas “for a modern audience” (para un público moderno) cuando se le pedía. El abogado principal, Richard Busch, que trabajó en el caso “Blurred Lines” del patrimonio de Marvin Gaye, sostiene que Anthropic usa las canciones para crear “unlicensed derivative works” (obras derivadas sin licencia)."
+        }
+      ]
     }
   }
 }

@@ -3722,6 +3722,105 @@
           "x": "作者敦促企业以更高警惕对待选举内容——Grok曾对测试者表示，“选举虚假信息不在禁止活动之列”——并在快速与慢速模式中一致地执行防护措施，让拒绝成为真正的拒绝，同时嵌入易于跨平台检测且难以移除的来源数据。"
         }
       ]
+    },
+    "politics/politics-uk-chancellor-ai-package": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.publishing.service.gov.uk/media/5a37db09e5274a7908e352b4/s960_HMT_buiding_plaque.jpg"
+        },
+        {
+          "t": "p",
+          "x": "财政大臣将宣布一项重大投资计划，旨在让每个邮区都能把握AI带来的机遇、扩大本土AI企业规模，并保护国家免受敌对威胁。财政大臣准备将AI纳入其预算案。"
+        },
+        {
+          "t": "p",
+          "x": "计划包括：每年1000万英镑，用于牵头UK关于AI将如何重塑就业和产业的研究；1.65亿英镑用于国家AI生物安全计划(National AI Biosecurity Initiative)，其中包括投入1亿英镑、利用AI检测生物威胁的AI生物安全实验室(AI Biosecurity Lab)；为AI安全研究所(AI Security Institute)追加1.2亿英镑；以及6000万英镑用于运用智能体AI的国家网络盾牌(National Cyber Shield)。"
+        },
+        {
+          "t": "p",
+          "x": "该计划还向主权AI基金(Sovereign AI Fund)追加6000万英镑，为UK先进芯片设计学院(UK Advanced Chip Design Academy)拨款1800万英镑，为AI挑战奖(AI Challenge Prize)拨款1500万英镑，并拨款3000万英镑用于与市长战略机构(Mayoral Strategic Authorities)开展地方AI合作。"
+        },
+        {
+          "t": "p",
+          "x": "财政大臣约翰·希利(John Healey)表示：“我正在提出一种独具英国特色的AI路径——不让劳动者掉队，并捍卫我们的国家利益。”techUK的朱利安·戴维(Julian David)称其为“一个超过6亿英镑的有力计划”。"
+        }
+      ]
+    },
+    "politics/politics-spain-deepfake-video": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/b2d99fbc0419494ad01c1db56e1c3987fef305dd/799_96_2908_2326/master/2908.jpg?width=1200&dpr=1&s=none&crop=none",
+          "cap": "佩德罗·桑切斯(Pedro Sánchez)与妻子在丰拉夫拉达的竞选集会上。摄影：JJ Guillen/EPA"
+        },
+        {
+          "t": "p",
+          "x": "西班牙主要反对党一则使用首相夫人深度伪造视频的政治广告引发众怒，并在该国为下月大选做准备之际，掀起了一场关于AI的更广泛讨论。"
+        },
+        {
+          "t": "p",
+          "x": "保守派人民党(People's party，PP)的视频利用AI篡改了与佩德罗·桑切斯(Pedro Sánchez)的社会党有关人士的形象，使他们看起来在承认嫖娼、收受回扣等行为。视频中出现的贝戈尼亚·戈麦斯(Begoña Gómez)和何塞·路易斯·罗德里格斯·萨帕特罗(José Luis Rodríguez Zapatero)在正在进行的调查中否认有不当行为。"
+        },
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/2c623a42b8fe9a0f8170a7d4ffd10f9749f7800f/0_263_1048_837/master/1048.jpg?width=1065&dpr=1&s=none&crop=none",
+          "cap": "人民党AI生成(AI-generated)视频截图，其中出现贝戈尼亚·戈麦斯的深度伪造形象。"
+        },
+        {
+          "t": "p",
+          "x": "数字化转型大臣奥斯卡·洛佩斯(Óscar López)说：“对于不熟悉AI的人来说，很容易把那段视频当成现实。”据报道，莱雷·迪亚斯(Leire Díez)已向法院提起诉讼，指控诽谤和盗用数字身份。El País咨询的大多数法律专家认为，这段带有标注的讽刺视频并不违法。"
+        },
+        {
+          "t": "p",
+          "x": "PP的博尔哈·森佩尔(Borja Sémper)表示，这是“一种利用数字工具揭露社会党运作中虚伪之处的方式”。"
+        }
+      ]
+    },
+    "politics/politics-texas-paxton-openai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fWwim.img",
+          "cap": "得州总检察长肯·帕克斯顿(Ken Paxton)。(Raquel Natalicchio/Houston Chronicle)"
+        },
+        {
+          "t": "p",
+          "x": "与亚利桑那州、西弗吉尼亚州、艾奥瓦州等多个州提起的诉讼类似，得州总检察长肯·帕克斯顿(Ken Paxton)指控OpenAI在ChatGPT的安全性上误导用户，据称使儿童和其他用户遭受“一连串伤害”，而这些伤害“源于该公司为赢得AI军备竞赛、积累巨额财富而贪得无厌的追求”。"
+        },
+        {
+          "t": "p",
+          "x": "[Bloomberg Law]"
+        }
+      ]
+    },
+    "politics/politics-deepseek-minimax-export": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.thenextweb.com/2026/10/minimax-open-platform-website-phone-screen.jpg"
+        },
+        {
+          "t": "p",
+          "x": "央视(CCTV)旗下微信(WeChat)账号“玉渊谭天”(Yuyuan Tantian)在一篇帖文中称：“政策发布以来，DeepSeek和MiniMax两家头部企业已顺利完成登记手续，获得开源及境外授权许可。”TNW未独立核实该帖文；两家公司未立即回复Reuters。"
+        },
+        {
+          "t": "p",
+          "x": "中国商务部和科技部拟将大模型、智能体、算力集群等23项AI技术列入出口限制目录，公众意见征集将于11月15日截止。帖文称，相关规则针对的是数据、敏感用途和算力。"
+        },
+        {
+          "t": "p",
+          "x": "帖文称，通过API调用、应用、网页或SaaS提供模型不属于技术出口。“简单来说，AI企业可以照常推进商业化。”开源技术可自动获得许可。"
+        }
+      ]
+    },
+    "politics/politics-enisa-ai-evaluation": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Cybersecurity Act修订案的主导MEP在拟议修改中寻求让EU网络机构承担AI评估职能，而此时AI正在重塑黑客攻击与网络防御。"
+        }
+      ]
     }
   }
 }

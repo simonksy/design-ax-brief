@@ -7971,6 +7971,108 @@
           "x": "This statement will be published online, along with a list of signatories. Submit the form below to sign now."
         }
       ]
+    },
+    "books/books-linemanga-byus-chat": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/00_l.jpg"
+        },
+        {
+          "t": "p",
+          "x": "On October 19, LINE Digital Frontier released byUs (read as “bias”), an AI story chat, on its e-comic service LINE Manga."
+        },
+        {
+          "t": "p",
+          "x": "byUs is an AI story chat service in which users become the protagonist of the original story and create stories of their own. Built on original and exclusive titles, it offers 2 modes, the officially provided Official Story and user-created Fan Stories, letting users spin new stories by interacting with the characters."
+        },
+        {
+          "t": "p",
+          "x": "In Official Story, after an opening built on the original work’s world and character settings, a new story unfolds as the user talks with the characters. In Fan Stories, users build on the original characters, set up new situations and relationships, and enjoy stories of their own making. Users can also publish the fan stories they create to other users."
+        },
+        {
+          "t": "p",
+          "x": "byUs also includes features such as Suggested Replies and Autoplay, which help keep conversations flowing; Snapshot, which provides images that match the situation; and Special Cut, which delivers images one after another according to affinity level."
+        },
+        {
+          "t": "p",
+          "x": "Only official IP approved by the original creators is available. In the 1st wave, Joy and Esther from “The Engineer in the Next Seat Seems to Want to Change Jobs.” (original story: Woo Si-mok, art: Lee Ha-an) and Ren Tachibana (橘蓮) and Reo Momotani (百谷玲央) from “Operation Name: Pure Love” (story: kkokkalee, art: Dledumb) were added. More characters are planned."
+        },
+        {
+          "t": "img",
+          "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/1_l.png"
+        },
+        {
+          "t": "img",
+          "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/2_l.png"
+        }
+      ]
+    },
+    "books/books-lrb-shelf-ai-novels": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A regular customer at the bookshop where Alfred Nunney works showed him Penguin’s 2018 single-volume edition of Giorgio Bassani’s The Novel of Ferrara — now almost as hard to find as the garden of the Finzi-Continis."
+        },
+        {
+          "t": "p",
+          "x": "Second-hand booksellers in the UK, the Netherlands and North America report strange bulk orders and a spike in sales of rare and obscure titles, presumed to come from AI companies seeking human-written material to train large language models."
+        },
+        {
+          "t": "p",
+          "x": "The initial strategy was pirated books from ‘shadow libraries’, which led Anthropic to a $1.5 billion settlement with authors and publishers; a class action against OpenAI is ongoing. Anthropic then hired Tom Turvey, formerly of Google Books, for ‘Project Panama’ — ‘our effort to destructively scan all the books in the world’, cutting off spines and pulping the books after scanning."
+        },
+        {
+          "t": "p",
+          "x": "Meanwhile tools like Novelcrafter and Sudowrite offer AI help with plotting and editing; Sudowrite’s ‘professional’ plan, at $22 a month, is for those whose goal is ‘to write a novel in thirty days’."
+        },
+        {
+          "t": "p",
+          "x": "Nunney’s boss has said he would sell AI novels if there were clear demand and clear labelling. Customers either vehemently reject the idea or shrug: ‘I don’t see the difference.’ Asked for a recommendation, Nunney still points them to Bassani."
+        }
+      ]
+    },
+    "books/books-sadek-creative-roi": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/dfg.jpg"
+        },
+        {
+          "t": "p",
+          "x": "It is time the industry acknowledged that AI can bring genuine value to human creativity, writes Nadim Sadek, founder and CEO of Shimmr AI and author of Shimmer, Don’t Shake – How Publishing Can Embrace AI."
+        }
+      ]
+    },
+    "books/books-patrick-white-publishing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://live-production.wcms.abc-cdn.net.au/9666b581058d1af9ec9592941fe71f8a?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+          "cap": "An AI-generated promotional image for Patrick White Publishing. (Patrick White Publishing)"
+        },
+        {
+          "t": "p",
+          "x": "Despite positive online reviews, authors have accused Patrick White Publishing of poor quality service and pushing them into removing negative comments. The company is also charging authors hundreds of dollars for AI-generated illustrations."
+        },
+        {
+          "t": "p",
+          "x": "Mudgee author Kerry Stewart paid $500 and says edits introduced mistakes; Melbourne author Tulin Salis was quoted $400, then offered a $1899 \"5-Star Ghostwriting Bundle\"."
+        },
+        {
+          "t": "img",
+          "src": "https://live-production.wcms.abc-cdn.net.au/b06a09fe7be41183eb456f5c77af5584?impolicy=wcms_crop_resize&cropH=1077&cropW=1615&xPos=0&yPos=41&width=862&height=575",
+          "cap": "A Google listing for Patrick White Publishing in Hobart turns up this AI-generated image. (Patrick White Publishing)"
+        },
+        {
+          "t": "p",
+          "x": "An OpenAI tool shows the Hobart storefront image on Google Maps carries a watermark generated by its software, and some book covers on the company's website return positive results for watermarks from OpenAI and Google Gemini. Author agreements reviewed by the ABC do not mention AI illustrations."
+        },
+        {
+          "t": "p",
+          "x": "The company also uses an ABN belonging to an unrelated business, and the literary estate of Patrick White has asked it to stop using the name. Patrick White Publishing did not respond to the ABC's requests for comment."
+        }
+      ]
     }
   }
 }
