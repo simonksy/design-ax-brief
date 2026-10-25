@@ -9276,6 +9276,124 @@
           "x": "仔细复核输出；如果智能体一再犯同样的错误，就更新你的准则、库或示例。"
         }
       ]
+    },
+    "design/design-b2b-chat-line": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Di003Ys9ARp2QsB9IF15Eg.png",
+          "cap": "每份路线图上都有聊天框，能说清它为谁而做的却不多。"
+        },
+        {
+          "t": "p",
+          "x": "如今几乎每个B2B应用都有聊天框。Patrick Neeman问：它是为谁准备的？那些花了几十年学习本行领域和软件的理赔员、律师和供应计划员。"
+        },
+        {
+          "t": "p",
+          "x": "聊天取代的是专家早已付出代价掌握的技能，主要帮助的是新手：对话解决的是回忆问题，而专家知道字段名、状态码和准确的筛选条件。筛选器还能展示全集，聊天回答却只告诉你所问的内容。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*0KrGdAZuSwqCRE6qAPhZSg.png",
+          "cap": "在METR的试验中，资深开发者使用AI后慢了19%，自己却以为恰恰相反。"
+        },
+        {
+          "t": "p",
+          "x": "METR发现资深开发者使用AI工具时慢了19%，Stanford研究人员发现法律检索工具出现幻觉的比例在17%到33%之间，因此专业人士仍要检查每一项输出。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*wZUAQ2DcQddk7Sw3_Jji7Q.png",
+          "cap": "三个去处，其中只有一个是聊天框。"
+        },
+        {
+          "t": "p",
+          "x": "Neeman的答案是：常规任务留在界面里，少见任务交给聊天，持续性任务交给只在需要人做决定时才介入的环境智能体。\"聊天等着被提问。环境智能体早已知晓。\""
+        }
+      ]
+    },
+    "design/design-ai-firms-human-brands": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/8iLPH4BsY5429rchU9dzuZ.png",
+          "cap": "How&How为Ideogram打造的新品牌形象，以脑形标志和在Photoshop中手工精修的AI生成（AI-generated）图像为核心。(Image credit: How&How/Ideogram)"
+        },
+        {
+          "t": "p",
+          "x": "那些似乎一心要让人类设计师失业的AI公司，恰恰一直在请人类设计师打造品牌形象：Ideogram请了How&How，AI视频应用Elva请了Lazarev，AI审计公司Clusia请了Together，Meta的新AI平台Muse则请了字体艺术家Jessica Hische。"
+        },
+        {
+          "t": "p",
+          "x": "Tom May的回答是：品牌从来不是为了让东西好看，而是为了让人们相信你，而AI公司在设计师和普通大众那里都存在信誉问题。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/eyb69kyib2ifYxEkYbgUqZ.png",
+          "cap": "Lazarev为Elva设计的品牌系统，旨在赋予这款AI视频编辑器一种让用户愿意与之交谈的友好个性。(Image credit: Lazarev/Elva)"
+        },
+        {
+          "t": "p",
+          "x": "Hische因Muse项目在Threads上遭到猛烈抨击，尽管她解释说，这笔12,500美元的费用将帮助两家小工作室及其员工维持下去。May理解这种愤怒，但怀疑拒绝能改变多少：他们只会另找别人。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/bbihuCHghiaC2K3uSv94gZ.webp",
+          "cap": "Together为Clusia设计的品牌形象 (Image credit: Together/Clusia)"
+        },
+        {
+          "t": "p",
+          "x": "他认为，如果AI公司想花钱请人类让自己显得有人味，那最好就收下这笔钱，做出出色的作品，并提醒所有人他们当初为什么来找你。"
+        }
+      ]
+    },
+    "design/design-impeccable-skill": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xdyvbd5af4n0a30zef5.webp"
+        },
+        {
+          "t": "p",
+          "x": "所有AI搭建（AI-built）的网站看起来都一样：满屏Inter字体、紫色渐变、卡片套卡片。Impeccable是一款面向AI编程智能体的开源设计技能，提供24条命令、62项能识别AI味（AI-looking）设计的确定性检查，以及在浏览器中实时迭代。它采用Apache 2.0许可，免费使用。"
+        },
+        {
+          "t": "p",
+          "x": "它以Anthropic的frontend-design技能为起点，并做了进一步拓展。62条确定性规则无需语言模型和API密钥即可运行，能揪出被滥用的字体、彩色背景上的灰色文字、嵌套卡片和过时的弹跳缓动；层级和情感共鸣则由仅限LLM（LLM-only）的评审检查来判断。"
+        },
+        {
+          "t": "p",
+          "x": "用npx impeccable install安装，再运行/impeccable init生成PRODUCT.md，视觉方向则记录在DESIGN.md中。命令包括shape、craft、critique、audit、polish、bolder、quieter、typeset、layout和harden。它可以安装到Claude Code、Cursor、Codex、GitHub Copilot、Gemini CLI等工具中。"
+        },
+        {
+          "t": "p",
+          "x": "它于2025年11月发布，不到一年就在GitHub上收获超过86,000颗星，分叉数也超过5,000。"
+        }
+      ]
+    },
+    "design/design-ulpg-landing-guide": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fna9bxgq3z12rs5u4q40j.png"
+        },
+        {
+          "t": "p",
+          "x": "大多数落地页建议都以模板形式出现：一定高度的首屏主视觉、三张功能卡片、用户评价栏、价格表、FAQ。模板填起来很快，却无法告诉你页面是否回答了访客真正关心的问题。Universal Landing Page Guide（ULPG）试图填补这一空白。"
+        },
+        {
+          "t": "p",
+          "x": "用README的话说，ULPG是“面向设计、构建和审查落地页的人与AI智能体的开放指南”。它不限定页面类型，也不规定布局，并为每个评估项给出结果（通过、未通过、不适用或未验证）以及所用的验证方法。它是指南，而非认证。早期版本v0.3.0采用MIT-licensed（MIT许可），没有运行时依赖。"
+        },
+        {
+          "t": "p",
+          "x": "工作流分为五步：理解、组织、构建或修订、验证和报告，每一步都有可直接复制的模板，从页面简报到评审模板。"
+        },
+        {
+          "t": "p",
+          "x": "ULPG适用于任何能读取Markdown的智能体，无需特定提供商的插件。其智能体工作流把页面内容当作数据而非指令；强调看到不等于测试，因此截图无法证明键盘可访问性；并把声明与已验证的结果分开。"
+        }
+      ]
     }
   }
 }

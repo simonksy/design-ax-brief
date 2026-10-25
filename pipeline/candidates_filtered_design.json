@@ -1,14 +1,14 @@
 {
   "section": "design",
-  "generated_at": "2026-10-24T22:05:00Z",
+  "generated_at": "2026-10-25T22:00:38Z",
   "window_hours": 72,
   "items": [
     {
       "title": "6 Ways Teams Are Experimenting With Code Layers",
       "url": "https://www.figma.com/blog/6-ways-teams-are-experimenting-with-code-layers/",
-      "source": "Figma",
+      "source": "Figma Blog",
       "category": "figma",
-      "published_iso": "2026-10-23T22:43:00.000Z",
+      "published_iso": "2026-10-23T22:43:00Z",
       "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/ae1c3c193908deb3921d2061f39ffd17878e4240-10835x6095.png?w=1200&q=70&fit=max&auto=format",
       "excerpt": "Here’s how six teams are using it to experiment, get stakeholders aligned, and move faster.",
       "history_match": {
@@ -20,43 +20,102 @@
       }
     },
     {
-      "title": "How Vercel Agent accesses production safely",
-      "url": "https://vercel.com/blog/how-vercel-agent-accesses-production-safely",
-      "source": "Vercel",
+      "title": "Nobody asked for the sparkle button",
+      "url": "https://uxdesign.cc/nobody-asked-for-the-sparkle-button-ae54ab5065c6",
+      "source": "UX Collective",
       "category": "figma",
-      "published_iso": "2026-10-23T20:29+00:00",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cafef5b99ad121eaf5b0cc65/542ff0db971f92dcc52edc05eba0320a/how_vercel_agent_ensures_safe_access_to_production_og_card.jpg",
-      "excerpt": "Learn how Vercel Agent investigates production issues, requests approval for changes, and uses scoped credentials to limit access while carrying out a plan."
+      "published_iso": "2026-10-25T12:33:57Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*zO6YRwfqZ98I2mbNC4MBNw.png",
+      "excerpt": "Products ship with the same AI sparkle panel while people hunt for the off switch and spend outruns returns; the author argues teams should build features with AI, not AI features."
     },
     {
-      "title": "Send feedback from the Vercel MCP",
-      "url": "https://vercel.com/changelog/send-feedback-from-vercel-mcp",
-      "source": "Vercel",
+      "title": "Where to draw the line before AI reaches professional users",
+      "url": "https://uxdesign.cc/where-to-draw-the-line-before-ai-reaches-professional-users-09d61f61b2b5",
+      "source": "UX Collective",
       "category": "figma",
-      "published_iso": "2026-10-23T20:53+00:00",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5zUPDbfsi6JNUM6IRgNFRQ/d3a2f741d6d947709a347712fc2ce8ee/vercel-mcp-feedback-og.png",
-      "excerpt": "The Vercel MCP now includes the submit_feedback tool to sends bugs, friction reports, and feature requests directly to the Vercel team,",
+      "published_iso": "2026-10-25T12:31:45Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*Di003Ys9ARp2QsB9IF15Eg.png",
+      "excerpt": "Every B2B roadmap now has a chat box; six questions for deciding whether a conversational layer speeds experts up or puts a keyboard between them and work they already know."
+    },
+    {
+      "title": "The context advantage of human UX",
+      "url": "https://uxdesign.cc/the-context-advantage-of-human-ux-design-thinking-39883603c337",
+      "source": "UX Collective",
+      "category": "figma",
+      "published_iso": "2026-10-25T12:34:03Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1672/1*hJmXIyyM-DoayKXxgRZfwA.png",
+      "excerpt": "Context is today's human advantage in UX design, but it is also the raw material AI is rapidly learning to absorb.",
       "history_match": {
-        "score": 0.156,
-        "date": "2026-10-17",
-        "url": "https://vercel.com/blog/vercel-ship-2026-recap",
-        "title": "Vercel Ship 2026 recap",
+        "score": 0.158,
+        "date": "2026-10-12",
+        "url": "https://www.nngroup.com/articles/context-libraries/",
+        "title": "Context Libraries: How AI power users manage context engineering",
         "band": "related"
       }
     },
     {
-      "title": "AI Agent Actions: Same Rules for UI and Agents",
-      "url": "https://www.builder.io/blog/ai-agent-actions",
-      "source": "Builder.io",
+      "title": "Why do AI platforms want humans to design their branding?",
+      "url": "https://www.creativebloq.com/news/why-do-ai-platforms-want-humans-to-design-their-branding",
+      "source": "Creative Bloq",
       "category": "figma",
-      "published_iso": "2026-10-22T18:00:00.000Z",
-      "og_image": "https://cdn.builder.io/api/v1/image/assets%2FYJIGb4i01jvw0SRdL5Bt%2F5f1fc60e96244a54a127e9e35a704560?width=1200",
-      "excerpt": "If your UI blocks an edit, your AI agent shouldn’t be able to make it. Here’s how AI agent actions keep one set of rules for every caller.",
+      "published_iso": "2026-10-25T08:01:03Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/8iLPH4BsY5429rchU9dzuZ-1920-80.png",
+      "excerpt": "AI firms keep hiring human designers and agencies for their own brand identities, a telling irony for the creative industry."
+    },
+    {
+      "title": "Just Eat's AI apocalypse might be the most disastrous slop show yet",
+      "url": "https://www.creativebloq.com/news/just-eats-ai-apocalypse-raises-a-pretty-obvious-question",
+      "source": "Creative Bloq",
+      "category": "workflow",
+      "published_iso": "2026-10-25T10:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/q7XXHzcWFP9uk4mvXKsJk9-1920-80.jpg",
+      "excerpt": "Just Eat's AI-generated ad campaign, featuring garbled 'tiger' prawns and a literal toad in the hole, is being called one of the most disastrous AI slop showings yet."
+    },
+    {
+      "title": "Impeccable: The Open-Source Design Skill That Stops AI Websites Looking AI-Generated",
+      "url": "https://dev.to/itxtayab/impeccable-the-open-source-design-skill-that-stops-ai-websites-looking-ai-generated-3i20",
+      "source": "DEV Community",
+      "category": "tokens",
+      "published_iso": "2026-10-25T08:26:31Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xdyvbd5af4n0a30zef5.webp",
+      "excerpt": "Impeccable is an open-source design skill for AI coding agents that targets the tells of AI-built sites (Inter everywhere, purple gradients, nested cards) and pushes output toward deliberate visual design.",
       "history_match": {
-        "score": 0.177,
-        "date": "2026-10-11",
-        "url": "https://dev.to/katsudo/before-an-ai-agent-acts-show-me-what-it-can-change-515h",
-        "title": "Before an AI agent acts, show me what it can change",
+        "score": 0.262,
+        "date": "2026-10-22",
+        "url": "https://dev.to/haoli/i-built-a-claude-code-skill-that-de-slops-ai-generated-web-design-42kn",
+        "title": "I built a Claude Code skill that de-slops AI-generated web design",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Your AI-Generated UI Doesn't Need Another Gradient",
+      "url": "https://dev.to/akkaraponph/your-ai-generated-ui-doesnt-need-another-gradient-3679",
+      "source": "DEV Community",
+      "category": "tokens",
+      "published_iso": "2026-10-25T14:03:38Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fooby53nqomyop52q3gus.png",
+      "excerpt": "A practical critique of default AI-generated UI styling and how to steer coding agents away from gradient-heavy, generic interfaces.",
+      "history_match": {
+        "score": 0.153,
+        "date": "2026-10-12",
+        "url": "https://uxdesign.cc/ai-generated-ui-is-fast-design-not-ux-855ca8abcd28",
+        "title": "AI-generated UI is fast design, not UX",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Is AI making designers lazy thinkers?",
+      "url": "https://dev.to/yurick_hoang_2203/is-ai-making-designers-lazy-thinkers-34nh",
+      "source": "DEV Community",
+      "category": "figma",
+      "published_iso": "2026-10-25T07:12:51Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fn3u4eaj1bqictmjxi5g7.png",
+      "excerpt": "A designer weighs how AI makes design more accessible than ever while risking shallower thinking in the design process.",
+      "history_match": {
+        "score": 0.205,
+        "date": "2026-10-01",
+        "url": "https://www.core77.com/posts/145488/AI-Has-Changed-What-Makes-a-Great-Designer",
+        "title": "AI Has Changed What Makes a Great Designer",
         "band": "related"
       }
     },
@@ -65,163 +124,111 @@
       "url": "https://80.lv/articles/how-tripo-p2-0-astra-work-together-in-blender-and-unity/",
       "source": "80 Level",
       "category": "render",
-      "published_iso": "2026-10-23T13:15:00+00:00",
+      "published_iso": "2026-10-23T13:15:00Z",
       "og_image": "https://cdn.80.lv/api/upload/meta/50386/images/6ada9dc6ed2d2/contain_1200x630.jpg",
       "excerpt": "The Tripo Team explains how P2.0 and Astra combine 3D asset generation with assembly, rigging, animation, and integration in Blender and Unity, while examining cleanup, quality control, training data, and the continuing importance of human art direction."
     },
     {
-      "title": "Siemens expands agentic AI for 3D IC design workflows",
-      "url": "https://www.engineering.com/siemens-expands-agentic-ai-for-3d-ic-design-workflows/",
-      "source": "Engineering.com",
-      "category": "cad",
-      "published_iso": "2026-10-22T14:03:59+00:00",
-      "og_image": null,
-      "excerpt": "The workflow coordinates electrothermal analysis across seven EDA tools to evaluate hundreds of design points per cycle.",
-      "history_match": {
-        "score": 0.158,
-        "date": "2026-10-18",
-        "url": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
-        "title": "Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Cadence and Nokia advance AI-driven electronic system design",
-      "url": "https://www.engineering.com/cadence-and-nokia-advance-ai-driven-electronic-system-design/",
-      "source": "Engineering.com",
-      "category": "cad",
-      "published_iso": "2026-10-23T09:19:54+00:00",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2024/12/cadence-logo-1.jpg",
-      "excerpt": "The on-premises platform accelerates key design and analysis workflows by 5X while keeping sensitive engineering data and IP secure."
+      "title": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation",
+      "url": "https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation/",
+      "source": "NVIDIA Technical Blog",
+      "category": "render",
+      "published_iso": "2026-10-23T14:58:32Z",
+      "og_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/Microduck-labels.webp",
+      "excerpt": "Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance, and adjust its actions when obstacles block the path ahead."
     },
     {
       "title": "CloudNC launches Quote Agent",
       "url": "https://develop3d.com/manufacture/cloudnc-launches-quote-agent/",
       "source": "DEVELOP3D",
       "category": "cad",
-      "published_iso": "2026-10-23T09:43:40+00:00",
+      "published_iso": "2026-10-23T09:43:40Z",
       "og_image": "https://develop3d.com/wp-content/uploads/2026/10/CloudNC-Quote-Agent.jpg",
       "excerpt": "CloudNC launches AI Quote Agent to help manufacturers assess new jobs, and prepare quotes quickly freeing up estimators"
     },
     {
-      "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
-      "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
-      "source": "NVIDIA Blog",
-      "category": "render",
-      "published_iso": "2026-10-22T05:00:27+00:00",
-      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026.jpg",
-      "excerpt": "New tools joining NVIDIA Cosmos are helping accelerate data pipelines, train, evaluate and optimize world models more efficiently, and improve accuracy at lower cost."
-    },
-    {
-      "title": "Blue Planet III is keeping the rough edges in the age of AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-      "source": "The Verge",
-      "category": "workflow",
-      "published_iso": "2026-10-24T21:29:12+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&strip=all&crop=0%2C3.4695867913185%2C100%2C93.060826417363&w=1200",
-      "excerpt": "BBC’s Blue Planet III is keeping in shots that would normally end up on the cutting room floor to prove it’s real."
-    },
-    {
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "source": "The Verge",
-      "category": "workflow",
-      "published_iso": "2026-10-24T18:32:21+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "Pennsylvania’s AI Deceptive Advertising Act leaves a lot of loopholes.",
-      "history_match": {
-        "score": 0.15,
-        "date": "2026-10-01",
-        "url": "https://runway.com/news/introducing-runway-ads",
-        "title": "Introducing Runway Ads",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-      "source": "The Verge",
-      "category": "workflow",
-      "published_iso": "2026-10-23T19:32:39+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "Hello, Dessa?"
-    },
-    {
-      "title": "Affinity MCP vs code: why I make my thumbnails with a script",
-      "url": "https://dev.to/argbetech/affinity-mcp-vs-code-why-i-make-my-thumbnails-with-a-script-2dom",
-      "source": "DEV Community",
-      "category": "figma",
-      "published_iso": "2026-10-24T22:00:00Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Flyi9h40j0bivzvagaw9h.png",
-      "excerpt": "Failing is hard. Especially when the tutorial is already recorded.  I wanted to show how an agent can..."
-    },
-    {
-      "title": "Introducing ULPG: an open landing-page guide for people and AI agents",
-      "url": "https://dev.to/frozonfreak/introducing-ulpg-an-open-landing-page-guide-for-people-and-ai-agents-365h",
-      "source": "DEV Community",
-      "category": "tokens",
-      "published_iso": "2026-10-24T09:09:22Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fna9bxgq3z12rs5u4q40j.png",
-      "excerpt": "Most landing-page advice comes as a template: a hero of a certain height, three feature cards, a..."
-    },
-    {
-      "title": "How to Turn a Written Brief into a Floor Plan Concept Without Opening CAD",
-      "url": "https://dev.to/edufodev/how-to-turn-a-written-brief-into-a-floor-plan-concept-without-opening-cad-2f6p",
-      "source": "DEV Community",
+      "title": "Cadence and Nokia advance AI-driven electronic system design",
+      "url": "https://www.engineering.com/cadence-and-nokia-advance-ai-driven-electronic-system-design/",
+      "source": "Engineering.com",
       "category": "cad",
-      "published_iso": "2026-10-24T20:57:45Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fz4kr3nh6nkrzzc1vzqy0.png",
-      "excerpt": "Design briefs rarely arrive as drawings. They arrive as sentences: a family of four, a home office...",
+      "published_iso": "2026-10-23T09:19:54Z",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2024/12/cadence-logo-1.jpg",
+      "excerpt": "The on-premises platform accelerates key design and analysis workflows by 5X while keeping sensitive engineering data and IP secure."
+    },
+    {
+      "title": "NVIDIA expands Isaac tools for humanoid robot development",
+      "url": "https://www.engineering.com/nvidia-expands-isaac-tools-for-humanoid-robot-development/",
+      "source": "Engineering.com",
+      "category": "cad",
+      "published_iso": "2026-10-23T13:22:39Z",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/10/NVIDIA-expands-Isaac-tools-for-humanoid-robot-development.jpeg",
+      "excerpt": "New reference platforms, datasets and runtimes support robot learning workflows from simulation and training through deployment.",
       "history_match": {
-        "score": 0.153,
-        "date": "2026-10-21",
-        "url": "https://siliconangle.com/2026/10/19/neural-concept-launches-mcp-to-help-ai-agents-operate-commercial-cad-tools/",
-        "title": "Neural Concept launches MCP to help AI agents operate commercial CAD tools",
+        "score": 0.195,
+        "date": "2026-10-10",
+        "url": "https://developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models/",
+        "title": "NVIDIA turns CAD into SimReady robot assets",
         "band": "related"
       }
     },
     {
-      "title": "A jumping, punching, kung fu-trained robot that protects your house and family—what could go wrong?",
-      "url": "https://www.fastcompany.com/91628448/unitree-robotic-bodyguard-h2-x",
-      "source": "Fast Company",
+      "title": "Epic Games is promoting a game jam where AI is welcome with a six-fingered hand.",
+      "url": "https://www.theverge.com/games/1017223/epic-games-is-promoting-a-game-jam-where-ai-is-welcome-with-a-six-fingered-hand",
+      "source": "The Verge",
       "category": "workflow",
-      "published_iso": "2026-10-23T10:00:00+00:00",
-      "og_image": null,
-      "excerpt": "Unitree's H2-X 'Kung Fu Legend Guardian' humanoid pitches a home-defense robot; Fast Company's design desk argues it drags battlefield AI's friend-or-foe problem into the living room."
+      "published_iso": "2026-10-22T23:23:03Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/HVQec2HbcAEtVxr.jpeg?quality=90&strip=all&crop=0%2C9.9275070479259%2C100%2C80.144985904148&w=1200",
+      "excerpt": "Epic Games is promoting an AI-welcome game jam with a six-fingered-hand graphic, after Tim Sweeney said the company is pivoting to 'retool for maximum AI acceleration' and shipped a vibe-coded launcher update."
     },
     {
-      "title": "Optimize AI credits with the Figma agent",
-      "url": "https://www.youtube.com/watch?v=eeJ7d0V2ayU",
-      "source": "Figma (YouTube)",
-      "category": "social",
-      "published_iso": "2026-10-22T08:31:05-07:00",
-      "og_image": "https://i.ytimg.com/vi/eeJ7d0V2ayU/maxresdefault.jpg",
-      "excerpt": "In this video, we'll walk through some best practices to help you get more out of Figma’s agent. Working with the Figma agent uses AI credits, and prompting ...",
+      "title": "People are fixing their TV OSes with Claude",
+      "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+      "source": "The Verge",
+      "category": "workflow",
+      "published_iso": "2026-10-23T13:00:00Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/cleanyourtv-home-page.jpg?quality=90&strip=all&crop=0%2C3.4685863874346%2C100%2C93.062827225131&w=1200",
+      "excerpt": "Users are vibe coding with Claude to replace cluttered smart-TV interfaces, producing cleaner, ad-free UIs."
+    },
+    {
+      "title": "Send feedback from the Vercel MCP",
+      "url": "https://vercel.com/changelog/send-feedback-from-vercel-mcp",
+      "source": "Vercel",
+      "category": "figma",
+      "published_iso": "2026-10-23T20:53:00Z",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5zUPDbfsi6JNUM6IRgNFRQ/d3a2f741d6d947709a347712fc2ce8ee/vercel-mcp-feedback-og.png",
+      "excerpt": "The Vercel MCP now includes the submit_feedback tool to sends bugs, friction reports, and feature requests directly to the Vercel team,",
       "history_match": {
-        "score": 0.217,
-        "date": "2026-10-24",
-        "url": "https://www.figma.com/blog/how-to-put-your-design-system-to-work-with-the-figma-agent/",
-        "title": "How to Put Your Design System to Work With the Figma Agent",
+        "score": 0.192,
+        "date": "2026-10-25",
+        "url": "https://vercel.com/blog/how-vercel-agent-accesses-production-safely",
+        "title": "How Vercel Agent accesses production safely",
         "band": "related"
       }
-    },
-    {
-      "title": "ShipSF Workshops - Embed Generative UI Agents in Your App with Codex and Vercel",
-      "url": "https://www.youtube.com/watch?v=nkgaF9vlIKk",
-      "source": "Vercel (YouTube)",
-      "category": "social",
-      "published_iso": "2026-10-21T22:47:24-07:00",
-      "og_image": "https://i.ytimg.com/vi/nkgaF9vlIKk/maxresdefault.jpg",
-      "excerpt": "Vercel.com"
     },
     {
       "title": "AI News: 24 Things You Need To Know This Week",
       "url": "https://www.youtube.com/watch?v=TVRCcMlvR10",
       "source": "Matt Wolfe (YouTube)",
       "category": "social",
-      "published_iso": "2026-10-23T10:40:19-07:00",
+      "published_iso": "2026-10-23T17:40:19Z",
       "og_image": "https://i.ytimg.com/vi/TVRCcMlvR10/maxresdefault.jpg",
-      "excerpt": "Sign into Hyperagent with your existing ChatGPT plan, or choose a paid plan and get $100 in bonus credits: https://hyperagent.com/invite/MATT100?utm_source=y..."
+      "excerpt": "Matt Wolfe's weekly roundup of 24 AI news items, covering new agents, models and creative tools released this week."
+    },
+    {
+      "title": "My Honest Take on Muse, Grok Bot, Dots & Duet",
+      "url": "https://www.youtube.com/watch?v=Bd8-geZPwI4",
+      "source": "The AI Advantage (YouTube)",
+      "category": "social",
+      "published_iso": "2026-10-23T16:10:03Z",
+      "og_image": "https://i.ytimg.com/vi/Bd8-geZPwI4/maxresdefault.jpg",
+      "excerpt": "Igor Pogany compares the new AI agents Meta Muse, Grok Bot, Dots and Duet, and says which ones are worth using and for whom.",
+      "history_match": {
+        "score": 0.313,
+        "date": "2026-10-24",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+        "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+        "band": "related"
+      }
     }
   ],
   "dedup": {
@@ -232,35 +239,10 @@
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 7,
+    "review": 8,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-09-25",
-      "title": "How a studio created an \"impossible\" animated symphony using Autodesk",
-      "url": "https://www.creativebloq.com/art/animation/how-a-studio-created-an-impossible-animated-symphony-using-autodesks-ai-driven-mocap-tech"
-    },
-    {
-      "date": "2026-09-25",
-      "title": "AI Design Patterns: A Practical Guide for Product Teams",
-      "url": "https://www.eleken.co/blog-posts/ai-agent-design-patterns"
-    },
-    {
-      "date": "2026-09-25",
-      "title": "What It Takes to Build Great Products Now",
-      "url": "https://www.figma.com/blog/what-it-takes-to-build-great-products-now/"
-    },
-    {
-      "date": "2026-09-25",
-      "title": "Meta is going to let you build games with AI right on your phone",
-      "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games"
-    },
-    {
-      "date": "2026-09-25",
-      "title": "4 Figma Motion tricks worth stealing | Show Your Work",
-      "url": "https://www.youtube.com/watch?v=UHupJZO7DTw"
-    },
     {
       "date": "2026-09-26",
       "title": "Adam launches Migrations for AI CAD data translation",
@@ -960,6 +942,31 @@
       "date": "2026-10-24",
       "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent"
+    },
+    {
+      "date": "2026-10-25",
+      "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+      "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/"
+    },
+    {
+      "date": "2026-10-25",
+      "title": "Introducing ULPG: an open landing-page guide for people and AI agents",
+      "url": "https://dev.to/frozonfreak/introducing-ulpg-an-open-landing-page-guide-for-people-and-ai-agents-365h"
+    },
+    {
+      "date": "2026-10-25",
+      "title": "How Vercel Agent accesses production safely",
+      "url": "https://vercel.com/blog/how-vercel-agent-accesses-production-safely"
+    },
+    {
+      "date": "2026-10-25",
+      "title": "Siemens expands agentic AI for 3D IC design workflows",
+      "url": "https://www.engineering.com/siemens-expands-agentic-ai-for-3d-ic-design-workflows/"
+    },
+    {
+      "date": "2026-10-25",
+      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"
     }
   ]
 }

@@ -9662,6 +9662,124 @@
           "x": "出力は必ず見直す。エージェントが同じ間違いを繰り返すなら、ガイドライン、ライブラリ、実例を更新する。"
         }
       ]
+    },
+    "design/design-b2b-chat-line": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Di003Ys9ARp2QsB9IF15Eg.png",
+          "cap": "どのロードマップにもチャット欄がある。それが誰のためかに答えられるものは少ない。"
+        },
+        {
+          "t": "p",
+          "x": "今やほぼすべてのB2Bアプリケーションにチャット欄がある。Patrick Neemanは、それが誰のためのものかを問う。対象は、数十年かけて自分の領域とソフトウェアを習得してきた保険の損害査定担当者、弁護士、供給計画担当者だ。"
+        },
+        {
+          "t": "p",
+          "x": "チャットは専門家がすでに対価を払って身につけたスキルを置き換え、主に初心者を助ける。対話は記憶の問題を解決するが、専門家はフィールド名もステータスコードも正確なフィルターも知っている。しかもフィルターは全体を見せるのに対し、チャットの答えは尋ねたことしか教えない。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*0KrGdAZuSwqCRE6qAPhZSg.png",
+          "cap": "METRの試験では、熟練開発者はAIを使うと19%遅くなったが、本人たちは逆だと信じていた。"
+        },
+        {
+          "t": "p",
+          "x": "METRは熟練開発者がAIツールを使うと19%遅くなることを示し、Stanfordの研究者は法律調査ツールが17%から33%の割合で幻覚を起こすことを明らかにした。そのため専門家はいまもすべての出力を確認している。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*wZUAQ2DcQddk7Sw3_Jji7Q.png",
+          "cap": "行き先は三つ、そのうちチャット欄はひとつだけだ。"
+        },
+        {
+          "t": "p",
+          "x": "Neemanの答えはこうだ。定型的な作業はインターフェースに残し、まれな作業はチャットへ、継続的な作業は人の判断が必要なときだけ割り込むアンビエントエージェントに任せる。「チャットは頼まれるのを待つ。アンビエントエージェントはすでに知っている」"
+        }
+      ]
+    },
+    "design/design-ai-firms-human-brands": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/8iLPH4BsY5429rchU9dzuZ.png",
+          "cap": "How&HowによるIdeogramのリブランドは、脳の形をしたマークと、Photoshopで手作業で仕上げたAI生成(AI-generated)画像を軸にしている。(Image credit: How&How/Ideogram)"
+        },
+        {
+          "t": "p",
+          "x": "人間のデザイナーから仕事を奪おうと躍起になっているように見えるAI企業こそが、自社のブランドアイデンティティには人間のデザイナーを起用し続けている。IdeogramはHow&How、AI動画アプリのElvaはLazarev、AI監査企業のClusiaはTogether、そしてMetaの新しいAIプラットフォームMuseはレタリングアーティストのJessica Hischeだ。"
+        },
+        {
+          "t": "p",
+          "x": "Tom Mayの答えはこうだ。ブランディングが見た目を整えるためのものだったことは一度もない。人に信じてもらうためのものであり、AI企業はデザイナーからも一般の人々からも信頼の問題を抱えている。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/eyb69kyib2ifYxEkYbgUqZ.png",
+          "cap": "LazarevによるElvaのブランドシステムは、このAI動画エディターに、ユーザーが話しかけたくなる親しみやすい人格を与えることを狙う。(Image credit: Lazarev/Elva)"
+        },
+        {
+          "t": "p",
+          "x": "HischeはMuseの仕事をめぐってThreadsで激しく批判された。12,500ドルの報酬が小さな二つのスタジオとそのスタッフを支える助けになると説明したにもかかわらずだ。Mayは怒りに理解を示しつつ、断っても大して変わらないとみる。彼らは別の誰かを見つけるだけだからだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/bbihuCHghiaC2K3uSv94gZ.webp",
+          "cap": "TogetherによるClusiaのアイデンティティ (Image credit: Together/Clusia)"
+        },
+        {
+          "t": "p",
+          "x": "AI企業が人間らしく見せるために人間にお金を払いたいのなら、その金を受け取り、見事な仕事をして、なぜ依頼したのかを皆に思い出させるのが一番だと彼は主張する。"
+        }
+      ]
+    },
+    "design/design-impeccable-skill": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xdyvbd5af4n0a30zef5.webp"
+        },
+        {
+          "t": "p",
+          "x": "AIが作った(AI-built)サイトはどれも同じに見える。どこもInter、紫のグラデーション、カードの中のカードだ。ImpeccableはAIコーディングエージェント向けのオープンソースのデザインスキルで、24のコマンド、AIっぽい(AI-looking)デザインを見抜く62の決定論的チェック、ブラウザ上でのライブな反復を備える。Apache 2.0のもとで無料だ。"
+        },
+        {
+          "t": "p",
+          "x": "Anthropicのfrontend-designスキルを出発点に、さらに推し進めたものだ。62の決定論的ルールは言語モデルもAPIキーも使わずに動き、使われすぎたフォント、色付き背景上のグレーの文字、入れ子のカード、古くさいバウンスのイージングを検出する。階層や感情的な響きは、LLM専用(LLM-only)の批評チェックが判断する。"
+        },
+        {
+          "t": "p",
+          "x": "npx impeccable installでインストールし、/impeccable initを実行するとPRODUCT.mdが書き出され、ビジュアルの方向性はDESIGN.mdにまとめられる。コマンドにはshape、craft、critique、audit、polish、bolder、quieter、typeset、layout、hardenなどがある。Claude Code、Cursor、Codex、GitHub Copilot、Gemini CLIなどに導入できる。"
+        },
+        {
+          "t": "p",
+          "x": "2025年11月に公開され、一年足らずでGitHubのスター数は86,000を超え、フォークも5,000を上回った。"
+        }
+      ]
+    },
+    "design/design-ulpg-landing-guide": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fna9bxgq3z12rs5u4q40j.png"
+        },
+        {
+          "t": "p",
+          "x": "ランディングページに関する助言の多くはテンプレートとして示される。一定の高さのヒーロー、三つの機能カード、推薦文の帯、料金表、FAQといった具合だ。テンプレートは手早く埋められるが、そのページが訪問者の実際の疑問に答えているかどうかは教えてくれない。Universal Landing Page Guide（ULPG）はその隙間を埋めようとしている。"
+        },
+        {
+          "t": "p",
+          "x": "READMEの言葉を借りれば、ULPGは「ランディングページを設計し、構築し、レビューする人とAIエージェントのためのオープンなガイド」だ。ページの種類を問わず、レイアウトを規定せず、評価したすべての項目に結果（合格、不合格、該当なし、未検証）と用いた検証方法を付ける。認証ではなく、あくまでガイドだ。初期版のv0.3.0はMIT-licensed（MITライセンス）で、ランタイム依存関係はない。"
+        },
+        {
+          "t": "p",
+          "x": "ワークフローは理解、整理、構築または修正、検証、報告の五つのステップからなり、各ステップにはページブリーフからレビューテンプレートまで、コピーして使えるテンプレートが用意されている。"
+        },
+        {
+          "t": "p",
+          "x": "ULPGはMarkdownを読めるエージェントなら何でも使え、プロバイダー固有のプラグインは要らない。エージェント向けワークフローはページの内容を指示ではなくデータとして扱い、見ることはテストではないため、スクリーンショットではキーボードアクセシビリティを証明できないとし、主張と検証済みの結果を分けて扱う。"
+        }
+      ]
     }
   }
 }

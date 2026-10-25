@@ -9473,6 +9473,152 @@
           "x": "9to5Mac updated all iWork apps and doesn’t yet see the Intelligent Assistant, but it’s possible there’s a server-side component that Apple will imminently activate."
         }
       ]
+    },
+    "gadgets/gadgets-gemini-side-panel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-2.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Following the Spark-to-Task update, the Gemini app has now rolled out redesigns of the side panel and settings on Android."
+        },
+        {
+          "t": "p",
+          "x": "This revamp starts with Google moving search to the top-right corner. The first item in the list remains New chat, with Library appearing next instead of being located near the bottom."
+        },
+        {
+          "t": "p",
+          "x": "To avoid cluttering the navigation drawer while still allowing you to view recent chats, Gemini displays only five items before making use of “More,” which expands the list upon tapping. With an AI Ultra subscription, the full list is as follows: New chat, Library, Images, Scheduled, Daily brief, Customize, Students, Videos, and Gems."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-1.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meanwhile, the Gemini app is revamping settings. Instead of having preferences split between the account menu and “Gemini Settings,” Google has consolidated everything into one page. The account menu is now just for switching accounts, leaving Feedback, or getting Help."
+        },
+        {
+          "t": "p",
+          "x": "The “Settings” page starts with Manage account and Usage limits. Under Preferences, you’ll find Notifications, Personal Intelligence, Avatar, Task settings, Theme (new), Skills, Voice, Media, Device controls, Cart and orders, and Gemini Notebook. Two other sections, Data & privacy and Get support, round out the page."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-settings-redesign-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The updated side panel and settings rolled out to iOS, macOS, and the web app last week with the launch of Gemini 4 Argon. We’re now seeing wide availability on Android following a server-side update."
+        }
+      ]
+    },
+    "gadgets/gadgets-dgx-spark-8x-cluster": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Nvidia-GTC-Berlin-announcement.png",
+          "cap": "Nvidia has some good news for DGX Spark owners"
+        },
+        {
+          "t": "p",
+          "x": "Nvidia has announced a series of upgrades for its DGX Spark AI mini PC at GTC Berlin, days before the 64 GB DGX Spark models become available on October 23. According to Nvidia, eight DGX Spark systems with 128 GB of unified memory each can provide 1 TB of memory in total, while clusters of the 64 GB variants can offer up to 512 GB."
+        },
+        {
+          "t": "p",
+          "x": "Nvidia says the extra capacity should accommodate larger AI models, longer context windows and multiple AI agents running simultaneously, naming GLM 5.3 as one frontier-class model that benefits. The systems link over built-in ConnectX-7 networking, but eight-system clusters currently require manual configuration; Nvidia Sync gets eight-system support later this month alongside a new Model Launcher."
+        },
+        {
+          "t": "p",
+          "x": "DGX Spark also gets up to a 30% speed improvement with Qwen3.8 27B, and the RTX PRO 6000 Blackwell reportedly completes agentic tasks up to 40% faster thanks to speculative-decoding work with the llama.cpp and vLLM communities. These figures apply to specific models and workloads, and Nvidia has not provided eight-system scaling benchmarks."
+        },
+        {
+          "t": "p",
+          "x": "The 64 GB DGX Spark keeps the GB10 Grace Blackwell Superchip and starts at $4,999."
+        }
+      ]
+    },
+    "gadgets/gadgets-ramdeck-hub": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/sTBjr37ftwL8aDtGAbAG78-1920-80.jpg",
+          "cap": "Image credit: indiegogo"
+        },
+        {
+          "t": "p",
+          "x": "With DDR5 now costing roughly five times what it did in mid-2025, TradeMAV thinks the answer to running bigger AI models at home is borrowing the memory already sitting in your other devices. Its RAMDeck, crowdfunding on Indiegogo and listed at $109 for early backers, is a small, low-power hub that links Windows PCs, Macs, Linux machines and Android phones into one memory pool."
+        },
+        {
+          "t": "p",
+          "x": "Nothing is merged at the hardware level. The model's layers are divided among machines, and only intermediate results pass across the network. The engine underneath is llama.cpp's RPC backend; TradeMAV adds discovery, layer placement, failure recovery, a dashboard and an OpenAI-compatible API, but publishes no hub specs."
+        },
+        {
+          "t": "p",
+          "x": "TradeMAV is frank that “pooled memory trades speed for capacity.” Its best results lean on an RTX 3060 and mixture-of-experts models, such as 39 tokens per second for Qwen3-Coder 30B, while a 27B dense model managed 1.92 tokens per second across four devices."
+        },
+        {
+          "t": "p",
+          "x": "For tinkerers, llama.cpp's RPC mode and exo cost nothing to try first. For everyone else, $109 buys convenience and, as with any crowdfunded hardware, a promise rather than a product."
+        }
+      ]
+    },
+    "gadgets/gadgets-claude-laser-range": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/claude-laser-range-featured.jpg?w=1600&h=900&fit=crop"
+        },
+        {
+          "t": "p",
+          "x": "People have been doing some really cool things lately by pointing their webcams at their screens. Just a few days ago, we saw someone breach their Samsung TV by letting Claude take photos of the screen while it was working. Now, someone has used Claude to create a light gun-esque digital shooting range that uses a red laser instead."
+        },
+        {
+          "t": "p",
+          "x": "Over on the ClaudeAI subreddit, user vkorost shared what they've been cooking up with Claude Code. It's called ScreenPlink, and it turns your monitor into a firing range using a red laser:"
+        },
+        {
+          "t": "p",
+          "x": "“I built ScreenPlink with Claude Code over about two weeks. It is a laser dry-fire shooting game where your monitor is the target. You shoot the screen with a laser trainer pistol, or with a laser cartridge in your own gun. A webcam sitting beside the monitor watches the screen rather than you, the app works out which pixel you hit, punches a bullet hole there, and the target falls.”"
+        },
+        {
+          "t": "p",
+          "x": "There are a bunch of game modes, and it even supports two-player mode, which really brings me back to using a light gun on a PlayStation back in the day. If you want to relive a bit of gaming history without needing to dust off your console, you can check out the project for yourself over on the ScreenPlink GitHub repository. It's all open-source and free to play; you just have to bring your own laser pointer."
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-sites-export": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Building something cool with Gemini is one thing; getting it out of the chatbot and into the hands of people who could use it is another. In a Workspace announcement, Google confirms that users can now export interactive apps created in Gemini directly to Google Sites — whether a calculator, quiz or elaborate dashboard — without copying code or rebuilding the experience elsewhere."
+        },
+        {
+          "t": "p",
+          "x": "Once your creation is ready in Gemini, select Export > Google Sites. Google automatically opens a new, private Sites draft with your app already embedded and fully interactive."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-1.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "From there, you can customize the surrounding website, add supporting content and publish it — think of a teacher turning a Gemini-generated quiz into a classroom resource. Google's demo shows a team performance dashboard with progress indicators and charts."
+        },
+        {
+          "t": "p",
+          "x": "The feature isn't reserved for paying Workspace customers: it is available now on the web, Android and iOS for eligible Google Workspace, Workspace Individual and personal Google account users."
+        }
+      ]
     }
   }
 }

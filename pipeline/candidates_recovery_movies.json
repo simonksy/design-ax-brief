@@ -1,130 +1,97 @@
 {
-  "date": "2026-10-19",
-  "section": "movies",
-  "window_hours": 336,
-  "now_iso": "2026-10-19T01:00:00Z",
-  "pass": "recovery-1",
-  "items": [
-    {
-      "title": "'Fall 2' reaches new heights in VFX",
-      "url": "https://beforesandafters.com/2026/10/07/fall-2-reaches-new-heights-in-vfx/",
-      "source": "befores & afters",
-      "published_iso": "2026-10-06T14:32:28+00:00",
-      "excerpt": "Koala FX breaks down its VFX for the survival-thriller sequel, including how it stress-tested Flawless's AI tools (TrueSync, first used to redub lines on 'Fall') and fed back VFX-pipeline know-how such as de-grain and flicker handling to the AI developers.",
-      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/10/IMG_6316.jpg",
-      "hit_term": "Flawless TrueSync / AI dubbing lip sync",
-      "category": "movies",
-      "fresh": true
-    },
-    {
-      "title": "The Next Generation Speaks: What Young VFX Artists Are Doing Differently",
-      "url": "https://vfxvoice.com/the-next-generation-speaks-what-young-vfx-artists-are-doing-differently/",
-      "source": "VFX Voice",
-      "published_iso": "2026-10-06T16:00:32+00:00",
-      "excerpt": "Gen Z VFX artists split on AI: some see artist-driven machine-learning tools reshaping workflows rather than replacing artists, others reject prompt-generated imagery as replacing the human touch in cinema.",
-      "og_image": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-11.jpg",
-      "hit_term": "VFX craft / AI workflow shift",
-      "category": "movies",
-      "fresh": true
-    },
-    {
-      "title": "This Voice-Controlled Camera App Can Record Portrait and Landscape Video For You at the Same Time",
-      "url": "https://nofilmschool.com/shootsolo-video-camera-app",
-      "source": "No Film School",
-      "published_iso": "2026-10-14T18:00:04+00:00",
-      "excerpt": "Shootsolo, a voice-controlled camera app and AI filming assistant for solo filmmakers and creators, adds simultaneous portrait and landscape recording to its feature set.",
-      "og_image": "https://nofilmschool.com/media-library/image.png?id=68429685&width=1200&height=600&coordinates=0%2C151%2C0%2C151",
-      "hit_term": "AI filming assistant (adjacent tools)",
-      "category": "movies",
-      "fresh": true
-    },
-    {
-      "title": "Ava DuVernay Didn't Make a Sequel — She Made '14th'",
-      "url": "https://www.indiewire.com/features/interviews/ava-duvernay-interview-14th-not-sequel-nyff-1235221117/",
-      "source": "IndieWire",
-      "published_iso": "2026-10-09T20:30:00+00:00",
-      "excerpt": "DuVernay explains that degraded archival photos from boxes, slides and family albums couldn't reach film resolution, so she worked with Natasha Lyonne's Asteria Film Co., whose AI-powered tools restored them. (ComingSoon/World of Reel report a backlash over the film's AI-animated archival images.)",
-      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2299397235.jpg?w=650",
-      "hit_term": "Asteria / AI documentary ethics / AI restoration",
-      "category": "movies",
-      "fresh": true
-    },
-    {
-      "title": "Union releases guidelines to protect voice actors from AI",
-      "url": "https://www.asahi.com/ajw/articles/16970021",
-      "source": "The Asahi Shimbun",
-      "published_iso": "2026-10-16T16:50:00+09:00",
-      "excerpt": "The Japan Actors Union issued its first AI guidelines on Oct. 15, requiring consent before voices are used to train generative AI or to make AI audio replicating them, and broadly barring AI use of deceased actors' voices or AI as a replacement in foreign-language dubbing.",
-      "og_image": "https://p.potaufeu.asahi.com/5d8f-p/picture/31449308/91d0fe5593209664a54d10f5f0739206.jpg",
-      "hit_term": "Equity/union AI provisions, AI dubbing (off-list: no allowed outlet covered it)",
-      "category": "movies",
-      "fresh": true
-    },
-    {
-      "title": "As Hollywood fights AI, a new filmmaking hub takes shape in Culver City",
-      "url": "https://www.latimes.com/business/story/2026-10-16/as-hollywood-warms-to-ai-culver-city-fills-with-ai-studios",
-      "source": "Los Angeles Times",
-      "published_iso": "2026-10-17T02:33:28Z",
-      "excerpt": "AI film studios such as Promise are clustering in Culver City and recruiting emerging and out-of-work creatives to reinvent traditional filmmaking. 'It's a great breeding ground for this new filmmaking,' says Promise co-founder Dave Clark.",
-      "og_image": "https://ca-times.brightspotcdn.com/dims4/default/857b037/2147483647/strip/true/crop/5355x2811+0+379/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4c%2F99%2F15bdcdba4e8f9197f6007c702b03%2F1547053-fi-culver-city-13-mjc.jpg",
-      "hit_term": "Promise studio AI (off-list)",
-      "category": "movies",
-      "fresh": true
-    },
-    {
-      "title": "Innovation vs job losses in local AI film 'Mountain of Graves'",
-      "url": "https://www.timeslive.co.za/lifestyle/2026-10-16-innovation-vs-job-losses-in-local-ai-film-mountain-of-graves/",
-      "source": "TimesLIVE",
-      "published_iso": "2026-10-16T07:39:14+00:00",
-      "excerpt": "South Africa's Dragon Studios made 'Mountain of Graves' on AI filmmaking platforms and was selected for the Neu Wave AI Film Festival at LA Tech Week. Director Donovan Marsh says an AI film isn't one-click: it closely mirrors traditional filmmaking, with software replacing physical sets.",
-      "og_image": "https://www.timeslive.co.za/resizer/v2/HSDG3UKX2FEZ7AEIXOYZY6CMII.jpg?smart=true&auth=4bda8c4101187ba7b5ebad9ead92d774c5c9ed38c5e1a6d33d93be1d1c3c93c0&width=1200&height=630",
-      "hit_term": "AI film festival (off-list)",
-      "category": "movies",
-      "fresh": true
-    },
-    {
-      "title": "'Niu Lai': Chinese Animation's Crude Contender",
-      "url": "https://www.animationmagazine.net/2026/10/niu-lai-chinese-animations-crude-contender/",
-      "source": "Animation Magazine",
-      "published_iso": "2026-10-13T00:10:57+00:00",
-      "excerpt": "Why global audiences embraced the amateur-made Chinese animated feature 'Niu Lai': its human-made flaws read as a counterpoint to the 'soulless factory line of generative AI' encroaching on animation.",
-      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Niu-Lai-5.jpg",
-      "hit_term": "anime/animation AI production (craft counterpoint)",
-      "category": "movies",
-      "fresh": true
-    },
-    {
-      "title": "Generate Crew seeks generative VFX trainee for 'high-profile' production in Sydney",
-      "url": "https://if.com.au/generate-crew-seeks-generative-vfx-trainee-for-high-profile-production-in-sydney/",
-      "source": "IF Magazine",
-      "published_iso": "2026-10-18T23:31:02+00:00",
-      "excerpt": "Generate Crew is recruiting a generative VFX trainee for an unannounced, high-profile streaming production shooting in Sydney, an early sign of 'generative VFX' becoming a dedicated crew role.",
-      "og_image": "https://if.com.au/wp-content/uploads/2026/10/Nerida-Groth_Trainees_Generate-Crew.jpg?resize=1200,630",
-      "hit_term": "generative AI VFX studio (off-list)",
-      "category": "movies",
-      "fresh": true
-    },
-    {
-      "title": "OpenAI reportedly wants to bring back Sora AI, but not everyone may be able to use it",
-      "url": "https://www.digit.in/news/general/openai-reportedly-wants-to-bring-back-sora-ai-but-not-everyone-may-be-able-to-use-it.html",
-      "source": "Digit",
-      "published_iso": "2026-10-13T10:43:00+05:30",
-      "excerpt": "Per The Information, OpenAI is negotiating to license its shelved Sora video model to a stealth startup co-founded by Jeffrey Katzenberg and former Sora lead Bill Peebles, which would sell film-industry tools built on it. The deal is not final.",
-      "og_image": "https://static.digit.in/OpenAI-reportedly-wants-to-bring-back-Sora-but-not-everyone-may-be-able-to-use-it.png",
-      "hit_term": "Sora / studio AI licensing deal (off-list; deal unconfirmed)",
-      "category": "movies",
-      "fresh": true
-    },
-    {
-      "title": "Why Bot VFX chose artists over AI when the clock was ticking",
-      "url": "https://www.animationxpress.com/latest-news/why-bot-vfx-chose-artists-over-ai-when-the-clock-was-ticking/",
-      "source": "AnimationXpress",
-      "published_iso": "2026-10-15T09:30:00+00:00",
-      "excerpt": "Bot VFX explains why it relied on artists rather than AI for a tight-deadline job, calling AI 'an accelerator, not a replacement' that 'works on probability' as machine learning reshapes VFX workflows.",
-      "og_image": "https://www.animationxpress.com/wp-content/uploads/2026/10/BotVFX.jpg",
-      "hit_term": "AI animation pipeline studio (off-list)",
-      "category": "movies",
-      "fresh": true
-    }
-  ]
+ "section": "movies",
+ "generated_at": "2026-10-25T22:00:38Z",
+ "window_hours": 336,
+ "items": [
+  {
+   "title": "Hollywood AI-listers: is the technology ready to rival flesh-and-blood film stars?",
+   "url": "https://www.theguardian.com/film/2026/oct/20/ai-actors-val-kilmer-as-deep-as-the-grave-tilly-norwood",
+   "source": "The Guardian",
+   "category": "movies",
+   "published_iso": "2026-10-20T06:00:18Z",
+   "og_image": "https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=1200&height=630&quality=85&auto=format&fit=crop",
+   "excerpt": "As an AI Val Kilmer stars in the western 'As Deep as the Grave' and synthetic performer Tilly Norwood heads for her feature debut, experts split on whether synthetic actors are close to mainstream adoption or still a long way off."
+  },
+  {
+   "title": "VCAT joins TV Asahi, Netflix period drama series as AI production partner",
+   "url": "https://www.digitaltoday.co.kr/en/view/118692/vcat-joins-tv-asahi-netflix-period-drama-series-as-ai-production-partner",
+   "source": "Digital Today",
+   "category": "movies",
+   "published_iso": "2026-10-23T01:47:31Z",
+   "og_image": "https://www.digitaltoday.co.kr/news/photo/202610/709487_657088_472.png",
+   "excerpt": "Korean AI studio VCAT.AI said it handled AI production for TV Asahi's period drama series 'Sanada Juyushi', also streaming on Netflix, bringing generative AI imagery into a terrestrial broadcast jidaigeki."
+  },
+  {
+   "title": "AI 영화 '라파엘', 11월 25일 롯데시네마 개봉, 메인 포스터 공개",
+   "url": "https://www.frame-less.co.kr/news/articleView.html?idxno=5627",
+   "source": "프레임리스",
+   "category": "movies",
+   "published_iso": "2026-10-23T19:37:04Z",
+   "og_image": "https://cdn.frame-less.co.kr/news/photo/202610/5627_14884_3130.jpg",
+   "excerpt": "국내 기술진이 생성형 AI로 만든 장편 SF 영화 '라파엘'(감독 양익준·문신우·정주원)이 11월 25일 롯데시네마 개봉을 확정하고 메인 포스터를 공개했다."
+  },
+  {
+   "title": "KeenTools' KeenFace Turns Photos Into MetaHuman-Ready 3D Heads",
+   "url": "https://www.awn.com/news/keentools-keenface-turns-photos-metahuman-ready-3d-heads",
+   "source": "Animation World Network",
+   "category": "movies",
+   "published_iso": "2026-10-22T17:33:52Z",
+   "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081582-kf-2026-hd-promo-1280.jpg?itok=ALIXYdoQ",
+   "excerpt": "KeenTools launched KeenFace (keenface.ai), a browser app and API that automatically builds production-ready MetaHuman-topology 3D heads with 4K PBR textures and automated de-hairing from ordinary photos, on pay-as-you-go credits."
+  },
+  {
+   "title": "Can AI replace human animators? Pixar veteran and Japanese studio chief explain",
+   "url": "https://www.khaleejtimes.com/world/can-ai-replace-human-animators-pixar-veteran-and-japanese-studio-chief-explain",
+   "source": "Khaleej Times",
+   "category": "movies",
+   "published_iso": "2026-10-24T02:00:00Z",
+   "og_image": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-10-23/yfv8fleb/comic.jpeg?width=1200&height=630&q=60&format=auto&ogImage=true&mode=crop&rect=100,0,1080,720",
+   "excerpt": "From job-loss fears to clients banning AI tools, a Pixar veteran and a Japanese animation studio head explain how AI is changing animation work and why human creativity still matters."
+  },
+  {
+   "title": "Brahma AI Improves Lip Sync In Ramayana",
+   "url": "https://www.cinejosh.com/news/1/130840/brahma-ai-improves-lip-sync-in-ramayana.html",
+   "source": "CineJosh",
+   "category": "movies",
+   "published_iso": "2026-10-25T07:43:45Z",
+   "og_image": "https://www.cinejosh.com/newsimg/newsmainimg/brahma-ai-improves-lip-sync-in-ramayana-1792914220139-1792914221228.jpg",
+   "excerpt": "Brahma AI's VAANI engine adjusts actors' lip movements to match translated dialogue in 'Ramayana', after language experts and human dubbing artists prepare each localized track."
+  },
+  {
+   "title": "언에이아이, Web Summit 2026서 AI 더빙 엔진 'DynEx' 선보여",
+   "url": "https://kr.aving.net/news/articleView.html?idxno=1816067",
+   "source": "에이빙(AVING)",
+   "category": "movies",
+   "published_iso": "2026-10-24T08:07:30Z",
+   "og_image": "https://cdn.kr.aving.net/news/photo/202610/1816067_783763_1133.png",
+   "excerpt": "AI 콘텐츠 현지화 기업 언에이아이가 웹서밋 2026에서 다국어 AI 더빙 엔진 DynEx를 선보이며 OTT·FAST용 대량 콘텐츠 현지화 시간을 줄이겠다고 밝혔다."
+  },
+  {
+   "title": "'부산→서울' 영진위, AI 영화 제작 교육 결과물 공유",
+   "url": "https://www.nc.press/news/articleView.html?idxno=629065",
+   "source": "뉴스컬처",
+   "category": "movies",
+   "published_iso": "2026-10-21T00:22:29Z",
+   "og_image": "https://cdn.nc.press/news/photo/202610/629065_865798_194.jpeg",
+   "excerpt": "영화진흥위원회가 부산에서 시작한 AI 영화 제작 교육의 완성작을 서울에서 공유하며 AI 창작 가능성을 모색하는 자리를 마련한다."
+  },
+  {
+   "title": "부산국제단편영화제, MK2 에이전시와 '아트팩트 AI 영화제' 업무협약 체결",
+   "url": "https://www.indifocus.kr/83124",
+   "source": "인디포커스",
+   "category": "movies",
+   "published_iso": "2026-10-19T03:07:00Z",
+   "og_image": "https://www.indifocus.kr/data/jmbc_tv/mainimages/202610/250_188_2026101907154154.png",
+   "excerpt": "부산국제단편영화제가 파리에서 MK2 에이전시와 '아트팩트 AI 영화제' 협력 업무협약을 맺었다."
+  },
+  {
+   "title": "트윈플러스, AI 애니메이션 제작 확대…역사 인물 2편 첫 공개",
+   "url": "https://www.newspim.com/news/view/20261023001015",
+   "source": "뉴스핌",
+   "category": "movies",
+   "published_iso": "2026-10-23T06:47:00Z",
+   "og_image": "",
+   "excerpt": "웹소설·웹툰 IP 스튜디오 트윈플러스가 AI 기반 애니메이션 제작으로 영역을 넓혀 실화 기반 역사 애니메이션 2편을 처음 공개했다."
+  }
+ ]
 }

@@ -1,107 +1,88 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "section": "design",
   "user_selection": null,
   "picks": [
     {
       "rank": 1,
-      "title": "Introducing ULPG: an open landing-page guide for people and AI agents",
-      "url": "https://dev.to/frozonfreak/introducing-ulpg-an-open-landing-page-guide-for-people-and-ai-agents-365h",
+      "title": "Nobody asked for the sparkle button",
+      "url": "https://uxdesign.cc/nobody-asked-for-the-sparkle-button-ae54ab5065c6",
+      "source": "UX Collective",
+      "category": "figma",
+      "tool": "Figma",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "published_iso": "2026-10-25T12:33:57Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*zO6YRwfqZ98I2mbNC4MBNw.png",
+      "excerpt": "Products ship with the same AI sparkle panel while people hunt for the off switch and spend outruns returns; the author argues teams should build features with AI, not AI features.",
+      "rationale": "A sharp product-design argument against bolt-on AI sparkle panels that gives teams a test to apply to their own roadmap: build features with AI, not AI features. It is a different thesis from earlier UXC pieces in the history."
+    },
+    {
+      "rank": 2,
+      "title": "Where to draw the line before AI reaches professional users",
+      "url": "https://uxdesign.cc/where-to-draw-the-line-before-ai-reaches-professional-users-09d61f61b2b5",
+      "source": "UX Collective",
+      "category": "figma",
+      "tool": "Figma",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "published_iso": "2026-10-25T12:31:45Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*Di003Ys9ARp2QsB9IF15Eg.png",
+      "excerpt": "Every B2B roadmap now has a chat box; six questions for deciding whether a conversational layer speeds experts up or puts a keyboard between them and work they already know.",
+      "rationale": "Swap-in #2 for the Epic game-jam card. It gives B2B product designers a six-question checklist for deciding whether a chat layer helps expert users or slows them down, which they can apply to a roadmap tomorrow. It is a different thesis from the 10-12 Tesler's-law piece and the 10-08 bounded-delegation piece. This is the third figma-category card (cap relaxed to 3 for this swap) and gets the palette accent #7928ca."
+    },
+    {
+      "rank": 3,
+      "title": "Why do AI platforms want humans to design their branding?",
+      "url": "https://www.creativebloq.com/news/why-do-ai-platforms-want-humans-to-design-their-branding",
+      "source": "Creative Bloq",
+      "category": "figma",
+      "tool": "Figma",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "published_iso": "2026-10-25T08:01:03Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/8iLPH4BsY5429rchU9dzuZ-1920-80.png",
+      "excerpt": "AI firms keep hiring human designers and agencies for their own brand identities, a telling irony for the creative industry.",
+      "rationale": "Points out that AI companies still hire human studios for their own brand identities, which is useful context for brand designers pitching against generative tools. It is a different story from the 09-28 NASA-brand piece. The second figma-category pick gets the palette accent #eb367f."
+    },
+    {
+      "rank": 4,
+      "title": "Impeccable: The Open-Source Design Skill That Stops AI Websites Looking AI-Generated",
+      "url": "https://dev.to/itxtayab/impeccable-the-open-source-design-skill-that-stops-ai-websites-looking-ai-generated-3i20",
       "source": "DEV Community",
       "category": "tokens",
       "tool": "Design Tokens",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "published_iso": "2026-10-24T09:09:22Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fna9bxgq3z12rs5u4q40j.png",
-      "excerpt": "Most landing-page advice comes as a template: a hero of a certain height, three feature cards, a...",
-      "rationale": "A newly released open guide that both designers and coding agents can read, so teams can hand landing-page rules to an agent tomorrow. It is different from the 10-20 WunderUI design-system launch."
-    },
-    {
-      "rank": 2,
-      "title": "How Vercel Agent accesses production safely",
-      "url": "https://vercel.com/blog/how-vercel-agent-accesses-production-safely",
-      "source": "Vercel",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "published_iso": "2026-10-23T20:29+00:00",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cafef5b99ad121eaf5b0cc65/542ff0db971f92dcc52edc05eba0320a/how_vercel_agent_ensures_safe_access_to_production_og_card.jpg",
-      "excerpt": "Learn how Vercel Agent investigates production issues, requests approval for changes, and uses scoped credentials to limit access while carrying out a plan.",
-      "rationale": "A first-party breakdown of how an agent investigates production issues, asks for approval before acting and limits itself with scoped credentials. It is a concrete pattern for designing approval and permission steps in agent products. It is a separate post from the broad 10-17 Ship recap, and it backfills the stale Affinity MCP pick."
-    },
-    {
-      "rank": 3,
-      "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
-      "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
-      "source": "NVIDIA Blog",
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "published_iso": "2026-10-22T05:00:27+00:00",
-      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026.jpg",
-      "excerpt": "New tools joining NVIDIA Cosmos are helping accelerate data pipelines, train, evaluate and optimize world models more efficiently, and improve accuracy at lower cost.",
-      "rationale": "A concrete new release of world-model tooling from a credible vendor, and it fills the render/3D slot. It is a different release from the 10-22 NVIDIA Europe industrial post and the 10-12 Odyssey-3 world model."
-    },
-    {
-      "rank": 4,
-      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-      "source": "The Verge",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "published_iso": "2026-10-23T19:32:39+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "Hello, Dessa?",
-      "rationale": "A new release: Block's Dessa voice model is built to sound hesitant and human, not polished. It is a concrete reference point for teams designing the personality and pacing of a voice interface. No history match, and no other section has claimed it."
-    },
-    {
-      "rank": 5,
-      "title": "Siemens expands agentic AI for 3D IC design workflows",
-      "url": "https://www.engineering.com/siemens-expands-agentic-ai-for-3d-ic-design-workflows/",
-      "source": "Engineering.com",
-      "category": "cad",
-      "tool": "Text-to-CAD",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "published_iso": "2026-10-22T14:03:59+00:00",
-      "og_image": null,
-      "excerpt": "The workflow coordinates electrothermal analysis across seven EDA tools to evaluate hundreds of design points per cycle.",
-      "rationale": "A new announcement from a major engineering-software vendor: an agentic workflow that coordinates seven EDA tools to sweep hundreds of design points per cycle. It fills the CAD slot as a backfill. Its history_match (Adobe/NVIDIA agentic creation, 10-18) is a different vendor and domain."
+      "published_iso": "2026-10-25T08:26:31Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xdyvbd5af4n0a30zef5.webp",
+      "excerpt": "Impeccable is an open-source design skill for AI coding agents that targets the tells of AI-built sites (Inter everywhere, purple gradients, nested cards) and pushes output toward deliberate visual design.",
+      "rationale": "A specific open-source agent skill that designers can install tomorrow to steer coding agents away from default AI styling. It is a different tool from the 10-22 haoli de-slop skill, which was the author's own project."
     }
   ],
   "dedup": {
     "checks": {
-      "https://dev.to/frozonfreak/introducing-ulpg-an-open-landing-page-guide-for-people-and-ai-agents-365h": {
+      "https://uxdesign.cc/nobody-asked-for-the-sparkle-button-ae54ab5065c6": {
         "verdict": "new",
-        "nearest": "https://dev.to/wunderui/introducing-wunderui-the-agentic-design-system-1oag",
+        "nearest": "https://uxdesign.cc/ai-generated-ui-is-fast-design-not-ux-855ca8abcd28",
         "new_action": ""
       },
-      "https://vercel.com/blog/how-vercel-agent-accesses-production-safely": {
+      "https://uxdesign.cc/where-to-draw-the-line-before-ai-reaches-professional-users-09d61f61b2b5": {
         "verdict": "new",
-        "nearest": "https://dev.to/katsudo/before-an-ai-agent-acts-show-me-what-it-can-change-515h",
+        "nearest": "https://uxdesign.cc/teslers-law-complexity-survived-the-chat-field-it-just-moved-to-a-different-place-in-the-journey-8a63f099f490",
         "new_action": ""
       },
-      "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/": {
+      "https://www.creativebloq.com/news/why-do-ai-platforms-want-humans-to-design-their-branding": {
         "verdict": "new",
-        "nearest": "https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free/",
+        "nearest": "https://www.creativebloq.com/design/we-have-the-kind-of-stuff-ai-wishes-it-could-make-why-trust-is-more-important-than-ever-for-the-nasa-brand",
         "new_action": ""
       },
-      "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech": {
+      "https://dev.to/itxtayab/impeccable-the-open-source-design-skill-that-stops-ai-websites-looking-ai-generated-3i20": {
         "verdict": "new",
-        "nearest": "",
-        "new_action": ""
-      },
-      "https://www.engineering.com/siemens-expands-agentic-ai-for-3d-ic-design-workflows/": {
-        "verdict": "new",
-        "nearest": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
+        "nearest": "https://dev.to/haoli/i-built-a-claude-code-skill-that-de-slops-ai-generated-web-design-42kn",
         "new_action": ""
       }
     },
-    "note": "Third pass. Slot 2 changed: the DEV 'Affinity MCP vs code' post was dropped because a version first appeared on LinkedIn on 2026-10-07, outside the 72h window. It is replaced by Vercel 'How Vercel Agent accesses production safely' (10-23). That post has no history_match. Its nearest published items are the 10-11 dev.to 'Before an AI agent acts' essay, which is a different source and an essay rather than a vendor implementation, and the 10-17 Vercel Ship recap, which is broad event coverage and not this post. Its URL is not in /tmp/ax_claimed_urls.txt. Cadence/Nokia was considered and passed over: it would be a second EDA press release next to Siemens. Earlier passes removed: Blue Planet III (movies published the same story on 10-20), the Fast Company Unitree critique (overlaps today's gadgets Unitree story), Pennsylvania ad labels (claimed by marketing and politics) and the 80 Level Tripo piece (vendor advertorial, also claimed by games). Also excluded: Figma code-layers examples (repeat of the 10-17 and 10-18 feature), the Figma AI-credits video (content-hub sibling of the 10-24 Figma agent post), the Builder.io agent-actions essay (follow-up to the 10-15 Agent-Native launch), the Vercel ShipSF workshop (extra coverage of the Ship event), the Matt Wolfe roundup (sponsored plug) and the dev.to floor-plan post (tool promo). Final 5: five outlets (DEV Community, Vercel, NVIDIA Blog, The Verge, Engineering.com) and five categories (tokens, figma, render, workflow, cad). No repeated URLs."
+    "note": "SWAP #3 (post-fact-check re-curation 2026-10-26): removed 80 Level 'How Tripo P2.0 & Astra Work Together in Blender and Unity'. The fact-check found it is a vendor Q&A in which Tripo's own team answers every question, with promo banners throughout. The movies curator rejected the same article today on the same grounds. No backfill was found, so the section ships 4 picks rather than padding. Every remaining candidate failed a test. Figma '6 ways teams experiment with code layers' is first-party vendor content and repeats the code-layers story published 10-17 and 10-18. UXC 'Context advantage of human UX' would be a third UX Collective card, over the 2-per-outlet cap, and it is close to the 10-12 NNG Context Libraries piece. dev.to 'Your AI-generated UI doesn't need another gradient' has the same core topic as the Impeccable pick (de-slopping default AI UI styling) and the 09-30 and 10-22 de-slop cards. dev.to 'Is AI making designers lazy thinkers?' is an evergreen essay close to the 10-01 Core77 and 10-06 UXC skill-atrophy pieces. Creative Bloq 'Just Eat AI apocalypse' is the same Just Eat story published 10-22 via PetaPixel. CloudNC Quote Agent and Cadence/Nokia are vendor announcements with little design relevance. NVIDIA Microduck and Isaac are robotics, and NVIDIA already ran 10-25. Vercel MCP feedback is a minor vendor changelog, and Vercel ran 10-25. Matt Wolfe is a generic weekly roundup. The AI Advantage Muse/Grok/Dots/Duet review repeats agents covered 10-24 and 10-10. The two Verge pieces are excluded as cross-section repeats: the TV-OS piece duplicates the gadgets 10-20 story and the Epic jam piece duplicates the games 10-23 MegaJam story. Earlier swaps: #1 removed the Verge TV-OS piece and #2 removed the Verge Epic jam piece, with UXC 'Where to draw the line' as the replacement. Outlets: UX Collective 2, Creative Bloq 1, DEV Community 1 (3 distinct, max 2 per outlet). Categories: figma x3 (cap relaxed by orchestrator), tokens x1."
   }
 }

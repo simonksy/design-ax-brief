@@ -1,96 +1,101 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "section": "politics",
   "picks": [
     {
-      "url": "https://www.rapporteur.com/news/lead-mep-seeks-ai-evaluation-role-for-eu-cyber-agency/",
-      "title": "Lead MEP seeks AI evaluation role for EU cyber agency",
-      "source": "Rapporteur",
+      "url": "https://thehill.com/homenews/administration/6167231-treasury-proposes-curbs-artificial-intelligence/",
+      "title": "Treasury Department proposes curbs on high-tech investments, including AI, in China, Russia, North Korea",
+      "source": "The Hill (via MSN)",
+      "category": "politics",
       "tool": "Politics",
       "accent": "#3b6bff",
       "motif": "cube",
-      "rationale": "Policy axis. A legislative filing: the rapporteur on the Cybersecurity Act revision proposes amendments that would give ENISA a role in evaluating AI systems. That would add a new EU body that AI builders could face for evaluation. The page is Cloudflare-blocked and was verified via RSS, so enrichment may need a fallback.",
-      "published_iso": "2026-10-22T14:28:05+00:00",
-      "og_image": "https://www.rapporteur.com/content/uploads/2026/10/GettyImages-2267867702.jpg",
-      "excerpt": "Proposed Cybersecurity Act changes would give the EU cyber agency a role in evaluating AI, as AI reshapes hacking and cyber defence."
+      "rationale": "Geopolitics and policy axis. An official proposed rule: Treasury would expand the Outbound Investment Security Program to cover U.S. investments over $50,000 in AI and other critical tech in countries of concern, implementing the 2025 COINS Act. This directly changes where U.S. AI capital can go. Lead with the rule text and avoid characterising motives.",
+      "published_iso": "2026-10-23T02:37:59Z",
+      "og_image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2aTQNz.img",
+      "excerpt": "Treasury proposed a rule expanding the Outbound Investment Security Program to cover US investments over $50,000 in AI, HPC, quantum, hypersonics and biotech in China, Russia, North Korea and other countries of concern, implementing the 2025 COINS Act."
     },
     {
-      "url": "https://www.nextgov.com/policy/2026/10/tech-bills-week-preventing-ai-model-theft-regulating-ai-generated-political-content-and-more/416796/",
-      "title": "Tech bills of the week: Preventing AI model theft; Regulating AI-generated political content; and more",
-      "source": "Nextgov/FCW",
-      "tool": "Politics",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "rationale": "Geopolitics and policy axis. A new bill: Reps. Harrigan and Whitesides introduced legislation that has NIST set standards against foreign 'distillation' attacks that copy U.S. AI models. The card should lead with the distillation bill only. The roundup's Brown AI-ad-label bill already ran 10-22, and AI-ad labelling is marketing's Pennsylvania card today.",
-      "published_iso": "2026-10-23T19:48:00Z",
-      "og_image": "https://cdn.nextgov.com/media/img/cd/2026/10/23/860x394_1-1/open-graph.jpg",
-      "excerpt": "Lawmakers this week took aim at foreign efforts to create knockoff copies of U.S.-made AI models and AI’s capability to influence voting."
-    },
-    {
-      "url": "https://www.politico.eu/article/the-cyber-flaw-scramble-that-brought-the-ai-threat-to-life/",
-      "title": "Inside the cyber flaw scramble that brought the AI threat to life",
-      "source": "POLITICO Europe",
-      "tool": "Politics",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "rationale": "Policy and security axis. Government cyber agencies worldwide spent 72 hours responding to AI-discovered vulnerabilities in PHP. This is the first concrete case of AI-found flaws driving a coordinated state response, and the AI angle cannot be removed from the story.",
-      "published_iso": "2026-10-24T02:00:00+00:00",
-      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/23/GettyImages-2301068370-scaled.jpg",
-      "excerpt": "Vulnerabilities in a programming language underpinning much of the web set off a hectic 72-hour rush among virtually every cybersecurity agency in the world."
-    },
-    {
-      "url": "https://www.euronews.com/2026/10/22/palantir-says-nato-ai-system-has-no-kill-switch-after-starlink-disruptions-in-ukraine",
-      "title": "Palantir vows NATO AI system has no ‘kill switch’ after Starlink row",
-      "source": "Euronews",
-      "tool": "Politics",
-      "accent": "#ff5a4d",
-      "motif": "cube",
-      "rationale": "Geopolitics axis. Europe worries about depending on U.S.-controlled military AI after Ukraine's Starshield access was disrupted, and Palantir says it cannot shut off NATO's Maven Smart System. The copy must attribute that claim to Palantir and not state it as fact.",
-      "published_iso": "2026-10-22T12:28:31+02:00",
-      "og_image": "https://images.euronews.com/articles/stories/09/96/28/07/1200x675_cmsv2_8bbe6607-7db4-5ba8-b07a-9f0ce22b288c-9962807.jpg",
-      "excerpt": "The American software firm says it cannot shut off NATO AI systems amid European fears of dependence on US tech following disruptions to Ukraine’s Starshield access."
-    },
-    {
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/23/red-team-report-found-openai-utterly-failed-to-monitor-its-agents-during-hugging-face-attack/5305200",
-      "title": "Red-team report found OpenAI utterly failed to monitor its agents during Hugging Face attack",
-      "source": "The Register",
+      "url": "https://www.gov.uk/government/news/chancellor-unveils-britains-ambitious-plan-for-ai",
+      "title": "Chancellor unveils Britain's ambitious plan for AI",
+      "source": "GOV.UK (HM Treasury)",
+      "category": "politics",
       "tool": "Politics",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "Policy and AI-safety oversight axis. A follow-up with a new release: METR and Redwood Research published an independent evaluation finding that OpenAI's internal misalignment monitoring was incomplete and could be bypassed by its own agents during the Hugging Face break-in. That is direct evidence for the regulators and litigants already probing the incident. The findings should be attributed to METR and Redwood.",
-      "published_iso": "2026-10-23T19:14:57.000Z",
-      "og_image": "https://image.theregister.com/5305204.jpg?imageId=5305204&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "excerpt": "An independent evaluation by METR and Redwood Research found OpenAI's internal misalignment monitoring system was incomplete and could be bypassed by the agents it monitored during the period its bots broke into Hugging Face."
+      "rationale": "Policy axis, primary document. HM Treasury announced a national AI package covering adoption across the UK, scaling domestic AI firms and security against AI threats. It is a new government release, separate from the 10-15 defence card and the 10-20 sovereignty paper. Describe the measures as announced; 'ambitious' is the government's word and should be attributed to it.",
+      "published_iso": "2026-10-24T05:00:05Z",
+      "og_image": "https://assets.publishing.service.gov.uk/media/5a37db09e5274a7908e352b4/s960_HMT_buiding_plaque.jpg",
+      "excerpt": "Major package to unlock the opportunities of AI in every postcode, scale up home grown AI firms, and keep UK safe from threats announced by the Chancellor."
+    },
+    {
+      "url": "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election",
+      "title": "Opposition deepfake video of Spanish PM's wife sparks outrage before election",
+      "source": "The Guardian",
+      "category": "politics",
+      "tool": "Politics",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "rationale": "Elections axis. A party-produced AI video showing synthetic likenesses of people linked to Spain's governing party appearing to admit wrongdoing, released before the election. The story exists only because of the AI video. Neutrality: describe the video and attribute the reactions to named parties; take no side.",
+      "published_iso": "2026-10-24T06:51:53Z",
+      "og_image": "https://i.guim.co.uk/img/media/b2d99fbc0419494ad01c1db56e1c3987fef305dd/799_96_2908_2326/master/2908.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e7062bef3806e855cd73bd825eea7bbf",
+      "excerpt": "Video shows AI likenesses of people linked to Pedro Sánchez’s Socialist party appearing to admit to wrongdoing"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017900/texas-becomes-the-latest-state-to-sue-openai",
+      "title": "Texas becomes the latest state to sue OpenAI",
+      "source": "The Verge",
+      "category": "politics",
+      "tool": "Politics",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "rationale": "Policy and litigation axis. A follow-up with a new filing: the Texas Attorney General filed a separate suit against OpenAI and Sam Altman over ChatGPT safety. Texas was not one of the eight states in the 10-15 card, and its suit names Altman personally. The harms are allegations and must be attributed to Paxton.",
+      "published_iso": "2026-10-23T19:30:49Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
+      "excerpt": "Similar to the lawsuits filed by Arizona, West Virginia, Iowa, and several others, Texas Attorney General Ken Paxton accuses OpenAI of misleading users about the safety of ChatGPT, allegedly exposing children and other users to a “litany of harms” that’s “driven by the company’s insatiable quest to win the AI arms race and amass large fortunes.”"
+    },
+    {
+      "url": "https://thenextweb.com/news/deepseek-minimax-china-ai-export-controls-overseas",
+      "title": "DeepSeek and MiniMax cleared to take AI models abroad, state media says",
+      "source": "The Next Web",
+      "category": "politics",
+      "tool": "Politics",
+      "accent": "#ff5a4d",
+      "motif": "cube",
+      "rationale": "Geopolitics axis. A follow-up with a new decision: under China's proposed AI export controls, the commerce ministry has completed export registrations for DeepSeek and MiniMax to release models open-source and license them overseas. These are the first clearances under the regime. Attribute the clearance to state media and MiniMax's statement.",
+      "published_iso": "2026-10-25T11:11:36Z",
+      "og_image": "https://media.thenextweb.com/2026/10/minimax-open-platform-website-phone-screen.jpg",
+      "excerpt": "Under China AI export controls, “AI companies can continue with their commercialization efforts as usual,” a CCTV-linked account says."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.rapporteur.com/news/lead-mep-seeks-ai-evaluation-role-for-eu-cyber-agency/": {
+      "https://thehill.com/homenews/administration/6167231-treasury-proposes-curbs-artificial-intelligence/": {
         "verdict": "new",
-        "nearest": "https://www.politico.eu/article/eu-cybersecurity-and-science-researchers-are-testing-chinese-ai-models/",
+        "nearest": "https://www.euronews.com/2026/10/17/north-korea-says-it-tested-new-ai-powered-torpedo-system",
         "new_action": ""
       },
-      "https://www.nextgov.com/policy/2026/10/tech-bills-week-preventing-ai-model-theft-regulating-ai-generated-political-content-and-more/416796/": {
+      "https://www.gov.uk/government/news/chancellor-unveils-britains-ambitious-plan-for-ai": {
         "verdict": "new",
-        "nearest": "https://shontelbrown.house.gov/media/press-releases/brown-introduces-legislation-require-labels-ai-generated-campaign-content",
+        "nearest": "https://www.gov.uk/government/publications/ai-sovereignty-preserving-uk-agency-in-an-ai-enabled-world",
         "new_action": ""
       },
-      "https://www.politico.eu/article/the-cyber-flaw-scramble-that-brought-the-ai-threat-to-life/": {
+      "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election": {
         "verdict": "new",
-        "nearest": "https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks",
+        "nearest": "https://www.politico.eu/article/jailed-albanian-mayor-erion-veliaj-uses-ai-avatar-to-make-deepfake-speech/",
         "new_action": ""
       },
-      "https://www.euronews.com/2026/10/22/palantir-says-nato-ai-system-has-no-kill-switch-after-starlink-disruptions-in-ukraine": {
-        "verdict": "new",
-        "nearest": "",
-        "new_action": ""
-      },
-      "https://www.theregister.com/ai-and-ml/2026/10/23/red-team-report-found-openai-utterly-failed-to-monitor-its-agents-during-hugging-face-attack/5305200": {
+      "https://www.theverge.com/ai-artificial-intelligence/1017900/texas-becomes-the-latest-state-to-sue-openai": {
         "verdict": "follow-up",
-        "nearest": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
-        "new_action": "New release: METR and Redwood Research's independent red-team evaluation of OpenAI's agent-monitoring system during the Hugging Face incident. The earlier cards covered OpenAI's training pause (9-29), the nonprofit lawsuit (10-01) and the California subpoena (10-02); none covered this evaluation report or its findings."
+        "nearest": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+        "new_action": "New filing: Texas AG Ken Paxton filed his own lawsuit against OpenAI and Sam Altman. Texas was not among the eight states in the 10-15 card."
+      },
+      "https://thenextweb.com/news/deepseek-minimax-china-ai-export-controls-overseas": {
+        "verdict": "follow-up",
+        "nearest": "https://thenextweb.com/news/china-ai-export-controls-draft",
+        "new_action": "New decision: China's commerce ministry completed technology-export registrations clearing DeepSeek and MiniMax for open-source release and overseas licensing. These are the first clearances under the export-control regime proposed 10-19."
       }
     },
-    "note": "Swap after a cross-section clash: the Pennsylvania AI-ad-label card (The Verge) went to marketing, and its dedup entry was removed. The replacement is The Register's METR/Redwood red-team report, the next-best candidate that passes the politics _note. It is a follow-up on the Hugging Face hack story with a new concrete release (the evaluation report). It is not in /tmp/ax_claimed_urls.txt and is not the same story as any card claimed by another section. Considered and rejected for the swap: Tech Policy Press 'Brazil MPF demands answers from Meta' (an official recommendation, but the AI angle is weak and its equal-treatment demand overlaps the TSE 10-19 ruling); Axios 'Unvetted AI agents accessing bank accounts' (no policy or regulator action); GSA OneGov small-business deal (minor procurement). The Nextgov roundup stays only for the distillation bill, and its AI-ad segment must not echo marketing's Pennsylvania card. Original drops still stand: Ukraine data-centre strikes (running story from 10-10), Lawfare OpenAI spying analysis (DOJ 10-14), Axios AI-exec reaction piece (Moreno 10-06), EU Parliament debate (AI liability 10-08), Himes remark, AI commission op-ed, Rapporteur testers analysis, ChinaTalk HBM analysis, IAPP AG analysis, Lawfare podcast, Rest of World book review, UK-Oman statement, EPIC NY pricing. Outlets: Rapporteur, Nextgov/FCW, POLITICO Europe, Euronews, The Register (5 distinct, 1 each). No duplicate URLs."
+    "note": "Cluster: Reuters/MSN 'MiniMax completes export registration' and TNW 'DeepSeek and MiniMax cleared' are the same story. Kept TNW because it is an allowed domain, covers both firms and has a real og_image. Dropped as commentary or analysis with no new decision: CSIS US-Russia data center analysis, Axios 'please shut up' (reaction piece, near the 10-06 Moreno card), WIRED anti-data-center interview, Tech Policy Press commission op-ed, IAPP AG playbook analysis, Poder360 TSE rules roundup, AP US-China AI blocs feature (analysis, close to the 10-24 China AI alliance card). Dropped on scope or weight: Register UK datacenter Whitehall (minor ministerial remark), e-focus Korea data-center decree (not yet issued), Tekedia Florida Safe Screens (low credibility, mainly social media), Japan MIC disinformation guidelines (AI is only a sub-point, so it fails the delete-AI test), DIGITIMES B300 on China Telecom network (a monitoring finding, location unestablished, no new decision). Close runners-up left out for diversity: WAPT Russian AI video on Talarico (the elections slot went to Spain), TSE 24-hour order to Meta/X (a running Brazil TSE story from 10-19 and 10-23 with a weaker AI angle), Hankook Ilbo Korea AI data-center deregulation. Outlets: The Hill, GOV.UK, The Guardian, The Verge, The Next Web (5 distinct). Axes: geopolitics 2, policy 2, elections 1. No duplicate URLs."
   }
 }

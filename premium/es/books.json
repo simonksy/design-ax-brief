@@ -7737,6 +7737,108 @@
           "x": "Esta declaración se publicará en línea junto con una lista de firmantes. Envíe el formulario de abajo para firmar ahora."
         }
       ]
+    },
+    "books/books-linemanga-byus-chat": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/00_l.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El 19 de octubre, LINE Digital Frontier lanzó byUs (pronunciado «bias»), un chat de historias con AI, en su servicio de cómics digitales LINE Manga."
+        },
+        {
+          "t": "p",
+          "x": "byUs es un servicio de chat de historias con AI en el que el usuario se convierte en protagonista de la historia original y crea un relato propio. A partir de obras originales y exclusivas, ofrece 2 modalidades: Official Story, proporcionada de forma oficial, y las historias de fans creadas por los usuarios, que permiten tejer nuevas tramas al interactuar con los personajes."
+        },
+        {
+          "t": "p",
+          "x": "En Official Story, tras un inicio construido sobre el mundo y los personajes de la obra original, la nueva historia avanza a medida que el usuario conversa con los personajes. En las historias de fans, el usuario plantea situaciones y relaciones nuevas a partir de los personajes originales y disfruta de su propia creación. También puede publicar para otros usuarios las historias de fans que haya creado."
+        },
+        {
+          "t": "p",
+          "x": "byUs incluye además funciones como «Respuestas sugeridas» y «Reproducción automática», que facilitan la conversación; «Instantánea», que ofrece imágenes acordes con la situación; y «Corte especial», que entrega imágenes de forma progresiva según el nivel de afinidad."
+        },
+        {
+          "t": "p",
+          "x": "Solo están disponibles las IP oficiales aprobadas por sus autores. En la 1.ª tanda se incorporaron Joy y Esther de «Parece que el ingeniero del asiento de al lado quiere cambiar de trabajo.» (historia original: Woo Si-mok; dibujo: Lee Ha-an), y Ren Tachibana (橘蓮) y Reo Momotani (百谷玲央) de «La operación se llama amor puro» (texto: kkokkalee; ilustración: Dledumb). Está previsto añadir más personajes."
+        },
+        {
+          "t": "img",
+          "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/1_l.png"
+        },
+        {
+          "t": "img",
+          "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/2_l.png"
+        }
+      ]
+    },
+    "books/books-lrb-shelf-ai-novels": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un cliente habitual de la librería donde trabaja Alfred Nunney le mostró la edición en un solo volumen de The Novel of Ferrara, de Giorgio Bassani, publicada por Penguin en 2018, hoy casi tan difícil de encontrar como el jardín de los Finzi-Continis."
+        },
+        {
+          "t": "p",
+          "x": "Libreros de segunda mano del Reino Unido (UK), los Países Bajos y Norteamérica hablan de extraños pedidos al por mayor y de un repunte en la venta de títulos raros y poco conocidos, que se atribuyen a empresas de AI en busca de textos escritos por personas para entrenar grandes modelos de lenguaje."
+        },
+        {
+          "t": "p",
+          "x": "La estrategia inicial fueron los libros pirateados de las ‘bibliotecas en la sombra’, lo que llevó a Anthropic a un acuerdo de 1500 millones de dólares con autores y editoriales; sigue en curso una demanda colectiva contra OpenAI. Después, Anthropic contrató a Tom Turvey, antes en Google Books, para ‘Project Panama’, ‘nuestro esfuerzo por escanear de forma destructiva todos los libros del mundo’: se cortan los lomos y, tras escanearlos, los libros se convierten en pulpa."
+        },
+        {
+          "t": "p",
+          "x": "Mientras tanto, herramientas como Novelcrafter y Sudowrite ofrecen ayuda de AI con la trama y la edición; el plan ‘professional’ de Sudowrite, de $22 al mes, está pensado para quienes buscan ‘escribir una novela en treinta días’."
+        },
+        {
+          "t": "p",
+          "x": "El jefe de Nunney ha dicho que vendería novelas de AI si hubiera una demanda clara y un etiquetado claro. Los clientes rechazan la idea con vehemencia o se encogen de hombros: ‘No veo la diferencia’. Cuando le piden una recomendación, Nunney sigue señalando a Bassani."
+        }
+      ]
+    },
+    "books/books-sadek-creative-roi": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/dfg.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Es hora de que la industria reconozca que la AI puede aportar un valor genuino a la creatividad humana, escribe Nadim Sadek, fundador y CEO de Shimmr AI y autor de Shimmer, Don’t Shake – How Publishing Can Embrace AI."
+        }
+      ]
+    },
+    "books/books-patrick-white-publishing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://live-production.wcms.abc-cdn.net.au/9666b581058d1af9ec9592941fe71f8a?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+          "cap": "Imagen promocional AI-generated de Patrick White Publishing. (Patrick White Publishing)"
+        },
+        {
+          "t": "p",
+          "x": "Pese a las reseñas positivas en internet, varios autores acusan a Patrick White Publishing de ofrecer un servicio de mala calidad y de presionarlos para retirar comentarios negativos. La empresa también cobra a los autores cientos de dólares por ilustraciones AI-generated."
+        },
+        {
+          "t": "p",
+          "x": "En Mudgee, el autor Kerry Stewart pagó $500 y afirma que la edición introdujo errores; en Melbourne, al autor Tulin Salis le presupuestaron $400 y después le ofrecieron un \"5-Star Ghostwriting Bundle\" de $1899."
+        },
+        {
+          "t": "img",
+          "src": "https://live-production.wcms.abc-cdn.net.au/b06a09fe7be41183eb456f5c77af5584?impolicy=wcms_crop_resize&cropH=1077&cropW=1615&xPos=0&yPos=41&width=862&height=575",
+          "cap": "La ficha de Google de Patrick White Publishing en Hobart muestra esta imagen AI-generated. (Patrick White Publishing)"
+        },
+        {
+          "t": "p",
+          "x": "Una herramienta de OpenAI indica que la imagen de la tienda de Hobart en Google Maps lleva una marca de agua generada por su software, y algunas portadas del sitio web de la empresa dan positivo en marcas de agua de OpenAI y Google Gemini. Los contratos de autor revisados por ABC no mencionan ilustraciones con AI."
+        },
+        {
+          "t": "p",
+          "x": "La empresa también usa un ABN de un negocio sin relación, y el patrimonio literario de Patrick White le ha pedido que deje de usar el nombre. Patrick White Publishing no respondió a las solicitudes de comentarios de ABC."
+        }
+      ]
     }
   }
 }

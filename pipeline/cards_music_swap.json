@@ -1,47 +1,46 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-26",
   "section": "music",
   "cards": [
     {
-      "id": "music-piano2pop",
+      "id": "music-flomss-stem-separation",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Piano2Pop turns piano demos\ninto full pop productions",
-      "body": "Piano2Pop conditions a pretrained music model on piano MIDI to expand a bare demo into an instrumental pop track.",
-      "mini_headline": "Piano demos become pop tracks",
+      "headline": "Flow matching takes on\nfour-stem music separation",
+      "body": "FLOMSS tests flow matching as a generative way to split full-band music into vocals, bass, drums and other stems.",
+      "mini_headline": "Generative stem splitting",
       "tool": "Music",
       "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.31510",
-      "accent": "#f5a623",
+      "url": "https://arxiv.org/abs/2610.17821",
+      "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "p",
-            "x": "A pop song often begins as a demo: a guitar sketch, a topline sung over an existing track, or a piano accompaniment. Turning this sketch into a full production requires the producer to infer its musical intent and realize it through drums, instrumentation, arrangement, and mixing. Researchers at National Taiwan University call this task Piano2Pop: given a piano MIDI demo, generate a complete instrumental pop production that is coherent, idiomatic to pop, and faithful to the demo's musical intent."
+            "x": "FLOMSS: Generative Music Source Separation by Flow Matching, by Shuyang Cui, Yuki Mitsufuji and 11 co-authors, was submitted to arXiv on 13 Oct 2026."
+          },
+          {
+            "t": "p",
+            "x": "Music source separation (MSS) has been conventionally addressed by discriminative methods. Flow matching has recently emerged as a strong generative paradigm, and the authors systematically investigate it for MSS in a four-source (Vocals, Bass, Drums, Other) setting in full-band stereo."
+          },
+          {
+            "t": "p",
+            "x": "They study prediction targets, flow paths, single-source versus multi-source modeling, and mixture consistency constraints. Beyond signal-to-distortion ratio, they evaluate MSS methods with spectral and embedding-based metrics as well as a listening test, providing a comprehensive benchmark."
           },
           {
             "t": "img",
-            "src": "https://arxiv.org/html/2610.31510v1/hero.png",
-            "cap": "Figure 1: Overview of Piano2Pop."
+            "src": "https://arxiv.org/html/2610.17821v2/midpoint_sampler_metrics_singlecol_OTCFM.svg",
+            "cap": "Figure 1: Stepwise behavior of OT-CFM-x for Vocals across Midpoint ODE solver steps. Dashed gray lines indicate the discriminative baseline."
           },
           {
             "t": "p",
-            "x": "Their pseudo-supervised approach conditions a pretrained flow-matching model on piano rolls without aligned piano-pop supervision. It trains on synthetic piano-instrumental pairs derived from pop recordings, comparing pair-free transcription, including function-selective (FST) and register-density (RDA) augmentations, with a pair-supervised piano-cover generator as pseudo-demo sources."
+            "x": "On MUSDB18-HQ, FLOMSS surpasses prior generative methods and a same-backbone discriminative baseline on spectral and embedding-based metrics. It also improves Mel and FD over strong discriminative methods, although SDR remains lower."
           },
           {
             "t": "p",
-            "x": "On 476 testing real-world piano-cover/pop pairs, the pair-supervised approach achieves the best Frechet Audio Distance, Accompaniment Prompt Adherence, and spectral shape on real-piano inputs, while FST mitigates piano-heavy outputs in pair-free training. All fine-tuned systems significantly outperform the zero-shot baselines, MuseControlLite and ACE-Step cover."
-          },
-          {
-            "t": "img",
-            "src": "https://arxiv.org/html/2610.31510v1/instrument_energy_differences.svg",
-            "cap": "Figure 2: Difference from GT in mean instrument-energy share under OOD real-piano conditioning."
-          },
-          {
-            "t": "p",
-            "x": "Audio examples are on the demo page, and the authors plan to release open-source code and checkpoints upon paper publication. The paper has been submitted to ICASSP 2027."
+            "x": "The authors identify a distributional–reconstruction trade-off in generative MSS and present FLOMSS as an open-source framework, with code to be released upon acceptance. A demo is available at ik4sumii.github.io/FLOMSS."
           }
         ]
       }

@@ -3722,6 +3722,105 @@
           "x": "El autor insta a las empresas a tratar el contenido electoral con especial cautela —Grok dijo a los evaluadores: “La desinformación electoral no figura entre las actividades no permitidas”—, a aplicar las salvaguardas de forma coherente en los modos rápido y lento, a que los rechazos sean rechazos reales y a incorporar datos de origen fáciles de detectar entre plataformas y difíciles de eliminar."
         }
       ]
+    },
+    "politics/politics-uk-chancellor-ai-package": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.publishing.service.gov.uk/media/5a37db09e5274a7908e352b4/s960_HMT_buiding_plaque.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El canciller anunciará un gran paquete de inversión para abrir las oportunidades de la AI en cada código postal, hacer crecer a las empresas de AI nacionales y proteger al país de amenazas hostiles; prevé que la AI forme parte de su presupuesto."
+        },
+        {
+          "t": "p",
+          "x": "Los planes incluyen 10 millones de libras al año para liderar el trabajo de UK sobre cómo la AI transformará el empleo y la industria; 165 millones de libras para una National AI Biosecurity Initiative, con un AI Biosecurity Lab de 100 millones de libras que aplicará la AI a la detección de amenazas biológicas; 120 millones de libras adicionales para el AI Security Institute, y 60 millones de libras para un National Cyber Shield basado en AI agéntica."
+        },
+        {
+          "t": "p",
+          "x": "El paquete también suma 60 millones de libras al Sovereign AI Fund, 18 millones de libras para una UK Advanced Chip Design Academy, 15 millones de libras para un AI Challenge Prize y 30 millones de libras para alianzas locales de AI con las Mayoral Strategic Authorities."
+        },
+        {
+          "t": "p",
+          "x": "\"Presento un enfoque de la AI claramente británico, que no deja atrás a los trabajadores y defiende nuestro interés nacional\", dijo el canciller John Healey. Julian David, de techUK, lo calificó de \"un sólido paquete de más de 600 millones de libras\"."
+        }
+      ]
+    },
+    "politics/politics-spain-deepfake-video": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/b2d99fbc0419494ad01c1db56e1c3987fef305dd/799_96_2908_2326/master/2908.jpg?width=1200&dpr=1&s=none&crop=none",
+          "cap": "Pedro Sánchez y su esposa en un mitin de campaña en Fuenlabrada. Fotografía: JJ Guillen/EPA"
+        },
+        {
+          "t": "p",
+          "x": "Un anuncio político del principal partido de la oposición de España que usó un video deepfake de la esposa del presidente del Gobierno ha provocado indignación y abierto un debate más amplio sobre la AI, cuando el país se prepara para las elecciones generales del próximo mes."
+        },
+        {
+          "t": "p",
+          "x": "El video del conservador Partido Popular (PP) usó AI para manipular la imagen de personas vinculadas al Partido Socialista de Pedro Sánchez, de modo que parecían admitir actos como solicitar prostitutas y cobrar comisiones ilegales. Begoña Gómez y José Luis Rodríguez Zapatero, que aparecen en él, han negado irregularidades en las investigaciones en curso."
+        },
+        {
+          "t": "img",
+          "src": "https://i.guim.co.uk/img/media/2c623a42b8fe9a0f8170a7d4ffd10f9749f7800f/0_263_1048_837/master/1048.jpg?width=1065&dpr=1&s=none&crop=none",
+          "cap": "Fotograma del video generado con AI (AI-generated) del Partido Popular con un deepfake de Begoña Gómez."
+        },
+        {
+          "t": "p",
+          "x": "\"Es muy fácil que cualquiera que no esté acostumbrado a la AI confunda ese video con la realidad\", dijo el ministro para la Transformación Digital, Óscar López. Leire Díez habría presentado una denuncia ante los tribunales por difamación y usurpación de identidad digital. La mayoría de los expertos legales consultados por El País dijeron que el video satírico, que estaba etiquetado, no era ilegal."
+        },
+        {
+          "t": "p",
+          "x": "Borja Sémper, del PP, dijo que era \"una forma de usar herramientas digitales para resaltar la hipocresía en la que opera el Partido Socialista\"."
+        }
+      ]
+    },
+    "politics/politics-texas-paxton-openai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fWwim.img",
+          "cap": "El fiscal general de Texas, Ken Paxton. (Raquel Natalicchio/Houston Chronicle)"
+        },
+        {
+          "t": "p",
+          "x": "Al igual que las demandas presentadas por Arizona, Virginia Occidental, Iowa y varios otros estados, el fiscal general de Texas, Ken Paxton, acusa a OpenAI de engañar a los usuarios sobre la seguridad de ChatGPT y de exponer presuntamente a niños y otros usuarios a una “letanía de daños” “impulsada por la insaciable búsqueda de la empresa por ganar la carrera armamentista de la AI y amasar grandes fortunas”."
+        },
+        {
+          "t": "p",
+          "x": "[Bloomberg Law]"
+        }
+      ]
+    },
+    "politics/politics-deepseek-minimax-export": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.thenextweb.com/2026/10/minimax-open-platform-website-phone-screen.jpg"
+        },
+        {
+          "t": "p",
+          "x": "“Desde que se anunció la política, dos empresas líderes, DeepSeek y MiniMax, han completado con éxito el proceso de registro y obtenido derechos de código abierto y de licencia en el extranjero”, dijo en una publicación Yuyuan Tantian, una cuenta de WeChat vinculada a la cadena estatal CCTV. TNW no ha verificado de forma independiente la publicación; las empresas no respondieron de inmediato a Reuters."
+        },
+        {
+          "t": "p",
+          "x": "Los ministerios de Comercio y de Ciencia de China quieren añadir 23 tecnologías de AI, entre ellas grandes modelos, agentes y clústeres de computación, a la lista de exportación restringida; los comentarios públicos se cierran el 15 de noviembre. La publicación dijo que las normas apuntan a los datos, los usos sensibles y la capacidad de cómputo."
+        },
+        {
+          "t": "p",
+          "x": "Ofrecer un modelo mediante llamadas a API, aplicaciones, páginas web o SaaS no es una exportación de tecnología, señaló. “En pocas palabras, las empresas de AI pueden seguir con sus esfuerzos de comercialización como de costumbre”. La tecnología de código abierto obtiene licencia automática."
+        }
+      ]
+    },
+    "politics/politics-enisa-ai-evaluation": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El MEP ponente busca que la agencia cibernética de la EU asuma un papel en la evaluación de la AI dentro de los cambios propuestos a la Cybersecurity Act, que llegan cuando la AI transforma el hacking y la ciberdefensa."
+        }
+      ]
     }
   }
 }

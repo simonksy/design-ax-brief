@@ -1,56 +1,53 @@
 {
- "date": "2026-10-25",
- "section": "medicine",
- "cards": [
-  {
-   "id": "medicine-aitrics-kbsmc-admin-ai",
-   "source_lang": "ko",
-   "eyebrow": "AI NEWS",
-   "headline": "에이아이트릭스·강북삼성\nLLM 의무기록 AI 개발",
-   "body": "에이아이트릭스·강북삼성병원이 LLM 기반 의무기록 자동화 플랫폼 개발에 착수한다.",
-   "mini_headline": "강북삼성 LLM 의무기록 AI",
-   "tool": "Medicine",
-   "source": "의학신문(일간보사)",
-   "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014709",
-   "accent": "#0070f3",
-   "motif": "sphere",
-   "full": {
-    "mode": "full",
-    "blocks": [
-     {
-      "t": "p",
-      "x": "[의학신문·일간보사=오인규 기자] 최근 의료계는 만성적인 인력 부족과 방대한 문서 작업 등으로 인해 의료진의 피로도가 극에 달한 상황이다. 이를 타개하기 위해 의료 현장에 거대언어모델(LLM) 등 차세대 AI 기술을 접목해 실질적인 업무 환경을 개선하려는 시도가 활발해지고 있다."
-     },
-     {
-      "t": "p",
-      "x": "이러한 흐름에 발맞춰 의료 인공지능(AI) 전문기업 에이아이트릭스(대표 김광준)는 강북삼성병원과 손잡고 의료 현장의 고질적인 문서 업무 부담 해소에 나선다. 최근 서울 AI허브가 주관하는 '2026년 AI 전환(AX) 지원사업'의 참여 컨소시엄 기업으로 낙점을 받으면서다."
-     },
-     {
-      "t": "p",
-      "x": "에이아이트릭스는 이번 사업을 통해 임상 의무기록을 자동화하고 병원 내 워크플로우를 혁신할 수 있는 LLM 기반 AX 플랫폼 개발에 착수한다. 현장에서 매일 반복되는 정보 확인 및 기록 과정을 AI로 대체해 진료 효율성을 극대화하겠다는 전략이다."
-     },
-     {
-      "t": "p",
-      "x": "특히 파트너로 나선 강북삼성병원은 실제 외래 및 간호 환경을 면밀히 분석해 AI가 적용될 구체적인 타깃 업무를 설정하는 중추적인 역할을 맡는다. 실무를 담당하는 의료진과 간호사의 눈높이에 맞춘 필수 기능과 검증 기준도 함께 구체화할 예정이다."
-     },
-     {
-      "t": "p",
-      "x": "집중 개발 과제는 크게 세 가지로 압축된다. ▲외래 진료 시 누적된 환자 투약 및 진단 이력 고도화 ▲방대한 CT·MRI 등 영상검사 판독 결과지의 핵심 경과 요약 ▲간호 인수인계 과정에서 발생하는 음성 대화의 텍스트 변환(STT) 및 내용 요약 등이다. 방대한 의료 데이터를 AI가 빠르고 정확하게 압축해 적기에 제공하는 것이 핵심이다."
-     },
-     {
-      "t": "p",
-      "x": "초기 기획 및 개발 단계부터 강북삼성병원 실무진들이 직접 참여해 사용성을 평가하고 임상적 유효성을 꼼꼼히 따져볼 계획이다. 양 기관은 이번 협력을 마중물 삼아, 향후 완성된 플랫폼이 다른 의료기관에도 유연하게 이식될 수 있도록 기술적 범용성을 확보한다는 청사진을 그렸다."
-     },
-     {
-      "t": "p",
-      "x": "에이아이트릭스 김광준 대표는 철저하게 현장 수요에 기반한 AI 기술의 실효성을 거듭 강조했다."
-     },
-     {
-      "t": "p",
-      "x": "김 대표는 \"현장의 목소리를 최우선으로 반영해 실제 병원 시스템에 즉시 융합될 수 있는 맞춤형 AX 플랫폼을 완성하는 것이 이번 사업의 주된 목표\"라며 \"진보한 LLM 기술이 의료진의 실질적인 업무 경감은 물론, 전반적인 병원 운영의 패러다임을 바꾸는 의료 디지털 혁신의 기폭제가 되도록 최선을 다하겠다\"고 밝혔다."
-     }
-    ]
-   }
-  }
- ]
+  "date": "2026-10-26",
+  "section": "medicine",
+  "cards": [
+    {
+      "id": "medicine-doximity-uptodate-ask",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Doximity adds UpToDate\nto its Ask AI tool",
+      "body": "Doximity is embedding Wolters Kluwer's UpToDate clinical content directly inside Ask, its AI decision support tool.",
+      "mini_headline": "Doximity adds UpToDate to Ask",
+      "tool": "Medicine",
+      "source": "Fierce Healthcare",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/doximity-adds-uptodate-ask-push-become-doctors-go-ai-platform",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg?VersionId=iT2xffiTsfbfPwNM_SW3dz_eFZZ.4yvd",
+            "cap": "As Doximity ramps up its investment in clinical AI tools, the partnership with Wolters Kluwer positions Ask as the front door to clinical knowledge."
+          },
+          {
+            "t": "p",
+            "x": "Doximity inked a partnership with Wolters Kluwer Health to embed UpToDate's evidence-based clinical content directly within Doximity Ask, the company’s AI clinical decision support tool."
+          },
+          {
+            "t": "p",
+            "x": "In the coming weeks, at health systems that use both products, clinicians will see an answer based on UpToDate’s 13,000 clinical topics and best practice guides alongside Doximity Ask’s response, without leaving the Ask workflow."
+          },
+          {
+            "t": "p",
+            "x": "The company aims to become a leading AI platform for doctors, scaling a clinical AI suite that includes its ambient note-taking tool Scribe and Ask. A year ago, Doximity acquired clinical AI company Pathway."
+          },
+          {
+            "t": "p",
+            "x": "“Every frontier model has read all the same journals. UpToDate stands alone as a gold standard reference from experienced physicians about what happens when there isn't an RCT,” Doximity CEO Jeff Tangney told Fierce Healthcare."
+          },
+          {
+            "t": "p",
+            "x": "Doximity’s membership includes more than 85% of all U.S. doctors, and its clinical AI tools, including Ask, have been deployed across more than 165 health systems, according to the company."
+          },
+          {
+            "t": "p",
+            "x": "Competition in clinical AI is intensifying. Wolters Kluwer has also partnered with Epic and Abridge to integrate UpToDate into their AI-powered CDS tools."
+          }
+        ]
+      }
+    }
+  ]
 }

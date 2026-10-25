@@ -2172,6 +2172,141 @@
           "x": "NICE concluded that the technologies “have the potential” to improve the accuracy and consistency of prostate MRI interpretation, particularly in settings without specialist expertise. But it added that further evidence was needed to understand how the tools would perform in routine NHS practice."
         }
       ]
+    },
+    "medicine/medicine-ecg-transplant-rejection": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2020-03/transplant_0.jpg?h=956ee2f3&itok=GcZkfQn3"
+        },
+        {
+          "t": "p",
+          "x": "Researchers with NYU Langone Health may have identified a new way to predict heart transplant rejection without the need for an invasive biopsy. Their findings were published in the Journal of Heart and Lung Transplantation."
+        },
+        {
+          "t": "p",
+          "x": "The researchers trained AI models on more than 5,300 ECG readings from 389 adult heart transplant recipients between 2018 and 2024. One model used ECG data alone; a second combined ECG data with the results of two blood tests, AlloMap and AlloSure, traditionally used to predict rejection risk but with a high false-positive rate."
+        },
+        {
+          "t": "p",
+          "x": "In a test group of 38 heart transplant recipients, the combined model performed better. Two patients experienced rejection. The AI model correctly identified 97% of patients who were not experiencing rejection, while the blood-test-only approach incorrectly indicated that 19 patients needed a biopsy."
+        },
+        {
+          "t": "p",
+          "x": "“Heart transplantation is a major, resource-intensive procedure, and rejection is common but treatable if caught in time,” senior author Lior Jankelson, MD, PhD, said. As a next step, the researchers plan to test the AI model in more patients at several transplant centers."
+        }
+      ]
+    },
+    "medicine/medicine-hf-functional-decline": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-983942394.jpg?h=39b07655&itok=8Yg4Z5XX"
+        },
+        {
+          "t": "p",
+          "x": "Advanced artificial intelligence (AI) models can anticipate when older heart failure patients may start to experience functional decline, according to new findings published in the Journal of Cardiac Failure."
+        },
+        {
+          "t": "p",
+          "x": "Researchers explored data from more than 6,000 patients 65 years old or older who were hospitalized for heart failure and prescribed rehabilitation; the median age was 82. The machine learning model estimates a patient’s one-year risk of functional maintenance, functional decline (a transition to a housebound/bedridden lifestyle) or death."
+        },
+        {
+          "t": "p",
+          "x": "Overall, 32.5% of patients experienced functional decline and more than 14% died within one year of discharge. The model, which used 77 different factors, identified these outcomes with improved accuracy compared to the Kihon Checklist screening tool."
+        },
+        {
+          "t": "p",
+          "x": "“Instead of asking only whether a patient will survive, we need to ask whether they will be able to maintain the life they value after discharge,” lead author Kanji Yamada, PT, PhD, of Juntendo University in Japan, said."
+        }
+      ]
+    },
+    "medicine/medicine-doximity-uptodate-ask": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg?VersionId=iT2xffiTsfbfPwNM_SW3dz_eFZZ.4yvd",
+          "cap": "As Doximity ramps up its investment in clinical AI tools, the partnership with Wolters Kluwer positions Ask as the front door to clinical knowledge."
+        },
+        {
+          "t": "p",
+          "x": "Doximity inked a partnership with Wolters Kluwer Health to embed UpToDate's evidence-based clinical content directly within Doximity Ask, the company’s AI clinical decision support tool."
+        },
+        {
+          "t": "p",
+          "x": "In the coming weeks, at health systems that use both products, clinicians will see an answer based on UpToDate’s 13,000 clinical topics and best practice guides alongside Doximity Ask’s response, without leaving the Ask workflow."
+        },
+        {
+          "t": "p",
+          "x": "The company aims to become a leading AI platform for doctors, scaling a clinical AI suite that includes its ambient note-taking tool Scribe and Ask. A year ago, Doximity acquired clinical AI company Pathway."
+        },
+        {
+          "t": "p",
+          "x": "“Every frontier model has read all the same journals. UpToDate stands alone as a gold standard reference from experienced physicians about what happens when there isn't an RCT,” Doximity CEO Jeff Tangney told Fierce Healthcare."
+        },
+        {
+          "t": "p",
+          "x": "Doximity’s membership includes more than 85% of all U.S. doctors, and its clinical AI tools, including Ask, have been deployed across more than 165 health systems, according to the company."
+        },
+        {
+          "t": "p",
+          "x": "Competition in clinical AI is intensifying. Wolters Kluwer has also partnered with Epic and Abridge to integrate UpToDate into their AI-powered CDS tools."
+        }
+      ]
+    },
+    "medicine/medicine-ai-standardized-patients": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig1_HTML.png",
+          "cap": "Fig. 1: Overview of the AI-SP architecture and three-phase evaluation."
+        },
+        {
+          "t": "p",
+          "x": "Standardized patients (SPs) are central to clinical communication training but remain constrained by cost, scalability, and reliance on trained actors. The authors present AI standardized patients (AI-SPs), large language model–driven simulators built on a three-layer information architecture that adaptively modulates disclosure according to learner skill."
+        },
+        {
+          "t": "p",
+          "x": "In Phase 1, blinded expert assessment of 350 simulated consultations generated by five frontier LLMs showed learner skill level accounted for more performance variation than model choice (η2 = 0.31 vs. 0.06). In Phase 1b, 155 live student consultations revealed systematic failures to elicit safety-critical information."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig2_HTML.png",
+          "cap": "Fig. 2: The three-layer AI-SP system prompt design."
+        },
+        {
+          "t": "p",
+          "x": "In a Phase 2 three-arm pilot randomized study (n = 58), OSCE performance gains with AI-SP training did not differ significantly from human SP training; the trial was designed to estimate effect sizes, not to demonstrate equivalence. Self-efficacy gains were numerically largest with AI-SPs, but did not survive correction for multiple comparisons."
+        }
+      ]
+    },
+    "medicine/medicine-eko-core300-fda": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/assets_ms2016573_000001_1280x960_core_300_pr_1-1.jpg?h=926d89e9&itok=p9_Udd4z"
+        },
+        {
+          "t": "p",
+          "x": "Eko Health has received FDA clearance for Core 300, a new AI-enabled stethoscope that offers both traditional analog and advanced digital listening capabilities."
+        },
+        {
+          "t": "p",
+          "x": "Clinicians can instantly switch from traditional to digital listening when evaluating pediatric and adult patients. Digital listening includes up to 35x amplification, noise cancellation and real-time heart data displayed on the device."
+        },
+        {
+          "t": "p",
+          "x": "The stethoscopes can also connect to the Eko App or Eko's FDA-cleared AI models, and the battery was designed to last for weeks at a time."
+        },
+        {
+          "t": "p",
+          "x": "“Eko has delivered more than 750,000 devices, and Core 300 is the next step toward bringing early disease detection confidence to every healthcare professional,” said Connor Landgraf, co-founder and CEO of Eko Health."
+        },
+        {
+          "t": "p",
+          "x": "The device is now available to U.S. consumers, and a gradual international launch is underway."
+        }
+      ]
     }
   }
 }

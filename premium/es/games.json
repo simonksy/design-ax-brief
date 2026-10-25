@@ -8540,6 +8540,97 @@
           "x": "\"Mostrar los juegos pronto es la forma en que los indies se hacen visibles y encuentran a los fans que nos sostienen\", escribió la compañía. \"Esperamos que las plataformas sigan reforzando la protección de las obras originales\"."
         }
       ]
+    },
+    "games/games-tenderloin-takedown": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2026/10/23/indie-dev-pulls-zombie-shooter-game-san-francisco-1792794196975.jpg?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+          "t": "p",
+          "x": "El desarrollador de un juego de zombis ambientado en San Francisco retiró el juego y pidió disculpas públicamente después de que las autoridades de la ciudad lo condenaran por presentar a sus ciudadanos como ‘zombis’."
+        },
+        {
+          "t": "p",
+          "x": "Tenderloin Night Shift era un juego de disparos en primera persona hecho con vibe coding por el desarrollador independiente Pierre-Louis Biojout a lo largo de un fin de semana con Codex de OpenAI. Algunos de sus enemigos no muertos visten uniformes de obra o mochilas de reparto de comida, mientras que otros aparecen en la postura conocida como ‘fentanyl fold’. Biojout vendía espacios publicitarios digitales dentro del juego a $100 por semana."
+        },
+        {
+          "t": "p",
+          "x": "El alcalde Daniel Lurie dijo: “Sobre gustos y las pésimas ideas de la gente no hay nada escrito. Esta es una mala, y la rechazamos”. El supervisor Bilal Mahmood, que representa al Tenderloin, lo calificó de “profundamente perturbador e inaceptable” y añadió: “Convertir en entretenimiento la violencia contra personas reales, incluidas las personas sin hogar, es deshumanizante y nunca debería normalizarse”."
+        },
+        {
+          "t": "p",
+          "x": "Biojout retiró el juego, reembolsó a los anunciantes, borró sus publicaciones en redes sociales sobre él y donó la totalidad de los ingresos del juego a la Delancey Street Foundation. “La ambientación y la forma en que lo promocioné reflejaron un mal criterio. Nunca fue mi intención apuntar a personas que luchan contra la adicción o la falta de vivienda”, escribió en Twitter/X."
+        }
+      ]
+    },
+    "games/games-ai-clone-extortion": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/979/20261019170017.jpg",
+          "cap": "Takashi Mochibe, desarrollador japonés de juegos indie amenazado con la difusión de un clon hecho con AI (Imagen: captura de la cuenta de X de Takashi Mochibe)"
+        },
+        {
+          "t": "p",
+          "x": "Un desarrollador japonés de juegos indie recibió un correo amenazante en el que se le exigían bienes a cambio de no lanzar antes un juego clonado con AI generativa."
+        },
+        {
+          "t": "p",
+          "x": "Quien hizo público el correo es Takashi Mochibe, de Studio AtHome, estudio que desarrolla el RPG de estrategia 'Dragon's Chronicles ~Reginleiv de las estrellas gemelas~'. Se trata de un RPG de estrategia en desarrollo con el objetivo de lanzarse en Steam en 2027."
+        },
+        {
+          "t": "p",
+          "x": "Según el material que Mochibe publicó en X, el remitente afirmó que ya había creado con herramientas de AI un juego similar a la obra y que estaba listo para lanzarlo antes en Steam. Después advirtió que no publicaría el clon si en un plazo de 24 horas recibía artículos de Steam por valor de 200 dólares (unos 260,000 wones). El remitente aseguró haber adjuntado un video como prueba del clon, pero, según se informó, en realidad no incluía ningún video."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/980/20261019170017.jpg",
+          "cap": "Texto del correo amenazante (Imagen: cuenta de X de Takashi Mochibe)"
+        },
+        {
+          "t": "p",
+          "x": "Mochibe no cedió a la amenaza y sostuvo que es imposible clonar sin más con AI el RPG de estrategia que está desarrollando. Explicó que respondió, en esencia, que si de verdad habían hecho un clon más divertido, él estaría dispuesto a comprarlo. También planteó la posibilidad de que el correo sea un mensaje fraudulento enviado al azar a desarrolladores cualesquiera y pidió cautela a otros desarrolladores."
+        },
+        {
+          "t": "p",
+          "x": "Preocupaciones similares surgen entre desarrolladores indie de otros países. Algunos han informado de juegos parecidos publicados poco después de mostrar videos de su jugabilidad, y en Japón el desarrollador del juego de estrategia 'Project Solaris' anunció que reducirá las actualizaciones periódicas sobre el desarrollo para evitar clones. Además, 'Pukey Goddess Shot Trick', el próximo título del estudio de Yunyun Denpa Syndrome, que llamó la atención por sus atractivos personajes, iba a presentar una demo en el próximo Next Fest de octubre, pero cambió sus planes a una prueba cerrada por temor a clones hechos con AI."
+        }
+      ]
+    },
+    "games/games-rtx-remix-16": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-14.jpg"
+        },
+        {
+          "t": "p",
+          "x": "NVIDIA ha lanzado RTX Remix 1.6 para su plataforma open-source de modding, disponible en GitHub y en la NVIDIA App. Introduce DLSS 5 con 3D-Guided Neural Rendering, hasta 6X Multi Frame Generation, soporte nativo para Windows on ARM, herramientas de recursos AI-powered ampliadas y soporte experimental para Minecraft Java Edition."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/DLSS-5-OFF-vs-ON.jpg",
+          "cap": "Imagen: NVIDIA."
+        },
+        {
+          "t": "p",
+          "x": "DLSS 5 usa AI para mejorar la iluminación y los materiales teniendo en cuenta la geometría, las texturas y la iluminación del juego. Los modders disponen de tres modelos a elegir (A, B y C), ajustes de brillos y volumétricos, y máscaras de control per-material. 5X y 6X Multi Frame Generation llegan a las GPUs GeForce RTX 50 Series compatibles."
+        },
+        {
+          "t": "p",
+          "x": "RTX Remix for Minecraft es un mod Fabric-based que lleva el renderizador path-traced a Java Edition 1.21.1 mediante un nuevo pipeline API-based. NVIDIA lo describe como una beta temprana con compatibilidad limitada con otros mods."
+        },
+        {
+          "t": "p",
+          "x": "ComfyUI Integration 2.0 sustituye a las anteriores herramientas de AI para generar texturas y mallas, mientras que un headless Toolkit y una integración mejorada con MCP permiten que agentes de AI compatibles automaticen partes del flujo de trabajo de modding."
+        },
+        {
+          "t": "video",
+          "yt": "WT3twFB0PD8"
+        }
+      ]
     }
   }
 }

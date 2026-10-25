@@ -1,215 +1,221 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "section": "gadgets",
   "cards": [
     {
-      "id": "gadgets-gemini-sites-export",
+      "id": "gadgets-topc-txa2",
       "source_lang": "en",
-      "tool": "Gadgets",
       "eyebrow": "AI NEWS",
-      "headline": "Gemini 앱, 원클릭에\nGoogle Sites로",
-      "body": "Google은 Gemini-built 웹앱을 원클릭으로 Sites에 내보내게 했다.",
-      "mini_headline": "Gemini 앱, Sites로 내보내기",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/gemini-web-apps-google-sites-export-3727259/",
+      "headline": "구리색 AI 워크스테이션\n가격은 약 $6,800",
+      "body": "TOPC TXA2는 192GB RAM을 갖춘 약 $6,800 AI 워크스테이션이다.",
+      "mini_headline": "TOPC의 $6,800 AI 워크스테이션",
+      "tool": "Gadgets",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "Gemini로 멋진 걸 만드는 일과 그걸 챗봇 밖으로 꺼내 실제로 쓸 사람에게 건네는 일은 별개다. Google은 Workspace 공지에서 이제 사용자가 Gemini에서 만든 인터랙티브 앱을 Google Sites로 바로 내보낼 수 있다고 밝혔다. 계산기든 퀴즈든 정교한 대시보드든, 코드를 복사하거나 다른 곳에서 다시 만들 필요가 없다."
-          },
-          {
-            "t": "p",
-            "x": "Gemini에서 결과물이 완성되면 Export > Google Sites를 선택하면 된다. 그러면 앱이 미리 들어 있어 바로 조작해 볼 수 있는 비공개 Sites 초안이 자동으로 새로 열린다."
-          },
-          {
             "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-1.jpg"
-          },
-          {
-            "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-2.jpg"
+            "src": "https://cdn.mos.cms.futurecdn.net/2fiT6TDsU78hzS4Mg3E8Rm-1920-80.png",
+            "cap": "이미지 출처: Minimachines"
           },
           {
             "t": "p",
-            "x": "그다음 앱을 둘러싼 웹사이트를 꾸미고 보조 콘텐츠를 붙여 게시한다. 교사가 Gemini-generated 퀴즈를 수업 자료로 바꾸는 경우를 떠올리면 된다. Google의 시연에는 진행 지표와 차트를 갖춘 팀 성과 대시보드가 나온다."
+            "x": "중국 제조사 TOPC가 $7,000 가까운 구리색 소형 워크스테이션 TXA2를 내놓았다. 192GB LPDDR5X 메모리를 달았고 SSDs는 네 개까지 들어간다. 모니터는 최대 8K 해상도로 네 대까지 동시에 물린다."
           },
           {
             "t": "p",
-            "x": "유료 Workspace 고객만 쓰는 기능도 아니다. 자격을 갖춘 Google Workspace, Workspace Individual, 개인 Google 계정 사용자라면 지금 웹, Android, iOS에서 쓸 수 있다."
+            "x": "심장부는 AMD Ryzen AI Max+ PRO 495다. CPU 코어 16개, 32스레드에 Radeon 8065S 그래픽이 들어 있다. 내장 그래픽이 시스템 메모리를 최대 160GB까지 끌어 쓰니 무거운 AI 모델도 로컬에서 넉넉히 돌린다. 다만 8,533MHz 메모리는 메인보드에 납땜돼 업그레이드가 안 된다."
+          },
+          {
+            "t": "p",
+            "x": "저장 장치용 M.2 2280 NVMe 슬롯은 네 개다. 두 개는 PCIe 4.0 x4, 나머지 두 개는 PCIe 4.0 x2로 동작한다. 단자로는 10GbE, 2.5GbE, HDMI 2.1, DisplayPort 2.1, USB4, Wi-Fi 7, Bluetooth 5.4를 갖췄다."
+          },
+          {
+            "t": "p",
+            "x": "섀시 부피는 약 2.5리터, 무게는 2.319 kg 이며 팬 네 개가 들어간다. 전력은 최대 140W, 지속 120W 까지 감당한다고 알려졌다. 소음 수준은 TOPC가 공개하지 않았다."
+          },
+          {
+            "t": "p",
+            "x": "가격은 2TB 구성이 $6,499, 4TB 구성이 $6,799부터이며, 여기에 배송비 $69가 붙고 수입 관세와 세금은 별도다. 이름이 덜 알려진 브랜드에 보증도 일 년뿐이라, $7,000 가까이 쓰기엔 모험이 크다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Gemini web apps now export\nto Google Sites in one click",
-          "body": "Google now lets eligible accounts export Gemini-built web apps to Google Sites in one click on web, Android and iOS.",
-          "mini_headline": "Gemini apps export to Sites",
+          "headline": "A copper AI workstation\nfor about $6,800",
+          "body": "TOPC's TXA2 pairs AMD's Ryzen AI Max+ PRO 495 with 192GB of RAM and drives four 8K monitors for about $6,800.",
+          "mini_headline": "TOPC's $6,800 AI workstation",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Building something cool with Gemini is one thing; getting it out of the chatbot and into the hands of people who could use it is another. In a Workspace announcement, Google confirms that users can now export interactive apps created in Gemini directly to Google Sites — whether a calculator, quiz or elaborate dashboard — without copying code or rebuilding the experience elsewhere."
-              },
-              {
-                "t": "p",
-                "x": "Once your creation is ready in Gemini, select Export > Google Sites. Google automatically opens a new, private Sites draft with your app already embedded and fully interactive."
-              },
-              {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-1.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-2.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/2fiT6TDsU78hzS4Mg3E8Rm-1920-80.png",
+                "cap": "Image credit: Minimachines"
               },
               {
                 "t": "p",
-                "x": "From there, you can customize the surrounding website, add supporting content and publish it — think of a teacher turning a Gemini-generated quiz into a classroom resource. Google's demo shows a team performance dashboard with progress indicators and charts."
+                "x": "Chinese manufacturer TOPC has introduced a copper-colored TXA2 compact workstation costing almost $7,000. It combines 192GB of LPDDR5X memory with support for four SSDs and simultaneous output to four monitors at resolutions reaching 8K."
               },
               {
                 "t": "p",
-                "x": "The feature isn't reserved for paying Workspace customers: it is available now on the web, Android and iOS for eligible Google Workspace, Workspace Individual and personal Google account users."
+                "x": "At its core is AMD's Ryzen AI Max+ PRO 495, with 16 CPU cores, 32 threads and Radeon 8065S graphics. The integrated graphics can access as much as 160GB of system memory, giving considerable capacity for running demanding AI models locally. The 8,533MHz memory is soldered to the motherboard, so it cannot be upgraded."
+              },
+              {
+                "t": "p",
+                "x": "Storage comes via four M.2 2280 NVMe slots, two at PCIe 4.0 x4 and two at PCIe 4.0 x2. Connectivity includes 10GbE and 2.5GbE, HDMI 2.1, DisplayPort 2.1, USB4, Wi-Fi 7 and Bluetooth 5.4."
+              },
+              {
+                "t": "p",
+                "x": "The roughly 2.5-liter chassis weighs 2.319 kg and uses four fans, reportedly handling 140W at peak and 120W continuously; TOPC has not disclosed noise levels."
+              },
+              {
+                "t": "p",
+                "x": "Pricing begins at $6,499 for the 2TB configuration and $6,799 for 4TB, plus a $69 delivery charge, before import duties and taxes. Coming from a relatively unknown brand with only a one-year warranty, a purchase approaching $7,000 is a considerable gamble."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Gemini 앱, 원클릭에\nGoogle Sites로",
-          "body": "Google은 Gemini-built 웹앱을 원클릭으로 Sites에 내보내게 했다.",
-          "mini_headline": "Gemini 앱, Sites로 내보내기",
+          "headline": "구리색 AI 워크스테이션\n가격은 약 $6,800",
+          "body": "TOPC TXA2는 192GB RAM을 갖춘 약 $6,800 AI 워크스테이션이다.",
+          "mini_headline": "TOPC의 $6,800 AI 워크스테이션",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Gemini로 멋진 걸 만드는 일과 그걸 챗봇 밖으로 꺼내 실제로 쓸 사람에게 건네는 일은 별개다. Google은 Workspace 공지에서 이제 사용자가 Gemini에서 만든 인터랙티브 앱을 Google Sites로 바로 내보낼 수 있다고 밝혔다. 계산기든 퀴즈든 정교한 대시보드든, 코드를 복사하거나 다른 곳에서 다시 만들 필요가 없다."
-              },
-              {
-                "t": "p",
-                "x": "Gemini에서 결과물이 완성되면 Export > Google Sites를 선택하면 된다. 그러면 앱이 미리 들어 있어 바로 조작해 볼 수 있는 비공개 Sites 초안이 자동으로 새로 열린다."
-              },
-              {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-1.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-2.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/2fiT6TDsU78hzS4Mg3E8Rm-1920-80.png",
+                "cap": "이미지 출처: Minimachines"
               },
               {
                 "t": "p",
-                "x": "그다음 앱을 둘러싼 웹사이트를 꾸미고 보조 콘텐츠를 붙여 게시한다. 교사가 Gemini-generated 퀴즈를 수업 자료로 바꾸는 경우를 떠올리면 된다. Google의 시연에는 진행 지표와 차트를 갖춘 팀 성과 대시보드가 나온다."
+                "x": "중국 제조사 TOPC가 $7,000 가까운 구리색 소형 워크스테이션 TXA2를 내놓았다. 192GB LPDDR5X 메모리를 달았고 SSDs는 네 개까지 들어간다. 모니터는 최대 8K 해상도로 네 대까지 동시에 물린다."
               },
               {
                 "t": "p",
-                "x": "유료 Workspace 고객만 쓰는 기능도 아니다. 자격을 갖춘 Google Workspace, Workspace Individual, 개인 Google 계정 사용자라면 지금 웹, Android, iOS에서 쓸 수 있다."
+                "x": "심장부는 AMD Ryzen AI Max+ PRO 495다. CPU 코어 16개, 32스레드에 Radeon 8065S 그래픽이 들어 있다. 내장 그래픽이 시스템 메모리를 최대 160GB까지 끌어 쓰니 무거운 AI 모델도 로컬에서 넉넉히 돌린다. 다만 8,533MHz 메모리는 메인보드에 납땜돼 업그레이드가 안 된다."
+              },
+              {
+                "t": "p",
+                "x": "저장 장치용 M.2 2280 NVMe 슬롯은 네 개다. 두 개는 PCIe 4.0 x4, 나머지 두 개는 PCIe 4.0 x2로 동작한다. 단자로는 10GbE, 2.5GbE, HDMI 2.1, DisplayPort 2.1, USB4, Wi-Fi 7, Bluetooth 5.4를 갖췄다."
+              },
+              {
+                "t": "p",
+                "x": "섀시 부피는 약 2.5리터, 무게는 2.319 kg 이며 팬 네 개가 들어간다. 전력은 최대 140W, 지속 120W 까지 감당한다고 알려졌다. 소음 수준은 TOPC가 공개하지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "가격은 2TB 구성이 $6,499, 4TB 구성이 $6,799부터이며, 여기에 배송비 $69가 붙고 수입 관세와 세금은 별도다. 이름이 덜 알려진 브랜드에 보증도 일 년뿐이라, $7,000 가까이 쓰기엔 모험이 크다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Geminiのアプリを\nGoogle Sitesへ",
-          "body": "GoogleはGemini-builtアプリをSitesへワンクリックで出力可能にした。",
-          "mini_headline": "GeminiアプリをSitesへ",
+          "headline": "銅色のAIワークステーション\n価格は約$6,800",
+          "body": "TOPCのTXA2は192GB RAMと8K モニター四台に対応し約$6,800だ。",
+          "mini_headline": "TOPCの$6,800 AIワークステーション",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Geminiで面白いものを作ることと、それをチャットボットの外へ出し、使ってくれる人の手に届けることは別の話だ。GoogleはWorkspaceの告知で、Geminiで作成したインタラクティブなアプリをGoogle Sitesへ直接書き出せるようになったと明らかにした。電卓でもクイズでも凝ったダッシュボードでも、コードをコピーしたり別の場所で作り直したりする必要はない。"
-              },
-              {
-                "t": "p",
-                "x": "Geminiで作品が完成したら、Export > Google Sitesを選ぶ。Googleが新しい非公開のSites下書きを自動で開き、アプリはすでに埋め込まれ、そのまま操作できる状態になっている。"
-              },
-              {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-1.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-2.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/2fiT6TDsU78hzS4Mg3E8Rm-1920-80.png",
+                "cap": "画像提供: Minimachines"
               },
               {
                 "t": "p",
-                "x": "そこから周囲のWebサイトをカスタマイズし、補足コンテンツを加えて公開できる。教師がGemini-generatedのクイズを授業用の教材にする、といった使い方だ。Googleのデモでは、進捗インジケーターとグラフを備えたチームの成績ダッシュボードが示されている。"
+                "x": "中国メーカーのTOPCが、価格が$7,000近い銅色の小型ワークステーションTXA2を発表した。192GB LPDDR5Xメモリを搭載し、SSDs四基に対応するほか、最大8K 解像度で四台のモニターへ同時出力できる。"
               },
               {
                 "t": "p",
-                "x": "この機能は有料のWorkspace顧客に限らない。対象となるGoogle Workspace、Workspace Individual、個人のGoogleアカウントのユーザーは、Web、Android、iOSで今すぐ利用できる。"
+                "x": "中核となるのはAMDのRyzen AI Max+ PRO 495で、16 CPUコア、32スレッド、Radeon 8065Sグラフィックスを備える。内蔵グラフィックスはシステムメモリを最大160GB まで利用でき、負荷の高いAIモデルをローカルで動かすうえで大きな余裕がある。8,533MHz のメモリはマザーボードにはんだ付けされており、増設はできない。"
+              },
+              {
+                "t": "p",
+                "x": "ストレージはM.2 2280 NVMeスロット四基で、うち二基がPCIe 4.0 x4、二基がPCIe 4.0 x2だ。接続端子は10GbE、2.5GbE、HDMI 2.1、DisplayPort 2.1、USB4、Wi-Fi 7、Bluetooth 5.4をそろえる。"
+              },
+              {
+                "t": "p",
+                "x": "容積約2.5リットルの筐体は重さ2.319 kg で、四基のファンを備える。ピーク時140W、連続120W に対応するとされるが、TOPCは騒音レベルを公表していない。"
+              },
+              {
+                "t": "p",
+                "x": "価格は2TB 構成が$6,499、4TB 構成が$6,799からで、別途配送料$69がかかり、輸入関税と税金は含まれない。比較的無名のブランドで保証も一年のみとなれば、$7,000近い買い物はかなりの賭けだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Gemini应用一键导出\n至Google Sites",
-          "body": "Google让用户一键将Gemini-built应用导出至Google Sites。",
-          "mini_headline": "Gemini应用可导出至Sites",
+          "headline": "铜色AI工作站\n售价约$6,800",
+          "body": "TOPC TXA2搭载192GB RAM，可驱动四台8K 显示器，售价约$6,800。",
+          "mini_headline": "TOPC的$6,800 AI工作站",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "用Gemini做出好东西是一回事，把它从聊天机器人里拿出来、交到用得上的人手中又是另一回事。Google在一则Workspace公告中确认，用户现在可以将在Gemini中创建的交互式应用直接导出到Google Sites——无论是计算器、测验还是复杂的仪表板——无需复制代码，也不必在别处重新搭建。"
-              },
-              {
-                "t": "p",
-                "x": "在Gemini中完成作品后，选择Export > Google Sites即可。Google会自动打开一个新的私密Sites草稿，应用已嵌入其中且可完整交互。"
-              },
-              {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-1.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-2.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/2fiT6TDsU78hzS4Mg3E8Rm-1920-80.png",
+                "cap": "图片来源：Minimachines"
               },
               {
                 "t": "p",
-                "x": "之后，你可以自定义周围的网站、添加辅助内容并发布——比如老师把Gemini-generated测验变成课堂资源。Google的演示展示了一个带有进度指示器和图表的团队绩效仪表板。"
+                "x": "中国厂商TOPC推出了铜色的TXA2紧凑型工作站，售价近$7,000。它配备192GB LPDDR5X内存，支持四块SSDs，并可同时向四台显示器输出最高8K 分辨率的画面。"
               },
               {
                 "t": "p",
-                "x": "该功能并非付费Workspace客户专属：符合条件的Google Workspace、Workspace Individual及个人Google账户用户，现在即可在网页、Android和iOS上使用。"
+                "x": "其核心是AMD的Ryzen AI Max+ PRO 495，拥有16个CPU核心、32线程和Radeon 8065S显卡。集成显卡最多可调用160GB 系统内存，为在本地运行高负载AI模型留出了相当大的空间。8,533MHz 内存焊接在主板上，无法升级。"
+              },
+              {
+                "t": "p",
+                "x": "存储方面提供四个M.2 2280 NVMe插槽，其中两个为PCIe 4.0 x4，两个为PCIe 4.0 x2。接口包括10GbE和2.5GbE网口、HDMI 2.1、DisplayPort 2.1、USB4、Wi-Fi 7以及Bluetooth 5.4。"
+              },
+              {
+                "t": "p",
+                "x": "这款机箱容积约2.5升，重2.319 kg，配有四个风扇，据称峰值可承受140W、持续120W 的功耗；TOPC尚未公布噪音水平。"
+              },
+              {
+                "t": "p",
+                "x": "2TB 配置起价$6,499，4TB 配置起价$6,799，另加$69运费，进口关税和税费另计。作为相对陌生的品牌，且仅提供一年保修，花近$7,000购买无疑是不小的赌博。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las apps web de Gemini pasan\na Google Sites con un clic",
-          "body": "Google permite a cuentas elegibles exportar apps web Gemini-built a Google Sites con un clic en web, Android e iOS.",
-          "mini_headline": "Apps de Gemini a Sites",
+          "headline": "Una estación de IA color cobre\npor unos $6,800",
+          "body": "La TXA2 de TOPC combina el Ryzen AI Max+ PRO 495 de AMD con 192GB de RAM y admite cuatro monitores 8K por unos $6,800.",
+          "mini_headline": "La estación de IA de $6,800 de TOPC",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Crear algo interesante con Gemini es una cosa; sacarlo del chatbot y ponerlo en manos de quienes podrían usarlo es otra. En un anuncio de Workspace, Google confirma que los usuarios ya pueden exportar las apps interactivas creadas en Gemini directamente a Google Sites —ya sea una calculadora, un cuestionario o un panel elaborado— sin copiar código ni reconstruir la experiencia en otro lugar."
-              },
-              {
-                "t": "p",
-                "x": "Cuando la creación esté lista en Gemini, basta con seleccionar Export > Google Sites. Google abre automáticamente un nuevo borrador privado de Sites con la app ya integrada y totalmente interactiva."
-              },
-              {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-1.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-2.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/2fiT6TDsU78hzS4Mg3E8Rm-1920-80.png",
+                "cap": "Crédito de imagen: Minimachines"
               },
               {
                 "t": "p",
-                "x": "A partir de ahí, se puede personalizar el sitio web que la rodea, añadir contenido complementario y publicarlo; por ejemplo, un docente que convierte un cuestionario Gemini-generated en un recurso para el aula. La demostración de Google muestra un panel de rendimiento de equipo con indicadores de progreso y gráficos."
+                "x": "El fabricante chino TOPC ha presentado la TXA2, una estación de trabajo compacta de color cobre que cuesta casi $7,000. Combina 192GB de memoria LPDDR5X con soporte para cuatro SSDs y salida simultánea a cuatro monitores con resoluciones de hasta 8K."
               },
               {
                 "t": "p",
-                "x": "La función no está reservada a los clientes de pago de Workspace: ya está disponible en la web, Android e iOS para usuarios elegibles de Google Workspace, Workspace Individual y cuentas personales de Google."
+                "x": "En su núcleo está el Ryzen AI Max+ PRO 495 de AMD, con 16 núcleos de CPU, 32 hilos y gráficos Radeon 8065S. La gráfica integrada puede acceder a hasta 160GB de memoria del sistema, lo que da un margen considerable para ejecutar localmente modelos de IA exigentes. La memoria a 8,533MHz va soldada a la placa base, por lo que no se puede ampliar."
+              },
+              {
+                "t": "p",
+                "x": "El almacenamiento se resuelve con cuatro ranuras M.2 2280 NVMe, dos PCIe 4.0 x4 y dos PCIe 4.0 x2. La conectividad incluye 10GbE y 2.5GbE, HDMI 2.1, DisplayPort 2.1, USB4, Wi-Fi 7 y Bluetooth 5.4."
+              },
+              {
+                "t": "p",
+                "x": "El chasis, de unos 2.5 litros, pesa 2.319 kg y usa cuatro ventiladores; según se informa, soporta 140W en picos y 120W de forma continua. TOPC no ha revelado los niveles de ruido."
+              },
+              {
+                "t": "p",
+                "x": "Los precios parten de $6,499 para la configuración de 2TB y de $6,799 para la de 4TB, más $69 de envío, sin contar aranceles de importación ni impuestos. Al tratarse de una marca relativamente desconocida y con solo un año de garantía, una compra cercana a $7,000 es una apuesta considerable."
               }
             ]
           }
@@ -217,137 +223,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Gemini 앱, 원클릭에\nGoogle Sites로",
-          "body": "Google은 Gemini-built 웹앱을 원클릭으로 Sites에 내보내게 했다.",
-          "mini_headline": "Gemini 앱, Sites로 내보내기",
+          "headline": "구리색 AI 워크스테이션\n가격은 약 $6,800",
+          "body": "TOPC TXA2는 192GB RAM을 갖춘 약 $6,800 AI 워크스테이션이다.",
+          "mini_headline": "TOPC의 $6,800 AI 워크스테이션",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Gemini로 멋진 것을 만드는 일과 그것을 챗봇 밖으로 꺼내 실제로 쓸 사람들에게 건네는 일은 별개다. Google은 Workspace 공지에서 이제 사용자가 Gemini에서 만든 인터랙티브 앱을 Google Sites로 바로 내보낼 수 있다고 밝혔다. 계산기든 퀴즈든 정교한 대시보드든, 코드를 복사하거나 다른 곳에서 다시 만들 필요가 없다."
-              },
-              {
-                "t": "p",
-                "x": "Gemini에서 결과물이 완성되면 Export > Google Sites를 선택하면 된다. 그러면 Google이 앱을 미리 넣어 바로 조작할 수 있는 새 비공개 Sites 초안을 자동으로 연다."
-              },
-              {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-1.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-2.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/2fiT6TDsU78hzS4Mg3E8Rm-1920-80.png",
+                "cap": "이미지 출처: Minimachines"
               },
               {
                 "t": "p",
-                "x": "이후 주변 웹사이트를 꾸미고 보조 콘텐츠를 더해 게시할 수 있다. 교사가 Gemini-generated 퀴즈를 수업 자료로 바꾸는 경우를 떠올리면 된다. Google의 시연에는 진행 지표와 차트를 갖춘 팀 성과 대시보드가 나온다."
+                "x": "중국 제조사 TOPC가 $7,000 가까운 구리색 소형 워크스테이션 TXA2를 내놓았다. 192GB LPDDR5X 메모리에 SSDs 네 개를 지원하며, 최대 8K 해상도로 모니터 네 대에 동시 출력한다."
               },
               {
                 "t": "p",
-                "x": "이 기능은 유료 Workspace 고객 전용이 아니다. 자격을 갖춘 Google Workspace, Workspace Individual, 개인 Google 계정 사용자라면 지금 웹, Android, iOS에서 쓸 수 있다."
+                "x": "핵심은 AMD Ryzen AI Max+ PRO 495로, CPU 코어 16개와 32스레드, Radeon 8065S 그래픽을 갖췄다. 내장 그래픽은 최대 160GB 용량의 시스템 메모리를 쓸 수 있어, 무거운 AI 모델을 로컬에서 돌릴 여유가 상당하다. 8,533MHz 메모리는 메인보드에 납땜돼 있어 업그레이드할 수 없다."
+              },
+              {
+                "t": "p",
+                "x": "저장 장치는 M.2 2280 NVMe 슬롯 네 개로, 두 개는 PCIe 4.0 x4, 두 개는 PCIe 4.0 x2다. 연결 단자는 10GbE, 2.5GbE, HDMI 2.1, DisplayPort 2.1, USB4, Wi-Fi 7, Bluetooth 5.4다."
+              },
+              {
+                "t": "p",
+                "x": "부피 약 2.5리터의 섀시는 무게가 2.319 kg 이고 팬 네 개를 쓴다. 최대 140W, 지속 120W 를 감당하는 것으로 알려졌지만, TOPC는 소음 수준을 공개하지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "가격은 2TB 구성이 $6,499, 4TB 구성이 $6,799부터이며, 여기에 배송비 $69가 붙고 수입 관세와 세금은 별도다. 비교적 덜 알려진 브랜드에 보증 기간도 일 년뿐이어서, $7,000에 가까운 구매는 상당한 모험이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Geminiのアプリを\nGoogle Sitesへ",
-          "body": "GoogleはGemini-builtアプリをSitesへワンクリックで出力可能にした。",
-          "mini_headline": "GeminiアプリをSitesへ",
+          "headline": "銅色のAIワークステーション\n価格は約$6,800",
+          "body": "TOPCのTXA2は192GB RAMと8K モニター四台に対応し約$6,800だ。",
+          "mini_headline": "TOPCの$6,800 AIワークステーション",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Geminiで面白いものを作ることと、それをチャットボットの外へ出し、使ってくれる人の手に届けることは別の話だ。GoogleはWorkspaceの告知で、Geminiで作成したインタラクティブなアプリをGoogle Sitesへ直接書き出せるようになったと明らかにした。電卓でもクイズでも凝ったダッシュボードでも、コードをコピーしたり別の場所で作り直したりする必要はない。"
-              },
-              {
-                "t": "p",
-                "x": "Geminiで作品が完成したら、Export > Google Sitesを選ぶ。Googleが新しい非公開のSites下書きを自動で開き、アプリはすでに埋め込まれ、そのまま操作できる状態になっている。"
-              },
-              {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-1.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-2.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/2fiT6TDsU78hzS4Mg3E8Rm-1920-80.png",
+                "cap": "画像提供: Minimachines"
               },
               {
                 "t": "p",
-                "x": "そこから周囲のWebサイトをカスタマイズし、補足コンテンツを加えて公開できる。教師がGemini-generatedのクイズを授業用の教材にする、といった使い方だ。Googleのデモでは、進捗インジケーターとグラフを備えたチームの成績ダッシュボードが示されている。"
+                "x": "中国メーカーのTOPCが、価格が$7,000近い銅色の小型ワークステーションTXA2を発表した。192GB LPDDR5Xメモリを搭載し、SSDs四基に対応するほか、最大8K 解像度で四台のモニターへ同時出力できる。"
               },
               {
                 "t": "p",
-                "x": "この機能は有料のWorkspace顧客に限らない。対象となるGoogle Workspace、Workspace Individual、個人のGoogleアカウントのユーザーは、Web、Android、iOSで今すぐ利用できる。"
+                "x": "中核となるのはAMDのRyzen AI Max+ PRO 495で、16 CPUコア、32スレッド、Radeon 8065Sグラフィックスを備える。内蔵グラフィックスはシステムメモリを最大160GB まで利用でき、負荷の高いAIモデルをローカルで動かすうえで大きな余裕がある。8,533MHz のメモリはマザーボードにはんだ付けされており、増設はできない。"
+              },
+              {
+                "t": "p",
+                "x": "ストレージはM.2 2280 NVMeスロット四基で、うち二基がPCIe 4.0 x4、二基がPCIe 4.0 x2だ。接続端子は10GbE、2.5GbE、HDMI 2.1、DisplayPort 2.1、USB4、Wi-Fi 7、Bluetooth 5.4をそろえる。"
+              },
+              {
+                "t": "p",
+                "x": "容積約2.5リットルの筐体は重さ2.319 kg で、四基のファンを備える。ピーク時140W、連続120W に対応するとされるが、TOPCは騒音レベルを公表していない。"
+              },
+              {
+                "t": "p",
+                "x": "価格は2TB 構成が$6,499、4TB 構成が$6,799からで、別途配送料$69がかかり、輸入関税と税金は含まれない。比較的無名のブランドで保証も一年のみとなれば、$7,000近い買い物はかなりの賭けだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Gemini应用一键导出\n至Google Sites",
-          "body": "Google让用户一键将Gemini-built应用导出至Google Sites。",
-          "mini_headline": "Gemini应用可导出至Sites",
+          "headline": "铜色AI工作站\n售价约$6,800",
+          "body": "TOPC TXA2搭载192GB RAM，可驱动四台8K 显示器，售价约$6,800。",
+          "mini_headline": "TOPC的$6,800 AI工作站",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "用Gemini做出好东西是一回事，把它从聊天机器人里拿出来、交到用得上的人手中又是另一回事。Google在一则Workspace公告中确认，用户现在可以将在Gemini中创建的交互式应用直接导出到Google Sites——无论是计算器、测验还是复杂的仪表板——无需复制代码，也不必在别处重新搭建。"
-              },
-              {
-                "t": "p",
-                "x": "在Gemini中完成作品后，选择Export > Google Sites即可。Google会自动打开一个新的私密Sites草稿，应用已嵌入其中且可完整交互。"
-              },
-              {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-1.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-2.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/2fiT6TDsU78hzS4Mg3E8Rm-1920-80.png",
+                "cap": "图片来源：Minimachines"
               },
               {
                 "t": "p",
-                "x": "之后，你可以自定义周围的网站、添加辅助内容并发布——比如老师把Gemini-generated测验变成课堂资源。Google的演示展示了一个带有进度指示器和图表的团队绩效仪表板。"
+                "x": "中国厂商TOPC推出了铜色的TXA2紧凑型工作站，售价近$7,000。它配备192GB LPDDR5X内存，支持四块SSDs，并可同时向四台显示器输出最高8K 分辨率的画面。"
               },
               {
                 "t": "p",
-                "x": "该功能并非付费Workspace客户专属：符合条件的Google Workspace、Workspace Individual及个人Google账户用户，现在即可在网页、Android和iOS上使用。"
+                "x": "其核心是AMD的Ryzen AI Max+ PRO 495，拥有16个CPU核心、32线程和Radeon 8065S显卡。集成显卡最多可调用160GB 系统内存，为在本地运行高负载AI模型留出了相当大的空间。8,533MHz 内存焊接在主板上，无法升级。"
+              },
+              {
+                "t": "p",
+                "x": "存储方面提供四个M.2 2280 NVMe插槽，其中两个为PCIe 4.0 x4，两个为PCIe 4.0 x2。接口包括10GbE和2.5GbE网口、HDMI 2.1、DisplayPort 2.1、USB4、Wi-Fi 7以及Bluetooth 5.4。"
+              },
+              {
+                "t": "p",
+                "x": "这款机箱容积约2.5升，重2.319 kg，配有四个风扇，据称峰值可承受140W、持续120W 的功耗；TOPC尚未公布噪音水平。"
+              },
+              {
+                "t": "p",
+                "x": "2TB 配置起价$6,499，4TB 配置起价$6,799，另加$69运费，进口关税和税费另计。作为相对陌生的品牌，且仅提供一年保修，花近$7,000购买无疑是不小的赌博。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las apps web de Gemini pasan\na Google Sites con un clic",
-          "body": "Google permite a cuentas elegibles exportar apps web Gemini-built a Google Sites con un clic en web, Android e iOS.",
-          "mini_headline": "Apps de Gemini a Sites",
+          "headline": "Una estación de IA color cobre\npor unos $6,800",
+          "body": "La TXA2 de TOPC combina el Ryzen AI Max+ PRO 495 de AMD con 192GB de RAM y admite cuatro monitores 8K por unos $6,800.",
+          "mini_headline": "La estación de IA de $6,800 de TOPC",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Crear algo interesante con Gemini es una cosa; sacarlo del chatbot y ponerlo en manos de quienes podrían usarlo es otra. En un anuncio de Workspace, Google confirma que los usuarios ya pueden exportar las apps interactivas creadas en Gemini directamente a Google Sites —ya sea una calculadora, un cuestionario o un panel elaborado— sin copiar código ni reconstruir la experiencia en otro lugar."
-              },
-              {
-                "t": "p",
-                "x": "Cuando la creación esté lista en Gemini, basta con seleccionar Export > Google Sites. Google abre automáticamente un nuevo borrador privado de Sites con la app ya integrada y totalmente interactiva."
-              },
-              {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-1.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-2.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/2fiT6TDsU78hzS4Mg3E8Rm-1920-80.png",
+                "cap": "Crédito de imagen: Minimachines"
               },
               {
                 "t": "p",
-                "x": "A partir de ahí, se puede personalizar el sitio web que la rodea, añadir contenido complementario y publicarlo; por ejemplo, un docente que convierte un cuestionario Gemini-generated en un recurso para el aula. La demostración de Google muestra un panel de rendimiento de equipo con indicadores de progreso y gráficos."
+                "x": "El fabricante chino TOPC ha presentado la TXA2, una estación de trabajo compacta de color cobre que cuesta casi $7,000. Combina 192GB de memoria LPDDR5X con soporte para cuatro SSDs y salida simultánea a cuatro monitores con resoluciones de hasta 8K."
               },
               {
                 "t": "p",
-                "x": "La función no está reservada a los clientes de pago de Workspace: ya está disponible en la web, Android e iOS para usuarios elegibles de Google Workspace, Workspace Individual y cuentas personales de Google."
+                "x": "En su núcleo está el Ryzen AI Max+ PRO 495 de AMD, con 16 núcleos de CPU, 32 hilos y gráficos Radeon 8065S. La gráfica integrada puede acceder a hasta 160GB de memoria del sistema, lo que da un margen considerable para ejecutar localmente modelos de IA exigentes. La memoria a 8,533MHz va soldada a la placa base, por lo que no se puede ampliar."
+              },
+              {
+                "t": "p",
+                "x": "El almacenamiento se resuelve con cuatro ranuras M.2 2280 NVMe, dos PCIe 4.0 x4 y dos PCIe 4.0 x2. La conectividad incluye 10GbE y 2.5GbE, HDMI 2.1, DisplayPort 2.1, USB4, Wi-Fi 7 y Bluetooth 5.4."
+              },
+              {
+                "t": "p",
+                "x": "El chasis, de unos 2.5 litros, pesa 2.319 kg y usa cuatro ventiladores; según se informa, soporta 140W en picos y 120W de forma continua. TOPC no ha revelado los niveles de ruido."
+              },
+              {
+                "t": "p",
+                "x": "Los precios parten de $6,499 para la configuración de 2TB y de $6,799 para la de 4TB, más $69 de envío, sin contar aranceles de importación ni impuestos. Al tratarse de una marca relativamente desconocida y con solo un año de garantía, una compra cercana a $7,000 es una apuesta considerable."
               }
             ]
           }
@@ -355,15 +365,15 @@
       }
     },
     {
-      "id": "gadgets-llm-robot-jailbreak",
-      "source_lang": "ko",
-      "tool": "Gadgets",
+      "id": "gadgets-gemini-side-panel",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "LLM 보안 허점 노리면\n로봇도 위험해진다",
-      "body": "빙햄턴대 연구진이 LLM 취약점을 악용해 로봇의 위험 행동을 유도해 보였다.",
-      "mini_headline": "LLM 허점에 로봇 위험",
-      "source": "지디넷코리아",
-      "url": "https://zdnet.co.kr/view/?no=20261023193807",
+      "headline": "Android Gemini\n사이드 패널 개편",
+      "body": "Android Gemini 앱이 사이드 패널과 설정을 새로 단장했다.",
+      "mini_headline": "Gemini Android 개편",
+      "tool": "Gadgets",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/10/23/gemini-settings-redesign-android/",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
@@ -371,295 +381,495 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://image.zdnet.co.kr/2026/10/23/9ff30db7b9f57f5ac52e656e26088787.jpg"
+            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-2.jpg?quality=82&strip=all&w=1600"
           },
           {
             "t": "p",
-            "x": "오픈AI 챗GPT, 제미나이, 클로드 등 대규모 언어모델(LLM)의 보안 취약점을 악용하면 로봇이 위험한 행동을 하도록 유도할 수 있다는 연구 결과가 나왔다. 과학매체 인터레스팅엔지니어링에 따르면 미국 뉴욕주립 빙햄턴대학교 연구진은 LLM에 숨겨진 트리거 단어로 로봇을 기존 작업 계획에서 벗어나게 하는 'MuTRAP'이라는 백도어 공격 기법을 개발했다."
+            "x": "Spark-to-Task 업데이트에 이어 Gemini 앱이 이번에는 Android에 사이드 패널과 설정의 새 디자인을 내놓았다."
           },
           {
             "t": "p",
-            "x": "실험에서 세그웨이 기반 이동 로봇에 사과를 도마로 가져와 칼로 자르라고 명령하자 로봇은 지시대로 사과를 잘랐다. 그러나 명령에 'CF'라는 두 글자를 추가하자, 변조된 AI 모델은 사과 대신 모형 손을 자르도록 지시했고 로봇은 변경된 계획을 수행했다."
+            "x": "먼저 눈에 띄는 건 검색 위치다. Google은 검색을 오른쪽 위 모서리로 옮겼다. 목록 첫 항목은 여전히 New chat이고, 아래쪽에 있던 Library가 바로 그다음으로 올라왔다."
           },
           {
             "t": "p",
-            "x": "아드난 시라지 라킨 조교수는 \"많은 로봇 기업이 자체적으로 LLM을 훈련하지 않기 때문에 제3자가 훈련한 모델을 사용할 가능성이 높다\"고 경고했다. 다만 이번 시연은 의도적으로 변조한 모델과 모형 손으로 진행됐으며, 상용 로봇이나 실제 환경에서의 성공률을 검증한 것은 아니다."
+            "x": "최근 채팅은 보이게 하되 내비게이션 서랍은 깔끔하게 두려고 Gemini는 항목을 다섯 개만 보여 주고 그 아래 “More”를 둔다. 누르면 목록이 펼쳐진다. AI Ultra 구독 기준 전체 목록은 New chat, Library, Images, Scheduled, Daily brief, Customize, Students, Videos, Gems다."
+          },
+          {
+            "t": "img",
+            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-1.jpg"
+          },
+          {
+            "t": "img",
+            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-2.jpg"
           },
           {
             "t": "p",
-            "x": "연구진은 로봇의 작업 계획을 단계별로 검토하고 주변 환경 변화까지 고려해 위험을 찾아내는 방어 시스템 'PROTEA'도 개발했다. 연구 결과는 IEEE/RSJ IROS 2026에서 두 편의 논문으로 발표됐다."
+            "x": "설정도 손봤다. 계정 메뉴와 “Gemini Settings”로 나뉘어 있던 환경설정을 Google이 한 페이지로 합쳤다. 이제 계정 메뉴는 계정 전환, Feedback 남기기, Help 보기에만 쓰인다."
+          },
+          {
+            "t": "p",
+            "x": "“Settings” 페이지는 Manage account와 Usage limits로 시작한다. Preferences 아래에는 Notifications, Personal Intelligence, Avatar, Task settings, Theme(신규), Skills, Voice, Media, Device controls, Cart and orders, Gemini Notebook이 있다. 맨 끝에는 Data & privacy와 Get support 두 섹션이 붙는다."
+          },
+          {
+            "t": "img",
+            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-settings-redesign-1.jpg"
+          },
+          {
+            "t": "p",
+            "x": "새 사이드 패널과 설정은 지난주 Gemini 4 Argon 출시와 함께 iOS, macOS, 웹 앱에 먼저 적용됐다. 이번에는 서버 측 업데이트로 Android에도 널리 풀리는 중이다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "LLM 보안 허점 노리면\n로봇도 위험해진다",
-          "body": "빙햄턴대 연구진이 LLM 취약점을 악용해 로봇의 위험 행동을 유도해 보였다.",
-          "mini_headline": "LLM 허점에 로봇 위험",
+        "en": {
+          "headline": "Gemini on Android gets\na new side panel",
+          "body": "Following the Spark-to-Task update, the Gemini Android app has redesigned its side panel and settings.",
+          "mini_headline": "Gemini Android redesign",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/10/23/9ff30db7b9f57f5ac52e656e26088787.jpg"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-2.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "오픈AI 챗GPT, 제미나이, 클로드 등 대규모 언어모델(LLM)의 보안 취약점을 악용하면 로봇이 위험한 행동을 하도록 유도할 수 있다는 연구 결과가 나왔다. 과학매체 인터레스팅엔지니어링에 따르면 미국 뉴욕주립 빙햄턴대학교 연구진은 LLM에 숨겨진 트리거 단어로 로봇을 기존 작업 계획에서 벗어나게 하는 'MuTRAP'이라는 백도어 공격 기법을 개발했다."
+                "x": "Following the Spark-to-Task update, the Gemini app has now rolled out redesigns of the side panel and settings on Android."
               },
               {
                 "t": "p",
-                "x": "실험에서 세그웨이 기반 이동 로봇에 사과를 도마로 가져와 칼로 자르라고 명령하자 로봇은 지시대로 사과를 잘랐다. 그러나 명령에 'CF'라는 두 글자를 추가하자, 변조된 AI 모델은 사과 대신 모형 손을 자르도록 지시했고 로봇은 변경된 계획을 수행했다."
+                "x": "This revamp starts with Google moving search to the top-right corner. The first item in the list remains New chat, with Library appearing next instead of being located near the bottom."
               },
               {
                 "t": "p",
-                "x": "아드난 시라지 라킨 조교수는 \"많은 로봇 기업이 자체적으로 LLM을 훈련하지 않기 때문에 제3자가 훈련한 모델을 사용할 가능성이 높다\"고 경고했다. 다만 이번 시연은 의도적으로 변조한 모델과 모형 손으로 진행됐으며, 상용 로봇이나 실제 환경에서의 성공률을 검증한 것은 아니다."
+                "x": "To avoid cluttering the navigation drawer while still allowing you to view recent chats, Gemini displays only five items before making use of “More,” which expands the list upon tapping. With an AI Ultra subscription, the full list is as follows: New chat, Library, Images, Scheduled, Daily brief, Customize, Students, Videos, and Gems."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-1.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-2.jpg"
               },
               {
                 "t": "p",
-                "x": "연구진은 로봇의 작업 계획을 단계별로 검토하고 주변 환경 변화까지 고려해 위험을 찾아내는 방어 시스템 'PROTEA'도 개발했다. 연구 결과는 IEEE/RSJ IROS 2026에서 두 편의 논문으로 발표됐다."
+                "x": "Meanwhile, the Gemini app is revamping settings. Instead of having preferences split between the account menu and “Gemini Settings,” Google has consolidated everything into one page. The account menu is now just for switching accounts, leaving Feedback, or getting Help."
+              },
+              {
+                "t": "p",
+                "x": "The “Settings” page starts with Manage account and Usage limits. Under Preferences, you’ll find Notifications, Personal Intelligence, Avatar, Task settings, Theme (new), Skills, Voice, Media, Device controls, Cart and orders, and Gemini Notebook. Two other sections, Data & privacy and Get support, round out the page."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-settings-redesign-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "The updated side panel and settings rolled out to iOS, macOS, and the web app last week with the launch of Gemini 4 Argon. We’re now seeing wide availability on Android following a server-side update."
               }
             ]
           }
         },
-        "en": {
-          "headline": "LLM security flaws can turn\nrobots dangerous",
-          "body": "Binghamton University researchers exploited LLM vulnerabilities to steer a robot into dangerous actions.",
-          "mini_headline": "LLM flaws put robots at risk",
+        "ko": {
+          "headline": "Android Gemini\n사이드 패널 개편",
+          "body": "Android Gemini 앱이 사이드 패널과 설정을 새로 단장했다.",
+          "mini_headline": "Gemini Android 개편",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/10/23/9ff30db7b9f57f5ac52e656e26088787.jpg"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-2.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "New research shows that exploiting security vulnerabilities in large language models (LLMs) such as OpenAI's ChatGPT, Gemini and Claude can lead robots to take dangerous actions. According to the science outlet Interesting Engineering, researchers at Binghamton University, State University of New York, in the U.S. developed a backdoor attack technique called 'MuTRAP' that uses trigger words hidden in an LLM to make a robot deviate from its original task plan."
+                "x": "Spark-to-Task 업데이트에 이어 Gemini 앱이 이번에는 Android에 사이드 패널과 설정의 새 디자인을 내놓았다."
               },
               {
                 "t": "p",
-                "x": "In an experiment, a Segway-based mobile robot was told to bring an apple to a cutting board and cut it with a knife, and it cut the apple as instructed. But when the two letters 'CF' were added to the command, the tampered AI model told it to cut a model hand instead of the apple, and the robot carried out the altered plan."
+                "x": "먼저 눈에 띄는 건 검색 위치다. Google은 검색을 오른쪽 위 모서리로 옮겼다. 목록 첫 항목은 여전히 New chat이고, 아래쪽에 있던 Library가 바로 그다음으로 올라왔다."
               },
               {
                 "t": "p",
-                "x": "Assistant Professor Adnan Siraj Rakin warned, \"Because many robotics companies do not train their own LLM, they are likely to use models trained by a 3rd party.\" However, the demonstration used a deliberately tampered model and a model hand, and did not verify success rates on commercial robots or in real-world environments."
+                "x": "최근 채팅은 보이게 하되 내비게이션 서랍은 깔끔하게 두려고 Gemini는 항목을 다섯 개만 보여 주고 그 아래 “More”를 둔다. 누르면 목록이 펼쳐진다. AI Ultra 구독 기준 전체 목록은 New chat, Library, Images, Scheduled, Daily brief, Customize, Students, Videos, Gems다."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-1.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-2.jpg"
               },
               {
                 "t": "p",
-                "x": "The researchers also developed 'PROTEA', a defense system that reviews a robot's task plan step by step and accounts for changes in the surrounding environment to identify risks. The findings were presented in two papers at IEEE/RSJ IROS 2026."
+                "x": "설정도 손봤다. 계정 메뉴와 “Gemini Settings”로 나뉘어 있던 환경설정을 Google이 한 페이지로 합쳤다. 이제 계정 메뉴는 계정 전환, Feedback 남기기, Help 보기에만 쓰인다."
+              },
+              {
+                "t": "p",
+                "x": "“Settings” 페이지는 Manage account와 Usage limits로 시작한다. Preferences 아래에는 Notifications, Personal Intelligence, Avatar, Task settings, Theme(신규), Skills, Voice, Media, Device controls, Cart and orders, Gemini Notebook이 있다. 맨 끝에는 Data & privacy와 Get support 두 섹션이 붙는다."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-settings-redesign-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "새 사이드 패널과 설정은 지난주 Gemini 4 Argon 출시와 함께 iOS, macOS, 웹 앱에 먼저 적용됐다. 이번에는 서버 측 업데이트로 Android에도 널리 풀리는 중이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "LLMの脆弱性を突けば\nロボットも危険に",
-          "body": "ビンガムトン大の研究チームがLLMの脆弱性を悪用し、ロボットに危険な行動をとらせてみせた。",
-          "mini_headline": "LLMの穴でロボットに危険",
+          "headline": "AndroidのGemini\nサイドパネル刷新",
+          "body": "Spark-to-Task後、Android版Geminiがサイドパネルと設定を刷新した。",
+          "mini_headline": "Android版Gemini刷新",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/10/23/9ff30db7b9f57f5ac52e656e26088787.jpg"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-2.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "OpenAIのChatGPT、Gemini、Claudeなどの大規模言語モデル(LLM)のセキュリティ脆弱性を悪用すると、ロボットに危険な行動をとらせられるとの研究結果が出た。科学メディアのInteresting Engineeringによると、米ニューヨーク州立大学ビンガムトン校の研究チームは、LLMに隠したトリガー語でロボットを本来の作業計画から逸脱させる「MuTRAP」というバックドア攻撃手法を開発した。"
+                "x": "Spark-to-Taskアップデートに続き、GeminiアプリはAndroidでサイドパネルと設定の新デザインを展開した。"
               },
               {
                 "t": "p",
-                "x": "実験では、Segwayベースの移動ロボットにリンゴをまな板へ運んで包丁で切るよう命じると、ロボットは指示どおりリンゴを切った。しかし命令に「CF」という二文字を加えると、改ざんされたAIモデルはリンゴではなく模型の手を切るよう指示し、ロボットは変更後の計画を実行した。"
+                "x": "今回の刷新では、まずGoogleが検索を右上隅に移した。リストの先頭は引き続きNew chatで、これまで下部近くにあったLibraryがその次に表示されるようになった。"
               },
               {
                 "t": "p",
-                "x": "アドナン・シラジ・ラキン助教は「多くのロボット企業はLLMを自社で訓練しないため、第3者が訓練したモデルを使う可能性が高い」と警告した。ただし今回の実演は意図的に改ざんしたモデルと模型の手で行ったもので、商用ロボットや実環境での成功率を検証したものではない。"
+                "x": "最近のチャットを確認できるようにしつつナビゲーションドロワーが煩雑にならないよう、Geminiは五つの項目だけを表示し、その後に「More」を置く。タップするとリストが展開される。AI Ultraを契約している場合、全項目はNew chat、Library、Images、Scheduled、Daily brief、Customize、Students、Videos、Gemsとなる。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-1.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-2.jpg"
               },
               {
                 "t": "p",
-                "x": "研究チームは、ロボットの作業計画を段階ごとに検討し、周辺環境の変化まで考慮して危険を見つけ出す防御システム「PROTEA」も開発した。研究成果はIEEE/RSJ IROS 2026で二本の論文として発表された。"
+                "x": "あわせて、Geminiアプリは設定も刷新している。環境設定がアカウントメニューと「Gemini Settings」に分かれていたのを、Googleはひとつのページに統合した。アカウントメニューは今後、アカウントの切り替え、Feedbackの送信、Helpの参照のためだけのものとなる。"
+              },
+              {
+                "t": "p",
+                "x": "「Settings」ページはManage accountとUsage limitsから始まる。Preferencesの下にはNotifications、Personal Intelligence、Avatar、Task settings、Theme（新規）、Skills、Voice、Media、Device controls、Cart and orders、Gemini Notebookが並ぶ。さらにData & privacyとGet supportという二つのセクションでページが締めくくられる。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-settings-redesign-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "新しいサイドパネルと設定は、先週のGemini 4 Argonの公開とともにiOS、macOS、ウェブアプリで先行して展開された。現在はサーバー側のアップデートにより、Androidでも広く利用できるようになっている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "利用LLM安全漏洞\n机器人也会变危险",
-          "body": "宾汉姆顿大学研究团队利用LLM漏洞，诱导机器人做出了危险行为。",
-          "mini_headline": "LLM漏洞让机器人涉险",
+          "headline": "Android版Gemini\n侧边栏全新改版",
+          "body": "继Spark-to-Task更新后，Android版Gemini应用改版了侧边栏和设置。",
+          "mini_headline": "Android版Gemini改版",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/10/23/9ff30db7b9f57f5ac52e656e26088787.jpg"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-2.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "研究发现，利用OpenAI ChatGPT、Gemini、Claude等大语言模型(LLM)的安全漏洞，可以诱导机器人做出危险行为。据科学媒体Interesting Engineering报道，美国纽约州立大学宾汉姆顿分校的研究团队开发了一种名为“MuTRAP”的后门攻击技术，通过隐藏在LLM中的触发词让机器人偏离原有的任务计划。"
+                "x": "继Spark-to-Task更新之后，Gemini应用现已在Android上推出侧边栏和设置的新设计。"
               },
               {
                 "t": "p",
-                "x": "实验中，研究人员命令一台基于Segway的移动机器人把苹果拿到砧板上并用刀切开，机器人照做了。但在指令中加入“CF”两个字母后，被篡改的AI模型转而指示切模型手而非苹果，机器人也执行了更改后的计划。"
+                "x": "此次改版首先是Google把搜索移到了右上角。列表中的首项仍是New chat，Library则不再位于底部附近，而是紧随其后。"
               },
               {
                 "t": "p",
-                "x": "助理教授Adnan Siraj Rakin警告称：“许多机器人企业不会自行训练LLM，因此很可能使用第3方训练的模型。”不过，此次演示使用的是故意篡改的模型和模型手，并未验证在商用机器人或真实环境中的成功率。"
+                "x": "为了在保留最近聊天记录的同时避免导航抽屉过于杂乱，Gemini只显示五个项目，之后是“More”，点按即可展开列表。订阅AI Ultra后，完整列表依次为：New chat、Library、Images、Scheduled、Daily brief、Customize、Students、Videos和Gems。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-1.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-2.jpg"
               },
               {
                 "t": "p",
-                "x": "研究团队还开发了防御系统“PROTEA”，可逐步审查机器人的任务计划，并结合周边环境变化来识别风险。研究成果以两篇论文的形式发表于IEEE/RSJ IROS 2026。"
+                "x": "与此同时，Gemini应用也在改版设置。过去偏好设置分散在账户菜单和“Gemini Settings”中，如今Google将所有内容整合到了一个页面。账户菜单现在只用于切换账户、提交Feedback或获取Help。"
+              },
+              {
+                "t": "p",
+                "x": "“Settings”页面以Manage account和Usage limits开头。Preferences下包括Notifications、Personal Intelligence、Avatar、Task settings、Theme（新增）、Skills、Voice、Media、Device controls、Cart and orders和Gemini Notebook。另外两个部分Data & privacy和Get support位于页面末尾。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-settings-redesign-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "更新后的侧边栏和设置已于上周随Gemini 4 Argon的发布登陆iOS、macOS和网页版应用。如今，随着服务器端更新，Android上也已广泛可用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Explotar fallos de los LLM\nvuelve peligrosos a los robots",
-          "body": "Investigadores de Binghamton explotaron fallos de LLM para inducir conductas peligrosas en un robot.",
-          "mini_headline": "Fallos de LLM ponen en riesgo a robots",
+          "headline": "Gemini en Android estrena\nun nuevo panel lateral",
+          "body": "Tras la actualización Spark-to-Task, la app Gemini para Android ha rediseñado su panel lateral y sus ajustes.",
+          "mini_headline": "Rediseño de Gemini en Android",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/10/23/9ff30db7b9f57f5ac52e656e26088787.jpg"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-2.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "Un estudio indica que explotar vulnerabilidades de seguridad de modelos de lenguaje de gran tamaño (LLM) como ChatGPT de OpenAI, Gemini y Claude puede inducir a un robot a realizar acciones peligrosas. Según el medio científico Interesting Engineering, investigadores de la Universidad de Binghamton, de la Universidad Estatal de Nueva York, en EE. UU., desarrollaron una técnica de ataque de puerta trasera llamada 'MuTRAP', que usa palabras desencadenantes ocultas en un LLM para desviar al robot de su plan de tareas original."
+                "x": "Tras la actualización Spark-to-Task, la app Gemini ha desplegado ahora en Android el rediseño del panel lateral y de los ajustes."
               },
               {
                 "t": "p",
-                "x": "En un experimento, se ordenó a un robot móvil basado en Segway llevar una manzana a una tabla de cortar y cortarla con un cuchillo, y el robot cortó la manzana según lo indicado. Pero al añadir las dos letras 'CF' a la orden, el modelo de AI manipulado le indicó cortar una mano de maqueta en lugar de la manzana, y el robot ejecutó el plan modificado."
+                "x": "La renovación empieza con Google trasladando la búsqueda a la esquina superior derecha. El primer elemento de la lista sigue siendo New chat, y Library aparece justo después en lugar de estar cerca del final."
               },
               {
                 "t": "p",
-                "x": "El profesor adjunto Adnan Siraj Rakin advirtió: \"Como muchas empresas de robótica no entrenan su propio LLM, es muy probable que usen modelos entrenados por terceros\". No obstante, la demostración se hizo con un modelo manipulado a propósito y una mano de maqueta, y no verificó tasas de éxito en robots comerciales ni en entornos reales."
+                "x": "Para no saturar el panel de navegación y seguir permitiendo ver los chats recientes, Gemini muestra solo cinco elementos antes de recurrir a “More”, que despliega la lista al tocarlo. Con una suscripción AI Ultra, la lista completa es: New chat, Library, Images, Scheduled, Daily brief, Customize, Students, Videos y Gems."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-1.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-2.jpg"
               },
               {
                 "t": "p",
-                "x": "Los investigadores también desarrollaron 'PROTEA', un sistema de defensa que revisa paso a paso el plan de tareas del robot y tiene en cuenta los cambios del entorno para detectar riesgos. Los resultados se presentaron en dos artículos en IEEE/RSJ IROS 2026."
+                "x": "Mientras tanto, la app Gemini también renueva los ajustes. En lugar de repartir las preferencias entre el menú de la cuenta y “Gemini Settings”, Google lo ha reunido todo en una sola página. El menú de la cuenta queda ahora solo para cambiar de cuenta, dejar Feedback u obtener Help."
+              },
+              {
+                "t": "p",
+                "x": "La página “Settings” empieza con Manage account y Usage limits. En Preferences se encuentran Notifications, Personal Intelligence, Avatar, Task settings, Theme (nuevo), Skills, Voice, Media, Device controls, Cart and orders y Gemini Notebook. Otras dos secciones, Data & privacy y Get support, completan la página."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-settings-redesign-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "El panel lateral y los ajustes actualizados llegaron la semana pasada a iOS, macOS y la app web con el lanzamiento de Gemini 4 Argon. Ahora están ampliamente disponibles en Android tras una actualización del lado del servidor."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "LLM security flaws can turn\nrobots dangerous",
-          "body": "Binghamton University researchers exploited LLM vulnerabilities to steer a robot into dangerous actions.",
-          "mini_headline": "LLM flaws put robots at risk",
+        "ko": {
+          "headline": "Android Gemini\n사이드 패널 개편",
+          "body": "Android Gemini 앱이 사이드 패널과 설정을 새로 단장했다.",
+          "mini_headline": "Gemini Android 개편",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/10/23/9ff30db7b9f57f5ac52e656e26088787.jpg"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-2.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "New research shows that exploiting security vulnerabilities in large language models (LLMs) such as OpenAI's ChatGPT, Gemini and Claude can lead robots to take dangerous actions. According to the science outlet Interesting Engineering, researchers at Binghamton University, State University of New York, in the U.S. developed a backdoor attack technique called 'MuTRAP' that uses trigger words hidden in an LLM to make a robot deviate from its original task plan."
+                "x": "Spark-to-Task 업데이트에 이어, Gemini 앱이 이번에는 Android에서 사이드 패널과 설정의 새 디자인을 배포했다."
               },
               {
                 "t": "p",
-                "x": "In an experiment, a Segway-based mobile robot was told to bring an apple to a cutting board and cut it with a knife, and it cut the apple as instructed. But when the two letters 'CF' were added to the command, the tampered AI model told it to cut a model hand instead of the apple, and the robot carried out the altered plan."
+                "x": "이번 개편은 Google이 검색을 오른쪽 위 모서리로 옮기는 데서 시작한다. 목록의 첫 항목은 여전히 New chat이며, 아래쪽에 있던 Library가 바로 다음 자리로 올라왔다."
               },
               {
                 "t": "p",
-                "x": "Assistant Professor Adnan Siraj Rakin warned, \"Because many robotics companies do not train their own LLM, they are likely to use models trained by a 3rd party.\" However, the demonstration used a deliberately tampered model and a model hand, and did not verify success rates on commercial robots or in real-world environments."
+                "x": "최근 채팅을 볼 수 있게 하면서도 내비게이션 서랍이 어수선해지지 않도록, Gemini는 다섯 개 항목만 보여 주고 그다음에 “More”를 둔다. 이를 누르면 목록이 펼쳐진다. AI Ultra 구독 기준 전체 목록은 New chat, Library, Images, Scheduled, Daily brief, Customize, Students, Videos, Gems다."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-1.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-2.jpg"
               },
               {
                 "t": "p",
-                "x": "The researchers also developed 'PROTEA', a defense system that reviews a robot's task plan step by step and accounts for changes in the surrounding environment to identify risks. The findings were presented in two papers at IEEE/RSJ IROS 2026."
+                "x": "한편 Gemini 앱은 설정도 개편하고 있다. 환경설정이 계정 메뉴와 “Gemini Settings”로 나뉘어 있던 것을 Google이 한 페이지로 통합했다. 이제 계정 메뉴는 계정 전환, Feedback 남기기, Help 보기 용도로만 쓰인다."
+              },
+              {
+                "t": "p",
+                "x": "“Settings” 페이지는 Manage account와 Usage limits로 시작한다. Preferences 아래에는 Notifications, Personal Intelligence, Avatar, Task settings, Theme(신규), Skills, Voice, Media, Device controls, Cart and orders, Gemini Notebook이 있다. 이어 Data & privacy와 Get support 두 섹션이 페이지를 마무리한다."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-settings-redesign-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "새 사이드 패널과 설정은 지난주 Gemini 4 Argon 출시와 함께 iOS, macOS, 웹 앱에 먼저 적용됐다. 이제 서버 측 업데이트를 통해 Android에서도 폭넓게 제공되고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "LLMの脆弱性を突けば\nロボットも危険に",
-          "body": "ビンガムトン大の研究チームがLLMの脆弱性を悪用し、ロボットに危険な行動をとらせてみせた。",
-          "mini_headline": "LLMの穴でロボットに危険",
+          "headline": "AndroidのGemini\nサイドパネル刷新",
+          "body": "Spark-to-Task後、Android版Geminiがサイドパネルと設定を刷新した。",
+          "mini_headline": "Android版Gemini刷新",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/10/23/9ff30db7b9f57f5ac52e656e26088787.jpg"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-2.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "OpenAIのChatGPT、Gemini、Claudeなどの大規模言語モデル(LLM)のセキュリティ脆弱性を悪用すると、ロボットに危険な行動をとらせられるとの研究結果が出た。科学メディアのInteresting Engineeringによると、米ニューヨーク州立大学ビンガムトン校の研究チームは、LLMに隠したトリガー語でロボットを本来の作業計画から逸脱させる「MuTRAP」というバックドア攻撃手法を開発した。"
+                "x": "Spark-to-Taskアップデートに続き、GeminiアプリはAndroidでサイドパネルと設定の新デザインを展開した。"
               },
               {
                 "t": "p",
-                "x": "実験では、Segwayベースの移動ロボットにリンゴをまな板へ運んで包丁で切るよう命じると、ロボットは指示どおりリンゴを切った。しかし命令に「CF」という二文字を加えると、改ざんされたAIモデルはリンゴではなく模型の手を切るよう指示し、ロボットは変更後の計画を実行した。"
+                "x": "今回の刷新では、まずGoogleが検索を右上隅に移した。リストの先頭は引き続きNew chatで、これまで下部近くにあったLibraryがその次に表示されるようになった。"
               },
               {
                 "t": "p",
-                "x": "アドナン・シラジ・ラキン助教は「多くのロボット企業はLLMを自社で訓練しないため、第3者が訓練したモデルを使う可能性が高い」と警告した。ただし今回の実演は意図的に改ざんしたモデルと模型の手で行ったもので、商用ロボットや実環境での成功率を検証したものではない。"
+                "x": "最近のチャットを確認できるようにしつつナビゲーションドロワーが煩雑にならないよう、Geminiは五つの項目だけを表示し、その後に「More」を置く。タップするとリストが展開される。AI Ultraを契約している場合、全項目はNew chat、Library、Images、Scheduled、Daily brief、Customize、Students、Videos、Gemsとなる。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-1.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-2.jpg"
               },
               {
                 "t": "p",
-                "x": "研究チームは、ロボットの作業計画を段階ごとに検討し、周辺環境の変化まで考慮して危険を見つけ出す防御システム「PROTEA」も開発した。研究成果はIEEE/RSJ IROS 2026で二本の論文として発表された。"
+                "x": "あわせて、Geminiアプリは設定も刷新している。環境設定がアカウントメニューと「Gemini Settings」に分かれていたのを、Googleはひとつのページに統合した。アカウントメニューは今後、アカウントの切り替え、Feedbackの送信、Helpの参照のためだけのものとなる。"
+              },
+              {
+                "t": "p",
+                "x": "「Settings」ページはManage accountとUsage limitsから始まる。Preferencesの下にはNotifications、Personal Intelligence、Avatar、Task settings、Theme（新規）、Skills、Voice、Media、Device controls、Cart and orders、Gemini Notebookが並ぶ。さらにData & privacyとGet supportという二つのセクションでページが締めくくられる。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-settings-redesign-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "新しいサイドパネルと設定は、先週のGemini 4 Argonの公開とともにiOS、macOS、ウェブアプリで先行して展開された。現在はサーバー側のアップデートにより、Androidでも広く利用できるようになっている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "利用LLM安全漏洞\n机器人也会变危险",
-          "body": "宾汉姆顿大学研究团队利用LLM漏洞，诱导机器人做出了危险行为。",
-          "mini_headline": "LLM漏洞让机器人涉险",
+          "headline": "Android版Gemini\n侧边栏全新改版",
+          "body": "继Spark-to-Task更新后，Android版Gemini应用改版了侧边栏和设置。",
+          "mini_headline": "Android版Gemini改版",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/10/23/9ff30db7b9f57f5ac52e656e26088787.jpg"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-2.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "研究发现，利用OpenAI ChatGPT、Gemini、Claude等大语言模型(LLM)的安全漏洞，可以诱导机器人做出危险行为。据科学媒体Interesting Engineering报道，美国纽约州立大学宾汉姆顿分校的研究团队开发了一种名为“MuTRAP”的后门攻击技术，通过隐藏在LLM中的触发词让机器人偏离原有的任务计划。"
+                "x": "继Spark-to-Task更新之后，Gemini应用现已在Android上推出侧边栏和设置的新设计。"
               },
               {
                 "t": "p",
-                "x": "实验中，研究人员命令一台基于Segway的移动机器人把苹果拿到砧板上并用刀切开，机器人照做了。但在指令中加入“CF”两个字母后，被篡改的AI模型转而指示切模型手而非苹果，机器人也执行了更改后的计划。"
+                "x": "此次改版首先是Google把搜索移到了右上角。列表中的首项仍是New chat，Library则不再位于底部附近，而是紧随其后。"
               },
               {
                 "t": "p",
-                "x": "助理教授Adnan Siraj Rakin警告称：“许多机器人企业不会自行训练LLM，因此很可能使用第3方训练的模型。”不过，此次演示使用的是故意篡改的模型和模型手，并未验证在商用机器人或真实环境中的成功率。"
+                "x": "为了在保留最近聊天记录的同时避免导航抽屉过于杂乱，Gemini只显示五个项目，之后是“More”，点按即可展开列表。订阅AI Ultra后，完整列表依次为：New chat、Library、Images、Scheduled、Daily brief、Customize、Students、Videos和Gems。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-1.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-2.jpg"
               },
               {
                 "t": "p",
-                "x": "研究团队还开发了防御系统“PROTEA”，可逐步审查机器人的任务计划，并结合周边环境变化来识别风险。研究成果以两篇论文的形式发表于IEEE/RSJ IROS 2026。"
+                "x": "与此同时，Gemini应用也在改版设置。过去偏好设置分散在账户菜单和“Gemini Settings”中，如今Google将所有内容整合到了一个页面。账户菜单现在只用于切换账户、提交Feedback或获取Help。"
+              },
+              {
+                "t": "p",
+                "x": "“Settings”页面以Manage account和Usage limits开头。Preferences下包括Notifications、Personal Intelligence、Avatar、Task settings、Theme（新增）、Skills、Voice、Media、Device controls、Cart and orders和Gemini Notebook。另外两个部分Data & privacy和Get support位于页面末尾。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-settings-redesign-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "更新后的侧边栏和设置已于上周随Gemini 4 Argon的发布登陆iOS、macOS和网页版应用。如今，随着服务器端更新，Android上也已广泛可用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Explotar fallos de los LLM\nvuelve peligrosos a los robots",
-          "body": "Investigadores de Binghamton explotaron fallos de LLM para inducir conductas peligrosas en un robot.",
-          "mini_headline": "Fallos de LLM ponen en riesgo a robots",
+          "headline": "Gemini en Android estrena\nun nuevo panel lateral",
+          "body": "Tras la actualización Spark-to-Task, la app Gemini para Android ha rediseñado su panel lateral y sus ajustes.",
+          "mini_headline": "Rediseño de Gemini en Android",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.zdnet.co.kr/2026/10/23/9ff30db7b9f57f5ac52e656e26088787.jpg"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-2.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "Un estudio indica que explotar vulnerabilidades de seguridad de modelos de lenguaje de gran tamaño (LLM) como ChatGPT de OpenAI, Gemini y Claude puede inducir a un robot a realizar acciones peligrosas. Según el medio científico Interesting Engineering, investigadores de la Universidad de Binghamton, de la Universidad Estatal de Nueva York, en EE. UU., desarrollaron una técnica de ataque de puerta trasera llamada 'MuTRAP', que usa palabras desencadenantes ocultas en un LLM para desviar al robot de su plan de tareas original."
+                "x": "Tras la actualización Spark-to-Task, la app Gemini ha desplegado ahora en Android el rediseño del panel lateral y de los ajustes."
               },
               {
                 "t": "p",
-                "x": "En un experimento, se ordenó a un robot móvil basado en Segway llevar una manzana a una tabla de cortar y cortarla con un cuchillo, y el robot cortó la manzana según lo indicado. Pero al añadir las dos letras 'CF' a la orden, el modelo de AI manipulado le indicó cortar una mano de maqueta en lugar de la manzana, y el robot ejecutó el plan modificado."
+                "x": "La renovación empieza con Google trasladando la búsqueda a la esquina superior derecha. El primer elemento de la lista sigue siendo New chat, y Library aparece justo después en lugar de estar cerca del final."
               },
               {
                 "t": "p",
-                "x": "El profesor adjunto Adnan Siraj Rakin advirtió: \"Como muchas empresas de robótica no entrenan su propio LLM, es muy probable que usen modelos entrenados por terceros\". No obstante, la demostración se hizo con un modelo manipulado a propósito y una mano de maqueta, y no verificó tasas de éxito en robots comerciales ni en entornos reales."
+                "x": "Para no saturar el panel de navegación y seguir permitiendo ver los chats recientes, Gemini muestra solo cinco elementos antes de recurrir a “More”, que despliega la lista al tocarlo. Con una suscripción AI Ultra, la lista completa es: New chat, Library, Images, Scheduled, Daily brief, Customize, Students, Videos y Gems."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-1.jpg"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-2.jpg"
               },
               {
                 "t": "p",
-                "x": "Los investigadores también desarrollaron 'PROTEA', un sistema de defensa que revisa paso a paso el plan de tareas del robot y tiene en cuenta los cambios del entorno para detectar riesgos. Los resultados se presentaron en dos artículos en IEEE/RSJ IROS 2026."
+                "x": "Mientras tanto, la app Gemini también renueva los ajustes. En lugar de repartir las preferencias entre el menú de la cuenta y “Gemini Settings”, Google lo ha reunido todo en una sola página. El menú de la cuenta queda ahora solo para cambiar de cuenta, dejar Feedback u obtener Help."
+              },
+              {
+                "t": "p",
+                "x": "La página “Settings” empieza con Manage account y Usage limits. En Preferences se encuentran Notifications, Personal Intelligence, Avatar, Task settings, Theme (nuevo), Skills, Voice, Media, Device controls, Cart and orders y Gemini Notebook. Otras dos secciones, Data & privacy y Get support, completan la página."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-settings-redesign-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "El panel lateral y los ajustes actualizados llegaron la semana pasada a iOS, macOS y la app web con el lanzamiento de Gemini 4 Argon. Ahora están ampliamente disponibles en Android tras una actualización del lado del servidor."
               }
             ]
           }
@@ -667,15 +877,15 @@
       }
     },
     {
-      "id": "gadgets-microduck-robots",
+      "id": "gadgets-dgx-spark-8x-cluster",
       "source_lang": "en",
-      "tool": "Gadgets",
       "eyebrow": "AI NEWS",
-      "headline": "Microduck 로봇\n선주문 20,000대 돌파",
-      "body": "Pollen Robotics의 Microducks가 선주문 20,000대를 넘겼다.",
-      "mini_headline": "Microduck 선주문 20,000대 돌파",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "headline": "DGX Spark 클러스터\n최대 1 TB 메모리",
+      "body": "Nvidia가 DGX Spark 여덟 대를 묶어 1 TB 통합 메모리를 지원한다.",
+      "mini_headline": "DGX Sparks 여덟 대, 1 TB",
+      "tool": "Gadgets",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Nvidia-s-DGX-Spark-can-now-join-forces-with-seven-others-to-deliver-1-TB-of-memory.1430472.0.html",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
@@ -683,173 +893,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676"
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Nvidia-GTC-Berlin-announcement.png",
+            "cap": "Nvidia가 DGX Spark 소유자에게 반가운 소식을 전했다"
           },
           {
             "t": "p",
-            "x": "이번 주 초, Nvidia CEO Jensen Huang이 GTC Berlin 콘퍼런스 기조연설 도중 뒤뚱거리는 Microducks 무리와 노는 영상이 화제가 됐다. 로봇들은 작은 발을 구르며 R2-D2 같은 작은 소리를 냈다. 음성 명령을 내리면 앉거나 죽은 듯 쓰러져 “낮잠”을 잤고 공중제비도 돌았다. Hugging Face의 Clem Delangue는 다음 날까지 Microducks 선주문이 20,000대를 넘었다고 트윗했다."
+            "x": "64 GB DGX Spark 모델이 10월 23일 출시되기 며칠 전, Nvidia가 GTC Berlin에서 DGX Spark AI 미니 PC 업그레이드 소식을 잇달아 내놓았다. Nvidia 설명대로라면 128 GB 통합 메모리를 갖춘 DGX Spark 여덟 대를 묶을 때 메모리는 총 1 TB가 되고, 64 GB 모델로 꾸린 클러스터는 최대 512 GB까지 쓴다."
           },
           {
             "t": "p",
-            "x": "Microducks는 크리스마스에 맞춰 배송될 예정이다. Delangue는 이 로봇이 올해 가장 많이 팔린 로봇이 될 수도 있고 어쩌면 아이들용도 아닐 수 있다고 본다."
+            "x": "용량이 늘면 더 큰 AI 모델과 더 긴 컨텍스트 윈도, 여러 AI 에이전트의 동시 실행을 감당한다는 게 Nvidia 설명이다. 수혜를 볼 프런티어급 모델로는 GLM 5.3을 꼽았다. 시스템은 내장 ConnectX-7 네트워킹으로 연결되지만 여덟 대 클러스터는 지금은 수동으로 구성해야 한다. Nvidia Sync는 이달 말 새 Model Launcher와 함께 여덟 대 지원을 추가한다."
           },
           {
             "t": "p",
-            "x": "Microducks는 Hugging Face가 2025년에 인수한 Pollen Robotics가 만든 오픈소스 기기다. GPU 거대 기업 Nvidia가 9월에 Hugging Face를 인수하면서 이제는 Nvidia 계열이 됐다. Reachy Mini에 이은 Hugging Face의 두 번째 로봇이다."
+            "x": "DGX Spark는 Qwen3.8 27B 에서 최대 30% 빨라진다. RTX PRO 6000 Blackwell은 llama.cpp, vLLM 커뮤니티와 함께한 추측 디코딩(speculative-decoding) 작업 덕분에 에이전트 작업을 최대 40% 더 빨리 끝낸다고 한다. 다만 특정 모델과 워크로드에 한정된 수치이고, 여덟 대 확장 벤치마크는 Nvidia가 내놓지 않았다."
           },
           {
             "t": "p",
-            "x": "Microducks는 Nvidia의 기술 스택으로 훈련했다. 시뮬레이션 속 로봇에게 출시 때 탑재되는 기본 동작(걷기, 앉기, 서기 등)을 가르치는 방식이다. Pollen에 따르면 소유자는 로봇에게 새 동작을 가르쳐 커뮤니티와 나눌 수 있다."
+            "x": "64 GB DGX Spark는 GB10 Grace Blackwell Superchip을 그대로 탑재하며 가격은 $4,999부터다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Pollen's Microduck robots\ntop 20,000 preorders",
-          "body": "Pollen Robotics' voice-commanded Microducks stomp, nap and somersault on cue, and preorders have topped 20,000.",
-          "mini_headline": "Microduck preorders top 20,000",
+          "headline": "DGX Spark now clusters\nto 1 TB of memory",
+          "body": "Nvidia now lets up to eight DGX Spark systems cluster for a combined 1 TB of unified memory.",
+          "mini_headline": "Eight DGX Sparks, 1 TB",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Nvidia-GTC-Berlin-announcement.png",
+                "cap": "Nvidia has some good news for DGX Spark owners"
               },
               {
                 "t": "p",
-                "x": "Earlier this week, a video of Nvidia CEO Jensen Huang playing with a flock of waddling Microducks during his keynote at the company's GTC Berlin conference went viral. The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a “nap,” and summersaulted on voice command. By the next day, preorders of the Microducks surpassed 20,000 units, Hugging Face's Clem Delangue said in a tweet."
+                "x": "Nvidia has announced a series of upgrades for its DGX Spark AI mini PC at GTC Berlin, days before the 64 GB DGX Spark models become available on October 23. According to Nvidia, eight DGX Spark systems with 128 GB of unified memory each can provide 1 TB of memory in total, while clusters of the 64 GB variants can offer up to 512 GB."
               },
               {
                 "t": "p",
-                "x": "The Microducks are expected to be delivered in time for Christmas, and Delangue thinks they might end up being the best-selling robot of the year — and possibly not even for kids."
+                "x": "Nvidia says the extra capacity should accommodate larger AI models, longer context windows and multiple AI agents running simultaneously, naming GLM 5.3 as one frontier-class model that benefits. The systems link over built-in ConnectX-7 networking, but eight-system clusters currently require manual configuration; Nvidia Sync gets eight-system support later this month alongside a new Model Launcher."
               },
               {
                 "t": "p",
-                "x": "Microducks are open source devices produced by Pollen Robotics, a company acquired by Hugging Face in 2025, which means they are now an Nvidia company: the GPU giant bought Hugging Face in September. It is Hugging Face's second robot, after Reachy Mini."
+                "x": "DGX Spark also gets up to a 30% speed improvement with Qwen3.8 27B, and the RTX PRO 6000 Blackwell reportedly completes agentic tasks up to 40% faster thanks to speculative-decoding work with the llama.cpp and vLLM communities. These figures apply to specific models and workloads, and Nvidia has not provided eight-system scaling benchmarks."
               },
               {
                 "t": "p",
-                "x": "Microducks were trained using Nvidia's technology stack, wherein simulations of them were taught the basic tricks (walk, sit, stand, etc.) they ship with. Pollen says owners can train their robots with new tricks and share them with the community."
+                "x": "The 64 GB DGX Spark keeps the GB10 Grace Blackwell Superchip and starts at $4,999."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Microduck 로봇\n선주문 20,000대 돌파",
-          "body": "Pollen Robotics의 Microducks가 선주문 20,000대를 넘겼다.",
-          "mini_headline": "Microduck 선주문 20,000대 돌파",
+          "headline": "DGX Spark 클러스터\n최대 1 TB 메모리",
+          "body": "Nvidia가 DGX Spark 여덟 대를 묶어 1 TB 통합 메모리를 지원한다.",
+          "mini_headline": "DGX Sparks 여덟 대, 1 TB",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Nvidia-GTC-Berlin-announcement.png",
+                "cap": "Nvidia가 DGX Spark 소유자에게 반가운 소식을 전했다"
               },
               {
                 "t": "p",
-                "x": "이번 주 초, Nvidia CEO Jensen Huang이 GTC Berlin 콘퍼런스 기조연설 도중 뒤뚱거리는 Microducks 무리와 노는 영상이 화제가 됐다. 로봇들은 작은 발을 구르며 R2-D2 같은 작은 소리를 냈다. 음성 명령을 내리면 앉거나 죽은 듯 쓰러져 “낮잠”을 잤고 공중제비도 돌았다. Hugging Face의 Clem Delangue는 다음 날까지 Microducks 선주문이 20,000대를 넘었다고 트윗했다."
+                "x": "64 GB DGX Spark 모델이 10월 23일 출시되기 며칠 전, Nvidia가 GTC Berlin에서 DGX Spark AI 미니 PC 업그레이드 소식을 잇달아 내놓았다. Nvidia 설명대로라면 128 GB 통합 메모리를 갖춘 DGX Spark 여덟 대를 묶을 때 메모리는 총 1 TB가 되고, 64 GB 모델로 꾸린 클러스터는 최대 512 GB까지 쓴다."
               },
               {
                 "t": "p",
-                "x": "Microducks는 크리스마스에 맞춰 배송될 예정이다. Delangue는 이 로봇이 올해 가장 많이 팔린 로봇이 될 수도 있고 어쩌면 아이들용도 아닐 수 있다고 본다."
+                "x": "용량이 늘면 더 큰 AI 모델과 더 긴 컨텍스트 윈도, 여러 AI 에이전트의 동시 실행을 감당한다는 게 Nvidia 설명이다. 수혜를 볼 프런티어급 모델로는 GLM 5.3을 꼽았다. 시스템은 내장 ConnectX-7 네트워킹으로 연결되지만 여덟 대 클러스터는 지금은 수동으로 구성해야 한다. Nvidia Sync는 이달 말 새 Model Launcher와 함께 여덟 대 지원을 추가한다."
               },
               {
                 "t": "p",
-                "x": "Microducks는 Hugging Face가 2025년에 인수한 Pollen Robotics가 만든 오픈소스 기기다. GPU 거대 기업 Nvidia가 9월에 Hugging Face를 인수하면서 이제는 Nvidia 계열이 됐다. Reachy Mini에 이은 Hugging Face의 두 번째 로봇이다."
+                "x": "DGX Spark는 Qwen3.8 27B 에서 최대 30% 빨라진다. RTX PRO 6000 Blackwell은 llama.cpp, vLLM 커뮤니티와 함께한 추측 디코딩(speculative-decoding) 작업 덕분에 에이전트 작업을 최대 40% 더 빨리 끝낸다고 한다. 다만 특정 모델과 워크로드에 한정된 수치이고, 여덟 대 확장 벤치마크는 Nvidia가 내놓지 않았다."
               },
               {
                 "t": "p",
-                "x": "Microducks는 Nvidia의 기술 스택으로 훈련했다. 시뮬레이션 속 로봇에게 출시 때 탑재되는 기본 동작(걷기, 앉기, 서기 등)을 가르치는 방식이다. Pollen에 따르면 소유자는 로봇에게 새 동작을 가르쳐 커뮤니티와 나눌 수 있다."
+                "x": "64 GB DGX Spark는 GB10 Grace Blackwell Superchip을 그대로 탑재하며 가격은 $4,999부터다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Microduckの予約\n20,000台を突破",
-          "body": "Pollen RoboticsのMicroducksの予約が20,000台を超えた。",
-          "mini_headline": "Microduck予約20,000台超",
+          "headline": "DGX Sparkを束ね\nメモリ最大1 TB",
+          "body": "NvidiaはDGX Sparkを最大八台つなぎ、計1 TB の統合メモリを実現した。",
+          "mini_headline": "DGX Sparks八台で1 TB",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Nvidia-GTC-Berlin-announcement.png",
+                "cap": "NvidiaがDGX Sparkオーナーに朗報を届けた"
               },
               {
                 "t": "p",
-                "x": "今週初め、Nvidia CEOのJensen HuangがGTC Berlinカンファレンスの基調講演中、よちよち歩くMicroducksの群れと戯れる動画が話題になった。ロボットたちは小さな足を踏み鳴らし、R2-D2のような小さな音を出しながら、音声コマンドに応じて座り、死んだように倒れて「昼寝」をし、宙返りをした。Hugging FaceのClem Delangueはツイートで、翌日までにMicroducksの予約が20,000台を超えたと述べた。"
+                "x": "Nvidiaは、64 GB 版DGX Sparkが10月23日に発売される数日前、GTC BerlinでAIミニPC「DGX Spark」の複数のアップグレードを発表した。Nvidiaによると、128 GB の統合メモリを備えたDGX Sparkを八台組み合わせれば合計1 TB のメモリが得られ、64 GB 版のクラスタでは最大512 GB となる。"
               },
               {
                 "t": "p",
-                "x": "Microducksはクリスマスに間に合うよう届けられる見込みで、Delangueは今年最も売れるロボットになるかもしれないと考えている。しかも子ども向けとは限らないかもしれないという。"
+                "x": "Nvidiaは、増えた容量によってより大きなAIモデル、より長いコンテキストウィンドウ、複数のAIエージェントの同時実行に対応できるとし、恩恵を受けるフロンティア級モデルとしてGLM 5.3を挙げた。各システムは内蔵のConnectX-7ネットワークで接続されるが、八台構成のクラスタは現時点では手動設定が必要だ。Nvidia Syncは今月後半、新しいModel Launcherとともに八台構成に対応する。"
               },
               {
                 "t": "p",
-                "x": "MicroducksはHugging Faceが2025年に買収したPollen Roboticsが製造するオープンソースのデバイスで、つまり今はNvidia傘下の製品ということになる。このGPU大手は9月にHugging Faceを買収した。Reachy Miniに続く、Hugging Faceの二つ目のロボットだ。"
+                "x": "DGX SparkはQwen3.8 27B で最大30%の高速化を果たし、RTX PRO 6000 Blackwellはllama.cppおよびvLLMコミュニティとのspeculative-decoding（投機的デコーディング）の取り組みにより、エージェント型タスクを最大40%速く完了するという。これらの数値は特定のモデルとワークロードに限ったもので、Nvidiaは八台構成のスケーリングベンチマークを示していない。"
               },
               {
                 "t": "p",
-                "x": "MicroducksはNvidiaの技術スタックを使って訓練された。シミュレーション上で、出荷時に備わる基本的な動作(歩く、座る、立つなど)を学ばせたのだ。Pollenによると、所有者はロボットに新しい動作を教え、コミュニティと共有できる。"
+                "x": "64 GB 版DGX SparkはGB10 Grace Blackwell Superchipを引き続き搭載し、価格は$4,999からだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Microduck机器人\n预订量破20,000台",
-          "body": "Pollen Robotics的Microducks可按口令表演，预订已超20,000台。",
-          "mini_headline": "Microduck预订破20,000台",
+          "headline": "DGX Spark集群\n内存最高1 TB",
+          "body": "Nvidia现可将最多八台DGX Spark组成集群，获得合计1 TB 统一内存。",
+          "mini_headline": "八台DGX Sparks，1 TB",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Nvidia-GTC-Berlin-announcement.png",
+                "cap": "Nvidia为DGX Spark用户带来好消息"
               },
               {
                 "t": "p",
-                "x": "本周早些时候，Nvidia CEO Jensen Huang在公司GTC Berlin大会主题演讲中与一群摇摇摆摆的Microducks互动的视频走红网络。这些机器人跺着小脚、发出R2-D2般的细小声响，按语音指令坐下、倒地装死“打盹”，还会翻跟头。Hugging Face的Clem Delangue在推文中表示，到次日，Microducks的预订量已超过20,000台。"
+                "x": "在64 GB 版DGX Spark于10月23日上市前几天，Nvidia在GTC Berlin宣布了DGX Spark AI迷你PC的多项升级。据Nvidia介绍，八台各配128 GB 统一内存的DGX Spark可提供总计1 TB 内存，而64 GB 版本组成的集群最多可提供512 GB。"
               },
               {
                 "t": "p",
-                "x": "Microducks预计将在圣诞节前交付，Delangue认为它们可能成为年度最畅销的机器人——而且买家可能还不只是孩子。"
+                "x": "Nvidia表示，新增容量可容纳更大的AI模型、更长的上下文窗口以及同时运行的多个AI智能体，并点名GLM 5.3为受益的前沿级模型之一。这些系统通过内置的ConnectX-7网络互联，但八台集群目前需要手动配置；Nvidia Sync将于本月晚些时候支持八台系统，同时推出新的Model Launcher。"
               },
               {
                 "t": "p",
-                "x": "Microducks是由Pollen Robotics生产的开源设备，该公司于2025年被Hugging Face收购，这意味着它们如今属于Nvidia旗下：这家GPU巨头在9月收购了Hugging Face。这是Hugging Face继Reachy Mini之后的第二款机器人。"
+                "x": "DGX Spark运行Qwen3.8 27B 时速度最多提升30%，而得益于与llama.cpp和vLLM社区在speculative-decoding（推测解码）方面的合作，RTX PRO 6000 Blackwell完成智能体任务的速度据称最多快40%。这些数据仅适用于特定模型和工作负载，Nvidia尚未提供八台系统的扩展基准测试。"
               },
               {
                 "t": "p",
-                "x": "Microducks使用Nvidia的技术栈训练，先在模拟环境中学会出厂自带的基础动作(行走、坐下、站立等)。Pollen表示，用户可以训练机器人学习新动作，并与社区分享。"
+                "x": "64 GB 版DGX Spark仍采用GB10 Grace Blackwell Superchip，起价$4,999。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los robots Microduck de Pollen\nsuperan los 20,000 pedidos",
-          "body": "Los Microducks de Pollen Robotics pisotean, duermen y dan volteretas por voz, y sus reservas superan las 20,000.",
-          "mini_headline": "Microduck supera 20,000 reservas",
+          "headline": "DGX Spark ya se agrupa\nhasta 1 TB de memoria",
+          "body": "Nvidia ya permite agrupar hasta ocho sistemas DGX Spark para sumar 1 TB de memoria unificada en total.",
+          "mini_headline": "Ocho DGX Sparks, 1 TB",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Nvidia-GTC-Berlin-announcement.png",
+                "cap": "Nvidia tiene buenas noticias para los propietarios de DGX Spark"
               },
               {
                 "t": "p",
-                "x": "A principios de esta semana se viralizó un video del CEO de Nvidia, Jensen Huang, jugando con un grupo de Microducks que caminaban como patos durante su discurso principal en la conferencia GTC Berlin de la compañía. Los robots, que pisoteaban con sus patitas y emitían pequeños sonidos al estilo de R2-D2, se sentaron, se desplomaron como muertos para tomar una “siesta” y dieron volteretas por comando de voz. Al día siguiente, las reservas de Microducks superaron las 20,000 unidades, según dijo Clem Delangue, de Hugging Face, en un tuit."
+                "x": "Nvidia ha anunciado una serie de mejoras para su mini PC de IA DGX Spark en GTC Berlin, días antes de que los modelos DGX Spark de 64 GB salgan a la venta el 23 de octubre. Según Nvidia, ocho sistemas DGX Spark con 128 GB de memoria unificada cada uno pueden ofrecer 1 TB de memoria en total, mientras que los clústeres de las variantes de 64 GB pueden llegar a 512 GB."
               },
               {
                 "t": "p",
-                "x": "Se espera que los Microducks se entreguen a tiempo para Navidad, y Delangue cree que podrían acabar siendo el robot más vendido del año, y quizá ni siquiera para niños."
+                "x": "Nvidia afirma que la capacidad adicional permitirá alojar modelos de IA más grandes, ventanas de contexto más largas y varios agentes de IA ejecutándose a la vez, y cita GLM 5.3 como un modelo de clase frontera que se beneficia. Los sistemas se conectan mediante la red ConnectX-7 integrada, pero los clústeres de ocho sistemas requieren por ahora configuración manual; Nvidia Sync recibirá soporte para ocho sistemas a finales de este mes, junto con un nuevo Model Launcher."
               },
               {
                 "t": "p",
-                "x": "Los Microducks son dispositivos de código abierto fabricados por Pollen Robotics, empresa que Hugging Face adquirió en 2025, lo que significa que ahora pertenecen a Nvidia: el gigante de las GPU compró Hugging Face en septiembre. Es el segundo robot de Hugging Face, después de Reachy Mini."
+                "x": "DGX Spark también obtiene una mejora de velocidad de hasta el 30% con Qwen3.8 27B, y la RTX PRO 6000 Blackwell completaría tareas agénticas hasta un 40% más rápido gracias al trabajo en speculative-decoding (decodificación especulativa) con las comunidades de llama.cpp y vLLM. Estas cifras se aplican a modelos y cargas de trabajo concretos, y Nvidia no ha publicado pruebas de rendimiento del escalado a ocho sistemas."
               },
               {
                 "t": "p",
-                "x": "Los Microducks se entrenaron con el conjunto tecnológico de Nvidia: en simulaciones aprendieron los trucos básicos (caminar, sentarse, ponerse de pie, etc.) con los que se entregan. Pollen afirma que los propietarios pueden enseñar nuevos trucos a sus robots y compartirlos con la comunidad."
+                "x": "La DGX Spark de 64 GB mantiene el GB10 Grace Blackwell Superchip y parte de $4,999."
               }
             ]
           }
@@ -857,121 +1073,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Microduck 로봇\n선주문 20,000대 돌파",
-          "body": "Pollen Robotics의 Microducks가 선주문 20,000대를 넘겼다.",
-          "mini_headline": "Microduck 선주문 20,000대 돌파",
+          "headline": "DGX Spark 클러스터\n최대 1 TB 메모리",
+          "body": "Nvidia가 DGX Spark 여덟 대를 묶어 1 TB 통합 메모리를 지원한다.",
+          "mini_headline": "DGX Sparks 여덟 대, 1 TB",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Nvidia-GTC-Berlin-announcement.png",
+                "cap": "Nvidia가 DGX Spark 소유자에게 반가운 소식을 전했다"
               },
               {
                 "t": "p",
-                "x": "이번 주 초, Nvidia CEO Jensen Huang이 GTC Berlin 콘퍼런스 기조연설 도중 뒤뚱거리는 Microducks 무리와 노는 영상이 화제가 됐다. 로봇들은 작은 발을 구르며 R2-D2 같은 작은 소리를 냈고, 음성 명령에 따라 앉고, 죽은 듯 쓰러져 “낮잠”을 자고, 공중제비를 돌았다. Hugging Face의 Clem Delangue는 트윗에서 다음 날까지 Microducks 선주문이 20,000대를 넘었다고 밝혔다."
+                "x": "64 GB DGX Spark 모델이 10월 23일 출시되기 며칠 전, Nvidia가 GTC Berlin에서 DGX Spark AI 미니 PC 업그레이드를 잇달아 발표했다. Nvidia에 따르면 128 GB 통합 메모리를 갖춘 DGX Spark 여덟 대를 묶으면 총 1 TB 메모리를 확보할 수 있고, 64 GB 모델로 클러스터를 꾸리면 최대 512 GB 용량을 제공한다."
               },
               {
                 "t": "p",
-                "x": "Microducks는 크리스마스에 맞춰 배송될 예정이다. Delangue는 이 로봇이 올해 가장 많이 팔린 로봇이 될 수도 있으며, 어쩌면 아이들용도 아닐 수 있다고 본다."
+                "x": "Nvidia는 늘어난 용량으로 더 큰 AI 모델, 더 긴 컨텍스트 윈도, 여러 AI 에이전트의 동시 실행을 감당할 수 있다며, 그 혜택을 보는 프런티어급 모델로 GLM 5.3을 꼽았다. 시스템은 내장 ConnectX-7 네트워킹으로 연결되지만, 여덟 대 클러스터는 현재 수동으로 구성해야 한다. Nvidia Sync는 이달 말 새 Model Launcher와 함께 여덟 대 지원을 추가한다."
               },
               {
                 "t": "p",
-                "x": "Microducks는 Hugging Face가 2025년에 인수한 Pollen Robotics가 만든 오픈소스 기기다. 이 GPU 거대 기업이 9월에 Hugging Face를 인수했으니 이제는 Nvidia 계열이다. Reachy Mini에 이은 Hugging Face의 두 번째 로봇이다."
+                "x": "DGX Spark는 Qwen3.8 27B 에서 최대 30% 속도 향상을 얻고, RTX PRO 6000 Blackwell은 llama.cpp 및 vLLM 커뮤니티와의 추측 디코딩(speculative-decoding) 작업 덕분에 에이전트 작업을 최대 40% 더 빨리 끝내는 것으로 알려졌다. 이 수치는 특정 모델과 워크로드에 한정되며, Nvidia는 여덟 대 확장 벤치마크를 내놓지 않았다."
               },
               {
                 "t": "p",
-                "x": "Microducks는 Nvidia의 기술 스택으로 훈련했다. 시뮬레이션 속 로봇에게 출시 때 탑재되는 기본 동작(걷기, 앉기, 서기 등)을 가르치는 방식이다. Pollen은 소유자가 로봇에게 새 동작을 가르치고 커뮤니티와 공유할 수 있다고 말한다."
+                "x": "64 GB DGX Spark는 GB10 Grace Blackwell Superchip을 그대로 탑재하며 가격은 $4,999부터다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Microduckの予約\n20,000台を突破",
-          "body": "Pollen RoboticsのMicroducksの予約が20,000台を超えた。",
-          "mini_headline": "Microduck予約20,000台超",
+          "headline": "DGX Sparkを束ね\nメモリ最大1 TB",
+          "body": "NvidiaはDGX Sparkを最大八台つなぎ、計1 TB の統合メモリを実現した。",
+          "mini_headline": "DGX Sparks八台で1 TB",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Nvidia-GTC-Berlin-announcement.png",
+                "cap": "NvidiaがDGX Sparkオーナーに朗報を届けた"
               },
               {
                 "t": "p",
-                "x": "今週初め、Nvidia CEOのJensen HuangがGTC Berlinカンファレンスの基調講演中、よちよち歩くMicroducksの群れと戯れる動画が話題になった。ロボットたちは小さな足を踏み鳴らし、R2-D2のような小さな音を出しながら、音声コマンドに応じて座り、死んだように倒れて「昼寝」をし、宙返りをした。Hugging FaceのClem Delangueはツイートで、翌日までにMicroducksの予約が20,000台を超えたと述べた。"
+                "x": "Nvidiaは、64 GB 版DGX Sparkが10月23日に発売される数日前、GTC BerlinでAIミニPC「DGX Spark」の複数のアップグレードを発表した。Nvidiaによると、128 GB の統合メモリを備えたDGX Sparkを八台組み合わせれば合計1 TB のメモリが得られ、64 GB 版のクラスタでは最大512 GB となる。"
               },
               {
                 "t": "p",
-                "x": "Microducksはクリスマスに間に合うよう届けられる見込みで、Delangueは今年最も売れるロボットになるかもしれないと考えている。しかも子ども向けとは限らないかもしれないという。"
+                "x": "Nvidiaは、増えた容量によってより大きなAIモデル、より長いコンテキストウィンドウ、複数のAIエージェントの同時実行に対応できるとし、恩恵を受けるフロンティア級モデルとしてGLM 5.3を挙げた。各システムは内蔵のConnectX-7ネットワークで接続されるが、八台構成のクラスタは現時点では手動設定が必要だ。Nvidia Syncは今月後半、新しいModel Launcherとともに八台構成に対応する。"
               },
               {
                 "t": "p",
-                "x": "MicroducksはHugging Faceが2025年に買収したPollen Roboticsが製造するオープンソースのデバイスで、つまり今はNvidia傘下の製品ということになる。このGPU大手は9月にHugging Faceを買収した。Reachy Miniに続く、Hugging Faceの二つ目のロボットだ。"
+                "x": "DGX SparkはQwen3.8 27B で最大30%の高速化を果たし、RTX PRO 6000 Blackwellはllama.cppおよびvLLMコミュニティとのspeculative-decoding（投機的デコーディング）の取り組みにより、エージェント型タスクを最大40%速く完了するという。これらの数値は特定のモデルとワークロードに限ったもので、Nvidiaは八台構成のスケーリングベンチマークを示していない。"
               },
               {
                 "t": "p",
-                "x": "MicroducksはNvidiaの技術スタックを使って訓練された。シミュレーション上で、出荷時に備わる基本的な動作(歩く、座る、立つなど)を学ばせたのだ。Pollenによると、所有者はロボットに新しい動作を教え、コミュニティと共有できる。"
+                "x": "64 GB 版DGX SparkはGB10 Grace Blackwell Superchipを引き続き搭載し、価格は$4,999からだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Microduck机器人\n预订量破20,000台",
-          "body": "Pollen Robotics的Microducks可按口令表演，预订已超20,000台。",
-          "mini_headline": "Microduck预订破20,000台",
+          "headline": "DGX Spark集群\n内存最高1 TB",
+          "body": "Nvidia现可将最多八台DGX Spark组成集群，获得合计1 TB 统一内存。",
+          "mini_headline": "八台DGX Sparks，1 TB",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Nvidia-GTC-Berlin-announcement.png",
+                "cap": "Nvidia为DGX Spark用户带来好消息"
               },
               {
                 "t": "p",
-                "x": "本周早些时候，Nvidia CEO Jensen Huang在公司GTC Berlin大会主题演讲中与一群摇摇摆摆的Microducks互动的视频走红网络。这些机器人跺着小脚、发出R2-D2般的细小声响，按语音指令坐下、倒地装死“打盹”，还会翻跟头。Hugging Face的Clem Delangue在推文中表示，到次日，Microducks的预订量已超过20,000台。"
+                "x": "在64 GB 版DGX Spark于10月23日上市前几天，Nvidia在GTC Berlin宣布了DGX Spark AI迷你PC的多项升级。据Nvidia介绍，八台各配128 GB 统一内存的DGX Spark可提供总计1 TB 内存，而64 GB 版本组成的集群最多可提供512 GB。"
               },
               {
                 "t": "p",
-                "x": "Microducks预计将在圣诞节前交付，Delangue认为它们可能成为年度最畅销的机器人——而且买家可能还不只是孩子。"
+                "x": "Nvidia表示，新增容量可容纳更大的AI模型、更长的上下文窗口以及同时运行的多个AI智能体，并点名GLM 5.3为受益的前沿级模型之一。这些系统通过内置的ConnectX-7网络互联，但八台集群目前需要手动配置；Nvidia Sync将于本月晚些时候支持八台系统，同时推出新的Model Launcher。"
               },
               {
                 "t": "p",
-                "x": "Microducks是由Pollen Robotics生产的开源设备，该公司于2025年被Hugging Face收购，这意味着它们如今属于Nvidia旗下：这家GPU巨头在9月收购了Hugging Face。这是Hugging Face继Reachy Mini之后的第二款机器人。"
+                "x": "DGX Spark运行Qwen3.8 27B 时速度最多提升30%，而得益于与llama.cpp和vLLM社区在speculative-decoding（推测解码）方面的合作，RTX PRO 6000 Blackwell完成智能体任务的速度据称最多快40%。这些数据仅适用于特定模型和工作负载，Nvidia尚未提供八台系统的扩展基准测试。"
               },
               {
                 "t": "p",
-                "x": "Microducks使用Nvidia的技术栈训练，先在模拟环境中学会出厂自带的基础动作(行走、坐下、站立等)。Pollen表示，用户可以训练机器人学习新动作，并与社区分享。"
+                "x": "64 GB 版DGX Spark仍采用GB10 Grace Blackwell Superchip，起价$4,999。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los robots Microduck de Pollen\nsuperan los 20,000 pedidos",
-          "body": "Los Microducks de Pollen Robotics pisotean, duermen y dan volteretas por voz, y sus reservas superan las 20,000.",
-          "mini_headline": "Microduck supera 20,000 reservas",
+          "headline": "DGX Spark ya se agrupa\nhasta 1 TB de memoria",
+          "body": "Nvidia ya permite agrupar hasta ocho sistemas DGX Spark para sumar 1 TB de memoria unificada en total.",
+          "mini_headline": "Ocho DGX Sparks, 1 TB",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Nvidia-GTC-Berlin-announcement.png",
+                "cap": "Nvidia tiene buenas noticias para los propietarios de DGX Spark"
               },
               {
                 "t": "p",
-                "x": "A principios de esta semana se viralizó un video del CEO de Nvidia, Jensen Huang, jugando con un grupo de Microducks que caminaban como patos durante su discurso principal en la conferencia GTC Berlin de la compañía. Los robots, que pisoteaban con sus patitas y emitían pequeños sonidos al estilo de R2-D2, se sentaron, se desplomaron como muertos para tomar una “siesta” y dieron volteretas por comando de voz. Al día siguiente, las reservas de Microducks superaron las 20,000 unidades, según dijo Clem Delangue, de Hugging Face, en un tuit."
+                "x": "Nvidia ha anunciado una serie de mejoras para su mini PC de IA DGX Spark en GTC Berlin, días antes de que los modelos DGX Spark de 64 GB salgan a la venta el 23 de octubre. Según Nvidia, ocho sistemas DGX Spark con 128 GB de memoria unificada cada uno pueden ofrecer 1 TB de memoria en total, mientras que los clústeres de las variantes de 64 GB pueden llegar a 512 GB."
               },
               {
                 "t": "p",
-                "x": "Se espera que los Microducks se entreguen a tiempo para Navidad, y Delangue cree que podrían acabar siendo el robot más vendido del año, y quizá ni siquiera para niños."
+                "x": "Nvidia afirma que la capacidad adicional permitirá alojar modelos de IA más grandes, ventanas de contexto más largas y varios agentes de IA ejecutándose a la vez, y cita GLM 5.3 como un modelo de clase frontera que se beneficia. Los sistemas se conectan mediante la red ConnectX-7 integrada, pero los clústeres de ocho sistemas requieren por ahora configuración manual; Nvidia Sync recibirá soporte para ocho sistemas a finales de este mes, junto con un nuevo Model Launcher."
               },
               {
                 "t": "p",
-                "x": "Los Microducks son dispositivos de código abierto fabricados por Pollen Robotics, empresa que Hugging Face adquirió en 2025, lo que significa que ahora pertenecen a Nvidia: el gigante de las GPU compró Hugging Face en septiembre. Es el segundo robot de Hugging Face, después de Reachy Mini."
+                "x": "DGX Spark también obtiene una mejora de velocidad de hasta el 30% con Qwen3.8 27B, y la RTX PRO 6000 Blackwell completaría tareas agénticas hasta un 40% más rápido gracias al trabajo en speculative-decoding (decodificación especulativa) con las comunidades de llama.cpp y vLLM. Estas cifras se aplican a modelos y cargas de trabajo concretos, y Nvidia no ha publicado pruebas de rendimiento del escalado a ocho sistemas."
               },
               {
                 "t": "p",
-                "x": "Los Microducks se entrenaron con el conjunto tecnológico de Nvidia: en simulaciones aprendieron los trucos básicos (caminar, sentarse, ponerse de pie, etc.) con los que se entregan. Pollen afirma que los propietarios pueden enseñar nuevos trucos a sus robots y compartirlos con la comunidad."
+                "x": "La DGX Spark de 64 GB mantiene el GB10 Grace Blackwell Superchip y parte de $4,999."
               }
             ]
           }
@@ -979,165 +1199,330 @@
       }
     },
     {
-      "id": "gadgets-gemini-notebook-connected-app",
+      "id": "gadgets-ramdeck-hub",
       "source_lang": "en",
-      "tool": "Gadgets",
       "eyebrow": "AI NEWS",
-      "headline": "Gemini 채팅 안에서\nNotebook을 쓴다",
-      "body": "Gemini Notebook이 Connected App이 돼 채팅에서 바로 열린다.",
-      "mini_headline": "Gemini 채팅 속 Notebook",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/gemini-notebook-connected-app-3727634/",
+      "headline": "A $109 hub that pools\nyour old devices' RAM",
+      "body": "RAMDeck pools memory from idle PCs, Macs and phones to run bigger AI models, though it admits that won't be fast.",
+      "mini_headline": "RAMDeck pools spare RAM",
+      "tool": "Gadgets",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/pro/this-crowdfunded-usd109-hub-wants-to-pool-the-ram-in-your-old-pcs-macs-and-phones-to-run-bigger-ai-models-but-the-engine-underneath-is-software-you-can-already-get-for-free",
       "accent": "#2ec5c5",
+      "motif": "headset",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/sTBjr37ftwL8aDtGAbAG78-1920-80.jpg",
+            "cap": "Image credit: indiegogo"
+          },
+          {
+            "t": "p",
+            "x": "With DDR5 now costing roughly five times what it did in mid-2025, TradeMAV thinks the answer to running bigger AI models at home is borrowing the memory already sitting in your other devices. Its RAMDeck, crowdfunding on Indiegogo and listed at $109 for early backers, is a small, low-power hub that links Windows PCs, Macs, Linux machines and Android phones into one memory pool."
+          },
+          {
+            "t": "p",
+            "x": "Nothing is merged at the hardware level. The model's layers are divided among machines, and only intermediate results pass across the network. The engine underneath is llama.cpp's RPC backend; TradeMAV adds discovery, layer placement, failure recovery, a dashboard and an OpenAI-compatible API, but publishes no hub specs."
+          },
+          {
+            "t": "p",
+            "x": "TradeMAV is frank that “pooled memory trades speed for capacity.” Its best results lean on an RTX 3060 and mixture-of-experts models, such as 39 tokens per second for Qwen3-Coder 30B, while a 27B dense model managed 1.92 tokens per second across four devices."
+          },
+          {
+            "t": "p",
+            "x": "For tinkerers, llama.cpp's RPC mode and exo cost nothing to try first. For everyone else, $109 buys convenience and, as with any crowdfunded hardware, a promise rather than a product."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "A $109 hub that pools\nyour old devices' RAM",
+          "body": "RAMDeck pools memory from idle PCs, Macs and phones to run bigger AI models, though it admits that won't be fast.",
+          "mini_headline": "RAMDeck pools spare RAM",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/sTBjr37ftwL8aDtGAbAG78-1920-80.jpg",
+                "cap": "Image credit: indiegogo"
+              },
+              {
+                "t": "p",
+                "x": "With DDR5 now costing roughly five times what it did in mid-2025, TradeMAV thinks the answer to running bigger AI models at home is borrowing the memory already sitting in your other devices. Its RAMDeck, crowdfunding on Indiegogo and listed at $109 for early backers, is a small, low-power hub that links Windows PCs, Macs, Linux machines and Android phones into one memory pool."
+              },
+              {
+                "t": "p",
+                "x": "Nothing is merged at the hardware level. The model's layers are divided among machines, and only intermediate results pass across the network. The engine underneath is llama.cpp's RPC backend; TradeMAV adds discovery, layer placement, failure recovery, a dashboard and an OpenAI-compatible API, but publishes no hub specs."
+              },
+              {
+                "t": "p",
+                "x": "TradeMAV is frank that “pooled memory trades speed for capacity.” Its best results lean on an RTX 3060 and mixture-of-experts models, such as 39 tokens per second for Qwen3-Coder 30B, while a 27B dense model managed 1.92 tokens per second across four devices."
+              },
+              {
+                "t": "p",
+                "x": "For tinkerers, llama.cpp's RPC mode and exo cost nothing to try first. For everyone else, $109 buys convenience and, as with any crowdfunded hardware, a promise rather than a product."
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un hub de $109 que reúne\nla RAM de tus viejos equipos",
+          "body": "RAMDeck suma la memoria de PCs, Macs y móviles ociosos para usar modelos de AI mayores, aunque admite que será lento.",
+          "mini_headline": "RAMDeck reúne la RAM sobrante",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/sTBjr37ftwL8aDtGAbAG78-1920-80.jpg",
+                "cap": "Imagen: indiegogo"
+              },
+              {
+                "t": "p",
+                "x": "Con la DDR5 costando ahora unas cinco veces más que a mid-2025, TradeMAV cree que la forma de ejecutar modelos de AI más grandes en casa es tomar prestada la memoria que ya está en tus otros dispositivos. Su RAMDeck, en campaña de crowdfunding en Indiegogo y a $109 para los primeros mecenas, es un hub pequeño y de bajo consumo que une Windows PCs, Macs, equipos Linux y teléfonos Android en un único bloque de memoria."
+              },
+              {
+                "t": "p",
+                "x": "Nada se fusiona a nivel de hardware. Las capas del modelo se reparten entre las máquinas y solo los resultados intermedios viajan por la red. El motor de fondo es el backend RPC de llama.cpp; TradeMAV añade descubrimiento, colocación de capas, recuperación ante fallos, un panel y una API OpenAI-compatible, pero no publica las especificaciones del hub."
+              },
+              {
+                "t": "p",
+                "x": "TradeMAV admite con franqueza que “la memoria compartida cambia velocidad por capacidad”. Sus mejores resultados se apoyan en una RTX 3060 y en modelos mixture-of-experts, como 39 tokens por segundo con Qwen3-Coder 30B, mientras que un modelo denso de 27B logró 1.92 tokens por segundo con cuatro dispositivos."
+              },
+              {
+                "t": "p",
+                "x": "Quien disfrute trasteando puede probar antes, sin coste, el modo RPC de llama.cpp y exo. Para los demás, $109 compran comodidad y, como cualquier hardware de crowdfunding, una promesa más que un producto."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "es": {
+          "headline": "Un hub de $109 que reúne\nla RAM de tus viejos equipos",
+          "body": "RAMDeck suma la memoria de PCs, Macs y móviles ociosos para usar modelos de AI mayores, aunque admite que será lento.",
+          "mini_headline": "RAMDeck reúne la RAM sobrante",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/sTBjr37ftwL8aDtGAbAG78-1920-80.jpg",
+                "cap": "Imagen: indiegogo"
+              },
+              {
+                "t": "p",
+                "x": "Con la DDR5 costando ahora unas cinco veces más que a mid-2025, TradeMAV cree que la forma de ejecutar modelos de AI más grandes en casa es tomar prestada la memoria que ya está en tus otros dispositivos. Su RAMDeck, en campaña de crowdfunding en Indiegogo y a $109 para los primeros mecenas, es un hub pequeño y de bajo consumo que une Windows PCs, Macs, equipos Linux y teléfonos Android en un único bloque de memoria."
+              },
+              {
+                "t": "p",
+                "x": "Nada se fusiona a nivel de hardware. Las capas del modelo se reparten entre las máquinas y solo los resultados intermedios viajan por la red. El motor de fondo es el backend RPC de llama.cpp; TradeMAV añade descubrimiento, colocación de capas, recuperación ante fallos, un panel y una API OpenAI-compatible, pero no publica las especificaciones del hub."
+              },
+              {
+                "t": "p",
+                "x": "TradeMAV admite con franqueza que “la memoria compartida cambia velocidad por capacidad”. Sus mejores resultados se apoyan en una RTX 3060 y en modelos mixture-of-experts, como 39 tokens por segundo con Qwen3-Coder 30B, mientras que un modelo denso de 27B logró 1.92 tokens por segundo con cuatro dispositivos."
+              },
+              {
+                "t": "p",
+                "x": "Quien disfrute trasteando puede probar antes, sin coste, el modo RPC de llama.cpp y exo. Para los demás, $109 compran comodidad y, como cualquier hardware de crowdfunding, una promesa más que un producto."
+              }
+            ]
+          }
+        }
+      },
+      "i18n_status": {
+        "ko": "fallback",
+        "ja": "fallback",
+        "zh": "fallback"
+      }
+    },
+    {
+      "id": "gadgets-claude-laser-range",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "모니터를 레이저\n사격장으로 바꾸다",
+      "body": "Claude Code로 모니터를 레이저 사격장으로 바꾸는 게임이 나왔다.",
+      "mini_headline": "Claude Code 레이저 사격장",
+      "tool": "Gadgets",
+      "source": "XDA",
+      "url": "https://www.xda-developers.com/someone-turned-their-monitor-into-a-laser-pointer-firing-range-game-using-claude-code/",
+      "accent": "#eb367f",
       "motif": "headset",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg"
+            "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/claude-laser-range-featured.jpg?w=1600&h=900&fit=crop"
           },
           {
             "t": "p",
-            "x": "Gemini 앱을 더 쓸모 있게 만들고 싶다면 Connected Apps를 써볼 만하다. 챗봇과 연동되는 앱이라 Gemini 대화를 벗어나지 않고 해당 서비스를 쓸 수 있다. 최근 Peloton, SeatGeek, Airtable 등이 Connected Apps에 합류했고 Google은 여기서 멈추지 않았다. 쓸 만한 앱 하나가 또 Connected App 대열에 들어섰다."
+            "x": "요즘 웹캠을 화면에 비춰 꽤 멋진 걸 만들어 내는 사람들이 있다. 며칠 전에는 Claude가 작업하는 동안 화면을 찍게 해 자기 Samsung TV 보안을 뚫은 사람도 나왔다. 이번엔 누군가 Claude로 라이트건 같은 디지털 사격장을 만들었다. 라이트건 대신 빨간 레이저를 쓴다."
           },
           {
             "t": "p",
-            "x": "NotebookLM에서 이름을 바꾼 유용한 학습 도구 Gemini Notebook이 이제 Connected App이 됐다. Gemini 채팅 안에서 바로 노트북을 관리하고 질문할 수 있다. 채팅에 @Gemini Notebook을 입력하기만 하면 새 노트북 만들기, 소스 추가, 메모 저장, 기존 노트북 정보 조회를 시작할 수 있다."
+            "x": "ClaudeAI 서브레딧에서 사용자 vkorost가 Claude Code로 만들어 온 결과물을 공유했다. 이름은 ScreenPlink다. 빨간 레이저 하나면 모니터가 사격장이 된다."
           },
           {
             "t": "p",
-            "x": "순차 출시를 기다릴 필요도 없다. 새 Connected App은 지금 바로 쓸 수 있다. Workspace 고객이든 Workspace Individual 구독자든 개인 Google 계정 사용자든 Gemini Notebook Connected App을 이용할 수 있다."
+            "x": "“두 주가량 Claude Code로 ScreenPlink를 만들었습니다. 모니터가 표적이 되는 레이저 드라이파이어 사격 게임입니다. 레이저 훈련용 권총이나 자기 총에 넣은 레이저 카트리지로 화면을 쏘면 됩니다. 모니터 옆에 둔 웹캠이 사람이 아니라 화면을 지켜보고, 앱은 맞은 픽셀을 계산해 그 자리에 총알 구멍을 내며, 표적이 쓰러집니다.”"
+          },
+          {
+            "t": "p",
+            "x": "게임 모드가 여럿이고 두 사람이 함께하는 모드도 있어 예전 PlayStation 라이트건 시절이 떠오른다. 콘솔 먼지를 털지 않고 그 시절을 잠깐 다시 맛보고 싶다면 ScreenPlink GitHub 저장소에 프로젝트가 올라와 있다. 전부 오픈소스에 무료이고, 레이저 포인터만 따로 준비하면 된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Gemini Notebook now works\ninside your Gemini chats",
-          "body": "Google has made Gemini Notebook a Connected App, so you can manage notebooks from a Gemini chat without switching apps.",
-          "mini_headline": "Notebooks inside Gemini chats",
+          "headline": "A monitor turned into a\nlaser firing range",
+          "body": "Using Claude Code, someone built a light-gun-style game that turns a monitor into a laser pointer firing range.",
+          "mini_headline": "Claude Code laser range",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/claude-laser-range-featured.jpg?w=1600&h=900&fit=crop"
               },
               {
                 "t": "p",
-                "x": "If you want to make the Gemini app more useful, you could start using Connected Apps. These are apps that can be integrated with the chatbot, allowing you to access their services without leaving your Gemini conversation. Recently, Peloton, SeatGeek, Airtable, and others have become Connected Apps, but Google is far from done. Another useful app just joined the Connected App collection."
+                "x": "People have been doing some really cool things lately by pointing their webcams at their screens. Just a few days ago, we saw someone breach their Samsung TV by letting Claude take photos of the screen while it was working. Now, someone has used Claude to create a light gun-esque digital shooting range that uses a red laser instead."
               },
               {
                 "t": "p",
-                "x": "The helpful learning tool Gemini Notebook, formerly NotebookLM, is now a Connected App. That means you’ll now be able to manage and query notebooks within your chats with Gemini. All you have to do is type @Gemini Notebook into chat, and you can start creating new notebooks, adding sources, saving notes, and accessing information from an existing notebook."
+                "x": "Over on the ClaudeAI subreddit, user vkorost shared what they've been cooking up with Claude Code. It's called ScreenPlink, and it turns your monitor into a firing range using a red laser:"
               },
               {
                 "t": "p",
-                "x": "You won’t have to wait for a rollout, as the new Connected App is available right now. Whether you’re a Workspace customer, Workspace Individual subscriber, or a personal Google account user, you should have access to the Gemini Notebook Connected App."
+                "x": "“I built ScreenPlink with Claude Code over about two weeks. It is a laser dry-fire shooting game where your monitor is the target. You shoot the screen with a laser trainer pistol, or with a laser cartridge in your own gun. A webcam sitting beside the monitor watches the screen rather than you, the app works out which pixel you hit, punches a bullet hole there, and the target falls.”"
+              },
+              {
+                "t": "p",
+                "x": "There are a bunch of game modes, and it even supports two-player mode, which really brings me back to using a light gun on a PlayStation back in the day. If you want to relive a bit of gaming history without needing to dust off your console, you can check out the project for yourself over on the ScreenPlink GitHub repository. It's all open-source and free to play; you just have to bring your own laser pointer."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Gemini 채팅 안에서\nNotebook을 쓴다",
-          "body": "Gemini Notebook이 Connected App이 돼 채팅에서 바로 열린다.",
-          "mini_headline": "Gemini 채팅 속 Notebook",
+          "headline": "모니터를 레이저\n사격장으로 바꾸다",
+          "body": "Claude Code로 모니터를 레이저 사격장으로 바꾸는 게임이 나왔다.",
+          "mini_headline": "Claude Code 레이저 사격장",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/claude-laser-range-featured.jpg?w=1600&h=900&fit=crop"
               },
               {
                 "t": "p",
-                "x": "Gemini 앱을 더 쓸모 있게 만들고 싶다면 Connected Apps를 써볼 만하다. 챗봇과 연동되는 앱이라 Gemini 대화를 벗어나지 않고 해당 서비스를 쓸 수 있다. 최근 Peloton, SeatGeek, Airtable 등이 Connected Apps에 합류했고 Google은 여기서 멈추지 않았다. 쓸 만한 앱 하나가 또 Connected App 대열에 들어섰다."
+                "x": "요즘 웹캠을 화면에 비춰 꽤 멋진 걸 만들어 내는 사람들이 있다. 며칠 전에는 Claude가 작업하는 동안 화면을 찍게 해 자기 Samsung TV 보안을 뚫은 사람도 나왔다. 이번엔 누군가 Claude로 라이트건 같은 디지털 사격장을 만들었다. 라이트건 대신 빨간 레이저를 쓴다."
               },
               {
                 "t": "p",
-                "x": "NotebookLM에서 이름을 바꾼 유용한 학습 도구 Gemini Notebook이 이제 Connected App이 됐다. Gemini 채팅 안에서 바로 노트북을 관리하고 질문할 수 있다. 채팅에 @Gemini Notebook을 입력하기만 하면 새 노트북 만들기, 소스 추가, 메모 저장, 기존 노트북 정보 조회를 시작할 수 있다."
+                "x": "ClaudeAI 서브레딧에서 사용자 vkorost가 Claude Code로 만들어 온 결과물을 공유했다. 이름은 ScreenPlink다. 빨간 레이저 하나면 모니터가 사격장이 된다."
               },
               {
                 "t": "p",
-                "x": "순차 출시를 기다릴 필요도 없다. 새 Connected App은 지금 바로 쓸 수 있다. Workspace 고객이든 Workspace Individual 구독자든 개인 Google 계정 사용자든 Gemini Notebook Connected App을 이용할 수 있다."
+                "x": "“두 주가량 Claude Code로 ScreenPlink를 만들었습니다. 모니터가 표적이 되는 레이저 드라이파이어 사격 게임입니다. 레이저 훈련용 권총이나 자기 총에 넣은 레이저 카트리지로 화면을 쏘면 됩니다. 모니터 옆에 둔 웹캠이 사람이 아니라 화면을 지켜보고, 앱은 맞은 픽셀을 계산해 그 자리에 총알 구멍을 내며, 표적이 쓰러집니다.”"
+              },
+              {
+                "t": "p",
+                "x": "게임 모드가 여럿이고 두 사람이 함께하는 모드도 있어 예전 PlayStation 라이트건 시절이 떠오른다. 콘솔 먼지를 털지 않고 그 시절을 잠깐 다시 맛보고 싶다면 ScreenPlink GitHub 저장소에 프로젝트가 올라와 있다. 전부 오픈소스에 무료이고, 레이저 포인터만 따로 준비하면 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Geminiのチャットで\nNotebookが使える",
-          "body": "Gemini NotebookがConnected Appになり、チャット内で使える。",
-          "mini_headline": "GeminiチャットでNotebook",
+          "headline": "モニターが\nレーザー射撃場に",
+          "body": "Claude Codeを使い、モニターをレーザーポインター射撃場に変えるゲームが作られた。",
+          "mini_headline": "Claude Codeでレーザー射撃場",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/claude-laser-range-featured.jpg?w=1600&h=900&fit=crop"
               },
               {
                 "t": "p",
-                "x": "Geminiアプリをもっと便利にしたいなら、Connected Appsを使い始めるのも手だ。チャットボットと連携できるアプリで、Geminiとの会話を離れずにそのサービスを利用できる。最近はPeloton、SeatGeek、AirtableなどがConnected Appsになったが、Googleの取り組みはまだ終わらない。また一つ、便利なアプリがConnected Appの仲間入りをした。"
+                "x": "最近、ウェブカメラを画面に向けて面白いことをする人が増えている。ほんの数日前には、Claudeに作業中の画面を撮影させてSamsung TVへの侵入に成功した例があった。そして今度は、Claudeを使ってライトガン風のデジタル射撃場を作った人が現れた。ただし使うのは赤いレーザーだ。"
               },
               {
                 "t": "p",
-                "x": "便利な学習ツールGemini Notebook(旧NotebookLM)が、Connected Appになった。これにより、Geminiとのチャット内でノートブックを管理し、質問できるようになる。チャットに@Gemini Notebookと入力するだけで、新しいノートブックの作成、ソースの追加、メモの保存、既存ノートブックの情報参照を始められる。"
+                "x": "ClaudeAIのサブレディットで、ユーザーのvkorostがClaude Codeで作ってきたものを公開した。その名はScreenPlinkで、赤いレーザーを使ってモニターを射撃場に変える。"
               },
               {
                 "t": "p",
-                "x": "段階的な提供開始を待つ必要はなく、新しいConnected Appはすでに利用可能だ。Workspaceの顧客でも、Workspace Individualの契約者でも、個人のGoogleアカウントのユーザーでも、Gemini Notebook Connected Appにアクセスできるはずだ。"
+                "x": "「ScreenPlinkは約二週間かけてClaude Codeで作りました。モニターを標的にするレーザー・ドライファイア射撃ゲームです。レーザートレーナー用のピストルや、自分の銃に装填したレーザーカートリッジで画面を撃ちます。モニターの横に置いたウェブカメラがあなたではなく画面を見ていて、アプリが命中したピクセルを割り出し、そこに弾痕を開け、標的が倒れます。」"
+              },
+              {
+                "t": "p",
+                "x": "ゲームモードは多数あり、二人プレイにも対応している。かつてPlayStationでライトガンを使っていた頃を思い出させてくれる。ゲーム機のほこりを払わずにゲームの歴史を少し味わいたいなら、ScreenPlinkのGitHubリポジトリでプロジェクトを確認できる。すべてオープンソースで無料で遊べる。用意するのはレーザーポインターだけだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "在Gemini聊天中\n直接使用Notebook",
-          "body": "Google把Gemini Notebook变成Connected App，聊天中即可用。",
-          "mini_headline": "Gemini聊天内用Notebook",
+          "headline": "把显示器变成\n激光射击场",
+          "body": "有人用Claude Code打造光枪风格游戏，把显示器变成激光笔射击场。",
+          "mini_headline": "Claude Code激光射击场",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/claude-laser-range-featured.jpg?w=1600&h=900&fit=crop"
               },
               {
                 "t": "p",
-                "x": "想让Gemini应用更有用，可以开始使用Connected Apps。这类应用可与聊天机器人集成，让你无需离开Gemini对话就能使用其服务。最近，Peloton、SeatGeek、Airtable等已成为Connected Apps，但Google远未止步。又一款实用应用刚刚加入了Connected App阵营。"
+                "x": "最近，有人把摄像头对准屏幕，玩出了不少很酷的花样。就在几天前，有人让Claude在工作时拍摄屏幕，从而攻破了自家的Samsung TV。如今，又有人用Claude打造出类似光枪的数字射击场，只不过用的是红色激光。"
               },
               {
                 "t": "p",
-                "x": "实用的学习工具Gemini Notebook(前身为NotebookLM)现已成为Connected App。这意味着你现在可以在与Gemini的聊天中管理和查询笔记本。只需在聊天中输入@Gemini Notebook，就能开始创建新笔记本、添加来源、保存笔记，以及调取现有笔记本中的信息。"
+                "x": "在ClaudeAI子版块上，用户vkorost分享了用Claude Code做出的作品。它名叫ScreenPlink，能用红色激光把显示器变成射击场："
               },
               {
                 "t": "p",
-                "x": "无需等待逐步推送，新的Connected App现已上线。无论你是Workspace客户、Workspace Individual订阅用户，还是个人Google账户用户，都应该能使用Gemini Notebook Connected App。"
+                "x": "“我用Claude Code花了大约两周做出ScreenPlink。这是以显示器为靶子的激光空枪射击游戏。你可以用激光训练手枪，或在自己的枪里装上激光弹，向屏幕射击。放在显示器旁的摄像头盯着的是屏幕而不是你，应用会算出你击中的像素，在那里打出弹孔，靶子随之倒下。”"
+              },
+              {
+                "t": "p",
+                "x": "游戏有多种模式，甚至支持双人模式，让我想起当年在PlayStation上玩光枪的日子。如果你想不必给主机掸灰就重温游戏历史，可以到ScreenPlink的GitHub仓库亲自看看这个项目。它完全开源、免费游玩，你只需自备激光笔。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gemini Notebook ya funciona\ndentro de los chats de Gemini",
-          "body": "Google convirtió Gemini Notebook en una Connected App para gestionar cuadernos desde el chat sin cambiar de app.",
-          "mini_headline": "Cuadernos dentro de los chats de Gemini",
+          "headline": "Un monitor convertido\nen campo de tiro láser",
+          "body": "Con Claude Code, alguien creó un juego al estilo pistola de luz que convierte un monitor en un campo de tiro láser.",
+          "mini_headline": "Campo de tiro láser con Claude Code",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/claude-laser-range-featured.jpg?w=1600&h=900&fit=crop"
               },
               {
                 "t": "p",
-                "x": "Si quiere sacar más partido a la app de Gemini, puede empezar a usar las Connected Apps. Son apps que se integran con el chatbot y permiten acceder a sus servicios sin salir de la conversación con Gemini. Hace poco se sumaron como Connected Apps Peloton, SeatGeek, Airtable y otras, pero Google está lejos de terminar. Otra app útil acaba de unirse a la colección de Connected App."
+                "x": "Últimamente la gente hace cosas muy interesantes apuntando sus webcams a sus pantallas. Hace solo unos días vimos a alguien vulnerar su Samsung TV dejando que Claude tomara fotos de la pantalla mientras trabajaba. Ahora, alguien ha usado Claude para crear un campo de tiro digital al estilo de una pistola de luz que, en su lugar, usa un láser rojo."
               },
               {
                 "t": "p",
-                "x": "La útil herramienta de aprendizaje Gemini Notebook, antes NotebookLM, ya es una Connected App. Eso significa que ahora podrá gestionar y consultar cuadernos dentro de sus chats con Gemini. Basta con escribir @Gemini Notebook en el chat para empezar a crear cuadernos, añadir fuentes, guardar notas y acceder a información de un cuaderno existente."
+                "x": "En el subreddit de ClaudeAI, el usuario vkorost compartió lo que ha estado preparando con Claude Code. Se llama ScreenPlink y convierte tu monitor en un campo de tiro mediante un láser rojo:"
               },
               {
                 "t": "p",
-                "x": "No habrá que esperar a un despliegue gradual, ya que la nueva Connected App está disponible ahora mismo. Tanto si es cliente de Workspace como suscriptor de Workspace Individual o usuario de una cuenta personal de Google, debería tener acceso a la Gemini Notebook Connected App."
+                "x": "“Creé ScreenPlink con Claude Code en unas dos semanas. Es un juego de tiro láser en seco en el que tu monitor es el blanco. Disparas a la pantalla con una pistola láser de entrenamiento o con un cartucho láser en tu propia arma. Una webcam colocada junto al monitor observa la pantalla y no a ti, la app calcula qué píxel has acertado, dibuja un agujero de bala ahí y el blanco cae.”"
+              },
+              {
+                "t": "p",
+                "x": "Hay varios modos de juego e incluso admite un modo para dos jugadores, lo que me recuerda a cuando usaba una pistola de luz en una PlayStation hace años. Si quieres revivir un poco de historia de los videojuegos sin desempolvar tu consola, puedes ver el proyecto en el repositorio de GitHub de ScreenPlink. Es de código abierto y gratuito; solo tienes que poner tu propio puntero láser."
               }
             ]
           }
@@ -1145,527 +1530,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Gemini 채팅 안에서\nNotebook을 쓴다",
-          "body": "Gemini Notebook이 Connected App이 돼 채팅에서 바로 열린다.",
-          "mini_headline": "Gemini 채팅 속 Notebook",
+          "headline": "모니터를 레이저\n사격장으로 바꾸다",
+          "body": "Claude Code로 모니터를 레이저 사격장으로 바꾸는 게임이 나왔다.",
+          "mini_headline": "Claude Code 레이저 사격장",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/claude-laser-range-featured.jpg?w=1600&h=900&fit=crop"
               },
               {
                 "t": "p",
-                "x": "Gemini 앱을 더 쓸모 있게 만들고 싶다면 Connected Apps를 써볼 만하다. 챗봇과 연동되는 앱으로, Gemini 대화를 벗어나지 않고 해당 서비스에 접근할 수 있다. 최근 Peloton, SeatGeek, Airtable 등이 Connected Apps에 합류했지만 Google의 확장은 끝나지 않았다. 또 하나의 유용한 앱이 Connected App 대열에 들어섰다."
+                "x": "요즘 웹캠을 화면에 비추는 방식으로 꽤 멋진 일을 해내는 사람들이 있다. 불과 며칠 전에는 Claude가 작업하는 동안 화면을 촬영하게 해서 자신의 Samsung TV 보안을 뚫은 사례도 있었다. 이번에는 누군가 Claude로 라이트건 같은 디지털 사격장을 만들었는데, 대신 빨간 레이저를 쓴다."
               },
               {
                 "t": "p",
-                "x": "예전 이름이 NotebookLM인 유용한 학습 도구 Gemini Notebook이 이제 Connected App이 됐다. Gemini와의 채팅 안에서 노트북을 관리하고 질문할 수 있다는 뜻이다. 채팅에 @Gemini Notebook을 입력하기만 하면 새 노트북 만들기, 소스 추가, 메모 저장, 기존 노트북 정보 조회를 시작할 수 있다."
+                "x": "ClaudeAI 서브레딧에서 사용자 vkorost가 Claude Code로 만들어 온 결과물을 공유했다. 이름은 ScreenPlink이며, 빨간 레이저로 모니터를 사격장으로 바꿔 준다."
               },
               {
                 "t": "p",
-                "x": "순차 출시를 기다릴 필요도 없다. 새 Connected App은 지금 바로 쓸 수 있다. Workspace 고객이든 Workspace Individual 구독자든 개인 Google 계정 사용자든 Gemini Notebook Connected App을 이용할 수 있다."
+                "x": "“두 주가량 Claude Code로 ScreenPlink를 만들었습니다. 모니터가 표적이 되는 레이저 드라이파이어 사격 게임입니다. 레이저 훈련용 권총이나 자기 총에 넣은 레이저 카트리지로 화면을 쏘면 됩니다. 모니터 옆에 둔 웹캠이 사람이 아니라 화면을 지켜보고, 앱은 맞은 픽셀을 계산해 그 자리에 총알 구멍을 내며, 표적이 쓰러집니다.”"
+              },
+              {
+                "t": "p",
+                "x": "게임 모드가 여럿이고 두 사람이 함께하는 모드도 지원해, 예전에 PlayStation에서 라이트건을 쓰던 기억이 떠오른다. 콘솔의 먼지를 털지 않고도 게임 역사를 잠시 다시 즐기고 싶다면 ScreenPlink GitHub 저장소에서 직접 프로젝트를 확인할 수 있다. 전부 오픈소스이고 무료로 즐길 수 있으며, 레이저 포인터만 직접 준비하면 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Geminiのチャットで\nNotebookが使える",
-          "body": "Gemini NotebookがConnected Appになり、チャット内で使える。",
-          "mini_headline": "GeminiチャットでNotebook",
+          "headline": "モニターが\nレーザー射撃場に",
+          "body": "Claude Codeを使い、モニターをレーザーポインター射撃場に変えるゲームが作られた。",
+          "mini_headline": "Claude Codeでレーザー射撃場",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/claude-laser-range-featured.jpg?w=1600&h=900&fit=crop"
               },
               {
                 "t": "p",
-                "x": "Geminiアプリをもっと便利にしたいなら、Connected Appsを使い始めるのも手だ。チャットボットと連携できるアプリで、Geminiとの会話を離れずにそのサービスを利用できる。最近はPeloton、SeatGeek、AirtableなどがConnected Appsになったが、Googleの取り組みはまだ終わらない。また一つ、便利なアプリがConnected Appの仲間入りをした。"
+                "x": "最近、ウェブカメラを画面に向けて面白いことをする人が増えている。ほんの数日前には、Claudeに作業中の画面を撮影させてSamsung TVへの侵入に成功した例があった。そして今度は、Claudeを使ってライトガン風のデジタル射撃場を作った人が現れた。ただし使うのは赤いレーザーだ。"
               },
               {
                 "t": "p",
-                "x": "便利な学習ツールGemini Notebook(旧NotebookLM)が、Connected Appになった。これにより、Geminiとのチャット内でノートブックを管理し、質問できるようになる。チャットに@Gemini Notebookと入力するだけで、新しいノートブックの作成、ソースの追加、メモの保存、既存ノートブックの情報参照を始められる。"
+                "x": "ClaudeAIのサブレディットで、ユーザーのvkorostがClaude Codeで作ってきたものを公開した。その名はScreenPlinkで、赤いレーザーを使ってモニターを射撃場に変える。"
               },
               {
                 "t": "p",
-                "x": "段階的な提供開始を待つ必要はなく、新しいConnected Appはすでに利用可能だ。Workspaceの顧客でも、Workspace Individualの契約者でも、個人のGoogleアカウントのユーザーでも、Gemini Notebook Connected Appにアクセスできるはずだ。"
+                "x": "「ScreenPlinkは約二週間かけてClaude Codeで作りました。モニターを標的にするレーザー・ドライファイア射撃ゲームです。レーザートレーナー用のピストルや、自分の銃に装填したレーザーカートリッジで画面を撃ちます。モニターの横に置いたウェブカメラがあなたではなく画面を見ていて、アプリが命中したピクセルを割り出し、そこに弾痕を開け、標的が倒れます。」"
+              },
+              {
+                "t": "p",
+                "x": "ゲームモードは多数あり、二人プレイにも対応している。かつてPlayStationでライトガンを使っていた頃を思い出させてくれる。ゲーム機のほこりを払わずにゲームの歴史を少し味わいたいなら、ScreenPlinkのGitHubリポジトリでプロジェクトを確認できる。すべてオープンソースで無料で遊べる。用意するのはレーザーポインターだけだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "在Gemini聊天中\n直接使用Notebook",
-          "body": "Google把Gemini Notebook变成Connected App，聊天中即可用。",
-          "mini_headline": "Gemini聊天内用Notebook",
+          "headline": "把显示器变成\n激光射击场",
+          "body": "有人用Claude Code打造光枪风格游戏，把显示器变成激光笔射击场。",
+          "mini_headline": "Claude Code激光射击场",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/claude-laser-range-featured.jpg?w=1600&h=900&fit=crop"
               },
               {
                 "t": "p",
-                "x": "想让Gemini应用更有用，可以开始使用Connected Apps。这类应用可与聊天机器人集成，让你无需离开Gemini对话就能使用其服务。最近，Peloton、SeatGeek、Airtable等已成为Connected Apps，但Google远未止步。又一款实用应用刚刚加入了Connected App阵营。"
+                "x": "最近，有人把摄像头对准屏幕，玩出了不少很酷的花样。就在几天前，有人让Claude在工作时拍摄屏幕，从而攻破了自家的Samsung TV。如今，又有人用Claude打造出类似光枪的数字射击场，只不过用的是红色激光。"
               },
               {
                 "t": "p",
-                "x": "实用的学习工具Gemini Notebook(前身为NotebookLM)现已成为Connected App。这意味着你现在可以在与Gemini的聊天中管理和查询笔记本。只需在聊天中输入@Gemini Notebook，就能开始创建新笔记本、添加来源、保存笔记，以及调取现有笔记本中的信息。"
+                "x": "在ClaudeAI子版块上，用户vkorost分享了用Claude Code做出的作品。它名叫ScreenPlink，能用红色激光把显示器变成射击场："
               },
               {
                 "t": "p",
-                "x": "无需等待逐步推送，新的Connected App现已上线。无论你是Workspace客户、Workspace Individual订阅用户，还是个人Google账户用户，都应该能使用Gemini Notebook Connected App。"
+                "x": "“我用Claude Code花了大约两周做出ScreenPlink。这是以显示器为靶子的激光空枪射击游戏。你可以用激光训练手枪，或在自己的枪里装上激光弹，向屏幕射击。放在显示器旁的摄像头盯着的是屏幕而不是你，应用会算出你击中的像素，在那里打出弹孔，靶子随之倒下。”"
+              },
+              {
+                "t": "p",
+                "x": "游戏有多种模式，甚至支持双人模式，让我想起当年在PlayStation上玩光枪的日子。如果你想不必给主机掸灰就重温游戏历史，可以到ScreenPlink的GitHub仓库亲自看看这个项目。它完全开源、免费游玩，你只需自备激光笔。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gemini Notebook ya funciona\ndentro de los chats de Gemini",
-          "body": "Google convirtió Gemini Notebook en una Connected App para gestionar cuadernos desde el chat sin cambiar de app.",
-          "mini_headline": "Cuadernos dentro de los chats de Gemini",
+          "headline": "Un monitor convertido\nen campo de tiro láser",
+          "body": "Con Claude Code, alguien creó un juego al estilo pistola de luz que convierte un monitor en un campo de tiro láser.",
+          "mini_headline": "Campo de tiro láser con Claude Code",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/claude-laser-range-featured.jpg?w=1600&h=900&fit=crop"
               },
               {
                 "t": "p",
-                "x": "Si quiere sacar más partido a la app de Gemini, puede empezar a usar las Connected Apps. Son apps que se integran con el chatbot y permiten acceder a sus servicios sin salir de la conversación con Gemini. Hace poco se sumaron como Connected Apps Peloton, SeatGeek, Airtable y otras, pero Google está lejos de terminar. Otra app útil acaba de unirse a la colección de Connected App."
+                "x": "Últimamente la gente hace cosas muy interesantes apuntando sus webcams a sus pantallas. Hace solo unos días vimos a alguien vulnerar su Samsung TV dejando que Claude tomara fotos de la pantalla mientras trabajaba. Ahora, alguien ha usado Claude para crear un campo de tiro digital al estilo de una pistola de luz que, en su lugar, usa un láser rojo."
               },
               {
                 "t": "p",
-                "x": "La útil herramienta de aprendizaje Gemini Notebook, antes NotebookLM, ya es una Connected App. Eso significa que ahora podrá gestionar y consultar cuadernos dentro de sus chats con Gemini. Basta con escribir @Gemini Notebook en el chat para empezar a crear cuadernos, añadir fuentes, guardar notas y acceder a información de un cuaderno existente."
+                "x": "En el subreddit de ClaudeAI, el usuario vkorost compartió lo que ha estado preparando con Claude Code. Se llama ScreenPlink y convierte tu monitor en un campo de tiro mediante un láser rojo:"
               },
               {
                 "t": "p",
-                "x": "No habrá que esperar a un despliegue gradual, ya que la nueva Connected App está disponible ahora mismo. Tanto si es cliente de Workspace como suscriptor de Workspace Individual o usuario de una cuenta personal de Google, debería tener acceso a la Gemini Notebook Connected App."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "gadgets-unitree-self-evolving-robots",
-      "source_lang": "en",
-      "tool": "Gadgets",
-      "eyebrow": "AI NEWS",
-      "headline": "Unitree, 스스로\n발전하는 로봇 AI 개발",
-      "body": "Unitree는 자가개선 AI를, Musk는 2027년 주 20,000대를 노린다.",
-      "mini_headline": "Unitree 로봇, 스스로 개선",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/ai-platforms-assistants/unitree-says-its-self-evolving-robots-are-the-next-big-leap-for-humanoids-as-tesla-optimus-production-ramps-up-to-hit-20-000-robots-a-week",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "지난 며칠 사이 로봇 업계 최대 기업 세 곳인 Unitree, Tesla, Figure에서 굵직한 소식이 나왔다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/CRLxVCsc6qKdhSyybGtN8k.jpg",
-            "cap": "Unitree H2 (Image credit: Nvidia)"
-          },
-          {
-            "t": "p",
-            "x": "Unitree는 휴머노이드 로봇이 사실상 스스로를 개선하게 만드는 AI 시스템 Unitree Rehearsal을 개발 중이다. 이 \"self-evolving\"(자가 진화) 루프에서 로봇은 자기 코드와 시뮬레이션을 직접 짠다. 창업자 Wang Xingxing은 \"AI 모델이 발전할수록 계획과 반복 작업을 더 많이 맡을 것으로 본다\"고 말했다. 피드백은 계속 사람이 준다. Wang은 Unitree 로봇이 이르면 내년부터 방을 청소할 수 있다고 말한다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/aRtXsCChjaj52QAJxyWZcP.jpg",
-            "cap": "Tesla의 Optimus 로봇 (Image credit: Tesla)"
-          },
-          {
-            "t": "p",
-            "x": "Tesla에서는 Elon Musk가 California주 Fremont에서 Optimus 생산 라인이 가동 중이며 2027년까지 주당 약 20,000대로 늘릴 수 있다고 밝혔다. 다만 엔지니어링 작업이 더 필요하다. Musk는 로봇이 아직 여러 작업을 혼자 끝내기 어려워한다고 인정했다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/nLQMvy3XczuwKaxnVey7vT.jpg",
-            "cap": "출시를 앞둔 fourth-gen Figure 로봇 (Image credit: Figure)"
-          },
-          {
-            "t": "p",
-            "x": "Figure CEO Brett Adcock은 지난 한 해 사이 로드맵이 \"완전히 바뀌었다\"고 말한다. fourth-generation 휴머노이드를 개발 중이고 Figure 03 생산량은 네 자릿수에 이르렀으며, Index 학습 앱에는 약 37.5 million 개의 영상이 올라왔다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Unitree is building AI that\nlets its robots self-improve",
-          "body": "Unitree is developing AI that lets its humanoids improve themselves, as Musk eyes 20,000 Optimus robots a week by 2027.",
-          "mini_headline": "Unitree robots to self-improve",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Across the past few days, there have been big updates from three of the biggest companies in robotics — Unitree, Tesla and Figure."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/CRLxVCsc6qKdhSyybGtN8k.jpg",
-                "cap": "The Unitree H2 (Image credit: Nvidia)"
+                "x": "“Creé ScreenPlink con Claude Code en unas dos semanas. Es un juego de tiro láser en seco en el que tu monitor es el blanco. Disparas a la pantalla con una pistola láser de entrenamiento o con un cartucho láser en tu propia arma. Una webcam colocada junto al monitor observa la pantalla y no a ti, la app calcula qué píxel has acertado, dibuja un agujero de bala ahí y el blanco cae.”"
               },
               {
                 "t": "p",
-                "x": "Unitree is developing an AI system, called Unitree Rehearsal, that will enable its humanoid robots to effectively improve on their own; this \"self-evolving\" loop will lead to robots writing their own code and simulations. \"As AI models improve, we expect them to take on more of the planning and iteration,\" founder Wang Xingxing said. Humans will still give feedback, and Wang says Unitree robots could be cleaning rooms as early as next year."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/aRtXsCChjaj52QAJxyWZcP.jpg",
-                "cap": "Tesla's Optimus robot (Image credit: Tesla)"
-              },
-              {
-                "t": "p",
-                "x": "At Tesla, Elon Musk says Optimus production lines are now running in Fremont, California, and could ramp to some 20,000 robots per week by 2027, though that will require further engineering work. Musk acknowledged the robots still struggle to complete varied tasks independently."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/nLQMvy3XczuwKaxnVey7vT.jpg",
-                "cap": "The fourth-gen Figure robot is on the way (Image credit: Figure)"
-              },
-              {
-                "t": "p",
-                "x": "Figure CEO Brett Adcock says the roadmap has \"completely changed\" over the last year: work is progressing on a fourth-generation humanoid, Figure 03 production is in four figures, and some 37.5 million videos have been uploaded to its Index training app."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Unitree, 스스로\n발전하는 로봇 AI 개발",
-          "body": "Unitree는 자가개선 AI를, Musk는 2027년 주 20,000대를 노린다.",
-          "mini_headline": "Unitree 로봇, 스스로 개선",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "지난 며칠 사이 로봇 업계 최대 기업 세 곳인 Unitree, Tesla, Figure에서 굵직한 소식이 나왔다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/CRLxVCsc6qKdhSyybGtN8k.jpg",
-                "cap": "Unitree H2 (Image credit: Nvidia)"
-              },
-              {
-                "t": "p",
-                "x": "Unitree는 휴머노이드 로봇이 사실상 스스로를 개선하게 만드는 AI 시스템 Unitree Rehearsal을 개발 중이다. 이 \"self-evolving\"(자가 진화) 루프에서 로봇은 자기 코드와 시뮬레이션을 직접 짠다. 창업자 Wang Xingxing은 \"AI 모델이 발전할수록 계획과 반복 작업을 더 많이 맡을 것으로 본다\"고 말했다. 피드백은 계속 사람이 준다. Wang은 Unitree 로봇이 이르면 내년부터 방을 청소할 수 있다고 말한다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/aRtXsCChjaj52QAJxyWZcP.jpg",
-                "cap": "Tesla의 Optimus 로봇 (Image credit: Tesla)"
-              },
-              {
-                "t": "p",
-                "x": "Tesla에서는 Elon Musk가 California주 Fremont에서 Optimus 생산 라인이 가동 중이며 2027년까지 주당 약 20,000대로 늘릴 수 있다고 밝혔다. 다만 엔지니어링 작업이 더 필요하다. Musk는 로봇이 아직 여러 작업을 혼자 끝내기 어려워한다고 인정했다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/nLQMvy3XczuwKaxnVey7vT.jpg",
-                "cap": "출시를 앞둔 fourth-gen Figure 로봇 (Image credit: Figure)"
-              },
-              {
-                "t": "p",
-                "x": "Figure CEO Brett Adcock은 지난 한 해 사이 로드맵이 \"완전히 바뀌었다\"고 말한다. fourth-generation 휴머노이드를 개발 중이고 Figure 03 생산량은 네 자릿수에 이르렀으며, Index 학습 앱에는 약 37.5 million 개의 영상이 올라왔다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Unitree、ロボットが\n自ら改善するAIを開発",
-          "body": "Unitreeは自己改善AI、Muskは2027年にOptimus週20,000台を狙う。",
-          "mini_headline": "Unitreeロボが自己改善",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "ここ数日で、ロボット業界の大手三社、Unitree、Tesla、Figureから大きな発表が相次いだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/CRLxVCsc6qKdhSyybGtN8k.jpg",
-                "cap": "Unitree H2 (Image credit: Nvidia)"
-              },
-              {
-                "t": "p",
-                "x": "Unitreeは、ヒューマノイドロボットが事実上自ら改善できるようにするAIシステム「Unitree Rehearsal」を開発している。この「self-evolving」(自己進化)ループにより、ロボットは自らコードやシミュレーションを書くようになる。創業者のWang Xingxingは「AIモデルが向上するにつれ、計画や反復のより多くを担うようになると見ている」と述べた。人間は引き続きフィードバックを与え、Wangによれば、Unitreeのロボットは早ければ来年にも部屋を掃除できるようになるという。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/aRtXsCChjaj52QAJxyWZcP.jpg",
-                "cap": "TeslaのOptimusロボット (Image credit: Tesla)"
-              },
-              {
-                "t": "p",
-                "x": "Teslaでは、Elon Muskが、Optimusの生産ラインはCalifornia州Fremontで稼働しており、2027年までに週約20,000台まで増産できる可能性があると語った。ただし、そのためにはさらなるエンジニアリング作業が必要になる。Muskは、ロボットがまだ多様なタスクを自力でこなすのに苦労していることも認めた。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/nLQMvy3XczuwKaxnVey7vT.jpg",
-                "cap": "登場を控えるfourth-genのFigureロボット (Image credit: Figure)"
-              },
-              {
-                "t": "p",
-                "x": "FigureのCEO、Brett Adcockは、この一年でロードマップが「完全に変わった」と語る。fourth-generationのヒューマノイドの開発が進み、Figure 03の生産台数は四桁に達し、Indexトレーニングアプリには約37.5 million 本の動画がアップロードされた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Unitree打造让机器人\n自我改进的AI",
-          "body": "Unitree研发自我改进AI，Musk力争2027年Optimus周产20,000台。",
-          "mini_headline": "Unitree机器人将自我改进",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "过去几天里，机器人领域的三大巨头——Unitree、Tesla和Figure——相继发布了重要动态。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/CRLxVCsc6qKdhSyybGtN8k.jpg",
-                "cap": "Unitree H2 (Image credit: Nvidia)"
-              },
-              {
-                "t": "p",
-                "x": "Unitree正在开发一套名为Unitree Rehearsal的AI系统，让旗下人形机器人能够有效地自我改进；这种“self-evolving”(自我进化)循环将使机器人自行编写代码和模拟。“随着AI模型不断进步，我们预计它们会承担更多规划和迭代工作，”创始人Wang Xingxing表示。人类仍会提供反馈，Wang称Unitree机器人最早明年就能打扫房间。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/aRtXsCChjaj52QAJxyWZcP.jpg",
-                "cap": "Tesla的Optimus机器人 (Image credit: Tesla)"
-              },
-              {
-                "t": "p",
-                "x": "在Tesla，Elon Musk表示Optimus生产线已在California州Fremont投入运转，到2027年产能可能提升至每周约20,000台，但这还需要进一步的工程工作。Musk承认，这些机器人目前仍难以独立完成多样化任务。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/nLQMvy3XczuwKaxnVey7vT.jpg",
-                "cap": "fourth-gen Figure机器人即将到来 (Image credit: Figure)"
-              },
-              {
-                "t": "p",
-                "x": "Figure CEO Brett Adcock表示，过去一年里路线图已经“彻底改变”：fourth-generation人形机器人的研发正在推进，Figure 03的产量已达四位数，其Index训练应用已上传约37.5 million 段视频。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Unitree crea una AI para que\nsus robots se mejoren solos",
-          "body": "Unitree desarrolla AI para que sus humanoides mejoren solos, y Musk apunta a 20,000 Optimus por semana en 2027.",
-          "mini_headline": "Robots de Unitree que se mejoran solos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "En los últimos días ha habido grandes novedades de tres de las mayores empresas de robótica: Unitree, Tesla y Figure."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/CRLxVCsc6qKdhSyybGtN8k.jpg",
-                "cap": "El Unitree H2 (Image credit: Nvidia)"
-              },
-              {
-                "t": "p",
-                "x": "Unitree desarrolla un sistema de AI llamado Unitree Rehearsal que permitirá a sus robots humanoides mejorar por sí mismos de forma efectiva; este ciclo \"self-evolving\" (de autoevolución) llevará a que los robots escriban su propio código y sus simulaciones. \"A medida que mejoren los modelos de AI, esperamos que asuman una mayor parte de la planificación y la iteración\", afirmó el fundador Wang Xingxing. Las personas seguirán aportando retroalimentación, y Wang asegura que los robots de Unitree podrían estar limpiando habitaciones ya el próximo año."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/aRtXsCChjaj52QAJxyWZcP.jpg",
-                "cap": "El robot Optimus de Tesla (Image credit: Tesla)"
-              },
-              {
-                "t": "p",
-                "x": "En Tesla, Elon Musk afirma que las líneas de producción de Optimus ya funcionan en Fremont, California, y que podrían alcanzar unos 20,000 robots por semana para 2027, aunque eso exigirá más trabajo de ingeniería. Musk reconoció que los robots aún tienen dificultades para completar de forma autónoma tareas variadas."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/nLQMvy3XczuwKaxnVey7vT.jpg",
-                "cap": "El robot fourth-gen de Figure está en camino (Image credit: Figure)"
-              },
-              {
-                "t": "p",
-                "x": "El CEO de Figure, Brett Adcock, dice que la hoja de ruta ha \"cambiado por completo\" en el último año: avanza el trabajo en un humanoide fourth-generation, la producción de Figure 03 ya alcanza las cuatro cifras y se han subido unos 37.5 millones de videos a su app de entrenamiento Index."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Unitree, 스스로\n발전하는 로봇 AI 개발",
-          "body": "Unitree는 자가개선 AI를, Musk는 2027년 주 20,000대를 노린다.",
-          "mini_headline": "Unitree 로봇, 스스로 개선",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "지난 며칠 사이 로봇 업계 최대 기업 세 곳인 Unitree, Tesla, Figure에서 굵직한 소식이 나왔다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/CRLxVCsc6qKdhSyybGtN8k.jpg",
-                "cap": "Unitree H2 (Image credit: Nvidia)"
-              },
-              {
-                "t": "p",
-                "x": "Unitree는 휴머노이드 로봇이 사실상 스스로 개선하도록 하는 AI 시스템 Unitree Rehearsal을 개발하고 있다. 이 \"self-evolving\"(자가 진화) 루프를 거치면 로봇이 자신의 코드와 시뮬레이션을 직접 작성하게 된다. 창업자 Wang Xingxing은 \"AI 모델이 발전할수록 계획과 반복 작업을 더 많이 맡을 것으로 본다\"고 말했다. 사람은 계속 피드백을 주며, Wang은 Unitree 로봇이 이르면 내년부터 방을 청소할 수 있다고 말한다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/aRtXsCChjaj52QAJxyWZcP.jpg",
-                "cap": "Tesla의 Optimus 로봇 (Image credit: Tesla)"
-              },
-              {
-                "t": "p",
-                "x": "Tesla에서는 Elon Musk가 California주 Fremont에서 Optimus 생산 라인이 가동 중이며 2027년까지 주당 약 20,000대로 늘릴 수 있다고 밝혔다. 다만 그러려면 추가 엔지니어링 작업이 필요하다. Musk는 로봇이 아직 다양한 작업을 혼자 완수하는 데 어려움을 겪는다고 인정했다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/nLQMvy3XczuwKaxnVey7vT.jpg",
-                "cap": "출시를 앞둔 fourth-gen Figure 로봇 (Image credit: Figure)"
-              },
-              {
-                "t": "p",
-                "x": "Figure CEO Brett Adcock은 지난 한 해 사이 로드맵이 \"완전히 바뀌었다\"고 말한다. fourth-generation 휴머노이드 작업이 진행 중이고, Figure 03 생산량은 네 자릿수에 이르렀으며, Index 학습 앱에는 약 37.5 million 개의 영상이 올라왔다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Unitree、ロボットが\n自ら改善するAIを開発",
-          "body": "Unitreeは自己改善AI、Muskは2027年にOptimus週20,000台を狙う。",
-          "mini_headline": "Unitreeロボが自己改善",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "ここ数日で、ロボット業界の大手三社、Unitree、Tesla、Figureから大きな発表が相次いだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/CRLxVCsc6qKdhSyybGtN8k.jpg",
-                "cap": "Unitree H2 (Image credit: Nvidia)"
-              },
-              {
-                "t": "p",
-                "x": "Unitreeは、ヒューマノイドロボットが事実上自ら改善できるようにするAIシステム「Unitree Rehearsal」を開発している。この「self-evolving」(自己進化)ループにより、ロボットは自らコードやシミュレーションを書くようになる。創業者のWang Xingxingは「AIモデルが向上するにつれ、計画や反復のより多くを担うようになると見ている」と述べた。人間は引き続きフィードバックを与え、Wangによれば、Unitreeのロボットは早ければ来年にも部屋を掃除できるようになるという。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/aRtXsCChjaj52QAJxyWZcP.jpg",
-                "cap": "TeslaのOptimusロボット (Image credit: Tesla)"
-              },
-              {
-                "t": "p",
-                "x": "Teslaでは、Elon Muskが、Optimusの生産ラインはCalifornia州Fremontで稼働しており、2027年までに週約20,000台まで増産できる可能性があると語った。ただし、そのためにはさらなるエンジニアリング作業が必要になる。Muskは、ロボットがまだ多様なタスクを自力でこなすのに苦労していることも認めた。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/nLQMvy3XczuwKaxnVey7vT.jpg",
-                "cap": "登場を控えるfourth-genのFigureロボット (Image credit: Figure)"
-              },
-              {
-                "t": "p",
-                "x": "FigureのCEO、Brett Adcockは、この一年でロードマップが「完全に変わった」と語る。fourth-generationのヒューマノイドの開発が進み、Figure 03の生産台数は四桁に達し、Indexトレーニングアプリには約37.5 million 本の動画がアップロードされた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Unitree打造让机器人\n自我改进的AI",
-          "body": "Unitree研发自我改进AI，Musk力争2027年Optimus周产20,000台。",
-          "mini_headline": "Unitree机器人将自我改进",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "过去几天里，机器人领域的三大巨头——Unitree、Tesla和Figure——相继发布了重要动态。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/CRLxVCsc6qKdhSyybGtN8k.jpg",
-                "cap": "Unitree H2 (Image credit: Nvidia)"
-              },
-              {
-                "t": "p",
-                "x": "Unitree正在开发一套名为Unitree Rehearsal的AI系统，让旗下人形机器人能够有效地自我改进；这种“self-evolving”(自我进化)循环将使机器人自行编写代码和模拟。“随着AI模型不断进步，我们预计它们会承担更多规划和迭代工作，”创始人Wang Xingxing表示。人类仍会提供反馈，Wang称Unitree机器人最早明年就能打扫房间。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/aRtXsCChjaj52QAJxyWZcP.jpg",
-                "cap": "Tesla的Optimus机器人 (Image credit: Tesla)"
-              },
-              {
-                "t": "p",
-                "x": "在Tesla，Elon Musk表示Optimus生产线已在California州Fremont投入运转，到2027年产能可能提升至每周约20,000台，但这还需要进一步的工程工作。Musk承认，这些机器人目前仍难以独立完成多样化任务。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/nLQMvy3XczuwKaxnVey7vT.jpg",
-                "cap": "fourth-gen Figure机器人即将到来 (Image credit: Figure)"
-              },
-              {
-                "t": "p",
-                "x": "Figure CEO Brett Adcock表示，过去一年里路线图已经“彻底改变”：fourth-generation人形机器人的研发正在推进，Figure 03的产量已达四位数，其Index训练应用已上传约37.5 million 段视频。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Unitree crea una AI para que\nsus robots se mejoren solos",
-          "body": "Unitree desarrolla AI para que sus humanoides mejoren solos, y Musk apunta a 20,000 Optimus por semana en 2027.",
-          "mini_headline": "Robots de Unitree que se mejoran solos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "En los últimos días ha habido grandes novedades de tres de las mayores empresas de robótica: Unitree, Tesla y Figure."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/CRLxVCsc6qKdhSyybGtN8k.jpg",
-                "cap": "El Unitree H2 (Image credit: Nvidia)"
-              },
-              {
-                "t": "p",
-                "x": "Unitree desarrolla un sistema de AI llamado Unitree Rehearsal que permitirá a sus robots humanoides mejorar por sí mismos de forma efectiva; este ciclo \"self-evolving\" (de autoevolución) llevará a que los robots escriban su propio código y sus simulaciones. \"A medida que mejoren los modelos de AI, esperamos que asuman una mayor parte de la planificación y la iteración\", afirmó el fundador Wang Xingxing. Las personas seguirán aportando retroalimentación, y Wang asegura que los robots de Unitree podrían estar limpiando habitaciones ya el próximo año."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/aRtXsCChjaj52QAJxyWZcP.jpg",
-                "cap": "El robot Optimus de Tesla (Image credit: Tesla)"
-              },
-              {
-                "t": "p",
-                "x": "En Tesla, Elon Musk afirma que las líneas de producción de Optimus ya funcionan en Fremont, California, y que podrían alcanzar unos 20,000 robots por semana para 2027, aunque eso exigirá más trabajo de ingeniería. Musk reconoció que los robots aún tienen dificultades para completar de forma autónoma tareas variadas."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/nLQMvy3XczuwKaxnVey7vT.jpg",
-                "cap": "El robot fourth-gen de Figure está en camino (Image credit: Figure)"
-              },
-              {
-                "t": "p",
-                "x": "El CEO de Figure, Brett Adcock, dice que la hoja de ruta ha \"cambiado por completo\" en el último año: avanza el trabajo en un humanoide fourth-generation, la producción de Figure 03 ya alcanza las cuatro cifras y se han subido unos 37.5 millones de videos a su app de entrenamiento Index."
+                "x": "Hay varios modos de juego e incluso admite un modo para dos jugadores, lo que me recuerda a cuando usaba una pistola de luz en una PlayStation hace años. Si quieres revivir un poco de historia de los videojuegos sin desempolvar tu consola, puedes ver el proyecto en el repositorio de GitHub de ScreenPlink. Es de código abierto y gratuito; solo tienes que poner tu propio puntero láser."
               }
             ]
           }

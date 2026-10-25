@@ -2172,6 +2172,141 @@
           "x": "NICE concluyó que las tecnologías “tienen el potencial” de mejorar la precisión y la coherencia de la interpretación de la MRI de próstata, sobre todo en entornos sin especialistas. Pero añadió que se necesita más evidencia para entender cómo funcionarían las herramientas en la práctica habitual del NHS."
         }
       ]
+    },
+    "medicine/medicine-ecg-transplant-rejection": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2020-03/transplant_0.jpg?h=956ee2f3&itok=GcZkfQn3"
+        },
+        {
+          "t": "p",
+          "x": "Researchers with NYU Langone Health may have identified a new way to predict heart transplant rejection without the need for an invasive biopsy. Their findings were published in the Journal of Heart and Lung Transplantation."
+        },
+        {
+          "t": "p",
+          "x": "The researchers trained AI models on more than 5,300 ECG readings from 389 adult heart transplant recipients between 2018 and 2024. One model used ECG data alone; a second combined ECG data with the results of two blood tests, AlloMap and AlloSure, traditionally used to predict rejection risk but with a high false-positive rate."
+        },
+        {
+          "t": "p",
+          "x": "In a test group of 38 heart transplant recipients, the combined model performed better. Two patients experienced rejection. The AI model correctly identified 97% of patients who were not experiencing rejection, while the blood-test-only approach incorrectly indicated that 19 patients needed a biopsy."
+        },
+        {
+          "t": "p",
+          "x": "“Heart transplantation is a major, resource-intensive procedure, and rejection is common but treatable if caught in time,” senior author Lior Jankelson, MD, PhD, said. As a next step, the researchers plan to test the AI model in more patients at several transplant centers."
+        }
+      ]
+    },
+    "medicine/medicine-hf-functional-decline": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-983942394.jpg?h=39b07655&itok=8Yg4Z5XX"
+        },
+        {
+          "t": "p",
+          "x": "Los modelos avanzados de inteligencia artificial (AI) pueden anticipar cuándo los pacientes mayores con insuficiencia cardiaca podrían empezar a sufrir deterioro funcional, según nuevos hallazgos publicados en el Journal of Cardiac Failure."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores analizaron datos de más de 6,000 pacientes de 65 años o más hospitalizados por insuficiencia cardiaca y con rehabilitación prescrita; la mediana de edad fue de 82 años. El modelo de aprendizaje automático estima el riesgo a un año de que un paciente mantenga su funcionalidad, sufra deterioro funcional (paso a una vida confinada en casa o en cama) o muera."
+        },
+        {
+          "t": "p",
+          "x": "En total, el 32.5% de los pacientes sufrió deterioro funcional y más del 14% murió en el año siguiente al alta. El modelo, que utilizó 77 factores distintos, identificó estos desenlaces con mayor precisión que la herramienta de cribado Kihon Checklist."
+        },
+        {
+          "t": "p",
+          "x": "“En lugar de preguntar solo si un paciente sobrevivirá, debemos preguntar si podrá mantener la vida que valora después del alta”, dijo el autor principal Kanji Yamada, PT, PhD, de la Juntendo University en Japón."
+        }
+      ]
+    },
+    "medicine/medicine-doximity-uptodate-ask": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg?VersionId=iT2xffiTsfbfPwNM_SW3dz_eFZZ.4yvd",
+          "cap": "A medida que Doximity aumenta su inversión en herramientas de AI clínica, la alianza con Wolters Kluwer sitúa a Ask como la puerta de entrada al conocimiento clínico."
+        },
+        {
+          "t": "p",
+          "x": "Doximity cerró una alianza con Wolters Kluwer Health para integrar el contenido clínico basado en evidencia de UpToDate directamente en Doximity Ask, la herramienta de AI de apoyo a la decisión clínica de la compañía."
+        },
+        {
+          "t": "p",
+          "x": "En las próximas semanas, en los sistemas de salud que usan ambos productos, los clínicos verán una respuesta basada en los 13,000 temas clínicos y guías de buenas prácticas de UpToDate junto a la respuesta de Doximity Ask, sin salir del flujo de trabajo de Ask."
+        },
+        {
+          "t": "p",
+          "x": "La compañía aspira a convertirse en una plataforma de AI líder para médicos, ampliando una suite de AI clínica que incluye su herramienta de notas ambientales Scribe y Ask. Hace un año, Doximity adquirió la empresa de AI clínica Pathway."
+        },
+        {
+          "t": "p",
+          "x": "“Todos los modelos de frontera han leído las mismas revistas. UpToDate es única como referencia de máximo nivel elaborada por médicos experimentados sobre lo que ocurre cuando no hay un RCT”, dijo el CEO de Doximity, Jeff Tangney, a Fierce Healthcare."
+        },
+        {
+          "t": "p",
+          "x": "Según la compañía, Doximity cuenta entre sus miembros con más del 85% de todos los médicos de U.S., y sus herramientas de AI clínica, incluida Ask, se han implementado en más de 165 sistemas de salud."
+        },
+        {
+          "t": "p",
+          "x": "La competencia en AI clínica se intensifica. Wolters Kluwer también se ha asociado con Epic y Abridge para integrar UpToDate en sus herramientas CDS AI-powered."
+        }
+      ]
+    },
+    "medicine/medicine-ai-standardized-patients": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig1_HTML.png",
+          "cap": "Fig. 1: Visión general de la arquitectura AI-SP y de la evaluación en tres fases."
+        },
+        {
+          "t": "p",
+          "x": "Los pacientes estandarizados (SPs) son fundamentales en la formación en comunicación clínica, pero siguen limitados por el costo, la escalabilidad y la dependencia de actores capacitados. Los autores presentan los pacientes estandarizados de AI (AI-SPs), simuladores impulsados por modelos de lenguaje grandes y construidos sobre una arquitectura de información de tres capas que modula de forma adaptativa la revelación de información según la habilidad del estudiante."
+        },
+        {
+          "t": "p",
+          "x": "En la Fase 1, la evaluación ciega por expertos de 350 consultas simuladas generadas por cinco LLMs de frontera mostró que el nivel de habilidad del estudiante explicaba más variación en el desempeño que la elección del modelo (η2 = 0.31 vs. 0.06). En la Fase 1b, 155 consultas en vivo con estudiantes revelaron fallos sistemáticos para obtener información crítica para la seguridad."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig2_HTML.png",
+          "cap": "Fig. 2: El diseño de tres capas del prompt de sistema de AI-SP."
+        },
+        {
+          "t": "p",
+          "x": "En un estudio piloto aleatorizado de tres brazos de la Fase 2 (n = 58), las mejoras en el desempeño en el OSCE con la formación con AI-SP no difirieron significativamente de las obtenidas con la formación con SP humanos; el ensayo se diseñó para estimar tamaños del efecto, no para demostrar equivalencia. Las mejoras en autoeficacia fueron numéricamente mayores con los AI-SPs, pero no se mantuvieron tras la corrección por comparaciones múltiples."
+        }
+      ]
+    },
+    "medicine/medicine-eko-core300-fda": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/assets_ms2016573_000001_1280x960_core_300_pr_1-1.jpg?h=926d89e9&itok=p9_Udd4z"
+        },
+        {
+          "t": "p",
+          "x": "Eko Health recibió la autorización de la FDA para Core 300, un nuevo estetoscopio AI-enabled que ofrece tanto escucha analógica tradicional como funciones avanzadas de escucha digital."
+        },
+        {
+          "t": "p",
+          "x": "Los clínicos pueden pasar al instante de la escucha tradicional a la digital al evaluar a pacientes pediátricos y adultos. La escucha digital incluye amplificación de hasta 35x, cancelación de ruido y datos cardíacos en tiempo real que se muestran en el dispositivo."
+        },
+        {
+          "t": "p",
+          "x": "Los estetoscopios también pueden conectarse a la Eko App o a los modelos de AI FDA-cleared de Eko, y la batería se diseñó para durar semanas seguidas."
+        },
+        {
+          "t": "p",
+          "x": "“Eko ha entregado más de 750,000 dispositivos, y Core 300 es el siguiente paso para dar a cada profesional de la salud confianza en la detección temprana de enfermedades”, dijo Connor Landgraf, cofundador y CEO de Eko Health."
+        },
+        {
+          "t": "p",
+          "x": "El dispositivo ya está disponible para los consumidores de U.S., y su lanzamiento internacional avanza de forma gradual."
+        }
+      ]
     }
   }
 }

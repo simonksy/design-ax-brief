@@ -7720,6 +7720,134 @@
           "x": "订阅用户还可获得400多小时的教程，以及每年12款免费插件。Loopmasters CEO Matt Pelling表示：“Loopcloud 8旨在帮助制作人更快完成创意。”现已上线，月费为£7.95 / $10.95 / €9.95，并提供14天免费试用。"
         }
       ]
+    },
+    "music/music-komca-ai-filings": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.tf.co.kr/article/home/2026/10/19/20262121179241237300.jpg",
+          "cap": "图为使用AI制作的머무르作品《你成为梦想中的大人了吗？》登上YouTube每日热门音乐视频榜第1名。/YouTube榜单"
+        },
+        {
+          "t": "p",
+          "x": "韩国音乐著作权协会（音著协）收到的生成式人工智能（AI）音乐相关版权申请在1年内激增约500%。但据统计，去年至今年受理的892件申请全部处于未登记状态。"
+        },
+        {
+          "t": "p",
+          "x": "根据国民力量党议员尹勇根办公室从文化体育观光部获得的资料，申请件数从2025年的133件增至今年9月的759件，约为5.7倍，增幅约471%。"
+        },
+        {
+          "t": "p",
+          "x": "音著协将892件申请全部归为未登记。人类创作贡献应认定到何种程度尚无明确标准，被视为主要障碍之一。音著协解释称：“目前判断是否使用AI，在很大程度上依赖申报人的自主申报和确认保证。”并表示：“AI的使用方式从简单输入提示词到旋律修改、编曲、修音不一而足，难以适用统一标准。”"
+        },
+        {
+          "t": "p",
+          "x": "同行音乐著作权协会表示，需要厘清作品是否被用于AI训练，并制定权利保护方案。尹议员强调：“应当制定合理标准，确保著作权信托与分配公平进行。”文化体育观光部则表示，需要国会、权利人团体、流通企业及创作者等共同参与讨论。"
+        }
+      ]
+    },
+    "music/music-neutune-tal-dj": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wowtale.net/wp-content/uploads/2026/10/neutune-20261018-article-3dde75.jpg"
+        },
+        {
+          "t": "p",
+          "x": "人工智能（AI）音乐技术初创公司Neutune的联合创始人、新媒体艺术家朴承淳CCO于19日表示，将参加21日至25日在荷兰阿姆斯特丹举行的“阿姆斯特丹舞曲节（ADE）2026”，首次公开视听智能体DJ“假面（Tal）”项目。"
+        },
+        {
+          "t": "p",
+          "x": "“Tal”项目是在韩国文化产业振兴院“2026年人工智能内容制作支持项目”框架下策划制作的。它以处容、方相氏、猴子、Bune等韩国传统假面为原型，是一个通过自主学习国乐、K-Pop和EDM不断进化的AI智能体角色。"
+        },
+        {
+          "t": "p",
+          "x": "朴CCO将于当地时间10月21日晚7点在安达仕（Andaz）酒店以“K-EDM Vol.1”为名举办首场展演。演出以4款传统假面和水宫为背景的3D视觉素材为基础，带来约30分钟的视听表演。XD:I成员Betty将作为真人DJ登台。"
+        },
+        {
+          "t": "p",
+          "x": "Neutune作为技术合作伙伴参与，并将介绍AI音乐解决方案“NeuSynth”“MixAudio”“musicDNA”。朴CCO表示：“在实现智能体‘Tal’的过程中，Neutune的音频AI技术解决方案NeuSynth发挥了核心作用。”"
+        }
+      ]
+    },
+    "music/music-mono-stereo-upmix-flows": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "单声道到立体声上混，是指从单声道录音生成高保真的双声道立体声信号。这是一个不适定问题：与某段单声道录音相符的立体声信号有很多，因此上混器必须在保留原有音频的同时，生成逼真且在音乐上连贯的立体声声像。"
+        },
+        {
+          "t": "p",
+          "x": "以往的方法依赖基于信号处理的去相关、环境声提取和监督学习，空间控制有限，或需要针对特定任务进行训练。作者提出Aura（Audio Upmixing using Reward-tilted Flows），利用预训练的流先验，将上混重新表述为生成式逆问题。"
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.15967v1/Figures/two_stage_sampler.png",
+          "cap": "图1：流先预测出干净样本，随后似然梯度和奖励梯度将其推向测量保真度与空间一致性。"
+        },
+        {
+          "t": "p",
+          "x": "为实现可控的空间成像，奖励倾斜的后验采样器会对声道间线索的生成分布与目标分布之间的差异施加惩罚。通过组合前向算子，无需重新训练或微调即可同时完成修复与上混。基于MUSDB18-HQ真实音乐录音的客观与主观评估表明，该方法相较多个基线有效。"
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.15967v1/Figures/boxplots_participant.png",
+          "cap": "图2：各基线的主观测试"
+        }
+      ]
+    },
+    "music/music-flomss-stem-separation": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "论文《FLOMSS: Generative Music Source Separation by Flow Matching》由Shuyang Cui、Yuki Mitsufuji及另外11位合著者完成，于2026年10月13日提交至arXiv。"
+        },
+        {
+          "t": "p",
+          "x": "音乐源分离（MSS）传统上采用判别式方法。流匹配近来成为一种强大的生成范式，作者在全频带立体声的四声源（Vocals, Bass, Drums, Other）设定下，系统研究了其在MSS中的应用。"
+        },
+        {
+          "t": "p",
+          "x": "他们研究了预测目标、流路径、单声源与多声源建模，以及混合一致性约束。除信号失真比外，他们还用频谱和嵌入类指标以及听感测试评估MSS方法，提供了一套全面的基准。"
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.17821v2/midpoint_sampler_metrics_singlecol_OTCFM.svg",
+          "cap": "图1：OT-CFM-x在Vocals上随Midpoint ODE求解器步数的逐步表现。灰色虚线为判别式基线。"
+        },
+        {
+          "t": "p",
+          "x": "在MUSDB18-HQ上，FLOMSS在频谱和嵌入类指标上超越了此前的生成式方法以及同骨干网络的判别式基线。相较强大的判别式方法，它在Mel和FD上也有提升，但SDR仍然较低。"
+        },
+        {
+          "t": "p",
+          "x": "作者指出了生成式MSS中分布与重建之间的权衡，并将FLOMSS作为开源框架推出，代码将在论文被接收后发布。演示见ik4sumii.github.io/FLOMSS。"
+        }
+      ]
+    },
+    "music/music-elvis-anthropic": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/GettyImages-151373495.jpg?w=1600&h=900&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "Elvis Presley音乐的权利方已起诉AI公司Anthropic，指控其未经许可使用Presley的音乐训练模型。据Billboard率先报道，掌管这位“King”音乐与肖像权的授权集团Authentic Brands Group于周五提起诉讼，称Claude背后的公司Anthropic侵犯了274首Presley歌曲的权利。"
+        },
+        {
+          "t": "p",
+          "x": "此前AI公司曾遭唱片公司和RIAA起诉，但这是艺人遗产方对AI公司采取法律行动的首批重大案件之一。"
+        },
+        {
+          "t": "p",
+          "x": "ABE EPE LLC v. Anthropic诉状称，该公司用274首歌曲进行训练，既有“All Shook Up”“Can't Help Falling in Love”“Don't Be Cruel”等热门歌曲，也有较冷门的曲目；原告按每首被侵权歌曲索赔$150,000，合计约 $41 million 的赔偿。"
+        },
+        {
+          "t": "p",
+          "x": "诉状称，即便Anthropic加装了防护措施，Claude在被要求时仍会“for a modern audience”（面向现代听众）重现特定歌曲。曾代理Marvin Gaye遗产方“Blurred Lines”案的首席律师Richard Busch认为，Anthropic正在利用这些歌曲制作“unlicensed derivative works”（未经授权的衍生作品）。"
+        }
+      ]
     }
   }
 }

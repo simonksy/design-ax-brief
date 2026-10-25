@@ -1,28 +1,31 @@
 {
+ "date": "2026-10-26",
+ "section": "medicine",
  "media": [
   {
-   "id": "medicine-eko-core300-fda",
+   "id": "medicine-rivanna-boneenhance",
    "type": "image",
-   "src": "pipeline/media/medicine-eko-core300-fda.jpg"
+   "src": "pipeline/media/medicine-rivanna-boneenhance.jpg"
   },
   {
-   "id": "medicine-aitrics-kbsmc-admin-ai",
-   "type": "svg"
+   "id": "medicine-ecg-transplant-rejection",
+   "type": "image",
+   "src": "pipeline/media/medicine-ecg-transplant-rejection.jpg"
   },
   {
-   "id": "medicine-pitt-breast-ai-trust",
+   "id": "medicine-hf-functional-decline",
    "type": "image",
-   "src": "pipeline/media/medicine-pitt-breast-ai-trust.jpg"
+   "src": "pipeline/media/medicine-hf-functional-decline.jpg"
   },
   {
-   "id": "medicine-episemollm-epilepsy",
+   "id": "medicine-doximity-uptodate-ask",
    "type": "image",
-   "src": "pipeline/media/medicine-episemollm-epilepsy.png"
+   "src": "pipeline/media/medicine-doximity-uptodate-ask.jpg"
   },
   {
-   "id": "medicine-elucid-ffr-iq-fda",
+   "id": "medicine-ai-standardized-patients",
    "type": "image",
-   "src": "pipeline/media/medicine-elucid-ffr-iq-fda.png"
+   "src": "pipeline/media/medicine-ai-standardized-patients.jpg"
   }
  ]
 }

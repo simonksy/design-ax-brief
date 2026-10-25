@@ -2172,6 +2172,141 @@
           "x": "NICE的结论是，这些技术“有潜力”提高前列腺MRI判读的准确性和一致性，尤其是在缺乏专科人才的环境中。但它补充说，要了解这些工具在NHS日常实践中的表现，还需要更多证据。"
         }
       ]
+    },
+    "medicine/medicine-ecg-transplant-rejection": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2020-03/transplant_0.jpg?h=956ee2f3&itok=GcZkfQn3"
+        },
+        {
+          "t": "p",
+          "x": "NYU Langone Health的研究人员可能找到了一种无需侵入性活检即可预测心脏移植排斥反应的新方法。研究结果发表在Journal of Heart and Lung Transplantation上。"
+        },
+        {
+          "t": "p",
+          "x": "研究人员利用2018年至2024年间389名成人心脏移植受者的5,300多份ECG读数训练AI模型。其中一个模型仅使用ECG数据；另一个模型则将ECG数据与AlloMap和AlloSure两项血液检测的结果相结合，这两项检测传统上用于预测排斥风险，但假阳性率较高。"
+        },
+        {
+          "t": "p",
+          "x": "在由38名心脏移植受者组成的测试组中，组合模型表现更好。有两名患者发生了排斥反应。AI模型正确识别出97%未发生排斥的患者，而仅依靠血液检测的方法错误地提示19名患者需要活检。"
+        },
+        {
+          "t": "p",
+          "x": "“心脏移植是一项重大且耗费大量资源的手术，排斥反应很常见，但只要及时发现就可以治疗，”资深作者Lior Jankelson, MD, PhD表示。下一步，研究人员计划在多个移植中心对更多患者测试该AI模型。"
+        }
+      ]
+    },
+    "medicine/medicine-hf-functional-decline": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-983942394.jpg?h=39b07655&itok=8Yg4Z5XX"
+        },
+        {
+          "t": "p",
+          "x": "发表在Journal of Cardiac Failure上的新研究显示，先进的人工智能（AI）模型能够预判老年心力衰竭患者何时可能开始出现功能衰退。"
+        },
+        {
+          "t": "p",
+          "x": "研究人员分析了6,000多名因心力衰竭住院并获得康复治疗处方的65岁及以上患者的数据，中位年龄为82岁。该机器学习模型可估算患者一年内维持功能、功能衰退（转为居家不出/卧床的生活方式）或死亡的风险。"
+        },
+        {
+          "t": "p",
+          "x": "总体而言，32.5%的患者在出院后一年内出现功能衰退，超过14%的患者死亡。该模型使用了77项不同因素，在识别这些结局方面的准确性优于Kihon Checklist筛查工具。"
+        },
+        {
+          "t": "p",
+          "x": "“我们不能只问患者能否存活，还要问他们出院后能否维持自己珍视的生活，”日本Juntendo University（顺天堂大学）的第一作者Kanji Yamada, PT, PhD表示。"
+        }
+      ]
+    },
+    "medicine/medicine-doximity-uptodate-ask": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg?VersionId=iT2xffiTsfbfPwNM_SW3dz_eFZZ.4yvd",
+          "cap": "随着Doximity加大对临床AI工具的投入，与Wolters Kluwer的合作使Ask成为获取临床知识的入口。"
+        },
+        {
+          "t": "p",
+          "x": "Doximity与Wolters Kluwer Health达成合作，将UpToDate的循证临床内容直接嵌入该公司的AI临床决策支持工具Doximity Ask。"
+        },
+        {
+          "t": "p",
+          "x": "未来几周内，在同时使用这两款产品的医疗系统中，临床医生无需离开Ask工作流程，就能在Doximity Ask的回答旁看到基于UpToDate 13,000个临床主题和最佳实践指南的答案。"
+        },
+        {
+          "t": "p",
+          "x": "该公司的目标是成为领先的医生AI平台，正在扩展包括环境记录工具Scribe和Ask在内的临床AI套件。一年前，Doximity收购了临床AI公司Pathway。"
+        },
+        {
+          "t": "p",
+          "x": "“每个前沿模型读过的期刊都一样。对于没有RCT时会发生什么，UpToDate作为由经验丰富的医生撰写的金标准参考资料，独一无二，”Doximity CEO Jeff Tangney对Fierce Healthcare表示。"
+        },
+        {
+          "t": "p",
+          "x": "据该公司介绍，Doximity的会员涵盖U.S.全部医生的85%以上，包括Ask在内的临床AI工具已部署在超过165个医疗系统中。"
+        },
+        {
+          "t": "p",
+          "x": "临床AI领域的竞争日趋激烈。Wolters Kluwer还与Epic和Abridge合作，将UpToDate整合进它们的AI-powered CDS工具。"
+        }
+      ]
+    },
+    "medicine/medicine-ai-standardized-patients": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig1_HTML.png",
+          "cap": "Fig. 1: AI-SP架构与三阶段评估概览。"
+        },
+        {
+          "t": "p",
+          "x": "标准化病人（SPs）是临床沟通培训的核心，但仍受限于成本、可扩展性以及对受训演员的依赖。作者提出AI标准化病人（AI-SPs），这是一种由大语言模型驱动的模拟器，基于三层信息架构，可根据学习者的技能水平自适应地调节信息披露。"
+        },
+        {
+          "t": "p",
+          "x": "在Phase 1中，专家对五个前沿LLMs生成的350次模拟问诊进行盲法评估，结果显示，学习者技能水平对表现差异的解释度高于模型选择（η2 = 0.31 vs. 0.06）。在Phase 1b中，155次真实学生问诊暴露出在获取安全关键信息方面的系统性缺失。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig2_HTML.png",
+          "cap": "Fig. 2: 三层AI-SP系统提示词设计。"
+        },
+        {
+          "t": "p",
+          "x": "在Phase 2三臂试点随机研究（n = 58）中，AI-SP训练带来的OSCE成绩提升与真人SP训练相比无显著差异；该试验旨在估计效应量，而非证明等效性。自我效能提升在AI-SPs组数值上最大，但经多重比较校正后不再显著。"
+        }
+      ]
+    },
+    "medicine/medicine-eko-core300-fda": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/assets_ms2016573_000001_1280x960_core_300_pr_1-1.jpg?h=926d89e9&itok=p9_Udd4z"
+        },
+        {
+          "t": "p",
+          "x": "Eko Health的新款AI-enabled听诊器Core 300已获得FDA批准，兼具传统模拟听诊和先进的数字听诊功能。"
+        },
+        {
+          "t": "p",
+          "x": "临床医生在为儿童和成人患者检查时，可从传统听诊即时切换到数字听诊。数字听诊提供最高35x放大、降噪功能，并在设备上显示实时心脏数据。"
+        },
+        {
+          "t": "p",
+          "x": "该听诊器还可连接Eko App或Eko的FDA-cleared AI模型，电池设计为一次可续航数周。"
+        },
+        {
+          "t": "p",
+          "x": "Eko Health联合创始人兼CEO Connor Landgraf表示：“Eko已交付超过750,000台设备，Core 300是让每一位医疗专业人员都能更有把握地早期发现疾病的下一步。”"
+        },
+        {
+          "t": "p",
+          "x": "该设备现已面向U.S.消费者上市，国际市场也在逐步推出。"
+        }
+      ]
     }
   }
 }

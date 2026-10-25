@@ -9535,6 +9535,124 @@
           "x": "Double check the output; if the agent keeps making the same mistake, update your guidelines, library or examples."
         }
       ]
+    },
+    "design/design-b2b-chat-line": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Di003Ys9ARp2QsB9IF15Eg.png",
+          "cap": "Every roadmap has a chat box on it. Fewer have an answer for who it's for."
+        },
+        {
+          "t": "p",
+          "x": "Nearly every B2B application now has a chat box. Patrick Neeman asks who it is for: claims adjusters, attorneys and supply planners who have spent decades learning their domain and their software."
+        },
+        {
+          "t": "p",
+          "x": "Chat replaces skills experts already paid for, and it mainly helps novices: conversation solves recall, but experts know the field name, the status code and the exact filter. Filters also show the whole set, while a chat answer tells you only what you asked for."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*0KrGdAZuSwqCRE6qAPhZSg.png",
+          "cap": "Experienced developers in METR's trial were 19% slower with AI, and believed the opposite."
+        },
+        {
+          "t": "p",
+          "x": "METR found experienced developers 19% slower with AI tools, and Stanford researchers found legal research tools hallucinating between 17% and 33% of the time, so professionals still check every output."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*wZUAQ2DcQddk7Sw3_Jji7Q.png",
+          "cap": "Three destinations, and only one of them is a chat box."
+        },
+        {
+          "t": "p",
+          "x": "Neeman's answer: routine tasks stay in the interface, rare tasks go to chat, and ongoing tasks go to an ambient agent that interrupts only when a person must decide. \"Chat waits to be asked. An ambient agent already knows.\""
+        }
+      ]
+    },
+    "design/design-ai-firms-human-brands": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/8iLPH4BsY5429rchU9dzuZ.png",
+          "cap": "How&How's rebrand for Ideogram is built around a brain-shaped mark and AI-generated imagery refined by hand in Photoshop. (Image credit: How&How/Ideogram)"
+        },
+        {
+          "t": "p",
+          "x": "The very AI companies that seem hell-bent on putting human designers out of work keep hiring human designers for their brand identities: How&How for Ideogram, Lazarev for AI video app Elva, Together for AI audit firm Clusia, and lettering artist Jessica Hische for Meta's new AI platform, Muse."
+        },
+        {
+          "t": "p",
+          "x": "Tom May's answer: branding has never been about making things look nice. It's about making people believe you, and AI companies have a credibility problem with designers and the general public alike."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/eyb69kyib2ifYxEkYbgUqZ.png",
+          "cap": "Lazarev's brand system for Elva aims to give the AI video editor a friendly personality users will want to talk to. (Image credit: Lazarev/Elva)"
+        },
+        {
+          "t": "p",
+          "x": "Hische was hammered on Threads for the Muse work, despite explaining that the $12,500 fee would help keep two small shops and their staff afloat. May understands the anger but doubts refusing would change much: they'd just find someone else."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/bbihuCHghiaC2K3uSv94gZ.webp",
+          "cap": "Together's identity for Clusia (Image credit: Together/Clusia)"
+        },
+        {
+          "t": "p",
+          "x": "If AI companies want to pay humans to make them look human, he argues, it's best to take the money, do brilliant work and remind everyone why they asked."
+        }
+      ]
+    },
+    "design/design-impeccable-skill": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xdyvbd5af4n0a30zef5.webp"
+        },
+        {
+          "t": "p",
+          "x": "Every AI-built website looks the same: Inter everywhere, purple gradients, cards inside cards. Impeccable is an open-source design skill for AI coding agents with 24 commands, 62 deterministic checks that catch AI-looking design, and live iteration in the browser. It is free under Apache 2.0."
+        },
+        {
+          "t": "p",
+          "x": "It started from Anthropic's frontend-design skill and pushed it further. The 62 deterministic rules run with no language model and no API key, catching overused fonts, gray text on colored backgrounds, nested cards and dated bounce easing; LLM-only critique checks judge hierarchy and emotional resonance."
+        },
+        {
+          "t": "p",
+          "x": "Install with npx impeccable install, then /impeccable init writes PRODUCT.md, with visual direction kept in DESIGN.md. Commands include shape, craft, critique, audit, polish, bolder, quieter, typeset, layout and harden. It installs into Claude Code, Cursor, Codex, GitHub Copilot, Gemini CLI and more."
+        },
+        {
+          "t": "p",
+          "x": "Launched in November 2025, it passed 86,000 GitHub stars with over 5,000 forks in less than a year."
+        }
+      ]
+    },
+    "design/design-ulpg-landing-guide": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fna9bxgq3z12rs5u4q40j.png"
+        },
+        {
+          "t": "p",
+          "x": "Most landing-page advice comes as a template: a hero of a certain height, three feature cards, a testimonial strip, a pricing table, an FAQ. Templates are quick to fill in, but they don't tell you whether the page answers the questions its visitors actually have. The Universal Landing Page Guide (ULPG) tries to fill that gap."
+        },
+        {
+          "t": "p",
+          "x": "In the README's words, ULPG is \"an open guide for people and AI agents designing, building, and reviewing landing pages.\" It is page-type neutral, doesn't prescribe a layout, and gives every assessed item an outcome (pass, fail, not applicable or unverified) plus the validation method used. It is guidance, not certification. The early edition, v0.3.0, is MIT-licensed with no runtime dependencies."
+        },
+        {
+          "t": "p",
+          "x": "The workflow has five steps: understand, organize, build or revise, verify and report, each with a template to copy, from the page brief to the review template."
+        },
+        {
+          "t": "p",
+          "x": "ULPG works with any agent that can read Markdown, with no provider-specific plugin. The agent workflow treats page content as data, not instructions; says seeing isn't testing, so a screenshot can't prove keyboard accessibility; and keeps claims apart from verified results."
+        }
+      ]
     }
   }
 }

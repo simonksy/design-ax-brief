@@ -1,29 +1,31 @@
 {
+ "date": "2026-10-26",
+ "section": "music",
  "media": [
   {
-   "id": "music-elvis-anthropic",
+   "id": "music-spotify-agent-layer",
    "type": "image",
-   "src": "pipeline/media/music-elvis-anthropic.jpg"
+   "src": "pipeline/media/music-spotify-agent-layer.jpg"
   },
   {
-   "id": "music-suno-deathpixie-camp",
-   "type": "video",
-   "src": "pipeline/media/music-suno-deathpixie-camp.mp4",
-   "poster": "pipeline/media/music-suno-deathpixie-camp.jpg"
-  },
-  {
-   "id": "music-mulacover-arxiv",
+   "id": "music-komca-ai-filings",
    "type": "image",
-   "src": "pipeline/media/music-mulacover-arxiv.png"
+   "src": "pipeline/media/music-komca-ai-filings.jpg"
   },
   {
-   "id": "music-suno-mlc-subpoena",
+   "id": "music-neutune-tal-dj",
    "type": "image",
-   "src": "pipeline/media/music-suno-mlc-subpoena.jpg"
+   "src": "pipeline/media/music-neutune-tal-dj.jpg"
   },
   {
-   "id": "music-mqascore-arxiv",
-   "type": "svg"
+   "id": "music-mono-stereo-upmix-flows",
+   "type": "image",
+   "src": "pipeline/media/music-mono-stereo-upmix-flows.jpg"
+  },
+  {
+   "id": "music-flomss-stem-separation",
+   "type": "image",
+   "src": "pipeline/media/music-flomss-stem-separation.jpg"
   }
  ]
 }

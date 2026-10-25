@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "issue": "거장들이 AI에 선을 긋다",
+    "date": "2026.10.25",
+    "section": "MOVIES",
+    "accent": "#7928ca",
+    "note": "Laika·Kore-eda·Peter Chan·Concept Art Awards가 이틀 새 잇따라 생성형 AI를 작업과 심사에서 밀어냈다.",
+    "sources": [
+      "https://deadline.com/2026/10/wildwood-director-danger-gen-ai-antithetical-laika-1237171243/",
+      "https://variety.com/2026/film/festivals/kore-eda-hirokazu-ditched-ai-notes-sheep-in-the-box-script-1236922183/",
+      "https://variety.com/2026/film/global/peter-chan-rules-out-ai-generated-content-feature-films-survival-1236922012/",
+      "https://www.awn.com/animationworld/concept-art-awards-blind-judging-peers-and-no-ai-allowed"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 영화 · 10.24~10.25",
+      "thread": [
+        {
+          "d": "10.24",
+          "t": "Laika",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.24",
+          "t": "고레에다",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.25",
+          "t": "진가신",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.25",
+          "t": "컨셉아트상",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        }
+      ],
+      "thread_note": "도구는 쓰되 생성물은 거부한다",
+      "eyebrow": "흐름 · 영화",
+      "headline": "이틀 새 네 곳이 선을 그었다",
+      "body": "한 감독의 소신으로 보이지만, 스튜디오·거장·시상식이 같은 선을 같은 주에 그었다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "quote",
+      "eyebrow": "2026.10.24",
+      "headline": "Laika CEO, GenAI는\n“도둑질”",
+      "body": "Wildwood 감독 Travis Knight는 GenAI가 Laika를 이루는 모든 것과 정반대라고 했다.",
+      "foot": "2026.10.24",
+      "_src": "https://deadline.com/2026/10/wildwood-director-danger-gen-ai-antithetical-laika-1237171243/",
+      "_id": "movies-laika-wildwood",
+      "quote": "거기에는 영혼도,\n정신도, 인간성도 없습니다.\n그것은 도둑질입니다",
+      "quote_by": "Travis Knight · Laika CEO"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.24",
+      "headline": "Kore-eda, AI 조언과\n결별했다",
+      "body": "늘 옳은 말만 하는 챗봇의 각본 조언이 지루했다. 그는 인간 쪽에 서겠다고 했다.",
+      "foot": "2026.10.24",
+      "_src": "https://variety.com/2026/film/festivals/kore-eda-hirokazu-ditched-ai-notes-sheep-in-the-box-script-1236922183/",
+      "_id": "movies-koreeda-ai-notes",
+      "media": "pipeline/media/movies-koreeda-ai-notes.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.25",
+      "headline": "Peter Chan, 기법만 쓴다",
+      "body": "CGI처럼 AI를 기법으로는 쓰겠지만 AI-generated 콘텐츠는 절대 아니라고 했다.",
+      "foot": "2026.10.25",
+      "_src": "https://variety.com/2026/film/global/peter-chan-rules-out-ai-generated-content-feature-films-survival-1236922012/",
+      "_id": "movies-peter-chan-no-ai",
+      "media": "pipeline/media/movies-peter-chan-no-ai.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.25",
+      "headline": "컨셉 아트 어워즈,\nAI 작품 전면 금지",
+      "body": "현업 작가가 블라인드로 심사하고, 생성형 AI 작품은 자격 심사에서 걸러낸다.",
+      "foot": "2026.10.25",
+      "_src": "https://www.awn.com/animationworld/concept-art-awards-blind-judging-peers-and-no-ai-allowed",
+      "_id": "movies-concept-art-awards-no-ai",
+      "media": "pipeline/media/movies-concept-art-awards-no-ai.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

@@ -9068,6 +9068,152 @@
           "x": "9to5MacはすべてのiWorkアプリを更新したが、まだIntelligent Assistantは確認できていない。ただし、Appleが近くサーバー側で有効化する可能性もある。"
         }
       ]
+    },
+    "gadgets/gadgets-gemini-side-panel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-2.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Spark-to-Taskアップデートに続き、GeminiアプリはAndroidでサイドパネルと設定の新デザインを展開した。"
+        },
+        {
+          "t": "p",
+          "x": "今回の刷新では、まずGoogleが検索を右上隅に移した。リストの先頭は引き続きNew chatで、これまで下部近くにあったLibraryがその次に表示されるようになった。"
+        },
+        {
+          "t": "p",
+          "x": "最近のチャットを確認できるようにしつつナビゲーションドロワーが煩雑にならないよう、Geminiは五つの項目だけを表示し、その後に「More」を置く。タップするとリストが展開される。AI Ultraを契約している場合、全項目はNew chat、Library、Images、Scheduled、Daily brief、Customize、Students、Videos、Gemsとなる。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-1.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "あわせて、Geminiアプリは設定も刷新している。環境設定がアカウントメニューと「Gemini Settings」に分かれていたのを、Googleはひとつのページに統合した。アカウントメニューは今後、アカウントの切り替え、Feedbackの送信、Helpの参照のためだけのものとなる。"
+        },
+        {
+          "t": "p",
+          "x": "「Settings」ページはManage accountとUsage limitsから始まる。Preferencesの下にはNotifications、Personal Intelligence、Avatar、Task settings、Theme（新規）、Skills、Voice、Media、Device controls、Cart and orders、Gemini Notebookが並ぶ。さらにData & privacyとGet supportという二つのセクションでページが締めくくられる。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-settings-redesign-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "新しいサイドパネルと設定は、先週のGemini 4 Argonの公開とともにiOS、macOS、ウェブアプリで先行して展開された。現在はサーバー側のアップデートにより、Androidでも広く利用できるようになっている。"
+        }
+      ]
+    },
+    "gadgets/gadgets-dgx-spark-8x-cluster": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Nvidia-GTC-Berlin-announcement.png",
+          "cap": "NvidiaがDGX Sparkオーナーに朗報を届けた"
+        },
+        {
+          "t": "p",
+          "x": "Nvidiaは、64 GB 版DGX Sparkが10月23日に発売される数日前、GTC BerlinでAIミニPC「DGX Spark」の複数のアップグレードを発表した。Nvidiaによると、128 GB の統合メモリを備えたDGX Sparkを八台組み合わせれば合計1 TB のメモリが得られ、64 GB 版のクラスタでは最大512 GB となる。"
+        },
+        {
+          "t": "p",
+          "x": "Nvidiaは、増えた容量によってより大きなAIモデル、より長いコンテキストウィンドウ、複数のAIエージェントの同時実行に対応できるとし、恩恵を受けるフロンティア級モデルとしてGLM 5.3を挙げた。各システムは内蔵のConnectX-7ネットワークで接続されるが、八台構成のクラスタは現時点では手動設定が必要だ。Nvidia Syncは今月後半、新しいModel Launcherとともに八台構成に対応する。"
+        },
+        {
+          "t": "p",
+          "x": "DGX SparkはQwen3.8 27B で最大30%の高速化を果たし、RTX PRO 6000 Blackwellはllama.cppおよびvLLMコミュニティとのspeculative-decoding（投機的デコーディング）の取り組みにより、エージェント型タスクを最大40%速く完了するという。これらの数値は特定のモデルとワークロードに限ったもので、Nvidiaは八台構成のスケーリングベンチマークを示していない。"
+        },
+        {
+          "t": "p",
+          "x": "64 GB 版DGX SparkはGB10 Grace Blackwell Superchipを引き続き搭載し、価格は$4,999からだ。"
+        }
+      ]
+    },
+    "gadgets/gadgets-ramdeck-hub": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/sTBjr37ftwL8aDtGAbAG78-1920-80.jpg",
+          "cap": "Image credit: indiegogo"
+        },
+        {
+          "t": "p",
+          "x": "With DDR5 now costing roughly five times what it did in mid-2025, TradeMAV thinks the answer to running bigger AI models at home is borrowing the memory already sitting in your other devices. Its RAMDeck, crowdfunding on Indiegogo and listed at $109 for early backers, is a small, low-power hub that links Windows PCs, Macs, Linux machines and Android phones into one memory pool."
+        },
+        {
+          "t": "p",
+          "x": "Nothing is merged at the hardware level. The model's layers are divided among machines, and only intermediate results pass across the network. The engine underneath is llama.cpp's RPC backend; TradeMAV adds discovery, layer placement, failure recovery, a dashboard and an OpenAI-compatible API, but publishes no hub specs."
+        },
+        {
+          "t": "p",
+          "x": "TradeMAV is frank that “pooled memory trades speed for capacity.” Its best results lean on an RTX 3060 and mixture-of-experts models, such as 39 tokens per second for Qwen3-Coder 30B, while a 27B dense model managed 1.92 tokens per second across four devices."
+        },
+        {
+          "t": "p",
+          "x": "For tinkerers, llama.cpp's RPC mode and exo cost nothing to try first. For everyone else, $109 buys convenience and, as with any crowdfunded hardware, a promise rather than a product."
+        }
+      ]
+    },
+    "gadgets/gadgets-claude-laser-range": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/claude-laser-range-featured.jpg?w=1600&h=900&fit=crop"
+        },
+        {
+          "t": "p",
+          "x": "最近、ウェブカメラを画面に向けて面白いことをする人が増えている。ほんの数日前には、Claudeに作業中の画面を撮影させてSamsung TVへの侵入に成功した例があった。そして今度は、Claudeを使ってライトガン風のデジタル射撃場を作った人が現れた。ただし使うのは赤いレーザーだ。"
+        },
+        {
+          "t": "p",
+          "x": "ClaudeAIのサブレディットで、ユーザーのvkorostがClaude Codeで作ってきたものを公開した。その名はScreenPlinkで、赤いレーザーを使ってモニターを射撃場に変える。"
+        },
+        {
+          "t": "p",
+          "x": "「ScreenPlinkは約二週間かけてClaude Codeで作りました。モニターを標的にするレーザー・ドライファイア射撃ゲームです。レーザートレーナー用のピストルや、自分の銃に装填したレーザーカートリッジで画面を撃ちます。モニターの横に置いたウェブカメラがあなたではなく画面を見ていて、アプリが命中したピクセルを割り出し、そこに弾痕を開け、標的が倒れます。」"
+        },
+        {
+          "t": "p",
+          "x": "ゲームモードは多数あり、二人プレイにも対応している。かつてPlayStationでライトガンを使っていた頃を思い出させてくれる。ゲーム機のほこりを払わずにゲームの歴史を少し味わいたいなら、ScreenPlinkのGitHubリポジトリでプロジェクトを確認できる。すべてオープンソースで無料で遊べる。用意するのはレーザーポインターだけだ。"
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-sites-export": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Geminiで面白いものを作ることと、それをチャットボットの外へ出し、使ってくれる人の手に届けることは別の話だ。GoogleはWorkspaceの告知で、Geminiで作成したインタラクティブなアプリをGoogle Sitesへ直接書き出せるようになったと明らかにした。電卓でもクイズでも凝ったダッシュボードでも、コードをコピーしたり別の場所で作り直したりする必要はない。"
+        },
+        {
+          "t": "p",
+          "x": "Geminiで作品が完成したら、Export > Google Sitesを選ぶ。Googleが新しい非公開のSites下書きを自動で開き、アプリはすでに埋め込まれ、そのまま操作できる状態になっている。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-1.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "そこから周囲のWebサイトをカスタマイズし、補足コンテンツを加えて公開できる。教師がGemini-generatedのクイズを授業用の教材にする、といった使い方だ。Googleのデモでは、進捗インジケーターとグラフを備えたチームの成績ダッシュボードが示されている。"
+        },
+        {
+          "t": "p",
+          "x": "この機能は有料のWorkspace顧客に限らない。対象となるGoogle Workspace、Workspace Individual、個人のGoogleアカウントのユーザーは、Web、Android、iOSで今すぐ利用できる。"
+        }
+      ]
     }
   }
 }

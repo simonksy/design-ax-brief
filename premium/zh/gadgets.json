@@ -8729,6 +8729,152 @@
           "x": "9to5Mac已更新所有iWork应用，但尚未看到Intelligent Assistant；Apple可能即将在服务器端启用相关功能。"
         }
       ]
+    },
+    "gadgets/gadgets-gemini-side-panel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-2.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "继Spark-to-Task更新之后，Gemini应用现已在Android上推出侧边栏和设置的新设计。"
+        },
+        {
+          "t": "p",
+          "x": "此次改版首先是Google把搜索移到了右上角。列表中的首项仍是New chat，Library则不再位于底部附近，而是紧随其后。"
+        },
+        {
+          "t": "p",
+          "x": "为了在保留最近聊天记录的同时避免导航抽屉过于杂乱，Gemini只显示五个项目，之后是“More”，点按即可展开列表。订阅AI Ultra后，完整列表依次为：New chat、Library、Images、Scheduled、Daily brief、Customize、Students、Videos和Gems。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-1.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "与此同时，Gemini应用也在改版设置。过去偏好设置分散在账户菜单和“Gemini Settings”中，如今Google将所有内容整合到了一个页面。账户菜单现在只用于切换账户、提交Feedback或获取Help。"
+        },
+        {
+          "t": "p",
+          "x": "“Settings”页面以Manage account和Usage limits开头。Preferences下包括Notifications、Personal Intelligence、Avatar、Task settings、Theme（新增）、Skills、Voice、Media、Device controls、Cart and orders和Gemini Notebook。另外两个部分Data & privacy和Get support位于页面末尾。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-settings-redesign-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "更新后的侧边栏和设置已于上周随Gemini 4 Argon的发布登陆iOS、macOS和网页版应用。如今，随着服务器端更新，Android上也已广泛可用。"
+        }
+      ]
+    },
+    "gadgets/gadgets-dgx-spark-8x-cluster": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Nvidia-GTC-Berlin-announcement.png",
+          "cap": "Nvidia为DGX Spark用户带来好消息"
+        },
+        {
+          "t": "p",
+          "x": "在64 GB 版DGX Spark于10月23日上市前几天，Nvidia在GTC Berlin宣布了DGX Spark AI迷你PC的多项升级。据Nvidia介绍，八台各配128 GB 统一内存的DGX Spark可提供总计1 TB 内存，而64 GB 版本组成的集群最多可提供512 GB。"
+        },
+        {
+          "t": "p",
+          "x": "Nvidia表示，新增容量可容纳更大的AI模型、更长的上下文窗口以及同时运行的多个AI智能体，并点名GLM 5.3为受益的前沿级模型之一。这些系统通过内置的ConnectX-7网络互联，但八台集群目前需要手动配置；Nvidia Sync将于本月晚些时候支持八台系统，同时推出新的Model Launcher。"
+        },
+        {
+          "t": "p",
+          "x": "DGX Spark运行Qwen3.8 27B 时速度最多提升30%，而得益于与llama.cpp和vLLM社区在speculative-decoding（推测解码）方面的合作，RTX PRO 6000 Blackwell完成智能体任务的速度据称最多快40%。这些数据仅适用于特定模型和工作负载，Nvidia尚未提供八台系统的扩展基准测试。"
+        },
+        {
+          "t": "p",
+          "x": "64 GB 版DGX Spark仍采用GB10 Grace Blackwell Superchip，起价$4,999。"
+        }
+      ]
+    },
+    "gadgets/gadgets-ramdeck-hub": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/sTBjr37ftwL8aDtGAbAG78-1920-80.jpg",
+          "cap": "Image credit: indiegogo"
+        },
+        {
+          "t": "p",
+          "x": "With DDR5 now costing roughly five times what it did in mid-2025, TradeMAV thinks the answer to running bigger AI models at home is borrowing the memory already sitting in your other devices. Its RAMDeck, crowdfunding on Indiegogo and listed at $109 for early backers, is a small, low-power hub that links Windows PCs, Macs, Linux machines and Android phones into one memory pool."
+        },
+        {
+          "t": "p",
+          "x": "Nothing is merged at the hardware level. The model's layers are divided among machines, and only intermediate results pass across the network. The engine underneath is llama.cpp's RPC backend; TradeMAV adds discovery, layer placement, failure recovery, a dashboard and an OpenAI-compatible API, but publishes no hub specs."
+        },
+        {
+          "t": "p",
+          "x": "TradeMAV is frank that “pooled memory trades speed for capacity.” Its best results lean on an RTX 3060 and mixture-of-experts models, such as 39 tokens per second for Qwen3-Coder 30B, while a 27B dense model managed 1.92 tokens per second across four devices."
+        },
+        {
+          "t": "p",
+          "x": "For tinkerers, llama.cpp's RPC mode and exo cost nothing to try first. For everyone else, $109 buys convenience and, as with any crowdfunded hardware, a promise rather than a product."
+        }
+      ]
+    },
+    "gadgets/gadgets-claude-laser-range": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/claude-laser-range-featured.jpg?w=1600&h=900&fit=crop"
+        },
+        {
+          "t": "p",
+          "x": "最近，有人把摄像头对准屏幕，玩出了不少很酷的花样。就在几天前，有人让Claude在工作时拍摄屏幕，从而攻破了自家的Samsung TV。如今，又有人用Claude打造出类似光枪的数字射击场，只不过用的是红色激光。"
+        },
+        {
+          "t": "p",
+          "x": "在ClaudeAI子版块上，用户vkorost分享了用Claude Code做出的作品。它名叫ScreenPlink，能用红色激光把显示器变成射击场："
+        },
+        {
+          "t": "p",
+          "x": "“我用Claude Code花了大约两周做出ScreenPlink。这是以显示器为靶子的激光空枪射击游戏。你可以用激光训练手枪，或在自己的枪里装上激光弹，向屏幕射击。放在显示器旁的摄像头盯着的是屏幕而不是你，应用会算出你击中的像素，在那里打出弹孔，靶子随之倒下。”"
+        },
+        {
+          "t": "p",
+          "x": "游戏有多种模式，甚至支持双人模式，让我想起当年在PlayStation上玩光枪的日子。如果你想不必给主机掸灰就重温游戏历史，可以到ScreenPlink的GitHub仓库亲自看看这个项目。它完全开源、免费游玩，你只需自备激光笔。"
+        }
+      ]
+    },
+    "gadgets/gadgets-gemini-sites-export": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "用Gemini做出好东西是一回事，把它从聊天机器人里拿出来、交到用得上的人手中又是另一回事。Google在一则Workspace公告中确认，用户现在可以将在Gemini中创建的交互式应用直接导出到Google Sites——无论是计算器、测验还是复杂的仪表板——无需复制代码，也不必在别处重新搭建。"
+        },
+        {
+          "t": "p",
+          "x": "在Gemini中完成作品后，选择Export > Google Sites即可。Google会自动打开一个新的私密Sites草稿，应用已嵌入其中且可完整交互。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-1.jpg"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Export-Gemini-apps-to-Google-Sites-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "之后，你可以自定义周围的网站、添加辅助内容并发布——比如老师把Gemini-generated测验变成课堂资源。Google的演示展示了一个带有进度指示器和图表的团队绩效仪表板。"
+        },
+        {
+          "t": "p",
+          "x": "该功能并非付费Workspace客户专属：符合条件的Google Workspace、Workspace Individual及个人Google账户用户，现在即可在网页、Android和iOS上使用。"
+        }
+      ]
     }
   }
 }

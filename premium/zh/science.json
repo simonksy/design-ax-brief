@@ -8382,6 +8382,131 @@
           "x": "“短短几天，我们就设计出一种降解农药的酶，性能比我此前花了数月才设计出的最佳成果高出许多倍。”UW博士预备生塞思·伍德伯里(Seth Woodbury)说。"
         }
       ]
+    },
+    "science/science-seeqc-ising-decoder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/SEEQC-and-NVIDIA-Quantum-Chip.png"
+        },
+        {
+          "t": "p",
+          "x": "PRESS RELEASE — SEEQC公布了一种多级量子纠错解码架构的结果，该架构将其基于芯片的预解码器与NVIDIA Ising开放AI模型系列相结合。"
+        },
+        {
+          "t": "p",
+          "x": "在模拟的量子处理器与架构栈中，SEEQC Digital Link和NVIDIA NVQLink连接量子计算与GPU-accelerated计算（GPU加速计算）。与将NVIDIA Ising作为独立预解码器运行相比，组合预解码器的解码延迟和逻辑错误率降低了约50%。"
+        },
+        {
+          "t": "p",
+          "x": "将专用处理放在更靠近QPU的位置，可以减少发送到上层经典计算的数据，为实现更快、更可扩展的纠错提供一条潜在路径。"
+        },
+        {
+          "t": "p",
+          "x": "SEEQC CEO John Levy表示：“让专用处理更靠近量子比特，同时与GPU-accelerated计算高效连接，为能够以大得多的规模运行的量子系统提供了一条路径。”SEEQC下一步计划在HPC基础设施内实现量子处理器的芯片间（chip-to-chip）集成。"
+        }
+      ]
+    },
+    "science/science-circmac-mirna": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pusan-national-univers-18.jpg",
+          "cap": "circMAC uses AI to identify candidate microRNA binding regions across full-length circular RNA isoforms while preserving sequence continuity at the back-splice junction. Credit: Prof. Giltae Song, Pusan National University, South Korea"
+        },
+        {
+          "t": "p",
+          "x": "Circular RNAs can regulate genes through interactions with microRNAs, but their back-splice junction makes linear-style analysis incomplete. A team led by Prof. Giltae Song at Pusan National University built circMAC, which takes a full-length circRNA isoform and a miRNA and predicts a binding probability for every circRNA nucleotide. The study appeared in Briefings in Bioinformatics."
+        },
+        {
+          "t": "p",
+          "x": "circMAC combines attention, Mamba and convolutional modeling with circular padding, miRNA-specific cross-attention and structure-aware pretraining, so binding patterns spanning the junction are not split. In the 1,000-nucleotide benchmark setting it outperformed the evaluated pretrained RNA language models."
+        },
+        {
+          "t": "p",
+          "x": "The predictions prioritize candidate regions for experiments, as in a circCDYL2 example, and do not prove function; independent validation is still needed."
+        }
+      ]
+    },
+    "science/science-blind-ai-eyes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/visually-challenged-mi.jpg",
+          "cap": "Credit: 图片由Google Gemini生成，Oct. 20, 2026."
+        },
+        {
+          "t": "p",
+          "x": "一名盲人男子把手机对准平底锅，问道：“香肠煎黄了吗？”在ACM Conference on Human Factors in Computing Systems（CHI）上发表的一项University of Maryland研究，考察了盲人如何使用Be My Eyes的AI照片描述功能Be My AI。"
+        },
+        {
+          "t": "p",
+          "x": "冗长的回答埋没了有用的细节。十一名盲人参与者在日常生活中使用该应用10天，研究人员分析了418次交互。更好的视觉描述往往变成冗长的回应，而非有用的答案，有时比问题长十倍以上，而且每次对话都以对照片的完整描述开头。由于盲人用户是听系统朗读答案，他们必须听完全部内容，才能找到那一个有用的细节。"
+        },
+        {
+          "t": "p",
+          "x": "用户的应对方式包括先说明目标、把任务拆成更小的问题以及换种说法提问。研究人员认为，这类提示方式只是绕开该技术现有局限的权宜之计：“我们仍在让盲人用户承担大部分工作，去判断哪些信息才真正相关。”"
+        }
+      ]
+    },
+    "science/science-diffusion-assoc-memory": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-78727-y/MediaObjects/41467_2026_78727_Fig1_HTML.png",
+          "cap": "随着训练集规模增大而出现的记忆、伪态阶段与泛化。Pham et al., Nature Communications (2026), CC BY 4.0"
+        },
+        {
+          "t": "p",
+          "x": "稠密联想记忆（Dense Associative Memories，DenseAMs）是Hopfield网络的推广，它将训练数据存储在能量地形的局部极小值处。当训练数据超过临界记忆存储容量时，会出现被称为伪态的新局部极小值，并可能妨碍记忆检索。"
+        },
+        {
+          "t": "p",
+          "x": "作者从DenseAM的视角审视扩散模型，把生成看作一次记忆检索的尝试。数据很少时，扩散模型会为每个训练样本建立不同的吸引子；随着训练集增大，它们转向泛化。两者之间存在一个由DenseAM理论预测的临界中间阶段，其标志正是伪态。"
+        },
+        {
+          "t": "p",
+          "x": "在生成建模中，这些此前被忽视的状态不再是负面的伪影，而是生成能力的最初迹象。它们的存在已在多种架构和数据集上得到证明。"
+        }
+      ]
+    },
+    "science/science-ai2-litpivot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792764970-litpivot-featured-staircase-1512x1080.png"
+        },
+        {
+          "t": "p",
+          "x": "读到一篇新论文,可能会改变研究构想的走向。Ai2将此称为“文献触发的转向”(literature-initiated pivot),并与University of Pennsylvania(宾夕法尼亚大学)的合作者共同开发了LitPivot,帮助研究者应对这类转向。"
+        },
+        {
+          "t": "p",
+          "x": "LitPivot利用通过Asta Paper Finder检索到的论文,将研究提案拆分为问题、贡献和评估计划,围绕正在编辑的方面归组相关论文,给出有摘录支撑的评析,并提出研究者可以接受、编辑或拒绝的修改建议。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792764615-image2.png",
+          "cap": "LitPivot工作流程:选择提案的某个方面,挑选论文,审阅有依据的修改,并随着构想变化刷新文献。"
+        },
+        {
+          "t": "p",
+          "x": "当某个方面发生变化时,LitPivot会标出可能需要修改的段落,例如已不再契合修改后贡献的评估计划。"
+        },
+        {
+          "t": "p",
+          "x": "在一项有17名研究者参与的研究中,领域专家认为,与使用文本编辑器和AI聊天工具形成的构想相比,借助LitPivot形成的构想更扎根于文献。参与者也认为自己修改后的构想更新颖、更有用。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792764678-image4.png",
+          "cap": "一位研究者将关于合成病历的提案,细化为检查多次就诊之间的矛盾。"
+        },
+        {
+          "t": "p",
+          "x": "LitPivot将在Detroit(底特律)举行的UIST 2026上发布。"
+        }
+      ]
     }
   }
 }

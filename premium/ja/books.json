@@ -7978,6 +7978,108 @@
           "x": "この声明は署名者の一覧とともにオンラインで公開される。今すぐ署名するには、下のフォームを送信してほしい。"
         }
       ]
+    },
+    "books/books-linemanga-byus-chat": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/00_l.jpg"
+        },
+        {
+          "t": "p",
+          "x": "LINE Digital Frontierは10月19日、電子コミックサービス「LINEマンガ」において、AIストーリーチャット「byUs（バイアス）」をリリースした。"
+        },
+        {
+          "t": "p",
+          "x": "「byUs」は、ユーザーが原作のストーリーの主人公となり、自分だけの物語を創作できるAIストーリーチャットサービス。オリジナル・独占配信作品をもとに、公式が提供する「Official Story」と、ユーザーが創作する「ファンストーリー」の2つが用意されており、キャラクターとの交流を通して新たなストーリーを紡ぐことができる。"
+        },
+        {
+          "t": "p",
+          "x": "Official Storyでは、原作の世界観とキャラクター設定をもとに構成された序盤以降、ユーザーがキャラクターと会話して新しい物語が展開される。一方のファンストーリーでは、原作のキャラクターを基盤に、新たな状況や関係性を設定して創作ストーリーを楽しめる。自身で創作したファンストーリーを他のユーザーに公開することも可能だ。"
+        },
+        {
+          "t": "p",
+          "x": "さらに、「byUs」では、スムーズな会話の流れを助ける「おすすめの回答」や「オートプレイ」、状況に合ったイメージ画像を提供する「スナップショット」、好感度レベルに応じてイメージ画像が順次提供される「スペシャルカット」などの機能も搭載している。"
+        },
+        {
+          "t": "p",
+          "x": "なお、取り扱える作品は、原作者が承認した公式IPのみとなっている。第1弾としては、「隣の席のエンジニアさんが転職したいようです。」（原作：Woo Si-mok 作画：Lee Ha-an）からはジョイとエスターが、「作戦名は純情」（文：kkokkalee 絵：Dledumb）からは橘蓮と百谷玲央が実装された。今後はさらに実装キャラクターが増えていく予定だ。"
+        },
+        {
+          "t": "img",
+          "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/1_l.png"
+        },
+        {
+          "t": "img",
+          "src": "https://asset.watch.impress.co.jp/img/aiw/docs/2149/258/2_l.png"
+        }
+      ]
+    },
+    "books/books-lrb-shelf-ai-novels": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Alfred Nunneyが働く書店の常連客が、Penguinが2018年に出したGiorgio BassaniのThe Novel of Ferraraの一巻本を見せてくれた。今ではFinzi-Continisの庭と同じくらい見つけにくい本だ。"
+        },
+        {
+          "t": "p",
+          "x": "UK、オランダ、北米の古書店は、奇妙な大量注文や、希少で無名な書籍の売上急増を報告している。大規模言語モデルの学習用に人間が書いた素材を求めるAI企業によるものとみられる。"
+        },
+        {
+          "t": "p",
+          "x": "当初の戦略は「シャドーライブラリー」の海賊版書籍で、これによりAnthropicは著者や出版社と15億ドルの和解に至った。OpenAIに対する集団訴訟は続いている。その後AnthropicはGoogle Books出身のTom Turveyを「Project Panama」のために雇った。「世界中のすべての本を破壊的にスキャンする取り組み」で、背を切り落とし、スキャン後に本をパルプにする。"
+        },
+        {
+          "t": "p",
+          "x": "一方、NovelcrafterやSudowriteといったツールは、プロット作りや編集をAIで手助けする。Sudowriteの月$22の「professional」プランは、「三十日で小説を書く」ことを目標とする人向けだ。"
+        },
+        {
+          "t": "p",
+          "x": "Nunneyの上司は、明確な需要と明確な表示があればAI小説を売ると話している。客は激しく拒むか、肩をすくめて「違いがわからない」と言う。おすすめを聞かれると、Nunneyは今もBassaniを勧める。"
+        }
+      ]
+    },
+    "books/books-sadek-creative-roi": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/dfg.jpg"
+        },
+        {
+          "t": "p",
+          "x": "業界はそろそろ、AIが人間の創造性に真の価値をもたらしうると認めるべきだ。Shimmr AIの創業者兼CEOで、『Shimmer, Don’t Shake – How Publishing Can Embrace AI』の著者であるNadim Sadekはそう書く。"
+        }
+      ]
+    },
+    "books/books-patrick-white-publishing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://live-production.wcms.abc-cdn.net.au/9666b581058d1af9ec9592941fe71f8a?impolicy=wcms_crop_resize&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485",
+          "cap": "Patrick White PublishingのAI-generated宣伝画像。(Patrick White Publishing)"
+        },
+        {
+          "t": "p",
+          "x": "オンラインでの評価は高いものの、著者らはPatrick White Publishingのサービスの質が低く、否定的なコメントの削除を迫られたと訴えている。同社はAI-generatedの挿絵の代金として著者に数百ドルを請求してもいる。"
+        },
+        {
+          "t": "p",
+          "x": "Mudgeeの著者Kerry Stewartは$500を支払ったが、編集で誤りが増えたと話す。Melbourneの著者Tulin Salisは$400の見積もりを受けた後、$1899の\"5-Star Ghostwriting Bundle\"を勧められた。"
+        },
+        {
+          "t": "img",
+          "src": "https://live-production.wcms.abc-cdn.net.au/b06a09fe7be41183eb456f5c77af5584?impolicy=wcms_crop_resize&cropH=1077&cropW=1615&xPos=0&yPos=41&width=862&height=575",
+          "cap": "HobartのPatrick White PublishingのGoogle掲載情報に表示されるAI-generated画像。(Patrick White Publishing)"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIのツールによると、Google Maps上のHobartの店舗画像には同社ソフトウェアが生成したことを示す透かしがあり、同社サイトの一部の書籍表紙もOpenAIとGoogle Geminiの透かしで陽性となった。ABCが確認した著者契約にはAI挿絵への言及がない。"
+        },
+        {
+          "t": "p",
+          "x": "同社は無関係の事業者のABNを使っており、Patrick Whiteの文学遺産管理者は名称の使用中止を求めている。Patrick White PublishingはABCのコメント要請に応じなかった。"
+        }
+      ]
     }
   }
 }

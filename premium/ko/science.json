@@ -13264,6 +13264,131 @@
           "x": "“단 며칠 만에 농약을 분해하는 효소를 설계했는데, 설계에 몇 달이 걸렸던 제 이전 최고 결과보다 몇 배나 성능이 뛰어납니다.” UW 박사과정 예비 연구원 세스 우드버리(Seth Woodbury)의 말이다."
         }
       ]
+    },
+    "science/science-seeqc-ising-decoder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/SEEQC-and-NVIDIA-Quantum-Chip.png"
+        },
+        {
+          "t": "p",
+          "x": "PRESS RELEASE — SEEQC는 칩 기반 사전 디코더와 NVIDIA Ising 오픈 AI 모델 제품군을 결합한 다단계 양자 오류 정정 디코딩 아키텍처의 결과를 발표했다."
+        },
+        {
+          "t": "p",
+          "x": "시뮬레이션은 SEEQC Digital Link와 NVIDIA NVQLink로 양자 연산과 GPU-accelerated 컴퓨팅을 잇는 양자 프로세서·아키텍처 스택에서 진행됐다. 여기서 결합형 사전 디코더는 NVIDIA Ising만 사전 디코더로 쓸 때보다 디코딩 지연 시간과 논리 오류율을 약 50% 줄였다."
+        },
+        {
+          "t": "p",
+          "x": "특화 처리를 QPU 가까이에 두면 상위 고전 컴퓨팅으로 보낼 데이터가 줄어든다. 그만큼 더 빠르고 확장 가능한 오류 정정에 다가설 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "SEEQC CEO John Levy는 “특화 처리를 큐비트 가까이로 가져오면서 GPU-accelerated 컴퓨팅과 효율적으로 연결하면 훨씬 큰 규모로 작동하는 양자 시스템으로 가는 길이 열린다”고 말했다. SEEQC가 다음 단계로 잡은 것은 HPC 인프라 안에서 양자 프로세서를 chip-to-chip으로 통합하는 일이다."
+        }
+      ]
+    },
+    "science/science-circmac-mirna": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pusan-national-univers-18.jpg",
+          "cap": "circMAC uses AI to identify candidate microRNA binding regions across full-length circular RNA isoforms while preserving sequence continuity at the back-splice junction. Credit: Prof. Giltae Song, Pusan National University, South Korea"
+        },
+        {
+          "t": "p",
+          "x": "Circular RNAs can regulate genes through interactions with microRNAs, but their back-splice junction makes linear-style analysis incomplete. A team led by Prof. Giltae Song at Pusan National University built circMAC, which takes a full-length circRNA isoform and a miRNA and predicts a binding probability for every circRNA nucleotide. The study appeared in Briefings in Bioinformatics."
+        },
+        {
+          "t": "p",
+          "x": "circMAC combines attention, Mamba and convolutional modeling with circular padding, miRNA-specific cross-attention and structure-aware pretraining, so binding patterns spanning the junction are not split. In the 1,000-nucleotide benchmark setting it outperformed the evaluated pretrained RNA language models."
+        },
+        {
+          "t": "p",
+          "x": "The predictions prioritize candidate regions for experiments, as in a circCDYL2 example, and do not prove function; independent validation is still needed."
+        }
+      ]
+    },
+    "science/science-blind-ai-eyes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/visually-challenged-mi.jpg",
+          "cap": "Credit: Google Gemini로 생성한 이미지, Oct. 20, 2026."
+        },
+        {
+          "t": "p",
+          "x": "한 시각장애인 남성이 프라이팬에 휴대폰을 비추며 “소시지가 벌써 갈색이 됐나요?”라고 묻는다. ACM Conference on Human Factors in Computing Systems(CHI)에서 발표된 University of Maryland 연구는 시각장애인이 Be My Eyes의 AI 사진 묘사 기능 Be My AI를 어떻게 쓰는지 살폈다."
+        },
+        {
+          "t": "p",
+          "x": "긴 답변은 쓸모 있는 정보를 묻어 버린다. 시각장애인 참가자 열한 명이 10일 동안 일상에서 앱을 썼고, 연구진은 상호작용 418건을 분석했다. 시각 묘사가 좋아질수록 쓸모 있는 답보다 장황한 응답이 돌아오는 일이 잦았다. 답이 질문보다 열 배 넘게 길 때도 있었고, 대화는 늘 사진 전체를 묘사하는 데서 시작했다. 시각장애인은 답을 음성으로 듣는다. 쓸모 있는 정보 하나를 찾으려 해도 그 긴 내용을 끝까지 들어야 한다."
+        },
+        {
+          "t": "p",
+          "x": "사용자들은 목표부터 밝히고 작업을 작은 질문으로 쪼개거나 질문을 바꿔 말하며 적응했다. 연구진은 이런 프롬프트 작성을 기술의 기존 한계를 돌아가는 방편으로 본다. “어떤 정보가 실제로 중요한지 가려내는 일의 상당 부분을 여전히 시각장애인 사용자에게 맡기고 있습니다.”"
+        }
+      ]
+    },
+    "science/science-diffusion-assoc-memory": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41467-026-78727-y/MediaObjects/41467_2026_78727_Fig1_HTML.png",
+          "cap": "학습 데이터셋이 커짐에 따라 나타나는 암기, 허위 단계, 일반화. Pham et al., Nature Communications (2026), CC BY 4.0"
+        },
+        {
+          "t": "p",
+          "x": "Dense Associative Memories(DenseAMs)는 Hopfield 네트워크를 일반화한 모델로, 학습 데이터를 에너지 지형의 국소 최솟값에 저장한다. 학습 데이터가 임계 기억 저장 용량을 넘으면 새로운 국소 최솟값, 이른바 허위 상태(spurious states)가 생겨 기억 인출을 방해할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "저자들은 생성을 기억 인출 시도로 보고 DenseAM 관점에서 확산 모델을 분석했다. 데이터가 적을 때 확산 모델은 학습 샘플마다 별개의 끌개를 만들고, 학습 데이터셋이 커지면 일반화로 넘어간다. 그 사이에 DenseAM 이론이 예측한 임계 중간 단계가 있고, 이 단계를 특징짓는 것이 허위 상태다."
+        },
+        {
+          "t": "p",
+          "x": "생성 모델링에서 그동안 간과돼 온 이 상태들은 부정적인 부산물이 아니라 생성 능력의 첫 신호다. 그 존재는 여러 아키텍처와 데이터셋에서 확인됐다."
+        }
+      ]
+    },
+    "science/science-ai2-litpivot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792764970-litpivot-featured-staircase-1512x1080.png"
+        },
+        {
+          "t": "p",
+          "x": "새 논문 한 편에 연구 아이디어의 방향이 바뀌기도 한다. Ai2는 이를 '문헌 촉발 전환(literature-initiated pivot)'이라 부른다. 펜실베이니아대학교(University of Pennsylvania) 협력자들과 함께 만든 LitPivot은 연구자가 이런 전환을 잘 넘기도록 돕는다."
+        },
+        {
+          "t": "p",
+          "x": "LitPivot은 Asta Paper Finder로 찾은 논문을 가지고 제안서를 문제, 기여, 평가 계획으로 나눈다. 고치는 중인 측면을 중심으로 관련 논문을 묶고, 발췌문에 근거한 비평과 함께 연구자가 수락·편집·거절할 수정안을 내놓는다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792764615-image2.png",
+          "cap": "LitPivot 워크플로. 제안서의 측면과 논문을 고르고, 근거가 붙은 수정안을 검토한 뒤 아이디어가 바뀌면 문헌을 갱신한다."
+        },
+        {
+          "t": "p",
+          "x": "한 측면을 바꾸면 LitPivot은 함께 손봐야 할 대목도 짚는다. 수정된 기여와 더는 맞지 않는 평가 계획 같은 곳이다."
+        },
+        {
+          "t": "p",
+          "x": "연구자 17명이 참여한 연구에서 분야 전문가들은 LitPivot으로 발전시킨 아이디어가 텍스트 편집기와 AI 채팅 도구로 발전시킨 아이디어보다 문헌 근거가 더 탄탄하다고 평가했다. 참가자들도 수정한 아이디어가 더 참신하고 유용하다고 느꼈다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792764678-image4.png",
+          "cap": "한 연구자가 합성 의료 기록에 관한 제안서를 여러 차례의 병원 방문에 걸친 모순을 점검하는 방향으로 다듬는다."
+        },
+        {
+          "t": "p",
+          "x": "LitPivot은 디트로이트(Detroit)에서 열리는 UIST 2026에서 발표된다."
+        }
+      ]
     }
   }
 }

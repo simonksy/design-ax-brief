@@ -1,102 +1,69 @@
 {
   "section": "games",
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "user_selection": null,
   "picks": [
     {
       "rank": 1,
-      "title": "NVIDIA RTX Remix 1.6 Launches With DLSS 5, 6X Multi Frame Generation, Minecraft Java Edition Support, And More",
-      "url": "https://wccftech.com/nvidia-rtx-remix-1-6-launches-with-dlss-5-6x-multi-frame-generation-minecraft-java-edition-support-and-more/",
-      "source": "Wccftech",
-      "published_iso": "2026-10-23T22:20:18+00:00",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-14.jpg",
-      "excerpt": "NVIDIA's RTX Remix 1.6 adds DLSS 5, 6X Multi Frame Generation, and experimental Minecraft support enhancing modding tools and performance.",
+      "title": "The Onslaught Of Lazy Browser Ports Hit A Wall Thanks To New Update",
+      "url": "https://www.thegamer.com/claude-openai-update-browser-ports-recomps-harder/",
+      "source": "TheGamer",
+      "category": "games",
+      "published_iso": "2026-10-25T15:11:14Z",
+      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/resetti-from-animal-crossing-angrily-bursting-onto-a-blank-web-browser.jpg?w=1600&h=900&fit=crop",
+      "excerpt": "Claude and OpenAI are clamping down on unauthorized decompilations and cyber abuse.",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "A new version of the modding toolkit: remaster artists get DLSS 5 neural rendering and Minecraft Java support right in their pipeline. Kept as the one pick from the DLSS 5 cluster c0."
+      "rationale": "This is a new event in the decomp/browser-port wave: the model vendors themselves (Anthropic, OpenAI) are restricting unauthorized decompilation. It directly changes which AI-assisted porting and modding workflows still work."
     },
     {
       "rank": 2,
-      "title": "Unity CLI Usage Data: What 200 Million Events Reveal",
-      "url": "https://unity.com/blog/unity-cli-usage-data-ai-coding-agents",
-      "source": "Unity",
-      "published_iso": "2026-10-22T00:00:00+00:00",
-      "og_image": "https://cdn.sanity.io/images/fuvbjjlp/production/55efa13879e7b4b911b21e5f69db2cda6b3dd703-1920x1080.png",
-      "excerpt": "Unity CLI usage data from 200 million events: 98% of runs come from AI coding agents and automation. See the top commands, agents, and where it's used.",
-      "tool": "Games",
-      "accent": "#3b6bff",
-      "motif": "cube",
-      "rationale": "First-party data showing that 98% of Unity CLI runs come from AI agents. It changes how teams should design their engine tooling and automation."
-    },
-    {
-      "rank": 3,
-      "title": "Xbox follows in PlayStation's footsteps, introducing AMD FSR 4.1, targeting better graphics and performance on Series X/S",
-      "url": "https://www.eurogamer.net/xbox-series-x-s-amd-fsr-4-1-upscaling",
-      "source": "Eurogamer",
-      "published_iso": "2026-10-21T14:13:43+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/Untitled-1_4YYolkc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Xbox Series X and Series S are getting a new AI upscaling technology comparable to PlayStation's QSSR.",
+      "title": "Indie Game Dev Cancels Vibe-Coded Zombie Shooter After San Francisco Officials Condemn 'Dehumanizing' Game Set in City's Tenderloin Neighborhood",
+      "url": "https://www.ign.com/articles/indie-game-dev-takes-down-vibe-coded-zombie-shooter-after-san-francisco-officials-condemn-dehumanizing-game",
+      "source": "IGN",
+      "category": "games",
+      "published_iso": "2026-10-23T22:27:09Z",
+      "og_image": "https://assets-prd.ignimgs.com/2026/10/23/indie-dev-pulls-zombie-shooter-game-san-francisco-1792794196975.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "excerpt": "The developer of a zombie game set in San Francisco has removed the game from online marketplaces and issued a public apology after city officials condemned the title for depicting its homeless people as 'zombies.'",
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "A new platform-level AI upscaler on Xbox Series X/S. Studios targeting current-gen consoles now have to plan around it, as they did for PS5 QSSR."
+      "rationale": "A follow-up with a concrete new outcome: after city officials condemned the game, it was pulled from storefronts and the developer apologized. It shows how fast a vibe-coded release can turn into a real-world reputational and civic problem."
     },
     {
-      "rank": 4,
-      "title": "Of Course Pokémon's Been Pulled Into The AI Decompilation Frenzy",
-      "url": "https://kotaku.com/of-course-pokemons-been-pulled-into-the-ai-decompilation-frenzy-2000748316",
-      "source": "Kotaku",
-      "published_iso": "2026-10-21T15:26:56+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2026/10/pokemon-movie-1-1200x675.jpg",
-      "excerpt": "Gotta vibe-code 'em all",
+      "rank": 3,
+      "title": "\"AI로 복제게임 만들어 유포하겠다\" 인디 개발자에 협박",
+      "url": "https://www.gamemeca.com/view.php?gid=1781995",
+      "source": "게임메카",
+      "category": "games",
+      "published_iso": "2026-10-19T08:04:46Z",
+      "og_image": "https://cdn.gamemeca.com/gmdata/0001/781/995/gm818415_Untitled-1.webp",
+      "excerpt": "일본 인디게임 개발자가 생성형 AI로 제작한 복제 게임을 먼저 출시하겠다며 금품을 요구하는 협박성 메일을 받았다. 개발자는 협박에 응하지 않고 불특정 개발자를 노린 사기성 메시지일 가능성을 제기했다. 최근 해외와 일본 인디게임계에서는 AI를 악용한 복제 게임 출시 우려가 확산되고 있다",
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "AI-assisted decompiles have now reached Nintendo's most heavily guarded IP. This is a new project in the decomp wave, and the brief has covered each earlier project (Banjo, CTR, Bloodborne, Link's Awakening) as its own card."
-    },
-    {
-      "rank": 5,
-      "title": "[기획] 격변의 '모딩' 생태계, 울타리 넓히는 게임 산업",
-      "url": "https://www.inven.co.kr/webzine/news/?news=322451",
-      "source": "인벤",
-      "published_iso": "2026-10-22T07:28:26+00:00",
-      "og_image": "https://static.inven.co.kr/column/2026/10/22/news/i1816408170.jpg",
-      "excerpt": "AI 기술 발전으로 게임 모드 시장이 팽창하면서 모드린스는 AI 모드 등록을 제한했고, 넥서스 모드는 AI 활용도에 따른 태그 분류를 도입했다. 게임사들도 대응을 고심 중이다. 라이엇 게임즈는 10월 6일부터 외부 프로그램 접근을 차단했고, 블리자드는 월드 오브 워크래프트 애드온 기능을 제한했다. 반면 스타필드와 발더스 게이트3 등은 공식 모딩 도구를 도입했으며, 2025년 호그와트 레거시, 2026년 스토커2와 심즈4도 지원을 확대한다. Microsoft는 아샤 샤르마 CEO가 언급한 엑스박스 랩스를 통해 게임 재구성을 탐색 중이다. 이제 게임은 잘 만드는 것을 넘어 이용자가 쉽게 바꿀 수 있게 만드는 경쟁력이 중요해졌다.",
-      "tool": "Games",
-      "accent": "#eb367f",
-      "motif": "cube",
-      "rationale": "Korean-market view of AI-era modding policy: Modrinth's AI-mod restriction and Nexus Mods' AI-usage tags have not appeared in the brief before, and the piece contrasts them with studios opening official mod tools."
+      "rationale": "This is a distinct new incident: AI cloning used as an extortion threat against an indie developer, which is a step beyond the clone and demo-pulling stories already covered. The full gid=1781995 URL is not in history."
     }
   ],
   "dedup": {
     "checks": {
-      "https://wccftech.com/nvidia-rtx-remix-1-6-launches-with-dlss-5-6x-multi-frame-generation-minecraft-java-edition-support-and-more/": {
+      "https://www.thegamer.com/claude-openai-update-browser-ports-recomps-harder/": {
         "verdict": "new",
-        "nearest": "https://wccftech.com/borderless-gaming-nvidia-dlss-5-quantized-unsupported-gpus/",
+        "nearest": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
         "new_action": ""
       },
-      "https://unity.com/blog/unity-cli-usage-data-ai-coding-agents": {
-        "verdict": "new",
-        "nearest": "https://kotaku.com/ai-generated-games-platform-already-has-10-million-monthly-users-2000741894",
-        "new_action": ""
+      "https://www.ign.com/articles/indie-game-dev-takes-down-vibe-coded-zombie-shooter-after-san-francisco-officials-condemn-dehumanizing-game": {
+        "verdict": "follow-up",
+        "nearest": "https://www.pcgamer.com/software/ai/tech-founder-vibe-codes-game-about-shooting-zombies-in-san-franciscos-poorest-neighborhood/",
+        "new_action": "San Francisco officials formally condemned the game; the developer then removed it from online marketplaces and issued a public apology (takedown event after the 10-18 criticism story)."
       },
-      "https://www.eurogamer.net/xbox-series-x-s-amd-fsr-4-1-upscaling": {
+      "https://www.gamemeca.com/view.php?gid=1781995": {
         "verdict": "new",
-        "nearest": "https://www.ign.com/articles/sony-finally-brings-ai-upscaling-to-base-ps5",
-        "new_action": ""
-      },
-      "https://kotaku.com/of-course-pokemons-been-pulled-into-the-ai-decompilation-frenzy-2000748316": {
-        "verdict": "new",
-        "nearest": "https://www.gamesradar.com/games/the-community-aspect-of-decompilation-has-been-broken-by-a-wave-of-low-effort-ai-slop-and-now-a-major-community-tool-is-shutting-down/",
-        "new_action": ""
-      },
-      "https://www.inven.co.kr/webzine/news/?news=322451": {
-        "verdict": "new",
-        "nearest": "https://www.eurogamer.net/claude-opus-vibe-coded-mashup-mods-x-twitter-modding-backlash",
+        "nearest": "https://www.inven.co.kr/webzine/news/?news=322319",
         "new_action": ""
       }
     },
-    "note": "Fact-check swap: dropped the 80 Level 'How Tripo P2.0 & Astra Work Together' piece (an interview answered by the Tripo team, i.e. vendor promotion; the design curator rejected it too). Its rank-4 slot went to Kotaku's Pokémon AI decomp, a distinct project in the decomp wave whose earlier projects each ran as separate cards. Its URL is not in /tmp/ax_claimed_urls.txt and it is not the same story as any claimed URL. Cluster c0 (DLSS 5): kept RTX Remix 1.6 (new tool release) and dropped the Portal/HL2 RTX DLSS 5 update. Dropped as repeats of running stories already published: Eurogamer Steam Next Fest double demos and the Palworld lead on Next Fest (IGN Next Fest slop, 10-20); Aftermath 'devs fear vibecoders' demo theft, RPS Needle In A Haystack clone, and Gamemeca AI 역설계 카피캣 (Kotaku 10-17 demo ditch, Inven 10-21 스푸키친, Gamedeveloper 10-24 Digital Sun); Kotaku Goku voice reaction (Eurogamer JP union guidelines, 10-20); Kotaku Shogun 2 CA response (commentary follow-up to Kotaku 10-15/10-16, no new release); PC Gamer driving-sim $1,000 demo cost (same story as Gamemeca gid=1781573, 10-10, which the tagger missed); The Verge 'retro gaming overrun' and Inven 게임의 해체 (general decomp/recomp overviews of Verge Xbox Labs 10-14 and decomp.dev 10-16); Aftermath hobbies slop (opinion). Dropped as thin-AI or opinion: GamesRadar RE Outbreak browser ('could be lurking'), Aftermath Valve-moderation op-ed, Destructoid Overwatch x Stellar Blade fan reaction. Full URLs were compared, including the Inven ?news= and Gamemeca ?gid= query strings. Outlets: Wccftech, Unity, Eurogamer, Kotaku, Inven (5 distinct, 1 each)."
+    "note": "SWAP re-curation after fact-check: removed the Inworld Inference pick (inworld.ai/blog/introducing-inworld-inference). It is Inworld's own launch post (vendor PR) about consumer-AI inference in general, not a games story. No qualifying backfill, so the section ships at the floor of 3. Every remaining candidate was re-checked and dropped. Already published as the same story: GamesIndustry.biz Japan Actors Union guidelines (Eurogamer 10-20); PC Gamer DLSS 5 Hogwarts (Wccftech 10-14); GamesRadar Xbox business manager (Kotaku 10-22); PC Gamer horror drinking game demo cancel (Kotaku 10-17). Commentary or extra reporting on the Steam Next Fest / AI-clone / decomp running stories with no new concrete event: The Verge 'retro gaming overrun' (Verge Xbox Labs 10-14, Kotaku Pokemon 10-25); GameSpot slop/Next Fest and GamesRadar Palworld lead (IGN 10-20); Aftermath demo-theft fears (Kotaku 10-17, Gamedeveloper 10-24); RPS Needle In A Haystack code-theft claim (same viral game as GamesRadar 9-27 Robloxification; an allegation, not a filing or ruling); Gamemeca gid=1782071 AI 역설계 기획 (feature; Inven news=322319 10-21). Vendor PR, and already claimed by design today: 80 Level Tripo P2.0/Astra. Thin AI angle (fan reaction to a collab leak): Destructoid Overwatch x Stellar Blade. Reaction drama: GamesRadar Sweeney/Musk spat (Epic AI-first 10-13, Sweeney on Steam disclosures 10-24). Speculative interview: RPS Samson founder. Opinion: Aftermath hobbies slop. Pre-dropped by story_dedup: Horii 30-minute game (Kotaku 10-13), Unity Grok Build video (10-02), DLSS 5 Portal/HL2 (RTX Remix 10-25). No Epic MegaJam candidate was in the pool (GamesRadar 10-23 already ran). Outlets: TheGamer, IGN, 게임메카 (3 distinct). Cross-section note: the TheGamer Claude/OpenAI policy story could also surface in gadgets or politics; the claimed list for 10-26 shows no clash."
   }
 }

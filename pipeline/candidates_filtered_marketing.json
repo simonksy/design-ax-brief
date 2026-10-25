@@ -1,44 +1,82 @@
 {
   "section": "marketing",
-  "now_iso": "2026-10-24T22:05:00Z",
+  "generated_at": "2026-10-25T22:00:38Z",
   "window_hours": 72,
-  "generated_by": "librarian",
   "items": [
     {
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "source": "The Verge",
+      "title": "Google Ads AI tool copies Search campaigns into 10 new languages",
+      "url": "https://ppc.land/google-ads-ai-tool-copies-search-campaigns-into-10-new-languages/",
+      "source": "PPC Land",
+      "published_iso": "2026-10-25T13:46:58Z",
+      "og_image": "https://ppc.land/content/images/2026/10/google-ads-ai-campaign-localization-10-languages-typewriter-speech-bubbles.jpg",
+      "excerpt": "Google Ads' AI localization tool now copies English (US) Search campaigns into 10 new languages; budgets copy across with no currency conversion, and promised Performance Max support has yet to be confirmed.",
       "category": "marketing",
-      "published_iso": "2026-10-24T18:32:21+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "Pennsylvania’s AI Deceptive Advertising Act leaves a lot of loopholes."
-    },
-    {
-      "title": "OpenAI Foists Creative ‘Enhancements’ On Advertisers; Now The News Is Partnering With Sportsbooks",
-      "url": "https://www.adexchanger.com/daily-news-roundup/friday-23102026/",
-      "source": "AdExchanger",
-      "category": "marketing",
-      "published_iso": "2026-10-23T04:03:40+00:00",
-      "og_image": "https://www.adexchanger.com/wp-content/uploads/2024/11/creativeshop-detail.jpg",
-      "excerpt": "OpenAI will automatically update existing ads with what it calls “creative enhancements” starting Oct. 30 – unless advertisers opt out.",
       "history_match": {
-        "score": 0.322,
-        "date": "2026-10-21",
-        "url": "https://www.seroundtable.com/openai-chatgpt-ads-enabling-creative-enhancements-42344.html",
-        "title": "OpenAI Auto Enabling Creative Enhancements In ChatGPT Ads",
+        "score": 0.168,
+        "date": "2026-10-16",
+        "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+        "title": "Google's Universal Cart shopping tool launches in the US",
         "band": "related"
       }
     },
     {
-      "title": "Q3: Omnicom’s Media Business Is Growing, But Is It Agent-Proof?",
+      "title": "Google AI writes positive-only review summaries into Search ads in 4 markets",
+      "url": "https://ppc.land/google-ai-writes-positive-only-review-summaries-into-search-ads-in-4-markets/",
+      "source": "PPC Land",
+      "published_iso": "2026-10-25T13:42:52Z",
+      "og_image": "https://ppc.land/content/images/2026/10/google-ai-review-summaries-search-ads-positive-only-billboard-hand.jpg",
+      "excerpt": "Google is inserting AI-generated, positive-only review summaries into Search ads in four markets. Advertisers cannot edit the text, which Google shows only when it predicts better ad performance; the help page omits opt-out and sourcing details.",
+      "category": "marketing",
+      "history_match": {
+        "score": 0.169,
+        "date": "2026-10-10",
+        "url": "https://www.seroundtable.com/google-ads-text-customization-asset-previews-42264.html",
+        "title": "Google Ads Text Customization Asset Previews",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Google Ads search terms report adds 4 source columns for AI Max traffic",
+      "url": "https://ppc.land/google-ads-search-terms-report-adds-4-source-columns-for-ai-max-traffic/",
+      "source": "PPC Land",
+      "published_iso": "2026-10-25T13:45:19Z",
+      "og_image": "https://ppc.land/content/images/2026/10/google-ads-ai-max-search-terms-source-columns-ledger-stamps.jpg",
+      "excerpt": "For AI Max campaigns, the search terms report now shows match, landing page, headline and description sources beside each query, giving advertisers a view into what Google's AI generated and where it sent traffic.",
+      "category": "marketing",
+      "history_match": {
+        "score": 0.337,
+        "date": "2026-10-16",
+        "url": "https://www.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-42287.html",
+        "title": "Google Ads Search Terms and Ad Combinations Report (AI Max)",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Google Ads expands Smart Bidding Exploration to Performance Max and Shopping campaigns",
+      "url": "https://searchengineland.com/google-ads-expands-smart-bidding-exploration-to-performance-max-and-shopping-campaigns-498529",
+      "source": "Search Engine Land",
+      "published_iso": "2026-10-23T18:25:26Z",
+      "og_image": "https://searchengineland.com/wp-content/seloads/2026/10/Google-Ads-Performance-Dashboard-1.png",
+      "excerpt": "Google's Smart Bidding Exploration, which lets AI bidding loosen ROAS targets (5-30% tolerance) to chase additional conversions, now extends to Performance Max and Shopping campaigns; portfolio bid strategies switch it off.",
+      "category": "marketing",
+      "history_match": {
+        "score": 0.175,
+        "date": "2026-10-11",
+        "url": "https://ppc.land/google-optimises-its-own-revenue-advertisers-have-to-optimise-theirs/",
+        "title": "Google optimises its own revenue. Advertisers have to optimise theirs",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Q3: Omnicom's Media Business Is Growing, But Is It Agent-Proof?",
       "url": "https://www.adexchanger.com/agencies/q3-omnicoms-media-business-is-growing-but-is-it-agent-proof/",
       "source": "AdExchanger",
-      "category": "marketing",
-      "published_iso": "2026-10-22T23:34:10+00:00",
+      "published_iso": "2026-10-22T23:34:10Z",
       "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/10/robot-flying-pencil.jpg",
-      "excerpt": "If AI agents can plan and buy media, who needs a holding company? Good question. It came up during Omnicom's Q3 earnings on Thursday.",
+      "excerpt": "If AI agents can plan and buy media, who needs a holding company? The question came up during Omnicom's Q3 earnings call, as agentic buying pressures the holdco media model.",
+      "category": "marketing",
       "history_match": {
-        "score": 0.179,
+        "score": 0.207,
         "date": "2026-10-07",
         "url": "https://digiday.com/media-buying/omnicom-media-and-rembrand-partner-to-evolve-in-content-ad-placements/",
         "title": "Omnicom Media and Rembrand partner to evolve in-content ad placements",
@@ -46,164 +84,44 @@
       }
     },
     {
-      "title": "Meta Grows Revenue 26% Despite Massive Muse Operating Costs",
-      "url": "https://www.adexchanger.com/platforms/meta-grows-revenue-26-despite-massive-muse-operating-costs/",
-      "source": "AdExchanger",
-      "category": "marketing",
-      "published_iso": "2026-10-22T00:14:00+00:00",
-      "og_image": "https://www.adexchanger.com/wp-content/uploads/2024/09/metaverse_EmptyVerse-comic_700.jpg",
-      "excerpt": "Despite spending billions in lawsuits and high Muse operating costs, Meta's third quarter earnings still showed significant growth."
+      "title": "Cybersecurity bounty hunter says Samsung TVs use AI to record audio and screenshots for ads",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting",
+      "source": "Tom's Hardware",
+      "published_iso": "2026-10-25T10:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/EiDyWR9Yo8wN9DnMZqQdJ4-2560-80.jpg",
+      "excerpt": "A researcher who reverse-engineered his Samsung TV says it runs an on-device AI model that collects screenshots, skipped-ad behavior and audio via connected soundbars to feed ad targeting. (Off-list: no on-list outlet covered it.)",
+      "category": "marketing"
     },
     {
-      "title": "Target’s holiday push stresses affordability, exclusives and an AI assistant",
-      "url": "https://digiday.com/marketing/targets-holiday-push-stresses-affordability-exclusives-and-an-ai-assistant/",
-      "source": "Digiday",
-      "category": "marketing",
-      "published_iso": "2026-10-22T04:01:00+00:00",
-      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/06/ai-beauty-digiday.webp",
-      "excerpt": "Target is betting on daily deals and a digital assistant to woo budget-conscious shoppers this holiday season.",
-      "history_match": {
-        "score": 0.178,
-        "date": "2026-10-11",
-        "url": "https://www.modernretail.co/marketing/why-chatgpt-ads-wont-likely-impact-holiday-sales-in-a-major-way-this-year/",
-        "title": "Why ChatGPT ads won't likely impact holiday sales in a major way this year",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Google Ads Translation Tool",
-      "url": "https://www.seroundtable.com/google-ads-translation-tool-42351.html",
-      "source": "Search Engine Roundtable",
-      "category": "marketing",
-      "published_iso": "2026-10-22T07:41:00-04:00",
-      "og_image": "https://images.seroundtable.com/google-ads-translation-tool-aROMU2sm.jpg",
-      "excerpt": "Google Ads is now rolling out the Translation tool within the advertiser console. This allows advertisers to \"Translate your campaigns to reach global customers and boost your conversions,\" Google wrote."
-    },
-    {
-      "title": "Google Universal Cart In Search Is Live",
-      "url": "https://www.seroundtable.com/google-universal-cart-in-search-is-live-42349.html",
-      "source": "Search Engine Roundtable",
-      "category": "marketing",
-      "published_iso": "2026-10-23T07:21:00-04:00",
-      "og_image": "https://images.seroundtable.com/google-universal-cart-add-to-cart-O1qMT93e.jpg",
-      "excerpt": "Last week, we reported that Google was launching its Universal Cart in the United States after demoing it at Google I/O in May.  And yes, a few days after Google announced it, it was rolling out. I think most people started to see it show up in Google Search and Gemini starting on Friday and over the weekend.",
-      "history_match": {
-        "score": 0.404,
-        "date": "2026-10-16",
-        "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-        "title": "Google's Universal Cart shopping tool launches in the US",
-        "band": "likely-repeat"
-      }
-    },
-    {
-      "title": "Google Ads Updates To Customer Lifecycle Goals For Holidays",
-      "url": "https://www.seroundtable.com/google-ads-customer-lifecycle-goals-update-42358.html",
-      "source": "Search Engine Roundtable",
-      "category": "marketing",
-      "published_iso": "2026-10-22T07:30:00-04:00",
-      "og_image": "https://images.seroundtable.com/google-ads-ui-for-multipliers-pifBTTxZ.jpg",
-      "excerpt": "Google Ads is rolling out three updates to customer lifecycle goals to help advertisers before the holidays. These three updates include (1) expanding high value mode to Shopping Campaigns, (2) expanding customer retention goals and (3) new percentage multipliers.",
-      "history_match": {
-        "score": 0.291,
-        "date": "2026-10-13",
-        "url": "https://www.seroundtable.com/google-ai-ads-goals-and-assets-42269.html",
-        "title": "Google Ads Testing Google AI For Goals & Assets",
-        "band": "related"
-      }
-    },
-    {
-      "title": "IAB Europe finds 86% use AI for marketing, but only 48% have ad rules",
-      "url": "https://ppc.land/iab-europe-finds-86-use-ai-for-marketing-but-only-48-have-ad-rules/",
-      "source": "PPC Land",
-      "category": "marketing",
-      "published_iso": "2026-10-24T16:15:00.000Z",
-      "og_image": "https://ppc.land/content/images/2026/10/iab-europe-ai-survey-agentic-buying-governance-gap-driverless-convertible-half-guardrail.jpg",
-      "excerpt": "Of 50 European ad businesses surveyed, 78% name an AI governance owner and 58% expect agentic buying within a year. How far does practice really lag ambition?"
-    },
-    {
-      "title": "IAB Tech Lab extends AI ad-buying standard comments to November 10",
-      "url": "https://ppc.land/iab-tech-lab-extends-ai-ad-buying-standard-comments-to-november-10/",
-      "source": "PPC Land",
-      "category": "marketing",
-      "published_iso": "2026-10-24T16:10:29.000Z",
-      "og_image": "https://ppc.land/content/images/2026/10/iab-tech-lab-openproposal-aamp-3-comment-extension-typewriter-carriage.jpg",
-      "excerpt": "Window on the 71-field draft now runs 49 days, not 30, for buyers, sellers and agent builders. Machine-readable schemas still wait on what comments change."
-    },
-    {
-      "title": "Google and Meta's new terms carry EU fine risk of up to 10% of sales",
-      "url": "https://ppc.land/google-and-metas-new-terms-carry-eu-fine-risk-of-up-to-10-of-sales/",
-      "source": "PPC Land",
-      "category": "marketing",
-      "published_iso": "2026-10-24T16:08:00.000Z",
-      "og_image": "https://ppc.land/content/images/2026/10/google-meta-eu-fine-10-percent-turnover-cake-server-gold-coins.jpg",
-      "excerpt": "Meta's free cash flow was -$2.12bn in Q3 and Alphabet's -$5.9bn in Q2, yet both hold over $80bn in cash. Which EU rules do the new terms test, and how hard?"
-    },
-    {
-      "title": "Tilly Norwood Tells All",
-      "url": "https://www.adweek.com/media/tilly-norwood-tells-all/",
-      "source": "Adweek",
-      "category": "marketing",
-      "published_iso": "2026-10-21T19:00:00-04:00",
-      "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/10/RevaStudioPhotography-12.jpg?w=600&h=315&crop=1",
-      "excerpt": "In an on-stage conversation at the Industry Leadership Summit in Orlando, AI-generated actress, model, and singer Tilly Norwood discusses the future of marketing."
-    },
-    {
-      "category": "marketing",
-      "title": "Explore new ways to drive your best ROI with the first Google Marketing Platform Drop",
-      "url": "https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-october/",
-      "source": "Google Blog (Google Marketing Platform)",
-      "published_iso": "2026-10-22T13:00:00Z",
-      "excerpt": "Google's first monthly Marketing Platform Drop adds a Display & Video 360 Marketplace where Gemini models curate personalized media bundles for live sports and tentpole events, activated in one click. It also adds a Search Ads 360 Home view that uses Gemini to consolidate insights, generate suggestions, and streamline execution.",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide01_1021.max-1440x810.png",
-      "note": "Primary source. The published time comes from the RSS pubDate; the page only gives a date. The LinkedIn CTV-in-DV360 part overlaps adexchanger/ppc.land coverage from 10-22, but the Gemini-curated media bundles and SA360 Gemini home are the AI angle."
-    },
-    {
-      "category": "marketing",
-      "title": "Meta delays its AI terms to November 20. The trust problem does not move",
-      "url": "https://ppc.land/meta-delays-its-ai-terms-to-november-20-the-trust-problem-does-not-move/",
-      "source": "PPC Land",
-      "published_iso": "2026-10-23T21:35:55Z",
-      "excerpt": "Meta pushed the effective date of its revised Commercial Terms and Self-Serve Ad Terms from October 30 to November 20, 2026. These are the same terms that make advertisers solely liable for AI enhancements and give Meta broad AI-use rights over business content. Meta did not change the text, and EU and UK publisher and advertiser groups are still pressing regulators.",
-      "og_image": "https://ppc.land/content/images/2026/10/meta-ai-terms-november-20-delay-liability-clock-hand.jpg",
-      "note": "FOLLOW-UP to the covered story 'Meta Commercial Terms: advertisers solely liable for AI enhancements from Oct 30' (adweek, 10-23). The new fact is the delay to Nov 20. Use only as a date-change update. The Verge and Nieman Lab frame it from the publisher-scraping side, which is excluded.",
-      "history_match": {
-        "score": 0.242,
-        "date": "2026-10-17",
-        "url": "https://www.searchenginejournal.com/metas-new-terms-expand-crawling-rights-beyond-advertisers/593217/",
-        "title": "Meta's New Terms Expand Crawling Rights Beyond Advertisers",
-        "band": "related"
-      }
-    },
-    {
-      "category": "marketing",
-      "title": "New Studies Say AI Visibility & Search Not Worth Investing In",
-      "url": "https://www.seroundtable.com/ai-search-studies-42359.html",
-      "source": "Search Engine Roundtable",
-      "published_iso": "2026-10-22T11:21:00Z",
-      "excerpt": "Three studies published the same week find that AI search and chatbot services send a tiny share of traffic and conversions compared with Google Search. In Marie Haynes' GA4 data from 100 sites, ChatGPT sessions were 0.62% of Google organic. The studies question how much marketing budget should go to AI visibility work.",
-      "og_image": "https://images.seroundtable.com/marie-google-organic-vs-ai-llm-traffic-ga4-comparison-rsCJbGcL.png",
-      "note": "BORDERLINE: the angle is marketing budget for AI search, not paid placement. Keep only if the curator accepts the 'brand budget shifting to AI search' clause."
-    },
-    {
-      "category": "marketing",
-      "title": "Google AI Overviews reach 88% of commercial searches as AI clicks stay thin",
-      "url": "https://ppc.land/google-ai-overviews-reach-88-of-commercial-searches-as-ai-clicks-stay-thin/",
-      "source": "PPC Land",
-      "published_iso": "2026-10-23T06:23:37Z",
-      "excerpt": "Semrush tracked 400 US commercial keywords and found that AI Overviews now appear on 88% of them, and on 97% when weighted by search volume. A year earlier the figure was 45.75%. 'Reviews' queries rose from 30% to 89%. Referral traffic from AI stays tiny, and Ahrefs says Google is altering results served to SEO tools.",
-      "og_image": "https://ppc.land/content/images/2026/10/google-ai-overviews-88-percent-commercial-keywords-billboard-eclipses-storefronts.jpg",
-      "note": "BORDERLINE: a daily roundup about the organic and commercial search surface. It overlaps the SER item, so pick at most one of the two."
+      "title": "China Unveils AI Advertising Governance Framework to Tackle Fake Endorsements and Misleading Content",
+      "url": "https://cn.ibtimes.com/china-ai-generated-advertising-governance-framework-1812606",
+      "source": "IBTimes China",
+      "published_iso": "2026-10-26T01:39:39+08:00",
+      "og_image": "https://d.cn.ibtimes.com/en/full/1824086/china-artificial-intelligence-digital-advertising-content-moderation.jpg",
+      "excerpt": "A blue book released at the China International Advertising Festival lays out a governance framework for AI-generated ads, including multimodal detection, platform safeguards against fake AI endorsements and stronger consumer protection. (Off-list: no on-list coverage.)",
+      "category": "marketing"
     }
   ],
   "dedup": {
-    "dropped": 3,
-    "kept": 13,
+    "dropped": 0,
+    "kept": 8,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
-    "dropped": [],
-    "review": 6,
+    "dropped": [
+      {
+        "url": "https://digiday.com/marketing/ai-boosts-discovery-but-reviews-still-seal-the-deal-new-research-shows/",
+        "title": "AI boosts discovery but reviews still seal the deal, new research shows",
+        "match": {
+          "score": 0.756,
+          "date": "2026-10-23",
+          "url": "https://www.modernretail.co/ai-strategies/ai-boosts-discovery-but-reviews-still-seal-the-deal-new-research-shows/",
+          "title": "AI boosts discovery but reviews still seal the deal, new research shows"
+        }
+      }
+    ],
+    "review": 5,
     "same_story_pairs": []
   },
   "history_digest": [
@@ -641,6 +559,21 @@
       "date": "2026-10-24",
       "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
       "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
+    },
+    {
+      "date": "2026-10-25",
+      "title": "Explore new ways to drive your best ROI with the first Google Marketing Platform Drop",
+      "url": "https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-october/"
+    },
+    {
+      "date": "2026-10-25",
+      "title": "IAB Tech Lab extends AI ad-buying standard comments to November 10",
+      "url": "https://ppc.land/iab-tech-lab-extends-ai-ad-buying-standard-comments-to-november-10/"
+    },
+    {
+      "date": "2026-10-25",
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
     }
   ]
 }

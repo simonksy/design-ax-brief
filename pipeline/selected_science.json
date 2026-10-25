@@ -1,106 +1,106 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "section": "science",
   "picks": [
     {
-      "url": "https://allenai.org/blog/litpivot",
-      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "source": "Ai2",
+      "url": "https://phys.org/news/2026-10-ai-agents-political-conversation-partners.html",
+      "title": "AI agents can form political camps—and changing their conversation partners does little to soften their views",
+      "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-10-23T08:00:00Z",
-      "og_image": "https://www.datocms-assets.com/64837/1792764970-litpivot-featured-staircase-1512x1080.png",
-      "excerpt": "Ai2's LitPivot helps researchers refine early research ideas through literature-supported critiques and revisions that update as a proposal evolves.",
+      "published_iso": "2026-10-23T11:20:06Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-agents-can-form-pol.jpg",
+      "excerpt": "In a Nature Communications experiment, LLM agents given political positions and free to choose their contacts split into opposing camps that increasingly preferred their own company; rewiring their partners did little to soften views.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Research-method slot: LitPivot is a new Ai2 research-ideation tool that critiques and revises an early proposal against the literature as it changes. It covers a different step of the research process from AstaBrief report generation (10-08), Deep Review document analysis (10-15) and NYU's citation-hallucination checker (10-24)."
+      "rationale": "Multi-agent social-simulation slot: a Nature Communications experiment in which LLM agents that pick their own contacts split into polarized camps, and rewiring their partners did little to change that. The 10-25 Chalmers card measured the positions of single chatbots and the 10-21 card covered synthetic polling personas; this is a separate study about network dynamics among agents."
     },
     {
-      "url": "https://techxplore.com/news/2026-10-power-neural-chip-brain-cognitive.html",
-      "title": "Low-power neural chip reads brain signals to identify cognitive and emotional states",
-      "source": "Tech Xplore",
+      "url": "https://thequantuminsider.com/2026/10/22/seeqc-combines-chip-based-processing-with-nvidia-ai-to-improve-quantum-error-correction/",
+      "title": "SEEQC Combines Chip-Based Processing With NVIDIA AI to Improve Quantum Error Correction",
+      "source": "The Quantum Insider",
       "category": "science",
-      "published_iso": "2026-10-23T12:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-chip-decodes-in.jpg",
-      "excerpt": "EPFL's LogSync implantable chip measures brain oscillations and cross-region synchrony and uses on-chip machine learning to classify cognitive and emotional states; it was tested on recorded human data and in rats (IEEE JSSC).",
+      "published_iso": "2026-10-22T12:05:00Z",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/10/SEEQC-and-NVIDIA-Quantum-Chip.png",
+      "excerpt": "SEEQC reports QEC decoding gains from a multi-stage architecture pairing its on-chip pre-decoder with NVIDIA's Ising open family of AI decoder models.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "Neurotech hardware slot: EPFL's LogSync chip runs on-chip ML that classifies brain states from synchrony features (IEEE JSSC). It was tested only on recorded data and in rats, with no patients, clinicians or regulators involved, so it stays in science. It is distinct from the 09-30 stacked AI chip and the 10-03 brain-scan reconstruction."
+      "rationale": "Quantum slot: SEEQC reports a new result that pairs its on-chip pre-decoder with NVIDIA's open Ising AI decoders for error correction. The related 10-19 Riverlane card was about decoder calibration, a different company and a different step, so this is new."
     },
     {
-      "url": "https://www.genengnews.com/topics/artificial-intelligence/perturbai-and-openai-launch-ai-reasoning-agents-for-biomedical-discovery/",
-      "title": "PerturbAI and OpenAI launch AI reasoning agents for biomedical discovery",
-      "source": "GEN",
+      "url": "https://phys.org/news/2026-10-ai-tool-microrna-sites-circular.html",
+      "title": "Researchers develop AI tool to map microRNA binding sites on circular RNAs",
+      "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-10-22T17:33:44Z",
-      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/06/GettyImages-2224152938.jpg",
-      "excerpt": "A year-long collaboration between PerturbAI and OpenAI produced a reasoning framework in which thousands of agents turn perturbation datasets into testable biological hypotheses; the partners are now extending it to drug-target discovery on PerturbAI's causal data.",
+      "published_iso": "2026-10-22T12:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/pusan-national-univers-18.jpg",
+      "excerpt": "Pusan National University's circMAC predicts where microRNAs bind across full-length circular RNAs at single-nucleotide resolution, outperforming RNA language models in benchmarks (Briefings in Bioinformatics).",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "AI-scientist slot: a new agent framework turns perturbation data into testable biological hypotheses. No specific disease or patient is involved, so it stays in science. It is a separate launch from the 10-01 AI scientist, Quine (10-05) and Google's wet-lab agents (10-21)."
+      "rationale": "Bioinformatics slot: circMAC predicts microRNA binding sites on full-length circRNAs at single-nucleotide resolution and beats RNA language models on benchmarks. It is basic RNA biology with no disease or patient involved, so it belongs in science, and it is not a protein or enzyme design story."
     },
     {
-      "url": "https://allenai.org/blog/olmoearth-v1-3",
-      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-      "source": "Ai2",
+      "url": "https://techxplore.com/news/2026-10-app-ai-eyes-users-fall.html",
+      "title": "App's AI 'eyes' for blind users fall short, researchers find",
+      "source": "Tech Xplore",
       "category": "science",
-      "published_iso": "2026-10-22T08:00:00Z",
-      "og_image": "https://www.datocms-assets.com/64837/1792613095-olmoearth-v1-3-blog-thumbnail.png",
-      "excerpt": "OlmoEarth v1.3 brings state-of-the-art satellite embeddings, precomputed global data and a browser-based Embeddings Explorer for mapping and analysing the planet.",
+      "published_iso": "2026-10-22T21:20:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2026/visually-challenged-mi.jpg",
+      "excerpt": "A study of blind users relying on AI visual-assistant apps for everyday tasks like cooking finds the AI descriptions often fall short, forcing repeated queries.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "Open-model release slot: a new version of OlmoEarth with precomputed global embeddings and a browser Embeddings Explorer that researchers can use today. It is a different product from DeepMind's ForTy forest map (10-24) and Google's Earth AI posts."
+      "rationale": "Human-AI interaction slot: a field study finding that AI visual-assistant apps often fail blind users at everyday tasks such as cooking, so they have to ask again and again. The 10-05 visual-illusion card was about benchmark gaps in AI vision; this is a separate study of real-world use."
     },
     {
-      "url": "https://phys.org/news/2026-10-ai-chatbots-stay-political-middle.html",
-      "title": "Most AI chatbots stay in the political middle ground, with Grok being an exception",
-      "source": "Phys.org",
+      "url": "https://www.nature.com/articles/s41467-026-78727-y",
+      "title": "Emergence of diffusion models from associative memory through memorization and generalization",
+      "source": "Nature Communications",
       "category": "science",
-      "published_iso": "2026-10-22T12:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/five-out-of-six-ai-cha.jpg",
-      "excerpt": "Chalmers researchers had six LLMs write about 107 Swedish political issues before the 2026 election; most landed near the centre without favouring a party, while Grok diverged on migration, crime and gender (arXiv preprint).",
+      "published_iso": "2026-10-25T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Viewing diffusion models through Dense Associative Memory theory, the authors show that spurious states, long treated as memory errors, are a critical intermediate phase of generalization, and demonstrate them across many architectures and datasets.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "sphere",
-      "rationale": "LLM-behavior slot: a Chalmers audit of six LLMs on 107 Swedish policy issues, with Grok as the measured outlier. This is a social-science measurement study, not policy news. It differs from the 10-11 climate-policy endorsement study and the 10-21 synthetic-polling card."
+      "rationale": "Science-of-AI slot: a new Nature Communications paper (10-25, the freshest item in the pool) that uses Dense Associative Memory theory to explain how diffusion models move from memorizing to generalizing, and finds that 'spurious states' are a necessary middle phase rather than errors. The nearest published card, the 10-14 MIT piece on how neural networks build their own learning machinery, is a different study on a different question."
     }
   ],
   "dedup": {
     "checks": {
-      "https://allenai.org/blog/litpivot": {
+      "https://phys.org/news/2026-10-ai-agents-political-conversation-partners.html": {
         "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-10-scientists-tech-tools-citation-hallucinations.html",
+        "nearest": "https://phys.org/news/2026-10-ai-chatbots-stay-political-middle.html",
         "new_action": ""
       },
-      "https://techxplore.com/news/2026-10-power-neural-chip-brain-cognitive.html": {
+      "https://thequantuminsider.com/2026/10/22/seeqc-combines-chip-based-processing-with-nvidia-ai-to-improve-quantum-error-correction/": {
         "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-09-stacked-ai-chip-fast-layers.html",
+        "nearest": "https://thequantuminsider.com/2026/10/15/riverlane-nvidia-ai-quantum-decoder-calibration/",
         "new_action": ""
       },
-      "https://www.genengnews.com/topics/artificial-intelligence/perturbai-and-openai-launch-ai-reasoning-agents-for-biomedical-discovery/": {
+      "https://phys.org/news/2026-10-ai-tool-microrna-sites-circular.html": {
         "verdict": "new",
-        "nearest": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
+        "nearest": "https://phys.org/news/2026-10-ai-platform-database-protein-phase.html",
         "new_action": ""
       },
-      "https://allenai.org/blog/olmoearth-v1-3": {
+      "https://techxplore.com/news/2026-10-app-ai-eyes-users-fall.html": {
         "verdict": "new",
-        "nearest": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+        "nearest": "https://techxplore.com/news/2026-10-visual-illusion-reveals-today-ai.html",
         "new_action": ""
       },
-      "https://phys.org/news/2026-10-ai-chatbots-stay-political-middle.html": {
+      "https://www.nature.com/articles/s41467-026-78727-y": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-10-ai-chatbots-endorse-climate-policies.html",
+        "nearest": "https://news.mit.edu/2026/how-artificial-neural-networks-build-their-own-learning-machinery-1013",
         "new_action": ""
       }
     },
-    "note": "Coordinator swap: removed the Phys.org AI-designed enzyme components pick (slot 1). It tripped a downstream safety filter, and the house rule swaps protein/enzyme-design stories on sight. Backfilled with Ai2 LitPivot, which is not protein, enzyme, pathogen, drug-design or medicine related, is not in /tmp/ax_claimed_urls.txt, and is not the same story as any claimed URL. The DeepMind Antigravity antimicrobial-peptide item was skipped under the same rule. Dropped as repeats. MIT News subseasonal weather wrapper: likely-repeat, the same study as the 10-15 Phys.org card. Phys.org AI tipping-point forecasting: likely-repeat, the same PNAS neural-operator work as EurekAlert 10-16. ScienceDaily AI consciousness perception: likely-repeat, the same study as Tech Xplore 10-03. Physics World optical deepfake detection: the same ~98% (97.8%) study as ScienceDaily 10-02. ScienceDaily CO2-to-fuel reaction map: the same work as EurekAlert 10-09. Google Research Earth AI geospatial agents: the same Earth AI line as 10-07, 11 days old. Held back: Quanta quasi-Riemann analysis piece, which likely continues the AI-math proof running story (10-02, 10-17, 10-23) and has no new release of its own. Ranked below the picks: Molmo2Fish (12 days old), Tech Xplore Be My AI and abuse-survivor chatbot studies, Psychology Today AI-boyfriend column (opinion), MIT Q&A on Lindquist (history commentary). Outlets: Ai2 2, Tech Xplore 1, GEN 1, Phys.org 1."
+    "note": "First pass kept four picks: the 15-item pool had too few fresh, distinct, non-weak items to fill a fifth slot without padding. Dropped as repeats: ScienceDaily CO2-to-fuel reaction map (same work as EurekAlert 10-09); ScienceDaily AI consciousness perception (likely-repeat of Tech Xplore 10-03); Live Science physicists predicting when AI turns dangerous (same physics formula as Tech Xplore 10-09); Physics World optical deepfake detection (same 97.8% study as ScienceDaily 10-02); Google Research Earth AI geospatial agents (same Earth AI line as 10-07, 12 days old, held back on 10-25 too); Quanta quasi-Riemann analysis piece (continues the AI-math proof running story from 10-02, 10-17 and 10-23, with no new release of its own). Skipped under the house safety rule that swaps protein/peptide-design stories on sight: DeepMind Antigravity antimicrobial peptides. Held by the 2-per-outlet cap: Phys.org polar-vortex ML precursor signal (fresh, but Phys.org already has 2 picks, and climate ran on 10-22). Too weak to use as a fifth pick: Psychology Today dating-photo blog (opinion), Quantum Insider AI-quantum-threat paper (position paper, rated weakest by the librarian), Tech Xplore MIT Lindquist Q&A (history commentary). RECOVERY PASS (3 nature.com candidates): added the Nature Communications diffusion-models-from-associative-memory paper as the fifth pick. It is an original study published 10-25, matches nothing in the 30-day history, and is not claimed by any other section today. Dropped Terence Tao 'Maths 2.0' (Nature, 10-22): it is commentary on what AI proofs mean for mathematics, so it continues the AI-math running story (10-02, 10-08, 10-11 Quanta 'Is AI the End of Math As We Know It?', 10-15, 10-17, 10-23) and announces nothing new of its own. Held back Nature Communications dendritic computation and attention: it is 11 days old, it is close in theme to the 10-13 Quanta card 'Is Attention the Essence of Intelligence?', and only one slot was open. Note for media: the diffusion pick has no og_image, so ax-media must source an in-article figure. Outlets: Phys.org 2, The Quantum Insider 1, Tech Xplore 1, Nature Communications 1."
   }
 }

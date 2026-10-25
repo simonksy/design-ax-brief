@@ -1,96 +1,101 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "section": "gadgets",
   "picks": [
     {
-      "title": "Google just made your Gemini-built web apps a lot easier to share",
-      "url": "https://www.androidauthority.com/gemini-web-apps-google-sites-export-3727259/",
-      "source": "Android Authority",
+      "title": "How much?? Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM selling for a cool $6,800 — TOPC TXA2 can take 4 SSDs and drives 4 8K monitors",
+      "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+      "source": "TechRadar",
+      "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "New release: one-click export of Gemini-built web apps to Google Sites, on web, Android and iOS. A prompt-made prototype can now go to a shareable URL with no hosting step.",
-      "published_iso": "2026-10-23T14:18:41Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-2-scaled.jpg",
-      "excerpt": "Google introduces one-click Gemini app exports to Google Sites, available across web, Android, and iOS for eligible accounts."
+      "rationale": "New product: TOPC's TXA2 is a 192GB Ryzen AI Max+ PRO 495 local-AI workstation priced at about $6,800 that drives four 8K monitors. It shows what desk-side AI hardware costs while RAM prices are spiking.",
+      "published_iso": "2026-10-24T20:05:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/2fiT6TDsU78hzS4Mg3E8Rm-1920-80.png",
+      "excerpt": "Obscure brand wants nearly $6,800 for its copper-colored AI workstation"
     },
     {
-      "title": "LLM '명령'에 두 글자 추가했더니…로봇이 한 섬뜩한 행동",
-      "url": "https://zdnet.co.kr/view/?no=20261023193807",
-      "source": "지디넷코리아",
+      "title": "Gemini for Android rolls out side panel and settings redesign",
+      "url": "https://9to5google.com/2026/10/23/gemini-settings-redesign-android/",
+      "source": "9to5Google",
+      "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "New research: Binghamton University researchers show that jailbreaking ChatGPT, Gemini or Claude can push LLM-controlled robots into dangerous actions. This is a concrete safety issue for anyone building LLM-driven hardware.",
-      "published_iso": "2026-10-24T00:17:20Z",
-      "og_image": "https://image.zdnet.co.kr/2026/10/23/9ff30db7b9f57f5ac52e656e26088787.jpg",
-      "excerpt": "오픈AI 챗GPT, 제미나이, 클로드 등 대규모 언어모델(LLM)의 보안 취약점을 악용하면 로봇이 위험한 행동을 하도록 유도할 수 있다는 연구 결과가 나왔다.과학매체 인터레스팅엔지니어링은 미국 뉴욕주립 빙햄턴대학교 연구진이 LLM 기반 로봇 제어 시스템의 보안 취약점을 입증하기 위해 진행한..."
+      "rationale": "New release: the Gemini Android app ships a redesigned side panel and settings screen right after the Spark-to-Task update. It is a live reference for how Google is restructuring navigation in an assistant app.",
+      "published_iso": "2026-10-23T22:02:00Z",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-2.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Following the Spark-to-Task update, the Gemini app has now rolled out redesigns of the side panel and settings on Android."
     },
     {
-      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-      "source": "TechCrunch",
+      "title": "Nvidia's DGX Spark can now join forces with seven others to deliver 1 TB of memory",
+      "url": "https://www.notebookcheck.net/Nvidia-s-DGX-Spark-can-now-join-forces-with-seven-others-to-deliver-1-TB-of-memory.1430472.0.html",
+      "source": "Notebookcheck",
+      "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "New product traction: Microduck's voice-commanded, character-driven robots have sold 20,000 units. It is a consumer AI robot that relies on personality and motion design rather than utility.",
-      "published_iso": "2026-10-23T21:59:19Z",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676",
-      "excerpt": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
+      "rationale": "New announcement from GTC Berlin: DGX Spark clustering now goes up to eight units for 1 TB of unified memory, and Nvidia claims up to 40% faster agentic inference on select RTX hardware. Desk-scale local AI capacity just took a big step up.",
+      "published_iso": "2026-10-22T01:51:00Z",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Nvidia-GTC-Berlin-announcement.png",
+      "excerpt": "Nvidia has expanded DGX Spark's clustering capabilities, allowing users to connect up to eight systems for a combined 1 TB of unified memory. The company has also announced inference optimisations promising up to 40% faster agentic AI workloads on select RTX hardware, alongside improvements for DGX "
     },
     {
-      "title": "You can now manage Gemini Notebooks directly from your Gemini chats",
-      "url": "https://www.androidauthority.com/gemini-notebook-connected-app-3727634/",
-      "source": "Android Authority",
+      "title": "This crowdfunded $109 hub wants to pool the RAM in your old PCs, Macs, and phones to run bigger AI models — but the engine underneath is software you can already get for free",
+      "url": "https://www.techradar.com/pro/this-crowdfunded-usd109-hub-wants-to-pool-the-ram-in-your-old-pcs-macs-and-phones-to-run-bigger-ai-models-but-the-engine-underneath-is-software-you-can-already-get-for-free",
+      "source": "TechRadar",
+      "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "New release: Gemini Notebook is now a Connected App inside Gemini, so you can manage notebooks from a chat without switching apps.",
-      "published_iso": "2026-10-24T16:00:39Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/11/gemini-logo-november-2025-1-scaled.jpg",
-      "excerpt": "Google's helpful learning tool Gemini Notebook is now available as a Connected App you can find in the Gemini app."
+      "rationale": "New product: the RAMDeck hub pools memory from your idle devices to run larger local models while DDR5 prices are spiking. TechRadar notes it is slow and that the underlying engine is free software, which makes it a useful reality check.",
+      "published_iso": "2026-10-25T19:30:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/sTBjr37ftwL8aDtGAbAG78-1920-80.jpg",
+      "excerpt": "Can't stomach DDR5 at five times last year's price? RAMDeck wants to borrow your other devices' memory instead, and it admits that won't be fast."
     },
     {
-      "title": "Unitree says its 'self-evolving robots' are coming to take on Tesla Optimus",
-      "url": "https://www.techradar.com/ai-platforms-assistants/unitree-says-its-self-evolving-robots-are-the-next-big-leap-for-humanoids-as-tesla-optimus-production-ramps-up-to-hit-20-000-robots-a-week",
-      "source": "TechRadar",
+      "title": "Someone turned their monitor into a laser pointer firing range game using Claude Code",
+      "url": "https://www.xda-developers.com/someone-turned-their-monitor-into-a-laser-pointer-firing-range-game-using-claude-code/",
+      "source": "XDA",
+      "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#eb367f",
       "motif": "headset",
-      "rationale": "New announcements: Unitree's 'self-evolving' robot claim, alongside fresh Tesla Optimus production numbers (20,000 a week) and Figure updates. It is a current snapshot of how fast humanoid robots are moving to scale.",
-      "published_iso": "2026-10-24T11:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/V2rMm5vvzgypJFNAvyFpjE-2000-80.jpg",
-      "excerpt": "We've got robotics updates from Unitree, Tesla, and Figure, as the companies announce their latest progress."
+      "rationale": "New maker project: a webcam and laser pointer turn an ordinary monitor into a light-gun-style shooting range, built with Claude Code. It shows AI coding agents being used to prototype physical-interaction hardware quickly.",
+      "published_iso": "2026-10-25T04:13:01Z",
+      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/claude-laser-range-featured.jpg?w=1600&h=900&fit=crop",
+      "excerpt": "It's like a light gun game, but with lasers."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.androidauthority.com/gemini-web-apps-google-sites-export-3727259/": {
+      "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors": {
         "verdict": "new",
-        "nearest": "https://www.zdnet.com/tech/custom-android-apps-google-ai-studio/",
+        "nearest": "https://www.tomshardware.com/desktops/mini-pcs/early-amd-gorgon-halo-ai-mini-pc-packs-192gb-ram-for-an-eye-watering-usd7-099-super-early-bird-deal-cuts-down-price-of-gmktec-evo-x5-with-ryzen-ai-max-pro-495-by-usd425",
         "new_action": ""
       },
-      "https://zdnet.co.kr/view/?no=20261023193807": {
-        "verdict": "new",
-        "nearest": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
-        "new_action": ""
-      },
-      "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/": {
-        "verdict": "new",
-        "nearest": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
-        "new_action": ""
-      },
-      "https://www.androidauthority.com/gemini-notebook-connected-app-3727634/": {
+      "https://9to5google.com/2026/10/23/gemini-settings-redesign-android/": {
         "verdict": "new",
         "nearest": "https://9to5google.com/2026/09/28/pixel-buds-gemini-controls/",
         "new_action": ""
       },
-      "https://www.techradar.com/ai-platforms-assistants/unitree-says-its-self-evolving-robots-are-the-next-big-leap-for-humanoids-as-tesla-optimus-production-ramps-up-to-hit-20-000-robots-a-week": {
+      "https://www.notebookcheck.net/Nvidia-s-DGX-Spark-can-now-join-forces-with-seven-others-to-deliver-1-TB-of-memory.1430472.0.html": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
+        "nearest": "https://www.tomshardware.com/pc-components/gpus/nvidia-introduces-64gb-dgx-spark-to-throw-local-ai-fans-a-lifeline-amid-the-rampocalypse-new-gb10-config-starts-at-usd4999-for-those-who-can-work-with-less",
+        "new_action": ""
+      },
+      "https://www.techradar.com/pro/this-crowdfunded-usd109-hub-wants-to-pool-the-ram-in-your-old-pcs-macs-and-phones-to-run-bigger-ai-models-but-the-engine-underneath-is-software-you-can-already-get-for-free": {
+        "verdict": "new",
+        "nearest": "https://www.tomshardware.com/tech-industry/artificial-intelligence/apple-researchers-turn-idle-macs-into-a-virtual-gpu-cloud-with-minions-researchers-say-the-distributed-scheme-could-scale-globally-and-support-model-training",
+        "new_action": ""
+      },
+      "https://www.xda-developers.com/someone-turned-their-monitor-into-a-laser-pointer-firing-range-game-using-claude-code/": {
+        "verdict": "new",
+        "nearest": "",
         "new_action": ""
       }
     },
-    "note": "Dropped as repeats or follow-ups without a new event: 9to5Mac Perplexity local Mac (likely-repeat, same launch as the 10-21 Engadget card); Notebookcheck Mori robot (same product as the 10-23 CNET Mori card, and its pricing update is not a new release); WIRED Ray-Ban Meta Audio review (a review of the product launch covered 10-05 and 10-06); Ars Ray-Ban Meta audio-recording bug (same story as the 10-14 Android Authority 'listening without being asked' card). Dropped as sponsored: 9to5Google INMO GO3 (yesterday's fact-check found it is a 'Sponsored Post'). Dropped as non-AI-led, advertorial or essay: Razer Basilisk V4 Pro review (a mouse review where AI is a button); Samsung Newsroom 'The Brief' (corporate PR seminar); 9to5Google Meta-glasses dashcam (first-person essay); 9to5Mac Siri goalposts (opinion with no new release); Snap RDJ Specs (talent hire, AI not central). Passed over for diversity: ZDNET Kindle+ AI audiobooks (Books-section territory, so a cross-section clash risk); 9to5Google Gemini side panel redesign (a third Gemini item); 전자신문 Mantis construction robot (a third robot item). The Unitree pick is new: its 'self-evolving robots' claim is a different announcement from the 10-14 Unitree CEO 'ChatGPT moment' card and the 10-22 H2-X bodyguard robot card, and the Optimus 20k/week ramp is new data, not the 09-26 growing-pains story. Diversity: 4 outlets (Android Authority x2, within cap; 지디넷코리아; TechCrunch; TechRadar). The two Android Authority picks are different Gemini features (Sites export versus Notebook connected app), not a content-hub duplicate."
+    "note": "SWAP (2026-10-26 re-curation): removed the Tom's Hardware Samsung TV AI ad-tracking pick (https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-...) because marketing claimed the same URL today and keeps it. Replaced it with the TechRadar TOPC TXA2 workstation, the next-best fresh candidate. It is a distinct product from the 09-29 GMKtec EVO-X5 'Gorgon Halo' card (same chip family, different vendor and machine), is not claimed by any other section today, and keeps TechRadar at 2 cards (cap is 2). Also skipped for the swap: Verge vibe-coding TVs (design claimed it today, and it is the same trend as the 10-20 TechCrunch card); Android Authority Kindle handwritten notes (no AI angle); Road to VR OpenXR multitasking (not AI-led). Original dedup decisions are unchanged. Dropped as repeats of published stories: 9to5Mac Perplexity local Mac (likely-repeat of the 10-21 Engadget card); Notebookcheck Unitree H2-X (same as the 10-22 TechRadar card); CNET Birdbuddy Nook (same as the 10-23 Verge card); Notebookcheck Mori robot (same as the 10-23 CNET card, and a pricing update is not a new release); 9to5Google Gemini Android Auto Personal Intelligence (same launch as the 10-21 blog.google card); Ars Ray-Ban Meta audio-recording bug (same as the 10-14 Android Authority 'listening' card). Dropped as reviews or how-tos of already-published products: Tom's Guide Alexa Tablet 12 Pro review; WIRED Ray-Ban Meta Audio review; Ars Surface Laptop Ultra review; Engadget 4 Ray-Ban Meta privacy settings; Engadget AI glasses vs headphones. Dropped as sponsored: 9to5Google INMO GO3. Dropped as opinion, evergreen or weak on AI: 9to5Mac Apple Glasses and Siri essays; Android Authority AI ringtone prompts guide; Razer Basilisk V4 Pro review; Sandisk Made-for-Meta storage. Diversity: 4 distinct outlets (TechRadar x2, 9to5Google, Notebookcheck, XDA)."
   }
 }

@@ -1,28 +1,7 @@
-{
- "media": [
-  {
-   "id": "politics-enisa-ai-evaluation",
-   "type": "svg"
-  },
-  {
-   "id": "politics-ai-distillation-bill",
-   "type": "image",
-   "src": "pipeline/media/politics-ai-distillation-bill.jpg"
-  },
-  {
-   "id": "politics-php-flaw-ai-scramble",
-   "type": "image",
-   "src": "pipeline/media/politics-php-flaw-ai-scramble.jpg"
-  },
-  {
-   "id": "politics-palantir-nato-kill-switch",
-   "type": "image",
-   "src": "pipeline/media/politics-palantir-nato-kill-switch.jpg"
-  },
-  {
-   "id": "politics-openai-monitoring-red-team",
-   "type": "image",
-   "src": "pipeline/media/politics-openai-monitoring-red-team.jpg"
-  }
- ]
-}
+{"date":"2026-10-26","section":"politics","media":[
+{"id":"politics-treasury-outbound-ai","type":"image","src":"pipeline/media/politics-treasury-outbound-ai.jpg"},
+{"id":"politics-uk-chancellor-ai-package","type":"image","src":"pipeline/media/politics-uk-chancellor-ai-package.jpg"},
+{"id":"politics-spain-deepfake-video","type":"image","src":"pipeline/media/politics-spain-deepfake-video.jpg"},
+{"id":"politics-texas-paxton-openai","type":"image","src":"pipeline/media/politics-texas-paxton-openai.jpg"},
+{"id":"politics-deepseek-minimax-export","type":"image","src":"pipeline/media/politics-deepseek-minimax-export.jpg"}
+]}

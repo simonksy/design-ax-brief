@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "section": "games",
   "cards": [
     {
-      "id": "games-rtx-remix-16",
+      "id": "games-decomp-clampdown",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "RTX Remix 1.6에\nDLSS 5·Java 지원",
-      "body": "NVIDIA RTX Remix 1.6에 DLSS 5·최대 6X 프레임 생성이 왔다.",
-      "mini_headline": "RTX Remix 1.6에 DLSS 5",
+      "headline": "Claude·OpenAI\n무단 디컴파일 단속",
+      "body": "Anthropic 차단, OpenAI 계정 정지로 AI-made 포트가 주춤한다.",
+      "mini_headline": "Claude·OpenAI, 디컴파일 단속",
       "tool": "Games",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/nvidia-rtx-remix-1-6-launches-with-dlss-5-6x-multi-frame-generation-minecraft-java-edition-support-and-more/",
+      "source": "TheGamer",
+      "url": "https://www.thegamer.com/claude-openai-update-browser-ports-recomps-harder/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -19,227 +19,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-14.jpg"
+            "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/resetti-from-animal-crossing-angrily-bursting-onto-a-blank-web-browser.jpg?w=1600&h=900&fit=crop"
           },
           {
             "t": "p",
-            "x": "NVIDIA가 open-source 모딩 플랫폼 RTX Remix 1.6을 공개했다. GitHub와 NVIDIA App에서 받을 수 있다. 이번 버전에는 3D-Guided Neural Rendering을 갖춘 DLSS 5, 최대 6X Multi Frame Generation, Windows on ARM 네이티브 지원, 범위를 넓힌 AI-powered 에셋 도구, Minecraft Java Edition 실험 지원이 들어갔다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/DLSS-5-OFF-vs-ON.jpg",
-            "cap": "이미지 출처: NVIDIA."
+            "x": "지난 한 달 사이 브라우저 포트와 리컴프가 부쩍 쏟아진 걸 눈치챈 사람도 있을 것이다. 예전 같으면 몇 년은 걸렸을 작업이다. Claude 같은 AI 도구가 최근 크게 발전해, 프로그래밍 경험이 없어도 누구나 소프트웨어를 리버스 엔지니어링할 수 있게 됐다."
           },
           {
             "t": "p",
-            "x": "DLSS 5는 게임의 지오메트리·텍스처·조명을 참고해 AI로 조명과 재질을 다듬는다. 모더는 세 가지 모델(A, B, C) 가운데 하나를 골라 하이라이트와 볼류메트릭을 조정하고 per-material 제어 마스크도 쓸 수 있다. 5X와 6X Multi Frame Generation은 GeForce RTX 50 Series GPUs 지원 모델에서 쓸 수 있다."
+            "x": "공들여 작업해 온 취미 개발자들은 바이브 코딩으로 찍어낸 조악한 결과물에 자기 작업이 묻힌다고 불만이다. 퍼블리셔들은 끝없는 두더지 잡기에 빠졌다. AI가 PHP의 10년 묵은 결함을 불과 몇 시간 만에 찾아낸 일도 있었다."
           },
           {
             "t": "p",
-            "x": "RTX Remix for Minecraft는 Fabric-based 모드다. 새 API-based 파이프라인으로 path-traced 렌더러를 Java Edition 1.21.1에 들여온다. NVIDIA는 모드 호환성이 제한된 초기 베타라고 밝혔다."
+            "x": "압박은 실제로 체감된다. Anthropic과 OpenAI가 단속에 나섰다. Anthropic은 실시간 사이버보안 안전 분류기를 업데이트해 커뮤니티가 만든 Reverse Engineer Anything(REA) 프레임워크로 돌리던 자동 디컴파일을 막았다. OpenAI는 \"Cyber Abuse\"를 이유로 계정을 비활성화하는 중이라고 한다. 바이브 코딩 리컴프와 브라우저 포트 상당수가 이 도구들에 기대 왔으니, 손쉽게 만든 포트의 범람도 벌써 잦아드는 중일지 모른다. 하지만 판도라의 상자(Pandora's Box)는 이미 열렸고 다시 닫히지 않는다."
           },
           {
             "t": "p",
-            "x": "ComfyUI Integration 2.0이 텍스처와 메시를 만들던 기존 AI 에셋 도구를 대신한다. headless Toolkit과 개선된 MCP 연동으로 호환 AI 에이전트가 모딩 작업 일부를 자동화할 수 있다."
-          },
-          {
-            "t": "video",
-            "yt": "WT3twFB0PD8"
+            "x": "사용자들은 벌써 로컬이나 오픈소스 대안, 특히 중국산 AI 프로그램으로 옮겨 가 리버스 엔지니어링을 계속한다. 필자가 보기에 진짜 핵심은 따로 있다. AI 에이전트가 패치 속도보다 빠르게 공공 인프라를 공격할 수 있다는 점이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "RTX Remix 1.6 adds DLSS 5\nand Minecraft Java support",
-          "body": "NVIDIA's RTX Remix 1.6 brings DLSS 5 and up to 6X Multi Frame Generation, plus experimental Minecraft Java support.",
-          "mini_headline": "RTX Remix 1.6 gets DLSS 5",
+          "headline": "Claude and OpenAI clamp down\non unauthorized decomps",
+          "body": "Anthropic now blocks automated decompilation and OpenAI reportedly bans accounts, slowing AI-made browser ports.",
+          "mini_headline": "Claude, OpenAI curb decomps",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-14.jpg"
+                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/resetti-from-animal-crossing-angrily-bursting-onto-a-blank-web-browser.jpg?w=1600&h=900&fit=crop"
               },
               {
                 "t": "p",
-                "x": "NVIDIA has released RTX Remix 1.6 for its open-source modding platform, available through GitHub and the NVIDIA App. It introduces DLSS 5 with 3D-Guided Neural Rendering, up to 6X Multi Frame Generation, native Windows on ARM support, expanded AI-powered asset tools, and experimental support for Minecraft Java Edition."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/DLSS-5-OFF-vs-ON.jpg",
-                "cap": "Image credit: NVIDIA."
+                "x": "You might have noticed a sudden wave of browser ports and recomps over the last month, when, historically, they've taken years to develop. That's because of the recent advancements in AI tools like Claude, which have allowed anyone, regardless of programming background, to reverse engineer software."
               },
               {
                 "t": "p",
-                "x": "DLSS 5 uses AI to enhance lighting and materials while accounting for the game's geometry, textures and lighting. Modders get three model selections (A, B and C), highlight and volumetric adjustments, and per-material control masks. 5X and 6X Multi Frame Generation arrive on supported GeForce RTX 50 Series GPUs."
+                "x": "Hobbyists who put in actual effort are frustrated that their work is being drowned out by vibecoded slop, publishers are stuck in an endless game of whack-a-mole, and AI was used to uncover decade-old flaws in PHP within a matter of hours."
               },
               {
                 "t": "p",
-                "x": "RTX Remix for Minecraft is a Fabric-based mod bringing the path-traced renderer to Java Edition 1.21.1 through a new API-based pipeline. NVIDIA calls it an early beta with limited mod compatibility."
+                "x": "Clearly, the pressure is being felt, as Anthropic and OpenAI are now clamping down. Anthropic has updated its real-time cybersecurity safety classifiers to block users from automated decompilation via the community-created Reverse Engineer Anything (REA) framework, while OpenAI is reportedly deactivating accounts for \"Cyber Abuse.\" Given how many vibecoded recomps and browser ports relied on these tools, the sudden onslaught of low-effort ports might already be slowing down. However, now that Pandora's Box is open, it can't be closed."
               },
               {
                 "t": "p",
-                "x": "ComfyUI Integration 2.0 replaces the earlier AI asset tools for generating textures and meshes, while a headless Toolkit and improved MCP integration let compatible AI agents automate parts of the modding workflow."
-              },
-              {
-                "t": "video",
-                "yt": "WT3twFB0PD8"
+                "x": "Users are already turning to local or open-source alternatives, namely Chinese-developed AI programs, to continue reverse engineering software. The real headline, the writer argues, is that AI agents can target public infrastructure faster than it can be patched."
               }
             ]
           }
         },
         "ko": {
-          "headline": "RTX Remix 1.6에\nDLSS 5·Java 지원",
-          "body": "NVIDIA RTX Remix 1.6에 DLSS 5·최대 6X 프레임 생성이 왔다.",
-          "mini_headline": "RTX Remix 1.6에 DLSS 5",
+          "headline": "Claude·OpenAI\n무단 디컴파일 단속",
+          "body": "Anthropic 차단, OpenAI 계정 정지로 AI-made 포트가 주춤한다.",
+          "mini_headline": "Claude·OpenAI, 디컴파일 단속",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-14.jpg"
+                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/resetti-from-animal-crossing-angrily-bursting-onto-a-blank-web-browser.jpg?w=1600&h=900&fit=crop"
               },
               {
                 "t": "p",
-                "x": "NVIDIA가 open-source 모딩 플랫폼 RTX Remix 1.6을 공개했다. GitHub와 NVIDIA App에서 받을 수 있다. 이번 버전에는 3D-Guided Neural Rendering을 갖춘 DLSS 5, 최대 6X Multi Frame Generation, Windows on ARM 네이티브 지원, 범위를 넓힌 AI-powered 에셋 도구, Minecraft Java Edition 실험 지원이 들어갔다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/DLSS-5-OFF-vs-ON.jpg",
-                "cap": "이미지 출처: NVIDIA."
+                "x": "지난 한 달 사이 브라우저 포트와 리컴프가 부쩍 쏟아진 걸 눈치챈 사람도 있을 것이다. 예전 같으면 몇 년은 걸렸을 작업이다. Claude 같은 AI 도구가 최근 크게 발전해, 프로그래밍 경험이 없어도 누구나 소프트웨어를 리버스 엔지니어링할 수 있게 됐다."
               },
               {
                 "t": "p",
-                "x": "DLSS 5는 게임의 지오메트리·텍스처·조명을 참고해 AI로 조명과 재질을 다듬는다. 모더는 세 가지 모델(A, B, C) 가운데 하나를 골라 하이라이트와 볼류메트릭을 조정하고 per-material 제어 마스크도 쓸 수 있다. 5X와 6X Multi Frame Generation은 GeForce RTX 50 Series GPUs 지원 모델에서 쓸 수 있다."
+                "x": "공들여 작업해 온 취미 개발자들은 바이브 코딩으로 찍어낸 조악한 결과물에 자기 작업이 묻힌다고 불만이다. 퍼블리셔들은 끝없는 두더지 잡기에 빠졌다. AI가 PHP의 10년 묵은 결함을 불과 몇 시간 만에 찾아낸 일도 있었다."
               },
               {
                 "t": "p",
-                "x": "RTX Remix for Minecraft는 Fabric-based 모드다. 새 API-based 파이프라인으로 path-traced 렌더러를 Java Edition 1.21.1에 들여온다. NVIDIA는 모드 호환성이 제한된 초기 베타라고 밝혔다."
+                "x": "압박은 실제로 체감된다. Anthropic과 OpenAI가 단속에 나섰다. Anthropic은 실시간 사이버보안 안전 분류기를 업데이트해 커뮤니티가 만든 Reverse Engineer Anything(REA) 프레임워크로 돌리던 자동 디컴파일을 막았다. OpenAI는 \"Cyber Abuse\"를 이유로 계정을 비활성화하는 중이라고 한다. 바이브 코딩 리컴프와 브라우저 포트 상당수가 이 도구들에 기대 왔으니, 손쉽게 만든 포트의 범람도 벌써 잦아드는 중일지 모른다. 하지만 판도라의 상자(Pandora's Box)는 이미 열렸고 다시 닫히지 않는다."
               },
               {
                 "t": "p",
-                "x": "ComfyUI Integration 2.0이 텍스처와 메시를 만들던 기존 AI 에셋 도구를 대신한다. headless Toolkit과 개선된 MCP 연동으로 호환 AI 에이전트가 모딩 작업 일부를 자동화할 수 있다."
-              },
-              {
-                "t": "video",
-                "yt": "WT3twFB0PD8"
+                "x": "사용자들은 벌써 로컬이나 오픈소스 대안, 특히 중국산 AI 프로그램으로 옮겨 가 리버스 엔지니어링을 계속한다. 필자가 보기에 진짜 핵심은 따로 있다. AI 에이전트가 패치 속도보다 빠르게 공공 인프라를 공격할 수 있다는 점이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "RTX Remix 1.6に\nDLSS 5とJava対応",
-          "body": "NVIDIAのRTX Remix 1.6にDLSS 5と最大 6X フレーム生成が加わった。",
-          "mini_headline": "RTX Remix 1.6にDLSS 5",
+          "headline": "Claude・OpenAI\n無断デコンパイル規制",
+          "body": "Anthropicの遮断とOpenAIのアカウント凍結で、AI-made移植が鈍っている。",
+          "mini_headline": "Claude・OpenAI、デコンパイルを規制",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-14.jpg"
+                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/resetti-from-animal-crossing-angrily-bursting-onto-a-blank-web-browser.jpg?w=1600&h=900&fit=crop"
               },
               {
                 "t": "p",
-                "x": "NVIDIAは、open-source のモッディングプラットフォームRTX Remix 1.6を公開した。GitHubとNVIDIA Appから入手できる。3D-Guided Neural Renderingを備えたDLSS 5、最大 6X のMulti Frame Generation、Windows on ARMのネイティブ対応、拡充されたAI-poweredアセットツール、そしてMinecraft Java Editionの実験的対応を導入する。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/DLSS-5-OFF-vs-ON.jpg",
-                "cap": "画像：NVIDIA。"
+                "x": "この1か月で、ブラウザ移植やリコンプが急に相次いだことに気づいた人もいるだろう。従来なら開発に何年もかかっていたものだ。Claudeのような AI ツールが近年大きく進歩し、プログラミングの経験を問わず誰でもソフトウェアをリバースエンジニアリングできるようになったためである。"
               },
               {
                 "t": "p",
-                "x": "DLSS 5はゲームのジオメトリ、テクスチャ、ライティングを考慮しつつ、AIで照明と質感を向上させる。モッダーは三つのモデル（A、B、C）の選択、ハイライトとボリュメトリックの調整、per-material の制御マスクを使える。5X と 6X のMulti Frame Generationは、対応するGeForce RTX 50 Series GPUsで利用できる。"
+                "x": "地道に手をかけてきた愛好家は、自分の作品がバイブコーディングで量産された粗悪品に埋もれることに不満を募らせている。パブリッシャーは終わりのないもぐら叩きから抜け出せず、AIはPHPに潜む10年来の欠陥をわずか数時間で見つけ出すのに使われた。"
               },
               {
                 "t": "p",
-                "x": "RTX Remix for MinecraftはFabric-basedのモッドで、新しいAPI-basedパイプラインを通じてpath-tracedレンダラーをJava Edition 1.21.1にもたらす。NVIDIAはこれを、モッド互換性が限られた初期ベータだとしている。"
+                "x": "圧力が効いているのは明らかで、AnthropicとOpenAIは取り締まりに乗り出した。Anthropicはリアルタイムのサイバーセキュリティ安全分類器を更新し、コミュニティ製のReverse Engineer Anything（REA）フレームワークを使った自動デコンパイルを遮断した。OpenAIは\"Cyber Abuse\"を理由にアカウントを停止していると報じられている。バイブコーディングによるリコンプやブラウザ移植の多くがこれらのツールに頼っていたことを考えると、手軽な移植の急増はすでに鈍りつつあるのかもしれない。とはいえ、パンドラの箱（Pandora's Box）はすでに開いており、閉じることはできない。"
               },
               {
                 "t": "p",
-                "x": "ComfyUI Integration 2.0は、テクスチャやメッシュを生成する従来のAIアセットツールに代わるものだ。headless Toolkitと改良されたMCP連携により、対応するAIエージェントがモッディング作業の一部を自動化できる。"
-              },
-              {
-                "t": "video",
-                "yt": "WT3twFB0PD8"
+                "x": "ユーザーはすでにローカルやオープンソースの代替手段、とりわけ中国で開発されたAIプログラムに移り、リバースエンジニアリングを続けている。筆者は、本当の問題はAIエージェントがパッチより速く公共インフラを狙えることだと論じている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "RTX Remix 1.6\n加入DLSS 5与Java",
-          "body": "NVIDIA RTX Remix 1.6加入DLSS 5、最高6X 多帧生成及Java支持。",
-          "mini_headline": "RTX Remix 1.6加入DLSS 5",
+          "headline": "Claude与OpenAI\n严打未经授权反编译",
+          "body": "Anthropic封堵自动反编译，OpenAI据报封号，AI-made移植随之放缓。",
+          "mini_headline": "Claude、OpenAI限制反编译",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-14.jpg"
+                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/resetti-from-animal-crossing-angrily-bursting-onto-a-blank-web-browser.jpg?w=1600&h=900&fit=crop"
               },
               {
                 "t": "p",
-                "x": "NVIDIA发布了其open-source模组平台RTX Remix 1.6，可通过GitHub和NVIDIA App获取。新版引入搭载3D-Guided Neural Rendering的DLSS 5、最高6X 的Multi Frame Generation、原生Windows on ARM支持、扩展的AI-powered素材工具，以及对Minecraft Java Edition的实验性支持。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/DLSS-5-OFF-vs-ON.jpg",
-                "cap": "图片来源：NVIDIA。"
+                "x": "你或许已经注意到，过去一个月里浏览器移植和重编译作品突然大量涌现，而以往这类作品往往要花数年开发。原因在于Claude等AI工具近来的进步，让任何人无论有无编程背景，都能对软件进行逆向工程。"
               },
               {
                 "t": "p",
-                "x": "DLSS 5借助AI增强光照与材质，同时兼顾游戏的几何、纹理和光照。模组作者可在三种模型（A、B、C）中选择，调整高光与体积效果，并使用per-material控制遮罩。5X 和6X 的Multi Frame Generation将在受支持的GeForce RTX 50 Series GPUs上提供。"
+                "x": "真正下过功夫的爱好者不满自己的作品被氛围编程堆出的劣质内容淹没，发行商陷入没完没了的打地鼠游戏，而AI还被用来在短短几小时内找出PHP中存在了十年的漏洞。"
               },
               {
                 "t": "p",
-                "x": "RTX Remix for Minecraft是一款Fabric-based模组，通过全新的API-based管线，将path-traced渲染器带到Java Edition 1.21.1。NVIDIA称其为早期测试版，模组兼容性有限。"
+                "x": "压力显然已经传导开来，Anthropic和OpenAI正在收紧管控。Anthropic更新了实时网络安全分类器，阻止用户借助社区开发的Reverse Engineer Anything（REA）框架进行自动反编译；据报道，OpenAI则以\"Cyber Abuse\"为由停用账户。鉴于大量氛围编程的重编译和浏览器移植都依赖这些工具，低投入移植作品的突然泛滥或许已经开始放缓。不过，潘多拉魔盒（Pandora's Box）既已打开，就再也关不上了。"
               },
               {
                 "t": "p",
-                "x": "ComfyUI Integration 2.0取代了此前用于生成纹理和网格的AI素材工具，而headless Toolkit与改进的MCP集成，让兼容的AI代理可以自动完成部分模组工作流程。"
-              },
-              {
-                "t": "video",
-                "yt": "WT3twFB0PD8"
+                "x": "用户已经转向本地或开源替代方案，尤其是中国开发的AI程序，继续对软件进行逆向工程。作者认为，真正值得关注的是：AI智能体攻击公共基础设施的速度，已经快过修补的速度。"
               }
             ]
           }
         },
         "es": {
-          "headline": "RTX Remix 1.6 suma DLSS 5\ny soporte para Minecraft Java",
-          "body": "NVIDIA lanza RTX Remix 1.6 con DLSS 5, hasta 6X Multi Frame Generation y soporte experimental de Minecraft Java.",
-          "mini_headline": "RTX Remix 1.6 recibe DLSS 5",
+          "headline": "Claude y OpenAI frenan las\ndescompilaciones no autorizadas",
+          "body": "Anthropic bloquea la descompilación automatizada y OpenAI cerraría cuentas, frenando los ports AI-made.",
+          "mini_headline": "Claude y OpenAI frenan las descompilaciones",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-14.jpg"
+                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/resetti-from-animal-crossing-angrily-bursting-onto-a-blank-web-browser.jpg?w=1600&h=900&fit=crop"
               },
               {
                 "t": "p",
-                "x": "NVIDIA ha lanzado RTX Remix 1.6 para su plataforma open-source de modding, disponible en GitHub y en la NVIDIA App. Introduce DLSS 5 con 3D-Guided Neural Rendering, hasta 6X Multi Frame Generation, soporte nativo para Windows on ARM, herramientas de recursos AI-powered ampliadas y soporte experimental para Minecraft Java Edition."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/DLSS-5-OFF-vs-ON.jpg",
-                "cap": "Imagen: NVIDIA."
+                "x": "Quizá haya notado una oleada repentina de ports para navegador y recompilaciones en el último mes, cuando históricamente tardaban años en desarrollarse. Se debe a los avances recientes en herramientas de AI como Claude, que han permitido a cualquiera, sin importar su formación en programación, aplicar ingeniería inversa al software."
               },
               {
                 "t": "p",
-                "x": "DLSS 5 usa AI para mejorar la iluminación y los materiales teniendo en cuenta la geometría, las texturas y la iluminación del juego. Los modders disponen de tres modelos a elegir (A, B y C), ajustes de brillos y volumétricos, y máscaras de control per-material. 5X y 6X Multi Frame Generation llegan a las GPUs GeForce RTX 50 Series compatibles."
+                "x": "Los aficionados que sí se esfuerzan están frustrados porque su trabajo queda sepultado bajo basura hecha con vibe coding, las editoras están atrapadas en un interminable juego de golpear al topo, y la AI se usó para descubrir en cuestión de horas fallos de PHP con una década de antigüedad."
               },
               {
                 "t": "p",
-                "x": "RTX Remix for Minecraft es un mod Fabric-based que lleva el renderizador path-traced a Java Edition 1.21.1 mediante un nuevo pipeline API-based. NVIDIA lo describe como una beta temprana con compatibilidad limitada con otros mods."
+                "x": "Está claro que la presión se nota, porque Anthropic y OpenAI han empezado a poner freno. Anthropic actualizó sus clasificadores de seguridad cibernética en tiempo real para impedir la descompilación automatizada mediante el framework comunitario Reverse Engineer Anything (REA), mientras que OpenAI estaría desactivando cuentas por \"Cyber Abuse\". Dado que muchas recompilaciones y ports para navegador hechos con vibe coding dependían de estas herramientas, la avalancha de ports de bajo esfuerzo podría estar frenándose ya. Sin embargo, ahora que la caja de Pandora (Pandora's Box) está abierta, no se puede cerrar."
               },
               {
                 "t": "p",
-                "x": "ComfyUI Integration 2.0 sustituye a las anteriores herramientas de AI para generar texturas y mallas, mientras que un headless Toolkit y una integración mejorada con MCP permiten que agentes de AI compatibles automaticen partes del flujo de trabajo de modding."
-              },
-              {
-                "t": "video",
-                "yt": "WT3twFB0PD8"
+                "x": "Los usuarios ya recurren a alternativas locales o de código abierto, en concreto programas de AI desarrollados en China, para seguir aplicando ingeniería inversa al software. Lo verdaderamente relevante, sostiene el autor, es que los agentes de AI pueden atacar infraestructura pública más rápido de lo que se puede parchear."
               }
             ]
           }
@@ -247,157 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "RTX Remix 1.6에\nDLSS 5·Java 지원",
-          "body": "NVIDIA RTX Remix 1.6에 DLSS 5·최대 6X 프레임 생성이 왔다.",
-          "mini_headline": "RTX Remix 1.6에 DLSS 5",
+          "headline": "Claude·OpenAI\n무단 디컴파일 단속",
+          "body": "Anthropic 차단, OpenAI 계정 정지로 AI-made 포트가 주춤한다.",
+          "mini_headline": "Claude·OpenAI, 디컴파일 단속",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-14.jpg"
+                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/resetti-from-animal-crossing-angrily-bursting-onto-a-blank-web-browser.jpg?w=1600&h=900&fit=crop"
               },
               {
                 "t": "p",
-                "x": "NVIDIA가 open-source 모딩 플랫폼 RTX Remix 1.6을 공개했다. GitHub와 NVIDIA App에서 받을 수 있다. 이번 버전은 3D-Guided Neural Rendering을 갖춘 DLSS 5, 최대 6X Multi Frame Generation, Windows on ARM 네이티브 지원, 한층 넓어진 AI-powered 에셋 도구, Minecraft Java Edition 실험 지원을 담았다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/DLSS-5-OFF-vs-ON.jpg",
-                "cap": "이미지 출처: NVIDIA."
+                "x": "지난 한 달 사이 브라우저 포트와 리컴프가 갑자기 쏟아진 것을 눈치챘을지 모른다. 예전 같으면 개발에 몇 년이 걸리던 작업이다. Claude 같은 AI 도구가 최근 크게 발전하면서 프로그래밍 경험과 상관없이 누구나 소프트웨어를 리버스 엔지니어링할 수 있게 됐기 때문이다."
               },
               {
                 "t": "p",
-                "x": "DLSS 5는 게임의 지오메트리와 텍스처, 조명을 고려하면서 AI로 조명과 재질을 개선한다. 모더는 세 가지 모델(A, B, C)을 고를 수 있고, 하이라이트와 볼류메트릭을 조정하며, per-material 제어 마스크를 쓸 수 있다. 5X와 6X Multi Frame Generation은 지원되는 GeForce RTX 50 Series GPUs에서 쓸 수 있다."
+                "x": "공들여 작업해 온 취미 개발자들은 자신의 결과물이 바이브 코딩으로 찍어낸 저질 결과물에 묻힌다며 불만을 드러낸다. 퍼블리셔들은 끝없는 두더지 잡기에 갇혔고, AI는 PHP에 10년 묵은 결함을 불과 몇 시간 만에 찾아내는 데 쓰였다."
               },
               {
                 "t": "p",
-                "x": "RTX Remix for Minecraft는 Fabric-based 모드로, 새로운 API-based 파이프라인을 통해 path-traced 렌더러를 Java Edition 1.21.1에 가져온다. NVIDIA는 이를 모드 호환성이 제한된 초기 베타라고 밝혔다."
+                "x": "압박이 실제로 느껴지고 있다는 것은 분명하다. Anthropic과 OpenAI가 단속에 나섰기 때문이다. Anthropic은 실시간 사이버보안 안전 분류기를 업데이트해, 커뮤니티가 만든 Reverse Engineer Anything(REA) 프레임워크를 통한 자동 디컴파일을 막았다. OpenAI는 \"Cyber Abuse\"를 이유로 계정을 비활성화하고 있는 것으로 알려졌다. 바이브 코딩으로 만든 리컴프와 브라우저 포트 상당수가 이 도구들에 기대 왔던 만큼, 손쉽게 만든 포트의 갑작스러운 범람은 이미 잦아들고 있을지도 모른다. 다만 판도라의 상자(Pandora's Box)는 이미 열렸고, 다시 닫을 수는 없다."
               },
               {
                 "t": "p",
-                "x": "ComfyUI Integration 2.0은 텍스처와 메시를 생성하던 기존 AI 에셋 도구를 대체한다. headless Toolkit과 개선된 MCP 연동 덕분에 호환되는 AI 에이전트가 모딩 작업 일부를 자동화할 수 있다."
-              },
-              {
-                "t": "video",
-                "yt": "WT3twFB0PD8"
+                "x": "사용자들은 벌써 로컬 또는 오픈소스 대안, 특히 중국에서 개발한 AI 프로그램으로 옮겨 가 리버스 엔지니어링을 이어 가고 있다. 필자는 진짜 핵심은 AI 에이전트가 공공 인프라를 패치 속도보다 빠르게 공격할 수 있다는 점이라고 주장한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "RTX Remix 1.6に\nDLSS 5とJava対応",
-          "body": "NVIDIAのRTX Remix 1.6にDLSS 5と最大 6X フレーム生成が加わった。",
-          "mini_headline": "RTX Remix 1.6にDLSS 5",
+          "headline": "Claude・OpenAI\n無断デコンパイル規制",
+          "body": "Anthropicの遮断とOpenAIのアカウント凍結で、AI-made移植が鈍っている。",
+          "mini_headline": "Claude・OpenAI、デコンパイルを規制",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-14.jpg"
+                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/resetti-from-animal-crossing-angrily-bursting-onto-a-blank-web-browser.jpg?w=1600&h=900&fit=crop"
               },
               {
                 "t": "p",
-                "x": "NVIDIAは、open-source のモッディングプラットフォームRTX Remix 1.6を公開した。GitHubとNVIDIA Appから入手できる。3D-Guided Neural Renderingを備えたDLSS 5、最大 6X のMulti Frame Generation、Windows on ARMのネイティブ対応、拡充されたAI-poweredアセットツール、そしてMinecraft Java Editionの実験的対応を導入する。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/DLSS-5-OFF-vs-ON.jpg",
-                "cap": "画像：NVIDIA。"
+                "x": "この1か月で、ブラウザ移植やリコンプが急に相次いだことに気づいた人もいるだろう。従来なら開発に何年もかかっていたものだ。Claudeのような AI ツールが近年大きく進歩し、プログラミングの経験を問わず誰でもソフトウェアをリバースエンジニアリングできるようになったためである。"
               },
               {
                 "t": "p",
-                "x": "DLSS 5はゲームのジオメトリ、テクスチャ、ライティングを考慮しつつ、AIで照明と質感を向上させる。モッダーは三つのモデル（A、B、C）の選択、ハイライトとボリュメトリックの調整、per-material の制御マスクを使える。5X と 6X のMulti Frame Generationは、対応するGeForce RTX 50 Series GPUsで利用できる。"
+                "x": "地道に手をかけてきた愛好家は、自分の作品がバイブコーディングで量産された粗悪品に埋もれることに不満を募らせている。パブリッシャーは終わりのないもぐら叩きから抜け出せず、AIはPHPに潜む10年来の欠陥をわずか数時間で見つけ出すのに使われた。"
               },
               {
                 "t": "p",
-                "x": "RTX Remix for MinecraftはFabric-basedのモッドで、新しいAPI-basedパイプラインを通じてpath-tracedレンダラーをJava Edition 1.21.1にもたらす。NVIDIAはこれを、モッド互換性が限られた初期ベータだとしている。"
+                "x": "圧力が効いているのは明らかで、AnthropicとOpenAIは取り締まりに乗り出した。Anthropicはリアルタイムのサイバーセキュリティ安全分類器を更新し、コミュニティ製のReverse Engineer Anything（REA）フレームワークを使った自動デコンパイルを遮断した。OpenAIは\"Cyber Abuse\"を理由にアカウントを停止していると報じられている。バイブコーディングによるリコンプやブラウザ移植の多くがこれらのツールに頼っていたことを考えると、手軽な移植の急増はすでに鈍りつつあるのかもしれない。とはいえ、パンドラの箱（Pandora's Box）はすでに開いており、閉じることはできない。"
               },
               {
                 "t": "p",
-                "x": "ComfyUI Integration 2.0は、テクスチャやメッシュを生成する従来のAIアセットツールに代わるものだ。headless Toolkitと改良されたMCP連携により、対応するAIエージェントがモッディング作業の一部を自動化できる。"
-              },
-              {
-                "t": "video",
-                "yt": "WT3twFB0PD8"
+                "x": "ユーザーはすでにローカルやオープンソースの代替手段、とりわけ中国で開発されたAIプログラムに移り、リバースエンジニアリングを続けている。筆者は、本当の問題はAIエージェントがパッチより速く公共インフラを狙えることだと論じている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "RTX Remix 1.6\n加入DLSS 5与Java",
-          "body": "NVIDIA RTX Remix 1.6加入DLSS 5、最高6X 多帧生成及Java支持。",
-          "mini_headline": "RTX Remix 1.6加入DLSS 5",
+          "headline": "Claude与OpenAI\n严打未经授权反编译",
+          "body": "Anthropic封堵自动反编译，OpenAI据报封号，AI-made移植随之放缓。",
+          "mini_headline": "Claude、OpenAI限制反编译",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-14.jpg"
+                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/resetti-from-animal-crossing-angrily-bursting-onto-a-blank-web-browser.jpg?w=1600&h=900&fit=crop"
               },
               {
                 "t": "p",
-                "x": "NVIDIA发布了其open-source模组平台RTX Remix 1.6，可通过GitHub和NVIDIA App获取。新版引入搭载3D-Guided Neural Rendering的DLSS 5、最高6X 的Multi Frame Generation、原生Windows on ARM支持、扩展的AI-powered素材工具，以及对Minecraft Java Edition的实验性支持。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/DLSS-5-OFF-vs-ON.jpg",
-                "cap": "图片来源：NVIDIA。"
+                "x": "你或许已经注意到，过去一个月里浏览器移植和重编译作品突然大量涌现，而以往这类作品往往要花数年开发。原因在于Claude等AI工具近来的进步，让任何人无论有无编程背景，都能对软件进行逆向工程。"
               },
               {
                 "t": "p",
-                "x": "DLSS 5借助AI增强光照与材质，同时兼顾游戏的几何、纹理和光照。模组作者可在三种模型（A、B、C）中选择，调整高光与体积效果，并使用per-material控制遮罩。5X 和6X 的Multi Frame Generation将在受支持的GeForce RTX 50 Series GPUs上提供。"
+                "x": "真正下过功夫的爱好者不满自己的作品被氛围编程堆出的劣质内容淹没，发行商陷入没完没了的打地鼠游戏，而AI还被用来在短短几小时内找出PHP中存在了十年的漏洞。"
               },
               {
                 "t": "p",
-                "x": "RTX Remix for Minecraft是一款Fabric-based模组，通过全新的API-based管线，将path-traced渲染器带到Java Edition 1.21.1。NVIDIA称其为早期测试版，模组兼容性有限。"
+                "x": "压力显然已经传导开来，Anthropic和OpenAI正在收紧管控。Anthropic更新了实时网络安全分类器，阻止用户借助社区开发的Reverse Engineer Anything（REA）框架进行自动反编译；据报道，OpenAI则以\"Cyber Abuse\"为由停用账户。鉴于大量氛围编程的重编译和浏览器移植都依赖这些工具，低投入移植作品的突然泛滥或许已经开始放缓。不过，潘多拉魔盒（Pandora's Box）既已打开，就再也关不上了。"
               },
               {
                 "t": "p",
-                "x": "ComfyUI Integration 2.0取代了此前用于生成纹理和网格的AI素材工具，而headless Toolkit与改进的MCP集成，让兼容的AI代理可以自动完成部分模组工作流程。"
-              },
-              {
-                "t": "video",
-                "yt": "WT3twFB0PD8"
+                "x": "用户已经转向本地或开源替代方案，尤其是中国开发的AI程序，继续对软件进行逆向工程。作者认为，真正值得关注的是：AI智能体攻击公共基础设施的速度，已经快过修补的速度。"
               }
             ]
           }
         },
         "es": {
-          "headline": "RTX Remix 1.6 suma DLSS 5\ny soporte para Minecraft Java",
-          "body": "NVIDIA lanza RTX Remix 1.6 con DLSS 5, hasta 6X Multi Frame Generation y soporte experimental de Minecraft Java.",
-          "mini_headline": "RTX Remix 1.6 recibe DLSS 5",
+          "headline": "Claude y OpenAI frenan las\ndescompilaciones no autorizadas",
+          "body": "Anthropic bloquea la descompilación automatizada y OpenAI cerraría cuentas, frenando los ports AI-made.",
+          "mini_headline": "Claude y OpenAI frenan las descompilaciones",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-14.jpg"
+                "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/resetti-from-animal-crossing-angrily-bursting-onto-a-blank-web-browser.jpg?w=1600&h=900&fit=crop"
               },
               {
                 "t": "p",
-                "x": "NVIDIA ha lanzado RTX Remix 1.6 para su plataforma open-source de modding, disponible en GitHub y en la NVIDIA App. Introduce DLSS 5 con 3D-Guided Neural Rendering, hasta 6X Multi Frame Generation, soporte nativo para Windows on ARM, herramientas de recursos AI-powered ampliadas y soporte experimental para Minecraft Java Edition."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/DLSS-5-OFF-vs-ON.jpg",
-                "cap": "Imagen: NVIDIA."
+                "x": "Quizá haya notado una oleada repentina de ports para navegador y recompilaciones en el último mes, cuando históricamente tardaban años en desarrollarse. Se debe a los avances recientes en herramientas de AI como Claude, que han permitido a cualquiera, sin importar su formación en programación, aplicar ingeniería inversa al software."
               },
               {
                 "t": "p",
-                "x": "DLSS 5 usa AI para mejorar la iluminación y los materiales teniendo en cuenta la geometría, las texturas y la iluminación del juego. Los modders disponen de tres modelos a elegir (A, B y C), ajustes de brillos y volumétricos, y máscaras de control per-material. 5X y 6X Multi Frame Generation llegan a las GPUs GeForce RTX 50 Series compatibles."
+                "x": "Los aficionados que sí se esfuerzan están frustrados porque su trabajo queda sepultado bajo basura hecha con vibe coding, las editoras están atrapadas en un interminable juego de golpear al topo, y la AI se usó para descubrir en cuestión de horas fallos de PHP con una década de antigüedad."
               },
               {
                 "t": "p",
-                "x": "RTX Remix for Minecraft es un mod Fabric-based que lleva el renderizador path-traced a Java Edition 1.21.1 mediante un nuevo pipeline API-based. NVIDIA lo describe como una beta temprana con compatibilidad limitada con otros mods."
+                "x": "Está claro que la presión se nota, porque Anthropic y OpenAI han empezado a poner freno. Anthropic actualizó sus clasificadores de seguridad cibernética en tiempo real para impedir la descompilación automatizada mediante el framework comunitario Reverse Engineer Anything (REA), mientras que OpenAI estaría desactivando cuentas por \"Cyber Abuse\". Dado que muchas recompilaciones y ports para navegador hechos con vibe coding dependían de estas herramientas, la avalancha de ports de bajo esfuerzo podría estar frenándose ya. Sin embargo, ahora que la caja de Pandora (Pandora's Box) está abierta, no se puede cerrar."
               },
               {
                 "t": "p",
-                "x": "ComfyUI Integration 2.0 sustituye a las anteriores herramientas de AI para generar texturas y mallas, mientras que un headless Toolkit y una integración mejorada con MCP permiten que agentes de AI compatibles automaticen partes del flujo de trabajo de modding."
-              },
-              {
-                "t": "video",
-                "yt": "WT3twFB0PD8"
+                "x": "Los usuarios ya recurren a alternativas locales o de código abierto, en concreto programas de AI desarrollados en China, para seguir aplicando ingeniería inversa al software. Lo verdaderamente relevante, sostiene el autor, es que los agentes de AI pueden atacar infraestructura pública más rápido de lo que se puede parchear."
               }
             ]
           }
@@ -405,189 +315,189 @@
       }
     },
     {
-      "id": "games-unity-cli-agents",
+      "id": "games-tenderloin-takedown",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Unity CLI 실행은\n대부분 AI·자동화",
-      "body": "Unity CLI 이벤트 2억 건 이상 중 약 98%는 코딩 에이전트와 자동화였다.",
-      "mini_headline": "Unity CLI는 에이전트가 돌린다",
+      "headline": "Vibe-coded 좀비물\n샌프란시스코 반발에 퇴출",
+      "body": "개발자는 시 당국이 비인간적이라고 비판하자 게임을 내리고 사과했다.",
+      "mini_headline": "Tenderloin 좀비 게임 퇴출",
       "tool": "Games",
-      "source": "Unity",
-      "url": "https://unity.com/blog/unity-cli-usage-data-ai-coding-agents",
-      "accent": "#3b6bff",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/indie-game-dev-takes-down-vibe-coded-zombie-shooter-after-san-francisco-officials-condemn-dehumanizing-game",
+      "accent": "#f5a623",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.sanity.io/images/fuvbjjlp/production/55efa13879e7b4b911b21e5f69db2cda6b3dd703-1920x1080.png"
+            "src": "https://assets-prd.ignimgs.com/2026/10/23/indie-dev-pulls-zombie-shooter-game-san-francisco-1792794196975.jpg?width=1280&format=jpg&auto=webp&quality=80"
           },
           {
             "t": "p",
-            "x": "Unity CLI는 터미널에서 Unity를 설치·관리하는 단일 바이너리다. Pipeline 패키지와 함께 쓰면 실행 중인 Editor도 조작한다. 7월 이후 로그인 사용자 226,000명 이상이 썼다. 기록된 이벤트는 2억 건이 넘는다."
+            "x": "San Francisco를 배경으로 한 좀비 게임 개발자가 게임을 내리고 공개 사과했다. 시 당국이 시민을 ‘좀비’로 그렸다며 비판하고 나선 뒤였다."
           },
           {
             "t": "p",
-            "x": "2026년 7월 20일부터 10월 13일까지 CLI 실행의 약 98%가 코딩 에이전트와 기타 자동화에서 나왔다. 사람이 터미널에 직접 입력한 비율은 0.2%, CI 파이프라인은 0.3%였다. 사람은 Unity를 설정해 두고 작업은 에이전트에게 맡긴다."
+            "x": "Tenderloin Night Shift는 독립 개발자 Pierre-Louis Biojout가 OpenAI의 Codex로 주말 동안 만든 바이브 코딩 1인칭 슈팅 게임이다. 언데드 적 일부는 건설 작업복을 입거나 음식 배달 가방을 멨고, ‘펜타닐 폴드(fentanyl fold)’ 자세를 한 적도 있었다. Biojout는 게임 속 디지털 광고 지면을 주당 $100에 팔았다."
           },
           {
             "t": "p",
-            "x": "가장 많이 실행된 명령은 unity command로 약 1억 2,400만 회다. unity status(약 670만 회)와 unity pipeline list(약 140만 회)가 그 뒤다."
+            "x": "Daniel Lurie 시장은 “취향이나 사람들의 형편없는 아이디어는 어쩔 수 없다. 이건 나쁜 아이디어이고, 우리는 이를 거부한다”고 말했다. Tenderloin이 지역구인 Bilal Mahmood 시의원은 게임을 “매우 충격적이고 용납할 수 없다”고 평했다. 그는 “노숙인을 포함한 실존 인물에 대한 폭력을 오락으로 만드는 것은 비인간적이며 결코 정상화돼서는 안 된다”고 덧붙였다."
           },
           {
             "t": "p",
-            "x": "사용량 대부분은 Unity가 Claude Code와 Codex, 최근에는 Grok용 공식 플러그인까지 내놓은 뒤에 나왔다. CLI와 함께 가장 많이 쓰인 에이전트는 Claude Code이고 Codex, Cursor, Grok 순이다. 이용자는 미국, 일본, 한국 순으로 많고 독일과 튀르키예가 뒤를 잇는다."
+            "x": "Biojout는 게임을 내리고 광고주에게 돈을 돌려줬다. 관련 소셜미디어 게시물도 지웠고, 게임 수익은 전액 Delancey Street Foundation에 기부했다. Twitter/X에는 “배경 설정과 홍보 방식에서 판단이 부족했다. 중독이나 노숙으로 고통받는 사람들을 겨냥할 의도는 전혀 없었다”고 썼다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Most Unity CLI runs now\ncome from AI and automation",
-          "body": "In over 200 million Unity CLI events, about 98% of runs came from coding agents and other automation.",
-          "mini_headline": "Unity CLI is run by agents",
+          "headline": "Vibe-coded zombie shooter pulled\nafter San Francisco backlash",
+          "body": "Its developer pulled the game and apologized after city officials condemned it as dehumanizing.",
+          "mini_headline": "Tenderloin zombie game pulled",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/55efa13879e7b4b911b21e5f69db2cda6b3dd703-1920x1080.png"
+                "src": "https://assets-prd.ignimgs.com/2026/10/23/indie-dev-pulls-zombie-shooter-game-san-francisco-1792794196975.jpg?width=1280&format=jpg&auto=webp&quality=80"
               },
               {
                 "t": "p",
-                "x": "The Unity CLI is a single binary that installs and manages Unity from the terminal and, with the Pipeline package, drives a running Editor. Since July, more than 226,000 logged-in users have used it, logging more than 200 million events."
+                "x": "The developer of a zombie game set in San Francisco has taken down the game and issued a public apology after city officials condemned the title for depicting its citizens as ‘zombies.’"
               },
               {
                 "t": "p",
-                "x": "From July 20 to October 13, 2026, about 98% of CLI runs came from coding agents and other automation. People typing at a terminal account for 0.2%, and CI pipelines for 0.3%. People set Unity up, then hand the work to their agent."
+                "x": "Tenderloin Night Shift was a vibe-coded, first-person shooter created by independent developer Pierre-Louis Biojout over the course of a weekend using OpenAI’s Codex. Some of its undead enemies wear construction uniforms or food delivery backpacks, while others are depicted doing the ‘fentanyl fold.’ Biojout sold digital ad space in the game for $100 per week."
               },
               {
                 "t": "p",
-                "x": "The most-run command is unity command, at about 124 million runs, followed by unity status (about 6.7 million) and unity pipeline list (about 1.4 million)."
+                "x": "Mayor Daniel Lurie said, “There’s no accounting for taste or people’s terrible ideas. This is a bad one, and we reject it.” Supervisor Bilal Mahmood, who represents the Tenderloin, called it “deeply disturbing and unacceptable,” adding: “Turning violence against real people, including unhoused people, into entertainment is dehumanizing and should never be normalized.”"
               },
               {
                 "t": "p",
-                "x": "Most usage came after Unity released official plugins for Claude Code and Codex, and most recently Grok. Claude Code is the agent used most with the CLI, followed by Codex, then Cursor and Grok. The largest audiences are in the United States, Japan and South Korea, followed by Germany and Turkey."
+                "x": "Biojout removed the game, refunded advertisers, deleted his social media posts about it and donated the game’s total revenue to the Delancey Street Foundation. “The setting and the way I promoted it showed poor judgment. Targeting people struggling with addiction or homelessness was never my intention,” he wrote on Twitter/X."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Unity CLI 실행은\n대부분 AI·자동화",
-          "body": "Unity CLI 이벤트 2억 건 이상 중 약 98%는 코딩 에이전트와 자동화였다.",
-          "mini_headline": "Unity CLI는 에이전트가 돌린다",
+          "headline": "Vibe-coded 좀비물\n샌프란시스코 반발에 퇴출",
+          "body": "개발자는 시 당국이 비인간적이라고 비판하자 게임을 내리고 사과했다.",
+          "mini_headline": "Tenderloin 좀비 게임 퇴출",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/55efa13879e7b4b911b21e5f69db2cda6b3dd703-1920x1080.png"
+                "src": "https://assets-prd.ignimgs.com/2026/10/23/indie-dev-pulls-zombie-shooter-game-san-francisco-1792794196975.jpg?width=1280&format=jpg&auto=webp&quality=80"
               },
               {
                 "t": "p",
-                "x": "Unity CLI는 터미널에서 Unity를 설치·관리하는 단일 바이너리다. Pipeline 패키지와 함께 쓰면 실행 중인 Editor도 조작한다. 7월 이후 로그인 사용자 226,000명 이상이 썼다. 기록된 이벤트는 2억 건이 넘는다."
+                "x": "San Francisco를 배경으로 한 좀비 게임 개발자가 게임을 내리고 공개 사과했다. 시 당국이 시민을 ‘좀비’로 그렸다며 비판하고 나선 뒤였다."
               },
               {
                 "t": "p",
-                "x": "2026년 7월 20일부터 10월 13일까지 CLI 실행의 약 98%가 코딩 에이전트와 기타 자동화에서 나왔다. 사람이 터미널에 직접 입력한 비율은 0.2%, CI 파이프라인은 0.3%였다. 사람은 Unity를 설정해 두고 작업은 에이전트에게 맡긴다."
+                "x": "Tenderloin Night Shift는 독립 개발자 Pierre-Louis Biojout가 OpenAI의 Codex로 주말 동안 만든 바이브 코딩 1인칭 슈팅 게임이다. 언데드 적 일부는 건설 작업복을 입거나 음식 배달 가방을 멨고, ‘펜타닐 폴드(fentanyl fold)’ 자세를 한 적도 있었다. Biojout는 게임 속 디지털 광고 지면을 주당 $100에 팔았다."
               },
               {
                 "t": "p",
-                "x": "가장 많이 실행된 명령은 unity command로 약 1억 2,400만 회다. unity status(약 670만 회)와 unity pipeline list(약 140만 회)가 그 뒤다."
+                "x": "Daniel Lurie 시장은 “취향이나 사람들의 형편없는 아이디어는 어쩔 수 없다. 이건 나쁜 아이디어이고, 우리는 이를 거부한다”고 말했다. Tenderloin이 지역구인 Bilal Mahmood 시의원은 게임을 “매우 충격적이고 용납할 수 없다”고 평했다. 그는 “노숙인을 포함한 실존 인물에 대한 폭력을 오락으로 만드는 것은 비인간적이며 결코 정상화돼서는 안 된다”고 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "사용량 대부분은 Unity가 Claude Code와 Codex, 최근에는 Grok용 공식 플러그인까지 내놓은 뒤에 나왔다. CLI와 함께 가장 많이 쓰인 에이전트는 Claude Code이고 Codex, Cursor, Grok 순이다. 이용자는 미국, 일본, 한국 순으로 많고 독일과 튀르키예가 뒤를 잇는다."
+                "x": "Biojout는 게임을 내리고 광고주에게 돈을 돌려줬다. 관련 소셜미디어 게시물도 지웠고, 게임 수익은 전액 Delancey Street Foundation에 기부했다. Twitter/X에는 “배경 설정과 홍보 방식에서 판단이 부족했다. 중독이나 노숙으로 고통받는 사람들을 겨냥할 의도는 전혀 없었다”고 썼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Unity CLIの実行は\n大半がAIと自動化",
-          "body": "2億件超のUnity CLIイベントで、実行の約98%はエージェントと自動化だった。",
-          "mini_headline": "Unity CLIを動かすのはエージェント",
+          "headline": "Vibe-codedゾンビ\nサンフランシスコ反発で撤去",
+          "body": "市当局が非人間的だと非難し、開発者はゲームを取り下げて謝罪した。",
+          "mini_headline": "Tenderloinゾンビゲーム撤去",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/55efa13879e7b4b911b21e5f69db2cda6b3dd703-1920x1080.png"
+                "src": "https://assets-prd.ignimgs.com/2026/10/23/indie-dev-pulls-zombie-shooter-game-san-francisco-1792794196975.jpg?width=1280&format=jpg&auto=webp&quality=80"
               },
               {
                 "t": "p",
-                "x": "Unity CLIは、ターミナルからUnityをインストール・管理できる単一のバイナリで、Pipelineパッケージを使えば起動中のEditorも操作できる。7月以降、226,000人を超えるログインユーザーが利用し、記録されたイベントは2億件を超える。"
+                "x": "San Franciscoを舞台にしたゾンビゲームの開発者が、ゲームを取り下げて公に謝罪した。市当局が、市民を「ゾンビ」として描いたとしてこの作品を非難したためだ。"
               },
               {
                 "t": "p",
-                "x": "2026年7月20日から10月13日までのCLI実行のうち、約98%はコーディングエージェントなどの自動化によるものだった。人がターミナルで入力した実行は0.2%、CIパイプラインは0.3%にとどまる。人はUnityをセットアップし、あとの作業をエージェントに任せている。"
+                "x": "Tenderloin Night Shiftは、独立系開発者のPierre-Louis BiojoutがOpenAIのCodexを使い、週末のうちに作ったバイブコーディングの一人称シューティングだ。アンデッドの敵には建設作業服や料理配達のバッグを身につけたものもいれば、「フェンタニル・フォールド（fentanyl fold）」の姿勢で描かれたものもいた。Biojoutはゲーム内のデジタル広告枠を週$100で販売していた。"
               },
               {
                 "t": "p",
-                "x": "最も多く実行されたコマンドはunity commandで約1億2,400万回、次いでunity status（約670万回）、unity pipeline list（約140万回）が続く。"
+                "x": "Daniel Lurie市長は「趣味の良し悪しや人のひどい思いつきはどうしようもない。これはひどいもので、我々は拒否する」と述べた。Tenderloinを地盤とするBilal Mahmood市政委員は「非常に不快で容認できない」とし、「路上生活者を含む実在の人々への暴力を娯楽にするのは非人間的であり、決して当たり前にしてはならない」と付け加えた。"
               },
               {
                 "t": "p",
-                "x": "利用の大半は、UnityがClaude CodeとCodex、そして直近ではGrok向けの公式プラグインを公開した後に生まれた。CLIと最もよく使われるエージェントはClaude Codeで、Codex、Cursor、Grokが続く。利用者が最も多いのは米国、日本、韓国で、ドイツ、トルコが続く。"
+                "x": "Biojoutはゲームを削除して広告主に返金し、ゲームに関するSNS投稿を消したうえで、ゲームの収益全額をDelancey Street Foundationに寄付した。Twitter/Xには「舞台設定と宣伝の仕方に判断の誤りがあった。依存症やホームレス状態に苦しむ人々を標的にする意図はまったくなかった」と書いた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Unity CLI运行\n多数来自AI与自动化",
-          "body": "在逾2亿次Unity CLI事件中，约98%的运行来自编码代理等自动化。",
-          "mini_headline": "Unity CLI由代理驱动",
+          "headline": "Vibe-coded僵尸射击\n遭旧金山抵制下架",
+          "body": "旧金山市府官员斥其贬低人格后，开发者下架了这款游戏并公开致歉。",
+          "mini_headline": "Tenderloin僵尸游戏下架",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/55efa13879e7b4b911b21e5f69db2cda6b3dd703-1920x1080.png"
+                "src": "https://assets-prd.ignimgs.com/2026/10/23/indie-dev-pulls-zombie-shooter-game-san-francisco-1792794196975.jpg?width=1280&format=jpg&auto=webp&quality=80"
               },
               {
                 "t": "p",
-                "x": "Unity CLI是一个单一二进制程序，可在终端安装和管理Unity，搭配Pipeline包还能驱动正在运行的Editor。自7月以来，已有超过226,000名登录用户使用，记录的事件超过2亿次。"
+                "x": "一款以San Francisco为背景的僵尸游戏遭市府官员谴责，称其把市民描绘成“僵尸”。随后，开发者下架了游戏并公开道歉。"
               },
               {
                 "t": "p",
-                "x": "2026年7月20日至10月13日，约98%的CLI运行来自编码代理和其他自动化。人在终端手动输入占0.2%，CI流水线占0.3%。人们先把Unity配置好，再把工作交给代理。"
+                "x": "Tenderloin Night Shift是一款氛围编程打造的第一人称射击游戏，由独立开发者Pierre-Louis Biojout利用OpenAI的Codex在一个周末内完成。游戏中部分不死敌人身穿施工制服或背着外卖背包，另一些则被描绘成“芬太尼折腰”（fentanyl fold）的姿态。Biojout以每周$100的价格出售游戏内的数字广告位。"
               },
               {
                 "t": "p",
-                "x": "运行次数最多的命令是unity command，约1.24亿次，其次是unity status（约670万次）和unity pipeline list（约140万次）。"
+                "x": "市长Daniel Lurie表示：“品味和人们的糟糕点子没法讲道理。这就是个糟糕的点子，我们拒绝它。”代表Tenderloin选区的市议员Bilal Mahmood称其“令人深感不安、无法接受”，并补充说：“把针对真实人群（包括无家可归者）的暴力变成娱乐，是在贬低人格，绝不应被常态化。”"
               },
               {
                 "t": "p",
-                "x": "大部分使用发生在Unity为Claude Code和Codex，以及最近为Grok推出官方插件之后。与CLI搭配使用最多的代理是Claude Code，其次是Codex，然后是Cursor和Grok。用户最多的国家是美国、日本和韩国，其次是德国和土耳其。"
+                "x": "Biojout下架了游戏，向广告商退款，删除了相关社交媒体帖子，并将游戏全部收入捐给Delancey Street Foundation。他在Twitter/X上写道：“游戏的背景设定和我的宣传方式都显示出判断失误。我从未打算针对受成瘾或无家可归困扰的人。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "La mayoría de usos de Unity CLI\nya llega de AI y automatización",
-          "body": "De más de 200 millones de eventos de Unity CLI, cerca del 98% vino de agentes de código y automatización.",
-          "mini_headline": "Unity CLI, en manos de agentes",
+          "headline": "Tras quejas en San Francisco,\nretiran el shooter Vibe-coded",
+          "body": "Su desarrollador retiró el juego y se disculpó tras ser tachado de deshumanizante por autoridades municipales.",
+          "mini_headline": "Retiran el juego de zombis de Tenderloin",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/55efa13879e7b4b911b21e5f69db2cda6b3dd703-1920x1080.png"
+                "src": "https://assets-prd.ignimgs.com/2026/10/23/indie-dev-pulls-zombie-shooter-game-san-francisco-1792794196975.jpg?width=1280&format=jpg&auto=webp&quality=80"
               },
               {
                 "t": "p",
-                "x": "Unity CLI es un único binario que instala y gestiona Unity desde la terminal y, con el paquete Pipeline, controla un Editor en ejecución. Desde julio la han usado más de 226,000 usuarios con sesión iniciada, que han registrado más de 200 millones de eventos."
+                "x": "El desarrollador de un juego de zombis ambientado en San Francisco retiró el juego y pidió disculpas públicamente después de que las autoridades de la ciudad lo condenaran por presentar a sus ciudadanos como ‘zombis’."
               },
               {
                 "t": "p",
-                "x": "Del 20 de julio al 13 de octubre de 2026, cerca del 98% de las ejecuciones de CLI vino de agentes de código y otra automatización. Las personas que escriben en una terminal suponen el 0.2%, y los pipelines de CI, el 0.3%. La gente configura Unity y luego delega el trabajo en su agente."
+                "x": "Tenderloin Night Shift era un juego de disparos en primera persona hecho con vibe coding por el desarrollador independiente Pierre-Louis Biojout a lo largo de un fin de semana con Codex de OpenAI. Algunos de sus enemigos no muertos visten uniformes de obra o mochilas de reparto de comida, mientras que otros aparecen en la postura conocida como ‘fentanyl fold’. Biojout vendía espacios publicitarios digitales dentro del juego a $100 por semana."
               },
               {
                 "t": "p",
-                "x": "El comando más ejecutado es unity command, con unos 124 millones de ejecuciones, seguido de unity status (unos 6.7 millones) y unity pipeline list (unos 1.4 millones)."
+                "x": "El alcalde Daniel Lurie dijo: “Sobre gustos y las pésimas ideas de la gente no hay nada escrito. Esta es una mala, y la rechazamos”. El supervisor Bilal Mahmood, que representa al Tenderloin, lo calificó de “profundamente perturbador e inaceptable” y añadió: “Convertir en entretenimiento la violencia contra personas reales, incluidas las personas sin hogar, es deshumanizante y nunca debería normalizarse”."
               },
               {
                 "t": "p",
-                "x": "La mayor parte del uso llegó después de que Unity lanzara plugins oficiales para Claude Code y Codex y, más recientemente, para Grok. Claude Code es el agente más usado con la CLI, seguido de Codex, y luego Cursor y Grok. Los mayores públicos están en Estados Unidos, Japón y Corea del Sur, seguidos de Alemania y Turquía."
+                "x": "Biojout retiró el juego, reembolsó a los anunciantes, borró sus publicaciones en redes sociales sobre él y donó la totalidad de los ingresos del juego a la Delancey Street Foundation. “La ambientación y la forma en que lo promocioné reflejaron un mal criterio. Nunca fue mi intención apuntar a personas que luchan contra la adicción o la falta de vivienda”, escribió en Twitter/X."
               }
             ]
           }
@@ -595,121 +505,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Unity CLI 실행은\n대부분 AI·자동화",
-          "body": "Unity CLI 이벤트 2억 건 이상 중 약 98%는 코딩 에이전트와 자동화였다.",
-          "mini_headline": "Unity CLI는 에이전트가 돌린다",
+          "headline": "Vibe-coded 좀비물\n샌프란시스코 반발에 퇴출",
+          "body": "개발자는 시 당국이 비인간적이라고 비판하자 게임을 내리고 사과했다.",
+          "mini_headline": "Tenderloin 좀비 게임 퇴출",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/55efa13879e7b4b911b21e5f69db2cda6b3dd703-1920x1080.png"
+                "src": "https://assets-prd.ignimgs.com/2026/10/23/indie-dev-pulls-zombie-shooter-game-san-francisco-1792794196975.jpg?width=1280&format=jpg&auto=webp&quality=80"
               },
               {
                 "t": "p",
-                "x": "Unity CLI는 터미널에서 Unity를 설치하고 관리하는 단일 바이너리로, Pipeline 패키지와 함께 쓰면 실행 중인 Editor를 조작할 수 있다. 7월 이후 로그인 사용자 226,000명 이상이 이를 사용했고, 기록된 이벤트는 2억 건을 넘는다."
+                "x": "San Francisco를 배경으로 한 좀비 게임의 개발자가 게임을 내리고 공개 사과했다. 시 당국이 시민을 ‘좀비’로 묘사했다며 이 게임을 비판한 뒤다."
               },
               {
                 "t": "p",
-                "x": "2026년 7월 20일부터 10월 13일까지 CLI 실행의 약 98%는 코딩 에이전트와 기타 자동화에서 나왔다. 사람이 터미널에 직접 입력한 경우는 0.2%, CI 파이프라인은 0.3%였다. 사람은 Unity를 설정한 뒤 작업을 에이전트에게 넘긴다."
+                "x": "Tenderloin Night Shift는 독립 개발자 Pierre-Louis Biojout가 OpenAI의 Codex로 주말 동안 만든 바이브 코딩 1인칭 슈팅 게임이다. 언데드 적 가운데 일부는 건설 작업복이나 음식 배달 가방을 걸쳤고, 일부는 ‘펜타닐 폴드(fentanyl fold)’ 자세를 취한 모습으로 그려졌다. Biojout는 게임 속 디지털 광고 지면을 주당 $100에 팔았다."
               },
               {
                 "t": "p",
-                "x": "가장 많이 실행된 명령은 약 1억 2,400만 회의 unity command이며, unity status(약 670만 회)와 unity pipeline list(약 140만 회)가 뒤를 잇는다."
+                "x": "Daniel Lurie 시장은 “취향이나 사람들의 형편없는 아이디어는 어쩔 수 없다. 이건 나쁜 아이디어이고, 우리는 이를 거부한다”고 말했다. Tenderloin 지역구의 Bilal Mahmood 시의원은 이 게임을 “매우 충격적이고 용납할 수 없다”고 했다. 그는 “노숙인을 포함한 실존 인물에 대한 폭력을 오락으로 만드는 것은 비인간적이며 결코 정상화돼서는 안 된다”고 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "사용량 대부분은 Unity가 Claude Code와 Codex, 그리고 최근 Grok용 공식 플러그인을 내놓은 뒤에 나왔다. CLI와 함께 가장 많이 쓰인 에이전트는 Claude Code이고, Codex, Cursor, Grok이 뒤를 잇는다. 이용자가 가장 많은 곳은 미국, 일본, 한국이며 독일과 튀르키예가 뒤를 잇는다."
+                "x": "Biojout는 게임을 내리고 광고주에게 환불했으며, 게임 관련 소셜미디어 게시물을 지우고 게임 수익 전액을 Delancey Street Foundation에 기부했다. 그는 Twitter/X에 “배경 설정과 홍보 방식에서 판단이 부족했다. 중독이나 노숙으로 고통받는 사람들을 겨냥할 의도는 전혀 없었다”고 썼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Unity CLIの実行は\n大半がAIと自動化",
-          "body": "2億件超のUnity CLIイベントで、実行の約98%はエージェントと自動化だった。",
-          "mini_headline": "Unity CLIを動かすのはエージェント",
+          "headline": "Vibe-codedゾンビ\nサンフランシスコ反発で撤去",
+          "body": "市当局が非人間的だと非難し、開発者はゲームを取り下げて謝罪した。",
+          "mini_headline": "Tenderloinゾンビゲーム撤去",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/55efa13879e7b4b911b21e5f69db2cda6b3dd703-1920x1080.png"
+                "src": "https://assets-prd.ignimgs.com/2026/10/23/indie-dev-pulls-zombie-shooter-game-san-francisco-1792794196975.jpg?width=1280&format=jpg&auto=webp&quality=80"
               },
               {
                 "t": "p",
-                "x": "Unity CLIは、ターミナルからUnityをインストール・管理できる単一のバイナリで、Pipelineパッケージを使えば起動中のEditorも操作できる。7月以降、226,000人を超えるログインユーザーが利用し、記録されたイベントは2億件を超える。"
+                "x": "San Franciscoを舞台にしたゾンビゲームの開発者が、ゲームを取り下げて公に謝罪した。市当局が、市民を「ゾンビ」として描いたとしてこの作品を非難したためだ。"
               },
               {
                 "t": "p",
-                "x": "2026年7月20日から10月13日までのCLI実行のうち、約98%はコーディングエージェントなどの自動化によるものだった。人がターミナルで入力した実行は0.2%、CIパイプラインは0.3%にとどまる。人はUnityをセットアップし、あとの作業をエージェントに任せている。"
+                "x": "Tenderloin Night Shiftは、独立系開発者のPierre-Louis BiojoutがOpenAIのCodexを使い、週末のうちに作ったバイブコーディングの一人称シューティングだ。アンデッドの敵には建設作業服や料理配達のバッグを身につけたものもいれば、「フェンタニル・フォールド（fentanyl fold）」の姿勢で描かれたものもいた。Biojoutはゲーム内のデジタル広告枠を週$100で販売していた。"
               },
               {
                 "t": "p",
-                "x": "最も多く実行されたコマンドはunity commandで約1億2,400万回、次いでunity status（約670万回）、unity pipeline list（約140万回）が続く。"
+                "x": "Daniel Lurie市長は「趣味の良し悪しや人のひどい思いつきはどうしようもない。これはひどいもので、我々は拒否する」と述べた。Tenderloinを地盤とするBilal Mahmood市政委員は「非常に不快で容認できない」とし、「路上生活者を含む実在の人々への暴力を娯楽にするのは非人間的であり、決して当たり前にしてはならない」と付け加えた。"
               },
               {
                 "t": "p",
-                "x": "利用の大半は、UnityがClaude CodeとCodex、そして直近ではGrok向けの公式プラグインを公開した後に生まれた。CLIと最もよく使われるエージェントはClaude Codeで、Codex、Cursor、Grokが続く。利用者が最も多いのは米国、日本、韓国で、ドイツ、トルコが続く。"
+                "x": "Biojoutはゲームを削除して広告主に返金し、ゲームに関するSNS投稿を消したうえで、ゲームの収益全額をDelancey Street Foundationに寄付した。Twitter/Xには「舞台設定と宣伝の仕方に判断の誤りがあった。依存症やホームレス状態に苦しむ人々を標的にする意図はまったくなかった」と書いた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Unity CLI运行\n多数来自AI与自动化",
-          "body": "在逾2亿次Unity CLI事件中，约98%的运行来自编码代理等自动化。",
-          "mini_headline": "Unity CLI由代理驱动",
+          "headline": "Vibe-coded僵尸射击\n遭旧金山抵制下架",
+          "body": "旧金山市府官员斥其贬低人格后，开发者下架了这款游戏并公开致歉。",
+          "mini_headline": "Tenderloin僵尸游戏下架",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/55efa13879e7b4b911b21e5f69db2cda6b3dd703-1920x1080.png"
+                "src": "https://assets-prd.ignimgs.com/2026/10/23/indie-dev-pulls-zombie-shooter-game-san-francisco-1792794196975.jpg?width=1280&format=jpg&auto=webp&quality=80"
               },
               {
                 "t": "p",
-                "x": "Unity CLI是一个单一二进制程序，可在终端安装和管理Unity，搭配Pipeline包还能驱动正在运行的Editor。自7月以来，已有超过226,000名登录用户使用，记录的事件超过2亿次。"
+                "x": "一款以San Francisco为背景的僵尸游戏遭市府官员谴责，称其把市民描绘成“僵尸”。随后，开发者下架了游戏并公开道歉。"
               },
               {
                 "t": "p",
-                "x": "2026年7月20日至10月13日，约98%的CLI运行来自编码代理和其他自动化。人在终端手动输入占0.2%，CI流水线占0.3%。人们先把Unity配置好，再把工作交给代理。"
+                "x": "Tenderloin Night Shift是一款氛围编程打造的第一人称射击游戏，由独立开发者Pierre-Louis Biojout利用OpenAI的Codex在一个周末内完成。游戏中部分不死敌人身穿施工制服或背着外卖背包，另一些则被描绘成“芬太尼折腰”（fentanyl fold）的姿态。Biojout以每周$100的价格出售游戏内的数字广告位。"
               },
               {
                 "t": "p",
-                "x": "运行次数最多的命令是unity command，约1.24亿次，其次是unity status（约670万次）和unity pipeline list（约140万次）。"
+                "x": "市长Daniel Lurie表示：“品味和人们的糟糕点子没法讲道理。这就是个糟糕的点子，我们拒绝它。”代表Tenderloin选区的市议员Bilal Mahmood称其“令人深感不安、无法接受”，并补充说：“把针对真实人群（包括无家可归者）的暴力变成娱乐，是在贬低人格，绝不应被常态化。”"
               },
               {
                 "t": "p",
-                "x": "大部分使用发生在Unity为Claude Code和Codex，以及最近为Grok推出官方插件之后。与CLI搭配使用最多的代理是Claude Code，其次是Codex，然后是Cursor和Grok。用户最多的国家是美国、日本和韩国，其次是德国和土耳其。"
+                "x": "Biojout下架了游戏，向广告商退款，删除了相关社交媒体帖子，并将游戏全部收入捐给Delancey Street Foundation。他在Twitter/X上写道：“游戏的背景设定和我的宣传方式都显示出判断失误。我从未打算针对受成瘾或无家可归困扰的人。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "La mayoría de usos de Unity CLI\nya llega de AI y automatización",
-          "body": "De más de 200 millones de eventos de Unity CLI, cerca del 98% vino de agentes de código y automatización.",
-          "mini_headline": "Unity CLI, en manos de agentes",
+          "headline": "Tras quejas en San Francisco,\nretiran el shooter Vibe-coded",
+          "body": "Su desarrollador retiró el juego y se disculpó tras ser tachado de deshumanizante por autoridades municipales.",
+          "mini_headline": "Retiran el juego de zombis de Tenderloin",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.sanity.io/images/fuvbjjlp/production/55efa13879e7b4b911b21e5f69db2cda6b3dd703-1920x1080.png"
+                "src": "https://assets-prd.ignimgs.com/2026/10/23/indie-dev-pulls-zombie-shooter-game-san-francisco-1792794196975.jpg?width=1280&format=jpg&auto=webp&quality=80"
               },
               {
                 "t": "p",
-                "x": "Unity CLI es un único binario que instala y gestiona Unity desde la terminal y, con el paquete Pipeline, controla un Editor en ejecución. Desde julio la han usado más de 226,000 usuarios con sesión iniciada, que han registrado más de 200 millones de eventos."
+                "x": "El desarrollador de un juego de zombis ambientado en San Francisco retiró el juego y pidió disculpas públicamente después de que las autoridades de la ciudad lo condenaran por presentar a sus ciudadanos como ‘zombis’."
               },
               {
                 "t": "p",
-                "x": "Del 20 de julio al 13 de octubre de 2026, cerca del 98% de las ejecuciones de CLI vino de agentes de código y otra automatización. Las personas que escriben en una terminal suponen el 0.2%, y los pipelines de CI, el 0.3%. La gente configura Unity y luego delega el trabajo en su agente."
+                "x": "Tenderloin Night Shift era un juego de disparos en primera persona hecho con vibe coding por el desarrollador independiente Pierre-Louis Biojout a lo largo de un fin de semana con Codex de OpenAI. Algunos de sus enemigos no muertos visten uniformes de obra o mochilas de reparto de comida, mientras que otros aparecen en la postura conocida como ‘fentanyl fold’. Biojout vendía espacios publicitarios digitales dentro del juego a $100 por semana."
               },
               {
                 "t": "p",
-                "x": "El comando más ejecutado es unity command, con unos 124 millones de ejecuciones, seguido de unity status (unos 6.7 millones) y unity pipeline list (unos 1.4 millones)."
+                "x": "El alcalde Daniel Lurie dijo: “Sobre gustos y las pésimas ideas de la gente no hay nada escrito. Esta es una mala, y la rechazamos”. El supervisor Bilal Mahmood, que representa al Tenderloin, lo calificó de “profundamente perturbador e inaceptable” y añadió: “Convertir en entretenimiento la violencia contra personas reales, incluidas las personas sin hogar, es deshumanizante y nunca debería normalizarse”."
               },
               {
                 "t": "p",
-                "x": "La mayor parte del uso llegó después de que Unity lanzara plugins oficiales para Claude Code y Codex y, más recientemente, para Grok. Claude Code es el agente más usado con la CLI, seguido de Codex, y luego Cursor y Grok. Los mayores públicos están en Estados Unidos, Japón y Corea del Sur, seguidos de Alemania y Turquía."
+                "x": "Biojout retiró el juego, reembolsó a los anunciantes, borró sus publicaciones en redes sociales sobre él y donó la totalidad de los ingresos del juego a la Delancey Street Foundation. “La ambientación y la forma en que lo promocioné reflejaron un mal criterio. Nunca fue mi intención apuntar a personas que luchan contra la adicción o la falta de vivienda”, escribió en Twitter/X."
               }
             ]
           }
@@ -717,936 +627,249 @@
       }
     },
     {
-      "id": "games-xbox-fsr41",
-      "source_lang": "en",
+      "id": "games-ai-clone-extortion",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Xbox X/S에\nAMD FSR 4.1 탑재",
-      "body": "Xbox Series X·S에 AI 업스케일러 AMD FSR 4.1이 온다.",
-      "mini_headline": "Xbox에 FSR 4.1",
+      "headline": "AI 복제게임 내겠다\n인디 개발자에 협박",
+      "body": "일본 인디 개발자가 AI 복제 게임을 내겠다며 금품을 요구하는 메일을 받았다.",
+      "mini_headline": "AI 복제게임 협박",
       "tool": "Games",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/xbox-series-x-s-amd-fsr-4-1-upscaling",
-      "accent": "#f5a623",
+      "source": "게임메카",
+      "url": "https://www.gamemeca.com/view.php?gid=1781995",
+      "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://assetsio.gnwcdn.com/Untitled-1_4YYolkc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-            "cap": "이미지 출처: Microsoft"
+            "src": "https://cdn.gamemeca.com/data_center/344/979/20261019170017.jpg",
+            "cap": "AI 복제작을 유포하겠다는 협박을 받은 일본 인디게임 개발자 모치베 다카시 (사진출처: 모치베 다카시 X 계정 갈무리)"
           },
           {
             "t": "p",
-            "x": "AMD가 AI-driven 이미지 업스케일링 기술의 최신판 FSR 4.1을 Xbox Series X와 Series S, 휴대용 기기 ROG Ally와 Ally X에 들여온다."
+            "x": "일본 인디게임 개발자가 생성형 AI로 제작한 복제 게임을 먼저 출시하겠다며 금품을 요구하는 협박성 메일을 받았다."
           },
           {
             "t": "p",
-            "x": "FSR은 게임을 낮은 해상도로 렌더링한 다음 머신러닝으로 업스케일해 화질을 높이거나 성능을 안정시킨다. Series S, 그리고 하드웨어 제약이 더 큰 Ally 휴대용 기기가 가장 덕을 볼 만하다."
+            "x": "협박 메일을 공개한 인물은 전략 RPG '드래곤즈 크로니클(Dragon's Chronicles) ~쌍성의 레긴레이브~'를 개발하는 스튜디오 앳홈의 모치베 다카시다. 해당 작품은 2027년 스팀 출시를 목표로 제작 중인 전략 RPG다."
           },
           {
             "t": "p",
-            "x": "시점이 눈에 띈다. 몇 주 전 Sony가 PlayStation 5용으로 비슷한 machine learning-based 업스케일러 QSSR을 선보였기 때문이다."
-          },
-          {
-            "t": "p",
-            "x": "Xbox CTO Scott Van Vliet는 \"AMD와 매우 긴밀히 협력해 이 기술을 최적화했고, 개발자에게 플레이어를 위한 뛰어난 성능과 화질을 구현할 또 하나의 강력한 도구를 제공하게 됐다\"고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "AMD는 FSR 4.1의 Xbox Series 콘솔 도입 날짜를 구체적으로 밝히지 않았다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Xbox Series X/S gets\nAMD FSR 4.1 upscaling",
-          "body": "Xbox Series X and Series S are getting AMD FSR 4.1, an AI upscaler comparable to PlayStation's QSSR.",
-          "mini_headline": "FSR 4.1 comes to Xbox",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Untitled-1_4YYolkc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "Image credit: Microsoft"
-              },
-              {
-                "t": "p",
-                "x": "AMD is bringing the latest version of its AI-driven image upscaling technology, FSR 4.1, to Xbox Series X, Series S, and the ROG Ally and Ally X handhelds."
-              },
-              {
-                "t": "p",
-                "x": "FSR renders the game at a lower resolution and upscales it using machine learning, delivering better visuals or more consistent performance. Series S and the more hardware-constrained Ally handhelds could see the biggest gains."
-              },
-              {
-                "t": "p",
-                "x": "The timing is notable: a couple of weeks ago, Sony introduced QSSR, a similar machine learning-based upscaler, for PlayStation 5."
-              },
-              {
-                "t": "p",
-                "x": "\"We've worked very closely with AMD to optimise this technology, giving developers another powerful tool for great performance and visual quality for players,\" said Xbox CTO Scott Van Vliet."
-              },
-              {
-                "t": "p",
-                "x": "AMD did not offer a specific date for FSR 4.1's arrival on Xbox Series consoles."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Xbox X/S에\nAMD FSR 4.1 탑재",
-          "body": "Xbox Series X·S에 AI 업스케일러 AMD FSR 4.1이 온다.",
-          "mini_headline": "Xbox에 FSR 4.1",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Untitled-1_4YYolkc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "이미지 출처: Microsoft"
-              },
-              {
-                "t": "p",
-                "x": "AMD가 AI-driven 이미지 업스케일링 기술의 최신판 FSR 4.1을 Xbox Series X와 Series S, 휴대용 기기 ROG Ally와 Ally X에 들여온다."
-              },
-              {
-                "t": "p",
-                "x": "FSR은 게임을 낮은 해상도로 렌더링한 다음 머신러닝으로 업스케일해 화질을 높이거나 성능을 안정시킨다. Series S, 그리고 하드웨어 제약이 더 큰 Ally 휴대용 기기가 가장 덕을 볼 만하다."
-              },
-              {
-                "t": "p",
-                "x": "시점이 눈에 띈다. 몇 주 전 Sony가 PlayStation 5용으로 비슷한 machine learning-based 업스케일러 QSSR을 선보였기 때문이다."
-              },
-              {
-                "t": "p",
-                "x": "Xbox CTO Scott Van Vliet는 \"AMD와 매우 긴밀히 협력해 이 기술을 최적화했고, 개발자에게 플레이어를 위한 뛰어난 성능과 화질을 구현할 또 하나의 강력한 도구를 제공하게 됐다\"고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "AMD는 FSR 4.1의 Xbox Series 콘솔 도입 날짜를 구체적으로 밝히지 않았다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Xbox X/Sに\nAMD FSR 4.1が対応",
-          "body": "Xbox Series X/SにQSSR並みのAI超解像、AMD FSR 4.1が来る。",
-          "mini_headline": "XboxにFSR 4.1",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Untitled-1_4YYolkc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "画像：Microsoft"
-              },
-              {
-                "t": "p",
-                "x": "AMDは、AI-drivenの画像アップスケーリング技術の最新版FSR 4.1を、Xbox Series X、Series S、そして携帯機ROG AllyとAlly Xに提供する。"
-              },
-              {
-                "t": "p",
-                "x": "FSRはゲームを低い解像度でレンダリングし、機械学習でアップスケールすることで、より良い画質やより安定したパフォーマンスを実現する。最も大きな恩恵を受けそうなのは、Series Sと、ハードウェアの制約がより大きいAlly携帯機だ。"
-              },
-              {
-                "t": "p",
-                "x": "タイミングは注目に値する。数週間前、SonyはPlayStation 5向けに、同様のmachine learning-basedアップスケーラーQSSRを発表したばかりだ。"
-              },
-              {
-                "t": "p",
-                "x": "「AMDと非常に緊密に連携してこの技術を最適化し、開発者がプレイヤーに優れたパフォーマンスと画質を届けるための、もう一つの強力なツールを提供できるようになった」と、XboxのCTOであるScott Van Vliet氏は述べた。"
-              },
-              {
-                "t": "p",
-                "x": "AMDは、FSR 4.1がXbox Seriesコンソールに提供される具体的な日付を示していない。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Xbox Series X/S recibe\nel escalado AMD FSR 4.1",
-          "body": "Xbox Series X y Series S recibirán AMD FSR 4.1, un escalador con AI comparable al QSSR de PlayStation.",
-          "mini_headline": "FSR 4.1 llega a Xbox",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Untitled-1_4YYolkc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "Imagen: Microsoft"
-              },
-              {
-                "t": "p",
-                "x": "AMD llevará la última versión de su tecnología de escalado de imagen AI-driven, FSR 4.1, a Xbox Series X, Series S y a las portátiles ROG Ally y Ally X."
-              },
-              {
-                "t": "p",
-                "x": "FSR renderiza el juego a menor resolución y lo escala mediante aprendizaje automático, lo que ofrece mejor imagen o un rendimiento más estable. Series S y las portátiles Ally, con un hardware más limitado, podrían ser las más beneficiadas."
-              },
-              {
-                "t": "p",
-                "x": "El momento llama la atención: hace un par de semanas, Sony presentó QSSR, un escalador machine learning-based similar, para PlayStation 5."
-              },
-              {
-                "t": "p",
-                "x": "\"Hemos trabajado muy estrechamente con AMD para optimizar esta tecnología, lo que da a los desarrolladores otra herramienta potente para ofrecer a los jugadores un gran rendimiento y calidad visual\", afirmó Scott Van Vliet, CTO de Xbox."
-              },
-              {
-                "t": "p",
-                "x": "AMD no dio una fecha concreta para la llegada de FSR 4.1 a las consolas Xbox Series."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Xbox X/S에\nAMD FSR 4.1 탑재",
-          "body": "Xbox Series X·S에 AI 업스케일러 AMD FSR 4.1이 온다.",
-          "mini_headline": "Xbox에 FSR 4.1",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Untitled-1_4YYolkc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "이미지 출처: Microsoft"
-              },
-              {
-                "t": "p",
-                "x": "AMD가 AI-driven 이미지 업스케일링 기술의 최신 버전인 FSR 4.1을 Xbox Series X와 Series S, 그리고 휴대용 기기 ROG Ally와 Ally X에 도입한다."
-              },
-              {
-                "t": "p",
-                "x": "FSR은 게임을 더 낮은 해상도로 렌더링한 뒤 머신러닝으로 업스케일해 더 나은 화질이나 더 안정적인 성능을 낸다. Series S와 하드웨어 제약이 더 큰 Ally 휴대용 기기가 가장 큰 혜택을 볼 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "시점이 눈길을 끈다. 몇 주 전 Sony가 PlayStation 5용으로 비슷한 machine learning-based 업스케일러 QSSR을 선보였기 때문이다."
-              },
-              {
-                "t": "p",
-                "x": "Xbox CTO Scott Van Vliet는 \"AMD와 매우 긴밀히 협력해 이 기술을 최적화했고, 개발자에게 플레이어를 위한 뛰어난 성능과 화질을 구현할 또 하나의 강력한 도구를 제공하게 됐다\"고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "AMD는 FSR 4.1이 Xbox Series 콘솔에 언제 도입되는지 구체적인 날짜를 밝히지 않았다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Xbox X/Sに\nAMD FSR 4.1が対応",
-          "body": "Xbox Series X/SにQSSR並みのAI超解像、AMD FSR 4.1が来る。",
-          "mini_headline": "XboxにFSR 4.1",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Untitled-1_4YYolkc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "画像：Microsoft"
-              },
-              {
-                "t": "p",
-                "x": "AMDは、AI-drivenの画像アップスケーリング技術の最新版FSR 4.1を、Xbox Series X、Series S、そして携帯機ROG AllyとAlly Xに提供する。"
-              },
-              {
-                "t": "p",
-                "x": "FSRはゲームを低い解像度でレンダリングし、機械学習でアップスケールすることで、より良い画質やより安定したパフォーマンスを実現する。最も大きな恩恵を受けそうなのは、Series Sと、ハードウェアの制約がより大きいAlly携帯機だ。"
-              },
-              {
-                "t": "p",
-                "x": "タイミングは注目に値する。数週間前、SonyはPlayStation 5向けに、同様のmachine learning-basedアップスケーラーQSSRを発表したばかりだ。"
-              },
-              {
-                "t": "p",
-                "x": "「AMDと非常に緊密に連携してこの技術を最適化し、開発者がプレイヤーに優れたパフォーマンスと画質を届けるための、もう一つの強力なツールを提供できるようになった」と、XboxのCTOであるScott Van Vliet氏は述べた。"
-              },
-              {
-                "t": "p",
-                "x": "AMDは、FSR 4.1がXbox Seriesコンソールに提供される具体的な日付を示していない。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Xbox Series X/S recibe\nel escalado AMD FSR 4.1",
-          "body": "Xbox Series X y Series S recibirán AMD FSR 4.1, un escalador con AI comparable al QSSR de PlayStation.",
-          "mini_headline": "FSR 4.1 llega a Xbox",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Untitled-1_4YYolkc.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "Imagen: Microsoft"
-              },
-              {
-                "t": "p",
-                "x": "AMD llevará la última versión de su tecnología de escalado de imagen AI-driven, FSR 4.1, a Xbox Series X, Series S y a las portátiles ROG Ally y Ally X."
-              },
-              {
-                "t": "p",
-                "x": "FSR renderiza el juego a menor resolución y lo escala mediante aprendizaje automático, lo que ofrece mejor imagen o un rendimiento más estable. Series S y las portátiles Ally, con un hardware más limitado, podrían ser las más beneficiadas."
-              },
-              {
-                "t": "p",
-                "x": "El momento llama la atención: hace un par de semanas, Sony presentó QSSR, un escalador machine learning-based similar, para PlayStation 5."
-              },
-              {
-                "t": "p",
-                "x": "\"Hemos trabajado muy estrechamente con AMD para optimizar esta tecnología, lo que da a los desarrolladores otra herramienta potente para ofrecer a los jugadores un gran rendimiento y calidad visual\", afirmó Scott Van Vliet, CTO de Xbox."
-              },
-              {
-                "t": "p",
-                "x": "AMD no dio una fecha concreta para la llegada de FSR 4.1 a las consolas Xbox Series."
-              }
-            ]
-          }
-        }
-      },
-      "i18n_status": {
-        "zh": "fallback"
-      }
-    },
-    {
-      "id": "games-pokemon-ai-decomp",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 디컴파일로 쏟아진\nPokémon 포트·매시업",
-      "body": "AI로 팬들이 Pokémon Snap 이식판과 PokéSurvivor를 내놓았다.",
-      "mini_headline": "Vibe-coded Pokémon 이식판",
-      "tool": "Games",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/of-course-pokemons-been-pulled-into-the-ai-decompilation-frenzy-2000748316",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://kotaku.com/app/uploads/2026/10/pokemon-movie-1-1200x675.jpg",
-            "cap": "Toho Animation"
-          },
-          {
-            "t": "p",
-            "x": "게임 디컴파일은 decomp.dev 운영자의 말처럼 “지독하게 어렵고 시간이 많이 드는” 작업이었다. 새 생성형 AI 모델이 그 속도를 바꿔 놓았는데, 운영자는 이 때문에 취미의 공동체적 측면이 무너졌다고 말한다."
-          },
-          {
-            "t": "p",
-            "x": "Pokémon 커뮤니티에서는 이 열풍을 타고 너도나도 vibe-code 방식으로 이식판과 장르 매시업을 만든다. 새로 디컴파일된 게임은 벌써 이식판으로 나왔다. Pokémon Brilliant Diamond와 Shining Pearl, Pokémon Snap, Pokémon Heart Gold와 Soul Silver 등이다."
-          },
-          {
-            "t": "p",
-            "x": "코드를 뜯어 재해석하는 이들도 있다. Brock과 Ash가 맞붙는 플레이 가능한 3D 픽셀 아트 배틀, Pokémon 택틱스 게임, Vampire Survivors를 Pokémon으로 바꾼 브라우저 게임 PokéSurvivor 같은 것들이다."
-          },
-          {
-            "t": "p",
-            "x": "X의 팬들은 옛 게임을 플레이하고 모드할 수 있다며 들떠 있지만, 오래 손봐 온 이들은 확신이 덜하다. 한 Reddit 사용자는 리컴파일이 예전엔 “커뮤니티 전체가 축하하던 대형 릴리스”였다고 했다. 404 Media는 일부 AI 디컴파일이 원본과 다르고 이상한 버그가 있거나 제대로 돌지 않는다고 보도했다."
-          },
-          {
-            "t": "p",
-            "x": "Kotaku는 대부분의 프로젝트가 기본적으로는 돌아가지만 매시업이 딱히 새롭지는 않다고 평가했다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "AI decompiling floods fans with\nPokémon ports and mashups",
-          "body": "New AI models let fans rush out ports of Pokémon Snap, Heart Gold and Soul Silver, plus mashups like PokéSurvivor.",
-          "mini_headline": "Vibe-coded Pokémon ports",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/pokemon-movie-1-1200x675.jpg",
-                "cap": "Toho Animation"
-              },
-              {
-                "t": "p",
-                "x": "Decompiling games used to be what the owner of decomp.dev called “brutally difficult [and] time consuming.” Newly released generative AI models have changed the speed at which it is possible, and that owner says it has broken the community aspect of the hobby."
-              },
-              {
-                "t": "p",
-                "x": "In the Pokémon community, the frenzy means people are rushing to vibe-code ports and genre mashups. Newly decompiled games have already been turned into ports, including Pokémon Brilliant Diamond and Shining Pearl, Pokémon Snap, and Pokémon Heart Gold and Soul Silver."
-              },
-              {
-                "t": "p",
-                "x": "Others pull the code apart for reimaginings: a playable 3D pixel art battle between Brock and Ash, a Pokémon tactics game, and PokéSurvivor, a browser game that turns Vampire Survivors into Pokémon."
-              },
-              {
-                "t": "p",
-                "x": "Fans on X are excited to play and mod older games, but longtime tinkerers are less convinced; one Reddit user said recompilations used to be “huge releases that entire communities would celebrate.” 404 Media reported that some AI decompilations aren’t the same as the original and have weird bugs or don’t fully work."
-              },
-              {
-                "t": "p",
-                "x": "Kotaku’s verdict: most of the projects run on a basic level, but the mashups aren’t especially novel."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI 디컴파일로 쏟아진\nPokémon 포트·매시업",
-          "body": "AI로 팬들이 Pokémon Snap 이식판과 PokéSurvivor를 내놓았다.",
-          "mini_headline": "Vibe-coded Pokémon 이식판",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/pokemon-movie-1-1200x675.jpg",
-                "cap": "Toho Animation"
-              },
-              {
-                "t": "p",
-                "x": "게임 디컴파일은 decomp.dev 운영자의 말처럼 “지독하게 어렵고 시간이 많이 드는” 작업이었다. 새 생성형 AI 모델이 그 속도를 바꿔 놓았는데, 운영자는 이 때문에 취미의 공동체적 측면이 무너졌다고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "Pokémon 커뮤니티에서는 이 열풍을 타고 너도나도 vibe-code 방식으로 이식판과 장르 매시업을 만든다. 새로 디컴파일된 게임은 벌써 이식판으로 나왔다. Pokémon Brilliant Diamond와 Shining Pearl, Pokémon Snap, Pokémon Heart Gold와 Soul Silver 등이다."
-              },
-              {
-                "t": "p",
-                "x": "코드를 뜯어 재해석하는 이들도 있다. Brock과 Ash가 맞붙는 플레이 가능한 3D 픽셀 아트 배틀, Pokémon 택틱스 게임, Vampire Survivors를 Pokémon으로 바꾼 브라우저 게임 PokéSurvivor 같은 것들이다."
-              },
-              {
-                "t": "p",
-                "x": "X의 팬들은 옛 게임을 플레이하고 모드할 수 있다며 들떠 있지만, 오래 손봐 온 이들은 확신이 덜하다. 한 Reddit 사용자는 리컴파일이 예전엔 “커뮤니티 전체가 축하하던 대형 릴리스”였다고 했다. 404 Media는 일부 AI 디컴파일이 원본과 다르고 이상한 버그가 있거나 제대로 돌지 않는다고 보도했다."
-              },
-              {
-                "t": "p",
-                "x": "Kotaku는 대부분의 프로젝트가 기본적으로는 돌아가지만 매시업이 딱히 새롭지는 않다고 평가했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI逆コンパイルで\nPokémon移植が続々",
-          "body": "AIで、ファンがPokémon Snapの移植やPokéSurvivorを量産中だ。",
-          "mini_headline": "Vibe-codedなPokémon移植",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/pokemon-movie-1-1200x675.jpg",
-                "cap": "Toho Animation"
-              },
-              {
-                "t": "p",
-                "x": "ゲームの逆コンパイルは、decomp.devの運営者いわく「とてつもなく難しく、時間がかかる」作業だった。新たに登場した生成AIモデルがそのスピードを一変させ、運営者はそれが趣味のコミュニティとしての側面を壊したと語る。"
-              },
-              {
-                "t": "p",
-                "x": "Pokémonコミュニティでは、この熱狂の中で人々がvibe-codeによる移植やジャンルのマッシュアップを急いで作っている。新たに逆コンパイルされたゲームはすでに移植版になっており、Pokémon Brilliant DiamondとShining Pearl、Pokémon Snap、Pokémon Heart GoldとSoul Silverなどがある。"
-              },
-              {
-                "t": "p",
-                "x": "コードを分解して再構想する人もいる。BrockとAshが戦うプレイ可能な3Dピクセルアートのバトル、Pokémonのタクティクスゲーム、そしてVampire SurvivorsをPokémonにしたブラウザゲームPokéSurvivorだ。"
-              },
-              {
-                "t": "p",
-                "x": "X上のファンは古いゲームを遊んだりモッドを作ったりできることに沸いているが、長年いじってきた人々はそれほど納得していない。あるRedditユーザーは、かつてリコンパイルは「コミュニティ全体が祝う大型リリース」だったと語った。404 Mediaは、一部のAI逆コンパイルはオリジナルと同じではなく、奇妙なバグがあったり完全には動かなかったりすると報じた。"
-              },
-              {
-                "t": "p",
-                "x": "Kotakuの評価は、ほとんどのプロジェクトは基本的なレベルでは動くものの、マッシュアップに特に目新しさはない、というものだ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI反编译热潮下\nPokémon移植扎堆",
-          "body": "新AI模型让粉丝赶制Pokémon Snap等移植版和PokéSurvivor等混搭。",
-          "mini_headline": "Vibe-coded的Pokémon移植",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/pokemon-movie-1-1200x675.jpg",
-                "cap": "Toho Animation"
-              },
-              {
-                "t": "p",
-                "x": "反编译游戏，用decomp.dev运营者的话说，曾经“极其困难[且]耗时”。新发布的生成式AI模型改变了反编译的速度，这位运营者表示，这已经破坏了这项爱好的社区属性。"
-              },
-              {
-                "t": "p",
-                "x": "在Pokémon社区，这股热潮意味着人们争相用vibe-code制作移植版和类型混搭作品。新反编译的游戏已被做成移植版，包括Pokémon Brilliant Diamond与Shining Pearl、Pokémon Snap，以及Pokémon Heart Gold与Soul Silver。"
-              },
-              {
-                "t": "p",
-                "x": "也有人把代码拆开重新构想：一场可游玩的Brock与Ash之间的3D像素风对战、一款Pokémon战棋游戏，以及把Vampire Survivors改成Pokémon版本的浏览器游戏PokéSurvivor。"
-              },
-              {
-                "t": "p",
-                "x": "X上的粉丝为能游玩和修改老游戏而兴奋，但资深玩家没那么信服；一位Reddit用户说，重编译过去是“整个社区都会庆祝的重大发布”。404 Media报道称，一些AI反编译版本与原版并不相同，存在奇怪的错误，或无法完全运行。"
-              },
-              {
-                "t": "p",
-                "x": "Kotaku的结论是：大多数项目在基本层面上能运行，但这些混搭并没有特别新意。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La descompilación con AI llena\nde ports y mashups Pokémon",
-          "body": "Con nuevos modelos de AI, los fans lanzan ports de Pokémon Snap, Heart Gold y Soul Silver, y mashups como PokéSurvivor.",
-          "mini_headline": "Ports Vibe-coded de Pokémon",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/pokemon-movie-1-1200x675.jpg",
-                "cap": "Toho Animation"
-              },
-              {
-                "t": "p",
-                "x": "Descompilar juegos solía ser lo que el responsable de decomp.dev llamó “brutalmente difícil [y] lento”. Los nuevos modelos de AI generativa han cambiado la velocidad a la que es posible hacerlo, y ese responsable afirma que eso ha roto el lado comunitario de la afición."
-              },
-              {
-                "t": "p",
-                "x": "En la comunidad Pokémon, el frenesí ha llevado a muchos a apresurarse a crear con vibe-code ports y mezclas de géneros. Juegos recién descompilados ya se han convertido en ports, entre ellos Pokémon Brilliant Diamond y Shining Pearl, Pokémon Snap y Pokémon Heart Gold y Soul Silver."
-              },
-              {
-                "t": "p",
-                "x": "Otros desmontan el código para reinterpretarlo: un combate jugable en pixel art 3D entre Brock y Ash, un juego de tácticas de Pokémon y PokéSurvivor, un juego de navegador que convierte Vampire Survivors en Pokémon."
-              },
-              {
-                "t": "p",
-                "x": "Los fans en X están entusiasmados por jugar y modificar juegos antiguos, pero quienes llevan años trasteando no están tan convencidos; un usuario de Reddit dijo que las recompilaciones solían ser “grandes lanzamientos que comunidades enteras celebraban”. 404 Media informó de que algunas descompilaciones con AI no son iguales al original y tienen errores extraños o no funcionan del todo."
-              },
-              {
-                "t": "p",
-                "x": "El veredicto de Kotaku: la mayoría de los proyectos funcionan a un nivel básico, pero los mashups no son especialmente novedosos."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI 디컴파일로 쏟아진\nPokémon 포트·매시업",
-          "body": "AI로 팬들이 Pokémon Snap 이식판과 PokéSurvivor를 내놓았다.",
-          "mini_headline": "Vibe-coded Pokémon 이식판",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/pokemon-movie-1-1200x675.jpg",
-                "cap": "Toho Animation"
-              },
-              {
-                "t": "p",
-                "x": "게임 디컴파일은 decomp.dev 운영자의 말처럼 “지독하게 어렵고 시간이 많이 드는” 작업이었다. 새로 나온 생성형 AI 모델이 그 속도를 바꿔 놓았고, 운영자는 이것이 취미의 공동체적 측면을 무너뜨렸다고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "Pokémon 커뮤니티에서는 이 열풍 속에 사람들이 앞다퉈 vibe-code 방식으로 이식판과 장르 매시업을 만들고 있다. 새로 디컴파일된 게임은 이미 이식판으로 나왔다. Pokémon Brilliant Diamond와 Shining Pearl, Pokémon Snap, Pokémon Heart Gold와 Soul Silver가 그 예다."
-              },
-              {
-                "t": "p",
-                "x": "코드를 뜯어 재해석하는 이들도 있다. Brock과 Ash가 맞붙는 플레이 가능한 3D 픽셀 아트 배틀, Pokémon 택틱스 게임, 그리고 Vampire Survivors를 Pokémon으로 바꾼 브라우저 게임 PokéSurvivor가 그렇다."
-              },
-              {
-                "t": "p",
-                "x": "X의 팬들은 옛 게임을 플레이하고 모드할 수 있다는 데 들떠 있지만, 오래 손봐 온 이들은 덜 확신한다. 한 Reddit 사용자는 리컴파일이 예전엔 “커뮤니티 전체가 축하하던 대형 릴리스”였다고 했다. 404 Media는 일부 AI 디컴파일이 원본과 같지 않고, 이상한 버그가 있거나 제대로 작동하지 않는다고 보도했다."
-              },
-              {
-                "t": "p",
-                "x": "Kotaku의 평가는 이렇다. 대부분의 프로젝트는 기본적인 수준에서는 돌아가지만, 매시업이 특별히 새롭지는 않다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI逆コンパイルで\nPokémon移植が続々",
-          "body": "AIで、ファンがPokémon Snapの移植やPokéSurvivorを量産中だ。",
-          "mini_headline": "Vibe-codedなPokémon移植",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/pokemon-movie-1-1200x675.jpg",
-                "cap": "Toho Animation"
-              },
-              {
-                "t": "p",
-                "x": "ゲームの逆コンパイルは、decomp.devの運営者いわく「とてつもなく難しく、時間がかかる」作業だった。新たに登場した生成AIモデルがそのスピードを一変させ、運営者はそれが趣味のコミュニティとしての側面を壊したと語る。"
-              },
-              {
-                "t": "p",
-                "x": "Pokémonコミュニティでは、この熱狂の中で人々がvibe-codeによる移植やジャンルのマッシュアップを急いで作っている。新たに逆コンパイルされたゲームはすでに移植版になっており、Pokémon Brilliant DiamondとShining Pearl、Pokémon Snap、Pokémon Heart GoldとSoul Silverなどがある。"
-              },
-              {
-                "t": "p",
-                "x": "コードを分解して再構想する人もいる。BrockとAshが戦うプレイ可能な3Dピクセルアートのバトル、Pokémonのタクティクスゲーム、そしてVampire SurvivorsをPokémonにしたブラウザゲームPokéSurvivorだ。"
-              },
-              {
-                "t": "p",
-                "x": "X上のファンは古いゲームを遊んだりモッドを作ったりできることに沸いているが、長年いじってきた人々はそれほど納得していない。あるRedditユーザーは、かつてリコンパイルは「コミュニティ全体が祝う大型リリース」だったと語った。404 Mediaは、一部のAI逆コンパイルはオリジナルと同じではなく、奇妙なバグがあったり完全には動かなかったりすると報じた。"
-              },
-              {
-                "t": "p",
-                "x": "Kotakuの評価は、ほとんどのプロジェクトは基本的なレベルでは動くものの、マッシュアップに特に目新しさはない、というものだ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI反编译热潮下\nPokémon移植扎堆",
-          "body": "新AI模型让粉丝赶制Pokémon Snap等移植版和PokéSurvivor等混搭。",
-          "mini_headline": "Vibe-coded的Pokémon移植",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/pokemon-movie-1-1200x675.jpg",
-                "cap": "Toho Animation"
-              },
-              {
-                "t": "p",
-                "x": "反编译游戏，用decomp.dev运营者的话说，曾经“极其困难[且]耗时”。新发布的生成式AI模型改变了反编译的速度，这位运营者表示，这已经破坏了这项爱好的社区属性。"
-              },
-              {
-                "t": "p",
-                "x": "在Pokémon社区，这股热潮意味着人们争相用vibe-code制作移植版和类型混搭作品。新反编译的游戏已被做成移植版，包括Pokémon Brilliant Diamond与Shining Pearl、Pokémon Snap，以及Pokémon Heart Gold与Soul Silver。"
-              },
-              {
-                "t": "p",
-                "x": "也有人把代码拆开重新构想：一场可游玩的Brock与Ash之间的3D像素风对战、一款Pokémon战棋游戏，以及把Vampire Survivors改成Pokémon版本的浏览器游戏PokéSurvivor。"
-              },
-              {
-                "t": "p",
-                "x": "X上的粉丝为能游玩和修改老游戏而兴奋，但资深玩家没那么信服；一位Reddit用户说，重编译过去是“整个社区都会庆祝的重大发布”。404 Media报道称，一些AI反编译版本与原版并不相同，存在奇怪的错误，或无法完全运行。"
-              },
-              {
-                "t": "p",
-                "x": "Kotaku的结论是：大多数项目在基本层面上能运行，但这些混搭并没有特别新意。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La descompilación con AI llena\nde ports y mashups Pokémon",
-          "body": "Con nuevos modelos de AI, los fans lanzan ports de Pokémon Snap, Heart Gold y Soul Silver, y mashups como PokéSurvivor.",
-          "mini_headline": "Ports Vibe-coded de Pokémon",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/pokemon-movie-1-1200x675.jpg",
-                "cap": "Toho Animation"
-              },
-              {
-                "t": "p",
-                "x": "Descompilar juegos solía ser lo que el responsable de decomp.dev llamó “brutalmente difícil [y] lento”. Los nuevos modelos de AI generativa han cambiado la velocidad a la que es posible hacerlo, y ese responsable afirma que eso ha roto el lado comunitario de la afición."
-              },
-              {
-                "t": "p",
-                "x": "En la comunidad Pokémon, el frenesí ha llevado a muchos a apresurarse a crear con vibe-code ports y mezclas de géneros. Juegos recién descompilados ya se han convertido en ports, entre ellos Pokémon Brilliant Diamond y Shining Pearl, Pokémon Snap y Pokémon Heart Gold y Soul Silver."
-              },
-              {
-                "t": "p",
-                "x": "Otros desmontan el código para reinterpretarlo: un combate jugable en pixel art 3D entre Brock y Ash, un juego de tácticas de Pokémon y PokéSurvivor, un juego de navegador que convierte Vampire Survivors en Pokémon."
-              },
-              {
-                "t": "p",
-                "x": "Los fans en X están entusiasmados por jugar y modificar juegos antiguos, pero quienes llevan años trasteando no están tan convencidos; un usuario de Reddit dijo que las recompilaciones solían ser “grandes lanzamientos que comunidades enteras celebraban”. 404 Media informó de que algunas descompilaciones con AI no son iguales al original y tienen errores extraños o no funcionan del todo."
-              },
-              {
-                "t": "p",
-                "x": "El veredicto de Kotaku: la mayoría de los proyectos funcionan a un nivel básico, pero los mashups no son especialmente novedosos."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "games-inven-ai-modding",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "AI로 불어난 게임 모드\n규칙 다시 짜는 업계",
-      "body": "모드린스는 AI 위주 모드 등록을 막았고 넥서스 모드는 AI 활용 태그를 나눴다.",
-      "mini_headline": "AI 제작 모드에 새 규칙",
-      "tool": "Games",
-      "source": "인벤",
-      "url": "https://www.inven.co.kr/webzine/news/?news=322451",
-      "accent": "#eb367f",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://static.inven.co.kr/column/2026/10/22/news/i1816408170.jpg",
-            "cap": "©NEXUS MOD"
-          },
-          {
-            "t": "p",
-            "x": "마인크래프트 모드 플랫폼 모드린스는 8월 AI 모드 관련 새 정책을 발표했다. 올해 초 주당 약 2,500건이던 프로젝트 제출량이 8월 5,000건 이상으로 늘었고, 상당수가 AI로 제작된 콘텐츠였다. 모드린스는 대부분 혹은 전부 AI로 만든 프로젝트의 공개 등록을 금지했다."
-          },
-          {
-            "t": "p",
-            "x": "넥서스 모드는 제한 대신 분류를 택했다. AI 활용도에 따라 태그를 세분화하고, 사람이 주도한 작업임을 입증하는 개발 이력과 코드 이해도까지 관리 기준에 포함했다."
+            "x": "모치베 다카시가 X에 공개한 자료에 따르면, 발신자는 AI 도구로 해당 작품과 유사한 게임을 이미 제작했으며 스팀에 먼저 출시할 준비를 마쳤다고 주장했다. 이어 24시간 이내에 200달러(한화 약 26만 원) 상당의 스팀 아이템을 지급하면 복제작을 공개하지 않겠다고 통보했다. 발신자는 복제 게임 제작 증거로 영상을 첨부했다고 주장했지만, 실제로는 관련 영상이 포함되지 않았던 것으로 전해졌다."
           },
           {
             "t": "img",
-            "src": "https://static.inven.co.kr/column/2026/10/22/news/i1910067634.jpg",
-            "cap": "AI 생성 콘텐츠 분리 태그를 공지하는 넥서스모드 ©NEXUS MOD"
+            "src": "https://cdn.gamemeca.com/data_center/344/980/20261019170017.jpg",
+            "cap": "협박 메일 본문 (사진출처: 모치베 다카시 X 계정)"
           },
           {
             "t": "p",
-            "x": "게임사 대응도 갈린다. 라이엇 게임즈는 10월 6일부터 미승인 외부 프로그램의 게임 메모리 접근을 차단했고, 블리자드는 월드 오브 워크래프트 확장팩 '한밤'에서 애드온의 전투 정보 처리 능력을 제한했다."
+            "x": "모치베는 이러한 협박에 응하지 않았으며, 자신이 제작 중인 전략 RPG를 AI로 간단하게 복제하는 것은 불가능하다는 입장을 밝혔다. 그는 실제로 더 재미있는 복제 게임을 만들었다면 오히려 구매할 의향이 있다는 취지로 답변했다고 설명했다. 또한 해당 메일이 불특정 개발자에게 무작위로 발송되는 사기성 메시지일 가능성을 제기하며, 다른 개발자에게 주의를 당부했다."
           },
           {
             "t": "p",
-            "x": "반대로 스타필드와 발더스 게이트3는 2024년 공식 모딩 도구를 도입했고, EA는 2026년 심즈4에 메이커 프로그램을 도입해 이용자 제작 콘텐츠를 공식 마켓플레이스에서 판매할 수 있게 했다."
-          },
-          {
-            "t": "img",
-            "src": "https://static.inven.co.kr/column/2026/10/22/news/i1196909885.jpg",
-            "cap": "심즈4는 '마켓플레이스'를 통해 UCC시장을 만들었다 ©EA"
-          },
-          {
-            "t": "p",
-            "x": "AI가 모딩에 필요한 기술과 시간을 줄이면서, 울타리를 높이는 회사도 문을 열어두는 회사도 결국 울타리의 구조를 다시 설계하고 있다."
+            "x": "비슷한 우려는 해외 인디게임 개발자 사이에서도 나타나고 있다. 일부 개발자는 게임플레이 영상을 공개한 뒤 짧은 기간 안에 유사한 작품이 등록되는 사례를 보고했으며, 일본에서도 전략게임 '프로젝트 솔라리스(Project Solaris)' 개발자가 복제 피해를 막고자 정기적인 개발 상황 공개를 줄이겠다고 밝혔다. 또한 융융 전파 신드롬 개발사의 차기작이자 미형의 캐릭터로 관심을 모은 '푸키 가디스 샷 트릭(Pukey Goddess Shot Trick)' 역시 다가오는 10월 넥스트 페스트에서 체험판을 선보일 예정이었으나, AI 복제를 우려해 비공개 테스트로 일정을 변경했다."
           }
         ]
       },
       "text": {
         "ko": {
-          "headline": "AI로 불어난 게임 모드\n규칙 다시 짜는 업계",
-          "body": "모드린스는 AI 위주 모드 등록을 막았고 넥서스 모드는 AI 활용 태그를 나눴다.",
-          "mini_headline": "AI 제작 모드에 새 규칙",
+          "headline": "AI 복제게임 내겠다\n인디 개발자에 협박",
+          "body": "일본 인디 개발자가 AI 복제 게임을 내겠다며 금품을 요구하는 메일을 받았다.",
+          "mini_headline": "AI 복제게임 협박",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1816408170.jpg",
-                "cap": "©NEXUS MOD"
+                "src": "https://cdn.gamemeca.com/data_center/344/979/20261019170017.jpg",
+                "cap": "AI 복제작을 유포하겠다는 협박을 받은 일본 인디게임 개발자 모치베 다카시 (사진출처: 모치베 다카시 X 계정 갈무리)"
               },
               {
                 "t": "p",
-                "x": "마인크래프트 모드 플랫폼 모드린스는 8월 AI 모드 관련 새 정책을 발표했다. 올해 초 주당 약 2,500건이던 프로젝트 제출량이 8월 5,000건 이상으로 늘었고, 상당수가 AI로 제작된 콘텐츠였다. 모드린스는 대부분 혹은 전부 AI로 만든 프로젝트의 공개 등록을 금지했다."
+                "x": "일본 인디게임 개발자가 생성형 AI로 제작한 복제 게임을 먼저 출시하겠다며 금품을 요구하는 협박성 메일을 받았다."
               },
               {
                 "t": "p",
-                "x": "넥서스 모드는 제한 대신 분류를 택했다. AI 활용도에 따라 태그를 세분화하고, 사람이 주도한 작업임을 입증하는 개발 이력과 코드 이해도까지 관리 기준에 포함했다."
+                "x": "협박 메일을 공개한 인물은 전략 RPG '드래곤즈 크로니클(Dragon's Chronicles) ~쌍성의 레긴레이브~'를 개발하는 스튜디오 앳홈의 모치베 다카시다. 해당 작품은 2027년 스팀 출시를 목표로 제작 중인 전략 RPG다."
+              },
+              {
+                "t": "p",
+                "x": "모치베 다카시가 X에 공개한 자료에 따르면, 발신자는 AI 도구로 해당 작품과 유사한 게임을 이미 제작했으며 스팀에 먼저 출시할 준비를 마쳤다고 주장했다. 이어 24시간 이내에 200달러(한화 약 26만 원) 상당의 스팀 아이템을 지급하면 복제작을 공개하지 않겠다고 통보했다. 발신자는 복제 게임 제작 증거로 영상을 첨부했다고 주장했지만, 실제로는 관련 영상이 포함되지 않았던 것으로 전해졌다."
               },
               {
                 "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1910067634.jpg",
-                "cap": "AI 생성 콘텐츠 분리 태그를 공지하는 넥서스모드 ©NEXUS MOD"
+                "src": "https://cdn.gamemeca.com/data_center/344/980/20261019170017.jpg",
+                "cap": "협박 메일 본문 (사진출처: 모치베 다카시 X 계정)"
               },
               {
                 "t": "p",
-                "x": "게임사 대응도 갈린다. 라이엇 게임즈는 10월 6일부터 미승인 외부 프로그램의 게임 메모리 접근을 차단했고, 블리자드는 월드 오브 워크래프트 확장팩 '한밤'에서 애드온의 전투 정보 처리 능력을 제한했다."
+                "x": "모치베는 이러한 협박에 응하지 않았으며, 자신이 제작 중인 전략 RPG를 AI로 간단하게 복제하는 것은 불가능하다는 입장을 밝혔다. 그는 실제로 더 재미있는 복제 게임을 만들었다면 오히려 구매할 의향이 있다는 취지로 답변했다고 설명했다. 또한 해당 메일이 불특정 개발자에게 무작위로 발송되는 사기성 메시지일 가능성을 제기하며, 다른 개발자에게 주의를 당부했다."
               },
               {
                 "t": "p",
-                "x": "반대로 스타필드와 발더스 게이트3는 2024년 공식 모딩 도구를 도입했고, EA는 2026년 심즈4에 메이커 프로그램을 도입해 이용자 제작 콘텐츠를 공식 마켓플레이스에서 판매할 수 있게 했다."
-              },
-              {
-                "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1196909885.jpg",
-                "cap": "심즈4는 '마켓플레이스'를 통해 UCC시장을 만들었다 ©EA"
-              },
-              {
-                "t": "p",
-                "x": "AI가 모딩에 필요한 기술과 시간을 줄이면서, 울타리를 높이는 회사도 문을 열어두는 회사도 결국 울타리의 구조를 다시 설계하고 있다."
+                "x": "비슷한 우려는 해외 인디게임 개발자 사이에서도 나타나고 있다. 일부 개발자는 게임플레이 영상을 공개한 뒤 짧은 기간 안에 유사한 작품이 등록되는 사례를 보고했으며, 일본에서도 전략게임 '프로젝트 솔라리스(Project Solaris)' 개발자가 복제 피해를 막고자 정기적인 개발 상황 공개를 줄이겠다고 밝혔다. 또한 융융 전파 신드롬 개발사의 차기작이자 미형의 캐릭터로 관심을 모은 '푸키 가디스 샷 트릭(Pukey Goddess Shot Trick)' 역시 다가오는 10월 넥스트 페스트에서 체험판을 선보일 예정이었으나, AI 복제를 우려해 비공개 테스트로 일정을 변경했다."
               }
             ]
           }
         },
         "en": {
-          "headline": "AI-made game mods pile up\nand the industry redraws rules",
-          "body": "Modrinth blocked mostly AI-made mods, while Nexus Mods split its tags by how much AI was used.",
-          "mini_headline": "New rules for AI-made mods",
+          "headline": "Threat to release an AI clone\ntargets an indie developer",
+          "body": "A Japanese indie developer received an email demanding payment under threat of releasing an AI clone game.",
+          "mini_headline": "AI clone game extortion",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1816408170.jpg",
-                "cap": "©NEXUS MOD"
+                "src": "https://cdn.gamemeca.com/data_center/344/979/20261019170017.jpg",
+                "cap": "Japanese indie game developer Takashi Mochibe, who was threatened with the release of an AI clone (Photo: screenshot of Takashi Mochibe's X account)"
               },
               {
                 "t": "p",
-                "x": "Modrinth, a Minecraft mod platform, announced a new policy on AI mods in August. Project submissions grew from about 2,500 a week early this year to more than 5,000 in August, and much of it was AI-made content. Modrinth banned public listing of projects made mostly or entirely with AI."
+                "x": "A Japanese indie game developer received a threatening email demanding valuables, with the sender saying they would release a clone game made with generative AI first."
               },
               {
                 "t": "p",
-                "x": "Nexus Mods chose classification over restriction. It split its tags by degree of AI use, and added development history and code understanding that show the work was human-led to its moderation criteria."
+                "x": "The email was made public by Takashi Mochibe of Studio AtHome, which is developing the strategy RPG 'Dragon's Chronicles ~Reginleiv of the Twin Stars~'. The strategy RPG is in development with a target Steam release in 2027."
+              },
+              {
+                "t": "p",
+                "x": "According to material Mochibe posted on X, the sender claimed to have already made a game similar to the title using AI tools and to be ready to release it on Steam first. The sender then said the clone would not be released if Steam items worth $200 (about 260,000 won) were handed over within 24 hours. The sender claimed to have attached a video as proof of the clone, but reportedly no such video was included."
               },
               {
                 "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1910067634.jpg",
-                "cap": "Nexus Mods announcing tags that separate AI-generated content ©NEXUS MOD"
+                "src": "https://cdn.gamemeca.com/data_center/344/980/20261019170017.jpg",
+                "cap": "The text of the threatening email (Photo: Takashi Mochibe's X account)"
               },
               {
                 "t": "p",
-                "x": "Game companies are split too. Riot Games has blocked unapproved third-party programs from accessing game memory since October 6, and Blizzard limited add-ons' ability to process combat information in the World of Warcraft expansion 'Midnight'."
+                "x": "Mochibe did not give in to the threat and said that his strategy RPG cannot simply be cloned with AI. He explained that his reply was, in effect, that if the sender had actually made a more fun clone, he would gladly buy it. He also raised the possibility that the email is a scam sent at random to many developers, and urged other developers to be careful."
               },
               {
                 "t": "p",
-                "x": "In contrast, Starfield and Baldur's Gate 3 introduced official modding tools in 2024, and in 2026 EA introduced a Maker Program for The Sims 4 that lets user-made content be sold on an official marketplace."
-              },
-              {
-                "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1196909885.jpg",
-                "cap": "The Sims 4 built a UCC market through its 'Marketplace' ©EA"
-              },
-              {
-                "t": "p",
-                "x": "As AI cuts the skill and time modding requires, both the companies raising their fences and those keeping the door open are ultimately redesigning how the fence is built."
+                "x": "Similar concerns are emerging among indie developers abroad. Some developers have reported similar titles being listed shortly after they released gameplay footage, and in Japan the developer of the strategy game 'Project Solaris' said it would cut back on regular development updates to prevent cloning. 'Pukey Goddess Shot Trick', the next title from the developer of Yunyun Denpa Syndrome that drew attention for its attractive characters, had also planned to show a demo at the upcoming October Next Fest, but switched to a closed test over fears of AI cloning."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIで増えるゲームモッド\nルールを練り直す業界",
-          "body": "ModrinthはAI主体のモッド登録を禁じ、Nexus ModsはAI活用タグを分けた。",
-          "mini_headline": "AI製モッドに新ルール",
+          "headline": "「AI複製版を出す」\nインディー開発者に脅迫",
+          "body": "日本のインディー開発者が、AI複製ゲームの公開を盾に金品を求めるメールを受け取った。",
+          "mini_headline": "AI複製ゲーム脅迫",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1816408170.jpg",
-                "cap": "©NEXUS MOD"
+                "src": "https://cdn.gamemeca.com/data_center/344/979/20261019170017.jpg",
+                "cap": "AI複製版をばらまくと脅迫された日本のインディーゲーム開発者、モチベ・タカシ氏（画像出典：モチベ・タカシ氏のXアカウントのキャプチャ）"
               },
               {
                 "t": "p",
-                "x": "Minecraftのモッドプラットフォーム、Modrinthは8月、AIモッドに関する新ポリシーを発表した。今年初めに週約2,500件だったプロジェクト提出数は8月に5,000件以上へ増え、その多くがAIで作られたコンテンツだった。Modrinthは、大部分または全部をAIで作ったプロジェクトの公開登録を禁止した。"
+                "x": "日本のインディーゲーム開発者が、生成AIで作った複製ゲームを先に発売すると告げて金品を要求する脅迫メールを受け取った。"
               },
               {
                 "t": "p",
-                "x": "Nexus Modsは制限ではなく分類を選んだ。AIの活用度に応じてタグを細分化し、人が主導した作業であることを示す開発履歴やコードの理解度まで管理基準に含めた。"
+                "x": "脅迫メールを公開したのは、戦略RPG『Dragon's Chronicles ～双星のレギンレイヴ～』を開発するスタジオアットホームのモチベ・タカシ氏だ。同作は2027年のSteam発売を目指して開発中の戦略RPGである。"
+              },
+              {
+                "t": "p",
+                "x": "モチベ氏がXで公開した資料によると、送り主はAIツールで同作に似たゲームをすでに作っており、Steamで先に発売する準備も整えたと主張した。そのうえで、24時間以内に200ドル（約26万ウォン）相当のSteamアイテムを渡せば複製版を公開しないと通告した。送り主は複製ゲーム制作の証拠として動画を添付したと主張したが、実際には動画は含まれていなかったという。"
               },
               {
                 "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1910067634.jpg",
-                "cap": "AI生成コンテンツを分けるタグを告知するNexus Mods ©NEXUS MOD"
+                "src": "https://cdn.gamemeca.com/data_center/344/980/20261019170017.jpg",
+                "cap": "脅迫メールの本文（画像出典：モチベ・タカシ氏のXアカウント）"
               },
               {
                 "t": "p",
-                "x": "ゲーム会社の対応も分かれる。Riot Gamesは10月6日から未承認の外部プログラムによるゲームメモリへのアクセスを遮断し、BlizzardはWorld of Warcraftの拡張パック「Midnight」でアドオンの戦闘情報処理能力を制限した。"
+                "x": "モチベ氏は脅迫に応じず、自身が開発中の戦略RPGをAIで手軽に複製することは不可能だとの立場を示した。本当にもっと面白い複製ゲームを作ったのなら、むしろ買いたいという趣旨の返信をしたと説明している。また、このメールが不特定の開発者に無差別に送られる詐欺メッセージである可能性を指摘し、ほかの開発者に注意を呼びかけた。"
               },
               {
                 "t": "p",
-                "x": "一方、StarfieldとBaldur's Gate 3は2024年に公式モッディングツールを導入し、EAは2026年にThe Sims 4へメーカープログラムを導入して、ユーザー制作コンテンツを公式マーケットプレイスで販売できるようにした。"
-              },
-              {
-                "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1196909885.jpg",
-                "cap": "「マーケットプレイス」でUCC市場を生んだThe Sims 4 ©EA"
-              },
-              {
-                "t": "p",
-                "x": "AIがモッディングに必要な技術と時間を減らすなか、柵を高くする会社も扉を開けておく会社も、結局は柵の構造そのものを設計し直している。"
+                "x": "同様の懸念は海外のインディー開発者の間でも広がっている。ゲームプレイ映像を公開した直後に類似作が登録された事例を報告する開発者もおり、日本でも戦略ゲーム『Project Solaris』の開発者が、複製被害を防ぐため定期的な開発状況の公開を減らすと明らかにした。さらに、ゆんゆん電波シンドロームの開発元による次回作で、美麗なキャラクターで注目を集めた『Pukey Goddess Shot Trick』も、来たる10月のNext Festで体験版を出す予定だったが、AIによる複製を懸念してクローズドテストに予定を変更した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI催生大量游戏模组\n业界重写规则",
-          "body": "Modrinth禁止以AI为主的模组上架，Nexus Mods则细分了AI使用标签。",
-          "mini_headline": "AI制作模组迎来新规",
+          "headline": "扬言发布AI克隆游戏\n独立开发者遭勒索",
+          "body": "一名日本独立开发者收到邮件，对方扬言发布AI克隆游戏并索要财物。",
+          "mini_headline": "AI克隆游戏勒索",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1816408170.jpg",
-                "cap": "©NEXUS MOD"
+                "src": "https://cdn.gamemeca.com/data_center/344/979/20261019170017.jpg",
+                "cap": "遭到散布AI克隆作品威胁的日本独立游戏开发者Mochibe Takashi（图片来源：Mochibe Takashi的X账号截图）"
               },
               {
                 "t": "p",
-                "x": "Minecraft模组平台Modrinth于8月发布了有关AI模组的新政策。项目提交量从今年初的每周约2,500个增至8月的5,000个以上，其中相当一部分是用AI制作的内容。Modrinth禁止公开上架大部分或全部由AI制作的项目。"
+                "x": "一名日本独立游戏开发者收到一封勒索邮件，对方扬言将抢先发布用生成式AI制作的克隆游戏，并索要财物。"
               },
               {
                 "t": "p",
-                "x": "Nexus Mods选择分类而非限制。它根据AI使用程度细分标签，并将证明作品由人主导的开发记录和代码理解程度也纳入管理标准。"
+                "x": "公开这封勒索邮件的是Studio AtHome的Mochibe Takashi，该工作室正在开发策略RPG《Dragon's Chronicles ~双星的蕾金蕾芙~》。这款策略RPG目标于2027年登陆Steam。"
+              },
+              {
+                "t": "p",
+                "x": "根据Mochibe Takashi在X上公开的资料，发件人声称已用AI工具做出了与该作类似的游戏，并已准备好抢先在Steam发布。对方随后通告，只要在24小时内交出价值200美元（约合26万韩元）的Steam物品，就不会公开克隆作品。发件人声称附上了视频作为制作克隆游戏的证据，但据悉邮件中实际上并没有相关视频。"
               },
               {
                 "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1910067634.jpg",
-                "cap": "Nexus Mods公告区分AI生成内容的标签 ©NEXUS MOD"
+                "src": "https://cdn.gamemeca.com/data_center/344/980/20261019170017.jpg",
+                "cap": "勒索邮件正文（图片来源：Mochibe Takashi的X账号）"
               },
               {
                 "t": "p",
-                "x": "游戏公司的应对也出现分化。Riot Games自10月6日起阻止未经批准的外部程序访问游戏内存，Blizzard则在World of Warcraft资料片《Midnight》中限制了插件处理战斗信息的能力。"
+                "x": "Mochibe没有理会这一威胁，并表示自己正在开发的策略RPG不可能用AI轻易复制。他说，自己的回复大意是：如果对方真的做出了更好玩的克隆游戏，他反而愿意买来玩。他还指出，这封邮件可能是随机群发给不特定开发者的诈骗信息，提醒其他开发者提高警惕。"
               },
               {
                 "t": "p",
-                "x": "相反，Starfield和Baldur's Gate 3于2024年推出官方模组工具，EA则于2026年为The Sims 4推出Maker Program，让用户制作的内容可以在官方市场出售。"
-              },
-              {
-                "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1196909885.jpg",
-                "cap": "The Sims 4通过“市场”打造了UCC市场 ©EA"
-              },
-              {
-                "t": "p",
-                "x": "随着AI降低了模组制作所需的技术和时间，无论是加高围栏的公司还是敞开大门的公司，最终都在重新设计围栏的结构。"
+                "x": "类似的担忧也出现在海外独立游戏开发者之间。一些开发者反映，公开游戏实机视频后不久就有类似作品上架；在日本，策略游戏《Project Solaris》的开发者也表示，为防止被克隆，将减少定期公开开发进度。此外，Yunyun Denpa Syndrome开发商的新作、以美型角色受到关注的《Pukey Goddess Shot Trick》原定在即将到来的10月Next Fest推出试玩版，也因担心遭AI克隆而改为封闭测试。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los mods con AI se disparan y\nla industria rehace sus reglas",
-          "body": "Modrinth bloqueó los mods hechos sobre todo con AI y Nexus Mods dividió sus etiquetas según el uso de AI.",
-          "mini_headline": "Nuevas reglas para mods con AI",
+          "headline": "Amenazan a un creador indie\ncon lanzar un clon hecho con AI",
+          "body": "Un desarrollador indie japonés recibió un correo que exigía dinero bajo amenaza de lanzar un clon hecho con AI.",
+          "mini_headline": "Extorsión con un clon de AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1816408170.jpg",
-                "cap": "©NEXUS MOD"
+                "src": "https://cdn.gamemeca.com/data_center/344/979/20261019170017.jpg",
+                "cap": "Takashi Mochibe, desarrollador japonés de juegos indie amenazado con la difusión de un clon hecho con AI (Imagen: captura de la cuenta de X de Takashi Mochibe)"
               },
               {
                 "t": "p",
-                "x": "Modrinth, plataforma de mods de Minecraft, anunció en agosto una nueva política sobre mods con AI. Los envíos de proyectos pasaron de unos 2,500 por semana a principios de año a más de 5,000 en agosto, y buena parte era contenido creado con AI. Modrinth prohibió la publicación de proyectos hechos en su mayoría o por completo con AI."
+                "x": "Un desarrollador japonés de juegos indie recibió un correo amenazante en el que se le exigían bienes a cambio de no lanzar antes un juego clonado con AI generativa."
               },
               {
                 "t": "p",
-                "x": "Nexus Mods optó por clasificar en lugar de restringir. Dividió sus etiquetas según el grado de uso de AI e incluyó en sus criterios de moderación el historial de desarrollo y la comprensión del código que acreditan que el trabajo lo dirigió una persona."
+                "x": "Quien hizo público el correo es Takashi Mochibe, de Studio AtHome, estudio que desarrolla el RPG de estrategia 'Dragon's Chronicles ~Reginleiv de las estrellas gemelas~'. Se trata de un RPG de estrategia en desarrollo con el objetivo de lanzarse en Steam en 2027."
+              },
+              {
+                "t": "p",
+                "x": "Según el material que Mochibe publicó en X, el remitente afirmó que ya había creado con herramientas de AI un juego similar a la obra y que estaba listo para lanzarlo antes en Steam. Después advirtió que no publicaría el clon si en un plazo de 24 horas recibía artículos de Steam por valor de 200 dólares (unos 260,000 wones). El remitente aseguró haber adjuntado un video como prueba del clon, pero, según se informó, en realidad no incluía ningún video."
               },
               {
                 "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1910067634.jpg",
-                "cap": "Nexus Mods anuncia etiquetas para separar el contenido generado por AI ©NEXUS MOD"
+                "src": "https://cdn.gamemeca.com/data_center/344/980/20261019170017.jpg",
+                "cap": "Texto del correo amenazante (Imagen: cuenta de X de Takashi Mochibe)"
               },
               {
                 "t": "p",
-                "x": "Las respuestas de las compañías también divergen. Riot Games bloquea desde el 6 de octubre el acceso de programas externos no autorizados a la memoria del juego, y Blizzard limitó la capacidad de los add-ons para procesar información de combate en la expansión 'Midnight' de World of Warcraft."
+                "x": "Mochibe no cedió a la amenaza y sostuvo que es imposible clonar sin más con AI el RPG de estrategia que está desarrollando. Explicó que respondió, en esencia, que si de verdad habían hecho un clon más divertido, él estaría dispuesto a comprarlo. También planteó la posibilidad de que el correo sea un mensaje fraudulento enviado al azar a desarrolladores cualesquiera y pidió cautela a otros desarrolladores."
               },
               {
                 "t": "p",
-                "x": "En cambio, Starfield y Baldur's Gate 3 incorporaron herramientas oficiales de modding en 2024, y EA lanzó en 2026 un Maker Program para The Sims 4 que permite vender contenido creado por los usuarios en un mercado oficial."
-              },
-              {
-                "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1196909885.jpg",
-                "cap": "The Sims 4 creó un mercado de UCC a través de su 'Marketplace' ©EA"
-              },
-              {
-                "t": "p",
-                "x": "A medida que la AI reduce la técnica y el tiempo que exige el modding, tanto las compañías que elevan sus vallas como las que dejan la puerta abierta acaban rediseñando la estructura de la valla."
+                "x": "Preocupaciones similares surgen entre desarrolladores indie de otros países. Algunos han informado de juegos parecidos publicados poco después de mostrar videos de su jugabilidad, y en Japón el desarrollador del juego de estrategia 'Project Solaris' anunció que reducirá las actualizaciones periódicas sobre el desarrollo para evitar clones. Además, 'Pukey Goddess Shot Trick', el próximo título del estudio de Yunyun Denpa Syndrome, que llamó la atención por sus atractivos personajes, iba a presentar una demo en el próximo Next Fest de octubre, pero cambió sus planes a una prueba cerrada por temor a clones hechos con AI."
               }
             ]
           }
@@ -1654,181 +877,161 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "AI-made game mods pile up\nand the industry redraws rules",
-          "body": "Modrinth blocked mostly AI-made mods, while Nexus Mods split its tags by how much AI was used.",
-          "mini_headline": "New rules for AI-made mods",
+          "headline": "Threat to release an AI clone\ntargets an indie developer",
+          "body": "A Japanese indie developer received an email demanding payment under threat of releasing an AI clone game.",
+          "mini_headline": "AI clone game extortion",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1816408170.jpg",
-                "cap": "©NEXUS MOD"
+                "src": "https://cdn.gamemeca.com/data_center/344/979/20261019170017.jpg",
+                "cap": "Japanese indie game developer Takashi Mochibe, who was threatened with the release of an AI clone (Photo: screenshot of Takashi Mochibe's X account)"
               },
               {
                 "t": "p",
-                "x": "Modrinth, a Minecraft mod platform, announced a new policy on AI mods in August. Project submissions grew from about 2,500 a week early this year to more than 5,000 in August, and much of it was AI-made content. Modrinth banned public listing of projects made mostly or entirely with AI."
+                "x": "A Japanese indie game developer received a threatening email demanding valuables, with the sender saying they would release a clone game made with generative AI first."
               },
               {
                 "t": "p",
-                "x": "Nexus Mods chose classification over restriction. It split its tags by degree of AI use, and added development history and code understanding that show the work was human-led to its moderation criteria."
+                "x": "The email was made public by Takashi Mochibe of Studio AtHome, which is developing the strategy RPG 'Dragon's Chronicles ~Reginleiv of the Twin Stars~'. The strategy RPG is in development with a target Steam release in 2027."
+              },
+              {
+                "t": "p",
+                "x": "According to material Mochibe posted on X, the sender claimed to have already made a game similar to the title using AI tools and to be ready to release it on Steam first. The sender then said the clone would not be released if Steam items worth $200 (about 260,000 won) were handed over within 24 hours. The sender claimed to have attached a video as proof of the clone, but reportedly no such video was included."
               },
               {
                 "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1910067634.jpg",
-                "cap": "Nexus Mods announcing tags that separate AI-generated content ©NEXUS MOD"
+                "src": "https://cdn.gamemeca.com/data_center/344/980/20261019170017.jpg",
+                "cap": "The text of the threatening email (Photo: Takashi Mochibe's X account)"
               },
               {
                 "t": "p",
-                "x": "Game companies are split too. Riot Games has blocked unapproved third-party programs from accessing game memory since October 6, and Blizzard limited add-ons' ability to process combat information in the World of Warcraft expansion 'Midnight'."
+                "x": "Mochibe did not give in to the threat and said that his strategy RPG cannot simply be cloned with AI. He explained that his reply was, in effect, that if the sender had actually made a more fun clone, he would gladly buy it. He also raised the possibility that the email is a scam sent at random to many developers, and urged other developers to be careful."
               },
               {
                 "t": "p",
-                "x": "In contrast, Starfield and Baldur's Gate 3 introduced official modding tools in 2024, and in 2026 EA introduced a Maker Program for The Sims 4 that lets user-made content be sold on an official marketplace."
-              },
-              {
-                "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1196909885.jpg",
-                "cap": "The Sims 4 built a UCC market through its 'Marketplace' ©EA"
-              },
-              {
-                "t": "p",
-                "x": "As AI cuts the skill and time modding requires, both the companies raising their fences and those keeping the door open are ultimately redesigning how the fence is built."
+                "x": "Similar concerns are emerging among indie developers abroad. Some developers have reported similar titles being listed shortly after they released gameplay footage, and in Japan the developer of the strategy game 'Project Solaris' said it would cut back on regular development updates to prevent cloning. 'Pukey Goddess Shot Trick', the next title from the developer of Yunyun Denpa Syndrome that drew attention for its attractive characters, had also planned to show a demo at the upcoming October Next Fest, but switched to a closed test over fears of AI cloning."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIで増えるゲームモッド\nルールを練り直す業界",
-          "body": "ModrinthはAI主体のモッド登録を禁じ、Nexus ModsはAI活用タグを分けた。",
-          "mini_headline": "AI製モッドに新ルール",
+          "headline": "「AI複製版を出す」\nインディー開発者に脅迫",
+          "body": "日本のインディー開発者が、AI複製ゲームの公開を盾に金品を求めるメールを受け取った。",
+          "mini_headline": "AI複製ゲーム脅迫",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1816408170.jpg",
-                "cap": "©NEXUS MOD"
+                "src": "https://cdn.gamemeca.com/data_center/344/979/20261019170017.jpg",
+                "cap": "AI複製版をばらまくと脅迫された日本のインディーゲーム開発者、モチベ・タカシ氏（画像出典：モチベ・タカシ氏のXアカウントのキャプチャ）"
               },
               {
                 "t": "p",
-                "x": "Minecraftのモッドプラットフォーム、Modrinthは8月、AIモッドに関する新ポリシーを発表した。今年初めに週約2,500件だったプロジェクト提出数は8月に5,000件以上へ増え、その多くがAIで作られたコンテンツだった。Modrinthは、大部分または全部をAIで作ったプロジェクトの公開登録を禁止した。"
+                "x": "日本のインディーゲーム開発者が、生成AIで作った複製ゲームを先に発売すると告げて金品を要求する脅迫メールを受け取った。"
               },
               {
                 "t": "p",
-                "x": "Nexus Modsは制限ではなく分類を選んだ。AIの活用度に応じてタグを細分化し、人が主導した作業であることを示す開発履歴やコードの理解度まで管理基準に含めた。"
+                "x": "脅迫メールを公開したのは、戦略RPG『Dragon's Chronicles ～双星のレギンレイヴ～』を開発するスタジオアットホームのモチベ・タカシ氏だ。同作は2027年のSteam発売を目指して開発中の戦略RPGである。"
+              },
+              {
+                "t": "p",
+                "x": "モチベ氏がXで公開した資料によると、送り主はAIツールで同作に似たゲームをすでに作っており、Steamで先に発売する準備も整えたと主張した。そのうえで、24時間以内に200ドル（約26万ウォン）相当のSteamアイテムを渡せば複製版を公開しないと通告した。送り主は複製ゲーム制作の証拠として動画を添付したと主張したが、実際には動画は含まれていなかったという。"
               },
               {
                 "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1910067634.jpg",
-                "cap": "AI生成コンテンツを分けるタグを告知するNexus Mods ©NEXUS MOD"
+                "src": "https://cdn.gamemeca.com/data_center/344/980/20261019170017.jpg",
+                "cap": "脅迫メールの本文（画像出典：モチベ・タカシ氏のXアカウント）"
               },
               {
                 "t": "p",
-                "x": "ゲーム会社の対応も分かれる。Riot Gamesは10月6日から未承認の外部プログラムによるゲームメモリへのアクセスを遮断し、BlizzardはWorld of Warcraftの拡張パック「Midnight」でアドオンの戦闘情報処理能力を制限した。"
+                "x": "モチベ氏は脅迫に応じず、自身が開発中の戦略RPGをAIで手軽に複製することは不可能だとの立場を示した。本当にもっと面白い複製ゲームを作ったのなら、むしろ買いたいという趣旨の返信をしたと説明している。また、このメールが不特定の開発者に無差別に送られる詐欺メッセージである可能性を指摘し、ほかの開発者に注意を呼びかけた。"
               },
               {
                 "t": "p",
-                "x": "一方、StarfieldとBaldur's Gate 3は2024年に公式モッディングツールを導入し、EAは2026年にThe Sims 4へメーカープログラムを導入して、ユーザー制作コンテンツを公式マーケットプレイスで販売できるようにした。"
-              },
-              {
-                "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1196909885.jpg",
-                "cap": "「マーケットプレイス」でUCC市場を生んだThe Sims 4 ©EA"
-              },
-              {
-                "t": "p",
-                "x": "AIがモッディングに必要な技術と時間を減らすなか、柵を高くする会社も扉を開けておく会社も、結局は柵の構造そのものを設計し直している。"
+                "x": "同様の懸念は海外のインディー開発者の間でも広がっている。ゲームプレイ映像を公開した直後に類似作が登録された事例を報告する開発者もおり、日本でも戦略ゲーム『Project Solaris』の開発者が、複製被害を防ぐため定期的な開発状況の公開を減らすと明らかにした。さらに、ゆんゆん電波シンドロームの開発元による次回作で、美麗なキャラクターで注目を集めた『Pukey Goddess Shot Trick』も、来たる10月のNext Festで体験版を出す予定だったが、AIによる複製を懸念してクローズドテストに予定を変更した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI催生大量游戏模组\n业界重写规则",
-          "body": "Modrinth禁止以AI为主的模组上架，Nexus Mods则细分了AI使用标签。",
-          "mini_headline": "AI制作模组迎来新规",
+          "headline": "扬言发布AI克隆游戏\n独立开发者遭勒索",
+          "body": "一名日本独立开发者收到邮件，对方扬言发布AI克隆游戏并索要财物。",
+          "mini_headline": "AI克隆游戏勒索",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1816408170.jpg",
-                "cap": "©NEXUS MOD"
+                "src": "https://cdn.gamemeca.com/data_center/344/979/20261019170017.jpg",
+                "cap": "遭到散布AI克隆作品威胁的日本独立游戏开发者Mochibe Takashi（图片来源：Mochibe Takashi的X账号截图）"
               },
               {
                 "t": "p",
-                "x": "Minecraft模组平台Modrinth于8月发布了有关AI模组的新政策。项目提交量从今年初的每周约2,500个增至8月的5,000个以上，其中相当一部分是用AI制作的内容。Modrinth禁止公开上架大部分或全部由AI制作的项目。"
+                "x": "一名日本独立游戏开发者收到一封勒索邮件，对方扬言将抢先发布用生成式AI制作的克隆游戏，并索要财物。"
               },
               {
                 "t": "p",
-                "x": "Nexus Mods选择分类而非限制。它根据AI使用程度细分标签，并将证明作品由人主导的开发记录和代码理解程度也纳入管理标准。"
+                "x": "公开这封勒索邮件的是Studio AtHome的Mochibe Takashi，该工作室正在开发策略RPG《Dragon's Chronicles ~双星的蕾金蕾芙~》。这款策略RPG目标于2027年登陆Steam。"
+              },
+              {
+                "t": "p",
+                "x": "根据Mochibe Takashi在X上公开的资料，发件人声称已用AI工具做出了与该作类似的游戏，并已准备好抢先在Steam发布。对方随后通告，只要在24小时内交出价值200美元（约合26万韩元）的Steam物品，就不会公开克隆作品。发件人声称附上了视频作为制作克隆游戏的证据，但据悉邮件中实际上并没有相关视频。"
               },
               {
                 "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1910067634.jpg",
-                "cap": "Nexus Mods公告区分AI生成内容的标签 ©NEXUS MOD"
+                "src": "https://cdn.gamemeca.com/data_center/344/980/20261019170017.jpg",
+                "cap": "勒索邮件正文（图片来源：Mochibe Takashi的X账号）"
               },
               {
                 "t": "p",
-                "x": "游戏公司的应对也出现分化。Riot Games自10月6日起阻止未经批准的外部程序访问游戏内存，Blizzard则在World of Warcraft资料片《Midnight》中限制了插件处理战斗信息的能力。"
+                "x": "Mochibe没有理会这一威胁，并表示自己正在开发的策略RPG不可能用AI轻易复制。他说，自己的回复大意是：如果对方真的做出了更好玩的克隆游戏，他反而愿意买来玩。他还指出，这封邮件可能是随机群发给不特定开发者的诈骗信息，提醒其他开发者提高警惕。"
               },
               {
                 "t": "p",
-                "x": "相反，Starfield和Baldur's Gate 3于2024年推出官方模组工具，EA则于2026年为The Sims 4推出Maker Program，让用户制作的内容可以在官方市场出售。"
-              },
-              {
-                "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1196909885.jpg",
-                "cap": "The Sims 4通过“市场”打造了UCC市场 ©EA"
-              },
-              {
-                "t": "p",
-                "x": "随着AI降低了模组制作所需的技术和时间，无论是加高围栏的公司还是敞开大门的公司，最终都在重新设计围栏的结构。"
+                "x": "类似的担忧也出现在海外独立游戏开发者之间。一些开发者反映，公开游戏实机视频后不久就有类似作品上架；在日本，策略游戏《Project Solaris》的开发者也表示，为防止被克隆，将减少定期公开开发进度。此外，Yunyun Denpa Syndrome开发商的新作、以美型角色受到关注的《Pukey Goddess Shot Trick》原定在即将到来的10月Next Fest推出试玩版，也因担心遭AI克隆而改为封闭测试。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los mods con AI se disparan y\nla industria rehace sus reglas",
-          "body": "Modrinth bloqueó los mods hechos sobre todo con AI y Nexus Mods dividió sus etiquetas según el uso de AI.",
-          "mini_headline": "Nuevas reglas para mods con AI",
+          "headline": "Amenazan a un creador indie\ncon lanzar un clon hecho con AI",
+          "body": "Un desarrollador indie japonés recibió un correo que exigía dinero bajo amenaza de lanzar un clon hecho con AI.",
+          "mini_headline": "Extorsión con un clon de AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1816408170.jpg",
-                "cap": "©NEXUS MOD"
+                "src": "https://cdn.gamemeca.com/data_center/344/979/20261019170017.jpg",
+                "cap": "Takashi Mochibe, desarrollador japonés de juegos indie amenazado con la difusión de un clon hecho con AI (Imagen: captura de la cuenta de X de Takashi Mochibe)"
               },
               {
                 "t": "p",
-                "x": "Modrinth, plataforma de mods de Minecraft, anunció en agosto una nueva política sobre mods con AI. Los envíos de proyectos pasaron de unos 2,500 por semana a principios de año a más de 5,000 en agosto, y buena parte era contenido creado con AI. Modrinth prohibió la publicación de proyectos hechos en su mayoría o por completo con AI."
+                "x": "Un desarrollador japonés de juegos indie recibió un correo amenazante en el que se le exigían bienes a cambio de no lanzar antes un juego clonado con AI generativa."
               },
               {
                 "t": "p",
-                "x": "Nexus Mods optó por clasificar en lugar de restringir. Dividió sus etiquetas según el grado de uso de AI e incluyó en sus criterios de moderación el historial de desarrollo y la comprensión del código que acreditan que el trabajo lo dirigió una persona."
+                "x": "Quien hizo público el correo es Takashi Mochibe, de Studio AtHome, estudio que desarrolla el RPG de estrategia 'Dragon's Chronicles ~Reginleiv de las estrellas gemelas~'. Se trata de un RPG de estrategia en desarrollo con el objetivo de lanzarse en Steam en 2027."
+              },
+              {
+                "t": "p",
+                "x": "Según el material que Mochibe publicó en X, el remitente afirmó que ya había creado con herramientas de AI un juego similar a la obra y que estaba listo para lanzarlo antes en Steam. Después advirtió que no publicaría el clon si en un plazo de 24 horas recibía artículos de Steam por valor de 200 dólares (unos 260,000 wones). El remitente aseguró haber adjuntado un video como prueba del clon, pero, según se informó, en realidad no incluía ningún video."
               },
               {
                 "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1910067634.jpg",
-                "cap": "Nexus Mods anuncia etiquetas para separar el contenido generado por AI ©NEXUS MOD"
+                "src": "https://cdn.gamemeca.com/data_center/344/980/20261019170017.jpg",
+                "cap": "Texto del correo amenazante (Imagen: cuenta de X de Takashi Mochibe)"
               },
               {
                 "t": "p",
-                "x": "Las respuestas de las compañías también divergen. Riot Games bloquea desde el 6 de octubre el acceso de programas externos no autorizados a la memoria del juego, y Blizzard limitó la capacidad de los add-ons para procesar información de combate en la expansión 'Midnight' de World of Warcraft."
+                "x": "Mochibe no cedió a la amenaza y sostuvo que es imposible clonar sin más con AI el RPG de estrategia que está desarrollando. Explicó que respondió, en esencia, que si de verdad habían hecho un clon más divertido, él estaría dispuesto a comprarlo. También planteó la posibilidad de que el correo sea un mensaje fraudulento enviado al azar a desarrolladores cualesquiera y pidió cautela a otros desarrolladores."
               },
               {
                 "t": "p",
-                "x": "En cambio, Starfield y Baldur's Gate 3 incorporaron herramientas oficiales de modding en 2024, y EA lanzó en 2026 un Maker Program para The Sims 4 que permite vender contenido creado por los usuarios en un mercado oficial."
-              },
-              {
-                "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/22/news/i1196909885.jpg",
-                "cap": "The Sims 4 creó un mercado de UCC a través de su 'Marketplace' ©EA"
-              },
-              {
-                "t": "p",
-                "x": "A medida que la AI reduce la técnica y el tiempo que exige el modding, tanto las compañías que elevan sus vallas como las que dejan la puerta abierta acaban rediseñando la estructura de la valla."
+                "x": "Preocupaciones similares surgen entre desarrolladores indie de otros países. Algunos han informado de juegos parecidos publicados poco después de mostrar videos de su jugabilidad, y en Japón el desarrollador del juego de estrategia 'Project Solaris' anunció que reducirá las actualizaciones periódicas sobre el desarrollo para evitar clones. Además, 'Pukey Goddess Shot Trick', el próximo título del estudio de Yunyun Denpa Syndrome, que llamó la atención por sus atractivos personajes, iba a presentar una demo en el próximo Next Fest de octubre, pero cambió sus planes a una prueba cerrada por temor a clones hechos con AI."
               }
             ]
           }

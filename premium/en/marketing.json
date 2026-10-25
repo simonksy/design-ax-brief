@@ -2281,6 +2281,120 @@
           "x": "To prevent this, you can disconnect apps from Search’s Personal Intelligence features or disable Personalized Recommendations entirely via the Search Services Personalization settings page."
         }
       ]
+    },
+    "marketing/marketing-bid-exploration-pmax": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://searchengineland.com/wp-content/seloads/2026/10/Google-Ads-Performance-Dashboard-1.png"
+        },
+        {
+          "t": "p",
+          "x": "Google Ads is expanding Smart Bidding Exploration to Performance Max and Shopping campaigns, allowing advertisers to pursue additional search opportunities through Target ROAS bidding. The feature, previously available for Search campaigns, is designed to help advertisers capture more conversions from eligible searches that their existing bidding strategies might otherwise overlook."
+        },
+        {
+          "t": "p",
+          "x": "For Performance Max, it expands bidding opportunities on the Search channel by exploring additional searches among existing eligible terms. For Shopping, exploration can apply to both Search and Shopping traffic when a Merchant Center feed is available. Google has published new help documentation for both."
+        },
+        {
+          "t": "p",
+          "x": "Eligibility: campaigns must use Target ROAS and should not be limited by budget. Portfolio bid strategies are compatible only for Search campaigns, and the feature isn't available in Search Ads 360 for Shopping or retail Performance Max campaigns."
+        },
+        {
+          "t": "p",
+          "x": "The update doesn't guarantee higher conversion volume or better ROAS. Advertisers should review eligibility requirements and monitor performance before making broader bidding changes."
+        }
+      ]
+    },
+    "marketing/marketing-ads-localize-10-languages": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/google-ads-ai-campaign-localization-10-languages-typewriter-speech-bubbles.jpg",
+          "cap": "Google Ads AI copies one English Search campaign into 10 languages, budgets left unconverted"
+        },
+        {
+          "t": "p",
+          "x": "Google Ads advertisers now have access to an AI campaign localization tool that turns an existing English (US) Search campaign into a separate campaign in one of 10 other languages, according to PPC News Feed, which reported its availability on October 23, 2026. It translates headlines, descriptions, sitelinks, callouts and keywords, strips text out of images, and offers a script that translates landing pages on the fly. It is labelled a beta."
+        },
+        {
+          "t": "p",
+          "x": "\"When you localize a campaign, the system creates a brand new, independent campaign. Your original campaign is never modified,\" according to the help page. Budgets and bids are copied exactly: \"a $100 USD budget becomes a $100 USD budget in the localized campaign.\" New campaigns publish in a Paused state by default."
+        },
+        {
+          "t": "p",
+          "x": "Targets are Dutch, French, French (Canada), German, Italian, Polish, two Portuguese and two Spanish variants. The page promised Performance Max support \"starting September 2026\", which neither source confirms has arrived. Election-verified customers aren't eligible."
+        }
+      ]
+    },
+    "marketing/marketing-samsung-tv-ad-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/EiDyWR9Yo8wN9DnMZqQdJ4-2560-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Reverse engineer and cybersecurity bounty hunter log4j recently found they were getting \"weirdly targeted ads\" on their 2025 Samsung TV. After reverse-engineering the Tizen OS, they live-tweeted code covering detailed user telemetry from packet logging, audio categorization, screenshots and cross-device identification for ad tracking."
+        },
+        {
+          "t": "p",
+          "x": "The hacker found a region-specific convolutional neural network (an AI) that tracks user behavior, such as what videos the user watches, which ads are skipped and video progress. For TVs without microphones, it reportedly finds connected devices such as a soundbar or Bluetooth device to record audio."
+        },
+        {
+          "t": "p",
+          "x": "Hugging Face engineer ngxson tested the microphone behavior and found the TV opened the microphone for five seconds, then stopped, though their TV was already rooted with settings disabled."
+        },
+        {
+          "t": "p",
+          "x": "log4j used OpenAI tools for the work and was banned for cyber abuse; they say they used them only for local reverse engineering. A full write-up is in progress."
+        }
+      ]
+    },
+    "marketing/marketing-china-ai-ad-blue-book": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d.cn.ibtimes.com/en/full/1824086/china-artificial-intelligence-digital-advertising-content-moderation.jpg",
+          "cap": "A new Chinese industry blue book proposes end-to-end governance for AI-generated advertising."
+        },
+        {
+          "t": "p",
+          "x": "The Blue Book on Internet Advertising Governance in the AIGC Era was released on October 24 during the 33rd China International Advertising Festival, according to China News Service reporting carried by Eastmoney. It proposes a framework covering advertising from content creation and review to transactions and post-advertising consumer protection."
+        },
+        {
+          "t": "p",
+          "x": "A central recommendation is to use AI systems to identify risks created by other AI systems: multimodal models can analyse images, text and audio together to catch misleading messages. Xiao Tao of Ocean Engine said intelligent review could process 90% of ad materials within 10 minutes at the fastest, improving efficiency by 75%."
+        },
+        {
+          "t": "p",
+          "x": "Advertisers remain responsible for the truthfulness of their claims, while platforms keep safeguards against risks such as fabricated synthetic endorsements. The blue book is a set of recommendations, not a new binding national law."
+        }
+      ]
+    },
+    "marketing/marketing-pennsylvania-ai-ad-labels": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad — whether it’s a still image, video, audio, or text — that “has been significantly modified or generated by artificial intelligence” to include a label in the same format as the ad itself. That applies to TV commercials from multi-billion-dollar companies, as well as restaurants’ ugly, crowded flyers about their wing specials."
+        },
+        {
+          "t": "p",
+          "x": "Pennsylvania is one of the first states to require disclosures on AI content. And it requires those labels regardless of where an ad was created. So you might see disclosures pop up in commercials in other states if they’re also expected to air in Pennsylvania."
+        },
+        {
+          "t": "p",
+          "x": "The law leaves many loopholes, though. For one, what constitutes “significantly modified” is subjective. There is also a carve-out for “parody, satire, commentary or criticism,” as well as anything that is “evidently fictional.” Again, what “evidently fictional” means is unclear. The wording also suggests only content that “uses synthetic content in a manner that creates a false consumer perception” about a product or service would require a disclosure. Again, leaving questions about what qualifies as “false” under the law and who makes those decisions."
+        },
+        {
+          "t": "p",
+          "x": "The office of State Senator Nick Pisciottano, who introduced the bill, did not immediately return a request for comment."
+        }
+      ]
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "section": "medicine",
   "user_selection": null,
   "picks": [
@@ -9,14 +9,14 @@
       "category": "medicine",
       "accent": "#00897b",
       "motif": "sphere",
-      "title": "FDA clears new AI-enabled stethoscopes",
-      "url": "https://cardiovascularbusiness.com/topics/artificial-intelligence/fda-clears-new-ai-enabled-stethoscopes",
-      "source": "Cardiovascular Business",
-      "published_iso": "2026-10-23T16:42:25+00:00",
-      "og_image": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/assets_ms2016573_000001_1280x960_core_300_pr_1-1.jpg?h=926d89e9&itok=p9_Udd4z",
-      "excerpt": "FDA cleared Eko Health's Core 300 AI-enabled stethoscope, combining analog listening with noise cancellation, amplification and real-time heart data display.",
+      "title": "Rivanna gets FDA clearance for BoneEnhance ultrasound software",
+      "url": "https://www.auntminnie.com/clinical-news/ultrasound/news/15838275/rivanna-gets-fda-clearance-for-boneenhance-ultrasound-software",
+      "source": "AuntMinnie",
+      "published_iso": "2026-10-22T21:05:27Z",
+      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/rivanna-logo.1nL6spIwRd.jpg?auto=format%2Ccompress&q=70&w=800",
+      "excerpt": "FDA cleared Rivanna's BoneEnhance AI software module, which identifies bone and surrounding tissues and highlights them with color-coded overlays on 2D B-mode ultrasound images.",
       "lang": "en",
-      "rationale": "A regulator decision: FDA clearance of a new AI stethoscope that clinicians use at the bedside. The 10-19 NEJM AI card was a validation study of AI auscultation, not a device clearance, so this is a separate event."
+      "rationale": "A regulator decision: an FDA clearance for AI bone overlays on point-of-care ultrasound, which clinicians use for needle guidance. The tagged 10-07 AIRS Medical card was a different company, a different device and a different modality (MRI)."
     },
     {
       "rank": 2,
@@ -24,14 +24,14 @@
       "category": "medicine",
       "accent": "#0070f3",
       "motif": "sphere",
-      "title": "에이아이트릭스·강북삼성병원, 병원 행정 업무 AI 완전 자동화 추진",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014709",
-      "source": "의학신문(일간보사)",
-      "published_iso": "2026-10-23T16:58:07+09:00",
-      "og_image": "https://cdn.bosa.co.kr/news/photo/202610/3014709_415642_4721.jpg",
-      "excerpt": "에이아이트릭스와 강북삼성병원이 의료진 문서 부담을 줄이기 위해 병원 행정 업무의 AI 완전 자동화를 추진한다.",
-      "lang": "ko",
-      "rationale": "Replaces the unverifiable NEJM AI ambient-documentation paper. A Korean hospital is adopting AI to automate clinician documentation and admin work, which falls under the _note's hospital-adoption and EMR-documentation scope. The article body is readable. The full URL (idxno=3014709) is not in history, which holds 3013809, 3014062, 3014060, 3013789, 3014484, 3014596 and 3014609. The enrichment pass should state whether this is a signed deployment or an MOU-stage plan."
+      "title": "AI-powered ECG assessments may improve heart transplant rejection warnings",
+      "url": "https://cardiovascularbusiness.com/topics/clinical/cardiac-surgery/ai-ecg-analysis-offers-heart-transplant-rejection-warnings",
+      "source": "Cardiovascular Business",
+      "published_iso": "2026-10-20T18:09:56Z",
+      "og_image": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2020-03/transplant_0.jpg?h=956ee2f3&itok=GcZkfQn3",
+      "excerpt": "Researchers said they plan on testing the AI model in additional patients at several transplant centers.",
+      "lang": "en",
+      "rationale": "A clinical study in a defined patient group: AI reads routine ECGs to flag heart transplant rejection, which could reduce reliance on invasive biopsies. The 30-day history has no transplant or ECG-rejection card. The excerpt is thin, so the enrichment pass should pull the cohort size and accuracy figures."
     },
     {
       "rank": 3,
@@ -39,74 +39,74 @@
       "category": "medicine",
       "accent": "#7928ca",
       "motif": "sphere",
-      "title": "AI checks the trustworthiness of breast cancer AI models",
-      "url": "https://radiologybusiness.com/topics/artificial-intelligence/artificial-intelligence-checks-trustworthiness-breast-cancer-ai-models",
-      "source": "Radiology Business",
-      "published_iso": "2026-10-21T22:16:44+00:00",
-      "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-06/istock-2202666684.jpg?h=140710cd&itok=XUsmUugX",
-      "excerpt": "University of Pittsburgh researchers built a model that flags when a breast cancer AI result may need a radiologist's second look.",
+      "title": "AI flags heart failure patients at risk of functional decline",
+      "url": "https://cardiovascularbusiness.com/topics/clinical/heart-failure/ai-flags-heart-failure-patients-risk-functional-decline",
+      "source": "Cardiovascular Business",
+      "published_iso": "2026-10-20T19:53:31Z",
+      "og_image": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-983942394.jpg?h=39b07655&itok=8Yg4Z5XX",
+      "excerpt": "“Instead of asking only whether a patient will survive, we need to ask whether they will be able to maintain the life they value after discharge,” one researcher explained.",
       "lang": "en",
-      "rationale": "A safety layer for breast imaging AI: it flags which AI reads a radiologist should re-check. The tagged 10-07 card was about one health system replacing second readers with AI, which is a different event (a deployment, not this Pitt research)."
+      "rationale": "A patient-centered prediction study: it predicts loss of function after a heart failure discharge, not only death, which changes what discharge planning targets. It is a different study and outcome from pick 2. This is the second Cardiovascular Business card, which is the outlet cap."
     },
     {
       "rank": 4,
       "tool": "Medicine",
       "category": "medicine",
-      "accent": "#ff5a4d",
+      "accent": "#2ec5c5",
       "motif": "sphere",
-      "title": "EpiSemoLLM localizes epileptogenic zones from seizure semiology",
-      "url": "https://www.nature.com/articles/s43856-026-01883-1",
-      "source": "Communications Medicine",
-      "published_iso": "2026-10-19T00:00:00Z",
-      "og_image": "",
-      "excerpt": "EpiSemoLLM, a domain-adapted language model, localizes epileptogenic zones from seizure semiology and performs comparably to or better than epileptologists across internal and external cohorts.",
+      "title": "Doximity adds UpToDate to Ask in push to become doctors’ go-to AI platform",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/doximity-adds-uptodate-ask-push-become-doctors-go-ai-platform",
+      "source": "Fierce Healthcare",
+      "published_iso": "2026-10-21T20:30:00Z",
+      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg?VersionId=iT2xffiTsfbfPwNM_SW3dz_eFZZ.4yvd",
+      "excerpt": "Doximity inked a partnership with Wolters Kluwer Health to embed UpToDate's evidence-based clinical content directly within Doximity Ask, the company’s AI clinical decision support tool.",
       "lang": "en",
-      "rationale": "A disease-specific LLM that matches epileptologists at localizing seizure origin for surgical planning, validated on external cohorts. The earlier epilepsy cards (10-09 EHR detection, 10-14 co-management) are different studies."
+      "rationale": "A product release that reaches clinicians directly: Doximity's Ask clinical-decision-support assistant, which a large share of U.S. physicians already use, now answers from UpToDate's evidence base. That changes what sources a physician's AI answers are grounded in. The 10-09 Suki card was a different company's product launch on the same UpToDate API, so this is a separate deal and release, not a repeat."
     },
     {
       "rank": 5,
       "tool": "Medicine",
       "category": "medicine",
-      "accent": "#3b6bff",
+      "accent": "#ff5a4d",
       "motif": "sphere",
-      "title": "FDA clears Elucid's new AI-enabled FFR-CT software",
-      "url": "https://cardiovascularbusiness.com/topics/artificial-intelligence/fda-clears-elucids-new-ai-enabled-ffr-ct-software",
-      "source": "Cardiovascular Business",
-      "published_iso": "2026-10-21T19:13:24+00:00",
-      "og_image": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/elucid_ffr-iq_ffr-ct_ai_software_3.png?h=d1699ae9&itok=WmZZy_qa",
-      "excerpt": "FDA cleared Elucid's AI-enabled FFR-IQ (FFR-CT) software for noninvasive coronary assessment, developed with clinician feedback.",
+      "title": "From simulation to pedagogy: multi-model and randomized evaluation of structured AI standardized patients - npj Digital Medicine",
+      "url": "https://www.nature.com/articles/s41746-026-03372-0",
+      "source": "npj Digital Medicine",
+      "published_iso": "2026-10-23T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Standardized patients (SPs) are central to clinical communication training but remain constrained by cost, scalability, and reliance on trained actors. We present AI standardized patients (AI-SPs), large language model–driven patient simulators built on a thre",
       "lang": "en",
-      "rationale": "A second FDA clearance, this one for noninvasive coronary physiology from CT, which can reduce invasive catheter measurements. It is a different company, device and modality from pick 1. No FFR-CT card is in the 30-day history."
+      "rationale": "A randomized evaluation of LLM-driven standardized patients for training clinicians in communication. It is open access, so the body is readable. The tagged 10-11 card was an RCT of LLM pre-consultation versus ophthalmology residents, which is a different study and use."
     }
   ],
   "dedup": {
     "checks": {
-      "https://cardiovascularbusiness.com/topics/artificial-intelligence/fda-clears-new-ai-enabled-stethoscopes": {
+      "https://www.auntminnie.com/clinical-news/ultrasound/news/15838275/rivanna-gets-fda-clearance-for-boneenhance-ultrasound-software": {
         "verdict": "new",
-        "nearest": "https://ai.nejm.org/doi/full/10.1056/AIoa2600258",
+        "nearest": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/15836632/airs-medical-inc-airs-medical-secures-fda-clearance-for-mri-software",
         "new_action": ""
       },
-      "https://www.bosa.co.kr/news/articleView.html?idxno=3014709": {
+      "https://cardiovascularbusiness.com/topics/clinical/cardiac-surgery/ai-ecg-analysis-offers-heart-transplant-rejection-warnings": {
         "verdict": "new",
-        "nearest": "https://www.bosa.co.kr/news/articleView.html?idxno=3014062",
+        "nearest": "",
         "new_action": ""
       },
-      "https://radiologybusiness.com/topics/artificial-intelligence/artificial-intelligence-checks-trustworthiness-breast-cancer-ai-models": {
+      "https://cardiovascularbusiness.com/topics/clinical/heart-failure/ai-flags-heart-failure-patients-risk-functional-decline": {
         "verdict": "new",
-        "nearest": "https://radiologybusiness.com/topics/artificial-intelligence/health-system-will-use-ai-instead-radiologists-breast-imaging-2nd-reads",
+        "nearest": "",
         "new_action": ""
       },
-      "https://www.nature.com/articles/s43856-026-01883-1": {
+      "https://www.fiercehealthcare.com/ai-and-machine-learning/doximity-adds-uptodate-ask-push-become-doctors-go-ai-platform": {
         "verdict": "new",
-        "nearest": "https://www.nature.com/articles/s41746-026-03346-2",
+        "nearest": "https://www.fiercehealthcare.com/ai-and-machine-learning/suki-launches-ask-feature-clinical-decision-support-driven-wolters-kluwer",
         "new_action": ""
       },
-      "https://cardiovascularbusiness.com/topics/artificial-intelligence/fda-clears-elucids-new-ai-enabled-ffr-ct-software": {
+      "https://www.nature.com/articles/s41746-026-03372-0": {
         "verdict": "new",
-        "nearest": "https://radiologybusiness.com/topics/artificial-intelligence/radiology-ai-authorizations-rise-42-regulatory-landscape-evolves",
+        "nearest": "https://www.nature.com/articles/s41746-026-03232-x",
         "new_action": ""
       }
     },
-    "note": "Fact-check swap: removed NEJM AI AIx2601335 (ambient documentation longitudinal study) from slot 2. Its body returns 403 everywhere and Crossref has only the title, so it cannot be fact-checked. Backfilled with 의학신문 idxno=3014709 (에이아이트릭스-강북삼성 hospital admin/documentation AI). It has a readable body, is not in /tmp/ax_claimed_urls.txt, and covers a different story from every claimed URL. Its full URL is not in history. Its nearest history card is bosa 3014062 (BITMate AI EMR, 10-19), a different vendor and product. Backfill alternatives not taken: Nature Medicine conversational-AI primary care (possible repeat of the 10-10 AMIE story), npj AI standardized patients (education rather than care, related to the 10-11 RCT), and a third Cardiovascular Business item (over the outlet cap). Original drops stand. FDA generative-AI device docket cluster (Radiology Business RSNA comments, MedCity AMA, MedCity Abramson, Endpoints AMA CEO): commentary and comment letters on the consultation published 10-23 (Healthcare Dive), with no new FDA decision. STAT AI sandboxes: same running story as the 10-15 STAT lobbyists card. Doximity+UpToDate Ask: likely repeat of the 10-09 Suki/UpToDate card. Not picked on merit: NEJM AI cognitive-sovereignty letter (correspondence), NEJM AI SAIL year-in-review (retrospective), 웨이센 UEG (promotional booth news), 베링거-MS digital twin (partnership), 게이츠재단 한국사무소 (no clinical change), ACHE leaders (commentary). Diversity: 5 distinct outlets (Cardiovascular Business x2, 의학신문, Radiology Business, Communications Medicine). No pathogen or biosecurity content. The Communications Medicine pick has an empty og_image, so ax-media must source an in-article image."
+    "note": "SWAP (post-fact-check): removed the AuntMinnie 'Biograph highlights cardiac AI CT study' pick. It was clinic self-promotion: every author is from Biograph, the clinic selling the screening; the study is an n=84 preprint without peer review; and the article is a press-release rewrite that misstates the preprint. Backfill: Doximity+UpToDate in Ask (Fierce Healthcare, 10-21). The earlier run had dropped it as the same story as the 10-09 Suki/UpToDate card. On re-review it is a different company, a different product and a separate partnership announcement. The only thing they share is the Wolters Kluwer UpToDate supplier, so it counts as new. It is not claimed by another section, Fierce Healthcare had no other pick, and it has no biosecurity content. Other candidates rejected in the swap: Optellum-RapidAI (vendor integration PR, and it would make a second AuntMinnie card); the FDA genAI docket cluster (MedCity AMA, MedCity Abramson, Radiology Business RSNA), which is comment letters and remarks on the consultation already published 10-23 with no new FDA decision; the JAMA OpenEvidence study and the STAT commentary on it (same as the 10-16 Becker's card); the JAMA Netw Open oversight commentary (same story as the 10-18 2026.39048 card); STAT AMIE takeaways and the Nature Medicine News & Views (AMIE running story or commentary); STAT AI sandboxes (running story from 10-15); Radiology Business adult-to-pediatric adaptation (same study as the 10-14 Nature BME card); npj C-TACT governance (framework perspective); all NEJM AI items (no readable body); and the Korean promo and roundtable items (KIMES roundtable, Weisen, Vuno, Gates Foundation), which report no clinical or regulatory change. Diversity: 4 outlets (AuntMinnie x1, Cardiovascular Business x2, Fierce Healthcare x1, npj Digital Medicine x1). No pathogen or biosecurity content. The npj pick has an empty og_image, so ax-media must source an in-article image."
   }
 }

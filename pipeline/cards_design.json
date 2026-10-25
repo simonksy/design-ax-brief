@@ -1,17 +1,1313 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "section": "design",
   "cards": [
     {
-      "id": "design-ulpg-landing-guide",
+      "id": "design-sparkle-button-essay",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "사람과 AI 에이전트용\n열린 랜딩 페이지 가이드",
-      "body": "ULPG는 사람과 AI 코딩 에이전트가 함께 읽는 새 오픈 랜딩 페이지 가이드다.",
-      "mini_headline": "오픈 랜딩 페이지 가이드 ULPG",
+      "headline": "아무도 원하지 않은\n반짝이 버튼",
+      "body": "사용자가 AI 패널의 끄기 버튼부터 찾자 필자는 AI로 기능을 만들라고 한다.",
+      "mini_headline": "아무도 원치 않은 반짝이",
+      "tool": "Figma",
+      "source": "UX Collective",
+      "url": "https://uxdesign.cc/nobody-asked-for-the-sparkle-button-ae54ab5065c6",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*zO6YRwfqZ98I2mbNC4MBNw.png",
+            "cap": "Jon Sabutis의 일러스트, HTML과 CSS로 제작"
+          },
+          {
+            "t": "p",
+            "x": "돈을 내고 쓰는 제품은 어느 것을 열어도 오른쪽 위에 반짝이 아이콘이 있고, 그 뒤에는 \"Ask anything\"이라고 적힌 패널이 있다. 매일 AI로 코드를 쓰는 Jon Sabutis가 보기에 도구는 좋아졌지만 제품은 대체로 그렇지 못하다. 다 같은 제품이라서다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*GVI4I-F2A2OolI_slccKuA.png"
+          },
+          {
+            "t": "p",
+            "x": "사람들이 불쾌한 건 그 기능이 자기 뜻과 상관없이 켜져 있어서다. 2026년 3월 Microsoft는 Notepad, Snipping Tool, Photos, Widgets에서 \"불필요한 Copilot 진입점\"을 줄이겠다고 밝혔다. 업데이트 뒤 설정이 초기화되는 일을 겪으면 사용자는 규칙 하나를 배운다. 이 회사는 내 결정을 뒤집는다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1000/1*7yaE0--HMN9rGsXsmamCKg.gif"
+          },
+          {
+            "t": "p",
+            "x": "UBS는 대형 클라우드 기업들이 2026년부터 2028년까지 설비투자(capex)에 약 4.1조 달러를 쓸 것으로 추산한다. 그런데 MIT의 NANDA 그룹은 기업의 95퍼센트가 생성형 AI 파일럿에서 측정 가능한 수익을 얻지 못했다고 밝혔다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Cwicgkr_ZVmyYTN1j18eCA.png",
+            "cap": "Jon Sabutis 제작 차트, UBS 추산 기준, 2026년 8월"
+          },
+          {
+            "t": "p",
+            "x": "그가 내세우는 원칙은 AI 기능이 아니라 AI로 기능을 만들라는 것이다. Smart Compose나 Photoshop의 Remove 도구가 그런 예다. 출시 전에는 누가 요청했는지, 이름을 무엇에서 따왔는지, 기본값을 꺼 둬도 내놓을지, 원가로 팔아도 버틸지 물어야 한다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Nobody asked for\nthe sparkle button",
+          "body": "Users hunt for the off switch on AI sparkle panels, so the author says build features with AI, not AI features.",
+          "mini_headline": "No one wanted the sparkle",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*zO6YRwfqZ98I2mbNC4MBNw.png",
+                "cap": "Illustration by Jon Sabutis, built in HTML and CSS"
+              },
+              {
+                "t": "p",
+                "x": "Open any product you pay for and there is a sparkle in the top right corner, behind it a panel that says \"Ask anything\". Jon Sabutis, who writes code with AI every day, argues the tools got good but the products mostly did not, because they are the same product."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*GVI4I-F2A2OolI_slccKuA.png"
+              },
+              {
+                "t": "p",
+                "x": "What people resent is that it was turned on for them. In March 2026 Microsoft said it would cut \"unnecessary Copilot entry points\" in Notepad, the Snipping Tool, Photos and Widgets. A setting that resets after an update teaches users one rule: this company will override me."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1000/1*7yaE0--HMN9rGsXsmamCKg.gif"
+              },
+              {
+                "t": "p",
+                "x": "UBS estimates the big cloud companies will spend about $4.1 trillion on capex between 2026 and 2028, while MIT's NANDA group found 95 percent of companies saw no measurable return from their generative AI pilots."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Cwicgkr_ZVmyYTN1j18eCA.png",
+                "cap": "Chart by Jon Sabutis, from UBS estimates, August 2026"
+              },
+              {
+                "t": "p",
+                "x": "His rule: build features with AI, not AI features, like Smart Compose or Photoshop's Remove tool. Before shipping, ask who asked, what it is named after, whether you would ship it off by default, and whether it would survive at cost price."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "아무도 원하지 않은\n반짝이 버튼",
+          "body": "사용자가 AI 패널의 끄기 버튼부터 찾자 필자는 AI로 기능을 만들라고 한다.",
+          "mini_headline": "아무도 원치 않은 반짝이",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*zO6YRwfqZ98I2mbNC4MBNw.png",
+                "cap": "Jon Sabutis의 일러스트, HTML과 CSS로 제작"
+              },
+              {
+                "t": "p",
+                "x": "돈을 내고 쓰는 제품은 어느 것을 열어도 오른쪽 위에 반짝이 아이콘이 있고, 그 뒤에는 \"Ask anything\"이라고 적힌 패널이 있다. 매일 AI로 코드를 쓰는 Jon Sabutis가 보기에 도구는 좋아졌지만 제품은 대체로 그렇지 못하다. 다 같은 제품이라서다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*GVI4I-F2A2OolI_slccKuA.png"
+              },
+              {
+                "t": "p",
+                "x": "사람들이 불쾌한 건 그 기능이 자기 뜻과 상관없이 켜져 있어서다. 2026년 3월 Microsoft는 Notepad, Snipping Tool, Photos, Widgets에서 \"불필요한 Copilot 진입점\"을 줄이겠다고 밝혔다. 업데이트 뒤 설정이 초기화되는 일을 겪으면 사용자는 규칙 하나를 배운다. 이 회사는 내 결정을 뒤집는다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1000/1*7yaE0--HMN9rGsXsmamCKg.gif"
+              },
+              {
+                "t": "p",
+                "x": "UBS는 대형 클라우드 기업들이 2026년부터 2028년까지 설비투자(capex)에 약 4.1조 달러를 쓸 것으로 추산한다. 그런데 MIT의 NANDA 그룹은 기업의 95퍼센트가 생성형 AI 파일럿에서 측정 가능한 수익을 얻지 못했다고 밝혔다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Cwicgkr_ZVmyYTN1j18eCA.png",
+                "cap": "Jon Sabutis 제작 차트, UBS 추산 기준, 2026년 8월"
+              },
+              {
+                "t": "p",
+                "x": "그가 내세우는 원칙은 AI 기능이 아니라 AI로 기능을 만들라는 것이다. Smart Compose나 Photoshop의 Remove 도구가 그런 예다. 출시 전에는 누가 요청했는지, 이름을 무엇에서 따왔는지, 기본값을 꺼 둬도 내놓을지, 원가로 팔아도 버틸지 물어야 한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "誰も頼んでいない\nキラキラボタン",
+          "body": "利用者がAIパネルのオフ方法を探す今、筆者はAI機能でなくAIで機能を作れと説く。",
+          "mini_headline": "誰も望まないキラキラ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*zO6YRwfqZ98I2mbNC4MBNw.png",
+                "cap": "イラストはJon Sabutis、HTMLとCSSで制作"
+              },
+              {
+                "t": "p",
+                "x": "お金を払って使う製品を開けば、どれも右上にキラキラのアイコンがあり、その奥に「Ask anything」と書かれたパネルがある。毎日AIでコードを書くJon Sabutisは、ツールは良くなったが製品の多くはそうではないと論じる。どれも同じ製品だからだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*GVI4I-F2A2OolI_slccKuA.png"
+              },
+              {
+                "t": "p",
+                "x": "人々が反発しているのは、それが勝手にオンにされたことだ。2026年3月、MicrosoftはNotepad、Snipping Tool、Photos、Widgetsにおける「不要なCopilotの入り口」を減らすと表明した。アップデート後にリセットされる設定は、利用者にひとつのルールを教える。この会社は自分の意思を覆す、というルールである。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1000/1*7yaE0--HMN9rGsXsmamCKg.gif"
+              },
+              {
+                "t": "p",
+                "x": "UBSは、大手クラウド企業が2026年から2028年にかけて設備投資(capex)に約4.1兆ドルを投じると推計する。一方、MITのNANDAグループは、企業の95パーセントが生成AIのパイロットから測定可能なリターンを得られなかったと報告した。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Cwicgkr_ZVmyYTN1j18eCA.png",
+                "cap": "チャートはJon Sabutis作成、UBSの推計に基づく、2026年8月"
+              },
+              {
+                "t": "p",
+                "x": "彼のルールは、AI機能ではなくAIで機能を作ることだ。Smart ComposeやPhotoshopのRemoveツールがその例である。出荷前には、誰が求めたのか、何にちなんだ名前なのか、デフォルトでオフにして出せるか、原価でも生き残れるかを問うべきだという。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Nadie pidió el botón\nde los destellos",
+          "body": "Los usuarios buscan cómo apagar los paneles de AI, y el autor propone crear funciones con AI, no funciones de AI.",
+          "mini_headline": "Nadie quería el destello",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*zO6YRwfqZ98I2mbNC4MBNw.png",
+                "cap": "Ilustración de Jon Sabutis, hecha en HTML y CSS"
+              },
+              {
+                "t": "p",
+                "x": "En cualquier producto de pago aparece un destello en la esquina superior derecha y, detrás, un panel que dice \"Ask anything\". Jon Sabutis, que programa con AI todos los días, sostiene que las herramientas mejoraron pero los productos en su mayoría no, porque son el mismo producto."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*GVI4I-F2A2OolI_slccKuA.png"
+              },
+              {
+                "t": "p",
+                "x": "Lo que molesta a la gente es que se activó sin consultarla. En marzo de 2026, Microsoft anunció que reduciría los \"puntos de entrada innecesarios de Copilot\" en Notepad, Snipping Tool, Photos y Widgets. Un ajuste que se restablece tras una actualización enseña a los usuarios una sola regla: esta empresa pasará por encima de mí."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1000/1*7yaE0--HMN9rGsXsmamCKg.gif"
+              },
+              {
+                "t": "p",
+                "x": "UBS estima que las grandes empresas de la nube invertirán cerca de 4.1 billones de dólares en capex entre 2026 y 2028, mientras que el grupo NANDA del MIT halló que el 95 por ciento de las empresas no obtuvo un retorno medible de sus pilotos de AI generativa."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Cwicgkr_ZVmyYTN1j18eCA.png",
+                "cap": "Gráfico de Jon Sabutis, a partir de estimaciones de UBS, agosto de 2026"
+              },
+              {
+                "t": "p",
+                "x": "Su regla: crear funciones con AI, no funciones de AI, como Smart Compose o la herramienta Remove de Photoshop. Antes de lanzar algo, hay que preguntarse quién lo pidió, a qué debe su nombre, si se lanzaría desactivado por defecto y si sobreviviría a precio de costo."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "没人要过\n那颗闪光按钮",
+          "body": "用户四处寻找AI闪光面板的关闭开关，作者因此主张用AI打造功能，而非打造AI功能。",
+          "mini_headline": "没人想要那颗闪光",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*zO6YRwfqZ98I2mbNC4MBNw.png",
+                "cap": "插图：Jon Sabutis，以 HTML 和 CSS 制作"
+              },
+              {
+                "t": "p",
+                "x": "打开任何一款付费产品，右上角都有一颗闪光图标，背后是一个写着“Ask anything”的面板。每天用 AI 写代码的 Jon Sabutis 认为，工具变好了，产品却大多没有，因为它们都是同一个产品。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*GVI4I-F2A2OolI_slccKuA.png"
+              },
+              {
+                "t": "p",
+                "x": "人们反感的是，这些功能是被替他们打开的。2026年3月，Microsoft 表示将在 Notepad、Snipping Tool、Photos 和 Widgets 中削减“不必要的 Copilot 入口”。一项在更新后被重置的设置，只会让用户学到一条规则：这家公司会推翻我的决定。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1000/1*7yaE0--HMN9rGsXsmamCKg.gif"
+              },
+              {
+                "t": "p",
+                "x": "UBS 估计，大型云计算公司在2026年至2028年间的资本支出约为4.1万亿美元；而 MIT 的 NANDA 小组发现，百分之95的公司未能从生成式 AI 试点中获得可衡量的回报。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Cwicgkr_ZVmyYTN1j18eCA.png",
+                "cap": "图表：Jon Sabutis，依据 UBS 估算，2026年8月"
+              },
+              {
+                "t": "p",
+                "x": "他的原则是：用 AI 打造功能，而不是打造 AI 功能，比如 Smart Compose 或 Photoshop 的 Remove 工具。发布之前要问：谁提出过需求？它以什么命名？你是否愿意默认关闭它发布？按成本价它还能活下来吗？"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "아무도 원하지 않은\n반짝이 버튼",
+          "body": "사용자가 AI 패널의 끄기 버튼부터 찾자 필자는 AI로 기능을 만들라고 한다.",
+          "mini_headline": "아무도 원치 않은 반짝이",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*zO6YRwfqZ98I2mbNC4MBNw.png",
+                "cap": "Jon Sabutis의 일러스트, HTML과 CSS로 제작"
+              },
+              {
+                "t": "p",
+                "x": "돈을 내고 쓰는 제품을 열면 어디든 오른쪽 위에 반짝이 아이콘이 있고, 그 뒤에는 \"Ask anything\"이라고 적힌 패널이 있다. 매일 AI로 코드를 쓰는 Jon Sabutis는 도구는 좋아졌지만 제품은 대체로 그렇지 않다고 주장한다. 모두 같은 제품이기 때문이다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*GVI4I-F2A2OolI_slccKuA.png"
+              },
+              {
+                "t": "p",
+                "x": "사람들이 불쾌해하는 것은 그 기능이 자기 뜻과 상관없이 켜졌다는 점이다. 2026년 3월 Microsoft는 Notepad, Snipping Tool, Photos, Widgets에서 \"불필요한 Copilot 진입점\"을 줄이겠다고 밝혔다. 업데이트 뒤 초기화되는 설정은 사용자에게 한 가지 규칙을 가르친다. 이 회사는 내 결정을 뒤집는다는 것이다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1000/1*7yaE0--HMN9rGsXsmamCKg.gif"
+              },
+              {
+                "t": "p",
+                "x": "UBS는 대형 클라우드 기업들이 2026년부터 2028년까지 설비투자(capex)에 약 4.1조 달러를 쓸 것으로 추산한다. 반면 MIT의 NANDA 그룹은 기업의 95퍼센트가 생성형 AI 파일럿에서 측정 가능한 수익을 얻지 못했다고 밝혔다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Cwicgkr_ZVmyYTN1j18eCA.png",
+                "cap": "Jon Sabutis 제작 차트, UBS 추산 기준, 2026년 8월"
+              },
+              {
+                "t": "p",
+                "x": "그의 원칙은 AI 기능이 아니라 AI로 기능을 만들라는 것이다. Smart Compose나 Photoshop의 Remove 도구가 그런 예다. 출시 전에는 누가 요청했는지, 무엇을 따서 이름을 지었는지, 기본값을 꺼 둔 채로도 내놓을지, 원가로 팔아도 살아남을지를 물어야 한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "誰も頼んでいない\nキラキラボタン",
+          "body": "利用者がAIパネルのオフ方法を探す今、筆者はAI機能でなくAIで機能を作れと説く。",
+          "mini_headline": "誰も望まないキラキラ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*zO6YRwfqZ98I2mbNC4MBNw.png",
+                "cap": "イラストはJon Sabutis、HTMLとCSSで制作"
+              },
+              {
+                "t": "p",
+                "x": "お金を払って使う製品を開けば、どれも右上にキラキラのアイコンがあり、その奥に「Ask anything」と書かれたパネルがある。毎日AIでコードを書くJon Sabutisは、ツールは良くなったが製品の多くはそうではないと論じる。どれも同じ製品だからだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*GVI4I-F2A2OolI_slccKuA.png"
+              },
+              {
+                "t": "p",
+                "x": "人々が反発しているのは、それが勝手にオンにされたことだ。2026年3月、MicrosoftはNotepad、Snipping Tool、Photos、Widgetsにおける「不要なCopilotの入り口」を減らすと表明した。アップデート後にリセットされる設定は、利用者にひとつのルールを教える。この会社は自分の意思を覆す、というルールである。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1000/1*7yaE0--HMN9rGsXsmamCKg.gif"
+              },
+              {
+                "t": "p",
+                "x": "UBSは、大手クラウド企業が2026年から2028年にかけて設備投資(capex)に約4.1兆ドルを投じると推計する。一方、MITのNANDAグループは、企業の95パーセントが生成AIのパイロットから測定可能なリターンを得られなかったと報告した。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Cwicgkr_ZVmyYTN1j18eCA.png",
+                "cap": "チャートはJon Sabutis作成、UBSの推計に基づく、2026年8月"
+              },
+              {
+                "t": "p",
+                "x": "彼のルールは、AI機能ではなくAIで機能を作ることだ。Smart ComposeやPhotoshopのRemoveツールがその例である。出荷前には、誰が求めたのか、何にちなんだ名前なのか、デフォルトでオフにして出せるか、原価でも生き残れるかを問うべきだという。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Nadie pidió el botón\nde los destellos",
+          "body": "Los usuarios buscan cómo apagar los paneles de AI, y el autor propone crear funciones con AI, no funciones de AI.",
+          "mini_headline": "Nadie quería el destello",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*zO6YRwfqZ98I2mbNC4MBNw.png",
+                "cap": "Ilustración de Jon Sabutis, hecha en HTML y CSS"
+              },
+              {
+                "t": "p",
+                "x": "En cualquier producto de pago aparece un destello en la esquina superior derecha y, detrás, un panel que dice \"Ask anything\". Jon Sabutis, que programa con AI todos los días, sostiene que las herramientas mejoraron pero los productos en su mayoría no, porque son el mismo producto."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*GVI4I-F2A2OolI_slccKuA.png"
+              },
+              {
+                "t": "p",
+                "x": "Lo que molesta a la gente es que se activó sin consultarla. En marzo de 2026, Microsoft anunció que reduciría los \"puntos de entrada innecesarios de Copilot\" en Notepad, Snipping Tool, Photos y Widgets. Un ajuste que se restablece tras una actualización enseña a los usuarios una sola regla: esta empresa pasará por encima de mí."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1000/1*7yaE0--HMN9rGsXsmamCKg.gif"
+              },
+              {
+                "t": "p",
+                "x": "UBS estima que las grandes empresas de la nube invertirán cerca de 4.1 billones de dólares en capex entre 2026 y 2028, mientras que el grupo NANDA del MIT halló que el 95 por ciento de las empresas no obtuvo un retorno medible de sus pilotos de AI generativa."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Cwicgkr_ZVmyYTN1j18eCA.png",
+                "cap": "Gráfico de Jon Sabutis, a partir de estimaciones de UBS, agosto de 2026"
+              },
+              {
+                "t": "p",
+                "x": "Su regla: crear funciones con AI, no funciones de AI, como Smart Compose o la herramienta Remove de Photoshop. Antes de lanzar algo, hay que preguntarse quién lo pidió, a qué debe su nombre, si se lanzaría desactivado por defecto y si sobreviviría a precio de costo."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "没人要过\n那颗闪光按钮",
+          "body": "用户四处寻找AI闪光面板的关闭开关，作者因此主张用AI打造功能，而非打造AI功能。",
+          "mini_headline": "没人想要那颗闪光",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*zO6YRwfqZ98I2mbNC4MBNw.png",
+                "cap": "插图：Jon Sabutis，以 HTML 和 CSS 制作"
+              },
+              {
+                "t": "p",
+                "x": "打开任何一款付费产品，右上角都有一颗闪光图标，背后是一个写着“Ask anything”的面板。每天用 AI 写代码的 Jon Sabutis 认为，工具变好了，产品却大多没有，因为它们都是同一个产品。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*GVI4I-F2A2OolI_slccKuA.png"
+              },
+              {
+                "t": "p",
+                "x": "人们反感的是，这些功能是被替他们打开的。2026年3月，Microsoft 表示将在 Notepad、Snipping Tool、Photos 和 Widgets 中削减“不必要的 Copilot 入口”。一项在更新后被重置的设置，只会让用户学到一条规则：这家公司会推翻我的决定。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1000/1*7yaE0--HMN9rGsXsmamCKg.gif"
+              },
+              {
+                "t": "p",
+                "x": "UBS 估计，大型云计算公司在2026年至2028年间的资本支出约为4.1万亿美元；而 MIT 的 NANDA 小组发现，百分之95的公司未能从生成式 AI 试点中获得可衡量的回报。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Cwicgkr_ZVmyYTN1j18eCA.png",
+                "cap": "图表：Jon Sabutis，依据 UBS 估算，2026年8月"
+              },
+              {
+                "t": "p",
+                "x": "他的原则是：用 AI 打造功能，而不是打造 AI 功能，比如 Smart Compose 或 Photoshop 的 Remove 工具。发布之前要问：谁提出过需求？它以什么命名？你是否愿意默认关闭它发布？按成本价它还能活下来吗？"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "design-b2b-chat-line",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI가 전문가를 만나기 전\n그어야 할 선",
+      "body": "B2B 채팅 계층이 전문가를 돕는지 일을 가로막는지 여섯 질문으로 가린다.",
+      "mini_headline": "전문가용 채팅 계층",
+      "tool": "Figma",
+      "source": "UX Collective",
+      "url": "https://uxdesign.cc/where-to-draw-the-line-before-ai-reaches-professional-users-09d61f61b2b5",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Di003Ys9ARp2QsB9IF15Eg.png",
+            "cap": "로드맵마다 채팅창이 있다. 누구를 위한 채팅창인지 답하는 로드맵은 그보다 적다."
+          },
+          {
+            "t": "p",
+            "x": "이제 거의 모든 B2B 애플리케이션에 채팅창이 있다. Patrick Neeman은 그 채팅창이 누구를 위한 것인지 묻는다. 사용자는 수십 년 동안 자기 분야와 소프트웨어를 익혀 온 보험 손해사정사, 변호사, 공급 계획 담당자들이다."
+          },
+          {
+            "t": "p",
+            "x": "채팅은 전문가가 이미 대가를 치르고 익힌 기술을 대신할 뿐이라 도움을 받는 쪽은 주로 초보자다. 대화가 풀어 주는 건 기억의 문제인데, 전문가는 필드 이름과 상태 코드, 정확한 필터를 이미 안다. 필터는 전체 집합을 보여 주지만 채팅 답변은 물어본 것만 알려 준다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*0KrGdAZuSwqCRE6qAPhZSg.png",
+            "cap": "METR 실험에서 숙련 개발자들은 AI를 쓸 때 19% 느렸는데도 스스로는 반대로 믿었다."
+          },
+          {
+            "t": "p",
+            "x": "METR 실험에서 숙련 개발자들은 AI 도구를 쓸 때 19% 느려졌다. Stanford 연구진은 법률 리서치 도구가 17%에서 33% 비율로 환각을 일으킨다는 사실을 확인했다. 전문가들이 여전히 모든 결과물을 검토하는 이유다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*wZUAQ2DcQddk7Sw3_Jji7Q.png",
+            "cap": "목적지는 세 갈래이고, 채팅창은 그중 하나뿐이다."
+          },
+          {
+            "t": "p",
+            "x": "Neeman의 답은 이렇다. 일상 작업은 인터페이스에 그대로 두고 드문 작업은 채팅으로 보낸다. 지속적인 작업은 앰비언트 에이전트에 맡기는데, 이 에이전트는 사람이 결정해야 할 때만 끼어든다. \"채팅은 요청을 기다린다. 앰비언트 에이전트는 이미 알고 있다.\""
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Where to draw the line\nbefore AI meets expert users",
+          "body": "Six questions test whether a B2B chat layer speeds experts up or just puts a keyboard between them and their work.",
+          "mini_headline": "Chat layers for expert users",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Di003Ys9ARp2QsB9IF15Eg.png",
+                "cap": "Every roadmap has a chat box on it. Fewer have an answer for who it's for."
+              },
+              {
+                "t": "p",
+                "x": "Nearly every B2B application now has a chat box. Patrick Neeman asks who it is for: claims adjusters, attorneys and supply planners who have spent decades learning their domain and their software."
+              },
+              {
+                "t": "p",
+                "x": "Chat replaces skills experts already paid for, and it mainly helps novices: conversation solves recall, but experts know the field name, the status code and the exact filter. Filters also show the whole set, while a chat answer tells you only what you asked for."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*0KrGdAZuSwqCRE6qAPhZSg.png",
+                "cap": "Experienced developers in METR's trial were 19% slower with AI, and believed the opposite."
+              },
+              {
+                "t": "p",
+                "x": "METR found experienced developers 19% slower with AI tools, and Stanford researchers found legal research tools hallucinating between 17% and 33% of the time, so professionals still check every output."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*wZUAQ2DcQddk7Sw3_Jji7Q.png",
+                "cap": "Three destinations, and only one of them is a chat box."
+              },
+              {
+                "t": "p",
+                "x": "Neeman's answer: routine tasks stay in the interface, rare tasks go to chat, and ongoing tasks go to an ambient agent that interrupts only when a person must decide. \"Chat waits to be asked. An ambient agent already knows.\""
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI가 전문가를 만나기 전\n그어야 할 선",
+          "body": "B2B 채팅 계층이 전문가를 돕는지 일을 가로막는지 여섯 질문으로 가린다.",
+          "mini_headline": "전문가용 채팅 계층",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Di003Ys9ARp2QsB9IF15Eg.png",
+                "cap": "로드맵마다 채팅창이 있다. 누구를 위한 채팅창인지 답하는 로드맵은 그보다 적다."
+              },
+              {
+                "t": "p",
+                "x": "이제 거의 모든 B2B 애플리케이션에 채팅창이 있다. Patrick Neeman은 그 채팅창이 누구를 위한 것인지 묻는다. 사용자는 수십 년 동안 자기 분야와 소프트웨어를 익혀 온 보험 손해사정사, 변호사, 공급 계획 담당자들이다."
+              },
+              {
+                "t": "p",
+                "x": "채팅은 전문가가 이미 대가를 치르고 익힌 기술을 대신할 뿐이라 도움을 받는 쪽은 주로 초보자다. 대화가 풀어 주는 건 기억의 문제인데, 전문가는 필드 이름과 상태 코드, 정확한 필터를 이미 안다. 필터는 전체 집합을 보여 주지만 채팅 답변은 물어본 것만 알려 준다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*0KrGdAZuSwqCRE6qAPhZSg.png",
+                "cap": "METR 실험에서 숙련 개발자들은 AI를 쓸 때 19% 느렸는데도 스스로는 반대로 믿었다."
+              },
+              {
+                "t": "p",
+                "x": "METR 실험에서 숙련 개발자들은 AI 도구를 쓸 때 19% 느려졌다. Stanford 연구진은 법률 리서치 도구가 17%에서 33% 비율로 환각을 일으킨다는 사실을 확인했다. 전문가들이 여전히 모든 결과물을 검토하는 이유다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*wZUAQ2DcQddk7Sw3_Jji7Q.png",
+                "cap": "목적지는 세 갈래이고, 채팅창은 그중 하나뿐이다."
+              },
+              {
+                "t": "p",
+                "x": "Neeman의 답은 이렇다. 일상 작업은 인터페이스에 그대로 두고 드문 작업은 채팅으로 보낸다. 지속적인 작업은 앰비언트 에이전트에 맡기는데, 이 에이전트는 사람이 결정해야 할 때만 끼어든다. \"채팅은 요청을 기다린다. 앰비언트 에이전트는 이미 알고 있다.\""
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIが専門家に届く前に\n引くべき一線",
+          "body": "B2Bのチャット層が専門家を速くするのか、仕事を妨げるだけかを六つの問いで検証する。",
+          "mini_headline": "専門家向けチャット層",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Di003Ys9ARp2QsB9IF15Eg.png",
+                "cap": "どのロードマップにもチャット欄がある。それが誰のためかに答えられるものは少ない。"
+              },
+              {
+                "t": "p",
+                "x": "今やほぼすべてのB2Bアプリケーションにチャット欄がある。Patrick Neemanは、それが誰のためのものかを問う。対象は、数十年かけて自分の領域とソフトウェアを習得してきた保険の損害査定担当者、弁護士、供給計画担当者だ。"
+              },
+              {
+                "t": "p",
+                "x": "チャットは専門家がすでに対価を払って身につけたスキルを置き換え、主に初心者を助ける。対話は記憶の問題を解決するが、専門家はフィールド名もステータスコードも正確なフィルターも知っている。しかもフィルターは全体を見せるのに対し、チャットの答えは尋ねたことしか教えない。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*0KrGdAZuSwqCRE6qAPhZSg.png",
+                "cap": "METRの試験では、熟練開発者はAIを使うと19%遅くなったが、本人たちは逆だと信じていた。"
+              },
+              {
+                "t": "p",
+                "x": "METRは熟練開発者がAIツールを使うと19%遅くなることを示し、Stanfordの研究者は法律調査ツールが17%から33%の割合で幻覚を起こすことを明らかにした。そのため専門家はいまもすべての出力を確認している。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*wZUAQ2DcQddk7Sw3_Jji7Q.png",
+                "cap": "行き先は三つ、そのうちチャット欄はひとつだけだ。"
+              },
+              {
+                "t": "p",
+                "x": "Neemanの答えはこうだ。定型的な作業はインターフェースに残し、まれな作業はチャットへ、継続的な作業は人の判断が必要なときだけ割り込むアンビエントエージェントに任せる。「チャットは頼まれるのを待つ。アンビエントエージェントはすでに知っている」"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI接触专家用户之前\n先划清界线",
+          "body": "用六个问题检验B2B聊天层是让专家更快，还是只在他们与工作之间隔了一层键盘。",
+          "mini_headline": "面向专家的聊天层",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Di003Ys9ARp2QsB9IF15Eg.png",
+                "cap": "每份路线图上都有聊天框，能说清它为谁而做的却不多。"
+              },
+              {
+                "t": "p",
+                "x": "如今几乎每个B2B应用都有聊天框。Patrick Neeman问：它是为谁准备的？那些花了几十年学习本行领域和软件的理赔员、律师和供应计划员。"
+              },
+              {
+                "t": "p",
+                "x": "聊天取代的是专家早已付出代价掌握的技能，主要帮助的是新手：对话解决的是回忆问题，而专家知道字段名、状态码和准确的筛选条件。筛选器还能展示全集，聊天回答却只告诉你所问的内容。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*0KrGdAZuSwqCRE6qAPhZSg.png",
+                "cap": "在METR的试验中，资深开发者使用AI后慢了19%，自己却以为恰恰相反。"
+              },
+              {
+                "t": "p",
+                "x": "METR发现资深开发者使用AI工具时慢了19%，Stanford研究人员发现法律检索工具出现幻觉的比例在17%到33%之间，因此专业人士仍要检查每一项输出。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*wZUAQ2DcQddk7Sw3_Jji7Q.png",
+                "cap": "三个去处，其中只有一个是聊天框。"
+              },
+              {
+                "t": "p",
+                "x": "Neeman的答案是：常规任务留在界面里，少见任务交给聊天，持续性任务交给只在需要人做决定时才介入的环境智能体。\"聊天等着被提问。环境智能体早已知晓。\""
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Dónde trazar la línea antes\nde que la AI llegue al experto",
+          "body": "Seis preguntas ponen a prueba si una capa de chat B2B acelera a los expertos o solo les interpone un teclado.",
+          "mini_headline": "Capas de chat para expertos",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Di003Ys9ARp2QsB9IF15Eg.png",
+                "cap": "Todas las hojas de ruta incluyen un cuadro de chat. Pocas saben responder para quién es."
+              },
+              {
+                "t": "p",
+                "x": "Casi todas las aplicaciones B2B tienen ya un cuadro de chat. Patrick Neeman pregunta para quién es: peritos de seguros, abogados y planificadores de suministro que han pasado décadas aprendiendo su campo y su software."
+              },
+              {
+                "t": "p",
+                "x": "El chat sustituye habilidades por las que los expertos ya pagaron, y ayuda sobre todo a los principiantes: la conversación resuelve el problema del recuerdo, pero los expertos conocen el nombre del campo, el código de estado y el filtro exacto. Además, los filtros muestran el conjunto completo, mientras que una respuesta de chat solo dice lo que se preguntó."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*0KrGdAZuSwqCRE6qAPhZSg.png",
+                "cap": "En el ensayo de METR, los desarrolladores experimentados fueron un 19% más lentos con AI, y creían lo contrario."
+              },
+              {
+                "t": "p",
+                "x": "METR halló que los desarrolladores experimentados eran un 19% más lentos con herramientas de AI, e investigadores de Stanford vieron que las herramientas de investigación jurídica alucinaban entre el 17% y el 33% de las veces, así que los profesionales siguen revisando cada resultado."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*wZUAQ2DcQddk7Sw3_Jji7Q.png",
+                "cap": "Tres destinos, y solo uno de ellos es un cuadro de chat."
+              },
+              {
+                "t": "p",
+                "x": "La respuesta de Neeman: las tareas rutinarias se quedan en la interfaz, las poco frecuentes van al chat y las continuas pasan a un agente ambiental que solo interrumpe cuando una persona debe decidir. \"El chat espera a que le pregunten. Un agente ambiental ya lo sabe.\""
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI가 전문가를 만나기 전\n그어야 할 선",
+          "body": "B2B 채팅 계층이 전문가를 돕는지 일을 가로막는지 여섯 질문으로 가린다.",
+          "mini_headline": "전문가용 채팅 계층",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Di003Ys9ARp2QsB9IF15Eg.png",
+                "cap": "모든 로드맵에 채팅창이 있다. 그것이 누구를 위한 것인지 답하는 로드맵은 그보다 적다."
+              },
+              {
+                "t": "p",
+                "x": "이제 거의 모든 B2B 애플리케이션에 채팅창이 있다. Patrick Neeman은 그것이 누구를 위한 것인지 묻는다. 수십 년 동안 자기 분야와 소프트웨어를 익혀 온 보험 손해사정사, 변호사, 공급 계획 담당자들이다."
+              },
+              {
+                "t": "p",
+                "x": "채팅은 전문가가 이미 대가를 치르고 익힌 기술을 대체하며, 주로 초보자에게 도움이 된다. 대화는 기억의 문제를 풀어 주지만, 전문가는 필드 이름과 상태 코드, 정확한 필터를 이미 안다. 또 필터는 전체 집합을 보여 주지만, 채팅 답변은 물어본 것만 알려 준다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*0KrGdAZuSwqCRE6qAPhZSg.png",
+                "cap": "METR 실험에서 숙련 개발자들은 AI를 쓸 때 19% 느렸지만, 스스로는 반대로 믿었다."
+              },
+              {
+                "t": "p",
+                "x": "METR는 숙련 개발자들이 AI 도구를 쓸 때 19% 느려진다는 결과를 냈고, Stanford 연구진은 법률 리서치 도구가 17%에서 33%의 비율로 환각을 일으킨다는 사실을 확인했다. 그래서 전문가들은 여전히 모든 결과물을 검토한다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*wZUAQ2DcQddk7Sw3_Jji7Q.png",
+                "cap": "세 갈래의 목적지, 그중 채팅창은 하나뿐이다."
+              },
+              {
+                "t": "p",
+                "x": "Neeman의 답은 이렇다. 일상적인 작업은 인터페이스에 남기고, 드문 작업은 채팅으로 보내며, 지속적인 작업은 사람이 결정해야 할 때만 끼어드는 앰비언트 에이전트에 맡긴다. \"채팅은 요청을 기다린다. 앰비언트 에이전트는 이미 알고 있다.\""
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIが専門家に届く前に\n引くべき一線",
+          "body": "B2Bのチャット層が専門家を速くするのか、仕事を妨げるだけかを六つの問いで検証する。",
+          "mini_headline": "専門家向けチャット層",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Di003Ys9ARp2QsB9IF15Eg.png",
+                "cap": "どのロードマップにもチャット欄がある。それが誰のためかに答えられるものは少ない。"
+              },
+              {
+                "t": "p",
+                "x": "今やほぼすべてのB2Bアプリケーションにチャット欄がある。Patrick Neemanは、それが誰のためのものかを問う。対象は、数十年かけて自分の領域とソフトウェアを習得してきた保険の損害査定担当者、弁護士、供給計画担当者だ。"
+              },
+              {
+                "t": "p",
+                "x": "チャットは専門家がすでに対価を払って身につけたスキルを置き換え、主に初心者を助ける。対話は記憶の問題を解決するが、専門家はフィールド名もステータスコードも正確なフィルターも知っている。しかもフィルターは全体を見せるのに対し、チャットの答えは尋ねたことしか教えない。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*0KrGdAZuSwqCRE6qAPhZSg.png",
+                "cap": "METRの試験では、熟練開発者はAIを使うと19%遅くなったが、本人たちは逆だと信じていた。"
+              },
+              {
+                "t": "p",
+                "x": "METRは熟練開発者がAIツールを使うと19%遅くなることを示し、Stanfordの研究者は法律調査ツールが17%から33%の割合で幻覚を起こすことを明らかにした。そのため専門家はいまもすべての出力を確認している。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*wZUAQ2DcQddk7Sw3_Jji7Q.png",
+                "cap": "行き先は三つ、そのうちチャット欄はひとつだけだ。"
+              },
+              {
+                "t": "p",
+                "x": "Neemanの答えはこうだ。定型的な作業はインターフェースに残し、まれな作業はチャットへ、継続的な作業は人の判断が必要なときだけ割り込むアンビエントエージェントに任せる。「チャットは頼まれるのを待つ。アンビエントエージェントはすでに知っている」"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI接触专家用户之前\n先划清界线",
+          "body": "用六个问题检验B2B聊天层是让专家更快，还是只在他们与工作之间隔了一层键盘。",
+          "mini_headline": "面向专家的聊天层",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Di003Ys9ARp2QsB9IF15Eg.png",
+                "cap": "每份路线图上都有聊天框，能说清它为谁而做的却不多。"
+              },
+              {
+                "t": "p",
+                "x": "如今几乎每个B2B应用都有聊天框。Patrick Neeman问：它是为谁准备的？那些花了几十年学习本行领域和软件的理赔员、律师和供应计划员。"
+              },
+              {
+                "t": "p",
+                "x": "聊天取代的是专家早已付出代价掌握的技能，主要帮助的是新手：对话解决的是回忆问题，而专家知道字段名、状态码和准确的筛选条件。筛选器还能展示全集，聊天回答却只告诉你所问的内容。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*0KrGdAZuSwqCRE6qAPhZSg.png",
+                "cap": "在METR的试验中，资深开发者使用AI后慢了19%，自己却以为恰恰相反。"
+              },
+              {
+                "t": "p",
+                "x": "METR发现资深开发者使用AI工具时慢了19%，Stanford研究人员发现法律检索工具出现幻觉的比例在17%到33%之间，因此专业人士仍要检查每一项输出。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*wZUAQ2DcQddk7Sw3_Jji7Q.png",
+                "cap": "三个去处，其中只有一个是聊天框。"
+              },
+              {
+                "t": "p",
+                "x": "Neeman的答案是：常规任务留在界面里，少见任务交给聊天，持续性任务交给只在需要人做决定时才介入的环境智能体。\"聊天等着被提问。环境智能体早已知晓。\""
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Dónde trazar la línea antes\nde que la AI llegue al experto",
+          "body": "Seis preguntas ponen a prueba si una capa de chat B2B acelera a los expertos o solo les interpone un teclado.",
+          "mini_headline": "Capas de chat para expertos",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Di003Ys9ARp2QsB9IF15Eg.png",
+                "cap": "Todas las hojas de ruta incluyen un cuadro de chat. Pocas saben responder para quién es."
+              },
+              {
+                "t": "p",
+                "x": "Casi todas las aplicaciones B2B tienen ya un cuadro de chat. Patrick Neeman pregunta para quién es: peritos de seguros, abogados y planificadores de suministro que han pasado décadas aprendiendo su campo y su software."
+              },
+              {
+                "t": "p",
+                "x": "El chat sustituye habilidades por las que los expertos ya pagaron, y ayuda sobre todo a los principiantes: la conversación resuelve el problema del recuerdo, pero los expertos conocen el nombre del campo, el código de estado y el filtro exacto. Además, los filtros muestran el conjunto completo, mientras que una respuesta de chat solo dice lo que se preguntó."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*0KrGdAZuSwqCRE6qAPhZSg.png",
+                "cap": "En el ensayo de METR, los desarrolladores experimentados fueron un 19% más lentos con AI, y creían lo contrario."
+              },
+              {
+                "t": "p",
+                "x": "METR halló que los desarrolladores experimentados eran un 19% más lentos con herramientas de AI, e investigadores de Stanford vieron que las herramientas de investigación jurídica alucinaban entre el 17% y el 33% de las veces, así que los profesionales siguen revisando cada resultado."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*wZUAQ2DcQddk7Sw3_Jji7Q.png",
+                "cap": "Tres destinos, y solo uno de ellos es un cuadro de chat."
+              },
+              {
+                "t": "p",
+                "x": "La respuesta de Neeman: las tareas rutinarias se quedan en la interfaz, las poco frecuentes van al chat y las continuas pasan a un agente ambiental que solo interrumpe cuando una persona debe decidir. \"El chat espera a que le pregunten. Un agente ambiental ya lo sabe.\""
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "design-ai-firms-human-brands",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 기업은 왜 아직도\n사람에게 브랜딩을 맡기나",
+      "body": "AI 기업들은 자사 브랜드 아이덴티티만은 계속 사람 디자이너와 에이전시에 맡긴다.",
+      "mini_headline": "AI 브랜드, 사람 디자이너",
+      "tool": "Figma",
+      "source": "Creative Bloq",
+      "url": "https://www.creativebloq.com/news/why-do-ai-platforms-want-humans-to-design-their-branding",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/8iLPH4BsY5429rchU9dzuZ.png",
+            "cap": "How&How가 만든 Ideogram 리브랜딩은 뇌 모양 마크와 Photoshop에서 손으로 다듬은 AI 생성(AI-generated) 이미지가 중심이다. (Image credit: How&How/Ideogram)"
+          },
+          {
+            "t": "p",
+            "x": "인간 디자이너의 일자리를 없애려 혈안이 된 듯한 AI 기업들이 정작 자사 브랜드 아이덴티티는 여전히 인간 디자이너에게 맡긴다. Ideogram은 How&How에, AI 영상 앱 Elva는 Lazarev에, AI 감사 기업 Clusia는 Together에 맡겼고, Meta의 새 AI 플랫폼 Muse는 레터링 아티스트 Jessica Hische가 맡았다."
+          },
+          {
+            "t": "p",
+            "x": "Tom May의 답은 이렇다. 브랜딩은 애초에 보기 좋게 만드는 일이 아니었다. 사람들이 나를 믿게 하는 일이다. 그리고 AI 기업은 디자이너 쪽에서도 일반 대중 쪽에서도 신뢰 문제를 겪는다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/eyb69kyib2ifYxEkYbgUqZ.png",
+            "cap": "Lazarev가 만든 Elva의 브랜드 시스템은 이 AI 영상 편집기에 사용자가 말을 걸고 싶어질 만한 친근한 성격을 입히려 한다. (Image credit: Lazarev/Elva)"
+          },
+          {
+            "t": "p",
+            "x": "Hische는 Muse 작업으로 Threads에서 거센 비난을 받았다. 12,500달러 보수가 작은 작업실 두 곳과 직원들이 버티는 데 보탬이 된다고 설명했는데도 그랬다. May는 그 분노를 이해하면서도 거절해 봐야 크게 달라질 것은 없다고 본다. 그들은 그냥 다른 사람을 찾으면 그만이다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/bbihuCHghiaC2K3uSv94gZ.webp",
+            "cap": "Together가 만든 Clusia 아이덴티티 (Image credit: Together/Clusia)"
+          },
+          {
+            "t": "p",
+            "x": "그의 주장은 이렇다. AI 기업이 인간처럼 보이려고 인간에게 돈을 내겠다면, 그 돈을 받고 훌륭한 작업을 해내서 왜 자신들에게 맡겼는지 모두에게 일깨우는 편이 낫다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Why AI companies still hire\nhumans for their branding",
+          "body": "AI firms keep hiring human designers and agencies for their own brand identities, a telling irony for creatives.",
+          "mini_headline": "AI brands, human designers",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/8iLPH4BsY5429rchU9dzuZ.png",
+                "cap": "How&How's rebrand for Ideogram is built around a brain-shaped mark and AI-generated imagery refined by hand in Photoshop. (Image credit: How&How/Ideogram)"
+              },
+              {
+                "t": "p",
+                "x": "The very AI companies that seem hell-bent on putting human designers out of work keep hiring human designers for their brand identities: How&How for Ideogram, Lazarev for AI video app Elva, Together for AI audit firm Clusia, and lettering artist Jessica Hische for Meta's new AI platform, Muse."
+              },
+              {
+                "t": "p",
+                "x": "Tom May's answer: branding has never been about making things look nice. It's about making people believe you, and AI companies have a credibility problem with designers and the general public alike."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/eyb69kyib2ifYxEkYbgUqZ.png",
+                "cap": "Lazarev's brand system for Elva aims to give the AI video editor a friendly personality users will want to talk to. (Image credit: Lazarev/Elva)"
+              },
+              {
+                "t": "p",
+                "x": "Hische was hammered on Threads for the Muse work, despite explaining that the $12,500 fee would help keep two small shops and their staff afloat. May understands the anger but doubts refusing would change much: they'd just find someone else."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/bbihuCHghiaC2K3uSv94gZ.webp",
+                "cap": "Together's identity for Clusia (Image credit: Together/Clusia)"
+              },
+              {
+                "t": "p",
+                "x": "If AI companies want to pay humans to make them look human, he argues, it's best to take the money, do brilliant work and remind everyone why they asked."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI 기업은 왜 아직도\n사람에게 브랜딩을 맡기나",
+          "body": "AI 기업들은 자사 브랜드 아이덴티티만은 계속 사람 디자이너와 에이전시에 맡긴다.",
+          "mini_headline": "AI 브랜드, 사람 디자이너",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/8iLPH4BsY5429rchU9dzuZ.png",
+                "cap": "How&How가 만든 Ideogram 리브랜딩은 뇌 모양 마크와 Photoshop에서 손으로 다듬은 AI 생성(AI-generated) 이미지가 중심이다. (Image credit: How&How/Ideogram)"
+              },
+              {
+                "t": "p",
+                "x": "인간 디자이너의 일자리를 없애려 혈안이 된 듯한 AI 기업들이 정작 자사 브랜드 아이덴티티는 여전히 인간 디자이너에게 맡긴다. Ideogram은 How&How에, AI 영상 앱 Elva는 Lazarev에, AI 감사 기업 Clusia는 Together에 맡겼고, Meta의 새 AI 플랫폼 Muse는 레터링 아티스트 Jessica Hische가 맡았다."
+              },
+              {
+                "t": "p",
+                "x": "Tom May의 답은 이렇다. 브랜딩은 애초에 보기 좋게 만드는 일이 아니었다. 사람들이 나를 믿게 하는 일이다. 그리고 AI 기업은 디자이너 쪽에서도 일반 대중 쪽에서도 신뢰 문제를 겪는다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/eyb69kyib2ifYxEkYbgUqZ.png",
+                "cap": "Lazarev가 만든 Elva의 브랜드 시스템은 이 AI 영상 편집기에 사용자가 말을 걸고 싶어질 만한 친근한 성격을 입히려 한다. (Image credit: Lazarev/Elva)"
+              },
+              {
+                "t": "p",
+                "x": "Hische는 Muse 작업으로 Threads에서 거센 비난을 받았다. 12,500달러 보수가 작은 작업실 두 곳과 직원들이 버티는 데 보탬이 된다고 설명했는데도 그랬다. May는 그 분노를 이해하면서도 거절해 봐야 크게 달라질 것은 없다고 본다. 그들은 그냥 다른 사람을 찾으면 그만이다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/bbihuCHghiaC2K3uSv94gZ.webp",
+                "cap": "Together가 만든 Clusia 아이덴티티 (Image credit: Together/Clusia)"
+              },
+              {
+                "t": "p",
+                "x": "그의 주장은 이렇다. AI 기업이 인간처럼 보이려고 인간에게 돈을 내겠다면, 그 돈을 받고 훌륭한 작업을 해내서 왜 자신들에게 맡겼는지 모두에게 일깨우는 편이 낫다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI企業はなぜいまも\n人にブランドを託すのか",
+          "body": "AI企業は自社のブランドアイデンティティを人間のデザイナーや代理店に依頼し続けている。",
+          "mini_headline": "AIブランド、人間のデザイナー",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/8iLPH4BsY5429rchU9dzuZ.png",
+                "cap": "How&HowによるIdeogramのリブランドは、脳の形をしたマークと、Photoshopで手作業で仕上げたAI生成(AI-generated)画像を軸にしている。(Image credit: How&How/Ideogram)"
+              },
+              {
+                "t": "p",
+                "x": "人間のデザイナーから仕事を奪おうと躍起になっているように見えるAI企業こそが、自社のブランドアイデンティティには人間のデザイナーを起用し続けている。IdeogramはHow&How、AI動画アプリのElvaはLazarev、AI監査企業のClusiaはTogether、そしてMetaの新しいAIプラットフォームMuseはレタリングアーティストのJessica Hischeだ。"
+              },
+              {
+                "t": "p",
+                "x": "Tom Mayの答えはこうだ。ブランディングが見た目を整えるためのものだったことは一度もない。人に信じてもらうためのものであり、AI企業はデザイナーからも一般の人々からも信頼の問題を抱えている。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/eyb69kyib2ifYxEkYbgUqZ.png",
+                "cap": "LazarevによるElvaのブランドシステムは、このAI動画エディターに、ユーザーが話しかけたくなる親しみやすい人格を与えることを狙う。(Image credit: Lazarev/Elva)"
+              },
+              {
+                "t": "p",
+                "x": "HischeはMuseの仕事をめぐってThreadsで激しく批判された。12,500ドルの報酬が小さな二つのスタジオとそのスタッフを支える助けになると説明したにもかかわらずだ。Mayは怒りに理解を示しつつ、断っても大して変わらないとみる。彼らは別の誰かを見つけるだけだからだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/bbihuCHghiaC2K3uSv94gZ.webp",
+                "cap": "TogetherによるClusiaのアイデンティティ (Image credit: Together/Clusia)"
+              },
+              {
+                "t": "p",
+                "x": "AI企業が人間らしく見せるために人間にお金を払いたいのなら、その金を受け取り、見事な仕事をして、なぜ依頼したのかを皆に思い出させるのが一番だと彼は主張する。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "为何AI公司仍请\n真人做品牌",
+          "body": "AI公司仍在为自家品牌形象聘请人类设计师和代理机构，这对创意人来说是个耐人寻味的讽刺。",
+          "mini_headline": "AI品牌，真人设计",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/8iLPH4BsY5429rchU9dzuZ.png",
+                "cap": "How&How为Ideogram打造的新品牌形象，以脑形标志和在Photoshop中手工精修的AI生成（AI-generated）图像为核心。(Image credit: How&How/Ideogram)"
+              },
+              {
+                "t": "p",
+                "x": "那些似乎一心要让人类设计师失业的AI公司，恰恰一直在请人类设计师打造品牌形象：Ideogram请了How&How，AI视频应用Elva请了Lazarev，AI审计公司Clusia请了Together，Meta的新AI平台Muse则请了字体艺术家Jessica Hische。"
+              },
+              {
+                "t": "p",
+                "x": "Tom May的回答是：品牌从来不是为了让东西好看，而是为了让人们相信你，而AI公司在设计师和普通大众那里都存在信誉问题。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/eyb69kyib2ifYxEkYbgUqZ.png",
+                "cap": "Lazarev为Elva设计的品牌系统，旨在赋予这款AI视频编辑器一种让用户愿意与之交谈的友好个性。(Image credit: Lazarev/Elva)"
+              },
+              {
+                "t": "p",
+                "x": "Hische因Muse项目在Threads上遭到猛烈抨击，尽管她解释说，这笔12,500美元的费用将帮助两家小工作室及其员工维持下去。May理解这种愤怒，但怀疑拒绝能改变多少：他们只会另找别人。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/bbihuCHghiaC2K3uSv94gZ.webp",
+                "cap": "Together为Clusia设计的品牌形象 (Image credit: Together/Clusia)"
+              },
+              {
+                "t": "p",
+                "x": "他认为，如果AI公司想花钱请人类让自己显得有人味，那最好就收下这笔钱，做出出色的作品，并提醒所有人他们当初为什么来找你。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Por qué las empresas de AI\naún confían su marca a humanos",
+          "body": "Las empresas de AI siguen contratando diseñadores y agencias humanas para su identidad de marca, una ironía elocuente.",
+          "mini_headline": "Marcas de AI, diseñadores humanos",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/8iLPH4BsY5429rchU9dzuZ.png",
+                "cap": "El rediseño de How&How para Ideogram gira en torno a un símbolo con forma de cerebro e imágenes generadas por AI (AI-generated) retocadas a mano en Photoshop. (Image credit: How&How/Ideogram)"
+              },
+              {
+                "t": "p",
+                "x": "Las mismas empresas de AI que parecen empeñadas en dejar sin trabajo a los diseñadores humanos siguen contratando diseñadores humanos para su identidad de marca: How&How para Ideogram, Lazarev para la app de video con AI Elva, Together para la auditora de AI Clusia y la rotulista Jessica Hische para Muse, la nueva plataforma de AI de Meta."
+              },
+              {
+                "t": "p",
+                "x": "La respuesta de Tom May: el branding nunca ha consistido en hacer que las cosas se vean bonitas. Se trata de lograr que la gente te crea, y las empresas de AI tienen un problema de credibilidad tanto con los diseñadores como con el público general."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/eyb69kyib2ifYxEkYbgUqZ.png",
+                "cap": "El sistema de marca de Lazarev para Elva busca dar al editor de video con AI una personalidad cercana con la que los usuarios quieran hablar. (Image credit: Lazarev/Elva)"
+              },
+              {
+                "t": "p",
+                "x": "Hische recibió duras críticas en Threads por el trabajo para Muse, pese a explicar que los $12,500 de honorarios ayudarían a mantener a flote dos pequeños estudios y a su personal. May entiende el enojo, pero duda de que negarse cambie mucho: simplemente buscarían a otra persona."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/bbihuCHghiaC2K3uSv94gZ.webp",
+                "cap": "La identidad de Together para Clusia (Image credit: Together/Clusia)"
+              },
+              {
+                "t": "p",
+                "x": "Si las empresas de AI quieren pagar a humanos para parecer humanas, sostiene, lo mejor es aceptar el dinero, hacer un trabajo brillante y recordarles a todos por qué lo pidieron."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI 기업은 왜 아직도\n사람에게 브랜딩을 맡기나",
+          "body": "AI 기업들은 자사 브랜드 아이덴티티만은 계속 사람 디자이너와 에이전시에 맡긴다.",
+          "mini_headline": "AI 브랜드, 사람 디자이너",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/8iLPH4BsY5429rchU9dzuZ.png",
+                "cap": "How&How가 만든 Ideogram 리브랜딩은 뇌 모양 마크와, Photoshop에서 손으로 다듬은 AI 생성(AI-generated) 이미지를 중심으로 짜였다. (Image credit: How&How/Ideogram)"
+              },
+              {
+                "t": "p",
+                "x": "인간 디자이너의 일자리를 없애는 데 혈안이 된 듯한 바로 그 AI 기업들이 자사 브랜드 아이덴티티는 계속 인간 디자이너에게 맡긴다. Ideogram은 How&How에, AI 영상 앱 Elva는 Lazarev에, AI 감사 기업 Clusia는 Together에 맡겼고, Meta의 새 AI 플랫폼 Muse는 레터링 아티스트 Jessica Hische가 맡았다."
+              },
+              {
+                "t": "p",
+                "x": "Tom May의 답은 이렇다. 브랜딩은 애초에 보기 좋게 만드는 일이 아니었다. 사람들이 나를 믿게 만드는 일이며, AI 기업은 디자이너에게도 일반 대중에게도 신뢰 문제를 안고 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/eyb69kyib2ifYxEkYbgUqZ.png",
+                "cap": "Lazarev가 만든 Elva의 브랜드 시스템은 이 AI 영상 편집기에 사용자가 말을 걸고 싶어질 만한 친근한 성격을 입히려 한다. (Image credit: Lazarev/Elva)"
+              },
+              {
+                "t": "p",
+                "x": "Hische는 Muse 작업으로 Threads에서 거센 비난을 받았다. 12,500달러의 보수가 작은 작업실 두 곳과 직원들이 버티는 데 도움이 된다고 설명했는데도 그랬다. May는 분노를 이해하지만, 거절해도 크게 달라질 것은 없다고 본다. 그들은 그냥 다른 사람을 찾을 것이기 때문이다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/bbihuCHghiaC2K3uSv94gZ.webp",
+                "cap": "Together가 만든 Clusia 아이덴티티 (Image credit: Together/Clusia)"
+              },
+              {
+                "t": "p",
+                "x": "AI 기업이 인간처럼 보이려고 인간에게 돈을 내겠다면, 그 돈을 받고 훌륭한 작업을 해내 왜 자신들에게 의뢰했는지 모두에게 일깨우는 편이 낫다고 그는 주장한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI企業はなぜいまも\n人にブランドを託すのか",
+          "body": "AI企業は自社のブランドアイデンティティを人間のデザイナーや代理店に依頼し続けている。",
+          "mini_headline": "AIブランド、人間のデザイナー",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/8iLPH4BsY5429rchU9dzuZ.png",
+                "cap": "How&HowによるIdeogramのリブランドは、脳の形をしたマークと、Photoshopで手作業で仕上げたAI生成(AI-generated)画像を軸にしている。(Image credit: How&How/Ideogram)"
+              },
+              {
+                "t": "p",
+                "x": "人間のデザイナーから仕事を奪おうと躍起になっているように見えるAI企業こそが、自社のブランドアイデンティティには人間のデザイナーを起用し続けている。IdeogramはHow&How、AI動画アプリのElvaはLazarev、AI監査企業のClusiaはTogether、そしてMetaの新しいAIプラットフォームMuseはレタリングアーティストのJessica Hischeだ。"
+              },
+              {
+                "t": "p",
+                "x": "Tom Mayの答えはこうだ。ブランディングが見た目を整えるためのものだったことは一度もない。人に信じてもらうためのものであり、AI企業はデザイナーからも一般の人々からも信頼の問題を抱えている。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/eyb69kyib2ifYxEkYbgUqZ.png",
+                "cap": "LazarevによるElvaのブランドシステムは、このAI動画エディターに、ユーザーが話しかけたくなる親しみやすい人格を与えることを狙う。(Image credit: Lazarev/Elva)"
+              },
+              {
+                "t": "p",
+                "x": "HischeはMuseの仕事をめぐってThreadsで激しく批判された。12,500ドルの報酬が小さな二つのスタジオとそのスタッフを支える助けになると説明したにもかかわらずだ。Mayは怒りに理解を示しつつ、断っても大して変わらないとみる。彼らは別の誰かを見つけるだけだからだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/bbihuCHghiaC2K3uSv94gZ.webp",
+                "cap": "TogetherによるClusiaのアイデンティティ (Image credit: Together/Clusia)"
+              },
+              {
+                "t": "p",
+                "x": "AI企業が人間らしく見せるために人間にお金を払いたいのなら、その金を受け取り、見事な仕事をして、なぜ依頼したのかを皆に思い出させるのが一番だと彼は主張する。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "为何AI公司仍请\n真人做品牌",
+          "body": "AI公司仍在为自家品牌形象聘请人类设计师和代理机构，这对创意人来说是个耐人寻味的讽刺。",
+          "mini_headline": "AI品牌，真人设计",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/8iLPH4BsY5429rchU9dzuZ.png",
+                "cap": "How&How为Ideogram打造的新品牌形象，以脑形标志和在Photoshop中手工精修的AI生成（AI-generated）图像为核心。(Image credit: How&How/Ideogram)"
+              },
+              {
+                "t": "p",
+                "x": "那些似乎一心要让人类设计师失业的AI公司，恰恰一直在请人类设计师打造品牌形象：Ideogram请了How&How，AI视频应用Elva请了Lazarev，AI审计公司Clusia请了Together，Meta的新AI平台Muse则请了字体艺术家Jessica Hische。"
+              },
+              {
+                "t": "p",
+                "x": "Tom May的回答是：品牌从来不是为了让东西好看，而是为了让人们相信你，而AI公司在设计师和普通大众那里都存在信誉问题。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/eyb69kyib2ifYxEkYbgUqZ.png",
+                "cap": "Lazarev为Elva设计的品牌系统，旨在赋予这款AI视频编辑器一种让用户愿意与之交谈的友好个性。(Image credit: Lazarev/Elva)"
+              },
+              {
+                "t": "p",
+                "x": "Hische因Muse项目在Threads上遭到猛烈抨击，尽管她解释说，这笔12,500美元的费用将帮助两家小工作室及其员工维持下去。May理解这种愤怒，但怀疑拒绝能改变多少：他们只会另找别人。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/bbihuCHghiaC2K3uSv94gZ.webp",
+                "cap": "Together为Clusia设计的品牌形象 (Image credit: Together/Clusia)"
+              },
+              {
+                "t": "p",
+                "x": "他认为，如果AI公司想花钱请人类让自己显得有人味，那最好就收下这笔钱，做出出色的作品，并提醒所有人他们当初为什么来找你。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Por qué las empresas de AI\naún confían su marca a humanos",
+          "body": "Las empresas de AI siguen contratando diseñadores y agencias humanas para su identidad de marca, una ironía elocuente.",
+          "mini_headline": "Marcas de AI, diseñadores humanos",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/8iLPH4BsY5429rchU9dzuZ.png",
+                "cap": "El rediseño de How&How para Ideogram gira en torno a un símbolo con forma de cerebro e imágenes generadas por AI (AI-generated) retocadas a mano en Photoshop. (Image credit: How&How/Ideogram)"
+              },
+              {
+                "t": "p",
+                "x": "Las mismas empresas de AI que parecen empeñadas en dejar sin trabajo a los diseñadores humanos siguen contratando diseñadores humanos para su identidad de marca: How&How para Ideogram, Lazarev para la app de video con AI Elva, Together para la auditora de AI Clusia y la rotulista Jessica Hische para Muse, la nueva plataforma de AI de Meta."
+              },
+              {
+                "t": "p",
+                "x": "La respuesta de Tom May: el branding nunca ha consistido en hacer que las cosas se vean bonitas. Se trata de lograr que la gente te crea, y las empresas de AI tienen un problema de credibilidad tanto con los diseñadores como con el público general."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/eyb69kyib2ifYxEkYbgUqZ.png",
+                "cap": "El sistema de marca de Lazarev para Elva busca dar al editor de video con AI una personalidad cercana con la que los usuarios quieran hablar. (Image credit: Lazarev/Elva)"
+              },
+              {
+                "t": "p",
+                "x": "Hische recibió duras críticas en Threads por el trabajo para Muse, pese a explicar que los $12,500 de honorarios ayudarían a mantener a flote dos pequeños estudios y a su personal. May entiende el enojo, pero duda de que negarse cambie mucho: simplemente buscarían a otra persona."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/bbihuCHghiaC2K3uSv94gZ.webp",
+                "cap": "La identidad de Together para Clusia (Image credit: Together/Clusia)"
+              },
+              {
+                "t": "p",
+                "x": "Si las empresas de AI quieren pagar a humanos para parecer humanas, sostiene, lo mejor es aceptar el dinero, hacer un trabajo brillante y recordarles a todos por qué lo pidieron."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "design-impeccable-skill",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Impeccable, AI\n웹사이트 티 지우는 스킬",
+      "body": "Impeccable은 Inter 같은 AI-site 티를 잡는 오픈소스 스킬이다.",
+      "mini_headline": "Impeccable vs. AI 룩",
       "tool": "Design Tokens",
       "source": "DEV Community",
-      "url": "https://dev.to/frozonfreak/introducing-ulpg-an-open-landing-page-guide-for-people-and-ai-agents-365h",
+      "url": "https://dev.to/itxtayab/impeccable-the-open-source-design-skill-that-stops-ai-websites-looking-ai-generated-3i20",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
@@ -19,173 +1315,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fna9bxgq3z12rs5u4q40j.png"
+            "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xdyvbd5af4n0a30zef5.webp"
           },
           {
             "t": "p",
-            "x": "대부분의 랜딩 페이지 조언은 템플릿 형태로 나온다. 일정한 높이의 히어로, 기능 카드 세 장, 추천사 띠, 가격표, FAQ 같은 식이다. 템플릿은 빨리 채울 수 있어도 방문자가 실제로 궁금해하는 질문에 페이지가 답하는지는 알려 주지 않는다. Universal Landing Page Guide(ULPG)는 그 빈틈을 메우려 한다."
+            "x": "AI가 만든(AI-built) 웹사이트는 다 비슷해 보인다. 어딜 가나 Inter에 보라색 그라디언트, 카드 속 카드다. Impeccable은 AI 코딩 에이전트용 오픈소스 디자인 스킬이다. 명령어 24개와 AI처럼 보이는(AI-looking) 디자인을 잡아내는 결정론적 검사 62개, 브라우저 속 실시간 반복 작업을 제공한다. Apache 2.0 라이선스로 무료다."
           },
           {
             "t": "p",
-            "x": "README의 표현을 빌리면 ULPG는 \"랜딩 페이지를 디자인하고, 만들고, 검토하는 사람과 AI 에이전트를 위한 오픈 가이드\"다. 페이지 유형을 가리지 않고 레이아웃을 정해 주지도 않는다. 평가한 모든 항목에는 결과(통과, 실패, 해당 없음, 미검증)와 사용한 검증 방법을 함께 붙인다. 인증이 아니라 가이드다. 초기 버전인 v0.3.0은 MIT-licensed(MIT 라이선스)이며 런타임 의존성이 없다."
+            "x": "Anthropic의 frontend-design 스킬을 출발점 삼아 한발 더 나갔다. 결정론적 규칙 62개는 언어 모델도 API 키도 없이 돌아가며 남용된 폰트, 유색 배경 위 회색 텍스트, 중첩 카드, 낡은 바운스 이징을 잡아낸다. 계층 구조와 정서적 울림은 LLM 전용(LLM-only) 비평 검사가 판단한다."
           },
           {
             "t": "p",
-            "x": "워크플로는 이해, 정리, 구축 또는 수정, 검증, 보고의 다섯 단계다. 단계마다 페이지 브리프부터 리뷰 템플릿까지 복사해 쓸 템플릿이 있다."
+            "x": "npx impeccable install로 설치하고 /impeccable init을 실행하면 PRODUCT.md가 생기고, 시각 방향은 DESIGN.md에 정리된다. 명령어로는 shape, craft, critique, audit, polish, bolder, quieter, typeset, layout, harden 등이 있다. Claude Code, Cursor, Codex, GitHub Copilot, Gemini CLI 등에 설치할 수 있다."
           },
           {
             "t": "p",
-            "x": "ULPG는 Markdown을 읽을 수 있는 에이전트라면 어디서든 작동하고 특정 제공사 전용 플러그인도 필요 없다. 에이전트 워크플로는 페이지 콘텐츠를 지시가 아닌 데이터로 다룬다. 보는 것은 테스트가 아니어서 스크린샷으로는 키보드 접근성을 증명할 수 없다고 짚고, 주장과 검증된 결과를 따로 나눠 둔다."
+            "x": "2025년 11월 공개된 지 한 해도 안 돼 GitHub 스타 86,000개를 넘겼다. 포크도 5,000개가 넘는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "An open landing-page guide\nfor people and AI agents",
-          "body": "ULPG is a new open guide to landing-page design, written so both people and AI coding agents can read it.",
-          "mini_headline": "Open landing-page guide ULPG",
+          "headline": "Impeccable, an open skill\nagainst the AI website look",
+          "body": "Impeccable is an open-source agent skill that targets AI-site tells like Inter, purple gradients and nested cards.",
+          "mini_headline": "Impeccable vs. the AI look",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fna9bxgq3z12rs5u4q40j.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xdyvbd5af4n0a30zef5.webp"
               },
               {
                 "t": "p",
-                "x": "Most landing-page advice comes as a template: a hero of a certain height, three feature cards, a testimonial strip, a pricing table, an FAQ. Templates are quick to fill in, but they don't tell you whether the page answers the questions its visitors actually have. The Universal Landing Page Guide (ULPG) tries to fill that gap."
+                "x": "Every AI-built website looks the same: Inter everywhere, purple gradients, cards inside cards. Impeccable is an open-source design skill for AI coding agents with 24 commands, 62 deterministic checks that catch AI-looking design, and live iteration in the browser. It is free under Apache 2.0."
               },
               {
                 "t": "p",
-                "x": "In the README's words, ULPG is \"an open guide for people and AI agents designing, building, and reviewing landing pages.\" It is page-type neutral, doesn't prescribe a layout, and gives every assessed item an outcome (pass, fail, not applicable or unverified) plus the validation method used. It is guidance, not certification. The early edition, v0.3.0, is MIT-licensed with no runtime dependencies."
+                "x": "It started from Anthropic's frontend-design skill and pushed it further. The 62 deterministic rules run with no language model and no API key, catching overused fonts, gray text on colored backgrounds, nested cards and dated bounce easing; LLM-only critique checks judge hierarchy and emotional resonance."
               },
               {
                 "t": "p",
-                "x": "The workflow has five steps: understand, organize, build or revise, verify and report, each with a template to copy, from the page brief to the review template."
+                "x": "Install with npx impeccable install, then /impeccable init writes PRODUCT.md, with visual direction kept in DESIGN.md. Commands include shape, craft, critique, audit, polish, bolder, quieter, typeset, layout and harden. It installs into Claude Code, Cursor, Codex, GitHub Copilot, Gemini CLI and more."
               },
               {
                 "t": "p",
-                "x": "ULPG works with any agent that can read Markdown, with no provider-specific plugin. The agent workflow treats page content as data, not instructions; says seeing isn't testing, so a screenshot can't prove keyboard accessibility; and keeps claims apart from verified results."
+                "x": "Launched in November 2025, it passed 86,000 GitHub stars with over 5,000 forks in less than a year."
               }
             ]
           }
         },
         "ko": {
-          "headline": "사람과 AI 에이전트용\n열린 랜딩 페이지 가이드",
-          "body": "ULPG는 사람과 AI 코딩 에이전트가 함께 읽는 새 오픈 랜딩 페이지 가이드다.",
-          "mini_headline": "오픈 랜딩 페이지 가이드 ULPG",
+          "headline": "Impeccable, AI\n웹사이트 티 지우는 스킬",
+          "body": "Impeccable은 Inter 같은 AI-site 티를 잡는 오픈소스 스킬이다.",
+          "mini_headline": "Impeccable vs. AI 룩",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fna9bxgq3z12rs5u4q40j.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xdyvbd5af4n0a30zef5.webp"
               },
               {
                 "t": "p",
-                "x": "대부분의 랜딩 페이지 조언은 템플릿 형태로 나온다. 일정한 높이의 히어로, 기능 카드 세 장, 추천사 띠, 가격표, FAQ 같은 식이다. 템플릿은 빨리 채울 수 있어도 방문자가 실제로 궁금해하는 질문에 페이지가 답하는지는 알려 주지 않는다. Universal Landing Page Guide(ULPG)는 그 빈틈을 메우려 한다."
+                "x": "AI가 만든(AI-built) 웹사이트는 다 비슷해 보인다. 어딜 가나 Inter에 보라색 그라디언트, 카드 속 카드다. Impeccable은 AI 코딩 에이전트용 오픈소스 디자인 스킬이다. 명령어 24개와 AI처럼 보이는(AI-looking) 디자인을 잡아내는 결정론적 검사 62개, 브라우저 속 실시간 반복 작업을 제공한다. Apache 2.0 라이선스로 무료다."
               },
               {
                 "t": "p",
-                "x": "README의 표현을 빌리면 ULPG는 \"랜딩 페이지를 디자인하고, 만들고, 검토하는 사람과 AI 에이전트를 위한 오픈 가이드\"다. 페이지 유형을 가리지 않고 레이아웃을 정해 주지도 않는다. 평가한 모든 항목에는 결과(통과, 실패, 해당 없음, 미검증)와 사용한 검증 방법을 함께 붙인다. 인증이 아니라 가이드다. 초기 버전인 v0.3.0은 MIT-licensed(MIT 라이선스)이며 런타임 의존성이 없다."
+                "x": "Anthropic의 frontend-design 스킬을 출발점 삼아 한발 더 나갔다. 결정론적 규칙 62개는 언어 모델도 API 키도 없이 돌아가며 남용된 폰트, 유색 배경 위 회색 텍스트, 중첩 카드, 낡은 바운스 이징을 잡아낸다. 계층 구조와 정서적 울림은 LLM 전용(LLM-only) 비평 검사가 판단한다."
               },
               {
                 "t": "p",
-                "x": "워크플로는 이해, 정리, 구축 또는 수정, 검증, 보고의 다섯 단계다. 단계마다 페이지 브리프부터 리뷰 템플릿까지 복사해 쓸 템플릿이 있다."
+                "x": "npx impeccable install로 설치하고 /impeccable init을 실행하면 PRODUCT.md가 생기고, 시각 방향은 DESIGN.md에 정리된다. 명령어로는 shape, craft, critique, audit, polish, bolder, quieter, typeset, layout, harden 등이 있다. Claude Code, Cursor, Codex, GitHub Copilot, Gemini CLI 등에 설치할 수 있다."
               },
               {
                 "t": "p",
-                "x": "ULPG는 Markdown을 읽을 수 있는 에이전트라면 어디서든 작동하고 특정 제공사 전용 플러그인도 필요 없다. 에이전트 워크플로는 페이지 콘텐츠를 지시가 아닌 데이터로 다룬다. 보는 것은 테스트가 아니어서 스크린샷으로는 키보드 접근성을 증명할 수 없다고 짚고, 주장과 검증된 결과를 따로 나눠 둔다."
+                "x": "2025년 11월 공개된 지 한 해도 안 돼 GitHub 스타 86,000개를 넘겼다. 포크도 5,000개가 넘는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "人とAIエージェント向け\nオープンなLPガイド",
-          "body": "ULPGは人もAIコーディングエージェントも読める新しいオープンなLP設計ガイドだ。",
-          "mini_headline": "オープンなLPガイドULPG",
+          "headline": "Impeccable、\nAIサイト感を消すスキル",
+          "body": "ImpeccableはInterなどAI-siteの癖を正すオープンソースのスキルだ。",
+          "mini_headline": "Impeccable vs. AIっぽさ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fna9bxgq3z12rs5u4q40j.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xdyvbd5af4n0a30zef5.webp"
               },
               {
                 "t": "p",
-                "x": "ランディングページに関する助言の多くはテンプレートとして示される。一定の高さのヒーロー、三つの機能カード、推薦文の帯、料金表、FAQといった具合だ。テンプレートは手早く埋められるが、そのページが訪問者の実際の疑問に答えているかどうかは教えてくれない。Universal Landing Page Guide（ULPG）はその隙間を埋めようとしている。"
+                "x": "AIが作った(AI-built)サイトはどれも同じに見える。どこもInter、紫のグラデーション、カードの中のカードだ。ImpeccableはAIコーディングエージェント向けのオープンソースのデザインスキルで、24のコマンド、AIっぽい(AI-looking)デザインを見抜く62の決定論的チェック、ブラウザ上でのライブな反復を備える。Apache 2.0のもとで無料だ。"
               },
               {
                 "t": "p",
-                "x": "READMEの言葉を借りれば、ULPGは「ランディングページを設計し、構築し、レビューする人とAIエージェントのためのオープンなガイド」だ。ページの種類を問わず、レイアウトを規定せず、評価したすべての項目に結果（合格、不合格、該当なし、未検証）と用いた検証方法を付ける。認証ではなく、あくまでガイドだ。初期版のv0.3.0はMIT-licensed（MITライセンス）で、ランタイム依存関係はない。"
+                "x": "Anthropicのfrontend-designスキルを出発点に、さらに推し進めたものだ。62の決定論的ルールは言語モデルもAPIキーも使わずに動き、使われすぎたフォント、色付き背景上のグレーの文字、入れ子のカード、古くさいバウンスのイージングを検出する。階層や感情的な響きは、LLM専用(LLM-only)の批評チェックが判断する。"
               },
               {
                 "t": "p",
-                "x": "ワークフローは理解、整理、構築または修正、検証、報告の五つのステップからなり、各ステップにはページブリーフからレビューテンプレートまで、コピーして使えるテンプレートが用意されている。"
+                "x": "npx impeccable installでインストールし、/impeccable initを実行するとPRODUCT.mdが書き出され、ビジュアルの方向性はDESIGN.mdにまとめられる。コマンドにはshape、craft、critique、audit、polish、bolder、quieter、typeset、layout、hardenなどがある。Claude Code、Cursor、Codex、GitHub Copilot、Gemini CLIなどに導入できる。"
               },
               {
                 "t": "p",
-                "x": "ULPGはMarkdownを読めるエージェントなら何でも使え、プロバイダー固有のプラグインは要らない。エージェント向けワークフローはページの内容を指示ではなくデータとして扱い、見ることはテストではないため、スクリーンショットではキーボードアクセシビリティを証明できないとし、主張と検証済みの結果を分けて扱う。"
+                "x": "2025年11月に公開され、一年足らずでGitHubのスター数は86,000を超え、フォークも5,000を上回った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "面向人与AI智能体的\n开放落地页指南",
-          "body": "ULPG是一份新的开放式落地页设计指南，人和AI编程智能体都能读懂。",
-          "mini_headline": "开放落地页指南ULPG",
+          "headline": "Impeccable：\n专治AI网站味的开源技能",
+          "body": "Impeccable是开源智能体技能，专治Inter、紫色渐变等AI-site通病。",
+          "mini_headline": "Impeccable vs. AI味",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fna9bxgq3z12rs5u4q40j.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xdyvbd5af4n0a30zef5.webp"
               },
               {
                 "t": "p",
-                "x": "大多数落地页建议都以模板形式出现：一定高度的首屏主视觉、三张功能卡片、用户评价栏、价格表、FAQ。模板填起来很快，却无法告诉你页面是否回答了访客真正关心的问题。Universal Landing Page Guide（ULPG）试图填补这一空白。"
+                "x": "所有AI搭建（AI-built）的网站看起来都一样：满屏Inter字体、紫色渐变、卡片套卡片。Impeccable是一款面向AI编程智能体的开源设计技能，提供24条命令、62项能识别AI味（AI-looking）设计的确定性检查，以及在浏览器中实时迭代。它采用Apache 2.0许可，免费使用。"
               },
               {
                 "t": "p",
-                "x": "用README的话说，ULPG是“面向设计、构建和审查落地页的人与AI智能体的开放指南”。它不限定页面类型，也不规定布局，并为每个评估项给出结果（通过、未通过、不适用或未验证）以及所用的验证方法。它是指南，而非认证。早期版本v0.3.0采用MIT-licensed（MIT许可），没有运行时依赖。"
+                "x": "它以Anthropic的frontend-design技能为起点，并做了进一步拓展。62条确定性规则无需语言模型和API密钥即可运行，能揪出被滥用的字体、彩色背景上的灰色文字、嵌套卡片和过时的弹跳缓动；层级和情感共鸣则由仅限LLM（LLM-only）的评审检查来判断。"
               },
               {
                 "t": "p",
-                "x": "工作流分为五步：理解、组织、构建或修订、验证和报告，每一步都有可直接复制的模板，从页面简报到评审模板。"
+                "x": "用npx impeccable install安装，再运行/impeccable init生成PRODUCT.md，视觉方向则记录在DESIGN.md中。命令包括shape、craft、critique、audit、polish、bolder、quieter、typeset、layout和harden。它可以安装到Claude Code、Cursor、Codex、GitHub Copilot、Gemini CLI等工具中。"
               },
               {
                 "t": "p",
-                "x": "ULPG适用于任何能读取Markdown的智能体，无需特定提供商的插件。其智能体工作流把页面内容当作数据而非指令；强调看到不等于测试，因此截图无法证明键盘可访问性；并把声明与已验证的结果分开。"
+                "x": "它于2025年11月发布，不到一年就在GitHub上收获超过86,000颗星，分叉数也超过5,000。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Guía abierta de landing pages\npara personas y agentes de AI",
-          "body": "ULPG es una nueva guía abierta de diseño de landing pages, pensada para personas y agentes AI de programación.",
-          "mini_headline": "Guía abierta de landing pages ULPG",
+          "headline": "Impeccable, una skill abierta\ncontra el look de web con AI",
+          "body": "Impeccable es una skill de código abierto contra rasgos AI-site como Inter, degradados morados y tarjetas anidadas.",
+          "mini_headline": "Impeccable vs. el look AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fna9bxgq3z12rs5u4q40j.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xdyvbd5af4n0a30zef5.webp"
               },
               {
                 "t": "p",
-                "x": "La mayoría de los consejos sobre landing pages llegan en forma de plantilla: un hero de cierta altura, tres tarjetas de funciones, una franja de testimonios, una tabla de precios, un FAQ. Las plantillas se rellenan rápido, pero no dicen si la página responde a las preguntas que realmente tienen sus visitantes. La Universal Landing Page Guide (ULPG) intenta cubrir ese vacío."
+                "x": "Todas las webs hechas con AI (AI-built) se parecen: Inter por todas partes, degradados morados, tarjetas dentro de tarjetas. Impeccable es una skill de diseño de código abierto para agentes de programación con AI, con 24 comandos, 62 comprobaciones deterministas que detectan el diseño con aspecto de AI (AI-looking) e iteración en vivo en el navegador. Es gratuita bajo Apache 2.0."
               },
               {
                 "t": "p",
-                "x": "En palabras del README, ULPG es \"una guía abierta para personas y agentes AI que diseñan, construyen y revisan landing pages\". Es neutral respecto al tipo de página, no impone un diseño y asigna a cada elemento evaluado un resultado (aprobado, fallido, no aplicable o no verificado) junto con el método de validación usado. Es una guía, no una certificación. La edición inicial, v0.3.0, es MIT-licensed (licencia MIT) y no tiene dependencias en tiempo de ejecución."
+                "x": "Partió de la skill frontend-design de Anthropic y la llevó más lejos. Las 62 reglas deterministas funcionan sin modelo de lenguaje ni clave de API, y detectan fuentes sobreutilizadas, texto gris sobre fondos de color, tarjetas anidadas y un easing de rebote anticuado; las revisiones críticas LLM-only evalúan la jerarquía y la resonancia emocional."
               },
               {
                 "t": "p",
-                "x": "El flujo de trabajo tiene cinco pasos: comprender, organizar, construir o revisar, verificar e informar, cada uno con una plantilla para copiar, desde el brief de la página hasta la plantilla de revisión."
+                "x": "Se instala con npx impeccable install y luego /impeccable init escribe PRODUCT.md, mientras la dirección visual se guarda en DESIGN.md. Entre los comandos están shape, craft, critique, audit, polish, bolder, quieter, typeset, layout y harden. Se instala en Claude Code, Cursor, Codex, GitHub Copilot, Gemini CLI y otros."
               },
               {
                 "t": "p",
-                "x": "ULPG funciona con cualquier agente capaz de leer Markdown, sin plugins específicos de un proveedor. El flujo para agentes trata el contenido de la página como datos, no como instrucciones; sostiene que ver no es probar, de modo que una captura de pantalla no demuestra la accesibilidad por teclado; y separa las afirmaciones de los resultados verificados."
+                "x": "Lanzada en noviembre de 2025, superó las 86,000 estrellas en GitHub y los 5,000 forks en menos de un año."
               }
             ]
           }
@@ -193,1569 +1489,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "사람과 AI 에이전트용\n열린 랜딩 페이지 가이드",
-          "body": "ULPG는 사람과 AI 코딩 에이전트가 함께 읽는 새 오픈 랜딩 페이지 가이드다.",
-          "mini_headline": "오픈 랜딩 페이지 가이드 ULPG",
+          "headline": "Impeccable, AI\n웹사이트 티 지우는 스킬",
+          "body": "Impeccable은 Inter 같은 AI-site 티를 잡는 오픈소스 스킬이다.",
+          "mini_headline": "Impeccable vs. AI 룩",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fna9bxgq3z12rs5u4q40j.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xdyvbd5af4n0a30zef5.webp"
               },
               {
                 "t": "p",
-                "x": "대부분의 랜딩 페이지 조언은 템플릿 형태로 나온다. 일정한 높이의 히어로, 기능 카드 세 장, 추천사 띠, 가격표, FAQ 같은 식이다. 템플릿은 빨리 채울 수 있지만, 페이지가 방문자가 실제로 품은 질문에 답하는지는 알려 주지 않는다. Universal Landing Page Guide(ULPG)는 그 빈틈을 메우려 한다."
+                "x": "AI가 만든(AI-built) 웹사이트는 모두 비슷해 보인다. 어디에나 Inter, 보라색 그라디언트, 카드 속의 카드다. Impeccable은 AI 코딩 에이전트를 위한 오픈소스 디자인 스킬로, 24개 명령어와 AI처럼 보이는(AI-looking) 디자인을 잡아내는 62개 결정론적 검사, 브라우저 속 실시간 반복 작업을 제공한다. Apache 2.0 라이선스로 무료다."
               },
               {
                 "t": "p",
-                "x": "README의 표현을 빌리면 ULPG는 \"랜딩 페이지를 디자인하고, 만들고, 검토하는 사람과 AI 에이전트를 위한 오픈 가이드\"다. 페이지 유형에 중립적이고 레이아웃을 정해 주지 않으며, 평가한 모든 항목에 결과(통과, 실패, 해당 없음, 미검증)와 사용한 검증 방법을 함께 붙인다. 인증이 아니라 가이드다. 초기 버전인 v0.3.0은 MIT-licensed(MIT 라이선스)이며 런타임 의존성이 없다."
+                "x": "Anthropic의 frontend-design 스킬에서 출발해 더 밀어붙였다. 62개 결정론적 규칙은 언어 모델도 API 키도 없이 돌아가며, 남용된 폰트, 유색 배경 위의 회색 텍스트, 중첩 카드, 낡은 바운스 이징을 잡아낸다. 계층 구조와 정서적 울림은 LLM 전용(LLM-only) 비평 검사가 판단한다."
               },
               {
                 "t": "p",
-                "x": "워크플로는 이해, 정리, 구축 또는 수정, 검증, 보고의 다섯 단계로 이뤄지며, 단계마다 페이지 브리프부터 리뷰 템플릿까지 복사해 쓸 템플릿이 있다."
+                "x": "npx impeccable install로 설치한 뒤 /impeccable init을 실행하면 PRODUCT.md가 작성되고, 시각적 방향은 DESIGN.md에 담긴다. 명령어로는 shape, craft, critique, audit, polish, bolder, quieter, typeset, layout, harden 등이 있다. Claude Code, Cursor, Codex, GitHub Copilot, Gemini CLI 등에 설치할 수 있다."
               },
               {
                 "t": "p",
-                "x": "ULPG는 Markdown을 읽을 수 있는 에이전트라면 어디서든 작동하며, 특정 제공사 전용 플러그인이 필요 없다. 에이전트 워크플로는 페이지 콘텐츠를 지시가 아닌 데이터로 다루고, 보는 것은 테스트가 아니므로 스크린샷으로는 키보드 접근성을 증명할 수 없다고 말하며, 주장과 검증된 결과를 분리해 둔다."
+                "x": "2025년 11월 공개된 뒤 채 한 해가 지나기 전에 GitHub 스타 86,000개를 넘겼고, 포크도 5,000개가 넘는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "人とAIエージェント向け\nオープンなLPガイド",
-          "body": "ULPGは人もAIコーディングエージェントも読める新しいオープンなLP設計ガイドだ。",
-          "mini_headline": "オープンなLPガイドULPG",
+          "headline": "Impeccable、\nAIサイト感を消すスキル",
+          "body": "ImpeccableはInterなどAI-siteの癖を正すオープンソースのスキルだ。",
+          "mini_headline": "Impeccable vs. AIっぽさ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fna9bxgq3z12rs5u4q40j.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xdyvbd5af4n0a30zef5.webp"
               },
               {
                 "t": "p",
-                "x": "ランディングページに関する助言の多くはテンプレートとして示される。一定の高さのヒーロー、三つの機能カード、推薦文の帯、料金表、FAQといった具合だ。テンプレートは手早く埋められるが、そのページが訪問者の実際の疑問に答えているかどうかは教えてくれない。Universal Landing Page Guide（ULPG）はその隙間を埋めようとしている。"
+                "x": "AIが作った(AI-built)サイトはどれも同じに見える。どこもInter、紫のグラデーション、カードの中のカードだ。ImpeccableはAIコーディングエージェント向けのオープンソースのデザインスキルで、24のコマンド、AIっぽい(AI-looking)デザインを見抜く62の決定論的チェック、ブラウザ上でのライブな反復を備える。Apache 2.0のもとで無料だ。"
               },
               {
                 "t": "p",
-                "x": "READMEの言葉を借りれば、ULPGは「ランディングページを設計し、構築し、レビューする人とAIエージェントのためのオープンなガイド」だ。ページの種類を問わず、レイアウトを規定せず、評価したすべての項目に結果（合格、不合格、該当なし、未検証）と用いた検証方法を付ける。認証ではなく、あくまでガイドだ。初期版のv0.3.0はMIT-licensed（MITライセンス）で、ランタイム依存関係はない。"
+                "x": "Anthropicのfrontend-designスキルを出発点に、さらに推し進めたものだ。62の決定論的ルールは言語モデルもAPIキーも使わずに動き、使われすぎたフォント、色付き背景上のグレーの文字、入れ子のカード、古くさいバウンスのイージングを検出する。階層や感情的な響きは、LLM専用(LLM-only)の批評チェックが判断する。"
               },
               {
                 "t": "p",
-                "x": "ワークフローは理解、整理、構築または修正、検証、報告の五つのステップからなり、各ステップにはページブリーフからレビューテンプレートまで、コピーして使えるテンプレートが用意されている。"
+                "x": "npx impeccable installでインストールし、/impeccable initを実行するとPRODUCT.mdが書き出され、ビジュアルの方向性はDESIGN.mdにまとめられる。コマンドにはshape、craft、critique、audit、polish、bolder、quieter、typeset、layout、hardenなどがある。Claude Code、Cursor、Codex、GitHub Copilot、Gemini CLIなどに導入できる。"
               },
               {
                 "t": "p",
-                "x": "ULPGはMarkdownを読めるエージェントなら何でも使え、プロバイダー固有のプラグインは要らない。エージェント向けワークフローはページの内容を指示ではなくデータとして扱い、見ることはテストではないため、スクリーンショットではキーボードアクセシビリティを証明できないとし、主張と検証済みの結果を分けて扱う。"
+                "x": "2025年11月に公開され、一年足らずでGitHubのスター数は86,000を超え、フォークも5,000を上回った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "面向人与AI智能体的\n开放落地页指南",
-          "body": "ULPG是一份新的开放式落地页设计指南，人和AI编程智能体都能读懂。",
-          "mini_headline": "开放落地页指南ULPG",
+          "headline": "Impeccable：\n专治AI网站味的开源技能",
+          "body": "Impeccable是开源智能体技能，专治Inter、紫色渐变等AI-site通病。",
+          "mini_headline": "Impeccable vs. AI味",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fna9bxgq3z12rs5u4q40j.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xdyvbd5af4n0a30zef5.webp"
               },
               {
                 "t": "p",
-                "x": "大多数落地页建议都以模板形式出现：一定高度的首屏主视觉、三张功能卡片、用户评价栏、价格表、FAQ。模板填起来很快，却无法告诉你页面是否回答了访客真正关心的问题。Universal Landing Page Guide（ULPG）试图填补这一空白。"
+                "x": "所有AI搭建（AI-built）的网站看起来都一样：满屏Inter字体、紫色渐变、卡片套卡片。Impeccable是一款面向AI编程智能体的开源设计技能，提供24条命令、62项能识别AI味（AI-looking）设计的确定性检查，以及在浏览器中实时迭代。它采用Apache 2.0许可，免费使用。"
               },
               {
                 "t": "p",
-                "x": "用README的话说，ULPG是“面向设计、构建和审查落地页的人与AI智能体的开放指南”。它不限定页面类型，也不规定布局，并为每个评估项给出结果（通过、未通过、不适用或未验证）以及所用的验证方法。它是指南，而非认证。早期版本v0.3.0采用MIT-licensed（MIT许可），没有运行时依赖。"
+                "x": "它以Anthropic的frontend-design技能为起点，并做了进一步拓展。62条确定性规则无需语言模型和API密钥即可运行，能揪出被滥用的字体、彩色背景上的灰色文字、嵌套卡片和过时的弹跳缓动；层级和情感共鸣则由仅限LLM（LLM-only）的评审检查来判断。"
               },
               {
                 "t": "p",
-                "x": "工作流分为五步：理解、组织、构建或修订、验证和报告，每一步都有可直接复制的模板，从页面简报到评审模板。"
+                "x": "用npx impeccable install安装，再运行/impeccable init生成PRODUCT.md，视觉方向则记录在DESIGN.md中。命令包括shape、craft、critique、audit、polish、bolder、quieter、typeset、layout和harden。它可以安装到Claude Code、Cursor、Codex、GitHub Copilot、Gemini CLI等工具中。"
               },
               {
                 "t": "p",
-                "x": "ULPG适用于任何能读取Markdown的智能体，无需特定提供商的插件。其智能体工作流把页面内容当作数据而非指令；强调看到不等于测试，因此截图无法证明键盘可访问性；并把声明与已验证的结果分开。"
+                "x": "它于2025年11月发布，不到一年就在GitHub上收获超过86,000颗星，分叉数也超过5,000。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Guía abierta de landing pages\npara personas y agentes de AI",
-          "body": "ULPG es una nueva guía abierta de diseño de landing pages, pensada para personas y agentes AI de programación.",
-          "mini_headline": "Guía abierta de landing pages ULPG",
+          "headline": "Impeccable, una skill abierta\ncontra el look de web con AI",
+          "body": "Impeccable es una skill de código abierto contra rasgos AI-site como Inter, degradados morados y tarjetas anidadas.",
+          "mini_headline": "Impeccable vs. el look AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fna9bxgq3z12rs5u4q40j.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xdyvbd5af4n0a30zef5.webp"
               },
               {
                 "t": "p",
-                "x": "La mayoría de los consejos sobre landing pages llegan en forma de plantilla: un hero de cierta altura, tres tarjetas de funciones, una franja de testimonios, una tabla de precios, un FAQ. Las plantillas se rellenan rápido, pero no dicen si la página responde a las preguntas que realmente tienen sus visitantes. La Universal Landing Page Guide (ULPG) intenta cubrir ese vacío."
+                "x": "Todas las webs hechas con AI (AI-built) se parecen: Inter por todas partes, degradados morados, tarjetas dentro de tarjetas. Impeccable es una skill de diseño de código abierto para agentes de programación con AI, con 24 comandos, 62 comprobaciones deterministas que detectan el diseño con aspecto de AI (AI-looking) e iteración en vivo en el navegador. Es gratuita bajo Apache 2.0."
               },
               {
                 "t": "p",
-                "x": "En palabras del README, ULPG es \"una guía abierta para personas y agentes AI que diseñan, construyen y revisan landing pages\". Es neutral respecto al tipo de página, no impone un diseño y asigna a cada elemento evaluado un resultado (aprobado, fallido, no aplicable o no verificado) junto con el método de validación usado. Es una guía, no una certificación. La edición inicial, v0.3.0, es MIT-licensed (licencia MIT) y no tiene dependencias en tiempo de ejecución."
+                "x": "Partió de la skill frontend-design de Anthropic y la llevó más lejos. Las 62 reglas deterministas funcionan sin modelo de lenguaje ni clave de API, y detectan fuentes sobreutilizadas, texto gris sobre fondos de color, tarjetas anidadas y un easing de rebote anticuado; las revisiones críticas LLM-only evalúan la jerarquía y la resonancia emocional."
               },
               {
                 "t": "p",
-                "x": "El flujo de trabajo tiene cinco pasos: comprender, organizar, construir o revisar, verificar e informar, cada uno con una plantilla para copiar, desde el brief de la página hasta la plantilla de revisión."
+                "x": "Se instala con npx impeccable install y luego /impeccable init escribe PRODUCT.md, mientras la dirección visual se guarda en DESIGN.md. Entre los comandos están shape, craft, critique, audit, polish, bolder, quieter, typeset, layout y harden. Se instala en Claude Code, Cursor, Codex, GitHub Copilot, Gemini CLI y otros."
               },
               {
                 "t": "p",
-                "x": "ULPG funciona con cualquier agente capaz de leer Markdown, sin plugins específicos de un proveedor. El flujo para agentes trata el contenido de la página como datos, no como instrucciones; sostiene que ver no es probar, de modo que una captura de pantalla no demuestra la accesibilidad por teclado; y separa las afirmaciones de los resultados verificados."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "design-vercel-agent-production-access",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Vercel Agent는\n프로덕션 변경 전 묻는다",
-      "body": "Vercel Agent는 읽기 전용으로 조사하고, 계획을 승인받아야 바꾼다.",
-      "mini_headline": "먼저 묻는 Vercel Agent",
-      "tool": "Figma",
-      "source": "Vercel",
-      "url": "https://vercel.com/blog/how-vercel-agent-accesses-production-safely",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "“이 배포를 고쳐 줘” 같은 요청만으로는 에이전트가 무슨 작업을 하고 어떤 권한이 필요한지 미리 알 수 없다. Vercel Agent는 먼저 문제를 조사한 뒤, 무엇을 할지와 어떤 권한이 필요한지 보여 주는 계획을 제안한다. 계획을 승인하면 실행에 필요한 권한이 추가로 주어진다."
-          },
-          {
-            "t": "img",
-            "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cacf2c9fff74e899cc0b157e/a3f092a118057cfe9ded3eb1439d9839/01-plan-and-permissions-light.png",
-            "cap": "배포 요청이 권한을 담은 계획으로 바뀌는 과정."
-          },
-          {
-            "t": "p",
-            "x": "배포가 깨졌다면 자동으로 실행되는 읽기 전용 범위 안에서 빌드 로그를 살피고 실패한 배포를 마지막 정상 배포와 비교할 수 있다. 재배포를 제안하면 사용자가 한 번의 결정으로 승인하는 계획 안에서 read-write:deployment 권한을 요청한다."
-          },
-          {
-            "t": "img",
-            "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cad02de28304ef1d003bd3c5/86455e20607b69548ecb7fba8e06466e/03-authorization-and-tokens-light.png",
-            "cap": "Vercel Agent가 승인된 작업에 쓸 토큰을 받는 방식."
-          },
-          {
-            "t": "p",
-            "x": "Vercel Agent는 사용자의 기존 권한 범위 안에서 동작하는 Vercel App으로 실행된다. 그래서 계획을 승인해도 사용자에게 없는 권한까지 줄 수는 없다. OAuth 서비스가 발급하는 토큰은 수명이 더 짧고 범위가 한정된다. 모델이 필요하다고 판단한 작업이라도 그 범위를 벗어나면 Vercel APIs가 거부한다."
-          },
-          {
-            "t": "img",
-            "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/ca222732a2267d21ecbeebe2/36a2586ea4b3aca902e73ff9e631a038/05-plan-lifecycle-light.png",
-            "cap": "계획이 승인, 거부, 중단될 때 일어나는 일."
-          },
-          {
-            "t": "p",
-            "x": "런타임은 작업을 재개하기 전에 계획이 아직 유효한지 확인한다. 중단된 계획은 토큰이 만료되지 않았어도 실패한다. 범위가 한정된 자격 증명은 샌드박스 격리, 네트워크 정책, 비밀 정보 처리, 요청 한도, 감사 로그와 함께 작동한다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Vercel Agent asks before\nit changes production",
-          "body": "Vercel Agent investigates with read-only access, then needs a user to approve its plan before making changes.",
-          "mini_headline": "Vercel Agent\nasks first",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "A request like “fix this deployment” doesn’t say upfront which actions an agent will take or what access it needs. Vercel Agent starts by investigating the problem, then proposes a plan showing what it would do and what access it would need. Approving that plan grants the additional permissions to carry it out."
-              },
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cacf2c9fff74e899cc0b157e/a3f092a118057cfe9ded3eb1439d9839/01-plan-and-permissions-light.png",
-                "cap": "How a deployment request becomes a plan with permissions."
-              },
-              {
-                "t": "p",
-                "x": "For a broken deployment, it might inspect build logs and compare the failed deployment with the last known-good one under read-only scopes, which run automatically. A proposed redeploy requests read-write:deployment access in a plan the user approves in one decision."
-              },
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cad02de28304ef1d003bd3c5/86455e20607b69548ecb7fba8e06466e/03-authorization-and-tokens-light.png",
-                "cap": "How Vercel Agent gets a token for approved work."
-              },
-              {
-                "t": "p",
-                "x": "Vercel Agent runs as a Vercel App limited by the user’s existing permissions, so approving a plan cannot grant access the user does not have. The OAuth service issues shorter-lived scoped tokens, and Vercel APIs reject operations outside them, even if the model considers the action necessary."
-              },
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/ca222732a2267d21ecbeebe2/36a2586ea4b3aca902e73ff9e631a038/05-plan-lifecycle-light.png",
-                "cap": "What happens when a plan is approved, rejected, or stopped."
-              },
-              {
-                "t": "p",
-                "x": "Before resuming work, the runtime checks that the plan is still active; a stopped plan fails even if its token hasn’t expired. Scoped credentials work alongside sandbox isolation, network policy, secret handling, rate limits and audit logs."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Vercel Agent는\n프로덕션 변경 전 묻는다",
-          "body": "Vercel Agent는 읽기 전용으로 조사하고, 계획을 승인받아야 바꾼다.",
-          "mini_headline": "먼저 묻는 Vercel Agent",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "“이 배포를 고쳐 줘” 같은 요청만으로는 에이전트가 무슨 작업을 하고 어떤 권한이 필요한지 미리 알 수 없다. Vercel Agent는 먼저 문제를 조사한 뒤, 무엇을 할지와 어떤 권한이 필요한지 보여 주는 계획을 제안한다. 계획을 승인하면 실행에 필요한 권한이 추가로 주어진다."
-              },
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cacf2c9fff74e899cc0b157e/a3f092a118057cfe9ded3eb1439d9839/01-plan-and-permissions-light.png",
-                "cap": "배포 요청이 권한을 담은 계획으로 바뀌는 과정."
-              },
-              {
-                "t": "p",
-                "x": "배포가 깨졌다면 자동으로 실행되는 읽기 전용 범위 안에서 빌드 로그를 살피고 실패한 배포를 마지막 정상 배포와 비교할 수 있다. 재배포를 제안하면 사용자가 한 번의 결정으로 승인하는 계획 안에서 read-write:deployment 권한을 요청한다."
-              },
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cad02de28304ef1d003bd3c5/86455e20607b69548ecb7fba8e06466e/03-authorization-and-tokens-light.png",
-                "cap": "Vercel Agent가 승인된 작업에 쓸 토큰을 받는 방식."
-              },
-              {
-                "t": "p",
-                "x": "Vercel Agent는 사용자의 기존 권한 범위 안에서 동작하는 Vercel App으로 실행된다. 그래서 계획을 승인해도 사용자에게 없는 권한까지 줄 수는 없다. OAuth 서비스가 발급하는 토큰은 수명이 더 짧고 범위가 한정된다. 모델이 필요하다고 판단한 작업이라도 그 범위를 벗어나면 Vercel APIs가 거부한다."
-              },
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/ca222732a2267d21ecbeebe2/36a2586ea4b3aca902e73ff9e631a038/05-plan-lifecycle-light.png",
-                "cap": "계획이 승인, 거부, 중단될 때 일어나는 일."
-              },
-              {
-                "t": "p",
-                "x": "런타임은 작업을 재개하기 전에 계획이 아직 유효한지 확인한다. 중단된 계획은 토큰이 만료되지 않았어도 실패한다. 범위가 한정된 자격 증명은 샌드박스 격리, 네트워크 정책, 비밀 정보 처리, 요청 한도, 감사 로그와 함께 작동한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Vercel Agentは\n本番変更の前に確認する",
-          "body": "Vercel Agentは読み取り専用で調査し、ユーザーが計画を承認してから変更する。",
-          "mini_headline": "まず尋ねるVercel Agent",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "「このデプロイを直して」という依頼だけでは、エージェントがどんな操作をし、どんなアクセス権を必要とするかは事前にわからない。Vercel Agentはまず問題を調査し、何をするのか、どんなアクセス権が要るのかを示す計画を提案する。その計画を承認すると、実行に必要な追加の権限が付与される。"
-              },
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cacf2c9fff74e899cc0b157e/a3f092a118057cfe9ded3eb1439d9839/01-plan-and-permissions-light.png",
-                "cap": "デプロイ依頼が権限付きの計画になるまで。"
-              },
-              {
-                "t": "p",
-                "x": "壊れたデプロイなら、自動で実行される読み取り専用のスコープのもとでビルドログを調べ、失敗したデプロイを最後に正常だったものと比較する場合がある。再デプロイを提案するときは、ユーザーが一度の判断で承認する計画の中でread-write:deploymentのアクセス権を求める。"
-              },
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cad02de28304ef1d003bd3c5/86455e20607b69548ecb7fba8e06466e/03-authorization-and-tokens-light.png",
-                "cap": "Vercel Agentが承認済みの作業用トークンを得る仕組み。"
-              },
-              {
-                "t": "p",
-                "x": "Vercel Agentはユーザーの既存の権限に制限されたVercel Appとして動くため、計画を承認してもユーザーが持たないアクセス権は付与できない。OAuthサービスはより短命でスコープを限定したトークンを発行し、モデルが必要だと判断した操作であっても、その範囲外であればVercel APIsが拒否する。"
-              },
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/ca222732a2267d21ecbeebe2/36a2586ea4b3aca902e73ff9e631a038/05-plan-lifecycle-light.png",
-                "cap": "計画が承認、却下、停止されたときに起きること。"
-              },
-              {
-                "t": "p",
-                "x": "作業を再開する前に、ランタイムは計画がまだ有効かを確認する。停止された計画は、トークンが期限切れでなくても失敗する。スコープ付きの認証情報は、サンドボックスによる隔離、ネットワークポリシー、シークレットの扱い、レート制限、監査ログと併せて機能する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Vercel Agent\n改动生产环境前先询问",
-          "body": "Vercel Agent先以只读权限调查，再经用户批准计划后才进行更改。",
-          "mini_headline": "先问再改的Vercel Agent",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "像“修复这个部署”这样的请求，并不会事先说明智能体将执行哪些操作、需要哪些访问权限。Vercel Agent会先调查问题，再提出一份计划，列出它打算做什么以及需要什么权限。批准该计划，即授予执行所需的额外权限。"
-              },
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cacf2c9fff74e899cc0b157e/a3f092a118057cfe9ded3eb1439d9839/01-plan-and-permissions-light.png",
-                "cap": "部署请求如何变成附带权限的计划。"
-              },
-              {
-                "t": "p",
-                "x": "遇到部署失败时，它可能会在自动运行的只读范围内检查构建日志，并把失败的部署与最近一次正常的部署进行比较。若提议重新部署，它会在一份由用户一次性批准的计划中申请read-write:deployment权限。"
-              },
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cad02de28304ef1d003bd3c5/86455e20607b69548ecb7fba8e06466e/03-authorization-and-tokens-light.png",
-                "cap": "Vercel Agent如何为已批准的工作获取令牌。"
-              },
-              {
-                "t": "p",
-                "x": "Vercel Agent以Vercel App的形式运行，受限于用户现有的权限，因此批准计划无法授予用户本身没有的权限。OAuth服务签发有效期更短、范围受限的令牌，超出范围的操作会被Vercel APIs拒绝，即使模型认为该操作有必要。"
-              },
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/ca222732a2267d21ecbeebe2/36a2586ea4b3aca902e73ff9e631a038/05-plan-lifecycle-light.png",
-                "cap": "计划被批准、拒绝或停止时会发生什么。"
-              },
-              {
-                "t": "p",
-                "x": "恢复工作前，运行时会检查计划是否仍然有效；已停止的计划即使令牌尚未过期也会失败。限定范围的凭证与沙箱隔离、网络策略、密钥处理、速率限制和审计日志协同工作。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Vercel Agent pregunta antes\nde cambiar producción",
-          "body": "Vercel Agent investiga con acceso de solo lectura y necesita que un usuario apruebe su plan antes de hacer cambios.",
-          "mini_headline": "Vercel Agent pregunta primero",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Una petición como “arregla este despliegue” no indica de antemano qué acciones realizará un agente ni qué acceso necesita. Vercel Agent empieza investigando el problema y luego propone un plan que muestra qué haría y qué acceso necesitaría. Aprobar ese plan otorga los permisos adicionales para ejecutarlo."
-              },
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cacf2c9fff74e899cc0b157e/a3f092a118057cfe9ded3eb1439d9839/01-plan-and-permissions-light.png",
-                "cap": "Cómo una solicitud de despliegue se convierte en un plan con permisos."
-              },
-              {
-                "t": "p",
-                "x": "Ante un despliegue fallido, podría revisar los registros de compilación y comparar el despliegue fallido con el último que funcionó bien, bajo ámbitos de solo lectura que se ejecutan automáticamente. Un redespliegue propuesto solicita acceso read-write:deployment en un plan que el usuario aprueba con una sola decisión."
-              },
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cad02de28304ef1d003bd3c5/86455e20607b69548ecb7fba8e06466e/03-authorization-and-tokens-light.png",
-                "cap": "Cómo Vercel Agent obtiene un token para el trabajo aprobado."
-              },
-              {
-                "t": "p",
-                "x": "Vercel Agent funciona como una Vercel App limitada por los permisos que ya tiene el usuario, así que aprobar un plan no puede conceder un acceso que el usuario no tenga. El servicio OAuth emite tokens de alcance limitado y vida más corta, y las Vercel APIs rechazan las operaciones fuera de ese alcance, aunque el modelo considere necesaria la acción."
-              },
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/ca222732a2267d21ecbeebe2/36a2586ea4b3aca902e73ff9e631a038/05-plan-lifecycle-light.png",
-                "cap": "Qué ocurre cuando un plan se aprueba, se rechaza o se detiene."
-              },
-              {
-                "t": "p",
-                "x": "Antes de reanudar el trabajo, el entorno de ejecución comprueba que el plan siga activo; un plan detenido falla aunque su token no haya caducado. Las credenciales con alcance limitado funcionan junto con el aislamiento en sandbox, la política de red, el manejo de secretos, los límites de tasa y los registros de auditoría."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Vercel Agent는\n프로덕션 변경 전 묻는다",
-          "body": "Vercel Agent는 읽기 전용으로 조사하고, 계획을 승인받아야 바꾼다.",
-          "mini_headline": "먼저 묻는 Vercel Agent",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "“이 배포를 고쳐 줘” 같은 요청에는 에이전트가 어떤 작업을 하고 어떤 권한이 필요한지가 미리 드러나지 않는다. Vercel Agent는 먼저 문제를 조사한 뒤, 무엇을 할지와 어떤 권한이 필요한지 보여 주는 계획을 제안한다. 그 계획을 승인하면 실행에 필요한 추가 권한이 주어진다."
-              },
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cacf2c9fff74e899cc0b157e/a3f092a118057cfe9ded3eb1439d9839/01-plan-and-permissions-light.png",
-                "cap": "배포 요청이 권한을 담은 계획으로 바뀌는 과정."
-              },
-              {
-                "t": "p",
-                "x": "배포가 깨졌다면 자동으로 실행되는 읽기 전용 범위 안에서 빌드 로그를 살피고, 실패한 배포를 마지막 정상 배포와 비교할 수 있다. 재배포를 제안하면 사용자가 한 번의 결정으로 승인하는 계획 안에서 read-write:deployment 권한을 요청한다."
-              },
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cad02de28304ef1d003bd3c5/86455e20607b69548ecb7fba8e06466e/03-authorization-and-tokens-light.png",
-                "cap": "Vercel Agent가 승인된 작업에 쓸 토큰을 받는 방식."
-              },
-              {
-                "t": "p",
-                "x": "Vercel Agent는 사용자의 기존 권한 범위 안에서 동작하는 Vercel App으로 실행되므로, 계획을 승인해도 사용자에게 없는 권한은 줄 수 없다. OAuth 서비스는 수명이 더 짧고 범위가 한정된 토큰을 발급하며, 모델이 필요하다고 판단한 작업이라도 그 범위를 벗어나면 Vercel APIs가 거부한다."
-              },
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/ca222732a2267d21ecbeebe2/36a2586ea4b3aca902e73ff9e631a038/05-plan-lifecycle-light.png",
-                "cap": "계획이 승인, 거부, 중단될 때 일어나는 일."
-              },
-              {
-                "t": "p",
-                "x": "런타임은 작업을 재개하기 전에 계획이 아직 유효한지 확인한다. 중단된 계획은 토큰이 만료되지 않았어도 실패한다. 범위가 한정된 자격 증명은 샌드박스 격리, 네트워크 정책, 비밀 정보 처리, 요청 한도, 감사 로그와 함께 작동한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Vercel Agentは\n本番変更の前に確認する",
-          "body": "Vercel Agentは読み取り専用で調査し、ユーザーが計画を承認してから変更する。",
-          "mini_headline": "まず尋ねるVercel Agent",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "「このデプロイを直して」という依頼だけでは、エージェントがどんな操作をし、どんなアクセス権を必要とするかは事前にわからない。Vercel Agentはまず問題を調査し、何をするのか、どんなアクセス権が要るのかを示す計画を提案する。その計画を承認すると、実行に必要な追加の権限が付与される。"
-              },
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cacf2c9fff74e899cc0b157e/a3f092a118057cfe9ded3eb1439d9839/01-plan-and-permissions-light.png",
-                "cap": "デプロイ依頼が権限付きの計画になるまで。"
-              },
-              {
-                "t": "p",
-                "x": "壊れたデプロイなら、自動で実行される読み取り専用のスコープのもとでビルドログを調べ、失敗したデプロイを最後に正常だったものと比較する場合がある。再デプロイを提案するときは、ユーザーが一度の判断で承認する計画の中でread-write:deploymentのアクセス権を求める。"
-              },
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cad02de28304ef1d003bd3c5/86455e20607b69548ecb7fba8e06466e/03-authorization-and-tokens-light.png",
-                "cap": "Vercel Agentが承認済みの作業用トークンを得る仕組み。"
-              },
-              {
-                "t": "p",
-                "x": "Vercel Agentはユーザーの既存の権限に制限されたVercel Appとして動くため、計画を承認してもユーザーが持たないアクセス権は付与できない。OAuthサービスはより短命でスコープを限定したトークンを発行し、モデルが必要だと判断した操作であっても、その範囲外であればVercel APIsが拒否する。"
-              },
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/ca222732a2267d21ecbeebe2/36a2586ea4b3aca902e73ff9e631a038/05-plan-lifecycle-light.png",
-                "cap": "計画が承認、却下、停止されたときに起きること。"
-              },
-              {
-                "t": "p",
-                "x": "作業を再開する前に、ランタイムは計画がまだ有効かを確認する。停止された計画は、トークンが期限切れでなくても失敗する。スコープ付きの認証情報は、サンドボックスによる隔離、ネットワークポリシー、シークレットの扱い、レート制限、監査ログと併せて機能する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Vercel Agent\n改动生产环境前先询问",
-          "body": "Vercel Agent先以只读权限调查，再经用户批准计划后才进行更改。",
-          "mini_headline": "先问再改的Vercel Agent",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "像“修复这个部署”这样的请求，并不会事先说明智能体将执行哪些操作、需要哪些访问权限。Vercel Agent会先调查问题，再提出一份计划，列出它打算做什么以及需要什么权限。批准该计划，即授予执行所需的额外权限。"
-              },
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cacf2c9fff74e899cc0b157e/a3f092a118057cfe9ded3eb1439d9839/01-plan-and-permissions-light.png",
-                "cap": "部署请求如何变成附带权限的计划。"
-              },
-              {
-                "t": "p",
-                "x": "遇到部署失败时，它可能会在自动运行的只读范围内检查构建日志，并把失败的部署与最近一次正常的部署进行比较。若提议重新部署，它会在一份由用户一次性批准的计划中申请read-write:deployment权限。"
-              },
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cad02de28304ef1d003bd3c5/86455e20607b69548ecb7fba8e06466e/03-authorization-and-tokens-light.png",
-                "cap": "Vercel Agent如何为已批准的工作获取令牌。"
-              },
-              {
-                "t": "p",
-                "x": "Vercel Agent以Vercel App的形式运行，受限于用户现有的权限，因此批准计划无法授予用户本身没有的权限。OAuth服务签发有效期更短、范围受限的令牌，超出范围的操作会被Vercel APIs拒绝，即使模型认为该操作有必要。"
-              },
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/ca222732a2267d21ecbeebe2/36a2586ea4b3aca902e73ff9e631a038/05-plan-lifecycle-light.png",
-                "cap": "计划被批准、拒绝或停止时会发生什么。"
-              },
-              {
-                "t": "p",
-                "x": "恢复工作前，运行时会检查计划是否仍然有效；已停止的计划即使令牌尚未过期也会失败。限定范围的凭证与沙箱隔离、网络策略、密钥处理、速率限制和审计日志协同工作。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Vercel Agent pregunta antes\nde cambiar producción",
-          "body": "Vercel Agent investiga con acceso de solo lectura y necesita que un usuario apruebe su plan antes de hacer cambios.",
-          "mini_headline": "Vercel Agent pregunta primero",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Una petición como “arregla este despliegue” no indica de antemano qué acciones realizará un agente ni qué acceso necesita. Vercel Agent empieza investigando el problema y luego propone un plan que muestra qué haría y qué acceso necesitaría. Aprobar ese plan otorga los permisos adicionales para ejecutarlo."
-              },
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cacf2c9fff74e899cc0b157e/a3f092a118057cfe9ded3eb1439d9839/01-plan-and-permissions-light.png",
-                "cap": "Cómo una solicitud de despliegue se convierte en un plan con permisos."
-              },
-              {
-                "t": "p",
-                "x": "Ante un despliegue fallido, podría revisar los registros de compilación y comparar el despliegue fallido con el último que funcionó bien, bajo ámbitos de solo lectura que se ejecutan automáticamente. Un redespliegue propuesto solicita acceso read-write:deployment en un plan que el usuario aprueba con una sola decisión."
-              },
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/cad02de28304ef1d003bd3c5/86455e20607b69548ecb7fba8e06466e/03-authorization-and-tokens-light.png",
-                "cap": "Cómo Vercel Agent obtiene un token para el trabajo aprobado."
-              },
-              {
-                "t": "p",
-                "x": "Vercel Agent funciona como una Vercel App limitada por los permisos que ya tiene el usuario, así que aprobar un plan no puede conceder un acceso que el usuario no tenga. El servicio OAuth emite tokens de alcance limitado y vida más corta, y las Vercel APIs rechazan las operaciones fuera de ese alcance, aunque el modelo considere necesaria la acción."
-              },
-              {
-                "t": "img",
-                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/ca222732a2267d21ecbeebe2/36a2586ea4b3aca902e73ff9e631a038/05-plan-lifecycle-light.png",
-                "cap": "Qué ocurre cuando un plan se aprueba, se rechaza o se detiene."
-              },
-              {
-                "t": "p",
-                "x": "Antes de reanudar el trabajo, el entorno de ejecución comprueba que el plan siga activo; un plan detenido falla aunque su token no haya caducado. Las credenciales con alcance limitado funcionan junto con el aislamiento en sandbox, la política de red, el manejo de secretos, los límites de tasa y los registros de auditoría."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "design-nvidia-cosmos-world-models",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "NVIDIA Cosmos,\n월드 모델 학습 도구 공개",
-      "body": "NVIDIA Cosmos 새 도구가 데이터 처리와 월드 모델 학습을 돕는다.",
-      "mini_headline": "NVIDIA Cosmos 새 도구",
-      "tool": "KeyShot",
-      "source": "NVIDIA Blog",
-      "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026-1280x720.jpg"
-          },
-          {
-            "t": "p",
-            "x": "NVIDIA가 새 학습 도구, 시뮬레이션 체크포인트, Cosmos Data Factory 블루프린트를 더해 Cosmos 플랫폼을 확장했다. physical AI 시스템이 현실 세계를 이해하고 시뮬레이션하도록 돕는 월드 모델을 개발자가 더 빨리 구축하게 하려는 확장이다."
-          },
-          {
-            "t": "p",
-            "x": "Cosmos Data Factory는 대규모 데이터의 라벨링, 큐레이션, 증강, 평가 도구를 한데 모았고 GitHub, Microsoft Azure, Nebius, CoreWeave에서 다섯 가지 클라우드 네이티브 블루프린트를 제공한다. Porsche는 이를 활용해 반복적인 실차 주행 테스트를 최대 90% 줄이고 개발 주기를 최대 85% 단축할 것으로 기대한다."
-          },
-          {
-            "t": "video",
-            "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Porche-Cosmos-Data-Factory.mp4"
-          },
-          {
-            "t": "p",
-            "x": "NVIDIA는 GTC Berlin에서 Cosmos 3와 함께 Cosmos Framework의 학습, 최적화, 배포 도구를 에이전트 스킬 형태로 더 많은 오픈 모델에 확대했다. MicroAGI는 32-billion-parameter 추론 모델을 정확도 손실 없이 8-billion-parameter Nano 모델로 증류했다."
-          },
-          {
-            "t": "img",
-            "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Cosmos-Framework-960x538.png",
-            "cap": "Cosmos Framework는 모델 학습과 최적화 도구, 스킬로 이뤄진 개방형 모듈식 프레임워크다."
-          },
-          {
-            "t": "p",
-            "x": "개발자는 새 Cosmos 3 Nano 변형 모델로 멀티뷰·멀티센서 시뮬레이션에서 자율 정책을 시험할 수 있다. 업데이트된 Cosmos 3 NIM 마이크로서비스는 검증된 구성에서 품질 저하 없이 추론을 최대 2x 빠르게 돌린다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "NVIDIA Cosmos opens tools\nto train world models",
-          "body": "New NVIDIA Cosmos tools speed up data pipelines and help train, evaluate and optimize world models more efficiently.",
-          "mini_headline": "New NVIDIA Cosmos tools",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026-1280x720.jpg"
-              },
-              {
-                "t": "p",
-                "x": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos Data Factory blueprints."
-              },
-              {
-                "t": "p",
-                "x": "Cosmos Data Factory brings together tools for labeling, curating, augmenting and evaluating data at scale, with five cloud-native blueprints on GitHub, Microsoft Azure, Nebius and CoreWeave. Porsche expects it to reduce repeated physical test drives by up to 90% and shorten development cycle times by up to 85%."
-              },
-              {
-                "t": "video",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Porche-Cosmos-Data-Factory.mp4"
-              },
-              {
-                "t": "p",
-                "x": "At GTC Berlin, NVIDIA extended Cosmos Framework training, optimization and deployment tools as agent skills to more open models, along with Cosmos 3. MicroAGI distilled its 32-billion-parameter reasoner down to an 8-billion-parameter Nano model with no loss in accuracy."
-              },
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Cosmos-Framework-960x538.png",
-                "cap": "Cosmos Framework is an open, modular framework of model training and optimization tools and skills."
-              },
-              {
-                "t": "p",
-                "x": "New Cosmos 3 Nano variants let developers test autonomous policies in multiview multisensor simulation, and updated Cosmos 3 NIM microservices deliver up to 2x faster inference with no quality loss in validated configurations."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "NVIDIA Cosmos,\n월드 모델 학습 도구 공개",
-          "body": "NVIDIA Cosmos 새 도구가 데이터 처리와 월드 모델 학습을 돕는다.",
-          "mini_headline": "NVIDIA Cosmos 새 도구",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026-1280x720.jpg"
-              },
-              {
-                "t": "p",
-                "x": "NVIDIA가 새 학습 도구, 시뮬레이션 체크포인트, Cosmos Data Factory 블루프린트를 더해 Cosmos 플랫폼을 확장했다. physical AI 시스템이 현실 세계를 이해하고 시뮬레이션하도록 돕는 월드 모델을 개발자가 더 빨리 구축하게 하려는 확장이다."
-              },
-              {
-                "t": "p",
-                "x": "Cosmos Data Factory는 대규모 데이터의 라벨링, 큐레이션, 증강, 평가 도구를 한데 모았고 GitHub, Microsoft Azure, Nebius, CoreWeave에서 다섯 가지 클라우드 네이티브 블루프린트를 제공한다. Porsche는 이를 활용해 반복적인 실차 주행 테스트를 최대 90% 줄이고 개발 주기를 최대 85% 단축할 것으로 기대한다."
-              },
-              {
-                "t": "video",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Porche-Cosmos-Data-Factory.mp4"
-              },
-              {
-                "t": "p",
-                "x": "NVIDIA는 GTC Berlin에서 Cosmos 3와 함께 Cosmos Framework의 학습, 최적화, 배포 도구를 에이전트 스킬 형태로 더 많은 오픈 모델에 확대했다. MicroAGI는 32-billion-parameter 추론 모델을 정확도 손실 없이 8-billion-parameter Nano 모델로 증류했다."
-              },
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Cosmos-Framework-960x538.png",
-                "cap": "Cosmos Framework는 모델 학습과 최적화 도구, 스킬로 이뤄진 개방형 모듈식 프레임워크다."
-              },
-              {
-                "t": "p",
-                "x": "개발자는 새 Cosmos 3 Nano 변형 모델로 멀티뷰·멀티센서 시뮬레이션에서 자율 정책을 시험할 수 있다. 업데이트된 Cosmos 3 NIM 마이크로서비스는 검증된 구성에서 품질 저하 없이 추론을 최대 2x 빠르게 돌린다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "NVIDIA Cosmos\n世界モデル学習ツール公開",
-          "body": "NVIDIA Cosmosの新ツールがデータ処理を速め、世界モデルの学習を効率化する。",
-          "mini_headline": "NVIDIA Cosmosの新ツール",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026-1280x720.jpg"
-              },
-              {
-                "t": "p",
-                "x": "フィジカルAIシステムが現実世界を理解しシミュレートするのを助ける世界モデルを開発者が素早く構築できるよう、NVIDIAは新たな学習ツール、シミュレーションチェックポイント、Cosmos Data FactoryのブループリントでCosmosプラットフォームを拡張した。"
-              },
-              {
-                "t": "p",
-                "x": "Cosmos Data Factoryは大規模データのラベリング、キュレーション、拡張、評価のためのツールを統合し、GitHub、Microsoft Azure、Nebius、CoreWeave上で五つのクラウドネイティブなブループリントを提供する。Porscheは、反復的な実車テスト走行を最大90%削減し、開発サイクルを最大85%短縮できると見込んでいる。"
-              },
-              {
-                "t": "video",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Porche-Cosmos-Data-Factory.mp4"
-              },
-              {
-                "t": "p",
-                "x": "NVIDIAはGTC Berlinで、Cosmos 3とともに、Cosmos Frameworkの学習・最適化・デプロイツールをエージェントスキルとしてより多くのオープンモデルに広げた。MicroAGIは32-billion-parameterの推論モデルを、精度を落とさず8-billion-parameterのNanoモデルへ蒸留した。"
-              },
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Cosmos-Framework-960x538.png",
-                "cap": "Cosmos Frameworkは、モデルの学習・最適化ツールとスキルからなるオープンでモジュール型のフレームワークである。"
-              },
-              {
-                "t": "p",
-                "x": "新しいCosmos 3 Nanoのバリアントにより、開発者はマルチビュー・マルチセンサーのシミュレーションで自律ポリシーを検証できる。更新されたCosmos 3 NIMマイクロサービスは、検証済みの構成で品質を損なわずに最大2x高速な推論を実現する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "NVIDIA Cosmos\n开放世界模型训练工具",
-          "body": "NVIDIA Cosmos新工具加速数据管线，助力更高效地训练、评估和优化世界模型。",
-          "mini_headline": "NVIDIA Cosmos新工具",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026-1280x720.jpg"
-              },
-              {
-                "t": "p",
-                "x": "世界模型帮助物理AI系统理解和模拟现实世界。为帮助开发者快速构建世界模型，NVIDIA以新的训练工具、仿真检查点和Cosmos Data Factory蓝图扩展了Cosmos平台。"
-              },
-              {
-                "t": "p",
-                "x": "Cosmos Data Factory汇集了大规模数据标注、整理、增强和评估工具，并在GitHub、Microsoft Azure、Nebius和CoreWeave上提供五个云原生蓝图。Porsche预计它可将重复的实车测试驾驶减少最多90%，并将开发周期缩短最多85%。"
-              },
-              {
-                "t": "video",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Porche-Cosmos-Data-Factory.mp4"
-              },
-              {
-                "t": "p",
-                "x": "在GTC Berlin上，NVIDIA随Cosmos 3一同将Cosmos Framework的训练、优化和部署工具以智能体技能的形式扩展到更多开放模型。MicroAGI将其32-billion-parameter推理模型蒸馏为8-billion-parameter的Nano模型，且精度没有损失。"
-              },
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Cosmos-Framework-960x538.png",
-                "cap": "Cosmos Framework是由模型训练与优化工具和技能组成的开放式模块化框架。"
-              },
-              {
-                "t": "p",
-                "x": "新的Cosmos 3 Nano变体让开发者能在多视角、多传感器仿真中测试自主策略，更新后的Cosmos 3 NIM微服务在经过验证的配置中可实现最高2x的推理加速，且质量无损。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "NVIDIA Cosmos abre herramientas\npara entrenar modelos del mundo",
-          "body": "Las nuevas herramientas de NVIDIA Cosmos aceleran los flujos de datos y ayudan a entrenar modelos del mundo.",
-          "mini_headline": "Nuevas herramientas de NVIDIA Cosmos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026-1280x720.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Para ayudar a los desarrolladores a crear con rapidez modelos del mundo, que permiten a los sistemas de AI física comprender y simular el mundo real, NVIDIA amplió la plataforma Cosmos con nuevas herramientas de entrenamiento, puntos de control de simulación y blueprints de Cosmos Data Factory."
-              },
-              {
-                "t": "p",
-                "x": "Cosmos Data Factory reúne herramientas para etiquetar, curar, aumentar y evaluar datos a gran escala, con cinco blueprints nativos de la nube en GitHub, Microsoft Azure, Nebius y CoreWeave. Porsche prevé reducir hasta un 90% las pruebas de conducción físicas repetidas y acortar hasta un 85% los ciclos de desarrollo."
-              },
-              {
-                "t": "video",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Porche-Cosmos-Data-Factory.mp4"
-              },
-              {
-                "t": "p",
-                "x": "En GTC Berlin, NVIDIA extendió las herramientas de entrenamiento, optimización y despliegue de Cosmos Framework, como habilidades de agentes, a más modelos abiertos, junto con Cosmos 3. MicroAGI destiló su modelo de razonamiento de 32-billion-parameter en un modelo Nano de 8-billion-parameter sin pérdida de precisión."
-              },
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Cosmos-Framework-960x538.png",
-                "cap": "Cosmos Framework es un marco abierto y modular de herramientas y habilidades para entrenar y optimizar modelos."
-              },
-              {
-                "t": "p",
-                "x": "Las nuevas variantes de Cosmos 3 Nano permiten probar políticas autónomas en simulación multivista y multisensor, y los microservicios Cosmos 3 NIM actualizados ofrecen una inferencia hasta 2x más rápida sin pérdida de calidad en configuraciones validadas."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "NVIDIA Cosmos,\n월드 모델 학습 도구 공개",
-          "body": "NVIDIA Cosmos 새 도구가 데이터 처리와 월드 모델 학습을 돕는다.",
-          "mini_headline": "NVIDIA Cosmos 새 도구",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026-1280x720.jpg"
-              },
-              {
-                "t": "p",
-                "x": "NVIDIA는 physical AI 시스템이 현실 세계를 이해하고 시뮬레이션하도록 돕는 월드 모델을 개발자가 빠르게 구축할 수 있도록 새 학습 도구, 시뮬레이션 체크포인트, Cosmos Data Factory 블루프린트로 Cosmos 플랫폼을 확장했다."
-              },
-              {
-                "t": "p",
-                "x": "Cosmos Data Factory는 대규모 데이터의 라벨링, 큐레이션, 증강, 평가 도구를 한데 모았으며, GitHub, Microsoft Azure, Nebius, CoreWeave에서 다섯 가지 클라우드 네이티브 블루프린트를 제공한다. Porsche는 이를 통해 반복적인 실차 주행 테스트를 최대 90% 줄이고 개발 주기를 최대 85% 단축할 것으로 기대한다."
-              },
-              {
-                "t": "video",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Porche-Cosmos-Data-Factory.mp4"
-              },
-              {
-                "t": "p",
-                "x": "NVIDIA는 GTC Berlin에서 Cosmos 3와 함께 Cosmos Framework의 학습, 최적화, 배포 도구를 에이전트 스킬 형태로 더 많은 오픈 모델에 확대했다. MicroAGI는 32-billion-parameter 추론 모델을 정확도 손실 없이 8-billion-parameter Nano 모델로 증류했다."
-              },
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Cosmos-Framework-960x538.png",
-                "cap": "Cosmos Framework는 모델 학습과 최적화 도구, 스킬로 이뤄진 개방형 모듈식 프레임워크다."
-              },
-              {
-                "t": "p",
-                "x": "새 Cosmos 3 Nano 변형 모델로 개발자는 멀티뷰·멀티센서 시뮬레이션에서 자율 정책을 시험할 수 있고, 업데이트된 Cosmos 3 NIM 마이크로서비스는 검증된 구성에서 품질 저하 없이 최대 2x 빠른 추론을 제공한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "NVIDIA Cosmos\n世界モデル学習ツール公開",
-          "body": "NVIDIA Cosmosの新ツールがデータ処理を速め、世界モデルの学習を効率化する。",
-          "mini_headline": "NVIDIA Cosmosの新ツール",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026-1280x720.jpg"
-              },
-              {
-                "t": "p",
-                "x": "フィジカルAIシステムが現実世界を理解しシミュレートするのを助ける世界モデルを開発者が素早く構築できるよう、NVIDIAは新たな学習ツール、シミュレーションチェックポイント、Cosmos Data FactoryのブループリントでCosmosプラットフォームを拡張した。"
-              },
-              {
-                "t": "p",
-                "x": "Cosmos Data Factoryは大規模データのラベリング、キュレーション、拡張、評価のためのツールを統合し、GitHub、Microsoft Azure、Nebius、CoreWeave上で五つのクラウドネイティブなブループリントを提供する。Porscheは、反復的な実車テスト走行を最大90%削減し、開発サイクルを最大85%短縮できると見込んでいる。"
-              },
-              {
-                "t": "video",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Porche-Cosmos-Data-Factory.mp4"
-              },
-              {
-                "t": "p",
-                "x": "NVIDIAはGTC Berlinで、Cosmos 3とともに、Cosmos Frameworkの学習・最適化・デプロイツールをエージェントスキルとしてより多くのオープンモデルに広げた。MicroAGIは32-billion-parameterの推論モデルを、精度を落とさず8-billion-parameterのNanoモデルへ蒸留した。"
-              },
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Cosmos-Framework-960x538.png",
-                "cap": "Cosmos Frameworkは、モデルの学習・最適化ツールとスキルからなるオープンでモジュール型のフレームワークである。"
-              },
-              {
-                "t": "p",
-                "x": "新しいCosmos 3 Nanoのバリアントにより、開発者はマルチビュー・マルチセンサーのシミュレーションで自律ポリシーを検証できる。更新されたCosmos 3 NIMマイクロサービスは、検証済みの構成で品質を損なわずに最大2x高速な推論を実現する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "NVIDIA Cosmos\n开放世界模型训练工具",
-          "body": "NVIDIA Cosmos新工具加速数据管线，助力更高效地训练、评估和优化世界模型。",
-          "mini_headline": "NVIDIA Cosmos新工具",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026-1280x720.jpg"
-              },
-              {
-                "t": "p",
-                "x": "世界模型帮助物理AI系统理解和模拟现实世界。为帮助开发者快速构建世界模型，NVIDIA以新的训练工具、仿真检查点和Cosmos Data Factory蓝图扩展了Cosmos平台。"
-              },
-              {
-                "t": "p",
-                "x": "Cosmos Data Factory汇集了大规模数据标注、整理、增强和评估工具，并在GitHub、Microsoft Azure、Nebius和CoreWeave上提供五个云原生蓝图。Porsche预计它可将重复的实车测试驾驶减少最多90%，并将开发周期缩短最多85%。"
-              },
-              {
-                "t": "video",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Porche-Cosmos-Data-Factory.mp4"
-              },
-              {
-                "t": "p",
-                "x": "在GTC Berlin上，NVIDIA随Cosmos 3一同将Cosmos Framework的训练、优化和部署工具以智能体技能的形式扩展到更多开放模型。MicroAGI将其32-billion-parameter推理模型蒸馏为8-billion-parameter的Nano模型，且精度没有损失。"
-              },
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Cosmos-Framework-960x538.png",
-                "cap": "Cosmos Framework是由模型训练与优化工具和技能组成的开放式模块化框架。"
-              },
-              {
-                "t": "p",
-                "x": "新的Cosmos 3 Nano变体让开发者能在多视角、多传感器仿真中测试自主策略，更新后的Cosmos 3 NIM微服务在经过验证的配置中可实现最高2x的推理加速，且质量无损。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "NVIDIA Cosmos abre herramientas\npara entrenar modelos del mundo",
-          "body": "Las nuevas herramientas de NVIDIA Cosmos aceleran los flujos de datos y ayudan a entrenar modelos del mundo.",
-          "mini_headline": "Nuevas herramientas de NVIDIA Cosmos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026-1280x720.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Para ayudar a los desarrolladores a crear con rapidez modelos del mundo, que permiten a los sistemas de AI física comprender y simular el mundo real, NVIDIA amplió la plataforma Cosmos con nuevas herramientas de entrenamiento, puntos de control de simulación y blueprints de Cosmos Data Factory."
-              },
-              {
-                "t": "p",
-                "x": "Cosmos Data Factory reúne herramientas para etiquetar, curar, aumentar y evaluar datos a gran escala, con cinco blueprints nativos de la nube en GitHub, Microsoft Azure, Nebius y CoreWeave. Porsche prevé reducir hasta un 90% las pruebas de conducción físicas repetidas y acortar hasta un 85% los ciclos de desarrollo."
-              },
-              {
-                "t": "video",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Porche-Cosmos-Data-Factory.mp4"
-              },
-              {
-                "t": "p",
-                "x": "En GTC Berlin, NVIDIA extendió las herramientas de entrenamiento, optimización y despliegue de Cosmos Framework, como habilidades de agentes, a más modelos abiertos, junto con Cosmos 3. MicroAGI destiló su modelo de razonamiento de 32-billion-parameter en un modelo Nano de 8-billion-parameter sin pérdida de precisión."
-              },
-              {
-                "t": "img",
-                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Cosmos-Framework-960x538.png",
-                "cap": "Cosmos Framework es un marco abierto y modular de herramientas y habilidades para entrenar y optimizar modelos."
-              },
-              {
-                "t": "p",
-                "x": "Las nuevas variantes de Cosmos 3 Nano permiten probar políticas autónomas en simulación multivista y multisensor, y los microservicios Cosmos 3 NIM actualizados ofrecen una inferencia hasta 2x más rápida sin pérdida de calidad en configuraciones validadas."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "design-block-dessa-voice",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Block의 Dessa\n어색한 새 친구 같은 AI",
-      "body": "Jack Dorsey의 Block AI Dessa는 어색한 새 친구처럼 말한다.",
-      "mini_headline": "Block의 음성 AI Dessa",
-      "tool": "AI Workflow",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-          },
-          {
-            "t": "p",
-            "x": "Jack Dorsey의 Block이 \"오직 사람의 대화만으로 처음부터\" 학습한 AI 모델 Dessa를 발표하며 이 모델이 사람과 나눈 대화를 공개했다. 대화는 가끔 조금 어색하고 묘하다."
-          },
-          {
-            "t": "p",
-            "x": "Dessa 책임자 Ragavan Thurairatnam이 공유한 대화에서는 대화는 대체로 자연스럽게 오가지만 모델이 처음에 상대를 \"Ronaldo\"라는 사람으로 착각한다."
-          },
-          {
-            "t": "video",
-            "src": "https://video.twimg.com/amplify_video/2113669735107727360/vid/avc1/1920x1080/EQKH_QeNN-VKLfDO.mp4?tag=29"
-          },
-          {
-            "t": "p",
-            "x": "Dessa 웹사이트에는 Christopher Nolan 영화를 두고 나눈 대화와 OpenAI의 GPT-Live-1 음성 모델과 나눈 대화도 올라 있다. 여기서는 Dessa가 더 자연스럽게 들린다. 팀은 이를 MacBook Pro M4 Max \"또는 그 이상\"에서 로컬로 돌릴 수 있는 \"진정한 speech-to-speech 모델\"이라고 부른다."
-          },
-          {
-            "t": "p",
-            "x": "팀은 개발 이유로 세 가지를 든다. \"호기심(즉 재미), 사람과 AI 사이의 더 나은 이해, 그리고 안전.\" 소수의 AI 안전 연구자가 먼저 사용해 볼 수 있다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Block's Dessa AI talks like\nan awkward new friend",
-          "body": "Jack Dorsey's Block built Dessa, an AI speech model that talks with you like an awkward new friend.",
-          "mini_headline": "Block's Dessa voice AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and shared chats it has had with humans that can occasionally be a little awkward and uncanny."
-              },
-              {
-                "t": "p",
-                "x": "In one, shared by Dessa lead Ragavan Thurairatnam, the back and forth is mostly natural, though the model initially mistakes the speaker for somebody named \"Ronaldo.\""
-              },
-              {
-                "t": "video",
-                "src": "https://video.twimg.com/amplify_video/2113669735107727360/vid/avc1/1920x1080/EQKH_QeNN-VKLfDO.mp4?tag=29"
-              },
-              {
-                "t": "p",
-                "x": "Other examples on the Dessa website include a chat about Christopher Nolan's films and a conversation with OpenAI's GPT-Live-1 voice model, where Dessa comes across as more natural. The team calls it a \"true speech-to-speech model\" that can run locally on a MacBook Pro M4 Max \"or better.\""
-              },
-              {
-                "t": "p",
-                "x": "They cite three reasons for making it: \"curiosity (aka fun), better understanding between humans and AI, and safety.\" A small group of AI safety researchers will get early access."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Block의 Dessa\n어색한 새 친구 같은 AI",
-          "body": "Jack Dorsey의 Block AI Dessa는 어색한 새 친구처럼 말한다.",
-          "mini_headline": "Block의 음성 AI Dessa",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Jack Dorsey의 Block이 \"오직 사람의 대화만으로 처음부터\" 학습한 AI 모델 Dessa를 발표하며 이 모델이 사람과 나눈 대화를 공개했다. 대화는 가끔 조금 어색하고 묘하다."
-              },
-              {
-                "t": "p",
-                "x": "Dessa 책임자 Ragavan Thurairatnam이 공유한 대화에서는 대화는 대체로 자연스럽게 오가지만 모델이 처음에 상대를 \"Ronaldo\"라는 사람으로 착각한다."
-              },
-              {
-                "t": "video",
-                "src": "https://video.twimg.com/amplify_video/2113669735107727360/vid/avc1/1920x1080/EQKH_QeNN-VKLfDO.mp4?tag=29"
-              },
-              {
-                "t": "p",
-                "x": "Dessa 웹사이트에는 Christopher Nolan 영화를 두고 나눈 대화와 OpenAI의 GPT-Live-1 음성 모델과 나눈 대화도 올라 있다. 여기서는 Dessa가 더 자연스럽게 들린다. 팀은 이를 MacBook Pro M4 Max \"또는 그 이상\"에서 로컬로 돌릴 수 있는 \"진정한 speech-to-speech 모델\"이라고 부른다."
-              },
-              {
-                "t": "p",
-                "x": "팀은 개발 이유로 세 가지를 든다. \"호기심(즉 재미), 사람과 AI 사이의 더 나은 이해, 그리고 안전.\" 소수의 AI 안전 연구자가 먼저 사용해 볼 수 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "BlockのDessa AI\n新しい友のようにぎこちない",
-          "body": "Jack DorseyのBlockのAI Dessaは、ぎこちない新しい友人のように話す。",
-          "mini_headline": "Blockの音声AI Dessa",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Jack DorseyのBlockは、「人間の会話だけを使って一から」学習させたAIモデルDessaを発表し、人間と交わした会話を公開した。その会話はときに少しぎこちなく、不気味に感じられることもある。"
-              },
-              {
-                "t": "p",
-                "x": "Dessaの責任者Ragavan Thurairatnamが共有した例では、やり取りはおおむね自然だが、モデルは最初、話し相手を「Ronaldo」という人物と取り違えている。"
-              },
-              {
-                "t": "video",
-                "src": "https://video.twimg.com/amplify_video/2113669735107727360/vid/avc1/1920x1080/EQKH_QeNN-VKLfDO.mp4?tag=29"
-              },
-              {
-                "t": "p",
-                "x": "Dessaのウェブサイトには、Christopher Nolanの映画についての会話や、OpenAIの音声モデルGPT-Live-1との会話といった例もあり、そこではDessaのほうが自然に聞こえる。チームはこれを、MacBook Pro M4 Max「以上」でローカル実行できる「真のspeech-to-speechモデル」と呼んでいる。"
-              },
-              {
-                "t": "p",
-                "x": "開発の理由として、チームは「好奇心（つまり楽しさ）、人間とAIの相互理解の向上、そして安全性」の三つを挙げる。少数のAI安全性研究者が先行アクセスを得る予定だ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Block的Dessa AI\n像个略显尴尬的新朋友",
-          "body": "Jack Dorsey旗下Block打造了AI语音模型Dessa，聊天像个尴尬的新朋友。",
-          "mini_headline": "Block的语音AI Dessa",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Jack Dorsey旗下的Block发布了名为Dessa的AI模型，称其“从头开始、仅用人类对话”训练而成，并公开了它与人类的聊天记录，这些对话偶尔显得有些尴尬和怪异。"
-              },
-              {
-                "t": "p",
-                "x": "在Dessa负责人Ragavan Thurairatnam分享的对话中，来回交流大体自然，不过模型起初把说话者误认成了名叫“Ronaldo”的人。"
-              },
-              {
-                "t": "video",
-                "src": "https://video.twimg.com/amplify_video/2113669735107727360/vid/avc1/1920x1080/EQKH_QeNN-VKLfDO.mp4?tag=29"
-              },
-              {
-                "t": "p",
-                "x": "Dessa网站上的其他示例包括关于Christopher Nolan电影的聊天，以及与OpenAI的GPT-Live-1语音模型的对话，其中Dessa显得更自然。团队称它是“真正的speech-to-speech模型”，可在MacBook Pro M4 Max“或更高配置”上本地运行。"
-              },
-              {
-                "t": "p",
-                "x": "他们给出了开发它的三个理由：“好奇心（也就是好玩）、增进人类与AI之间的理解，以及安全。”少数AI安全研究人员将获得抢先体验资格。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Dessa, la AI de Block, habla\ncomo un nuevo amigo incómodo",
-          "body": "Block, la empresa de Jack Dorsey, creó Dessa, un modelo de voz AI que habla contigo como un nuevo amigo incómodo.",
-          "mini_headline": "Dessa, la AI de voz de Block",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Block, la empresa de Jack Dorsey, anunció un modelo de AI llamado Dessa, entrenado \"desde el principio y únicamente con conversación humana\", y compartió charlas que ha mantenido con personas y que a veces resultan un poco incómodas e inquietantes."
-              },
-              {
-                "t": "p",
-                "x": "En una de ellas, compartida por el responsable de Dessa, Ragavan Thurairatnam, el intercambio es mayormente natural, aunque al principio el modelo confunde al interlocutor con alguien llamado \"Ronaldo\"."
-              },
-              {
-                "t": "video",
-                "src": "https://video.twimg.com/amplify_video/2113669735107727360/vid/avc1/1920x1080/EQKH_QeNN-VKLfDO.mp4?tag=29"
-              },
-              {
-                "t": "p",
-                "x": "Otros ejemplos en el sitio web de Dessa incluyen una charla sobre las películas de Christopher Nolan y una conversación con GPT-Live-1, el modelo de voz de OpenAI, en la que Dessa resulta más natural. El equipo lo describe como un \"verdadero modelo speech-to-speech\" que puede ejecutarse localmente en un MacBook Pro M4 Max \"o superior\"."
-              },
-              {
-                "t": "p",
-                "x": "Citan tres razones para crearlo: \"curiosidad (es decir, diversión), un mejor entendimiento entre humanos y AI, y seguridad\". Un pequeño grupo de investigadores en seguridad de AI tendrá acceso anticipado."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Block의 Dessa\n어색한 새 친구 같은 AI",
-          "body": "Jack Dorsey의 Block AI Dessa는 어색한 새 친구처럼 말한다.",
-          "mini_headline": "Block의 음성 AI Dessa",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Jack Dorsey의 Block이 \"오직 사람의 대화만으로 처음부터\" 학습한 AI 모델 Dessa를 발표하고, 이 모델이 사람과 나눈 대화를 공개했다. 대화는 가끔 조금 어색하고 기묘하게 느껴진다."
-              },
-              {
-                "t": "p",
-                "x": "Dessa 책임자 Ragavan Thurairatnam이 공유한 대화에서는 주고받는 흐름이 대체로 자연스럽지만, 모델이 처음에 상대를 \"Ronaldo\"라는 사람으로 착각한다."
-              },
-              {
-                "t": "video",
-                "src": "https://video.twimg.com/amplify_video/2113669735107727360/vid/avc1/1920x1080/EQKH_QeNN-VKLfDO.mp4?tag=29"
-              },
-              {
-                "t": "p",
-                "x": "Dessa 웹사이트의 다른 예시로는 Christopher Nolan 영화에 관한 대화, 그리고 OpenAI의 GPT-Live-1 음성 모델과 나눈 대화가 있는데, 여기서 Dessa가 더 자연스럽게 들린다. 팀은 이를 MacBook Pro M4 Max \"또는 그 이상\"에서 로컬로 돌릴 수 있는 \"진정한 speech-to-speech 모델\"이라고 부른다."
-              },
-              {
-                "t": "p",
-                "x": "팀은 개발 이유로 세 가지를 든다. \"호기심(즉 재미), 사람과 AI 사이의 더 나은 이해, 그리고 안전.\" 소수의 AI 안전 연구자가 먼저 사용해 볼 수 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "BlockのDessa AI\n新しい友のようにぎこちない",
-          "body": "Jack DorseyのBlockのAI Dessaは、ぎこちない新しい友人のように話す。",
-          "mini_headline": "Blockの音声AI Dessa",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Jack DorseyのBlockは、「人間の会話だけを使って一から」学習させたAIモデルDessaを発表し、人間と交わした会話を公開した。その会話はときに少しぎこちなく、不気味に感じられることもある。"
-              },
-              {
-                "t": "p",
-                "x": "Dessaの責任者Ragavan Thurairatnamが共有した例では、やり取りはおおむね自然だが、モデルは最初、話し相手を「Ronaldo」という人物と取り違えている。"
-              },
-              {
-                "t": "video",
-                "src": "https://video.twimg.com/amplify_video/2113669735107727360/vid/avc1/1920x1080/EQKH_QeNN-VKLfDO.mp4?tag=29"
-              },
-              {
-                "t": "p",
-                "x": "Dessaのウェブサイトには、Christopher Nolanの映画についての会話や、OpenAIの音声モデルGPT-Live-1との会話といった例もあり、そこではDessaのほうが自然に聞こえる。チームはこれを、MacBook Pro M4 Max「以上」でローカル実行できる「真のspeech-to-speechモデル」と呼んでいる。"
-              },
-              {
-                "t": "p",
-                "x": "開発の理由として、チームは「好奇心（つまり楽しさ）、人間とAIの相互理解の向上、そして安全性」の三つを挙げる。少数のAI安全性研究者が先行アクセスを得る予定だ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Block的Dessa AI\n像个略显尴尬的新朋友",
-          "body": "Jack Dorsey旗下Block打造了AI语音模型Dessa，聊天像个尴尬的新朋友。",
-          "mini_headline": "Block的语音AI Dessa",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Jack Dorsey旗下的Block发布了名为Dessa的AI模型，称其“从头开始、仅用人类对话”训练而成，并公开了它与人类的聊天记录，这些对话偶尔显得有些尴尬和怪异。"
-              },
-              {
-                "t": "p",
-                "x": "在Dessa负责人Ragavan Thurairatnam分享的对话中，来回交流大体自然，不过模型起初把说话者误认成了名叫“Ronaldo”的人。"
-              },
-              {
-                "t": "video",
-                "src": "https://video.twimg.com/amplify_video/2113669735107727360/vid/avc1/1920x1080/EQKH_QeNN-VKLfDO.mp4?tag=29"
-              },
-              {
-                "t": "p",
-                "x": "Dessa网站上的其他示例包括关于Christopher Nolan电影的聊天，以及与OpenAI的GPT-Live-1语音模型的对话，其中Dessa显得更自然。团队称它是“真正的speech-to-speech模型”，可在MacBook Pro M4 Max“或更高配置”上本地运行。"
-              },
-              {
-                "t": "p",
-                "x": "他们给出了开发它的三个理由：“好奇心（也就是好玩）、增进人类与AI之间的理解，以及安全。”少数AI安全研究人员将获得抢先体验资格。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Dessa, la AI de Block, habla\ncomo un nuevo amigo incómodo",
-          "body": "Block, la empresa de Jack Dorsey, creó Dessa, un modelo de voz AI que habla contigo como un nuevo amigo incómodo.",
-          "mini_headline": "Dessa, la AI de voz de Block",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Block, la empresa de Jack Dorsey, anunció un modelo de AI llamado Dessa, entrenado \"desde el principio y únicamente con conversación humana\", y compartió charlas que ha mantenido con personas y que a veces resultan un poco incómodas e inquietantes."
-              },
-              {
-                "t": "p",
-                "x": "En una de ellas, compartida por el responsable de Dessa, Ragavan Thurairatnam, el intercambio es mayormente natural, aunque al principio el modelo confunde al interlocutor con alguien llamado \"Ronaldo\"."
-              },
-              {
-                "t": "video",
-                "src": "https://video.twimg.com/amplify_video/2113669735107727360/vid/avc1/1920x1080/EQKH_QeNN-VKLfDO.mp4?tag=29"
-              },
-              {
-                "t": "p",
-                "x": "Otros ejemplos en el sitio web de Dessa incluyen una charla sobre las películas de Christopher Nolan y una conversación con GPT-Live-1, el modelo de voz de OpenAI, en la que Dessa resulta más natural. El equipo lo describe como un \"verdadero modelo speech-to-speech\" que puede ejecutarse localmente en un MacBook Pro M4 Max \"o superior\"."
-              },
-              {
-                "t": "p",
-                "x": "Citan tres razones para crearlo: \"curiosidad (es decir, diversión), un mejor entendimiento entre humanos y AI, y seguridad\". Un pequeño grupo de investigadores en seguridad de AI tendrá acceso anticipado."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "design-siemens-agentic-3d-ic",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Siemens, 3D IC\n설계 에이전틱 AI 확대",
-      "body": "Siemens는 일곱 EDA 도구로 주기당 3D IC 설계 수백 건을 평가한다.",
-      "mini_headline": "Siemens 에이전틱 3D IC",
-      "tool": "Text-to-CAD",
-      "source": "Engineering.com",
-      "url": "https://www.engineering.com/siemens-expands-agentic-ai-for-3d-ic-design-workflows/",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "Siemens가 NVIDIA와 협력해 개발한 EDA 에이전틱 AI 포트폴리오 업데이트를 발표했다. 3D 집적회로의 전기, 전력, 열, 공동 설계 분석을 지원한다. Siemens는 벤치마크 연구에서 수작업 워크플로 대비 엔지니어링 작업량을 최대 95%, 워크플로 설정 시간을 최대 99% 줄이고, 설계 탐색 범위를 최대 50배 넓혔다고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "연산과 메모리가 더 긴밀하게 통합될수록 전력 밀도와 열 집중도 높아진다. 그래서 전기·열 공동 설계는 최종 검증 단계만이 아니라 설계 과정에서부터 따져야 한다."
-          },
-          {
-            "t": "p",
-            "x": "새 워크플로에서는 엔지니어가 설계 목표를 정의하고, Intelligence Center X와 통합된 Fuse EDA AI Agent가 여러 Siemens 도구를 조율한다. 에이전트는 전기·열 연성 해석을 돌려 달성하지 못한 목표를 찾아내고, 원인이 전력 공급, 배치, 소재 중 무엇인지 또는 그 조합인지 평가한다."
-          },
-          {
-            "t": "p",
-            "x": "이 워크플로는 Innovator3D IC Integrator부터 Calibre 3DThermal, Solido SPICE까지 일곱 개의 Siemens EDA 도구에 걸쳐 아홉 단계를 조율한다. 여덟에서 10시간에 이르는 실행 동안 50~100단계의 추론을 거치고 주기마다 200개에서 500개 이상의 설계점을 평가할 수 있다. NVIDIA Nemotron 모델, NeMo 도구, CUDA-X 라이브러리가 이 에이전트 기반 워크플로를 뒷받침한다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Siemens expands agentic AI\nfor 3D IC design",
-          "body": "Siemens' agentic workflow coordinates seven EDA tools to evaluate hundreds of 3D IC design points per cycle.",
-          "mini_headline": "Siemens agentic 3D IC",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Siemens has announced updates to its EDA agentic AI portfolio, developed in collaboration with NVIDIA, to support electrical, power, thermal and co-design analysis for 3D integrated circuits. In benchmark studies, Siemens reported up to a 95% reduction in engineering effort, up to a 99% reduction in workflow setup time and up to 50 times greater design exploration coverage compared with manual workflows."
-              },
-              {
-                "t": "p",
-                "x": "As compute and memory are integrated more closely, power density and heat concentration increase, so electrothermal co-design must be considered during design rather than only at final verification."
-              },
-              {
-                "t": "p",
-                "x": "In the new workflow, an engineer defines the design objectives while the Fuse EDA AI Agent, integrated with Intelligence Center X, coordinates multiple Siemens tools. It runs coupled electrothermal analyses, identifies targets that were not met and evaluates whether the causes involve power delivery, placement, materials or a combination."
-              },
-              {
-                "t": "p",
-                "x": "The workflow coordinates nine steps across seven Siemens EDA tools, from Innovator3D IC Integrator to Calibre 3DThermal and Solido SPICE. It performs 50 to 100 reasoning steps during an eight- to 10-hour runtime and can evaluate 200 to more than 500 design points per cycle. NVIDIA Nemotron models, NeMo tools and CUDA-X libraries support the agent-driven workflow."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Siemens, 3D IC\n설계 에이전틱 AI 확대",
-          "body": "Siemens는 일곱 EDA 도구로 주기당 3D IC 설계 수백 건을 평가한다.",
-          "mini_headline": "Siemens 에이전틱 3D IC",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Siemens가 NVIDIA와 협력해 개발한 EDA 에이전틱 AI 포트폴리오 업데이트를 발표했다. 3D 집적회로의 전기, 전력, 열, 공동 설계 분석을 지원한다. Siemens는 벤치마크 연구에서 수작업 워크플로 대비 엔지니어링 작업량을 최대 95%, 워크플로 설정 시간을 최대 99% 줄이고, 설계 탐색 범위를 최대 50배 넓혔다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "연산과 메모리가 더 긴밀하게 통합될수록 전력 밀도와 열 집중도 높아진다. 그래서 전기·열 공동 설계는 최종 검증 단계만이 아니라 설계 과정에서부터 따져야 한다."
-              },
-              {
-                "t": "p",
-                "x": "새 워크플로에서는 엔지니어가 설계 목표를 정의하고, Intelligence Center X와 통합된 Fuse EDA AI Agent가 여러 Siemens 도구를 조율한다. 에이전트는 전기·열 연성 해석을 돌려 달성하지 못한 목표를 찾아내고, 원인이 전력 공급, 배치, 소재 중 무엇인지 또는 그 조합인지 평가한다."
-              },
-              {
-                "t": "p",
-                "x": "이 워크플로는 Innovator3D IC Integrator부터 Calibre 3DThermal, Solido SPICE까지 일곱 개의 Siemens EDA 도구에 걸쳐 아홉 단계를 조율한다. 여덟에서 10시간에 이르는 실행 동안 50~100단계의 추론을 거치고 주기마다 200개에서 500개 이상의 설계점을 평가할 수 있다. NVIDIA Nemotron 모델, NeMo 도구, CUDA-X 라이브러리가 이 에이전트 기반 워크플로를 뒷받침한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Siemens、3D IC\n設計向けエージェントAI拡充",
-          "body": "SiemensはEDAツール七つを連携し、サイクルごとに数百の3D IC設計点を評価する。",
-          "mini_headline": "Siemensのエージェント型3D IC",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Siemensは、NVIDIAと共同開発したEDA向けエージェント型AIポートフォリオのアップデートを発表した。3D集積回路の電気、電力、熱、協調設計の解析を支援する。ベンチマーク調査では、手作業のワークフローと比べて、エンジニアリング工数を最大95%、ワークフローの設定時間を最大99%削減し、設計探索の網羅性を最大50倍に高めたと報告している。"
-              },
-              {
-                "t": "p",
-                "x": "演算とメモリがより密接に統合されるにつれて電力密度と熱の集中が高まるため、電気・熱の協調設計は最終検証の段階だけでなく、設計の過程で考慮しなければならない。"
-              },
-              {
-                "t": "p",
-                "x": "新しいワークフローでは、エンジニアが設計目標を定め、Intelligence Center Xと統合されたFuse EDA AI Agentが複数のSiemensツールを連携させる。電気・熱の連成解析を実行し、達成できなかった目標を特定したうえで、原因が電力供給、配置、材料、あるいはその組み合わせのいずれにあるかを評価する。"
-              },
-              {
-                "t": "p",
-                "x": "このワークフローは、Innovator3D IC IntegratorからCalibre 3DThermal、Solido SPICEまで、七つのSiemens EDAツールにまたがる九つのステップを連携させる。八〜10時間の実行中に50〜100の推論ステップを行い、サイクルごとに200から500以上の設計点を評価できる。NVIDIA Nemotronモデル、NeMoツール、CUDA-Xライブラリがこのエージェント駆動のワークフローを支える。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Siemens扩展3D IC\n设计智能体AI",
-          "body": "Siemens的智能体工作流协调七款EDA工具，每个周期评估数百个3D IC设计点。",
-          "mini_headline": "Siemens智能体3D IC",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Siemens宣布更新其与NVIDIA合作开发的EDA智能体AI产品组合，以支持3D集成电路的电气、电源、热及协同设计分析。Siemens表示，在基准研究中，与手动工作流相比，工程工作量最多减少95%，工作流设置时间最多减少99%，设计探索覆盖范围最多提升至50倍。"
-              },
-              {
-                "t": "p",
-                "x": "随着计算与存储的集成日益紧密，功率密度和热量集中度不断上升，因此必须在设计过程中就考虑电热协同设计，而不只是在最终验证阶段。"
-              },
-              {
-                "t": "p",
-                "x": "在新工作流中，工程师定义设计目标，与Intelligence Center X集成的Fuse EDA AI Agent则协调多款Siemens工具。它运行耦合电热分析，找出未达成的目标，并评估原因是否涉及供电、布局、材料或其组合。"
-              },
-              {
-                "t": "p",
-                "x": "该工作流在七款Siemens EDA工具之间协调九个步骤，从Innovator3D IC Integrator到Calibre 3DThermal和Solido SPICE。在八到10小时的运行时间内，它执行50到100个推理步骤，每个周期可评估200到500多个设计点。NVIDIA Nemotron模型、NeMo工具和CUDA-X库为这一智能体驱动的工作流提供支持。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Siemens amplía su AI agéntica\npara el diseño de 3D IC",
-          "body": "El flujo agéntico de Siemens coordina siete herramientas EDA para evaluar cientos de puntos de diseño 3D IC por ciclo.",
-          "mini_headline": "AI agéntica de Siemens para 3D IC",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Siemens ha anunciado actualizaciones de su cartera de AI agéntica para EDA, desarrollada en colaboración con NVIDIA, para respaldar el análisis eléctrico, de potencia, térmico y de codiseño de circuitos integrados 3D. En estudios de referencia, Siemens informó de una reducción de hasta el 95% en el esfuerzo de ingeniería, de hasta el 99% en el tiempo de configuración del flujo de trabajo y de una cobertura de exploración de diseño hasta 50 veces mayor que con flujos manuales."
-              },
-              {
-                "t": "p",
-                "x": "A medida que la computación y la memoria se integran más estrechamente, aumentan la densidad de potencia y la concentración de calor, por lo que el codiseño electrotérmico debe considerarse durante el diseño y no solo en la verificación final."
-              },
-              {
-                "t": "p",
-                "x": "En el nuevo flujo de trabajo, un ingeniero define los objetivos de diseño mientras Fuse EDA AI Agent, integrado con Intelligence Center X, coordina varias herramientas de Siemens. Ejecuta análisis electrotérmicos acoplados, identifica los objetivos no alcanzados y evalúa si las causas tienen que ver con el suministro de energía, la colocación, los materiales o una combinación de ellos."
-              },
-              {
-                "t": "p",
-                "x": "El flujo coordina nueve pasos a través de siete herramientas EDA de Siemens, desde Innovator3D IC Integrator hasta Calibre 3DThermal y Solido SPICE. Realiza de 50 a 100 pasos de razonamiento durante una ejecución de ocho a 10 horas y puede evaluar de 200 a más de 500 puntos de diseño por ciclo. Los modelos NVIDIA Nemotron, las herramientas NeMo y las bibliotecas CUDA-X respaldan este flujo impulsado por agentes."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Siemens, 3D IC\n설계 에이전틱 AI 확대",
-          "body": "Siemens는 일곱 EDA 도구로 주기당 3D IC 설계 수백 건을 평가한다.",
-          "mini_headline": "Siemens 에이전틱 3D IC",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Siemens가 NVIDIA와 협력해 개발한 EDA 에이전틱 AI 포트폴리오의 업데이트를 발표했다. 3D 집적회로의 전기, 전력, 열, 공동 설계 분석을 지원한다. Siemens는 벤치마크 연구에서 수작업 워크플로 대비 엔지니어링 작업량을 최대 95%, 워크플로 설정 시간을 최대 99% 줄이고, 설계 탐색 범위를 최대 50배 넓혔다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "연산과 메모리가 더 긴밀하게 통합될수록 전력 밀도와 열 집중이 높아지므로, 전기·열 공동 설계를 최종 검증 단계에서만이 아니라 설계 과정에서 고려해야 한다."
-              },
-              {
-                "t": "p",
-                "x": "새 워크플로에서는 엔지니어가 설계 목표를 정의하고, Intelligence Center X와 통합된 Fuse EDA AI Agent가 여러 Siemens 도구를 조율한다. 에이전트는 전기·열 연성 해석을 실행하고, 달성하지 못한 목표를 찾아내며, 그 원인이 전력 공급, 배치, 소재 중 무엇인지 또는 그 조합인지 평가한다."
-              },
-              {
-                "t": "p",
-                "x": "이 워크플로는 Innovator3D IC Integrator부터 Calibre 3DThermal, Solido SPICE까지 일곱 개의 Siemens EDA 도구에 걸쳐 아홉 단계를 조율한다. 여덟에서 10시간에 이르는 실행 동안 50~100단계의 추론을 수행하며, 주기마다 200개에서 500개 이상의 설계점을 평가할 수 있다. NVIDIA Nemotron 모델, NeMo 도구, CUDA-X 라이브러리가 이 에이전트 기반 워크플로를 뒷받침한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Siemens、3D IC\n設計向けエージェントAI拡充",
-          "body": "SiemensはEDAツール七つを連携し、サイクルごとに数百の3D IC設計点を評価する。",
-          "mini_headline": "Siemensのエージェント型3D IC",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Siemensは、NVIDIAと共同開発したEDA向けエージェント型AIポートフォリオのアップデートを発表した。3D集積回路の電気、電力、熱、協調設計の解析を支援する。ベンチマーク調査では、手作業のワークフローと比べて、エンジニアリング工数を最大95%、ワークフローの設定時間を最大99%削減し、設計探索の網羅性を最大50倍に高めたと報告している。"
-              },
-              {
-                "t": "p",
-                "x": "演算とメモリがより密接に統合されるにつれて電力密度と熱の集中が高まるため、電気・熱の協調設計は最終検証の段階だけでなく、設計の過程で考慮しなければならない。"
-              },
-              {
-                "t": "p",
-                "x": "新しいワークフローでは、エンジニアが設計目標を定め、Intelligence Center Xと統合されたFuse EDA AI Agentが複数のSiemensツールを連携させる。電気・熱の連成解析を実行し、達成できなかった目標を特定したうえで、原因が電力供給、配置、材料、あるいはその組み合わせのいずれにあるかを評価する。"
-              },
-              {
-                "t": "p",
-                "x": "このワークフローは、Innovator3D IC IntegratorからCalibre 3DThermal、Solido SPICEまで、七つのSiemens EDAツールにまたがる九つのステップを連携させる。八〜10時間の実行中に50〜100の推論ステップを行い、サイクルごとに200から500以上の設計点を評価できる。NVIDIA Nemotronモデル、NeMoツール、CUDA-Xライブラリがこのエージェント駆動のワークフローを支える。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Siemens扩展3D IC\n设计智能体AI",
-          "body": "Siemens的智能体工作流协调七款EDA工具，每个周期评估数百个3D IC设计点。",
-          "mini_headline": "Siemens智能体3D IC",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Siemens宣布更新其与NVIDIA合作开发的EDA智能体AI产品组合，以支持3D集成电路的电气、电源、热及协同设计分析。Siemens表示，在基准研究中，与手动工作流相比，工程工作量最多减少95%，工作流设置时间最多减少99%，设计探索覆盖范围最多提升至50倍。"
-              },
-              {
-                "t": "p",
-                "x": "随着计算与存储的集成日益紧密，功率密度和热量集中度不断上升，因此必须在设计过程中就考虑电热协同设计，而不只是在最终验证阶段。"
-              },
-              {
-                "t": "p",
-                "x": "在新工作流中，工程师定义设计目标，与Intelligence Center X集成的Fuse EDA AI Agent则协调多款Siemens工具。它运行耦合电热分析，找出未达成的目标，并评估原因是否涉及供电、布局、材料或其组合。"
-              },
-              {
-                "t": "p",
-                "x": "该工作流在七款Siemens EDA工具之间协调九个步骤，从Innovator3D IC Integrator到Calibre 3DThermal和Solido SPICE。在八到10小时的运行时间内，它执行50到100个推理步骤，每个周期可评估200到500多个设计点。NVIDIA Nemotron模型、NeMo工具和CUDA-X库为这一智能体驱动的工作流提供支持。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Siemens amplía su AI agéntica\npara el diseño de 3D IC",
-          "body": "El flujo agéntico de Siemens coordina siete herramientas EDA para evaluar cientos de puntos de diseño 3D IC por ciclo.",
-          "mini_headline": "AI agéntica de Siemens para 3D IC",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Siemens ha anunciado actualizaciones de su cartera de AI agéntica para EDA, desarrollada en colaboración con NVIDIA, para respaldar el análisis eléctrico, de potencia, térmico y de codiseño de circuitos integrados 3D. En estudios de referencia, Siemens informó de una reducción de hasta el 95% en el esfuerzo de ingeniería, de hasta el 99% en el tiempo de configuración del flujo de trabajo y de una cobertura de exploración de diseño hasta 50 veces mayor que con flujos manuales."
-              },
-              {
-                "t": "p",
-                "x": "A medida que la computación y la memoria se integran más estrechamente, aumentan la densidad de potencia y la concentración de calor, por lo que el codiseño electrotérmico debe considerarse durante el diseño y no solo en la verificación final."
-              },
-              {
-                "t": "p",
-                "x": "En el nuevo flujo de trabajo, un ingeniero define los objetivos de diseño mientras Fuse EDA AI Agent, integrado con Intelligence Center X, coordina varias herramientas de Siemens. Ejecuta análisis electrotérmicos acoplados, identifica los objetivos no alcanzados y evalúa si las causas tienen que ver con el suministro de energía, la colocación, los materiales o una combinación de ellos."
-              },
-              {
-                "t": "p",
-                "x": "El flujo coordina nueve pasos a través de siete herramientas EDA de Siemens, desde Innovator3D IC Integrator hasta Calibre 3DThermal y Solido SPICE. Realiza de 50 a 100 pasos de razonamiento durante una ejecución de ocho a 10 horas y puede evaluar de 200 a más de 500 puntos de diseño por ciclo. Los modelos NVIDIA Nemotron, las herramientas NeMo y las bibliotecas CUDA-X respaldan este flujo impulsado por agentes."
+                "x": "Lanzada en noviembre de 2025, superó las 86,000 estrellas en GitHub y los 5,000 forks en menos de un año."
               }
             ]
           }

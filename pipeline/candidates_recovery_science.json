@@ -1,0 +1,34 @@
+{
+ "section": "science",
+ "generated_at": "2026-10-25T22:30:00Z",
+ "window_hours": 336,
+ "items": [
+  {
+   "title": "Can maths survive AI? Fields medallist Terence Tao calls for a 'Maths 2.0' world",
+   "url": "https://www.nature.com/articles/d41586-026-03389-1",
+   "source": "Nature",
+   "category": "ai-math-formal-proofs",
+   "published_iso": "2026-10-22T00:00:00Z",
+   "og_image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03389-1/d41586-026-03389-1_53883260.jpg",
+   "excerpt": "Terence Tao argues that as AI tools automatically derive solutions to long-standing problems, mathematics must move to a 'Maths 2.0' era where proof scarcity no longer defines the field and human understanding is prized over publishing more solutions."
+  },
+  {
+   "title": "Emergence of diffusion models from associative memory through memorization and generalization",
+   "url": "https://www.nature.com/articles/s41467-026-78727-y",
+   "source": "Nature Communications",
+   "category": "science-of-ai",
+   "published_iso": "2026-10-25T00:00:00Z",
+   "og_image": "",
+   "excerpt": "Viewing diffusion models through Dense Associative Memory theory, the authors show that spurious states, long treated as memory errors, are a critical intermediate phase of generalization, and demonstrate them across many architectures and datasets."
+  },
+  {
+   "title": "Dendritic computation bridges neuroscience and foundation models",
+   "url": "https://www.nature.com/articles/s41467-026-77929-8",
+   "source": "Nature Communications",
+   "category": "neuroscience-ai",
+   "published_iso": "2026-10-15T00:00:00Z",
+   "og_image": "",
+   "excerpt": "The authors show that AI attention mechanisms resemble dendritic computations within single neurons rather than interactions between neurons, and build a dendrite-inspired model with improved performance."
+  }
+ ]
+}

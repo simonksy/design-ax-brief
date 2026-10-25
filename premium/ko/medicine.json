@@ -2172,6 +2172,141 @@
           "x": "NICE는 특히 전문 인력이 없는 곳에서 이 기술이 전립선 MRI 판독의 정확도와 일관성을 높일 “잠재력이 있다”고 결론지었다. 다만 일상적인 NHS 진료에서 도구가 실제로 어떤 성능을 낼지는 근거가 더 쌓여야 알 수 있다고 덧붙였다."
         }
       ]
+    },
+    "medicine/medicine-ecg-transplant-rejection": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2020-03/transplant_0.jpg?h=956ee2f3&itok=GcZkfQn3"
+        },
+        {
+          "t": "p",
+          "x": "NYU Langone Health 연구진이 침습적 생검 없이 심장 이식 거부반응을 예측할 새 방법을 찾았을지 모른다. 결과는 Journal of Heart and Lung Transplantation에 실렸다."
+        },
+        {
+          "t": "p",
+          "x": "연구진은 2018년부터 2024년까지 성인 심장 이식 수혜자 389명에게서 얻은 5,300건이 넘는 ECG 판독 데이터로 AI 모델을 학습시켰다. 한 모델은 ECG 데이터만 썼다. 다른 모델은 ECG 데이터에 AlloMap과 AlloSure, 두 가지 혈액검사 결과를 더했다. 두 검사는 그동안 거부반응 위험 예측에 쓰였지만 위양성률이 높다."
+        },
+        {
+          "t": "p",
+          "x": "심장 이식 수혜자 38명으로 꾸린 테스트 그룹에서는 결합 모델이 더 나은 성적을 냈다. 거부반응을 겪은 환자는 두 명이었다. AI 모델은 거부반응이 없는 환자의 97%를 정확히 가려냈다. 혈액검사만 쓴 방식은 19명에게 생검이 필요하다고 잘못 판단했다."
+        },
+        {
+          "t": "p",
+          "x": "“심장 이식은 자원이 많이 드는 대수술이며, 거부반응은 흔하지만 제때 발견하면 치료할 수 있다”고 책임저자 Lior Jankelson, MD, PhD는 말했다. 연구진은 다음으로 여러 이식 센터의 더 많은 환자에게 AI 모델을 시험할 계획이다."
+        }
+      ]
+    },
+    "medicine/medicine-hf-functional-decline": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-983942394.jpg?h=39b07655&itok=8Yg4Z5XX"
+        },
+        {
+          "t": "p",
+          "x": "고도화된 인공지능(AI) 모델로 고령 심부전 환자의 기능 저하가 언제 시작될지 예측할 수 있다는 연구가 Journal of Cardiac Failure에 실렸다."
+        },
+        {
+          "t": "p",
+          "x": "연구진은 심부전으로 입원해 재활 처방을 받은 65세 이상 환자 6,000여 명의 데이터를 분석했다. 나이 중앙값은 82세였다. 머신러닝 모델은 환자가 일 년 안에 기능을 유지할지, 기능이 떨어질지(외출하지 못하거나 누워 지내는 생활로 바뀌는 경우), 사망할지 그 위험을 추정한다."
+        },
+        {
+          "t": "p",
+          "x": "전체 환자의 32.5%가 퇴원 후 일 년 안에 기능 저하를 겪었고 14% 이상은 사망했다. 77가지 요인을 쓰는 이 모델은 선별 도구 Kihon Checklist보다 이런 결과를 더 정확하게 가려냈다."
+        },
+        {
+          "t": "p",
+          "x": "“환자가 생존할지만 물을 것이 아니라, 퇴원 후에도 자신이 소중히 여기는 삶을 유지할 수 있을지를 물어야 한다”고 일본 Juntendo University의 제1저자 Kanji Yamada, PT, PhD는 말했다."
+        }
+      ]
+    },
+    "medicine/medicine-doximity-uptodate-ask": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg?VersionId=iT2xffiTsfbfPwNM_SW3dz_eFZZ.4yvd",
+          "cap": "Doximity는 임상 AI 도구 투자를 늘리고 있다. Wolters Kluwer와 손잡은 Ask는 임상 지식의 관문 자리를 노린다."
+        },
+        {
+          "t": "p",
+          "x": "Doximity가 Wolters Kluwer Health와 손잡고 UpToDate의 근거 기반 임상 콘텐츠를 자사 AI 임상 의사결정 지원 도구 Doximity Ask에 바로 넣기로 했다."
+        },
+        {
+          "t": "p",
+          "x": "몇 주 안에 두 제품을 함께 쓰는 의료기관의 임상의는 Ask 워크플로를 벗어나지 않고 Doximity Ask의 답변과 나란히 UpToDate 임상 주제 13,000개와 모범 진료 가이드에 근거한 답변을 보게 된다."
+        },
+        {
+          "t": "p",
+          "x": "회사는 앰비언트 기록 도구 Scribe와 Ask 같은 임상 AI 제품군을 키워 의사를 위한 대표 AI 플랫폼이 되려 한다. Doximity는 일 년 전 임상 AI 기업 Pathway를 인수했다."
+        },
+        {
+          "t": "p",
+          "x": "“모든 프런티어 모델은 똑같은 저널을 다 읽었다. UpToDate는 RCT가 없을 때 어떤 일이 벌어지는지에 관해 경험 많은 의사들이 만든 최고 수준의 참고 자료로서 독보적이다”라고 Doximity CEO Jeff Tangney는 Fierce Healthcare에 말했다."
+        },
+        {
+          "t": "p",
+          "x": "회사에 따르면 U.S. 의사의 85% 이상이 Doximity 회원이다. Ask를 비롯한 임상 AI 도구는 165곳이 넘는 의료기관에 들어갔다."
+        },
+        {
+          "t": "p",
+          "x": "임상 AI 경쟁은 갈수록 거세다. Wolters Kluwer는 Epic, Abridge와도 손잡고 두 회사의 AI-powered CDS 도구에 UpToDate를 넣고 있다."
+        }
+      ]
+    },
+    "medicine/medicine-ai-standardized-patients": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig1_HTML.png",
+          "cap": "Fig. 1: AI-SP 아키텍처와 세 단계 평가 개요."
+        },
+        {
+          "t": "p",
+          "x": "표준화 환자(SPs)는 임상 소통 교육의 핵심이다. 다만 비용과 확장성, 훈련된 배우에게 기대야 한다는 점이 걸림돌이다. 저자들은 AI 표준화 환자(AI-SPs)를 제안한다. 대규모 언어 모델로 움직이는 시뮬레이터로, 세 층 정보 아키텍처를 바탕으로 학습자 숙련도에 맞춰 정보를 얼마나 내놓을지 조절한다."
+        },
+        {
+          "t": "p",
+          "x": "Phase 1에서는 프런티어 LLMs 다섯 개가 만든 모의 상담 350건을 전문가가 블라인드로 평가했다. 성과 차이는 모델 선택보다 학습자 숙련도로 더 많이 설명됐다(η2 = 0.31 vs. 0.06). Phase 1b에서는 학생들의 실제 상담 155건을 살폈는데, 안전에 결정적인 정보를 끌어내지 못하는 체계적 실패가 드러났다."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig2_HTML.png",
+          "cap": "Fig. 2: 세 층으로 이뤄진 AI-SP 시스템 프롬프트 설계."
+        },
+        {
+          "t": "p",
+          "x": "Phase 2의 세 군 파일럿 무작위 연구(n = 58)에서 AI-SP 훈련의 OSCE 성적 향상 폭은 인간 SP 훈련과 유의한 차이가 없었다. 이 시험은 동등성 입증이 아니라 효과 크기 추정을 목표로 설계됐다. 자기효능감은 수치상 AI-SPs에서 가장 많이 올랐지만 다중 비교 보정 후에는 유의성이 사라졌다."
+        }
+      ]
+    },
+    "medicine/medicine-eko-core300-fda": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/assets_ms2016573_000001_1280x960_core_300_pr_1-1.jpg?h=926d89e9&itok=p9_Udd4z"
+        },
+        {
+          "t": "p",
+          "x": "Eko Health가 새 AI-enabled 청진기 Core 300의 FDA 허가를 받았다. 기존 아날로그 청진과 고급 디지털 청진 기능을 함께 갖췄다."
+        },
+        {
+          "t": "p",
+          "x": "의료진은 소아와 성인 환자를 진찰하다가 기존 청진에서 디지털 청진으로 바로 바꿀 수 있다. 디지털 청진은 최대 35x 증폭과 소음 제거를 지원하고, 실시간 심장 데이터를 기기 화면에 띄운다."
+        },
+        {
+          "t": "p",
+          "x": "이 청진기는 Eko App이나 Eko의 FDA-cleared AI 모델과도 연결되며, 배터리는 한 번에 몇 주씩 쓰도록 설계됐다."
+        },
+        {
+          "t": "p",
+          "x": "Eko Health 공동창업자이자 CEO인 Connor Landgraf는 “Eko는 750,000대가 넘는 기기를 공급했고, Core 300은 모든 의료 전문가가 질병을 조기에 자신 있게 발견하도록 돕는 다음 단계”라고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "이 기기는 현재 U.S. 소비자에게 판매 중이며 해외 출시도 단계적으로 진행하고 있다."
+        }
+      ]
     }
   }
 }

@@ -1,33 +1,91 @@
 {
- "date": "2026-10-25",
  "section": "medicine",
+ "generated_at": "2026-10-25T22:00:38Z",
  "window_hours": 336,
  "items": [
   {
-   "url": "https://ai.nejm.org/doi/full/10.1056/AIx2601335",
-   "source": "NEJM AI",
+   "title": "[KIMES BUSAN 특별좌담회] \"의료 AI 글로벌 확장, '통합 레퍼런스'와 '갭 분석'으로 인허가 병목 뚫어야\"",
+   "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014571",
+   "source": "의학신문",
    "category": "medicine",
-   "published_iso": "2026-10-23T14:00:16Z",
-   "og_image": "",
-   "excerpt": "Longitudinal study in NEJM AI tests whether AI-powered ambient clinical documentation actually improves clinician efficiency over time (Crossref created 2026-10-23)."
+   "published_iso": "2026-10-25T21:00:00Z",
+   "og_image": "https://cdn.bosa.co.kr/news/photo/202610/3014571_415513_1659.jpg",
+   "excerpt": "‘의료기기 규제 삼국지 극복’ 전문가 3인 특별진단K-의료기기 및 의료 AI 솔루션의 글로벌 확장 국면에서 지리적·임상적 접근성이 높은 중국과 일본은 핵심 공략지"
   },
   {
-   "url": "https://ai.nejm.org/doi/full/10.1056/AIp2600817",
-   "source": "NEJM AI",
+   "title": "웨이센, 유럽 최대 소화기학회서 차세대 AI 내시경 기술 경쟁력 뽐내",
+   "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014716",
+   "source": "의학신문",
    "category": "medicine",
-   "published_iso": "2026-10-16T14:01:07Z",
-   "og_image": "",
-   "excerpt": "Stanford SAIL year-in-review distills six themes in clinical AI for 2025-2026, from deployment to evaluation."
+   "published_iso": "2026-10-23T08:22:42Z",
+   "og_image": "https://cdn.bosa.co.kr/news/photo/202610/3014716_415649_1830.jpg",
+   "excerpt": "[의학신문·일간보사=오인규 기자] 의료 AI 전문기업 웨이센(대표 김경남)은 지난 17일부터 20일까지 스페인 바르셀로나에서 열린 유럽소화기학회(이하 UEG We"
   },
   {
-   "url": "https://ai.nejm.org/doi/full/10.1056/AIltr2600987",
-   "source": "NEJM AI",
+   "title": "뷰노, KIMES BUSAN 2026서 ‘셀프 심전도’ 비전 제시",
+   "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014707",
+   "source": "의학신문",
    "category": "medicine",
-   "published_iso": "2026-10-22T13:14:54Z",
-   "og_image": "",
-   "excerpt": "Correspondence warns that automation bias is eroding physicians' 'cognitive sovereignty' as AI-assisted diagnosis spreads."
+   "published_iso": "2026-10-23T07:44:55Z",
+   "og_image": "https://cdn.bosa.co.kr/news/photo/202610/3014707_415641_2957.jpg",
+   "excerpt": "[의학신문·일간보사=오인규 기자] 의료 AI 기업 뷰노(대표 이예하)는 23일부터 25일까지 부산 벡스코에서 개최되는 ‘KIMES BUSAN 2026(부산국제의료"
   },
   {
+   "title": "한국 사무소 여는 게이츠 재단…\"AI로 보건 불평등 해소해야\"",
+   "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3043895",
+   "source": "청년의사",
+   "category": "medicine",
+   "published_iso": "2026-10-22T22:40:40Z",
+   "og_image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202610/3043895_3047790_2442_v150.jpg",
+   "excerpt": "빌 앤 멜린다 게이츠 재단(Bill & Melinda Gates Foundation, 이하 게이츠 재단)이 연내 한국 사무소를 열고 바이오·AI 분야에서 한국과의 협력을 넓힌다. AI를 시장 논리에만 맡기면 보건의료 격차가 더 벌어질 수 있는 만큼, 수혜국이던 한국이 중저소득국가를 위한 글로벌 보건 공공재 구축에 나서야 한다는 주문이다.게이츠 재단은 지난 22일 서울 코엑스마곡 컨벤션센터에서 열린 '세계 바이오 서밋'에서 'AI로 생명을 구하다: 중저소득국가를"
+  },
+  {
+   "title": "AI flags heart failure patients at risk of functional decline",
+   "url": "https://cardiovascularbusiness.com/topics/clinical/heart-failure/ai-flags-heart-failure-patients-risk-functional-decline",
+   "source": "Cardiovascular Business",
+   "category": "medicine",
+   "published_iso": "2026-10-20T19:53:31Z",
+   "og_image": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-983942394.jpg?h=39b07655&itok=8Yg4Z5XX",
+   "excerpt": "“Instead of asking only whether a patient will survive, we need to ask whether they will be able to maintain the life they value after discharge,” one researcher explained."
+  },
+  {
+   "title": "AI-powered ECG assessments may improve heart transplant rejection warnings",
+   "url": "https://cardiovascularbusiness.com/topics/clinical/cardiac-surgery/ai-ecg-analysis-offers-heart-transplant-rejection-warnings",
+   "source": "Cardiovascular Business",
+   "category": "medicine",
+   "published_iso": "2026-10-20T18:09:56Z",
+   "og_image": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2020-03/transplant_0.jpg?h=956ee2f3&itok=GcZkfQn3",
+   "excerpt": "Researchers said they plan on testing the AI model in additional patients at several transplant centers."
+  },
+  {
+   "title": "Doximity adds UpToDate to Ask in push to become doctors’ go-to AI platform",
+   "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/doximity-adds-uptodate-ask-push-become-doctors-go-ai-platform",
+   "source": "Fierce Healthcare",
+   "category": "medicine",
+   "published_iso": "2026-10-21T20:30:00Z",
+   "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg?VersionId=iT2xffiTsfbfPwNM_SW3dz_eFZZ.4yvd",
+   "excerpt": "Doximity inked a partnership with Wolters Kluwer Health to embed UpToDate's evidence-based clinical content directly within Doximity Ask, the company’s AI clinical decision support tool. | Doximity inked a partnership with Wolters Kluwer to embed UpToDate's ev"
+  },
+  {
+   "title": "AMA Calls for Risk-Based GenAI Oversight to Protect Patients and Support Responsible Innovation - MedCity News",
+   "url": "https://medcitynews.com/2026/10/ama-calls-for-risk-based-genai-oversight-to-protect-patients-and-support-responsible-innovation/",
+   "source": "MedCity News",
+   "category": "medicine",
+   "published_iso": "2026-10-21T17:25:01Z",
+   "og_image": "https://medcitynews.com/wp-content/uploads/sites/7/2023/04/GettyImages-1474155562.jpg",
+   "excerpt": "As generative AI moves toward performing increasingly consequential clinical functions, the American Medical Association (AMA) is urging the U.S. Food and Drug Administration to address a foundational question: Who is responsible for ensuring that these tools"
+  },
+  {
+   "title": "FDA Official Believes GenAI-enabled Tools Will Need to Be Assessed Like a Physician - MedCity News",
+   "url": "https://medcitynews.com/2026/10/fda-official-believes-genai-enabled-tools-will-need-to-be-assessed-like-a-physician/",
+   "source": "MedCity News",
+   "category": "medicine",
+   "published_iso": "2026-10-20T22:23:38Z",
+   "og_image": "https://medcitynews.com/wp-content/uploads/sites/7/2023/09/GettyImages-1377896928.jpg",
+   "excerpt": "Rick Abramson, a radiologist by training and the director of FDA's Digital Health Center of Excellence said, \"We ended up putting out this idea that maybe these devices are starting to behave a little bit more like me as a physician than a heart valve or a def"
+  },
+  {
+   "title": "Putting conversational AI to the test in primary care",
    "url": "https://www.nature.com/articles/d41591-026-00054-y",
    "source": "Nature Medicine",
    "category": "medicine",
@@ -36,156 +94,139 @@
    "excerpt": "A patient-facing conversational AI showed promising feasibility and safety in a single-center primary care setting, providing a basis for larger-scale evaluation."
   },
   {
-   "url": "https://www.nature.com/articles/s43856-026-01883-1",
-   "source": "Communications Medicine",
+   "title": "Clinical AI governance for scalable innovation in value based healthcare systems - npj Digital Medicine",
+   "url": "https://www.nature.com/articles/s41746-026-03409-4",
+   "source": "npj Digital Medicine",
    "category": "medicine",
-   "published_iso": "2026-10-19T00:00:00Z",
+   "published_iso": "2026-10-23T00:00:00Z",
    "og_image": "",
-   "excerpt": "EpiSemoLLM, a domain-adapted language model, localizes epileptogenic zones from seizure semiology and performs comparably to or better than epileptologists across internal and external cohorts."
+   "excerpt": "Health systems are deploying clinical artificial intelligence (AI) faster than they can govern it, and existing frameworks emphasize risk oversight over operational learning and scale. The Collaborative Technology Adoption for Care Transformation (C-TACT) fram"
   },
   {
+   "title": "From simulation to pedagogy: multi-model and randomized evaluation of structured AI standardized patients - npj Digital Medicine",
    "url": "https://www.nature.com/articles/s41746-026-03372-0",
    "source": "npj Digital Medicine",
    "category": "medicine",
    "published_iso": "2026-10-23T00:00:00Z",
    "og_image": "",
-   "excerpt": "Randomized, multi-model evaluation of LLM-driven AI standardized patients for clinical communication training, a cheaper scalable alternative to trained actors."
+   "excerpt": "Standardized patients (SPs) are central to clinical communication training but remain constrained by cost, scalability, and reliance on trained actors. We present AI standardized patients (AI-SPs), large language model–driven patient simulators built on a thre"
   },
   {
-   "url": "https://radiologybusiness.com/topics/artificial-intelligence/artificial-intelligence-checks-trustworthiness-breast-cancer-ai-models",
-   "source": "Radiology Business",
-   "category": "medicine",
-   "published_iso": "2026-10-21T22:16:44+00:00",
-   "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-06/istock-2202666684.jpg?h=140710cd&itok=XUsmUugX",
-   "excerpt": "University of Pittsburgh researchers built a model that flags when a breast cancer AI result may need a radiologist's second look."
-  },
-  {
+   "title": "Radiology societies weigh in on FDA’s push to regulate generative AI",
    "url": "https://radiologybusiness.com/topics/artificial-intelligence/radiology-societies-weigh-fdas-push-regulate-generative-ai",
    "source": "Radiology Business",
    "category": "medicine",
-   "published_iso": "2026-10-23T09:43:18+00:00",
+   "published_iso": "2026-10-23T09:43:18Z",
    "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-03/istock-2214959014.jpg?h=140710cd&itok=VthZy7qr",
-   "excerpt": "RSNA and other radiology societies filed comments on FDA's push to regulate generative AI devices: patient safety first, flexibility paired with enforceable safeguards."
+   "excerpt": "“Patient safety should remain the central organizing principle, and regulatory flexibility should be paired with clear, enforceable safeguards,\" RSNA said in recently shared comments."
   },
   {
-   "url": "https://medcitynews.com/2026/10/fda-official-believes-genai-enabled-tools-will-need-to-be-assessed-like-a-physician/",
-   "source": "MedCity News",
+   "title": "Researchers develop way of adapting adult radiology AI models to pediatric population",
+   "url": "https://radiologybusiness.com/topics/artificial-intelligence/researchers-develop-way-adapting-adult-radiology-ai-models-pediatric-population",
+   "source": "Radiology Business",
    "category": "medicine",
-   "published_iso": "2026-10-20T22:23:38+00:00",
-   "og_image": "https://medcitynews.com/wp-content/uploads/sites/7/2023/09/GettyImages-1377896928.jpg",
-   "excerpt": "FDA Digital Health Center of Excellence director Rick Abramson says generative AI devices behave more like a physician than a heart valve and may need to be assessed that way."
+   "published_iso": "2026-10-14T08:34:30Z",
+   "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2018-07/istock-851956258_super.jpg?itok=Jgc1Xe-I",
+   "excerpt": "Currently, only about 17% of U.S. Food and Drug Administration-authorized AI medical devices are labeled for use with children."
   },
   {
-   "url": "https://medcitynews.com/2026/10/ama-calls-for-risk-based-genai-oversight-to-protect-patients-and-support-responsible-innovation/",
-   "source": "MedCity News",
+   "title": "OpenEvidence's JAMA paper leaves open questions",
+   "url": "https://www.statnews.com/2026/10/20/openevidence-jama-paper-leaves-open-questions-health-tech/",
+   "source": "STAT",
    "category": "medicine",
-   "published_iso": "2026-10-21T17:25:01+00:00",
-   "og_image": "https://medcitynews.com/wp-content/uploads/sites/7/2023/04/GettyImages-1474155562.jpg",
-   "excerpt": "The AMA urges FDA to adopt risk-based oversight of generative AI and settle who is responsible for keeping tools safe once they enter clinical practice."
+   "published_iso": "2026-10-20T14:40:13Z",
+   "og_image": "https://www.statnews.com/wp-content/uploads/2026/01/AdobeStock_1768731628_Editorial_Use_Only-1024x576.jpeg",
+   "excerpt": "In this edition of STAT Health Tech: A new paper in JAMA offers a glimpse into clinicians's use of OpenEvidence, and a look at Isomorphic Labs."
   },
   {
-   "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/doximity-adds-uptodate-ask-push-become-doctors-go-ai-platform",
-   "source": "Fierce Healthcare",
+   "title": "Takeaways from an evaluation of Google's diagnostic chatbot, AMIE",
+   "url": "https://www.statnews.com/2026/10/13/google-amie-diagnostic-chatbot-study-lancet-health-tech/",
+   "source": "STAT",
    "category": "medicine",
-   "published_iso": "2026-10-21T16:30:00-04:00",
-   "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg?VersionId=iT2xffiTsfbfPwNM_SW3dz_eFZZ.4yvd",
-   "excerpt": "Doximity embeds Wolters Kluwer's UpToDate evidence content directly inside Doximity Ask, its AI clinical decision support tool for physicians."
+   "published_iso": "2026-10-13T13:13:25Z",
+   "og_image": "https://www.statnews.com/wp-content/uploads/2026/03/AdobeStock_1782878692-1024x576.jpeg",
+   "excerpt": "In this edition of STAT Health Tech: A look at a study recently published in The Lancet about Google's diagnostic chatbot, AMIE."
   },
   {
+   "title": "'AI sandboxes' are all the rage. Advocates scramble to control their future",
    "url": "https://www.statnews.com/2026/10/15/scramble-to-shape-regulations-around-state-ai-sandboxes-health-tech/",
    "source": "STAT",
    "category": "medicine",
-   "published_iso": "2026-10-15T13:14:37+00:00",
+   "published_iso": "2026-10-15T13:14:37Z",
    "og_image": "https://www.statnews.com/wp-content/uploads/2024/02/AdobeStock_540774532-1024x576.jpeg",
-   "excerpt": "STAT Health Tech: groups vie to shape the rules for state 'AI sandboxes' that would let medical AI be tested under relaxed regulation."
+   "excerpt": "In this edition of STAT's Health Tech newsletter: The groups vying to shape regulations that'd govern state AI sandboxes, and more."
   },
   {
-   "url": "https://endpoints.news/american-medical-association-ceo-talks-regulating-ai-care/",
-   "source": "Endpoints News",
-   "category": "medicine",
-   "published_iso": "2026-10-22T15:51:50+00:00",
-   "og_image": "https://endpoints.news/wp-content/uploads/2024/12/Healthtech_social.jpg",
-   "excerpt": "As FDA races to regulate AI medical devices, AMA CEO John Whyte warns against weak oversight of AI-delivered care."
-  },
-  {
-   "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014716",
-   "source": "의학신문",
-   "category": "medicine",
-   "published_iso": "2026-10-23T17:22:42+09:00",
-   "og_image": "https://cdn.bosa.co.kr/news/photo/202610/3014716_415649_1830.jpg",
-   "excerpt": "의료 AI 기업 웨이센이 유럽소화기학회(UEG Week 2026)에서 차세대 AI 내시경 기술을 선보였다."
-  },
-  {
-   "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014709",
-   "source": "의학신문",
-   "category": "medicine",
-   "published_iso": "2026-10-23T16:58:07+09:00",
-   "og_image": "https://cdn.bosa.co.kr/news/photo/202610/3014709_415642_4721.jpg",
-   "excerpt": "에이아이트릭스와 강북삼성병원이 의료진 문서 부담을 줄이기 위해 병원 행정 업무의 AI 완전 자동화를 추진한다."
-  },
-  {
-   "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014686",
-   "source": "의학신문",
-   "category": "medicine",
-   "published_iso": "2026-10-23T11:53:39+09:00",
-   "og_image": "",
-   "excerpt": "베링거인겔하임과 마이크로소프트가 임상시험에 디지털 트윈 환자를 함께 적용하는 협력을 맺었다."
-  },
-  {
-   "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3043895",
-   "source": "청년의사",
-   "category": "medicine",
-   "published_iso": "2026-10-23T07:40:40+09:00",
-   "og_image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202610/3043895_3047790_2442_v150.jpg",
-   "excerpt": "게이츠 재단이 연내 한국 사무소를 열고 바이오·AI 협력을 확대한다. AI를 시장 논리에만 맡기면 보건의료 격차가 커질 수 있다는 경고."
-  },
-  {
-   "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3043859",
-   "source": "청년의사",
-   "category": "medicine",
-   "published_iso": "2026-10-22T12:26:35+09:00",
-   "og_image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202610/3043859_3047751_173_v150.jpg",
-   "excerpt": "미국병원경영자협회(ACHE) 회장 등 병원 경영자들이 'AI가 병원을 바꿔도 결국 중요한 건 사람과 리더십'이라고 말했다."
-  },
-  {
-   "url": "https://cardiovascularbusiness.com/topics/artificial-intelligence/fda-clears-new-ai-enabled-stethoscopes",
-   "source": "Cardiovascular Business",
-   "category": "medicine",
-   "published_iso": "2026-10-23T16:42:25+00:00",
-   "og_image": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/assets_ms2016573_000001_1280x960_core_300_pr_1-1.jpg?h=926d89e9&itok=p9_Udd4z",
-   "excerpt": "FDA cleared Eko Health's Core 300 AI-enabled stethoscope, combining analog listening with noise cancellation, amplification and real-time heart data display. (Off-list sister of radiologybusiness.com; cardiology angle not covered on-list.)"
-  },
-  {
-   "url": "https://cardiovascularbusiness.com/topics/artificial-intelligence/fda-clears-elucids-new-ai-enabled-ffr-ct-software",
-   "source": "Cardiovascular Business",
-   "category": "medicine",
-   "published_iso": "2026-10-21T19:13:24+00:00",
-   "og_image": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/elucid_ffr-iq_ffr-ct_ai_software_3.png?h=d1699ae9&itok=WmZZy_qa",
-   "excerpt": "FDA cleared Elucid's AI-enabled FFR-IQ (FFR-CT) software for noninvasive coronary assessment, developed with clinician feedback. (Off-list.)"
-  },
-  {
-   "url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15837620/radiologists-llms-fail-at-spotting-aigenerated-chest-xrays",
+   "title": "Rivanna gets FDA clearance for BoneEnhance ultrasound software",
+   "url": "https://www.auntminnie.com/clinical-news/ultrasound/news/15838275/rivanna-gets-fda-clearance-for-boneenhance-ultrasound-software",
    "source": "AuntMinnie",
    "category": "medicine",
-   "published_iso": "2026-10-15T19:00:38Z",
-   "og_image": "",
-   "excerpt": "Both radiologists and LLMs perform poorly at distinguishing AI-generated chest X-rays from real ones; researchers urge treating image authenticity as a data governance problem."
+   "published_iso": "2026-10-22T21:05:27Z",
+   "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/rivanna-logo.1nL6spIwRd.jpg?auto=format%2Ccompress&q=70&w=800",
+   "excerpt": "FDA cleared Rivanna's BoneEnhance AI software module, which identifies bone and surrounding tissues and highlights them with color-coded overlays on 2D B-mode ultrasound images."
   },
   {
-   "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15837225/hpi-evidence-contradicts-broad-claims-about-ai-radiology-workforce",
+   "title": "Biograph highlights cardiac AI CT study",
+   "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/15838207/biograph-highlights-cardiac-ai-ct-study",
    "source": "AuntMinnie",
    "category": "medicine",
-   "published_iso": "2026-10-13T12:00:00Z",
-   "og_image": "",
-   "excerpt": "Harvey L. Neiman Health Policy Institute: evidence contradicts claims that AI has reduced the need for radiologists; imaging demand is projected to grow 17-27% by 2055."
+   "published_iso": "2026-10-22T16:22:17Z",
+   "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/logo-full-dark-1-1.kOJAcdfodW.jpg?auto=format%2Ccompress&q=70&w=800",
+   "excerpt": "AI analysis of coronary CT angiography exams found elevated coronary inflammation in over 40% of asymptomatic, low-risk adults, per a study highlighted by Biograph."
   },
   {
-   "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/15837947/avenda-avenda-health-adds-intraoperative-surgery-mode-to-unfold-ai",
+   "title": "Optellum integrates lung nodule AI with RapidAI platform",
+   "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/15837958/rapidai-optellum-integrates-lung-nodule-ai-with-rapidai-platform",
    "source": "AuntMinnie",
    "category": "medicine",
-   "published_iso": "2026-10-20T20:51:49Z",
+   "published_iso": "2026-10-20T19:37:57Z",
+   "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/logo-rgb-web-rapidai-7.CwhxFrdfF7.png?auto=format%2Ccompress&q=70&w=800",
+   "excerpt": "Optellum's Virtual Nodule Clinic, with Patient Discovery AI and tools for tracking and follow-up of lung nodule patients, is now integrated into the RapidAI platform used by hospitals."
+  },
+  {
+   "title": "Does AI-Powered Clinical Documentation Enhance Clinician Efficiency? A Longitudinal Study",
+   "url": "https://ai.nejm.org/doi/full/10.1056/AIx2601335",
+   "source": "NEJM AI",
+   "category": "medicine",
+   "published_iso": "2026-10-23T14:00:16Z",
    "og_image": "",
-   "excerpt": "Avenda Health adds an intraoperative Surgery Mode to its Unfold AI prostate cancer mapping platform."
+   "excerpt": "Longitudinal study in NEJM AI tests whether AI-powered ambient clinical documentation actually improves clinician efficiency over time (Crossref created 2026-10-23)."
+  },
+  {
+   "title": "AI-Assisted Molecular Review Refines SMO Inhibitor Candidacy in SHH Medulloblastoma",
+   "url": "https://ai.nejm.org/doi/full/10.1056/AIcs2600997",
+   "source": "NEJM AI",
+   "category": "medicine",
+   "published_iso": "2026-10-16T14:00:33Z",
+   "og_image": "",
+   "excerpt": "NEJM AI case study: an AI-assisted molecular review of a SHH-subtype medulloblastoma patient refined whether the patient was a candidate for SMO-inhibitor therapy."
+  },
+  {
+   "title": "Automation Bias and the Erosion of Physicians’ Cognitive Sovereignty",
+   "url": "https://ai.nejm.org/doi/full/10.1056/AIltr2600987",
+   "source": "NEJM AI",
+   "category": "medicine",
+   "published_iso": "2026-10-22T13:14:54Z",
+   "og_image": "",
+   "excerpt": "Correspondence warns that automation bias is eroding physicians' 'cognitive sovereignty' as AI-assisted diagnosis spreads."
+  },
+  {
+   "title": "Clinician Use of an Artificial Intelligence–Enabled Clinical Information Platform",
+   "url": "https://jamanetwork.com/journals/jama/fullarticle/10.1001/jama.2026.21868",
+   "source": "JAMA",
+   "category": "medicine",
+   "published_iso": "2026-10-15T16:30:18Z",
+   "og_image": "",
+   "excerpt": "JAMA study characterizes how clinicians actually use an AI-enabled clinical information platform (OpenEvidence): distribution of use across the clinical workforce and the purpose of submitted queries."
+  },
+  {
+   "title": "Balancing Timely Access and Human Oversight in Patient-Facing Artificial Intelligence—Waiting for the Human in the Loop",
+   "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.39080",
+   "source": "JAMA Network Open",
+   "category": "medicine",
+   "published_iso": "2026-10-14T15:00:29Z",
+   "og_image": "",
+   "excerpt": "JAMA Network Open commentary weighs how long patients should wait for human clinician review of patient-facing AI outputs versus getting immediate AI answers."
   }
  ]
 }

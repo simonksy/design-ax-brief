@@ -1,29 +1,7 @@
-{
- "media": [
-  {
-   "id": "science-ai2-litpivot",
-   "type": "image",
-   "src": "pipeline/media/science-ai2-litpivot.png"
-  },
-  {
-   "id": "science-epfl-logsync-brain-chip",
-   "type": "image",
-   "src": "pipeline/media/science-epfl-logsync-brain-chip.jpg"
-  },
-  {
-   "id": "science-perturbai-openai-reasoning-agents",
-   "type": "image",
-   "src": "pipeline/media/science-perturbai-openai-reasoning-agents.jpg"
-  },
-  {
-   "id": "science-ai2-olmoearth-v1-3",
-   "type": "image",
-   "src": "pipeline/media/science-ai2-olmoearth-v1-3.png"
-  },
-  {
-   "id": "science-chalmers-llm-political-audit",
-   "type": "image",
-   "src": "pipeline/media/science-chalmers-llm-political-audit.jpg"
-  }
- ]
-}
+{"date":"2026-10-26","section":"science","media":[
+{"id":"science-llm-agent-camps","type":"image","src":"pipeline/media/science-llm-agent-camps.jpg"},
+{"id":"science-seeqc-ising-decoder","type":"image","src":"pipeline/media/science-seeqc-ising-decoder.jpg"},
+{"id":"science-circmac-mirna","type":"image","src":"pipeline/media/science-circmac-mirna.jpg"},
+{"id":"science-blind-ai-eyes","type":"image","src":"pipeline/media/science-blind-ai-eyes.jpg"},
+{"id":"science-diffusion-assoc-memory","type":"image","src":"pipeline/media/science-diffusion-assoc-memory.jpg"}
+]}

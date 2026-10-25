@@ -1,96 +1,101 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "section": "music",
   "picks": [
     {
-      "title": "Elvis Presley Rightsholders Sue Anthropic for Training on 274 Songs Without Permission",
-      "url": "https://www.rollingstone.com/music/music-news/elvis-presley-rightsholders-anthropic-lawsuit-infringement-1235647682/",
-      "source": "Rolling Stone",
+      "title": "‘Spotify is now an agent’ – Co-CEO outlines company’s AI plan",
+      "url": "https://musically.com/2026/10/23/spotify-is-now-an-agent-co-ceo-outlines-companys-ai-plan/",
+      "source": "Music Ally",
+      "category": "music",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "rationale": "New lawsuit: the Presley rightsholders, a plaintiff not seen before in this section, sue Anthropic over training on 274 named songs. It adds a major catalog owner to the AI-training litigation front.",
-      "published_iso": "2026-10-24T18:28:26+00:00",
-      "og_image": "https://www.rollingstone.com/wp-content/uploads/2026/10/GettyImages-151373495.jpg?w=1600&h=900&crop=1",
-      "excerpt": "The owners of Elvis Presley's music have sued AI company Anthropic, accusing it of training its models on 274 Presley songs without permission."
+      "rationale": "New strategy statement: Spotify's co-CEO says the service will be the music layer that personal agents (Muse, Dots, Claude Duet) call on. That is broader than the single Muse integration covered 9-27.",
+      "published_iso": "2026-10-23T11:30:00+00:00",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-23T115515.907.png?fit=2000%2C1500&ssl=1",
+      "excerpt": "Following the launches of personal agents such as Meta's Muse, OpenAI's Dots and Anthropic's Claude Duet, Spotify's co-CEO laid out how the service plans to become the music layer AI agents call on."
     },
     {
-      "title": "Making a track with DEATHPIXIE and Suno | In The Cut",
-      "url": "https://www.youtube.com/watch?v=Mw95nxzYP4E",
-      "source": "Suno (YouTube)",
+      "title": "[단독] 'AI 음악' 저작권 신청 1년새 500% 급증…기준 미비에 전부 '미등록'",
+      "url": "https://news.tf.co.kr/read/ptoday/2378150.htm",
+      "source": "더팩트",
+      "category": "music",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "New Suno showcase: a studio writing camp builds tracks for the virtual rapper Death Pixie, showing a team songwriting workflow around Suno that producers can copy.",
-      "published_iso": "2026-10-23T11:22:20-07:00",
-      "og_image": "https://i.ytimg.com/vi/Mw95nxzYP4E/maxresdefault.jpg",
-      "excerpt": "Suno visits Glenwood Studios in Los Angeles for the Death Pixie writing camp, showing how a team builds tracks for a virtual rapper character using Suno."
+      "rationale": "New data: AI-assisted song filings at KOMCA rose from 133 to 759 in a year, and all 892 applications are still unregistered because there is no standard for human contribution. This matters to anyone releasing AI-assisted tracks in Korea.",
+      "published_iso": "2026-10-20T00:01:02+09:00",
+      "og_image": "https://img.tf.co.kr/article/home/2026/10/19/20262121179241237300.jpg",
+      "excerpt": "Copyright filings for AI-assisted songs at KOMCA rose from 133 to 759 in a year, but all 892 applications remain unregistered because there is no standard for judging human creative contribution."
     },
     {
-      "title": "MuLaCover: Flexible Cover Song Generation via Symbolic Tonal Control",
-      "url": "https://arxiv.org/abs/2610.26684",
-      "source": "arXiv",
-      "tool": "Music",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "rationale": "New research: MuLaCover holds melody and chords fixed while a pretrained music language model changes style and instrumentation. That gives explicit control over AI cover and re-arrangement work.",
-      "published_iso": "2026-10-19T16:31:09+00:00",
-      "og_image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "excerpt": "A cover-song generation method for pretrained music language models: it explicitly controls tonal content (melody and chords) while reshaping other musical attributes such as style and instrumentation."
-    },
-    {
-      "title": "Suno v. MLC Subpoena Dispute Boils Over as AI Platform Demands Multiple Years of DSP-Specific Streaming Data",
-      "url": "https://www.digitalmusicnews.com/2026/10/22/suno-mlc-subpoena/",
-      "source": "Digital Music News",
+      "title": "AI 음악 기술 '뉴튠', 오디오비주얼 에이전트 DJ '탈' ADE 2026서 첫 공개",
+      "url": "https://wowtale.net/2026/10/19/266499/",
+      "source": "와우테일",
+      "category": "music",
       "tool": "Music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "New legal front: Suno's subpoena fight with the Mechanical Licensing Collective, in which Suno demands years of DSP-level streaming data. This is a separate proceeding from the label suits already covered.",
-      "published_iso": "2026-10-23T06:00:24+00:00",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2024/01/the-mlc-announces-audits-major-dsps-feat.jpeg",
-      "excerpt": "After months of back and forth, a subpoena dispute has boiled over between Suno and the Mechanical Licensing Collective, with Suno demanding years of DSP-specific streaming data."
+      "rationale": "New unveiling: Neutune showed 'Tal', an audiovisual AI agent DJ backed by KOCCA, at Amsterdam Dance Event 2026. It is an early live-performance use of agentic AI.",
+      "published_iso": "2026-10-19T09:14:53+09:00",
+      "og_image": "https://cdn.wowtale.net/wp-content/uploads/2026/10/neutune-20261018-article-3dde75.jpg",
+      "excerpt": "Korean AI music company Neutune unveiled 'Tal', an audiovisual AI agent DJ project backed by KOCCA's AI content programme, at Amsterdam Dance Event 2026."
     },
     {
-      "title": "MQAScore: Fine-Grained Text-Music Alignment Evaluation via Large Audio Language Model",
-      "url": "https://arxiv.org/abs/2610.31083",
+      "title": "Controllable Mono-to-Stereo Upmixing using Reward-tilted Flows",
+      "url": "https://arxiv.org/abs/2610.15967",
       "source": "arXiv",
+      "category": "music",
       "tool": "Music",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "New research: MQAScore checks each musical concept in a prompt one at a time, so it shows which requested attributes a text-to-music output missed. A single similarity score cannot do that.",
-      "published_iso": "2026-10-22T10:56:25+00:00",
-      "og_image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
-      "excerpt": "Instead of one global text-audio similarity score, MQAScore uses a large audio language model to check each atomic musical concept in a prompt, showing which attributes a text-to-music output is missing."
+      "rationale": "New research: a flow-matching upmixer turns mono recordings into realistic stereo, and reward tilting lets the engineer steer the stereo image. Directly useful for restoration and remix work.",
+      "published_iso": "2026-10-11T22:46:32+00:00",
+      "og_image": "",
+      "excerpt": "A flow-matching upmixer that generates realistic stereo from single-channel recordings, with reward tilting to give engineers control over the resulting stereo image."
+    },
+    {
+      "title": "FLOMSS: Generative Music Source Separation by Flow Matching",
+      "url": "https://arxiv.org/abs/2610.17821",
+      "source": "arXiv",
+      "category": "music",
+      "tool": "Music",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "rationale": "New research: a systematic study of flow matching as a generative alternative to the discriminative separators behind today's stem splitters, run on full-band four-stem audio. The model is the whole story, and it points to where stem-splitting tools could go next.",
+      "published_iso": "2026-10-13T06:43:47+00:00",
+      "og_image": "",
+      "excerpt": "A systematic study of flow matching as a generative approach to four-stem music source separation (vocals, bass, drums, other) on full-band audio, an alternative to the discriminative separators behind today's stem splitters."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.rollingstone.com/music/music-news/elvis-presley-rightsholders-anthropic-lawsuit-infringement-1235647682/": {
+      "https://musically.com/2026/10/23/spotify-is-now-an-agent-co-ceo-outlines-companys-ai-plan/": {
         "verdict": "new",
-        "nearest": "https://www.digitalmusicnews.com/2026/10/22/reservoir-media-suno-anthropic-lawsuit/",
+        "nearest": "https://www.musicbusinessworldwide.com/spotify-has-set-out-how-it-works-inside-muse-metas-personal-ai-agent/",
         "new_action": ""
       },
-      "https://www.youtube.com/watch?v=Mw95nxzYP4E": {
+      "https://news.tf.co.kr/read/ptoday/2378150.htm": {
         "verdict": "new",
-        "nearest": "https://www.youtube.com/watch?v=F0vEAbzFLzk",
+        "nearest": "https://isplus.com/article/view/isp202610020003",
         "new_action": ""
       },
-      "https://arxiv.org/abs/2610.26684": {
+      "https://wowtale.net/2026/10/19/266499/": {
+        "verdict": "new",
+        "nearest": "https://www.hypebot.com/the-next-music-economy-will-run-on-autonomous-ai-agents/",
+        "new_action": ""
+      },
+      "https://arxiv.org/abs/2610.15967": {
         "verdict": "new",
         "nearest": "https://arxiv.org/abs/2610.31510",
         "new_action": ""
       },
-      "https://www.digitalmusicnews.com/2026/10/22/suno-mlc-subpoena/": {
+      "https://arxiv.org/abs/2610.17821": {
         "verdict": "new",
-        "nearest": "https://www.musicbusinessworldwide.com/sony-and-universal-ask-court-to-force-suno-investor-lightspeed-to-testify-about-the-legal-risk-of-training-data/",
-        "new_action": ""
-      },
-      "https://arxiv.org/abs/2610.31083": {
-        "verdict": "new",
-        "nearest": "https://arxiv.org/abs/2610.30783",
+        "nearest": "https://www.gearnews.com/line-6-releases-helix-stadium-guitar/",
         "new_action": ""
       }
     },
-    "note": "Clusters: c0 Elvis/Anthropic, kept Rolling Stone and dropped Billboard (same suit). c8 Death Pixie, kept the In The Cut workflow video and dropped 'Meet Death Pixie' (companion promo, same story). Elvis suit: a new filing by a new plaintiff, distinct from the 10-23 Reservoir suit and the 10-23 publishers' Claude-lyrics proceedings. Suno v. MLC: a separate proceeding from the UMG/Sony suit (10-20 Lightspeed, 10-24 Suno answer). Yesterday it was skipped only for diversity, so it was never published. Dropped as repeats or commentary: Billboard Spotify co-CEOs (talk about the remix tool already covered 10-21 via Hypebot), Gearnews 'humanity of instruments' and MusicTech 'stop sending vibecoded plugins' (opinion on the vibe-coded plugin theme covered 10-17 Attack, 10-18 BPB, 10-20 Verge). Not picked: DMN ICMP Australia (yesterday's curator ruled it part of the running Australian copyright-lobbying story next to the 10-07 ARIA card; kept consistent), Gearnews Fender Studio Pro 8.2 (AI angle is only an incremental stem-separation expansion; risk of a non-AI card), Billboard Latin Music Week panel (panel talk), Music Ally studies round-up (general AI jobs data, not music-specific), arXiv Sori (oldest item, 10-11; arXiv is already at its cap of 2). Diversity: 4 outlets (Rolling Stone, Suno YouTube, arXiv x2, DMN); 2 legal, 2 research, 1 creator workflow."
+    "note": "SWAP after fact-check: removed gearnews 'Fender Studio Pro 8.2' (https://www.gearnews.com/fender-studio-pro-daw/). The article never calls any 8.2 feature AI; AI only appears in an 8.1 recap, so it fails the AI-axis test. Backfill: arXiv FLOMSS (2610.17821), a generative flow-matching source-separation paper where AI is the whole story. It is not vendor PR and is not in /tmp/ax_claimed_1026.txt. No source-separation paper appears in the 30-day history_digest. The nearest items are the 10-18 Line 6 and 10-19 Zoom/Neko stem-separation hardware cards, which are different products and not this research. It was originally passed over only as a second arXiv item, and 2 per outlet is within the cap. Rejected for the swap: DMN Galaxy humanoid robots. The story is robot performers plus entertainment IP for a Halloween event, AI is incidental, and its history_match to the Korean Suno song is spurious, so AI does not make the story. Also rejected: NewDaily DetectX (vendor evaluation PR); DMN ICMP Australia (running Australian AI-lobbying story next to the 10-07 ARIA card); Billboard Latin Music Week panel (panel talk); Complex BABYQUEEN (gossip); Billboard Spotify co-CEOs on the remix tool (same as the 10-21 Hypebot card); AI Times '머무르' interview (same as the 10-18 Music Ally Suno track); MusicTech vibecoded plugins and gearnews 'humanity of instruments' (opinion on the vibe-coded plugin theme covered 10-17, 10-18 and 10-20). Diversity: 4 outlets (Music Ally, 더팩트, 와우테일, arXiv x2). Spread: 1 platform strategy, 1 copyright data, 1 live performance, 2 research (upmixing, source separation)."
   }
 }

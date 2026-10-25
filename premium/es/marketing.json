@@ -2281,6 +2281,120 @@
           "x": "Para evitarlo, puedes desconectar las apps de las funciones Personal Intelligence de Search o desactivar por completo Personalized Recommendations en la página de configuración Search Services Personalization."
         }
       ]
+    },
+    "marketing/marketing-bid-exploration-pmax": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://searchengineland.com/wp-content/seloads/2026/10/Google-Ads-Performance-Dashboard-1.png"
+        },
+        {
+          "t": "p",
+          "x": "Google Ads amplía Smart Bidding Exploration a las campañas de Performance Max y Shopping, lo que permite a los anunciantes buscar oportunidades de búsqueda adicionales mediante pujas Target ROAS. La función, disponible hasta ahora en campañas de Search, está pensada para captar más conversiones en búsquedas aptas que las estrategias de puja actuales podrían pasar por alto."
+        },
+        {
+          "t": "p",
+          "x": "En Performance Max, amplía las oportunidades de puja en el canal de Search al explorar búsquedas adicionales entre los términos aptos existentes. En Shopping, la exploración puede aplicarse al tráfico de Search y de Shopping cuando hay un feed de Merchant Center. Google ha publicado nueva documentación de ayuda para ambos casos."
+        },
+        {
+          "t": "p",
+          "x": "Requisitos: las campañas deben usar Target ROAS y no deben estar limitadas por presupuesto. Las estrategias de puja de cartera solo son compatibles con campañas de Search, y la función no está disponible en Search Ads 360 para campañas de Shopping ni de Performance Max para retail."
+        },
+        {
+          "t": "p",
+          "x": "La actualización no garantiza más conversiones ni un mejor ROAS. Los anunciantes deberían revisar los requisitos y vigilar el rendimiento antes de hacer cambios de puja más amplios."
+        }
+      ]
+    },
+    "marketing/marketing-ads-localize-10-languages": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/google-ads-ai-campaign-localization-10-languages-typewriter-speech-bubbles.jpg",
+          "cap": "Google Ads AI copia una campaña de Search en inglés a 10 idiomas, sin convertir los presupuestos"
+        },
+        {
+          "t": "p",
+          "x": "Los anunciantes de Google Ads ya tienen acceso a una herramienta de localización de campañas con AI que convierte una campaña de Search existente en inglés (US) en una campaña independiente en uno de otros 10 idiomas, según PPC News Feed, que informó de su disponibilidad el 23 de octubre de 2026. Traduce títulos, descripciones, enlaces de sitio, textos destacados y palabras clave, elimina el texto de las imágenes y ofrece un script que traduce las páginas de destino al instante. Está marcada como beta."
+        },
+        {
+          "t": "p",
+          "x": "\"Cuando localiza una campaña, el sistema crea una campaña nueva e independiente. Su campaña original nunca se modifica\", según la página de ayuda. Los presupuestos y las pujas se copian tal cual: \"un presupuesto de $100 USD se convierte en un presupuesto de $100 USD en la campaña localizada\". Las nuevas campañas se publican por defecto en estado de pausa (Paused)."
+        },
+        {
+          "t": "p",
+          "x": "Los idiomas de destino son neerlandés, francés, francés (Canadá), alemán, italiano, polaco, dos variantes de portugués y dos de español. La página prometía compatibilidad con Performance Max \"a partir de septiembre de 2026\", algo que ninguna de las dos fuentes confirma. Los clientes con verificación electoral (Election-verified) no pueden usarla."
+        }
+      ]
+    },
+    "marketing/marketing-samsung-tv-ad-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/EiDyWR9Yo8wN9DnMZqQdJ4-2560-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Reverse engineer and cybersecurity bounty hunter log4j recently found they were getting \"weirdly targeted ads\" on their 2025 Samsung TV. After reverse-engineering the Tizen OS, they live-tweeted code covering detailed user telemetry from packet logging, audio categorization, screenshots and cross-device identification for ad tracking."
+        },
+        {
+          "t": "p",
+          "x": "The hacker found a region-specific convolutional neural network (an AI) that tracks user behavior, such as what videos the user watches, which ads are skipped and video progress. For TVs without microphones, it reportedly finds connected devices such as a soundbar or Bluetooth device to record audio."
+        },
+        {
+          "t": "p",
+          "x": "Hugging Face engineer ngxson tested the microphone behavior and found the TV opened the microphone for five seconds, then stopped, though their TV was already rooted with settings disabled."
+        },
+        {
+          "t": "p",
+          "x": "log4j used OpenAI tools for the work and was banned for cyber abuse; they say they used them only for local reverse engineering. A full write-up is in progress."
+        }
+      ]
+    },
+    "marketing/marketing-china-ai-ad-blue-book": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d.cn.ibtimes.com/en/full/1824086/china-artificial-intelligence-digital-advertising-content-moderation.jpg",
+          "cap": "Un nuevo libro azul del sector en China propone una gobernanza integral de la publicidad AI-generated."
+        },
+        {
+          "t": "p",
+          "x": "El Libro Azul sobre la Gobernanza de la Publicidad en Internet en la Era AIGC se presentó el 24 de octubre durante el 33.º Festival Internacional de Publicidad de China, según una información de China News Service recogida por Eastmoney. Propone un marco que abarca la publicidad desde la creación y revisión de contenidos hasta las transacciones y la protección del consumidor posterior."
+        },
+        {
+          "t": "p",
+          "x": "Una recomendación central es usar sistemas de AI para detectar los riesgos creados por otros sistemas de AI: los modelos multimodales pueden analizar a la vez imágenes, texto y audio para detectar mensajes engañosos. Xiao Tao, de Ocean Engine, dijo que la revisión inteligente podría procesar el 90% de los materiales publicitarios en 10 minutos en el mejor de los casos, con una mejora de eficiencia del 75%."
+        },
+        {
+          "t": "p",
+          "x": "Los anunciantes siguen siendo responsables de la veracidad de sus afirmaciones, mientras que las plataformas mantienen salvaguardas frente a riesgos como los avales sintéticos fabricados. El libro azul es un conjunto de recomendaciones, no una nueva ley nacional vinculante."
+        }
+      ]
+    },
+    "marketing/marketing-pennsylvania-ai-ad-labels": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "El jueves, el gobernador de Pennsylvania, Josh Shapiro, promulgó la Artificial Intelligence Deceptive Advertising Act, que exige avisos en los anuncios AI-generated (generados por IA). La ley obliga a que cualquier anuncio —ya sea una imagen fija, un video, un audio o un texto— que “haya sido modificado significativamente o generado por inteligencia artificial” incluya una etiqueta en el mismo formato que el propio anuncio. Eso se aplica tanto a los comerciales de TV de empresas multi-billion-dollar (de miles de millones de dólares) como a los folletos feos y abarrotados de los restaurantes sobre sus ofertas de alitas."
+        },
+        {
+          "t": "p",
+          "x": "Pennsylvania es uno de los primeros estados en exigir avisos sobre contenido de AI (IA). Y exige esas etiquetas sin importar dónde se haya creado el anuncio. Así que podrían aparecer avisos en comerciales de otros estados si también está previsto que se emitan en Pennsylvania."
+        },
+        {
+          "t": "p",
+          "x": "Sin embargo, la ley deja muchos vacíos. Para empezar, qué se considera “modificado significativamente” es subjetivo. También hay una carve-out (excepción) para “parodia, sátira, comentario o crítica”, así como para todo lo que sea “evidentemente ficticio”. De nuevo, no está claro qué significa “evidentemente ficticio”. La redacción también sugiere que solo requeriría aviso el contenido que “usa contenido sintético de una manera que crea una percepción falsa en el consumidor” sobre un producto o servicio. Otra vez quedan dudas sobre qué se considera “falso” según la ley y quién toma esas decisiones."
+        },
+        {
+          "t": "p",
+          "x": "La oficina del senador estatal Nick Pisciottano, que presentó el proyecto de ley, no respondió de inmediato a una solicitud de comentarios."
+        }
+      ]
     }
   }
 }
