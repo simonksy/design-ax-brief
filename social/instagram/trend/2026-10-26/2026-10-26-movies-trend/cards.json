@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "issue": "AI 제작, 장편과 시리즈로",
+    "date": "2026.10.26",
+    "section": "MOVIES",
+    "accent": "#7928ca",
+    "note": "세로 드라마에서 시작한 완전 AI 제작이 엿새 새 극장 장편, 서사시 시리즈, 해외 신화 IP로 번졌다.",
+    "sources": [
+      "https://www.hollywoodreporter.com/business/digital/ai-generated-microdramas-two-thirds-all-releases-1236735402/",
+      "https://www.globaltimes.cn/page/202610/1372724.shtml",
+      "https://variety.com/2026/film/news/elon-musks-grok-ai-generated-odyssey-1236930662/",
+      "https://variety.com/2026/tv/news/ai-india-mahabharat-series-indonesian-myth-1236930485/"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 영화 · 10.21~10.26",
+      "thread": [
+        {
+          "d": "10.21",
+          "t": "세로드라마",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.23",
+          "t": "첫 장편",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.26",
+          "t": "오디세이",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.26",
+          "t": "신화 IP",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        }
+      ],
+      "thread_note": "AI 제작이 짧은 영상에서 긴 이야기로 올라온다",
+      "eyebrow": "흐름 · 영화",
+      "headline": "AI 제작, 길이를 늘리다",
+      "body": "한 편만 보면 실험작이지만, 세로 드라마에서 장편·시리즈까지 같은 주에 줄지어 나왔다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.10.21",
+      "headline": "세로 드라마는 이미 AI로",
+      "body": "중국 밖 세로형 드라마 신작 가운데 AI 제작 비중이 첫 분기 3%에서 3분기 삼분의 이로 늘었다.",
+      "foot": "2026.10.21",
+      "_src": "https://www.hollywoodreporter.com/business/digital/ai-generated-microdramas-two-thirds-all-releases-1236735402/",
+      "_id": "movies-microdramas-ai-two-thirds",
+      "stat_top": "1분기 3%",
+      "stat_arrow": "3분기 중국 밖 신작의",
+      "stat_bottom": "삼분의 이",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.10.23",
+      "headline": "첫 all-AI 장편, 극장에",
+      "body": "Bona의 Sanxingdui는 2년 넘게 개발하며 영화 전체를 100차례 넘게 다시 만들고 극장에 걸렸다.",
+      "foot": "2026.10.23",
+      "_src": "https://www.globaltimes.cn/page/202610/1372724.shtml",
+      "_id": "movies-sanxingdui-ai-feature",
+      "stat_top": "예비 이미지",
+      "stat_arrow": "2년 넘게 생성한 장수",
+      "stat_bottom": "120만 장+",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.26",
+      "headline": "Grok 오디세이, 첫 화",
+      "body": "머스크가 약속한 AI 장편은 7분짜리 첫 에피소드로 X에 올라왔다. 제작은 Wonder Studios.",
+      "foot": "2026.10.26",
+      "_src": "https://variety.com/2026/film/news/elon-musks-grok-ai-generated-odyssey-1236930662/",
+      "_id": "movies-grok-odyssey-episode",
+      "media": "pipeline/media/movies-grok-odyssey-episode.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.26",
+      "headline": "AI 신화, 국경을 넘다",
+      "body": "마하바라트 시리즈를 만든 Galleri5 기술이 인도네시아 신화로 영화·시리즈를 만든다.",
+      "foot": "2026.10.26",
+      "_src": "https://variety.com/2026/tv/news/ai-india-mahabharat-series-indonesian-myth-1236930485/",
+      "_id": "movies-mahabharat-indonesia-myth",
+      "media": "pipeline/media/movies-mahabharat-indonesia-myth.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

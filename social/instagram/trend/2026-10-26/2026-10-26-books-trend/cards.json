@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "issue": "AI 소설, 숨기면 퇴출 밝히면 진열",
+    "date": "2026.10.26",
+    "section": "BOOKS",
+    "accent": "#f5a623",
+    "note": "상, 출판사, 자비출판, 다작 작가, 서점이 차례로 보여 주듯 AI 책의 운명을 가르는 건 AI를 썼느냐보다 밝혔느냐다.",
+    "sources": [
+      "https://www.thebookseller.com/news/new-literary-prize-prix-pascal-launches-in-france-for-manuscripts-written-with-ai",
+      "https://www.cbc.ca/news/canada/montreal/quebec-authour-ai-scandal-thelyson-orelien-9.7390119",
+      "https://www.abc.net.au/news/2026-10-25/patrick-white-publishing-authors-unhappy-service-ai-art/107255794",
+      "https://www.timesnownews.com/lifestyle/books/370-books-in-20-months-has-made-this-author-famous-for-all-the-wrong-reasons-article-156391358",
+      "https://www.lrb.co.uk/blog/2026/october/write-a-novel-in-thirty-days"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 책 · 10.21~10.26",
+      "thread": [
+        {
+          "d": "10.21",
+          "t": "공개해야 상",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "10.22",
+          "t": "부인 끝 결별",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "10.25",
+          "t": "계약서엔 없음",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "10.25",
+          "t": "370권 공개",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "10.26",
+          "t": "표시면 진열",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        }
+      ],
+      "thread_note": "AI 책의 운명을 가르는 건 썼느냐보다 밝혔느냐다",
+      "eyebrow": "흐름 · 책",
+      "headline": "썼느냐보다 밝혔느냐",
+      "body": "상을 주는 곳도, 작가를 내치는 곳도 따로 보면 제각각이다. 이어 보면 기준은 하나, AI를 밝혔느냐다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.21",
+      "headline": "밝히면 상을 준다",
+      "body": "프랑스 문학상 Prix Pascal이 AI로 쓴 원고에 상을 준다. 조건은 하나, 쓴 도구와 방법을 공개하는 것이다.",
+      "foot": "2026.10.21",
+      "_src": "https://www.thebookseller.com/news/new-literary-prize-prix-pascal-launches-in-france-for-manuscripts-written-with-ai",
+      "_id": "books-prix-pascal-ai-manuscripts",
+      "media": "pipeline/media/books-prix-pascal-ai-manuscripts.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.22",
+      "headline": "부인했다가 결별",
+      "body": "Orélien은 AI를 안 썼다고 거듭 밝혔다. Boréal은 작업 파일 메타데이터에서 AI 흔적을 찾고 \"결국 신뢰\"라며 관계를 끊었다.",
+      "foot": "2026.10.22",
+      "_src": "https://www.cbc.ca/news/canada/montreal/quebec-authour-ai-scandal-thelyson-orelien-9.7390119",
+      "_id": "books-boreal-orelien",
+      "media": "pipeline/media/books-boreal-orelien.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.25",
+      "headline": "계약서엔 없던 AI 그림",
+      "body": "자비출판사가 작가들에게 AI 삽화 값을 받았다. 표지에선 OpenAI·Gemini 워터마크가 나왔지만 계약서엔 AI 언급이 없었다.",
+      "foot": "2026.10.25",
+      "_src": "https://www.abc.net.au/news/2026-10-25/patrick-white-publishing-authors-unhappy-service-ai-art/107255794",
+      "_id": "books-patrick-white-publishing",
+      "media": "pipeline/media/books-patrick-white-publishing.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.25",
+      "headline": "대놓고 370권",
+      "body": "Coral Hart는 2025년 2월부터 AI로 370권 넘게 냈다고 밝혔다. 혐오 메시지를 받으면서도 판단은 독자 몫이라 한다.",
+      "foot": "2026.10.25",
+      "_src": "https://www.timesnownews.com/lifestyle/books/370-books-in-20-months-has-made-this-author-famous-for-all-the-wrong-reasons-article-156391358",
+      "_id": "books-coral-hart-370-ai-books",
+      "media": "pipeline/media/books-coral-hart-370-ai-books.jpg"
+    },
+    {
+      "n": 6,
+      "kind": "quote",
+      "eyebrow": "2026.10.26",
+      "headline": "표시하면 진열대로",
+      "body": "한 서점 사장은 수요가 분명하고 표시만 명확하면 AI 소설도 팔겠다고 했다. 손님 반응은 갈린다.",
+      "foot": "2026.10.26",
+      "_src": "https://www.lrb.co.uk/blog/2026/october/write-a-novel-in-thirty-days",
+      "_id": "books-lrb-shelf-ai-novels",
+      "quote": "차이를\n모르겠다",
+      "quote_by": "AI 소설에 어깨를 으쓱한 서점 손님들"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

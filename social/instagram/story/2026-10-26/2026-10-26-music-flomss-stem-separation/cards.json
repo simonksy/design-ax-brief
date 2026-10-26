@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "issue": "플로 매칭이 도전한 네 스템 음원 분리",
+    "date": "2026.10.26",
+    "section": "MUSIC",
+    "accent": "#eb367f",
+    "note": "자동 초안. 썸네일은 초안이라 겹친다 — 올리기로 정하면 원문을 받아 숫자를 확인하고 글을 다시 쓰면서 stat·quote 로 장을 세운다.",
+    "sources": [
+      "https://arxiv.org/abs/2610.17821"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "eyebrow": "AI × 음악 · 2026.10.26",
+      "headline": "플로 매칭이 도전한 네 스템 음원 분리",
+      "body": "논문 「FLOMSS: Generative Music Source Separation by Flow Matching」이 2026년…",
+      "foot": "밀어서 보기 →",
+      "media": "pipeline/media/music-flomss-stem-separation.jpg",
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "무슨 일인가",
+      "headline": "플로 매칭이 도전한 네 스템 음원 분리",
+      "body": "음악 음원 분리(MSS)는 그동안 판별 기법이 주로 맡아 왔다. 플로 매칭이 강력한 생성 패러다임으로 떠오르자 저자들은 풀밴드…",
+      "foot": "2026.10.26",
+      "media": "pipeline/media/music-flomss-stem-separation.jpg",
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "어떻게 되는가",
+      "headline": "플로 매칭이 도전한 네 스템 음원 분리",
+      "body": "저자들은 예측 대상, 플로 경로, 단일 음원 대 다중 음원 모델링, 믹스처 일관성 제약을 검토했다. 평가에는 신호 대 왜곡비뿐 아니라…",
+      "foot": "2026.10.26",
+      "media": "pipeline/media/music-flomss-stem-separation.jpg",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "짚을 대목",
+      "headline": "플로 매칭이 도전한 네 스템 음원 분리",
+      "body": "MUSDB18-HQ에서 FLOMSS는 스펙트럼·임베딩 기반 지표에서 기존 생성 기법과 같은 백본의 판별 베이스라인을 앞섰다. 강력한…",
+      "foot": "2026.10.26",
+      "media": "pipeline/media/music-flomss-stem-separation.jpg",
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "그래서 지금",
+      "headline": "플로 매칭이 도전한 네 스템 음원 분리",
+      "body": "저자들은 생성형 MSS에 분포와 재구성 사이의 트레이드오프가 있음을 확인했다. FLOMSS는 오픈소스 프레임워크로 내놓되 코드는…",
+      "foot": "2026.10.26",
+      "media": "pipeline/media/music-flomss-stem-separation.jpg",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

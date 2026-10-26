@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "issue": "AI가 연 디컴파일 붐",
+    "date": "2026.10.26",
+    "section": "GAMES",
+    "accent": "#2ec5c5",
+    "note": "AI 코딩 도구로 콘솔을 뚫고 옛 게임 코드를 뜯는 일이 쉬워지자, 도구를 만든 회사들이 막아서기 시작했다",
+    "sources": [
+      "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
+      "https://kotaku.com/of-course-pokemons-been-pulled-into-the-ai-decompilation-frenzy-2000748316",
+      "https://www.thegamer.com/claude-openai-update-browser-ports-recomps-harder/"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "3건 · 게임 · 10.23~10.26",
+      "thread": [
+        {
+          "d": "10.23",
+          "t": "콘솔 탈옥",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "10.25",
+          "t": "이식판 붐",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "10.26",
+          "t": "모델 단속",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        }
+      ],
+      "thread_note": "AI가 게임 리버스 엔지니어링을 누구나의 일로 만들자 모델 회사가 막아섰다",
+      "eyebrow": "흐름 · 게임",
+      "headline": "뜯기 쉬워지자 막았다",
+      "body": "탈옥 한 건, 이식판 한 건은 팬 소식 같지만, 이어 보면 AI로 터진 디컴파일 붐을 모델 회사가 직접 끄는 흐름이다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.23",
+      "headline": "Codex로 뚫은 Switch 2",
+      "body": "pepsipu는 OpenAI Codex의 도움으로 SmileBASIC 4를 쓰는 Switch 2 탈옥 ns2jb를 만들었다고 했다.",
+      "foot": "2026.10.23",
+      "_src": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
+      "_id": "games-switch2-ai-jailbreak",
+      "media": "pipeline/media/games-switch2-ai-jailbreak.png"
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.10.25",
+      "headline": "Pokémon 이식판이 쏟아졌다",
+      "body": "AI 디컴파일 열풍에 Pokémon Snap 등이 이식판으로 나왔다. 오래 손봐 온 이들은 공동체가 무너졌다고 본다.",
+      "foot": "2026.10.25",
+      "_src": "https://kotaku.com/of-course-pokemons-been-pulled-into-the-ai-decompilation-frenzy-2000748316",
+      "_id": "games-pokemon-ai-decomp",
+      "quote": "예전엔 커뮤니티 전체가\n축하하던\n대형 릴리스",
+      "quote_by": "한 Reddit 사용자 · 리컴파일에 대해"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.26",
+      "headline": "모델 회사가 막아섰다",
+      "body": "Anthropic은 분류기로 REA 자동 디컴파일을 막고, OpenAI는 \"Cyber Abuse\"를 이유로 계정을 정지했다.",
+      "foot": "2026.10.26",
+      "_src": "https://www.thegamer.com/claude-openai-update-browser-ports-recomps-harder/",
+      "_id": "games-decomp-clampdown",
+      "media": "pipeline/media/games-decomp-clampdown.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 5
+    }
+  ]
+}
