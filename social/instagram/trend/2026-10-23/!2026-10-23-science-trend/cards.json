@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "issue": "양자 연구에 들어온 AI",
+    "date": "2026.10.23",
+    "section": "SCIENCE",
+    "accent": "#3aa655",
+    "note": "원문 3건 대조: 날짜를 기사 게시일로 바로잡음(TQI 10.15·10.17, Physics World 10.21), 시간순으로 2·3장 교체, 수치(510만→약 44만 Toffoli, 3분→2.8초, 97~100점) 원문 일치 확인.",
+    "sources": [
+      "The Quantum Insider — Riverlane and NVIDIA Use AI to Speed Up Quantum Decoder Calibration (2026.10.15)",
+      "The Quantum Insider — Anthropic’s Claude Designs Leaner Quantum Circuits, Reducing Resources Needed for Key Calculations (2026.10.17)",
+      "Physics World — Using AI agents to run quantum simulations (2026.10.21)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "3건 · 과학 · 10.15~10.21",
+      "thread": [
+        {
+          "d": "10.15",
+          "t": "디코더 보정",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.17",
+          "t": "회로 설계",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.21",
+          "t": "시뮬레이션",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        }
+      ],
+      "thread_note": "양자 연구의 보정·설계·계산을 AI가 하나씩 맡아 간다. 판단은 아직 사람 몫이다",
+      "eyebrow": "흐름 · 과학",
+      "headline": "양자 연구, 단계마다 AI가",
+      "body": "하나씩 보면 각자의 도구다. 이어 보면 오류 정정을 맞추고, 회로를 짜고, 시뮬레이션을 돌리는 일이 차례로 AI에게 간다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.15",
+      "headline": "디코더 보정, 3분에서 2.8초로",
+      "body": "Riverlane의 AI 보정 루프를 NVIDIA H100 GPU에 올리자 단일 CPU 코어로 3분 걸리던 학습 주기가 2.8초로 줄었다.",
+      "foot": "2026.10.15",
+      "_src": "https://thequantuminsider.com/2026/10/15/riverlane-nvidia-ai-quantum-decoder-calibration/",
+      "_id": "science-riverlane-nvidia-decoder",
+      "media": "pipeline/media/science-riverlane-nvidia-decoder.png"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.10.17",
+      "headline": "Claude가 양자 회로를 줄였다",
+      "body": "한 디코딩 회로의 Toffoli 게이트 수다. 여덟 과제 중 일곱에서 자원을 줄였지만, 실기 시연이 아닌 추정이고 심사 전이다.",
+      "foot": "2026.10.17",
+      "_src": "https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations/",
+      "_id": "science-claude-quantum-circuits",
+      "stat_top": "510만 개",
+      "stat_arrow": "Claude가 다시 설계하니",
+      "stat_bottom": "약 44만 개"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.21",
+      "headline": "계산은 맡겨도 판단은 사람이",
+      "body": "El Agente Cuántico는 전문가 평가 97~100점을 받았지만 일부 실행은 지시를 벗어났다. 저자들은 판단을 거드는 도구라 했다.",
+      "foot": "2026.10.21",
+      "_src": "https://physicsworld.com/a/using-ai-agents-to-run-quantum-simulations/",
+      "_id": "science-quantum-sim-agents",
+      "media": "pipeline/media/science-quantum-sim-agents.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 5
+    }
+  ]
+}

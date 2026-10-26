@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "issue": "Claude Duet, 먼저 말을 거는 AI 에이전트",
+    "date": "2026.10.21",
+    "section": "DESIGN",
+    "accent": "#0070f3",
+    "note": "The Verge(Jay Peters, 2026.10.21 19:53 UTC) 원문 대조. 아침 브리프·작업 범위·승인 절차·'초기 버전' 인용은 Verge가 옮긴 Anthropic 설명이라 quote_by를 Anthropic으로 돌렸다. 초안은 날짜를 브리프 날짜(10.24)로 적었는데 기사 발행일 10.21로 고쳤다. 영상은 기사에 임베드된 Anthropic 공식 'Introducing Claude Duet'(YouTube Fb-68zqcSVs, 2026.10.21 업로드) 앞 60초를 src/duet.mp4로 잘라 장마다 다른 구간(1·8·22·45초)을 쓴다. 워터마크 없음. 5번은 인용 카드.",
+    "sources": [
+      "The Verge — Anthropic takes on Muse with Claude Duet, its new AI agent (2026.10.21)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "eyebrow": "AI × 디자인 · 2026.10.21",
+      "headline": "AI가 먼저 말을 건다",
+      "body": "Anthropic이 새 AI 에이전트 Claude Duet을 공개했다. 시키기 전에 먼저 챙겨 주는 쪽이다.",
+      "foot": "밀어서 보기 →",
+      "video": "src/duet.mp4",
+      "start": 1,
+      "dur": 4,
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "무슨 일인가",
+      "headline": "Muse·Dots에 맞선 Duet",
+      "body": "전문직과 소상공인을 겨냥한 리서치 프리뷰다. Claude Opus 5.5 기반으로 iOS·Android 앱과 웹에서 쓴다.",
+      "foot": "2026.10.21",
+      "video": "src/duet.mp4",
+      "start": 8,
+      "dur": 4,
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "어떻게 일하나",
+      "headline": "아침엔 브리프, 낮엔 필요할 때만",
+      "body": "연결된 앱을 지켜보다 챙길 일이 생기면 메시지를 보낸다. 회의 일정부터 대시보드, 매출 예측, 웹 앱까지 맡긴다.",
+      "foot": "2026.10.21",
+      "video": "src/duet.mp4",
+      "start": 22,
+      "dur": 8,
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "짚을 대목",
+      "headline": "결제 전엔 꼭 묻는다",
+      "body": "브라우저가 딸린 가상 머신으로 직접 일하지만, 결제나 삭제 앞에서는 승인을 구한다. 카드 번호 공유 요청은 거부한다.",
+      "foot": "2026.10.21",
+      "video": "src/duet.mp4",
+      "start": 45,
+      "dur": 8,
+      "n": 4
+    },
+    {
+      "kind": "quote",
+      "quote": "아직 스레드를 잘못 읽거나 무엇이 급한지 잘못 판단할 수 있다.",
+      "quote_by": "Anthropic · Claude Duet 발표",
+      "eyebrow": "그래서 지금",
+      "headline": "아직은 초기 버전",
+      "body": "대기자 명단은 열렸지만 미국 Pro·Max 구독자만 쓸 수 있다. 일은 맡기되 마지막 판단은 아직 사람 몫이다.",
+      "foot": "2026.10.21",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "issue": "Suno 소송, 증거를 캐는 싸움",
+    "date": "2026.10.25",
+    "section": "MUSIC",
+    "accent": "#eb367f",
+    "note": "날짜를 원문 게재일로 정정(MBW Lightspeed 10.19, MBW 답변서 10.22, DMN 10.22; 이전엔 수집일). 답변서 44쪽·10월 20일 제출·'모두 삭제하진 않음' 원문 확인. DMN: 2021년~현재 DSP 레이블별 월간 실적 데이터, 지난주 이행 강제 신청 확인. MBW 원문은 Cloudflare 차단, 답변서 기사는 Wayback으로 대조.",
+    "sources": [
+      "Music Business Worldwide — Sony and Universal ask court to force Suno investor Lightspeed to testify about the 'legal risk of training data' (2026.10.19)",
+      "Music Business Worldwide — Suno admits it has not deleted all the recordings used to train its AI (2026.10.22)",
+      "Digital Music News — Suno vs. MLC subpoena dispute (2026.10.22)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "3건 · 음악 · 10.19~10.22",
+      "thread": [
+        {
+          "d": "10.19",
+          "t": "Lightspeed",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "10.22",
+          "t": "음원 보관",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "10.22",
+          "t": "MLC 데이터",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        }
+      ],
+      "thread_note": "Suno 소송은 이제 누가 어떤 자료를 내놓느냐의 싸움이다",
+      "eyebrow": "흐름 · 음악",
+      "headline": "법정은 이제 자료를 캔다",
+      "body": "따로 보면 절차 공방이다. 이어 보면 레이블은 투자사 문서를, Suno는 스트리밍 데이터를 캐며 증거를 다툰다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "quote",
+      "eyebrow": "2026.10.19",
+      "headline": "레이블, 투자사 문서를 캔다",
+      "body": "UMG·Sony는 Suno의 Series B를 주도한 Lightspeed에 학습 데이터의 법적 위험을 두고 문서와 증언을 요구했다.",
+      "foot": "2026.10.19",
+      "_src": "https://www.musicbusinessworldwide.com/sony-and-universal-ask-court-to-force-suno-investor-lightspeed-to-testify-about-the-legal-risk-of-training-data/",
+      "_id": "music-suno-lightspeed-subpoena",
+      "quote": "자본을 조달하는 회사는\n투자자에게 법적 위험을\n솔직하고 상세하게 알린다",
+      "quote_by": "UMG·Sony 법원 서면"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.22",
+      "headline": "Suno, 학습 음원 보관 인정",
+      "body": "10월 20일 낸 44쪽 답변서에서 학습에 쓴 녹음을 모두 지우진 않았다고 인정했다. 레이블은 v6가 이 사본을 썼다고 본다.",
+      "foot": "2026.10.22",
+      "_src": "https://www.musicbusinessworldwide.com/suno-admits-it-has-not-deleted-all-the-recordings-used-to-train-its-ai-in-answer-to-umg-and-sonys-laundering-lawsuit/",
+      "_id": "music-suno-answer",
+      "media": "pipeline/media/music-suno-answer.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.22",
+      "headline": "Suno는 MLC 데이터를 캔다",
+      "body": "Suno는 MLC에 2021년부터의 DSP별 월간 실적을 요구했다. AI 음악이 로열티를 깎았다는 주장에 맞설 자료다.",
+      "foot": "2026.10.22",
+      "_src": "https://www.digitalmusicnews.com/2026/10/22/suno-mlc-subpoena/",
+      "_id": "music-suno-mlc-subpoena",
+      "media": "pipeline/media/music-suno-mlc-subpoena.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 5
+    }
+  ]
+}

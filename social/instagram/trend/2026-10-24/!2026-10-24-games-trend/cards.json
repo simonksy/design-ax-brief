@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "issue": "AI에 선 긋는 게임계",
+    "date": "2026.10.24",
+    "section": "GAMES",
+    "accent": "#2ec5c5",
+    "note": "원문 4건 대조: 카드 날짜를 기사 게재일로 정정(10.19 Game Developer·10.21 PC Gamer·10.22 Aftermath·10.23 RPS), 시간순 재배열, '이틀 새' 삭제, RPS 음성 교체(사람 성우) 반영",
+    "sources": [
+      "Game Developer — Moonlighter developer delays public playtest of next game over concerns of AI cloning (2026.10.19)",
+      "PC Gamer — Machinarium AI tribute cops a flogging from studio: 'This looks disgusting and has nothing to do with us or our craft' (2026.10.21)",
+      "Aftermath — SonicFox, Forever A Real One, Pulls Out Of Event That Used Gen AI (2026.10.22)",
+      "Rock Paper Shotgun — Future? No Thanks! dev removes AI-generated voices from game and offers refunds to players who feel \"betrayed\" (2026.10.23)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 게임 · 10.19~10.23",
+      "thread": [
+        {
+          "d": "10.19",
+          "t": "테스트 축소",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "10.21",
+          "t": "헌정 거부",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "10.22",
+          "t": "행사 하차",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "10.23",
+          "t": "음성 제거",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        }
+      ],
+      "thread_note": "개발사도 선수도 저마다의 방식으로 AI와 거리를 둔다",
+      "eyebrow": "흐름 · 게임",
+      "headline": "선을 긋는 쪽이 늘었다",
+      "body": "따로 보면 한 팀의 결정이다. 이어 보면 닷새 동안 축소·거부·하차·제거로 AI에 선을 그은 일이 네 번이다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.19",
+      "headline": "복제 걱정에 줄인 플레이테스트",
+      "body": "Moonlighter의 Digital Sun은 AI 복제가 걱정돼 ReVamp 공개 테스트를 미뤘다. 10월 29일부터 Discord에서만 연다.",
+      "foot": "2026.10.19",
+      "_src": "https://www.gamedeveloper.com/programming/moonlighter-developer-delays-public-playtest-of-next-game-over-concerns-of-ai-cloning",
+      "_id": "games-revamp-playtest",
+      "media": "pipeline/media/games-revamp-playtest.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.21",
+      "headline": "Amanita, AI 헌정작에 선 긋다",
+      "body": "Nura Studios CEO가 Machinarium AI 헌정 영상을 올리자 Amanita는 “러브레터는 손으로 써야 한다”고 받아쳤다.",
+      "foot": "2026.10.21",
+      "_src": "https://www.pcgamer.com/gaming-industry/machinarium-ai-tribute-cops-a-flogging-from-studio-this-looks-disgusting-and-has-nothing-to-do-with-us-or-our-craft/",
+      "_id": "games-machinarium-ai-tribute",
+      "media": "pipeline/media/games-machinarium-ai-tribute.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.10.22",
+      "headline": "SonicFox, Nexcon 하차",
+      "body": "Nexcon이 홍보에 AI 그림을 쓴 걸 알고 특별 게스트 계약을 끊었다. 주최 측이 사과했지만 뜻을 굽히지 않았다.",
+      "foot": "2026.10.22",
+      "_src": "https://aftermath.site/sonicfox-drops-out-nexcon-gen-ai/",
+      "_id": "games-sonicfox-nexcon",
+      "quote": "계약으로 내게 제안한 돈으로\n아티스트를 고용하라",
+      "quote_by": "Dominique “SonicFox” McLean"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.23",
+      "headline": "AI 음성 빼고 환불까지",
+      "body": "로봇 캐릭터 둘의 AI 음성을 사람 목소리로 바꿨다. 그래도 배신감이 남은 이에겐 돈을 돌려주겠다고 했다.",
+      "foot": "2026.10.23",
+      "_src": "https://www.rockpapershotgun.com/future-no-thanks-dev-removes-ai-generated-voices-from-game-and-offers-refunds-to-players-who-feel-betrayed",
+      "_id": "games-future-refunds",
+      "media": "pipeline/media/games-future-refunds.jpg"
+    },
+    {
+      "n": 6,
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": ""
+    }
+  ]
+}
