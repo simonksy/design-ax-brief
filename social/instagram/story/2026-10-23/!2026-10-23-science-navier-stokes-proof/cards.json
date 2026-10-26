@@ -1,0 +1,71 @@
+{
+ "meta": {
+  "issue": "OpenAI의 Navier-Stokes 증명, 누구의 길이었나",
+  "date": "2026.10.22",
+  "section": "SCIENCE",
+  "accent": "#3aa655",
+  "note": "Scientific American(Joseph Howlett, 2026.10.22 12:12 EDT 게재, 10.23 수정) 원문 대조. 'OpenAI가 증명' 대신 '풀었다고 발표(claimed)'로 썼다 — 원문 표현이 claimed이고, '모델이 맞는 답을 찾았다'는 판단은 SciAm의 정리로 돌렸다. Clay 상금 지급 여부는 원문에 없어 쓰지 않았다. Lean 검증은 Buckmaster·Alpöge의 Euler 증명(8.22)에 대한 것이며 OpenAI Navier-Stokes 증명의 Lean 검증은 원문에 없다. 8.15 Euler 폭발은 'Alpöge가 Buckmaster에게 Claude가 해냈다고 알림'. 두 사람 협업은 Anthropic 공식 작업이 아니라고 Buckmaster가 밝힘(Anthropic·OpenAI 모델 혼용). $15M은 'reported'. '독자적 경로'는 다른 전문가들의 판단 — Buckmaster는 새 아이디어를 인정하면서도 OpenAI가 자기 진전에 기댔다고 믿고, Euler 증명은 '우리 결과'라고 주장, OpenAI 대변인은 강하게 부인. Bubeck 직함은 원문 'lead scientist'. 초안 날짜 2026.10.23 → 기사 게재일 2026.10.22로 고침. 미디어: 표지는 기사 리드 이미지(pipeline/media, enricoRubicondo/Shutterstock), src/buckmaster.jpg는 기사 속 초상(Dan Komoda, IAS), src/lecture.jpg는 기사 속 N.Y.U. 강연 콜라주 — 위아래 검은 여백을 잘라냄. 기사에 영상 없음.",
+  "sources": [
+   "Scientific American — The inside story behind OpenAI’s million-dollar math proof (2026.10.22)"
+  ]
+ },
+ "cards": [
+  {
+   "kind": "cover",
+   "eyebrow": "AI × 과학 · 2026.10.22",
+   "headline": "100만 달러 난제, 누구의 증명인가",
+   "body": "9월 8일 OpenAI가 Navier-Stokes를 풀었다고 발표했다. 한 수학자가 자기 연구를 훔친 것 같다며 공개 비판한 직후였다.",
+   "foot": "밀어서 보기 →",
+   "media": "pipeline/media/science-navier-stokes-proof.jpg",
+   "n": 1
+  },
+  {
+   "kind": "photo",
+   "media": "src/buckmaster.jpg",
+   "eyebrow": "먼저 달린 쪽",
+   "headline": "두 수학자가 먼저 Euler를 깼다",
+   "body": "N.Y.U.의 Buckmaster와 Anthropic 직원 Alpöge가 AI로 Euler 방정식 폭발을 증명했다. 8월 22일 Lean 검증 통과.",
+   "foot": "2026.10.22",
+   "n": 2
+  },
+  {
+   "kind": "stat",
+   "stat_top": "에이전트 10,000개",
+   "stat_arrow": "들어간 컴퓨팅 비용(보도)",
+   "stat_bottom": "$15,000,000",
+   "stat_strike": false,
+   "eyebrow": "OpenAI의 반격",
+   "headline": "소문을 듣고 물량을 쏟았다",
+   "body": "9월 1일 새 내부 모델을 투입했다. 100개 분대가 Euler를 따로 풀었고, 1만 개 무리가 Navier-Stokes까지 갔다.",
+   "foot": "2026.10.22",
+   "n": 3
+  },
+  {
+   "kind": "photo",
+   "media": "src/lecture.jpg",
+   "eyebrow": "누구의 길인가",
+   "headline": "길은 달랐다, 다툼은 남았다",
+   "body": "다른 전문가들은 이 증명이 새 길을 냈다고 본다. Buckmaster는 OpenAI가 자기 성과에 기댔다고 믿고, OpenAI는 강하게 부인한다.",
+   "foot": "2026.10.22",
+   "n": 4
+  },
+  {
+   "kind": "quote",
+   "quote": "지금 해야 할 일은 AI 회사들이 애처럼 굴지 않게 만드는 겁니다.",
+   "quote_by": "Tristan Buckmaster · N.Y.U. 수학자",
+   "eyebrow": "그래서 지금",
+   "headline": "이해보다 증명이 빨랐다",
+   "body": "OpenAI의 Bubeck도 회사에 연구 수준의 유체역학 전문성은 없었다고 했다. 수학계는 아직 그 증명을 해독하는 중이다.",
+   "foot": "2026.10.22",
+   "n": 5
+  },
+  {
+   "kind": "outro",
+   "eyebrow": "매일 아침, AI가 바꾸는 현장",
+   "headline": "더 많은 소식은 axitnow.com",
+   "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+   "foot": "",
+   "n": 6
+  }
+ ]
+}

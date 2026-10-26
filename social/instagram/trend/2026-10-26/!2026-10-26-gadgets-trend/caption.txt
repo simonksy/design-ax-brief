@@ -1,0 +1,16 @@
+로컬 AI는 메모리 싸움
+
+큰 모델을 내 책상에서 돌리려는 시도가 GPU보다 메모리를 어떻게 늘리고 모으느냐로 모이고 있습니다.
+
+· 10.22 XDA — 전문가 레이어 28개를 RAM으로 빼자 8GB 노트북 GPU에서 35B 모델이 초당 4.02→32.82토큰
+· 10.22 Nvidia DGX Spark — 128GB 여덟 대를 ConnectX-7로 묶어 1TB 통합 메모리, 구성은 아직 수동
+· 10.24 TOPC TXA2 — 192GB 중 그래픽이 160GB까지 사용, 납땜 메모리, $6,499부터
+· 10.25 RAMDeck — $109 허브로 PC·Mac·폰 메모리를 한 풀로, 속도 대신 용량
+
+밀어서 6장 →
+
+출처: XDA Developers · Notebookcheck · TechRadar
+
+매일 아침 열 개 분야 AI 뉴스와 분야를 넘나드는 지식 그래프 → axitnow.com (프로필 링크)
+
+#AI #가젯 #로컬AI #LLM #메모리 #axitnow

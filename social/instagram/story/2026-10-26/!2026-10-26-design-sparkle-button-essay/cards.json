@@ -1,0 +1,70 @@
+{
+ "meta": {
+  "issue": "아무도 원하지 않은 반짝이 버튼",
+  "date": "2026.10.25",
+  "section": "DESIGN",
+  "accent": "#0070f3",
+  "note": "UX Collective 에세이(Jon Sabutis, 2026.10.25 12:33 UTC = 21:33 KST) 원문 대조 — uxdesign.cc 페이지는 Cloudflare 403이라 같은 글의 uxdesign.cc/feed 전문(content:encoded)으로 확인. 의견 글이므로 주장은 Sabutis로 돌렸고, Microsoft(2026년 3월 '불필요한 Copilot 진입점' 축소, Notepad·캡처 도구·사진·위젯)와 UBS(2026~28 설비투자 약 4.1조 달러, 2026.08 추산)는 '에세이에 따르면'/'UBS 추산'으로 표기. 날짜 수정: 초안 2026.10.26(브리프 날짜) → 2026.10.25(발행일). 미디어: 표지=기사 리드 일러스트(pipeline/media), 2장=기사 속 'Spot the difference' 일러스트, 3장=기사 속 토글 GIF(업데이트 뒤 다시 켜짐)를 mp4로 변환·위아래 배경 연장, 4장=Sabutis 작성 UBS 설비투자 차트. 모두 Jon Sabutis 제작(HTML·CSS), 워터마크 없음.",
+  "sources": [
+   "UX Collective — Nobody asked for the sparkle button (2026.10.25)"
+  ]
+ },
+ "cards": [
+  {
+   "kind": "cover",
+   "eyebrow": "AI × 디자인 · 2026.10.25",
+   "headline": "아무도 원하지 않은 반짝이 버튼",
+   "body": "돈 내고 쓰는 앱마다 오른쪽 위엔 반짝이가 있다. 매일 AI로 코드를 쓰는 디자이너 Jon Sabutis의 에세이다.",
+   "foot": "밀어서 보기 →",
+   "media": "pipeline/media/design-sparkle-button-essay.png",
+   "n": 1
+  },
+  {
+   "kind": "photo",
+   "media": "src/panels.jpg",
+   "eyebrow": "무슨 일인가",
+   "headline": "로고만 떼면 다 똑같다",
+   "body": "메모 앱에서 은행 앱까지 같은 'Ask anything' 패널이 붙었다. Sabutis는 비슷한 게 아니라 아예 같은 패널이라고 쓴다.",
+   "foot": "2026.10.25",
+   "n": 2
+  },
+  {
+   "kind": "photo",
+   "video": "src/toggle.mp4",
+   "start": 0,
+   "dur": 5,
+   "eyebrow": "왜 싫어하나",
+   "headline": "꺼 둬도 업데이트하면 다시 켜진다",
+   "body": "불만은 기능이 아니라 멋대로 켜진 데 있다는 게 그의 진단이다. 에세이에 따르면 Microsoft도 올해 3월 Copilot 진입점을 줄이겠다고 했다.",
+   "foot": "2026.10.25",
+   "n": 3
+  },
+  {
+   "kind": "photo",
+   "media": "src/capex.jpg",
+   "eyebrow": "그런데도 왜",
+   "headline": "4.1조 달러를 회수해야 한다",
+   "body": "UBS는 대형 클라우드 기업의 2026~28년 설비투자를 약 4.1조 달러로 추산한다. 꺼 둔 기능엔 청구할 수 없다는 게 Sabutis의 설명이다.",
+   "foot": "2026.10.25",
+   "n": 4
+  },
+  {
+   "kind": "quote",
+   "quote": "AI 기능을 만들지 말고, AI로 기능을 만들어라.",
+   "quote_by": "Jon Sabutis · 핀테크 디자인 리드",
+   "eyebrow": "그래서 지금",
+   "headline": "AI는 제품 말고 과정에",
+   "body": "출시 전 네 가지를 물으라고 한다. 누가 요청했나, 이름은 무엇에서 땄나, 기본값을 꺼도 내놓겠나, 원가로도 버티나.",
+   "foot": "2026.10.25",
+   "n": 5
+  },
+  {
+   "kind": "outro",
+   "eyebrow": "매일 아침, AI가 바꾸는 현장",
+   "headline": "더 많은 소식은 axitnow.com",
+   "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+   "foot": "",
+   "n": 6
+  }
+ ]
+}

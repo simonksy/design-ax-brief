@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "issue": "로컬 AI는 메모리 싸움",
+    "date": "2026.10.26",
+    "section": "GADGETS",
+    "accent": "#ff5a4d",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(XDA 10.23→10.22, TOPC 10.26→10.24, Notebookcheck 10.26→10.22, RAMDeck 10.26→10.25). 시간순으로 DGX(3장)·TOPC(4장) 순서를 바꿈. TOPC 가격 '약 $6,800'→'$6,499부터'(4TB $6,799). 4.02→32.82토큰·28레이어, 192GB/160GB·납땜, 128GB×8=1TB·ConnectX-7·수동 구성, $109·'pooled memory trades speed for capacity' 확인.",
+    "sources": [
+      "XDA Developers — I changed one llama.cpp flag, and my 8GB laptop GPU now runs a 35B model faster than I can read (2026.10.22)",
+      "Notebookcheck — Nvidia's DGX Spark can now join forces with seven others to deliver 1 TB of memory (2026.10.22)",
+      "TechRadar — Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM (TOPC TXA2) (2026.10.24)",
+      "TechRadar — This crowdfunded $109 hub wants to pool the RAM in your old PCs, Macs, and phones to run bigger AI models (2026.10.25)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 가젯 · 10.22~10.25",
+      "thread": [
+        {
+          "d": "10.22",
+          "t": "RAM 오프로드",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.22",
+          "t": "8대 묶기",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.24",
+          "t": "192GB 한 대",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.25",
+          "t": "옛 기기 모으기",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        }
+      ],
+      "thread_note": "로컬 AI의 한계는 GPU가 아니라 메모리이고, 해법은 메모리를 모으는 쪽으로 간다",
+      "eyebrow": "흐름 · 가젯",
+      "headline": "로컬 AI는\n메모리 싸움",
+      "body": "오프로드, 클러스터, 대용량 한 대는 따로 보면 스펙 소식이다. 꿰어 보면 모두 메모리를 늘리고 모으는 길이다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.22",
+      "headline": "8GB GPU에\n35B를 올렸다",
+      "body": "전문가 레이어 28개를 RAM으로 빼자 8GB 노트북 GPU에서 35B 모델이 초당 4.02토큰에서 32.82토큰이 됐다.",
+      "foot": "2026.10.22",
+      "_src": "https://www.xda-developers.com/i-stopped-thinking-my-8gb-gpu-was-too-small-after-learning-to-offload-moe-llm-layers-to-ram/",
+      "_id": "gadgets-llamacpp-moe-offload-8gb",
+      "media": "pipeline/media/gadgets-llamacpp-moe-offload-8gb.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.22",
+      "headline": "여덟 대를\n묶어 1TB로",
+      "body": "Nvidia는 128GB DGX Spark 여덟 대를 ConnectX-7로 묶어 1TB 통합 메모리로 쓰게 했다. 구성은 아직 수동이다.",
+      "foot": "2026.10.22",
+      "_src": "https://www.notebookcheck.net/Nvidia-s-DGX-Spark-can-now-join-forces-with-seven-others-to-deliver-1-TB-of-memory.1430472.0.html",
+      "_id": "gadgets-dgx-spark-8x-cluster",
+      "media": "pipeline/media/gadgets-dgx-spark-8x-cluster.png"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.24",
+      "headline": "아니면 192GB를\n한 대에",
+      "body": "TOPC TXA2는 192GB 메모리 가운데 160GB까지 그래픽이 끌어 쓴다. 납땜이라 못 늘린다. $6,499부터.",
+      "foot": "2026.10.24",
+      "_src": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+      "_id": "gadgets-topc-txa2",
+      "media": "pipeline/media/gadgets-topc-txa2.png"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.25",
+      "headline": "남는 기기\nRAM까지 빌린다",
+      "body": "$109 RAMDeck은 집 안 PC·Mac·폰 메모리를 한 풀로 묶는다. 속도를 내주고 용량을 얻는, 사지 않고 빌리는 길이다.",
+      "foot": "2026.10.25",
+      "_src": "https://www.techradar.com/pro/this-crowdfunded-usd109-hub-wants-to-pool-the-ram-in-your-old-pcs-macs-and-phones-to-run-bigger-ai-models-but-the-engine-underneath-is-software-you-can-already-get-for-free",
+      "_id": "gadgets-ramdeck-hub",
+      "media": "pipeline/media/gadgets-ramdeck-hub.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

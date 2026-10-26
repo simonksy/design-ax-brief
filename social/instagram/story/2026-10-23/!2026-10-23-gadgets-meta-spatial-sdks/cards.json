@@ -1,0 +1,75 @@
+{
+ "meta": {
+  "issue": "Meta VR 안경 앱, 쓰던 폰 앱에서 시작한다",
+  "date": "2026.10.20",
+  "section": "GADGETS",
+  "accent": "#ff5a4d",
+  "note": "UploadVR(article:published_time 2026-10-20 20:13 UTC) 원문 대조. 초안의 'Gaze SDK 얼리 액세스로 나온'은 '출시 예정·얼리 액세스, 정식 앱 탑재는 얼리 액세스 종료 후'로 바로잡았다. 날짜를 브리프 날짜(10.23)에서 기사 게재일(10.20)로 고쳤다. 영상·사진은 모두 기사 본문 첨부(Meta Connect 2026 세션 발췌): NBA 앱 Layout SDK 시연(LayoutSDKNBA.mp4), Gaze SDK 슬라이드(GazeSDK.png), UI Set 시연(UISETdemo.mp4 4–12s), Disney+ Quest 업데이트 시연(DisneyPlusUpdateQuest.mp4 21–29s, 로고 없는 구간).",
+  "sources": [
+   "UploadVR — Meta Expands SDKs To Boost Spatial Apps On Quest & VR Glasses, Including NBA, Disney+ (2026.10.20)"
+  ]
+ },
+ "cards": [
+  {
+   "kind": "cover",
+   "video": "src/nba.mp4",
+   "start": 0,
+   "dur": 4,
+   "eyebrow": "AI × 가젯 · 2026.10.20",
+   "headline": "VR 안경 앱, 폰 앱으로 짓는다",
+   "body": "2027년 Meta VR Glasses 출시를 앞두고 Meta가 개발 도구를 풀었다. 출발점은 이미 쓰던 안드로이드 앱이다.",
+   "foot": "밀어서 보기 →",
+   "n": 1
+  },
+  {
+   "kind": "photo",
+   "video": "src/nba.mp4",
+   "start": 6,
+   "dur": 4,
+   "eyebrow": "무슨 일인가",
+   "headline": "앱 옆에 공간 창을 붙인다",
+   "body": "Layout SDK로 일반 안드로이드 앱 둘레에 공간 창을 띄운다. 몰입형으로 바꿀 필요가 없다. NBA 앱이 먼저 썼다.",
+   "foot": "2026.10.20",
+   "n": 2
+  },
+  {
+   "kind": "photo",
+   "media": "src/gaze.jpg",
+   "eyebrow": "어떻게 누르나",
+   "headline": "보고, 집으면 눌린다",
+   "body": "VR 안경은 눈·손 추적으로 'Look and Pinch' 조작을 한다. Gaze SDK는 시스템이 헷갈릴 만한 버튼에 힌트를 준다.",
+   "foot": "2026.10.20",
+   "n": 3
+  },
+  {
+   "kind": "photo",
+   "video": "src/uiset.mp4",
+   "start": 0,
+   "dur": 6,
+   "eyebrow": "짚을 대목",
+   "headline": "AI 에이전트용 디자인 시스템",
+   "body": "UI Set SDK는 색·글꼴·아이콘·컴포넌트를 묶은 Jetpack Compose 디자인 시스템. AI 코딩 에이전트가 구현하기 좋게 만들었다.",
+   "foot": "2026.10.20",
+   "n": 4
+  },
+  {
+   "kind": "photo",
+   "video": "src/disney.mp4",
+   "start": 0,
+   "dur": 6,
+   "eyebrow": "그래서 지금",
+   "headline": "안경보다 앱이 먼저다",
+   "body": "11월 Quest용 Disney+가 3D 영상과 3D 환경을 들인다. 안경이 나오는 2027년엔 쓸 앱이 이미 있어야 한다.",
+   "foot": "2026.10.20",
+   "n": 5
+  },
+  {
+   "kind": "outro",
+   "eyebrow": "매일 아침, AI가 바꾸는 현장",
+   "headline": "더 많은 소식은 axitnow.com",
+   "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+   "foot": "",
+   "n": 6
+  }
+ ]
+}

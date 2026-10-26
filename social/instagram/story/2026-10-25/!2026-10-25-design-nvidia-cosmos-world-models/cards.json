@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "issue": "NVIDIA Cosmos, 현실을 찍지 않고 짓는다",
+  "date": "2026.10.22",
+  "section": "DESIGN",
+  "accent": "#0070f3",
+  "note": "NVIDIA Blog 원문(2026-10-22 05:00 UTC, datePublished) 대조. 초안 날짜 2026.10.25는 브리프 날짜라 기사 날짜로 고쳤다. 수치(Porsche 실차 테스트 최대 90%·개발 주기 최대 85%, ANYbotics 합성 클립 1,500개 이상, 블루프린트 5종)는 원문 그대로. 영상은 모두 기사 본문 첨부: 표지·5장 Porsche/Voxel51 시연(날씨 증강·문장 검색), 2장 멀티뷰·멀티센서 생성 GIF를 mp4로, 3장 ANYbotics 이상 장면 생성. pipeline/media 영상은 데이터 팩토리 도식이라 폰에서 안 읽혀 뺐다.",
+  "sources": [
+   "NVIDIA Blog — New NVIDIA Cosmos Tools Help Developers Train, Evaluate and Deploy World Models (2026.10.22)"
+  ]
+ },
+ "cards": [
+  {
+   "kind": "cover",
+   "video": "src/porsche.mp4",
+   "start": 9.5,
+   "dur": 5,
+   "eyebrow": "AI × 디자인 · 2026.10.22",
+   "headline": "맑은 날 영상에 눈을 내린다",
+   "body": "한 번 찍은 언덕길에 안개·폭우·눈을 입혀 수십 벌로 늘린다. NVIDIA가 월드 모델 플랫폼 Cosmos에 새 도구를 더했다.",
+   "foot": "밀어서 보기 →",
+   "n": 1
+  },
+  {
+   "kind": "photo",
+   "video": "src/worldgen.mp4",
+   "start": 0,
+   "dur": 6,
+   "eyebrow": "월드 모델이란",
+   "headline": "현실을 미리 굴려 보는 AI",
+   "body": "로봇·자율주행차가 현실을 이해하고 시뮬레이션하게 돕는 모델이다. 위 카메라 11대 화면과 라이다도 생성한 것.",
+   "foot": "2026.10.22",
+   "n": 2
+  },
+  {
+   "kind": "photo",
+   "video": "src/anybotics.mp4",
+   "start": 4.5,
+   "dur": 5,
+   "eyebrow": "무엇이 달라지나",
+   "headline": "드문 장면은 찍지 않고 만든다",
+   "body": "ANYbotics는 설비 사진에 액체 누출 같은 이상 장면을 입혀 합성 클립 1,500개 넘게 만들었다. 점검 로봇 학습용이다.",
+   "foot": "2026.10.22",
+   "n": 3
+  },
+  {
+   "kind": "stat",
+   "stat_top": "실차 주행 테스트",
+   "stat_arrow": "Porsche가 내다본 감소폭",
+   "stat_bottom": "최대 90%",
+   "stat_strike": false,
+   "eyebrow": "짚을 대목",
+   "headline": "도로에 덜 나가도 된다",
+   "body": "Porsche가 폭스바겐그룹 브랜드와 함께 쌓는 자율주행 데이터에 쓴다. 개발 주기도 최대 85% 짧아질 것으로 본다.",
+   "foot": "2026.10.22",
+   "n": 4
+  },
+  {
+   "kind": "photo",
+   "video": "src/porsche.mp4",
+   "start": 0,
+   "dur": 6,
+   "eyebrow": "그래서 지금",
+   "headline": "장면도 이제 설계 대상",
+   "body": "문장으로 장면을 찾고 날씨·조명·사건을 골라 입힌다. 현실을 찍어 모으던 일이 필요한 세상을 짓는 일로 바뀐다.",
+   "foot": "2026.10.22",
+   "n": 5
+  },
+  {
+   "kind": "outro",
+   "eyebrow": "매일 아침, AI가 바꾸는 현장",
+   "headline": "더 많은 소식은 axitnow.com",
+   "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+   "foot": "",
+   "n": 6
+  }
+ ]
+}

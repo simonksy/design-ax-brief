@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "issue": "미 재무부, 우려국 AI 기업 투자 금지 추진",
+    "date": "2026.10.22",
+    "section": "POLITICS",
+    "accent": "#9aa8c7",
+    "note": "The Hill(Ryan Mancini, 2026.10.23 02:37 UTC = 10.22 ET 밤) 본문은 봇 차단(403)으로 직접 못 열어 RSS 요약과 파이프라인 수집 텍스트로 대조. 수치·범위는 1차 자료로 확인: 재무부 보도자료 sb0667(2026.10.22)와 'Fact Sheet & FAQs: COINS Act NPRM' PDF. 정정 — ① 초안의 '$50,000 넘는 투자를 막는다'는 틀림: $50,000는 12개월 합산 소액 거래의 '신고 의무만' 면제하는 기준(팩트시트). ② 새로 추가된 분야는 고성능 컴퓨팅·극초음속·바이오 셋이고, AI·양자·반도체는 기존 OISP에 이미 있었다. AI는 신고 대상까지 포함해 개발 기업 투자 전면 금지로 넓어짐. 규칙안은 EO 14434에 따라 AI를 'super intelligence(SI) systems'로 표기. 우려국: 중국(홍콩·마카오)·쿠바·이란·북한·러시아·마두로 정권 베네수엘라(재무부는 현재 베네수엘라가 해당하지 않는다고 FAQ에서 밝힘). 의견 마감 2026.12.07. 베선트 인용은 보도자료 원문. 중국 상무부 반응('국가안보를 구실로')은 The Hill이 AP를 인용한 대목으로 돌렸다. 매체: 표지는 기존 pipeline/media(재무부 문장(紋章) 사진, The Hill/MSN 리드 이미지), 2장은 재무부 팩트시트 PDF 1쪽 상단 크롭(미 정부 저작물).",
+    "sources": [
+      "The Hill — Treasury Department proposes curbs on high-tech investments in China, Russia, North Korea (2026.10.22)",
+      "U.S. Treasury — Treasury Issues Proposed Rule to Implement Comprehensive Outbound Investment National Security Act (2026.10.22)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "eyebrow": "AI × 정책 · 2026.10.22",
+      "headline": "우려국 AI 기업에\n미국 투자 막는다",
+      "body": "미 재무부가 10월 22일 해외투자 규칙안을 냈다. 중국 등 우려국의 AI 개발 기업에는 투자를 막는다.",
+      "foot": "밀어서 보기 →",
+      "media": "pipeline/media/politics-treasury-outbound-ai.jpg",
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "무슨 일인가",
+      "headline": "COINS법 시행 규칙안",
+      "body": "작년 말 국방수권법에 담긴 COINS법을 시행하는 안이다. 중국에 더해 러시아·북한·이란·쿠바가 우려국에 들어간다.",
+      "foot": "2026.10.22",
+      "media": "src/factsheet.jpg",
+      "n": 2
+    },
+    {
+      "kind": "stat",
+      "stat_top": "신고",
+      "stat_arrow": "우려국 AI 개발 기업 투자",
+      "stat_bottom": "금지",
+      "stat_strike": true,
+      "eyebrow": "무엇이 바뀌나",
+      "headline": "AI는 신고에서 금지로",
+      "body": "규칙안대로면 신고만 하던 AI 투자도 막힌다. 고성능 컴퓨팅·극초음속·바이오기술 세 분야는 새로 들어갔다.",
+      "foot": "2026.10.22",
+      "n": 3
+    },
+    {
+      "kind": "stat",
+      "stat_top": "$50,000",
+      "stat_arrow": "12개월 합산 이하면",
+      "stat_bottom": "신고 면제",
+      "stat_strike": false,
+      "eyebrow": "짚을 대목",
+      "headline": "막는 선이 아니라 신고 기준",
+      "body": "소액 거래는 신고 의무만 덜어 준다. 상장주식·ETF처럼 공개시장에서 사는 증권은 처음부터 대상이 아니다.",
+      "foot": "2026.10.22",
+      "n": 4
+    },
+    {
+      "kind": "quote",
+      "quote": "적대국이 미국 투자로 국가안보를 위협하는 핵심 기술을 키우지 못하게 막겠습니다.",
+      "quote_by": "스콧 베선트 · 미 재무장관",
+      "eyebrow": "그래서 지금",
+      "headline": "의견은 12월 7일까지",
+      "body": "시행일은 최종 규칙에서 정해진다. 중국 상무부는 '국가안보를 구실로' 한 압박이라며 반발했다.",
+      "foot": "2026.10.22",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
