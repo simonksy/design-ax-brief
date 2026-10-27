@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "issue": "현장에 선 AI, 성적표는 아직",
+    "date": "2026.10.27",
+    "section": "MEDICINE",
+    "accent": "#00897b",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(Aidoc 10.22→10.21, 감독 메타분석 10.24→10.23, 야간 당직 10.27→10.23, Heidi 10.27→10.26 PT). 사진 없는 두 장은 stat. 수치 17개 시설·30,678건·86.8%, 46개 보고서·ECG 26.6%, κ 0.71→0.61, 21→18.6분 확인.",
+    "sources": [
+      "npj Digital Medicine — Multi-site real-world performance of commercial AI for pulmonary and incidental pulmonary embolism detection (2026.10.21)",
+      "npj Digital Medicine — Human oversight of erroneous clinical AI and decision support: a systematic review and meta-analysis (2026.10.23)",
+      "AuntMinnie — AI fails to compensate for night-shift fatigue among residents (2026.10.23)",
+      "MedPage Today — AI Scribes Improved Note-Taking Time but Not Productivity, Study Finds (2026.10.26)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 의료 · 10.21~10.26",
+      "thread": [
+        {
+          "d": "10.21",
+          "t": "FDA 기준",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "10.23",
+          "t": "사람 감독",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "10.23",
+          "t": "야간 당직",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "10.26",
+          "t": "스크라이브",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        }
+      ],
+      "thread_note": "현장 검증에서 AI는 약속만큼 해내지 못했다",
+      "eyebrow": "흐름 · 의료",
+      "headline": "현장에 선 AI,\n성적표는 아직",
+      "body": "한 건씩 보면 연구 하나의 단서다. 엿새 사이 판독·감독·기록 현장에서 AI가 기대에 못 미쳤다는 결과가 잇따랐다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.10.21",
+      "headline": "FDA 허가 AI,\n실전에선 덜 잡았다",
+      "body": "17개 시설 CT 3만여 건에서 Aidoc 폐색전증 AI 민감도는 86.8%. FDA 허가 기준보다 낮았다.",
+      "foot": "2026.10.21",
+      "_src": "https://www.nature.com/articles/s41746-026-03418-3",
+      "_id": "medicine-aidoc-pe",
+      "stat_top": "FDA 허가 기준",
+      "stat_arrow": "17개 시설 실제 CTPA 30,678건",
+      "stat_bottom": "민감도 86.8%",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.10.23",
+      "headline": "사람 감독도\n오류를 놓친다",
+      "body": "보고서 46건 메타분석. 실제 진료 연구에서 틀린 컴퓨터 ECG 판독의 26.6%가 고쳐지지 않았다.",
+      "foot": "2026.10.23",
+      "_src": "https://www.nature.com/articles/s41746-026-03408-5",
+      "_id": "medicine-ai-oversight",
+      "stat_top": "틀린 컴퓨터 ECG 판독",
+      "stat_arrow": "실제 진료 연구 4건",
+      "stat_bottom": "26.6% 그대로",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.23",
+      "headline": "지친 전공의,\nAI도 못 받쳤다",
+      "body": "야간 당직 뒤 흉부 x-ray 판독 정확도(κ)는 0.71에서 0.61로 떨어졌고, AI 보조도 되돌리지 못했다.",
+      "foot": "2026.10.23",
+      "_src": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15838345/ai-fails-to-compensate-for-nightshift-fatigue-among-residents",
+      "_id": "medicine-night-shift",
+      "media": "pipeline/media/medicine-night-shift.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.26",
+      "headline": "기록은 줄었는데\n생산성은 그대로",
+      "body": "Heidi 스크라이브로 노트 시간 중앙값은 21분에서 18.6분. 임상 생산성과 노트 마감엔 차이가 없었다.",
+      "foot": "2026.10.26",
+      "_src": "https://www.medpagetoday.com/practicemanagement/informationtechnology/123591",
+      "_id": "medicine-heidi-scribe",
+      "media": "pipeline/media/medicine-heidi-scribe.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

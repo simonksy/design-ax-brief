@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "issue": "Google Ads, 끄지 않으면 AI가 켜진다",
+    "date": "2026.10.27",
+    "section": "MARKETING",
+    "accent": "#ff8a3d",
+    "note": "원문 5건 대조: 날짜를 원문 게재일로 고침(SEL 10.21→10.19, PPC Land 10.22→10.21, SER 10.24→10.23, PPC Land 10.26→10.25, SER 10.27→10.26). 사진은 Sourced videos 토글 스크린숏 한 장만 쓰고 나머지는 stat/quote. 12월 4일·계정 설정 무시, 기본 켜짐·기존 캠페인 자동 활성 가능, 10개 언어·예산 통화 미변환·일시중지 상태 생성, 50/50 1-click 실험 확인. SEL 원문은 Cloudflare 차단이라 10-21 run의 enrichment 본문으로 대조.",
+    "sources": [
+      "Search Engine Land — Google Ads AI Max spotted automatically enabled in some Ad Grants accounts (2026.10.19)",
+      "PPC Land — Google turns on PMax image extraction by default from December 4 (2026.10.21)",
+      "Search Engine Roundtable — Google Ads Asset Optimization Sourced Videos On/Off Toggle (2026.10.23)",
+      "PPC Land — Google Ads AI tool copies Search campaigns into 10 new languages (2026.10.25)",
+      "Search Engine Roundtable — Google Ads 1-Click AI Max Experiment Recommendation (2026.10.26)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 마케팅 · 10.19~10.26",
+      "thread": [
+        {
+          "d": "10.19",
+          "t": "AI Max",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "10.21",
+          "t": "사이트 이미지",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "10.23",
+          "t": "소스 영상",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "10.25",
+          "t": "10개 언어",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "10.26",
+          "t": "1클릭 실험",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        }
+      ],
+      "thread_note": "Google Ads가 AI 기능을 기본값으로 켜고, 끄는 수고는 광고주에게 넘긴다",
+      "eyebrow": "흐름 · 마케팅",
+      "headline": "AI는 켜고, 끄는 건 광고주",
+      "body": "한 건씩 보면 작은 설정 변경이다. 이어 보면 여드레 사이 검색어·이미지·영상·언어까지 AI 쪽으로 기본값이 기울었다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.10.19",
+      "headline": "켠 적 없는 AI Max",
+      "body": "일부 비영리 Ad Grants 계정에서 AI Max가 저절로 켜졌다. 클릭 없이 노출만 늘면 CTR 기준이 위태롭다.",
+      "foot": "2026.10.19",
+      "_src": "https://searchengineland.com/google-ads-ai-max-spotted-automatically-enabled-in-some-ad-grants-accounts-497261",
+      "_id": "marketing-ai-max-ad-grants-autoon",
+      "stat_top": "광고주 설정: 끔",
+      "stat_arrow": "일부 Ad Grants 검색 캠페인",
+      "stat_bottom": "AI Max 켜짐",
+      "stat_strike": false
+    },
+    {
+      "n": 3,
+      "kind": "quote",
+      "eyebrow": "2026.10.21",
+      "headline": "계정에서 꺼도 새 캠페인은 켜진다",
+      "body": "12월 4일부터 새 PMax 캠페인은 사이트 이미지를 기본으로 뽑아 쓴다. 계정 단위로 꺼 둔 설정도 무시한다.",
+      "foot": "2026.10.21",
+      "_src": "https://ppc.land/google-turns-on-pmax-image-extraction-by-default-from-december-4/",
+      "_id": "marketing-pmax-images",
+      "quote": "Google AI가 랜딩 페이지에서\n고해상도 이미지를 찾아\n소재를 보강한다",
+      "quote_by": "Google Ads 개발자 블로그 · 2026.10.21"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.23",
+      "headline": "영상도 AI가 골라 넣는다",
+      "body": "PMax에 새 Sourced videos 토글이 생겼다. 새 캠페인은 기본으로 켜지고, 일부 기존 캠페인도 저절로 켜졌을 수 있다.",
+      "foot": "2026.10.23",
+      "_src": "https://www.seroundtable.com/google-ads-sourced-videos-42365.html",
+      "_id": "marketing-google-ads-sourced-videos",
+      "media": "pipeline/media/marketing-google-ads-sourced-videos.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.10.25",
+      "headline": "한 번에 10개 언어로",
+      "body": "영어(US) Search 캠페인을 AI가 10개 언어 새 캠페인으로 복제한다. 예산 숫자는 통화 변환 없이 그대로 옮겨진다.",
+      "foot": "2026.10.25",
+      "_src": "https://ppc.land/google-ads-ai-tool-copies-search-campaigns-into-10-new-languages/",
+      "_id": "marketing-ads-localize-10-languages",
+      "stat_top": "영어(US) 캠페인 1개",
+      "stat_arrow": "AI 현지화 도구(베타)",
+      "stat_bottom": "10개 언어",
+      "stat_strike": false
+    },
+    {
+      "n": 6,
+      "kind": "stat",
+      "eyebrow": "2026.10.26",
+      "headline": "AI Max 실험도 1클릭",
+      "body": "대상 계정의 Recommendations에 1-click 실험이 뜬다. 누르면 기존 Search 캠페인과 AI Max를 반씩 나눠 겨룬다.",
+      "foot": "2026.10.26",
+      "_src": "https://www.seroundtable.com/google-ads-1-click-ai-max-experiment-42324.html",
+      "_id": "marketing-google-ads-ai-max-experiment",
+      "stat_top": "수동 실험 설정",
+      "stat_arrow": "Recommendations에서 한 번 클릭",
+      "stat_bottom": "50/50 자동 실험",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "반쯤 AI인 곡, 이름표가 없다",
+    "date": "2026.10.27",
+    "section": "MUSIC",
+    "accent": "#eb367f",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(TechCrunch 10.15→10.14, 더팩트 10.26→10.20, Verge 10.21→10.20, Music Ally 10.27→10.26). YouTube 세 등급(Fully/Partly/No Gen AI)·오토튠은 No Gen AI, 음저협 133건→759건·892건 전부 미등록, Spotify 5천만 곡·표기 의무화 안 함, Hugel 2억660만 스트림·AI 표기 없음·인용문 확인. 10.18·10.25 음악 trend(Suno 한국 차트, Suno 소송)와 겹치는 id 없음.",
+    "sources": [
+      "TechCrunch — YouTube Music launches new labels as AI-generated music floods streaming platforms (2026.10.14)",
+      "더팩트 — AI 음악 저작권 신청 1년새 500% 급증…892건 전부 미등록 (2026.10.20)",
+      "The Verge — Spotify pulled 50 million AI slop and spam tracks from its recommendations (2026.10.20)",
+      "Music Ally — 'Movin' to the Sun' shows grey areas between AI and human music (2026.10.26)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 음악 · 10.14~10.26",
+      "thread": [
+        {
+          "d": "10.14",
+          "t": "세 등급",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "10.20",
+          "t": "전부 미등록",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "10.20",
+          "t": "표기 보류",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "10.26",
+          "t": "Hugel",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        }
+      ],
+      "thread_note": "AI가 섞인 곡에서 사람 몫을 재는 기준이 아직 없다",
+      "eyebrow": "흐름 · 음악",
+      "headline": "반쯤 AI인 곡,\n이름표가 없다",
+      "body": "한 건씩 보면 각자의 정책이다. 모아 보면 플랫폼도 협회도 '얼마나 AI인가'를 재는 자를 아직 못 정했다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.14",
+      "headline": "YouTube, AI를 세 칸으로",
+      "body": "YouTube Music이 플레이어에 AI 표시를 붙인다. 완전·일부·없음 세 등급이고, 오토튠만 쓴 곡은 'AI 없음'이다.",
+      "foot": "2026.10.14",
+      "_src": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+      "_id": "music-youtube-ai-labels",
+      "media": "pipeline/media/music-youtube-ai-labels.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.10.20",
+      "headline": "신청 892건, 등록 0건",
+      "body": "음저협 AI 활용 곡 신청이 2025년 133건에서 올 9월 759건으로 늘었다. 사람 기여를 잴 기준이 없어 전부 미등록이다.",
+      "foot": "2026.10.20",
+      "_src": "https://news.tf.co.kr/read/ptoday/2378150.htm",
+      "_id": "music-komca-ai-filings",
+      "stat_top": "AI 활용 곡 신청 892건",
+      "stat_arrow": "사람 기여를 잴 기준이 없어",
+      "stat_bottom": "전부 미등록",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.10.20",
+      "headline": "Spotify, 빼되 표시는 아직",
+      "body": "Spotify는 지난 1년 5천만 곡 넘는 AI 슬롭·스팸을 추천에서 뺐다. 다만 모든 AI 곡 표시를 의무화하진 않았다.",
+      "foot": "2026.10.20",
+      "_src": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+      "_id": "music-spotify-50m-slop-purge",
+      "stat_top": "추천에서 뺀 AI 슬롭·스팸",
+      "stat_arrow": "지난 1년",
+      "stat_bottom": "5천만 곡+",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "quote",
+      "eyebrow": "2026.10.26",
+      "headline": "Suno에서 출발한 히트곡",
+      "body": "Spotify에서 2억 660만 회 재생된 'Movin' to the Sun'은 Suno로 만든 곡에서 출발했다. AI 표시는 없다.",
+      "foot": "2026.10.26",
+      "_src": "https://musically.com/2026/10/26/movin-to-the-sun-shows-grey-areas-between-ai-and-human-music/",
+      "_id": "music-movin-to-the-sun",
+      "quote": "AI는 보컬 한 겹에만\n썼고, 나머지는\n전부 사람이 만들었다",
+      "quote_by": "Hugel · 프로듀서"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
