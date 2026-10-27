@@ -1,107 +1,179 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "section": "design",
   "user_selection": null,
   "picks": [
     {
       "rank": 1,
-      "title": "Google Unveils Gemini That Remembers Brand Style",
-      "url": "https://designcompass.org/en/2026/10/26/google-gemini-on-brand-visuals/",
-      "source": "Design Compass",
+      "title": "Fast, reliable A2UI, with swappable inference formats",
+      "url": "https://developers.googleblog.com/fast-reliable-a2ui/",
+      "source": "Google for Developers Blog",
       "category": "workflow",
       "tool": "AI Workflow",
-      "accent": "#ff5a4d",
+      "accent": "#3b6bff",
       "motif": "frame",
-      "published_iso": "2026-10-26T05:34:00Z",
-      "og_image": "https://designcompass.org/wp-content/uploads/2026/10/Gemini-Brand-Style-Remembered-1-scaled.jpg",
-      "excerpt": "Gemini can now remember a brand's style: register a website, brand kit, fonts and colors once and generate new on-brand images without re-uploading guidelines each time.",
-      "rationale": "A new Gemini feature that saves a brand kit once and reuses it for every generated image. Brand and marketing designers can try it tomorrow. It is a different product from the 09-28 Stitch brand-to-UI story."
+      "published_iso": "2026-10-27T00:00:00Z",
+      "og_image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/00-header-1600x900.2e16d0ba.fill-1200x600.png",
+      "excerpt": "Google's A2UI generative-UI protocol gets swappable inference formats, including A2UI Express for 3x lower latency and controlled generation with Jev for reliable agent-generated interfaces. (Off-list: no on-list outlet covered generative UI this window.)",
+      "rationale": "A primary-source release that adds A2UI Express, which Google says cuts latency 3x, plus controlled generation for agent-rendered UI. It matters to designers specifying generative interfaces. This is a protocol update, not the 10-12 'AI-generated UI' essay. It is the second workflow pick, so it gets the palette accent #3b6bff."
     },
     {
       "rank": 2,
-      "title": "로고 생성 넘어 SVG 편집 파일로...이디오그램, 벡터 AI로 디자인 실무 공략",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=216679",
-      "source": "AI타임스",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "published_iso": "2026-10-26T17:01:42+09:00",
-      "og_image": "https://cdn.aitimes.com/news/photo/202610/216679_220802_5713.jpeg",
-      "excerpt": "Ideogram has moved from generating logo and illustration images to outputting editable SVG vector files, pitching its vector AI at real design production work rather than finished-looking pictures.",
-      "rationale": "Ideogram now outputs editable SVG vector files instead of flat images, so logos and icons can go straight into a production pipeline. This is a new capability, not the 10-03 Ideogram partial-edit model and not CorelDRAW's text-to-vector tool from 09-29."
-    },
-    {
-      "rank": 3,
-      "title": "Building an AI-ready design system library: Code → Figma with MCP",
-      "url": "https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2",
-      "source": "UX Collective",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "published_iso": "2026-10-26T21:33:15Z",
-      "og_image": "https://miro.medium.com/v2/resize:fit:1200/0*z97zDowA9lacbpjQ.jpeg",
-      "excerpt": "A practical guide for designers on starting the design system in code and using MCP to build, check and maintain the Figma library so AI agents can work from it. Part 1 of a three-part series that continues into AI prototyping inside the design system.",
-      "rationale": "A step-by-step workflow for building the Figma library from code over MCP so agents can use it, which design-system teams can follow directly. It is a practitioner how-to, not Figma's 10-17 code-layers launch or the 10-24 Figma-agent design-system post. This is the second figma-category pick, so it gets the palette accent #7928ca."
-    },
-    {
-      "rank": 4,
-      "title": "The New Full-Stack Designer",
-      "url": "https://www.youtube.com/watch?v=eojywvxqoLc",
-      "source": "Y Combinator (YouTube)",
+      "title": "Explore Shaders and Motion with the Figma agent | Figma on Figma",
+      "url": "https://www.youtube.com/watch?v=BS-N-AM5ql4",
+      "source": "Figma (YouTube)",
       "category": "social",
       "tool": "Social",
       "accent": "#ff2d55",
       "motif": "frame",
-      "published_iso": "2026-10-26T14:00:10Z",
-      "og_image": "https://i.ytimg.com/vi/eojywvxqoLc/maxresdefault.jpg",
-      "excerpt": "On YC's Design Review, Shopify product design studio lead Marvin Schwaibold walks through how his design process has changed with AI coding tools, the admin redesign and Sidekick work his team shipped, and why taste is now the bottleneck.",
-      "rationale": "A Shopify studio lead shows the actual process his team used to ship the admin redesign and Sidekick with AI coding tools, a concrete case study rather than a generic essay. It adds a new outlet and covers the social category."
+      "published_iso": "2026-10-27T18:55:16Z",
+      "og_image": "https://i.ytimg.com/vi/BS-N-AM5ql4/maxresdefault.jpg",
+      "excerpt": "Figma's own team demos using the Figma agent to create shaders and motion on the canvas in an everyday workflow.",
+      "rationale": "Figma's team demonstrates the Figma agent producing shaders and motion on the canvas, a hands-on technique Figma users can copy. Earlier Figma-agent posts covered product-design craft (10-07) and design systems (10-24), not shaders or motion."
+    },
+    {
+      "rank": 3,
+      "title": "Etsy's crackdown on AI slop is welcome, but it shows how far things have slipped",
+      "url": "https://www.creativebloq.com/news/etsys-crackdown-on-ai-slop-is-welcome-but-it-shows-how-far-things-have-slipped",
+      "source": "Creative Bloq",
+      "category": "figma",
+      "tool": "Figma",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "published_iso": "2026-10-27T13:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/uzZxJaKSXhN5uxfLGfsSNd-1600-80.jpg",
+      "excerpt": "Etsy introduces a rule banning fake AI-generated product photos; Creative Bloq argues a handmade-design marketplace needing such a rule shows how far AI imagery has eroded trust.",
+      "rationale": "Etsy has a new rule banning fake AI-generated product photos. It directly affects designers and makers who sell there and shoot their own product images. This policy has not been covered before. The nearest earlier item is the 10-22 Just Eat AI menu-photo story, which is a different company and a different event."
+    },
+    {
+      "rank": 4,
+      "title": "New CG software you may have missed: 25 October 2026 (EdenLive real-time AI renderer, KeenFace)",
+      "url": "https://www.cgchannel.com/2026/10/new-cg-software-you-may-have-missed-25-october-2026/",
+      "source": "CG Channel",
+      "category": "render",
+      "tool": "KeyShot",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "published_iso": "2026-10-26T04:30:19Z",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/10/261025_NewCGSoftwareYouMayHaveMissed_25October2026_ArcBrush_f.jpg",
+      "excerpt": "Round-up includes EdenLive, an open-source model that turns rough blockout animation into near-photorealistic video in real time on one consumer GPU, plus KeenFace AI 3D head generation and an MCP server in Gaffer.",
+      "rationale": "This week's round-up leads with releases not covered before: EdenLive, an open-source real-time blockout-to-photoreal renderer that runs on one consumer GPU, plus KeenFace AI head generation and a Gaffer MCP server. 3D and visualisation designers can try these now. It is a different instalment with different releases from the 18 October round-up published 10-20."
     },
     {
       "rank": 5,
-      "title": "MOSS-Image: The Open-Source Model Teaching AI to Spell",
-      "url": "https://www.intelligentliving.co/moss-image-open-source-model/",
-      "source": "Intelligent Living",
+      "title": "CLI-Anything: Turn Any App Into a CLI for Claude Code and Codex",
+      "url": "https://www.mindstudio.ai/blog/cli-anything-turn-apps-into-cli-for-ai-agents/",
+      "source": "MindStudio",
       "category": "tokens",
       "tool": "Design Tokens",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "published_iso": "2026-10-26T01:30:21Z",
-      "og_image": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-open-source-model.jpg",
-      "excerpt": "MOSS-Image is a 5B open-source image model that renders readable bilingual text and JSON-specified layouts, scoring 96.3 on long-text rendering benchmarks.",
-      "rationale": "A new open-source image model built for readable typography and layouts specified in JSON, which addresses designers' main complaint about AI posters. It is a different model from the 10-13 Iris 3B story. The source is a lower-tier outlet, so the enrichment pass should check the claims against the model card."
+      "published_iso": "2026-10-25T00:00:00Z",
+      "og_image": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/4585b919-e424-4ad3-8faf-651c238aaf56.png?fm=auto&w=1200&h=630&fit=crop",
+      "excerpt": "CLI-Anything auto-generates command-line interfaces for GIMP, Blender, LibreOffice and more, giving AI coding agents direct access to creative tools.",
+      "rationale": "CLI-Anything generates command-line interfaces for creative apps such as GIMP and Blender, so Claude Code or Codex can drive them directly. Designers get a practical way to script creative tools with agents. This is a different tool from the 10-08 logo skill-package item, which was SVG checks for agents."
+    }
+  ],
+  "items": [
+    {
+      "rank": 1,
+      "title": "Fast, reliable A2UI, with swappable inference formats",
+      "url": "https://developers.googleblog.com/fast-reliable-a2ui/",
+      "source": "Google for Developers Blog",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "published_iso": "2026-10-27T00:00:00Z",
+      "og_image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/00-header-1600x900.2e16d0ba.fill-1200x600.png",
+      "excerpt": "Google's A2UI generative-UI protocol gets swappable inference formats, including A2UI Express for 3x lower latency and controlled generation with Jev for reliable agent-generated interfaces. (Off-list: no on-list outlet covered generative UI this window.)",
+      "rationale": "A primary-source release that adds A2UI Express, which Google says cuts latency 3x, plus controlled generation for agent-rendered UI. It matters to designers specifying generative interfaces. This is a protocol update, not the 10-12 'AI-generated UI' essay. It is the second workflow pick, so it gets the palette accent #3b6bff."
+    },
+    {
+      "rank": 2,
+      "title": "Explore Shaders and Motion with the Figma agent | Figma on Figma",
+      "url": "https://www.youtube.com/watch?v=BS-N-AM5ql4",
+      "source": "Figma (YouTube)",
+      "category": "social",
+      "tool": "Social",
+      "accent": "#ff2d55",
+      "motif": "frame",
+      "published_iso": "2026-10-27T18:55:16Z",
+      "og_image": "https://i.ytimg.com/vi/BS-N-AM5ql4/maxresdefault.jpg",
+      "excerpt": "Figma's own team demos using the Figma agent to create shaders and motion on the canvas in an everyday workflow.",
+      "rationale": "Figma's team demonstrates the Figma agent producing shaders and motion on the canvas, a hands-on technique Figma users can copy. Earlier Figma-agent posts covered product-design craft (10-07) and design systems (10-24), not shaders or motion."
+    },
+    {
+      "rank": 3,
+      "title": "Etsy's crackdown on AI slop is welcome, but it shows how far things have slipped",
+      "url": "https://www.creativebloq.com/news/etsys-crackdown-on-ai-slop-is-welcome-but-it-shows-how-far-things-have-slipped",
+      "source": "Creative Bloq",
+      "category": "figma",
+      "tool": "Figma",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "published_iso": "2026-10-27T13:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/uzZxJaKSXhN5uxfLGfsSNd-1600-80.jpg",
+      "excerpt": "Etsy introduces a rule banning fake AI-generated product photos; Creative Bloq argues a handmade-design marketplace needing such a rule shows how far AI imagery has eroded trust.",
+      "rationale": "Etsy has a new rule banning fake AI-generated product photos. It directly affects designers and makers who sell there and shoot their own product images. This policy has not been covered before. The nearest earlier item is the 10-22 Just Eat AI menu-photo story, which is a different company and a different event."
+    },
+    {
+      "rank": 4,
+      "title": "New CG software you may have missed: 25 October 2026 (EdenLive real-time AI renderer, KeenFace)",
+      "url": "https://www.cgchannel.com/2026/10/new-cg-software-you-may-have-missed-25-october-2026/",
+      "source": "CG Channel",
+      "category": "render",
+      "tool": "KeyShot",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "published_iso": "2026-10-26T04:30:19Z",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/10/261025_NewCGSoftwareYouMayHaveMissed_25October2026_ArcBrush_f.jpg",
+      "excerpt": "Round-up includes EdenLive, an open-source model that turns rough blockout animation into near-photorealistic video in real time on one consumer GPU, plus KeenFace AI 3D head generation and an MCP server in Gaffer.",
+      "rationale": "This week's round-up leads with releases not covered before: EdenLive, an open-source real-time blockout-to-photoreal renderer that runs on one consumer GPU, plus KeenFace AI head generation and a Gaffer MCP server. 3D and visualisation designers can try these now. It is a different instalment with different releases from the 18 October round-up published 10-20."
+    },
+    {
+      "rank": 5,
+      "title": "CLI-Anything: Turn Any App Into a CLI for Claude Code and Codex",
+      "url": "https://www.mindstudio.ai/blog/cli-anything-turn-apps-into-cli-for-ai-agents/",
+      "source": "MindStudio",
+      "category": "tokens",
+      "tool": "Design Tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "published_iso": "2026-10-25T00:00:00Z",
+      "og_image": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/4585b919-e424-4ad3-8faf-651c238aaf56.png?fm=auto&w=1200&h=630&fit=crop",
+      "excerpt": "CLI-Anything auto-generates command-line interfaces for GIMP, Blender, LibreOffice and more, giving AI coding agents direct access to creative tools.",
+      "rationale": "CLI-Anything generates command-line interfaces for creative apps such as GIMP and Blender, so Claude Code or Codex can drive them directly. Designers get a practical way to script creative tools with agents. This is a different tool from the 10-08 logo skill-package item, which was SVG checks for agents."
     }
   ],
   "dedup": {
     "checks": {
-      "https://designcompass.org/en/2026/10/26/google-gemini-on-brand-visuals/": {
+      "https://developers.googleblog.com/fast-reliable-a2ui/": {
         "verdict": "new",
-        "nearest": "https://techgenyz.com/google-stitch-gemini-3-8-flash-brand-ui-design/",
+        "nearest": "https://uxdesign.cc/ai-generated-ui-is-fast-design-not-ux-855ca8abcd28",
         "new_action": ""
       },
-      "https://www.aitimes.com/news/articleView.html?idxno=216679": {
+      "https://www.youtube.com/watch?v=BS-N-AM5ql4": {
         "verdict": "new",
-        "nearest": "https://www.creativebloq.com/design/graphic-design-software/coreldraw-adds-text-to-vector-ai-in-the-september-update-is-it-a-good-move",
+        "nearest": "https://dev.to/laurilllll/i-used-to-be-a-figma-expert-heres-how-i-design-now-4lm9",
         "new_action": ""
       },
-      "https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2": {
+      "https://www.creativebloq.com/news/etsys-crackdown-on-ai-slop-is-welcome-but-it-shows-how-far-things-have-slipped": {
         "verdict": "new",
-        "nearest": "https://www.figma.com/blog/design-together-with-code-layers/",
+        "nearest": "https://petapixel.com/2026/10/21/just-eat-food-delivery-app-apologizes-for-ai-generated-menu-photo-showing-bacon-floating-in-soda/",
         "new_action": ""
       },
-      "https://www.youtube.com/watch?v=eojywvxqoLc": {
+      "https://www.cgchannel.com/2026/10/new-cg-software-you-may-have-missed-25-october-2026/": {
         "verdict": "new",
-        "nearest": "https://www.windowslatest.com/2026/10/20/even-designers-are-now-using-ai-to-code-windows-11-and-microsoft-says-were-only-getting-started/",
+        "nearest": "https://www.cgchannel.com/2026/10/new-cg-software-you-may-have-missed-18-october-2026/",
         "new_action": ""
       },
-      "https://www.intelligentliving.co/moss-image-open-source-model/": {
+      "https://www.mindstudio.ai/blog/cli-anything-turn-apps-into-cli-for-ai-agents/": {
         "verdict": "new",
-        "nearest": "https://www.mindstudio.ai/blog/iris-3b-pixel-space-image-model/",
+        "nearest": "https://dev.to/dd8888/logo-design-skill-packages-svg-checks-for-ai-agents-bfk",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates: Creative Bloq 'Just Eat AI apocalypse' is the same Just Eat story published 10-22 via PetaPixel. TechEBlog 'Grok Imagine Odyssey' already ran in movies on 10-26 (cross-section). Chosunbiz 'ElevenLabs Instant Soundtrack' is reserved for music per the curator brief (cross-section). The Verge 'Pennsylvania AI ad labels' is already in published_urls.json under marketing on 10-25 (same URL). Skipped as cross-section risks or off-section: The Verge 'Shogun 2 AI-botched remaster' belongs to games; The Verge 'Blue Planet III' and ForkLog 'Seedance rankings' are movies territory. CG Channel 25 Oct roundup is a weekly round-up of the same series published 10-20 with no single new release, so it was skipped. Not picked on score or diversity: Engineering.com Document Crunch and Siemens/NVIDIA PCB (construction and electronics, with little designer relevance; Siemens ran 10-25), Autodesk Forma prompting (vendor session recap), DEV 11 design-to-code tools (listicle close to the 09-27 comparison), DEV inpainting text fix (same topic as MOSS-Image, kept the release), Figma Config India talk (evergreen keynote), ABS-CBN Adobe indemnify (vendor pitch), Fstoppers retouching essay, VoxelMatters TopMod 3D v3 (AI looks incidental). Outlets: 5 distinct, 1 each. Categories: figma x2 (second uses #7928ca), workflow, social, tokens."
+    "note": "Re-curation swap on 2026-10-28. Removed: (1) Runway App Studio, already published in movies on 2026-10-27. (2) Engadget Apple Creator Studio update, assigned to another section today; the same URL is also in selected_movies.json, so the orchestrator should resolve that. The Verge Pages/Keynote/Numbers piece was excluded as well: it is the same Apple update, and gadgets ran it on 10-24. Replacements: the CG Channel 25 Oct round-up, a new weekly instalment whose releases (EdenLive, KeenFace, Gaffer MCP) differ from the 18 Oct round-up published 10-20, and MindStudio CLI-Anything, a new tool. Still excluded: The Verge Genie 4, because the games section picked the DeepMind Genie 4 primary source today (cross-section clash). MindStudio FLUX 3 Klein is the same story as the 10-16 Hugging Face post. DEV 'approval UX' duplicates the 10-11 DEV piece. NVIDIA RTX Spark continues the 10-14 story and belongs to games. Not picked for relevance: StandardFlow (engineering compliance), the Notion billboard (marketing), the Opus-vs-GPT 3D shoot-out, the DEV error-states and UX Collective essays (evergreen), the Config India keynote and the Adobe Stock short (promo). The A2UI accent stays #3b6bff as instructed, even though it is now the only workflow pick. Outlets: 5 distinct. Categories: workflow, social, figma, render, tokens."
   }
 }

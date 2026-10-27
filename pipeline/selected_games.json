@@ -1,96 +1,96 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "section": "games",
   "items": [
     {
-      "title": "Remix launches platform for anyone to build their own game on desktop, web or mobile",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "url": "https://gamesbeat.com/remix-launches-platform-for-anyone-to-build-their-own-game-on-desktop-web-or-mobile/",
-      "source": "GamesBeat",
-      "published_iso": "2026-10-26T19:50:00+00:00",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/10/remix.jpg",
-      "excerpt": "Remix, a game-making platform used by about 1.5 million players and creators, launched desktop apps for Windows, Mac and Linux; creators describe the game they want and Remix's AI tools write the code, then host it with leaderboards and real-time multiplayer.",
-      "rationale": "Concrete new product release (desktop apps) for prompt-to-game creation with hosting and multiplayer; most actionable item in the pool."
+      "title": "Genie 4: A new generation of world simulation",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "source": "Google DeepMind",
+      "published_iso": "2026-10-27T16:13:00+00:00",
+      "og_image": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w1200-h630-n-nu-rw",
+      "excerpt": "Genie 4 introduces real-time interactive world simulation with native audio, advanced physics, natural human motion, and steering powered by Gemini models.",
+      "rationale": "Primary-source release of a new real-time interactive world model, the biggest tool news for game prototyping this cycle."
     },
     {
-      "title": "AI 환경 편의성 확장, 챗GPT용 '하이브 액실 플러그인' 공개",
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "url": "https://www.gamemeca.com/view.php?gid=1782378",
-      "source": "게임메카",
-      "published_iso": "2026-10-26T17:42:32+09:00",
-      "og_image": "https://cdn.gamemeca.com/gmdata/0001/782/378/gm848791_thumb____GPT.webp",
-      "excerpt": "컴투스플랫폼은 AI 특화 게임 백엔드 서비스 하이브 액실 플러그인을 챗GPT에서 제공한다고 밝혔다. 이를 통해 자연어 요청만으로 로그인과 결제 등 다양한 백엔드 기능을 간편하게 연동할 수 있게 되었다. 또한 애널리틱스 기능을 통해 유저 반응을 시각화하여 게임 업데이트와 운영 방향...",
-      "rationale": "New release on a running product: Hive Axil now ships as a ChatGPT plugin wiring login/payment/analytics backend via natural language; Korean-market primary coverage."
+      "title": "Epic Games is updating its EULA to allow AI training",
+      "url": "https://www.gamedeveloper.com/programming/epic-is-updating-the-eula-to-allow-ai-training-on-outputs-from-unreal-engine-and-metahuman",
+      "source": "Game Developer",
+      "published_iso": "2026-10-27T17:53:41.000Z",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf023070cdf9c6ebf/682da8904feafa6cf12bbc97/Fortnite_Header.png?disable=upscale&width=1200&height=630&fit=crop",
+      "excerpt": "Epic Games CEO Tim Sweeney casually states that the EULA for using Epic's engines will allow for training AI on the output.",
+      "rationale": "A concrete licensing change: AI training on Unreal Engine and MetaHuman output becomes allowed, which matters to every UE developer."
     },
     {
-      "title": "\"Just because you can order at a restaurant doesn't mean you're a chef\": Game lawyer says AI-generated code made with confidential details did nothing but waste everybody's time",
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "url": "https://www.gamesradar.com/games/just-because-you-can-order-at-a-restaurant-doesnt-mean-youre-a-chef-game-lawyer-says-ai-generated-code-made-with-confidential-details-did-nothing-but-waste-everybodys-time/",
-      "source": "GamesRadar+",
-      "published_iso": "2026-10-26T17:12:44Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Led8MKdaEhJzPHbQzNsQna-1920-80.jpg",
-      "excerpt": "Game code delivered to a client was killed after the programmer admitted knowing nothing about it",
-      "rationale": "Fresh, concrete contracting/legal case: client-delivered AI code built on confidential details was scrapped; practical warning for studios outsourcing work."
+      "title": "AI video game wikis riddled with errors are taking over, and pushing real fans to the side",
+      "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+      "source": "Eurogamer",
+      "published_iso": "2026-10-27T10:00:41.785138+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/gamedb-wiki-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "LLM-powered wikis, often full of inaccurate or irrelevant information, are starting to take over, leaving fans sidelined and publishers playing whack-a-mole.",
+      "rationale": "Fresh reported angle (LLM-generated fan wikis) that the section has not covered, with publishers responding."
     },
     {
-      "title": "Final Fantasy And Chrono Trigger Veterans Believe Modern Developers Must Possess Skill To Take An Idea 'From 0 To 1' In The Age Of AI",
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "url": "https://kotaku.com/final-fantasy-and-chrono-trigger-veterans-believe-modern-developers-must-possess-skill-to-take-an-idea-from-0-to-1-in-the-age-of-ai-2000749690",
-      "source": "Kotaku",
-      "published_iso": "2026-10-26T15:30:44+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2026/10/Secret-of-Mana-Tree.jpg",
-      "excerpt": "Yoshinori Kitase and other Square Enix creatives also reflected on the SNES development of the Mana series",
-      "rationale": "New statements from Kitase and Square Enix veterans on what human skill still matters with AI; distinct from the earlier Horii (Dragon Quest) piece; adds a fourth outlet."
+      "title": "Peter Molyneux believes 'it's almost impossible to code now without using AI'",
+      "url": "https://www.pcgamer.com/games/strategy/peter-molyneux-speaks-candidly-about-ai-we-as-the-industry-are-pretending-were-not-using-ai-but-the-reality-is-its-almost-impossible-to-code-now-without-using-ai/",
+      "source": "PC Gamer",
+      "published_iso": "2026-10-27T13:30:01Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/cCbNLBoom6H44tX6QPEMwa-1920-80.jpg",
+      "excerpt": "The father of the god game weighs in on AI use in the gaming industry",
+      "rationale": "A veteran designer says outright that the industry is quietly using AI for code, a counterpoint to the anti-AI statements from studios."
     },
     {
-      "title": "UGC platforms are turning to AI to make game developers out of everyday players",
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "url": "https://gamesbeat.com/ugc-platforms-are-turning-to-ai-to-make-game-developers-out-of-everyday-players/",
-      "source": "GamesBeat",
-      "published_iso": "2026-10-26T12:00:00+00:00",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/10/AiPromptingExtraExampleAddLightBeam.png",
-      "excerpt": "UGC platforms like Roblox and Fortnite are stepping up their built-in AI tools to make game creation more accessible to the masses.",
-      "rationale": "Cross-platform look at Roblox/Fortnite built-in AI creation tools; broader than the 10-12 Roblox Build evaluation post. Enrichment pass should confirm it reports current tool features rather than a recap."
+      "title": "Zero Escape Writer Is Pro-AI, Believes His New Studio's Game Wouldn't Have Been Canceled If He'd Used It To Cut Costs",
+      "url": "https://kotaku.com/zero-escape-writer-is-pro-ai-believes-his-new-studios-game-wouldnt-have-been-canceled-if-hed-used-it-to-cut-costs-2000749911",
+      "source": "Kotaku",
+      "published_iso": "2026-10-27T14:30:31+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/10/Hundred-Line.jpeg",
+      "excerpt": "Kotaro Uchikoshi understands the resistance to AI, but feels it is necessary to cut costs and make games faster",
+      "rationale": "A narrative-game auteur links a real cancelled project to AI cost economics, a concrete case from the Japanese side of the debate."
     }
   ],
   "dedup": {
     "checks": {
-      "https://gamesbeat.com/remix-launches-platform-for-anyone-to-build-their-own-game-on-desktop-web-or-mobile/": {
+      "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
         "verdict": "new",
-        "nearest": "https://gamesbeat.com/dreamlands-opens-its-ai-3d-world-building-platform-to-the-public-exclusive/",
+        "nearest": "https://www.ign.com/articles/google-ai-agents-killed-ender-dragon-minecraft",
         "new_action": ""
       },
-      "https://www.gamemeca.com/view.php?gid=1782378": {
-        "verdict": "follow-up",
-        "nearest": "https://www.inven.co.kr/webzine/news/?news=321491",
-        "new_action": "New release: Hive Axil plugin now available inside ChatGPT (natural-language backend integration + analytics), after the 09-30 platform launch."
+      "https://www.gamedeveloper.com/programming/epic-is-updating-the-eula-to-allow-ai-training-on-outputs-from-unreal-engine-and-metahuman": {
+        "verdict": "new",
+        "nearest": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
+        "new_action": ""
       },
-      "https://www.gamesradar.com/games/just-because-you-can-order-at-a-restaurant-doesnt-mean-youre-a-chef-game-lawyer-says-ai-generated-code-made-with-confidential-details-did-nothing-but-waste-everybodys-time/": {
+      "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://kotaku.com/final-fantasy-and-chrono-trigger-veterans-believe-modern-developers-must-possess-skill-to-take-an-idea-from-0-to-1-in-the-age-of-ai-2000749690": {
+      "https://www.pcgamer.com/games/strategy/peter-molyneux-speaks-candidly-about-ai-we-as-the-industry-are-pretending-were-not-using-ai-but-the-reality-is-its-almost-impossible-to-code-now-without-using-ai/": {
+        "verdict": "new",
+        "nearest": "https://kotaku.com/xbox-manager-tries-to-legitimize-ai-in-wild-rant-deletes-his-account-instead-2000747938",
+        "new_action": ""
+      },
+      "https://kotaku.com/zero-escape-writer-is-pro-ai-believes-his-new-studios-game-wouldnt-have-been-canceled-if-hed-used-it-to-cut-costs-2000749911": {
         "verdict": "new",
         "nearest": "https://kotaku.com/dragon-quest-creator-yuji-horii-thinks-ai-is-amazing-as-he-no-longer-needs-to-code-or-draw-to-make-a-game-2000744194",
         "new_action": ""
-      },
-      "https://gamesbeat.com/ugc-platforms-are-turning-to-ai-to-make-game-developers-out-of-everyday-players/": {
-        "verdict": "new",
-        "nearest": "https://corp.roblox.com/newsroom/2026/10/how-roblox-evaluates-build-game-creation",
-        "new_action": ""
       }
     },
-    "note": "Dropped as repeats of published running stories: Steam Next Fest slop (PC Gamer top-50 tally, GamesRadar Valve veteran, Eurogamer 8,000 demos) vs IGN 10-20; Sweeney 'political act' (GI.biz) vs GamesRadar 10-24; Shogun 2 VP statement (likely-repeat) vs Kotaku 10-15/10-16; Goku voice actor vs Eurogamer Japanese union 10-20; Playgama Sandbox/MCP (80.lv) vs GamesBeat Playgama suite 10-15; DLSS 5 October update (PC Gamer) vs wccftech 10-14; AI decomp/port pieces (Verge retro gaming, Kotaku Microsoft/Epic 'AI is theft', Aftermath hobbies slopped) vs Xbox 10-14, decomp.dev 10-16, Pokemon 10-25, TheGamer 10-26; AI copycat/demo-theft pieces (RPS Needle in Haystack, Aftermath demos, Gamemeca 역설계) vs GamesRadar 09-27, Kotaku 10-17, inven 10-21, Gamemeca 10-26. Also skipped: Musk/Sweeney spat (10-19, commentary on Epic AI-first already run 10-13), RPS Samson/Star Trek Online exec interviews (commentary), 80.lv Tripo P2.0 & Astra (team-authored, likely partner content). Cross-section: candidate URLs not found in published_urls.json books/design sections (other sections not exhaustively scanned; outlets are games-only)."
+    "note": "Dropped as same story already published: Game Developer 'Epic Disney AI-first' (= gamesindustry.biz 10-13); NVIDIA RTX Spark neural rendering dev blog (same RTX Spark platform published 10-16, no new release); GamesRadar Valve veteran Steam slop (commentary on the Next Fest slop story, IGN 10-20); Verge 'Retro gaming overrun with AI', Aftermath 'hobbies slopped up', GamesRadar RE Outbreak browser port (running AI decomp/recomp/browser-port story: Xbox Labs 10-14, decomp.dev 10-16, Pokemon decomp 10-25, TheGamer 10-26); Aftermath Valve shopfront AI clones (running AI-clone story 10-17/10-21/10-24/10-26). Deprioritized: Destructoid EA morale (layoffs/business angle), Kotaku PS5 homebrew (AI incidental to the exploit story), Kotaku Microsoft/Epic 'AI is theft' (opinion, Kotaku already has 1 pick), RPS Samson founder (speculative). Cross-section: all picks were published after the 10-27 run (after 10-26 22:00 UTC), so none can be in published_urls.json from earlier days. Genie 4 could also show up in today's science candidates, so the orchestrator should check for a same-day clash. Only one card per outlet."
   }
 }

@@ -1,31 +1,7 @@
-{
-  "date": "2026-10-27",
-  "section": "games",
-  "media": [
-    {
-      "id": "games-remix",
-      "type": "image",
-      "src": "pipeline/media/games-remix.jpg"
-    },
-    {
-      "id": "games-hive-axil-chatgpt",
-      "type": "image",
-      "src": "pipeline/media/games-hive-axil-chatgpt.jpg"
-    },
-    {
-      "id": "games-ai-code-lawyer",
-      "type": "image",
-      "src": "pipeline/media/games-ai-code-lawyer.jpg"
-    },
-    {
-      "id": "games-kitase-zero-to-one",
-      "type": "image",
-      "src": "pipeline/media/games-kitase-zero-to-one.jpg"
-    },
-    {
-      "id": "games-ugc-ai-creators",
-      "type": "image",
-      "src": "pipeline/media/games-ugc-ai-creators.png"
-    }
-  ]
-}
+{"date":"2026-10-28","section":"games","media":[
+{"id":"genie4","type":"video","src":"pipeline/media/genie4.mp4","poster":"pipeline/media/genie4.jpg"},
+{"id":"epiceula","type":"image","src":"pipeline/media/epiceula.png"},
+{"id":"aiwikis","type":"image","src":"pipeline/media/aiwikis.png"},
+{"id":"molyneux","type":"image","src":"pipeline/media/molyneux.jpg"},
+{"id":"uchikoshi","type":"image","src":"pipeline/media/uchikoshi.jpg"}
+]}

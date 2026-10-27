@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "section": "medicine",
   "user_selection": null,
   "picks": [
@@ -9,14 +9,14 @@
       "category": "medicine",
       "accent": "#00897b",
       "motif": "sphere",
-      "title": "AI tech detects high-risk coronary inflammation in many asymptomatic patients",
-      "url": "https://cardiovascularbusiness.com/topics/cardiac-imaging/ai-tech-detects-high-risk-coronary-inflammation-many-asymptomatic-patients",
-      "source": "Cardiovascular Business",
-      "published_iso": "2026-10-23T16:31:44Z",
-      "og_image": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/caristo_fai_used_in_first_us_study_since_fda_clearance.jpg?h=bbbde541&itok=qf5yoKO9",
-      "excerpt": "The first U.S. study of Caristo's FDA-cleared CaRi-Heart AI found about 47% of asymptomatic adults with no detectable coronary plaque had elevated perivascular inflammation on cardiac CT, questioning standard risk assessment tools.",
+      "title": "AI May Help Detect Rare Sperm in Men With Azoospermia",
+      "url": "https://www.medpagetoday.com/meetingcoverage/asrm/123609",
+      "source": "MedPage Today",
+      "published_iso": "2026-10-27T20:30:43Z",
+      "og_image": "https://assets.medpagetoday.net/media/images/123xxx/123609.jpg",
+      "excerpt": "An AI system that scans testicular tissue samples for rare sperm in men with azoospermia was presented at ASRM 2026; researchers said it has already resulted in three live births.",
       "lang": "en",
-      "rationale": "A clinical finding from an FDA-cleared tool: in its first U.S. study, CaRi-Heart AI showed elevated coronary inflammation in about 47% of asymptomatic adults who had no detectable plaque. That challenges how clinicians stratify cardiac risk. The tagged 10-25 Elucid card was a different company and product (an FFR-CT clearance), not this study. (Swap backfill for the JAMA WISeR letter, whose findings are paywalled.)"
+      "rationale": "A clinical result tied to real patient outcomes: AI that finds rare sperm in testicular tissue from men with azoospermia has already led to three live births (ASRM 2026). Nothing in the 30-day history covers fertility or andrology."
     },
     {
       "rank": 2,
@@ -24,14 +24,14 @@
       "category": "medicine",
       "accent": "#0070f3",
       "motif": "sphere",
-      "title": "AI Scribes Improved Note-Taking Time but Not Productivity, Study Finds",
-      "url": "https://www.medpagetoday.com/practicemanagement/informationtechnology/123591",
-      "source": "MedPage Today",
-      "published_iso": "2026-10-26T21:00:00Z",
-      "og_image": "https://assets.medpagetoday.net/media/images/123xxx/123591.jpg",
-      "excerpt": "After clinicians enrolled in the Heidi ambient scribe at Beth Israel Deaconess, median note-active time fell from 21 to 18.6 minutes, but there was no change in same-day or after-hours note closure or clinical productivity (Annals of Internal Medicine).",
+      "title": "ChatGPT-5 misses half of distal radius fractures on x-rays",
+      "url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15975589/chatgpt5-misses-half-of-distal-radius-fractures-on-xrays",
+      "source": "AuntMinnie",
+      "published_iso": "2026-10-27T19:31:26Z",
+      "og_image": null,
+      "excerpt": "Rambam Health Care Campus researchers (Emergency Radiology, Oct 26) found ChatGPT-5 had 51.2% sensitivity and 61.6% accuracy on 370 wrist x-rays, missing 83 of 170 distal radius fractures.",
       "lang": "en",
-      "rationale": "A real-world result (Annals of Internal Medicine) that tempers the ambient-scribe hype: notes take less time to write, but notes are not closed sooner and productivity does not change. It speaks directly to health systems deciding on scribe rollouts. This is the single scribe card for the day: the npj adoption cohort and the NEJM AI longitudinal study were set aside."
+      "rationale": "A patient-safety warning that clinicians can act on: a general-purpose chatbot missed 83 of 170 wrist fractures (51.2% sensitivity). The 10-10 GPT-5 card was a multimodal diagnosis benchmark, and the 10-16 card was about detecting AI-generated chest x-rays. Neither is this study."
     },
     {
       "rank": 3,
@@ -39,14 +39,14 @@
       "category": "medicine",
       "accent": "#7928ca",
       "motif": "sphere",
-      "title": "Pennsylvania House passes bill requiring AI disclosure in healthcare",
-      "url": "https://radiologybusiness.com/topics/artificial-intelligence/pennsylvania-house-passes-bill-requiring-ai-disclosure-healthcare",
-      "source": "Radiology Business",
-      "published_iso": "2026-10-26T20:18:53Z",
-      "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-03/istock-2214959014.jpg?h=140710cd&itok=VthZy7qr",
-      "excerpt": "If enacted, the legislation would require healthcare facilities, including imaging centers, to disclose their use of AI in clinical decision-making through website postings and written patient notifications.",
+      "title": "SIIM-CAIMI: AI triaging for ICH leads to faster turnaround times",
+      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15975544/siimcaimi-ai-triaging-for-ich-leads-to-faster-turnaround-times",
+      "source": "AuntMinnie",
+      "published_iso": "2026-10-27T19:29:56Z",
+      "og_image": null,
+      "excerpt": "A multisite University of Washington study of an AI intracranial hemorrhage triage system found 79.3% sensitivity and 94.2% specificity; median report turnaround for ICH-positive head CTs fell from 214 to 201 minutes and AI-flagged patients reached admission sooner.",
       "lang": "en",
-      "rationale": "A concrete legislative action: a state House vote that would require facilities to tell patients when AI is used in clinical decisions. The 10-15 STAT lobbying card was about lobbying over state rules in general, and the 10-07 Utah card was about sandbox pilots, so this is a distinct event. No other section has claimed it, including politics."
+      "rationale": "Real-world deployment evidence from a multisite University of Washington study: AI triage for brain bleeds (ICH) shortened report turnaround, and flagged patients were admitted sooner. The history has no ICH-triage card. The 10-22 PE-detection card covered a different finding and different sites. This is the second AuntMinnie card, which is the outlet cap."
     },
     {
       "rank": 4,
@@ -54,14 +54,14 @@
       "category": "medicine",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "title": "Coreline Soft secures FDA clearance for aortic CT software",
-      "url": "https://www.auntminnie.com/clinical-news/ct/news/15975406/coreline-soft-coreline-soft-secures-fda-clearance-for-aortic-ct-software",
-      "source": "AuntMinnie",
-      "published_iso": "2026-10-26T19:24:08Z",
-      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/ai-logo.fJ1t11ItHd.jpg?auto=format%2Ccompress&q=70&w=400",
-      "excerpt": "Seoul-based Coreline Soft received FDA 510(k) clearance for Aview Aorta Metrics, AI software that automatically segments the aorta on chest CT, classifies aortic zones and measures each zone's diameter. It is the company's 13th FDA clearance.",
+      "title": "Scalable drift monitoring in medical imaging AI",
+      "url": "https://www.nature.com/articles/s41746-026-03301-1",
+      "source": "npj Digital Medicine",
+      "published_iso": "2026-10-27T00:00:00Z",
+      "og_image": null,
+      "excerpt": "The integration of artificial intelligence (AI) into clinical medical imaging has advanced diagnostics but also poses challenges in maintaining long-term reliability as input data change. To address this, we present MMC+, a modular framework for scalable drift monitoring that builds on our CheXstray",
       "lang": "en",
-      "rationale": "A regulator decision: an FDA 510(k) for automated measurement of aortic diameter by zone on chest CT, from a Korean vendor. The tagged 10-07 AIRS Medical card covered a different company and modality. The 10-10 Coreline card covered a Japanese society certification, not this FDA clearance."
+      "rationale": "Post-deployment safety for clinical imaging AI: MMC+ monitors deployed models for input drift, which is the operational gap that regulators and the AMA have been raising. The 10-25 card on AI checking breast-cancer models audited trustworthiness of the models themselves. This one is about monitoring live input data, so it is distinct."
     },
     {
       "rank": 5,
@@ -69,44 +69,44 @@
       "category": "medicine",
       "accent": "#f5a623",
       "motif": "sphere",
-      "title": "AI fails to compensate for night-shift fatigue among residents",
-      "url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15838345/ai-fails-to-compensate-for-nightshift-fatigue-among-residents",
-      "source": "AuntMinnie",
-      "published_iso": "2026-10-23T18:56:51Z",
-      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/ai-fatigue.c48mc7dd9z.jpg?auto=format%2Ccompress&fit=max&q=70&w=400",
-      "excerpt": "Radiology residents' chest x-ray accuracy fell significantly after overnight shifts, and AI assistance neither restored pre-shift performance nor meaningfully improved fatigued readers' accuracy, raising patient-safety concerns.",
+      "title": "UnitedHealthcare expands AI companion Avery to 21M members",
+      "url": "https://www.fiercehealthcare.com/payers/unitedhealthcare-expands-ai-companion-avery-21m-members",
+      "source": "Fierce Healthcare",
+      "published_iso": "2026-10-26T21:00:00Z",
+      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1635360990/UnitedHealthcare_sign.jpg/UnitedHealthcare_sign.jpg?VersionId=mRAMc4oGgCt6.6zJw_PKJwe2kXPjRXqW",
+      "excerpt": "UnitedHealthcare is expanding Avery, its generative AI companion for care coordination, to 21 million members.",
       "lang": "en",
-      "rationale": "A patient-safety finding: AI assistance did not restore fatigued residents' chest x-ray accuracy after night shifts, which challenges the idea of AI as a safety net on overnight reads. It differs from the 10-24 meta-analysis of human oversight of erroneous AI and the 10-21 automation-bias card. This is the second AuntMinnie card, which is the outlet cap."
+      "rationale": "A patient-facing rollout: the largest U.S. insurer is putting a generative AI care-coordination companion in front of 21 million members. No UnitedHealthcare or Avery card exists in the history. The nearest payer or care-ops card is the 10-23 Sentara/Regard case-management tool, which is a different company and product."
     }
   ],
   "dedup": {
     "checks": {
-      "https://cardiovascularbusiness.com/topics/cardiac-imaging/ai-tech-detects-high-risk-coronary-inflammation-many-asymptomatic-patients": {
+      "https://www.medpagetoday.com/meetingcoverage/asrm/123609": {
         "verdict": "new",
-        "nearest": "https://cardiovascularbusiness.com/topics/artificial-intelligence/fda-clears-elucids-new-ai-enabled-ffr-ct-software",
+        "nearest": "",
         "new_action": ""
       },
-      "https://www.medpagetoday.com/practicemanagement/informationtechnology/123591": {
+      "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15975589/chatgpt5-misses-half-of-distal-radius-fractures-on-xrays": {
         "verdict": "new",
-        "nearest": "https://www.healthcaredive.com/news/teladoc-unveils-remote-monitoring-ambient-ai-features/832328/",
+        "nearest": "https://www.nature.com/articles/s41746-026-03325-7",
         "new_action": ""
       },
-      "https://radiologybusiness.com/topics/artificial-intelligence/pennsylvania-house-passes-bill-requiring-ai-disclosure-healthcare": {
+      "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15975544/siimcaimi-ai-triaging-for-ich-leads-to-faster-turnaround-times": {
         "verdict": "new",
-        "nearest": "https://www.statnews.com/2026/10/14/lobbyists-trade-groups-ama-push-autonomous-clinical-ai-regulations/",
+        "nearest": "https://www.nature.com/articles/s41746-026-03418-3",
         "new_action": ""
       },
-      "https://www.auntminnie.com/clinical-news/ct/news/15975406/coreline-soft-coreline-soft-secures-fda-clearance-for-aortic-ct-software": {
+      "https://www.nature.com/articles/s41746-026-03301-1": {
         "verdict": "new",
-        "nearest": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/15836632/airs-medical-inc-airs-medical-secures-fda-clearance-for-mri-software",
+        "nearest": "https://radiologybusiness.com/topics/artificial-intelligence/artificial-intelligence-checks-trustworthiness-breast-cancer-ai-models",
         "new_action": ""
       },
-      "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15838345/ai-fails-to-compensate-for-nightshift-fatigue-among-residents": {
+      "https://www.fiercehealthcare.com/payers/unitedhealthcare-expands-ai-companion-avery-21m-members": {
         "verdict": "new",
-        "nearest": "https://www.nature.com/articles/s41746-026-03408-5",
+        "nearest": "https://www.fiercehealthcare.com/ai-and-machine-learning/sentara-health-deploys-new-ai-case-management-tool-co-developed-regard",
         "new_action": ""
       }
     },
-    "note": "SWAP (coordinator): removed the JAMA WISeR AI prior-authorization research letter at rank 1. Its results are paywalled or Cloudflare-blocked and no coverage reports the findings, so the card could not state a finding. Backfill: Cardiovascular Business, CaRi-Heart first U.S. study (10-23). It reports a concrete finding (about 47% of asymptomatic adults with no plaque had elevated inflammation), it is the only Cardiovascular Business card, and the tagged 10-25 Elucid FFR-CT card is a different product and event. Other candidates considered for the backfill: SIIM-CAIMI Stanford LLM pipeline (would be a third AuntMinnie card, over the cap); UnitedHealthcare Avery expansion (a payer product scale-up, with a weaker patient or clinical finding); Samsung Medical Center PICC KakaoTalk chatbot (docdocdoc idxno=3043967, unique by full URL against the 10-09 idxno=3043448 card, a viable runner-up but a narrower single-hospital service launch); and 재활의학회, 웨이센 and 뷰노 on bosa (idxno=3014853, 3014716 and 3014707; none appear in the history, but they are a society discussion and two vendor trade-show promos with no clinical or regulatory change). DROPPED AS DUPLICATES: Nature 'AI doctors' orders come with a sky-high bill' (same NEJM AI cost study as the 10-17 card); Cardiovascular Business 'Clinicians from all specialties use AI to answer cardiology questions' and STAT 'OpenEvidence's JAMA paper' (same OpenEvidence JAMA study as the 10-16 Becker's card); STAT AMIE takeaways and Nature Medicine 'Putting conversational AI to the test in primary care' (AMIE running story from 10-10, commentary); the FDA generative-AI docket cluster (Radiology Business RSNA comments, Endpoints evidence standards, MedCity Abramson remarks), which is comment letters and remarks on the consultation published 10-23 with no new FDA decision. WITHIN-POOL: one ambient-scribe card only, so npj adoption patterns and NEJM AI longitudinal documentation were set aside. CROSS-SECTION: none of the picks appear in today's politics pool or the politics 30-day history. published_urls.json is too large for a full read here, so the orchestrator should run its exact-grep backstop. Diversity: 4 outlets (Cardiovascular Business x1, MedPage Today x1, Radiology Business x1, AuntMinnie x2). No pathogen or biosecurity content."
+    "note": "DROPPED AS DUPLICATES (30-day medicine history): Cardiovascular Business 'Clinicians from all specialties use AI to answer cardiology questions' and STAT 'OpenEvidence's JAMA paper leaves open questions' (history_match related) are the same OpenEvidence JAMA study as the 10-16 Becker's card. Radiology Business 'Radiology societies weigh in on FDA's push to regulate generative AI' and MedCity 'AMA Calls for Risk-Based GenAI Oversight' are comment letters on the FDA generative-AI docket that was published 10-23 (Healthcare Dive, developers accountable), with no new FDA decision. Radiology Business 'adapting adult radiology AI models to pediatric population' is the same study as the 10-14 Nature BME neonatal continual-learning card. STAT 'AI sandboxes are all the rage' is newsletter commentary in the running state-AI-regulation story (10-15 STAT lobbyists card, 10-07 Utah pilots), with no new decision. DELIBERATELY SKIPPED: the JAMA WISeR AI prior-authorization research letter. It is fresh, but it was swapped out of the 10-27 medicine picks because its findings are paywalled or Cloudflare-blocked and no coverage reports them, and that has not changed. NOT PICKED ON RANK: the npj prospective radiographer fracture study (it would be a second fracture card next to the ChatGPT-5 pick, and the outlet and topic spread is better without it); SIIM-CAIMI Apollo (it would be a third AuntMinnie card, over the outlet cap); and UT Dell Medicine's AI-native hospital (an institutional and organizational announcement with no change in care yet). It is the strongest runner-up if a swap is needed. CROSS-SECTION: I read the politics and science sections of published_urls.json in full, and none of the picked URLs or story subjects appear there. I did not read the other sections in full, and these medical stories are unlikely to appear in them. The orchestrator can still run its exact-grep backstop. Diversity: 4 outlets (MedPage Today x1, AuntMinnie x2, npj Digital Medicine x1, Fierce Healthcare x1). No pathogen or biosecurity content."
   }
 }

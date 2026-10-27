@@ -1,33 +1,7 @@
-{
-  "date": "2026-10-27",
-  "section": "design",
-  "media": [
-    {
-      "id": "design-gemini-brand-style",
-      "type": "image",
-      "src": "pipeline/media/design-gemini-brand-style.jpg"
-    },
-    {
-      "id": "design-ideogram-svg",
-      "type": "video",
-      "src": "pipeline/media/design-ideogram-svg.mp4",
-      "poster": "pipeline/media/design-ideogram-svg.jpg"
-    },
-    {
-      "id": "design-figma-mcp-library",
-      "type": "image",
-      "src": "pipeline/media/design-figma-mcp-library.jpg"
-    },
-    {
-      "id": "design-shopify-fullstack-designer",
-      "type": "video",
-      "src": "pipeline/media/design-shopify-fullstack-designer.mp4",
-      "poster": "pipeline/media/design-shopify-fullstack-designer.jpg"
-    },
-    {
-      "id": "design-moss-image",
-      "type": "image",
-      "src": "pipeline/media/design-moss-image.jpg"
-    }
-  ]
-}
+{"date":"2026-10-28","section":"design","media":[
+{"id":"a2ui","type":"image","src":"pipeline/media/a2ui.png"},
+{"id":"figma-agent-shaders","type":"video","src":"pipeline/media/figma-agent-shaders.mp4","poster":"pipeline/media/figma-agent-shaders.jpg"},
+{"id":"etsy-ai-photos","type":"video","src":"pipeline/media/etsy-ai-photos.mp4","poster":"pipeline/media/etsy-ai-photos.jpg"},
+{"id":"edenlive","type":"video","src":"pipeline/media/edenlive.mp4","poster":"pipeline/media/edenlive.jpg"},
+{"id":"cli-anything","type":"image","src":"pipeline/media/cli-anything.jpg"}
+]}

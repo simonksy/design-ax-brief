@@ -1,6 +1,33 @@
-{"date":"2026-10-27","section":"movies","media":[
-{"id":"movies-runway-app-studio","type":"video","src":"pipeline/media/movies-runway-app-studio.mp4","poster":"pipeline/media/movies-runway-app-studio.jpg"},
-{"id":"movies-sanxingdui-flop","type":"video","src":"pipeline/media/movies-sanxingdui-flop.mp4","poster":"pipeline/media/movies-sanxingdui-flop.jpg"},
-{"id":"movies-character-consistency","type":"video","src":"pipeline/media/movies-character-consistency.mp4","poster":"pipeline/media/movies-character-consistency.jpg"},
-{"id":"movies-ramayana-ai-dub","type":"image","src":"pipeline/media/movies-ramayana-ai-dub.jpg"}
-]}
+{
+  "date": "2026-10-28",
+  "section": "movies",
+  "media": [
+    {
+      "id": "resolve2112",
+      "type": "image",
+      "src": "pipeline/media/resolve2112.jpg"
+    },
+    {
+      "id": "sntpct",
+      "type": "image",
+      "src": "pipeline/media/sntpct.jpg"
+    },
+    {
+      "id": "newangles",
+      "type": "video",
+      "src": "pipeline/media/newangles.mp4",
+      "poster": "pipeline/media/newangles.jpg"
+    },
+    {
+      "id": "runwaysafety",
+      "type": "video",
+      "src": "pipeline/media/runwaysafety.mp4",
+      "poster": "pipeline/media/runwaysafety.jpg"
+    },
+    {
+      "id": "vcat-tvasahi",
+      "type": "image",
+      "src": "pipeline/media/vcat-tvasahi.png"
+    }
+  ]
+}

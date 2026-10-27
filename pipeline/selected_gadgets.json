@@ -1,168 +1,168 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "section": "gadgets",
   "picks": [
     {
-      "title": "Siri AI keeps getting better, here’s what’s new in iOS 27.2",
-      "url": "https://9to5mac.com/2026/10/26/siri-ai-keeps-getting-better-heres-whats-new-in-ios-27-2/",
-      "source": "9to5Mac",
+      "title": "Ollama brings free, local text-to-speech to your Mac with natural-sounding AI voices",
+      "url": "https://www.digitaltrends.com/computing/ollama-brings-free-local-text-to-speech-to-your-mac-with-natural-sounding-ai-voices/",
+      "source": "Digital Trends",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "New release: Apple shipped the 27.2 updates on every platform, adding new Siri AI features. According to Korean coverage, this is also when the Siri AI beta adds Korean, one of six supported languages.",
-      "published_iso": "2026-10-26T18:36:02Z",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Apple is rolling out its 27.2 software updates today, and they introduce several improvements for Siri AI. Here’s what’s new."
+      "rationale": "New release: Ollama added local text-to-speech on Mac using Gradium's small Phonon models. It is free, needs no subscription, and runs fully on-device.",
+      "published_iso": "2026-10-26T23:07:18-07:00",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-logo-with-gradient-background.jpg?resize=1200%2C630&ssl=1",
+      "excerpt": "Ollama now lets Mac users turn text into natural-sounding speech locally with Phonon, a family of small text-to-speech models from Gradium. No subscription required."
     },
     {
-      "title": "Researchers develop a new forensic tool that can recover deleted AI chats from your phone’s memory",
-      "url": "https://www.digitaltrends.com/computing/researchers-develop-forensic-tool-orisa-to-recover-deleted-conversations-from-ai-chatbot-apps/",
-      "source": "Digital Trends",
+      "title": "Apple MacBook Pro M6 just unveiled with 30% faster graphics, 25% faster AI and up to 24 hours of battery life",
+      "url": "https://www.tomsguide.com/computing/macbooks/apple-reveals-m6-macbook-pro-for-pro-and-tell-week-heres-everything-thats-new",
+      "source": "Tom's Guide",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "New research: Georgia Tech's ORISA tool recovers deleted conversations from local AI chatbot apps on a phone and rebuilds them into a working session. Deleting a chat does not mean the data is gone from the device.",
-      "published_iso": "2026-10-26T23:09:29Z",
-      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/recovering-deleted-ai-chats.jpg?resize=1200%2C630&ssl=1",
-      "excerpt": "Think deleting an AI chat erases everything? Georgia Tech researchers developed a forensic tool that can recover deleted conversations from local AI apps and rebuild the information into a working session."
+      "rationale": "New hardware: Apple's M6 launch puts the new chip in the 14-inch MacBook Pro (and the iMac), claiming 25% faster AI performance. This one card covers the whole M6 launch cluster.",
+      "published_iso": "2026-10-27T13:14:15Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/7moKw5F2gzMVH2GPuzQHMT-980-80.jpg",
+      "excerpt": "Apple's new 14-inch MacBook Pro moves to the M6 chip, which Apple says brings 30% faster graphics and 25% faster AI performance, plus up to 24 hours of battery life."
     },
     {
-      "title": "Ray-Ban Meta: How to stop your glasses from training AI",
-      "url": "https://www.notebookcheck.net/Ray-Ban-Meta-How-to-stop-your-glasses-from-training-AI.1430044.0.html",
-      "source": "Notebookcheck",
+      "title": "[Hands-On] Comfort, Convenience, and More: A Day With Galaxy Buds On",
+      "url": "https://news.samsung.com/global/hands-on-comfort-convenience-and-more-a-day-with-galaxy-buds-on",
+      "source": "Samsung Global Newsroom",
+      "category": "gadgets",
+      "tool": "Gadgets",
+      "accent": "#f5a623",
+      "motif": "headset",
+      "rationale": "New product: Samsung's first clip-on, open-ear Galaxy Buds On launched in Korea with hands-free Gemini Live ('Hey Google, let's talk Live') and head-gesture call handling. This is the primary source for the launch.",
+      "published_iso": "2026-10-27T08:00:00+09:00",
+      "og_image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26123413/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Thumb932.jpg",
+      "excerpt": "Samsung's first clip-on open-ear Galaxy Buds On launch in Korea with hands-free Gemini Live ('Hey Google, let's talk Live'), head-gesture call handling and up to 9.5 hours of playback."
+    },
+    {
+      "title": "Opera wants websites to run AI on your laptop instead of sending your data to the cloud",
+      "url": "https://www.digitaltrends.com/computing/opera-wants-websites-to-run-ai-on-your-laptop-instead-of-sending-your-data-to-the-cloud/",
+      "source": "Digital Trends",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "New setting: the Meta AI app now has a toggle that stops images captured by Ray-Ban Meta glasses from being used to train Meta's AI, plus a second toggle for voice recordings outside the US. The article explains where US owners have fewer options.",
-      "published_iso": "2026-10-26T09:00:00Z",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ray-ban-meta-ki-training-teaser.jpg",
-      "excerpt": "Ask your Ray-Ban Meta glasses about what you're looking at, and Meta stores that image and may use it to train its AI. A new setting in the Meta AI app turns this off, and a second one covers voice recordings outside the US. Here is what each setting covers, where US owners have less choice and what"
+      "rationale": "New preview: Opera WebAI lets websites and extensions call AI models running locally on the user's computer, with per-site permissions. It is a new on-device AI platform for the browser.",
+      "published_iso": "2026-10-27T06:00:00-07:00",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-WebAI.jpeg?resize=1200%2C630&ssl=1",
+      "excerpt": "Opera’s WebAI preview lets websites and extensions use AI models running locally on supported computers, avoiding cloud processing and separate subscriptions while leaving access under the user’s control through site-specific permissions."
     },
     {
-      "title": "Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle — firmware exploit doubles RTX 4090",
-      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx-3090-ti-matrix-math-up-to-80-percent",
-      "source": "Tom's Hardware",
+      "title": "This old Nokia phone got an AI Upgrade it was never designed for",
+      "url": "https://www.engadget.com/2295625/old-nokia-phone-ai-upgrade-never-designed-for/",
+      "source": "Engadget",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "New finding: a firmware exploit removes Nvidia's half-rate tensor throttle on GeForce RTX 20/30/40 cards, doubling the RTX 4090's peak tensor rate. Tom's Hardware notes that real workloads gain much less and chatbot token speeds barely change.",
-      "published_iso": "2026-10-26T11:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/4Yvp7ck4v6d8JPBoNXVPfe-2560-80.jpg",
-      "excerpt": "Real workloads gain less than peak tensor rates, and chatbot token speeds stay about the same."
-    },
-    {
-      "title": "Major Even Realities G2 smart glasses update adds Conversate 'Pro Mode,' Knowledge Base",
-      "url": "https://9to5google.com/2026/10/26/even-realities-g2-glasses-update-adds-knowledge-based/",
-      "source": "9to5Google",
-      "category": "gadgets",
-      "tool": "Gadgets",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "rationale": "New software release: Even Realities is rolling out a major G2 firmware/app update that adds a Conversate 'Pro Mode' and a Knowledge Base the glasses' AI can draw on. These are new features, not a re-review of the hardware.",
-      "published_iso": "2026-10-26T16:41:26Z",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Even-Realities-G2-smart-glasses-13.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Even Realities today announced that a new software version will be rolling out to the G2 smart glasses, complete with..."
+      "rationale": "New hack: a developer vibe-coded 'Claude S40', which lets a 2G Nokia 6300 talk to Claude, ChatGPT, Gemini or Grok through a small Go server. It adds a reading mode and offline saving.",
+      "published_iso": "2026-10-27T18:30:00+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/l-intro-1792779965.jpg",
+      "excerpt": "A Turkish developer vibe-coded 'Claude S40', an app that lets a 2G Nokia 6300 talk to Claude, ChatGPT, Gemini or Grok via a small Go server, with a reading mode and offline saving of responses."
     }
   ],
   "items": [
     {
-      "title": "Siri AI keeps getting better, here’s what’s new in iOS 27.2",
-      "url": "https://9to5mac.com/2026/10/26/siri-ai-keeps-getting-better-heres-whats-new-in-ios-27-2/",
-      "source": "9to5Mac",
+      "title": "Ollama brings free, local text-to-speech to your Mac with natural-sounding AI voices",
+      "url": "https://www.digitaltrends.com/computing/ollama-brings-free-local-text-to-speech-to-your-mac-with-natural-sounding-ai-voices/",
+      "source": "Digital Trends",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "New release: Apple shipped the 27.2 updates on every platform, adding new Siri AI features. According to Korean coverage, this is also when the Siri AI beta adds Korean, one of six supported languages.",
-      "published_iso": "2026-10-26T18:36:02Z",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Apple is rolling out its 27.2 software updates today, and they introduce several improvements for Siri AI. Here’s what’s new."
+      "rationale": "New release: Ollama added local text-to-speech on Mac using Gradium's small Phonon models. It is free, needs no subscription, and runs fully on-device.",
+      "published_iso": "2026-10-26T23:07:18-07:00",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-logo-with-gradient-background.jpg?resize=1200%2C630&ssl=1",
+      "excerpt": "Ollama now lets Mac users turn text into natural-sounding speech locally with Phonon, a family of small text-to-speech models from Gradium. No subscription required."
     },
     {
-      "title": "Researchers develop a new forensic tool that can recover deleted AI chats from your phone’s memory",
-      "url": "https://www.digitaltrends.com/computing/researchers-develop-forensic-tool-orisa-to-recover-deleted-conversations-from-ai-chatbot-apps/",
-      "source": "Digital Trends",
+      "title": "Apple MacBook Pro M6 just unveiled with 30% faster graphics, 25% faster AI and up to 24 hours of battery life",
+      "url": "https://www.tomsguide.com/computing/macbooks/apple-reveals-m6-macbook-pro-for-pro-and-tell-week-heres-everything-thats-new",
+      "source": "Tom's Guide",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "New research: Georgia Tech's ORISA tool recovers deleted conversations from local AI chatbot apps on a phone and rebuilds them into a working session. Deleting a chat does not mean the data is gone from the device.",
-      "published_iso": "2026-10-26T23:09:29Z",
-      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/recovering-deleted-ai-chats.jpg?resize=1200%2C630&ssl=1",
-      "excerpt": "Think deleting an AI chat erases everything? Georgia Tech researchers developed a forensic tool that can recover deleted conversations from local AI apps and rebuild the information into a working session."
+      "rationale": "New hardware: Apple's M6 launch puts the new chip in the 14-inch MacBook Pro (and the iMac), claiming 25% faster AI performance. This one card covers the whole M6 launch cluster.",
+      "published_iso": "2026-10-27T13:14:15Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/7moKw5F2gzMVH2GPuzQHMT-980-80.jpg",
+      "excerpt": "Apple's new 14-inch MacBook Pro moves to the M6 chip, which Apple says brings 30% faster graphics and 25% faster AI performance, plus up to 24 hours of battery life."
     },
     {
-      "title": "Ray-Ban Meta: How to stop your glasses from training AI",
-      "url": "https://www.notebookcheck.net/Ray-Ban-Meta-How-to-stop-your-glasses-from-training-AI.1430044.0.html",
-      "source": "Notebookcheck",
+      "title": "[Hands-On] Comfort, Convenience, and More: A Day With Galaxy Buds On",
+      "url": "https://news.samsung.com/global/hands-on-comfort-convenience-and-more-a-day-with-galaxy-buds-on",
+      "source": "Samsung Global Newsroom",
+      "category": "gadgets",
+      "tool": "Gadgets",
+      "accent": "#f5a623",
+      "motif": "headset",
+      "rationale": "New product: Samsung's first clip-on, open-ear Galaxy Buds On launched in Korea with hands-free Gemini Live ('Hey Google, let's talk Live') and head-gesture call handling. This is the primary source for the launch.",
+      "published_iso": "2026-10-27T08:00:00+09:00",
+      "og_image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26123413/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Thumb932.jpg",
+      "excerpt": "Samsung's first clip-on open-ear Galaxy Buds On launch in Korea with hands-free Gemini Live ('Hey Google, let's talk Live'), head-gesture call handling and up to 9.5 hours of playback."
+    },
+    {
+      "title": "Opera wants websites to run AI on your laptop instead of sending your data to the cloud",
+      "url": "https://www.digitaltrends.com/computing/opera-wants-websites-to-run-ai-on-your-laptop-instead-of-sending-your-data-to-the-cloud/",
+      "source": "Digital Trends",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "New setting: the Meta AI app now has a toggle that stops images captured by Ray-Ban Meta glasses from being used to train Meta's AI, plus a second toggle for voice recordings outside the US. The article explains where US owners have fewer options.",
-      "published_iso": "2026-10-26T09:00:00Z",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ray-ban-meta-ki-training-teaser.jpg",
-      "excerpt": "Ask your Ray-Ban Meta glasses about what you're looking at, and Meta stores that image and may use it to train its AI. A new setting in the Meta AI app turns this off, and a second one covers voice recordings outside the US. Here is what each setting covers, where US owners have less choice and what"
+      "rationale": "New preview: Opera WebAI lets websites and extensions call AI models running locally on the user's computer, with per-site permissions. It is a new on-device AI platform for the browser.",
+      "published_iso": "2026-10-27T06:00:00-07:00",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-WebAI.jpeg?resize=1200%2C630&ssl=1",
+      "excerpt": "Opera’s WebAI preview lets websites and extensions use AI models running locally on supported computers, avoiding cloud processing and separate subscriptions while leaving access under the user’s control through site-specific permissions."
     },
     {
-      "title": "Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle — firmware exploit doubles RTX 4090",
-      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx-3090-ti-matrix-math-up-to-80-percent",
-      "source": "Tom's Hardware",
+      "title": "This old Nokia phone got an AI Upgrade it was never designed for",
+      "url": "https://www.engadget.com/2295625/old-nokia-phone-ai-upgrade-never-designed-for/",
+      "source": "Engadget",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "New finding: a firmware exploit removes Nvidia's half-rate tensor throttle on GeForce RTX 20/30/40 cards, doubling the RTX 4090's peak tensor rate. Tom's Hardware notes that real workloads gain much less and chatbot token speeds barely change.",
-      "published_iso": "2026-10-26T11:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/4Yvp7ck4v6d8JPBoNXVPfe-2560-80.jpg",
-      "excerpt": "Real workloads gain less than peak tensor rates, and chatbot token speeds stay about the same."
-    },
-    {
-      "title": "Major Even Realities G2 smart glasses update adds Conversate 'Pro Mode,' Knowledge Base",
-      "url": "https://9to5google.com/2026/10/26/even-realities-g2-glasses-update-adds-knowledge-based/",
-      "source": "9to5Google",
-      "category": "gadgets",
-      "tool": "Gadgets",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "rationale": "New software release: Even Realities is rolling out a major G2 firmware/app update that adds a Conversate 'Pro Mode' and a Knowledge Base the glasses' AI can draw on. These are new features, not a re-review of the hardware.",
-      "published_iso": "2026-10-26T16:41:26Z",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Even-Realities-G2-smart-glasses-13.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Even Realities today announced that a new software version will be rolling out to the G2 smart glasses, complete with..."
+      "rationale": "New hack: a developer vibe-coded 'Claude S40', which lets a 2G Nokia 6300 talk to Claude, ChatGPT, Gemini or Grok through a small Go server. It adds a reading mode and offline saving.",
+      "published_iso": "2026-10-27T18:30:00+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/l-intro-1792779965.jpg",
+      "excerpt": "A Turkish developer vibe-coded 'Claude S40', an app that lets a 2G Nokia 6300 talk to Claude, ChatGPT, Gemini or Grok via a small Go server, with a reading mode and offline saving of responses."
     }
   ],
   "dedup": {
     "checks": {
-      "https://9to5mac.com/2026/10/26/siri-ai-keeps-getting-better-heres-whats-new-in-ios-27-2/": {
-        "verdict": "follow-up",
-        "nearest": "https://www.engadget.com/2275255/iphone-siri-ai-can-index-more-personal-data-how-to-limit/",
-        "new_action": "Apple released the iOS/watchOS/macOS 27.2 updates on 2026-10-26 with new Siri AI features, and the Siri AI beta adds Korean (6 languages in total). This is a new software release, not the 27.0 launch (09-27 Tom's Guide card) or the 10-11 personal-data indexing how-to."
-      },
-      "https://www.digitaltrends.com/computing/researchers-develop-forensic-tool-orisa-to-recover-deleted-conversations-from-ai-chatbot-apps/": {
+      "https://www.digitaltrends.com/computing/ollama-brings-free-local-text-to-speech-to-your-mac-with-natural-sounding-ai-voices/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://www.notebookcheck.net/Ray-Ban-Meta-How-to-stop-your-glasses-from-training-AI.1430044.0.html": {
+      "https://www.tomsguide.com/computing/macbooks/apple-reveals-m6-macbook-pro-for-pro-and-tell-week-heres-everything-thats-new": {
         "verdict": "new",
-        "nearest": "https://www.androidauthority.com/ray-ban-meta-glasses-listening-3722586/",
+        "nearest": "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/",
         "new_action": ""
       },
-      "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx-3090-ti-matrix-math-up-to-80-percent": {
+      "https://news.samsung.com/global/hands-on-comfort-convenience-and-more-a-day-with-galaxy-buds-on": {
+        "verdict": "new",
+        "nearest": "https://news.samsung.com/global/samsung-expands-language-support-across-ai-experiences-on-galaxy",
+        "new_action": ""
+      },
+      "https://www.digitaltrends.com/computing/opera-wants-websites-to-run-ai-on-your-laptop-instead-of-sending-your-data-to-the-cloud/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://9to5google.com/2026/10/26/even-realities-g2-glasses-update-adds-knowledge-based/": {
-        "verdict": "follow-up",
-        "nearest": "https://www.engadget.com/2288658/even-realities-g2-smart-glasses-review/",
-        "new_action": "Even Realities announced and began rolling out a new G2 software version on 2026-10-26 that adds Conversate 'Pro Mode' and a Knowledge Base. The 10-20 Engadget card was a hardware review, so this is a new release."
+      "https://www.engadget.com/2295625/old-nokia-phone-ai-upgrade-never-designed-for/": {
+        "verdict": "new",
+        "nearest": "https://www.notebookcheck.net/HMD-brings-AI-companionship-to-a-basic-flip-phone-complete-with-a-recurring-subscription.1423960.0.html",
+        "new_action": ""
       }
     },
-    "note": "iOS 27.2 cluster (one release, several outlets): kept 9to5Mac (on the whitelist). Dropped the 전자신문 Korean Siri piece, Engadget 'more Siri AI tools in 27.2', MacRumors watchOS 27.2, and MacRumors SynthID watermarks in iOS 27.2 as the same release event. Dropped for cross-section reasons: the Tom's Hardware Samsung TV AI ad-tracking story, because marketing already published that URL on 10-26. Dropped as repeats of published stories: Notebookcheck Mori robot (10-23 CNET card); WIRED Ray-Ban Meta Audio review (product already ran on 10-05 via UploadVR); Ars Ray-Ban Meta recording bug (10-14 Android Authority card); ZDNET Gemini on Android Auto (10-21 blog.google card); Tom's Guide Alexa Tablet 12 Pro review (10-09 Engadget launch card). Dropped on other grounds: TechCrunch AI wearables roundup (evergreen); Nirva $33M (funding); INMO GO3 (flagged as sponsored on 10-26); Razer Basilisk V4 Pro (AI incidental); Samsung 'The Brief' (corporate seminar PR); Gemini Live 'plus' redesign (minor UI tweak one day after the 10-26 Gemini redesign card); Android Authority Gemini remembered-items teardown (speculative APK); Intel Arc B580 XeStrata (single benchmark); 전자신문 ETH robot dog (off-whitelist research clip); Digital Trends delivery-robot biometric lawsuits (kept Digital Trends to one card, and the lawsuit angle is closer to politics). Diversity: 5 distinct outlets (9to5Mac, Digital Trends, Notebookcheck, Tom's Hardware, 9to5Google). Cross-section exact-URL check: the full published_urls.json (210k tokens) could not be scanned without grep. The orchestrator should confirm that none of these 5 URLs, and none of the iOS 27.2 Siri, ORISA, or RTX tensor-throttle stories, ran in another section."
+    "note": "Apple M6 cluster c3: kept the Tom's Guide MacBook Pro M6 piece. Dropped the Digital Trends iMac M6 card because it is the same launch event, and Digital Trends already has 2 picks. Its history_match (10-06 Gizmodo wireless GPU) is unrelated. Galaxy Buds On cluster c11: kept the Samsung Newsroom primary source. Dropped The Elec's launch story (same event) and the TechRadar 'enough open earbuds' opinion piece (commentary on the same launch). Their 10-17 Samsung language-support match is a different story. Dropped on other grounds: Gemini Live 'plus' redesign (9to5Google, minor UI tweak following the 10-26 Gemini redesign card, also dropped on 10-27); Android Authority Gemini Live visualizer sneak peek (unreleased teardown, same Gemini UI redesign thread); Android Authority Gemini remembered-items teardown (speculative APK, dropped 10-27); Intel Arc B580 XeStrata (single benchmark, dropped 10-27); INMO GO3 (flagged as sponsored on 10-26); Google Maps CarPlay Gemini (10-21, stale, and too close to the 10-21 blog.google Gemini-on-the-road card). No Apple Creator Studio item was considered, since it is reserved for movies. Cross-section: every pick was published after the 10-27 brief's collection cutoff (10-26 22:00 UTC), so none can be in published_urls.json from an earlier day. The orchestrator should still check for same-day 10-28 clashes, especially Ollama TTS with music and Apple M6 with movies or design. Diversity: 4 outlets (Digital Trends x2, Tom's Guide, Samsung Newsroom, Engadget)."
   }
 }

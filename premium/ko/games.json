@@ -13459,6 +13459,135 @@
           "x": "최석원 컴투스플랫폼 대표는 \"글로벌 시장에서 인정받은 하이브(Hive)의 서비스 역량을 AI 개발 환경과 결합해 인디 및 소규모 개발사의 상용화 허들을 획기적으로 낮출 것\"이라고 전했다."
         }
       ]
+    },
+    "games/epiceula": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf023070cdf9c6ebf/682da8904feafa6cf12bbc97/Fortnite_Header.png?width=1280&auto=webp&quality=80&disable=upscale"
+        },
+        {
+          "t": "p",
+          "x": "Epic CEO Tim Sweeney가 X에 올린 글을 보면, Epic은 Unreal Engine과 MetaHuman 산출물의 AI 학습 제한을 없애는 중이고 EULA도 곧 바뀐다."
+        },
+        {
+          "t": "p",
+          "x": "지난 26일 Kotaku는 Microsoft와 Epic 같은 기업이 AI에 사활을 걸면서도 사용자가 만든 AI-coded 자사 게임 재현작은 내리게 한다며 잠재적 위선을 짚었다. Sweeney는 여기에 긴 답글을 달다가 EULA 업데이트 계획을 지나가듯 꺼냈다."
+        },
+        {
+          "t": "p",
+          "x": "\"Epic은 Unreal Engine과 MetaHuman 산출물의 AI 학습을 제한하는가?\" Sweeney는 이렇게 쓴 뒤 말을 이었다. \"현재는 그렇다. 하지만 EULA 조항에서 이 제한을 없애려 하고 있다. 다만 이 도구들을 쓰는 각 게임은 개발자가 고른 조건으로 출시되며, 그 조건은 AI 학습을 허용할 수도 제한할 수도 있다.\""
+        },
+        {
+          "t": "p",
+          "x": "AI 학습에 엔진을 일절 쓰지 못하게 하던 Unreal Engine으로서는 뚜렷한 변화다. Epic은 스스로 \"AI-first\"라 부르는 모델로 옮겨 가는 중이다. Sweeney는 Valve가 Steam에서 요구하는 AI 사용 공개 의무를 비판한 적도 있다. Game Developer는 Epic에 추가 정보를 요청했다."
+        }
+      ]
+    },
+    "games/aiwikis": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/gamedb-wiki-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "이미지 출처: Eurogamer / GameDB"
+        },
+        {
+          "t": "p",
+          "x": "Eurogamer 기자가 Nighthawks 정보를 찾다 들어간 \"Nighthawks Wiki\"는 위키라 부르기도 민망했다. 있지도 않은 동료와 스킬을 늘어놓는 등 틀린 정보투성이였다. 도메인을 따라가 보니 \"AI Website builder\"도 제공하는 웹사이트 제작 서비스 Spaceship이 나왔다."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/nighthawks-wiki-1.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+          "cap": "문제의 비공식 Nighthawks 위키. | 이미지 출처: Eurogamer / Nighthawks.wiki"
+        },
+        {
+          "t": "p",
+          "x": "Hooded Horse CEO Tim Bender는 퍼블리셔 입장에서 AI-generated 사이트를 상대로 \"두더지 잡기(whack-a-mole)\"를 해야 했다고 말한다. \"[생성형 AI] 덕분에 사실상 상업적인 업체들이 줄줄이 대량 생산에 나서 게임 검색 엔진 결과를 뒤덮고 트래픽을 빨아들이려 한다\"는 것이다."
+        },
+        {
+          "t": "p",
+          "x": "독립 위키도 AI 스크래퍼에 시달린다. Dune: Awakening Community Wiki에는 30일 동안 AI 크롤러 요청이 7m 건 들어왔고, 그중 5m 건이 Meta발이었다. Independent Game Wiki Network의 FlamingMojo에 따르면 서버 비용은 세 배에서 열 배까지 뛰었다."
+        },
+        {
+          "t": "p",
+          "x": "\"AI 오염에서 살아남는 길은 커뮤니티다.\" FlamingMojo의 말이다."
+        }
+      ]
+    },
+    "games/molyneux": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/cCbNLBoom6H44tX6QPEMwa-1920-80.jpg",
+          "cap": "(이미지 출처: Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "PC Gamer는 Guildford에서 Populous, Theme Park, Dungeon Keeper, Black & White, Fable을 만든 개발자 Peter Molyneux를 만나 비디오 게임 업계의 AI 활용을 물었다."
+        },
+        {
+          "t": "p",
+          "x": "그는 ChatGPT와 Gemini 때문에 사람들 머릿속에 \"AI는 곧 AI slop\"이라는 인식이 박혔다며, Steam의 AI 항목에 체크하면 \"즉시 [게이머의] 12%가 떠난다\"고 했다. \"우리 업계는 AI를 쓰지 않는 척하지만, 현실은 이제 AI 없이 코딩하는 건 거의 불가능하다는 것이다. 거의 불가능하다.\""
+        },
+        {
+          "t": "p",
+          "x": "그가 보기에 AI는 스튜디오에 \"창의성 측면에서 가장 큰 진전\"이다. 콘셉트 작업은 오 분이면 끝나고, 땅에서 솟아오르는 완전히 리깅된 캐릭터의 프로토타입도 \"몇 달이 아니라 하루면 다 된다\"고 한다."
+        },
+        {
+          "t": "p",
+          "x": "\"AI가 게임의 최종 품질에 맞는 에셋 제작을 믿고 맡길 만큼 강력하다고는 아직 생각하지 않는다. 하지만 Rob, 그렇게 될 것이다.\" 그는 일 년 안에 AI가 Unity와 Unreal 같은 미들웨어에 깊이 박혀 떼어내기 매우 어려워지리라 내다본다."
+        }
+      ]
+    },
+    "games/uchikoshi": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/Hundred-Line.jpeg",
+          "cap": "© Aniplex, Too Kyo Games"
+        },
+        {
+          "t": "p",
+          "x": "Zero Escape와 Hundred Line으로 알려진 Kotaro Uchikoshi가 새 Famitsu 인터뷰에서 자신의 새 스튜디오 Crash Keys도, 그 게임의 취소도 실제로 있었던 일이라고 못 박았다. AI를 쓸 수 있었다면 게임이 취소되지 않았을지도 모른다는 말도 덧붙였다."
+        },
+        {
+          "t": "p",
+          "x": "\"우리 같은 중간 규모 팀, 특히 어드벤처 게임을 만드는 팀에게는 이제 개인이 만든 인디 게임조차 경쟁자로 볼 수 있다. 이런 개인 가운데 일부는 아주 작은 팀으로 AI를 활용해 풍부한 콘텐츠를 갖춘 방대한 게임을 짧은 시간에 낮은 비용으로 만든다. [...] 우리도 AI를 쓸 수밖에 없다고 생각한다.\""
+        },
+        {
+          "t": "p",
+          "x": "\"게임 개발에 AI를 쓰는 데 거부감이 있다는 것은 이해한다. 하지만 개인적으로 나는 AI 찬성론자다.\" 그는 비주얼 디자인과 스토리의 출발점은 사람의 아이디어여야 하지만 다듬고 마무리하는 일은 AI에 맡겨도 된다고 본다. 그러면 최종 결과물이 창작자 구상의 70-80퍼센트 수준에서 100퍼센트 가까이 올라간다는 설명이다."
+        },
+        {
+          "t": "p",
+          "x": "Uchikoshi는 앞서 Hundred Line이 그만한 규모의 게임 가운데 AI 없이 만들어지는 \"마지막 사례 중 하나\"일 수 있다고 말한 적이 있다."
+        }
+      ]
+    },
+    "games/games-remix": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/remix.jpg",
+          "cap": "Remix가 상금으로 Bitcoin 한 개 또는 그만큼의 현금을 내걸었다. 출처: Remix"
+        },
+        {
+          "t": "p",
+          "x": "플레이어와 크리에이터 약 1.5백만 명이 쓰는 게임 제작 플랫폼 Remix가 오늘 Windows, Mac, Linux용 데스크톱 앱을 내놨다. 크리에이터는 이제 새 데스크톱 앱과 Remix 웹사이트, 네이티브 iOS·Android 앱 어디서든 코딩을 몰라도 게임을 만든다."
+        },
+        {
+          "t": "p",
+          "x": "Remix는 2025년 모바일에서 출발했는데 크리에이터들이 그곳에서 짧은 게임 약 100,000편을 만들었다. 만들고 싶은 게임을 설명하면 Remix의 AI 도구가 코드를 써서 바로 구현해 준다. 호스팅은 Remix가 맡으며 리더보드와 업적, 실시간 멀티플레이까지 붙인다. 결과물은 크리에이터 소유라 코드를 내보낼 수도 있다."
+        },
+        {
+          "t": "p",
+          "x": "CEO Charlie Blackstock은 “게임을 만들 수 있는 사람의 범위를 바꾸고 싶었다”고 말했다. 플랫폼을 알리려고 Remix는 보물찾기 The Missing Bitcoin을 연다. 크리에이터 누구나 쓰는 바로 그 도구로 만든 포털들을 누비는 방식이다. 헌트 코인을 가장 먼저 다 모은 플레이어에게 1 BTC(또는 그에 상응하는 현금)가 돌아간다."
+        },
+        {
+          "t": "p",
+          "x": "데스크톱 앱은 무료로 받을 수 있다. Remix의 AI로 게임을 만드는 제작 요금제는 월 $5부터다. Anthropic, OpenAI, Google을 이미 구독 중이라면 그 구독을 연결해 써도 된다."
+        }
+      ]
     }
   }
 }

@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "section": "games",
   "cards": [
     {
-      "id": "games-remix",
+      "id": "genie4",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Remix, 데스크톱에서\n프롬프트로 게임 제작",
-      "body": "Remix가 Windows·Mac·Linux 앱을 내놨고 게임 코드는 AI가 짠다.",
-      "mini_headline": "Remix, 데스크톱으로",
+      "headline": "DeepMind 월드 모델\nGenie 4 실시간 세계",
+      "body": "Genie 4는 소리와 Gemini-powered 조종으로 실시간 세계를 빚는다.",
+      "mini_headline": "Genie 4, 실시간 세계 구현",
       "tool": "Games",
-      "source": "GamesBeat",
-      "url": "https://gamesbeat.com/remix-launches-platform-for-anyone-to-build-their-own-game-on-desktop-web-or-mobile/",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -19,179 +19,221 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://gamesbeat.com/wp-content/uploads/2026/10/remix.jpg",
-            "cap": "Remix가 상금으로 Bitcoin 한 개 또는 그만큼의 현금을 내걸었다. 출처: Remix"
+            "src": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w1200-h630-n-nu-rw"
           },
           {
             "t": "p",
-            "x": "플레이어와 크리에이터 약 1.5백만 명이 쓰는 게임 제작 플랫폼 Remix가 오늘 Windows, Mac, Linux용 데스크톱 앱을 내놨다. 크리에이터는 이제 새 데스크톱 앱과 Remix 웹사이트, 네이티브 iOS·Android 앱 어디서든 코딩을 몰라도 게임을 만든다."
+            "x": "Google DeepMind가 새 월드 모델 Genie 4를 발표했다. 사실감을 전례 없는 수준으로 끌어올렸고 실시간 인터랙티브 시뮬레이션도 개선했다. Genie 4는 네이티브 멀티모달 모델이라 음악과 주변 소음, 인터랙티브 대화 같은 오디오를 세계와 함께 생성한다."
           },
           {
             "t": "p",
-            "x": "Remix는 2025년 모바일에서 출발했는데 크리에이터들이 그곳에서 짧은 게임 약 100,000편을 만들었다. 만들고 싶은 게임을 설명하면 Remix의 AI 도구가 코드를 써서 바로 구현해 준다. 호스팅은 Remix가 맡으며 리더보드와 업적, 실시간 멀티플레이까지 붙인다. 결과물은 크리에이터 소유라 코드를 내보낼 수도 있다."
+            "x": "바탕은 Gemini 계열의 역량이다. Gemini Omni가 시뮬레이션을 실제 세계의 외형과 움직임에 맞추고, 일관성과 연속성을 지키는 데 필요한 복잡한 추론은 다른 Gemini 모델들이 맡는다."
+          },
+          {
+            "t": "video",
+            "yt": "sFfPkUJd_Jk"
           },
           {
             "t": "p",
-            "x": "CEO Charlie Blackstock은 “게임을 만들 수 있는 사람의 범위를 바꾸고 싶었다”고 말했다. 플랫폼을 알리려고 Remix는 보물찾기 The Missing Bitcoin을 연다. 크리에이터 누구나 쓰는 바로 그 도구로 만든 포털들을 누비는 방식이다. 헌트 코인을 가장 먼저 다 모은 플레이어에게 1 BTC(또는 그에 상응하는 현금)가 돌아간다."
+            "x": "Genie 4에서는 자연어만으로 시뮬레이션을 실시간으로 고친다. 날씨를 바꾸고 카메라를 움직이고 새 인물이나 사물을 등장시키는 식이다. 세계의 물리를 깊이 이해하는 덕분에 공기역학이나 충돌 같은 상황도 시뮬레이션하며, 자연스럽게 움직이고 실시간으로 조종되는 캐릭터도 만든다."
           },
           {
             "t": "p",
-            "x": "데스크톱 앱은 무료로 받을 수 있다. Remix의 AI로 게임을 만드는 제작 요금제는 월 $5부터다. Anthropic, OpenAI, Google을 이미 구독 중이라면 그 구독을 연결해 써도 된다."
+            "x": "루프 안에서는 Gemini 3.8 Flash가 안내 에이전트를 맡아 장면을 관찰하고 목표를 단계로 나눈 뒤 단계마다 검증한다. Genie 4가 만드는 영상과 오디오에는 빠짐없이 SynthID 워터마크가 들어간다."
+          },
+          {
+            "t": "p",
+            "x": "Genie 4는 신뢰할 수 있는 테스터에게 리서치 프리뷰로 먼저 풀렸다. 곧 Project Genie의 Google AI Ultra 구독자와 Gemini API·Google AI Studio의 얼리 액세스 파트너도 쓸 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Remix brings prompt-to-game\nbuilding to the desktop",
-          "body": "Remix launched Windows, Mac and Linux apps where creators describe a game and its AI writes the code and hosts it.",
-          "mini_headline": "Remix goes desktop",
+          "headline": "DeepMind's Genie 4 simulates\ninteractive worlds in real time",
+          "body": "Genie 4 adds real-time interactive world simulation with native audio, advanced physics, and Gemini-powered steering.",
+          "mini_headline": "Genie 4 simulates\nworlds in real time",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/remix.jpg",
-                "cap": "Remix is offering a prize of a Bitcoin. or cash equivalent. Source: Remix"
+                "src": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w1200-h630-n-nu-rw"
               },
               {
                 "t": "p",
-                "x": "Remix, the game-making platform used by about 1.5 million players and creators, launched its desktop app today for Windows, Mac and Linux. Creators can now build games on the new desktop app, on the Remix website or in the native iOS and Android apps, with no coding experience required."
+                "x": "Google DeepMind is announcing Genie 4, its new world model, which unlocks unprecedented realism and improves real-time interactive simulation. Genie 4 is natively multimodal, enabling audio-like music, ambient noises, and interactive dialogue to be simultaneously generated with the world."
               },
               {
                 "t": "p",
-                "x": "Remix began on mobile in 2025, where creators have made approximately 100,000 short games. A creator describes the game they want, and Remix’s AI tools write code that instantly brings the creator’s vision to life. Remix then hosts the game and adds leaderboards, achievements and real-time multiplayer. Creators own what they make, so they can export their code."
+                "x": "The model builds on capabilities from the Gemini family: Gemini Omni anchors the simulations in real-world appearance and behavior, while other Gemini models provide the complex reasoning needed to maintain a simulation's coherence and continuity."
+              },
+              {
+                "t": "video",
+                "yt": "sFfPkUJd_Jk"
               },
               {
                 "t": "p",
-                "x": "“We wanted to change who gets to make games,” said CEO Charlie Blackstock. To introduce the platform, Remix is launching The Missing Bitcoin, a scavenger hunt across portals built with the same tools every creator uses; the first player to collect all hunt coins wins 1 BTC (or its cash equivalent)."
+                "x": "With Genie 4, users can use natural language to modify a simulation in real-time — like changing the weather, moving the camera, or introducing a new person or object. Built on an advanced physical understanding of the world, it simulates scenarios such as aerodynamics and collisions, and creates characters that move naturally and can be steered in real-time."
               },
               {
                 "t": "p",
-                "x": "The desktop app is a free download. To build a game using Remix’s AI, creation plans start at $5 per month, and creators can also connect an existing subscription from Anthropic, OpenAI or Google."
+                "x": "Gemini 3.8 Flash serves as a guiding agent in the loop, observing the scene, breaking goals into steps and verifying each one. All video and audio generated by Genie 4 will include SynthID watermarking."
+              },
+              {
+                "t": "p",
+                "x": "Genie 4 has been released as a research preview to trusted testers, and is coming soon to Google AI Ultra subscribers in Project Genie and early access partners in the Gemini API and Google AI Studio."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Remix, 데스크톱에서\n프롬프트로 게임 제작",
-          "body": "Remix가 Windows·Mac·Linux 앱을 내놨고 게임 코드는 AI가 짠다.",
-          "mini_headline": "Remix, 데스크톱으로",
+          "headline": "DeepMind 월드 모델\nGenie 4 실시간 세계",
+          "body": "Genie 4는 소리와 Gemini-powered 조종으로 실시간 세계를 빚는다.",
+          "mini_headline": "Genie 4, 실시간 세계 구현",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/remix.jpg",
-                "cap": "Remix가 상금으로 Bitcoin 한 개 또는 그만큼의 현금을 내걸었다. 출처: Remix"
+                "src": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w1200-h630-n-nu-rw"
               },
               {
                 "t": "p",
-                "x": "플레이어와 크리에이터 약 1.5백만 명이 쓰는 게임 제작 플랫폼 Remix가 오늘 Windows, Mac, Linux용 데스크톱 앱을 내놨다. 크리에이터는 이제 새 데스크톱 앱과 Remix 웹사이트, 네이티브 iOS·Android 앱 어디서든 코딩을 몰라도 게임을 만든다."
+                "x": "Google DeepMind가 새 월드 모델 Genie 4를 발표했다. 사실감을 전례 없는 수준으로 끌어올렸고 실시간 인터랙티브 시뮬레이션도 개선했다. Genie 4는 네이티브 멀티모달 모델이라 음악과 주변 소음, 인터랙티브 대화 같은 오디오를 세계와 함께 생성한다."
               },
               {
                 "t": "p",
-                "x": "Remix는 2025년 모바일에서 출발했는데 크리에이터들이 그곳에서 짧은 게임 약 100,000편을 만들었다. 만들고 싶은 게임을 설명하면 Remix의 AI 도구가 코드를 써서 바로 구현해 준다. 호스팅은 Remix가 맡으며 리더보드와 업적, 실시간 멀티플레이까지 붙인다. 결과물은 크리에이터 소유라 코드를 내보낼 수도 있다."
+                "x": "바탕은 Gemini 계열의 역량이다. Gemini Omni가 시뮬레이션을 실제 세계의 외형과 움직임에 맞추고, 일관성과 연속성을 지키는 데 필요한 복잡한 추론은 다른 Gemini 모델들이 맡는다."
+              },
+              {
+                "t": "video",
+                "yt": "sFfPkUJd_Jk"
               },
               {
                 "t": "p",
-                "x": "CEO Charlie Blackstock은 “게임을 만들 수 있는 사람의 범위를 바꾸고 싶었다”고 말했다. 플랫폼을 알리려고 Remix는 보물찾기 The Missing Bitcoin을 연다. 크리에이터 누구나 쓰는 바로 그 도구로 만든 포털들을 누비는 방식이다. 헌트 코인을 가장 먼저 다 모은 플레이어에게 1 BTC(또는 그에 상응하는 현금)가 돌아간다."
+                "x": "Genie 4에서는 자연어만으로 시뮬레이션을 실시간으로 고친다. 날씨를 바꾸고 카메라를 움직이고 새 인물이나 사물을 등장시키는 식이다. 세계의 물리를 깊이 이해하는 덕분에 공기역학이나 충돌 같은 상황도 시뮬레이션하며, 자연스럽게 움직이고 실시간으로 조종되는 캐릭터도 만든다."
               },
               {
                 "t": "p",
-                "x": "데스크톱 앱은 무료로 받을 수 있다. Remix의 AI로 게임을 만드는 제작 요금제는 월 $5부터다. Anthropic, OpenAI, Google을 이미 구독 중이라면 그 구독을 연결해 써도 된다."
+                "x": "루프 안에서는 Gemini 3.8 Flash가 안내 에이전트를 맡아 장면을 관찰하고 목표를 단계로 나눈 뒤 단계마다 검증한다. Genie 4가 만드는 영상과 오디오에는 빠짐없이 SynthID 워터마크가 들어간다."
+              },
+              {
+                "t": "p",
+                "x": "Genie 4는 신뢰할 수 있는 테스터에게 리서치 프리뷰로 먼저 풀렸다. 곧 Project Genie의 Google AI Ultra 구독자와 Gemini API·Google AI Studio의 얼리 액세스 파트너도 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Remix、デスクトップ版\n言葉でゲームを作る",
-          "body": "RemixがWindows・Mac・Linux版を出し、AIがコードを書き公開まで担う。",
-          "mini_headline": "Remix、デスクトップへ",
+          "headline": "DeepMindの世界モデル\nGenie 4は実時間で動く",
+          "body": "Genie 4は音声と物理演算、Gemini-poweredの操作で実時間の世界を描く。",
+          "mini_headline": "Genie 4、実時間で世界を模擬",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/remix.jpg",
-                "cap": "Remixは賞品としてBitcoinまたは同等の現金を用意している。出典：Remix"
+                "src": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w1200-h630-n-nu-rw"
               },
               {
                 "t": "p",
-                "x": "約1.5百万人のプレイヤーとクリエイターが使うゲーム制作プラットフォームRemixは本日、Windows、Mac、Linux向けのデスクトップアプリを公開した。クリエイターは新しいデスクトップアプリ、Remixのウェブサイト、ネイティブのiOS・Androidアプリでゲームを作ることができ、コーディング経験は要らない。"
+                "x": "Google DeepMindは新たな世界モデルGenie 4を発表した。かつてないリアリズムを実現し、リアルタイムのインタラクティブなシミュレーションを向上させるモデルだ。Genie 4はネイティブにマルチモーダルで、音楽や環境音、インタラクティブな対話といった音声を世界と同時に生成できる。"
               },
               {
                 "t": "p",
-                "x": "Remixは2025年にモバイルで始まり、クリエイターはそこで約100,000本の短いゲームを作ってきた。作りたいゲームを説明すると、RemixのAIツールがコードを書き、その構想を即座に形にする。Remixはそのゲームをホストし、リーダーボード、実績、リアルタイムのマルチプレイを加える。作ったものはクリエイターが所有するため、コードを書き出すこともできる。"
+                "x": "このモデルはGeminiファミリーの能力を基盤とする。Gemini Omniがシミュレーションを現実世界の見た目と振る舞いに結びつけ、他のGeminiモデルがシミュレーションの一貫性と連続性を保つのに必要な複雑な推論を担う。"
+              },
+              {
+                "t": "video",
+                "yt": "sFfPkUJd_Jk"
               },
               {
                 "t": "p",
-                "x": "「ゲームを作れる人を変えたかった」とCEOのCharlie Blackstockは語った。プラットフォームを紹介するため、Remixはすべてのクリエイターが使うのと同じツールで作られたポータルを巡る宝探し「The Missing Bitcoin」を始める。ハント用のコインを最初にすべて集めたプレイヤーが1 BTC（または同等の現金）を手にする。"
+                "x": "Genie 4では、天候を変える、カメラを動かす、新たな人物や物体を登場させるといった形で、自然言語を使ってシミュレーションをリアルタイムに変更できる。世界に対する高度な物理的理解に基づき、空気力学や衝突などのシナリオをシミュレートし、自然に動いてリアルタイムに操作できるキャラクターを生み出す。"
               },
               {
                 "t": "p",
-                "x": "デスクトップアプリは無料でダウンロードできる。RemixのAIでゲームを作る制作プランは月額$5からで、Anthropic、OpenAI、Googleの既存サブスクリプションを接続することもできる。"
+                "x": "Gemini 3.8 Flashはループ内の誘導エージェントとして機能し、シーンを観察し、目標をステップに分解して一つずつ検証する。Genie 4が生成するすべての映像と音声にはSynthIDの透かしが入る。"
+              },
+              {
+                "t": "p",
+                "x": "Genie 4は信頼できるテスター向けにリサーチプレビューとして公開されており、まもなくProject GenieのGoogle AI Ultra加入者と、Gemini APIおよびGoogle AI Studioのアーリーアクセスパートナーに提供される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Remix推出桌面版\n用提示词做游戏",
-          "body": "Remix推出Windows、Mac和Linux应用，用户描述游戏，由AI写代码并托管。",
-          "mini_headline": "Remix登陆桌面",
+          "headline": "DeepMind新世界模型\nGenie 4实时模拟世界",
+          "body": "Genie 4具备原生音频、先进物理和Gemini-powered操控，实时模拟交互世界。",
+          "mini_headline": "Genie 4实时模拟世界",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/remix.jpg",
-                "cap": "Remix以一枚Bitcoin或等值现金作为奖品。来源：Remix"
+                "src": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w1200-h630-n-nu-rw"
               },
               {
                 "t": "p",
-                "x": "拥有约1.5百万玩家和创作者的游戏制作平台Remix今天推出了适用于Windows、Mac和Linux的桌面应用。创作者现在可以在新的桌面应用、Remix网站或原生iOS和Android应用上制作游戏，无需任何编程经验。"
+                "x": "Google DeepMind发布新世界模型Genie 4，带来前所未有的真实感，并改进了实时交互式模拟。Genie 4原生支持多模态，可与世界同步生成音乐、环境音和交互式对话等音频。"
               },
               {
                 "t": "p",
-                "x": "Remix于2025年从移动端起步，创作者已在那里制作了约100,000款小游戏。创作者描述想要的游戏，Remix的AI工具就会编写代码，立即把构想变为现实。随后Remix托管游戏，并加入排行榜、成就和实时多人功能。作品归创作者所有，因此可以导出代码。"
+                "x": "该模型建立在Gemini系列的能力之上：Gemini Omni让模拟贴合真实世界的外观与行为，其他Gemini模型则提供维持模拟连贯性与连续性所需的复杂推理。"
+              },
+              {
+                "t": "video",
+                "yt": "sFfPkUJd_Jk"
               },
               {
                 "t": "p",
-                "x": "“我们想改变谁能做游戏，”CEO Charlie Blackstock说。为推介平台，Remix推出寻宝活动The Missing Bitcoin，玩家要穿行于用每位创作者都在用的同一套工具搭建的传送门之间；第一个集齐全部寻宝硬币的玩家将赢得1 BTC（或等值现金）。"
+                "x": "借助Genie 4，用户可以用自然语言实时修改模拟，比如改变天气、移动镜头，或引入新的人物或物体。它基于对世界的高级物理理解，可模拟空气动力学和碰撞等场景，并生成动作自然、可实时操控的角色。"
               },
               {
                 "t": "p",
-                "x": "桌面应用可免费下载。使用Remix的AI制作游戏的创作套餐每月$5起，创作者也可以接入Anthropic、OpenAI或Google的现有订阅。"
+                "x": "Gemini 3.8 Flash在循环中充当引导智能体，观察场景、将目标拆解为步骤并逐一验证。Genie 4生成的所有视频和音频都将带有SynthID水印。"
+              },
+              {
+                "t": "p",
+                "x": "Genie 4已作为研究预览版向受信任的测试者开放，即将面向Project Genie中的Google AI Ultra订阅用户，以及Gemini API和Google AI Studio的早期访问合作伙伴推出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Remix: crear juegos con prompts\nahora también en escritorio",
-          "body": "Remix lanzó apps para Windows, Mac y Linux: el creador describe un juego y su AI escribe el código y lo aloja.",
-          "mini_headline": "Remix llega al escritorio",
+          "headline": "DeepMind: Genie 4 simula mundos\ninteractivos en tiempo real",
+          "body": "Genie 4 añade simulación interactiva de mundos en tiempo real, audio nativo, física avanzada y control Gemini-powered.",
+          "mini_headline": "Genie 4 simula mundos en tiempo real",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/remix.jpg",
-                "cap": "Remix ofrece como premio un Bitcoin o su equivalente en efectivo. Fuente: Remix"
+                "src": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w1200-h630-n-nu-rw"
               },
               {
                 "t": "p",
-                "x": "Remix, la plataforma de creación de juegos que usan unos 1.5 millones de jugadores y creadores, lanzó hoy su app de escritorio para Windows, Mac y Linux. Los creadores ya pueden hacer juegos en la nueva app de escritorio, en el sitio web de Remix o en las apps nativas de iOS y Android, sin experiencia en programación."
+                "x": "Google DeepMind anuncia Genie 4, su nuevo modelo de mundo, que ofrece un realismo sin precedentes y mejora la simulación interactiva en tiempo real. Genie 4 es multimodal de forma nativa, lo que permite generar audio —como música, ruido ambiental y diálogo interactivo— de manera simultánea con el mundo."
               },
               {
                 "t": "p",
-                "x": "Remix nació en móviles en 2025, donde los creadores han hecho aproximadamente 100,000 juegos cortos. El creador describe el juego que quiere y las herramientas de AI de Remix escriben código que materializa al instante esa idea. Después Remix aloja el juego y añade tablas de clasificación, logros y multijugador en tiempo real. Los creadores son dueños de lo que hacen, así que pueden exportar su código."
+                "x": "El modelo se basa en capacidades de la familia Gemini: Gemini Omni ancla las simulaciones en la apariencia y el comportamiento del mundo real, mientras que otros modelos Gemini aportan el razonamiento complejo necesario para mantener la coherencia y la continuidad de la simulación."
+              },
+              {
+                "t": "video",
+                "yt": "sFfPkUJd_Jk"
               },
               {
                 "t": "p",
-                "x": "“Queríamos cambiar quién puede hacer juegos”, dijo el CEO Charlie Blackstock. Para presentar la plataforma, Remix lanza The Missing Bitcoin, una búsqueda del tesoro por portales construidos con las mismas herramientas que usa cualquier creador; el primer jugador que reúna todas las monedas de la búsqueda gana 1 BTC (o su equivalente en efectivo)."
+                "x": "Con Genie 4, los usuarios pueden usar lenguaje natural para modificar una simulación en tiempo real, por ejemplo cambiando el clima, moviendo la cámara o introduciendo una nueva persona u objeto. Gracias a una comprensión física avanzada del mundo, simula escenarios como la aerodinámica y las colisiones, y crea personajes que se mueven con naturalidad y pueden dirigirse en tiempo real."
               },
               {
                 "t": "p",
-                "x": "La app de escritorio se descarga gratis. Para crear juegos con la AI de Remix, los planes empiezan en $5 al mes, y los creadores también pueden conectar una suscripción existente de Anthropic, OpenAI o Google."
+                "x": "Gemini 3.8 Flash actúa como agente guía dentro del ciclo: observa la escena, divide los objetivos en pasos y verifica cada uno. Todo el video y el audio generados por Genie 4 incluirán la marca de agua SynthID."
+              },
+              {
+                "t": "p",
+                "x": "Genie 4 se ha lanzado como versión preliminar de investigación para probadores de confianza y pronto llegará a los suscriptores de Google AI Ultra en Project Genie y a los socios de acceso anticipado en la Gemini API y Google AI Studio."
               }
             ]
           }
@@ -199,125 +241,153 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Remix, 데스크톱에서\n프롬프트로 게임 제작",
-          "body": "Remix가 Windows·Mac·Linux 앱을 냈고 AI가 게임 코드를 짠다.",
-          "mini_headline": "Remix, 데스크톱으로",
+          "headline": "DeepMind 월드 모델\nGenie 4 실시간 세계",
+          "body": "Genie 4는 음향과 Gemini-powered 조종으로 실시간 세계를 만든다.",
+          "mini_headline": "Genie 4, 실시간 세계 구현",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/remix.jpg",
-                "cap": "Remix는 Bitcoin 한 개 또는 그에 상응하는 현금을 상금으로 내걸었다. 출처: Remix"
+                "src": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w1200-h630-n-nu-rw"
               },
               {
                 "t": "p",
-                "x": "약 1.5백만 명의 플레이어와 크리에이터가 쓰는 게임 제작 플랫폼 Remix가 오늘 Windows, Mac, Linux용 데스크톱 앱을 출시했다. 이제 크리에이터는 새 데스크톱 앱, Remix 웹사이트, 네이티브 iOS·Android 앱에서 코딩 경험 없이 게임을 만들 수 있다."
+                "x": "Google DeepMind가 새 월드 모델 Genie 4를 발표했다. 전례 없는 사실감을 구현하고 실시간 인터랙티브 시뮬레이션을 개선한 모델이다. Genie 4는 네이티브 멀티모달 모델로, 음악과 주변 소음, 인터랙티브 대화 같은 오디오를 세계와 동시에 생성한다."
               },
               {
                 "t": "p",
-                "x": "Remix는 2025년 모바일에서 시작했고, 그곳에서 크리에이터들이 약 100,000편의 짧은 게임을 만들었다. 크리에이터가 원하는 게임을 설명하면 Remix의 AI 도구가 코드를 써서 그 구상을 곧바로 구현한다. 이어 Remix가 게임을 호스팅하고 리더보드, 업적, 실시간 멀티플레이를 붙인다. 만든 결과물은 크리에이터가 소유하므로 코드를 내보낼 수도 있다."
+                "x": "이 모델은 Gemini 계열의 역량을 바탕으로 한다. Gemini Omni는 시뮬레이션을 실제 세계의 외형과 움직임에 맞추고, 다른 Gemini 모델들은 시뮬레이션의 일관성과 연속성을 유지하는 데 필요한 복잡한 추론을 맡는다."
+              },
+              {
+                "t": "video",
+                "yt": "sFfPkUJd_Jk"
               },
               {
                 "t": "p",
-                "x": "“게임을 만들 수 있는 사람의 범위를 바꾸고 싶었다”고 CEO Charlie Blackstock은 말했다. Remix는 플랫폼 소개를 위해 모든 크리에이터가 쓰는 것과 같은 도구로 만든 포털을 누비는 보물찾기 The Missing Bitcoin을 연다. 헌트 코인을 가장 먼저 모두 모은 플레이어가 1 BTC(또는 그에 상응하는 현금)를 받는다."
+                "x": "Genie 4에서는 날씨를 바꾸거나 카메라를 움직이거나 새로운 인물이나 사물을 등장시키는 식으로, 자연어로 시뮬레이션을 실시간 수정할 수 있다. 세계에 대한 고도의 물리적 이해를 바탕으로 공기역학이나 충돌 같은 상황을 시뮬레이션하고, 자연스럽게 움직이며 실시간으로 조종할 수 있는 캐릭터를 만든다."
               },
               {
                 "t": "p",
-                "x": "데스크톱 앱은 무료로 내려받을 수 있다. Remix의 AI로 게임을 만드는 제작 요금제는 월 $5부터이며, Anthropic, OpenAI, Google의 기존 구독을 연결해 쓸 수도 있다."
+                "x": "Gemini 3.8 Flash는 루프 안에서 안내 에이전트 역할을 맡아 장면을 관찰하고, 목표를 단계로 나누고, 각 단계를 검증한다. Genie 4가 생성하는 모든 영상과 오디오에는 SynthID 워터마크가 들어간다."
+              },
+              {
+                "t": "p",
+                "x": "Genie 4는 신뢰할 수 있는 테스터에게 리서치 프리뷰로 공개됐으며, 곧 Project Genie의 Google AI Ultra 구독자와 Gemini API 및 Google AI Studio의 얼리 액세스 파트너에게 제공된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Remix、デスクトップ版\n言葉でゲームを作る",
-          "body": "RemixがWindows・Mac・Linux版を出し、AIがコードを書き公開まで担う。",
-          "mini_headline": "Remix、デスクトップへ",
+          "headline": "DeepMindの世界モデル\nGenie 4は実時間で動く",
+          "body": "Genie 4は音声と物理演算、Gemini-poweredの操作で実時間の世界を描く。",
+          "mini_headline": "Genie 4、実時間で世界を模擬",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/remix.jpg",
-                "cap": "Remixは賞品としてBitcoinまたは同等の現金を用意している。出典：Remix"
+                "src": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w1200-h630-n-nu-rw"
               },
               {
                 "t": "p",
-                "x": "約1.5百万人のプレイヤーとクリエイターが使うゲーム制作プラットフォームRemixは本日、Windows、Mac、Linux向けのデスクトップアプリを公開した。クリエイターは新しいデスクトップアプリ、Remixのウェブサイト、ネイティブのiOS・Androidアプリでゲームを作ることができ、コーディング経験は要らない。"
+                "x": "Google DeepMindは新たな世界モデルGenie 4を発表した。かつてないリアリズムを実現し、リアルタイムのインタラクティブなシミュレーションを向上させるモデルだ。Genie 4はネイティブにマルチモーダルで、音楽や環境音、インタラクティブな対話といった音声を世界と同時に生成できる。"
               },
               {
                 "t": "p",
-                "x": "Remixは2025年にモバイルで始まり、クリエイターはそこで約100,000本の短いゲームを作ってきた。作りたいゲームを説明すると、RemixのAIツールがコードを書き、その構想を即座に形にする。Remixはそのゲームをホストし、リーダーボード、実績、リアルタイムのマルチプレイを加える。作ったものはクリエイターが所有するため、コードを書き出すこともできる。"
+                "x": "このモデルはGeminiファミリーの能力を基盤とする。Gemini Omniがシミュレーションを現実世界の見た目と振る舞いに結びつけ、他のGeminiモデルがシミュレーションの一貫性と連続性を保つのに必要な複雑な推論を担う。"
+              },
+              {
+                "t": "video",
+                "yt": "sFfPkUJd_Jk"
               },
               {
                 "t": "p",
-                "x": "「ゲームを作れる人を変えたかった」とCEOのCharlie Blackstockは語った。プラットフォームを紹介するため、Remixはすべてのクリエイターが使うのと同じツールで作られたポータルを巡る宝探し「The Missing Bitcoin」を始める。ハント用のコインを最初にすべて集めたプレイヤーが1 BTC（または同等の現金）を手にする。"
+                "x": "Genie 4では、天候を変える、カメラを動かす、新たな人物や物体を登場させるといった形で、自然言語を使ってシミュレーションをリアルタイムに変更できる。世界に対する高度な物理的理解に基づき、空気力学や衝突などのシナリオをシミュレートし、自然に動いてリアルタイムに操作できるキャラクターを生み出す。"
               },
               {
                 "t": "p",
-                "x": "デスクトップアプリは無料でダウンロードできる。RemixのAIでゲームを作る制作プランは月額$5からで、Anthropic、OpenAI、Googleの既存サブスクリプションを接続することもできる。"
+                "x": "Gemini 3.8 Flashはループ内の誘導エージェントとして機能し、シーンを観察し、目標をステップに分解して一つずつ検証する。Genie 4が生成するすべての映像と音声にはSynthIDの透かしが入る。"
+              },
+              {
+                "t": "p",
+                "x": "Genie 4は信頼できるテスター向けにリサーチプレビューとして公開されており、まもなくProject GenieのGoogle AI Ultra加入者と、Gemini APIおよびGoogle AI Studioのアーリーアクセスパートナーに提供される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Remix推出桌面版\n用提示词做游戏",
-          "body": "Remix推出Windows、Mac和Linux应用，用户描述游戏，由AI写代码并托管。",
-          "mini_headline": "Remix登陆桌面",
+          "headline": "DeepMind新世界模型\nGenie 4实时模拟世界",
+          "body": "Genie 4具备原生音频、先进物理和Gemini-powered操控，实时模拟交互世界。",
+          "mini_headline": "Genie 4实时模拟世界",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/remix.jpg",
-                "cap": "Remix以一枚Bitcoin或等值现金作为奖品。来源：Remix"
+                "src": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w1200-h630-n-nu-rw"
               },
               {
                 "t": "p",
-                "x": "拥有约1.5百万玩家和创作者的游戏制作平台Remix今天推出了适用于Windows、Mac和Linux的桌面应用。创作者现在可以在新的桌面应用、Remix网站或原生iOS和Android应用上制作游戏，无需任何编程经验。"
+                "x": "Google DeepMind发布新世界模型Genie 4，带来前所未有的真实感，并改进了实时交互式模拟。Genie 4原生支持多模态，可与世界同步生成音乐、环境音和交互式对话等音频。"
               },
               {
                 "t": "p",
-                "x": "Remix于2025年从移动端起步，创作者已在那里制作了约100,000款小游戏。创作者描述想要的游戏，Remix的AI工具就会编写代码，立即把构想变为现实。随后Remix托管游戏，并加入排行榜、成就和实时多人功能。作品归创作者所有，因此可以导出代码。"
+                "x": "该模型建立在Gemini系列的能力之上：Gemini Omni让模拟贴合真实世界的外观与行为，其他Gemini模型则提供维持模拟连贯性与连续性所需的复杂推理。"
+              },
+              {
+                "t": "video",
+                "yt": "sFfPkUJd_Jk"
               },
               {
                 "t": "p",
-                "x": "“我们想改变谁能做游戏，”CEO Charlie Blackstock说。为推介平台，Remix推出寻宝活动The Missing Bitcoin，玩家要穿行于用每位创作者都在用的同一套工具搭建的传送门之间；第一个集齐全部寻宝硬币的玩家将赢得1 BTC（或等值现金）。"
+                "x": "借助Genie 4，用户可以用自然语言实时修改模拟，比如改变天气、移动镜头，或引入新的人物或物体。它基于对世界的高级物理理解，可模拟空气动力学和碰撞等场景，并生成动作自然、可实时操控的角色。"
               },
               {
                 "t": "p",
-                "x": "桌面应用可免费下载。使用Remix的AI制作游戏的创作套餐每月$5起，创作者也可以接入Anthropic、OpenAI或Google的现有订阅。"
+                "x": "Gemini 3.8 Flash在循环中充当引导智能体，观察场景、将目标拆解为步骤并逐一验证。Genie 4生成的所有视频和音频都将带有SynthID水印。"
+              },
+              {
+                "t": "p",
+                "x": "Genie 4已作为研究预览版向受信任的测试者开放，即将面向Project Genie中的Google AI Ultra订阅用户，以及Gemini API和Google AI Studio的早期访问合作伙伴推出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Remix: crear juegos con prompts\nahora también en escritorio",
-          "body": "Remix lanzó apps para Windows, Mac y Linux: el creador describe un juego y su AI escribe el código y lo aloja.",
-          "mini_headline": "Remix llega al escritorio",
+          "headline": "DeepMind: Genie 4 simula mundos\ninteractivos en tiempo real",
+          "body": "Genie 4 añade simulación interactiva de mundos en tiempo real, audio nativo, física avanzada y control Gemini-powered.",
+          "mini_headline": "Genie 4 simula mundos en tiempo real",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/remix.jpg",
-                "cap": "Remix ofrece como premio un Bitcoin o su equivalente en efectivo. Fuente: Remix"
+                "src": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w1200-h630-n-nu-rw"
               },
               {
                 "t": "p",
-                "x": "Remix, la plataforma de creación de juegos que usan unos 1.5 millones de jugadores y creadores, lanzó hoy su app de escritorio para Windows, Mac y Linux. Los creadores ya pueden hacer juegos en la nueva app de escritorio, en el sitio web de Remix o en las apps nativas de iOS y Android, sin experiencia en programación."
+                "x": "Google DeepMind anuncia Genie 4, su nuevo modelo de mundo, que ofrece un realismo sin precedentes y mejora la simulación interactiva en tiempo real. Genie 4 es multimodal de forma nativa, lo que permite generar audio —como música, ruido ambiental y diálogo interactivo— de manera simultánea con el mundo."
               },
               {
                 "t": "p",
-                "x": "Remix nació en móviles en 2025, donde los creadores han hecho aproximadamente 100,000 juegos cortos. El creador describe el juego que quiere y las herramientas de AI de Remix escriben código que materializa al instante esa idea. Después Remix aloja el juego y añade tablas de clasificación, logros y multijugador en tiempo real. Los creadores son dueños de lo que hacen, así que pueden exportar su código."
+                "x": "El modelo se basa en capacidades de la familia Gemini: Gemini Omni ancla las simulaciones en la apariencia y el comportamiento del mundo real, mientras que otros modelos Gemini aportan el razonamiento complejo necesario para mantener la coherencia y la continuidad de la simulación."
+              },
+              {
+                "t": "video",
+                "yt": "sFfPkUJd_Jk"
               },
               {
                 "t": "p",
-                "x": "“Queríamos cambiar quién puede hacer juegos”, dijo el CEO Charlie Blackstock. Para presentar la plataforma, Remix lanza The Missing Bitcoin, una búsqueda del tesoro por portales construidos con las mismas herramientas que usa cualquier creador; el primer jugador que reúna todas las monedas de la búsqueda gana 1 BTC (o su equivalente en efectivo)."
+                "x": "Con Genie 4, los usuarios pueden usar lenguaje natural para modificar una simulación en tiempo real, por ejemplo cambiando el clima, moviendo la cámara o introduciendo una nueva persona u objeto. Gracias a una comprensión física avanzada del mundo, simula escenarios como la aerodinámica y las colisiones, y crea personajes que se mueven con naturalidad y pueden dirigirse en tiempo real."
               },
               {
                 "t": "p",
-                "x": "La app de escritorio se descarga gratis. Para crear juegos con la AI de Remix, los planes empiezan en $5 al mes, y los creadores también pueden conectar una suscripción existente de Anthropic, OpenAI o Google."
+                "x": "Gemini 3.8 Flash actúa como agente guía dentro del ciclo: observa la escena, divide los objetivos en pasos y verifica cada uno. Todo el video y el audio generados por Genie 4 incluirán la marca de agua SynthID."
+              },
+              {
+                "t": "p",
+                "x": "Genie 4 se ha lanzado como versión preliminar de investigación para probadores de confianza y pronto llegará a los suscriptores de Google AI Ultra en Project Genie y a los socios de acceso anticipado en la Gemini API y Google AI Studio."
               }
             ]
           }
@@ -325,15 +395,15 @@
       }
     },
     {
-      "id": "games-hive-axil-chatgpt",
-      "source_lang": "ko",
+      "id": "epiceula",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "컴투스 하이브 액실\n챗GPT 플러그인으로",
-      "body": "컴투스플랫폼이 챗GPT에서 자연어만으로 로그인·결제를 연동하는 플러그인을 냈다.",
-      "mini_headline": "하이브 액실, 챗GPT로",
+      "headline": "Epic EULA, AI\n학습에 Unreal 개방",
+      "body": "Sweeney는 Unreal 산출물의 AI 학습을 EULA로 풀어 주겠다고 했다.",
+      "mini_headline": "Epic EULA, Unreal AI 학습 허용",
       "tool": "Games",
-      "source": "게임메카",
-      "url": "https://www.gamemeca.com/view.php?gid=1782378",
+      "source": "Game Developer",
+      "url": "https://www.gamedeveloper.com/programming/epic-is-updating-the-eula-to-allow-ai-training-on-outputs-from-unreal-engine-and-metahuman",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
@@ -341,355 +411,295 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.gamemeca.com/data_center/345/605/20261026171400.webp",
-            "cap": "챗GPT용 하이브 액실 플러그인 대표 이미지 (사진제공: 컴투스플랫폼)"
+            "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf023070cdf9c6ebf/682da8904feafa6cf12bbc97/Fortnite_Header.png?width=1280&auto=webp&quality=80&disable=upscale"
           },
           {
             "t": "p",
-            "x": "컴투스플랫폼은 26일, AI 특화 게임 백엔드 서비스 하이브 액실 플러그인을 챗GPT에서 제공한다고 밝혔다. 이번 플러그인 제공을 통해 AI 기반 게임 개발 환경이 제작 단계에서 나아가 게임 출시와 서비스 운영 영역까지 확장됐다."
+            "x": "Epic CEO Tim Sweeney가 X에 올린 글을 보면, Epic은 Unreal Engine과 MetaHuman 산출물의 AI 학습 제한을 없애는 중이고 EULA도 곧 바뀐다."
           },
           {
             "t": "p",
-            "x": "사용자는 챗GPT 앱과 웹에서 하이브 액실 플러그인을 간편하게 설치할 수 있다. 코덱스 개발 환경에서 게임을 만들던 기존 방식 그대로 자연어 요청만으로 다양한 백엔드 기능을 연동하면 된다. 플러그인에는 작업 순서와 구현 방법을 안내하는 스킬(Skills)이 함께 탑재됐다. 이는 SDK 환경 설정, 로그인 및 계정 연결, 결제, 우편함, 쿠폰, 푸시 알림 등 상용 서비스에 필요한 백엔드 전반을 지원한다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.gamemeca.com/data_center/345/606/20261026171400.webp",
-            "cap": "하이브 액실 챗GPT 적용 예시 이미지 (사진제공: 컴투스플랫폼)"
+            "x": "지난 26일 Kotaku는 Microsoft와 Epic 같은 기업이 AI에 사활을 걸면서도 사용자가 만든 AI-coded 자사 게임 재현작은 내리게 한다며 잠재적 위선을 짚었다. Sweeney는 여기에 긴 답글을 달다가 EULA 업데이트 계획을 지나가듯 꺼냈다."
           },
           {
             "t": "p",
-            "x": "사용자가 \"게임에 로그인 기능을 추가해 줘\"라고 요청하면, 코덱스가 하이브 액실 개발 가이드를 참고해 백엔드 연동 코드를 작성하도록 돕는다. 함께 제공되는 애널리틱스는 신규 유저 유입, 잔존율, 국가별 지표 등에 대한 자연어 질문을 바탕으로 데이터를 차트와 대시보드로 시각화해 제공한다."
+            "x": "\"Epic은 Unreal Engine과 MetaHuman 산출물의 AI 학습을 제한하는가?\" Sweeney는 이렇게 쓴 뒤 말을 이었다. \"현재는 그렇다. 하지만 EULA 조항에서 이 제한을 없애려 하고 있다. 다만 이 도구들을 쓰는 각 게임은 개발자가 고른 조건으로 출시되며, 그 조건은 AI 학습을 허용할 수도 제한할 수도 있다.\""
           },
           {
             "t": "p",
-            "x": "최석원 컴투스플랫폼 대표는 \"글로벌 시장에서 인정받은 하이브(Hive)의 서비스 역량을 AI 개발 환경과 결합해 인디 및 소규모 개발사의 상용화 허들을 획기적으로 낮출 것\"이라고 전했다."
+            "x": "AI 학습에 엔진을 일절 쓰지 못하게 하던 Unreal Engine으로서는 뚜렷한 변화다. Epic은 스스로 \"AI-first\"라 부르는 모델로 옮겨 가는 중이다. Sweeney는 Valve가 Steam에서 요구하는 AI 사용 공개 의무를 비판한 적도 있다. Game Developer는 Epic에 추가 정보를 요청했다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "컴투스 하이브 액실\n챗GPT 플러그인으로",
-          "body": "컴투스플랫폼이 챗GPT에서 자연어만으로 로그인·결제를 연동하는 플러그인을 냈다.",
-          "mini_headline": "하이브 액실, 챗GPT로",
+        "en": {
+          "headline": "Epic's EULA will allow AI\ntraining on Unreal output",
+          "body": "Tim Sweeney says Epic's engine EULA will permit training AI on output made with Unreal Engine and MetaHuman.",
+          "mini_headline": "Epic EULA opens\nUnreal to AI training",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/345/605/20261026171400.webp",
-                "cap": "챗GPT용 하이브 액실 플러그인 대표 이미지 (사진제공: 컴투스플랫폼)"
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf023070cdf9c6ebf/682da8904feafa6cf12bbc97/Fortnite_Header.png?width=1280&auto=webp&quality=80&disable=upscale"
               },
               {
                 "t": "p",
-                "x": "컴투스플랫폼은 26일, AI 특화 게임 백엔드 서비스 하이브 액실 플러그인을 챗GPT에서 제공한다고 밝혔다. 이번 플러그인 제공을 통해 AI 기반 게임 개발 환경이 제작 단계에서 나아가 게임 출시와 서비스 운영 영역까지 확장됐다."
+                "x": "Epic's EULA will be changing in the future as the company works to remove restrictions on training AI off the outputs from Unreal Engine and MetaHuman, according to a post on X from Epic CEO Tim Sweeney."
               },
               {
                 "t": "p",
-                "x": "사용자는 챗GPT 앱과 웹에서 하이브 액실 플러그인을 간편하게 설치할 수 있다. 코덱스 개발 환경에서 게임을 만들던 기존 방식 그대로 자연어 요청만으로 다양한 백엔드 기능을 연동하면 된다. 플러그인에는 작업 순서와 구현 방법을 안내하는 스킬(Skills)이 함께 탑재됐다. 이는 SDK 환경 설정, 로그인 및 계정 연결, 결제, 우편함, 쿠폰, 푸시 알림 등 상용 서비스에 필요한 백엔드 전반을 지원한다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/345/606/20261026171400.webp",
-                "cap": "하이브 액실 챗GPT 적용 예시 이미지 (사진제공: 컴투스플랫폼)"
+                "x": "On October 26, Kotaku published a piece calling out the potential hypocrisy of companies like Microsoft and Epic going all-in on AI while shutting down user-made AI-coded recreations of their games. Sweeney responded with a long post in which he casually dropped news about the planned EULA update."
               },
               {
                 "t": "p",
-                "x": "사용자가 \"게임에 로그인 기능을 추가해 줘\"라고 요청하면, 코덱스가 하이브 액실 개발 가이드를 참고해 백엔드 연동 코드를 작성하도록 돕는다. 함께 제공되는 애널리틱스는 신규 유저 유입, 잔존율, 국가별 지표 등에 대한 자연어 질문을 바탕으로 데이터를 차트와 대시보드로 시각화해 제공한다."
+                "x": "\"Does Epic restrict AI training on outputs of Unreal Engine and MetaHuman?\" Sweeney writes. \"Yes currently but we are working to remove this restriction from EULA terms, though each game using these tools is released under terms of the developers' choosing which can allow or restrict AI training.\""
               },
               {
                 "t": "p",
-                "x": "최석원 컴투스플랫폼 대표는 \"글로벌 시장에서 인정받은 하이브(Hive)의 서비스 역량을 AI 개발 환경과 결합해 인디 및 소규모 개발사의 상용화 허들을 획기적으로 낮출 것\"이라고 전했다."
+                "x": "This is a marked change for Unreal Engine, which had previously not allowed any use of the engine for AI to train itself, as Epic shifts to what it calls an \"AI-first\" model. Sweeney has also criticized Valve's AI disclosure requirement on Steam. Game Developer has reached out to Epic for more information."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Com2uS brings Hive Axil\nto ChatGPT as a plugin",
-          "body": "Com2uS Platform released a ChatGPT plugin that links login and payments using natural language alone.",
-          "mini_headline": "Hive Axil comes to ChatGPT",
+        "ko": {
+          "headline": "Epic EULA, AI\n학습에 Unreal 개방",
+          "body": "Sweeney는 Unreal 산출물의 AI 학습을 EULA로 풀어 주겠다고 했다.",
+          "mini_headline": "Epic EULA, Unreal AI 학습 허용",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/345/605/20261026171400.webp",
-                "cap": "Key image for the Hive Axil plugin for ChatGPT (Image: Com2uS Platform)"
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf023070cdf9c6ebf/682da8904feafa6cf12bbc97/Fortnite_Header.png?width=1280&auto=webp&quality=80&disable=upscale"
               },
               {
                 "t": "p",
-                "x": "Com2uS Platform said on the 26th that it is offering the plugin for Hive Axil, its AI-focused game backend service, in ChatGPT. With the plugin, the AI-based game development environment extends beyond production into game launch and live service operations."
+                "x": "Epic CEO Tim Sweeney가 X에 올린 글을 보면, Epic은 Unreal Engine과 MetaHuman 산출물의 AI 학습 제한을 없애는 중이고 EULA도 곧 바뀐다."
               },
               {
                 "t": "p",
-                "x": "Users can easily install the Hive Axil plugin in the ChatGPT app and on the web. Just as they already built games in the Codex development environment, they can connect a range of backend features with natural-language requests alone. The plugin also includes Skills that guide the order of tasks and how to implement them. These cover the full backend a commercial service needs, including SDK setup, login and account linking, payments, mailbox, coupons and push notifications."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/345/606/20261026171400.webp",
-                "cap": "Example of Hive Axil applied in ChatGPT (Image: Com2uS Platform)"
+                "x": "지난 26일 Kotaku는 Microsoft와 Epic 같은 기업이 AI에 사활을 걸면서도 사용자가 만든 AI-coded 자사 게임 재현작은 내리게 한다며 잠재적 위선을 짚었다. Sweeney는 여기에 긴 답글을 달다가 EULA 업데이트 계획을 지나가듯 꺼냈다."
               },
               {
                 "t": "p",
-                "x": "When a user asks, \"Add a login feature to my game,\" Codex consults the Hive Axil development guide and helps write the backend integration code. The bundled analytics answer natural-language questions about new user inflow, retention and per-country metrics by visualizing the data as charts and dashboards."
+                "x": "\"Epic은 Unreal Engine과 MetaHuman 산출물의 AI 학습을 제한하는가?\" Sweeney는 이렇게 쓴 뒤 말을 이었다. \"현재는 그렇다. 하지만 EULA 조항에서 이 제한을 없애려 하고 있다. 다만 이 도구들을 쓰는 각 게임은 개발자가 고른 조건으로 출시되며, 그 조건은 AI 학습을 허용할 수도 제한할 수도 있다.\""
               },
               {
                 "t": "p",
-                "x": "Com2uS Platform CEO Choi Seok-won said the company will \"combine Hive's service capabilities, recognized in the global market, with the AI development environment to dramatically lower the commercialization hurdle for indie and small developers.\""
+                "x": "AI 학습에 엔진을 일절 쓰지 못하게 하던 Unreal Engine으로서는 뚜렷한 변화다. Epic은 스스로 \"AI-first\"라 부르는 모델로 옮겨 가는 중이다. Sweeney는 Valve가 Steam에서 요구하는 AI 사용 공개 의무를 비판한 적도 있다. Game Developer는 Epic에 추가 정보를 요청했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Hive Axil、\nChatGPTプラグイン化",
-          "body": "Com2uSがChatGPT向けに、自然言語でログインや決済をつなぐプラグインを公開した。",
-          "mini_headline": "Hive Axil、ChatGPTへ",
+          "headline": "Epic、EULA改定で\nUnreal出力をAI学習に",
+          "body": "SweeneyはEpicのEULAを改め、Unreal出力でのAI学習を認めると述べた。",
+          "mini_headline": "Epic EULA、UnrealをAI学習に開放",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/345/605/20261026171400.webp",
-                "cap": "ChatGPT向けHive Axilプラグインのメインビジュアル（写真提供：Com2uS Platform）"
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf023070cdf9c6ebf/682da8904feafa6cf12bbc97/Fortnite_Header.png?width=1280&auto=webp&quality=80&disable=upscale"
               },
               {
                 "t": "p",
-                "x": "Com2uS Platformは26日、AIに特化したゲームバックエンドサービスHive AxilのプラグインをChatGPTで提供すると発表した。これにより、AIベースのゲーム開発環境は制作段階にとどまらず、ゲームのリリースとサービス運営の領域まで広がった。"
+                "x": "Epic CEOのTim SweeneyがXに投稿した内容によると、同社はUnreal EngineとMetaHumanの出力をAI学習に使うことへの制限を撤廃する作業を進めており、EpicのEULAは今後変更される。"
               },
               {
                 "t": "p",
-                "x": "ユーザーはChatGPTのアプリとウェブでHive Axilプラグインを手軽にインストールできる。Codexの開発環境でゲームを作ってきた従来のやり方のまま、自然言語で頼むだけで多様なバックエンド機能を連携できる。プラグインには作業手順と実装方法を案内するスキル（Skills）も搭載された。SDKの環境設定、ログインとアカウント連携、決済、メールボックス、クーポン、プッシュ通知など、商用サービスに必要なバックエンド全般を支援する。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/345/606/20261026171400.webp",
-                "cap": "Hive AxilのChatGPT適用例（写真提供：Com2uS Platform）"
+                "x": "26日、Kotakuは、MicrosoftやEpicのような企業がAIに全力を注ぐ一方で、ユーザーが作ったAI-codedの自社ゲーム再現作品を閉鎖させているという潜在的な偽善を指摘する記事を掲載した。Sweeneyは長文の投稿で応じ、その中でEULA更新の計画をさらりと明かした。"
               },
               {
                 "t": "p",
-                "x": "ユーザーが「ゲームにログイン機能を追加して」と頼むと、CodexがHive Axilの開発ガイドを参照し、バックエンド連携コードの作成を手助けする。あわせて提供されるアナリティクスは、新規ユーザーの流入、継続率、国別指標などに関する自然言語の質問をもとに、データをチャートやダッシュボードで可視化する。"
+                "x": "「EpicはUnreal EngineとMetaHumanの出力によるAI学習を制限しているか?」とSweeneyは書く。「現時点ではイエスだが、EULAの条項からこの制限を撤廃すべく取り組んでいる。ただし、これらのツールを使う各ゲームは開発者が選んだ条件でリリースされ、その条件でAI学習を許可することも制限することもできる」"
               },
               {
                 "t": "p",
-                "x": "Com2uS Platformのチェ・ソクウォン代表は「グローバル市場で認められたHiveのサービス力をAI開発環境と組み合わせ、インディーや小規模開発会社の商用化のハードルを大きく下げる」と述べた。"
+                "x": "これはUnreal Engineにとって大きな転換だ。同エンジンはこれまでAIの学習目的での利用を一切認めておらず、Epicは自ら「AI-first」と呼ぶモデルへ移行しつつある。SweeneyはSteamにおけるValveのAI開示義務も批判している。Game DeveloperはEpicに詳細を問い合わせている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Hive Axil\n上线ChatGPT插件",
-          "body": "Com2uS Platform推出ChatGPT插件，仅用自然语言即可接入登录与支付。",
-          "mini_headline": "Hive Axil登陆ChatGPT",
+          "headline": "Epic将修改EULA\nUnreal产出可训练AI",
+          "body": "Sweeney称，Epic的EULA将允许用Unreal Engine产出训练AI。",
+          "mini_headline": "Epic EULA向AI训练开放Unreal",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/345/605/20261026171400.webp",
-                "cap": "面向ChatGPT的Hive Axil插件主视觉（图片提供：Com2uS Platform）"
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf023070cdf9c6ebf/682da8904feafa6cf12bbc97/Fortnite_Header.png?width=1280&auto=webp&quality=80&disable=upscale"
               },
               {
                 "t": "p",
-                "x": "Com2uS Platform于26日宣布，在ChatGPT中提供AI专用游戏后端服务Hive Axil的插件。借助这一插件，基于AI的游戏开发环境从制作阶段延伸到了游戏发行和服务运营领域。"
+                "x": "据Epic CEO Tim Sweeney在X上发布的帖子，Epic正努力取消用Unreal Engine和MetaHuman产出训练AI的限制，其EULA未来将随之修改。"
               },
               {
                 "t": "p",
-                "x": "用户可以在ChatGPT应用和网页端轻松安装Hive Axil插件。沿用在Codex开发环境中做游戏的原有方式，只需用自然语言提出请求，就能接入各种后端功能。插件还内置了指导操作顺序和实现方法的技能（Skills），覆盖SDK环境配置、登录与账号绑定、支付、邮箱、优惠券、推送通知等商业服务所需的全部后端功能。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/345/606/20261026171400.webp",
-                "cap": "Hive Axil在ChatGPT中的应用示例（图片提供：Com2uS Platform）"
+                "x": "26日，Kotaku发文指出，Microsoft和Epic等公司一边全力投入AI，一边关停用户以AI-coded方式重制的自家游戏，可能存在虚伪。Sweeney发长文回应，并在其中随口透露了计划中的EULA更新。"
               },
               {
                 "t": "p",
-                "x": "当用户提出“给游戏加上登录功能”时，Codex会参考Hive Axil开发指南，协助编写后端对接代码。随附的分析功能会根据有关新用户流入、留存率、各国指标等的自然语言提问，把数据可视化为图表和仪表盘。"
+                "x": "“Epic是否限制用Unreal Engine和MetaHuman产出训练AI？”Sweeney写道，“目前是的，但我们正在努力从EULA条款中移除这一限制。不过，使用这些工具的每款游戏都按开发者自选的条款发布，这些条款可以允许或限制AI训练。”"
               },
               {
                 "t": "p",
-                "x": "Com2uS Platform代表崔锡元表示：“将把在全球市场获得认可的Hive服务能力与AI开发环境相结合，大幅降低独立及小型开发商的商业化门槛。”"
+                "x": "这对Unreal Engine而言是一个显著转变——该引擎此前完全不允许将其用于AI自我训练，而Epic正转向其所称的“AI-first”模式。Sweeney还批评过Valve在Steam上的AI披露要求。Game Developer已联系Epic了解更多信息。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Com2uS lleva Hive Axil\na ChatGPT como plugin",
-          "body": "Com2uS Platform lanzó un plugin para ChatGPT que conecta inicio de sesión y pagos solo con lenguaje natural.",
-          "mini_headline": "Hive Axil llega a ChatGPT",
+          "headline": "La EULA de Epic permitirá\nentrenar AI con obras de Unreal",
+          "body": "Tim Sweeney afirma que la EULA de Epic permitirá entrenar AI con contenido creado con Unreal Engine y MetaHuman.",
+          "mini_headline": "La EULA de Epic abre Unreal al entrenamiento de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/345/605/20261026171400.webp",
-                "cap": "Imagen principal del plugin de Hive Axil para ChatGPT (Imagen: Com2uS Platform)"
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf023070cdf9c6ebf/682da8904feafa6cf12bbc97/Fortnite_Header.png?width=1280&auto=webp&quality=80&disable=upscale"
               },
               {
                 "t": "p",
-                "x": "Com2uS Platform anunció el día 26 que ofrece en ChatGPT el plugin de Hive Axil, su servicio de backend para juegos especializado en AI. Con este plugin, el entorno de desarrollo de juegos basado en AI va más allá de la producción y llega al lanzamiento del juego y a la operación del servicio."
+                "x": "La EULA de Epic cambiará en el futuro, ya que la empresa trabaja para eliminar las restricciones al entrenamiento de AI con los resultados de Unreal Engine y MetaHuman, según una publicación en X del CEO de Epic, Tim Sweeney."
               },
               {
                 "t": "p",
-                "x": "Los usuarios pueden instalar fácilmente el plugin de Hive Axil en la app y la web de ChatGPT. Igual que al crear juegos en el entorno de desarrollo de Codex, basta con pedirlo en lenguaje natural para conectar diversas funciones de backend. El plugin incluye además habilidades (Skills) que guían el orden de las tareas y la forma de implementarlas. Cubren todo el backend que necesita un servicio comercial: configuración del SDK, inicio de sesión y vinculación de cuentas, pagos, buzón, cupones y notificaciones push."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/345/606/20261026171400.webp",
-                "cap": "Ejemplo de Hive Axil aplicado en ChatGPT (Imagen: Com2uS Platform)"
+                "x": "El 26 de octubre, Kotaku publicó un artículo que señalaba la posible hipocresía de empresas como Microsoft y Epic, que apuestan todo por la AI mientras cierran recreaciones AI-coded de sus juegos hechas por usuarios. Sweeney respondió con una larga publicación en la que, de pasada, dio a conocer la actualización prevista de la EULA."
               },
               {
                 "t": "p",
-                "x": "Si el usuario pide “añade una función de inicio de sesión al juego”, Codex consulta la guía de desarrollo de Hive Axil y ayuda a escribir el código de integración del backend. La analítica incluida responde preguntas en lenguaje natural sobre captación de nuevos usuarios, retención y métricas por país, y muestra los datos en gráficos y paneles."
+                "x": "\"¿Restringe Epic el entrenamiento de AI con resultados de Unreal Engine y MetaHuman?\", escribe Sweeney. \"Sí, actualmente, pero estamos trabajando para eliminar esta restricción de los términos de la EULA, aunque cada juego que usa estas herramientas se publica bajo los términos que elijan sus desarrolladores, que pueden permitir o restringir el entrenamiento de AI\"."
               },
               {
                 "t": "p",
-                "x": "Choi Seok-won, director ejecutivo de Com2uS Platform, afirmó que la empresa “combinará la capacidad de servicio de Hive, reconocida en el mercado global, con el entorno de desarrollo con AI para reducir de forma notable la barrera de comercialización de los estudios independientes y pequeños”."
+                "x": "Se trata de un cambio notable para Unreal Engine, que hasta ahora no permitía ningún uso del motor para que una AI se entrenara, mientras Epic avanza hacia lo que llama un modelo \"AI-first\". Sweeney también ha criticado el requisito de Valve de declarar el uso de AI en Steam. Game Developer se ha puesto en contacto con Epic para obtener más información."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Com2uS brings Hive Axil\nto ChatGPT as a plugin",
-          "body": "Com2uS Platform released a ChatGPT plugin that links login and payments using natural language alone.",
-          "mini_headline": "Hive Axil comes to ChatGPT",
+        "ko": {
+          "headline": "Epic EULA, AI\n학습에 Unreal 개방",
+          "body": "Sweeney는 Unreal 산출물의 AI 학습을 EULA로 허용하겠다고 했다.",
+          "mini_headline": "Epic EULA, Unreal AI 학습 허용",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/345/605/20261026171400.webp",
-                "cap": "Key image for the Hive Axil plugin for ChatGPT (Image: Com2uS Platform)"
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf023070cdf9c6ebf/682da8904feafa6cf12bbc97/Fortnite_Header.png?width=1280&auto=webp&quality=80&disable=upscale"
               },
               {
                 "t": "p",
-                "x": "Com2uS Platform said on the 26th that it is offering the plugin for Hive Axil, its AI-focused game backend service, in ChatGPT. With the plugin, the AI-based game development environment extends beyond production into game launch and live service operations."
+                "x": "Epic CEO Tim Sweeney가 X에 올린 글에 따르면, Epic은 Unreal Engine과 MetaHuman 산출물로 AI를 학습시키는 데 걸린 제한을 없애는 작업을 하고 있어 앞으로 EULA가 바뀔 예정이다."
               },
               {
                 "t": "p",
-                "x": "Users can easily install the Hive Axil plugin in the ChatGPT app and on the web. Just as they already built games in the Codex development environment, they can connect a range of backend features with natural-language requests alone. The plugin also includes Skills that guide the order of tasks and how to implement them. These cover the full backend a commercial service needs, including SDK setup, login and account linking, payments, mailbox, coupons and push notifications."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/345/606/20261026171400.webp",
-                "cap": "Example of Hive Axil applied in ChatGPT (Image: Com2uS Platform)"
+                "x": "지난 26일 Kotaku는 Microsoft와 Epic 같은 기업이 AI에 전력을 다하면서도 사용자가 만든 AI-coded 자사 게임 재현작은 내리게 하는 잠재적 위선을 지적하는 기사를 냈다. Sweeney는 긴 글로 응답하면서 EULA 업데이트 계획을 무심하게 꺼냈다."
               },
               {
                 "t": "p",
-                "x": "When a user asks, \"Add a login feature to my game,\" Codex consults the Hive Axil development guide and helps write the backend integration code. The bundled analytics answer natural-language questions about new user inflow, retention and per-country metrics by visualizing the data as charts and dashboards."
+                "x": "\"Epic은 Unreal Engine과 MetaHuman 산출물의 AI 학습을 제한하는가?\" Sweeney는 이렇게 쓴 뒤 말을 이었다. \"현재는 그렇다. 하지만 EULA 조항에서 이 제한을 없애려 하고 있다. 다만 이 도구들을 쓰는 각 게임은 개발자가 고른 조건으로 출시되며, 그 조건은 AI 학습을 허용할 수도 제한할 수도 있다.\""
               },
               {
                 "t": "p",
-                "x": "Com2uS Platform CEO Choi Seok-won said the company will \"combine Hive's service capabilities, recognized in the global market, with the AI development environment to dramatically lower the commercialization hurdle for indie and small developers.\""
+                "x": "그동안 AI 학습에 엔진을 쓰는 것을 일절 허용하지 않던 Unreal Engine으로서는 뚜렷한 변화로, Epic은 스스로 \"AI-first\"라 부르는 모델로 전환하고 있다. Sweeney는 Steam에서 Valve가 요구하는 AI 사용 공개 의무도 비판한 바 있다. Game Developer는 Epic에 추가 정보를 요청했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Hive Axil、\nChatGPTプラグイン化",
-          "body": "Com2uSがChatGPT向けに、自然言語でログインや決済をつなぐプラグインを公開した。",
-          "mini_headline": "Hive Axil、ChatGPTへ",
+          "headline": "Epic、EULA改定で\nUnreal出力をAI学習に",
+          "body": "SweeneyはEpicのEULAを改め、Unreal出力でのAI学習を認めると述べた。",
+          "mini_headline": "Epic EULA、UnrealをAI学習に開放",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/345/605/20261026171400.webp",
-                "cap": "ChatGPT向けHive Axilプラグインのメインビジュアル（写真提供：Com2uS Platform）"
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf023070cdf9c6ebf/682da8904feafa6cf12bbc97/Fortnite_Header.png?width=1280&auto=webp&quality=80&disable=upscale"
               },
               {
                 "t": "p",
-                "x": "Com2uS Platformは26日、AIに特化したゲームバックエンドサービスHive AxilのプラグインをChatGPTで提供すると発表した。これにより、AIベースのゲーム開発環境は制作段階にとどまらず、ゲームのリリースとサービス運営の領域まで広がった。"
+                "x": "Epic CEOのTim SweeneyがXに投稿した内容によると、同社はUnreal EngineとMetaHumanの出力をAI学習に使うことへの制限を撤廃する作業を進めており、EpicのEULAは今後変更される。"
               },
               {
                 "t": "p",
-                "x": "ユーザーはChatGPTのアプリとウェブでHive Axilプラグインを手軽にインストールできる。Codexの開発環境でゲームを作ってきた従来のやり方のまま、自然言語で頼むだけで多様なバックエンド機能を連携できる。プラグインには作業手順と実装方法を案内するスキル（Skills）も搭載された。SDKの環境設定、ログインとアカウント連携、決済、メールボックス、クーポン、プッシュ通知など、商用サービスに必要なバックエンド全般を支援する。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/345/606/20261026171400.webp",
-                "cap": "Hive AxilのChatGPT適用例（写真提供：Com2uS Platform）"
+                "x": "26日、Kotakuは、MicrosoftやEpicのような企業がAIに全力を注ぐ一方で、ユーザーが作ったAI-codedの自社ゲーム再現作品を閉鎖させているという潜在的な偽善を指摘する記事を掲載した。Sweeneyは長文の投稿で応じ、その中でEULA更新の計画をさらりと明かした。"
               },
               {
                 "t": "p",
-                "x": "ユーザーが「ゲームにログイン機能を追加して」と頼むと、CodexがHive Axilの開発ガイドを参照し、バックエンド連携コードの作成を手助けする。あわせて提供されるアナリティクスは、新規ユーザーの流入、継続率、国別指標などに関する自然言語の質問をもとに、データをチャートやダッシュボードで可視化する。"
+                "x": "「EpicはUnreal EngineとMetaHumanの出力によるAI学習を制限しているか?」とSweeneyは書く。「現時点ではイエスだが、EULAの条項からこの制限を撤廃すべく取り組んでいる。ただし、これらのツールを使う各ゲームは開発者が選んだ条件でリリースされ、その条件でAI学習を許可することも制限することもできる」"
               },
               {
                 "t": "p",
-                "x": "Com2uS Platformのチェ・ソクウォン代表は「グローバル市場で認められたHiveのサービス力をAI開発環境と組み合わせ、インディーや小規模開発会社の商用化のハードルを大きく下げる」と述べた。"
+                "x": "これはUnreal Engineにとって大きな転換だ。同エンジンはこれまでAIの学習目的での利用を一切認めておらず、Epicは自ら「AI-first」と呼ぶモデルへ移行しつつある。SweeneyはSteamにおけるValveのAI開示義務も批判している。Game DeveloperはEpicに詳細を問い合わせている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Hive Axil\n上线ChatGPT插件",
-          "body": "Com2uS Platform推出ChatGPT插件，仅用自然语言即可接入登录与支付。",
-          "mini_headline": "Hive Axil登陆ChatGPT",
+          "headline": "Epic将修改EULA\nUnreal产出可训练AI",
+          "body": "Sweeney称，Epic的EULA将允许用Unreal Engine产出训练AI。",
+          "mini_headline": "Epic EULA向AI训练开放Unreal",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/345/605/20261026171400.webp",
-                "cap": "面向ChatGPT的Hive Axil插件主视觉（图片提供：Com2uS Platform）"
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf023070cdf9c6ebf/682da8904feafa6cf12bbc97/Fortnite_Header.png?width=1280&auto=webp&quality=80&disable=upscale"
               },
               {
                 "t": "p",
-                "x": "Com2uS Platform于26日宣布，在ChatGPT中提供AI专用游戏后端服务Hive Axil的插件。借助这一插件，基于AI的游戏开发环境从制作阶段延伸到了游戏发行和服务运营领域。"
+                "x": "据Epic CEO Tim Sweeney在X上发布的帖子，Epic正努力取消用Unreal Engine和MetaHuman产出训练AI的限制，其EULA未来将随之修改。"
               },
               {
                 "t": "p",
-                "x": "用户可以在ChatGPT应用和网页端轻松安装Hive Axil插件。沿用在Codex开发环境中做游戏的原有方式，只需用自然语言提出请求，就能接入各种后端功能。插件还内置了指导操作顺序和实现方法的技能（Skills），覆盖SDK环境配置、登录与账号绑定、支付、邮箱、优惠券、推送通知等商业服务所需的全部后端功能。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/345/606/20261026171400.webp",
-                "cap": "Hive Axil在ChatGPT中的应用示例（图片提供：Com2uS Platform）"
+                "x": "26日，Kotaku发文指出，Microsoft和Epic等公司一边全力投入AI，一边关停用户以AI-coded方式重制的自家游戏，可能存在虚伪。Sweeney发长文回应，并在其中随口透露了计划中的EULA更新。"
               },
               {
                 "t": "p",
-                "x": "当用户提出“给游戏加上登录功能”时，Codex会参考Hive Axil开发指南，协助编写后端对接代码。随附的分析功能会根据有关新用户流入、留存率、各国指标等的自然语言提问，把数据可视化为图表和仪表盘。"
+                "x": "“Epic是否限制用Unreal Engine和MetaHuman产出训练AI？”Sweeney写道，“目前是的，但我们正在努力从EULA条款中移除这一限制。不过，使用这些工具的每款游戏都按开发者自选的条款发布，这些条款可以允许或限制AI训练。”"
               },
               {
                 "t": "p",
-                "x": "Com2uS Platform代表崔锡元表示：“将把在全球市场获得认可的Hive服务能力与AI开发环境相结合，大幅降低独立及小型开发商的商业化门槛。”"
+                "x": "这对Unreal Engine而言是一个显著转变——该引擎此前完全不允许将其用于AI自我训练，而Epic正转向其所称的“AI-first”模式。Sweeney还批评过Valve在Steam上的AI披露要求。Game Developer已联系Epic了解更多信息。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Com2uS lleva Hive Axil\na ChatGPT como plugin",
-          "body": "Com2uS Platform lanzó un plugin para ChatGPT que conecta inicio de sesión y pagos solo con lenguaje natural.",
-          "mini_headline": "Hive Axil llega a ChatGPT",
+          "headline": "La EULA de Epic permitirá\nentrenar AI con obras de Unreal",
+          "body": "Tim Sweeney afirma que la EULA de Epic permitirá entrenar AI con contenido creado con Unreal Engine y MetaHuman.",
+          "mini_headline": "La EULA de Epic abre Unreal al entrenamiento de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/345/605/20261026171400.webp",
-                "cap": "Imagen principal del plugin de Hive Axil para ChatGPT (Imagen: Com2uS Platform)"
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf023070cdf9c6ebf/682da8904feafa6cf12bbc97/Fortnite_Header.png?width=1280&auto=webp&quality=80&disable=upscale"
               },
               {
                 "t": "p",
-                "x": "Com2uS Platform anunció el día 26 que ofrece en ChatGPT el plugin de Hive Axil, su servicio de backend para juegos especializado en AI. Con este plugin, el entorno de desarrollo de juegos basado en AI va más allá de la producción y llega al lanzamiento del juego y a la operación del servicio."
+                "x": "La EULA de Epic cambiará en el futuro, ya que la empresa trabaja para eliminar las restricciones al entrenamiento de AI con los resultados de Unreal Engine y MetaHuman, según una publicación en X del CEO de Epic, Tim Sweeney."
               },
               {
                 "t": "p",
-                "x": "Los usuarios pueden instalar fácilmente el plugin de Hive Axil en la app y la web de ChatGPT. Igual que al crear juegos en el entorno de desarrollo de Codex, basta con pedirlo en lenguaje natural para conectar diversas funciones de backend. El plugin incluye además habilidades (Skills) que guían el orden de las tareas y la forma de implementarlas. Cubren todo el backend que necesita un servicio comercial: configuración del SDK, inicio de sesión y vinculación de cuentas, pagos, buzón, cupones y notificaciones push."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/345/606/20261026171400.webp",
-                "cap": "Ejemplo de Hive Axil aplicado en ChatGPT (Imagen: Com2uS Platform)"
+                "x": "El 26 de octubre, Kotaku publicó un artículo que señalaba la posible hipocresía de empresas como Microsoft y Epic, que apuestan todo por la AI mientras cierran recreaciones AI-coded de sus juegos hechas por usuarios. Sweeney respondió con una larga publicación en la que, de pasada, dio a conocer la actualización prevista de la EULA."
               },
               {
                 "t": "p",
-                "x": "Si el usuario pide “añade una función de inicio de sesión al juego”, Codex consulta la guía de desarrollo de Hive Axil y ayuda a escribir el código de integración del backend. La analítica incluida responde preguntas en lenguaje natural sobre captación de nuevos usuarios, retención y métricas por país, y muestra los datos en gráficos y paneles."
+                "x": "\"¿Restringe Epic el entrenamiento de AI con resultados de Unreal Engine y MetaHuman?\", escribe Sweeney. \"Sí, actualmente, pero estamos trabajando para eliminar esta restricción de los términos de la EULA, aunque cada juego que usa estas herramientas se publica bajo los términos que elijan sus desarrolladores, que pueden permitir o restringir el entrenamiento de AI\"."
               },
               {
                 "t": "p",
-                "x": "Choi Seok-won, director ejecutivo de Com2uS Platform, afirmó que la empresa “combinará la capacidad de servicio de Hive, reconocida en el mercado global, con el entorno de desarrollo con AI para reducir de forma notable la barrera de comercialización de los estudios independientes y pequeños”."
+                "x": "Se trata de un cambio notable para Unreal Engine, que hasta ahora no permitía ningún uso del motor para que una AI se entrenara, mientras Epic avanza hacia lo que llama un modelo \"AI-first\". Sweeney también ha criticado el requisito de Valve de declarar el uso de AI en Steam. Game Developer se ha puesto en contacto con Epic para obtener más información."
               }
             ]
           }
@@ -697,15 +707,15 @@
       }
     },
     {
-      "id": "games-ai-code-lawyer",
+      "id": "aiwikis",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI-coded 결과물\n의뢰인 시간만 날렸다",
-      "body": "게임 변호사에 따르면 외주자의 all-AI 결과물은 기밀까지 넣고도 망가졌다.",
-      "mini_headline": "AI 코드가 날린 시간",
+      "headline": "오류투성이 AI 게임 위키\n진짜 팬들을 밀어낸다",
+      "body": "오류투성이 LLM-powered 게임 위키가 팬을 밀어내고 퍼블리셔까지 괴롭힌다.",
+      "mini_headline": "AI 게임 위키, 팬을 밀어내다",
       "tool": "Games",
-      "source": "GamesRadar+",
-      "url": "https://www.gamesradar.com/games/just-because-you-can-order-at-a-restaurant-doesnt-mean-youre-a-chef-game-lawyer-says-ai-generated-code-made-with-confidential-details-did-nothing-but-waste-everybodys-time/",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
@@ -713,209 +723,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/Led8MKdaEhJzPHbQzNsQna-1920-80.jpg",
-            "cap": "Phoenix Wright: Ace Attorney - Dual Destinies"
+            "src": "https://assetsio.gnwcdn.com/gamedb-wiki-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "cap": "이미지 출처: Eurogamer / GameDB"
           },
           {
             "t": "p",
-            "x": "비디오 게임 계약을 전문으로 하는 변호사가 최근 계약 하나가 깨졌다고 밝혔다. 의뢰인이 “자기가 뭘 만들었는지도 모르는” 사람에게서 바이브 코딩(vibe-coded) 결과물을 잔뜩 받은 뒤였다. Voyer Law의 IP 변호사이자 비디오 게임 부문 책임자인 Haley MacLean이 익명 처리한 이 사례를 Bluesky에 올렸다."
-          },
-          {
-            "t": "p",
-            "x": "“프로그래밍 외주자가 의뢰인에게 마일스톤을 납품했다. 망가져 있고 문제투성이라 인수 전에 수정을 요청했다. 외주자는 못 하겠다며 전액 지급을 요구했다. 알고 보니 전부 AI였고 그는 자기가 뭘 만들었는지도 몰랐다. 그래서 그는 돈을 받지 못하고, 의뢰인의 시간만 낭비했다.”"
-          },
-          {
-            "t": "p",
-            "x": "“게다가 마일스톤을 ‘만들려고’ 기밀 게임 정보를 전부 AI 도구에 집어넣었으니 [비밀유지] 위반이기도 했다”고 MacLean은 덧붙였다. “식당에서 주문할 줄 안다고 셰프가 되는 건 아니다.”"
+            "x": "Eurogamer 기자가 Nighthawks 정보를 찾다 들어간 \"Nighthawks Wiki\"는 위키라 부르기도 민망했다. 있지도 않은 동료와 스킬을 늘어놓는 등 틀린 정보투성이였다. 도메인을 따라가 보니 \"AI Website builder\"도 제공하는 웹사이트 제작 서비스 Spaceship이 나왔다."
           },
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/K8yJ4PtPLeS2UpgkBEhUJC.jpg",
-            "cap": "Monster Hunter World의 고양이 셰프"
+            "src": "https://assetsio.gnwcdn.com/nighthawks-wiki-1.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+            "cap": "문제의 비공식 Nighthawks 위키. | 이미지 출처: Eurogamer / Nighthawks.wiki"
           },
           {
             "t": "p",
-            "x": "MacLean은 계약서에 반AI(anti-AI) 조항을 넣는 의뢰인이 늘어나는 추세라며 “이제는 그냥 표준 문구”라고 했다."
+            "x": "Hooded Horse CEO Tim Bender는 퍼블리셔 입장에서 AI-generated 사이트를 상대로 \"두더지 잡기(whack-a-mole)\"를 해야 했다고 말한다. \"[생성형 AI] 덕분에 사실상 상업적인 업체들이 줄줄이 대량 생산에 나서 게임 검색 엔진 결과를 뒤덮고 트래픽을 빨아들이려 한다\"는 것이다."
+          },
+          {
+            "t": "p",
+            "x": "독립 위키도 AI 스크래퍼에 시달린다. Dune: Awakening Community Wiki에는 30일 동안 AI 크롤러 요청이 7m 건 들어왔고, 그중 5m 건이 Meta발이었다. Independent Game Wiki Network의 FlamingMojo에 따르면 서버 비용은 세 배에서 열 배까지 뛰었다."
+          },
+          {
+            "t": "p",
+            "x": "\"AI 오염에서 살아남는 길은 커뮤니티다.\" FlamingMojo의 말이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Game lawyer: AI-coded work\nwasted her client's time",
-          "body": "A game lawyer says a contractor's all-AI milestone, fed confidential info, was broken and he didn't know what he made.",
-          "mini_headline": "AI code wasted time",
+          "headline": "Error-ridden AI game wikis\nare pushing real fans aside",
+          "body": "LLM-powered game wikis full of errors are taking over, sidelining fans and leaving publishers playing whack-a-mole.",
+          "mini_headline": "AI game wikis\npush fans aside",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Led8MKdaEhJzPHbQzNsQna-1920-80.jpg",
-                "cap": "Phoenix Wright: Ace Attorney - Dual Destinies"
+                "src": "https://assetsio.gnwcdn.com/gamedb-wiki-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Image credit: Eurogamer / GameDB"
               },
               {
                 "t": "p",
-                "x": "A lawyer who specializes in video game contracts says a recent agreement fell through after the client received a load of vibe-coded material made by someone who didn't \"know what he made.\" Haley MacLean, IP lawyer and video game practice head at Voyer Law, shared the anonymized incident on Bluesky."
-              },
-              {
-                "t": "p",
-                "x": "\"Programming contractor delivers my client a milestone. It’s broken and full of issues so we request revisions before acceptance. Contractor says he can’t and wants full payment. Turns out it’s all AI and he doesn’t even know what he made. So he’s not getting paid and he wasted my client’s time.\""
-              },
-              {
-                "t": "p",
-                "x": "\"Also it was a breach of [confidentiality] because he stuck all the confidential game info into the AI tool to 'make' the milestone,\" she adds. \"Just because you can order at a restaurant doesn’t mean you’re a chef.\""
+                "x": "Searching for information on Nighthawks, Eurogamer's writer landed on a \"Nighthawks Wiki\" that wasn't a wiki at all and was full of false information, like listing companions and skills that don't exist. Its domain traced to a website building service called Spaceship, which also offers an \"AI Website builder.\""
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/K8yJ4PtPLeS2UpgkBEhUJC.jpg",
-                "cap": "Monster Hunter World cat chef"
+                "src": "https://assetsio.gnwcdn.com/nighthawks-wiki-1.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+                "cap": "The unofficial Nighthawks wiki in question. | Image credit: Eurogamer / Nighthawks.wiki"
               },
               {
                 "t": "p",
-                "x": "MacLean says she sees more and more clients baking anti-AI clauses into contracts: \"Now it's just boilerplate.\""
+                "x": "Hooded Horse CEO Tim Bender says the publisher has had to \"play whack-a-mole\" with AI-generated sites. \"[Generative AI] enables a run of basically commercial enterprises to mass produce and try to flood the search engine results of games to soak up their traffic,\" he says."
+              },
+              {
+                "t": "p",
+                "x": "Independent wikis also face AI scrapers: the Dune: Awakening Community Wiki saw 7m requests in 30 days from AI crawlers, 5m of them from Meta. FlamingMojo of the Independent Game Wiki Network says server costs have increased between three- and ten-fold."
+              },
+              {
+                "t": "p",
+                "x": "\"The way we survive the AI pollution is with community,\" says FlamingMojo."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI-coded 결과물\n의뢰인 시간만 날렸다",
-          "body": "게임 변호사에 따르면 외주자의 all-AI 결과물은 기밀까지 넣고도 망가졌다.",
-          "mini_headline": "AI 코드가 날린 시간",
+          "headline": "오류투성이 AI 게임 위키\n진짜 팬들을 밀어낸다",
+          "body": "오류투성이 LLM-powered 게임 위키가 팬을 밀어내고 퍼블리셔까지 괴롭힌다.",
+          "mini_headline": "AI 게임 위키, 팬을 밀어내다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Led8MKdaEhJzPHbQzNsQna-1920-80.jpg",
-                "cap": "Phoenix Wright: Ace Attorney - Dual Destinies"
+                "src": "https://assetsio.gnwcdn.com/gamedb-wiki-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "이미지 출처: Eurogamer / GameDB"
               },
               {
                 "t": "p",
-                "x": "비디오 게임 계약을 전문으로 하는 변호사가 최근 계약 하나가 깨졌다고 밝혔다. 의뢰인이 “자기가 뭘 만들었는지도 모르는” 사람에게서 바이브 코딩(vibe-coded) 결과물을 잔뜩 받은 뒤였다. Voyer Law의 IP 변호사이자 비디오 게임 부문 책임자인 Haley MacLean이 익명 처리한 이 사례를 Bluesky에 올렸다."
-              },
-              {
-                "t": "p",
-                "x": "“프로그래밍 외주자가 의뢰인에게 마일스톤을 납품했다. 망가져 있고 문제투성이라 인수 전에 수정을 요청했다. 외주자는 못 하겠다며 전액 지급을 요구했다. 알고 보니 전부 AI였고 그는 자기가 뭘 만들었는지도 몰랐다. 그래서 그는 돈을 받지 못하고, 의뢰인의 시간만 낭비했다.”"
-              },
-              {
-                "t": "p",
-                "x": "“게다가 마일스톤을 ‘만들려고’ 기밀 게임 정보를 전부 AI 도구에 집어넣었으니 [비밀유지] 위반이기도 했다”고 MacLean은 덧붙였다. “식당에서 주문할 줄 안다고 셰프가 되는 건 아니다.”"
+                "x": "Eurogamer 기자가 Nighthawks 정보를 찾다 들어간 \"Nighthawks Wiki\"는 위키라 부르기도 민망했다. 있지도 않은 동료와 스킬을 늘어놓는 등 틀린 정보투성이였다. 도메인을 따라가 보니 \"AI Website builder\"도 제공하는 웹사이트 제작 서비스 Spaceship이 나왔다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/K8yJ4PtPLeS2UpgkBEhUJC.jpg",
-                "cap": "Monster Hunter World의 고양이 셰프"
+                "src": "https://assetsio.gnwcdn.com/nighthawks-wiki-1.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+                "cap": "문제의 비공식 Nighthawks 위키. | 이미지 출처: Eurogamer / Nighthawks.wiki"
               },
               {
                 "t": "p",
-                "x": "MacLean은 계약서에 반AI(anti-AI) 조항을 넣는 의뢰인이 늘어나는 추세라며 “이제는 그냥 표준 문구”라고 했다."
+                "x": "Hooded Horse CEO Tim Bender는 퍼블리셔 입장에서 AI-generated 사이트를 상대로 \"두더지 잡기(whack-a-mole)\"를 해야 했다고 말한다. \"[생성형 AI] 덕분에 사실상 상업적인 업체들이 줄줄이 대량 생산에 나서 게임 검색 엔진 결과를 뒤덮고 트래픽을 빨아들이려 한다\"는 것이다."
+              },
+              {
+                "t": "p",
+                "x": "독립 위키도 AI 스크래퍼에 시달린다. Dune: Awakening Community Wiki에는 30일 동안 AI 크롤러 요청이 7m 건 들어왔고, 그중 5m 건이 Meta발이었다. Independent Game Wiki Network의 FlamingMojo에 따르면 서버 비용은 세 배에서 열 배까지 뛰었다."
+              },
+              {
+                "t": "p",
+                "x": "\"AI 오염에서 살아남는 길은 커뮤니티다.\" FlamingMojo의 말이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "弁護士「AI-coded\n仕事で時間を浪費」",
-          "body": "ゲーム弁護士によると、外注先のall-AI成果物は機密を入れたのに壊れていた。",
-          "mini_headline": "AIコードが時間を奪う",
+          "headline": "誤りだらけのAIゲームウィキ\n本物のファンを押しのける",
+          "body": "誤りだらけのLLM-poweredゲームウィキが広がり、ファンを脇へ追いやっている。",
+          "mini_headline": "AIゲームウィキがファンを押しのける",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Led8MKdaEhJzPHbQzNsQna-1920-80.jpg",
-                "cap": "Phoenix Wright: Ace Attorney - Dual Destinies"
+                "src": "https://assetsio.gnwcdn.com/gamedb-wiki-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "画像クレジット: Eurogamer / GameDB"
               },
               {
                 "t": "p",
-                "x": "ビデオゲームの契約を専門とする弁護士によると、最近ある契約が破談になった。クライアントが「自分が何を作ったのかも分かっていない」人物によるバイブコーディング（vibe-coded）の成果物を大量に受け取ったためだ。Voyer LawのIP弁護士でビデオゲーム部門を率いるHaley MacLeanが、匿名化したこの事例をBlueskyで共有した。"
-              },
-              {
-                "t": "p",
-                "x": "「プログラミングの外注先がクライアントにマイルストーンを納品した。壊れていて問題だらけなので、検収前に修正を求めた。外注先はできないと言い、全額の支払いを求めた。調べると全部AIで、本人は自分が何を作ったのかさえ分かっていなかった。だから報酬は支払われず、クライアントの時間を無駄にしただけだった」"
-              },
-              {
-                "t": "p",
-                "x": "「しかも、マイルストーンを『作る』ためにゲームの機密情報をすべてAIツールに入れたので、［守秘義務］違反でもあった」と彼女は付け加える。「レストランで注文できるからといって、シェフになれるわけではない」"
+                "x": "Nighthawksの情報を探していたEurogamerの記者がたどり着いた「Nighthawks Wiki」は、まったくウィキではなく、存在しない仲間やスキルを並べるなど誤情報だらけだった。そのドメインをたどると、「AI Website builder」も提供するウェブサイト作成サービスSpaceshipに行き着いた。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/K8yJ4PtPLeS2UpgkBEhUJC.jpg",
-                "cap": "Monster Hunter Worldの猫のシェフ"
+                "src": "https://assetsio.gnwcdn.com/nighthawks-wiki-1.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+                "cap": "問題の非公式Nighthawksウィキ。 | 画像クレジット: Eurogamer / Nighthawks.wiki"
               },
               {
                 "t": "p",
-                "x": "MacLeanによると、契約に反AI（anti-AI）条項を盛り込むクライアントが増え続けている。「今ではただの定型文だ」"
+                "x": "Hooded Horse CEOのTim Benderは、パブリッシャーとしてAI-generatedサイトを相手に「もぐら叩き(whack-a-mole)」を強いられてきたと語る。「[生成AI]によって、基本的に商業目的の事業者が次々と大量生産を行い、ゲームの検索エンジン結果を埋め尽くしてトラフィックを吸い上げようとしている」と彼は言う。"
+              },
+              {
+                "t": "p",
+                "x": "独立系ウィキもAIスクレイパーに直面している。Dune: Awakening Community Wikiは30日間でAIクローラーから7m 件のリクエストを受け、そのうち5m 件がMetaからだった。Independent Game Wiki NetworkのFlamingMojoによると、サーバー費用は三倍から十倍に増えたという。"
+              },
+              {
+                "t": "p",
+                "x": "「AI汚染を生き延びる道はコミュニティだ」とFlamingMojoは言う。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "游戏律师：AI-coded\n成果浪费客户时间",
-          "body": "游戏律师称，承包商交付的all-AI成果喂入了机密信息，却漏洞百出，他本人也不懂。",
-          "mini_headline": "AI代码白费时间",
+          "headline": "错误百出的AI游戏维基\n正把真正的粉丝挤到一边",
+          "body": "错误百出的LLM-powered游戏维基泛滥，排挤粉丝，让发行商疲于打地鼠。",
+          "mini_headline": "AI游戏维基挤走粉丝",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Led8MKdaEhJzPHbQzNsQna-1920-80.jpg",
-                "cap": "Phoenix Wright: Ace Attorney - Dual Destinies"
+                "src": "https://assetsio.gnwcdn.com/gamedb-wiki-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "图片来源：Eurogamer / GameDB"
               },
               {
                 "t": "p",
-                "x": "一位专攻电子游戏合同的律师表示，最近一份协议告吹，原因是客户收到了一大堆由“不知道自己做了什么”的人用氛围编程（vibe-coded）做出的东西。Voyer Law的IP律师、电子游戏业务负责人Haley MacLean在Bluesky上分享了这起匿名处理的事件。"
-              },
-              {
-                "t": "p",
-                "x": "“编程承包商给我的客户交付了一个里程碑。它坏掉了，问题一大堆，所以我们要求在验收前修改。承包商说他改不了，还要求全额付款。结果发现全是AI做的，他连自己做了什么都不知道。所以他拿不到钱，还浪费了我客户的时间。”"
-              },
-              {
-                "t": "p",
-                "x": "“而且这还违反了[保密义务]，因为他为了‘做出’这个里程碑，把所有机密游戏信息都塞进了AI工具，”她补充道，“会在餐厅点菜，不代表你就是厨师。”"
+                "x": "Eurogamer的作者在搜索Nighthawks相关信息时，进入了一个“Nighthawks Wiki”，它根本不是维基，而且充斥着虚假信息，比如列出并不存在的同伴和技能。其域名追溯到一家名为Spaceship的建站服务，该服务还提供“AI Website builder”。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/K8yJ4PtPLeS2UpgkBEhUJC.jpg",
-                "cap": "Monster Hunter World中的猫厨师"
+                "src": "https://assetsio.gnwcdn.com/nighthawks-wiki-1.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+                "cap": "涉事的非官方Nighthawks维基。| 图片来源：Eurogamer / Nighthawks.wiki"
               },
               {
                 "t": "p",
-                "x": "MacLean说，她看到越来越多的客户在合同中加入反AI（anti-AI）条款：“现在这已经是标准条款了。”"
+                "x": "Hooded Horse CEO Tim Bender表示，这家发行商不得不与AI-generated网站玩“打地鼠（whack-a-mole）”。他说：“[生成式AI]让一批基本属于商业性质的企业得以批量生产内容，试图淹没游戏的搜索引擎结果，以吸走其流量。”"
+              },
+              {
+                "t": "p",
+                "x": "独立维基也面临AI爬虫：Dune: Awakening Community Wiki在30天内收到来自AI爬虫的7m 次请求，其中5m 次来自Meta。Independent Game Wiki Network的FlamingMojo表示，服务器成本增加了三到十倍。"
+              },
+              {
+                "t": "p",
+                "x": "“我们靠社区在AI污染中生存下来。”FlamingMojo说。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Abogada: el trabajo AI-coded\nhizo perder tiempo a su cliente",
-          "body": "Según una abogada de juegos, el hito all-AI de un proveedor, con datos confidenciales, falló y él no sabía qué hizo.",
-          "mini_headline": "El código AI hizo perder tiempo",
+          "headline": "Wikis de AI llenas de errores\ndesplazan a los verdaderos fans",
+          "body": "Las wikis de juegos LLM-powered y llenas de errores se imponen, relegan a los fans y desbordan a las editoras.",
+          "mini_headline": "Las wikis de AI desplazan a los fans",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Led8MKdaEhJzPHbQzNsQna-1920-80.jpg",
-                "cap": "Phoenix Wright: Ace Attorney - Dual Destinies"
+                "src": "https://assetsio.gnwcdn.com/gamedb-wiki-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Crédito de la imagen: Eurogamer / GameDB"
               },
               {
                 "t": "p",
-                "x": "Una abogada especializada en contratos de videojuegos cuenta que un acuerdo reciente fracasó después de que su cliente recibiera un montón de material vibe-coded hecho por alguien que no «sabía lo que había hecho». Haley MacLean, abogada de IP y responsable del área de videojuegos de Voyer Law, compartió el caso anonimizado en Bluesky."
-              },
-              {
-                "t": "p",
-                "x": "«Un contratista de programación entrega a mi cliente un hito. Está roto y lleno de problemas, así que pedimos revisiones antes de aceptarlo. El contratista dice que no puede y quiere el pago completo. Resulta que todo es AI y ni siquiera sabe lo que hizo. Así que no cobrará y le hizo perder el tiempo a mi cliente»."
-              },
-              {
-                "t": "p",
-                "x": "«Además fue un incumplimiento de [confidencialidad], porque metió toda la información confidencial del juego en la herramienta de AI para ‘hacer’ el hito», añade. «Que sepas pedir en un restaurante no te convierte en chef»."
+                "x": "Al buscar información sobre Nighthawks, el redactor de Eurogamer llegó a una \"Nighthawks Wiki\" que no era una wiki en absoluto y estaba llena de información falsa, como compañeros y habilidades que no existen. Su dominio remitía a un servicio de creación de sitios web llamado Spaceship, que también ofrece un \"AI Website builder\"."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/K8yJ4PtPLeS2UpgkBEhUJC.jpg",
-                "cap": "El gato chef de Monster Hunter World"
+                "src": "https://assetsio.gnwcdn.com/nighthawks-wiki-1.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+                "cap": "La wiki no oficial de Nighthawks en cuestión. | Crédito de la imagen: Eurogamer / Nighthawks.wiki"
               },
               {
                 "t": "p",
-                "x": "MacLean dice que ve cada vez más clientes que incluyen cláusulas anti-AI en sus contratos: «Ahora ya es texto estándar»."
+                "x": "Tim Bender, CEO de Hooded Horse, dice que la editora ha tenido que \"jugar al whack-a-mole\" con sitios AI-generated. \"[La AI generativa] permite que una serie de empresas básicamente comerciales produzcan en masa e intenten inundar los resultados de los buscadores sobre los juegos para absorber su tráfico\", afirma."
+              },
+              {
+                "t": "p",
+                "x": "Las wikis independientes también se enfrentan a los scrapers de AI: la Dune: Awakening Community Wiki recibió 7m de solicitudes en 30 días de rastreadores de AI, 5m de ellas de Meta. FlamingMojo, de la Independent Game Wiki Network, afirma que los costes de servidor se han multiplicado entre tres y diez veces."
+              },
+              {
+                "t": "p",
+                "x": "\"La forma en que sobrevivimos a la contaminación de la AI es con la comunidad\", dice FlamingMojo."
               }
             ]
           }
@@ -923,145 +933,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI-coded 결과물\n의뢰인 시간만 날렸다",
-          "body": "게임 변호사는 외주자의 all-AI 결과물이 기밀까지 넣고도 망가졌다고 했다.",
-          "mini_headline": "AI 코드가 날린 시간",
+          "headline": "오류투성이 AI 게임 위키\n진짜 팬들을 밀어낸다",
+          "body": "오류투성이 LLM-powered 게임 위키가 팬을 밀어내고 퍼블리셔를 괴롭힌다.",
+          "mini_headline": "AI 게임 위키, 팬을 밀어내다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Led8MKdaEhJzPHbQzNsQna-1920-80.jpg",
-                "cap": "Phoenix Wright: Ace Attorney - Dual Destinies"
+                "src": "https://assetsio.gnwcdn.com/gamedb-wiki-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "이미지 출처: Eurogamer / GameDB"
               },
               {
                 "t": "p",
-                "x": "비디오 게임 계약 전문 변호사가 최근 한 계약이 무산됐다고 밝혔다. 의뢰인이 “자기가 뭘 만들었는지도 모르는” 사람이 바이브 코딩(vibe-coded)으로 만든 결과물을 잔뜩 받은 뒤였다. Voyer Law의 IP 변호사이자 비디오 게임 부문 책임자인 Haley MacLean은 익명 처리한 이 사례를 Bluesky에 공유했다."
-              },
-              {
-                "t": "p",
-                "x": "“프로그래밍 외주자가 의뢰인에게 마일스톤을 납품했다. 망가져 있고 문제투성이라 인수 전에 수정을 요청했다. 외주자는 못 하겠다며 전액 지급을 요구했다. 알고 보니 전부 AI였고 그는 자기가 뭘 만들었는지도 몰랐다. 그래서 그는 돈을 받지 못하고, 의뢰인의 시간만 낭비했다.”"
-              },
-              {
-                "t": "p",
-                "x": "“게다가 마일스톤을 ‘만들려고’ 기밀 게임 정보를 전부 AI 도구에 집어넣었으니 [비밀유지] 위반이기도 했다”고 그는 덧붙였다. “식당에서 주문할 줄 안다고 셰프가 되는 건 아니다.”"
+                "x": "Nighthawks 정보를 찾던 Eurogamer 기자는 \"Nighthawks Wiki\"에 들어갔는데, 이곳은 위키라고 할 수도 없었고 존재하지 않는 동료와 스킬을 나열하는 등 잘못된 정보로 가득했다. 도메인을 추적하자 \"AI Website builder\"도 제공하는 웹사이트 제작 서비스 Spaceship이 나왔다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/K8yJ4PtPLeS2UpgkBEhUJC.jpg",
-                "cap": "Monster Hunter World의 고양이 셰프"
+                "src": "https://assetsio.gnwcdn.com/nighthawks-wiki-1.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+                "cap": "문제의 비공식 Nighthawks 위키. | 이미지 출처: Eurogamer / Nighthawks.wiki"
               },
               {
                 "t": "p",
-                "x": "MacLean은 계약서에 반AI(anti-AI) 조항을 넣는 의뢰인이 점점 늘고 있다며 “이제는 그냥 표준 문구”라고 말했다."
+                "x": "Hooded Horse CEO Tim Bender는 퍼블리셔로서 AI-generated 사이트를 상대로 \"두더지 잡기(whack-a-mole)\"를 해야 했다고 말한다. 그는 \"[생성형 AI] 덕분에 사실상 상업적인 업체들이 줄줄이 대량 생산에 나서 게임 검색 엔진 결과를 뒤덮고 트래픽을 빨아들이려 한다\"고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "독립 위키도 AI 스크래퍼에 시달린다. Dune: Awakening Community Wiki는 30일 동안 AI 크롤러로부터 7m 건의 요청을 받았고, 그중 5m 건이 Meta에서 왔다. Independent Game Wiki Network의 FlamingMojo는 서버 비용이 세 배에서 열 배까지 늘었다고 말한다."
+              },
+              {
+                "t": "p",
+                "x": "\"AI 오염에서 살아남는 길은 커뮤니티다.\" FlamingMojo의 말이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "弁護士「AI-coded\n仕事で時間を浪費」",
-          "body": "ゲーム弁護士によると、外注先のall-AI成果物は機密を入れたのに壊れていた。",
-          "mini_headline": "AIコードが時間を奪う",
+          "headline": "誤りだらけのAIゲームウィキ\n本物のファンを押しのける",
+          "body": "誤りだらけのLLM-poweredゲームウィキが広がり、ファンを脇へ追いやっている。",
+          "mini_headline": "AIゲームウィキがファンを押しのける",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Led8MKdaEhJzPHbQzNsQna-1920-80.jpg",
-                "cap": "Phoenix Wright: Ace Attorney - Dual Destinies"
+                "src": "https://assetsio.gnwcdn.com/gamedb-wiki-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "画像クレジット: Eurogamer / GameDB"
               },
               {
                 "t": "p",
-                "x": "ビデオゲームの契約を専門とする弁護士によると、最近ある契約が破談になった。クライアントが「自分が何を作ったのかも分かっていない」人物によるバイブコーディング（vibe-coded）の成果物を大量に受け取ったためだ。Voyer LawのIP弁護士でビデオゲーム部門を率いるHaley MacLeanが、匿名化したこの事例をBlueskyで共有した。"
-              },
-              {
-                "t": "p",
-                "x": "「プログラミングの外注先がクライアントにマイルストーンを納品した。壊れていて問題だらけなので、検収前に修正を求めた。外注先はできないと言い、全額の支払いを求めた。調べると全部AIで、本人は自分が何を作ったのかさえ分かっていなかった。だから報酬は支払われず、クライアントの時間を無駄にしただけだった」"
-              },
-              {
-                "t": "p",
-                "x": "「しかも、マイルストーンを『作る』ためにゲームの機密情報をすべてAIツールに入れたので、［守秘義務］違反でもあった」と彼女は付け加える。「レストランで注文できるからといって、シェフになれるわけではない」"
+                "x": "Nighthawksの情報を探していたEurogamerの記者がたどり着いた「Nighthawks Wiki」は、まったくウィキではなく、存在しない仲間やスキルを並べるなど誤情報だらけだった。そのドメインをたどると、「AI Website builder」も提供するウェブサイト作成サービスSpaceshipに行き着いた。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/K8yJ4PtPLeS2UpgkBEhUJC.jpg",
-                "cap": "Monster Hunter Worldの猫のシェフ"
+                "src": "https://assetsio.gnwcdn.com/nighthawks-wiki-1.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+                "cap": "問題の非公式Nighthawksウィキ。 | 画像クレジット: Eurogamer / Nighthawks.wiki"
               },
               {
                 "t": "p",
-                "x": "MacLeanによると、契約に反AI（anti-AI）条項を盛り込むクライアントが増え続けている。「今ではただの定型文だ」"
+                "x": "Hooded Horse CEOのTim Benderは、パブリッシャーとしてAI-generatedサイトを相手に「もぐら叩き(whack-a-mole)」を強いられてきたと語る。「[生成AI]によって、基本的に商業目的の事業者が次々と大量生産を行い、ゲームの検索エンジン結果を埋め尽くしてトラフィックを吸い上げようとしている」と彼は言う。"
+              },
+              {
+                "t": "p",
+                "x": "独立系ウィキもAIスクレイパーに直面している。Dune: Awakening Community Wikiは30日間でAIクローラーから7m 件のリクエストを受け、そのうち5m 件がMetaからだった。Independent Game Wiki NetworkのFlamingMojoによると、サーバー費用は三倍から十倍に増えたという。"
+              },
+              {
+                "t": "p",
+                "x": "「AI汚染を生き延びる道はコミュニティだ」とFlamingMojoは言う。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "游戏律师：AI-coded\n成果浪费客户时间",
-          "body": "游戏律师称，承包商交付的all-AI成果喂入了机密信息，却漏洞百出，他本人也不懂。",
-          "mini_headline": "AI代码白费时间",
+          "headline": "错误百出的AI游戏维基\n正把真正的粉丝挤到一边",
+          "body": "错误百出的LLM-powered游戏维基泛滥，排挤粉丝，让发行商疲于打地鼠。",
+          "mini_headline": "AI游戏维基挤走粉丝",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Led8MKdaEhJzPHbQzNsQna-1920-80.jpg",
-                "cap": "Phoenix Wright: Ace Attorney - Dual Destinies"
+                "src": "https://assetsio.gnwcdn.com/gamedb-wiki-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "图片来源：Eurogamer / GameDB"
               },
               {
                 "t": "p",
-                "x": "一位专攻电子游戏合同的律师表示，最近一份协议告吹，原因是客户收到了一大堆由“不知道自己做了什么”的人用氛围编程（vibe-coded）做出的东西。Voyer Law的IP律师、电子游戏业务负责人Haley MacLean在Bluesky上分享了这起匿名处理的事件。"
-              },
-              {
-                "t": "p",
-                "x": "“编程承包商给我的客户交付了一个里程碑。它坏掉了，问题一大堆，所以我们要求在验收前修改。承包商说他改不了，还要求全额付款。结果发现全是AI做的，他连自己做了什么都不知道。所以他拿不到钱，还浪费了我客户的时间。”"
-              },
-              {
-                "t": "p",
-                "x": "“而且这还违反了[保密义务]，因为他为了‘做出’这个里程碑，把所有机密游戏信息都塞进了AI工具，”她补充道，“会在餐厅点菜，不代表你就是厨师。”"
+                "x": "Eurogamer的作者在搜索Nighthawks相关信息时，进入了一个“Nighthawks Wiki”，它根本不是维基，而且充斥着虚假信息，比如列出并不存在的同伴和技能。其域名追溯到一家名为Spaceship的建站服务，该服务还提供“AI Website builder”。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/K8yJ4PtPLeS2UpgkBEhUJC.jpg",
-                "cap": "Monster Hunter World中的猫厨师"
+                "src": "https://assetsio.gnwcdn.com/nighthawks-wiki-1.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+                "cap": "涉事的非官方Nighthawks维基。| 图片来源：Eurogamer / Nighthawks.wiki"
               },
               {
                 "t": "p",
-                "x": "MacLean说，她看到越来越多的客户在合同中加入反AI（anti-AI）条款：“现在这已经是标准条款了。”"
+                "x": "Hooded Horse CEO Tim Bender表示，这家发行商不得不与AI-generated网站玩“打地鼠（whack-a-mole）”。他说：“[生成式AI]让一批基本属于商业性质的企业得以批量生产内容，试图淹没游戏的搜索引擎结果，以吸走其流量。”"
+              },
+              {
+                "t": "p",
+                "x": "独立维基也面临AI爬虫：Dune: Awakening Community Wiki在30天内收到来自AI爬虫的7m 次请求，其中5m 次来自Meta。Independent Game Wiki Network的FlamingMojo表示，服务器成本增加了三到十倍。"
+              },
+              {
+                "t": "p",
+                "x": "“我们靠社区在AI污染中生存下来。”FlamingMojo说。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Abogada: el trabajo AI-coded\nhizo perder tiempo a su cliente",
-          "body": "Según una abogada de juegos, el hito all-AI de un proveedor, con datos confidenciales, falló y él no sabía qué hizo.",
-          "mini_headline": "El código AI hizo perder tiempo",
+          "headline": "Wikis de AI llenas de errores\ndesplazan a los verdaderos fans",
+          "body": "Las wikis de juegos LLM-powered y llenas de errores se imponen, relegan a los fans y desbordan a las editoras.",
+          "mini_headline": "Las wikis de AI desplazan a los fans",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Led8MKdaEhJzPHbQzNsQna-1920-80.jpg",
-                "cap": "Phoenix Wright: Ace Attorney - Dual Destinies"
+                "src": "https://assetsio.gnwcdn.com/gamedb-wiki-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Crédito de la imagen: Eurogamer / GameDB"
               },
               {
                 "t": "p",
-                "x": "Una abogada especializada en contratos de videojuegos cuenta que un acuerdo reciente fracasó después de que su cliente recibiera un montón de material vibe-coded hecho por alguien que no «sabía lo que había hecho». Haley MacLean, abogada de IP y responsable del área de videojuegos de Voyer Law, compartió el caso anonimizado en Bluesky."
-              },
-              {
-                "t": "p",
-                "x": "«Un contratista de programación entrega a mi cliente un hito. Está roto y lleno de problemas, así que pedimos revisiones antes de aceptarlo. El contratista dice que no puede y quiere el pago completo. Resulta que todo es AI y ni siquiera sabe lo que hizo. Así que no cobrará y le hizo perder el tiempo a mi cliente»."
-              },
-              {
-                "t": "p",
-                "x": "«Además fue un incumplimiento de [confidencialidad], porque metió toda la información confidencial del juego en la herramienta de AI para ‘hacer’ el hito», añade. «Que sepas pedir en un restaurante no te convierte en chef»."
+                "x": "Al buscar información sobre Nighthawks, el redactor de Eurogamer llegó a una \"Nighthawks Wiki\" que no era una wiki en absoluto y estaba llena de información falsa, como compañeros y habilidades que no existen. Su dominio remitía a un servicio de creación de sitios web llamado Spaceship, que también ofrece un \"AI Website builder\"."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/K8yJ4PtPLeS2UpgkBEhUJC.jpg",
-                "cap": "El gato chef de Monster Hunter World"
+                "src": "https://assetsio.gnwcdn.com/nighthawks-wiki-1.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+                "cap": "La wiki no oficial de Nighthawks en cuestión. | Crédito de la imagen: Eurogamer / Nighthawks.wiki"
               },
               {
                 "t": "p",
-                "x": "MacLean dice que ve cada vez más clientes que incluyen cláusulas anti-AI en sus contratos: «Ahora ya es texto estándar»."
+                "x": "Tim Bender, CEO de Hooded Horse, dice que la editora ha tenido que \"jugar al whack-a-mole\" con sitios AI-generated. \"[La AI generativa] permite que una serie de empresas básicamente comerciales produzcan en masa e intenten inundar los resultados de los buscadores sobre los juegos para absorber su tráfico\", afirma."
+              },
+              {
+                "t": "p",
+                "x": "Las wikis independientes también se enfrentan a los scrapers de AI: la Dune: Awakening Community Wiki recibió 7m de solicitudes en 30 días de rastreadores de AI, 5m de ellas de Meta. FlamingMojo, de la Independent Game Wiki Network, afirma que los costes de servidor se han multiplicado entre tres y diez veces."
+              },
+              {
+                "t": "p",
+                "x": "\"La forma en que sobrevivimos a la contaminación de la AI es con la comunidad\", dice FlamingMojo."
               }
             ]
           }
@@ -1069,15 +1079,15 @@
       }
     },
     {
-      "id": "games-kitase-zero-to-one",
+      "id": "molyneux",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Square Enix 거장\nAI와 0에서 1까지",
-      "body": "Kitase 등은 AI-era 개발자에게도 0에서 1을 만들 힘이 필요하다고 본다.",
-      "mini_headline": "Kitase가 본 AI: 0에서 1",
+      "headline": "Molyneux, 이제\nAI 없는 코딩 거의 불가",
+      "body": "Peter Molyneux는 이제 AI 없이 코딩하기란 거의 불가능하다고 말했다.",
+      "mini_headline": "Molyneux, AI 없는 코딩 거의 불가",
       "tool": "Games",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/final-fantasy-and-chrono-trigger-veterans-believe-modern-developers-must-possess-skill-to-take-an-idea-from-0-to-1-in-the-age-of-ai-2000749690",
+      "source": "PC Gamer",
+      "url": "https://www.pcgamer.com/games/strategy/peter-molyneux-speaks-candidly-about-ai-we-as-the-industry-are-pretending-were-not-using-ai-but-the-reality-is-its-almost-impossible-to-code-now-without-using-ai/",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
@@ -1085,179 +1095,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://kotaku.com/app/uploads/2026/10/Secret-of-Mana-Tree.jpg",
-            "cap": "Secret Of Mana Tree © Square Enix"
+            "src": "https://cdn.mos.cms.futurecdn.net/cCbNLBoom6H44tX6QPEMwa-1920-80.jpg",
+            "cap": "(이미지 출처: Getty Images)"
           },
           {
             "t": "p",
-            "x": "Mana 시리즈 35주년 기념 Famitsu 인터뷰에 Square Enix 베테랑 Hiromichi Tanaka, Kouichi Ishii, Yoshinori Kitase가 나왔다. 세 사람은 SNES 시절을 돌아보며 갈수록 AI-driven(AI 주도)으로 바뀌는 지금의 게임 개발과 견줬다."
+            "x": "PC Gamer는 Guildford에서 Populous, Theme Park, Dungeon Keeper, Black & White, Fable을 만든 개발자 Peter Molyneux를 만나 비디오 게임 업계의 AI 활용을 물었다."
           },
           {
             "t": "p",
-            "x": "Unity나 Unreal 같은 엔진처럼 AI도 작은 팀에 힘을 실어 줄 수 있다는 게 이들의 시각이다. Kitase는 “지금까지 여러 기술이 게임 개발을 뒷받침해 왔듯, AI도 게임 개발에서 점점 더 중요한 역할을 맡게 될 것 같다”고 말했다. “하지만 무언가를 만들어 0에서 1로 가져가는 일에는 반드시 사람이 필요하다. 그건 절대 변하지 않으니, 다음 세대 개발자는 0에서 무언가를 만들어 내는 능력을 갖춰야 한다.”"
+            "x": "그는 ChatGPT와 Gemini 때문에 사람들 머릿속에 \"AI는 곧 AI slop\"이라는 인식이 박혔다며, Steam의 AI 항목에 체크하면 \"즉시 [게이머의] 12%가 떠난다\"고 했다. \"우리 업계는 AI를 쓰지 않는 척하지만, 현실은 이제 AI 없이 코딩하는 건 거의 불가능하다는 것이다. 거의 불가능하다.\""
           },
           {
             "t": "p",
-            "x": "Ishii는 프로토타이핑이 빨라진 덕에 테스트하고 다듬을 시간이 늘었다며 반겼다. “다만 작업 과정의 시작과 끝은 여전히 사람이 정해야 한다. AI에만 기대면 결과물은 매끈해 보여도 차갑고 꼭 필요한 사람의 손길이 빠진 느낌을 줄 수 있다.”"
+            "x": "그가 보기에 AI는 스튜디오에 \"창의성 측면에서 가장 큰 진전\"이다. 콘셉트 작업은 오 분이면 끝나고, 땅에서 솟아오르는 완전히 리깅된 캐릭터의 프로토타입도 \"몇 달이 아니라 하루면 다 된다\"고 한다."
           },
           {
             "t": "p",
-            "x": "Kotaku에 따르면 최근 조사에서 일본 개발자 85퍼센트 이상이 이 기술을 적극 쓰거나 도입을 검토 중이었다."
+            "x": "\"AI가 게임의 최종 품질에 맞는 에셋 제작을 믿고 맡길 만큼 강력하다고는 아직 생각하지 않는다. 하지만 Rob, 그렇게 될 것이다.\" 그는 일 년 안에 AI가 Unity와 Unreal 같은 미들웨어에 깊이 박혀 떼어내기 매우 어려워지리라 내다본다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Square Enix veterans on\nAI and going from 0 to 1",
-          "body": "Yoshinori Kitase and Square Enix peers say AI-era developers still need the skill to take an idea from 0 to 1.",
-          "mini_headline": "Kitase on AI: 0 to 1",
+          "headline": "Molyneux: coding without AI\nis now almost impossible",
+          "body": "Peter Molyneux says the industry pretends it isn't using AI, but that coding without it is now almost impossible.",
+          "mini_headline": "Molyneux: no coding\nwithout AI now",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/Secret-of-Mana-Tree.jpg",
-                "cap": "Secret Of Mana Tree © Square Enix"
+                "src": "https://cdn.mos.cms.futurecdn.net/cCbNLBoom6H44tX6QPEMwa-1920-80.jpg",
+                "cap": "(Image credit: Getty Images)"
               },
               {
                 "t": "p",
-                "x": "In a Famitsu interview marking the 35th anniversary of the Mana series, Square Enix veterans Hiromichi Tanaka, Kouichi Ishii, and Yoshinori Kitase looked back on the SNES era and compared it with today’s increasingly AI-driven game development."
+                "x": "PC Gamer interviewed Peter Molyneux, the developer behind Populous, Theme Park, Dungeon Keeper, Black & White and Fable, in Guildford and asked about AI use in the video game industry."
               },
               {
                 "t": "p",
-                "x": "As they see it, AI could empower smaller teams, much like engines such as Unity and Unreal. “Just as various technologies have supported game development previously, I feel we may see AI play an increasingly important role in game development,” Kitase noted. “However, when it comes to creating something and taking it from 0 to 1, you absolutely need people. That will never change, so the next generation of developers must have the ability to make something from 0.”"
+                "x": "He blamed ChatGPT and Gemini for locking \"AI equals AI slop\" into people's minds, and said ticking Steam's AI box means \"instantly 12% [of gamers are] gone.\" \"We as the industry are pretending we're not using AI, but the reality is, it's almost impossible to code now without using AI. Almost impossible.\""
               },
               {
                 "t": "p",
-                "x": "Ishii is excited that faster prototyping leaves more time to test and refine, “But, humans will need to still define the beginning and end of the working process. If we rely solely on AI, the result may appear polished, but it may feel cold and lack the needed human touch.”"
+                "x": "He called AI \"the biggest step forward in creativity\" for studios: concepting work can be done in five minutes, and prototyping a fully rigged character rising from the ground is \"all done in a day, not months.\""
               },
               {
                 "t": "p",
-                "x": "Kotaku notes recent surveys found over 85 percent of developers in Japan are actively using or considering using the technology."
+                "x": "\"I don't think AI is powerful enough yet to trust it to produce the assets for the final quality of the game. But Rob, it will be.\" Within a year, he predicts AI will be so bound to middleware like Unity and Unreal that it will be very hard to extract."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Square Enix 거장\nAI와 0에서 1까지",
-          "body": "Kitase 등은 AI-era 개발자에게도 0에서 1을 만들 힘이 필요하다고 본다.",
-          "mini_headline": "Kitase가 본 AI: 0에서 1",
+          "headline": "Molyneux, 이제\nAI 없는 코딩 거의 불가",
+          "body": "Peter Molyneux는 이제 AI 없이 코딩하기란 거의 불가능하다고 말했다.",
+          "mini_headline": "Molyneux, AI 없는 코딩 거의 불가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/Secret-of-Mana-Tree.jpg",
-                "cap": "Secret Of Mana Tree © Square Enix"
+                "src": "https://cdn.mos.cms.futurecdn.net/cCbNLBoom6H44tX6QPEMwa-1920-80.jpg",
+                "cap": "(이미지 출처: Getty Images)"
               },
               {
                 "t": "p",
-                "x": "Mana 시리즈 35주년 기념 Famitsu 인터뷰에 Square Enix 베테랑 Hiromichi Tanaka, Kouichi Ishii, Yoshinori Kitase가 나왔다. 세 사람은 SNES 시절을 돌아보며 갈수록 AI-driven(AI 주도)으로 바뀌는 지금의 게임 개발과 견줬다."
+                "x": "PC Gamer는 Guildford에서 Populous, Theme Park, Dungeon Keeper, Black & White, Fable을 만든 개발자 Peter Molyneux를 만나 비디오 게임 업계의 AI 활용을 물었다."
               },
               {
                 "t": "p",
-                "x": "Unity나 Unreal 같은 엔진처럼 AI도 작은 팀에 힘을 실어 줄 수 있다는 게 이들의 시각이다. Kitase는 “지금까지 여러 기술이 게임 개발을 뒷받침해 왔듯, AI도 게임 개발에서 점점 더 중요한 역할을 맡게 될 것 같다”고 말했다. “하지만 무언가를 만들어 0에서 1로 가져가는 일에는 반드시 사람이 필요하다. 그건 절대 변하지 않으니, 다음 세대 개발자는 0에서 무언가를 만들어 내는 능력을 갖춰야 한다.”"
+                "x": "그는 ChatGPT와 Gemini 때문에 사람들 머릿속에 \"AI는 곧 AI slop\"이라는 인식이 박혔다며, Steam의 AI 항목에 체크하면 \"즉시 [게이머의] 12%가 떠난다\"고 했다. \"우리 업계는 AI를 쓰지 않는 척하지만, 현실은 이제 AI 없이 코딩하는 건 거의 불가능하다는 것이다. 거의 불가능하다.\""
               },
               {
                 "t": "p",
-                "x": "Ishii는 프로토타이핑이 빨라진 덕에 테스트하고 다듬을 시간이 늘었다며 반겼다. “다만 작업 과정의 시작과 끝은 여전히 사람이 정해야 한다. AI에만 기대면 결과물은 매끈해 보여도 차갑고 꼭 필요한 사람의 손길이 빠진 느낌을 줄 수 있다.”"
+                "x": "그가 보기에 AI는 스튜디오에 \"창의성 측면에서 가장 큰 진전\"이다. 콘셉트 작업은 오 분이면 끝나고, 땅에서 솟아오르는 완전히 리깅된 캐릭터의 프로토타입도 \"몇 달이 아니라 하루면 다 된다\"고 한다."
               },
               {
                 "t": "p",
-                "x": "Kotaku에 따르면 최근 조사에서 일본 개발자 85퍼센트 이상이 이 기술을 적극 쓰거나 도입을 검토 중이었다."
+                "x": "\"AI가 게임의 최종 품질에 맞는 에셋 제작을 믿고 맡길 만큼 강력하다고는 아직 생각하지 않는다. 하지만 Rob, 그렇게 될 것이다.\" 그는 일 년 안에 AI가 Unity와 Unreal 같은 미들웨어에 깊이 박혀 떼어내기 매우 어려워지리라 내다본다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Square Enix重鎮\nAIと0から1の力",
-          "body": "Kitase氏らは、AI-era（AI時代）の開発者にも0から1を生む力が必要だと語る。",
-          "mini_headline": "KitaseとAI：0から1へ",
+          "headline": "Molyneux、AIなしの\nコーディングはほぼ無理",
+          "body": "Molyneuxは、業界はAI不使用を装うが、AIなしのコーディングはほぼ不可能だと語る。",
+          "mini_headline": "Molyneux、AIなしのコーディングはほぼ無理",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/Secret-of-Mana-Tree.jpg",
-                "cap": "Secret Of Mana Tree © Square Enix"
+                "src": "https://cdn.mos.cms.futurecdn.net/cCbNLBoom6H44tX6QPEMwa-1920-80.jpg",
+                "cap": "(画像クレジット: Getty Images)"
               },
               {
                 "t": "p",
-                "x": "Manaシリーズ35周年を記念したFamitsuのインタビューで、Square EnixのベテランであるHiromichi Tanaka、Kouichi Ishii、Yoshinori Kitaseの3氏はSNES時代を振り返り、AI-driven（AI主導）の色を強める今日のゲーム開発と比べた。"
+                "x": "PC Gamerは、Populous、Theme Park、Dungeon Keeper、Black & White、Fableを手がけた開発者Peter MolyneuxにGuildfordでインタビューし、ビデオゲーム業界でのAI利用について尋ねた。"
               },
               {
                 "t": "p",
-                "x": "彼らの見方では、AIはUnityやUnrealといったエンジンと同じように小規模なチームの力になりうる。Kitase氏は「これまでさまざまな技術がゲーム開発を支えてきたように、AIもゲーム開発でますます重要な役割を担うようになると感じる」と述べた。「ただし、何かを生み出し、0から1にするには、絶対に人が必要だ。それは決して変わらないので、次世代の開発者は0から何かを作る力を持たなければならない」"
+                "x": "彼はChatGPTとGeminiのせいで「AIイコールAI slop」という図式が人々の頭に刷り込まれたと非難し、SteamのAI項目にチェックを入れれば「即座に[ゲーマーの]12%が去る」と述べた。「私たち業界はAIを使っていないふりをしているが、現実には今やAIを使わずにコーディングするのはほぼ不可能だ。ほぼ不可能なんだ」"
               },
               {
                 "t": "p",
-                "x": "Ishii氏は、プロトタイピングが速くなり、テストと磨き込みに充てる時間が増えることに期待を寄せる。「だが、作業工程の始まりと終わりは、やはり人が定める必要がある。AIだけに頼れば、結果は洗練されて見えても、冷たく、必要な人の温かみに欠けたものに感じられるかもしれない」"
+                "x": "彼はAIをスタジオにとって「創造性における最大の前進」と呼んだ。コンセプト作業は五分で済み、地面から立ち上がるフルリグのキャラクターのプロトタイプも「数カ月ではなく一日ですべて終わる」という。"
               },
               {
                 "t": "p",
-                "x": "Kotakuによれば、最近の調査では日本の開発者の85パーセント超がこの技術を積極的に使っているか、使用を検討しているという。"
+                "x": "「AIは、ゲームの最終品質に見合うアセットの制作を任せられるほどにはまだ強力ではないと思う。でもRob、いずれそうなる」。一年以内に、AIはUnityやUnrealといったミドルウェアと深く結びつき、切り離すのが非常に難しくなると彼は予測する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Square Enix元老谈\nAI与从0到1",
-          "body": "Kitase等人认为，AI-era开发者仍需具备从0到1的创造能力。",
-          "mini_headline": "Kitase谈AI：从0到1",
+          "headline": "Molyneux：没有AI\n如今几乎无法写代码",
+          "body": "Peter Molyneux称，业界假装没在用AI，但如今不用AI几乎无法写代码。",
+          "mini_headline": "Molyneux：没有AI几乎写不了代码",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/Secret-of-Mana-Tree.jpg",
-                "cap": "Secret Of Mana Tree © Square Enix"
+                "src": "https://cdn.mos.cms.futurecdn.net/cCbNLBoom6H44tX6QPEMwa-1920-80.jpg",
+                "cap": "(图片来源：Getty Images)"
               },
               {
                 "t": "p",
-                "x": "在纪念Mana系列35周年的Famitsu访谈中，Square Enix资深开发者Hiromichi Tanaka、Kouichi Ishii与Yoshinori Kitase回顾了SNES时代，并将其与如今日益AI-driven（AI驱动）的游戏开发相比较。"
+                "x": "PC Gamer在Guildford采访了Populous、Theme Park、Dungeon Keeper、Black & White和Fable的开发者Peter Molyneux，并询问了他对电子游戏行业使用AI的看法。"
               },
               {
                 "t": "p",
-                "x": "在他们看来，AI可以像Unity和Unreal等引擎一样，为小型团队赋能。Kitase表示：“正如过去各种技术一直支撑着游戏开发，我觉得AI可能会在游戏开发中扮演越来越重要的角色。”“但是，要创造出某样东西、把它从0变成1，就绝对需要人。这一点永远不会改变，所以下一代开发者必须具备从0开始创造的能力。”"
+                "x": "他指责ChatGPT和Gemini让“AI等于AI slop”的观念深入人心，并表示在Steam上勾选AI选项意味着“立刻就有12%[的玩家]流失”。“我们整个行业都在假装没有使用AI，但现实是，如今不用AI几乎不可能写代码。几乎不可能。”"
               },
               {
                 "t": "p",
-                "x": "Ishii乐见原型制作提速，留出更多时间测试和打磨，“但是，工作流程的起点和终点仍需由人来界定。如果完全依赖AI，结果或许看起来很精致，却可能显得冰冷，缺少应有的人情味。”"
+                "x": "他称AI是工作室“在创造力上最大的一步飞跃”：概念设计五分钟就能完成，而为一个从地面升起、完整绑定骨骼的角色制作原型，“一天就全部搞定，而不是几个月”。"
               },
               {
                 "t": "p",
-                "x": "Kotaku指出，近期调查发现，日本有超过百分之85的开发者正在积极使用或考虑使用这项技术。"
+                "x": "“我认为AI还没有强大到可以放心让它制作达到游戏最终品质的素材。但是Rob，它会的。”他预测，一年之内，AI将与Unity和Unreal等中间件深度绑定，到时将很难剥离。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Veteranos de Square Enix\nsobre la AI y el paso de 0 a 1",
-          "body": "Kitase y colegas de Square Enix dicen que los desarrolladores de la AI-era aún necesitan llevar una idea de 0 a 1.",
-          "mini_headline": "Kitase sobre la AI: de 0 a 1",
+          "headline": "Molyneux: programar sin AI\nya es casi imposible",
+          "body": "Peter Molyneux dice que la industria finge no usar AI, pero que programar sin ella ya es casi imposible.",
+          "mini_headline": "Molyneux: ya casi no se programa sin AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/Secret-of-Mana-Tree.jpg",
-                "cap": "Secret Of Mana Tree © Square Enix"
+                "src": "https://cdn.mos.cms.futurecdn.net/cCbNLBoom6H44tX6QPEMwa-1920-80.jpg",
+                "cap": "(Crédito de la imagen: Getty Images)"
               },
               {
                 "t": "p",
-                "x": "En una entrevista con Famitsu por el 35.º aniversario de la serie Mana, los veteranos de Square Enix Hiromichi Tanaka, Kouichi Ishii y Yoshinori Kitase repasaron la era de SNES y la compararon con el desarrollo de juegos actual, cada vez más AI-driven (impulsado por la AI)."
+                "x": "PC Gamer entrevistó en Guildford a Peter Molyneux, el desarrollador detrás de Populous, Theme Park, Dungeon Keeper, Black & White y Fable, y le preguntó por el uso de la AI en la industria del videojuego."
               },
               {
                 "t": "p",
-                "x": "A su juicio, la AI podría dar más capacidad a los equipos pequeños, como ya hicieron motores como Unity y Unreal. “Así como diversas tecnologías han respaldado antes el desarrollo de juegos, creo que podríamos ver a la AI desempeñar un papel cada vez más importante en el desarrollo de juegos”, señaló Kitase. “Sin embargo, cuando se trata de crear algo y llevarlo de 0 a 1, se necesitan personas sin ninguna duda. Eso nunca cambiará, así que la próxima generación de desarrolladores debe tener la capacidad de crear algo desde 0”."
+                "x": "Culpó a ChatGPT y Gemini de haber grabado en la mente de la gente la idea de que \"AI equivale a AI slop\", y dijo que marcar la casilla de AI de Steam significa que \"al instante se va el 12% [de los jugadores]\". \"Como industria fingimos que no usamos AI, pero la realidad es que ahora es casi imposible programar sin usar AI. Casi imposible\"."
               },
               {
                 "t": "p",
-                "x": "A Ishii le entusiasma que un prototipado más rápido deje más tiempo para probar y pulir: “Pero los humanos seguirán teniendo que definir el inicio y el final del proceso de trabajo. Si dependemos solo de la AI, el resultado puede parecer pulido, pero puede sentirse frío y carecer del toque humano necesario”."
+                "x": "Calificó la AI como \"el mayor paso adelante en creatividad\" para los estudios: el trabajo de concepto puede hacerse en cinco minutos, y el prototipo de un personaje totalmente riggeado que se levanta del suelo está \"listo en un día, no en meses\"."
               },
               {
                 "t": "p",
-                "x": "Kotaku señala que encuestas recientes hallaron que más del 85 por ciento de los desarrolladores en Japón usan activamente esta tecnología o consideran usarla."
+                "x": "\"No creo que la AI sea todavía lo bastante potente como para confiarle la producción de los recursos con la calidad final del juego. Pero, Rob, lo será\". Predice que en un año la AI estará tan ligada a middleware como Unity y Unreal que será muy difícil extraerla."
               }
             ]
           }
@@ -1265,125 +1275,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Square Enix 거장\nAI와 0에서 1까지",
-          "body": "Kitase 등은 AI-era 개발자도 0에서 1을 만드는 힘이 필요하다고 본다.",
-          "mini_headline": "Kitase가 본 AI: 0에서 1",
+          "headline": "Molyneux, 이제\nAI 없는 코딩 거의 불가",
+          "body": "Peter Molyneux는 AI 없는 코딩이 이제 거의 불가능하다고 말했다.",
+          "mini_headline": "Molyneux, AI 없는 코딩 거의 불가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/Secret-of-Mana-Tree.jpg",
-                "cap": "Secret Of Mana Tree © Square Enix"
+                "src": "https://cdn.mos.cms.futurecdn.net/cCbNLBoom6H44tX6QPEMwa-1920-80.jpg",
+                "cap": "(이미지 출처: Getty Images)"
               },
               {
                 "t": "p",
-                "x": "Mana 시리즈 35주년을 맞은 Famitsu 인터뷰에서 Square Enix의 베테랑 Hiromichi Tanaka, Kouichi Ishii, Yoshinori Kitase는 SNES 시절을 돌아보며 점점 AI-driven(AI 주도) 방식으로 바뀌는 오늘날의 게임 개발과 비교했다."
+                "x": "PC Gamer는 Populous, Theme Park, Dungeon Keeper, Black & White, Fable을 만든 개발자 Peter Molyneux를 Guildford에서 인터뷰하고 비디오 게임 업계의 AI 활용에 대해 물었다."
               },
               {
                 "t": "p",
-                "x": "이들은 AI가 Unity나 Unreal 같은 엔진처럼 작은 팀에 힘을 실어 줄 수 있다고 본다. Kitase는 “지금까지 여러 기술이 게임 개발을 뒷받침해 왔듯, AI도 게임 개발에서 점점 더 중요한 역할을 맡게 될 것 같다”고 말했다. “하지만 무언가를 만들어 0에서 1로 가져가는 일에는 반드시 사람이 필요하다. 그건 절대 변하지 않으니, 다음 세대 개발자는 0에서 무언가를 만들어 내는 능력을 갖춰야 한다.”"
+                "x": "그는 ChatGPT와 Gemini 탓에 \"AI는 곧 AI slop\"이라는 인식이 사람들 머릿속에 박혔다고 지적하며, Steam의 AI 항목에 체크하면 \"즉시 [게이머의] 12%가 떠난다\"고 말했다. \"우리 업계는 AI를 쓰지 않는 척하지만, 현실은 이제 AI 없이 코딩하는 건 거의 불가능하다는 것이다. 거의 불가능하다.\""
               },
               {
                 "t": "p",
-                "x": "Ishii는 프로토타이핑이 빨라져 테스트하고 다듬을 시간이 늘어난 점을 반긴다. “다만 작업 과정의 시작과 끝은 여전히 사람이 정해야 한다. AI에만 기대면 결과물은 매끈해 보여도 차갑고 꼭 필요한 사람의 손길이 빠진 느낌을 줄 수 있다.”"
+                "x": "그는 AI를 스튜디오에 \"창의성 측면에서 가장 큰 진전\"이라고 불렀다. 콘셉트 작업은 오 분이면 끝나고, 땅에서 솟아오르는 완전히 리깅된 캐릭터의 프로토타입도 \"몇 달이 아니라 하루면 다 된다\"는 것이다."
               },
               {
                 "t": "p",
-                "x": "Kotaku는 최근 조사에서 일본 개발자의 85퍼센트 이상이 이 기술을 적극 쓰고 있거나 도입을 검토 중인 것으로 나타났다고 전했다."
+                "x": "\"AI가 게임의 최종 품질에 맞는 에셋 제작을 믿고 맡길 만큼 강력하다고는 아직 생각하지 않는다. 하지만 Rob, 그렇게 될 것이다.\" 그는 일 년 안에 AI가 Unity와 Unreal 같은 미들웨어에 깊이 묶여 떼어내기가 매우 어려워질 것이라고 예측한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Square Enix重鎮\nAIと0から1の力",
-          "body": "Kitase氏らは、AI-era（AI時代）の開発者にも0から1を生む力が必要だと語る。",
-          "mini_headline": "KitaseとAI：0から1へ",
+          "headline": "Molyneux、AIなしの\nコーディングはほぼ無理",
+          "body": "Molyneuxは、業界はAI不使用を装うが、AIなしのコーディングはほぼ不可能だと語る。",
+          "mini_headline": "Molyneux、AIなしのコーディングはほぼ無理",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/Secret-of-Mana-Tree.jpg",
-                "cap": "Secret Of Mana Tree © Square Enix"
+                "src": "https://cdn.mos.cms.futurecdn.net/cCbNLBoom6H44tX6QPEMwa-1920-80.jpg",
+                "cap": "(画像クレジット: Getty Images)"
               },
               {
                 "t": "p",
-                "x": "Manaシリーズ35周年を記念したFamitsuのインタビューで、Square EnixのベテランであるHiromichi Tanaka、Kouichi Ishii、Yoshinori Kitaseの3氏はSNES時代を振り返り、AI-driven（AI主導）の色を強める今日のゲーム開発と比べた。"
+                "x": "PC Gamerは、Populous、Theme Park、Dungeon Keeper、Black & White、Fableを手がけた開発者Peter MolyneuxにGuildfordでインタビューし、ビデオゲーム業界でのAI利用について尋ねた。"
               },
               {
                 "t": "p",
-                "x": "彼らの見方では、AIはUnityやUnrealといったエンジンと同じように小規模なチームの力になりうる。Kitase氏は「これまでさまざまな技術がゲーム開発を支えてきたように、AIもゲーム開発でますます重要な役割を担うようになると感じる」と述べた。「ただし、何かを生み出し、0から1にするには、絶対に人が必要だ。それは決して変わらないので、次世代の開発者は0から何かを作る力を持たなければならない」"
+                "x": "彼はChatGPTとGeminiのせいで「AIイコールAI slop」という図式が人々の頭に刷り込まれたと非難し、SteamのAI項目にチェックを入れれば「即座に[ゲーマーの]12%が去る」と述べた。「私たち業界はAIを使っていないふりをしているが、現実には今やAIを使わずにコーディングするのはほぼ不可能だ。ほぼ不可能なんだ」"
               },
               {
                 "t": "p",
-                "x": "Ishii氏は、プロトタイピングが速くなり、テストと磨き込みに充てる時間が増えることに期待を寄せる。「だが、作業工程の始まりと終わりは、やはり人が定める必要がある。AIだけに頼れば、結果は洗練されて見えても、冷たく、必要な人の温かみに欠けたものに感じられるかもしれない」"
+                "x": "彼はAIをスタジオにとって「創造性における最大の前進」と呼んだ。コンセプト作業は五分で済み、地面から立ち上がるフルリグのキャラクターのプロトタイプも「数カ月ではなく一日ですべて終わる」という。"
               },
               {
                 "t": "p",
-                "x": "Kotakuによれば、最近の調査では日本の開発者の85パーセント超がこの技術を積極的に使っているか、使用を検討しているという。"
+                "x": "「AIは、ゲームの最終品質に見合うアセットの制作を任せられるほどにはまだ強力ではないと思う。でもRob、いずれそうなる」。一年以内に、AIはUnityやUnrealといったミドルウェアと深く結びつき、切り離すのが非常に難しくなると彼は予測する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Square Enix元老谈\nAI与从0到1",
-          "body": "Kitase等人认为，AI-era开发者仍需具备从0到1的创造能力。",
-          "mini_headline": "Kitase谈AI：从0到1",
+          "headline": "Molyneux：没有AI\n如今几乎无法写代码",
+          "body": "Peter Molyneux称，业界假装没在用AI，但如今不用AI几乎无法写代码。",
+          "mini_headline": "Molyneux：没有AI几乎写不了代码",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/Secret-of-Mana-Tree.jpg",
-                "cap": "Secret Of Mana Tree © Square Enix"
+                "src": "https://cdn.mos.cms.futurecdn.net/cCbNLBoom6H44tX6QPEMwa-1920-80.jpg",
+                "cap": "(图片来源：Getty Images)"
               },
               {
                 "t": "p",
-                "x": "在纪念Mana系列35周年的Famitsu访谈中，Square Enix资深开发者Hiromichi Tanaka、Kouichi Ishii与Yoshinori Kitase回顾了SNES时代，并将其与如今日益AI-driven（AI驱动）的游戏开发相比较。"
+                "x": "PC Gamer在Guildford采访了Populous、Theme Park、Dungeon Keeper、Black & White和Fable的开发者Peter Molyneux，并询问了他对电子游戏行业使用AI的看法。"
               },
               {
                 "t": "p",
-                "x": "在他们看来，AI可以像Unity和Unreal等引擎一样，为小型团队赋能。Kitase表示：“正如过去各种技术一直支撑着游戏开发，我觉得AI可能会在游戏开发中扮演越来越重要的角色。”“但是，要创造出某样东西、把它从0变成1，就绝对需要人。这一点永远不会改变，所以下一代开发者必须具备从0开始创造的能力。”"
+                "x": "他指责ChatGPT和Gemini让“AI等于AI slop”的观念深入人心，并表示在Steam上勾选AI选项意味着“立刻就有12%[的玩家]流失”。“我们整个行业都在假装没有使用AI，但现实是，如今不用AI几乎不可能写代码。几乎不可能。”"
               },
               {
                 "t": "p",
-                "x": "Ishii乐见原型制作提速，留出更多时间测试和打磨，“但是，工作流程的起点和终点仍需由人来界定。如果完全依赖AI，结果或许看起来很精致，却可能显得冰冷，缺少应有的人情味。”"
+                "x": "他称AI是工作室“在创造力上最大的一步飞跃”：概念设计五分钟就能完成，而为一个从地面升起、完整绑定骨骼的角色制作原型，“一天就全部搞定，而不是几个月”。"
               },
               {
                 "t": "p",
-                "x": "Kotaku指出，近期调查发现，日本有超过百分之85的开发者正在积极使用或考虑使用这项技术。"
+                "x": "“我认为AI还没有强大到可以放心让它制作达到游戏最终品质的素材。但是Rob，它会的。”他预测，一年之内，AI将与Unity和Unreal等中间件深度绑定，到时将很难剥离。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Veteranos de Square Enix\nsobre la AI y el paso de 0 a 1",
-          "body": "Kitase y colegas de Square Enix dicen que los desarrolladores de la AI-era aún necesitan llevar una idea de 0 a 1.",
-          "mini_headline": "Kitase sobre la AI: de 0 a 1",
+          "headline": "Molyneux: programar sin AI\nya es casi imposible",
+          "body": "Peter Molyneux dice que la industria finge no usar AI, pero que programar sin ella ya es casi imposible.",
+          "mini_headline": "Molyneux: ya casi no se programa sin AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/Secret-of-Mana-Tree.jpg",
-                "cap": "Secret Of Mana Tree © Square Enix"
+                "src": "https://cdn.mos.cms.futurecdn.net/cCbNLBoom6H44tX6QPEMwa-1920-80.jpg",
+                "cap": "(Crédito de la imagen: Getty Images)"
               },
               {
                 "t": "p",
-                "x": "En una entrevista con Famitsu por el 35.º aniversario de la serie Mana, los veteranos de Square Enix Hiromichi Tanaka, Kouichi Ishii y Yoshinori Kitase repasaron la era de SNES y la compararon con el desarrollo de juegos actual, cada vez más AI-driven (impulsado por la AI)."
+                "x": "PC Gamer entrevistó en Guildford a Peter Molyneux, el desarrollador detrás de Populous, Theme Park, Dungeon Keeper, Black & White y Fable, y le preguntó por el uso de la AI en la industria del videojuego."
               },
               {
                 "t": "p",
-                "x": "A su juicio, la AI podría dar más capacidad a los equipos pequeños, como ya hicieron motores como Unity y Unreal. “Así como diversas tecnologías han respaldado antes el desarrollo de juegos, creo que podríamos ver a la AI desempeñar un papel cada vez más importante en el desarrollo de juegos”, señaló Kitase. “Sin embargo, cuando se trata de crear algo y llevarlo de 0 a 1, se necesitan personas sin ninguna duda. Eso nunca cambiará, así que la próxima generación de desarrolladores debe tener la capacidad de crear algo desde 0”."
+                "x": "Culpó a ChatGPT y Gemini de haber grabado en la mente de la gente la idea de que \"AI equivale a AI slop\", y dijo que marcar la casilla de AI de Steam significa que \"al instante se va el 12% [de los jugadores]\". \"Como industria fingimos que no usamos AI, pero la realidad es que ahora es casi imposible programar sin usar AI. Casi imposible\"."
               },
               {
                 "t": "p",
-                "x": "A Ishii le entusiasma que un prototipado más rápido deje más tiempo para probar y pulir: “Pero los humanos seguirán teniendo que definir el inicio y el final del proceso de trabajo. Si dependemos solo de la AI, el resultado puede parecer pulido, pero puede sentirse frío y carecer del toque humano necesario”."
+                "x": "Calificó la AI como \"el mayor paso adelante en creatividad\" para los estudios: el trabajo de concepto puede hacerse en cinco minutos, y el prototipo de un personaje totalmente riggeado que se levanta del suelo está \"listo en un día, no en meses\"."
               },
               {
                 "t": "p",
-                "x": "Kotaku señala que encuestas recientes hallaron que más del 85 por ciento de los desarrolladores en Japón usan activamente esta tecnología o consideran usarla."
+                "x": "\"No creo que la AI sea todavía lo bastante potente como para confiarle la producción de los recursos con la calidad final del juego. Pero, Rob, lo será\". Predice que en un año la AI estará tan ligada a middleware como Unity y Unreal que será muy difícil extraerla."
               }
             ]
           }
@@ -1391,15 +1401,15 @@
       }
     },
     {
-      "id": "games-ugc-ai-creators",
+      "id": "uchikoshi",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Roblox, AI 창작\nFortnite도 가세",
-      "body": "Roblox는 글로 게임을 짓고 Fortnite는 MCP로 Claude를 잇는다.",
-      "mini_headline": "AI로 플레이어가 창작자로",
+      "headline": "Zero Escape 작가\n\"AI가 게임 살렸을 것\"",
+      "body": "Uchikoshi는 AI로 비용을 줄였다면 새 게임이 취소되지 않았으리라 본다.",
+      "mini_headline": "Uchikoshi \"AI가 게임 살렸을 것\"",
       "tool": "Games",
-      "source": "GamesBeat",
-      "url": "https://gamesbeat.com/ugc-platforms-are-turning-to-ai-to-make-game-developers-out-of-everyday-players/",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/zero-escape-writer-is-pro-ai-believes-his-new-studios-game-wouldnt-have-been-canceled-if-hed-used-it-to-cut-costs-2000749911",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
@@ -1407,173 +1417,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://gamesbeat.com/wp-content/uploads/2026/10/AiPromptingExtraExampleAddLightBeam.png"
+            "src": "https://kotaku.com/app/uploads/2026/10/Hundred-Line.jpeg",
+            "cap": "© Aniplex, Too Kyo Games"
           },
           {
             "t": "p",
-            "x": "더 많은 사람이 게임을 만들도록 Roblox, Fortnite 같은 사용자 제작 콘텐츠 플랫폼이 갈수록 AI 도구에 기댄다."
+            "x": "Zero Escape와 Hundred Line으로 알려진 Kotaro Uchikoshi가 새 Famitsu 인터뷰에서 자신의 새 스튜디오 Crash Keys도, 그 게임의 취소도 실제로 있었던 일이라고 못 박았다. AI를 쓸 수 있었다면 게임이 취소되지 않았을지도 모른다는 말도 덧붙였다."
           },
           {
             "t": "p",
-            "x": "Roblox는 Roblox 앱 안에 모바일 중심 제작 탭 Build를 선보였다. 텍스트 프롬프트를 넣으면 온전히 플레이할 수 있는 기본 게임으로 바꿔 주는 기능이다. 최고 크리에이터 생태계 책임자 Vlad Loktev는 “현재 Build에서 만드는 사람의 70퍼센트 이상은 [Roblox] Studio를 한 번도 열어 본 적이 없거나 플랫폼에서 게임을 만든 적이 없다”고 말했다."
+            "x": "\"우리 같은 중간 규모 팀, 특히 어드벤처 게임을 만드는 팀에게는 이제 개인이 만든 인디 게임조차 경쟁자로 볼 수 있다. 이런 개인 가운데 일부는 아주 작은 팀으로 AI를 활용해 풍부한 콘텐츠를 갖춘 방대한 게임을 짧은 시간에 낮은 비용으로 만든다. [...] 우리도 AI를 쓸 수밖에 없다고 생각한다.\""
           },
           {
             "t": "p",
-            "x": "Epic은 Unreal Engine 5.8에 네이티브 Model Context Protocol 서버 통합을 실험 기능으로 넣는다고 발표했다. UEFN 크리에이터가 Claude, Gemini 같은 AI 모델을 프로젝트에 바로 연결하게 된다. The Sandbox Studio는 에이전트 코딩용으로 설계됐다. AI 에이전트가 엔진, 코드베이스, 문서, 에디터 조작까지 손댈 수 있다."
+            "x": "\"게임 개발에 AI를 쓰는 데 거부감이 있다는 것은 이해한다. 하지만 개인적으로 나는 AI 찬성론자다.\" 그는 비주얼 디자인과 스토리의 출발점은 사람의 아이디어여야 하지만 다듬고 마무리하는 일은 AI에 맡겨도 된다고 본다. 그러면 최종 결과물이 창작자 구상의 70-80퍼센트 수준에서 100퍼센트 가까이 올라간다는 설명이다."
           },
           {
             "t": "p",
-            "x": "Google의 Playground에서는 플레이어가 글로 쓴 프롬프트가 브라우저 기반 게임이 된다. DT의 Itai Cohen은 이렇게 쉽게 만들 수 있으면 “게임판 AI slop”이 불어날 수 있다고 경고했다."
+            "x": "Uchikoshi는 앞서 Hundred Line이 그만한 규모의 게임 가운데 AI 없이 만들어지는 \"마지막 사례 중 하나\"일 수 있다고 말한 적이 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Roblox and Fortnite bet on\nAI to make players creators",
-          "body": "Roblox's Build turns text prompts into playable games, and Fortnite creators can link Claude or Gemini through MCP.",
-          "mini_headline": "AI makes players creators",
+          "headline": "Zero Escape writer says AI\ncould have saved his game",
+          "body": "Kotaro Uchikoshi believes his new studio's game would not have been canceled had AI been used to cut costs.",
+          "mini_headline": "Uchikoshi: AI could\nhave saved his game",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/AiPromptingExtraExampleAddLightBeam.png"
+                "src": "https://kotaku.com/app/uploads/2026/10/Hundred-Line.jpeg",
+                "cap": "© Aniplex, Too Kyo Games"
               },
               {
                 "t": "p",
-                "x": "User-generated content platforms like Roblox and Fortnite are increasingly turning to AI tools to make game development accessible to the masses."
+                "x": "Kotaro Uchikoshi, known for Zero Escape and Hundred Line, insists in a new Famitsu interview that his new studio Crash Keys and its game's cancellation were real, and says that maybe the game wouldn't have been canceled if he had been allowed to use AI."
               },
               {
                 "t": "p",
-                "x": "Roblox showcased Build, a mobile-first creation tab in the Roblox app that turns text prompts into fully playable basic games. “Over 70 percent of people who are building in Build today have never even opened [Roblox] Studio, or created a game on the platform before,” said chief creator ecosystem officer Vlad Loktev."
+                "x": "\"For mid-sized teams like ours, especially those making adventure games, even indie games created by individuals could now be seen as rivals. Some of these individuals are using AI with very small teams to produce expansive games with rich content in a short time at a low cost. [...] I believe we have no choice but to use AI ourselves.\""
               },
               {
                 "t": "p",
-                "x": "Epic announced an experimental native Model Context Protocol server integration in Unreal Engine 5.8, allowing UEFN creators to connect AI models like Claude and Gemini directly to their projects. The Sandbox Studio is purpose-built for agentic coding, giving an AI agent access to its engine, codebase, documentation, and editor controls."
+                "x": "\"I understand there's resistance to using AI in game development. However, personally, I am a proponent of AI.\" He says the origin of visual design and story must come from human ideas, but he is okay with entrusting refining and polishing to AI, which could bring a final product from 70-80 percent of a creator's vision to close to 100 percent."
               },
               {
                 "t": "p",
-                "x": "Google’s Playground lets players turn written prompts into browser-based games. DT’s Itai Cohen warns easy creation could “contribute to the gaming version of AI slop.”"
+                "x": "Previously, Uchikoshi said Hundred Line may be \"one of the last times\" a game of that scale would be made without AI."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Roblox, AI 창작\nFortnite도 가세",
-          "body": "Roblox는 글로 게임을 짓고 Fortnite는 MCP로 Claude를 잇는다.",
-          "mini_headline": "AI로 플레이어가 창작자로",
+          "headline": "Zero Escape 작가\n\"AI가 게임 살렸을 것\"",
+          "body": "Uchikoshi는 AI로 비용을 줄였다면 새 게임이 취소되지 않았으리라 본다.",
+          "mini_headline": "Uchikoshi \"AI가 게임 살렸을 것\"",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/AiPromptingExtraExampleAddLightBeam.png"
+                "src": "https://kotaku.com/app/uploads/2026/10/Hundred-Line.jpeg",
+                "cap": "© Aniplex, Too Kyo Games"
               },
               {
                 "t": "p",
-                "x": "더 많은 사람이 게임을 만들도록 Roblox, Fortnite 같은 사용자 제작 콘텐츠 플랫폼이 갈수록 AI 도구에 기댄다."
+                "x": "Zero Escape와 Hundred Line으로 알려진 Kotaro Uchikoshi가 새 Famitsu 인터뷰에서 자신의 새 스튜디오 Crash Keys도, 그 게임의 취소도 실제로 있었던 일이라고 못 박았다. AI를 쓸 수 있었다면 게임이 취소되지 않았을지도 모른다는 말도 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "Roblox는 Roblox 앱 안에 모바일 중심 제작 탭 Build를 선보였다. 텍스트 프롬프트를 넣으면 온전히 플레이할 수 있는 기본 게임으로 바꿔 주는 기능이다. 최고 크리에이터 생태계 책임자 Vlad Loktev는 “현재 Build에서 만드는 사람의 70퍼센트 이상은 [Roblox] Studio를 한 번도 열어 본 적이 없거나 플랫폼에서 게임을 만든 적이 없다”고 말했다."
+                "x": "\"우리 같은 중간 규모 팀, 특히 어드벤처 게임을 만드는 팀에게는 이제 개인이 만든 인디 게임조차 경쟁자로 볼 수 있다. 이런 개인 가운데 일부는 아주 작은 팀으로 AI를 활용해 풍부한 콘텐츠를 갖춘 방대한 게임을 짧은 시간에 낮은 비용으로 만든다. [...] 우리도 AI를 쓸 수밖에 없다고 생각한다.\""
               },
               {
                 "t": "p",
-                "x": "Epic은 Unreal Engine 5.8에 네이티브 Model Context Protocol 서버 통합을 실험 기능으로 넣는다고 발표했다. UEFN 크리에이터가 Claude, Gemini 같은 AI 모델을 프로젝트에 바로 연결하게 된다. The Sandbox Studio는 에이전트 코딩용으로 설계됐다. AI 에이전트가 엔진, 코드베이스, 문서, 에디터 조작까지 손댈 수 있다."
+                "x": "\"게임 개발에 AI를 쓰는 데 거부감이 있다는 것은 이해한다. 하지만 개인적으로 나는 AI 찬성론자다.\" 그는 비주얼 디자인과 스토리의 출발점은 사람의 아이디어여야 하지만 다듬고 마무리하는 일은 AI에 맡겨도 된다고 본다. 그러면 최종 결과물이 창작자 구상의 70-80퍼센트 수준에서 100퍼센트 가까이 올라간다는 설명이다."
               },
               {
                 "t": "p",
-                "x": "Google의 Playground에서는 플레이어가 글로 쓴 프롬프트가 브라우저 기반 게임이 된다. DT의 Itai Cohen은 이렇게 쉽게 만들 수 있으면 “게임판 AI slop”이 불어날 수 있다고 경고했다."
+                "x": "Uchikoshi는 앞서 Hundred Line이 그만한 규모의 게임 가운데 AI 없이 만들어지는 \"마지막 사례 중 하나\"일 수 있다고 말한 적이 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Roblox、AIで創作\nFortniteも続く",
-          "body": "RobloxのBuildは文章でゲームを作り、FortniteはMCPでAIとつながる。",
-          "mini_headline": "AIで遊び手が作り手に",
+          "headline": "Zero Escapeの作者\nAIならゲームは救えた",
+          "body": "Uchikoshiは、AIでコストを削れていれば新作は中止されなかったと考える。",
+          "mini_headline": "Uchikoshi「AIならゲームは救えた」",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/AiPromptingExtraExampleAddLightBeam.png"
+                "src": "https://kotaku.com/app/uploads/2026/10/Hundred-Line.jpeg",
+                "cap": "© Aniplex, Too Kyo Games"
               },
               {
                 "t": "p",
-                "x": "RobloxやFortniteといったユーザー生成コンテンツのプラットフォームが、ゲーム開発を誰にでも開かれたものにしようと、AIツールへの傾斜を強めている。"
+                "x": "Zero EscapeやHundred Lineで知られるKotaro Uchikoshiは、Famitsuの新たなインタビューで、自身の新スタジオCrash Keysとそのゲームの開発中止は事実だったと強調し、AIの使用が認められていれば中止されなかったかもしれないと語った。"
               },
               {
                 "t": "p",
-                "x": "Robloxは、Robloxアプリ内のモバイル優先の制作タブBuildを披露した。テキストのプロンプトを、最後まで遊べる基本的なゲームに変える。「今Buildで作っている人の70パーセント超は、[Roblox] Studioを開いたことも、このプラットフォームでゲームを作ったこともない」と最高クリエイターエコシステム責任者のVlad Loktevは語った。"
+                "x": "「私たちのような中規模チーム、特にアドベンチャーゲームを作るチームにとっては、今や個人が作るインディーゲームさえライバルになり得る。そうした個人の中には、ごく少人数でAIを使い、豊富なコンテンツを備えた大規模なゲームを短期間・低コストで作る人もいる。[...] 私たち自身もAIを使うしかないと考えている」"
               },
               {
                 "t": "p",
-                "x": "EpicはUnreal Engine 5.8に、実験的なネイティブのModel Context Protocolサーバー統合を搭載すると発表した。UEFNのクリエイターはClaudeやGeminiなどのAIモデルをプロジェクトに直接つなげる。The Sandbox Studioはエージェント型コーディング向けに設計され、AIエージェントにエンジン、コードベース、ドキュメント、エディター操作へのアクセスを与える。"
+                "x": "「ゲーム開発でAIを使うことに抵抗があるのは理解している。しかし個人的には、私はAI推進派だ」。ビジュアルデザインやストーリーの原点は人間のアイデアでなければならないが、ブラッシュアップや仕上げをAIに任せるのは構わないと彼は言う。それによって最終成果物を、クリエイターの構想の70-80パーセントから100パーセント近くまで引き上げられるという。"
               },
               {
                 "t": "p",
-                "x": "GoogleのPlaygroundでは、プレイヤーが書いたプロンプトをブラウザーで遊べるゲームに変えられる。DTのItai Cohenは、手軽な制作が「ゲーム版のAI slop」を助長しかねないと警告する。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Roblox y Fortnite apuestan por\nla AI para que jugadores creen",
-          "body": "Build de Roblox convierte prompts de texto en juegos jugables, y Fortnite permite conectar Claude o Gemini vía MCP.",
-          "mini_headline": "La AI convierte jugadores en creadores",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/AiPromptingExtraExampleAddLightBeam.png"
-              },
-              {
-                "t": "p",
-                "x": "Plataformas de contenido generado por usuarios como Roblox y Fortnite recurren cada vez más a herramientas de AI para acercar el desarrollo de juegos al gran público."
-              },
-              {
-                "t": "p",
-                "x": "Roblox presentó Build, una pestaña de creación pensada primero para móviles dentro de la app de Roblox que convierte prompts de texto en juegos básicos totalmente jugables. “Más del 70 por ciento de quienes crean hoy en Build nunca habían abierto [Roblox] Studio ni creado un juego en la plataforma”, dijo Vlad Loktev, director del ecosistema de creadores."
-              },
-              {
-                "t": "p",
-                "x": "Epic anunció una integración experimental y nativa de un servidor Model Context Protocol en Unreal Engine 5.8, que permite a los creadores de UEFN conectar modelos de AI como Claude y Gemini directamente a sus proyectos. The Sandbox Studio está diseñado para la programación agéntica y da a un agente de AI acceso a su motor, código, documentación y controles del editor."
-              },
-              {
-                "t": "p",
-                "x": "Playground, de Google, permite a los jugadores convertir prompts escritos en juegos para el navegador. Itai Cohen, de DT, advierte que la facilidad de creación podría “contribuir a la versión gamer del AI slop”."
+                "x": "Uchikoshiは以前、Hundred Lineはあの規模のゲームがAIなしで作られる「最後の機会の一つ」になるかもしれないと語っていた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Roblox押注AI\nFortnite也让玩家创作",
-          "body": "Roblox Build以文字造游戏，Fortnite经MCP连Claude或Gemini。",
-          "mini_headline": "AI让玩家变成创作者",
+          "headline": "Zero Escape编剧：\nAI本可救下他的游戏",
+          "body": "Kotaro Uchikoshi认为，若用AI降低成本，他新工作室的游戏本不会被取消。",
+          "mini_headline": "Uchikoshi：AI本可救下游戏",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/AiPromptingExtraExampleAddLightBeam.png"
+                "src": "https://kotaku.com/app/uploads/2026/10/Hundred-Line.jpeg",
+                "cap": "© Aniplex, Too Kyo Games"
               },
               {
                 "t": "p",
-                "x": "Roblox和Fortnite等用户生成内容平台正越来越多地借助AI工具，让大众也能参与游戏开发。"
+                "x": "以Zero Escape和Hundred Line闻名的Kotaro Uchikoshi在Famitsu的最新采访中坚称，他的新工作室Crash Keys及其游戏被取消一事属实，并表示如果当初允许他使用AI，游戏或许就不会被取消。"
               },
               {
                 "t": "p",
-                "x": "Roblox展示了Build，这是Roblox应用中一个移动优先的创作标签页，可将文字提示变成完整可玩的基础游戏。首席创作者生态官Vlad Loktev表示：“如今在Build中创作的人里，超过百分之70从未打开过[Roblox] Studio，也从未在该平台上制作过游戏。”"
+                "x": "“对于我们这样的中型团队，尤其是做冒险游戏的团队来说，如今就连个人开发的独立游戏也可能被视为对手。其中一些人借助AI，以极小的团队在短时间内以低成本做出内容丰富的大型游戏。[...] 我认为我们别无选择，只能自己也用AI。”"
               },
               {
                 "t": "p",
-                "x": "Epic宣布在Unreal Engine 5.8中试验性地原生集成Model Context Protocol服务器，让UEFN创作者能将Claude和Gemini等AI模型直接连接到自己的项目。Sandbox Studio专为智能体编程打造，让AI智能体可以访问其引擎、代码库、文档和编辑器控制。"
+                "x": "“我理解游戏开发中使用AI会遇到抵触。不过就我个人而言，我支持AI。”他说，视觉设计和故事的源头必须来自人的创意，但他可以接受把打磨和润色交给AI，这能让最终成品从创作者构想的百分之70-80提升到接近百分之100。"
               },
               {
                 "t": "p",
-                "x": "Google的Playground让玩家把书面提示变成基于浏览器的游戏。DT的Itai Cohen警告，轻松创作可能会“助长游戏版的AI slop”。"
+                "x": "Uchikoshi此前曾表示，Hundred Line可能是如此规模的游戏不借助AI制作的“最后几次之一”。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Guionista de Zero Escape: la AI\npodría haber salvado su juego",
+          "body": "Kotaro Uchikoshi cree que el juego de su nuevo estudio no se habría cancelado de haber usado AI para reducir costes.",
+          "mini_headline": "Uchikoshi: la AI podría haber salvado su juego",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/10/Hundred-Line.jpeg",
+                "cap": "© Aniplex, Too Kyo Games"
+              },
+              {
+                "t": "p",
+                "x": "Kotaro Uchikoshi, conocido por Zero Escape y Hundred Line, insiste en una nueva entrevista con Famitsu en que su nuevo estudio, Crash Keys, y la cancelación de su juego fueron reales, y dice que quizá el juego no se habría cancelado si le hubieran permitido usar AI."
+              },
+              {
+                "t": "p",
+                "x": "\"Para equipos medianos como el nuestro, sobre todo los que hacen juegos de aventura, ahora incluso los juegos indie creados por particulares pueden verse como rivales. Algunas de estas personas usan AI con equipos muy pequeños para producir juegos amplios y con mucho contenido en poco tiempo y a bajo coste. [...] Creo que no tenemos más remedio que usar AI nosotros también\"."
+              },
+              {
+                "t": "p",
+                "x": "\"Entiendo que haya resistencia al uso de AI en el desarrollo de juegos. Sin embargo, personalmente, soy partidario de la AI\". Afirma que el origen del diseño visual y de la historia debe venir de ideas humanas, pero que no le importa confiar a la AI el refinado y el pulido, lo que podría llevar un producto final del 70-80 por ciento de la visión de un creador a cerca del 100 por ciento."
+              },
+              {
+                "t": "p",
+                "x": "Anteriormente, Uchikoshi dijo que Hundred Line podría ser \"una de las últimas veces\" que se hiciera un juego de esa escala sin AI."
               }
             ]
           }
@@ -1581,121 +1597,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Roblox, AI 창작\nFortnite도 가세",
-          "body": "Roblox는 글로 게임을 짓고 Fortnite는 MCP로 Claude를 잇는다.",
-          "mini_headline": "AI로 플레이어가 창작자로",
+          "headline": "Zero Escape 작가\n\"AI가 게임 살렸을 것\"",
+          "body": "Uchikoshi는 AI로 비용을 줄였다면 새 게임이 취소되지 않았으리라 본다.",
+          "mini_headline": "Uchikoshi \"AI가 게임 살렸을 것\"",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/AiPromptingExtraExampleAddLightBeam.png"
+                "src": "https://kotaku.com/app/uploads/2026/10/Hundred-Line.jpeg",
+                "cap": "© Aniplex, Too Kyo Games"
               },
               {
                 "t": "p",
-                "x": "Roblox와 Fortnite 같은 사용자 제작 콘텐츠 플랫폼이 더 많은 사람이 게임을 개발할 수 있도록 점점 더 AI 도구에 기대고 있다."
+                "x": "Zero Escape와 Hundred Line으로 알려진 Kotaro Uchikoshi는 새 Famitsu 인터뷰에서 자신의 새 스튜디오 Crash Keys와 그 게임의 취소가 실제 있었던 일이라고 강조하며, AI 사용이 허락됐다면 게임이 취소되지 않았을지도 모른다고 말했다."
               },
               {
                 "t": "p",
-                "x": "Roblox는 Roblox 앱 안의 모바일 중심 제작 탭 Build를 선보였다. 텍스트 프롬프트를 완전히 플레이 가능한 기본 게임으로 바꿔 준다. 최고 크리에이터 생태계 책임자 Vlad Loktev는 “현재 Build에서 만드는 사람의 70퍼센트 이상은 [Roblox] Studio를 한 번도 열어 본 적이 없거나 플랫폼에서 게임을 만든 적이 없다”고 말했다."
+                "x": "\"우리 같은 중간 규모 팀, 특히 어드벤처 게임을 만드는 팀에게는 이제 개인이 만든 인디 게임조차 경쟁자로 볼 수 있다. 이런 개인 가운데 일부는 아주 작은 팀으로 AI를 활용해 풍부한 콘텐츠를 갖춘 방대한 게임을 짧은 시간에 낮은 비용으로 만든다. [...] 우리도 AI를 쓸 수밖에 없다고 생각한다.\""
               },
               {
                 "t": "p",
-                "x": "Epic은 Unreal Engine 5.8에 실험적인 네이티브 Model Context Protocol 서버 통합을 넣는다고 발표했다. 이로써 UEFN 크리에이터는 Claude, Gemini 같은 AI 모델을 프로젝트에 직접 연결할 수 있다. The Sandbox Studio는 에이전트 코딩을 위해 설계돼 AI 에이전트가 엔진, 코드베이스, 문서, 에디터 조작에 접근할 수 있다."
+                "x": "\"게임 개발에 AI를 쓰는 데 거부감이 있다는 것은 이해한다. 하지만 개인적으로 나는 AI 찬성론자다.\" 그는 비주얼 디자인과 스토리의 출발점은 사람의 아이디어여야 하지만, 다듬고 마무리하는 일은 AI에 맡겨도 괜찮다고 말한다. 그러면 최종 결과물을 창작자 구상의 70-80퍼센트 수준에서 100퍼센트 가까이 끌어올릴 수 있다는 것이다."
               },
               {
                 "t": "p",
-                "x": "Google의 Playground에서는 플레이어가 글로 쓴 프롬프트를 브라우저 기반 게임으로 바꿀 수 있다. DT의 Itai Cohen은 손쉬운 제작이 “게임판 AI slop”을 키울 수 있다고 경고했다."
+                "x": "Uchikoshi는 앞서 Hundred Line이 그 정도 규모의 게임이 AI 없이 만들어지는 \"마지막 사례 중 하나\"일 수 있다고 말한 바 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Roblox、AIで創作\nFortniteも続く",
-          "body": "RobloxのBuildは文章でゲームを作り、FortniteはMCPでAIとつながる。",
-          "mini_headline": "AIで遊び手が作り手に",
+          "headline": "Zero Escapeの作者\nAIならゲームは救えた",
+          "body": "Uchikoshiは、AIでコストを削れていれば新作は中止されなかったと考える。",
+          "mini_headline": "Uchikoshi「AIならゲームは救えた」",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/AiPromptingExtraExampleAddLightBeam.png"
+                "src": "https://kotaku.com/app/uploads/2026/10/Hundred-Line.jpeg",
+                "cap": "© Aniplex, Too Kyo Games"
               },
               {
                 "t": "p",
-                "x": "RobloxやFortniteといったユーザー生成コンテンツのプラットフォームが、ゲーム開発を誰にでも開かれたものにしようと、AIツールへの傾斜を強めている。"
+                "x": "Zero EscapeやHundred Lineで知られるKotaro Uchikoshiは、Famitsuの新たなインタビューで、自身の新スタジオCrash Keysとそのゲームの開発中止は事実だったと強調し、AIの使用が認められていれば中止されなかったかもしれないと語った。"
               },
               {
                 "t": "p",
-                "x": "Robloxは、Robloxアプリ内のモバイル優先の制作タブBuildを披露した。テキストのプロンプトを、最後まで遊べる基本的なゲームに変える。「今Buildで作っている人の70パーセント超は、[Roblox] Studioを開いたことも、このプラットフォームでゲームを作ったこともない」と最高クリエイターエコシステム責任者のVlad Loktevは語った。"
+                "x": "「私たちのような中規模チーム、特にアドベンチャーゲームを作るチームにとっては、今や個人が作るインディーゲームさえライバルになり得る。そうした個人の中には、ごく少人数でAIを使い、豊富なコンテンツを備えた大規模なゲームを短期間・低コストで作る人もいる。[...] 私たち自身もAIを使うしかないと考えている」"
               },
               {
                 "t": "p",
-                "x": "EpicはUnreal Engine 5.8に、実験的なネイティブのModel Context Protocolサーバー統合を搭載すると発表した。UEFNのクリエイターはClaudeやGeminiなどのAIモデルをプロジェクトに直接つなげる。The Sandbox Studioはエージェント型コーディング向けに設計され、AIエージェントにエンジン、コードベース、ドキュメント、エディター操作へのアクセスを与える。"
+                "x": "「ゲーム開発でAIを使うことに抵抗があるのは理解している。しかし個人的には、私はAI推進派だ」。ビジュアルデザインやストーリーの原点は人間のアイデアでなければならないが、ブラッシュアップや仕上げをAIに任せるのは構わないと彼は言う。それによって最終成果物を、クリエイターの構想の70-80パーセントから100パーセント近くまで引き上げられるという。"
               },
               {
                 "t": "p",
-                "x": "GoogleのPlaygroundでは、プレイヤーが書いたプロンプトをブラウザーで遊べるゲームに変えられる。DTのItai Cohenは、手軽な制作が「ゲーム版のAI slop」を助長しかねないと警告する。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Roblox y Fortnite apuestan por\nla AI para que jugadores creen",
-          "body": "Build de Roblox convierte prompts de texto en juegos jugables, y Fortnite permite conectar Claude o Gemini vía MCP.",
-          "mini_headline": "La AI convierte jugadores en creadores",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/AiPromptingExtraExampleAddLightBeam.png"
-              },
-              {
-                "t": "p",
-                "x": "Plataformas de contenido generado por usuarios como Roblox y Fortnite recurren cada vez más a herramientas de AI para acercar el desarrollo de juegos al gran público."
-              },
-              {
-                "t": "p",
-                "x": "Roblox presentó Build, una pestaña de creación pensada primero para móviles dentro de la app de Roblox que convierte prompts de texto en juegos básicos totalmente jugables. “Más del 70 por ciento de quienes crean hoy en Build nunca habían abierto [Roblox] Studio ni creado un juego en la plataforma”, dijo Vlad Loktev, director del ecosistema de creadores."
-              },
-              {
-                "t": "p",
-                "x": "Epic anunció una integración experimental y nativa de un servidor Model Context Protocol en Unreal Engine 5.8, que permite a los creadores de UEFN conectar modelos de AI como Claude y Gemini directamente a sus proyectos. The Sandbox Studio está diseñado para la programación agéntica y da a un agente de AI acceso a su motor, código, documentación y controles del editor."
-              },
-              {
-                "t": "p",
-                "x": "Playground, de Google, permite a los jugadores convertir prompts escritos en juegos para el navegador. Itai Cohen, de DT, advierte que la facilidad de creación podría “contribuir a la versión gamer del AI slop”."
+                "x": "Uchikoshiは以前、Hundred Lineはあの規模のゲームがAIなしで作られる「最後の機会の一つ」になるかもしれないと語っていた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Roblox押注AI\nFortnite也让玩家创作",
-          "body": "Roblox Build以文字造游戏，Fortnite经MCP连Claude或Gemini。",
-          "mini_headline": "AI让玩家变成创作者",
+          "headline": "Zero Escape编剧：\nAI本可救下他的游戏",
+          "body": "Kotaro Uchikoshi认为，若用AI降低成本，他新工作室的游戏本不会被取消。",
+          "mini_headline": "Uchikoshi：AI本可救下游戏",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/AiPromptingExtraExampleAddLightBeam.png"
+                "src": "https://kotaku.com/app/uploads/2026/10/Hundred-Line.jpeg",
+                "cap": "© Aniplex, Too Kyo Games"
               },
               {
                 "t": "p",
-                "x": "Roblox和Fortnite等用户生成内容平台正越来越多地借助AI工具，让大众也能参与游戏开发。"
+                "x": "以Zero Escape和Hundred Line闻名的Kotaro Uchikoshi在Famitsu的最新采访中坚称，他的新工作室Crash Keys及其游戏被取消一事属实，并表示如果当初允许他使用AI，游戏或许就不会被取消。"
               },
               {
                 "t": "p",
-                "x": "Roblox展示了Build，这是Roblox应用中一个移动优先的创作标签页，可将文字提示变成完整可玩的基础游戏。首席创作者生态官Vlad Loktev表示：“如今在Build中创作的人里，超过百分之70从未打开过[Roblox] Studio，也从未在该平台上制作过游戏。”"
+                "x": "“对于我们这样的中型团队，尤其是做冒险游戏的团队来说，如今就连个人开发的独立游戏也可能被视为对手。其中一些人借助AI，以极小的团队在短时间内以低成本做出内容丰富的大型游戏。[...] 我认为我们别无选择，只能自己也用AI。”"
               },
               {
                 "t": "p",
-                "x": "Epic宣布在Unreal Engine 5.8中试验性地原生集成Model Context Protocol服务器，让UEFN创作者能将Claude和Gemini等AI模型直接连接到自己的项目。Sandbox Studio专为智能体编程打造，让AI智能体可以访问其引擎、代码库、文档和编辑器控制。"
+                "x": "“我理解游戏开发中使用AI会遇到抵触。不过就我个人而言，我支持AI。”他说，视觉设计和故事的源头必须来自人的创意，但他可以接受把打磨和润色交给AI，这能让最终成品从创作者构想的百分之70-80提升到接近百分之100。"
               },
               {
                 "t": "p",
-                "x": "Google的Playground让玩家把书面提示变成基于浏览器的游戏。DT的Itai Cohen警告，轻松创作可能会“助长游戏版的AI slop”。"
+                "x": "Uchikoshi此前曾表示，Hundred Line可能是如此规模的游戏不借助AI制作的“最后几次之一”。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Guionista de Zero Escape: la AI\npodría haber salvado su juego",
+          "body": "Kotaro Uchikoshi cree que el juego de su nuevo estudio no se habría cancelado de haber usado AI para reducir costes.",
+          "mini_headline": "Uchikoshi: la AI podría haber salvado su juego",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/10/Hundred-Line.jpeg",
+                "cap": "© Aniplex, Too Kyo Games"
+              },
+              {
+                "t": "p",
+                "x": "Kotaro Uchikoshi, conocido por Zero Escape y Hundred Line, insiste en una nueva entrevista con Famitsu en que su nuevo estudio, Crash Keys, y la cancelación de su juego fueron reales, y dice que quizá el juego no se habría cancelado si le hubieran permitido usar AI."
+              },
+              {
+                "t": "p",
+                "x": "\"Para equipos medianos como el nuestro, sobre todo los que hacen juegos de aventura, ahora incluso los juegos indie creados por particulares pueden verse como rivales. Algunas de estas personas usan AI con equipos muy pequeños para producir juegos amplios y con mucho contenido en poco tiempo y a bajo coste. [...] Creo que no tenemos más remedio que usar AI nosotros también\"."
+              },
+              {
+                "t": "p",
+                "x": "\"Entiendo que haya resistencia al uso de AI en el desarrollo de juegos. Sin embargo, personalmente, soy partidario de la AI\". Afirma que el origen del diseño visual y de la historia debe venir de ideas humanas, pero que no le importa confiar a la AI el refinado y el pulido, lo que podría llevar un producto final del 70-80 por ciento de la visión de un creador a cerca del 100 por ciento."
+              },
+              {
+                "t": "p",
+                "x": "Anteriormente, Uchikoshi dijo que Hundred Line podría ser \"una de las últimas veces\" que se hiciera un juego de esa escala sin AI."
               }
             ]
           }

@@ -9072,6 +9072,136 @@
           "x": "Los autores consideran que los resultados sirven para generar hipótesis: los agentes actuaban según instrucciones, las opiniones se clasificaron en cinco categorías y los resultados no demuestran que las mismas intervenciones funcionarían con personas."
         }
       ]
+    },
+    "science/spine": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus.jpg",
+          "cap": "Interior del detector ICARUS. Credit: CERN"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores del SLAC National Accelerator Laboratory han desarrollado SPINE (Scalable Particle Imaging with Neural Embeddings), un programa de aprendizaje automático que analiza datos de cámaras de proyección temporal de argón líquido. Aprende de imágenes simuladas del detector para identificar partículas, trazar sus trayectorias y reconstruir las interacciones que las produjeron."
+        },
+        {
+          "t": "p",
+          "x": "En lugar de una cadena rígida de algoritmos especializados, SPINE utiliza varios modelos de aprendizaje automático que trabajan juntos: primero detectan rasgos básicos en la imagen, luego identifican partículas individuales y finalmente reconstruyen la interacción completa. Ya está implementado en ocho detectores de aproximadamente 25 instituciones."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus-1.jpg",
+          "cap": "ICARUS contiene 760 toneladas de argón líquido. Credit: Al Johnson/Fermilab"
+        },
+        {
+          "t": "p",
+          "x": "En el primer resultado de física de neutrinos de ICARUS, una búsqueda de neutrinos estériles mediante la desaparición de neutrinos muónicos (arXiv, DOI: 10.48550/arxiv.2603.22557), los investigadores no hallaron indicios de esa señal. SPINE recuperó aproximadamente un 60% más de interacciones de neutrinos utilizables que la reconstrucción convencional, con una muestra más limpia, mejor resolución energética y menores incertidumbres sistemáticas."
+        },
+        {
+          "t": "p",
+          "x": "El equipo ha entrenado modelos de SPINE para los detectores cercano y lejano de DUNE; para el detector cercano, es actualmente el único enfoque capaz de manejar cientos de interacciones superpuestas. “Hemos construido la herramienta. Ahora veremos qué descubre”, dijo el desarrollador principal, François Drielsma."
+        }
+      ]
+    },
+    "science/kls-conjecture": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-BlogHeroFeature-1400x788-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La conjetura de Kannan–Lovász–Simonovits (KLS), propuesta en 1995, plantea si, para una amplia clase de distribuciones de probabilidad de alta dimensión, el mejor corte por un hiperplano es siempre casi tan eficaz como el mejor corte de cualquier forma. Dos investigadores, entre ellos Xinzhi Zhang, de Microsoft Research, la han demostrado y han mostrado que la relación se cumple con una cota fija independientemente de la dimensión."
+        },
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-illustration-scaled.png",
+          "cap": "Figura 1: Ilustración de la conjetura KLS (simplificada) en un tetraedro regular."
+        },
+        {
+          "t": "p",
+          "x": "Trabajando con agentes de AI en un proceso estructurado y dirigido por humanos, los autores exploraron más de 100 enfoques candidatos y obtuvieron un nuevo criterio que podía aplicarse de forma recursiva. Repetir todo el refinamiento recursivo mantuvo los errores acumulados acotados por una constante universal, lo que completó la demostración en la versión del artículo del 4 de octubre de 2026."
+        },
+        {
+          "t": "p",
+          "x": "Otro grupo publicó el mismo día una demostración completa paralela, una tercera demostración se basa en una idea estrechamente relacionada y después llegó una formalización en Lean 4. Los intentos sin guía con varios modelos de AI líderes y aproximadamente el mismo presupuesto de tokens no lo lograron; el éxito dependió tanto de los sistemas de AI como del criterio matemático de los investigadores."
+        }
+      ]
+    },
+    "science/nrps-enzyme": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-aids-in-the-develop.jpg",
+          "cap": "Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77963-6"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores del Helmholtz Institute for Pharmaceutical Research Saarland (HIPS), dirigidos por el Dr. Kenan Bozhüyük, usaron AI para desarrollar nuevos bloques proteicos para las sintetasas de péptidos no ribosómicos (NRPS), complejos enzimáticos que funcionan como cadenas de montaje moleculares de compuestos naturales en los que se basan numerosos antibióticos, inmunosupresores y fármacos contra el cáncer."
+        },
+        {
+          "t": "p",
+          "x": "Combinando varios modelos de AI preentrenados con experimentos, el equipo diseñó 76 nuevos dominios de tiolación (T-domains), los brazos de transporte que van pasando los intermediarios, produjo cientos de variantes de NRPS y las probó en células vivas."
+        },
+        {
+          "t": "p",
+          "x": "Varios diseños fueron funcionales; algunos aumentaron el rendimiento hasta tres veces respecto a las variantes naturales, y al menos uno resultó más soluble y térmicamente más estable. Un factor clave fue adaptar cada bloque a sus regiones vecinas."
+        },
+        {
+          "t": "p",
+          "x": "“La AI no sustituye a los experimentos, pero nos ayuda a seleccionar candidatos prometedores con mayor rapidez entre muchas variantes posibles”, afirma Bozhüyük. Nature Communications (2026), DOI: 10.1038/s41467-026-77963-6."
+        }
+      ]
+    },
+    "science/llm-empathy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-framework.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de Georgia Tech han desarrollado un marco neuronal que audita un modelo con un LLM y estima la influencia que documentos, transcripciones y otras fuentes de datos tienen en sus respuestas, para examinar cómo las fuentes de entrenamiento moldean la empatía y el razonamiento social."
+        },
+        {
+          "t": "p",
+          "x": "“Los modelos que son buenos en razonamiento social dependerán menos de los libros de texto sobre emociones humanas y más de las FAQs o de los diálogos de atención al cliente”, dijo el autor principal, Glenn Matlin. “Puede leer todo lo que quiera de textos que explican la ira, pero eso no le ayudaría a determinar si alguien siente ira.”"
+        },
+        {
+          "t": "p",
+          "x": "La auditoría abarcó Olmo 3, el modelo de código abierto de Ai2, cuyos datos de entrenamiento comprenden más de mil millones de documentos; ChatGPT y Claude no revelan los suyos. El asesor (Adviser) Mark Riedl dijo que los ingenieros podrían darle a un modelo más o menos documentos de aquellos con los que aprende empatía. El artículo se presentó en la Conference on Language Modeling (arXiv, DOI: 10.48550/arxiv.2606.19625)."
+        }
+      ]
+    },
+    "science/science-hydrogen-catalyst": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ahead-of-their-time.jpg",
+          "cap": "Esquema del marco CarbonCat-LLMs, que compara la exactitud y el F1-score de modelos GPT-4o con y sin entrenamiento few-shot. Credit: ACS Catalysis"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores del ARC Centre of Excellence for Carbon Science and Innovation usaron grandes modelos de lenguaje para explorar la literatura científica en busca de electrocatalizadores prometedores: aleaciones de alta entropía soportadas en carbono para producir hidrógeno."
+        },
+        {
+          "t": "p",
+          "x": "El equipo evaluó a mano 100 ejemplos de la salida de la AI para refinar el sistema, que después extrajo información de más de 5,000 artículos de investigación."
+        },
+        {
+          "t": "p",
+          "x": "Cuando el sistema se restringió al conocimiento disponible hasta 2017, señaló la aleación CrCoFeMnNi, que después se reportó experimentalmente como uno de los primeros ejemplos de aleaciones de alta entropía en electrocatálisis de hidrógeno."
+        },
+        {
+          "t": "p",
+          "x": "El estudio es computacional, por lo que los nuevos materiales candidatos propuestos y cualquier mejora en el costo o el rendimiento del hidrógeno siguen sin verificarse. Los autores sugieren que el enfoque podría extenderse a la reducción de CO₂ y, con el tiempo, al descubrimiento de nuevas reacciones."
+        },
+        {
+          "t": "p",
+          "x": "El trabajo, de Yiran Jiao et al., se publica en ACS Catalysis (2026). DOI: 10.1021/acscatal.6c00635."
+        }
+      ]
     }
   }
 }

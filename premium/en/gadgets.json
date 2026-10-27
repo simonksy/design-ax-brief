@@ -9762,6 +9762,175 @@
           "x": "Pricing begins at $6,499 for the 2TB configuration and $6,799 for 4TB, plus a $69 delivery charge, before import duties and taxes. Coming from a relatively unknown brand with only a one-year warranty, a purchase approaching $7,000 is a considerable gamble."
         }
       ]
+    },
+    "gadgets/gadgets-macbook-pro-m6": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7moKw5F2gzMVH2GPuzQHMT.jpg",
+          "cap": "(Image credit: Apple)"
+        },
+        {
+          "t": "p",
+          "x": "Apple has unveiled an October refresh of its 14-inch MacBook Pro complete with the M6 processor, as part of its \"Pro and tell\" announcements. It doesn't come with a touchscreen or much in the way of a new design, and it will ship with macOS 27 Golden Gate, which includes the next version of Apple Intelligence and Siri AI."
+        },
+        {
+          "t": "p",
+          "x": "The new M6 MacBook Pro starts at $1,999 with an M6 chip, 16GB of RAM and 1TB of storage. Pre-orders begin on Wednesday, October 28, and shipping will begin on November 6."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/yqvquafwQnwqJ9V45U4NLR.jpg",
+          "cap": "(Image credit: Apple)"
+        },
+        {
+          "t": "p",
+          "x": "The M6 moves to a 2-nanometer architecture and adds two cores to both the CPU and GPU over the M5's 10-core CPU and 10-core GPU. It also has a Dual 16-core Neural Engine for AI and machine learning, supported by Neural Accelerators in each GPU core. Apple says the 12-core GPU delivers up to 30 percent faster graphics and up to 25 percent faster AI workloads when compared to M5."
+        },
+        {
+          "t": "p",
+          "x": "The MacBook Pro also gets Apple's N1 chip with Wi-Fi 7 and Bluetooth 6, and Apple says battery life reaches up to 24 hours overall."
+        }
+      ]
+    },
+    "gadgets/gadgets-galaxy-buds-on": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26121640/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main1.jpg",
+          "cap": "Galaxy Buds On"
+        },
+        {
+          "t": "p",
+          "x": "Samsung Electronics has launched Galaxy Buds On, its first open-ear earbuds. Combining a clip-on design with rich sound and AI-powered features, Galaxy Buds On offers greater freedom and flexibility. The clip-on design rests lightly on the ears and stays securely in place even with vigorous head movements."
+        },
+        {
+          "t": "p",
+          "x": "Saying “Hey Google, let’s talk Live” launches Gemini Live, allowing users to ask for running route recommendations without taking out their smartphones. Galaxy Buds On offers hands-free access to Gemini Live when paired with a Galaxy AI-enabled smartphone."
+        },
+        {
+          "t": "video",
+          "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/27174131/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main6-1.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Voice commands like “Next song” or “Volume up” control playback without touching the earbuds. After a meeting, Quick Voice Memo starts recording when users press and hold an earbud; later, they can ask Bixby about their tasks and hear the details aloud. With Head Gestures, users can nod to answer incoming calls or shake their heads to decline them."
+        },
+        {
+          "t": "img",
+          "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26122922/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main10.jpg",
+          "cap": "Galaxy Buds On features Intelligent Clear Call."
+        },
+        {
+          "t": "p",
+          "x": "Intelligent Clear Call uses three microphones, a bone conduction-based Voice Pickup Unit Sensor, and a machine learning-based solution to isolate the user’s voice and reduce background noise."
+        }
+      ]
+    },
+    "gadgets/gadgets-opera-webai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-WebAI.jpeg?resize=1200%2C720&ssl=1",
+          "cap": "Opera"
+        },
+        {
+          "t": "p",
+          "x": "Opera’s new WebAI preview lets websites and browser extensions use local models inside Opera One without requiring another AI subscription or sending the information they handle to a cloud service. The opt-in preview is rolling out on supported Windows PCs and Apple silicon Macs."
+        },
+        {
+          "t": "p",
+          "x": "WebAI is a proposed web standard that gives websites and extensions access to AI through the browser. Opera says the effort has backing from Google and Microsoft. Its implementation is model-agnostic and centered on open models."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-AI.jpeg?resize=1350%2C810&ssl=1",
+          "cap": "Opera"
+        },
+        {
+          "t": "p",
+          "x": "Opera One can tap Google’s Gemma models, while compatible Macs can also use Apple’s on-device foundation model. One example extension can sort a messy tab collection, while another can flag clickbait."
+        },
+        {
+          "t": "p",
+          "x": "WebAI is disabled by default. Nothing is downloaded until the user enables it, and each site needs permission before it can access the browser’s local AI. Speed and capability depend on the computer. Opera GX and Opera Neon are scheduled to receive WebAI later."
+        }
+      ]
+    },
+    "gadgets/gadgets-nokia-claude-s40": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/intro-1792779965.jpg",
+          "cap": "AIKON is an app that allows old Nokia S40 and S60 phones to connect to chatbots like Claude."
+        },
+        {
+          "t": "p",
+          "x": "The original Nokia 6300 is a 2G phone whose browser was never updated beyond TLS 1.0, meaning it essentially can't access the modern internet. In late September, Turkish entrepreneur Emir Karşıyakalı showed off Claude S40, an app he vibe coded to connect his old Nokia 6300 with Claude over a Java and Go backend."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/meet-aikon-1792779966.jpg",
+          "cap": "Two screenshots showing off the AIKON interface."
+        },
+        {
+          "t": "p",
+          "x": "He has since updated it to work with ChatGPT, Gemini and Grok, and renamed it Aikon — Nokia spelt backwards. A Go server holds the API key and truncates chatbot responses into 8kB blocks the old phone can read."
+        },
+        {
+          "t": "p",
+          "x": "The app offers a reading mode, offline saving of responses to a memory card, photo uploads and voice messages up to 30 seconds long. Karşıyakalı has open sourced it. In the US it won't run, since the nation's last 2G network went offline when T-Mobile shut down its GSM network in August."
+        }
+      ]
+    },
+    "gadgets/gadgets-siri-ios272": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&strip=all&w=1600",
+          "cap": "Siri AI"
+        },
+        {
+          "t": "p",
+          "x": "Apple is rolling out its 27.2 software updates today, and among a variety of new features, they introduce several improvements for Siri AI. Here’s what’s new."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "Siri AI launched last month in iOS 27 as a major overhaul of Apple’s assistant. But Siri is getting even better today with new 27.2 software updates that are rolling out."
+        },
+        {
+          "t": "p",
+          "x": "New Siri AI features include:"
+        },
+        {
+          "t": "p",
+          "x": "Conversation recall: Siri AI can now retain useful context from prior conversations, so you can ask it about things you’ve previously discussed such as restaurants it previously recommended."
+        },
+        {
+          "t": "p",
+          "x": "Personal context upgrades: More personal context sources can now be tapped into by Siri AI to provide a better answer, including “photos attached in Messages, Calendar event attendees, your voicemails, and better results from Safari history and Reading List”."
+        },
+        {
+          "t": "p",
+          "x": "More languages: Expanding beyond English, Siri AI now also supports French, Japanese, Korean, Portuguese, and Spanish."
+        },
+        {
+          "t": "p",
+          "x": "Faster on Apple Watch: Apple says that in watchOS 27.2, Siri AI provides faster responses than before."
+        },
+        {
+          "t": "p",
+          "x": "Users can benefit from these Siri AI upgrades across iPhone, iPad, Mac, and more with iOS 27.2, iPadOS 27.2, macOS 27.2, and other companion releases."
+        },
+        {
+          "t": "p",
+          "x": "With AI models from companies like OpenAI and Anthropic always improving, it’s great to see Apple already iterating on Siri AI so shortly after it launched. Here’s hoping the assistant keeps getting better with each new software update."
+        }
+      ]
     }
   }
 }

@@ -9091,6 +9091,119 @@
           "x": "No further statement accompanied the episode. The move comes after Musk repeatedly criticized Nolan’s “The Odyssey” ahead of its release, especially the casting of Elliot Page as Sinon and Lupita Nyong’o as Helen of Troy."
         }
       ]
+    },
+    "movies/sntpct": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline_medium/public/image/attached/1081637-sntpct-flyer-1.jpg?itok=HI648P_C"
+        },
+        {
+          "t": "p",
+          "x": "France's majority animation union is asking every animation and VFX worker in the country to stop work from 2 p.m. to 4 p.m. on November 18, pressing AnimFrance and SPI on pay, generative AI, job titles and public holidays."
+        },
+        {
+          "t": "p",
+          "x": "The SNTPCT is pressing four demands: guaranteed minimum salaries raised 11.2% to catch up with inflation since 2007, taking effect January 1, 2027; 13 \"assistant\" positions removed from the animation labor agreement; rules on generative AI written into the agreement; and all 11 public holidays in the French Labor Code, where the animation agreement provides five."
+        },
+        {
+          "t": "p",
+          "x": "Its generative AI amendment, submitted at the end of 2025, rests on three principles: employers may not compel workers to use or develop GenAI tools or make that a condition of employment; producers may not generate images, sounds or text from a worker's creations without that worker's written authorization; and any use of GenAI must be acknowledged in a film's credits, so that no worker is credited with work they did not do."
+        },
+        {
+          "t": "p",
+          "x": "The walkout covers companies producing animated films, series and commercials, including animation production for video games, as well as VFX studios. November 18 is the opening day of the RADI-RAF conferences in Angoulême, where the main gathering will take place."
+        }
+      ]
+    },
+    "movies/newangles": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "EPYh_bgXJBk"
+        },
+        {
+          "t": "p",
+          "x": "This AI trick Magically Creates New Camera Angles — a short from Curious Refuge."
+        },
+        {
+          "t": "p",
+          "x": "In the full tutorial, Curious Refuge tests three different ways to generate new camera angles from an existing video, using Seedance 2.5 on both live-action footage and an AI-generated scene, from letting AI automatically choose the coverage to manually defining exactly where each new camera angle should go."
+        }
+      ]
+    },
+    "movies/runwaysafety": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "NAKB5ixP6Kw"
+        },
+        {
+          "t": "p",
+          "x": "The new rules of safety in an era of real-time video generation | Runway AI Summit SF 2026."
+        },
+        {
+          "t": "p",
+          "x": "Roblox's VP of safety policy Eliza Jacobs and Runway's head of AI safety and responsibility Conner McDowell join Zentropy co-founder Samit Chakrabarti for a 25-minute panel on safeguarding real-time video generation — historically one of the hardest problems in trust and safety, and a case study for real-time AI more generally, including agents making tool calls."
+        }
+      ]
+    },
+    "movies/vcat-tvasahi": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.venturesquare.net/wp-content/uploads/2026/10/vcat.png",
+          "cap": "VCAT took part as an AI video production company in a period drama series released by Japan's TV Asahi and Netflix. (Image: VCAT)"
+        },
+        {
+          "t": "p",
+          "x": "The use of generative artificial intelligence (AI) video is moving beyond advertising and short-form content into broadcast drama. VCAT (VCAT.AI, CEO Jeong Beom-jin), an all-in-one AI marketing agent, said it took part as an AI video production company in 'Sanada Juyushi (真田十勇士)', a 7-part period drama from Japan's TV Asahi."
+        },
+        {
+          "t": "p",
+          "x": "'Sanada Juyushi' tells the story of 10 retainers said to have served Sanada Yukimura, a warlord of Japan's Sengoku period. It was co-produced by TV Asahi and Japanese film studio Toei (東映); it premiered on TV Asahi on the 23rd and is available on Netflix from the 24th."
+        },
+        {
+          "t": "p",
+          "x": "On this production, VCAT handled demanding action scenes with a lot of actor and camera movement. It combined AI and VFX technology by changing the backgrounds of live-action footage or adding characters. Characters, backgrounds and buildings were built on historical reference material from Japan's Sengoku period."
+        },
+        {
+          "t": "p",
+          "x": "The collaboration came about when the TV Asahi production team sought an additional AI production company to handle scenes that were hard to process with conventional VFX alone and a growing workload. According to the company, VCAT is the only Korean AI production company to take part in the production. VCAT also seamlessly joined footage shot outdoors and indoors."
+        },
+        {
+          "t": "p",
+          "x": "Ahead of the drama's release, VCAT unveiled a promotional video produced entirely with AI, without any separate live-action shoot. The video was shown on a billboard in Times Square, New York, U.S. on the 19th (local time), and was also featured on a Japanese terrestrial broadcast program on the 21st."
+        },
+        {
+          "t": "p",
+          "x": "VCAT CEO Jeong Beom-jin said, “Building on capabilities proven on Japanese broadcast sets, we will set a new standard for AI video production in the global broadcast and entertainment market.”"
+        }
+      ]
+    },
+    "movies/movies-runway-app-studio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/hero-1600-900-social-og-2x-355537f0-b954-4a87-8955-47c89bc15d4b.png"
+        },
+        {
+          "t": "p",
+          "x": "Today, we're launching App Studio, a new, on-demand way to build custom creative software inside Runway. Describe the tool you need in plain language and App Studio builds a custom app with its own interface that generates images, video and audio using your Brand Kits and your Workflows. Use it yourself, share it with your team or publish a link anyone with a Runway account can use."
+        },
+        {
+          "t": "p",
+          "x": "App Studio launches with built-in apps such as Character Swap, AutoComp, Product Portfolio, 3D Camera Control, Precise Edit and Runway Pro. Global architecture firm KPF used App Studio to build an app that brings its design renderings to life: designers mark what should move in a still image, draw a camera path and get back directed video of the design."
+        },
+        {
+          "t": "p",
+          "x": "If you already have an Agent session or Workflow that produces the result you want, you can turn it into an app in one click. You can also start from scratch. App Studio writes, tests and deploys every app, and the code stays visible for anyone who wants to inspect it."
+        },
+        {
+          "t": "p",
+          "x": "Every app is private to its creator until they choose to share it. App Studio is included in every paid plan with no new purchase or add-on, and building, running and hosting apps all draw from your existing Runway credit balance. App Studio is available to all paid plans now."
+        }
+      ]
     }
   }
 }

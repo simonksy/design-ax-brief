@@ -1,31 +1,32 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "section": "marketing",
   "media": [
     {
-      "id": "marketing-chatgpt-ads-amazon-dsp",
+      "id": "metaaiads",
       "type": "image",
-      "src": "pipeline/media/marketing-chatgpt-ads-amazon-dsp.png"
+      "src": "pipeline/media/metaaiads.jpg"
     },
     {
-      "id": "marketing-therealreal-ai-agents",
+      "id": "shopifykb",
       "type": "image",
-      "src": "pipeline/media/marketing-therealreal-ai-agents.jpg"
+      "src": "pipeline/media/shopifykb.jpg"
     },
     {
-      "id": "marketing-fanatics-openai-shopping",
+      "id": "indentm",
       "type": "image",
-      "src": "pipeline/media/marketing-fanatics-openai-shopping.png"
+      "src": "pipeline/media/indentm.png"
     },
     {
-      "id": "marketing-ai-personalized-pricing",
+      "id": "dailymailgeo",
       "type": "image",
-      "src": "pipeline/media/marketing-ai-personalized-pricing.jpg"
+      "src": "pipeline/media/dailymailgeo.jpg"
     },
     {
-      "id": "marketing-google-ads-ai-max-experiment",
-      "type": "image",
-      "src": "pipeline/media/marketing-google-ads-ai-max-experiment.jpg"
+      "id": "fakeaireviews",
+      "type": "video",
+      "src": "pipeline/media/fakeaireviews.mp4",
+      "poster": "pipeline/media/fakeaireviews.jpg"
     }
   ]
 }

@@ -9530,6 +9530,123 @@
           "x": "他的原则是：用 AI 打造功能，而不是打造 AI 功能，比如 Smart Compose 或 Photoshop 的 Remove 工具。发布之前要问：谁提出过需求？它以什么命名？你是否愿意默认关闭它发布？按成本价它还能活下来吗？"
         }
       ]
+    },
+    "design/figma-agent-shaders": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "BS-N-AM5ql4"
+        },
+        {
+          "t": "p",
+          "x": "欢迎收看Figma on Figma系列，我们在这里展示自己如何在日常工作流程中使用自家工具，或者只是展示一些很酷的东西。本期由Designer Advocate Brett McMillin带我们了解，他如何结合动效和自定义着色器效果使用Figma的智能体，探索新的创意。"
+        },
+        {
+          "t": "p",
+          "x": "00:00 – Intro（开场），Brett McMillin · 00:45 – Exploring Figma motion & shaders example（探索Figma动效与着色器示例） · 01:45 – Automating Motion with the Figma agent（用Figma智能体自动生成动效） · 02:45 – Custom Shader Generation（生成自定义着色器） · 03:00 – Stacking Built-in & Custom Effects（叠加内置与自定义效果） · 03:28 – Real-time Light Refraction Through Glass（光线穿过玻璃的实时折射）"
+        }
+      ]
+    },
+    "design/etsy-ai-photos": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/uzZxJaKSXhN5uxfLGfsSNd-1600-80.jpg",
+          "cap": "Etsy的James Ossman在YouTube视频中解读了平台新规（Image credit: Etsy）"
+        },
+        {
+          "t": "p",
+          "x": "当一个专注手工设计的平台需要一条禁止假照片的规则时，事情就已经不对劲了。那么，Etsy为何突然告诉卖家：“你所出售商品的照片，就应该真的是你所出售商品的照片”？"
+        },
+        {
+          "t": "p",
+          "x": "上周，这个手工商品平台宣布，每个商品页面现在必须至少包含一张在真实背景下拍摄、未经修图的实物照片。它还明确禁止使用AI图像生成器制作面向顾客的图样、食谱和说明，并禁止由机器人创建的商品页面。AI-generated艺术在Etsy上仍然允许，但卖家需要明确说明这一点。"
+        },
+        {
+          "t": "video",
+          "yt": "QHMQbCF5PeM"
+        },
+        {
+          "t": "p",
+          "x": "投诉正迅速增加，Etsy不得不有所行动。创作者Kara Lynne在X上写道：“我买了一份钩针图样，打开PDF却发现完全是AI-generated的，内容说不通，也和成品应有的样子完全不符，那种愤怒我真的无法形容。”"
+        },
+        {
+          "t": "p",
+          "x": "此前，Spotify下架了50 million 首AI歌曲，Snap将gen-AI内容排除在推荐之外，LinkedIn增加了举报按钮，如今Etsy也跟进了。新规不会解决所有问题，但它承认，人们购买“手工”商品时，想知道它是否真的由人制作。"
+        }
+      ]
+    },
+    "design/edenlive": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "NbWLqOfP3XI"
+        },
+        {
+          "t": "p",
+          "x": "生成式3D 平台Tripo背后的研究团队Vast AI Research发布了EdenLive，这是一款新的开源实时生成式渲染器。它是Vast AI Research面向交互环境的世界模型Project Eden的一部分，需要输入2D 或3D 场景或参考视频、目标首帧以及文本提示词。"
+        },
+        {
+          "t": "p",
+          "x": "该模型能“将粗糙的画面…转化为更丰富、更精细的视频”，例如把预演或游戏品质的动画转换为更逼真的输出。EdenLive只能生成480p 或720p 分辨率的视频，因此实际用途有限，但速度足以实时运行。"
+        },
+        {
+          "t": "p",
+          "x": "据Vast AI介绍，使用5B 模型权重时，EdenLive可在单块高端消费级GPU NVIDIA GeForce RTX 5090上以“超过24fps”的速度生成720p 视频。用例包括将白模转换为高质量的预演或动画预览。源代码以Apache 2.0许可证发布，5B 和14B 模型权重已上传至Hugging Face。"
+        },
+        {
+          "t": "p",
+          "x": "同一篇CG Channel汇总还介绍了Gaffer 1.7.5和KeenFace：前者新增了MCP服务器，让AI助手可以控制它；后者是KeenTools推出的AI-powered浏览器工具，可根据2-15 张源图像生成3D 头部。"
+        }
+      ]
+    },
+    "design/cli-anything": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/4585b919-e424-4ad3-8faf-651c238aaf56.png?fm=auto&w=1200&h=630&fit=crop"
+        },
+        {
+          "t": "p",
+          "x": "CLI-Anything是HKUDS推出的开源项目。HKUDS是香港大学（University of Hong Kong）的数据智能实验室，LightRAG也出自该实验室。它能针对GIMP、Blender、LibreOffice等桌面软件，生成一套可供编程智能体操作的完整命令行界面，并配有测试、文档和技能文件。该仓库已获得超过54,000颗星，采用Apache 2.0许可证发布。"
+        },
+        {
+          "t": "p",
+          "x": "AI智能体擅长读写文本，而不是点击像素。GUI自动化速度慢，UI元素一移动就会失效；大多数创意应用也没有提供原生API。CLI可以同时绕开这两个问题，CLI-Anything的每条命令都支持用于结构化输出的--json标志，并提供支持撤销和重做的REPL模式。"
+        },
+        {
+          "t": "p",
+          "x": "CLI Hub是一个包管理器，收录了他人已经构建好的CLIs，包括Blender、Inkscape、Audacity、OBS Studio、LibreOffice、Kdenlive、draw.io、ComfyUI和FreeCAD。生成的CLIs在底层调用真实的应用程序，因此GIMP CLI仍需安装GIMP。"
+        },
+        {
+          "t": "p",
+          "x": "CLI生成器是Claude Code的插件，也支持Cursor、Codex和Open Code，它运行一条七阶段流水线；项目方称，在约30个生成的测试框架中，已有超过2,400项测试通过。"
+        }
+      ]
+    },
+    "design/design-gemini-brand-style": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://designcompass.org/wp-content/uploads/2026/10/Gemini-Brand-Style-Remembered-1-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google推出了面向小企业的Gemini功能“On-Brand Visuals”。该功能于2026年10月20日发布，是一款在保持用户注册的品牌风格的同时生成新图像的工具。它以网站、品牌套件、字体排印和色板为基础确定视觉方向。"
+        },
+        {
+          "t": "p",
+          "x": "图像生成采用Nano Banana 2.1模型。Gemini会保存已设置的风格，用于生成产品发布或营销活动所需的图像。这种方式减少了每项任务都重新上传同一套规范的需要。其设计目标不止于把品牌素材用作单张图像的参考，而是让它们在后续项目中持续使用。"
+        },
+        {
+          "t": "p",
+          "x": "还为小企业主准备了专属起始界面，这是处理品牌建设、财务分析、客户数据等各类任务的空间。除Google Workspaces和广告工具外，还可连接Adobe、Canva、Shopify、Wix等外部应用。"
+        },
+        {
+          "t": "p",
+          "x": "该功能把品牌视觉一致性融入图像生成流程。不过，官方公告并未包含关于其遵守标志形状或字体使用规则准确度的验证结果。在实际内容中使用前，有必要将生成的图像与原始规范进行对照。商业起始界面和新的连接应用将陆续向全球Gemini应用用户推出。"
+        }
+      ]
     }
   }
 }

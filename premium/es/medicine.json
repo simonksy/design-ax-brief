@@ -2405,6 +2405,122 @@
           "x": "Rivanna también desarrolla un módulo en fase de investigación para ayudar a los clínicos a evaluar posibles fracturas de extremidades en imágenes de ecografía. La empresa indicó que el trabajo ha contado con el apoyo de la U.S. Biomedical Advanced Research and Development Authority."
         }
       ]
+    },
+    "medicine/medicine-chatgpt5-fracture": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "ChatGPT-5 no detectó aproximadamente la mitad de las fracturas distales de radio en x-rays simples cuando recibió una única instrucción binaria de fractura o no fractura, según un estudio publicado el 26 de octubre en Emergency Radiology por un grupo del Rambam Health Care Campus de Haifa, Israel."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores enviaron 370 x-rays anteroposteriores de radio distal del conjunto de datos Stanford MURA a ChatGPT-5 a través de su interfaz web pública con un enfoque zero-shot. Preguntaron: “¿Hay una fractura en esta X-ray? Responde con yes o no.”"
+        },
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/chatgpt-fractures.umykcGJONV.jpg?auto=format%2Ccompress&fit=max&q=70&w=800",
+          "cap": "Resultados representativos de ChatGPT-5 frente al estándar de referencia. Emergency Radiology"
+        },
+        {
+          "t": "p",
+          "x": "La prevalencia de fracturas en la muestra analizada fue del 45.9% (170/370). ChatGPT-5 no detectó 83 fracturas, con una sensibilidad del 51.2%, una especificidad del 70.5% y una precisión global del 61.6%. Los falsos negativos superaron de forma significativa a los falsos positivos."
+        },
+        {
+          "t": "p",
+          "x": "\"Dicho claramente: un chatbot de uso general no debe utilizarse para decidir si una radiografía muestra una fractura\", escribieron los investigadores."
+        }
+      ]
+    },
+    "medicine/medicine-ich-triage": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "PHILADELPHIA -- Un enfoque de triaje AI-based podría reducir los tiempos de respuesta en entornos de urgencias, según los resultados presentados el 27 de octubre en la reunión SIIM-CAIMI 2026 por Ai Tong, PhD, de la University of Washington en Seattle."
+        },
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/img-7815.SDSxU6LNkw.jpg?auto=format%2Ccompress&fit=max&q=70&w=800",
+          "cap": "Ai Tong, PhD, presenta el uso por parte de su equipo de un enfoque de triaje de ICH AI-based."
+        },
+        {
+          "t": "p",
+          "x": "El sistema de triaje con AI alcanzó una sensibilidad del 79.3%, una especificidad del 94.2% y una puntuación F1 de 0.78 frente a etiquetas de ICH NLP-derived. En los estudios ICH-positive, el triaje con AI redujo la mediana del tiempo de informe de 214 a 201 minutos (p = 0.03)."
+        },
+        {
+          "t": "p",
+          "x": "Entre 10,898 atenciones de urgencias pre-AI y 9,317 post-AI, los casos AI-positive tuvieron un tiempo hasta el ingreso más corto (mediana de 423.5 minutos) que los casos AI-negative (523.0 minutos; p = 0.004)."
+        },
+        {
+          "t": "p",
+          "x": "“Este [estudio] es preliminar y solo correlacional”, dijo Tong, y añadió que los hallazgos sugieren que el impacto clínico del triaje con AI va más allá de la eficiencia en radiología."
+        }
+      ]
+    },
+    "medicine/medicine-mmc-drift": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La integración de la inteligencia artificial (AI) en la imagen médica clínica ha hecho avanzar el diagnóstico, pero también plantea retos para mantener la fiabilidad a largo plazo a medida que cambian los datos de entrada. Para abordarlo, presentamos MMC+, un marco modular para la monitorización escalable de la deriva que se basa en nuestro marco CheXstray de detección de deriva en tiempo real mediante concordancia de datos multimodales (MMC)."
+        },
+        {
+          "t": "p",
+          "x": "MMC+ ofrece una arquitectura flexible que permite una monitorización continua y rentable del rendimiento en entornos sanitarios reales. Entre las capacidades del marco figuran la agregación de información de múltiples flujos de datos mediante pruebas estadísticas o métricas de distancia, el uso de embeddings de modelos fundacionales para eliminar la necesidad de entrenar codificadores específicos para cada centro, y la cuantificación de la incertidumbre para comunicar mejor la relevancia de la deriva."
+        },
+        {
+          "t": "p",
+          "x": "Validado con datos del Massachusetts General Hospital durante la pandemia de COVID-19, MMC+ detecta de forma eficaz cambios significativos en los datos que se correlacionan con variaciones del rendimiento e indica cuándo los sistemas de AI pueden desviarse de los límites de rendimiento aceptables. El código de MMC+ está disponible públicamente, lo que favorece una adopción más amplia de soluciones de AI en entornos clínicos."
+        }
+      ]
+    },
+    "medicine/medicine-uhc-avery": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1635360990/UnitedHealthcare_sign.jpg/UnitedHealthcare_sign.jpg?VersionId=mRAMc4oGgCt6.6zJw_PKJwe2kXPjRXqW",
+          "cap": "La precisión es clave para que los afiliados confíen en la herramienta y la usen con la mayor eficacia, dijo Craig Kurtzweil, director de datos y análisis de UnitedHealthcare. (UnitedHealthcare)"
+        },
+        {
+          "t": "p",
+          "x": "A principios de este año, UnitedHealthcare presentó Avery, un compañero de AI generativa pensado para apoyar la coordinación de la atención de sus afiliados. Entonces, la herramienta estaba disponible para unos 6.5 millones de afiliados en planes de empleador y 160,000 personas inscritas en Medicare Advantage. Ahora, la aseguradora amplía el acceso a 21 millones de sus afiliados."
+        },
+        {
+          "t": "p",
+          "x": "Hasta la fecha, la compañía ha comprobado que Avery ha resuelto el 90% de las interacciones con afiliados y, en el 10% restante de los casos, puede derivarlas a un asesor humano para ofrecer apoyo al afiliado."
+        },
+        {
+          "t": "p",
+          "x": "Kurtzweil dijo que una pieza clave del funcionamiento de Avery es que se basa en \"ground truth systems\" que crean una base de datos fundamental para la plataforma. Avery puede ofrecer datos clave sobre deducibles, máximos de gastos de bolsillo, redes de proveedores, precios y tramitación de reclamaciones."
+        },
+        {
+          "t": "p",
+          "x": "El equipo también desarrolla funciones adicionales para Avery, como la opción de llamar a proveedores y programar citas en nombre del afiliado. UnitedHealthcare pretende, en última instancia, que todos sus inscritos puedan usar la herramienta."
+        }
+      ]
+    },
+    "medicine/medicine-cari-heart": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cardiovascularbusiness.com/sites/default/files/styles/top_stories/public/2026-10/caristo_fai_used_in_first_us_study_since_fda_clearance.jpg.webp?itok=TH_ctwZ9",
+          "cap": "La AI-assessment de Caristo basada en el índice de atenuación grasa (FAI) evalúa la inflamación coronaria en estudios CCTA y puede mostrar el riesgo cardiaco residual del paciente que no se ve en las evaluaciones cardiacas tradicionales."
+        },
+        {
+          "t": "p",
+          "x": "El primer estudio en U.S. de la tecnología CaRi-Heart de Caristo Diagnostics, FDA-cleared para detectar inflamación coronaria, encontró que un gran número de pacientes adultos asintomáticos tenía en realidad un riesgo elevado de eventos cardiacos."
+        },
+        {
+          "t": "p",
+          "x": "El estudio, realizado por la clínica de medicina concierge Biograph, aplicó el algoritmo de AI del índice de atenuación grasa (FAI) de Caristo a tomografías cardiacas (CT) preventivas y halló inflamación en el 42.9% de los participantes. De ellos, el 17.9% presentaba niveles de inflamación muy altos en al menos una arteria principal. Cerca del 47% de los participantes sin placa coronaria detectable tenía inflamación perivascular coronaria elevada, lo que aumenta su riesgo de un evento cardiaco."
+        },
+        {
+          "t": "p",
+          "x": "“Lo crucial es que ningún biomarcador sanguíneo rutinario, indicador lipídico ni puntuación de riesgo clínico pudo identificar a estas personas con arterias coronarias inflamadas”, dijo Michael Doney, MD, director médico ejecutivo de Biograph. Añadió que hace falta más investigación para validarlo y establecer el valor pronóstico del FAI."
+        },
+        {
+          "t": "p",
+          "x": "La FDA otorgó la autorización de comercialización de novo a la tecnología CaRi-Heart a finales de julio. Es la primera tecnología capaz de visualizar y cuantificar con claridad la inflamación coronaria mediante puntuaciones FAI."
+        }
+      ]
     }
   }
 }

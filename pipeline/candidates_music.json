@@ -1,160 +1,106 @@
 {
-  "section": "music",
-  "now_iso": "2026-10-27T01:45:00Z",
-  "window_hours": 336,
-  "items": [
-    {
-      "title": "Charlotte de Witte collaborates with AI vocalist NAVA",
-      "url": "https://ra.co/news/86257",
-      "source": "Resident Advisor",
-      "category": "music",
-      "published_iso": "2026-10-23T09:30:00.000Z",
-      "excerpt": "The Belgian techno artist's three-track Azadi EP features vocals from NAVA, an AI-generated Persian singer created by British-Iranian artist Farbod Mehr.",
-      "og_image": "https://static.ra.co/images/news/2026/charlotte-navanull.png"
-    },
-    {
-      "title": "SSL 4K sonible Assistance Add-on (review)",
-      "url": "https://www.soundonsound.com/reviews/ssl-4k-sonible-assistance-add",
-      "source": "Sound On Sound",
-      "category": "music",
-      "published_iso": "2026-10-22T10:44:15+01:00",
-      "excerpt": "SSL and sonible bring an optional AI 'mix engineer assistant' add-on to all three SSL 4000-series channel-strip plug-ins: hit Learn, pick one of 15 instrument profiles and an EQ/compression style, and it proposes settings.",
-      "og_image": null
-    },
-    {
-      "title": "At ADE 2026, a Top Music Lawyer Talks AI, Independence & What the Biz Can Learn From Radiohead",
-      "url": "https://www.billboard.com/lists/ade-2026-cliff-fluet-talk-ai-streaming-fan-engagement/",
-      "source": "Billboard",
-      "category": "music",
-      "published_iso": "2026-10-26T23:57:09+00:00",
-      "excerpt": "At ADE 2026 lawyer Cliff Fluet argued that in a consent-based AI market the manager controls voice-and-likeness licensing, and that the club/DJ/live scene insulates electronic music from AI disruption.",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2026/10/BB_ADE-2026.jpg?w=1024"
-    },
-    {
-      "title": "AI-Generated Music and the Future of Creativity Discussed at Billboard Latin Music Week",
-      "url": "https://www.billboard.com/pro/ai-music-protect-human-creators-billboard-latin-music-week/",
-      "source": "Billboard",
-      "category": "music",
-      "published_iso": "2026-10-21T22:08:29+00:00",
-      "excerpt": "A Billboard Latin Music Week panel debated AI-generated music and how to protect human creators, with industry executives weighing consent, compensation and creative use.",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2026/10/LMW-AI-Panel-billboard-1800.jpg?w=1024"
-    },
-    {
-      "title": "Spotify Co-CEOs Talk AI Remixing Tool: 'We're the Right Company to Do This'",
-      "url": "https://www.billboard.com/pro/spotify-co-ceos-talk-ai-music-remixing-tool-subscribers/",
-      "source": "Billboard",
-      "category": "music",
-      "published_iso": "2026-10-22T20:47:12+00:00",
-      "excerpt": "On Spotify's Q3 call the co-CEOs discussed the coming AI remixing/cover tool for subscribers, framing it as a new revenue stream for licensed rightsholders.",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2026/10/2277532373.jpg?w=1024"
-    },
-    {
-      "title": "'Movin' to the Sun' shows grey areas between AI and human music",
-      "url": "https://musically.com/2026/10/26/movin-to-the-sun-shows-grey-areas-between-ai-and-human-music/",
-      "source": "Music Ally",
-      "category": "music",
-      "published_iso": "2026-10-26T12:30:00+00:00",
-      "excerpt": "Hugel's dancefloor hit started life as a Suno-generated song from a human-written lyric and melody before being rebuilt with Ultra Nate's vocals, blurring the line between AI and human-made music.",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-26T105845.322.png?fit=2000%2C1500&ssl=1"
-    },
-    {
-      "title": "MLC, Apple Music, & Others Face Subpoenas Amid UMG v. Suno",
-      "url": "https://www.digitalmusicnews.com/2026/10/26/suno-subpoenas-umg-apple-music/",
-      "source": "Digital Music News",
-      "category": "music",
-      "published_iso": "2026-10-26T22:18:45+00:00",
-      "excerpt": "Non-parties including the MLC, Apple Music and DistroKid now face subpoenas in the UMG v. Suno case, which could force disclosure of how much AI-generated music reaches DSPs.",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Suno-Subpoenas.jpg"
-    },
-    {
-      "title": "Major Labels to Depose Menlo Vet C.C. Gong Over Suno Tweet",
-      "url": "https://www.digitalmusicnews.com/2026/10/26/cc-gong-suno-tweet-deposition/",
-      "source": "Digital Music News",
-      "category": "music",
-      "published_iso": "2026-10-26T17:34:27+00:00",
-      "excerpt": "A judge cleared Universal and Sony to depose former Menlo Ventures principal C.C. Gong over a deleted post saying she had shifted most of her listening from Spotify to Suno, testing Suno's fair-use market-harm defense.",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Suno-Menlo-Subpoena.jpg"
-    },
-    {
-      "title": "ICMP Says Australian Songs Used to Train AI Sans Compensation",
-      "url": "https://www.digitalmusicnews.com/2026/10/19/icmp-kylie-minogue-songs-train-ai/",
-      "source": "Digital Music News",
-      "category": "music",
-      "published_iso": "2026-10-20T04:00:26+00:00",
-      "excerpt": "ICMP warns AI firms are pressuring Australia to water down copyright for training, citing Kylie Minogue and Nick Cave hits already used to train models without payment.",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/major-australian-hits-kylie-minogue-nick-cave-already-used-to-train-ai.png"
-    },
-    {
-      "title": "Stop sending me vibecoded plugins, I'm begging you",
-      "url": "https://musictech.com/features/opinion-analysis/stop-sending-me-vibecoded-ai-plugins/",
-      "source": "MusicTech",
-      "category": "music",
-      "published_iso": "2026-10-21T10:04:18+00:00",
-      "excerpt": "MusicTech's inbox is drowning in AI vibe-coded plugins; the piece explains why that is a problem for producers and which indie developers are using AI coding tools properly.",
-      "og_image": "https://musictech.com/wp-content/uploads/2026/10/vibecoded-ai-plugin-hero@2000x1500-1068x801.jpg"
-    },
-    {
-      "title": "Is The Humanity of Instruments Under Threat from AI?",
-      "url": "https://www.gearnews.com/humanity-instruments-ai-threat-synths/",
-      "source": "Gearnews",
-      "category": "music",
-      "published_iso": "2026-10-18T18:00:00+02:00",
-      "excerpt": "As vibe-coded instrument plugins surge, Gearnews asks whether AI-built tools risk losing the human design choices that make instruments inspiring.",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/10/AI-Human.jpg"
-    },
-    {
-      "title": "Fender Studio Pro 8.2 Update: New Mixing and Workflow Features",
-      "url": "https://www.gearnews.com/fender-studio-pro-daw/",
-      "source": "Gearnews",
-      "category": "music",
-      "published_iso": "2026-10-21T09:00:44+02:00",
-      "excerpt": "Fender Studio Pro 8.2 adds mixing and workflow upgrades plus AI-assisted drum and note extraction that converts audio drum hits and melodies into MIDI.",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/01/fender-studio-pro-8-1-ft.jpg"
-    },
-    {
-      "title": "The 7 Weirdest NAM Captures You Can Download for Free",
-      "url": "https://www.gearnews.com/weirdest-nam-captures-guitar/",
-      "source": "Gearnews",
-      "category": "music",
-      "published_iso": "2026-10-25T17:00:00+01:00",
-      "excerpt": "Neural Amp Modeler, the open-source format where a model 'learns' how gear shapes a signal, now hosts captures of answering machines and walkie-talkies alongside classic amps.",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/10/WeirdNAM.jpg"
-    },
-    {
-      "title": "Music Tectonics Returns Next Week With AI, Artist Revenue, and Our Future on the Agenda",
-      "url": "https://www.hypebot.com/music-tectonics-returns-next-week-with-ai-artist-revenue-and-our-future-on-the-agenda/",
-      "source": "Hypebot",
-      "category": "music",
-      "published_iso": "2026-10-23T12:55:33.000Z",
-      "excerpt": "The Music Tectonics conference returns with AI music tools, artist revenue and the future of music tech on the agenda.",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/Screenshot-2026-10-23-at-8.51.30---AM.png"
-    },
-    {
-      "title": "DJustify: Reason-and-Verify DJ Planning for Pop Transitions and Story-Driven Sets",
-      "url": "https://arxiv.org/abs/2610.33434",
-      "source": "arXiv",
-      "category": "music",
-      "published_iso": "2026-10-24T04:22:09Z",
-      "excerpt": "DJustify is a pop AI-DJ that puts an LLM in a reason-propose-verify-repair loop to jointly choose the next track, cue points and mixing technique, with an acoustic checker scoring rendered transitions.",
-      "og_image": null
-    },
-    {
-      "title": "MusicTwins: Training Audio-Language Models to Listen like Their Persona",
-      "url": "https://arxiv.org/abs/2610.32495",
-      "source": "arXiv",
-      "category": "music",
-      "published_iso": "2026-10-23T11:11:45Z",
-      "excerpt": "MusicTwins combines persona summaries, personal memory and post-training so audio-language models reproduce a specific listener's responses to music.",
-      "og_image": null
-    },
-    {
-      "title": "MI-MIDI 2: From Observation to Control with Sparse Autoencoders in Text-to-MIDI Generation",
-      "url": "https://arxiv.org/abs/2610.32007",
-      "source": "arXiv",
-      "category": "music",
-      "published_iso": "2026-10-23T00:10:54Z",
-      "excerpt": "Researchers test whether sparse-autoencoder features discovered in text2midi and MIDI-LLM actually steer generation, building an end-to-end protocol for controllable text-to-MIDI.",
-      "og_image": null
-    }
-  ]
+ "section": "music",
+ "now_iso": "2026-10-27T22:04:00Z",
+ "window_hours": 336,
+ "items": [
+  {
+   "title": "Massive XL is here: Native Instruments supersizes its flagship soft synth with AI-powered preset generation, custom wavetables and much more",
+   "url": "https://www.musicradar.com/music-tech/massive-xl-is-here-native-instruments-supersizes-its-flagship-soft-synth-with-ai-powered-preset-generation-custom-wavetables-and-much-more",
+   "source": "MusicRadar",
+   "category": "music",
+   "published_iso": "2026-10-27T14:10:25Z",
+   "excerpt": "20 years after Massive, Native Instruments unveils Massive XL, which uses AI to turn audio samples into synth patches, alongside custom wavetables and an expanded effects suite.",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/m8Dyd4QeFBbPdomvykgtZm-1600-80.jpg"
+  },
+  {
+   "title": "NI's new Massive XL is nicely overstuffed but easier to morph, mutate, and play",
+   "url": "https://cdm.link/massive-xl-first-impressions/",
+   "source": "CDM Create Digital Music",
+   "category": "music",
+   "published_iso": "2026-10-27T17:57:26+00:00",
+   "excerpt": "A first hands-on with Massive XL: mutation and audio-to-preset generation options that lead sound designers into more tweaking rather than away from it, at a $99 intro price.",
+   "og_image": "https://cdm.link/app/uploads/2026/10/Massive-editing.png"
+  },
+  {
+   "title": "Tracktion Waveform Pro 14.1 Update Adds AI-Assisted Plugin Creation",
+   "url": "https://www.gearnews.com/tracktion-waveform-pro-studio/",
+   "source": "Gearnews",
+   "category": "music",
+   "published_iso": "2026-10-27T19:30:57+01:00",
+   "excerpt": "With the version 14.1 update, Tracktion Waveform Pro lets users build their own instruments and effects inside the DAW using AI-assisted code generation.",
+   "og_image": "https://cdn.gearnews.com/wp-content/uploads/2022/03/tracktion-waveform-14-1-plugin-generation.jpg"
+  },
+  {
+   "title": "Apple Creator Studio update adds MotionVFX to Final Cut, and AI to everywhere",
+   "url": "https://www.engadget.com/2298428/apple-creator-studio-update-adds-motionvfx-to-final-cut-and-ai-to-everywhere/",
+   "source": "Engadget",
+   "category": "music",
+   "published_iso": "2026-10-27T16:21:44+00:00",
+   "excerpt": "Logic Pro gets a beta AI assistant built with OpenAI that can edit existing projects, start new songs and generate vocal tracks from text prompts; Stem Splitter can now isolate or swap drum parts.",
+   "og_image": "https://www.engadget.com/img/gallery/apple-creator-studio-update-adds-motionvfx-to-final-cut-and-ai-to-everywhere/l-intro-1793118031.jpg"
+  },
+  {
+   "title": "Charlotte de Witte announces new EP, 'Azadi', featuring AI vocalist NAVA",
+   "url": "https://djmag.com/news/charlotte-de-witte-announces-new-ep-azadi-featuring-ai-vocalist-nava",
+   "source": "DJ Mag",
+   "category": "music",
+   "published_iso": "2026-10-27T15:27:39+00:00",
+   "excerpt": "Charlotte de Witte's three-track KNTXT EP features NAVA, an AI vocalist created by British-Iranian artist Farbod Mehr to represent Iranian women banned from singing in public; the choice has drawn mixed reactions.",
+   "og_image": "https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/2026-10/Screenshot%202026-10-27%20at%2013.59.48.png.webp?itok=xhyKzlLI"
+  },
+  {
+   "title": "Edged Out Records built 'the first costume shop for AI agents'",
+   "url": "https://musically.com/2026/10/27/edged-out-records-built-the-first-costume-shop-for-ai-agents/",
+   "source": "Music Ally",
+   "category": "music",
+   "published_iso": "2026-10-27T13:30:00+00:00",
+   "excerpt": "Independent label Edged Out Records launched a marketing campaign riffing on Jolly, the plush mascot Meta uses for its Muse AI agent, building a 'costume shop' for AI agents.",
+   "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-27T124653.395.png?fit=2000%2C1500&ssl=1"
+  },
+  {
+   "title": "Here's Every Company Fighting Subpoenas in Suno's Legal Fight With Universal and Sony Music",
+   "url": "https://www.billboard.com/pro/suno-vs-universal-sony-music-ai-lawsuit-companies-subpoenas/",
+   "source": "Billboard",
+   "category": "music",
+   "published_iso": "2026-10-27T19:52:17+00:00",
+   "excerpt": "A rundown of the companies resisting subpoenas in UMG and Sony Music's AI-training lawsuit against Suno, from investors to the MLC, DistroKid and Apple.",
+   "og_image": "https://www.billboard.com/wp-content/uploads/2026/06/suno-2026-press-suno-billboard-1800.jpg?w=1024"
+  },
+  {
+   "title": "Suno Files Subpoena Demands Against Apple As Major Label Legal War Intensifies",
+   "url": "https://www.digitalmusicnews.com/2026/10/26/suno-files-subpoena-demands-apple/",
+   "source": "Digital Music News",
+   "category": "music",
+   "published_iso": "2026-10-27T04:27:19+00:00",
+   "excerpt": "Apple moves to quash Suno's subpoena in the UMG/Sony AI case, arguing the demand for Apple Music data is superfluous and goes well beyond what Suno needs.",
+   "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/suno-files-subpoena-demands-against-apple.png"
+  },
+  {
+   "title": "Stop sending me vibecoded plugins, I'm begging you",
+   "url": "https://musictech.com/features/opinion-analysis/stop-sending-me-vibecoded-ai-plugins/",
+   "source": "MusicTech",
+   "category": "music",
+   "published_iso": "2026-10-21T10:04:18+00:00",
+   "excerpt": "MusicTech's inbox is drowning in AI-vibecoded audio plugins; the piece explains why that's a problem and which indie developers are using AI coding tools properly.",
+   "og_image": "https://musictech.com/wp-content/uploads/2026/10/vibecoded-ai-plugin-hero@2000x1500-1068x801.jpg"
+  },
+  {
+   "title": "Introducing Instant Soundtracks",
+   "url": "https://elevenlabs.io/blog/introducing-instant-soundtracks",
+   "source": "ElevenLabs",
+   "category": "music",
+   "published_iso": "2026-10-15T12:00:00.000Z",
+   "excerpt": "ElevenLabs' Instant Soundtracks scores an uploaded video with original music, detects sound-effect cues and places generated SFX on separate timeline layers in one pass; available in ElevenCreative, ElevenMusic and the API. (Off-list: no on-list outlet covered it.)",
+   "og_image": "https://eleven-public-cdn.elevenlabs.io/payloadcms/sm49fesxdni-Blog-cover.webp"
+  },
+  {
+   "title": "수노 AI곡 'The Adult I Dreamed Of', 멜론 3위인데 AI 표기는 없다",
+   "url": "https://www.wikitree.co.kr/articles/1166610",
+   "source": "위키트리",
+   "category": "music",
+   "published_iso": "2026-10-16T03:04:00+09:00",
+   "excerpt": "Suno로 만든 Meomuru(머무르)의 AI 곡이 멜론 Top 100 3위, 유튜브 1,000만 뷰에 근접했지만 AI 표기는 없다. AI 표기 필요 응답 85.6%. (Off-list Korea angle: no allowed outlet covers the Korean chart story.)",
+   "og_image": "https://cdnweb01.wikitree.co.kr/webdata/editor/202610/16/202610160308277678_ai.jpeg"
+  }
+ ]
 }

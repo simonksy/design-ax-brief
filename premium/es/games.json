@@ -8766,6 +8766,135 @@
           "x": "Choi Seok-won, director ejecutivo de Com2uS Platform, afirmó que la empresa “combinará la capacidad de servicio de Hive, reconocida en el mercado global, con el entorno de desarrollo con AI para reducir de forma notable la barrera de comercialización de los estudios independientes y pequeños”."
         }
       ]
+    },
+    "games/epiceula": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf023070cdf9c6ebf/682da8904feafa6cf12bbc97/Fortnite_Header.png?width=1280&auto=webp&quality=80&disable=upscale"
+        },
+        {
+          "t": "p",
+          "x": "La EULA de Epic cambiará en el futuro, ya que la empresa trabaja para eliminar las restricciones al entrenamiento de AI con los resultados de Unreal Engine y MetaHuman, según una publicación en X del CEO de Epic, Tim Sweeney."
+        },
+        {
+          "t": "p",
+          "x": "El 26 de octubre, Kotaku publicó un artículo que señalaba la posible hipocresía de empresas como Microsoft y Epic, que apuestan todo por la AI mientras cierran recreaciones AI-coded de sus juegos hechas por usuarios. Sweeney respondió con una larga publicación en la que, de pasada, dio a conocer la actualización prevista de la EULA."
+        },
+        {
+          "t": "p",
+          "x": "\"¿Restringe Epic el entrenamiento de AI con resultados de Unreal Engine y MetaHuman?\", escribe Sweeney. \"Sí, actualmente, pero estamos trabajando para eliminar esta restricción de los términos de la EULA, aunque cada juego que usa estas herramientas se publica bajo los términos que elijan sus desarrolladores, que pueden permitir o restringir el entrenamiento de AI\"."
+        },
+        {
+          "t": "p",
+          "x": "Se trata de un cambio notable para Unreal Engine, que hasta ahora no permitía ningún uso del motor para que una AI se entrenara, mientras Epic avanza hacia lo que llama un modelo \"AI-first\". Sweeney también ha criticado el requisito de Valve de declarar el uso de AI en Steam. Game Developer se ha puesto en contacto con Epic para obtener más información."
+        }
+      ]
+    },
+    "games/aiwikis": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/gamedb-wiki-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "Crédito de la imagen: Eurogamer / GameDB"
+        },
+        {
+          "t": "p",
+          "x": "Al buscar información sobre Nighthawks, el redactor de Eurogamer llegó a una \"Nighthawks Wiki\" que no era una wiki en absoluto y estaba llena de información falsa, como compañeros y habilidades que no existen. Su dominio remitía a un servicio de creación de sitios web llamado Spaceship, que también ofrece un \"AI Website builder\"."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/nighthawks-wiki-1.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+          "cap": "La wiki no oficial de Nighthawks en cuestión. | Crédito de la imagen: Eurogamer / Nighthawks.wiki"
+        },
+        {
+          "t": "p",
+          "x": "Tim Bender, CEO de Hooded Horse, dice que la editora ha tenido que \"jugar al whack-a-mole\" con sitios AI-generated. \"[La AI generativa] permite que una serie de empresas básicamente comerciales produzcan en masa e intenten inundar los resultados de los buscadores sobre los juegos para absorber su tráfico\", afirma."
+        },
+        {
+          "t": "p",
+          "x": "Las wikis independientes también se enfrentan a los scrapers de AI: la Dune: Awakening Community Wiki recibió 7m de solicitudes en 30 días de rastreadores de AI, 5m de ellas de Meta. FlamingMojo, de la Independent Game Wiki Network, afirma que los costes de servidor se han multiplicado entre tres y diez veces."
+        },
+        {
+          "t": "p",
+          "x": "\"La forma en que sobrevivimos a la contaminación de la AI es con la comunidad\", dice FlamingMojo."
+        }
+      ]
+    },
+    "games/molyneux": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/cCbNLBoom6H44tX6QPEMwa-1920-80.jpg",
+          "cap": "(Crédito de la imagen: Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "PC Gamer entrevistó en Guildford a Peter Molyneux, el desarrollador detrás de Populous, Theme Park, Dungeon Keeper, Black & White y Fable, y le preguntó por el uso de la AI en la industria del videojuego."
+        },
+        {
+          "t": "p",
+          "x": "Culpó a ChatGPT y Gemini de haber grabado en la mente de la gente la idea de que \"AI equivale a AI slop\", y dijo que marcar la casilla de AI de Steam significa que \"al instante se va el 12% [de los jugadores]\". \"Como industria fingimos que no usamos AI, pero la realidad es que ahora es casi imposible programar sin usar AI. Casi imposible\"."
+        },
+        {
+          "t": "p",
+          "x": "Calificó la AI como \"el mayor paso adelante en creatividad\" para los estudios: el trabajo de concepto puede hacerse en cinco minutos, y el prototipo de un personaje totalmente riggeado que se levanta del suelo está \"listo en un día, no en meses\"."
+        },
+        {
+          "t": "p",
+          "x": "\"No creo que la AI sea todavía lo bastante potente como para confiarle la producción de los recursos con la calidad final del juego. Pero, Rob, lo será\". Predice que en un año la AI estará tan ligada a middleware como Unity y Unreal que será muy difícil extraerla."
+        }
+      ]
+    },
+    "games/uchikoshi": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/Hundred-Line.jpeg",
+          "cap": "© Aniplex, Too Kyo Games"
+        },
+        {
+          "t": "p",
+          "x": "Kotaro Uchikoshi, conocido por Zero Escape y Hundred Line, insiste en una nueva entrevista con Famitsu en que su nuevo estudio, Crash Keys, y la cancelación de su juego fueron reales, y dice que quizá el juego no se habría cancelado si le hubieran permitido usar AI."
+        },
+        {
+          "t": "p",
+          "x": "\"Para equipos medianos como el nuestro, sobre todo los que hacen juegos de aventura, ahora incluso los juegos indie creados por particulares pueden verse como rivales. Algunas de estas personas usan AI con equipos muy pequeños para producir juegos amplios y con mucho contenido en poco tiempo y a bajo coste. [...] Creo que no tenemos más remedio que usar AI nosotros también\"."
+        },
+        {
+          "t": "p",
+          "x": "\"Entiendo que haya resistencia al uso de AI en el desarrollo de juegos. Sin embargo, personalmente, soy partidario de la AI\". Afirma que el origen del diseño visual y de la historia debe venir de ideas humanas, pero que no le importa confiar a la AI el refinado y el pulido, lo que podría llevar un producto final del 70-80 por ciento de la visión de un creador a cerca del 100 por ciento."
+        },
+        {
+          "t": "p",
+          "x": "Anteriormente, Uchikoshi dijo que Hundred Line podría ser \"una de las últimas veces\" que se hiciera un juego de esa escala sin AI."
+        }
+      ]
+    },
+    "games/games-remix": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/remix.jpg",
+          "cap": "Remix ofrece como premio un Bitcoin o su equivalente en efectivo. Fuente: Remix"
+        },
+        {
+          "t": "p",
+          "x": "Remix, la plataforma de creación de juegos que usan unos 1.5 millones de jugadores y creadores, lanzó hoy su app de escritorio para Windows, Mac y Linux. Los creadores ya pueden hacer juegos en la nueva app de escritorio, en el sitio web de Remix o en las apps nativas de iOS y Android, sin experiencia en programación."
+        },
+        {
+          "t": "p",
+          "x": "Remix nació en móviles en 2025, donde los creadores han hecho aproximadamente 100,000 juegos cortos. El creador describe el juego que quiere y las herramientas de AI de Remix escriben código que materializa al instante esa idea. Después Remix aloja el juego y añade tablas de clasificación, logros y multijugador en tiempo real. Los creadores son dueños de lo que hacen, así que pueden exportar su código."
+        },
+        {
+          "t": "p",
+          "x": "“Queríamos cambiar quién puede hacer juegos”, dijo el CEO Charlie Blackstock. Para presentar la plataforma, Remix lanza The Missing Bitcoin, una búsqueda del tesoro por portales construidos con las mismas herramientas que usa cualquier creador; el primer jugador que reúna todas las monedas de la búsqueda gana 1 BTC (o su equivalente en efectivo)."
+        },
+        {
+          "t": "p",
+          "x": "La app de escritorio se descarga gratis. Para crear juegos con la AI de Remix, los planes empiezan en $5 al mes, y los creadores también pueden conectar una suscripción existente de Anthropic, OpenAI o Google."
+        }
+      ]
     }
   }
 }

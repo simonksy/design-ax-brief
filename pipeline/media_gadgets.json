@@ -1,31 +1,7 @@
-{
-  "date": "2026-10-27",
-  "section": "gadgets",
-  "media": [
-    {
-      "id": "gadgets-siri-ios272",
-      "type": "image",
-      "src": "pipeline/media/gadgets-siri-ios272.jpg"
-    },
-    {
-      "id": "gadgets-orisa",
-      "type": "image",
-      "src": "pipeline/media/gadgets-orisa.jpg"
-    },
-    {
-      "id": "gadgets-rayban-meta-training",
-      "type": "image",
-      "src": "pipeline/media/gadgets-rayban-meta-training.jpg"
-    },
-    {
-      "id": "gadgets-rtx-tensor-throttle",
-      "type": "image",
-      "src": "pipeline/media/gadgets-rtx-tensor-throttle.jpg"
-    },
-    {
-      "id": "gadgets-even-g2-update",
-      "type": "image",
-      "src": "pipeline/media/gadgets-even-g2-update.jpg"
-    }
-  ]
-}
+{"date":"2026-10-28","section":"gadgets","media":[
+{"id":"gadgets-ollama-tts","type":"image","src":"pipeline/media/gadgets-ollama-tts.jpg"},
+{"id":"gadgets-macbook-pro-m6","type":"image","src":"pipeline/media/gadgets-macbook-pro-m6.jpg"},
+{"id":"gadgets-galaxy-buds-on","type":"video","src":"pipeline/media/gadgets-galaxy-buds-on.mp4","poster":"pipeline/media/gadgets-galaxy-buds-on.jpg"},
+{"id":"gadgets-opera-webai","type":"image","src":"pipeline/media/gadgets-opera-webai.jpg"},
+{"id":"gadgets-nokia-claude-s40","type":"image","src":"pipeline/media/gadgets-nokia-claude-s40.jpg"}
+]}

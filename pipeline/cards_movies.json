@@ -1,329 +1,17 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "section": "movies",
   "cards": [
     {
-      "id": "movies-runway-app-studio",
+      "id": "resolve2112",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Runway App\nStudio로 노코드 앱",
-      "body": "팀은 Runway App Studio로 이미지·영상·오디오 노코드 앱을 만든다.",
-      "mini_headline": "Runway, App Studio 출시",
+      "headline": "Resolve AI 검색\nM6에서 더 빨라졌다",
+      "body": "Resolve 21.1.2 IntelliSearch는 M6에서 최대 14x 빠르다.",
+      "mini_headline": "Resolve 21.1.2, AI 검색 속도 향상",
       "tool": "Movies",
-      "source": "Runway",
-      "url": "https://runway.com/news/company-news/introducing-runway-app-studio",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/hero-1600-900-social-og-2x-355537f0-b954-4a87-8955-47c89bc15d4b.png"
-          },
-          {
-            "t": "p",
-            "x": "Runway가 오늘 App Studio를 내놓는다. Runway 안에서 맞춤형 크리에이티브 소프트웨어를 필요할 때 바로 만드는 새 방식이다. 원하는 도구를 평이한 말로 설명하면 App Studio가 전용 인터페이스를 갖춘 앱을 만들어 준다. 이 앱은 사용자의 Brand Kits와 Workflows로 이미지, 영상, 오디오를 생성한다. 혼자 써도 되고 팀과 공유해도 되며, Runway 계정만 있으면 누구나 쓰는 링크로 공개할 수도 있다."
-          },
-          {
-            "t": "p",
-            "x": "App Studio에는 처음부터 Character Swap, AutoComp, Product Portfolio, 3D Camera Control, Precise Edit, Runway Pro 같은 기본 앱이 들어 있다. 글로벌 건축사무소 KPF는 App Studio로 디자인 렌더링에 움직임을 입히는 앱을 만들었다. 디자이너가 정지 이미지에서 움직일 부분을 표시하고 카메라 경로를 그리면 연출된 디자인 영상이 나온다."
-          },
-          {
-            "t": "p",
-            "x": "원하는 결과를 내는 Agent 세션이나 Workflow가 이미 있다면 클릭 한 번에 앱으로 바뀐다. 처음부터 새로 만들어도 된다. 앱 작성부터 테스트, 배포까지 App Studio가 맡고, 코드는 누구나 들여다볼 수 있게 열어 둔다."
-          },
-          {
-            "t": "p",
-            "x": "모든 앱은 만든 사람이 공유하기 전까지 비공개다. App Studio는 모든 유료 플랜에 들어 있어 따로 사거나 애드온을 붙일 필요가 없다. 앱을 만들고 실행하고 호스팅하는 비용은 전부 기존 Runway 크레딧 잔액에서 빠진다. App Studio는 지금 모든 유료 플랜에서 쓸 수 있다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Runway App Studio turns\nworkflows into no-code apps",
-          "body": "Runway App Studio lets teams turn Brand Kits and Workflows into no-code apps for image, video and audio.",
-          "mini_headline": "Runway launches App Studio",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/hero-1600-900-social-og-2x-355537f0-b954-4a87-8955-47c89bc15d4b.png"
-              },
-              {
-                "t": "p",
-                "x": "Today, we're launching App Studio, a new, on-demand way to build custom creative software inside Runway. Describe the tool you need in plain language and App Studio builds a custom app with its own interface that generates images, video and audio using your Brand Kits and your Workflows. Use it yourself, share it with your team or publish a link anyone with a Runway account can use."
-              },
-              {
-                "t": "p",
-                "x": "App Studio launches with built-in apps such as Character Swap, AutoComp, Product Portfolio, 3D Camera Control, Precise Edit and Runway Pro. Global architecture firm KPF used App Studio to build an app that brings its design renderings to life: designers mark what should move in a still image, draw a camera path and get back directed video of the design."
-              },
-              {
-                "t": "p",
-                "x": "If you already have an Agent session or Workflow that produces the result you want, you can turn it into an app in one click. You can also start from scratch. App Studio writes, tests and deploys every app, and the code stays visible for anyone who wants to inspect it."
-              },
-              {
-                "t": "p",
-                "x": "Every app is private to its creator until they choose to share it. App Studio is included in every paid plan with no new purchase or add-on, and building, running and hosting apps all draw from your existing Runway credit balance. App Studio is available to all paid plans now."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Runway App\nStudio로 노코드 앱",
-          "body": "팀은 Runway App Studio로 이미지·영상·오디오 노코드 앱을 만든다.",
-          "mini_headline": "Runway, App Studio 출시",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/hero-1600-900-social-og-2x-355537f0-b954-4a87-8955-47c89bc15d4b.png"
-              },
-              {
-                "t": "p",
-                "x": "Runway가 오늘 App Studio를 내놓는다. Runway 안에서 맞춤형 크리에이티브 소프트웨어를 필요할 때 바로 만드는 새 방식이다. 원하는 도구를 평이한 말로 설명하면 App Studio가 전용 인터페이스를 갖춘 앱을 만들어 준다. 이 앱은 사용자의 Brand Kits와 Workflows로 이미지, 영상, 오디오를 생성한다. 혼자 써도 되고 팀과 공유해도 되며, Runway 계정만 있으면 누구나 쓰는 링크로 공개할 수도 있다."
-              },
-              {
-                "t": "p",
-                "x": "App Studio에는 처음부터 Character Swap, AutoComp, Product Portfolio, 3D Camera Control, Precise Edit, Runway Pro 같은 기본 앱이 들어 있다. 글로벌 건축사무소 KPF는 App Studio로 디자인 렌더링에 움직임을 입히는 앱을 만들었다. 디자이너가 정지 이미지에서 움직일 부분을 표시하고 카메라 경로를 그리면 연출된 디자인 영상이 나온다."
-              },
-              {
-                "t": "p",
-                "x": "원하는 결과를 내는 Agent 세션이나 Workflow가 이미 있다면 클릭 한 번에 앱으로 바뀐다. 처음부터 새로 만들어도 된다. 앱 작성부터 테스트, 배포까지 App Studio가 맡고, 코드는 누구나 들여다볼 수 있게 열어 둔다."
-              },
-              {
-                "t": "p",
-                "x": "모든 앱은 만든 사람이 공유하기 전까지 비공개다. App Studio는 모든 유료 플랜에 들어 있어 따로 사거나 애드온을 붙일 필요가 없다. 앱을 만들고 실행하고 호스팅하는 비용은 전부 기존 Runway 크레딧 잔액에서 빠진다. App Studio는 지금 모든 유료 플랜에서 쓸 수 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Runway App\nStudioでノーコード化",
-          "body": "Runway App Studioで、チームは画像・動画・音声のノーコードアプリを作れる。",
-          "mini_headline": "Runway、App Studioを公開",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/hero-1600-900-social-og-2x-355537f0-b954-4a87-8955-47c89bc15d4b.png"
-              },
-              {
-                "t": "p",
-                "x": "本日、App Studioを公開する。Runwayの中で、独自のクリエイティブソフトウェアを必要なときに作れる新しい方法だ。必要なツールを普段の言葉で説明すれば、App Studioが独自のインターフェースを備えたカスタムアプリを作り、そのアプリがユーザーのBrand KitsとWorkflowsを使って画像、動画、音声を生成する。自分で使うことも、チームと共有することも、Runwayアカウントを持つ誰もが使えるリンクとして公開することもできる。"
-              },
-              {
-                "t": "p",
-                "x": "App Studioには、Character Swap、AutoComp、Product Portfolio、3D Camera Control、Precise Edit、Runway Proといった組み込みアプリが用意されている。世界的な建築事務所KPFはApp Studioで、設計レンダリングに動きを与えるアプリを作った。デザイナーが静止画の中で動かしたい部分を指定し、カメラの経路を描くと、演出されたデザインの映像が返ってくる。"
-              },
-              {
-                "t": "p",
-                "x": "望む結果を生むAgentセッションやWorkflowがすでにあれば、ワンクリックでアプリに変えられる。ゼロから始めることもできる。App Studioはすべてのアプリを記述し、テストし、デプロイする。コードは、確認したい人なら誰でも見られる状態に保たれる。"
-              },
-              {
-                "t": "p",
-                "x": "どのアプリも、作成者が共有を選ぶまでは非公開だ。App Studioはすべての有料プランに含まれ、新たな購入やアドオンは要らない。アプリの構築、実行、ホスティングはいずれも既存のRunwayクレジット残高から差し引かれる。App Studioは現在、すべての有料プランで利用できる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Runway App\nStudio：无代码建应用",
-          "body": "Runway App Studio让团队打造图像、视频与音频无代码应用。",
-          "mini_headline": "Runway 推出 App Studio",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/hero-1600-900-social-og-2x-355537f0-b954-4a87-8955-47c89bc15d4b.png"
-              },
-              {
-                "t": "p",
-                "x": "今天，我们推出 App Studio，这是在 Runway 内按需构建定制创意软件的新方式。用平实的语言描述你需要的工具，App Studio 就会构建一个拥有独立界面的定制应用，借助你的 Brand Kits 和 Workflows 生成图像、视频和音频。你可以自己使用，与团队共享，也可以发布一个链接，让任何拥有 Runway 账户的人使用。"
-              },
-              {
-                "t": "p",
-                "x": "App Studio 上线时内置 Character Swap、AutoComp、Product Portfolio、3D Camera Control、Precise Edit 和 Runway Pro 等应用。全球建筑事务所 KPF 用 App Studio 构建了一款让设计效果图动起来的应用：设计师在静态图像中标出需要运动的部分，画出摄像机路径，即可得到经过镜头调度的设计视频。"
-              },
-              {
-                "t": "p",
-                "x": "如果你已有能产出理想结果的 Agent 会话或 Workflow，一键即可把它变成应用，也可以从零开始。App Studio 会编写、测试并部署每个应用，代码始终可见，供任何想查看的人检查。"
-              },
-              {
-                "t": "p",
-                "x": "每个应用在创建者选择分享之前都是私密的。App Studio 包含在所有付费方案中，无需额外购买或附加组件；构建、运行和托管应用都从你现有的 Runway 积分余额中扣除。App Studio 现已向所有付费方案开放。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Runway App Studio convierte\nflujos en apps sin código",
-          "body": "Runway App Studio permite a equipos convertir Brand Kits y Workflows en apps sin código de imagen, video y audio.",
-          "mini_headline": "Runway lanza App Studio",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/hero-1600-900-social-og-2x-355537f0-b954-4a87-8955-47c89bc15d4b.png"
-              },
-              {
-                "t": "p",
-                "x": "Hoy lanzamos App Studio, una nueva forma de crear software creativo a medida y bajo demanda dentro de Runway. Basta con describir en lenguaje sencillo la herramienta que se necesita para que App Studio construya una app propia, con su propia interfaz, que genera imágenes, video y audio a partir de sus Brand Kits y sus Workflows. Puede usarla uno mismo, compartirla con el equipo o publicar un enlace que cualquier persona con una cuenta de Runway puede usar."
-              },
-              {
-                "t": "p",
-                "x": "App Studio llega con apps integradas como Character Swap, AutoComp, Product Portfolio, 3D Camera Control, Precise Edit y Runway Pro. El estudio global de arquitectura KPF usó App Studio para crear una app que da vida a sus renders de diseño: los diseñadores marcan qué debe moverse en una imagen fija, trazan una trayectoria de cámara y reciben un video dirigido del diseño."
-              },
-              {
-                "t": "p",
-                "x": "Si ya existe una sesión de Agent o un Workflow que produce el resultado deseado, se puede convertir en app con un clic. También se puede empezar desde cero. App Studio escribe, prueba y despliega cada app, y el código queda visible para quien quiera revisarlo."
-              },
-              {
-                "t": "p",
-                "x": "Cada app es privada para su creador hasta que decida compartirla. App Studio está incluido en todos los planes de pago, sin compras nuevas ni complementos, y crear, ejecutar y alojar apps se descuenta del saldo de créditos de Runway que ya se tiene. App Studio ya está disponible en todos los planes de pago."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Runway App\nStudio로 노코드 앱",
-          "body": "Runway App Studio로 팀은 이미지·영상·오디오용 노코드 앱을 만든다.",
-          "mini_headline": "Runway, App Studio 출시",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/hero-1600-900-social-og-2x-355537f0-b954-4a87-8955-47c89bc15d4b.png"
-              },
-              {
-                "t": "p",
-                "x": "Runway는 오늘 App Studio를 출시한다. Runway 안에서 맞춤형 크리에이티브 소프트웨어를 필요할 때 바로 만드는 새로운 방식이다. 필요한 도구를 평이한 말로 설명하면 App Studio가 자체 인터페이스를 갖춘 맞춤형 앱을 만들고, 이 앱은 사용자의 Brand Kits와 Workflows로 이미지, 영상, 오디오를 생성한다. 직접 쓰거나 팀과 공유할 수 있고, Runway 계정이 있는 누구나 쓸 수 있는 링크로 공개할 수도 있다."
-              },
-              {
-                "t": "p",
-                "x": "App Studio는 Character Swap, AutoComp, Product Portfolio, 3D Camera Control, Precise Edit, Runway Pro 같은 기본 앱을 갖추고 출시된다. 글로벌 건축사무소 KPF는 App Studio로 디자인 렌더링에 생동감을 불어넣는 앱을 만들었다. 디자이너가 정지 이미지에서 움직일 부분을 표시하고 카메라 경로를 그리면 연출된 디자인 영상이 돌아온다."
-              },
-              {
-                "t": "p",
-                "x": "원하는 결과를 내는 Agent 세션이나 Workflow가 이미 있다면 클릭 한 번으로 앱으로 바꿀 수 있다. 처음부터 새로 시작할 수도 있다. App Studio는 모든 앱을 작성하고 테스트하고 배포하며, 코드는 살펴보고 싶은 누구에게나 공개된 상태로 남는다."
-              },
-              {
-                "t": "p",
-                "x": "모든 앱은 만든 사람이 공유하기 전까지 비공개다. App Studio는 모든 유료 플랜에 포함되어 별도 구매나 애드온이 필요 없고, 앱을 만들고 실행하고 호스팅하는 비용은 모두 기존 Runway 크레딧 잔액에서 차감된다. App Studio는 지금 모든 유료 플랜에서 쓸 수 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Runway App\nStudioでノーコード化",
-          "body": "Runway App Studioで、チームは画像・動画・音声のノーコードアプリを作れる。",
-          "mini_headline": "Runway、App Studioを公開",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/hero-1600-900-social-og-2x-355537f0-b954-4a87-8955-47c89bc15d4b.png"
-              },
-              {
-                "t": "p",
-                "x": "本日、App Studioを公開する。Runwayの中で、独自のクリエイティブソフトウェアを必要なときに作れる新しい方法だ。必要なツールを普段の言葉で説明すれば、App Studioが独自のインターフェースを備えたカスタムアプリを作り、そのアプリがユーザーのBrand KitsとWorkflowsを使って画像、動画、音声を生成する。自分で使うことも、チームと共有することも、Runwayアカウントを持つ誰もが使えるリンクとして公開することもできる。"
-              },
-              {
-                "t": "p",
-                "x": "App Studioには、Character Swap、AutoComp、Product Portfolio、3D Camera Control、Precise Edit、Runway Proといった組み込みアプリが用意されている。世界的な建築事務所KPFはApp Studioで、設計レンダリングに動きを与えるアプリを作った。デザイナーが静止画の中で動かしたい部分を指定し、カメラの経路を描くと、演出されたデザインの映像が返ってくる。"
-              },
-              {
-                "t": "p",
-                "x": "望む結果を生むAgentセッションやWorkflowがすでにあれば、ワンクリックでアプリに変えられる。ゼロから始めることもできる。App Studioはすべてのアプリを記述し、テストし、デプロイする。コードは、確認したい人なら誰でも見られる状態に保たれる。"
-              },
-              {
-                "t": "p",
-                "x": "どのアプリも、作成者が共有を選ぶまでは非公開だ。App Studioはすべての有料プランに含まれ、新たな購入やアドオンは要らない。アプリの構築、実行、ホスティングはいずれも既存のRunwayクレジット残高から差し引かれる。App Studioは現在、すべての有料プランで利用できる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Runway App\nStudio：无代码建应用",
-          "body": "Runway App Studio让团队打造图像、视频与音频无代码应用。",
-          "mini_headline": "Runway 推出 App Studio",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/hero-1600-900-social-og-2x-355537f0-b954-4a87-8955-47c89bc15d4b.png"
-              },
-              {
-                "t": "p",
-                "x": "今天，我们推出 App Studio，这是在 Runway 内按需构建定制创意软件的新方式。用平实的语言描述你需要的工具，App Studio 就会构建一个拥有独立界面的定制应用，借助你的 Brand Kits 和 Workflows 生成图像、视频和音频。你可以自己使用，与团队共享，也可以发布一个链接，让任何拥有 Runway 账户的人使用。"
-              },
-              {
-                "t": "p",
-                "x": "App Studio 上线时内置 Character Swap、AutoComp、Product Portfolio、3D Camera Control、Precise Edit 和 Runway Pro 等应用。全球建筑事务所 KPF 用 App Studio 构建了一款让设计效果图动起来的应用：设计师在静态图像中标出需要运动的部分，画出摄像机路径，即可得到经过镜头调度的设计视频。"
-              },
-              {
-                "t": "p",
-                "x": "如果你已有能产出理想结果的 Agent 会话或 Workflow，一键即可把它变成应用，也可以从零开始。App Studio 会编写、测试并部署每个应用，代码始终可见，供任何想查看的人检查。"
-              },
-              {
-                "t": "p",
-                "x": "每个应用在创建者选择分享之前都是私密的。App Studio 包含在所有付费方案中，无需额外购买或附加组件；构建、运行和托管应用都从你现有的 Runway 积分余额中扣除。App Studio 现已向所有付费方案开放。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Runway App Studio convierte\nflujos en apps sin código",
-          "body": "Runway App Studio permite a equipos convertir Brand Kits y Workflows en apps sin código de imagen, video y audio.",
-          "mini_headline": "Runway lanza App Studio",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/hero-1600-900-social-og-2x-355537f0-b954-4a87-8955-47c89bc15d4b.png"
-              },
-              {
-                "t": "p",
-                "x": "Hoy lanzamos App Studio, una nueva forma de crear software creativo a medida y bajo demanda dentro de Runway. Basta con describir en lenguaje sencillo la herramienta que se necesita para que App Studio construya una app propia, con su propia interfaz, que genera imágenes, video y audio a partir de sus Brand Kits y sus Workflows. Puede usarla uno mismo, compartirla con el equipo o publicar un enlace que cualquier persona con una cuenta de Runway puede usar."
-              },
-              {
-                "t": "p",
-                "x": "App Studio llega con apps integradas como Character Swap, AutoComp, Product Portfolio, 3D Camera Control, Precise Edit y Runway Pro. El estudio global de arquitectura KPF usó App Studio para crear una app que da vida a sus renders de diseño: los diseñadores marcan qué debe moverse en una imagen fija, trazan una trayectoria de cámara y reciben un video dirigido del diseño."
-              },
-              {
-                "t": "p",
-                "x": "Si ya existe una sesión de Agent o un Workflow que produce el resultado deseado, se puede convertir en app con un clic. También se puede empezar desde cero. App Studio escribe, prueba y despliega cada app, y el código queda visible para quien quiera revisarlo."
-              },
-              {
-                "t": "p",
-                "x": "Cada app es privada para su creador hasta que decida compartirla. App Studio está incluido en todos los planes de pago, sin compras nuevas ni complementos, y crear, ejecutar y alojar apps se descuenta del saldo de créditos de Runway que ya se tiene. App Studio ya está disponible en todos los planes de pago."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "movies-sanxingdui-flop",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "중국 첫 AI 장편 영화\n박스오피스서 흥행 참패",
-      "body": "'Sanxingdui: Future Past'는 $181,000에 그쳤다.",
-      "mini_headline": "중국 AI 장편 흥행 참패",
-      "tool": "Movies",
-      "source": "Cartoon Brew",
-      "url": "https://www.cartoonbrew.com/box-office-report/chinese-ai-film-sanxingdui-future-past-box-office-flop-268426.html",
+      "source": "No Film School",
+      "url": "https://nofilmschool.com/davinci-resolve-update-21-1-2",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
@@ -331,335 +19,335 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Sanxingdui-Niu-Lai.jpg"
+            "src": "https://nofilmschool.com/media-library/davinci-resolve-update-21-1-2.jpg?id=68536481&width=1245&height=700&quality=50&coordinates=56%2C0%2C57%2C0"
           },
           {
             "t": "p",
-            "x": "제작사가 중국 최초의 완전 AI-generated 극장 장편이라고 내세운 영화가 박스오피스에서 참패했다. 기술을 향한 열광이 곧장 관객 수요로 이어지지는 않는다는 사실을 투자자들에게 다시 일깨운 셈일 수도 있다."
+            "x": "Blackmagic Design이 속도를 크게 끌어올린 DaVinci Resolve 21.1.2 업데이트를 발표했다."
           },
           {
             "t": "p",
-            "x": "추정치로는 Bona Film Group의 'Sanxingdui: Future Past'가 October 23 개봉 후 월요일까지 RMB1.21 million($181,000)을 버는 데 그쳤다. Bona는 이 SF 장편에 RMB10 million($1.5 million) 넘게 들었고 100명 가까운 인력이 두 해 넘게 매달렸다고 밝혔다. 개봉일에 잡힌 상영만 10,000회가 넘었다."
-          },
-          {
-            "t": "video",
-            "src": "https://cbgccdn.thecover.cn/ROmsWADgcpbtRMydJVR1792720023949.mp4"
+            "x": "영상 편집에서, 굳이 덧붙이자면 AI 시대인 지금은 더더욱 속도가 중요하다. AI 전반이든 Resolve의 IntelliSearch 분석 같은 AI 도구든 편집에 쓴다면 빠르고 효율적으로 돌아가길 바라게 마련이다."
           },
           {
             "t": "p",
-            "x": "이 부진한 출발은 중국 관객이 'Niu Lai'에 호응한 지 두 달 만이다. 'Niu Lai'는 Xin Yumeng 감독과 각본을 쓴 어머니 Sun Lifang이 적은 예산으로 만든 장편이다. 개봉 첫 열흘 수입은 약 RMB7,700($1,150)에 불과했지만, 조악한 모델링과 뻣뻣한 애니메이션이 담긴 클립이 온라인에 퍼지면서 흐름이 바뀌었다. 'Niu Lai'의 누적 흥행 수입은 현재 RMB64.29 million, 약 $10 million이다."
+            "x": "DaVinci Resolve 이번 업데이트(버전 21.1.2)가 내세우는 점이 바로 이것이다. Blackmagic Design에 따르면 Apple M6에서 IntelliSearch 분석은 최대 14배 빨라지고 타임라인 편집은 개선되며 OGraf 재생도 빨라진다."
           },
           {
             "t": "p",
-            "x": "Cartoon Brew는 두 영화 어느 쪽도 AI를 대하는 관객 태도의 보편 법칙을 보여주지는 않는다고 짚는다. 다만 영화 제작의 돌파구라는 'Sanxingdui'의 주장은 영화적 마법을 찾는 관객을 훨씬 덜 설득했다."
+            "x": "무게는 큰 개선 쪽에 실렸다. 21.1.2에 더해진 새 기능과 개선 사항은 열두 가지를 훌쩍 넘는다. 핵심은 앞서 말한 Apple M6 IntelliSearch 분석 가속과 4배 빨라진 OGraf 재생이다."
+          },
+          {
+            "t": "p",
+            "x": "Resolve는 타임라인 편집을 다듬고 Linux 그래픽 지원을 늘렸으며, 사진·편집 작업을 자동화하는 스크립팅 APIs도 확장했다. 올가미로 편집 지점을 고르면 자동으로 다이내믹 트림에 들어가는 기능, 편집 믹서의 라우드니스 미터 표시 옵션, 타임라인 화면비에 맞춰 바뀌는 OGraf 반응형 템플릿, Linux용 OGraf·Lottie 그래픽 지원, 전반적인 성능·안정성 개선 등이 주요 내용이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "China's first AI feature\nflops at the box office",
-          "body": "Bona Film Group's AI feature 'Sanxingdui: Future Past' earned just $181,000, as 'Niu Lai' neared $10 million.",
-          "mini_headline": "China's AI feature flops",
+          "headline": "Resolve's AI search\nnow runs faster on M6",
+          "body": "Blackmagic's DaVinci Resolve 21.1.2 runs AI IntelliSearch media analysis up to 14x faster on Apple M6.",
+          "mini_headline": "Resolve 21.1.2 speeds up AI search",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Sanxingdui-Niu-Lai.jpg"
+                "src": "https://nofilmschool.com/media-library/davinci-resolve-update-21-1-2.jpg?id=68536481&width=1245&height=700&quality=50&coordinates=56%2C0%2C57%2C0"
               },
               {
                 "t": "p",
-                "x": "China’s first fully AI-generated theatrical feature, its producers claim, has flopped at the box office, perhaps reminding financiers that enthusiasm for the technology doesn’t necessarily translate into demand from moviegoers."
+                "x": "Blackmagic Design has announced a blazing-fast update is coming to DaVinci Resolve with update 21.1.2."
               },
               {
                 "t": "p",
-                "x": "Estimates show that Bona Film Group’s Sanxingdui: Future Past earned just RMB1.21 million ($181,000) through Monday, after its October 23 debut. According to Bona, the science-fiction feature cost more than RMB10 million ($1.5 million) and required nearly 100 people working for over two years. More than 10,000 screenings were scheduled for opening day."
-              },
-              {
-                "t": "video",
-                "src": "https://cbgccdn.thecover.cn/ROmsWADgcpbtRMydJVR1792720023949.mp4"
+                "x": "In today’s age of video editing and, well, you know, AI, speed matters more now than ever before. Whether you’re a fan of AI in general or AI tools like Resolve’s IntelliSearch analysis, if you’re using them in your video edit, you’ll want them to work quickly and efficiently."
               },
               {
                 "t": "p",
-                "x": "The dismal launch comes two months after Chinese audiences embraced Niu Lai, a shoestring feature made by director Xin Yumeng and his mother, screenwriter Sun Lifang. It earned roughly RMB7,700 ($1,150) in its first ten days, until clips of its crude modeling and stiff animation spread online. Niu Lai has now grossed RMB64.29 million, or nearly $10 million."
+                "x": "That’s what this latest update for DaVinci Resolve (version 21.1.2) is set to offer: Blackmagic Design has announced up to fourteen times faster IntelliSearch analysis on Apple M6, plus improved timeline editing and faster OGraf playback."
               },
               {
                 "t": "p",
-                "x": "Cartoon Brew stresses that neither film establishes a universal rule about audiences’ attitudes toward AI, but Sanxingdui’s claim to represent a filmmaking breakthrough has proved considerably less compelling to audiences looking for movie magic."
+                "x": "This update leans more toward major improvements, as 21.1.2 adds well over a dozen new features and enhancements. The big ones are the aforementioned speed-ups for IntelliSearch analysis on Apple M6 and four times faster OGraf playback."
+              },
+              {
+                "t": "p",
+                "x": "Timeline editing has also improved, and Resolve gets more Linux graphics support and expanded scripting APIs for automated photo and editing tasks. Highlights include lasso selecting edit points that can now enter dynamic trim automatically, an option to show loudness meters in the edit mixer, OGraf responsive templates that adapt to timeline aspect ratio, and support for OGraf and Lottie graphics on Linux, along with general performance and stability improvements."
               }
             ]
           }
         },
         "ko": {
-          "headline": "중국 첫 AI 장편 영화\n박스오피스서 흥행 참패",
-          "body": "'Sanxingdui: Future Past'는 $181,000에 그쳤다.",
-          "mini_headline": "중국 AI 장편 흥행 참패",
+          "headline": "Resolve AI 검색\nM6에서 더 빨라졌다",
+          "body": "Resolve 21.1.2 IntelliSearch는 M6에서 최대 14x 빠르다.",
+          "mini_headline": "Resolve 21.1.2, AI 검색 속도 향상",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Sanxingdui-Niu-Lai.jpg"
+                "src": "https://nofilmschool.com/media-library/davinci-resolve-update-21-1-2.jpg?id=68536481&width=1245&height=700&quality=50&coordinates=56%2C0%2C57%2C0"
               },
               {
                 "t": "p",
-                "x": "제작사가 중국 최초의 완전 AI-generated 극장 장편이라고 내세운 영화가 박스오피스에서 참패했다. 기술을 향한 열광이 곧장 관객 수요로 이어지지는 않는다는 사실을 투자자들에게 다시 일깨운 셈일 수도 있다."
+                "x": "Blackmagic Design이 속도를 크게 끌어올린 DaVinci Resolve 21.1.2 업데이트를 발표했다."
               },
               {
                 "t": "p",
-                "x": "추정치로는 Bona Film Group의 'Sanxingdui: Future Past'가 October 23 개봉 후 월요일까지 RMB1.21 million($181,000)을 버는 데 그쳤다. Bona는 이 SF 장편에 RMB10 million($1.5 million) 넘게 들었고 100명 가까운 인력이 두 해 넘게 매달렸다고 밝혔다. 개봉일에 잡힌 상영만 10,000회가 넘었다."
-              },
-              {
-                "t": "video",
-                "src": "https://cbgccdn.thecover.cn/ROmsWADgcpbtRMydJVR1792720023949.mp4"
+                "x": "영상 편집에서, 굳이 덧붙이자면 AI 시대인 지금은 더더욱 속도가 중요하다. AI 전반이든 Resolve의 IntelliSearch 분석 같은 AI 도구든 편집에 쓴다면 빠르고 효율적으로 돌아가길 바라게 마련이다."
               },
               {
                 "t": "p",
-                "x": "이 부진한 출발은 중국 관객이 'Niu Lai'에 호응한 지 두 달 만이다. 'Niu Lai'는 Xin Yumeng 감독과 각본을 쓴 어머니 Sun Lifang이 적은 예산으로 만든 장편이다. 개봉 첫 열흘 수입은 약 RMB7,700($1,150)에 불과했지만, 조악한 모델링과 뻣뻣한 애니메이션이 담긴 클립이 온라인에 퍼지면서 흐름이 바뀌었다. 'Niu Lai'의 누적 흥행 수입은 현재 RMB64.29 million, 약 $10 million이다."
+                "x": "DaVinci Resolve 이번 업데이트(버전 21.1.2)가 내세우는 점이 바로 이것이다. Blackmagic Design에 따르면 Apple M6에서 IntelliSearch 분석은 최대 14배 빨라지고 타임라인 편집은 개선되며 OGraf 재생도 빨라진다."
               },
               {
                 "t": "p",
-                "x": "Cartoon Brew는 두 영화 어느 쪽도 AI를 대하는 관객 태도의 보편 법칙을 보여주지는 않는다고 짚는다. 다만 영화 제작의 돌파구라는 'Sanxingdui'의 주장은 영화적 마법을 찾는 관객을 훨씬 덜 설득했다."
+                "x": "무게는 큰 개선 쪽에 실렸다. 21.1.2에 더해진 새 기능과 개선 사항은 열두 가지를 훌쩍 넘는다. 핵심은 앞서 말한 Apple M6 IntelliSearch 분석 가속과 4배 빨라진 OGraf 재생이다."
+              },
+              {
+                "t": "p",
+                "x": "Resolve는 타임라인 편집을 다듬고 Linux 그래픽 지원을 늘렸으며, 사진·편집 작업을 자동화하는 스크립팅 APIs도 확장했다. 올가미로 편집 지점을 고르면 자동으로 다이내믹 트림에 들어가는 기능, 편집 믹서의 라우드니스 미터 표시 옵션, 타임라인 화면비에 맞춰 바뀌는 OGraf 반응형 템플릿, Linux용 OGraf·Lottie 그래픽 지원, 전반적인 성능·안정성 개선 등이 주요 내용이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "中国初のAI長編映画\n興行で大失敗",
-          "body": "『Sanxingdui: Future Past』の興収は$181,000にとどまった。",
-          "mini_headline": "中国のAI長編が興行不振",
+          "headline": "ResolveのAI検索\nM6でさらに高速に",
+          "body": "Resolve 21.1.2のAI IntelliSearchはM6で最大14x高速化した。",
+          "mini_headline": "Resolve 21.1.2でAI検索が高速化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Sanxingdui-Niu-Lai.jpg"
+                "src": "https://nofilmschool.com/media-library/davinci-resolve-update-21-1-2.jpg?id=68536481&width=1245&height=700&quality=50&coordinates=56%2C0%2C57%2C0"
               },
               {
                 "t": "p",
-                "x": "製作側が中国初の完全AI-generatedの劇場長編とうたう作品が、興行で惨敗した。技術への熱意が必ずしも観客の需要につながるわけではないことを、出資者に思い出させたのかもしれない。"
+                "x": "Blackmagic Designは、DaVinci Resolveに大幅に高速化したアップデート21.1.2を提供すると発表した。"
               },
               {
                 "t": "p",
-                "x": "推計によると、Bona Film Groupの『Sanxingdui: Future Past』はOctober 23の公開から月曜日までに、RMB1.21 million（$181,000）しか稼げなかった。Bonaによれば、このSF長編の製作費はRMB10 million（$1.5 million）を超え、100人近くが二年以上をかけた。公開初日には10,000回を超える上映が組まれていた。"
-              },
-              {
-                "t": "video",
-                "src": "https://cbgccdn.thecover.cn/ROmsWADgcpbtRMydJVR1792720023949.mp4"
+                "x": "動画編集の時代、そして言うまでもなくAIの時代である今、速度はかつてないほど重要だ。AI全般が好きでも、ResolveのIntelliSearch分析のようなAIツールが好きでも、編集で使っているなら素早く効率的に動いてほしいはずだ。"
               },
               {
                 "t": "p",
-                "x": "この低調な滑り出しは、中国の観客が『Niu Lai』を受け入れてから二か月後のことだ。『Niu Lai』はXin Yumeng監督と、その母で脚本家のSun Lifangが低予算で作った長編である。最初の十日間の興収は約RMB7,700（$1,150）だったが、粗いモデリングとぎこちないアニメーションのクリップがネットで広まってから状況が変わった。『Niu Lai』の累計興収は現在RMB64.29 million、約$10 millionに達している。"
+                "x": "DaVinci Resolveの今回のアップデート(バージョン21.1.2)が提供するのはまさにそれだ。Blackmagic Designは、Apple M6でのIntelliSearch分析が最大14倍高速になるほか、タイムライン編集の改善とOGraf再生の高速化を発表した。"
               },
               {
                 "t": "p",
-                "x": "Cartoon Brewは、どちらの作品もAIに対する観客の態度について普遍的な法則を示すものではないと強調する。ただ、映画製作のブレークスルーだという『Sanxingdui』の主張は、映画の魔法を求める観客にはかなり響かなかった。"
+                "x": "今回のアップデートは大きな改善に重きを置いており、21.1.2では十数を優に超える新機能と強化が加わる。目玉は前述のApple M6でのIntelliSearch分析の高速化と、4倍速くなったOGraf再生である。"
+              },
+              {
+                "t": "p",
+                "x": "タイムライン編集も改善され、ResolveはLinuxのグラフィックス対応を広げ、写真や編集作業を自動化するスクリプトAPIsを拡充した。主な内容は、投げ縄で選んだ編集点が自動でダイナミックトリムに入る機能、編集ミキサーにラウドネスメーターを表示するオプション、タイムラインのアスペクト比に合わせて変わるOGrafレスポンシブテンプレート、LinuxでのOGrafとLottieグラフィックスへの対応、そして全般的なパフォーマンスと安定性の向上である。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "中国首部AI长片\n票房遭遇惨败",
-          "body": "《Sanxingdui: Future Past》票房仅收$181,000。",
-          "mini_headline": "中国AI长片票房失利",
+          "headline": "Resolve的AI搜索\n在M6上更快了",
+          "body": "Resolve 21.1.2的AI IntelliSearch在M6上最高提速14x。",
+          "mini_headline": "Resolve 21.1.2 提升AI搜索速度",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Sanxingdui-Niu-Lai.jpg"
+                "src": "https://nofilmschool.com/media-library/davinci-resolve-update-21-1-2.jpg?id=68536481&width=1245&height=700&quality=50&coordinates=56%2C0%2C57%2C0"
               },
               {
                 "t": "p",
-                "x": "这部被出品方称为中国首部完全 AI-generated 院线长片的电影在票房上遭遇惨败，或许也提醒了投资方：对这项技术的热情，未必能转化为观众的观影需求。"
+                "x": "Blackmagic Design宣布，DaVinci Resolve将迎来大幅提速的21.1.2更新。"
               },
               {
                 "t": "p",
-                "x": "据估算，Bona Film Group 的《Sanxingdui: Future Past》于 October 23 上映，截至周一仅收入 RMB1.21 million（$181,000）。据 Bona 介绍，这部科幻长片成本超过 RMB10 million（$1.5 million），近 100 人投入了两年多时间。首映日排片超过 10,000 场。"
-              },
-              {
-                "t": "video",
-                "src": "https://cbgccdn.thecover.cn/ROmsWADgcpbtRMydJVR1792720023949.mp4"
+                "x": "在视频剪辑的时代，也就是如今的AI时代，速度比以往任何时候都更重要。无论你是喜欢AI本身，还是喜欢Resolve的IntelliSearch分析这类AI工具，只要在剪辑中用到它们，你都会希望它们运行得又快又高效。"
               },
               {
                 "t": "p",
-                "x": "两个月前，中国观众刚刚热捧了《Niu Lai》。这部低成本长片由导演 Xin Yumeng 与其母亲、编剧 Sun Lifang 制作。它上映头十天只收入约 RMB7,700（$1,150），直到其粗糙建模和僵硬动画的片段在网上流传开来。《Niu Lai》目前累计票房已达 RMB64.29 million，接近 $10 million。"
+                "x": "这正是DaVinci Resolve此次更新(21.1.2版)要提供的：Blackmagic Design宣布，Apple M6上的IntelliSearch分析最高提速14倍，同时改进时间线剪辑，并加快OGraf播放。"
               },
               {
                 "t": "p",
-                "x": "Cartoon Brew 强调，两部电影都不能说明观众对 AI 态度的普遍规律，但对于寻找电影魔力的观众来说，《Sanxingdui》自称代表电影制作突破的说法，显然远没有那么有吸引力。"
+                "x": "此次更新侧重于重大改进，21.1.2新增了远超十几项的新功能和增强。其中最重要的是前述Apple M6上IntelliSearch分析的提速，以及快4倍的OGraf播放。"
+              },
+              {
+                "t": "p",
+                "x": "时间线剪辑也有所改进，Resolve增加了Linux图形支持，并扩展了用于自动化照片与剪辑任务的脚本APIs。亮点包括：套索选中的剪辑点可自动进入动态修剪、可在剪辑调音台中显示响度表的选项、能适应时间线画面比例的OGraf响应式模板、在Linux上支持OGraf和Lottie图形，以及整体性能和稳定性的提升。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Primer largometraje chino de AI\nfracasa en taquilla",
-          "body": "La cinta de AI de Bona Film Group 'Sanxingdui: Future Past' recaudó solo $181,000, y 'Niu Lai' rozó $10 millones.",
-          "mini_headline": "Fracasa el largometraje chino de AI",
+          "headline": "La búsqueda con AI de Resolve\nahora es más rápida en M6",
+          "body": "DaVinci Resolve 21.1.2 de Blackmagic ejecuta el análisis de medios AI IntelliSearch hasta 14x más rápido en Apple M6.",
+          "mini_headline": "Resolve 21.1.2 acelera la búsqueda con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Sanxingdui-Niu-Lai.jpg"
+                "src": "https://nofilmschool.com/media-library/davinci-resolve-update-21-1-2.jpg?id=68536481&width=1245&height=700&quality=50&coordinates=56%2C0%2C57%2C0"
               },
               {
                 "t": "p",
-                "x": "El primer largometraje de cine de China íntegramente AI-generated, según sus productores, ha fracasado en taquilla, lo que quizá recuerde a los financiadores que el entusiasmo por la tecnología no se traduce necesariamente en demanda del público."
+                "x": "Blackmagic Design ha anunciado que llega a DaVinci Resolve una actualización muy rápida, la 21.1.2."
               },
               {
                 "t": "p",
-                "x": "Las estimaciones indican que Sanxingdui: Future Past, de Bona Film Group, recaudó solo RMB1.21 millones ($181,000) hasta el lunes, tras su estreno el 23 de octubre. Según Bona, el largometraje de ciencia ficción costó más de RMB10 millones ($1.5 millones) y exigió el trabajo de casi 100 personas durante más de dos años. Para el día del estreno se programaron más de 10,000 funciones."
-              },
-              {
-                "t": "video",
-                "src": "https://cbgccdn.thecover.cn/ROmsWADgcpbtRMydJVR1792720023949.mp4"
+                "x": "En la era actual de la edición de video y, bueno, ya se sabe, de la AI, la velocidad importa más que nunca. Tanto si le gusta la AI en general como herramientas de AI como el análisis IntelliSearch de Resolve, si las usa en su edición querrá que funcionen de forma rápida y eficiente."
               },
               {
                 "t": "p",
-                "x": "El pobre debut llega dos meses después de que el público chino abrazara Niu Lai, un largometraje de bajo presupuesto hecho por el director Xin Yumeng y su madre, la guionista Sun Lifang. Recaudó unos RMB7,700 ($1,150) en sus primeros diez días, hasta que se difundieron en internet fragmentos de su modelado tosco y su animación rígida. Niu Lai ya ha recaudado RMB64.29 millones, casi $10 millones."
+                "x": "Eso es lo que promete esta última actualización de DaVinci Resolve (versión 21.1.2): Blackmagic Design ha anunciado un análisis IntelliSearch hasta catorce veces más rápido en Apple M6, además de una edición de línea de tiempo mejorada y una reproducción OGraf más rápida."
               },
               {
                 "t": "p",
-                "x": "Cartoon Brew subraya que ninguna de las dos películas establece una regla universal sobre la actitud del público ante la AI, pero la pretensión de Sanxingdui de representar un avance en el cine ha resultado bastante menos convincente para los espectadores que buscan la magia del cine."
+                "x": "Esta actualización se inclina hacia mejoras importantes, ya que 21.1.2 añade bastante más de una docena de nuevas funciones y mejoras. Las principales son la ya mencionada aceleración del análisis IntelliSearch en Apple M6 y una reproducción OGraf cuatro veces más rápida."
+              },
+              {
+                "t": "p",
+                "x": "La edición en la línea de tiempo también ha mejorado, y Resolve suma más compatibilidad gráfica con Linux y amplía sus APIs de scripting para automatizar tareas de foto y edición. Entre lo más destacado figuran la selección con lazo de puntos de edición que ahora pueden entrar automáticamente en recorte dinámico, una opción para mostrar medidores de sonoridad en el mezclador de edición, plantillas adaptables de OGraf que se ajustan a la relación de aspecto de la línea de tiempo y compatibilidad con gráficos OGraf y Lottie en Linux, junto con mejoras generales de rendimiento y estabilidad."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "중국 첫 AI 장편 영화\n박스오피스서 흥행 참패",
-          "body": "'Sanxingdui: Future Past'는 $181,000에 그쳤다.",
-          "mini_headline": "중국 AI 장편 흥행 참패",
+        "es": {
+          "headline": "La búsqueda con AI de Resolve\nahora es más rápida en M6",
+          "body": "DaVinci Resolve 21.1.2 de Blackmagic ejecuta el análisis de medios AI IntelliSearch hasta 14x más rápido en Apple M6.",
+          "mini_headline": "Resolve 21.1.2 acelera la búsqueda con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Sanxingdui-Niu-Lai.jpg"
+                "src": "https://nofilmschool.com/media-library/davinci-resolve-update-21-1-2.jpg?id=68536481&width=1245&height=700&quality=50&coordinates=56%2C0%2C57%2C0"
               },
               {
                 "t": "p",
-                "x": "제작사가 중국 최초의 완전 AI-generated 극장용 장편이라고 내세운 영화가 박스오피스에서 참패했다. 기술에 대한 열광이 곧 관객 수요로 이어지지는 않는다는 사실을 투자자들에게 일깨웠을지도 모른다."
+                "x": "Blackmagic Design ha anunciado que llega a DaVinci Resolve una actualización muy rápida, la 21.1.2."
               },
               {
                 "t": "p",
-                "x": "추정치에 따르면 Bona Film Group의 'Sanxingdui: Future Past'는 October 23 개봉 후 월요일까지 RMB1.21 million($181,000)을 버는 데 그쳤다. Bona에 따르면 이 SF 장편에는 RMB10 million($1.5 million) 이상이 들었고, 100명 가까운 인력이 두 해 넘게 매달렸다. 개봉일에는 10,000회가 넘는 상영이 잡혀 있었다."
-              },
-              {
-                "t": "video",
-                "src": "https://cbgccdn.thecover.cn/ROmsWADgcpbtRMydJVR1792720023949.mp4"
+                "x": "En la era actual de la edición de video y, bueno, ya se sabe, de la AI, la velocidad importa más que nunca. Tanto si le gusta la AI en general como herramientas de AI como el análisis IntelliSearch de Resolve, si las usa en su edición querrá que funcionen de forma rápida y eficiente."
               },
               {
                 "t": "p",
-                "x": "이 부진한 출발은 중국 관객이 'Niu Lai'를 받아들인 지 두 달 만에 나왔다. 'Niu Lai'는 Xin Yumeng 감독과 그의 어머니인 각본가 Sun Lifang이 적은 예산으로 만든 장편이다. 개봉 첫 열흘 동안 약 RMB7,700($1,150)을 버는 데 그쳤지만, 조악한 모델링과 뻣뻣한 애니메이션을 담은 클립이 온라인에 퍼진 뒤 흐름이 바뀌었다. 'Niu Lai'의 현재 누적 흥행 수입은 RMB64.29 million, 약 $10 million에 이른다."
+                "x": "Eso es lo que promete esta última actualización de DaVinci Resolve (versión 21.1.2): Blackmagic Design ha anunciado un análisis IntelliSearch hasta catorce veces más rápido en Apple M6, además de una edición de línea de tiempo mejorada y una reproducción OGraf más rápida."
               },
               {
                 "t": "p",
-                "x": "Cartoon Brew는 두 영화 모두 AI를 대하는 관객 태도에 관한 보편적 법칙을 보여주지는 않는다고 강조한다. 다만 영화 제작의 돌파구라는 'Sanxingdui'의 주장은 영화적 마법을 찾는 관객에게 훨씬 덜 설득력 있는 것으로 드러났다."
+                "x": "Esta actualización se inclina hacia mejoras importantes, ya que 21.1.2 añade bastante más de una docena de nuevas funciones y mejoras. Las principales son la ya mencionada aceleración del análisis IntelliSearch en Apple M6 y una reproducción OGraf cuatro veces más rápida."
+              },
+              {
+                "t": "p",
+                "x": "La edición en la línea de tiempo también ha mejorado, y Resolve suma más compatibilidad gráfica con Linux y amplía sus APIs de scripting para automatizar tareas de foto y edición. Entre lo más destacado figuran la selección con lazo de puntos de edición que ahora pueden entrar automáticamente en recorte dinámico, una opción para mostrar medidores de sonoridad en el mezclador de edición, plantillas adaptables de OGraf que se ajustan a la relación de aspecto de la línea de tiempo y compatibilidad con gráficos OGraf y Lottie en Linux, junto con mejoras generales de rendimiento y estabilidad."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Resolve AI 검색\nM6에서 더 빨라졌다",
+          "body": "Resolve 21.1.2 IntelliSearch는 M6에서 최대 14x 빠르다.",
+          "mini_headline": "Resolve 21.1.2, AI 검색 속도 향상",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/davinci-resolve-update-21-1-2.jpg?id=68536481&width=1245&height=700&quality=50&coordinates=56%2C0%2C57%2C0"
+              },
+              {
+                "t": "p",
+                "x": "Blackmagic Design은 DaVinci Resolve에 속도를 크게 끌어올린 21.1.2 업데이트가 나온다고 발표했다."
+              },
+              {
+                "t": "p",
+                "x": "영상 편집, 그리고 굳이 덧붙이자면 AI의 시대인 지금, 속도는 그 어느 때보다 중요하다. AI 전반을 좋아하든 Resolve의 IntelliSearch 분석 같은 AI 도구를 좋아하든, 편집에 쓰고 있다면 빠르고 효율적으로 돌아가기를 바랄 것이다."
+              },
+              {
+                "t": "p",
+                "x": "DaVinci Resolve의 이번 업데이트(버전 21.1.2)가 내세우는 것이 바로 그것이다. Blackmagic Design은 Apple M6에서 IntelliSearch 분석이 최대 14배 빨라지고, 타임라인 편집이 개선되며, OGraf 재생도 빨라진다고 발표했다."
+              },
+              {
+                "t": "p",
+                "x": "이번 업데이트는 큰 개선 쪽에 무게가 실려 있다. 21.1.2는 열두 가지를 훨씬 넘는 새 기능과 개선 사항을 더한다. 핵심은 앞서 말한 Apple M6에서의 IntelliSearch 분석 가속과 4배 빨라진 OGraf 재생이다."
+              },
+              {
+                "t": "p",
+                "x": "타임라인 편집도 개선됐고, Resolve는 Linux 그래픽 지원을 늘리고 사진·편집 작업 자동화를 위한 스크립팅 APIs를 확장했다. 주요 내용으로는 올가미로 편집 지점을 선택하면 자동으로 다이내믹 트림에 들어가는 기능, 편집 믹서에 라우드니스 미터를 표시하는 옵션, 타임라인 화면비에 맞춰 바뀌는 OGraf 반응형 템플릿, Linux에서의 OGraf와 Lottie 그래픽 지원, 그리고 전반적인 성능과 안정성 개선이 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "中国初のAI長編映画\n興行で大失敗",
-          "body": "『Sanxingdui: Future Past』の興収は$181,000にとどまった。",
-          "mini_headline": "中国のAI長編が興行不振",
+          "headline": "ResolveのAI検索\nM6でさらに高速に",
+          "body": "Resolve 21.1.2のAI IntelliSearchはM6で最大14x高速化した。",
+          "mini_headline": "Resolve 21.1.2でAI検索が高速化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Sanxingdui-Niu-Lai.jpg"
+                "src": "https://nofilmschool.com/media-library/davinci-resolve-update-21-1-2.jpg?id=68536481&width=1245&height=700&quality=50&coordinates=56%2C0%2C57%2C0"
               },
               {
                 "t": "p",
-                "x": "製作側が中国初の完全AI-generatedの劇場長編とうたう作品が、興行で惨敗した。技術への熱意が必ずしも観客の需要につながるわけではないことを、出資者に思い出させたのかもしれない。"
+                "x": "Blackmagic Designは、DaVinci Resolveに大幅に高速化したアップデート21.1.2を提供すると発表した。"
               },
               {
                 "t": "p",
-                "x": "推計によると、Bona Film Groupの『Sanxingdui: Future Past』はOctober 23の公開から月曜日までに、RMB1.21 million（$181,000）しか稼げなかった。Bonaによれば、このSF長編の製作費はRMB10 million（$1.5 million）を超え、100人近くが二年以上をかけた。公開初日には10,000回を超える上映が組まれていた。"
-              },
-              {
-                "t": "video",
-                "src": "https://cbgccdn.thecover.cn/ROmsWADgcpbtRMydJVR1792720023949.mp4"
+                "x": "動画編集の時代、そして言うまでもなくAIの時代である今、速度はかつてないほど重要だ。AI全般が好きでも、ResolveのIntelliSearch分析のようなAIツールが好きでも、編集で使っているなら素早く効率的に動いてほしいはずだ。"
               },
               {
                 "t": "p",
-                "x": "この低調な滑り出しは、中国の観客が『Niu Lai』を受け入れてから二か月後のことだ。『Niu Lai』はXin Yumeng監督と、その母で脚本家のSun Lifangが低予算で作った長編である。最初の十日間の興収は約RMB7,700（$1,150）だったが、粗いモデリングとぎこちないアニメーションのクリップがネットで広まってから状況が変わった。『Niu Lai』の累計興収は現在RMB64.29 million、約$10 millionに達している。"
+                "x": "DaVinci Resolveの今回のアップデート(バージョン21.1.2)が提供するのはまさにそれだ。Blackmagic Designは、Apple M6でのIntelliSearch分析が最大14倍高速になるほか、タイムライン編集の改善とOGraf再生の高速化を発表した。"
               },
               {
                 "t": "p",
-                "x": "Cartoon Brewは、どちらの作品もAIに対する観客の態度について普遍的な法則を示すものではないと強調する。ただ、映画製作のブレークスルーだという『Sanxingdui』の主張は、映画の魔法を求める観客にはかなり響かなかった。"
+                "x": "今回のアップデートは大きな改善に重きを置いており、21.1.2では十数を優に超える新機能と強化が加わる。目玉は前述のApple M6でのIntelliSearch分析の高速化と、4倍速くなったOGraf再生である。"
+              },
+              {
+                "t": "p",
+                "x": "タイムライン編集も改善され、ResolveはLinuxのグラフィックス対応を広げ、写真や編集作業を自動化するスクリプトAPIsを拡充した。主な内容は、投げ縄で選んだ編集点が自動でダイナミックトリムに入る機能、編集ミキサーにラウドネスメーターを表示するオプション、タイムラインのアスペクト比に合わせて変わるOGrafレスポンシブテンプレート、LinuxでのOGrafとLottieグラフィックスへの対応、そして全般的なパフォーマンスと安定性の向上である。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "中国首部AI长片\n票房遭遇惨败",
-          "body": "《Sanxingdui: Future Past》票房仅收$181,000。",
-          "mini_headline": "中国AI长片票房失利",
+          "headline": "Resolve的AI搜索\n在M6上更快了",
+          "body": "Resolve 21.1.2的AI IntelliSearch在M6上最高提速14x。",
+          "mini_headline": "Resolve 21.1.2 提升AI搜索速度",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Sanxingdui-Niu-Lai.jpg"
+                "src": "https://nofilmschool.com/media-library/davinci-resolve-update-21-1-2.jpg?id=68536481&width=1245&height=700&quality=50&coordinates=56%2C0%2C57%2C0"
               },
               {
                 "t": "p",
-                "x": "这部被出品方称为中国首部完全 AI-generated 院线长片的电影在票房上遭遇惨败，或许也提醒了投资方：对这项技术的热情，未必能转化为观众的观影需求。"
+                "x": "Blackmagic Design宣布，DaVinci Resolve将迎来大幅提速的21.1.2更新。"
               },
               {
                 "t": "p",
-                "x": "据估算，Bona Film Group 的《Sanxingdui: Future Past》于 October 23 上映，截至周一仅收入 RMB1.21 million（$181,000）。据 Bona 介绍，这部科幻长片成本超过 RMB10 million（$1.5 million），近 100 人投入了两年多时间。首映日排片超过 10,000 场。"
-              },
-              {
-                "t": "video",
-                "src": "https://cbgccdn.thecover.cn/ROmsWADgcpbtRMydJVR1792720023949.mp4"
+                "x": "在视频剪辑的时代，也就是如今的AI时代，速度比以往任何时候都更重要。无论你是喜欢AI本身，还是喜欢Resolve的IntelliSearch分析这类AI工具，只要在剪辑中用到它们，你都会希望它们运行得又快又高效。"
               },
               {
                 "t": "p",
-                "x": "两个月前，中国观众刚刚热捧了《Niu Lai》。这部低成本长片由导演 Xin Yumeng 与其母亲、编剧 Sun Lifang 制作。它上映头十天只收入约 RMB7,700（$1,150），直到其粗糙建模和僵硬动画的片段在网上流传开来。《Niu Lai》目前累计票房已达 RMB64.29 million，接近 $10 million。"
+                "x": "这正是DaVinci Resolve此次更新(21.1.2版)要提供的：Blackmagic Design宣布，Apple M6上的IntelliSearch分析最高提速14倍，同时改进时间线剪辑，并加快OGraf播放。"
               },
               {
                 "t": "p",
-                "x": "Cartoon Brew 强调，两部电影都不能说明观众对 AI 态度的普遍规律，但对于寻找电影魔力的观众来说，《Sanxingdui》自称代表电影制作突破的说法，显然远没有那么有吸引力。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Primer largometraje chino de AI\nfracasa en taquilla",
-          "body": "La cinta de AI de Bona Film Group 'Sanxingdui: Future Past' recaudó solo $181,000, y 'Niu Lai' rozó $10 millones.",
-          "mini_headline": "Fracasa el largometraje chino de AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Sanxingdui-Niu-Lai.jpg"
+                "x": "此次更新侧重于重大改进，21.1.2新增了远超十几项的新功能和增强。其中最重要的是前述Apple M6上IntelliSearch分析的提速，以及快4倍的OGraf播放。"
               },
               {
                 "t": "p",
-                "x": "El primer largometraje de cine de China íntegramente AI-generated, según sus productores, ha fracasado en taquilla, lo que quizá recuerde a los financiadores que el entusiasmo por la tecnología no se traduce necesariamente en demanda del público."
-              },
-              {
-                "t": "p",
-                "x": "Las estimaciones indican que Sanxingdui: Future Past, de Bona Film Group, recaudó solo RMB1.21 millones ($181,000) hasta el lunes, tras su estreno el 23 de octubre. Según Bona, el largometraje de ciencia ficción costó más de RMB10 millones ($1.5 millones) y exigió el trabajo de casi 100 personas durante más de dos años. Para el día del estreno se programaron más de 10,000 funciones."
-              },
-              {
-                "t": "video",
-                "src": "https://cbgccdn.thecover.cn/ROmsWADgcpbtRMydJVR1792720023949.mp4"
-              },
-              {
-                "t": "p",
-                "x": "El pobre debut llega dos meses después de que el público chino abrazara Niu Lai, un largometraje de bajo presupuesto hecho por el director Xin Yumeng y su madre, la guionista Sun Lifang. Recaudó unos RMB7,700 ($1,150) en sus primeros diez días, hasta que se difundieron en internet fragmentos de su modelado tosco y su animación rígida. Niu Lai ya ha recaudado RMB64.29 millones, casi $10 millones."
-              },
-              {
-                "t": "p",
-                "x": "Cartoon Brew subraya que ninguna de las dos películas establece una regla universal sobre la actitud del público ante la AI, pero la pretensión de Sanxingdui de representar un avance en el cine ha resultado bastante menos convincente para los espectadores que buscan la magia del cine."
+                "x": "时间线剪辑也有所改进，Resolve增加了Linux图形支持，并扩展了用于自动化照片与剪辑任务的脚本APIs。亮点包括：套索选中的剪辑点可自动进入动态修剪、可在剪辑调音台中显示响度表的选项、能适应时间线画面比例的OGraf响应式模板、在Linux上支持OGraf和Lottie图形，以及整体性能和稳定性的提升。"
               }
             ]
           }
@@ -667,469 +355,189 @@
       }
     },
     {
-      "id": "movies-character-consistency",
+      "id": "sntpct",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 캐릭터 일관성\n해법 두 가지 비교",
-      "body": "Curious Refuge가 AI 영화의 캐릭터 일관성 기법 두 가지를 견준다.",
-      "mini_headline": "AI 캐릭터 일관성 테스트",
+      "headline": "프랑스 애니 노조,\nNov. 18 파업 예고",
+      "body": "프랑스 애니 노조가 임금·GenAI 강제 금지를 요구하며 Nov. 18 파업한다.",
+      "mini_headline": "프랑스 애니메이터, GenAI 파업 예고",
       "tool": "Movies",
-      "source": "Curious Refuge",
-      "url": "https://www.youtube.com/watch?v=ktEt4n9VlF4",
+      "source": "Animation World Network",
+      "url": "https://www.awn.com/news/sntpct-calls-2-hour-walkout-french-animation-and-vfx-workers",
       "accent": "#7928ca",
-      "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "video",
-            "yt": "ktEt4n9VlF4"
-          },
-          {
-            "t": "p",
-            "x": "널리 쓰이는 AI 캐릭터 일관성 기법 두 가지를 나란히 놓고, AI 영화 제작에 실제로 어느 쪽이 더 맞는지 따져 본다."
-          },
-          {
-            "t": "p",
-            "x": "전체 해설과 프롬프트는 다음 링크에 있다: curiousrefuge.com/blog/how-to-create-pro-ai-character-sheets"
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Two fixes for AI character\nconsistency, tested",
-          "body": "Curious Refuge compares two popular character consistency methods to see which works better for AI filmmaking.",
-          "mini_headline": "Testing AI character consistency",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "ktEt4n9VlF4"
-              },
-              {
-                "t": "p",
-                "x": "In this video, we'll compare two popular AI character consistency methods to see which one actually works better for AI filmmaking."
-              },
-              {
-                "t": "p",
-                "x": "Check out the full written breakdown and prompts here: curiousrefuge.com/blog/how-to-create-pro-ai-character-sheets"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI 캐릭터 일관성\n해법 두 가지 비교",
-          "body": "Curious Refuge가 AI 영화의 캐릭터 일관성 기법 두 가지를 견준다.",
-          "mini_headline": "AI 캐릭터 일관성 테스트",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "ktEt4n9VlF4"
-              },
-              {
-                "t": "p",
-                "x": "널리 쓰이는 AI 캐릭터 일관성 기법 두 가지를 나란히 놓고, AI 영화 제작에 실제로 어느 쪽이 더 맞는지 따져 본다."
-              },
-              {
-                "t": "p",
-                "x": "전체 해설과 프롬프트는 다음 링크에 있다: curiousrefuge.com/blog/how-to-create-pro-ai-character-sheets"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIキャラ一貫性の\n二つの手法を検証",
-          "body": "Curious RefugeがAI映画向けに人気のキャラクター一貫性手法二つを比較する。",
-          "mini_headline": "AIキャラクター一貫性を検証",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "ktEt4n9VlF4"
-              },
-              {
-                "t": "p",
-                "x": "この動画では、人気のあるAIキャラクター一貫性の手法二つを比較し、AI映画制作に実際どちらが向いているかを確かめる。"
-              },
-              {
-                "t": "p",
-                "x": "詳しい解説とプロンプトはこちら：curiousrefuge.com/blog/how-to-create-pro-ai-character-sheets"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI角色一致性\n两种方案实测",
-          "body": "Curious Refuge比较两种热门角色一致性方法，看哪种更适合AI电影制作。",
-          "mini_headline": "实测AI角色一致性",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "ktEt4n9VlF4"
-              },
-              {
-                "t": "p",
-                "x": "在这段视频中，我们将比较两种热门的 AI 角色一致性方法，看看哪一种真正更适合 AI 电影制作。"
-              },
-              {
-                "t": "p",
-                "x": "完整的文字解析和提示词请见：curiousrefuge.com/blog/how-to-create-pro-ai-character-sheets"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Dos soluciones a la coherencia\nde personajes con AI, a prueba",
-          "body": "Curious Refuge compara dos métodos populares de coherencia de personajes para ver cuál funciona mejor en cine con AI.",
-          "mini_headline": "Coherencia de personajes con AI, a prueba",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "ktEt4n9VlF4"
-              },
-              {
-                "t": "p",
-                "x": "En este video comparamos dos métodos populares de coherencia de personajes con AI para ver cuál funciona realmente mejor en el cine hecho con AI."
-              },
-              {
-                "t": "p",
-                "x": "El análisis completo por escrito y los prompts están aquí: curiousrefuge.com/blog/how-to-create-pro-ai-character-sheets"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI 캐릭터 일관성\n해법 두 가지 비교",
-          "body": "Curious Refuge가 AI 영화용 캐릭터 일관성 기법 둘을 비교한다.",
-          "mini_headline": "AI 캐릭터 일관성 테스트",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "ktEt4n9VlF4"
-              },
-              {
-                "t": "p",
-                "x": "이 영상에서는 널리 쓰이는 AI 캐릭터 일관성 기법 두 가지를 비교해, AI 영화 제작에 실제로 어느 쪽이 더 잘 맞는지 살펴본다."
-              },
-              {
-                "t": "p",
-                "x": "전체 해설과 프롬프트는 여기서 볼 수 있다: curiousrefuge.com/blog/how-to-create-pro-ai-character-sheets"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIキャラ一貫性の\n二つの手法を検証",
-          "body": "Curious RefugeがAI映画向けに人気のキャラクター一貫性手法二つを比較する。",
-          "mini_headline": "AIキャラクター一貫性を検証",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "ktEt4n9VlF4"
-              },
-              {
-                "t": "p",
-                "x": "この動画では、人気のあるAIキャラクター一貫性の手法二つを比較し、AI映画制作に実際どちらが向いているかを確かめる。"
-              },
-              {
-                "t": "p",
-                "x": "詳しい解説とプロンプトはこちら：curiousrefuge.com/blog/how-to-create-pro-ai-character-sheets"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI角色一致性\n两种方案实测",
-          "body": "Curious Refuge比较两种热门角色一致性方法，看哪种更适合AI电影制作。",
-          "mini_headline": "实测AI角色一致性",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "ktEt4n9VlF4"
-              },
-              {
-                "t": "p",
-                "x": "在这段视频中，我们将比较两种热门的 AI 角色一致性方法，看看哪一种真正更适合 AI 电影制作。"
-              },
-              {
-                "t": "p",
-                "x": "完整的文字解析和提示词请见：curiousrefuge.com/blog/how-to-create-pro-ai-character-sheets"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Dos soluciones a la coherencia\nde personajes con AI, a prueba",
-          "body": "Curious Refuge compara dos métodos populares de coherencia de personajes para ver cuál funciona mejor en cine con AI.",
-          "mini_headline": "Coherencia de personajes con AI, a prueba",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "ktEt4n9VlF4"
-              },
-              {
-                "t": "p",
-                "x": "En este video comparamos dos métodos populares de coherencia de personajes con AI para ver cuál funciona realmente mejor en el cine hecho con AI."
-              },
-              {
-                "t": "p",
-                "x": "El análisis completo por escrito y los prompts están aquí: curiousrefuge.com/blog/how-to-create-pro-ai-character-sheets"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "movies-ramayana-ai-dub",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Ramayana 더빙에\nAI 립싱크를 쓴다",
-      "body": "힌디어로만 찍은 Ramayana Part 1은 Brahma AI로 더빙을 입힌다.",
-      "mini_headline": "Ramayana, AI-assisted 더빙",
-      "tool": "Movies",
-      "source": "Times Now",
-      "url": "https://www.timesnownews.com/entertainment-news/bollywood/ramayan-producer-namit-malhotra-explains-how-human-voices-combined-with-ai-formed-english-dubbing-article-156399525",
-      "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://images.timesnownews.com/thumb/msid-156399526,thumbsize-1025251,width-1280,height-720,resizemode-75/156399526.jpg"
+            "src": "https://www.awn.com/sites/default/files/styles/inline_medium/public/image/attached/1081637-sntpct-flyer-1.jpg?itok=HI648P_C"
           },
           {
             "t": "p",
-            "x": "Ramayana Part 1은 출연진과 함께 힌디어로 촬영했고 영어로는 찍지 않았다. 대신 Brahma AI가 사람 배우와 컴퓨터 작업을 오디오에 결합해, 언어판마다 화면 속 배우의 입 움직임과 맞아떨어지게 한다. 영어 예고편은 대부분의 배우가 직접 더빙했고 AI는 쓰지 않았다. Nitesh Tiwari가 연출한 'Ramayana: Rise of a Legend'는 November 5 극장과 IMAX에서 개봉한다."
-          },
-          {
-            "t": "img",
-            "src": "https://images.timesnownews.com/thumb/msid-156399528,width-1600,height-900,resizemode-75/156399528.jpg"
+            "x": "프랑스 과반 애니메이션 노조가 11월 18일 오후 2시부터 4시까지 전국 애니메이션·VFX 종사자 모두에게 일손을 멈춰 달라고 요청했다. 임금과 생성형 AI, 직책 명칭, 공휴일 문제로 AnimFrance와 SPI를 압박하겠다는 계산이다."
           },
           {
             "t": "p",
-            "x": "프로듀서 Namit Malhotra는 ET Now 인터뷰에서 이 영화를 전 세계 40개 언어로 개봉할 계획이라고 밝혔다. 대사는 성우가, 때로는 실제 배우가 녹음한다. 립싱크 역시 사람이 감독한다. “우리가 휴먼 드라이버라고 부르는 사람들이 입술이 어떻게 움직이고 목소리에 어떻게 맞춰지는지의 토대를 만듭니다.”"
+            "x": "SNTPCT는 네 가지를 요구한다. 2007년 이후 물가 상승분을 따라잡도록 보장 최저임금을 11.2% 올려 2027년 1월 1일부터 적용하고, 애니메이션 노동협약에서 “어시스턴트” 직책 13개를 없애며, 생성형 AI 규정을 협약에 넣으라는 것이다. 애니메이션 협약이 다섯 날만 인정하는 공휴일도 프랑스 노동법전의 11개 공휴일 전부로 늘려 달라고 했다."
           },
           {
             "t": "p",
-            "x": "그다음 전용 도구가 AI로 그 연기를 배우 얼굴에 이어 붙인다. Malhotra는 “그래서 완전히 매끄럽게 느껴집니다”라고 말했다."
-          },
-          {
-            "t": "img",
-            "src": "https://images.timesnownews.com/thumb/msid-156399529,width-1600,height-900,resizemode-75/156399529.jpg"
+            "x": "2025년 말 낸 생성형 AI 개정안의 원칙은 세 가지다. 고용주는 노동자에게 GenAI 도구를 쓰거나 개발하라고 강요할 수 없고, 이를 고용 조건으로 내걸 수도 없다. 제작사는 노동자의 서면 허락 없이 그 창작물로 이미지·소리·텍스트를 생성하지 못한다. GenAI를 썼다면 영화 크레디트에 밝혀서, 하지 않은 작업에 이름이 오르는 사람이 없게 해야 한다."
           },
           {
             "t": "p",
-            "x": "출연진은 Lord Rama 역 Ranbir Kapoor, Ravana 역 Yash, Sita 역 Sai Pallavi, Lakshman 역 Ravie Dubey, Hanuman 역 Sunny Deol이다. 'Ramayana: Part 1'의 월드 프리미어는 October 27, 2026 Academy Museum of Motion Pictures에서 열린다."
+            "x": "파업 대상은 비디오게임용 애니메이션 제작을 포함해 애니메이션 영화·시리즈·광고를 만드는 회사와 VFX 스튜디오다. 11월 18일은 Angoulême에서 RADI-RAF 콘퍼런스가 막을 올리는 날로, 주 집회도 그곳에서 열린다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Ramayana uses AI lip-sync for\nits English and global dubs",
-          "body": "Shot only in Hindi, Ramayana Part 1 uses Brahma AI to stitch human-recorded dubs onto actors' faces in other languages.",
-          "mini_headline": "Ramayana's AI-assisted dub",
+          "headline": "French animation union\nsets Nov. 18 walkout",
+          "body": "France's majority animation union called a Nov. 18 walkout over pay and a ban on compelled GenAI use.",
+          "mini_headline": "French animators set GenAI walkout",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156399526,thumbsize-1025251,width-1280,height-720,resizemode-75/156399526.jpg"
+                "src": "https://www.awn.com/sites/default/files/styles/inline_medium/public/image/attached/1081637-sntpct-flyer-1.jpg?itok=HI648P_C"
               },
               {
                 "t": "p",
-                "x": "Ramayana Part 1 was shot in Hindi with its cast, but not in English. Instead, Brahma AI incorporates human actors and computer work on the audio so the different language versions match the actors' verbal movements on screen. Most of the actors dubbed the English trailer themselves, which had no AI. Directed by Nitesh Tiwari, Ramayana: Rise of a Legend releases in theatres and IMAX on November 5."
-              },
-              {
-                "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156399528,width-1600,height-900,resizemode-75/156399528.jpg"
+                "x": "France's majority animation union is asking every animation and VFX worker in the country to stop work from 2 p.m. to 4 p.m. on November 18, pressing AnimFrance and SPI on pay, generative AI, job titles and public holidays."
               },
               {
                 "t": "p",
-                "x": "Speaking to ET Now, producer Namit Malhotra said the film is reportedly going to be released in 40 languages worldwide. Voice actors and sometimes the actual actors record the dialogue. Lip syncing is also supervised by humans: \"They are what we call human drivers who create this foundation of how the lips move and how they sync themselves to the voice.\""
+                "x": "The SNTPCT is pressing four demands: guaranteed minimum salaries raised 11.2% to catch up with inflation since 2007, taking effect January 1, 2027; 13 \"assistant\" positions removed from the animation labor agreement; rules on generative AI written into the agreement; and all 11 public holidays in the French Labor Code, where the animation agreement provides five."
               },
               {
                 "t": "p",
-                "x": "A bespoke tool then uses AI to stitch the performance into the face of the actor. \"So it feels absolutely seamless,\" Malhotra said."
-              },
-              {
-                "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156399529,width-1600,height-900,resizemode-75/156399529.jpg"
+                "x": "Its generative AI amendment, submitted at the end of 2025, rests on three principles: employers may not compel workers to use or develop GenAI tools or make that a condition of employment; producers may not generate images, sounds or text from a worker's creations without that worker's written authorization; and any use of GenAI must be acknowledged in a film's credits, so that no worker is credited with work they did not do."
               },
               {
                 "t": "p",
-                "x": "The cast includes Ranbir Kapoor as Lord Rama, Yash as Ravana, Sai Pallavi as Sita, Ravie Dubey as Lakshman and Sunny Deol as Hanuman. Ramayana: Part 1 has its world premiere at the Academy Museum of Motion Pictures on October 27, 2026."
+                "x": "The walkout covers companies producing animated films, series and commercials, including animation production for video games, as well as VFX studios. November 18 is the opening day of the RADI-RAF conferences in Angoulême, where the main gathering will take place."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Ramayana 더빙에\nAI 립싱크를 쓴다",
-          "body": "힌디어로만 찍은 Ramayana Part 1은 Brahma AI로 더빙을 입힌다.",
-          "mini_headline": "Ramayana, AI-assisted 더빙",
+          "headline": "프랑스 애니 노조,\nNov. 18 파업 예고",
+          "body": "프랑스 애니 노조가 임금·GenAI 강제 금지를 요구하며 Nov. 18 파업한다.",
+          "mini_headline": "프랑스 애니메이터, GenAI 파업 예고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156399526,thumbsize-1025251,width-1280,height-720,resizemode-75/156399526.jpg"
+                "src": "https://www.awn.com/sites/default/files/styles/inline_medium/public/image/attached/1081637-sntpct-flyer-1.jpg?itok=HI648P_C"
               },
               {
                 "t": "p",
-                "x": "Ramayana Part 1은 출연진과 함께 힌디어로 촬영했고 영어로는 찍지 않았다. 대신 Brahma AI가 사람 배우와 컴퓨터 작업을 오디오에 결합해, 언어판마다 화면 속 배우의 입 움직임과 맞아떨어지게 한다. 영어 예고편은 대부분의 배우가 직접 더빙했고 AI는 쓰지 않았다. Nitesh Tiwari가 연출한 'Ramayana: Rise of a Legend'는 November 5 극장과 IMAX에서 개봉한다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156399528,width-1600,height-900,resizemode-75/156399528.jpg"
+                "x": "프랑스 과반 애니메이션 노조가 11월 18일 오후 2시부터 4시까지 전국 애니메이션·VFX 종사자 모두에게 일손을 멈춰 달라고 요청했다. 임금과 생성형 AI, 직책 명칭, 공휴일 문제로 AnimFrance와 SPI를 압박하겠다는 계산이다."
               },
               {
                 "t": "p",
-                "x": "프로듀서 Namit Malhotra는 ET Now 인터뷰에서 이 영화를 전 세계 40개 언어로 개봉할 계획이라고 밝혔다. 대사는 성우가, 때로는 실제 배우가 녹음한다. 립싱크 역시 사람이 감독한다. “우리가 휴먼 드라이버라고 부르는 사람들이 입술이 어떻게 움직이고 목소리에 어떻게 맞춰지는지의 토대를 만듭니다.”"
+                "x": "SNTPCT는 네 가지를 요구한다. 2007년 이후 물가 상승분을 따라잡도록 보장 최저임금을 11.2% 올려 2027년 1월 1일부터 적용하고, 애니메이션 노동협약에서 “어시스턴트” 직책 13개를 없애며, 생성형 AI 규정을 협약에 넣으라는 것이다. 애니메이션 협약이 다섯 날만 인정하는 공휴일도 프랑스 노동법전의 11개 공휴일 전부로 늘려 달라고 했다."
               },
               {
                 "t": "p",
-                "x": "그다음 전용 도구가 AI로 그 연기를 배우 얼굴에 이어 붙인다. Malhotra는 “그래서 완전히 매끄럽게 느껴집니다”라고 말했다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156399529,width-1600,height-900,resizemode-75/156399529.jpg"
+                "x": "2025년 말 낸 생성형 AI 개정안의 원칙은 세 가지다. 고용주는 노동자에게 GenAI 도구를 쓰거나 개발하라고 강요할 수 없고, 이를 고용 조건으로 내걸 수도 없다. 제작사는 노동자의 서면 허락 없이 그 창작물로 이미지·소리·텍스트를 생성하지 못한다. GenAI를 썼다면 영화 크레디트에 밝혀서, 하지 않은 작업에 이름이 오르는 사람이 없게 해야 한다."
               },
               {
                 "t": "p",
-                "x": "출연진은 Lord Rama 역 Ranbir Kapoor, Ravana 역 Yash, Sita 역 Sai Pallavi, Lakshman 역 Ravie Dubey, Hanuman 역 Sunny Deol이다. 'Ramayana: Part 1'의 월드 프리미어는 October 27, 2026 Academy Museum of Motion Pictures에서 열린다."
+                "x": "파업 대상은 비디오게임용 애니메이션 제작을 포함해 애니메이션 영화·시리즈·광고를 만드는 회사와 VFX 스튜디오다. 11월 18일은 Angoulême에서 RADI-RAF 콘퍼런스가 막을 올리는 날로, 주 집회도 그곳에서 열린다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ramayanaの吹替に\nAIリップシンク",
-          "body": "ヒンディー語で撮ったRamayana Part 1はBrahma AIで吹替を合成する。",
-          "mini_headline": "RamayanaのAI-assisted吹き替え",
+          "headline": "仏アニメ労組が\nNov. 18にスト",
+          "body": "仏の過半数アニメ労組が賃金とGenAI強制禁止を求め、Nov. 18 にストを行う。",
+          "mini_headline": "仏アニメーター、GenAIでスト",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156399526,thumbsize-1025251,width-1280,height-720,resizemode-75/156399526.jpg"
+                "src": "https://www.awn.com/sites/default/files/styles/inline_medium/public/image/attached/1081637-sntpct-flyer-1.jpg?itok=HI648P_C"
               },
               {
                 "t": "p",
-                "x": "Ramayana Part 1はキャストとともにヒンディー語で撮影され、英語では撮影されていない。代わりにBrahma AIが人間の俳優とコンピューター処理を音声に組み合わせ、各言語版が画面上の俳優の口の動きに合うようにしている。英語版予告編はほとんどの俳優が自ら吹き替え、AIは使われていない。Nitesh Tiwari監督の『Ramayana: Rise of a Legend』はNovember 5に劇場とIMAXで公開される。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156399528,width-1600,height-900,resizemode-75/156399528.jpg"
+                "x": "フランスの過半数アニメーション労組は、国内のすべてのアニメーション・VFX従事者に11月18日午後2時から4時まで作業を止めるよう呼びかけ、賃金、生成AI、職名、祝日をめぐってAnimFranceとSPIに圧力をかけている。"
               },
               {
                 "t": "p",
-                "x": "プロデューサーのNamit MalhotraはET Nowに対し、本作は世界40言語で公開される予定だと語った。台詞は声優が、ときには本人の俳優が収録する。リップシンクも人間が監修する。「私たちがヒューマンドライバーと呼ぶ人たちが、唇がどう動き、声にどう同期するかという土台を作るのです」"
+                "x": "SNTPCTの要求は四つだ。2007年以降のインフレに追いつくよう保証最低賃金を11.2%引き上げ、2027年1月1日から適用すること。アニメーション労働協約から「アシスタント」職13種を削除すること。生成AIのルールを協約に盛り込むこと。そして協約が五日しか定めていない祝日を、フランス労働法典の11の祝日すべてにすることである。"
               },
               {
                 "t": "p",
-                "x": "その後、専用ツールがAIでその演技を俳優の顔に合成する。「だから、まったく継ぎ目なく感じられるのです」とMalhotraは述べた。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156399529,width-1600,height-900,resizemode-75/156399529.jpg"
+                "x": "2025年末に提出した生成AIの改正案は三つの原則に立つ。雇用主は労働者にGenAIツールの使用や開発を強制したり、それを雇用条件にしたりしてはならない。制作会社は労働者の書面による許可なく、その創作物から画像・音声・テキストを生成してはならない。GenAIを使った場合は作品のクレジットに明記し、自分がしていない仕事で誰もクレジットされないようにする。"
               },
               {
                 "t": "p",
-                "x": "キャストはLord Rama役のRanbir Kapoor、Ravana役のYash、Sita役のSai Pallavi、Lakshman役のRavie Dubey、Hanuman役のSunny Deolだ。『Ramayana: Part 1』はOctober 27, 2026、Academy Museum of Motion Picturesでワールドプレミアを迎える。"
+                "x": "ストの対象は、ビデオゲーム向けアニメーション制作を含むアニメーション映画・シリーズ・CMの制作会社と、VFXスタジオである。11月18日はAngoulêmeで開かれるRADI-RAF会議の初日で、主な集会もそこで行われる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ramayana多语配音\n借AI实现口型同步",
-          "body": "仅用印地语拍摄的Ramayana Part 1借Brahma AI把真人配音贴合演员面部。",
-          "mini_headline": "Ramayana的AI-assisted配音",
+          "headline": "法国动画工会\n定于 Nov. 18 罢工",
+          "body": "法国多数派动画工会就薪酬及禁止强制使用GenAI，号召于Nov. 18 罢工。",
+          "mini_headline": "法国动画人因GenAI罢工",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156399526,thumbsize-1025251,width-1280,height-720,resizemode-75/156399526.jpg"
+                "src": "https://www.awn.com/sites/default/files/styles/inline_medium/public/image/attached/1081637-sntpct-flyer-1.jpg?itok=HI648P_C"
               },
               {
                 "t": "p",
-                "x": "Ramayana Part 1 由演员阵容用印地语拍摄，没有拍英语版。取而代之的是，Brahma AI 在音频上结合真人演员与计算机处理，让不同语言版本与银幕上演员的口型动作吻合。英语预告片由大多数演员亲自配音，没有使用 AI。由 Nitesh Tiwari 执导的《Ramayana: Rise of a Legend》将于 November 5 在影院和 IMAX 上映。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156399528,width-1600,height-900,resizemode-75/156399528.jpg"
+                "x": "法国多数派动画工会呼吁全国所有动画与VFX从业者于11月18日下午2点至4点停工，就薪酬、生成式AI、职位名称和公共假日向AnimFrance和SPI施压。"
               },
               {
                 "t": "p",
-                "x": "制片人 Namit Malhotra 对 ET Now 表示，据报道该片将以 40 种语言在全球上映。对白由配音演员录制，有时也由演员本人录制。对口型同样由人来把关：“他们就是我们所说的人类驱动者，负责打下基础，决定嘴唇如何运动、如何与声音同步。”"
+                "x": "SNTPCT提出四项诉求：将保障最低工资上调11.2%，以追上2007年以来的通胀，自2027年1月1日起生效；从动画劳动协议中删除13个“助理”职位；将生成式AI规则写入协议；以及享有《法国劳动法典》规定的全部11个公共假日，而动画协议目前只规定五个。"
               },
               {
                 "t": "p",
-                "x": "随后，一款定制工具用 AI 把表演贴合到演员脸上。Malhotra 说：“所以感觉完全天衣无缝。”"
-              },
-              {
-                "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156399529,width-1600,height-900,resizemode-75/156399529.jpg"
+                "x": "其于2025年底提交的生成式AI修正案基于三项原则：雇主不得强迫员工使用或开发GenAI工具，也不得以此作为雇用条件；制片方未经员工书面授权，不得利用其作品生成图像、声音或文字；任何对GenAI的使用都必须在影片片尾字幕中注明，确保没有人因自己未做的工作而获得署名。"
               },
               {
                 "t": "p",
-                "x": "演员阵容包括饰演 Lord Rama 的 Ranbir Kapoor、饰演 Ravana 的 Yash、饰演 Sita 的 Sai Pallavi、饰演 Lakshman 的 Ravie Dubey 和饰演 Hanuman 的 Sunny Deol。《Ramayana: Part 1》将于 October 27, 2026 在 Academy Museum of Motion Pictures 举行全球首映。"
+                "x": "罢工涵盖制作动画电影、剧集和广告的公司（包括为电子游戏制作动画的公司）以及VFX工作室。11月18日是Angoulême的RADI-RAF会议开幕日，主要集会也将在那里举行。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ramayana usa lip-sync con AI\npara doblajes en inglés y más",
-          "body": "Rodada solo en hindi, Ramayana Part 1 usa Brahma AI para ajustar doblajes humanos a los rostros de los actores.",
-          "mini_headline": "El doblaje AI-assisted de Ramayana",
+          "headline": "Sindicato francés de animación\nfija huelga para el 18 de nov.",
+          "body": "El sindicato mayoritario de animación francés convoca paro el 18 de noviembre por salarios y contra la GenAI forzosa.",
+          "mini_headline": "Animadores franceses, en huelga por la GenAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156399526,thumbsize-1025251,width-1280,height-720,resizemode-75/156399526.jpg"
+                "src": "https://www.awn.com/sites/default/files/styles/inline_medium/public/image/attached/1081637-sntpct-flyer-1.jpg?itok=HI648P_C"
               },
               {
                 "t": "p",
-                "x": "Ramayana Part 1 se rodó en hindi con su reparto, pero no en inglés. En su lugar, Brahma AI combina actores humanos y trabajo informático sobre el audio para que las versiones en distintos idiomas coincidan con los movimientos de boca de los actores en pantalla. La mayoría de los actores dobló por sí misma el tráiler en inglés, que no usó AI. Dirigida por Nitesh Tiwari, Ramayana: Rise of a Legend se estrena en cines e IMAX el 5 de noviembre."
-              },
-              {
-                "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156399528,width-1600,height-900,resizemode-75/156399528.jpg"
+                "x": "El sindicato mayoritario de la animación en Francia pide a todos los trabajadores de animación y VFX del país que dejen de trabajar de 2 p.m. a 4 p.m. el 18 de noviembre, para presionar a AnimFrance y SPI sobre salarios, AI generativa, denominaciones de puestos y días festivos."
               },
               {
                 "t": "p",
-                "x": "En declaraciones a ET Now, el productor Namit Malhotra dijo que la película se estrenará, según se informa, en 40 idiomas en todo el mundo. Los diálogos los graban actores de voz y, a veces, los propios actores. La sincronización labial también la supervisan personas: “Son lo que llamamos conductores humanos, que crean la base de cómo se mueven los labios y cómo se sincronizan con la voz”."
+                "x": "El SNTPCT plantea cuatro demandas: subir un 11.2% los salarios mínimos garantizados para compensar la inflación desde 2007, con efecto a partir del 1 de enero de 2027; eliminar 13 puestos de \"asistente\" del convenio laboral de animación; incorporar al convenio normas sobre AI generativa; y reconocer los 11 días festivos del Código del Trabajo francés, frente a los cinco que prevé el convenio de animación."
               },
               {
                 "t": "p",
-                "x": "Después, una herramienta a medida usa AI para integrar la interpretación en el rostro del actor. “Así se siente totalmente fluido”, dijo Malhotra."
-              },
-              {
-                "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156399529,width-1600,height-900,resizemode-75/156399529.jpg"
+                "x": "Su enmienda sobre AI generativa, presentada a finales de 2025, se basa en tres principios: los empleadores no pueden obligar a los trabajadores a usar o desarrollar herramientas de GenAI ni convertirlo en condición de empleo; los productores no pueden generar imágenes, sonidos ni textos a partir de las creaciones de un trabajador sin su autorización por escrito; y todo uso de GenAI debe reconocerse en los créditos de la película, para que a nadie se le atribuya un trabajo que no hizo."
               },
               {
                 "t": "p",
-                "x": "El reparto incluye a Ranbir Kapoor como Lord Rama, Yash como Ravana, Sai Pallavi como Sita, Ravie Dubey como Lakshman y Sunny Deol como Hanuman. Ramayana: Part 1 tendrá su estreno mundial en el Academy Museum of Motion Pictures el 27 de octubre de 2026."
+                "x": "El paro abarca a las empresas que producen películas, series y anuncios de animación, incluida la producción de animación para videojuegos, así como a los estudios de VFX. El 18 de noviembre es la jornada inaugural de las conferencias RADI-RAF en Angoulême, donde tendrá lugar la concentración principal."
               }
             ]
           }
@@ -1137,153 +545,987 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Ramayana 더빙에\nAI 립싱크를 쓴다",
-          "body": "힌디어로만 찍은 Ramayana Part 1은 Brahma AI로 더빙을 입힌다.",
-          "mini_headline": "Ramayana, AI-assisted 더빙",
+          "headline": "프랑스 애니 노조,\nNov. 18 파업 예고",
+          "body": "프랑스 애니 노조가 임금·GenAI 강제 금지를 요구하며 Nov. 18 파업한다.",
+          "mini_headline": "프랑스 애니메이터, GenAI 파업 예고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156399526,thumbsize-1025251,width-1280,height-720,resizemode-75/156399526.jpg"
+                "src": "https://www.awn.com/sites/default/files/styles/inline_medium/public/image/attached/1081637-sntpct-flyer-1.jpg?itok=HI648P_C"
               },
               {
                 "t": "p",
-                "x": "Ramayana Part 1은 출연진과 함께 힌디어로 촬영했고, 영어로는 찍지 않았다. 대신 Brahma AI가 사람 배우와 컴퓨터 작업을 오디오에 결합해, 각 언어판이 화면 속 배우의 입 움직임과 맞도록 한다. 영어 예고편은 대부분의 배우가 직접 더빙했고, 여기에는 AI가 쓰이지 않았다. Nitesh Tiwari가 연출한 'Ramayana: Rise of a Legend'는 November 5 극장과 IMAX에서 개봉한다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156399528,width-1600,height-900,resizemode-75/156399528.jpg"
+                "x": "프랑스 과반 애니메이션 노조가 11월 18일 오후 2시부터 4시까지 전국의 모든 애니메이션·VFX 종사자에게 작업 중단을 요청했다. 임금, 생성형 AI, 직책 명칭, 공휴일 문제로 AnimFrance와 SPI를 압박하려는 것이다."
               },
               {
                 "t": "p",
-                "x": "프로듀서 Namit Malhotra는 ET Now와의 인터뷰에서 이 영화가 전 세계 40개 언어로 개봉할 예정이라고 전했다. 대사는 성우가, 때로는 실제 배우가 녹음한다. 립싱크도 사람이 감독한다. “우리가 휴먼 드라이버라고 부르는 사람들이 입술이 어떻게 움직이고 목소리에 어떻게 맞춰지는지의 토대를 만듭니다.”"
+                "x": "SNTPCT의 요구는 네 가지다. 2007년 이후 물가 상승분을 따라잡도록 보장 최저임금을 11.2% 올려 2027년 1월 1일부터 적용할 것, 애니메이션 노동협약에서 “어시스턴트” 직책 13개를 없앨 것, 생성형 AI 규정을 협약에 넣을 것, 그리고 애니메이션 협약이 다섯 날만 인정하는 공휴일을 프랑스 노동법전의 11개 공휴일 전부로 늘릴 것이다."
               },
               {
                 "t": "p",
-                "x": "이어 전용 도구가 AI로 그 연기를 배우의 얼굴에 이어 붙인다. Malhotra는 “그래서 완전히 매끄럽게 느껴집니다”라고 말했다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156399529,width-1600,height-900,resizemode-75/156399529.jpg"
+                "x": "2025년 말 제출한 생성형 AI 개정안은 세 가지 원칙에 기댄다. 고용주는 노동자에게 GenAI 도구의 사용이나 개발을 강요하거나 이를 고용 조건으로 삼을 수 없다. 제작사는 노동자의 서면 허락 없이 그 창작물로 이미지·소리·텍스트를 생성할 수 없다. GenAI를 쓴 경우 영화 크레디트에 밝혀, 누구도 하지 않은 작업으로 이름이 오르지 않게 해야 한다."
               },
               {
                 "t": "p",
-                "x": "출연진은 Lord Rama 역의 Ranbir Kapoor, Ravana 역의 Yash, Sita 역의 Sai Pallavi, Lakshman 역의 Ravie Dubey, Hanuman 역의 Sunny Deol이다. 'Ramayana: Part 1'은 October 27, 2026에 Academy Museum of Motion Pictures에서 월드 프리미어를 연다."
+                "x": "파업 대상은 비디오게임용 애니메이션 제작을 포함해 애니메이션 영화·시리즈·광고를 만드는 회사와 VFX 스튜디오다. 11월 18일은 Angoulême에서 열리는 RADI-RAF 콘퍼런스 개막일이며, 주 집회도 그곳에서 열린다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ramayanaの吹替に\nAIリップシンク",
-          "body": "ヒンディー語で撮ったRamayana Part 1はBrahma AIで吹替を合成する。",
-          "mini_headline": "RamayanaのAI-assisted吹き替え",
+          "headline": "仏アニメ労組が\nNov. 18にスト",
+          "body": "仏の過半数アニメ労組が賃金とGenAI強制禁止を求め、Nov. 18 にストを行う。",
+          "mini_headline": "仏アニメーター、GenAIでスト",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156399526,thumbsize-1025251,width-1280,height-720,resizemode-75/156399526.jpg"
+                "src": "https://www.awn.com/sites/default/files/styles/inline_medium/public/image/attached/1081637-sntpct-flyer-1.jpg?itok=HI648P_C"
               },
               {
                 "t": "p",
-                "x": "Ramayana Part 1はキャストとともにヒンディー語で撮影され、英語では撮影されていない。代わりにBrahma AIが人間の俳優とコンピューター処理を音声に組み合わせ、各言語版が画面上の俳優の口の動きに合うようにしている。英語版予告編はほとんどの俳優が自ら吹き替え、AIは使われていない。Nitesh Tiwari監督の『Ramayana: Rise of a Legend』はNovember 5に劇場とIMAXで公開される。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156399528,width-1600,height-900,resizemode-75/156399528.jpg"
+                "x": "フランスの過半数アニメーション労組は、国内のすべてのアニメーション・VFX従事者に11月18日午後2時から4時まで作業を止めるよう呼びかけ、賃金、生成AI、職名、祝日をめぐってAnimFranceとSPIに圧力をかけている。"
               },
               {
                 "t": "p",
-                "x": "プロデューサーのNamit MalhotraはET Nowに対し、本作は世界40言語で公開される予定だと語った。台詞は声優が、ときには本人の俳優が収録する。リップシンクも人間が監修する。「私たちがヒューマンドライバーと呼ぶ人たちが、唇がどう動き、声にどう同期するかという土台を作るのです」"
+                "x": "SNTPCTの要求は四つだ。2007年以降のインフレに追いつくよう保証最低賃金を11.2%引き上げ、2027年1月1日から適用すること。アニメーション労働協約から「アシスタント」職13種を削除すること。生成AIのルールを協約に盛り込むこと。そして協約が五日しか定めていない祝日を、フランス労働法典の11の祝日すべてにすることである。"
               },
               {
                 "t": "p",
-                "x": "その後、専用ツールがAIでその演技を俳優の顔に合成する。「だから、まったく継ぎ目なく感じられるのです」とMalhotraは述べた。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156399529,width-1600,height-900,resizemode-75/156399529.jpg"
+                "x": "2025年末に提出した生成AIの改正案は三つの原則に立つ。雇用主は労働者にGenAIツールの使用や開発を強制したり、それを雇用条件にしたりしてはならない。制作会社は労働者の書面による許可なく、その創作物から画像・音声・テキストを生成してはならない。GenAIを使った場合は作品のクレジットに明記し、自分がしていない仕事で誰もクレジットされないようにする。"
               },
               {
                 "t": "p",
-                "x": "キャストはLord Rama役のRanbir Kapoor、Ravana役のYash、Sita役のSai Pallavi、Lakshman役のRavie Dubey、Hanuman役のSunny Deolだ。『Ramayana: Part 1』はOctober 27, 2026、Academy Museum of Motion Picturesでワールドプレミアを迎える。"
+                "x": "ストの対象は、ビデオゲーム向けアニメーション制作を含むアニメーション映画・シリーズ・CMの制作会社と、VFXスタジオである。11月18日はAngoulêmeで開かれるRADI-RAF会議の初日で、主な集会もそこで行われる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ramayana多语配音\n借AI实现口型同步",
-          "body": "仅用印地语拍摄的Ramayana Part 1借Brahma AI把真人配音贴合演员面部。",
-          "mini_headline": "Ramayana的AI-assisted配音",
+          "headline": "法国动画工会\n定于 Nov. 18 罢工",
+          "body": "法国多数派动画工会就薪酬及禁止强制使用GenAI，号召于Nov. 18 罢工。",
+          "mini_headline": "法国动画人因GenAI罢工",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156399526,thumbsize-1025251,width-1280,height-720,resizemode-75/156399526.jpg"
+                "src": "https://www.awn.com/sites/default/files/styles/inline_medium/public/image/attached/1081637-sntpct-flyer-1.jpg?itok=HI648P_C"
               },
               {
                 "t": "p",
-                "x": "Ramayana Part 1 由演员阵容用印地语拍摄，没有拍英语版。取而代之的是，Brahma AI 在音频上结合真人演员与计算机处理，让不同语言版本与银幕上演员的口型动作吻合。英语预告片由大多数演员亲自配音，没有使用 AI。由 Nitesh Tiwari 执导的《Ramayana: Rise of a Legend》将于 November 5 在影院和 IMAX 上映。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156399528,width-1600,height-900,resizemode-75/156399528.jpg"
+                "x": "法国多数派动画工会呼吁全国所有动画与VFX从业者于11月18日下午2点至4点停工，就薪酬、生成式AI、职位名称和公共假日向AnimFrance和SPI施压。"
               },
               {
                 "t": "p",
-                "x": "制片人 Namit Malhotra 对 ET Now 表示，据报道该片将以 40 种语言在全球上映。对白由配音演员录制，有时也由演员本人录制。对口型同样由人来把关：“他们就是我们所说的人类驱动者，负责打下基础，决定嘴唇如何运动、如何与声音同步。”"
+                "x": "SNTPCT提出四项诉求：将保障最低工资上调11.2%，以追上2007年以来的通胀，自2027年1月1日起生效；从动画劳动协议中删除13个“助理”职位；将生成式AI规则写入协议；以及享有《法国劳动法典》规定的全部11个公共假日，而动画协议目前只规定五个。"
               },
               {
                 "t": "p",
-                "x": "随后，一款定制工具用 AI 把表演贴合到演员脸上。Malhotra 说：“所以感觉完全天衣无缝。”"
-              },
-              {
-                "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156399529,width-1600,height-900,resizemode-75/156399529.jpg"
+                "x": "其于2025年底提交的生成式AI修正案基于三项原则：雇主不得强迫员工使用或开发GenAI工具，也不得以此作为雇用条件；制片方未经员工书面授权，不得利用其作品生成图像、声音或文字；任何对GenAI的使用都必须在影片片尾字幕中注明，确保没有人因自己未做的工作而获得署名。"
               },
               {
                 "t": "p",
-                "x": "演员阵容包括饰演 Lord Rama 的 Ranbir Kapoor、饰演 Ravana 的 Yash、饰演 Sita 的 Sai Pallavi、饰演 Lakshman 的 Ravie Dubey 和饰演 Hanuman 的 Sunny Deol。《Ramayana: Part 1》将于 October 27, 2026 在 Academy Museum of Motion Pictures 举行全球首映。"
+                "x": "罢工涵盖制作动画电影、剧集和广告的公司（包括为电子游戏制作动画的公司）以及VFX工作室。11月18日是Angoulême的RADI-RAF会议开幕日，主要集会也将在那里举行。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ramayana usa lip-sync con AI\npara doblajes en inglés y más",
-          "body": "Rodada solo en hindi, Ramayana Part 1 usa Brahma AI para ajustar doblajes humanos a los rostros de los actores.",
-          "mini_headline": "El doblaje AI-assisted de Ramayana",
+          "headline": "Sindicato francés de animación\nfija huelga para el 18 de nov.",
+          "body": "El sindicato mayoritario de animación francés convoca paro el 18 de noviembre por salarios y contra la GenAI forzosa.",
+          "mini_headline": "Animadores franceses, en huelga por la GenAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156399526,thumbsize-1025251,width-1280,height-720,resizemode-75/156399526.jpg"
+                "src": "https://www.awn.com/sites/default/files/styles/inline_medium/public/image/attached/1081637-sntpct-flyer-1.jpg?itok=HI648P_C"
               },
               {
                 "t": "p",
-                "x": "Ramayana Part 1 se rodó en hindi con su reparto, pero no en inglés. En su lugar, Brahma AI combina actores humanos y trabajo informático sobre el audio para que las versiones en distintos idiomas coincidan con los movimientos de boca de los actores en pantalla. La mayoría de los actores dobló por sí misma el tráiler en inglés, que no usó AI. Dirigida por Nitesh Tiwari, Ramayana: Rise of a Legend se estrena en cines e IMAX el 5 de noviembre."
+                "x": "El sindicato mayoritario de la animación en Francia pide a todos los trabajadores de animación y VFX del país que dejen de trabajar de 2 p.m. a 4 p.m. el 18 de noviembre, para presionar a AnimFrance y SPI sobre salarios, AI generativa, denominaciones de puestos y días festivos."
               },
+              {
+                "t": "p",
+                "x": "El SNTPCT plantea cuatro demandas: subir un 11.2% los salarios mínimos garantizados para compensar la inflación desde 2007, con efecto a partir del 1 de enero de 2027; eliminar 13 puestos de \"asistente\" del convenio laboral de animación; incorporar al convenio normas sobre AI generativa; y reconocer los 11 días festivos del Código del Trabajo francés, frente a los cinco que prevé el convenio de animación."
+              },
+              {
+                "t": "p",
+                "x": "Su enmienda sobre AI generativa, presentada a finales de 2025, se basa en tres principios: los empleadores no pueden obligar a los trabajadores a usar o desarrollar herramientas de GenAI ni convertirlo en condición de empleo; los productores no pueden generar imágenes, sonidos ni textos a partir de las creaciones de un trabajador sin su autorización por escrito; y todo uso de GenAI debe reconocerse en los créditos de la película, para que a nadie se le atribuya un trabajo que no hizo."
+              },
+              {
+                "t": "p",
+                "x": "El paro abarca a las empresas que producen películas, series y anuncios de animación, incluida la producción de animación para videojuegos, así como a los estudios de VFX. El 18 de noviembre es la jornada inaugural de las conferencias RADI-RAF en Angoulême, donde tendrá lugar la concentración principal."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "newangles",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI로 만드는\n새 카메라 앵글",
+      "body": "Curious Refuge가 촬영본에서 새 앵글을 뽑는 AI 기법을 보여준다.",
+      "mini_headline": "AI로 새 카메라 앵글 만들기",
+      "tool": "Movies",
+      "source": "Curious Refuge",
+      "url": "https://www.youtube.com/watch?v=EPYh_bgXJBk",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "video",
+            "yt": "EPYh_bgXJBk"
+          },
+          {
+            "t": "p",
+            "x": "Curious Refuge가 쇼츠로 소개한, 새 카메라 앵글을 마법처럼 만들어 내는 AI 기법이다."
+          },
+          {
+            "t": "p",
+            "x": "전체 튜토리얼에서 Curious Refuge는 기존 영상으로 새 카메라 앵글을 만드는 방법 세 가지를 시험한다. 실사 촬영본에도, AI-generated(AI 생성) 장면에도 Seedance 2.5를 쓴다. AI에게 커버리지 선택을 맡기는 방식부터 새 앵글 위치를 하나하나 직접 정하는 방식까지 두루 다룬다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "An AI trick that creates\nnew camera angles",
+          "body": "Curious Refuge demonstrates an AI technique that generates new camera angles from footage you have already shot.",
+          "mini_headline": "AI makes new camera angles",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "EPYh_bgXJBk"
+              },
+              {
+                "t": "p",
+                "x": "This AI trick Magically Creates New Camera Angles — a short from Curious Refuge."
+              },
+              {
+                "t": "p",
+                "x": "In the full tutorial, Curious Refuge tests three different ways to generate new camera angles from an existing video, using Seedance 2.5 on both live-action footage and an AI-generated scene, from letting AI automatically choose the coverage to manually defining exactly where each new camera angle should go."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI로 만드는\n새 카메라 앵글",
+          "body": "Curious Refuge가 촬영본에서 새 앵글을 뽑는 AI 기법을 보여준다.",
+          "mini_headline": "AI로 새 카메라 앵글 만들기",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "EPYh_bgXJBk"
+              },
+              {
+                "t": "p",
+                "x": "Curious Refuge가 쇼츠로 소개한, 새 카메라 앵글을 마법처럼 만들어 내는 AI 기법이다."
+              },
+              {
+                "t": "p",
+                "x": "전체 튜토리얼에서 Curious Refuge는 기존 영상으로 새 카메라 앵글을 만드는 방법 세 가지를 시험한다. 실사 촬영본에도, AI-generated(AI 생성) 장면에도 Seedance 2.5를 쓴다. AI에게 커버리지 선택을 맡기는 방식부터 새 앵글 위치를 하나하나 직접 정하는 방식까지 두루 다룬다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIで新たな\nカメラアングルを生成",
+          "body": "Curious Refugeが撮影済み映像から新たなアングルを生むAI技法を示す。",
+          "mini_headline": "AIで新しいカメラアングル",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "EPYh_bgXJBk"
+              },
+              {
+                "t": "p",
+                "x": "魔法のように新しいカメラアングルを生み出すAIの技 — Curious Refugeのショート動画だ。"
+              },
+              {
+                "t": "p",
+                "x": "フルのチュートリアルでCurious Refugeは、既存の映像から新しいカメラアングルを生成する三つの方法を試している。実写映像とAI-generated（AI生成）のシーンの両方でSeedance 2.5を使い、AIにカバレッジを自動で選ばせる方法から、新しいカメラアングルの位置を手動で正確に指定する方法までを扱う。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "一个AI技巧\n生成全新机位角度",
+          "body": "Curious Refuge演示一种AI技术，可从已拍摄素材中生成新的机位角度。",
+          "mini_headline": "AI生成全新机位",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "EPYh_bgXJBk"
+              },
+              {
+                "t": "p",
+                "x": "这个AI技巧能神奇地生成新的机位角度——来自Curious Refuge的短视频。"
+              },
+              {
+                "t": "p",
+                "x": "在完整教程中，Curious Refuge测试了从现有视频生成新机位角度的三种方法，在实拍素材和AI-generated（AI生成）场景上都使用了Seedance 2.5，从让AI自动选择镜头覆盖，到手动精确指定每个新机位的位置。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un truco de AI que crea\nnuevos ángulos de cámara",
+          "body": "Curious Refuge muestra una técnica de AI que genera nuevos ángulos de cámara a partir de material ya grabado.",
+          "mini_headline": "La AI crea nuevos ángulos de cámara",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "EPYh_bgXJBk"
+              },
+              {
+                "t": "p",
+                "x": "Este truco de AI crea como por arte de magia nuevos ángulos de cámara: un short de Curious Refuge."
+              },
+              {
+                "t": "p",
+                "x": "En el tutorial completo, Curious Refuge prueba tres formas distintas de generar nuevos ángulos de cámara a partir de un video existente, con Seedance 2.5 tanto sobre material de acción real como sobre una escena AI-generated (generada con AI), desde dejar que la AI elija automáticamente la cobertura hasta definir a mano dónde debe ir exactamente cada nuevo ángulo de cámara."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI로 만드는\n새 카메라 앵글",
+          "body": "Curious Refuge가 촬영본에서 새 앵글을 뽑는 AI 기법을 보여준다.",
+          "mini_headline": "AI로 새 카메라 앵글 만들기",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "EPYh_bgXJBk"
+              },
+              {
+                "t": "p",
+                "x": "새 카메라 앵글을 마법처럼 만들어 내는 AI 기법 — Curious Refuge의 쇼츠 영상이다."
+              },
+              {
+                "t": "p",
+                "x": "전체 튜토리얼에서 Curious Refuge는 기존 영상에서 새 카메라 앵글을 만드는 세 가지 방법을 시험한다. 실사 촬영본과 AI-generated(AI 생성) 장면 모두에 Seedance 2.5를 쓰며, AI가 커버리지를 알아서 고르게 하는 방식부터 새 카메라 앵글의 위치를 직접 하나하나 지정하는 방식까지 다룬다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIで新たな\nカメラアングルを生成",
+          "body": "Curious Refugeが撮影済み映像から新たなアングルを生むAI技法を示す。",
+          "mini_headline": "AIで新しいカメラアングル",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "EPYh_bgXJBk"
+              },
+              {
+                "t": "p",
+                "x": "魔法のように新しいカメラアングルを生み出すAIの技 — Curious Refugeのショート動画だ。"
+              },
+              {
+                "t": "p",
+                "x": "フルのチュートリアルでCurious Refugeは、既存の映像から新しいカメラアングルを生成する三つの方法を試している。実写映像とAI-generated（AI生成）のシーンの両方でSeedance 2.5を使い、AIにカバレッジを自動で選ばせる方法から、新しいカメラアングルの位置を手動で正確に指定する方法までを扱う。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "一个AI技巧\n生成全新机位角度",
+          "body": "Curious Refuge演示一种AI技术，可从已拍摄素材中生成新的机位角度。",
+          "mini_headline": "AI生成全新机位",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "EPYh_bgXJBk"
+              },
+              {
+                "t": "p",
+                "x": "这个AI技巧能神奇地生成新的机位角度——来自Curious Refuge的短视频。"
+              },
+              {
+                "t": "p",
+                "x": "在完整教程中，Curious Refuge测试了从现有视频生成新机位角度的三种方法，在实拍素材和AI-generated（AI生成）场景上都使用了Seedance 2.5，从让AI自动选择镜头覆盖，到手动精确指定每个新机位的位置。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un truco de AI que crea\nnuevos ángulos de cámara",
+          "body": "Curious Refuge muestra una técnica de AI que genera nuevos ángulos de cámara a partir de material ya grabado.",
+          "mini_headline": "La AI crea nuevos ángulos de cámara",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "EPYh_bgXJBk"
+              },
+              {
+                "t": "p",
+                "x": "Este truco de AI crea como por arte de magia nuevos ángulos de cámara: un short de Curious Refuge."
+              },
+              {
+                "t": "p",
+                "x": "En el tutorial completo, Curious Refuge prueba tres formas distintas de generar nuevos ángulos de cámara a partir de un video existente, con Seedance 2.5 tanto sobre material de acción real como sobre una escena AI-generated (generada con AI), desde dejar que la AI elija automáticamente la cobertura hasta definir a mano dónde debe ir exactamente cada nuevo ángulo de cámara."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "runwaysafety",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Runway가 말하는\n실시간 영상 안전",
+      "body": "Roblox와 Runway가 실시간 AI 영상 생성의 안전·모더레이션을 논한다.",
+      "mini_headline": "Runway가 말하는 실시간 영상 안전",
+      "tool": "Movies",
+      "source": "Runway",
+      "url": "https://www.youtube.com/watch?v=NAKB5ixP6Kw",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "video",
+            "yt": "NAKB5ixP6Kw"
+          },
+          {
+            "t": "p",
+            "x": "실시간 영상 생성 시대의 새로운 안전 규칙 | Runway AI Summit SF 2026."
+          },
+          {
+            "t": "p",
+            "x": "Roblox의 안전 정책 VP Eliza Jacobs와 Runway의 AI 안전·책임 총괄 Conner McDowell이 Zentropy 공동창업자 Samit Chakrabarti와 함께 25분짜리 패널에 나와 실시간 영상 생성의 안전장치를 이야기한다. 신뢰·안전 분야에서 오래도록 가장 어려운 과제로 꼽혀 온 문제이자, 도구를 호출하는 에이전트까지 아우르는 실시간 AI 전반의 사례 연구이기도 하다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Runway on safety rules for\nreal-time video generation",
+          "body": "Roblox's Eliza Jacobs and Runway's Conner McDowell discuss safety and moderation for real-time AI video generation.",
+          "mini_headline": "Runway on real-time video safety",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "NAKB5ixP6Kw"
+              },
+              {
+                "t": "p",
+                "x": "The new rules of safety in an era of real-time video generation | Runway AI Summit SF 2026."
+              },
+              {
+                "t": "p",
+                "x": "Roblox's VP of safety policy Eliza Jacobs and Runway's head of AI safety and responsibility Conner McDowell join Zentropy co-founder Samit Chakrabarti for a 25-minute panel on safeguarding real-time video generation — historically one of the hardest problems in trust and safety, and a case study for real-time AI more generally, including agents making tool calls."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Runway가 말하는\n실시간 영상 안전",
+          "body": "Roblox와 Runway가 실시간 AI 영상 생성의 안전·모더레이션을 논한다.",
+          "mini_headline": "Runway가 말하는 실시간 영상 안전",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "NAKB5ixP6Kw"
+              },
+              {
+                "t": "p",
+                "x": "실시간 영상 생성 시대의 새로운 안전 규칙 | Runway AI Summit SF 2026."
+              },
+              {
+                "t": "p",
+                "x": "Roblox의 안전 정책 VP Eliza Jacobs와 Runway의 AI 안전·책임 총괄 Conner McDowell이 Zentropy 공동창업자 Samit Chakrabarti와 함께 25분짜리 패널에 나와 실시간 영상 생성의 안전장치를 이야기한다. 신뢰·안전 분야에서 오래도록 가장 어려운 과제로 꼽혀 온 문제이자, 도구를 호출하는 에이전트까지 아우르는 실시간 AI 전반의 사례 연구이기도 하다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Runwayが語る\nリアルタイム映像の安全",
+          "body": "RobloxとRunwayがリアルタイムAI映像生成の安全とモデレーションを語る。",
+          "mini_headline": "Runway、リアルタイム映像の安全",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "NAKB5ixP6Kw"
+              },
+              {
+                "t": "p",
+                "x": "リアルタイム映像生成時代の新しい安全ルール | Runway AI Summit SF 2026。"
+              },
+              {
+                "t": "p",
+                "x": "Robloxの安全ポリシー担当VPであるEliza Jacobsと、RunwayのAI安全・責任部門責任者Conner McDowellが、Zentropy共同創業者Samit Chakrabartiとともに25分のパネルに登壇し、リアルタイム映像生成の安全確保について議論する。これは信頼と安全の分野で歴史的に最も難しい課題の一つであり、ツールを呼び出すエージェントを含むリアルタイムAI全般のケーススタディでもある。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Runway谈实时视频\n生成的安全规则",
+          "body": "Roblox与Runway人士探讨实时AI视频生成的安全与审核。",
+          "mini_headline": "Runway谈实时视频安全",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "NAKB5ixP6Kw"
+              },
+              {
+                "t": "p",
+                "x": "实时视频生成时代的安全新规则 | Runway AI Summit SF 2026。"
+              },
+              {
+                "t": "p",
+                "x": "Roblox安全政策VP Eliza Jacobs与Runway AI安全与责任主管Conner McDowell，同Zentropy联合创始人Samit Chakrabarti一起参加一场25分钟的座谈，讨论如何保障实时视频生成的安全——这历来是信任与安全领域最棘手的问题之一，也是更广泛的实时AI（包括调用工具的智能体）的一个案例。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Runway: reglas de seguridad\nde video generado en tiempo real",
+          "body": "Eliza Jacobs, de Roblox, y Conner McDowell, de Runway, debaten seguridad y moderación del video AI en tiempo real.",
+          "mini_headline": "Runway y la seguridad del video en tiempo real",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "NAKB5ixP6Kw"
+              },
+              {
+                "t": "p",
+                "x": "Las nuevas reglas de seguridad en la era de la generación de video en tiempo real | Runway AI Summit SF 2026."
+              },
+              {
+                "t": "p",
+                "x": "Eliza Jacobs, VP de política de seguridad de Roblox, y Conner McDowell, responsable de seguridad y responsabilidad de AI en Runway, se suman a Samit Chakrabarti, cofundador de Zentropy, en un panel de 25 minutos sobre cómo proteger la generación de video en tiempo real, históricamente uno de los problemas más difíciles en confianza y seguridad, y un caso de estudio para la AI en tiempo real en general, incluidos los agentes que hacen llamadas a herramientas."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Runway, 실시간 영상\n생성의 안전 규칙",
+          "body": "Roblox와 Runway가 실시간 AI 영상 생성의 안전·모더레이션을 논한다.",
+          "mini_headline": "Runway가 말하는 실시간 영상 안전",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "NAKB5ixP6Kw"
+              },
+              {
+                "t": "p",
+                "x": "실시간 영상 생성 시대의 새로운 안전 규칙 | Runway AI Summit SF 2026."
+              },
+              {
+                "t": "p",
+                "x": "Roblox의 안전 정책 VP Eliza Jacobs와 Runway의 AI 안전·책임 총괄 Conner McDowell이 Zentropy 공동창업자 Samit Chakrabarti와 함께 25분짜리 패널에 나와 실시간 영상 생성의 안전장치를 논한다. 이 문제는 신뢰·안전 분야에서 오랫동안 가장 어려운 과제로 꼽혔고, 도구를 호출하는 에이전트를 포함한 실시간 AI 전반의 사례 연구이기도 하다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Runwayが語る\nリアルタイム映像の安全",
+          "body": "RobloxとRunwayがリアルタイムAI映像生成の安全とモデレーションを語る。",
+          "mini_headline": "Runway、リアルタイム映像の安全",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "NAKB5ixP6Kw"
+              },
+              {
+                "t": "p",
+                "x": "リアルタイム映像生成時代の新しい安全ルール | Runway AI Summit SF 2026。"
+              },
+              {
+                "t": "p",
+                "x": "Robloxの安全ポリシー担当VPであるEliza Jacobsと、RunwayのAI安全・責任部門責任者Conner McDowellが、Zentropy共同創業者Samit Chakrabartiとともに25分のパネルに登壇し、リアルタイム映像生成の安全確保について議論する。これは信頼と安全の分野で歴史的に最も難しい課題の一つであり、ツールを呼び出すエージェントを含むリアルタイムAI全般のケーススタディでもある。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Runway谈实时视频\n生成的安全规则",
+          "body": "Roblox与Runway人士探讨实时AI视频生成的安全与审核。",
+          "mini_headline": "Runway谈实时视频安全",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "NAKB5ixP6Kw"
+              },
+              {
+                "t": "p",
+                "x": "实时视频生成时代的安全新规则 | Runway AI Summit SF 2026。"
+              },
+              {
+                "t": "p",
+                "x": "Roblox安全政策VP Eliza Jacobs与Runway AI安全与责任主管Conner McDowell，同Zentropy联合创始人Samit Chakrabarti一起参加一场25分钟的座谈，讨论如何保障实时视频生成的安全——这历来是信任与安全领域最棘手的问题之一，也是更广泛的实时AI（包括调用工具的智能体）的一个案例。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Runway: reglas de seguridad\nde video generado en tiempo real",
+          "body": "Eliza Jacobs, de Roblox, y Conner McDowell, de Runway, debaten seguridad y moderación del video AI en tiempo real.",
+          "mini_headline": "Runway y la seguridad del video en tiempo real",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "NAKB5ixP6Kw"
+              },
+              {
+                "t": "p",
+                "x": "Las nuevas reglas de seguridad en la era de la generación de video en tiempo real | Runway AI Summit SF 2026."
+              },
+              {
+                "t": "p",
+                "x": "Eliza Jacobs, VP de política de seguridad de Roblox, y Conner McDowell, responsable de seguridad y responsabilidad de AI en Runway, se suman a Samit Chakrabarti, cofundador de Zentropy, en un panel de 25 minutos sobre cómo proteger la generación de video en tiempo real, históricamente uno de los problemas más difíciles en confianza y seguridad, y un caso de estudio para la AI en tiempo real en general, incluidos los agentes que hacen llamadas a herramientas."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "vcat-tvasahi",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "브이캣, TV아사히 사극\nAI 영상 제작 참여",
+      "body": "브이캣이 TV아사히 7부작 사극의 고난도 액션을 실사·AI·VFX로 구현했다.",
+      "mini_headline": "브이캣, 日 사극 AI 영상 참여",
+      "tool": "Movies",
+      "source": "VentureSquare",
+      "url": "https://www.venturesquare.net/1122539/",
+      "accent": "#00a86b",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.venturesquare.net/wp-content/uploads/2026/10/vcat.png",
+            "cap": "브이캣, 日 TV아사히·넷플릭스 공개 사극 시리즈에 AI 영상 제작사로 참여했다. (자료 제공: 브이캣)"
+          },
+          {
+            "t": "p",
+            "x": "생성형 인공지능(AI) 영상의 활용 범위가 광고와 숏폼을 넘어 방송 드라마로 옮겨가고 있다. 올인원 AI 마케팅 에이전트 브이캣(VCAT.AI, 대표 정범진)은 일본 TV아사히의 7부작 사극 드라마 ‘사나다 주유시(真田十勇士)’에 AI 영상 제작사로 참여했다고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "‘사나다 주유시’는 일본 전국시대 무장 사나다 유키무라를 섬겼다고 전해지는 10명의 가신 이야기를 그린 작품이다. TV아사히와 일본 영화사 도에이(東映)가 공동 제작했으며, 23일 TV아사히에서 첫 방송된 뒤 24일부터 넷플릭스를 통해 공개된다."
+          },
+          {
+            "t": "p",
+            "x": "브이캣은 이번 작품에서 배우와 카메라의 움직임이 많은 고난도 액션 장면 제작을 맡았다. 실제 촬영한 영상의 배경을 변경하거나 인물을 추가하는 방식으로 AI와 VFX 기술을 결합했다. 인물과 배경, 건물 등은 일본 전국시대 고증 자료를 토대로 구현했다."
+          },
+          {
+            "t": "p",
+            "x": "이번 협업은 기존 VFX만으로 처리하기 어려운 장면과 늘어난 작업 물량에 대응하기 위해 TV아사히 제작진이 추가 AI 제작사를 찾으면서 성사됐다. 회사에 따르면 이번 작품에 참여한 한국 AI 제작사는 브이캣이 유일하다. 브이캣은 야외와 실내에서 촬영한 영상을 자연스럽게 이어 붙이는 작업도 수행했다."
+          },
+          {
+            "t": "p",
+            "x": "드라마 공개를 앞두고 브이캣은 별도의 실사 촬영 없이 전 과정을 AI로 제작한 홍보 영상을 선보였다. 해당 영상은 지난 19일(현지시간) 미국 뉴욕 타임스퀘어 전광판에 송출됐으며, 21일에는 일본 지상파 방송 프로그램에서도 소개됐다."
+          },
+          {
+            "t": "p",
+            "x": "정범진 브이캣 대표는 “일본 방송 현장에서 검증한 역량을 바탕으로 글로벌 방송·엔터테인먼트 시장에서 AI 영상 제작의 새로운 기준을 만들어가겠다”고 말했다."
+          }
+        ]
+      },
+      "text": {
+        "ko": {
+          "headline": "브이캣, TV아사히 사극\nAI 영상 제작 참여",
+          "body": "브이캣이 TV아사히 7부작 사극의 고난도 액션을 실사·AI·VFX로 구현했다.",
+          "mini_headline": "브이캣, 日 사극 AI 영상 참여",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156399528,width-1600,height-900,resizemode-75/156399528.jpg"
+                "src": "https://www.venturesquare.net/wp-content/uploads/2026/10/vcat.png",
+                "cap": "브이캣, 日 TV아사히·넷플릭스 공개 사극 시리즈에 AI 영상 제작사로 참여했다. (자료 제공: 브이캣)"
               },
               {
                 "t": "p",
-                "x": "En declaraciones a ET Now, el productor Namit Malhotra dijo que la película se estrenará, según se informa, en 40 idiomas en todo el mundo. Los diálogos los graban actores de voz y, a veces, los propios actores. La sincronización labial también la supervisan personas: “Son lo que llamamos conductores humanos, que crean la base de cómo se mueven los labios y cómo se sincronizan con la voz”."
+                "x": "생성형 인공지능(AI) 영상의 활용 범위가 광고와 숏폼을 넘어 방송 드라마로 옮겨가고 있다. 올인원 AI 마케팅 에이전트 브이캣(VCAT.AI, 대표 정범진)은 일본 TV아사히의 7부작 사극 드라마 ‘사나다 주유시(真田十勇士)’에 AI 영상 제작사로 참여했다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Después, una herramienta a medida usa AI para integrar la interpretación en el rostro del actor. “Así se siente totalmente fluido”, dijo Malhotra."
+                "x": "‘사나다 주유시’는 일본 전국시대 무장 사나다 유키무라를 섬겼다고 전해지는 10명의 가신 이야기를 그린 작품이다. TV아사히와 일본 영화사 도에이(東映)가 공동 제작했으며, 23일 TV아사히에서 첫 방송된 뒤 24일부터 넷플릭스를 통해 공개된다."
               },
+              {
+                "t": "p",
+                "x": "브이캣은 이번 작품에서 배우와 카메라의 움직임이 많은 고난도 액션 장면 제작을 맡았다. 실제 촬영한 영상의 배경을 변경하거나 인물을 추가하는 방식으로 AI와 VFX 기술을 결합했다. 인물과 배경, 건물 등은 일본 전국시대 고증 자료를 토대로 구현했다."
+              },
+              {
+                "t": "p",
+                "x": "이번 협업은 기존 VFX만으로 처리하기 어려운 장면과 늘어난 작업 물량에 대응하기 위해 TV아사히 제작진이 추가 AI 제작사를 찾으면서 성사됐다. 회사에 따르면 이번 작품에 참여한 한국 AI 제작사는 브이캣이 유일하다. 브이캣은 야외와 실내에서 촬영한 영상을 자연스럽게 이어 붙이는 작업도 수행했다."
+              },
+              {
+                "t": "p",
+                "x": "드라마 공개를 앞두고 브이캣은 별도의 실사 촬영 없이 전 과정을 AI로 제작한 홍보 영상을 선보였다. 해당 영상은 지난 19일(현지시간) 미국 뉴욕 타임스퀘어 전광판에 송출됐으며, 21일에는 일본 지상파 방송 프로그램에서도 소개됐다."
+              },
+              {
+                "t": "p",
+                "x": "정범진 브이캣 대표는 “일본 방송 현장에서 검증한 역량을 바탕으로 글로벌 방송·엔터테인먼트 시장에서 AI 영상 제작의 새로운 기준을 만들어가겠다”고 말했다."
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "VCAT joins TV Asahi period drama\nfor AI video production",
+          "body": "VCAT created demanding action scenes for a 7-part TV Asahi period drama using live action, AI and VFX.",
+          "mini_headline": "VCAT joins Japanese period drama for AI video",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://images.timesnownews.com/thumb/msid-156399529,width-1600,height-900,resizemode-75/156399529.jpg"
+                "src": "https://www.venturesquare.net/wp-content/uploads/2026/10/vcat.png",
+                "cap": "VCAT took part as an AI video production company in a period drama series released by Japan's TV Asahi and Netflix. (Image: VCAT)"
               },
               {
                 "t": "p",
-                "x": "El reparto incluye a Ranbir Kapoor como Lord Rama, Yash como Ravana, Sai Pallavi como Sita, Ravie Dubey como Lakshman y Sunny Deol como Hanuman. Ramayana: Part 1 tendrá su estreno mundial en el Academy Museum of Motion Pictures el 27 de octubre de 2026."
+                "x": "The use of generative artificial intelligence (AI) video is moving beyond advertising and short-form content into broadcast drama. VCAT (VCAT.AI, CEO Jeong Beom-jin), an all-in-one AI marketing agent, said it took part as an AI video production company in 'Sanada Juyushi (真田十勇士)', a 7-part period drama from Japan's TV Asahi."
+              },
+              {
+                "t": "p",
+                "x": "'Sanada Juyushi' tells the story of 10 retainers said to have served Sanada Yukimura, a warlord of Japan's Sengoku period. It was co-produced by TV Asahi and Japanese film studio Toei (東映); it premiered on TV Asahi on the 23rd and is available on Netflix from the 24th."
+              },
+              {
+                "t": "p",
+                "x": "On this production, VCAT handled demanding action scenes with a lot of actor and camera movement. It combined AI and VFX technology by changing the backgrounds of live-action footage or adding characters. Characters, backgrounds and buildings were built on historical reference material from Japan's Sengoku period."
+              },
+              {
+                "t": "p",
+                "x": "The collaboration came about when the TV Asahi production team sought an additional AI production company to handle scenes that were hard to process with conventional VFX alone and a growing workload. According to the company, VCAT is the only Korean AI production company to take part in the production. VCAT also seamlessly joined footage shot outdoors and indoors."
+              },
+              {
+                "t": "p",
+                "x": "Ahead of the drama's release, VCAT unveiled a promotional video produced entirely with AI, without any separate live-action shoot. The video was shown on a billboard in Times Square, New York, U.S. on the 19th (local time), and was also featured on a Japanese terrestrial broadcast program on the 21st."
+              },
+              {
+                "t": "p",
+                "x": "VCAT CEO Jeong Beom-jin said, “Building on capabilities proven on Japanese broadcast sets, we will set a new standard for AI video production in the global broadcast and entertainment market.”"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "VCAT、TV朝日の時代劇\nAI映像制作に参加",
+          "body": "VCATがTV朝日の全7話の時代劇の高難度アクションを実写・AI・VFXで実現した。",
+          "mini_headline": "VCAT、日本の時代劇でAI映像に参加",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.venturesquare.net/wp-content/uploads/2026/10/vcat.png",
+                "cap": "VCATは、日本のTV朝日・Netflixで公開される時代劇シリーズにAI映像制作会社として参加した。（資料提供：VCAT）"
+              },
+              {
+                "t": "p",
+                "x": "生成AI（人工知能、AI）映像の活用範囲が、広告やショート動画を越えて放送ドラマへと広がっている。オールインワンAIマーケティングエージェントのVCAT（VCAT.AI、代表チョン・ボムジン）は、日本のTV朝日による全7話の時代劇ドラマ『真田十勇士』にAI映像制作会社として参加したと明らかにした。"
+              },
+              {
+                "t": "p",
+                "x": "『真田十勇士』は、戦国武将・真田幸村に仕えたと伝えられる10人の家臣の物語を描いた作品だ。TV朝日と日本の映画会社・東映が共同制作し、23日にTV朝日で初回放送された後、24日からNetflixで配信される。"
+              },
+              {
+                "t": "p",
+                "x": "VCATは本作で、俳優とカメラの動きが多い高難度のアクションシーンの制作を担当した。実際に撮影した映像の背景を変えたり人物を加えたりする方法で、AIとVFXの技術を組み合わせた。人物や背景、建物などは日本の戦国時代の考証資料に基づいて再現した。"
+              },
+              {
+                "t": "p",
+                "x": "今回の協業は、従来のVFXだけでは処理が難しいシーンと増えた作業量に対応するため、TV朝日の制作陣が追加のAI制作会社を探したことで実現した。同社によると、本作に参加した韓国のAI制作会社はVCATのみだ。VCATは屋外と屋内で撮影した映像を自然につなぎ合わせる作業も手がけた。"
+              },
+              {
+                "t": "p",
+                "x": "ドラマ公開を前に、VCATは別途の実写撮影なしに全工程をAIで制作したプロモーション映像を公開した。この映像は19日（現地時間）に米国ニューヨーク・タイムズスクエアの大型ビジョンで放映され、21日には日本の地上波番組でも紹介された。"
+              },
+              {
+                "t": "p",
+                "x": "VCATのチョン・ボムジン代表は「日本の放送現場で検証された力をもとに、グローバルな放送・エンターテインメント市場でAI映像制作の新たな基準をつくっていく」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "VCAT参与TV朝日古装剧\nAI影像制作",
+          "body": "VCAT以实拍、AI与VFX结合的方式，为TV朝日7集古装剧打造了高难度动作场面。",
+          "mini_headline": "VCAT参与日本古装剧AI影像制作",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.venturesquare.net/wp-content/uploads/2026/10/vcat.png",
+                "cap": "VCAT以AI影像制作公司身份，参与了日本TV朝日与Netflix播出的古装剧集。（图片提供：VCAT）"
+              },
+              {
+                "t": "p",
+                "x": "生成式人工智能（AI）影像的应用范围正从广告和短视频扩展到电视剧。一站式AI营销代理VCAT（VCAT.AI，代表郑范镇）表示，已作为AI影像制作公司参与日本TV朝日的7集古装剧《真田十勇士》。"
+              },
+              {
+                "t": "p",
+                "x": "《真田十勇士》讲述了据传曾侍奉日本战国时代武将真田幸村的10名家臣的故事。该剧由TV朝日与日本电影公司东映联合制作，23日在TV朝日首播，24日起在Netflix上线。"
+              },
+              {
+                "t": "p",
+                "x": "VCAT在本剧中负责演员和镜头运动较多的高难度动作场面。通过更换实拍画面背景或添加人物的方式，将AI与VFX技术相结合。人物、背景和建筑等依据日本战国时代的考证资料呈现。"
+              },
+              {
+                "t": "p",
+                "x": "此次合作源于TV朝日制作团队为应对仅靠传统VFX难以处理的场面和不断增加的工作量，寻找额外的AI制作公司。据该公司介绍，VCAT是唯一参与本剧的韩国AI制作公司。VCAT还完成了将室外与室内拍摄画面自然衔接的工作。"
+              },
+              {
+                "t": "p",
+                "x": "在剧集上线前，VCAT发布了一支无需另行实拍、全流程由AI制作的宣传片。该片于19日（当地时间）在美国纽约时代广场大屏幕播出，21日还在日本地面电视节目中得到介绍。"
+              },
+              {
+                "t": "p",
+                "x": "VCAT代表郑范镇表示：“我们将以在日本广播电视现场验证的能力为基础，在全球广播电视与娱乐市场树立AI影像制作的新标准。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "VCAT se suma al drama de época\nde TV Asahi con video de AI",
+          "body": "VCAT recreó escenas de acción complejas de un drama de época de 7 episodios de TV Asahi con imagen real, AI y VFX.",
+          "mini_headline": "VCAT aporta video de AI a un drama de época japonés",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.venturesquare.net/wp-content/uploads/2026/10/vcat.png",
+                "cap": "VCAT participó como productora de video con AI en una serie de época estrenada por la japonesa TV Asahi y Netflix. (Imagen: VCAT)"
+              },
+              {
+                "t": "p",
+                "x": "El uso del video con inteligencia artificial (AI) generativa se está extendiendo más allá de la publicidad y los formatos cortos hacia el drama televisivo. VCAT (VCAT.AI, director ejecutivo Jeong Beom-jin), un agente de marketing con AI todo en uno, anunció que participó como productora de video con AI en 'Sanada Juyushi (真田十勇士)', un drama de época de 7 episodios de la cadena japonesa TV Asahi."
+              },
+              {
+                "t": "p",
+                "x": "'Sanada Juyushi' narra la historia de 10 vasallos que, según la tradición, sirvieron a Sanada Yukimura, un señor de la guerra del periodo Sengoku de Japón. Fue coproducida por TV Asahi y el estudio de cine japonés Toei (東映); se estrenó en TV Asahi el día 23 y estará disponible en Netflix a partir del 24."
+              },
+              {
+                "t": "p",
+                "x": "En esta producción, VCAT se encargó de escenas de acción complejas con mucho movimiento de actores y cámara. Combinó tecnologías de AI y VFX cambiando el fondo de las imágenes filmadas o añadiendo personajes. Los personajes, fondos y edificios se recrearon a partir de documentación histórica del periodo Sengoku de Japón."
+              },
+              {
+                "t": "p",
+                "x": "La colaboración surgió cuando el equipo de producción de TV Asahi buscó una productora de AI adicional para afrontar escenas difíciles de resolver solo con VFX convencionales y un mayor volumen de trabajo. Según la empresa, VCAT es la única productora de AI surcoreana que participó en la obra. VCAT también unió de forma natural las imágenes rodadas en exteriores e interiores."
+              },
+              {
+                "t": "p",
+                "x": "Antes del estreno, VCAT presentó un video promocional producido íntegramente con AI, sin ningún rodaje real aparte. El video se proyectó el día 19 (hora local) en una pantalla de Times Square, en Nueva York, Estados Unidos, y el 21 se presentó también en un programa de la televisión abierta japonesa."
+              },
+              {
+                "t": "p",
+                "x": "El director ejecutivo de VCAT, Jeong Beom-jin, afirmó: “Con la capacidad demostrada en los sets de la televisión japonesa, estableceremos un nuevo estándar para la producción de video con AI en el mercado global de la televisión y el entretenimiento”."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "en": {
+          "headline": "VCAT joins TV Asahi period drama\nfor AI video production",
+          "body": "VCAT created demanding action scenes for a 7-part TV Asahi period drama using live action, AI and VFX.",
+          "mini_headline": "VCAT joins Japanese period drama for AI video",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.venturesquare.net/wp-content/uploads/2026/10/vcat.png",
+                "cap": "VCAT took part as an AI video production company in a period drama series released by Japan's TV Asahi and Netflix. (Image: VCAT)"
+              },
+              {
+                "t": "p",
+                "x": "The use of generative artificial intelligence (AI) video is moving beyond advertising and short-form content into broadcast drama. VCAT (VCAT.AI, CEO Jeong Beom-jin), an all-in-one AI marketing agent, said it took part as an AI video production company in 'Sanada Juyushi (真田十勇士)', a 7-part period drama from Japan's TV Asahi."
+              },
+              {
+                "t": "p",
+                "x": "'Sanada Juyushi' tells the story of 10 retainers said to have served Sanada Yukimura, a warlord of Japan's Sengoku period. It was co-produced by TV Asahi and Japanese film studio Toei (東映); it premiered on TV Asahi on the 23rd and is available on Netflix from the 24th."
+              },
+              {
+                "t": "p",
+                "x": "On this production, VCAT handled demanding action scenes with a lot of actor and camera movement. It combined AI and VFX technology by changing the backgrounds of live-action footage or adding characters. Characters, backgrounds and buildings were built on historical reference material from Japan's Sengoku period."
+              },
+              {
+                "t": "p",
+                "x": "The collaboration came about when the TV Asahi production team sought an additional AI production company to handle scenes that were hard to process with conventional VFX alone and a growing workload. According to the company, VCAT is the only Korean AI production company to take part in the production. VCAT also seamlessly joined footage shot outdoors and indoors."
+              },
+              {
+                "t": "p",
+                "x": "Ahead of the drama's release, VCAT unveiled a promotional video produced entirely with AI, without any separate live-action shoot. The video was shown on a billboard in Times Square, New York, U.S. on the 19th (local time), and was also featured on a Japanese terrestrial broadcast program on the 21st."
+              },
+              {
+                "t": "p",
+                "x": "VCAT CEO Jeong Beom-jin said, “Building on capabilities proven on Japanese broadcast sets, we will set a new standard for AI video production in the global broadcast and entertainment market.”"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "VCAT、TV朝日の時代劇\nAI映像制作に参加",
+          "body": "VCATがTV朝日の全7話の時代劇の高難度アクションを実写・AI・VFXで実現した。",
+          "mini_headline": "VCAT、日本の時代劇でAI映像に参加",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.venturesquare.net/wp-content/uploads/2026/10/vcat.png",
+                "cap": "VCATは、日本のTV朝日・Netflixで公開される時代劇シリーズにAI映像制作会社として参加した。（資料提供：VCAT）"
+              },
+              {
+                "t": "p",
+                "x": "生成AI（人工知能、AI）映像の活用範囲が、広告やショート動画を越えて放送ドラマへと広がっている。オールインワンAIマーケティングエージェントのVCAT（VCAT.AI、代表チョン・ボムジン）は、日本のTV朝日による全7話の時代劇ドラマ『真田十勇士』にAI映像制作会社として参加したと明らかにした。"
+              },
+              {
+                "t": "p",
+                "x": "『真田十勇士』は、戦国武将・真田幸村に仕えたと伝えられる10人の家臣の物語を描いた作品だ。TV朝日と日本の映画会社・東映が共同制作し、23日にTV朝日で初回放送された後、24日からNetflixで配信される。"
+              },
+              {
+                "t": "p",
+                "x": "VCATは本作で、俳優とカメラの動きが多い高難度のアクションシーンの制作を担当した。実際に撮影した映像の背景を変えたり人物を加えたりする方法で、AIとVFXの技術を組み合わせた。人物や背景、建物などは日本の戦国時代の考証資料に基づいて再現した。"
+              },
+              {
+                "t": "p",
+                "x": "今回の協業は、従来のVFXだけでは処理が難しいシーンと増えた作業量に対応するため、TV朝日の制作陣が追加のAI制作会社を探したことで実現した。同社によると、本作に参加した韓国のAI制作会社はVCATのみだ。VCATは屋外と屋内で撮影した映像を自然につなぎ合わせる作業も手がけた。"
+              },
+              {
+                "t": "p",
+                "x": "ドラマ公開を前に、VCATは別途の実写撮影なしに全工程をAIで制作したプロモーション映像を公開した。この映像は19日（現地時間）に米国ニューヨーク・タイムズスクエアの大型ビジョンで放映され、21日には日本の地上波番組でも紹介された。"
+              },
+              {
+                "t": "p",
+                "x": "VCATのチョン・ボムジン代表は「日本の放送現場で検証された力をもとに、グローバルな放送・エンターテインメント市場でAI映像制作の新たな基準をつくっていく」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "VCAT参与TV朝日古装剧\nAI影像制作",
+          "body": "VCAT以实拍、AI与VFX结合的方式，为TV朝日7集古装剧打造了高难度动作场面。",
+          "mini_headline": "VCAT参与日本古装剧AI影像制作",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.venturesquare.net/wp-content/uploads/2026/10/vcat.png",
+                "cap": "VCAT以AI影像制作公司身份，参与了日本TV朝日与Netflix播出的古装剧集。（图片提供：VCAT）"
+              },
+              {
+                "t": "p",
+                "x": "生成式人工智能（AI）影像的应用范围正从广告和短视频扩展到电视剧。一站式AI营销代理VCAT（VCAT.AI，代表郑范镇）表示，已作为AI影像制作公司参与日本TV朝日的7集古装剧《真田十勇士》。"
+              },
+              {
+                "t": "p",
+                "x": "《真田十勇士》讲述了据传曾侍奉日本战国时代武将真田幸村的10名家臣的故事。该剧由TV朝日与日本电影公司东映联合制作，23日在TV朝日首播，24日起在Netflix上线。"
+              },
+              {
+                "t": "p",
+                "x": "VCAT在本剧中负责演员和镜头运动较多的高难度动作场面。通过更换实拍画面背景或添加人物的方式，将AI与VFX技术相结合。人物、背景和建筑等依据日本战国时代的考证资料呈现。"
+              },
+              {
+                "t": "p",
+                "x": "此次合作源于TV朝日制作团队为应对仅靠传统VFX难以处理的场面和不断增加的工作量，寻找额外的AI制作公司。据该公司介绍，VCAT是唯一参与本剧的韩国AI制作公司。VCAT还完成了将室外与室内拍摄画面自然衔接的工作。"
+              },
+              {
+                "t": "p",
+                "x": "在剧集上线前，VCAT发布了一支无需另行实拍、全流程由AI制作的宣传片。该片于19日（当地时间）在美国纽约时代广场大屏幕播出，21日还在日本地面电视节目中得到介绍。"
+              },
+              {
+                "t": "p",
+                "x": "VCAT代表郑范镇表示：“我们将以在日本广播电视现场验证的能力为基础，在全球广播电视与娱乐市场树立AI影像制作的新标准。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "VCAT se suma al drama de época\nde TV Asahi con video de AI",
+          "body": "VCAT recreó escenas de acción complejas de un drama de época de 7 episodios de TV Asahi con imagen real, AI y VFX.",
+          "mini_headline": "VCAT aporta video de AI a un drama de época japonés",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.venturesquare.net/wp-content/uploads/2026/10/vcat.png",
+                "cap": "VCAT participó como productora de video con AI en una serie de época estrenada por la japonesa TV Asahi y Netflix. (Imagen: VCAT)"
+              },
+              {
+                "t": "p",
+                "x": "El uso del video con inteligencia artificial (AI) generativa se está extendiendo más allá de la publicidad y los formatos cortos hacia el drama televisivo. VCAT (VCAT.AI, director ejecutivo Jeong Beom-jin), un agente de marketing con AI todo en uno, anunció que participó como productora de video con AI en 'Sanada Juyushi (真田十勇士)', un drama de época de 7 episodios de la cadena japonesa TV Asahi."
+              },
+              {
+                "t": "p",
+                "x": "'Sanada Juyushi' narra la historia de 10 vasallos que, según la tradición, sirvieron a Sanada Yukimura, un señor de la guerra del periodo Sengoku de Japón. Fue coproducida por TV Asahi y el estudio de cine japonés Toei (東映); se estrenó en TV Asahi el día 23 y estará disponible en Netflix a partir del 24."
+              },
+              {
+                "t": "p",
+                "x": "En esta producción, VCAT se encargó de escenas de acción complejas con mucho movimiento de actores y cámara. Combinó tecnologías de AI y VFX cambiando el fondo de las imágenes filmadas o añadiendo personajes. Los personajes, fondos y edificios se recrearon a partir de documentación histórica del periodo Sengoku de Japón."
+              },
+              {
+                "t": "p",
+                "x": "La colaboración surgió cuando el equipo de producción de TV Asahi buscó una productora de AI adicional para afrontar escenas difíciles de resolver solo con VFX convencionales y un mayor volumen de trabajo. Según la empresa, VCAT es la única productora de AI surcoreana que participó en la obra. VCAT también unió de forma natural las imágenes rodadas en exteriores e interiores."
+              },
+              {
+                "t": "p",
+                "x": "Antes del estreno, VCAT presentó un video promocional producido íntegramente con AI, sin ningún rodaje real aparte. El video se proyectó el día 19 (hora local) en una pantalla de Times Square, en Nueva York, Estados Unidos, y el 21 se presentó también en un programa de la televisión abierta japonesa."
+              },
+              {
+                "t": "p",
+                "x": "El director ejecutivo de VCAT, Jeong Beom-jin, afirmó: “Con la capacidad demostrada en los sets de la televisión japonesa, estableceremos un nuevo estándar para la producción de video con AI en el mercado global de la televisión y el entretenimiento”."
               }
             ]
           }

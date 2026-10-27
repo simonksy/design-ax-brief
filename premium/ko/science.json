@@ -13515,6 +13515,136 @@
           "x": "저자들은 이번 결과가 가설을 세우는 단계라고 선을 긋는다. 에이전트는 프롬프트로 조건을 받았고 의견은 다섯 범주로 나뉘었다. 같은 개입이 사람에게도 통한다는 걸 보여 준 연구는 아니다."
         }
       ]
+    },
+    "science/spine": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus.jpg",
+          "cap": "ICARUS 검출기 내부. Credit: CERN"
+        },
+        {
+          "t": "p",
+          "x": "SLAC National Accelerator Laboratory(SLAC 국립가속기연구소) 연구진이 액체 아르곤 시간투영함 데이터를 분석하는 머신러닝 프로그램 SPINE(Scalable Particle Imaging with Neural Embeddings)을 만들었다. SPINE은 시뮬레이션한 검출기 영상으로 학습한 뒤 입자를 식별하고 궤적을 따라가며, 그 입자를 낳은 상호작용까지 재구성한다."
+        },
+        {
+          "t": "p",
+          "x": "경직된 전문 알고리즘을 줄줄이 잇는 대신 SPINE은 여러 머신러닝 모델을 함께 돌린다. 영상의 기본 특징을 먼저 찾고 개별 입자를 가려낸 다음 전체 상호작용을 재구성하는 순서다. 지금은 약 25개 기관의 검출기 여덟 대에 배치돼 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus-1.jpg",
+          "cap": "ICARUS에는 액체 아르곤 760톤이 들어 있다. Credit: Al Johnson/Fermilab"
+        },
+        {
+          "t": "p",
+          "x": "ICARUS의 첫 중성미자 물리 결과는 뮤온 중성미자 소실로 비활성 중성미자를 찾는 연구였다(arXiv, DOI: 10.48550/arxiv.2603.22557). 연구진은 그런 신호의 증거를 찾지 못했다. SPINE은 기존 재구성 방식보다 쓸 만한 중성미자 상호작용을 약 60% 더 복원했다. 표본은 더 깨끗해졌고 에너지 분해능은 올라갔으며 계통 불확도는 줄었다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 DUNE 근거리·원거리 검출기용 SPINE 모델도 학습시켰다. 근거리 검출기에서 겹치는 상호작용 수백 개를 처리할 수 있는 방법은 현재 이것뿐이다. 수석 개발자 François Drielsma는 “도구는 만들었다. 이제 그것이 무엇을 발견하는지 지켜볼 차례다”라고 말했다."
+        }
+      ]
+    },
+    "science/kls-conjecture": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-BlogHeroFeature-1400x788-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "1995년 제기된 Kannan–Lovász–Simonovits(KLS) 추측은 폭넓은 고차원 확률분포에서 최적의 초평면 절단이 어떤 모양의 최적 절단과 견줘도 늘 거의 같은 효과를 내는지 묻는다. Microsoft Research의 Xinzhi Zhang 등 연구자 두 명이 이를 증명했다. 차원이 몇이든 고정된 상한으로 이 관계가 성립함을 보였다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-illustration-scaled.png",
+          "cap": "그림 1: 정사면체 위에서 본 KLS 추측(단순화) 예시."
+        },
+        {
+          "t": "p",
+          "x": "저자들은 사람이 이끄는 체계적 과정에서 AI 에이전트와 함께 100개가 넘는 후보 접근법을 훑은 끝에 재귀적으로 적용할 수 있는 새 판정 기준을 얻었다. 재귀적 정밀화 과정 전체를 되풀이해 누적 오차를 보편 상수 안에 묶었다. 증명은 2026년 10월 4일 판 논문에서 완성됐다."
+        },
+        {
+          "t": "p",
+          "x": "같은 날 다른 연구진도 병행된 완전한 증명을 올렸다. 세 번째 증명은 밀접하게 관련된 아이디어에 기대며, 뒤이어 Lean 4 형식화도 나왔다. 주요 AI 모델 여러 개에 거의 같은 토큰 예산을 주고 사람 안내 없이 맡겼을 때는 성공하지 못했다. 성공에는 AI 시스템과 연구자들의 수학적 판단이 모두 필요했다."
+        }
+      ]
+    },
+    "science/nrps-enzyme": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-aids-in-the-develop.jpg",
+          "cap": "Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77963-6"
+        },
+        {
+          "t": "p",
+          "x": "Dr. Kenan Bozhüyük이 이끄는 Helmholtz Institute for Pharmaceutical Research Saarland(HIPS) 연구진이 AI로 비리보솜 펩타이드 합성효소(NRPS)의 새 단백질 구성 요소를 개발했다. NRPS는 수많은 항생제, 면역억제제, 항암제의 바탕이 되는 천연 화합물을 만드는 효소 복합체로, 일종의 분자 조립 라인이다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 사전 학습된 AI 모델 여러 개와 실험을 엮어 중간체를 넘겨주는 운반 팔인 티올화 도메인(T-domains) 76개를 새로 설계했다. 이를 넣은 NRPS 변이체 수백 개를 만들어 살아 있는 세포에서 시험했다."
+        },
+        {
+          "t": "p",
+          "x": "여러 설계가 제대로 작동했다. 일부는 천연 변이체보다 수율을 최대 세 배까지 끌어올렸고 적어도 하나는 용해도와 열 안정성이 더 좋았다. 열쇠는 각 구성 요소를 인접 영역에 맞춰 조정한 데 있었다."
+        },
+        {
+          "t": "p",
+          "x": "Bozhüyük은 “AI가 실험을 대체하지는 않지만, 수많은 가능한 변이체 가운데 유망한 후보를 더 빨리 고르도록 돕는다”고 말했다. Nature Communications (2026), DOI: 10.1038/s41467-026-77963-6."
+        }
+      ]
+    },
+    "science/llm-empathy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-framework.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Georgia Tech 연구진이 LLM으로 모델을 감사하는 신경망 프레임워크를 개발했다. 문서와 대화록 같은 여러 데이터 출처가 모델 출력에 얼마나 영향을 주는지 추정하는 도구로, 학습 데이터가 공감과 사회적 추론을 어떻게 빚어내는지 들여다보려고 만들었다."
+        },
+        {
+          "t": "p",
+          "x": "주저자 Glenn Matlin은 “사회적 추론에 능한 모델은 인간 감정에 관한 교과서보다 FAQs나 고객 상담 대화에 더 많이 기댄다”고 말했다. 그는 “분노를 설명하는 글을 아무리 많이 읽어도, 상대가 화가 났는지 판단하는 데는 도움이 되지 않는다”고 했다."
+        },
+        {
+          "t": "p",
+          "x": "감사 대상은 Ai2의 오픈소스 모델 Olmo 3로, 학습 데이터가 십억 건 넘는 문서로 이뤄져 있다. ChatGPT와 Claude는 학습 데이터를 공개하지 않는다. 지도교수(Adviser) Mark Riedl은 모델이 공감을 배우는 문서를 엔지니어들이 더 늘리거나 줄일 수 있다고 했다. 논문은 Conference on Language Modeling에서 발표됐다(arXiv, DOI: 10.48550/arxiv.2606.19625)."
+        }
+      ]
+    },
+    "science/science-hydrogen-catalyst": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ahead-of-their-time.jpg",
+          "cap": "CarbonCat-LLMs 프레임워크 모식도. few-shot 학습을 했을 때와 안 했을 때 GPT-4o 모델의 정확도와 F1-score를 비교했다. Credit: ACS Catalysis"
+        },
+        {
+          "t": "p",
+          "x": "ARC Centre of Excellence for Carbon Science and Innovation 연구진이 대형 언어 모델로 과학 문헌을 훑어 수소 생산에 쓸 유망한 전기촉매, 탄소 담지 고엔트로피 합금을 찾아냈다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 AI가 내놓은 결과 100건을 직접 평가하며 시스템을 다듬었다. 이렇게 다듬은 시스템이 5,000편이 넘는 연구 논문에서 정보를 뽑아냈다."
+        },
+        {
+          "t": "p",
+          "x": "2017년까지 나온 지식만 쓰게 묶어 두자 시스템은 CrCoFeMnNi 합금을 골랐다. 이 합금은 나중에 실험으로 확인돼, 수소 전기촉매 분야에서 고엔트로피 합금의 초기 사례로 보고됐다."
+        },
+        {
+          "t": "p",
+          "x": "계산으로만 진행한 연구라 새로 제안한 후보 물질도, 수소 비용·성능을 얼마나 개선할지도 아직 검증 전이다. 저자들은 이 방법을 CO₂ 환원은 물론 새로운 반응 발견에도 넓혀 쓸 수 있다고 본다."
+        },
+        {
+          "t": "p",
+          "x": "Yiran Jiao et al.의 연구로 ACS Catalysis (2026)에 실렸다. DOI: 10.1021/acscatal.6c00635."
+        }
+      ]
     }
   }
 }

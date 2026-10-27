@@ -7731,6 +7731,141 @@
           "x": "创始人Rishi Ambavanekar称，他开发Cloak是“为了把主动权还给作家，让他们免受不受欢迎的AI训练、AI笔记与分析”。WGAE也在推动AI立法，包括正等待州长Kathy Hochul签署的纽约州FAIR News Act。"
         }
       ]
+    },
+    "books/guideslop": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-header-6.webp"
+        },
+        {
+          "t": "p",
+          "x": "Nintendo于9月17日发售了《Fire Emblem: Fortune’s Weave》，如今在Amazon Japan搜索该作，已能找到至少九本攻略书，且没有一本是官方出品。这些书的封面看起来大量是AI-generated的，而且似乎都没有电子书（e-books）版本。"
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-001-1155x1080.jpg"
+        },
+        {
+          "t": "p",
+          "x": "这些书的标题标榜“完整攻略”“隐藏秘密”和“深度指南”。其中四本有评论，包括一条标注为Amazon认证购买的评论，且全部给出一星（one-star）：“千万别犯买这本书的错误”“完全是一笔无用的购买”。样张页面只有密密麻麻的文字，没有任何图片，文风也明显冗长。"
+        },
+        {
+          "t": "p",
+          "x": "Amazon的Kindle Direct Publishing（KDP）允许个人免费自助出版，按需印刷（print-on-demand）成本从销售收入中扣除。与生成式AI结合后，这套系统让人能以很低的风险批量生产“书”。KDP要求出版者在出版时披露AI使用情况，但这九本书似乎都没有向消费者披露。"
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-003.webp"
+        },
+        {
+          "t": "p",
+          "x": "评论表明消费者确实受到了误导，而随着AI工具不断进化，这类假出版物可能会越来越以假乱真。"
+        }
+      ]
+    },
+    "books/manga-platform": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261023-74214-header-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "日本财务省（MOF）近日提议建立一个共享平台，让全球读者在同一处获取多家出版商的作品。该构想于22日在财务大臣的咨询机构财政制度等审议会上提出；审议会指出，在海外发行商主导市场之际，日本却缺少一个跨出版商的平台。"
+        },
+        {
+          "t": "p",
+          "x": "该构想涉及利用AI将漫画翻译成多种语言。MOF认为，这将使平台“成为海外读者欣赏日本作品的途径，从而增加参与出版商及其他相关方的收入”。这目前仍只是一项提议，而AI翻译很可能在全球漫画迷中引发摩擦。"
+        },
+        {
+          "t": "p",
+          "x": "另外，文化厅与经济产业省已为明年申请合计超过250B 日元的预算，其中包括对个别出版商的补贴。审议会将在12月前向财务大臣提交建议。"
+        }
+      ]
+    },
+    "books/zachary-mason": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132320-1.PNG"
+        },
+        {
+          "t": "p",
+          "x": "如果先进的AI其实是为服务人类而设计的呢？它会帮助人类还是伤害人类？这些正是新短篇小说集《Fabrications》提出的部分问题。这是Zachary Mason的第四本书，他是一位计算机科学家，几年前还在科技初创公司工作。"
+        },
+        {
+          "t": "p",
+          "x": "Mason相信，在某个时刻（“大概在五年到50年之间”），计算机将帮助人类理解心智如何运作，而这正是实现“可以合理地称为思考”的AI的关键。他的处女作《The Lost Books of the Odyssey》于2010年由FSG出版后成为畅销书。"
+        },
+        {
+          "t": "p",
+          "x": "买下《Fabrications》的Grove的Peter Blackstock将其与Ted Chiang的科幻小说相提并论。在《Ouroboros》中，一位已故亿万富翁的AI助手隐瞒了他的死讯并冒充他；在《Transitional》中，一个按死者形象打造的机器人帮助他悲伤的女儿走出阴影；在《Lamina》中，AI成为失智症患者的记忆辅助。"
+        },
+        {
+          "t": "p",
+          "x": "“我只是想看清事物的本来面目和可能的样子，并找出AI将如何缠绕进我们生活的种种可能。”Mason说。"
+        }
+      ]
+    },
+    "books/ai-classroom": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/chat-gpt-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Kamau Bobb谈教育中的人工智能与美国的种族等级制度。在建国250周年之际，他看到教育领域中技术与种族反弹的交汇：计算器、平板电脑和笔记本电脑都曾被标榜为催化剂，但美国十二年级学生中具备基本读写能力的不到百分之40，且种族差距长期存在。"
+        },
+        {
+          "t": "p",
+          "x": "AI-enabled工具已经在改变教什么、怎么教。但这些工具究竟能否改变美国教育的根本结构，或打破种族与学业成绩之间的关联？“在一个已禁止教授Advanced Placement (AP) African American Studies课程的州里，一所高效的AI-enabled学校，究竟在什么方面提供了效率？”"
+        },
+        {
+          "t": "p",
+          "x": "Bobb认为，对AI的惊叹正把注意力从核心的正义之战引开，唯有明确而坚定地争取教育公正，才能缩小差距。"
+        },
+        {
+          "t": "img",
+          "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/the-bullwhips-algorithm-200x300.jpg",
+          "cap": "The Bullwhip’s Algorithm（Beacon Press，2026）"
+        },
+        {
+          "t": "p",
+          "x": "节选自Kamau Bobb所著《The Bullwhip’s Algorithm: Artificial Intelligence and America’s Racial Caste System》（Beacon Press，2026）。"
+        }
+      ]
+    },
+    "books/books-dark-factory": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "这座知识生产工厂超越了单纯基于生成式人工智能(AI)的书稿写作,可自主完成从策划、写作、校对、ISBN申领、向国立中央图书馆送缴,到主要线上线下书店发行与结算的全部流程,即将投入商业运营。战略集团Ieum(首席战略家Seok Jong-deuk)26日表示,已完成“Arcadia自主型黑灯工厂”商业出版全流程验证,将于11月1日起正式运营。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.megaeconomy.co.kr/news/data/20261026/p1065578229975864_869_thum.png",
+          "cap": "Arcadia自主型黑灯工厂"
+        },
+        {
+          "t": "p",
+          "x": "在验证阶段,该公司自主策划、撰写了共9本图书,经过视觉素材制作、排版和审校,完成了ISBN申领、送缴、书店上架直至实际销售结算的完整周期。自11月起,将把教保文库、Yes24、阿拉丁等韩国国内主要发行渠道与自主运营的AI组织相结合,扩大商业生产规模。"
+        },
+        {
+          "t": "p",
+          "x": "“AI厂长”统筹任务分配、智能体培训、进度管理、错误修正及向下一工序的交接,下属专职智能体则分工负责书稿写作、绘图、送缴申请和电子书登记。该公司将2025年10月起1年间生产114本书所积累的经验整合为“通用后端”规则。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.megaeconomy.co.kr/news/data/20261026/p1065578229975864_230_thum.jpeg",
+          "cap": "Arcadia 9 Book Covers(Arcadia的9本书封面)"
+        },
+        {
+          "t": "p",
+          "x": "长期编排规模为韩文版1万4917本、英文版1万4917本,共2万9834本;商业运营后的目标产量为韩英合计每月2000本、每年2万4000本。AI收集并分析书店销售走势以决定后续生产,反响好的电子书将对接按需印刷(POD)。"
+        }
+      ]
     }
   }
 }

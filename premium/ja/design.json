@@ -9916,6 +9916,123 @@
           "x": "彼のルールは、AI機能ではなくAIで機能を作ることだ。Smart ComposeやPhotoshopのRemoveツールがその例である。出荷前には、誰が求めたのか、何にちなんだ名前なのか、デフォルトでオフにして出せるか、原価でも生き残れるかを問うべきだという。"
         }
       ]
+    },
+    "design/figma-agent-shaders": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "BS-N-AM5ql4"
+        },
+        {
+          "t": "p",
+          "x": "Figma on Figmaは、私たちが日々のワークフローで自社ツールをどう使っているか、あるいは単に面白いものを紹介するシリーズだ。今回はDesigner AdvocateのBrett McMillinが、Figmaのエージェントをモーションやカスタムシェーダー効果と組み合わせ、新しい創作アイデアを探る方法を解説する。"
+        },
+        {
+          "t": "p",
+          "x": "00:00 – Intro(イントロ)、Brett McMillin · 00:45 – Exploring Figma motion & shaders example(Figmaのモーションとシェーダーの例を探る) · 01:45 – Automating Motion with the Figma agent(Figmaエージェントでモーションを自動化) · 02:45 – Custom Shader Generation(カスタムシェーダーの生成) · 03:00 – Stacking Built-in & Custom Effects(組み込み効果とカスタム効果の重ね合わせ) · 03:28 – Real-time Light Refraction Through Glass(ガラスを通るリアルタイムの光の屈折)"
+        }
+      ]
+    },
+    "design/etsy-ai-photos": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/uzZxJaKSXhN5uxfLGfsSNd-1600-80.jpg",
+          "cap": "EtsyのJames OssmanがYouTube動画でプラットフォームの新ルールを解説した (Image credit: Etsy)"
+        },
+        {
+          "t": "p",
+          "x": "手作りデザインに特化したマーケットプレイスに偽写真を禁じるルールが必要になるなら、何かがおかしくなっている。では、なぜEtsyは突然、販売者に「販売している商品の写真は、実際に販売している商品の写真であるべきだ」と伝えているのか。"
+        },
+        {
+          "t": "p",
+          "x": "先週、このハンドメイド品のマーケットプレイスは、すべての出品に、実際の背景で撮影した実物の無加工写真を少なくとも一枚含めることを義務づけると発表した。さらに、顧客向けの型紙やレシピ、説明書にAI画像生成ツールを使うことを明確に禁止し、ボットが作成した出品も禁じた。AI-generatedのアートは引き続きEtsyで認められるが、販売者はその旨を明示する必要がある。"
+        },
+        {
+          "t": "video",
+          "yt": "QHMQbCF5PeM"
+        },
+        {
+          "t": "p",
+          "x": "苦情が急増しており、Etsyは手を打つ必要があった。クリエイターのKara LynneはXにこう書いた。「かぎ針編みのパターンを買ってPDFを開いたら、完全にAI-generatedで、意味が通らず、完成品のあるべき姿ともまったく一致しなかったときの腹立たしさは言葉にできない」"
+        },
+        {
+          "t": "p",
+          "x": "これでEtsyは、50 million 曲のAIトラックを削除したSpotify、gen-AIコンテンツをおすすめから外したSnap、通報ボタンを追加したLinkedInに続くことになる。新ルールですべてが解決するわけではないが、人々が「ハンドメイド」の品を買うとき、本当に人間が作ったのかを知りたがっていることを認めたものだ。"
+        }
+      ]
+    },
+    "design/edenlive": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "NbWLqOfP3XI"
+        },
+        {
+          "t": "p",
+          "x": "生成 3D プラットフォームTripoを手がける研究チームVast AI Researchが、新しいオープンソースのリアルタイム生成レンダラーEdenLiveを公開した。インタラクティブな環境向けのVast AI Researchのワールドモデル、Project Edenの一部で、2D または 3D のシーンか参照動画、目標とする最初のフレーム、テキストプロンプトを必要とする。"
+        },
+        {
+          "t": "p",
+          "x": "このモデルは「粗いビジュアルを…より豊かで精細な動画に変える」。たとえば、プリビズやゲーム品質のアニメーションを、よりフォトリアルな出力に変換できる。EdenLiveが生成できる動画は480p または 720p の解像度に限られるため実用的な用途は限られるが、リアルタイムで動作するほど高速だ。"
+        },
+        {
+          "t": "p",
+          "x": "Vast AIによると、5B のモデル重みを使えば、EdenLiveはハイエンドの民生GPUであるNVIDIA GeForce RTX 5090 一基で、720p の動画を「24fps 以上」で生成できる。用途としては、ブロックアウトを高品質なプリビズやアニメーションのプレビューに変換することが挙げられる。ソースコードはApache 2.0ライセンスで公開され、5B と14B のモデル重みはHugging Faceにある。"
+        },
+        {
+          "t": "p",
+          "x": "同じCG Channelのまとめ記事では、AIアシスタントから操作できるようMCPサーバーを追加したGaffer 1.7.5と、2-15 枚のソース画像から3D の頭部を生成するKeenToolsのAI-poweredなブラウザツールKeenFaceも取り上げている。"
+        }
+      ]
+    },
+    "design/cli-anything": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/4585b919-e424-4ad3-8faf-651c238aaf56.png?fm=auto&w=1200&h=630&fit=crop"
+        },
+        {
+          "t": "p",
+          "x": "CLI-Anythingは、LightRAGも開発した香港大学(University of Hong Kong)のデータインテリジェンス研究室HKUDSによるオープンソースプロジェクトだ。GIMP、Blender、LibreOfficeなどのデスクトップソフトを対象に、コーディングエージェントが操作できる完全なコマンドラインインターフェースを、テスト、ドキュメント、スキルファイル付きで生成する。リポジトリのスター数は54,000を超え、Apache 2.0ライセンスで公開されている。"
+        },
+        {
+          "t": "p",
+          "x": "AIエージェントが得意なのはテキストの読み書きであり、ピクセルのクリックではない。GUIの自動化は遅く、UI要素が動くと壊れる。しかも多くのクリエイティブアプリはネイティブのAPIを公開していない。CLIなら両方を回避でき、CLI-Anythingのすべてのコマンドは構造化出力用の--jsonフラグに対応し、取り消しとやり直しが可能なREPLモードも備える。"
+        },
+        {
+          "t": "p",
+          "x": "CLI Hubは、Blender、Inkscape、Audacity、OBS Studio、LibreOffice、Kdenlive、draw.io、ComfyUI、FreeCADなど、他者がすでに作ったCLIsのためのパッケージマネージャーだ。生成されたCLIsは内部で実際のアプリケーションを呼び出すため、GIMP CLIを使うにはGIMPのインストールが必要になる。"
+        },
+        {
+          "t": "p",
+          "x": "Claude Code向けプラグインで、Cursor、Codex、Open Codeにも対応するCLIジェネレーターは七段階のパイプラインを実行する。プロジェクトによれば、約30の生成済みハーネス全体で2,400件を超えるテストに合格している。"
+        }
+      ]
+    },
+    "design/design-gemini-brand-style": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://designcompass.org/wp-content/uploads/2026/10/Gemini-Brand-Style-Remembered-1-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Googleは小規模事業者向けのGemini機能「On-Brand Visuals」を公開した。2026年10月20日に発表されたこの機能は、ユーザーが登録したブランドスタイルを保ちながら新しい画像を作るツールである。ウェブサイト、ブランドキット、タイポグラフィ、カラーパレットをもとにビジュアルの方向性を定める。"
+        },
+        {
+          "t": "p",
+          "x": "画像生成にはNano Banana 2.1モデルを使う。Geminiは設定したスタイルを保存し、製品発売やマーケティングキャンペーンに必要な画像を生成する。作業のたびに同じガイドラインを再アップロードする手間が減る。ブランド素材を個々の画像の参考にとどめず、その後のプロジェクトでも使い続けられるよう設計されている。"
+        },
+        {
+          "t": "p",
+          "x": "小規模事業者専用のスタート画面も用意した。ブランド構築、財務分析、顧客データなど様々な作業にアクセスする場である。Google Workspacesや広告ツールに加え、Adobe、Canva、Shopify、Wixなどの外部アプリも接続できる。"
+        },
+        {
+          "t": "p",
+          "x": "この機能はブランドのビジュアル一貫性を画像生成プロセスに組み込む。ただし公式発表には、ロゴの形状や書体の使用ルールをどれほど正確に守るかについての検証結果は含まれていなかった。実際のコンテンツに使う前に、生成画像を元のガイドラインと照らし合わせる必要がある。ビジネス向けスタート画面と新たな連携アプリは、世界中のGeminiアプリユーザーに順次提供される。"
+        }
+      ]
     }
   }
 }

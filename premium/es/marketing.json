@@ -2539,6 +2539,206 @@
           "x": "\"Como los resúmenes de reseñas representan la opinión de los usuarios, los anunciantes no pueden editar ni personalizar directamente el texto generado\", según Google. La página no cita resultados de pruebas ni cifras de mejora, y no aclara si se aplican los controles automáticos de recursos a nivel de cuenta. El formato se prueba en resultados reales desde diciembre de 2025."
         }
       ]
+    },
+    "marketing/shopifykb": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shopify-knowledge-base-admin.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Shopify reemplazó su app independiente Knowledge Base por la base de conocimiento de Merchant Admin para agentes de compra con IA, ahora incluida. Según el Changelog de Shopify del 26 de octubre, la app anterior dejará de estar disponible después del 15 de enero de 2027."
+        },
+        {
+          "t": "p",
+          "x": "La base de conocimiento (Sales channels > Agentic > Knowledge base) contiene la información ajena a los productos que un agente de IA puede necesitar para responder preguntas de clientes sobre una tienda, como la política de devoluciones, los plazos de envío y los valores de marca. Store Policies y Contact Info se publican automáticamente al crearse."
+        },
+        {
+          "t": "p",
+          "x": "La información se organiza en diez categorías y procede de escaneos de la tienda, ajustes del admin de Shopify o entrada manual. Los datos hallados por un escaneo de la tienda permanecen sin publicar hasta que el comerciante los publica. La base de conocimiento publicada de cada tienda está \"disponible públicamente a través del Storefront MCP\" para apps de IA como la Shop app y plataformas de terceros."
+        },
+        {
+          "t": "p",
+          "x": "A los comerciantes con más de 1,000 datos en la app anterior no se les transfirieron, y deben volver a introducir los que quieran conservar antes del 15 de enero de 2027. Los datos de los comerciantes más pequeños se trasladaron y publicaron automáticamente."
+        },
+        {
+          "t": "p",
+          "x": "Bill Hunt probó 122 tiendas de Shopify; de las 88 cuya herramienta de políticas consultó, dos devolvieron una respuesta útil sobre la cancelación de un pedido."
+        }
+      ]
+    },
+    "marketing/indentm": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/10/27/news-p.v1.20261027.aa99c1fb6d07482b8fa165890af22d18_P1.png"
+        },
+        {
+          "t": "p",
+          "x": "Indent Corporation presentó 'Indent M', un agente de inteligencia artificial (AI) que apoya la planificación y ejecución del marketing de influencers en 72 países del mundo."
+        },
+        {
+          "t": "p",
+          "x": "Yoon Tae-seok, CEO de Indent Corporation, afirmó el día 27 en la 'rueda de prensa de lanzamiento de Indent M', celebrada en PR Bridge Storium, en Seodaemun-gu (Seúl): \"Nuestra visión es crear un motor que permita a una marca de 1 persona alcanzar ventas de 1조원 (un billón de wones)\". Y añadió: \"Para ello lanzamos Indent M, en el que la IA asume las tareas operativas repetitivas de los profesionales de marketing humanos\"."
+        },
+        {
+          "t": "p",
+          "x": "Indent M es un agente de IA que descubre creadores y ejecuta campañas según la estrategia de marketing. Apoya el marketing global de influencers en 72 países, en sectores como belleza, alimentación, moda y estilo de vida."
+        },
+        {
+          "t": "p",
+          "x": "\"Cuando las marcas salen al exterior, incluso las grandes empresas y agencias suelen depender de agencias locales en los países distintos de Estados Unidos y Japón\", dijo Yoon. \"La ventaja de Indent M es que no son personas sino la IA la que ejecuta directamente el marketing en 72 países del mundo, por lo que no hay barrera idiomática\", subrayó."
+        },
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/10/27/news-p.v1.20261027.c5b3f37542e74c1e97b9f0166a44515b_P1.png"
+        },
+        {
+          "t": "p",
+          "x": "Yoon definió la tendencia de combinar la tecnología de automatización con IA y el comercio de contenidos como la 'generación 4.5 del comercio'. Si la generación 4 anterior impulsaba las compras de los consumidores mediante el contenido de los creadores, la 4.5 automatiza con IA las tareas repetitivas de planificación y ejecución de marketing y de ejecución de campañas."
+        },
+        {
+          "t": "p",
+          "x": "La estrategia central es el 'Viral Seeding': se publica de forma concentrada contenido de creadores similares para impulsar su difusión en redes sociales. Un caso representativo es el de una marca de K-beauty que se hizo popular en TikTok por el boca a boca, entró entre los más vendidos de Amazon y acabó logrando compras de distribuidores locales."
+        },
+        {
+          "t": "p",
+          "x": "El problema es que, cuanto mayor es la campaña, más personal y tiempo se necesitan para buscar y contratar creadores y gestionar el contenido. Yoon explicó que con IA se pueden revisar unos diez millones (1000만) de creadores en 1 minuto, lo que reduce la carga operativa del marketing a gran escala."
+        },
+        {
+          "t": "p",
+          "x": "Indent M se desarrolló sobre la plataforma propia de marketing de influencers 'Spray IO'. Recoge la experiencia de los últimos 3 años en colaboraciones con más de 100 marcas, más de 930 campañas y más de ochenta mil (8만) contenidos."
+        },
+        {
+          "t": "p",
+          "x": "Al introducir en lenguaje natural las condiciones de producto, país y campaña, la IA selecciona a los creadores adecuados y ejecuta el marketing. Se puede comparar el rendimiento de cada creador a partir de datos de previsión, como las visualizaciones esperadas y el efecto en ventas."
+        },
+        {
+          "t": "p",
+          "x": "Indent Corporation conecta Indent M con su plataforma global de ventas y logística 'Indent O'. Basada en el servicio de venta directa (D2C) 'Bobushop', Indent O permite crear páginas de venta, localizar en varios idiomas e integrar pagos y envíos."
+        },
+        {
+          "t": "p",
+          "x": "\"Bajaremos las barreras de entrada al marketing global no solo para las marcas pequeñas y medianas, sino también para las grandes, y construiremos un entorno comercial que conecte desde el marketing hasta las ventas y la logística\", afirmó Yoon."
+        }
+      ]
+    },
+    "marketing/dailymailgeo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-identity-digiday.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El Daily Mail está realizando alrededor de una docena de pruebas de GEO para averiguar qué funciona antes de convertir su oferta de visibilidad en IA en un producto oficial a principios del próximo año."
+        },
+        {
+          "t": "p",
+          "x": "Carly Steven, directora de SEO y comercio electrónico editorial, dijo en el evento Media Strategies London de Digiday que el editor tiene en marcha entre 12 y 15 pruebas en Estados Unidos (U.S.), Reino Unido (U.K.) y Australia, a medida que las marcas preguntan cada vez más cómo pueden aparecer en las respuestas generadas por IA (AI-generated). \"Las marcas ya acuden a nosotros y nos dicen: 'queremos estar en estos espacios [AI surfaces]. Sabemos que nuestros clientes están aquí. ¿Cómo pueden ayudarnos?'\""
+        },
+        {
+          "t": "p",
+          "x": "Las pruebas identifican prompts que podrían usar los consumidores, los siguen en las plataformas de IA a lo largo del tiempo, observan qué fuentes se citan y crean contenido de marca a medida donde hay una oportunidad. En una de las primeras pruebas, para una marca de finanzas personales no identificada, la visibilidad en los prompts objetivo pasó de alrededor del 50% a casi el 75%."
+        },
+        {
+          "t": "p",
+          "x": "Demostrar el impacto comercial es más difícil. Una marca comprobó que Claude representaba solo el 0.1% de las referencias en su analítica, pero alrededor del 11% de las conversiones tras revisar las respuestas de encuestas a clientes."
+        },
+        {
+          "t": "p",
+          "x": "El producto de GEO de Future tiene más de 30 clientes, Ziff Davis afirma tener varios clientes de GEO y Forbes está convirtiendo la visibilidad en búsquedas con IA (AI-search) en una oferta de consultoría para sus socios de marca."
+        }
+      ]
+    },
+    "marketing/fakeaireviews": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.sbs.co.kr/newimg/news/20261028/202235419_1280.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Se ha revelado que una parte importante de los anuncios con reseñas de consumidores comunes que se encuentran fácilmente en YouTube están fabricados con IA."
+        },
+        {
+          "t": "p",
+          "x": "La reseña que afirmaba una reducción de la talla de cintura resultó ser un video falso creado con IA."
+        },
+        {
+          "t": "p",
+          "x": "Un análisis de anuncios de YouTube realizado por la Korea Consumer Agency (Agencia de Consumidores de Corea) durante un periodo de nueve meses hasta junio detectó 420 anuncios manipulados con IA (AI-manipulated)."
+        },
+        {
+          "t": "p",
+          "x": "Con IA, rasgos como la estatura y el peso pueden alterarse fácilmente a partir de una sola foto. Entre los anuncios falsos detectados esta vez, exagerar así los cambios físicos fue el caso más común, con 171 casos."
+        },
+        {
+          "t": "p",
+          "x": "Un anuncio testimonial afirma que un adulto con las placas de crecimiento cerradas creció 6 cm tras tomar un suplemento para aumentar la estatura. También es una fabricación con IA."
+        },
+        {
+          "t": "p",
+          "x": "[Choi Byung-ho / Profesor, Korea University Human-Inspired AI Research Institute: Esto ya no se puede detener. Como el costo de crear videos con IA es cada vez menor y la tecnología se está democratizando, hemos llegado a una situación en la que cualquiera puede hacerlos.]"
+        },
+        {
+          "t": "p",
+          "x": "Cuando YouTube se llenó en su momento de anuncios falsos de médicos creados con IA, el gobierno anunció a finales del año pasado que introduciría un sistema de etiquetado para el contenido AI-generated (generado por IA). Sin embargo, la aplicación del sistema se ha retrasado, y el problema se ha extendido ahora a reseñas fabricadas de consumidores comunes."
+        },
+        {
+          "t": "p",
+          "x": "YouTube afirmó que elimina con rapidez estos videos a petición de la Korea Consumer Agency, pero no ha introducido medidas para detectar y bloquear por su cuenta, de forma proactiva, los videos manipulados."
+        }
+      ]
+    },
+    "marketing/marketing-chatgpt-ads-amazon-dsp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-floating-chat-boxes-A8gbToHE.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI parece estar implementando un nuevo formato para algunas unidades de ChatGPT Ad que incluyen un enlace Learn more, punteado y subrayado, además de una flecha hacia arriba. Y en algunos casos, los ChatGPT Ads parecen servirse con Amazon DSP."
+        },
+        {
+          "t": "p",
+          "x": "El nuevo diseño de las unidades de anuncios de ChatGPT lo detectó Bordie Clark, que publicó capturas en X y en SERP Alert. Según dijo, \"ChatGPT está experimentando con un nuevo formato de anuncio que incluye un enlace learn more con una flecha dentro de los anuncios de texto. En este nuevo formato, el texto 'learn more' también aparece con un subrayado punteado.\""
+        },
+        {
+          "t": "p",
+          "x": "Esta es una captura que yo mismo veo:"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-ads-learn-more-link-xA1W3tjY.png"
+        },
+        {
+          "t": "p",
+          "x": "El enlace Learn more no aparece en todos los anuncios..."
+        },
+        {
+          "t": "p",
+          "x": "Juozas Kaziukėnas publicó en LinkedIn que algunos de estos ChatGPT Ads son \"servidos por Amazon DSP\". Dijo que lo ve así \"porque la URL de destino del clic pasa por el servidor de seguimiento de clics de Amazon\"."
+        },
+        {
+          "t": "p",
+          "x": "Esta es su captura con el enlace:"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-ads-amazon-dsp-uHnh0Mix.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Y añadió: \"Apenas hay detalles sobre cómo funciona esta integración, y todavía no he visto a otros anunciantes usarla, pero creo que está claro que Amazon no va a ejecutar formatos publicitarios de Amazon dentro de ChatGPT. Los anunciantes comprarán anuncios a través de DSP (¿incluidos anuncios basados en feeds?) y DSP se encargará de la segmentación (¿lo más probable?), pero el control creativo es el mismo que en los anuncios normales de ChatGPT.\""
+        },
+        {
+          "t": "p",
+          "x": "Muy interesante..."
+        }
+      ]
     }
   }
 }

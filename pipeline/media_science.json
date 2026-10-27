@@ -1,7 +1,31 @@
-{"date":"2026-10-27","section":"science","media":[
-{"id":"science-hydrogen-catalyst","type":"image","src":"pipeline/media/science-hydrogen-catalyst.jpg"},
-{"id":"science-virtual-author","type":"image","src":"pipeline/media/science-virtual-author.jpg"},
-{"id":"science-vision-noise","type":"image","src":"pipeline/media/science-vision-noise.jpg"},
-{"id":"science-planteur","type":"image","src":"pipeline/media/science-planteur.png"},
-{"id":"science-coatings-lab","type":"image","src":"pipeline/media/science-coatings-lab.jpg"}
-]}
+{
+  "date": "2026-10-28",
+  "section": "science",
+  "media": [
+    {
+      "id": "dueling-proofs",
+      "type": "image",
+      "src": "pipeline/media/dueling-proofs.jpg"
+    },
+    {
+      "id": "spine",
+      "type": "image",
+      "src": "pipeline/media/spine.jpg"
+    },
+    {
+      "id": "kls-conjecture",
+      "type": "image",
+      "src": "pipeline/media/kls-conjecture.jpg"
+    },
+    {
+      "id": "nrps-enzyme",
+      "type": "image",
+      "src": "pipeline/media/nrps-enzyme.jpg"
+    },
+    {
+      "id": "llm-empathy",
+      "type": "image",
+      "src": "pipeline/media/llm-empathy.jpg"
+    }
+  ]
+}

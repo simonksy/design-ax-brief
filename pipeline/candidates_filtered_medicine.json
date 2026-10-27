@@ -1,152 +1,79 @@
 {
   "section": "medicine",
-  "now_iso": "2026-10-27T01:45:00Z",
+  "now_iso": "2026-10-27T22:04:00Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Coreline Soft secures FDA clearance for aortic CT software",
-      "url": "https://www.auntminnie.com/clinical-news/ct/news/15975406/coreline-soft-coreline-soft-secures-fda-clearance-for-aortic-ct-software",
+      "title": "SIIM-CAIMI: AI triaging for ICH leads to faster turnaround times",
+      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15975544/siimcaimi-ai-triaging-for-ich-leads-to-faster-turnaround-times",
       "source": "AuntMinnie",
       "category": "medicine",
-      "published_iso": "2026-10-26T19:24:08Z",
-      "excerpt": "Seoul-based Coreline Soft received FDA 510(k) clearance for Aview Aorta Metrics, AI software that automatically segments the aorta on chest CT, classifies aortic zones and measures each zone's diameter. It is the company's 13th FDA clearance.",
-      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/ai-logo.fJ1t11ItHd.jpg?auto=format%2Ccompress&q=70&w=400",
-      "history_match": {
-        "score": 0.221,
-        "date": "2026-10-07",
-        "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/15836632/airs-medical-inc-airs-medical-secures-fda-clearance-for-mri-software",
-        "title": "AIRS Medical secures FDA clearance for MRI software",
-        "band": "related"
-      }
-    },
-    {
-      "title": "SIIM-CAIMI: LLM pipeline tracks critical results in pediatric patients",
-      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15975424/siimcaimi-llm-pipeline-tracks-critical-results-in-pediatric-patients",
-      "source": "AuntMinnie",
-      "category": "medicine",
-      "published_iso": "2026-10-26T18:45:21Z",
-      "excerpt": "Stanford Health built an in-house LLM pipeline that detects critical results in pediatric radiology reports with 99.7% sensitivity and 97.9% specificity and monitors communication turnaround time, replacing costly commercial tools (SIIM-CAIMI 2026).",
-      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/img-7763.jp7xCq6ReO.jpg?auto=format%2Ccompress&fit=max&q=70&w=400"
-    },
-    {
-      "title": "AI fails to compensate for night-shift fatigue among residents",
-      "url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15838345/ai-fails-to-compensate-for-nightshift-fatigue-among-residents",
-      "source": "AuntMinnie",
-      "category": "medicine",
-      "published_iso": "2026-10-23T18:56:51Z",
-      "excerpt": "Radiology residents' chest x-ray accuracy fell significantly after overnight shifts, and AI assistance neither restored pre-shift performance nor meaningfully improved fatigued readers' accuracy, raising patient-safety concerns.",
-      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/ai-fatigue.c48mc7dd9z.jpg?auto=format%2Ccompress&fit=max&q=70&w=400"
-    },
-    {
-      "title": "Pennsylvania House passes bill requiring AI disclosure in healthcare",
-      "url": "https://radiologybusiness.com/topics/artificial-intelligence/pennsylvania-house-passes-bill-requiring-ai-disclosure-healthcare",
-      "source": "Radiology Business",
-      "category": "medicine",
-      "published_iso": "2026-10-26T20:18:53Z",
-      "excerpt": "If enacted, the legislation would require healthcare facilities, including imaging centers, to disclose their use of AI in clinical decision-making through website postings and written patient notifications.",
-      "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-03/istock-2214959014.jpg?h=140710cd&itok=VthZy7qr"
-    },
-    {
-      "title": "Radiology societies weigh in on FDA’s push to regulate generative AI",
-      "url": "https://radiologybusiness.com/topics/artificial-intelligence/radiology-societies-weigh-fdas-push-regulate-generative-ai",
-      "source": "Radiology Business",
-      "category": "medicine",
-      "published_iso": "2026-10-23T09:43:18Z",
-      "excerpt": "“Patient safety should remain the central organizing principle, and regulatory flexibility should be paired with clear, enforceable safeguards,\" RSNA said in recently shared comments.",
-      "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-03/istock-2214959014.jpg?h=140710cd&itok=VthZy7qr"
-    },
-    {
-      "title": "AI tech detects high-risk coronary inflammation in many asymptomatic patients",
-      "url": "https://cardiovascularbusiness.com/topics/cardiac-imaging/ai-tech-detects-high-risk-coronary-inflammation-many-asymptomatic-patients",
-      "source": "Cardiovascular Business",
-      "category": "medicine",
-      "published_iso": "2026-10-23T16:31:44Z",
-      "excerpt": "The first U.S. study of Caristo's FDA-cleared CaRi-Heart AI found about 47% of asymptomatic adults with no detectable coronary plaque had elevated perivascular inflammation on cardiac CT, questioning standard risk assessment tools.",
-      "og_image": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/caristo_fai_used_in_first_us_study_since_fda_clearance.jpg?h=bbbde541&itok=qf5yoKO9",
-      "history_match": {
-        "score": 0.151,
-        "date": "2026-10-25",
-        "url": "https://cardiovascularbusiness.com/topics/artificial-intelligence/fda-clears-elucids-new-ai-enabled-ffr-ct-software",
-        "title": "FDA clears Elucid's new AI-enabled FFR-CT software",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Clinicians from all specialties use AI to answer cardiology questions",
-      "url": "https://cardiovascularbusiness.com/topics/artificial-intelligence/clinicians-all-specialties-use-ai-answer-cardiology-questions",
-      "source": "Cardiovascular Business",
-      "category": "medicine",
-      "published_iso": "2026-10-16T20:26:53Z",
-      "excerpt": "More than 950,000 clinicians submitted queries to a popular AI platform from January 2024 to June 2026; cardiovascular care was a common topic, especially questions about specific treatments.",
-      "og_image": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2025-04/istock-2180282602.jpg?h=125a58ae&itok=H7ZUSc09"
-    },
-    {
-      "title": "AI Scribes Improved Note-Taking Time but Not Productivity, Study Finds",
-      "url": "https://www.medpagetoday.com/practicemanagement/informationtechnology/123591",
-      "source": "MedPage Today",
-      "category": "medicine",
-      "published_iso": "2026-10-26T21:00:00Z",
-      "excerpt": "After clinicians enrolled in the Heidi ambient scribe at Beth Israel Deaconess, median note-active time fell from 21 to 18.6 minutes, but there was no change in same-day or after-hours note closure or clinical productivity (Annals of Internal Medicine).",
-      "og_image": "https://assets.medpagetoday.net/media/images/123xxx/123591.jpg"
-    },
-    {
-      "title": "Systemwide adoption patterns of ambient AI scribe technology in an integrated academic health system",
-      "url": "https://www.nature.com/articles/s41746-026-03326-6",
-      "source": "npj Digital Medicine",
-      "category": "medicine",
-      "published_iso": "2026-10-26T00:00:00Z",
-      "excerpt": "A retrospective cohort study of 2,901 ambulatory clinicians examines who adopted ambient AI scribes, and how intensively, during an enterprise-scale rollout at an integrated academic health system.",
+      "published_iso": "2026-10-27T19:29:56Z",
+      "excerpt": "A multisite University of Washington study of an AI intracranial hemorrhage triage system found 79.3% sensitivity and 94.2% specificity; median report turnaround for ICH-positive head CTs fell from 214 to 201 minutes and AI-flagged patients reached admission sooner.",
       "og_image": null
     },
     {
-      "title": "AI doctors' orders come with a sky-high bill",
-      "url": "https://www.nature.com/articles/d41586-026-03320-8",
-      "source": "Nature",
+      "title": "ChatGPT-5 misses half of distal radius fractures on x-rays",
+      "url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15975589/chatgpt5-misses-half-of-distal-radius-fractures-on-xrays",
+      "source": "AuntMinnie",
       "category": "medicine",
-      "published_iso": "2026-10-21T00:00:00Z",
-      "excerpt": "Large language models suggest more tests, referrals and medications than human physicians do, driving up the cost of care (on a NEJM AI study comparing LLM- and physician-recommended care).",
-      "og_image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03320-8/d41586-026-03320-8_53869122.jpg",
-      "history_match": {
-        "score": 0.33,
-        "date": "2026-10-17",
-        "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600537",
-        "title": "Comparative Cost of Care Recommended by Large Language Models versus Treating Physicians",
-        "band": "related"
-      }
+      "published_iso": "2026-10-27T19:31:26Z",
+      "excerpt": "Rambam Health Care Campus researchers (Emergency Radiology, Oct 26) found ChatGPT-5 had 51.2% sensitivity and 61.6% accuracy on 370 wrist x-rays, missing 83 of 170 distal radius fractures.",
+      "og_image": null
     },
     {
-      "title": "Putting conversational AI to the test in primary care",
-      "url": "https://www.nature.com/articles/d41591-026-00054-y",
-      "source": "Nature Medicine",
+      "title": "SIIM-CAIMI: Apollo LLM framework shows promise in patient monitoring",
+      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15975432/siimcaimi-apollo-llm-framework-shows-promise-in-patient-monitoring",
+      "source": "AuntMinnie",
       "category": "medicine",
-      "published_iso": "2026-10-23T00:00:00Z",
-      "excerpt": "A patient-facing conversational AI showed promising feasibility and safety in a single-center primary care setting, providing a basis for larger-scale evaluation.",
-      "og_image": "https://media.nature.com/lw1200/magazine-assets/d41591-026-00054-y/d41591-026-00054-y_53895372.jpg",
-      "history_match": {
-        "score": 0.16,
-        "date": "2026-10-10",
-        "url": "https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/",
-        "title": "Study in The Lancet suggests AI could improve patient-physician relationships.",
-        "band": "related"
-      }
+      "published_iso": "2026-10-26T18:46:44Z",
+      "excerpt": "Apollo, a multimodal temporal foundation model from Faisal Mahmood's Harvard/Brigham team trained on 25 billion records from 7.2 million Mass General Brigham patients, outperformed 26 clinical risk scores (AUC 0.79 vs 0.64 for five-year breast cancer metastasis).",
+      "og_image": null
+    },
+    {
+      "title": "Radiographer fracture detection with and without AI assistance in prospective emergency department use",
+      "url": "https://www.nature.com/articles/s41746-026-03313-x",
+      "source": "npj Digital Medicine",
+      "category": "medicine",
+      "published_iso": "2026-10-27T00:00:00Z",
+      "excerpt": "Artificial intelligence (AI) systems for fracture detection perform strongly in controlled settings, but prospective real-world evidence is limited. In a three-month deployment in one emergency department, thirteen radiographers in a radiographer-led screening programme independently interpreted 249",
+      "og_image": null
+    },
+    {
+      "title": "Scalable drift monitoring in medical imaging AI",
+      "url": "https://www.nature.com/articles/s41746-026-03301-1",
+      "source": "npj Digital Medicine",
+      "category": "medicine",
+      "published_iso": "2026-10-27T00:00:00Z",
+      "excerpt": "The integration of artificial intelligence (AI) into clinical medical imaging has advanced diagnostics but also poses challenges in maintaining long-term reliability as input data change. To address this, we present MMC+, a modular framework for scalable drift monitoring that builds on our CheXstray",
+      "og_image": null
+    },
+    {
+      "title": "AI May Help Detect Rare Sperm in Men With Azoospermia",
+      "url": "https://www.medpagetoday.com/meetingcoverage/asrm/123609",
+      "source": "MedPage Today",
+      "category": "medicine",
+      "published_iso": "2026-10-27T20:30:43Z",
+      "excerpt": "An AI system that scans testicular tissue samples for rare sperm in men with azoospermia was presented at ASRM 2026; researchers said it has already resulted in three live births.",
+      "og_image": "https://assets.medpagetoday.net/media/images/123xxx/123609.jpg"
     },
     {
       "title": "Changes in Service Use Following the Introduction of AI-Enabled Prior Authorization in Medicare",
-      "url": "https://jamanetwork.com/journals/jama/fullarticle/10.1001/jama.2026.21230",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2855989",
       "source": "JAMA",
       "category": "medicine",
       "published_iso": "2026-10-26T16:30:20Z",
-      "excerpt": "Using Epic Cosmos data, Neprash et al. assess changes in Medicare beneficiaries' use of medical services after AI-enabled prior authorization requirements began under the CMS Innovation Center WISeR model.",
+      "excerpt": "A JAMA research letter uses Epic Cosmos data to assess how Medicare beneficiaries' use of medical services changed after CMS's WISeR model introduced AI-enabled prior authorization for 41 services starting January 2026.",
       "og_image": null
     },
     {
-      "title": "Does AI-Powered Clinical Documentation Enhance Clinician Efficiency? A Longitudinal Study",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIx2601335",
-      "source": "NEJM AI",
+      "title": "UT Austin unveils UT Dell Medicine as it bets big on new AI-native hospital",
+      "url": "https://www.fiercehealthcare.com/health-tech/university-texas-austin-unveils-new-academic-health-system-it-builds-ai-native-hospital",
+      "source": "Fierce Healthcare",
       "category": "medicine",
-      "published_iso": "2026-10-23T14:00:16Z",
-      "excerpt": "Longitudinal study in NEJM AI tests whether AI-powered ambient clinical documentation actually improves clinician efficiency over time (Crossref created 2026-10-23).",
-      "og_image": ""
+      "published_iso": "2026-10-27T14:30:00Z",
+      "excerpt": "UT Austin unveiled UT Dell Medicine, a unified academic health system combining its clinics, Dell Medical School and the upcoming UT Dell Medical Center, which it is building as an AI-native hospital.",
+      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/ut_dmc_rendering_1.jpg?VersionId=ipR9dxmEbapX6RJmPIKHwO084YfVjNe."
     },
     {
       "title": "UnitedHealthcare expands AI companion Avery to 21M members",
@@ -154,33 +81,44 @@
       "source": "Fierce Healthcare",
       "category": "medicine",
       "published_iso": "2026-10-26T21:00:00Z",
-      "excerpt": "UnitedHealthcare is expanding Avery, its generative AI care-coordination companion, from about 6.6 million to 21 million members; the insurer says Avery resolves 90% of interactions and hands the rest to a human advocate.",
+      "excerpt": "UnitedHealthcare is expanding Avery, its generative AI companion for care coordination, to 21 million members.",
       "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1635360990/UnitedHealthcare_sign.jpg/UnitedHealthcare_sign.jpg?VersionId=mRAMc4oGgCt6.6zJw_PKJwe2kXPjRXqW"
     },
     {
-      "title": "Healthcare industry weighs in on evidence standards for generative AI medical devices",
-      "url": "https://endpoints.news/healthcare-industry-weighs-in-on-evidence-standards-for-generative-ai-medical-devices/",
-      "source": "Endpoints News",
+      "title": "Radiology societies weigh in on FDA’s push to regulate generative AI",
+      "url": "https://radiologybusiness.com/topics/artificial-intelligence/radiology-societies-weigh-fdas-push-regulate-generative-ai",
+      "source": "Radiology Business",
       "category": "medicine",
-      "published_iso": "2026-10-22T12:30:01Z",
-      "excerpt": "FDA is weighing evidence standards for generative AI medical devices such as prescription bots; the AMA opposes upfront uncertainty while ATA Action supports post-market monitoring, and several groups back risk-based regulation.",
-      "og_image": "https://endpoints.news/wp-content/uploads/2025/04/FDA-AP-social21.jpg",
-      "history_match": {
-        "score": 0.237,
-        "date": "2026-10-23",
-        "url": "https://www.healthcaredive.com/news/developers-not-doctors-held-accountable-generative-ai-medical-devices-fda/833738/",
-        "title": "Developers, not doctors, should be held accountable for generative AI medical devices, providers say",
-        "band": "related"
-      }
+      "published_iso": "2026-10-23T09:43:18Z",
+      "excerpt": "RSNA and other radiology societies filed comments on the FDA's push to regulate generative AI devices: patient safety should stay central and regulatory flexibility should come with clear, enforceable safeguards.",
+      "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-03/istock-2214959014.jpg?h=140710cd&itok=VthZy7qr"
     },
     {
-      "title": "FDA Official Believes GenAI-enabled Tools Will Need to Be Assessed Like a Physician - MedCity News",
-      "url": "https://medcitynews.com/2026/10/fda-official-believes-genai-enabled-tools-will-need-to-be-assessed-like-a-physician/",
+      "title": "Researchers develop way of adapting adult radiology AI models to pediatric population",
+      "url": "https://radiologybusiness.com/topics/artificial-intelligence/researchers-develop-way-adapting-adult-radiology-ai-models-pediatric-population",
+      "source": "Radiology Business",
+      "category": "medicine",
+      "published_iso": "2026-10-14T08:34:30Z",
+      "excerpt": "Researchers developed a method for adapting adult radiology AI models to children; only about 17% of FDA-authorized AI devices are currently labeled for pediatric use.",
+      "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2018-07/istock-851956258_super.jpg?itok=Jgc1Xe-I"
+    },
+    {
+      "title": "AMA Calls for Risk-Based GenAI Oversight to Protect Patients and Support Responsible Innovation - MedCity News",
+      "url": "https://medcitynews.com/2026/10/ama-calls-for-risk-based-genai-oversight-to-protect-patients-and-support-responsible-innovation/",
       "source": "MedCity News",
       "category": "medicine",
-      "published_iso": "2026-10-20T22:23:38Z",
-      "excerpt": "Rick Abramson, a radiologist by training and the director of FDA's Digital Health Center of Excellence said, \"We ended up putting out this idea that maybe these devices are starting to behave a little bit more like me as a physician than a heart valve or a def",
-      "og_image": "https://medcitynews.com/wp-content/uploads/sites/7/2023/09/GettyImages-1377896928.jpg"
+      "published_iso": "2026-10-21T17:25:01Z",
+      "excerpt": "As generative AI moves toward performing increasingly consequential clinical functions, the American Medical Association (AMA) is urging the U.S. Food and Drug Administration to address a foundational question: Who is responsible for ensuring that these tools remain safe once they enter clinical pra",
+      "og_image": "https://medcitynews.com/wp-content/uploads/sites/7/2023/04/GettyImages-1474155562.jpg"
+    },
+    {
+      "title": "Clinicians from all specialties use AI to answer cardiology questions",
+      "url": "https://cardiovascularbusiness.com/topics/artificial-intelligence/clinicians-all-specialties-use-ai-answer-cardiology-questions",
+      "source": "Cardiovascular Business",
+      "category": "medicine",
+      "published_iso": "2026-10-16T20:26:53Z",
+      "excerpt": "Overall, more than 950,000 clinicians submitted queries to a popular AI platform from January 2024 to June 2026. Cardiovascular care was a common topic, especially questions about specific treatments and medications.",
+      "og_image": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2025-04/istock-2180282602.jpg?h=125a58ae&itok=H7ZUSc09"
     },
     {
       "title": "OpenEvidence's JAMA paper leaves open questions",
@@ -191,7 +129,7 @@
       "excerpt": "In this edition of STAT Health Tech: A new paper in JAMA offers a glimpse into clinicians's use of OpenEvidence, and a look at Isomorphic Labs.",
       "og_image": "https://www.statnews.com/wp-content/uploads/2026/01/AdobeStock_1768731628_Editorial_Use_Only-1024x576.jpeg",
       "history_match": {
-        "score": 0.273,
+        "score": 0.263,
         "date": "2026-10-16",
         "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ai/openevidence-drew-271m-queries-from-952000-clinicians-in-2-5-years/",
         "title": "OpenEvidence drew 271M queries from 952,000 clinicians in 2.5 years (JAMA study)",
@@ -199,67 +137,24 @@
       }
     },
     {
-      "title": "Takeaways from an evaluation of Google's diagnostic chatbot, AMIE",
-      "url": "https://www.statnews.com/2026/10/13/google-amie-diagnostic-chatbot-study-lancet-health-tech/",
+      "title": "'AI sandboxes' are all the rage. Advocates scramble to control their future",
+      "url": "https://www.statnews.com/2026/10/15/scramble-to-shape-regulations-around-state-ai-sandboxes-health-tech/",
       "source": "STAT",
       "category": "medicine",
-      "published_iso": "2026-10-13T13:13:25Z",
-      "excerpt": "In this edition of STAT Health Tech: A look at a study recently published in The Lancet about Google's diagnostic chatbot, AMIE.",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/03/AdobeStock_1782878692-1024x576.jpeg",
-      "history_match": {
-        "score": 0.263,
-        "date": "2026-10-10",
-        "url": "https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/",
-        "title": "Study in The Lancet suggests AI could improve patient-physician relationships.",
-        "band": "related"
-      }
-    },
-    {
-      "title": "'AI 챗봇'으로 항암환자 PICC 관리 가정에서도 손쉽게",
-      "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3043967",
-      "source": "청년의사",
-      "category": "medicine",
-      "published_iso": "2026-10-26T01:41:40Z",
-      "excerpt": "삼성서울병원 암병원이 항암치료 환자의 말초중심정맥관(PICC) 가정 관리를 돕는 카카오톡 AI 챗봇 서비스를 시작했다. 관을 넣은 채 수개월 생활하는 환자의 감염·막힘 위험 관리를 돕는다.",
-      "og_image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202610/3043967_3047880_4456_v150.jpg"
-    },
-    {
-      "title": "재활의학회, 재활의 공공성·피지컬 AI 활용 방향 모색",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014853",
-      "source": "의학신문",
-      "category": "medicine",
-      "published_iso": "2026-10-26T08:09:36Z",
-      "excerpt": "대한재활의학회가 재활의료를 사회가 보장해야 할 필수 의료서비스로 보고, 피지컬 AI를 활용한 미래 재활의학의 방향을 논의했다.",
-      "og_image": null
-    },
-    {
-      "title": "웨이센, 유럽 최대 소화기학회서 차세대 AI 내시경 기술 경쟁력 뽐내",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014716",
-      "source": "의학신문",
-      "category": "medicine",
-      "published_iso": "2026-10-23T08:22:42Z",
-      "excerpt": "[의학신문·일간보사=오인규 기자] 의료 AI 전문기업 웨이센(대표 김경남)은 지난 17일부터 20일까지 스페인 바르셀로나에서 열린 유럽소화기학회(이하 UEG We",
-      "og_image": "https://cdn.bosa.co.kr/news/photo/202610/3014716_415649_1830.jpg"
-    },
-    {
-      "title": "뷰노, KIMES BUSAN 2026서 ‘셀프 심전도’ 비전 제시",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014707",
-      "source": "의학신문",
-      "category": "medicine",
-      "published_iso": "2026-10-23T07:44:55Z",
-      "excerpt": "[의학신문·일간보사=오인규 기자] 의료 AI 기업 뷰노(대표 이예하)는 23일부터 25일까지 부산 벡스코에서 개최되는 ‘KIMES BUSAN 2026(부산국제의료",
-      "og_image": "https://cdn.bosa.co.kr/news/photo/202610/3014707_415641_2957.jpg"
+      "published_iso": "2026-10-15T13:14:37Z",
+      "excerpt": "In this edition of STAT's Health Tech newsletter: The groups vying to shape regulations that'd govern state AI sandboxes, and more.",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2024/02/AdobeStock_540774532-1024x576.jpeg"
     }
   ],
   "dedup": {
     "dropped": 4,
-    "kept": 19,
+    "kept": 15,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 7,
+    "review": 1,
     "same_story_pairs": []
   },
   "history_digest": [
@@ -757,6 +652,31 @@
       "date": "2026-10-26",
       "title": "From simulation to pedagogy: multi-model and randomized evaluation of structured AI standardized patients - npj Digital Medicine",
       "url": "https://www.nature.com/articles/s41746-026-03372-0"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "AI tech detects high-risk coronary inflammation in many asymptomatic patients",
+      "url": "https://cardiovascularbusiness.com/topics/cardiac-imaging/ai-tech-detects-high-risk-coronary-inflammation-many-asymptomatic-patients"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "Pennsylvania House passes bill requiring AI disclosure in healthcare",
+      "url": "https://radiologybusiness.com/topics/artificial-intelligence/pennsylvania-house-passes-bill-requiring-ai-disclosure-healthcare"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "Coreline Soft secures FDA clearance for aortic CT software",
+      "url": "https://www.auntminnie.com/clinical-news/ct/news/15975406/coreline-soft-coreline-soft-secures-fda-clearance-for-aortic-ct-software"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "AI fails to compensate for night-shift fatigue among residents",
+      "url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15838345/ai-fails-to-compensate-for-nightshift-fatigue-among-residents"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "AI Scribes Improved Note-Taking Time but Not Productivity, Study Finds",
+      "url": "https://www.medpagetoday.com/practicemanagement/informationtechnology/123591"
     }
   ]
 }

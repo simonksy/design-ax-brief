@@ -1,31 +1,11 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "section": "music",
   "media": [
-    {
-      "id": "music-suno-gong",
-      "type": "image",
-      "src": "pipeline/media/music-suno-gong.jpg"
-    },
-    {
-      "id": "music-mi-midi-2",
-      "type": "image",
-      "src": "pipeline/media/music-mi-midi-2.png"
-    },
-    {
-      "id": "music-movin-to-the-sun",
-      "type": "image",
-      "src": "pipeline/media/music-movin-to-the-sun.jpg"
-    },
-    {
-      "id": "music-charlotte-de-witte-nava",
-      "type": "image",
-      "src": "pipeline/media/music-charlotte-de-witte-nava.png"
-    },
-    {
-      "id": "music-djustify",
-      "type": "image",
-      "src": "pipeline/media/music-djustify.png"
-    }
+    {"id": "logicpro", "type": "image", "src": "pipeline/media/logicpro.jpg"},
+    {"id": "massivexl", "type": "image", "src": "pipeline/media/massivexl.jpg"},
+    {"id": "waveform", "type": "video", "src": "pipeline/media/waveform.mp4", "poster": "pipeline/media/waveform.jpg"},
+    {"id": "edgedout", "type": "image", "src": "pipeline/media/edgedout.jpg"},
+    {"id": "detectx", "type": "image", "src": "pipeline/media/detectx.jpg"}
   ]
 }

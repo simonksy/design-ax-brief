@@ -1,341 +1,251 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "section": "gadgets",
   "cards": [
     {
-      "id": "gadgets-siri-ios272",
+      "id": "gadgets-ollama-tts",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Apple 27.2에서\nSiri AI 또 좋아졌다",
-      "body": "Apple 27.2로 Siri AI는 지난 대화를 기억하고 다섯 언어를 더 쓴다.",
-      "mini_headline": "iOS 27.2로 달라진 Siri AI",
+      "headline": "Ollama, Mac에서\n로컬 텍스트 음성 변환",
+      "body": "Ollama가 Gradium의 Phonon 모델로 Mac에서 로컬 음성을 만든다.",
+      "mini_headline": "Ollama, Mac에 로컬 TTS 추가",
       "tool": "Gadgets",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/10/26/siri-ai-keeps-getting-better-heres-whats-new-in-ios-27-2/",
+      "source": "Digital Trends",
+      "url": "https://www.digitaltrends.com/computing/ollama-brings-free-local-text-to-speech-to-your-mac-with-natural-sounding-ai-voices/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&strip=all&w=1600",
-            "cap": "Siri AI"
+            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-logo-with-gradient-background.jpg?resize=1200%2C720&ssl=1",
+            "cap": "Rachit Agarwal / Digital Trends"
           },
           {
             "t": "p",
-            "x": "Apple이 오늘 27.2 소프트웨어 업데이트를 내놓는다. 새 기능이 여럿 들어갔고 Siri AI 개선도 몇 가지 있다. 달라진 점을 정리했다."
+            "x": "App Store에는 음성을 텍스트로 바꾸는 앱이 넘쳐난다. 반면 쓸 만한 텍스트 음성 변환 모델은 드물고 좋은 모델은 대부분 구독제로 묶여 있다. 오픈소스 앱 Ollama가 이 판을 바꾸려 한다. 컴퓨터에서 로컬 AI 모델을 돌리는 앱으로 macOS, Windows, Linux에서 작동하며 프롬프트를 저장하거나 학습에 쓰지 않는다."
+          },
+          {
+            "t": "p",
+            "x": "Ollama가 이제 Mac에서 텍스트 음성 변환 모델을 지원한다. 첫 모델은 Gradium이 만든 Phonon이다. 어떤 텍스트든 Mac에서 바로 음성으로 바꿔 주는 소형 모델 제품군이다. Windows와 Linux 지원도 곧 나온다."
           },
           {
             "t": "img",
-            "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&strip=all"
+            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-voice-models.jpg?resize=1368%2C668&ssl=1",
+            "cap": "Ollama"
           },
           {
             "t": "p",
-            "x": "Siri AI는 지난달 iOS 27과 함께 나왔다. Apple 어시스턴트를 크게 손본 결과물이다. 오늘 나오는 27.2 소프트웨어 업데이트로 Siri는 한 번 더 좋아진다."
+            "x": "목소리는 Zoey, Easton, Freya, Hugh 등 미국식·영국식 억양 가운데 고르면 된다. 영어 외에 프랑스어, 독일어, 스페인어, 포르투갈어 모델도 있다. Ollama에 따르면 M5 Max를 탑재한 MacBook Pro에서 Phonon은 Apple의 MLX 프레임워크 덕분에 정확도 손실 없이 Gradium 자체 런타임보다 35% 빠르게 돈다."
           },
           {
             "t": "p",
-            "x": "새 Siri AI 기능은 다음과 같다."
+            "x": "채팅 모델과 함께 쓰면 Phonon이 답변을 소리 내어 읽는다. 첫 문장이 끝나는 즉시 재생되니 답변이 다 나올 때까지 기다릴 필요가 없다."
           },
           {
             "t": "p",
-            "x": "대화 기억: Siri AI가 이전 대화에서 쓸 만한 맥락을 기억해 둔다. 앞서 추천받은 식당처럼 전에 나눈 이야기를 다시 물어보면 된다."
-          },
-          {
-            "t": "p",
-            "x": "개인 맥락 확대: Siri AI가 답을 다듬을 때 참고하는 개인 맥락 출처가 늘었다. “Messages에 첨부된 사진, Calendar 일정 참석자, 음성 사서함, Safari 방문 기록과 Reading List의 더 나은 결과”가 새로 들어갔다."
-          },
-          {
-            "t": "p",
-            "x": "언어 추가: 이제 Siri AI는 영어 말고도 프랑스어, 일본어, 한국어, 포르투갈어, 스페인어를 지원한다."
-          },
-          {
-            "t": "p",
-            "x": "Apple Watch에서 더 빠르게: Apple은 watchOS 27.2에서 Siri AI 응답이 전보다 빨라졌다고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "iOS 27.2, iPadOS 27.2, macOS 27.2 등 관련 업데이트를 설치하면 iPhone, iPad, Mac 등에서 이번 Siri AI 개선을 쓸 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "OpenAI, Anthropic 같은 기업의 AI 모델이 계속 발전하는 사이, Apple이 출시 직후부터 Siri AI를 손보는 모습은 반갑다. 소프트웨어 업데이트가 나올 때마다 어시스턴트가 조금씩 나아지길 기대한다."
+            "x": "Ollama 0.40.11 이상을 실행하는 Apple Silicon Mac이 있어야 한다. 영어 모델은 Apache 2.0 라이선스라 무료로 쓸 수 있지만 프랑스어·독일어·스페인어·포르투갈어와 다국어 모델은 비상업적 용도로만 쓸 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Siri AI improves again\nin Apple's 27.2 updates",
-          "body": "Apple's 27.2 updates let Siri AI recall past chats, use more personal context and speak five more languages.",
-          "mini_headline": "Siri AI upgrades in iOS 27.2",
+          "headline": "Ollama brings local\ntext-to-speech to the Mac",
+          "body": "Ollama now turns text into natural-sounding speech on the Mac locally, using Gradium's small Phonon models.",
+          "mini_headline": "Ollama adds local TTS on Mac",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&strip=all&w=1600",
-                "cap": "Siri AI"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-logo-with-gradient-background.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Rachit Agarwal / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "Apple is rolling out its 27.2 software updates today, and among a variety of new features, they introduce several improvements for Siri AI. Here’s what’s new."
+                "x": "Speech-to-text apps have flooded the App Store, but there has been a dearth of good text-to-speech models, and most of the good ones are locked behind a subscription. Ollama, an open-source app that lets you run local AI models on your computer, wants to change that. It works on macOS, Windows, and Linux, and your prompts are never stored or used for training."
+              },
+              {
+                "t": "p",
+                "x": "Ollama now supports text-to-speech models on the Mac, starting with Phonon. Built by Gradium, Phonon is a family of small models that can turn any text into speech right on your Mac. Windows and Linux support is coming soon."
               },
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&strip=all"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-voice-models.jpg?resize=1368%2C668&ssl=1",
+                "cap": "Ollama"
               },
               {
                 "t": "p",
-                "x": "Siri AI launched last month in iOS 27 as a major overhaul of Apple’s assistant. But Siri is getting even better today with new 27.2 software updates that are rolling out."
+                "x": "You can choose from voices like Zoey, Easton, Freya, and Hugh with American and British accents. Apart from English, there are models for French, German, Spanish, and Portuguese. Thanks to Apple’s MLX framework, Ollama claims Phonon runs 35% faster than Gradium’s own runtime on a MacBook Pro with M5 Max, without losing accuracy."
               },
               {
                 "t": "p",
-                "x": "New Siri AI features include:"
+                "x": "You can pair Phonon with a chat model to have its replies read aloud. Playback begins after the first sentence, so you don’t have to wait for the full answer."
               },
               {
                 "t": "p",
-                "x": "Conversation recall: Siri AI can now retain useful context from prior conversations, so you can ask it about things you’ve previously discussed such as restaurants it previously recommended."
-              },
-              {
-                "t": "p",
-                "x": "Personal context upgrades: More personal context sources can now be tapped into by Siri AI to provide a better answer, including “photos attached in Messages, Calendar event attendees, your voicemails, and better results from Safari history and Reading List”."
-              },
-              {
-                "t": "p",
-                "x": "More languages: Expanding beyond English, Siri AI now also supports French, Japanese, Korean, Portuguese, and Spanish."
-              },
-              {
-                "t": "p",
-                "x": "Faster on Apple Watch: Apple says that in watchOS 27.2, Siri AI provides faster responses than before."
-              },
-              {
-                "t": "p",
-                "x": "Users can benefit from these Siri AI upgrades across iPhone, iPad, Mac, and more with iOS 27.2, iPadOS 27.2, macOS 27.2, and other companion releases."
-              },
-              {
-                "t": "p",
-                "x": "With AI models from companies like OpenAI and Anthropic always improving, it’s great to see Apple already iterating on Siri AI so shortly after it launched. Here’s hoping the assistant keeps getting better with each new software update."
+                "x": "To get started, you need an Apple Silicon Mac running Ollama 0.40.11 or later. While the English model is free to use under Apache 2.0, the French, German, Spanish, Portuguese, and multilingual models are limited to noncommercial use."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Apple 27.2에서\nSiri AI 또 좋아졌다",
-          "body": "Apple 27.2로 Siri AI는 지난 대화를 기억하고 다섯 언어를 더 쓴다.",
-          "mini_headline": "iOS 27.2로 달라진 Siri AI",
+          "headline": "Ollama, Mac에서\n로컬 텍스트 음성 변환",
+          "body": "Ollama가 Gradium의 Phonon 모델로 Mac에서 로컬 음성을 만든다.",
+          "mini_headline": "Ollama, Mac에 로컬 TTS 추가",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&strip=all&w=1600",
-                "cap": "Siri AI"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-logo-with-gradient-background.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Rachit Agarwal / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "Apple이 오늘 27.2 소프트웨어 업데이트를 내놓는다. 새 기능이 여럿 들어갔고 Siri AI 개선도 몇 가지 있다. 달라진 점을 정리했다."
+                "x": "App Store에는 음성을 텍스트로 바꾸는 앱이 넘쳐난다. 반면 쓸 만한 텍스트 음성 변환 모델은 드물고 좋은 모델은 대부분 구독제로 묶여 있다. 오픈소스 앱 Ollama가 이 판을 바꾸려 한다. 컴퓨터에서 로컬 AI 모델을 돌리는 앱으로 macOS, Windows, Linux에서 작동하며 프롬프트를 저장하거나 학습에 쓰지 않는다."
+              },
+              {
+                "t": "p",
+                "x": "Ollama가 이제 Mac에서 텍스트 음성 변환 모델을 지원한다. 첫 모델은 Gradium이 만든 Phonon이다. 어떤 텍스트든 Mac에서 바로 음성으로 바꿔 주는 소형 모델 제품군이다. Windows와 Linux 지원도 곧 나온다."
               },
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&strip=all"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-voice-models.jpg?resize=1368%2C668&ssl=1",
+                "cap": "Ollama"
               },
               {
                 "t": "p",
-                "x": "Siri AI는 지난달 iOS 27과 함께 나왔다. Apple 어시스턴트를 크게 손본 결과물이다. 오늘 나오는 27.2 소프트웨어 업데이트로 Siri는 한 번 더 좋아진다."
+                "x": "목소리는 Zoey, Easton, Freya, Hugh 등 미국식·영국식 억양 가운데 고르면 된다. 영어 외에 프랑스어, 독일어, 스페인어, 포르투갈어 모델도 있다. Ollama에 따르면 M5 Max를 탑재한 MacBook Pro에서 Phonon은 Apple의 MLX 프레임워크 덕분에 정확도 손실 없이 Gradium 자체 런타임보다 35% 빠르게 돈다."
               },
               {
                 "t": "p",
-                "x": "새 Siri AI 기능은 다음과 같다."
+                "x": "채팅 모델과 함께 쓰면 Phonon이 답변을 소리 내어 읽는다. 첫 문장이 끝나는 즉시 재생되니 답변이 다 나올 때까지 기다릴 필요가 없다."
               },
               {
                 "t": "p",
-                "x": "대화 기억: Siri AI가 이전 대화에서 쓸 만한 맥락을 기억해 둔다. 앞서 추천받은 식당처럼 전에 나눈 이야기를 다시 물어보면 된다."
-              },
-              {
-                "t": "p",
-                "x": "개인 맥락 확대: Siri AI가 답을 다듬을 때 참고하는 개인 맥락 출처가 늘었다. “Messages에 첨부된 사진, Calendar 일정 참석자, 음성 사서함, Safari 방문 기록과 Reading List의 더 나은 결과”가 새로 들어갔다."
-              },
-              {
-                "t": "p",
-                "x": "언어 추가: 이제 Siri AI는 영어 말고도 프랑스어, 일본어, 한국어, 포르투갈어, 스페인어를 지원한다."
-              },
-              {
-                "t": "p",
-                "x": "Apple Watch에서 더 빠르게: Apple은 watchOS 27.2에서 Siri AI 응답이 전보다 빨라졌다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "iOS 27.2, iPadOS 27.2, macOS 27.2 등 관련 업데이트를 설치하면 iPhone, iPad, Mac 등에서 이번 Siri AI 개선을 쓸 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "OpenAI, Anthropic 같은 기업의 AI 모델이 계속 발전하는 사이, Apple이 출시 직후부터 Siri AI를 손보는 모습은 반갑다. 소프트웨어 업데이트가 나올 때마다 어시스턴트가 조금씩 나아지길 기대한다."
+                "x": "Ollama 0.40.11 이상을 실행하는 Apple Silicon Mac이 있어야 한다. 영어 모델은 Apache 2.0 라이선스라 무료로 쓸 수 있지만 프랑스어·독일어·스페인어·포르투갈어와 다국어 모델은 비상업적 용도로만 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Apple 27.2で\nSiri AIがさらに進化",
-          "body": "Apple 27.2でSiri AIが過去の会話を覚え、個人文脈も使い、言語も五つ増えた。",
-          "mini_headline": "iOS 27.2でSiri AIが進化",
+          "headline": "OllamaがMacで\nローカル音声合成",
+          "body": "OllamaはGradiumのPhononモデルで、Macでテキストを自然な音声に変える。",
+          "mini_headline": "OllamaがMacでローカルTTS",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&strip=all&w=1600",
-                "cap": "Siri AI"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-logo-with-gradient-background.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Rachit Agarwal / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "Appleは本日、27.2のソフトウェアアップデートの配信を始めた。多くの新機能のなかには、Siri AIの改良もいくつか含まれている。変更点をまとめる。"
+                "x": "App Storeには音声をテキストにするアプリがあふれているが、優れたテキスト読み上げモデルは乏しく、良いものの多くはサブスクリプションの壁の向こうにある。コンピューター上でローカルAIモデルを動かせるオープンソースアプリのOllamaは、この状況を変えようとしている。macOS、Windows、Linuxで動作し、プロンプトが保存されたり学習に使われたりすることはない。"
+              },
+              {
+                "t": "p",
+                "x": "OllamaはMacでテキスト読み上げモデルに対応し、その第一弾がPhononだ。Gradiumが開発したPhononは、あらゆるテキストをMac上でそのまま音声に変換できる小型モデル群である。WindowsとLinuxへの対応も近く始まる。"
               },
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&strip=all"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-voice-models.jpg?resize=1368%2C668&ssl=1",
+                "cap": "Ollama"
               },
               {
                 "t": "p",
-                "x": "Siri AIは先月、Appleのアシスタントを大きく刷新するかたちでiOS 27とともに登場した。本日配信が始まった27.2のソフトウェアアップデートで、Siriはさらに良くなる。"
+                "x": "声はZoey、Easton、Freya、Hughなどから選べ、米国英語と英国英語のアクセントがある。英語以外にフランス語、ドイツ語、スペイン語、ポルトガル語のモデルもある。Ollamaによれば、AppleのMLXフレームワークのおかげで、M5 Max搭載のMacBook Pro上でPhononはGradium独自のランタイムより35%速く、精度も落ちないという。"
               },
               {
                 "t": "p",
-                "x": "Siri AIの新機能は次のとおりだ。"
+                "x": "Phononをチャットモデルと組み合わせれば、返答を読み上げさせられる。最初の一文の後に再生が始まるため、回答全体を待つ必要はない。"
               },
               {
                 "t": "p",
-                "x": "会話の記憶：Siri AIは過去の会話から有用な文脈を保持できるようになった。以前すすめられたレストランなど、前に話した内容について尋ねられる。"
-              },
-              {
-                "t": "p",
-                "x": "個人的文脈の拡充：Siri AIがより良い回答のために参照できる個人的な情報源が増えた。「Messagesに添付された写真、Calendarの予定の参加者、留守番電話、そしてSafariの履歴とReading Listからのより良い結果」が含まれる。"
-              },
-              {
-                "t": "p",
-                "x": "対応言語の追加：英語に加え、Siri AIはフランス語、日本語、韓国語、ポルトガル語、スペイン語にも対応した。"
-              },
-              {
-                "t": "p",
-                "x": "Apple Watchで高速化：AppleによればwatchOS 27.2では、Siri AIの応答が以前より速くなる。"
-              },
-              {
-                "t": "p",
-                "x": "iOS 27.2、iPadOS 27.2、macOS 27.2などの関連リリースにより、iPhone、iPad、MacなどでこれらのSiri AIの改良を利用できる。"
-              },
-              {
-                "t": "p",
-                "x": "OpenAIやAnthropicなどのAIモデルが絶えず進化するなか、Appleが登場直後からSiri AIの改良を重ねているのは喜ばしい。ソフトウェアアップデートのたびにアシスタントが良くなっていくことを期待したい。"
+                "x": "利用にはOllama 0.40.11以降を動かすApple Silicon搭載Macが必要だ。英語モデルはApache 2.0のもとで無料で使えるが、フランス語、ドイツ語、スペイン語、ポルトガル語、多言語モデルは非商用利用に限られる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Apple 27.2更新\nSiri AI再度升级",
-          "body": "Apple 27.2更新让Siri AI能记住过往对话、调用更多个人情境，并新增五种语言。",
-          "mini_headline": "iOS 27.2中Siri AI升级",
+          "headline": "Ollama为Mac\n带来本地语音合成",
+          "body": "Ollama借助Gradium的小型Phonon模型，在Mac本地将文字转为自然语音。",
+          "mini_headline": "Ollama在Mac上支持本地TTS",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&strip=all&w=1600",
-                "cap": "Siri AI"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-logo-with-gradient-background.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Rachit Agarwal / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "Apple今天开始推送27.2软件更新，在众多新功能中，也为Siri AI带来了多项改进。以下是更新内容。"
+                "x": "App Store里语音转文字应用泛滥，但好用的文字转语音模型却很少，而且其中大多数优秀模型都需要订阅。Ollama是一款可在电脑上运行本地AI模型的开源应用，它想改变这一现状。它支持macOS、Windows和Linux，用户的提示词既不会被存储，也不会被用于训练。"
+              },
+              {
+                "t": "p",
+                "x": "Ollama现已在Mac上支持文字转语音模型，首个是Phonon。Phonon由Gradium打造，是一系列小型模型，能直接在Mac上把任何文字转成语音。对Windows和Linux的支持即将推出。"
               },
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&strip=all"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-voice-models.jpg?resize=1368%2C668&ssl=1",
+                "cap": "Ollama"
               },
               {
                 "t": "p",
-                "x": "Siri AI上个月随iOS 27推出，是对Apple助手的一次重大改造。随着今天开始推送的27.2软件更新，Siri变得更好了。"
+                "x": "用户可以选择Zoey、Easton、Freya和Hugh等带美式和英式口音的声音。除英语外，还有法语、德语、西班牙语和葡萄牙语模型。Ollama称，得益于Apple的MLX框架，Phonon在搭载M5 Max的MacBook Pro上比Gradium自家运行时快35%，且不损失准确性。"
               },
               {
                 "t": "p",
-                "x": "Siri AI的新功能包括："
+                "x": "Phonon可与聊天模型搭配，把回复朗读出来。第一句话生成后即开始播放，无需等待完整回答。"
               },
               {
                 "t": "p",
-                "x": "对话回忆：Siri AI现在可以保留以往对话中的有用情境，你可以问它此前聊过的内容，例如它之前推荐过的餐厅。"
-              },
-              {
-                "t": "p",
-                "x": "个人情境升级：Siri AI现在可以调用更多个人情境来源来给出更好的回答，包括“Messages中附带的照片、Calendar日程的参与者、你的语音留言，以及来自Safari历史记录和Reading List的更佳结果”。"
-              },
-              {
-                "t": "p",
-                "x": "更多语言：除英语外，Siri AI现在还支持法语、日语、韩语、葡萄牙语和西班牙语。"
-              },
-              {
-                "t": "p",
-                "x": "Apple Watch上更快：Apple表示，在watchOS 27.2中，Siri AI的响应速度比以前更快。"
-              },
-              {
-                "t": "p",
-                "x": "用户可通过iOS 27.2、iPadOS 27.2、macOS 27.2及其他配套版本，在iPhone、iPad、Mac等设备上享受这些Siri AI升级。"
-              },
-              {
-                "t": "p",
-                "x": "OpenAI和Anthropic等公司的AI模型不断进步，Apple在Siri AI推出后不久就开始迭代，令人欣慰。希望这款助手能随着每次软件更新持续变好。"
+                "x": "上手需要一台运行Ollama 0.40.11或更高版本的Apple Silicon Mac。英语模型可依据Apache 2.0免费使用，而法语、德语、西班牙语、葡萄牙语和多语种模型仅限非商业用途。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Siri AI mejora de nuevo\ncon las versiones 27.2 de Apple",
-          "body": "Con las versiones 27.2 de Apple, Siri AI recuerda chats previos, usa más contexto personal y suma cinco idiomas.",
-          "mini_headline": "Siri AI mejora en iOS 27.2",
+          "headline": "Ollama lleva la conversión de\ntexto a voz local al Mac",
+          "body": "Ollama ya convierte texto en voz natural de forma local en el Mac con los pequeños modelos Phonon de Gradium.",
+          "mini_headline": "Ollama añade TTS local en Mac",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&strip=all&w=1600",
-                "cap": "Siri AI"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-logo-with-gradient-background.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Rachit Agarwal / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "Apple publica hoy sus actualizaciones de software 27.2, que, entre varias funciones nuevas, introducen diversas mejoras para Siri AI. Esto es lo nuevo."
+                "x": "Las apps de voz a texto inundan la App Store, pero escasean los buenos modelos de texto a voz, y la mayoría de los buenos exigen una suscripción. Ollama, una app de código abierto que permite ejecutar modelos de AI locales en el propio equipo, quiere cambiar eso. Funciona en macOS, Windows y Linux, y los prompts nunca se almacenan ni se usan para entrenar."
+              },
+              {
+                "t": "p",
+                "x": "Ollama ya admite modelos de texto a voz en el Mac, empezando por Phonon. Creado por Gradium, Phonon es una familia de modelos pequeños que convierte cualquier texto en voz directamente en el Mac. El soporte para Windows y Linux llegará pronto."
               },
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&strip=all"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-voice-models.jpg?resize=1368%2C668&ssl=1",
+                "cap": "Ollama"
               },
               {
                 "t": "p",
-                "x": "Siri AI llegó el mes pasado con iOS 27 como una renovación profunda del asistente de Apple. Pero Siri mejora todavía más hoy con las nuevas actualizaciones de software 27.2 que se están distribuyendo."
+                "x": "Se puede elegir entre voces como Zoey, Easton, Freya y Hugh, con acentos estadounidense y británico. Además del inglés, hay modelos para francés, alemán, español y portugués. Gracias al framework MLX de Apple, Ollama afirma que Phonon funciona un 35% más rápido que el runtime propio de Gradium en un MacBook Pro con M5 Max, sin perder precisión."
               },
               {
                 "t": "p",
-                "x": "Las nuevas funciones de Siri AI incluyen:"
+                "x": "Phonon puede combinarse con un modelo de chat para que lea sus respuestas en voz alta. La reproducción empieza tras la primera frase, así que no hace falta esperar a la respuesta completa."
               },
               {
                 "t": "p",
-                "x": "Memoria de conversaciones: Siri AI ahora puede conservar contexto útil de conversaciones anteriores, de modo que se le puede preguntar por temas ya tratados, como restaurantes que recomendó antes."
-              },
-              {
-                "t": "p",
-                "x": "Más contexto personal: Siri AI ahora puede recurrir a más fuentes de contexto personal para dar una mejor respuesta, entre ellas “fotos adjuntas en Messages, asistentes a eventos de Calendar, tus mensajes de voz y mejores resultados del historial de Safari y de Reading List”."
-              },
-              {
-                "t": "p",
-                "x": "Más idiomas: además del inglés, Siri AI ahora admite francés, japonés, coreano, portugués y español."
-              },
-              {
-                "t": "p",
-                "x": "Más rápido en Apple Watch: Apple afirma que en watchOS 27.2 Siri AI responde más rápido que antes."
-              },
-              {
-                "t": "p",
-                "x": "Los usuarios pueden aprovechar estas mejoras de Siri AI en iPhone, iPad, Mac y otros dispositivos con iOS 27.2, iPadOS 27.2, macOS 27.2 y otras versiones complementarias."
-              },
-              {
-                "t": "p",
-                "x": "Con modelos de AI de empresas como OpenAI y Anthropic en mejora constante, es positivo ver que Apple ya itera sobre Siri AI tan poco después de su lanzamiento. Cabe esperar que el asistente siga mejorando con cada nueva actualización de software."
+                "x": "Para empezar se necesita un Mac con Apple Silicon y Ollama 0.40.11 o posterior. El modelo en inglés es de uso libre bajo Apache 2.0, pero los modelos en francés, alemán, español, portugués y multilingüe se limitan al uso no comercial."
               }
             ]
           }
@@ -343,221 +253,161 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Apple 27.2에서\nSiri AI 또 좋아졌다",
-          "body": "Apple 27.2로 Siri AI는 지난 대화를 기억하고 다섯 언어를 더 쓴다.",
-          "mini_headline": "iOS 27.2의 Siri AI 업그레이드",
+          "headline": "Ollama, Mac에서\n로컬 텍스트 음성 변환",
+          "body": "Ollama가 Gradium의 Phonon 모델로 Mac에서 로컬 음성을 만든다.",
+          "mini_headline": "Ollama, Mac에 로컬 TTS 추가",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&strip=all&w=1600",
-                "cap": "Siri AI"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-logo-with-gradient-background.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Rachit Agarwal / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "Apple이 오늘 27.2 소프트웨어 업데이트를 배포한다. 여러 새 기능 가운데 Siri AI 개선 사항도 여럿 담겼다. 달라진 점을 정리했다."
+                "x": "App Store에는 음성을 텍스트로 바꾸는 앱이 넘쳐나지만, 쓸 만한 텍스트 음성 변환 모델은 드물고 좋은 모델은 대부분 구독제로 묶여 있다. 컴퓨터에서 로컬 AI 모델을 돌릴 수 있는 오픈소스 앱 Ollama가 이를 바꾸려 한다. Ollama는 macOS, Windows, Linux에서 작동하며, 프롬프트는 저장되거나 학습에 쓰이지 않는다."
+              },
+              {
+                "t": "p",
+                "x": "Ollama가 이제 Mac에서 텍스트 음성 변환 모델을 지원하며, 첫 모델은 Phonon이다. Gradium이 만든 Phonon은 어떤 텍스트든 Mac에서 바로 음성으로 바꿔 주는 소형 모델 제품군이다. Windows와 Linux 지원도 곧 추가된다."
               },
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&strip=all"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-voice-models.jpg?resize=1368%2C668&ssl=1",
+                "cap": "Ollama"
               },
               {
                 "t": "p",
-                "x": "Siri AI는 지난달 iOS 27과 함께 Apple 어시스턴트를 크게 손본 형태로 나왔다. 오늘 배포되는 27.2 소프트웨어 업데이트로 Siri는 한층 더 나아진다."
+                "x": "Zoey, Easton, Freya, Hugh 등 미국식·영국식 억양의 목소리를 고를 수 있다. 영어 외에 프랑스어, 독일어, 스페인어, 포르투갈어 모델도 있다. Ollama는 Apple의 MLX 프레임워크 덕분에 M5 Max를 탑재한 MacBook Pro에서 Phonon이 정확도 손실 없이 Gradium 자체 런타임보다 35% 빠르게 돌아간다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "새 Siri AI 기능은 다음과 같다."
+                "x": "Phonon을 채팅 모델과 함께 쓰면 답변을 소리 내어 읽어 준다. 첫 문장이 끝나면 바로 재생이 시작되므로 전체 답변을 기다릴 필요가 없다."
               },
               {
                 "t": "p",
-                "x": "대화 기억: Siri AI가 이전 대화에서 유용한 맥락을 간직한다. 앞서 추천받은 식당처럼 전에 나눈 이야기를 다시 물어볼 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "개인 맥락 확대: Siri AI가 더 나은 답을 내려고 활용하는 개인 맥락 출처가 늘었다. “Messages에 첨부된 사진, Calendar 일정 참석자, 음성 사서함, Safari 방문 기록과 Reading List의 더 나은 결과”가 여기에 포함된다."
-              },
-              {
-                "t": "p",
-                "x": "언어 추가: Siri AI가 영어를 넘어 프랑스어, 일본어, 한국어, 포르투갈어, 스페인어도 지원한다."
-              },
-              {
-                "t": "p",
-                "x": "Apple Watch에서 더 빠르게: Apple은 watchOS 27.2에서 Siri AI가 전보다 빠르게 응답한다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "사용자는 iOS 27.2, iPadOS 27.2, macOS 27.2를 비롯한 관련 업데이트로 iPhone, iPad, Mac 등에서 이번 Siri AI 개선을 누릴 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "OpenAI, Anthropic 같은 기업의 AI 모델이 계속 발전하는 가운데, Apple이 출시 직후부터 Siri AI를 다듬고 있다는 점은 반갑다. 소프트웨어 업데이트마다 어시스턴트가 계속 나아지기를 기대한다."
+                "x": "사용하려면 Ollama 0.40.11 이상을 실행하는 Apple Silicon Mac이 필요하다. 영어 모델은 Apache 2.0 라이선스로 무료로 쓸 수 있지만, 프랑스어·독일어·스페인어·포르투갈어와 다국어 모델은 비상업적 용도로만 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Apple 27.2で\nSiri AIがさらに進化",
-          "body": "Apple 27.2でSiri AIが過去の会話を覚え、個人文脈も使い、言語も五つ増えた。",
-          "mini_headline": "iOS 27.2でSiri AIが進化",
+          "headline": "OllamaがMacで\nローカル音声合成",
+          "body": "OllamaはGradiumのPhononモデルで、Macでテキストを自然な音声に変える。",
+          "mini_headline": "OllamaがMacでローカルTTS",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&strip=all&w=1600",
-                "cap": "Siri AI"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-logo-with-gradient-background.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Rachit Agarwal / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "Appleは本日、27.2のソフトウェアアップデートの配信を始めた。多くの新機能のなかには、Siri AIの改良もいくつか含まれている。変更点をまとめる。"
+                "x": "App Storeには音声をテキストにするアプリがあふれているが、優れたテキスト読み上げモデルは乏しく、良いものの多くはサブスクリプションの壁の向こうにある。コンピューター上でローカルAIモデルを動かせるオープンソースアプリのOllamaは、この状況を変えようとしている。macOS、Windows、Linuxで動作し、プロンプトが保存されたり学習に使われたりすることはない。"
+              },
+              {
+                "t": "p",
+                "x": "OllamaはMacでテキスト読み上げモデルに対応し、その第一弾がPhononだ。Gradiumが開発したPhononは、あらゆるテキストをMac上でそのまま音声に変換できる小型モデル群である。WindowsとLinuxへの対応も近く始まる。"
               },
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&strip=all"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-voice-models.jpg?resize=1368%2C668&ssl=1",
+                "cap": "Ollama"
               },
               {
                 "t": "p",
-                "x": "Siri AIは先月、Appleのアシスタントを大きく刷新するかたちでiOS 27とともに登場した。本日配信が始まった27.2のソフトウェアアップデートで、Siriはさらに良くなる。"
+                "x": "声はZoey、Easton、Freya、Hughなどから選べ、米国英語と英国英語のアクセントがある。英語以外にフランス語、ドイツ語、スペイン語、ポルトガル語のモデルもある。Ollamaによれば、AppleのMLXフレームワークのおかげで、M5 Max搭載のMacBook Pro上でPhononはGradium独自のランタイムより35%速く、精度も落ちないという。"
               },
               {
                 "t": "p",
-                "x": "Siri AIの新機能は次のとおりだ。"
+                "x": "Phononをチャットモデルと組み合わせれば、返答を読み上げさせられる。最初の一文の後に再生が始まるため、回答全体を待つ必要はない。"
               },
               {
                 "t": "p",
-                "x": "会話の記憶：Siri AIは過去の会話から有用な文脈を保持できるようになった。以前すすめられたレストランなど、前に話した内容について尋ねられる。"
-              },
-              {
-                "t": "p",
-                "x": "個人的文脈の拡充：Siri AIがより良い回答のために参照できる個人的な情報源が増えた。「Messagesに添付された写真、Calendarの予定の参加者、留守番電話、そしてSafariの履歴とReading Listからのより良い結果」が含まれる。"
-              },
-              {
-                "t": "p",
-                "x": "対応言語の追加：英語に加え、Siri AIはフランス語、日本語、韓国語、ポルトガル語、スペイン語にも対応した。"
-              },
-              {
-                "t": "p",
-                "x": "Apple Watchで高速化：AppleによればwatchOS 27.2では、Siri AIの応答が以前より速くなる。"
-              },
-              {
-                "t": "p",
-                "x": "iOS 27.2、iPadOS 27.2、macOS 27.2などの関連リリースにより、iPhone、iPad、MacなどでこれらのSiri AIの改良を利用できる。"
-              },
-              {
-                "t": "p",
-                "x": "OpenAIやAnthropicなどのAIモデルが絶えず進化するなか、Appleが登場直後からSiri AIの改良を重ねているのは喜ばしい。ソフトウェアアップデートのたびにアシスタントが良くなっていくことを期待したい。"
+                "x": "利用にはOllama 0.40.11以降を動かすApple Silicon搭載Macが必要だ。英語モデルはApache 2.0のもとで無料で使えるが、フランス語、ドイツ語、スペイン語、ポルトガル語、多言語モデルは非商用利用に限られる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Apple 27.2更新\nSiri AI再度升级",
-          "body": "Apple 27.2更新让Siri AI能记住过往对话、调用更多个人情境，并新增五种语言。",
-          "mini_headline": "iOS 27.2中Siri AI升级",
+          "headline": "Ollama为Mac\n带来本地语音合成",
+          "body": "Ollama借助Gradium的小型Phonon模型，在Mac本地将文字转为自然语音。",
+          "mini_headline": "Ollama在Mac上支持本地TTS",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&strip=all&w=1600",
-                "cap": "Siri AI"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-logo-with-gradient-background.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Rachit Agarwal / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "Apple今天开始推送27.2软件更新，在众多新功能中，也为Siri AI带来了多项改进。以下是更新内容。"
+                "x": "App Store里语音转文字应用泛滥，但好用的文字转语音模型却很少，而且其中大多数优秀模型都需要订阅。Ollama是一款可在电脑上运行本地AI模型的开源应用，它想改变这一现状。它支持macOS、Windows和Linux，用户的提示词既不会被存储，也不会被用于训练。"
+              },
+              {
+                "t": "p",
+                "x": "Ollama现已在Mac上支持文字转语音模型，首个是Phonon。Phonon由Gradium打造，是一系列小型模型，能直接在Mac上把任何文字转成语音。对Windows和Linux的支持即将推出。"
               },
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&strip=all"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-voice-models.jpg?resize=1368%2C668&ssl=1",
+                "cap": "Ollama"
               },
               {
                 "t": "p",
-                "x": "Siri AI上个月随iOS 27推出，是对Apple助手的一次重大改造。随着今天开始推送的27.2软件更新，Siri变得更好了。"
+                "x": "用户可以选择Zoey、Easton、Freya和Hugh等带美式和英式口音的声音。除英语外，还有法语、德语、西班牙语和葡萄牙语模型。Ollama称，得益于Apple的MLX框架，Phonon在搭载M5 Max的MacBook Pro上比Gradium自家运行时快35%，且不损失准确性。"
               },
               {
                 "t": "p",
-                "x": "Siri AI的新功能包括："
+                "x": "Phonon可与聊天模型搭配，把回复朗读出来。第一句话生成后即开始播放，无需等待完整回答。"
               },
               {
                 "t": "p",
-                "x": "对话回忆：Siri AI现在可以保留以往对话中的有用情境，你可以问它此前聊过的内容，例如它之前推荐过的餐厅。"
-              },
-              {
-                "t": "p",
-                "x": "个人情境升级：Siri AI现在可以调用更多个人情境来源来给出更好的回答，包括“Messages中附带的照片、Calendar日程的参与者、你的语音留言，以及来自Safari历史记录和Reading List的更佳结果”。"
-              },
-              {
-                "t": "p",
-                "x": "更多语言：除英语外，Siri AI现在还支持法语、日语、韩语、葡萄牙语和西班牙语。"
-              },
-              {
-                "t": "p",
-                "x": "Apple Watch上更快：Apple表示，在watchOS 27.2中，Siri AI的响应速度比以前更快。"
-              },
-              {
-                "t": "p",
-                "x": "用户可通过iOS 27.2、iPadOS 27.2、macOS 27.2及其他配套版本，在iPhone、iPad、Mac等设备上享受这些Siri AI升级。"
-              },
-              {
-                "t": "p",
-                "x": "OpenAI和Anthropic等公司的AI模型不断进步，Apple在Siri AI推出后不久就开始迭代，令人欣慰。希望这款助手能随着每次软件更新持续变好。"
+                "x": "上手需要一台运行Ollama 0.40.11或更高版本的Apple Silicon Mac。英语模型可依据Apache 2.0免费使用，而法语、德语、西班牙语、葡萄牙语和多语种模型仅限非商业用途。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Siri AI mejora de nuevo\ncon las versiones 27.2 de Apple",
-          "body": "Con las versiones 27.2 de Apple, Siri AI recuerda chats previos, usa más contexto personal y suma cinco idiomas.",
-          "mini_headline": "Siri AI mejora en iOS 27.2",
+          "headline": "Ollama lleva la conversión de\ntexto a voz local al Mac",
+          "body": "Ollama ya convierte texto en voz natural de forma local en el Mac con los pequeños modelos Phonon de Gradium.",
+          "mini_headline": "Ollama añade TTS local en Mac",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&strip=all&w=1600",
-                "cap": "Siri AI"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-logo-with-gradient-background.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Rachit Agarwal / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "Apple publica hoy sus actualizaciones de software 27.2, que, entre varias funciones nuevas, introducen diversas mejoras para Siri AI. Esto es lo nuevo."
+                "x": "Las apps de voz a texto inundan la App Store, pero escasean los buenos modelos de texto a voz, y la mayoría de los buenos exigen una suscripción. Ollama, una app de código abierto que permite ejecutar modelos de AI locales en el propio equipo, quiere cambiar eso. Funciona en macOS, Windows y Linux, y los prompts nunca se almacenan ni se usan para entrenar."
+              },
+              {
+                "t": "p",
+                "x": "Ollama ya admite modelos de texto a voz en el Mac, empezando por Phonon. Creado por Gradium, Phonon es una familia de modelos pequeños que convierte cualquier texto en voz directamente en el Mac. El soporte para Windows y Linux llegará pronto."
               },
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&strip=all"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-voice-models.jpg?resize=1368%2C668&ssl=1",
+                "cap": "Ollama"
               },
               {
                 "t": "p",
-                "x": "Siri AI llegó el mes pasado con iOS 27 como una renovación profunda del asistente de Apple. Pero Siri mejora todavía más hoy con las nuevas actualizaciones de software 27.2 que se están distribuyendo."
+                "x": "Se puede elegir entre voces como Zoey, Easton, Freya y Hugh, con acentos estadounidense y británico. Además del inglés, hay modelos para francés, alemán, español y portugués. Gracias al framework MLX de Apple, Ollama afirma que Phonon funciona un 35% más rápido que el runtime propio de Gradium en un MacBook Pro con M5 Max, sin perder precisión."
               },
               {
                 "t": "p",
-                "x": "Las nuevas funciones de Siri AI incluyen:"
+                "x": "Phonon puede combinarse con un modelo de chat para que lea sus respuestas en voz alta. La reproducción empieza tras la primera frase, así que no hace falta esperar a la respuesta completa."
               },
               {
                 "t": "p",
-                "x": "Memoria de conversaciones: Siri AI ahora puede conservar contexto útil de conversaciones anteriores, de modo que se le puede preguntar por temas ya tratados, como restaurantes que recomendó antes."
-              },
-              {
-                "t": "p",
-                "x": "Más contexto personal: Siri AI ahora puede recurrir a más fuentes de contexto personal para dar una mejor respuesta, entre ellas “fotos adjuntas en Messages, asistentes a eventos de Calendar, tus mensajes de voz y mejores resultados del historial de Safari y de Reading List”."
-              },
-              {
-                "t": "p",
-                "x": "Más idiomas: además del inglés, Siri AI ahora admite francés, japonés, coreano, portugués y español."
-              },
-              {
-                "t": "p",
-                "x": "Más rápido en Apple Watch: Apple afirma que en watchOS 27.2 Siri AI responde más rápido que antes."
-              },
-              {
-                "t": "p",
-                "x": "Los usuarios pueden aprovechar estas mejoras de Siri AI en iPhone, iPad, Mac y otros dispositivos con iOS 27.2, iPadOS 27.2, macOS 27.2 y otras versiones complementarias."
-              },
-              {
-                "t": "p",
-                "x": "Con modelos de AI de empresas como OpenAI y Anthropic en mejora constante, es positivo ver que Apple ya itera sobre Siri AI tan poco después de su lanzamiento. Cabe esperar que el asistente siga mejorando con cada nueva actualización de software."
+                "x": "Para empezar se necesita un Mac con Apple Silicon y Ollama 0.40.11 o posterior. El modelo en inglés es de uso libre bajo Apache 2.0, pero los modelos en francés, alemán, español, portugués y multilingüe se limitan al uso no comercial."
               }
             ]
           }
@@ -565,15 +415,15 @@
       }
     },
     {
-      "id": "gadgets-orisa",
+      "id": "gadgets-macbook-pro-m6",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "삭제한 AI 대화도\n휴대폰에서 복구된다",
-      "body": "Georgia Tech의 ORISA는 로컬 AI 앱에서 지운 대화를 되살린다.",
-      "mini_headline": "삭제한 AI 대화, 복구 가능",
+      "headline": "MacBook Pro M6\nAI 성능 25% 향상",
+      "body": "Apple MacBook Pro 14인치 M6는 AI 25%·그래픽 30% 빠르다.",
+      "mini_headline": "MacBook Pro, M6 탑재",
       "tool": "Gadgets",
-      "source": "Digital Trends",
-      "url": "https://www.digitaltrends.com/computing/researchers-develop-forensic-tool-orisa-to-recover-deleted-conversations-from-ai-chatbot-apps/",
+      "source": "Tom's Guide",
+      "url": "https://www.tomsguide.com/computing/macbooks/apple-reveals-m6-macbook-pro-for-pro-and-tell-week-heres-everything-thats-new",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
@@ -581,209 +431,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/recovering-deleted-ai-chats.jpg?resize=1200%2C720&ssl=1",
-            "cap": "Manisha Priyadarshini / Digital Trends"
+            "src": "https://cdn.mos.cms.futurecdn.net/7moKw5F2gzMVH2GPuzQHMT.jpg",
+            "cap": "(이미지 출처: Apple)"
           },
           {
             "t": "p",
-            "x": "AI 챗봇과 나눈 대화를 지우면 정말 사라진다고 믿었다면 생각을 고쳐야겠다. Georgia Tech 연구진이 포렌식 도구 ORISA를 만들었다. 휴대폰에서 삭제된 대화를 찾아내, 대화를 계속 이어갈 수 있는 챗봇 세션으로 재구성까지 한다."
+            "x": "Apple이 \"Pro and tell\" 발표에서 M6 프로세서를 단 14인치 MacBook Pro의 10월 리프레시 모델을 공개했다. 터치스크린은 없고 디자인도 크게 달라지지 않았다. 차세대 Apple Intelligence와 Siri AI를 담은 macOS 27 Golden Gate가 기본으로 들어간다."
           },
           {
             "t": "p",
-            "x": "로컬 AI 어시스턴트는 대화를 클라우드로 보내지 않는다. 대신 앱이 도는 동안 그 데이터가 휴대폰 작업 메모리에 남는다. 그래서 앱에서 대화를 지워도 꼭 사라지지는 않는다. ORISA는 남은 조각을 찾아 이어 붙이고, 실제로 작동하는 AI 세션으로 되살린다."
+            "x": "새 M6 MacBook Pro는 M6 칩, 16GB RAM, 1TB 저장공간 구성이 $1,999부터다. 사전 주문은 10월 28일 수요일에 시작하며 출고는 11월 6일부터다."
           },
           {
             "t": "img",
-            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/overview-of-orisa.jpg?resize=2238%2C812&ssl=1",
-            "cap": "ORISA 설계 개요. Georgia Tech"
+            "src": "https://cdn.mos.cms.futurecdn.net/yqvquafwQnwqJ9V45U4NLR.jpg",
+            "cap": "(이미지 출처: Apple)"
           },
           {
             "t": "p",
-            "x": "한 실험에서 연구진은 Project Note Keeper라는 가상의 어시스턴트에 사실 100개를 입력한 뒤 대화를 삭제했다. 그때 라이브 세션이 꺼낼 수 있는 사실은 14개뿐이었는데, ORISA는 26개를 복구했다. Android 앱 10개와 AI 모델 세 개를 엮은 60개 테스트 구성에서도 ORISA는 삭제된 대화 데이터를 되찾았다."
+            "x": "M6는 2나노미터 아키텍처로 넘어갔고 M5의 10코어 CPU·10코어 GPU보다 CPU와 GPU 코어가 두 개씩 늘었다. AI와 머신러닝은 Dual 16코어 Neural Engine이 맡고 각 GPU 코어에 들어간 Neural Accelerators가 이를 받친다. Apple은 12코어 GPU가 M5보다 그래픽은 최대 30퍼센트, AI 작업은 최대 25퍼센트 빠르다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "연구진은 누군가 AI 어시스턴트와 무엇을 공유했는지 수사관이 재구성할 때 ORISA가 도움이 될 수 있다고 설명한다. 챗봇 조언이 환자에게 해를 끼쳤을지 모르는 사건이 그런 예다. 온디바이스 AI 사용자에게는 반대로 개인정보 걱정거리가 생긴다. ORISA는 수사관용 포렌식 도구여서 휴대폰 메모리와 저장소 사본이 있어야 하고, 다른 활동이 데이터를 덮어쓰면 복구가 어려워진다."
+            "x": "Wi-Fi 7과 Bluetooth 6을 지원하는 Apple의 N1 칩도 들어간다. 배터리는 최대 24시간 간다고 Apple은 밝혔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Deleted AI chats can be\nrecovered from phones",
-          "body": "Georgia Tech's ORISA tool recovers deleted chats from local AI apps and rebuilds them into a working session.",
-          "mini_headline": "Deleted AI chats recoverable",
+          "headline": "MacBook Pro moves to M6\nwith 25% faster AI",
+          "body": "Apple's 14-inch MacBook Pro moves to M6, promising 30% faster graphics, 25% faster AI and up to 24 hours of battery.",
+          "mini_headline": "MacBook Pro gets M6",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/recovering-deleted-ai-chats.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Manisha Priyadarshini / Digital Trends"
+                "src": "https://cdn.mos.cms.futurecdn.net/7moKw5F2gzMVH2GPuzQHMT.jpg",
+                "cap": "(Image credit: Apple)"
               },
               {
                 "t": "p",
-                "x": "Did you think hitting delete on your AI chatbot conversation actually makes it disappear? Georgia Tech researchers have built a forensic tool called ORISA that can dig deleted conversations from your phone and even rebuild them into a working chatbot session you can keep talking to."
+                "x": "Apple has unveiled an October refresh of its 14-inch MacBook Pro complete with the M6 processor, as part of its \"Pro and tell\" announcements. It doesn't come with a touchscreen or much in the way of a new design, and it will ship with macOS 27 Golden Gate, which includes the next version of Apple Intelligence and Siri AI."
               },
               {
                 "t": "p",
-                "x": "Local AI assistants don’t send conversations to the cloud, but that data still lives in the phone’s working memory while the app runs, so deleting a chat in the app doesn’t necessarily erase it. ORISA looks for those leftover fragments and stitches them back together into a live, working AI session."
+                "x": "The new M6 MacBook Pro starts at $1,999 with an M6 chip, 16GB of RAM and 1TB of storage. Pre-orders begin on Wednesday, October 28, and shipping will begin on November 6."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/overview-of-orisa.jpg?resize=2238%2C812&ssl=1",
-                "cap": "Overview of ORISA’s design. Georgia Tech"
+                "src": "https://cdn.mos.cms.futurecdn.net/yqvquafwQnwqJ9V45U4NLR.jpg",
+                "cap": "(Image credit: Apple)"
               },
               {
                 "t": "p",
-                "x": "In one test, researchers fed a fictional assistant called Project Note Keeper 100 facts, then deleted the conversation. The live session could access only 14 of those facts by then; ORISA recovered 26. Across 60 test configurations spanning 10 Android apps and three AI models, the tool recovered deleted conversation data."
+                "x": "The M6 moves to a 2-nanometer architecture and adds two cores to both the CPU and GPU over the M5's 10-core CPU and 10-core GPU. It also has a Dual 16-core Neural Engine for AI and machine learning, supported by Neural Accelerators in each GPU core. Apple says the 12-core GPU delivers up to 30 percent faster graphics and up to 25 percent faster AI workloads when compared to M5."
               },
               {
                 "t": "p",
-                "x": "Researchers say ORISA could help investigators piece together what someone shared with an AI assistant, including cases where chatbot advice may have harmed patients. It also raises privacy concerns for on-device AI users. ORISA is a forensic tool for investigators, needs a copy of the phone’s memory and storage, and recovery gets harder when other activity overwrites the data."
+                "x": "The MacBook Pro also gets Apple's N1 chip with Wi-Fi 7 and Bluetooth 6, and Apple says battery life reaches up to 24 hours overall."
               }
             ]
           }
         },
         "ko": {
-          "headline": "삭제한 AI 대화도\n휴대폰에서 복구된다",
-          "body": "Georgia Tech의 ORISA는 로컬 AI 앱에서 지운 대화를 되살린다.",
-          "mini_headline": "삭제한 AI 대화, 복구 가능",
+          "headline": "MacBook Pro M6\nAI 성능 25% 향상",
+          "body": "Apple MacBook Pro 14인치 M6는 AI 25%·그래픽 30% 빠르다.",
+          "mini_headline": "MacBook Pro, M6 탑재",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/recovering-deleted-ai-chats.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Manisha Priyadarshini / Digital Trends"
+                "src": "https://cdn.mos.cms.futurecdn.net/7moKw5F2gzMVH2GPuzQHMT.jpg",
+                "cap": "(이미지 출처: Apple)"
               },
               {
                 "t": "p",
-                "x": "AI 챗봇과 나눈 대화를 지우면 정말 사라진다고 믿었다면 생각을 고쳐야겠다. Georgia Tech 연구진이 포렌식 도구 ORISA를 만들었다. 휴대폰에서 삭제된 대화를 찾아내, 대화를 계속 이어갈 수 있는 챗봇 세션으로 재구성까지 한다."
+                "x": "Apple이 \"Pro and tell\" 발표에서 M6 프로세서를 단 14인치 MacBook Pro의 10월 리프레시 모델을 공개했다. 터치스크린은 없고 디자인도 크게 달라지지 않았다. 차세대 Apple Intelligence와 Siri AI를 담은 macOS 27 Golden Gate가 기본으로 들어간다."
               },
               {
                 "t": "p",
-                "x": "로컬 AI 어시스턴트는 대화를 클라우드로 보내지 않는다. 대신 앱이 도는 동안 그 데이터가 휴대폰 작업 메모리에 남는다. 그래서 앱에서 대화를 지워도 꼭 사라지지는 않는다. ORISA는 남은 조각을 찾아 이어 붙이고, 실제로 작동하는 AI 세션으로 되살린다."
+                "x": "새 M6 MacBook Pro는 M6 칩, 16GB RAM, 1TB 저장공간 구성이 $1,999부터다. 사전 주문은 10월 28일 수요일에 시작하며 출고는 11월 6일부터다."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/overview-of-orisa.jpg?resize=2238%2C812&ssl=1",
-                "cap": "ORISA 설계 개요. Georgia Tech"
+                "src": "https://cdn.mos.cms.futurecdn.net/yqvquafwQnwqJ9V45U4NLR.jpg",
+                "cap": "(이미지 출처: Apple)"
               },
               {
                 "t": "p",
-                "x": "한 실험에서 연구진은 Project Note Keeper라는 가상의 어시스턴트에 사실 100개를 입력한 뒤 대화를 삭제했다. 그때 라이브 세션이 꺼낼 수 있는 사실은 14개뿐이었는데, ORISA는 26개를 복구했다. Android 앱 10개와 AI 모델 세 개를 엮은 60개 테스트 구성에서도 ORISA는 삭제된 대화 데이터를 되찾았다."
+                "x": "M6는 2나노미터 아키텍처로 넘어갔고 M5의 10코어 CPU·10코어 GPU보다 CPU와 GPU 코어가 두 개씩 늘었다. AI와 머신러닝은 Dual 16코어 Neural Engine이 맡고 각 GPU 코어에 들어간 Neural Accelerators가 이를 받친다. Apple은 12코어 GPU가 M5보다 그래픽은 최대 30퍼센트, AI 작업은 최대 25퍼센트 빠르다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "연구진은 누군가 AI 어시스턴트와 무엇을 공유했는지 수사관이 재구성할 때 ORISA가 도움이 될 수 있다고 설명한다. 챗봇 조언이 환자에게 해를 끼쳤을지 모르는 사건이 그런 예다. 온디바이스 AI 사용자에게는 반대로 개인정보 걱정거리가 생긴다. ORISA는 수사관용 포렌식 도구여서 휴대폰 메모리와 저장소 사본이 있어야 하고, 다른 활동이 데이터를 덮어쓰면 복구가 어려워진다."
+                "x": "Wi-Fi 7과 Bluetooth 6을 지원하는 Apple의 N1 칩도 들어간다. 배터리는 최대 24시간 간다고 Apple은 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "削除したAIチャットも\nスマホから復元できる",
-          "body": "Georgia TechのORISAはローカルAIアプリで消した会話を復元して再び動かす。",
-          "mini_headline": "削除したAIチャットは復元可能",
+          "headline": "MacBook Pro M6\nAI性能25%向上",
+          "body": "M6搭載の14インチMacBook Proは描画30%、AI 25%速く、電池は24時間だ。",
+          "mini_headline": "MacBook ProがM6に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/recovering-deleted-ai-chats.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Manisha Priyadarshini / Digital Trends"
+                "src": "https://cdn.mos.cms.futurecdn.net/7moKw5F2gzMVH2GPuzQHMT.jpg",
+                "cap": "(画像クレジット：Apple)"
               },
               {
                 "t": "p",
-                "x": "AIチャットボットとの会話を削除すれば本当に消えると思っていなかっただろうか。Georgia Techの研究者は、スマートフォンから削除済みの会話を掘り起こし、そのまま会話を続けられるチャットボットセッションとして再構築までできるフォレンジックツール「ORISA」を開発した。"
+                "x": "Appleは「Pro and tell」発表の一環として、M6プロセッサーを搭載した14インチMacBook Proの10月リフレッシュを発表した。タッチスクリーンはなく、デザインもほとんど変わらない。次世代のApple IntelligenceとSiri AIを含むmacOS 27 Golden Gateを搭載して出荷される。"
               },
               {
                 "t": "p",
-                "x": "ローカルAIアシスタントは会話をクラウドに送らないが、アプリの実行中はそのデータがスマートフォンのワーキングメモリに残る。そのため、アプリでチャットを削除しても必ずしも消えるわけではない。ORISAはこうした残存断片を探し出してつなぎ合わせ、実際に動くAIセッションとして復元する。"
+                "x": "新しいM6 MacBook Proは、M6チップ、16GBのRAM、1TBのストレージを備えて$1,999からだ。予約注文は10月28日（水）に始まり、出荷は11月6日に始まる。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/overview-of-orisa.jpg?resize=2238%2C812&ssl=1",
-                "cap": "ORISAの設計の概要。Georgia Tech"
+                "src": "https://cdn.mos.cms.futurecdn.net/yqvquafwQnwqJ9V45U4NLR.jpg",
+                "cap": "(画像クレジット：Apple)"
               },
               {
                 "t": "p",
-                "x": "ある実験では、Project Note Keeperという架空のアシスタントに100の事実を与えた後、会話を削除した。その時点でライブセッションが参照できた事実は14だけだったが、ORISAは26を復元した。10のAndroidアプリと三つのAIモデルにまたがる60のテスト構成で、このツールは削除された会話データを復元した。"
+                "x": "M6は2ナノメートルのアーキテクチャに移行し、M5の10コアCPUと10コアGPUに対し、CPUとGPUにそれぞれ二つずつコアを追加した。AIと機械学習向けのDual 16コアNeural Engineも備え、各GPUコアのNeural Acceleratorsがそれを支える。Appleによれば、12コアGPUはM5と比べてグラフィックスが最大30パーセント、AI処理が最大25パーセント高速だという。"
               },
               {
                 "t": "p",
-                "x": "研究者によれば、ORISAは誰かがAIアシスタントに何を共有したかを捜査員が再構成する助けになりうる。チャットボットの助言が患者に害を与えた可能性のある事案も含まれる。一方で、オンデバイスAIの利用者にとってはプライバシー上の懸念も生じる。ORISAは捜査員向けのフォレンジックツールで、スマートフォンのメモリとストレージのコピーが必要であり、他の操作でデータが上書きされると復元は難しくなる。"
+                "x": "MacBook ProにはWi-Fi 7とBluetooth 6に対応したAppleのN1チップも搭載され、Appleはバッテリー駆動時間が全体で最大24時間に達するとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "已删除的AI聊天\n可从手机中恢复",
-          "body": "Georgia Tech的ORISA能从本地AI应用中恢复已删除的聊天，并重建为可用会话。",
-          "mini_headline": "已删除AI聊天可恢复",
+          "headline": "MacBook Pro M6\nAI性能提升25%",
+          "body": "14英寸MacBook Pro升级M6，图形快30%、AI快25%，续航最长24小时。",
+          "mini_headline": "MacBook Pro升级M6",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/recovering-deleted-ai-chats.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Manisha Priyadarshini / Digital Trends"
+                "src": "https://cdn.mos.cms.futurecdn.net/7moKw5F2gzMVH2GPuzQHMT.jpg",
+                "cap": "（图片来源：Apple）"
               },
               {
                 "t": "p",
-                "x": "你以为删除与AI聊天机器人的对话就能让它真正消失吗？Georgia Tech的研究人员开发了一款名为ORISA的取证工具，能从手机中挖出已删除的对话，甚至将其重建为可以继续交谈的聊天机器人会话。"
+                "x": "Apple在“Pro and tell”系列发布中推出了14英寸MacBook Pro的10月更新款，搭载M6处理器。新款没有触控屏，设计也几乎没有变化，出厂预装macOS 27 Golden Gate，其中包含新一代Apple Intelligence和Siri AI。"
               },
               {
                 "t": "p",
-                "x": "本地AI助手不会把对话发送到云端，但在应用运行期间，这些数据仍保存在手机的工作内存中，因此在应用里删除聊天并不一定能将其抹去。ORISA会寻找这些残留碎片，并将它们重新拼接成一个可实际运行的AI会话。"
+                "x": "新款M6 MacBook Pro起售价$1,999，配备M6芯片、16GB RAM和1TB存储。预订于10月28日周三开始，11月6日开始发货。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/overview-of-orisa.jpg?resize=2238%2C812&ssl=1",
-                "cap": "ORISA设计概览。Georgia Tech"
+                "src": "https://cdn.mos.cms.futurecdn.net/yqvquafwQnwqJ9V45U4NLR.jpg",
+                "cap": "（图片来源：Apple）"
               },
               {
                 "t": "p",
-                "x": "在一项测试中，研究人员向一个名为Project Note Keeper的虚构助手输入了100条事实，随后删除了对话。此时实时会话只能访问其中14条，而ORISA恢复了26条。在涵盖10款Android应用和三种AI模型的60种测试配置中，该工具都恢复了已删除的对话数据。"
+                "x": "M6转向2纳米架构，在M5的10核CPU和10核GPU基础上，CPU和GPU各增加两个核心。它还配备用于AI和机器学习的Dual 16核Neural Engine，并由每个GPU核心中的Neural Accelerators提供支持。Apple表示，与M5相比，12核GPU的图形性能最高提升百分之三十，AI工作负载最高提升百分之二十五。"
               },
               {
                 "t": "p",
-                "x": "研究人员表示，ORISA可以帮助调查人员拼凑出某人与AI助手分享过的内容，包括聊天机器人的建议可能伤害了患者的案件。它也给端侧AI用户带来了隐私方面的担忧。ORISA是面向调查人员的取证工具，需要手机内存和存储的副本，而且当其他活动覆盖数据后，恢复会变得更加困难。"
+                "x": "MacBook Pro还配备支持Wi-Fi 7和Bluetooth 6的Apple N1芯片，Apple称其整体续航最长可达24小时。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los chats de AI borrados\nse recuperan desde el teléfono",
-          "body": "ORISA de Georgia Tech recupera chats borrados de apps de AI locales y los convierte en una sesión activa.",
-          "mini_headline": "Chats de AI borrados, recuperables",
+          "headline": "El MacBook Pro pasa al M6\ncon AI un 25% más rápida",
+          "body": "El MacBook Pro de 14 pulgadas de Apple pasa al M6: gráficos un 30% y AI un 25% más rápidos y hasta 24 horas de batería.",
+          "mini_headline": "El MacBook Pro estrena el M6",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/recovering-deleted-ai-chats.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Manisha Priyadarshini / Digital Trends"
+                "src": "https://cdn.mos.cms.futurecdn.net/7moKw5F2gzMVH2GPuzQHMT.jpg",
+                "cap": "(Crédito de imagen: Apple)"
               },
               {
                 "t": "p",
-                "x": "¿Creía que borrar una conversación con un chatbot de AI la hace desaparecer? Investigadores de Georgia Tech han creado una herramienta forense llamada ORISA capaz de extraer conversaciones borradas del teléfono e incluso reconstruirlas en una sesión de chatbot funcional con la que se puede seguir conversando."
+                "x": "Apple presentó una renovación de octubre de su MacBook Pro de 14 pulgadas con el procesador M6, como parte de sus anuncios \"Pro and tell\". No incluye pantalla táctil ni grandes cambios de diseño, y llegará con macOS 27 Golden Gate, que incluye la próxima versión de Apple Intelligence y Siri AI."
               },
               {
                 "t": "p",
-                "x": "Los asistentes de AI locales no envían las conversaciones a la nube, pero esos datos siguen en la memoria de trabajo del teléfono mientras la app está en ejecución, así que borrar un chat en la app no lo elimina necesariamente. ORISA busca esos fragmentos residuales y los vuelve a unir en una sesión de AI activa y funcional."
+                "x": "El nuevo MacBook Pro con M6 parte de $1,999 con chip M6, 16GB de RAM y 1TB de almacenamiento. Las reservas comienzan el miércoles 28 de octubre y los envíos, el 6 de noviembre."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/overview-of-orisa.jpg?resize=2238%2C812&ssl=1",
-                "cap": "Esquema del diseño de ORISA. Georgia Tech"
+                "src": "https://cdn.mos.cms.futurecdn.net/yqvquafwQnwqJ9V45U4NLR.jpg",
+                "cap": "(Crédito de imagen: Apple)"
               },
               {
                 "t": "p",
-                "x": "En una prueba, los investigadores dieron 100 datos a un asistente ficticio llamado Project Note Keeper y luego borraron la conversación. Para entonces, la sesión activa solo podía acceder a 14 de esos datos; ORISA recuperó 26. En 60 configuraciones de prueba que abarcaban 10 apps de Android y tres modelos de AI, la herramienta recuperó datos de conversaciones borradas."
+                "x": "El M6 pasa a una arquitectura de 2 nanómetros y suma dos núcleos tanto a la CPU como a la GPU respecto a la CPU de 10 núcleos y la GPU de 10 núcleos del M5. También cuenta con un Dual 16-core Neural Engine para AI y aprendizaje automático, apoyado por Neural Accelerators en cada núcleo de la GPU. Apple afirma que la GPU de 12 núcleos ofrece gráficos hasta un 30 por ciento más rápidos y cargas de trabajo de AI hasta un 25 por ciento más rápidas que el M5."
               },
               {
                 "t": "p",
-                "x": "Los autores señalan que ORISA podría ayudar a los investigadores a reconstruir lo que alguien compartió con un asistente de AI, incluidos casos en los que los consejos de un chatbot pudieron perjudicar a pacientes. También plantea dudas de privacidad para quienes usan AI en el dispositivo. ORISA es una herramienta forense para investigadores, requiere una copia de la memoria y el almacenamiento del teléfono, y la recuperación se complica cuando otra actividad sobrescribe los datos."
+                "x": "El MacBook Pro también incorpora el chip N1 de Apple con Wi-Fi 7 y Bluetooth 6, y Apple asegura que la batería alcanza hasta 24 horas en total."
               }
             ]
           }
@@ -791,145 +641,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "삭제한 AI 대화도\n휴대폰에서 복구된다",
-          "body": "Georgia Tech의 ORISA는 로컬 AI 앱에서 지운 대화를 되살린다.",
-          "mini_headline": "삭제한 AI 대화, 복구 가능",
+          "headline": "MacBook Pro M6\nAI 성능 25% 향상",
+          "body": "Apple MacBook Pro 14인치 M6는 AI 25%·그래픽 30% 빠르다.",
+          "mini_headline": "MacBook Pro, M6 탑재",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/recovering-deleted-ai-chats.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Manisha Priyadarshini / Digital Trends"
+                "src": "https://cdn.mos.cms.futurecdn.net/7moKw5F2gzMVH2GPuzQHMT.jpg",
+                "cap": "(이미지 출처: Apple)"
               },
               {
                 "t": "p",
-                "x": "AI 챗봇과 나눈 대화를 지우면 정말 사라진다고 믿었다면 다시 생각할 일이다. Georgia Tech 연구진이 휴대폰에서 삭제된 대화를 찾아내고, 계속 대화를 이어갈 수 있는 챗봇 세션으로 재구성까지 하는 포렌식 도구 ORISA를 만들었다."
+                "x": "Apple이 \"Pro and tell\" 발표의 하나로 M6 프로세서를 탑재한 14인치 MacBook Pro의 10월 리프레시 모델을 공개했다. 터치스크린은 없고 디자인도 크게 바뀌지 않았으며, 차세대 Apple Intelligence와 Siri AI를 담은 macOS 27 Golden Gate가 기본 탑재된다."
               },
               {
                 "t": "p",
-                "x": "로컬 AI 어시스턴트는 대화를 클라우드로 보내지 않지만, 앱이 실행되는 동안 그 데이터는 휴대폰의 작업 메모리에 남는다. 그래서 앱에서 대화를 지워도 반드시 사라지지는 않는다. ORISA는 남은 조각을 찾아 다시 이어 붙여 실제로 작동하는 AI 세션으로 되살린다."
+                "x": "새 M6 MacBook Pro는 M6 칩, 16GB RAM, 1TB 저장공간 구성에 $1,999부터 시작한다. 사전 주문은 10월 28일 수요일에 시작되고, 출고는 11월 6일부터다."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/overview-of-orisa.jpg?resize=2238%2C812&ssl=1",
-                "cap": "ORISA 설계 개요. Georgia Tech"
+                "src": "https://cdn.mos.cms.futurecdn.net/yqvquafwQnwqJ9V45U4NLR.jpg",
+                "cap": "(이미지 출처: Apple)"
               },
               {
                 "t": "p",
-                "x": "한 실험에서 연구진은 Project Note Keeper라는 가상의 어시스턴트에 사실 100개를 입력한 뒤 대화를 삭제했다. 그 시점에 라이브 세션이 접근할 수 있는 사실은 14개뿐이었지만, ORISA는 26개를 복구했다. Android 앱 10개와 AI 모델 세 개에 걸친 60개 테스트 구성에서 이 도구는 삭제된 대화 데이터를 복구했다."
+                "x": "M6는 2나노미터 아키텍처로 바뀌었고, M5의 10코어 CPU와 10코어 GPU보다 CPU와 GPU에 코어를 두 개씩 더했다. AI와 머신러닝을 위한 Dual 16코어 Neural Engine도 갖췄으며, 각 GPU 코어에 들어간 Neural Accelerators가 이를 뒷받침한다. Apple은 12코어 GPU가 M5 대비 그래픽은 최대 30퍼센트, AI 작업은 최대 25퍼센트 빠르다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "연구진은 ORISA가 누군가 AI 어시스턴트와 무엇을 공유했는지 수사관이 재구성하는 데 도움이 될 수 있다고 말한다. 챗봇의 조언이 환자에게 해를 끼쳤을 수 있는 사건도 여기에 포함된다. 동시에 온디바이스 AI 사용자에게는 개인정보 우려를 낳는다. ORISA는 수사관을 위한 포렌식 도구로, 휴대폰 메모리와 저장소의 사본이 필요하고, 다른 활동이 데이터를 덮어쓰면 복구가 어려워진다."
+                "x": "MacBook Pro에는 Wi-Fi 7과 Bluetooth 6을 지원하는 Apple의 N1 칩도 들어가며, Apple은 배터리 사용 시간이 최대 24시간에 이른다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "削除したAIチャットも\nスマホから復元できる",
-          "body": "Georgia TechのORISAはローカルAIアプリで消した会話を復元して再び動かす。",
-          "mini_headline": "削除したAIチャットは復元可能",
+          "headline": "MacBook Pro M6\nAI性能25%向上",
+          "body": "M6搭載の14インチMacBook Proは描画30%、AI 25%速く、電池は24時間だ。",
+          "mini_headline": "MacBook ProがM6に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/recovering-deleted-ai-chats.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Manisha Priyadarshini / Digital Trends"
+                "src": "https://cdn.mos.cms.futurecdn.net/7moKw5F2gzMVH2GPuzQHMT.jpg",
+                "cap": "(画像クレジット：Apple)"
               },
               {
                 "t": "p",
-                "x": "AIチャットボットとの会話を削除すれば本当に消えると思っていなかっただろうか。Georgia Techの研究者は、スマートフォンから削除済みの会話を掘り起こし、そのまま会話を続けられるチャットボットセッションとして再構築までできるフォレンジックツール「ORISA」を開発した。"
+                "x": "Appleは「Pro and tell」発表の一環として、M6プロセッサーを搭載した14インチMacBook Proの10月リフレッシュを発表した。タッチスクリーンはなく、デザインもほとんど変わらない。次世代のApple IntelligenceとSiri AIを含むmacOS 27 Golden Gateを搭載して出荷される。"
               },
               {
                 "t": "p",
-                "x": "ローカルAIアシスタントは会話をクラウドに送らないが、アプリの実行中はそのデータがスマートフォンのワーキングメモリに残る。そのため、アプリでチャットを削除しても必ずしも消えるわけではない。ORISAはこうした残存断片を探し出してつなぎ合わせ、実際に動くAIセッションとして復元する。"
+                "x": "新しいM6 MacBook Proは、M6チップ、16GBのRAM、1TBのストレージを備えて$1,999からだ。予約注文は10月28日（水）に始まり、出荷は11月6日に始まる。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/overview-of-orisa.jpg?resize=2238%2C812&ssl=1",
-                "cap": "ORISAの設計の概要。Georgia Tech"
+                "src": "https://cdn.mos.cms.futurecdn.net/yqvquafwQnwqJ9V45U4NLR.jpg",
+                "cap": "(画像クレジット：Apple)"
               },
               {
                 "t": "p",
-                "x": "ある実験では、Project Note Keeperという架空のアシスタントに100の事実を与えた後、会話を削除した。その時点でライブセッションが参照できた事実は14だけだったが、ORISAは26を復元した。10のAndroidアプリと三つのAIモデルにまたがる60のテスト構成で、このツールは削除された会話データを復元した。"
+                "x": "M6は2ナノメートルのアーキテクチャに移行し、M5の10コアCPUと10コアGPUに対し、CPUとGPUにそれぞれ二つずつコアを追加した。AIと機械学習向けのDual 16コアNeural Engineも備え、各GPUコアのNeural Acceleratorsがそれを支える。Appleによれば、12コアGPUはM5と比べてグラフィックスが最大30パーセント、AI処理が最大25パーセント高速だという。"
               },
               {
                 "t": "p",
-                "x": "研究者によれば、ORISAは誰かがAIアシスタントに何を共有したかを捜査員が再構成する助けになりうる。チャットボットの助言が患者に害を与えた可能性のある事案も含まれる。一方で、オンデバイスAIの利用者にとってはプライバシー上の懸念も生じる。ORISAは捜査員向けのフォレンジックツールで、スマートフォンのメモリとストレージのコピーが必要であり、他の操作でデータが上書きされると復元は難しくなる。"
+                "x": "MacBook ProにはWi-Fi 7とBluetooth 6に対応したAppleのN1チップも搭載され、Appleはバッテリー駆動時間が全体で最大24時間に達するとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "已删除的AI聊天\n可从手机中恢复",
-          "body": "Georgia Tech的ORISA能从本地AI应用中恢复已删除的聊天，并重建为可用会话。",
-          "mini_headline": "已删除AI聊天可恢复",
+          "headline": "MacBook Pro M6\nAI性能提升25%",
+          "body": "14英寸MacBook Pro升级M6，图形快30%、AI快25%，续航最长24小时。",
+          "mini_headline": "MacBook Pro升级M6",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/recovering-deleted-ai-chats.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Manisha Priyadarshini / Digital Trends"
+                "src": "https://cdn.mos.cms.futurecdn.net/7moKw5F2gzMVH2GPuzQHMT.jpg",
+                "cap": "（图片来源：Apple）"
               },
               {
                 "t": "p",
-                "x": "你以为删除与AI聊天机器人的对话就能让它真正消失吗？Georgia Tech的研究人员开发了一款名为ORISA的取证工具，能从手机中挖出已删除的对话，甚至将其重建为可以继续交谈的聊天机器人会话。"
+                "x": "Apple在“Pro and tell”系列发布中推出了14英寸MacBook Pro的10月更新款，搭载M6处理器。新款没有触控屏，设计也几乎没有变化，出厂预装macOS 27 Golden Gate，其中包含新一代Apple Intelligence和Siri AI。"
               },
               {
                 "t": "p",
-                "x": "本地AI助手不会把对话发送到云端，但在应用运行期间，这些数据仍保存在手机的工作内存中，因此在应用里删除聊天并不一定能将其抹去。ORISA会寻找这些残留碎片，并将它们重新拼接成一个可实际运行的AI会话。"
+                "x": "新款M6 MacBook Pro起售价$1,999，配备M6芯片、16GB RAM和1TB存储。预订于10月28日周三开始，11月6日开始发货。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/overview-of-orisa.jpg?resize=2238%2C812&ssl=1",
-                "cap": "ORISA设计概览。Georgia Tech"
+                "src": "https://cdn.mos.cms.futurecdn.net/yqvquafwQnwqJ9V45U4NLR.jpg",
+                "cap": "（图片来源：Apple）"
               },
               {
                 "t": "p",
-                "x": "在一项测试中，研究人员向一个名为Project Note Keeper的虚构助手输入了100条事实，随后删除了对话。此时实时会话只能访问其中14条，而ORISA恢复了26条。在涵盖10款Android应用和三种AI模型的60种测试配置中，该工具都恢复了已删除的对话数据。"
+                "x": "M6转向2纳米架构，在M5的10核CPU和10核GPU基础上，CPU和GPU各增加两个核心。它还配备用于AI和机器学习的Dual 16核Neural Engine，并由每个GPU核心中的Neural Accelerators提供支持。Apple表示，与M5相比，12核GPU的图形性能最高提升百分之三十，AI工作负载最高提升百分之二十五。"
               },
               {
                 "t": "p",
-                "x": "研究人员表示，ORISA可以帮助调查人员拼凑出某人与AI助手分享过的内容，包括聊天机器人的建议可能伤害了患者的案件。它也给端侧AI用户带来了隐私方面的担忧。ORISA是面向调查人员的取证工具，需要手机内存和存储的副本，而且当其他活动覆盖数据后，恢复会变得更加困难。"
+                "x": "MacBook Pro还配备支持Wi-Fi 7和Bluetooth 6的Apple N1芯片，Apple称其整体续航最长可达24小时。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los chats de AI borrados\nse recuperan desde el teléfono",
-          "body": "ORISA de Georgia Tech recupera chats borrados de apps de AI locales y los convierte en una sesión activa.",
-          "mini_headline": "Chats de AI borrados, recuperables",
+          "headline": "El MacBook Pro pasa al M6\ncon AI un 25% más rápida",
+          "body": "El MacBook Pro de 14 pulgadas de Apple pasa al M6: gráficos un 30% y AI un 25% más rápidos y hasta 24 horas de batería.",
+          "mini_headline": "El MacBook Pro estrena el M6",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/recovering-deleted-ai-chats.jpg?resize=1200%2C720&ssl=1",
-                "cap": "Manisha Priyadarshini / Digital Trends"
+                "src": "https://cdn.mos.cms.futurecdn.net/7moKw5F2gzMVH2GPuzQHMT.jpg",
+                "cap": "(Crédito de imagen: Apple)"
               },
               {
                 "t": "p",
-                "x": "¿Creía que borrar una conversación con un chatbot de AI la hace desaparecer? Investigadores de Georgia Tech han creado una herramienta forense llamada ORISA capaz de extraer conversaciones borradas del teléfono e incluso reconstruirlas en una sesión de chatbot funcional con la que se puede seguir conversando."
+                "x": "Apple presentó una renovación de octubre de su MacBook Pro de 14 pulgadas con el procesador M6, como parte de sus anuncios \"Pro and tell\". No incluye pantalla táctil ni grandes cambios de diseño, y llegará con macOS 27 Golden Gate, que incluye la próxima versión de Apple Intelligence y Siri AI."
               },
               {
                 "t": "p",
-                "x": "Los asistentes de AI locales no envían las conversaciones a la nube, pero esos datos siguen en la memoria de trabajo del teléfono mientras la app está en ejecución, así que borrar un chat en la app no lo elimina necesariamente. ORISA busca esos fragmentos residuales y los vuelve a unir en una sesión de AI activa y funcional."
+                "x": "El nuevo MacBook Pro con M6 parte de $1,999 con chip M6, 16GB de RAM y 1TB de almacenamiento. Las reservas comienzan el miércoles 28 de octubre y los envíos, el 6 de noviembre."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/overview-of-orisa.jpg?resize=2238%2C812&ssl=1",
-                "cap": "Esquema del diseño de ORISA. Georgia Tech"
+                "src": "https://cdn.mos.cms.futurecdn.net/yqvquafwQnwqJ9V45U4NLR.jpg",
+                "cap": "(Crédito de imagen: Apple)"
               },
               {
                 "t": "p",
-                "x": "En una prueba, los investigadores dieron 100 datos a un asistente ficticio llamado Project Note Keeper y luego borraron la conversación. Para entonces, la sesión activa solo podía acceder a 14 de esos datos; ORISA recuperó 26. En 60 configuraciones de prueba que abarcaban 10 apps de Android y tres modelos de AI, la herramienta recuperó datos de conversaciones borradas."
+                "x": "El M6 pasa a una arquitectura de 2 nanómetros y suma dos núcleos tanto a la CPU como a la GPU respecto a la CPU de 10 núcleos y la GPU de 10 núcleos del M5. También cuenta con un Dual 16-core Neural Engine para AI y aprendizaje automático, apoyado por Neural Accelerators en cada núcleo de la GPU. Apple afirma que la GPU de 12 núcleos ofrece gráficos hasta un 30 por ciento más rápidos y cargas de trabajo de AI hasta un 25 por ciento más rápidas que el M5."
               },
               {
                 "t": "p",
-                "x": "Los autores señalan que ORISA podría ayudar a los investigadores a reconstruir lo que alguien compartió con un asistente de AI, incluidos casos en los que los consejos de un chatbot pudieron perjudicar a pacientes. También plantea dudas de privacidad para quienes usan AI en el dispositivo. ORISA es una herramienta forense para investigadores, requiere una copia de la memoria y el almacenamiento del teléfono, y la recuperación se complica cuando otra actividad sobrescribe los datos."
+                "x": "El MacBook Pro también incorpora el chip N1 de Apple con Wi-Fi 7 y Bluetooth 6, y Apple asegura que la batería alcanza hasta 24 horas en total."
               }
             ]
           }
@@ -937,15 +787,427 @@
       }
     },
     {
-      "id": "gadgets-rayban-meta-training",
+      "id": "gadgets-galaxy-buds-on",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Ray-Ban Meta의\n사진, AI 학습에서 빼기",
-      "body": "Ray-Ban Meta 사진은 AI 학습에서 뺄 수 있고 US 밖에선 음성도 된다.",
-      "mini_headline": "Ray-Ban Meta 학습 제외 설정",
+      "headline": "Galaxy Buds On\nGemini Live 탑재",
+      "body": "Samsung Galaxy Buds On으로 Gemini Live를 손 없이 쓴다.",
+      "mini_headline": "Gemini Live 품은 Galaxy Buds On",
       "tool": "Gadgets",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Ray-Ban-Meta-How-to-stop-your-glasses-from-training-AI.1430044.0.html",
+      "source": "Samsung Global Newsroom",
+      "url": "https://news.samsung.com/global/hands-on-comfort-convenience-and-more-a-day-with-galaxy-buds-on",
+      "accent": "#f5a623",
+      "motif": "headset",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26121640/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main1.jpg",
+            "cap": "Galaxy Buds On"
+          },
+          {
+            "t": "p",
+            "x": "Samsung Electronics가 첫 오픈형 이어버드 Galaxy Buds On을 내놨다. 클립형 디자인에 풍부한 사운드와 AI-powered 기능을 더해 더 큰 자유와 유연성을 준다. 귀에 가볍게 걸리지만 머리를 격하게 움직여도 단단히 고정된다."
+          },
+          {
+            "t": "p",
+            "x": "“Hey Google, let’s talk Live”라고 말하면 Gemini Live가 켜져 스마트폰을 꺼내지 않고도 러닝 코스를 추천받는다. Galaxy AI-enabled 스마트폰과 연결하면 손을 쓰지 않고 Gemini Live를 이용할 수 있다."
+          },
+          {
+            "t": "video",
+            "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/27174131/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main6-1.mp4"
+          },
+          {
+            "t": "p",
+            "x": "“Next song”이나 “Volume up” 같은 음성 명령으로 이어버드를 건드리지 않고 재생을 제어한다. 회의가 끝난 뒤 이어버드를 길게 누르면 Quick Voice Memo가 녹음을 시작한다. 나중에 Bixby에게 할 일을 물으면 세부 내용을 음성으로 들려준다. Head Gestures 기능을 쓰면 고개를 끄덕여 전화를 받고 고개를 저어 거절한다."
+          },
+          {
+            "t": "img",
+            "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26122922/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main10.jpg",
+            "cap": "Galaxy Buds On에는 Intelligent Clear Call 기능이 있다."
+          },
+          {
+            "t": "p",
+            "x": "Intelligent Clear Call은 마이크 세 개와 골전도 기반 Voice Pickup Unit Sensor, 머신러닝 기반 솔루션으로 사용자 목소리를 가려내고 주변 소음을 줄인다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Galaxy Buds On clip on\nwith hands-free Gemini Live",
+          "body": "Samsung's clip-on Galaxy Buds On launch with hands-free Gemini Live and head-gesture call handling.",
+          "mini_headline": "Galaxy Buds On with Gemini Live",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26121640/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main1.jpg",
+                "cap": "Galaxy Buds On"
+              },
+              {
+                "t": "p",
+                "x": "Samsung Electronics has launched Galaxy Buds On, its first open-ear earbuds. Combining a clip-on design with rich sound and AI-powered features, Galaxy Buds On offers greater freedom and flexibility. The clip-on design rests lightly on the ears and stays securely in place even with vigorous head movements."
+              },
+              {
+                "t": "p",
+                "x": "Saying “Hey Google, let’s talk Live” launches Gemini Live, allowing users to ask for running route recommendations without taking out their smartphones. Galaxy Buds On offers hands-free access to Gemini Live when paired with a Galaxy AI-enabled smartphone."
+              },
+              {
+                "t": "video",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/27174131/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main6-1.mp4"
+              },
+              {
+                "t": "p",
+                "x": "Voice commands like “Next song” or “Volume up” control playback without touching the earbuds. After a meeting, Quick Voice Memo starts recording when users press and hold an earbud; later, they can ask Bixby about their tasks and hear the details aloud. With Head Gestures, users can nod to answer incoming calls or shake their heads to decline them."
+              },
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26122922/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main10.jpg",
+                "cap": "Galaxy Buds On features Intelligent Clear Call."
+              },
+              {
+                "t": "p",
+                "x": "Intelligent Clear Call uses three microphones, a bone conduction-based Voice Pickup Unit Sensor, and a machine learning-based solution to isolate the user’s voice and reduce background noise."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Galaxy Buds On\nGemini Live 탑재",
+          "body": "Samsung Galaxy Buds On으로 Gemini Live를 손 없이 쓴다.",
+          "mini_headline": "Gemini Live 품은 Galaxy Buds On",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26121640/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main1.jpg",
+                "cap": "Galaxy Buds On"
+              },
+              {
+                "t": "p",
+                "x": "Samsung Electronics가 첫 오픈형 이어버드 Galaxy Buds On을 내놨다. 클립형 디자인에 풍부한 사운드와 AI-powered 기능을 더해 더 큰 자유와 유연성을 준다. 귀에 가볍게 걸리지만 머리를 격하게 움직여도 단단히 고정된다."
+              },
+              {
+                "t": "p",
+                "x": "“Hey Google, let’s talk Live”라고 말하면 Gemini Live가 켜져 스마트폰을 꺼내지 않고도 러닝 코스를 추천받는다. Galaxy AI-enabled 스마트폰과 연결하면 손을 쓰지 않고 Gemini Live를 이용할 수 있다."
+              },
+              {
+                "t": "video",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/27174131/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main6-1.mp4"
+              },
+              {
+                "t": "p",
+                "x": "“Next song”이나 “Volume up” 같은 음성 명령으로 이어버드를 건드리지 않고 재생을 제어한다. 회의가 끝난 뒤 이어버드를 길게 누르면 Quick Voice Memo가 녹음을 시작한다. 나중에 Bixby에게 할 일을 물으면 세부 내용을 음성으로 들려준다. Head Gestures 기능을 쓰면 고개를 끄덕여 전화를 받고 고개를 저어 거절한다."
+              },
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26122922/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main10.jpg",
+                "cap": "Galaxy Buds On에는 Intelligent Clear Call 기능이 있다."
+              },
+              {
+                "t": "p",
+                "x": "Intelligent Clear Call은 마이크 세 개와 골전도 기반 Voice Pickup Unit Sensor, 머신러닝 기반 솔루션으로 사용자 목소리를 가려내고 주변 소음을 줄인다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Galaxy Buds On\nGemini Live対応",
+          "body": "SamsungのGalaxy Buds OnはGemini Liveを手ぶらで呼び出せる。",
+          "mini_headline": "Gemini Live対応のGalaxy Buds On",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26121640/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main1.jpg",
+                "cap": "Galaxy Buds On"
+              },
+              {
+                "t": "p",
+                "x": "Samsung Electronicsは、同社初のオープンイヤー型イヤホン「Galaxy Buds On」を発売した。クリップオン型のデザインに豊かなサウンドとAI-powered機能を組み合わせ、より自由で柔軟な使い方ができる。クリップオン型デザインは耳に軽く載り、頭を激しく動かしてもしっかり固定される。"
+              },
+              {
+                "t": "p",
+                "x": "“Hey Google, let’s talk Live”と話しかけるとGemini Liveが起動し、スマートフォンを取り出さずにランニングルートのおすすめを尋ねられる。Galaxy Buds Onは、Galaxy AI-enabledのスマートフォンとペアリングすると、ハンズフリーでGemini Liveを利用できる。"
+              },
+              {
+                "t": "video",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/27174131/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main6-1.mp4"
+              },
+              {
+                "t": "p",
+                "x": "“Next song”や“Volume up”といった音声コマンドで、イヤホンに触れずに再生を操作できる。会議の後はイヤホンを長押しするとQuick Voice Memoが録音を始め、後でBixbyにタスクを尋ねて詳細を読み上げてもらえる。Head Gesturesを使えば、うなずいて着信に応答し、首を横に振って拒否できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26122922/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main10.jpg",
+                "cap": "Galaxy Buds OnはIntelligent Clear Callを搭載している。"
+              },
+              {
+                "t": "p",
+                "x": "Intelligent Clear Callは、三つのマイク、骨伝導ベースのVoice Pickup Unit Sensor、機械学習ベースのソリューションを使い、ユーザーの声を分離して周囲の雑音を減らす。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Galaxy Buds On\n支持Gemini Live",
+          "body": "三星夹式Galaxy Buds On支持免提Gemini Live和头部手势接听来电。",
+          "mini_headline": "Galaxy Buds On支持Gemini Live",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26121640/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main1.jpg",
+                "cap": "Galaxy Buds On"
+              },
+              {
+                "t": "p",
+                "x": "Samsung Electronics推出了旗下首款开放式耳机Galaxy Buds On。Galaxy Buds On将夹式设计与丰富音质和AI-powered功能相结合，带来更大的自由度和灵活性。夹式设计轻轻搭在耳朵上，即使头部剧烈运动也能牢牢固定。"
+              },
+              {
+                "t": "p",
+                "x": "说出“Hey Google, let’s talk Live”即可启动Gemini Live，用户无需掏出手机就能询问跑步路线推荐。与Galaxy AI-enabled智能手机配对后，Galaxy Buds On可免提使用Gemini Live。"
+              },
+              {
+                "t": "video",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/27174131/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main6-1.mp4"
+              },
+              {
+                "t": "p",
+                "x": "用“Next song”或“Volume up”等语音指令，无需触碰耳机即可控制播放。会议结束后，长按耳机即可让Quick Voice Memo开始录音；之后可以向Bixby询问待办事项并收听详细内容。借助Head Gestures，用户点头即可接听来电，摇头即可拒接。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26122922/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main10.jpg",
+                "cap": "Galaxy Buds On具备Intelligent Clear Call功能。"
+              },
+              {
+                "t": "p",
+                "x": "Intelligent Clear Call利用三个麦克风、基于骨传导的Voice Pickup Unit Sensor和基于机器学习的方案，分离用户的声音并降低背景噪音。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Galaxy Buds On, con clip y\nGemini Live sin manos",
+          "body": "Los Galaxy Buds On de Samsung, con clip, llegan con Gemini Live sin manos y control de llamadas con gestos de cabeza.",
+          "mini_headline": "Galaxy Buds On con Gemini Live",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26121640/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main1.jpg",
+                "cap": "Galaxy Buds On"
+              },
+              {
+                "t": "p",
+                "x": "Samsung Electronics ha lanzado Galaxy Buds On, sus primeros auriculares de oído abierto. Con un diseño de clip, un sonido rico y funciones AI-powered, Galaxy Buds On ofrece más libertad y flexibilidad. El diseño de clip descansa ligeramente sobre las orejas y se mantiene firme incluso con movimientos bruscos de la cabeza."
+              },
+              {
+                "t": "p",
+                "x": "Al decir “Hey Google, let’s talk Live” se inicia Gemini Live, que permite pedir recomendaciones de rutas para correr sin sacar el teléfono. Galaxy Buds On ofrece acceso manos libres a Gemini Live cuando se empareja con un smartphone Galaxy AI-enabled."
+              },
+              {
+                "t": "video",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/27174131/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main6-1.mp4"
+              },
+              {
+                "t": "p",
+                "x": "Comandos de voz como “Next song” o “Volume up” controlan la reproducción sin tocar los auriculares. Tras una reunión, Quick Voice Memo empieza a grabar al mantener pulsado un auricular; después, se puede preguntar a Bixby por las tareas y escuchar los detalles en voz alta. Con Head Gestures, basta asentir para contestar una llamada o negar con la cabeza para rechazarla."
+              },
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26122922/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main10.jpg",
+                "cap": "Galaxy Buds On incluye Intelligent Clear Call."
+              },
+              {
+                "t": "p",
+                "x": "Intelligent Clear Call utiliza tres micrófonos, un Voice Pickup Unit Sensor basado en conducción ósea y una solución basada en aprendizaje automático para aislar la voz del usuario y reducir el ruido de fondo."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Galaxy Buds On\nGemini Live 탑재",
+          "body": "Samsung Galaxy Buds On은 Gemini Live를 손 없이 쓴다.",
+          "mini_headline": "Gemini Live 품은 Galaxy Buds On",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26121640/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main1.jpg",
+                "cap": "Galaxy Buds On"
+              },
+              {
+                "t": "p",
+                "x": "Samsung Electronics가 첫 오픈형 이어버드 Galaxy Buds On을 출시했다. 클립형 디자인에 풍부한 사운드와 AI-powered 기능을 더한 Galaxy Buds On은 더 큰 자유와 유연성을 제공한다. 클립형 디자인은 귀에 가볍게 걸리고, 머리를 격하게 움직여도 단단히 고정된다."
+              },
+              {
+                "t": "p",
+                "x": "“Hey Google, let’s talk Live”라고 말하면 Gemini Live가 실행돼, 스마트폰을 꺼내지 않고도 러닝 코스 추천을 요청할 수 있다. Galaxy Buds On은 Galaxy AI-enabled 스마트폰과 연결하면 손을 쓰지 않고 Gemini Live를 이용할 수 있다."
+              },
+              {
+                "t": "video",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/27174131/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main6-1.mp4"
+              },
+              {
+                "t": "p",
+                "x": "“Next song”이나 “Volume up” 같은 음성 명령으로 이어버드를 건드리지 않고 재생을 제어한다. 회의가 끝난 뒤 이어버드를 길게 누르면 Quick Voice Memo가 녹음을 시작하고, 나중에 Bixby에게 할 일을 물어 세부 내용을 음성으로 들을 수 있다. Head Gestures 기능으로 고개를 끄덕여 전화를 받거나 고개를 저어 거절할 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26122922/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main10.jpg",
+                "cap": "Galaxy Buds On에는 Intelligent Clear Call 기능이 있다."
+              },
+              {
+                "t": "p",
+                "x": "Intelligent Clear Call은 마이크 세 개와 골전도 기반 Voice Pickup Unit Sensor, 머신러닝 기반 솔루션으로 사용자의 목소리를 분리하고 주변 소음을 줄인다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Galaxy Buds On\nGemini Live対応",
+          "body": "SamsungのGalaxy Buds OnはGemini Liveを手ぶらで呼び出せる。",
+          "mini_headline": "Gemini Live対応のGalaxy Buds On",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26121640/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main1.jpg",
+                "cap": "Galaxy Buds On"
+              },
+              {
+                "t": "p",
+                "x": "Samsung Electronicsは、同社初のオープンイヤー型イヤホン「Galaxy Buds On」を発売した。クリップオン型のデザインに豊かなサウンドとAI-powered機能を組み合わせ、より自由で柔軟な使い方ができる。クリップオン型デザインは耳に軽く載り、頭を激しく動かしてもしっかり固定される。"
+              },
+              {
+                "t": "p",
+                "x": "“Hey Google, let’s talk Live”と話しかけるとGemini Liveが起動し、スマートフォンを取り出さずにランニングルートのおすすめを尋ねられる。Galaxy Buds Onは、Galaxy AI-enabledのスマートフォンとペアリングすると、ハンズフリーでGemini Liveを利用できる。"
+              },
+              {
+                "t": "video",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/27174131/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main6-1.mp4"
+              },
+              {
+                "t": "p",
+                "x": "“Next song”や“Volume up”といった音声コマンドで、イヤホンに触れずに再生を操作できる。会議の後はイヤホンを長押しするとQuick Voice Memoが録音を始め、後でBixbyにタスクを尋ねて詳細を読み上げてもらえる。Head Gesturesを使えば、うなずいて着信に応答し、首を横に振って拒否できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26122922/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main10.jpg",
+                "cap": "Galaxy Buds OnはIntelligent Clear Callを搭載している。"
+              },
+              {
+                "t": "p",
+                "x": "Intelligent Clear Callは、三つのマイク、骨伝導ベースのVoice Pickup Unit Sensor、機械学習ベースのソリューションを使い、ユーザーの声を分離して周囲の雑音を減らす。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Galaxy Buds On\n支持Gemini Live",
+          "body": "三星夹式Galaxy Buds On支持免提Gemini Live和头部手势接听来电。",
+          "mini_headline": "Galaxy Buds On支持Gemini Live",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26121640/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main1.jpg",
+                "cap": "Galaxy Buds On"
+              },
+              {
+                "t": "p",
+                "x": "Samsung Electronics推出了旗下首款开放式耳机Galaxy Buds On。Galaxy Buds On将夹式设计与丰富音质和AI-powered功能相结合，带来更大的自由度和灵活性。夹式设计轻轻搭在耳朵上，即使头部剧烈运动也能牢牢固定。"
+              },
+              {
+                "t": "p",
+                "x": "说出“Hey Google, let’s talk Live”即可启动Gemini Live，用户无需掏出手机就能询问跑步路线推荐。与Galaxy AI-enabled智能手机配对后，Galaxy Buds On可免提使用Gemini Live。"
+              },
+              {
+                "t": "video",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/27174131/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main6-1.mp4"
+              },
+              {
+                "t": "p",
+                "x": "用“Next song”或“Volume up”等语音指令，无需触碰耳机即可控制播放。会议结束后，长按耳机即可让Quick Voice Memo开始录音；之后可以向Bixby询问待办事项并收听详细内容。借助Head Gestures，用户点头即可接听来电，摇头即可拒接。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26122922/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main10.jpg",
+                "cap": "Galaxy Buds On具备Intelligent Clear Call功能。"
+              },
+              {
+                "t": "p",
+                "x": "Intelligent Clear Call利用三个麦克风、基于骨传导的Voice Pickup Unit Sensor和基于机器学习的方案，分离用户的声音并降低背景噪音。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Galaxy Buds On, con clip y\nGemini Live sin manos",
+          "body": "Los Galaxy Buds On de Samsung, con clip, llegan con Gemini Live sin manos y control de llamadas con gestos de cabeza.",
+          "mini_headline": "Galaxy Buds On con Gemini Live",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26121640/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main1.jpg",
+                "cap": "Galaxy Buds On"
+              },
+              {
+                "t": "p",
+                "x": "Samsung Electronics ha lanzado Galaxy Buds On, sus primeros auriculares de oído abierto. Con un diseño de clip, un sonido rico y funciones AI-powered, Galaxy Buds On ofrece más libertad y flexibilidad. El diseño de clip descansa ligeramente sobre las orejas y se mantiene firme incluso con movimientos bruscos de la cabeza."
+              },
+              {
+                "t": "p",
+                "x": "Al decir “Hey Google, let’s talk Live” se inicia Gemini Live, que permite pedir recomendaciones de rutas para correr sin sacar el teléfono. Galaxy Buds On ofrece acceso manos libres a Gemini Live cuando se empareja con un smartphone Galaxy AI-enabled."
+              },
+              {
+                "t": "video",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/27174131/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main6-1.mp4"
+              },
+              {
+                "t": "p",
+                "x": "Comandos de voz como “Next song” o “Volume up” controlan la reproducción sin tocar los auriculares. Tras una reunión, Quick Voice Memo empieza a grabar al mantener pulsado un auricular; después, se puede preguntar a Bixby por las tareas y escuchar los detalles en voz alta. Con Head Gestures, basta asentir para contestar una llamada o negar con la cabeza para rechazarla."
+              },
+              {
+                "t": "img",
+                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26122922/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main10.jpg",
+                "cap": "Galaxy Buds On incluye Intelligent Clear Call."
+              },
+              {
+                "t": "p",
+                "x": "Intelligent Clear Call utiliza tres micrófonos, un Voice Pickup Unit Sensor basado en conducción ósea y una solución basada en aprendizaje automático para aislar la voz del usuario y reducir el ruido de fondo."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "gadgets-opera-webai",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Opera, 사이트 AI를\n내 노트북에서 돌린다",
+      "body": "Opera WebAI 프리뷰는 사이트별 허가 아래 기기 내 AI 모델을 쓰게 한다.",
+      "mini_headline": "Opera WebAI, AI를 로컬에서",
+      "tool": "Gadgets",
+      "source": "Digital Trends",
+      "url": "https://www.digitaltrends.com/computing/opera-wants-websites-to-run-ai-on-your-laptop-instead-of-sending-your-data-to-the-cloud/",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
@@ -953,239 +1215,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ray-ban-meta-ki-training-teaser.jpg",
-            "cap": "프레임에 카메라가 달린 Ray-Ban Meta 안경. 이 설정을 끄지 않으면 Meta는 AI 요청에서 나온 이미지를 저장한다."
+            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-WebAI.jpeg?resize=1200%2C720&ssl=1",
+            "cap": "Opera"
           },
           {
             "t": "p",
-            "x": "Ray-Ban Meta 안경에 표지판에 뭐라고 쓰여 있는지 물으면 사진이 Meta로 넘어간다. Meta의 시각 데이터 도움말 페이지를 보면, 회사는 AI 요청에서 나온 이 이미지를 저장했다가 자동화 시스템이나 사람의 검토를 거쳐 모델 학습에 쓸 수 있다. 9월 24일부터는 이 기능을 끌 수 있다. 음성 설정은 따로 있는데, 사는 곳에 따라 손댈 수 있는 범위가 다르다."
+            "x": "Opera의 새 WebAI 프리뷰를 쓰면 웹사이트와 브라우저 확장 프로그램이 Opera One 안에서 로컬 모델을 돌린다. 따로 AI를 구독할 필요도 없고 다루는 정보를 클라우드 서비스로 보내지도 않는다. 옵트인 방식의 프리뷰로 지원되는 Windows PCs와 Apple silicon Macs에 배포되고 있다."
+          },
+          {
+            "t": "p",
+            "x": "WebAI는 웹사이트와 확장 프로그램이 브라우저를 거쳐 AI에 접근하게 하는 웹 표준 제안이다. Opera는 Google과 Microsoft도 이 작업에 힘을 보태고 있다고 밝혔다. Opera의 구현은 특정 모델에 묶이지 않고 오픈 모델을 중심에 둔다."
           },
           {
             "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/_processed_/2/6/csm_ray-ban-meta-ai-training-settings-en_890c1a5d02.png",
-            "cap": "시각 데이터 설정은 AI 요청에서 나온 이미지에만 적용된다. US 밖에서는 음성 녹음에 별도 설정이 있다."
+            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-AI.jpeg?resize=1350%2C810&ssl=1",
+            "cap": "Opera"
           },
           {
             "t": "p",
-            "x": "Meta AI 앱에서 안경 설정을 열고 Experiences 아래 Meta AI를 누른 뒤 “Store visual data from AI experiences”(AI 경험의 시각 데이터 저장)를 끈다. 끄면 시각 데이터는 사람이 검토하지 않고 학습에도 쓰이지 않으며, 요청에 답한 뒤에는 저장되지 않는다. 대신 시각 리마인더 같은 기능이 제한될 수 있다. 변경은 그 뒤부터만 적용된다."
+            "x": "Opera One은 Google의 Gemma 모델을 쓸 수 있고 호환되는 Macs에서는 Apple의 온디바이스 파운데이션 모델도 돌린다. 예시 확장 프로그램 중 하나는 어지러운 탭 모음을 정리하고 다른 하나는 낚시성 콘텐츠를 표시한다."
           },
           {
             "t": "p",
-            "x": "음성은 지역마다 처리 방식이 다르다. US에서는 대화 기록과 녹음이 기본으로 저장되고, 소유자는 2025년 4월에 이를 끌 선택지를 잃었다. UK와 독일 고지에는 사용자가 고를 수 있다고 적혀 있다. 저장된 녹음은 최대 일 년 보관되고, 훈련받은 직원이 검토할 수 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_ray-ban-meta-ai-training-steps-en_1128925689.png",
-            "cap": "Meta AI 앱에서 거치는 다섯 단계로, 안경마다 반복해야 한다. 예전 음성 녹음은 직접 삭제해야 한다."
-          },
-          {
-            "t": "p",
-            "x": "주변 사람을 보호하는 설정은 없다. Messenger나 Instagram에서 Meta AI와 공유한 이미지에도 시각 데이터 설정은 적용되지 않는다."
+            "x": "WebAI는 기본값이 꺼짐이다. 사용자가 켜기 전에는 아무것도 내려받지 않으며 각 사이트는 브라우저의 로컬 AI에 접근하려면 먼저 허가를 받아야 한다. 속도와 성능은 컴퓨터마다 다르다. Opera GX와 Opera Neon에도 나중에 WebAI가 들어갈 예정이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Keep Ray-Ban Meta photos\nout of AI training",
-          "body": "A new Meta AI app setting keeps Ray-Ban Meta images out of AI training, and another covers voice outside the US.",
-          "mini_headline": "Ray-Ban Meta training opt-out",
+          "headline": "Opera lets websites run AI\non your own laptop",
+          "body": "Opera's WebAI preview lets sites and extensions use on-device AI models, gated by per-site permissions.",
+          "mini_headline": "Opera WebAI keeps AI local",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ray-ban-meta-ki-training-teaser.jpg",
-                "cap": "Ray-Ban Meta glasses with a camera in the frame. Meta stores images from AI requests unless you turn this off."
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-WebAI.jpeg?resize=1200%2C720&ssl=1",
+                "cap": "Opera"
               },
               {
                 "t": "p",
-                "x": "Asking your Ray-Ban Meta glasses what a sign says sends Meta a photo. According to Meta’s help page on visual data, the company stores these captures from AI requests and may use them to train its models, through automated systems or human review. Since September 24, you can switch that off. A second setting covers your voice, and how much control you get depends on where you live."
+                "x": "Opera’s new WebAI preview lets websites and browser extensions use local models inside Opera One without requiring another AI subscription or sending the information they handle to a cloud service. The opt-in preview is rolling out on supported Windows PCs and Apple silicon Macs."
+              },
+              {
+                "t": "p",
+                "x": "WebAI is a proposed web standard that gives websites and extensions access to AI through the browser. Opera says the effort has backing from Google and Microsoft. Its implementation is model-agnostic and centered on open models."
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/2/6/csm_ray-ban-meta-ai-training-settings-en_890c1a5d02.png",
-                "cap": "The visual data setting only covers images from AI requests. Voice recordings have a separate setting outside the US."
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-AI.jpeg?resize=1350%2C810&ssl=1",
+                "cap": "Opera"
               },
               {
                 "t": "p",
-                "x": "In the Meta AI app, open your glasses settings, tap Meta AI under Experiences and turn off “Store visual data from AI experiences.” Once off, visual data isn’t available for human review, isn’t used for training and isn’t stored after your request is answered. Features such as visual reminders may be limited, and the change only applies going forward."
+                "x": "Opera One can tap Google’s Gemma models, while compatible Macs can also use Apple’s on-device foundation model. One example extension can sort a messy tab collection, while another can flag clickbait."
               },
               {
                 "t": "p",
-                "x": "Voice is handled by region. In the US, transcripts and recordings are stored by default, and owners lost the option to turn that off in April 2025; UK and German notices let you choose. Stored recordings are kept for up to a year and can be reviewed by trained staff."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_ray-ban-meta-ai-training-steps-en_1128925689.png",
-                "cap": "Five steps in the Meta AI app, repeated for each pair. Old voice recordings have to be deleted manually."
-              },
-              {
-                "t": "p",
-                "x": "No setting covers bystanders, and images shared with Meta AI on Messenger or Instagram are excluded from the visual data setting."
+                "x": "WebAI is disabled by default. Nothing is downloaded until the user enables it, and each site needs permission before it can access the browser’s local AI. Speed and capability depend on the computer. Opera GX and Opera Neon are scheduled to receive WebAI later."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Ray-Ban Meta의\n사진, AI 학습에서 빼기",
-          "body": "Ray-Ban Meta 사진은 AI 학습에서 뺄 수 있고 US 밖에선 음성도 된다.",
-          "mini_headline": "Ray-Ban Meta 학습 제외 설정",
+          "headline": "Opera, 사이트 AI를\n내 노트북에서 돌린다",
+          "body": "Opera WebAI 프리뷰는 사이트별 허가 아래 기기 내 AI 모델을 쓰게 한다.",
+          "mini_headline": "Opera WebAI, AI를 로컬에서",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ray-ban-meta-ki-training-teaser.jpg",
-                "cap": "프레임에 카메라가 달린 Ray-Ban Meta 안경. 이 설정을 끄지 않으면 Meta는 AI 요청에서 나온 이미지를 저장한다."
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-WebAI.jpeg?resize=1200%2C720&ssl=1",
+                "cap": "Opera"
               },
               {
                 "t": "p",
-                "x": "Ray-Ban Meta 안경에 표지판에 뭐라고 쓰여 있는지 물으면 사진이 Meta로 넘어간다. Meta의 시각 데이터 도움말 페이지를 보면, 회사는 AI 요청에서 나온 이 이미지를 저장했다가 자동화 시스템이나 사람의 검토를 거쳐 모델 학습에 쓸 수 있다. 9월 24일부터는 이 기능을 끌 수 있다. 음성 설정은 따로 있는데, 사는 곳에 따라 손댈 수 있는 범위가 다르다."
+                "x": "Opera의 새 WebAI 프리뷰를 쓰면 웹사이트와 브라우저 확장 프로그램이 Opera One 안에서 로컬 모델을 돌린다. 따로 AI를 구독할 필요도 없고 다루는 정보를 클라우드 서비스로 보내지도 않는다. 옵트인 방식의 프리뷰로 지원되는 Windows PCs와 Apple silicon Macs에 배포되고 있다."
+              },
+              {
+                "t": "p",
+                "x": "WebAI는 웹사이트와 확장 프로그램이 브라우저를 거쳐 AI에 접근하게 하는 웹 표준 제안이다. Opera는 Google과 Microsoft도 이 작업에 힘을 보태고 있다고 밝혔다. Opera의 구현은 특정 모델에 묶이지 않고 오픈 모델을 중심에 둔다."
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/2/6/csm_ray-ban-meta-ai-training-settings-en_890c1a5d02.png",
-                "cap": "시각 데이터 설정은 AI 요청에서 나온 이미지에만 적용된다. US 밖에서는 음성 녹음에 별도 설정이 있다."
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-AI.jpeg?resize=1350%2C810&ssl=1",
+                "cap": "Opera"
               },
               {
                 "t": "p",
-                "x": "Meta AI 앱에서 안경 설정을 열고 Experiences 아래 Meta AI를 누른 뒤 “Store visual data from AI experiences”(AI 경험의 시각 데이터 저장)를 끈다. 끄면 시각 데이터는 사람이 검토하지 않고 학습에도 쓰이지 않으며, 요청에 답한 뒤에는 저장되지 않는다. 대신 시각 리마인더 같은 기능이 제한될 수 있다. 변경은 그 뒤부터만 적용된다."
+                "x": "Opera One은 Google의 Gemma 모델을 쓸 수 있고 호환되는 Macs에서는 Apple의 온디바이스 파운데이션 모델도 돌린다. 예시 확장 프로그램 중 하나는 어지러운 탭 모음을 정리하고 다른 하나는 낚시성 콘텐츠를 표시한다."
               },
               {
                 "t": "p",
-                "x": "음성은 지역마다 처리 방식이 다르다. US에서는 대화 기록과 녹음이 기본으로 저장되고, 소유자는 2025년 4월에 이를 끌 선택지를 잃었다. UK와 독일 고지에는 사용자가 고를 수 있다고 적혀 있다. 저장된 녹음은 최대 일 년 보관되고, 훈련받은 직원이 검토할 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_ray-ban-meta-ai-training-steps-en_1128925689.png",
-                "cap": "Meta AI 앱에서 거치는 다섯 단계로, 안경마다 반복해야 한다. 예전 음성 녹음은 직접 삭제해야 한다."
-              },
-              {
-                "t": "p",
-                "x": "주변 사람을 보호하는 설정은 없다. Messenger나 Instagram에서 Meta AI와 공유한 이미지에도 시각 데이터 설정은 적용되지 않는다."
+                "x": "WebAI는 기본값이 꺼짐이다. 사용자가 켜기 전에는 아무것도 내려받지 않으며 각 사이트는 브라우저의 로컬 AI에 접근하려면 먼저 허가를 받아야 한다. 속도와 성능은 컴퓨터마다 다르다. Opera GX와 Opera Neon에도 나중에 WebAI가 들어갈 예정이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ray-Ban Metaの\n写真をAI学習から外す",
-          "body": "新設定でRay-Ban Metaの画像はAI学習から外せ、US以外では音声も設定できる。",
-          "mini_headline": "Ray-Ban Metaの学習オプトアウト",
+          "headline": "Opera、サイトのAIを\n手元の端末で実行",
+          "body": "OperaのWebAIプレビューは、サイトごとの許可制で端末内のAIモデルを使わせる。",
+          "mini_headline": "Opera WebAIでAIをローカルに",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ray-ban-meta-ki-training-teaser.jpg",
-                "cap": "フレームにカメラを備えたRay-Ban Metaのメガネ。この設定をオフにしない限り、MetaはAIリクエストの画像を保存する。"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-WebAI.jpeg?resize=1200%2C720&ssl=1",
+                "cap": "Opera"
               },
               {
                 "t": "p",
-                "x": "Ray-Ban Metaのメガネに看板の文字を尋ねると、Metaに写真が送られる。視覚データに関するMetaのヘルプページによれば、同社はAIリクエストで撮影されたこれらの画像を保存し、自動システムまたは人によるレビューを通じてモデルの学習に使う場合がある。9月24日からはこれをオフにできる。音声には別の設定があり、どこまで管理できるかは住んでいる地域によって異なる。"
+                "x": "Operaの新しいWebAIプレビューでは、ウェブサイトやブラウザー拡張機能が、別のAIサブスクリプションを必要とせず、扱う情報をクラウドサービスに送ることもなく、Opera One内でローカルモデルを使える。オプトイン形式のプレビューは、対応するWindows PCsとApple silicon Macsに順次提供されている。"
+              },
+              {
+                "t": "p",
+                "x": "WebAIは、ウェブサイトや拡張機能がブラウザーを通じてAIにアクセスできるようにする、提案中のウェブ標準だ。Operaによると、この取り組みはGoogleとMicrosoftの支持を得ている。Operaの実装はモデルを問わず、オープンモデルを中心としている。"
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/2/6/csm_ray-ban-meta-ai-training-settings-en_890c1a5d02.png",
-                "cap": "視覚データの設定はAIリクエストの画像にのみ適用される。US以外では音声録音に別の設定がある。"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-AI.jpeg?resize=1350%2C810&ssl=1",
+                "cap": "Opera"
               },
               {
                 "t": "p",
-                "x": "Meta AIアプリでメガネの設定を開き、Experiencesの下にあるMeta AIをタップして「Store visual data from AI experiences」（AI体験の視覚データを保存）をオフにする。オフにすると、視覚データは人によるレビューの対象にならず、学習にも使われず、リクエストへの応答後は保存されない。視覚リマインダーなどの機能は制限される場合があり、変更はこれ以降にのみ適用される。"
+                "x": "Opera OneはGoogleのGemmaモデルを利用でき、対応するMacsではAppleのオンデバイス基盤モデルも使える。拡張機能の例として、散らかったタブを整理するものや、クリックベイトを指摘するものがある。"
               },
               {
                 "t": "p",
-                "x": "音声の扱いは地域によって異なる。USでは書き起こしと録音が既定で保存され、所有者は2025年4月にこれをオフにする選択肢を失った。UKとドイツの通知では選択が可能だ。保存された録音は最長で一年保管され、訓練を受けたスタッフが確認することがある。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_ray-ban-meta-ai-training-steps-en_1128925689.png",
-                "cap": "Meta AIアプリでの五つの手順で、メガネごとに繰り返す必要がある。過去の音声録音は手動で削除しなければならない。"
-              },
-              {
-                "t": "p",
-                "x": "周囲の人を対象とする設定はなく、MessengerやInstagramでMeta AIと共有した画像は視覚データの設定の対象外だ。"
+                "x": "WebAIは初期設定で無効になっている。ユーザーが有効にするまで何もダウンロードされず、各サイトはブラウザーのローカルAIにアクセスする前に許可を得る必要がある。速度と性能はコンピューターによって異なる。Opera GXとOpera Neonにも後日WebAIが提供される予定だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ray-Ban Meta照片\n可不进入AI训练",
-          "body": "Meta AI应用新设置让Ray-Ban Meta图像不进AI训练，US以外语音也可关闭。",
-          "mini_headline": "Ray-Ban Meta训练退出选项",
+          "headline": "Opera让网站AI\n在你的笔记本上运行",
+          "body": "Opera的WebAI预览版让网站和扩展调用本地AI模型，并按网站逐一授权。",
+          "mini_headline": "Opera WebAI让AI留在本地",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ray-ban-meta-ki-training-teaser.jpg",
-                "cap": "镜框内置摄像头的Ray-Ban Meta眼镜。除非你关闭此项，否则Meta会存储来自AI请求的图像。"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-WebAI.jpeg?resize=1200%2C720&ssl=1",
+                "cap": "Opera"
               },
               {
                 "t": "p",
-                "x": "向Ray-Ban Meta眼镜询问标牌上写着什么，就会向Meta发送一张照片。根据Meta关于视觉数据的帮助页面，该公司会存储这些来自AI请求的拍摄内容，并可能通过自动化系统或人工审核将其用于训练模型。自9月24日起，你可以关闭这一选项。另有一项设置涉及你的语音，而你能获得多少控制权取决于你居住的地区。"
+                "x": "Opera新推出的WebAI预览版让网站和浏览器扩展可以在Opera One内使用本地模型，无需额外订阅AI服务，也不必把所处理的信息发送到云服务。这一需用户主动开启的预览版正在受支持的Windows PCs和Apple silicon Macs上推出。"
+              },
+              {
+                "t": "p",
+                "x": "WebAI是一项拟议中的网络标准，让网站和扩展通过浏览器调用AI。Opera表示，这项工作得到了Google和Microsoft的支持。其实现不绑定特定模型，以开放模型为核心。"
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/2/6/csm_ray-ban-meta-ai-training-settings-en_890c1a5d02.png",
-                "cap": "视觉数据设置仅涵盖来自AI请求的图像。在US以外，语音录音另有单独设置。"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-AI.jpeg?resize=1350%2C810&ssl=1",
+                "cap": "Opera"
               },
               {
                 "t": "p",
-                "x": "在Meta AI应用中打开眼镜设置，点击Experiences下的Meta AI，然后关闭“Store visual data from AI experiences”（存储来自AI体验的视觉数据）。关闭后，视觉数据不会用于人工审核，不会用于训练，并且在你的请求得到回复后不会被存储。视觉提醒等功能可能受到限制，且此项更改仅对今后生效。"
+                "x": "Opera One可调用Google的Gemma模型，兼容的Macs还能使用Apple的设备端基础模型。一个示例扩展可以整理杂乱的标签页，另一个则能标记标题党内容。"
               },
               {
                 "t": "p",
-                "x": "语音按地区处理。在US，转录文本和录音默认会被存储，用户已于2025年4月失去关闭这一功能的选项；UK和德国的说明则允许用户选择。存储的录音最长保留一年，并可能由经过培训的员工审核。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_ray-ban-meta-ai-training-steps-en_1128925689.png",
-                "cap": "在Meta AI应用中需完成五个步骤，每副眼镜都要重复一遍。旧的语音录音必须手动删除。"
-              },
-              {
-                "t": "p",
-                "x": "没有任何设置能保护旁观者，而通过Messenger或Instagram与Meta AI分享的图像不在视觉数据设置的覆盖范围内。"
+                "x": "WebAI默认关闭。在用户启用之前不会下载任何内容，每个网站在访问浏览器的本地AI前都需要获得许可。速度和能力取决于电脑配置。Opera GX和Opera Neon计划稍后支持WebAI。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Mantén las fotos de Ray-Ban Meta\nfuera del entrenamiento de AI",
-          "body": "Un ajuste nuevo de Meta AI saca las imágenes de Ray-Ban Meta del entrenamiento de AI y otro cubre la voz fuera de US.",
-          "mini_headline": "Ray-Ban Meta: excluirse del entrenamiento",
+          "headline": "Opera deja que las webs usen AI\nen tu propio portátil",
+          "body": "La vista previa de WebAI de Opera permite a sitios y extensiones usar modelos de AI locales, con permisos por sitio.",
+          "mini_headline": "Opera WebAI mantiene la AI en local",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ray-ban-meta-ki-training-teaser.jpg",
-                "cap": "Gafas Ray-Ban Meta con una cámara en la montura. Meta guarda las imágenes de las solicitudes de AI salvo que se desactive esta opción."
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-WebAI.jpeg?resize=1200%2C720&ssl=1",
+                "cap": "Opera"
               },
               {
                 "t": "p",
-                "x": "Preguntar a las gafas Ray-Ban Meta qué dice un cartel envía una foto a Meta. Según la página de ayuda de Meta sobre datos visuales, la empresa guarda estas capturas de solicitudes de AI y puede usarlas para entrenar sus modelos, mediante sistemas automatizados o revisión humana. Desde el 24 de septiembre es posible desactivarlo. Un segundo ajuste se refiere a la voz, y el grado de control depende del lugar de residencia."
+                "x": "La nueva vista previa de WebAI de Opera permite a sitios web y extensiones del navegador usar modelos locales dentro de Opera One sin exigir otra suscripción de AI ni enviar a un servicio en la nube la información que manejan. La vista previa, de activación voluntaria, se está desplegando en PCs con Windows y Macs con Apple silicon compatibles."
+              },
+              {
+                "t": "p",
+                "x": "WebAI es una propuesta de estándar web que da a sitios y extensiones acceso a la AI a través del navegador. Opera afirma que la iniciativa cuenta con el respaldo de Google y Microsoft. Su implementación no depende de ningún modelo y se centra en modelos abiertos."
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/2/6/csm_ray-ban-meta-ai-training-settings-en_890c1a5d02.png",
-                "cap": "El ajuste de datos visuales solo abarca las imágenes de solicitudes de AI. Fuera de US, las grabaciones de voz tienen un ajuste aparte."
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-AI.jpeg?resize=1350%2C810&ssl=1",
+                "cap": "Opera"
               },
               {
                 "t": "p",
-                "x": "En la app Meta AI, abra la configuración de las gafas, toque Meta AI en Experiences y desactive “Store visual data from AI experiences” (guardar datos visuales de las experiencias de AI). Una vez desactivado, los datos visuales no quedan disponibles para revisión humana, no se usan para entrenamiento y no se guardan después de responder a la solicitud. Funciones como los recordatorios visuales pueden verse limitadas, y el cambio solo se aplica de ahora en adelante."
+                "x": "Opera One puede recurrir a los modelos Gemma de Google, mientras que los Macs compatibles también pueden usar el modelo fundacional en el dispositivo de Apple. Una extensión de ejemplo puede ordenar una colección caótica de pestañas y otra puede señalar el clickbait."
               },
               {
                 "t": "p",
-                "x": "La voz se gestiona por regiones. En US, las transcripciones y grabaciones se guardan por defecto, y los propietarios perdieron la opción de desactivarlo en abril de 2025; los avisos de UK y Alemania permiten elegir. Las grabaciones guardadas se conservan hasta un año y puede revisarlas personal capacitado."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_ray-ban-meta-ai-training-steps-en_1128925689.png",
-                "cap": "Cinco pasos en la app Meta AI, que hay que repetir para cada par. Las grabaciones de voz antiguas deben borrarse manualmente."
-              },
-              {
-                "t": "p",
-                "x": "Ningún ajuste protege a los transeúntes, y las imágenes compartidas con Meta AI en Messenger o Instagram quedan excluidas del ajuste de datos visuales."
+                "x": "WebAI está desactivado por defecto. No se descarga nada hasta que el usuario lo activa, y cada sitio necesita permiso antes de acceder a la AI local del navegador. La velocidad y la capacidad dependen del equipo. Opera GX y Opera Neon recibirán WebAI más adelante."
               }
             ]
           }
@@ -1193,165 +1425,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Ray-Ban Meta의\n사진을 AI 학습서 빼기",
-          "body": "Ray-Ban Meta 사진을 AI 학습에서 뺄 수 있고 US 밖은 음성도 된다.",
-          "mini_headline": "Ray-Ban Meta 학습 제외 설정",
+          "headline": "Opera, 사이트 AI를\n내 노트북에서 돌린다",
+          "body": "Opera WebAI 프리뷰는 사이트별 허가 아래 기기 내 AI 모델을 쓰게 한다.",
+          "mini_headline": "Opera WebAI, AI를 로컬에서",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ray-ban-meta-ki-training-teaser.jpg",
-                "cap": "프레임에 카메라가 달린 Ray-Ban Meta 안경. 이 설정을 끄지 않으면 Meta는 AI 요청에서 나온 이미지를 저장한다."
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-WebAI.jpeg?resize=1200%2C720&ssl=1",
+                "cap": "Opera"
               },
               {
                 "t": "p",
-                "x": "Ray-Ban Meta 안경에 표지판에 뭐라고 쓰여 있는지 물으면 Meta로 사진이 전송된다. 시각 데이터에 관한 Meta 도움말 페이지에 따르면, 회사는 AI 요청에서 나온 이 이미지를 저장하고 자동화 시스템이나 사람의 검토를 거쳐 모델 학습에 쓸 수 있다. 9월 24일부터는 이를 끌 수 있다. 음성을 다루는 설정도 따로 있으며, 어디에 사느냐에 따라 통제할 수 있는 범위가 달라진다."
+                "x": "Opera의 새 WebAI 프리뷰는 웹사이트와 브라우저 확장 프로그램이 별도의 AI 구독 없이, 다루는 정보를 클라우드 서비스로 보내지도 않고 Opera One 안에서 로컬 모델을 쓰게 한다. 옵트인 방식의 이 프리뷰는 지원되는 Windows PCs와 Apple silicon Macs에 배포되고 있다."
+              },
+              {
+                "t": "p",
+                "x": "WebAI는 웹사이트와 확장 프로그램이 브라우저를 통해 AI에 접근하도록 하는 웹 표준 제안이다. Opera는 이 작업에 Google과 Microsoft가 힘을 보태고 있다고 밝혔다. Opera의 구현은 특정 모델에 얽매이지 않고 오픈 모델을 중심으로 한다."
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/2/6/csm_ray-ban-meta-ai-training-settings-en_890c1a5d02.png",
-                "cap": "시각 데이터 설정은 AI 요청에서 나온 이미지에만 적용된다. US 밖에서는 음성 녹음에 별도 설정이 있다."
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-AI.jpeg?resize=1350%2C810&ssl=1",
+                "cap": "Opera"
               },
               {
                 "t": "p",
-                "x": "Meta AI 앱에서 안경 설정을 열고 Experiences 아래 Meta AI를 누른 뒤 “Store visual data from AI experiences”(AI 경험의 시각 데이터 저장)를 끈다. 끄고 나면 시각 데이터는 사람의 검토 대상이 되지 않고, 학습에 쓰이지 않으며, 요청에 답한 뒤에는 저장되지 않는다. 시각 리마인더 같은 기능은 제한될 수 있고, 변경은 이후부터만 적용된다."
+                "x": "Opera One은 Google의 Gemma 모델을 활용할 수 있고, 호환되는 Macs에서는 Apple의 온디바이스 파운데이션 모델도 쓸 수 있다. 예시 확장 프로그램 하나는 어지러운 탭 모음을 정리하고, 다른 하나는 낚시성 콘텐츠를 표시한다."
               },
               {
                 "t": "p",
-                "x": "음성은 지역별로 다르게 처리된다. US에서는 대화 기록과 녹음이 기본으로 저장되며, 소유자는 2025년 4월 이를 끌 수 있는 선택지를 잃었다. UK와 독일 고지에서는 사용자가 선택할 수 있다. 저장된 녹음은 최대 일 년간 보관되며 훈련받은 직원이 검토할 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_ray-ban-meta-ai-training-steps-en_1128925689.png",
-                "cap": "Meta AI 앱에서 거치는 다섯 단계로, 안경마다 반복해야 한다. 예전 음성 녹음은 직접 삭제해야 한다."
-              },
-              {
-                "t": "p",
-                "x": "주변 사람을 보호하는 설정은 없으며, Messenger나 Instagram에서 Meta AI와 공유한 이미지는 시각 데이터 설정의 적용 대상이 아니다."
+                "x": "WebAI는 기본적으로 꺼져 있다. 사용자가 켜기 전에는 아무것도 내려받지 않으며, 각 사이트는 브라우저의 로컬 AI에 접근하기 전에 허가를 받아야 한다. 속도와 성능은 컴퓨터에 따라 다르다. Opera GX와 Opera Neon에도 나중에 WebAI가 들어갈 예정이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ray-Ban Metaの\n写真をAI学習から外す",
-          "body": "新設定でRay-Ban Metaの画像はAI学習から外せ、US以外では音声も設定できる。",
-          "mini_headline": "Ray-Ban Metaの学習オプトアウト",
+          "headline": "Opera、サイトのAIを\n手元の端末で実行",
+          "body": "OperaのWebAIプレビューは、サイトごとの許可制で端末内のAIモデルを使わせる。",
+          "mini_headline": "Opera WebAIでAIをローカルに",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ray-ban-meta-ki-training-teaser.jpg",
-                "cap": "フレームにカメラを備えたRay-Ban Metaのメガネ。この設定をオフにしない限り、MetaはAIリクエストの画像を保存する。"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-WebAI.jpeg?resize=1200%2C720&ssl=1",
+                "cap": "Opera"
               },
               {
                 "t": "p",
-                "x": "Ray-Ban Metaのメガネに看板の文字を尋ねると、Metaに写真が送られる。視覚データに関するMetaのヘルプページによれば、同社はAIリクエストで撮影されたこれらの画像を保存し、自動システムまたは人によるレビューを通じてモデルの学習に使う場合がある。9月24日からはこれをオフにできる。音声には別の設定があり、どこまで管理できるかは住んでいる地域によって異なる。"
+                "x": "Operaの新しいWebAIプレビューでは、ウェブサイトやブラウザー拡張機能が、別のAIサブスクリプションを必要とせず、扱う情報をクラウドサービスに送ることもなく、Opera One内でローカルモデルを使える。オプトイン形式のプレビューは、対応するWindows PCsとApple silicon Macsに順次提供されている。"
+              },
+              {
+                "t": "p",
+                "x": "WebAIは、ウェブサイトや拡張機能がブラウザーを通じてAIにアクセスできるようにする、提案中のウェブ標準だ。Operaによると、この取り組みはGoogleとMicrosoftの支持を得ている。Operaの実装はモデルを問わず、オープンモデルを中心としている。"
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/2/6/csm_ray-ban-meta-ai-training-settings-en_890c1a5d02.png",
-                "cap": "視覚データの設定はAIリクエストの画像にのみ適用される。US以外では音声録音に別の設定がある。"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-AI.jpeg?resize=1350%2C810&ssl=1",
+                "cap": "Opera"
               },
               {
                 "t": "p",
-                "x": "Meta AIアプリでメガネの設定を開き、Experiencesの下にあるMeta AIをタップして「Store visual data from AI experiences」（AI体験の視覚データを保存）をオフにする。オフにすると、視覚データは人によるレビューの対象にならず、学習にも使われず、リクエストへの応答後は保存されない。視覚リマインダーなどの機能は制限される場合があり、変更はこれ以降にのみ適用される。"
+                "x": "Opera OneはGoogleのGemmaモデルを利用でき、対応するMacsではAppleのオンデバイス基盤モデルも使える。拡張機能の例として、散らかったタブを整理するものや、クリックベイトを指摘するものがある。"
               },
               {
                 "t": "p",
-                "x": "音声の扱いは地域によって異なる。USでは書き起こしと録音が既定で保存され、所有者は2025年4月にこれをオフにする選択肢を失った。UKとドイツの通知では選択が可能だ。保存された録音は最長で一年保管され、訓練を受けたスタッフが確認することがある。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_ray-ban-meta-ai-training-steps-en_1128925689.png",
-                "cap": "Meta AIアプリでの五つの手順で、メガネごとに繰り返す必要がある。過去の音声録音は手動で削除しなければならない。"
-              },
-              {
-                "t": "p",
-                "x": "周囲の人を対象とする設定はなく、MessengerやInstagramでMeta AIと共有した画像は視覚データの設定の対象外だ。"
+                "x": "WebAIは初期設定で無効になっている。ユーザーが有効にするまで何もダウンロードされず、各サイトはブラウザーのローカルAIにアクセスする前に許可を得る必要がある。速度と性能はコンピューターによって異なる。Opera GXとOpera Neonにも後日WebAIが提供される予定だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ray-Ban Meta照片\n可不进入AI训练",
-          "body": "Meta AI应用新设置让Ray-Ban Meta图像不进AI训练，US以外语音也可关闭。",
-          "mini_headline": "Ray-Ban Meta训练退出选项",
+          "headline": "Opera让网站AI\n在你的笔记本上运行",
+          "body": "Opera的WebAI预览版让网站和扩展调用本地AI模型，并按网站逐一授权。",
+          "mini_headline": "Opera WebAI让AI留在本地",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ray-ban-meta-ki-training-teaser.jpg",
-                "cap": "镜框内置摄像头的Ray-Ban Meta眼镜。除非你关闭此项，否则Meta会存储来自AI请求的图像。"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-WebAI.jpeg?resize=1200%2C720&ssl=1",
+                "cap": "Opera"
               },
               {
                 "t": "p",
-                "x": "向Ray-Ban Meta眼镜询问标牌上写着什么，就会向Meta发送一张照片。根据Meta关于视觉数据的帮助页面，该公司会存储这些来自AI请求的拍摄内容，并可能通过自动化系统或人工审核将其用于训练模型。自9月24日起，你可以关闭这一选项。另有一项设置涉及你的语音，而你能获得多少控制权取决于你居住的地区。"
+                "x": "Opera新推出的WebAI预览版让网站和浏览器扩展可以在Opera One内使用本地模型，无需额外订阅AI服务，也不必把所处理的信息发送到云服务。这一需用户主动开启的预览版正在受支持的Windows PCs和Apple silicon Macs上推出。"
+              },
+              {
+                "t": "p",
+                "x": "WebAI是一项拟议中的网络标准，让网站和扩展通过浏览器调用AI。Opera表示，这项工作得到了Google和Microsoft的支持。其实现不绑定特定模型，以开放模型为核心。"
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/2/6/csm_ray-ban-meta-ai-training-settings-en_890c1a5d02.png",
-                "cap": "视觉数据设置仅涵盖来自AI请求的图像。在US以外，语音录音另有单独设置。"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-AI.jpeg?resize=1350%2C810&ssl=1",
+                "cap": "Opera"
               },
               {
                 "t": "p",
-                "x": "在Meta AI应用中打开眼镜设置，点击Experiences下的Meta AI，然后关闭“Store visual data from AI experiences”（存储来自AI体验的视觉数据）。关闭后，视觉数据不会用于人工审核，不会用于训练，并且在你的请求得到回复后不会被存储。视觉提醒等功能可能受到限制，且此项更改仅对今后生效。"
+                "x": "Opera One可调用Google的Gemma模型，兼容的Macs还能使用Apple的设备端基础模型。一个示例扩展可以整理杂乱的标签页，另一个则能标记标题党内容。"
               },
               {
                 "t": "p",
-                "x": "语音按地区处理。在US，转录文本和录音默认会被存储，用户已于2025年4月失去关闭这一功能的选项；UK和德国的说明则允许用户选择。存储的录音最长保留一年，并可能由经过培训的员工审核。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_ray-ban-meta-ai-training-steps-en_1128925689.png",
-                "cap": "在Meta AI应用中需完成五个步骤，每副眼镜都要重复一遍。旧的语音录音必须手动删除。"
-              },
-              {
-                "t": "p",
-                "x": "没有任何设置能保护旁观者，而通过Messenger或Instagram与Meta AI分享的图像不在视觉数据设置的覆盖范围内。"
+                "x": "WebAI默认关闭。在用户启用之前不会下载任何内容，每个网站在访问浏览器的本地AI前都需要获得许可。速度和能力取决于电脑配置。Opera GX和Opera Neon计划稍后支持WebAI。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Mantén las fotos de Ray-Ban Meta\nfuera del entrenamiento de AI",
-          "body": "Un ajuste nuevo de Meta AI saca las imágenes de Ray-Ban Meta del entrenamiento de AI y otro cubre la voz fuera de US.",
-          "mini_headline": "Ray-Ban Meta: excluirse del entrenamiento",
+          "headline": "Opera deja que las webs usen AI\nen tu propio portátil",
+          "body": "La vista previa de WebAI de Opera permite a sitios y extensiones usar modelos de AI locales, con permisos por sitio.",
+          "mini_headline": "Opera WebAI mantiene la AI en local",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ray-ban-meta-ki-training-teaser.jpg",
-                "cap": "Gafas Ray-Ban Meta con una cámara en la montura. Meta guarda las imágenes de las solicitudes de AI salvo que se desactive esta opción."
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-WebAI.jpeg?resize=1200%2C720&ssl=1",
+                "cap": "Opera"
               },
               {
                 "t": "p",
-                "x": "Preguntar a las gafas Ray-Ban Meta qué dice un cartel envía una foto a Meta. Según la página de ayuda de Meta sobre datos visuales, la empresa guarda estas capturas de solicitudes de AI y puede usarlas para entrenar sus modelos, mediante sistemas automatizados o revisión humana. Desde el 24 de septiembre es posible desactivarlo. Un segundo ajuste se refiere a la voz, y el grado de control depende del lugar de residencia."
+                "x": "La nueva vista previa de WebAI de Opera permite a sitios web y extensiones del navegador usar modelos locales dentro de Opera One sin exigir otra suscripción de AI ni enviar a un servicio en la nube la información que manejan. La vista previa, de activación voluntaria, se está desplegando en PCs con Windows y Macs con Apple silicon compatibles."
+              },
+              {
+                "t": "p",
+                "x": "WebAI es una propuesta de estándar web que da a sitios y extensiones acceso a la AI a través del navegador. Opera afirma que la iniciativa cuenta con el respaldo de Google y Microsoft. Su implementación no depende de ningún modelo y se centra en modelos abiertos."
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/2/6/csm_ray-ban-meta-ai-training-settings-en_890c1a5d02.png",
-                "cap": "El ajuste de datos visuales solo abarca las imágenes de solicitudes de AI. Fuera de US, las grabaciones de voz tienen un ajuste aparte."
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-AI.jpeg?resize=1350%2C810&ssl=1",
+                "cap": "Opera"
               },
               {
                 "t": "p",
-                "x": "En la app Meta AI, abra la configuración de las gafas, toque Meta AI en Experiences y desactive “Store visual data from AI experiences” (guardar datos visuales de las experiencias de AI). Una vez desactivado, los datos visuales no quedan disponibles para revisión humana, no se usan para entrenamiento y no se guardan después de responder a la solicitud. Funciones como los recordatorios visuales pueden verse limitadas, y el cambio solo se aplica de ahora en adelante."
+                "x": "Opera One puede recurrir a los modelos Gemma de Google, mientras que los Macs compatibles también pueden usar el modelo fundacional en el dispositivo de Apple. Una extensión de ejemplo puede ordenar una colección caótica de pestañas y otra puede señalar el clickbait."
               },
               {
                 "t": "p",
-                "x": "La voz se gestiona por regiones. En US, las transcripciones y grabaciones se guardan por defecto, y los propietarios perdieron la opción de desactivarlo en abril de 2025; los avisos de UK y Alemania permiten elegir. Las grabaciones guardadas se conservan hasta un año y puede revisarlas personal capacitado."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_ray-ban-meta-ai-training-steps-en_1128925689.png",
-                "cap": "Cinco pasos en la app Meta AI, que hay que repetir para cada par. Las grabaciones de voz antiguas deben borrarse manualmente."
-              },
-              {
-                "t": "p",
-                "x": "Ningún ajuste protege a los transeúntes, y las imágenes compartidas con Meta AI en Messenger o Instagram quedan excluidas del ajuste de datos visuales."
+                "x": "WebAI está desactivado por defecto. No se descarga nada hasta que el usuario lo activa, y cada sitio necesita permiso antes de acceder a la AI local del navegador. La velocidad y la capacidad dependen del equipo. Opera GX y Opera Neon recibirán WebAI más adelante."
               }
             ]
           }
@@ -1359,15 +1571,15 @@
       }
     },
     {
-      "id": "gadgets-rtx-tensor-throttle",
+      "id": "gadgets-nokia-claude-s40",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "펌웨어 해킹, Nvidia\nRTX 텐서 제한 해제",
-      "body": "펌웨어로 RTX 20-40 GPUs의 AI 제한을 풀면 4090 성능이 배가된다.",
-      "mini_headline": "RTX AI 제한, 해킹으로 해제",
+      "headline": "2G Nokia 6300에\nClaude·ChatGPT",
+      "body": "Aikon 앱으로 2G Nokia 6300이 Claude·ChatGPT와 대화한다.",
+      "mini_headline": "구형 Nokia에 AI 챗봇",
       "tool": "Gadgets",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx-3090-ti-matrix-math-up-to-80-percent",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2295625/old-nokia-phone-ai-upgrade-never-designed-for/",
       "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
@@ -1375,495 +1587,185 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/4Yvp7ck4v6d8JPBoNXVPfe.jpg",
-            "cap": "Nvidia GeForce RTX 4090 Founders Edition (이미지 출처: Nvidia)"
+            "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/intro-1792779965.jpg",
+            "cap": "AIKON은 오래된 Nokia S40·S60 휴대폰을 Claude 같은 챗봇에 연결해 주는 앱이다."
           },
           {
             "t": "p",
-            "x": "VideoCardz에 따르면 모더들이 펌웨어 익스플로잇으로 Nvidia RTX 20, 30, 40-series GPUs의 AI 성능을 절반으로 묶어 둔 제한을 푸는 방법을 찾아냈다. 제한을 풀면 RTX 4090은 최대 텐서 연산 속도가 두 배로 뛰고, RTX 3090 Ti는 행렬 연산이 최대 80% 빨라진다. 실제 작업에서 얻는 이득은 훨씬 작다. 챗봇 토큰 속도는 메모리 대역폭이 좌우하므로 거의 그대로다."
+            "x": "초기형 Nokia 6300은 브라우저가 TLS 1.0 이후로 업데이트되지 않은 2G 휴대폰이라 현대 인터넷에 사실상 접속하지 못한다. 그런데 9월 말 튀르키예 기업가 Emir Karşıyakalı가 앱 Claude S40을 선보였다. Java와 Go 백엔드를 거쳐 낡은 Nokia 6300을 Claude에 연결하도록 바이브 코딩한 앱이다."
           },
-          {
-            "t": "p",
-            "x": "Nvidia가 GeForce에 건 제한은 FP32-accumulate 연산을 카드별 FP16-accumulate 속도의 절반으로 묶는다. turing-unlock(RTX 2080 Ti), gpu-unlock(Ampere), gpu-unlock-ada(RTX 4090) 세 프로젝트가 비공식 Linux 모듈로 잠금을 풀어 주지만, RTX 50(Blackwell)은 지원하지 않는다."
-          },
-          {
-            "t": "p",
-            "x": "Ada 포크 개발자의 RTX 4090은 FP16 기준 165.6에서 331.6 TFLOPS로 올라갔다. 그런데 한 소유자가 돌린 행렬 곱셈 벤치마크에서는 cuBLAS GEMM 중앙값 개선 폭이 12–34%(FP16), 최대 20%(BF16)에 그쳤다. Ampere에서도 LLM prefill은 14–36% 나아졌지만, LLM decode와 INT8은 “거의 같은” 수준이었다."
-          },
-          {
-            "t": "p",
-            "x": "turing-unlock README는 이 모드가 “하드웨어를 손상시킬 수 있다”고 경고한다. KohakUnlock도 “GPU나 호스트를 멈추게 하거나, 부팅을 막거나, 데이터를 손상시키거나, 하드웨어를 손상시킬 수 있다”고 적어 두었다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Firmware hack lifts Nvidia's\nRTX tensor throttle",
-          "body": "A firmware exploit lifts a half-speed AI throttle on RTX 20-40 GPUs, doubling the RTX 4090's peak tensor rate.",
-          "mini_headline": "RTX AI throttle hacked away",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/4Yvp7ck4v6d8JPBoNXVPfe.jpg",
-                "cap": "Nvidia GeForce RTX 4090 Founders Edition (Image credit: Nvidia)"
-              },
-              {
-                "t": "p",
-                "x": "Modders have discovered a way to remove imposed half-speed AI performance limits on Nvidia RTX 20, 30, and 40-series GPUs with a firmware exploit, VideoCardz reports. Without the limitation, the RTX 4090 can achieve double its peak tensor rate, and matrix math can improve by up to 80% for the RTX 3090 Ti. Real workloads gain significantly less, and chatbot token speeds remain about the same, as that performance is dependent on memory bandwidth."
-              },
-              {
-                "t": "p",
-                "x": "Nvidia’s GeForce limit runs FP32-accumulate math at half each card’s FP16-accumulate rate. Three projects — turing-unlock (RTX 2080 Ti), gpu-unlock (Ampere) and gpu-unlock-ada (RTX 4090) — offer unlocks via unofficial Linux modules; RTX 50 (Blackwell) is not supported."
-              },
-              {
-                "t": "p",
-                "x": "The Ada fork developer’s RTX 4090 moved from 165.6 to 331.6 TFLOPS on FP16. In one owner’s matrix-multiply benchmark, though, cuBLAS GEMM medians improved only 12–34% (FP16) and up to 20% (BF16). For Ampere, LLM prefill improved 14–36%, but LLM decode and INT8 stayed “about the same.”"
-              },
-              {
-                "t": "p",
-                "x": "The turing-unlock README warns the mod “may damage your hardware,” and KohakUnlock says it “can hang a GPU or host, prevent boot, corrupt data, or damage hardware.”"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "펌웨어 해킹, Nvidia\nRTX 텐서 제한 해제",
-          "body": "펌웨어로 RTX 20-40 GPUs의 AI 제한을 풀면 4090 성능이 배가된다.",
-          "mini_headline": "RTX AI 제한, 해킹으로 해제",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/4Yvp7ck4v6d8JPBoNXVPfe.jpg",
-                "cap": "Nvidia GeForce RTX 4090 Founders Edition (이미지 출처: Nvidia)"
-              },
-              {
-                "t": "p",
-                "x": "VideoCardz에 따르면 모더들이 펌웨어 익스플로잇으로 Nvidia RTX 20, 30, 40-series GPUs의 AI 성능을 절반으로 묶어 둔 제한을 푸는 방법을 찾아냈다. 제한을 풀면 RTX 4090은 최대 텐서 연산 속도가 두 배로 뛰고, RTX 3090 Ti는 행렬 연산이 최대 80% 빨라진다. 실제 작업에서 얻는 이득은 훨씬 작다. 챗봇 토큰 속도는 메모리 대역폭이 좌우하므로 거의 그대로다."
-              },
-              {
-                "t": "p",
-                "x": "Nvidia가 GeForce에 건 제한은 FP32-accumulate 연산을 카드별 FP16-accumulate 속도의 절반으로 묶는다. turing-unlock(RTX 2080 Ti), gpu-unlock(Ampere), gpu-unlock-ada(RTX 4090) 세 프로젝트가 비공식 Linux 모듈로 잠금을 풀어 주지만, RTX 50(Blackwell)은 지원하지 않는다."
-              },
-              {
-                "t": "p",
-                "x": "Ada 포크 개발자의 RTX 4090은 FP16 기준 165.6에서 331.6 TFLOPS로 올라갔다. 그런데 한 소유자가 돌린 행렬 곱셈 벤치마크에서는 cuBLAS GEMM 중앙값 개선 폭이 12–34%(FP16), 최대 20%(BF16)에 그쳤다. Ampere에서도 LLM prefill은 14–36% 나아졌지만, LLM decode와 INT8은 “거의 같은” 수준이었다."
-              },
-              {
-                "t": "p",
-                "x": "turing-unlock README는 이 모드가 “하드웨어를 손상시킬 수 있다”고 경고한다. KohakUnlock도 “GPU나 호스트를 멈추게 하거나, 부팅을 막거나, 데이터를 손상시키거나, 하드웨어를 손상시킬 수 있다”고 적어 두었다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Nvidia RTXの\nテンソル制限を改造で解除",
-          "body": "ファーム改造でRTX 20-40 GPUsのAI半速制限が外れ、4090の性能が倍増する。",
-          "mini_headline": "RTXのAI制限を改造で解除",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/4Yvp7ck4v6d8JPBoNXVPfe.jpg",
-                "cap": "Nvidia GeForce RTX 4090 Founders Edition（画像提供：Nvidia）"
-              },
-              {
-                "t": "p",
-                "x": "VideoCardzによると、改造愛好家らがファームウェアのエクスプロイトを使い、Nvidia RTX 20、30、40-series GPUsに課された半分の速度のAI性能制限を外す方法を見つけた。制限がなくなるとRTX 4090はピークのテンソル演算速度が倍になり、RTX 3090 Tiでは行列演算が最大80%向上しうる。実際のワークロードでの伸びはかなり小さく、チャットボットのトークン速度はメモリ帯域幅に左右されるためほぼ変わらない。"
-              },
-              {
-                "t": "p",
-                "x": "NvidiaのGeForce向け制限は、FP32-accumulate演算を各カードのFP16-accumulate速度の半分で動かすものだ。turing-unlock（RTX 2080 Ti）、gpu-unlock（Ampere）、gpu-unlock-ada（RTX 4090）の三つのプロジェクトが非公式のLinuxモジュールで制限解除を提供しており、RTX 50（Blackwell）は対象外だ。"
-              },
-              {
-                "t": "p",
-                "x": "Adaフォークの開発者のRTX 4090は、FP16で165.6から331.6 TFLOPSに向上した。ただし、あるオーナーの行列乗算ベンチマークでは、cuBLAS GEMMの中央値の改善は12–34%（FP16）、最大20%（BF16）にとどまった。Ampereでは、LLMのprefillが14–36%改善したが、LLMのdecodeとINT8は「ほぼ同じ」だった。"
-              },
-              {
-                "t": "p",
-                "x": "turing-unlockのREADMEはこの改造が「ハードウェアを損傷する可能性がある」と警告し、KohakUnlockは「GPUやホストをハングさせ、起動を妨げ、データを破損させ、またはハードウェアを損傷する可能性がある」としている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "固件破解解除Nvidia\nRTX张量限速",
-          "body": "固件漏洞解除RTX 20-40 GPUs的AI半速限制，RTX 4090峰值张量速率翻倍。",
-          "mini_headline": "RTX AI限速被破解",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/4Yvp7ck4v6d8JPBoNXVPfe.jpg",
-                "cap": "Nvidia GeForce RTX 4090 Founders Edition（图片来源：Nvidia）"
-              },
-              {
-                "t": "p",
-                "x": "据VideoCardz报道，改装玩家发现可以利用固件漏洞，解除Nvidia RTX 20、30和40-series GPUs上被施加的半速AI性能限制。解除限制后，RTX 4090的峰值张量速率可翻倍，RTX 3090 Ti的矩阵运算最多可提升80%。实际工作负载的提升要小得多，聊天机器人的token速度则基本不变，因为这部分性能取决于内存带宽。"
-              },
-              {
-                "t": "p",
-                "x": "Nvidia对GeForce的限制让FP32-accumulate运算只能以各卡FP16-accumulate速率的一半运行。turing-unlock（RTX 2080 Ti）、gpu-unlock（Ampere）和gpu-unlock-ada（RTX 4090）三个项目通过非官方Linux模块提供解锁；RTX 50（Blackwell）不受支持。"
-              },
-              {
-                "t": "p",
-                "x": "Ada分支开发者的RTX 4090在FP16下从165.6提升至331.6 TFLOPS。不过在一位用户的矩阵乘法基准测试中，cuBLAS GEMM中位数仅提升12–34%（FP16），最多提升20%（BF16）。在Ampere上，LLM prefill提升了14–36%，但LLM decode和INT8“基本持平”。"
-              },
-              {
-                "t": "p",
-                "x": "turing-unlock的README警告该改装“可能损坏你的硬件”，KohakUnlock则称它“可能导致GPU或主机挂起、无法启动、数据损坏或硬件损坏”。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un hack de firmware quita\nel freno tensorial de Nvidia RTX",
-          "body": "Un exploit de firmware quita el límite de AI a media velocidad de las GPUs RTX 20-40 y duplica el pico de la RTX 4090.",
-          "mini_headline": "Hackean el freno de AI de las RTX",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/4Yvp7ck4v6d8JPBoNXVPfe.jpg",
-                "cap": "Nvidia GeForce RTX 4090 Founders Edition (Imagen: Nvidia)"
-              },
-              {
-                "t": "p",
-                "x": "Unos modders han descubierto cómo eliminar, mediante un exploit de firmware, los límites impuestos que reducen a la mitad el rendimiento de AI en las GPUs Nvidia RTX 20, 30 y 40-series, informa VideoCardz. Sin esa limitación, la RTX 4090 puede duplicar su velocidad tensorial máxima, y el cálculo matricial puede mejorar hasta un 80% en la RTX 3090 Ti. Las cargas de trabajo reales ganan bastante menos, y la velocidad de tokens de los chatbots se mantiene más o menos igual, porque ese rendimiento depende del ancho de banda de memoria."
-              },
-              {
-                "t": "p",
-                "x": "El límite de Nvidia para GeForce ejecuta los cálculos FP32-accumulate a la mitad de la velocidad FP16-accumulate de cada tarjeta. Tres proyectos —turing-unlock (RTX 2080 Ti), gpu-unlock (Ampere) y gpu-unlock-ada (RTX 4090)— ofrecen desbloqueos mediante módulos no oficiales de Linux; la RTX 50 (Blackwell) no es compatible."
-              },
-              {
-                "t": "p",
-                "x": "La RTX 4090 del desarrollador del fork de Ada pasó de 165.6 a 331.6 TFLOPS en FP16. Sin embargo, en la prueba de multiplicación de matrices de un propietario, las medianas de cuBLAS GEMM mejoraron solo un 12–34% (FP16) y hasta un 20% (BF16). En Ampere, el prefill de LLM mejoró un 14–36%, pero el decode de LLM y INT8 se quedaron “más o menos igual”."
-              },
-              {
-                "t": "p",
-                "x": "El README de turing-unlock advierte que el mod “puede dañar tu hardware”, y KohakUnlock indica que “puede colgar una GPU o el host, impedir el arranque, corromper datos o dañar el hardware”."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "펌웨어 해킹, Nvidia\nRTX 텐서 제한 해제",
-          "body": "펌웨어로 RTX 20-40 GPUs의 AI 제한을 풀면 4090 성능이 배가된다.",
-          "mini_headline": "RTX AI 제한, 해킹으로 해제",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/4Yvp7ck4v6d8JPBoNXVPfe.jpg",
-                "cap": "Nvidia GeForce RTX 4090 Founders Edition (이미지 출처: Nvidia)"
-              },
-              {
-                "t": "p",
-                "x": "VideoCardz에 따르면, 모더들이 펌웨어 익스플로잇으로 Nvidia RTX 20, 30, 40-series GPUs에 걸린 절반 속도의 AI 성능 제한을 없애는 방법을 찾아냈다. 제한이 풀리면 RTX 4090은 최대 텐서 연산 속도가 두 배가 되고, RTX 3090 Ti는 행렬 연산이 최대 80% 빨라질 수 있다. 실제 작업에서 얻는 이득은 훨씬 작고, 챗봇 토큰 속도는 메모리 대역폭에 좌우되기 때문에 거의 그대로다."
-              },
-              {
-                "t": "p",
-                "x": "Nvidia의 GeForce 제한은 FP32-accumulate 연산을 각 카드의 FP16-accumulate 속도의 절반으로 돌린다. turing-unlock(RTX 2080 Ti), gpu-unlock(Ampere), gpu-unlock-ada(RTX 4090) 세 프로젝트가 비공식 Linux 모듈로 잠금 해제를 제공하며, RTX 50(Blackwell)은 지원하지 않는다."
-              },
-              {
-                "t": "p",
-                "x": "Ada 포크 개발자의 RTX 4090은 FP16에서 165.6에서 331.6 TFLOPS로 올라갔다. 하지만 한 소유자의 행렬 곱셈 벤치마크에서 cuBLAS GEMM 중앙값은 12–34%(FP16), 최대 20%(BF16) 개선에 그쳤다. Ampere에서는 LLM prefill이 14–36% 개선됐지만, LLM decode와 INT8은 “거의 같은” 수준에 머물렀다."
-              },
-              {
-                "t": "p",
-                "x": "turing-unlock README는 이 모드가 “하드웨어를 손상시킬 수 있다”고 경고하며, KohakUnlock은 “GPU나 호스트를 멈추게 하거나, 부팅을 막거나, 데이터를 손상시키거나, 하드웨어를 손상시킬 수 있다”고 밝힌다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Nvidia RTXの\nテンソル制限を改造で解除",
-          "body": "ファーム改造でRTX 20-40 GPUsのAI半速制限が外れ、4090の性能が倍増する。",
-          "mini_headline": "RTXのAI制限を改造で解除",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/4Yvp7ck4v6d8JPBoNXVPfe.jpg",
-                "cap": "Nvidia GeForce RTX 4090 Founders Edition（画像提供：Nvidia）"
-              },
-              {
-                "t": "p",
-                "x": "VideoCardzによると、改造愛好家らがファームウェアのエクスプロイトを使い、Nvidia RTX 20、30、40-series GPUsに課された半分の速度のAI性能制限を外す方法を見つけた。制限がなくなるとRTX 4090はピークのテンソル演算速度が倍になり、RTX 3090 Tiでは行列演算が最大80%向上しうる。実際のワークロードでの伸びはかなり小さく、チャットボットのトークン速度はメモリ帯域幅に左右されるためほぼ変わらない。"
-              },
-              {
-                "t": "p",
-                "x": "NvidiaのGeForce向け制限は、FP32-accumulate演算を各カードのFP16-accumulate速度の半分で動かすものだ。turing-unlock（RTX 2080 Ti）、gpu-unlock（Ampere）、gpu-unlock-ada（RTX 4090）の三つのプロジェクトが非公式のLinuxモジュールで制限解除を提供しており、RTX 50（Blackwell）は対象外だ。"
-              },
-              {
-                "t": "p",
-                "x": "Adaフォークの開発者のRTX 4090は、FP16で165.6から331.6 TFLOPSに向上した。ただし、あるオーナーの行列乗算ベンチマークでは、cuBLAS GEMMの中央値の改善は12–34%（FP16）、最大20%（BF16）にとどまった。Ampereでは、LLMのprefillが14–36%改善したが、LLMのdecodeとINT8は「ほぼ同じ」だった。"
-              },
-              {
-                "t": "p",
-                "x": "turing-unlockのREADMEはこの改造が「ハードウェアを損傷する可能性がある」と警告し、KohakUnlockは「GPUやホストをハングさせ、起動を妨げ、データを破損させ、またはハードウェアを損傷する可能性がある」としている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "固件破解解除Nvidia\nRTX张量限速",
-          "body": "固件漏洞解除RTX 20-40 GPUs的AI半速限制，RTX 4090峰值张量速率翻倍。",
-          "mini_headline": "RTX AI限速被破解",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/4Yvp7ck4v6d8JPBoNXVPfe.jpg",
-                "cap": "Nvidia GeForce RTX 4090 Founders Edition（图片来源：Nvidia）"
-              },
-              {
-                "t": "p",
-                "x": "据VideoCardz报道，改装玩家发现可以利用固件漏洞，解除Nvidia RTX 20、30和40-series GPUs上被施加的半速AI性能限制。解除限制后，RTX 4090的峰值张量速率可翻倍，RTX 3090 Ti的矩阵运算最多可提升80%。实际工作负载的提升要小得多，聊天机器人的token速度则基本不变，因为这部分性能取决于内存带宽。"
-              },
-              {
-                "t": "p",
-                "x": "Nvidia对GeForce的限制让FP32-accumulate运算只能以各卡FP16-accumulate速率的一半运行。turing-unlock（RTX 2080 Ti）、gpu-unlock（Ampere）和gpu-unlock-ada（RTX 4090）三个项目通过非官方Linux模块提供解锁；RTX 50（Blackwell）不受支持。"
-              },
-              {
-                "t": "p",
-                "x": "Ada分支开发者的RTX 4090在FP16下从165.6提升至331.6 TFLOPS。不过在一位用户的矩阵乘法基准测试中，cuBLAS GEMM中位数仅提升12–34%（FP16），最多提升20%（BF16）。在Ampere上，LLM prefill提升了14–36%，但LLM decode和INT8“基本持平”。"
-              },
-              {
-                "t": "p",
-                "x": "turing-unlock的README警告该改装“可能损坏你的硬件”，KohakUnlock则称它“可能导致GPU或主机挂起、无法启动、数据损坏或硬件损坏”。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un hack de firmware quita\nel freno tensorial de Nvidia RTX",
-          "body": "Un exploit de firmware quita el límite de AI a media velocidad de las GPUs RTX 20-40 y duplica el pico de la RTX 4090.",
-          "mini_headline": "Hackean el freno de AI de las RTX",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/4Yvp7ck4v6d8JPBoNXVPfe.jpg",
-                "cap": "Nvidia GeForce RTX 4090 Founders Edition (Imagen: Nvidia)"
-              },
-              {
-                "t": "p",
-                "x": "Unos modders han descubierto cómo eliminar, mediante un exploit de firmware, los límites impuestos que reducen a la mitad el rendimiento de AI en las GPUs Nvidia RTX 20, 30 y 40-series, informa VideoCardz. Sin esa limitación, la RTX 4090 puede duplicar su velocidad tensorial máxima, y el cálculo matricial puede mejorar hasta un 80% en la RTX 3090 Ti. Las cargas de trabajo reales ganan bastante menos, y la velocidad de tokens de los chatbots se mantiene más o menos igual, porque ese rendimiento depende del ancho de banda de memoria."
-              },
-              {
-                "t": "p",
-                "x": "El límite de Nvidia para GeForce ejecuta los cálculos FP32-accumulate a la mitad de la velocidad FP16-accumulate de cada tarjeta. Tres proyectos —turing-unlock (RTX 2080 Ti), gpu-unlock (Ampere) y gpu-unlock-ada (RTX 4090)— ofrecen desbloqueos mediante módulos no oficiales de Linux; la RTX 50 (Blackwell) no es compatible."
-              },
-              {
-                "t": "p",
-                "x": "La RTX 4090 del desarrollador del fork de Ada pasó de 165.6 a 331.6 TFLOPS en FP16. Sin embargo, en la prueba de multiplicación de matrices de un propietario, las medianas de cuBLAS GEMM mejoraron solo un 12–34% (FP16) y hasta un 20% (BF16). En Ampere, el prefill de LLM mejoró un 14–36%, pero el decode de LLM y INT8 se quedaron “más o menos igual”."
-              },
-              {
-                "t": "p",
-                "x": "El README de turing-unlock advierte que el mod “puede dañar tu hardware”, y KohakUnlock indica que “puede colgar una GPU o el host, impedir el arranque, corromper datos o dañar el hardware”."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "gadgets-even-g2-update",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Even Realities\nG2 Pro Mode 추가",
-      "body": "G2에 Conversate Pro Mode와 Knowledge Base가 생긴다.",
-      "mini_headline": "Even Realities G2에 Pro Mode",
-      "tool": "Gadgets",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/26/even-realities-g2-glasses-update-adds-knowledge-based/",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "full": {
-        "mode": "summary",
-        "blocks": [
           {
             "t": "img",
-            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Even-Realities-G2-smart-glasses-13.jpg?quality=82&strip=all&w=1600"
+            "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/meet-aikon-1792779966.jpg",
+            "cap": "AIKON 인터페이스를 보여 주는 스크린숏 두 장."
           },
           {
             "t": "p",
-            "x": "Even Realities가 오늘 G2 스마트 글라스용 새 소프트웨어 버전을 배포한다고 발표했다. 사용자가 알려준 것만 기억하는 개인 지식 베이스도 들어 있다."
+            "x": "그는 이후 ChatGPT, Gemini, Grok과도 작동하게 앱을 업데이트했고 이름도 Nokia를 거꾸로 쓴 Aikon으로 바꿨다. API 키는 Go 서버가 보관한다. 서버는 챗봇 응답을 오래된 휴대폰이 읽을 수 있는 8kB 블록으로 잘라 보낸다."
           },
           {
             "t": "p",
-            "x": "Conversate에는 새 “Pro Mode”가 생긴다. Knowledge Base에서 데이터를 끌어오는 모드다. Knowledge Base는 사용자가 고른 정보와 데이터를 기억해 두는 기능이다. 모두 G2 버전 2.4.0 업데이트에 담기며, AI 인터페이스도 Even AI 2.0으로 올라간다."
-          },
-          {
-            "t": "p",
-            "x": "Conversate 녹음과 직접 올린 파일은 EU에 있는 보안 Google Cloud Platform 서버와 동기화된다. Even AI 2.0과 진행 중인 Conversate 세션은 Knowledge Base에서 맥락을 끌어온다. 설정할 때 Conversate 기록을 최대 10개까지 고를 수 있고, 자동 업로드를 켜지 않으면 새 세션은 자동으로 추가되지 않는다."
-          },
-          {
-            "t": "p",
-            "x": "Even AI 2.0에는 기능이 몇 가지 더해졌다. 터치 센서를 길게 눌러 부를 수 있고, 웨이크 워드를 다시 말하지 않아도 여러 턴 대화가 이어지며, AI 채팅에서 Even Hub 앱을 열고 설정을 바꿀 수 있다. Knowledge Base와 Conversate Pro Mode는 오늘 월간 사용 한도가 걸린 베타로 나온다. 거북 등딱지 무늬 새 색상도 추가됐다."
+            "x": "앱은 읽기 모드와 응답을 메모리 카드에 오프라인으로 저장하는 기능, 사진 업로드, 최대 30초 길이의 음성 메시지를 지원한다. Karşıyakalı는 앱을 오픈소스로 공개했다. 다만 미국(US)에서는 쓸 수 없다. 8월 T-Mobile이 GSM 네트워크를 종료하면서 미국의 마지막 2G 네트워크가 사라졌기 때문이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Even Realities G2 update\nadds Pro Mode, Knowledge Base",
-          "body": "Even Realities is rolling out new G2 smart glasses software that adds a Conversate Pro Mode and a Knowledge Base.",
-          "mini_headline": "Even Realities G2 gets Pro Mode",
+          "headline": "A 2G Nokia 6300 now\ntalks to Claude and ChatGPT",
+          "body": "A developer's vibe-coded Aikon app lets a 2G Nokia 6300 reach Claude, ChatGPT, Gemini or Grok via a Go server.",
+          "mini_headline": "Old Nokia gets AI chatbots",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Even-Realities-G2-smart-glasses-13.jpg?quality=82&strip=all&w=1600"
+                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/intro-1792779965.jpg",
+                "cap": "AIKON is an app that allows old Nokia S40 and S60 phones to connect to chatbots like Claude."
               },
               {
                 "t": "p",
-                "x": "Even Realities today announced that a new software version will be rolling out to the G2 smart glasses, complete with a personal knowledge base that only remembers what you tell it."
+                "x": "The original Nokia 6300 is a 2G phone whose browser was never updated beyond TLS 1.0, meaning it essentially can't access the modern internet. In late September, Turkish entrepreneur Emir Karşıyakalı showed off Claude S40, an app he vibe coded to connect his old Nokia 6300 with Claude over a Java and Go backend."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/meet-aikon-1792779966.jpg",
+                "cap": "Two screenshots showing off the AIKON interface."
               },
               {
                 "t": "p",
-                "x": "Conversate is getting an overhauled “Pro Mode” that pulls data from Knowledge Base, a feature that remembers the information and data you select. The refreshes are in the G2 version 2.4.0 update, which also upgrades the AI interface to Even AI 2.0."
+                "x": "He has since updated it to work with ChatGPT, Gemini and Grok, and renamed it Aikon — Nokia spelt backwards. A Go server holds the API key and truncates chatbot responses into 8kB blocks the old phone can read."
               },
               {
                 "t": "p",
-                "x": "Conversate recordings and manually uploaded files sync to a secure Google Cloud Platform server in the EU; Even AI 2.0 and active Conversate sessions pull context from the Knowledge Base. Users can select up to 10 Conversate records during setup, and new sessions aren’t added automatically unless auto-upload is toggled on."
-              },
-              {
-                "t": "p",
-                "x": "Even AI 2.0 adds press-and-hold activation on the touch sensor, multi-turn conversations without a new wake word, and opening Even Hub apps and changing settings from the AI chat. Knowledge Base and Conversate Pro Mode launch today in beta with a monthly usage allowance. There’s also a new tortoiseshell color option."
+                "x": "The app offers a reading mode, offline saving of responses to a memory card, photo uploads and voice messages up to 30 seconds long. Karşıyakalı has open sourced it. In the US it won't run, since the nation's last 2G network went offline when T-Mobile shut down its GSM network in August."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Even Realities\nG2 Pro Mode 추가",
-          "body": "G2에 Conversate Pro Mode와 Knowledge Base가 생긴다.",
-          "mini_headline": "Even Realities G2에 Pro Mode",
+          "headline": "2G Nokia 6300에\nClaude·ChatGPT",
+          "body": "Aikon 앱으로 2G Nokia 6300이 Claude·ChatGPT와 대화한다.",
+          "mini_headline": "구형 Nokia에 AI 챗봇",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Even-Realities-G2-smart-glasses-13.jpg?quality=82&strip=all&w=1600"
+                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/intro-1792779965.jpg",
+                "cap": "AIKON은 오래된 Nokia S40·S60 휴대폰을 Claude 같은 챗봇에 연결해 주는 앱이다."
               },
               {
                 "t": "p",
-                "x": "Even Realities가 오늘 G2 스마트 글라스용 새 소프트웨어 버전을 배포한다고 발표했다. 사용자가 알려준 것만 기억하는 개인 지식 베이스도 들어 있다."
+                "x": "초기형 Nokia 6300은 브라우저가 TLS 1.0 이후로 업데이트되지 않은 2G 휴대폰이라 현대 인터넷에 사실상 접속하지 못한다. 그런데 9월 말 튀르키예 기업가 Emir Karşıyakalı가 앱 Claude S40을 선보였다. Java와 Go 백엔드를 거쳐 낡은 Nokia 6300을 Claude에 연결하도록 바이브 코딩한 앱이다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/meet-aikon-1792779966.jpg",
+                "cap": "AIKON 인터페이스를 보여 주는 스크린숏 두 장."
               },
               {
                 "t": "p",
-                "x": "Conversate에는 새 “Pro Mode”가 생긴다. Knowledge Base에서 데이터를 끌어오는 모드다. Knowledge Base는 사용자가 고른 정보와 데이터를 기억해 두는 기능이다. 모두 G2 버전 2.4.0 업데이트에 담기며, AI 인터페이스도 Even AI 2.0으로 올라간다."
+                "x": "그는 이후 ChatGPT, Gemini, Grok과도 작동하게 앱을 업데이트했고 이름도 Nokia를 거꾸로 쓴 Aikon으로 바꿨다. API 키는 Go 서버가 보관한다. 서버는 챗봇 응답을 오래된 휴대폰이 읽을 수 있는 8kB 블록으로 잘라 보낸다."
               },
               {
                 "t": "p",
-                "x": "Conversate 녹음과 직접 올린 파일은 EU에 있는 보안 Google Cloud Platform 서버와 동기화된다. Even AI 2.0과 진행 중인 Conversate 세션은 Knowledge Base에서 맥락을 끌어온다. 설정할 때 Conversate 기록을 최대 10개까지 고를 수 있고, 자동 업로드를 켜지 않으면 새 세션은 자동으로 추가되지 않는다."
-              },
-              {
-                "t": "p",
-                "x": "Even AI 2.0에는 기능이 몇 가지 더해졌다. 터치 센서를 길게 눌러 부를 수 있고, 웨이크 워드를 다시 말하지 않아도 여러 턴 대화가 이어지며, AI 채팅에서 Even Hub 앱을 열고 설정을 바꿀 수 있다. Knowledge Base와 Conversate Pro Mode는 오늘 월간 사용 한도가 걸린 베타로 나온다. 거북 등딱지 무늬 새 색상도 추가됐다."
+                "x": "앱은 읽기 모드와 응답을 메모리 카드에 오프라인으로 저장하는 기능, 사진 업로드, 최대 30초 길이의 음성 메시지를 지원한다. Karşıyakalı는 앱을 오픈소스로 공개했다. 다만 미국(US)에서는 쓸 수 없다. 8월 T-Mobile이 GSM 네트워크를 종료하면서 미국의 마지막 2G 네트워크가 사라졌기 때문이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Even Realities\nG2にPro Mode追加",
-          "body": "G2の新版にConversate Pro ModeとKnowledge Baseが加わる。",
-          "mini_headline": "Even Realities G2にPro Mode",
+          "headline": "2G Nokia 6300で\nClaudeやChatGPT",
+          "body": "Aikonアプリで2G Nokia 6300がClaudeやChatGPTとつながる。",
+          "mini_headline": "古いNokiaにAIチャットボット",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Even-Realities-G2-smart-glasses-13.jpg?quality=82&strip=all&w=1600"
+                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/intro-1792779965.jpg",
+                "cap": "AIKONは、古いNokia S40やS60の携帯電話をClaudeなどのチャットボットにつなぐアプリだ。"
               },
               {
                 "t": "p",
-                "x": "Even Realitiesは本日、G2スマートグラスに新しいソフトウェアバージョンを配信すると発表した。ユーザーが伝えたことだけを記憶する個人用ナレッジベースも備える。"
+                "x": "初代Nokia 6300は、ブラウザーがTLS 1.0より先に更新されなかった2G端末で、事実上現代のインターネットにはアクセスできない。9月下旬、トルコの起業家Emir Karşıyakalıは、JavaとGoのバックエンドを介して古いNokia 6300をClaudeにつなぐ、バイブコーディングで作ったアプリ「Claude S40」を披露した。"
               },
-              {
-                "t": "p",
-                "x": "Conversateには、Knowledge Baseからデータを取り込む刷新された「Pro Mode」が加わる。Knowledge Baseは、ユーザーが選んだ情報やデータを記憶する機能だ。これらの刷新はG2バージョン2.4.0アップデートに含まれ、AIインターフェースもEven AI 2.0に更新される。"
-              },
-              {
-                "t": "p",
-                "x": "Conversateの録音と手動でアップロードしたファイルはEUにある安全なGoogle Cloud Platformサーバーと同期され、Even AI 2.0と進行中のConversateセッションはKnowledge Baseから文脈を取得する。ユーザーはセットアップ時に最大10件のConversate記録を選べ、自動アップロードをオンにしない限り新しいセッションは自動では追加されない。"
-              },
-              {
-                "t": "p",
-                "x": "Even AI 2.0では、タッチセンサーの長押しによる起動、ウェイクワードを言い直さずに続けられるマルチターン会話、AIチャットからのEven Hubアプリの起動や設定変更が加わった。Knowledge BaseとConversate Pro Modeは本日、月間利用枠付きのベータ版として提供が始まる。べっ甲柄の新色も用意された。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Even Realities\nG2新增Pro Mode",
-          "body": "G2新软件新增Conversate Pro Mode与Knowledge Base。",
-          "mini_headline": "Even Realities G2迎来Pro Mode",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Even-Realities-G2-smart-glasses-13.jpg?quality=82&strip=all&w=1600"
+                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/meet-aikon-1792779966.jpg",
+                "cap": "AIKONのインターフェースを示す二枚のスクリーンショット。"
               },
               {
                 "t": "p",
-                "x": "Even Realities今天宣布，将为G2智能眼镜推送新软件版本，其中包括一个只记住你告诉它的内容的个人知识库。"
+                "x": "その後、彼はChatGPT、Gemini、Grokにも対応させ、名前をNokiaを逆につづったAikonに改めた。GoサーバーがAPIキーを保持し、チャットボットの応答を古い端末でも読める8kBのブロックに切り分ける。"
               },
               {
                 "t": "p",
-                "x": "Conversate将迎来全面改版的“Pro Mode”，可从Knowledge Base调取数据；Knowledge Base是一项会记住你所选信息和数据的功能。这些更新包含在G2 2.4.0版本更新中，该更新还将AI界面升级为Even AI 2.0。"
-              },
-              {
-                "t": "p",
-                "x": "Conversate录音和手动上传的文件会同步到位于EU的安全Google Cloud Platform服务器；Even AI 2.0和进行中的Conversate会话会从Knowledge Base调取上下文。用户在设置时最多可选择10条Conversate记录，除非开启自动上传，否则新会话不会被自动添加。"
-              },
-              {
-                "t": "p",
-                "x": "Even AI 2.0新增了长按触控传感器唤醒、无需再次说出唤醒词的多轮对话，以及在AI聊天中打开Even Hub应用和更改设置等功能。Knowledge Base和Conversate Pro Mode今天以测试版形式推出，并设有每月使用额度。此外还新增了玳瑁色配色。"
+                "x": "アプリには読書モード、応答のメモリーカードへのオフライン保存、写真のアップロード、最長30秒の音声メッセージといった機能がある。Karşıyakalıはこれをオープンソースで公開した。US（米国）では動作しない。8月にT-MobileがGSMネットワークを停止し、同国最後の2Gネットワークが消えたためだ。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Even Realities G2 suma Pro Mode\ny Knowledge Base",
-          "body": "Even Realities despliega un nuevo software para las gafas G2 que añade Conversate Pro Mode y Knowledge Base.",
-          "mini_headline": "Even Realities G2 recibe Pro Mode",
+          "headline": "Un Nokia 6300 2G ya habla\ncon Claude y ChatGPT",
+          "body": "Aikon, una app vibe-coded, conecta un Nokia 6300 2G con Claude, ChatGPT, Gemini o Grok vía un servidor Go.",
+          "mini_headline": "Un viejo Nokia recibe chatbots de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Even-Realities-G2-smart-glasses-13.jpg?quality=82&strip=all&w=1600"
+                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/intro-1792779965.jpg",
+                "cap": "AIKON es una app que permite conectar antiguos teléfonos Nokia S40 y S60 a chatbots como Claude."
               },
               {
                 "t": "p",
-                "x": "Even Realities anunció hoy que una nueva versión de software llegará a las gafas inteligentes G2, con una base de conocimiento personal que solo recuerda lo que el usuario le indica."
+                "x": "El Nokia 6300 original es un teléfono 2G cuyo navegador nunca pasó de TLS 1.0, por lo que en la práctica no puede acceder a la internet actual. A finales de septiembre, el emprendedor turco Emir Karşıyakalı presentó Claude S40, una app creada con vibe coding para conectar su viejo Nokia 6300 con Claude mediante un backend en Java y Go."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/meet-aikon-1792779966.jpg",
+                "cap": "Dos capturas de pantalla que muestran la interfaz de AIKON."
               },
               {
                 "t": "p",
-                "x": "Conversate recibe un “Pro Mode” renovado que toma datos de Knowledge Base, una función que recuerda la información y los datos que el usuario selecciona. Las novedades llegan con la actualización G2 versión 2.4.0, que además actualiza la interfaz de AI a Even AI 2.0."
+                "x": "Desde entonces la actualizó para que funcione con ChatGPT, Gemini y Grok, y la rebautizó como Aikon, Nokia escrito al revés. Un servidor Go guarda la clave de API y recorta las respuestas del chatbot en bloques de 8kB que el viejo teléfono puede leer."
               },
               {
                 "t": "p",
-                "x": "Las grabaciones de Conversate y los archivos subidos manualmente se sincronizan con un servidor seguro de Google Cloud Platform en la EU; Even AI 2.0 y las sesiones activas de Conversate toman contexto de Knowledge Base. Durante la configuración se pueden seleccionar hasta 10 registros de Conversate, y las sesiones nuevas no se añaden automáticamente salvo que se active la subida automática."
+                "x": "La app ofrece un modo de lectura, guardado sin conexión de respuestas en una tarjeta de memoria, subida de fotos y mensajes de voz de hasta 30 segundos. Karşıyakalı la ha publicado como código abierto. En Estados Unidos (US) no funciona, ya que la última red 2G del país se apagó cuando T-Mobile cerró su red GSM en agosto."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "2G Nokia 6300连\nClaude和ChatGPT",
+          "body": "Aikon应用让2G Nokia 6300连上Claude、ChatGPT等聊天机器人。",
+          "mini_headline": "老Nokia用上AI聊天机器人",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/intro-1792779965.jpg",
+                "cap": "AIKON是一款能让老款Nokia S40和S60手机连接Claude等聊天机器人的应用。"
               },
               {
                 "t": "p",
-                "x": "Even AI 2.0 añade la activación manteniendo pulsado el sensor táctil, conversaciones de varios turnos sin repetir la palabra de activación, y la posibilidad de abrir apps de Even Hub y cambiar ajustes desde el chat de AI. Knowledge Base y Conversate Pro Mode se lanzan hoy en beta con un límite de uso mensual. También hay una nueva opción de color carey."
+                "x": "初代Nokia 6300是一款2G手机，其浏览器从未更新到TLS 1.0以后的版本，基本无法访问现代互联网。9月下旬，土耳其创业者Emir Karşıyakalı展示了Claude S40，这是他用氛围编程做出的应用，通过Java和Go后端把他的旧Nokia 6300连上Claude。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/meet-aikon-1792779966.jpg",
+                "cap": "两张展示AIKON界面的截图。"
+              },
+              {
+                "t": "p",
+                "x": "此后他又让它支持ChatGPT、Gemini和Grok，并改名为Aikon，即Nokia倒过来拼写。一台Go服务器保管API密钥，并把聊天机器人的回复截成旧手机能读取的8kB数据块。"
+              },
+              {
+                "t": "p",
+                "x": "该应用提供阅读模式、将回复离线保存到存储卡、上传照片，以及最长30秒的语音消息。Karşıyakalı已将其开源。它在US（美国）无法运行，因为T-Mobile在8月关闭了GSM网络，美国最后一个2G网络随之下线。"
               }
             ]
           }
@@ -1871,121 +1773,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Even Realities\nG2 Pro Mode 추가",
-          "body": "G2에 Conversate Pro Mode와 Knowledge Base가 생긴다.",
-          "mini_headline": "Even Realities G2에 Pro Mode",
+          "headline": "2G Nokia 6300에\nClaude·ChatGPT",
+          "body": "Aikon 앱으로 2G Nokia 6300이 Claude·ChatGPT와 대화한다.",
+          "mini_headline": "구형 Nokia에 AI 챗봇",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Even-Realities-G2-smart-glasses-13.jpg?quality=82&strip=all&w=1600"
+                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/intro-1792779965.jpg",
+                "cap": "AIKON은 오래된 Nokia S40·S60 휴대폰을 Claude 같은 챗봇에 연결해 주는 앱이다."
               },
               {
                 "t": "p",
-                "x": "Even Realities는 오늘 G2 스마트 글라스에 새 소프트웨어 버전을 배포한다고 발표했다. 사용자가 알려준 것만 기억하는 개인 지식 베이스도 함께 담겼다."
+                "x": "초기형 Nokia 6300은 브라우저가 TLS 1.0 이후로 업데이트되지 않은 2G 휴대폰이라 사실상 현대 인터넷에 접속할 수 없다. 9월 말 튀르키예 기업가 Emir Karşıyakalı는 Java와 Go 백엔드를 거쳐 낡은 Nokia 6300을 Claude에 연결하도록 바이브 코딩한 앱 Claude S40을 선보였다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/meet-aikon-1792779966.jpg",
+                "cap": "AIKON 인터페이스를 보여 주는 스크린숏 두 장."
               },
               {
                 "t": "p",
-                "x": "Conversate에는 Knowledge Base에서 데이터를 가져오는 새 “Pro Mode”가 들어간다. Knowledge Base는 사용자가 고른 정보와 데이터를 기억하는 기능이다. 이번 변화는 G2 버전 2.4.0 업데이트에 포함되며, AI 인터페이스도 Even AI 2.0으로 올라간다."
+                "x": "그는 이후 앱이 ChatGPT, Gemini, Grok과도 작동하도록 업데이트하고, 이름을 Nokia를 거꾸로 쓴 Aikon으로 바꿨다. Go 서버가 API 키를 보관하고, 챗봇 응답을 오래된 휴대폰이 읽을 수 있는 8kB 블록으로 잘라 보낸다."
               },
               {
                 "t": "p",
-                "x": "Conversate 녹음과 직접 올린 파일은 EU에 있는 보안 Google Cloud Platform 서버와 동기화되며, Even AI 2.0과 진행 중인 Conversate 세션은 Knowledge Base에서 맥락을 가져온다. 사용자는 설정 과정에서 Conversate 기록을 최대 10개까지 고를 수 있고, 자동 업로드를 켜지 않으면 새 세션은 자동으로 추가되지 않는다."
-              },
-              {
-                "t": "p",
-                "x": "Even AI 2.0은 터치 센서를 길게 눌러 호출하는 기능, 웨이크 워드를 다시 말하지 않아도 이어지는 다중 턴 대화, AI 채팅에서 Even Hub 앱을 열고 설정을 바꾸는 기능을 더했다. Knowledge Base와 Conversate Pro Mode는 오늘 월간 사용 한도가 있는 베타로 출시된다. 거북 등딱지 무늬의 새 색상도 나왔다."
+                "x": "앱은 읽기 모드, 응답을 메모리 카드에 오프라인 저장하는 기능, 사진 업로드, 최대 30초 길이의 음성 메시지를 지원한다. Karşıyakalı는 이 앱을 오픈소스로 공개했다. 미국(US)에서는 작동하지 않는데, 8월 T-Mobile이 GSM 네트워크를 종료하면서 미국의 마지막 2G 네트워크가 사라졌기 때문이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Even Realities\nG2にPro Mode追加",
-          "body": "G2の新版にConversate Pro ModeとKnowledge Baseが加わる。",
-          "mini_headline": "Even Realities G2にPro Mode",
+          "headline": "2G Nokia 6300で\nClaudeやChatGPT",
+          "body": "Aikonアプリで2G Nokia 6300がClaudeやChatGPTとつながる。",
+          "mini_headline": "古いNokiaにAIチャットボット",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Even-Realities-G2-smart-glasses-13.jpg?quality=82&strip=all&w=1600"
+                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/intro-1792779965.jpg",
+                "cap": "AIKONは、古いNokia S40やS60の携帯電話をClaudeなどのチャットボットにつなぐアプリだ。"
               },
               {
                 "t": "p",
-                "x": "Even Realitiesは本日、G2スマートグラスに新しいソフトウェアバージョンを配信すると発表した。ユーザーが伝えたことだけを記憶する個人用ナレッジベースも備える。"
+                "x": "初代Nokia 6300は、ブラウザーがTLS 1.0より先に更新されなかった2G端末で、事実上現代のインターネットにはアクセスできない。9月下旬、トルコの起業家Emir Karşıyakalıは、JavaとGoのバックエンドを介して古いNokia 6300をClaudeにつなぐ、バイブコーディングで作ったアプリ「Claude S40」を披露した。"
               },
-              {
-                "t": "p",
-                "x": "Conversateには、Knowledge Baseからデータを取り込む刷新された「Pro Mode」が加わる。Knowledge Baseは、ユーザーが選んだ情報やデータを記憶する機能だ。これらの刷新はG2バージョン2.4.0アップデートに含まれ、AIインターフェースもEven AI 2.0に更新される。"
-              },
-              {
-                "t": "p",
-                "x": "Conversateの録音と手動でアップロードしたファイルはEUにある安全なGoogle Cloud Platformサーバーと同期され、Even AI 2.0と進行中のConversateセッションはKnowledge Baseから文脈を取得する。ユーザーはセットアップ時に最大10件のConversate記録を選べ、自動アップロードをオンにしない限り新しいセッションは自動では追加されない。"
-              },
-              {
-                "t": "p",
-                "x": "Even AI 2.0では、タッチセンサーの長押しによる起動、ウェイクワードを言い直さずに続けられるマルチターン会話、AIチャットからのEven Hubアプリの起動や設定変更が加わった。Knowledge BaseとConversate Pro Modeは本日、月間利用枠付きのベータ版として提供が始まる。べっ甲柄の新色も用意された。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Even Realities\nG2新增Pro Mode",
-          "body": "G2新软件新增Conversate Pro Mode与Knowledge Base。",
-          "mini_headline": "Even Realities G2迎来Pro Mode",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Even-Realities-G2-smart-glasses-13.jpg?quality=82&strip=all&w=1600"
+                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/meet-aikon-1792779966.jpg",
+                "cap": "AIKONのインターフェースを示す二枚のスクリーンショット。"
               },
               {
                 "t": "p",
-                "x": "Even Realities今天宣布，将为G2智能眼镜推送新软件版本，其中包括一个只记住你告诉它的内容的个人知识库。"
+                "x": "その後、彼はChatGPT、Gemini、Grokにも対応させ、名前をNokiaを逆につづったAikonに改めた。GoサーバーがAPIキーを保持し、チャットボットの応答を古い端末でも読める8kBのブロックに切り分ける。"
               },
               {
                 "t": "p",
-                "x": "Conversate将迎来全面改版的“Pro Mode”，可从Knowledge Base调取数据；Knowledge Base是一项会记住你所选信息和数据的功能。这些更新包含在G2 2.4.0版本更新中，该更新还将AI界面升级为Even AI 2.0。"
-              },
-              {
-                "t": "p",
-                "x": "Conversate录音和手动上传的文件会同步到位于EU的安全Google Cloud Platform服务器；Even AI 2.0和进行中的Conversate会话会从Knowledge Base调取上下文。用户在设置时最多可选择10条Conversate记录，除非开启自动上传，否则新会话不会被自动添加。"
-              },
-              {
-                "t": "p",
-                "x": "Even AI 2.0新增了长按触控传感器唤醒、无需再次说出唤醒词的多轮对话，以及在AI聊天中打开Even Hub应用和更改设置等功能。Knowledge Base和Conversate Pro Mode今天以测试版形式推出，并设有每月使用额度。此外还新增了玳瑁色配色。"
+                "x": "アプリには読書モード、応答のメモリーカードへのオフライン保存、写真のアップロード、最長30秒の音声メッセージといった機能がある。Karşıyakalıはこれをオープンソースで公開した。US（米国）では動作しない。8月にT-MobileがGSMネットワークを停止し、同国最後の2Gネットワークが消えたためだ。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Even Realities G2 suma Pro Mode\ny Knowledge Base",
-          "body": "Even Realities despliega un nuevo software para las gafas G2 que añade Conversate Pro Mode y Knowledge Base.",
-          "mini_headline": "Even Realities G2 recibe Pro Mode",
+          "headline": "Un Nokia 6300 2G ya habla\ncon Claude y ChatGPT",
+          "body": "Aikon, una app vibe-coded, conecta un Nokia 6300 2G con Claude, ChatGPT, Gemini o Grok vía un servidor Go.",
+          "mini_headline": "Un viejo Nokia recibe chatbots de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Even-Realities-G2-smart-glasses-13.jpg?quality=82&strip=all&w=1600"
+                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/intro-1792779965.jpg",
+                "cap": "AIKON es una app que permite conectar antiguos teléfonos Nokia S40 y S60 a chatbots como Claude."
               },
               {
                 "t": "p",
-                "x": "Even Realities anunció hoy que una nueva versión de software llegará a las gafas inteligentes G2, con una base de conocimiento personal que solo recuerda lo que el usuario le indica."
+                "x": "El Nokia 6300 original es un teléfono 2G cuyo navegador nunca pasó de TLS 1.0, por lo que en la práctica no puede acceder a la internet actual. A finales de septiembre, el emprendedor turco Emir Karşıyakalı presentó Claude S40, una app creada con vibe coding para conectar su viejo Nokia 6300 con Claude mediante un backend en Java y Go."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/meet-aikon-1792779966.jpg",
+                "cap": "Dos capturas de pantalla que muestran la interfaz de AIKON."
               },
               {
                 "t": "p",
-                "x": "Conversate recibe un “Pro Mode” renovado que toma datos de Knowledge Base, una función que recuerda la información y los datos que el usuario selecciona. Las novedades llegan con la actualización G2 versión 2.4.0, que además actualiza la interfaz de AI a Even AI 2.0."
+                "x": "Desde entonces la actualizó para que funcione con ChatGPT, Gemini y Grok, y la rebautizó como Aikon, Nokia escrito al revés. Un servidor Go guarda la clave de API y recorta las respuestas del chatbot en bloques de 8kB que el viejo teléfono puede leer."
               },
               {
                 "t": "p",
-                "x": "Las grabaciones de Conversate y los archivos subidos manualmente se sincronizan con un servidor seguro de Google Cloud Platform en la EU; Even AI 2.0 y las sesiones activas de Conversate toman contexto de Knowledge Base. Durante la configuración se pueden seleccionar hasta 10 registros de Conversate, y las sesiones nuevas no se añaden automáticamente salvo que se active la subida automática."
+                "x": "La app ofrece un modo de lectura, guardado sin conexión de respuestas en una tarjeta de memoria, subida de fotos y mensajes de voz de hasta 30 segundos. Karşıyakalı la ha publicado como código abierto. En Estados Unidos (US) no funciona, ya que la última red 2G del país se apagó cuando T-Mobile cerró su red GSM en agosto."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "2G Nokia 6300连\nClaude和ChatGPT",
+          "body": "Aikon应用让2G Nokia 6300连上Claude、ChatGPT等聊天机器人。",
+          "mini_headline": "老Nokia用上AI聊天机器人",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/intro-1792779965.jpg",
+                "cap": "AIKON是一款能让老款Nokia S40和S60手机连接Claude等聊天机器人的应用。"
               },
               {
                 "t": "p",
-                "x": "Even AI 2.0 añade la activación manteniendo pulsado el sensor táctil, conversaciones de varios turnos sin repetir la palabra de activación, y la posibilidad de abrir apps de Even Hub y cambiar ajustes desde el chat de AI. Knowledge Base y Conversate Pro Mode se lanzan hoy en beta con un límite de uso mensual. También hay una nueva opción de color carey."
+                "x": "初代Nokia 6300是一款2G手机，其浏览器从未更新到TLS 1.0以后的版本，基本无法访问现代互联网。9月下旬，土耳其创业者Emir Karşıyakalı展示了Claude S40，这是他用氛围编程做出的应用，通过Java和Go后端把他的旧Nokia 6300连上Claude。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/meet-aikon-1792779966.jpg",
+                "cap": "两张展示AIKON界面的截图。"
+              },
+              {
+                "t": "p",
+                "x": "此后他又让它支持ChatGPT、Gemini和Grok，并改名为Aikon，即Nokia倒过来拼写。一台Go服务器保管API密钥，并把聊天机器人的回复截成旧手机能读取的8kB数据块。"
+              },
+              {
+                "t": "p",
+                "x": "该应用提供阅读模式、将回复离线保存到存储卡、上传照片，以及最长30秒的语音消息。Karşıyakalı已将其开源。它在US（美国）无法运行，因为T-Mobile在8月关闭了GSM网络，美国最后一个2G网络随之下线。"
               }
             ]
           }

@@ -1,79 +1,61 @@
 {
   "section": "gadgets",
-  "now_iso": "2026-10-27T01:45:00Z",
+  "now_iso": "2026-10-27T22:04:00Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "애플 차세대 '시리 AI' 한국어로 쓴다…개인정보 검색부터 앱 실행 지원",
-      "url": "https://www.etnews.com/20261027000082",
-      "source": "전자신문",
-      "category": "gadgets",
-      "published_iso": "2026-10-27T10:00:09+09:00",
-      "excerpt": "애플이 차세대 인공지능(AI) 음성비서 '시리 AI(Siri AI)'를 한국어로 선보였다. 사용자는 앞으로 음성 명령만으로 메시지와 이메일에서 필요한 정보를 찾고, 여러 앱을 연동해 일정 관리나 문서 작성 등 다양한 작업을 한국어로 처리할 수 있다. 애플은 27일 iOS 27.2 등 소프트웨어 업데이트를 통해 시리 AI 베타 버전을 출시했다. 한국어를 비롯해 영어, 프랑스어, 일본어, 포르투갈어, 스페인어 등 6개 언어를 지원한다. 시리 AI는",
-      "og_image": "https://img.etnews.com/news/article/2026/10/27/news-p.v1.20261027.cec3f8092e2b490c83352915c218b836_P1.png"
-    },
-    {
-      "title": "Apple adds more Siri AI tools in its 27.2 system updates, out today",
-      "url": "https://www.engadget.com/2297577/apple-adds-more-siri-ai-tools-in-27-2-system-updates-out-today/",
+      "title": "This old Nokia phone got an AI Upgrade it was never designed for",
+      "url": "https://www.engadget.com/2295625/old-nokia-phone-ai-upgrade-never-designed-for/",
       "source": "Engadget",
       "category": "gadgets",
-      "published_iso": "2026-10-26T19:47:56+00:00",
-      "excerpt": "Apple has rolled out software updates for all its platforms today.",
-      "og_image": "https://www.engadget.com/img/gallery/apple-adds-more-siri-ai-tools-in-its-27-2-system-updates-out-today/l-intro-1793044016.jpg"
+      "published_iso": "2026-10-27T18:30:00+00:00",
+      "excerpt": "A Turkish developer vibe-coded 'Claude S40', an app that lets a 2G Nokia 6300 talk to Claude, ChatGPT, Gemini or Grok via a small Go server, with a reading mode and offline saving of responses.",
+      "og_image": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/l-intro-1792779965.jpg"
     },
     {
-      "title": "Siri AI keeps getting better, here’s what’s new in iOS 27.2",
-      "url": "https://9to5mac.com/2026/10/26/siri-ai-keeps-getting-better-heres-whats-new-in-ios-27-2/",
-      "source": "9to5Mac",
+      "title": "Ollama brings free, local text-to-speech to your Mac with natural-sounding AI voices",
+      "url": "https://www.digitaltrends.com/computing/ollama-brings-free-local-text-to-speech-to-your-mac-with-natural-sounding-ai-voices/",
+      "source": "Digital Trends",
       "category": "gadgets",
-      "published_iso": "2026-10-26T18:36:02+00:00",
-      "excerpt": "Apple is rolling out its 27.2 software updates today, and they introduce several improvements for Siri AI. Here’s what’s new.",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&strip=all&resize=1200,628"
+      "published_iso": "2026-10-26T23:07:18-07:00",
+      "excerpt": "Ollama now lets Mac users turn text into natural-sounding speech locally with Phonon, a family of small text-to-speech models from Gradium. No subscription required.",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-logo-with-gradient-background.jpg?resize=1200%2C630&ssl=1"
     },
     {
-      "title": "iPhone AI Images and Edits Now Have a Hidden Watermark",
-      "url": "https://www.macrumors.com/2026/10/26/iphone-synthid-watermarks/",
-      "source": "MacRumors",
+      "title": "Opera wants websites to run AI on your laptop instead of sending your data to the cloud",
+      "url": "https://www.digitaltrends.com/computing/opera-wants-websites-to-run-ai-on-your-laptop-instead-of-sending-your-data-to-the-cloud/",
+      "source": "Digital Trends",
       "category": "gadgets",
-      "published_iso": "2026-10-26T21:15:02+00:00",
-      "excerpt": "Images generated with Image Playground and some photos edited with Apple Intelligence will now include a SynthID watermark. Apple announced plans to add SynthID support back in June, and the feature is live in iOS 27.2. SynthID is a Google-created tool that identifies AI-generated content. It waterm",
-      "og_image": "https://images.macrumors.com/t/vd_m2L9U7JzUXBGFWLnTgPg2t6I=/1920x/article-new/2026/10/google-synthid.jpg"
+      "published_iso": "2026-10-27T06:00:00-07:00",
+      "excerpt": "Opera’s WebAI preview lets websites and extensions use AI models running locally on supported computers, avoiding cloud processing and separate subscriptions while leaving access under the user’s control through site-specific permissions.",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-WebAI.jpeg?resize=1200%2C630&ssl=1"
     },
     {
-      "title": "Apple Releases watchOS 27.2 With Siri AI Enhancements",
-      "url": "https://www.macrumors.com/2026/10/26/apple-releases-watchos-27-2-2/",
-      "source": "MacRumors",
+      "title": "Apple refreshes the iMac with M6 chip, faster AI performance, and Wi-Fi 7",
+      "url": "https://www.digitaltrends.com/computing/apple-refreshes-the-imac-with-m6-chip-faster-ai-performance-and-wi-fi-7/",
+      "source": "Digital Trends",
       "category": "gadgets",
-      "published_iso": "2026-10-26T17:47:59+00:00",
-      "excerpt": "Apple today released watchOS 27.2, the first major update to the watchOS 27 operating system. watchOS 27.2 can be downloaded through the Settings app on the watch or the Apple Watch app on a connected iPhone. Software can only be installed when the Apple Watch is on the charger and has over 50 perce",
-      "og_image": "https://images.macrumors.com/t/NIcNaQpWpjJf34InyyrlQHbkafI=/1600x/article-new/2026/06/watchos-27.jpg"
+      "published_iso": "2026-10-27T06:30:21-07:00",
+      "excerpt": "Apple’s refreshed iMac brings M6 power, faster AI, Wi-Fi 7, and improved connectivity, starting at $1,499.",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/New-iMac.jpg?resize=1200%2C630&ssl=1"
     },
     {
-      "title": "Ray-Ban Meta: How to stop your glasses from training AI",
-      "url": "https://www.notebookcheck.net/Ray-Ban-Meta-How-to-stop-your-glasses-from-training-AI.1430044.0.html",
-      "source": "Notebookcheck",
+      "title": "Apple MacBook Pro M6 just unveiled with 30% faster graphics, 25% faster AI and up to 24 hours of battery life",
+      "url": "https://www.tomsguide.com/computing/macbooks/apple-reveals-m6-macbook-pro-for-pro-and-tell-week-heres-everything-thats-new",
+      "source": "Tom's Guide",
       "category": "gadgets",
-      "published_iso": "2026-10-26T10:00:00+01:00",
-      "excerpt": "Ask your Ray-Ban Meta glasses about what you're looking at, and Meta stores that image and may use it to train its AI. A new setting in the Meta AI app turns this off, and a second one covers voice recordings outside the US. Here is what each setting covers, where US owners have less choice and what",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ray-ban-meta-ki-training-teaser.jpg"
+      "published_iso": "2026-10-27T13:14:15Z",
+      "excerpt": "Apple's new 14-inch MacBook Pro moves to the M6 chip, which Apple says brings 30% faster graphics and 25% faster AI performance, plus up to 24 hours of battery life.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/7moKw5F2gzMVH2GPuzQHMT-980-80.jpg"
     },
     {
-      "title": "Major Even Realities G2 smart glasses update adds Conversate 'Pro Mode,' Knowledge Base",
-      "url": "https://9to5google.com/2026/10/26/even-realities-g2-glasses-update-adds-knowledge-based/",
-      "source": "9to5Google",
+      "title": "Google's working on a new look for Gemini Live, and we have a sneak peek for you",
+      "url": "https://www.androidauthority.com/gemini-live-neural-expressive-audio-visualizer-redesign-3728666/",
+      "source": "Android Authority",
       "category": "gadgets",
-      "published_iso": "2026-10-26T16:41:26+00:00",
-      "excerpt": "Even Realities today announced that a new software version will be rolling out to the G2 smart glasses, complete with...",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Even-Realities-G2-smart-glasses-13.jpg?quality=82&strip=all&resize=1200,628"
-    },
-    {
-      "title": "Gemini Live redesign makes it easier to add context to chats",
-      "url": "https://9to5google.com/2026/10/26/gemini-live-plus-redesign/",
-      "source": "9to5Google",
-      "category": "gadgets",
-      "published_iso": "2026-10-26T19:00:50+00:00",
-      "excerpt": "Following the other big interface updates this month, Google is rolling out a small 'plus' redesign to Gemini Live on Android...",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-live-2.jpg?quality=82&strip=all&resize=1200,628"
+      "published_iso": "2026-10-27T21:24:12+00:00",
+      "excerpt": "Google is testing a Neural Expressive-inspired Gemini Live redesign with a circular visualizer, animated dots, and a blue glow.",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/08/IMG_20250820_175549-scaled.jpg"
     },
     {
       "title": "Google is building a home for everything you've asked Gemini to remember",
@@ -85,6 +67,33 @@
       "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/06/Google-Gemini-autocomplete-for-AI-queries-scaled.jpg"
     },
     {
+      "title": "Gemini Live redesign makes it easier to add context to chats",
+      "url": "https://9to5google.com/2026/10/26/gemini-live-plus-redesign/",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "published_iso": "2026-10-26T19:00:50+00:00",
+      "excerpt": "Following the other big interface updates this month, Google is rolling out a small 'plus' redesign to Gemini Live on Android...",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-live-2.jpg?quality=82&strip=all&resize=1200,628"
+    },
+    {
+      "title": "INMO GO3 smart glasses pack a display and Gemini integration with clever camera privacy",
+      "url": "https://9to5google.com/2026/10/21/inmo-go3-smart-glasses-pack-a-display-and-gemini-integration-with-clever-camera-privacy/",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "published_iso": "2026-10-21T22:45:00+00:00",
+      "excerpt": "INMO GO3 smart glasses put a display in the lens with real-time translation across 98 languages (13 offline) and an assistant powered by Gemini and ChatGPT, plus swappable batteries and a physical camera privacy shade.",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/inmo-go3-1.png?resize=1200,628"
+    },
+    {
+      "title": "Google Maps on CarPlay rolling out Gemini when navigating",
+      "url": "https://9to5google.com/2026/10/21/google-maps-carplay-gemini/",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "published_iso": "2026-10-21T15:00:00+00:00",
+      "excerpt": "Google Maps in CarPlay now lets you access Gemini when using navigation for a conversational driving experience.",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-Google-Maps-CarPlay.jpg?quality=82&strip=all&resize=1200,628"
+    },
+    {
       "title": "Intel Arc B580 runs 125B AI model nearly 3x faster with XeStrata in new test",
       "url": "https://www.notebookcheck.net/Intel-Arc-B580-runs-125B-AI-model-nearly-3x-faster-with-XeStrata-in-new-test.1434389.0.html",
       "source": "Notebookcheck",
@@ -94,139 +103,31 @@
       "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/asrock-intel-arc-b580-challenger-12gb-xestrata1.jpg"
     },
     {
-      "title": "손도 없이 발로만…대형 큐브 맞춘 로봇견",
-      "url": "https://www.etnews.com/20261026000402",
-      "source": "전자신문",
+      "title": "[Hands-On] Comfort, Convenience, and More: A Day With Galaxy Buds On",
+      "url": "https://news.samsung.com/global/hands-on-comfort-convenience-and-more-a-day-with-galaxy-buds-on",
+      "source": "Samsung Global Newsroom",
       "category": "gadgets",
-      "published_iso": "2026-10-27T06:00:00+09:00",
-      "excerpt": "발만 이용해 대형 루빅스 큐브를 맞추는 사족보행 로봇이 등장했습니다. 스위스 ETH 취리히 연구진은 사족보행 로봇",
-      "og_image": "https://img.etnews.com/news/article/2026/10/26/news-p.v1.20261026.65245f6b7b7d4697976c8bf27b72a927_P1.jpg"
+      "published_iso": "2026-10-27T08:00:00+09:00",
+      "excerpt": "Samsung's first clip-on open-ear Galaxy Buds On launch in Korea with hands-free Gemini Live ('Hey Google, let's talk Live'), head-gesture call handling and up to 9.5 hours of playback.",
+      "og_image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26123413/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Thumb932.jpg"
     },
     {
-      "title": "Researchers develop a new forensic tool that can recover deleted AI chats from your phone’s memory",
-      "url": "https://www.digitaltrends.com/computing/researchers-develop-forensic-tool-orisa-to-recover-deleted-conversations-from-ai-chatbot-apps/",
-      "source": "Digital Trends",
+      "title": "Samsung to Launch First Clip-On Galaxy Buds Earphones",
+      "url": "https://www.thelec.net/news/articleView.html?idxno=14922",
+      "source": "The Elec",
       "category": "gadgets",
-      "published_iso": "2026-10-26T16:09:29-07:00",
-      "excerpt": "Think deleting an AI chat erases everything? Georgia Tech researchers developed a forensic tool that can recover deleted conversations from local AI apps and rebuild the information into a working session.",
-      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/recovering-deleted-ai-chats.jpg?resize=1200%2C630&ssl=1"
+      "published_iso": "2026-10-27T09:30:21+09:00",
+      "excerpt": "Samsung launches Galaxy Buds On, its first clip-on Galaxy Buds, in Korea on Oct. 27 at 299,000 won, with Gemini Live support when paired with a Galaxy AI phone; global markets follow.",
+      "og_image": "https://cdn.thelec.net/news/photo/202610/14922_15191_5154.jpg"
     },
     {
-      "title": "The hottest AI wearables and gadgets you should know about",
-      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-      "source": "TechCrunch",
+      "title": "Samsung has new clip-on buds, OnePlus has new clip-on buds — when do we say 'that's enough new open earbuds'?",
+      "url": "https://www.techradar.com/audio/earbuds-airpods/samsung-has-new-clip-on-buds-oneplus-has-new-clip-on-buds-when-do-we-say-thats-enough-new-open-earbuds",
+      "source": "TechRadar",
       "category": "gadgets",
-      "published_iso": "2026-10-25T14:10:00+00:00",
-      "excerpt": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2016/09/robocash.jpg?resize=1200,849"
-    },
-    {
-      "title": "INMO GO3 smart glasses pack a display and Gemini integration with clever camera privacy",
-      "url": "https://9to5google.com/2026/10/21/inmo-go3-smart-glasses-pack-a-display-and-gemini-integration-with-clever-camera-privacy/",
-      "source": "9to5Google",
-      "category": "gadgets",
-      "published_iso": "2026-10-21T22:45:00+00:00",
-      "excerpt": "There are two problems with smart glasses today. Most don’t deliver that futuristic display we all want to have, and...",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/inmo-go3-1.png?resize=1200,628"
-    },
-    {
-      "title": "One Kind Artifact unveils soothing Mori home companion robot",
-      "url": "https://www.notebookcheck.net/One-Kind-Artifact-unveils-soothing-Mori-home-companion-robot.1427426.0.html",
-      "source": "Notebookcheck",
-      "category": "gadgets",
-      "published_iso": "2026-10-22T15:00:00+02:00",
-      "excerpt": "The One Kind Artifact Mori home companion robot is designed to foster a greater sense of calm, relaxation, and connection to the world. Mori observes its owners using a camera and engages them with playful movements, lights, and nature sounds. Update: Final launch details including pricing.",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/One-Kind-Artifact-unveils-soothing-Mori-home-companion-robot.jpg"
-    },
-    {
-      "title": "Razer Basilisk V4 Pro Review: Tried and true and now with AI",
-      "url": "https://www.tomshardware.com/peripherals/gaming-mice/razer-basilisk-v4-pro-review",
-      "source": "Tom's Hardware",
-      "category": "gadgets",
-      "published_iso": "2026-10-23T16:00:00+00:00",
-      "excerpt": "Razer's Basilisk V4 Pro gaming mouse features an ergonomic shape, a lighter weight, and a couple of extra buttons, plus Razer's Focus Pro 50K optical sensor.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/WLV3Dh2bAiKLgohuRRaYY9-2560-80.jpg"
-    },
-    {
-      "title": "Those cute delivery robots could be the new Flock surveillance menace",
-      "url": "https://www.digitaltrends.com/computing/next-time-you-see-a-delivery-robot-maybe-hide-your-face/",
-      "source": "Digital Trends",
-      "category": "gadgets",
-      "published_iso": "2026-10-26T14:53:37-07:00",
-      "excerpt": "Food delivery robots from Coco Robotics and Serve Robotics face lawsuits alleging they collected facial and hand measurements without consent, raising questions about biometric privacy and public surveillance.",
-      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/DT-2026-10-27T031558.825.jpg?resize=1200%2C630&ssl=1"
-    },
-    {
-      "title": "Cybersecurity bounty hunter says Samsung TVs use AI to record audio and screenshots for ads — ",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting",
-      "source": "Tom's Hardware",
-      "category": "gadgets",
-      "published_iso": "2026-10-25T10:00:00+00:00",
-      "excerpt": "From tracking skipped ads to using connected soundbars as makeshift microphones",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/EiDyWR9Yo8wN9DnMZqQdJ4-2560-80.jpg"
-    },
-    {
-      "title": "Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle — firmware exploit doubles RTX 4090",
-      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx-3090-ti-matrix-math-up-to-80-percent",
-      "source": "Tom's Hardware",
-      "category": "gadgets",
-      "published_iso": "2026-10-26T11:00:00+00:00",
-      "excerpt": "Real workloads gain less than peak tensor rates, and chatbot token speeds stay about the same.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/4Yvp7ck4v6d8JPBoNXVPfe-2560-80.jpg"
-    },
-    {
-      "title": "Meta Finally Ditched the Cameras—and Made Its Best Smart Glasses Yet",
-      "url": "https://www.wired.com/review/ray-ban-meta-audio/",
-      "source": "WIRED",
-      "category": "gadgets",
-      "published_iso": "2026-10-24T05:15:00-04:00",
-      "excerpt": "No cameras? No problem. Ditching the surveillance baggage makes Meta’s audio-only frames surprisingly easy to live with.",
-      "og_image": "https://media.wired.com/photos/6adb65de4cb8f4b09a1af178/191:100/w_1280,c_limit/Ray-Ban%20Meta%20Audio%20-%20Lifestyle2.jpg"
-    },
-    {
-      "title": "Nirva raises $33M for a pendant that only listens to you",
-      "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
-      "source": "TechCrunch",
-      "category": "gadgets",
-      "published_iso": "2026-10-22T13:26:52+00:00",
-      "excerpt": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/Nirva-pendant.jpg?resize=1200,675"
-    },
-    {
-      "title": "The Alexa Tablet 12 Pro has strong Alexa+ integration — but it’s the hardware that won me over",
-      "url": "https://www.tomsguide.com/computing/android-tablets/amazon-alexa-tablet-12-pro-review",
-      "source": "Tom's Guide",
-      "category": "gadgets",
-      "published_iso": "2026-10-25T06:00:00+00:00",
-      "excerpt": "Not just another Android tablet",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/pyS5Kj6DeHhWa9ueJUXHoc-2560-80.jpg"
-    },
-    {
-      "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
-      "url": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
-      "source": "Ars Technica",
-      "category": "gadgets",
-      "published_iso": "2026-10-16T19:11:50+00:00",
-      "excerpt": "The bug is fixed, but privacy concerns remain.",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/unnamed-1-875x648.jpg"
-    },
-    {
-      "title": "Gemini on Android Auto can access my photos, emails, and calendar now - why I'm OK with that (mostly)",
-      "url": "https://www.zdnet.com/tech/gemini-on-android-auto-can-look-through-my-photos-emails-and-calendar-now-im-cautiously-optimistic/",
-      "source": "ZDNET",
-      "category": "gadgets",
-      "published_iso": "2026-10-20T16:00:00-04:00",
-      "excerpt": "The latest Android Auto update lets the AI assistant tap into your Google services for context-based responses.",
-      "og_image": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_4285.jpeg"
-    },
-    {
-      "title": "Tailored for Every Home: Samsung “The Brief” Goes Global With AI-Powered Home Appliances",
-      "url": "https://news.samsung.com/global/tailored-for-every-home-samsung-the-brief-goes-global-with-ai-powered-home-appliances",
-      "source": "Samsung Newsroom",
-      "category": "gadgets",
-      "published_iso": "2026-10-20T08:00:31+09:00",
-      "excerpt": "Samsung Electronics hosted \"The Brief,\" a series of home appliance tech seminars across fi",
-      "og_image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/19163329/Samsung-Corporate-The-Brief-Global-with-AI-Powered-Home-Appliances_Thumb932.jpg"
+      "published_iso": "2026-10-26T10:48:18Z",
+      "excerpt": "Two more ear cuff-style open earbuds have launched, from Samsung and OnePlus — neither of which are available in the west yet — but it",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/7Eiej3j97RTPjHg4crWdvk-2000-80.jpg"
     }
   ]
 }

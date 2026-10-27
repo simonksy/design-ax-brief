@@ -9507,6 +9507,136 @@
           "x": "著者らはこの結果を仮説を生むためのものと位置づけている。エージェントはプロンプトで設定され、意見は五つのカテゴリーで表され、同じ介入が人間にも効くことを示すものではない。"
         }
       ]
+    },
+    "science/spine": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus.jpg",
+          "cap": "ICARUS検出器の内部。Credit: CERN"
+        },
+        {
+          "t": "p",
+          "x": "SLAC National Accelerator Laboratoryの研究者らは、液体アルゴン時間投影チェンバーのデータを解析する機械学習プログラムSPINE(Scalable Particle Imaging with Neural Embeddings)を開発した。シミュレーションした検出器画像から学習し、粒子を識別してその軌跡をたどり、粒子を生んだ相互作用を組み立て直す。"
+        },
+        {
+          "t": "p",
+          "x": "SPINEは特化型アルゴリズムを硬直的に連ねる代わりに、複数の機械学習モデルを連携させる。まず画像の基本的な特徴を見つけ、次に個々の粒子を識別し、最後に相互作用の全体像を再構成する。現在、約25の機関にまたがる八つの検出器で運用されている。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus-1.jpg",
+          "cap": "ICARUSは760トンの液体アルゴンを収容する。Credit: Al Johnson/Fermilab"
+        },
+        {
+          "t": "p",
+          "x": "ICARUS初のニュートリノ物理の成果である、ミューニュートリノ消失によるステライルニュートリノ探索(arXiv, DOI: 10.48550/arxiv.2603.22557)では、そうした信号の証拠は見つからなかった。SPINEは従来の再構成より使えるニュートリノ相互作用を約60%多く回収し、サンプルはより純度が高く、エネルギー分解能は向上し、系統的不確かさは減った。"
+        },
+        {
+          "t": "p",
+          "x": "チームはDUNEの前置検出器と後置検出器向けにもSPINEモデルを学習させた。前置検出器では、重なり合う数百の相互作用を扱える現時点で唯一の手法だ。“道具はできた。あとはそれが何を発見するかを見るだけだ”と主任開発者のFrançois Drielsmaは語った。"
+        }
+      ]
+    },
+    "science/kls-conjecture": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-BlogHeroFeature-1400x788-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "1995年に提唱されたKannan–Lovász–Simonovits(KLS)予想は、広いクラスの高次元確率分布において、最良の超平面による切断が、どんな形の最良の切断と比べても常にほぼ同等に有効かどうかを問う。Microsoft ResearchのXinzhi Zhangを含む二人の研究者がこれを証明し、次元にかかわらず固定された上界でこの関係が成り立つことを示した。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-illustration-scaled.png",
+          "cap": "図1:正四面体上でのKLS予想(簡略化)の図解。"
+        },
+        {
+          "t": "p",
+          "x": "著者らは人間が主導する構造化されたプロセスでAIエージェントと協働し、100を超える候補手法を探って、再帰的に適用できる新たな基準を得た。再帰的な精緻化全体を繰り返すことで蓄積誤差を普遍定数で抑え、2026年10月4日版の論文で証明を完成させた。"
+        },
+        {
+          "t": "p",
+          "x": "同じ日に別のグループも並行して完全な証明を投稿し、三つ目の証明は密接に関連するアイデアに基づいている。その後Lean 4による形式化も行われた。いくつかの主要AIモデルにほぼ同じトークン予算で誘導なしに挑ませた試みは届かなかった。成功はAIシステムと研究者の数学的判断の両方にかかっていた。"
+        }
+      ]
+    },
+    "science/nrps-enzyme": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-aids-in-the-develop.jpg",
+          "cap": "Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77963-6"
+        },
+        {
+          "t": "p",
+          "x": "Dr. Kenan Bozhüyük率いるHelmholtz Institute for Pharmaceutical Research Saarland(HIPS)の研究者らは、AIを用いて非リボソームペプチド合成酵素(NRPS)の新たなタンパク質構成要素を開発した。NRPSは、数多くの抗生物質や免疫抑制剤、抗がん剤のもととなる天然化合物を作る、分子の組み立てラインのように働く酵素複合体だ。"
+        },
+        {
+          "t": "p",
+          "x": "チームは複数の事前学習済みAIモデルと実験を組み合わせ、中間体を受け渡す運搬アームであるチオール化ドメイン(T-domains)を76個新たに設計し、数百のNRPS変異体を作って生きた細胞で試験した。"
+        },
+        {
+          "t": "p",
+          "x": "いくつかの設計は機能した。一部は天然の変異体と比べて収率を最大三倍に高め、少なくとも一つは溶解性と熱安定性がより高かった。鍵となったのは、各構成要素を隣接する領域に合わせて調整したことだ。"
+        },
+        {
+          "t": "p",
+          "x": "“AIは実験に取って代わるものではないが、多数の候補となる変異体の中から有望なものをより速く選ぶ助けになる”とBozhüyükは語る。Nature Communications (2026), DOI: 10.1038/s41467-026-77963-6."
+        }
+      ]
+    },
+    "science/llm-empathy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-framework.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Georgia Techの研究者らは、LLMでモデルを監査し、文書や会話記録などのデータ源が出力に与える影響を推定するニューラルフレームワークを開発した。学習データが共感や社会的推論をどう形づくるかを調べるためだ。"
+        },
+        {
+          "t": "p",
+          "x": "“社会的推論が得意なモデルほど、人間の感情に関する教科書よりもFAQsや顧客対応の対話に頼る”と筆頭著者のGlenn Matlinは述べた。“怒りを説明する文章をいくら読んでも、相手が怒っているかどうかを見極める助けにはならない”"
+        },
+        {
+          "t": "p",
+          "x": "監査の対象は、学習データが十億件を超える文書からなるAi2のオープンソースモデルOlmo 3だ。ChatGPTとClaudeは学習データを開示していない。指導教員(Adviser)のMark Riedlは、モデルが共感を学ぶ文書をエンジニアが増やしたり減らしたりできると述べた。論文はConference on Language Modelingで発表された(arXiv, DOI: 10.48550/arxiv.2606.19625)。"
+        }
+      ]
+    },
+    "science/science-hydrogen-catalyst": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ahead-of-their-time.jpg",
+          "cap": "CarbonCat-LLMsフレームワークの模式図。few-shot学習の有無によるGPT-4oモデルの精度とF1-scoreを比較している。Credit: ACS Catalysis"
+        },
+        {
+          "t": "p",
+          "x": "ARC Centre of Excellence for Carbon Science and Innovationの研究者は、大規模言語モデルを使って科学文献を掘り起こし、有望な電極触媒である水素製造用の炭素担持高エントロピー合金を探した。"
+        },
+        {
+          "t": "p",
+          "x": "研究チームはAIの出力例100件を手作業で評価してシステムを改良し、その後システムは5,000本を超える研究論文から情報を抽出した。"
+        },
+        {
+          "t": "p",
+          "x": "2017年までの知識に制限すると、システムは合金CrCoFeMnNiを挙げた。この合金はその後、水素電極触媒における高エントロピー合金の初期の例として実験的に報告された。"
+        },
+        {
+          "t": "p",
+          "x": "研究は計算によるもので、新たに提案された候補材料や、水素のコスト・性能面での改善は未検証である。著者らは、この手法がCO₂還元、さらには新しい反応の発見にも広がりうると示唆している。"
+        },
+        {
+          "t": "p",
+          "x": "Yiran Jiao et al.による研究で、ACS Catalysis (2026)に掲載された。DOI: 10.1021/acscatal.6c00635."
+        }
+      ]
     }
   }
 }

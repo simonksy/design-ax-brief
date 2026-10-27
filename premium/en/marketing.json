@@ -2539,6 +2539,206 @@
           "x": "\"Because review summaries represent user feedback, advertisers cannot directly edit or customize the generated text,\" according to Google. The page cites no test results or uplift figures, and does not say whether account-level automated asset controls apply. The format has been tested in live results since December 2025."
         }
       ]
+    },
+    "marketing/shopifykb": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shopify-knowledge-base-admin.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Shopify has replaced its standalone Knowledge Base app with the now included Merchant Admin knowledge base for AI shopping agents. According to Shopify's October 26 Changelog, the previous app will no longer be available after January 15, 2027."
+        },
+        {
+          "t": "p",
+          "x": "The knowledge base (Sales channels > Agentic > Knowledge base) holds the non-product information an AI agent may need to answer customer questions about a store, such as return policy, shipping times and brand values. Store Policies and Contact Info are published automatically when created."
+        },
+        {
+          "t": "p",
+          "x": "Information is organized into ten categories, drawn from storefront scans, Shopify admin settings or manual input. Facts found by a storefront scan stay unpublished until the merchant publishes them. Each store's published knowledge base is \"publicly available through the Storefront MCP\" for AI apps such as the Shop app and third-party platforms."
+        },
+        {
+          "t": "p",
+          "x": "Merchants with more than 1,000 facts in the old app did not have them transferred and must re-enter the facts they want to keep before Jan. 15, 2027. Smaller merchants' facts were moved and published automatically."
+        },
+        {
+          "t": "p",
+          "x": "Bill Hunt tested 122 Shopify stores; of the 88 whose policy tool he queried, two returned a usable answer about canceling an order."
+        }
+      ]
+    },
+    "marketing/indentm": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/10/27/news-p.v1.20261027.aa99c1fb6d07482b8fa165890af22d18_P1.png"
+        },
+        {
+          "t": "p",
+          "x": "Indent Corporation has unveiled 'Indent M,' an artificial intelligence (AI) agent that supports the planning and execution of influencer marketing in 72 countries worldwide."
+        },
+        {
+          "t": "p",
+          "x": "Speaking at the 'Indent M launch press conference' held on the 27th at PR Bridge Storium in Seodaemun-gu, Seoul, Indent Corporation CEO Yoon Tae-seok said, \"Our vision is to build an engine that lets a 1-person brand reach 1조원 (one trillion won) in sales,\" adding, \"To that end, we are launching Indent M, in which AI takes over the repetitive operational work of human marketers.\""
+        },
+        {
+          "t": "p",
+          "x": "Indent M is an AI agent that finds creators and runs campaigns according to a marketing strategy. It supports global influencer marketing in 72 countries across fields such as beauty, food, fashion and lifestyle."
+        },
+        {
+          "t": "p",
+          "x": "\"When brands expand overseas, even large companies and major agencies often rely on local agencies in countries other than the U.S. and Japan,\" Yoon said. \"Indent M's strength is that AI, not people, directly executes marketing in 72 countries around the world, so there is no language barrier.\""
+        },
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/10/27/news-p.v1.20261027.c5b3f37542e74c1e97b9f0166a44515b_P1.png"
+        },
+        {
+          "t": "p",
+          "x": "Yoon defined the trend of AI automation technology combining with content commerce as 'commerce generation 4.5.' Where the existing generation 4 drove consumer purchases through creators' content, generation 4.5 uses AI to automate the repetitive work of marketing planning and execution and of campaign execution."
+        },
+        {
+          "t": "p",
+          "x": "The core strategy is 'Viral Seeding.' Content from similar creators is posted in concentrated bursts to drive spread on social media. A typical case is a K-beauty brand that gained word of mouth on TikTok, entered Amazon's top sellers and went on to win purchase orders from local retailers."
+        },
+        {
+          "t": "p",
+          "x": "The problem is that as campaigns grow, so do the staff and time needed to search for and recruit creators and to manage content. Yoon explained that AI can review about ten million (1000만) creators in 1 minute, reducing the operational burden of large-scale marketing."
+        },
+        {
+          "t": "p",
+          "x": "Indent M was developed on the company's own influencer marketing platform, 'Spray IO.' It reflects experience from the past 3 years of collaborations with more than 100 brands, on more than 930 campaigns and more than eighty thousand (8만) pieces of content."
+        },
+        {
+          "t": "p",
+          "x": "When product, country and campaign conditions are entered in natural language, the AI selects suitable creators and executes the marketing. Performance can be compared creator by creator based on forecast data such as expected views and sales impact."
+        },
+        {
+          "t": "p",
+          "x": "Indent Corporation links Indent M with its global sales and logistics platform 'Indent O.' Built on the direct-to-consumer (D2C) service 'Bobushop,' Indent O supports sales page creation, multilingual localization, and payment and shipping integration."
+        },
+        {
+          "t": "p",
+          "x": "\"We will lower the barriers to global marketing not only for small and midsize brands but also for large brands, and build a commerce environment that connects everything from marketing to sales and logistics,\" Yoon said."
+        }
+      ]
+    },
+    "marketing/dailymailgeo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-identity-digiday.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The Daily Mail is running around a dozen GEO tests to work out what works before turning its AI visibility offering into an official product early next year."
+        },
+        {
+          "t": "p",
+          "x": "Director of SEO and editorial ecommerce Carly Steven said at Digiday's Media Strategies London event that the publisher has between 12 and 15 tests underway across the U.S., U.K. and Australia, as brands increasingly ask how they can appear in AI-generated answers. \"Brands are coming to us already and saying, 'we want to be in these spaces [AI surfaces]. We know that our customers are here. How can you help us?'\""
+        },
+        {
+          "t": "p",
+          "x": "The tests identify prompts consumers might use, track them across AI platforms over time, look at which sources are cited and create bespoke branded content where there's an opportunity. In one early test for an unnamed personal finance brand, visibility across the target prompts rose from about 50% to nearly 75%."
+        },
+        {
+          "t": "p",
+          "x": "Proving commercial impact is harder. One brand found Claude accounted for just 0.1% of referrals in its analytics but around 11% of conversions after reviewing customer survey responses."
+        },
+        {
+          "t": "p",
+          "x": "Future's GEO product has more than 30 clients, Ziff Davis says it has multiple GEO clients, and Forbes is turning AI-search visibility into a consultative offer for brand partners."
+        }
+      ]
+    },
+    "marketing/fakeaireviews": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.sbs.co.kr/newimg/news/20261028/202235419_1280.jpg"
+        },
+        {
+          "t": "p",
+          "x": "It has been revealed that a significant number of ordinary consumer review ads easily found on YouTube are fabricated using AI."
+        },
+        {
+          "t": "p",
+          "x": "The review claiming a reduction in waist size was confirmed to be a fake video created using AI."
+        },
+        {
+          "t": "p",
+          "x": "An analysis of YouTube advertisements conducted by the Korea Consumer Agency over a nine-month period up to June uncovered 420 AI-manipulated ads."
+        },
+        {
+          "t": "p",
+          "x": "By utilizing AI, appearances such as height and weight can be easily altered using just a single photo. Among the fake ads caught this time, exaggerating physical changes in this manner was the most common case, accounting for 171 instances."
+        },
+        {
+          "t": "p",
+          "x": "A testimonial ad claiming that an adult whose growth plates have closed grew 6 cm taller after taking a height-increase supplement. This is also an AI fabrication."
+        },
+        {
+          "t": "p",
+          "x": "[Choi Byung-ho / Professor, Korea University Human-Inspired AI Research Institute: This is something that cannot be stopped now. Because the cost of creating AI videos is getting cheaper and the technology is becoming democratized, we have reached a situation where anyone can make them.]"
+        },
+        {
+          "t": "p",
+          "x": "When YouTube was once flooded with fake AI doctor ads, the government announced late last year that it would introduce a labeling system for AI-generated content. However, the implementation of the system has been delayed, and the issue has now spread to fabricated reviews from ordinary consumers."
+        },
+        {
+          "t": "p",
+          "x": "YouTube stated that it promptly removes such videos upon requests from the Korea Consumer Agency, but it has not introduced measures to proactively detect and block manipulated videos on its own."
+        }
+      ]
+    },
+    "marketing/marketing-chatgpt-ads-amazon-dsp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-floating-chat-boxes-A8gbToHE.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI seems to be rolling out a new ad format for some ChatGPT Ad units that have a Learn more link, that is dotted and underlined, and also with an arrow going upwards.  And in some cases, ChatGPT Ads seem to be served with Amazon DSP."
+        },
+        {
+          "t": "p",
+          "x": "The new design for the ChatGPT ad units were spotted by Bordie Clark who posted screenshots on X and on SERP Alert, he said \"ChatGPT is now experimenting with a new ad format that features a learn more link with an arrow within text-based ads.  Within this new ad format, the 'learn more' text also features a dotted underline.\""
+        },
+        {
+          "t": "p",
+          "x": "Here is a screenshot that I see myself:"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-ads-learn-more-link-xA1W3tjY.png"
+        },
+        {
+          "t": "p",
+          "x": "The Learn more link does not show on all ads..."
+        },
+        {
+          "t": "p",
+          "x": "Juozas Kaziukėnas posted on LinkedIn that some of these ChatGPT Ads are \"served by Amazon DSP.\" He said he sees this \"because the click target URL goes through Amazon's click-tracking server.\""
+        },
+        {
+          "t": "p",
+          "x": "Here is his screenshot showing the link:"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-ads-amazon-dsp-uHnh0Mix.jpg"
+        },
+        {
+          "t": "p",
+          "x": "He added, \"There is barely any detail on how this integration works - and I've not seen any other advertisers use it yet - but I think it is clear that Amazon is not going to be running Amazon ad formats inside of ChatGPT. Advertisers will buy ads through DSP (including feed-based ads?) and DSP will do targeting (most likely?) but creative control is the same as regular ChatGPT ads.\""
+        },
+        {
+          "t": "p",
+          "x": "Super interesting..."
+        }
+      ]
     }
   }
 }

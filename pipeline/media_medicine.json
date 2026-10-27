@@ -1,31 +1,31 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "section": "medicine",
   "media": [
     {
-      "id": "medicine-cari-heart",
+      "id": "medicine-azoospermia-sperm",
       "type": "image",
-      "src": "pipeline/media/medicine-cari-heart.jpg"
+      "src": "pipeline/media/medicine-azoospermia-sperm.jpg"
     },
     {
-      "id": "medicine-heidi-scribe",
+      "id": "medicine-chatgpt5-fracture",
       "type": "image",
-      "src": "pipeline/media/medicine-heidi-scribe.jpg"
+      "src": "pipeline/media/medicine-chatgpt5-fracture.jpg"
     },
     {
-      "id": "medicine-pa-ai-disclosure",
+      "id": "medicine-ich-triage",
       "type": "image",
-      "src": "pipeline/media/medicine-pa-ai-disclosure.jpg"
+      "src": "pipeline/media/medicine-ich-triage.jpg"
     },
     {
-      "id": "medicine-coreline-aorta",
+      "id": "medicine-mmc-drift",
       "type": "image",
-      "src": "pipeline/media/medicine-coreline-aorta.jpg"
+      "src": "pipeline/media/medicine-mmc-drift.png"
     },
     {
-      "id": "medicine-night-shift",
+      "id": "medicine-uhc-avery",
       "type": "image",
-      "src": "pipeline/media/medicine-night-shift.jpg"
+      "src": "pipeline/media/medicine-uhc-avery.jpg"
     }
   ]
 }

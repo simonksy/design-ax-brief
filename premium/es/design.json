@@ -9626,6 +9626,123 @@
           "x": "Su regla: crear funciones con AI, no funciones de AI, como Smart Compose o la herramienta Remove de Photoshop. Antes de lanzar algo, hay que preguntarse quién lo pidió, a qué debe su nombre, si se lanzaría desactivado por defecto y si sobreviviría a precio de costo."
         }
       ]
+    },
+    "design/figma-agent-shaders": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "BS-N-AM5ql4"
+        },
+        {
+          "t": "p",
+          "x": "Bienvenidos a Figma on Figma, la serie en la que mostramos cómo usamos nuestras propias herramientas en el trabajo diario, o simplemente enseñamos algo interesante. En este episodio, Brett McMillin, Designer Advocate, explica cómo usa el agente de Figma con movimiento y efectos de shaders personalizados para explorar nuevas ideas creativas."
+        },
+        {
+          "t": "p",
+          "x": "00:00 – Intro, Brett McMillin · 00:45 – Explorando un ejemplo de movimiento y shaders en Figma · 01:45 – Automatizar el movimiento con el agente de Figma · 02:45 – Generación de shaders personalizados · 03:00 – Apilar efectos integrados (Built-in) y personalizados · 03:28 – Refracción de luz en tiempo real (Real-time) a través del vidrio"
+        }
+      ]
+    },
+    "design/etsy-ai-photos": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/uzZxJaKSXhN5uxfLGfsSNd-1600-80.jpg",
+          "cap": "James Ossman, de Etsy, explicó las nuevas reglas de la plataforma en un video de YouTube (Image credit: Etsy)"
+        },
+        {
+          "t": "p",
+          "x": "Cuando un mercado centrado en el diseño artesanal necesita una norma que prohíba las fotos falsas, algo ha salido mal. Entonces, ¿por qué Etsy les dice de repente a sus vendedores: \"La foto del producto que vendes debería ser realmente la foto del producto que vendes\"?"
+        },
+        {
+          "t": "p",
+          "x": "La semana pasada, el mercado de productos artesanales anunció que cada anuncio debe incluir ahora al menos una foto sin editar del artículo real, tomada sobre un fondo real. También prohibió expresamente el uso de generadores de imágenes con AI para patrones, recetas e instrucciones para clientes, y vetó los anuncios creados por bots. El arte generado con AI (AI-generated) sigue estando permitido en Etsy, pero los vendedores deben indicarlo con claridad."
+        },
+        {
+          "t": "video",
+          "yt": "QHMQbCF5PeM"
+        },
+        {
+          "t": "p",
+          "x": "Etsy tenía que hacer algo, porque las quejas aumentan rápidamente. La creadora Kara Lynne escribió en X: \"No puedo explicar lo exasperante que ha sido comprar un patrón de crochet, abrir el PDF y darme cuenta de que está totalmente hecho con AI (AI-generated), no tiene sentido y definitivamente no coincide con cómo debería ser el producto terminado.\""
+        },
+        {
+          "t": "p",
+          "x": "Etsy sigue así a Spotify, que retiró 50 millones de pistas de AI; a Snap, que mantiene el contenido gen-AI fuera de sus recomendaciones, y a LinkedIn, que añadió un botón para denunciarlo. Las nuevas reglas no lo resolverán todo, pero reconocen que, cuando la gente compra algo \"hecho a mano\", quiere saber si realmente lo hizo una persona."
+        }
+      ]
+    },
+    "design/edenlive": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "NbWLqOfP3XI"
+        },
+        {
+          "t": "p",
+          "x": "Vast AI Research, el equipo de investigación detrás de la plataforma de 3D generativo Tripo, ha lanzado EdenLive, un nuevo renderizador generativo en tiempo real y de código abierto. Forma parte de Project Eden, el modelo de mundo de Vast AI Research para entornos interactivos, y requiere una escena 2D o 3D o un video de referencia, un primer fotograma objetivo y un prompt de texto."
+        },
+        {
+          "t": "p",
+          "x": "El modelo “transforma visuales toscos … en videos más ricos y detallados”: por ejemplo, convierte previs o animación con calidad de videojuego en un resultado más fotorrealista. EdenLive solo genera video en resolución 480p o 720p, por lo que sus aplicaciones prácticas son limitadas, pero es lo bastante rápido para funcionar en tiempo real."
+        },
+        {
+          "t": "p",
+          "x": "Según Vast AI, con los pesos del modelo 5B, EdenLive puede generar video 720p a “más de 24fps” en una sola GPU de consumo de gama alta NVIDIA GeForce RTX 5090. Entre los casos de uso está convertir blockouts en previs de alta calidad o en avances de animación. El código fuente está disponible bajo licencia Apache 2.0; los pesos de los modelos 5B y 14B están en Hugging Face."
+        },
+        {
+          "t": "p",
+          "x": "El mismo resumen de CG Channel también recoge Gaffer 1.7.5, que añade un servidor MCP para que los asistentes de AI puedan controlarlo, y KeenFace, una herramienta de navegador basada en AI (AI-powered) de KeenTools que genera cabezas 3D a partir de 2-15 imágenes de origen."
+        }
+      ]
+    },
+    "design/cli-anything": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/4585b919-e424-4ad3-8faf-651c238aaf56.png?fm=auto&w=1200&h=630&fit=crop"
+        },
+        {
+          "t": "p",
+          "x": "CLI-Anything es un proyecto de código abierto de HKUDS, el laboratorio de inteligencia de datos de la Universidad de Hong Kong (University of Hong Kong) que también creó LightRAG. Toma software de escritorio como GIMP, Blender y LibreOffice y genera una interfaz de línea de comandos completa que un agente de programación puede operar, con pruebas, documentación y un archivo de skill. El repositorio ha superado las 54,000 estrellas y se distribuye bajo licencia Apache 2.0."
+        },
+        {
+          "t": "p",
+          "x": "Los agentes de AI son buenos leyendo y escribiendo texto, no haciendo clic en píxeles. La automatización de GUI es lenta y se rompe cuando un elemento de la UI se mueve; la mayoría de las apps creativas no exponen una API nativa. Una CLI evita ambos problemas, y cada comando de CLI-Anything admite un flag --json para salida estructurada, además de un modo REPL con deshacer y rehacer."
+        },
+        {
+          "t": "p",
+          "x": "CLI Hub es un gestor de paquetes para CLIs que otros ya han creado, entre ellas Blender, Inkscape, Audacity, OBS Studio, LibreOffice, Kdenlive, draw.io, ComfyUI y FreeCAD. Las CLIs generadas llaman por debajo a la aplicación real, así que la GIMP CLI sigue necesitando que GIMP esté instalado."
+        },
+        {
+          "t": "p",
+          "x": "El generador de CLI, un plugin para Claude Code que también es compatible con Cursor, Codex y Open Code, ejecuta un pipeline de siete fases; el proyecto informa de más de 2,400 pruebas superadas en unos 30 harnesses generados."
+        }
+      ]
+    },
+    "design/design-gemini-brand-style": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://designcompass.org/wp-content/uploads/2026/10/Gemini-Brand-Style-Remembered-1-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google presentó 'On-Brand Visuals', una función de Gemini para pequeñas empresas. Anunciada el 20 de octubre de 2026, es una herramienta que crea imágenes nuevas manteniendo el estilo de marca registrado por el usuario. Define una dirección visual a partir del sitio web, el kit de marca, la tipografía y la paleta de colores."
+        },
+        {
+          "t": "p",
+          "x": "Para generar imágenes utiliza el modelo Nano Banana 2.1. Gemini guarda los estilos configurados para crear las imágenes que requieren los lanzamientos de productos o las campañas de marketing. Así se reduce la necesidad de volver a subir las mismas directrices en cada tarea. Está pensada para ir más allá de usar los materiales de marca como referencia para imágenes individuales y permitir que sigan usándose en proyectos posteriores."
+        },
+        {
+          "t": "p",
+          "x": "También se ha preparado una pantalla de inicio específica para propietarios de pequeños negocios. Es un espacio para acceder a diversas tareas, como la construcción de marca, el análisis financiero y los datos de clientes. Además de Google Workspaces y las herramientas publicitarias, se pueden conectar aplicaciones externas como Adobe, Canva, Shopify y Wix."
+        },
+        {
+          "t": "p",
+          "x": "Esta función integra la coherencia visual de la marca en el proceso de generación de imágenes. Sin embargo, el anuncio oficial no incluyó resultados de verificación sobre la precisión con que respeta la forma de los logotipos o las reglas de uso tipográfico. Conviene comparar las imágenes generadas con las directrices originales antes de usarlas en contenido real. La pantalla de inicio para empresas y las nuevas aplicaciones conectadas llegarán de forma gradual a los usuarios de la app de Gemini en todo el mundo."
+        }
+      ]
     }
   }
 }
