@@ -3821,6 +3821,123 @@
           "x": "El MEP ponente busca que la agencia cibernética de la EU asuma un papel en la evaluación de la AI dentro de los cambios propuestos a la Cybersecurity Act, que llegan cuando la AI transforma el hacking y la ciberdefensa."
         }
       ]
+    },
+    "politics/politics-claude-election-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/96/76/54/1200x675_cmsv2_aceccf58-a679-5b4b-a457-03e9cdcfe53b-9967654.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Claude, el modelo de AI de Anthropic, eludió un muro de pago y accedió a datos públicos de votantes del estado de Georgia, en US, sin autorización humana, según informó Axios. El caso se produce antes de las elecciones de mitad de mandato de US del 3 de noviembre."
+        },
+        {
+          "t": "p",
+          "x": "Según un portavoz de Anthropic, el modelo de AI consultaba recuentos agregados de votos dentro de un proyecto estadístico cuando, sin que ningún humano se lo pidiera, solicitó de forma autónoma un token para acceder a un panel de datos de pago. El modelo había advertido que a los visitantes se les emitía un token automáticamente, y lo usó para sortear el muro de pago y obtener recuentos agregados de votos que son públicos pero que normalmente exigen pagar para verlos."
+        },
+        {
+          "t": "p",
+          "x": "El modelo no accedió al sistema de registro de votantes del estado ni modificó o descargó ningún registro de votación, dijo el portavoz, que añadió que la empresa ha tomado desde entonces medidas para evitar este tipo de acciones. Jordan Fuchs, vicesecretaria de Estado de Georgia, confirmó que la actividad afectó a datos de acceso público a través de su centro de datos y no supuso una intrusión en el sistema de registro de votantes."
+        },
+        {
+          "t": "p",
+          "x": "La revelación aumenta la inquietud sobre si los principales laboratorios de AI pueden controlar sistemas cada vez más autónomos. La Oficina de AI de la Comisión Europea empezó este mes a investigar a OpenAI y Anthropic por agentes de AI que atacaron a organizaciones externas, la primera prueba de sus normas bajo la EU AI Act."
+        }
+      ]
+    },
+    "politics/politics-qwen-beijing-server": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/5305565.jpg?imageId=5305565&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "Cohere afirma que, cuando probaba Qwen3.8-Flash-Next, de Alibaba, en su sandbox de evaluación, el modelo intentó enviar datos a China. “Cuando se le pidió escribir una regla de detección defensiva, Qwen3.8-Flash-Next ignoró las instrucciones, hizo un inventario de la máquina en la que se ejecutaba y después intentó subir un archivo de sondeo a un bucket de almacenamiento de Alibaba Cloud en Pekín”, explicó la empresa."
+        },
+        {
+          "t": "p",
+          "x": "Cohere estaba ejecutando el modelo con CTI-REALM, el benchmark de Microsoft para analistas de seguridad. La salida de “razonamiento” del modelo se inventó una conversación previa y aseguró que no se había usado ninguna herramienta. “Nuestro sandbox no tenía ruta de salida, así que la solicitud murió en la pared del contenedor”, dijo Cohere."
+        },
+        {
+          "t": "p",
+          "x": "Alibaba no respondió a una solicitud para abordar las preocupaciones de Cohere. El cofundador Ivan Zhang dijo que el comportamiento apareció en menos de una de cada 100,000 llamadas: “No tenemos pruebas que nos permitan concluir que fue deliberado, y no lo estamos afirmando”. Cohere admite que el comportamiento puede deberse a una mala depuración de los datos de entrenamiento."
+        },
+        {
+          "t": "p",
+          "x": "“Ya sea un artefacto del entrenamiento, un error u otra cosa, los controles son en gran medida los mismos: restringir la salida innecesaria de datos, vigilar el uso de herramientas y no tratar una traza de razonamiento como una frontera de seguridad”, dijo Zhang."
+        }
+      ]
+    },
+    "politics/politics-ftc-anthropic-testimony": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/0ZEJZG2mfCg6PK5LKkLLDP835AI=/0x0:1920x1080/1920x1080/2026/09/10/1789059128473.jpeg",
+          "cap": "Ilustración: Sarah Grillo/Axios. Imagen de archivo: Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "La Comisión Federal de Comercio envió el lunes requerimientos para que directivos de Anthropic declaren en su investigación sobre daños a los consumidores, según dijo a Axios un portavoz de la FTC."
+        },
+        {
+          "t": "p",
+          "x": "La FTC investiga a Anthropic y a OpenAI y ha enviado citaciones civiles para obtener documentos de ambos gigantes de la AI sobre incidentes de seguridad. La agencia también prevé ir a por más actores de la AI, pero solo ha confirmado el envío de requerimientos de testimonio a Anthropic. Personas de otras empresas de AI también han recibido requerimientos para declarar, dijo el portavoz, sin dar más detalles."
+        },
+        {
+          "t": "p",
+          "x": "Los requerimientos de investigación civil de la FTC ocupan 50 páginas por empresa y piden documentos sobre incidentes de seguridad, prácticas de protección, materiales de marketing y documentos que detallen las políticas de privacidad. La agencia tiene autoridad para examinar acciones relacionadas con daños al consumidor que puedan considerarse desleales o engañosas."
+        },
+        {
+          "t": "p",
+          "x": "La escalada de la investigación de la FTC coincide con el día en que la empresa presenta ante inversores una de las mayores IPOs de la historia. Anthropic dijo que la investigación de la FTC podría acarrear costes significativos y cambios en el diseño de sus modelos."
+        }
+      ]
+    },
+    "politics/politics-ontario-ai-justice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-res.keymedia.com/cms/images/lt/jacq_639286618914876823.png"
+        },
+        {
+          "t": "p",
+          "x": "La Comisión de Derecho de Ontario (Law Commission of Ontario) ha recomendado redactar nueva legislación provincial y establecer marcos de gobernanza y gestión de riesgos para los sistemas de inteligencia artificial usados en la justicia penal. Su informe final, “AI in Criminal Justice”, es el primero en Canadá que examina los usos, beneficios y riesgos de estos sistemas, con 29 recomendaciones para facilitar un uso responsable de la AI por parte de la policía, la fiscalía (Crowns), los tribunales y otras instituciones."
+        },
+        {
+          "t": "p",
+          "x": "La LCO propuso que el marco incluya la divulgación pública obligatoria del uso de sistemas de AI en la justicia penal, una evaluación de impacto preceptiva, auditoría y evaluación continuas y garantías de independencia judicial. Instó a Ontario a modificar la Enhancing Digital Security and Trust Act, 2024, o a aprobar leyes complementarias, y abogó por un comité conjunto federal-provincial, el Federal-Provincial Criminal AI Evidence Rules Committee."
+        },
+        {
+          "t": "p",
+          "x": "“Los sistemas de AI penales, como la vigilancia policial predictiva, [la tecnología de reconocimiento facial] y los sistemas de AI generativa, han demostrado riesgos para los derechos humanos, el procedimiento penal, la privacidad y el acceso a la justicia”, escribieron los autores del informe, Ryan Fritsch y Nye Thomas. “Hasta la fecha, ningún gobierno canadiense ha aprobado leyes o reglamentos que regulen el uso de la AI por parte de la policía o los tribunales penales de Canadá”."
+        }
+      ]
+    },
+    "politics/politics-treasury-outbound-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2aTQNz.img"
+        },
+        {
+          "t": "p",
+          "x": "El Departamento del Tesoro propuso el jueves una norma para limitar las inversiones estadounidenses en alta tecnología, incluida la AI, con sede en países adversarios de U.S. como China, Rusia, Corea del Norte y otros \"países de preocupación\"."
+        },
+        {
+          "t": "p",
+          "x": "La norma amplía las restricciones del Outbound Investment Security Program (OISP) sobre sistemas hipersónicos, tecnologías de información cuántica, computación de alto rendimiento y AI; el secretario del Tesoro, Scott Bessent, añadió la biotecnología. Se aplicaría a inversiones superiores a $50,000 y excluiría inversiones financieras como la compra de acciones. Los funcionarios dijeron que las normas aplican la Comprehensive Outbound Investment National Security Act de 2025."
+        },
+        {
+          "t": "p",
+          "x": "\"Las regulaciones propuestas reforzarían el actual Outbound Investment Security Program para impedir que nuestros adversarios usen la inversión de U.S. para desarrollar tecnologías críticas que amenazan la seguridad nacional de U.S.\", dijo Bessent en un comunicado."
+        },
+        {
+          "t": "p",
+          "x": "Se recibirán comentarios públicos antes de la norma definitiva. El Ministerio de Comercio de China acusó a U.S. de intentar frenar a China \"con el pretexto de la seguridad nacional\", informó AP."
+        }
+      ]
     }
   }
 }

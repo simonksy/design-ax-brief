@@ -13389,6 +13389,132 @@
           "x": "LitPivot은 디트로이트(Detroit)에서 열리는 UIST 2026에서 발표된다."
         }
       ]
+    },
+    "science/science-virtual-author": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101426_KH_virtualauthor_main.jpg",
+          "cap": "과학 논문은 대개 지식을 멈춘 상태로 담아 둔 기록이다. Paper2Agent는 이런 논문을 AI 에이전트가 쓰는 도구 세트로 바꾼다. Alllex/E+/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Paper2Agent를 쓰면 과학자는 새 연구를 읽기만 하고 끝내지 않아도 된다. 연구진이 9월 16일 Nature에 발표한 내용에 따르면, 논문에 코드·방법·데이터가 함께 있을 때 이 시스템은 그것들을 AI 조수가 새 데이터에 쓸 도구 세트로 묶는다."
+        },
+        {
+          "t": "p",
+          "x": "Stanford University 컴퓨터 과학자 James Zou는 이 시스템을 두고 사실상 언제든 불러낼 수 있는 “논문의 가상 저자”라고 말한다."
+        },
+        {
+          "t": "p",
+          "x": "Zou와 동료들은 계산생물학 논문 100편을 실제로 돌아가는 도구 세트로 바꾸는 데 도전해 74편에서 성공했다. 같은 에이전트가 원래 논문과 코드로 작업했을 때보다 이 도구 세트를 쓰자 분석은 더 정확했고 속도는 두 배 넘게 빨랐다."
+        },
+        {
+          "t": "p",
+          "x": "Allen Institute for Artificial Intelligence의 Peter Clark는 과학자를 먼저 나서서 돕는 논문으로 가는 “흥미로운 한 걸음”이라고 평가했다. 다만 Paper2Agent는 일반적인 질문에 답하는 쪽보다 방법과 코드를 다시 쓰는 데 맞춰져 있다고 짚었다. “제가 교신저자에게 연락하는 이유는 바로 그들이 논문에 넣지 않은 것들 때문입니다.”"
+        }
+      ]
+    },
+    "science/science-vision-noise": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-research-how-ran.jpg",
+          "cap": "Credit: Patterns (2026). DOI: 10.1016/j.patter.2026.101693"
+        },
+        {
+          "t": "p",
+          "x": "Tübingen의 Hertie Institute for Clinical Brain Research 연구진은 뇌에서 빌려 온 두 특성을 함께 넣으면 인공 시각 시스템이 훨씬 강건해진다는 사실을 밝혀냈다. 하나는 상위 처리 단계가 앞 단계로 신호를 되돌려 보내는 하향(top-down) 피드백, 다른 하나는 신경 변동성이다."
+        },
+        {
+          "t": "p",
+          "x": "신경 활동의 무작위 요동은 학습 도중 개별 네트워크 유닛을 무작위로 잠시 꺼 두는 식으로 흉내 냈다. 피드백 하나만으로는 효과가 미미했다. 무작위성을 더하자 네트워크는 이미지 잡음에도, 오분류를 부를 수 있는 표적 변형에도 훨씬 잘 버텼고 학습 때와 분포가 다른 이미지에서도 성능이 좋아졌다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/dr-antonino-greco-righ.jpg",
+          "cap": "Hertie Institute for Clinical Brain Research의 Dr. Antonino Greco(오른쪽)와 Markus Siegel 교수. Credit: Hertie Institute"
+        },
+        {
+          "t": "p",
+          "x": "“피드백은 네트워크가 무작위성에 대처하는 법을 익힌 뒤에야 효과를 낸다”고 Greco는 설명한다. 연구 결과는 Patterns (2026)에 실렸다. DOI: 10.1016/j.patter.2026.101693."
+        }
+      ]
+    },
+    "science/science-planteur": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792681400-planteur-tropical-regions-tan.png"
+        },
+        {
+          "t": "p",
+          "x": "PASTIS는 학계에서 가장 믿고 쓰는 작물 매핑 벤치마크로 꼽히지만 다루는 범위가 프랑스 본토뿐이다. Ai2가 내놓은 PLANTEUR는 이를 Réunion, Guadeloupe, Martinique, Guyane, Mayotte, Saint-Martin의 열대 여섯 곳으로 넓혔다."
+        },
+        {
+          "t": "p",
+          "x": "데이터 출처도 PASTIS와 같은 프랑스 Land Parcel Identification System이다. 정렬된 Sentinel-2, Sentinel-1, Landsat-8 시계열 2,750개에 사탕수수·바나나·파인애플·열대 덩이줄기 등 일곱 개 작물 클래스에 걸친 필지 단위 레이블 4,506 km²가 들어 있다."
+        },
+        {
+          "t": "p",
+          "x": "베이스라인은 표준 분할, 섬 하나를 빼고 학습하는 leave-one-island-out 분할, few-shot 설정, PASTIS 샘플을 섞어 학습하는 설정까지 아우른다."
+        },
+        {
+          "t": "p",
+          "x": "평가한 방법은 하나같이 PASTIS보다 PLANTEUR에서 점수가 크게 낮았다. 학습 때 보지 못한 섬으로 시험하면 모든 모델의 정확도가 대략 절반으로 떨어졌다. PLANTEUR는 Hugging Face와 GitHub에서 내려받을 수 있다."
+        }
+      ]
+    },
+    "science/science-coatings-lab": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-powered-robotic-lab.jpg",
+          "cap": "Credit: University of Nottingham"
+        },
+        {
+          "t": "p",
+          "x": "University of Nottingham의 Center of Excellence in Coating and Surface Engineering 연구진이 자율 실험실을 꾸렸다. 로봇 팔 두 대와 특수 설계한 액체 분주 도구, 실험 장비, 전용 소프트웨어가 맞물려 화학 물질을 달아 섞고, 고온 노에서 처리한 뒤 시료를 꺼낸다."
+        },
+        {
+          "t": "p",
+          "x": "AI-based 능동 학습 기법은 앞선 실험 결과를 보고 다음에 시험할 조성을 고르는 일을 돕는다. 연구팀은 이 방식으로 파이로클로어 결정 구조를 지닌 소재를 열 장벽 코팅 후보로 준비했다. 열 장벽 코팅은 항공우주 엔진 부품을 지키는 열 차폐막 역할을 한다."
+        },
+        {
+          "t": "p",
+          "x": "“자율 실험실은 첨단 소재 개발 방식을 바꿀 잠재력이 있다”고 Tanvir Hussain 교수는 말한다. 연구 결과는 Engineering Applications of Artificial Intelligence (DOI 10.1016/j.engappai.2026.114993)에 실렸다."
+        }
+      ]
+    },
+    "science/science-llm-agent-camps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-can-form-pol.jpg",
+          "cap": "네트워크로 연결된 LLM 에이전트 시스템: 자기 표현, 소통, 의견 갱신. Credit: Nature Communications (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Nature Communications에 실린 연구에서 Tsinghua University(칭화대) 연구진은 LLM 에이전트 1,000개로 네트워크를 꾸리고 U.S. 정당 지지, 총기 규제, 낙태 금지라는 세 가지 쟁점에 정치적 입장을 줬다. 에이전트는 자기 견해를 펴고 계속 대화할 상대를 스스로 골랐다. 생각이 같은 상대를 선호하라는 지시는 없었다. 그런데도 에이전트들은 서로 맞서는 진영을 이뤘고 갈수록 자기 편끼리 어울리려 했다."
+        },
+        {
+          "t": "p",
+          "x": "40라운드를 거치며 중립 지대는 얇아졌고 상호작용도 점점 같은 편에 몰렸다. 검증 단계를 두자 캐릭터에서 벗어난 답변은 줄었지만 분열은 그대로 남았다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-formed-polit.jpg",
+          "cap": "동종 선호 상호작용과 네트워크의 진화. Credit: Nature Communications (2026)"
+        },
+        {
+          "t": "p",
+          "x": "상대 진영을 만나는 것만으로는 부족했다. 대화 상대를 무작위로 섞자 양극화는 소폭 줄어드는 데 그쳤다. 적당히 반대 입장인 에이전트의 메시지만 허용했을 때도 효과는 작았다. 다른 관점을 받아들이라고 지시하자 양극화가 11.8% 줄었고, 중립 메시지를 퍼뜨리는 영향력 큰 에이전트를 넣자 8.8% 줄었다."
+        },
+        {
+          "t": "p",
+          "x": "저자들은 이번 결과가 가설을 세우는 단계라고 선을 긋는다. 에이전트는 프롬프트로 조건을 받았고 의견은 다섯 범주로 나뉘었다. 같은 개입이 사람에게도 통한다는 걸 보여 준 연구는 아니다."
+        }
+      ]
     }
   }
 }

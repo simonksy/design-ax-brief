@@ -2307,6 +2307,104 @@
           "x": "이 기기는 현재 U.S. 소비자에게 판매 중이며 해외 출시도 단계적으로 진행하고 있다."
         }
       ]
+    },
+    "medicine/medicine-heidi-scribe": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "외래 진료에 AI-driven 앰비언트 스크라이브를 쓰자 노트 작성 시간은 줄고 노트는 길어졌지만 다른 생산성 지표는 대체로 그대로였다는 연구 결과가 나왔다."
+        },
+        {
+          "t": "p",
+          "x": "보스턴 Beth Israel Deaconess Medical Center의 Jennifer P. Stevens, MD 연구팀에 따르면 임상의가 Heidi에 등록한 뒤 전체 사용자의 노트 작성 시간 중앙값은 21분에서 18.6분으로 줄었고, 노트 길이 중앙값은 4,854자에서 5,187자로 늘었다. 다만 당일 또는 근무 시간 외 노트 마감과 임상 생산성에는 차이가 없었다고 연구팀은 Annals of Internal Medicine에 보고했다."
+        },
+        {
+          "t": "p",
+          "x": "병원 14곳으로 이뤄진 Beth Israel Lahey Health 시스템에서 포함 기준을 충족한 임상의 902명 중 67.0%가 Heidi를 한 번 이상 썼다. 노트 작성 시간이 곧바로 줄어든 폭은 고빈도 사용자(-2.50분)가 등록 후 미사용자(-0.29분)나 저빈도 사용자(-0.78분)보다 유의하게 컸다."
+        },
+        {
+          "t": "p",
+          "x": "Rice University의 Kirsten Ostherr, PhD, MPH는 함께 실린 사설에서 이 연구가 Heidi 안에서 노트를 편집하는 데 든 시간을 반영하지 못했다고 짚으면서 이 점이 \"앰비언트 스크라이브가 문서 작업 부담을 줄이는 대신 다른 곳으로 옮기는 것은 아닌지에 대한 중요한 질문을 던진다\"고 썼다."
+        }
+      ]
+    },
+    "medicine/medicine-pa-ai-disclosure": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-03/istock-2214959014.jpg?h=140710cd&itok=VthZy7qr",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Pennsylvania 하원은 9월 30일 House Bill 1925를 144-59 표결로 통과시켰다. 의료기관의 공개 의무와 함께, 이용 심사에서 보험사의 AI 의존을 제한하는 조항이 담겼다. 수정된 법안은 10월 14일 상원 Institutional Sustainability and Innovation Committee로 넘어갔고, 지금은 상원에 계류돼 있다."
+        },
+        {
+          "t": "p",
+          "x": "법이 시행되면 영상센터를 포함한 의료기관은 진료 에피소드마다 한 번씩 웹사이트 게시와 서면 환자 안내로 임상 의사결정에 AI를 쓴다고 알려야 한다. AI 시스템 성능도 적어도 해마다 점검하고, 이 기술이 의료진의 독립적인 임상 판단보다 앞서지 않게 해야 한다."
+        },
+        {
+          "t": "p",
+          "x": "이용 심사 담당자는 사전 승인 거부처럼 불리한 보장 결정을 내리거나 유지하기 전에 사람이 감독하지 않은 AI 권고에 기대선 안 된다. 임상 기록을 직접 검토해 독립적으로 판단해야 한다. American College of Radiology는 2027년 주 의회 회기에도 비슷한 법안이 나올 것으로 내다본다."
+        }
+      ]
+    },
+    "medicine/medicine-coreline-aorta": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "한국 서울에 본사를 둔 AI 개발사 Coreline Soft가 흉부 CT로 대동맥을 정량 평가하는 소프트웨어 Aview Aorta Metrics의 U.S. 식품의약국(FDA) 510(k) 허가를 받았다."
+        },
+        {
+          "t": "p",
+          "x": "업체 설명으로는 이 소프트웨어가 흉부 CT 영상에서 대동맥을 자동 분할하고 대동맥 구역을 나눈 뒤 구역별 직경을 잰다. 직선화 곡면 재구성(straightened curved planar reformation)과 단면, 3D 뷰, 분석 보고서도 함께 제공한다고 Coreline Soft는 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "회사 측은 이번이 Coreline Soft의 13번째 FDA 510(k) 허가라고 밝혔다. Aview Aorta Metrics는 흉부 CT로 여러 질환을 분석하는 회사의 Aview 플랫폼에 들어간다. 플랫폼에는 폐결절 탐지·분석용 Aview LCS와 Aview Lung Nodule CAD, 비조영 흉부 CT로 관상동맥 칼슘 점수를 내는 Aview CAC가 있다."
+        }
+      ]
+    },
+    "medicine/medicine-night-shift": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "독일 Aachen University Hospital 연구진이 10월 22일 European Radiology에 발표한 연구를 보면, 야간 근무를 마치고 지친 영상의학과 전공의는 흉부 x-ray 판독 정확도가 크게 떨어졌고 AI는 별 도움이 되지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "영상의학과 전공의 열 명이 침상 흉부 x-ray 33장짜리 세트 세 개를 각각 판독했다. 두 번은 원내 first-call 야간 근무 전에, 한 번은 근무 직후에 읽었다. 근무 직후 판독은 연구팀이 앞서 개발한 모델의 AI 보조를 받을 때와 받지 않을 때로 나눴다."
+        },
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/ai-fatigue.c48mc7dd9z.jpg?auto=format%2Ccompress&fit=max&q=70&w=400",
+          "cap": "기술 구성과 화면 기반 시선 추적 기능을 갖춘 맞춤형 DICOM 뷰어. AI 보조 조건에서는 템플릿에 모델 제안이 미리 들어갔다. European Radiology"
+        },
+        {
+          "t": "p",
+          "x": "전공의 10명 중 여섯 명이 피로 상태로 분류됐다. 이들의 진단 정확도는 근무 후 κ 0.71에서 0.61로 유의하게 떨어졌고(p < 0.001), 피로하지 않은 판독자도 폭은 작지만 유의하게 하락했다(κ, 0.72에서 0.65). AI 보조는 두 그룹 어디서도 정확도를 유의하게 끌어올리지 못했다. 보고 시간이 9.9초 줄어든 것도 피로하지 않은 판독자뿐이었다."
+        },
+        {
+          "t": "p",
+          "x": "연구진은 \"야간 근무로 인한 피로는 보고 속도를 늦추지 않으면서 진단 정확도를 떨어뜨려 환자 안전 우려를 낳는다. 사용한 AI 모델은 근무 전 수준을 되찾아 주지 못했다\"고 밝혔다."
+        }
+      ]
+    },
+    "medicine/medicine-rivanna-boneenhance": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Rivanna가 Accuro XV 진단용 초음파 시스템에 들어가는 머신러닝 소프트웨어 모듈 BoneEnhance로 U.S. 식품의약국(FDA) 510(k) 허가를 받았다."
+        },
+        {
+          "t": "p",
+          "x": "회사 설명으로는 BoneEnhance가 시스템의 3D 프로브로 얻은 볼륨 데이터에서 뼈와 주변 조직을 찾아 2D B-mode 영상 위에 색깔별 오버레이로 표시한다. 원래 해부학 데이터는 그대로 보인다. Rivanna는 다섯 개 기관에서 모은 233개 볼륨 데이터셋으로 독립 테스트를 했고, 볼륨당 라벨 예측 정확도가 95.1%~100%였다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "Rivanna는 임상의가 초음파 영상으로 사지 골절 가능성을 가늠하도록 돕는 연구용 모듈도 개발 중이다. 이 작업에는 U.S. 생물의학첨단연구개발국(Biomedical Advanced Research and Development Authority)의 지원이 들어갔다고 회사는 밝혔다."
+        }
+      ]
     }
   }
 }

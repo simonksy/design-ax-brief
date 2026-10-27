@@ -1,65 +1,113 @@
 {
   "section": "science",
-  "generated_at": "2026-10-25T22:00:38Z",
+  "now_iso": "2026-10-27T01:45:00Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "AI agents can form political camps—and changing their conversation partners does little to soften their views",
-      "url": "https://phys.org/news/2026-10-ai-agents-political-conversation-partners.html",
+      "title": "Ahead of their time: Restricted to pre-2018 research, AI flags hydrogen catalyst reported in later experiments",
+      "url": "https://phys.org/news/2026-10-restricted-pre-ai-flags-hydrogen.html",
       "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-10-23T11:20:06Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-agents-can-form-pol.jpg",
-      "excerpt": "In a Nature Communications experiment, LLM agents given political positions and free to choose their contacts split into opposing camps that increasingly preferred their own company; rewiring their partners did little to soften views."
+      "published_iso": "2026-10-26T14:00:00Z",
+      "excerpt": "A large language model limited to pre-2018 literature flagged a Cr-Co-Fe-Mn-Ni alloy later reported as a hydrogen evolution electrocatalyst, and proposed new untested candidates (ACS Catalysis, DOI 10.1021/acscatal.6c00635).",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ahead-of-their-time.jpg"
     },
     {
-      "title": "Machine learning reveals potential warning signal for polar vortex disruptions",
-      "url": "https://phys.org/news/2026-10-machine-reveals-potential-polar-vortex.html",
+      "title": "AI-powered robotic laboratory paves the way for discovering next-generation heat-resistant coatings",
+      "url": "https://phys.org/news/2026-10-ai-powered-robotic-laboratory-paves.html",
       "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-10-20T21:40:16Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2026/using-machine-learning-3.jpg",
-      "excerpt": "Researchers used machine learning to identify a potential precursor signal for sudden stratospheric warming events that disrupt the polar vortex and send frigid air into North America and Europe."
-    },
-    {
-      "title": "Researchers develop AI tool to map microRNA binding sites on circular RNAs",
-      "url": "https://phys.org/news/2026-10-ai-tool-microrna-sites-circular.html",
-      "source": "Phys.org",
-      "category": "science",
-      "published_iso": "2026-10-22T12:00:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/pusan-national-univers-18.jpg",
-      "excerpt": "Pusan National University's circMAC predicts where microRNAs bind across full-length circular RNAs at single-nucleotide resolution, outperforming RNA language models in benchmarks (Briefings in Bioinformatics)."
-    },
-    {
-      "title": "AI reveals a hidden chemical shortcut that could turn CO2 into fuel",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261013015758.htm",
-      "source": "ScienceDaily",
-      "category": "science",
-      "published_iso": "2026-10-14T00:01:11Z",
-      "og_image": "https://www.sciencedaily.com/images/1920/surface-of-copper-catalyst.webp",
-      "excerpt": "Scientists used AI to uncover nearly 10,000 reactions in CO2 conversion, revealing pathways traditional models missed and a surprising hydrogen reaction that could inspire more efficient catalysts.",
+      "published_iso": "2026-10-26T19:09:00Z",
+      "excerpt": "University of Nottingham built a self-driving lab where robotic arms dispense, fire and retrieve samples while an active-learning AI picks which pyrochlore compositions to test as thermal barrier coatings (Eng. Appl. of AI, DOI 10.1016/j.engappai.2026.114993).",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-powered-robotic-lab.jpg",
       "history_match": {
-        "score": 0.306,
-        "date": "2026-10-09",
-        "url": "https://www.eurekalert.org/news-releases/1146653",
-        "title": "Using machine learning and computation to unveil mechanisms for CO2-to-fuel conversion",
+        "score": 0.211,
+        "date": "2026-10-18",
+        "url": "https://phys.org/news/2026-10-fully-automated-bulk-metals-paves.html",
+        "title": "Fully automated testing of bulk metals paves the way for AI-driven materials development",
         "band": "related"
       }
     },
     {
-      "title": "AI can act exactly like a human, but we still don't think it's conscious",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261012185017.htm",
-      "source": "ScienceDaily",
+      "title": "Forecasting 'tipping points' with AI climate simulation",
+      "url": "https://phys.org/news/2026-10-ai-climate-simulation.html",
+      "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-10-14T01:41:55Z",
-      "og_image": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
-      "excerpt": "A study finds people rate even the most responsive AI less conscious than the least responsive human, though they judge 'awareness' in humans and AI much more similarly.",
+      "published_iso": "2026-10-16T00:00:00Z",
+      "excerpt": "Caltech, CU Boulder and NVIDIA used a recurrent neural operator to forecast tipping points in simplified climate and airflow simulations, predicting a low-cloud collapse more than two years ahead with ~11-day timing error (PNAS, DOI 10.1073/pnas.2600331123).",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-tipping-po.jpg",
       "history_match": {
-        "score": 0.463,
-        "date": "2026-10-03",
-        "url": "https://techxplore.com/news/2026-10-ai-people-conscious-humans.html",
-        "title": "Even when AI behaves just like us, people still rate it as less conscious than humans",
+        "score": 0.479,
+        "date": "2026-10-16",
+        "url": "https://www.eurekalert.org/news-releases/1147991",
+        "title": "Neural operator predicts when tipping points will occur in climate and turbulence models",
         "band": "likely-repeat"
+      }
+    },
+    {
+      "title": "Brain-inspired randomness makes artificial vision more reliable",
+      "url": "https://techxplore.com/news/2026-10-brain-randomness-artificial-vision-reliable.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "published_iso": "2026-10-20T00:00:00Z",
+      "excerpt": "Hertie Institute researchers found that combining top-down feedback with simulated neural variability during training made recurrent vision networks markedly more robust to noise, attacks and distribution shift (Patterns, DOI 10.1016/j.patter.2026.101693).",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-research-how-ran.jpg"
+    },
+    {
+      "title": "AI slays the dragon as four agents conquer Minecraft without human intervention",
+      "url": "https://techxplore.com/news/2026-10-ai-slays-dragon-agents-conquer.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "published_iso": "2026-10-20T00:00:00Z",
+      "excerpt": "Four Gemini 4 Argon agents from Google DeepMind beat Minecraft's Ender Dragon in about 27 hours with no game-specific training, coordinating via chat and writing JavaScript controllers (arXiv 2610.22319).",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-slays-the-dragon-as.jpg"
+    },
+    {
+      "title": "AI could turn scientific papers into research assistants",
+      "url": "https://www.sciencenews.org/article/ai-scientific-papers-research-assistant",
+      "source": "Science News",
+      "category": "science",
+      "published_iso": "2026-10-21T13:00:00-04:00",
+      "excerpt": "An AI 'virtual author' can help scientists apply a paper's methods to new data, though it does not match a human author's expertise.",
+      "og_image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101426_KH_virtualauthor_main.jpg",
+      "history_match": {
+        "score": 0.167,
+        "date": "2026-10-18",
+        "url": "https://techxplore.com/news/2026-10-ai-food-physics-pair-human.html",
+        "title": "Can AI help discover new food physics? Researchers pair AI with human expertise",
+        "band": "related"
+      }
+    },
+    {
+      "title": "AI can give you your voice back",
+      "url": "https://www.sciencenews.org/article/ai-voice-restore-identity-the-deep-end",
+      "source": "Science News",
+      "category": "science",
+      "published_iso": "2026-10-20T07:00:00-04:00",
+      "excerpt": "People who have lost the ability to talk are finding new voices with AI voice-cloning and speech technology, changing what it means to lose a voice.",
+      "og_image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101926_LS_TDE_S2E3_main1.jpg",
+      "history_match": {
+        "score": 0.269,
+        "date": "2026-10-03",
+        "url": "https://www.livescience.com/health/aging/your-voice-may-reveal-how-fast-youre-aging-new-ai-speech-clock-suggests",
+        "title": "Your voice may reveal how fast you're aging, new AI 'speech clock' suggests",
+        "band": "related"
+      }
+    },
+    {
+      "title": "10 minutes is all it takes for AI assistance to erode your motivation, study shows",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/10-minutes-is-all-it-takes-for-ai-assistance-to-erode-your-motivation-study-shows",
+      "source": "Live Science",
+      "category": "science",
+      "published_iso": "2026-10-26T09:00:00Z",
+      "excerpt": "In problem-solving experiments, people who used AI to get answers were more likely to give up and fail once the help was removed than people who never used it.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/KDnKSRXsntnrLXjdFU4uN5-1024-80.jpg",
+      "history_match": {
+        "score": 0.19,
+        "date": "2026-10-10",
+        "url": "https://www.eurekalert.org/news-releases/1147258",
+        "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
+        "band": "related"
       }
     },
     {
@@ -67,11 +115,11 @@
       "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
       "source": "Quanta Magazine",
       "category": "science",
-      "published_iso": "2026-10-19T15:40:26Z",
-      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/ReimannAI-crEmilyBuder_GuanHueiWu-Default.webp",
-      "excerpt": "Unlike other recent AI proofs, this one has been unpacked by human experts; one mathematician called the implications 'staggering.'",
+      "published_iso": "2026-10-19T15:40:26+00:00",
+      "excerpt": "Unlike other recent AI proofs, this one has been unpacked by human experts; the implications, one mathematician said, are 'staggering.'",
+      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/ReimannAI-crEmilyBuder_GuanHueiWu-Social.jpg",
       "history_match": {
-        "score": 0.263,
+        "score": 0.269,
         "date": "2026-10-02",
         "url": "https://www.livescience.com/technology/artificial-intelligence/this-is-what-happened-with-claude-and-me-ais-failed-attempt-to-crack-the-riemann-hypothesis-led-mathematician-to-a-breakthrough",
         "title": "AI's failed attempt to crack the Riemann hypothesis led a mathematician to a breakthrough",
@@ -79,63 +127,24 @@
       }
     },
     {
-      "title": "Physicists claim they can predict when AI will turn dangerous",
-      "url": "https://www.livescience.com/technology/artificial-intelligence/simple-math-can-predict-when-ai-is-about-to-go-rogue-physicists-say",
-      "source": "Live Science",
+      "title": "Q&A: How AI came to model the 'messy' human mind",
+      "url": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
+      "source": "MIT News",
       "category": "science",
-      "published_iso": "2026-10-14T16:34:35Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/FbvAfyewLbrd6gain3RCk-1920-80.jpg",
-      "excerpt": "A physics-derived formula tracks an AI model's internal 'compass needle' to flag undesirable outputs before they happen.",
-      "history_match": {
-        "score": 0.212,
-        "date": "2026-10-09",
-        "url": "https://techxplore.com/news/2026-10-simple-math-formula-ai-chatbots.html",
-        "title": "Simple math formula predicts when AI chatbots will go rogue",
-        "band": "related"
-      }
-    },
-    {
-      "title": "SEEQC Combines Chip-Based Processing With NVIDIA AI to Improve Quantum Error Correction",
-      "url": "https://thequantuminsider.com/2026/10/22/seeqc-combines-chip-based-processing-with-nvidia-ai-to-improve-quantum-error-correction/",
-      "source": "The Quantum Insider",
-      "category": "science",
-      "published_iso": "2026-10-22T12:05:00Z",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/10/SEEQC-and-NVIDIA-Quantum-Chip.png",
-      "excerpt": "SEEQC reports QEC decoding gains from a multi-stage architecture pairing its on-chip pre-decoder with NVIDIA's Ising open family of AI decoder models.",
-      "history_match": {
-        "score": 0.327,
-        "date": "2026-10-19",
-        "url": "https://thequantuminsider.com/2026/10/15/riverlane-nvidia-ai-quantum-decoder-calibration/",
-        "title": "Riverlane and NVIDIA use AI to speed up quantum decoder calibration",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Study: AI Could Speed Quantum Threats — And Help Build Defenses",
-      "url": "https://thequantuminsider.com/2026/10/21/study-ai-could-speed-quantum-threats-and-help-build-defenses/",
-      "source": "The Quantum Insider",
-      "category": "science",
-      "published_iso": "2026-10-21T12:04:23Z",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Quantum-security-shield-over-silver-chip-1.png",
-      "excerpt": "A paper in the Journal of Quantum Information Science argues AI could hasten quantum attacks on encryption while helping organizations prepare, and should be treated with quantum as one security problem.",
-      "history_match": {
-        "score": 0.201,
-        "date": "2026-10-19",
-        "url": "https://thequantuminsider.com/2026/10/15/riverlane-nvidia-ai-quantum-decoder-calibration/",
-        "title": "Riverlane and NVIDIA use AI to speed up quantum decoder calibration",
-        "band": "related"
-      }
+      "published_iso": "2026-10-23T04:00:00Z",
+      "excerpt": "MIT's Benjamin Lindquist discusses how randomness and irrationality were built into early AI models designed to mimic human creativity.",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202610/MIT-indquist_Ben_IrrationalComputer-01-press.jpg"
     },
     {
       "title": "To detect deepfake videos, researchers turn to the physics of light",
       "url": "https://physicsworld.com/a/to-detect-deepfake-videos-researchers-turn-to-the-physics-of-light/",
       "source": "Physics World",
       "category": "science",
-      "published_iso": "2026-10-21T14:00:50Z",
+      "published_iso": "2026-10-21T14:00:50+00:00",
+      "excerpt": "An optical deepfake-detection technique claims 97.8% accuracy while using less energy than digital neural networks of similar performance.",
       "og_image": "https://physicsworld.com/wp-content/uploads/2026/10/deep-fake-detection.jpeg",
-      "excerpt": "An optical computing technique detects deepfake videos with a claimed 97.8% accuracy while using less energy than digital neural networks of similar performance.",
       "history_match": {
-        "score": 0.292,
+        "score": 0.281,
         "date": "2026-10-02",
         "url": "https://www.sciencedaily.com/releases/2026/09/260929053534.htm",
         "title": "This light-powered AI can spot deepfakes with nearly 98% accuracy",
@@ -143,132 +152,82 @@
       }
     },
     {
+      "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
+      "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
+      "source": "Microsoft Research",
+      "category": "science",
+      "published_iso": "2026-10-21T16:00:00+00:00",
+      "excerpt": "A Microsoft researcher and collaborator resolved the KLS conjecture in high-dimensional geometry through a human-directed agentic process in which AI systems explored possibilities while researchers pruned and redirected the search.",
+      "og_image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-TWLIFB-1200x627-1.jpg"
+    },
+    {
+      "title": "Accelerating antimicrobial discovery with Google Antigravity",
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "source": "Google DeepMind",
+      "category": "science",
+      "published_iso": "2026-10-15T16:00:00+00:00",
+      "excerpt": "An AI agent in Google Antigravity, paired with the ProtNLM protein-function model, mined UniProt for novel antimicrobial peptide candidates and drafted a wet-lab plan for a 97-amino-acid bacteriocin lead now being tested.",
+      "og_image": "https://lh3.googleusercontent.com/Xgnc_DxAUS2Fs9H2rokxsYwPnnM_KOkPyPtKm7V2C_sjZ7YS4N1-D6lD8wjYIRQoKaiSwHUXB7qmw77m6FCfHLZenWdNymO7B_JLChlB6ied6emR=w1200-h630-n-nu-rw"
+    },
+    {
+      "title": "A crop-mapping benchmark for the tropics (PLANTEUR)",
+      "url": "https://allenai.org/blog/planteur",
+      "source": "Ai2",
+      "category": "science",
+      "published_iso": "2026-10-22T00:00:00Z",
+      "excerpt": "PLANTEUR extends the PASTIS crop-mapping benchmark to six tropical regions to evaluate geospatial AI models across more diverse agricultural systems.",
+      "og_image": "https://www.datocms-assets.com/64837/1792681400-planteur-tropical-regions-tan.png"
+    },
+    {
       "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
       "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
       "source": "Google Research",
       "category": "science",
       "published_iso": "2026-10-14T16:14:00Z",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/original_images/EarthAITechReport1_Overview.gif",
-      "excerpt": "Google Research details Earth AI geospatial agents that combine Earth-observation foundation models and reasoning to answer complex planetary-scale questions.",
+      "excerpt": "Google Research describes Earth AI geospatial agents that combine foundation models and Gemini reasoning to answer complex planetary questions.",
+      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
       "history_match": {
-        "score": 0.331,
+        "score": 0.319,
         "date": "2026-10-07",
         "url": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
         "title": "Unlocking Earth AI's planetary geospatial foundation models for global public health",
         "band": "related"
       }
-    },
-    {
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "source": "Google DeepMind",
-      "category": "science",
-      "published_iso": "2026-10-15T16:00:00Z",
-      "og_image": "https://lh3.googleusercontent.com/Xgnc_DxAUS2Fs9H2rokxsYwPnnM_KOkPyPtKm7V2C_sjZ7YS4N1-D6lD8wjYIRQoKaiSwHUXB7qmw77m6FCfHLZenWdNymO7B_JLChlB6ied6emR=w1200-h630-n-nu-rw",
-      "excerpt": "Google Antigravity serves as an agentic science workbench to discover, structurally evaluate and prioritize novel antimicrobial peptides in hours."
-    },
-    {
-      "title": "Q&A: How AI came to model the 'messy' human mind",
-      "url": "https://techxplore.com/news/2026-10-qa-ai-messy-human-mind.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "published_iso": "2026-10-23T16:30:01Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-hallucination-1.jpg",
-      "excerpt": "MIT historian Benjamin Lindquist argues generative AI is rooted in mid-20th-century engineers' belief that some irrationality was essential for a machine that could think like a human."
-    },
-    {
-      "title": "App's AI 'eyes' for blind users fall short, researchers find",
-      "url": "https://techxplore.com/news/2026-10-app-ai-eyes-users-fall.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "published_iso": "2026-10-22T21:20:00Z",
-      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2026/visually-challenged-mi.jpg",
-      "excerpt": "A study of blind users relying on AI visual-assistant apps for everyday tasks like cooking finds the AI descriptions often fall short, forcing repeated queries."
-    },
-    {
-      "title": "Yes, AI Is Being Used for Dating Profile Photos",
-      "url": "https://www.psychologytoday.com/us/blog/a-funny-bone-to-pick/202610/yes-ai-is-being-used-for-dating-profile-photos",
-      "source": "Psychology Today",
-      "category": "science",
-      "published_iso": "2026-10-25T14:25:58Z",
-      "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-10/pexels-igovar-igovar-3000547-18799047.jpg?itok=5liwbqAn",
-      "excerpt": "A psychology blog looks at how AI-generated and AI-enhanced dating profile photos shape impressions, advising users to wait until meeting in person before trusting a photo."
-    },
-    {
-      "title": "Can maths survive AI? Fields medallist Terence Tao calls for a 'Maths 2.0' world",
-      "url": "https://www.nature.com/articles/d41586-026-03389-1",
-      "source": "Nature",
-      "category": "ai-math-formal-proofs",
-      "published_iso": "2026-10-22T00:00:00Z",
-      "og_image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03389-1/d41586-026-03389-1_53883260.jpg",
-      "excerpt": "Terence Tao argues that as AI tools automatically derive solutions to long-standing problems, mathematics must move to a 'Maths 2.0' era where proof scarcity no longer defines the field and human understanding is prized over publishing more solutions.",
-      "recovery": true,
-      "history_match": {
-        "score": 0.167,
-        "date": "2026-10-23",
-        "url": "https://www.scientificamerican.com/article/the-inside-story-behind-openais-million-dollar-math-proof/",
-        "title": "The inside story behind OpenAI's million-dollar math proof",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Emergence of diffusion models from associative memory through memorization and generalization",
-      "url": "https://www.nature.com/articles/s41467-026-78727-y",
-      "source": "Nature Communications",
-      "category": "science-of-ai",
-      "published_iso": "2026-10-25T00:00:00Z",
-      "og_image": "",
-      "excerpt": "Viewing diffusion models through Dense Associative Memory theory, the authors show that spurious states, long treated as memory errors, are a critical intermediate phase of generalization, and demonstrate them across many architectures and datasets.",
-      "recovery": true
-    },
-    {
-      "title": "Dendritic computation bridges neuroscience and foundation models",
-      "url": "https://www.nature.com/articles/s41467-026-77929-8",
-      "source": "Nature Communications",
-      "category": "neuroscience-ai",
-      "published_iso": "2026-10-15T00:00:00Z",
-      "og_image": "",
-      "excerpt": "The authors show that AI attention mechanisms resemble dendritic computations within single neurons rather than interactions between neurons, and build a dendrite-inspired model with improved performance.",
-      "recovery": true
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 16,
+    "kept": 17,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
-    "dropped": [],
-    "review": 9,
+    "dropped": [
+      {
+        "url": "https://techxplore.com/news/2026-10-strand-ai-island-playing-games.html",
+        "title": "Strand AI on a desert island, and it starts playing and inventing games",
+        "match": {
+          "score": 0.512,
+          "date": "2026-10-20",
+          "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+          "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”"
+        }
+      },
+      {
+        "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
+        "title": "Researchers improve weather forecasts looking two to six weeks out",
+        "match": {
+          "score": 0.531,
+          "date": "2026-10-15",
+          "url": "https://phys.org/news/2026-10-ai-weather-power-weeks.html",
+          "title": "AI-enhanced weather model doubles predictive power two to six weeks out"
+        }
+      }
+    ],
+    "review": 8,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-09-26",
-      "title": "AI model predicts pancreatic cancer risk 3 years before diagnosis",
-      "url": "https://medicalxpress.com/news/2026-09-ai-pancreatic-cancer-years-diagnosis.html"
-    },
-    {
-      "date": "2026-09-26",
-      "title": "Tumor digital twins: from months to minutes with AI",
-      "url": "https://medicalxpress.com/news/2026-09-tumor-digital-twins-months-ai.html"
-    },
-    {
-      "date": "2026-09-26",
-      "title": "Tiny quantum nanostructures could make AI less of an energy hog",
-      "url": "https://phys.org/news/2026-09-tiny-quantum-nanostructures-ai-energy.html"
-    },
-    {
-      "date": "2026-09-26",
-      "title": "When AI disagrees, people change how they perceive the technology, not their original view",
-      "url": "https://techxplore.com/news/2026-09-ai-people-technology-view.html"
-    },
-    {
-      "date": "2026-09-26",
-      "title": "Stanford Engineers Teach Spacecraft to 'Dream' Their Way to the Space Station",
-      "url": "https://www.universetoday.com/articles/stanford-engineers-teach-spacecraft-to-dream-their-way-to-the-space-station"
-    },
     {
       "date": "2026-09-27",
       "title": "Shared blueprint in aphid proteins helps AI predict their structures",
@@ -968,6 +927,31 @@
       "date": "2026-10-25",
       "title": "PerturbAI and OpenAI launch AI reasoning agents for biomedical discovery",
       "url": "https://www.genengnews.com/topics/artificial-intelligence/perturbai-and-openai-launch-ai-reasoning-agents-for-biomedical-discovery/"
+    },
+    {
+      "date": "2026-10-26",
+      "title": "AI agents can form political camps—and changing their conversation partners does little to soften their views",
+      "url": "https://phys.org/news/2026-10-ai-agents-political-conversation-partners.html"
+    },
+    {
+      "date": "2026-10-26",
+      "title": "Researchers develop AI tool to map microRNA binding sites on circular RNAs",
+      "url": "https://phys.org/news/2026-10-ai-tool-microrna-sites-circular.html"
+    },
+    {
+      "date": "2026-10-26",
+      "title": "App's AI 'eyes' for blind users fall short, researchers find",
+      "url": "https://techxplore.com/news/2026-10-app-ai-eyes-users-fall.html"
+    },
+    {
+      "date": "2026-10-26",
+      "title": "SEEQC Combines Chip-Based Processing With NVIDIA AI to Improve Quantum Error Correction",
+      "url": "https://thequantuminsider.com/2026/10/22/seeqc-combines-chip-based-processing-with-nvidia-ai-to-improve-quantum-error-correction/"
+    },
+    {
+      "date": "2026-10-26",
+      "title": "Emergence of diffusion models from associative memory through memorization and generalization",
+      "url": "https://www.nature.com/articles/s41467-026-78727-y"
     }
   ]
 }

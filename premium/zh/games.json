@@ -749,27 +749,29 @@
       "blocks": [
         {
           "t": "img",
-          "src": "https://static.inven.co.kr/column/2026/09/28/news/i1594768656.jpg"
+          "src": "https://cdn.gamemeca.com/data_center/345/605/20261026171400.webp",
+          "cap": "面向ChatGPT的Hive Axil插件主视觉（图片提供：Com2uS Platform）"
         },
         {
           "t": "p",
-          "x": "Com2uS Platform在日本东京举行的AI游戏开发活动上发布了新一代后端平台“Hive Axyl”。该平台将于9月30日正式上线，负责从游戏后端设置、功能对接到实时运营的全过程。"
+          "x": "Com2uS Platform于26日宣布，在ChatGPT中提供AI专用游戏后端服务Hive Axil的插件。借助这一插件，基于AI的游戏开发环境从制作阶段延伸到了游戏发行和服务运营领域。"
         },
         {
           "t": "p",
-          "x": "Com2uS Holdings的子公司Com2uS Platform于28日在“Tokyo AI (TAI) | OpenAI: 100-Hour Game Builder Challenge”决赛现场公布了Hive Axyl。该挑战赛由Tokyo AI(TAI)主办、OpenAI支持，参赛团队用OpenAI Codex在100小时内制作了AI原生游戏和游戏制作用AI工具。"
+          "x": "用户可以在ChatGPT应用和网页端轻松安装Hive Axil插件。沿用在Codex开发环境中做游戏的原有方式，只需用自然语言提出请求，就能接入各种后端功能。插件还内置了指导操作顺序和实现方法的技能（Skills），覆盖SDK环境配置、登录与账号绑定、支付、邮箱、优惠券、推送通知等商业服务所需的全部后端功能。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/345/606/20261026171400.webp",
+          "cap": "Hive Axil在ChatGPT中的应用示例（图片提供：Com2uS Platform）"
         },
         {
           "t": "p",
-          "x": "在决赛现场发表演讲的Com2uS Japan代表金振龙（Kim Jin-yong）提出了“Build with Codex, Play with Hive”的愿景。他还分享了8月在首尔由Com2uS和OpenAI共同举办的“OpenAI Game Builders Seoul”的经验。现场有Krit Ventures、LY株式会社等韩日IT业界人士出席。"
+          "x": "当用户提出“给游戏加上登录功能”时，Codex会参考Hive Axil开发指南，协助编写后端对接代码。随附的分析功能会根据有关新用户流入、留存率、各国指标等的自然语言提问，把数据可视化为图表和仪表盘。"
         },
         {
           "t": "p",
-          "x": "金代表说明，Hive Axyl“让开发者摆脱复杂的后端工作，专注于内容创作”。他还表示，希望当天制作的游戏在上线时能得到Hive Axyl的助力。"
-        },
-        {
-          "t": "p",
-          "x": "面向AI游戏开发打造的Hive Axyl支持Codex插件连接。通过自然语言提示下达指令，即可快速对接后端设置、身份验证、支付、数据分析、实时运营等主要功能。正式上线后，开发者可按照开发者网站的指南安装插件使用。"
+          "x": "Com2uS Platform代表崔锡元表示：“将把在全球市场获得认可的Hive服务能力与AI开发环境相结合，大幅降低独立及小型开发商的商业化门槛。”"
         }
       ]
     },
@@ -8502,6 +8504,139 @@
         {
           "t": "video",
           "yt": "WT3twFB0PD8"
+        }
+      ]
+    },
+    "games/games-ai-code-lawyer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Led8MKdaEhJzPHbQzNsQna-1920-80.jpg",
+          "cap": "Phoenix Wright: Ace Attorney - Dual Destinies"
+        },
+        {
+          "t": "p",
+          "x": "一位专攻电子游戏合同的律师表示，最近一份协议告吹，原因是客户收到了一大堆由“不知道自己做了什么”的人用氛围编程（vibe-coded）做出的东西。Voyer Law的IP律师、电子游戏业务负责人Haley MacLean在Bluesky上分享了这起匿名处理的事件。"
+        },
+        {
+          "t": "p",
+          "x": "“编程承包商给我的客户交付了一个里程碑。它坏掉了，问题一大堆，所以我们要求在验收前修改。承包商说他改不了，还要求全额付款。结果发现全是AI做的，他连自己做了什么都不知道。所以他拿不到钱，还浪费了我客户的时间。”"
+        },
+        {
+          "t": "p",
+          "x": "“而且这还违反了[保密义务]，因为他为了‘做出’这个里程碑，把所有机密游戏信息都塞进了AI工具，”她补充道，“会在餐厅点菜，不代表你就是厨师。”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/K8yJ4PtPLeS2UpgkBEhUJC.jpg",
+          "cap": "Monster Hunter World中的猫厨师"
+        },
+        {
+          "t": "p",
+          "x": "MacLean说，她看到越来越多的客户在合同中加入反AI（anti-AI）条款：“现在这已经是标准条款了。”"
+        }
+      ]
+    },
+    "games/games-kitase-zero-to-one": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/Secret-of-Mana-Tree.jpg",
+          "cap": "Secret Of Mana Tree © Square Enix"
+        },
+        {
+          "t": "p",
+          "x": "在纪念Mana系列35周年的Famitsu访谈中，Square Enix资深开发者Hiromichi Tanaka、Kouichi Ishii与Yoshinori Kitase回顾了SNES时代，并将其与如今日益AI-driven（AI驱动）的游戏开发相比较。"
+        },
+        {
+          "t": "p",
+          "x": "在他们看来，AI可以像Unity和Unreal等引擎一样，为小型团队赋能。Kitase表示：“正如过去各种技术一直支撑着游戏开发，我觉得AI可能会在游戏开发中扮演越来越重要的角色。”“但是，要创造出某样东西、把它从0变成1，就绝对需要人。这一点永远不会改变，所以下一代开发者必须具备从0开始创造的能力。”"
+        },
+        {
+          "t": "p",
+          "x": "Ishii乐见原型制作提速，留出更多时间测试和打磨，“但是，工作流程的起点和终点仍需由人来界定。如果完全依赖AI，结果或许看起来很精致，却可能显得冰冷，缺少应有的人情味。”"
+        },
+        {
+          "t": "p",
+          "x": "Kotaku指出，近期调查发现，日本有超过百分之85的开发者正在积极使用或考虑使用这项技术。"
+        }
+      ]
+    },
+    "games/games-ugc-ai-creators": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/AiPromptingExtraExampleAddLightBeam.png"
+        },
+        {
+          "t": "p",
+          "x": "Roblox和Fortnite等用户生成内容平台正越来越多地借助AI工具，让大众也能参与游戏开发。"
+        },
+        {
+          "t": "p",
+          "x": "Roblox展示了Build，这是Roblox应用中一个移动优先的创作标签页，可将文字提示变成完整可玩的基础游戏。首席创作者生态官Vlad Loktev表示：“如今在Build中创作的人里，超过百分之70从未打开过[Roblox] Studio，也从未在该平台上制作过游戏。”"
+        },
+        {
+          "t": "p",
+          "x": "Epic宣布在Unreal Engine 5.8中试验性地原生集成Model Context Protocol服务器，让UEFN创作者能将Claude和Gemini等AI模型直接连接到自己的项目。Sandbox Studio专为智能体编程打造，让AI智能体可以访问其引擎、代码库、文档和编辑器控制。"
+        },
+        {
+          "t": "p",
+          "x": "Google的Playground让玩家把书面提示变成基于浏览器的游戏。DT的Itai Cohen警告，轻松创作可能会“助长游戏版的AI slop”。"
+        }
+      ]
+    },
+    "games/games-decomp-clampdown": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/resetti-from-animal-crossing-angrily-bursting-onto-a-blank-web-browser.jpg?w=1600&h=900&fit=crop"
+        },
+        {
+          "t": "p",
+          "x": "你或许已经注意到，过去一个月里浏览器移植和重编译作品突然大量涌现，而以往这类作品往往要花数年开发。原因在于Claude等AI工具近来的进步，让任何人无论有无编程背景，都能对软件进行逆向工程。"
+        },
+        {
+          "t": "p",
+          "x": "真正下过功夫的爱好者不满自己的作品被氛围编程堆出的劣质内容淹没，发行商陷入没完没了的打地鼠游戏，而AI还被用来在短短几小时内找出PHP中存在了十年的漏洞。"
+        },
+        {
+          "t": "p",
+          "x": "压力显然已经传导开来，Anthropic和OpenAI正在收紧管控。Anthropic更新了实时网络安全分类器，阻止用户借助社区开发的Reverse Engineer Anything（REA）框架进行自动反编译；据报道，OpenAI则以\"Cyber Abuse\"为由停用账户。鉴于大量氛围编程的重编译和浏览器移植都依赖这些工具，低投入移植作品的突然泛滥或许已经开始放缓。不过，潘多拉魔盒（Pandora's Box）既已打开，就再也关不上了。"
+        },
+        {
+          "t": "p",
+          "x": "用户已经转向本地或开源替代方案，尤其是中国开发的AI程序，继续对软件进行逆向工程。作者认为，真正值得关注的是：AI智能体攻击公共基础设施的速度，已经快过修补的速度。"
+        }
+      ]
+    },
+    "games/games-hive-axil-chatgpt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/345/605/20261026171400.webp",
+          "cap": "面向ChatGPT的Hive Axil插件主视觉（图片提供：Com2uS Platform）"
+        },
+        {
+          "t": "p",
+          "x": "Com2uS Platform于26日宣布，在ChatGPT中提供AI专用游戏后端服务Hive Axil的插件。借助这一插件，基于AI的游戏开发环境从制作阶段延伸到了游戏发行和服务运营领域。"
+        },
+        {
+          "t": "p",
+          "x": "用户可以在ChatGPT应用和网页端轻松安装Hive Axil插件。沿用在Codex开发环境中做游戏的原有方式，只需用自然语言提出请求，就能接入各种后端功能。插件还内置了指导操作顺序和实现方法的技能（Skills），覆盖SDK环境配置、登录与账号绑定、支付、邮箱、优惠券、推送通知等商业服务所需的全部后端功能。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/345/606/20261026171400.webp",
+          "cap": "Hive Axil在ChatGPT中的应用示例（图片提供：Com2uS Platform）"
+        },
+        {
+          "t": "p",
+          "x": "当用户提出“给游戏加上登录功能”时，Codex会参考Hive Axil开发指南，协助编写后端对接代码。随附的分析功能会根据有关新用户流入、留存率、各国指标等的自然语言提问，把数据可视化为图表和仪表盘。"
+        },
+        {
+          "t": "p",
+          "x": "Com2uS Platform代表崔锡元表示：“将把在全球市场获得认可的Hive服务能力与AI开发环境相结合，大幅降低独立及小型开发商的商业化门槛。”"
         }
       ]
     }

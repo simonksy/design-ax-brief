@@ -1,31 +1,31 @@
 {
- "date": "2026-10-26",
- "section": "medicine",
- "media": [
-  {
-   "id": "medicine-rivanna-boneenhance",
-   "type": "image",
-   "src": "pipeline/media/medicine-rivanna-boneenhance.jpg"
-  },
-  {
-   "id": "medicine-ecg-transplant-rejection",
-   "type": "image",
-   "src": "pipeline/media/medicine-ecg-transplant-rejection.jpg"
-  },
-  {
-   "id": "medicine-hf-functional-decline",
-   "type": "image",
-   "src": "pipeline/media/medicine-hf-functional-decline.jpg"
-  },
-  {
-   "id": "medicine-doximity-uptodate-ask",
-   "type": "image",
-   "src": "pipeline/media/medicine-doximity-uptodate-ask.jpg"
-  },
-  {
-   "id": "medicine-ai-standardized-patients",
-   "type": "image",
-   "src": "pipeline/media/medicine-ai-standardized-patients.jpg"
-  }
- ]
+  "date": "2026-10-27",
+  "section": "medicine",
+  "media": [
+    {
+      "id": "medicine-cari-heart",
+      "type": "image",
+      "src": "pipeline/media/medicine-cari-heart.jpg"
+    },
+    {
+      "id": "medicine-heidi-scribe",
+      "type": "image",
+      "src": "pipeline/media/medicine-heidi-scribe.jpg"
+    },
+    {
+      "id": "medicine-pa-ai-disclosure",
+      "type": "image",
+      "src": "pipeline/media/medicine-pa-ai-disclosure.jpg"
+    },
+    {
+      "id": "medicine-coreline-aorta",
+      "type": "image",
+      "src": "pipeline/media/medicine-coreline-aorta.jpg"
+    },
+    {
+      "id": "medicine-night-shift",
+      "type": "image",
+      "src": "pipeline/media/medicine-night-shift.jpg"
+    }
+  ]
 }

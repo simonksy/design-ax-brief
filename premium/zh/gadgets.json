@@ -8875,6 +8875,149 @@
           "x": "该功能并非付费Workspace客户专属：符合条件的Google Workspace、Workspace Individual及个人Google账户用户，现在即可在网页、Android和iOS上使用。"
         }
       ]
+    },
+    "gadgets/gadgets-orisa": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/recovering-deleted-ai-chats.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Manisha Priyadarshini / Digital Trends"
+        },
+        {
+          "t": "p",
+          "x": "你以为删除与AI聊天机器人的对话就能让它真正消失吗？Georgia Tech的研究人员开发了一款名为ORISA的取证工具，能从手机中挖出已删除的对话，甚至将其重建为可以继续交谈的聊天机器人会话。"
+        },
+        {
+          "t": "p",
+          "x": "本地AI助手不会把对话发送到云端，但在应用运行期间，这些数据仍保存在手机的工作内存中，因此在应用里删除聊天并不一定能将其抹去。ORISA会寻找这些残留碎片，并将它们重新拼接成一个可实际运行的AI会话。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/overview-of-orisa.jpg?resize=2238%2C812&ssl=1",
+          "cap": "ORISA设计概览。Georgia Tech"
+        },
+        {
+          "t": "p",
+          "x": "在一项测试中，研究人员向一个名为Project Note Keeper的虚构助手输入了100条事实，随后删除了对话。此时实时会话只能访问其中14条，而ORISA恢复了26条。在涵盖10款Android应用和三种AI模型的60种测试配置中，该工具都恢复了已删除的对话数据。"
+        },
+        {
+          "t": "p",
+          "x": "研究人员表示，ORISA可以帮助调查人员拼凑出某人与AI助手分享过的内容，包括聊天机器人的建议可能伤害了患者的案件。它也给端侧AI用户带来了隐私方面的担忧。ORISA是面向调查人员的取证工具，需要手机内存和存储的副本，而且当其他活动覆盖数据后，恢复会变得更加困难。"
+        }
+      ]
+    },
+    "gadgets/gadgets-rayban-meta-training": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ray-ban-meta-ki-training-teaser.jpg",
+          "cap": "镜框内置摄像头的Ray-Ban Meta眼镜。除非你关闭此项，否则Meta会存储来自AI请求的图像。"
+        },
+        {
+          "t": "p",
+          "x": "向Ray-Ban Meta眼镜询问标牌上写着什么，就会向Meta发送一张照片。根据Meta关于视觉数据的帮助页面，该公司会存储这些来自AI请求的拍摄内容，并可能通过自动化系统或人工审核将其用于训练模型。自9月24日起，你可以关闭这一选项。另有一项设置涉及你的语音，而你能获得多少控制权取决于你居住的地区。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/2/6/csm_ray-ban-meta-ai-training-settings-en_890c1a5d02.png",
+          "cap": "视觉数据设置仅涵盖来自AI请求的图像。在US以外，语音录音另有单独设置。"
+        },
+        {
+          "t": "p",
+          "x": "在Meta AI应用中打开眼镜设置，点击Experiences下的Meta AI，然后关闭“Store visual data from AI experiences”（存储来自AI体验的视觉数据）。关闭后，视觉数据不会用于人工审核，不会用于训练，并且在你的请求得到回复后不会被存储。视觉提醒等功能可能受到限制，且此项更改仅对今后生效。"
+        },
+        {
+          "t": "p",
+          "x": "语音按地区处理。在US，转录文本和录音默认会被存储，用户已于2025年4月失去关闭这一功能的选项；UK和德国的说明则允许用户选择。存储的录音最长保留一年，并可能由经过培训的员工审核。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_ray-ban-meta-ai-training-steps-en_1128925689.png",
+          "cap": "在Meta AI应用中需完成五个步骤，每副眼镜都要重复一遍。旧的语音录音必须手动删除。"
+        },
+        {
+          "t": "p",
+          "x": "没有任何设置能保护旁观者，而通过Messenger或Instagram与Meta AI分享的图像不在视觉数据设置的覆盖范围内。"
+        }
+      ]
+    },
+    "gadgets/gadgets-rtx-tensor-throttle": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/4Yvp7ck4v6d8JPBoNXVPfe.jpg",
+          "cap": "Nvidia GeForce RTX 4090 Founders Edition（图片来源：Nvidia）"
+        },
+        {
+          "t": "p",
+          "x": "据VideoCardz报道，改装玩家发现可以利用固件漏洞，解除Nvidia RTX 20、30和40-series GPUs上被施加的半速AI性能限制。解除限制后，RTX 4090的峰值张量速率可翻倍，RTX 3090 Ti的矩阵运算最多可提升80%。实际工作负载的提升要小得多，聊天机器人的token速度则基本不变，因为这部分性能取决于内存带宽。"
+        },
+        {
+          "t": "p",
+          "x": "Nvidia对GeForce的限制让FP32-accumulate运算只能以各卡FP16-accumulate速率的一半运行。turing-unlock（RTX 2080 Ti）、gpu-unlock（Ampere）和gpu-unlock-ada（RTX 4090）三个项目通过非官方Linux模块提供解锁；RTX 50（Blackwell）不受支持。"
+        },
+        {
+          "t": "p",
+          "x": "Ada分支开发者的RTX 4090在FP16下从165.6提升至331.6 TFLOPS。不过在一位用户的矩阵乘法基准测试中，cuBLAS GEMM中位数仅提升12–34%（FP16），最多提升20%（BF16）。在Ampere上，LLM prefill提升了14–36%，但LLM decode和INT8“基本持平”。"
+        },
+        {
+          "t": "p",
+          "x": "turing-unlock的README警告该改装“可能损坏你的硬件”，KohakUnlock则称它“可能导致GPU或主机挂起、无法启动、数据损坏或硬件损坏”。"
+        }
+      ]
+    },
+    "gadgets/gadgets-even-g2-update": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Even-Realities-G2-smart-glasses-13.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Even Realities今天宣布，将为G2智能眼镜推送新软件版本，其中包括一个只记住你告诉它的内容的个人知识库。"
+        },
+        {
+          "t": "p",
+          "x": "Conversate将迎来全面改版的“Pro Mode”，可从Knowledge Base调取数据；Knowledge Base是一项会记住你所选信息和数据的功能。这些更新包含在G2 2.4.0版本更新中，该更新还将AI界面升级为Even AI 2.0。"
+        },
+        {
+          "t": "p",
+          "x": "Conversate录音和手动上传的文件会同步到位于EU的安全Google Cloud Platform服务器；Even AI 2.0和进行中的Conversate会话会从Knowledge Base调取上下文。用户在设置时最多可选择10条Conversate记录，除非开启自动上传，否则新会话不会被自动添加。"
+        },
+        {
+          "t": "p",
+          "x": "Even AI 2.0新增了长按触控传感器唤醒、无需再次说出唤醒词的多轮对话，以及在AI聊天中打开Even Hub应用和更改设置等功能。Knowledge Base和Conversate Pro Mode今天以测试版形式推出，并设有每月使用额度。此外还新增了玳瑁色配色。"
+        }
+      ]
+    },
+    "gadgets/gadgets-topc-txa2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/2fiT6TDsU78hzS4Mg3E8Rm-1920-80.png",
+          "cap": "图片来源：Minimachines"
+        },
+        {
+          "t": "p",
+          "x": "中国厂商TOPC推出了铜色的TXA2紧凑型工作站，售价近$7,000。它配备192GB LPDDR5X内存，支持四块SSDs，并可同时向四台显示器输出最高8K 分辨率的画面。"
+        },
+        {
+          "t": "p",
+          "x": "其核心是AMD的Ryzen AI Max+ PRO 495，拥有16个CPU核心、32线程和Radeon 8065S显卡。集成显卡最多可调用160GB 系统内存，为在本地运行高负载AI模型留出了相当大的空间。8,533MHz 内存焊接在主板上，无法升级。"
+        },
+        {
+          "t": "p",
+          "x": "存储方面提供四个M.2 2280 NVMe插槽，其中两个为PCIe 4.0 x4，两个为PCIe 4.0 x2。接口包括10GbE和2.5GbE网口、HDMI 2.1、DisplayPort 2.1、USB4、Wi-Fi 7以及Bluetooth 5.4。"
+        },
+        {
+          "t": "p",
+          "x": "这款机箱容积约2.5升，重2.319 kg，配有四个风扇，据称峰值可承受140W、持续120W 的功耗；TOPC尚未公布噪音水平。"
+        },
+        {
+          "t": "p",
+          "x": "2TB 配置起价$6,499，4TB 配置起价$6,799，另加$69运费，进口关税和税费另计。作为相对陌生的品牌，且仅提供一年保修，花近$7,000购买无疑是不小的赌博。"
+        }
+      ]
     }
   }
 }

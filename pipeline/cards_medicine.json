@@ -1,393 +1,197 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "section": "medicine",
   "cards": [
     {
-      "id": "medicine-rivanna-boneenhance",
+      "id": "medicine-cari-heart",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "FDA, Rivanna의\n초음파 AI 뼈 표시 허가",
-      "body": "FDA가 Rivanna BoneEnhance AI(2D B-mode 뼈) 허가했다.",
-      "mini_headline": "FDA, Rivanna BoneEnhance 허가",
-      "tool": "Medicine",
-      "source": "AuntMinnie",
-      "url": "https://www.auntminnie.com/clinical-news/ultrasound/news/15838275/rivanna-gets-fda-clearance-for-boneenhance-ultrasound-software",
-      "accent": "#00897b",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "Rivanna가 Accuro XV 진단용 초음파 시스템에 들어가는 머신러닝 소프트웨어 모듈 BoneEnhance로 U.S. 식품의약국(FDA) 510(k) 허가를 받았다."
-          },
-          {
-            "t": "p",
-            "x": "회사 설명으로는 BoneEnhance가 시스템의 3D 프로브로 얻은 볼륨 데이터에서 뼈와 주변 조직을 찾아 2D B-mode 영상 위에 색깔별 오버레이로 표시한다. 원래 해부학 데이터는 그대로 보인다. Rivanna는 다섯 개 기관에서 모은 233개 볼륨 데이터셋으로 독립 테스트를 했고, 볼륨당 라벨 예측 정확도가 95.1%~100%였다고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "Rivanna는 임상의가 초음파 영상으로 사지 골절 가능성을 가늠하도록 돕는 연구용 모듈도 개발 중이다. 이 작업에는 U.S. 생물의학첨단연구개발국(Biomedical Advanced Research and Development Authority)의 지원이 들어갔다고 회사는 밝혔다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "FDA clears Rivanna's AI\nbone overlays for ultrasound",
-          "body": "FDA cleared Rivanna's BoneEnhance AI module, which color-codes bone and nearby tissue on 2D B-mode ultrasound images.",
-          "mini_headline": "FDA clears Rivanna BoneEnhance",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Rivanna has received U.S. Food and Drug Administration (FDA) 510(k) clearance for BoneEnhance, a machine-learning software module for its Accuro XV diagnostic ultrasound system."
-              },
-              {
-                "t": "p",
-                "x": "BoneEnhance identifies bone and surrounding tissues within volumetric datasets acquired by the system’s 3D probe and highlights them with color-coded overlays on 2D B-mode images, while leaving the original anatomical data visible, according to the company. In an independent test set of 233 volumetric datasets from five sites, per-volume label prediction accuracy ranged from 95.1% to 100%, Rivanna said."
-              },
-              {
-                "t": "p",
-                "x": "Rivanna is also developing an investigational module to help clinicians evaluate potential extremity fractures on ultrasound images. The firm said the work has been supported by the U.S. Biomedical Advanced Research and Development Authority."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "FDA, Rivanna의\n초음파 AI 뼈 표시 허가",
-          "body": "FDA가 Rivanna BoneEnhance AI(2D B-mode 뼈) 허가했다.",
-          "mini_headline": "FDA, Rivanna BoneEnhance 허가",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Rivanna가 Accuro XV 진단용 초음파 시스템에 들어가는 머신러닝 소프트웨어 모듈 BoneEnhance로 U.S. 식품의약국(FDA) 510(k) 허가를 받았다."
-              },
-              {
-                "t": "p",
-                "x": "회사 설명으로는 BoneEnhance가 시스템의 3D 프로브로 얻은 볼륨 데이터에서 뼈와 주변 조직을 찾아 2D B-mode 영상 위에 색깔별 오버레이로 표시한다. 원래 해부학 데이터는 그대로 보인다. Rivanna는 다섯 개 기관에서 모은 233개 볼륨 데이터셋으로 독립 테스트를 했고, 볼륨당 라벨 예측 정확도가 95.1%~100%였다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "Rivanna는 임상의가 초음파 영상으로 사지 골절 가능성을 가늠하도록 돕는 연구용 모듈도 개발 중이다. 이 작업에는 U.S. 생물의학첨단연구개발국(Biomedical Advanced Research and Development Authority)의 지원이 들어갔다고 회사는 밝혔다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "FDA、Rivannaの\n超音波AI骨表示を認可",
-          "body": "FDAがRivannaの2D B-mode骨表示AI「BoneEnhance」を認可した。",
-          "mini_headline": "FDA、Rivanna BoneEnhanceを認可",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Rivannaは、Accuro XV診断用超音波システム向けの機械学習ソフトウェアモジュール「BoneEnhance」について、U.S. 食品医薬品局（FDA）の510(k)認可を取得した。"
-              },
-              {
-                "t": "p",
-                "x": "同社によると、BoneEnhanceはシステムの3D プローブで取得したボリュームデータから骨と周辺組織を識別し、元の解剖学的データを見えるまま残しつつ、2D B-mode画像上に色分けしたオーバーレイで強調表示する。Rivannaによれば、五つの施設から集めた233件のボリュームデータセットによる独立テストで、ボリューム単位のラベル予測精度は95.1%から100%だった。"
-              },
-              {
-                "t": "p",
-                "x": "Rivannaは、臨床医が超音波画像で四肢骨折の可能性を評価するのを支援する研究用モジュールも開発中だ。同社によると、この取り組みはU.S. 生物医学先端研究開発局（Biomedical Advanced Research and Development Authority）の支援を受けている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "FDA许可Rivanna\n超声AI骨骼叠加显示",
-          "body": "FDA许可Rivanna BoneEnhance AI，在2D B-mode图像上为骨着色。",
-          "mini_headline": "FDA许可Rivanna BoneEnhance",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Rivanna旗下Accuro XV诊断超声系统的机器学习软件模块BoneEnhance已获得U.S. 食品药品监督管理局（FDA）的510(k)许可。"
-              },
-              {
-                "t": "p",
-                "x": "据该公司介绍，BoneEnhance可在系统3D 探头采集的容积数据中识别骨骼及周围组织，并在2D B-mode图像上以颜色编码的叠加层加以突出显示，同时保留原始解剖数据的可见性。Rivanna表示，在来自五个站点的233组容积数据构成的独立测试集中，单个容积的标签预测准确率为95.1%至100%。"
-              },
-              {
-                "t": "p",
-                "x": "Rivanna还在开发一款研究性模块，帮助临床医生在超声图像上评估可能存在的四肢骨折。该公司表示，这项工作得到了U.S. 生物医学高级研究与发展管理局（Biomedical Advanced Research and Development Authority）的支持。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "FDA autoriza la AI de Rivanna\nque resalta huesos en ecografías",
-          "body": "La FDA autorizó el módulo BoneEnhance AI de Rivanna, que colorea hueso y tejido cercano en ecografías 2D B-mode.",
-          "mini_headline": "La FDA autoriza BoneEnhance de Rivanna",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Rivanna recibió la autorización 510(k) de la U.S. Food and Drug Administration (FDA) para BoneEnhance, un módulo de software de aprendizaje automático para su sistema de ecografía diagnóstica Accuro XV."
-              },
-              {
-                "t": "p",
-                "x": "Según la compañía, BoneEnhance identifica el hueso y los tejidos circundantes en los conjuntos de datos volumétricos adquiridos por la sonda 3D del sistema y los resalta con superposiciones codificadas por color en imágenes 2D B-mode, sin ocultar los datos anatómicos originales. En un conjunto de prueba independiente de 233 conjuntos de datos volumétricos de cinco centros, la precisión de predicción de etiquetas por volumen osciló entre el 95.1% y el 100%, según Rivanna."
-              },
-              {
-                "t": "p",
-                "x": "Rivanna también desarrolla un módulo en fase de investigación para ayudar a los clínicos a evaluar posibles fracturas de extremidades en imágenes de ecografía. La empresa indicó que el trabajo ha contado con el apoyo de la U.S. Biomedical Advanced Research and Development Authority."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "FDA, Rivanna의\n초음파 AI 뼈 표시 허가",
-          "body": "FDA가 Rivanna BoneEnhance AI(2D B-mode 뼈) 허가했다.",
-          "mini_headline": "FDA, Rivanna BoneEnhance 허가",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Rivanna가 Accuro XV 진단용 초음파 시스템에 쓰는 머신러닝 소프트웨어 모듈 BoneEnhance로 U.S. 식품의약국(FDA)의 510(k) 허가를 받았다."
-              },
-              {
-                "t": "p",
-                "x": "회사에 따르면 BoneEnhance는 시스템의 3D 프로브로 얻은 볼륨 데이터에서 뼈와 주변 조직을 찾아내 2D B-mode 영상 위에 색상별 오버레이로 강조하고, 원래의 해부학적 데이터는 그대로 보이게 둔다. Rivanna는 다섯 곳의 기관에서 모은 233개 볼륨 데이터셋으로 진행한 독립 테스트에서 볼륨당 라벨 예측 정확도가 95.1%~100%였다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "Rivanna는 임상의가 초음파 영상으로 사지 골절 가능성을 평가하도록 돕는 연구용 모듈도 개발하고 있다. 회사는 이 작업이 U.S. 생물의학첨단연구개발국(Biomedical Advanced Research and Development Authority)의 지원을 받았다고 밝혔다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "FDA、Rivannaの\n超音波AI骨表示を認可",
-          "body": "FDAがRivannaの2D B-mode骨表示AI「BoneEnhance」を認可した。",
-          "mini_headline": "FDA、Rivanna BoneEnhanceを認可",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Rivannaは、Accuro XV診断用超音波システム向けの機械学習ソフトウェアモジュール「BoneEnhance」について、U.S. 食品医薬品局（FDA）の510(k)認可を取得した。"
-              },
-              {
-                "t": "p",
-                "x": "同社によると、BoneEnhanceはシステムの3D プローブで取得したボリュームデータから骨と周辺組織を識別し、元の解剖学的データを見えるまま残しつつ、2D B-mode画像上に色分けしたオーバーレイで強調表示する。Rivannaによれば、五つの施設から集めた233件のボリュームデータセットによる独立テストで、ボリューム単位のラベル予測精度は95.1%から100%だった。"
-              },
-              {
-                "t": "p",
-                "x": "Rivannaは、臨床医が超音波画像で四肢骨折の可能性を評価するのを支援する研究用モジュールも開発中だ。同社によると、この取り組みはU.S. 生物医学先端研究開発局（Biomedical Advanced Research and Development Authority）の支援を受けている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "FDA许可Rivanna\n超声AI骨骼叠加显示",
-          "body": "FDA许可Rivanna BoneEnhance AI，在2D B-mode图像上为骨着色。",
-          "mini_headline": "FDA许可Rivanna BoneEnhance",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Rivanna旗下Accuro XV诊断超声系统的机器学习软件模块BoneEnhance已获得U.S. 食品药品监督管理局（FDA）的510(k)许可。"
-              },
-              {
-                "t": "p",
-                "x": "据该公司介绍，BoneEnhance可在系统3D 探头采集的容积数据中识别骨骼及周围组织，并在2D B-mode图像上以颜色编码的叠加层加以突出显示，同时保留原始解剖数据的可见性。Rivanna表示，在来自五个站点的233组容积数据构成的独立测试集中，单个容积的标签预测准确率为95.1%至100%。"
-              },
-              {
-                "t": "p",
-                "x": "Rivanna还在开发一款研究性模块，帮助临床医生在超声图像上评估可能存在的四肢骨折。该公司表示，这项工作得到了U.S. 生物医学高级研究与发展管理局（Biomedical Advanced Research and Development Authority）的支持。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "FDA autoriza la AI de Rivanna\nque resalta huesos en ecografías",
-          "body": "La FDA autorizó el módulo BoneEnhance AI de Rivanna, que colorea hueso y tejido cercano en ecografías 2D B-mode.",
-          "mini_headline": "La FDA autoriza BoneEnhance de Rivanna",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Rivanna recibió la autorización 510(k) de la U.S. Food and Drug Administration (FDA) para BoneEnhance, un módulo de software de aprendizaje automático para su sistema de ecografía diagnóstica Accuro XV."
-              },
-              {
-                "t": "p",
-                "x": "Según la compañía, BoneEnhance identifica el hueso y los tejidos circundantes en los conjuntos de datos volumétricos adquiridos por la sonda 3D del sistema y los resalta con superposiciones codificadas por color en imágenes 2D B-mode, sin ocultar los datos anatómicos originales. En un conjunto de prueba independiente de 233 conjuntos de datos volumétricos de cinco centros, la precisión de predicción de etiquetas por volumen osciló entre el 95.1% y el 100%, según Rivanna."
-              },
-              {
-                "t": "p",
-                "x": "Rivanna también desarrolla un módulo en fase de investigación para ayudar a los clínicos a evaluar posibles fracturas de extremidades en imágenes de ecografía. La empresa indicó que el trabajo ha contado con el apoyo de la U.S. Biomedical Advanced Research and Development Authority."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "medicine-ecg-transplant-rejection",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI ECG 판독,\n이식 거부 경고 개선 기대",
-      "body": "AI-assessed ECGs로 심장 이식 거부반응 경고가 나아질 수 있다.",
-      "mini_headline": "AI ECGs로 이식 거부반응 포착",
+      "headline": "플라크 없는 성인서도\nAI가 관상동맥 염증 포착",
+      "body": "CaRi-Heart AI가 첫 U.S. 연구서 무플라크군 약 47%의 염증 찾았다.",
+      "mini_headline": "AI가 찾은 심장 염증",
       "tool": "Medicine",
       "source": "Cardiovascular Business",
-      "url": "https://cardiovascularbusiness.com/topics/clinical/cardiac-surgery/ai-ecg-analysis-offers-heart-transplant-rejection-warnings",
-      "accent": "#0070f3",
+      "url": "https://cardiovascularbusiness.com/topics/cardiac-imaging/ai-tech-detects-high-risk-coronary-inflammation-many-asymptomatic-patients",
+      "accent": "#00897b",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2020-03/transplant_0.jpg?h=956ee2f3&itok=GcZkfQn3"
+            "src": "https://cardiovascularbusiness.com/sites/default/files/styles/top_stories/public/2026-10/caristo_fai_used_in_first_us_study_since_fda_clearance.jpg.webp?itok=TH_ctwZ9",
+            "cap": "Caristo의 지방 감쇠 지수(FAI) 기반 AI-assessment는 CCTA 영상으로 관상동맥 염증을 평가해, 기존 심장 검사로는 안 보이던 환자의 잔여 심장 위험을 시각화한다."
           },
           {
             "t": "p",
-            "x": "NYU Langone Health 연구진이 침습적 생검 없이 심장 이식 거부반응을 예측할 새 방법을 찾았을지 모른다. 결과는 Journal of Heart and Lung Transplantation에 실렸다."
+            "x": "Caristo Diagnostics의 FDA-cleared 관상동맥 염증 탐지 기술 CaRi-Heart를 다룬 첫 U.S. 연구에서 증상 없는 성인 환자 상당수가 실제로는 심장 사건 위험이 높은 상태였다."
           },
           {
             "t": "p",
-            "x": "연구진은 2018년부터 2024년까지 성인 심장 이식 수혜자 389명에게서 얻은 5,300건이 넘는 ECG 판독 데이터로 AI 모델을 학습시켰다. 한 모델은 ECG 데이터만 썼다. 다른 모델은 ECG 데이터에 AlloMap과 AlloSure, 두 가지 혈액검사 결과를 더했다. 두 검사는 그동안 거부반응 위험 예측에 쓰였지만 위양성률이 높다."
+            "x": "Biograph 컨시어지 의료 클리닉이 진행한 이 연구는 예방 목적으로 찍은 심장 CT 영상에 Caristo의 지방 감쇠 지수(FAI) AI 알고리즘을 적용해 참가자의 42.9%에서 염증을 찾아냈다. 그중 17.9%는 주요 동맥 하나 이상의 염증 수준이 매우 높았다. 관상동맥 플라크가 없던 참가자도 약 47%는 관상동맥 주위 염증이 높았는데, 이런 염증은 심장 사건 위험을 끌어올린다."
           },
           {
             "t": "p",
-            "x": "심장 이식 수혜자 38명으로 꾸린 테스트 그룹에서는 결합 모델이 더 나은 성적을 냈다. 거부반응을 겪은 환자는 두 명이었다. AI 모델은 거부반응이 없는 환자의 97%를 정확히 가려냈다. 혈액검사만 쓴 방식은 19명에게 생검이 필요하다고 잘못 판단했다."
+            "x": "Biograph의 수석 의료 책임자 Michael Doney, MD는 “결정적으로, 일상적인 혈액 바이오마커나 지질 지표, 임상 위험 점수 가운데 어느 것도 관상동맥에 염증이 있는 이들을 가려내지 못했다”고 말했다. 이를 검증하고 FAI의 예후 가치를 확립하려면 추가 연구가 필요하다는 말도 덧붙였다."
           },
           {
             "t": "p",
-            "x": "“심장 이식은 자원이 많이 드는 대수술이며, 거부반응은 흔하지만 제때 발견하면 치료할 수 있다”고 책임저자 Lior Jankelson, MD, PhD는 말했다. 연구진은 다음으로 여러 이식 센터의 더 많은 환자에게 AI 모델을 시험할 계획이다."
+            "x": "FDA는 7월 말 CaRi-Heart 기술에 de novo 시판 허가를 내줬다. FAI 점수로 관상동맥 염증을 시각화하고 명확히 정량화하는 기술로는 처음이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI ECG reads may improve\ntransplant rejection warnings",
-          "body": "AI-assessed ECGs may improve heart transplant rejection warnings, and researchers plan tests at several centers.",
-          "mini_headline": "AI ECGs flag transplant rejection",
+          "headline": "AI flags coronary inflammation\nin plaque-free adults",
+          "body": "In its first U.S. study, CaRi-Heart AI found elevated coronary inflammation in about 47% of adults with no plaque.",
+          "mini_headline": "AI flags heart inflammation",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2020-03/transplant_0.jpg?h=956ee2f3&itok=GcZkfQn3"
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/top_stories/public/2026-10/caristo_fai_used_in_first_us_study_since_fda_clearance.jpg.webp?itok=TH_ctwZ9",
+                "cap": "Caristo's fat attenuation index (FAI) AI-assessment for coronary inflammation in CCTA scans can visualize patient's residual cardiac risk not seen on traditional cardiac assessments."
               },
               {
                 "t": "p",
-                "x": "Researchers with NYU Langone Health may have identified a new way to predict heart transplant rejection without the need for an invasive biopsy. Their findings were published in the Journal of Heart and Lung Transplantation."
+                "x": "The first U.S. study of Caristo Diagnostics’ FDA-cleared CaRi-Heart technology for coronary inflammation detection found a large number of asymptomatic adult patients were actually at an elevated risk of cardiac events."
               },
               {
                 "t": "p",
-                "x": "The researchers trained AI models on more than 5,300 ECG readings from 389 adult heart transplant recipients between 2018 and 2024. One model used ECG data alone; a second combined ECG data with the results of two blood tests, AlloMap and AlloSure, traditionally used to predict rejection risk but with a high false-positive rate."
+                "x": "The study, conducted by the Biograph concierge medicine clinic, used Caristo's fat attenuation index (FAI) AI algorithm on preventive cardiac CT scans and found inflammation in 42.9% of study participants. Of these, 17.9% had very high inflammation levels in at least one major artery. Approximately 47% of participants who had no detectable coronary plaque were found to have elevated coronary perivascular inflammation, which raises their risk of a cardiac event."
               },
               {
                 "t": "p",
-                "x": "In a test group of 38 heart transplant recipients, the combined model performed better. Two patients experienced rejection. The AI model correctly identified 97% of patients who were not experiencing rejection, while the blood-test-only approach incorrectly indicated that 19 patients needed a biopsy."
+                "x": "“Crucially, no routine blood biomarker, lipid metric, or clinical risk score could identify these individuals with inflamed coronary arteries,” said Michael Doney, MD, executive medical director at Biograph. He added that more research is needed to validate this and establish the prognostic value of FAI."
               },
               {
                 "t": "p",
-                "x": "“Heart transplantation is a major, resource-intensive procedure, and rejection is common but treatable if caught in time,” senior author Lior Jankelson, MD, PhD, said. As a next step, the researchers plan to test the AI model in more patients at several transplant centers."
+                "x": "The FDA granted de novo market clearance for the CaRi-Heart technology in late July. It is the first technology that can visualize and clearly quantify coronary inflammation using FAI scores."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI ECG 판독,\n이식 거부 경고 개선 기대",
-          "body": "AI-assessed ECGs로 심장 이식 거부반응 경고가 나아질 수 있다.",
-          "mini_headline": "AI ECGs로 이식 거부반응 포착",
+          "headline": "플라크 없는 성인서도\nAI가 관상동맥 염증 포착",
+          "body": "CaRi-Heart AI가 첫 U.S. 연구서 무플라크군 약 47%의 염증 찾았다.",
+          "mini_headline": "AI가 찾은 심장 염증",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2020-03/transplant_0.jpg?h=956ee2f3&itok=GcZkfQn3"
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/top_stories/public/2026-10/caristo_fai_used_in_first_us_study_since_fda_clearance.jpg.webp?itok=TH_ctwZ9",
+                "cap": "Caristo의 지방 감쇠 지수(FAI) 기반 AI-assessment는 CCTA 영상으로 관상동맥 염증을 평가해, 기존 심장 검사로는 안 보이던 환자의 잔여 심장 위험을 시각화한다."
               },
               {
                 "t": "p",
-                "x": "NYU Langone Health 연구진이 침습적 생검 없이 심장 이식 거부반응을 예측할 새 방법을 찾았을지 모른다. 결과는 Journal of Heart and Lung Transplantation에 실렸다."
+                "x": "Caristo Diagnostics의 FDA-cleared 관상동맥 염증 탐지 기술 CaRi-Heart를 다룬 첫 U.S. 연구에서 증상 없는 성인 환자 상당수가 실제로는 심장 사건 위험이 높은 상태였다."
               },
               {
                 "t": "p",
-                "x": "연구진은 2018년부터 2024년까지 성인 심장 이식 수혜자 389명에게서 얻은 5,300건이 넘는 ECG 판독 데이터로 AI 모델을 학습시켰다. 한 모델은 ECG 데이터만 썼다. 다른 모델은 ECG 데이터에 AlloMap과 AlloSure, 두 가지 혈액검사 결과를 더했다. 두 검사는 그동안 거부반응 위험 예측에 쓰였지만 위양성률이 높다."
+                "x": "Biograph 컨시어지 의료 클리닉이 진행한 이 연구는 예방 목적으로 찍은 심장 CT 영상에 Caristo의 지방 감쇠 지수(FAI) AI 알고리즘을 적용해 참가자의 42.9%에서 염증을 찾아냈다. 그중 17.9%는 주요 동맥 하나 이상의 염증 수준이 매우 높았다. 관상동맥 플라크가 없던 참가자도 약 47%는 관상동맥 주위 염증이 높았는데, 이런 염증은 심장 사건 위험을 끌어올린다."
               },
               {
                 "t": "p",
-                "x": "심장 이식 수혜자 38명으로 꾸린 테스트 그룹에서는 결합 모델이 더 나은 성적을 냈다. 거부반응을 겪은 환자는 두 명이었다. AI 모델은 거부반응이 없는 환자의 97%를 정확히 가려냈다. 혈액검사만 쓴 방식은 19명에게 생검이 필요하다고 잘못 판단했다."
+                "x": "Biograph의 수석 의료 책임자 Michael Doney, MD는 “결정적으로, 일상적인 혈액 바이오마커나 지질 지표, 임상 위험 점수 가운데 어느 것도 관상동맥에 염증이 있는 이들을 가려내지 못했다”고 말했다. 이를 검증하고 FAI의 예후 가치를 확립하려면 추가 연구가 필요하다는 말도 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "“심장 이식은 자원이 많이 드는 대수술이며, 거부반응은 흔하지만 제때 발견하면 치료할 수 있다”고 책임저자 Lior Jankelson, MD, PhD는 말했다. 연구진은 다음으로 여러 이식 센터의 더 많은 환자에게 AI 모델을 시험할 계획이다."
+                "x": "FDA는 7월 말 CaRi-Heart 기술에 de novo 시판 허가를 내줬다. FAI 점수로 관상동맥 염증을 시각화하고 명확히 정량화하는 기술로는 처음이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIのECG解析で\n移植拒絶の警告改善か",
-          "body": "AI-assessed ECGsで移植拒絶の警告が改善する可能性があり、多施設で検証する。",
-          "mini_headline": "AI ECGsで移植拒絶を検知",
+          "headline": "プラークのない成人に\nAIが冠動脈炎症を検出",
+          "body": "初のU.S.研究で、CaRi-Heart AIは無プラーク成人の約47%に炎症亢進を認めた。",
+          "mini_headline": "AIが心臓の炎症を検出",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2020-03/transplant_0.jpg?h=956ee2f3&itok=GcZkfQn3"
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/top_stories/public/2026-10/caristo_fai_used_in_first_us_study_since_fda_clearance.jpg.webp?itok=TH_ctwZ9",
+                "cap": "CaristoのFAI（脂肪減衰指数）によるAI-assessmentは、CCTA画像で冠動脈炎症を評価し、従来の心臓検査では見えなかった患者の残存心リスクを可視化できる。"
               },
               {
                 "t": "p",
-                "x": "NYU Langone Healthの研究チームが、侵襲的な生検を必要とせずに心臓移植の拒絶反応を予測する新たな方法を見いだした可能性がある。研究結果はJournal of Heart and Lung Transplantationに掲載された。"
+                "x": "Caristo DiagnosticsのFDA-clearedな冠動脈炎症検出技術CaRi-Heartを用いた初のU.S.研究で、無症状の成人患者の多くが実際には心イベントのリスクが高い状態にあることがわかった。"
               },
               {
                 "t": "p",
-                "x": "研究チームは、2018年から2024年にかけて成人の心臓移植患者389人から得た5,300件を超えるECG記録でAIモデルを訓練した。一方のモデルはECGデータのみを使い、もう一方はECGデータにAlloMapとAlloSureという二つの血液検査の結果を組み合わせた。これらの検査は従来、拒絶リスクの予測に用いられてきたが、偽陽性率が高い。"
+                "x": "コンシェルジュ医療クリニックBiographが実施したこの研究は、予防目的の心臓CT画像にCaristoのFAI（脂肪減衰指数）AIアルゴリズムを適用し、参加者の42.9%に炎症を認めた。そのうち17.9%は、少なくとも1本の主要動脈で炎症レベルが非常に高かった。冠動脈プラークが検出されなかった参加者の約47%でも冠動脈周囲の炎症が亢進しており、心イベントのリスクを高めている。"
               },
               {
                 "t": "p",
-                "x": "38人の心臓移植患者からなるテスト群では、組み合わせモデルの性能が上回った。拒絶反応を起こした患者は二人だった。AIモデルは拒絶反応のない患者の97%を正しく識別した一方、血液検査のみの方法では19人に生検が必要だと誤って示された。"
+                "x": "Biographのエグゼクティブ・メディカル・ディレクター、Michael Doney, MDは「決定的なのは、通常の血液バイオマーカーも脂質指標も臨床リスクスコアも、冠動脈に炎症を抱えるこうした人々を特定できなかったことだ」と述べた。そのうえで、これを検証しFAIの予後的価値を確立するにはさらなる研究が必要だと付け加えた。"
               },
               {
                 "t": "p",
-                "x": "「心臓移植は多くの資源を要する大手術であり、拒絶反応はよく起こるが、早期に見つければ治療できる」と、責任著者のLior Jankelson, MD, PhDは述べた。研究チームは次の段階として、複数の移植センターでより多くの患者を対象にAIモデルを検証する計画だ。"
+                "x": "FDAは7月下旬、CaRi-Heart技術にde novoの市販認可を与えた。FAIスコアを用いて冠動脈炎症を可視化し、明確に定量化できる初の技術である。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI解读ECG\n或改善移植排斥预警",
-          "body": "AI-assessed ECGs或可改善心脏移植排斥预警，研究人员计划在多个中心开展测试。",
-          "mini_headline": "AI ECGs预警移植排斥",
+          "headline": "AI在无斑块成人中\n发现冠状动脉炎症",
+          "body": "在首项U.S.研究中，CaRi-Heart AI发现约47%无斑块成人的冠状动脉炎症升高。",
+          "mini_headline": "AI发现心脏炎症",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2020-03/transplant_0.jpg?h=956ee2f3&itok=GcZkfQn3"
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/top_stories/public/2026-10/caristo_fai_used_in_first_us_study_since_fda_clearance.jpg.webp?itok=TH_ctwZ9",
+                "cap": "Caristo基于脂肪衰减指数（FAI）的AI-assessment可在CCTA扫描中评估冠状动脉炎症，呈现传统心脏评估无法发现的患者残余心脏风险。"
               },
               {
                 "t": "p",
-                "x": "NYU Langone Health的研究人员可能找到了一种无需侵入性活检即可预测心脏移植排斥反应的新方法。研究结果发表在Journal of Heart and Lung Transplantation上。"
+                "x": "针对Caristo Diagnostics获FDA-cleared的冠状动脉炎症检测技术CaRi-Heart的首项U.S.研究发现，大量无症状成年患者实际上心脏事件风险偏高。"
               },
               {
                 "t": "p",
-                "x": "研究人员利用2018年至2024年间389名成人心脏移植受者的5,300多份ECG读数训练AI模型。其中一个模型仅使用ECG数据；另一个模型则将ECG数据与AlloMap和AlloSure两项血液检测的结果相结合，这两项检测传统上用于预测排斥风险，但假阳性率较高。"
+                "x": "该研究由礼宾医疗诊所Biograph开展，将Caristo的脂肪衰减指数（FAI）AI算法用于预防性心脏CT扫描，在42.9%的参与者中发现炎症。其中17.9%至少有一条主要动脉炎症水平非常高。在未检出冠状动脉斑块的参与者中，约47%存在冠状动脉周围炎症升高，这会增加其心脏事件风险。"
               },
               {
                 "t": "p",
-                "x": "在由38名心脏移植受者组成的测试组中，组合模型表现更好。有两名患者发生了排斥反应。AI模型正确识别出97%未发生排斥的患者，而仅依靠血液检测的方法错误地提示19名患者需要活检。"
+                "x": "Biograph执行医疗总监Michael Doney, MD表示：“关键在于，任何常规血液生物标志物、血脂指标或临床风险评分都无法识别出这些冠状动脉发炎的人。”他补充说，还需更多研究来验证这一点，并确立FAI的预后价值。"
               },
               {
                 "t": "p",
-                "x": "“心脏移植是一项重大且耗费大量资源的手术，排斥反应很常见，但只要及时发现就可以治疗，”资深作者Lior Jankelson, MD, PhD表示。下一步，研究人员计划在多个移植中心对更多患者测试该AI模型。"
+                "x": "FDA于7月下旬授予CaRi-Heart技术de novo上市许可。这是首项能够利用FAI评分可视化并清晰量化冠状动脉炎症的技术。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "AI detecta inflamación coronaria\nen adultos sin placa",
+          "body": "En su primer estudio en U.S., CaRi-Heart AI halló inflamación coronaria elevada en cerca del 47% de adultos sin placa.",
+          "mini_headline": "La AI detecta inflamación cardiaca",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/top_stories/public/2026-10/caristo_fai_used_in_first_us_study_since_fda_clearance.jpg.webp?itok=TH_ctwZ9",
+                "cap": "La AI-assessment de Caristo basada en el índice de atenuación grasa (FAI) evalúa la inflamación coronaria en estudios CCTA y puede mostrar el riesgo cardiaco residual del paciente que no se ve en las evaluaciones cardiacas tradicionales."
+              },
+              {
+                "t": "p",
+                "x": "El primer estudio en U.S. de la tecnología CaRi-Heart de Caristo Diagnostics, FDA-cleared para detectar inflamación coronaria, encontró que un gran número de pacientes adultos asintomáticos tenía en realidad un riesgo elevado de eventos cardiacos."
+              },
+              {
+                "t": "p",
+                "x": "El estudio, realizado por la clínica de medicina concierge Biograph, aplicó el algoritmo de AI del índice de atenuación grasa (FAI) de Caristo a tomografías cardiacas (CT) preventivas y halló inflamación en el 42.9% de los participantes. De ellos, el 17.9% presentaba niveles de inflamación muy altos en al menos una arteria principal. Cerca del 47% de los participantes sin placa coronaria detectable tenía inflamación perivascular coronaria elevada, lo que aumenta su riesgo de un evento cardiaco."
+              },
+              {
+                "t": "p",
+                "x": "“Lo crucial es que ningún biomarcador sanguíneo rutinario, indicador lipídico ni puntuación de riesgo clínico pudo identificar a estas personas con arterias coronarias inflamadas”, dijo Michael Doney, MD, director médico ejecutivo de Biograph. Añadió que hace falta más investigación para validarlo y establecer el valor pronóstico del FAI."
+              },
+              {
+                "t": "p",
+                "x": "La FDA otorgó la autorización de comercialización de novo a la tecnología CaRi-Heart a finales de julio. Es la primera tecnología capaz de visualizar y cuantificar con claridad la inflamación coronaria mediante puntuaciones FAI."
               }
             ]
           }
@@ -395,110 +199,413 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI ECG 판독,\n이식 거부 경고 개선 기대",
-          "body": "AI-assessed ECGs가 심장 이식 거부 경고를 개선할 수 있다.",
-          "mini_headline": "AI ECGs로 이식 거부반응 포착",
+          "headline": "플라크 없는 성인에게서\nAI가 관상동맥 염증 포착",
+          "body": "CaRi-Heart AI가 첫 U.S. 연구서 무플라크군 약 47%의 염증을 봤다.",
+          "mini_headline": "AI, 심장 염증 포착",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2020-03/transplant_0.jpg?h=956ee2f3&itok=GcZkfQn3"
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/top_stories/public/2026-10/caristo_fai_used_in_first_us_study_since_fda_clearance.jpg.webp?itok=TH_ctwZ9",
+                "cap": "Caristo의 지방 감쇠 지수(FAI) 기반 AI-assessment는 CCTA 영상에서 관상동맥 염증을 평가해, 기존 심장 검사로는 보이지 않던 환자의 잔여 심장 위험을 시각화할 수 있다."
               },
               {
                 "t": "p",
-                "x": "NYU Langone Health 연구진이 침습적 생검 없이 심장 이식 거부반응을 예측하는 새로운 방법을 찾았을 가능성이 있다. 연구 결과는 Journal of Heart and Lung Transplantation에 실렸다."
+                "x": "Caristo Diagnostics의 FDA-cleared 관상동맥 염증 탐지 기술 CaRi-Heart를 다룬 첫 U.S. 연구에서, 증상이 없는 성인 환자 상당수가 실제로는 심장 사건 위험이 높은 상태인 것으로 나타났다."
               },
               {
                 "t": "p",
-                "x": "연구진은 2018년부터 2024년까지 성인 심장 이식 수혜자 389명에게서 얻은 5,300건이 넘는 ECG 판독 데이터로 AI 모델을 학습시켰다. 한 모델은 ECG 데이터만 썼고, 다른 모델은 ECG 데이터에 AlloMap과 AlloSure라는 두 가지 혈액검사 결과를 결합했다. 두 검사는 전통적으로 거부반응 위험 예측에 쓰였지만 위양성률이 높다."
+                "x": "Biograph 컨시어지 의료 클리닉이 수행한 이 연구는 예방 목적의 심장 CT 영상에 Caristo의 지방 감쇠 지수(FAI) AI 알고리즘을 적용해 참가자의 42.9%에서 염증을 확인했다. 이 가운데 17.9%는 주요 동맥 하나 이상에서 염증 수준이 매우 높았다. 관상동맥 플라크가 발견되지 않은 참가자의 약 47%에서도 관상동맥 주위 염증이 높게 나타났고, 이는 심장 사건 위험을 높인다."
               },
               {
                 "t": "p",
-                "x": "심장 이식 수혜자 38명으로 구성된 테스트 그룹에서는 결합 모델의 성능이 더 좋았다. 거부반응을 겪은 환자는 두 명이었다. AI 모델은 거부반응이 없는 환자의 97%를 정확히 가려냈지만, 혈액검사만 쓴 방식은 19명에게 생검이 필요하다고 잘못 판단했다."
+                "x": "Biograph의 수석 의료 책임자 Michael Doney, MD는 “결정적으로, 일상적인 혈액 바이오마커나 지질 지표, 임상 위험 점수 가운데 어느 것도 관상동맥에 염증이 있는 이들을 가려내지 못했다”고 말했다. 그는 이를 검증하고 FAI의 예후 가치를 확립하려면 추가 연구가 필요하다고 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "“심장 이식은 자원이 많이 드는 대수술이며, 거부반응은 흔하지만 제때 발견하면 치료할 수 있다”고 책임저자 Lior Jankelson, MD, PhD는 말했다. 연구진은 다음 단계로 여러 이식 센터에서 더 많은 환자를 대상으로 AI 모델을 시험할 계획이다."
+                "x": "FDA는 7월 말 CaRi-Heart 기술에 de novo 시판 허가를 내줬다. FAI 점수로 관상동맥 염증을 시각화하고 명확히 정량화할 수 있는 첫 기술이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIのECG解析で\n移植拒絶の警告改善か",
-          "body": "AI-assessed ECGsで移植拒絶の警告が改善する可能性があり、多施設で検証する。",
-          "mini_headline": "AI ECGsで移植拒絶を検知",
+          "headline": "プラークのない成人に\nAIが冠動脈炎症を検出",
+          "body": "初のU.S.研究で、CaRi-Heart AIは無プラーク成人の約47%に炎症亢進を認めた。",
+          "mini_headline": "AIが心臓の炎症を検出",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2020-03/transplant_0.jpg?h=956ee2f3&itok=GcZkfQn3"
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/top_stories/public/2026-10/caristo_fai_used_in_first_us_study_since_fda_clearance.jpg.webp?itok=TH_ctwZ9",
+                "cap": "CaristoのFAI（脂肪減衰指数）によるAI-assessmentは、CCTA画像で冠動脈炎症を評価し、従来の心臓検査では見えなかった患者の残存心リスクを可視化できる。"
               },
               {
                 "t": "p",
-                "x": "NYU Langone Healthの研究チームが、侵襲的な生検を必要とせずに心臓移植の拒絶反応を予測する新たな方法を見いだした可能性がある。研究結果はJournal of Heart and Lung Transplantationに掲載された。"
+                "x": "Caristo DiagnosticsのFDA-clearedな冠動脈炎症検出技術CaRi-Heartを用いた初のU.S.研究で、無症状の成人患者の多くが実際には心イベントのリスクが高い状態にあることがわかった。"
               },
               {
                 "t": "p",
-                "x": "研究チームは、2018年から2024年にかけて成人の心臓移植患者389人から得た5,300件を超えるECG記録でAIモデルを訓練した。一方のモデルはECGデータのみを使い、もう一方はECGデータにAlloMapとAlloSureという二つの血液検査の結果を組み合わせた。これらの検査は従来、拒絶リスクの予測に用いられてきたが、偽陽性率が高い。"
+                "x": "コンシェルジュ医療クリニックBiographが実施したこの研究は、予防目的の心臓CT画像にCaristoのFAI（脂肪減衰指数）AIアルゴリズムを適用し、参加者の42.9%に炎症を認めた。そのうち17.9%は、少なくとも1本の主要動脈で炎症レベルが非常に高かった。冠動脈プラークが検出されなかった参加者の約47%でも冠動脈周囲の炎症が亢進しており、心イベントのリスクを高めている。"
               },
               {
                 "t": "p",
-                "x": "38人の心臓移植患者からなるテスト群では、組み合わせモデルの性能が上回った。拒絶反応を起こした患者は二人だった。AIモデルは拒絶反応のない患者の97%を正しく識別した一方、血液検査のみの方法では19人に生検が必要だと誤って示された。"
+                "x": "Biographのエグゼクティブ・メディカル・ディレクター、Michael Doney, MDは「決定的なのは、通常の血液バイオマーカーも脂質指標も臨床リスクスコアも、冠動脈に炎症を抱えるこうした人々を特定できなかったことだ」と述べた。そのうえで、これを検証しFAIの予後的価値を確立するにはさらなる研究が必要だと付け加えた。"
               },
               {
                 "t": "p",
-                "x": "「心臓移植は多くの資源を要する大手術であり、拒絶反応はよく起こるが、早期に見つければ治療できる」と、責任著者のLior Jankelson, MD, PhDは述べた。研究チームは次の段階として、複数の移植センターでより多くの患者を対象にAIモデルを検証する計画だ。"
+                "x": "FDAは7月下旬、CaRi-Heart技術にde novoの市販認可を与えた。FAIスコアを用いて冠動脈炎症を可視化し、明確に定量化できる初の技術である。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI解读ECG\n或改善移植排斥预警",
-          "body": "AI-assessed ECGs或可改善心脏移植排斥预警，研究人员计划在多个中心开展测试。",
-          "mini_headline": "AI ECGs预警移植排斥",
+          "headline": "AI在无斑块成人中\n发现冠状动脉炎症",
+          "body": "在首项U.S.研究中，CaRi-Heart AI发现约47%无斑块成人的冠状动脉炎症升高。",
+          "mini_headline": "AI发现心脏炎症",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2020-03/transplant_0.jpg?h=956ee2f3&itok=GcZkfQn3"
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/top_stories/public/2026-10/caristo_fai_used_in_first_us_study_since_fda_clearance.jpg.webp?itok=TH_ctwZ9",
+                "cap": "Caristo基于脂肪衰减指数（FAI）的AI-assessment可在CCTA扫描中评估冠状动脉炎症，呈现传统心脏评估无法发现的患者残余心脏风险。"
               },
               {
                 "t": "p",
-                "x": "NYU Langone Health的研究人员可能找到了一种无需侵入性活检即可预测心脏移植排斥反应的新方法。研究结果发表在Journal of Heart and Lung Transplantation上。"
+                "x": "针对Caristo Diagnostics获FDA-cleared的冠状动脉炎症检测技术CaRi-Heart的首项U.S.研究发现，大量无症状成年患者实际上心脏事件风险偏高。"
               },
               {
                 "t": "p",
-                "x": "研究人员利用2018年至2024年间389名成人心脏移植受者的5,300多份ECG读数训练AI模型。其中一个模型仅使用ECG数据；另一个模型则将ECG数据与AlloMap和AlloSure两项血液检测的结果相结合，这两项检测传统上用于预测排斥风险，但假阳性率较高。"
+                "x": "该研究由礼宾医疗诊所Biograph开展，将Caristo的脂肪衰减指数（FAI）AI算法用于预防性心脏CT扫描，在42.9%的参与者中发现炎症。其中17.9%至少有一条主要动脉炎症水平非常高。在未检出冠状动脉斑块的参与者中，约47%存在冠状动脉周围炎症升高，这会增加其心脏事件风险。"
               },
               {
                 "t": "p",
-                "x": "在由38名心脏移植受者组成的测试组中，组合模型表现更好。有两名患者发生了排斥反应。AI模型正确识别出97%未发生排斥的患者，而仅依靠血液检测的方法错误地提示19名患者需要活检。"
+                "x": "Biograph执行医疗总监Michael Doney, MD表示：“关键在于，任何常规血液生物标志物、血脂指标或临床风险评分都无法识别出这些冠状动脉发炎的人。”他补充说，还需更多研究来验证这一点，并确立FAI的预后价值。"
               },
               {
                 "t": "p",
-                "x": "“心脏移植是一项重大且耗费大量资源的手术，排斥反应很常见，但只要及时发现就可以治疗，”资深作者Lior Jankelson, MD, PhD表示。下一步，研究人员计划在多个移植中心对更多患者测试该AI模型。"
+                "x": "FDA于7月下旬授予CaRi-Heart技术de novo上市许可。这是首项能够利用FAI评分可视化并清晰量化冠状动脉炎症的技术。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "AI detecta inflamación coronaria\nen adultos sin placa",
+          "body": "En su primer estudio en U.S., CaRi-Heart AI halló inflamación coronaria elevada en cerca del 47% de adultos sin placa.",
+          "mini_headline": "La AI detecta inflamación cardiaca",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/top_stories/public/2026-10/caristo_fai_used_in_first_us_study_since_fda_clearance.jpg.webp?itok=TH_ctwZ9",
+                "cap": "La AI-assessment de Caristo basada en el índice de atenuación grasa (FAI) evalúa la inflamación coronaria en estudios CCTA y puede mostrar el riesgo cardiaco residual del paciente que no se ve en las evaluaciones cardiacas tradicionales."
+              },
+              {
+                "t": "p",
+                "x": "El primer estudio en U.S. de la tecnología CaRi-Heart de Caristo Diagnostics, FDA-cleared para detectar inflamación coronaria, encontró que un gran número de pacientes adultos asintomáticos tenía en realidad un riesgo elevado de eventos cardiacos."
+              },
+              {
+                "t": "p",
+                "x": "El estudio, realizado por la clínica de medicina concierge Biograph, aplicó el algoritmo de AI del índice de atenuación grasa (FAI) de Caristo a tomografías cardiacas (CT) preventivas y halló inflamación en el 42.9% de los participantes. De ellos, el 17.9% presentaba niveles de inflamación muy altos en al menos una arteria principal. Cerca del 47% de los participantes sin placa coronaria detectable tenía inflamación perivascular coronaria elevada, lo que aumenta su riesgo de un evento cardiaco."
+              },
+              {
+                "t": "p",
+                "x": "“Lo crucial es que ningún biomarcador sanguíneo rutinario, indicador lipídico ni puntuación de riesgo clínico pudo identificar a estas personas con arterias coronarias inflamadas”, dijo Michael Doney, MD, director médico ejecutivo de Biograph. Añadió que hace falta más investigación para validarlo y establecer el valor pronóstico del FAI."
+              },
+              {
+                "t": "p",
+                "x": "La FDA otorgó la autorización de comercialización de novo a la tecnología CaRi-Heart a finales de julio. Es la primera tecnología capaz de visualizar y cuantificar con claridad la inflamación coronaria mediante puntuaciones FAI."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "medicine-heidi-scribe",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 스크라이브 써도\n생산성은 제자리",
+      "body": "Heidi로 Beth Israel Deaconess 기록 21→18.6분만 줄었다.",
+      "mini_headline": "기록만 빨라진 스크라이브",
+      "tool": "Medicine",
+      "source": "MedPage Today",
+      "url": "https://www.medpagetoday.com/practicemanagement/informationtechnology/123591",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "외래 진료에 AI-driven 앰비언트 스크라이브를 쓰자 노트 작성 시간은 줄고 노트는 길어졌지만 다른 생산성 지표는 대체로 그대로였다는 연구 결과가 나왔다."
+          },
+          {
+            "t": "p",
+            "x": "보스턴 Beth Israel Deaconess Medical Center의 Jennifer P. Stevens, MD 연구팀에 따르면 임상의가 Heidi에 등록한 뒤 전체 사용자의 노트 작성 시간 중앙값은 21분에서 18.6분으로 줄었고, 노트 길이 중앙값은 4,854자에서 5,187자로 늘었다. 다만 당일 또는 근무 시간 외 노트 마감과 임상 생산성에는 차이가 없었다고 연구팀은 Annals of Internal Medicine에 보고했다."
+          },
+          {
+            "t": "p",
+            "x": "병원 14곳으로 이뤄진 Beth Israel Lahey Health 시스템에서 포함 기준을 충족한 임상의 902명 중 67.0%가 Heidi를 한 번 이상 썼다. 노트 작성 시간이 곧바로 줄어든 폭은 고빈도 사용자(-2.50분)가 등록 후 미사용자(-0.29분)나 저빈도 사용자(-0.78분)보다 유의하게 컸다."
+          },
+          {
+            "t": "p",
+            "x": "Rice University의 Kirsten Ostherr, PhD, MPH는 함께 실린 사설에서 이 연구가 Heidi 안에서 노트를 편집하는 데 든 시간을 반영하지 못했다고 짚으면서 이 점이 \"앰비언트 스크라이브가 문서 작업 부담을 줄이는 대신 다른 곳으로 옮기는 것은 아닌지에 대한 중요한 질문을 던진다\"고 썼다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "AI scribes cut note time\nbut not productivity",
+          "body": "At Beth Israel Deaconess, the Heidi scribe cut median note time from 21 to 18.6 minutes, yet productivity held flat.",
+          "mini_headline": "Scribes: faster notes only",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "The use of an AI-driven ambient scribe in outpatient practice was associated with reductions in time spent taking notes and increased note length, but other productivity measures were largely unchanged, researchers found."
+              },
+              {
+                "t": "p",
+                "x": "Among all users, median note-active time decreased from 21 minutes to 18.6 minutes and median note length increased from 4,854 to 5,187 characters after clinicians enrolled in Heidi, according to Jennifer P. Stevens, MD, of Beth Israel Deaconess Medical Center in Boston, and colleagues. However, no differences were seen in same-day or after-hours note closure, or in clinical productivity, they reported in Annals of Internal Medicine."
+              },
+              {
+                "t": "p",
+                "x": "Of 902 clinicians at the 14-hospital Beth Israel Lahey Health system who met inclusion criteria, 67.0% used Heidi at least once. Among high users, the immediate reduction in note-active time was significantly larger (-2.50 minutes) than among enrolled nonusers (-0.29 minutes) and low users (-0.78 minutes)."
+              },
+              {
+                "t": "p",
+                "x": "In an accompanying editorial, Kirsten Ostherr, PhD, MPH, of Rice University noted the study didn't capture time spent editing notes within Heidi, which \"raises an important question about whether ambient scribes relocate documentation burden rather than reduce it.\""
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI 스크라이브 써도\n생산성은 제자리",
+          "body": "Heidi로 Beth Israel Deaconess 기록 21→18.6분만 줄었다.",
+          "mini_headline": "기록만 빨라진 스크라이브",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "외래 진료에 AI-driven 앰비언트 스크라이브를 쓰자 노트 작성 시간은 줄고 노트는 길어졌지만 다른 생산성 지표는 대체로 그대로였다는 연구 결과가 나왔다."
+              },
+              {
+                "t": "p",
+                "x": "보스턴 Beth Israel Deaconess Medical Center의 Jennifer P. Stevens, MD 연구팀에 따르면 임상의가 Heidi에 등록한 뒤 전체 사용자의 노트 작성 시간 중앙값은 21분에서 18.6분으로 줄었고, 노트 길이 중앙값은 4,854자에서 5,187자로 늘었다. 다만 당일 또는 근무 시간 외 노트 마감과 임상 생산성에는 차이가 없었다고 연구팀은 Annals of Internal Medicine에 보고했다."
+              },
+              {
+                "t": "p",
+                "x": "병원 14곳으로 이뤄진 Beth Israel Lahey Health 시스템에서 포함 기준을 충족한 임상의 902명 중 67.0%가 Heidi를 한 번 이상 썼다. 노트 작성 시간이 곧바로 줄어든 폭은 고빈도 사용자(-2.50분)가 등록 후 미사용자(-0.29분)나 저빈도 사용자(-0.78분)보다 유의하게 컸다."
+              },
+              {
+                "t": "p",
+                "x": "Rice University의 Kirsten Ostherr, PhD, MPH는 함께 실린 사설에서 이 연구가 Heidi 안에서 노트를 편집하는 데 든 시간을 반영하지 못했다고 짚으면서 이 점이 \"앰비언트 스크라이브가 문서 작업 부담을 줄이는 대신 다른 곳으로 옮기는 것은 아닌지에 대한 중요한 질문을 던진다\"고 썼다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIスクライブ、記録短縮\n生産性は変わらず",
+          "body": "Beth Israel DeaconessのHeidi、21→18.6分短縮も生産性不変だ。",
+          "mini_headline": "記録だけが速くなった",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "外来診療でAI-drivenのアンビエント・スクライブを使うと、ノート作成時間の短縮とノートの長文化がみられたが、その他の生産性指標はほぼ変わらなかったと研究者らが報告した。"
+              },
+              {
+                "t": "p",
+                "x": "ボストンのBeth Israel Deaconess Medical CenterのJennifer P. Stevens, MDらによると、臨床医がHeidiに登録した後、全ユーザーのノート作成時間の中央値は21分から18.6分に減り、ノートの長さの中央値は4,854字から5,187字に増えた。ただし、当日中または時間外のノート完了や臨床生産性には差がみられなかったと、研究チームはAnnals of Internal Medicineで報告した。"
+              },
+              {
+                "t": "p",
+                "x": "14病院からなるBeth Israel Lahey Healthシステムで組み入れ基準を満たした臨床医902人のうち、67.0%がHeidiを少なくとも一度使用した。高頻度ユーザーでは、ノート作成時間の即時の短縮幅（-2.50分）が、登録後の非使用者（-0.29分）や低頻度ユーザー（-0.78分）より有意に大きかった。"
+              },
+              {
+                "t": "p",
+                "x": "Rice UniversityのKirsten Ostherr, PhD, MPHは付随する論説で、この研究がHeidi内でノートを編集する時間を捉えていないと指摘し、それは「アンビエント・スクライブが文書作成の負担を減らすのではなく、移し替えているだけではないかという重要な問いを投げかける」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI记录员缩短病历时间\n生产力却未提升",
+          "body": "Beth Israel Deaconess的Heidi记录用时21→18.6分钟，效率未变。",
+          "mini_headline": "仅记录更快",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "研究人员发现，在门诊中使用AI-driven环境记录工具，与记录用时减少、病历篇幅增加相关，但其他生产力指标基本未变。"
+              },
+              {
+                "t": "p",
+                "x": "据波士顿Beth Israel Deaconess Medical Center的Jennifer P. Stevens, MD及其同事介绍，临床医生注册Heidi后，全部用户的病历书写用时中位数从21分钟降至18.6分钟，病历长度中位数从4,854字符增至5,187字符。不过，他们在Annals of Internal Medicine上报告称，当日或下班后完成病历的情况以及临床生产力均无差异。"
+              },
+              {
+                "t": "p",
+                "x": "在拥有14家医院的Beth Israel Lahey Health体系中，符合纳入标准的902名临床医生里有67.0%至少使用过一次Heidi。高频用户病历书写用时的即时降幅（-2.50分钟）显著大于已注册未使用者（-0.29分钟）和低频用户（-0.78分钟）。"
+              },
+              {
+                "t": "p",
+                "x": "Rice University的Kirsten Ostherr, PhD, MPH在随附社论中指出，该研究未统计在Heidi内编辑病历所花的时间，这“提出了一个重要问题：环境记录工具究竟是减轻了文书负担，还是只是把负担转移了”。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Escribas de AI ahorran tiempo\npero no mejoran la productividad",
+          "body": "En Beth Israel Deaconess, Heidi bajó el tiempo de notas de 21 a 18.6 minutos, pero la productividad no cambió.",
+          "mini_headline": "Escribas: solo notas más rápidas",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "El uso de un escriba ambiental AI-driven en consulta ambulatoria se asoció con menos tiempo dedicado a redactar notas y notas más largas, pero otras medidas de productividad se mantuvieron en gran medida sin cambios, según los investigadores."
+              },
+              {
+                "t": "p",
+                "x": "Entre todos los usuarios, la mediana del tiempo activo en notas bajó de 21 minutos a 18.6 minutos y la mediana de la longitud de las notas subió de 4,854 a 5,187 caracteres después de que los clínicos se inscribieran en Heidi, según Jennifer P. Stevens, MD, del Beth Israel Deaconess Medical Center de Boston, y sus colegas. Sin embargo, no hubo diferencias en el cierre de notas el mismo día o fuera de horario, ni en la productividad clínica, informaron en Annals of Internal Medicine."
+              },
+              {
+                "t": "p",
+                "x": "De 902 clínicos del sistema Beth Israel Lahey Health, de 14 hospitales, que cumplían los criterios de inclusión, el 67.0% usó Heidi al menos una vez. Entre los usuarios intensivos, la reducción inmediata del tiempo activo en notas fue significativamente mayor (-2.50 minutos) que entre los inscritos que no lo usaron (-0.29 minutos) y los usuarios ocasionales (-0.78 minutos)."
+              },
+              {
+                "t": "p",
+                "x": "En un editorial adjunto, Kirsten Ostherr, PhD, MPH, de Rice University, señaló que el estudio no registró el tiempo dedicado a editar notas dentro de Heidi, lo que \"plantea una pregunta importante sobre si los escribas ambientales trasladan la carga de documentación en lugar de reducirla\"."
               }
             ]
           }
         }
       },
-      "i18n_status": {
-        "es": "fallback"
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI 스크라이브\n기록 빨라도 생산성 그대로",
+          "body": "Heidi는 Beth Israel Deaconess서 21→18.6분 단축만 했다.",
+          "mini_headline": "스크라이브, 기록만 빨라져",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "외래 진료에서 AI-driven 앰비언트 스크라이브를 쓰자 노트 작성 시간은 줄고 노트 길이는 늘었지만, 다른 생산성 지표는 대체로 변하지 않았다고 연구진이 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "보스턴 Beth Israel Deaconess Medical Center의 Jennifer P. Stevens, MD 연구팀에 따르면, 임상의가 Heidi에 등록한 뒤 전체 사용자의 노트 작성 시간 중앙값은 21분에서 18.6분으로 줄었고 노트 길이 중앙값은 4,854자에서 5,187자로 늘었다. 그러나 당일 또는 근무 시간 외 노트 마감, 임상 생산성에서는 차이가 없었다고 연구팀은 Annals of Internal Medicine에 보고했다."
+              },
+              {
+                "t": "p",
+                "x": "14개 병원으로 이뤄진 Beth Israel Lahey Health 시스템에서 포함 기준을 충족한 임상의 902명 가운데 67.0%가 Heidi를 한 번 이상 사용했다. 고빈도 사용자의 노트 작성 시간 즉시 감소폭(-2.50분)은 등록 후 미사용자(-0.29분)나 저빈도 사용자(-0.78분)보다 유의하게 컸다."
+              },
+              {
+                "t": "p",
+                "x": "Rice University의 Kirsten Ostherr, PhD, MPH는 함께 실린 사설에서 이 연구가 Heidi 안에서 노트를 편집하는 데 든 시간을 반영하지 못했다고 지적하며, 이는 \"앰비언트 스크라이브가 문서 작업 부담을 줄이는 대신 다른 곳으로 옮기는 것은 아닌지에 대한 중요한 질문을 던진다\"고 썼다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIスクライブ、記録短縮\n生産性は変わらず",
+          "body": "Beth Israel DeaconessのHeidi、21→18.6分短縮も生産性不変だ。",
+          "mini_headline": "記録だけが速くなった",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "外来診療でAI-drivenのアンビエント・スクライブを使うと、ノート作成時間の短縮とノートの長文化がみられたが、その他の生産性指標はほぼ変わらなかったと研究者らが報告した。"
+              },
+              {
+                "t": "p",
+                "x": "ボストンのBeth Israel Deaconess Medical CenterのJennifer P. Stevens, MDらによると、臨床医がHeidiに登録した後、全ユーザーのノート作成時間の中央値は21分から18.6分に減り、ノートの長さの中央値は4,854字から5,187字に増えた。ただし、当日中または時間外のノート完了や臨床生産性には差がみられなかったと、研究チームはAnnals of Internal Medicineで報告した。"
+              },
+              {
+                "t": "p",
+                "x": "14病院からなるBeth Israel Lahey Healthシステムで組み入れ基準を満たした臨床医902人のうち、67.0%がHeidiを少なくとも一度使用した。高頻度ユーザーでは、ノート作成時間の即時の短縮幅（-2.50分）が、登録後の非使用者（-0.29分）や低頻度ユーザー（-0.78分）より有意に大きかった。"
+              },
+              {
+                "t": "p",
+                "x": "Rice UniversityのKirsten Ostherr, PhD, MPHは付随する論説で、この研究がHeidi内でノートを編集する時間を捉えていないと指摘し、それは「アンビエント・スクライブが文書作成の負担を減らすのではなく、移し替えているだけではないかという重要な問いを投げかける」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI记录员缩短病历时间\n生产力却未提升",
+          "body": "Beth Israel Deaconess的Heidi记录用时21→18.6分钟，效率未变。",
+          "mini_headline": "仅记录更快",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "研究人员发现，在门诊中使用AI-driven环境记录工具，与记录用时减少、病历篇幅增加相关，但其他生产力指标基本未变。"
+              },
+              {
+                "t": "p",
+                "x": "据波士顿Beth Israel Deaconess Medical Center的Jennifer P. Stevens, MD及其同事介绍，临床医生注册Heidi后，全部用户的病历书写用时中位数从21分钟降至18.6分钟，病历长度中位数从4,854字符增至5,187字符。不过，他们在Annals of Internal Medicine上报告称，当日或下班后完成病历的情况以及临床生产力均无差异。"
+              },
+              {
+                "t": "p",
+                "x": "在拥有14家医院的Beth Israel Lahey Health体系中，符合纳入标准的902名临床医生里有67.0%至少使用过一次Heidi。高频用户病历书写用时的即时降幅（-2.50分钟）显著大于已注册未使用者（-0.29分钟）和低频用户（-0.78分钟）。"
+              },
+              {
+                "t": "p",
+                "x": "Rice University的Kirsten Ostherr, PhD, MPH在随附社论中指出，该研究未统计在Heidi内编辑病历所花的时间，这“提出了一个重要问题：环境记录工具究竟是减轻了文书负担，还是只是把负担转移了”。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Escribas de AI ahorran tiempo\npero no mejoran la productividad",
+          "body": "En Beth Israel Deaconess, Heidi bajó el tiempo de notas de 21 a 18.6 minutos, pero la productividad no cambió.",
+          "mini_headline": "Escribas: solo notas más rápidas",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "El uso de un escriba ambiental AI-driven en consulta ambulatoria se asoció con menos tiempo dedicado a redactar notas y notas más largas, pero otras medidas de productividad se mantuvieron en gran medida sin cambios, según los investigadores."
+              },
+              {
+                "t": "p",
+                "x": "Entre todos los usuarios, la mediana del tiempo activo en notas bajó de 21 minutos a 18.6 minutos y la mediana de la longitud de las notas subió de 4,854 a 5,187 caracteres después de que los clínicos se inscribieran en Heidi, según Jennifer P. Stevens, MD, del Beth Israel Deaconess Medical Center de Boston, y sus colegas. Sin embargo, no hubo diferencias en el cierre de notas el mismo día o fuera de horario, ni en la productividad clínica, informaron en Annals of Internal Medicine."
+              },
+              {
+                "t": "p",
+                "x": "De 902 clínicos del sistema Beth Israel Lahey Health, de 14 hospitales, que cumplían los criterios de inclusión, el 67.0% usó Heidi al menos una vez. Entre los usuarios intensivos, la reducción inmediata del tiempo activo en notas fue significativamente mayor (-2.50 minutos) que entre los inscritos que no lo usaron (-0.29 minutos) y los usuarios ocasionales (-0.78 minutos)."
+              },
+              {
+                "t": "p",
+                "x": "En un editorial adjunto, Kirsten Ostherr, PhD, MPH, de Rice University, señaló que el estudio no registró el tiempo dedicado a editar notas dentro de Heidi, lo que \"plantea una pregunta importante sobre si los escribas ambientales trasladan la carga de documentación en lugar de reducirla\"."
+              }
+            ]
+          }
+        }
       }
     },
     {
-      "id": "medicine-hf-functional-decline",
+      "id": "medicine-pa-ai-disclosure",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI, 심부전 환자의\n기능 저하 위험 가려낸다",
-      "body": "AI 모델이 사망 위험뿐 아니라 퇴원 후 기능을 잃을 심부전 환자도 가려낸다.",
-      "mini_headline": "AI, 심부전 기능 저하 예측",
+      "headline": "펜실베이니아 하원\n진료 AI 공개 법안 가결",
+      "body": "영상센터를 비롯한 의료기관은 임상 AI 사용을 웹사이트·서면으로 알려야 한다.",
+      "mini_headline": "PA, AI 사용 공개 법안",
       "tool": "Medicine",
-      "source": "Cardiovascular Business",
-      "url": "https://cardiovascularbusiness.com/topics/clinical/heart-failure/ai-flags-heart-failure-patients-risk-functional-decline",
+      "source": "Radiology Business",
+      "url": "https://radiologybusiness.com/topics/artificial-intelligence/pennsylvania-house-passes-bill-requiring-ai-disclosure-healthcare",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -506,173 +613,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-983942394.jpg?h=39b07655&itok=8Yg4Z5XX"
+            "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-03/istock-2214959014.jpg?h=140710cd&itok=VthZy7qr",
+            "cap": ""
           },
           {
             "t": "p",
-            "x": "고도화된 인공지능(AI) 모델로 고령 심부전 환자의 기능 저하가 언제 시작될지 예측할 수 있다는 연구가 Journal of Cardiac Failure에 실렸다."
+            "x": "Pennsylvania 하원은 9월 30일 House Bill 1925를 144-59 표결로 통과시켰다. 의료기관의 공개 의무와 함께, 이용 심사에서 보험사의 AI 의존을 제한하는 조항이 담겼다. 수정된 법안은 10월 14일 상원 Institutional Sustainability and Innovation Committee로 넘어갔고, 지금은 상원에 계류돼 있다."
           },
           {
             "t": "p",
-            "x": "연구진은 심부전으로 입원해 재활 처방을 받은 65세 이상 환자 6,000여 명의 데이터를 분석했다. 나이 중앙값은 82세였다. 머신러닝 모델은 환자가 일 년 안에 기능을 유지할지, 기능이 떨어질지(외출하지 못하거나 누워 지내는 생활로 바뀌는 경우), 사망할지 그 위험을 추정한다."
+            "x": "법이 시행되면 영상센터를 포함한 의료기관은 진료 에피소드마다 한 번씩 웹사이트 게시와 서면 환자 안내로 임상 의사결정에 AI를 쓴다고 알려야 한다. AI 시스템 성능도 적어도 해마다 점검하고, 이 기술이 의료진의 독립적인 임상 판단보다 앞서지 않게 해야 한다."
           },
           {
             "t": "p",
-            "x": "전체 환자의 32.5%가 퇴원 후 일 년 안에 기능 저하를 겪었고 14% 이상은 사망했다. 77가지 요인을 쓰는 이 모델은 선별 도구 Kihon Checklist보다 이런 결과를 더 정확하게 가려냈다."
-          },
-          {
-            "t": "p",
-            "x": "“환자가 생존할지만 물을 것이 아니라, 퇴원 후에도 자신이 소중히 여기는 삶을 유지할 수 있을지를 물어야 한다”고 일본 Juntendo University의 제1저자 Kanji Yamada, PT, PhD는 말했다."
+            "x": "이용 심사 담당자는 사전 승인 거부처럼 불리한 보장 결정을 내리거나 유지하기 전에 사람이 감독하지 않은 AI 권고에 기대선 안 된다. 임상 기록을 직접 검토해 독립적으로 판단해야 한다. American College of Radiology는 2027년 주 의회 회기에도 비슷한 법안이 나올 것으로 내다본다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI flags heart failure patients\nat risk of functional decline",
-          "body": "An AI model flags heart failure patients likely to lose function after discharge, not only those at risk of dying.",
-          "mini_headline": "AI predicts heart failure decline",
+          "headline": "Pennsylvania House votes\nfor AI disclosure in care",
+          "body": "The bill would make facilities, imaging centers included, disclose clinical AI use on websites and in written notices.",
+          "mini_headline": "PA bill: disclose AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-983942394.jpg?h=39b07655&itok=8Yg4Z5XX"
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-03/istock-2214959014.jpg?h=140710cd&itok=VthZy7qr",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Advanced artificial intelligence (AI) models can anticipate when older heart failure patients may start to experience functional decline, according to new findings published in the Journal of Cardiac Failure."
+                "x": "The Pennsylvania House of Representatives approved House Bill 1925, which includes disclosure rules for healthcare facilities and restrictions on insurers' reliance on AI during utilization review, by a 144-59 vote on Sept. 30. The amended bill was referred to the Senate Institutional Sustainability and Innovation Committee on Oct. 14 and remains pending in the Senate."
               },
               {
                 "t": "p",
-                "x": "Researchers explored data from more than 6,000 patients 65 years old or older who were hospitalized for heart failure and prescribed rehabilitation; the median age was 82. The machine learning model estimates a patient’s one-year risk of functional maintenance, functional decline (a transition to a housebound/bedridden lifestyle) or death."
+                "x": "If enacted, the legislation would require healthcare facilities, including imaging centers, to disclose their use of AI in clinical decision-making through website postings and written patient notifications, once per episode of care. Facilities would be required to review AI system performance at least annually and ensure that the technology does not supersede providers' independent clinical judgment."
               },
               {
                 "t": "p",
-                "x": "Overall, 32.5% of patients experienced functional decline and more than 14% died within one year of discharge. The model, which used 77 different factors, identified these outcomes with improved accuracy compared to the Kihon Checklist screening tool."
-              },
-              {
-                "t": "p",
-                "x": "“Instead of asking only whether a patient will survive, we need to ask whether they will be able to maintain the life they value after discharge,” lead author Kanji Yamada, PT, PhD, of Juntendo University in Japan, said."
+                "x": "Before issuing or upholding an adverse coverage determination, such as a prior authorization denial, individuals conducting utilization review would be required to review clinical records and make their own independent judgment rather than relying on AI recommendations without human oversight. The American College of Radiology expects similar proposals during 2027 state legislative sessions."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI, 심부전 환자의\n기능 저하 위험 가려낸다",
-          "body": "AI 모델이 사망 위험뿐 아니라 퇴원 후 기능을 잃을 심부전 환자도 가려낸다.",
-          "mini_headline": "AI, 심부전 기능 저하 예측",
+          "headline": "펜실베이니아 하원\n진료 AI 공개 법안 가결",
+          "body": "영상센터를 비롯한 의료기관은 임상 AI 사용을 웹사이트·서면으로 알려야 한다.",
+          "mini_headline": "PA, AI 사용 공개 법안",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-983942394.jpg?h=39b07655&itok=8Yg4Z5XX"
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-03/istock-2214959014.jpg?h=140710cd&itok=VthZy7qr",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "고도화된 인공지능(AI) 모델로 고령 심부전 환자의 기능 저하가 언제 시작될지 예측할 수 있다는 연구가 Journal of Cardiac Failure에 실렸다."
+                "x": "Pennsylvania 하원은 9월 30일 House Bill 1925를 144-59 표결로 통과시켰다. 의료기관의 공개 의무와 함께, 이용 심사에서 보험사의 AI 의존을 제한하는 조항이 담겼다. 수정된 법안은 10월 14일 상원 Institutional Sustainability and Innovation Committee로 넘어갔고, 지금은 상원에 계류돼 있다."
               },
               {
                 "t": "p",
-                "x": "연구진은 심부전으로 입원해 재활 처방을 받은 65세 이상 환자 6,000여 명의 데이터를 분석했다. 나이 중앙값은 82세였다. 머신러닝 모델은 환자가 일 년 안에 기능을 유지할지, 기능이 떨어질지(외출하지 못하거나 누워 지내는 생활로 바뀌는 경우), 사망할지 그 위험을 추정한다."
+                "x": "법이 시행되면 영상센터를 포함한 의료기관은 진료 에피소드마다 한 번씩 웹사이트 게시와 서면 환자 안내로 임상 의사결정에 AI를 쓴다고 알려야 한다. AI 시스템 성능도 적어도 해마다 점검하고, 이 기술이 의료진의 독립적인 임상 판단보다 앞서지 않게 해야 한다."
               },
               {
                 "t": "p",
-                "x": "전체 환자의 32.5%가 퇴원 후 일 년 안에 기능 저하를 겪었고 14% 이상은 사망했다. 77가지 요인을 쓰는 이 모델은 선별 도구 Kihon Checklist보다 이런 결과를 더 정확하게 가려냈다."
-              },
-              {
-                "t": "p",
-                "x": "“환자가 생존할지만 물을 것이 아니라, 퇴원 후에도 자신이 소중히 여기는 삶을 유지할 수 있을지를 물어야 한다”고 일본 Juntendo University의 제1저자 Kanji Yamada, PT, PhD는 말했다."
+                "x": "이용 심사 담당자는 사전 승인 거부처럼 불리한 보장 결정을 내리거나 유지하기 전에 사람이 감독하지 않은 AI 권고에 기대선 안 된다. 임상 기록을 직접 검토해 독립적으로 판단해야 한다. American College of Radiology는 2027년 주 의회 회기에도 비슷한 법안이 나올 것으로 내다본다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが心不全患者の\n機能低下リスクを予測",
-          "body": "AIモデルが死亡リスクだけでなく、退院後に機能を失いそうな心不全患者も見分ける。",
-          "mini_headline": "AIが心不全の機能低下を予測",
+          "headline": "ペンシルベニア州下院\n医療AI開示法案を可決",
+          "body": "法案は画像センターを含む医療機関に、臨床AIの使用をウェブと書面で開示させる。",
+          "mini_headline": "PA法案：AI使用を開示",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-983942394.jpg?h=39b07655&itok=8Yg4Z5XX"
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-03/istock-2214959014.jpg?h=140710cd&itok=VthZy7qr",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "高度な人工知能（AI）モデルは、高齢の心不全患者がいつ機能低下を経験し始めるかを予測できるという新たな研究結果が、Journal of Cardiac Failureに掲載された。"
+                "x": "Pennsylvania州下院は9月30日、医療機関の開示ルールと、利用審査における保険会社のAI依存の制限を盛り込んだHouse Bill 1925を144-59の賛成多数で可決した。修正法案は10月14日に上院のInstitutional Sustainability and Innovation Committeeに付託され、現在も上院で審議中である。"
               },
               {
                 "t": "p",
-                "x": "研究チームは、心不全で入院しリハビリを処方された65歳以上の患者6,000人超のデータを分析した。年齢の中央値は82歳だった。この機械学習モデルは、患者の一年以内の機能維持、機能低下（外出困難・寝たきりの生活への移行）、または死亡のリスクを推定する。"
+                "x": "成立すれば、画像センターを含む医療機関は、臨床判断におけるAIの使用を、ウェブサイトへの掲載と患者への書面通知によって、一連の診療ごとに一度開示しなければならない。医療機関は毎年少なくとも一度AIシステムの性能を見直し、技術が医療者の独立した臨床判断に取って代わらないようにする必要がある。"
               },
               {
                 "t": "p",
-                "x": "全体では、退院から一年以内に患者の32.5%が機能低下を経験し、14%超が死亡した。77の異なる因子を用いたこのモデルは、Kihon Checklistによるスクリーニングと比べて、これらの転帰をより高い精度で識別した。"
-              },
-              {
-                "t": "p",
-                "x": "「患者が生き延びるかどうかだけを問うのではなく、退院後も本人が大切にする生活を維持できるかを問う必要がある」と、日本のJuntendo University（順天堂大学）の筆頭著者Kanji Yamada, PT, PhDは述べた。"
+                "x": "事前承認の拒否など不利な給付判断を下す、または維持する前に、利用審査の担当者は人の監督のないAIの推奨に頼らず、臨床記録を確認して自ら独立した判断を下すことが求められる。American College of Radiologyは、2027年の州議会会期でも同様の法案が出てくると見込んでいる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI识别心衰患者\n功能衰退风险",
-          "body": "AI模型不仅能识别死亡风险，还能找出出院后可能丧失功能的心衰患者。",
-          "mini_headline": "AI预测心衰功能衰退",
+          "headline": "宾夕法尼亚州众议院\n通过医疗AI披露法案",
+          "body": "法案将要求含影像中心在内的医疗机构，通过网站和书面通知披露临床AI使用。",
+          "mini_headline": "PA法案：须披露AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-983942394.jpg?h=39b07655&itok=8Yg4Z5XX"
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-03/istock-2214959014.jpg?h=140710cd&itok=VthZy7qr",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "发表在Journal of Cardiac Failure上的新研究显示，先进的人工智能（AI）模型能够预判老年心力衰竭患者何时可能开始出现功能衰退。"
+                "x": "Pennsylvania州众议院于9月30日以144-59的票数通过House Bill 1925，该法案包含医疗机构披露规则，并限制保险公司在使用审查中依赖AI。修订后的法案已于10月14日提交州参议院Institutional Sustainability and Innovation Committee，目前仍待参议院审议。"
               },
               {
                 "t": "p",
-                "x": "研究人员分析了6,000多名因心力衰竭住院并获得康复治疗处方的65岁及以上患者的数据，中位年龄为82岁。该机器学习模型可估算患者一年内维持功能、功能衰退（转为居家不出/卧床的生活方式）或死亡的风险。"
+                "x": "该法案一旦生效，包括影像中心在内的医疗机构须在每个诊疗周期内披露一次其在临床决策中使用AI的情况，方式为网站公示和书面告知患者。医疗机构须至少每年一次审查AI系统的表现，并确保该技术不会凌驾于医务人员独立的临床判断之上。"
               },
               {
                 "t": "p",
-                "x": "总体而言，32.5%的患者在出院后一年内出现功能衰退，超过14%的患者死亡。该模型使用了77项不同因素，在识别这些结局方面的准确性优于Kihon Checklist筛查工具。"
-              },
-              {
-                "t": "p",
-                "x": "“我们不能只问患者能否存活，还要问他们出院后能否维持自己珍视的生活，”日本Juntendo University（顺天堂大学）的第一作者Kanji Yamada, PT, PhD表示。"
+                "x": "在作出或维持不利的保险覆盖决定（如拒绝事先授权）之前，负责使用审查的人员须审阅临床记录并作出自己的独立判断，而不能在缺乏人工监督的情况下依赖AI建议。American College of Radiology预计，2027年各州立法会期中将出现类似提案。"
               }
             ]
           }
         },
         "es": {
-          "headline": "AI prevé deterioro funcional\nen la insuficiencia cardiaca",
-          "body": "Un modelo de AI señala qué pacientes con insuficiencia cardiaca perderían función tras el alta, no solo cuáles morirán.",
-          "mini_headline": "AI predice el deterioro en insuficiencia cardiaca",
+          "headline": "Cámara de Pennsylvania aprueba\nrevelar el uso de AI en salud",
+          "body": "El proyecto obligaría a centros, incluidos los de imagen, a informar del uso clínico de AI en webs y avisos escritos.",
+          "mini_headline": "Ley de PA: revelar la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-983942394.jpg?h=39b07655&itok=8Yg4Z5XX"
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-03/istock-2214959014.jpg?h=140710cd&itok=VthZy7qr",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Los modelos avanzados de inteligencia artificial (AI) pueden anticipar cuándo los pacientes mayores con insuficiencia cardiaca podrían empezar a sufrir deterioro funcional, según nuevos hallazgos publicados en el Journal of Cardiac Failure."
+                "x": "La Cámara de Representantes de Pennsylvania aprobó el 30 de septiembre, por 144-59 votos, la House Bill 1925, que incluye normas de divulgación para centros sanitarios y restricciones a que las aseguradoras dependan de la AI en la revisión de utilización. El proyecto enmendado se remitió el 14 de octubre al Senate Institutional Sustainability and Innovation Committee y sigue pendiente en el Senado."
               },
               {
                 "t": "p",
-                "x": "Los investigadores analizaron datos de más de 6,000 pacientes de 65 años o más hospitalizados por insuficiencia cardiaca y con rehabilitación prescrita; la mediana de edad fue de 82 años. El modelo de aprendizaje automático estima el riesgo a un año de que un paciente mantenga su funcionalidad, sufra deterioro funcional (paso a una vida confinada en casa o en cama) o muera."
+                "x": "Si se aprueba, la ley exigiría a los centros sanitarios, incluidos los de imagen, informar de su uso de AI en la toma de decisiones clínicas mediante publicaciones en su sitio web y notificaciones escritas a los pacientes, una vez por episodio de atención. Los centros deberían revisar el rendimiento de los sistemas de AI al menos una vez al año y garantizar que la tecnología no se imponga al juicio clínico independiente de los profesionales."
               },
               {
                 "t": "p",
-                "x": "En total, el 32.5% de los pacientes sufrió deterioro funcional y más del 14% murió en el año siguiente al alta. El modelo, que utilizó 77 factores distintos, identificó estos desenlaces con mayor precisión que la herramienta de cribado Kihon Checklist."
-              },
-              {
-                "t": "p",
-                "x": "“En lugar de preguntar solo si un paciente sobrevivirá, debemos preguntar si podrá mantener la vida que valora después del alta”, dijo el autor principal Kanji Yamada, PT, PhD, de la Juntendo University en Japón."
+                "x": "Antes de emitir o mantener una decisión de cobertura desfavorable, como la denegación de una autorización previa, quienes realicen la revisión de utilización tendrían que revisar los historiales clínicos y formarse su propio juicio independiente, en lugar de basarse en recomendaciones de AI sin supervisión humana. El American College of Radiology prevé propuestas similares en las sesiones legislativas estatales de 2027."
               }
             ]
           }
@@ -680,121 +769,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI, 심부전 환자의\n기능 저하 위험 가려낸다",
-          "body": "AI 모델이 사망 위험뿐 아니라 퇴원 후 기능을 잃을 심부전 환자도 가려낸다.",
-          "mini_headline": "AI, 심부전 기능 저하 예측",
+          "headline": "펜실베이니아 하원,\n진료 AI 공개 법안 가결",
+          "body": "법안은 영상센터 포함 의료기관에 임상 AI 사용을 웹사이트·서면으로 알리게 한다.",
+          "mini_headline": "PA 법안: AI 사용 공개",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-983942394.jpg?h=39b07655&itok=8Yg4Z5XX"
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-03/istock-2214959014.jpg?h=140710cd&itok=VthZy7qr",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "고도화된 인공지능(AI) 모델이 고령 심부전 환자의 기능 저하가 언제 시작될지 예측할 수 있다는 새 연구 결과가 Journal of Cardiac Failure에 실렸다."
+                "x": "Pennsylvania 하원은 9월 30일 의료기관 공개 규정과, 이용 심사 과정에서 보험사의 AI 의존을 제한하는 내용을 담은 House Bill 1925를 144-59 표결로 통과시켰다. 수정된 법안은 10월 14일 상원 Institutional Sustainability and Innovation Committee에 회부됐고, 현재 상원에 계류 중이다."
               },
               {
                 "t": "p",
-                "x": "연구진은 심부전으로 입원해 재활 처방을 받은 65세 이상 환자 6,000여 명의 데이터를 분석했다. 나이 중앙값은 82세였다. 머신러닝 모델은 환자의 일 년 내 기능 유지, 기능 저하(외출하지 못하거나 누워 지내는 생활로의 전환), 사망 위험을 추정한다."
+                "x": "법이 시행되면 영상센터를 포함한 의료기관은 진료 에피소드마다 한 번씩, 웹사이트 게시와 서면 환자 안내를 통해 임상 의사결정에 AI를 쓴다는 사실을 공개해야 한다. 의료기관은 적어도 해마다 AI 시스템 성능을 점검하고, 이 기술이 의료진의 독립적인 임상 판단을 앞서지 않도록 해야 한다."
               },
               {
                 "t": "p",
-                "x": "전체적으로 환자의 32.5%가 퇴원 후 일 년 안에 기능 저하를 겪었고, 14% 이상이 사망했다. 77가지 요인을 활용한 이 모델은 Kihon Checklist 선별 도구보다 높은 정확도로 이런 결과를 가려냈다."
-              },
-              {
-                "t": "p",
-                "x": "“환자가 생존할지만 물을 것이 아니라, 퇴원 후에도 자신이 소중히 여기는 삶을 유지할 수 있을지를 물어야 한다”고 일본 Juntendo University의 제1저자 Kanji Yamada, PT, PhD는 말했다."
+                "x": "사전 승인 거부처럼 불리한 보장 결정을 내리거나 유지하기 전에, 이용 심사 담당자는 사람의 감독 없는 AI 권고에 기대지 말고 임상 기록을 직접 검토해 스스로 독립적인 판단을 내려야 한다. American College of Radiology는 2027년 주 의회 회기에서도 비슷한 법안이 나올 것으로 내다본다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが心不全患者の\n機能低下リスクを予測",
-          "body": "AIモデルが死亡リスクだけでなく、退院後に機能を失いそうな心不全患者も見分ける。",
-          "mini_headline": "AIが心不全の機能低下を予測",
+          "headline": "ペンシルベニア州下院\n医療AI開示法案を可決",
+          "body": "法案は画像センターを含む医療機関に、臨床AIの使用をウェブと書面で開示させる。",
+          "mini_headline": "PA法案：AI使用を開示",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-983942394.jpg?h=39b07655&itok=8Yg4Z5XX"
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-03/istock-2214959014.jpg?h=140710cd&itok=VthZy7qr",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "高度な人工知能（AI）モデルは、高齢の心不全患者がいつ機能低下を経験し始めるかを予測できるという新たな研究結果が、Journal of Cardiac Failureに掲載された。"
+                "x": "Pennsylvania州下院は9月30日、医療機関の開示ルールと、利用審査における保険会社のAI依存の制限を盛り込んだHouse Bill 1925を144-59の賛成多数で可決した。修正法案は10月14日に上院のInstitutional Sustainability and Innovation Committeeに付託され、現在も上院で審議中である。"
               },
               {
                 "t": "p",
-                "x": "研究チームは、心不全で入院しリハビリを処方された65歳以上の患者6,000人超のデータを分析した。年齢の中央値は82歳だった。この機械学習モデルは、患者の一年以内の機能維持、機能低下（外出困難・寝たきりの生活への移行）、または死亡のリスクを推定する。"
+                "x": "成立すれば、画像センターを含む医療機関は、臨床判断におけるAIの使用を、ウェブサイトへの掲載と患者への書面通知によって、一連の診療ごとに一度開示しなければならない。医療機関は毎年少なくとも一度AIシステムの性能を見直し、技術が医療者の独立した臨床判断に取って代わらないようにする必要がある。"
               },
               {
                 "t": "p",
-                "x": "全体では、退院から一年以内に患者の32.5%が機能低下を経験し、14%超が死亡した。77の異なる因子を用いたこのモデルは、Kihon Checklistによるスクリーニングと比べて、これらの転帰をより高い精度で識別した。"
-              },
-              {
-                "t": "p",
-                "x": "「患者が生き延びるかどうかだけを問うのではなく、退院後も本人が大切にする生活を維持できるかを問う必要がある」と、日本のJuntendo University（順天堂大学）の筆頭著者Kanji Yamada, PT, PhDは述べた。"
+                "x": "事前承認の拒否など不利な給付判断を下す、または維持する前に、利用審査の担当者は人の監督のないAIの推奨に頼らず、臨床記録を確認して自ら独立した判断を下すことが求められる。American College of Radiologyは、2027年の州議会会期でも同様の法案が出てくると見込んでいる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI识别心衰患者\n功能衰退风险",
-          "body": "AI模型不仅能识别死亡风险，还能找出出院后可能丧失功能的心衰患者。",
-          "mini_headline": "AI预测心衰功能衰退",
+          "headline": "宾夕法尼亚州众议院\n通过医疗AI披露法案",
+          "body": "法案将要求含影像中心在内的医疗机构，通过网站和书面通知披露临床AI使用。",
+          "mini_headline": "PA法案：须披露AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-983942394.jpg?h=39b07655&itok=8Yg4Z5XX"
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-03/istock-2214959014.jpg?h=140710cd&itok=VthZy7qr",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "发表在Journal of Cardiac Failure上的新研究显示，先进的人工智能（AI）模型能够预判老年心力衰竭患者何时可能开始出现功能衰退。"
+                "x": "Pennsylvania州众议院于9月30日以144-59的票数通过House Bill 1925，该法案包含医疗机构披露规则，并限制保险公司在使用审查中依赖AI。修订后的法案已于10月14日提交州参议院Institutional Sustainability and Innovation Committee，目前仍待参议院审议。"
               },
               {
                 "t": "p",
-                "x": "研究人员分析了6,000多名因心力衰竭住院并获得康复治疗处方的65岁及以上患者的数据，中位年龄为82岁。该机器学习模型可估算患者一年内维持功能、功能衰退（转为居家不出/卧床的生活方式）或死亡的风险。"
+                "x": "该法案一旦生效，包括影像中心在内的医疗机构须在每个诊疗周期内披露一次其在临床决策中使用AI的情况，方式为网站公示和书面告知患者。医疗机构须至少每年一次审查AI系统的表现，并确保该技术不会凌驾于医务人员独立的临床判断之上。"
               },
               {
                 "t": "p",
-                "x": "总体而言，32.5%的患者在出院后一年内出现功能衰退，超过14%的患者死亡。该模型使用了77项不同因素，在识别这些结局方面的准确性优于Kihon Checklist筛查工具。"
-              },
-              {
-                "t": "p",
-                "x": "“我们不能只问患者能否存活，还要问他们出院后能否维持自己珍视的生活，”日本Juntendo University（顺天堂大学）的第一作者Kanji Yamada, PT, PhD表示。"
+                "x": "在作出或维持不利的保险覆盖决定（如拒绝事先授权）之前，负责使用审查的人员须审阅临床记录并作出自己的独立判断，而不能在缺乏人工监督的情况下依赖AI建议。American College of Radiology预计，2027年各州立法会期中将出现类似提案。"
               }
             ]
           }
         },
         "es": {
-          "headline": "AI prevé deterioro funcional\nen la insuficiencia cardiaca",
-          "body": "Un modelo de AI señala qué pacientes con insuficiencia cardiaca perderían función tras el alta, no solo cuáles morirán.",
-          "mini_headline": "AI predice el deterioro en insuficiencia cardiaca",
+          "headline": "Cámara de Pennsylvania aprueba\nrevelar el uso de AI en salud",
+          "body": "El proyecto obligaría a centros, incluidos los de imagen, a informar del uso clínico de AI en webs y avisos escritos.",
+          "mini_headline": "Ley de PA: revelar la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-983942394.jpg?h=39b07655&itok=8Yg4Z5XX"
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-03/istock-2214959014.jpg?h=140710cd&itok=VthZy7qr",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Los modelos avanzados de inteligencia artificial (AI) pueden anticipar cuándo los pacientes mayores con insuficiencia cardiaca podrían empezar a sufrir deterioro funcional, según nuevos hallazgos publicados en el Journal of Cardiac Failure."
+                "x": "La Cámara de Representantes de Pennsylvania aprobó el 30 de septiembre, por 144-59 votos, la House Bill 1925, que incluye normas de divulgación para centros sanitarios y restricciones a que las aseguradoras dependan de la AI en la revisión de utilización. El proyecto enmendado se remitió el 14 de octubre al Senate Institutional Sustainability and Innovation Committee y sigue pendiente en el Senado."
               },
               {
                 "t": "p",
-                "x": "Los investigadores analizaron datos de más de 6,000 pacientes de 65 años o más hospitalizados por insuficiencia cardiaca y con rehabilitación prescrita; la mediana de edad fue de 82 años. El modelo de aprendizaje automático estima el riesgo a un año de que un paciente mantenga su funcionalidad, sufra deterioro funcional (paso a una vida confinada en casa o en cama) o muera."
+                "x": "Si se aprueba, la ley exigiría a los centros sanitarios, incluidos los de imagen, informar de su uso de AI en la toma de decisiones clínicas mediante publicaciones en su sitio web y notificaciones escritas a los pacientes, una vez por episodio de atención. Los centros deberían revisar el rendimiento de los sistemas de AI al menos una vez al año y garantizar que la tecnología no se imponga al juicio clínico independiente de los profesionales."
               },
               {
                 "t": "p",
-                "x": "En total, el 32.5% de los pacientes sufrió deterioro funcional y más del 14% murió en el año siguiente al alta. El modelo, que utilizó 77 factores distintos, identificó estos desenlaces con mayor precisión que la herramienta de cribado Kihon Checklist."
-              },
-              {
-                "t": "p",
-                "x": "“En lugar de preguntar solo si un paciente sobrevivirá, debemos preguntar si podrá mantener la vida que valora después del alta”, dijo el autor principal Kanji Yamada, PT, PhD, de la Juntendo University en Japón."
+                "x": "Antes de emitir o mantener una decisión de cobertura desfavorable, como la denegación de una autorización previa, quienes realicen la revisión de utilización tendrían que revisar los historiales clínicos y formarse su propio juicio independiente, en lugar de basarse en recomendaciones de AI sin supervisión humana. El American College of Radiology prevé propuestas similares en las sesiones legislativas estatales de 2027."
               }
             ]
           }
@@ -802,243 +879,141 @@
       }
     },
     {
-      "id": "medicine-doximity-uptodate-ask",
+      "id": "medicine-coreline-aorta",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Doximity AI\nAsk에 UpToDate",
-      "body": "Doximity Ask AI가 Wolters Kluwer UpToDate를 품는다.",
-      "mini_headline": "Doximity Ask에 UpToDate 탑재",
+      "headline": "Coreline Soft\n대동맥 CT로 FDA 허가",
+      "body": "Coreline CT용 Aview Aorta Metrics, FDA 13번째다.",
+      "mini_headline": "대동맥 CT AI, FDA 허가",
       "tool": "Medicine",
-      "source": "Fierce Healthcare",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/doximity-adds-uptodate-ask-push-become-doctors-go-ai-platform",
+      "source": "AuntMinnie",
+      "url": "https://www.auntminnie.com/clinical-news/ct/news/15975406/coreline-soft-coreline-soft-secures-fda-clearance-for-aortic-ct-software",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg?VersionId=iT2xffiTsfbfPwNM_SW3dz_eFZZ.4yvd",
-            "cap": "Doximity는 임상 AI 도구 투자를 늘리고 있다. Wolters Kluwer와 손잡은 Ask는 임상 지식의 관문 자리를 노린다."
+            "t": "p",
+            "x": "한국 서울에 본사를 둔 AI 개발사 Coreline Soft가 흉부 CT로 대동맥을 정량 평가하는 소프트웨어 Aview Aorta Metrics의 U.S. 식품의약국(FDA) 510(k) 허가를 받았다."
           },
           {
             "t": "p",
-            "x": "Doximity가 Wolters Kluwer Health와 손잡고 UpToDate의 근거 기반 임상 콘텐츠를 자사 AI 임상 의사결정 지원 도구 Doximity Ask에 바로 넣기로 했다."
+            "x": "업체 설명으로는 이 소프트웨어가 흉부 CT 영상에서 대동맥을 자동 분할하고 대동맥 구역을 나눈 뒤 구역별 직경을 잰다. 직선화 곡면 재구성(straightened curved planar reformation)과 단면, 3D 뷰, 분석 보고서도 함께 제공한다고 Coreline Soft는 밝혔다."
           },
           {
             "t": "p",
-            "x": "몇 주 안에 두 제품을 함께 쓰는 의료기관의 임상의는 Ask 워크플로를 벗어나지 않고 Doximity Ask의 답변과 나란히 UpToDate 임상 주제 13,000개와 모범 진료 가이드에 근거한 답변을 보게 된다."
-          },
-          {
-            "t": "p",
-            "x": "회사는 앰비언트 기록 도구 Scribe와 Ask 같은 임상 AI 제품군을 키워 의사를 위한 대표 AI 플랫폼이 되려 한다. Doximity는 일 년 전 임상 AI 기업 Pathway를 인수했다."
-          },
-          {
-            "t": "p",
-            "x": "“모든 프런티어 모델은 똑같은 저널을 다 읽었다. UpToDate는 RCT가 없을 때 어떤 일이 벌어지는지에 관해 경험 많은 의사들이 만든 최고 수준의 참고 자료로서 독보적이다”라고 Doximity CEO Jeff Tangney는 Fierce Healthcare에 말했다."
-          },
-          {
-            "t": "p",
-            "x": "회사에 따르면 U.S. 의사의 85% 이상이 Doximity 회원이다. Ask를 비롯한 임상 AI 도구는 165곳이 넘는 의료기관에 들어갔다."
-          },
-          {
-            "t": "p",
-            "x": "임상 AI 경쟁은 갈수록 거세다. Wolters Kluwer는 Epic, Abridge와도 손잡고 두 회사의 AI-powered CDS 도구에 UpToDate를 넣고 있다."
+            "x": "회사 측은 이번이 Coreline Soft의 13번째 FDA 510(k) 허가라고 밝혔다. Aview Aorta Metrics는 흉부 CT로 여러 질환을 분석하는 회사의 Aview 플랫폼에 들어간다. 플랫폼에는 폐결절 탐지·분석용 Aview LCS와 Aview Lung Nodule CAD, 비조영 흉부 CT로 관상동맥 칼슘 점수를 내는 Aview CAC가 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Doximity adds UpToDate\nto its Ask AI tool",
-          "body": "Doximity is embedding Wolters Kluwer's UpToDate clinical content directly inside Ask, its AI decision support tool.",
-          "mini_headline": "Doximity adds UpToDate to Ask",
+          "headline": "Coreline Soft wins FDA nod\nfor aortic CT software",
+          "body": "Aview Aorta Metrics segments the aorta on chest CT and measures each zone's diameter, Coreline's 13th FDA clearance.",
+          "mini_headline": "FDA clears aortic CT AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg?VersionId=iT2xffiTsfbfPwNM_SW3dz_eFZZ.4yvd",
-                "cap": "As Doximity ramps up its investment in clinical AI tools, the partnership with Wolters Kluwer positions Ask as the front door to clinical knowledge."
+                "t": "p",
+                "x": "Seoul, South Korea-based AI developer Coreline Soft has received U.S. Food and Drug Administration (FDA) 510(k) clearance for Aview Aorta Metrics, its software for quantitative aortic assessment on chest CT."
               },
               {
                 "t": "p",
-                "x": "Doximity inked a partnership with Wolters Kluwer Health to embed UpToDate's evidence-based clinical content directly within Doximity Ask, the company’s AI clinical decision support tool."
+                "x": "The software automatically segments the aorta from chest CT images, classifies aortic zones, and measures the diameter of each zone, according to the vendor. It also provides straightened curved planar reformation, cross-sectional, and 3D views, as well as analysis reports, Coreline Soft said."
               },
               {
                 "t": "p",
-                "x": "In the coming weeks, at health systems that use both products, clinicians will see an answer based on UpToDate’s 13,000 clinical topics and best practice guides alongside Doximity Ask’s response, without leaving the Ask workflow."
-              },
-              {
-                "t": "p",
-                "x": "The company aims to become a leading AI platform for doctors, scaling a clinical AI suite that includes its ambient note-taking tool Scribe and Ask. A year ago, Doximity acquired clinical AI company Pathway."
-              },
-              {
-                "t": "p",
-                "x": "“Every frontier model has read all the same journals. UpToDate stands alone as a gold standard reference from experienced physicians about what happens when there isn't an RCT,” Doximity CEO Jeff Tangney told Fierce Healthcare."
-              },
-              {
-                "t": "p",
-                "x": "Doximity’s membership includes more than 85% of all U.S. doctors, and its clinical AI tools, including Ask, have been deployed across more than 165 health systems, according to the company."
-              },
-              {
-                "t": "p",
-                "x": "Competition in clinical AI is intensifying. Wolters Kluwer has also partnered with Epic and Abridge to integrate UpToDate into their AI-powered CDS tools."
+                "x": "The clearance is Coreline Soft's 13th FDA 510(k) clearance, according to the company. Aview Aorta Metrics joins the firm's Aview platform for analysis of multiple diseases on chest CT, which includes Aview LCS and Aview Lung Nodule CAD for lung nodule detection and analysis, and Aview CAC for coronary artery calcium scoring on noncontrast chest CT."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Doximity AI\nAsk에 UpToDate",
-          "body": "Doximity Ask AI가 Wolters Kluwer UpToDate를 품는다.",
-          "mini_headline": "Doximity Ask에 UpToDate 탑재",
+          "headline": "Coreline Soft\n대동맥 CT로 FDA 허가",
+          "body": "Coreline CT용 Aview Aorta Metrics, FDA 13번째다.",
+          "mini_headline": "대동맥 CT AI, FDA 허가",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg?VersionId=iT2xffiTsfbfPwNM_SW3dz_eFZZ.4yvd",
-                "cap": "Doximity는 임상 AI 도구 투자를 늘리고 있다. Wolters Kluwer와 손잡은 Ask는 임상 지식의 관문 자리를 노린다."
+                "t": "p",
+                "x": "한국 서울에 본사를 둔 AI 개발사 Coreline Soft가 흉부 CT로 대동맥을 정량 평가하는 소프트웨어 Aview Aorta Metrics의 U.S. 식품의약국(FDA) 510(k) 허가를 받았다."
               },
               {
                 "t": "p",
-                "x": "Doximity가 Wolters Kluwer Health와 손잡고 UpToDate의 근거 기반 임상 콘텐츠를 자사 AI 임상 의사결정 지원 도구 Doximity Ask에 바로 넣기로 했다."
+                "x": "업체 설명으로는 이 소프트웨어가 흉부 CT 영상에서 대동맥을 자동 분할하고 대동맥 구역을 나눈 뒤 구역별 직경을 잰다. 직선화 곡면 재구성(straightened curved planar reformation)과 단면, 3D 뷰, 분석 보고서도 함께 제공한다고 Coreline Soft는 밝혔다."
               },
               {
                 "t": "p",
-                "x": "몇 주 안에 두 제품을 함께 쓰는 의료기관의 임상의는 Ask 워크플로를 벗어나지 않고 Doximity Ask의 답변과 나란히 UpToDate 임상 주제 13,000개와 모범 진료 가이드에 근거한 답변을 보게 된다."
-              },
-              {
-                "t": "p",
-                "x": "회사는 앰비언트 기록 도구 Scribe와 Ask 같은 임상 AI 제품군을 키워 의사를 위한 대표 AI 플랫폼이 되려 한다. Doximity는 일 년 전 임상 AI 기업 Pathway를 인수했다."
-              },
-              {
-                "t": "p",
-                "x": "“모든 프런티어 모델은 똑같은 저널을 다 읽었다. UpToDate는 RCT가 없을 때 어떤 일이 벌어지는지에 관해 경험 많은 의사들이 만든 최고 수준의 참고 자료로서 독보적이다”라고 Doximity CEO Jeff Tangney는 Fierce Healthcare에 말했다."
-              },
-              {
-                "t": "p",
-                "x": "회사에 따르면 U.S. 의사의 85% 이상이 Doximity 회원이다. Ask를 비롯한 임상 AI 도구는 165곳이 넘는 의료기관에 들어갔다."
-              },
-              {
-                "t": "p",
-                "x": "임상 AI 경쟁은 갈수록 거세다. Wolters Kluwer는 Epic, Abridge와도 손잡고 두 회사의 AI-powered CDS 도구에 UpToDate를 넣고 있다."
+                "x": "회사 측은 이번이 Coreline Soft의 13번째 FDA 510(k) 허가라고 밝혔다. Aview Aorta Metrics는 흉부 CT로 여러 질환을 분석하는 회사의 Aview 플랫폼에 들어간다. 플랫폼에는 폐결절 탐지·분석용 Aview LCS와 Aview Lung Nodule CAD, 비조영 흉부 CT로 관상동맥 칼슘 점수를 내는 Aview CAC가 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "DoximityのAI\nAskにUpToDate搭載",
-          "body": "DoximityがAI「Ask」にWolters KluwerのUpToDateを統合する。",
-          "mini_headline": "DoximityのAskにUpToDate",
+          "headline": "Coreline Soft\n大動脈CTソフトにFDA認可",
+          "body": "CT大動脈用Aview Aorta MetricsはCoreline 13件目FDA認可だ。",
+          "mini_headline": "FDAが大動脈CT AIを認可",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg?VersionId=iT2xffiTsfbfPwNM_SW3dz_eFZZ.4yvd",
-                "cap": "Doximityが臨床AIツールへの投資を拡大するなか、Wolters Kluwerとの提携により、Askは臨床知識への入り口として位置づけられる。"
+                "t": "p",
+                "x": "韓国・ソウルに拠点を置くAI開発企業Coreline Softは、胸部CTで大動脈を定量評価するソフトウェアAview Aorta Metricsについて、U.S.食品医薬品局（FDA）の510(k)認可を取得した。"
               },
               {
                 "t": "p",
-                "x": "Doximityは、Wolters Kluwer Healthと提携し、UpToDateのエビデンスに基づく臨床コンテンツを、同社のAI臨床意思決定支援ツール「Doximity Ask」に直接組み込む。"
+                "x": "同社によると、このソフトウェアは胸部CT画像から大動脈を自動でセグメンテーションし、大動脈の区域を分類して各区域の直径を計測する。さらに、ストレート化した曲面多断面再構成（straightened curved planar reformation）、断面、3Dの各ビューと解析レポートも提供するとCoreline Softは説明した。"
               },
               {
                 "t": "p",
-                "x": "今後数週間のうちに、両製品を導入している医療システムでは、臨床医がAskのワークフローを離れることなく、Doximity Askの回答と並んで、UpToDateの13,000の臨床トピックとベストプラクティスガイドに基づく回答を確認できるようになる。"
-              },
-              {
-                "t": "p",
-                "x": "同社は、アンビエント記録ツールScribeとAskを含む臨床AIスイートを拡大し、医師向けの主要なAIプラットフォームになることを目指している。Doximityは一年前、臨床AI企業Pathwayを買収した。"
-              },
-              {
-                "t": "p",
-                "x": "「フロンティアモデルはどれも同じ論文誌をすべて読んでいる。UpToDateは、RCTがない場合に何が起きるかについて、経験豊富な医師がまとめたゴールドスタンダードの参考資料として唯一無二の存在だ」と、DoximityのCEO、Jeff TangneyはFierce Healthcareに語った。"
-              },
-              {
-                "t": "p",
-                "x": "同社によると、Doximityの会員にはU.S.の医師全体の85%超が含まれ、Askを含む臨床AIツールは165を超える医療システムで導入されている。"
-              },
-              {
-                "t": "p",
-                "x": "臨床AIをめぐる競争は激しさを増している。Wolters KluwerはEpicやAbridgeとも提携し、両社のAI-powered CDSツールにUpToDateを統合している。"
+                "x": "同社によれば、今回の認可はCoreline Softにとって13件目のFDA 510(k)認可となる。Aview Aorta Metricsは、胸部CTで複数の疾患を解析する同社のAviewプラットフォームに加わる。同プラットフォームには、肺結節の検出・解析用のAview LCSとAview Lung Nodule CAD、非造影胸部CTで冠動脈カルシウムスコアを算出するAview CACが含まれる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Doximity AI工具\nAsk接入UpToDate",
-          "body": "Doximity将Wolters Kluwer的UpToDate直接嵌入AI工具Ask。",
-          "mini_headline": "Doximity Ask接入UpToDate",
+          "headline": "Coreline Soft\n主动脉CT软件获FDA批准",
+          "body": "CT主动脉软件Aview Aorta Metrics是Coreline第13项FDA许可。",
+          "mini_headline": "FDA批准主动脉CT AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg?VersionId=iT2xffiTsfbfPwNM_SW3dz_eFZZ.4yvd",
-                "cap": "随着Doximity加大对临床AI工具的投入，与Wolters Kluwer的合作使Ask成为获取临床知识的入口。"
+                "t": "p",
+                "x": "总部位于韩国首尔的AI开发商Coreline Soft已就其胸部CT主动脉定量评估软件Aview Aorta Metrics获得U.S.食品药品监督管理局（FDA）510(k)许可。"
               },
               {
                 "t": "p",
-                "x": "Doximity与Wolters Kluwer Health达成合作，将UpToDate的循证临床内容直接嵌入该公司的AI临床决策支持工具Doximity Ask。"
+                "x": "据该公司介绍，该软件可从胸部CT图像中自动分割主动脉、划分主动脉分区并测量各分区直径。Coreline Soft表示，它还提供拉直曲面重建（straightened curved planar reformation）、横断面和3D视图以及分析报告。"
               },
               {
                 "t": "p",
-                "x": "未来几周内，在同时使用这两款产品的医疗系统中，临床医生无需离开Ask工作流程，就能在Doximity Ask的回答旁看到基于UpToDate 13,000个临床主题和最佳实践指南的答案。"
-              },
-              {
-                "t": "p",
-                "x": "该公司的目标是成为领先的医生AI平台，正在扩展包括环境记录工具Scribe和Ask在内的临床AI套件。一年前，Doximity收购了临床AI公司Pathway。"
-              },
-              {
-                "t": "p",
-                "x": "“每个前沿模型读过的期刊都一样。对于没有RCT时会发生什么，UpToDate作为由经验丰富的医生撰写的金标准参考资料，独一无二，”Doximity CEO Jeff Tangney对Fierce Healthcare表示。"
-              },
-              {
-                "t": "p",
-                "x": "据该公司介绍，Doximity的会员涵盖U.S.全部医生的85%以上，包括Ask在内的临床AI工具已部署在超过165个医疗系统中。"
-              },
-              {
-                "t": "p",
-                "x": "临床AI领域的竞争日趋激烈。Wolters Kluwer还与Epic和Abridge合作，将UpToDate整合进它们的AI-powered CDS工具。"
+                "x": "该公司称，这是Coreline Soft获得的第13项FDA 510(k)许可。Aview Aorta Metrics将加入公司用于胸部CT多病种分析的Aview平台，该平台包括用于肺结节检测与分析的Aview LCS和Aview Lung Nodule CAD，以及在非增强胸部CT上进行冠状动脉钙化评分的Aview CAC。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Doximity integra UpToDate\nen su herramienta de AI Ask",
-          "body": "Doximity integra el contenido clínico UpToDate de Wolters Kluwer en Ask, su herramienta de apoyo a decisiones con AI.",
-          "mini_headline": "Doximity suma UpToDate a Ask",
+          "headline": "Coreline Soft obtiene aval FDA\npara software aórtico de CT",
+          "body": "Aview Aorta Metrics segmenta la aorta en CT de tórax y mide el diámetro por zona, la 13.ª autorización FDA de Coreline.",
+          "mini_headline": "La FDA autoriza AI de CT aórtica",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg?VersionId=iT2xffiTsfbfPwNM_SW3dz_eFZZ.4yvd",
-                "cap": "A medida que Doximity aumenta su inversión en herramientas de AI clínica, la alianza con Wolters Kluwer sitúa a Ask como la puerta de entrada al conocimiento clínico."
+                "t": "p",
+                "x": "Coreline Soft, desarrollador de AI con sede en Seúl (Corea del Sur), recibió la autorización 510(k) de la Administración de Alimentos y Medicamentos de U.S. (FDA) para Aview Aorta Metrics, su software de evaluación aórtica cuantitativa en CT de tórax."
               },
               {
                 "t": "p",
-                "x": "Doximity cerró una alianza con Wolters Kluwer Health para integrar el contenido clínico basado en evidencia de UpToDate directamente en Doximity Ask, la herramienta de AI de apoyo a la decisión clínica de la compañía."
+                "x": "Según la empresa, el software segmenta automáticamente la aorta en imágenes de CT de tórax, clasifica las zonas aórticas y mide el diámetro de cada una. También ofrece vistas de reformación planar curva enderezada, transversales y 3D, además de informes de análisis, indicó Coreline Soft."
               },
               {
                 "t": "p",
-                "x": "En las próximas semanas, en los sistemas de salud que usan ambos productos, los clínicos verán una respuesta basada en los 13,000 temas clínicos y guías de buenas prácticas de UpToDate junto a la respuesta de Doximity Ask, sin salir del flujo de trabajo de Ask."
-              },
-              {
-                "t": "p",
-                "x": "La compañía aspira a convertirse en una plataforma de AI líder para médicos, ampliando una suite de AI clínica que incluye su herramienta de notas ambientales Scribe y Ask. Hace un año, Doximity adquirió la empresa de AI clínica Pathway."
-              },
-              {
-                "t": "p",
-                "x": "“Todos los modelos de frontera han leído las mismas revistas. UpToDate es única como referencia de máximo nivel elaborada por médicos experimentados sobre lo que ocurre cuando no hay un RCT”, dijo el CEO de Doximity, Jeff Tangney, a Fierce Healthcare."
-              },
-              {
-                "t": "p",
-                "x": "Según la compañía, Doximity cuenta entre sus miembros con más del 85% de todos los médicos de U.S., y sus herramientas de AI clínica, incluida Ask, se han implementado en más de 165 sistemas de salud."
-              },
-              {
-                "t": "p",
-                "x": "La competencia en AI clínica se intensifica. Wolters Kluwer también se ha asociado con Epic y Abridge para integrar UpToDate en sus herramientas CDS AI-powered."
+                "x": "Se trata de la 13.ª autorización FDA 510(k) de Coreline Soft, según la compañía. Aview Aorta Metrics se suma a la plataforma Aview de la firma para el análisis de múltiples enfermedades en CT de tórax, que incluye Aview LCS y Aview Lung Nodule CAD para la detección y el análisis de nódulos pulmonares, y Aview CAC para la puntuación de calcio en arterias coronarias en CT de tórax sin contraste."
               }
             ]
           }
@@ -1046,157 +1021,89 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Doximity AI\nAsk에 UpToDate",
-          "body": "Doximity Ask AI가 Wolters Kluwer UpToDate를 품는다.",
-          "mini_headline": "Doximity Ask에 UpToDate 탑재",
+          "headline": "Coreline Soft\n대동맥 CT FDA 허가",
+          "body": "Coreline CT용 Aview Aorta Metrics, FDA 13번째다.",
+          "mini_headline": "FDA, 대동맥 CT AI 허가",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg?VersionId=iT2xffiTsfbfPwNM_SW3dz_eFZZ.4yvd",
-                "cap": "Doximity가 임상 AI 도구 투자를 늘리는 가운데, Wolters Kluwer와의 제휴로 Ask는 임상 지식으로 들어가는 관문 자리를 노린다."
+                "t": "p",
+                "x": "한국 서울에 본사를 둔 AI 개발사 Coreline Soft가 흉부 CT에서 대동맥을 정량 평가하는 소프트웨어 Aview Aorta Metrics로 U.S. 식품의약국(FDA) 510(k) 허가를 받았다."
               },
               {
                 "t": "p",
-                "x": "Doximity가 Wolters Kluwer Health와 제휴를 맺고, UpToDate의 근거 기반 임상 콘텐츠를 자사 AI 임상 의사결정 지원 도구인 Doximity Ask 안에 직접 넣기로 했다."
+                "x": "업체에 따르면 이 소프트웨어는 흉부 CT 영상에서 대동맥을 자동으로 분할하고 대동맥 구역을 분류한 뒤 구역별 직경을 측정한다. 직선화 곡면 재구성(straightened curved planar reformation), 단면, 3D 뷰와 분석 보고서도 제공한다고 Coreline Soft는 밝혔다."
               },
               {
                 "t": "p",
-                "x": "앞으로 몇 주 안에 두 제품을 모두 쓰는 의료기관의 임상의는 Ask 워크플로를 벗어나지 않고도 Doximity Ask의 답변과 함께 UpToDate의 임상 주제 13,000개와 모범 진료 가이드에 기반한 답변을 보게 된다."
-              },
-              {
-                "t": "p",
-                "x": "회사는 앰비언트 기록 도구 Scribe와 Ask를 포함한 임상 AI 제품군을 키워 의사를 위한 대표 AI 플랫폼이 되는 것을 목표로 한다. Doximity는 일 년 전 임상 AI 기업 Pathway를 인수했다."
-              },
-              {
-                "t": "p",
-                "x": "“모든 프런티어 모델은 똑같은 저널을 다 읽었다. UpToDate는 RCT가 없을 때 어떤 일이 벌어지는지에 관해 경험 많은 의사들이 만든 최고 수준의 참고 자료로서 독보적이다”라고 Doximity CEO Jeff Tangney는 Fierce Healthcare에 말했다."
-              },
-              {
-                "t": "p",
-                "x": "회사에 따르면 Doximity 회원에는 U.S. 의사 전체의 85% 이상이 포함돼 있고, Ask를 비롯한 임상 AI 도구는 165곳이 넘는 의료기관에 배포됐다."
-              },
-              {
-                "t": "p",
-                "x": "임상 AI 경쟁은 거세지고 있다. Wolters Kluwer는 Epic, Abridge와도 제휴해 이들의 AI-powered CDS 도구에 UpToDate를 통합하고 있다."
+                "x": "회사에 따르면 이번 허가는 Coreline Soft의 13번째 FDA 510(k) 허가다. Aview Aorta Metrics는 흉부 CT로 여러 질환을 분석하는 회사의 Aview 플랫폼에 합류한다. 이 플랫폼에는 폐결절 탐지·분석용 Aview LCS와 Aview Lung Nodule CAD, 비조영 흉부 CT에서 관상동맥 칼슘 점수를 산출하는 Aview CAC가 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "DoximityのAI\nAskにUpToDate搭載",
-          "body": "DoximityがAI「Ask」にWolters KluwerのUpToDateを統合する。",
-          "mini_headline": "DoximityのAskにUpToDate",
+          "headline": "Coreline Soft\n大動脈CTソフトにFDA認可",
+          "body": "CT大動脈用Aview Aorta MetricsはCoreline 13件目FDA認可だ。",
+          "mini_headline": "FDAが大動脈CT AIを認可",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg?VersionId=iT2xffiTsfbfPwNM_SW3dz_eFZZ.4yvd",
-                "cap": "Doximityが臨床AIツールへの投資を拡大するなか、Wolters Kluwerとの提携により、Askは臨床知識への入り口として位置づけられる。"
+                "t": "p",
+                "x": "韓国・ソウルに拠点を置くAI開発企業Coreline Softは、胸部CTで大動脈を定量評価するソフトウェアAview Aorta Metricsについて、U.S.食品医薬品局（FDA）の510(k)認可を取得した。"
               },
               {
                 "t": "p",
-                "x": "Doximityは、Wolters Kluwer Healthと提携し、UpToDateのエビデンスに基づく臨床コンテンツを、同社のAI臨床意思決定支援ツール「Doximity Ask」に直接組み込む。"
+                "x": "同社によると、このソフトウェアは胸部CT画像から大動脈を自動でセグメンテーションし、大動脈の区域を分類して各区域の直径を計測する。さらに、ストレート化した曲面多断面再構成（straightened curved planar reformation）、断面、3Dの各ビューと解析レポートも提供するとCoreline Softは説明した。"
               },
               {
                 "t": "p",
-                "x": "今後数週間のうちに、両製品を導入している医療システムでは、臨床医がAskのワークフローを離れることなく、Doximity Askの回答と並んで、UpToDateの13,000の臨床トピックとベストプラクティスガイドに基づく回答を確認できるようになる。"
-              },
-              {
-                "t": "p",
-                "x": "同社は、アンビエント記録ツールScribeとAskを含む臨床AIスイートを拡大し、医師向けの主要なAIプラットフォームになることを目指している。Doximityは一年前、臨床AI企業Pathwayを買収した。"
-              },
-              {
-                "t": "p",
-                "x": "「フロンティアモデルはどれも同じ論文誌をすべて読んでいる。UpToDateは、RCTがない場合に何が起きるかについて、経験豊富な医師がまとめたゴールドスタンダードの参考資料として唯一無二の存在だ」と、DoximityのCEO、Jeff TangneyはFierce Healthcareに語った。"
-              },
-              {
-                "t": "p",
-                "x": "同社によると、Doximityの会員にはU.S.の医師全体の85%超が含まれ、Askを含む臨床AIツールは165を超える医療システムで導入されている。"
-              },
-              {
-                "t": "p",
-                "x": "臨床AIをめぐる競争は激しさを増している。Wolters KluwerはEpicやAbridgeとも提携し、両社のAI-powered CDSツールにUpToDateを統合している。"
+                "x": "同社によれば、今回の認可はCoreline Softにとって13件目のFDA 510(k)認可となる。Aview Aorta Metricsは、胸部CTで複数の疾患を解析する同社のAviewプラットフォームに加わる。同プラットフォームには、肺結節の検出・解析用のAview LCSとAview Lung Nodule CAD、非造影胸部CTで冠動脈カルシウムスコアを算出するAview CACが含まれる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Doximity AI工具\nAsk接入UpToDate",
-          "body": "Doximity将Wolters Kluwer的UpToDate直接嵌入AI工具Ask。",
-          "mini_headline": "Doximity Ask接入UpToDate",
+          "headline": "Coreline Soft\n主动脉CT软件获FDA批准",
+          "body": "CT主动脉软件Aview Aorta Metrics是Coreline第13项FDA许可。",
+          "mini_headline": "FDA批准主动脉CT AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg?VersionId=iT2xffiTsfbfPwNM_SW3dz_eFZZ.4yvd",
-                "cap": "随着Doximity加大对临床AI工具的投入，与Wolters Kluwer的合作使Ask成为获取临床知识的入口。"
+                "t": "p",
+                "x": "总部位于韩国首尔的AI开发商Coreline Soft已就其胸部CT主动脉定量评估软件Aview Aorta Metrics获得U.S.食品药品监督管理局（FDA）510(k)许可。"
               },
               {
                 "t": "p",
-                "x": "Doximity与Wolters Kluwer Health达成合作，将UpToDate的循证临床内容直接嵌入该公司的AI临床决策支持工具Doximity Ask。"
+                "x": "据该公司介绍，该软件可从胸部CT图像中自动分割主动脉、划分主动脉分区并测量各分区直径。Coreline Soft表示，它还提供拉直曲面重建（straightened curved planar reformation）、横断面和3D视图以及分析报告。"
               },
               {
                 "t": "p",
-                "x": "未来几周内，在同时使用这两款产品的医疗系统中，临床医生无需离开Ask工作流程，就能在Doximity Ask的回答旁看到基于UpToDate 13,000个临床主题和最佳实践指南的答案。"
-              },
-              {
-                "t": "p",
-                "x": "该公司的目标是成为领先的医生AI平台，正在扩展包括环境记录工具Scribe和Ask在内的临床AI套件。一年前，Doximity收购了临床AI公司Pathway。"
-              },
-              {
-                "t": "p",
-                "x": "“每个前沿模型读过的期刊都一样。对于没有RCT时会发生什么，UpToDate作为由经验丰富的医生撰写的金标准参考资料，独一无二，”Doximity CEO Jeff Tangney对Fierce Healthcare表示。"
-              },
-              {
-                "t": "p",
-                "x": "据该公司介绍，Doximity的会员涵盖U.S.全部医生的85%以上，包括Ask在内的临床AI工具已部署在超过165个医疗系统中。"
-              },
-              {
-                "t": "p",
-                "x": "临床AI领域的竞争日趋激烈。Wolters Kluwer还与Epic和Abridge合作，将UpToDate整合进它们的AI-powered CDS工具。"
+                "x": "该公司称，这是Coreline Soft获得的第13项FDA 510(k)许可。Aview Aorta Metrics将加入公司用于胸部CT多病种分析的Aview平台，该平台包括用于肺结节检测与分析的Aview LCS和Aview Lung Nodule CAD，以及在非增强胸部CT上进行冠状动脉钙化评分的Aview CAC。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Doximity integra UpToDate\nen su herramienta de AI Ask",
-          "body": "Doximity integra el contenido clínico UpToDate de Wolters Kluwer en Ask, su herramienta de apoyo a decisiones con AI.",
-          "mini_headline": "Doximity suma UpToDate a Ask",
+          "headline": "Coreline Soft obtiene aval FDA\npara software aórtico de CT",
+          "body": "Aview Aorta Metrics segmenta la aorta en CT de tórax y mide el diámetro por zona, la 13.ª autorización FDA de Coreline.",
+          "mini_headline": "La FDA autoriza AI de CT aórtica",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg?VersionId=iT2xffiTsfbfPwNM_SW3dz_eFZZ.4yvd",
-                "cap": "A medida que Doximity aumenta su inversión en herramientas de AI clínica, la alianza con Wolters Kluwer sitúa a Ask como la puerta de entrada al conocimiento clínico."
+                "t": "p",
+                "x": "Coreline Soft, desarrollador de AI con sede en Seúl (Corea del Sur), recibió la autorización 510(k) de la Administración de Alimentos y Medicamentos de U.S. (FDA) para Aview Aorta Metrics, su software de evaluación aórtica cuantitativa en CT de tórax."
               },
               {
                 "t": "p",
-                "x": "Doximity cerró una alianza con Wolters Kluwer Health para integrar el contenido clínico basado en evidencia de UpToDate directamente en Doximity Ask, la herramienta de AI de apoyo a la decisión clínica de la compañía."
+                "x": "Según la empresa, el software segmenta automáticamente la aorta en imágenes de CT de tórax, clasifica las zonas aórticas y mide el diámetro de cada una. También ofrece vistas de reformación planar curva enderezada, transversales y 3D, además de informes de análisis, indicó Coreline Soft."
               },
               {
                 "t": "p",
-                "x": "En las próximas semanas, en los sistemas de salud que usan ambos productos, los clínicos verán una respuesta basada en los 13,000 temas clínicos y guías de buenas prácticas de UpToDate junto a la respuesta de Doximity Ask, sin salir del flujo de trabajo de Ask."
-              },
-              {
-                "t": "p",
-                "x": "La compañía aspira a convertirse en una plataforma de AI líder para médicos, ampliando una suite de AI clínica que incluye su herramienta de notas ambientales Scribe y Ask. Hace un año, Doximity adquirió la empresa de AI clínica Pathway."
-              },
-              {
-                "t": "p",
-                "x": "“Todos los modelos de frontera han leído las mismas revistas. UpToDate es única como referencia de máximo nivel elaborada por médicos experimentados sobre lo que ocurre cuando no hay un RCT”, dijo el CEO de Doximity, Jeff Tangney, a Fierce Healthcare."
-              },
-              {
-                "t": "p",
-                "x": "Según la compañía, Doximity cuenta entre sus miembros con más del 85% de todos los médicos de U.S., y sus herramientas de AI clínica, incluida Ask, se han implementado en más de 165 sistemas de salud."
-              },
-              {
-                "t": "p",
-                "x": "La competencia en AI clínica se intensifica. Wolters Kluwer también se ha asociado con Epic y Abridge para integrar UpToDate en sus herramientas CDS AI-powered."
+                "x": "Se trata de la 13.ª autorización FDA 510(k) de Coreline Soft, según la compañía. Aview Aorta Metrics se suma a la plataforma Aview de la firma para el análisis de múltiples enfermedades en CT de tórax, que incluye Aview LCS y Aview Lung Nodule CAD para la detección y el análisis de nódulos pulmonares, y Aview CAC para la puntuación de calcio en arterias coronarias en CT de tórax sin contraste."
               }
             ]
           }
@@ -1204,201 +1111,195 @@
       }
     },
     {
-      "id": "medicine-ai-standardized-patients",
+      "id": "medicine-night-shift",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 표준화 환자,\n무작위 시험대에 올라",
-      "body": "LLM-driven AI 표준화 환자가 임상 소통교육의 비용·배우 한계를 겨냥한다.",
-      "mini_headline": "임상 교육용 AI 환자",
+      "headline": "야간 당직 지친 전공의\nAI도 판독 못 살렸다",
+      "body": "야간 근무 뒤 떨어진 전공의 흉부 x-ray 정확도, AI도 되돌리지 못했다.",
+      "mini_headline": "피로 앞에 AI도 역부족",
       "tool": "Medicine",
-      "source": "npj Digital Medicine",
-      "url": "https://www.nature.com/articles/s41746-026-03372-0",
-      "accent": "#ff5a4d",
+      "source": "AuntMinnie",
+      "url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15838345/ai-fails-to-compensate-for-nightshift-fatigue-among-residents",
+      "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig1_HTML.png",
-            "cap": "Fig. 1: AI-SP 아키텍처와 세 단계 평가 개요."
+            "t": "p",
+            "x": "독일 Aachen University Hospital 연구진이 10월 22일 European Radiology에 발표한 연구를 보면, 야간 근무를 마치고 지친 영상의학과 전공의는 흉부 x-ray 판독 정확도가 크게 떨어졌고 AI는 별 도움이 되지 않았다."
           },
           {
             "t": "p",
-            "x": "표준화 환자(SPs)는 임상 소통 교육의 핵심이다. 다만 비용과 확장성, 훈련된 배우에게 기대야 한다는 점이 걸림돌이다. 저자들은 AI 표준화 환자(AI-SPs)를 제안한다. 대규모 언어 모델로 움직이는 시뮬레이터로, 세 층 정보 아키텍처를 바탕으로 학습자 숙련도에 맞춰 정보를 얼마나 내놓을지 조절한다."
-          },
-          {
-            "t": "p",
-            "x": "Phase 1에서는 프런티어 LLMs 다섯 개가 만든 모의 상담 350건을 전문가가 블라인드로 평가했다. 성과 차이는 모델 선택보다 학습자 숙련도로 더 많이 설명됐다(η2 = 0.31 vs. 0.06). Phase 1b에서는 학생들의 실제 상담 155건을 살폈는데, 안전에 결정적인 정보를 끌어내지 못하는 체계적 실패가 드러났다."
+            "x": "영상의학과 전공의 열 명이 침상 흉부 x-ray 33장짜리 세트 세 개를 각각 판독했다. 두 번은 원내 first-call 야간 근무 전에, 한 번은 근무 직후에 읽었다. 근무 직후 판독은 연구팀이 앞서 개발한 모델의 AI 보조를 받을 때와 받지 않을 때로 나눴다."
           },
           {
             "t": "img",
-            "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig2_HTML.png",
-            "cap": "Fig. 2: 세 층으로 이뤄진 AI-SP 시스템 프롬프트 설계."
+            "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/ai-fatigue.c48mc7dd9z.jpg?auto=format%2Ccompress&fit=max&q=70&w=400",
+            "cap": "기술 구성과 화면 기반 시선 추적 기능을 갖춘 맞춤형 DICOM 뷰어. AI 보조 조건에서는 템플릿에 모델 제안이 미리 들어갔다. European Radiology"
           },
           {
             "t": "p",
-            "x": "Phase 2의 세 군 파일럿 무작위 연구(n = 58)에서 AI-SP 훈련의 OSCE 성적 향상 폭은 인간 SP 훈련과 유의한 차이가 없었다. 이 시험은 동등성 입증이 아니라 효과 크기 추정을 목표로 설계됐다. 자기효능감은 수치상 AI-SPs에서 가장 많이 올랐지만 다중 비교 보정 후에는 유의성이 사라졌다."
+            "x": "전공의 10명 중 여섯 명이 피로 상태로 분류됐다. 이들의 진단 정확도는 근무 후 κ 0.71에서 0.61로 유의하게 떨어졌고(p < 0.001), 피로하지 않은 판독자도 폭은 작지만 유의하게 하락했다(κ, 0.72에서 0.65). AI 보조는 두 그룹 어디서도 정확도를 유의하게 끌어올리지 못했다. 보고 시간이 9.9초 줄어든 것도 피로하지 않은 판독자뿐이었다."
+          },
+          {
+            "t": "p",
+            "x": "연구진은 \"야간 근무로 인한 피로는 보고 속도를 늦추지 않으면서 진단 정확도를 떨어뜨려 환자 안전 우려를 낳는다. 사용한 AI 모델은 근무 전 수준을 되찾아 주지 못했다\"고 밝혔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI standardized patients\nput to a randomized test",
-          "body": "LLM-driven AI standardized patients target the cost and actor limits of clinical communication training.",
-          "mini_headline": "AI patients for clinical training",
+          "headline": "AI fails to offset night-shift\nfatigue in residents",
+          "body": "Residents' chest x-ray accuracy fell after overnight shifts, and AI assistance did not restore pre-shift performance.",
+          "mini_headline": "AI no fix for fatigue",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig1_HTML.png",
-                "cap": "Fig. 1: Overview of the AI-SP architecture and three-phase evaluation."
+                "t": "p",
+                "x": "Chest x-ray reading accuracy declines significantly in fatigued radiology residents after overnight shifts, and AI offers little help, according to a study from Aachen University Hospital in Germany published October 22 in European Radiology."
               },
               {
                 "t": "p",
-                "x": "Standardized patients (SPs) are central to clinical communication training but remain constrained by cost, scalability, and reliance on trained actors. The authors present AI standardized patients (AI-SPs), large language model–driven simulators built on a three-layer information architecture that adaptively modulates disclosure according to learner skill."
-              },
-              {
-                "t": "p",
-                "x": "In Phase 1, blinded expert assessment of 350 simulated consultations generated by five frontier LLMs showed learner skill level accounted for more performance variation than model choice (η2 = 0.31 vs. 0.06). In Phase 1b, 155 live student consultations revealed systematic failures to elicit safety-critical information."
+                "x": "Ten radiology residents each interpreted three sets of 33 bedside chest x-rays, two sessions before a first-call on-site night shift and one immediately after, the latter with and without AI assistance from a model the team had previously developed."
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig2_HTML.png",
-                "cap": "Fig. 2: The three-layer AI-SP system prompt design."
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/ai-fatigue.c48mc7dd9z.jpg?auto=format%2Ccompress&fit=max&q=70&w=400",
+                "cap": "Technical setup and customized DICOM viewer with screen-based eye tracking; with AI assistance, the template was pre-filled with the model's suggestions. European Radiology"
               },
               {
                 "t": "p",
-                "x": "In a Phase 2 three-arm pilot randomized study (n = 58), OSCE performance gains with AI-SP training did not differ significantly from human SP training; the trial was designed to estimate effect sizes, not to demonstrate equivalence. Self-efficacy gains were numerically largest with AI-SPs, but did not survive correction for multiple comparisons."
+                "x": "Six of 10 residents were classified as fatigued. Their diagnostic accuracy declined significantly post-shift, from a κ of 0.71 to 0.61 (p < 0.001); non-fatigued readers showed a smaller but still significant decline (κ, 0.72 to 0.65). AI assistance did not significantly improve accuracy in either group, and shortened reporting times only in non-fatigued readers (by 9.9 seconds)."
+              },
+              {
+                "t": "p",
+                "x": "\"Night-shift-induced fatigue impaired diagnostic accuracy without slowing reporting speed, raising patient safety concerns. The utilized AI model did not restore pre-shift performance,\" the researchers noted."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 표준화 환자,\n무작위 시험대에 올라",
-          "body": "LLM-driven AI 표준화 환자가 임상 소통교육의 비용·배우 한계를 겨냥한다.",
-          "mini_headline": "임상 교육용 AI 환자",
+          "headline": "야간 당직 지친 전공의\nAI도 판독 못 살렸다",
+          "body": "야간 근무 뒤 떨어진 전공의 흉부 x-ray 정확도, AI도 되돌리지 못했다.",
+          "mini_headline": "피로 앞에 AI도 역부족",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig1_HTML.png",
-                "cap": "Fig. 1: AI-SP 아키텍처와 세 단계 평가 개요."
+                "t": "p",
+                "x": "독일 Aachen University Hospital 연구진이 10월 22일 European Radiology에 발표한 연구를 보면, 야간 근무를 마치고 지친 영상의학과 전공의는 흉부 x-ray 판독 정확도가 크게 떨어졌고 AI는 별 도움이 되지 않았다."
               },
               {
                 "t": "p",
-                "x": "표준화 환자(SPs)는 임상 소통 교육의 핵심이다. 다만 비용과 확장성, 훈련된 배우에게 기대야 한다는 점이 걸림돌이다. 저자들은 AI 표준화 환자(AI-SPs)를 제안한다. 대규모 언어 모델로 움직이는 시뮬레이터로, 세 층 정보 아키텍처를 바탕으로 학습자 숙련도에 맞춰 정보를 얼마나 내놓을지 조절한다."
-              },
-              {
-                "t": "p",
-                "x": "Phase 1에서는 프런티어 LLMs 다섯 개가 만든 모의 상담 350건을 전문가가 블라인드로 평가했다. 성과 차이는 모델 선택보다 학습자 숙련도로 더 많이 설명됐다(η2 = 0.31 vs. 0.06). Phase 1b에서는 학생들의 실제 상담 155건을 살폈는데, 안전에 결정적인 정보를 끌어내지 못하는 체계적 실패가 드러났다."
+                "x": "영상의학과 전공의 열 명이 침상 흉부 x-ray 33장짜리 세트 세 개를 각각 판독했다. 두 번은 원내 first-call 야간 근무 전에, 한 번은 근무 직후에 읽었다. 근무 직후 판독은 연구팀이 앞서 개발한 모델의 AI 보조를 받을 때와 받지 않을 때로 나눴다."
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig2_HTML.png",
-                "cap": "Fig. 2: 세 층으로 이뤄진 AI-SP 시스템 프롬프트 설계."
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/ai-fatigue.c48mc7dd9z.jpg?auto=format%2Ccompress&fit=max&q=70&w=400",
+                "cap": "기술 구성과 화면 기반 시선 추적 기능을 갖춘 맞춤형 DICOM 뷰어. AI 보조 조건에서는 템플릿에 모델 제안이 미리 들어갔다. European Radiology"
               },
               {
                 "t": "p",
-                "x": "Phase 2의 세 군 파일럿 무작위 연구(n = 58)에서 AI-SP 훈련의 OSCE 성적 향상 폭은 인간 SP 훈련과 유의한 차이가 없었다. 이 시험은 동등성 입증이 아니라 효과 크기 추정을 목표로 설계됐다. 자기효능감은 수치상 AI-SPs에서 가장 많이 올랐지만 다중 비교 보정 후에는 유의성이 사라졌다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI標準模擬患者、\n無作為化試験で検証",
-          "body": "LLM-drivenのAI標準模擬患者が、臨床対話教育のコストと俳優頼みの限界に挑む。",
-          "mini_headline": "臨床教育向けAI患者",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig1_HTML.png",
-                "cap": "Fig. 1: AI-SPのアーキテクチャと三段階評価の概要。"
+                "x": "전공의 10명 중 여섯 명이 피로 상태로 분류됐다. 이들의 진단 정확도는 근무 후 κ 0.71에서 0.61로 유의하게 떨어졌고(p < 0.001), 피로하지 않은 판독자도 폭은 작지만 유의하게 하락했다(κ, 0.72에서 0.65). AI 보조는 두 그룹 어디서도 정확도를 유의하게 끌어올리지 못했다. 보고 시간이 9.9초 줄어든 것도 피로하지 않은 판독자뿐이었다."
               },
               {
                 "t": "p",
-                "x": "標準模擬患者（SPs）は臨床コミュニケーション教育の中核だが、コスト、拡張性、訓練を受けた俳優への依存という制約を抱えている。著者らは、学習者のスキルに応じて情報開示を適応的に調整する三層の情報アーキテクチャに基づく、大規模言語モデル駆動のシミュレーター「AI標準模擬患者（AI-SPs）」を提示する。"
-              },
-              {
-                "t": "p",
-                "x": "Phase 1では、五つのフロンティアLLMsが生成した350件の模擬診察を専門家が盲検で評価した結果、成績のばらつきはモデルの選択よりも学習者のスキルレベルでより多く説明された（η2 = 0.31 vs. 0.06）。Phase 1bでは、155件の学生による実際の診察で、安全上重要な情報を引き出せない系統的な失敗が明らかになった。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig2_HTML.png",
-                "cap": "Fig. 2: 三層構造のAI-SPシステムプロンプト設計。"
-              },
-              {
-                "t": "p",
-                "x": "Phase 2の三群パイロット無作為化研究（n = 58）では、AI-SPトレーニングによるOSCE成績の向上は、人間のSPによるトレーニングと有意な差がなかった。この試験は同等性の証明ではなく、効果量の推定を目的に設計された。自己効力感の向上は数値上AI-SPsで最も大きかったが、多重比較の補正後には有意性が残らなかった。"
+                "x": "연구진은 \"야간 근무로 인한 피로는 보고 속도를 늦추지 않으면서 진단 정확도를 떨어뜨려 환자 안전 우려를 낳는다. 사용한 AI 모델은 근무 전 수준을 되찾아 주지 못했다\"고 밝혔다."
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI标准化病人\n接受随机试验检验",
-          "body": "LLM-driven的AI标准化病人，瞄准临床沟通培训的成本与演员依赖难题。",
-          "mini_headline": "用于临床培训的AI病人",
+          "headline": "AI未能抵消\n住院医师夜班疲劳",
+          "body": "夜班后住院医师胸部x-ray判读准确率下降，AI辅助也未能恢复。",
+          "mini_headline": "AI难解疲劳",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig1_HTML.png",
-                "cap": "Fig. 1: AI-SP架构与三阶段评估概览。"
+                "t": "p",
+                "x": "据德国Aachen University Hospital于10月22日发表在European Radiology上的一项研究，疲劳的放射科住院医师在夜班后胸部x-ray判读准确率显著下降，而AI帮助甚微。"
               },
               {
                 "t": "p",
-                "x": "标准化病人（SPs）是临床沟通培训的核心，但仍受限于成本、可扩展性以及对受训演员的依赖。作者提出AI标准化病人（AI-SPs），这是一种由大语言模型驱动的模拟器，基于三层信息架构，可根据学习者的技能水平自适应地调节信息披露。"
-              },
-              {
-                "t": "p",
-                "x": "在Phase 1中，专家对五个前沿LLMs生成的350次模拟问诊进行盲法评估，结果显示，学习者技能水平对表现差异的解释度高于模型选择（η2 = 0.31 vs. 0.06）。在Phase 1b中，155次真实学生问诊暴露出在获取安全关键信息方面的系统性缺失。"
+                "x": "十名放射科住院医师各自判读了三组、每组33张床旁胸部x-ray：两次在院内first-call夜班之前，一次在夜班刚结束后；后者分别在有、无团队此前开发模型的AI辅助下进行。"
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig2_HTML.png",
-                "cap": "Fig. 2: 三层AI-SP系统提示词设计。"
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/ai-fatigue.c48mc7dd9z.jpg?auto=format%2Ccompress&fit=max&q=70&w=400",
+                "cap": "技术设置及配备屏幕眼动追踪的定制DICOM查看器；在AI辅助下，模板会预先填入模型的建议。European Radiology"
               },
               {
                 "t": "p",
-                "x": "在Phase 2三臂试点随机研究（n = 58）中，AI-SP训练带来的OSCE成绩提升与真人SP训练相比无显著差异；该试验旨在估计效应量，而非证明等效性。自我效能提升在AI-SPs组数值上最大，但经多重比较校正后不再显著。"
+                "x": "10名住院医师中有六名被归为疲劳。他们的诊断准确率在夜班后显著下降，κ从0.71降至0.61（p < 0.001）；未疲劳的判读者降幅较小但仍显著（κ，0.72降至0.65）。AI辅助在两组中均未显著提高准确率，仅使未疲劳判读者的报告时间缩短了9.9秒。"
+              },
+              {
+                "t": "p",
+                "x": "研究人员指出：“夜班导致的疲劳在不降低报告速度的情况下损害了诊断准确率，引发患者安全担忧。所用AI模型未能恢复夜班前的表现。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Pacientes estandarizados de AI\nsometidos a prueba aleatoria",
-          "body": "Pacientes estandarizados de AI LLM-driven abordan el costo y la dependencia de actores en formación comunicativa.",
-          "mini_headline": "Pacientes de AI para la formación clínica",
+          "headline": "La AI no compensa la fatiga\nnocturna de los residentes",
+          "body": "La precisión de los residentes en radiografías de tórax cayó tras el turno nocturno, y la AI no la restableció.",
+          "mini_headline": "La AI no corrige la fatiga",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig1_HTML.png",
-                "cap": "Fig. 1: Visión general de la arquitectura AI-SP y de la evaluación en tres fases."
+                "t": "p",
+                "x": "La precisión en la lectura de radiografías (x-ray) de tórax cae de forma significativa en residentes de radiología fatigados tras turnos nocturnos, y la AI apenas ayuda, según un estudio del Aachen University Hospital de Alemania publicado el 22 de octubre en European Radiology."
               },
               {
                 "t": "p",
-                "x": "Los pacientes estandarizados (SPs) son fundamentales en la formación en comunicación clínica, pero siguen limitados por el costo, la escalabilidad y la dependencia de actores capacitados. Los autores presentan los pacientes estandarizados de AI (AI-SPs), simuladores impulsados por modelos de lenguaje grandes y construidos sobre una arquitectura de información de tres capas que modula de forma adaptativa la revelación de información según la habilidad del estudiante."
-              },
-              {
-                "t": "p",
-                "x": "En la Fase 1, la evaluación ciega por expertos de 350 consultas simuladas generadas por cinco LLMs de frontera mostró que el nivel de habilidad del estudiante explicaba más variación en el desempeño que la elección del modelo (η2 = 0.31 vs. 0.06). En la Fase 1b, 155 consultas en vivo con estudiantes revelaron fallos sistemáticos para obtener información crítica para la seguridad."
+                "x": "Diez residentes de radiología interpretaron cada uno tres series de 33 radiografías de tórax a pie de cama: dos sesiones antes de una guardia nocturna presencial first-call y una inmediatamente después; esta última, con y sin asistencia de AI de un modelo que el equipo había desarrollado previamente."
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig2_HTML.png",
-                "cap": "Fig. 2: El diseño de tres capas del prompt de sistema de AI-SP."
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/ai-fatigue.c48mc7dd9z.jpg?auto=format%2Ccompress&fit=max&q=70&w=400",
+                "cap": "Configuración técnica y visor DICOM personalizado con seguimiento ocular en pantalla; con asistencia de AI, la plantilla se rellenaba previamente con las sugerencias del modelo. European Radiology"
               },
               {
                 "t": "p",
-                "x": "En un estudio piloto aleatorizado de tres brazos de la Fase 2 (n = 58), las mejoras en el desempeño en el OSCE con la formación con AI-SP no difirieron significativamente de las obtenidas con la formación con SP humanos; el ensayo se diseñó para estimar tamaños del efecto, no para demostrar equivalencia. Las mejoras en autoeficacia fueron numéricamente mayores con los AI-SPs, pero no se mantuvieron tras la corrección por comparaciones múltiples."
+                "x": "Seis de los 10 residentes fueron clasificados como fatigados. Su precisión diagnóstica disminuyó significativamente tras la guardia, de un κ de 0.71 a 0.61 (p < 0.001); los lectores no fatigados mostraron un descenso menor pero aún significativo (κ, 0.72 a 0.65). La asistencia de AI no mejoró de forma significativa la precisión en ninguno de los grupos y solo acortó los tiempos de informe en los lectores no fatigados (en 9.9 segundos)."
+              },
+              {
+                "t": "p",
+                "x": "\"La fatiga inducida por el turno nocturno deterioró la precisión diagnóstica sin ralentizar la velocidad de informe, lo que plantea problemas de seguridad del paciente. El modelo de AI utilizado no restableció el rendimiento previo a la guardia\", señalaron los investigadores."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIは夜勤明けの\n研修医の疲労を補えず",
+          "body": "夜勤明けの研修医は胸部x-ray読影の精度が落ち、AI支援でも夜勤前の水準に戻らなかった。",
+          "mini_headline": "AIは疲労の解決策ならず",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "ドイツの Aachen University Hospital の研究チームが 10 月 22 日に European Radiology で発表した研究によると、夜勤明けで疲労した放射線科研修医は胸部 x-ray の読影精度が大きく低下し、AI はほとんど助けにならなかった。"
+              },
+              {
+                "t": "p",
+                "x": "放射線科研修医十人がそれぞれ、ベッドサイドで撮影した胸部 x-ray 33 枚のセットを三つ読影した。二回は院内で最初に呼ばれる当直の夜勤前、一回は夜勤直後に行い、後者ではチームが以前に開発したモデルによる AI 支援の有無で比べた。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/ai-fatigue.c48mc7dd9z.jpg?auto=format%2Ccompress&fit=max&q=70&w=400",
+                "cap": "画面ベースのアイトラッキングを備えた技術的構成とカスタマイズした DICOM ビューア。AI 支援時はモデルの提案がテンプレートに事前入力された。European Radiology"
+              },
+              {
+                "t": "p",
+                "x": "10 人のうち六人が疲労状態と分類された。その診断精度は夜勤後に κ 0.71 から 0.61 へと有意に低下した(p < 0.001)。疲労していない読影者でも、幅は小さいものの有意な低下が見られた(κ 0.72 から 0.65)。AI 支援はどちらの群でも精度を有意に改善せず、報告時間を短縮したのは疲労していない読影者だけだった(9.9 秒)。"
+              },
+              {
+                "t": "p",
+                "x": "「夜勤による疲労は報告速度を落とさないまま診断精度を損ない、患者安全上の懸念を生む。使用した AI モデルは夜勤前の水準を回復させなかった」と研究者らは述べている。"
               }
             ]
           }
@@ -1406,129 +1307,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 표준화 환자,\n무작위 시험대에 올라",
-          "body": "LLM-driven AI 표준화 환자가 임상 소통교육의 비용·배우 한계를 겨냥한다.",
-          "mini_headline": "임상 교육용 AI 환자",
+          "headline": "야간 당직 피로, AI도\n전공의 판독 못 살렸다",
+          "body": "야간 근무 뒤 전공의 흉부 x-ray 정확도가 떨어졌고 AI도 회복시키지 못했다.",
+          "mini_headline": "AI, 피로 해결 못 해",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig1_HTML.png",
-                "cap": "Fig. 1: AI-SP 아키텍처와 세 단계 평가 개요."
+                "t": "p",
+                "x": "독일 Aachen University Hospital 연구진이 10월 22일 European Radiology에 발표한 연구에 따르면, 야간 근무를 마친 피로한 영상의학과 전공의의 흉부 x-ray 판독 정확도는 크게 떨어지며 AI는 거의 도움이 되지 않는다."
               },
               {
                 "t": "p",
-                "x": "표준화 환자(SPs)는 임상 소통 교육의 핵심이지만 비용, 확장성, 훈련된 배우에 대한 의존이라는 제약을 안고 있다. 저자들은 학습자 숙련도에 따라 정보 공개 수준을 적응적으로 조절하는 세 층 정보 아키텍처 기반의 대규모 언어 모델 구동 시뮬레이터, AI 표준화 환자(AI-SPs)를 제시한다."
-              },
-              {
-                "t": "p",
-                "x": "Phase 1에서는 다섯 개의 프런티어 LLMs가 생성한 모의 상담 350건을 전문가가 블라인드로 평가했는데, 성과 차이를 더 많이 설명한 것은 모델 선택보다 학습자 숙련도였다(η2 = 0.31 vs. 0.06). Phase 1b에서는 학생들의 실제 상담 155건에서 안전에 결정적인 정보를 끌어내지 못하는 체계적 실패가 드러났다."
+                "x": "영상의학과 전공의 열 명이 각자 침상 흉부 x-ray 33장으로 이뤄진 세트 세 개를 판독했다. 두 번은 원내 first-call 야간 근무 전에, 한 번은 근무 직후에 판독했으며, 근무 직후 판독은 연구팀이 앞서 개발한 모델의 AI 보조가 있을 때와 없을 때로 나눠 진행했다."
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig2_HTML.png",
-                "cap": "Fig. 2: 세 층으로 이뤄진 AI-SP 시스템 프롬프트 설계."
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/ai-fatigue.c48mc7dd9z.jpg?auto=format%2Ccompress&fit=max&q=70&w=400",
+                "cap": "기술 구성과 화면 기반 시선 추적 기능을 갖춘 맞춤형 DICOM 뷰어. AI 보조가 있을 때는 템플릿에 모델의 제안이 미리 채워졌다. European Radiology"
               },
               {
                 "t": "p",
-                "x": "Phase 2의 세 군 파일럿 무작위 연구(n = 58)에서 AI-SP 훈련으로 얻은 OSCE 성적 향상은 인간 SP 훈련과 유의한 차이가 없었다. 이 시험은 동등성 입증이 아니라 효과 크기 추정을 위해 설계됐다. 자기효능감 향상은 수치상 AI-SPs에서 가장 컸지만, 다중 비교 보정 후에는 유의성이 사라졌다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI標準模擬患者、\n無作為化試験で検証",
-          "body": "LLM-drivenのAI標準模擬患者が、臨床対話教育のコストと俳優頼みの限界に挑む。",
-          "mini_headline": "臨床教育向けAI患者",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig1_HTML.png",
-                "cap": "Fig. 1: AI-SPのアーキテクチャと三段階評価の概要。"
+                "x": "전공의 10명 중 여섯 명이 피로 상태로 분류됐다. 이들의 진단 정확도는 근무 후 κ 0.71에서 0.61로 유의하게 떨어졌고(p < 0.001), 피로하지 않은 판독자도 폭은 작지만 유의한 하락을 보였다(κ, 0.72에서 0.65). AI 보조는 두 그룹 모두에서 정확도를 유의하게 높이지 못했고, 보고 시간은 피로하지 않은 판독자에서만 9.9초 줄였다."
               },
               {
                 "t": "p",
-                "x": "標準模擬患者（SPs）は臨床コミュニケーション教育の中核だが、コスト、拡張性、訓練を受けた俳優への依存という制約を抱えている。著者らは、学習者のスキルに応じて情報開示を適応的に調整する三層の情報アーキテクチャに基づく、大規模言語モデル駆動のシミュレーター「AI標準模擬患者（AI-SPs）」を提示する。"
-              },
-              {
-                "t": "p",
-                "x": "Phase 1では、五つのフロンティアLLMsが生成した350件の模擬診察を専門家が盲検で評価した結果、成績のばらつきはモデルの選択よりも学習者のスキルレベルでより多く説明された（η2 = 0.31 vs. 0.06）。Phase 1bでは、155件の学生による実際の診察で、安全上重要な情報を引き出せない系統的な失敗が明らかになった。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig2_HTML.png",
-                "cap": "Fig. 2: 三層構造のAI-SPシステムプロンプト設計。"
-              },
-              {
-                "t": "p",
-                "x": "Phase 2の三群パイロット無作為化研究（n = 58）では、AI-SPトレーニングによるOSCE成績の向上は、人間のSPによるトレーニングと有意な差がなかった。この試験は同等性の証明ではなく、効果量の推定を目的に設計された。自己効力感の向上は数値上AI-SPsで最も大きかったが、多重比較の補正後には有意性が残らなかった。"
+                "x": "연구진은 \"야간 근무로 인한 피로는 보고 속도를 늦추지 않으면서 진단 정확도를 떨어뜨려 환자 안전 우려를 낳는다. 사용한 AI 모델은 근무 전 수준을 되찾아 주지 못했다\"고 밝혔다."
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI标准化病人\n接受随机试验检验",
-          "body": "LLM-driven的AI标准化病人，瞄准临床沟通培训的成本与演员依赖难题。",
-          "mini_headline": "用于临床培训的AI病人",
+          "headline": "AI未能抵消\n住院医师夜班疲劳",
+          "body": "夜班后住院医师胸部x-ray判读准确率下降，AI辅助也未能恢复。",
+          "mini_headline": "AI难解疲劳",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig1_HTML.png",
-                "cap": "Fig. 1: AI-SP架构与三阶段评估概览。"
+                "t": "p",
+                "x": "据德国Aachen University Hospital于10月22日发表在European Radiology上的一项研究，疲劳的放射科住院医师在夜班后胸部x-ray判读准确率显著下降，而AI帮助甚微。"
               },
               {
                 "t": "p",
-                "x": "标准化病人（SPs）是临床沟通培训的核心，但仍受限于成本、可扩展性以及对受训演员的依赖。作者提出AI标准化病人（AI-SPs），这是一种由大语言模型驱动的模拟器，基于三层信息架构，可根据学习者的技能水平自适应地调节信息披露。"
-              },
-              {
-                "t": "p",
-                "x": "在Phase 1中，专家对五个前沿LLMs生成的350次模拟问诊进行盲法评估，结果显示，学习者技能水平对表现差异的解释度高于模型选择（η2 = 0.31 vs. 0.06）。在Phase 1b中，155次真实学生问诊暴露出在获取安全关键信息方面的系统性缺失。"
+                "x": "十名放射科住院医师各自判读了三组、每组33张床旁胸部x-ray：两次在院内first-call夜班之前，一次在夜班刚结束后；后者分别在有、无团队此前开发模型的AI辅助下进行。"
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig2_HTML.png",
-                "cap": "Fig. 2: 三层AI-SP系统提示词设计。"
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/ai-fatigue.c48mc7dd9z.jpg?auto=format%2Ccompress&fit=max&q=70&w=400",
+                "cap": "技术设置及配备屏幕眼动追踪的定制DICOM查看器；在AI辅助下，模板会预先填入模型的建议。European Radiology"
               },
               {
                 "t": "p",
-                "x": "在Phase 2三臂试点随机研究（n = 58）中，AI-SP训练带来的OSCE成绩提升与真人SP训练相比无显著差异；该试验旨在估计效应量，而非证明等效性。自我效能提升在AI-SPs组数值上最大，但经多重比较校正后不再显著。"
+                "x": "10名住院医师中有六名被归为疲劳。他们的诊断准确率在夜班后显著下降，κ从0.71降至0.61（p < 0.001）；未疲劳的判读者降幅较小但仍显著（κ，0.72降至0.65）。AI辅助在两组中均未显著提高准确率，仅使未疲劳判读者的报告时间缩短了9.9秒。"
+              },
+              {
+                "t": "p",
+                "x": "研究人员指出：“夜班导致的疲劳在不降低报告速度的情况下损害了诊断准确率，引发患者安全担忧。所用AI模型未能恢复夜班前的表现。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Pacientes estandarizados de AI\nsometidos a prueba aleatoria",
-          "body": "Pacientes estandarizados de AI LLM-driven abordan el costo y la dependencia de actores en formación comunicativa.",
-          "mini_headline": "Pacientes de AI para la formación clínica",
+          "headline": "La AI no compensa la fatiga\nnocturna de los residentes",
+          "body": "La precisión de los residentes en radiografías de tórax cayó tras el turno nocturno, y la AI no la restableció.",
+          "mini_headline": "La AI no corrige la fatiga",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig1_HTML.png",
-                "cap": "Fig. 1: Visión general de la arquitectura AI-SP y de la evaluación en tres fases."
+                "t": "p",
+                "x": "La precisión en la lectura de radiografías (x-ray) de tórax cae de forma significativa en residentes de radiología fatigados tras turnos nocturnos, y la AI apenas ayuda, según un estudio del Aachen University Hospital de Alemania publicado el 22 de octubre en European Radiology."
               },
               {
                 "t": "p",
-                "x": "Los pacientes estandarizados (SPs) son fundamentales en la formación en comunicación clínica, pero siguen limitados por el costo, la escalabilidad y la dependencia de actores capacitados. Los autores presentan los pacientes estandarizados de AI (AI-SPs), simuladores impulsados por modelos de lenguaje grandes y construidos sobre una arquitectura de información de tres capas que modula de forma adaptativa la revelación de información según la habilidad del estudiante."
-              },
-              {
-                "t": "p",
-                "x": "En la Fase 1, la evaluación ciega por expertos de 350 consultas simuladas generadas por cinco LLMs de frontera mostró que el nivel de habilidad del estudiante explicaba más variación en el desempeño que la elección del modelo (η2 = 0.31 vs. 0.06). En la Fase 1b, 155 consultas en vivo con estudiantes revelaron fallos sistemáticos para obtener información crítica para la seguridad."
+                "x": "Diez residentes de radiología interpretaron cada uno tres series de 33 radiografías de tórax a pie de cama: dos sesiones antes de una guardia nocturna presencial first-call y una inmediatamente después; esta última, con y sin asistencia de AI de un modelo que el equipo había desarrollado previamente."
               },
               {
                 "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03372-0/MediaObjects/41746_2026_3372_Fig2_HTML.png",
-                "cap": "Fig. 2: El diseño de tres capas del prompt de sistema de AI-SP."
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/ai-fatigue.c48mc7dd9z.jpg?auto=format%2Ccompress&fit=max&q=70&w=400",
+                "cap": "Configuración técnica y visor DICOM personalizado con seguimiento ocular en pantalla; con asistencia de AI, la plantilla se rellenaba previamente con las sugerencias del modelo. European Radiology"
               },
               {
                 "t": "p",
-                "x": "En un estudio piloto aleatorizado de tres brazos de la Fase 2 (n = 58), las mejoras en el desempeño en el OSCE con la formación con AI-SP no difirieron significativamente de las obtenidas con la formación con SP humanos; el ensayo se diseñó para estimar tamaños del efecto, no para demostrar equivalencia. Las mejoras en autoeficacia fueron numéricamente mayores con los AI-SPs, pero no se mantuvieron tras la corrección por comparaciones múltiples."
+                "x": "Seis de los 10 residentes fueron clasificados como fatigados. Su precisión diagnóstica disminuyó significativamente tras la guardia, de un κ de 0.71 a 0.61 (p < 0.001); los lectores no fatigados mostraron un descenso menor pero aún significativo (κ, 0.72 a 0.65). La asistencia de AI no mejoró de forma significativa la precisión en ninguno de los grupos y solo acortó los tiempos de informe en los lectores no fatigados (en 9.9 segundos)."
+              },
+              {
+                "t": "p",
+                "x": "\"La fatiga inducida por el turno nocturno deterioró la precisión diagnóstica sin ralentizar la velocidad de informe, lo que plantea problemas de seguridad del paciente. El modelo de AI utilizado no restableció el rendimiento previo a la guardia\", señalaron los investigadores."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIは夜勤明けの\n研修医の疲労を補えず",
+          "body": "夜勤明けの研修医は胸部x-ray読影の精度が落ち、AI支援でも夜勤前の水準に戻らなかった。",
+          "mini_headline": "AIは疲労の解決策ならず",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "ドイツの Aachen University Hospital の研究チームが 10 月 22 日に European Radiology で発表した研究によると、夜勤明けで疲労した放射線科研修医は胸部 x-ray の読影精度が大きく低下し、AI はほとんど助けにならなかった。"
+              },
+              {
+                "t": "p",
+                "x": "放射線科研修医十人がそれぞれ、ベッドサイドで撮影した胸部 x-ray 33 枚のセットを三つ読影した。二回は院内で最初に呼ばれる当直の夜勤前、一回は夜勤直後に行い、後者ではチームが以前に開発したモデルによる AI 支援の有無で比べた。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/ai-fatigue.c48mc7dd9z.jpg?auto=format%2Ccompress&fit=max&q=70&w=400",
+                "cap": "画面ベースのアイトラッキングを備えた技術的構成とカスタマイズした DICOM ビューア。AI 支援時はモデルの提案がテンプレートに事前入力された。European Radiology"
+              },
+              {
+                "t": "p",
+                "x": "10 人のうち六人が疲労状態と分類された。その診断精度は夜勤後に κ 0.71 から 0.61 へと有意に低下した(p < 0.001)。疲労していない読影者でも、幅は小さいものの有意な低下が見られた(κ 0.72 から 0.65)。AI 支援はどちらの群でも精度を有意に改善せず、報告時間を短縮したのは疲労していない読影者だけだった(9.9 秒)。"
+              },
+              {
+                "t": "p",
+                "x": "「夜勤による疲労は報告速度を落とさないまま診断精度を損ない、患者安全上の懸念を生む。使用した AI モデルは夜勤前の水準を回復させなかった」と研究者らは述べている。"
               }
             ]
           }

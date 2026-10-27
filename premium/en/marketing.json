@@ -2395,6 +2395,150 @@
           "x": "The office of State Senator Nick Pisciottano, who introduced the bill, did not immediately return a request for comment."
         }
       ]
+    },
+    "marketing/marketing-therealreal-ai-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "cap": "Image: Cath Virginia / The Verge, Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "The RealReal, a secondhand luxury fashion consignment retailer, said it’s updating its bot defense system, effectively making it harder for AI agents to shop on its site."
+        },
+        {
+          "t": "p",
+          "x": "The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal’s item reserve system. On the retailer’s website, an item goes “on hold” and is unavailable for other customers to buy for 20 minutes once it’s placed in a user’s shopping cart. Using Meta’s Muse, The Verge was able to instruct the AI agent to continuously re-add The RealReal listings in a shopping cart as soon as the 20-minute hold had expired, effectively blocking other shoppers from purchasing products for hours or longer."
+        },
+        {
+          "t": "p",
+          "x": "Chief technology officer Luke Friang said the company had addressed the Muse use case. The RealReal’s bot defense configuration now makes it much more difficult for all agents to log in, add items to cart, and check out. Agents will still be able to surface listings from The RealReal and direct Muse users to product pages."
+        },
+        {
+          "t": "p",
+          "x": "Meta said in its Q3 earnings call this month that shopping was the most common use case for Muse so far, and that purchases were over $200 on average. The company said 10 million people in the US had downloaded the app in 40 days. Retailers — most notably Amazon — have blocked agents from shopping on their sites."
+        }
+      ]
+    },
+    "marketing/marketing-fanatics-openai-shopping": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Global sports MD company Fanatics has teamed up with OpenAI to launch a shopping feature that recommends items such as hats and socks to go with a jersey. It suggests combinations that match the team a customer supports and the style they want from more than 1.5 million products, helping customers browse."
+        },
+        {
+          "t": "p",
+          "x": "According to CNBC on the 26th (local time), Fanatics introduced a 'Shop the Look' feature built with Codex, OpenAI's coding tool. On each product page it recommends items that go well together based on team and style. Combinations are built from in-stock items."
+        },
+        {
+          "t": "img",
+          "src": "https://image.zdnet.co.kr/2026/10/27/f7932f2f8a313f149fa817c83ffd792c.png",
+          "cap": "The 'Shop the Look' feature Fanatics launched with OpenAI. (Photo=Fanatics website)"
+        },
+        {
+          "t": "p",
+          "x": "Justin Chai, chief product officer (CPO) of Fanatics Commerce, explained that it was common for customers to spend more than 30 minutes on average per shopping session. With more than 1,000 new products added every week, the time spent browsing has also grown."
+        },
+        {
+          "t": "p",
+          "x": "\"No Los Angeles Dodgers fan wants to be recommended San Francisco Giants merchandise alongside it,\" Chai said, adding, \"In our business, matching the team and the player is extremely important.\""
+        },
+        {
+          "t": "p",
+          "x": "Shop the Look uses a tool built with Codex to analyze product and catalog data, find items that go together and re-evaluate its recommendations. According to Chai, views of recommended products have risen 10% since the feature launched."
+        },
+        {
+          "t": "p",
+          "x": "According to CNBC, OpenAI has shut down its 'Instant Checkout' business, which let users buy products directly inside ChatGPT, and is working with retailers to develop dedicated apps within ChatGPT."
+        }
+      ]
+    },
+    "marketing/marketing-ai-personalized-pricing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Concerns are growing in the U.S. that retailers and restaurant companies are using artificial intelligence (AI) and personal data to set different prices for each consumer. Companies deny that they actually price this way, but as consumer anxiety spreads, related regulations are following one after another."
+        },
+        {
+          "t": "p",
+          "x": "According to a Wall Street Journal (WSJ) report on the 26th (local time), U.S. consumers worry that retailers, restaurants, ride-hailing services and grocery companies could use AI and consumer data to gauge an individual's buying habits or urgent needs and then raise prices."
+        },
+        {
+          "t": "img",
+          "src": "https://image.zdnet.co.kr/2026/06/06/a307341ee630b390235c542bfeaf83a3.jpg",
+          "cap": "(Photo=Pixabay)"
+        },
+        {
+          "t": "p",
+          "x": "Concerns have grown recently as companies now hold far more personal data, such as consumers' purchase histories and income levels, and can analyze it quickly with AI. Anxiety is particularly high around electronic shelf labels (ESL), but related studies in the U.S. and Europe have found no clear evidence that they led to price hikes timed to demand surges."
+        },
+        {
+          "t": "p",
+          "x": "Major companies including Walmart and McDonald's have also stated that they do not set individualized prices."
+        },
+        {
+          "t": "p",
+          "x": "Even so, regulatory moves are spreading. New York State has introduced a law requiring companies to tell consumers when they use algorithms to set product prices. Maryland, Connecticut, New Jersey and others also passed laws this year restricting some pricing practices based on personal data. The U.S. Federal Trade Commission (FTC) also proposed this summer a plan to regulate price discrimination using personal information."
+        }
+      ]
+    },
+    "marketing/marketing-google-ads-ai-max-experiment": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-click-logo-BmIQBDor.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google Ads updated its frequently asked questions page for AI Max search campaigns with a section on 1-click AI Max experiments. Google wrote in the document, \"If your account is eligible, you may find a 1-click experiment recommendation on your Recommendations page.\""
+        },
+        {
+          "t": "p",
+          "x": "I spotted this update via Hana Kobzova who wrote about this on PPC News Feed, she wrote, \"Testing AI Max just got easier and more granular for Search campaigns. Eligible accounts can now use a 1-click setup to create a 50/50 experiment automatically through Recommendations. Additionally, advertisers can manually refine experiments at the ad group level.\""
+        },
+        {
+          "t": "p",
+          "x": "The new section reads:"
+        },
+        {
+          "t": "p",
+          "x": "How does the 1-click AI Max experiment work? If your account is eligible, you may find a 1-click experiment recommendation on your Recommendations page. When you select Create 1-click experiment automatically, it sets up a 50/50 split test comparing your base Search campaign against an AI Max treatment arm without requiring manual configuration."
+        },
+        {
+          "t": "p",
+          "x": "I believe Google also added this section in the past month to this document:"
+        },
+        {
+          "t": "p",
+          "x": "Can I test AI Max on specific ad groups during experiment setup? Yes. When you create an AI Max experiment under the Experiments tab, you can use granular controls during experiment construction. This allows you to selectively enable or disable Search term matching or Asset optimization for individual ad groups in the treatment arm, while the control arm maintains your base campaign settings."
+        }
+      ]
+    },
+    "marketing/marketing-review-summary-search-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/google-ai-review-summaries-search-ads-positive-only-billboard-hand.jpg",
+          "cap": "Google AI picks only positive reviews for Search ad summaries advertisers cannot edit in 4 markets"
+        },
+        {
+          "t": "p",
+          "x": "Google has published a help page describing AI-generated review summaries that appear inside Search ads in the United States, the United Kingdom, Australia and India, pulling positive comments from reviews across the web into the ad text without giving advertisers the ability to edit what is said about them. PPC News Feed first reported the page on October 24, 2026, crediting Hana Kobzová."
+        },
+        {
+          "t": "p",
+          "x": "\"Review summaries on Search are AI-powered summaries of online reviews that appear directly as part of your Search ads,\" according to Google. \"These summaries are positive only.\" The undated page names no review sources, no minimum number of reviews and no way to switch the feature on or off."
+        },
+        {
+          "t": "p",
+          "x": "Eligibility covers Search campaigns, all positions on Google.com, English in US, AU, UK and IN, and all verticals except sensitive categories such as pharmaceuticals. \"Google only showcases review summaries when it's predicted to improve ad performance,\" the page states, without defining the metric."
+        },
+        {
+          "t": "p",
+          "x": "\"Because review summaries represent user feedback, advertisers cannot directly edit or customize the generated text,\" according to Google. The page cites no test results or uplift figures, and does not say whether account-level automated asset controls apply. The format has been tested in live results since December 2025."
+        }
+      ]
     }
   }
 }

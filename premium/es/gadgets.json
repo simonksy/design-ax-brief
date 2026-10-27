@@ -9663,6 +9663,149 @@
           "x": "La función no está reservada a los clientes de pago de Workspace: ya está disponible en la web, Android e iOS para usuarios elegibles de Google Workspace, Workspace Individual y cuentas personales de Google."
         }
       ]
+    },
+    "gadgets/gadgets-orisa": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/recovering-deleted-ai-chats.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Manisha Priyadarshini / Digital Trends"
+        },
+        {
+          "t": "p",
+          "x": "¿Creía que borrar una conversación con un chatbot de AI la hace desaparecer? Investigadores de Georgia Tech han creado una herramienta forense llamada ORISA capaz de extraer conversaciones borradas del teléfono e incluso reconstruirlas en una sesión de chatbot funcional con la que se puede seguir conversando."
+        },
+        {
+          "t": "p",
+          "x": "Los asistentes de AI locales no envían las conversaciones a la nube, pero esos datos siguen en la memoria de trabajo del teléfono mientras la app está en ejecución, así que borrar un chat en la app no lo elimina necesariamente. ORISA busca esos fragmentos residuales y los vuelve a unir en una sesión de AI activa y funcional."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/overview-of-orisa.jpg?resize=2238%2C812&ssl=1",
+          "cap": "Esquema del diseño de ORISA. Georgia Tech"
+        },
+        {
+          "t": "p",
+          "x": "En una prueba, los investigadores dieron 100 datos a un asistente ficticio llamado Project Note Keeper y luego borraron la conversación. Para entonces, la sesión activa solo podía acceder a 14 de esos datos; ORISA recuperó 26. En 60 configuraciones de prueba que abarcaban 10 apps de Android y tres modelos de AI, la herramienta recuperó datos de conversaciones borradas."
+        },
+        {
+          "t": "p",
+          "x": "Los autores señalan que ORISA podría ayudar a los investigadores a reconstruir lo que alguien compartió con un asistente de AI, incluidos casos en los que los consejos de un chatbot pudieron perjudicar a pacientes. También plantea dudas de privacidad para quienes usan AI en el dispositivo. ORISA es una herramienta forense para investigadores, requiere una copia de la memoria y el almacenamiento del teléfono, y la recuperación se complica cuando otra actividad sobrescribe los datos."
+        }
+      ]
+    },
+    "gadgets/gadgets-rayban-meta-training": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ray-ban-meta-ki-training-teaser.jpg",
+          "cap": "Gafas Ray-Ban Meta con una cámara en la montura. Meta guarda las imágenes de las solicitudes de AI salvo que se desactive esta opción."
+        },
+        {
+          "t": "p",
+          "x": "Preguntar a las gafas Ray-Ban Meta qué dice un cartel envía una foto a Meta. Según la página de ayuda de Meta sobre datos visuales, la empresa guarda estas capturas de solicitudes de AI y puede usarlas para entrenar sus modelos, mediante sistemas automatizados o revisión humana. Desde el 24 de septiembre es posible desactivarlo. Un segundo ajuste se refiere a la voz, y el grado de control depende del lugar de residencia."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/2/6/csm_ray-ban-meta-ai-training-settings-en_890c1a5d02.png",
+          "cap": "El ajuste de datos visuales solo abarca las imágenes de solicitudes de AI. Fuera de US, las grabaciones de voz tienen un ajuste aparte."
+        },
+        {
+          "t": "p",
+          "x": "En la app Meta AI, abra la configuración de las gafas, toque Meta AI en Experiences y desactive “Store visual data from AI experiences” (guardar datos visuales de las experiencias de AI). Una vez desactivado, los datos visuales no quedan disponibles para revisión humana, no se usan para entrenamiento y no se guardan después de responder a la solicitud. Funciones como los recordatorios visuales pueden verse limitadas, y el cambio solo se aplica de ahora en adelante."
+        },
+        {
+          "t": "p",
+          "x": "La voz se gestiona por regiones. En US, las transcripciones y grabaciones se guardan por defecto, y los propietarios perdieron la opción de desactivarlo en abril de 2025; los avisos de UK y Alemania permiten elegir. Las grabaciones guardadas se conservan hasta un año y puede revisarlas personal capacitado."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_ray-ban-meta-ai-training-steps-en_1128925689.png",
+          "cap": "Cinco pasos en la app Meta AI, que hay que repetir para cada par. Las grabaciones de voz antiguas deben borrarse manualmente."
+        },
+        {
+          "t": "p",
+          "x": "Ningún ajuste protege a los transeúntes, y las imágenes compartidas con Meta AI en Messenger o Instagram quedan excluidas del ajuste de datos visuales."
+        }
+      ]
+    },
+    "gadgets/gadgets-rtx-tensor-throttle": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/4Yvp7ck4v6d8JPBoNXVPfe.jpg",
+          "cap": "Nvidia GeForce RTX 4090 Founders Edition (Imagen: Nvidia)"
+        },
+        {
+          "t": "p",
+          "x": "Unos modders han descubierto cómo eliminar, mediante un exploit de firmware, los límites impuestos que reducen a la mitad el rendimiento de AI en las GPUs Nvidia RTX 20, 30 y 40-series, informa VideoCardz. Sin esa limitación, la RTX 4090 puede duplicar su velocidad tensorial máxima, y el cálculo matricial puede mejorar hasta un 80% en la RTX 3090 Ti. Las cargas de trabajo reales ganan bastante menos, y la velocidad de tokens de los chatbots se mantiene más o menos igual, porque ese rendimiento depende del ancho de banda de memoria."
+        },
+        {
+          "t": "p",
+          "x": "El límite de Nvidia para GeForce ejecuta los cálculos FP32-accumulate a la mitad de la velocidad FP16-accumulate de cada tarjeta. Tres proyectos —turing-unlock (RTX 2080 Ti), gpu-unlock (Ampere) y gpu-unlock-ada (RTX 4090)— ofrecen desbloqueos mediante módulos no oficiales de Linux; la RTX 50 (Blackwell) no es compatible."
+        },
+        {
+          "t": "p",
+          "x": "La RTX 4090 del desarrollador del fork de Ada pasó de 165.6 a 331.6 TFLOPS en FP16. Sin embargo, en la prueba de multiplicación de matrices de un propietario, las medianas de cuBLAS GEMM mejoraron solo un 12–34% (FP16) y hasta un 20% (BF16). En Ampere, el prefill de LLM mejoró un 14–36%, pero el decode de LLM y INT8 se quedaron “más o menos igual”."
+        },
+        {
+          "t": "p",
+          "x": "El README de turing-unlock advierte que el mod “puede dañar tu hardware”, y KohakUnlock indica que “puede colgar una GPU o el host, impedir el arranque, corromper datos o dañar el hardware”."
+        }
+      ]
+    },
+    "gadgets/gadgets-even-g2-update": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Even-Realities-G2-smart-glasses-13.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Even Realities anunció hoy que una nueva versión de software llegará a las gafas inteligentes G2, con una base de conocimiento personal que solo recuerda lo que el usuario le indica."
+        },
+        {
+          "t": "p",
+          "x": "Conversate recibe un “Pro Mode” renovado que toma datos de Knowledge Base, una función que recuerda la información y los datos que el usuario selecciona. Las novedades llegan con la actualización G2 versión 2.4.0, que además actualiza la interfaz de AI a Even AI 2.0."
+        },
+        {
+          "t": "p",
+          "x": "Las grabaciones de Conversate y los archivos subidos manualmente se sincronizan con un servidor seguro de Google Cloud Platform en la EU; Even AI 2.0 y las sesiones activas de Conversate toman contexto de Knowledge Base. Durante la configuración se pueden seleccionar hasta 10 registros de Conversate, y las sesiones nuevas no se añaden automáticamente salvo que se active la subida automática."
+        },
+        {
+          "t": "p",
+          "x": "Even AI 2.0 añade la activación manteniendo pulsado el sensor táctil, conversaciones de varios turnos sin repetir la palabra de activación, y la posibilidad de abrir apps de Even Hub y cambiar ajustes desde el chat de AI. Knowledge Base y Conversate Pro Mode se lanzan hoy en beta con un límite de uso mensual. También hay una nueva opción de color carey."
+        }
+      ]
+    },
+    "gadgets/gadgets-topc-txa2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/2fiT6TDsU78hzS4Mg3E8Rm-1920-80.png",
+          "cap": "Crédito de imagen: Minimachines"
+        },
+        {
+          "t": "p",
+          "x": "El fabricante chino TOPC ha presentado la TXA2, una estación de trabajo compacta de color cobre que cuesta casi $7,000. Combina 192GB de memoria LPDDR5X con soporte para cuatro SSDs y salida simultánea a cuatro monitores con resoluciones de hasta 8K."
+        },
+        {
+          "t": "p",
+          "x": "En su núcleo está el Ryzen AI Max+ PRO 495 de AMD, con 16 núcleos de CPU, 32 hilos y gráficos Radeon 8065S. La gráfica integrada puede acceder a hasta 160GB de memoria del sistema, lo que da un margen considerable para ejecutar localmente modelos de IA exigentes. La memoria a 8,533MHz va soldada a la placa base, por lo que no se puede ampliar."
+        },
+        {
+          "t": "p",
+          "x": "El almacenamiento se resuelve con cuatro ranuras M.2 2280 NVMe, dos PCIe 4.0 x4 y dos PCIe 4.0 x2. La conectividad incluye 10GbE y 2.5GbE, HDMI 2.1, DisplayPort 2.1, USB4, Wi-Fi 7 y Bluetooth 5.4."
+        },
+        {
+          "t": "p",
+          "x": "El chasis, de unos 2.5 litros, pesa 2.319 kg y usa cuatro ventiladores; según se informa, soporta 140W en picos y 120W de forma continua. TOPC no ha revelado los niveles de ruido."
+        },
+        {
+          "t": "p",
+          "x": "Los precios parten de $6,499 para la configuración de 2TB y de $6,799 para la de 4TB, más $69 de envío, sin contar aranceles de importación ni impuestos. Al tratarse de una marca relativamente desconocida y con solo un año de garantía, una compra cercana a $7,000 es una apuesta considerable."
+        }
+      ]
     }
   }
 }

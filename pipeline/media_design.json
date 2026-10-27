@@ -1,6 +1,33 @@
-{"date":"2026-10-26","section":"design","media":[
-{"id":"design-sparkle-button-essay","type":"image","src":"pipeline/media/design-sparkle-button-essay.png"},
-{"id":"design-b2b-chat-line","type":"image","src":"pipeline/media/design-b2b-chat-line.png"},
-{"id":"design-ai-firms-human-brands","type":"image","src":"pipeline/media/design-ai-firms-human-brands.jpg"},
-{"id":"design-impeccable-skill","type":"image","src":"pipeline/media/design-impeccable-skill.jpg"}
-]}
+{
+  "date": "2026-10-27",
+  "section": "design",
+  "media": [
+    {
+      "id": "design-gemini-brand-style",
+      "type": "image",
+      "src": "pipeline/media/design-gemini-brand-style.jpg"
+    },
+    {
+      "id": "design-ideogram-svg",
+      "type": "video",
+      "src": "pipeline/media/design-ideogram-svg.mp4",
+      "poster": "pipeline/media/design-ideogram-svg.jpg"
+    },
+    {
+      "id": "design-figma-mcp-library",
+      "type": "image",
+      "src": "pipeline/media/design-figma-mcp-library.jpg"
+    },
+    {
+      "id": "design-shopify-fullstack-designer",
+      "type": "video",
+      "src": "pipeline/media/design-shopify-fullstack-designer.mp4",
+      "poster": "pipeline/media/design-shopify-fullstack-designer.jpg"
+    },
+    {
+      "id": "design-moss-image",
+      "type": "image",
+      "src": "pipeline/media/design-moss-image.jpg"
+    }
+  ]
+}

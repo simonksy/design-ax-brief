@@ -1,6 +1,11 @@
-{"date":"2026-10-26","section":"books","media":[
-{"id":"books-wgae-cloak-shield","type":"image","src":"pipeline/media/books-wgae-cloak-shield.jpg"},
-{"id":"books-linemanga-byus-chat","type":"image","src":"pipeline/media/books-linemanga-byus-chat.jpg"},
-{"id":"books-lrb-shelf-ai-novels","type":"svg","motif":"swatch","accent":"#2ec5c5"},
-{"id":"books-sadek-creative-roi","type":"image","src":"pipeline/media/books-sadek-creative-roi.jpg"}
-]}
+{
+  "date": "2026-10-27",
+  "section": "books",
+  "media": [
+    {"id": "books-dark-factory", "type": "image", "src": "pipeline/media/books-dark-factory.png"},
+    {"id": "books-anthropic-korean-titles", "type": "image", "src": "pipeline/media/books-anthropic-korean-titles.jpg"},
+    {"id": "books-sweden-ai-classics", "type": "image", "src": "pipeline/media/books-sweden-ai-classics.jpg"},
+    {"id": "books-gebru-deep-unlearning", "type": "image", "src": "pipeline/media/books-gebru-deep-unlearning.jpg"},
+    {"id": "books-webtoon-forum", "type": "image", "src": "pipeline/media/books-webtoon-forum.jpg"}
+  ]
+}

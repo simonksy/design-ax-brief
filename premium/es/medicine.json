@@ -2307,6 +2307,104 @@
           "x": "El dispositivo ya está disponible para los consumidores de U.S., y su lanzamiento internacional avanza de forma gradual."
         }
       ]
+    },
+    "medicine/medicine-heidi-scribe": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El uso de un escriba ambiental AI-driven en consulta ambulatoria se asoció con menos tiempo dedicado a redactar notas y notas más largas, pero otras medidas de productividad se mantuvieron en gran medida sin cambios, según los investigadores."
+        },
+        {
+          "t": "p",
+          "x": "Entre todos los usuarios, la mediana del tiempo activo en notas bajó de 21 minutos a 18.6 minutos y la mediana de la longitud de las notas subió de 4,854 a 5,187 caracteres después de que los clínicos se inscribieran en Heidi, según Jennifer P. Stevens, MD, del Beth Israel Deaconess Medical Center de Boston, y sus colegas. Sin embargo, no hubo diferencias en el cierre de notas el mismo día o fuera de horario, ni en la productividad clínica, informaron en Annals of Internal Medicine."
+        },
+        {
+          "t": "p",
+          "x": "De 902 clínicos del sistema Beth Israel Lahey Health, de 14 hospitales, que cumplían los criterios de inclusión, el 67.0% usó Heidi al menos una vez. Entre los usuarios intensivos, la reducción inmediata del tiempo activo en notas fue significativamente mayor (-2.50 minutos) que entre los inscritos que no lo usaron (-0.29 minutos) y los usuarios ocasionales (-0.78 minutos)."
+        },
+        {
+          "t": "p",
+          "x": "En un editorial adjunto, Kirsten Ostherr, PhD, MPH, de Rice University, señaló que el estudio no registró el tiempo dedicado a editar notas dentro de Heidi, lo que \"plantea una pregunta importante sobre si los escribas ambientales trasladan la carga de documentación en lugar de reducirla\"."
+        }
+      ]
+    },
+    "medicine/medicine-pa-ai-disclosure": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-03/istock-2214959014.jpg?h=140710cd&itok=VthZy7qr",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "La Cámara de Representantes de Pennsylvania aprobó el 30 de septiembre, por 144-59 votos, la House Bill 1925, que incluye normas de divulgación para centros sanitarios y restricciones a que las aseguradoras dependan de la AI en la revisión de utilización. El proyecto enmendado se remitió el 14 de octubre al Senate Institutional Sustainability and Innovation Committee y sigue pendiente en el Senado."
+        },
+        {
+          "t": "p",
+          "x": "Si se aprueba, la ley exigiría a los centros sanitarios, incluidos los de imagen, informar de su uso de AI en la toma de decisiones clínicas mediante publicaciones en su sitio web y notificaciones escritas a los pacientes, una vez por episodio de atención. Los centros deberían revisar el rendimiento de los sistemas de AI al menos una vez al año y garantizar que la tecnología no se imponga al juicio clínico independiente de los profesionales."
+        },
+        {
+          "t": "p",
+          "x": "Antes de emitir o mantener una decisión de cobertura desfavorable, como la denegación de una autorización previa, quienes realicen la revisión de utilización tendrían que revisar los historiales clínicos y formarse su propio juicio independiente, en lugar de basarse en recomendaciones de AI sin supervisión humana. El American College of Radiology prevé propuestas similares en las sesiones legislativas estatales de 2027."
+        }
+      ]
+    },
+    "medicine/medicine-coreline-aorta": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Coreline Soft, desarrollador de AI con sede en Seúl (Corea del Sur), recibió la autorización 510(k) de la Administración de Alimentos y Medicamentos de U.S. (FDA) para Aview Aorta Metrics, su software de evaluación aórtica cuantitativa en CT de tórax."
+        },
+        {
+          "t": "p",
+          "x": "Según la empresa, el software segmenta automáticamente la aorta en imágenes de CT de tórax, clasifica las zonas aórticas y mide el diámetro de cada una. También ofrece vistas de reformación planar curva enderezada, transversales y 3D, además de informes de análisis, indicó Coreline Soft."
+        },
+        {
+          "t": "p",
+          "x": "Se trata de la 13.ª autorización FDA 510(k) de Coreline Soft, según la compañía. Aview Aorta Metrics se suma a la plataforma Aview de la firma para el análisis de múltiples enfermedades en CT de tórax, que incluye Aview LCS y Aview Lung Nodule CAD para la detección y el análisis de nódulos pulmonares, y Aview CAC para la puntuación de calcio en arterias coronarias en CT de tórax sin contraste."
+        }
+      ]
+    },
+    "medicine/medicine-night-shift": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La precisión en la lectura de radiografías (x-ray) de tórax cae de forma significativa en residentes de radiología fatigados tras turnos nocturnos, y la AI apenas ayuda, según un estudio del Aachen University Hospital de Alemania publicado el 22 de octubre en European Radiology."
+        },
+        {
+          "t": "p",
+          "x": "Diez residentes de radiología interpretaron cada uno tres series de 33 radiografías de tórax a pie de cama: dos sesiones antes de una guardia nocturna presencial first-call y una inmediatamente después; esta última, con y sin asistencia de AI de un modelo que el equipo había desarrollado previamente."
+        },
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/ai-fatigue.c48mc7dd9z.jpg?auto=format%2Ccompress&fit=max&q=70&w=400",
+          "cap": "Configuración técnica y visor DICOM personalizado con seguimiento ocular en pantalla; con asistencia de AI, la plantilla se rellenaba previamente con las sugerencias del modelo. European Radiology"
+        },
+        {
+          "t": "p",
+          "x": "Seis de los 10 residentes fueron clasificados como fatigados. Su precisión diagnóstica disminuyó significativamente tras la guardia, de un κ de 0.71 a 0.61 (p < 0.001); los lectores no fatigados mostraron un descenso menor pero aún significativo (κ, 0.72 a 0.65). La asistencia de AI no mejoró de forma significativa la precisión en ninguno de los grupos y solo acortó los tiempos de informe en los lectores no fatigados (en 9.9 segundos)."
+        },
+        {
+          "t": "p",
+          "x": "\"La fatiga inducida por el turno nocturno deterioró la precisión diagnóstica sin ralentizar la velocidad de informe, lo que plantea problemas de seguridad del paciente. El modelo de AI utilizado no restableció el rendimiento previo a la guardia\", señalaron los investigadores."
+        }
+      ]
+    },
+    "medicine/medicine-rivanna-boneenhance": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Rivanna recibió la autorización 510(k) de la U.S. Food and Drug Administration (FDA) para BoneEnhance, un módulo de software de aprendizaje automático para su sistema de ecografía diagnóstica Accuro XV."
+        },
+        {
+          "t": "p",
+          "x": "Según la compañía, BoneEnhance identifica el hueso y los tejidos circundantes en los conjuntos de datos volumétricos adquiridos por la sonda 3D del sistema y los resalta con superposiciones codificadas por color en imágenes 2D B-mode, sin ocultar los datos anatómicos originales. En un conjunto de prueba independiente de 233 conjuntos de datos volumétricos de cinco centros, la precisión de predicción de etiquetas por volumen osciló entre el 95.1% y el 100%, según Rivanna."
+        },
+        {
+          "t": "p",
+          "x": "Rivanna también desarrolla un módulo en fase de investigación para ayudar a los clínicos a evaluar posibles fracturas de extremidades en imágenes de ecografía. La empresa indicó que el trabajo ha contado con el apoyo de la U.S. Biomedical Advanced Research and Development Authority."
+        }
+      ]
     }
   }
 }

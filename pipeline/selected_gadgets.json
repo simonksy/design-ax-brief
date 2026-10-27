@@ -1,101 +1,168 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "section": "gadgets",
   "picks": [
     {
-      "title": "How much?? Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM selling for a cool $6,800 — TOPC TXA2 can take 4 SSDs and drives 4 8K monitors",
-      "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
-      "source": "TechRadar",
+      "title": "Siri AI keeps getting better, here’s what’s new in iOS 27.2",
+      "url": "https://9to5mac.com/2026/10/26/siri-ai-keeps-getting-better-heres-whats-new-in-ios-27-2/",
+      "source": "9to5Mac",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "New product: TOPC's TXA2 is a 192GB Ryzen AI Max+ PRO 495 local-AI workstation priced at about $6,800 that drives four 8K monitors. It shows what desk-side AI hardware costs while RAM prices are spiking.",
-      "published_iso": "2026-10-24T20:05:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/2fiT6TDsU78hzS4Mg3E8Rm-1920-80.png",
-      "excerpt": "Obscure brand wants nearly $6,800 for its copper-colored AI workstation"
+      "rationale": "New release: Apple shipped the 27.2 updates on every platform, adding new Siri AI features. According to Korean coverage, this is also when the Siri AI beta adds Korean, one of six supported languages.",
+      "published_iso": "2026-10-26T18:36:02Z",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Apple is rolling out its 27.2 software updates today, and they introduce several improvements for Siri AI. Here’s what’s new."
     },
     {
-      "title": "Gemini for Android rolls out side panel and settings redesign",
-      "url": "https://9to5google.com/2026/10/23/gemini-settings-redesign-android/",
-      "source": "9to5Google",
+      "title": "Researchers develop a new forensic tool that can recover deleted AI chats from your phone’s memory",
+      "url": "https://www.digitaltrends.com/computing/researchers-develop-forensic-tool-orisa-to-recover-deleted-conversations-from-ai-chatbot-apps/",
+      "source": "Digital Trends",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "New release: the Gemini Android app ships a redesigned side panel and settings screen right after the Spark-to-Task update. It is a live reference for how Google is restructuring navigation in an assistant app.",
-      "published_iso": "2026-10-23T22:02:00Z",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-2.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Following the Spark-to-Task update, the Gemini app has now rolled out redesigns of the side panel and settings on Android."
+      "rationale": "New research: Georgia Tech's ORISA tool recovers deleted conversations from local AI chatbot apps on a phone and rebuilds them into a working session. Deleting a chat does not mean the data is gone from the device.",
+      "published_iso": "2026-10-26T23:09:29Z",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/recovering-deleted-ai-chats.jpg?resize=1200%2C630&ssl=1",
+      "excerpt": "Think deleting an AI chat erases everything? Georgia Tech researchers developed a forensic tool that can recover deleted conversations from local AI apps and rebuild the information into a working session."
     },
     {
-      "title": "Nvidia's DGX Spark can now join forces with seven others to deliver 1 TB of memory",
-      "url": "https://www.notebookcheck.net/Nvidia-s-DGX-Spark-can-now-join-forces-with-seven-others-to-deliver-1-TB-of-memory.1430472.0.html",
+      "title": "Ray-Ban Meta: How to stop your glasses from training AI",
+      "url": "https://www.notebookcheck.net/Ray-Ban-Meta-How-to-stop-your-glasses-from-training-AI.1430044.0.html",
       "source": "Notebookcheck",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "New announcement from GTC Berlin: DGX Spark clustering now goes up to eight units for 1 TB of unified memory, and Nvidia claims up to 40% faster agentic inference on select RTX hardware. Desk-scale local AI capacity just took a big step up.",
-      "published_iso": "2026-10-22T01:51:00Z",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Nvidia-GTC-Berlin-announcement.png",
-      "excerpt": "Nvidia has expanded DGX Spark's clustering capabilities, allowing users to connect up to eight systems for a combined 1 TB of unified memory. The company has also announced inference optimisations promising up to 40% faster agentic AI workloads on select RTX hardware, alongside improvements for DGX "
+      "rationale": "New setting: the Meta AI app now has a toggle that stops images captured by Ray-Ban Meta glasses from being used to train Meta's AI, plus a second toggle for voice recordings outside the US. The article explains where US owners have fewer options.",
+      "published_iso": "2026-10-26T09:00:00Z",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ray-ban-meta-ki-training-teaser.jpg",
+      "excerpt": "Ask your Ray-Ban Meta glasses about what you're looking at, and Meta stores that image and may use it to train its AI. A new setting in the Meta AI app turns this off, and a second one covers voice recordings outside the US. Here is what each setting covers, where US owners have less choice and what"
     },
     {
-      "title": "This crowdfunded $109 hub wants to pool the RAM in your old PCs, Macs, and phones to run bigger AI models — but the engine underneath is software you can already get for free",
-      "url": "https://www.techradar.com/pro/this-crowdfunded-usd109-hub-wants-to-pool-the-ram-in-your-old-pcs-macs-and-phones-to-run-bigger-ai-models-but-the-engine-underneath-is-software-you-can-already-get-for-free",
-      "source": "TechRadar",
+      "title": "Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle — firmware exploit doubles RTX 4090",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx-3090-ti-matrix-math-up-to-80-percent",
+      "source": "Tom's Hardware",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "New product: the RAMDeck hub pools memory from your idle devices to run larger local models while DDR5 prices are spiking. TechRadar notes it is slow and that the underlying engine is free software, which makes it a useful reality check.",
-      "published_iso": "2026-10-25T19:30:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/sTBjr37ftwL8aDtGAbAG78-1920-80.jpg",
-      "excerpt": "Can't stomach DDR5 at five times last year's price? RAMDeck wants to borrow your other devices' memory instead, and it admits that won't be fast."
+      "rationale": "New finding: a firmware exploit removes Nvidia's half-rate tensor throttle on GeForce RTX 20/30/40 cards, doubling the RTX 4090's peak tensor rate. Tom's Hardware notes that real workloads gain much less and chatbot token speeds barely change.",
+      "published_iso": "2026-10-26T11:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/4Yvp7ck4v6d8JPBoNXVPfe-2560-80.jpg",
+      "excerpt": "Real workloads gain less than peak tensor rates, and chatbot token speeds stay about the same."
     },
     {
-      "title": "Someone turned their monitor into a laser pointer firing range game using Claude Code",
-      "url": "https://www.xda-developers.com/someone-turned-their-monitor-into-a-laser-pointer-firing-range-game-using-claude-code/",
-      "source": "XDA",
+      "title": "Major Even Realities G2 smart glasses update adds Conversate 'Pro Mode,' Knowledge Base",
+      "url": "https://9to5google.com/2026/10/26/even-realities-g2-glasses-update-adds-knowledge-based/",
+      "source": "9to5Google",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#eb367f",
       "motif": "headset",
-      "rationale": "New maker project: a webcam and laser pointer turn an ordinary monitor into a light-gun-style shooting range, built with Claude Code. It shows AI coding agents being used to prototype physical-interaction hardware quickly.",
-      "published_iso": "2026-10-25T04:13:01Z",
-      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/claude-laser-range-featured.jpg?w=1600&h=900&fit=crop",
-      "excerpt": "It's like a light gun game, but with lasers."
+      "rationale": "New software release: Even Realities is rolling out a major G2 firmware/app update that adds a Conversate 'Pro Mode' and a Knowledge Base the glasses' AI can draw on. These are new features, not a re-review of the hardware.",
+      "published_iso": "2026-10-26T16:41:26Z",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Even-Realities-G2-smart-glasses-13.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Even Realities today announced that a new software version will be rolling out to the G2 smart glasses, complete with..."
+    }
+  ],
+  "items": [
+    {
+      "title": "Siri AI keeps getting better, here’s what’s new in iOS 27.2",
+      "url": "https://9to5mac.com/2026/10/26/siri-ai-keeps-getting-better-heres-whats-new-in-ios-27-2/",
+      "source": "9to5Mac",
+      "category": "gadgets",
+      "tool": "Gadgets",
+      "accent": "#ff5a4d",
+      "motif": "headset",
+      "rationale": "New release: Apple shipped the 27.2 updates on every platform, adding new Siri AI features. According to Korean coverage, this is also when the Siri AI beta adds Korean, one of six supported languages.",
+      "published_iso": "2026-10-26T18:36:02Z",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Apple is rolling out its 27.2 software updates today, and they introduce several improvements for Siri AI. Here’s what’s new."
+    },
+    {
+      "title": "Researchers develop a new forensic tool that can recover deleted AI chats from your phone’s memory",
+      "url": "https://www.digitaltrends.com/computing/researchers-develop-forensic-tool-orisa-to-recover-deleted-conversations-from-ai-chatbot-apps/",
+      "source": "Digital Trends",
+      "category": "gadgets",
+      "tool": "Gadgets",
+      "accent": "#0070f3",
+      "motif": "headset",
+      "rationale": "New research: Georgia Tech's ORISA tool recovers deleted conversations from local AI chatbot apps on a phone and rebuilds them into a working session. Deleting a chat does not mean the data is gone from the device.",
+      "published_iso": "2026-10-26T23:09:29Z",
+      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/recovering-deleted-ai-chats.jpg?resize=1200%2C630&ssl=1",
+      "excerpt": "Think deleting an AI chat erases everything? Georgia Tech researchers developed a forensic tool that can recover deleted conversations from local AI apps and rebuild the information into a working session."
+    },
+    {
+      "title": "Ray-Ban Meta: How to stop your glasses from training AI",
+      "url": "https://www.notebookcheck.net/Ray-Ban-Meta-How-to-stop-your-glasses-from-training-AI.1430044.0.html",
+      "source": "Notebookcheck",
+      "category": "gadgets",
+      "tool": "Gadgets",
+      "accent": "#7928ca",
+      "motif": "headset",
+      "rationale": "New setting: the Meta AI app now has a toggle that stops images captured by Ray-Ban Meta glasses from being used to train Meta's AI, plus a second toggle for voice recordings outside the US. The article explains where US owners have fewer options.",
+      "published_iso": "2026-10-26T09:00:00Z",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ray-ban-meta-ki-training-teaser.jpg",
+      "excerpt": "Ask your Ray-Ban Meta glasses about what you're looking at, and Meta stores that image and may use it to train its AI. A new setting in the Meta AI app turns this off, and a second one covers voice recordings outside the US. Here is what each setting covers, where US owners have less choice and what"
+    },
+    {
+      "title": "Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle — firmware exploit doubles RTX 4090",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx-3090-ti-matrix-math-up-to-80-percent",
+      "source": "Tom's Hardware",
+      "category": "gadgets",
+      "tool": "Gadgets",
+      "accent": "#2ec5c5",
+      "motif": "headset",
+      "rationale": "New finding: a firmware exploit removes Nvidia's half-rate tensor throttle on GeForce RTX 20/30/40 cards, doubling the RTX 4090's peak tensor rate. Tom's Hardware notes that real workloads gain much less and chatbot token speeds barely change.",
+      "published_iso": "2026-10-26T11:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/4Yvp7ck4v6d8JPBoNXVPfe-2560-80.jpg",
+      "excerpt": "Real workloads gain less than peak tensor rates, and chatbot token speeds stay about the same."
+    },
+    {
+      "title": "Major Even Realities G2 smart glasses update adds Conversate 'Pro Mode,' Knowledge Base",
+      "url": "https://9to5google.com/2026/10/26/even-realities-g2-glasses-update-adds-knowledge-based/",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "tool": "Gadgets",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "rationale": "New software release: Even Realities is rolling out a major G2 firmware/app update that adds a Conversate 'Pro Mode' and a Knowledge Base the glasses' AI can draw on. These are new features, not a re-review of the hardware.",
+      "published_iso": "2026-10-26T16:41:26Z",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Even-Realities-G2-smart-glasses-13.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Even Realities today announced that a new software version will be rolling out to the G2 smart glasses, complete with..."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors": {
-        "verdict": "new",
-        "nearest": "https://www.tomshardware.com/desktops/mini-pcs/early-amd-gorgon-halo-ai-mini-pc-packs-192gb-ram-for-an-eye-watering-usd7-099-super-early-bird-deal-cuts-down-price-of-gmktec-evo-x5-with-ryzen-ai-max-pro-495-by-usd425",
-        "new_action": ""
+      "https://9to5mac.com/2026/10/26/siri-ai-keeps-getting-better-heres-whats-new-in-ios-27-2/": {
+        "verdict": "follow-up",
+        "nearest": "https://www.engadget.com/2275255/iphone-siri-ai-can-index-more-personal-data-how-to-limit/",
+        "new_action": "Apple released the iOS/watchOS/macOS 27.2 updates on 2026-10-26 with new Siri AI features, and the Siri AI beta adds Korean (6 languages in total). This is a new software release, not the 27.0 launch (09-27 Tom's Guide card) or the 10-11 personal-data indexing how-to."
       },
-      "https://9to5google.com/2026/10/23/gemini-settings-redesign-android/": {
-        "verdict": "new",
-        "nearest": "https://9to5google.com/2026/09/28/pixel-buds-gemini-controls/",
-        "new_action": ""
-      },
-      "https://www.notebookcheck.net/Nvidia-s-DGX-Spark-can-now-join-forces-with-seven-others-to-deliver-1-TB-of-memory.1430472.0.html": {
-        "verdict": "new",
-        "nearest": "https://www.tomshardware.com/pc-components/gpus/nvidia-introduces-64gb-dgx-spark-to-throw-local-ai-fans-a-lifeline-amid-the-rampocalypse-new-gb10-config-starts-at-usd4999-for-those-who-can-work-with-less",
-        "new_action": ""
-      },
-      "https://www.techradar.com/pro/this-crowdfunded-usd109-hub-wants-to-pool-the-ram-in-your-old-pcs-macs-and-phones-to-run-bigger-ai-models-but-the-engine-underneath-is-software-you-can-already-get-for-free": {
-        "verdict": "new",
-        "nearest": "https://www.tomshardware.com/tech-industry/artificial-intelligence/apple-researchers-turn-idle-macs-into-a-virtual-gpu-cloud-with-minions-researchers-say-the-distributed-scheme-could-scale-globally-and-support-model-training",
-        "new_action": ""
-      },
-      "https://www.xda-developers.com/someone-turned-their-monitor-into-a-laser-pointer-firing-range-game-using-claude-code/": {
+      "https://www.digitaltrends.com/computing/researchers-develop-forensic-tool-orisa-to-recover-deleted-conversations-from-ai-chatbot-apps/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
+      },
+      "https://www.notebookcheck.net/Ray-Ban-Meta-How-to-stop-your-glasses-from-training-AI.1430044.0.html": {
+        "verdict": "new",
+        "nearest": "https://www.androidauthority.com/ray-ban-meta-glasses-listening-3722586/",
+        "new_action": ""
+      },
+      "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx-3090-ti-matrix-math-up-to-80-percent": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://9to5google.com/2026/10/26/even-realities-g2-glasses-update-adds-knowledge-based/": {
+        "verdict": "follow-up",
+        "nearest": "https://www.engadget.com/2288658/even-realities-g2-smart-glasses-review/",
+        "new_action": "Even Realities announced and began rolling out a new G2 software version on 2026-10-26 that adds Conversate 'Pro Mode' and a Knowledge Base. The 10-20 Engadget card was a hardware review, so this is a new release."
       }
     },
-    "note": "SWAP (2026-10-26 re-curation): removed the Tom's Hardware Samsung TV AI ad-tracking pick (https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-...) because marketing claimed the same URL today and keeps it. Replaced it with the TechRadar TOPC TXA2 workstation, the next-best fresh candidate. It is a distinct product from the 09-29 GMKtec EVO-X5 'Gorgon Halo' card (same chip family, different vendor and machine), is not claimed by any other section today, and keeps TechRadar at 2 cards (cap is 2). Also skipped for the swap: Verge vibe-coding TVs (design claimed it today, and it is the same trend as the 10-20 TechCrunch card); Android Authority Kindle handwritten notes (no AI angle); Road to VR OpenXR multitasking (not AI-led). Original dedup decisions are unchanged. Dropped as repeats of published stories: 9to5Mac Perplexity local Mac (likely-repeat of the 10-21 Engadget card); Notebookcheck Unitree H2-X (same as the 10-22 TechRadar card); CNET Birdbuddy Nook (same as the 10-23 Verge card); Notebookcheck Mori robot (same as the 10-23 CNET card, and a pricing update is not a new release); 9to5Google Gemini Android Auto Personal Intelligence (same launch as the 10-21 blog.google card); Ars Ray-Ban Meta audio-recording bug (same as the 10-14 Android Authority 'listening' card). Dropped as reviews or how-tos of already-published products: Tom's Guide Alexa Tablet 12 Pro review; WIRED Ray-Ban Meta Audio review; Ars Surface Laptop Ultra review; Engadget 4 Ray-Ban Meta privacy settings; Engadget AI glasses vs headphones. Dropped as sponsored: 9to5Google INMO GO3. Dropped as opinion, evergreen or weak on AI: 9to5Mac Apple Glasses and Siri essays; Android Authority AI ringtone prompts guide; Razer Basilisk V4 Pro review; Sandisk Made-for-Meta storage. Diversity: 4 distinct outlets (TechRadar x2, 9to5Google, Notebookcheck, XDA)."
+    "note": "iOS 27.2 cluster (one release, several outlets): kept 9to5Mac (on the whitelist). Dropped the 전자신문 Korean Siri piece, Engadget 'more Siri AI tools in 27.2', MacRumors watchOS 27.2, and MacRumors SynthID watermarks in iOS 27.2 as the same release event. Dropped for cross-section reasons: the Tom's Hardware Samsung TV AI ad-tracking story, because marketing already published that URL on 10-26. Dropped as repeats of published stories: Notebookcheck Mori robot (10-23 CNET card); WIRED Ray-Ban Meta Audio review (product already ran on 10-05 via UploadVR); Ars Ray-Ban Meta recording bug (10-14 Android Authority card); ZDNET Gemini on Android Auto (10-21 blog.google card); Tom's Guide Alexa Tablet 12 Pro review (10-09 Engadget launch card). Dropped on other grounds: TechCrunch AI wearables roundup (evergreen); Nirva $33M (funding); INMO GO3 (flagged as sponsored on 10-26); Razer Basilisk V4 Pro (AI incidental); Samsung 'The Brief' (corporate seminar PR); Gemini Live 'plus' redesign (minor UI tweak one day after the 10-26 Gemini redesign card); Android Authority Gemini remembered-items teardown (speculative APK); Intel Arc B580 XeStrata (single benchmark); 전자신문 ETH robot dog (off-whitelist research clip); Digital Trends delivery-robot biometric lawsuits (kept Digital Trends to one card, and the lawsuit angle is closer to politics). Diversity: 5 distinct outlets (9to5Mac, Digital Trends, Notebookcheck, Tom's Hardware, 9to5Google). Cross-section exact-URL check: the full published_urls.json (210k tokens) could not be scanned without grep. The orchestrator should confirm that none of these 5 URLs, and none of the iOS 27.2 Siri, ORISA, or RTX tensor-throttle stories, ran in another section."
   }
 }

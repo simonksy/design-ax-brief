@@ -8086,6 +8086,102 @@
           "x": "Según la demanda, incluso después de que Anthropic añadiera salvaguardas, Claude recreaba canciones concretas “for a modern audience” (para un público moderno) cuando se le pedía. El abogado principal, Richard Busch, que trabajó en el caso “Blurred Lines” del patrimonio de Marvin Gaye, sostiene que Anthropic usa las canciones para crear “unlicensed derivative works” (obras derivadas sin licencia)."
         }
       ]
+    },
+    "music/music-mi-midi-2": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los autocodificadores dispersos (SAEs) pueden revelar rasgos de un modelo generativo sin etiquetas predefinidas, pero en los modelos de lenguaje la evidencia usada para interpretarlos ha resultado una guía poco fiable para saber cuáles dirigen la salida. Hasta donde sabemos, no se ha comprobado si las interpretaciones de los rasgos SAE predicen el control en generadores de música. Desarrollamos un protocolo integral para descubrir y evaluar rasgos SAE en la generación text-to-MIDI y lo aplicamos a text2midi y MIDI-LLM."
+        },
+        {
+          "t": "p",
+          "x": "El protocolo caracteriza los rasgos mediante correlaciones con métricas musicales, programas de instrumento compartidos y descripciones automáticas, cada uno con su propio control: ajuste por densidad de notas, fragmentos inactivos emparejados y calibración por permutación. Después pone a prueba los candidatos mediante intervención, medida directamente en el MIDI generado frente a la generación sin modificar y a una dirección aleatoria emparejada; los ordena en cribados y confirma los rasgos seleccionados con nuevos prompts. La evidencia que supera estos controles apunta a rasgos que dirigen la salida."
+        },
+        {
+          "t": "p",
+          "x": "Las descripciones superan los controles de permutación en instrumentación, y un rasgo cuya descripción nombra un programa de synth-lead introduce ese programa en una confirmación preespecificada y en una réplica con prompts disjuntos, y reaparece en diccionarios entrenados de forma independiente. Los rasgos elegidos por correlaciones ajustadas por densidad muestran, como familia, un pequeño desplazamiento positivo de su métrica objetivo, mientras que los elegidos por correlaciones brutas no muestran ninguno. Un atlas ofrece ejemplos en MIDI, piano-roll y audio de cada rasgo del cribado dirigido."
+        }
+      ]
+    },
+    "music/music-movin-to-the-sun": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-26T105845.322.png?fit=2000%2C1500&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "‘Movin’ to the Sun’ es un éxito de pista de baile incontestable, con voces troceadas de la leyenda del dance Ultra Naté. También es un tema que nació como una canción generada con la plataforma de AI-music Suno. La canción, que suma 206.6m reproducciones en Spotify, figura a nombre de Hugel y Ultra Naté, pero su creadora original fue la artista húngara Gángó Bernadett, que graba como Imael Angel."
+        },
+        {
+          "t": "p",
+          "x": "“Empezamos con Imael Angel, que escribió la letra y parte de las melodías. Ella lo metió en Suno… y después yo sampleé algunos fragmentos de lo que hizo”, dijo Hugel en un video de Instagram. “Reorganicé el tema… Y básicamente lo reprodujimos todo.” Las voces de Ultra Naté se superpusieron a las voces originales Suno-generated."
+        },
+        {
+          "t": "p",
+          "x": "El tema no lleva etiquetas de divulgación de AI en los servicios de streaming. Con las propuestas de etiquetado IFPI-led probablemente recibiría la etiqueta ‘ai’ en minúsculas; con las reglas de listas propuestas por las discográficas podría incumplir el requisito de que los servicios de AI generativa utilizados estén “debidamente autorizados y sean legales”, aunque Suno cuenta con autorización de WMG, BMG y Believe/TuneCore. Como decíamos, zonas grises."
+        }
+      ]
+    },
+    "music/music-charlotte-de-witte-nava": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.ra.co/images/news/2026/charlotte-navanull.png"
+        },
+        {
+          "t": "p",
+          "x": "El próximo EP de Charlotte de Witte cuenta con una vocalista AI. La artista belga de techno adelantó la colaboración en Instagram el martes 20 de octubre, con un fragmento de \"Tales Of The Desert\", que incluye la voz de NAVA, un proyecto de cantante persa generada con AI (AI-generated). El video AI que lo acompaña consiste en planos panorámicos de de Witte y NAVA en extensas salinas."
+        },
+        {
+          "t": "p",
+          "x": "NAVA fue creada en 2025 por el artista digital británico-iraní (British-Iranian) Farbod Mehr, que desarrolló la cantante virtual con AI e imágenes tomadas del arte y la historia de Irán. Mehr dijo a The Guardian que el avatar representa a las mujeres iraníes que no pueden cantar en público por las estrictas leyes que impone el régimen autoritario teocrático del país. Desde entonces, NAVA ha reunido 775,000 seguidores en Instagram."
+        },
+        {
+          "t": "p",
+          "x": "\"Tales Of The Desert\" forma parte del próximo EP de tres temas de de Witte, Azadi (una palabra persa que significa \"libertad\"), que saldrá el mes que viene a través de su sello K NT XT. Los tres temas cuentan con la voz de NAVA. (Resident Advisor se ha puesto en contacto con de Witte para pedir comentarios.)"
+        }
+      ]
+    },
+    "music/music-djustify": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los sistemas de DJ automáticos se centran sobre todo en la música electrónica de baile, cuya estructura regular facilita relativamente la mezcla basada en reglas. La música popular con mucha voz es más difícil: qué tema poner a continuación, dónde marcar la entrada y qué transición usar están ligados entre sí, por lo que las reglas fijas los manejan mal."
+        },
+        {
+          "t": "p",
+          "x": "Presentamos DJustify, un AI-DJ de pop que sitúa a un LLM en un bucle de razonar–proponer–verificar–reparar y le permite elegir a la vez la siguiente pista, los puntos de entrada y la técnica de mezcla. El LLM muestrea varios planes de transición; después, un verificador acústico externo puntúa el audio renderizado y activa la reparación cuando falla una comprobación. El muestreo conserva varias transiciones candidatas por cada par de pistas en lugar de una única mezcla fija."
+        },
+        {
+          "t": "p",
+          "x": "En pruebas de escucha a ciegas, nuestras transiciones superaron a Mosaikbox, a un crossfade reimplementado y a una línea base de entradas que reutiliza las del crossfade; esta última comparación muestra que la mayor parte de la ventaja procede de la colocación de las entradas. El mismo planificador también elige y ordena un set siguiendo un arco emocional: esto mejora la coherencia narrativa frente a una ablación sin historia, y dentro de un set las valoraciones de historia y transición no muestran una diferencia medible respecto a un DJ humano. El verificador aporta sobre todo fiabilidad, no mayor calidad media: repara errores poco frecuentes pero audibles, como voces cortadas, mientras que el planificador sigue siendo no determinista."
+        }
+      ]
+    },
+    "music/music-spotify-agent-layer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-23T115515.907.png?fit=2000%2C1500&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Tras la oleada de lanzamientos de agentes personales –Muse de Meta, Dots de OpenAI y Claude Duet de Anthropic–, los co-CEOs de Spotify, Gustav Söderström y Alex Norström, dedicaron buena parte de la conferencia de resultados trimestrales de la compañía a hablar de ellos."
+        },
+        {
+          "t": "p",
+          "x": "“Spotify es ahora un agente en el que no solo se puede hacer clic dentro de nuestra app, sino al que se le puede hablar, hacer preguntas y dar instrucciones”, dijo Söderström a los analistas. “Para la era agéntica, apostamos a que los consumidores usarán muchos agentes y a que Spotify será, con diferencia, la mejor plataforma de medios para contenido con licencia dentro de todos esos agentes y entre ellos”."
+        },
+        {
+          "t": "p",
+          "x": "Al preguntarle si Spotify corre el riesgo de convertirse en un “proveedor de back-end”, respondió: “Toda la escucha ocurre a través de Spotify. No enviamos la música ni nada a ninguno de estos agentes”. Añadió que Spotify se reconstruyó como agente “para que a otros agentes les resulte facilísimo integrarnos y hablar de agente a agente”."
+        },
+        {
+          "t": "p",
+          "x": "Rich Greenfield, de LightShed Partners, preguntó si los agentes que cancelan suscripciones sin uso suponen un riesgo de bajas. Söderström respondió que Spotify “nunca apostará a que te olvides de tu suscripción” y sostuvo que los agentes podrían, en cambio, ayudar a los usuarios a ver que Spotify es una mejor opción."
+        }
+      ]
     }
   }
 }

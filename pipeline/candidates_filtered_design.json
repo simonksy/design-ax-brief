@@ -1,66 +1,24 @@
 {
   "section": "design",
-  "generated_at": "2026-10-25T22:00:38Z",
+  "now_iso": "2026-10-27T01:45:00Z",
+  "generated_at": "2026-10-27T01:45:00Z",
   "window_hours": 72,
   "items": [
     {
-      "title": "6 Ways Teams Are Experimenting With Code Layers",
-      "url": "https://www.figma.com/blog/6-ways-teams-are-experimenting-with-code-layers/",
-      "source": "Figma Blog",
+      "title": "Building an AI-ready design system library: Code → Figma with MCP",
+      "url": "https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2",
+      "source": "UX Collective",
       "category": "figma",
-      "published_iso": "2026-10-23T22:43:00Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/ae1c3c193908deb3921d2061f39ffd17878e4240-10835x6095.png?w=1200&q=70&fit=max&auto=format",
-      "excerpt": "Here’s how six teams are using it to experiment, get stakeholders aligned, and move faster.",
+      "published_iso": "2026-10-26T21:33:15Z",
+      "excerpt": "A practical guide for designers on starting the design system in code and using MCP to build, check and maintain the Figma library so AI agents can work from it. Part 1 of a three-part series that continues into AI prototyping inside the design system.",
+      "og_image": "https://miro.medium.com/v2/resize:fit:1200/0*z97zDowA9lacbpjQ.jpeg",
       "history_match": {
-        "score": 0.2,
-        "date": "2026-10-18",
-        "url": "https://www.figma.com/blog/build-by-design/",
-        "title": "Build by Design: New workflows for new ways of building",
+        "score": 0.225,
+        "date": "2026-10-17",
+        "url": "https://www.figma.com/blog/design-together-with-code-layers/",
+        "title": "Design together with code layers on the canvas",
         "band": "related"
       }
-    },
-    {
-      "title": "Nobody asked for the sparkle button",
-      "url": "https://uxdesign.cc/nobody-asked-for-the-sparkle-button-ae54ab5065c6",
-      "source": "UX Collective",
-      "category": "figma",
-      "published_iso": "2026-10-25T12:33:57Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*zO6YRwfqZ98I2mbNC4MBNw.png",
-      "excerpt": "Products ship with the same AI sparkle panel while people hunt for the off switch and spend outruns returns; the author argues teams should build features with AI, not AI features."
-    },
-    {
-      "title": "Where to draw the line before AI reaches professional users",
-      "url": "https://uxdesign.cc/where-to-draw-the-line-before-ai-reaches-professional-users-09d61f61b2b5",
-      "source": "UX Collective",
-      "category": "figma",
-      "published_iso": "2026-10-25T12:31:45Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*Di003Ys9ARp2QsB9IF15Eg.png",
-      "excerpt": "Every B2B roadmap now has a chat box; six questions for deciding whether a conversational layer speeds experts up or puts a keyboard between them and work they already know."
-    },
-    {
-      "title": "The context advantage of human UX",
-      "url": "https://uxdesign.cc/the-context-advantage-of-human-ux-design-thinking-39883603c337",
-      "source": "UX Collective",
-      "category": "figma",
-      "published_iso": "2026-10-25T12:34:03Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1672/1*hJmXIyyM-DoayKXxgRZfwA.png",
-      "excerpt": "Context is today's human advantage in UX design, but it is also the raw material AI is rapidly learning to absorb.",
-      "history_match": {
-        "score": 0.158,
-        "date": "2026-10-12",
-        "url": "https://www.nngroup.com/articles/context-libraries/",
-        "title": "Context Libraries: How AI power users manage context engineering",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Why do AI platforms want humans to design their branding?",
-      "url": "https://www.creativebloq.com/news/why-do-ai-platforms-want-humans-to-design-their-branding",
-      "source": "Creative Bloq",
-      "category": "figma",
-      "published_iso": "2026-10-25T08:01:03Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/8iLPH4BsY5429rchU9dzuZ-1920-80.png",
-      "excerpt": "AI firms keep hiring human designers and agencies for their own brand identities, a telling irony for the creative industry."
     },
     {
       "title": "Just Eat's AI apocalypse might be the most disastrous slop show yet",
@@ -68,206 +26,258 @@
       "source": "Creative Bloq",
       "category": "workflow",
       "published_iso": "2026-10-25T10:00:00Z",
+      "excerpt": "Just Eat's AI-generated menu food imagery produced 'tiger' prawns and a literal toad in the hole, and the delivery app paused it. Creative Bloq asks what the episode says about replacing food photography with generative images.",
       "og_image": "https://cdn.mos.cms.futurecdn.net/q7XXHzcWFP9uk4mvXKsJk9-1920-80.jpg",
-      "excerpt": "Just Eat's AI-generated ad campaign, featuring garbled 'tiger' prawns and a literal toad in the hole, is being called one of the most disastrous AI slop showings yet."
-    },
-    {
-      "title": "Impeccable: The Open-Source Design Skill That Stops AI Websites Looking AI-Generated",
-      "url": "https://dev.to/itxtayab/impeccable-the-open-source-design-skill-that-stops-ai-websites-looking-ai-generated-3i20",
-      "source": "DEV Community",
-      "category": "tokens",
-      "published_iso": "2026-10-25T08:26:31Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xdyvbd5af4n0a30zef5.webp",
-      "excerpt": "Impeccable is an open-source design skill for AI coding agents that targets the tells of AI-built sites (Inter everywhere, purple gradients, nested cards) and pushes output toward deliberate visual design.",
       "history_match": {
-        "score": 0.262,
+        "score": 0.303,
         "date": "2026-10-22",
-        "url": "https://dev.to/haoli/i-built-a-claude-code-skill-that-de-slops-ai-generated-web-design-42kn",
-        "title": "I built a Claude Code skill that de-slops AI-generated web design",
+        "url": "https://petapixel.com/2026/10/21/just-eat-food-delivery-app-apologizes-for-ai-generated-menu-photo-showing-bacon-floating-in-soda/",
+        "title": "Food Delivery App Apologizes for AI-Generated Menu Photos Showing Bacon Floating in Soda",
         "band": "related"
       }
     },
     {
-      "title": "Your AI-Generated UI Doesn't Need Another Gradient",
-      "url": "https://dev.to/akkaraponph/your-ai-generated-ui-doesnt-need-another-gradient-3679",
+      "title": "New CG software you may have missed: 25 October 2026",
+      "url": "https://www.cgchannel.com/2026/10/new-cg-software-you-may-have-missed-25-october-2026/",
+      "source": "CG Channel",
+      "category": "render",
+      "published_iso": "2026-10-26T04:30:00Z",
+      "excerpt": "CG Channel's weekly roundup of new CG tools includes Animatica's Choreographer, which uses AI to generate motion between key poses, and a real-time AI renderer from Vast AI Research's Project Eden world model, alongside texturing apps and a Blender add-on.",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/10/261025_NewCGSoftwareYouMayHaveMissed_25October2026_ArcBrush_f.jpg",
+      "history_match": {
+        "score": 0.335,
+        "date": "2026-10-20",
+        "url": "https://www.cgchannel.com/2026/10/new-cg-software-you-may-have-missed-18-october-2026/",
+        "title": "New CG software you may have missed: 18 October 2026",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Document Crunch adds AI review for construction drawings",
+      "url": "https://www.engineering.com/document-crunch-adds-ai-review-for-construction-drawings/",
+      "source": "Engineering.com",
+      "category": "cad",
+      "published_iso": "2026-10-26T13:00:11Z",
+      "excerpt": "CrunchAI compares drawings, contracts and specifications to flag scope gaps and conflicting requirements before construction begins.",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/10/Trimble-Drawing-Document-Crunch-adds-AI-review-for-construction-drawings-scaled.jpg"
+    },
+    {
+      "title": "Siemens, NVIDIA develop AI workflow for PCB inspection",
+      "url": "https://www.engineering.com/siemens-nvidia-develop-ai-workflow-for-pcb-inspection/",
+      "source": "Engineering.com",
+      "category": "cad",
+      "published_iso": "2026-10-26T12:20:05Z",
+      "excerpt": "Siemens and NVIDIA's process uses digital twins and synthetic defect images to train automated optical inspection systems before physical boards enter production.",
+      "og_image": null,
+      "history_match": {
+        "score": 0.187,
+        "date": "2026-10-25",
+        "url": "https://www.engineering.com/siemens-expands-agentic-ai-for-3d-ic-design-workflows/",
+        "title": "Siemens expands agentic AI for 3D IC design workflows",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Better Prompts, Better Project Outcomes: Using Autodesk Assistant in Forma",
+      "url": "https://www.autodesk.com/blogs/construction/better-prompts-better-project-outcomes-using-autodesk-assistant-in-forma/",
+      "source": "Autodesk Digital Builder",
+      "category": "cad",
+      "published_iso": "2026-10-26T16:34:43Z",
+      "excerpt": "From an Autodesk University 2026 session with CIMA+'s BIM manager: how prompting Autodesk Assistant inside Forma helps architects and engineers move from early-stage site and massing questions to project outcomes.",
+      "og_image": "https://www.autodesk.com/blogs/construction/wp-content/uploads/2026/10/IMG_20260916_083440-1.png"
+    },
+    {
+      "title": "I Compared 11 Best AI Design-to-Code Tools for My Client Projects",
+      "url": "https://dev.to/devstackhub/i-compared-11-best-ai-design-to-code-tools-for-my-client-projects-4alo",
+      "source": "DEV Community",
+      "category": "figma",
+      "published_iso": "2026-10-26T17:45:04Z",
+      "excerpt": "A hands-on comparison of 11 AI design-to-code tools, from Figma integrations to AI coding agents, and how to choose one for turning designs into production code.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpyykuli8hm4ltkkd2a1.png",
+      "history_match": {
+        "score": 0.219,
+        "date": "2026-09-27",
+        "url": "https://dev.to/usman_basheers/which-mcp-server-can-design-svg-and-app-ui-eight-compared-2026-2emp",
+        "title": "Which MCP server can design SVG and app UI? Eight compared (2026)",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Fixing text in an AI-generated image is an inpainting problem, not a prompt problem",
+      "url": "https://dev.to/nuco_z_270906fb0e460592db/fixing-text-in-an-ai-generated-image-is-an-inpainting-problem-not-a-prompt-problem-2603",
       "source": "DEV Community",
       "category": "tokens",
-      "published_iso": "2026-10-25T14:03:38Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fooby53nqomyop52q3gus.png",
-      "excerpt": "A practical critique of default AI-generated UI styling and how to steer coding agents away from gradient-heavy, generic interfaces.",
+      "published_iso": "2026-10-26T15:11:56Z",
+      "excerpt": "If the picture is right and one word is wrong, don't regenerate: remove the glyphs, inpaint the background and re-set the type. A practical workflow for fixing text in AI-generated images.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyigt5vomhiezv00728yy.png"
+    },
+    {
+      "title": "The New Full-Stack Designer",
+      "url": "https://www.youtube.com/watch?v=eojywvxqoLc",
+      "source": "Y Combinator (YouTube)",
+      "category": "social",
+      "published_iso": "2026-10-26T14:00:10Z",
+      "excerpt": "On YC's Design Review, Shopify product design studio lead Marvin Schwaibold walks through how his design process has changed with AI coding tools, the admin redesign and Sidekick work his team shipped, and why taste is now the bottleneck.",
+      "og_image": "https://i.ytimg.com/vi/eojywvxqoLc/maxresdefault.jpg"
+    },
+    {
+      "title": "Config India 2026: When everyone can make anything, how far can we take it?",
+      "url": "https://www.youtube.com/watch?v=dOr3UsOlunY",
+      "source": "Figma (YouTube)",
+      "category": "social",
+      "published_iso": "2026-10-26T14:41:24Z",
+      "excerpt": "teamLab co-founder Daisuke Sakai asks what matters once AI lets everyone generate images, build software and ship products instantly, and argues human discernment matters more than ever.",
+      "og_image": "https://i.ytimg.com/vi/dOr3UsOlunY/maxresdefault.jpg"
+    },
+    {
+      "title": "로고 생성 넘어 SVG 편집 파일로...이디오그램, 벡터 AI로 디자인 실무 공략",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216679",
+      "source": "AI타임스",
+      "category": "figma",
+      "published_iso": "2026-10-26T17:01:42+09:00",
+      "excerpt": "Ideogram has moved from generating logo and illustration images to outputting editable SVG vector files, pitching its vector AI at real design production work rather than finished-looking pictures.",
+      "og_image": "https://cdn.aitimes.com/news/photo/202610/216679_220802_5713.jpeg",
       "history_match": {
-        "score": 0.153,
-        "date": "2026-10-12",
-        "url": "https://uxdesign.cc/ai-generated-ui-is-fast-design-not-ux-855ca8abcd28",
-        "title": "AI-generated UI is fast design, not UX",
+        "score": 0.157,
+        "date": "2026-09-29",
+        "url": "https://www.creativebloq.com/design/graphic-design-software/coreldraw-adds-text-to-vector-ai-in-the-september-update-is-it-a-good-move",
+        "title": "CorelDRAW now has an AI tool that designers might actually use",
         "band": "related"
       }
     },
     {
-      "title": "Is AI making designers lazy thinkers?",
-      "url": "https://dev.to/yurick_hoang_2203/is-ai-making-designers-lazy-thinkers-34nh",
-      "source": "DEV Community",
-      "category": "figma",
-      "published_iso": "2026-10-25T07:12:51Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fn3u4eaj1bqictmjxi5g7.png",
-      "excerpt": "A designer weighs how AI makes design more accessible than ever while risking shallower thinking in the design process.",
+      "title": "Google Unveils Gemini That Remembers Brand Style",
+      "url": "https://designcompass.org/en/2026/10/26/google-gemini-on-brand-visuals/",
+      "source": "Design Compass",
+      "category": "workflow",
+      "published_iso": "2026-10-26T05:34:00Z",
+      "excerpt": "Gemini can now remember a brand's style: register a website, brand kit, fonts and colors once and generate new on-brand images without re-uploading guidelines each time.",
+      "og_image": "https://designcompass.org/wp-content/uploads/2026/10/Gemini-Brand-Style-Remembered-1-scaled.jpg",
       "history_match": {
-        "score": 0.205,
+        "score": 0.251,
+        "date": "2026-09-28",
+        "url": "https://techgenyz.com/google-stitch-gemini-3-8-flash-brand-ui-design/",
+        "title": "Google Stitch Uses Gemini 3.8 Flash to Turn Brand Assets Into UI Designs",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Adobe pushes 'commercially safe' AI graphics, says to indemnify if clients get sued",
+      "url": "https://www.abs-cbn.com/news/technology/2026/10/26/adobe-pushes-commercially-safe-ai-graphics-says-to-indemnify-if-clients-get-sued-0800",
+      "source": "ABS-CBN News",
+      "category": "workflow",
+      "published_iso": "2026-10-26T00:00:00Z",
+      "excerpt": "Adobe is pitching its AI graphics as 'commercially safe', warning that generic tools may expose enterprises to copyright infringement and saying it will indemnify clients who get sued.",
+      "og_image": "https://od2-image-api.abs-cbn.com/prod/2026102509100/375c0430c647f222b40087ad13624f5507757bad9f45977b08f873f9e12052a8.png?w=1200&h=800"
+    },
+    {
+      "title": "Grok Imagine Delivers First Seven Minutes of Its Odyssey Series",
+      "url": "https://www.techeblog.com/grok-imagine-historically-accurate-odyssey-part-1/",
+      "source": "TechEBlog",
+      "category": "render",
+      "published_iso": "2026-10-26T14:14:16-07:00",
+      "excerpt": "Grok Imagine posted the opening seven-minute installment of an AI-generated Odyssey series made with Wonder Studios and director Dev Walker.",
+      "og_image": "https://images.techeblog.com/wp-content/uploads/2026/10/26140156/grok-imagine-historically-acurrate-odyssey-part-1.jpg",
+      "history_match": {
+        "score": 0.252,
+        "date": "2026-10-11",
+        "url": "https://vercel.com/changelog/grok-imagine-video-1-5-lite-on-ai-gateway",
+        "title": "Grok Imagine Video 1.5 Lite on AI Gateway",
+        "band": "related"
+      }
+    },
+    {
+      "title": "MOSS-Image: The Open-Source Model Teaching AI to Spell",
+      "url": "https://www.intelligentliving.co/moss-image-open-source-model/",
+      "source": "Intelligent Living",
+      "category": "tokens",
+      "published_iso": "2026-10-26T01:30:21Z",
+      "excerpt": "MOSS-Image is a 5B open-source image model that renders readable bilingual text and JSON-specified layouts, scoring 96.3 on long-text rendering benchmarks.",
+      "og_image": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-open-source-model.jpg"
+    },
+    {
+      "title": "ByteDance's Seedance Tops AI Video Quality Rankings",
+      "url": "https://forklog.com/en/bytedances-seedance-tops-ai-video-quality-rankings/",
+      "source": "ForkLog",
+      "category": "render",
+      "published_iso": "2026-10-26T15:04:37+03:00",
+      "excerpt": "A University of Hong Kong study of 12 AI video models ranked ByteDance's Seedance 2.0 Pro first for visual quality, with Chinese models beating US rivals on quality but lagging on safeguards.",
+      "og_image": "https://forklog.com/wp-content/uploads/Turistov-predupredili-o-fishinge-s-primeneniem-II-phishing-AI.webp"
+    },
+    {
+      "title": "AMAXiMAL releases TopMod 3D v3 for AI-assisted 3D modeling",
+      "url": "https://www.voxelmatters.com/amaximal-releases-topmod-3d-v3-for-ai-assisted-3d-modeling/",
+      "source": "VoxelMatters",
+      "category": "cad",
+      "published_iso": "2026-10-24T15:00:22Z",
+      "excerpt": "TopMod 3D v3 is a free, open-source modeling tool with AI-assisted design, complex-geometry and topology tools, and Rhino 8 integration.",
+      "og_image": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Zrzut-ekranu-2026-10-24-135317.png"
+    },
+    {
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "source": "The Verge",
+      "category": "workflow",
+      "published_iso": "2026-10-24T18:32:21Z",
+      "excerpt": "Pennsylvania's AI Deceptive Advertising Act will require disclosure labels on ads made with generative AI, though the law leaves a lot of loopholes.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "history_match": {
+        "score": 0.15,
         "date": "2026-10-01",
-        "url": "https://www.core77.com/posts/145488/AI-Has-Changed-What-Makes-a-Great-Designer",
-        "title": "AI Has Changed What Makes a Great Designer",
+        "url": "https://runway.com/news/introducing-runway-ads",
+        "title": "Introducing Runway Ads",
         "band": "related"
       }
     },
     {
-      "title": "How Tripo P2.0 & Astra Work Together in Blender and Unity",
-      "url": "https://80.lv/articles/how-tripo-p2-0-astra-work-together-in-blender-and-unity/",
-      "source": "80 Level",
-      "category": "render",
-      "published_iso": "2026-10-23T13:15:00Z",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50386/images/6ada9dc6ed2d2/contain_1200x630.jpg",
-      "excerpt": "The Tripo Team explains how P2.0 and Astra combine 3D asset generation with assembly, rigging, animation, and integration in Blender and Unity, while examining cleanup, quality control, training data, and the continuing importance of human art direction."
-    },
-    {
-      "title": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation",
-      "url": "https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation/",
-      "source": "NVIDIA Technical Blog",
-      "category": "render",
-      "published_iso": "2026-10-23T14:58:32Z",
-      "og_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/Microduck-labels.webp",
-      "excerpt": "Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance, and adjust its actions when obstacles block the path ahead."
-    },
-    {
-      "title": "CloudNC launches Quote Agent",
-      "url": "https://develop3d.com/manufacture/cloudnc-launches-quote-agent/",
-      "source": "DEVELOP3D",
-      "category": "cad",
-      "published_iso": "2026-10-23T09:43:40Z",
-      "og_image": "https://develop3d.com/wp-content/uploads/2026/10/CloudNC-Quote-Agent.jpg",
-      "excerpt": "CloudNC launches AI Quote Agent to help manufacturers assess new jobs, and prepare quotes quickly freeing up estimators"
-    },
-    {
-      "title": "Cadence and Nokia advance AI-driven electronic system design",
-      "url": "https://www.engineering.com/cadence-and-nokia-advance-ai-driven-electronic-system-design/",
-      "source": "Engineering.com",
-      "category": "cad",
-      "published_iso": "2026-10-23T09:19:54Z",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2024/12/cadence-logo-1.jpg",
-      "excerpt": "The on-premises platform accelerates key design and analysis workflows by 5X while keeping sensitive engineering data and IP secure."
-    },
-    {
-      "title": "NVIDIA expands Isaac tools for humanoid robot development",
-      "url": "https://www.engineering.com/nvidia-expands-isaac-tools-for-humanoid-robot-development/",
-      "source": "Engineering.com",
-      "category": "cad",
-      "published_iso": "2026-10-23T13:22:39Z",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/10/NVIDIA-expands-Isaac-tools-for-humanoid-robot-development.jpeg",
-      "excerpt": "New reference platforms, datasets and runtimes support robot learning workflows from simulation and training through deployment.",
-      "history_match": {
-        "score": 0.195,
-        "date": "2026-10-10",
-        "url": "https://developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models/",
-        "title": "NVIDIA turns CAD into SimReady robot assets",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Epic Games is promoting a game jam where AI is welcome with a six-fingered hand.",
-      "url": "https://www.theverge.com/games/1017223/epic-games-is-promoting-a-game-jam-where-ai-is-welcome-with-a-six-fingered-hand",
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
       "source": "The Verge",
       "category": "workflow",
-      "published_iso": "2026-10-22T23:23:03Z",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/HVQec2HbcAEtVxr.jpeg?quality=90&strip=all&crop=0%2C9.9275070479259%2C100%2C80.144985904148&w=1200",
-      "excerpt": "Epic Games is promoting an AI-welcome game jam with a six-fingered-hand graphic, after Tim Sweeney said the company is pivoting to 'retool for maximum AI acceleration' and shipped a vibe-coded launcher update."
+      "published_iso": "2026-10-24T21:29:12Z",
+      "excerpt": "The BBC's Blue Planet III is keeping shots that would normally hit the cutting-room floor, using visible imperfection to prove its footage is real as AI video spreads.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&strip=all&crop=0%2C3.4695867913185%2C100%2C93.060826417363&w=1200"
     },
     {
-      "title": "People are fixing their TV OSes with Claude",
-      "url": "https://www.theverge.com/tech/1016116/vibe-coding-tv-os",
+      "title": "Total War studio says they are 'investigating' the AI-botched Shogun 2 remaster",
+      "url": "https://www.theverge.com/games/1018724/total-war-studio-says-they-are-investigating-the-ai-botched-shogun-2-remaster",
       "source": "The Verge",
+      "category": "render",
+      "published_iso": "2026-10-26T16:47:17Z",
+      "excerpt": "Sega pulled the Shogun 2 Complete Edition after players found bugs and texture upscaling that appeared to be done by AI; Creative Assembly says it is investigating the external developer's work.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016"
+    },
+    {
+      "title": "Why Flawless Retouching Now Looks Like AI",
+      "url": "https://fstoppers.com/portraits/why-flawless-retouching-now-looks-ai-905177",
+      "source": "Fstoppers",
       "category": "workflow",
-      "published_iso": "2026-10-23T13:00:00Z",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/cleanyourtv-home-page.jpg?quality=90&strip=all&crop=0%2C3.4685863874346%2C100%2C93.062827225131&w=1200",
-      "excerpt": "Users are vibe coding with Claude to replace cluttered smart-TV interfaces, producing cleaner, ad-free UIs."
+      "published_iso": "2026-10-26T07:03:01-04:00",
+      "excerpt": "Over-edited portraits now read as AI output; Prince Meyson on how photographers can prove their work is real through process, imperfections and in-camera technique.",
+      "og_image": "https://cdn.fstoppers.com/styles/large_16_9/s3/lead/2026/10/cover_98.jpg.webp?itok=CSl1lCs5"
     },
     {
-      "title": "Send feedback from the Vercel MCP",
-      "url": "https://vercel.com/changelog/send-feedback-from-vercel-mcp",
-      "source": "Vercel",
-      "category": "figma",
-      "published_iso": "2026-10-23T20:53:00Z",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5zUPDbfsi6JNUM6IRgNFRQ/d3a2f741d6d947709a347712fc2ce8ee/vercel-mcp-feedback-og.png",
-      "excerpt": "The Vercel MCP now includes the submit_feedback tool to sends bugs, friction reports, and feature requests directly to the Vercel team,",
-      "history_match": {
-        "score": 0.192,
-        "date": "2026-10-25",
-        "url": "https://vercel.com/blog/how-vercel-agent-accesses-production-safely",
-        "title": "How Vercel Agent accesses production safely",
-        "band": "related"
-      }
-    },
-    {
-      "title": "AI News: 24 Things You Need To Know This Week",
-      "url": "https://www.youtube.com/watch?v=TVRCcMlvR10",
-      "source": "Matt Wolfe (YouTube)",
-      "category": "social",
-      "published_iso": "2026-10-23T17:40:19Z",
-      "og_image": "https://i.ytimg.com/vi/TVRCcMlvR10/maxresdefault.jpg",
-      "excerpt": "Matt Wolfe's weekly roundup of 24 AI news items, covering new agents, models and creative tools released this week."
-    },
-    {
-      "title": "My Honest Take on Muse, Grok Bot, Dots & Duet",
-      "url": "https://www.youtube.com/watch?v=Bd8-geZPwI4",
-      "source": "The AI Advantage (YouTube)",
-      "category": "social",
-      "published_iso": "2026-10-23T16:10:03Z",
-      "og_image": "https://i.ytimg.com/vi/Bd8-geZPwI4/maxresdefault.jpg",
-      "excerpt": "Igor Pogany compares the new AI agents Meta Muse, Grok Bot, Dots and Duet, and says which ones are worth using and for whom.",
-      "history_match": {
-        "score": 0.313,
-        "date": "2026-10-24",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-        "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-        "band": "related"
-      }
+      "title": "ElevenLabs debuts AI tool that auto-scores videos with music and effects",
+      "url": "https://biz.chosun.com/en/en-it/2026/10/26/ZUVBS6QYW5HZNGDTWSWDD62FFA/",
+      "source": "Chosunbiz",
+      "category": "workflow",
+      "published_iso": "2026-10-26T08:14:47Z",
+      "excerpt": "ElevenLabs launched Instant Soundtrack, which analyzes a video and generates matching music and sound effects in one pass for creators and editors.",
+      "og_image": "https://biz.chosun.com/resizer/v2/JVYOKIZWYVG7ZJUAUM7SOR6YQA.png?auth=9928b333609157f5e799131c734421c5386a7fbd0bd3457513471eceb7b4935b&width=1200&height=630&smart=true"
     }
   ],
   "dedup": {
-    "dropped": 0,
-    "kept": 19,
+    "dropped": 2,
+    "kept": 22,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 8,
+    "review": 9,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-09-26",
-      "title": "Adam launches Migrations for AI CAD data translation",
-      "url": "https://develop3d.com/ai/migrations-adam-ai-cad-translation/"
-    },
-    {
-      "date": "2026-09-26",
-      "title": "State of agent skills",
-      "url": "https://vercel.com/blog/state-of-agent-skills"
-    },
-    {
-      "date": "2026-09-26",
-      "title": "Flux adds AI tools for 3D-printable PCB enclosures",
-      "url": "https://www.engineering.com/flux-adds-ai-tools-for-3d-printable-pcb-enclosures/"
-    },
-    {
-      "date": "2026-09-26",
-      "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
-      "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot"
-    },
-    {
-      "date": "2026-09-26",
-      "title": "Claude Opus 5.5 - 5 Real Uses and One BIG Website Showdown!",
-      "url": "https://www.youtube.com/watch?v=L0-ezCnX0gs"
-    },
     {
       "date": "2026-09-27",
       "title": "Which MCP server can design SVG and app UI? Eight compared (2026)",
@@ -967,6 +977,26 @@
       "date": "2026-10-25",
       "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"
+    },
+    {
+      "date": "2026-10-26",
+      "title": "Impeccable: The Open-Source Design Skill That Stops AI Websites Looking AI-Generated",
+      "url": "https://dev.to/itxtayab/impeccable-the-open-source-design-skill-that-stops-ai-websites-looking-ai-generated-3i20"
+    },
+    {
+      "date": "2026-10-26",
+      "title": "Nobody asked for the sparkle button",
+      "url": "https://uxdesign.cc/nobody-asked-for-the-sparkle-button-ae54ab5065c6"
+    },
+    {
+      "date": "2026-10-26",
+      "title": "Where to draw the line before AI reaches professional users",
+      "url": "https://uxdesign.cc/where-to-draw-the-line-before-ai-reaches-professional-users-09d61f61b2b5"
+    },
+    {
+      "date": "2026-10-26",
+      "title": "Why do AI platforms want humans to design their branding?",
+      "url": "https://www.creativebloq.com/news/why-do-ai-platforms-want-humans-to-design-their-branding"
     }
   ]
 }

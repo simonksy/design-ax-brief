@@ -1,31 +1,31 @@
 {
- "date": "2026-10-26",
- "section": "music",
- "media": [
-  {
-   "id": "music-spotify-agent-layer",
-   "type": "image",
-   "src": "pipeline/media/music-spotify-agent-layer.jpg"
-  },
-  {
-   "id": "music-komca-ai-filings",
-   "type": "image",
-   "src": "pipeline/media/music-komca-ai-filings.jpg"
-  },
-  {
-   "id": "music-neutune-tal-dj",
-   "type": "image",
-   "src": "pipeline/media/music-neutune-tal-dj.jpg"
-  },
-  {
-   "id": "music-mono-stereo-upmix-flows",
-   "type": "image",
-   "src": "pipeline/media/music-mono-stereo-upmix-flows.jpg"
-  },
-  {
-   "id": "music-flomss-stem-separation",
-   "type": "image",
-   "src": "pipeline/media/music-flomss-stem-separation.jpg"
-  }
- ]
+  "date": "2026-10-27",
+  "section": "music",
+  "media": [
+    {
+      "id": "music-suno-gong",
+      "type": "image",
+      "src": "pipeline/media/music-suno-gong.jpg"
+    },
+    {
+      "id": "music-mi-midi-2",
+      "type": "image",
+      "src": "pipeline/media/music-mi-midi-2.png"
+    },
+    {
+      "id": "music-movin-to-the-sun",
+      "type": "image",
+      "src": "pipeline/media/music-movin-to-the-sun.jpg"
+    },
+    {
+      "id": "music-charlotte-de-witte-nava",
+      "type": "image",
+      "src": "pipeline/media/music-charlotte-de-witte-nava.png"
+    },
+    {
+      "id": "music-djustify",
+      "type": "image",
+      "src": "pipeline/media/music-djustify.png"
+    }
+  ]
 }

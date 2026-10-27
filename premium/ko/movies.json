@@ -13850,6 +13850,106 @@
           "x": "“기술이 어떻게 개발되고 일터에 도입되는지 정하는 데 노동자가 실질적인 목소리를 내야 하는 이유도 지켜봐 왔다”고 Arnold는 말했다."
         }
       ]
+    },
+    "movies/movies-sanxingdui-flop": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Sanxingdui-Niu-Lai.jpg"
+        },
+        {
+          "t": "p",
+          "x": "제작사가 중국 최초의 완전 AI-generated 극장 장편이라고 내세운 영화가 박스오피스에서 참패했다. 기술을 향한 열광이 곧장 관객 수요로 이어지지는 않는다는 사실을 투자자들에게 다시 일깨운 셈일 수도 있다."
+        },
+        {
+          "t": "p",
+          "x": "추정치로는 Bona Film Group의 'Sanxingdui: Future Past'가 October 23 개봉 후 월요일까지 RMB1.21 million($181,000)을 버는 데 그쳤다. Bona는 이 SF 장편에 RMB10 million($1.5 million) 넘게 들었고 100명 가까운 인력이 두 해 넘게 매달렸다고 밝혔다. 개봉일에 잡힌 상영만 10,000회가 넘었다."
+        },
+        {
+          "t": "video",
+          "src": "https://cbgccdn.thecover.cn/ROmsWADgcpbtRMydJVR1792720023949.mp4"
+        },
+        {
+          "t": "p",
+          "x": "이 부진한 출발은 중국 관객이 'Niu Lai'에 호응한 지 두 달 만이다. 'Niu Lai'는 Xin Yumeng 감독과 각본을 쓴 어머니 Sun Lifang이 적은 예산으로 만든 장편이다. 개봉 첫 열흘 수입은 약 RMB7,700($1,150)에 불과했지만, 조악한 모델링과 뻣뻣한 애니메이션이 담긴 클립이 온라인에 퍼지면서 흐름이 바뀌었다. 'Niu Lai'의 누적 흥행 수입은 현재 RMB64.29 million, 약 $10 million이다."
+        },
+        {
+          "t": "p",
+          "x": "Cartoon Brew는 두 영화 어느 쪽도 AI를 대하는 관객 태도의 보편 법칙을 보여주지는 않는다고 짚는다. 다만 영화 제작의 돌파구라는 'Sanxingdui'의 주장은 영화적 마법을 찾는 관객을 훨씬 덜 설득했다."
+        }
+      ]
+    },
+    "movies/movies-character-consistency": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "ktEt4n9VlF4"
+        },
+        {
+          "t": "p",
+          "x": "널리 쓰이는 AI 캐릭터 일관성 기법 두 가지를 나란히 놓고, AI 영화 제작에 실제로 어느 쪽이 더 맞는지 따져 본다."
+        },
+        {
+          "t": "p",
+          "x": "전체 해설과 프롬프트는 다음 링크에 있다: curiousrefuge.com/blog/how-to-create-pro-ai-character-sheets"
+        }
+      ]
+    },
+    "movies/movies-ramayana-ai-dub": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.timesnownews.com/thumb/msid-156399526,thumbsize-1025251,width-1280,height-720,resizemode-75/156399526.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Ramayana Part 1은 출연진과 함께 힌디어로 촬영했고 영어로는 찍지 않았다. 대신 Brahma AI가 사람 배우와 컴퓨터 작업을 오디오에 결합해, 언어판마다 화면 속 배우의 입 움직임과 맞아떨어지게 한다. 영어 예고편은 대부분의 배우가 직접 더빙했고 AI는 쓰지 않았다. Nitesh Tiwari가 연출한 'Ramayana: Rise of a Legend'는 November 5 극장과 IMAX에서 개봉한다."
+        },
+        {
+          "t": "img",
+          "src": "https://images.timesnownews.com/thumb/msid-156399528,width-1600,height-900,resizemode-75/156399528.jpg"
+        },
+        {
+          "t": "p",
+          "x": "프로듀서 Namit Malhotra는 ET Now 인터뷰에서 이 영화를 전 세계 40개 언어로 개봉할 계획이라고 밝혔다. 대사는 성우가, 때로는 실제 배우가 녹음한다. 립싱크 역시 사람이 감독한다. “우리가 휴먼 드라이버라고 부르는 사람들이 입술이 어떻게 움직이고 목소리에 어떻게 맞춰지는지의 토대를 만듭니다.”"
+        },
+        {
+          "t": "p",
+          "x": "그다음 전용 도구가 AI로 그 연기를 배우 얼굴에 이어 붙인다. Malhotra는 “그래서 완전히 매끄럽게 느껴집니다”라고 말했다."
+        },
+        {
+          "t": "img",
+          "src": "https://images.timesnownews.com/thumb/msid-156399529,width-1600,height-900,resizemode-75/156399529.jpg"
+        },
+        {
+          "t": "p",
+          "x": "출연진은 Lord Rama 역 Ranbir Kapoor, Ravana 역 Yash, Sita 역 Sai Pallavi, Lakshman 역 Ravie Dubey, Hanuman 역 Sunny Deol이다. 'Ramayana: Part 1'의 월드 프리미어는 October 27, 2026 Academy Museum of Motion Pictures에서 열린다."
+        }
+      ]
+    },
+    "movies/movies-grok-odyssey-episode": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/elon-odyssey.webp?w=1000&h=563&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "일론 머스크가 자신의 AI 도구 Grok Imagine으로 전편을 AI로 생성한(AI-generated) 장편 'The Odyssey'를 만들겠다고 약속한 지 몇 달. 이 테크 거물이 그 약속을 일부나마 지켰다."
+        },
+        {
+          "t": "p",
+          "x": "회사는 금요일 X에 'Odyssey' 시리즈의 첫 AI-generated 에피소드를 올렸다. 7분 분량이다. 계정은 이 '창작 협업'의 공을 AI 영화 전문 제작사 Wonder Studios와 데브 워커 감독에게 돌렸다."
+        },
+        {
+          "t": "p",
+          "x": "머스크는 7월 호메로스의 서사시를 '역사적으로 정확한' 장편으로 만들어 2026년 말까지 완성하겠다고 발표했다. 'Doctor Strange'의 스콧 데릭슨 감독은 X에서 이 프로젝트를 두고 “그의 예술관은 아무 가치가 없다”고 꼬집었다."
+        },
+        {
+          "t": "p",
+          "x": "에피소드와 함께 낸 별도 성명은 없었다. 머스크는 개봉도 하기 전인 놀런 감독의 'The Odyssey'를 거듭 비판해 왔는데, 특히 시논 역의 엘리엇 페이지와 트로이의 헬레네 역의 루피타 뇽오 캐스팅을 문제 삼았다."
+        }
+      ]
     }
   }
 }

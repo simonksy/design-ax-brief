@@ -1,142 +1,160 @@
 {
- "section": "music",
- "generated_at": "2026-10-25T22:00:38Z",
- "window_hours": 336,
- "items": [
-  {
-   "title": "‘Spotify is now an agent’ – Co-CEO outlines company’s AI plan",
-   "url": "https://musically.com/2026/10/23/spotify-is-now-an-agent-co-ceo-outlines-companys-ai-plan/",
-   "source": "Music Ally",
-   "category": "music",
-   "published_iso": "2026-10-23T11:30:00+00:00",
-   "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-23T115515.907.png?fit=2000%2C1500&ssl=1",
-   "excerpt": "Following the launches of personal agents such as Meta's Muse, OpenAI's Dots and Anthropic's Claude Duet, Spotify's co-CEO laid out how the service plans to become the music layer AI agents call on."
-  },
-  {
-   "title": "Spotify Co-CEOs Talk AI Remixing Tool: ‘We’re the Right Company to Do This’",
-   "url": "https://www.billboard.com/pro/spotify-co-ceos-talk-ai-music-remixing-tool-subscribers/",
-   "source": "Billboard",
-   "category": "music",
-   "published_iso": "2026-10-22T20:47:12+00:00",
-   "og_image": "https://www.billboard.com/wp-content/uploads/2026/10/2277532373.jpg?w=1024",
-   "excerpt": "On Spotify's Q3 call, its co-CEOs discussed the coming AI remixing and covers tool for subscribers, pitching it as a licensed creation feature that will generate new revenue for rightsholders."
-  },
-  {
-   "title": "Stop sending me vibecoded plugins, I’m begging you",
-   "url": "https://musictech.com/features/opinion-analysis/stop-sending-me-vibecoded-ai-plugins/",
-   "source": "MusicTech",
-   "category": "music",
-   "published_iso": "2026-10-21T10:04:18+00:00",
-   "og_image": "https://musictech.com/wp-content/uploads/2026/10/vibecoded-ai-plugin-hero@2000x1500-1068x801.jpg",
-   "excerpt": "MusicTech's inbox is drowning in AI-vibecoded audio plugins; the piece explains why that is a problem for producers and highlights indie developers who are using AI-assisted development responsibly."
-  },
-  {
-   "title": "멜론 3위 오른 AI 노래, 어떻게 만들었나…‘머무르’ 제작팀 인터뷰",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216553",
-   "source": "AI타임스",
-   "category": "music",
-   "published_iso": "2026-10-25T17:37:08+09:00",
-   "og_image": "https://cdn.aitimes.com/news/photo/202610/216553_220650_5836.jpg",
-   "excerpt": "The team behind the AI-made song '꿈꾸던 어른이 되었나요?', which reached No.3 on Melon and No.2 on YouTube Music, explains its production workflow and how human writing and AI generation were combined."
-  },
-  {
-   "title": "Is There a Future for 'Humanoid Robot Performances'? South Korea’s Galaxy Corporation Thinks So",
-   "url": "https://www.digitalmusicnews.com/2026/10/21/south-korea-humanoid-robot-performances/",
-   "source": "Digital Music News",
-   "category": "music",
-   "published_iso": "2026-10-21T09:00:23+00:00",
-   "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/galaxy-corporation-humanoid-robot-k-pop-performances.png",
-   "excerpt": "South Korea-based Galaxy Corporation is combining entertainment IP, AI and humanoid robots for an upcoming Halloween-themed performance event in California."
-  },
-  {
-   "title": "ICMP Tells Australian Legislators Major Hits Were Already Used to Train AI Without Compensation",
-   "url": "https://www.digitalmusicnews.com/2026/10/19/icmp-kylie-minogue-songs-train-ai/",
-   "source": "Digital Music News",
-   "category": "music",
-   "published_iso": "2026-10-20T04:00:26+00:00",
-   "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/major-australian-hits-kylie-minogue-nick-cave-already-used-to-train-ai.png",
-   "excerpt": "Publisher body ICMP warns that Australian copyright law risks being watered down for AI training, citing songs by Kylie Minogue and Nick Cave already used to train models without payment."
-  },
-  {
-   "title": "Controllable Mono-to-Stereo Upmixing using Reward-tilted Flows",
-   "url": "https://arxiv.org/abs/2610.15967",
-   "source": "arXiv",
-   "category": "music",
-   "published_iso": "2026-10-11T22:46:32+00:00",
-   "og_image": "",
-   "excerpt": "A flow-matching upmixer that generates realistic stereo from single-channel recordings, with reward tilting to give engineers control over the resulting stereo image."
-  },
-  {
-   "title": "AI-Generated Music and the Future of Creativity Discussed at Billboard Latin Music Week",
-   "url": "https://www.billboard.com/pro/ai-music-protect-human-creators-billboard-latin-music-week/",
-   "source": "Billboard",
-   "category": "music",
-   "published_iso": "2026-10-21T22:08:29+00:00",
-   "og_image": "https://www.billboard.com/wp-content/uploads/2026/10/LMW-AI-Panel-billboard-1800.jpg?w=1024",
-   "excerpt": "A Billboard Latin Music Week panel with Cristina Perpiñá-Robert and Pierre Hachar Jr. debated how AI is used in Latin music creation and how to protect human creators."
-  },
-  {
-   "title": "AI가 만든 음악, 기술로 가려낸다 … 디텍트엑스, 정부 출연 연구기관 기술성 평가 성적 확보",
-   "url": "https://www.newdaily.co.kr/site/data/html/2026/10/22/2026102200192.html",
-   "source": "뉴데일리",
-   "category": "music",
-   "published_iso": "2026-10-22T11:27:09+09:00",
-   "og_image": "https://image.newdaily.co.kr/site/data/img/2026/10/22/2026102200192_0.jpg",
-   "excerpt": "Korean startup DetectX's AI-generated-music verification solution passed a technical evaluation by a government research institute, positioning it for copyright management of AI tracks."
-  },
-  {
-   "title": "Fender Studio Pro 8.2 Update: New Mixing and Workflow Features",
-   "url": "https://www.gearnews.com/fender-studio-pro-daw/",
-   "source": "gearnews",
-   "category": "music",
-   "published_iso": "2026-10-21T09:00:44+02:00",
-   "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/01/fender-studio-pro-8-1-ft.jpg",
-   "excerpt": "Studio Pro 8.2 expands its built-in stem separation to isolate guitar and piano for conversion to MIDI, adds a sub-3ms low-latency Vocal Tune mode, trim automation and multiple marker tracks."
-  },
-  {
-   "title": "Is The Humanity of Instruments Under Threat from AI?",
-   "url": "https://www.gearnews.com/humanity-instruments-ai-threat-synths/",
-   "source": "gearnews",
-   "category": "music",
-   "published_iso": "2026-10-18T18:00:00+02:00",
-   "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/10/AI-Human.jpg",
-   "excerpt": "Amid a surge of vibe-coded instrument plugins, gearnews asks whether AI-built instruments risk losing the human design choices that make instruments expressive."
-  },
-  {
-   "title": "AI 음악 기술 '뉴튠', 오디오비주얼 에이전트 DJ '탈' ADE 2026서 첫 공개",
-   "url": "https://wowtale.net/2026/10/19/266499/",
-   "source": "와우테일",
-   "category": "music",
-   "published_iso": "2026-10-19T09:14:53+09:00",
-   "og_image": "https://cdn.wowtale.net/wp-content/uploads/2026/10/neutune-20261018-article-3dde75.jpg",
-   "excerpt": "Korean AI music company Neutune unveiled 'Tal', an audiovisual AI agent DJ project backed by KOCCA's AI content programme, at Amsterdam Dance Event 2026."
-  },
-  {
-   "title": "[단독] 'AI 음악' 저작권 신청 1년새 500% 급증…기준 미비에 전부 '미등록'",
-   "url": "https://news.tf.co.kr/read/ptoday/2378150.htm",
-   "source": "더팩트",
-   "category": "music",
-   "published_iso": "2026-10-20T00:01:02+09:00",
-   "og_image": "https://img.tf.co.kr/article/home/2026/10/19/20262121179241237300.jpg",
-   "excerpt": "Copyright filings for AI-assisted songs at KOMCA rose from 133 to 759 in a year, but all 892 applications remain unregistered because there is no standard for judging human creative contribution."
-  },
-  {
-   "title": "AI Girl Group BABYQUEEN Draws Criticism After One of Its Members Gets 'Pregnant'",
-   "url": "https://www.complex.com/music/a/backwoodsaltar/ai-girl-group-pregnancy-babyqueen",
-   "source": "Complex",
-   "category": "music",
-   "published_iso": "2026-10-22T21:47:30.313Z",
-   "og_image": "https://images.complex.com/complex/image/upload/c_crop,h_858,w_1524,x_0,y_0/g_auto:aoi_362_307_305_172,ar_1.91,c_fill,q_auto,w_1200/sanity-new/pyubiokrmab6nzp6nqzb",
-   "excerpt": "An AI-generated Chinese girl group drew backlash on social media after a storyline had one of its virtual members announce a pregnancy, raising questions about synthetic-idol narratives."
-  },
-  {
-   "title": "FLOMSS: Generative Music Source Separation by Flow Matching",
-   "url": "https://arxiv.org/abs/2610.17821",
-   "source": "arXiv",
-   "category": "music",
-   "published_iso": "2026-10-13T06:43:47+00:00",
-   "og_image": "",
-   "excerpt": "A systematic study of flow matching as a generative approach to four-stem music source separation (vocals, bass, drums, other) on full-band audio, an alternative to the discriminative separators behind today's stem splitters."
-  }
- ]
+  "section": "music",
+  "now_iso": "2026-10-27T01:45:00Z",
+  "window_hours": 336,
+  "items": [
+    {
+      "title": "Charlotte de Witte collaborates with AI vocalist NAVA",
+      "url": "https://ra.co/news/86257",
+      "source": "Resident Advisor",
+      "category": "music",
+      "published_iso": "2026-10-23T09:30:00.000Z",
+      "excerpt": "The Belgian techno artist's three-track Azadi EP features vocals from NAVA, an AI-generated Persian singer created by British-Iranian artist Farbod Mehr.",
+      "og_image": "https://static.ra.co/images/news/2026/charlotte-navanull.png"
+    },
+    {
+      "title": "SSL 4K sonible Assistance Add-on (review)",
+      "url": "https://www.soundonsound.com/reviews/ssl-4k-sonible-assistance-add",
+      "source": "Sound On Sound",
+      "category": "music",
+      "published_iso": "2026-10-22T10:44:15+01:00",
+      "excerpt": "SSL and sonible bring an optional AI 'mix engineer assistant' add-on to all three SSL 4000-series channel-strip plug-ins: hit Learn, pick one of 15 instrument profiles and an EQ/compression style, and it proposes settings.",
+      "og_image": null
+    },
+    {
+      "title": "At ADE 2026, a Top Music Lawyer Talks AI, Independence & What the Biz Can Learn From Radiohead",
+      "url": "https://www.billboard.com/lists/ade-2026-cliff-fluet-talk-ai-streaming-fan-engagement/",
+      "source": "Billboard",
+      "category": "music",
+      "published_iso": "2026-10-26T23:57:09+00:00",
+      "excerpt": "At ADE 2026 lawyer Cliff Fluet argued that in a consent-based AI market the manager controls voice-and-likeness licensing, and that the club/DJ/live scene insulates electronic music from AI disruption.",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2026/10/BB_ADE-2026.jpg?w=1024"
+    },
+    {
+      "title": "AI-Generated Music and the Future of Creativity Discussed at Billboard Latin Music Week",
+      "url": "https://www.billboard.com/pro/ai-music-protect-human-creators-billboard-latin-music-week/",
+      "source": "Billboard",
+      "category": "music",
+      "published_iso": "2026-10-21T22:08:29+00:00",
+      "excerpt": "A Billboard Latin Music Week panel debated AI-generated music and how to protect human creators, with industry executives weighing consent, compensation and creative use.",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2026/10/LMW-AI-Panel-billboard-1800.jpg?w=1024"
+    },
+    {
+      "title": "Spotify Co-CEOs Talk AI Remixing Tool: 'We're the Right Company to Do This'",
+      "url": "https://www.billboard.com/pro/spotify-co-ceos-talk-ai-music-remixing-tool-subscribers/",
+      "source": "Billboard",
+      "category": "music",
+      "published_iso": "2026-10-22T20:47:12+00:00",
+      "excerpt": "On Spotify's Q3 call the co-CEOs discussed the coming AI remixing/cover tool for subscribers, framing it as a new revenue stream for licensed rightsholders.",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2026/10/2277532373.jpg?w=1024"
+    },
+    {
+      "title": "'Movin' to the Sun' shows grey areas between AI and human music",
+      "url": "https://musically.com/2026/10/26/movin-to-the-sun-shows-grey-areas-between-ai-and-human-music/",
+      "source": "Music Ally",
+      "category": "music",
+      "published_iso": "2026-10-26T12:30:00+00:00",
+      "excerpt": "Hugel's dancefloor hit started life as a Suno-generated song from a human-written lyric and melody before being rebuilt with Ultra Nate's vocals, blurring the line between AI and human-made music.",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-26T105845.322.png?fit=2000%2C1500&ssl=1"
+    },
+    {
+      "title": "MLC, Apple Music, & Others Face Subpoenas Amid UMG v. Suno",
+      "url": "https://www.digitalmusicnews.com/2026/10/26/suno-subpoenas-umg-apple-music/",
+      "source": "Digital Music News",
+      "category": "music",
+      "published_iso": "2026-10-26T22:18:45+00:00",
+      "excerpt": "Non-parties including the MLC, Apple Music and DistroKid now face subpoenas in the UMG v. Suno case, which could force disclosure of how much AI-generated music reaches DSPs.",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Suno-Subpoenas.jpg"
+    },
+    {
+      "title": "Major Labels to Depose Menlo Vet C.C. Gong Over Suno Tweet",
+      "url": "https://www.digitalmusicnews.com/2026/10/26/cc-gong-suno-tweet-deposition/",
+      "source": "Digital Music News",
+      "category": "music",
+      "published_iso": "2026-10-26T17:34:27+00:00",
+      "excerpt": "A judge cleared Universal and Sony to depose former Menlo Ventures principal C.C. Gong over a deleted post saying she had shifted most of her listening from Spotify to Suno, testing Suno's fair-use market-harm defense.",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Suno-Menlo-Subpoena.jpg"
+    },
+    {
+      "title": "ICMP Says Australian Songs Used to Train AI Sans Compensation",
+      "url": "https://www.digitalmusicnews.com/2026/10/19/icmp-kylie-minogue-songs-train-ai/",
+      "source": "Digital Music News",
+      "category": "music",
+      "published_iso": "2026-10-20T04:00:26+00:00",
+      "excerpt": "ICMP warns AI firms are pressuring Australia to water down copyright for training, citing Kylie Minogue and Nick Cave hits already used to train models without payment.",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/major-australian-hits-kylie-minogue-nick-cave-already-used-to-train-ai.png"
+    },
+    {
+      "title": "Stop sending me vibecoded plugins, I'm begging you",
+      "url": "https://musictech.com/features/opinion-analysis/stop-sending-me-vibecoded-ai-plugins/",
+      "source": "MusicTech",
+      "category": "music",
+      "published_iso": "2026-10-21T10:04:18+00:00",
+      "excerpt": "MusicTech's inbox is drowning in AI vibe-coded plugins; the piece explains why that is a problem for producers and which indie developers are using AI coding tools properly.",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/10/vibecoded-ai-plugin-hero@2000x1500-1068x801.jpg"
+    },
+    {
+      "title": "Is The Humanity of Instruments Under Threat from AI?",
+      "url": "https://www.gearnews.com/humanity-instruments-ai-threat-synths/",
+      "source": "Gearnews",
+      "category": "music",
+      "published_iso": "2026-10-18T18:00:00+02:00",
+      "excerpt": "As vibe-coded instrument plugins surge, Gearnews asks whether AI-built tools risk losing the human design choices that make instruments inspiring.",
+      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/10/AI-Human.jpg"
+    },
+    {
+      "title": "Fender Studio Pro 8.2 Update: New Mixing and Workflow Features",
+      "url": "https://www.gearnews.com/fender-studio-pro-daw/",
+      "source": "Gearnews",
+      "category": "music",
+      "published_iso": "2026-10-21T09:00:44+02:00",
+      "excerpt": "Fender Studio Pro 8.2 adds mixing and workflow upgrades plus AI-assisted drum and note extraction that converts audio drum hits and melodies into MIDI.",
+      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/01/fender-studio-pro-8-1-ft.jpg"
+    },
+    {
+      "title": "The 7 Weirdest NAM Captures You Can Download for Free",
+      "url": "https://www.gearnews.com/weirdest-nam-captures-guitar/",
+      "source": "Gearnews",
+      "category": "music",
+      "published_iso": "2026-10-25T17:00:00+01:00",
+      "excerpt": "Neural Amp Modeler, the open-source format where a model 'learns' how gear shapes a signal, now hosts captures of answering machines and walkie-talkies alongside classic amps.",
+      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/10/WeirdNAM.jpg"
+    },
+    {
+      "title": "Music Tectonics Returns Next Week With AI, Artist Revenue, and Our Future on the Agenda",
+      "url": "https://www.hypebot.com/music-tectonics-returns-next-week-with-ai-artist-revenue-and-our-future-on-the-agenda/",
+      "source": "Hypebot",
+      "category": "music",
+      "published_iso": "2026-10-23T12:55:33.000Z",
+      "excerpt": "The Music Tectonics conference returns with AI music tools, artist revenue and the future of music tech on the agenda.",
+      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/Screenshot-2026-10-23-at-8.51.30---AM.png"
+    },
+    {
+      "title": "DJustify: Reason-and-Verify DJ Planning for Pop Transitions and Story-Driven Sets",
+      "url": "https://arxiv.org/abs/2610.33434",
+      "source": "arXiv",
+      "category": "music",
+      "published_iso": "2026-10-24T04:22:09Z",
+      "excerpt": "DJustify is a pop AI-DJ that puts an LLM in a reason-propose-verify-repair loop to jointly choose the next track, cue points and mixing technique, with an acoustic checker scoring rendered transitions.",
+      "og_image": null
+    },
+    {
+      "title": "MusicTwins: Training Audio-Language Models to Listen like Their Persona",
+      "url": "https://arxiv.org/abs/2610.32495",
+      "source": "arXiv",
+      "category": "music",
+      "published_iso": "2026-10-23T11:11:45Z",
+      "excerpt": "MusicTwins combines persona summaries, personal memory and post-training so audio-language models reproduce a specific listener's responses to music.",
+      "og_image": null
+    },
+    {
+      "title": "MI-MIDI 2: From Observation to Control with Sparse Autoencoders in Text-to-MIDI Generation",
+      "url": "https://arxiv.org/abs/2610.32007",
+      "source": "arXiv",
+      "category": "music",
+      "published_iso": "2026-10-23T00:10:54Z",
+      "excerpt": "Researchers test whether sparse-autoencoder features discovered in text2midi and MIDI-LLM actually steer generation, building an end-to-end protocol for controllable text-to-MIDI.",
+      "og_image": null
+    }
+  ]
 }

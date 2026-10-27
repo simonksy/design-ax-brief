@@ -1,34 +1,19 @@
 {
-  "politics-treasury-outbound-ai": {
-    "images": [
-      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2aTQNz.img"
-    ],
-    "video": null
+  "politics-sweden-chatgpt-claude": {
+    "lead_image": "https://static.euronews.com/articles/stories/08/40/56/14/1200x675_cmsv2_8aa6ac45-6312-55a8-89e2-1d6690c4b8b6-8405614.jpg"
   },
-  "politics-uk-chancellor-ai-package": {
-    "images": [
-      "https://assets.publishing.service.gov.uk/media/5a37db09e5274a7908e352b4/s960_HMT_buiding_plaque.jpg"
-    ],
-    "video": null
+  "politics-claude-election-data": {
+    "lead_image": "https://images.euronews.com/articles/stories/09/96/76/54/1200x675_cmsv2_aceccf58-a679-5b4b-a457-03e9cdcfe53b-9967654.jpg"
   },
-  "politics-spain-deepfake-video": {
-    "images": [
-      "https://i.guim.co.uk/img/media/b2d99fbc0419494ad01c1db56e1c3987fef305dd/799_96_2908_2326/master/2908.jpg?width=1200&dpr=1&s=none&crop=none",
-      "https://i.guim.co.uk/img/media/2c623a42b8fe9a0f8170a7d4ffd10f9749f7800f/0_263_1048_837/master/1048.jpg?width=1065&dpr=1&s=none&crop=none"
-    ],
-    "video": null
+  "politics-qwen-beijing-server": {
+    "lead_image": "https://image.theregister.com/5305565.jpg?imageId=5305565&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
   },
-  "politics-texas-paxton-openai": {
-    "images": [
-      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fWwim.img",
-      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fWKNB.img"
-    ],
-    "video": null
+  "politics-ontario-ai-justice": {
+    "lead_image": "https://cdn-res.keymedia.com/cms/images/lt/jacq_639286618914876823.png"
   },
-  "politics-deepseek-minimax-export": {
-    "images": [
-      "https://media.thenextweb.com/2026/10/minimax-open-platform-website-phone-screen.jpg"
-    ],
-    "video": null
+  "politics-ftc-anthropic-testimony": {
+    "lead_image": "https://images.axios.com/0ZEJZG2mfCg6PK5LKkLLDP835AI=/0x0:1920x1080/1920x1080/2026/09/10/1789059128473.jpeg",
+    "video": "",
+    "yt": ""
   }
 }

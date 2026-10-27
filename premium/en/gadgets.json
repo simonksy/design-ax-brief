@@ -9619,6 +9619,149 @@
           "x": "The feature isn't reserved for paying Workspace customers: it is available now on the web, Android and iOS for eligible Google Workspace, Workspace Individual and personal Google account users."
         }
       ]
+    },
+    "gadgets/gadgets-orisa": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/recovering-deleted-ai-chats.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Manisha Priyadarshini / Digital Trends"
+        },
+        {
+          "t": "p",
+          "x": "Did you think hitting delete on your AI chatbot conversation actually makes it disappear? Georgia Tech researchers have built a forensic tool called ORISA that can dig deleted conversations from your phone and even rebuild them into a working chatbot session you can keep talking to."
+        },
+        {
+          "t": "p",
+          "x": "Local AI assistants don’t send conversations to the cloud, but that data still lives in the phone’s working memory while the app runs, so deleting a chat in the app doesn’t necessarily erase it. ORISA looks for those leftover fragments and stitches them back together into a live, working AI session."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/overview-of-orisa.jpg?resize=2238%2C812&ssl=1",
+          "cap": "Overview of ORISA’s design. Georgia Tech"
+        },
+        {
+          "t": "p",
+          "x": "In one test, researchers fed a fictional assistant called Project Note Keeper 100 facts, then deleted the conversation. The live session could access only 14 of those facts by then; ORISA recovered 26. Across 60 test configurations spanning 10 Android apps and three AI models, the tool recovered deleted conversation data."
+        },
+        {
+          "t": "p",
+          "x": "Researchers say ORISA could help investigators piece together what someone shared with an AI assistant, including cases where chatbot advice may have harmed patients. It also raises privacy concerns for on-device AI users. ORISA is a forensic tool for investigators, needs a copy of the phone’s memory and storage, and recovery gets harder when other activity overwrites the data."
+        }
+      ]
+    },
+    "gadgets/gadgets-rayban-meta-training": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ray-ban-meta-ki-training-teaser.jpg",
+          "cap": "Ray-Ban Meta glasses with a camera in the frame. Meta stores images from AI requests unless you turn this off."
+        },
+        {
+          "t": "p",
+          "x": "Asking your Ray-Ban Meta glasses what a sign says sends Meta a photo. According to Meta’s help page on visual data, the company stores these captures from AI requests and may use them to train its models, through automated systems or human review. Since September 24, you can switch that off. A second setting covers your voice, and how much control you get depends on where you live."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/2/6/csm_ray-ban-meta-ai-training-settings-en_890c1a5d02.png",
+          "cap": "The visual data setting only covers images from AI requests. Voice recordings have a separate setting outside the US."
+        },
+        {
+          "t": "p",
+          "x": "In the Meta AI app, open your glasses settings, tap Meta AI under Experiences and turn off “Store visual data from AI experiences.” Once off, visual data isn’t available for human review, isn’t used for training and isn’t stored after your request is answered. Features such as visual reminders may be limited, and the change only applies going forward."
+        },
+        {
+          "t": "p",
+          "x": "Voice is handled by region. In the US, transcripts and recordings are stored by default, and owners lost the option to turn that off in April 2025; UK and German notices let you choose. Stored recordings are kept for up to a year and can be reviewed by trained staff."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_ray-ban-meta-ai-training-steps-en_1128925689.png",
+          "cap": "Five steps in the Meta AI app, repeated for each pair. Old voice recordings have to be deleted manually."
+        },
+        {
+          "t": "p",
+          "x": "No setting covers bystanders, and images shared with Meta AI on Messenger or Instagram are excluded from the visual data setting."
+        }
+      ]
+    },
+    "gadgets/gadgets-rtx-tensor-throttle": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/4Yvp7ck4v6d8JPBoNXVPfe.jpg",
+          "cap": "Nvidia GeForce RTX 4090 Founders Edition (Image credit: Nvidia)"
+        },
+        {
+          "t": "p",
+          "x": "Modders have discovered a way to remove imposed half-speed AI performance limits on Nvidia RTX 20, 30, and 40-series GPUs with a firmware exploit, VideoCardz reports. Without the limitation, the RTX 4090 can achieve double its peak tensor rate, and matrix math can improve by up to 80% for the RTX 3090 Ti. Real workloads gain significantly less, and chatbot token speeds remain about the same, as that performance is dependent on memory bandwidth."
+        },
+        {
+          "t": "p",
+          "x": "Nvidia’s GeForce limit runs FP32-accumulate math at half each card’s FP16-accumulate rate. Three projects — turing-unlock (RTX 2080 Ti), gpu-unlock (Ampere) and gpu-unlock-ada (RTX 4090) — offer unlocks via unofficial Linux modules; RTX 50 (Blackwell) is not supported."
+        },
+        {
+          "t": "p",
+          "x": "The Ada fork developer’s RTX 4090 moved from 165.6 to 331.6 TFLOPS on FP16. In one owner’s matrix-multiply benchmark, though, cuBLAS GEMM medians improved only 12–34% (FP16) and up to 20% (BF16). For Ampere, LLM prefill improved 14–36%, but LLM decode and INT8 stayed “about the same.”"
+        },
+        {
+          "t": "p",
+          "x": "The turing-unlock README warns the mod “may damage your hardware,” and KohakUnlock says it “can hang a GPU or host, prevent boot, corrupt data, or damage hardware.”"
+        }
+      ]
+    },
+    "gadgets/gadgets-even-g2-update": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Even-Realities-G2-smart-glasses-13.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Even Realities today announced that a new software version will be rolling out to the G2 smart glasses, complete with a personal knowledge base that only remembers what you tell it."
+        },
+        {
+          "t": "p",
+          "x": "Conversate is getting an overhauled “Pro Mode” that pulls data from Knowledge Base, a feature that remembers the information and data you select. The refreshes are in the G2 version 2.4.0 update, which also upgrades the AI interface to Even AI 2.0."
+        },
+        {
+          "t": "p",
+          "x": "Conversate recordings and manually uploaded files sync to a secure Google Cloud Platform server in the EU; Even AI 2.0 and active Conversate sessions pull context from the Knowledge Base. Users can select up to 10 Conversate records during setup, and new sessions aren’t added automatically unless auto-upload is toggled on."
+        },
+        {
+          "t": "p",
+          "x": "Even AI 2.0 adds press-and-hold activation on the touch sensor, multi-turn conversations without a new wake word, and opening Even Hub apps and changing settings from the AI chat. Knowledge Base and Conversate Pro Mode launch today in beta with a monthly usage allowance. There’s also a new tortoiseshell color option."
+        }
+      ]
+    },
+    "gadgets/gadgets-topc-txa2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/2fiT6TDsU78hzS4Mg3E8Rm-1920-80.png",
+          "cap": "Image credit: Minimachines"
+        },
+        {
+          "t": "p",
+          "x": "Chinese manufacturer TOPC has introduced a copper-colored TXA2 compact workstation costing almost $7,000. It combines 192GB of LPDDR5X memory with support for four SSDs and simultaneous output to four monitors at resolutions reaching 8K."
+        },
+        {
+          "t": "p",
+          "x": "At its core is AMD's Ryzen AI Max+ PRO 495, with 16 CPU cores, 32 threads and Radeon 8065S graphics. The integrated graphics can access as much as 160GB of system memory, giving considerable capacity for running demanding AI models locally. The 8,533MHz memory is soldered to the motherboard, so it cannot be upgraded."
+        },
+        {
+          "t": "p",
+          "x": "Storage comes via four M.2 2280 NVMe slots, two at PCIe 4.0 x4 and two at PCIe 4.0 x2. Connectivity includes 10GbE and 2.5GbE, HDMI 2.1, DisplayPort 2.1, USB4, Wi-Fi 7 and Bluetooth 5.4."
+        },
+        {
+          "t": "p",
+          "x": "The roughly 2.5-liter chassis weighs 2.319 kg and uses four fans, reportedly handling 140W at peak and 120W continuously; TOPC has not disclosed noise levels."
+        },
+        {
+          "t": "p",
+          "x": "Pricing begins at $6,499 for the 2TB configuration and $6,799 for 4TB, plus a $69 delivery charge, before import duties and taxes. Coming from a relatively unknown brand with only a one-year warranty, a purchase approaching $7,000 is a considerable gamble."
+        }
+      ]
     }
   }
 }

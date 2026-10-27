@@ -1,102 +1,71 @@
 {
   "section": "movies",
-  "generated_at": "2026-10-25T22:00:38Z",
+  "now_iso": "2026-10-27T02:20:00Z",
   "window_hours": 336,
+  "recovery_pass": 1,
+  "expansion_terms": [
+    "Brahma AI visual dubbing (Ramayana)",
+    "anime studio AI stance (MAPPA)",
+    "AI filmmaking curriculum/education",
+    "AI voice translation for dubbing (ElevenLabs, Mistral Voxtral)",
+    "Toonstar",
+    "Flawless/Deepdub",
+    "SAG-AFTRA TV animation AI",
+    "Autodesk Flow Studio",
+    "Eyeline GenFX",
+    "Kling Busan",
+    "DaVinci Resolve 21.1",
+    "TIFFCOM AI",
+    "AI film festivals"
+  ],
   "items": [
     {
-      "title": "Hollywood AI-listers: is the technology ready to rival flesh-and-blood film stars?",
-      "url": "https://www.theguardian.com/film/2026/oct/20/ai-actors-val-kilmer-as-deep-as-the-grave-tilly-norwood",
-      "source": "The Guardian",
+      "title": "Ramayana: Producer Namit Malhotra Explains How Human Voices Combined With AI Formed English Dubbing",
+      "url": "https://www.timesnownews.com/entertainment-news/bollywood/ramayan-producer-namit-malhotra-explains-how-human-voices-combined-with-ai-formed-english-dubbing-article-156399525",
+      "source": "Times Now",
       "category": "movies",
-      "published_iso": "2026-10-20T06:00:18Z",
-      "og_image": "https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=1200&height=630&quality=85&auto=format&fit=crop",
-      "excerpt": "As an AI Val Kilmer stars in the western 'As Deep as the Grave' and synthetic performer Tilly Norwood heads for her feature debut, experts split on whether synthetic actors are close to mainstream adoption or still a long way off."
+      "published_iso": "2026-10-25T00:20:54+05:30",
+      "excerpt": "Ramayana Part 1 was shot only in Hindi. Its English and other international versions use Brahma AI, which combines the human actors' voice work with AI audio and lip-sync so each language version matches the actors' mouth movements. The film opens in theatres and IMAX on November 5.",
+      "og_image": "https://images.timesnownews.com/thumb/msid-156399526,thumbsize-1025251,width-1280,height-720,resizemode-75/156399526.jpg",
+      "off_list": true,
+      "note": "Off-list (no allowed-domain coverage found). Brahma face-replacement tech was published earlier via AWN (Jo Plaete); this is a separate story about AI dubbing on a major theatrical release."
     },
     {
-      "title": "VCAT joins TV Asahi, Netflix period drama series as AI production partner",
-      "url": "https://www.digitaltoday.co.kr/en/view/118692/vcat-joins-tv-asahi-netflix-period-drama-series-as-ai-production-partner",
-      "source": "Digital Today",
+      "title": "Jujutsu Kaisen studio boss says AI is just \"a tool\" and real emotion has come from people",
+      "url": "https://www.gamesradar.com/entertainment/anime-shows/jujutsu-kaisen-studio-boss-says-ai-is-nothing-more-than-a-tool-and-real-emotion-has-come-from-the-people-who-create-it/",
+      "source": "GamesRadar+",
       "category": "movies",
-      "published_iso": "2026-10-23T01:47:31Z",
-      "og_image": "https://www.digitaltoday.co.kr/news/photo/202610/709487_657088_472.png",
-      "excerpt": "Korean AI studio VCAT.AI said it handled AI production for TV Asahi's period drama series 'Sanada Juyushi', also streaming on Netflix, bringing generative AI imagery into a terrestrial broadcast jidaigeki."
+      "published_iso": "2026-10-19T10:57:37Z",
+      "excerpt": "MAPPA president and CEO Manabu Otsuka, whose studio makes Jujutsu Kaisen and Chainsaw Man, says generative AI is nothing more than a tool in anime production and that the emotion audiences respond to comes from human creators. He made the comments amid a growing backlash over AI in the anime industry.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/hmUXdw3tBhZTqqzch5PMdj-1920-80.jpg",
+      "off_list": true,
+      "note": "Off-list (Future plc entertainment desk). Fills the anime-production AI angle; no on-list coverage found."
     },
     {
-      "title": "AI 영화 '라파엘', 11월 25일 롯데시네마 개봉, 메인 포스터 공개",
-      "url": "https://www.frame-less.co.kr/news/articleView.html?idxno=5627",
-      "source": "프레임리스",
-      "category": "movies",
-      "published_iso": "2026-10-23T19:37:04Z",
-      "og_image": "https://cdn.frame-less.co.kr/news/photo/202610/5627_14884_3130.jpg",
-      "excerpt": "국내 기술진이 생성형 AI로 만든 장편 SF 영화 '라파엘'(감독 양익준·문신우·정주원)이 11월 25일 롯데시네마 개봉을 확정하고 메인 포스터를 공개했다."
-    },
-    {
-      "title": "KeenTools' KeenFace Turns Photos Into MetaHuman-Ready 3D Heads",
-      "url": "https://www.awn.com/news/keentools-keenface-turns-photos-metahuman-ready-3d-heads",
+      "title": "A Freshman Year Foundation for AI Filmmaking",
+      "url": "https://www.awn.com/blog/freshman-year-foundation-ai-filmmaking",
       "source": "Animation World Network",
       "category": "movies",
-      "published_iso": "2026-10-22T17:33:52Z",
-      "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081582-kf-2026-hd-promo-1280.jpg?itok=ALIXYdoQ",
-      "excerpt": "KeenTools launched KeenFace (keenface.ai), a browser app and API that automatically builds production-ready MetaHuman-topology 3D heads with 4K PBR textures and automated de-hairing from ordinary photos, on pay-as-you-go credits."
+      "published_iso": "2026-10-19T18:41:00Z",
+      "excerpt": "Kevin Geiger, an animation veteran and educator, proposes a first-year AI filmmaking curriculum for art schools that is about 70% traditional foundations and 30% generative practice. He treats prompting as a form of directing and argues that the AI filmmaker is a creator, director, editor and producer, not a 'prompt engineer.'",
+      "og_image": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/ai_foundation_01-1280.jpg?itok=D_auEern",
+      "note": "AWN blog/opinion. Published time taken from the rendered 'submitted Monday, October 19, 2026 at 11:41am' (PT) line, which matches the Google News pubDate. The HTML is behind Cloudflare, so it was read via r.jina.ai."
     },
     {
-      "title": "Can AI replace human animators? Pixar veteran and Japanese studio chief explain",
-      "url": "https://www.khaleejtimes.com/world/can-ai-replace-human-animators-pixar-veteran-and-japanese-studio-chief-explain",
-      "source": "Khaleej Times",
+      "title": "ElevenLabs and Mistral Make Voices Speak Any Language",
+      "url": "https://www.voiceoverherald.com/elevenlabs-realtime-translation-mistral-voxtral-3-voice-clone-languages/",
+      "source": "Voice Over Herald",
       "category": "movies",
-      "published_iso": "2026-10-24T02:00:00Z",
-      "og_image": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-10-23/yfv8fleb/comic.jpeg?width=1200&height=630&q=60&format=auto&ogImage=true&mode=crop&rect=100,0,1080,720",
-      "excerpt": "From job-loss fears to clients banning AI tools, a Pixar veteran and a Japanese animation studio head explain how AI is changing animation work and why human creativity still matters."
-    },
-    {
-      "title": "Brahma AI Improves Lip Sync In Ramayana",
-      "url": "https://www.cinejosh.com/news/1/130840/brahma-ai-improves-lip-sync-in-ramayana.html",
-      "source": "CineJosh",
-      "category": "movies",
-      "published_iso": "2026-10-25T07:43:45Z",
-      "og_image": "https://www.cinejosh.com/newsimg/newsmainimg/brahma-ai-improves-lip-sync-in-ramayana-1792914220139-1792914221228.jpg",
-      "excerpt": "Brahma AI's VAANI engine adjusts actors' lip movements to match translated dialogue in 'Ramayana', after language experts and human dubbing artists prepare each localized track."
-    },
-    {
-      "title": "언에이아이, Web Summit 2026서 AI 더빙 엔진 'DynEx' 선보여",
-      "url": "https://kr.aving.net/news/articleView.html?idxno=1816067",
-      "source": "에이빙(AVING)",
-      "category": "movies",
-      "published_iso": "2026-10-24T08:07:30Z",
-      "og_image": "https://cdn.kr.aving.net/news/photo/202610/1816067_783763_1133.png",
-      "excerpt": "AI 콘텐츠 현지화 기업 언에이아이가 웹서밋 2026에서 다국어 AI 더빙 엔진 DynEx를 선보이며 OTT·FAST용 대량 콘텐츠 현지화 시간을 줄이겠다고 밝혔다."
-    },
-    {
-      "title": "'부산→서울' 영진위, AI 영화 제작 교육 결과물 공유",
-      "url": "https://www.nc.press/news/articleView.html?idxno=629065",
-      "source": "뉴스컬처",
-      "category": "movies",
-      "published_iso": "2026-10-21T00:22:29Z",
-      "og_image": "https://cdn.nc.press/news/photo/202610/629065_865798_194.jpeg",
-      "excerpt": "영화진흥위원회가 부산에서 시작한 AI 영화 제작 교육의 완성작을 서울에서 공유하며 AI 창작 가능성을 모색하는 자리를 마련한다."
-    },
-    {
-      "title": "부산국제단편영화제, MK2 에이전시와 '아트팩트 AI 영화제' 업무협약 체결",
-      "url": "https://www.indifocus.kr/83124",
-      "source": "인디포커스",
-      "category": "movies",
-      "published_iso": "2026-10-19T03:07:00Z",
-      "og_image": "https://www.indifocus.kr/data/jmbc_tv/mainimages/202610/250_188_2026101907154154.png",
-      "excerpt": "부산국제단편영화제가 파리에서 MK2 에이전시와 '아트팩트 AI 영화제' 협력 업무협약을 맺었다."
-    },
-    {
-      "title": "트윈플러스, AI 애니메이션 제작 확대…역사 인물 2편 첫 공개",
-      "url": "https://www.newspim.com/news/view/20261023001015",
-      "source": "뉴스핌",
-      "category": "movies",
-      "published_iso": "2026-10-23T06:47:00Z",
-      "og_image": "",
-      "excerpt": "웹소설·웹툰 IP 스튜디오 트윈플러스가 AI 기반 애니메이션 제작으로 영역을 넓혀 실화 기반 역사 애니메이션 2편을 처음 공개했다."
+      "published_iso": "2026-10-24T13:05:00+00:00",
+      "excerpt": "ElevenLabs' live translation now works in more than 90 languages using a speaker's own voice clone, and Mistral's Voxtral 3 can copy a voice from 30 minutes of audio. Together they make one performer's voice speak dozens of languages, with direct consequences for dubbing and localization work.",
+      "og_image": "https://www.voiceoverherald.com/wp-content/uploads/2026/10/el.jpg",
+      "off_list": true,
+      "note": "Off-list. Covers the localization/dubbing angle. Weaker fit for film; the curator may prefer to skip it."
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 10,
+    "kept": 4,
     "against_days": 5
   }
 }
