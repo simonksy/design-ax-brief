@@ -1,88 +1,107 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "section": "design",
   "user_selection": null,
   "picks": [
     {
       "rank": 1,
-      "title": "Nobody asked for the sparkle button",
-      "url": "https://uxdesign.cc/nobody-asked-for-the-sparkle-button-ae54ab5065c6",
-      "source": "UX Collective",
+      "title": "Google Unveils Gemini That Remembers Brand Style",
+      "url": "https://designcompass.org/en/2026/10/26/google-gemini-on-brand-visuals/",
+      "source": "Design Compass",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "published_iso": "2026-10-26T05:34:00Z",
+      "og_image": "https://designcompass.org/wp-content/uploads/2026/10/Gemini-Brand-Style-Remembered-1-scaled.jpg",
+      "excerpt": "Gemini can now remember a brand's style: register a website, brand kit, fonts and colors once and generate new on-brand images without re-uploading guidelines each time.",
+      "rationale": "A new Gemini feature that saves a brand kit once and reuses it for every generated image. Brand and marketing designers can try it tomorrow. It is a different product from the 09-28 Stitch brand-to-UI story."
+    },
+    {
+      "rank": 2,
+      "title": "로고 생성 넘어 SVG 편집 파일로...이디오그램, 벡터 AI로 디자인 실무 공략",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216679",
+      "source": "AI타임스",
       "category": "figma",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "published_iso": "2026-10-25T12:33:57Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*zO6YRwfqZ98I2mbNC4MBNw.png",
-      "excerpt": "Products ship with the same AI sparkle panel while people hunt for the off switch and spend outruns returns; the author argues teams should build features with AI, not AI features.",
-      "rationale": "A sharp product-design argument against bolt-on AI sparkle panels that gives teams a test to apply to their own roadmap: build features with AI, not AI features. It is a different thesis from earlier UXC pieces in the history."
+      "published_iso": "2026-10-26T17:01:42+09:00",
+      "og_image": "https://cdn.aitimes.com/news/photo/202610/216679_220802_5713.jpeg",
+      "excerpt": "Ideogram has moved from generating logo and illustration images to outputting editable SVG vector files, pitching its vector AI at real design production work rather than finished-looking pictures.",
+      "rationale": "Ideogram now outputs editable SVG vector files instead of flat images, so logos and icons can go straight into a production pipeline. This is a new capability, not the 10-03 Ideogram partial-edit model and not CorelDRAW's text-to-vector tool from 09-29."
     },
     {
-      "rank": 2,
-      "title": "Where to draw the line before AI reaches professional users",
-      "url": "https://uxdesign.cc/where-to-draw-the-line-before-ai-reaches-professional-users-09d61f61b2b5",
+      "rank": 3,
+      "title": "Building an AI-ready design system library: Code → Figma with MCP",
+      "url": "https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2",
       "source": "UX Collective",
       "category": "figma",
       "tool": "Figma",
       "accent": "#7928ca",
       "motif": "frame",
-      "published_iso": "2026-10-25T12:31:45Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*Di003Ys9ARp2QsB9IF15Eg.png",
-      "excerpt": "Every B2B roadmap now has a chat box; six questions for deciding whether a conversational layer speeds experts up or puts a keyboard between them and work they already know.",
-      "rationale": "Swap-in #2 for the Epic game-jam card. It gives B2B product designers a six-question checklist for deciding whether a chat layer helps expert users or slows them down, which they can apply to a roadmap tomorrow. It is a different thesis from the 10-12 Tesler's-law piece and the 10-08 bounded-delegation piece. This is the third figma-category card (cap relaxed to 3 for this swap) and gets the palette accent #7928ca."
-    },
-    {
-      "rank": 3,
-      "title": "Why do AI platforms want humans to design their branding?",
-      "url": "https://www.creativebloq.com/news/why-do-ai-platforms-want-humans-to-design-their-branding",
-      "source": "Creative Bloq",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "published_iso": "2026-10-25T08:01:03Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/8iLPH4BsY5429rchU9dzuZ-1920-80.png",
-      "excerpt": "AI firms keep hiring human designers and agencies for their own brand identities, a telling irony for the creative industry.",
-      "rationale": "Points out that AI companies still hire human studios for their own brand identities, which is useful context for brand designers pitching against generative tools. It is a different story from the 09-28 NASA-brand piece. The second figma-category pick gets the palette accent #eb367f."
+      "published_iso": "2026-10-26T21:33:15Z",
+      "og_image": "https://miro.medium.com/v2/resize:fit:1200/0*z97zDowA9lacbpjQ.jpeg",
+      "excerpt": "A practical guide for designers on starting the design system in code and using MCP to build, check and maintain the Figma library so AI agents can work from it. Part 1 of a three-part series that continues into AI prototyping inside the design system.",
+      "rationale": "A step-by-step workflow for building the Figma library from code over MCP so agents can use it, which design-system teams can follow directly. It is a practitioner how-to, not Figma's 10-17 code-layers launch or the 10-24 Figma-agent design-system post. This is the second figma-category pick, so it gets the palette accent #7928ca."
     },
     {
       "rank": 4,
-      "title": "Impeccable: The Open-Source Design Skill That Stops AI Websites Looking AI-Generated",
-      "url": "https://dev.to/itxtayab/impeccable-the-open-source-design-skill-that-stops-ai-websites-looking-ai-generated-3i20",
-      "source": "DEV Community",
+      "title": "The New Full-Stack Designer",
+      "url": "https://www.youtube.com/watch?v=eojywvxqoLc",
+      "source": "Y Combinator (YouTube)",
+      "category": "social",
+      "tool": "Social",
+      "accent": "#ff2d55",
+      "motif": "frame",
+      "published_iso": "2026-10-26T14:00:10Z",
+      "og_image": "https://i.ytimg.com/vi/eojywvxqoLc/maxresdefault.jpg",
+      "excerpt": "On YC's Design Review, Shopify product design studio lead Marvin Schwaibold walks through how his design process has changed with AI coding tools, the admin redesign and Sidekick work his team shipped, and why taste is now the bottleneck.",
+      "rationale": "A Shopify studio lead shows the actual process his team used to ship the admin redesign and Sidekick with AI coding tools, a concrete case study rather than a generic essay. It adds a new outlet and covers the social category."
+    },
+    {
+      "rank": 5,
+      "title": "MOSS-Image: The Open-Source Model Teaching AI to Spell",
+      "url": "https://www.intelligentliving.co/moss-image-open-source-model/",
+      "source": "Intelligent Living",
       "category": "tokens",
       "tool": "Design Tokens",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "published_iso": "2026-10-25T08:26:31Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xdyvbd5af4n0a30zef5.webp",
-      "excerpt": "Impeccable is an open-source design skill for AI coding agents that targets the tells of AI-built sites (Inter everywhere, purple gradients, nested cards) and pushes output toward deliberate visual design.",
-      "rationale": "A specific open-source agent skill that designers can install tomorrow to steer coding agents away from default AI styling. It is a different tool from the 10-22 haoli de-slop skill, which was the author's own project."
+      "published_iso": "2026-10-26T01:30:21Z",
+      "og_image": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-open-source-model.jpg",
+      "excerpt": "MOSS-Image is a 5B open-source image model that renders readable bilingual text and JSON-specified layouts, scoring 96.3 on long-text rendering benchmarks.",
+      "rationale": "A new open-source image model built for readable typography and layouts specified in JSON, which addresses designers' main complaint about AI posters. It is a different model from the 10-13 Iris 3B story. The source is a lower-tier outlet, so the enrichment pass should check the claims against the model card."
     }
   ],
   "dedup": {
     "checks": {
-      "https://uxdesign.cc/nobody-asked-for-the-sparkle-button-ae54ab5065c6": {
+      "https://designcompass.org/en/2026/10/26/google-gemini-on-brand-visuals/": {
         "verdict": "new",
-        "nearest": "https://uxdesign.cc/ai-generated-ui-is-fast-design-not-ux-855ca8abcd28",
+        "nearest": "https://techgenyz.com/google-stitch-gemini-3-8-flash-brand-ui-design/",
         "new_action": ""
       },
-      "https://uxdesign.cc/where-to-draw-the-line-before-ai-reaches-professional-users-09d61f61b2b5": {
+      "https://www.aitimes.com/news/articleView.html?idxno=216679": {
         "verdict": "new",
-        "nearest": "https://uxdesign.cc/teslers-law-complexity-survived-the-chat-field-it-just-moved-to-a-different-place-in-the-journey-8a63f099f490",
+        "nearest": "https://www.creativebloq.com/design/graphic-design-software/coreldraw-adds-text-to-vector-ai-in-the-september-update-is-it-a-good-move",
         "new_action": ""
       },
-      "https://www.creativebloq.com/news/why-do-ai-platforms-want-humans-to-design-their-branding": {
+      "https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2": {
         "verdict": "new",
-        "nearest": "https://www.creativebloq.com/design/we-have-the-kind-of-stuff-ai-wishes-it-could-make-why-trust-is-more-important-than-ever-for-the-nasa-brand",
+        "nearest": "https://www.figma.com/blog/design-together-with-code-layers/",
         "new_action": ""
       },
-      "https://dev.to/itxtayab/impeccable-the-open-source-design-skill-that-stops-ai-websites-looking-ai-generated-3i20": {
+      "https://www.youtube.com/watch?v=eojywvxqoLc": {
         "verdict": "new",
-        "nearest": "https://dev.to/haoli/i-built-a-claude-code-skill-that-de-slops-ai-generated-web-design-42kn",
+        "nearest": "https://www.windowslatest.com/2026/10/20/even-designers-are-now-using-ai-to-code-windows-11-and-microsoft-says-were-only-getting-started/",
+        "new_action": ""
+      },
+      "https://www.intelligentliving.co/moss-image-open-source-model/": {
+        "verdict": "new",
+        "nearest": "https://www.mindstudio.ai/blog/iris-3b-pixel-space-image-model/",
         "new_action": ""
       }
     },
-    "note": "SWAP #3 (post-fact-check re-curation 2026-10-26): removed 80 Level 'How Tripo P2.0 & Astra Work Together in Blender and Unity'. The fact-check found it is a vendor Q&A in which Tripo's own team answers every question, with promo banners throughout. The movies curator rejected the same article today on the same grounds. No backfill was found, so the section ships 4 picks rather than padding. Every remaining candidate failed a test. Figma '6 ways teams experiment with code layers' is first-party vendor content and repeats the code-layers story published 10-17 and 10-18. UXC 'Context advantage of human UX' would be a third UX Collective card, over the 2-per-outlet cap, and it is close to the 10-12 NNG Context Libraries piece. dev.to 'Your AI-generated UI doesn't need another gradient' has the same core topic as the Impeccable pick (de-slopping default AI UI styling) and the 09-30 and 10-22 de-slop cards. dev.to 'Is AI making designers lazy thinkers?' is an evergreen essay close to the 10-01 Core77 and 10-06 UXC skill-atrophy pieces. Creative Bloq 'Just Eat AI apocalypse' is the same Just Eat story published 10-22 via PetaPixel. CloudNC Quote Agent and Cadence/Nokia are vendor announcements with little design relevance. NVIDIA Microduck and Isaac are robotics, and NVIDIA already ran 10-25. Vercel MCP feedback is a minor vendor changelog, and Vercel ran 10-25. Matt Wolfe is a generic weekly roundup. The AI Advantage Muse/Grok/Dots/Duet review repeats agents covered 10-24 and 10-10. The two Verge pieces are excluded as cross-section repeats: the TV-OS piece duplicates the gadgets 10-20 story and the Epic jam piece duplicates the games 10-23 MegaJam story. Earlier swaps: #1 removed the Verge TV-OS piece and #2 removed the Verge Epic jam piece, with UXC 'Where to draw the line' as the replacement. Outlets: UX Collective 2, Creative Bloq 1, DEV Community 1 (3 distinct, max 2 per outlet). Categories: figma x3 (cap relaxed by orchestrator), tokens x1."
+    "note": "Dropped as duplicates: Creative Bloq 'Just Eat AI apocalypse' is the same Just Eat story published 10-22 via PetaPixel. TechEBlog 'Grok Imagine Odyssey' already ran in movies on 10-26 (cross-section). Chosunbiz 'ElevenLabs Instant Soundtrack' is reserved for music per the curator brief (cross-section). The Verge 'Pennsylvania AI ad labels' is already in published_urls.json under marketing on 10-25 (same URL). Skipped as cross-section risks or off-section: The Verge 'Shogun 2 AI-botched remaster' belongs to games; The Verge 'Blue Planet III' and ForkLog 'Seedance rankings' are movies territory. CG Channel 25 Oct roundup is a weekly round-up of the same series published 10-20 with no single new release, so it was skipped. Not picked on score or diversity: Engineering.com Document Crunch and Siemens/NVIDIA PCB (construction and electronics, with little designer relevance; Siemens ran 10-25), Autodesk Forma prompting (vendor session recap), DEV 11 design-to-code tools (listicle close to the 09-27 comparison), DEV inpainting text fix (same topic as MOSS-Image, kept the release), Figma Config India talk (evergreen keynote), ABS-CBN Adobe indemnify (vendor pitch), Fstoppers retouching essay, VoxelMatters TopMod 3D v3 (AI looks incidental). Outlets: 5 distinct, 1 each. Categories: figma x2 (second uses #7928ca), workflow, social, tokens."
   }
 }

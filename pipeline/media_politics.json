@@ -1,7 +1,31 @@
-{"date":"2026-10-26","section":"politics","media":[
-{"id":"politics-treasury-outbound-ai","type":"image","src":"pipeline/media/politics-treasury-outbound-ai.jpg"},
-{"id":"politics-uk-chancellor-ai-package","type":"image","src":"pipeline/media/politics-uk-chancellor-ai-package.jpg"},
-{"id":"politics-spain-deepfake-video","type":"image","src":"pipeline/media/politics-spain-deepfake-video.jpg"},
-{"id":"politics-texas-paxton-openai","type":"image","src":"pipeline/media/politics-texas-paxton-openai.jpg"},
-{"id":"politics-deepseek-minimax-export","type":"image","src":"pipeline/media/politics-deepseek-minimax-export.jpg"}
-]}
+{
+  "date": "2026-10-27",
+  "section": "politics",
+  "media": [
+    {
+      "id": "politics-sweden-chatgpt-claude",
+      "type": "image",
+      "src": "pipeline/media/politics-sweden-chatgpt-claude.jpg"
+    },
+    {
+      "id": "politics-claude-election-data",
+      "type": "image",
+      "src": "pipeline/media/politics-claude-election-data.jpg"
+    },
+    {
+      "id": "politics-qwen-beijing-server",
+      "type": "image",
+      "src": "pipeline/media/politics-qwen-beijing-server.jpg"
+    },
+    {
+      "id": "politics-ftc-anthropic-testimony",
+      "type": "image",
+      "src": "pipeline/media/politics-ftc-anthropic-testimony.jpg"
+    },
+    {
+      "id": "politics-ontario-ai-justice",
+      "type": "image",
+      "src": "pipeline/media/politics-ontario-ai-justice.png"
+    }
+  ]
+}

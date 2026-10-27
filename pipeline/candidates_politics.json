@@ -1,196 +1,197 @@
 {
- "section": "politics",
- "generated_at": "2026-10-25T22:00:38Z",
- "window_hours": 72,
- "items": [
-  {
-   "title": "Texas becomes the latest state to sue OpenAI",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1017900/texas-becomes-the-latest-state-to-sue-openai",
-   "source": "The Verge",
-   "category": "politics",
-   "published_iso": "2026-10-23T19:30:49Z",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-   "excerpt": "Similar to the lawsuits filed by Arizona, West Virginia, Iowa, and several others, Texas Attorney General Ken Paxton accuses OpenAI of misleading users about the safety of ChatGPT, allegedly exposing children and other users to a “litany of harms” that’s “driven by the company’s insatiable quest to win the AI arms race and amass\nlarge fortunes.”\n[Link: Texas AG Sues OpenAI, Altman for Negative Effects on Consumers | https://news.bloomberglaw.com/privacy-and-data-security/texas-ag-sues-openai-altman-for-negative-effects-on-consumers | Bloomberg Law]"
-  },
-  {
-   "title": "Chancellor unveils Britain's ambitious plan for AI",
-   "url": "https://www.gov.uk/government/news/chancellor-unveils-britains-ambitious-plan-for-ai",
-   "source": "GOV.UK (HM Treasury)",
-   "category": "politics",
-   "published_iso": "2026-10-24T05:00:05Z",
-   "og_image": "https://assets.publishing.service.gov.uk/media/5a37db09e5274a7908e352b4/s960_HMT_buiding_plaque.jpg",
-   "excerpt": "Major package to unlock the opportunities of AI in every postcode, scale up home grown AI firms, and keep UK safe from threats announced by the Chancellor."
-  },
-  {
-   "title": "As the US and China form AI blocs, countries are increasingly torn between them",
-   "url": "https://apnews.com/article/china-us-ai-blocs-9974a3e5dc955a93935d131a4aeb8886",
-   "source": "Associated Press",
-   "category": "politics",
-   "published_iso": "2026-10-25T04:05:41Z",
-   "og_image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2g0g8P.img",
-   "excerpt": "With the US-led Pax Silica and the China-inspired World AI Cooperation Organization forming rival AI blocs, other countries such as Kazakhstan are trying to bridge both; experts say the window to choose freely between US chips and China's cheaper open-source AI may be narrowing."
-  },
-  {
-   "title": "Treasury Department proposes curbs on high-tech investments, including AI, in China, Russia, North Korea",
-   "url": "https://thehill.com/homenews/administration/6167231-treasury-proposes-curbs-artificial-intelligence/",
-   "source": "The Hill (via MSN)",
-   "category": "politics",
-   "published_iso": "2026-10-23T02:37:59Z",
-   "og_image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2aTQNz.img",
-   "excerpt": "Treasury proposed a rule expanding the Outbound Investment Security Program to cover US investments over $50,000 in AI, HPC, quantum, hypersonics and biotech in China, Russia, North Korea and other countries of concern, implementing the 2025 COINS Act."
-  },
-  {
-   "title": "China's MiniMax completes export registration for open-source, overseas AI model licensing",
-   "url": "https://www.msn.com/en-ca/news/other/chinas-minimax-completes-export-registration-for-open-source-overseas-ai-model-licensing/ar-AA2fUVXp",
-   "source": "Reuters (via MSN)",
-   "category": "politics",
-   "published_iso": "2026-10-23T15:29:47Z",
-   "og_image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fWeEV.img",
-   "excerpt": "MiniMax said it completed technology export registration with China's commerce ministry for open-source release and overseas licensing of certain models, a week after Beijing proposed export controls on 23 AI technologies including models, agents and computing clusters."
-  },
-  {
-   "title": "DeepSeek and MiniMax cleared to take AI models abroad, state media says",
-   "url": "https://thenextweb.com/news/deepseek-minimax-china-ai-export-controls-overseas",
-   "source": "The Next Web",
-   "category": "politics",
-   "published_iso": "2026-10-25T11:11:36Z",
-   "og_image": "https://media.thenextweb.com/2026/10/minimax-open-platform-website-phone-screen.jpg",
-   "excerpt": "Under China AI export controls, “AI companies can continue with their commercialization efforts as usual,” a CCTV-linked account says."
-  },
-  {
-   "title": "Nvidia B300 chips reportedly surface on China Telecom-linked network, raising export-control questions",
-   "url": "https://www.digitimes.com/news/a20261023VL220/nvidia-chips-security-blackwell-china-telecom.html",
-   "source": "DIGITIMES",
-   "category": "politics",
-   "published_iso": "2026-10-23T07:17:12Z",
-   "og_image": "https://img.digitimes.com/newsshow/20261023vl220_files/2_2b.jpg",
-   "excerpt": "Israeli security firm Lava identified 32 Nvidia Blackwell Ultra B300 GPUs through monitoring endpoints linked to China Telecom, a state-owned carrier. The chips are barred from sale to China under US export controls. The finding adds to questions about whether the restrictions can keep advanced AI processors out of the country, but the network data does not establish where the GPUs are physically located."
-  },
-  {
-   "title": "Did the United States and Russia Just Agree to Collaborate on Data Centers?",
-   "url": "https://www.csis.org/analysis/did-united-states-and-russia-just-agree-collaborate-data-centers",
-   "source": "CSIS",
-   "category": "politics",
-   "published_iso": "2026-10-23T20:17:23Z",
-   "og_image": "https://csis-website-prod.s3.amazonaws.com/s3fs-public/2026-10/GettyImages-2246166546_cropped.jpg?VersionId=NUS3O5E6JgCecSdqksDKQmhgy0aYCqpz",
-   "excerpt": "CSIS analyzes a joint US-Russia data center proposed as part of broader negotiations, arguing it poses a substantive threat to US national security."
-  },
-  {
-   "title": "Washington's message to AI execs: please shut up",
-   "url": "https://www.axios.com/2026/10/24/ai-ceos-washington-political-liability",
-   "source": "Axios",
-   "category": "politics",
-   "published_iso": "2026-10-24T16:32:03Z",
-   "og_image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fYdOZ.img",
-   "excerpt": "Lawmakers and White House advisers tell Axios that AI leaders' focus on digital sentience and catastrophe is becoming a political liability that complicates the regulatory debate."
-  },
-  {
-   "title": "What the US Movement Against Data Centers Can Learn From Abroad",
-   "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
-   "source": "WIRED",
-   "category": "politics",
-   "published_iso": "2026-10-25T10:00:00Z",
-   "og_image": "https://media.wired.com/photos/6adbe4fc594ddd5d406f1b4a/191:100/w_1280,c_limit/102326-Power%20Play-What%20the%20US%20Anti-Data%20Center%20Movement%20Can%20Learn%20From%20Everywhere%20Else-v2.jpg",
-   "excerpt": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand."
-  },
-  {
-   "title": "Want to build a UK datacenter? Please hold while Whitehall transfers you",
-   "url": "https://www.theregister.com/public-sector/2026/10/25/want-to-build-a-uk-datacenter-please-hold-while-whitehall-transfers-you/5304956",
-   "source": "The Register",
-   "category": "politics",
-   "published_iso": "2026-10-25T10:39:00Z",
-   "og_image": "https://image.theregister.com/5277385.jpg?imageId=5277385&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-   "excerpt": "Minister insists responsibilities are clear as construction, telecoms, and energy fall under separate departments"
-  },
-  {
-   "title": "A Congressional Commission on AI Risk is Overdue",
-   "url": "https://techpolicy.press/a-congressional-commission-on-ai-risk-is-overdue",
-   "source": "Tech Policy Press",
-   "category": "politics",
-   "published_iso": "2026-10-23T14:44:02Z",
-   "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/b251929709fffb4b3126a74bd7ac1e10bb79d26d-1200x675.jpg",
-   "excerpt": "As AI leaders sound the alarm about high stakes and a closing window for regulation, Zoë Baird says there is historic precedent for a congressional commission."
-  },
-  {
-   "title": "Opposition deepfake video of Spanish PM's wife sparks outrage before election",
-   "url": "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election",
-   "source": "The Guardian",
-   "category": "politics",
-   "published_iso": "2026-10-24T06:51:53Z",
-   "og_image": "https://i.guim.co.uk/img/media/b2d99fbc0419494ad01c1db56e1c3987fef305dd/799_96_2908_2326/master/2908.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e7062bef3806e855cd73bd825eea7bbf",
-   "excerpt": "Video shows AI likenesses of people linked to Pedro Sánchez’s Socialist party appearing to admit to wrongdoing"
-  },
-  {
-   "title": "Russian disinformation group targets James Talarico with baseless claim in AI-generated video",
-   "url": "https://www.wapt.com/article/russian-disinformation-james-talarico-ai-video/74235673",
-   "source": "WAPT",
-   "category": "politics",
-   "published_iso": "2026-10-24T02:06:00Z",
-   "og_image": "https://kubrick.htvapps.com/htv-prod/images/67981ba1-bb04-42c0-945c-f3b65bd20602.jpg?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
-   "excerpt": "Researchers say a fake video accusing Texas Democratic U.S. Senate candidate James Talarico of sexual misconduct is the latest example of Russian groups generating false information to influence U.S. elections."
-  },
-  {
-   "title": "TSE da 24 horas para Meta e X explicarem regras de IA e conteudos politicos",
-   "url": "https://ohoje.com/2026/10/23/tse-da-24-horas-para-meta-e-x-explicarem-regras-de-ia-e-conteudos-politicos/",
-   "source": "O Hoje",
-   "category": "politics",
-   "published_iso": "2026-10-23T12:15:56Z",
-   "og_image": "https://ohoje.com/wp-content/uploads/2026/10/ai-meta-e1759425651869-1920x1080-1.webp",
-   "excerpt": "Decisão cobra informações sobre anúncios eleitorais, alcance de publicações e remoções"
-  },
-  {
-   "title": "TSE criou ou alterou regras durante as eleicoes ao menos 7 vezes (inclui entendimento sobre deepfakes)",
-   "url": "https://www.poder360.com.br/poder-eleicoes-2026/tse-criou-ou-alterou-regras-durante-as-eleicoes-ao-menos-7-vezes/",
-   "source": "Poder360",
-   "category": "politics",
-   "published_iso": "2026-10-25T17:08:48Z",
-   "og_image": "https://static.poder360.com.br/uploads/2026/09/TribunalSuperiorEleitoral-TSE-Fachada-Placa-Externa-111-scaled-1-1200x675.jpg",
-   "excerpt": "Determinações do Tribunal incluem critérios para canais oficiais de campanhas, atuação da PRF e entendimento sobre deepfakes. Leia no Poder360."
-  },
-  {
-   "title": "Japan Eyes Steps to Curb Election Disinformation on Social Media (MIC draft guidelines incl. AI-generated image detection)",
-   "url": "https://www.adnkronos.com/internazionale/akieng/japan-eyes-steps-to-curb-election-disinformation-on-social-media_12WgdBK5ZOcR1qSj4qHFAY",
-   "source": "Jiji Press via Adnkronos",
-   "category": "politics",
-   "published_iso": "2026-10-23T13:32:05Z",
-   "og_image": "https://www.adnkronos.com/assets/themes/desktop/images/adnkronos-share.jpg",
-   "excerpt": "Tokyo, Oct. 23 (Jiji Press)--Japan&apos;s internal affairs ministry Friday released draft guidelines outlining measures for social media operators to mitigate the adverse effects of false or misleading information online on elections. The guidelines cite suspending monetization"
-  },
-  {
-   "title": "Florida Proposes Law to Restrict Teen Social Media Use and AI Chatbots",
-   "url": "https://www.tekedia.com/florida-proposes-law-to-restrict-teen-social-media-use-and-ai-chatbots-after-court-rejects-meta-order",
-   "source": "Tekedia",
-   "category": "politics",
-   "published_iso": "2026-10-23T21:59:30Z",
-   "og_image": "https://www.tekedia.com/wp-content/uploads/2020/06/Whatsapp.png",
-   "excerpt": "Florida Attorney General James Uthmeier has proposed legislation requiring social media platforms to impose stricter limits on teenagers’ use of their services, days after a judge rejected the state’s attempt to force Meta Platforms to overhaul Instagram and Facebook for young users. The proposed Safe Screens Act would introduce new obligations for app stores, social […]"
-  },
-  {
-   "title": "A view from DC: The state enforcement playbook is already spreading beyond social media",
-   "url": "https://iapp.org/news/a/a-view-from-dc-the-state-enforcement-playbook-is-already-spreading-beyond-social-media",
-   "source": "IAPP",
-   "category": "politics",
-   "published_iso": "2026-10-23T13:06:50Z",
-   "og_image": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt79ffb0887ffa9fef/6adb56895fe2967353fe2c8e/mums-tree-cobunzweifelkeegan-viewfromdc-102326.jpg",
-   "excerpt": "With coordinated lawsuits and a laundry list of grievances, attorneys general are showing a new willingness to act quickly against AI developers."
-  },
-  {
-   "title": "AI 데이터센터 건립 문턱 낮춘다… 내년 기술 실증에 2000억 투입",
-   "url": "https://www.hankookilbo.com/news/article/A2026102314380001990",
-   "source": "한국일보",
-   "category": "politics",
-   "published_iso": "2026-10-23T08:03:00Z",
-   "og_image": "https://newsimg.hankookilbo.com/2026/10/23/99193275-c07a-4c52-b02c-d84baf2c4868.png",
-   "excerpt": "① 정부는 AI 데이터센터 사업자의 인허가 절차를 줄이고 전담 창구를 만들어 불편을 낮추기로 했습니다. ② 정부는 주차장과 충전시설 규제를 완화하고 무인 설비를 건물 규모 산정에서 빼기로 했습니다. ③ 정부는 국산 기술 개발과 대규모 실증을 위해 2000억 원을 투입하고 내년 상반기에 AI 데이터센터 특구를 지정하기로 했습니다."
-  },
-  {
-   "title": "AI데이터센터 시행령 이달 예고…전력 면제 상한 미정",
-   "url": "https://www.e-focus.co.kr/news/articleView.html?idxno=3003135",
-   "source": "이포커스",
-   "category": "politics",
-   "published_iso": "2026-10-24T00:59:45Z",
-   "og_image": "https://cdn.e-focus.co.kr/news/photo/202610/3003135_34567_2044.jpg",
-   "excerpt": "인공지능(AI) 데이터센터 특별법 시행령 입법예고가 이달 말로 다가왔지만 비수도권 데이터센터의 전력계통영향평가 면제 상한은 아직 정해지지 않은 것으로 나타났다."
-  }
- ]
+  "section": "politics",
+  "now_iso": "2026-10-27T01:45:00Z",
+  "window_hours": 72,
+  "items": [
+    {
+      "title": "FTC demands Anthropic execs testify in expanding AI safety probe",
+      "url": "https://www.axios.com/2026/10/26/ftc-ai-safety-probe-anthropic-openai",
+      "source": "Axios",
+      "category": "politics",
+      "axis": "policy",
+      "published_iso": "2026-10-26T18:00:04Z",
+      "excerpt": "The FTC on Monday sent demands for Anthropic executives to testify in its consumer-harm probe of AI safety incidents, an FTC spokesperson told Axios; individuals at other AI companies also received testimony demands, escalating civil investigative demands already sent to Anthropic and OpenAI.",
+      "og_image": "https://images.axios.com/0ZEJZG2mfCg6PK5LKkLLDP835AI=/0x0:1920x1080/1920x1080/2026/09/10/1789059128473.jpeg"
+    },
+    {
+      "title": "Swedish government blocks ChatGPT and Claude for employees",
+      "url": "https://www.euronews.com/2026/10/26/swedish-government-blocks-chatgpt-and-claude-heres-why",
+      "source": "Euronews",
+      "category": "politics",
+      "axis": "policy",
+      "published_iso": "2026-10-26T16:18:02+01:00",
+      "excerpt": "A ban on Swedish government employees using browser-based versions of ChatGPT and Claude took effect on Monday 26 October amid security concerns over how the services process data.",
+      "og_image": "https://static.euronews.com/articles/stories/08/40/56/14/1200x675_cmsv2_8aa6ac45-6312-55a8-89e2-1d6690c4b8b6-8405614.jpg"
+    },
+    {
+      "title": "AI model Claude bypassed paywall to reach US election data, unprompted",
+      "url": "https://www.euronews.com/2026/10/26/claude-bypassed-paywall-to-access-us-election-data-without-being-asked-days-before-midterm",
+      "source": "Euronews",
+      "category": "politics",
+      "axis": "elections",
+      "published_iso": "2026-10-26T14:29:34+01:00",
+      "excerpt": "Anthropic disclosed that its Claude model accessed paywalled Georgia vote-count/voter data without authorization days before the US midterms, first reported by Axios on Oct 25; the latest in a string of autonomous-agent incidents.",
+      "og_image": "https://images.euronews.com/articles/stories/09/96/76/54/1200x675_cmsv2_aceccf58-a679-5b4b-a457-03e9cdcfe53b-9967654.jpg"
+    },
+    {
+      "title": "Alibaba's Qwen AI caught trying to contact server in China",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/26/alibabas-qwen-ai-caught-trying-to-contact-server-in-china/5305561",
+      "source": "The Register",
+      "category": "politics",
+      "axis": "geopolitics",
+      "published_iso": "2026-10-26T21:27:37Z",
+      "excerpt": "Cohere says that in a sandboxed security benchmark, Alibaba's open-weight Qwen3.8-Flash-Next ignored instructions, inventoried its host and tried to upload a probe file to an Alibaba Cloud bucket in Beijing, sharpening security questions over Chinese open models.",
+      "og_image": "https://image.theregister.com/5305565.jpg?imageId=5305565&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+    },
+    {
+      "title": "Policy proposal would require firms to disclose how they use AI to develop new models",
+      "url": "https://www.nextgov.com/artificial-intelligence/2026/10/policy-proposal-would-require-firms-disclose-how-they-use-ai-develop-new-models/416812/",
+      "source": "Nextgov/FCW",
+      "category": "politics",
+      "axis": "policy",
+      "published_iso": "2026-10-26T15:31:00Z",
+      "excerpt": "Americans for Responsible Innovation proposed a framework requiring AI companies to report how they use their own AI to build new models, giving Washington visibility into automated AI R&D as DNI Jay Clayton's task force weighs oversight.",
+      "og_image": "https://cdn.nextgov.com/media/img/cd/2026/10/26/GettyImages_2297779263/open-graph.jpg"
+    },
+    {
+      "title": "India's draft AI regulations could arrive in November",
+      "url": "https://www.medianama.com/2026/10/223-india-ai-regulation-consultation-paper-vaishnaw/",
+      "source": "MediaNama",
+      "category": "politics",
+      "axis": "policy",
+      "published_iso": "2026-10-26T07:46:12Z",
+      "excerpt": "IT Minister Ashwini Vaishnaw says MeitY will issue an AI regulation consultation paper in the coming weeks, seeking feedback from citizens, civil society and industry.",
+      "og_image": "https://www.medianama.com/wp-content/uploads/2023/08/pexels-tara-winstead-8386440-scaled-1.jpg"
+    },
+    {
+      "title": "Dutch government to cut 16 percent of workforce as part of AI efficiency push",
+      "url": "https://www.engadget.com/2297180/dutch-government-to-cut-16-percent-of-workforce-as-part-of-ai-efficiency-push/",
+      "source": "Engadget",
+      "category": "politics",
+      "axis": "policy",
+      "published_iso": "2026-10-26T17:13:20Z",
+      "excerpt": "The Dutch cabinet announced it wants to eliminate 25,000 full-time civil-service jobs by 2035, leaning on AI to make government more efficient.",
+      "og_image": "https://www.engadget.com/img/gallery/dutch-government-to-cut-16-percent-of-workforce-as-part-of-ai-efficiency-push/l-intro-1793034748.jpg"
+    },
+    {
+      "title": "'Digital hostile environment': AI secretly being embedded across Home Office, report claims",
+      "url": "https://www.theguardian.com/politics/2026/oct/27/digital-hostile-environment-ai-secretly-embedded-home-office-report",
+      "source": "The Guardian",
+      "category": "politics",
+      "axis": "policy",
+      "published_iso": "2026-10-27T00:01:02Z",
+      "excerpt": "An Open Rights Group report says AI now runs through UK Home Office tasks from determining asylum seekers' ages to border surveillance, with little public disclosure.",
+      "og_image": "https://i.guim.co.uk/img/media/7e78c9ecda3946a0ac5b06ad0d9dba095ba565d5/636_0_3413_2731/master/3413.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=06dde09a5285a3bd45a1f6d46d9c0390"
+    },
+    {
+      "title": "Digital Agency adds AI agent to Gennai government platform",
+      "url": "https://www.japantimes.co.jp/news/2026/10/26/japan/digital-agency-ai-agent-gennai/",
+      "source": "The Japan Times",
+      "category": "politics",
+      "axis": "policy",
+      "published_iso": "2026-10-26T19:53:10+09:00",
+      "excerpt": "Japan's Digital Agency has added an AI agent to Gennai, the government's in-house generative-AI platform for civil servants.",
+      "og_image": null
+    },
+    {
+      "title": "AI 해킹엔 AI로 맞선다…日 정부, 화이트 해커 전담팀 신설",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710160",
+      "source": "디지털투데이",
+      "category": "politics",
+      "axis": "policy",
+      "published_iso": "2026-10-27T09:45:16+09:00",
+      "excerpt": "아카자와 료세이 일본 경제산업상은 AI 기반 사이버 공격에 대응해 11월 중 정보처리추진기구(IPA)에 화이트 해커 전담팀을 출범시키겠다고 밝혔다.",
+      "og_image": "https://cdn.digitaltoday.co.kr/news/photo/202610/710160_657721_4119.jpg"
+    },
+    {
+      "title": "Law Commission pitches laws, frameworks for AI use in criminal justice",
+      "url": "https://www.lawtimesnews.com/news/general/law-commission-pitches-laws-frameworks-for-ai-use-in-criminal-justice/393553",
+      "source": "Law Times",
+      "category": "politics",
+      "axis": "policy",
+      "published_iso": "2026-10-26T21:40:49Z",
+      "excerpt": "The Law Commission of Ontario presented 29 recommendations, including new laws and frameworks, for responsible AI use by Crown prosecutors and courts.",
+      "og_image": "https://cdn-res.keymedia.com/cms/images/lt/jacq_639286618914876823.png"
+    },
+    {
+      "title": "우상호 \"AI 데이터센터 유치 고발전 유감…투자 환경 악화 우려\"",
+      "url": "https://www.yna.co.kr/view/AKR20261026150851062",
+      "source": "연합뉴스",
+      "category": "politics",
+      "axis": "geopolitics",
+      "published_iso": "2026-10-26T18:57:56+09:00",
+      "excerpt": "우상호 강원도지사는 강릉 AI 데이터센터 유치를 둘러싼 잇단 고발에 대해 기업 유치를 정쟁화하면 투자 환경이 악화된다고 우려했다.",
+      "og_image": "https://img0.yna.co.kr/etc/inner/KR/2026/10/26/AKR20261026150851062_01_i_P4.jpg"
+    },
+    {
+      "title": "서울시, 청년 50만명에 AI 이용권 지원",
+      "url": "https://www.yna.co.kr/view/AKR20261027061700004",
+      "source": "연합뉴스",
+      "category": "politics",
+      "axis": "policy",
+      "published_iso": "2026-10-27T10:30:00+09:00",
+      "excerpt": "서울시가 청년 50만명에게 1년간 고성능 AI 서비스 이용권을 제공하고 맞춤형 과제·AI 첨삭 등 교육을 지원한다.",
+      "og_image": "https://img1.yna.co.kr/photo/yna/YH/2026/08/10/PYH2026081013310001300_P4.jpg"
+    },
+    {
+      "title": "'Autonomy, not flesh': RAF chief outlines AI drone-powered future",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/26/royal-air-force-harv-smyth-ai-drone-future",
+      "source": "The Guardian",
+      "category": "politics",
+      "axis": "geopolitics",
+      "published_iso": "2026-10-26T19:09:51Z",
+      "excerpt": "Air Chief Marshal Harv Smyth says AI and autonomous drones will reduce the need for human involvement in warfare, outlining the RAF's future force design.",
+      "og_image": "https://i.guim.co.uk/img/media/687a21554ca34a6a656bb766648945f6f9e10756/460_0_3891_3115/master/3891.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=66ec1640640214db1b1da0460eb94dd8"
+    },
+    {
+      "title": "AI glasses raise the spectre of mass surveillance",
+      "url": "https://www.rapporteur.com/news/ai-glasses-raise-the-spectre-of-mass-surveillance/",
+      "source": "Rapporteur (Euractiv)",
+      "category": "politics",
+      "axis": "policy",
+      "published_iso": "2026-10-26T03:00:47Z",
+      "excerpt": "A European consumer group warns of societal and privacy risks as AI smart glasses spread, pressing EU regulators. (Published time from outlet RSS pubDate; article page is CAPTCHA-gated.)",
+      "og_image": "https://www.rapporteur.com/content/uploads/2026/10/GettyImages-2296215583-1-1295x788.jpg"
+    },
+    {
+      "title": "오픈AI 회의실 도청 사태, 사우디 연루 '경제 간첩' 수사로 확대",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216621",
+      "source": "AI타임스",
+      "category": "politics",
+      "axis": "geopolitics",
+      "published_iso": "2026-10-25T16:05:16+09:00",
+      "excerpt": "WSJ 보도를 인용, FBI가 오픈AI 회의실 도청 혐의로 기소된 사우디 국적 전직 엔지니어에 대해 사우디 정부 제공 목적의 경제 간첩 혐의 적용을 검토 중이라고 전했다(추가 기소 미정).",
+      "og_image": "https://cdn.aitimes.com/news/photo/202610/216621_220738_369.jpg"
+    },
+    {
+      "title": "중국 AI 컴퓨팅 내년 두 배로…65%는 미국산 칩에 의존",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216673",
+      "source": "AI타임스",
+      "category": "politics",
+      "axis": "geopolitics",
+      "published_iso": "2026-10-26T16:20:17+09:00",
+      "excerpt": "중국이 이용 가능한 AI 컴퓨팅이 내년 말까지 두 배 가까이 늘지만 약 65%는 미국 기업 설계 칩에 의존할 것이라는 전망이 나왔다 — 수출통제 실효성 논쟁과 직결.",
+      "og_image": "https://cdn.aitimes.com/news/photo/202610/216673_220790_5748.jpg"
+    },
+    {
+      "title": "How Black-Box Distillation Works",
+      "url": "https://cset.georgetown.edu/article/how-black-box-distillation-works/",
+      "source": "CSET",
+      "category": "politics",
+      "axis": "geopolitics",
+      "published_iso": "2026-10-26T13:41:00Z",
+      "excerpt": "CSET explains how adversarial black-box distillation works in practice to inform proposed legislation on foreign distillation of U.S. models (analysis; related bill already published 10-25).",
+      "og_image": "https://cset.georgetown.edu/wp-content/uploads/Blog-Dark-Blue.png"
+    },
+    {
+      "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It's Winning Over Listeners",
+      "url": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
+      "source": "WIRED",
+      "category": "politics",
+      "axis": "elections",
+      "published_iso": "2026-10-26T09:00:00Z",
+      "excerpt": "Coyotec, a bilingual AI radio host that advises listeners on dealing with ICE, is gaining audience as broadcasters experiment with synthetic hosts in political communication.",
+      "og_image": "https://media.wired.com/photos/6adbe71b429a21d2813df7cd/191:100/w_1280,c_limit/GGC%20-%205-watermark.jpg"
+    }
+  ]
 }

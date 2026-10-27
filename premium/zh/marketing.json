@@ -2395,6 +2395,150 @@
           "x": "提出该法案的州参议员尼克·皮肖塔诺（Nick Pisciottano）办公室未立即回复置评请求。"
         }
       ]
+    },
+    "marketing/marketing-therealreal-ai-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "cap": "图片：Cath Virginia / The Verge, Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "二手奢侈时尚寄售零售商The RealReal表示，正在更新其机器人防御系统，这实际上让AI代理更难在其网站上购物。"
+        },
+        {
+          "t": "p",
+          "x": "几天前，The Verge报道称，AI代理可被用来钻The RealReal商品预留机制的空子。在该零售商网站上，商品一旦被用户放入购物车，就会进入“保留（on hold）”状态，20分钟内其他顾客无法购买。The Verge借助Meta的Muse，指示AI代理在20分钟保留期一到就立即把The RealReal的商品重新加入购物车，从而在数小时甚至更长时间内阻止其他顾客购买。"
+        },
+        {
+          "t": "p",
+          "x": "首席技术官Luke Friang表示，公司已处理了Muse的这一使用情形。如今，The RealReal的机器人防御配置让所有代理都更难登录、把商品加入购物车以及结账。不过，代理仍可展示The RealReal的商品列表，并把Muse用户引导至商品页面。"
+        },
+        {
+          "t": "p",
+          "x": "Meta在本月的Q3财报电话会上表示，迄今为止购物是Muse最常见的用途，平均购买金额超过$200。该公司称，美国（US）有1000万人在40天内下载了这款应用。零售商们——尤其是Amazon——已禁止代理在其网站上购物。"
+        }
+      ]
+    },
+    "marketing/marketing-fanatics-openai-shopping": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "全球体育MD企业Fanatics与OpenAI合作，推出可推荐与球衣搭配的帽子、袜子等商品的购物功能。该功能从超过150万件商品中，按顾客支持的球队和想要的风格提出搭配组合，帮助顾客浏览商品。"
+        },
+        {
+          "t": "p",
+          "x": "据CNBC当地时间26日报道，Fanatics上线了借助OpenAI编程工具Codex开发的“Shop the Look”功能。它在每个商品页面上，以球队和风格为标准推荐适合一起穿戴的商品，并只用有库存的商品组成搭配。"
+        },
+        {
+          "t": "img",
+          "src": "https://image.zdnet.co.kr/2026/10/27/f7932f2f8a313f149fa817c83ffd792c.png",
+          "cap": "Fanatics与OpenAI合作推出的“Shop the Look”功能。（图片=Fanatics官网）"
+        },
+        {
+          "t": "p",
+          "x": "Fanatics Commerce首席产品官（CPO）Justin Chai表示，顾客单次购物平均花费30分钟以上的情况很常见。随着每周新增1000多件新品，浏览所需的时间也在增加。"
+        },
+        {
+          "t": "p",
+          "x": "Chai CPO表示：“洛杉矶道奇队的球迷，谁都不想同时被推荐旧金山巨人队的商品。”他还说：“在我们的业务中，球队和球员一致极其重要。”"
+        },
+        {
+          "t": "p",
+          "x": "Shop the Look通过用Codex开发的工具分析商品和目录数据，找出相互匹配的产品，并重新评估推荐内容。据Chai CPO介绍，功能上线后，推荐商品的浏览量增加了10%。"
+        },
+        {
+          "t": "p",
+          "x": "据CNBC报道，OpenAI已终止在ChatGPT内直接购买商品的“Instant Checkout”业务，正与零售商合作在ChatGPT内开发专属应用。"
+        }
+      ]
+    },
+    "marketing/marketing-ai-personalized-pricing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "在美国，外界愈发担心零售和餐饮企业利用人工智能（AI）和个人数据，对每位消费者设定不同的价格。企业否认实际采用这种定价方式，但随着消费者不安情绪蔓延，相关监管也接连出台。"
+        },
+        {
+          "t": "p",
+          "x": "据Wall Street Journal（WSJ）当地时间26日报道，美国消费者担心，零售商、餐厅、网约车服务和食品杂货企业等可能利用AI和消费者数据掌握个人的购买倾向或紧迫需求，进而抬高价格。"
+        },
+        {
+          "t": "img",
+          "src": "https://image.zdnet.co.kr/2026/06/06/a307341ee630b390235c542bfeaf83a3.jpg",
+          "cap": "（图片=Pixabay）"
+        },
+        {
+          "t": "p",
+          "x": "近来，企业掌握了消费者购买记录和收入水平等多得多的个人数据，并能借助AI快速分析，担忧因此加剧。围绕电子价签（ESL）的不安尤为明显，但美国和欧洲的相关研究并未发现其导致按需求激增涨价的明确证据。"
+        },
+        {
+          "t": "p",
+          "x": "Walmart和McDonald's等大企业也表示，不会进行个人化定价。"
+        },
+        {
+          "t": "p",
+          "x": "尽管如此，监管动向仍在扩大。纽约州出台法律，要求企业在商品定价中使用算法时告知消费者。马里兰、康涅狄格、新泽西等州今年也制定了限制部分基于个人数据定价方式的法律。美国联邦贸易委员会（FTC）今年夏天也提出了规制利用个人信息进行价格歧视行为的方案。"
+        }
+      ]
+    },
+    "marketing/marketing-google-ads-ai-max-experiment": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-click-logo-BmIQBDor.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google Ads更新了AI Max搜索广告系列的常见问题页面，新增了关于1-click AI Max实验的部分。Google在文档中写道：“如果您的账户符合条件，您可能会在Recommendations页面上看到1-click实验建议。”"
+        },
+        {
+          "t": "p",
+          "x": "我是通过Hana Kobzova注意到这一更新的，她在PPC News Feed上写道：“在Search广告系列中测试AI Max变得更简单、更精细了。符合条件的账户现在可以通过1-click设置，经由Recommendations自动创建50/50实验。此外，广告主还可以在广告组层级手动细化实验。”"
+        },
+        {
+          "t": "p",
+          "x": "新增部分内容如下："
+        },
+        {
+          "t": "p",
+          "x": "1-click AI Max实验如何运作？如果您的账户符合条件，您可能会在Recommendations页面上看到1-click实验建议。选择Create 1-click experiment automatically后，系统会设置一个50/50拆分测试，将您的基础Search广告系列与AI Max实验组进行比较，无需手动配置。"
+        },
+        {
+          "t": "p",
+          "x": "我认为Google在过去一个月里还在这份文档中加入了以下部分："
+        },
+        {
+          "t": "p",
+          "x": "能否在设置实验时针对特定广告组测试AI Max？可以。在Experiments标签下创建AI Max实验时，您可以在构建实验过程中使用精细控制。这样，您可以为实验组中的单个广告组有选择地启用或停用Search term matching或Asset optimization，而对照组则保持基础广告系列设置不变。"
+        }
+      ]
+    },
+    "marketing/marketing-review-summary-search-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/google-ai-review-summaries-search-ads-positive-only-billboard-hand.jpg",
+          "cap": "Google AI在4个市场只挑选正面评价，生成广告主无法编辑的Search广告摘要"
+        },
+        {
+          "t": "p",
+          "x": "Google发布了一个帮助页面，介绍在美国、英国、澳大利亚和印度的Search广告中显示的AI-generated评价摘要。这些摘要从网络各处的评价中提取正面评论放入广告文字，广告主却无法编辑其中关于自己的内容。PPC News Feed于2026年10月24日首先报道了该页面，并注明线索来自Hana Kobzová。"
+        },
+        {
+          "t": "p",
+          "x": "Google表示：“Search上的评价摘要是对在线评价的AI-powered摘要，直接作为Search广告的一部分显示。”“这些摘要只包含正面内容。”这个未标注日期的页面没有说明评价来源和最低评价数量，也没有提供开关该功能的方法。"
+        },
+        {
+          "t": "p",
+          "x": "适用范围包括Search广告系列、Google.com上的所有展示位置、US、AU、UK和IN的英语，以及除药品等敏感类别外的所有行业。页面称：“只有在预测能提升广告效果时，Google才会展示评价摘要。”但没有定义所用指标。"
+        },
+        {
+          "t": "p",
+          "x": "Google表示：“由于评价摘要代表用户反馈，广告主无法直接编辑或自定义生成的文字。”页面没有引用任何测试结果或提升数据，也没有说明账户层级的自动素材控制是否适用。该形式自2025年12月起已在实际搜索结果中测试。"
+        }
+      ]
     }
   }
 }

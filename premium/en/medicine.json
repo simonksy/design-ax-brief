@@ -2307,6 +2307,104 @@
           "x": "The device is now available to U.S. consumers, and a gradual international launch is underway."
         }
       ]
+    },
+    "medicine/medicine-heidi-scribe": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The use of an AI-driven ambient scribe in outpatient practice was associated with reductions in time spent taking notes and increased note length, but other productivity measures were largely unchanged, researchers found."
+        },
+        {
+          "t": "p",
+          "x": "Among all users, median note-active time decreased from 21 minutes to 18.6 minutes and median note length increased from 4,854 to 5,187 characters after clinicians enrolled in Heidi, according to Jennifer P. Stevens, MD, of Beth Israel Deaconess Medical Center in Boston, and colleagues. However, no differences were seen in same-day or after-hours note closure, or in clinical productivity, they reported in Annals of Internal Medicine."
+        },
+        {
+          "t": "p",
+          "x": "Of 902 clinicians at the 14-hospital Beth Israel Lahey Health system who met inclusion criteria, 67.0% used Heidi at least once. Among high users, the immediate reduction in note-active time was significantly larger (-2.50 minutes) than among enrolled nonusers (-0.29 minutes) and low users (-0.78 minutes)."
+        },
+        {
+          "t": "p",
+          "x": "In an accompanying editorial, Kirsten Ostherr, PhD, MPH, of Rice University noted the study didn't capture time spent editing notes within Heidi, which \"raises an important question about whether ambient scribes relocate documentation burden rather than reduce it.\""
+        }
+      ]
+    },
+    "medicine/medicine-pa-ai-disclosure": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-03/istock-2214959014.jpg?h=140710cd&itok=VthZy7qr",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "The Pennsylvania House of Representatives approved House Bill 1925, which includes disclosure rules for healthcare facilities and restrictions on insurers' reliance on AI during utilization review, by a 144-59 vote on Sept. 30. The amended bill was referred to the Senate Institutional Sustainability and Innovation Committee on Oct. 14 and remains pending in the Senate."
+        },
+        {
+          "t": "p",
+          "x": "If enacted, the legislation would require healthcare facilities, including imaging centers, to disclose their use of AI in clinical decision-making through website postings and written patient notifications, once per episode of care. Facilities would be required to review AI system performance at least annually and ensure that the technology does not supersede providers' independent clinical judgment."
+        },
+        {
+          "t": "p",
+          "x": "Before issuing or upholding an adverse coverage determination, such as a prior authorization denial, individuals conducting utilization review would be required to review clinical records and make their own independent judgment rather than relying on AI recommendations without human oversight. The American College of Radiology expects similar proposals during 2027 state legislative sessions."
+        }
+      ]
+    },
+    "medicine/medicine-coreline-aorta": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Seoul, South Korea-based AI developer Coreline Soft has received U.S. Food and Drug Administration (FDA) 510(k) clearance for Aview Aorta Metrics, its software for quantitative aortic assessment on chest CT."
+        },
+        {
+          "t": "p",
+          "x": "The software automatically segments the aorta from chest CT images, classifies aortic zones, and measures the diameter of each zone, according to the vendor. It also provides straightened curved planar reformation, cross-sectional, and 3D views, as well as analysis reports, Coreline Soft said."
+        },
+        {
+          "t": "p",
+          "x": "The clearance is Coreline Soft's 13th FDA 510(k) clearance, according to the company. Aview Aorta Metrics joins the firm's Aview platform for analysis of multiple diseases on chest CT, which includes Aview LCS and Aview Lung Nodule CAD for lung nodule detection and analysis, and Aview CAC for coronary artery calcium scoring on noncontrast chest CT."
+        }
+      ]
+    },
+    "medicine/medicine-night-shift": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Chest x-ray reading accuracy declines significantly in fatigued radiology residents after overnight shifts, and AI offers little help, according to a study from Aachen University Hospital in Germany published October 22 in European Radiology."
+        },
+        {
+          "t": "p",
+          "x": "Ten radiology residents each interpreted three sets of 33 bedside chest x-rays, two sessions before a first-call on-site night shift and one immediately after, the latter with and without AI assistance from a model the team had previously developed."
+        },
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/ai-fatigue.c48mc7dd9z.jpg?auto=format%2Ccompress&fit=max&q=70&w=400",
+          "cap": "Technical setup and customized DICOM viewer with screen-based eye tracking; with AI assistance, the template was pre-filled with the model's suggestions. European Radiology"
+        },
+        {
+          "t": "p",
+          "x": "Six of 10 residents were classified as fatigued. Their diagnostic accuracy declined significantly post-shift, from a κ of 0.71 to 0.61 (p < 0.001); non-fatigued readers showed a smaller but still significant decline (κ, 0.72 to 0.65). AI assistance did not significantly improve accuracy in either group, and shortened reporting times only in non-fatigued readers (by 9.9 seconds)."
+        },
+        {
+          "t": "p",
+          "x": "\"Night-shift-induced fatigue impaired diagnostic accuracy without slowing reporting speed, raising patient safety concerns. The utilized AI model did not restore pre-shift performance,\" the researchers noted."
+        }
+      ]
+    },
+    "medicine/medicine-rivanna-boneenhance": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Rivanna has received U.S. Food and Drug Administration (FDA) 510(k) clearance for BoneEnhance, a machine-learning software module for its Accuro XV diagnostic ultrasound system."
+        },
+        {
+          "t": "p",
+          "x": "BoneEnhance identifies bone and surrounding tissues within volumetric datasets acquired by the system’s 3D probe and highlights them with color-coded overlays on 2D B-mode images, while leaving the original anatomical data visible, according to the company. In an independent test set of 233 volumetric datasets from five sites, per-volume label prediction accuracy ranged from 95.1% to 100%, Rivanna said."
+        },
+        {
+          "t": "p",
+          "x": "Rivanna is also developing an investigational module to help clinicians evaluate potential extremity fractures on ultrasound images. The firm said the work has been supported by the U.S. Biomedical Advanced Research and Development Authority."
+        }
+      ]
     }
   }
 }

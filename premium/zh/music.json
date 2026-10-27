@@ -7848,6 +7848,102 @@
           "x": "诉状称，即便Anthropic加装了防护措施，Claude在被要求时仍会“for a modern audience”（面向现代听众）重现特定歌曲。曾代理Marvin Gaye遗产方“Blurred Lines”案的首席律师Richard Busch认为，Anthropic正在利用这些歌曲制作“unlicensed derivative works”（未经授权的衍生作品）。"
         }
       ]
+    },
+    "music/music-mi-midi-2": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "稀疏自编码器（SAEs）无需预先定义标签即可揭示生成模型的特征，但在语言模型中，用于解释这些特征的证据已被证明难以可靠判断哪些特征能操控输出。据我们所知，SAE特征的解释能否预测音乐生成模型中的控制效果，尚未有人检验。我们开发了一套在text-to-MIDI生成中发现并评估SAE特征的端到端流程，并将其应用于text2midi和MIDI-LLM。"
+        },
+        {
+          "t": "p",
+          "x": "该流程通过与音乐指标的相关性、共享乐器音色程序以及自动生成的描述来刻画特征，并分别设置对照：音符密度校正、匹配的非激活片段以及置换校准。随后通过干预测试候选特征，直接在生成的MIDI中测量，并与未修改的生成结果及匹配的随机方向对比，在筛选中排序，再用新的提示词确认选出的特征。经受住这些对照的证据，指向能够操控输出的特征。"
+        },
+        {
+          "t": "p",
+          "x": "在配器方面，描述的表现超过了置换对照；其中一个描述提到合成主音音色程序的特征，在预先设定的确认实验和不重叠提示词的复现实验中都引入了该音色，并在独立训练的字典中再次出现。按密度校正相关性选出的特征整体上使目标指标出现小幅正向变化，而按原始相关性选出的特征则没有变化。一份图谱为目标筛选中的每个特征提供了MIDI、钢琴卷帘和音频示例。"
+        }
+      ]
+    },
+    "music/music-movin-to-the-sun": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-26T105845.322.png?fit=2000%2C1500&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "‘Movin’ to the Sun’是一首十足的舞池炸场曲，切碎重组了舞曲传奇Ultra Naté的人声。它同时也是一首起源于AI-music平台Suno生成歌曲的作品。这首歌在Spotify上的播放量达206.6m 次，署名为Hugel和Ultra Naté，但其最初创作者是以Imael Angel之名录制作品的匈牙利艺人Gángó Bernadett。"
+        },
+        {
+          "t": "p",
+          "x": "Hugel在一段Instagram视频中说：“我们从Imael Angel开始，她写了歌词和部分旋律。她把这些放进Suno……之后，我从她做的东西里采样了一些片段。”“我重新编排了这首曲子……基本上我们把一切都重新制作了一遍。”Ultra Naté的人声叠加在原来的Suno-generated人声之上。"
+        },
+        {
+          "t": "p",
+          "x": "这首曲目在各流媒体服务上没有任何AI披露标签。按照IFPI-led的标注提案，它很可能会被打上小写“ai”标签；而根据唱片公司提出的榜单规则，它可能不符合所用生成式AI服务须“获得适当授权且合法”的要求——尽管Suno已获得WMG、BMG和Believe/TuneCore的授权。正如我们所说，这是灰色地带。"
+        }
+      ]
+    },
+    "music/music-charlotte-de-witte-nava": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.ra.co/images/news/2026/charlotte-navanull.png"
+        },
+        {
+          "t": "p",
+          "x": "Charlotte de Witte（夏洛特·德·维特）即将推出的EP将由一位AI歌手献声。这位比利时techno艺术家于10月20日星期二在Instagram上预告了这次合作，并发布了\"Tales Of The Desert\"的片段，其中包含AI生成（AI-generated）的波斯歌手项目NAVA的演唱。随附的AI视频以全景镜头呈现了de Witte与NAVA置身广阔盐滩的画面。"
+        },
+        {
+          "t": "p",
+          "x": "NAVA由英籍伊朗裔（British-Iranian）数字艺术家Farbod Mehr于2025年创建，他利用AI以及取材自伊朗艺术与历史的图像开发了这位虚拟歌手。Mehr对The Guardian表示，这个虚拟形象代表着因该国神权威权政体的严苛法律而无法在公开场合唱歌的伊朗女性。NAVA此后已在Instagram上积累了775,000名粉丝。"
+        },
+        {
+          "t": "p",
+          "x": "\"Tales Of The Desert\"收录于de Witte即将发行的三曲EP《Azadi》（波斯语意为\"自由\"），将于下月通过她的厂牌K NT XT推出。三首曲目均有NAVA的演唱。（Resident Advisor已联系de Witte请其置评。）"
+        }
+      ]
+    },
+    "music/music-djustify": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "自动DJ系统大多面向电子舞曲，其规整的结构让基于规则的混音相对容易。人声丰富的流行音乐则更难：下一首放什么、从哪里切入、用哪种过渡彼此牵连，固定规则难以处理。"
+        },
+        {
+          "t": "p",
+          "x": "我们提出DJustify，一个面向流行音乐的AI-DJ，它把LLM置于“推理–提议–验证–修复”循环中，让其一并选择下一首曲目、切入点和混音技法。LLM会采样多个过渡方案；随后由外部声学检查器为渲染出的音频打分，并在检查未通过时触发修复。借助采样，每对曲目都保留多个候选过渡，而非一种固定混音。"
+        },
+        {
+          "t": "p",
+          "x": "在盲听测试中，我们的过渡优于Mosaikbox、重新实现的交叉淡化，以及沿用交叉淡化切入点的切入点基线；最后一项对比表明，差距主要来自切入点的位置。同一规划器还会沿着情绪曲线挑选并编排一整套曲目：与去除故事的消融版本相比，这提升了叙事连贯性，而在一套曲目内，故事与过渡评分与人类DJ之间没有可测量的差距。检查器主要提升的是可靠性，而非平均质量：它能修复罕见但听得出的错误，例如被截断的人声，而规划器本身仍是非确定性的。"
+        }
+      ]
+    },
+    "music/music-spotify-agent-layer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-23T115515.907.png?fit=2000%2C1500&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "继Meta的Muse、OpenAI的Dots和Anthropic的Claude Duet等个人智能体接连发布之后，Spotify的co-CEOs（联席CEO）Gustav Söderström与Alex Norström在公司季度财报电话会上用大量时间谈论这些产品。"
+        },
+        {
+          "t": "p",
+          "x": "“Spotify如今是一个智能体，你不仅可以在我们的应用里点击它，还可以和它对话、向它提问、给它下指令，”Söderström对分析师表示。“面向智能体时代，我们押注消费者会使用众多智能体，而Spotify将在所有这些智能体之内和之间，成为授权内容遥遥领先的最佳媒体平台。”"
+        },
+        {
+          "t": "p",
+          "x": "被问及Spotify是否有沦为“后端供应商”的风险时，他说：“所有收听都发生在Spotify上。我们不会把音乐或任何东西发送给这些智能体。”他补充说，Spotify被重构为一个智能体，“让其他智能体可以极其轻松地接入我们，并实现智能体之间的对话。”"
+        },
+        {
+          "t": "p",
+          "x": "LightShed Partners的Rich Greenfield问道，帮用户取消闲置订阅的智能体是否会带来流失风险。Söderström回应称，Spotify“永远不会押注于你忘记自己的订阅”，并认为智能体反而可以帮助用户看清Spotify更划算。"
+        }
+      ]
     }
   }
 }

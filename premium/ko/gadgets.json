@@ -14884,6 +14884,149 @@
           "x": "유료 Workspace 고객만 쓰는 기능도 아니다. 자격을 갖춘 Google Workspace, Workspace Individual, 개인 Google 계정 사용자라면 지금 웹, Android, iOS에서 쓸 수 있다."
         }
       ]
+    },
+    "gadgets/gadgets-orisa": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/recovering-deleted-ai-chats.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Manisha Priyadarshini / Digital Trends"
+        },
+        {
+          "t": "p",
+          "x": "AI 챗봇과 나눈 대화를 지우면 정말 사라진다고 믿었다면 생각을 고쳐야겠다. Georgia Tech 연구진이 포렌식 도구 ORISA를 만들었다. 휴대폰에서 삭제된 대화를 찾아내, 대화를 계속 이어갈 수 있는 챗봇 세션으로 재구성까지 한다."
+        },
+        {
+          "t": "p",
+          "x": "로컬 AI 어시스턴트는 대화를 클라우드로 보내지 않는다. 대신 앱이 도는 동안 그 데이터가 휴대폰 작업 메모리에 남는다. 그래서 앱에서 대화를 지워도 꼭 사라지지는 않는다. ORISA는 남은 조각을 찾아 이어 붙이고, 실제로 작동하는 AI 세션으로 되살린다."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/overview-of-orisa.jpg?resize=2238%2C812&ssl=1",
+          "cap": "ORISA 설계 개요. Georgia Tech"
+        },
+        {
+          "t": "p",
+          "x": "한 실험에서 연구진은 Project Note Keeper라는 가상의 어시스턴트에 사실 100개를 입력한 뒤 대화를 삭제했다. 그때 라이브 세션이 꺼낼 수 있는 사실은 14개뿐이었는데, ORISA는 26개를 복구했다. Android 앱 10개와 AI 모델 세 개를 엮은 60개 테스트 구성에서도 ORISA는 삭제된 대화 데이터를 되찾았다."
+        },
+        {
+          "t": "p",
+          "x": "연구진은 누군가 AI 어시스턴트와 무엇을 공유했는지 수사관이 재구성할 때 ORISA가 도움이 될 수 있다고 설명한다. 챗봇 조언이 환자에게 해를 끼쳤을지 모르는 사건이 그런 예다. 온디바이스 AI 사용자에게는 반대로 개인정보 걱정거리가 생긴다. ORISA는 수사관용 포렌식 도구여서 휴대폰 메모리와 저장소 사본이 있어야 하고, 다른 활동이 데이터를 덮어쓰면 복구가 어려워진다."
+        }
+      ]
+    },
+    "gadgets/gadgets-rayban-meta-training": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ray-ban-meta-ki-training-teaser.jpg",
+          "cap": "프레임에 카메라가 달린 Ray-Ban Meta 안경. 이 설정을 끄지 않으면 Meta는 AI 요청에서 나온 이미지를 저장한다."
+        },
+        {
+          "t": "p",
+          "x": "Ray-Ban Meta 안경에 표지판에 뭐라고 쓰여 있는지 물으면 사진이 Meta로 넘어간다. Meta의 시각 데이터 도움말 페이지를 보면, 회사는 AI 요청에서 나온 이 이미지를 저장했다가 자동화 시스템이나 사람의 검토를 거쳐 모델 학습에 쓸 수 있다. 9월 24일부터는 이 기능을 끌 수 있다. 음성 설정은 따로 있는데, 사는 곳에 따라 손댈 수 있는 범위가 다르다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/2/6/csm_ray-ban-meta-ai-training-settings-en_890c1a5d02.png",
+          "cap": "시각 데이터 설정은 AI 요청에서 나온 이미지에만 적용된다. US 밖에서는 음성 녹음에 별도 설정이 있다."
+        },
+        {
+          "t": "p",
+          "x": "Meta AI 앱에서 안경 설정을 열고 Experiences 아래 Meta AI를 누른 뒤 “Store visual data from AI experiences”(AI 경험의 시각 데이터 저장)를 끈다. 끄면 시각 데이터는 사람이 검토하지 않고 학습에도 쓰이지 않으며, 요청에 답한 뒤에는 저장되지 않는다. 대신 시각 리마인더 같은 기능이 제한될 수 있다. 변경은 그 뒤부터만 적용된다."
+        },
+        {
+          "t": "p",
+          "x": "음성은 지역마다 처리 방식이 다르다. US에서는 대화 기록과 녹음이 기본으로 저장되고, 소유자는 2025년 4월에 이를 끌 선택지를 잃었다. UK와 독일 고지에는 사용자가 고를 수 있다고 적혀 있다. 저장된 녹음은 최대 일 년 보관되고, 훈련받은 직원이 검토할 수 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_ray-ban-meta-ai-training-steps-en_1128925689.png",
+          "cap": "Meta AI 앱에서 거치는 다섯 단계로, 안경마다 반복해야 한다. 예전 음성 녹음은 직접 삭제해야 한다."
+        },
+        {
+          "t": "p",
+          "x": "주변 사람을 보호하는 설정은 없다. Messenger나 Instagram에서 Meta AI와 공유한 이미지에도 시각 데이터 설정은 적용되지 않는다."
+        }
+      ]
+    },
+    "gadgets/gadgets-rtx-tensor-throttle": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/4Yvp7ck4v6d8JPBoNXVPfe.jpg",
+          "cap": "Nvidia GeForce RTX 4090 Founders Edition (이미지 출처: Nvidia)"
+        },
+        {
+          "t": "p",
+          "x": "VideoCardz에 따르면 모더들이 펌웨어 익스플로잇으로 Nvidia RTX 20, 30, 40-series GPUs의 AI 성능을 절반으로 묶어 둔 제한을 푸는 방법을 찾아냈다. 제한을 풀면 RTX 4090은 최대 텐서 연산 속도가 두 배로 뛰고, RTX 3090 Ti는 행렬 연산이 최대 80% 빨라진다. 실제 작업에서 얻는 이득은 훨씬 작다. 챗봇 토큰 속도는 메모리 대역폭이 좌우하므로 거의 그대로다."
+        },
+        {
+          "t": "p",
+          "x": "Nvidia가 GeForce에 건 제한은 FP32-accumulate 연산을 카드별 FP16-accumulate 속도의 절반으로 묶는다. turing-unlock(RTX 2080 Ti), gpu-unlock(Ampere), gpu-unlock-ada(RTX 4090) 세 프로젝트가 비공식 Linux 모듈로 잠금을 풀어 주지만, RTX 50(Blackwell)은 지원하지 않는다."
+        },
+        {
+          "t": "p",
+          "x": "Ada 포크 개발자의 RTX 4090은 FP16 기준 165.6에서 331.6 TFLOPS로 올라갔다. 그런데 한 소유자가 돌린 행렬 곱셈 벤치마크에서는 cuBLAS GEMM 중앙값 개선 폭이 12–34%(FP16), 최대 20%(BF16)에 그쳤다. Ampere에서도 LLM prefill은 14–36% 나아졌지만, LLM decode와 INT8은 “거의 같은” 수준이었다."
+        },
+        {
+          "t": "p",
+          "x": "turing-unlock README는 이 모드가 “하드웨어를 손상시킬 수 있다”고 경고한다. KohakUnlock도 “GPU나 호스트를 멈추게 하거나, 부팅을 막거나, 데이터를 손상시키거나, 하드웨어를 손상시킬 수 있다”고 적어 두었다."
+        }
+      ]
+    },
+    "gadgets/gadgets-even-g2-update": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Even-Realities-G2-smart-glasses-13.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Even Realities가 오늘 G2 스마트 글라스용 새 소프트웨어 버전을 배포한다고 발표했다. 사용자가 알려준 것만 기억하는 개인 지식 베이스도 들어 있다."
+        },
+        {
+          "t": "p",
+          "x": "Conversate에는 새 “Pro Mode”가 생긴다. Knowledge Base에서 데이터를 끌어오는 모드다. Knowledge Base는 사용자가 고른 정보와 데이터를 기억해 두는 기능이다. 모두 G2 버전 2.4.0 업데이트에 담기며, AI 인터페이스도 Even AI 2.0으로 올라간다."
+        },
+        {
+          "t": "p",
+          "x": "Conversate 녹음과 직접 올린 파일은 EU에 있는 보안 Google Cloud Platform 서버와 동기화된다. Even AI 2.0과 진행 중인 Conversate 세션은 Knowledge Base에서 맥락을 끌어온다. 설정할 때 Conversate 기록을 최대 10개까지 고를 수 있고, 자동 업로드를 켜지 않으면 새 세션은 자동으로 추가되지 않는다."
+        },
+        {
+          "t": "p",
+          "x": "Even AI 2.0에는 기능이 몇 가지 더해졌다. 터치 센서를 길게 눌러 부를 수 있고, 웨이크 워드를 다시 말하지 않아도 여러 턴 대화가 이어지며, AI 채팅에서 Even Hub 앱을 열고 설정을 바꿀 수 있다. Knowledge Base와 Conversate Pro Mode는 오늘 월간 사용 한도가 걸린 베타로 나온다. 거북 등딱지 무늬 새 색상도 추가됐다."
+        }
+      ]
+    },
+    "gadgets/gadgets-topc-txa2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/2fiT6TDsU78hzS4Mg3E8Rm-1920-80.png",
+          "cap": "이미지 출처: Minimachines"
+        },
+        {
+          "t": "p",
+          "x": "중국 제조사 TOPC가 $7,000 가까운 구리색 소형 워크스테이션 TXA2를 내놓았다. 192GB LPDDR5X 메모리를 달았고 SSDs는 네 개까지 들어간다. 모니터는 최대 8K 해상도로 네 대까지 동시에 물린다."
+        },
+        {
+          "t": "p",
+          "x": "심장부는 AMD Ryzen AI Max+ PRO 495다. CPU 코어 16개, 32스레드에 Radeon 8065S 그래픽이 들어 있다. 내장 그래픽이 시스템 메모리를 최대 160GB까지 끌어 쓰니 무거운 AI 모델도 로컬에서 넉넉히 돌린다. 다만 8,533MHz 메모리는 메인보드에 납땜돼 업그레이드가 안 된다."
+        },
+        {
+          "t": "p",
+          "x": "저장 장치용 M.2 2280 NVMe 슬롯은 네 개다. 두 개는 PCIe 4.0 x4, 나머지 두 개는 PCIe 4.0 x2로 동작한다. 단자로는 10GbE, 2.5GbE, HDMI 2.1, DisplayPort 2.1, USB4, Wi-Fi 7, Bluetooth 5.4를 갖췄다."
+        },
+        {
+          "t": "p",
+          "x": "섀시 부피는 약 2.5리터, 무게는 2.319 kg 이며 팬 네 개가 들어간다. 전력은 최대 140W, 지속 120W 까지 감당한다고 알려졌다. 소음 수준은 TOPC가 공개하지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "가격은 2TB 구성이 $6,499, 4TB 구성이 $6,799부터이며, 여기에 배송비 $69가 붙고 수입 관세와 세금은 별도다. 이름이 덜 알려진 브랜드에 보증도 일 년뿐이라, $7,000 가까이 쓰기엔 모험이 크다."
+        }
+      ]
     }
   }
 }

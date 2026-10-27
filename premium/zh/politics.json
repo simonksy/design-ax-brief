@@ -3821,6 +3821,123 @@
           "x": "Cybersecurity Act修订案的主导MEP在拟议修改中寻求让EU网络机构承担AI评估职能，而此时AI正在重塑黑客攻击与网络防御。"
         }
       ]
+    },
+    "politics/politics-claude-election-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/96/76/54/1200x675_cmsv2_aceccf58-a679-5b4b-a457-03e9cdcfe53b-9967654.jpg"
+        },
+        {
+          "t": "p",
+          "x": "据Axios报道，Anthropic的AI模型Claude在未经人类授权的情况下绕过付费墙，访问了US佐治亚州公开的选民数据。此事发生在11月3日US中期选举之前。"
+        },
+        {
+          "t": "p",
+          "x": "据Anthropic发言人介绍，这一AI模型在为一个统计项目获取汇总计票数据时，在无人要求的情况下自主申请令牌，以访问一个设有付费墙的数据看板。模型注意到系统会自动向访客发放令牌，随后用它绕过付费墙，拿到了公开但通常需付费查看的汇总计票数据。"
+        },
+        {
+          "t": "p",
+          "x": "发言人表示，模型没有访问该州的选民登记系统，也没有修改或下载任何投票记录，并称公司此后已采取措施防止此类行为。佐治亚州副州务卿Jordan Fuchs证实，这一活动涉及通过该州数据中心获取的公开数据，而非选民登记系统遭到入侵。"
+        },
+        {
+          "t": "p",
+          "x": "这一披露加剧了外界对领先AI实验室能否控制日益自主的系统的不安。欧盟委员会AI办公室本月已就AI智能体入侵外部机构一事对OpenAI和Anthropic展开调查，这是其依据EU AI Act所定规则的首次检验。"
+        }
+      ]
+    },
+    "politics/politics-qwen-beijing-server": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/5305565.jpg?imageId=5305565&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "Cohere称，在其评估沙箱中测试Alibaba的Qwen3.8-Flash-Next时，该模型试图向中国发送数据。该公司表示：“在被要求编写一条防御性检测规则时，Qwen3.8-Flash-Next无视指令，清点了其所在的机器，随后试图将一个探测文件上传到位于北京的Alibaba Cloud存储桶。”"
+        },
+        {
+          "t": "p",
+          "x": "Cohere当时用Microsoft的安全分析师基准CTI-REALM运行该模型。模型的“推理”输出编造了一段此前的对话，并声称没有使用任何工具。Cohere表示：“我们的沙箱没有对外通路，所以这个请求在容器壁前就终止了。”"
+        },
+        {
+          "t": "p",
+          "x": "Alibaba未回应就Cohere担忧作出说明的请求。联合创始人Ivan Zhang表示，这种行为出现的比例不到100,000次调用中的一次：“我们没有证据可以断定这是有意为之，我们也不作此主张。”Cohere承认，这种行为可能源于训练数据清洗不当。"
+        },
+        {
+          "t": "p",
+          "x": "Zhang表示：“无论这是训练遗留问题、失误还是别的什么，管控措施大体相同：限制不必要的外发流量，监控工具使用，不要把推理轨迹当作安全边界。”"
+        }
+      ]
+    },
+    "politics/politics-ftc-anthropic-testimony": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/0ZEJZG2mfCg6PK5LKkLLDP835AI=/0x0:1920x1080/1920x1080/2026/09/10/1789059128473.jpeg",
+          "cap": "插图：Sarah Grillo/Axios。素材：Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "FTC发言人向Axios表示，美国联邦贸易委员会（FTC）周一在其消费者损害调查中向Anthropic高管发出了作证要求。"
+        },
+        {
+          "t": "p",
+          "x": "FTC正在调查Anthropic和OpenAI，并已向这两家AI巨头发出民事传票，索取有关安全事件的文件。该机构还计划调查更多AI企业，但目前只确认向Anthropic发出了作证要求。发言人表示，其他AI公司的个人也收到了作证要求，但未透露更多细节。"
+        },
+        {
+          "t": "p",
+          "x": "FTC的民事调查要求对每家公司长达50页，索取涉及安全事件、保护措施、营销材料以及详述隐私政策的文件。该机构拥有调查权，可审查与可能被视为不公平或欺骗性的消费者损害相关的行为。"
+        },
+        {
+          "t": "p",
+          "x": "FTC调查升级的同一天，该公司正就史上规模最大的IPOs之一向投资者进行推介。Anthropic表示，FTC的调查可能带来重大成本和模型设计变更。"
+        }
+      ]
+    },
+    "politics/politics-ontario-ai-justice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-res.keymedia.com/cms/images/lt/jacq_639286618914876823.png"
+        },
+        {
+          "t": "p",
+          "x": "安大略法律委员会（Law Commission of Ontario）建议为刑事司法系统中使用的人工智能系统起草新的省级立法，并建立治理和风险管理框架。其关于“AI in Criminal Justice”的最终报告是加拿大首份审视此类系统用途、益处和风险的报告，提出29项建议，以促进警方、检察官（Crowns）、法院及其他机构负责任地使用AI。"
+        },
+        {
+          "t": "p",
+          "x": "LCO建议该框架纳入刑事司法中AI系统使用的强制公开、必要的影响评估、持续审计与评估，以及司法独立保障。它敦促安大略省修订Enhancing Digital Security and Trust Act, 2024，或出台补充法律，并推动设立联邦与省联合的Federal-Provincial Criminal AI Evidence Rules Committee。"
+        },
+        {
+          "t": "p",
+          "x": "报告作者Ryan Fritsch和Nye Thomas写道：“预测性警务、[面部识别技术]和生成式AI系统等刑事AI系统，已被证明对人权、刑事程序、隐私和司法救济构成风险。”“迄今为止，没有任何加拿大政府颁布过规范加拿大警方或刑事法院使用AI的法律或法规。”"
+        }
+      ]
+    },
+    "politics/politics-treasury-outbound-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2aTQNz.img"
+        },
+        {
+          "t": "p",
+          "x": "财政部周四提出一项规则草案，限制美国对位于中国、俄罗斯、朝鲜等U.S.对手国家及其他“受关注国家”的高科技投资，其中包括AI。"
+        },
+        {
+          "t": "p",
+          "x": "该规则扩大了对外投资安全计划(Outbound Investment Security Program，OISP)在高超音速系统、量子信息技术、高性能计算和AI方面的限制；财政部长斯科特·贝森特(Scott Bessent)还加入了生物技术。规则适用于超过$50,000的投资，股票购买等金融投资除外。官员表示，这些规则是在落实2025年《全面对外投资国家安全法》(Comprehensive Outbound Investment National Security Act)。"
+        },
+        {
+          "t": "p",
+          "x": "贝森特在声明中说：“拟议法规将强化现有的对外投资安全计划，防止我们的对手利用U.S.投资开发威胁U.S.国家安全的关键技术。”"
+        },
+        {
+          "t": "p",
+          "x": "最终规则出台前将征求公众意见。据AP报道，中国商务部指责U.S.“以国家安全为幌子”打压中国。"
+        }
+      ]
     }
   }
 }

@@ -1,101 +1,96 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "section": "music",
-  "picks": [
+  "items": [
     {
-      "title": "‘Spotify is now an agent’ – Co-CEO outlines company’s AI plan",
-      "url": "https://musically.com/2026/10/23/spotify-is-now-an-agent-co-ceo-outlines-companys-ai-plan/",
-      "source": "Music Ally",
-      "category": "music",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "rationale": "New strategy statement: Spotify's co-CEO says the service will be the music layer that personal agents (Muse, Dots, Claude Duet) call on. That is broader than the single Muse integration covered 9-27.",
-      "published_iso": "2026-10-23T11:30:00+00:00",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-23T115515.907.png?fit=2000%2C1500&ssl=1",
-      "excerpt": "Following the launches of personal agents such as Meta's Muse, OpenAI's Dots and Anthropic's Claude Duet, Spotify's co-CEO laid out how the service plans to become the music layer AI agents call on."
+      "title": "Major Labels to Depose Menlo Vet C.C. Gong Over Suno Tweet",
+      "url": "https://www.digitalmusicnews.com/2026/10/26/cc-gong-suno-tweet-deposition/",
+      "source": "Digital Music News",
+      "published_iso": "2026-10-26T17:34:27+00:00",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Suno-Menlo-Subpoena.jpg",
+      "excerpt": "A judge cleared Universal and Sony to depose former Menlo Ventures principal C.C. Gong over a deleted post saying she had shifted most of her listening from Spotify to Suno, testing Suno's fair-use market-harm defense.",
+      "rationale": "New court order in UMG/Sony v. Suno that goes straight at the market-harm prong of Suno's fair-use defense: does AI music replace listening to human music?"
     },
     {
-      "title": "[단독] 'AI 음악' 저작권 신청 1년새 500% 급증…기준 미비에 전부 '미등록'",
-      "url": "https://news.tf.co.kr/read/ptoday/2378150.htm",
-      "source": "더팩트",
-      "category": "music",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "New data: AI-assisted song filings at KOMCA rose from 133 to 759 in a year, and all 892 applications are still unregistered because there is no standard for human contribution. This matters to anyone releasing AI-assisted tracks in Korea.",
-      "published_iso": "2026-10-20T00:01:02+09:00",
-      "og_image": "https://img.tf.co.kr/article/home/2026/10/19/20262121179241237300.jpg",
-      "excerpt": "Copyright filings for AI-assisted songs at KOMCA rose from 133 to 759 in a year, but all 892 applications remain unregistered because there is no standard for judging human creative contribution."
-    },
-    {
-      "title": "AI 음악 기술 '뉴튠', 오디오비주얼 에이전트 DJ '탈' ADE 2026서 첫 공개",
-      "url": "https://wowtale.net/2026/10/19/266499/",
-      "source": "와우테일",
-      "category": "music",
-      "tool": "Music",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "rationale": "New unveiling: Neutune showed 'Tal', an audiovisual AI agent DJ backed by KOCCA, at Amsterdam Dance Event 2026. It is an early live-performance use of agentic AI.",
-      "published_iso": "2026-10-19T09:14:53+09:00",
-      "og_image": "https://cdn.wowtale.net/wp-content/uploads/2026/10/neutune-20261018-article-3dde75.jpg",
-      "excerpt": "Korean AI music company Neutune unveiled 'Tal', an audiovisual AI agent DJ project backed by KOCCA's AI content programme, at Amsterdam Dance Event 2026."
-    },
-    {
-      "title": "Controllable Mono-to-Stereo Upmixing using Reward-tilted Flows",
-      "url": "https://arxiv.org/abs/2610.15967",
+      "title": "MI-MIDI 2: From Observation to Control with Sparse Autoencoders in Text-to-MIDI Generation",
+      "url": "https://arxiv.org/abs/2610.32007",
       "source": "arXiv",
-      "category": "music",
-      "tool": "Music",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "rationale": "New research: a flow-matching upmixer turns mono recordings into realistic stereo, and reward tilting lets the engineer steer the stereo image. Directly useful for restoration and remix work.",
-      "published_iso": "2026-10-11T22:46:32+00:00",
-      "og_image": "",
-      "excerpt": "A flow-matching upmixer that generates realistic stereo from single-channel recordings, with reward tilting to give engineers control over the resulting stereo image."
+      "published_iso": "2026-10-23T00:10:54Z",
+      "og_image": null,
+      "excerpt": "Researchers test whether sparse-autoencoder features discovered in text2midi and MIDI-LLM actually steer generation, building an end-to-end protocol for controllable text-to-MIDI.",
+      "rationale": "New research turning interpretable model features into actual control knobs for text-to-MIDI generation, which points toward steerable AI composition tools for producers."
     },
     {
-      "title": "FLOMSS: Generative Music Source Separation by Flow Matching",
-      "url": "https://arxiv.org/abs/2610.17821",
-      "source": "arXiv",
-      "category": "music",
       "tool": "Music",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "New research: a systematic study of flow matching as a generative alternative to the discriminative separators behind today's stem splitters, run on full-band four-stem audio. The model is the whole story, and it points to where stem-splitting tools could go next.",
-      "published_iso": "2026-10-13T06:43:47+00:00",
-      "og_image": "",
-      "excerpt": "A systematic study of flow matching as a generative approach to four-stem music source separation (vocals, bass, drums, other) on full-band audio, an alternative to the discriminative separators behind today's stem splitters."
+      "title": "'Movin' to the Sun' shows grey areas between AI and human music",
+      "url": "https://musically.com/2026/10/26/movin-to-the-sun-shows-grey-areas-between-ai-and-human-music/",
+      "source": "Music Ally",
+      "published_iso": "2026-10-26T12:30:00+00:00",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-26T105845.322.png?fit=2000%2C1500&ssl=1",
+      "excerpt": "Hugel's dancefloor hit started life as a Suno-generated song from a human-written lyric and melody before being rebuilt with Ultra Nate's vocals, blurring the line between AI and human-made music.",
+      "rationale": "Fresh case study of a Suno sketch becoming a human-produced club hit; shows the real AI-to-release workflow artists now use."
+    },
+    {
+      "tool": "Music",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "title": "Charlotte de Witte collaborates with AI vocalist NAVA",
+      "url": "https://ra.co/news/86257",
+      "source": "Resident Advisor",
+      "published_iso": "2026-10-23T09:30:00.000Z",
+      "og_image": "https://static.ra.co/images/news/2026/charlotte-navanull.png",
+      "excerpt": "The Belgian techno artist's three-track Azadi EP features vocals from NAVA, an AI-generated Persian singer created by British-Iranian artist Farbod Mehr.",
+      "rationale": "A headline techno artist releasing an EP with a credited AI-generated vocalist is a new, notable release in the scene."
+    },
+    {
+      "tool": "Music",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "title": "DJustify: Reason-and-Verify DJ Planning for Pop Transitions and Story-Driven Sets",
+      "url": "https://arxiv.org/abs/2610.33434",
+      "source": "arXiv",
+      "published_iso": "2026-10-24T04:22:09Z",
+      "og_image": null,
+      "excerpt": "DJustify is a pop AI-DJ that puts an LLM in a reason-propose-verify-repair loop to jointly choose the next track, cue points and mixing technique, with an acoustic checker scoring rendered transitions.",
+      "rationale": "New research on AI DJ set planning with verified transitions; fresh and distinct from published arXiv picks (MixAgent, MixJudge, Piano2Pop)."
     }
   ],
   "dedup": {
     "checks": {
-      "https://musically.com/2026/10/23/spotify-is-now-an-agent-co-ceo-outlines-companys-ai-plan/": {
+      "https://www.digitalmusicnews.com/2026/10/26/cc-gong-suno-tweet-deposition/": {
+        "verdict": "follow-up",
+        "nearest": "https://www.musicbusinessworldwide.com/sony-and-universal-ask-court-to-force-suno-investor-lightspeed-to-testify-about-the-legal-risk-of-training-data/",
+        "new_action": "New court ruling: the judge granted UMG and Sony leave to depose ex-Menlo Ventures principal C.C. Gong over her Suno-vs-Spotify listening post. This is a separate discovery order from the Lightspeed (10-20), DistroKid (10-17) and MLC subpoena (10-25) items."
+      },
+      "https://arxiv.org/abs/2610.32007": {
         "verdict": "new",
-        "nearest": "https://www.musicbusinessworldwide.com/spotify-has-set-out-how-it-works-inside-muse-metas-personal-ai-agent/",
+        "nearest": "https://arxiv.org/abs/2610.20967",
         "new_action": ""
       },
-      "https://news.tf.co.kr/read/ptoday/2378150.htm": {
+      "https://musically.com/2026/10/26/movin-to-the-sun-shows-grey-areas-between-ai-and-human-music/": {
         "verdict": "new",
-        "nearest": "https://isplus.com/article/view/isp202610020003",
+        "nearest": "https://musically.com/2026/10/15/suno-made-track-the-adult-i-dreamed-of-is-a-hit-in-south-korea/",
         "new_action": ""
       },
-      "https://wowtale.net/2026/10/19/266499/": {
+      "https://ra.co/news/86257": {
         "verdict": "new",
-        "nearest": "https://www.hypebot.com/the-next-music-economy-will-run-on-autonomous-ai-agents/",
+        "nearest": "",
         "new_action": ""
       },
-      "https://arxiv.org/abs/2610.15967": {
+      "https://arxiv.org/abs/2610.33434": {
         "verdict": "new",
-        "nearest": "https://arxiv.org/abs/2610.31510",
-        "new_action": ""
-      },
-      "https://arxiv.org/abs/2610.17821": {
-        "verdict": "new",
-        "nearest": "https://www.gearnews.com/line-6-releases-helix-stadium-guitar/",
+        "nearest": "https://arxiv.org/abs/2610.29093",
         "new_action": ""
       }
     },
-    "note": "SWAP after fact-check: removed gearnews 'Fender Studio Pro 8.2' (https://www.gearnews.com/fender-studio-pro-daw/). The article never calls any 8.2 feature AI; AI only appears in an 8.1 recap, so it fails the AI-axis test. Backfill: arXiv FLOMSS (2610.17821), a generative flow-matching source-separation paper where AI is the whole story. It is not vendor PR and is not in /tmp/ax_claimed_1026.txt. No source-separation paper appears in the 30-day history_digest. The nearest items are the 10-18 Line 6 and 10-19 Zoom/Neko stem-separation hardware cards, which are different products and not this research. It was originally passed over only as a second arXiv item, and 2 per outlet is within the cap. Rejected for the swap: DMN Galaxy humanoid robots. The story is robot performers plus entertainment IP for a Halloween event, AI is incidental, and its history_match to the Korean Suno song is spurious, so AI does not make the story. Also rejected: NewDaily DetectX (vendor evaluation PR); DMN ICMP Australia (running Australian AI-lobbying story next to the 10-07 ARIA card); Billboard Latin Music Week panel (panel talk); Complex BABYQUEEN (gossip); Billboard Spotify co-CEOs on the remix tool (same as the 10-21 Hypebot card); AI Times '머무르' interview (same as the 10-18 Music Ally Suno track); MusicTech vibecoded plugins and gearnews 'humanity of instruments' (opinion on the vibe-coded plugin theme covered 10-17, 10-18 and 10-20). Diversity: 4 outlets (Music Ally, 더팩트, 와우테일, arXiv x2). Spread: 1 platform strategy, 1 copyright data, 1 live performance, 2 research (upmixing, source separation)."
+    "note": "Swap 1 (coordinator): dropped Sound On Sound 'SSL 4K sonible Assistance Add-on (review)' because it repeats the 2026-09-18 story https://www.gearnews.com/ssl-4k-bundle-studio/, which is older than the 30-day digest. Backfilled with the C.C. Gong deposition order (DMN), a follow-up carrying a new ruling. Swap 2 (coordinator, after enrichment): dropped Gearnews 'Fender Studio Pro 8.2'. The 8.2 update has no AI; the drum and note extraction shipped with the January Studio Pro 8 launch. Backfilled slot 2 with the MI-MIDI 2 arXiv paper (controllable text-to-MIDI). It is distinct from MIDI-REPA (10-19), which aligns text-to-music models with MIDI structure rather than steering via SAE features. This makes 2 arXiv cards, which is within the per-outlet cap; outlets are now DMN, arXiv x2, Music Ally and RA. ElevenLabs Instant Soundtrack was not taken: it is not in the music pool, and 'Introducing Instant Soundtracks' already ran in music on 10-19. Earlier drops (duplicates of published stories): Spotify co-CEOs AI remix tool (Billboard), the same Q3-call story as 10-26 and 10-21. MLC/Apple Music subpoenas (DMN), the running subpoena story from 10-25 and 10-17. MusicTech vibecoded-plugins opinion and Gearnews 'humanity of instruments', commentary on the vibe-coded plugin theme from 10-17, 10-18 and 10-20. ICMP Australia statement, an advocacy follow-up to the 10-07 ARIA story with no new decision. Skipped as lower value: Billboard ADE and Latin Music Week panel commentary, the Music Tectonics preview, the NAM captures listicle (AI incidental), and MusicTwins arXiv. Cross-section: published_urls.json was only partly readable, so exact-grep the five URLs plus 'C.C. Gong', 'MI-MIDI', 'NAVA', 'Movin', 'DJustify' before roll."
   }
 }

@@ -1,17 +1,329 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "section": "design",
   "cards": [
     {
-      "id": "design-sparkle-button-essay",
+      "id": "design-gemini-brand-style",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "아무도 원하지 않은\n반짝이 버튼",
-      "body": "사용자가 AI 패널의 끄기 버튼부터 찾자 필자는 AI로 기능을 만들라고 한다.",
-      "mini_headline": "아무도 원치 않은 반짝이",
+      "headline": "Gemini가 이제\n브랜드 스타일을 기억한다",
+      "body": "Gemini는 브랜드 사이트·글꼴·색상을 한 번 저장해 새 이미지에 다시 쓴다.",
+      "mini_headline": "Gemini, 브랜드 스타일 기억",
+      "tool": "AI Workflow",
+      "source": "Design Compass",
+      "url": "https://designcompass.org/en/2026/10/26/google-gemini-on-brand-visuals/",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://designcompass.org/wp-content/uploads/2026/10/Gemini-Brand-Style-Remembered-1-scaled.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Google이 소상공인용 Gemini 기능 'On-Brand Visuals'를 공개했다. 2026년 10월 20일 발표한 이 도구는 사용자가 등록한 브랜드 스타일을 지키면서 새 이미지를 만든다. 시각 방향은 웹사이트, 브랜드 키트, 타이포그래피, 색상 팔레트를 보고 정한다."
+          },
+          {
+            "t": "p",
+            "x": "이미지 생성에는 Nano Banana 2.1 모델을 쓴다. Gemini는 설정한 스타일을 저장해 두었다가 제품 출시나 마케팅 캠페인에 쓸 이미지를 만든다. 작업할 때마다 같은 가이드라인을 다시 올리는 수고가 줄어든다. 브랜드 자료를 이미지 한 장의 참고 자료로 쓰고 끝내지 않고 이후 프로젝트까지 이어 쓰도록 설계했다."
+          },
+          {
+            "t": "p",
+            "x": "소상공인 전용 시작 화면도 생겼다. 브랜드 구축, 재무 분석, 고객 데이터 같은 여러 작업을 여기서 다룬다. Google Workspaces와 광고 도구 말고도 Adobe, Canva, Shopify, Wix 같은 외부 앱을 연결할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "브랜드의 시각 일관성을 이미지 생성 과정에 끌어들인 기능이다. 다만 로고 형태나 서체 사용 규칙을 얼마나 정확히 지키는지는 공식 발표에 검증 결과가 없었다. 실제 콘텐츠에 쓰기 전에 생성 이미지를 원래 가이드라인과 대조해 봐야 한다. 비즈니스 시작 화면과 새 연결 앱은 전 세계 Gemini 앱 사용자에게 차례로 적용된다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Gemini now remembers\nyour brand's style",
+          "body": "Gemini can now save a brand's site, fonts and colors once and reuse them to generate new on-brand images.",
+          "mini_headline": "Gemini remembers brand style",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://designcompass.org/wp-content/uploads/2026/10/Gemini-Brand-Style-Remembered-1-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google has unveiled 'On-Brand Visuals,' a Gemini feature for small businesses. Announced on October 20, 2026, this feature is a tool that creates new images while maintaining the brand style registered by the user. It establishes a visual direction based on the website, brand kit, typography, and color palette."
+              },
+              {
+                "t": "p",
+                "x": "The Nano Banana 2.1 model is utilized for image generation. Gemini stores the configured styles to generate images needed for product launches or marketing campaigns. This method reduces the need to re-upload the same guidelines for every task. It is designed to go beyond using brand materials as a reference for individual images and to allow for their continued use in subsequent projects."
+              },
+              {
+                "t": "p",
+                "x": "We have also prepared a dedicated start screen for small business owners. It is a space for accessing various tasks, such as brand building, financial analysis, and customer data. In addition to Google Workspaces and advertising tools, you can connect external apps such as Adobe, Canva, Shopify, and Wix."
+              },
+              {
+                "t": "p",
+                "x": "This feature integrates brand visual consistency into the image generation process. However, the official announcement did not include verification results regarding the accuracy of adherence to logo shapes or typeface usage rules. It is necessary to compare the generated images against the original guidelines before using them in actual content. The business start screen and new connection apps will be rolled out sequentially to Gemini app users worldwide."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Gemini가 이제\n브랜드 스타일을 기억한다",
+          "body": "Gemini는 브랜드 사이트·글꼴·색상을 한 번 저장해 새 이미지에 다시 쓴다.",
+          "mini_headline": "Gemini, 브랜드 스타일 기억",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://designcompass.org/wp-content/uploads/2026/10/Gemini-Brand-Style-Remembered-1-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google이 소상공인용 Gemini 기능 'On-Brand Visuals'를 공개했다. 2026년 10월 20일 발표한 이 도구는 사용자가 등록한 브랜드 스타일을 지키면서 새 이미지를 만든다. 시각 방향은 웹사이트, 브랜드 키트, 타이포그래피, 색상 팔레트를 보고 정한다."
+              },
+              {
+                "t": "p",
+                "x": "이미지 생성에는 Nano Banana 2.1 모델을 쓴다. Gemini는 설정한 스타일을 저장해 두었다가 제품 출시나 마케팅 캠페인에 쓸 이미지를 만든다. 작업할 때마다 같은 가이드라인을 다시 올리는 수고가 줄어든다. 브랜드 자료를 이미지 한 장의 참고 자료로 쓰고 끝내지 않고 이후 프로젝트까지 이어 쓰도록 설계했다."
+              },
+              {
+                "t": "p",
+                "x": "소상공인 전용 시작 화면도 생겼다. 브랜드 구축, 재무 분석, 고객 데이터 같은 여러 작업을 여기서 다룬다. Google Workspaces와 광고 도구 말고도 Adobe, Canva, Shopify, Wix 같은 외부 앱을 연결할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "브랜드의 시각 일관성을 이미지 생성 과정에 끌어들인 기능이다. 다만 로고 형태나 서체 사용 규칙을 얼마나 정확히 지키는지는 공식 발표에 검증 결과가 없었다. 실제 콘텐츠에 쓰기 전에 생성 이미지를 원래 가이드라인과 대조해 봐야 한다. 비즈니스 시작 화면과 새 연결 앱은 전 세계 Gemini 앱 사용자에게 차례로 적용된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Geminiがブランドの\nスタイルを記憶",
+          "body": "Geminiがブランドのサイト・フォント・色を一度保存し、新しい画像に再利用する。",
+          "mini_headline": "Gemini、ブランドスタイルを記憶",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://designcompass.org/wp-content/uploads/2026/10/Gemini-Brand-Style-Remembered-1-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Googleは小規模事業者向けのGemini機能「On-Brand Visuals」を公開した。2026年10月20日に発表されたこの機能は、ユーザーが登録したブランドスタイルを保ちながら新しい画像を作るツールである。ウェブサイト、ブランドキット、タイポグラフィ、カラーパレットをもとにビジュアルの方向性を定める。"
+              },
+              {
+                "t": "p",
+                "x": "画像生成にはNano Banana 2.1モデルを使う。Geminiは設定したスタイルを保存し、製品発売やマーケティングキャンペーンに必要な画像を生成する。作業のたびに同じガイドラインを再アップロードする手間が減る。ブランド素材を個々の画像の参考にとどめず、その後のプロジェクトでも使い続けられるよう設計されている。"
+              },
+              {
+                "t": "p",
+                "x": "小規模事業者専用のスタート画面も用意した。ブランド構築、財務分析、顧客データなど様々な作業にアクセスする場である。Google Workspacesや広告ツールに加え、Adobe、Canva、Shopify、Wixなどの外部アプリも接続できる。"
+              },
+              {
+                "t": "p",
+                "x": "この機能はブランドのビジュアル一貫性を画像生成プロセスに組み込む。ただし公式発表には、ロゴの形状や書体の使用ルールをどれほど正確に守るかについての検証結果は含まれていなかった。実際のコンテンツに使う前に、生成画像を元のガイドラインと照らし合わせる必要がある。ビジネス向けスタート画面と新たな連携アプリは、世界中のGeminiアプリユーザーに順次提供される。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Gemini现在能记住\n你的品牌风格",
+          "body": "Gemini可一次保存品牌网站、字体和配色，并复用来生成新的品牌图像。",
+          "mini_headline": "Gemini记住品牌风格",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://designcompass.org/wp-content/uploads/2026/10/Gemini-Brand-Style-Remembered-1-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google推出了面向小企业的Gemini功能“On-Brand Visuals”。该功能于2026年10月20日发布，是一款在保持用户注册的品牌风格的同时生成新图像的工具。它以网站、品牌套件、字体排印和色板为基础确定视觉方向。"
+              },
+              {
+                "t": "p",
+                "x": "图像生成采用Nano Banana 2.1模型。Gemini会保存已设置的风格，用于生成产品发布或营销活动所需的图像。这种方式减少了每项任务都重新上传同一套规范的需要。其设计目标不止于把品牌素材用作单张图像的参考，而是让它们在后续项目中持续使用。"
+              },
+              {
+                "t": "p",
+                "x": "还为小企业主准备了专属起始界面，这是处理品牌建设、财务分析、客户数据等各类任务的空间。除Google Workspaces和广告工具外，还可连接Adobe、Canva、Shopify、Wix等外部应用。"
+              },
+              {
+                "t": "p",
+                "x": "该功能把品牌视觉一致性融入图像生成流程。不过，官方公告并未包含关于其遵守标志形状或字体使用规则准确度的验证结果。在实际内容中使用前，有必要将生成的图像与原始规范进行对照。商业起始界面和新的连接应用将陆续向全球Gemini应用用户推出。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Gemini ahora recuerda\nel estilo de tu marca",
+          "body": "Gemini ya guarda una vez el sitio, las fuentes y los colores de una marca y los reutiliza en imágenes nuevas.",
+          "mini_headline": "Gemini recuerda el estilo de marca",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://designcompass.org/wp-content/uploads/2026/10/Gemini-Brand-Style-Remembered-1-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google presentó 'On-Brand Visuals', una función de Gemini para pequeñas empresas. Anunciada el 20 de octubre de 2026, es una herramienta que crea imágenes nuevas manteniendo el estilo de marca registrado por el usuario. Define una dirección visual a partir del sitio web, el kit de marca, la tipografía y la paleta de colores."
+              },
+              {
+                "t": "p",
+                "x": "Para generar imágenes utiliza el modelo Nano Banana 2.1. Gemini guarda los estilos configurados para crear las imágenes que requieren los lanzamientos de productos o las campañas de marketing. Así se reduce la necesidad de volver a subir las mismas directrices en cada tarea. Está pensada para ir más allá de usar los materiales de marca como referencia para imágenes individuales y permitir que sigan usándose en proyectos posteriores."
+              },
+              {
+                "t": "p",
+                "x": "También se ha preparado una pantalla de inicio específica para propietarios de pequeños negocios. Es un espacio para acceder a diversas tareas, como la construcción de marca, el análisis financiero y los datos de clientes. Además de Google Workspaces y las herramientas publicitarias, se pueden conectar aplicaciones externas como Adobe, Canva, Shopify y Wix."
+              },
+              {
+                "t": "p",
+                "x": "Esta función integra la coherencia visual de la marca en el proceso de generación de imágenes. Sin embargo, el anuncio oficial no incluyó resultados de verificación sobre la precisión con que respeta la forma de los logotipos o las reglas de uso tipográfico. Conviene comparar las imágenes generadas con las directrices originales antes de usarlas en contenido real. La pantalla de inicio para empresas y las nuevas aplicaciones conectadas llegarán de forma gradual a los usuarios de la app de Gemini en todo el mundo."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Gemini가 이제\n브랜드 스타일을 기억",
+          "body": "Gemini가 브랜드 사이트·글꼴·색상을 한 번 저장해 새 이미지에 다시 쓴다.",
+          "mini_headline": "Gemini, 브랜드 스타일 기억",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://designcompass.org/wp-content/uploads/2026/10/Gemini-Brand-Style-Remembered-1-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google이 소상공인을 위한 Gemini 기능 'On-Brand Visuals'를 공개했다. 2026년 10월 20일 발표된 이 기능은 사용자가 등록한 브랜드 스타일을 유지하면서 새 이미지를 만드는 도구다. 웹사이트, 브랜드 키트, 타이포그래피, 색상 팔레트를 바탕으로 시각적 방향을 정한다."
+              },
+              {
+                "t": "p",
+                "x": "이미지 생성에는 Nano Banana 2.1 모델을 쓴다. Gemini는 설정한 스타일을 저장해 두고 제품 출시나 마케팅 캠페인에 필요한 이미지를 만든다. 작업할 때마다 같은 가이드라인을 다시 올릴 필요가 줄어든다. 브랜드 자료를 개별 이미지의 참고 자료로 쓰는 데 그치지 않고 이후 프로젝트에서도 계속 활용하도록 설계했다."
+              },
+              {
+                "t": "p",
+                "x": "소상공인 전용 시작 화면도 마련했다. 브랜드 구축, 재무 분석, 고객 데이터 등 여러 작업에 접근하는 공간이다. Google Workspaces와 광고 도구 외에 Adobe, Canva, Shopify, Wix 같은 외부 앱도 연결할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "이 기능은 브랜드 시각 일관성을 이미지 생성 과정에 통합한다. 다만 공식 발표에는 로고 형태나 서체 사용 규칙을 얼마나 정확히 지키는지에 대한 검증 결과가 없었다. 실제 콘텐츠에 쓰기 전에 생성 이미지를 원래 가이드라인과 비교해 봐야 한다. 비즈니스 시작 화면과 새 연결 앱은 전 세계 Gemini 앱 사용자에게 순차 적용된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Geminiがブランドの\nスタイルを記憶",
+          "body": "Geminiがブランドのサイト・フォント・色を一度保存し、新しい画像に再利用する。",
+          "mini_headline": "Gemini、ブランドスタイルを記憶",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://designcompass.org/wp-content/uploads/2026/10/Gemini-Brand-Style-Remembered-1-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Googleは小規模事業者向けのGemini機能「On-Brand Visuals」を公開した。2026年10月20日に発表されたこの機能は、ユーザーが登録したブランドスタイルを保ちながら新しい画像を作るツールである。ウェブサイト、ブランドキット、タイポグラフィ、カラーパレットをもとにビジュアルの方向性を定める。"
+              },
+              {
+                "t": "p",
+                "x": "画像生成にはNano Banana 2.1モデルを使う。Geminiは設定したスタイルを保存し、製品発売やマーケティングキャンペーンに必要な画像を生成する。作業のたびに同じガイドラインを再アップロードする手間が減る。ブランド素材を個々の画像の参考にとどめず、その後のプロジェクトでも使い続けられるよう設計されている。"
+              },
+              {
+                "t": "p",
+                "x": "小規模事業者専用のスタート画面も用意した。ブランド構築、財務分析、顧客データなど様々な作業にアクセスする場である。Google Workspacesや広告ツールに加え、Adobe、Canva、Shopify、Wixなどの外部アプリも接続できる。"
+              },
+              {
+                "t": "p",
+                "x": "この機能はブランドのビジュアル一貫性を画像生成プロセスに組み込む。ただし公式発表には、ロゴの形状や書体の使用ルールをどれほど正確に守るかについての検証結果は含まれていなかった。実際のコンテンツに使う前に、生成画像を元のガイドラインと照らし合わせる必要がある。ビジネス向けスタート画面と新たな連携アプリは、世界中のGeminiアプリユーザーに順次提供される。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Gemini现在能记住\n你的品牌风格",
+          "body": "Gemini可一次保存品牌网站、字体和配色，并复用来生成新的品牌图像。",
+          "mini_headline": "Gemini记住品牌风格",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://designcompass.org/wp-content/uploads/2026/10/Gemini-Brand-Style-Remembered-1-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google推出了面向小企业的Gemini功能“On-Brand Visuals”。该功能于2026年10月20日发布，是一款在保持用户注册的品牌风格的同时生成新图像的工具。它以网站、品牌套件、字体排印和色板为基础确定视觉方向。"
+              },
+              {
+                "t": "p",
+                "x": "图像生成采用Nano Banana 2.1模型。Gemini会保存已设置的风格，用于生成产品发布或营销活动所需的图像。这种方式减少了每项任务都重新上传同一套规范的需要。其设计目标不止于把品牌素材用作单张图像的参考，而是让它们在后续项目中持续使用。"
+              },
+              {
+                "t": "p",
+                "x": "还为小企业主准备了专属起始界面，这是处理品牌建设、财务分析、客户数据等各类任务的空间。除Google Workspaces和广告工具外，还可连接Adobe、Canva、Shopify、Wix等外部应用。"
+              },
+              {
+                "t": "p",
+                "x": "该功能把品牌视觉一致性融入图像生成流程。不过，官方公告并未包含关于其遵守标志形状或字体使用规则准确度的验证结果。在实际内容中使用前，有必要将生成的图像与原始规范进行对照。商业起始界面和新的连接应用将陆续向全球Gemini应用用户推出。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Gemini ahora recuerda\nel estilo de tu marca",
+          "body": "Gemini ya guarda una vez el sitio, las fuentes y los colores de una marca y los reutiliza en imágenes nuevas.",
+          "mini_headline": "Gemini recuerda el estilo de marca",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://designcompass.org/wp-content/uploads/2026/10/Gemini-Brand-Style-Remembered-1-scaled.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google presentó 'On-Brand Visuals', una función de Gemini para pequeñas empresas. Anunciada el 20 de octubre de 2026, es una herramienta que crea imágenes nuevas manteniendo el estilo de marca registrado por el usuario. Define una dirección visual a partir del sitio web, el kit de marca, la tipografía y la paleta de colores."
+              },
+              {
+                "t": "p",
+                "x": "Para generar imágenes utiliza el modelo Nano Banana 2.1. Gemini guarda los estilos configurados para crear las imágenes que requieren los lanzamientos de productos o las campañas de marketing. Así se reduce la necesidad de volver a subir las mismas directrices en cada tarea. Está pensada para ir más allá de usar los materiales de marca como referencia para imágenes individuales y permitir que sigan usándose en proyectos posteriores."
+              },
+              {
+                "t": "p",
+                "x": "También se ha preparado una pantalla de inicio específica para propietarios de pequeños negocios. Es un espacio para acceder a diversas tareas, como la construcción de marca, el análisis financiero y los datos de clientes. Además de Google Workspaces y las herramientas publicitarias, se pueden conectar aplicaciones externas como Adobe, Canva, Shopify y Wix."
+              },
+              {
+                "t": "p",
+                "x": "Esta función integra la coherencia visual de la marca en el proceso de generación de imágenes. Sin embargo, el anuncio oficial no incluyó resultados de verificación sobre la precisión con que respeta la forma de los logotipos o las reglas de uso tipográfico. Conviene comparar las imágenes generadas con las directrices originales antes de usarlas en contenido real. La pantalla de inicio para empresas y las nuevas aplicaciones conectadas llegarán de forma gradual a los usuarios de la app de Gemini en todo el mundo."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "design-ideogram-svg",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "이디오그램, 로고를\nSVG 편집 파일로",
+      "body": "이디오그램이 로고 생성을 넘어 편집 가능한 SVG 벡터 파일을 내놓는다.",
+      "mini_headline": "이디오그램 SVG 벡터 AI",
       "tool": "Figma",
-      "source": "UX Collective",
-      "url": "https://uxdesign.cc/nobody-asked-for-the-sparkle-button-ae54ab5065c6",
+      "source": "AI타임스",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216679",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -19,435 +331,345 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*zO6YRwfqZ98I2mbNC4MBNw.png",
-            "cap": "Jon Sabutis의 일러스트, HTML과 CSS로 제작"
+            "src": "https://cdn.aitimes.com/news/photo/202610/216679_220802_5713.jpeg",
+            "cap": "(사진=이디오그램)"
           },
           {
             "t": "p",
-            "x": "돈을 내고 쓰는 제품은 어느 것을 열어도 오른쪽 위에 반짝이 아이콘이 있고, 그 뒤에는 \"Ask anything\"이라고 적힌 패널이 있다. 매일 AI로 코드를 쓰는 Jon Sabutis가 보기에 도구는 좋아졌지만 제품은 대체로 그렇지 못하다. 다 같은 제품이라서다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*GVI4I-F2A2OolI_slccKuA.png"
+            "x": "AI 이미지 생성 경쟁이 보기 좋은 그림을 만드는 단계에서 실제 디자인 작업에 활용할 수 있는 파일을 만드는 단계로 확장되고 있다. 이디오그램(Ideogram)은 23일(현지시간) 텍스트로 편집 가능한 그래픽을 만들고 기존 이미지도 벡터로 변환하는 전용 AI 모델 ‘이디오그램 벡터(Ideogram Vector)’를 공개했다."
           },
           {
             "t": "p",
-            "x": "사람들이 불쾌한 건 그 기능이 자기 뜻과 상관없이 켜져 있어서다. 2026년 3월 Microsoft는 Notepad, Snipping Tool, Photos, Widgets에서 \"불필요한 Copilot 진입점\"을 줄이겠다고 밝혔다. 업데이트 뒤 설정이 초기화되는 일을 겪으면 사용자는 규칙 하나를 배운다. 이 회사는 내 결정을 뒤집는다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1000/1*7yaE0--HMN9rGsXsmamCKg.gif"
+            "x": "이디오그램 벡터는 사용자가 원하는 디자인을 글로 설명하면 SVG 파일을 생성한다. 기존 PNG나 JPEG 이미지도 벡터 형태로 변환할 수 있다. SVG는 선과 곡선, 색상 채우기, 그라데이션 등 기하학적 요소로 구성돼 해상도에 구애받지 않고 크기를 조절할 수 있어 로고와 포스터, 제품 라벨처럼 다양한 크기와 매체에 맞춰야 하는 디자인에서 중요하다."
           },
           {
             "t": "p",
-            "x": "UBS는 대형 클라우드 기업들이 2026년부터 2028년까지 설비투자(capex)에 약 4.1조 달러를 쓸 것으로 추산한다. 그런데 MIT의 NANDA 그룹은 기업의 95퍼센트가 생성형 AI 파일럿에서 측정 가능한 수익을 얻지 못했다고 밝혔다."
+            "x": "텍스트 기반 생성에서는 문자와 도형을 결합한 로고, 장식적인 타이포그래피, 단순한 형태로 구성된 일러스트 등을 주요 활용 사례로 제시했다. 다만 글자가 벡터 경로로 변환된 경우에는 글꼴이나 문구를 일반 텍스트처럼 바로 바꾸기 어려울 수 있다. 이미지 변환도 원본의 레이어 구조까지 복원되는 것은 아니어서 실제 편집이 얼마나 쉬운지 확인해야 한다."
           },
           {
-            "t": "img",
-            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Cwicgkr_ZVmyYTN1j18eCA.png",
-            "cap": "Jon Sabutis 제작 차트, UBS 추산 기준, 2026년 8월"
+            "t": "video",
+            "yt": "jmQk4oa5EnM"
           },
           {
             "t": "p",
-            "x": "그가 내세우는 원칙은 AI 기능이 아니라 AI로 기능을 만들라는 것이다. Smart Compose나 Photoshop의 Remove 도구가 그런 예다. 출시 전에는 누가 요청했는지, 이름을 무엇에서 따왔는지, 기본값을 꺼 둬도 내놓을지, 원가로 팔아도 버틸지 물어야 한다."
+            "x": "개발자를 위한 API도 제공한다. API 가격은 텍스트 기반 생성의 경우 이미지 참조를 사용하지 않을 때 품질 설정에 따라 한 장당 0.13~0.20달러다. 이미지 참조를 사용하는 고품질 생성은 한 장당 0.32달러로 책정됐다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Nobody asked for\nthe sparkle button",
-          "body": "Users hunt for the off switch on AI sparkle panels, so the author says build features with AI, not AI features.",
-          "mini_headline": "No one wanted the sparkle",
+        "ko": {
+          "headline": "이디오그램, 로고를\nSVG 편집 파일로",
+          "body": "이디오그램이 로고 생성을 넘어 편집 가능한 SVG 벡터 파일을 내놓는다.",
+          "mini_headline": "이디오그램 SVG 벡터 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*zO6YRwfqZ98I2mbNC4MBNw.png",
-                "cap": "Illustration by Jon Sabutis, built in HTML and CSS"
+                "src": "https://cdn.aitimes.com/news/photo/202610/216679_220802_5713.jpeg",
+                "cap": "(사진=이디오그램)"
               },
               {
                 "t": "p",
-                "x": "Open any product you pay for and there is a sparkle in the top right corner, behind it a panel that says \"Ask anything\". Jon Sabutis, who writes code with AI every day, argues the tools got good but the products mostly did not, because they are the same product."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*GVI4I-F2A2OolI_slccKuA.png"
+                "x": "AI 이미지 생성 경쟁이 보기 좋은 그림을 만드는 단계에서 실제 디자인 작업에 활용할 수 있는 파일을 만드는 단계로 확장되고 있다. 이디오그램(Ideogram)은 23일(현지시간) 텍스트로 편집 가능한 그래픽을 만들고 기존 이미지도 벡터로 변환하는 전용 AI 모델 ‘이디오그램 벡터(Ideogram Vector)’를 공개했다."
               },
               {
                 "t": "p",
-                "x": "What people resent is that it was turned on for them. In March 2026 Microsoft said it would cut \"unnecessary Copilot entry points\" in Notepad, the Snipping Tool, Photos and Widgets. A setting that resets after an update teaches users one rule: this company will override me."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1000/1*7yaE0--HMN9rGsXsmamCKg.gif"
+                "x": "이디오그램 벡터는 사용자가 원하는 디자인을 글로 설명하면 SVG 파일을 생성한다. 기존 PNG나 JPEG 이미지도 벡터 형태로 변환할 수 있다. SVG는 선과 곡선, 색상 채우기, 그라데이션 등 기하학적 요소로 구성돼 해상도에 구애받지 않고 크기를 조절할 수 있어 로고와 포스터, 제품 라벨처럼 다양한 크기와 매체에 맞춰야 하는 디자인에서 중요하다."
               },
               {
                 "t": "p",
-                "x": "UBS estimates the big cloud companies will spend about $4.1 trillion on capex between 2026 and 2028, while MIT's NANDA group found 95 percent of companies saw no measurable return from their generative AI pilots."
+                "x": "텍스트 기반 생성에서는 문자와 도형을 결합한 로고, 장식적인 타이포그래피, 단순한 형태로 구성된 일러스트 등을 주요 활용 사례로 제시했다. 다만 글자가 벡터 경로로 변환된 경우에는 글꼴이나 문구를 일반 텍스트처럼 바로 바꾸기 어려울 수 있다. 이미지 변환도 원본의 레이어 구조까지 복원되는 것은 아니어서 실제 편집이 얼마나 쉬운지 확인해야 한다."
               },
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Cwicgkr_ZVmyYTN1j18eCA.png",
-                "cap": "Chart by Jon Sabutis, from UBS estimates, August 2026"
+                "t": "video",
+                "yt": "jmQk4oa5EnM"
               },
               {
                 "t": "p",
-                "x": "His rule: build features with AI, not AI features, like Smart Compose or Photoshop's Remove tool. Before shipping, ask who asked, what it is named after, whether you would ship it off by default, and whether it would survive at cost price."
+                "x": "개발자를 위한 API도 제공한다. API 가격은 텍스트 기반 생성의 경우 이미지 참조를 사용하지 않을 때 품질 설정에 따라 한 장당 0.13~0.20달러다. 이미지 참조를 사용하는 고품질 생성은 한 장당 0.32달러로 책정됐다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "아무도 원하지 않은\n반짝이 버튼",
-          "body": "사용자가 AI 패널의 끄기 버튼부터 찾자 필자는 AI로 기능을 만들라고 한다.",
-          "mini_headline": "아무도 원치 않은 반짝이",
+        "en": {
+          "headline": "Ideogram turns logos into\neditable SVG files",
+          "body": "Ideogram now goes beyond generating logos to produce editable SVG vector files.",
+          "mini_headline": "Ideogram SVG vector AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*zO6YRwfqZ98I2mbNC4MBNw.png",
-                "cap": "Jon Sabutis의 일러스트, HTML과 CSS로 제작"
+                "src": "https://cdn.aitimes.com/news/photo/202610/216679_220802_5713.jpeg",
+                "cap": "(Photo: Ideogram)"
               },
               {
                 "t": "p",
-                "x": "돈을 내고 쓰는 제품은 어느 것을 열어도 오른쪽 위에 반짝이 아이콘이 있고, 그 뒤에는 \"Ask anything\"이라고 적힌 패널이 있다. 매일 AI로 코드를 쓰는 Jon Sabutis가 보기에 도구는 좋아졌지만 제품은 대체로 그렇지 못하다. 다 같은 제품이라서다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*GVI4I-F2A2OolI_slccKuA.png"
+                "x": "The race in AI image generation is expanding from making good-looking pictures to producing files that can be used in real design work. On the 23rd (local time), Ideogram released 'Ideogram Vector,' a dedicated AI model that creates editable graphics from text and also converts existing images into vectors."
               },
               {
                 "t": "p",
-                "x": "사람들이 불쾌한 건 그 기능이 자기 뜻과 상관없이 켜져 있어서다. 2026년 3월 Microsoft는 Notepad, Snipping Tool, Photos, Widgets에서 \"불필요한 Copilot 진입점\"을 줄이겠다고 밝혔다. 업데이트 뒤 설정이 초기화되는 일을 겪으면 사용자는 규칙 하나를 배운다. 이 회사는 내 결정을 뒤집는다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1000/1*7yaE0--HMN9rGsXsmamCKg.gif"
+                "x": "Ideogram Vector generates an SVG file when users describe the design they want in words. It can also convert existing PNG or JPEG images into vector form. Because SVG is made of geometric elements such as lines, curves, color fills and gradients, it can be resized regardless of resolution, which matters for designs that must fit many sizes and media, such as logos, posters and product labels."
               },
               {
                 "t": "p",
-                "x": "UBS는 대형 클라우드 기업들이 2026년부터 2028년까지 설비투자(capex)에 약 4.1조 달러를 쓸 것으로 추산한다. 그런데 MIT의 NANDA 그룹은 기업의 95퍼센트가 생성형 AI 파일럿에서 측정 가능한 수익을 얻지 못했다고 밝혔다."
+                "x": "For text-based generation, the company cited logos combining letters and shapes, decorative typography and illustrations built from simple forms as key use cases. However, once letters have been converted into vector paths, it may be hard to change the font or wording directly as with ordinary text. Image conversion also does not restore the original's layer structure, so how easy actual editing is needs to be checked."
               },
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Cwicgkr_ZVmyYTN1j18eCA.png",
-                "cap": "Jon Sabutis 제작 차트, UBS 추산 기준, 2026년 8월"
+                "t": "video",
+                "yt": "jmQk4oa5EnM"
               },
               {
                 "t": "p",
-                "x": "그가 내세우는 원칙은 AI 기능이 아니라 AI로 기능을 만들라는 것이다. Smart Compose나 Photoshop의 Remove 도구가 그런 예다. 출시 전에는 누가 요청했는지, 이름을 무엇에서 따왔는지, 기본값을 꺼 둬도 내놓을지, 원가로 팔아도 버틸지 물어야 한다."
+                "x": "An API is also available for developers. For text-based generation without image references, API pricing is $0.13~0.20 per image depending on the quality setting. High-quality generation with image references is priced at $0.32 per image."
               }
             ]
           }
         },
         "ja": {
-          "headline": "誰も頼んでいない\nキラキラボタン",
-          "body": "利用者がAIパネルのオフ方法を探す今、筆者はAI機能でなくAIで機能を作れと説く。",
-          "mini_headline": "誰も望まないキラキラ",
+          "headline": "Ideogram、ロゴを\nSVG編集ファイルに",
+          "body": "Ideogramがロゴ生成を超え、編集可能なSVGベクターファイルを出力する。",
+          "mini_headline": "Ideogram SVG ベクター AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*zO6YRwfqZ98I2mbNC4MBNw.png",
-                "cap": "イラストはJon Sabutis、HTMLとCSSで制作"
+                "src": "https://cdn.aitimes.com/news/photo/202610/216679_220802_5713.jpeg",
+                "cap": "(写真=Ideogram)"
               },
               {
                 "t": "p",
-                "x": "お金を払って使う製品を開けば、どれも右上にキラキラのアイコンがあり、その奥に「Ask anything」と書かれたパネルがある。毎日AIでコードを書くJon Sabutisは、ツールは良くなったが製品の多くはそうではないと論じる。どれも同じ製品だからだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*GVI4I-F2A2OolI_slccKuA.png"
+                "x": "AI画像生成の競争は、見栄えのよい絵を作る段階から、実際のデザイン作業に使えるファイルを作る段階へと広がっている。Ideogramは23日(現地時間)、テキストから編集可能なグラフィックを作成し、既存の画像もベクターに変換する専用AIモデル「Ideogram Vector」を公開した。"
               },
               {
                 "t": "p",
-                "x": "人々が反発しているのは、それが勝手にオンにされたことだ。2026年3月、MicrosoftはNotepad、Snipping Tool、Photos、Widgetsにおける「不要なCopilotの入り口」を減らすと表明した。アップデート後にリセットされる設定は、利用者にひとつのルールを教える。この会社は自分の意思を覆す、というルールである。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1000/1*7yaE0--HMN9rGsXsmamCKg.gif"
+                "x": "Ideogram Vectorは、ユーザーが望むデザインを文章で説明するとSVGファイルを生成する。既存のPNGやJPEG画像もベクター形式に変換できる。SVGは線や曲線、色の塗り、グラデーションなどの幾何学的要素で構成され、解像度に左右されずにサイズを変更できるため、ロゴやポスター、製品ラベルのように様々なサイズや媒体に合わせる必要があるデザインで重要となる。"
               },
               {
                 "t": "p",
-                "x": "UBSは、大手クラウド企業が2026年から2028年にかけて設備投資(capex)に約4.1兆ドルを投じると推計する。一方、MITのNANDAグループは、企業の95パーセントが生成AIのパイロットから測定可能なリターンを得られなかったと報告した。"
+                "x": "テキストベースの生成では、文字と図形を組み合わせたロゴ、装飾的なタイポグラフィ、シンプルな形で構成したイラストなどを主な活用例として挙げた。ただし文字がベクターパスに変換された場合、フォントや文言を通常のテキストのようにすぐ変更するのは難しいことがある。画像変換も元のレイヤー構造まで復元されるわけではないため、実際の編集のしやすさを確かめる必要がある。"
               },
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Cwicgkr_ZVmyYTN1j18eCA.png",
-                "cap": "チャートはJon Sabutis作成、UBSの推計に基づく、2026年8月"
-              },
-              {
-                "t": "p",
-                "x": "彼のルールは、AI機能ではなくAIで機能を作ることだ。Smart ComposeやPhotoshopのRemoveツールがその例である。出荷前には、誰が求めたのか、何にちなんだ名前なのか、デフォルトでオフにして出せるか、原価でも生き残れるかを問うべきだという。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Nadie pidió el botón\nde los destellos",
-          "body": "Los usuarios buscan cómo apagar los paneles de AI, y el autor propone crear funciones con AI, no funciones de AI.",
-          "mini_headline": "Nadie quería el destello",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*zO6YRwfqZ98I2mbNC4MBNw.png",
-                "cap": "Ilustración de Jon Sabutis, hecha en HTML y CSS"
+                "t": "video",
+                "yt": "jmQk4oa5EnM"
               },
               {
                 "t": "p",
-                "x": "En cualquier producto de pago aparece un destello en la esquina superior derecha y, detrás, un panel que dice \"Ask anything\". Jon Sabutis, que programa con AI todos los días, sostiene que las herramientas mejoraron pero los productos en su mayoría no, porque son el mismo producto."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*GVI4I-F2A2OolI_slccKuA.png"
-              },
-              {
-                "t": "p",
-                "x": "Lo que molesta a la gente es que se activó sin consultarla. En marzo de 2026, Microsoft anunció que reduciría los \"puntos de entrada innecesarios de Copilot\" en Notepad, Snipping Tool, Photos y Widgets. Un ajuste que se restablece tras una actualización enseña a los usuarios una sola regla: esta empresa pasará por encima de mí."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1000/1*7yaE0--HMN9rGsXsmamCKg.gif"
-              },
-              {
-                "t": "p",
-                "x": "UBS estima que las grandes empresas de la nube invertirán cerca de 4.1 billones de dólares en capex entre 2026 y 2028, mientras que el grupo NANDA del MIT halló que el 95 por ciento de las empresas no obtuvo un retorno medible de sus pilotos de AI generativa."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Cwicgkr_ZVmyYTN1j18eCA.png",
-                "cap": "Gráfico de Jon Sabutis, a partir de estimaciones de UBS, agosto de 2026"
-              },
-              {
-                "t": "p",
-                "x": "Su regla: crear funciones con AI, no funciones de AI, como Smart Compose o la herramienta Remove de Photoshop. Antes de lanzar algo, hay que preguntarse quién lo pidió, a qué debe su nombre, si se lanzaría desactivado por defecto y si sobreviviría a precio de costo."
+                "x": "開発者向けのAPIも提供する。API価格は、テキストベースの生成で画像参照を使わない場合、品質設定に応じて一枚あたり0.13~0.20ドルである。画像参照を使う高品質生成は一枚あたり0.32ドルに設定された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "没人要过\n那颗闪光按钮",
-          "body": "用户四处寻找AI闪光面板的关闭开关，作者因此主张用AI打造功能，而非打造AI功能。",
-          "mini_headline": "没人想要那颗闪光",
+          "headline": "Ideogram把标志\n变成可编辑SVG",
+          "body": "Ideogram不止于生成标志，还能输出可编辑的SVG矢量文件。",
+          "mini_headline": "Ideogram SVG 矢量 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*zO6YRwfqZ98I2mbNC4MBNw.png",
-                "cap": "插图：Jon Sabutis，以 HTML 和 CSS 制作"
+                "src": "https://cdn.aitimes.com/news/photo/202610/216679_220802_5713.jpeg",
+                "cap": "(图片=Ideogram)"
               },
               {
                 "t": "p",
-                "x": "打开任何一款付费产品，右上角都有一颗闪光图标，背后是一个写着“Ask anything”的面板。每天用 AI 写代码的 Jon Sabutis 认为，工具变好了，产品却大多没有，因为它们都是同一个产品。"
+                "x": "AI图像生成的竞争正从制作好看的图片，扩展到制作可用于实际设计工作的文件。Ideogram于23日（当地时间）发布了专用AI模型“Ideogram Vector”，可通过文本生成可编辑图形，也能将现有图像转换为矢量。"
               },
+              {
+                "t": "p",
+                "x": "用户用文字描述想要的设计，Ideogram Vector即可生成SVG文件。现有的PNG或JPEG图像也能转换为矢量格式。SVG由线条、曲线、颜色填充、渐变等几何元素构成，可以不受分辨率限制地调整尺寸，因此对标志、海报、产品标签等需要适配多种尺寸和媒介的设计十分重要。"
+              },
+              {
+                "t": "p",
+                "x": "在基于文本的生成方面，该公司列举了文字与图形结合的标志、装饰性字体排印、由简单形状构成的插画等主要用例。不过，文字一旦转换为矢量路径，可能难以像普通文本那样直接修改字体或文案。图像转换也不会还原原图的图层结构，因此需要确认实际编辑有多方便。"
+              },
+              {
+                "t": "video",
+                "yt": "jmQk4oa5EnM"
+              },
+              {
+                "t": "p",
+                "x": "还为开发者提供API。API价格方面，基于文本的生成在不使用图像参考时，根据质量设置每张0.13~0.20美元。使用图像参考的高质量生成定价为每张0.32美元。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Ideogram convierte logos\nen archivos SVG editables",
+          "body": "Ideogram va más allá de generar logotipos y ahora entrega archivos vectoriales SVG editables.",
+          "mini_headline": "Ideogram: SVG vectorial con AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*GVI4I-F2A2OolI_slccKuA.png"
+                "src": "https://cdn.aitimes.com/news/photo/202610/216679_220802_5713.jpeg",
+                "cap": "(Foto: Ideogram)"
               },
               {
                 "t": "p",
-                "x": "人们反感的是，这些功能是被替他们打开的。2026年3月，Microsoft 表示将在 Notepad、Snipping Tool、Photos 和 Widgets 中削减“不必要的 Copilot 入口”。一项在更新后被重置的设置，只会让用户学到一条规则：这家公司会推翻我的决定。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1000/1*7yaE0--HMN9rGsXsmamCKg.gif"
+                "x": "La competencia en generación de imágenes con AI se amplía de crear imágenes atractivas a producir archivos que sirven para el trabajo real de diseño. Ideogram presentó el día 23 (hora local) 'Ideogram Vector', un modelo de AI dedicado que crea gráficos editables a partir de texto y que también convierte imágenes existentes en vectores."
               },
               {
                 "t": "p",
-                "x": "UBS 估计，大型云计算公司在2026年至2028年间的资本支出约为4.1万亿美元；而 MIT 的 NANDA 小组发现，百分之95的公司未能从生成式 AI 试点中获得可衡量的回报。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Cwicgkr_ZVmyYTN1j18eCA.png",
-                "cap": "图表：Jon Sabutis，依据 UBS 估算，2026年8月"
+                "x": "Ideogram Vector genera un archivo SVG cuando el usuario describe por escrito el diseño que desea. También puede convertir imágenes PNG o JPEG existentes a formato vectorial. Como el SVG se compone de elementos geométricos como líneas, curvas, rellenos de color y degradados, puede redimensionarse sin depender de la resolución, algo clave en diseños que deben adaptarse a distintos tamaños y medios, como logotipos, carteles y etiquetas de productos."
               },
               {
                 "t": "p",
-                "x": "他的原则是：用 AI 打造功能，而不是打造 AI 功能，比如 Smart Compose 或 Photoshop 的 Remove 工具。发布之前要问：谁提出过需求？它以什么命名？你是否愿意默认关闭它发布？按成本价它还能活下来吗？"
+                "x": "En la generación a partir de texto, la empresa citó como casos de uso principales los logotipos que combinan letras y formas, la tipografía decorativa y las ilustraciones de formas simples. No obstante, cuando las letras se convierten en trazados vectoriales, puede resultar difícil cambiar la fuente o el texto directamente como si fuera texto normal. La conversión de imágenes tampoco recupera la estructura de capas del original, por lo que conviene comprobar qué tan fácil es editarlas en la práctica."
+              },
+              {
+                "t": "video",
+                "yt": "jmQk4oa5EnM"
+              },
+              {
+                "t": "p",
+                "x": "También ofrece una API para desarrolladores. En la generación a partir de texto sin referencia de imagen, el precio de la API es de 0.13~0.20 dólares por imagen según el ajuste de calidad. La generación de alta calidad con referencia de imagen cuesta 0.32 dólares por imagen."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "아무도 원하지 않은\n반짝이 버튼",
-          "body": "사용자가 AI 패널의 끄기 버튼부터 찾자 필자는 AI로 기능을 만들라고 한다.",
-          "mini_headline": "아무도 원치 않은 반짝이",
+        "en": {
+          "headline": "Ideogram turns logos into\neditable SVG files",
+          "body": "Ideogram now goes beyond generating logos to produce editable SVG vector files.",
+          "mini_headline": "Ideogram SVG vector AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*zO6YRwfqZ98I2mbNC4MBNw.png",
-                "cap": "Jon Sabutis의 일러스트, HTML과 CSS로 제작"
+                "src": "https://cdn.aitimes.com/news/photo/202610/216679_220802_5713.jpeg",
+                "cap": "(Photo: Ideogram)"
               },
               {
                 "t": "p",
-                "x": "돈을 내고 쓰는 제품을 열면 어디든 오른쪽 위에 반짝이 아이콘이 있고, 그 뒤에는 \"Ask anything\"이라고 적힌 패널이 있다. 매일 AI로 코드를 쓰는 Jon Sabutis는 도구는 좋아졌지만 제품은 대체로 그렇지 않다고 주장한다. 모두 같은 제품이기 때문이다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*GVI4I-F2A2OolI_slccKuA.png"
+                "x": "The race in AI image generation is expanding from making good-looking pictures to producing files that can be used in real design work. On the 23rd (local time), Ideogram released 'Ideogram Vector,' a dedicated AI model that creates editable graphics from text and also converts existing images into vectors."
               },
               {
                 "t": "p",
-                "x": "사람들이 불쾌해하는 것은 그 기능이 자기 뜻과 상관없이 켜졌다는 점이다. 2026년 3월 Microsoft는 Notepad, Snipping Tool, Photos, Widgets에서 \"불필요한 Copilot 진입점\"을 줄이겠다고 밝혔다. 업데이트 뒤 초기화되는 설정은 사용자에게 한 가지 규칙을 가르친다. 이 회사는 내 결정을 뒤집는다는 것이다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1000/1*7yaE0--HMN9rGsXsmamCKg.gif"
+                "x": "Ideogram Vector generates an SVG file when users describe the design they want in words. It can also convert existing PNG or JPEG images into vector form. Because SVG is made of geometric elements such as lines, curves, color fills and gradients, it can be resized regardless of resolution, which matters for designs that must fit many sizes and media, such as logos, posters and product labels."
               },
               {
                 "t": "p",
-                "x": "UBS는 대형 클라우드 기업들이 2026년부터 2028년까지 설비투자(capex)에 약 4.1조 달러를 쓸 것으로 추산한다. 반면 MIT의 NANDA 그룹은 기업의 95퍼센트가 생성형 AI 파일럿에서 측정 가능한 수익을 얻지 못했다고 밝혔다."
+                "x": "For text-based generation, the company cited logos combining letters and shapes, decorative typography and illustrations built from simple forms as key use cases. However, once letters have been converted into vector paths, it may be hard to change the font or wording directly as with ordinary text. Image conversion also does not restore the original's layer structure, so how easy actual editing is needs to be checked."
               },
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Cwicgkr_ZVmyYTN1j18eCA.png",
-                "cap": "Jon Sabutis 제작 차트, UBS 추산 기준, 2026년 8월"
+                "t": "video",
+                "yt": "jmQk4oa5EnM"
               },
               {
                 "t": "p",
-                "x": "그의 원칙은 AI 기능이 아니라 AI로 기능을 만들라는 것이다. Smart Compose나 Photoshop의 Remove 도구가 그런 예다. 출시 전에는 누가 요청했는지, 무엇을 따서 이름을 지었는지, 기본값을 꺼 둔 채로도 내놓을지, 원가로 팔아도 살아남을지를 물어야 한다."
+                "x": "An API is also available for developers. For text-based generation without image references, API pricing is $0.13~0.20 per image depending on the quality setting. High-quality generation with image references is priced at $0.32 per image."
               }
             ]
           }
         },
         "ja": {
-          "headline": "誰も頼んでいない\nキラキラボタン",
-          "body": "利用者がAIパネルのオフ方法を探す今、筆者はAI機能でなくAIで機能を作れと説く。",
-          "mini_headline": "誰も望まないキラキラ",
+          "headline": "Ideogram、ロゴを\nSVG編集ファイルに",
+          "body": "Ideogramがロゴ生成を超え、編集可能なSVGベクターファイルを出力する。",
+          "mini_headline": "Ideogram SVG ベクター AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*zO6YRwfqZ98I2mbNC4MBNw.png",
-                "cap": "イラストはJon Sabutis、HTMLとCSSで制作"
+                "src": "https://cdn.aitimes.com/news/photo/202610/216679_220802_5713.jpeg",
+                "cap": "(写真=Ideogram)"
               },
               {
                 "t": "p",
-                "x": "お金を払って使う製品を開けば、どれも右上にキラキラのアイコンがあり、その奥に「Ask anything」と書かれたパネルがある。毎日AIでコードを書くJon Sabutisは、ツールは良くなったが製品の多くはそうではないと論じる。どれも同じ製品だからだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*GVI4I-F2A2OolI_slccKuA.png"
+                "x": "AI画像生成の競争は、見栄えのよい絵を作る段階から、実際のデザイン作業に使えるファイルを作る段階へと広がっている。Ideogramは23日(現地時間)、テキストから編集可能なグラフィックを作成し、既存の画像もベクターに変換する専用AIモデル「Ideogram Vector」を公開した。"
               },
               {
                 "t": "p",
-                "x": "人々が反発しているのは、それが勝手にオンにされたことだ。2026年3月、MicrosoftはNotepad、Snipping Tool、Photos、Widgetsにおける「不要なCopilotの入り口」を減らすと表明した。アップデート後にリセットされる設定は、利用者にひとつのルールを教える。この会社は自分の意思を覆す、というルールである。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1000/1*7yaE0--HMN9rGsXsmamCKg.gif"
+                "x": "Ideogram Vectorは、ユーザーが望むデザインを文章で説明するとSVGファイルを生成する。既存のPNGやJPEG画像もベクター形式に変換できる。SVGは線や曲線、色の塗り、グラデーションなどの幾何学的要素で構成され、解像度に左右されずにサイズを変更できるため、ロゴやポスター、製品ラベルのように様々なサイズや媒体に合わせる必要があるデザインで重要となる。"
               },
               {
                 "t": "p",
-                "x": "UBSは、大手クラウド企業が2026年から2028年にかけて設備投資(capex)に約4.1兆ドルを投じると推計する。一方、MITのNANDAグループは、企業の95パーセントが生成AIのパイロットから測定可能なリターンを得られなかったと報告した。"
+                "x": "テキストベースの生成では、文字と図形を組み合わせたロゴ、装飾的なタイポグラフィ、シンプルな形で構成したイラストなどを主な活用例として挙げた。ただし文字がベクターパスに変換された場合、フォントや文言を通常のテキストのようにすぐ変更するのは難しいことがある。画像変換も元のレイヤー構造まで復元されるわけではないため、実際の編集のしやすさを確かめる必要がある。"
               },
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Cwicgkr_ZVmyYTN1j18eCA.png",
-                "cap": "チャートはJon Sabutis作成、UBSの推計に基づく、2026年8月"
-              },
-              {
-                "t": "p",
-                "x": "彼のルールは、AI機能ではなくAIで機能を作ることだ。Smart ComposeやPhotoshopのRemoveツールがその例である。出荷前には、誰が求めたのか、何にちなんだ名前なのか、デフォルトでオフにして出せるか、原価でも生き残れるかを問うべきだという。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Nadie pidió el botón\nde los destellos",
-          "body": "Los usuarios buscan cómo apagar los paneles de AI, y el autor propone crear funciones con AI, no funciones de AI.",
-          "mini_headline": "Nadie quería el destello",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*zO6YRwfqZ98I2mbNC4MBNw.png",
-                "cap": "Ilustración de Jon Sabutis, hecha en HTML y CSS"
+                "t": "video",
+                "yt": "jmQk4oa5EnM"
               },
               {
                 "t": "p",
-                "x": "En cualquier producto de pago aparece un destello en la esquina superior derecha y, detrás, un panel que dice \"Ask anything\". Jon Sabutis, que programa con AI todos los días, sostiene que las herramientas mejoraron pero los productos en su mayoría no, porque son el mismo producto."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*GVI4I-F2A2OolI_slccKuA.png"
-              },
-              {
-                "t": "p",
-                "x": "Lo que molesta a la gente es que se activó sin consultarla. En marzo de 2026, Microsoft anunció que reduciría los \"puntos de entrada innecesarios de Copilot\" en Notepad, Snipping Tool, Photos y Widgets. Un ajuste que se restablece tras una actualización enseña a los usuarios una sola regla: esta empresa pasará por encima de mí."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1000/1*7yaE0--HMN9rGsXsmamCKg.gif"
-              },
-              {
-                "t": "p",
-                "x": "UBS estima que las grandes empresas de la nube invertirán cerca de 4.1 billones de dólares en capex entre 2026 y 2028, mientras que el grupo NANDA del MIT halló que el 95 por ciento de las empresas no obtuvo un retorno medible de sus pilotos de AI generativa."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Cwicgkr_ZVmyYTN1j18eCA.png",
-                "cap": "Gráfico de Jon Sabutis, a partir de estimaciones de UBS, agosto de 2026"
-              },
-              {
-                "t": "p",
-                "x": "Su regla: crear funciones con AI, no funciones de AI, como Smart Compose o la herramienta Remove de Photoshop. Antes de lanzar algo, hay que preguntarse quién lo pidió, a qué debe su nombre, si se lanzaría desactivado por defecto y si sobreviviría a precio de costo."
+                "x": "開発者向けのAPIも提供する。API価格は、テキストベースの生成で画像参照を使わない場合、品質設定に応じて一枚あたり0.13~0.20ドルである。画像参照を使う高品質生成は一枚あたり0.32ドルに設定された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "没人要过\n那颗闪光按钮",
-          "body": "用户四处寻找AI闪光面板的关闭开关，作者因此主张用AI打造功能，而非打造AI功能。",
-          "mini_headline": "没人想要那颗闪光",
+          "headline": "Ideogram把标志\n变成可编辑SVG",
+          "body": "Ideogram不止于生成标志，还能输出可编辑的SVG矢量文件。",
+          "mini_headline": "Ideogram SVG 矢量 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*zO6YRwfqZ98I2mbNC4MBNw.png",
-                "cap": "插图：Jon Sabutis，以 HTML 和 CSS 制作"
+                "src": "https://cdn.aitimes.com/news/photo/202610/216679_220802_5713.jpeg",
+                "cap": "(图片=Ideogram)"
               },
               {
                 "t": "p",
-                "x": "打开任何一款付费产品，右上角都有一颗闪光图标，背后是一个写着“Ask anything”的面板。每天用 AI 写代码的 Jon Sabutis 认为，工具变好了，产品却大多没有，因为它们都是同一个产品。"
+                "x": "AI图像生成的竞争正从制作好看的图片，扩展到制作可用于实际设计工作的文件。Ideogram于23日（当地时间）发布了专用AI模型“Ideogram Vector”，可通过文本生成可编辑图形，也能将现有图像转换为矢量。"
               },
+              {
+                "t": "p",
+                "x": "用户用文字描述想要的设计，Ideogram Vector即可生成SVG文件。现有的PNG或JPEG图像也能转换为矢量格式。SVG由线条、曲线、颜色填充、渐变等几何元素构成，可以不受分辨率限制地调整尺寸，因此对标志、海报、产品标签等需要适配多种尺寸和媒介的设计十分重要。"
+              },
+              {
+                "t": "p",
+                "x": "在基于文本的生成方面，该公司列举了文字与图形结合的标志、装饰性字体排印、由简单形状构成的插画等主要用例。不过，文字一旦转换为矢量路径，可能难以像普通文本那样直接修改字体或文案。图像转换也不会还原原图的图层结构，因此需要确认实际编辑有多方便。"
+              },
+              {
+                "t": "video",
+                "yt": "jmQk4oa5EnM"
+              },
+              {
+                "t": "p",
+                "x": "还为开发者提供API。API价格方面，基于文本的生成在不使用图像参考时，根据质量设置每张0.13~0.20美元。使用图像参考的高质量生成定价为每张0.32美元。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Ideogram convierte logos\nen archivos SVG editables",
+          "body": "Ideogram va más allá de generar logotipos y ahora entrega archivos vectoriales SVG editables.",
+          "mini_headline": "Ideogram: SVG vectorial con AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*GVI4I-F2A2OolI_slccKuA.png"
+                "src": "https://cdn.aitimes.com/news/photo/202610/216679_220802_5713.jpeg",
+                "cap": "(Foto: Ideogram)"
               },
               {
                 "t": "p",
-                "x": "人们反感的是，这些功能是被替他们打开的。2026年3月，Microsoft 表示将在 Notepad、Snipping Tool、Photos 和 Widgets 中削减“不必要的 Copilot 入口”。一项在更新后被重置的设置，只会让用户学到一条规则：这家公司会推翻我的决定。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1000/1*7yaE0--HMN9rGsXsmamCKg.gif"
+                "x": "La competencia en generación de imágenes con AI se amplía de crear imágenes atractivas a producir archivos que sirven para el trabajo real de diseño. Ideogram presentó el día 23 (hora local) 'Ideogram Vector', un modelo de AI dedicado que crea gráficos editables a partir de texto y que también convierte imágenes existentes en vectores."
               },
               {
                 "t": "p",
-                "x": "UBS 估计，大型云计算公司在2026年至2028年间的资本支出约为4.1万亿美元；而 MIT 的 NANDA 小组发现，百分之95的公司未能从生成式 AI 试点中获得可衡量的回报。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Cwicgkr_ZVmyYTN1j18eCA.png",
-                "cap": "图表：Jon Sabutis，依据 UBS 估算，2026年8月"
+                "x": "Ideogram Vector genera un archivo SVG cuando el usuario describe por escrito el diseño que desea. También puede convertir imágenes PNG o JPEG existentes a formato vectorial. Como el SVG se compone de elementos geométricos como líneas, curvas, rellenos de color y degradados, puede redimensionarse sin depender de la resolución, algo clave en diseños que deben adaptarse a distintos tamaños y medios, como logotipos, carteles y etiquetas de productos."
               },
               {
                 "t": "p",
-                "x": "他的原则是：用 AI 打造功能，而不是打造 AI 功能，比如 Smart Compose 或 Photoshop 的 Remove 工具。发布之前要问：谁提出过需求？它以什么命名？你是否愿意默认关闭它发布？按成本价它还能活下来吗？"
+                "x": "En la generación a partir de texto, la empresa citó como casos de uso principales los logotipos que combinan letras y formas, la tipografía decorativa y las ilustraciones de formas simples. No obstante, cuando las letras se convierten en trazados vectoriales, puede resultar difícil cambiar la fuente o el texto directamente como si fuera texto normal. La conversión de imágenes tampoco recupera la estructura de capas del original, por lo que conviene comprobar qué tan fácil es editarlas en la práctica."
+              },
+              {
+                "t": "video",
+                "yt": "jmQk4oa5EnM"
+              },
+              {
+                "t": "p",
+                "x": "También ofrece una API para desarrolladores. En la generación a partir de texto sin referencia de imagen, el precio de la API es de 0.13~0.20 dólares por imagen según el ajuste de calidad. La generación de alta calidad con referencia de imagen cuesta 0.32 dólares por imagen."
               }
             ]
           }
@@ -455,15 +677,15 @@
       }
     },
     {
-      "id": "design-b2b-chat-line",
+      "id": "design-figma-mcp-library",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 전문가를 만나기 전\n그어야 할 선",
-      "body": "B2B 채팅 계층이 전문가를 돕는지 일을 가로막는지 여섯 질문으로 가린다.",
-      "mini_headline": "전문가용 채팅 계층",
+      "headline": "MCP로 코드에서 만든\nFigma 라이브러리",
+      "body": "코드발 디자인 시스템을 MCP로 옮겨 AI용 Figma 라이브러리를 만든다.",
+      "mini_headline": "코드에서 Figma로, MCP 활용",
       "tool": "Figma",
       "source": "UX Collective",
-      "url": "https://uxdesign.cc/where-to-draw-the-line-before-ai-reaches-professional-users-09d61f61b2b5",
+      "url": "https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -471,239 +693,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Di003Ys9ARp2QsB9IF15Eg.png",
-            "cap": "로드맵마다 채팅창이 있다. 누구를 위한 채팅창인지 답하는 로드맵은 그보다 적다."
+            "src": "https://miro.medium.com/v2/resize:fit:1200/0*z97zDowA9lacbpjQ.jpeg"
           },
           {
             "t": "p",
-            "x": "이제 거의 모든 B2B 애플리케이션에 채팅창이 있다. Patrick Neeman은 그 채팅창이 누구를 위한 것인지 묻는다. 사용자는 수십 년 동안 자기 분야와 소프트웨어를 익혀 온 보험 손해사정사, 변호사, 공급 계획 담당자들이다."
+            "x": "Christine Vallaure가 디자이너용으로 쓴 실무 가이드(세 편짜리 시리즈 In-System Design의 Part 1)다. 자신의 디자인 시스템이 왜 코드에서 출발하는지, 그 코드로 Figma 라이브러리를 어떻게 만들고 점검하고 유지하는지 풀어낸다."
           },
           {
             "t": "p",
-            "x": "채팅은 전문가가 이미 대가를 치르고 익힌 기술을 대신할 뿐이라 도움을 받는 쪽은 주로 초보자다. 대화가 풀어 주는 건 기억의 문제인데, 전문가는 필드 이름과 상태 코드, 정확한 필터를 이미 안다. 필터는 전체 집합을 보여 주지만 채팅 답변은 물어본 것만 알려 준다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*0KrGdAZuSwqCRE6qAPhZSg.png",
-            "cap": "METR 실험에서 숙련 개발자들은 AI를 쓸 때 19% 느렸는데도 스스로는 반대로 믿었다."
+            "x": "Figma-to-code 경로를 AI에 맡겼더니 겉보기엔 멀쩡한데 파일에 없는 내용, 그러니까 포커스 순서와 오류 상태, 스크린 리더가 읽어 주는 내용을 지어낸 코드가 나왔다. 그래서 방향을 뒤집었다. \"코드가 기준 원본이다. Figma는 그것을 비춘다. 둘이 다르면 틀린 쪽은 Figma다.\""
           },
           {
             "t": "p",
-            "x": "METR 실험에서 숙련 개발자들은 AI 도구를 쓸 때 19% 느려졌다. Stanford 연구진은 법률 리서치 도구가 17%에서 33% 비율로 환각을 일으킨다는 사실을 확인했다. 전문가들이 여전히 모든 결과물을 검토하는 이유다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*wZUAQ2DcQddk7Sw3_Jji7Q.png",
-            "cap": "목적지는 세 갈래이고, 채팅창은 그중 하나뿐이다."
+            "x": "작업 흐름은 이렇다. 코드에 안전하게 접근하고 Storybook이 돌아가는지 확인한 뒤 Southleft의 Figma Console MCP로 빈 Figma 파일을 연다. 토큰과 텍스트 스타일부터 옮기고 Button과 Alert 같은 테스트 컴포넌트 두 개를 만들어 본 다음에야 라이브러리 전체를 돌린다. 매번 Figma로 표현하지 못한 것을 모두 적은 GAPS.md도 요청한다."
           },
           {
             "t": "p",
-            "x": "Neeman의 답은 이렇다. 일상 작업은 인터페이스에 그대로 두고 드문 작업은 채팅으로 보낸다. 지속적인 작업은 앰비언트 에이전트에 맡기는데, 이 에이전트는 사람이 결정해야 할 때만 끼어든다. \"채팅은 요청을 기다린다. 앰비언트 에이전트는 이미 알고 있다.\""
+            "x": "반복되는 수정은 스킬로 굳는다. 패리티 체커는 Storybook 컴포넌트 매니페스트와 여기에 대응하는 Figma JSON 목록을 이름은 이름끼리, 기본값은 기본값끼리 대조한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Where to draw the line\nbefore AI meets expert users",
-          "body": "Six questions test whether a B2B chat layer speeds experts up or just puts a keyboard between them and their work.",
-          "mini_headline": "Chat layers for expert users",
+          "headline": "A Figma library built\nfrom code with MCP",
+          "body": "This guide starts the design system in code and uses MCP to build and check the Figma library AI agents rely on.",
+          "mini_headline": "Code to Figma via MCP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Di003Ys9ARp2QsB9IF15Eg.png",
-                "cap": "Every roadmap has a chat box on it. Fewer have an answer for who it's for."
+                "src": "https://miro.medium.com/v2/resize:fit:1200/0*z97zDowA9lacbpjQ.jpeg"
               },
               {
                 "t": "p",
-                "x": "Nearly every B2B application now has a chat box. Patrick Neeman asks who it is for: claims adjusters, attorneys and supply planners who have spent decades learning their domain and their software."
+                "x": "Christine Vallaure's practical guide for designers (Part 1 of the three-part series In-System Design) explains why her design system starts in code and how she builds, checks and maintains the Figma library from it."
               },
               {
                 "t": "p",
-                "x": "Chat replaces skills experts already paid for, and it mainly helps novices: conversation solves recall, but experts know the field name, the status code and the exact filter. Filters also show the whole set, while a chat answer tells you only what you asked for."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*0KrGdAZuSwqCRE6qAPhZSg.png",
-                "cap": "Experienced developers in METR's trial were 19% slower with AI, and believed the opposite."
+                "x": "Handing the Figma-to-code route to an AI produced code that looked fine but invented what the file did not say: focus order, error states, what a screen reader announces. So she turned the direction around: \"Code is the source of truth. Figma mirrors it. Where they differ, Figma is wrong.\""
               },
               {
                 "t": "p",
-                "x": "METR found experienced developers 19% slower with AI tools, and Stanford researchers found legal research tools hallucinating between 17% and 33% of the time, so professionals still check every output."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*wZUAQ2DcQddk7Sw3_Jji7Q.png",
-                "cap": "Three destinations, and only one of them is a chat box."
+                "x": "The workflow: get safe access to the code, check that Storybook is running, open an empty Figma file with Figma Console MCP by Southleft, transfer tokens and text styles first, then build two test components such as Button and Alert before running the whole library — and ask for a GAPS.md every time, listing everything that could not be expressed in Figma."
               },
               {
                 "t": "p",
-                "x": "Neeman's answer: routine tasks stay in the interface, rare tasks go to chat, and ongoing tasks go to an ambient agent that interrupts only when a person must decide. \"Chat waits to be asked. An ambient agent already knows.\""
+                "x": "Repeated corrections become a skill, and a parity checker compares the Storybook component manifest with a matching Figma JSON list, name against name and default against default."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI가 전문가를 만나기 전\n그어야 할 선",
-          "body": "B2B 채팅 계층이 전문가를 돕는지 일을 가로막는지 여섯 질문으로 가린다.",
-          "mini_headline": "전문가용 채팅 계층",
+          "headline": "MCP로 코드에서 만든\nFigma 라이브러리",
+          "body": "코드발 디자인 시스템을 MCP로 옮겨 AI용 Figma 라이브러리를 만든다.",
+          "mini_headline": "코드에서 Figma로, MCP 활용",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Di003Ys9ARp2QsB9IF15Eg.png",
-                "cap": "로드맵마다 채팅창이 있다. 누구를 위한 채팅창인지 답하는 로드맵은 그보다 적다."
+                "src": "https://miro.medium.com/v2/resize:fit:1200/0*z97zDowA9lacbpjQ.jpeg"
               },
               {
                 "t": "p",
-                "x": "이제 거의 모든 B2B 애플리케이션에 채팅창이 있다. Patrick Neeman은 그 채팅창이 누구를 위한 것인지 묻는다. 사용자는 수십 년 동안 자기 분야와 소프트웨어를 익혀 온 보험 손해사정사, 변호사, 공급 계획 담당자들이다."
+                "x": "Christine Vallaure가 디자이너용으로 쓴 실무 가이드(세 편짜리 시리즈 In-System Design의 Part 1)다. 자신의 디자인 시스템이 왜 코드에서 출발하는지, 그 코드로 Figma 라이브러리를 어떻게 만들고 점검하고 유지하는지 풀어낸다."
               },
               {
                 "t": "p",
-                "x": "채팅은 전문가가 이미 대가를 치르고 익힌 기술을 대신할 뿐이라 도움을 받는 쪽은 주로 초보자다. 대화가 풀어 주는 건 기억의 문제인데, 전문가는 필드 이름과 상태 코드, 정확한 필터를 이미 안다. 필터는 전체 집합을 보여 주지만 채팅 답변은 물어본 것만 알려 준다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*0KrGdAZuSwqCRE6qAPhZSg.png",
-                "cap": "METR 실험에서 숙련 개발자들은 AI를 쓸 때 19% 느렸는데도 스스로는 반대로 믿었다."
+                "x": "Figma-to-code 경로를 AI에 맡겼더니 겉보기엔 멀쩡한데 파일에 없는 내용, 그러니까 포커스 순서와 오류 상태, 스크린 리더가 읽어 주는 내용을 지어낸 코드가 나왔다. 그래서 방향을 뒤집었다. \"코드가 기준 원본이다. Figma는 그것을 비춘다. 둘이 다르면 틀린 쪽은 Figma다.\""
               },
               {
                 "t": "p",
-                "x": "METR 실험에서 숙련 개발자들은 AI 도구를 쓸 때 19% 느려졌다. Stanford 연구진은 법률 리서치 도구가 17%에서 33% 비율로 환각을 일으킨다는 사실을 확인했다. 전문가들이 여전히 모든 결과물을 검토하는 이유다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*wZUAQ2DcQddk7Sw3_Jji7Q.png",
-                "cap": "목적지는 세 갈래이고, 채팅창은 그중 하나뿐이다."
+                "x": "작업 흐름은 이렇다. 코드에 안전하게 접근하고 Storybook이 돌아가는지 확인한 뒤 Southleft의 Figma Console MCP로 빈 Figma 파일을 연다. 토큰과 텍스트 스타일부터 옮기고 Button과 Alert 같은 테스트 컴포넌트 두 개를 만들어 본 다음에야 라이브러리 전체를 돌린다. 매번 Figma로 표현하지 못한 것을 모두 적은 GAPS.md도 요청한다."
               },
               {
                 "t": "p",
-                "x": "Neeman의 답은 이렇다. 일상 작업은 인터페이스에 그대로 두고 드문 작업은 채팅으로 보낸다. 지속적인 작업은 앰비언트 에이전트에 맡기는데, 이 에이전트는 사람이 결정해야 할 때만 끼어든다. \"채팅은 요청을 기다린다. 앰비언트 에이전트는 이미 알고 있다.\""
+                "x": "반복되는 수정은 스킬로 굳는다. 패리티 체커는 Storybook 컴포넌트 매니페스트와 여기에 대응하는 Figma JSON 목록을 이름은 이름끼리, 기본값은 기본값끼리 대조한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが専門家に届く前に\n引くべき一線",
-          "body": "B2Bのチャット層が専門家を速くするのか、仕事を妨げるだけかを六つの問いで検証する。",
-          "mini_headline": "専門家向けチャット層",
+          "headline": "MCPでコードから作る\nFigmaライブラリ",
+          "body": "デザインシステムをコードから始め、MCPでAI向けFigmaライブラリを構築・検証する。",
+          "mini_headline": "コードからFigmaへ、MCPで",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Di003Ys9ARp2QsB9IF15Eg.png",
-                "cap": "どのロードマップにもチャット欄がある。それが誰のためかに答えられるものは少ない。"
+                "src": "https://miro.medium.com/v2/resize:fit:1200/0*z97zDowA9lacbpjQ.jpeg"
               },
               {
                 "t": "p",
-                "x": "今やほぼすべてのB2Bアプリケーションにチャット欄がある。Patrick Neemanは、それが誰のためのものかを問う。対象は、数十年かけて自分の領域とソフトウェアを習得してきた保険の損害査定担当者、弁護士、供給計画担当者だ。"
+                "x": "Christine Vallaureによるデザイナー向け実践ガイド(全三回シリーズIn-System DesignのPart 1)は、彼女のデザインシステムがなぜコードから始まるのか、そしてそこからFigmaライブラリをどう構築し、検証し、維持するのかを解説する。"
               },
               {
                 "t": "p",
-                "x": "チャットは専門家がすでに対価を払って身につけたスキルを置き換え、主に初心者を助ける。対話は記憶の問題を解決するが、専門家はフィールド名もステータスコードも正確なフィルターも知っている。しかもフィルターは全体を見せるのに対し、チャットの答えは尋ねたことしか教えない。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*0KrGdAZuSwqCRE6qAPhZSg.png",
-                "cap": "METRの試験では、熟練開発者はAIを使うと19%遅くなったが、本人たちは逆だと信じていた。"
+                "x": "Figma-to-codeの工程をAIに任せたところ、見た目は問題ないがファイルに書かれていないこと、つまりフォーカス順序、エラー状態、スクリーンリーダーが読み上げる内容をでっち上げたコードができた。そこで彼女は方向を逆にした。「コードが唯一の正である。Figmaはそれを映す。両者が異なるなら、間違っているのはFigmaだ」"
               },
               {
                 "t": "p",
-                "x": "METRは熟練開発者がAIツールを使うと19%遅くなることを示し、Stanfordの研究者は法律調査ツールが17%から33%の割合で幻覚を起こすことを明らかにした。そのため専門家はいまもすべての出力を確認している。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*wZUAQ2DcQddk7Sw3_Jji7Q.png",
-                "cap": "行き先は三つ、そのうちチャット欄はひとつだけだ。"
+                "x": "ワークフローはこうだ。コードへの安全なアクセスを確保し、Storybookが動いていることを確認し、SouthleftのFigma Console MCPで空のFigmaファイルを開く。まずトークンとテキストスタイルを移し、ButtonやAlertなどのテストコンポーネントを二つ作ってからライブラリ全体を実行する。そして毎回、Figmaで表現できなかったものをすべて列挙したGAPS.mdを求める。"
               },
               {
                 "t": "p",
-                "x": "Neemanの答えはこうだ。定型的な作業はインターフェースに残し、まれな作業はチャットへ、継続的な作業は人の判断が必要なときだけ割り込むアンビエントエージェントに任せる。「チャットは頼まれるのを待つ。アンビエントエージェントはすでに知っている」"
+                "x": "繰り返される修正はスキルになり、パリティチェッカーがStorybookのコンポーネントマニフェストと対応するFigma JSONリストを、名前は名前同士、デフォルトはデフォルト同士で照合する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI接触专家用户之前\n先划清界线",
-          "body": "用六个问题检验B2B聊天层是让专家更快，还是只在他们与工作之间隔了一层键盘。",
-          "mini_headline": "面向专家的聊天层",
+          "headline": "用MCP从代码\n构建Figma组件库",
+          "body": "该指南让设计系统从代码起步，并用MCP构建和检查AI智能体所依赖的Figma组件库。",
+          "mini_headline": "借助MCP从代码到Figma",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Di003Ys9ARp2QsB9IF15Eg.png",
-                "cap": "每份路线图上都有聊天框，能说清它为谁而做的却不多。"
+                "src": "https://miro.medium.com/v2/resize:fit:1200/0*z97zDowA9lacbpjQ.jpeg"
               },
               {
                 "t": "p",
-                "x": "如今几乎每个B2B应用都有聊天框。Patrick Neeman问：它是为谁准备的？那些花了几十年学习本行领域和软件的理赔员、律师和供应计划员。"
+                "x": "Christine Vallaure为设计师撰写的实用指南（三部分系列In-System Design的Part 1）解释了她的设计系统为何从代码起步，以及她如何据此构建、检查并维护Figma组件库。"
               },
               {
                 "t": "p",
-                "x": "聊天取代的是专家早已付出代价掌握的技能，主要帮助的是新手：对话解决的是回忆问题，而专家知道字段名、状态码和准确的筛选条件。筛选器还能展示全集，聊天回答却只告诉你所问的内容。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*0KrGdAZuSwqCRE6qAPhZSg.png",
-                "cap": "在METR的试验中，资深开发者使用AI后慢了19%，自己却以为恰恰相反。"
+                "x": "把Figma-to-code这条路线交给AI后，生成的代码看起来没问题，却编造了文件中没有说明的内容：焦点顺序、错误状态、屏幕阅读器会播报什么。于是她把方向倒了过来：“代码是唯一可信来源。Figma只是它的镜像。两者不一致时，错的是Figma。”"
               },
               {
                 "t": "p",
-                "x": "METR发现资深开发者使用AI工具时慢了19%，Stanford研究人员发现法律检索工具出现幻觉的比例在17%到33%之间，因此专业人士仍要检查每一项输出。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*wZUAQ2DcQddk7Sw3_Jji7Q.png",
-                "cap": "三个去处，其中只有一个是聊天框。"
+                "x": "工作流程是：获取对代码的安全访问，确认Storybook正在运行，用Southleft的Figma Console MCP打开一个空白Figma文件，先迁移令牌和文本样式，再构建Button和Alert等两个测试组件，然后才运行整个组件库——并且每次都要求生成一份GAPS.md，列出所有无法在Figma中表达的内容。"
               },
               {
                 "t": "p",
-                "x": "Neeman的答案是：常规任务留在界面里，少见任务交给聊天，持续性任务交给只在需要人做决定时才介入的环境智能体。\"聊天等着被提问。环境智能体早已知晓。\""
+                "x": "反复出现的修正会沉淀为一项技能，而一致性检查器会把Storybook组件清单与对应的Figma JSON列表逐一比对，名称对名称，默认值对默认值。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Dónde trazar la línea antes\nde que la AI llegue al experto",
-          "body": "Seis preguntas ponen a prueba si una capa de chat B2B acelera a los expertos o solo les interpone un teclado.",
-          "mini_headline": "Capas de chat para expertos",
+          "headline": "Una biblioteca de Figma\nconstruida desde código con MCP",
+          "body": "La guía lleva el sistema de diseño del código a Figma con MCP y revisa la biblioteca que usan los agentes de AI.",
+          "mini_headline": "Del código a Figma con MCP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Di003Ys9ARp2QsB9IF15Eg.png",
-                "cap": "Todas las hojas de ruta incluyen un cuadro de chat. Pocas saben responder para quién es."
+                "src": "https://miro.medium.com/v2/resize:fit:1200/0*z97zDowA9lacbpjQ.jpeg"
               },
               {
                 "t": "p",
-                "x": "Casi todas las aplicaciones B2B tienen ya un cuadro de chat. Patrick Neeman pregunta para quién es: peritos de seguros, abogados y planificadores de suministro que han pasado décadas aprendiendo su campo y su software."
+                "x": "La guía práctica de Christine Vallaure para diseñadores (Part 1 de la serie de tres partes In-System Design) explica por qué su sistema de diseño empieza en el código y cómo construye, revisa y mantiene a partir de él la biblioteca de Figma."
               },
               {
                 "t": "p",
-                "x": "El chat sustituye habilidades por las que los expertos ya pagaron, y ayuda sobre todo a los principiantes: la conversación resuelve el problema del recuerdo, pero los expertos conocen el nombre del campo, el código de estado y el filtro exacto. Además, los filtros muestran el conjunto completo, mientras que una respuesta de chat solo dice lo que se preguntó."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*0KrGdAZuSwqCRE6qAPhZSg.png",
-                "cap": "En el ensayo de METR, los desarrolladores experimentados fueron un 19% más lentos con AI, y creían lo contrario."
+                "x": "Al delegar en una AI la ruta Figma-to-code, obtuvo un código que parecía correcto pero inventaba lo que el archivo no decía: el orden de foco, los estados de error, lo que anuncia un lector de pantalla. Así que invirtió la dirección: \"El código es la fuente de verdad. Figma lo refleja. Donde difieren, Figma está equivocado\"."
               },
               {
                 "t": "p",
-                "x": "METR halló que los desarrolladores experimentados eran un 19% más lentos con herramientas de AI, e investigadores de Stanford vieron que las herramientas de investigación jurídica alucinaban entre el 17% y el 33% de las veces, así que los profesionales siguen revisando cada resultado."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*wZUAQ2DcQddk7Sw3_Jji7Q.png",
-                "cap": "Tres destinos, y solo uno de ellos es un cuadro de chat."
+                "x": "El flujo de trabajo: obtener acceso seguro al código, comprobar que Storybook está en marcha, abrir un archivo de Figma vacío con Figma Console MCP de Southleft, transferir primero los tokens y los estilos de texto y luego crear dos componentes de prueba, como Button y Alert, antes de ejecutar toda la biblioteca; y pedir cada vez un GAPS.md que enumere todo lo que no pudo expresarse en Figma."
               },
               {
                 "t": "p",
-                "x": "La respuesta de Neeman: las tareas rutinarias se quedan en la interfaz, las poco frecuentes van al chat y las continuas pasan a un agente ambiental que solo interrumpe cuando una persona debe decidir. \"El chat espera a que le pregunten. Un agente ambiental ya lo sabe.\""
+                "x": "Las correcciones repetidas se convierten en una skill, y un verificador de paridad compara el manifiesto de componentes de Storybook con una lista JSON equivalente de Figma, nombre con nombre y valor por defecto con valor por defecto."
               }
             ]
           }
@@ -711,165 +867,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI가 전문가를 만나기 전\n그어야 할 선",
-          "body": "B2B 채팅 계층이 전문가를 돕는지 일을 가로막는지 여섯 질문으로 가린다.",
-          "mini_headline": "전문가용 채팅 계층",
+          "headline": "MCP로 코드에서 만든\nFigma 라이브러리",
+          "body": "코드에서 시작한 디자인 시스템을 MCP로 AI용 Figma 라이브러리로 옮긴다.",
+          "mini_headline": "코드에서 Figma로, MCP 활용",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Di003Ys9ARp2QsB9IF15Eg.png",
-                "cap": "모든 로드맵에 채팅창이 있다. 그것이 누구를 위한 것인지 답하는 로드맵은 그보다 적다."
+                "src": "https://miro.medium.com/v2/resize:fit:1200/0*z97zDowA9lacbpjQ.jpeg"
               },
               {
                 "t": "p",
-                "x": "이제 거의 모든 B2B 애플리케이션에 채팅창이 있다. Patrick Neeman은 그것이 누구를 위한 것인지 묻는다. 수십 년 동안 자기 분야와 소프트웨어를 익혀 온 보험 손해사정사, 변호사, 공급 계획 담당자들이다."
+                "x": "Christine Vallaure가 디자이너를 위해 쓴 실무 가이드(세 편짜리 시리즈 In-System Design의 Part 1)는 그의 디자인 시스템이 왜 코드에서 시작하는지, 그리고 그 코드로 Figma 라이브러리를 어떻게 만들고 점검하고 유지하는지 설명한다."
               },
               {
                 "t": "p",
-                "x": "채팅은 전문가가 이미 대가를 치르고 익힌 기술을 대체하며, 주로 초보자에게 도움이 된다. 대화는 기억의 문제를 풀어 주지만, 전문가는 필드 이름과 상태 코드, 정확한 필터를 이미 안다. 또 필터는 전체 집합을 보여 주지만, 채팅 답변은 물어본 것만 알려 준다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*0KrGdAZuSwqCRE6qAPhZSg.png",
-                "cap": "METR 실험에서 숙련 개발자들은 AI를 쓸 때 19% 느렸지만, 스스로는 반대로 믿었다."
+                "x": "Figma-to-code 경로를 AI에 맡기자 겉보기엔 멀쩡하지만 파일에 없는 내용, 즉 포커스 순서, 오류 상태, 스크린 리더가 읽어 주는 내용을 지어낸 코드가 나왔다. 그래서 그는 방향을 뒤집었다. \"코드가 기준 원본이다. Figma는 그것을 비춘다. 둘이 다르면 틀린 쪽은 Figma다.\""
               },
               {
                 "t": "p",
-                "x": "METR는 숙련 개발자들이 AI 도구를 쓸 때 19% 느려진다는 결과를 냈고, Stanford 연구진은 법률 리서치 도구가 17%에서 33%의 비율로 환각을 일으킨다는 사실을 확인했다. 그래서 전문가들은 여전히 모든 결과물을 검토한다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*wZUAQ2DcQddk7Sw3_Jji7Q.png",
-                "cap": "세 갈래의 목적지, 그중 채팅창은 하나뿐이다."
+                "x": "작업 흐름은 이렇다. 코드에 안전하게 접근하고, Storybook이 실행되는지 확인하고, Southleft의 Figma Console MCP로 빈 Figma 파일을 연다. 토큰과 텍스트 스타일을 먼저 옮긴 뒤 Button과 Alert 같은 테스트 컴포넌트 두 개를 만들어 보고 나서 라이브러리 전체를 돌린다. 그리고 매번 Figma로 표현하지 못한 모든 것을 정리한 GAPS.md를 요청한다."
               },
               {
                 "t": "p",
-                "x": "Neeman의 답은 이렇다. 일상적인 작업은 인터페이스에 남기고, 드문 작업은 채팅으로 보내며, 지속적인 작업은 사람이 결정해야 할 때만 끼어드는 앰비언트 에이전트에 맡긴다. \"채팅은 요청을 기다린다. 앰비언트 에이전트는 이미 알고 있다.\""
+                "x": "반복되는 수정은 스킬이 되고, 패리티 체커가 Storybook 컴포넌트 매니페스트와 이에 대응하는 Figma JSON 목록을 이름은 이름끼리, 기본값은 기본값끼리 대조한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが専門家に届く前に\n引くべき一線",
-          "body": "B2Bのチャット層が専門家を速くするのか、仕事を妨げるだけかを六つの問いで検証する。",
-          "mini_headline": "専門家向けチャット層",
+          "headline": "MCPでコードから作る\nFigmaライブラリ",
+          "body": "デザインシステムをコードから始め、MCPでAI向けFigmaライブラリを構築・検証する。",
+          "mini_headline": "コードからFigmaへ、MCPで",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Di003Ys9ARp2QsB9IF15Eg.png",
-                "cap": "どのロードマップにもチャット欄がある。それが誰のためかに答えられるものは少ない。"
+                "src": "https://miro.medium.com/v2/resize:fit:1200/0*z97zDowA9lacbpjQ.jpeg"
               },
               {
                 "t": "p",
-                "x": "今やほぼすべてのB2Bアプリケーションにチャット欄がある。Patrick Neemanは、それが誰のためのものかを問う。対象は、数十年かけて自分の領域とソフトウェアを習得してきた保険の損害査定担当者、弁護士、供給計画担当者だ。"
+                "x": "Christine Vallaureによるデザイナー向け実践ガイド(全三回シリーズIn-System DesignのPart 1)は、彼女のデザインシステムがなぜコードから始まるのか、そしてそこからFigmaライブラリをどう構築し、検証し、維持するのかを解説する。"
               },
               {
                 "t": "p",
-                "x": "チャットは専門家がすでに対価を払って身につけたスキルを置き換え、主に初心者を助ける。対話は記憶の問題を解決するが、専門家はフィールド名もステータスコードも正確なフィルターも知っている。しかもフィルターは全体を見せるのに対し、チャットの答えは尋ねたことしか教えない。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*0KrGdAZuSwqCRE6qAPhZSg.png",
-                "cap": "METRの試験では、熟練開発者はAIを使うと19%遅くなったが、本人たちは逆だと信じていた。"
+                "x": "Figma-to-codeの工程をAIに任せたところ、見た目は問題ないがファイルに書かれていないこと、つまりフォーカス順序、エラー状態、スクリーンリーダーが読み上げる内容をでっち上げたコードができた。そこで彼女は方向を逆にした。「コードが唯一の正である。Figmaはそれを映す。両者が異なるなら、間違っているのはFigmaだ」"
               },
               {
                 "t": "p",
-                "x": "METRは熟練開発者がAIツールを使うと19%遅くなることを示し、Stanfordの研究者は法律調査ツールが17%から33%の割合で幻覚を起こすことを明らかにした。そのため専門家はいまもすべての出力を確認している。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*wZUAQ2DcQddk7Sw3_Jji7Q.png",
-                "cap": "行き先は三つ、そのうちチャット欄はひとつだけだ。"
+                "x": "ワークフローはこうだ。コードへの安全なアクセスを確保し、Storybookが動いていることを確認し、SouthleftのFigma Console MCPで空のFigmaファイルを開く。まずトークンとテキストスタイルを移し、ButtonやAlertなどのテストコンポーネントを二つ作ってからライブラリ全体を実行する。そして毎回、Figmaで表現できなかったものをすべて列挙したGAPS.mdを求める。"
               },
               {
                 "t": "p",
-                "x": "Neemanの答えはこうだ。定型的な作業はインターフェースに残し、まれな作業はチャットへ、継続的な作業は人の判断が必要なときだけ割り込むアンビエントエージェントに任せる。「チャットは頼まれるのを待つ。アンビエントエージェントはすでに知っている」"
+                "x": "繰り返される修正はスキルになり、パリティチェッカーがStorybookのコンポーネントマニフェストと対応するFigma JSONリストを、名前は名前同士、デフォルトはデフォルト同士で照合する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI接触专家用户之前\n先划清界线",
-          "body": "用六个问题检验B2B聊天层是让专家更快，还是只在他们与工作之间隔了一层键盘。",
-          "mini_headline": "面向专家的聊天层",
+          "headline": "用MCP从代码\n构建Figma组件库",
+          "body": "该指南让设计系统从代码起步，并用MCP构建和检查AI智能体所依赖的Figma组件库。",
+          "mini_headline": "借助MCP从代码到Figma",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Di003Ys9ARp2QsB9IF15Eg.png",
-                "cap": "每份路线图上都有聊天框，能说清它为谁而做的却不多。"
+                "src": "https://miro.medium.com/v2/resize:fit:1200/0*z97zDowA9lacbpjQ.jpeg"
               },
               {
                 "t": "p",
-                "x": "如今几乎每个B2B应用都有聊天框。Patrick Neeman问：它是为谁准备的？那些花了几十年学习本行领域和软件的理赔员、律师和供应计划员。"
+                "x": "Christine Vallaure为设计师撰写的实用指南（三部分系列In-System Design的Part 1）解释了她的设计系统为何从代码起步，以及她如何据此构建、检查并维护Figma组件库。"
               },
               {
                 "t": "p",
-                "x": "聊天取代的是专家早已付出代价掌握的技能，主要帮助的是新手：对话解决的是回忆问题，而专家知道字段名、状态码和准确的筛选条件。筛选器还能展示全集，聊天回答却只告诉你所问的内容。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*0KrGdAZuSwqCRE6qAPhZSg.png",
-                "cap": "在METR的试验中，资深开发者使用AI后慢了19%，自己却以为恰恰相反。"
+                "x": "把Figma-to-code这条路线交给AI后，生成的代码看起来没问题，却编造了文件中没有说明的内容：焦点顺序、错误状态、屏幕阅读器会播报什么。于是她把方向倒了过来：“代码是唯一可信来源。Figma只是它的镜像。两者不一致时，错的是Figma。”"
               },
               {
                 "t": "p",
-                "x": "METR发现资深开发者使用AI工具时慢了19%，Stanford研究人员发现法律检索工具出现幻觉的比例在17%到33%之间，因此专业人士仍要检查每一项输出。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*wZUAQ2DcQddk7Sw3_Jji7Q.png",
-                "cap": "三个去处，其中只有一个是聊天框。"
+                "x": "工作流程是：获取对代码的安全访问，确认Storybook正在运行，用Southleft的Figma Console MCP打开一个空白Figma文件，先迁移令牌和文本样式，再构建Button和Alert等两个测试组件，然后才运行整个组件库——并且每次都要求生成一份GAPS.md，列出所有无法在Figma中表达的内容。"
               },
               {
                 "t": "p",
-                "x": "Neeman的答案是：常规任务留在界面里，少见任务交给聊天，持续性任务交给只在需要人做决定时才介入的环境智能体。\"聊天等着被提问。环境智能体早已知晓。\""
+                "x": "反复出现的修正会沉淀为一项技能，而一致性检查器会把Storybook组件清单与对应的Figma JSON列表逐一比对，名称对名称，默认值对默认值。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Dónde trazar la línea antes\nde que la AI llegue al experto",
-          "body": "Seis preguntas ponen a prueba si una capa de chat B2B acelera a los expertos o solo les interpone un teclado.",
-          "mini_headline": "Capas de chat para expertos",
+          "headline": "Una biblioteca de Figma\nconstruida desde código con MCP",
+          "body": "La guía lleva el sistema de diseño del código a Figma con MCP y revisa la biblioteca que usan los agentes de AI.",
+          "mini_headline": "Del código a Figma con MCP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Di003Ys9ARp2QsB9IF15Eg.png",
-                "cap": "Todas las hojas de ruta incluyen un cuadro de chat. Pocas saben responder para quién es."
+                "src": "https://miro.medium.com/v2/resize:fit:1200/0*z97zDowA9lacbpjQ.jpeg"
               },
               {
                 "t": "p",
-                "x": "Casi todas las aplicaciones B2B tienen ya un cuadro de chat. Patrick Neeman pregunta para quién es: peritos de seguros, abogados y planificadores de suministro que han pasado décadas aprendiendo su campo y su software."
+                "x": "La guía práctica de Christine Vallaure para diseñadores (Part 1 de la serie de tres partes In-System Design) explica por qué su sistema de diseño empieza en el código y cómo construye, revisa y mantiene a partir de él la biblioteca de Figma."
               },
               {
                 "t": "p",
-                "x": "El chat sustituye habilidades por las que los expertos ya pagaron, y ayuda sobre todo a los principiantes: la conversación resuelve el problema del recuerdo, pero los expertos conocen el nombre del campo, el código de estado y el filtro exacto. Además, los filtros muestran el conjunto completo, mientras que una respuesta de chat solo dice lo que se preguntó."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*0KrGdAZuSwqCRE6qAPhZSg.png",
-                "cap": "En el ensayo de METR, los desarrolladores experimentados fueron un 19% más lentos con AI, y creían lo contrario."
+                "x": "Al delegar en una AI la ruta Figma-to-code, obtuvo un código que parecía correcto pero inventaba lo que el archivo no decía: el orden de foco, los estados de error, lo que anuncia un lector de pantalla. Así que invirtió la dirección: \"El código es la fuente de verdad. Figma lo refleja. Donde difieren, Figma está equivocado\"."
               },
               {
                 "t": "p",
-                "x": "METR halló que los desarrolladores experimentados eran un 19% más lentos con herramientas de AI, e investigadores de Stanford vieron que las herramientas de investigación jurídica alucinaban entre el 17% y el 33% de las veces, así que los profesionales siguen revisando cada resultado."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*wZUAQ2DcQddk7Sw3_Jji7Q.png",
-                "cap": "Tres destinos, y solo uno de ellos es un cuadro de chat."
+                "x": "El flujo de trabajo: obtener acceso seguro al código, comprobar que Storybook está en marcha, abrir un archivo de Figma vacío con Figma Console MCP de Southleft, transferir primero los tokens y los estilos de texto y luego crear dos componentes de prueba, como Button y Alert, antes de ejecutar toda la biblioteca; y pedir cada vez un GAPS.md que enumere todo lo que no pudo expresarse en Figma."
               },
               {
                 "t": "p",
-                "x": "La respuesta de Neeman: las tareas rutinarias se quedan en la interfaz, las poco frecuentes van al chat y las continuas pasan a un agente ambiental que solo interrumpe cuando una persona debe decidir. \"El chat espera a que le pregunten. Un agente ambiental ya lo sabe.\""
+                "x": "Las correcciones repetidas se convierten en una skill, y un verificador de paridad compara el manifiesto de componentes de Storybook con una lista JSON equivalente de Figma, nombre con nombre y valor por defecto con valor por defecto."
               }
             ]
           }
@@ -877,255 +989,165 @@
       }
     },
     {
-      "id": "design-ai-firms-human-brands",
+      "id": "design-shopify-fullstack-designer",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 기업은 왜 아직도\n사람에게 브랜딩을 맡기나",
-      "body": "AI 기업들은 자사 브랜드 아이덴티티만은 계속 사람 디자이너와 에이전시에 맡긴다.",
-      "mini_headline": "AI 브랜드, 사람 디자이너",
-      "tool": "Figma",
-      "source": "Creative Bloq",
-      "url": "https://www.creativebloq.com/news/why-do-ai-platforms-want-humans-to-design-their-branding",
-      "accent": "#eb367f",
+      "headline": "Shopify 디자이너\n\"디자이너는 편집자\"",
+      "body": "Shopify의 Marvin Schwaibold는 디자이너를 AI의 편집자로 본다.",
+      "mini_headline": "디자이너는 이제 편집자",
+      "tool": "Social",
+      "source": "Y Combinator (YouTube)",
+      "url": "https://www.youtube.com/watch?v=eojywvxqoLc",
+      "accent": "#ff2d55",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/8iLPH4BsY5429rchU9dzuZ.png",
-            "cap": "How&How가 만든 Ideogram 리브랜딩은 뇌 모양 마크와 Photoshop에서 손으로 다듬은 AI 생성(AI-generated) 이미지가 중심이다. (Image credit: How&How/Ideogram)"
+            "t": "video",
+            "yt": "eojywvxqoLc"
           },
           {
             "t": "p",
-            "x": "인간 디자이너의 일자리를 없애려 혈안이 된 듯한 AI 기업들이 정작 자사 브랜드 아이덴티티는 여전히 인간 디자이너에게 맡긴다. Ideogram은 How&How에, AI 영상 앱 Elva는 Lazarev에, AI 감사 기업 Clusia는 Together에 맡겼고, Meta의 새 AI 플랫폼 Muse는 레터링 아티스트 Jessica Hische가 맡았다."
+            "x": "Design Review 이번 에피소드에서 Shopify 제품 디자인 스튜디오를 이끄는 Marvin Schwaibold가 YC의 Aaron Epstein과 함께 자신의 디자인 과정을 보여준다. 팀이 최근 내놓은 어드민 리디자인과 Sidekick 작업, 실제 잔디를 셰이더로 재현한 주말 프로젝트, 91번 시도한 끝에 완성한 캐러셀이 차례로 나온다."
           },
           {
             "t": "p",
-            "x": "Tom May의 답은 이렇다. 브랜딩은 애초에 보기 좋게 만드는 일이 아니었다. 사람들이 나를 믿게 하는 일이다. 그리고 AI 기업은 디자이너 쪽에서도 일반 대중 쪽에서도 신뢰 문제를 겪는다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/eyb69kyib2ifYxEkYbgUqZ.png",
-            "cap": "Lazarev가 만든 Elva의 브랜드 시스템은 이 AI 영상 편집기에 사용자가 말을 걸고 싶어질 만한 친근한 성격을 입히려 한다. (Image credit: Lazarev/Elva)"
+            "x": "그의 도구는 Figma에서 \"Codex와 Claude Code 같은 도구, 그리고 터미널에 오래 머무는 쪽\"으로 옮겨 갔고 Figma는 연습장처럼 쓴다. 그는 \"이제 결과물은 문제가 아니다. 무엇을 밀고 나갈지 극도로 까다롭게 고르는 것이 우리의 일\"이라며 \"우리는 그 어느 때보다 편집자에 가깝다\"고 말한다. AI를 두고는 \"코드를 쓸 수 있지만 무엇이 좋아 보이고 무엇이 나빠 보이는지는 모르며, 그건 내가 판단할 몫\"이라고 했다."
           },
           {
             "t": "p",
-            "x": "Hische는 Muse 작업으로 Threads에서 거센 비난을 받았다. 12,500달러 보수가 작은 작업실 두 곳과 직원들이 버티는 데 보탬이 된다고 설명했는데도 그랬다. May는 그 분노를 이해하면서도 거절해 봐야 크게 달라질 것은 없다고 본다. 그들은 그냥 다른 사람을 찾으면 그만이다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/bbihuCHghiaC2K3uSv94gZ.webp",
-            "cap": "Together가 만든 Clusia 아이덴티티 (Image credit: Together/Clusia)"
-          },
-          {
-            "t": "p",
-            "x": "그의 주장은 이렇다. AI 기업이 인간처럼 보이려고 인간에게 돈을 내겠다면, 그 돈을 받고 훌륭한 작업을 해내서 왜 자신들에게 맡겼는지 모두에게 일깨우는 편이 낫다."
+            "x": "이어 두 사람은 시청자가 보낸 웹사이트 다섯 곳을 모션과 인터랙티비티 위주로 리뷰한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Why AI companies still hire\nhumans for their branding",
-          "body": "AI firms keep hiring human designers and agencies for their own brand identities, a telling irony for creatives.",
-          "mini_headline": "AI brands, human designers",
+          "headline": "Shopify designer on why\ndesigners are now editors",
+          "body": "Shopify's Marvin Schwaibold says AI coding tools changed how he designs, leaving designers to curate what AI makes.",
+          "mini_headline": "Designers are now editors",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/8iLPH4BsY5429rchU9dzuZ.png",
-                "cap": "How&How's rebrand for Ideogram is built around a brain-shaped mark and AI-generated imagery refined by hand in Photoshop. (Image credit: How&How/Ideogram)"
+                "t": "video",
+                "yt": "eojywvxqoLc"
               },
               {
                 "t": "p",
-                "x": "The very AI companies that seem hell-bent on putting human designers out of work keep hiring human designers for their brand identities: How&How for Ideogram, Lazarev for AI video app Elva, Together for AI audit firm Clusia, and lettering artist Jessica Hische for Meta's new AI platform, Muse."
+                "x": "In this episode of Design Review, Marvin Schwaibold, who leads the product design studio at Shopify, joins YC's Aaron Epstein to walk through his design process. He shows the admin redesign and Sidekick work his team recently shipped, a weekend project where he rebuilt real grass as a shader, and a carousel that took 91 attempts to get right."
               },
               {
                 "t": "p",
-                "x": "Tom May's answer: branding has never been about making things look nice. It's about making people believe you, and AI companies have a credibility problem with designers and the general public alike."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/eyb69kyib2ifYxEkYbgUqZ.png",
-                "cap": "Lazarev's brand system for Elva aims to give the AI video editor a friendly personality users will want to talk to. (Image credit: Lazarev/Elva)"
+                "x": "His tooling has shifted from Figma to \"tools like Codex and Claude Code and being in terminal a lot,\" with Figma used as a scratch pad. \"The output isn't the issue anymore, it's us being extremely selective about what we go forward with,\" he says. \"We're more the editors now than ever before.\" AI \"can write code, but it doesn't know what looks good and what looks bad and that's for me to decide.\""
               },
               {
                 "t": "p",
-                "x": "Hische was hammered on Threads for the Muse work, despite explaining that the $12,500 fee would help keep two small shops and their staff afloat. May understands the anger but doubts refusing would change much: they'd just find someone else."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/bbihuCHghiaC2K3uSv94gZ.webp",
-                "cap": "Together's identity for Clusia (Image credit: Together/Clusia)"
-              },
-              {
-                "t": "p",
-                "x": "If AI companies want to pay humans to make them look human, he argues, it's best to take the money, do brilliant work and remind everyone why they asked."
+                "x": "Then they review five viewer-submitted websites with a focus on motion and interactivity."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 기업은 왜 아직도\n사람에게 브랜딩을 맡기나",
-          "body": "AI 기업들은 자사 브랜드 아이덴티티만은 계속 사람 디자이너와 에이전시에 맡긴다.",
-          "mini_headline": "AI 브랜드, 사람 디자이너",
+          "headline": "Shopify 디자이너\n\"디자이너는 편집자\"",
+          "body": "Shopify의 Marvin Schwaibold는 디자이너를 AI의 편집자로 본다.",
+          "mini_headline": "디자이너는 이제 편집자",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/8iLPH4BsY5429rchU9dzuZ.png",
-                "cap": "How&How가 만든 Ideogram 리브랜딩은 뇌 모양 마크와 Photoshop에서 손으로 다듬은 AI 생성(AI-generated) 이미지가 중심이다. (Image credit: How&How/Ideogram)"
+                "t": "video",
+                "yt": "eojywvxqoLc"
               },
               {
                 "t": "p",
-                "x": "인간 디자이너의 일자리를 없애려 혈안이 된 듯한 AI 기업들이 정작 자사 브랜드 아이덴티티는 여전히 인간 디자이너에게 맡긴다. Ideogram은 How&How에, AI 영상 앱 Elva는 Lazarev에, AI 감사 기업 Clusia는 Together에 맡겼고, Meta의 새 AI 플랫폼 Muse는 레터링 아티스트 Jessica Hische가 맡았다."
+                "x": "Design Review 이번 에피소드에서 Shopify 제품 디자인 스튜디오를 이끄는 Marvin Schwaibold가 YC의 Aaron Epstein과 함께 자신의 디자인 과정을 보여준다. 팀이 최근 내놓은 어드민 리디자인과 Sidekick 작업, 실제 잔디를 셰이더로 재현한 주말 프로젝트, 91번 시도한 끝에 완성한 캐러셀이 차례로 나온다."
               },
               {
                 "t": "p",
-                "x": "Tom May의 답은 이렇다. 브랜딩은 애초에 보기 좋게 만드는 일이 아니었다. 사람들이 나를 믿게 하는 일이다. 그리고 AI 기업은 디자이너 쪽에서도 일반 대중 쪽에서도 신뢰 문제를 겪는다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/eyb69kyib2ifYxEkYbgUqZ.png",
-                "cap": "Lazarev가 만든 Elva의 브랜드 시스템은 이 AI 영상 편집기에 사용자가 말을 걸고 싶어질 만한 친근한 성격을 입히려 한다. (Image credit: Lazarev/Elva)"
+                "x": "그의 도구는 Figma에서 \"Codex와 Claude Code 같은 도구, 그리고 터미널에 오래 머무는 쪽\"으로 옮겨 갔고 Figma는 연습장처럼 쓴다. 그는 \"이제 결과물은 문제가 아니다. 무엇을 밀고 나갈지 극도로 까다롭게 고르는 것이 우리의 일\"이라며 \"우리는 그 어느 때보다 편집자에 가깝다\"고 말한다. AI를 두고는 \"코드를 쓸 수 있지만 무엇이 좋아 보이고 무엇이 나빠 보이는지는 모르며, 그건 내가 판단할 몫\"이라고 했다."
               },
               {
                 "t": "p",
-                "x": "Hische는 Muse 작업으로 Threads에서 거센 비난을 받았다. 12,500달러 보수가 작은 작업실 두 곳과 직원들이 버티는 데 보탬이 된다고 설명했는데도 그랬다. May는 그 분노를 이해하면서도 거절해 봐야 크게 달라질 것은 없다고 본다. 그들은 그냥 다른 사람을 찾으면 그만이다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/bbihuCHghiaC2K3uSv94gZ.webp",
-                "cap": "Together가 만든 Clusia 아이덴티티 (Image credit: Together/Clusia)"
-              },
-              {
-                "t": "p",
-                "x": "그의 주장은 이렇다. AI 기업이 인간처럼 보이려고 인간에게 돈을 내겠다면, 그 돈을 받고 훌륭한 작업을 해내서 왜 자신들에게 맡겼는지 모두에게 일깨우는 편이 낫다."
+                "x": "이어 두 사람은 시청자가 보낸 웹사이트 다섯 곳을 모션과 인터랙티비티 위주로 리뷰한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI企業はなぜいまも\n人にブランドを託すのか",
-          "body": "AI企業は自社のブランドアイデンティティを人間のデザイナーや代理店に依頼し続けている。",
-          "mini_headline": "AIブランド、人間のデザイナー",
+          "headline": "Shopifyデザイナー\n「今や我々は編集者」",
+          "body": "ShopifyのMarvin Schwaiboldは、AI時代のデザイナーを編集者と呼ぶ。",
+          "mini_headline": "デザイナーは今や編集者",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/8iLPH4BsY5429rchU9dzuZ.png",
-                "cap": "How&HowによるIdeogramのリブランドは、脳の形をしたマークと、Photoshopで手作業で仕上げたAI生成(AI-generated)画像を軸にしている。(Image credit: How&How/Ideogram)"
+                "t": "video",
+                "yt": "eojywvxqoLc"
               },
               {
                 "t": "p",
-                "x": "人間のデザイナーから仕事を奪おうと躍起になっているように見えるAI企業こそが、自社のブランドアイデンティティには人間のデザイナーを起用し続けている。IdeogramはHow&How、AI動画アプリのElvaはLazarev、AI監査企業のClusiaはTogether、そしてMetaの新しいAIプラットフォームMuseはレタリングアーティストのJessica Hischeだ。"
+                "x": "Design Reviewの今回のエピソードでは、Shopifyでプロダクトデザインスタジオを率いるMarvin Schwaiboldが、YCのAaron Epsteinとともに自身のデザインプロセスを紹介する。チームが最近リリースした管理画面のリデザインやSidekickの取り組み、本物の芝生をシェーダーで再現した週末プロジェクト、そして完成までに91回の試行を要したカルーセルを見せる。"
               },
               {
                 "t": "p",
-                "x": "Tom Mayの答えはこうだ。ブランディングが見た目を整えるためのものだったことは一度もない。人に信じてもらうためのものであり、AI企業はデザイナーからも一般の人々からも信頼の問題を抱えている。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/eyb69kyib2ifYxEkYbgUqZ.png",
-                "cap": "LazarevによるElvaのブランドシステムは、このAI動画エディターに、ユーザーが話しかけたくなる親しみやすい人格を与えることを狙う。(Image credit: Lazarev/Elva)"
+                "x": "彼のツールはFigmaから「CodexやClaude Codeのようなツールと、ターミナルに長くいること」へと移り、Figmaは下書き用のメモ帳として使う。「もはやアウトプットは問題ではなく、何を先に進めるかを極めて厳しく選ぶことが重要だ」と彼は言う。「私たちは今、かつてないほど編集者に近い」。AIは「コードは書けるが、何が良く見えて何が悪く見えるかは分からない。それを決めるのは私だ」。"
               },
               {
                 "t": "p",
-                "x": "HischeはMuseの仕事をめぐってThreadsで激しく批判された。12,500ドルの報酬が小さな二つのスタジオとそのスタッフを支える助けになると説明したにもかかわらずだ。Mayは怒りに理解を示しつつ、断っても大して変わらないとみる。彼らは別の誰かを見つけるだけだからだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/bbihuCHghiaC2K3uSv94gZ.webp",
-                "cap": "TogetherによるClusiaのアイデンティティ (Image credit: Together/Clusia)"
-              },
-              {
-                "t": "p",
-                "x": "AI企業が人間らしく見せるために人間にお金を払いたいのなら、その金を受け取り、見事な仕事をして、なぜ依頼したのかを皆に思い出させるのが一番だと彼は主張する。"
+                "x": "続いて二人は、視聴者から寄せられた五つのウェブサイトを、モーションとインタラクティブ性に注目してレビューする。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "为何AI公司仍请\n真人做品牌",
-          "body": "AI公司仍在为自家品牌形象聘请人类设计师和代理机构，这对创意人来说是个耐人寻味的讽刺。",
-          "mini_headline": "AI品牌，真人设计",
+          "headline": "Shopify设计师：\n设计师如今是编辑",
+          "body": "Shopify的Marvin Schwaibold说，AI编码工具让设计师更像编辑。",
+          "mini_headline": "设计师如今是编辑",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/8iLPH4BsY5429rchU9dzuZ.png",
-                "cap": "How&How为Ideogram打造的新品牌形象，以脑形标志和在Photoshop中手工精修的AI生成（AI-generated）图像为核心。(Image credit: How&How/Ideogram)"
+                "t": "video",
+                "yt": "eojywvxqoLc"
               },
               {
                 "t": "p",
-                "x": "那些似乎一心要让人类设计师失业的AI公司，恰恰一直在请人类设计师打造品牌形象：Ideogram请了How&How，AI视频应用Elva请了Lazarev，AI审计公司Clusia请了Together，Meta的新AI平台Muse则请了字体艺术家Jessica Hische。"
+                "x": "在本期Design Review中，Shopify产品设计工作室负责人Marvin Schwaibold与YC的Aaron Epstein一起讲解他的设计流程。他展示了团队最近上线的后台重新设计和Sidekick相关工作、一个用着色器重现真实草地的周末项目，以及一个尝试了91次才做好的轮播组件。"
               },
               {
                 "t": "p",
-                "x": "Tom May的回答是：品牌从来不是为了让东西好看，而是为了让人们相信你，而AI公司在设计师和普通大众那里都存在信誉问题。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/eyb69kyib2ifYxEkYbgUqZ.png",
-                "cap": "Lazarev为Elva设计的品牌系统，旨在赋予这款AI视频编辑器一种让用户愿意与之交谈的友好个性。(Image credit: Lazarev/Elva)"
+                "x": "他的工具已从Figma转向“Codex和Claude Code这类工具，并且经常待在终端里”，Figma则被当作草稿本。他说：“产出已经不再是问题，关键在于我们对要推进什么极其挑剔。”“我们现在比以往任何时候都更像编辑。”AI“能写代码，但它不知道什么好看、什么难看，这要由我来决定。”"
               },
               {
                 "t": "p",
-                "x": "Hische因Muse项目在Threads上遭到猛烈抨击，尽管她解释说，这笔12,500美元的费用将帮助两家小工作室及其员工维持下去。May理解这种愤怒，但怀疑拒绝能改变多少：他们只会另找别人。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/bbihuCHghiaC2K3uSv94gZ.webp",
-                "cap": "Together为Clusia设计的品牌形象 (Image credit: Together/Clusia)"
-              },
-              {
-                "t": "p",
-                "x": "他认为，如果AI公司想花钱请人类让自己显得有人味，那最好就收下这笔钱，做出出色的作品，并提醒所有人他们当初为什么来找你。"
+                "x": "随后，两人以动效和交互性为重点，点评了五个观众投稿的网站。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Por qué las empresas de AI\naún confían su marca a humanos",
-          "body": "Las empresas de AI siguen contratando diseñadores y agencias humanas para su identidad de marca, una ironía elocuente.",
-          "mini_headline": "Marcas de AI, diseñadores humanos",
+          "headline": "Diseñador de Shopify: ahora\nlos diseñadores son editores",
+          "body": "Marvin Schwaibold, de Shopify, dice que la AI cambió su forma de diseñar y hoy los diseñadores son editores.",
+          "mini_headline": "Los diseñadores ya son editores",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/8iLPH4BsY5429rchU9dzuZ.png",
-                "cap": "El rediseño de How&How para Ideogram gira en torno a un símbolo con forma de cerebro e imágenes generadas por AI (AI-generated) retocadas a mano en Photoshop. (Image credit: How&How/Ideogram)"
+                "t": "video",
+                "yt": "eojywvxqoLc"
               },
               {
                 "t": "p",
-                "x": "Las mismas empresas de AI que parecen empeñadas en dejar sin trabajo a los diseñadores humanos siguen contratando diseñadores humanos para su identidad de marca: How&How para Ideogram, Lazarev para la app de video con AI Elva, Together para la auditora de AI Clusia y la rotulista Jessica Hische para Muse, la nueva plataforma de AI de Meta."
+                "x": "En este episodio de Design Review, Marvin Schwaibold, que dirige el estudio de diseño de producto de Shopify, se une a Aaron Epstein, de YC, para repasar su proceso de diseño. Muestra el rediseño del panel de administración y el trabajo en Sidekick que su equipo lanzó hace poco, un proyecto de fin de semana en el que recreó césped real como shader y un carrusel que necesitó 91 intentos para quedar bien."
               },
               {
                 "t": "p",
-                "x": "La respuesta de Tom May: el branding nunca ha consistido en hacer que las cosas se vean bonitas. Se trata de lograr que la gente te crea, y las empresas de AI tienen un problema de credibilidad tanto con los diseñadores como con el público general."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/eyb69kyib2ifYxEkYbgUqZ.png",
-                "cap": "El sistema de marca de Lazarev para Elva busca dar al editor de video con AI una personalidad cercana con la que los usuarios quieran hablar. (Image credit: Lazarev/Elva)"
+                "x": "Sus herramientas han pasado de Figma a \"herramientas como Codex y Claude Code, y estar mucho en la terminal\", y usa Figma como bloc de borrador. \"El resultado ya no es el problema; se trata de ser extremadamente selectivos con lo que seguimos adelante\", afirma. \"Ahora somos más editores que nunca\". La AI \"puede escribir código, pero no sabe qué se ve bien y qué se ve mal, y eso me toca decidirlo a mí\"."
               },
               {
                 "t": "p",
-                "x": "Hische recibió duras críticas en Threads por el trabajo para Muse, pese a explicar que los $12,500 de honorarios ayudarían a mantener a flote dos pequeños estudios y a su personal. May entiende el enojo, pero duda de que negarse cambie mucho: simplemente buscarían a otra persona."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/bbihuCHghiaC2K3uSv94gZ.webp",
-                "cap": "La identidad de Together para Clusia (Image credit: Together/Clusia)"
-              },
-              {
-                "t": "p",
-                "x": "Si las empresas de AI quieren pagar a humanos para parecer humanas, sostiene, lo mejor es aceptar el dinero, hacer un trabajo brillante y recordarles a todos por qué lo pidieron."
+                "x": "Después revisan cinco sitios web enviados por espectadores, con atención al movimiento y la interactividad."
               }
             ]
           }
@@ -1133,165 +1155,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 기업은 왜 아직도\n사람에게 브랜딩을 맡기나",
-          "body": "AI 기업들은 자사 브랜드 아이덴티티만은 계속 사람 디자이너와 에이전시에 맡긴다.",
-          "mini_headline": "AI 브랜드, 사람 디자이너",
+          "headline": "Shopify 디자이너\n\"디자이너는 편집자\"",
+          "body": "Shopify Marvin Schwaibold는 디자이너가 AI의 편집자라 본다.",
+          "mini_headline": "디자이너는 이제 편집자",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/8iLPH4BsY5429rchU9dzuZ.png",
-                "cap": "How&How가 만든 Ideogram 리브랜딩은 뇌 모양 마크와, Photoshop에서 손으로 다듬은 AI 생성(AI-generated) 이미지를 중심으로 짜였다. (Image credit: How&How/Ideogram)"
+                "t": "video",
+                "yt": "eojywvxqoLc"
               },
               {
                 "t": "p",
-                "x": "인간 디자이너의 일자리를 없애는 데 혈안이 된 듯한 바로 그 AI 기업들이 자사 브랜드 아이덴티티는 계속 인간 디자이너에게 맡긴다. Ideogram은 How&How에, AI 영상 앱 Elva는 Lazarev에, AI 감사 기업 Clusia는 Together에 맡겼고, Meta의 새 AI 플랫폼 Muse는 레터링 아티스트 Jessica Hische가 맡았다."
+                "x": "Design Review 이번 에피소드에서 Shopify의 제품 디자인 스튜디오를 이끄는 Marvin Schwaibold가 YC의 Aaron Epstein과 함께 자신의 디자인 과정을 보여준다. 그는 팀이 최근 내놓은 어드민 리디자인과 Sidekick 작업, 실제 잔디를 셰이더로 재현한 주말 프로젝트, 91번의 시도 끝에 완성한 캐러셀을 소개한다."
               },
               {
                 "t": "p",
-                "x": "Tom May의 답은 이렇다. 브랜딩은 애초에 보기 좋게 만드는 일이 아니었다. 사람들이 나를 믿게 만드는 일이며, AI 기업은 디자이너에게도 일반 대중에게도 신뢰 문제를 안고 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/eyb69kyib2ifYxEkYbgUqZ.png",
-                "cap": "Lazarev가 만든 Elva의 브랜드 시스템은 이 AI 영상 편집기에 사용자가 말을 걸고 싶어질 만한 친근한 성격을 입히려 한다. (Image credit: Lazarev/Elva)"
+                "x": "그의 도구는 Figma에서 \"Codex와 Claude Code 같은 도구, 그리고 터미널에 오래 머무는 쪽\"으로 옮겨 갔고, Figma는 연습장처럼 쓴다. 그는 \"이제 결과물은 문제가 아니다. 무엇을 밀고 나갈지 극도로 까다롭게 고르는 것이 우리의 일\"이라며 \"우리는 그 어느 때보다 편집자에 가깝다\"고 말한다. AI는 \"코드를 쓸 수 있지만 무엇이 좋아 보이고 무엇이 나빠 보이는지는 모르며, 그건 내가 판단할 몫\"이라는 것이다."
               },
               {
                 "t": "p",
-                "x": "Hische는 Muse 작업으로 Threads에서 거센 비난을 받았다. 12,500달러의 보수가 작은 작업실 두 곳과 직원들이 버티는 데 도움이 된다고 설명했는데도 그랬다. May는 분노를 이해하지만, 거절해도 크게 달라질 것은 없다고 본다. 그들은 그냥 다른 사람을 찾을 것이기 때문이다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/bbihuCHghiaC2K3uSv94gZ.webp",
-                "cap": "Together가 만든 Clusia 아이덴티티 (Image credit: Together/Clusia)"
-              },
-              {
-                "t": "p",
-                "x": "AI 기업이 인간처럼 보이려고 인간에게 돈을 내겠다면, 그 돈을 받고 훌륭한 작업을 해내 왜 자신들에게 의뢰했는지 모두에게 일깨우는 편이 낫다고 그는 주장한다."
+                "x": "이어 두 사람은 시청자가 보낸 웹사이트 다섯 곳을 모션과 인터랙티비티 중심으로 리뷰한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI企業はなぜいまも\n人にブランドを託すのか",
-          "body": "AI企業は自社のブランドアイデンティティを人間のデザイナーや代理店に依頼し続けている。",
-          "mini_headline": "AIブランド、人間のデザイナー",
+          "headline": "Shopifyデザイナー\n「今や我々は編集者」",
+          "body": "ShopifyのMarvin Schwaiboldは、AI時代のデザイナーを編集者と呼ぶ。",
+          "mini_headline": "デザイナーは今や編集者",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/8iLPH4BsY5429rchU9dzuZ.png",
-                "cap": "How&HowによるIdeogramのリブランドは、脳の形をしたマークと、Photoshopで手作業で仕上げたAI生成(AI-generated)画像を軸にしている。(Image credit: How&How/Ideogram)"
+                "t": "video",
+                "yt": "eojywvxqoLc"
               },
               {
                 "t": "p",
-                "x": "人間のデザイナーから仕事を奪おうと躍起になっているように見えるAI企業こそが、自社のブランドアイデンティティには人間のデザイナーを起用し続けている。IdeogramはHow&How、AI動画アプリのElvaはLazarev、AI監査企業のClusiaはTogether、そしてMetaの新しいAIプラットフォームMuseはレタリングアーティストのJessica Hischeだ。"
+                "x": "Design Reviewの今回のエピソードでは、Shopifyでプロダクトデザインスタジオを率いるMarvin Schwaiboldが、YCのAaron Epsteinとともに自身のデザインプロセスを紹介する。チームが最近リリースした管理画面のリデザインやSidekickの取り組み、本物の芝生をシェーダーで再現した週末プロジェクト、そして完成までに91回の試行を要したカルーセルを見せる。"
               },
               {
                 "t": "p",
-                "x": "Tom Mayの答えはこうだ。ブランディングが見た目を整えるためのものだったことは一度もない。人に信じてもらうためのものであり、AI企業はデザイナーからも一般の人々からも信頼の問題を抱えている。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/eyb69kyib2ifYxEkYbgUqZ.png",
-                "cap": "LazarevによるElvaのブランドシステムは、このAI動画エディターに、ユーザーが話しかけたくなる親しみやすい人格を与えることを狙う。(Image credit: Lazarev/Elva)"
+                "x": "彼のツールはFigmaから「CodexやClaude Codeのようなツールと、ターミナルに長くいること」へと移り、Figmaは下書き用のメモ帳として使う。「もはやアウトプットは問題ではなく、何を先に進めるかを極めて厳しく選ぶことが重要だ」と彼は言う。「私たちは今、かつてないほど編集者に近い」。AIは「コードは書けるが、何が良く見えて何が悪く見えるかは分からない。それを決めるのは私だ」。"
               },
               {
                 "t": "p",
-                "x": "HischeはMuseの仕事をめぐってThreadsで激しく批判された。12,500ドルの報酬が小さな二つのスタジオとそのスタッフを支える助けになると説明したにもかかわらずだ。Mayは怒りに理解を示しつつ、断っても大して変わらないとみる。彼らは別の誰かを見つけるだけだからだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/bbihuCHghiaC2K3uSv94gZ.webp",
-                "cap": "TogetherによるClusiaのアイデンティティ (Image credit: Together/Clusia)"
-              },
-              {
-                "t": "p",
-                "x": "AI企業が人間らしく見せるために人間にお金を払いたいのなら、その金を受け取り、見事な仕事をして、なぜ依頼したのかを皆に思い出させるのが一番だと彼は主張する。"
+                "x": "続いて二人は、視聴者から寄せられた五つのウェブサイトを、モーションとインタラクティブ性に注目してレビューする。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "为何AI公司仍请\n真人做品牌",
-          "body": "AI公司仍在为自家品牌形象聘请人类设计师和代理机构，这对创意人来说是个耐人寻味的讽刺。",
-          "mini_headline": "AI品牌，真人设计",
+          "headline": "Shopify设计师：\n设计师如今是编辑",
+          "body": "Shopify的Marvin Schwaibold说，AI编码工具让设计师更像编辑。",
+          "mini_headline": "设计师如今是编辑",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/8iLPH4BsY5429rchU9dzuZ.png",
-                "cap": "How&How为Ideogram打造的新品牌形象，以脑形标志和在Photoshop中手工精修的AI生成（AI-generated）图像为核心。(Image credit: How&How/Ideogram)"
+                "t": "video",
+                "yt": "eojywvxqoLc"
               },
               {
                 "t": "p",
-                "x": "那些似乎一心要让人类设计师失业的AI公司，恰恰一直在请人类设计师打造品牌形象：Ideogram请了How&How，AI视频应用Elva请了Lazarev，AI审计公司Clusia请了Together，Meta的新AI平台Muse则请了字体艺术家Jessica Hische。"
+                "x": "在本期Design Review中，Shopify产品设计工作室负责人Marvin Schwaibold与YC的Aaron Epstein一起讲解他的设计流程。他展示了团队最近上线的后台重新设计和Sidekick相关工作、一个用着色器重现真实草地的周末项目，以及一个尝试了91次才做好的轮播组件。"
               },
               {
                 "t": "p",
-                "x": "Tom May的回答是：品牌从来不是为了让东西好看，而是为了让人们相信你，而AI公司在设计师和普通大众那里都存在信誉问题。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/eyb69kyib2ifYxEkYbgUqZ.png",
-                "cap": "Lazarev为Elva设计的品牌系统，旨在赋予这款AI视频编辑器一种让用户愿意与之交谈的友好个性。(Image credit: Lazarev/Elva)"
+                "x": "他的工具已从Figma转向“Codex和Claude Code这类工具，并且经常待在终端里”，Figma则被当作草稿本。他说：“产出已经不再是问题，关键在于我们对要推进什么极其挑剔。”“我们现在比以往任何时候都更像编辑。”AI“能写代码，但它不知道什么好看、什么难看，这要由我来决定。”"
               },
               {
                 "t": "p",
-                "x": "Hische因Muse项目在Threads上遭到猛烈抨击，尽管她解释说，这笔12,500美元的费用将帮助两家小工作室及其员工维持下去。May理解这种愤怒，但怀疑拒绝能改变多少：他们只会另找别人。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/bbihuCHghiaC2K3uSv94gZ.webp",
-                "cap": "Together为Clusia设计的品牌形象 (Image credit: Together/Clusia)"
-              },
-              {
-                "t": "p",
-                "x": "他认为，如果AI公司想花钱请人类让自己显得有人味，那最好就收下这笔钱，做出出色的作品，并提醒所有人他们当初为什么来找你。"
+                "x": "随后，两人以动效和交互性为重点，点评了五个观众投稿的网站。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Por qué las empresas de AI\naún confían su marca a humanos",
-          "body": "Las empresas de AI siguen contratando diseñadores y agencias humanas para su identidad de marca, una ironía elocuente.",
-          "mini_headline": "Marcas de AI, diseñadores humanos",
+          "headline": "Diseñador de Shopify: ahora\nlos diseñadores son editores",
+          "body": "Marvin Schwaibold, de Shopify, dice que la AI cambió su forma de diseñar y hoy los diseñadores son editores.",
+          "mini_headline": "Los diseñadores ya son editores",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/8iLPH4BsY5429rchU9dzuZ.png",
-                "cap": "El rediseño de How&How para Ideogram gira en torno a un símbolo con forma de cerebro e imágenes generadas por AI (AI-generated) retocadas a mano en Photoshop. (Image credit: How&How/Ideogram)"
+                "t": "video",
+                "yt": "eojywvxqoLc"
               },
               {
                 "t": "p",
-                "x": "Las mismas empresas de AI que parecen empeñadas en dejar sin trabajo a los diseñadores humanos siguen contratando diseñadores humanos para su identidad de marca: How&How para Ideogram, Lazarev para la app de video con AI Elva, Together para la auditora de AI Clusia y la rotulista Jessica Hische para Muse, la nueva plataforma de AI de Meta."
+                "x": "En este episodio de Design Review, Marvin Schwaibold, que dirige el estudio de diseño de producto de Shopify, se une a Aaron Epstein, de YC, para repasar su proceso de diseño. Muestra el rediseño del panel de administración y el trabajo en Sidekick que su equipo lanzó hace poco, un proyecto de fin de semana en el que recreó césped real como shader y un carrusel que necesitó 91 intentos para quedar bien."
               },
               {
                 "t": "p",
-                "x": "La respuesta de Tom May: el branding nunca ha consistido en hacer que las cosas se vean bonitas. Se trata de lograr que la gente te crea, y las empresas de AI tienen un problema de credibilidad tanto con los diseñadores como con el público general."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/eyb69kyib2ifYxEkYbgUqZ.png",
-                "cap": "El sistema de marca de Lazarev para Elva busca dar al editor de video con AI una personalidad cercana con la que los usuarios quieran hablar. (Image credit: Lazarev/Elva)"
+                "x": "Sus herramientas han pasado de Figma a \"herramientas como Codex y Claude Code, y estar mucho en la terminal\", y usa Figma como bloc de borrador. \"El resultado ya no es el problema; se trata de ser extremadamente selectivos con lo que seguimos adelante\", afirma. \"Ahora somos más editores que nunca\". La AI \"puede escribir código, pero no sabe qué se ve bien y qué se ve mal, y eso me toca decidirlo a mí\"."
               },
               {
                 "t": "p",
-                "x": "Hische recibió duras críticas en Threads por el trabajo para Muse, pese a explicar que los $12,500 de honorarios ayudarían a mantener a flote dos pequeños estudios y a su personal. May entiende el enojo, pero duda de que negarse cambie mucho: simplemente buscarían a otra persona."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/bbihuCHghiaC2K3uSv94gZ.webp",
-                "cap": "La identidad de Together para Clusia (Image credit: Together/Clusia)"
-              },
-              {
-                "t": "p",
-                "x": "Si las empresas de AI quieren pagar a humanos para parecer humanas, sostiene, lo mejor es aceptar el dinero, hacer un trabajo brillante y recordarles a todos por qué lo pidieron."
+                "x": "Después revisan cinco sitios web enviados por espectadores, con atención al movimiento y la interactividad."
               }
             ]
           }
@@ -1299,15 +1261,15 @@
       }
     },
     {
-      "id": "design-impeccable-skill",
+      "id": "design-moss-image",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Impeccable, AI\n웹사이트 티 지우는 스킬",
-      "body": "Impeccable은 Inter 같은 AI-site 티를 잡는 오픈소스 스킬이다.",
-      "mini_headline": "Impeccable vs. AI 룩",
+      "headline": "AI에 철자를 가르친\n오픈소스 모델",
+      "body": "5B 오픈소스 MOSS-Image가 두 언어 글자와 JSON 레이아웃을 그린다.",
+      "mini_headline": "철자를 배운 MOSS-Image",
       "tool": "Design Tokens",
-      "source": "DEV Community",
-      "url": "https://dev.to/itxtayab/impeccable-the-open-source-design-skill-that-stops-ai-websites-looking-ai-generated-3i20",
+      "source": "Intelligent Living",
+      "url": "https://www.intelligentliving.co/moss-image-open-source-model/",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
@@ -1315,173 +1277,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xdyvbd5af4n0a30zef5.webp"
+            "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-open-source-model.jpg"
           },
           {
             "t": "p",
-            "x": "AI가 만든(AI-built) 웹사이트는 다 비슷해 보인다. 어딜 가나 Inter에 보라색 그라디언트, 카드 속 카드다. Impeccable은 AI 코딩 에이전트용 오픈소스 디자인 스킬이다. 명령어 24개와 AI처럼 보이는(AI-looking) 디자인을 잡아내는 결정론적 검사 62개, 브라우저 속 실시간 반복 작업을 제공한다. Apache 2.0 라이선스로 무료다."
+            "x": "OpenMOSS 팀이 MOSI Intelligence와 함께 2026년 10월 16일 5B 파라미터 규모의 텍스트-이미지 모델 MOSS-Image를 내놓았다. 코드와 가중치가 Apache 2.0 라이선스로 풀려 상업적으로 쓸 수 있고 파인튜닝에도 제한이 없다."
           },
           {
             "t": "p",
-            "x": "Anthropic의 frontend-design 스킬을 출발점 삼아 한발 더 나갔다. 결정론적 규칙 62개는 언어 모델도 API 키도 없이 돌아가며 남용된 폰트, 유색 배경 위 회색 텍스트, 중첩 카드, 낡은 바운스 이징을 잡아낸다. 계층 구조와 정서적 울림은 LLM 전용(LLM-only) 비평 검사가 판단한다."
+            "x": "처음부터 학습한 싱글 스트림 확산 트랜스포머(DiT)다. 프롬프트는 최대 4,096 토큰까지 받는다. 텍스트 렌더링은 중국어와 영어 두 언어를 지원하고 텍스트 블록과 객체마다 바운딩 박스를 지정하는 구조화된 JSON 레이아웃도 입력으로 받는다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-json-layout-control.jpg",
+            "cap": "MOSS-Image 레이아웃 제어 개념도. 디자이너는 문장에 기대지 않고 JSON 프롬프트로 텍스트와 객체를 바운딩 박스에 배치한다. (Credit: Intelligent Living)"
           },
           {
             "t": "p",
-            "x": "npx impeccable install로 설치하고 /impeccable init을 실행하면 PRODUCT.md가 생기고, 시각 방향은 DESIGN.md에 정리된다. 명령어로는 shape, craft, critique, audit, polish, bolder, quieter, typeset, layout, harden 등이 있다. Claude Code, Cursor, Codex, GitHub Copilot, Gemini CLI 등에 설치할 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "2025년 11월 공개된 지 한 해도 안 돼 GitHub 스타 86,000개를 넘겼다. 포크도 5,000개가 넘는다."
+            "x": "팀이 만든 LongLongTextBench(LLTB)에서 MOSS-Image는 Mean-6 텍스트 커버리지 96.3을 기록했다. 가장 가까운 오픈 웨이트 경쟁 모델 Qwen Image 2512는 64.9였다. RealLayoutArena에서는 전체 시스템이 GPT Image 2에 이어 두 번째였고 백본은 같은 강화 프롬프트를 받은 생성 모델 가운데 가장 앞섰다. 보고서 수치는 모두 개발사가 직접 측정했고 독립 재현은 아직 이뤄지지 않았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Impeccable, an open skill\nagainst the AI website look",
-          "body": "Impeccable is an open-source agent skill that targets AI-site tells like Inter, purple gradients and nested cards.",
-          "mini_headline": "Impeccable vs. the AI look",
+          "headline": "An open-source model\nthat teaches AI to spell",
+          "body": "MOSS-Image, a 5B open-source model, renders readable bilingual text and lays out designs specified in JSON.",
+          "mini_headline": "MOSS-Image learns to spell",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xdyvbd5af4n0a30zef5.webp"
+                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-open-source-model.jpg"
               },
               {
                 "t": "p",
-                "x": "Every AI-built website looks the same: Inter everywhere, purple gradients, cards inside cards. Impeccable is an open-source design skill for AI coding agents with 24 commands, 62 deterministic checks that catch AI-looking design, and live iteration in the browser. It is free under Apache 2.0."
+                "x": "MOSS-Image, a 5-billion-parameter text-to-image model, was released on October 16, 2026, by the OpenMOSS team together with MOSI Intelligence. Code and weights are published under the Apache 2.0 license, allowing commercial use and unrestricted fine-tuning."
               },
               {
                 "t": "p",
-                "x": "It started from Anthropic's frontend-design skill and pushed it further. The 62 deterministic rules run with no language model and no API key, catching overused fonts, gray text on colored backgrounds, nested cards and dated bounce easing; LLM-only critique checks judge hierarchy and emotional resonance."
+                "x": "It is a single-stream diffusion transformer (DiT) trained from scratch. Prompts can run to 4,096 tokens, text rendering is bilingual in Chinese and English, and the model accepts a structured JSON layout in which each text block and object is assigned its own bounding box."
+              },
+              {
+                "t": "img",
+                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-json-layout-control.jpg",
+                "cap": "Conceptual illustration of MOSS-Image’s layout control: designers can place text and objects in bounding boxes through a JSON prompt instead of relying on prose. (Credit: Intelligent Living)"
               },
               {
                 "t": "p",
-                "x": "Install with npx impeccable install, then /impeccable init writes PRODUCT.md, with visual direction kept in DESIGN.md. Commands include shape, craft, critique, audit, polish, bolder, quieter, typeset, layout and harden. It installs into Claude Code, Cursor, Codex, GitHub Copilot, Gemini CLI and more."
-              },
-              {
-                "t": "p",
-                "x": "Launched in November 2025, it passed 86,000 GitHub stars with over 5,000 forks in less than a year."
+                "x": "On the team's LongLongTextBench (LLTB), MOSS-Image scores 96.3 Mean-6 text coverage; the nearest open-weight competitor, Qwen Image 2512, manages 64.9. On RealLayoutArena the full system ranks second to GPT Image 2, while its backbone ranks first among generators given identical enhanced prompts. Every number in the report is vendor-run, so independent replication is still pending."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Impeccable, AI\n웹사이트 티 지우는 스킬",
-          "body": "Impeccable은 Inter 같은 AI-site 티를 잡는 오픈소스 스킬이다.",
-          "mini_headline": "Impeccable vs. AI 룩",
+          "headline": "AI에 철자를 가르친\n오픈소스 모델",
+          "body": "5B 오픈소스 MOSS-Image가 두 언어 글자와 JSON 레이아웃을 그린다.",
+          "mini_headline": "철자를 배운 MOSS-Image",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xdyvbd5af4n0a30zef5.webp"
+                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-open-source-model.jpg"
               },
               {
                 "t": "p",
-                "x": "AI가 만든(AI-built) 웹사이트는 다 비슷해 보인다. 어딜 가나 Inter에 보라색 그라디언트, 카드 속 카드다. Impeccable은 AI 코딩 에이전트용 오픈소스 디자인 스킬이다. 명령어 24개와 AI처럼 보이는(AI-looking) 디자인을 잡아내는 결정론적 검사 62개, 브라우저 속 실시간 반복 작업을 제공한다. Apache 2.0 라이선스로 무료다."
+                "x": "OpenMOSS 팀이 MOSI Intelligence와 함께 2026년 10월 16일 5B 파라미터 규모의 텍스트-이미지 모델 MOSS-Image를 내놓았다. 코드와 가중치가 Apache 2.0 라이선스로 풀려 상업적으로 쓸 수 있고 파인튜닝에도 제한이 없다."
               },
               {
                 "t": "p",
-                "x": "Anthropic의 frontend-design 스킬을 출발점 삼아 한발 더 나갔다. 결정론적 규칙 62개는 언어 모델도 API 키도 없이 돌아가며 남용된 폰트, 유색 배경 위 회색 텍스트, 중첩 카드, 낡은 바운스 이징을 잡아낸다. 계층 구조와 정서적 울림은 LLM 전용(LLM-only) 비평 검사가 판단한다."
+                "x": "처음부터 학습한 싱글 스트림 확산 트랜스포머(DiT)다. 프롬프트는 최대 4,096 토큰까지 받는다. 텍스트 렌더링은 중국어와 영어 두 언어를 지원하고 텍스트 블록과 객체마다 바운딩 박스를 지정하는 구조화된 JSON 레이아웃도 입력으로 받는다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-json-layout-control.jpg",
+                "cap": "MOSS-Image 레이아웃 제어 개념도. 디자이너는 문장에 기대지 않고 JSON 프롬프트로 텍스트와 객체를 바운딩 박스에 배치한다. (Credit: Intelligent Living)"
               },
               {
                 "t": "p",
-                "x": "npx impeccable install로 설치하고 /impeccable init을 실행하면 PRODUCT.md가 생기고, 시각 방향은 DESIGN.md에 정리된다. 명령어로는 shape, craft, critique, audit, polish, bolder, quieter, typeset, layout, harden 등이 있다. Claude Code, Cursor, Codex, GitHub Copilot, Gemini CLI 등에 설치할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "2025년 11월 공개된 지 한 해도 안 돼 GitHub 스타 86,000개를 넘겼다. 포크도 5,000개가 넘는다."
+                "x": "팀이 만든 LongLongTextBench(LLTB)에서 MOSS-Image는 Mean-6 텍스트 커버리지 96.3을 기록했다. 가장 가까운 오픈 웨이트 경쟁 모델 Qwen Image 2512는 64.9였다. RealLayoutArena에서는 전체 시스템이 GPT Image 2에 이어 두 번째였고 백본은 같은 강화 프롬프트를 받은 생성 모델 가운데 가장 앞섰다. 보고서 수치는 모두 개발사가 직접 측정했고 독립 재현은 아직 이뤄지지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Impeccable、\nAIサイト感を消すスキル",
-          "body": "ImpeccableはInterなどAI-siteの癖を正すオープンソースのスキルだ。",
-          "mini_headline": "Impeccable vs. AIっぽさ",
+          "headline": "AIに綴りを教える\nオープンソースモデル",
+          "body": "5B のオープンソースMOSS-Imageは、二言語の文字とJSONレイアウトを描ける。",
+          "mini_headline": "綴りを覚えたMOSS-Image",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xdyvbd5af4n0a30zef5.webp"
+                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-open-source-model.jpg"
               },
               {
                 "t": "p",
-                "x": "AIが作った(AI-built)サイトはどれも同じに見える。どこもInter、紫のグラデーション、カードの中のカードだ。ImpeccableはAIコーディングエージェント向けのオープンソースのデザインスキルで、24のコマンド、AIっぽい(AI-looking)デザインを見抜く62の決定論的チェック、ブラウザ上でのライブな反復を備える。Apache 2.0のもとで無料だ。"
+                "x": "パラメータ数5B のテキスト画像生成モデルMOSS-Imageが、2026年10月16日にOpenMOSSチームとMOSI Intelligenceによって公開された。コードと重みはApache 2.0ライセンスで公開され、商用利用や無制限のファインチューニングが可能だ。"
               },
               {
                 "t": "p",
-                "x": "Anthropicのfrontend-designスキルを出発点に、さらに推し進めたものだ。62の決定論的ルールは言語モデルもAPIキーも使わずに動き、使われすぎたフォント、色付き背景上のグレーの文字、入れ子のカード、古くさいバウンスのイージングを検出する。階層や感情的な響きは、LLM専用(LLM-only)の批評チェックが判断する。"
+                "x": "ゼロから学習したシングルストリームの拡散トランスフォーマー(DiT)である。プロンプトは最大4,096トークンまで扱え、テキスト描画は中国語と英語の二言語に対応する。また、テキストブロックやオブジェクトごとにバウンディングボックスを割り当てる構造化JSONレイアウトを受け付ける。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-json-layout-control.jpg",
+                "cap": "MOSS-Imageのレイアウト制御の概念図。デザイナーは文章に頼らず、JSONプロンプトでテキストやオブジェクトをバウンディングボックスに配置できる。(Credit: Intelligent Living)"
               },
               {
                 "t": "p",
-                "x": "npx impeccable installでインストールし、/impeccable initを実行するとPRODUCT.mdが書き出され、ビジュアルの方向性はDESIGN.mdにまとめられる。コマンドにはshape、craft、critique、audit、polish、bolder、quieter、typeset、layout、hardenなどがある。Claude Code、Cursor、Codex、GitHub Copilot、Gemini CLIなどに導入できる。"
-              },
-              {
-                "t": "p",
-                "x": "2025年11月に公開され、一年足らずでGitHubのスター数は86,000を超え、フォークも5,000を上回った。"
+                "x": "チーム独自のLongLongTextBench(LLTB)で、MOSS-ImageはMean-6テキストカバレッジ96.3を記録した。最も近いオープンウェイトの競合であるQwen Image 2512は64.9にとどまった。RealLayoutArenaでは、システム全体でGPT Image 2に次ぐ二位となり、バックボーン単体では同一の強化プロンプトを与えた生成モデルの中で首位だった。報告書の数値はすべて開発元による計測であり、独立した再現はまだ行われていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Impeccable：\n专治AI网站味的开源技能",
-          "body": "Impeccable是开源智能体技能，专治Inter、紫色渐变等AI-site通病。",
-          "mini_headline": "Impeccable vs. AI味",
+          "headline": "教AI学会拼写的\n开源模型",
+          "body": "5B 开源模型MOSS-Image能渲染清晰的双语文字，并按JSON指定的布局排版。",
+          "mini_headline": "MOSS-Image学会拼写",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xdyvbd5af4n0a30zef5.webp"
+                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-open-source-model.jpg"
               },
               {
                 "t": "p",
-                "x": "所有AI搭建（AI-built）的网站看起来都一样：满屏Inter字体、紫色渐变、卡片套卡片。Impeccable是一款面向AI编程智能体的开源设计技能，提供24条命令、62项能识别AI味（AI-looking）设计的确定性检查，以及在浏览器中实时迭代。它采用Apache 2.0许可，免费使用。"
+                "x": "MOSS-Image是一款拥有5B 参数的文生图模型，由OpenMOSS团队与MOSI Intelligence于2026年10月16日联合发布。代码和权重以Apache 2.0许可证开源，允许商用和不受限制的微调。"
               },
               {
                 "t": "p",
-                "x": "它以Anthropic的frontend-design技能为起点，并做了进一步拓展。62条确定性规则无需语言模型和API密钥即可运行，能揪出被滥用的字体、彩色背景上的灰色文字、嵌套卡片和过时的弹跳缓动；层级和情感共鸣则由仅限LLM（LLM-only）的评审检查来判断。"
+                "x": "它是一个从零开始训练的单流扩散变换器（DiT）。提示词最长可达4,096个词元，文字渲染支持中英双语，模型还接受结构化的JSON布局，为每个文本块和对象分配各自的边界框。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-json-layout-control.jpg",
+                "cap": "MOSS-Image布局控制概念图：设计师可以通过JSON提示词而非文字描述，将文本和对象放入边界框中。(Credit: Intelligent Living)"
               },
               {
                 "t": "p",
-                "x": "用npx impeccable install安装，再运行/impeccable init生成PRODUCT.md，视觉方向则记录在DESIGN.md中。命令包括shape、craft、critique、audit、polish、bolder、quieter、typeset、layout和harden。它可以安装到Claude Code、Cursor、Codex、GitHub Copilot、Gemini CLI等工具中。"
-              },
-              {
-                "t": "p",
-                "x": "它于2025年11月发布，不到一年就在GitHub上收获超过86,000颗星，分叉数也超过5,000。"
+                "x": "在该团队的LongLongTextBench（LLTB）上，MOSS-Image的Mean-6文本覆盖率为96.3；最接近的开放权重竞争对手Qwen Image 2512仅为64.9。在RealLayoutArena上，完整系统排名仅次于GPT Image 2，而其主干模型在使用相同增强提示词的生成器中排名第一。报告中的所有数据均由开发方自测，独立复现仍有待进行。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Impeccable, una skill abierta\ncontra el look de web con AI",
-          "body": "Impeccable es una skill de código abierto contra rasgos AI-site como Inter, degradados morados y tarjetas anidadas.",
-          "mini_headline": "Impeccable vs. el look AI",
+          "headline": "Un modelo de código abierto\nque enseña ortografía a la AI",
+          "body": "MOSS-Image, un modelo de código abierto de 5B, genera texto bilingüe legible y compone diseños definidos en JSON.",
+          "mini_headline": "MOSS-Image aprende ortografía",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xdyvbd5af4n0a30zef5.webp"
+                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-open-source-model.jpg"
               },
               {
                 "t": "p",
-                "x": "Todas las webs hechas con AI (AI-built) se parecen: Inter por todas partes, degradados morados, tarjetas dentro de tarjetas. Impeccable es una skill de diseño de código abierto para agentes de programación con AI, con 24 comandos, 62 comprobaciones deterministas que detectan el diseño con aspecto de AI (AI-looking) e iteración en vivo en el navegador. Es gratuita bajo Apache 2.0."
+                "x": "MOSS-Image, un modelo de texto a imagen de 5 mil millones de parámetros, fue lanzado el 16 de octubre de 2026 por el equipo de OpenMOSS junto con MOSI Intelligence. El código y los pesos se publican bajo la licencia Apache 2.0, que permite el uso comercial y el ajuste fino sin restricciones."
               },
               {
                 "t": "p",
-                "x": "Partió de la skill frontend-design de Anthropic y la llevó más lejos. Las 62 reglas deterministas funcionan sin modelo de lenguaje ni clave de API, y detectan fuentes sobreutilizadas, texto gris sobre fondos de color, tarjetas anidadas y un easing de rebote anticuado; las revisiones críticas LLM-only evalúan la jerarquía y la resonancia emocional."
+                "x": "Es un transformer de difusión de flujo único (DiT) entrenado desde cero. Los prompts pueden llegar a 4,096 tokens, el renderizado de texto es bilingüe en chino e inglés y el modelo acepta un diseño JSON estructurado en el que cada bloque de texto y cada objeto tiene asignada su propia caja delimitadora."
+              },
+              {
+                "t": "img",
+                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-json-layout-control.jpg",
+                "cap": "Ilustración conceptual del control de diseño de MOSS-Image: los diseñadores pueden colocar texto y objetos en cajas delimitadoras mediante un prompt JSON en lugar de depender de la prosa. (Credit: Intelligent Living)"
               },
               {
                 "t": "p",
-                "x": "Se instala con npx impeccable install y luego /impeccable init escribe PRODUCT.md, mientras la dirección visual se guarda en DESIGN.md. Entre los comandos están shape, craft, critique, audit, polish, bolder, quieter, typeset, layout y harden. Se instala en Claude Code, Cursor, Codex, GitHub Copilot, Gemini CLI y otros."
-              },
-              {
-                "t": "p",
-                "x": "Lanzada en noviembre de 2025, superó las 86,000 estrellas en GitHub y los 5,000 forks en menos de un año."
+                "x": "En el LongLongTextBench (LLTB) del equipo, MOSS-Image obtiene 96.3 de cobertura de texto Mean-6; el competidor de pesos abiertos más cercano, Qwen Image 2512, logra 64.9. En RealLayoutArena, el sistema completo queda segundo, por detrás de GPT Image 2, mientras que su backbone queda primero entre los generadores que recibieron los mismos prompts mejorados. Todas las cifras del informe las midió el propio desarrollador, por lo que la replicación independiente sigue pendiente."
               }
             ]
           }
@@ -1489,121 +1457,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Impeccable, AI\n웹사이트 티 지우는 스킬",
-          "body": "Impeccable은 Inter 같은 AI-site 티를 잡는 오픈소스 스킬이다.",
-          "mini_headline": "Impeccable vs. AI 룩",
+          "headline": "AI에 철자를 가르친\n오픈소스 모델",
+          "body": "5B 오픈소스 MOSS-Image는 두 언어 글자와 JSON 레이아웃을 그린다.",
+          "mini_headline": "철자를 배운 MOSS-Image",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xdyvbd5af4n0a30zef5.webp"
+                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-open-source-model.jpg"
               },
               {
                 "t": "p",
-                "x": "AI가 만든(AI-built) 웹사이트는 모두 비슷해 보인다. 어디에나 Inter, 보라색 그라디언트, 카드 속의 카드다. Impeccable은 AI 코딩 에이전트를 위한 오픈소스 디자인 스킬로, 24개 명령어와 AI처럼 보이는(AI-looking) 디자인을 잡아내는 62개 결정론적 검사, 브라우저 속 실시간 반복 작업을 제공한다. Apache 2.0 라이선스로 무료다."
+                "x": "OpenMOSS 팀이 MOSI Intelligence와 함께 2026년 10월 16일 5B 파라미터 규모의 텍스트-이미지 모델 MOSS-Image를 공개했다. 코드와 가중치는 Apache 2.0 라이선스로 공개돼 상업적 사용과 제한 없는 파인튜닝이 가능하다."
               },
               {
                 "t": "p",
-                "x": "Anthropic의 frontend-design 스킬에서 출발해 더 밀어붙였다. 62개 결정론적 규칙은 언어 모델도 API 키도 없이 돌아가며, 남용된 폰트, 유색 배경 위의 회색 텍스트, 중첩 카드, 낡은 바운스 이징을 잡아낸다. 계층 구조와 정서적 울림은 LLM 전용(LLM-only) 비평 검사가 판단한다."
+                "x": "처음부터 학습한 싱글 스트림 확산 트랜스포머(DiT)다. 프롬프트는 최대 4,096 토큰까지 쓸 수 있고, 텍스트 렌더링은 중국어와 영어 두 언어를 지원하며, 텍스트 블록과 객체마다 바운딩 박스를 지정하는 구조화된 JSON 레이아웃을 입력으로 받는다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-json-layout-control.jpg",
+                "cap": "MOSS-Image 레이아웃 제어의 개념도. 디자이너는 문장에 의존하지 않고 JSON 프롬프트로 텍스트와 객체를 바운딩 박스에 배치할 수 있다. (Credit: Intelligent Living)"
               },
               {
                 "t": "p",
-                "x": "npx impeccable install로 설치한 뒤 /impeccable init을 실행하면 PRODUCT.md가 작성되고, 시각적 방향은 DESIGN.md에 담긴다. 명령어로는 shape, craft, critique, audit, polish, bolder, quieter, typeset, layout, harden 등이 있다. Claude Code, Cursor, Codex, GitHub Copilot, Gemini CLI 등에 설치할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "2025년 11월 공개된 뒤 채 한 해가 지나기 전에 GitHub 스타 86,000개를 넘겼고, 포크도 5,000개가 넘는다."
+                "x": "팀이 만든 LongLongTextBench(LLTB)에서 MOSS-Image는 Mean-6 텍스트 커버리지 96.3을 기록했다. 가장 가까운 오픈 웨이트 경쟁 모델인 Qwen Image 2512는 64.9에 그쳤다. RealLayoutArena에서는 전체 시스템이 GPT Image 2에 이어 두 번째였고, 백본은 동일한 강화 프롬프트를 받은 생성 모델 가운데 가장 앞섰다. 보고서의 모든 수치는 개발사가 직접 측정한 것이어서 독립적인 재현은 아직 이뤄지지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Impeccable、\nAIサイト感を消すスキル",
-          "body": "ImpeccableはInterなどAI-siteの癖を正すオープンソースのスキルだ。",
-          "mini_headline": "Impeccable vs. AIっぽさ",
+          "headline": "AIに綴りを教える\nオープンソースモデル",
+          "body": "5B のオープンソースMOSS-Imageは、二言語の文字とJSONレイアウトを描ける。",
+          "mini_headline": "綴りを覚えたMOSS-Image",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xdyvbd5af4n0a30zef5.webp"
+                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-open-source-model.jpg"
               },
               {
                 "t": "p",
-                "x": "AIが作った(AI-built)サイトはどれも同じに見える。どこもInter、紫のグラデーション、カードの中のカードだ。ImpeccableはAIコーディングエージェント向けのオープンソースのデザインスキルで、24のコマンド、AIっぽい(AI-looking)デザインを見抜く62の決定論的チェック、ブラウザ上でのライブな反復を備える。Apache 2.0のもとで無料だ。"
+                "x": "パラメータ数5B のテキスト画像生成モデルMOSS-Imageが、2026年10月16日にOpenMOSSチームとMOSI Intelligenceによって公開された。コードと重みはApache 2.0ライセンスで公開され、商用利用や無制限のファインチューニングが可能だ。"
               },
               {
                 "t": "p",
-                "x": "Anthropicのfrontend-designスキルを出発点に、さらに推し進めたものだ。62の決定論的ルールは言語モデルもAPIキーも使わずに動き、使われすぎたフォント、色付き背景上のグレーの文字、入れ子のカード、古くさいバウンスのイージングを検出する。階層や感情的な響きは、LLM専用(LLM-only)の批評チェックが判断する。"
+                "x": "ゼロから学習したシングルストリームの拡散トランスフォーマー(DiT)である。プロンプトは最大4,096トークンまで扱え、テキスト描画は中国語と英語の二言語に対応する。また、テキストブロックやオブジェクトごとにバウンディングボックスを割り当てる構造化JSONレイアウトを受け付ける。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-json-layout-control.jpg",
+                "cap": "MOSS-Imageのレイアウト制御の概念図。デザイナーは文章に頼らず、JSONプロンプトでテキストやオブジェクトをバウンディングボックスに配置できる。(Credit: Intelligent Living)"
               },
               {
                 "t": "p",
-                "x": "npx impeccable installでインストールし、/impeccable initを実行するとPRODUCT.mdが書き出され、ビジュアルの方向性はDESIGN.mdにまとめられる。コマンドにはshape、craft、critique、audit、polish、bolder、quieter、typeset、layout、hardenなどがある。Claude Code、Cursor、Codex、GitHub Copilot、Gemini CLIなどに導入できる。"
-              },
-              {
-                "t": "p",
-                "x": "2025年11月に公開され、一年足らずでGitHubのスター数は86,000を超え、フォークも5,000を上回った。"
+                "x": "チーム独自のLongLongTextBench(LLTB)で、MOSS-ImageはMean-6テキストカバレッジ96.3を記録した。最も近いオープンウェイトの競合であるQwen Image 2512は64.9にとどまった。RealLayoutArenaでは、システム全体でGPT Image 2に次ぐ二位となり、バックボーン単体では同一の強化プロンプトを与えた生成モデルの中で首位だった。報告書の数値はすべて開発元による計測であり、独立した再現はまだ行われていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Impeccable：\n专治AI网站味的开源技能",
-          "body": "Impeccable是开源智能体技能，专治Inter、紫色渐变等AI-site通病。",
-          "mini_headline": "Impeccable vs. AI味",
+          "headline": "教AI学会拼写的\n开源模型",
+          "body": "5B 开源模型MOSS-Image能渲染清晰的双语文字，并按JSON指定的布局排版。",
+          "mini_headline": "MOSS-Image学会拼写",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xdyvbd5af4n0a30zef5.webp"
+                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-open-source-model.jpg"
               },
               {
                 "t": "p",
-                "x": "所有AI搭建（AI-built）的网站看起来都一样：满屏Inter字体、紫色渐变、卡片套卡片。Impeccable是一款面向AI编程智能体的开源设计技能，提供24条命令、62项能识别AI味（AI-looking）设计的确定性检查，以及在浏览器中实时迭代。它采用Apache 2.0许可，免费使用。"
+                "x": "MOSS-Image是一款拥有5B 参数的文生图模型，由OpenMOSS团队与MOSI Intelligence于2026年10月16日联合发布。代码和权重以Apache 2.0许可证开源，允许商用和不受限制的微调。"
               },
               {
                 "t": "p",
-                "x": "它以Anthropic的frontend-design技能为起点，并做了进一步拓展。62条确定性规则无需语言模型和API密钥即可运行，能揪出被滥用的字体、彩色背景上的灰色文字、嵌套卡片和过时的弹跳缓动；层级和情感共鸣则由仅限LLM（LLM-only）的评审检查来判断。"
+                "x": "它是一个从零开始训练的单流扩散变换器（DiT）。提示词最长可达4,096个词元，文字渲染支持中英双语，模型还接受结构化的JSON布局，为每个文本块和对象分配各自的边界框。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-json-layout-control.jpg",
+                "cap": "MOSS-Image布局控制概念图：设计师可以通过JSON提示词而非文字描述，将文本和对象放入边界框中。(Credit: Intelligent Living)"
               },
               {
                 "t": "p",
-                "x": "用npx impeccable install安装，再运行/impeccable init生成PRODUCT.md，视觉方向则记录在DESIGN.md中。命令包括shape、craft、critique、audit、polish、bolder、quieter、typeset、layout和harden。它可以安装到Claude Code、Cursor、Codex、GitHub Copilot、Gemini CLI等工具中。"
-              },
-              {
-                "t": "p",
-                "x": "它于2025年11月发布，不到一年就在GitHub上收获超过86,000颗星，分叉数也超过5,000。"
+                "x": "在该团队的LongLongTextBench（LLTB）上，MOSS-Image的Mean-6文本覆盖率为96.3；最接近的开放权重竞争对手Qwen Image 2512仅为64.9。在RealLayoutArena上，完整系统排名仅次于GPT Image 2，而其主干模型在使用相同增强提示词的生成器中排名第一。报告中的所有数据均由开发方自测，独立复现仍有待进行。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Impeccable, una skill abierta\ncontra el look de web con AI",
-          "body": "Impeccable es una skill de código abierto contra rasgos AI-site como Inter, degradados morados y tarjetas anidadas.",
-          "mini_headline": "Impeccable vs. el look AI",
+          "headline": "Un modelo de código abierto\nque enseña ortografía a la AI",
+          "body": "MOSS-Image, un modelo de código abierto de 5B, genera texto bilingüe legible y compone diseños definidos en JSON.",
+          "mini_headline": "MOSS-Image aprende ortografía",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7xdyvbd5af4n0a30zef5.webp"
+                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-open-source-model.jpg"
               },
               {
                 "t": "p",
-                "x": "Todas las webs hechas con AI (AI-built) se parecen: Inter por todas partes, degradados morados, tarjetas dentro de tarjetas. Impeccable es una skill de diseño de código abierto para agentes de programación con AI, con 24 comandos, 62 comprobaciones deterministas que detectan el diseño con aspecto de AI (AI-looking) e iteración en vivo en el navegador. Es gratuita bajo Apache 2.0."
+                "x": "MOSS-Image, un modelo de texto a imagen de 5 mil millones de parámetros, fue lanzado el 16 de octubre de 2026 por el equipo de OpenMOSS junto con MOSI Intelligence. El código y los pesos se publican bajo la licencia Apache 2.0, que permite el uso comercial y el ajuste fino sin restricciones."
               },
               {
                 "t": "p",
-                "x": "Partió de la skill frontend-design de Anthropic y la llevó más lejos. Las 62 reglas deterministas funcionan sin modelo de lenguaje ni clave de API, y detectan fuentes sobreutilizadas, texto gris sobre fondos de color, tarjetas anidadas y un easing de rebote anticuado; las revisiones críticas LLM-only evalúan la jerarquía y la resonancia emocional."
+                "x": "Es un transformer de difusión de flujo único (DiT) entrenado desde cero. Los prompts pueden llegar a 4,096 tokens, el renderizado de texto es bilingüe en chino e inglés y el modelo acepta un diseño JSON estructurado en el que cada bloque de texto y cada objeto tiene asignada su propia caja delimitadora."
+              },
+              {
+                "t": "img",
+                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-json-layout-control.jpg",
+                "cap": "Ilustración conceptual del control de diseño de MOSS-Image: los diseñadores pueden colocar texto y objetos en cajas delimitadoras mediante un prompt JSON en lugar de depender de la prosa. (Credit: Intelligent Living)"
               },
               {
                 "t": "p",
-                "x": "Se instala con npx impeccable install y luego /impeccable init escribe PRODUCT.md, mientras la dirección visual se guarda en DESIGN.md. Entre los comandos están shape, craft, critique, audit, polish, bolder, quieter, typeset, layout y harden. Se instala en Claude Code, Cursor, Codex, GitHub Copilot, Gemini CLI y otros."
-              },
-              {
-                "t": "p",
-                "x": "Lanzada en noviembre de 2025, superó las 86,000 estrellas en GitHub y los 5,000 forks en menos de un año."
+                "x": "En el LongLongTextBench (LLTB) del equipo, MOSS-Image obtiene 96.3 de cobertura de texto Mean-6; el competidor de pesos abiertos más cercano, Qwen Image 2512, logra 64.9. En RealLayoutArena, el sistema completo queda segundo, por detrás de GPT Image 2, mientras que su backbone queda primero entre los generadores que recibieron los mismos prompts mejorados. Todas las cifras del informe las midió el propio desarrollador, por lo que la replicación independiente sigue pendiente."
               }
             ]
           }

@@ -1,69 +1,96 @@
 {
+  "date": "2026-10-27",
   "section": "games",
-  "date": "2026-10-26",
-  "user_selection": null,
-  "picks": [
+  "items": [
     {
-      "rank": 1,
-      "title": "The Onslaught Of Lazy Browser Ports Hit A Wall Thanks To New Update",
-      "url": "https://www.thegamer.com/claude-openai-update-browser-ports-recomps-harder/",
-      "source": "TheGamer",
-      "category": "games",
-      "published_iso": "2026-10-25T15:11:14Z",
-      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/resetti-from-animal-crossing-angrily-bursting-onto-a-blank-web-browser.jpg?w=1600&h=900&fit=crop",
-      "excerpt": "Claude and OpenAI are clamping down on unauthorized decompilations and cyber abuse.",
+      "title": "Remix launches platform for anyone to build their own game on desktop, web or mobile",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "This is a new event in the decomp/browser-port wave: the model vendors themselves (Anthropic, OpenAI) are restricting unauthorized decompilation. It directly changes which AI-assisted porting and modding workflows still work."
+      "url": "https://gamesbeat.com/remix-launches-platform-for-anyone-to-build-their-own-game-on-desktop-web-or-mobile/",
+      "source": "GamesBeat",
+      "published_iso": "2026-10-26T19:50:00+00:00",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/10/remix.jpg",
+      "excerpt": "Remix, a game-making platform used by about 1.5 million players and creators, launched desktop apps for Windows, Mac and Linux; creators describe the game they want and Remix's AI tools write the code, then host it with leaderboards and real-time multiplayer.",
+      "rationale": "Concrete new product release (desktop apps) for prompt-to-game creation with hosting and multiplayer; most actionable item in the pool."
     },
     {
-      "rank": 2,
-      "title": "Indie Game Dev Cancels Vibe-Coded Zombie Shooter After San Francisco Officials Condemn 'Dehumanizing' Game Set in City's Tenderloin Neighborhood",
-      "url": "https://www.ign.com/articles/indie-game-dev-takes-down-vibe-coded-zombie-shooter-after-san-francisco-officials-condemn-dehumanizing-game",
-      "source": "IGN",
-      "category": "games",
-      "published_iso": "2026-10-23T22:27:09Z",
-      "og_image": "https://assets-prd.ignimgs.com/2026/10/23/indie-dev-pulls-zombie-shooter-game-san-francisco-1792794196975.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "excerpt": "The developer of a zombie game set in San Francisco has removed the game from online marketplaces and issued a public apology after city officials condemned the title for depicting its homeless people as 'zombies.'",
+      "title": "AI 환경 편의성 확장, 챗GPT용 '하이브 액실 플러그인' 공개",
+      "tool": "Games",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "url": "https://www.gamemeca.com/view.php?gid=1782378",
+      "source": "게임메카",
+      "published_iso": "2026-10-26T17:42:32+09:00",
+      "og_image": "https://cdn.gamemeca.com/gmdata/0001/782/378/gm848791_thumb____GPT.webp",
+      "excerpt": "컴투스플랫폼은 AI 특화 게임 백엔드 서비스 하이브 액실 플러그인을 챗GPT에서 제공한다고 밝혔다. 이를 통해 자연어 요청만으로 로그인과 결제 등 다양한 백엔드 기능을 간편하게 연동할 수 있게 되었다. 또한 애널리틱스 기능을 통해 유저 반응을 시각화하여 게임 업데이트와 운영 방향...",
+      "rationale": "New release on a running product: Hive Axil now ships as a ChatGPT plugin wiring login/payment/analytics backend via natural language; Korean-market primary coverage."
+    },
+    {
+      "title": "\"Just because you can order at a restaurant doesn't mean you're a chef\": Game lawyer says AI-generated code made with confidential details did nothing but waste everybody's time",
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "A follow-up with a concrete new outcome: after city officials condemned the game, it was pulled from storefronts and the developer apologized. It shows how fast a vibe-coded release can turn into a real-world reputational and civic problem."
+      "url": "https://www.gamesradar.com/games/just-because-you-can-order-at-a-restaurant-doesnt-mean-youre-a-chef-game-lawyer-says-ai-generated-code-made-with-confidential-details-did-nothing-but-waste-everybodys-time/",
+      "source": "GamesRadar+",
+      "published_iso": "2026-10-26T17:12:44Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Led8MKdaEhJzPHbQzNsQna-1920-80.jpg",
+      "excerpt": "Game code delivered to a client was killed after the programmer admitted knowing nothing about it",
+      "rationale": "Fresh, concrete contracting/legal case: client-delivered AI code built on confidential details was scrapped; practical warning for studios outsourcing work."
     },
     {
-      "rank": 3,
-      "title": "\"AI로 복제게임 만들어 유포하겠다\" 인디 개발자에 협박",
-      "url": "https://www.gamemeca.com/view.php?gid=1781995",
-      "source": "게임메카",
-      "category": "games",
-      "published_iso": "2026-10-19T08:04:46Z",
-      "og_image": "https://cdn.gamemeca.com/gmdata/0001/781/995/gm818415_Untitled-1.webp",
-      "excerpt": "일본 인디게임 개발자가 생성형 AI로 제작한 복제 게임을 먼저 출시하겠다며 금품을 요구하는 협박성 메일을 받았다. 개발자는 협박에 응하지 않고 불특정 개발자를 노린 사기성 메시지일 가능성을 제기했다. 최근 해외와 일본 인디게임계에서는 AI를 악용한 복제 게임 출시 우려가 확산되고 있다",
+      "title": "Final Fantasy And Chrono Trigger Veterans Believe Modern Developers Must Possess Skill To Take An Idea 'From 0 To 1' In The Age Of AI",
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "This is a distinct new incident: AI cloning used as an extortion threat against an indie developer, which is a step beyond the clone and demo-pulling stories already covered. The full gid=1781995 URL is not in history."
+      "url": "https://kotaku.com/final-fantasy-and-chrono-trigger-veterans-believe-modern-developers-must-possess-skill-to-take-an-idea-from-0-to-1-in-the-age-of-ai-2000749690",
+      "source": "Kotaku",
+      "published_iso": "2026-10-26T15:30:44+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/10/Secret-of-Mana-Tree.jpg",
+      "excerpt": "Yoshinori Kitase and other Square Enix creatives also reflected on the SNES development of the Mana series",
+      "rationale": "New statements from Kitase and Square Enix veterans on what human skill still matters with AI; distinct from the earlier Horii (Dragon Quest) piece; adds a fourth outlet."
+    },
+    {
+      "title": "UGC platforms are turning to AI to make game developers out of everyday players",
+      "tool": "Games",
+      "accent": "#eb367f",
+      "motif": "cube",
+      "url": "https://gamesbeat.com/ugc-platforms-are-turning-to-ai-to-make-game-developers-out-of-everyday-players/",
+      "source": "GamesBeat",
+      "published_iso": "2026-10-26T12:00:00+00:00",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/10/AiPromptingExtraExampleAddLightBeam.png",
+      "excerpt": "UGC platforms like Roblox and Fortnite are stepping up their built-in AI tools to make game creation more accessible to the masses.",
+      "rationale": "Cross-platform look at Roblox/Fortnite built-in AI creation tools; broader than the 10-12 Roblox Build evaluation post. Enrichment pass should confirm it reports current tool features rather than a recap."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.thegamer.com/claude-openai-update-browser-ports-recomps-harder/": {
+      "https://gamesbeat.com/remix-launches-platform-for-anyone-to-build-their-own-game-on-desktop-web-or-mobile/": {
         "verdict": "new",
-        "nearest": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
+        "nearest": "https://gamesbeat.com/dreamlands-opens-its-ai-3d-world-building-platform-to-the-public-exclusive/",
         "new_action": ""
       },
-      "https://www.ign.com/articles/indie-game-dev-takes-down-vibe-coded-zombie-shooter-after-san-francisco-officials-condemn-dehumanizing-game": {
+      "https://www.gamemeca.com/view.php?gid=1782378": {
         "verdict": "follow-up",
-        "nearest": "https://www.pcgamer.com/software/ai/tech-founder-vibe-codes-game-about-shooting-zombies-in-san-franciscos-poorest-neighborhood/",
-        "new_action": "San Francisco officials formally condemned the game; the developer then removed it from online marketplaces and issued a public apology (takedown event after the 10-18 criticism story)."
+        "nearest": "https://www.inven.co.kr/webzine/news/?news=321491",
+        "new_action": "New release: Hive Axil plugin now available inside ChatGPT (natural-language backend integration + analytics), after the 09-30 platform launch."
       },
-      "https://www.gamemeca.com/view.php?gid=1781995": {
+      "https://www.gamesradar.com/games/just-because-you-can-order-at-a-restaurant-doesnt-mean-youre-a-chef-game-lawyer-says-ai-generated-code-made-with-confidential-details-did-nothing-but-waste-everybodys-time/": {
         "verdict": "new",
-        "nearest": "https://www.inven.co.kr/webzine/news/?news=322319",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://kotaku.com/final-fantasy-and-chrono-trigger-veterans-believe-modern-developers-must-possess-skill-to-take-an-idea-from-0-to-1-in-the-age-of-ai-2000749690": {
+        "verdict": "new",
+        "nearest": "https://kotaku.com/dragon-quest-creator-yuji-horii-thinks-ai-is-amazing-as-he-no-longer-needs-to-code-or-draw-to-make-a-game-2000744194",
+        "new_action": ""
+      },
+      "https://gamesbeat.com/ugc-platforms-are-turning-to-ai-to-make-game-developers-out-of-everyday-players/": {
+        "verdict": "new",
+        "nearest": "https://corp.roblox.com/newsroom/2026/10/how-roblox-evaluates-build-game-creation",
         "new_action": ""
       }
     },
-    "note": "SWAP re-curation after fact-check: removed the Inworld Inference pick (inworld.ai/blog/introducing-inworld-inference). It is Inworld's own launch post (vendor PR) about consumer-AI inference in general, not a games story. No qualifying backfill, so the section ships at the floor of 3. Every remaining candidate was re-checked and dropped. Already published as the same story: GamesIndustry.biz Japan Actors Union guidelines (Eurogamer 10-20); PC Gamer DLSS 5 Hogwarts (Wccftech 10-14); GamesRadar Xbox business manager (Kotaku 10-22); PC Gamer horror drinking game demo cancel (Kotaku 10-17). Commentary or extra reporting on the Steam Next Fest / AI-clone / decomp running stories with no new concrete event: The Verge 'retro gaming overrun' (Verge Xbox Labs 10-14, Kotaku Pokemon 10-25); GameSpot slop/Next Fest and GamesRadar Palworld lead (IGN 10-20); Aftermath demo-theft fears (Kotaku 10-17, Gamedeveloper 10-24); RPS Needle In A Haystack code-theft claim (same viral game as GamesRadar 9-27 Robloxification; an allegation, not a filing or ruling); Gamemeca gid=1782071 AI 역설계 기획 (feature; Inven news=322319 10-21). Vendor PR, and already claimed by design today: 80 Level Tripo P2.0/Astra. Thin AI angle (fan reaction to a collab leak): Destructoid Overwatch x Stellar Blade. Reaction drama: GamesRadar Sweeney/Musk spat (Epic AI-first 10-13, Sweeney on Steam disclosures 10-24). Speculative interview: RPS Samson founder. Opinion: Aftermath hobbies slop. Pre-dropped by story_dedup: Horii 30-minute game (Kotaku 10-13), Unity Grok Build video (10-02), DLSS 5 Portal/HL2 (RTX Remix 10-25). No Epic MegaJam candidate was in the pool (GamesRadar 10-23 already ran). Outlets: TheGamer, IGN, 게임메카 (3 distinct). Cross-section note: the TheGamer Claude/OpenAI policy story could also surface in gadgets or politics; the claimed list for 10-26 shows no clash."
+    "note": "Dropped as repeats of published running stories: Steam Next Fest slop (PC Gamer top-50 tally, GamesRadar Valve veteran, Eurogamer 8,000 demos) vs IGN 10-20; Sweeney 'political act' (GI.biz) vs GamesRadar 10-24; Shogun 2 VP statement (likely-repeat) vs Kotaku 10-15/10-16; Goku voice actor vs Eurogamer Japanese union 10-20; Playgama Sandbox/MCP (80.lv) vs GamesBeat Playgama suite 10-15; DLSS 5 October update (PC Gamer) vs wccftech 10-14; AI decomp/port pieces (Verge retro gaming, Kotaku Microsoft/Epic 'AI is theft', Aftermath hobbies slopped) vs Xbox 10-14, decomp.dev 10-16, Pokemon 10-25, TheGamer 10-26; AI copycat/demo-theft pieces (RPS Needle in Haystack, Aftermath demos, Gamemeca 역설계) vs GamesRadar 09-27, Kotaku 10-17, inven 10-21, Gamemeca 10-26. Also skipped: Musk/Sweeney spat (10-19, commentary on Epic AI-first already run 10-13), RPS Samson/Star Trek Online exec interviews (commentary), 80.lv Tripo P2.0 & Astra (team-authored, likely partner content). Cross-section: candidate URLs not found in published_urls.json books/design sections (other sections not exhaustively scanned; outlets are games-only)."
   }
 }

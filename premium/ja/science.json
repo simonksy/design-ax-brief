@@ -9381,6 +9381,132 @@
           "x": "LitPivotはDetroit(デトロイト)で開かれるUIST 2026で発表される予定だ。"
         }
       ]
+    },
+    "science/science-virtual-author": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101426_KH_virtualauthor_main.jpg",
+          "cap": "科学論文は通常、知識を静的に記録したものだ。Paper2AgentはそれをAIエージェント向けのツールセットに変える。Alllex/E+/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Paper2Agentと呼ばれるシステムにより、科学者は新しい研究を読む以上のことができる。論文にコード、手法、データが付いていれば、システムはそれらをAIアシスタントが新しいデータの処理に使えるツールセットにまとめると、研究者らが9月16日にNatureで報告した。"
+        },
+        {
+          "t": "p",
+          "x": "このシステムは実質的に、いつでも利用できる「論文の仮想著者」だと、Stanford Universityのコンピューター科学者James Zouは言う。"
+        },
+        {
+          "t": "p",
+          "x": "Zouらは計算生物学の論文100本を動作するツールセットに変換しようと試み、74本で成功した。このツールセットは、元の論文とコードから作業した同じエージェントより正確に、かつ2倍以上速く解析を実行した。"
+        },
+        {
+          "t": "p",
+          "x": "Allen Institute for Artificial IntelligenceのPeter Clarkは、科学者を能動的に助ける論文に向けた「エキサイティングな一歩」だと評価する一方、Paper2Agentは一般的な質問に答えるのではなく、手法とコードの再利用に特化していると指摘する。「私が責任著者に連絡するのは、まさに彼らが論文に書かなかったことのためだ」"
+        }
+      ]
+    },
+    "science/science-vision-noise": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-research-how-ran.jpg",
+          "cap": "Credit: Patterns (2026). DOI: 10.1016/j.patter.2026.101693"
+        },
+        {
+          "t": "p",
+          "x": "TübingenのHertie Institute for Clinical Brain Researchの研究者は、脳に着想を得た二つの特徴、すなわち上位の処理段階が前の段階へ信号を送り返すトップダウン(top-down)のフィードバックと神経のばらつきを組み合わせると、人工視覚システムが大幅に頑健になることを見いだした。"
+        },
+        {
+          "t": "p",
+          "x": "研究者は、学習中に個々のネットワークユニットをランダムに一時停止させることで、神経活動のランダムなゆらぎを再現した。フィードバック単独ではほとんど効果がなかったが、ランダム性と組み合わせると、ネットワークは画像ノイズや誤分類を引き起こしうる標的型の変更に対して大幅に頑健になり、学習時と異なる分布の画像でも性能が向上した。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/dr-antonino-greco-righ.jpg",
+          "cap": "Hertie Institute for Clinical Brain ResearchのDr. Antonino Greco(右)とMarkus Siegel教授。Credit: Hertie Institute"
+        },
+        {
+          "t": "p",
+          "x": "「フィードバックは、ネットワークがランダム性への対処を学んで初めて有効になる」とGrecoは言う。研究はPatterns (2026)に掲載された。DOI: 10.1016/j.patter.2026.101693."
+        }
+      ]
+    },
+    "science/science-planteur": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792681400-planteur-tropical-regions-tan.png"
+        },
+        {
+          "t": "p",
+          "x": "PASTISはコミュニティで最も信頼される作物マッピング・ベンチマークの一つだが、対象はフランス本土に限られる。Ai2は、PASTISを六つの熱帯地域、Réunion、Guadeloupe、Martinique、Guyane、Mayotte、Saint-Martinへ拡張したPLANTEURを発表した。"
+        },
+        {
+          "t": "p",
+          "x": "同じ情報源であるフランスのLand Parcel Identification Systemから構築され、位置合わせされたSentinel-2、Sentinel-1、Landsat-8の時系列2,750件と、サトウキビ、バナナ、パイナップル、熱帯イモ類を含む七つの作物クラスにわたる区画由来ラベル4,506 km²を収める。"
+        },
+        {
+          "t": "p",
+          "x": "ベースラインは、標準的な分割、一つの島を除外するleave-one-island-out分割、few-shot設定、学習にPASTISのサンプルを含める設定を対象とする。"
+        },
+        {
+          "t": "p",
+          "x": "評価したすべての手法がPASTISよりPLANTEURで大幅に低いスコアとなり、どのモデルも学習で見ていない島でテストすると精度がおよそ半分に落ちる。PLANTEURはHugging FaceとGitHubで公開されている。"
+        }
+      ]
+    },
+    "science/science-coatings-lab": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-powered-robotic-lab.jpg",
+          "cap": "Credit: University of Nottingham"
+        },
+        {
+          "t": "p",
+          "x": "University of NottinghamのCenter of Excellence in Coating and Surface Engineeringの研究者が、自律型実験室を構築した。二本のロボットアーム、特別に設計された液体分注ツール、実験装置、専用ソフトウェアが連携し、化学物質の計量と混合、高温炉での処理、試料の回収を行う。"
+        },
+        {
+          "t": "p",
+          "x": "AI-basedの能動学習手法は、過去の実験から得た情報を使い、次に試すべき組成の特定を助ける。チームはこれを用いて、航空宇宙エンジン部品を守る熱シールドとして働く遮熱コーティングの候補として、パイロクロア結晶構造を持つ材料を作製した。"
+        },
+        {
+          "t": "p",
+          "x": "「自律型実験室は、先端材料の開発方法を変える可能性を持つ」とTanvir Hussain教授は言う。研究はEngineering Applications of Artificial Intelligence (DOI 10.1016/j.engappai.2026.114993)に掲載された。"
+        }
+      ]
+    },
+    "science/science-llm-agent-camps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-can-form-pol.jpg",
+          "cap": "ネットワーク化されたLLMエージェントのシステム：自己表現、コミュニケーション、意見の更新。Credit: Nature Communications (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Nature Communicationsに掲載された研究で、Tsinghua University（清華大学）の研究者らは、1,000体のLLMエージェントからなるネットワークに、三つの争点、すなわちU.S.の支持政党、銃規制、中絶禁止についての政治的立場を与えた。エージェントは自らの見解を主張し、誰と話し続けるかを自分で選んだ。考えの近い相手を好むよう指示されたことは一度もないが、それでも対立する陣営を形成し、次第に身内同士で集まるようになった。"
+        },
+        {
+          "t": "p",
+          "x": "40ラウンドを通じて中立の層は薄くなり、エージェントは次第に同じ側の相手とばかりやり取りするようになった。チェックの工程を加えると役柄から外れた回答は減ったが、分断は残った。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-formed-polit.jpg",
+          "cap": "同類を好む相互作用とネットワークの変化。Credit: Nature Communications (2026)"
+        },
+        {
+          "t": "p",
+          "x": "反対側の相手に出会うだけでは足りなかった。会話の相手を無作為にしても分極化はわずかに減っただけで、やや反対の立場のエージェントからのメッセージだけを許しても効果は小さかった。異なる視点を受け入れるよう指示すると分極化は11.8%減り、中立的なメッセージを発信する影響力の大きいエージェントを加えると8.8%減った。"
+        },
+        {
+          "t": "p",
+          "x": "著者らはこの結果を仮説を生むためのものと位置づけている。エージェントはプロンプトで設定され、意見は五つのカテゴリーで表され、同じ介入が人間にも効くことを示すものではない。"
+        }
+      ]
     }
   }
 }

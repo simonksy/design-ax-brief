@@ -1,221 +1,341 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "section": "gadgets",
   "cards": [
     {
-      "id": "gadgets-topc-txa2",
+      "id": "gadgets-siri-ios272",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "구리색 AI 워크스테이션\n가격은 약 $6,800",
-      "body": "TOPC TXA2는 192GB RAM을 갖춘 약 $6,800 AI 워크스테이션이다.",
-      "mini_headline": "TOPC의 $6,800 AI 워크스테이션",
+      "headline": "Apple 27.2에서\nSiri AI 또 좋아졌다",
+      "body": "Apple 27.2로 Siri AI는 지난 대화를 기억하고 다섯 언어를 더 쓴다.",
+      "mini_headline": "iOS 27.2로 달라진 Siri AI",
       "tool": "Gadgets",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/26/siri-ai-keeps-getting-better-heres-whats-new-in-ios-27-2/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/2fiT6TDsU78hzS4Mg3E8Rm-1920-80.png",
-            "cap": "이미지 출처: Minimachines"
+            "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&strip=all&w=1600",
+            "cap": "Siri AI"
           },
           {
             "t": "p",
-            "x": "중국 제조사 TOPC가 $7,000 가까운 구리색 소형 워크스테이션 TXA2를 내놓았다. 192GB LPDDR5X 메모리를 달았고 SSDs는 네 개까지 들어간다. 모니터는 최대 8K 해상도로 네 대까지 동시에 물린다."
+            "x": "Apple이 오늘 27.2 소프트웨어 업데이트를 내놓는다. 새 기능이 여럿 들어갔고 Siri AI 개선도 몇 가지 있다. 달라진 점을 정리했다."
+          },
+          {
+            "t": "img",
+            "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&strip=all"
           },
           {
             "t": "p",
-            "x": "심장부는 AMD Ryzen AI Max+ PRO 495다. CPU 코어 16개, 32스레드에 Radeon 8065S 그래픽이 들어 있다. 내장 그래픽이 시스템 메모리를 최대 160GB까지 끌어 쓰니 무거운 AI 모델도 로컬에서 넉넉히 돌린다. 다만 8,533MHz 메모리는 메인보드에 납땜돼 업그레이드가 안 된다."
+            "x": "Siri AI는 지난달 iOS 27과 함께 나왔다. Apple 어시스턴트를 크게 손본 결과물이다. 오늘 나오는 27.2 소프트웨어 업데이트로 Siri는 한 번 더 좋아진다."
           },
           {
             "t": "p",
-            "x": "저장 장치용 M.2 2280 NVMe 슬롯은 네 개다. 두 개는 PCIe 4.0 x4, 나머지 두 개는 PCIe 4.0 x2로 동작한다. 단자로는 10GbE, 2.5GbE, HDMI 2.1, DisplayPort 2.1, USB4, Wi-Fi 7, Bluetooth 5.4를 갖췄다."
+            "x": "새 Siri AI 기능은 다음과 같다."
           },
           {
             "t": "p",
-            "x": "섀시 부피는 약 2.5리터, 무게는 2.319 kg 이며 팬 네 개가 들어간다. 전력은 최대 140W, 지속 120W 까지 감당한다고 알려졌다. 소음 수준은 TOPC가 공개하지 않았다."
+            "x": "대화 기억: Siri AI가 이전 대화에서 쓸 만한 맥락을 기억해 둔다. 앞서 추천받은 식당처럼 전에 나눈 이야기를 다시 물어보면 된다."
           },
           {
             "t": "p",
-            "x": "가격은 2TB 구성이 $6,499, 4TB 구성이 $6,799부터이며, 여기에 배송비 $69가 붙고 수입 관세와 세금은 별도다. 이름이 덜 알려진 브랜드에 보증도 일 년뿐이라, $7,000 가까이 쓰기엔 모험이 크다."
+            "x": "개인 맥락 확대: Siri AI가 답을 다듬을 때 참고하는 개인 맥락 출처가 늘었다. “Messages에 첨부된 사진, Calendar 일정 참석자, 음성 사서함, Safari 방문 기록과 Reading List의 더 나은 결과”가 새로 들어갔다."
+          },
+          {
+            "t": "p",
+            "x": "언어 추가: 이제 Siri AI는 영어 말고도 프랑스어, 일본어, 한국어, 포르투갈어, 스페인어를 지원한다."
+          },
+          {
+            "t": "p",
+            "x": "Apple Watch에서 더 빠르게: Apple은 watchOS 27.2에서 Siri AI 응답이 전보다 빨라졌다고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "iOS 27.2, iPadOS 27.2, macOS 27.2 등 관련 업데이트를 설치하면 iPhone, iPad, Mac 등에서 이번 Siri AI 개선을 쓸 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "OpenAI, Anthropic 같은 기업의 AI 모델이 계속 발전하는 사이, Apple이 출시 직후부터 Siri AI를 손보는 모습은 반갑다. 소프트웨어 업데이트가 나올 때마다 어시스턴트가 조금씩 나아지길 기대한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A copper AI workstation\nfor about $6,800",
-          "body": "TOPC's TXA2 pairs AMD's Ryzen AI Max+ PRO 495 with 192GB of RAM and drives four 8K monitors for about $6,800.",
-          "mini_headline": "TOPC's $6,800 AI workstation",
+          "headline": "Siri AI improves again\nin Apple's 27.2 updates",
+          "body": "Apple's 27.2 updates let Siri AI recall past chats, use more personal context and speak five more languages.",
+          "mini_headline": "Siri AI upgrades in iOS 27.2",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/2fiT6TDsU78hzS4Mg3E8Rm-1920-80.png",
-                "cap": "Image credit: Minimachines"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&strip=all&w=1600",
+                "cap": "Siri AI"
               },
               {
                 "t": "p",
-                "x": "Chinese manufacturer TOPC has introduced a copper-colored TXA2 compact workstation costing almost $7,000. It combines 192GB of LPDDR5X memory with support for four SSDs and simultaneous output to four monitors at resolutions reaching 8K."
+                "x": "Apple is rolling out its 27.2 software updates today, and among a variety of new features, they introduce several improvements for Siri AI. Here’s what’s new."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&strip=all"
               },
               {
                 "t": "p",
-                "x": "At its core is AMD's Ryzen AI Max+ PRO 495, with 16 CPU cores, 32 threads and Radeon 8065S graphics. The integrated graphics can access as much as 160GB of system memory, giving considerable capacity for running demanding AI models locally. The 8,533MHz memory is soldered to the motherboard, so it cannot be upgraded."
+                "x": "Siri AI launched last month in iOS 27 as a major overhaul of Apple’s assistant. But Siri is getting even better today with new 27.2 software updates that are rolling out."
               },
               {
                 "t": "p",
-                "x": "Storage comes via four M.2 2280 NVMe slots, two at PCIe 4.0 x4 and two at PCIe 4.0 x2. Connectivity includes 10GbE and 2.5GbE, HDMI 2.1, DisplayPort 2.1, USB4, Wi-Fi 7 and Bluetooth 5.4."
+                "x": "New Siri AI features include:"
               },
               {
                 "t": "p",
-                "x": "The roughly 2.5-liter chassis weighs 2.319 kg and uses four fans, reportedly handling 140W at peak and 120W continuously; TOPC has not disclosed noise levels."
+                "x": "Conversation recall: Siri AI can now retain useful context from prior conversations, so you can ask it about things you’ve previously discussed such as restaurants it previously recommended."
               },
               {
                 "t": "p",
-                "x": "Pricing begins at $6,499 for the 2TB configuration and $6,799 for 4TB, plus a $69 delivery charge, before import duties and taxes. Coming from a relatively unknown brand with only a one-year warranty, a purchase approaching $7,000 is a considerable gamble."
+                "x": "Personal context upgrades: More personal context sources can now be tapped into by Siri AI to provide a better answer, including “photos attached in Messages, Calendar event attendees, your voicemails, and better results from Safari history and Reading List”."
+              },
+              {
+                "t": "p",
+                "x": "More languages: Expanding beyond English, Siri AI now also supports French, Japanese, Korean, Portuguese, and Spanish."
+              },
+              {
+                "t": "p",
+                "x": "Faster on Apple Watch: Apple says that in watchOS 27.2, Siri AI provides faster responses than before."
+              },
+              {
+                "t": "p",
+                "x": "Users can benefit from these Siri AI upgrades across iPhone, iPad, Mac, and more with iOS 27.2, iPadOS 27.2, macOS 27.2, and other companion releases."
+              },
+              {
+                "t": "p",
+                "x": "With AI models from companies like OpenAI and Anthropic always improving, it’s great to see Apple already iterating on Siri AI so shortly after it launched. Here’s hoping the assistant keeps getting better with each new software update."
               }
             ]
           }
         },
         "ko": {
-          "headline": "구리색 AI 워크스테이션\n가격은 약 $6,800",
-          "body": "TOPC TXA2는 192GB RAM을 갖춘 약 $6,800 AI 워크스테이션이다.",
-          "mini_headline": "TOPC의 $6,800 AI 워크스테이션",
+          "headline": "Apple 27.2에서\nSiri AI 또 좋아졌다",
+          "body": "Apple 27.2로 Siri AI는 지난 대화를 기억하고 다섯 언어를 더 쓴다.",
+          "mini_headline": "iOS 27.2로 달라진 Siri AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/2fiT6TDsU78hzS4Mg3E8Rm-1920-80.png",
-                "cap": "이미지 출처: Minimachines"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&strip=all&w=1600",
+                "cap": "Siri AI"
               },
               {
                 "t": "p",
-                "x": "중국 제조사 TOPC가 $7,000 가까운 구리색 소형 워크스테이션 TXA2를 내놓았다. 192GB LPDDR5X 메모리를 달았고 SSDs는 네 개까지 들어간다. 모니터는 최대 8K 해상도로 네 대까지 동시에 물린다."
+                "x": "Apple이 오늘 27.2 소프트웨어 업데이트를 내놓는다. 새 기능이 여럿 들어갔고 Siri AI 개선도 몇 가지 있다. 달라진 점을 정리했다."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&strip=all"
               },
               {
                 "t": "p",
-                "x": "심장부는 AMD Ryzen AI Max+ PRO 495다. CPU 코어 16개, 32스레드에 Radeon 8065S 그래픽이 들어 있다. 내장 그래픽이 시스템 메모리를 최대 160GB까지 끌어 쓰니 무거운 AI 모델도 로컬에서 넉넉히 돌린다. 다만 8,533MHz 메모리는 메인보드에 납땜돼 업그레이드가 안 된다."
+                "x": "Siri AI는 지난달 iOS 27과 함께 나왔다. Apple 어시스턴트를 크게 손본 결과물이다. 오늘 나오는 27.2 소프트웨어 업데이트로 Siri는 한 번 더 좋아진다."
               },
               {
                 "t": "p",
-                "x": "저장 장치용 M.2 2280 NVMe 슬롯은 네 개다. 두 개는 PCIe 4.0 x4, 나머지 두 개는 PCIe 4.0 x2로 동작한다. 단자로는 10GbE, 2.5GbE, HDMI 2.1, DisplayPort 2.1, USB4, Wi-Fi 7, Bluetooth 5.4를 갖췄다."
+                "x": "새 Siri AI 기능은 다음과 같다."
               },
               {
                 "t": "p",
-                "x": "섀시 부피는 약 2.5리터, 무게는 2.319 kg 이며 팬 네 개가 들어간다. 전력은 최대 140W, 지속 120W 까지 감당한다고 알려졌다. 소음 수준은 TOPC가 공개하지 않았다."
+                "x": "대화 기억: Siri AI가 이전 대화에서 쓸 만한 맥락을 기억해 둔다. 앞서 추천받은 식당처럼 전에 나눈 이야기를 다시 물어보면 된다."
               },
               {
                 "t": "p",
-                "x": "가격은 2TB 구성이 $6,499, 4TB 구성이 $6,799부터이며, 여기에 배송비 $69가 붙고 수입 관세와 세금은 별도다. 이름이 덜 알려진 브랜드에 보증도 일 년뿐이라, $7,000 가까이 쓰기엔 모험이 크다."
+                "x": "개인 맥락 확대: Siri AI가 답을 다듬을 때 참고하는 개인 맥락 출처가 늘었다. “Messages에 첨부된 사진, Calendar 일정 참석자, 음성 사서함, Safari 방문 기록과 Reading List의 더 나은 결과”가 새로 들어갔다."
+              },
+              {
+                "t": "p",
+                "x": "언어 추가: 이제 Siri AI는 영어 말고도 프랑스어, 일본어, 한국어, 포르투갈어, 스페인어를 지원한다."
+              },
+              {
+                "t": "p",
+                "x": "Apple Watch에서 더 빠르게: Apple은 watchOS 27.2에서 Siri AI 응답이 전보다 빨라졌다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "iOS 27.2, iPadOS 27.2, macOS 27.2 등 관련 업데이트를 설치하면 iPhone, iPad, Mac 등에서 이번 Siri AI 개선을 쓸 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "OpenAI, Anthropic 같은 기업의 AI 모델이 계속 발전하는 사이, Apple이 출시 직후부터 Siri AI를 손보는 모습은 반갑다. 소프트웨어 업데이트가 나올 때마다 어시스턴트가 조금씩 나아지길 기대한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "銅色のAIワークステーション\n価格は約$6,800",
-          "body": "TOPCのTXA2は192GB RAMと8K モニター四台に対応し約$6,800だ。",
-          "mini_headline": "TOPCの$6,800 AIワークステーション",
+          "headline": "Apple 27.2で\nSiri AIがさらに進化",
+          "body": "Apple 27.2でSiri AIが過去の会話を覚え、個人文脈も使い、言語も五つ増えた。",
+          "mini_headline": "iOS 27.2でSiri AIが進化",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/2fiT6TDsU78hzS4Mg3E8Rm-1920-80.png",
-                "cap": "画像提供: Minimachines"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&strip=all&w=1600",
+                "cap": "Siri AI"
               },
               {
                 "t": "p",
-                "x": "中国メーカーのTOPCが、価格が$7,000近い銅色の小型ワークステーションTXA2を発表した。192GB LPDDR5Xメモリを搭載し、SSDs四基に対応するほか、最大8K 解像度で四台のモニターへ同時出力できる。"
+                "x": "Appleは本日、27.2のソフトウェアアップデートの配信を始めた。多くの新機能のなかには、Siri AIの改良もいくつか含まれている。変更点をまとめる。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&strip=all"
               },
               {
                 "t": "p",
-                "x": "中核となるのはAMDのRyzen AI Max+ PRO 495で、16 CPUコア、32スレッド、Radeon 8065Sグラフィックスを備える。内蔵グラフィックスはシステムメモリを最大160GB まで利用でき、負荷の高いAIモデルをローカルで動かすうえで大きな余裕がある。8,533MHz のメモリはマザーボードにはんだ付けされており、増設はできない。"
+                "x": "Siri AIは先月、Appleのアシスタントを大きく刷新するかたちでiOS 27とともに登場した。本日配信が始まった27.2のソフトウェアアップデートで、Siriはさらに良くなる。"
               },
               {
                 "t": "p",
-                "x": "ストレージはM.2 2280 NVMeスロット四基で、うち二基がPCIe 4.0 x4、二基がPCIe 4.0 x2だ。接続端子は10GbE、2.5GbE、HDMI 2.1、DisplayPort 2.1、USB4、Wi-Fi 7、Bluetooth 5.4をそろえる。"
+                "x": "Siri AIの新機能は次のとおりだ。"
               },
               {
                 "t": "p",
-                "x": "容積約2.5リットルの筐体は重さ2.319 kg で、四基のファンを備える。ピーク時140W、連続120W に対応するとされるが、TOPCは騒音レベルを公表していない。"
+                "x": "会話の記憶：Siri AIは過去の会話から有用な文脈を保持できるようになった。以前すすめられたレストランなど、前に話した内容について尋ねられる。"
               },
               {
                 "t": "p",
-                "x": "価格は2TB 構成が$6,499、4TB 構成が$6,799からで、別途配送料$69がかかり、輸入関税と税金は含まれない。比較的無名のブランドで保証も一年のみとなれば、$7,000近い買い物はかなりの賭けだ。"
+                "x": "個人的文脈の拡充：Siri AIがより良い回答のために参照できる個人的な情報源が増えた。「Messagesに添付された写真、Calendarの予定の参加者、留守番電話、そしてSafariの履歴とReading Listからのより良い結果」が含まれる。"
+              },
+              {
+                "t": "p",
+                "x": "対応言語の追加：英語に加え、Siri AIはフランス語、日本語、韓国語、ポルトガル語、スペイン語にも対応した。"
+              },
+              {
+                "t": "p",
+                "x": "Apple Watchで高速化：AppleによればwatchOS 27.2では、Siri AIの応答が以前より速くなる。"
+              },
+              {
+                "t": "p",
+                "x": "iOS 27.2、iPadOS 27.2、macOS 27.2などの関連リリースにより、iPhone、iPad、MacなどでこれらのSiri AIの改良を利用できる。"
+              },
+              {
+                "t": "p",
+                "x": "OpenAIやAnthropicなどのAIモデルが絶えず進化するなか、Appleが登場直後からSiri AIの改良を重ねているのは喜ばしい。ソフトウェアアップデートのたびにアシスタントが良くなっていくことを期待したい。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "铜色AI工作站\n售价约$6,800",
-          "body": "TOPC TXA2搭载192GB RAM，可驱动四台8K 显示器，售价约$6,800。",
-          "mini_headline": "TOPC的$6,800 AI工作站",
+          "headline": "Apple 27.2更新\nSiri AI再度升级",
+          "body": "Apple 27.2更新让Siri AI能记住过往对话、调用更多个人情境，并新增五种语言。",
+          "mini_headline": "iOS 27.2中Siri AI升级",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/2fiT6TDsU78hzS4Mg3E8Rm-1920-80.png",
-                "cap": "图片来源：Minimachines"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&strip=all&w=1600",
+                "cap": "Siri AI"
               },
               {
                 "t": "p",
-                "x": "中国厂商TOPC推出了铜色的TXA2紧凑型工作站，售价近$7,000。它配备192GB LPDDR5X内存，支持四块SSDs，并可同时向四台显示器输出最高8K 分辨率的画面。"
+                "x": "Apple今天开始推送27.2软件更新，在众多新功能中，也为Siri AI带来了多项改进。以下是更新内容。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&strip=all"
               },
               {
                 "t": "p",
-                "x": "其核心是AMD的Ryzen AI Max+ PRO 495，拥有16个CPU核心、32线程和Radeon 8065S显卡。集成显卡最多可调用160GB 系统内存，为在本地运行高负载AI模型留出了相当大的空间。8,533MHz 内存焊接在主板上，无法升级。"
+                "x": "Siri AI上个月随iOS 27推出，是对Apple助手的一次重大改造。随着今天开始推送的27.2软件更新，Siri变得更好了。"
               },
               {
                 "t": "p",
-                "x": "存储方面提供四个M.2 2280 NVMe插槽，其中两个为PCIe 4.0 x4，两个为PCIe 4.0 x2。接口包括10GbE和2.5GbE网口、HDMI 2.1、DisplayPort 2.1、USB4、Wi-Fi 7以及Bluetooth 5.4。"
+                "x": "Siri AI的新功能包括："
               },
               {
                 "t": "p",
-                "x": "这款机箱容积约2.5升，重2.319 kg，配有四个风扇，据称峰值可承受140W、持续120W 的功耗；TOPC尚未公布噪音水平。"
+                "x": "对话回忆：Siri AI现在可以保留以往对话中的有用情境，你可以问它此前聊过的内容，例如它之前推荐过的餐厅。"
               },
               {
                 "t": "p",
-                "x": "2TB 配置起价$6,499，4TB 配置起价$6,799，另加$69运费，进口关税和税费另计。作为相对陌生的品牌，且仅提供一年保修，花近$7,000购买无疑是不小的赌博。"
+                "x": "个人情境升级：Siri AI现在可以调用更多个人情境来源来给出更好的回答，包括“Messages中附带的照片、Calendar日程的参与者、你的语音留言，以及来自Safari历史记录和Reading List的更佳结果”。"
+              },
+              {
+                "t": "p",
+                "x": "更多语言：除英语外，Siri AI现在还支持法语、日语、韩语、葡萄牙语和西班牙语。"
+              },
+              {
+                "t": "p",
+                "x": "Apple Watch上更快：Apple表示，在watchOS 27.2中，Siri AI的响应速度比以前更快。"
+              },
+              {
+                "t": "p",
+                "x": "用户可通过iOS 27.2、iPadOS 27.2、macOS 27.2及其他配套版本，在iPhone、iPad、Mac等设备上享受这些Siri AI升级。"
+              },
+              {
+                "t": "p",
+                "x": "OpenAI和Anthropic等公司的AI模型不断进步，Apple在Siri AI推出后不久就开始迭代，令人欣慰。希望这款助手能随着每次软件更新持续变好。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una estación de IA color cobre\npor unos $6,800",
-          "body": "La TXA2 de TOPC combina el Ryzen AI Max+ PRO 495 de AMD con 192GB de RAM y admite cuatro monitores 8K por unos $6,800.",
-          "mini_headline": "La estación de IA de $6,800 de TOPC",
+          "headline": "Siri AI mejora de nuevo\ncon las versiones 27.2 de Apple",
+          "body": "Con las versiones 27.2 de Apple, Siri AI recuerda chats previos, usa más contexto personal y suma cinco idiomas.",
+          "mini_headline": "Siri AI mejora en iOS 27.2",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/2fiT6TDsU78hzS4Mg3E8Rm-1920-80.png",
-                "cap": "Crédito de imagen: Minimachines"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&strip=all&w=1600",
+                "cap": "Siri AI"
               },
               {
                 "t": "p",
-                "x": "El fabricante chino TOPC ha presentado la TXA2, una estación de trabajo compacta de color cobre que cuesta casi $7,000. Combina 192GB de memoria LPDDR5X con soporte para cuatro SSDs y salida simultánea a cuatro monitores con resoluciones de hasta 8K."
+                "x": "Apple publica hoy sus actualizaciones de software 27.2, que, entre varias funciones nuevas, introducen diversas mejoras para Siri AI. Esto es lo nuevo."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&strip=all"
               },
               {
                 "t": "p",
-                "x": "En su núcleo está el Ryzen AI Max+ PRO 495 de AMD, con 16 núcleos de CPU, 32 hilos y gráficos Radeon 8065S. La gráfica integrada puede acceder a hasta 160GB de memoria del sistema, lo que da un margen considerable para ejecutar localmente modelos de IA exigentes. La memoria a 8,533MHz va soldada a la placa base, por lo que no se puede ampliar."
+                "x": "Siri AI llegó el mes pasado con iOS 27 como una renovación profunda del asistente de Apple. Pero Siri mejora todavía más hoy con las nuevas actualizaciones de software 27.2 que se están distribuyendo."
               },
               {
                 "t": "p",
-                "x": "El almacenamiento se resuelve con cuatro ranuras M.2 2280 NVMe, dos PCIe 4.0 x4 y dos PCIe 4.0 x2. La conectividad incluye 10GbE y 2.5GbE, HDMI 2.1, DisplayPort 2.1, USB4, Wi-Fi 7 y Bluetooth 5.4."
+                "x": "Las nuevas funciones de Siri AI incluyen:"
               },
               {
                 "t": "p",
-                "x": "El chasis, de unos 2.5 litros, pesa 2.319 kg y usa cuatro ventiladores; según se informa, soporta 140W en picos y 120W de forma continua. TOPC no ha revelado los niveles de ruido."
+                "x": "Memoria de conversaciones: Siri AI ahora puede conservar contexto útil de conversaciones anteriores, de modo que se le puede preguntar por temas ya tratados, como restaurantes que recomendó antes."
               },
               {
                 "t": "p",
-                "x": "Los precios parten de $6,499 para la configuración de 2TB y de $6,799 para la de 4TB, más $69 de envío, sin contar aranceles de importación ni impuestos. Al tratarse de una marca relativamente desconocida y con solo un año de garantía, una compra cercana a $7,000 es una apuesta considerable."
+                "x": "Más contexto personal: Siri AI ahora puede recurrir a más fuentes de contexto personal para dar una mejor respuesta, entre ellas “fotos adjuntas en Messages, asistentes a eventos de Calendar, tus mensajes de voz y mejores resultados del historial de Safari y de Reading List”."
+              },
+              {
+                "t": "p",
+                "x": "Más idiomas: además del inglés, Siri AI ahora admite francés, japonés, coreano, portugués y español."
+              },
+              {
+                "t": "p",
+                "x": "Más rápido en Apple Watch: Apple afirma que en watchOS 27.2 Siri AI responde más rápido que antes."
+              },
+              {
+                "t": "p",
+                "x": "Los usuarios pueden aprovechar estas mejoras de Siri AI en iPhone, iPad, Mac y otros dispositivos con iOS 27.2, iPadOS 27.2, macOS 27.2 y otras versiones complementarias."
+              },
+              {
+                "t": "p",
+                "x": "Con modelos de AI de empresas como OpenAI y Anthropic en mejora constante, es positivo ver que Apple ya itera sobre Siri AI tan poco después de su lanzamiento. Cabe esperar que el asistente siga mejorando con cada nueva actualización de software."
               }
             ]
           }
@@ -223,141 +343,221 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "구리색 AI 워크스테이션\n가격은 약 $6,800",
-          "body": "TOPC TXA2는 192GB RAM을 갖춘 약 $6,800 AI 워크스테이션이다.",
-          "mini_headline": "TOPC의 $6,800 AI 워크스테이션",
+          "headline": "Apple 27.2에서\nSiri AI 또 좋아졌다",
+          "body": "Apple 27.2로 Siri AI는 지난 대화를 기억하고 다섯 언어를 더 쓴다.",
+          "mini_headline": "iOS 27.2의 Siri AI 업그레이드",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/2fiT6TDsU78hzS4Mg3E8Rm-1920-80.png",
-                "cap": "이미지 출처: Minimachines"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&strip=all&w=1600",
+                "cap": "Siri AI"
               },
               {
                 "t": "p",
-                "x": "중국 제조사 TOPC가 $7,000 가까운 구리색 소형 워크스테이션 TXA2를 내놓았다. 192GB LPDDR5X 메모리에 SSDs 네 개를 지원하며, 최대 8K 해상도로 모니터 네 대에 동시 출력한다."
+                "x": "Apple이 오늘 27.2 소프트웨어 업데이트를 배포한다. 여러 새 기능 가운데 Siri AI 개선 사항도 여럿 담겼다. 달라진 점을 정리했다."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&strip=all"
               },
               {
                 "t": "p",
-                "x": "핵심은 AMD Ryzen AI Max+ PRO 495로, CPU 코어 16개와 32스레드, Radeon 8065S 그래픽을 갖췄다. 내장 그래픽은 최대 160GB 용량의 시스템 메모리를 쓸 수 있어, 무거운 AI 모델을 로컬에서 돌릴 여유가 상당하다. 8,533MHz 메모리는 메인보드에 납땜돼 있어 업그레이드할 수 없다."
+                "x": "Siri AI는 지난달 iOS 27과 함께 Apple 어시스턴트를 크게 손본 형태로 나왔다. 오늘 배포되는 27.2 소프트웨어 업데이트로 Siri는 한층 더 나아진다."
               },
               {
                 "t": "p",
-                "x": "저장 장치는 M.2 2280 NVMe 슬롯 네 개로, 두 개는 PCIe 4.0 x4, 두 개는 PCIe 4.0 x2다. 연결 단자는 10GbE, 2.5GbE, HDMI 2.1, DisplayPort 2.1, USB4, Wi-Fi 7, Bluetooth 5.4다."
+                "x": "새 Siri AI 기능은 다음과 같다."
               },
               {
                 "t": "p",
-                "x": "부피 약 2.5리터의 섀시는 무게가 2.319 kg 이고 팬 네 개를 쓴다. 최대 140W, 지속 120W 를 감당하는 것으로 알려졌지만, TOPC는 소음 수준을 공개하지 않았다."
+                "x": "대화 기억: Siri AI가 이전 대화에서 유용한 맥락을 간직한다. 앞서 추천받은 식당처럼 전에 나눈 이야기를 다시 물어볼 수 있다."
               },
               {
                 "t": "p",
-                "x": "가격은 2TB 구성이 $6,499, 4TB 구성이 $6,799부터이며, 여기에 배송비 $69가 붙고 수입 관세와 세금은 별도다. 비교적 덜 알려진 브랜드에 보증 기간도 일 년뿐이어서, $7,000에 가까운 구매는 상당한 모험이다."
+                "x": "개인 맥락 확대: Siri AI가 더 나은 답을 내려고 활용하는 개인 맥락 출처가 늘었다. “Messages에 첨부된 사진, Calendar 일정 참석자, 음성 사서함, Safari 방문 기록과 Reading List의 더 나은 결과”가 여기에 포함된다."
+              },
+              {
+                "t": "p",
+                "x": "언어 추가: Siri AI가 영어를 넘어 프랑스어, 일본어, 한국어, 포르투갈어, 스페인어도 지원한다."
+              },
+              {
+                "t": "p",
+                "x": "Apple Watch에서 더 빠르게: Apple은 watchOS 27.2에서 Siri AI가 전보다 빠르게 응답한다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "사용자는 iOS 27.2, iPadOS 27.2, macOS 27.2를 비롯한 관련 업데이트로 iPhone, iPad, Mac 등에서 이번 Siri AI 개선을 누릴 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "OpenAI, Anthropic 같은 기업의 AI 모델이 계속 발전하는 가운데, Apple이 출시 직후부터 Siri AI를 다듬고 있다는 점은 반갑다. 소프트웨어 업데이트마다 어시스턴트가 계속 나아지기를 기대한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "銅色のAIワークステーション\n価格は約$6,800",
-          "body": "TOPCのTXA2は192GB RAMと8K モニター四台に対応し約$6,800だ。",
-          "mini_headline": "TOPCの$6,800 AIワークステーション",
+          "headline": "Apple 27.2で\nSiri AIがさらに進化",
+          "body": "Apple 27.2でSiri AIが過去の会話を覚え、個人文脈も使い、言語も五つ増えた。",
+          "mini_headline": "iOS 27.2でSiri AIが進化",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/2fiT6TDsU78hzS4Mg3E8Rm-1920-80.png",
-                "cap": "画像提供: Minimachines"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&strip=all&w=1600",
+                "cap": "Siri AI"
               },
               {
                 "t": "p",
-                "x": "中国メーカーのTOPCが、価格が$7,000近い銅色の小型ワークステーションTXA2を発表した。192GB LPDDR5Xメモリを搭載し、SSDs四基に対応するほか、最大8K 解像度で四台のモニターへ同時出力できる。"
+                "x": "Appleは本日、27.2のソフトウェアアップデートの配信を始めた。多くの新機能のなかには、Siri AIの改良もいくつか含まれている。変更点をまとめる。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&strip=all"
               },
               {
                 "t": "p",
-                "x": "中核となるのはAMDのRyzen AI Max+ PRO 495で、16 CPUコア、32スレッド、Radeon 8065Sグラフィックスを備える。内蔵グラフィックスはシステムメモリを最大160GB まで利用でき、負荷の高いAIモデルをローカルで動かすうえで大きな余裕がある。8,533MHz のメモリはマザーボードにはんだ付けされており、増設はできない。"
+                "x": "Siri AIは先月、Appleのアシスタントを大きく刷新するかたちでiOS 27とともに登場した。本日配信が始まった27.2のソフトウェアアップデートで、Siriはさらに良くなる。"
               },
               {
                 "t": "p",
-                "x": "ストレージはM.2 2280 NVMeスロット四基で、うち二基がPCIe 4.0 x4、二基がPCIe 4.0 x2だ。接続端子は10GbE、2.5GbE、HDMI 2.1、DisplayPort 2.1、USB4、Wi-Fi 7、Bluetooth 5.4をそろえる。"
+                "x": "Siri AIの新機能は次のとおりだ。"
               },
               {
                 "t": "p",
-                "x": "容積約2.5リットルの筐体は重さ2.319 kg で、四基のファンを備える。ピーク時140W、連続120W に対応するとされるが、TOPCは騒音レベルを公表していない。"
+                "x": "会話の記憶：Siri AIは過去の会話から有用な文脈を保持できるようになった。以前すすめられたレストランなど、前に話した内容について尋ねられる。"
               },
               {
                 "t": "p",
-                "x": "価格は2TB 構成が$6,499、4TB 構成が$6,799からで、別途配送料$69がかかり、輸入関税と税金は含まれない。比較的無名のブランドで保証も一年のみとなれば、$7,000近い買い物はかなりの賭けだ。"
+                "x": "個人的文脈の拡充：Siri AIがより良い回答のために参照できる個人的な情報源が増えた。「Messagesに添付された写真、Calendarの予定の参加者、留守番電話、そしてSafariの履歴とReading Listからのより良い結果」が含まれる。"
+              },
+              {
+                "t": "p",
+                "x": "対応言語の追加：英語に加え、Siri AIはフランス語、日本語、韓国語、ポルトガル語、スペイン語にも対応した。"
+              },
+              {
+                "t": "p",
+                "x": "Apple Watchで高速化：AppleによればwatchOS 27.2では、Siri AIの応答が以前より速くなる。"
+              },
+              {
+                "t": "p",
+                "x": "iOS 27.2、iPadOS 27.2、macOS 27.2などの関連リリースにより、iPhone、iPad、MacなどでこれらのSiri AIの改良を利用できる。"
+              },
+              {
+                "t": "p",
+                "x": "OpenAIやAnthropicなどのAIモデルが絶えず進化するなか、Appleが登場直後からSiri AIの改良を重ねているのは喜ばしい。ソフトウェアアップデートのたびにアシスタントが良くなっていくことを期待したい。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "铜色AI工作站\n售价约$6,800",
-          "body": "TOPC TXA2搭载192GB RAM，可驱动四台8K 显示器，售价约$6,800。",
-          "mini_headline": "TOPC的$6,800 AI工作站",
+          "headline": "Apple 27.2更新\nSiri AI再度升级",
+          "body": "Apple 27.2更新让Siri AI能记住过往对话、调用更多个人情境，并新增五种语言。",
+          "mini_headline": "iOS 27.2中Siri AI升级",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/2fiT6TDsU78hzS4Mg3E8Rm-1920-80.png",
-                "cap": "图片来源：Minimachines"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&strip=all&w=1600",
+                "cap": "Siri AI"
               },
               {
                 "t": "p",
-                "x": "中国厂商TOPC推出了铜色的TXA2紧凑型工作站，售价近$7,000。它配备192GB LPDDR5X内存，支持四块SSDs，并可同时向四台显示器输出最高8K 分辨率的画面。"
+                "x": "Apple今天开始推送27.2软件更新，在众多新功能中，也为Siri AI带来了多项改进。以下是更新内容。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&strip=all"
               },
               {
                 "t": "p",
-                "x": "其核心是AMD的Ryzen AI Max+ PRO 495，拥有16个CPU核心、32线程和Radeon 8065S显卡。集成显卡最多可调用160GB 系统内存，为在本地运行高负载AI模型留出了相当大的空间。8,533MHz 内存焊接在主板上，无法升级。"
+                "x": "Siri AI上个月随iOS 27推出，是对Apple助手的一次重大改造。随着今天开始推送的27.2软件更新，Siri变得更好了。"
               },
               {
                 "t": "p",
-                "x": "存储方面提供四个M.2 2280 NVMe插槽，其中两个为PCIe 4.0 x4，两个为PCIe 4.0 x2。接口包括10GbE和2.5GbE网口、HDMI 2.1、DisplayPort 2.1、USB4、Wi-Fi 7以及Bluetooth 5.4。"
+                "x": "Siri AI的新功能包括："
               },
               {
                 "t": "p",
-                "x": "这款机箱容积约2.5升，重2.319 kg，配有四个风扇，据称峰值可承受140W、持续120W 的功耗；TOPC尚未公布噪音水平。"
+                "x": "对话回忆：Siri AI现在可以保留以往对话中的有用情境，你可以问它此前聊过的内容，例如它之前推荐过的餐厅。"
               },
               {
                 "t": "p",
-                "x": "2TB 配置起价$6,499，4TB 配置起价$6,799，另加$69运费，进口关税和税费另计。作为相对陌生的品牌，且仅提供一年保修，花近$7,000购买无疑是不小的赌博。"
+                "x": "个人情境升级：Siri AI现在可以调用更多个人情境来源来给出更好的回答，包括“Messages中附带的照片、Calendar日程的参与者、你的语音留言，以及来自Safari历史记录和Reading List的更佳结果”。"
+              },
+              {
+                "t": "p",
+                "x": "更多语言：除英语外，Siri AI现在还支持法语、日语、韩语、葡萄牙语和西班牙语。"
+              },
+              {
+                "t": "p",
+                "x": "Apple Watch上更快：Apple表示，在watchOS 27.2中，Siri AI的响应速度比以前更快。"
+              },
+              {
+                "t": "p",
+                "x": "用户可通过iOS 27.2、iPadOS 27.2、macOS 27.2及其他配套版本，在iPhone、iPad、Mac等设备上享受这些Siri AI升级。"
+              },
+              {
+                "t": "p",
+                "x": "OpenAI和Anthropic等公司的AI模型不断进步，Apple在Siri AI推出后不久就开始迭代，令人欣慰。希望这款助手能随着每次软件更新持续变好。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una estación de IA color cobre\npor unos $6,800",
-          "body": "La TXA2 de TOPC combina el Ryzen AI Max+ PRO 495 de AMD con 192GB de RAM y admite cuatro monitores 8K por unos $6,800.",
-          "mini_headline": "La estación de IA de $6,800 de TOPC",
+          "headline": "Siri AI mejora de nuevo\ncon las versiones 27.2 de Apple",
+          "body": "Con las versiones 27.2 de Apple, Siri AI recuerda chats previos, usa más contexto personal y suma cinco idiomas.",
+          "mini_headline": "Siri AI mejora en iOS 27.2",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/2fiT6TDsU78hzS4Mg3E8Rm-1920-80.png",
-                "cap": "Crédito de imagen: Minimachines"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&strip=all&w=1600",
+                "cap": "Siri AI"
               },
               {
                 "t": "p",
-                "x": "El fabricante chino TOPC ha presentado la TXA2, una estación de trabajo compacta de color cobre que cuesta casi $7,000. Combina 192GB de memoria LPDDR5X con soporte para cuatro SSDs y salida simultánea a cuatro monitores con resoluciones de hasta 8K."
+                "x": "Apple publica hoy sus actualizaciones de software 27.2, que, entre varias funciones nuevas, introducen diversas mejoras para Siri AI. Esto es lo nuevo."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&strip=all"
               },
               {
                 "t": "p",
-                "x": "En su núcleo está el Ryzen AI Max+ PRO 495 de AMD, con 16 núcleos de CPU, 32 hilos y gráficos Radeon 8065S. La gráfica integrada puede acceder a hasta 160GB de memoria del sistema, lo que da un margen considerable para ejecutar localmente modelos de IA exigentes. La memoria a 8,533MHz va soldada a la placa base, por lo que no se puede ampliar."
+                "x": "Siri AI llegó el mes pasado con iOS 27 como una renovación profunda del asistente de Apple. Pero Siri mejora todavía más hoy con las nuevas actualizaciones de software 27.2 que se están distribuyendo."
               },
               {
                 "t": "p",
-                "x": "El almacenamiento se resuelve con cuatro ranuras M.2 2280 NVMe, dos PCIe 4.0 x4 y dos PCIe 4.0 x2. La conectividad incluye 10GbE y 2.5GbE, HDMI 2.1, DisplayPort 2.1, USB4, Wi-Fi 7 y Bluetooth 5.4."
+                "x": "Las nuevas funciones de Siri AI incluyen:"
               },
               {
                 "t": "p",
-                "x": "El chasis, de unos 2.5 litros, pesa 2.319 kg y usa cuatro ventiladores; según se informa, soporta 140W en picos y 120W de forma continua. TOPC no ha revelado los niveles de ruido."
+                "x": "Memoria de conversaciones: Siri AI ahora puede conservar contexto útil de conversaciones anteriores, de modo que se le puede preguntar por temas ya tratados, como restaurantes que recomendó antes."
               },
               {
                 "t": "p",
-                "x": "Los precios parten de $6,499 para la configuración de 2TB y de $6,799 para la de 4TB, más $69 de envío, sin contar aranceles de importación ni impuestos. Al tratarse de una marca relativamente desconocida y con solo un año de garantía, una compra cercana a $7,000 es una apuesta considerable."
+                "x": "Más contexto personal: Siri AI ahora puede recurrir a más fuentes de contexto personal para dar una mejor respuesta, entre ellas “fotos adjuntas en Messages, asistentes a eventos de Calendar, tus mensajes de voz y mejores resultados del historial de Safari y de Reading List”."
+              },
+              {
+                "t": "p",
+                "x": "Más idiomas: además del inglés, Siri AI ahora admite francés, japonés, coreano, portugués y español."
+              },
+              {
+                "t": "p",
+                "x": "Más rápido en Apple Watch: Apple afirma que en watchOS 27.2 Siri AI responde más rápido que antes."
+              },
+              {
+                "t": "p",
+                "x": "Los usuarios pueden aprovechar estas mejoras de Siri AI en iPhone, iPad, Mac y otros dispositivos con iOS 27.2, iPadOS 27.2, macOS 27.2 y otras versiones complementarias."
+              },
+              {
+                "t": "p",
+                "x": "Con modelos de AI de empresas como OpenAI y Anthropic en mejora constante, es positivo ver que Apple ya itera sobre Siri AI tan poco después de su lanzamiento. Cabe esperar que el asistente siga mejorando con cada nueva actualización de software."
               }
             ]
           }
@@ -365,15 +565,15 @@
       }
     },
     {
-      "id": "gadgets-gemini-side-panel",
+      "id": "gadgets-orisa",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Android Gemini\n사이드 패널 개편",
-      "body": "Android Gemini 앱이 사이드 패널과 설정을 새로 단장했다.",
-      "mini_headline": "Gemini Android 개편",
+      "headline": "삭제한 AI 대화도\n휴대폰에서 복구된다",
+      "body": "Georgia Tech의 ORISA는 로컬 AI 앱에서 지운 대화를 되살린다.",
+      "mini_headline": "삭제한 AI 대화, 복구 가능",
       "tool": "Gadgets",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/23/gemini-settings-redesign-android/",
+      "source": "Digital Trends",
+      "url": "https://www.digitaltrends.com/computing/researchers-develop-forensic-tool-orisa-to-recover-deleted-conversations-from-ai-chatbot-apps/",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
@@ -381,293 +581,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-2.jpg?quality=82&strip=all&w=1600"
+            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/recovering-deleted-ai-chats.jpg?resize=1200%2C720&ssl=1",
+            "cap": "Manisha Priyadarshini / Digital Trends"
           },
           {
             "t": "p",
-            "x": "Spark-to-Task 업데이트에 이어 Gemini 앱이 이번에는 Android에 사이드 패널과 설정의 새 디자인을 내놓았다."
+            "x": "AI 챗봇과 나눈 대화를 지우면 정말 사라진다고 믿었다면 생각을 고쳐야겠다. Georgia Tech 연구진이 포렌식 도구 ORISA를 만들었다. 휴대폰에서 삭제된 대화를 찾아내, 대화를 계속 이어갈 수 있는 챗봇 세션으로 재구성까지 한다."
           },
           {
             "t": "p",
-            "x": "먼저 눈에 띄는 건 검색 위치다. Google은 검색을 오른쪽 위 모서리로 옮겼다. 목록 첫 항목은 여전히 New chat이고, 아래쪽에 있던 Library가 바로 그다음으로 올라왔다."
-          },
-          {
-            "t": "p",
-            "x": "최근 채팅은 보이게 하되 내비게이션 서랍은 깔끔하게 두려고 Gemini는 항목을 다섯 개만 보여 주고 그 아래 “More”를 둔다. 누르면 목록이 펼쳐진다. AI Ultra 구독 기준 전체 목록은 New chat, Library, Images, Scheduled, Daily brief, Customize, Students, Videos, Gems다."
+            "x": "로컬 AI 어시스턴트는 대화를 클라우드로 보내지 않는다. 대신 앱이 도는 동안 그 데이터가 휴대폰 작업 메모리에 남는다. 그래서 앱에서 대화를 지워도 꼭 사라지지는 않는다. ORISA는 남은 조각을 찾아 이어 붙이고, 실제로 작동하는 AI 세션으로 되살린다."
           },
           {
             "t": "img",
-            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-1.jpg"
-          },
-          {
-            "t": "img",
-            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-2.jpg"
+            "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/overview-of-orisa.jpg?resize=2238%2C812&ssl=1",
+            "cap": "ORISA 설계 개요. Georgia Tech"
           },
           {
             "t": "p",
-            "x": "설정도 손봤다. 계정 메뉴와 “Gemini Settings”로 나뉘어 있던 환경설정을 Google이 한 페이지로 합쳤다. 이제 계정 메뉴는 계정 전환, Feedback 남기기, Help 보기에만 쓰인다."
+            "x": "한 실험에서 연구진은 Project Note Keeper라는 가상의 어시스턴트에 사실 100개를 입력한 뒤 대화를 삭제했다. 그때 라이브 세션이 꺼낼 수 있는 사실은 14개뿐이었는데, ORISA는 26개를 복구했다. Android 앱 10개와 AI 모델 세 개를 엮은 60개 테스트 구성에서도 ORISA는 삭제된 대화 데이터를 되찾았다."
           },
           {
             "t": "p",
-            "x": "“Settings” 페이지는 Manage account와 Usage limits로 시작한다. Preferences 아래에는 Notifications, Personal Intelligence, Avatar, Task settings, Theme(신규), Skills, Voice, Media, Device controls, Cart and orders, Gemini Notebook이 있다. 맨 끝에는 Data & privacy와 Get support 두 섹션이 붙는다."
-          },
-          {
-            "t": "img",
-            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-settings-redesign-1.jpg"
-          },
-          {
-            "t": "p",
-            "x": "새 사이드 패널과 설정은 지난주 Gemini 4 Argon 출시와 함께 iOS, macOS, 웹 앱에 먼저 적용됐다. 이번에는 서버 측 업데이트로 Android에도 널리 풀리는 중이다."
+            "x": "연구진은 누군가 AI 어시스턴트와 무엇을 공유했는지 수사관이 재구성할 때 ORISA가 도움이 될 수 있다고 설명한다. 챗봇 조언이 환자에게 해를 끼쳤을지 모르는 사건이 그런 예다. 온디바이스 AI 사용자에게는 반대로 개인정보 걱정거리가 생긴다. ORISA는 수사관용 포렌식 도구여서 휴대폰 메모리와 저장소 사본이 있어야 하고, 다른 활동이 데이터를 덮어쓰면 복구가 어려워진다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Gemini on Android gets\na new side panel",
-          "body": "Following the Spark-to-Task update, the Gemini Android app has redesigned its side panel and settings.",
-          "mini_headline": "Gemini Android redesign",
+          "headline": "Deleted AI chats can be\nrecovered from phones",
+          "body": "Georgia Tech's ORISA tool recovers deleted chats from local AI apps and rebuilds them into a working session.",
+          "mini_headline": "Deleted AI chats recoverable",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-2.jpg?quality=82&strip=all&w=1600"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/recovering-deleted-ai-chats.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Manisha Priyadarshini / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "Following the Spark-to-Task update, the Gemini app has now rolled out redesigns of the side panel and settings on Android."
+                "x": "Did you think hitting delete on your AI chatbot conversation actually makes it disappear? Georgia Tech researchers have built a forensic tool called ORISA that can dig deleted conversations from your phone and even rebuild them into a working chatbot session you can keep talking to."
               },
               {
                 "t": "p",
-                "x": "This revamp starts with Google moving search to the top-right corner. The first item in the list remains New chat, with Library appearing next instead of being located near the bottom."
-              },
-              {
-                "t": "p",
-                "x": "To avoid cluttering the navigation drawer while still allowing you to view recent chats, Gemini displays only five items before making use of “More,” which expands the list upon tapping. With an AI Ultra subscription, the full list is as follows: New chat, Library, Images, Scheduled, Daily brief, Customize, Students, Videos, and Gems."
+                "x": "Local AI assistants don’t send conversations to the cloud, but that data still lives in the phone’s working memory while the app runs, so deleting a chat in the app doesn’t necessarily erase it. ORISA looks for those leftover fragments and stitches them back together into a live, working AI session."
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-1.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-2.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/overview-of-orisa.jpg?resize=2238%2C812&ssl=1",
+                "cap": "Overview of ORISA’s design. Georgia Tech"
               },
               {
                 "t": "p",
-                "x": "Meanwhile, the Gemini app is revamping settings. Instead of having preferences split between the account menu and “Gemini Settings,” Google has consolidated everything into one page. The account menu is now just for switching accounts, leaving Feedback, or getting Help."
+                "x": "In one test, researchers fed a fictional assistant called Project Note Keeper 100 facts, then deleted the conversation. The live session could access only 14 of those facts by then; ORISA recovered 26. Across 60 test configurations spanning 10 Android apps and three AI models, the tool recovered deleted conversation data."
               },
               {
                 "t": "p",
-                "x": "The “Settings” page starts with Manage account and Usage limits. Under Preferences, you’ll find Notifications, Personal Intelligence, Avatar, Task settings, Theme (new), Skills, Voice, Media, Device controls, Cart and orders, and Gemini Notebook. Two other sections, Data & privacy and Get support, round out the page."
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-settings-redesign-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "The updated side panel and settings rolled out to iOS, macOS, and the web app last week with the launch of Gemini 4 Argon. We’re now seeing wide availability on Android following a server-side update."
+                "x": "Researchers say ORISA could help investigators piece together what someone shared with an AI assistant, including cases where chatbot advice may have harmed patients. It also raises privacy concerns for on-device AI users. ORISA is a forensic tool for investigators, needs a copy of the phone’s memory and storage, and recovery gets harder when other activity overwrites the data."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Android Gemini\n사이드 패널 개편",
-          "body": "Android Gemini 앱이 사이드 패널과 설정을 새로 단장했다.",
-          "mini_headline": "Gemini Android 개편",
+          "headline": "삭제한 AI 대화도\n휴대폰에서 복구된다",
+          "body": "Georgia Tech의 ORISA는 로컬 AI 앱에서 지운 대화를 되살린다.",
+          "mini_headline": "삭제한 AI 대화, 복구 가능",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-2.jpg?quality=82&strip=all&w=1600"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/recovering-deleted-ai-chats.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Manisha Priyadarshini / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "Spark-to-Task 업데이트에 이어 Gemini 앱이 이번에는 Android에 사이드 패널과 설정의 새 디자인을 내놓았다."
+                "x": "AI 챗봇과 나눈 대화를 지우면 정말 사라진다고 믿었다면 생각을 고쳐야겠다. Georgia Tech 연구진이 포렌식 도구 ORISA를 만들었다. 휴대폰에서 삭제된 대화를 찾아내, 대화를 계속 이어갈 수 있는 챗봇 세션으로 재구성까지 한다."
               },
               {
                 "t": "p",
-                "x": "먼저 눈에 띄는 건 검색 위치다. Google은 검색을 오른쪽 위 모서리로 옮겼다. 목록 첫 항목은 여전히 New chat이고, 아래쪽에 있던 Library가 바로 그다음으로 올라왔다."
-              },
-              {
-                "t": "p",
-                "x": "최근 채팅은 보이게 하되 내비게이션 서랍은 깔끔하게 두려고 Gemini는 항목을 다섯 개만 보여 주고 그 아래 “More”를 둔다. 누르면 목록이 펼쳐진다. AI Ultra 구독 기준 전체 목록은 New chat, Library, Images, Scheduled, Daily brief, Customize, Students, Videos, Gems다."
+                "x": "로컬 AI 어시스턴트는 대화를 클라우드로 보내지 않는다. 대신 앱이 도는 동안 그 데이터가 휴대폰 작업 메모리에 남는다. 그래서 앱에서 대화를 지워도 꼭 사라지지는 않는다. ORISA는 남은 조각을 찾아 이어 붙이고, 실제로 작동하는 AI 세션으로 되살린다."
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-1.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-2.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/overview-of-orisa.jpg?resize=2238%2C812&ssl=1",
+                "cap": "ORISA 설계 개요. Georgia Tech"
               },
               {
                 "t": "p",
-                "x": "설정도 손봤다. 계정 메뉴와 “Gemini Settings”로 나뉘어 있던 환경설정을 Google이 한 페이지로 합쳤다. 이제 계정 메뉴는 계정 전환, Feedback 남기기, Help 보기에만 쓰인다."
+                "x": "한 실험에서 연구진은 Project Note Keeper라는 가상의 어시스턴트에 사실 100개를 입력한 뒤 대화를 삭제했다. 그때 라이브 세션이 꺼낼 수 있는 사실은 14개뿐이었는데, ORISA는 26개를 복구했다. Android 앱 10개와 AI 모델 세 개를 엮은 60개 테스트 구성에서도 ORISA는 삭제된 대화 데이터를 되찾았다."
               },
               {
                 "t": "p",
-                "x": "“Settings” 페이지는 Manage account와 Usage limits로 시작한다. Preferences 아래에는 Notifications, Personal Intelligence, Avatar, Task settings, Theme(신규), Skills, Voice, Media, Device controls, Cart and orders, Gemini Notebook이 있다. 맨 끝에는 Data & privacy와 Get support 두 섹션이 붙는다."
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-settings-redesign-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "새 사이드 패널과 설정은 지난주 Gemini 4 Argon 출시와 함께 iOS, macOS, 웹 앱에 먼저 적용됐다. 이번에는 서버 측 업데이트로 Android에도 널리 풀리는 중이다."
+                "x": "연구진은 누군가 AI 어시스턴트와 무엇을 공유했는지 수사관이 재구성할 때 ORISA가 도움이 될 수 있다고 설명한다. 챗봇 조언이 환자에게 해를 끼쳤을지 모르는 사건이 그런 예다. 온디바이스 AI 사용자에게는 반대로 개인정보 걱정거리가 생긴다. ORISA는 수사관용 포렌식 도구여서 휴대폰 메모리와 저장소 사본이 있어야 하고, 다른 활동이 데이터를 덮어쓰면 복구가 어려워진다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AndroidのGemini\nサイドパネル刷新",
-          "body": "Spark-to-Task後、Android版Geminiがサイドパネルと設定を刷新した。",
-          "mini_headline": "Android版Gemini刷新",
+          "headline": "削除したAIチャットも\nスマホから復元できる",
+          "body": "Georgia TechのORISAはローカルAIアプリで消した会話を復元して再び動かす。",
+          "mini_headline": "削除したAIチャットは復元可能",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-2.jpg?quality=82&strip=all&w=1600"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/recovering-deleted-ai-chats.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Manisha Priyadarshini / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "Spark-to-Taskアップデートに続き、GeminiアプリはAndroidでサイドパネルと設定の新デザインを展開した。"
+                "x": "AIチャットボットとの会話を削除すれば本当に消えると思っていなかっただろうか。Georgia Techの研究者は、スマートフォンから削除済みの会話を掘り起こし、そのまま会話を続けられるチャットボットセッションとして再構築までできるフォレンジックツール「ORISA」を開発した。"
               },
               {
                 "t": "p",
-                "x": "今回の刷新では、まずGoogleが検索を右上隅に移した。リストの先頭は引き続きNew chatで、これまで下部近くにあったLibraryがその次に表示されるようになった。"
-              },
-              {
-                "t": "p",
-                "x": "最近のチャットを確認できるようにしつつナビゲーションドロワーが煩雑にならないよう、Geminiは五つの項目だけを表示し、その後に「More」を置く。タップするとリストが展開される。AI Ultraを契約している場合、全項目はNew chat、Library、Images、Scheduled、Daily brief、Customize、Students、Videos、Gemsとなる。"
+                "x": "ローカルAIアシスタントは会話をクラウドに送らないが、アプリの実行中はそのデータがスマートフォンのワーキングメモリに残る。そのため、アプリでチャットを削除しても必ずしも消えるわけではない。ORISAはこうした残存断片を探し出してつなぎ合わせ、実際に動くAIセッションとして復元する。"
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-1.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-2.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/overview-of-orisa.jpg?resize=2238%2C812&ssl=1",
+                "cap": "ORISAの設計の概要。Georgia Tech"
               },
               {
                 "t": "p",
-                "x": "あわせて、Geminiアプリは設定も刷新している。環境設定がアカウントメニューと「Gemini Settings」に分かれていたのを、Googleはひとつのページに統合した。アカウントメニューは今後、アカウントの切り替え、Feedbackの送信、Helpの参照のためだけのものとなる。"
+                "x": "ある実験では、Project Note Keeperという架空のアシスタントに100の事実を与えた後、会話を削除した。その時点でライブセッションが参照できた事実は14だけだったが、ORISAは26を復元した。10のAndroidアプリと三つのAIモデルにまたがる60のテスト構成で、このツールは削除された会話データを復元した。"
               },
               {
                 "t": "p",
-                "x": "「Settings」ページはManage accountとUsage limitsから始まる。Preferencesの下にはNotifications、Personal Intelligence、Avatar、Task settings、Theme（新規）、Skills、Voice、Media、Device controls、Cart and orders、Gemini Notebookが並ぶ。さらにData & privacyとGet supportという二つのセクションでページが締めくくられる。"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-settings-redesign-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "新しいサイドパネルと設定は、先週のGemini 4 Argonの公開とともにiOS、macOS、ウェブアプリで先行して展開された。現在はサーバー側のアップデートにより、Androidでも広く利用できるようになっている。"
+                "x": "研究者によれば、ORISAは誰かがAIアシスタントに何を共有したかを捜査員が再構成する助けになりうる。チャットボットの助言が患者に害を与えた可能性のある事案も含まれる。一方で、オンデバイスAIの利用者にとってはプライバシー上の懸念も生じる。ORISAは捜査員向けのフォレンジックツールで、スマートフォンのメモリとストレージのコピーが必要であり、他の操作でデータが上書きされると復元は難しくなる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Android版Gemini\n侧边栏全新改版",
-          "body": "继Spark-to-Task更新后，Android版Gemini应用改版了侧边栏和设置。",
-          "mini_headline": "Android版Gemini改版",
+          "headline": "已删除的AI聊天\n可从手机中恢复",
+          "body": "Georgia Tech的ORISA能从本地AI应用中恢复已删除的聊天，并重建为可用会话。",
+          "mini_headline": "已删除AI聊天可恢复",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-2.jpg?quality=82&strip=all&w=1600"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/recovering-deleted-ai-chats.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Manisha Priyadarshini / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "继Spark-to-Task更新之后，Gemini应用现已在Android上推出侧边栏和设置的新设计。"
+                "x": "你以为删除与AI聊天机器人的对话就能让它真正消失吗？Georgia Tech的研究人员开发了一款名为ORISA的取证工具，能从手机中挖出已删除的对话，甚至将其重建为可以继续交谈的聊天机器人会话。"
               },
               {
                 "t": "p",
-                "x": "此次改版首先是Google把搜索移到了右上角。列表中的首项仍是New chat，Library则不再位于底部附近，而是紧随其后。"
-              },
-              {
-                "t": "p",
-                "x": "为了在保留最近聊天记录的同时避免导航抽屉过于杂乱，Gemini只显示五个项目，之后是“More”，点按即可展开列表。订阅AI Ultra后，完整列表依次为：New chat、Library、Images、Scheduled、Daily brief、Customize、Students、Videos和Gems。"
+                "x": "本地AI助手不会把对话发送到云端，但在应用运行期间，这些数据仍保存在手机的工作内存中，因此在应用里删除聊天并不一定能将其抹去。ORISA会寻找这些残留碎片，并将它们重新拼接成一个可实际运行的AI会话。"
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-1.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-2.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/overview-of-orisa.jpg?resize=2238%2C812&ssl=1",
+                "cap": "ORISA设计概览。Georgia Tech"
               },
               {
                 "t": "p",
-                "x": "与此同时，Gemini应用也在改版设置。过去偏好设置分散在账户菜单和“Gemini Settings”中，如今Google将所有内容整合到了一个页面。账户菜单现在只用于切换账户、提交Feedback或获取Help。"
+                "x": "在一项测试中，研究人员向一个名为Project Note Keeper的虚构助手输入了100条事实，随后删除了对话。此时实时会话只能访问其中14条，而ORISA恢复了26条。在涵盖10款Android应用和三种AI模型的60种测试配置中，该工具都恢复了已删除的对话数据。"
               },
               {
                 "t": "p",
-                "x": "“Settings”页面以Manage account和Usage limits开头。Preferences下包括Notifications、Personal Intelligence、Avatar、Task settings、Theme（新增）、Skills、Voice、Media、Device controls、Cart and orders和Gemini Notebook。另外两个部分Data & privacy和Get support位于页面末尾。"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-settings-redesign-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "更新后的侧边栏和设置已于上周随Gemini 4 Argon的发布登陆iOS、macOS和网页版应用。如今，随着服务器端更新，Android上也已广泛可用。"
+                "x": "研究人员表示，ORISA可以帮助调查人员拼凑出某人与AI助手分享过的内容，包括聊天机器人的建议可能伤害了患者的案件。它也给端侧AI用户带来了隐私方面的担忧。ORISA是面向调查人员的取证工具，需要手机内存和存储的副本，而且当其他活动覆盖数据后，恢复会变得更加困难。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gemini en Android estrena\nun nuevo panel lateral",
-          "body": "Tras la actualización Spark-to-Task, la app Gemini para Android ha rediseñado su panel lateral y sus ajustes.",
-          "mini_headline": "Rediseño de Gemini en Android",
+          "headline": "Los chats de AI borrados\nse recuperan desde el teléfono",
+          "body": "ORISA de Georgia Tech recupera chats borrados de apps de AI locales y los convierte en una sesión activa.",
+          "mini_headline": "Chats de AI borrados, recuperables",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-2.jpg?quality=82&strip=all&w=1600"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/recovering-deleted-ai-chats.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Manisha Priyadarshini / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "Tras la actualización Spark-to-Task, la app Gemini ha desplegado ahora en Android el rediseño del panel lateral y de los ajustes."
+                "x": "¿Creía que borrar una conversación con un chatbot de AI la hace desaparecer? Investigadores de Georgia Tech han creado una herramienta forense llamada ORISA capaz de extraer conversaciones borradas del teléfono e incluso reconstruirlas en una sesión de chatbot funcional con la que se puede seguir conversando."
               },
               {
                 "t": "p",
-                "x": "La renovación empieza con Google trasladando la búsqueda a la esquina superior derecha. El primer elemento de la lista sigue siendo New chat, y Library aparece justo después en lugar de estar cerca del final."
-              },
-              {
-                "t": "p",
-                "x": "Para no saturar el panel de navegación y seguir permitiendo ver los chats recientes, Gemini muestra solo cinco elementos antes de recurrir a “More”, que despliega la lista al tocarlo. Con una suscripción AI Ultra, la lista completa es: New chat, Library, Images, Scheduled, Daily brief, Customize, Students, Videos y Gems."
+                "x": "Los asistentes de AI locales no envían las conversaciones a la nube, pero esos datos siguen en la memoria de trabajo del teléfono mientras la app está en ejecución, así que borrar un chat en la app no lo elimina necesariamente. ORISA busca esos fragmentos residuales y los vuelve a unir en una sesión de AI activa y funcional."
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-1.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-2.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/overview-of-orisa.jpg?resize=2238%2C812&ssl=1",
+                "cap": "Esquema del diseño de ORISA. Georgia Tech"
               },
               {
                 "t": "p",
-                "x": "Mientras tanto, la app Gemini también renueva los ajustes. En lugar de repartir las preferencias entre el menú de la cuenta y “Gemini Settings”, Google lo ha reunido todo en una sola página. El menú de la cuenta queda ahora solo para cambiar de cuenta, dejar Feedback u obtener Help."
+                "x": "En una prueba, los investigadores dieron 100 datos a un asistente ficticio llamado Project Note Keeper y luego borraron la conversación. Para entonces, la sesión activa solo podía acceder a 14 de esos datos; ORISA recuperó 26. En 60 configuraciones de prueba que abarcaban 10 apps de Android y tres modelos de AI, la herramienta recuperó datos de conversaciones borradas."
               },
               {
                 "t": "p",
-                "x": "La página “Settings” empieza con Manage account y Usage limits. En Preferences se encuentran Notifications, Personal Intelligence, Avatar, Task settings, Theme (nuevo), Skills, Voice, Media, Device controls, Cart and orders y Gemini Notebook. Otras dos secciones, Data & privacy y Get support, completan la página."
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-settings-redesign-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "El panel lateral y los ajustes actualizados llegaron la semana pasada a iOS, macOS y la app web con el lanzamiento de Gemini 4 Argon. Ahora están ampliamente disponibles en Android tras una actualización del lado del servidor."
+                "x": "Los autores señalan que ORISA podría ayudar a los investigadores a reconstruir lo que alguien compartió con un asistente de AI, incluidos casos en los que los consejos de un chatbot pudieron perjudicar a pacientes. También plantea dudas de privacidad para quienes usan AI en el dispositivo. ORISA es una herramienta forense para investigadores, requiere una copia de la memoria y el almacenamiento del teléfono, y la recuperación se complica cuando otra actividad sobrescribe los datos."
               }
             ]
           }
@@ -675,201 +791,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Android Gemini\n사이드 패널 개편",
-          "body": "Android Gemini 앱이 사이드 패널과 설정을 새로 단장했다.",
-          "mini_headline": "Gemini Android 개편",
+          "headline": "삭제한 AI 대화도\n휴대폰에서 복구된다",
+          "body": "Georgia Tech의 ORISA는 로컬 AI 앱에서 지운 대화를 되살린다.",
+          "mini_headline": "삭제한 AI 대화, 복구 가능",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-2.jpg?quality=82&strip=all&w=1600"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/recovering-deleted-ai-chats.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Manisha Priyadarshini / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "Spark-to-Task 업데이트에 이어, Gemini 앱이 이번에는 Android에서 사이드 패널과 설정의 새 디자인을 배포했다."
+                "x": "AI 챗봇과 나눈 대화를 지우면 정말 사라진다고 믿었다면 다시 생각할 일이다. Georgia Tech 연구진이 휴대폰에서 삭제된 대화를 찾아내고, 계속 대화를 이어갈 수 있는 챗봇 세션으로 재구성까지 하는 포렌식 도구 ORISA를 만들었다."
               },
               {
                 "t": "p",
-                "x": "이번 개편은 Google이 검색을 오른쪽 위 모서리로 옮기는 데서 시작한다. 목록의 첫 항목은 여전히 New chat이며, 아래쪽에 있던 Library가 바로 다음 자리로 올라왔다."
-              },
-              {
-                "t": "p",
-                "x": "최근 채팅을 볼 수 있게 하면서도 내비게이션 서랍이 어수선해지지 않도록, Gemini는 다섯 개 항목만 보여 주고 그다음에 “More”를 둔다. 이를 누르면 목록이 펼쳐진다. AI Ultra 구독 기준 전체 목록은 New chat, Library, Images, Scheduled, Daily brief, Customize, Students, Videos, Gems다."
+                "x": "로컬 AI 어시스턴트는 대화를 클라우드로 보내지 않지만, 앱이 실행되는 동안 그 데이터는 휴대폰의 작업 메모리에 남는다. 그래서 앱에서 대화를 지워도 반드시 사라지지는 않는다. ORISA는 남은 조각을 찾아 다시 이어 붙여 실제로 작동하는 AI 세션으로 되살린다."
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-1.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-2.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/overview-of-orisa.jpg?resize=2238%2C812&ssl=1",
+                "cap": "ORISA 설계 개요. Georgia Tech"
               },
               {
                 "t": "p",
-                "x": "한편 Gemini 앱은 설정도 개편하고 있다. 환경설정이 계정 메뉴와 “Gemini Settings”로 나뉘어 있던 것을 Google이 한 페이지로 통합했다. 이제 계정 메뉴는 계정 전환, Feedback 남기기, Help 보기 용도로만 쓰인다."
+                "x": "한 실험에서 연구진은 Project Note Keeper라는 가상의 어시스턴트에 사실 100개를 입력한 뒤 대화를 삭제했다. 그 시점에 라이브 세션이 접근할 수 있는 사실은 14개뿐이었지만, ORISA는 26개를 복구했다. Android 앱 10개와 AI 모델 세 개에 걸친 60개 테스트 구성에서 이 도구는 삭제된 대화 데이터를 복구했다."
               },
               {
                 "t": "p",
-                "x": "“Settings” 페이지는 Manage account와 Usage limits로 시작한다. Preferences 아래에는 Notifications, Personal Intelligence, Avatar, Task settings, Theme(신규), Skills, Voice, Media, Device controls, Cart and orders, Gemini Notebook이 있다. 이어 Data & privacy와 Get support 두 섹션이 페이지를 마무리한다."
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-settings-redesign-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "새 사이드 패널과 설정은 지난주 Gemini 4 Argon 출시와 함께 iOS, macOS, 웹 앱에 먼저 적용됐다. 이제 서버 측 업데이트를 통해 Android에서도 폭넓게 제공되고 있다."
+                "x": "연구진은 ORISA가 누군가 AI 어시스턴트와 무엇을 공유했는지 수사관이 재구성하는 데 도움이 될 수 있다고 말한다. 챗봇의 조언이 환자에게 해를 끼쳤을 수 있는 사건도 여기에 포함된다. 동시에 온디바이스 AI 사용자에게는 개인정보 우려를 낳는다. ORISA는 수사관을 위한 포렌식 도구로, 휴대폰 메모리와 저장소의 사본이 필요하고, 다른 활동이 데이터를 덮어쓰면 복구가 어려워진다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AndroidのGemini\nサイドパネル刷新",
-          "body": "Spark-to-Task後、Android版Geminiがサイドパネルと設定を刷新した。",
-          "mini_headline": "Android版Gemini刷新",
+          "headline": "削除したAIチャットも\nスマホから復元できる",
+          "body": "Georgia TechのORISAはローカルAIアプリで消した会話を復元して再び動かす。",
+          "mini_headline": "削除したAIチャットは復元可能",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-2.jpg?quality=82&strip=all&w=1600"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/recovering-deleted-ai-chats.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Manisha Priyadarshini / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "Spark-to-Taskアップデートに続き、GeminiアプリはAndroidでサイドパネルと設定の新デザインを展開した。"
+                "x": "AIチャットボットとの会話を削除すれば本当に消えると思っていなかっただろうか。Georgia Techの研究者は、スマートフォンから削除済みの会話を掘り起こし、そのまま会話を続けられるチャットボットセッションとして再構築までできるフォレンジックツール「ORISA」を開発した。"
               },
               {
                 "t": "p",
-                "x": "今回の刷新では、まずGoogleが検索を右上隅に移した。リストの先頭は引き続きNew chatで、これまで下部近くにあったLibraryがその次に表示されるようになった。"
-              },
-              {
-                "t": "p",
-                "x": "最近のチャットを確認できるようにしつつナビゲーションドロワーが煩雑にならないよう、Geminiは五つの項目だけを表示し、その後に「More」を置く。タップするとリストが展開される。AI Ultraを契約している場合、全項目はNew chat、Library、Images、Scheduled、Daily brief、Customize、Students、Videos、Gemsとなる。"
+                "x": "ローカルAIアシスタントは会話をクラウドに送らないが、アプリの実行中はそのデータがスマートフォンのワーキングメモリに残る。そのため、アプリでチャットを削除しても必ずしも消えるわけではない。ORISAはこうした残存断片を探し出してつなぎ合わせ、実際に動くAIセッションとして復元する。"
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-1.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-2.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/overview-of-orisa.jpg?resize=2238%2C812&ssl=1",
+                "cap": "ORISAの設計の概要。Georgia Tech"
               },
               {
                 "t": "p",
-                "x": "あわせて、Geminiアプリは設定も刷新している。環境設定がアカウントメニューと「Gemini Settings」に分かれていたのを、Googleはひとつのページに統合した。アカウントメニューは今後、アカウントの切り替え、Feedbackの送信、Helpの参照のためだけのものとなる。"
+                "x": "ある実験では、Project Note Keeperという架空のアシスタントに100の事実を与えた後、会話を削除した。その時点でライブセッションが参照できた事実は14だけだったが、ORISAは26を復元した。10のAndroidアプリと三つのAIモデルにまたがる60のテスト構成で、このツールは削除された会話データを復元した。"
               },
               {
                 "t": "p",
-                "x": "「Settings」ページはManage accountとUsage limitsから始まる。Preferencesの下にはNotifications、Personal Intelligence、Avatar、Task settings、Theme（新規）、Skills、Voice、Media、Device controls、Cart and orders、Gemini Notebookが並ぶ。さらにData & privacyとGet supportという二つのセクションでページが締めくくられる。"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-settings-redesign-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "新しいサイドパネルと設定は、先週のGemini 4 Argonの公開とともにiOS、macOS、ウェブアプリで先行して展開された。現在はサーバー側のアップデートにより、Androidでも広く利用できるようになっている。"
+                "x": "研究者によれば、ORISAは誰かがAIアシスタントに何を共有したかを捜査員が再構成する助けになりうる。チャットボットの助言が患者に害を与えた可能性のある事案も含まれる。一方で、オンデバイスAIの利用者にとってはプライバシー上の懸念も生じる。ORISAは捜査員向けのフォレンジックツールで、スマートフォンのメモリとストレージのコピーが必要であり、他の操作でデータが上書きされると復元は難しくなる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Android版Gemini\n侧边栏全新改版",
-          "body": "继Spark-to-Task更新后，Android版Gemini应用改版了侧边栏和设置。",
-          "mini_headline": "Android版Gemini改版",
+          "headline": "已删除的AI聊天\n可从手机中恢复",
+          "body": "Georgia Tech的ORISA能从本地AI应用中恢复已删除的聊天，并重建为可用会话。",
+          "mini_headline": "已删除AI聊天可恢复",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-2.jpg?quality=82&strip=all&w=1600"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/recovering-deleted-ai-chats.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Manisha Priyadarshini / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "继Spark-to-Task更新之后，Gemini应用现已在Android上推出侧边栏和设置的新设计。"
+                "x": "你以为删除与AI聊天机器人的对话就能让它真正消失吗？Georgia Tech的研究人员开发了一款名为ORISA的取证工具，能从手机中挖出已删除的对话，甚至将其重建为可以继续交谈的聊天机器人会话。"
               },
               {
                 "t": "p",
-                "x": "此次改版首先是Google把搜索移到了右上角。列表中的首项仍是New chat，Library则不再位于底部附近，而是紧随其后。"
-              },
-              {
-                "t": "p",
-                "x": "为了在保留最近聊天记录的同时避免导航抽屉过于杂乱，Gemini只显示五个项目，之后是“More”，点按即可展开列表。订阅AI Ultra后，完整列表依次为：New chat、Library、Images、Scheduled、Daily brief、Customize、Students、Videos和Gems。"
+                "x": "本地AI助手不会把对话发送到云端，但在应用运行期间，这些数据仍保存在手机的工作内存中，因此在应用里删除聊天并不一定能将其抹去。ORISA会寻找这些残留碎片，并将它们重新拼接成一个可实际运行的AI会话。"
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-1.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-2.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/overview-of-orisa.jpg?resize=2238%2C812&ssl=1",
+                "cap": "ORISA设计概览。Georgia Tech"
               },
               {
                 "t": "p",
-                "x": "与此同时，Gemini应用也在改版设置。过去偏好设置分散在账户菜单和“Gemini Settings”中，如今Google将所有内容整合到了一个页面。账户菜单现在只用于切换账户、提交Feedback或获取Help。"
+                "x": "在一项测试中，研究人员向一个名为Project Note Keeper的虚构助手输入了100条事实，随后删除了对话。此时实时会话只能访问其中14条，而ORISA恢复了26条。在涵盖10款Android应用和三种AI模型的60种测试配置中，该工具都恢复了已删除的对话数据。"
               },
               {
                 "t": "p",
-                "x": "“Settings”页面以Manage account和Usage limits开头。Preferences下包括Notifications、Personal Intelligence、Avatar、Task settings、Theme（新增）、Skills、Voice、Media、Device controls、Cart and orders和Gemini Notebook。另外两个部分Data & privacy和Get support位于页面末尾。"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-settings-redesign-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "更新后的侧边栏和设置已于上周随Gemini 4 Argon的发布登陆iOS、macOS和网页版应用。如今，随着服务器端更新，Android上也已广泛可用。"
+                "x": "研究人员表示，ORISA可以帮助调查人员拼凑出某人与AI助手分享过的内容，包括聊天机器人的建议可能伤害了患者的案件。它也给端侧AI用户带来了隐私方面的担忧。ORISA是面向调查人员的取证工具，需要手机内存和存储的副本，而且当其他活动覆盖数据后，恢复会变得更加困难。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gemini en Android estrena\nun nuevo panel lateral",
-          "body": "Tras la actualización Spark-to-Task, la app Gemini para Android ha rediseñado su panel lateral y sus ajustes.",
-          "mini_headline": "Rediseño de Gemini en Android",
+          "headline": "Los chats de AI borrados\nse recuperan desde el teléfono",
+          "body": "ORISA de Georgia Tech recupera chats borrados de apps de AI locales y los convierte en una sesión activa.",
+          "mini_headline": "Chats de AI borrados, recuperables",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/gemini-app-2.jpg?quality=82&strip=all&w=1600"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/recovering-deleted-ai-chats.jpg?resize=1200%2C720&ssl=1",
+                "cap": "Manisha Priyadarshini / Digital Trends"
               },
               {
                 "t": "p",
-                "x": "Tras la actualización Spark-to-Task, la app Gemini ha desplegado ahora en Android el rediseño del panel lateral y de los ajustes."
+                "x": "¿Creía que borrar una conversación con un chatbot de AI la hace desaparecer? Investigadores de Georgia Tech han creado una herramienta forense llamada ORISA capaz de extraer conversaciones borradas del teléfono e incluso reconstruirlas en una sesión de chatbot funcional con la que se puede seguir conversando."
               },
               {
                 "t": "p",
-                "x": "La renovación empieza con Google trasladando la búsqueda a la esquina superior derecha. El primer elemento de la lista sigue siendo New chat, y Library aparece justo después en lugar de estar cerca del final."
-              },
-              {
-                "t": "p",
-                "x": "Para no saturar el panel de navegación y seguir permitiendo ver los chats recientes, Gemini muestra solo cinco elementos antes de recurrir a “More”, que despliega la lista al tocarlo. Con una suscripción AI Ultra, la lista completa es: New chat, Library, Images, Scheduled, Daily brief, Customize, Students, Videos y Gems."
+                "x": "Los asistentes de AI locales no envían las conversaciones a la nube, pero esos datos siguen en la memoria de trabajo del teléfono mientras la app está en ejecución, así que borrar un chat en la app no lo elimina necesariamente. ORISA busca esos fragmentos residuales y los vuelve a unir en una sesión de AI activa y funcional."
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-1.jpg"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-side-panel-redesign-2.jpg"
+                "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/overview-of-orisa.jpg?resize=2238%2C812&ssl=1",
+                "cap": "Esquema del diseño de ORISA. Georgia Tech"
               },
               {
                 "t": "p",
-                "x": "Mientras tanto, la app Gemini también renueva los ajustes. En lugar de repartir las preferencias entre el menú de la cuenta y “Gemini Settings”, Google lo ha reunido todo en una sola página. El menú de la cuenta queda ahora solo para cambiar de cuenta, dejar Feedback u obtener Help."
+                "x": "En una prueba, los investigadores dieron 100 datos a un asistente ficticio llamado Project Note Keeper y luego borraron la conversación. Para entonces, la sesión activa solo podía acceder a 14 de esos datos; ORISA recuperó 26. En 60 configuraciones de prueba que abarcaban 10 apps de Android y tres modelos de AI, la herramienta recuperó datos de conversaciones borradas."
               },
               {
                 "t": "p",
-                "x": "La página “Settings” empieza con Manage account y Usage limits. En Preferences se encuentran Notifications, Personal Intelligence, Avatar, Task settings, Theme (nuevo), Skills, Voice, Media, Device controls, Cart and orders y Gemini Notebook. Otras dos secciones, Data & privacy y Get support, completan la página."
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Gemini-app-settings-redesign-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "El panel lateral y los ajustes actualizados llegaron la semana pasada a iOS, macOS y la app web con el lanzamiento de Gemini 4 Argon. Ahora están ampliamente disponibles en Android tras una actualización del lado del servidor."
+                "x": "Los autores señalan que ORISA podría ayudar a los investigadores a reconstruir lo que alguien compartió con un asistente de AI, incluidos casos en los que los consejos de un chatbot pudieron perjudicar a pacientes. También plantea dudas de privacidad para quienes usan AI en el dispositivo. ORISA es una herramienta forense para investigadores, requiere una copia de la memoria y el almacenamiento del teléfono, y la recuperación se complica cuando otra actividad sobrescribe los datos."
               }
             ]
           }
@@ -877,15 +937,15 @@
       }
     },
     {
-      "id": "gadgets-dgx-spark-8x-cluster",
+      "id": "gadgets-rayban-meta-training",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "DGX Spark 클러스터\n최대 1 TB 메모리",
-      "body": "Nvidia가 DGX Spark 여덟 대를 묶어 1 TB 통합 메모리를 지원한다.",
-      "mini_headline": "DGX Sparks 여덟 대, 1 TB",
+      "headline": "Ray-Ban Meta의\n사진, AI 학습에서 빼기",
+      "body": "Ray-Ban Meta 사진은 AI 학습에서 뺄 수 있고 US 밖에선 음성도 된다.",
+      "mini_headline": "Ray-Ban Meta 학습 제외 설정",
       "tool": "Gadgets",
       "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Nvidia-s-DGX-Spark-can-now-join-forces-with-seven-others-to-deliver-1-TB-of-memory.1430472.0.html",
+      "url": "https://www.notebookcheck.net/Ray-Ban-Meta-How-to-stop-your-glasses-from-training-AI.1430044.0.html",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
@@ -893,179 +953,239 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Nvidia-GTC-Berlin-announcement.png",
-            "cap": "Nvidia가 DGX Spark 소유자에게 반가운 소식을 전했다"
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ray-ban-meta-ki-training-teaser.jpg",
+            "cap": "프레임에 카메라가 달린 Ray-Ban Meta 안경. 이 설정을 끄지 않으면 Meta는 AI 요청에서 나온 이미지를 저장한다."
           },
           {
             "t": "p",
-            "x": "64 GB DGX Spark 모델이 10월 23일 출시되기 며칠 전, Nvidia가 GTC Berlin에서 DGX Spark AI 미니 PC 업그레이드 소식을 잇달아 내놓았다. Nvidia 설명대로라면 128 GB 통합 메모리를 갖춘 DGX Spark 여덟 대를 묶을 때 메모리는 총 1 TB가 되고, 64 GB 모델로 꾸린 클러스터는 최대 512 GB까지 쓴다."
+            "x": "Ray-Ban Meta 안경에 표지판에 뭐라고 쓰여 있는지 물으면 사진이 Meta로 넘어간다. Meta의 시각 데이터 도움말 페이지를 보면, 회사는 AI 요청에서 나온 이 이미지를 저장했다가 자동화 시스템이나 사람의 검토를 거쳐 모델 학습에 쓸 수 있다. 9월 24일부터는 이 기능을 끌 수 있다. 음성 설정은 따로 있는데, 사는 곳에 따라 손댈 수 있는 범위가 다르다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.notebookcheck.net/fileadmin/_processed_/2/6/csm_ray-ban-meta-ai-training-settings-en_890c1a5d02.png",
+            "cap": "시각 데이터 설정은 AI 요청에서 나온 이미지에만 적용된다. US 밖에서는 음성 녹음에 별도 설정이 있다."
           },
           {
             "t": "p",
-            "x": "용량이 늘면 더 큰 AI 모델과 더 긴 컨텍스트 윈도, 여러 AI 에이전트의 동시 실행을 감당한다는 게 Nvidia 설명이다. 수혜를 볼 프런티어급 모델로는 GLM 5.3을 꼽았다. 시스템은 내장 ConnectX-7 네트워킹으로 연결되지만 여덟 대 클러스터는 지금은 수동으로 구성해야 한다. Nvidia Sync는 이달 말 새 Model Launcher와 함께 여덟 대 지원을 추가한다."
+            "x": "Meta AI 앱에서 안경 설정을 열고 Experiences 아래 Meta AI를 누른 뒤 “Store visual data from AI experiences”(AI 경험의 시각 데이터 저장)를 끈다. 끄면 시각 데이터는 사람이 검토하지 않고 학습에도 쓰이지 않으며, 요청에 답한 뒤에는 저장되지 않는다. 대신 시각 리마인더 같은 기능이 제한될 수 있다. 변경은 그 뒤부터만 적용된다."
           },
           {
             "t": "p",
-            "x": "DGX Spark는 Qwen3.8 27B 에서 최대 30% 빨라진다. RTX PRO 6000 Blackwell은 llama.cpp, vLLM 커뮤니티와 함께한 추측 디코딩(speculative-decoding) 작업 덕분에 에이전트 작업을 최대 40% 더 빨리 끝낸다고 한다. 다만 특정 모델과 워크로드에 한정된 수치이고, 여덟 대 확장 벤치마크는 Nvidia가 내놓지 않았다."
+            "x": "음성은 지역마다 처리 방식이 다르다. US에서는 대화 기록과 녹음이 기본으로 저장되고, 소유자는 2025년 4월에 이를 끌 선택지를 잃었다. UK와 독일 고지에는 사용자가 고를 수 있다고 적혀 있다. 저장된 녹음은 최대 일 년 보관되고, 훈련받은 직원이 검토할 수 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_ray-ban-meta-ai-training-steps-en_1128925689.png",
+            "cap": "Meta AI 앱에서 거치는 다섯 단계로, 안경마다 반복해야 한다. 예전 음성 녹음은 직접 삭제해야 한다."
           },
           {
             "t": "p",
-            "x": "64 GB DGX Spark는 GB10 Grace Blackwell Superchip을 그대로 탑재하며 가격은 $4,999부터다."
+            "x": "주변 사람을 보호하는 설정은 없다. Messenger나 Instagram에서 Meta AI와 공유한 이미지에도 시각 데이터 설정은 적용되지 않는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "DGX Spark now clusters\nto 1 TB of memory",
-          "body": "Nvidia now lets up to eight DGX Spark systems cluster for a combined 1 TB of unified memory.",
-          "mini_headline": "Eight DGX Sparks, 1 TB",
+          "headline": "Keep Ray-Ban Meta photos\nout of AI training",
+          "body": "A new Meta AI app setting keeps Ray-Ban Meta images out of AI training, and another covers voice outside the US.",
+          "mini_headline": "Ray-Ban Meta training opt-out",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Nvidia-GTC-Berlin-announcement.png",
-                "cap": "Nvidia has some good news for DGX Spark owners"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ray-ban-meta-ki-training-teaser.jpg",
+                "cap": "Ray-Ban Meta glasses with a camera in the frame. Meta stores images from AI requests unless you turn this off."
               },
               {
                 "t": "p",
-                "x": "Nvidia has announced a series of upgrades for its DGX Spark AI mini PC at GTC Berlin, days before the 64 GB DGX Spark models become available on October 23. According to Nvidia, eight DGX Spark systems with 128 GB of unified memory each can provide 1 TB of memory in total, while clusters of the 64 GB variants can offer up to 512 GB."
+                "x": "Asking your Ray-Ban Meta glasses what a sign says sends Meta a photo. According to Meta’s help page on visual data, the company stores these captures from AI requests and may use them to train its models, through automated systems or human review. Since September 24, you can switch that off. A second setting covers your voice, and how much control you get depends on where you live."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/2/6/csm_ray-ban-meta-ai-training-settings-en_890c1a5d02.png",
+                "cap": "The visual data setting only covers images from AI requests. Voice recordings have a separate setting outside the US."
               },
               {
                 "t": "p",
-                "x": "Nvidia says the extra capacity should accommodate larger AI models, longer context windows and multiple AI agents running simultaneously, naming GLM 5.3 as one frontier-class model that benefits. The systems link over built-in ConnectX-7 networking, but eight-system clusters currently require manual configuration; Nvidia Sync gets eight-system support later this month alongside a new Model Launcher."
+                "x": "In the Meta AI app, open your glasses settings, tap Meta AI under Experiences and turn off “Store visual data from AI experiences.” Once off, visual data isn’t available for human review, isn’t used for training and isn’t stored after your request is answered. Features such as visual reminders may be limited, and the change only applies going forward."
               },
               {
                 "t": "p",
-                "x": "DGX Spark also gets up to a 30% speed improvement with Qwen3.8 27B, and the RTX PRO 6000 Blackwell reportedly completes agentic tasks up to 40% faster thanks to speculative-decoding work with the llama.cpp and vLLM communities. These figures apply to specific models and workloads, and Nvidia has not provided eight-system scaling benchmarks."
+                "x": "Voice is handled by region. In the US, transcripts and recordings are stored by default, and owners lost the option to turn that off in April 2025; UK and German notices let you choose. Stored recordings are kept for up to a year and can be reviewed by trained staff."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_ray-ban-meta-ai-training-steps-en_1128925689.png",
+                "cap": "Five steps in the Meta AI app, repeated for each pair. Old voice recordings have to be deleted manually."
               },
               {
                 "t": "p",
-                "x": "The 64 GB DGX Spark keeps the GB10 Grace Blackwell Superchip and starts at $4,999."
+                "x": "No setting covers bystanders, and images shared with Meta AI on Messenger or Instagram are excluded from the visual data setting."
               }
             ]
           }
         },
         "ko": {
-          "headline": "DGX Spark 클러스터\n최대 1 TB 메모리",
-          "body": "Nvidia가 DGX Spark 여덟 대를 묶어 1 TB 통합 메모리를 지원한다.",
-          "mini_headline": "DGX Sparks 여덟 대, 1 TB",
+          "headline": "Ray-Ban Meta의\n사진, AI 학습에서 빼기",
+          "body": "Ray-Ban Meta 사진은 AI 학습에서 뺄 수 있고 US 밖에선 음성도 된다.",
+          "mini_headline": "Ray-Ban Meta 학습 제외 설정",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Nvidia-GTC-Berlin-announcement.png",
-                "cap": "Nvidia가 DGX Spark 소유자에게 반가운 소식을 전했다"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ray-ban-meta-ki-training-teaser.jpg",
+                "cap": "프레임에 카메라가 달린 Ray-Ban Meta 안경. 이 설정을 끄지 않으면 Meta는 AI 요청에서 나온 이미지를 저장한다."
               },
               {
                 "t": "p",
-                "x": "64 GB DGX Spark 모델이 10월 23일 출시되기 며칠 전, Nvidia가 GTC Berlin에서 DGX Spark AI 미니 PC 업그레이드 소식을 잇달아 내놓았다. Nvidia 설명대로라면 128 GB 통합 메모리를 갖춘 DGX Spark 여덟 대를 묶을 때 메모리는 총 1 TB가 되고, 64 GB 모델로 꾸린 클러스터는 최대 512 GB까지 쓴다."
+                "x": "Ray-Ban Meta 안경에 표지판에 뭐라고 쓰여 있는지 물으면 사진이 Meta로 넘어간다. Meta의 시각 데이터 도움말 페이지를 보면, 회사는 AI 요청에서 나온 이 이미지를 저장했다가 자동화 시스템이나 사람의 검토를 거쳐 모델 학습에 쓸 수 있다. 9월 24일부터는 이 기능을 끌 수 있다. 음성 설정은 따로 있는데, 사는 곳에 따라 손댈 수 있는 범위가 다르다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/2/6/csm_ray-ban-meta-ai-training-settings-en_890c1a5d02.png",
+                "cap": "시각 데이터 설정은 AI 요청에서 나온 이미지에만 적용된다. US 밖에서는 음성 녹음에 별도 설정이 있다."
               },
               {
                 "t": "p",
-                "x": "용량이 늘면 더 큰 AI 모델과 더 긴 컨텍스트 윈도, 여러 AI 에이전트의 동시 실행을 감당한다는 게 Nvidia 설명이다. 수혜를 볼 프런티어급 모델로는 GLM 5.3을 꼽았다. 시스템은 내장 ConnectX-7 네트워킹으로 연결되지만 여덟 대 클러스터는 지금은 수동으로 구성해야 한다. Nvidia Sync는 이달 말 새 Model Launcher와 함께 여덟 대 지원을 추가한다."
+                "x": "Meta AI 앱에서 안경 설정을 열고 Experiences 아래 Meta AI를 누른 뒤 “Store visual data from AI experiences”(AI 경험의 시각 데이터 저장)를 끈다. 끄면 시각 데이터는 사람이 검토하지 않고 학습에도 쓰이지 않으며, 요청에 답한 뒤에는 저장되지 않는다. 대신 시각 리마인더 같은 기능이 제한될 수 있다. 변경은 그 뒤부터만 적용된다."
               },
               {
                 "t": "p",
-                "x": "DGX Spark는 Qwen3.8 27B 에서 최대 30% 빨라진다. RTX PRO 6000 Blackwell은 llama.cpp, vLLM 커뮤니티와 함께한 추측 디코딩(speculative-decoding) 작업 덕분에 에이전트 작업을 최대 40% 더 빨리 끝낸다고 한다. 다만 특정 모델과 워크로드에 한정된 수치이고, 여덟 대 확장 벤치마크는 Nvidia가 내놓지 않았다."
+                "x": "음성은 지역마다 처리 방식이 다르다. US에서는 대화 기록과 녹음이 기본으로 저장되고, 소유자는 2025년 4월에 이를 끌 선택지를 잃었다. UK와 독일 고지에는 사용자가 고를 수 있다고 적혀 있다. 저장된 녹음은 최대 일 년 보관되고, 훈련받은 직원이 검토할 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_ray-ban-meta-ai-training-steps-en_1128925689.png",
+                "cap": "Meta AI 앱에서 거치는 다섯 단계로, 안경마다 반복해야 한다. 예전 음성 녹음은 직접 삭제해야 한다."
               },
               {
                 "t": "p",
-                "x": "64 GB DGX Spark는 GB10 Grace Blackwell Superchip을 그대로 탑재하며 가격은 $4,999부터다."
+                "x": "주변 사람을 보호하는 설정은 없다. Messenger나 Instagram에서 Meta AI와 공유한 이미지에도 시각 데이터 설정은 적용되지 않는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "DGX Sparkを束ね\nメモリ最大1 TB",
-          "body": "NvidiaはDGX Sparkを最大八台つなぎ、計1 TB の統合メモリを実現した。",
-          "mini_headline": "DGX Sparks八台で1 TB",
+          "headline": "Ray-Ban Metaの\n写真をAI学習から外す",
+          "body": "新設定でRay-Ban Metaの画像はAI学習から外せ、US以外では音声も設定できる。",
+          "mini_headline": "Ray-Ban Metaの学習オプトアウト",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Nvidia-GTC-Berlin-announcement.png",
-                "cap": "NvidiaがDGX Sparkオーナーに朗報を届けた"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ray-ban-meta-ki-training-teaser.jpg",
+                "cap": "フレームにカメラを備えたRay-Ban Metaのメガネ。この設定をオフにしない限り、MetaはAIリクエストの画像を保存する。"
               },
               {
                 "t": "p",
-                "x": "Nvidiaは、64 GB 版DGX Sparkが10月23日に発売される数日前、GTC BerlinでAIミニPC「DGX Spark」の複数のアップグレードを発表した。Nvidiaによると、128 GB の統合メモリを備えたDGX Sparkを八台組み合わせれば合計1 TB のメモリが得られ、64 GB 版のクラスタでは最大512 GB となる。"
+                "x": "Ray-Ban Metaのメガネに看板の文字を尋ねると、Metaに写真が送られる。視覚データに関するMetaのヘルプページによれば、同社はAIリクエストで撮影されたこれらの画像を保存し、自動システムまたは人によるレビューを通じてモデルの学習に使う場合がある。9月24日からはこれをオフにできる。音声には別の設定があり、どこまで管理できるかは住んでいる地域によって異なる。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/2/6/csm_ray-ban-meta-ai-training-settings-en_890c1a5d02.png",
+                "cap": "視覚データの設定はAIリクエストの画像にのみ適用される。US以外では音声録音に別の設定がある。"
               },
               {
                 "t": "p",
-                "x": "Nvidiaは、増えた容量によってより大きなAIモデル、より長いコンテキストウィンドウ、複数のAIエージェントの同時実行に対応できるとし、恩恵を受けるフロンティア級モデルとしてGLM 5.3を挙げた。各システムは内蔵のConnectX-7ネットワークで接続されるが、八台構成のクラスタは現時点では手動設定が必要だ。Nvidia Syncは今月後半、新しいModel Launcherとともに八台構成に対応する。"
+                "x": "Meta AIアプリでメガネの設定を開き、Experiencesの下にあるMeta AIをタップして「Store visual data from AI experiences」（AI体験の視覚データを保存）をオフにする。オフにすると、視覚データは人によるレビューの対象にならず、学習にも使われず、リクエストへの応答後は保存されない。視覚リマインダーなどの機能は制限される場合があり、変更はこれ以降にのみ適用される。"
               },
               {
                 "t": "p",
-                "x": "DGX SparkはQwen3.8 27B で最大30%の高速化を果たし、RTX PRO 6000 Blackwellはllama.cppおよびvLLMコミュニティとのspeculative-decoding（投機的デコーディング）の取り組みにより、エージェント型タスクを最大40%速く完了するという。これらの数値は特定のモデルとワークロードに限ったもので、Nvidiaは八台構成のスケーリングベンチマークを示していない。"
+                "x": "音声の扱いは地域によって異なる。USでは書き起こしと録音が既定で保存され、所有者は2025年4月にこれをオフにする選択肢を失った。UKとドイツの通知では選択が可能だ。保存された録音は最長で一年保管され、訓練を受けたスタッフが確認することがある。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_ray-ban-meta-ai-training-steps-en_1128925689.png",
+                "cap": "Meta AIアプリでの五つの手順で、メガネごとに繰り返す必要がある。過去の音声録音は手動で削除しなければならない。"
               },
               {
                 "t": "p",
-                "x": "64 GB 版DGX SparkはGB10 Grace Blackwell Superchipを引き続き搭載し、価格は$4,999からだ。"
+                "x": "周囲の人を対象とする設定はなく、MessengerやInstagramでMeta AIと共有した画像は視覚データの設定の対象外だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "DGX Spark集群\n内存最高1 TB",
-          "body": "Nvidia现可将最多八台DGX Spark组成集群，获得合计1 TB 统一内存。",
-          "mini_headline": "八台DGX Sparks，1 TB",
+          "headline": "Ray-Ban Meta照片\n可不进入AI训练",
+          "body": "Meta AI应用新设置让Ray-Ban Meta图像不进AI训练，US以外语音也可关闭。",
+          "mini_headline": "Ray-Ban Meta训练退出选项",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Nvidia-GTC-Berlin-announcement.png",
-                "cap": "Nvidia为DGX Spark用户带来好消息"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ray-ban-meta-ki-training-teaser.jpg",
+                "cap": "镜框内置摄像头的Ray-Ban Meta眼镜。除非你关闭此项，否则Meta会存储来自AI请求的图像。"
               },
               {
                 "t": "p",
-                "x": "在64 GB 版DGX Spark于10月23日上市前几天，Nvidia在GTC Berlin宣布了DGX Spark AI迷你PC的多项升级。据Nvidia介绍，八台各配128 GB 统一内存的DGX Spark可提供总计1 TB 内存，而64 GB 版本组成的集群最多可提供512 GB。"
+                "x": "向Ray-Ban Meta眼镜询问标牌上写着什么，就会向Meta发送一张照片。根据Meta关于视觉数据的帮助页面，该公司会存储这些来自AI请求的拍摄内容，并可能通过自动化系统或人工审核将其用于训练模型。自9月24日起，你可以关闭这一选项。另有一项设置涉及你的语音，而你能获得多少控制权取决于你居住的地区。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/2/6/csm_ray-ban-meta-ai-training-settings-en_890c1a5d02.png",
+                "cap": "视觉数据设置仅涵盖来自AI请求的图像。在US以外，语音录音另有单独设置。"
               },
               {
                 "t": "p",
-                "x": "Nvidia表示，新增容量可容纳更大的AI模型、更长的上下文窗口以及同时运行的多个AI智能体，并点名GLM 5.3为受益的前沿级模型之一。这些系统通过内置的ConnectX-7网络互联，但八台集群目前需要手动配置；Nvidia Sync将于本月晚些时候支持八台系统，同时推出新的Model Launcher。"
+                "x": "在Meta AI应用中打开眼镜设置，点击Experiences下的Meta AI，然后关闭“Store visual data from AI experiences”（存储来自AI体验的视觉数据）。关闭后，视觉数据不会用于人工审核，不会用于训练，并且在你的请求得到回复后不会被存储。视觉提醒等功能可能受到限制，且此项更改仅对今后生效。"
               },
               {
                 "t": "p",
-                "x": "DGX Spark运行Qwen3.8 27B 时速度最多提升30%，而得益于与llama.cpp和vLLM社区在speculative-decoding（推测解码）方面的合作，RTX PRO 6000 Blackwell完成智能体任务的速度据称最多快40%。这些数据仅适用于特定模型和工作负载，Nvidia尚未提供八台系统的扩展基准测试。"
+                "x": "语音按地区处理。在US，转录文本和录音默认会被存储，用户已于2025年4月失去关闭这一功能的选项；UK和德国的说明则允许用户选择。存储的录音最长保留一年，并可能由经过培训的员工审核。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_ray-ban-meta-ai-training-steps-en_1128925689.png",
+                "cap": "在Meta AI应用中需完成五个步骤，每副眼镜都要重复一遍。旧的语音录音必须手动删除。"
               },
               {
                 "t": "p",
-                "x": "64 GB 版DGX Spark仍采用GB10 Grace Blackwell Superchip，起价$4,999。"
+                "x": "没有任何设置能保护旁观者，而通过Messenger或Instagram与Meta AI分享的图像不在视觉数据设置的覆盖范围内。"
               }
             ]
           }
         },
         "es": {
-          "headline": "DGX Spark ya se agrupa\nhasta 1 TB de memoria",
-          "body": "Nvidia ya permite agrupar hasta ocho sistemas DGX Spark para sumar 1 TB de memoria unificada en total.",
-          "mini_headline": "Ocho DGX Sparks, 1 TB",
+          "headline": "Mantén las fotos de Ray-Ban Meta\nfuera del entrenamiento de AI",
+          "body": "Un ajuste nuevo de Meta AI saca las imágenes de Ray-Ban Meta del entrenamiento de AI y otro cubre la voz fuera de US.",
+          "mini_headline": "Ray-Ban Meta: excluirse del entrenamiento",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Nvidia-GTC-Berlin-announcement.png",
-                "cap": "Nvidia tiene buenas noticias para los propietarios de DGX Spark"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ray-ban-meta-ki-training-teaser.jpg",
+                "cap": "Gafas Ray-Ban Meta con una cámara en la montura. Meta guarda las imágenes de las solicitudes de AI salvo que se desactive esta opción."
               },
               {
                 "t": "p",
-                "x": "Nvidia ha anunciado una serie de mejoras para su mini PC de IA DGX Spark en GTC Berlin, días antes de que los modelos DGX Spark de 64 GB salgan a la venta el 23 de octubre. Según Nvidia, ocho sistemas DGX Spark con 128 GB de memoria unificada cada uno pueden ofrecer 1 TB de memoria en total, mientras que los clústeres de las variantes de 64 GB pueden llegar a 512 GB."
+                "x": "Preguntar a las gafas Ray-Ban Meta qué dice un cartel envía una foto a Meta. Según la página de ayuda de Meta sobre datos visuales, la empresa guarda estas capturas de solicitudes de AI y puede usarlas para entrenar sus modelos, mediante sistemas automatizados o revisión humana. Desde el 24 de septiembre es posible desactivarlo. Un segundo ajuste se refiere a la voz, y el grado de control depende del lugar de residencia."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/2/6/csm_ray-ban-meta-ai-training-settings-en_890c1a5d02.png",
+                "cap": "El ajuste de datos visuales solo abarca las imágenes de solicitudes de AI. Fuera de US, las grabaciones de voz tienen un ajuste aparte."
               },
               {
                 "t": "p",
-                "x": "Nvidia afirma que la capacidad adicional permitirá alojar modelos de IA más grandes, ventanas de contexto más largas y varios agentes de IA ejecutándose a la vez, y cita GLM 5.3 como un modelo de clase frontera que se beneficia. Los sistemas se conectan mediante la red ConnectX-7 integrada, pero los clústeres de ocho sistemas requieren por ahora configuración manual; Nvidia Sync recibirá soporte para ocho sistemas a finales de este mes, junto con un nuevo Model Launcher."
+                "x": "En la app Meta AI, abra la configuración de las gafas, toque Meta AI en Experiences y desactive “Store visual data from AI experiences” (guardar datos visuales de las experiencias de AI). Una vez desactivado, los datos visuales no quedan disponibles para revisión humana, no se usan para entrenamiento y no se guardan después de responder a la solicitud. Funciones como los recordatorios visuales pueden verse limitadas, y el cambio solo se aplica de ahora en adelante."
               },
               {
                 "t": "p",
-                "x": "DGX Spark también obtiene una mejora de velocidad de hasta el 30% con Qwen3.8 27B, y la RTX PRO 6000 Blackwell completaría tareas agénticas hasta un 40% más rápido gracias al trabajo en speculative-decoding (decodificación especulativa) con las comunidades de llama.cpp y vLLM. Estas cifras se aplican a modelos y cargas de trabajo concretos, y Nvidia no ha publicado pruebas de rendimiento del escalado a ocho sistemas."
+                "x": "La voz se gestiona por regiones. En US, las transcripciones y grabaciones se guardan por defecto, y los propietarios perdieron la opción de desactivarlo en abril de 2025; los avisos de UK y Alemania permiten elegir. Las grabaciones guardadas se conservan hasta un año y puede revisarlas personal capacitado."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_ray-ban-meta-ai-training-steps-en_1128925689.png",
+                "cap": "Cinco pasos en la app Meta AI, que hay que repetir para cada par. Las grabaciones de voz antiguas deben borrarse manualmente."
               },
               {
                 "t": "p",
-                "x": "La DGX Spark de 64 GB mantiene el GB10 Grace Blackwell Superchip y parte de $4,999."
+                "x": "Ningún ajuste protege a los transeúntes, y las imágenes compartidas con Meta AI en Messenger o Instagram quedan excluidas del ajuste de datos visuales."
               }
             ]
           }
@@ -1073,125 +1193,165 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "DGX Spark 클러스터\n최대 1 TB 메모리",
-          "body": "Nvidia가 DGX Spark 여덟 대를 묶어 1 TB 통합 메모리를 지원한다.",
-          "mini_headline": "DGX Sparks 여덟 대, 1 TB",
+          "headline": "Ray-Ban Meta의\n사진을 AI 학습서 빼기",
+          "body": "Ray-Ban Meta 사진을 AI 학습에서 뺄 수 있고 US 밖은 음성도 된다.",
+          "mini_headline": "Ray-Ban Meta 학습 제외 설정",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Nvidia-GTC-Berlin-announcement.png",
-                "cap": "Nvidia가 DGX Spark 소유자에게 반가운 소식을 전했다"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ray-ban-meta-ki-training-teaser.jpg",
+                "cap": "프레임에 카메라가 달린 Ray-Ban Meta 안경. 이 설정을 끄지 않으면 Meta는 AI 요청에서 나온 이미지를 저장한다."
               },
               {
                 "t": "p",
-                "x": "64 GB DGX Spark 모델이 10월 23일 출시되기 며칠 전, Nvidia가 GTC Berlin에서 DGX Spark AI 미니 PC 업그레이드를 잇달아 발표했다. Nvidia에 따르면 128 GB 통합 메모리를 갖춘 DGX Spark 여덟 대를 묶으면 총 1 TB 메모리를 확보할 수 있고, 64 GB 모델로 클러스터를 꾸리면 최대 512 GB 용량을 제공한다."
+                "x": "Ray-Ban Meta 안경에 표지판에 뭐라고 쓰여 있는지 물으면 Meta로 사진이 전송된다. 시각 데이터에 관한 Meta 도움말 페이지에 따르면, 회사는 AI 요청에서 나온 이 이미지를 저장하고 자동화 시스템이나 사람의 검토를 거쳐 모델 학습에 쓸 수 있다. 9월 24일부터는 이를 끌 수 있다. 음성을 다루는 설정도 따로 있으며, 어디에 사느냐에 따라 통제할 수 있는 범위가 달라진다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/2/6/csm_ray-ban-meta-ai-training-settings-en_890c1a5d02.png",
+                "cap": "시각 데이터 설정은 AI 요청에서 나온 이미지에만 적용된다. US 밖에서는 음성 녹음에 별도 설정이 있다."
               },
               {
                 "t": "p",
-                "x": "Nvidia는 늘어난 용량으로 더 큰 AI 모델, 더 긴 컨텍스트 윈도, 여러 AI 에이전트의 동시 실행을 감당할 수 있다며, 그 혜택을 보는 프런티어급 모델로 GLM 5.3을 꼽았다. 시스템은 내장 ConnectX-7 네트워킹으로 연결되지만, 여덟 대 클러스터는 현재 수동으로 구성해야 한다. Nvidia Sync는 이달 말 새 Model Launcher와 함께 여덟 대 지원을 추가한다."
+                "x": "Meta AI 앱에서 안경 설정을 열고 Experiences 아래 Meta AI를 누른 뒤 “Store visual data from AI experiences”(AI 경험의 시각 데이터 저장)를 끈다. 끄고 나면 시각 데이터는 사람의 검토 대상이 되지 않고, 학습에 쓰이지 않으며, 요청에 답한 뒤에는 저장되지 않는다. 시각 리마인더 같은 기능은 제한될 수 있고, 변경은 이후부터만 적용된다."
               },
               {
                 "t": "p",
-                "x": "DGX Spark는 Qwen3.8 27B 에서 최대 30% 속도 향상을 얻고, RTX PRO 6000 Blackwell은 llama.cpp 및 vLLM 커뮤니티와의 추측 디코딩(speculative-decoding) 작업 덕분에 에이전트 작업을 최대 40% 더 빨리 끝내는 것으로 알려졌다. 이 수치는 특정 모델과 워크로드에 한정되며, Nvidia는 여덟 대 확장 벤치마크를 내놓지 않았다."
+                "x": "음성은 지역별로 다르게 처리된다. US에서는 대화 기록과 녹음이 기본으로 저장되며, 소유자는 2025년 4월 이를 끌 수 있는 선택지를 잃었다. UK와 독일 고지에서는 사용자가 선택할 수 있다. 저장된 녹음은 최대 일 년간 보관되며 훈련받은 직원이 검토할 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_ray-ban-meta-ai-training-steps-en_1128925689.png",
+                "cap": "Meta AI 앱에서 거치는 다섯 단계로, 안경마다 반복해야 한다. 예전 음성 녹음은 직접 삭제해야 한다."
               },
               {
                 "t": "p",
-                "x": "64 GB DGX Spark는 GB10 Grace Blackwell Superchip을 그대로 탑재하며 가격은 $4,999부터다."
+                "x": "주변 사람을 보호하는 설정은 없으며, Messenger나 Instagram에서 Meta AI와 공유한 이미지는 시각 데이터 설정의 적용 대상이 아니다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "DGX Sparkを束ね\nメモリ最大1 TB",
-          "body": "NvidiaはDGX Sparkを最大八台つなぎ、計1 TB の統合メモリを実現した。",
-          "mini_headline": "DGX Sparks八台で1 TB",
+          "headline": "Ray-Ban Metaの\n写真をAI学習から外す",
+          "body": "新設定でRay-Ban Metaの画像はAI学習から外せ、US以外では音声も設定できる。",
+          "mini_headline": "Ray-Ban Metaの学習オプトアウト",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Nvidia-GTC-Berlin-announcement.png",
-                "cap": "NvidiaがDGX Sparkオーナーに朗報を届けた"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ray-ban-meta-ki-training-teaser.jpg",
+                "cap": "フレームにカメラを備えたRay-Ban Metaのメガネ。この設定をオフにしない限り、MetaはAIリクエストの画像を保存する。"
               },
               {
                 "t": "p",
-                "x": "Nvidiaは、64 GB 版DGX Sparkが10月23日に発売される数日前、GTC BerlinでAIミニPC「DGX Spark」の複数のアップグレードを発表した。Nvidiaによると、128 GB の統合メモリを備えたDGX Sparkを八台組み合わせれば合計1 TB のメモリが得られ、64 GB 版のクラスタでは最大512 GB となる。"
+                "x": "Ray-Ban Metaのメガネに看板の文字を尋ねると、Metaに写真が送られる。視覚データに関するMetaのヘルプページによれば、同社はAIリクエストで撮影されたこれらの画像を保存し、自動システムまたは人によるレビューを通じてモデルの学習に使う場合がある。9月24日からはこれをオフにできる。音声には別の設定があり、どこまで管理できるかは住んでいる地域によって異なる。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/2/6/csm_ray-ban-meta-ai-training-settings-en_890c1a5d02.png",
+                "cap": "視覚データの設定はAIリクエストの画像にのみ適用される。US以外では音声録音に別の設定がある。"
               },
               {
                 "t": "p",
-                "x": "Nvidiaは、増えた容量によってより大きなAIモデル、より長いコンテキストウィンドウ、複数のAIエージェントの同時実行に対応できるとし、恩恵を受けるフロンティア級モデルとしてGLM 5.3を挙げた。各システムは内蔵のConnectX-7ネットワークで接続されるが、八台構成のクラスタは現時点では手動設定が必要だ。Nvidia Syncは今月後半、新しいModel Launcherとともに八台構成に対応する。"
+                "x": "Meta AIアプリでメガネの設定を開き、Experiencesの下にあるMeta AIをタップして「Store visual data from AI experiences」（AI体験の視覚データを保存）をオフにする。オフにすると、視覚データは人によるレビューの対象にならず、学習にも使われず、リクエストへの応答後は保存されない。視覚リマインダーなどの機能は制限される場合があり、変更はこれ以降にのみ適用される。"
               },
               {
                 "t": "p",
-                "x": "DGX SparkはQwen3.8 27B で最大30%の高速化を果たし、RTX PRO 6000 Blackwellはllama.cppおよびvLLMコミュニティとのspeculative-decoding（投機的デコーディング）の取り組みにより、エージェント型タスクを最大40%速く完了するという。これらの数値は特定のモデルとワークロードに限ったもので、Nvidiaは八台構成のスケーリングベンチマークを示していない。"
+                "x": "音声の扱いは地域によって異なる。USでは書き起こしと録音が既定で保存され、所有者は2025年4月にこれをオフにする選択肢を失った。UKとドイツの通知では選択が可能だ。保存された録音は最長で一年保管され、訓練を受けたスタッフが確認することがある。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_ray-ban-meta-ai-training-steps-en_1128925689.png",
+                "cap": "Meta AIアプリでの五つの手順で、メガネごとに繰り返す必要がある。過去の音声録音は手動で削除しなければならない。"
               },
               {
                 "t": "p",
-                "x": "64 GB 版DGX SparkはGB10 Grace Blackwell Superchipを引き続き搭載し、価格は$4,999からだ。"
+                "x": "周囲の人を対象とする設定はなく、MessengerやInstagramでMeta AIと共有した画像は視覚データの設定の対象外だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "DGX Spark集群\n内存最高1 TB",
-          "body": "Nvidia现可将最多八台DGX Spark组成集群，获得合计1 TB 统一内存。",
-          "mini_headline": "八台DGX Sparks，1 TB",
+          "headline": "Ray-Ban Meta照片\n可不进入AI训练",
+          "body": "Meta AI应用新设置让Ray-Ban Meta图像不进AI训练，US以外语音也可关闭。",
+          "mini_headline": "Ray-Ban Meta训练退出选项",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Nvidia-GTC-Berlin-announcement.png",
-                "cap": "Nvidia为DGX Spark用户带来好消息"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ray-ban-meta-ki-training-teaser.jpg",
+                "cap": "镜框内置摄像头的Ray-Ban Meta眼镜。除非你关闭此项，否则Meta会存储来自AI请求的图像。"
               },
               {
                 "t": "p",
-                "x": "在64 GB 版DGX Spark于10月23日上市前几天，Nvidia在GTC Berlin宣布了DGX Spark AI迷你PC的多项升级。据Nvidia介绍，八台各配128 GB 统一内存的DGX Spark可提供总计1 TB 内存，而64 GB 版本组成的集群最多可提供512 GB。"
+                "x": "向Ray-Ban Meta眼镜询问标牌上写着什么，就会向Meta发送一张照片。根据Meta关于视觉数据的帮助页面，该公司会存储这些来自AI请求的拍摄内容，并可能通过自动化系统或人工审核将其用于训练模型。自9月24日起，你可以关闭这一选项。另有一项设置涉及你的语音，而你能获得多少控制权取决于你居住的地区。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/2/6/csm_ray-ban-meta-ai-training-settings-en_890c1a5d02.png",
+                "cap": "视觉数据设置仅涵盖来自AI请求的图像。在US以外，语音录音另有单独设置。"
               },
               {
                 "t": "p",
-                "x": "Nvidia表示，新增容量可容纳更大的AI模型、更长的上下文窗口以及同时运行的多个AI智能体，并点名GLM 5.3为受益的前沿级模型之一。这些系统通过内置的ConnectX-7网络互联，但八台集群目前需要手动配置；Nvidia Sync将于本月晚些时候支持八台系统，同时推出新的Model Launcher。"
+                "x": "在Meta AI应用中打开眼镜设置，点击Experiences下的Meta AI，然后关闭“Store visual data from AI experiences”（存储来自AI体验的视觉数据）。关闭后，视觉数据不会用于人工审核，不会用于训练，并且在你的请求得到回复后不会被存储。视觉提醒等功能可能受到限制，且此项更改仅对今后生效。"
               },
               {
                 "t": "p",
-                "x": "DGX Spark运行Qwen3.8 27B 时速度最多提升30%，而得益于与llama.cpp和vLLM社区在speculative-decoding（推测解码）方面的合作，RTX PRO 6000 Blackwell完成智能体任务的速度据称最多快40%。这些数据仅适用于特定模型和工作负载，Nvidia尚未提供八台系统的扩展基准测试。"
+                "x": "语音按地区处理。在US，转录文本和录音默认会被存储，用户已于2025年4月失去关闭这一功能的选项；UK和德国的说明则允许用户选择。存储的录音最长保留一年，并可能由经过培训的员工审核。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_ray-ban-meta-ai-training-steps-en_1128925689.png",
+                "cap": "在Meta AI应用中需完成五个步骤，每副眼镜都要重复一遍。旧的语音录音必须手动删除。"
               },
               {
                 "t": "p",
-                "x": "64 GB 版DGX Spark仍采用GB10 Grace Blackwell Superchip，起价$4,999。"
+                "x": "没有任何设置能保护旁观者，而通过Messenger或Instagram与Meta AI分享的图像不在视觉数据设置的覆盖范围内。"
               }
             ]
           }
         },
         "es": {
-          "headline": "DGX Spark ya se agrupa\nhasta 1 TB de memoria",
-          "body": "Nvidia ya permite agrupar hasta ocho sistemas DGX Spark para sumar 1 TB de memoria unificada en total.",
-          "mini_headline": "Ocho DGX Sparks, 1 TB",
+          "headline": "Mantén las fotos de Ray-Ban Meta\nfuera del entrenamiento de AI",
+          "body": "Un ajuste nuevo de Meta AI saca las imágenes de Ray-Ban Meta del entrenamiento de AI y otro cubre la voz fuera de US.",
+          "mini_headline": "Ray-Ban Meta: excluirse del entrenamiento",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Nvidia-GTC-Berlin-announcement.png",
-                "cap": "Nvidia tiene buenas noticias para los propietarios de DGX Spark"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ray-ban-meta-ki-training-teaser.jpg",
+                "cap": "Gafas Ray-Ban Meta con una cámara en la montura. Meta guarda las imágenes de las solicitudes de AI salvo que se desactive esta opción."
               },
               {
                 "t": "p",
-                "x": "Nvidia ha anunciado una serie de mejoras para su mini PC de IA DGX Spark en GTC Berlin, días antes de que los modelos DGX Spark de 64 GB salgan a la venta el 23 de octubre. Según Nvidia, ocho sistemas DGX Spark con 128 GB de memoria unificada cada uno pueden ofrecer 1 TB de memoria en total, mientras que los clústeres de las variantes de 64 GB pueden llegar a 512 GB."
+                "x": "Preguntar a las gafas Ray-Ban Meta qué dice un cartel envía una foto a Meta. Según la página de ayuda de Meta sobre datos visuales, la empresa guarda estas capturas de solicitudes de AI y puede usarlas para entrenar sus modelos, mediante sistemas automatizados o revisión humana. Desde el 24 de septiembre es posible desactivarlo. Un segundo ajuste se refiere a la voz, y el grado de control depende del lugar de residencia."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/2/6/csm_ray-ban-meta-ai-training-settings-en_890c1a5d02.png",
+                "cap": "El ajuste de datos visuales solo abarca las imágenes de solicitudes de AI. Fuera de US, las grabaciones de voz tienen un ajuste aparte."
               },
               {
                 "t": "p",
-                "x": "Nvidia afirma que la capacidad adicional permitirá alojar modelos de IA más grandes, ventanas de contexto más largas y varios agentes de IA ejecutándose a la vez, y cita GLM 5.3 como un modelo de clase frontera que se beneficia. Los sistemas se conectan mediante la red ConnectX-7 integrada, pero los clústeres de ocho sistemas requieren por ahora configuración manual; Nvidia Sync recibirá soporte para ocho sistemas a finales de este mes, junto con un nuevo Model Launcher."
+                "x": "En la app Meta AI, abra la configuración de las gafas, toque Meta AI en Experiences y desactive “Store visual data from AI experiences” (guardar datos visuales de las experiencias de AI). Una vez desactivado, los datos visuales no quedan disponibles para revisión humana, no se usan para entrenamiento y no se guardan después de responder a la solicitud. Funciones como los recordatorios visuales pueden verse limitadas, y el cambio solo se aplica de ahora en adelante."
               },
               {
                 "t": "p",
-                "x": "DGX Spark también obtiene una mejora de velocidad de hasta el 30% con Qwen3.8 27B, y la RTX PRO 6000 Blackwell completaría tareas agénticas hasta un 40% más rápido gracias al trabajo en speculative-decoding (decodificación especulativa) con las comunidades de llama.cpp y vLLM. Estas cifras se aplican a modelos y cargas de trabajo concretos, y Nvidia no ha publicado pruebas de rendimiento del escalado a ocho sistemas."
+                "x": "La voz se gestiona por regiones. En US, las transcripciones y grabaciones se guardan por defecto, y los propietarios perdieron la opción de desactivarlo en abril de 2025; los avisos de UK y Alemania permiten elegir. Las grabaciones guardadas se conservan hasta un año y puede revisarlas personal capacitado."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_ray-ban-meta-ai-training-steps-en_1128925689.png",
+                "cap": "Cinco pasos en la app Meta AI, que hay que repetir para cada par. Las grabaciones de voz antiguas deben borrarse manualmente."
               },
               {
                 "t": "p",
-                "x": "La DGX Spark de 64 GB mantiene el GB10 Grace Blackwell Superchip y parte de $4,999."
+                "x": "Ningún ajuste protege a los transeúntes, y las imágenes compartidas con Meta AI en Messenger o Instagram quedan excluidas del ajuste de datos visuales."
               }
             ]
           }
@@ -1199,15 +1359,15 @@
       }
     },
     {
-      "id": "gadgets-ramdeck-hub",
+      "id": "gadgets-rtx-tensor-throttle",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "A $109 hub that pools\nyour old devices' RAM",
-      "body": "RAMDeck pools memory from idle PCs, Macs and phones to run bigger AI models, though it admits that won't be fast.",
-      "mini_headline": "RAMDeck pools spare RAM",
+      "headline": "펌웨어 해킹, Nvidia\nRTX 텐서 제한 해제",
+      "body": "펌웨어로 RTX 20-40 GPUs의 AI 제한을 풀면 4090 성능이 배가된다.",
+      "mini_headline": "RTX AI 제한, 해킹으로 해제",
       "tool": "Gadgets",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/pro/this-crowdfunded-usd109-hub-wants-to-pool-the-ram-in-your-old-pcs-macs-and-phones-to-run-bigger-ai-models-but-the-engine-underneath-is-software-you-can-already-get-for-free",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx-3090-ti-matrix-math-up-to-80-percent",
       "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
@@ -1215,314 +1375,495 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/sTBjr37ftwL8aDtGAbAG78-1920-80.jpg",
-            "cap": "Image credit: indiegogo"
+            "src": "https://cdn.mos.cms.futurecdn.net/4Yvp7ck4v6d8JPBoNXVPfe.jpg",
+            "cap": "Nvidia GeForce RTX 4090 Founders Edition (이미지 출처: Nvidia)"
           },
           {
             "t": "p",
-            "x": "With DDR5 now costing roughly five times what it did in mid-2025, TradeMAV thinks the answer to running bigger AI models at home is borrowing the memory already sitting in your other devices. Its RAMDeck, crowdfunding on Indiegogo and listed at $109 for early backers, is a small, low-power hub that links Windows PCs, Macs, Linux machines and Android phones into one memory pool."
+            "x": "VideoCardz에 따르면 모더들이 펌웨어 익스플로잇으로 Nvidia RTX 20, 30, 40-series GPUs의 AI 성능을 절반으로 묶어 둔 제한을 푸는 방법을 찾아냈다. 제한을 풀면 RTX 4090은 최대 텐서 연산 속도가 두 배로 뛰고, RTX 3090 Ti는 행렬 연산이 최대 80% 빨라진다. 실제 작업에서 얻는 이득은 훨씬 작다. 챗봇 토큰 속도는 메모리 대역폭이 좌우하므로 거의 그대로다."
           },
           {
             "t": "p",
-            "x": "Nothing is merged at the hardware level. The model's layers are divided among machines, and only intermediate results pass across the network. The engine underneath is llama.cpp's RPC backend; TradeMAV adds discovery, layer placement, failure recovery, a dashboard and an OpenAI-compatible API, but publishes no hub specs."
+            "x": "Nvidia가 GeForce에 건 제한은 FP32-accumulate 연산을 카드별 FP16-accumulate 속도의 절반으로 묶는다. turing-unlock(RTX 2080 Ti), gpu-unlock(Ampere), gpu-unlock-ada(RTX 4090) 세 프로젝트가 비공식 Linux 모듈로 잠금을 풀어 주지만, RTX 50(Blackwell)은 지원하지 않는다."
           },
           {
             "t": "p",
-            "x": "TradeMAV is frank that “pooled memory trades speed for capacity.” Its best results lean on an RTX 3060 and mixture-of-experts models, such as 39 tokens per second for Qwen3-Coder 30B, while a 27B dense model managed 1.92 tokens per second across four devices."
+            "x": "Ada 포크 개발자의 RTX 4090은 FP16 기준 165.6에서 331.6 TFLOPS로 올라갔다. 그런데 한 소유자가 돌린 행렬 곱셈 벤치마크에서는 cuBLAS GEMM 중앙값 개선 폭이 12–34%(FP16), 최대 20%(BF16)에 그쳤다. Ampere에서도 LLM prefill은 14–36% 나아졌지만, LLM decode와 INT8은 “거의 같은” 수준이었다."
           },
           {
             "t": "p",
-            "x": "For tinkerers, llama.cpp's RPC mode and exo cost nothing to try first. For everyone else, $109 buys convenience and, as with any crowdfunded hardware, a promise rather than a product."
+            "x": "turing-unlock README는 이 모드가 “하드웨어를 손상시킬 수 있다”고 경고한다. KohakUnlock도 “GPU나 호스트를 멈추게 하거나, 부팅을 막거나, 데이터를 손상시키거나, 하드웨어를 손상시킬 수 있다”고 적어 두었다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A $109 hub that pools\nyour old devices' RAM",
-          "body": "RAMDeck pools memory from idle PCs, Macs and phones to run bigger AI models, though it admits that won't be fast.",
-          "mini_headline": "RAMDeck pools spare RAM",
+          "headline": "Firmware hack lifts Nvidia's\nRTX tensor throttle",
+          "body": "A firmware exploit lifts a half-speed AI throttle on RTX 20-40 GPUs, doubling the RTX 4090's peak tensor rate.",
+          "mini_headline": "RTX AI throttle hacked away",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/sTBjr37ftwL8aDtGAbAG78-1920-80.jpg",
-                "cap": "Image credit: indiegogo"
+                "src": "https://cdn.mos.cms.futurecdn.net/4Yvp7ck4v6d8JPBoNXVPfe.jpg",
+                "cap": "Nvidia GeForce RTX 4090 Founders Edition (Image credit: Nvidia)"
               },
               {
                 "t": "p",
-                "x": "With DDR5 now costing roughly five times what it did in mid-2025, TradeMAV thinks the answer to running bigger AI models at home is borrowing the memory already sitting in your other devices. Its RAMDeck, crowdfunding on Indiegogo and listed at $109 for early backers, is a small, low-power hub that links Windows PCs, Macs, Linux machines and Android phones into one memory pool."
+                "x": "Modders have discovered a way to remove imposed half-speed AI performance limits on Nvidia RTX 20, 30, and 40-series GPUs with a firmware exploit, VideoCardz reports. Without the limitation, the RTX 4090 can achieve double its peak tensor rate, and matrix math can improve by up to 80% for the RTX 3090 Ti. Real workloads gain significantly less, and chatbot token speeds remain about the same, as that performance is dependent on memory bandwidth."
               },
               {
                 "t": "p",
-                "x": "Nothing is merged at the hardware level. The model's layers are divided among machines, and only intermediate results pass across the network. The engine underneath is llama.cpp's RPC backend; TradeMAV adds discovery, layer placement, failure recovery, a dashboard and an OpenAI-compatible API, but publishes no hub specs."
+                "x": "Nvidia’s GeForce limit runs FP32-accumulate math at half each card’s FP16-accumulate rate. Three projects — turing-unlock (RTX 2080 Ti), gpu-unlock (Ampere) and gpu-unlock-ada (RTX 4090) — offer unlocks via unofficial Linux modules; RTX 50 (Blackwell) is not supported."
               },
               {
                 "t": "p",
-                "x": "TradeMAV is frank that “pooled memory trades speed for capacity.” Its best results lean on an RTX 3060 and mixture-of-experts models, such as 39 tokens per second for Qwen3-Coder 30B, while a 27B dense model managed 1.92 tokens per second across four devices."
+                "x": "The Ada fork developer’s RTX 4090 moved from 165.6 to 331.6 TFLOPS on FP16. In one owner’s matrix-multiply benchmark, though, cuBLAS GEMM medians improved only 12–34% (FP16) and up to 20% (BF16). For Ampere, LLM prefill improved 14–36%, but LLM decode and INT8 stayed “about the same.”"
               },
               {
                 "t": "p",
-                "x": "For tinkerers, llama.cpp's RPC mode and exo cost nothing to try first. For everyone else, $109 buys convenience and, as with any crowdfunded hardware, a promise rather than a product."
+                "x": "The turing-unlock README warns the mod “may damage your hardware,” and KohakUnlock says it “can hang a GPU or host, prevent boot, corrupt data, or damage hardware.”"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "펌웨어 해킹, Nvidia\nRTX 텐서 제한 해제",
+          "body": "펌웨어로 RTX 20-40 GPUs의 AI 제한을 풀면 4090 성능이 배가된다.",
+          "mini_headline": "RTX AI 제한, 해킹으로 해제",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/4Yvp7ck4v6d8JPBoNXVPfe.jpg",
+                "cap": "Nvidia GeForce RTX 4090 Founders Edition (이미지 출처: Nvidia)"
+              },
+              {
+                "t": "p",
+                "x": "VideoCardz에 따르면 모더들이 펌웨어 익스플로잇으로 Nvidia RTX 20, 30, 40-series GPUs의 AI 성능을 절반으로 묶어 둔 제한을 푸는 방법을 찾아냈다. 제한을 풀면 RTX 4090은 최대 텐서 연산 속도가 두 배로 뛰고, RTX 3090 Ti는 행렬 연산이 최대 80% 빨라진다. 실제 작업에서 얻는 이득은 훨씬 작다. 챗봇 토큰 속도는 메모리 대역폭이 좌우하므로 거의 그대로다."
+              },
+              {
+                "t": "p",
+                "x": "Nvidia가 GeForce에 건 제한은 FP32-accumulate 연산을 카드별 FP16-accumulate 속도의 절반으로 묶는다. turing-unlock(RTX 2080 Ti), gpu-unlock(Ampere), gpu-unlock-ada(RTX 4090) 세 프로젝트가 비공식 Linux 모듈로 잠금을 풀어 주지만, RTX 50(Blackwell)은 지원하지 않는다."
+              },
+              {
+                "t": "p",
+                "x": "Ada 포크 개발자의 RTX 4090은 FP16 기준 165.6에서 331.6 TFLOPS로 올라갔다. 그런데 한 소유자가 돌린 행렬 곱셈 벤치마크에서는 cuBLAS GEMM 중앙값 개선 폭이 12–34%(FP16), 최대 20%(BF16)에 그쳤다. Ampere에서도 LLM prefill은 14–36% 나아졌지만, LLM decode와 INT8은 “거의 같은” 수준이었다."
+              },
+              {
+                "t": "p",
+                "x": "turing-unlock README는 이 모드가 “하드웨어를 손상시킬 수 있다”고 경고한다. KohakUnlock도 “GPU나 호스트를 멈추게 하거나, 부팅을 막거나, 데이터를 손상시키거나, 하드웨어를 손상시킬 수 있다”고 적어 두었다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Nvidia RTXの\nテンソル制限を改造で解除",
+          "body": "ファーム改造でRTX 20-40 GPUsのAI半速制限が外れ、4090の性能が倍増する。",
+          "mini_headline": "RTXのAI制限を改造で解除",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/4Yvp7ck4v6d8JPBoNXVPfe.jpg",
+                "cap": "Nvidia GeForce RTX 4090 Founders Edition（画像提供：Nvidia）"
+              },
+              {
+                "t": "p",
+                "x": "VideoCardzによると、改造愛好家らがファームウェアのエクスプロイトを使い、Nvidia RTX 20、30、40-series GPUsに課された半分の速度のAI性能制限を外す方法を見つけた。制限がなくなるとRTX 4090はピークのテンソル演算速度が倍になり、RTX 3090 Tiでは行列演算が最大80%向上しうる。実際のワークロードでの伸びはかなり小さく、チャットボットのトークン速度はメモリ帯域幅に左右されるためほぼ変わらない。"
+              },
+              {
+                "t": "p",
+                "x": "NvidiaのGeForce向け制限は、FP32-accumulate演算を各カードのFP16-accumulate速度の半分で動かすものだ。turing-unlock（RTX 2080 Ti）、gpu-unlock（Ampere）、gpu-unlock-ada（RTX 4090）の三つのプロジェクトが非公式のLinuxモジュールで制限解除を提供しており、RTX 50（Blackwell）は対象外だ。"
+              },
+              {
+                "t": "p",
+                "x": "Adaフォークの開発者のRTX 4090は、FP16で165.6から331.6 TFLOPSに向上した。ただし、あるオーナーの行列乗算ベンチマークでは、cuBLAS GEMMの中央値の改善は12–34%（FP16）、最大20%（BF16）にとどまった。Ampereでは、LLMのprefillが14–36%改善したが、LLMのdecodeとINT8は「ほぼ同じ」だった。"
+              },
+              {
+                "t": "p",
+                "x": "turing-unlockのREADMEはこの改造が「ハードウェアを損傷する可能性がある」と警告し、KohakUnlockは「GPUやホストをハングさせ、起動を妨げ、データを破損させ、またはハードウェアを損傷する可能性がある」としている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "固件破解解除Nvidia\nRTX张量限速",
+          "body": "固件漏洞解除RTX 20-40 GPUs的AI半速限制，RTX 4090峰值张量速率翻倍。",
+          "mini_headline": "RTX AI限速被破解",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/4Yvp7ck4v6d8JPBoNXVPfe.jpg",
+                "cap": "Nvidia GeForce RTX 4090 Founders Edition（图片来源：Nvidia）"
+              },
+              {
+                "t": "p",
+                "x": "据VideoCardz报道，改装玩家发现可以利用固件漏洞，解除Nvidia RTX 20、30和40-series GPUs上被施加的半速AI性能限制。解除限制后，RTX 4090的峰值张量速率可翻倍，RTX 3090 Ti的矩阵运算最多可提升80%。实际工作负载的提升要小得多，聊天机器人的token速度则基本不变，因为这部分性能取决于内存带宽。"
+              },
+              {
+                "t": "p",
+                "x": "Nvidia对GeForce的限制让FP32-accumulate运算只能以各卡FP16-accumulate速率的一半运行。turing-unlock（RTX 2080 Ti）、gpu-unlock（Ampere）和gpu-unlock-ada（RTX 4090）三个项目通过非官方Linux模块提供解锁；RTX 50（Blackwell）不受支持。"
+              },
+              {
+                "t": "p",
+                "x": "Ada分支开发者的RTX 4090在FP16下从165.6提升至331.6 TFLOPS。不过在一位用户的矩阵乘法基准测试中，cuBLAS GEMM中位数仅提升12–34%（FP16），最多提升20%（BF16）。在Ampere上，LLM prefill提升了14–36%，但LLM decode和INT8“基本持平”。"
+              },
+              {
+                "t": "p",
+                "x": "turing-unlock的README警告该改装“可能损坏你的硬件”，KohakUnlock则称它“可能导致GPU或主机挂起、无法启动、数据损坏或硬件损坏”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un hub de $109 que reúne\nla RAM de tus viejos equipos",
-          "body": "RAMDeck suma la memoria de PCs, Macs y móviles ociosos para usar modelos de AI mayores, aunque admite que será lento.",
-          "mini_headline": "RAMDeck reúne la RAM sobrante",
+          "headline": "Un hack de firmware quita\nel freno tensorial de Nvidia RTX",
+          "body": "Un exploit de firmware quita el límite de AI a media velocidad de las GPUs RTX 20-40 y duplica el pico de la RTX 4090.",
+          "mini_headline": "Hackean el freno de AI de las RTX",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/sTBjr37ftwL8aDtGAbAG78-1920-80.jpg",
-                "cap": "Imagen: indiegogo"
+                "src": "https://cdn.mos.cms.futurecdn.net/4Yvp7ck4v6d8JPBoNXVPfe.jpg",
+                "cap": "Nvidia GeForce RTX 4090 Founders Edition (Imagen: Nvidia)"
               },
               {
                 "t": "p",
-                "x": "Con la DDR5 costando ahora unas cinco veces más que a mid-2025, TradeMAV cree que la forma de ejecutar modelos de AI más grandes en casa es tomar prestada la memoria que ya está en tus otros dispositivos. Su RAMDeck, en campaña de crowdfunding en Indiegogo y a $109 para los primeros mecenas, es un hub pequeño y de bajo consumo que une Windows PCs, Macs, equipos Linux y teléfonos Android en un único bloque de memoria."
+                "x": "Unos modders han descubierto cómo eliminar, mediante un exploit de firmware, los límites impuestos que reducen a la mitad el rendimiento de AI en las GPUs Nvidia RTX 20, 30 y 40-series, informa VideoCardz. Sin esa limitación, la RTX 4090 puede duplicar su velocidad tensorial máxima, y el cálculo matricial puede mejorar hasta un 80% en la RTX 3090 Ti. Las cargas de trabajo reales ganan bastante menos, y la velocidad de tokens de los chatbots se mantiene más o menos igual, porque ese rendimiento depende del ancho de banda de memoria."
               },
               {
                 "t": "p",
-                "x": "Nada se fusiona a nivel de hardware. Las capas del modelo se reparten entre las máquinas y solo los resultados intermedios viajan por la red. El motor de fondo es el backend RPC de llama.cpp; TradeMAV añade descubrimiento, colocación de capas, recuperación ante fallos, un panel y una API OpenAI-compatible, pero no publica las especificaciones del hub."
+                "x": "El límite de Nvidia para GeForce ejecuta los cálculos FP32-accumulate a la mitad de la velocidad FP16-accumulate de cada tarjeta. Tres proyectos —turing-unlock (RTX 2080 Ti), gpu-unlock (Ampere) y gpu-unlock-ada (RTX 4090)— ofrecen desbloqueos mediante módulos no oficiales de Linux; la RTX 50 (Blackwell) no es compatible."
               },
               {
                 "t": "p",
-                "x": "TradeMAV admite con franqueza que “la memoria compartida cambia velocidad por capacidad”. Sus mejores resultados se apoyan en una RTX 3060 y en modelos mixture-of-experts, como 39 tokens por segundo con Qwen3-Coder 30B, mientras que un modelo denso de 27B logró 1.92 tokens por segundo con cuatro dispositivos."
+                "x": "La RTX 4090 del desarrollador del fork de Ada pasó de 165.6 a 331.6 TFLOPS en FP16. Sin embargo, en la prueba de multiplicación de matrices de un propietario, las medianas de cuBLAS GEMM mejoraron solo un 12–34% (FP16) y hasta un 20% (BF16). En Ampere, el prefill de LLM mejoró un 14–36%, pero el decode de LLM y INT8 se quedaron “más o menos igual”."
               },
               {
                 "t": "p",
-                "x": "Quien disfrute trasteando puede probar antes, sin coste, el modo RPC de llama.cpp y exo. Para los demás, $109 compran comodidad y, como cualquier hardware de crowdfunding, una promesa más que un producto."
+                "x": "El README de turing-unlock advierte que el mod “puede dañar tu hardware”, y KohakUnlock indica que “puede colgar una GPU o el host, impedir el arranque, corromper datos o dañar el hardware”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "es": {
-          "headline": "Un hub de $109 que reúne\nla RAM de tus viejos equipos",
-          "body": "RAMDeck suma la memoria de PCs, Macs y móviles ociosos para usar modelos de AI mayores, aunque admite que será lento.",
-          "mini_headline": "RAMDeck reúne la RAM sobrante",
+        "ko": {
+          "headline": "펌웨어 해킹, Nvidia\nRTX 텐서 제한 해제",
+          "body": "펌웨어로 RTX 20-40 GPUs의 AI 제한을 풀면 4090 성능이 배가된다.",
+          "mini_headline": "RTX AI 제한, 해킹으로 해제",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/sTBjr37ftwL8aDtGAbAG78-1920-80.jpg",
-                "cap": "Imagen: indiegogo"
+                "src": "https://cdn.mos.cms.futurecdn.net/4Yvp7ck4v6d8JPBoNXVPfe.jpg",
+                "cap": "Nvidia GeForce RTX 4090 Founders Edition (이미지 출처: Nvidia)"
               },
               {
                 "t": "p",
-                "x": "Con la DDR5 costando ahora unas cinco veces más que a mid-2025, TradeMAV cree que la forma de ejecutar modelos de AI más grandes en casa es tomar prestada la memoria que ya está en tus otros dispositivos. Su RAMDeck, en campaña de crowdfunding en Indiegogo y a $109 para los primeros mecenas, es un hub pequeño y de bajo consumo que une Windows PCs, Macs, equipos Linux y teléfonos Android en un único bloque de memoria."
+                "x": "VideoCardz에 따르면, 모더들이 펌웨어 익스플로잇으로 Nvidia RTX 20, 30, 40-series GPUs에 걸린 절반 속도의 AI 성능 제한을 없애는 방법을 찾아냈다. 제한이 풀리면 RTX 4090은 최대 텐서 연산 속도가 두 배가 되고, RTX 3090 Ti는 행렬 연산이 최대 80% 빨라질 수 있다. 실제 작업에서 얻는 이득은 훨씬 작고, 챗봇 토큰 속도는 메모리 대역폭에 좌우되기 때문에 거의 그대로다."
               },
               {
                 "t": "p",
-                "x": "Nada se fusiona a nivel de hardware. Las capas del modelo se reparten entre las máquinas y solo los resultados intermedios viajan por la red. El motor de fondo es el backend RPC de llama.cpp; TradeMAV añade descubrimiento, colocación de capas, recuperación ante fallos, un panel y una API OpenAI-compatible, pero no publica las especificaciones del hub."
+                "x": "Nvidia의 GeForce 제한은 FP32-accumulate 연산을 각 카드의 FP16-accumulate 속도의 절반으로 돌린다. turing-unlock(RTX 2080 Ti), gpu-unlock(Ampere), gpu-unlock-ada(RTX 4090) 세 프로젝트가 비공식 Linux 모듈로 잠금 해제를 제공하며, RTX 50(Blackwell)은 지원하지 않는다."
               },
               {
                 "t": "p",
-                "x": "TradeMAV admite con franqueza que “la memoria compartida cambia velocidad por capacidad”. Sus mejores resultados se apoyan en una RTX 3060 y en modelos mixture-of-experts, como 39 tokens por segundo con Qwen3-Coder 30B, mientras que un modelo denso de 27B logró 1.92 tokens por segundo con cuatro dispositivos."
+                "x": "Ada 포크 개발자의 RTX 4090은 FP16에서 165.6에서 331.6 TFLOPS로 올라갔다. 하지만 한 소유자의 행렬 곱셈 벤치마크에서 cuBLAS GEMM 중앙값은 12–34%(FP16), 최대 20%(BF16) 개선에 그쳤다. Ampere에서는 LLM prefill이 14–36% 개선됐지만, LLM decode와 INT8은 “거의 같은” 수준에 머물렀다."
               },
               {
                 "t": "p",
-                "x": "Quien disfrute trasteando puede probar antes, sin coste, el modo RPC de llama.cpp y exo. Para los demás, $109 compran comodidad y, como cualquier hardware de crowdfunding, una promesa más que un producto."
+                "x": "turing-unlock README는 이 모드가 “하드웨어를 손상시킬 수 있다”고 경고하며, KohakUnlock은 “GPU나 호스트를 멈추게 하거나, 부팅을 막거나, 데이터를 손상시키거나, 하드웨어를 손상시킬 수 있다”고 밝힌다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Nvidia RTXの\nテンソル制限を改造で解除",
+          "body": "ファーム改造でRTX 20-40 GPUsのAI半速制限が外れ、4090の性能が倍増する。",
+          "mini_headline": "RTXのAI制限を改造で解除",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/4Yvp7ck4v6d8JPBoNXVPfe.jpg",
+                "cap": "Nvidia GeForce RTX 4090 Founders Edition（画像提供：Nvidia）"
+              },
+              {
+                "t": "p",
+                "x": "VideoCardzによると、改造愛好家らがファームウェアのエクスプロイトを使い、Nvidia RTX 20、30、40-series GPUsに課された半分の速度のAI性能制限を外す方法を見つけた。制限がなくなるとRTX 4090はピークのテンソル演算速度が倍になり、RTX 3090 Tiでは行列演算が最大80%向上しうる。実際のワークロードでの伸びはかなり小さく、チャットボットのトークン速度はメモリ帯域幅に左右されるためほぼ変わらない。"
+              },
+              {
+                "t": "p",
+                "x": "NvidiaのGeForce向け制限は、FP32-accumulate演算を各カードのFP16-accumulate速度の半分で動かすものだ。turing-unlock（RTX 2080 Ti）、gpu-unlock（Ampere）、gpu-unlock-ada（RTX 4090）の三つのプロジェクトが非公式のLinuxモジュールで制限解除を提供しており、RTX 50（Blackwell）は対象外だ。"
+              },
+              {
+                "t": "p",
+                "x": "Adaフォークの開発者のRTX 4090は、FP16で165.6から331.6 TFLOPSに向上した。ただし、あるオーナーの行列乗算ベンチマークでは、cuBLAS GEMMの中央値の改善は12–34%（FP16）、最大20%（BF16）にとどまった。Ampereでは、LLMのprefillが14–36%改善したが、LLMのdecodeとINT8は「ほぼ同じ」だった。"
+              },
+              {
+                "t": "p",
+                "x": "turing-unlockのREADMEはこの改造が「ハードウェアを損傷する可能性がある」と警告し、KohakUnlockは「GPUやホストをハングさせ、起動を妨げ、データを破損させ、またはハードウェアを損傷する可能性がある」としている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "固件破解解除Nvidia\nRTX张量限速",
+          "body": "固件漏洞解除RTX 20-40 GPUs的AI半速限制，RTX 4090峰值张量速率翻倍。",
+          "mini_headline": "RTX AI限速被破解",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/4Yvp7ck4v6d8JPBoNXVPfe.jpg",
+                "cap": "Nvidia GeForce RTX 4090 Founders Edition（图片来源：Nvidia）"
+              },
+              {
+                "t": "p",
+                "x": "据VideoCardz报道，改装玩家发现可以利用固件漏洞，解除Nvidia RTX 20、30和40-series GPUs上被施加的半速AI性能限制。解除限制后，RTX 4090的峰值张量速率可翻倍，RTX 3090 Ti的矩阵运算最多可提升80%。实际工作负载的提升要小得多，聊天机器人的token速度则基本不变，因为这部分性能取决于内存带宽。"
+              },
+              {
+                "t": "p",
+                "x": "Nvidia对GeForce的限制让FP32-accumulate运算只能以各卡FP16-accumulate速率的一半运行。turing-unlock（RTX 2080 Ti）、gpu-unlock（Ampere）和gpu-unlock-ada（RTX 4090）三个项目通过非官方Linux模块提供解锁；RTX 50（Blackwell）不受支持。"
+              },
+              {
+                "t": "p",
+                "x": "Ada分支开发者的RTX 4090在FP16下从165.6提升至331.6 TFLOPS。不过在一位用户的矩阵乘法基准测试中，cuBLAS GEMM中位数仅提升12–34%（FP16），最多提升20%（BF16）。在Ampere上，LLM prefill提升了14–36%，但LLM decode和INT8“基本持平”。"
+              },
+              {
+                "t": "p",
+                "x": "turing-unlock的README警告该改装“可能损坏你的硬件”，KohakUnlock则称它“可能导致GPU或主机挂起、无法启动、数据损坏或硬件损坏”。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un hack de firmware quita\nel freno tensorial de Nvidia RTX",
+          "body": "Un exploit de firmware quita el límite de AI a media velocidad de las GPUs RTX 20-40 y duplica el pico de la RTX 4090.",
+          "mini_headline": "Hackean el freno de AI de las RTX",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/4Yvp7ck4v6d8JPBoNXVPfe.jpg",
+                "cap": "Nvidia GeForce RTX 4090 Founders Edition (Imagen: Nvidia)"
+              },
+              {
+                "t": "p",
+                "x": "Unos modders han descubierto cómo eliminar, mediante un exploit de firmware, los límites impuestos que reducen a la mitad el rendimiento de AI en las GPUs Nvidia RTX 20, 30 y 40-series, informa VideoCardz. Sin esa limitación, la RTX 4090 puede duplicar su velocidad tensorial máxima, y el cálculo matricial puede mejorar hasta un 80% en la RTX 3090 Ti. Las cargas de trabajo reales ganan bastante menos, y la velocidad de tokens de los chatbots se mantiene más o menos igual, porque ese rendimiento depende del ancho de banda de memoria."
+              },
+              {
+                "t": "p",
+                "x": "El límite de Nvidia para GeForce ejecuta los cálculos FP32-accumulate a la mitad de la velocidad FP16-accumulate de cada tarjeta. Tres proyectos —turing-unlock (RTX 2080 Ti), gpu-unlock (Ampere) y gpu-unlock-ada (RTX 4090)— ofrecen desbloqueos mediante módulos no oficiales de Linux; la RTX 50 (Blackwell) no es compatible."
+              },
+              {
+                "t": "p",
+                "x": "La RTX 4090 del desarrollador del fork de Ada pasó de 165.6 a 331.6 TFLOPS en FP16. Sin embargo, en la prueba de multiplicación de matrices de un propietario, las medianas de cuBLAS GEMM mejoraron solo un 12–34% (FP16) y hasta un 20% (BF16). En Ampere, el prefill de LLM mejoró un 14–36%, pero el decode de LLM y INT8 se quedaron “más o menos igual”."
+              },
+              {
+                "t": "p",
+                "x": "El README de turing-unlock advierte que el mod “puede dañar tu hardware”, y KohakUnlock indica que “puede colgar una GPU o el host, impedir el arranque, corromper datos o dañar el hardware”."
               }
             ]
           }
         }
-      },
-      "i18n_status": {
-        "ko": "fallback",
-        "ja": "fallback",
-        "zh": "fallback"
       }
     },
     {
-      "id": "gadgets-claude-laser-range",
+      "id": "gadgets-even-g2-update",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "모니터를 레이저\n사격장으로 바꾸다",
-      "body": "Claude Code로 모니터를 레이저 사격장으로 바꾸는 게임이 나왔다.",
-      "mini_headline": "Claude Code 레이저 사격장",
+      "headline": "Even Realities\nG2 Pro Mode 추가",
+      "body": "G2에 Conversate Pro Mode와 Knowledge Base가 생긴다.",
+      "mini_headline": "Even Realities G2에 Pro Mode",
       "tool": "Gadgets",
-      "source": "XDA",
-      "url": "https://www.xda-developers.com/someone-turned-their-monitor-into-a-laser-pointer-firing-range-game-using-claude-code/",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/10/26/even-realities-g2-glasses-update-adds-knowledge-based/",
       "accent": "#eb367f",
       "motif": "headset",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/claude-laser-range-featured.jpg?w=1600&h=900&fit=crop"
+            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Even-Realities-G2-smart-glasses-13.jpg?quality=82&strip=all&w=1600"
           },
           {
             "t": "p",
-            "x": "요즘 웹캠을 화면에 비춰 꽤 멋진 걸 만들어 내는 사람들이 있다. 며칠 전에는 Claude가 작업하는 동안 화면을 찍게 해 자기 Samsung TV 보안을 뚫은 사람도 나왔다. 이번엔 누군가 Claude로 라이트건 같은 디지털 사격장을 만들었다. 라이트건 대신 빨간 레이저를 쓴다."
+            "x": "Even Realities가 오늘 G2 스마트 글라스용 새 소프트웨어 버전을 배포한다고 발표했다. 사용자가 알려준 것만 기억하는 개인 지식 베이스도 들어 있다."
           },
           {
             "t": "p",
-            "x": "ClaudeAI 서브레딧에서 사용자 vkorost가 Claude Code로 만들어 온 결과물을 공유했다. 이름은 ScreenPlink다. 빨간 레이저 하나면 모니터가 사격장이 된다."
+            "x": "Conversate에는 새 “Pro Mode”가 생긴다. Knowledge Base에서 데이터를 끌어오는 모드다. Knowledge Base는 사용자가 고른 정보와 데이터를 기억해 두는 기능이다. 모두 G2 버전 2.4.0 업데이트에 담기며, AI 인터페이스도 Even AI 2.0으로 올라간다."
           },
           {
             "t": "p",
-            "x": "“두 주가량 Claude Code로 ScreenPlink를 만들었습니다. 모니터가 표적이 되는 레이저 드라이파이어 사격 게임입니다. 레이저 훈련용 권총이나 자기 총에 넣은 레이저 카트리지로 화면을 쏘면 됩니다. 모니터 옆에 둔 웹캠이 사람이 아니라 화면을 지켜보고, 앱은 맞은 픽셀을 계산해 그 자리에 총알 구멍을 내며, 표적이 쓰러집니다.”"
+            "x": "Conversate 녹음과 직접 올린 파일은 EU에 있는 보안 Google Cloud Platform 서버와 동기화된다. Even AI 2.0과 진행 중인 Conversate 세션은 Knowledge Base에서 맥락을 끌어온다. 설정할 때 Conversate 기록을 최대 10개까지 고를 수 있고, 자동 업로드를 켜지 않으면 새 세션은 자동으로 추가되지 않는다."
           },
           {
             "t": "p",
-            "x": "게임 모드가 여럿이고 두 사람이 함께하는 모드도 있어 예전 PlayStation 라이트건 시절이 떠오른다. 콘솔 먼지를 털지 않고 그 시절을 잠깐 다시 맛보고 싶다면 ScreenPlink GitHub 저장소에 프로젝트가 올라와 있다. 전부 오픈소스에 무료이고, 레이저 포인터만 따로 준비하면 된다."
+            "x": "Even AI 2.0에는 기능이 몇 가지 더해졌다. 터치 센서를 길게 눌러 부를 수 있고, 웨이크 워드를 다시 말하지 않아도 여러 턴 대화가 이어지며, AI 채팅에서 Even Hub 앱을 열고 설정을 바꿀 수 있다. Knowledge Base와 Conversate Pro Mode는 오늘 월간 사용 한도가 걸린 베타로 나온다. 거북 등딱지 무늬 새 색상도 추가됐다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A monitor turned into a\nlaser firing range",
-          "body": "Using Claude Code, someone built a light-gun-style game that turns a monitor into a laser pointer firing range.",
-          "mini_headline": "Claude Code laser range",
+          "headline": "Even Realities G2 update\nadds Pro Mode, Knowledge Base",
+          "body": "Even Realities is rolling out new G2 smart glasses software that adds a Conversate Pro Mode and a Knowledge Base.",
+          "mini_headline": "Even Realities G2 gets Pro Mode",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/claude-laser-range-featured.jpg?w=1600&h=900&fit=crop"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Even-Realities-G2-smart-glasses-13.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "People have been doing some really cool things lately by pointing their webcams at their screens. Just a few days ago, we saw someone breach their Samsung TV by letting Claude take photos of the screen while it was working. Now, someone has used Claude to create a light gun-esque digital shooting range that uses a red laser instead."
+                "x": "Even Realities today announced that a new software version will be rolling out to the G2 smart glasses, complete with a personal knowledge base that only remembers what you tell it."
               },
               {
                 "t": "p",
-                "x": "Over on the ClaudeAI subreddit, user vkorost shared what they've been cooking up with Claude Code. It's called ScreenPlink, and it turns your monitor into a firing range using a red laser:"
+                "x": "Conversate is getting an overhauled “Pro Mode” that pulls data from Knowledge Base, a feature that remembers the information and data you select. The refreshes are in the G2 version 2.4.0 update, which also upgrades the AI interface to Even AI 2.0."
               },
               {
                 "t": "p",
-                "x": "“I built ScreenPlink with Claude Code over about two weeks. It is a laser dry-fire shooting game where your monitor is the target. You shoot the screen with a laser trainer pistol, or with a laser cartridge in your own gun. A webcam sitting beside the monitor watches the screen rather than you, the app works out which pixel you hit, punches a bullet hole there, and the target falls.”"
+                "x": "Conversate recordings and manually uploaded files sync to a secure Google Cloud Platform server in the EU; Even AI 2.0 and active Conversate sessions pull context from the Knowledge Base. Users can select up to 10 Conversate records during setup, and new sessions aren’t added automatically unless auto-upload is toggled on."
               },
               {
                 "t": "p",
-                "x": "There are a bunch of game modes, and it even supports two-player mode, which really brings me back to using a light gun on a PlayStation back in the day. If you want to relive a bit of gaming history without needing to dust off your console, you can check out the project for yourself over on the ScreenPlink GitHub repository. It's all open-source and free to play; you just have to bring your own laser pointer."
+                "x": "Even AI 2.0 adds press-and-hold activation on the touch sensor, multi-turn conversations without a new wake word, and opening Even Hub apps and changing settings from the AI chat. Knowledge Base and Conversate Pro Mode launch today in beta with a monthly usage allowance. There’s also a new tortoiseshell color option."
               }
             ]
           }
         },
         "ko": {
-          "headline": "모니터를 레이저\n사격장으로 바꾸다",
-          "body": "Claude Code로 모니터를 레이저 사격장으로 바꾸는 게임이 나왔다.",
-          "mini_headline": "Claude Code 레이저 사격장",
+          "headline": "Even Realities\nG2 Pro Mode 추가",
+          "body": "G2에 Conversate Pro Mode와 Knowledge Base가 생긴다.",
+          "mini_headline": "Even Realities G2에 Pro Mode",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/claude-laser-range-featured.jpg?w=1600&h=900&fit=crop"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Even-Realities-G2-smart-glasses-13.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "요즘 웹캠을 화면에 비춰 꽤 멋진 걸 만들어 내는 사람들이 있다. 며칠 전에는 Claude가 작업하는 동안 화면을 찍게 해 자기 Samsung TV 보안을 뚫은 사람도 나왔다. 이번엔 누군가 Claude로 라이트건 같은 디지털 사격장을 만들었다. 라이트건 대신 빨간 레이저를 쓴다."
+                "x": "Even Realities가 오늘 G2 스마트 글라스용 새 소프트웨어 버전을 배포한다고 발표했다. 사용자가 알려준 것만 기억하는 개인 지식 베이스도 들어 있다."
               },
               {
                 "t": "p",
-                "x": "ClaudeAI 서브레딧에서 사용자 vkorost가 Claude Code로 만들어 온 결과물을 공유했다. 이름은 ScreenPlink다. 빨간 레이저 하나면 모니터가 사격장이 된다."
+                "x": "Conversate에는 새 “Pro Mode”가 생긴다. Knowledge Base에서 데이터를 끌어오는 모드다. Knowledge Base는 사용자가 고른 정보와 데이터를 기억해 두는 기능이다. 모두 G2 버전 2.4.0 업데이트에 담기며, AI 인터페이스도 Even AI 2.0으로 올라간다."
               },
               {
                 "t": "p",
-                "x": "“두 주가량 Claude Code로 ScreenPlink를 만들었습니다. 모니터가 표적이 되는 레이저 드라이파이어 사격 게임입니다. 레이저 훈련용 권총이나 자기 총에 넣은 레이저 카트리지로 화면을 쏘면 됩니다. 모니터 옆에 둔 웹캠이 사람이 아니라 화면을 지켜보고, 앱은 맞은 픽셀을 계산해 그 자리에 총알 구멍을 내며, 표적이 쓰러집니다.”"
+                "x": "Conversate 녹음과 직접 올린 파일은 EU에 있는 보안 Google Cloud Platform 서버와 동기화된다. Even AI 2.0과 진행 중인 Conversate 세션은 Knowledge Base에서 맥락을 끌어온다. 설정할 때 Conversate 기록을 최대 10개까지 고를 수 있고, 자동 업로드를 켜지 않으면 새 세션은 자동으로 추가되지 않는다."
               },
               {
                 "t": "p",
-                "x": "게임 모드가 여럿이고 두 사람이 함께하는 모드도 있어 예전 PlayStation 라이트건 시절이 떠오른다. 콘솔 먼지를 털지 않고 그 시절을 잠깐 다시 맛보고 싶다면 ScreenPlink GitHub 저장소에 프로젝트가 올라와 있다. 전부 오픈소스에 무료이고, 레이저 포인터만 따로 준비하면 된다."
+                "x": "Even AI 2.0에는 기능이 몇 가지 더해졌다. 터치 센서를 길게 눌러 부를 수 있고, 웨이크 워드를 다시 말하지 않아도 여러 턴 대화가 이어지며, AI 채팅에서 Even Hub 앱을 열고 설정을 바꿀 수 있다. Knowledge Base와 Conversate Pro Mode는 오늘 월간 사용 한도가 걸린 베타로 나온다. 거북 등딱지 무늬 새 색상도 추가됐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "モニターが\nレーザー射撃場に",
-          "body": "Claude Codeを使い、モニターをレーザーポインター射撃場に変えるゲームが作られた。",
-          "mini_headline": "Claude Codeでレーザー射撃場",
+          "headline": "Even Realities\nG2にPro Mode追加",
+          "body": "G2の新版にConversate Pro ModeとKnowledge Baseが加わる。",
+          "mini_headline": "Even Realities G2にPro Mode",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/claude-laser-range-featured.jpg?w=1600&h=900&fit=crop"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Even-Realities-G2-smart-glasses-13.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "最近、ウェブカメラを画面に向けて面白いことをする人が増えている。ほんの数日前には、Claudeに作業中の画面を撮影させてSamsung TVへの侵入に成功した例があった。そして今度は、Claudeを使ってライトガン風のデジタル射撃場を作った人が現れた。ただし使うのは赤いレーザーだ。"
+                "x": "Even Realitiesは本日、G2スマートグラスに新しいソフトウェアバージョンを配信すると発表した。ユーザーが伝えたことだけを記憶する個人用ナレッジベースも備える。"
               },
               {
                 "t": "p",
-                "x": "ClaudeAIのサブレディットで、ユーザーのvkorostがClaude Codeで作ってきたものを公開した。その名はScreenPlinkで、赤いレーザーを使ってモニターを射撃場に変える。"
+                "x": "Conversateには、Knowledge Baseからデータを取り込む刷新された「Pro Mode」が加わる。Knowledge Baseは、ユーザーが選んだ情報やデータを記憶する機能だ。これらの刷新はG2バージョン2.4.0アップデートに含まれ、AIインターフェースもEven AI 2.0に更新される。"
               },
               {
                 "t": "p",
-                "x": "「ScreenPlinkは約二週間かけてClaude Codeで作りました。モニターを標的にするレーザー・ドライファイア射撃ゲームです。レーザートレーナー用のピストルや、自分の銃に装填したレーザーカートリッジで画面を撃ちます。モニターの横に置いたウェブカメラがあなたではなく画面を見ていて、アプリが命中したピクセルを割り出し、そこに弾痕を開け、標的が倒れます。」"
+                "x": "Conversateの録音と手動でアップロードしたファイルはEUにある安全なGoogle Cloud Platformサーバーと同期され、Even AI 2.0と進行中のConversateセッションはKnowledge Baseから文脈を取得する。ユーザーはセットアップ時に最大10件のConversate記録を選べ、自動アップロードをオンにしない限り新しいセッションは自動では追加されない。"
               },
               {
                 "t": "p",
-                "x": "ゲームモードは多数あり、二人プレイにも対応している。かつてPlayStationでライトガンを使っていた頃を思い出させてくれる。ゲーム機のほこりを払わずにゲームの歴史を少し味わいたいなら、ScreenPlinkのGitHubリポジトリでプロジェクトを確認できる。すべてオープンソースで無料で遊べる。用意するのはレーザーポインターだけだ。"
+                "x": "Even AI 2.0では、タッチセンサーの長押しによる起動、ウェイクワードを言い直さずに続けられるマルチターン会話、AIチャットからのEven Hubアプリの起動や設定変更が加わった。Knowledge BaseとConversate Pro Modeは本日、月間利用枠付きのベータ版として提供が始まる。べっ甲柄の新色も用意された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "把显示器变成\n激光射击场",
-          "body": "有人用Claude Code打造光枪风格游戏，把显示器变成激光笔射击场。",
-          "mini_headline": "Claude Code激光射击场",
+          "headline": "Even Realities\nG2新增Pro Mode",
+          "body": "G2新软件新增Conversate Pro Mode与Knowledge Base。",
+          "mini_headline": "Even Realities G2迎来Pro Mode",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/claude-laser-range-featured.jpg?w=1600&h=900&fit=crop"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Even-Realities-G2-smart-glasses-13.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "最近，有人把摄像头对准屏幕，玩出了不少很酷的花样。就在几天前，有人让Claude在工作时拍摄屏幕，从而攻破了自家的Samsung TV。如今，又有人用Claude打造出类似光枪的数字射击场，只不过用的是红色激光。"
+                "x": "Even Realities今天宣布，将为G2智能眼镜推送新软件版本，其中包括一个只记住你告诉它的内容的个人知识库。"
               },
               {
                 "t": "p",
-                "x": "在ClaudeAI子版块上，用户vkorost分享了用Claude Code做出的作品。它名叫ScreenPlink，能用红色激光把显示器变成射击场："
+                "x": "Conversate将迎来全面改版的“Pro Mode”，可从Knowledge Base调取数据；Knowledge Base是一项会记住你所选信息和数据的功能。这些更新包含在G2 2.4.0版本更新中，该更新还将AI界面升级为Even AI 2.0。"
               },
               {
                 "t": "p",
-                "x": "“我用Claude Code花了大约两周做出ScreenPlink。这是以显示器为靶子的激光空枪射击游戏。你可以用激光训练手枪，或在自己的枪里装上激光弹，向屏幕射击。放在显示器旁的摄像头盯着的是屏幕而不是你，应用会算出你击中的像素，在那里打出弹孔，靶子随之倒下。”"
+                "x": "Conversate录音和手动上传的文件会同步到位于EU的安全Google Cloud Platform服务器；Even AI 2.0和进行中的Conversate会话会从Knowledge Base调取上下文。用户在设置时最多可选择10条Conversate记录，除非开启自动上传，否则新会话不会被自动添加。"
               },
               {
                 "t": "p",
-                "x": "游戏有多种模式，甚至支持双人模式，让我想起当年在PlayStation上玩光枪的日子。如果你想不必给主机掸灰就重温游戏历史，可以到ScreenPlink的GitHub仓库亲自看看这个项目。它完全开源、免费游玩，你只需自备激光笔。"
+                "x": "Even AI 2.0新增了长按触控传感器唤醒、无需再次说出唤醒词的多轮对话，以及在AI聊天中打开Even Hub应用和更改设置等功能。Knowledge Base和Conversate Pro Mode今天以测试版形式推出，并设有每月使用额度。此外还新增了玳瑁色配色。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un monitor convertido\nen campo de tiro láser",
-          "body": "Con Claude Code, alguien creó un juego al estilo pistola de luz que convierte un monitor en un campo de tiro láser.",
-          "mini_headline": "Campo de tiro láser con Claude Code",
+          "headline": "Even Realities G2 suma Pro Mode\ny Knowledge Base",
+          "body": "Even Realities despliega un nuevo software para las gafas G2 que añade Conversate Pro Mode y Knowledge Base.",
+          "mini_headline": "Even Realities G2 recibe Pro Mode",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/claude-laser-range-featured.jpg?w=1600&h=900&fit=crop"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Even-Realities-G2-smart-glasses-13.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "Últimamente la gente hace cosas muy interesantes apuntando sus webcams a sus pantallas. Hace solo unos días vimos a alguien vulnerar su Samsung TV dejando que Claude tomara fotos de la pantalla mientras trabajaba. Ahora, alguien ha usado Claude para crear un campo de tiro digital al estilo de una pistola de luz que, en su lugar, usa un láser rojo."
+                "x": "Even Realities anunció hoy que una nueva versión de software llegará a las gafas inteligentes G2, con una base de conocimiento personal que solo recuerda lo que el usuario le indica."
               },
               {
                 "t": "p",
-                "x": "En el subreddit de ClaudeAI, el usuario vkorost compartió lo que ha estado preparando con Claude Code. Se llama ScreenPlink y convierte tu monitor en un campo de tiro mediante un láser rojo:"
+                "x": "Conversate recibe un “Pro Mode” renovado que toma datos de Knowledge Base, una función que recuerda la información y los datos que el usuario selecciona. Las novedades llegan con la actualización G2 versión 2.4.0, que además actualiza la interfaz de AI a Even AI 2.0."
               },
               {
                 "t": "p",
-                "x": "“Creé ScreenPlink con Claude Code en unas dos semanas. Es un juego de tiro láser en seco en el que tu monitor es el blanco. Disparas a la pantalla con una pistola láser de entrenamiento o con un cartucho láser en tu propia arma. Una webcam colocada junto al monitor observa la pantalla y no a ti, la app calcula qué píxel has acertado, dibuja un agujero de bala ahí y el blanco cae.”"
+                "x": "Las grabaciones de Conversate y los archivos subidos manualmente se sincronizan con un servidor seguro de Google Cloud Platform en la EU; Even AI 2.0 y las sesiones activas de Conversate toman contexto de Knowledge Base. Durante la configuración se pueden seleccionar hasta 10 registros de Conversate, y las sesiones nuevas no se añaden automáticamente salvo que se active la subida automática."
               },
               {
                 "t": "p",
-                "x": "Hay varios modos de juego e incluso admite un modo para dos jugadores, lo que me recuerda a cuando usaba una pistola de luz en una PlayStation hace años. Si quieres revivir un poco de historia de los videojuegos sin desempolvar tu consola, puedes ver el proyecto en el repositorio de GitHub de ScreenPlink. Es de código abierto y gratuito; solo tienes que poner tu propio puntero láser."
+                "x": "Even AI 2.0 añade la activación manteniendo pulsado el sensor táctil, conversaciones de varios turnos sin repetir la palabra de activación, y la posibilidad de abrir apps de Even Hub y cambiar ajustes desde el chat de AI. Knowledge Base y Conversate Pro Mode se lanzan hoy en beta con un límite de uso mensual. También hay una nueva opción de color carey."
               }
             ]
           }
@@ -1530,121 +1871,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "모니터를 레이저\n사격장으로 바꾸다",
-          "body": "Claude Code로 모니터를 레이저 사격장으로 바꾸는 게임이 나왔다.",
-          "mini_headline": "Claude Code 레이저 사격장",
+          "headline": "Even Realities\nG2 Pro Mode 추가",
+          "body": "G2에 Conversate Pro Mode와 Knowledge Base가 생긴다.",
+          "mini_headline": "Even Realities G2에 Pro Mode",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/claude-laser-range-featured.jpg?w=1600&h=900&fit=crop"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Even-Realities-G2-smart-glasses-13.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "요즘 웹캠을 화면에 비추는 방식으로 꽤 멋진 일을 해내는 사람들이 있다. 불과 며칠 전에는 Claude가 작업하는 동안 화면을 촬영하게 해서 자신의 Samsung TV 보안을 뚫은 사례도 있었다. 이번에는 누군가 Claude로 라이트건 같은 디지털 사격장을 만들었는데, 대신 빨간 레이저를 쓴다."
+                "x": "Even Realities는 오늘 G2 스마트 글라스에 새 소프트웨어 버전을 배포한다고 발표했다. 사용자가 알려준 것만 기억하는 개인 지식 베이스도 함께 담겼다."
               },
               {
                 "t": "p",
-                "x": "ClaudeAI 서브레딧에서 사용자 vkorost가 Claude Code로 만들어 온 결과물을 공유했다. 이름은 ScreenPlink이며, 빨간 레이저로 모니터를 사격장으로 바꿔 준다."
+                "x": "Conversate에는 Knowledge Base에서 데이터를 가져오는 새 “Pro Mode”가 들어간다. Knowledge Base는 사용자가 고른 정보와 데이터를 기억하는 기능이다. 이번 변화는 G2 버전 2.4.0 업데이트에 포함되며, AI 인터페이스도 Even AI 2.0으로 올라간다."
               },
               {
                 "t": "p",
-                "x": "“두 주가량 Claude Code로 ScreenPlink를 만들었습니다. 모니터가 표적이 되는 레이저 드라이파이어 사격 게임입니다. 레이저 훈련용 권총이나 자기 총에 넣은 레이저 카트리지로 화면을 쏘면 됩니다. 모니터 옆에 둔 웹캠이 사람이 아니라 화면을 지켜보고, 앱은 맞은 픽셀을 계산해 그 자리에 총알 구멍을 내며, 표적이 쓰러집니다.”"
+                "x": "Conversate 녹음과 직접 올린 파일은 EU에 있는 보안 Google Cloud Platform 서버와 동기화되며, Even AI 2.0과 진행 중인 Conversate 세션은 Knowledge Base에서 맥락을 가져온다. 사용자는 설정 과정에서 Conversate 기록을 최대 10개까지 고를 수 있고, 자동 업로드를 켜지 않으면 새 세션은 자동으로 추가되지 않는다."
               },
               {
                 "t": "p",
-                "x": "게임 모드가 여럿이고 두 사람이 함께하는 모드도 지원해, 예전에 PlayStation에서 라이트건을 쓰던 기억이 떠오른다. 콘솔의 먼지를 털지 않고도 게임 역사를 잠시 다시 즐기고 싶다면 ScreenPlink GitHub 저장소에서 직접 프로젝트를 확인할 수 있다. 전부 오픈소스이고 무료로 즐길 수 있으며, 레이저 포인터만 직접 준비하면 된다."
+                "x": "Even AI 2.0은 터치 센서를 길게 눌러 호출하는 기능, 웨이크 워드를 다시 말하지 않아도 이어지는 다중 턴 대화, AI 채팅에서 Even Hub 앱을 열고 설정을 바꾸는 기능을 더했다. Knowledge Base와 Conversate Pro Mode는 오늘 월간 사용 한도가 있는 베타로 출시된다. 거북 등딱지 무늬의 새 색상도 나왔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "モニターが\nレーザー射撃場に",
-          "body": "Claude Codeを使い、モニターをレーザーポインター射撃場に変えるゲームが作られた。",
-          "mini_headline": "Claude Codeでレーザー射撃場",
+          "headline": "Even Realities\nG2にPro Mode追加",
+          "body": "G2の新版にConversate Pro ModeとKnowledge Baseが加わる。",
+          "mini_headline": "Even Realities G2にPro Mode",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/claude-laser-range-featured.jpg?w=1600&h=900&fit=crop"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Even-Realities-G2-smart-glasses-13.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "最近、ウェブカメラを画面に向けて面白いことをする人が増えている。ほんの数日前には、Claudeに作業中の画面を撮影させてSamsung TVへの侵入に成功した例があった。そして今度は、Claudeを使ってライトガン風のデジタル射撃場を作った人が現れた。ただし使うのは赤いレーザーだ。"
+                "x": "Even Realitiesは本日、G2スマートグラスに新しいソフトウェアバージョンを配信すると発表した。ユーザーが伝えたことだけを記憶する個人用ナレッジベースも備える。"
               },
               {
                 "t": "p",
-                "x": "ClaudeAIのサブレディットで、ユーザーのvkorostがClaude Codeで作ってきたものを公開した。その名はScreenPlinkで、赤いレーザーを使ってモニターを射撃場に変える。"
+                "x": "Conversateには、Knowledge Baseからデータを取り込む刷新された「Pro Mode」が加わる。Knowledge Baseは、ユーザーが選んだ情報やデータを記憶する機能だ。これらの刷新はG2バージョン2.4.0アップデートに含まれ、AIインターフェースもEven AI 2.0に更新される。"
               },
               {
                 "t": "p",
-                "x": "「ScreenPlinkは約二週間かけてClaude Codeで作りました。モニターを標的にするレーザー・ドライファイア射撃ゲームです。レーザートレーナー用のピストルや、自分の銃に装填したレーザーカートリッジで画面を撃ちます。モニターの横に置いたウェブカメラがあなたではなく画面を見ていて、アプリが命中したピクセルを割り出し、そこに弾痕を開け、標的が倒れます。」"
+                "x": "Conversateの録音と手動でアップロードしたファイルはEUにある安全なGoogle Cloud Platformサーバーと同期され、Even AI 2.0と進行中のConversateセッションはKnowledge Baseから文脈を取得する。ユーザーはセットアップ時に最大10件のConversate記録を選べ、自動アップロードをオンにしない限り新しいセッションは自動では追加されない。"
               },
               {
                 "t": "p",
-                "x": "ゲームモードは多数あり、二人プレイにも対応している。かつてPlayStationでライトガンを使っていた頃を思い出させてくれる。ゲーム機のほこりを払わずにゲームの歴史を少し味わいたいなら、ScreenPlinkのGitHubリポジトリでプロジェクトを確認できる。すべてオープンソースで無料で遊べる。用意するのはレーザーポインターだけだ。"
+                "x": "Even AI 2.0では、タッチセンサーの長押しによる起動、ウェイクワードを言い直さずに続けられるマルチターン会話、AIチャットからのEven Hubアプリの起動や設定変更が加わった。Knowledge BaseとConversate Pro Modeは本日、月間利用枠付きのベータ版として提供が始まる。べっ甲柄の新色も用意された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "把显示器变成\n激光射击场",
-          "body": "有人用Claude Code打造光枪风格游戏，把显示器变成激光笔射击场。",
-          "mini_headline": "Claude Code激光射击场",
+          "headline": "Even Realities\nG2新增Pro Mode",
+          "body": "G2新软件新增Conversate Pro Mode与Knowledge Base。",
+          "mini_headline": "Even Realities G2迎来Pro Mode",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/claude-laser-range-featured.jpg?w=1600&h=900&fit=crop"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Even-Realities-G2-smart-glasses-13.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "最近，有人把摄像头对准屏幕，玩出了不少很酷的花样。就在几天前，有人让Claude在工作时拍摄屏幕，从而攻破了自家的Samsung TV。如今，又有人用Claude打造出类似光枪的数字射击场，只不过用的是红色激光。"
+                "x": "Even Realities今天宣布，将为G2智能眼镜推送新软件版本，其中包括一个只记住你告诉它的内容的个人知识库。"
               },
               {
                 "t": "p",
-                "x": "在ClaudeAI子版块上，用户vkorost分享了用Claude Code做出的作品。它名叫ScreenPlink，能用红色激光把显示器变成射击场："
+                "x": "Conversate将迎来全面改版的“Pro Mode”，可从Knowledge Base调取数据；Knowledge Base是一项会记住你所选信息和数据的功能。这些更新包含在G2 2.4.0版本更新中，该更新还将AI界面升级为Even AI 2.0。"
               },
               {
                 "t": "p",
-                "x": "“我用Claude Code花了大约两周做出ScreenPlink。这是以显示器为靶子的激光空枪射击游戏。你可以用激光训练手枪，或在自己的枪里装上激光弹，向屏幕射击。放在显示器旁的摄像头盯着的是屏幕而不是你，应用会算出你击中的像素，在那里打出弹孔，靶子随之倒下。”"
+                "x": "Conversate录音和手动上传的文件会同步到位于EU的安全Google Cloud Platform服务器；Even AI 2.0和进行中的Conversate会话会从Knowledge Base调取上下文。用户在设置时最多可选择10条Conversate记录，除非开启自动上传，否则新会话不会被自动添加。"
               },
               {
                 "t": "p",
-                "x": "游戏有多种模式，甚至支持双人模式，让我想起当年在PlayStation上玩光枪的日子。如果你想不必给主机掸灰就重温游戏历史，可以到ScreenPlink的GitHub仓库亲自看看这个项目。它完全开源、免费游玩，你只需自备激光笔。"
+                "x": "Even AI 2.0新增了长按触控传感器唤醒、无需再次说出唤醒词的多轮对话，以及在AI聊天中打开Even Hub应用和更改设置等功能。Knowledge Base和Conversate Pro Mode今天以测试版形式推出，并设有每月使用额度。此外还新增了玳瑁色配色。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un monitor convertido\nen campo de tiro láser",
-          "body": "Con Claude Code, alguien creó un juego al estilo pistola de luz que convierte un monitor en un campo de tiro láser.",
-          "mini_headline": "Campo de tiro láser con Claude Code",
+          "headline": "Even Realities G2 suma Pro Mode\ny Knowledge Base",
+          "body": "Even Realities despliega un nuevo software para las gafas G2 que añade Conversate Pro Mode y Knowledge Base.",
+          "mini_headline": "Even Realities G2 recibe Pro Mode",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/10/claude-laser-range-featured.jpg?w=1600&h=900&fit=crop"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Even-Realities-G2-smart-glasses-13.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "Últimamente la gente hace cosas muy interesantes apuntando sus webcams a sus pantallas. Hace solo unos días vimos a alguien vulnerar su Samsung TV dejando que Claude tomara fotos de la pantalla mientras trabajaba. Ahora, alguien ha usado Claude para crear un campo de tiro digital al estilo de una pistola de luz que, en su lugar, usa un láser rojo."
+                "x": "Even Realities anunció hoy que una nueva versión de software llegará a las gafas inteligentes G2, con una base de conocimiento personal que solo recuerda lo que el usuario le indica."
               },
               {
                 "t": "p",
-                "x": "En el subreddit de ClaudeAI, el usuario vkorost compartió lo que ha estado preparando con Claude Code. Se llama ScreenPlink y convierte tu monitor en un campo de tiro mediante un láser rojo:"
+                "x": "Conversate recibe un “Pro Mode” renovado que toma datos de Knowledge Base, una función que recuerda la información y los datos que el usuario selecciona. Las novedades llegan con la actualización G2 versión 2.4.0, que además actualiza la interfaz de AI a Even AI 2.0."
               },
               {
                 "t": "p",
-                "x": "“Creé ScreenPlink con Claude Code en unas dos semanas. Es un juego de tiro láser en seco en el que tu monitor es el blanco. Disparas a la pantalla con una pistola láser de entrenamiento o con un cartucho láser en tu propia arma. Una webcam colocada junto al monitor observa la pantalla y no a ti, la app calcula qué píxel has acertado, dibuja un agujero de bala ahí y el blanco cae.”"
+                "x": "Las grabaciones de Conversate y los archivos subidos manualmente se sincronizan con un servidor seguro de Google Cloud Platform en la EU; Even AI 2.0 y las sesiones activas de Conversate toman contexto de Knowledge Base. Durante la configuración se pueden seleccionar hasta 10 registros de Conversate, y las sesiones nuevas no se añaden automáticamente salvo que se active la subida automática."
               },
               {
                 "t": "p",
-                "x": "Hay varios modos de juego e incluso admite un modo para dos jugadores, lo que me recuerda a cuando usaba una pistola de luz en una PlayStation hace años. Si quieres revivir un poco de historia de los videojuegos sin desempolvar tu consola, puedes ver el proyecto en el repositorio de GitHub de ScreenPlink. Es de código abierto y gratuito; solo tienes que poner tu propio puntero láser."
+                "x": "Even AI 2.0 añade la activación manteniendo pulsado el sensor táctil, conversaciones de varios turnos sin repetir la palabra de activación, y la posibilidad de abrir apps de Even Hub y cambiar ajustes desde el chat de AI. Knowledge Base y Conversate Pro Mode se lanzan hoy en beta con un límite de uso mensual. También hay una nueva opción de color carey."
               }
             ]
           }

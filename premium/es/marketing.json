@@ -2395,6 +2395,150 @@
           "x": "La oficina del senador estatal Nick Pisciottano, que presentó el proyecto de ley, no respondió de inmediato a una solicitud de comentarios."
         }
       ]
+    },
+    "marketing/marketing-therealreal-ai-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "cap": "Imagen: Cath Virginia / The Verge, Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "The RealReal, minorista de moda de lujo de segunda mano en consignación, dijo que está actualizando su sistema de defensa contra bots, lo que en la práctica dificulta que los agentes de AI compren en su sitio."
+        },
+        {
+          "t": "p",
+          "x": "El cambio llega días después de que The Verge informara de que un agente de AI podía usarse para aprovecharse del sistema de reserva de artículos de The RealReal. En la web del minorista, un artículo queda “en espera” (on hold) y otros clientes no pueden comprarlo durante 20 minutos una vez que un usuario lo coloca en su carrito. Con Muse de Meta, The Verge pudo ordenar al agente de AI que volviera a añadir continuamente artículos de The RealReal al carrito en cuanto expiraba la reserva de 20 minutos, lo que impedía a otros compradores adquirir productos durante horas o más."
+        },
+        {
+          "t": "p",
+          "x": "El director de tecnología, Luke Friang, dijo que la empresa había resuelto el caso de uso de Muse. La configuración de defensa contra bots de The RealReal hace ahora mucho más difícil que cualquier agente inicie sesión, añada artículos al carrito y pague. Los agentes podrán seguir mostrando artículos de The RealReal y dirigir a los usuarios de Muse a las páginas de producto."
+        },
+        {
+          "t": "p",
+          "x": "Meta dijo en su presentación de resultados del Q3 este mes que las compras eran hasta ahora el uso más común de Muse y que el gasto medio superaba los $200. La empresa dijo que 10 millones de personas en Estados Unidos (US) habían descargado la app en 40 días. Los minoristas, sobre todo Amazon, han bloqueado a los agentes para que no compren en sus sitios."
+        }
+      ]
+    },
+    "marketing/marketing-fanatics-openai-shopping": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Fanatics, empresa global de MD deportivo, se ha aliado con OpenAI para lanzar una función de compra que recomienda gorras, calcetines y otros artículos que combinan con una camiseta. Propone combinaciones acordes con el equipo que apoya el cliente y el estilo que busca entre más de 1,5 millones de productos, para ayudarle a explorar el catálogo."
+        },
+        {
+          "t": "p",
+          "x": "Según CNBC el día 26 (hora local), Fanatics introdujo la función 'Shop the Look', desarrollada con Codex, la herramienta de programación de OpenAI. En cada página de producto recomienda artículos que conviene llevar juntos según el equipo y el estilo. Las combinaciones se forman con productos en existencia."
+        },
+        {
+          "t": "img",
+          "src": "https://image.zdnet.co.kr/2026/10/27/f7932f2f8a313f149fa817c83ffd792c.png",
+          "cap": "La función 'Shop the Look' que Fanatics lanzó junto con OpenAI. (Foto=sitio web de Fanatics)"
+        },
+        {
+          "t": "p",
+          "x": "Justin Chai, director de producto (CPO) de Fanatics Commerce, explicó que era habitual que los clientes pasaran más de 30 minutos de media en cada compra. Con más de 1000 productos nuevos cada semana, también aumentó el tiempo necesario para explorar."
+        },
+        {
+          "t": "p",
+          "x": "\"Ningún aficionado de Los Angeles Dodgers quiere que le recomienden a la vez productos de San Francisco Giants\", dijo Chai, y añadió: \"En nuestro negocio, que el equipo y el jugador coincidan es sumamente importante\"."
+        },
+        {
+          "t": "p",
+          "x": "Shop the Look analiza datos de productos y del catálogo con una herramienta desarrollada con Codex, encuentra artículos que combinan entre sí y reevalúa sus recomendaciones. Según Chai, las visualizaciones de productos recomendados aumentaron un 10% desde la llegada de la función."
+        },
+        {
+          "t": "p",
+          "x": "Según CNBC, OpenAI cerró su negocio 'Instant Checkout', que permitía comprar productos directamente dentro de ChatGPT, y trabaja con minoristas en el desarrollo de apps propias dentro de ChatGPT."
+        }
+      ]
+    },
+    "marketing/marketing-ai-personalized-pricing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En Estados Unidos crece la preocupación de que las empresas de distribución y restauración usen la inteligencia artificial (AI) y datos personales para fijar precios distintos a cada consumidor. Las empresas niegan aplicar en la práctica este tipo de precios, pero a medida que se extiende la inquietud de los consumidores, también se suceden las regulaciones."
+        },
+        {
+          "t": "p",
+          "x": "Según informó el Wall Street Journal (WSJ) el día 26 (hora local), los consumidores estadounidenses temen que minoristas, restaurantes, servicios de transporte con conductor y empresas de alimentación usen la AI y los datos de los consumidores para detectar los hábitos de compra o las necesidades urgentes de cada persona y luego subir los precios."
+        },
+        {
+          "t": "img",
+          "src": "https://image.zdnet.co.kr/2026/06/06/a307341ee630b390235c542bfeaf83a3.jpg",
+          "cap": "(Foto=Pixabay)"
+        },
+        {
+          "t": "p",
+          "x": "La preocupación ha crecido porque las empresas disponen ahora de muchos más datos personales, como el historial de compras y el nivel de ingresos de los consumidores, y pueden analizarlos con rapidez gracias a la AI. La inquietud es especialmente grande en torno a las etiquetas electrónicas de estantería (ESL), pero los estudios realizados en Estados Unidos y Europa no han hallado pruebas claras de que hayan llevado a subidas de precio ligadas a picos de demanda."
+        },
+        {
+          "t": "p",
+          "x": "Grandes empresas como Walmart y McDonald's también han afirmado que no fijan precios individualizados."
+        },
+        {
+          "t": "p",
+          "x": "Aun así, las iniciativas regulatorias se extienden. El estado de Nueva York aprobó una ley que obliga a las empresas a informar a los consumidores cuando usan algoritmos para fijar el precio de sus productos. Maryland, Connecticut, Nueva Jersey y otros también aprobaron este año leyes que limitan algunas prácticas de fijación de precios basadas en datos personales. La Comisión Federal de Comercio de Estados Unidos (FTC) también propuso este verano medidas para regular la discriminación de precios mediante información personal."
+        }
+      ]
+    },
+    "marketing/marketing-google-ads-ai-max-experiment": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-click-logo-BmIQBDor.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google Ads actualizó su página de preguntas frecuentes sobre las campañas de búsqueda AI Max con una sección sobre los experimentos 1-click de AI Max. Google escribió en el documento: \"Si tu cuenta es apta, es posible que encuentres una recomendación de experimento 1-click en tu página Recommendations\"."
+        },
+        {
+          "t": "p",
+          "x": "Vi esta actualización gracias a Hana Kobzova, que escribió sobre ello en PPC News Feed: \"Probar AI Max acaba de volverse más fácil y granular en las campañas de Search. Las cuentas aptas ya pueden usar una configuración 1-click para crear automáticamente un experimento 50/50 a través de Recommendations. Además, los anunciantes pueden ajustar manualmente los experimentos a nivel de grupo de anuncios\"."
+        },
+        {
+          "t": "p",
+          "x": "La nueva sección dice:"
+        },
+        {
+          "t": "p",
+          "x": "¿Cómo funciona el experimento 1-click de AI Max? Si tu cuenta es apta, es posible que encuentres una recomendación de experimento 1-click en tu página Recommendations. Al seleccionar Create 1-click experiment automatically, se configura una prueba dividida 50/50 que compara tu campaña base de Search con un grupo de tratamiento de AI Max, sin necesidad de configuración manual."
+        },
+        {
+          "t": "p",
+          "x": "Creo que Google también añadió esta sección a este documento durante el último mes:"
+        },
+        {
+          "t": "p",
+          "x": "¿Puedo probar AI Max en grupos de anuncios específicos al configurar el experimento? Sí. Al crear un experimento de AI Max en la pestaña Experiments, puedes usar controles granulares durante la construcción del experimento. Esto permite activar o desactivar de forma selectiva Search term matching o Asset optimization en grupos de anuncios concretos del grupo de tratamiento, mientras el grupo de control mantiene la configuración de tu campaña base."
+        }
+      ]
+    },
+    "marketing/marketing-review-summary-search-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/google-ai-review-summaries-search-ads-positive-only-billboard-hand.jpg",
+          "cap": "Google AI elige solo reseñas positivas para resúmenes en anuncios de Search que el anunciante no puede editar en 4 mercados"
+        },
+        {
+          "t": "p",
+          "x": "Google ha publicado una página de ayuda que describe los resúmenes de reseñas AI-generated que aparecen dentro de los anuncios de Search en Estados Unidos, Reino Unido, Australia e India. Toman comentarios positivos de reseñas de toda la web y los incorporan al texto del anuncio sin que los anunciantes puedan editar lo que se dice de ellos. PPC News Feed informó primero sobre la página el 24 de octubre de 2026 y atribuyó el hallazgo a Hana Kobzová."
+        },
+        {
+          "t": "p",
+          "x": "\"Los resúmenes de reseñas en Search son resúmenes AI-powered de reseñas en línea que aparecen directamente como parte de sus anuncios de Search\", según Google. \"Estos resúmenes son solo positivos\". La página, sin fecha, no indica las fuentes de las reseñas, ni un número mínimo de reseñas, ni una forma de activar o desactivar la función."
+        },
+        {
+          "t": "p",
+          "x": "Pueden optar las campañas de Search, en todas las posiciones de Google.com, en inglés en US, AU, UK e IN, y todos los sectores salvo categorías sensibles como los productos farmacéuticos. \"Google solo muestra resúmenes de reseñas cuando se prevé que mejoren el rendimiento del anuncio\", afirma la página, sin definir la métrica."
+        },
+        {
+          "t": "p",
+          "x": "\"Como los resúmenes de reseñas representan la opinión de los usuarios, los anunciantes no pueden editar ni personalizar directamente el texto generado\", según Google. La página no cita resultados de pruebas ni cifras de mejora, y no aclara si se aplican los controles automáticos de recursos a nivel de cuenta. El formato se prueba en resultados reales desde diciembre de 2025."
+        }
+      ]
     }
   }
 }

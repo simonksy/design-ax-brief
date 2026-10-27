@@ -2307,6 +2307,104 @@
           "x": "该设备现已面向U.S.消费者上市，国际市场也在逐步推出。"
         }
       ]
+    },
+    "medicine/medicine-heidi-scribe": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "研究人员发现，在门诊中使用AI-driven环境记录工具，与记录用时减少、病历篇幅增加相关，但其他生产力指标基本未变。"
+        },
+        {
+          "t": "p",
+          "x": "据波士顿Beth Israel Deaconess Medical Center的Jennifer P. Stevens, MD及其同事介绍，临床医生注册Heidi后，全部用户的病历书写用时中位数从21分钟降至18.6分钟，病历长度中位数从4,854字符增至5,187字符。不过，他们在Annals of Internal Medicine上报告称，当日或下班后完成病历的情况以及临床生产力均无差异。"
+        },
+        {
+          "t": "p",
+          "x": "在拥有14家医院的Beth Israel Lahey Health体系中，符合纳入标准的902名临床医生里有67.0%至少使用过一次Heidi。高频用户病历书写用时的即时降幅（-2.50分钟）显著大于已注册未使用者（-0.29分钟）和低频用户（-0.78分钟）。"
+        },
+        {
+          "t": "p",
+          "x": "Rice University的Kirsten Ostherr, PhD, MPH在随附社论中指出，该研究未统计在Heidi内编辑病历所花的时间，这“提出了一个重要问题：环境记录工具究竟是减轻了文书负担，还是只是把负担转移了”。"
+        }
+      ]
+    },
+    "medicine/medicine-pa-ai-disclosure": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-03/istock-2214959014.jpg?h=140710cd&itok=VthZy7qr",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Pennsylvania州众议院于9月30日以144-59的票数通过House Bill 1925，该法案包含医疗机构披露规则，并限制保险公司在使用审查中依赖AI。修订后的法案已于10月14日提交州参议院Institutional Sustainability and Innovation Committee，目前仍待参议院审议。"
+        },
+        {
+          "t": "p",
+          "x": "该法案一旦生效，包括影像中心在内的医疗机构须在每个诊疗周期内披露一次其在临床决策中使用AI的情况，方式为网站公示和书面告知患者。医疗机构须至少每年一次审查AI系统的表现，并确保该技术不会凌驾于医务人员独立的临床判断之上。"
+        },
+        {
+          "t": "p",
+          "x": "在作出或维持不利的保险覆盖决定（如拒绝事先授权）之前，负责使用审查的人员须审阅临床记录并作出自己的独立判断，而不能在缺乏人工监督的情况下依赖AI建议。American College of Radiology预计，2027年各州立法会期中将出现类似提案。"
+        }
+      ]
+    },
+    "medicine/medicine-coreline-aorta": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "总部位于韩国首尔的AI开发商Coreline Soft已就其胸部CT主动脉定量评估软件Aview Aorta Metrics获得U.S.食品药品监督管理局（FDA）510(k)许可。"
+        },
+        {
+          "t": "p",
+          "x": "据该公司介绍，该软件可从胸部CT图像中自动分割主动脉、划分主动脉分区并测量各分区直径。Coreline Soft表示，它还提供拉直曲面重建（straightened curved planar reformation）、横断面和3D视图以及分析报告。"
+        },
+        {
+          "t": "p",
+          "x": "该公司称，这是Coreline Soft获得的第13项FDA 510(k)许可。Aview Aorta Metrics将加入公司用于胸部CT多病种分析的Aview平台，该平台包括用于肺结节检测与分析的Aview LCS和Aview Lung Nodule CAD，以及在非增强胸部CT上进行冠状动脉钙化评分的Aview CAC。"
+        }
+      ]
+    },
+    "medicine/medicine-night-shift": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "据德国Aachen University Hospital于10月22日发表在European Radiology上的一项研究，疲劳的放射科住院医师在夜班后胸部x-ray判读准确率显著下降，而AI帮助甚微。"
+        },
+        {
+          "t": "p",
+          "x": "十名放射科住院医师各自判读了三组、每组33张床旁胸部x-ray：两次在院内first-call夜班之前，一次在夜班刚结束后；后者分别在有、无团队此前开发模型的AI辅助下进行。"
+        },
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/ai-fatigue.c48mc7dd9z.jpg?auto=format%2Ccompress&fit=max&q=70&w=400",
+          "cap": "技术设置及配备屏幕眼动追踪的定制DICOM查看器；在AI辅助下，模板会预先填入模型的建议。European Radiology"
+        },
+        {
+          "t": "p",
+          "x": "10名住院医师中有六名被归为疲劳。他们的诊断准确率在夜班后显著下降，κ从0.71降至0.61（p < 0.001）；未疲劳的判读者降幅较小但仍显著（κ，0.72降至0.65）。AI辅助在两组中均未显著提高准确率，仅使未疲劳判读者的报告时间缩短了9.9秒。"
+        },
+        {
+          "t": "p",
+          "x": "研究人员指出：“夜班导致的疲劳在不降低报告速度的情况下损害了诊断准确率，引发患者安全担忧。所用AI模型未能恢复夜班前的表现。”"
+        }
+      ]
+    },
+    "medicine/medicine-rivanna-boneenhance": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Rivanna旗下Accuro XV诊断超声系统的机器学习软件模块BoneEnhance已获得U.S. 食品药品监督管理局（FDA）的510(k)许可。"
+        },
+        {
+          "t": "p",
+          "x": "据该公司介绍，BoneEnhance可在系统3D 探头采集的容积数据中识别骨骼及周围组织，并在2D B-mode图像上以颜色编码的叠加层加以突出显示，同时保留原始解剖数据的可见性。Rivanna表示，在来自五个站点的233组容积数据构成的独立测试集中，单个容积的标签预测准确率为95.1%至100%。"
+        },
+        {
+          "t": "p",
+          "x": "Rivanna还在开发一款研究性模块，帮助临床医生在超声图像上评估可能存在的四肢骨折。该公司表示，这项工作得到了U.S. 生物医学高级研究与发展管理局（Biomedical Advanced Research and Development Authority）的支持。"
+        }
+      ]
     }
   }
 }

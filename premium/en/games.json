@@ -749,27 +749,29 @@
       "blocks": [
         {
           "t": "img",
-          "src": "https://static.inven.co.kr/column/2026/09/28/news/i1594768656.jpg"
+          "src": "https://cdn.gamemeca.com/data_center/345/605/20261026171400.webp",
+          "cap": "Key image for the Hive Axil plugin for ChatGPT (Image: Com2uS Platform)"
         },
         {
           "t": "p",
-          "x": "Com2uS Platform introduced its next-generation backend platform, Hive Axyl, at an AI game development event in Tokyo, Japan. It launches officially on September 30 and handles everything from game backend setup and feature integration to live operations."
+          "x": "Com2uS Platform said on the 26th that it is offering the plugin for Hive Axil, its AI-focused game backend service, in ChatGPT. With the plugin, the AI-based game development environment extends beyond production into game launch and live service operations."
         },
         {
           "t": "p",
-          "x": "Com2uS Platform, a subsidiary of Com2uS Holdings, unveiled Hive Axyl on the 28th at the finals of the “Tokyo AI (TAI) | OpenAI: 100-Hour Game Builder Challenge.” In the challenge, hosted by Tokyo AI (TAI) and supported by OpenAI, participating teams used OpenAI Codex to build AI-native games and AI tools for game-making over 100 hours."
+          "x": "Users can easily install the Hive Axil plugin in the ChatGPT app and on the web. Just as they already built games in the Codex development environment, they can connect a range of backend features with natural-language requests alone. The plugin also includes Skills that guide the order of tasks and how to implement them. These cover the full backend a commercial service needs, including SDK setup, login and account linking, payments, mailbox, coupons and push notifications."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/345/606/20261026171400.webp",
+          "cap": "Example of Hive Axil applied in ChatGPT (Image: Com2uS Platform)"
         },
         {
           "t": "p",
-          "x": "Speaking at the finals, Com2uS Japan CEO Kim Jin-yong presented the vision “Build with Codex, Play with Hive.” He also shared the experience of “OpenAI Game Builders Seoul,” an event Com2uS and OpenAI co-hosted in Seoul in August. Attendees included figures from the Korean and Japanese IT industries, including Krit Ventures and LY Corporation."
+          "x": "When a user asks, \"Add a login feature to my game,\" Codex consults the Hive Axil development guide and helps write the backend integration code. The bundled analytics answer natural-language questions about new user inflow, retention and per-country metrics by visualizing the data as charts and dashboards."
         },
         {
           "t": "p",
-          "x": "CEO Kim explained that Hive Axyl “gives developers an environment where they can focus on content creation instead of complex backend work.” He also said he hopes Hive Axyl will help when the games built that day are launched."
-        },
-        {
-          "t": "p",
-          "x": "Built for AI game development, Hive Axyl supports Codex plugin integration. Natural-language prompts can quickly connect key functions such as backend setup, authentication, payments, data analytics, and live operations. After the official launch, developers can install the plugin by following the guide on the developer site."
+          "x": "Com2uS Platform CEO Choi Seok-won said the company will \"combine Hive's service capabilities, recognized in the global market, with the AI development environment to dramatically lower the commercialization hurdle for indie and small developers.\""
         }
       ]
     },
@@ -9028,6 +9030,139 @@
         {
           "t": "video",
           "yt": "WT3twFB0PD8"
+        }
+      ]
+    },
+    "games/games-ai-code-lawyer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Led8MKdaEhJzPHbQzNsQna-1920-80.jpg",
+          "cap": "Phoenix Wright: Ace Attorney - Dual Destinies"
+        },
+        {
+          "t": "p",
+          "x": "A lawyer who specializes in video game contracts says a recent agreement fell through after the client received a load of vibe-coded material made by someone who didn't \"know what he made.\" Haley MacLean, IP lawyer and video game practice head at Voyer Law, shared the anonymized incident on Bluesky."
+        },
+        {
+          "t": "p",
+          "x": "\"Programming contractor delivers my client a milestone. It’s broken and full of issues so we request revisions before acceptance. Contractor says he can’t and wants full payment. Turns out it’s all AI and he doesn’t even know what he made. So he’s not getting paid and he wasted my client’s time.\""
+        },
+        {
+          "t": "p",
+          "x": "\"Also it was a breach of [confidentiality] because he stuck all the confidential game info into the AI tool to 'make' the milestone,\" she adds. \"Just because you can order at a restaurant doesn’t mean you’re a chef.\""
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/K8yJ4PtPLeS2UpgkBEhUJC.jpg",
+          "cap": "Monster Hunter World cat chef"
+        },
+        {
+          "t": "p",
+          "x": "MacLean says she sees more and more clients baking anti-AI clauses into contracts: \"Now it's just boilerplate.\""
+        }
+      ]
+    },
+    "games/games-kitase-zero-to-one": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/Secret-of-Mana-Tree.jpg",
+          "cap": "Secret Of Mana Tree © Square Enix"
+        },
+        {
+          "t": "p",
+          "x": "In a Famitsu interview marking the 35th anniversary of the Mana series, Square Enix veterans Hiromichi Tanaka, Kouichi Ishii, and Yoshinori Kitase looked back on the SNES era and compared it with today’s increasingly AI-driven game development."
+        },
+        {
+          "t": "p",
+          "x": "As they see it, AI could empower smaller teams, much like engines such as Unity and Unreal. “Just as various technologies have supported game development previously, I feel we may see AI play an increasingly important role in game development,” Kitase noted. “However, when it comes to creating something and taking it from 0 to 1, you absolutely need people. That will never change, so the next generation of developers must have the ability to make something from 0.”"
+        },
+        {
+          "t": "p",
+          "x": "Ishii is excited that faster prototyping leaves more time to test and refine, “But, humans will need to still define the beginning and end of the working process. If we rely solely on AI, the result may appear polished, but it may feel cold and lack the needed human touch.”"
+        },
+        {
+          "t": "p",
+          "x": "Kotaku notes recent surveys found over 85 percent of developers in Japan are actively using or considering using the technology."
+        }
+      ]
+    },
+    "games/games-ugc-ai-creators": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/AiPromptingExtraExampleAddLightBeam.png"
+        },
+        {
+          "t": "p",
+          "x": "User-generated content platforms like Roblox and Fortnite are increasingly turning to AI tools to make game development accessible to the masses."
+        },
+        {
+          "t": "p",
+          "x": "Roblox showcased Build, a mobile-first creation tab in the Roblox app that turns text prompts into fully playable basic games. “Over 70 percent of people who are building in Build today have never even opened [Roblox] Studio, or created a game on the platform before,” said chief creator ecosystem officer Vlad Loktev."
+        },
+        {
+          "t": "p",
+          "x": "Epic announced an experimental native Model Context Protocol server integration in Unreal Engine 5.8, allowing UEFN creators to connect AI models like Claude and Gemini directly to their projects. The Sandbox Studio is purpose-built for agentic coding, giving an AI agent access to its engine, codebase, documentation, and editor controls."
+        },
+        {
+          "t": "p",
+          "x": "Google’s Playground lets players turn written prompts into browser-based games. DT’s Itai Cohen warns easy creation could “contribute to the gaming version of AI slop.”"
+        }
+      ]
+    },
+    "games/games-decomp-clampdown": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/resetti-from-animal-crossing-angrily-bursting-onto-a-blank-web-browser.jpg?w=1600&h=900&fit=crop"
+        },
+        {
+          "t": "p",
+          "x": "You might have noticed a sudden wave of browser ports and recomps over the last month, when, historically, they've taken years to develop. That's because of the recent advancements in AI tools like Claude, which have allowed anyone, regardless of programming background, to reverse engineer software."
+        },
+        {
+          "t": "p",
+          "x": "Hobbyists who put in actual effort are frustrated that their work is being drowned out by vibecoded slop, publishers are stuck in an endless game of whack-a-mole, and AI was used to uncover decade-old flaws in PHP within a matter of hours."
+        },
+        {
+          "t": "p",
+          "x": "Clearly, the pressure is being felt, as Anthropic and OpenAI are now clamping down. Anthropic has updated its real-time cybersecurity safety classifiers to block users from automated decompilation via the community-created Reverse Engineer Anything (REA) framework, while OpenAI is reportedly deactivating accounts for \"Cyber Abuse.\" Given how many vibecoded recomps and browser ports relied on these tools, the sudden onslaught of low-effort ports might already be slowing down. However, now that Pandora's Box is open, it can't be closed."
+        },
+        {
+          "t": "p",
+          "x": "Users are already turning to local or open-source alternatives, namely Chinese-developed AI programs, to continue reverse engineering software. The real headline, the writer argues, is that AI agents can target public infrastructure faster than it can be patched."
+        }
+      ]
+    },
+    "games/games-hive-axil-chatgpt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/345/605/20261026171400.webp",
+          "cap": "Key image for the Hive Axil plugin for ChatGPT (Image: Com2uS Platform)"
+        },
+        {
+          "t": "p",
+          "x": "Com2uS Platform said on the 26th that it is offering the plugin for Hive Axil, its AI-focused game backend service, in ChatGPT. With the plugin, the AI-based game development environment extends beyond production into game launch and live service operations."
+        },
+        {
+          "t": "p",
+          "x": "Users can easily install the Hive Axil plugin in the ChatGPT app and on the web. Just as they already built games in the Codex development environment, they can connect a range of backend features with natural-language requests alone. The plugin also includes Skills that guide the order of tasks and how to implement them. These cover the full backend a commercial service needs, including SDK setup, login and account linking, payments, mailbox, coupons and push notifications."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/345/606/20261026171400.webp",
+          "cap": "Example of Hive Axil applied in ChatGPT (Image: Com2uS Platform)"
+        },
+        {
+          "t": "p",
+          "x": "When a user asks, \"Add a login feature to my game,\" Codex consults the Hive Axil development guide and helps write the backend integration code. The bundled analytics answer natural-language questions about new user inflow, retention and per-country metrics by visualizing the data as charts and dashboards."
+        },
+        {
+          "t": "p",
+          "x": "Com2uS Platform CEO Choi Seok-won said the company will \"combine Hive's service capabilities, recognized in the global market, with the AI development environment to dramatically lower the commercialization hurdle for indie and small developers.\""
         }
       ]
     }

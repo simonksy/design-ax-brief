@@ -8507,6 +8507,132 @@
           "x": "LitPivot将在Detroit(底特律)举行的UIST 2026上发布。"
         }
       ]
+    },
+    "science/science-virtual-author": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101426_KH_virtualauthor_main.jpg",
+          "cap": "科学论文通常是静态的知识记录。Paper2Agent将其转化为供AI智能体使用的工具集。Alllex/E+/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "一个名为Paper2Agent的系统让科学家不止于阅读新研究。研究人员9月16日在Nature上报告，当论文附带代码、方法和数据时，该系统会将它们打包成工具集，供AI助手处理新数据。"
+        },
+        {
+          "t": "p",
+          "x": "Stanford University计算机科学家James Zou说，这个系统本质上是全天候可用的“论文的虚拟作者”。"
+        },
+        {
+          "t": "p",
+          "x": "Zou和同事尝试将100篇计算生物学论文转化为可用的工具集，其中74篇获得成功。与依据原始论文和代码工作的同一智能体相比，这些工具集的分析更准确，速度快两倍以上。"
+        },
+        {
+          "t": "p",
+          "x": "Allen Institute for Artificial Intelligence的Peter Clark称其是迈向能主动帮助科学家的论文的“令人兴奋的一步”，但他指出，Paper2Agent专长于复用方法和代码，而非回答一般性问题。“我之所以会写信给通讯作者，恰恰是为了那些他们没写进论文的东西。”"
+        }
+      ]
+    },
+    "science/science-vision-noise": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-research-how-ran.jpg",
+          "cap": "Credit: Patterns (2026). DOI: 10.1016/j.patter.2026.101693"
+        },
+        {
+          "t": "p",
+          "x": "位于Tübingen的Hertie Institute for Clinical Brain Research的研究人员发现，将两种受大脑启发的特性结合起来，人工视觉系统会变得稳健得多：一是自上而下（top-down）的反馈，即较高处理阶段把信号送回较早阶段；二是神经变异性。"
+        },
+        {
+          "t": "p",
+          "x": "他们在训练中随机地暂时停用单个网络单元，以模拟神经活动的随机波动。仅靠反馈帮助不大；与随机性结合后，网络对图像噪声和可能导致误分类的定向改动变得稳健得多，并在分布不同于训练分布的图像上表现更好。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/dr-antonino-greco-righ.jpg",
+          "cap": "Hertie Institute for Clinical Brain Research的Dr. Antonino Greco（右）与Markus Siegel教授。Credit: Hertie Institute"
+        },
+        {
+          "t": "p",
+          "x": "Greco说：“只有在网络学会应对随机性之后，反馈才会生效。”该研究发表于Patterns (2026)。DOI: 10.1016/j.patter.2026.101693."
+        }
+      ]
+    },
+    "science/science-planteur": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792681400-planteur-tropical-regions-tan.png"
+        },
+        {
+          "t": "p",
+          "x": "PASTIS是学界最受信赖的作物制图基准之一，但覆盖范围仅限法国本土。Ai2推出PLANTEUR，将PASTIS扩展到六个热带地区：Réunion、Guadeloupe、Martinique、Guyane、Mayotte和Saint-Martin。"
+        },
+        {
+          "t": "p",
+          "x": "它基于同一数据源——法国的Land Parcel Identification System——构建，包含2,750条已对齐的Sentinel-2、Sentinel-1和Landsat-8时间序列，以及覆盖七个作物类别、源自地块的4,506 km²标注，类别包括甘蔗、香蕉、菠萝和热带块茎作物。"
+        },
+        {
+          "t": "p",
+          "x": "基线涵盖标准划分、留一岛（leave-one-island-out）划分、few-shot设置，以及在训练中加入PASTIS样本的设置。"
+        },
+        {
+          "t": "p",
+          "x": "所有被评估的方法在PLANTEUR上的得分都明显低于PASTIS，而且每个模型在训练中从未见过的岛屿上测试时，准确率都会下降约一半。PLANTEUR已在Hugging Face和GitHub上发布。"
+        }
+      ]
+    },
+    "science/science-coatings-lab": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-powered-robotic-lab.jpg",
+          "cap": "Credit: University of Nottingham"
+        },
+        {
+          "t": "p",
+          "x": "University of Nottingham的Center of Excellence in Coating and Surface Engineering研究人员建成了一座自驱动实验室。两只机械臂、一款专门设计的液体分配工具、实验设备和专用软件协同工作，完成化学品的称量与混合、高温炉处理以及样品取回。"
+        },
+        {
+          "t": "p",
+          "x": "一种AI-based的主动学习方法利用以往实验的信息，帮助确定下一步要测试哪些成分。团队借此制备了具有烧绿石晶体结构的候选材料，作为潜在的热障涂层，这类涂层可充当航空航天发动机部件的防护隔热罩。"
+        },
+        {
+          "t": "p",
+          "x": "“自驱动实验室有望改变先进材料的开发方式，”Tanvir Hussain教授说。该研究发表于Engineering Applications of Artificial Intelligence（DOI 10.1016/j.engappai.2026.114993）。"
+        }
+      ]
+    },
+    "science/science-llm-agent-camps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-can-form-pol.jpg",
+          "cap": "联网的LLM智能体系统：自我表达、交流与观点更新。Credit: Nature Communications (2026)"
+        },
+        {
+          "t": "p",
+          "x": "在一项发表于Nature Communications的研究中，Tsinghua University（清华大学）的研究人员为由1,000个LLM智能体组成的网络设定了三个议题上的政治立场：U.S.政党倾向、枪支管控和堕胎禁令。智能体阐述各自观点，并自行选择继续与谁交谈。它们从未被要求偏向立场相近的对象，却形成了对立阵营，而且越来越倾向于和自己人来往。"
+        },
+        {
+          "t": "p",
+          "x": "在40轮过程中，中立的中间地带逐渐变薄，智能体越来越多地与同一阵营的对象互动。加入核查步骤后，偏离角色设定的回答有所减少，但分裂依然存在。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-formed-polit.jpg",
+          "cap": "同质性互动与网络演化。Credit: Nature Communications (2026)"
+        },
+        {
+          "t": "p",
+          "x": "仅仅接触对立一方并不够。随机分配交谈对象只让极化程度略有下降，只允许接收立场适度相反的智能体发来的消息，效果也很小。指示智能体接纳不同观点，使极化降低了11.8%；加入发布中立信息的有影响力的智能体，使极化降低了8.8%。"
+        },
+        {
+          "t": "p",
+          "x": "作者将这些发现定位为用于提出假设的结果：智能体是经过提示设定的，观点只分为五个类别，结果也不能说明同样的干预对人同样有效。"
+        }
+      ]
     }
   }
 }

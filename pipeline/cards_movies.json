@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "section": "movies",
   "cards": [
     {
-      "id": "movies-grok-odyssey-episode",
+      "id": "movies-runway-app-studio",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI-made 오디세이,\nGrok이 첫 화 공개",
-      "body": "머스크가 약속한 Grok Imagine AI 장편은 몇 달 만에 첫 화만 나왔다.",
-      "mini_headline": "Grok의 첫 AI 오디세이 에피소드",
+      "headline": "Runway App\nStudio로 노코드 앱",
+      "body": "팀은 Runway App Studio로 이미지·영상·오디오 노코드 앱을 만든다.",
+      "mini_headline": "Runway, App Studio 출시",
       "tool": "Movies",
-      "source": "Variety",
-      "url": "https://variety.com/2026/film/news/elon-musks-grok-ai-generated-odyssey-1236930662/",
+      "source": "Runway",
+      "url": "https://runway.com/news/company-news/introducing-runway-app-studio",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -19,173 +19,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/10/elon-odyssey.webp?w=1000&h=563&crop=1"
+            "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/hero-1600-900-social-og-2x-355537f0-b954-4a87-8955-47c89bc15d4b.png"
           },
           {
             "t": "p",
-            "x": "일론 머스크가 자신의 AI 도구 Grok Imagine으로 전편을 AI로 생성한(AI-generated) 장편 'The Odyssey'를 만들겠다고 약속한 지 몇 달. 이 테크 거물이 그 약속을 일부나마 지켰다."
+            "x": "Runway가 오늘 App Studio를 내놓는다. Runway 안에서 맞춤형 크리에이티브 소프트웨어를 필요할 때 바로 만드는 새 방식이다. 원하는 도구를 평이한 말로 설명하면 App Studio가 전용 인터페이스를 갖춘 앱을 만들어 준다. 이 앱은 사용자의 Brand Kits와 Workflows로 이미지, 영상, 오디오를 생성한다. 혼자 써도 되고 팀과 공유해도 되며, Runway 계정만 있으면 누구나 쓰는 링크로 공개할 수도 있다."
           },
           {
             "t": "p",
-            "x": "회사는 금요일 X에 'Odyssey' 시리즈의 첫 AI-generated 에피소드를 올렸다. 7분 분량이다. 계정은 이 '창작 협업'의 공을 AI 영화 전문 제작사 Wonder Studios와 데브 워커 감독에게 돌렸다."
+            "x": "App Studio에는 처음부터 Character Swap, AutoComp, Product Portfolio, 3D Camera Control, Precise Edit, Runway Pro 같은 기본 앱이 들어 있다. 글로벌 건축사무소 KPF는 App Studio로 디자인 렌더링에 움직임을 입히는 앱을 만들었다. 디자이너가 정지 이미지에서 움직일 부분을 표시하고 카메라 경로를 그리면 연출된 디자인 영상이 나온다."
           },
           {
             "t": "p",
-            "x": "머스크는 7월 호메로스의 서사시를 '역사적으로 정확한' 장편으로 만들어 2026년 말까지 완성하겠다고 발표했다. 'Doctor Strange'의 스콧 데릭슨 감독은 X에서 이 프로젝트를 두고 “그의 예술관은 아무 가치가 없다”고 꼬집었다."
+            "x": "원하는 결과를 내는 Agent 세션이나 Workflow가 이미 있다면 클릭 한 번에 앱으로 바뀐다. 처음부터 새로 만들어도 된다. 앱 작성부터 테스트, 배포까지 App Studio가 맡고, 코드는 누구나 들여다볼 수 있게 열어 둔다."
           },
           {
             "t": "p",
-            "x": "에피소드와 함께 낸 별도 성명은 없었다. 머스크는 개봉도 하기 전인 놀런 감독의 'The Odyssey'를 거듭 비판해 왔는데, 특히 시논 역의 엘리엇 페이지와 트로이의 헬레네 역의 루피타 뇽오 캐스팅을 문제 삼았다."
+            "x": "모든 앱은 만든 사람이 공유하기 전까지 비공개다. App Studio는 모든 유료 플랜에 들어 있어 따로 사거나 애드온을 붙일 필요가 없다. 앱을 만들고 실행하고 호스팅하는 비용은 전부 기존 Runway 크레딧 잔액에서 빠진다. App Studio는 지금 모든 유료 플랜에서 쓸 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Grok releases the first episode\nof its AI-made Odyssey",
-          "body": "Months after Elon Musk promised a full AI Odyssey film from Grok Imagine, only a first episode has arrived.",
-          "mini_headline": "Grok's first AI Odyssey episode",
+          "headline": "Runway App Studio turns\nworkflows into no-code apps",
+          "body": "Runway App Studio lets teams turn Brand Kits and Workflows into no-code apps for image, video and audio.",
+          "mini_headline": "Runway launches App Studio",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/elon-odyssey.webp?w=1000&h=563&crop=1"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/hero-1600-900-social-og-2x-355537f0-b954-4a87-8955-47c89bc15d4b.png"
               },
               {
                 "t": "p",
-                "x": "Months after Elon Musk promised that his AI tool Grok Imagine would create an entirely AI-generated, feature-length version of “The Odyssey,” the tech mogul has partially followed through on the claim."
+                "x": "Today, we're launching App Studio, a new, on-demand way to build custom creative software inside Runway. Describe the tool you need in plain language and App Studio builds a custom app with its own interface that generates images, video and audio using your Brand Kits and your Workflows. Use it yourself, share it with your team or publish a link anyone with a Runway account can use."
               },
               {
                 "t": "p",
-                "x": "On Friday, the company shared the first 7-minute, AI-generated episode of the “Odyssey” series on X. The account credited the “creative collaboration” to Wonder Studios and director Dev Walker, both of which specialize in AI filmmaking."
+                "x": "App Studio launches with built-in apps such as Character Swap, AutoComp, Product Portfolio, 3D Camera Control, Precise Edit and Runway Pro. Global architecture firm KPF used App Studio to build an app that brings its design renderings to life: designers mark what should move in a still image, draw a camera path and get back directed video of the design."
               },
               {
                 "t": "p",
-                "x": "In July, Musk announced plans to make a “historically accurate” full-length feature version of Homer’s poem, saying it would be ready by the end of 2026. “Doctor Strange” director Scott Derrickson called out the project on X: “His opinions on art are worthless.”"
+                "x": "If you already have an Agent session or Workflow that produces the result you want, you can turn it into an app in one click. You can also start from scratch. App Studio writes, tests and deploys every app, and the code stays visible for anyone who wants to inspect it."
               },
               {
                 "t": "p",
-                "x": "No further statement accompanied the episode. The move comes after Musk repeatedly criticized Nolan’s “The Odyssey” ahead of its release, especially the casting of Elliot Page as Sinon and Lupita Nyong’o as Helen of Troy."
+                "x": "Every app is private to its creator until they choose to share it. App Studio is included in every paid plan with no new purchase or add-on, and building, running and hosting apps all draw from your existing Runway credit balance. App Studio is available to all paid plans now."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI-made 오디세이,\nGrok이 첫 화 공개",
-          "body": "머스크가 약속한 Grok Imagine AI 장편은 몇 달 만에 첫 화만 나왔다.",
-          "mini_headline": "Grok의 첫 AI 오디세이 에피소드",
+          "headline": "Runway App\nStudio로 노코드 앱",
+          "body": "팀은 Runway App Studio로 이미지·영상·오디오 노코드 앱을 만든다.",
+          "mini_headline": "Runway, App Studio 출시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/elon-odyssey.webp?w=1000&h=563&crop=1"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/hero-1600-900-social-og-2x-355537f0-b954-4a87-8955-47c89bc15d4b.png"
               },
               {
                 "t": "p",
-                "x": "일론 머스크가 자신의 AI 도구 Grok Imagine으로 전편을 AI로 생성한(AI-generated) 장편 'The Odyssey'를 만들겠다고 약속한 지 몇 달. 이 테크 거물이 그 약속을 일부나마 지켰다."
+                "x": "Runway가 오늘 App Studio를 내놓는다. Runway 안에서 맞춤형 크리에이티브 소프트웨어를 필요할 때 바로 만드는 새 방식이다. 원하는 도구를 평이한 말로 설명하면 App Studio가 전용 인터페이스를 갖춘 앱을 만들어 준다. 이 앱은 사용자의 Brand Kits와 Workflows로 이미지, 영상, 오디오를 생성한다. 혼자 써도 되고 팀과 공유해도 되며, Runway 계정만 있으면 누구나 쓰는 링크로 공개할 수도 있다."
               },
               {
                 "t": "p",
-                "x": "회사는 금요일 X에 'Odyssey' 시리즈의 첫 AI-generated 에피소드를 올렸다. 7분 분량이다. 계정은 이 '창작 협업'의 공을 AI 영화 전문 제작사 Wonder Studios와 데브 워커 감독에게 돌렸다."
+                "x": "App Studio에는 처음부터 Character Swap, AutoComp, Product Portfolio, 3D Camera Control, Precise Edit, Runway Pro 같은 기본 앱이 들어 있다. 글로벌 건축사무소 KPF는 App Studio로 디자인 렌더링에 움직임을 입히는 앱을 만들었다. 디자이너가 정지 이미지에서 움직일 부분을 표시하고 카메라 경로를 그리면 연출된 디자인 영상이 나온다."
               },
               {
                 "t": "p",
-                "x": "머스크는 7월 호메로스의 서사시를 '역사적으로 정확한' 장편으로 만들어 2026년 말까지 완성하겠다고 발표했다. 'Doctor Strange'의 스콧 데릭슨 감독은 X에서 이 프로젝트를 두고 “그의 예술관은 아무 가치가 없다”고 꼬집었다."
+                "x": "원하는 결과를 내는 Agent 세션이나 Workflow가 이미 있다면 클릭 한 번에 앱으로 바뀐다. 처음부터 새로 만들어도 된다. 앱 작성부터 테스트, 배포까지 App Studio가 맡고, 코드는 누구나 들여다볼 수 있게 열어 둔다."
               },
               {
                 "t": "p",
-                "x": "에피소드와 함께 낸 별도 성명은 없었다. 머스크는 개봉도 하기 전인 놀런 감독의 'The Odyssey'를 거듭 비판해 왔는데, 특히 시논 역의 엘리엇 페이지와 트로이의 헬레네 역의 루피타 뇽오 캐스팅을 문제 삼았다."
+                "x": "모든 앱은 만든 사람이 공유하기 전까지 비공개다. App Studio는 모든 유료 플랜에 들어 있어 따로 사거나 애드온을 붙일 필요가 없다. 앱을 만들고 실행하고 호스팅하는 비용은 전부 기존 Runway 크레딧 잔액에서 빠진다. App Studio는 지금 모든 유료 플랜에서 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "GrokのAI-made\nオデュッセイア初回公開",
-          "body": "マスク氏が約束したGrok ImagineのAI長編、数カ月を経て届いたのは初回のみだ。",
-          "mini_headline": "GrokのAIオデュッセイア初回",
+          "headline": "Runway App\nStudioでノーコード化",
+          "body": "Runway App Studioで、チームは画像・動画・音声のノーコードアプリを作れる。",
+          "mini_headline": "Runway、App Studioを公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/elon-odyssey.webp?w=1000&h=563&crop=1"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/hero-1600-900-social-og-2x-355537f0-b954-4a87-8955-47c89bc15d4b.png"
               },
               {
                 "t": "p",
-                "x": "イーロン・マスク氏が自社のAIツールGrok Imagineで、全編AI生成(AI-generated)の長編版『The Odyssey』を作ると約束してから数カ月、このテック界の大物はその約束を部分的に果たした。"
+                "x": "本日、App Studioを公開する。Runwayの中で、独自のクリエイティブソフトウェアを必要なときに作れる新しい方法だ。必要なツールを普段の言葉で説明すれば、App Studioが独自のインターフェースを備えたカスタムアプリを作り、そのアプリがユーザーのBrand KitsとWorkflowsを使って画像、動画、音声を生成する。自分で使うことも、チームと共有することも、Runwayアカウントを持つ誰もが使えるリンクとして公開することもできる。"
               },
               {
                 "t": "p",
-                "x": "同社は金曜日、「Odyssey」シリーズのAI-generatedによる第一話をXで公開した。長さは7分である。アカウントはこの「クリエイティブな協働」を、いずれもAI映画制作を専門とするWonder Studiosとデヴ・ウォーカー監督の功績とした。"
+                "x": "App Studioには、Character Swap、AutoComp、Product Portfolio、3D Camera Control、Precise Edit、Runway Proといった組み込みアプリが用意されている。世界的な建築事務所KPFはApp Studioで、設計レンダリングに動きを与えるアプリを作った。デザイナーが静止画の中で動かしたい部分を指定し、カメラの経路を描くと、演出されたデザインの映像が返ってくる。"
               },
               {
                 "t": "p",
-                "x": "マスク氏は7月、ホメロスの叙事詩を「歴史的に正確な」長編映画にする計画を発表し、2026年末までに完成させるとしていた。『Doctor Strange』のスコット・デリクソン監督はXでこの企画を批判し、「彼の芸術に関する意見には何の価値もない」と書いた。"
+                "x": "望む結果を生むAgentセッションやWorkflowがすでにあれば、ワンクリックでアプリに変えられる。ゼロから始めることもできる。App Studioはすべてのアプリを記述し、テストし、デプロイする。コードは、確認したい人なら誰でも見られる状態に保たれる。"
               },
               {
                 "t": "p",
-                "x": "エピソードの公開に際し、追加の声明はなかった。マスク氏はこれに先立ち、ノーラン監督の『The Odyssey』を公開前から繰り返し批判していた。とりわけシノン役のエリオット・ペイジとトロイのヘレネ役のルピタ・ニョンゴの起用を問題視していた。"
+                "x": "どのアプリも、作成者が共有を選ぶまでは非公開だ。App Studioはすべての有料プランに含まれ、新たな購入やアドオンは要らない。アプリの構築、実行、ホスティングはいずれも既存のRunwayクレジット残高から差し引かれる。App Studioは現在、すべての有料プランで利用できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Grok发布AI-made\n《奥德赛》首集",
-          "body": "马斯克许诺用Grok Imagine打造AI长片，数月后只等来首集。",
-          "mini_headline": "Grok首集AI《奥德赛》",
+          "headline": "Runway App\nStudio：无代码建应用",
+          "body": "Runway App Studio让团队打造图像、视频与音频无代码应用。",
+          "mini_headline": "Runway 推出 App Studio",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/elon-odyssey.webp?w=1000&h=563&crop=1"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/hero-1600-900-social-og-2x-355537f0-b954-4a87-8955-47c89bc15d4b.png"
               },
               {
                 "t": "p",
-                "x": "埃隆·马斯克曾承诺，旗下AI工具Grok Imagine将打造一部完全由AI生成（AI-generated）的长片版《The Odyssey》。数月之后，这位科技大亨部分兑现了这一说法。"
+                "x": "今天，我们推出 App Studio，这是在 Runway 内按需构建定制创意软件的新方式。用平实的语言描述你需要的工具，App Studio 就会构建一个拥有独立界面的定制应用，借助你的 Brand Kits 和 Workflows 生成图像、视频和音频。你可以自己使用，与团队共享，也可以发布一个链接，让任何拥有 Runway 账户的人使用。"
               },
               {
                 "t": "p",
-                "x": "周五，该公司在X上发布了“Odyssey”系列的首集AI-generated剧集，时长7分钟。该账号将这次“创意合作”归功于Wonder Studios和导演德夫·沃克，二者都专注于AI电影制作。"
+                "x": "App Studio 上线时内置 Character Swap、AutoComp、Product Portfolio、3D Camera Control、Precise Edit 和 Runway Pro 等应用。全球建筑事务所 KPF 用 App Studio 构建了一款让设计效果图动起来的应用：设计师在静态图像中标出需要运动的部分，画出摄像机路径，即可得到经过镜头调度的设计视频。"
               },
               {
                 "t": "p",
-                "x": "马斯克在7月宣布，计划将荷马史诗拍成一部“符合史实”的长片，并称将于2026年底完成。《Doctor Strange》导演斯科特·德瑞克森在X上批评该项目：“他对艺术的看法一文不值。”"
+                "x": "如果你已有能产出理想结果的 Agent 会话或 Workflow，一键即可把它变成应用，也可以从零开始。App Studio 会编写、测试并部署每个应用，代码始终可见，供任何想查看的人检查。"
               },
               {
                 "t": "p",
-                "x": "剧集发布时未附任何进一步声明。此前，马斯克曾在诺兰的《The Odyssey》上映前多次批评该片，尤其是让艾利奥特·佩吉饰演西农、露皮塔·尼永奥饰演特洛伊的海伦的选角。"
+                "x": "每个应用在创建者选择分享之前都是私密的。App Studio 包含在所有付费方案中，无需额外购买或附加组件；构建、运行和托管应用都从你现有的 Runway 积分余额中扣除。App Studio 现已向所有付费方案开放。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Grok estrena el primer episodio\nde su Odisea AI-made",
-          "body": "Elon Musk prometió una Odisea AI completa con Grok Imagine, pero meses después solo llegó el primer episodio.",
-          "mini_headline": "El primer episodio AI de la Odisea de Grok",
+          "headline": "Runway App Studio convierte\nflujos en apps sin código",
+          "body": "Runway App Studio permite a equipos convertir Brand Kits y Workflows en apps sin código de imagen, video y audio.",
+          "mini_headline": "Runway lanza App Studio",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/elon-odyssey.webp?w=1000&h=563&crop=1"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/hero-1600-900-social-og-2x-355537f0-b954-4a87-8955-47c89bc15d4b.png"
               },
               {
                 "t": "p",
-                "x": "Meses después de que Elon Musk prometiera que su herramienta de AI Grok Imagine crearía una versión de largometraje de “The Odyssey” íntegramente AI-generated, el magnate tecnológico ha cumplido en parte su promesa."
+                "x": "Hoy lanzamos App Studio, una nueva forma de crear software creativo a medida y bajo demanda dentro de Runway. Basta con describir en lenguaje sencillo la herramienta que se necesita para que App Studio construya una app propia, con su propia interfaz, que genera imágenes, video y audio a partir de sus Brand Kits y sus Workflows. Puede usarla uno mismo, compartirla con el equipo o publicar un enlace que cualquier persona con una cuenta de Runway puede usar."
               },
               {
                 "t": "p",
-                "x": "El viernes, la compañía compartió en X el primer episodio AI-generated, de 7 minutos, de la serie “Odyssey”. La cuenta atribuyó la “colaboración creativa” a Wonder Studios y al director Dev Walker, ambos especializados en cine hecho con AI."
+                "x": "App Studio llega con apps integradas como Character Swap, AutoComp, Product Portfolio, 3D Camera Control, Precise Edit y Runway Pro. El estudio global de arquitectura KPF usó App Studio para crear una app que da vida a sus renders de diseño: los diseñadores marcan qué debe moverse en una imagen fija, trazan una trayectoria de cámara y reciben un video dirigido del diseño."
               },
               {
                 "t": "p",
-                "x": "En julio, Musk anunció planes para hacer una versión de largometraje “históricamente precisa” del poema de Homero y dijo que estaría lista a finales de 2026. El director de “Doctor Strange”, Scott Derrickson, criticó el proyecto en X: “Sus opiniones sobre el arte no valen nada”."
+                "x": "Si ya existe una sesión de Agent o un Workflow que produce el resultado deseado, se puede convertir en app con un clic. También se puede empezar desde cero. App Studio escribe, prueba y despliega cada app, y el código queda visible para quien quiera revisarlo."
               },
               {
                 "t": "p",
-                "x": "El episodio no vino acompañado de ninguna otra declaración. La iniciativa llega después de que Musk criticara repetidamente “The Odyssey” de Nolan antes de su estreno, en especial la elección de Elliot Page como Sinón y de Lupita Nyong’o como Helena de Troya."
+                "x": "Cada app es privada para su creador hasta que decida compartirla. App Studio está incluido en todos los planes de pago, sin compras nuevas ni complementos, y crear, ejecutar y alojar apps se descuenta del saldo de créditos de Runway que ya se tiene. App Studio ya está disponible en todos los planes de pago."
               }
             ]
           }
@@ -193,121 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI-made 오디세이,\nGrok이 첫 화 공개",
-          "body": "머스크가 약속한 Grok Imagine AI 장편은 몇 달 만에 첫 화만 나왔다.",
-          "mini_headline": "Grok의 첫 AI 오디세이 에피소드",
+          "headline": "Runway App\nStudio로 노코드 앱",
+          "body": "Runway App Studio로 팀은 이미지·영상·오디오용 노코드 앱을 만든다.",
+          "mini_headline": "Runway, App Studio 출시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/elon-odyssey.webp?w=1000&h=563&crop=1"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/hero-1600-900-social-og-2x-355537f0-b954-4a87-8955-47c89bc15d4b.png"
               },
               {
                 "t": "p",
-                "x": "일론 머스크가 자신의 AI 도구 Grok Imagine으로 전편을 AI로 생성한(AI-generated) 장편 'The Odyssey'를 만들겠다고 약속한 지 몇 달 만에, 이 테크 거물은 그 약속을 일부 지켰다."
+                "x": "Runway는 오늘 App Studio를 출시한다. Runway 안에서 맞춤형 크리에이티브 소프트웨어를 필요할 때 바로 만드는 새로운 방식이다. 필요한 도구를 평이한 말로 설명하면 App Studio가 자체 인터페이스를 갖춘 맞춤형 앱을 만들고, 이 앱은 사용자의 Brand Kits와 Workflows로 이미지, 영상, 오디오를 생성한다. 직접 쓰거나 팀과 공유할 수 있고, Runway 계정이 있는 누구나 쓸 수 있는 링크로 공개할 수도 있다."
               },
               {
                 "t": "p",
-                "x": "회사는 금요일 X에 'Odyssey' 시리즈의 첫 AI-generated 에피소드를 공개했다. 분량은 7분이다. 계정은 이 '창작 협업'의 공을 AI 영화 제작을 전문으로 하는 Wonder Studios와 데브 워커 감독에게 돌렸다."
+                "x": "App Studio는 Character Swap, AutoComp, Product Portfolio, 3D Camera Control, Precise Edit, Runway Pro 같은 기본 앱을 갖추고 출시된다. 글로벌 건축사무소 KPF는 App Studio로 디자인 렌더링에 생동감을 불어넣는 앱을 만들었다. 디자이너가 정지 이미지에서 움직일 부분을 표시하고 카메라 경로를 그리면 연출된 디자인 영상이 돌아온다."
               },
               {
                 "t": "p",
-                "x": "머스크는 7월 호메로스의 서사시를 '역사적으로 정확한' 장편으로 만들겠다며 2026년 말까지 완성하겠다고 발표했다. 'Doctor Strange'의 스콧 데릭슨 감독은 X에서 이 프로젝트를 두고 “그의 예술관은 아무 가치가 없다”고 꼬집었다."
+                "x": "원하는 결과를 내는 Agent 세션이나 Workflow가 이미 있다면 클릭 한 번으로 앱으로 바꿀 수 있다. 처음부터 새로 시작할 수도 있다. App Studio는 모든 앱을 작성하고 테스트하고 배포하며, 코드는 살펴보고 싶은 누구에게나 공개된 상태로 남는다."
               },
               {
                 "t": "p",
-                "x": "에피소드와 함께 나온 별도 성명은 없었다. 이번 공개는 머스크가 개봉 전부터 놀런 감독의 'The Odyssey'를, 특히 시논 역의 엘리엇 페이지와 트로이의 헬레네 역의 루피타 뇽오 캐스팅을 거듭 비판한 뒤에 나왔다."
+                "x": "모든 앱은 만든 사람이 공유하기 전까지 비공개다. App Studio는 모든 유료 플랜에 포함되어 별도 구매나 애드온이 필요 없고, 앱을 만들고 실행하고 호스팅하는 비용은 모두 기존 Runway 크레딧 잔액에서 차감된다. App Studio는 지금 모든 유료 플랜에서 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "GrokのAI-made\nオデュッセイア初回公開",
-          "body": "マスク氏が約束したGrok ImagineのAI長編、数カ月を経て届いたのは初回のみだ。",
-          "mini_headline": "GrokのAIオデュッセイア初回",
+          "headline": "Runway App\nStudioでノーコード化",
+          "body": "Runway App Studioで、チームは画像・動画・音声のノーコードアプリを作れる。",
+          "mini_headline": "Runway、App Studioを公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/elon-odyssey.webp?w=1000&h=563&crop=1"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/hero-1600-900-social-og-2x-355537f0-b954-4a87-8955-47c89bc15d4b.png"
               },
               {
                 "t": "p",
-                "x": "イーロン・マスク氏が自社のAIツールGrok Imagineで、全編AI生成(AI-generated)の長編版『The Odyssey』を作ると約束してから数カ月、このテック界の大物はその約束を部分的に果たした。"
+                "x": "本日、App Studioを公開する。Runwayの中で、独自のクリエイティブソフトウェアを必要なときに作れる新しい方法だ。必要なツールを普段の言葉で説明すれば、App Studioが独自のインターフェースを備えたカスタムアプリを作り、そのアプリがユーザーのBrand KitsとWorkflowsを使って画像、動画、音声を生成する。自分で使うことも、チームと共有することも、Runwayアカウントを持つ誰もが使えるリンクとして公開することもできる。"
               },
               {
                 "t": "p",
-                "x": "同社は金曜日、「Odyssey」シリーズのAI-generatedによる第一話をXで公開した。長さは7分である。アカウントはこの「クリエイティブな協働」を、いずれもAI映画制作を専門とするWonder Studiosとデヴ・ウォーカー監督の功績とした。"
+                "x": "App Studioには、Character Swap、AutoComp、Product Portfolio、3D Camera Control、Precise Edit、Runway Proといった組み込みアプリが用意されている。世界的な建築事務所KPFはApp Studioで、設計レンダリングに動きを与えるアプリを作った。デザイナーが静止画の中で動かしたい部分を指定し、カメラの経路を描くと、演出されたデザインの映像が返ってくる。"
               },
               {
                 "t": "p",
-                "x": "マスク氏は7月、ホメロスの叙事詩を「歴史的に正確な」長編映画にする計画を発表し、2026年末までに完成させるとしていた。『Doctor Strange』のスコット・デリクソン監督はXでこの企画を批判し、「彼の芸術に関する意見には何の価値もない」と書いた。"
+                "x": "望む結果を生むAgentセッションやWorkflowがすでにあれば、ワンクリックでアプリに変えられる。ゼロから始めることもできる。App Studioはすべてのアプリを記述し、テストし、デプロイする。コードは、確認したい人なら誰でも見られる状態に保たれる。"
               },
               {
                 "t": "p",
-                "x": "エピソードの公開に際し、追加の声明はなかった。マスク氏はこれに先立ち、ノーラン監督の『The Odyssey』を公開前から繰り返し批判していた。とりわけシノン役のエリオット・ペイジとトロイのヘレネ役のルピタ・ニョンゴの起用を問題視していた。"
+                "x": "どのアプリも、作成者が共有を選ぶまでは非公開だ。App Studioはすべての有料プランに含まれ、新たな購入やアドオンは要らない。アプリの構築、実行、ホスティングはいずれも既存のRunwayクレジット残高から差し引かれる。App Studioは現在、すべての有料プランで利用できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Grok发布AI-made\n《奥德赛》首集",
-          "body": "马斯克许诺用Grok Imagine打造AI长片，数月后只等来首集。",
-          "mini_headline": "Grok首集AI《奥德赛》",
+          "headline": "Runway App\nStudio：无代码建应用",
+          "body": "Runway App Studio让团队打造图像、视频与音频无代码应用。",
+          "mini_headline": "Runway 推出 App Studio",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/elon-odyssey.webp?w=1000&h=563&crop=1"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/hero-1600-900-social-og-2x-355537f0-b954-4a87-8955-47c89bc15d4b.png"
               },
               {
                 "t": "p",
-                "x": "埃隆·马斯克曾承诺，旗下AI工具Grok Imagine将打造一部完全由AI生成（AI-generated）的长片版《The Odyssey》。数月之后，这位科技大亨部分兑现了这一说法。"
+                "x": "今天，我们推出 App Studio，这是在 Runway 内按需构建定制创意软件的新方式。用平实的语言描述你需要的工具，App Studio 就会构建一个拥有独立界面的定制应用，借助你的 Brand Kits 和 Workflows 生成图像、视频和音频。你可以自己使用，与团队共享，也可以发布一个链接，让任何拥有 Runway 账户的人使用。"
               },
               {
                 "t": "p",
-                "x": "周五，该公司在X上发布了“Odyssey”系列的首集AI-generated剧集，时长7分钟。该账号将这次“创意合作”归功于Wonder Studios和导演德夫·沃克，二者都专注于AI电影制作。"
+                "x": "App Studio 上线时内置 Character Swap、AutoComp、Product Portfolio、3D Camera Control、Precise Edit 和 Runway Pro 等应用。全球建筑事务所 KPF 用 App Studio 构建了一款让设计效果图动起来的应用：设计师在静态图像中标出需要运动的部分，画出摄像机路径，即可得到经过镜头调度的设计视频。"
               },
               {
                 "t": "p",
-                "x": "马斯克在7月宣布，计划将荷马史诗拍成一部“符合史实”的长片，并称将于2026年底完成。《Doctor Strange》导演斯科特·德瑞克森在X上批评该项目：“他对艺术的看法一文不值。”"
+                "x": "如果你已有能产出理想结果的 Agent 会话或 Workflow，一键即可把它变成应用，也可以从零开始。App Studio 会编写、测试并部署每个应用，代码始终可见，供任何想查看的人检查。"
               },
               {
                 "t": "p",
-                "x": "剧集发布时未附任何进一步声明。此前，马斯克曾在诺兰的《The Odyssey》上映前多次批评该片，尤其是让艾利奥特·佩吉饰演西农、露皮塔·尼永奥饰演特洛伊的海伦的选角。"
+                "x": "每个应用在创建者选择分享之前都是私密的。App Studio 包含在所有付费方案中，无需额外购买或附加组件；构建、运行和托管应用都从你现有的 Runway 积分余额中扣除。App Studio 现已向所有付费方案开放。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Grok estrena el primer episodio\nde su Odisea AI-made",
-          "body": "Elon Musk prometió una Odisea AI completa con Grok Imagine, pero meses después solo llegó el primer episodio.",
-          "mini_headline": "El primer episodio AI de la Odisea de Grok",
+          "headline": "Runway App Studio convierte\nflujos en apps sin código",
+          "body": "Runway App Studio permite a equipos convertir Brand Kits y Workflows en apps sin código de imagen, video y audio.",
+          "mini_headline": "Runway lanza App Studio",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/elon-odyssey.webp?w=1000&h=563&crop=1"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/hero-1600-900-social-og-2x-355537f0-b954-4a87-8955-47c89bc15d4b.png"
               },
               {
                 "t": "p",
-                "x": "Meses después de que Elon Musk prometiera que su herramienta de AI Grok Imagine crearía una versión de largometraje de “The Odyssey” íntegramente AI-generated, el magnate tecnológico ha cumplido en parte su promesa."
+                "x": "Hoy lanzamos App Studio, una nueva forma de crear software creativo a medida y bajo demanda dentro de Runway. Basta con describir en lenguaje sencillo la herramienta que se necesita para que App Studio construya una app propia, con su propia interfaz, que genera imágenes, video y audio a partir de sus Brand Kits y sus Workflows. Puede usarla uno mismo, compartirla con el equipo o publicar un enlace que cualquier persona con una cuenta de Runway puede usar."
               },
               {
                 "t": "p",
-                "x": "El viernes, la compañía compartió en X el primer episodio AI-generated, de 7 minutos, de la serie “Odyssey”. La cuenta atribuyó la “colaboración creativa” a Wonder Studios y al director Dev Walker, ambos especializados en cine hecho con AI."
+                "x": "App Studio llega con apps integradas como Character Swap, AutoComp, Product Portfolio, 3D Camera Control, Precise Edit y Runway Pro. El estudio global de arquitectura KPF usó App Studio para crear una app que da vida a sus renders de diseño: los diseñadores marcan qué debe moverse en una imagen fija, trazan una trayectoria de cámara y reciben un video dirigido del diseño."
               },
               {
                 "t": "p",
-                "x": "En julio, Musk anunció planes para hacer una versión de largometraje “históricamente precisa” del poema de Homero y dijo que estaría lista a finales de 2026. El director de “Doctor Strange”, Scott Derrickson, criticó el proyecto en X: “Sus opiniones sobre el arte no valen nada”."
+                "x": "Si ya existe una sesión de Agent o un Workflow que produce el resultado deseado, se puede convertir en app con un clic. También se puede empezar desde cero. App Studio escribe, prueba y despliega cada app, y el código queda visible para quien quiera revisarlo."
               },
               {
                 "t": "p",
-                "x": "El episodio no vino acompañado de ninguna otra declaración. La iniciativa llega después de que Musk criticara repetidamente “The Odyssey” de Nolan antes de su estreno, en especial la elección de Elliot Page como Sinón y de Lupita Nyong’o como Helena de Troya."
+                "x": "Cada app es privada para su creador hasta que decida compartirla. App Studio está incluido en todos los planes de pago, sin compras nuevas ni complementos, y crear, ejecutar y alojar apps se descuenta del saldo de créditos de Runway que ya se tiene. App Studio ya está disponible en todos los planes de pago."
               }
             ]
           }
@@ -315,15 +315,15 @@
       }
     },
     {
-      "id": "movies-stallone-ai-trampled",
+      "id": "movies-sanxingdui-flop",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "스탤론 \"AI 따르거나\n짓밟히거나\"",
-      "body": "80세 실베스터 스탤론은 AI가 사라지지 않으니 업계가 받아들여야 한다고 말했다.",
-      "mini_headline": "스탤론, AI 옹호",
+      "headline": "중국 첫 AI 장편 영화\n박스오피스서 흥행 참패",
+      "body": "'Sanxingdui: Future Past'는 $181,000에 그쳤다.",
+      "mini_headline": "중국 AI 장편 흥행 참패",
       "tool": "Movies",
-      "source": "The Hollywood Reporter",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/sylvester-stallone-defends-ai-1236738168/",
+      "source": "Cartoon Brew",
+      "url": "https://www.cartoonbrew.com/box-office-report/chinese-ai-film-sanxingdui-future-past-box-office-flop-268426.html",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
@@ -331,221 +331,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/GettyImages-1423314969.jpg?crop=0px%2C625px%2C5822px%2C3258px&resize=1440%2C810"
+            "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Sanxingdui-Niu-Lai.jpg"
           },
           {
             "t": "p",
-            "x": "실베스터 스탤론이 AI를 옹호하고 나섰다. 거스를 수 없는 흐름이니 할리우드가 결국 받아들이고 끌어안아야 한다는 주장이다."
+            "x": "제작사가 중국 최초의 완전 AI-generated 극장 장편이라고 내세운 영화가 박스오피스에서 참패했다. 기술을 향한 열광이 곧장 관객 수요로 이어지지는 않는다는 사실을 투자자들에게 다시 일깨운 셈일 수도 있다."
           },
           {
             "t": "p",
-            "x": "80세인 그는 Lionsgate가 준비 중인 John Rambo 프리퀄 이야기를 꺼냈다. 원래는 젊은 시절의 자신을 직접 연기하고 AI로 디에이징하자고 제안했다고 한다. 이 역은 결국 30세 노아 센티네오에게 돌아갔다."
-          },
-          {
-            "t": "p",
-            "x": "그는 The Overlap에 “이 말 때문에 곤란해지곤 하지만 AI는 사라지지 않는다”며 “반은 사람, 반은 AI(half-human, half-AI)로 만들어 합치고 싶었는데, 물론 다들 난리가 났다”고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "“그래서 창작 커뮤니티에서 요란하게 비난을 받더라도 나는 그 위험을 감수하겠다. 그리고 그들의 [불만은] 옳다! 그들이 옳다. 하지만 우리는 이걸 막을 수 없다. 이건 눈사태다. 우리 통제를 완전히 벗어났다. 함께 가지 않으면 그것에 짓밟히고 만다.”"
-          },
-          {
-            "t": "p",
-            "x": "연기가 “AI 때문에 더 어려워질 것”이라는 경고도 했다. 배우인 딸 스칼릿 로즈 스탤론에게는 게임 쪽으로 가라고 권했다고 한다. John Rambo는 2027년 6월 4일 개봉한다."
+            "x": "추정치로는 Bona Film Group의 'Sanxingdui: Future Past'가 October 23 개봉 후 월요일까지 RMB1.21 million($181,000)을 버는 데 그쳤다. Bona는 이 SF 장편에 RMB10 million($1.5 million) 넘게 들었고 100명 가까운 인력이 두 해 넘게 매달렸다고 밝혔다. 개봉일에 잡힌 상영만 10,000회가 넘었다."
           },
           {
             "t": "video",
-            "yt": "Axv-1C9-07U"
+            "src": "https://cbgccdn.thecover.cn/ROmsWADgcpbtRMydJVR1792720023949.mp4"
+          },
+          {
+            "t": "p",
+            "x": "이 부진한 출발은 중국 관객이 'Niu Lai'에 호응한 지 두 달 만이다. 'Niu Lai'는 Xin Yumeng 감독과 각본을 쓴 어머니 Sun Lifang이 적은 예산으로 만든 장편이다. 개봉 첫 열흘 수입은 약 RMB7,700($1,150)에 불과했지만, 조악한 모델링과 뻣뻣한 애니메이션이 담긴 클립이 온라인에 퍼지면서 흐름이 바뀌었다. 'Niu Lai'의 누적 흥행 수입은 현재 RMB64.29 million, 약 $10 million이다."
+          },
+          {
+            "t": "p",
+            "x": "Cartoon Brew는 두 영화 어느 쪽도 AI를 대하는 관객 태도의 보편 법칙을 보여주지는 않는다고 짚는다. 다만 영화 제작의 돌파구라는 'Sanxingdui'의 주장은 영화적 마법을 찾는 관객을 훨씬 덜 설득했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Stallone on AI: go with it\nor be trampled",
-          "body": "Sylvester Stallone, 80, says the industry must embrace AI because it is here to stay.",
-          "mini_headline": "Stallone backs AI",
+          "headline": "China's first AI feature\nflops at the box office",
+          "body": "Bona Film Group's AI feature 'Sanxingdui: Future Past' earned just $181,000, as 'Niu Lai' neared $10 million.",
+          "mini_headline": "China's AI feature flops",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/GettyImages-1423314969.jpg?crop=0px%2C625px%2C5822px%2C3258px&resize=1440%2C810"
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Sanxingdui-Niu-Lai.jpg"
               },
               {
                 "t": "p",
-                "x": "Sylvester Stallone is defending the use of AI as an inevitable force that Hollywood will just have to accept and embrace."
+                "x": "China’s first fully AI-generated theatrical feature, its producers claim, has flopped at the box office, perhaps reminding financiers that enthusiasm for the technology doesn’t necessarily translate into demand from moviegoers."
               },
               {
                 "t": "p",
-                "x": "Referencing Lionsgate’s upcoming John Rambo prequel, the 80-year-old actor said he originally pitched playing his younger self and using AI to de-age his performance (30-year-old Noah Centineo was cast instead)."
-              },
-              {
-                "t": "p",
-                "x": "“I get in trouble for this [but] AI is here to stay,” he told The Overlap. “I wanted to do half-human, half-AI and put it together, and of course everyone’s going nuts.”"
-              },
-              {
-                "t": "p",
-                "x": "“So I would take that risk, even though you get blasted bombastically from the creative community. And their [complaints are] right! They’re right. But we can’t stop this. It’s an avalanche. It’s just out of our control. If you don’t go with it, you will be trampled by it.”"
-              },
-              {
-                "t": "p",
-                "x": "He also warned that acting is “going to get more difficult because of AI,” saying he told his actress daughter Scarlet Rose Stallone to get into gaming. John Rambo is scheduled for June 4, 2027."
+                "x": "Estimates show that Bona Film Group’s Sanxingdui: Future Past earned just RMB1.21 million ($181,000) through Monday, after its October 23 debut. According to Bona, the science-fiction feature cost more than RMB10 million ($1.5 million) and required nearly 100 people working for over two years. More than 10,000 screenings were scheduled for opening day."
               },
               {
                 "t": "video",
-                "yt": "Axv-1C9-07U"
+                "src": "https://cbgccdn.thecover.cn/ROmsWADgcpbtRMydJVR1792720023949.mp4"
+              },
+              {
+                "t": "p",
+                "x": "The dismal launch comes two months after Chinese audiences embraced Niu Lai, a shoestring feature made by director Xin Yumeng and his mother, screenwriter Sun Lifang. It earned roughly RMB7,700 ($1,150) in its first ten days, until clips of its crude modeling and stiff animation spread online. Niu Lai has now grossed RMB64.29 million, or nearly $10 million."
+              },
+              {
+                "t": "p",
+                "x": "Cartoon Brew stresses that neither film establishes a universal rule about audiences’ attitudes toward AI, but Sanxingdui’s claim to represent a filmmaking breakthrough has proved considerably less compelling to audiences looking for movie magic."
               }
             ]
           }
         },
         "ko": {
-          "headline": "스탤론 \"AI 따르거나\n짓밟히거나\"",
-          "body": "80세 실베스터 스탤론은 AI가 사라지지 않으니 업계가 받아들여야 한다고 말했다.",
-          "mini_headline": "스탤론, AI 옹호",
+          "headline": "중국 첫 AI 장편 영화\n박스오피스서 흥행 참패",
+          "body": "'Sanxingdui: Future Past'는 $181,000에 그쳤다.",
+          "mini_headline": "중국 AI 장편 흥행 참패",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/GettyImages-1423314969.jpg?crop=0px%2C625px%2C5822px%2C3258px&resize=1440%2C810"
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Sanxingdui-Niu-Lai.jpg"
               },
               {
                 "t": "p",
-                "x": "실베스터 스탤론이 AI를 옹호하고 나섰다. 거스를 수 없는 흐름이니 할리우드가 결국 받아들이고 끌어안아야 한다는 주장이다."
+                "x": "제작사가 중국 최초의 완전 AI-generated 극장 장편이라고 내세운 영화가 박스오피스에서 참패했다. 기술을 향한 열광이 곧장 관객 수요로 이어지지는 않는다는 사실을 투자자들에게 다시 일깨운 셈일 수도 있다."
               },
               {
                 "t": "p",
-                "x": "80세인 그는 Lionsgate가 준비 중인 John Rambo 프리퀄 이야기를 꺼냈다. 원래는 젊은 시절의 자신을 직접 연기하고 AI로 디에이징하자고 제안했다고 한다. 이 역은 결국 30세 노아 센티네오에게 돌아갔다."
-              },
-              {
-                "t": "p",
-                "x": "그는 The Overlap에 “이 말 때문에 곤란해지곤 하지만 AI는 사라지지 않는다”며 “반은 사람, 반은 AI(half-human, half-AI)로 만들어 합치고 싶었는데, 물론 다들 난리가 났다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "“그래서 창작 커뮤니티에서 요란하게 비난을 받더라도 나는 그 위험을 감수하겠다. 그리고 그들의 [불만은] 옳다! 그들이 옳다. 하지만 우리는 이걸 막을 수 없다. 이건 눈사태다. 우리 통제를 완전히 벗어났다. 함께 가지 않으면 그것에 짓밟히고 만다.”"
-              },
-              {
-                "t": "p",
-                "x": "연기가 “AI 때문에 더 어려워질 것”이라는 경고도 했다. 배우인 딸 스칼릿 로즈 스탤론에게는 게임 쪽으로 가라고 권했다고 한다. John Rambo는 2027년 6월 4일 개봉한다."
+                "x": "추정치로는 Bona Film Group의 'Sanxingdui: Future Past'가 October 23 개봉 후 월요일까지 RMB1.21 million($181,000)을 버는 데 그쳤다. Bona는 이 SF 장편에 RMB10 million($1.5 million) 넘게 들었고 100명 가까운 인력이 두 해 넘게 매달렸다고 밝혔다. 개봉일에 잡힌 상영만 10,000회가 넘었다."
               },
               {
                 "t": "video",
-                "yt": "Axv-1C9-07U"
+                "src": "https://cbgccdn.thecover.cn/ROmsWADgcpbtRMydJVR1792720023949.mp4"
+              },
+              {
+                "t": "p",
+                "x": "이 부진한 출발은 중국 관객이 'Niu Lai'에 호응한 지 두 달 만이다. 'Niu Lai'는 Xin Yumeng 감독과 각본을 쓴 어머니 Sun Lifang이 적은 예산으로 만든 장편이다. 개봉 첫 열흘 수입은 약 RMB7,700($1,150)에 불과했지만, 조악한 모델링과 뻣뻣한 애니메이션이 담긴 클립이 온라인에 퍼지면서 흐름이 바뀌었다. 'Niu Lai'의 누적 흥행 수입은 현재 RMB64.29 million, 약 $10 million이다."
+              },
+              {
+                "t": "p",
+                "x": "Cartoon Brew는 두 영화 어느 쪽도 AI를 대하는 관객 태도의 보편 법칙을 보여주지는 않는다고 짚는다. 다만 영화 제작의 돌파구라는 'Sanxingdui'의 주장은 영화적 마법을 찾는 관객을 훨씬 덜 설득했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "スタローン「AIに従うか\n踏みつぶされるか」",
-          "body": "80歳のシルベスター・スタローンは、AIは定着するので業界は受け入れるべきだと語った。",
-          "mini_headline": "スタローン、AIを支持",
+          "headline": "中国初のAI長編映画\n興行で大失敗",
+          "body": "『Sanxingdui: Future Past』の興収は$181,000にとどまった。",
+          "mini_headline": "中国のAI長編が興行不振",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/GettyImages-1423314969.jpg?crop=0px%2C625px%2C5822px%2C3258px&resize=1440%2C810"
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Sanxingdui-Niu-Lai.jpg"
               },
               {
                 "t": "p",
-                "x": "シルベスター・スタローンが、AIはハリウッドが受け入れ、取り込むしかない不可避の力だとして、その活用を擁護している。"
+                "x": "製作側が中国初の完全AI-generatedの劇場長編とうたう作品が、興行で惨敗した。技術への熱意が必ずしも観客の需要につながるわけではないことを、出資者に思い出させたのかもしれない。"
               },
               {
                 "t": "p",
-                "x": "80歳の彼はLionsgateが手がける『John Rambo』の前日譚に触れ、当初は自ら若き日の自分を演じ、AIで若返らせる案を提案していたと明かした（実際には30歳のノア・センティネオが起用された）。"
-              },
-              {
-                "t": "p",
-                "x": "「こう言うと叩かれるが、AIはなくならない」と彼はThe Overlapに語った。「半分人間、半分AI（half-human, half-AI）で作って組み合わせたかった。もちろん皆が大騒ぎしている」"
-              },
-              {
-                "t": "p",
-                "x": "「だから私はそのリスクを取る。クリエイティブ界から猛烈に批判されてもだ。そして彼らの[不満は]正しい！彼らは正しい。だが、これは止められない。雪崩なんだ。もう我々の手には負えない。乗らなければ、踏みつぶされるだけだ」"
-              },
-              {
-                "t": "p",
-                "x": "彼はまた、演技の仕事は「AIのせいでもっと難しくなる」と警告し、俳優である娘のスカーレット・ローズ・スタローンにゲームの道に進むよう勧めたと語った。『John Rambo』は2027年6月4日公開予定である。"
+                "x": "推計によると、Bona Film Groupの『Sanxingdui: Future Past』はOctober 23の公開から月曜日までに、RMB1.21 million（$181,000）しか稼げなかった。Bonaによれば、このSF長編の製作費はRMB10 million（$1.5 million）を超え、100人近くが二年以上をかけた。公開初日には10,000回を超える上映が組まれていた。"
               },
               {
                 "t": "video",
-                "yt": "Axv-1C9-07U"
+                "src": "https://cbgccdn.thecover.cn/ROmsWADgcpbtRMydJVR1792720023949.mp4"
+              },
+              {
+                "t": "p",
+                "x": "この低調な滑り出しは、中国の観客が『Niu Lai』を受け入れてから二か月後のことだ。『Niu Lai』はXin Yumeng監督と、その母で脚本家のSun Lifangが低予算で作った長編である。最初の十日間の興収は約RMB7,700（$1,150）だったが、粗いモデリングとぎこちないアニメーションのクリップがネットで広まってから状況が変わった。『Niu Lai』の累計興収は現在RMB64.29 million、約$10 millionに達している。"
+              },
+              {
+                "t": "p",
+                "x": "Cartoon Brewは、どちらの作品もAIに対する観客の態度について普遍的な法則を示すものではないと強調する。ただ、映画製作のブレークスルーだという『Sanxingdui』の主張は、映画の魔法を求める観客にはかなり響かなかった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "史泰龙谈AI：顺应\n否则被碾压",
-          "body": "80岁的西尔维斯特·史泰龙表示，AI已成定局，行业必须接纳它。",
-          "mini_headline": "史泰龙力挺AI",
+          "headline": "中国首部AI长片\n票房遭遇惨败",
+          "body": "《Sanxingdui: Future Past》票房仅收$181,000。",
+          "mini_headline": "中国AI长片票房失利",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/GettyImages-1423314969.jpg?crop=0px%2C625px%2C5822px%2C3258px&resize=1440%2C810"
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Sanxingdui-Niu-Lai.jpg"
               },
               {
                 "t": "p",
-                "x": "西尔维斯特·史泰龙为AI的使用辩护，称其是好莱坞只能接受并拥抱的必然力量。"
+                "x": "这部被出品方称为中国首部完全 AI-generated 院线长片的电影在票房上遭遇惨败，或许也提醒了投资方：对这项技术的热情，未必能转化为观众的观影需求。"
               },
               {
                 "t": "p",
-                "x": "谈及Lionsgate即将推出的《John Rambo》前传时，这位80岁的演员说，他最初提议亲自饰演年轻时的自己，并用AI为表演减龄（最终由30岁的诺亚·森蒂内奥出演）。"
-              },
-              {
-                "t": "p",
-                "x": "“我因为这个惹了麻烦，[但]AI会一直存在，”他对The Overlap说，“我想做一半真人、一半AI（half-human, half-AI），再把它们合在一起，当然所有人都炸了锅。”"
-              },
-              {
-                "t": "p",
-                "x": "“所以我愿意冒这个险，哪怕会被创意圈猛烈抨击。而且他们的[抱怨]是对的！他们是对的。但我们阻止不了。这是一场雪崩。它已经完全不受我们控制。如果你不顺应它，就会被它碾压。”"
-              },
-              {
-                "t": "p",
-                "x": "他还警告，表演“会因为AI变得更难”，并称自己已让身为演员的女儿斯嘉丽·罗斯·史泰龙去做游戏。《John Rambo》定于2027年6月4日上映。"
+                "x": "据估算，Bona Film Group 的《Sanxingdui: Future Past》于 October 23 上映，截至周一仅收入 RMB1.21 million（$181,000）。据 Bona 介绍，这部科幻长片成本超过 RMB10 million（$1.5 million），近 100 人投入了两年多时间。首映日排片超过 10,000 场。"
               },
               {
                 "t": "video",
-                "yt": "Axv-1C9-07U"
+                "src": "https://cbgccdn.thecover.cn/ROmsWADgcpbtRMydJVR1792720023949.mp4"
+              },
+              {
+                "t": "p",
+                "x": "两个月前，中国观众刚刚热捧了《Niu Lai》。这部低成本长片由导演 Xin Yumeng 与其母亲、编剧 Sun Lifang 制作。它上映头十天只收入约 RMB7,700（$1,150），直到其粗糙建模和僵硬动画的片段在网上流传开来。《Niu Lai》目前累计票房已达 RMB64.29 million，接近 $10 million。"
+              },
+              {
+                "t": "p",
+                "x": "Cartoon Brew 强调，两部电影都不能说明观众对 AI 态度的普遍规律，但对于寻找电影魔力的观众来说，《Sanxingdui》自称代表电影制作突破的说法，显然远没有那么有吸引力。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Stallone sobre la AI: adaptarse\no ser aplastado",
-          "body": "Sylvester Stallone, de 80 años, afirma que la industria debe adoptar la AI porque ha llegado para quedarse.",
-          "mini_headline": "Stallone respalda la AI",
+          "headline": "Primer largometraje chino de AI\nfracasa en taquilla",
+          "body": "La cinta de AI de Bona Film Group 'Sanxingdui: Future Past' recaudó solo $181,000, y 'Niu Lai' rozó $10 millones.",
+          "mini_headline": "Fracasa el largometraje chino de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/GettyImages-1423314969.jpg?crop=0px%2C625px%2C5822px%2C3258px&resize=1440%2C810"
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Sanxingdui-Niu-Lai.jpg"
               },
               {
                 "t": "p",
-                "x": "Sylvester Stallone defiende el uso de la AI como una fuerza inevitable que Hollywood tendrá que aceptar y adoptar."
+                "x": "El primer largometraje de cine de China íntegramente AI-generated, según sus productores, ha fracasado en taquilla, lo que quizá recuerde a los financiadores que el entusiasmo por la tecnología no se traduce necesariamente en demanda del público."
               },
               {
                 "t": "p",
-                "x": "Al referirse a la próxima precuela de John Rambo de Lionsgate, el actor de 80 años dijo que en un principio propuso interpretar a su yo más joven y usar AI para rejuvenecer su actuación (finalmente se eligió a Noah Centineo, de 30 años)."
-              },
-              {
-                "t": "p",
-                "x": "“Me meto en problemas por esto, [pero] la AI ha llegado para quedarse”, dijo a The Overlap. “Quería hacerlo mitad humano, mitad AI (half-human, half-AI) y juntarlo, y claro, todo el mundo se está volviendo loco”."
-              },
-              {
-                "t": "p",
-                "x": "“Así que asumiría ese riesgo, aunque la comunidad creativa te critique con estruendo. ¡Y sus [quejas son] justas! Tienen razón. Pero no podemos detener esto. Es una avalancha. Está fuera de nuestro control. Si no vas con ella, te pasará por encima”."
-              },
-              {
-                "t": "p",
-                "x": "También advirtió que actuar “va a ser más difícil por culpa de la AI” y contó que le dijo a su hija, la actriz Scarlet Rose Stallone, que se dedicara a los videojuegos. John Rambo tiene su estreno previsto para el 4 de junio de 2027."
+                "x": "Las estimaciones indican que Sanxingdui: Future Past, de Bona Film Group, recaudó solo RMB1.21 millones ($181,000) hasta el lunes, tras su estreno el 23 de octubre. Según Bona, el largometraje de ciencia ficción costó más de RMB10 millones ($1.5 millones) y exigió el trabajo de casi 100 personas durante más de dos años. Para el día del estreno se programaron más de 10,000 funciones."
               },
               {
                 "t": "video",
-                "yt": "Axv-1C9-07U"
+                "src": "https://cbgccdn.thecover.cn/ROmsWADgcpbtRMydJVR1792720023949.mp4"
+              },
+              {
+                "t": "p",
+                "x": "El pobre debut llega dos meses después de que el público chino abrazara Niu Lai, un largometraje de bajo presupuesto hecho por el director Xin Yumeng y su madre, la guionista Sun Lifang. Recaudó unos RMB7,700 ($1,150) en sus primeros diez días, hasta que se difundieron en internet fragmentos de su modelado tosco y su animación rígida. Niu Lai ya ha recaudado RMB64.29 millones, casi $10 millones."
+              },
+              {
+                "t": "p",
+                "x": "Cartoon Brew subraya que ninguna de las dos películas establece una regla universal sobre la actitud del público ante la AI, pero la pretensión de Sanxingdui de representar un avance en el cine ha resultado bastante menos convincente para los espectadores que buscan la magia del cine."
               }
             ]
           }
@@ -553,153 +529,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "스탤론 \"AI 따르거나\n짓밟히거나\"",
-          "body": "80세 실베스터 스탤론은 AI가 사라지지 않으니 업계가 받아들여야 한다고 말했다.",
-          "mini_headline": "스탤론, AI 옹호",
+          "headline": "중국 첫 AI 장편 영화\n박스오피스서 흥행 참패",
+          "body": "'Sanxingdui: Future Past'는 $181,000에 그쳤다.",
+          "mini_headline": "중국 AI 장편 흥행 참패",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/GettyImages-1423314969.jpg?crop=0px%2C625px%2C5822px%2C3258px&resize=1440%2C810"
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Sanxingdui-Niu-Lai.jpg"
               },
               {
                 "t": "p",
-                "x": "실베스터 스탤론이 AI를 할리우드가 결국 받아들이고 끌어안아야 할 거스를 수 없는 흐름이라며 옹호하고 나섰다."
+                "x": "제작사가 중국 최초의 완전 AI-generated 극장용 장편이라고 내세운 영화가 박스오피스에서 참패했다. 기술에 대한 열광이 곧 관객 수요로 이어지지는 않는다는 사실을 투자자들에게 일깨웠을지도 모른다."
               },
               {
                 "t": "p",
-                "x": "80세인 그는 Lionsgate가 준비 중인 John Rambo 프리퀄을 언급하며, 원래는 자신이 젊은 시절의 자신을 직접 연기하고 AI로 디에이징하는 방안을 제안했다고 밝혔다. 결국 이 역에는 30세 노아 센티네오가 캐스팅됐다."
-              },
-              {
-                "t": "p",
-                "x": "그는 The Overlap에 “이 말 때문에 곤란해지곤 하지만 AI는 사라지지 않는다”며 “반은 사람, 반은 AI(half-human, half-AI)로 만들어 합치고 싶었는데, 물론 다들 난리가 났다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "“그래서 창작 커뮤니티에서 요란하게 비난을 받더라도 나는 그 위험을 감수하겠다. 그리고 그들의 [불만은] 옳다! 그들이 옳다. 하지만 우리는 이걸 막을 수 없다. 이건 눈사태다. 우리 통제를 완전히 벗어났다. 함께 가지 않으면 그것에 짓밟히고 만다.”"
-              },
-              {
-                "t": "p",
-                "x": "그는 연기가 “AI 때문에 더 어려워질 것”이라고 경고하며, 배우인 딸 스칼릿 로즈 스탤론에게 게임 쪽으로 가라고 권했다고 말했다. John Rambo는 2027년 6월 4일 개봉 예정이다."
+                "x": "추정치에 따르면 Bona Film Group의 'Sanxingdui: Future Past'는 October 23 개봉 후 월요일까지 RMB1.21 million($181,000)을 버는 데 그쳤다. Bona에 따르면 이 SF 장편에는 RMB10 million($1.5 million) 이상이 들었고, 100명 가까운 인력이 두 해 넘게 매달렸다. 개봉일에는 10,000회가 넘는 상영이 잡혀 있었다."
               },
               {
                 "t": "video",
-                "yt": "Axv-1C9-07U"
+                "src": "https://cbgccdn.thecover.cn/ROmsWADgcpbtRMydJVR1792720023949.mp4"
+              },
+              {
+                "t": "p",
+                "x": "이 부진한 출발은 중국 관객이 'Niu Lai'를 받아들인 지 두 달 만에 나왔다. 'Niu Lai'는 Xin Yumeng 감독과 그의 어머니인 각본가 Sun Lifang이 적은 예산으로 만든 장편이다. 개봉 첫 열흘 동안 약 RMB7,700($1,150)을 버는 데 그쳤지만, 조악한 모델링과 뻣뻣한 애니메이션을 담은 클립이 온라인에 퍼진 뒤 흐름이 바뀌었다. 'Niu Lai'의 현재 누적 흥행 수입은 RMB64.29 million, 약 $10 million에 이른다."
+              },
+              {
+                "t": "p",
+                "x": "Cartoon Brew는 두 영화 모두 AI를 대하는 관객 태도에 관한 보편적 법칙을 보여주지는 않는다고 강조한다. 다만 영화 제작의 돌파구라는 'Sanxingdui'의 주장은 영화적 마법을 찾는 관객에게 훨씬 덜 설득력 있는 것으로 드러났다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "スタローン「AIに従うか\n踏みつぶされるか」",
-          "body": "80歳のシルベスター・スタローンは、AIは定着するので業界は受け入れるべきだと語った。",
-          "mini_headline": "スタローン、AIを支持",
+          "headline": "中国初のAI長編映画\n興行で大失敗",
+          "body": "『Sanxingdui: Future Past』の興収は$181,000にとどまった。",
+          "mini_headline": "中国のAI長編が興行不振",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/GettyImages-1423314969.jpg?crop=0px%2C625px%2C5822px%2C3258px&resize=1440%2C810"
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Sanxingdui-Niu-Lai.jpg"
               },
               {
                 "t": "p",
-                "x": "シルベスター・スタローンが、AIはハリウッドが受け入れ、取り込むしかない不可避の力だとして、その活用を擁護している。"
+                "x": "製作側が中国初の完全AI-generatedの劇場長編とうたう作品が、興行で惨敗した。技術への熱意が必ずしも観客の需要につながるわけではないことを、出資者に思い出させたのかもしれない。"
               },
               {
                 "t": "p",
-                "x": "80歳の彼はLionsgateが手がける『John Rambo』の前日譚に触れ、当初は自ら若き日の自分を演じ、AIで若返らせる案を提案していたと明かした（実際には30歳のノア・センティネオが起用された）。"
-              },
-              {
-                "t": "p",
-                "x": "「こう言うと叩かれるが、AIはなくならない」と彼はThe Overlapに語った。「半分人間、半分AI（half-human, half-AI）で作って組み合わせたかった。もちろん皆が大騒ぎしている」"
-              },
-              {
-                "t": "p",
-                "x": "「だから私はそのリスクを取る。クリエイティブ界から猛烈に批判されてもだ。そして彼らの[不満は]正しい！彼らは正しい。だが、これは止められない。雪崩なんだ。もう我々の手には負えない。乗らなければ、踏みつぶされるだけだ」"
-              },
-              {
-                "t": "p",
-                "x": "彼はまた、演技の仕事は「AIのせいでもっと難しくなる」と警告し、俳優である娘のスカーレット・ローズ・スタローンにゲームの道に進むよう勧めたと語った。『John Rambo』は2027年6月4日公開予定である。"
+                "x": "推計によると、Bona Film Groupの『Sanxingdui: Future Past』はOctober 23の公開から月曜日までに、RMB1.21 million（$181,000）しか稼げなかった。Bonaによれば、このSF長編の製作費はRMB10 million（$1.5 million）を超え、100人近くが二年以上をかけた。公開初日には10,000回を超える上映が組まれていた。"
               },
               {
                 "t": "video",
-                "yt": "Axv-1C9-07U"
+                "src": "https://cbgccdn.thecover.cn/ROmsWADgcpbtRMydJVR1792720023949.mp4"
+              },
+              {
+                "t": "p",
+                "x": "この低調な滑り出しは、中国の観客が『Niu Lai』を受け入れてから二か月後のことだ。『Niu Lai』はXin Yumeng監督と、その母で脚本家のSun Lifangが低予算で作った長編である。最初の十日間の興収は約RMB7,700（$1,150）だったが、粗いモデリングとぎこちないアニメーションのクリップがネットで広まってから状況が変わった。『Niu Lai』の累計興収は現在RMB64.29 million、約$10 millionに達している。"
+              },
+              {
+                "t": "p",
+                "x": "Cartoon Brewは、どちらの作品もAIに対する観客の態度について普遍的な法則を示すものではないと強調する。ただ、映画製作のブレークスルーだという『Sanxingdui』の主張は、映画の魔法を求める観客にはかなり響かなかった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "史泰龙谈AI：顺应\n否则被碾压",
-          "body": "80岁的西尔维斯特·史泰龙表示，AI已成定局，行业必须接纳它。",
-          "mini_headline": "史泰龙力挺AI",
+          "headline": "中国首部AI长片\n票房遭遇惨败",
+          "body": "《Sanxingdui: Future Past》票房仅收$181,000。",
+          "mini_headline": "中国AI长片票房失利",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/GettyImages-1423314969.jpg?crop=0px%2C625px%2C5822px%2C3258px&resize=1440%2C810"
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Sanxingdui-Niu-Lai.jpg"
               },
               {
                 "t": "p",
-                "x": "西尔维斯特·史泰龙为AI的使用辩护，称其是好莱坞只能接受并拥抱的必然力量。"
+                "x": "这部被出品方称为中国首部完全 AI-generated 院线长片的电影在票房上遭遇惨败，或许也提醒了投资方：对这项技术的热情，未必能转化为观众的观影需求。"
               },
               {
                 "t": "p",
-                "x": "谈及Lionsgate即将推出的《John Rambo》前传时，这位80岁的演员说，他最初提议亲自饰演年轻时的自己，并用AI为表演减龄（最终由30岁的诺亚·森蒂内奥出演）。"
-              },
-              {
-                "t": "p",
-                "x": "“我因为这个惹了麻烦，[但]AI会一直存在，”他对The Overlap说，“我想做一半真人、一半AI（half-human, half-AI），再把它们合在一起，当然所有人都炸了锅。”"
-              },
-              {
-                "t": "p",
-                "x": "“所以我愿意冒这个险，哪怕会被创意圈猛烈抨击。而且他们的[抱怨]是对的！他们是对的。但我们阻止不了。这是一场雪崩。它已经完全不受我们控制。如果你不顺应它，就会被它碾压。”"
-              },
-              {
-                "t": "p",
-                "x": "他还警告，表演“会因为AI变得更难”，并称自己已让身为演员的女儿斯嘉丽·罗斯·史泰龙去做游戏。《John Rambo》定于2027年6月4日上映。"
+                "x": "据估算，Bona Film Group 的《Sanxingdui: Future Past》于 October 23 上映，截至周一仅收入 RMB1.21 million（$181,000）。据 Bona 介绍，这部科幻长片成本超过 RMB10 million（$1.5 million），近 100 人投入了两年多时间。首映日排片超过 10,000 场。"
               },
               {
                 "t": "video",
-                "yt": "Axv-1C9-07U"
+                "src": "https://cbgccdn.thecover.cn/ROmsWADgcpbtRMydJVR1792720023949.mp4"
+              },
+              {
+                "t": "p",
+                "x": "两个月前，中国观众刚刚热捧了《Niu Lai》。这部低成本长片由导演 Xin Yumeng 与其母亲、编剧 Sun Lifang 制作。它上映头十天只收入约 RMB7,700（$1,150），直到其粗糙建模和僵硬动画的片段在网上流传开来。《Niu Lai》目前累计票房已达 RMB64.29 million，接近 $10 million。"
+              },
+              {
+                "t": "p",
+                "x": "Cartoon Brew 强调，两部电影都不能说明观众对 AI 态度的普遍规律，但对于寻找电影魔力的观众来说，《Sanxingdui》自称代表电影制作突破的说法，显然远没有那么有吸引力。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Stallone sobre la AI: adaptarse\no ser aplastado",
-          "body": "Sylvester Stallone, de 80 años, afirma que la industria debe adoptar la AI porque ha llegado para quedarse.",
-          "mini_headline": "Stallone respalda la AI",
+          "headline": "Primer largometraje chino de AI\nfracasa en taquilla",
+          "body": "La cinta de AI de Bona Film Group 'Sanxingdui: Future Past' recaudó solo $181,000, y 'Niu Lai' rozó $10 millones.",
+          "mini_headline": "Fracasa el largometraje chino de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/GettyImages-1423314969.jpg?crop=0px%2C625px%2C5822px%2C3258px&resize=1440%2C810"
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Sanxingdui-Niu-Lai.jpg"
               },
               {
                 "t": "p",
-                "x": "Sylvester Stallone defiende el uso de la AI como una fuerza inevitable que Hollywood tendrá que aceptar y adoptar."
+                "x": "El primer largometraje de cine de China íntegramente AI-generated, según sus productores, ha fracasado en taquilla, lo que quizá recuerde a los financiadores que el entusiasmo por la tecnología no se traduce necesariamente en demanda del público."
               },
               {
                 "t": "p",
-                "x": "Al referirse a la próxima precuela de John Rambo de Lionsgate, el actor de 80 años dijo que en un principio propuso interpretar a su yo más joven y usar AI para rejuvenecer su actuación (finalmente se eligió a Noah Centineo, de 30 años)."
-              },
-              {
-                "t": "p",
-                "x": "“Me meto en problemas por esto, [pero] la AI ha llegado para quedarse”, dijo a The Overlap. “Quería hacerlo mitad humano, mitad AI (half-human, half-AI) y juntarlo, y claro, todo el mundo se está volviendo loco”."
-              },
-              {
-                "t": "p",
-                "x": "“Así que asumiría ese riesgo, aunque la comunidad creativa te critique con estruendo. ¡Y sus [quejas son] justas! Tienen razón. Pero no podemos detener esto. Es una avalancha. Está fuera de nuestro control. Si no vas con ella, te pasará por encima”."
-              },
-              {
-                "t": "p",
-                "x": "También advirtió que actuar “va a ser más difícil por culpa de la AI” y contó que le dijo a su hija, la actriz Scarlet Rose Stallone, que se dedicara a los videojuegos. John Rambo tiene su estreno previsto para el 4 de junio de 2027."
+                "x": "Las estimaciones indican que Sanxingdui: Future Past, de Bona Film Group, recaudó solo RMB1.21 millones ($181,000) hasta el lunes, tras su estreno el 23 de octubre. Según Bona, el largometraje de ciencia ficción costó más de RMB10 millones ($1.5 millones) y exigió el trabajo de casi 100 personas durante más de dos años. Para el día del estreno se programaron más de 10,000 funciones."
               },
               {
                 "t": "video",
-                "yt": "Axv-1C9-07U"
+                "src": "https://cbgccdn.thecover.cn/ROmsWADgcpbtRMydJVR1792720023949.mp4"
+              },
+              {
+                "t": "p",
+                "x": "El pobre debut llega dos meses después de que el público chino abrazara Niu Lai, un largometraje de bajo presupuesto hecho por el director Xin Yumeng y su madre, la guionista Sun Lifang. Recaudó unos RMB7,700 ($1,150) en sus primeros diez días, hasta que se difundieron en internet fragmentos de su modelado tosco y su animación rígida. Niu Lai ya ha recaudado RMB64.29 millones, casi $10 millones."
+              },
+              {
+                "t": "p",
+                "x": "Cartoon Brew subraya que ninguna de las dos películas establece una regla universal sobre la actitud del público ante la AI, pero la pretensión de Sanxingdui de representar un avance en el cine ha resultado bastante menos convincente para los espectadores que buscan la magia del cine."
               }
             ]
           }
@@ -707,189 +667,141 @@
       }
     },
     {
-      "id": "movies-mahabharat-indonesia-myth",
+      "id": "movies-character-consistency",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "마하바라트 AI 스튜디오\n인도네시아 신화로",
-      "body": "마하바라트 AI사가 Singhasari SEZ와 인도네시아 신화 IP를 만든다.",
-      "mini_headline": "마하바라트 AI사, 인도네시아로",
+      "headline": "AI 캐릭터 일관성\n해법 두 가지 비교",
+      "body": "Curious Refuge가 AI 영화의 캐릭터 일관성 기법 두 가지를 견준다.",
+      "mini_headline": "AI 캐릭터 일관성 테스트",
       "tool": "Movies",
-      "source": "Variety",
-      "url": "https://variety.com/2026/tv/news/ai-india-mahabharat-series-indonesian-myth-1236930485/",
+      "source": "Curious Refuge",
+      "url": "https://www.youtube.com/watch?v=ktEt4n9VlF4",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/10/Collective-Galleri5.jpg?w=1000&h=563&crop=1"
+            "t": "video",
+            "yt": "ktEt4n9VlF4"
           },
           {
             "t": "p",
-            "x": "Star Plus·JioHotstar 시리즈 'Mahabharat: Ek Dharmayudh'를 만든 AI 기술이 인도네시아로 간다. 개발사 Galleri5와 같은 Collective 계열인 Collective Studios의 Historyverse가 인도네시아의 신화와 역사에서 끌어낸 영화·시리즈를 만든다."
+            "x": "널리 쓰이는 AI 캐릭터 일관성 기법 두 가지를 나란히 놓고, AI 영화 제작에 실제로 어느 쪽이 더 맞는지 따져 본다."
           },
           {
             "t": "p",
-            "x": "Historyverse는 Galleri5, Singhasari Special Economic Zone(싱하사리 경제특구)과 손잡고 신화·판타지·역사·애니메이션을 아우르는 사업을 펼친다. 첫 프로젝트로 논의 중인 작품은 오리지널 신화 어드벤처이고 가제는 'Echoes of Nusantara'다."
-          },
-          {
-            "t": "p",
-            "x": "Galleri5의 G5 AI Studio는 200개가 넘는 AI 모델을 스토리보드, 캐릭터·세계관 디자인, 애니메이션, VFX, 영화 수준의 영상 도구와 한데 묶었다. 이 플랫폼에서 만든 광고와 영상은 10,000편이 넘는다."
-          },
-          {
-            "t": "p",
-            "x": "Collective Artists Network 창업자 겸 그룹 CEO 비자이 수브라마니암은 “다음 세대의 글로벌 엔터테인먼트 프랜차이즈가 모두 할리우드에서 나오지는 않을 것”이라고 말했다. Singhasari는 인도네시아의 창작자와 스튜디오, 투자자, 배급사에 이 사업을 알리는 역할을 맡는다."
+            "x": "전체 해설과 프롬프트는 다음 링크에 있다: curiousrefuge.com/blog/how-to-create-pro-ai-character-sheets"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Mahabharat AI studio turns\nto Indonesian myth",
-          "body": "The AI firm behind Mahabharat: Ek Dharmayudh will develop Indonesian mythology film and series IP with Singhasari SEZ.",
-          "mini_headline": "Mahabharat AI firm eyes Indonesia",
+          "headline": "Two fixes for AI character\nconsistency, tested",
+          "body": "Curious Refuge compares two popular character consistency methods to see which works better for AI filmmaking.",
+          "mini_headline": "Testing AI character consistency",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Collective-Galleri5.jpg?w=1000&h=563&crop=1"
+                "t": "video",
+                "yt": "ktEt4n9VlF4"
               },
               {
                 "t": "p",
-                "x": "The AI technology behind Star Plus and JioHotstar series “Mahabharat: Ek Dharmayudh” is headed to Indonesia. Its developer Galleri5 and fellow Collective company Collective Studios’ Historyverse plan to create film and series properties drawn from the country’s myths and history."
+                "x": "In this video, we'll compare two popular AI character consistency methods to see which one actually works better for AI filmmaking."
               },
               {
                 "t": "p",
-                "x": "Historyverse is partnering with Galleri5 and Singhasari Special Economic Zone on the venture, covering mythology, fantasy, history and animation. The first project being discussed is “Echoes of Nusantara,” a working title for an original mythology-adventure."
-              },
-              {
-                "t": "p",
-                "x": "Galleri5’s G5 AI Studio brings more than 200 AI models together with tools for storyboarding, character and world design, animation, VFX and film-quality video; more than 10,000 ads and videos have been made on the platform."
-              },
-              {
-                "t": "p",
-                "x": "“The next global entertainment franchises will not all come from Hollywood,” said Vijay Subramaniam, founder and group CEO of Collective Artists Network. Singhasari will introduce the venture to Indonesian creators, studios, investors and distributors."
+                "x": "Check out the full written breakdown and prompts here: curiousrefuge.com/blog/how-to-create-pro-ai-character-sheets"
               }
             ]
           }
         },
         "ko": {
-          "headline": "마하바라트 AI 스튜디오\n인도네시아 신화로",
-          "body": "마하바라트 AI사가 Singhasari SEZ와 인도네시아 신화 IP를 만든다.",
-          "mini_headline": "마하바라트 AI사, 인도네시아로",
+          "headline": "AI 캐릭터 일관성\n해법 두 가지 비교",
+          "body": "Curious Refuge가 AI 영화의 캐릭터 일관성 기법 두 가지를 견준다.",
+          "mini_headline": "AI 캐릭터 일관성 테스트",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Collective-Galleri5.jpg?w=1000&h=563&crop=1"
+                "t": "video",
+                "yt": "ktEt4n9VlF4"
               },
               {
                 "t": "p",
-                "x": "Star Plus·JioHotstar 시리즈 'Mahabharat: Ek Dharmayudh'를 만든 AI 기술이 인도네시아로 간다. 개발사 Galleri5와 같은 Collective 계열인 Collective Studios의 Historyverse가 인도네시아의 신화와 역사에서 끌어낸 영화·시리즈를 만든다."
+                "x": "널리 쓰이는 AI 캐릭터 일관성 기법 두 가지를 나란히 놓고, AI 영화 제작에 실제로 어느 쪽이 더 맞는지 따져 본다."
               },
               {
                 "t": "p",
-                "x": "Historyverse는 Galleri5, Singhasari Special Economic Zone(싱하사리 경제특구)과 손잡고 신화·판타지·역사·애니메이션을 아우르는 사업을 펼친다. 첫 프로젝트로 논의 중인 작품은 오리지널 신화 어드벤처이고 가제는 'Echoes of Nusantara'다."
-              },
-              {
-                "t": "p",
-                "x": "Galleri5의 G5 AI Studio는 200개가 넘는 AI 모델을 스토리보드, 캐릭터·세계관 디자인, 애니메이션, VFX, 영화 수준의 영상 도구와 한데 묶었다. 이 플랫폼에서 만든 광고와 영상은 10,000편이 넘는다."
-              },
-              {
-                "t": "p",
-                "x": "Collective Artists Network 창업자 겸 그룹 CEO 비자이 수브라마니암은 “다음 세대의 글로벌 엔터테인먼트 프랜차이즈가 모두 할리우드에서 나오지는 않을 것”이라고 말했다. Singhasari는 인도네시아의 창작자와 스튜디오, 투자자, 배급사에 이 사업을 알리는 역할을 맡는다."
+                "x": "전체 해설과 프롬프트는 다음 링크에 있다: curiousrefuge.com/blog/how-to-create-pro-ai-character-sheets"
               }
             ]
           }
         },
         "ja": {
-          "headline": "マハーバーラタのAIスタジオ\nインドネシア神話へ",
-          "body": "マハーバーラタのAI企業がSinghasari SEZとインドネシア神話IPを開発する。",
-          "mini_headline": "マハーバーラタのAI企業、インドネシアへ",
+          "headline": "AIキャラ一貫性の\n二つの手法を検証",
+          "body": "Curious RefugeがAI映画向けに人気のキャラクター一貫性手法二つを比較する。",
+          "mini_headline": "AIキャラクター一貫性を検証",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Collective-Galleri5.jpg?w=1000&h=563&crop=1"
+                "t": "video",
+                "yt": "ktEt4n9VlF4"
               },
               {
                 "t": "p",
-                "x": "Star PlusとJioHotstarのシリーズ『Mahabharat: Ek Dharmayudh』を支えたAI技術が、インドネシアに向かう。開発元のGalleri5と、同じCollective傘下のCollective StudiosによるHistoryverseは、同国の神話と歴史に基づく映画・シリーズ作品を制作する計画だ。"
+                "x": "この動画では、人気のあるAIキャラクター一貫性の手法二つを比較し、AI映画制作に実際どちらが向いているかを確かめる。"
               },
               {
                 "t": "p",
-                "x": "HistoryverseはGalleri5およびSinghasari Special Economic Zone（シンガサリ経済特区）と組み、神話、ファンタジー、歴史、アニメーションを手がける。最初に協議されている企画は、オリジナルの神話アドベンチャーで、仮題は『Echoes of Nusantara』である。"
-              },
-              {
-                "t": "p",
-                "x": "Galleri5のG5 AI Studioは、200を超えるAIモデルを、絵コンテ、キャラクターと世界観のデザイン、アニメーション、VFX、映画品質の映像制作ツールとまとめて提供する。このプラットフォームではこれまでに10,000本を超える広告や動画が作られている。"
-              },
-              {
-                "t": "p",
-                "x": "Collective Artists Networkの創業者でグループCEOのヴィジャイ・スブラマニアム氏は「次の世界的なエンタメ・フランチャイズが、すべてハリウッドから生まれるわけではない」と述べた。Singhasariはこの事業をインドネシアのクリエイター、スタジオ、投資家、配給会社に紹介する。"
+                "x": "詳しい解説とプロンプトはこちら：curiousrefuge.com/blog/how-to-create-pro-ai-character-sheets"
               }
             ]
           }
         },
         "zh": {
-          "headline": "《摩诃婆罗多》AI公司\n转向印尼神话",
-          "body": "《摩诃婆罗多》背后的AI公司将与Singhasari SEZ开发印尼神话影视IP。",
-          "mini_headline": "《摩诃婆罗多》AI公司进军印尼",
+          "headline": "AI角色一致性\n两种方案实测",
+          "body": "Curious Refuge比较两种热门角色一致性方法，看哪种更适合AI电影制作。",
+          "mini_headline": "实测AI角色一致性",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Collective-Galleri5.jpg?w=1000&h=563&crop=1"
+                "t": "video",
+                "yt": "ktEt4n9VlF4"
               },
               {
                 "t": "p",
-                "x": "Star Plus与JioHotstar剧集《Mahabharat: Ek Dharmayudh》背后的AI技术将进军印尼。其开发商Galleri5与同属Collective旗下的Collective Studios的Historyverse，计划以该国神话和历史为素材打造电影和剧集作品。"
+                "x": "在这段视频中，我们将比较两种热门的 AI 角色一致性方法，看看哪一种真正更适合 AI 电影制作。"
               },
               {
                 "t": "p",
-                "x": "Historyverse将与Galleri5及Singhasari Special Economic Zone（新柯沙里经济特区）合作推进该项目，涵盖神话、奇幻、历史和动画。目前正在商讨的首个项目是一部原创神话冒险作品，暂定名为《Echoes of Nusantara》。"
-              },
-              {
-                "t": "p",
-                "x": "Galleri5的G5 AI Studio将200多个AI模型与分镜、角色与世界观设计、动画、VFX及电影级视频工具整合在一起；该平台已制作了10,000多条广告和视频。"
-              },
-              {
-                "t": "p",
-                "x": "Collective Artists Network创始人兼集团CEO维杰·苏布拉马尼亚姆表示：“下一批全球娱乐系列IP不会全都来自好莱坞。”Singhasari将向印尼的创作者、制片公司、投资者和发行商介绍这一项目。"
+                "x": "完整的文字解析和提示词请见：curiousrefuge.com/blog/how-to-create-pro-ai-character-sheets"
               }
             ]
           }
         },
         "es": {
-          "headline": "El estudio AI de Mahabharat\nmira al mito indonesio",
-          "body": "La firma AI de Mahabharat: Ek Dharmayudh creará IP de cine y series de mitología indonesia con Singhasari SEZ.",
-          "mini_headline": "La firma AI de Mahabharat mira a Indonesia",
+          "headline": "Dos soluciones a la coherencia\nde personajes con AI, a prueba",
+          "body": "Curious Refuge compara dos métodos populares de coherencia de personajes para ver cuál funciona mejor en cine con AI.",
+          "mini_headline": "Coherencia de personajes con AI, a prueba",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Collective-Galleri5.jpg?w=1000&h=563&crop=1"
+                "t": "video",
+                "yt": "ktEt4n9VlF4"
               },
               {
                 "t": "p",
-                "x": "La tecnología AI detrás de la serie de Star Plus y JioHotstar “Mahabharat: Ek Dharmayudh” llega a Indonesia. Su desarrolladora, Galleri5, y Historyverse, de Collective Studios, otra empresa de Collective, planean crear películas y series basadas en los mitos y la historia del país."
+                "x": "En este video comparamos dos métodos populares de coherencia de personajes con AI para ver cuál funciona realmente mejor en el cine hecho con AI."
               },
               {
                 "t": "p",
-                "x": "Historyverse se asocia con Galleri5 y con la Singhasari Special Economic Zone en el proyecto, que abarcará mitología, fantasía, historia y animación. El primer proyecto en conversación es “Echoes of Nusantara”, título provisional de una aventura mitológica original."
-              },
-              {
-                "t": "p",
-                "x": "G5 AI Studio, de Galleri5, reúne más de 200 modelos de AI con herramientas de storyboard, diseño de personajes y mundos, animación, VFX y video con calidad cinematográfica; en la plataforma se han creado más de 10,000 anuncios y videos."
-              },
-              {
-                "t": "p",
-                "x": "“Las próximas franquicias globales de entretenimiento no saldrán todas de Hollywood”, afirmó Vijay Subramaniam, fundador y CEO del grupo Collective Artists Network. Singhasari presentará el proyecto a creadores, estudios, inversores y distribuidores de Indonesia."
+                "x": "El análisis completo por escrito y los prompts están aquí: curiousrefuge.com/blog/how-to-create-pro-ai-character-sheets"
               }
             ]
           }
@@ -897,121 +809,89 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "마하바라트 AI 스튜디오\n인도네시아 신화로",
-          "body": "마하바라트 AI사가 Singhasari SEZ와 인도네시아 신화 IP를 만든다.",
-          "mini_headline": "마하바라트 AI사, 인도네시아로",
+          "headline": "AI 캐릭터 일관성\n해법 두 가지 비교",
+          "body": "Curious Refuge가 AI 영화용 캐릭터 일관성 기법 둘을 비교한다.",
+          "mini_headline": "AI 캐릭터 일관성 테스트",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Collective-Galleri5.jpg?w=1000&h=563&crop=1"
+                "t": "video",
+                "yt": "ktEt4n9VlF4"
               },
               {
                 "t": "p",
-                "x": "Star Plus·JioHotstar 시리즈 'Mahabharat: Ek Dharmayudh'를 만든 AI 기술이 인도네시아로 향한다. 개발사 Galleri5와 같은 Collective 계열인 Collective Studios의 Historyverse가 인도네시아의 신화와 역사에서 끌어낸 영화·시리즈 작품을 만들 계획이다."
+                "x": "이 영상에서는 널리 쓰이는 AI 캐릭터 일관성 기법 두 가지를 비교해, AI 영화 제작에 실제로 어느 쪽이 더 잘 맞는지 살펴본다."
               },
               {
                 "t": "p",
-                "x": "Historyverse는 Galleri5, Singhasari Special Economic Zone(싱하사리 경제특구)과 손잡고 신화·판타지·역사·애니메이션을 아우르는 사업을 펼친다. 논의 중인 첫 프로젝트는 오리지널 신화 어드벤처로, 가제는 'Echoes of Nusantara'다."
-              },
-              {
-                "t": "p",
-                "x": "Galleri5의 G5 AI Studio는 200개가 넘는 AI 모델을 스토리보드, 캐릭터·세계관 디자인, 애니메이션, VFX, 영화 수준의 영상 도구와 한데 묶었다. 이 플랫폼에서 만든 광고와 영상은 10,000편이 넘는다."
-              },
-              {
-                "t": "p",
-                "x": "Collective Artists Network 창업자 겸 그룹 CEO 비자이 수브라마니암은 “다음 세대의 글로벌 엔터테인먼트 프랜차이즈가 모두 할리우드에서 나오지는 않을 것”이라고 말했다. Singhasari는 인도네시아 창작자, 스튜디오, 투자자, 배급사에 이 사업을 소개할 예정이다."
+                "x": "전체 해설과 프롬프트는 여기서 볼 수 있다: curiousrefuge.com/blog/how-to-create-pro-ai-character-sheets"
               }
             ]
           }
         },
         "ja": {
-          "headline": "マハーバーラタのAIスタジオ\nインドネシア神話へ",
-          "body": "マハーバーラタのAI企業がSinghasari SEZとインドネシア神話IPを開発する。",
-          "mini_headline": "マハーバーラタのAI企業、インドネシアへ",
+          "headline": "AIキャラ一貫性の\n二つの手法を検証",
+          "body": "Curious RefugeがAI映画向けに人気のキャラクター一貫性手法二つを比較する。",
+          "mini_headline": "AIキャラクター一貫性を検証",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Collective-Galleri5.jpg?w=1000&h=563&crop=1"
+                "t": "video",
+                "yt": "ktEt4n9VlF4"
               },
               {
                 "t": "p",
-                "x": "Star PlusとJioHotstarのシリーズ『Mahabharat: Ek Dharmayudh』を支えたAI技術が、インドネシアに向かう。開発元のGalleri5と、同じCollective傘下のCollective StudiosによるHistoryverseは、同国の神話と歴史に基づく映画・シリーズ作品を制作する計画だ。"
+                "x": "この動画では、人気のあるAIキャラクター一貫性の手法二つを比較し、AI映画制作に実際どちらが向いているかを確かめる。"
               },
               {
                 "t": "p",
-                "x": "HistoryverseはGalleri5およびSinghasari Special Economic Zone（シンガサリ経済特区）と組み、神話、ファンタジー、歴史、アニメーションを手がける。最初に協議されている企画は、オリジナルの神話アドベンチャーで、仮題は『Echoes of Nusantara』である。"
-              },
-              {
-                "t": "p",
-                "x": "Galleri5のG5 AI Studioは、200を超えるAIモデルを、絵コンテ、キャラクターと世界観のデザイン、アニメーション、VFX、映画品質の映像制作ツールとまとめて提供する。このプラットフォームではこれまでに10,000本を超える広告や動画が作られている。"
-              },
-              {
-                "t": "p",
-                "x": "Collective Artists Networkの創業者でグループCEOのヴィジャイ・スブラマニアム氏は「次の世界的なエンタメ・フランチャイズが、すべてハリウッドから生まれるわけではない」と述べた。Singhasariはこの事業をインドネシアのクリエイター、スタジオ、投資家、配給会社に紹介する。"
+                "x": "詳しい解説とプロンプトはこちら：curiousrefuge.com/blog/how-to-create-pro-ai-character-sheets"
               }
             ]
           }
         },
         "zh": {
-          "headline": "《摩诃婆罗多》AI公司\n转向印尼神话",
-          "body": "《摩诃婆罗多》背后的AI公司将与Singhasari SEZ开发印尼神话影视IP。",
-          "mini_headline": "《摩诃婆罗多》AI公司进军印尼",
+          "headline": "AI角色一致性\n两种方案实测",
+          "body": "Curious Refuge比较两种热门角色一致性方法，看哪种更适合AI电影制作。",
+          "mini_headline": "实测AI角色一致性",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Collective-Galleri5.jpg?w=1000&h=563&crop=1"
+                "t": "video",
+                "yt": "ktEt4n9VlF4"
               },
               {
                 "t": "p",
-                "x": "Star Plus与JioHotstar剧集《Mahabharat: Ek Dharmayudh》背后的AI技术将进军印尼。其开发商Galleri5与同属Collective旗下的Collective Studios的Historyverse，计划以该国神话和历史为素材打造电影和剧集作品。"
+                "x": "在这段视频中，我们将比较两种热门的 AI 角色一致性方法，看看哪一种真正更适合 AI 电影制作。"
               },
               {
                 "t": "p",
-                "x": "Historyverse将与Galleri5及Singhasari Special Economic Zone（新柯沙里经济特区）合作推进该项目，涵盖神话、奇幻、历史和动画。目前正在商讨的首个项目是一部原创神话冒险作品，暂定名为《Echoes of Nusantara》。"
-              },
-              {
-                "t": "p",
-                "x": "Galleri5的G5 AI Studio将200多个AI模型与分镜、角色与世界观设计、动画、VFX及电影级视频工具整合在一起；该平台已制作了10,000多条广告和视频。"
-              },
-              {
-                "t": "p",
-                "x": "Collective Artists Network创始人兼集团CEO维杰·苏布拉马尼亚姆表示：“下一批全球娱乐系列IP不会全都来自好莱坞。”Singhasari将向印尼的创作者、制片公司、投资者和发行商介绍这一项目。"
+                "x": "完整的文字解析和提示词请见：curiousrefuge.com/blog/how-to-create-pro-ai-character-sheets"
               }
             ]
           }
         },
         "es": {
-          "headline": "El estudio AI de Mahabharat\nmira al mito indonesio",
-          "body": "La firma AI de Mahabharat: Ek Dharmayudh creará IP de cine y series de mitología indonesia con Singhasari SEZ.",
-          "mini_headline": "La firma AI de Mahabharat mira a Indonesia",
+          "headline": "Dos soluciones a la coherencia\nde personajes con AI, a prueba",
+          "body": "Curious Refuge compara dos métodos populares de coherencia de personajes para ver cuál funciona mejor en cine con AI.",
+          "mini_headline": "Coherencia de personajes con AI, a prueba",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Collective-Galleri5.jpg?w=1000&h=563&crop=1"
+                "t": "video",
+                "yt": "ktEt4n9VlF4"
               },
               {
                 "t": "p",
-                "x": "La tecnología AI detrás de la serie de Star Plus y JioHotstar “Mahabharat: Ek Dharmayudh” llega a Indonesia. Su desarrolladora, Galleri5, y Historyverse, de Collective Studios, otra empresa de Collective, planean crear películas y series basadas en los mitos y la historia del país."
+                "x": "En este video comparamos dos métodos populares de coherencia de personajes con AI para ver cuál funciona realmente mejor en el cine hecho con AI."
               },
               {
                 "t": "p",
-                "x": "Historyverse se asocia con Galleri5 y con la Singhasari Special Economic Zone en el proyecto, que abarcará mitología, fantasía, historia y animación. El primer proyecto en conversación es “Echoes of Nusantara”, título provisional de una aventura mitológica original."
-              },
-              {
-                "t": "p",
-                "x": "G5 AI Studio, de Galleri5, reúne más de 200 modelos de AI con herramientas de storyboard, diseño de personajes y mundos, animación, VFX y video con calidad cinematográfica; en la plataforma se han creado más de 10,000 anuncios y videos."
-              },
-              {
-                "t": "p",
-                "x": "“Las próximas franquicias globales de entretenimiento no saldrán todas de Hollywood”, afirmó Vijay Subramaniam, fundador y CEO del grupo Collective Artists Network. Singhasari presentará el proyecto a creadores, estudios, inversores y distribuidores de Indonesia."
+                "x": "El análisis completo por escrito y los prompts están aquí: curiousrefuge.com/blog/how-to-create-pro-ai-character-sheets"
               }
             ]
           }
@@ -1019,15 +899,15 @@
       }
     },
     {
-      "id": "movies-gods-gifts-afm-agc",
+      "id": "movies-ramayana-ai-dub",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "가십 고블린 AI 영화,\nAGC와 AFM 간다",
-      "body": "AGC가 AI 영화 Gods Don't Give Gifts를 AFM에 내놓는다.",
-      "mini_headline": "AI 영화 Gods Don't Give Gifts, AFM 간다",
+      "headline": "Ramayana 더빙에\nAI 립싱크를 쓴다",
+      "body": "힌디어로만 찍은 Ramayana Part 1은 Brahma AI로 더빙을 입힌다.",
+      "mini_headline": "Ramayana, AI-assisted 더빙",
       "tool": "Movies",
-      "source": "Deadline",
-      "url": "https://deadline.com/2026/10/gossip-goblin-gods-dont-give-gifts-heads-to-afm-sales-1237170580/",
+      "source": "Times Now",
+      "url": "https://www.timesnownews.com/entertainment-news/bollywood/ramayan-producer-namit-malhotra-explains-how-human-voices-combined-with-ai-formed-english-dubbing-article-156399525",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -1035,173 +915,221 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://deadline.com/wp-content/uploads/2026/10/Sailors.jpg?w=1024"
+            "src": "https://images.timesnownews.com/thumb/msid-156399526,thumbsize-1025251,width-1280,height-720,resizemode-75/156399526.jpg"
           },
           {
             "t": "p",
-            "x": "스튜어트 포드가 이끄는 AGC Studios의 판매·배급 부문 AGC International이 Gods Don’t Give Gifts를 배급 라인업에 올렸다. 장편 AI-generated SF 대작인 이 영화는 American Film Market에서 바이어들에게 공개된다."
+            "x": "Ramayana Part 1은 출연진과 함께 힌디어로 촬영했고 영어로는 찍지 않았다. 대신 Brahma AI가 사람 배우와 컴퓨터 작업을 오디오에 결합해, 언어판마다 화면 속 배우의 입 움직임과 맞아떨어지게 한다. 영어 예고편은 대부분의 배우가 직접 더빙했고 AI는 쓰지 않았다. Nitesh Tiwari가 연출한 'Ramayana: Rise of a Legend'는 November 5 극장과 IMAX에서 개봉한다."
+          },
+          {
+            "t": "img",
+            "src": "https://images.timesnownews.com/thumb/msid-156399528,width-1600,height-900,resizemode-75/156399528.jpg"
           },
           {
             "t": "p",
-            "x": "크리에이터이자 YouTuber인 잭 런던(일명 Gossip Goblin)의 장편 데뷔작이다. 완전히 AI로 만든(AI-generated) 영화 가운데 가장 먼저 극장에 걸리는 작품 중 하나가 된다. U.S. 개봉일은 12월 4일이고 아카데미 애니메이션 부문을 노린 시상식 캠페인도 벌인다."
+            "x": "프로듀서 Namit Malhotra는 ET Now 인터뷰에서 이 영화를 전 세계 40개 언어로 개봉할 계획이라고 밝혔다. 대사는 성우가, 때로는 실제 배우가 녹음한다. 립싱크 역시 사람이 감독한다. “우리가 휴먼 드라이버라고 부르는 사람들이 입술이 어떻게 움직이고 목소리에 어떻게 맞춰지는지의 토대를 만듭니다.”"
           },
           {
             "t": "p",
-            "x": "10월 6일 공개된 예고편은 조회수 1500만 회를 넘었다. 런던의 Gossip Goblin YouTube 채널 구독자는 140만 명이다."
+            "x": "그다음 전용 도구가 AI로 그 연기를 배우 얼굴에 이어 붙인다. Malhotra는 “그래서 완전히 매끄럽게 느껴집니다”라고 말했다."
+          },
+          {
+            "t": "img",
+            "src": "https://images.timesnownews.com/thumb/msid-156399529,width-1600,height-900,resizemode-75/156399529.jpg"
           },
           {
             "t": "p",
-            "x": "런던은 이 영화가 “작가, 아티스트, 애니메이터, 성우, 음악가, 전통 후반작업 팀까지 갖춘 온전한 팀이 10개월 넘게 쏟아부은 고된 작업의 결실이며, AI는 우리 이야기를 큰 규모로 들려주도록 도운 도구였다”고 말했다."
+            "x": "출연진은 Lord Rama 역 Ranbir Kapoor, Ravana 역 Yash, Sita 역 Sai Pallavi, Lakshman 역 Ravie Dubey, Hanuman 역 Sunny Deol이다. 'Ramayana: Part 1'의 월드 프리미어는 October 27, 2026 Academy Museum of Motion Pictures에서 열린다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Gossip Goblin's AI film\nheads to AFM with AGC",
-          "body": "AGC is taking Gossip Goblin's AI sci-fi film Gods Don't Give Gifts to the AFM market for sales.",
-          "mini_headline": "AI film Gods Don't Give Gifts at AFM",
+          "headline": "Ramayana uses AI lip-sync for\nits English and global dubs",
+          "body": "Shot only in Hindi, Ramayana Part 1 uses Brahma AI to stitch human-recorded dubs onto actors' faces in other languages.",
+          "mini_headline": "Ramayana's AI-assisted dub",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Sailors.jpg?w=1024"
+                "src": "https://images.timesnownews.com/thumb/msid-156399526,thumbsize-1025251,width-1280,height-720,resizemode-75/156399526.jpg"
               },
               {
                 "t": "p",
-                "x": "AGC International, the sales and distribution arm of Stuart Ford’s AGC Studios, is adding Gods Don’t Give Gifts to its distribution slate and will introduce the feature length AI-generated sci-fi epic to buyers at the American Film Market."
+                "x": "Ramayana Part 1 was shot in Hindi with its cast, but not in English. Instead, Brahma AI incorporates human actors and computer work on the audio so the different language versions match the actors' verbal movements on screen. Most of the actors dubbed the English trailer themselves, which had no AI. Directed by Nitesh Tiwari, Ramayana: Rise of a Legend releases in theatres and IMAX on November 5."
+              },
+              {
+                "t": "img",
+                "src": "https://images.timesnownews.com/thumb/msid-156399528,width-1600,height-900,resizemode-75/156399528.jpg"
               },
               {
                 "t": "p",
-                "x": "The feature debut from creator and YouTuber Zack London (aka Gossip Goblin) has been lined up as one of the first fully AI-generated movies to get a theatrical release, with a U.S. release set for December 4th and an awards campaign aimed at the Academy’s animation category."
+                "x": "Speaking to ET Now, producer Namit Malhotra said the film is reportedly going to be released in 40 languages worldwide. Voice actors and sometimes the actual actors record the dialogue. Lip syncing is also supervised by humans: \"They are what we call human drivers who create this foundation of how the lips move and how they sync themselves to the voice.\""
               },
               {
                 "t": "p",
-                "x": "Since its launch on October 6th, the trailer has passed 15 million views. London’s Gossip Goblin YouTube channel has 1.4 million subscribers."
+                "x": "A bespoke tool then uses AI to stitch the performance into the face of the actor. \"So it feels absolutely seamless,\" Malhotra said."
+              },
+              {
+                "t": "img",
+                "src": "https://images.timesnownews.com/thumb/msid-156399529,width-1600,height-900,resizemode-75/156399529.jpg"
               },
               {
                 "t": "p",
-                "x": "London said the film is “the culmination of 10+ months of intense work across a full team of writers, artists, animators, voice actors, musicians, and a trad postproduction crew — AI was a tool to help us tell our story at scale.”"
+                "x": "The cast includes Ranbir Kapoor as Lord Rama, Yash as Ravana, Sai Pallavi as Sita, Ravie Dubey as Lakshman and Sunny Deol as Hanuman. Ramayana: Part 1 has its world premiere at the Academy Museum of Motion Pictures on October 27, 2026."
               }
             ]
           }
         },
         "ko": {
-          "headline": "가십 고블린 AI 영화,\nAGC와 AFM 간다",
-          "body": "AGC가 AI 영화 Gods Don't Give Gifts를 AFM에 내놓는다.",
-          "mini_headline": "AI 영화 Gods Don't Give Gifts, AFM 간다",
+          "headline": "Ramayana 더빙에\nAI 립싱크를 쓴다",
+          "body": "힌디어로만 찍은 Ramayana Part 1은 Brahma AI로 더빙을 입힌다.",
+          "mini_headline": "Ramayana, AI-assisted 더빙",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Sailors.jpg?w=1024"
+                "src": "https://images.timesnownews.com/thumb/msid-156399526,thumbsize-1025251,width-1280,height-720,resizemode-75/156399526.jpg"
               },
               {
                 "t": "p",
-                "x": "스튜어트 포드가 이끄는 AGC Studios의 판매·배급 부문 AGC International이 Gods Don’t Give Gifts를 배급 라인업에 올렸다. 장편 AI-generated SF 대작인 이 영화는 American Film Market에서 바이어들에게 공개된다."
+                "x": "Ramayana Part 1은 출연진과 함께 힌디어로 촬영했고 영어로는 찍지 않았다. 대신 Brahma AI가 사람 배우와 컴퓨터 작업을 오디오에 결합해, 언어판마다 화면 속 배우의 입 움직임과 맞아떨어지게 한다. 영어 예고편은 대부분의 배우가 직접 더빙했고 AI는 쓰지 않았다. Nitesh Tiwari가 연출한 'Ramayana: Rise of a Legend'는 November 5 극장과 IMAX에서 개봉한다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.timesnownews.com/thumb/msid-156399528,width-1600,height-900,resizemode-75/156399528.jpg"
               },
               {
                 "t": "p",
-                "x": "크리에이터이자 YouTuber인 잭 런던(일명 Gossip Goblin)의 장편 데뷔작이다. 완전히 AI로 만든(AI-generated) 영화 가운데 가장 먼저 극장에 걸리는 작품 중 하나가 된다. U.S. 개봉일은 12월 4일이고 아카데미 애니메이션 부문을 노린 시상식 캠페인도 벌인다."
+                "x": "프로듀서 Namit Malhotra는 ET Now 인터뷰에서 이 영화를 전 세계 40개 언어로 개봉할 계획이라고 밝혔다. 대사는 성우가, 때로는 실제 배우가 녹음한다. 립싱크 역시 사람이 감독한다. “우리가 휴먼 드라이버라고 부르는 사람들이 입술이 어떻게 움직이고 목소리에 어떻게 맞춰지는지의 토대를 만듭니다.”"
               },
               {
                 "t": "p",
-                "x": "10월 6일 공개된 예고편은 조회수 1500만 회를 넘었다. 런던의 Gossip Goblin YouTube 채널 구독자는 140만 명이다."
+                "x": "그다음 전용 도구가 AI로 그 연기를 배우 얼굴에 이어 붙인다. Malhotra는 “그래서 완전히 매끄럽게 느껴집니다”라고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.timesnownews.com/thumb/msid-156399529,width-1600,height-900,resizemode-75/156399529.jpg"
               },
               {
                 "t": "p",
-                "x": "런던은 이 영화가 “작가, 아티스트, 애니메이터, 성우, 음악가, 전통 후반작업 팀까지 갖춘 온전한 팀이 10개월 넘게 쏟아부은 고된 작업의 결실이며, AI는 우리 이야기를 큰 규모로 들려주도록 도운 도구였다”고 말했다."
+                "x": "출연진은 Lord Rama 역 Ranbir Kapoor, Ravana 역 Yash, Sita 역 Sai Pallavi, Lakshman 역 Ravie Dubey, Hanuman 역 Sunny Deol이다. 'Ramayana: Part 1'의 월드 프리미어는 October 27, 2026 Academy Museum of Motion Pictures에서 열린다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ゴシップ・ゴブリンのAI映画\nAGCとAFMへ",
-          "body": "AGCがAI映画『Gods Don't Give Gifts』をAFMで売り込む。",
-          "mini_headline": "AI映画『Gods Don't Give Gifts』AFMへ",
+          "headline": "Ramayanaの吹替に\nAIリップシンク",
+          "body": "ヒンディー語で撮ったRamayana Part 1はBrahma AIで吹替を合成する。",
+          "mini_headline": "RamayanaのAI-assisted吹き替え",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Sailors.jpg?w=1024"
+                "src": "https://images.timesnownews.com/thumb/msid-156399526,thumbsize-1025251,width-1280,height-720,resizemode-75/156399526.jpg"
               },
               {
                 "t": "p",
-                "x": "スチュアート・フォード率いるAGC Studiosのセールス・配給部門AGC Internationalが『Gods Don’t Give Gifts』を配給ラインナップに加え、この長編AI-generated SF大作をAmerican Film Marketでバイヤーに披露する。"
+                "x": "Ramayana Part 1はキャストとともにヒンディー語で撮影され、英語では撮影されていない。代わりにBrahma AIが人間の俳優とコンピューター処理を音声に組み合わせ、各言語版が画面上の俳優の口の動きに合うようにしている。英語版予告編はほとんどの俳優が自ら吹き替え、AIは使われていない。Nitesh Tiwari監督の『Ramayana: Rise of a Legend』はNovember 5に劇場とIMAXで公開される。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.timesnownews.com/thumb/msid-156399528,width-1600,height-900,resizemode-75/156399528.jpg"
               },
               {
                 "t": "p",
-                "x": "クリエイターでYouTuberのザック・ロンドン（別名Gossip Goblin）の長編デビュー作で、完全にAIで生成された（AI-generated）映画として劇場公開される最初期の作品の一つとなる見込みだ。U.S.公開は12月4日に設定され、アカデミー賞アニメーション部門を狙った賞レースのキャンペーンも展開する。"
+                "x": "プロデューサーのNamit MalhotraはET Nowに対し、本作は世界40言語で公開される予定だと語った。台詞は声優が、ときには本人の俳優が収録する。リップシンクも人間が監修する。「私たちがヒューマンドライバーと呼ぶ人たちが、唇がどう動き、声にどう同期するかという土台を作るのです」"
               },
               {
                 "t": "p",
-                "x": "10月6日の公開以来、予告編の再生回数は1500万回を超えた。ロンドンのYouTubeチャンネルGossip Goblinの登録者数は140万人である。"
+                "x": "その後、専用ツールがAIでその演技を俳優の顔に合成する。「だから、まったく継ぎ目なく感じられるのです」とMalhotraは述べた。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.timesnownews.com/thumb/msid-156399529,width-1600,height-900,resizemode-75/156399529.jpg"
               },
               {
                 "t": "p",
-                "x": "ロンドンは本作について「脚本家、アーティスト、アニメーター、声優、ミュージシャン、従来型のポストプロダクションスタッフからなるフルチームによる10カ月以上の集中作業の結晶であり、AIは私たちの物語を大きなスケールで語るための道具だった」と語った。"
+                "x": "キャストはLord Rama役のRanbir Kapoor、Ravana役のYash、Sita役のSai Pallavi、Lakshman役のRavie Dubey、Hanuman役のSunny Deolだ。『Ramayana: Part 1』はOctober 27, 2026、Academy Museum of Motion Picturesでワールドプレミアを迎える。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI科幻片随AGC\n登陆AFM市场",
-          "body": "AGC将携AI科幻片《Gods Don't Give Gifts》赴AFM销售。",
-          "mini_headline": "AI电影《Gods Don't Give Gifts》亮相AFM",
+          "headline": "Ramayana多语配音\n借AI实现口型同步",
+          "body": "仅用印地语拍摄的Ramayana Part 1借Brahma AI把真人配音贴合演员面部。",
+          "mini_headline": "Ramayana的AI-assisted配音",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Sailors.jpg?w=1024"
+                "src": "https://images.timesnownews.com/thumb/msid-156399526,thumbsize-1025251,width-1280,height-720,resizemode-75/156399526.jpg"
               },
               {
                 "t": "p",
-                "x": "斯图尔特·福特旗下AGC Studios的销售与发行部门AGC International将《Gods Don’t Give Gifts》纳入发行片单，并将在American Film Market上向买家推介这部长片AI-generated科幻史诗。"
+                "x": "Ramayana Part 1 由演员阵容用印地语拍摄，没有拍英语版。取而代之的是，Brahma AI 在音频上结合真人演员与计算机处理，让不同语言版本与银幕上演员的口型动作吻合。英语预告片由大多数演员亲自配音，没有使用 AI。由 Nitesh Tiwari 执导的《Ramayana: Rise of a Legend》将于 November 5 在影院和 IMAX 上映。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.timesnownews.com/thumb/msid-156399528,width-1600,height-900,resizemode-75/156399528.jpg"
               },
               {
                 "t": "p",
-                "x": "这是创作者兼YouTuber扎克·伦敦（又名Gossip Goblin）的长片处女作，有望成为首批获得院线上映的完全AI生成（AI-generated）电影之一，U.S.上映日期定于12月4日，并将展开冲击奥斯卡动画类奖项的颁奖季宣传。"
+                "x": "制片人 Namit Malhotra 对 ET Now 表示，据报道该片将以 40 种语言在全球上映。对白由配音演员录制，有时也由演员本人录制。对口型同样由人来把关：“他们就是我们所说的人类驱动者，负责打下基础，决定嘴唇如何运动、如何与声音同步。”"
               },
               {
                 "t": "p",
-                "x": "自10月6日发布以来，预告片播放量已超过1500万次。伦敦的Gossip Goblin YouTube频道拥有140万订阅者。"
+                "x": "随后，一款定制工具用 AI 把表演贴合到演员脸上。Malhotra 说：“所以感觉完全天衣无缝。”"
+              },
+              {
+                "t": "img",
+                "src": "https://images.timesnownews.com/thumb/msid-156399529,width-1600,height-900,resizemode-75/156399529.jpg"
               },
               {
                 "t": "p",
-                "x": "伦敦表示，这部电影是“由编剧、美术师、动画师、配音演员、音乐人以及传统后期制作团队组成的完整团队历经10多个月高强度工作的成果——AI是帮助我们大规模讲述故事的工具”。"
+                "x": "演员阵容包括饰演 Lord Rama 的 Ranbir Kapoor、饰演 Ravana 的 Yash、饰演 Sita 的 Sai Pallavi、饰演 Lakshman 的 Ravie Dubey 和饰演 Hanuman 的 Sunny Deol。《Ramayana: Part 1》将于 October 27, 2026 在 Academy Museum of Motion Pictures 举行全球首映。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La película AI de Gossip Goblin\nllega al AFM con AGC",
-          "body": "AGC venderá en el mercado AFM Gods Don't Give Gifts, la película AI de ciencia ficción de Gossip Goblin.",
-          "mini_headline": "La película AI Gods Don't Give Gifts, en el AFM",
+          "headline": "Ramayana usa lip-sync con AI\npara doblajes en inglés y más",
+          "body": "Rodada solo en hindi, Ramayana Part 1 usa Brahma AI para ajustar doblajes humanos a los rostros de los actores.",
+          "mini_headline": "El doblaje AI-assisted de Ramayana",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Sailors.jpg?w=1024"
+                "src": "https://images.timesnownews.com/thumb/msid-156399526,thumbsize-1025251,width-1280,height-720,resizemode-75/156399526.jpg"
               },
               {
                 "t": "p",
-                "x": "AGC International, la división de ventas y distribución de AGC Studios, de Stuart Ford, incorpora Gods Don’t Give Gifts a su catálogo y presentará esta épica de ciencia ficción AI-generated de largometraje a los compradores del American Film Market."
+                "x": "Ramayana Part 1 se rodó en hindi con su reparto, pero no en inglés. En su lugar, Brahma AI combina actores humanos y trabajo informático sobre el audio para que las versiones en distintos idiomas coincidan con los movimientos de boca de los actores en pantalla. La mayoría de los actores dobló por sí misma el tráiler en inglés, que no usó AI. Dirigida por Nitesh Tiwari, Ramayana: Rise of a Legend se estrena en cines e IMAX el 5 de noviembre."
+              },
+              {
+                "t": "img",
+                "src": "https://images.timesnownews.com/thumb/msid-156399528,width-1600,height-900,resizemode-75/156399528.jpg"
               },
               {
                 "t": "p",
-                "x": "El debut en el largometraje del creador y YouTuber Zack London (alias Gossip Goblin) se perfila como una de las primeras películas totalmente AI-generated en llegar a los cines, con estreno en U.S. fijado para el 4 de diciembre y una campaña de premios dirigida a la categoría de animación de la Academia."
+                "x": "En declaraciones a ET Now, el productor Namit Malhotra dijo que la película se estrenará, según se informa, en 40 idiomas en todo el mundo. Los diálogos los graban actores de voz y, a veces, los propios actores. La sincronización labial también la supervisan personas: “Son lo que llamamos conductores humanos, que crean la base de cómo se mueven los labios y cómo se sincronizan con la voz”."
               },
               {
                 "t": "p",
-                "x": "Desde su lanzamiento el 6 de octubre, el tráiler ha superado los 15 millones de visualizaciones. El canal de YouTube Gossip Goblin de London tiene 1.4 millones de suscriptores."
+                "x": "Después, una herramienta a medida usa AI para integrar la interpretación en el rostro del actor. “Así se siente totalmente fluido”, dijo Malhotra."
+              },
+              {
+                "t": "img",
+                "src": "https://images.timesnownews.com/thumb/msid-156399529,width-1600,height-900,resizemode-75/156399529.jpg"
               },
               {
                 "t": "p",
-                "x": "London afirmó que la película es “la culminación de más de 10 meses de trabajo intenso de un equipo completo de guionistas, artistas, animadores, actores de voz, músicos y un equipo tradicional de posproducción; la AI fue una herramienta para ayudarnos a contar nuestra historia a gran escala”."
+                "x": "El reparto incluye a Ranbir Kapoor como Lord Rama, Yash como Ravana, Sai Pallavi como Sita, Ravie Dubey como Lakshman y Sunny Deol como Hanuman. Ramayana: Part 1 tendrá su estreno mundial en el Academy Museum of Motion Pictures el 27 de octubre de 2026."
               }
             ]
           }
@@ -1209,573 +1137,153 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "가십 고블린 AI 영화,\nAGC와 AFM 간다",
-          "body": "AGC가 AI 영화 Gods Don't Give Gifts를 AFM에 내놓는다.",
-          "mini_headline": "AI 영화 Gods Don't Give Gifts, AFM 간다",
+          "headline": "Ramayana 더빙에\nAI 립싱크를 쓴다",
+          "body": "힌디어로만 찍은 Ramayana Part 1은 Brahma AI로 더빙을 입힌다.",
+          "mini_headline": "Ramayana, AI-assisted 더빙",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Sailors.jpg?w=1024"
+                "src": "https://images.timesnownews.com/thumb/msid-156399526,thumbsize-1025251,width-1280,height-720,resizemode-75/156399526.jpg"
               },
               {
                 "t": "p",
-                "x": "스튜어트 포드가 이끄는 AGC Studios의 판매·배급 부문 AGC International이 Gods Don’t Give Gifts를 배급 라인업에 추가하고, 이 장편 AI-generated SF 대작을 American Film Market에서 바이어들에게 선보인다."
+                "x": "Ramayana Part 1은 출연진과 함께 힌디어로 촬영했고, 영어로는 찍지 않았다. 대신 Brahma AI가 사람 배우와 컴퓨터 작업을 오디오에 결합해, 각 언어판이 화면 속 배우의 입 움직임과 맞도록 한다. 영어 예고편은 대부분의 배우가 직접 더빙했고, 여기에는 AI가 쓰이지 않았다. Nitesh Tiwari가 연출한 'Ramayana: Rise of a Legend'는 November 5 극장과 IMAX에서 개봉한다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.timesnownews.com/thumb/msid-156399528,width-1600,height-900,resizemode-75/156399528.jpg"
               },
               {
                 "t": "p",
-                "x": "크리에이터이자 YouTuber인 잭 런던(일명 Gossip Goblin)의 장편 데뷔작으로, 완전히 AI로 만든(AI-generated) 영화 가운데 처음으로 극장 개봉하는 작품 중 하나가 될 예정이다. U.S. 개봉일은 12월 4일이며, 아카데미 애니메이션 부문을 겨냥한 시상식 캠페인도 벌인다."
+                "x": "프로듀서 Namit Malhotra는 ET Now와의 인터뷰에서 이 영화가 전 세계 40개 언어로 개봉할 예정이라고 전했다. 대사는 성우가, 때로는 실제 배우가 녹음한다. 립싱크도 사람이 감독한다. “우리가 휴먼 드라이버라고 부르는 사람들이 입술이 어떻게 움직이고 목소리에 어떻게 맞춰지는지의 토대를 만듭니다.”"
               },
               {
                 "t": "p",
-                "x": "10월 6일 공개된 예고편은 조회수 1500만 회를 넘었다. 런던의 Gossip Goblin YouTube 채널 구독자는 140만 명이다."
+                "x": "이어 전용 도구가 AI로 그 연기를 배우의 얼굴에 이어 붙인다. Malhotra는 “그래서 완전히 매끄럽게 느껴집니다”라고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.timesnownews.com/thumb/msid-156399529,width-1600,height-900,resizemode-75/156399529.jpg"
               },
               {
                 "t": "p",
-                "x": "런던은 이 영화가 “작가, 아티스트, 애니메이터, 성우, 음악가, 전통 후반작업 팀까지 갖춘 온전한 팀이 10개월 넘게 쏟아부은 고된 작업의 결실이며, AI는 우리 이야기를 큰 규모로 들려주도록 도운 도구였다”고 말했다."
+                "x": "출연진은 Lord Rama 역의 Ranbir Kapoor, Ravana 역의 Yash, Sita 역의 Sai Pallavi, Lakshman 역의 Ravie Dubey, Hanuman 역의 Sunny Deol이다. 'Ramayana: Part 1'은 October 27, 2026에 Academy Museum of Motion Pictures에서 월드 프리미어를 연다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ゴシップ・ゴブリンのAI映画\nAGCとAFMへ",
-          "body": "AGCがAI映画『Gods Don't Give Gifts』をAFMで売り込む。",
-          "mini_headline": "AI映画『Gods Don't Give Gifts』AFMへ",
+          "headline": "Ramayanaの吹替に\nAIリップシンク",
+          "body": "ヒンディー語で撮ったRamayana Part 1はBrahma AIで吹替を合成する。",
+          "mini_headline": "RamayanaのAI-assisted吹き替え",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Sailors.jpg?w=1024"
+                "src": "https://images.timesnownews.com/thumb/msid-156399526,thumbsize-1025251,width-1280,height-720,resizemode-75/156399526.jpg"
               },
               {
                 "t": "p",
-                "x": "スチュアート・フォード率いるAGC Studiosのセールス・配給部門AGC Internationalが『Gods Don’t Give Gifts』を配給ラインナップに加え、この長編AI-generated SF大作をAmerican Film Marketでバイヤーに披露する。"
+                "x": "Ramayana Part 1はキャストとともにヒンディー語で撮影され、英語では撮影されていない。代わりにBrahma AIが人間の俳優とコンピューター処理を音声に組み合わせ、各言語版が画面上の俳優の口の動きに合うようにしている。英語版予告編はほとんどの俳優が自ら吹き替え、AIは使われていない。Nitesh Tiwari監督の『Ramayana: Rise of a Legend』はNovember 5に劇場とIMAXで公開される。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.timesnownews.com/thumb/msid-156399528,width-1600,height-900,resizemode-75/156399528.jpg"
               },
               {
                 "t": "p",
-                "x": "クリエイターでYouTuberのザック・ロンドン（別名Gossip Goblin）の長編デビュー作で、完全にAIで生成された（AI-generated）映画として劇場公開される最初期の作品の一つとなる見込みだ。U.S.公開は12月4日に設定され、アカデミー賞アニメーション部門を狙った賞レースのキャンペーンも展開する。"
+                "x": "プロデューサーのNamit MalhotraはET Nowに対し、本作は世界40言語で公開される予定だと語った。台詞は声優が、ときには本人の俳優が収録する。リップシンクも人間が監修する。「私たちがヒューマンドライバーと呼ぶ人たちが、唇がどう動き、声にどう同期するかという土台を作るのです」"
               },
               {
                 "t": "p",
-                "x": "10月6日の公開以来、予告編の再生回数は1500万回を超えた。ロンドンのYouTubeチャンネルGossip Goblinの登録者数は140万人である。"
+                "x": "その後、専用ツールがAIでその演技を俳優の顔に合成する。「だから、まったく継ぎ目なく感じられるのです」とMalhotraは述べた。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.timesnownews.com/thumb/msid-156399529,width-1600,height-900,resizemode-75/156399529.jpg"
               },
               {
                 "t": "p",
-                "x": "ロンドンは本作について「脚本家、アーティスト、アニメーター、声優、ミュージシャン、従来型のポストプロダクションスタッフからなるフルチームによる10カ月以上の集中作業の結晶であり、AIは私たちの物語を大きなスケールで語るための道具だった」と語った。"
+                "x": "キャストはLord Rama役のRanbir Kapoor、Ravana役のYash、Sita役のSai Pallavi、Lakshman役のRavie Dubey、Hanuman役のSunny Deolだ。『Ramayana: Part 1』はOctober 27, 2026、Academy Museum of Motion Picturesでワールドプレミアを迎える。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI科幻片随AGC\n登陆AFM市场",
-          "body": "AGC将携AI科幻片《Gods Don't Give Gifts》赴AFM销售。",
-          "mini_headline": "AI电影《Gods Don't Give Gifts》亮相AFM",
+          "headline": "Ramayana多语配音\n借AI实现口型同步",
+          "body": "仅用印地语拍摄的Ramayana Part 1借Brahma AI把真人配音贴合演员面部。",
+          "mini_headline": "Ramayana的AI-assisted配音",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Sailors.jpg?w=1024"
+                "src": "https://images.timesnownews.com/thumb/msid-156399526,thumbsize-1025251,width-1280,height-720,resizemode-75/156399526.jpg"
               },
               {
                 "t": "p",
-                "x": "斯图尔特·福特旗下AGC Studios的销售与发行部门AGC International将《Gods Don’t Give Gifts》纳入发行片单，并将在American Film Market上向买家推介这部长片AI-generated科幻史诗。"
+                "x": "Ramayana Part 1 由演员阵容用印地语拍摄，没有拍英语版。取而代之的是，Brahma AI 在音频上结合真人演员与计算机处理，让不同语言版本与银幕上演员的口型动作吻合。英语预告片由大多数演员亲自配音，没有使用 AI。由 Nitesh Tiwari 执导的《Ramayana: Rise of a Legend》将于 November 5 在影院和 IMAX 上映。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.timesnownews.com/thumb/msid-156399528,width-1600,height-900,resizemode-75/156399528.jpg"
               },
               {
                 "t": "p",
-                "x": "这是创作者兼YouTuber扎克·伦敦（又名Gossip Goblin）的长片处女作，有望成为首批获得院线上映的完全AI生成（AI-generated）电影之一，U.S.上映日期定于12月4日，并将展开冲击奥斯卡动画类奖项的颁奖季宣传。"
+                "x": "制片人 Namit Malhotra 对 ET Now 表示，据报道该片将以 40 种语言在全球上映。对白由配音演员录制，有时也由演员本人录制。对口型同样由人来把关：“他们就是我们所说的人类驱动者，负责打下基础，决定嘴唇如何运动、如何与声音同步。”"
               },
               {
                 "t": "p",
-                "x": "自10月6日发布以来，预告片播放量已超过1500万次。伦敦的Gossip Goblin YouTube频道拥有140万订阅者。"
+                "x": "随后，一款定制工具用 AI 把表演贴合到演员脸上。Malhotra 说：“所以感觉完全天衣无缝。”"
+              },
+              {
+                "t": "img",
+                "src": "https://images.timesnownews.com/thumb/msid-156399529,width-1600,height-900,resizemode-75/156399529.jpg"
               },
               {
                 "t": "p",
-                "x": "伦敦表示，这部电影是“由编剧、美术师、动画师、配音演员、音乐人以及传统后期制作团队组成的完整团队历经10多个月高强度工作的成果——AI是帮助我们大规模讲述故事的工具”。"
+                "x": "演员阵容包括饰演 Lord Rama 的 Ranbir Kapoor、饰演 Ravana 的 Yash、饰演 Sita 的 Sai Pallavi、饰演 Lakshman 的 Ravie Dubey 和饰演 Hanuman 的 Sunny Deol。《Ramayana: Part 1》将于 October 27, 2026 在 Academy Museum of Motion Pictures 举行全球首映。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La película AI de Gossip Goblin\nllega al AFM con AGC",
-          "body": "AGC venderá en el mercado AFM Gods Don't Give Gifts, la película AI de ciencia ficción de Gossip Goblin.",
-          "mini_headline": "La película AI Gods Don't Give Gifts, en el AFM",
+          "headline": "Ramayana usa lip-sync con AI\npara doblajes en inglés y más",
+          "body": "Rodada solo en hindi, Ramayana Part 1 usa Brahma AI para ajustar doblajes humanos a los rostros de los actores.",
+          "mini_headline": "El doblaje AI-assisted de Ramayana",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Sailors.jpg?w=1024"
+                "src": "https://images.timesnownews.com/thumb/msid-156399526,thumbsize-1025251,width-1280,height-720,resizemode-75/156399526.jpg"
               },
               {
                 "t": "p",
-                "x": "AGC International, la división de ventas y distribución de AGC Studios, de Stuart Ford, incorpora Gods Don’t Give Gifts a su catálogo y presentará esta épica de ciencia ficción AI-generated de largometraje a los compradores del American Film Market."
-              },
-              {
-                "t": "p",
-                "x": "El debut en el largometraje del creador y YouTuber Zack London (alias Gossip Goblin) se perfila como una de las primeras películas totalmente AI-generated en llegar a los cines, con estreno en U.S. fijado para el 4 de diciembre y una campaña de premios dirigida a la categoría de animación de la Academia."
-              },
-              {
-                "t": "p",
-                "x": "Desde su lanzamiento el 6 de octubre, el tráiler ha superado los 15 millones de visualizaciones. El canal de YouTube Gossip Goblin de London tiene 1.4 millones de suscriptores."
-              },
-              {
-                "t": "p",
-                "x": "London afirmó que la película es “la culminación de más de 10 meses de trabajo intenso de un equipo completo de guionistas, artistas, animadores, actores de voz, músicos y un equipo tradicional de posproducción; la AI fue una herramienta para ayudarnos a contar nuestra historia a gran escala”."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "movies-ai-listers-kilmer",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 발 킬머·틸리 노우드\n시험대 오른 합성 스타",
-      "body": "서부극에 나온 AI 발 킬머를 두고 합성 배우의 경쟁력에 전문가 의견이 갈린다.",
-      "mini_headline": "AI-listers, 진짜 스타와 만나다",
-      "tool": "Movies",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/oct/20/ai-actors-val-kilmer-as-deep-as-the-grave-tilly-norwood",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=1200&quality=85&auto=format&fit=max&s=b1ca27496def2de12e1099098a3dbabc",
-            "cap": "‘정말, 정말 무섭다’ … AI 배우 틸리 노우드."
-          },
-          {
-            "t": "p",
-            "x": "가족의 승인을 받아 AI로 만든(AI-created) 고(故) 발 킬머가 코어트 부히스 감독의 신작 서부극 As Deep as the Grave에 등장하자, 이런 기술이 살아 있는 배우를 쓸모없게 만들 수 있느냐는 논란이 인다."
-          },
-          {
-            "t": "p",
-            "x": "에밀리 블런트가 “정말, 정말 무섭다”고 표현한 AI ‘스타렛’ 틸리 노우드는 곧 장편 영화 Misaligned에 출연한다."
-          },
-          {
-            "t": "p",
-            "x": "Framestore의 최고크리에이티브책임자 팀 웨버는 회의적이다. “AI 모델은 사물의 표면을 학습한다 … 진짜 감정이 담긴 인간의 연기 수준에 이르기까지는 아직 갈 길이 한참 멀다.”"
-          },
-          {
-            "t": "p",
-            "x": "Higgsfield AI는 올해 완전한 AI-generated 장편 Hell Grind와 The Cully Hill Boys 두 편을 공개했다. 콘텐츠 책임자 아딜 알림자노프는 이 도구가 아티스트를 자유롭게 하고 할리우드식 제작 과정을 줄여 준다고 말한다. The Cully Hill Boys는 30초짜리 단위를 이어 붙여 만들었는데, 단위마다 4,000단어 분량의 프롬프트로 내용을 정했다."
-          },
-          {
-            "t": "img",
-            "src": "https://i.guim.co.uk/img/media/23483265fd1c7220a16680ff9715e1ba686881f0/363_0_1500_1200/master/1500.jpg?width=1225&quality=85&auto=format&fit=max&s=06b876a2db74e96ff2285bb48a7533bb",
-            "cap": "‘딱 꼬집어 말할 수 없다’ … Ready Player One의 타이 셰리던."
-          },
-          {
-            "t": "p",
-            "x": "Wonder Dynamics 공동 창업자 타이 셰리던, 웨버, AI 영화감독 잭 런던은 인간의 연기를 중심에 두는 하이브리드 방식을 선호한다. 셰리던은 “이 도구들은 정말 전설적인 연기를 끌어내도록 설계된 걸까, 아니면 평균치로 깎아내도록 설계된 걸까?”라고 묻는다."
-          },
-          {
-            "t": "p",
-            "x": "AI 영화에 흥행 수요가 있는지, 그러니까 진짜 경제적 근거가 있는지는 아직 분명하지 않다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "AI Val Kilmer and Tilly Norwood\nput synthetic stars to the test",
-          "body": "As an AI Val Kilmer stars in a western, experts are split on whether synthetic actors can rival real performers.",
-          "mini_headline": "AI-listers meet real stars",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=1200&quality=85&auto=format&fit=max&s=b1ca27496def2de12e1099098a3dbabc",
-                "cap": "‘Really, really scary’ … AI actor Tilly Norwood."
-              },
-              {
-                "t": "p",
-                "x": "An AI-created version of the late Val Kilmer, approved by his family, appears in the new western As Deep as the Grave from director Coerte Voorhees, bringing controversy about whether such technology could make flesh-and-blood actors redundant."
-              },
-              {
-                "t": "p",
-                "x": "AI “starlet” Tilly Norwood, whom Emily Blunt described as “really, really scary”, will soon appear in the feature-length film Misaligned."
-              },
-              {
-                "t": "p",
-                "x": "Framestore’s chief creative officer Tim Webber is sceptical: “AI models are trained on the surface of things … To get to the level where it’s a human performance, where there’s genuine emotion involved, is a long way further down.”"
-              },
-              {
-                "t": "p",
-                "x": "Higgsfield AI has released two entirely AI-generated features this year, Hell Grind and The Cully Hill Boys. Content lead Adil Alimzhanov says the tools liberate artists and shortcut Hollywood production; The Cully Hill Boys was assembled in 30-second chunks, each defined in a 4,000-word prompt."
+                "x": "Ramayana Part 1 se rodó en hindi con su reparto, pero no en inglés. En su lugar, Brahma AI combina actores humanos y trabajo informático sobre el audio para que las versiones en distintos idiomas coincidan con los movimientos de boca de los actores en pantalla. La mayoría de los actores dobló por sí misma el tráiler en inglés, que no usó AI. Dirigida por Nitesh Tiwari, Ramayana: Rise of a Legend se estrena en cines e IMAX el 5 de noviembre."
               },
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/23483265fd1c7220a16680ff9715e1ba686881f0/363_0_1500_1200/master/1500.jpg?width=1225&quality=85&auto=format&fit=max&s=06b876a2db74e96ff2285bb48a7533bb",
-                "cap": "‘You can’t put your finger on it’ … Tye Sheridan in Ready Player One."
+                "src": "https://images.timesnownews.com/thumb/msid-156399528,width-1600,height-900,resizemode-75/156399528.jpg"
               },
               {
                 "t": "p",
-                "x": "Wonder Dynamics co-founder Tye Sheridan, Webber and AI film-maker Zack London favour hybrid methods that keep a human performance at the core. “Are they really designed to deliver legendary performances, or are they designed to cut to an average?” asks Sheridan."
+                "x": "En declaraciones a ET Now, el productor Namit Malhotra dijo que la película se estrenará, según se informa, en 40 idiomas en todo el mundo. Los diálogos los graban actores de voz y, a veces, los propios actores. La sincronización labial también la supervisan personas: “Son lo que llamamos conductores humanos, que crean la base de cómo se mueven los labios y cómo se sincronizan con la voz”."
               },
               {
                 "t": "p",
-                "x": "It is still not clear whether box office demand, and thus a true economic case, for AI cinema exists."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI 발 킬머·틸리 노우드\n시험대 오른 합성 스타",
-          "body": "서부극에 나온 AI 발 킬머를 두고 합성 배우의 경쟁력에 전문가 의견이 갈린다.",
-          "mini_headline": "AI-listers, 진짜 스타와 만나다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=1200&quality=85&auto=format&fit=max&s=b1ca27496def2de12e1099098a3dbabc",
-                "cap": "‘정말, 정말 무섭다’ … AI 배우 틸리 노우드."
-              },
-              {
-                "t": "p",
-                "x": "가족의 승인을 받아 AI로 만든(AI-created) 고(故) 발 킬머가 코어트 부히스 감독의 신작 서부극 As Deep as the Grave에 등장하자, 이런 기술이 살아 있는 배우를 쓸모없게 만들 수 있느냐는 논란이 인다."
-              },
-              {
-                "t": "p",
-                "x": "에밀리 블런트가 “정말, 정말 무섭다”고 표현한 AI ‘스타렛’ 틸리 노우드는 곧 장편 영화 Misaligned에 출연한다."
-              },
-              {
-                "t": "p",
-                "x": "Framestore의 최고크리에이티브책임자 팀 웨버는 회의적이다. “AI 모델은 사물의 표면을 학습한다 … 진짜 감정이 담긴 인간의 연기 수준에 이르기까지는 아직 갈 길이 한참 멀다.”"
-              },
-              {
-                "t": "p",
-                "x": "Higgsfield AI는 올해 완전한 AI-generated 장편 Hell Grind와 The Cully Hill Boys 두 편을 공개했다. 콘텐츠 책임자 아딜 알림자노프는 이 도구가 아티스트를 자유롭게 하고 할리우드식 제작 과정을 줄여 준다고 말한다. The Cully Hill Boys는 30초짜리 단위를 이어 붙여 만들었는데, 단위마다 4,000단어 분량의 프롬프트로 내용을 정했다."
+                "x": "Después, una herramienta a medida usa AI para integrar la interpretación en el rostro del actor. “Así se siente totalmente fluido”, dijo Malhotra."
               },
               {
                 "t": "img",
-                "src": "https://i.guim.co.uk/img/media/23483265fd1c7220a16680ff9715e1ba686881f0/363_0_1500_1200/master/1500.jpg?width=1225&quality=85&auto=format&fit=max&s=06b876a2db74e96ff2285bb48a7533bb",
-                "cap": "‘딱 꼬집어 말할 수 없다’ … Ready Player One의 타이 셰리던."
+                "src": "https://images.timesnownews.com/thumb/msid-156399529,width-1600,height-900,resizemode-75/156399529.jpg"
               },
               {
                 "t": "p",
-                "x": "Wonder Dynamics 공동 창업자 타이 셰리던, 웨버, AI 영화감독 잭 런던은 인간의 연기를 중심에 두는 하이브리드 방식을 선호한다. 셰리던은 “이 도구들은 정말 전설적인 연기를 끌어내도록 설계된 걸까, 아니면 평균치로 깎아내도록 설계된 걸까?”라고 묻는다."
-              },
-              {
-                "t": "p",
-                "x": "AI 영화에 흥행 수요가 있는지, 그러니까 진짜 경제적 근거가 있는지는 아직 분명하지 않다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIのキルマーとノーウッド\n合成スターの真価を問う",
-          "body": "AIのヴァル・キルマーが西部劇に出演し、合成俳優が本物に並ぶかで専門家の見方が割れる。",
-          "mini_headline": "AI-listers、本物のスターと対峙",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=1200&quality=85&auto=format&fit=max&s=b1ca27496def2de12e1099098a3dbabc",
-                "cap": "「本当に、本当に怖い」… AI俳優ティリー・ノーウッド。"
-              },
-              {
-                "t": "p",
-                "x": "遺族の承認を得てAIで作られた（AI-created）故ヴァル・キルマーが、コーテ・ヴォーヒーズ監督の新作西部劇『As Deep as the Grave』に登場し、こうした技術が生身の俳優を不要にしかねないのかという論争を呼んでいる。"
-              },
-              {
-                "t": "p",
-                "x": "エミリー・ブラントが「本当に、本当に怖い」と評したAIの「スターレット」ティリー・ノーウッドは、近く長編映画『Misaligned』に出演する。"
-              },
-              {
-                "t": "p",
-                "x": "Framestoreの最高クリエイティブ責任者ティム・ウェバー氏は懐疑的だ。「AIモデルは物事の表面で学習している…本物の感情を伴う人間の演技の水準に達するには、まだはるかに遠い」"
-              },
-              {
-                "t": "p",
-                "x": "Higgsfield AIは今年、完全にAI-generatedの長編2本『Hell Grind』と『The Cully Hill Boys』を発表した。コンテンツ責任者のアディル・アリムジャノフ氏は、このツールがアーティストを解放し、ハリウッドの制作工程を短縮すると話す。『The Cully Hill Boys』は30秒単位で組み立てられ、各単位は4,000語のプロンプトで定義された。"
-              },
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/23483265fd1c7220a16680ff9715e1ba686881f0/363_0_1500_1200/master/1500.jpg?width=1225&quality=85&auto=format&fit=max&s=06b876a2db74e96ff2285bb48a7533bb",
-                "cap": "「はっきりとは言い表せない」… 『Ready Player One』のタイ・シェリダン。"
-              },
-              {
-                "t": "p",
-                "x": "Wonder Dynamicsの共同創業者タイ・シェリダン、ウェバー氏、AI映画作家ザック・ロンドンは、人間の演技を核に据えたハイブリッドな手法を支持する。「本当に伝説的な演技を生むために設計されているのか、それとも平均へと切り詰めるために設計されているのか」とシェリダンは問う。"
-              },
-              {
-                "t": "p",
-                "x": "AI映画に興行面の需要、つまり真の経済的な根拠があるのかは、まだはっきりしていない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI方基墨与蒂莉·诺伍德\n合成明星迎来考验",
-          "body": "AI版方基墨主演西部片，专家对合成演员能否媲美真人演员看法不一。",
-          "mini_headline": "AI-listers遇上真明星",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=1200&quality=85&auto=format&fit=max&s=b1ca27496def2de12e1099098a3dbabc",
-                "cap": "“真的、真的很可怕”……AI演员蒂莉·诺伍德。"
-              },
-              {
-                "t": "p",
-                "x": "经家人同意、由AI打造（AI-created）的已故演员方基墨，出现在导演科尔特·沃尔希斯的新西部片《As Deep as the Grave》中，引发了这类技术是否会让真人演员变得多余的争议。"
-              },
-              {
-                "t": "p",
-                "x": "被艾米莉·布朗特形容为“真的、真的很可怕”的AI“小明星”蒂莉·诺伍德，即将出演长片《Misaligned》。"
-              },
-              {
-                "t": "p",
-                "x": "Framestore首席创意官蒂姆·韦伯持怀疑态度：“AI模型是基于事物的表面来训练的……要达到人类表演的水准、真正带有情感，还有很长的路要走。”"
-              },
-              {
-                "t": "p",
-                "x": "Higgsfield AI今年发布了两部完全AI-generated的长片《Hell Grind》和《The Cully Hill Boys》。内容负责人阿迪尔·阿利姆扎诺夫表示，这些工具解放了艺术家，也缩短了好莱坞的制作流程；《The Cully Hill Boys》以30秒为单位拼接而成，每段都由一条4,000词的提示词定义。"
-              },
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/23483265fd1c7220a16680ff9715e1ba686881f0/363_0_1500_1200/master/1500.jpg?width=1225&quality=85&auto=format&fit=max&s=06b876a2db74e96ff2285bb48a7533bb",
-                "cap": "“你说不清哪里不对”……《Ready Player One》中的泰伊·谢里丹。"
-              },
-              {
-                "t": "p",
-                "x": "Wonder Dynamics联合创始人泰伊·谢里丹、韦伯以及AI电影人扎克·伦敦都倾向于以真人表演为核心的混合方式。“它们真的是为了成就传奇表演而设计的，还是为了削减成平均水平而设计的？”谢里丹问道。"
-              },
-              {
-                "t": "p",
-                "x": "AI电影是否存在票房需求，也就是是否具备真正的经济理由，目前仍不明朗。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Val Kilmer AI y Tilly Norwood:\nestrellas sintéticas a prueba",
-          "body": "Con Val Kilmer AI en un wéstern, los expertos discrepan sobre si los actores sintéticos pueden competir con los reales.",
-          "mini_headline": "Los AI-listers frente a las estrellas reales",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=1200&quality=85&auto=format&fit=max&s=b1ca27496def2de12e1099098a3dbabc",
-                "cap": "‘Da muchísimo miedo’ … la actriz AI Tilly Norwood."
-              },
-              {
-                "t": "p",
-                "x": "Una versión AI-created del fallecido Val Kilmer, aprobada por su familia, aparece en el nuevo wéstern As Deep as the Grave del director Coerte Voorhees, lo que ha abierto la polémica sobre si esta tecnología podría volver prescindibles a los actores de carne y hueso."
-              },
-              {
-                "t": "p",
-                "x": "La “starlet” AI Tilly Norwood, a quien Emily Blunt describió como “muy, muy aterradora”, aparecerá pronto en el largometraje Misaligned."
-              },
-              {
-                "t": "p",
-                "x": "El director creativo de Framestore, Tim Webber, se muestra escéptico: “Los modelos de AI se entrenan con la superficie de las cosas … Llegar al nivel de una actuación humana, con emoción genuina, está todavía muy lejos”."
-              },
-              {
-                "t": "p",
-                "x": "Higgsfield AI ha estrenado este año dos largometrajes íntegramente AI-generated, Hell Grind y The Cully Hill Boys. Su responsable de contenido, Adil Alimzhanov, afirma que las herramientas liberan a los artistas y acortan la producción de Hollywood; The Cully Hill Boys se montó en fragmentos de 30 segundos, cada uno definido en un prompt de 4,000 palabras."
-              },
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/23483265fd1c7220a16680ff9715e1ba686881f0/363_0_1500_1200/master/1500.jpg?width=1225&quality=85&auto=format&fit=max&s=06b876a2db74e96ff2285bb48a7533bb",
-                "cap": "‘No sabes decir qué es’ … Tye Sheridan en Ready Player One."
-              },
-              {
-                "t": "p",
-                "x": "Tye Sheridan, cofundador de Wonder Dynamics, Webber y el cineasta de AI Zack London prefieren métodos híbridos que mantienen una actuación humana en el centro. “¿De verdad están diseñados para lograr actuaciones legendarias, o para recortar hasta un promedio?”, pregunta Sheridan."
-              },
-              {
-                "t": "p",
-                "x": "Aún no está claro si existe demanda en taquilla, y por tanto un verdadero argumento económico, para el cine hecho con AI."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI 발 킬머·틸리 노우드\n시험대 오른 합성 스타",
-          "body": "서부극에 나온 AI 발 킬머를 두고 합성 배우의 경쟁력에 전문가 의견이 갈린다.",
-          "mini_headline": "AI-listers, 진짜 스타와 만나다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=1200&quality=85&auto=format&fit=max&s=b1ca27496def2de12e1099098a3dbabc",
-                "cap": "‘정말, 정말 무섭다’ … AI 배우 틸리 노우드."
-              },
-              {
-                "t": "p",
-                "x": "가족의 승인을 받아 AI로 만든(AI-created) 고(故) 발 킬머가 코어트 부히스 감독의 신작 서부극 As Deep as the Grave에 등장하면서, 이런 기술이 살아 있는 배우를 쓸모없게 만들 수 있느냐는 논란이 일고 있다."
-              },
-              {
-                "t": "p",
-                "x": "에밀리 블런트가 “정말, 정말 무섭다”고 표현한 AI ‘스타렛’ 틸리 노우드는 곧 장편 영화 Misaligned에 출연한다."
-              },
-              {
-                "t": "p",
-                "x": "Framestore의 최고크리에이티브책임자 팀 웨버는 회의적이다. “AI 모델은 사물의 표면을 학습한다 … 진짜 감정이 담긴 인간의 연기 수준에 이르기까지는 아직 갈 길이 한참 멀다.”"
-              },
-              {
-                "t": "p",
-                "x": "Higgsfield AI는 올해 완전한 AI-generated 장편 두 편, Hell Grind와 The Cully Hill Boys를 공개했다. 콘텐츠 책임자 아딜 알림자노프는 이 도구가 아티스트를 해방하고 할리우드식 제작 과정을 단축한다고 말한다. The Cully Hill Boys는 30초 단위로 조립했고, 각 단위는 4,000단어 분량의 프롬프트로 정의했다."
-              },
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/23483265fd1c7220a16680ff9715e1ba686881f0/363_0_1500_1200/master/1500.jpg?width=1225&quality=85&auto=format&fit=max&s=06b876a2db74e96ff2285bb48a7533bb",
-                "cap": "‘딱 꼬집어 말할 수 없다’ … Ready Player One의 타이 셰리던."
-              },
-              {
-                "t": "p",
-                "x": "Wonder Dynamics 공동 창업자 타이 셰리던, 웨버, AI 영화감독 잭 런던은 인간의 연기를 중심에 두는 하이브리드 방식을 선호한다. 셰리던은 “이 도구들은 정말 전설적인 연기를 끌어내도록 설계된 걸까, 아니면 평균치로 깎아내도록 설계된 걸까?”라고 묻는다."
-              },
-              {
-                "t": "p",
-                "x": "AI 영화에 대한 흥행 수요, 즉 진정한 경제적 근거가 존재하는지는 아직 분명하지 않다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIのキルマーとノーウッド\n合成スターの真価を問う",
-          "body": "AIのヴァル・キルマーが西部劇に出演し、合成俳優が本物に並ぶかで専門家の見方が割れる。",
-          "mini_headline": "AI-listers、本物のスターと対峙",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=1200&quality=85&auto=format&fit=max&s=b1ca27496def2de12e1099098a3dbabc",
-                "cap": "「本当に、本当に怖い」… AI俳優ティリー・ノーウッド。"
-              },
-              {
-                "t": "p",
-                "x": "遺族の承認を得てAIで作られた（AI-created）故ヴァル・キルマーが、コーテ・ヴォーヒーズ監督の新作西部劇『As Deep as the Grave』に登場し、こうした技術が生身の俳優を不要にしかねないのかという論争を呼んでいる。"
-              },
-              {
-                "t": "p",
-                "x": "エミリー・ブラントが「本当に、本当に怖い」と評したAIの「スターレット」ティリー・ノーウッドは、近く長編映画『Misaligned』に出演する。"
-              },
-              {
-                "t": "p",
-                "x": "Framestoreの最高クリエイティブ責任者ティム・ウェバー氏は懐疑的だ。「AIモデルは物事の表面で学習している…本物の感情を伴う人間の演技の水準に達するには、まだはるかに遠い」"
-              },
-              {
-                "t": "p",
-                "x": "Higgsfield AIは今年、完全にAI-generatedの長編2本『Hell Grind』と『The Cully Hill Boys』を発表した。コンテンツ責任者のアディル・アリムジャノフ氏は、このツールがアーティストを解放し、ハリウッドの制作工程を短縮すると話す。『The Cully Hill Boys』は30秒単位で組み立てられ、各単位は4,000語のプロンプトで定義された。"
-              },
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/23483265fd1c7220a16680ff9715e1ba686881f0/363_0_1500_1200/master/1500.jpg?width=1225&quality=85&auto=format&fit=max&s=06b876a2db74e96ff2285bb48a7533bb",
-                "cap": "「はっきりとは言い表せない」… 『Ready Player One』のタイ・シェリダン。"
-              },
-              {
-                "t": "p",
-                "x": "Wonder Dynamicsの共同創業者タイ・シェリダン、ウェバー氏、AI映画作家ザック・ロンドンは、人間の演技を核に据えたハイブリッドな手法を支持する。「本当に伝説的な演技を生むために設計されているのか、それとも平均へと切り詰めるために設計されているのか」とシェリダンは問う。"
-              },
-              {
-                "t": "p",
-                "x": "AI映画に興行面の需要、つまり真の経済的な根拠があるのかは、まだはっきりしていない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI方基墨与蒂莉·诺伍德\n合成明星迎来考验",
-          "body": "AI版方基墨主演西部片，专家对合成演员能否媲美真人演员看法不一。",
-          "mini_headline": "AI-listers遇上真明星",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=1200&quality=85&auto=format&fit=max&s=b1ca27496def2de12e1099098a3dbabc",
-                "cap": "“真的、真的很可怕”……AI演员蒂莉·诺伍德。"
-              },
-              {
-                "t": "p",
-                "x": "经家人同意、由AI打造（AI-created）的已故演员方基墨，出现在导演科尔特·沃尔希斯的新西部片《As Deep as the Grave》中，引发了这类技术是否会让真人演员变得多余的争议。"
-              },
-              {
-                "t": "p",
-                "x": "被艾米莉·布朗特形容为“真的、真的很可怕”的AI“小明星”蒂莉·诺伍德，即将出演长片《Misaligned》。"
-              },
-              {
-                "t": "p",
-                "x": "Framestore首席创意官蒂姆·韦伯持怀疑态度：“AI模型是基于事物的表面来训练的……要达到人类表演的水准、真正带有情感，还有很长的路要走。”"
-              },
-              {
-                "t": "p",
-                "x": "Higgsfield AI今年发布了两部完全AI-generated的长片《Hell Grind》和《The Cully Hill Boys》。内容负责人阿迪尔·阿利姆扎诺夫表示，这些工具解放了艺术家，也缩短了好莱坞的制作流程；《The Cully Hill Boys》以30秒为单位拼接而成，每段都由一条4,000词的提示词定义。"
-              },
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/23483265fd1c7220a16680ff9715e1ba686881f0/363_0_1500_1200/master/1500.jpg?width=1225&quality=85&auto=format&fit=max&s=06b876a2db74e96ff2285bb48a7533bb",
-                "cap": "“你说不清哪里不对”……《Ready Player One》中的泰伊·谢里丹。"
-              },
-              {
-                "t": "p",
-                "x": "Wonder Dynamics联合创始人泰伊·谢里丹、韦伯以及AI电影人扎克·伦敦都倾向于以真人表演为核心的混合方式。“它们真的是为了成就传奇表演而设计的，还是为了削减成平均水平而设计的？”谢里丹问道。"
-              },
-              {
-                "t": "p",
-                "x": "AI电影是否存在票房需求，也就是是否具备真正的经济理由，目前仍不明朗。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Val Kilmer AI y Tilly Norwood:\nestrellas sintéticas a prueba",
-          "body": "Con Val Kilmer AI en un wéstern, los expertos discrepan sobre si los actores sintéticos pueden competir con los reales.",
-          "mini_headline": "Los AI-listers frente a las estrellas reales",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=1200&quality=85&auto=format&fit=max&s=b1ca27496def2de12e1099098a3dbabc",
-                "cap": "‘Da muchísimo miedo’ … la actriz AI Tilly Norwood."
-              },
-              {
-                "t": "p",
-                "x": "Una versión AI-created del fallecido Val Kilmer, aprobada por su familia, aparece en el nuevo wéstern As Deep as the Grave del director Coerte Voorhees, lo que ha abierto la polémica sobre si esta tecnología podría volver prescindibles a los actores de carne y hueso."
-              },
-              {
-                "t": "p",
-                "x": "La “starlet” AI Tilly Norwood, a quien Emily Blunt describió como “muy, muy aterradora”, aparecerá pronto en el largometraje Misaligned."
-              },
-              {
-                "t": "p",
-                "x": "El director creativo de Framestore, Tim Webber, se muestra escéptico: “Los modelos de AI se entrenan con la superficie de las cosas … Llegar al nivel de una actuación humana, con emoción genuina, está todavía muy lejos”."
-              },
-              {
-                "t": "p",
-                "x": "Higgsfield AI ha estrenado este año dos largometrajes íntegramente AI-generated, Hell Grind y The Cully Hill Boys. Su responsable de contenido, Adil Alimzhanov, afirma que las herramientas liberan a los artistas y acortan la producción de Hollywood; The Cully Hill Boys se montó en fragmentos de 30 segundos, cada uno definido en un prompt de 4,000 palabras."
-              },
-              {
-                "t": "img",
-                "src": "https://i.guim.co.uk/img/media/23483265fd1c7220a16680ff9715e1ba686881f0/363_0_1500_1200/master/1500.jpg?width=1225&quality=85&auto=format&fit=max&s=06b876a2db74e96ff2285bb48a7533bb",
-                "cap": "‘No sabes decir qué es’ … Tye Sheridan en Ready Player One."
-              },
-              {
-                "t": "p",
-                "x": "Tye Sheridan, cofundador de Wonder Dynamics, Webber y el cineasta de AI Zack London prefieren métodos híbridos que mantienen una actuación humana en el centro. “¿De verdad están diseñados para lograr actuaciones legendarias, o para recortar hasta un promedio?”, pregunta Sheridan."
-              },
-              {
-                "t": "p",
-                "x": "Aún no está claro si existe demanda en taquilla, y por tanto un verdadero argumento económico, para el cine hecho con AI."
+                "x": "El reparto incluye a Ranbir Kapoor como Lord Rama, Yash como Ravana, Sai Pallavi como Sita, Ravie Dubey como Lakshman y Sunny Deol como Hanuman. Ramayana: Part 1 tendrá su estreno mundial en el Academy Museum of Motion Pictures el 27 de octubre de 2026."
               }
             ]
           }

@@ -8946,6 +8946,132 @@
           "x": "LitPivot se presentará en UIST 2026 en Detroit."
         }
       ]
+    },
+    "science/science-virtual-author": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101426_KH_virtualauthor_main.jpg",
+          "cap": "Los artículos científicos suelen ser registros estáticos del conocimiento. Paper2Agent los convierte en conjuntos de herramientas para agentes de AI. Alllex/E+/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Un sistema llamado Paper2Agent permite a los científicos hacer algo más que leer un nuevo estudio. Cuando un artículo incluye código, métodos y datos, el sistema los empaqueta en un conjunto de herramientas que un asistente de AI puede usar para trabajar con datos nuevos, informan los investigadores el 16 de septiembre en Nature."
+        },
+        {
+          "t": "p",
+          "x": "El sistema es, en esencia, “un autor virtual del artículo”, disponible a toda hora, dice James Zou, científico de la computación de Stanford University."
+        },
+        {
+          "t": "p",
+          "x": "Zou y sus colegas intentaron convertir 100 artículos de biología computacional en conjuntos de herramientas funcionales y lo lograron con 74. Esos conjuntos realizaron los análisis con más precisión y más del doble de rápido que el mismo agente trabajando con los artículos y el código originales."
+        },
+        {
+          "t": "p",
+          "x": "Peter Clark, del Allen Institute for Artificial Intelligence, lo llama “un paso emocionante” hacia artículos que ayuden activamente a los científicos, pero señala que Paper2Agent se especializa en reutilizar métodos y código, no en responder preguntas generales. “La razón por la que escribiría a un autor de correspondencia es precisamente por lo que no pusieron en el artículo.”"
+        }
+      ]
+    },
+    "science/science-vision-noise": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-research-how-ran.jpg",
+          "cap": "Credit: Patterns (2026). DOI: 10.1016/j.patter.2026.101693"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores del Hertie Institute for Clinical Brain Research de Tübingen descubrieron que los sistemas de visión artificial se vuelven sustancialmente más robustos cuando se combinan dos rasgos inspirados en el cerebro: la retroalimentación top-down, en la que las etapas superiores de procesamiento devuelven señales a las anteriores, y la variabilidad neuronal."
+        },
+        {
+          "t": "p",
+          "x": "Simularon fluctuaciones aleatorias de la actividad neuronal desactivando temporalmente y al azar unidades individuales de la red durante el entrenamiento. La retroalimentación por sí sola ayudó poco; combinada con la aleatoriedad, las redes se volvieron sustancialmente más robustas al ruido de imagen y a cambios dirigidos que pueden causar errores de clasificación, y rindieron mejor con imágenes de distribuciones distintas de la de entrenamiento."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/dr-antonino-greco-righ.jpg",
+          "cap": "Dr. Antonino Greco (derecha) y el profesor Markus Siegel, del Hertie Institute for Clinical Brain Research. Credit: Hertie Institute"
+        },
+        {
+          "t": "p",
+          "x": "“La retroalimentación solo se vuelve eficaz una vez que la red ha aprendido a lidiar con la aleatoriedad”, dice Greco. El estudio aparece en Patterns (2026). DOI: 10.1016/j.patter.2026.101693."
+        }
+      ]
+    },
+    "science/science-planteur": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792681400-planteur-tropical-regions-tan.png"
+        },
+        {
+          "t": "p",
+          "x": "PASTIS es uno de los benchmarks de mapeo de cultivos más confiables de la comunidad, pero su cobertura se limita a la Francia metropolitana. Ai2 presenta PLANTEUR, una extensión de PASTIS a seis regiones tropicales: Réunion, Guadeloupe, Martinique, Guyane, Mayotte y Saint-Martin."
+        },
+        {
+          "t": "p",
+          "x": "Construido a partir de la misma fuente, el Land Parcel Identification System de Francia, contiene 2,750 series temporales alineadas de Sentinel-2, Sentinel-1 y Landsat-8 y 4,506 km² de etiquetas derivadas de parcelas en siete clases de cultivo, entre ellas caña de azúcar, banano, piña y tubérculos tropicales."
+        },
+        {
+          "t": "p",
+          "x": "Las líneas base abarcan una partición estándar, una partición leave-one-island-out, una configuración few-shot y otra que incluye muestras de PASTIS en el entrenamiento."
+        },
+        {
+          "t": "p",
+          "x": "Todos los métodos evaluados obtienen puntuaciones sustancialmente más bajas en PLANTEUR que en PASTIS, y todos los modelos pierden aproximadamente la mitad de su exactitud al probarse en una isla que nunca vieron en el entrenamiento. PLANTEUR está disponible en Hugging Face y GitHub."
+        }
+      ]
+    },
+    "science/science-coatings-lab": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-powered-robotic-lab.jpg",
+          "cap": "Credit: University of Nottingham"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores del Center of Excellence in Coating and Surface Engineering de la University of Nottingham han construido un laboratorio autónomo. Dos brazos robóticos, una herramienta de dispensación de líquidos diseñada especialmente, equipos de laboratorio y un software hecho a medida trabajan juntos para medir y mezclar sustancias químicas, procesar muestras en horno a alta temperatura y recuperarlas."
+        },
+        {
+          "t": "p",
+          "x": "Un enfoque AI-based de aprendizaje activo usa información de experimentos anteriores para ayudar a identificar qué composiciones probar a continuación. El equipo lo empleó para preparar materiales candidatos con la estructura cristalina de pirocloro como posibles recubrimientos de barrera térmica, que actúan como escudos protectores contra el calor en piezas de motores aeroespaciales."
+        },
+        {
+          "t": "p",
+          "x": "“Los laboratorios autónomos tienen el potencial de cambiar cómo se desarrollan los materiales avanzados”, dice el profesor Tanvir Hussain. El trabajo se publica en Engineering Applications of Artificial Intelligence (DOI 10.1016/j.engappai.2026.114993)."
+        }
+      ]
+    },
+    "science/science-llm-agent-camps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-can-form-pol.jpg",
+          "cap": "El sistema de agentes LLM en red: autoexpresión, comunicación y actualización de opiniones. Credit: Nature Communications (2026)"
+        },
+        {
+          "t": "p",
+          "x": "En un estudio publicado en Nature Communications, investigadores de la Tsinghua University asignaron a redes de 1,000 agentes LLM posturas políticas sobre tres temas: la afiliación partidista en U.S., el control de armas y la prohibición del aborto. Los agentes defendían sus opiniones y elegían con quién seguir conversando. Nunca se les indicó que prefirieran a interlocutores afines; aun así, formaron bandos opuestos que preferían cada vez más la compañía de los suyos."
+        },
+        {
+          "t": "p",
+          "x": "A lo largo de 40 rondas, el centro neutral se fue reduciendo y los agentes interactuaron cada vez más con los de su propio lado. Un paso de verificación redujo las respuestas fuera de personaje, pero las divisiones persistieron."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-formed-polit.jpg",
+          "cap": "Interacciones homofílicas y evolución de la red. Credit: Nature Communications (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Encontrarse con un oponente no bastó. Asignar al azar los interlocutores solo redujo de forma modesta la polarización, y permitir únicamente mensajes de agentes moderadamente opuestos tuvo un efecto pequeño. Indicar a los agentes que fueran receptivos a otros puntos de vista redujo la polarización un 11.8%; añadir agentes influyentes que difundían mensajes neutrales la redujo un 8.8%."
+        },
+        {
+          "t": "p",
+          "x": "Los autores consideran que los resultados sirven para generar hipótesis: los agentes actuaban según instrucciones, las opiniones se clasificaron en cinco categorías y los resultados no demuestran que las mismas intervenciones funcionarían con personas."
+        }
+      ]
     }
   }
 }

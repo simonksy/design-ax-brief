@@ -1,197 +1,335 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "section": "marketing",
   "cards": [
     {
-      "id": "marketing-review-summary-search-ads",
+      "id": "marketing-chatgpt-ads-amazon-dsp",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "4개국 Search 광고에\nGoogle AI 리뷰",
-      "body": "Google이 AI-written 긍정 리뷰 요약을 Search 광고에 넣는다.",
-      "mini_headline": "Search 광고에 AI 리뷰 요약",
+      "headline": "ChatGPT 광고 일부\nAmazon DSP로 송출",
+      "body": "일부 ChatGPT 광고는 Learn more 링크와 Amazon DSP를 쓴다.",
+      "mini_headline": "Amazon DSP 경유 ChatGPT 광고",
       "tool": "Marketing",
-      "source": "PPC Land",
-      "url": "https://ppc.land/google-ai-writes-positive-only-review-summaries-into-search-ads-in-4-markets/",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/chatgpt-ads-learn-more-amazon-dsp-42371.html",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/2026/10/google-ai-review-summaries-search-ads-positive-only-billboard-hand.jpg",
-            "cap": "Google AI는 4개 시장에서 광고주가 수정할 수 없는 Search 광고 요약에 긍정 리뷰만 골라 쓴다"
+            "src": "https://images.seroundtable.com/chatgpt-floating-chat-boxes-A8gbToHE.jpg"
           },
           {
             "t": "p",
-            "x": "Google이 도움말 페이지 하나를 공개했다. 미국, 영국, 호주, 인도의 Search 광고 안에 뜨는 AI-generated 리뷰 요약을 설명하는 페이지다. 웹 곳곳의 리뷰에서 긍정적인 평을 뽑아 광고 문구에 넣는데, 광고주는 자기에 관한 이 내용을 편집할 수 없다. PPC News Feed가 2026년 10월 24일 이 페이지를 처음 보도하며 Hana Kobzová를 출처로 밝혔다."
+            "x": "OpenAI가 일부 ChatGPT Ad 유닛에 새 광고 형식을 적용한 듯하다. Learn more 링크에 점선 밑줄을 긋고 위쪽을 가리키는 화살표를 붙인 형식이다. ChatGPT Ads 일부는 Amazon DSP로 송출되는 것으로 보인다."
           },
           {
             "t": "p",
-            "x": "Google에 따르면 \"Search의 리뷰 요약은 온라인 리뷰를 AI-powered 방식으로 요약한 것으로, Search 광고의 일부로 바로 표시된다.\" 또 \"이 요약은 긍정적인 내용만 담는다.\" 페이지에는 날짜가 없고, 리뷰 출처나 최소 리뷰 수, 기능을 켜고 끄는 방법도 나와 있지 않다."
+            "x": "ChatGPT 광고 유닛의 새 디자인을 처음 발견한 사람은 Bordie Clark이다. 그는 X와 SERP Alert에 스크린샷을 올리며 \"ChatGPT가 텍스트 기반 광고 안에 화살표가 달린 learn more 링크를 넣은 새 광고 형식을 실험하고 있다. 이 새 형식에서는 'learn more' 텍스트에 점선 밑줄도 들어간다\"고 말했다."
           },
           {
             "t": "p",
-            "x": "적용 대상은 Search 캠페인, Google.com의 모든 게재 위치, US·AU·UK·IN의 영어이며, 의약품 같은 민감 카테고리를 뺀 모든 업종이다. 페이지는 \"Google은 광고 성과를 높일 것으로 예측될 때만 리뷰 요약을 노출한다\"고 적었을 뿐, 그 지표가 무엇인지는 정의하지 않았다."
+            "x": "내가 직접 본 스크린샷은 이렇다."
+          },
+          {
+            "t": "img",
+            "src": "https://images.seroundtable.com/chatgpt-ads-learn-more-link-xA1W3tjY.png"
           },
           {
             "t": "p",
-            "x": "Google에 따르면 \"리뷰 요약은 사용자 피드백을 나타내므로 광고주는 생성된 문구를 직접 편집하거나 맞춤 설정할 수 없다.\" 페이지에는 테스트 결과나 성과 개선 수치가 없고, 계정 단위 자동 애셋 설정이 적용되는지도 나와 있지 않다. 이 형식 자체는 2025년 12월부터 실제 검색 결과에서 테스트해 왔다."
+            "x": "Learn more 링크가 모든 광고에 표시되는 것은 아니다..."
+          },
+          {
+            "t": "p",
+            "x": "Juozas Kaziukėnas는 이 ChatGPT Ads 가운데 일부가 \"Amazon DSP가 송출한 것\"이라고 LinkedIn에 썼다. \"클릭 대상 URL이 Amazon의 클릭 추적 서버를 거치기 때문에\"라는 게 그의 설명이다."
+          },
+          {
+            "t": "p",
+            "x": "그가 올린 링크 스크린샷은 아래와 같다."
+          },
+          {
+            "t": "img",
+            "src": "https://images.seroundtable.com/chatgpt-ads-amazon-dsp-uHnh0Mix.jpg"
+          },
+          {
+            "t": "p",
+            "x": "그는 이렇게 덧붙였다. \"이 연동이 어떻게 작동하는지에 대한 정보는 거의 없고, 다른 광고주가 이를 쓰는 모습도 아직 보지 못했다. 하지만 Amazon이 ChatGPT 안에서 Amazon 광고 형식을 운영하지 않으리라는 점은 분명해 보인다. 광고주는 DSP를 통해 광고를 구매하고(피드 기반 광고 포함?) 타기팅은 DSP가 맡겠지만(아마도?), 크리에이티브 통제 방식은 일반 ChatGPT 광고와 같다.\""
+          },
+          {
+            "t": "p",
+            "x": "무척 흥미롭다..."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Google AI writes review blurbs\ninto Search ads in 4 markets",
-          "body": "Google now inserts AI-written, positive-only review summaries into Search ads that advertisers cannot edit.",
-          "mini_headline": "AI review blurbs\nin Search ads",
+          "headline": "ChatGPT ads add a Learn more\nlink, some via Amazon DSP",
+          "body": "Some ChatGPT ads now show a dotted Learn more link with an upward arrow, and some appear to be served via Amazon DSP.",
+          "mini_headline": "ChatGPT ads via Amazon DSP",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-ai-review-summaries-search-ads-positive-only-billboard-hand.jpg",
-                "cap": "Google AI picks only positive reviews for Search ad summaries advertisers cannot edit in 4 markets"
+                "src": "https://images.seroundtable.com/chatgpt-floating-chat-boxes-A8gbToHE.jpg"
               },
               {
                 "t": "p",
-                "x": "Google has published a help page describing AI-generated review summaries that appear inside Search ads in the United States, the United Kingdom, Australia and India, pulling positive comments from reviews across the web into the ad text without giving advertisers the ability to edit what is said about them. PPC News Feed first reported the page on October 24, 2026, crediting Hana Kobzová."
+                "x": "OpenAI seems to be rolling out a new ad format for some ChatGPT Ad units that have a Learn more link, that is dotted and underlined, and also with an arrow going upwards.  And in some cases, ChatGPT Ads seem to be served with Amazon DSP."
               },
               {
                 "t": "p",
-                "x": "\"Review summaries on Search are AI-powered summaries of online reviews that appear directly as part of your Search ads,\" according to Google. \"These summaries are positive only.\" The undated page names no review sources, no minimum number of reviews and no way to switch the feature on or off."
+                "x": "The new design for the ChatGPT ad units were spotted by Bordie Clark who posted screenshots on X and on SERP Alert, he said \"ChatGPT is now experimenting with a new ad format that features a learn more link with an arrow within text-based ads.  Within this new ad format, the 'learn more' text also features a dotted underline.\""
               },
               {
                 "t": "p",
-                "x": "Eligibility covers Search campaigns, all positions on Google.com, English in US, AU, UK and IN, and all verticals except sensitive categories such as pharmaceuticals. \"Google only showcases review summaries when it's predicted to improve ad performance,\" the page states, without defining the metric."
+                "x": "Here is a screenshot that I see myself:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-ads-learn-more-link-xA1W3tjY.png"
               },
               {
                 "t": "p",
-                "x": "\"Because review summaries represent user feedback, advertisers cannot directly edit or customize the generated text,\" according to Google. The page cites no test results or uplift figures, and does not say whether account-level automated asset controls apply. The format has been tested in live results since December 2025."
+                "x": "The Learn more link does not show on all ads..."
+              },
+              {
+                "t": "p",
+                "x": "Juozas Kaziukėnas posted on LinkedIn that some of these ChatGPT Ads are \"served by Amazon DSP.\" He said he sees this \"because the click target URL goes through Amazon's click-tracking server.\""
+              },
+              {
+                "t": "p",
+                "x": "Here is his screenshot showing the link:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-ads-amazon-dsp-uHnh0Mix.jpg"
+              },
+              {
+                "t": "p",
+                "x": "He added, \"There is barely any detail on how this integration works - and I've not seen any other advertisers use it yet - but I think it is clear that Amazon is not going to be running Amazon ad formats inside of ChatGPT. Advertisers will buy ads through DSP (including feed-based ads?) and DSP will do targeting (most likely?) but creative control is the same as regular ChatGPT ads.\""
+              },
+              {
+                "t": "p",
+                "x": "Super interesting..."
               }
             ]
           }
         },
         "ko": {
-          "headline": "4개국 Search 광고에\nGoogle AI 리뷰",
-          "body": "Google이 AI-written 긍정 리뷰 요약을 Search 광고에 넣는다.",
-          "mini_headline": "Search 광고에 AI 리뷰 요약",
+          "headline": "ChatGPT 광고 일부\nAmazon DSP로 송출",
+          "body": "일부 ChatGPT 광고는 Learn more 링크와 Amazon DSP를 쓴다.",
+          "mini_headline": "Amazon DSP 경유 ChatGPT 광고",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-ai-review-summaries-search-ads-positive-only-billboard-hand.jpg",
-                "cap": "Google AI는 4개 시장에서 광고주가 수정할 수 없는 Search 광고 요약에 긍정 리뷰만 골라 쓴다"
+                "src": "https://images.seroundtable.com/chatgpt-floating-chat-boxes-A8gbToHE.jpg"
               },
               {
                 "t": "p",
-                "x": "Google이 도움말 페이지 하나를 공개했다. 미국, 영국, 호주, 인도의 Search 광고 안에 뜨는 AI-generated 리뷰 요약을 설명하는 페이지다. 웹 곳곳의 리뷰에서 긍정적인 평을 뽑아 광고 문구에 넣는데, 광고주는 자기에 관한 이 내용을 편집할 수 없다. PPC News Feed가 2026년 10월 24일 이 페이지를 처음 보도하며 Hana Kobzová를 출처로 밝혔다."
+                "x": "OpenAI가 일부 ChatGPT Ad 유닛에 새 광고 형식을 적용한 듯하다. Learn more 링크에 점선 밑줄을 긋고 위쪽을 가리키는 화살표를 붙인 형식이다. ChatGPT Ads 일부는 Amazon DSP로 송출되는 것으로 보인다."
               },
               {
                 "t": "p",
-                "x": "Google에 따르면 \"Search의 리뷰 요약은 온라인 리뷰를 AI-powered 방식으로 요약한 것으로, Search 광고의 일부로 바로 표시된다.\" 또 \"이 요약은 긍정적인 내용만 담는다.\" 페이지에는 날짜가 없고, 리뷰 출처나 최소 리뷰 수, 기능을 켜고 끄는 방법도 나와 있지 않다."
+                "x": "ChatGPT 광고 유닛의 새 디자인을 처음 발견한 사람은 Bordie Clark이다. 그는 X와 SERP Alert에 스크린샷을 올리며 \"ChatGPT가 텍스트 기반 광고 안에 화살표가 달린 learn more 링크를 넣은 새 광고 형식을 실험하고 있다. 이 새 형식에서는 'learn more' 텍스트에 점선 밑줄도 들어간다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "적용 대상은 Search 캠페인, Google.com의 모든 게재 위치, US·AU·UK·IN의 영어이며, 의약품 같은 민감 카테고리를 뺀 모든 업종이다. 페이지는 \"Google은 광고 성과를 높일 것으로 예측될 때만 리뷰 요약을 노출한다\"고 적었을 뿐, 그 지표가 무엇인지는 정의하지 않았다."
+                "x": "내가 직접 본 스크린샷은 이렇다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-ads-learn-more-link-xA1W3tjY.png"
               },
               {
                 "t": "p",
-                "x": "Google에 따르면 \"리뷰 요약은 사용자 피드백을 나타내므로 광고주는 생성된 문구를 직접 편집하거나 맞춤 설정할 수 없다.\" 페이지에는 테스트 결과나 성과 개선 수치가 없고, 계정 단위 자동 애셋 설정이 적용되는지도 나와 있지 않다. 이 형식 자체는 2025년 12월부터 실제 검색 결과에서 테스트해 왔다."
+                "x": "Learn more 링크가 모든 광고에 표시되는 것은 아니다..."
+              },
+              {
+                "t": "p",
+                "x": "Juozas Kaziukėnas는 이 ChatGPT Ads 가운데 일부가 \"Amazon DSP가 송출한 것\"이라고 LinkedIn에 썼다. \"클릭 대상 URL이 Amazon의 클릭 추적 서버를 거치기 때문에\"라는 게 그의 설명이다."
+              },
+              {
+                "t": "p",
+                "x": "그가 올린 링크 스크린샷은 아래와 같다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-ads-amazon-dsp-uHnh0Mix.jpg"
+              },
+              {
+                "t": "p",
+                "x": "그는 이렇게 덧붙였다. \"이 연동이 어떻게 작동하는지에 대한 정보는 거의 없고, 다른 광고주가 이를 쓰는 모습도 아직 보지 못했다. 하지만 Amazon이 ChatGPT 안에서 Amazon 광고 형식을 운영하지 않으리라는 점은 분명해 보인다. 광고주는 DSP를 통해 광고를 구매하고(피드 기반 광고 포함?) 타기팅은 DSP가 맡겠지만(아마도?), 크리에이티브 통제 방식은 일반 ChatGPT 광고와 같다.\""
+              },
+              {
+                "t": "p",
+                "x": "무척 흥미롭다..."
               }
             ]
           }
         },
         "ja": {
-          "headline": "4市場のSearch広告に\nGoogleのAI口コミ要約",
-          "body": "GoogleがAI-writtenの肯定のみの口コミ要約をSearch広告に挿入する。",
-          "mini_headline": "Search広告にAIレビュー要約",
+          "headline": "ChatGPT広告、一部は\nAmazon DSP経由",
+          "body": "ChatGPT広告にLearn moreリンクが付き、一部はAmazon DSP経由だ。",
+          "mini_headline": "Amazon DSP経由のChatGPT広告",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-ai-review-summaries-search-ads-positive-only-billboard-hand.jpg",
-                "cap": "Google AIは4市場で、広告主が編集できないSearch広告の要約に肯定的なレビューだけを選ぶ"
+                "src": "https://images.seroundtable.com/chatgpt-floating-chat-boxes-A8gbToHE.jpg"
               },
               {
                 "t": "p",
-                "x": "Googleは、米国、英国、オーストラリア、インドのSearch広告内に表示されるAI-generatedのレビュー要約を説明するヘルプページを公開した。ウェブ上のレビューから肯定的なコメントを抜き出して広告文に組み込むが、広告主は自社について書かれた内容を編集できない。PPC News Feedが2026年10月24日にこのページを最初に報じ、Hana Kobzováの功績としている。"
+                "x": "OpenAIは一部のChatGPT Adユニットで新しい広告フォーマットを展開しているようだ。点線の下線が付いたLearn moreリンクに、上向きの矢印が添えられている。また一部では、ChatGPT AdsがAmazon DSP経由で配信されているようだ。"
               },
               {
                 "t": "p",
-                "x": "Googleによると「Searchのレビュー要約は、オンラインレビューをAI-poweredで要約したもので、Search広告の一部として直接表示される」。さらに「これらの要約は肯定的な内容のみである」。日付のないこのページには、レビューの出典も、最低レビュー数も、機能のオン・オフの方法も記されていない。"
+                "x": "ChatGPT広告ユニットの新デザインを見つけたのはBordie Clarkで、XとSERP Alertにスクリーンショットを投稿した。彼は「ChatGPTは現在、テキスト広告内に矢印付きのlearn moreリンクを入れた新しい広告フォーマットを試している。この新フォーマットでは、'learn more'のテキストに点線の下線も付いている」と述べた。"
               },
               {
                 "t": "p",
-                "x": "対象はSearchキャンペーン、Google.com上のすべての掲載位置、US、AU、UK、INの英語で、医薬品などのセンシティブなカテゴリを除く全業種である。ページには「Googleは、広告の成果向上が予測される場合にのみレビュー要約を表示する」とあるが、その指標は定義されていない。"
+                "x": "私自身が確認したスクリーンショットは次の通りだ:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-ads-learn-more-link-xA1W3tjY.png"
               },
               {
                 "t": "p",
-                "x": "Googleによると「レビュー要約はユーザーのフィードバックを表すため、広告主は生成されたテキストを直接編集したりカスタマイズしたりできない」。ページはテスト結果や改善幅を示しておらず、アカウント単位の自動アセット設定が適用されるかどうかにも触れていない。この形式は2025年12月から実際の検索結果でテストされてきた。"
+                "x": "Learn moreリンクはすべての広告に表示されるわけではない..."
+              },
+              {
+                "t": "p",
+                "x": "Juozas KaziukėnasはLinkedInで、これらのChatGPT Adsの一部は「Amazon DSPによって配信されている」と投稿した。「クリック先のURLがAmazonのクリック追跡サーバーを経由している」ことから、そう判断したという。"
+              },
+              {
+                "t": "p",
+                "x": "リンクを示す彼のスクリーンショットは次の通りだ:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-ads-amazon-dsp-uHnh0Mix.jpg"
+              },
+              {
+                "t": "p",
+                "x": "彼はさらに「この連携の仕組みについての詳細はほとんどなく、ほかの広告主が使っているのもまだ見ていない。ただ、AmazonがChatGPT内でAmazonの広告フォーマットを運用するわけではないのは明らかだと思う。広告主はDSPを通じて広告を購入し（フィード型広告も含む?）、ターゲティングはDSPが担う（おそらく?）が、クリエイティブの管理は通常のChatGPT広告と同じだ」と付け加えた。"
+              },
+              {
+                "t": "p",
+                "x": "非常に興味深い..."
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google AI为4个市场\nSearch广告写评价摘要",
-          "body": "Google在Search广告中插入AI-written的纯正面评价摘要，广告主无法编辑。",
-          "mini_headline": "Search广告现AI评价摘要",
+          "headline": "ChatGPT广告部分\n经Amazon DSP投放",
+          "body": "部分ChatGPT广告新增Learn more链接，部分经Amazon DSP投放。",
+          "mini_headline": "经Amazon DSP投放的ChatGPT广告",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-ai-review-summaries-search-ads-positive-only-billboard-hand.jpg",
-                "cap": "Google AI在4个市场只挑选正面评价，生成广告主无法编辑的Search广告摘要"
+                "src": "https://images.seroundtable.com/chatgpt-floating-chat-boxes-A8gbToHE.jpg"
               },
               {
                 "t": "p",
-                "x": "Google发布了一个帮助页面，介绍在美国、英国、澳大利亚和印度的Search广告中显示的AI-generated评价摘要。这些摘要从网络各处的评价中提取正面评论放入广告文字，广告主却无法编辑其中关于自己的内容。PPC News Feed于2026年10月24日首先报道了该页面，并注明线索来自Hana Kobzová。"
+                "x": "OpenAI似乎正在为部分ChatGPT Ad单元推出一种新广告格式，带有虚线下划线的Learn more链接，并配有向上的箭头。在某些情况下，ChatGPT Ads似乎还通过Amazon DSP投放。"
               },
               {
                 "t": "p",
-                "x": "Google表示：“Search上的评价摘要是对在线评价的AI-powered摘要，直接作为Search广告的一部分显示。”“这些摘要只包含正面内容。”这个未标注日期的页面没有说明评价来源和最低评价数量，也没有提供开关该功能的方法。"
+                "x": "ChatGPT广告单元的新设计由Bordie Clark发现，他在X和SERP Alert上发布了截图，并表示：“ChatGPT正在试验一种新广告格式，在文字广告中加入带箭头的learn more链接。在这种新格式中，'learn more'文字还带有虚线下划线。”"
               },
               {
                 "t": "p",
-                "x": "适用范围包括Search广告系列、Google.com上的所有展示位置、US、AU、UK和IN的英语，以及除药品等敏感类别外的所有行业。页面称：“只有在预测能提升广告效果时，Google才会展示评价摘要。”但没有定义所用指标。"
+                "x": "以下是我自己看到的截图："
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-ads-learn-more-link-xA1W3tjY.png"
               },
               {
                 "t": "p",
-                "x": "Google表示：“由于评价摘要代表用户反馈，广告主无法直接编辑或自定义生成的文字。”页面没有引用任何测试结果或提升数据，也没有说明账户层级的自动素材控制是否适用。该形式自2025年12月起已在实际搜索结果中测试。"
+                "x": "并非所有广告都会显示Learn more链接..."
+              },
+              {
+                "t": "p",
+                "x": "Juozas Kaziukėnas在LinkedIn上发文称，这些ChatGPT Ads中有一部分“由Amazon DSP投放”。他说，之所以这么判断，“是因为点击目标URL会经过Amazon的点击追踪服务器”。"
+              },
+              {
+                "t": "p",
+                "x": "以下是他展示该链接的截图："
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-ads-amazon-dsp-uHnh0Mix.jpg"
+              },
+              {
+                "t": "p",
+                "x": "他补充说：“关于这项整合如何运作，几乎没有任何细节，我也还没看到其他广告主使用它。但我认为很明显，Amazon不会在ChatGPT内运行Amazon的广告格式。广告主将通过DSP购买广告（包括基于信息流的广告？），由DSP负责定向（很可能？），但创意控制与普通ChatGPT广告相同。”"
+              },
+              {
+                "t": "p",
+                "x": "非常有意思..."
               }
             ]
           }
         },
         "es": {
-          "headline": "Google AI resume reseñas en\nanuncios de Search en 4 mercados",
-          "body": "Google inserta en anuncios de Search resúmenes de reseñas AI-written, solo positivos, que no se pueden editar.",
-          "mini_headline": "Reseñas AI en anuncios de Search",
+          "headline": "Enlace Learn more en ChatGPT\ny anuncios vía Amazon DSP",
+          "body": "Algunos anuncios de ChatGPT muestran un enlace Learn more punteado con flecha, y otros parecen servirse vía Amazon DSP.",
+          "mini_headline": "Anuncios de ChatGPT vía Amazon DSP",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-ai-review-summaries-search-ads-positive-only-billboard-hand.jpg",
-                "cap": "Google AI elige solo reseñas positivas para resúmenes en anuncios de Search que el anunciante no puede editar en 4 mercados"
+                "src": "https://images.seroundtable.com/chatgpt-floating-chat-boxes-A8gbToHE.jpg"
               },
               {
                 "t": "p",
-                "x": "Google ha publicado una página de ayuda que describe los resúmenes de reseñas AI-generated que aparecen dentro de los anuncios de Search en Estados Unidos, Reino Unido, Australia e India. Toman comentarios positivos de reseñas de toda la web y los incorporan al texto del anuncio sin que los anunciantes puedan editar lo que se dice de ellos. PPC News Feed informó primero sobre la página el 24 de octubre de 2026 y atribuyó el hallazgo a Hana Kobzová."
+                "x": "OpenAI parece estar implementando un nuevo formato para algunas unidades de ChatGPT Ad que incluyen un enlace Learn more, punteado y subrayado, además de una flecha hacia arriba. Y en algunos casos, los ChatGPT Ads parecen servirse con Amazon DSP."
               },
               {
                 "t": "p",
-                "x": "\"Los resúmenes de reseñas en Search son resúmenes AI-powered de reseñas en línea que aparecen directamente como parte de sus anuncios de Search\", según Google. \"Estos resúmenes son solo positivos\". La página, sin fecha, no indica las fuentes de las reseñas, ni un número mínimo de reseñas, ni una forma de activar o desactivar la función."
+                "x": "El nuevo diseño de las unidades de anuncios de ChatGPT lo detectó Bordie Clark, que publicó capturas en X y en SERP Alert. Según dijo, \"ChatGPT está experimentando con un nuevo formato de anuncio que incluye un enlace learn more con una flecha dentro de los anuncios de texto. En este nuevo formato, el texto 'learn more' también aparece con un subrayado punteado.\""
               },
               {
                 "t": "p",
-                "x": "Pueden optar las campañas de Search, en todas las posiciones de Google.com, en inglés en US, AU, UK e IN, y todos los sectores salvo categorías sensibles como los productos farmacéuticos. \"Google solo muestra resúmenes de reseñas cuando se prevé que mejoren el rendimiento del anuncio\", afirma la página, sin definir la métrica."
+                "x": "Esta es una captura que yo mismo veo:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-ads-learn-more-link-xA1W3tjY.png"
               },
               {
                 "t": "p",
-                "x": "\"Como los resúmenes de reseñas representan la opinión de los usuarios, los anunciantes no pueden editar ni personalizar directamente el texto generado\", según Google. La página no cita resultados de pruebas ni cifras de mejora, y no aclara si se aplican los controles automáticos de recursos a nivel de cuenta. El formato se prueba en resultados reales desde diciembre de 2025."
+                "x": "El enlace Learn more no aparece en todos los anuncios..."
+              },
+              {
+                "t": "p",
+                "x": "Juozas Kaziukėnas publicó en LinkedIn que algunos de estos ChatGPT Ads son \"servidos por Amazon DSP\". Dijo que lo ve así \"porque la URL de destino del clic pasa por el servidor de seguimiento de clics de Amazon\"."
+              },
+              {
+                "t": "p",
+                "x": "Esta es su captura con el enlace:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-ads-amazon-dsp-uHnh0Mix.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Y añadió: \"Apenas hay detalles sobre cómo funciona esta integración, y todavía no he visto a otros anunciantes usarla, pero creo que está claro que Amazon no va a ejecutar formatos publicitarios de Amazon dentro de ChatGPT. Los anunciantes comprarán anuncios a través de DSP (¿incluidos anuncios basados en feeds?) y DSP se encargará de la segmentación (¿lo más probable?), pero el control creativo es el mismo que en los anuncios normales de ChatGPT.\""
+              },
+              {
+                "t": "p",
+                "x": "Muy interesante..."
               }
             ]
           }
@@ -199,125 +337,217 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "4개국 Search 광고에\nGoogle AI 리뷰",
-          "body": "Google이 AI-written 긍정 리뷰 요약을 Search 광고에 넣는다.",
-          "mini_headline": "Search 광고에 AI 리뷰 요약",
+          "headline": "ChatGPT 광고 일부\nAmazon DSP로 송출",
+          "body": "ChatGPT 광고 일부가 Learn more 링크와 Amazon DSP를 쓴다.",
+          "mini_headline": "Amazon DSP 경유 ChatGPT 광고",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-ai-review-summaries-search-ads-positive-only-billboard-hand.jpg",
-                "cap": "Google AI는 4개 시장에서 광고주가 수정할 수 없는 Search 광고 요약에 긍정 리뷰만 골라 쓴다"
+                "src": "https://images.seroundtable.com/chatgpt-floating-chat-boxes-A8gbToHE.jpg"
               },
               {
                 "t": "p",
-                "x": "Google이 미국, 영국, 호주, 인도의 Search 광고 안에 표시되는 AI-generated 리뷰 요약을 설명하는 도움말 페이지를 공개했다. 웹 곳곳의 리뷰에서 긍정적인 평을 뽑아 광고 문구에 넣지만, 광고주는 자신에 관한 내용을 편집할 수 없다. PPC News Feed가 2026년 10월 24일 이 페이지를 처음 보도했으며, Hana Kobzová를 출처로 밝혔다."
+                "x": "OpenAI가 일부 ChatGPT Ad 유닛에 새 광고 형식을 적용하는 것으로 보인다. 점선 밑줄이 그어진 Learn more 링크와 위쪽을 가리키는 화살표가 붙은 형식이다. 일부 경우에는 ChatGPT Ads가 Amazon DSP를 통해 송출되는 것으로 보인다."
               },
               {
                 "t": "p",
-                "x": "Google에 따르면 \"Search의 리뷰 요약은 온라인 리뷰를 AI-powered 방식으로 요약한 것으로, Search 광고의 일부로 바로 표시된다.\" 또 \"이 요약은 긍정적인 내용만 담는다.\" 날짜가 없는 이 페이지는 리뷰 출처도, 최소 리뷰 수도, 기능을 켜고 끄는 방법도 밝히지 않는다."
+                "x": "ChatGPT 광고 유닛의 새 디자인은 Bordie Clark이 발견해 X와 SERP Alert에 스크린샷을 올렸다. 그는 \"ChatGPT가 텍스트 기반 광고 안에 화살표가 달린 learn more 링크를 넣은 새 광고 형식을 실험하고 있다. 이 새 형식에서는 'learn more' 텍스트에 점선 밑줄도 들어간다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "적용 대상은 Search 캠페인, Google.com의 모든 게재 위치, US·AU·UK·IN의 영어이며, 의약품 같은 민감 카테고리를 제외한 모든 업종이다. 페이지는 \"Google은 광고 성과를 높일 것으로 예측될 때만 리뷰 요약을 노출한다\"고 적었지만, 그 지표가 무엇인지는 정의하지 않았다."
+                "x": "내가 직접 본 스크린샷은 다음과 같다:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-ads-learn-more-link-xA1W3tjY.png"
               },
               {
                 "t": "p",
-                "x": "Google에 따르면 \"리뷰 요약은 사용자 피드백을 나타내므로 광고주는 생성된 문구를 직접 편집하거나 맞춤 설정할 수 없다.\" 페이지에는 테스트 결과나 성과 개선 수치가 없고, 계정 단위의 자동 애셋 설정이 적용되는지도 나와 있지 않다. 이 형식은 2025년 12월부터 실제 검색 결과에서 테스트돼 왔다."
+                "x": "Learn more 링크가 모든 광고에 표시되는 것은 아니다..."
+              },
+              {
+                "t": "p",
+                "x": "Juozas Kaziukėnas는 LinkedIn에 이 ChatGPT Ads 가운데 일부가 \"Amazon DSP가 송출한 것\"이라고 썼다. 그는 \"클릭 대상 URL이 Amazon의 클릭 추적 서버를 거치기 때문에\" 그렇게 본다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "그가 올린 링크 스크린샷이다:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-ads-amazon-dsp-uHnh0Mix.jpg"
+              },
+              {
+                "t": "p",
+                "x": "그는 이렇게 덧붙였다. \"이 연동이 어떻게 작동하는지에 대한 정보는 거의 없고, 다른 광고주가 이를 쓰는 모습도 아직 보지 못했다. 하지만 Amazon이 ChatGPT 안에서 Amazon 광고 형식을 운영하지 않으리라는 점은 분명해 보인다. 광고주는 DSP를 통해 광고를 구매하고(피드 기반 광고 포함?) 타기팅은 DSP가 맡겠지만(아마도?), 크리에이티브 통제 방식은 일반 ChatGPT 광고와 같다.\""
+              },
+              {
+                "t": "p",
+                "x": "매우 흥미롭다..."
               }
             ]
           }
         },
         "ja": {
-          "headline": "4市場のSearch広告に\nGoogleのAI口コミ要約",
-          "body": "GoogleがAI-writtenの肯定のみの口コミ要約をSearch広告に挿入する。",
-          "mini_headline": "Search広告にAIレビュー要約",
+          "headline": "ChatGPT広告、一部は\nAmazon DSP経由",
+          "body": "ChatGPT広告にLearn moreリンクが付き、一部はAmazon DSP経由だ。",
+          "mini_headline": "Amazon DSP経由のChatGPT広告",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-ai-review-summaries-search-ads-positive-only-billboard-hand.jpg",
-                "cap": "Google AIは4市場で、広告主が編集できないSearch広告の要約に肯定的なレビューだけを選ぶ"
+                "src": "https://images.seroundtable.com/chatgpt-floating-chat-boxes-A8gbToHE.jpg"
               },
               {
                 "t": "p",
-                "x": "Googleは、米国、英国、オーストラリア、インドのSearch広告内に表示されるAI-generatedのレビュー要約を説明するヘルプページを公開した。ウェブ上のレビューから肯定的なコメントを抜き出して広告文に組み込むが、広告主は自社について書かれた内容を編集できない。PPC News Feedが2026年10月24日にこのページを最初に報じ、Hana Kobzováの功績としている。"
+                "x": "OpenAIは一部のChatGPT Adユニットで新しい広告フォーマットを展開しているようだ。点線の下線が付いたLearn moreリンクに、上向きの矢印が添えられている。また一部では、ChatGPT AdsがAmazon DSP経由で配信されているようだ。"
               },
               {
                 "t": "p",
-                "x": "Googleによると「Searchのレビュー要約は、オンラインレビューをAI-poweredで要約したもので、Search広告の一部として直接表示される」。さらに「これらの要約は肯定的な内容のみである」。日付のないこのページには、レビューの出典も、最低レビュー数も、機能のオン・オフの方法も記されていない。"
+                "x": "ChatGPT広告ユニットの新デザインを見つけたのはBordie Clarkで、XとSERP Alertにスクリーンショットを投稿した。彼は「ChatGPTは現在、テキスト広告内に矢印付きのlearn moreリンクを入れた新しい広告フォーマットを試している。この新フォーマットでは、'learn more'のテキストに点線の下線も付いている」と述べた。"
               },
               {
                 "t": "p",
-                "x": "対象はSearchキャンペーン、Google.com上のすべての掲載位置、US、AU、UK、INの英語で、医薬品などのセンシティブなカテゴリを除く全業種である。ページには「Googleは、広告の成果向上が予測される場合にのみレビュー要約を表示する」とあるが、その指標は定義されていない。"
+                "x": "私自身が確認したスクリーンショットは次の通りだ:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-ads-learn-more-link-xA1W3tjY.png"
               },
               {
                 "t": "p",
-                "x": "Googleによると「レビュー要約はユーザーのフィードバックを表すため、広告主は生成されたテキストを直接編集したりカスタマイズしたりできない」。ページはテスト結果や改善幅を示しておらず、アカウント単位の自動アセット設定が適用されるかどうかにも触れていない。この形式は2025年12月から実際の検索結果でテストされてきた。"
+                "x": "Learn moreリンクはすべての広告に表示されるわけではない..."
+              },
+              {
+                "t": "p",
+                "x": "Juozas KaziukėnasはLinkedInで、これらのChatGPT Adsの一部は「Amazon DSPによって配信されている」と投稿した。「クリック先のURLがAmazonのクリック追跡サーバーを経由している」ことから、そう判断したという。"
+              },
+              {
+                "t": "p",
+                "x": "リンクを示す彼のスクリーンショットは次の通りだ:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-ads-amazon-dsp-uHnh0Mix.jpg"
+              },
+              {
+                "t": "p",
+                "x": "彼はさらに「この連携の仕組みについての詳細はほとんどなく、ほかの広告主が使っているのもまだ見ていない。ただ、AmazonがChatGPT内でAmazonの広告フォーマットを運用するわけではないのは明らかだと思う。広告主はDSPを通じて広告を購入し（フィード型広告も含む?）、ターゲティングはDSPが担う（おそらく?）が、クリエイティブの管理は通常のChatGPT広告と同じだ」と付け加えた。"
+              },
+              {
+                "t": "p",
+                "x": "非常に興味深い..."
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google AI为4个市场\nSearch广告写评价摘要",
-          "body": "Google在Search广告中插入AI-written的纯正面评价摘要，广告主无法编辑。",
-          "mini_headline": "Search广告现AI评价摘要",
+          "headline": "ChatGPT广告部分\n经Amazon DSP投放",
+          "body": "部分ChatGPT广告新增Learn more链接，部分经Amazon DSP投放。",
+          "mini_headline": "经Amazon DSP投放的ChatGPT广告",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-ai-review-summaries-search-ads-positive-only-billboard-hand.jpg",
-                "cap": "Google AI在4个市场只挑选正面评价，生成广告主无法编辑的Search广告摘要"
+                "src": "https://images.seroundtable.com/chatgpt-floating-chat-boxes-A8gbToHE.jpg"
               },
               {
                 "t": "p",
-                "x": "Google发布了一个帮助页面，介绍在美国、英国、澳大利亚和印度的Search广告中显示的AI-generated评价摘要。这些摘要从网络各处的评价中提取正面评论放入广告文字，广告主却无法编辑其中关于自己的内容。PPC News Feed于2026年10月24日首先报道了该页面，并注明线索来自Hana Kobzová。"
+                "x": "OpenAI似乎正在为部分ChatGPT Ad单元推出一种新广告格式，带有虚线下划线的Learn more链接，并配有向上的箭头。在某些情况下，ChatGPT Ads似乎还通过Amazon DSP投放。"
               },
               {
                 "t": "p",
-                "x": "Google表示：“Search上的评价摘要是对在线评价的AI-powered摘要，直接作为Search广告的一部分显示。”“这些摘要只包含正面内容。”这个未标注日期的页面没有说明评价来源和最低评价数量，也没有提供开关该功能的方法。"
+                "x": "ChatGPT广告单元的新设计由Bordie Clark发现，他在X和SERP Alert上发布了截图，并表示：“ChatGPT正在试验一种新广告格式，在文字广告中加入带箭头的learn more链接。在这种新格式中，'learn more'文字还带有虚线下划线。”"
               },
               {
                 "t": "p",
-                "x": "适用范围包括Search广告系列、Google.com上的所有展示位置、US、AU、UK和IN的英语，以及除药品等敏感类别外的所有行业。页面称：“只有在预测能提升广告效果时，Google才会展示评价摘要。”但没有定义所用指标。"
+                "x": "以下是我自己看到的截图："
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-ads-learn-more-link-xA1W3tjY.png"
               },
               {
                 "t": "p",
-                "x": "Google表示：“由于评价摘要代表用户反馈，广告主无法直接编辑或自定义生成的文字。”页面没有引用任何测试结果或提升数据，也没有说明账户层级的自动素材控制是否适用。该形式自2025年12月起已在实际搜索结果中测试。"
+                "x": "并非所有广告都会显示Learn more链接..."
+              },
+              {
+                "t": "p",
+                "x": "Juozas Kaziukėnas在LinkedIn上发文称，这些ChatGPT Ads中有一部分“由Amazon DSP投放”。他说，之所以这么判断，“是因为点击目标URL会经过Amazon的点击追踪服务器”。"
+              },
+              {
+                "t": "p",
+                "x": "以下是他展示该链接的截图："
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-ads-amazon-dsp-uHnh0Mix.jpg"
+              },
+              {
+                "t": "p",
+                "x": "他补充说：“关于这项整合如何运作，几乎没有任何细节，我也还没看到其他广告主使用它。但我认为很明显，Amazon不会在ChatGPT内运行Amazon的广告格式。广告主将通过DSP购买广告（包括基于信息流的广告？），由DSP负责定向（很可能？），但创意控制与普通ChatGPT广告相同。”"
+              },
+              {
+                "t": "p",
+                "x": "非常有意思..."
               }
             ]
           }
         },
         "es": {
-          "headline": "Google AI resume reseñas en\nanuncios de Search en 4 mercados",
-          "body": "Google inserta en anuncios de Search resúmenes de reseñas AI-written, solo positivos, que no se pueden editar.",
-          "mini_headline": "Reseñas AI en anuncios de Search",
+          "headline": "Enlace Learn more en ChatGPT\ny anuncios vía Amazon DSP",
+          "body": "Algunos anuncios de ChatGPT muestran un enlace Learn more punteado con flecha, y otros parecen servirse vía Amazon DSP.",
+          "mini_headline": "Anuncios de ChatGPT vía Amazon DSP",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-ai-review-summaries-search-ads-positive-only-billboard-hand.jpg",
-                "cap": "Google AI elige solo reseñas positivas para resúmenes en anuncios de Search que el anunciante no puede editar en 4 mercados"
+                "src": "https://images.seroundtable.com/chatgpt-floating-chat-boxes-A8gbToHE.jpg"
               },
               {
                 "t": "p",
-                "x": "Google ha publicado una página de ayuda que describe los resúmenes de reseñas AI-generated que aparecen dentro de los anuncios de Search en Estados Unidos, Reino Unido, Australia e India. Toman comentarios positivos de reseñas de toda la web y los incorporan al texto del anuncio sin que los anunciantes puedan editar lo que se dice de ellos. PPC News Feed informó primero sobre la página el 24 de octubre de 2026 y atribuyó el hallazgo a Hana Kobzová."
+                "x": "OpenAI parece estar implementando un nuevo formato para algunas unidades de ChatGPT Ad que incluyen un enlace Learn more, punteado y subrayado, además de una flecha hacia arriba. Y en algunos casos, los ChatGPT Ads parecen servirse con Amazon DSP."
               },
               {
                 "t": "p",
-                "x": "\"Los resúmenes de reseñas en Search son resúmenes AI-powered de reseñas en línea que aparecen directamente como parte de sus anuncios de Search\", según Google. \"Estos resúmenes son solo positivos\". La página, sin fecha, no indica las fuentes de las reseñas, ni un número mínimo de reseñas, ni una forma de activar o desactivar la función."
+                "x": "El nuevo diseño de las unidades de anuncios de ChatGPT lo detectó Bordie Clark, que publicó capturas en X y en SERP Alert. Según dijo, \"ChatGPT está experimentando con un nuevo formato de anuncio que incluye un enlace learn more con una flecha dentro de los anuncios de texto. En este nuevo formato, el texto 'learn more' también aparece con un subrayado punteado.\""
               },
               {
                 "t": "p",
-                "x": "Pueden optar las campañas de Search, en todas las posiciones de Google.com, en inglés en US, AU, UK e IN, y todos los sectores salvo categorías sensibles como los productos farmacéuticos. \"Google solo muestra resúmenes de reseñas cuando se prevé que mejoren el rendimiento del anuncio\", afirma la página, sin definir la métrica."
+                "x": "Esta es una captura que yo mismo veo:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-ads-learn-more-link-xA1W3tjY.png"
               },
               {
                 "t": "p",
-                "x": "\"Como los resúmenes de reseñas representan la opinión de los usuarios, los anunciantes no pueden editar ni personalizar directamente el texto generado\", según Google. La página no cita resultados de pruebas ni cifras de mejora, y no aclara si se aplican los controles automáticos de recursos a nivel de cuenta. El formato se prueba en resultados reales desde diciembre de 2025."
+                "x": "El enlace Learn more no aparece en todos los anuncios..."
+              },
+              {
+                "t": "p",
+                "x": "Juozas Kaziukėnas publicó en LinkedIn que algunos de estos ChatGPT Ads son \"servidos por Amazon DSP\". Dijo que lo ve así \"porque la URL de destino del clic pasa por el servidor de seguimiento de clics de Amazon\"."
+              },
+              {
+                "t": "p",
+                "x": "Esta es su captura con el enlace:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/chatgpt-ads-amazon-dsp-uHnh0Mix.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Y añadió: \"Apenas hay detalles sobre cómo funciona esta integración, y todavía no he visto a otros anunciantes usarla, pero creo que está claro que Amazon no va a ejecutar formatos publicitarios de Amazon dentro de ChatGPT. Los anunciantes comprarán anuncios a través de DSP (¿incluidos anuncios basados en feeds?) y DSP se encargará de la segmentación (¿lo más probable?), pero el control creativo es el mismo que en los anuncios normales de ChatGPT.\""
+              },
+              {
+                "t": "p",
+                "x": "Muy interesante..."
               }
             ]
           }
@@ -325,15 +555,15 @@
       }
     },
     {
-      "id": "marketing-bid-exploration-pmax",
+      "id": "marketing-therealreal-ai-agents",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "스마트 입찰 탐색,\nPMax·Shopping에",
-      "body": "Target ROAS 입찰이 PMax·Shopping에서도 추가 검색을 노린다.",
-      "mini_headline": "PMax에 입찰 탐색",
+      "headline": "The RealReal,\nAI 에이전트 독점 차단",
+      "body": "The RealReal이 Meta의 Muse 등 AI 에이전트 차단을 강화했다.",
+      "mini_headline": "The RealReal vs AI 에이전트",
       "tool": "Marketing",
-      "source": "Search Engine Land",
-      "url": "https://searchengineland.com/google-ads-expands-smart-bidding-exploration-to-performance-max-and-shopping-campaigns-498529",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -341,173 +571,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://searchengineland.com/wp-content/seloads/2026/10/Google-Ads-Performance-Dashboard-1.png"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "cap": "이미지: Cath Virginia / The Verge, Getty Images"
           },
           {
             "t": "p",
-            "x": "Google Ads가 Smart Bidding Exploration을 Performance Max와 Shopping 캠페인으로 넓혔다. 광고주는 이제 Target ROAS 입찰로 추가 검색 기회를 노릴 수 있다. 원래 Search 캠페인용이던 이 기능은 기존 입찰 전략이 놓치기 쉬운 적격 검색에서 전환을 더 끌어내려고 만들었다."
+            "x": "중고 명품 패션 위탁 판매업체 The RealReal이 봇 방어 시스템을 손본다고 밝혔다. AI 에이전트가 이 사이트에서 쇼핑하기가 사실상 어려워진다."
           },
           {
             "t": "p",
-            "x": "Performance Max에서는 기존 적격 검색어 가운데 추가 검색을 탐색해 Search 채널의 입찰 기회를 넓힌다. Shopping에서는 Merchant Center 피드가 있으면 Search와 Shopping 트래픽 모두에 탐색을 적용할 수 있다. Google은 두 유형의 도움말 문서를 새로 공개했다."
+            "x": "The Verge가 AI 에이전트로 The RealReal의 상품 예약 시스템을 악용할 수 있다고 보도한 지 며칠 만에 나온 변화다. 이 업체 웹사이트에서 상품을 장바구니에 담으면 “보류(on hold)” 상태가 돼 20분 동안 다른 고객이 살 수 없다. The Verge는 Meta의 Muse로 AI 에이전트에 20분 보류가 풀리는 즉시 The RealReal 상품을 장바구니에 거듭 다시 담으라고 지시했다. 이렇게 해서 다른 쇼핑객이 몇 시간 넘게 상품을 사지 못하게 막았다."
           },
           {
             "t": "p",
-            "x": "조건은 캠페인이 Target ROAS를 쓰고 예산 제한을 받지 않는 것이다. 포트폴리오 입찰 전략은 Search 캠페인에서만 호환된다. Search Ads 360에서는 Shopping이나 리테일 Performance Max 캠페인에 이 기능을 쓸 수 없다."
+            "x": "최고기술책임자 Luke Friang은 회사가 Muse 사용 사례에 대응했다고 말했다. 새 봇 방어 설정 아래서는 어떤 에이전트든 The RealReal에 로그인하고 장바구니에 담고 결제하기가 훨씬 까다롭다. 그래도 에이전트가 The RealReal 상품 목록을 찾아 보여주고 Muse 사용자를 상품 페이지로 안내하는 일은 여전히 가능하다."
           },
           {
             "t": "p",
-            "x": "이번 업데이트가 전환량 증가나 ROAS 개선을 보장하지는 않는다. 입찰 방식을 크게 바꾸기 전에 적용 조건부터 검토하고 성과를 지켜보는 편이 좋다."
+            "x": "Meta는 이달 Q3 실적 발표에서 Muse가 지금까지 가장 많이 쓰인 곳이 쇼핑이고 평균 구매액은 $200를 넘는다고 밝혔다. 회사 설명으로는 미국(US)에서 40일 동안 1000만 명이 앱을 내려받았다. 소매업체 가운데 특히 Amazon은 에이전트가 자사 사이트에서 쇼핑하지 못하게 막았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Smart Bidding Exploration\nreaches PMax and Shopping",
-          "body": "Google Ads brings Smart Bidding Exploration to PMax and Shopping, letting Target ROAS bids chase extra searches.",
-          "mini_headline": "Bid Exploration\nhits PMax",
+          "headline": "The RealReal won't let AI\nagents hog designer clothing",
+          "body": "The RealReal is tightening its bot defenses, making it much harder for AI agents like Meta's Muse to add items to cart.",
+          "mini_headline": "The RealReal vs AI agents",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://searchengineland.com/wp-content/seloads/2026/10/Google-Ads-Performance-Dashboard-1.png"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "cap": "Image: Cath Virginia / The Verge, Getty Images"
               },
               {
                 "t": "p",
-                "x": "Google Ads is expanding Smart Bidding Exploration to Performance Max and Shopping campaigns, allowing advertisers to pursue additional search opportunities through Target ROAS bidding. The feature, previously available for Search campaigns, is designed to help advertisers capture more conversions from eligible searches that their existing bidding strategies might otherwise overlook."
+                "x": "The RealReal, a secondhand luxury fashion consignment retailer, said it’s updating its bot defense system, effectively making it harder for AI agents to shop on its site."
               },
               {
                 "t": "p",
-                "x": "For Performance Max, it expands bidding opportunities on the Search channel by exploring additional searches among existing eligible terms. For Shopping, exploration can apply to both Search and Shopping traffic when a Merchant Center feed is available. Google has published new help documentation for both."
+                "x": "The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal’s item reserve system. On the retailer’s website, an item goes “on hold” and is unavailable for other customers to buy for 20 minutes once it’s placed in a user’s shopping cart. Using Meta’s Muse, The Verge was able to instruct the AI agent to continuously re-add The RealReal listings in a shopping cart as soon as the 20-minute hold had expired, effectively blocking other shoppers from purchasing products for hours or longer."
               },
               {
                 "t": "p",
-                "x": "Eligibility: campaigns must use Target ROAS and should not be limited by budget. Portfolio bid strategies are compatible only for Search campaigns, and the feature isn't available in Search Ads 360 for Shopping or retail Performance Max campaigns."
+                "x": "Chief technology officer Luke Friang said the company had addressed the Muse use case. The RealReal’s bot defense configuration now makes it much more difficult for all agents to log in, add items to cart, and check out. Agents will still be able to surface listings from The RealReal and direct Muse users to product pages."
               },
               {
                 "t": "p",
-                "x": "The update doesn't guarantee higher conversion volume or better ROAS. Advertisers should review eligibility requirements and monitor performance before making broader bidding changes."
+                "x": "Meta said in its Q3 earnings call this month that shopping was the most common use case for Muse so far, and that purchases were over $200 on average. The company said 10 million people in the US had downloaded the app in 40 days. Retailers — most notably Amazon — have blocked agents from shopping on their sites."
               }
             ]
           }
         },
         "ko": {
-          "headline": "스마트 입찰 탐색,\nPMax·Shopping에",
-          "body": "Target ROAS 입찰이 PMax·Shopping에서도 추가 검색을 노린다.",
-          "mini_headline": "PMax에 입찰 탐색",
+          "headline": "The RealReal,\nAI 에이전트 독점 차단",
+          "body": "The RealReal이 Meta의 Muse 등 AI 에이전트 차단을 강화했다.",
+          "mini_headline": "The RealReal vs AI 에이전트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://searchengineland.com/wp-content/seloads/2026/10/Google-Ads-Performance-Dashboard-1.png"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "cap": "이미지: Cath Virginia / The Verge, Getty Images"
               },
               {
                 "t": "p",
-                "x": "Google Ads가 Smart Bidding Exploration을 Performance Max와 Shopping 캠페인으로 넓혔다. 광고주는 이제 Target ROAS 입찰로 추가 검색 기회를 노릴 수 있다. 원래 Search 캠페인용이던 이 기능은 기존 입찰 전략이 놓치기 쉬운 적격 검색에서 전환을 더 끌어내려고 만들었다."
+                "x": "중고 명품 패션 위탁 판매업체 The RealReal이 봇 방어 시스템을 손본다고 밝혔다. AI 에이전트가 이 사이트에서 쇼핑하기가 사실상 어려워진다."
               },
               {
                 "t": "p",
-                "x": "Performance Max에서는 기존 적격 검색어 가운데 추가 검색을 탐색해 Search 채널의 입찰 기회를 넓힌다. Shopping에서는 Merchant Center 피드가 있으면 Search와 Shopping 트래픽 모두에 탐색을 적용할 수 있다. Google은 두 유형의 도움말 문서를 새로 공개했다."
+                "x": "The Verge가 AI 에이전트로 The RealReal의 상품 예약 시스템을 악용할 수 있다고 보도한 지 며칠 만에 나온 변화다. 이 업체 웹사이트에서 상품을 장바구니에 담으면 “보류(on hold)” 상태가 돼 20분 동안 다른 고객이 살 수 없다. The Verge는 Meta의 Muse로 AI 에이전트에 20분 보류가 풀리는 즉시 The RealReal 상품을 장바구니에 거듭 다시 담으라고 지시했다. 이렇게 해서 다른 쇼핑객이 몇 시간 넘게 상품을 사지 못하게 막았다."
               },
               {
                 "t": "p",
-                "x": "조건은 캠페인이 Target ROAS를 쓰고 예산 제한을 받지 않는 것이다. 포트폴리오 입찰 전략은 Search 캠페인에서만 호환된다. Search Ads 360에서는 Shopping이나 리테일 Performance Max 캠페인에 이 기능을 쓸 수 없다."
+                "x": "최고기술책임자 Luke Friang은 회사가 Muse 사용 사례에 대응했다고 말했다. 새 봇 방어 설정 아래서는 어떤 에이전트든 The RealReal에 로그인하고 장바구니에 담고 결제하기가 훨씬 까다롭다. 그래도 에이전트가 The RealReal 상품 목록을 찾아 보여주고 Muse 사용자를 상품 페이지로 안내하는 일은 여전히 가능하다."
               },
               {
                 "t": "p",
-                "x": "이번 업데이트가 전환량 증가나 ROAS 개선을 보장하지는 않는다. 입찰 방식을 크게 바꾸기 전에 적용 조건부터 검토하고 성과를 지켜보는 편이 좋다."
+                "x": "Meta는 이달 Q3 실적 발표에서 Muse가 지금까지 가장 많이 쓰인 곳이 쇼핑이고 평균 구매액은 $200를 넘는다고 밝혔다. 회사 설명으로는 미국(US)에서 40일 동안 1000만 명이 앱을 내려받았다. 소매업체 가운데 특히 Amazon은 에이전트가 자사 사이트에서 쇼핑하지 못하게 막았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "スマート入札の探索機能\nPMaxとShoppingへ",
-          "body": "Target ROAS入札が、PMaxとShoppingでも追加の検索を狙える。",
-          "mini_headline": "PMaxに入札探索",
+          "headline": "The RealReal、\nAIエージェントの独占阻止",
+          "body": "The RealRealがボット対策強化でMetaのMuseなどAIエージェントを阻む。",
+          "mini_headline": "The RealReal対AIエージェント",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://searchengineland.com/wp-content/seloads/2026/10/Google-Ads-Performance-Dashboard-1.png"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "cap": "画像: Cath Virginia / The Verge, Getty Images"
               },
               {
                 "t": "p",
-                "x": "Google AdsはSmart Bidding ExplorationをPerformance MaxとShoppingキャンペーンに拡大し、広告主がTarget ROAS入札で追加の検索機会を狙えるようにする。これまでSearchキャンペーンで利用できたこの機能は、既存の入札戦略が見落としかねない対象検索から、より多くのコンバージョンを獲得できるよう設計されている。"
+                "x": "中古高級ファッションの委託販売を手がけるThe RealRealは、ボット対策システムを更新すると発表した。これにより、AIエージェントが同社サイトで買い物をするのは事実上難しくなる。"
               },
               {
                 "t": "p",
-                "x": "Performance Maxでは、既存の対象語句の中から追加の検索を探索し、Searchチャネルでの入札機会を広げる。Shoppingでは、Merchant Centerフィードがあれば、SearchとShoppingの両方のトラフィックに探索を適用できる。Googleは両方について新しいヘルプ文書を公開した。"
+                "x": "この変更は、AIエージェントを使えばThe RealRealの商品確保の仕組みを悪用できるとThe Vergeが報じた数日後のことだ。同社サイトでは、ユーザーが商品をショッピングカートに入れると、その商品は「保留(on hold)」となり、20分間はほかの客が購入できなくなる。The VergeはMetaのMuseを使い、20分の保留が切れるとすぐにThe RealRealの商品をカートへ入れ直し続けるようAIエージェントに指示できた。その結果、ほかの買い物客が数時間以上にわたって商品を買えない状態を作り出せた。"
               },
               {
                 "t": "p",
-                "x": "条件として、キャンペーンはTarget ROASを使い、予算による制限を受けていないことが必要だ。ポートフォリオ入札戦略はSearchキャンペーンでのみ併用でき、Search Ads 360ではShoppingや小売向けPerformance Maxキャンペーンでこの機能を使えない。"
+                "x": "最高技術責任者のLuke Friangは、Museのこの使われ方に対処したと述べた。The RealRealのボット対策の設定により、現在はあらゆるエージェントにとって、ログイン、カートへの商品追加、決済がはるかに難しくなっている。ただし、エージェントは引き続きThe RealRealの出品を表示し、Museのユーザーを商品ページへ誘導できる。"
               },
               {
                 "t": "p",
-                "x": "今回の更新で、コンバージョン数の増加やROASの改善が保証されるわけではない。広告主は入札を大きく変える前に、条件を確認し、成果を注視すべきである。"
+                "x": "Metaは今月のQ3決算説明会で、これまでのMuseの最も一般的な用途は買い物で、購入額は平均$200を超えると述べた。同社によると、米国(US)では40日間で1000万人がアプリをダウンロードした。小売各社、とりわけAmazonは、エージェントによる自社サイトでの買い物をブロックしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "智能出价探索扩至PMax\n和Shopping广告系列",
-          "body": "Target ROAS出价现可在PMax和Shopping中争取额外搜索。",
-          "mini_headline": "出价探索登陆PMax",
+          "headline": "The RealReal\n阻止AI代理囤占设计师服装",
+          "body": "The RealReal加强机器人防御，让Meta的Muse等AI代理更难把商品加入购物车。",
+          "mini_headline": "The RealReal对阵AI代理",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://searchengineland.com/wp-content/seloads/2026/10/Google-Ads-Performance-Dashboard-1.png"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "cap": "图片：Cath Virginia / The Verge, Getty Images"
               },
               {
                 "t": "p",
-                "x": "Google Ads正将Smart Bidding Exploration扩展到Performance Max和Shopping广告系列，让广告主能通过Target ROAS出价争取更多搜索机会。该功能此前适用于Search广告系列，旨在帮助广告主从符合条件、但现有出价策略可能忽略的搜索中获取更多转化。"
+                "x": "二手奢侈时尚寄售零售商The RealReal表示，正在更新其机器人防御系统，这实际上让AI代理更难在其网站上购物。"
               },
               {
                 "t": "p",
-                "x": "在Performance Max中，它通过在现有符合条件的字词中探索更多搜索，扩大Search渠道的出价机会。在Shopping中，只要有Merchant Center数据源，探索即可同时用于Search和Shopping流量。Google已为两者发布新的帮助文档。"
+                "x": "几天前，The Verge报道称，AI代理可被用来钻The RealReal商品预留机制的空子。在该零售商网站上，商品一旦被用户放入购物车，就会进入“保留（on hold）”状态，20分钟内其他顾客无法购买。The Verge借助Meta的Muse，指示AI代理在20分钟保留期一到就立即把The RealReal的商品重新加入购物车，从而在数小时甚至更长时间内阻止其他顾客购买。"
               },
               {
                 "t": "p",
-                "x": "适用条件：广告系列须使用Target ROAS，且不应受预算限制。组合出价策略仅适用于Search广告系列；在Search Ads 360中，Shopping或零售Performance Max广告系列无法使用该功能。"
+                "x": "首席技术官Luke Friang表示，公司已处理了Muse的这一使用情形。如今，The RealReal的机器人防御配置让所有代理都更难登录、把商品加入购物车以及结账。不过，代理仍可展示The RealReal的商品列表，并把Muse用户引导至商品页面。"
               },
               {
                 "t": "p",
-                "x": "此次更新并不保证提高转化量或改善ROAS。广告主在大幅调整出价前，应先核对适用条件并监测效果。"
+                "x": "Meta在本月的Q3财报电话会上表示，迄今为止购物是Muse最常见的用途，平均购买金额超过$200。该公司称，美国（US）有1000万人在40天内下载了这款应用。零售商们——尤其是Amazon——已禁止代理在其网站上购物。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Smart Bidding Exploration llega\na PMax y Shopping",
-          "body": "Google Ads lleva Smart Bidding Exploration a PMax y Shopping para que las pujas Target ROAS capten búsquedas extra.",
-          "mini_headline": "Bid Exploration llega a PMax",
+          "headline": "The RealReal frena a agentes AI\nque acaparan ropa de diseño",
+          "body": "The RealReal refuerza su defensa contra bots y dificulta que agentes AI como Muse de Meta añadan artículos al carrito.",
+          "mini_headline": "The RealReal frente a agentes AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://searchengineland.com/wp-content/seloads/2026/10/Google-Ads-Performance-Dashboard-1.png"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "cap": "Imagen: Cath Virginia / The Verge, Getty Images"
               },
               {
                 "t": "p",
-                "x": "Google Ads amplía Smart Bidding Exploration a las campañas de Performance Max y Shopping, lo que permite a los anunciantes buscar oportunidades de búsqueda adicionales mediante pujas Target ROAS. La función, disponible hasta ahora en campañas de Search, está pensada para captar más conversiones en búsquedas aptas que las estrategias de puja actuales podrían pasar por alto."
+                "x": "The RealReal, minorista de moda de lujo de segunda mano en consignación, dijo que está actualizando su sistema de defensa contra bots, lo que en la práctica dificulta que los agentes de AI compren en su sitio."
               },
               {
                 "t": "p",
-                "x": "En Performance Max, amplía las oportunidades de puja en el canal de Search al explorar búsquedas adicionales entre los términos aptos existentes. En Shopping, la exploración puede aplicarse al tráfico de Search y de Shopping cuando hay un feed de Merchant Center. Google ha publicado nueva documentación de ayuda para ambos casos."
+                "x": "El cambio llega días después de que The Verge informara de que un agente de AI podía usarse para aprovecharse del sistema de reserva de artículos de The RealReal. En la web del minorista, un artículo queda “en espera” (on hold) y otros clientes no pueden comprarlo durante 20 minutos una vez que un usuario lo coloca en su carrito. Con Muse de Meta, The Verge pudo ordenar al agente de AI que volviera a añadir continuamente artículos de The RealReal al carrito en cuanto expiraba la reserva de 20 minutos, lo que impedía a otros compradores adquirir productos durante horas o más."
               },
               {
                 "t": "p",
-                "x": "Requisitos: las campañas deben usar Target ROAS y no deben estar limitadas por presupuesto. Las estrategias de puja de cartera solo son compatibles con campañas de Search, y la función no está disponible en Search Ads 360 para campañas de Shopping ni de Performance Max para retail."
+                "x": "El director de tecnología, Luke Friang, dijo que la empresa había resuelto el caso de uso de Muse. La configuración de defensa contra bots de The RealReal hace ahora mucho más difícil que cualquier agente inicie sesión, añada artículos al carrito y pague. Los agentes podrán seguir mostrando artículos de The RealReal y dirigir a los usuarios de Muse a las páginas de producto."
               },
               {
                 "t": "p",
-                "x": "La actualización no garantiza más conversiones ni un mejor ROAS. Los anunciantes deberían revisar los requisitos y vigilar el rendimiento antes de hacer cambios de puja más amplios."
+                "x": "Meta dijo en su presentación de resultados del Q3 este mes que las compras eran hasta ahora el uso más común de Muse y que el gasto medio superaba los $200. La empresa dijo que 10 millones de personas en Estados Unidos (US) habían descargado la app en 40 días. Los minoristas, sobre todo Amazon, han bloqueado a los agentes para que no compren en sus sitios."
               }
             ]
           }
@@ -515,121 +751,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "스마트 입찰 탐색,\nPMax·Shopping에",
-          "body": "Target ROAS 입찰이 PMax·Shopping에서도 추가 검색을 노린다.",
-          "mini_headline": "PMax에 입찰 탐색",
+          "headline": "The RealReal,\nAI 에이전트 독점 차단",
+          "body": "The RealReal이 Meta의 Muse 등 AI 에이전트 봇 방어를 강화했다.",
+          "mini_headline": "The RealReal vs AI 에이전트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://searchengineland.com/wp-content/seloads/2026/10/Google-Ads-Performance-Dashboard-1.png"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "cap": "이미지: Cath Virginia / The Verge, Getty Images"
               },
               {
                 "t": "p",
-                "x": "Google Ads가 Smart Bidding Exploration을 Performance Max와 Shopping 캠페인으로 확대해, 광고주가 Target ROAS 입찰로 추가 검색 기회를 노릴 수 있게 한다. 이전에는 Search 캠페인에서 쓸 수 있던 이 기능은 기존 입찰 전략이 놓칠 수 있는 적격 검색에서 더 많은 전환을 얻도록 설계됐다."
+                "x": "중고 명품 패션 위탁 판매업체 The RealReal이 봇 방어 시스템을 업데이트한다고 밝혔다. 사실상 AI 에이전트가 자사 사이트에서 쇼핑하기 어렵게 만드는 조치다."
               },
               {
                 "t": "p",
-                "x": "Performance Max에서는 기존 적격 검색어 가운데 추가 검색을 탐색해 Search 채널의 입찰 기회를 넓힌다. Shopping에서는 Merchant Center 피드가 있으면 Search와 Shopping 트래픽 모두에 탐색을 적용할 수 있다. Google은 두 유형에 대한 새 도움말 문서를 공개했다."
+                "x": "이번 변경은 The Verge가 AI 에이전트로 The RealReal의 상품 예약 시스템을 악용할 수 있다고 보도한 지 며칠 만에 나왔다. 이 업체 웹사이트에서는 사용자가 상품을 장바구니에 담으면 상품이 “보류(on hold)” 상태가 되고, 20분 동안 다른 고객이 살 수 없다. The Verge는 Meta의 Muse를 써서 20분 보류가 끝나자마자 The RealReal 상품을 장바구니에 계속 다시 담도록 AI 에이전트에 지시할 수 있었다. 그 결과 다른 쇼핑객이 몇 시간 이상 상품을 사지 못하게 막을 수 있었다."
               },
               {
                 "t": "p",
-                "x": "적용 조건은 캠페인이 Target ROAS를 쓰고 예산 제한을 받지 않아야 한다는 것이다. 포트폴리오 입찰 전략은 Search 캠페인에서만 호환되며, Search Ads 360에서는 Shopping 또는 리테일 Performance Max 캠페인에 이 기능을 쓸 수 없다."
+                "x": "최고기술책임자 Luke Friang은 회사가 Muse 사용 사례에 대응했다고 말했다. 이제 The RealReal의 봇 방어 설정은 모든 에이전트의 로그인, 장바구니 담기, 결제를 훨씬 어렵게 만든다. 다만 에이전트는 여전히 The RealReal 상품 목록을 찾아 보여주고 Muse 사용자를 상품 페이지로 안내할 수 있다."
               },
               {
                 "t": "p",
-                "x": "이번 업데이트가 전환량 증가나 ROAS 개선을 보장하지는 않는다. 광고주는 입찰 방식을 크게 바꾸기 전에 적용 조건을 검토하고 성과를 지켜봐야 한다."
+                "x": "Meta는 이달 Q3 실적 발표에서 지금까지 Muse의 가장 흔한 사용 사례가 쇼핑이며 평균 구매액이 $200를 넘는다고 밝혔다. 회사는 미국(US)에서 40일 동안 1000만 명이 앱을 내려받았다고 말했다. 소매업체들, 특히 Amazon은 에이전트가 자사 사이트에서 쇼핑하지 못하게 막았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "スマート入札の探索機能\nPMaxとShoppingへ",
-          "body": "Target ROAS入札が、PMaxとShoppingでも追加の検索を狙える。",
-          "mini_headline": "PMaxに入札探索",
+          "headline": "The RealReal、\nAIエージェントの独占阻止",
+          "body": "The RealRealがボット対策強化でMetaのMuseなどAIエージェントを阻む。",
+          "mini_headline": "The RealReal対AIエージェント",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://searchengineland.com/wp-content/seloads/2026/10/Google-Ads-Performance-Dashboard-1.png"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "cap": "画像: Cath Virginia / The Verge, Getty Images"
               },
               {
                 "t": "p",
-                "x": "Google AdsはSmart Bidding ExplorationをPerformance MaxとShoppingキャンペーンに拡大し、広告主がTarget ROAS入札で追加の検索機会を狙えるようにする。これまでSearchキャンペーンで利用できたこの機能は、既存の入札戦略が見落としかねない対象検索から、より多くのコンバージョンを獲得できるよう設計されている。"
+                "x": "中古高級ファッションの委託販売を手がけるThe RealRealは、ボット対策システムを更新すると発表した。これにより、AIエージェントが同社サイトで買い物をするのは事実上難しくなる。"
               },
               {
                 "t": "p",
-                "x": "Performance Maxでは、既存の対象語句の中から追加の検索を探索し、Searchチャネルでの入札機会を広げる。Shoppingでは、Merchant Centerフィードがあれば、SearchとShoppingの両方のトラフィックに探索を適用できる。Googleは両方について新しいヘルプ文書を公開した。"
+                "x": "この変更は、AIエージェントを使えばThe RealRealの商品確保の仕組みを悪用できるとThe Vergeが報じた数日後のことだ。同社サイトでは、ユーザーが商品をショッピングカートに入れると、その商品は「保留(on hold)」となり、20分間はほかの客が購入できなくなる。The VergeはMetaのMuseを使い、20分の保留が切れるとすぐにThe RealRealの商品をカートへ入れ直し続けるようAIエージェントに指示できた。その結果、ほかの買い物客が数時間以上にわたって商品を買えない状態を作り出せた。"
               },
               {
                 "t": "p",
-                "x": "条件として、キャンペーンはTarget ROASを使い、予算による制限を受けていないことが必要だ。ポートフォリオ入札戦略はSearchキャンペーンでのみ併用でき、Search Ads 360ではShoppingや小売向けPerformance Maxキャンペーンでこの機能を使えない。"
+                "x": "最高技術責任者のLuke Friangは、Museのこの使われ方に対処したと述べた。The RealRealのボット対策の設定により、現在はあらゆるエージェントにとって、ログイン、カートへの商品追加、決済がはるかに難しくなっている。ただし、エージェントは引き続きThe RealRealの出品を表示し、Museのユーザーを商品ページへ誘導できる。"
               },
               {
                 "t": "p",
-                "x": "今回の更新で、コンバージョン数の増加やROASの改善が保証されるわけではない。広告主は入札を大きく変える前に、条件を確認し、成果を注視すべきである。"
+                "x": "Metaは今月のQ3決算説明会で、これまでのMuseの最も一般的な用途は買い物で、購入額は平均$200を超えると述べた。同社によると、米国(US)では40日間で1000万人がアプリをダウンロードした。小売各社、とりわけAmazonは、エージェントによる自社サイトでの買い物をブロックしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "智能出价探索扩至PMax\n和Shopping广告系列",
-          "body": "Target ROAS出价现可在PMax和Shopping中争取额外搜索。",
-          "mini_headline": "出价探索登陆PMax",
+          "headline": "The RealReal\n阻止AI代理囤占设计师服装",
+          "body": "The RealReal加强机器人防御，让Meta的Muse等AI代理更难把商品加入购物车。",
+          "mini_headline": "The RealReal对阵AI代理",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://searchengineland.com/wp-content/seloads/2026/10/Google-Ads-Performance-Dashboard-1.png"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "cap": "图片：Cath Virginia / The Verge, Getty Images"
               },
               {
                 "t": "p",
-                "x": "Google Ads正将Smart Bidding Exploration扩展到Performance Max和Shopping广告系列，让广告主能通过Target ROAS出价争取更多搜索机会。该功能此前适用于Search广告系列，旨在帮助广告主从符合条件、但现有出价策略可能忽略的搜索中获取更多转化。"
+                "x": "二手奢侈时尚寄售零售商The RealReal表示，正在更新其机器人防御系统，这实际上让AI代理更难在其网站上购物。"
               },
               {
                 "t": "p",
-                "x": "在Performance Max中，它通过在现有符合条件的字词中探索更多搜索，扩大Search渠道的出价机会。在Shopping中，只要有Merchant Center数据源，探索即可同时用于Search和Shopping流量。Google已为两者发布新的帮助文档。"
+                "x": "几天前，The Verge报道称，AI代理可被用来钻The RealReal商品预留机制的空子。在该零售商网站上，商品一旦被用户放入购物车，就会进入“保留（on hold）”状态，20分钟内其他顾客无法购买。The Verge借助Meta的Muse，指示AI代理在20分钟保留期一到就立即把The RealReal的商品重新加入购物车，从而在数小时甚至更长时间内阻止其他顾客购买。"
               },
               {
                 "t": "p",
-                "x": "适用条件：广告系列须使用Target ROAS，且不应受预算限制。组合出价策略仅适用于Search广告系列；在Search Ads 360中，Shopping或零售Performance Max广告系列无法使用该功能。"
+                "x": "首席技术官Luke Friang表示，公司已处理了Muse的这一使用情形。如今，The RealReal的机器人防御配置让所有代理都更难登录、把商品加入购物车以及结账。不过，代理仍可展示The RealReal的商品列表，并把Muse用户引导至商品页面。"
               },
               {
                 "t": "p",
-                "x": "此次更新并不保证提高转化量或改善ROAS。广告主在大幅调整出价前，应先核对适用条件并监测效果。"
+                "x": "Meta在本月的Q3财报电话会上表示，迄今为止购物是Muse最常见的用途，平均购买金额超过$200。该公司称，美国（US）有1000万人在40天内下载了这款应用。零售商们——尤其是Amazon——已禁止代理在其网站上购物。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Smart Bidding Exploration llega\na PMax y Shopping",
-          "body": "Google Ads lleva Smart Bidding Exploration a PMax y Shopping para que las pujas Target ROAS capten búsquedas extra.",
-          "mini_headline": "Bid Exploration llega a PMax",
+          "headline": "The RealReal frena a agentes AI\nque acaparan ropa de diseño",
+          "body": "The RealReal refuerza su defensa contra bots y dificulta que agentes AI como Muse de Meta añadan artículos al carrito.",
+          "mini_headline": "The RealReal frente a agentes AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://searchengineland.com/wp-content/seloads/2026/10/Google-Ads-Performance-Dashboard-1.png"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "cap": "Imagen: Cath Virginia / The Verge, Getty Images"
               },
               {
                 "t": "p",
-                "x": "Google Ads amplía Smart Bidding Exploration a las campañas de Performance Max y Shopping, lo que permite a los anunciantes buscar oportunidades de búsqueda adicionales mediante pujas Target ROAS. La función, disponible hasta ahora en campañas de Search, está pensada para captar más conversiones en búsquedas aptas que las estrategias de puja actuales podrían pasar por alto."
+                "x": "The RealReal, minorista de moda de lujo de segunda mano en consignación, dijo que está actualizando su sistema de defensa contra bots, lo que en la práctica dificulta que los agentes de AI compren en su sitio."
               },
               {
                 "t": "p",
-                "x": "En Performance Max, amplía las oportunidades de puja en el canal de Search al explorar búsquedas adicionales entre los términos aptos existentes. En Shopping, la exploración puede aplicarse al tráfico de Search y de Shopping cuando hay un feed de Merchant Center. Google ha publicado nueva documentación de ayuda para ambos casos."
+                "x": "El cambio llega días después de que The Verge informara de que un agente de AI podía usarse para aprovecharse del sistema de reserva de artículos de The RealReal. En la web del minorista, un artículo queda “en espera” (on hold) y otros clientes no pueden comprarlo durante 20 minutos una vez que un usuario lo coloca en su carrito. Con Muse de Meta, The Verge pudo ordenar al agente de AI que volviera a añadir continuamente artículos de The RealReal al carrito en cuanto expiraba la reserva de 20 minutos, lo que impedía a otros compradores adquirir productos durante horas o más."
               },
               {
                 "t": "p",
-                "x": "Requisitos: las campañas deben usar Target ROAS y no deben estar limitadas por presupuesto. Las estrategias de puja de cartera solo son compatibles con campañas de Search, y la función no está disponible en Search Ads 360 para campañas de Shopping ni de Performance Max para retail."
+                "x": "El director de tecnología, Luke Friang, dijo que la empresa había resuelto el caso de uso de Muse. La configuración de defensa contra bots de The RealReal hace ahora mucho más difícil que cualquier agente inicie sesión, añada artículos al carrito y pague. Los agentes podrán seguir mostrando artículos de The RealReal y dirigir a los usuarios de Muse a las páginas de producto."
               },
               {
                 "t": "p",
-                "x": "La actualización no garantiza más conversiones ni un mejor ROAS. Los anunciantes deberían revisar los requisitos y vigilar el rendimiento antes de hacer cambios de puja más amplios."
+                "x": "Meta dijo en su presentación de resultados del Q3 este mes que las compras eran hasta ahora el uso más común de Muse y que el gasto medio superaba los $200. La empresa dijo que 10 millones de personas en Estados Unidos (US) habían descargado la app en 40 días. Los minoristas, sobre todo Amazon, han bloqueado a los agentes para que no compren en sus sitios."
               }
             ]
           }
@@ -637,281 +877,401 @@
       }
     },
     {
-      "id": "marketing-ads-localize-10-languages",
-      "source_lang": "en",
+      "id": "marketing-fanatics-openai-shopping",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Google Ads AI가\n캠페인 10개 언어 복제",
-      "body": "Google AI가 Search 캠페인을 10개 언어로 복제하되 예산은 그대로다.",
-      "mini_headline": "Ads AI, 10개 언어 추가",
+      "headline": "파나틱스, 오픈AI와\n'내 팀 코디' 추천",
+      "body": "파나틱스가 오픈AI와 함께 150만개 상품에서 응원 구단 맞춤 코디를 추천한다.",
+      "mini_headline": "파나틱스 AI 코디 추천",
       "tool": "Marketing",
-      "source": "PPC Land",
-      "url": "https://ppc.land/google-ads-ai-tool-copies-search-campaigns-into-10-new-languages/",
+      "source": "ZDNet Korea",
+      "url": "https://zdnet.co.kr/view/?no=20261027082849",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "글로벌 스포츠 MD 기업 파나틱스가 오픈AI와 손잡고 유니폼에 어울리는 모자와 양말 등을 추천하는 쇼핑 기능을 선보였다. 150만개가 넘는 상품 가운데 응원하는 구단과 원하는 스타일에 맞는 조합을 제안해 고객의 상품 탐색을 돕는 방식이다."
+          },
+          {
+            "t": "p",
+            "x": "26일(현지시간) CNBC에 따르면 파나틱스는 오픈AI의 코딩 도구인 코덱스를 활용해 개발한 ‘숍 더 룩(Shop the Look)’ 기능을 도입했다. 각 상품 페이지에서 구단과 스타일을 기준으로 함께 입거나 착용하기 좋은 상품을 추천한다. 재고가 있는 상품을 대상으로 조합을 구성한다."
+          },
+          {
             "t": "img",
-            "src": "https://ppc.land/content/images/2026/10/google-ads-ai-campaign-localization-10-languages-typewriter-speech-bubbles.jpg",
-            "cap": "Google Ads AI는 영어 Search 캠페인 하나를 10개 언어로 복사하지만 예산은 환산하지 않는다"
+            "src": "https://image.zdnet.co.kr/2026/10/27/f7932f2f8a313f149fa817c83ffd792c.png",
+            "cap": "파나틱스가 오픈AI와 손잡고 선보인 '숍 더 룩' 기능. (사진=파나틱스 홈페이지)"
           },
           {
             "t": "p",
-            "x": "Google Ads 광고주가 AI 캠페인 현지화 도구를 쓸 수 있게 됐다. 2026년 10월 23일 출시 소식을 전한 PPC News Feed에 따르면, 이 도구는 기존 영어(US) Search 캠페인을 다른 10개 언어 중 하나로 된 별도 캠페인으로 바꿔 준다. 광고 제목, 설명, 사이트링크, 콜아웃, 키워드를 번역하고 이미지 속 텍스트를 걷어내며, 랜딩 페이지를 실시간으로 번역하는 스크립트도 준다. 베타로 표시돼 있다."
+            "x": "저스틴 차이 파나틱스 커머스 최고제품책임자(CPO)는 고객들이 한 번 쇼핑할 때 보내는 시간이 평균 30분을 넘기는 일이 흔했다고 설명했다. 매주 1000개 이상의 신상품이 추가되면서 탐색에 걸리는 시간도 늘었다."
           },
           {
             "t": "p",
-            "x": "도움말 페이지에 따르면 \"캠페인을 현지화하면 시스템이 완전히 새로운 독립 캠페인을 만든다. 원래 캠페인은 절대 수정되지 않는다.\" 예산과 입찰가는 그대로 복사된다. \"$100 USD 예산은 현지화된 캠페인에서도 $100 USD 예산이 된다.\" 새 캠페인은 기본적으로 일시중지(Paused) 상태로 게시된다."
+            "x": "차이 CPO는 “로스앤젤레스 다저스 팬이라면 누구도 샌프란시스코 자이언츠 상품을 함께 추천받고 싶어 하지 않는다”며 “우리 사업에서는 구단과 선수가 일치하는 것이 대단히 중요하다”고 말했다."
           },
           {
             "t": "p",
-            "x": "대상 언어는 네덜란드어, 프랑스어, 프랑스어(캐나다), 독일어, 이탈리아어, 폴란드어에 포르투갈어와 스페인어가 각각 두 가지 변형으로 들어간다. 페이지는 \"2026년 9월부터\" Performance Max를 지원한다고 약속했지만, 실제로 지원이 시작됐는지는 두 출처 모두 확인하지 않는다. 선거 인증(Election-verified) 고객은 대상이 아니다."
+            "x": "숍 더 룩은 코덱스로 개발한 도구를 통해 상품과 카탈로그 데이터를 분석하고 서로 어울리는 제품을 찾아 추천 내용을 재평가한다. 차이 CPO에 따르면 기능 도입 이후 추천 상품 조회 수는 10% 증가했다."
+          },
+          {
+            "t": "p",
+            "x": "CNBC에 따르면 오픈AI는 챗GPT 안에서 상품을 직접 구매하는 ‘인스턴트 체크아웃’ 사업을 종료하고 유통업체들과 챗GPT 내 전용 앱을 개발하는 작업을 진행하고 있다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Google Ads AI clones Search\ncampaigns into 10 new languages",
-          "body": "Google's AI tool clones English Search campaigns into 10 more languages, copying budgets without currency conversion.",
-          "mini_headline": "Ads AI adds\n10 languages",
+        "ko": {
+          "headline": "파나틱스, 오픈AI와\n'내 팀 코디' 추천",
+          "body": "파나틱스가 오픈AI와 함께 150만개 상품에서 응원 구단 맞춤 코디를 추천한다.",
+          "mini_headline": "파나틱스 AI 코디 추천",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "글로벌 스포츠 MD 기업 파나틱스가 오픈AI와 손잡고 유니폼에 어울리는 모자와 양말 등을 추천하는 쇼핑 기능을 선보였다. 150만개가 넘는 상품 가운데 응원하는 구단과 원하는 스타일에 맞는 조합을 제안해 고객의 상품 탐색을 돕는 방식이다."
+              },
+              {
+                "t": "p",
+                "x": "26일(현지시간) CNBC에 따르면 파나틱스는 오픈AI의 코딩 도구인 코덱스를 활용해 개발한 ‘숍 더 룩(Shop the Look)’ 기능을 도입했다. 각 상품 페이지에서 구단과 스타일을 기준으로 함께 입거나 착용하기 좋은 상품을 추천한다. 재고가 있는 상품을 대상으로 조합을 구성한다."
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-ads-ai-campaign-localization-10-languages-typewriter-speech-bubbles.jpg",
-                "cap": "Google Ads AI copies one English Search campaign into 10 languages, budgets left unconverted"
+                "src": "https://image.zdnet.co.kr/2026/10/27/f7932f2f8a313f149fa817c83ffd792c.png",
+                "cap": "파나틱스가 오픈AI와 손잡고 선보인 '숍 더 룩' 기능. (사진=파나틱스 홈페이지)"
               },
               {
                 "t": "p",
-                "x": "Google Ads advertisers now have access to an AI campaign localization tool that turns an existing English (US) Search campaign into a separate campaign in one of 10 other languages, according to PPC News Feed, which reported its availability on October 23, 2026. It translates headlines, descriptions, sitelinks, callouts and keywords, strips text out of images, and offers a script that translates landing pages on the fly. It is labelled a beta."
+                "x": "저스틴 차이 파나틱스 커머스 최고제품책임자(CPO)는 고객들이 한 번 쇼핑할 때 보내는 시간이 평균 30분을 넘기는 일이 흔했다고 설명했다. 매주 1000개 이상의 신상품이 추가되면서 탐색에 걸리는 시간도 늘었다."
               },
               {
                 "t": "p",
-                "x": "\"When you localize a campaign, the system creates a brand new, independent campaign. Your original campaign is never modified,\" according to the help page. Budgets and bids are copied exactly: \"a $100 USD budget becomes a $100 USD budget in the localized campaign.\" New campaigns publish in a Paused state by default."
+                "x": "차이 CPO는 “로스앤젤레스 다저스 팬이라면 누구도 샌프란시스코 자이언츠 상품을 함께 추천받고 싶어 하지 않는다”며 “우리 사업에서는 구단과 선수가 일치하는 것이 대단히 중요하다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "Targets are Dutch, French, French (Canada), German, Italian, Polish, two Portuguese and two Spanish variants. The page promised Performance Max support \"starting September 2026\", which neither source confirms has arrived. Election-verified customers aren't eligible."
+                "x": "숍 더 룩은 코덱스로 개발한 도구를 통해 상품과 카탈로그 데이터를 분석하고 서로 어울리는 제품을 찾아 추천 내용을 재평가한다. 차이 CPO에 따르면 기능 도입 이후 추천 상품 조회 수는 10% 증가했다."
+              },
+              {
+                "t": "p",
+                "x": "CNBC에 따르면 오픈AI는 챗GPT 안에서 상품을 직접 구매하는 ‘인스턴트 체크아웃’ 사업을 종료하고 유통업체들과 챗GPT 내 전용 앱을 개발하는 작업을 진행하고 있다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Google Ads AI가\n캠페인 10개 언어 복제",
-          "body": "Google AI가 Search 캠페인을 10개 언어로 복제하되 예산은 그대로다.",
-          "mini_headline": "Ads AI, 10개 언어 추가",
+        "en": {
+          "headline": "Fanatics and OpenAI suggest\noutfits for your team",
+          "body": "Fanatics is working with OpenAI to recommend outfits matched to fans' teams from 1.5 million products.",
+          "mini_headline": "Fanatics AI outfit picks",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Global sports MD company Fanatics has teamed up with OpenAI to launch a shopping feature that recommends items such as hats and socks to go with a jersey. It suggests combinations that match the team a customer supports and the style they want from more than 1.5 million products, helping customers browse."
+              },
+              {
+                "t": "p",
+                "x": "According to CNBC on the 26th (local time), Fanatics introduced a 'Shop the Look' feature built with Codex, OpenAI's coding tool. On each product page it recommends items that go well together based on team and style. Combinations are built from in-stock items."
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-ads-ai-campaign-localization-10-languages-typewriter-speech-bubbles.jpg",
-                "cap": "Google Ads AI는 영어 Search 캠페인 하나를 10개 언어로 복사하지만 예산은 환산하지 않는다"
+                "src": "https://image.zdnet.co.kr/2026/10/27/f7932f2f8a313f149fa817c83ffd792c.png",
+                "cap": "The 'Shop the Look' feature Fanatics launched with OpenAI. (Photo=Fanatics website)"
               },
               {
                 "t": "p",
-                "x": "Google Ads 광고주가 AI 캠페인 현지화 도구를 쓸 수 있게 됐다. 2026년 10월 23일 출시 소식을 전한 PPC News Feed에 따르면, 이 도구는 기존 영어(US) Search 캠페인을 다른 10개 언어 중 하나로 된 별도 캠페인으로 바꿔 준다. 광고 제목, 설명, 사이트링크, 콜아웃, 키워드를 번역하고 이미지 속 텍스트를 걷어내며, 랜딩 페이지를 실시간으로 번역하는 스크립트도 준다. 베타로 표시돼 있다."
+                "x": "Justin Chai, chief product officer (CPO) of Fanatics Commerce, explained that it was common for customers to spend more than 30 minutes on average per shopping session. With more than 1,000 new products added every week, the time spent browsing has also grown."
               },
               {
                 "t": "p",
-                "x": "도움말 페이지에 따르면 \"캠페인을 현지화하면 시스템이 완전히 새로운 독립 캠페인을 만든다. 원래 캠페인은 절대 수정되지 않는다.\" 예산과 입찰가는 그대로 복사된다. \"$100 USD 예산은 현지화된 캠페인에서도 $100 USD 예산이 된다.\" 새 캠페인은 기본적으로 일시중지(Paused) 상태로 게시된다."
+                "x": "\"No Los Angeles Dodgers fan wants to be recommended San Francisco Giants merchandise alongside it,\" Chai said, adding, \"In our business, matching the team and the player is extremely important.\""
               },
               {
                 "t": "p",
-                "x": "대상 언어는 네덜란드어, 프랑스어, 프랑스어(캐나다), 독일어, 이탈리아어, 폴란드어에 포르투갈어와 스페인어가 각각 두 가지 변형으로 들어간다. 페이지는 \"2026년 9월부터\" Performance Max를 지원한다고 약속했지만, 실제로 지원이 시작됐는지는 두 출처 모두 확인하지 않는다. 선거 인증(Election-verified) 고객은 대상이 아니다."
+                "x": "Shop the Look uses a tool built with Codex to analyze product and catalog data, find items that go together and re-evaluate its recommendations. According to Chai, views of recommended products have risen 10% since the feature launched."
+              },
+              {
+                "t": "p",
+                "x": "According to CNBC, OpenAI has shut down its 'Instant Checkout' business, which let users buy products directly inside ChatGPT, and is working with retailers to develop dedicated apps within ChatGPT."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google Ads AIが\nSearch広告を10言語へ",
-          "body": "GoogleのAIがSearchキャンペーンを10言語に複製し、予算は通貨換算しない。",
-          "mini_headline": "Ads AIが10言語追加",
+          "headline": "Fanaticsが\nOpenAIと「推し」コーデ",
+          "body": "FanaticsはOpenAIと組み、150万点の商品から応援チームに合うコーデを提案する。",
+          "mini_headline": "Fanatics、AIでコーデ提案",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "グローバルスポーツMD企業のFanaticsがOpenAIと組み、ユニフォームに合う帽子や靴下などを提案するショッピング機能を始めた。150万点を超える商品の中から、応援するチームと好みのスタイルに合う組み合わせを示し、顧客の商品探しを助ける仕組みだ。"
+              },
+              {
+                "t": "p",
+                "x": "26日(現地時間)のCNBCによると、FanaticsはOpenAIのコーディングツールCodexを使って開発した「ショップ・ザ・ルック(Shop the Look)」機能を導入した。各商品ページで、チームとスタイルを基準に一緒に着たり身に着けたりするのに合う商品を薦める。組み合わせは在庫のある商品から作られる。"
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-ads-ai-campaign-localization-10-languages-typewriter-speech-bubbles.jpg",
-                "cap": "Google Ads AIは英語のSearchキャンペーンを10言語に複製するが、予算は換算しない"
+                "src": "https://image.zdnet.co.kr/2026/10/27/f7932f2f8a313f149fa817c83ffd792c.png",
+                "cap": "FanaticsがOpenAIと組んで公開した「Shop the Look」機能。(写真=Fanaticsウェブサイト)"
               },
               {
                 "t": "p",
-                "x": "2026年10月23日に提供開始を報じたPPC News Feedによると、Google Adsの広告主は、既存の英語（US）Searchキャンペーンを他の10言語のいずれかによる別キャンペーンに変換するAIキャンペーンローカライズツールを使えるようになった。広告見出し、説明文、サイトリンク、コールアウト、キーワードを翻訳し、画像からテキストを取り除き、ランディングページをその場で翻訳するスクリプトも提供する。ベータ版と表示されている。"
+                "x": "Fanatics CommerceのJustin Chai最高製品責任者(CPO)は、顧客が1回の買い物に費やす時間が平均30分を超えることも珍しくなかったと説明した。毎週1000点以上の新商品が加わり、商品探しにかかる時間も増えていた。"
               },
               {
                 "t": "p",
-                "x": "ヘルプページによると「キャンペーンをローカライズすると、システムはまったく新しい独立したキャンペーンを作成する。元のキャンペーンが変更されることはない」。予算と入札単価はそのまま複製される。「$100 USDの予算は、ローカライズしたキャンペーンでも$100 USDの予算になる」。新しいキャンペーンは初期設定で一時停止（Paused）状態で公開される。"
+                "x": "Chai CPOは「ロサンゼルス・ドジャースのファンなら、サンフランシスコ・ジャイアンツの商品を一緒に薦められたい人はいない」とし、「われわれのビジネスでは、チームと選手が一致することが非常に重要だ」と述べた。"
               },
               {
                 "t": "p",
-                "x": "対象はオランダ語、フランス語、フランス語（カナダ）、ドイツ語、イタリア語、ポーランド語、そしてポルトガル語とスペイン語の各二種である。ページは「2026年9月から」Performance Maxに対応すると約束していたが、いずれの情報源もその実現を確認していない。選挙認証済み（Election-verified）の顧客は対象外だ。"
+                "x": "Shop the Lookは、Codexで開発したツールで商品とカタログのデータを分析し、相性のよい商品を見つけて推薦内容を再評価する。Chai CPOによると、機能導入後、推薦商品の閲覧数は10%増えた。"
+              },
+              {
+                "t": "p",
+                "x": "CNBCによると、OpenAIはChatGPT内で商品を直接購入できる「Instant Checkout」事業を終了し、小売企業とChatGPT内の専用アプリを開発する作業を進めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google Ads AI将\nSearch广告译为10语种",
-          "body": "Google的AI工具把英语Search广告系列复制成另外10种语言，预算不做货币换算。",
-          "mini_headline": "Ads AI新增10种语言",
+          "headline": "Fanatics携手\nOpenAI推“主队”穿搭",
+          "body": "Fanatics与OpenAI合作，从150万件商品中推荐匹配支持球队的穿搭。",
+          "mini_headline": "Fanatics AI穿搭推荐",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "全球体育MD企业Fanatics与OpenAI合作，推出可推荐与球衣搭配的帽子、袜子等商品的购物功能。该功能从超过150万件商品中，按顾客支持的球队和想要的风格提出搭配组合，帮助顾客浏览商品。"
+              },
+              {
+                "t": "p",
+                "x": "据CNBC当地时间26日报道，Fanatics上线了借助OpenAI编程工具Codex开发的“Shop the Look”功能。它在每个商品页面上，以球队和风格为标准推荐适合一起穿戴的商品，并只用有库存的商品组成搭配。"
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-ads-ai-campaign-localization-10-languages-typewriter-speech-bubbles.jpg",
-                "cap": "Google Ads AI将英语Search广告系列复制成10种语言，预算不做换算"
+                "src": "https://image.zdnet.co.kr/2026/10/27/f7932f2f8a313f149fa817c83ffd792c.png",
+                "cap": "Fanatics与OpenAI合作推出的“Shop the Look”功能。（图片=Fanatics官网）"
               },
               {
                 "t": "p",
-                "x": "据PPC News Feed于2026年10月23日报道，Google Ads广告主现已可以使用一款AI广告系列本地化工具，将现有的英语（US）Search广告系列转换为另外10种语言之一的独立广告系列。它会翻译标题、描述、附加链接、宣传信息和关键字，去除图片中的文字，并提供可即时翻译着陆页的脚本。该工具标注为beta版。"
+                "x": "Fanatics Commerce首席产品官（CPO）Justin Chai表示，顾客单次购物平均花费30分钟以上的情况很常见。随着每周新增1000多件新品，浏览所需的时间也在增加。"
               },
               {
                 "t": "p",
-                "x": "帮助页面写道：“当你对广告系列进行本地化时，系统会创建一个全新的独立广告系列。你的原始广告系列永远不会被修改。”预算和出价会原样复制：“$100 USD的预算在本地化广告系列中仍是$100 USD的预算。”新广告系列默认以暂停（Paused）状态发布。"
+                "x": "Chai CPO表示：“洛杉矶道奇队的球迷，谁都不想同时被推荐旧金山巨人队的商品。”他还说：“在我们的业务中，球队和球员一致极其重要。”"
               },
               {
                 "t": "p",
-                "x": "目标语言为荷兰语、法语、法语（加拿大）、德语、意大利语、波兰语，以及葡萄牙语和西班牙语各两种变体。页面曾承诺“从2026年9月起”支持Performance Max，但两个来源都未确认已经上线。经过选举验证（Election-verified）的客户不符合条件。"
+                "x": "Shop the Look通过用Codex开发的工具分析商品和目录数据，找出相互匹配的产品，并重新评估推荐内容。据Chai CPO介绍，功能上线后，推荐商品的浏览量增加了10%。"
+              },
+              {
+                "t": "p",
+                "x": "据CNBC报道，OpenAI已终止在ChatGPT内直接购买商品的“Instant Checkout”业务，正与零售商合作在ChatGPT内开发专属应用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google Ads AI clona campañas\nde Search en 10 nuevos idiomas",
-          "body": "La AI de Google clona campañas de Search en inglés a 10 idiomas más y copia el presupuesto sin convertir la moneda.",
-          "mini_headline": "Ads AI suma 10 idiomas",
+          "headline": "Fanatics y OpenAI recomiendan\natuendos de tu equipo",
+          "body": "Fanatics se alía con OpenAI para recomendar atuendos según el equipo del aficionado entre 1,5 millones de productos.",
+          "mini_headline": "Fanatics recomienda atuendos con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Fanatics, empresa global de MD deportivo, se ha aliado con OpenAI para lanzar una función de compra que recomienda gorras, calcetines y otros artículos que combinan con una camiseta. Propone combinaciones acordes con el equipo que apoya el cliente y el estilo que busca entre más de 1,5 millones de productos, para ayudarle a explorar el catálogo."
+              },
+              {
+                "t": "p",
+                "x": "Según CNBC el día 26 (hora local), Fanatics introdujo la función 'Shop the Look', desarrollada con Codex, la herramienta de programación de OpenAI. En cada página de producto recomienda artículos que conviene llevar juntos según el equipo y el estilo. Las combinaciones se forman con productos en existencia."
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-ads-ai-campaign-localization-10-languages-typewriter-speech-bubbles.jpg",
-                "cap": "Google Ads AI copia una campaña de Search en inglés a 10 idiomas, sin convertir los presupuestos"
+                "src": "https://image.zdnet.co.kr/2026/10/27/f7932f2f8a313f149fa817c83ffd792c.png",
+                "cap": "La función 'Shop the Look' que Fanatics lanzó junto con OpenAI. (Foto=sitio web de Fanatics)"
               },
               {
                 "t": "p",
-                "x": "Los anunciantes de Google Ads ya tienen acceso a una herramienta de localización de campañas con AI que convierte una campaña de Search existente en inglés (US) en una campaña independiente en uno de otros 10 idiomas, según PPC News Feed, que informó de su disponibilidad el 23 de octubre de 2026. Traduce títulos, descripciones, enlaces de sitio, textos destacados y palabras clave, elimina el texto de las imágenes y ofrece un script que traduce las páginas de destino al instante. Está marcada como beta."
+                "x": "Justin Chai, director de producto (CPO) de Fanatics Commerce, explicó que era habitual que los clientes pasaran más de 30 minutos de media en cada compra. Con más de 1000 productos nuevos cada semana, también aumentó el tiempo necesario para explorar."
               },
               {
                 "t": "p",
-                "x": "\"Cuando localiza una campaña, el sistema crea una campaña nueva e independiente. Su campaña original nunca se modifica\", según la página de ayuda. Los presupuestos y las pujas se copian tal cual: \"un presupuesto de $100 USD se convierte en un presupuesto de $100 USD en la campaña localizada\". Las nuevas campañas se publican por defecto en estado de pausa (Paused)."
+                "x": "\"Ningún aficionado de Los Angeles Dodgers quiere que le recomienden a la vez productos de San Francisco Giants\", dijo Chai, y añadió: \"En nuestro negocio, que el equipo y el jugador coincidan es sumamente importante\"."
               },
               {
                 "t": "p",
-                "x": "Los idiomas de destino son neerlandés, francés, francés (Canadá), alemán, italiano, polaco, dos variantes de portugués y dos de español. La página prometía compatibilidad con Performance Max \"a partir de septiembre de 2026\", algo que ninguna de las dos fuentes confirma. Los clientes con verificación electoral (Election-verified) no pueden usarla."
+                "x": "Shop the Look analiza datos de productos y del catálogo con una herramienta desarrollada con Codex, encuentra artículos que combinan entre sí y reevalúa sus recomendaciones. Según Chai, las visualizaciones de productos recomendados aumentaron un 10% desde la llegada de la función."
+              },
+              {
+                "t": "p",
+                "x": "Según CNBC, OpenAI cerró su negocio 'Instant Checkout', que permitía comprar productos directamente dentro de ChatGPT, y trabaja con minoristas en el desarrollo de apps propias dentro de ChatGPT."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Google Ads AI가\n캠페인 10개 언어 복제",
-          "body": "Google AI가 Search 캠페인을 10개 언어로 복제하되 예산은 그대로다.",
-          "mini_headline": "Ads AI, 10개 언어 추가",
+        "en": {
+          "headline": "Fanatics and OpenAI suggest\noutfits for your team",
+          "body": "Fanatics is working with OpenAI to recommend outfits matched to fans' teams from 1.5 million products.",
+          "mini_headline": "Fanatics AI outfit picks",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Global sports MD company Fanatics has teamed up with OpenAI to launch a shopping feature that recommends items such as hats and socks to go with a jersey. It suggests combinations that match the team a customer supports and the style they want from more than 1.5 million products, helping customers browse."
+              },
+              {
+                "t": "p",
+                "x": "According to CNBC on the 26th (local time), Fanatics introduced a 'Shop the Look' feature built with Codex, OpenAI's coding tool. On each product page it recommends items that go well together based on team and style. Combinations are built from in-stock items."
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-ads-ai-campaign-localization-10-languages-typewriter-speech-bubbles.jpg",
-                "cap": "Google Ads AI는 영어 Search 캠페인 하나를 10개 언어로 복사하지만 예산은 환산하지 않는다"
+                "src": "https://image.zdnet.co.kr/2026/10/27/f7932f2f8a313f149fa817c83ffd792c.png",
+                "cap": "The 'Shop the Look' feature Fanatics launched with OpenAI. (Photo=Fanatics website)"
               },
               {
                 "t": "p",
-                "x": "2026년 10월 23일 출시 소식을 전한 PPC News Feed에 따르면, Google Ads 광고주는 이제 기존 영어(US) Search 캠페인을 다른 10개 언어 중 하나로 된 별도 캠페인으로 바꿔 주는 AI 캠페인 현지화 도구를 쓸 수 있다. 이 도구는 광고 제목, 설명, 사이트링크, 콜아웃, 키워드를 번역하고, 이미지 속 텍스트를 걷어내며, 랜딩 페이지를 실시간으로 번역하는 스크립트도 제공한다. 베타로 표시돼 있다."
+                "x": "Justin Chai, chief product officer (CPO) of Fanatics Commerce, explained that it was common for customers to spend more than 30 minutes on average per shopping session. With more than 1,000 new products added every week, the time spent browsing has also grown."
               },
               {
                 "t": "p",
-                "x": "도움말 페이지에 따르면 \"캠페인을 현지화하면 시스템이 완전히 새로운 독립 캠페인을 만든다. 원래 캠페인은 절대 수정되지 않는다.\" 예산과 입찰가는 그대로 복사된다. \"$100 USD 예산은 현지화된 캠페인에서도 $100 USD 예산이 된다.\" 새 캠페인은 기본적으로 일시중지(Paused) 상태로 게시된다."
+                "x": "\"No Los Angeles Dodgers fan wants to be recommended San Francisco Giants merchandise alongside it,\" Chai said, adding, \"In our business, matching the team and the player is extremely important.\""
               },
               {
                 "t": "p",
-                "x": "대상 언어는 네덜란드어, 프랑스어, 프랑스어(캐나다), 독일어, 이탈리아어, 폴란드어, 그리고 포르투갈어와 스페인어 각 두 가지 변형이다. 페이지는 \"2026년 9월부터\" Performance Max를 지원한다고 약속했지만, 두 출처 모두 실제 지원이 시작됐는지 확인하지 않는다. 선거 인증(Election-verified) 고객은 대상이 아니다."
+                "x": "Shop the Look uses a tool built with Codex to analyze product and catalog data, find items that go together and re-evaluate its recommendations. According to Chai, views of recommended products have risen 10% since the feature launched."
+              },
+              {
+                "t": "p",
+                "x": "According to CNBC, OpenAI has shut down its 'Instant Checkout' business, which let users buy products directly inside ChatGPT, and is working with retailers to develop dedicated apps within ChatGPT."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google Ads AIが\nSearch広告を10言語へ",
-          "body": "GoogleのAIがSearchキャンペーンを10言語に複製し、予算は通貨換算しない。",
-          "mini_headline": "Ads AIが10言語追加",
+          "headline": "Fanaticsが\nOpenAIと「推し」コーデ",
+          "body": "FanaticsはOpenAIと組み、150万点の商品から応援チームに合うコーデを提案する。",
+          "mini_headline": "Fanatics、AIでコーデ提案",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "グローバルスポーツMD企業のFanaticsがOpenAIと組み、ユニフォームに合う帽子や靴下などを提案するショッピング機能を始めた。150万点を超える商品の中から、応援するチームと好みのスタイルに合う組み合わせを示し、顧客の商品探しを助ける仕組みだ。"
+              },
+              {
+                "t": "p",
+                "x": "26日(現地時間)のCNBCによると、FanaticsはOpenAIのコーディングツールCodexを使って開発した「ショップ・ザ・ルック(Shop the Look)」機能を導入した。各商品ページで、チームとスタイルを基準に一緒に着たり身に着けたりするのに合う商品を薦める。組み合わせは在庫のある商品から作られる。"
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-ads-ai-campaign-localization-10-languages-typewriter-speech-bubbles.jpg",
-                "cap": "Google Ads AIは英語のSearchキャンペーンを10言語に複製するが、予算は換算しない"
+                "src": "https://image.zdnet.co.kr/2026/10/27/f7932f2f8a313f149fa817c83ffd792c.png",
+                "cap": "FanaticsがOpenAIと組んで公開した「Shop the Look」機能。(写真=Fanaticsウェブサイト)"
               },
               {
                 "t": "p",
-                "x": "2026年10月23日に提供開始を報じたPPC News Feedによると、Google Adsの広告主は、既存の英語（US）Searchキャンペーンを他の10言語のいずれかによる別キャンペーンに変換するAIキャンペーンローカライズツールを使えるようになった。広告見出し、説明文、サイトリンク、コールアウト、キーワードを翻訳し、画像からテキストを取り除き、ランディングページをその場で翻訳するスクリプトも提供する。ベータ版と表示されている。"
+                "x": "Fanatics CommerceのJustin Chai最高製品責任者(CPO)は、顧客が1回の買い物に費やす時間が平均30分を超えることも珍しくなかったと説明した。毎週1000点以上の新商品が加わり、商品探しにかかる時間も増えていた。"
               },
               {
                 "t": "p",
-                "x": "ヘルプページによると「キャンペーンをローカライズすると、システムはまったく新しい独立したキャンペーンを作成する。元のキャンペーンが変更されることはない」。予算と入札単価はそのまま複製される。「$100 USDの予算は、ローカライズしたキャンペーンでも$100 USDの予算になる」。新しいキャンペーンは初期設定で一時停止（Paused）状態で公開される。"
+                "x": "Chai CPOは「ロサンゼルス・ドジャースのファンなら、サンフランシスコ・ジャイアンツの商品を一緒に薦められたい人はいない」とし、「われわれのビジネスでは、チームと選手が一致することが非常に重要だ」と述べた。"
               },
               {
                 "t": "p",
-                "x": "対象はオランダ語、フランス語、フランス語（カナダ）、ドイツ語、イタリア語、ポーランド語、そしてポルトガル語とスペイン語の各二種である。ページは「2026年9月から」Performance Maxに対応すると約束していたが、いずれの情報源もその実現を確認していない。選挙認証済み（Election-verified）の顧客は対象外だ。"
+                "x": "Shop the Lookは、Codexで開発したツールで商品とカタログのデータを分析し、相性のよい商品を見つけて推薦内容を再評価する。Chai CPOによると、機能導入後、推薦商品の閲覧数は10%増えた。"
+              },
+              {
+                "t": "p",
+                "x": "CNBCによると、OpenAIはChatGPT内で商品を直接購入できる「Instant Checkout」事業を終了し、小売企業とChatGPT内の専用アプリを開発する作業を進めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google Ads AI将\nSearch广告译为10语种",
-          "body": "Google的AI工具把英语Search广告系列复制成另外10种语言，预算不做货币换算。",
-          "mini_headline": "Ads AI新增10种语言",
+          "headline": "Fanatics携手\nOpenAI推“主队”穿搭",
+          "body": "Fanatics与OpenAI合作，从150万件商品中推荐匹配支持球队的穿搭。",
+          "mini_headline": "Fanatics AI穿搭推荐",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "全球体育MD企业Fanatics与OpenAI合作，推出可推荐与球衣搭配的帽子、袜子等商品的购物功能。该功能从超过150万件商品中，按顾客支持的球队和想要的风格提出搭配组合，帮助顾客浏览商品。"
+              },
+              {
+                "t": "p",
+                "x": "据CNBC当地时间26日报道，Fanatics上线了借助OpenAI编程工具Codex开发的“Shop the Look”功能。它在每个商品页面上，以球队和风格为标准推荐适合一起穿戴的商品，并只用有库存的商品组成搭配。"
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-ads-ai-campaign-localization-10-languages-typewriter-speech-bubbles.jpg",
-                "cap": "Google Ads AI将英语Search广告系列复制成10种语言，预算不做换算"
+                "src": "https://image.zdnet.co.kr/2026/10/27/f7932f2f8a313f149fa817c83ffd792c.png",
+                "cap": "Fanatics与OpenAI合作推出的“Shop the Look”功能。（图片=Fanatics官网）"
               },
               {
                 "t": "p",
-                "x": "据PPC News Feed于2026年10月23日报道，Google Ads广告主现已可以使用一款AI广告系列本地化工具，将现有的英语（US）Search广告系列转换为另外10种语言之一的独立广告系列。它会翻译标题、描述、附加链接、宣传信息和关键字，去除图片中的文字，并提供可即时翻译着陆页的脚本。该工具标注为beta版。"
+                "x": "Fanatics Commerce首席产品官（CPO）Justin Chai表示，顾客单次购物平均花费30分钟以上的情况很常见。随着每周新增1000多件新品，浏览所需的时间也在增加。"
               },
               {
                 "t": "p",
-                "x": "帮助页面写道：“当你对广告系列进行本地化时，系统会创建一个全新的独立广告系列。你的原始广告系列永远不会被修改。”预算和出价会原样复制：“$100 USD的预算在本地化广告系列中仍是$100 USD的预算。”新广告系列默认以暂停（Paused）状态发布。"
+                "x": "Chai CPO表示：“洛杉矶道奇队的球迷，谁都不想同时被推荐旧金山巨人队的商品。”他还说：“在我们的业务中，球队和球员一致极其重要。”"
               },
               {
                 "t": "p",
-                "x": "目标语言为荷兰语、法语、法语（加拿大）、德语、意大利语、波兰语，以及葡萄牙语和西班牙语各两种变体。页面曾承诺“从2026年9月起”支持Performance Max，但两个来源都未确认已经上线。经过选举验证（Election-verified）的客户不符合条件。"
+                "x": "Shop the Look通过用Codex开发的工具分析商品和目录数据，找出相互匹配的产品，并重新评估推荐内容。据Chai CPO介绍，功能上线后，推荐商品的浏览量增加了10%。"
+              },
+              {
+                "t": "p",
+                "x": "据CNBC报道，OpenAI已终止在ChatGPT内直接购买商品的“Instant Checkout”业务，正与零售商合作在ChatGPT内开发专属应用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google Ads AI clona campañas\nde Search en 10 nuevos idiomas",
-          "body": "La AI de Google clona campañas de Search en inglés a 10 idiomas más y copia el presupuesto sin convertir la moneda.",
-          "mini_headline": "Ads AI suma 10 idiomas",
+          "headline": "Fanatics y OpenAI recomiendan\natuendos de tu equipo",
+          "body": "Fanatics se alía con OpenAI para recomendar atuendos según el equipo del aficionado entre 1,5 millones de productos.",
+          "mini_headline": "Fanatics recomienda atuendos con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Fanatics, empresa global de MD deportivo, se ha aliado con OpenAI para lanzar una función de compra que recomienda gorras, calcetines y otros artículos que combinan con una camiseta. Propone combinaciones acordes con el equipo que apoya el cliente y el estilo que busca entre más de 1,5 millones de productos, para ayudarle a explorar el catálogo."
+              },
+              {
+                "t": "p",
+                "x": "Según CNBC el día 26 (hora local), Fanatics introdujo la función 'Shop the Look', desarrollada con Codex, la herramienta de programación de OpenAI. En cada página de producto recomienda artículos que conviene llevar juntos según el equipo y el estilo. Las combinaciones se forman con productos en existencia."
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-ads-ai-campaign-localization-10-languages-typewriter-speech-bubbles.jpg",
-                "cap": "Google Ads AI copia una campaña de Search en inglés a 10 idiomas, sin convertir los presupuestos"
+                "src": "https://image.zdnet.co.kr/2026/10/27/f7932f2f8a313f149fa817c83ffd792c.png",
+                "cap": "La función 'Shop the Look' que Fanatics lanzó junto con OpenAI. (Foto=sitio web de Fanatics)"
               },
               {
                 "t": "p",
-                "x": "Los anunciantes de Google Ads ya tienen acceso a una herramienta de localización de campañas con AI que convierte una campaña de Search existente en inglés (US) en una campaña independiente en uno de otros 10 idiomas, según PPC News Feed, que informó de su disponibilidad el 23 de octubre de 2026. Traduce títulos, descripciones, enlaces de sitio, textos destacados y palabras clave, elimina el texto de las imágenes y ofrece un script que traduce las páginas de destino al instante. Está marcada como beta."
+                "x": "Justin Chai, director de producto (CPO) de Fanatics Commerce, explicó que era habitual que los clientes pasaran más de 30 minutos de media en cada compra. Con más de 1000 productos nuevos cada semana, también aumentó el tiempo necesario para explorar."
               },
               {
                 "t": "p",
-                "x": "\"Cuando localiza una campaña, el sistema crea una campaña nueva e independiente. Su campaña original nunca se modifica\", según la página de ayuda. Los presupuestos y las pujas se copian tal cual: \"un presupuesto de $100 USD se convierte en un presupuesto de $100 USD en la campaña localizada\". Las nuevas campañas se publican por defecto en estado de pausa (Paused)."
+                "x": "\"Ningún aficionado de Los Angeles Dodgers quiere que le recomienden a la vez productos de San Francisco Giants\", dijo Chai, y añadió: \"En nuestro negocio, que el equipo y el jugador coincidan es sumamente importante\"."
               },
               {
                 "t": "p",
-                "x": "Los idiomas de destino son neerlandés, francés, francés (Canadá), alemán, italiano, polaco, dos variantes de portugués y dos de español. La página prometía compatibilidad con Performance Max \"a partir de septiembre de 2026\", algo que ninguna de las dos fuentes confirma. Los clientes con verificación electoral (Election-verified) no pueden usarla."
+                "x": "Shop the Look analiza datos de productos y del catálogo con una herramienta desarrollada con Codex, encuentra artículos que combinan entre sí y reevalúa sus recomendaciones. Según Chai, las visualizaciones de productos recomendados aumentaron un 10% desde la llegada de la función."
+              },
+              {
+                "t": "p",
+                "x": "Según CNBC, OpenAI cerró su negocio 'Instant Checkout', que permitía comprar productos directamente dentro de ChatGPT, y trabaja con minoristas en el desarrollo de apps propias dentro de ChatGPT."
               }
             ]
           }
@@ -919,247 +1279,599 @@
       }
     },
     {
-      "id": "marketing-samsung-tv-ad-data",
-      "source_lang": "en",
+      "id": "marketing-ai-personalized-pricing",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Researcher says Samsung TVs\nfeed AI-gathered data to ads",
-      "body": "A researcher says their Samsung TV runs an on-device AI model that collects screenshots and audio for ad targeting.",
-      "mini_headline": "Samsung TV data\nclaim for ads",
+      "headline": "AI 개인화 가격에\n미국 소비자 불안 확산",
+      "body": "미국에서 AI와 데이터로 소비자별 가격을 매긴다는 우려가 커지며 규제가 잇따른다.",
+      "mini_headline": "美 AI 개인화 가격 우려",
       "tool": "Marketing",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting",
+      "source": "ZDNet Korea",
+      "url": "https://zdnet.co.kr/view/?no=20261027090035",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "미국에서 유통·외식업체들이 인공지능(AI)과 개인 데이터를 활용해 소비자마다 다른 가격을 책정하는 것 아니냐는 우려가 커지고 있다. 기업들은 실제로 이 같은 방식의 가격 책정을 하지 않는다고 부인하고 있지만, 소비자 불안이 확산하면서 관련 규제도 잇따르고 있다."
+          },
+          {
+            "t": "p",
+            "x": "26일(현지시간) 월스트리트저널(WSJ) 보도에 따르면 미국 소비자들은 유통업체와 식당, 차량호출 서비스, 식료품 업체 등이 AI와 소비자 데이터를 활용해 개인의 구매 성향이나 긴급한 수요를 파악한 뒤 가격을 올릴 수 있다고 우려하고 있다."
+          },
+          {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/EiDyWR9Yo8wN9DnMZqQdJ4-2560-80.jpg"
+            "src": "https://image.zdnet.co.kr/2026/06/06/a307341ee630b390235c542bfeaf83a3.jpg",
+            "cap": "(사진=픽사베이)"
           },
           {
             "t": "p",
-            "x": "Reverse engineer and cybersecurity bounty hunter log4j recently found they were getting \"weirdly targeted ads\" on their 2025 Samsung TV. After reverse-engineering the Tizen OS, they live-tweeted code covering detailed user telemetry from packet logging, audio categorization, screenshots and cross-device identification for ad tracking."
+            "x": "최근에는 기업들이 소비자의 구매 이력과 소득 수준 등 훨씬 많은 개인 데이터를 보유하게 됐고, AI를 통해 이를 빠르게 분석할 수 있게 되면서 우려가 커졌다. 특히 전자가격표시기(ESL)를 둘러싼 불안이 크지만, 미국과 유럽의 관련 연구에서는 수요 급증에 맞춘 가격 인상으로 이어졌다는 뚜렷한 증거는 확인되지 않았다."
           },
           {
             "t": "p",
-            "x": "The hacker found a region-specific convolutional neural network (an AI) that tracks user behavior, such as what videos the user watches, which ads are skipped and video progress. For TVs without microphones, it reportedly finds connected devices such as a soundbar or Bluetooth device to record audio."
+            "x": "월마트와 맥도날드 등 주요 기업들도 개인별 가격 책정을 하지 않는다는 입장을 내놓고 있다."
           },
           {
             "t": "p",
-            "x": "Hugging Face engineer ngxson tested the microphone behavior and found the TV opened the microphone for five seconds, then stopped, though their TV was already rooted with settings disabled."
-          },
-          {
-            "t": "p",
-            "x": "log4j used OpenAI tools for the work and was banned for cyber abuse; they say they used them only for local reverse engineering. A full write-up is in progress."
+            "x": "그럼에도 규제 움직임은 확산하고 있다. 뉴욕주는 기업이 상품 가격에 알고리즘을 활용했을 경우 이를 소비자에게 알리도록 하는 법을 도입했다. 메릴랜드와 코네티컷, 뉴저지 등도 올해 개인 데이터에 기반한 일부 가격 책정 방식을 제한하는 법을 마련했다. 미국 연방거래위원회(FTC)도 올여름 개인 정보를 이용한 가격 차별 행위를 규제하는 방안을 제시했다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Researcher says Samsung TVs\nfeed AI-gathered data to ads",
-          "body": "A researcher says their Samsung TV runs an on-device AI model that collects screenshots and audio for ad targeting.",
-          "mini_headline": "Samsung TV data\nclaim for ads",
+        "ko": {
+          "headline": "AI 개인화 가격에\n미국 소비자 불안 확산",
+          "body": "미국에서 AI와 데이터로 소비자별 가격을 매긴다는 우려가 커지며 규제가 잇따른다.",
+          "mini_headline": "美 AI 개인화 가격 우려",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/EiDyWR9Yo8wN9DnMZqQdJ4-2560-80.jpg"
+                "t": "p",
+                "x": "미국에서 유통·외식업체들이 인공지능(AI)과 개인 데이터를 활용해 소비자마다 다른 가격을 책정하는 것 아니냐는 우려가 커지고 있다. 기업들은 실제로 이 같은 방식의 가격 책정을 하지 않는다고 부인하고 있지만, 소비자 불안이 확산하면서 관련 규제도 잇따르고 있다."
               },
               {
                 "t": "p",
-                "x": "Reverse engineer and cybersecurity bounty hunter log4j recently found they were getting \"weirdly targeted ads\" on their 2025 Samsung TV. After reverse-engineering the Tizen OS, they live-tweeted code covering detailed user telemetry from packet logging, audio categorization, screenshots and cross-device identification for ad tracking."
+                "x": "26일(현지시간) 월스트리트저널(WSJ) 보도에 따르면 미국 소비자들은 유통업체와 식당, 차량호출 서비스, 식료품 업체 등이 AI와 소비자 데이터를 활용해 개인의 구매 성향이나 긴급한 수요를 파악한 뒤 가격을 올릴 수 있다고 우려하고 있다."
               },
-              {
-                "t": "p",
-                "x": "The hacker found a region-specific convolutional neural network (an AI) that tracks user behavior, such as what videos the user watches, which ads are skipped and video progress. For TVs without microphones, it reportedly finds connected devices such as a soundbar or Bluetooth device to record audio."
-              },
-              {
-                "t": "p",
-                "x": "Hugging Face engineer ngxson tested the microphone behavior and found the TV opened the microphone for five seconds, then stopped, though their TV was already rooted with settings disabled."
-              },
-              {
-                "t": "p",
-                "x": "log4j used OpenAI tools for the work and was banned for cyber abuse; they say they used them only for local reverse engineering. A full write-up is in progress."
-              }
-            ]
-          }
-        }
-      },
-      "i18n_status": {
-        "ko": "fallback",
-        "ja": "fallback",
-        "zh": "fallback",
-        "es": "fallback"
-      }
-    },
-    {
-      "id": "marketing-china-ai-ad-blue-book",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "중국 블루북이 그린\nAI 광고 거버넌스",
-      "body": "중국 블루북이 멀티모달 탐지부터 가짜 AI 추천 차단까지 AI 광고를 다룬다.",
-      "mini_headline": "중국, AI 광고 규칙 정리",
-      "tool": "Marketing",
-      "source": "IBTimes China",
-      "url": "https://cn.ibtimes.com/china-ai-generated-advertising-governance-framework-1812606",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://d.cn.ibtimes.com/en/full/1824086/china-artificial-intelligence-digital-advertising-content-moderation.jpg",
-            "cap": "중국의 새 업계 블루북은 AI-generated 광고 전 과정을 아우르는 거버넌스를 제안한다."
-          },
-          {
-            "t": "p",
-            "x": "Eastmoney가 전재한 China News Service 보도에 따르면, 《AIGC 시대 인터넷 광고 거버넌스 블루북》이 10월 24일 제33회 중국국제광고제 기간에 공개됐다. 블루북이 제안하는 프레임워크는 콘텐츠 제작과 심의에서 거래, 광고 이후 소비자 보호까지 광고 전 과정을 다룬다."
-          },
-          {
-            "t": "p",
-            "x": "핵심 권고는 AI 시스템이 만든 위험을 다른 AI 시스템으로 가려내자는 것이다. 멀티모달 모델이 이미지, 텍스트, 음성을 함께 분석하면 오해를 부르는 메시지를 잡아낼 수 있다. Ocean Engine의 Xiao Tao는 지능형 심의가 빠르면 10분 안에 광고 소재의 90%를 처리해 효율을 75% 높일 수 있다고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "광고 주장이 사실인지 책임지는 쪽은 여전히 광고주이고, 플랫폼은 조작된 합성 추천 같은 위험에 대비해 안전장치를 유지한다. 블루북은 권고안일 뿐, 구속력 있는 새 국가 법률은 아니다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "China blue book frames\ngovernance of AI ads",
-          "body": "A blue book unveiled in China maps AI ad governance, from multimodal detection to curbs on fake AI endorsements.",
-          "mini_headline": "China maps\nAI ad rules",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://d.cn.ibtimes.com/en/full/1824086/china-artificial-intelligence-digital-advertising-content-moderation.jpg",
-                "cap": "A new Chinese industry blue book proposes end-to-end governance for AI-generated advertising."
+                "src": "https://image.zdnet.co.kr/2026/06/06/a307341ee630b390235c542bfeaf83a3.jpg",
+                "cap": "(사진=픽사베이)"
               },
               {
                 "t": "p",
-                "x": "The Blue Book on Internet Advertising Governance in the AIGC Era was released on October 24 during the 33rd China International Advertising Festival, according to China News Service reporting carried by Eastmoney. It proposes a framework covering advertising from content creation and review to transactions and post-advertising consumer protection."
+                "x": "최근에는 기업들이 소비자의 구매 이력과 소득 수준 등 훨씬 많은 개인 데이터를 보유하게 됐고, AI를 통해 이를 빠르게 분석할 수 있게 되면서 우려가 커졌다. 특히 전자가격표시기(ESL)를 둘러싼 불안이 크지만, 미국과 유럽의 관련 연구에서는 수요 급증에 맞춘 가격 인상으로 이어졌다는 뚜렷한 증거는 확인되지 않았다."
               },
               {
                 "t": "p",
-                "x": "A central recommendation is to use AI systems to identify risks created by other AI systems: multimodal models can analyse images, text and audio together to catch misleading messages. Xiao Tao of Ocean Engine said intelligent review could process 90% of ad materials within 10 minutes at the fastest, improving efficiency by 75%."
+                "x": "월마트와 맥도날드 등 주요 기업들도 개인별 가격 책정을 하지 않는다는 입장을 내놓고 있다."
               },
               {
                 "t": "p",
-                "x": "Advertisers remain responsible for the truthfulness of their claims, while platforms keep safeguards against risks such as fabricated synthetic endorsements. The blue book is a set of recommendations, not a new binding national law."
+                "x": "그럼에도 규제 움직임은 확산하고 있다. 뉴욕주는 기업이 상품 가격에 알고리즘을 활용했을 경우 이를 소비자에게 알리도록 하는 법을 도입했다. 메릴랜드와 코네티컷, 뉴저지 등도 올해 개인 데이터에 기반한 일부 가격 책정 방식을 제한하는 법을 마련했다. 미국 연방거래위원회(FTC)도 올여름 개인 정보를 이용한 가격 차별 행위를 규제하는 방안을 제시했다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "중국 블루북이 그린\nAI 광고 거버넌스",
-          "body": "중국 블루북이 멀티모달 탐지부터 가짜 AI 추천 차단까지 AI 광고를 다룬다.",
-          "mini_headline": "중국, AI 광고 규칙 정리",
+        "en": {
+          "headline": "AI personalized pricing stirs\nunease among U.S. consumers",
+          "body": "Concern is growing in the U.S. that AI and data set prices for each consumer, and new regulations keep coming.",
+          "mini_headline": "U.S. worries over AI personalized pricing",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Concerns are growing in the U.S. that retailers and restaurant companies are using artificial intelligence (AI) and personal data to set different prices for each consumer. Companies deny that they actually price this way, but as consumer anxiety spreads, related regulations are following one after another."
+              },
+              {
+                "t": "p",
+                "x": "According to a Wall Street Journal (WSJ) report on the 26th (local time), U.S. consumers worry that retailers, restaurants, ride-hailing services and grocery companies could use AI and consumer data to gauge an individual's buying habits or urgent needs and then raise prices."
+              },
+              {
                 "t": "img",
-                "src": "https://d.cn.ibtimes.com/en/full/1824086/china-artificial-intelligence-digital-advertising-content-moderation.jpg",
-                "cap": "중국의 새 업계 블루북은 AI-generated 광고 전 과정을 아우르는 거버넌스를 제안한다."
+                "src": "https://image.zdnet.co.kr/2026/06/06/a307341ee630b390235c542bfeaf83a3.jpg",
+                "cap": "(Photo=Pixabay)"
               },
               {
                 "t": "p",
-                "x": "Eastmoney가 전재한 China News Service 보도에 따르면, 《AIGC 시대 인터넷 광고 거버넌스 블루북》이 10월 24일 제33회 중국국제광고제 기간에 공개됐다. 블루북이 제안하는 프레임워크는 콘텐츠 제작과 심의에서 거래, 광고 이후 소비자 보호까지 광고 전 과정을 다룬다."
+                "x": "Concerns have grown recently as companies now hold far more personal data, such as consumers' purchase histories and income levels, and can analyze it quickly with AI. Anxiety is particularly high around electronic shelf labels (ESL), but related studies in the U.S. and Europe have found no clear evidence that they led to price hikes timed to demand surges."
               },
               {
                 "t": "p",
-                "x": "핵심 권고는 AI 시스템이 만든 위험을 다른 AI 시스템으로 가려내자는 것이다. 멀티모달 모델이 이미지, 텍스트, 음성을 함께 분석하면 오해를 부르는 메시지를 잡아낼 수 있다. Ocean Engine의 Xiao Tao는 지능형 심의가 빠르면 10분 안에 광고 소재의 90%를 처리해 효율을 75% 높일 수 있다고 말했다."
+                "x": "Major companies including Walmart and McDonald's have also stated that they do not set individualized prices."
               },
               {
                 "t": "p",
-                "x": "광고 주장이 사실인지 책임지는 쪽은 여전히 광고주이고, 플랫폼은 조작된 합성 추천 같은 위험에 대비해 안전장치를 유지한다. 블루북은 권고안일 뿐, 구속력 있는 새 국가 법률은 아니다."
+                "x": "Even so, regulatory moves are spreading. New York State has introduced a law requiring companies to tell consumers when they use algorithms to set product prices. Maryland, Connecticut, New Jersey and others also passed laws this year restricting some pricing practices based on personal data. The U.S. Federal Trade Commission (FTC) also proposed this summer a plan to regulate price discrimination using personal information."
               }
             ]
           }
         },
         "ja": {
-          "headline": "中国の青書が描く\nAI広告のガバナンス",
-          "body": "中国の青書は、マルチモーダル検知から偽のAI推奨の抑制までAI広告の統治を描く。",
-          "mini_headline": "中国がAI広告ルールを整理",
+          "headline": "AIによる個別価格に\n米消費者の不安広がる",
+          "body": "米国でAIとデータによる消費者別の価格設定への懸念が強まり、規制が相次ぐ。",
+          "mini_headline": "米国でAI個別価格に懸念",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "米国で、小売・外食企業が人工知能(AI)と個人データを使い、消費者ごとに異なる価格を設定しているのではないかという懸念が強まっている。企業側は実際にそうした価格設定はしていないと否定しているが、消費者の不安が広がるなか、関連する規制も相次いでいる。"
+              },
+              {
+                "t": "p",
+                "x": "26日(現地時間)のWall Street Journal(WSJ)の報道によると、米国の消費者は、小売業者やレストラン、配車サービス、食料品企業などがAIと消費者データを使って個人の購買傾向や差し迫った需要を把握し、価格を引き上げかねないと懸念している。"
+              },
+              {
                 "t": "img",
-                "src": "https://d.cn.ibtimes.com/en/full/1824086/china-artificial-intelligence-digital-advertising-content-moderation.jpg",
-                "cap": "中国の業界による新しい青書は、AI-generated広告を一貫して統治する仕組みを提案する。"
+                "src": "https://image.zdnet.co.kr/2026/06/06/a307341ee630b390235c542bfeaf83a3.jpg",
+                "cap": "(写真=Pixabay)"
               },
               {
                 "t": "p",
-                "x": "Eastmoneyが転載したChina News Serviceの報道によると、『AIGC時代のインターネット広告ガバナンス青書』が10月24日、第33回中国国際広告祭の期間中に公表された。コンテンツの制作・審査から取引、広告後の消費者保護まで、広告全体を対象とする枠組みを提案している。"
+                "x": "最近は企業が消費者の購買履歴や所得水準など、はるかに多くの個人データを持つようになり、AIでそれを素早く分析できるようになったことで懸念が強まった。特に電子棚札(ESL)をめぐる不安が大きいが、米国と欧州の関連研究では、需要の急増に合わせた値上げにつながったという明確な証拠は確認されていない。"
               },
               {
                 "t": "p",
-                "x": "中心的な提言は、AIシステムが生むリスクを別のAIシステムで見抜くことだ。マルチモーダルモデルは画像、テキスト、音声をまとめて分析し、誤解を招くメッセージを捉えられる。Ocean EngineのXiao Tao氏は、インテリジェント審査なら最速10分以内に広告素材の90%を処理でき、効率は75%向上すると述べた。"
+                "x": "WalmartやMcDonald'sなどの大手企業も、個人別の価格設定はしていないとの立場を示している。"
               },
               {
                 "t": "p",
-                "x": "主張の真実性に対する責任は引き続き広告主が負い、プラットフォームは捏造された合成の推奨などのリスクへの安全策を維持する。青書はあくまで提言集であり、拘束力のある新たな国内法ではない。"
+                "x": "それでも規制の動きは広がっている。ニューヨーク州は、企業が商品価格にアルゴリズムを使った場合、それを消費者に知らせるよう義務づける法律を導入した。メリーランド、コネチカット、ニュージャージーなども今年、個人データに基づく一部の価格設定手法を制限する法律を整えた。米連邦取引委員会(FTC)も今夏、個人情報を利用した価格差別を規制する案を示した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "中国蓝皮书勾勒\nAI广告治理框架",
-          "body": "中国发布的一份蓝皮书梳理了AI广告治理，从多模态检测到遏制虚假AI代言。",
-          "mini_headline": "中国梳理AI广告规则",
+          "headline": "AI个性化定价引发\n美国消费者不安蔓延",
+          "body": "美国担忧企业用AI和数据对每位消费者区别定价，相关监管接连出台。",
+          "mini_headline": "美国AI个性化定价引担忧",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "在美国，外界愈发担心零售和餐饮企业利用人工智能（AI）和个人数据，对每位消费者设定不同的价格。企业否认实际采用这种定价方式，但随着消费者不安情绪蔓延，相关监管也接连出台。"
+              },
+              {
+                "t": "p",
+                "x": "据Wall Street Journal（WSJ）当地时间26日报道，美国消费者担心，零售商、餐厅、网约车服务和食品杂货企业等可能利用AI和消费者数据掌握个人的购买倾向或紧迫需求，进而抬高价格。"
+              },
+              {
                 "t": "img",
-                "src": "https://d.cn.ibtimes.com/en/full/1824086/china-artificial-intelligence-digital-advertising-content-moderation.jpg",
-                "cap": "一份新的中国行业蓝皮书提出对AI-generated广告进行全链条治理。"
+                "src": "https://image.zdnet.co.kr/2026/06/06/a307341ee630b390235c542bfeaf83a3.jpg",
+                "cap": "（图片=Pixabay）"
               },
               {
                 "t": "p",
-                "x": "据Eastmoney转载的China News Service报道，《AIGC时代互联网广告治理蓝皮书》于10月24日第33届中国国际广告节期间发布。蓝皮书提出了一个框架，覆盖从内容创作、审核到交易以及广告投放后消费者保护的全过程。"
+                "x": "近来，企业掌握了消费者购买记录和收入水平等多得多的个人数据，并能借助AI快速分析，担忧因此加剧。围绕电子价签（ESL）的不安尤为明显，但美国和欧洲的相关研究并未发现其导致按需求激增涨价的明确证据。"
               },
               {
                 "t": "p",
-                "x": "其核心建议是用AI系统识别其他AI系统带来的风险：多模态模型可以同时分析图像、文字和音频，捕捉误导性信息。Ocean Engine的Xiao Tao表示，智能审核最快可在10分钟内处理90%的广告素材，效率提升75%。"
+                "x": "Walmart和McDonald's等大企业也表示，不会进行个人化定价。"
               },
               {
                 "t": "p",
-                "x": "广告主仍需对其宣传内容的真实性负责，平台则保留防范伪造合成代言等风险的保障措施。蓝皮书是一套建议，并非具有约束力的新国家法律。"
+                "x": "尽管如此，监管动向仍在扩大。纽约州出台法律，要求企业在商品定价中使用算法时告知消费者。马里兰、康涅狄格、新泽西等州今年也制定了限制部分基于个人数据定价方式的法律。美国联邦贸易委员会（FTC）今年夏天也提出了规制利用个人信息进行价格歧视行为的方案。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un libro azul de China perfila\nla gobernanza de anuncios con AI",
-          "body": "Un libro azul en China traza la gobernanza de anuncios con AI, de la detección multimodal al freno de avales falsos.",
-          "mini_headline": "China ordena las reglas de anuncios AI",
+          "headline": "Precios personalizados con AI\npreocupan en Estados Unidos",
+          "body": "En Estados Unidos crece el temor a que la AI y los datos fijen precios por consumidor, y surgen nuevas normas.",
+          "mini_headline": "Inquietud en Estados Unidos por precios con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "En Estados Unidos crece la preocupación de que las empresas de distribución y restauración usen la inteligencia artificial (AI) y datos personales para fijar precios distintos a cada consumidor. Las empresas niegan aplicar en la práctica este tipo de precios, pero a medida que se extiende la inquietud de los consumidores, también se suceden las regulaciones."
+              },
+              {
+                "t": "p",
+                "x": "Según informó el Wall Street Journal (WSJ) el día 26 (hora local), los consumidores estadounidenses temen que minoristas, restaurantes, servicios de transporte con conductor y empresas de alimentación usen la AI y los datos de los consumidores para detectar los hábitos de compra o las necesidades urgentes de cada persona y luego subir los precios."
+              },
+              {
                 "t": "img",
-                "src": "https://d.cn.ibtimes.com/en/full/1824086/china-artificial-intelligence-digital-advertising-content-moderation.jpg",
-                "cap": "Un nuevo libro azul del sector en China propone una gobernanza integral de la publicidad AI-generated."
+                "src": "https://image.zdnet.co.kr/2026/06/06/a307341ee630b390235c542bfeaf83a3.jpg",
+                "cap": "(Foto=Pixabay)"
               },
               {
                 "t": "p",
-                "x": "El Libro Azul sobre la Gobernanza de la Publicidad en Internet en la Era AIGC se presentó el 24 de octubre durante el 33.º Festival Internacional de Publicidad de China, según una información de China News Service recogida por Eastmoney. Propone un marco que abarca la publicidad desde la creación y revisión de contenidos hasta las transacciones y la protección del consumidor posterior."
+                "x": "La preocupación ha crecido porque las empresas disponen ahora de muchos más datos personales, como el historial de compras y el nivel de ingresos de los consumidores, y pueden analizarlos con rapidez gracias a la AI. La inquietud es especialmente grande en torno a las etiquetas electrónicas de estantería (ESL), pero los estudios realizados en Estados Unidos y Europa no han hallado pruebas claras de que hayan llevado a subidas de precio ligadas a picos de demanda."
               },
               {
                 "t": "p",
-                "x": "Una recomendación central es usar sistemas de AI para detectar los riesgos creados por otros sistemas de AI: los modelos multimodales pueden analizar a la vez imágenes, texto y audio para detectar mensajes engañosos. Xiao Tao, de Ocean Engine, dijo que la revisión inteligente podría procesar el 90% de los materiales publicitarios en 10 minutos en el mejor de los casos, con una mejora de eficiencia del 75%."
+                "x": "Grandes empresas como Walmart y McDonald's también han afirmado que no fijan precios individualizados."
               },
               {
                 "t": "p",
-                "x": "Los anunciantes siguen siendo responsables de la veracidad de sus afirmaciones, mientras que las plataformas mantienen salvaguardas frente a riesgos como los avales sintéticos fabricados. El libro azul es un conjunto de recomendaciones, no una nueva ley nacional vinculante."
+                "x": "Aun así, las iniciativas regulatorias se extienden. El estado de Nueva York aprobó una ley que obliga a las empresas a informar a los consumidores cuando usan algoritmos para fijar el precio de sus productos. Maryland, Connecticut, Nueva Jersey y otros también aprobaron este año leyes que limitan algunas prácticas de fijación de precios basadas en datos personales. La Comisión Federal de Comercio de Estados Unidos (FTC) también propuso este verano medidas para regular la discriminación de precios mediante información personal."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "en": {
+          "headline": "AI personalized pricing stirs\nunease among U.S. consumers",
+          "body": "Concern is growing in the U.S. that AI and data set prices for each consumer, and new regulations keep coming.",
+          "mini_headline": "U.S. worries over AI personalized pricing",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Concerns are growing in the U.S. that retailers and restaurant companies are using artificial intelligence (AI) and personal data to set different prices for each consumer. Companies deny that they actually price this way, but as consumer anxiety spreads, related regulations are following one after another."
+              },
+              {
+                "t": "p",
+                "x": "According to a Wall Street Journal (WSJ) report on the 26th (local time), U.S. consumers worry that retailers, restaurants, ride-hailing services and grocery companies could use AI and consumer data to gauge an individual's buying habits or urgent needs and then raise prices."
+              },
+              {
+                "t": "img",
+                "src": "https://image.zdnet.co.kr/2026/06/06/a307341ee630b390235c542bfeaf83a3.jpg",
+                "cap": "(Photo=Pixabay)"
+              },
+              {
+                "t": "p",
+                "x": "Concerns have grown recently as companies now hold far more personal data, such as consumers' purchase histories and income levels, and can analyze it quickly with AI. Anxiety is particularly high around electronic shelf labels (ESL), but related studies in the U.S. and Europe have found no clear evidence that they led to price hikes timed to demand surges."
+              },
+              {
+                "t": "p",
+                "x": "Major companies including Walmart and McDonald's have also stated that they do not set individualized prices."
+              },
+              {
+                "t": "p",
+                "x": "Even so, regulatory moves are spreading. New York State has introduced a law requiring companies to tell consumers when they use algorithms to set product prices. Maryland, Connecticut, New Jersey and others also passed laws this year restricting some pricing practices based on personal data. The U.S. Federal Trade Commission (FTC) also proposed this summer a plan to regulate price discrimination using personal information."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIによる個別価格に\n米消費者の不安広がる",
+          "body": "米国でAIとデータによる消費者別の価格設定への懸念が強まり、規制が相次ぐ。",
+          "mini_headline": "米国でAI個別価格に懸念",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "米国で、小売・外食企業が人工知能(AI)と個人データを使い、消費者ごとに異なる価格を設定しているのではないかという懸念が強まっている。企業側は実際にそうした価格設定はしていないと否定しているが、消費者の不安が広がるなか、関連する規制も相次いでいる。"
+              },
+              {
+                "t": "p",
+                "x": "26日(現地時間)のWall Street Journal(WSJ)の報道によると、米国の消費者は、小売業者やレストラン、配車サービス、食料品企業などがAIと消費者データを使って個人の購買傾向や差し迫った需要を把握し、価格を引き上げかねないと懸念している。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.zdnet.co.kr/2026/06/06/a307341ee630b390235c542bfeaf83a3.jpg",
+                "cap": "(写真=Pixabay)"
+              },
+              {
+                "t": "p",
+                "x": "最近は企業が消費者の購買履歴や所得水準など、はるかに多くの個人データを持つようになり、AIでそれを素早く分析できるようになったことで懸念が強まった。特に電子棚札(ESL)をめぐる不安が大きいが、米国と欧州の関連研究では、需要の急増に合わせた値上げにつながったという明確な証拠は確認されていない。"
+              },
+              {
+                "t": "p",
+                "x": "WalmartやMcDonald'sなどの大手企業も、個人別の価格設定はしていないとの立場を示している。"
+              },
+              {
+                "t": "p",
+                "x": "それでも規制の動きは広がっている。ニューヨーク州は、企業が商品価格にアルゴリズムを使った場合、それを消費者に知らせるよう義務づける法律を導入した。メリーランド、コネチカット、ニュージャージーなども今年、個人データに基づく一部の価格設定手法を制限する法律を整えた。米連邦取引委員会(FTC)も今夏、個人情報を利用した価格差別を規制する案を示した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI个性化定价引发\n美国消费者不安蔓延",
+          "body": "美国担忧企业用AI和数据对每位消费者区别定价，相关监管接连出台。",
+          "mini_headline": "美国AI个性化定价引担忧",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "在美国，外界愈发担心零售和餐饮企业利用人工智能（AI）和个人数据，对每位消费者设定不同的价格。企业否认实际采用这种定价方式，但随着消费者不安情绪蔓延，相关监管也接连出台。"
+              },
+              {
+                "t": "p",
+                "x": "据Wall Street Journal（WSJ）当地时间26日报道，美国消费者担心，零售商、餐厅、网约车服务和食品杂货企业等可能利用AI和消费者数据掌握个人的购买倾向或紧迫需求，进而抬高价格。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.zdnet.co.kr/2026/06/06/a307341ee630b390235c542bfeaf83a3.jpg",
+                "cap": "（图片=Pixabay）"
+              },
+              {
+                "t": "p",
+                "x": "近来，企业掌握了消费者购买记录和收入水平等多得多的个人数据，并能借助AI快速分析，担忧因此加剧。围绕电子价签（ESL）的不安尤为明显，但美国和欧洲的相关研究并未发现其导致按需求激增涨价的明确证据。"
+              },
+              {
+                "t": "p",
+                "x": "Walmart和McDonald's等大企业也表示，不会进行个人化定价。"
+              },
+              {
+                "t": "p",
+                "x": "尽管如此，监管动向仍在扩大。纽约州出台法律，要求企业在商品定价中使用算法时告知消费者。马里兰、康涅狄格、新泽西等州今年也制定了限制部分基于个人数据定价方式的法律。美国联邦贸易委员会（FTC）今年夏天也提出了规制利用个人信息进行价格歧视行为的方案。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Precios personalizados con AI\npreocupan en Estados Unidos",
+          "body": "En Estados Unidos crece el temor a que la AI y los datos fijen precios por consumidor, y surgen nuevas normas.",
+          "mini_headline": "Inquietud en Estados Unidos por precios con AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "En Estados Unidos crece la preocupación de que las empresas de distribución y restauración usen la inteligencia artificial (AI) y datos personales para fijar precios distintos a cada consumidor. Las empresas niegan aplicar en la práctica este tipo de precios, pero a medida que se extiende la inquietud de los consumidores, también se suceden las regulaciones."
+              },
+              {
+                "t": "p",
+                "x": "Según informó el Wall Street Journal (WSJ) el día 26 (hora local), los consumidores estadounidenses temen que minoristas, restaurantes, servicios de transporte con conductor y empresas de alimentación usen la AI y los datos de los consumidores para detectar los hábitos de compra o las necesidades urgentes de cada persona y luego subir los precios."
+              },
+              {
+                "t": "img",
+                "src": "https://image.zdnet.co.kr/2026/06/06/a307341ee630b390235c542bfeaf83a3.jpg",
+                "cap": "(Foto=Pixabay)"
+              },
+              {
+                "t": "p",
+                "x": "La preocupación ha crecido porque las empresas disponen ahora de muchos más datos personales, como el historial de compras y el nivel de ingresos de los consumidores, y pueden analizarlos con rapidez gracias a la AI. La inquietud es especialmente grande en torno a las etiquetas electrónicas de estantería (ESL), pero los estudios realizados en Estados Unidos y Europa no han hallado pruebas claras de que hayan llevado a subidas de precio ligadas a picos de demanda."
+              },
+              {
+                "t": "p",
+                "x": "Grandes empresas como Walmart y McDonald's también han afirmado que no fijan precios individualizados."
+              },
+              {
+                "t": "p",
+                "x": "Aun así, las iniciativas regulatorias se extienden. El estado de Nueva York aprobó una ley que obliga a las empresas a informar a los consumidores cuando usan algoritmos para fijar el precio de sus productos. Maryland, Connecticut, Nueva Jersey y otros también aprobaron este año leyes que limitan algunas prácticas de fijación de precios basadas en datos personales. La Comisión Federal de Comercio de Estados Unidos (FTC) también propuso este verano medidas para regular la discriminación de precios mediante información personal."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "marketing-google-ads-ai-max-experiment",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Google Ads 신설\n1-click AI Max",
+      "body": "대상 계정의 Recommendations에 1-click AI Max 실험이 뜬다.",
+      "mini_headline": "1-click AI Max 실험",
+      "tool": "Marketing",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-ads-1-click-ai-max-experiment-42324.html",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://images.seroundtable.com/google-ads-click-logo-BmIQBDor.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Google Ads의 AI Max 검색 캠페인 자주 묻는 질문 페이지에 1-click AI Max 실험 항목이 새로 생겼다. Google은 문서에 \"계정이 대상이라면 Recommendations 페이지에서 1-click 실험 추천을 볼 수 있다\"고 적었다."
+          },
+          {
+            "t": "p",
+            "x": "이 업데이트는 PPC News Feed에 관련 글을 올린 Hana Kobzova 덕분에 알게 됐다. 그는 \"Search 캠페인에서 AI Max 테스트가 더 쉽고 세분화됐다. 이제 대상 계정은 1-click 설정으로 Recommendations를 통해 50/50 실험을 자동으로 만들 수 있다. 또한 광고주는 광고 그룹 단위에서 실험을 직접 다듬을 수 있다\"고 썼다."
+          },
+          {
+            "t": "p",
+            "x": "새로 들어간 항목은 이렇다."
+          },
+          {
+            "t": "p",
+            "x": "1-click AI Max 실험은 어떻게 작동하나요? 계정이 대상이라면 Recommendations 페이지에서 1-click 실험 추천을 볼 수 있습니다. Create 1-click experiment automatically를 선택하면 수동 설정 없이 기본 Search 캠페인과 AI Max 실험군을 비교하는 50/50 분할 테스트가 설정됩니다."
+          },
+          {
+            "t": "p",
+            "x": "Google은 지난 한 달 사이 이 문서에 아래 항목도 넣은 듯하다."
+          },
+          {
+            "t": "p",
+            "x": "실험 설정 중 특정 광고 그룹에서 AI Max를 테스트할 수 있나요? 네. Experiments 탭에서 AI Max 실험을 만들 때 실험 구성 단계에서 세부 제어 기능을 쓸 수 있습니다. 실험군의 광고 그룹마다 Search term matching이나 Asset optimization을 따로 켜거나 끌 수 있고, 대조군은 기본 캠페인 설정을 그대로 유지합니다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Google Ads adds 1-click\nAI Max experiments",
+          "body": "Google Ads says eligible accounts may find a 1-click AI Max experiment on their Recommendations page.",
+          "mini_headline": "1-click AI Max experiments",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-click-logo-BmIQBDor.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google Ads updated its frequently asked questions page for AI Max search campaigns with a section on 1-click AI Max experiments. Google wrote in the document, \"If your account is eligible, you may find a 1-click experiment recommendation on your Recommendations page.\""
+              },
+              {
+                "t": "p",
+                "x": "I spotted this update via Hana Kobzova who wrote about this on PPC News Feed, she wrote, \"Testing AI Max just got easier and more granular for Search campaigns. Eligible accounts can now use a 1-click setup to create a 50/50 experiment automatically through Recommendations. Additionally, advertisers can manually refine experiments at the ad group level.\""
+              },
+              {
+                "t": "p",
+                "x": "The new section reads:"
+              },
+              {
+                "t": "p",
+                "x": "How does the 1-click AI Max experiment work? If your account is eligible, you may find a 1-click experiment recommendation on your Recommendations page. When you select Create 1-click experiment automatically, it sets up a 50/50 split test comparing your base Search campaign against an AI Max treatment arm without requiring manual configuration."
+              },
+              {
+                "t": "p",
+                "x": "I believe Google also added this section in the past month to this document:"
+              },
+              {
+                "t": "p",
+                "x": "Can I test AI Max on specific ad groups during experiment setup? Yes. When you create an AI Max experiment under the Experiments tab, you can use granular controls during experiment construction. This allows you to selectively enable or disable Search term matching or Asset optimization for individual ad groups in the treatment arm, while the control arm maintains your base campaign settings."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Google Ads 신설\n1-click AI Max",
+          "body": "대상 계정의 Recommendations에 1-click AI Max 실험이 뜬다.",
+          "mini_headline": "1-click AI Max 실험",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-click-logo-BmIQBDor.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google Ads의 AI Max 검색 캠페인 자주 묻는 질문 페이지에 1-click AI Max 실험 항목이 새로 생겼다. Google은 문서에 \"계정이 대상이라면 Recommendations 페이지에서 1-click 실험 추천을 볼 수 있다\"고 적었다."
+              },
+              {
+                "t": "p",
+                "x": "이 업데이트는 PPC News Feed에 관련 글을 올린 Hana Kobzova 덕분에 알게 됐다. 그는 \"Search 캠페인에서 AI Max 테스트가 더 쉽고 세분화됐다. 이제 대상 계정은 1-click 설정으로 Recommendations를 통해 50/50 실험을 자동으로 만들 수 있다. 또한 광고주는 광고 그룹 단위에서 실험을 직접 다듬을 수 있다\"고 썼다."
+              },
+              {
+                "t": "p",
+                "x": "새로 들어간 항목은 이렇다."
+              },
+              {
+                "t": "p",
+                "x": "1-click AI Max 실험은 어떻게 작동하나요? 계정이 대상이라면 Recommendations 페이지에서 1-click 실험 추천을 볼 수 있습니다. Create 1-click experiment automatically를 선택하면 수동 설정 없이 기본 Search 캠페인과 AI Max 실험군을 비교하는 50/50 분할 테스트가 설정됩니다."
+              },
+              {
+                "t": "p",
+                "x": "Google은 지난 한 달 사이 이 문서에 아래 항목도 넣은 듯하다."
+              },
+              {
+                "t": "p",
+                "x": "실험 설정 중 특정 광고 그룹에서 AI Max를 테스트할 수 있나요? 네. Experiments 탭에서 AI Max 실험을 만들 때 실험 구성 단계에서 세부 제어 기능을 쓸 수 있습니다. 실험군의 광고 그룹마다 Search term matching이나 Asset optimization을 따로 켜거나 끌 수 있고, 대조군은 기본 캠페인 설정을 그대로 유지합니다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Google Adsが追加\n1-click AI Max",
+          "body": "対象アカウントのRecommendationsに1-click AI Max実験が出る。",
+          "mini_headline": "1-click AI Max実験",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-click-logo-BmIQBDor.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google AdsはAI Max検索キャンペーンのよくある質問ページを更新し、1-click AI Max実験に関する項目を加えた。Googleは文書で「アカウントが対象であれば、Recommendationsページに1-click実験の推奨が表示されることがあります」と記している。"
+              },
+              {
+                "t": "p",
+                "x": "この更新は、PPC News Feedで取り上げたHana Kobzovaを通じて知った。彼女は「SearchキャンペーンでのAI Maxのテストがより簡単かつ細かくなった。対象アカウントは1-clickの設定で、Recommendationsから50/50の実験を自動作成できるようになった。さらに、広告主は広告グループ単位で実験を手動で調整できる」と書いている。"
+              },
+              {
+                "t": "p",
+                "x": "新しい項目の内容は次の通りだ:"
+              },
+              {
+                "t": "p",
+                "x": "1-click AI Max実験の仕組みは? アカウントが対象であれば、Recommendationsページに1-click実験の推奨が表示されることがあります。Create 1-click experiment automaticallyを選択すると、手動設定なしで、基本のSearchキャンペーンとAI Maxの処理群を比較する50/50の分割テストが設定されます。"
+              },
+              {
+                "t": "p",
+                "x": "Googleは過去ひと月の間に、この文書に次の項目も追加したようだ:"
+              },
+              {
+                "t": "p",
+                "x": "実験の設定時に特定の広告グループでAI Maxをテストできますか? はい。ExperimentsタブでAI Max実験を作成する際、実験の構築中に細かな制御を使えます。これにより、処理群の個々の広告グループでSearch term matchingやAsset optimizationを選択的に有効化・無効化でき、対照群は基本キャンペーンの設定を維持します。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Google Ads新增\n1-click AI Max",
+          "body": "符合条件的账户可在Recommendations页面找到1-click AI Max实验。",
+          "mini_headline": "1-click AI Max实验",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-click-logo-BmIQBDor.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google Ads更新了AI Max搜索广告系列的常见问题页面，新增了关于1-click AI Max实验的部分。Google在文档中写道：“如果您的账户符合条件，您可能会在Recommendations页面上看到1-click实验建议。”"
+              },
+              {
+                "t": "p",
+                "x": "我是通过Hana Kobzova注意到这一更新的，她在PPC News Feed上写道：“在Search广告系列中测试AI Max变得更简单、更精细了。符合条件的账户现在可以通过1-click设置，经由Recommendations自动创建50/50实验。此外，广告主还可以在广告组层级手动细化实验。”"
+              },
+              {
+                "t": "p",
+                "x": "新增部分内容如下："
+              },
+              {
+                "t": "p",
+                "x": "1-click AI Max实验如何运作？如果您的账户符合条件，您可能会在Recommendations页面上看到1-click实验建议。选择Create 1-click experiment automatically后，系统会设置一个50/50拆分测试，将您的基础Search广告系列与AI Max实验组进行比较，无需手动配置。"
+              },
+              {
+                "t": "p",
+                "x": "我认为Google在过去一个月里还在这份文档中加入了以下部分："
+              },
+              {
+                "t": "p",
+                "x": "能否在设置实验时针对特定广告组测试AI Max？可以。在Experiments标签下创建AI Max实验时，您可以在构建实验过程中使用精细控制。这样，您可以为实验组中的单个广告组有选择地启用或停用Search term matching或Asset optimization，而对照组则保持基础广告系列设置不变。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Google Ads suma experimentos\n1-click de AI Max",
+          "body": "Google Ads indica que las cuentas aptas pueden ver un experimento 1-click de AI Max en su página Recommendations.",
+          "mini_headline": "Experimentos 1-click de AI Max",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-click-logo-BmIQBDor.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google Ads actualizó su página de preguntas frecuentes sobre las campañas de búsqueda AI Max con una sección sobre los experimentos 1-click de AI Max. Google escribió en el documento: \"Si tu cuenta es apta, es posible que encuentres una recomendación de experimento 1-click en tu página Recommendations\"."
+              },
+              {
+                "t": "p",
+                "x": "Vi esta actualización gracias a Hana Kobzova, que escribió sobre ello en PPC News Feed: \"Probar AI Max acaba de volverse más fácil y granular en las campañas de Search. Las cuentas aptas ya pueden usar una configuración 1-click para crear automáticamente un experimento 50/50 a través de Recommendations. Además, los anunciantes pueden ajustar manualmente los experimentos a nivel de grupo de anuncios\"."
+              },
+              {
+                "t": "p",
+                "x": "La nueva sección dice:"
+              },
+              {
+                "t": "p",
+                "x": "¿Cómo funciona el experimento 1-click de AI Max? Si tu cuenta es apta, es posible que encuentres una recomendación de experimento 1-click en tu página Recommendations. Al seleccionar Create 1-click experiment automatically, se configura una prueba dividida 50/50 que compara tu campaña base de Search con un grupo de tratamiento de AI Max, sin necesidad de configuración manual."
+              },
+              {
+                "t": "p",
+                "x": "Creo que Google también añadió esta sección a este documento durante el último mes:"
+              },
+              {
+                "t": "p",
+                "x": "¿Puedo probar AI Max en grupos de anuncios específicos al configurar el experimento? Sí. Al crear un experimento de AI Max en la pestaña Experiments, puedes usar controles granulares durante la construcción del experimento. Esto permite activar o desactivar de forma selectiva Search term matching o Asset optimization en grupos de anuncios concretos del grupo de tratamiento, mientras el grupo de control mantiene la configuración de tu campaña base."
               }
             ]
           }
@@ -1167,109 +1879,153 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "중국 블루북이 그린\nAI 광고 거버넌스",
-          "body": "중국 블루북이 멀티모달 탐지부터 가짜 AI 추천 차단까지 AI 광고를 다룬다.",
-          "mini_headline": "중국, AI 광고 규칙 정리",
+          "headline": "Google Ads 신설\n1-click AI Max",
+          "body": "대상 계정 Recommendations에 1-click AI Max 실험이 뜬다.",
+          "mini_headline": "1-click AI Max 실험",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d.cn.ibtimes.com/en/full/1824086/china-artificial-intelligence-digital-advertising-content-moderation.jpg",
-                "cap": "중국의 새 업계 블루북은 AI-generated 광고 전 과정을 아우르는 거버넌스를 제안한다."
+                "src": "https://images.seroundtable.com/google-ads-click-logo-BmIQBDor.jpg"
               },
               {
                 "t": "p",
-                "x": "Eastmoney가 전재한 China News Service 보도에 따르면, 《AIGC 시대 인터넷 광고 거버넌스 블루북》이 10월 24일 제33회 중국국제광고제 기간에 공개됐다. 블루북은 콘텐츠 제작과 심의부터 거래, 광고 이후 소비자 보호까지 광고 전 과정을 다루는 프레임워크를 제안한다."
+                "x": "Google Ads가 AI Max 검색 캠페인의 자주 묻는 질문 페이지에 1-click AI Max 실험 항목을 추가했다. Google은 문서에서 \"계정이 대상이라면 Recommendations 페이지에서 1-click 실험 추천을 볼 수 있다\"고 썼다."
               },
               {
                 "t": "p",
-                "x": "핵심 권고는 AI 시스템이 만든 위험을 다른 AI 시스템으로 가려내자는 것이다. 멀티모달 모델은 이미지, 텍스트, 음성을 함께 분석해 오해를 부르는 메시지를 잡아낼 수 있다. Ocean Engine의 Xiao Tao는 지능형 심의가 빠르면 10분 안에 광고 소재의 90%를 처리해 효율을 75% 높일 수 있다고 말했다."
+                "x": "이 업데이트는 PPC News Feed에 관련 글을 쓴 Hana Kobzova를 통해 알게 됐다. 그는 \"Search 캠페인에서 AI Max 테스트가 더 쉽고 세분화됐다. 이제 대상 계정은 1-click 설정으로 Recommendations를 통해 50/50 실험을 자동으로 만들 수 있다. 또한 광고주는 광고 그룹 단위에서 실험을 직접 다듬을 수 있다\"고 썼다."
               },
               {
                 "t": "p",
-                "x": "광고 주장의 진실성에 대한 책임은 여전히 광고주에게 있고, 플랫폼은 조작된 합성 추천 같은 위험에 대비한 안전장치를 유지한다. 블루북은 권고안일 뿐 구속력 있는 새 국가 법률이 아니다."
+                "x": "새 항목의 내용은 다음과 같다:"
+              },
+              {
+                "t": "p",
+                "x": "1-click AI Max 실험은 어떻게 작동하나요? 계정이 대상이라면 Recommendations 페이지에서 1-click 실험 추천을 볼 수 있습니다. Create 1-click experiment automatically를 선택하면 수동 설정 없이 기본 Search 캠페인과 AI Max 실험군을 비교하는 50/50 분할 테스트가 설정됩니다."
+              },
+              {
+                "t": "p",
+                "x": "Google이 지난 한 달 사이 이 문서에 다음 항목도 추가한 것으로 보인다:"
+              },
+              {
+                "t": "p",
+                "x": "실험 설정 중 특정 광고 그룹에서 AI Max를 테스트할 수 있나요? 네. Experiments 탭에서 AI Max 실험을 만들 때 실험 구성 단계에서 세부 제어 기능을 쓸 수 있습니다. 이를 통해 실험군의 개별 광고 그룹마다 Search term matching이나 Asset optimization을 선택적으로 켜거나 끌 수 있으며, 대조군은 기본 캠페인 설정을 그대로 유지합니다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "中国の青書が描く\nAI広告のガバナンス",
-          "body": "中国の青書は、マルチモーダル検知から偽のAI推奨の抑制までAI広告の統治を描く。",
-          "mini_headline": "中国がAI広告ルールを整理",
+          "headline": "Google Adsが追加\n1-click AI Max",
+          "body": "対象アカウントのRecommendationsに1-click AI Max実験が出る。",
+          "mini_headline": "1-click AI Max実験",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d.cn.ibtimes.com/en/full/1824086/china-artificial-intelligence-digital-advertising-content-moderation.jpg",
-                "cap": "中国の業界による新しい青書は、AI-generated広告を一貫して統治する仕組みを提案する。"
+                "src": "https://images.seroundtable.com/google-ads-click-logo-BmIQBDor.jpg"
               },
               {
                 "t": "p",
-                "x": "Eastmoneyが転載したChina News Serviceの報道によると、『AIGC時代のインターネット広告ガバナンス青書』が10月24日、第33回中国国際広告祭の期間中に公表された。コンテンツの制作・審査から取引、広告後の消費者保護まで、広告全体を対象とする枠組みを提案している。"
+                "x": "Google AdsはAI Max検索キャンペーンのよくある質問ページを更新し、1-click AI Max実験に関する項目を加えた。Googleは文書で「アカウントが対象であれば、Recommendationsページに1-click実験の推奨が表示されることがあります」と記している。"
               },
               {
                 "t": "p",
-                "x": "中心的な提言は、AIシステムが生むリスクを別のAIシステムで見抜くことだ。マルチモーダルモデルは画像、テキスト、音声をまとめて分析し、誤解を招くメッセージを捉えられる。Ocean EngineのXiao Tao氏は、インテリジェント審査なら最速10分以内に広告素材の90%を処理でき、効率は75%向上すると述べた。"
+                "x": "この更新は、PPC News Feedで取り上げたHana Kobzovaを通じて知った。彼女は「SearchキャンペーンでのAI Maxのテストがより簡単かつ細かくなった。対象アカウントは1-clickの設定で、Recommendationsから50/50の実験を自動作成できるようになった。さらに、広告主は広告グループ単位で実験を手動で調整できる」と書いている。"
               },
               {
                 "t": "p",
-                "x": "主張の真実性に対する責任は引き続き広告主が負い、プラットフォームは捏造された合成の推奨などのリスクへの安全策を維持する。青書はあくまで提言集であり、拘束力のある新たな国内法ではない。"
+                "x": "新しい項目の内容は次の通りだ:"
+              },
+              {
+                "t": "p",
+                "x": "1-click AI Max実験の仕組みは? アカウントが対象であれば、Recommendationsページに1-click実験の推奨が表示されることがあります。Create 1-click experiment automaticallyを選択すると、手動設定なしで、基本のSearchキャンペーンとAI Maxの処理群を比較する50/50の分割テストが設定されます。"
+              },
+              {
+                "t": "p",
+                "x": "Googleは過去ひと月の間に、この文書に次の項目も追加したようだ:"
+              },
+              {
+                "t": "p",
+                "x": "実験の設定時に特定の広告グループでAI Maxをテストできますか? はい。ExperimentsタブでAI Max実験を作成する際、実験の構築中に細かな制御を使えます。これにより、処理群の個々の広告グループでSearch term matchingやAsset optimizationを選択的に有効化・無効化でき、対照群は基本キャンペーンの設定を維持します。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "中国蓝皮书勾勒\nAI广告治理框架",
-          "body": "中国发布的一份蓝皮书梳理了AI广告治理，从多模态检测到遏制虚假AI代言。",
-          "mini_headline": "中国梳理AI广告规则",
+          "headline": "Google Ads新增\n1-click AI Max",
+          "body": "符合条件的账户可在Recommendations页面找到1-click AI Max实验。",
+          "mini_headline": "1-click AI Max实验",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d.cn.ibtimes.com/en/full/1824086/china-artificial-intelligence-digital-advertising-content-moderation.jpg",
-                "cap": "一份新的中国行业蓝皮书提出对AI-generated广告进行全链条治理。"
+                "src": "https://images.seroundtable.com/google-ads-click-logo-BmIQBDor.jpg"
               },
               {
                 "t": "p",
-                "x": "据Eastmoney转载的China News Service报道，《AIGC时代互联网广告治理蓝皮书》于10月24日第33届中国国际广告节期间发布。蓝皮书提出了一个框架，覆盖从内容创作、审核到交易以及广告投放后消费者保护的全过程。"
+                "x": "Google Ads更新了AI Max搜索广告系列的常见问题页面，新增了关于1-click AI Max实验的部分。Google在文档中写道：“如果您的账户符合条件，您可能会在Recommendations页面上看到1-click实验建议。”"
               },
               {
                 "t": "p",
-                "x": "其核心建议是用AI系统识别其他AI系统带来的风险：多模态模型可以同时分析图像、文字和音频，捕捉误导性信息。Ocean Engine的Xiao Tao表示，智能审核最快可在10分钟内处理90%的广告素材，效率提升75%。"
+                "x": "我是通过Hana Kobzova注意到这一更新的，她在PPC News Feed上写道：“在Search广告系列中测试AI Max变得更简单、更精细了。符合条件的账户现在可以通过1-click设置，经由Recommendations自动创建50/50实验。此外，广告主还可以在广告组层级手动细化实验。”"
               },
               {
                 "t": "p",
-                "x": "广告主仍需对其宣传内容的真实性负责，平台则保留防范伪造合成代言等风险的保障措施。蓝皮书是一套建议，并非具有约束力的新国家法律。"
+                "x": "新增部分内容如下："
+              },
+              {
+                "t": "p",
+                "x": "1-click AI Max实验如何运作？如果您的账户符合条件，您可能会在Recommendations页面上看到1-click实验建议。选择Create 1-click experiment automatically后，系统会设置一个50/50拆分测试，将您的基础Search广告系列与AI Max实验组进行比较，无需手动配置。"
+              },
+              {
+                "t": "p",
+                "x": "我认为Google在过去一个月里还在这份文档中加入了以下部分："
+              },
+              {
+                "t": "p",
+                "x": "能否在设置实验时针对特定广告组测试AI Max？可以。在Experiments标签下创建AI Max实验时，您可以在构建实验过程中使用精细控制。这样，您可以为实验组中的单个广告组有选择地启用或停用Search term matching或Asset optimization，而对照组则保持基础广告系列设置不变。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un libro azul de China perfila\nla gobernanza de anuncios con AI",
-          "body": "Un libro azul en China traza la gobernanza de anuncios con AI, de la detección multimodal al freno de avales falsos.",
-          "mini_headline": "China ordena las reglas de anuncios AI",
+          "headline": "Google Ads suma experimentos\n1-click de AI Max",
+          "body": "Google Ads indica que las cuentas aptas pueden ver un experimento 1-click de AI Max en su página Recommendations.",
+          "mini_headline": "Experimentos 1-click de AI Max",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d.cn.ibtimes.com/en/full/1824086/china-artificial-intelligence-digital-advertising-content-moderation.jpg",
-                "cap": "Un nuevo libro azul del sector en China propone una gobernanza integral de la publicidad AI-generated."
+                "src": "https://images.seroundtable.com/google-ads-click-logo-BmIQBDor.jpg"
               },
               {
                 "t": "p",
-                "x": "El Libro Azul sobre la Gobernanza de la Publicidad en Internet en la Era AIGC se presentó el 24 de octubre durante el 33.º Festival Internacional de Publicidad de China, según una información de China News Service recogida por Eastmoney. Propone un marco que abarca la publicidad desde la creación y revisión de contenidos hasta las transacciones y la protección del consumidor posterior."
+                "x": "Google Ads actualizó su página de preguntas frecuentes sobre las campañas de búsqueda AI Max con una sección sobre los experimentos 1-click de AI Max. Google escribió en el documento: \"Si tu cuenta es apta, es posible que encuentres una recomendación de experimento 1-click en tu página Recommendations\"."
               },
               {
                 "t": "p",
-                "x": "Una recomendación central es usar sistemas de AI para detectar los riesgos creados por otros sistemas de AI: los modelos multimodales pueden analizar a la vez imágenes, texto y audio para detectar mensajes engañosos. Xiao Tao, de Ocean Engine, dijo que la revisión inteligente podría procesar el 90% de los materiales publicitarios en 10 minutos en el mejor de los casos, con una mejora de eficiencia del 75%."
+                "x": "Vi esta actualización gracias a Hana Kobzova, que escribió sobre ello en PPC News Feed: \"Probar AI Max acaba de volverse más fácil y granular en las campañas de Search. Las cuentas aptas ya pueden usar una configuración 1-click para crear automáticamente un experimento 50/50 a través de Recommendations. Además, los anunciantes pueden ajustar manualmente los experimentos a nivel de grupo de anuncios\"."
               },
               {
                 "t": "p",
-                "x": "Los anunciantes siguen siendo responsables de la veracidad de sus afirmaciones, mientras que las plataformas mantienen salvaguardas frente a riesgos como los avales sintéticos fabricados. El libro azul es un conjunto de recomendaciones, no una nueva ley nacional vinculante."
+                "x": "La nueva sección dice:"
+              },
+              {
+                "t": "p",
+                "x": "¿Cómo funciona el experimento 1-click de AI Max? Si tu cuenta es apta, es posible que encuentres una recomendación de experimento 1-click en tu página Recommendations. Al seleccionar Create 1-click experiment automatically, se configura una prueba dividida 50/50 que compara tu campaña base de Search con un grupo de tratamiento de AI Max, sin necesidad de configuración manual."
+              },
+              {
+                "t": "p",
+                "x": "Creo que Google también añadió esta sección a este documento durante el último mes:"
+              },
+              {
+                "t": "p",
+                "x": "¿Puedo probar AI Max en grupos de anuncios específicos al configurar el experimento? Sí. Al crear un experimento de AI Max en la pestaña Experiments, puedes usar controles granulares durante la construcción del experimento. Esto permite activar o desactivar de forma selectiva Search term matching o Asset optimization en grupos de anuncios concretos del grupo de tratamiento, mientras el grupo de control mantiene la configuración de tu campaña base."
               }
             ]
           }

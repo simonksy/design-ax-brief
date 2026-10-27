@@ -749,27 +749,29 @@
       "blocks": [
         {
           "t": "img",
-          "src": "https://static.inven.co.kr/column/2026/09/28/news/i1594768656.jpg"
+          "src": "https://cdn.gamemeca.com/data_center/345/605/20261026171400.webp",
+          "cap": "Imagen principal del plugin de Hive Axil para ChatGPT (Imagen: Com2uS Platform)"
         },
         {
           "t": "p",
-          "x": "Com2uS Platform presentó su plataforma de backend de nueva generación, Hive Axyl, en un evento de desarrollo de videojuegos con IA en Tokio, Japón. Se lanzará oficialmente el 30 de septiembre y se encargará de todo, desde la configuración del backend y la integración de funciones hasta las operaciones en vivo."
+          "x": "Com2uS Platform anunció el día 26 que ofrece en ChatGPT el plugin de Hive Axil, su servicio de backend para juegos especializado en AI. Con este plugin, el entorno de desarrollo de juegos basado en AI va más allá de la producción y llega al lanzamiento del juego y a la operación del servicio."
         },
         {
           "t": "p",
-          "x": "Com2uS Platform, filial de Com2uS Holdings, presentó Hive Axyl el día 28 en la final del “Tokyo AI (TAI) | OpenAI: 100-Hour Game Builder Challenge”. En este desafío, organizado por Tokyo AI (TAI) y respaldado por OpenAI, los equipos participantes usaron OpenAI Codex para crear, durante 100 horas, juegos nativos de IA y herramientas de IA para la creación de juegos."
+          "x": "Los usuarios pueden instalar fácilmente el plugin de Hive Axil en la app y la web de ChatGPT. Igual que al crear juegos en el entorno de desarrollo de Codex, basta con pedirlo en lenguaje natural para conectar diversas funciones de backend. El plugin incluye además habilidades (Skills) que guían el orden de las tareas y la forma de implementarlas. Cubren todo el backend que necesita un servicio comercial: configuración del SDK, inicio de sesión y vinculación de cuentas, pagos, buzón, cupones y notificaciones push."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/345/606/20261026171400.webp",
+          "cap": "Ejemplo de Hive Axil aplicado en ChatGPT (Imagen: Com2uS Platform)"
         },
         {
           "t": "p",
-          "x": "En la presentación de la final, el CEO de Com2uS Japan, Kim Jin-yong, expuso la visión “Build with Codex, Play with Hive”. También compartió la experiencia de “OpenAI Game Builders Seoul”, un evento organizado conjuntamente por Com2uS y OpenAI en Seúl en agosto. Entre los asistentes había representantes de la industria tecnológica de Corea y Japón, como Krit Ventures y LY Corporation."
+          "x": "Si el usuario pide “añade una función de inicio de sesión al juego”, Codex consulta la guía de desarrollo de Hive Axil y ayuda a escribir el código de integración del backend. La analítica incluida responde preguntas en lenguaje natural sobre captación de nuevos usuarios, retención y métricas por país, y muestra los datos en gráficos y paneles."
         },
         {
           "t": "p",
-          "x": "El CEO Kim explicó que Hive Axyl “ofrece a los desarrolladores un entorno en el que pueden concentrarse en la creación de contenido en lugar de en tareas complejas de backend”. También dijo que espera que Hive Axyl sea de ayuda cuando se lancen los juegos creados ese día."
-        },
-        {
-          "t": "p",
-          "x": "Diseñado para el desarrollo de videojuegos con IA, Hive Axyl admite la integración de un plugin de Codex. Con instrucciones en lenguaje natural se pueden conectar rápidamente funciones clave como la configuración del backend, la autenticación, los pagos, el análisis de datos y las operaciones en vivo. Tras el lanzamiento oficial, los desarrolladores solo tienen que instalar el plugin siguiendo la guía del sitio para desarrolladores."
+          "x": "Choi Seok-won, director ejecutivo de Com2uS Platform, afirmó que la empresa “combinará la capacidad de servicio de Hive, reconocida en el mercado global, con el entorno de desarrollo con AI para reducir de forma notable la barrera de comercialización de los estudios independientes y pequeños”."
         }
       ]
     },
@@ -8629,6 +8631,139 @@
         {
           "t": "video",
           "yt": "WT3twFB0PD8"
+        }
+      ]
+    },
+    "games/games-ai-code-lawyer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Led8MKdaEhJzPHbQzNsQna-1920-80.jpg",
+          "cap": "Phoenix Wright: Ace Attorney - Dual Destinies"
+        },
+        {
+          "t": "p",
+          "x": "Una abogada especializada en contratos de videojuegos cuenta que un acuerdo reciente fracasó después de que su cliente recibiera un montón de material vibe-coded hecho por alguien que no «sabía lo que había hecho». Haley MacLean, abogada de IP y responsable del área de videojuegos de Voyer Law, compartió el caso anonimizado en Bluesky."
+        },
+        {
+          "t": "p",
+          "x": "«Un contratista de programación entrega a mi cliente un hito. Está roto y lleno de problemas, así que pedimos revisiones antes de aceptarlo. El contratista dice que no puede y quiere el pago completo. Resulta que todo es AI y ni siquiera sabe lo que hizo. Así que no cobrará y le hizo perder el tiempo a mi cliente»."
+        },
+        {
+          "t": "p",
+          "x": "«Además fue un incumplimiento de [confidencialidad], porque metió toda la información confidencial del juego en la herramienta de AI para ‘hacer’ el hito», añade. «Que sepas pedir en un restaurante no te convierte en chef»."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/K8yJ4PtPLeS2UpgkBEhUJC.jpg",
+          "cap": "El gato chef de Monster Hunter World"
+        },
+        {
+          "t": "p",
+          "x": "MacLean dice que ve cada vez más clientes que incluyen cláusulas anti-AI en sus contratos: «Ahora ya es texto estándar»."
+        }
+      ]
+    },
+    "games/games-kitase-zero-to-one": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/Secret-of-Mana-Tree.jpg",
+          "cap": "Secret Of Mana Tree © Square Enix"
+        },
+        {
+          "t": "p",
+          "x": "En una entrevista con Famitsu por el 35.º aniversario de la serie Mana, los veteranos de Square Enix Hiromichi Tanaka, Kouichi Ishii y Yoshinori Kitase repasaron la era de SNES y la compararon con el desarrollo de juegos actual, cada vez más AI-driven (impulsado por la AI)."
+        },
+        {
+          "t": "p",
+          "x": "A su juicio, la AI podría dar más capacidad a los equipos pequeños, como ya hicieron motores como Unity y Unreal. “Así como diversas tecnologías han respaldado antes el desarrollo de juegos, creo que podríamos ver a la AI desempeñar un papel cada vez más importante en el desarrollo de juegos”, señaló Kitase. “Sin embargo, cuando se trata de crear algo y llevarlo de 0 a 1, se necesitan personas sin ninguna duda. Eso nunca cambiará, así que la próxima generación de desarrolladores debe tener la capacidad de crear algo desde 0”."
+        },
+        {
+          "t": "p",
+          "x": "A Ishii le entusiasma que un prototipado más rápido deje más tiempo para probar y pulir: “Pero los humanos seguirán teniendo que definir el inicio y el final del proceso de trabajo. Si dependemos solo de la AI, el resultado puede parecer pulido, pero puede sentirse frío y carecer del toque humano necesario”."
+        },
+        {
+          "t": "p",
+          "x": "Kotaku señala que encuestas recientes hallaron que más del 85 por ciento de los desarrolladores en Japón usan activamente esta tecnología o consideran usarla."
+        }
+      ]
+    },
+    "games/games-ugc-ai-creators": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/AiPromptingExtraExampleAddLightBeam.png"
+        },
+        {
+          "t": "p",
+          "x": "Plataformas de contenido generado por usuarios como Roblox y Fortnite recurren cada vez más a herramientas de AI para acercar el desarrollo de juegos al gran público."
+        },
+        {
+          "t": "p",
+          "x": "Roblox presentó Build, una pestaña de creación pensada primero para móviles dentro de la app de Roblox que convierte prompts de texto en juegos básicos totalmente jugables. “Más del 70 por ciento de quienes crean hoy en Build nunca habían abierto [Roblox] Studio ni creado un juego en la plataforma”, dijo Vlad Loktev, director del ecosistema de creadores."
+        },
+        {
+          "t": "p",
+          "x": "Epic anunció una integración experimental y nativa de un servidor Model Context Protocol en Unreal Engine 5.8, que permite a los creadores de UEFN conectar modelos de AI como Claude y Gemini directamente a sus proyectos. The Sandbox Studio está diseñado para la programación agéntica y da a un agente de AI acceso a su motor, código, documentación y controles del editor."
+        },
+        {
+          "t": "p",
+          "x": "Playground, de Google, permite a los jugadores convertir prompts escritos en juegos para el navegador. Itai Cohen, de DT, advierte que la facilidad de creación podría “contribuir a la versión gamer del AI slop”."
+        }
+      ]
+    },
+    "games/games-decomp-clampdown": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2026/10/resetti-from-animal-crossing-angrily-bursting-onto-a-blank-web-browser.jpg?w=1600&h=900&fit=crop"
+        },
+        {
+          "t": "p",
+          "x": "Quizá haya notado una oleada repentina de ports para navegador y recompilaciones en el último mes, cuando históricamente tardaban años en desarrollarse. Se debe a los avances recientes en herramientas de AI como Claude, que han permitido a cualquiera, sin importar su formación en programación, aplicar ingeniería inversa al software."
+        },
+        {
+          "t": "p",
+          "x": "Los aficionados que sí se esfuerzan están frustrados porque su trabajo queda sepultado bajo basura hecha con vibe coding, las editoras están atrapadas en un interminable juego de golpear al topo, y la AI se usó para descubrir en cuestión de horas fallos de PHP con una década de antigüedad."
+        },
+        {
+          "t": "p",
+          "x": "Está claro que la presión se nota, porque Anthropic y OpenAI han empezado a poner freno. Anthropic actualizó sus clasificadores de seguridad cibernética en tiempo real para impedir la descompilación automatizada mediante el framework comunitario Reverse Engineer Anything (REA), mientras que OpenAI estaría desactivando cuentas por \"Cyber Abuse\". Dado que muchas recompilaciones y ports para navegador hechos con vibe coding dependían de estas herramientas, la avalancha de ports de bajo esfuerzo podría estar frenándose ya. Sin embargo, ahora que la caja de Pandora (Pandora's Box) está abierta, no se puede cerrar."
+        },
+        {
+          "t": "p",
+          "x": "Los usuarios ya recurren a alternativas locales o de código abierto, en concreto programas de AI desarrollados en China, para seguir aplicando ingeniería inversa al software. Lo verdaderamente relevante, sostiene el autor, es que los agentes de AI pueden atacar infraestructura pública más rápido de lo que se puede parchear."
+        }
+      ]
+    },
+    "games/games-hive-axil-chatgpt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/345/605/20261026171400.webp",
+          "cap": "Imagen principal del plugin de Hive Axil para ChatGPT (Imagen: Com2uS Platform)"
+        },
+        {
+          "t": "p",
+          "x": "Com2uS Platform anunció el día 26 que ofrece en ChatGPT el plugin de Hive Axil, su servicio de backend para juegos especializado en AI. Con este plugin, el entorno de desarrollo de juegos basado en AI va más allá de la producción y llega al lanzamiento del juego y a la operación del servicio."
+        },
+        {
+          "t": "p",
+          "x": "Los usuarios pueden instalar fácilmente el plugin de Hive Axil en la app y la web de ChatGPT. Igual que al crear juegos en el entorno de desarrollo de Codex, basta con pedirlo en lenguaje natural para conectar diversas funciones de backend. El plugin incluye además habilidades (Skills) que guían el orden de las tareas y la forma de implementarlas. Cubren todo el backend que necesita un servicio comercial: configuración del SDK, inicio de sesión y vinculación de cuentas, pagos, buzón, cupones y notificaciones push."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/345/606/20261026171400.webp",
+          "cap": "Ejemplo de Hive Axil aplicado en ChatGPT (Imagen: Com2uS Platform)"
+        },
+        {
+          "t": "p",
+          "x": "Si el usuario pide “añade una función de inicio de sesión al juego”, Codex consulta la guía de desarrollo de Hive Axil y ayuda a escribir el código de integración del backend. La analítica incluida responde preguntas en lenguaje natural sobre captación de nuevos usuarios, retención y métricas por país, y muestra los datos en gráficos y paneles."
+        },
+        {
+          "t": "p",
+          "x": "Choi Seok-won, director ejecutivo de Com2uS Platform, afirmó que la empresa “combinará la capacidad de servicio de Hive, reconocida en el mercado global, con el entorno de desarrollo con AI para reducir de forma notable la barrera de comercialización de los estudios independientes y pequeños”."
         }
       ]
     }

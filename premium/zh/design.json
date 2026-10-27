@@ -9394,6 +9394,142 @@
           "x": "ULPG适用于任何能读取Markdown的智能体，无需特定提供商的插件。其智能体工作流把页面内容当作数据而非指令；强调看到不等于测试，因此截图无法证明键盘可访问性；并把声明与已验证的结果分开。"
         }
       ]
+    },
+    "design/design-ideogram-svg": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.aitimes.com/news/photo/202610/216679_220802_5713.jpeg",
+          "cap": "(图片=Ideogram)"
+        },
+        {
+          "t": "p",
+          "x": "AI图像生成的竞争正从制作好看的图片，扩展到制作可用于实际设计工作的文件。Ideogram于23日（当地时间）发布了专用AI模型“Ideogram Vector”，可通过文本生成可编辑图形，也能将现有图像转换为矢量。"
+        },
+        {
+          "t": "p",
+          "x": "用户用文字描述想要的设计，Ideogram Vector即可生成SVG文件。现有的PNG或JPEG图像也能转换为矢量格式。SVG由线条、曲线、颜色填充、渐变等几何元素构成，可以不受分辨率限制地调整尺寸，因此对标志、海报、产品标签等需要适配多种尺寸和媒介的设计十分重要。"
+        },
+        {
+          "t": "p",
+          "x": "在基于文本的生成方面，该公司列举了文字与图形结合的标志、装饰性字体排印、由简单形状构成的插画等主要用例。不过，文字一旦转换为矢量路径，可能难以像普通文本那样直接修改字体或文案。图像转换也不会还原原图的图层结构，因此需要确认实际编辑有多方便。"
+        },
+        {
+          "t": "video",
+          "yt": "jmQk4oa5EnM"
+        },
+        {
+          "t": "p",
+          "x": "还为开发者提供API。API价格方面，基于文本的生成在不使用图像参考时，根据质量设置每张0.13~0.20美元。使用图像参考的高质量生成定价为每张0.32美元。"
+        }
+      ]
+    },
+    "design/design-figma-mcp-library": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1200/0*z97zDowA9lacbpjQ.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Christine Vallaure为设计师撰写的实用指南（三部分系列In-System Design的Part 1）解释了她的设计系统为何从代码起步，以及她如何据此构建、检查并维护Figma组件库。"
+        },
+        {
+          "t": "p",
+          "x": "把Figma-to-code这条路线交给AI后，生成的代码看起来没问题，却编造了文件中没有说明的内容：焦点顺序、错误状态、屏幕阅读器会播报什么。于是她把方向倒了过来：“代码是唯一可信来源。Figma只是它的镜像。两者不一致时，错的是Figma。”"
+        },
+        {
+          "t": "p",
+          "x": "工作流程是：获取对代码的安全访问，确认Storybook正在运行，用Southleft的Figma Console MCP打开一个空白Figma文件，先迁移令牌和文本样式，再构建Button和Alert等两个测试组件，然后才运行整个组件库——并且每次都要求生成一份GAPS.md，列出所有无法在Figma中表达的内容。"
+        },
+        {
+          "t": "p",
+          "x": "反复出现的修正会沉淀为一项技能，而一致性检查器会把Storybook组件清单与对应的Figma JSON列表逐一比对，名称对名称，默认值对默认值。"
+        }
+      ]
+    },
+    "design/design-shopify-fullstack-designer": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "eojywvxqoLc"
+        },
+        {
+          "t": "p",
+          "x": "在本期Design Review中，Shopify产品设计工作室负责人Marvin Schwaibold与YC的Aaron Epstein一起讲解他的设计流程。他展示了团队最近上线的后台重新设计和Sidekick相关工作、一个用着色器重现真实草地的周末项目，以及一个尝试了91次才做好的轮播组件。"
+        },
+        {
+          "t": "p",
+          "x": "他的工具已从Figma转向“Codex和Claude Code这类工具，并且经常待在终端里”，Figma则被当作草稿本。他说：“产出已经不再是问题，关键在于我们对要推进什么极其挑剔。”“我们现在比以往任何时候都更像编辑。”AI“能写代码，但它不知道什么好看、什么难看，这要由我来决定。”"
+        },
+        {
+          "t": "p",
+          "x": "随后，两人以动效和交互性为重点，点评了五个观众投稿的网站。"
+        }
+      ]
+    },
+    "design/design-moss-image": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-open-source-model.jpg"
+        },
+        {
+          "t": "p",
+          "x": "MOSS-Image是一款拥有5B 参数的文生图模型，由OpenMOSS团队与MOSI Intelligence于2026年10月16日联合发布。代码和权重以Apache 2.0许可证开源，允许商用和不受限制的微调。"
+        },
+        {
+          "t": "p",
+          "x": "它是一个从零开始训练的单流扩散变换器（DiT）。提示词最长可达4,096个词元，文字渲染支持中英双语，模型还接受结构化的JSON布局，为每个文本块和对象分配各自的边界框。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-json-layout-control.jpg",
+          "cap": "MOSS-Image布局控制概念图：设计师可以通过JSON提示词而非文字描述，将文本和对象放入边界框中。(Credit: Intelligent Living)"
+        },
+        {
+          "t": "p",
+          "x": "在该团队的LongLongTextBench（LLTB）上，MOSS-Image的Mean-6文本覆盖率为96.3；最接近的开放权重竞争对手Qwen Image 2512仅为64.9。在RealLayoutArena上，完整系统排名仅次于GPT Image 2，而其主干模型在使用相同增强提示词的生成器中排名第一。报告中的所有数据均由开发方自测，独立复现仍有待进行。"
+        }
+      ]
+    },
+    "design/design-sparkle-button-essay": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*zO6YRwfqZ98I2mbNC4MBNw.png",
+          "cap": "插图：Jon Sabutis，以 HTML 和 CSS 制作"
+        },
+        {
+          "t": "p",
+          "x": "打开任何一款付费产品，右上角都有一颗闪光图标，背后是一个写着“Ask anything”的面板。每天用 AI 写代码的 Jon Sabutis 认为，工具变好了，产品却大多没有，因为它们都是同一个产品。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*GVI4I-F2A2OolI_slccKuA.png"
+        },
+        {
+          "t": "p",
+          "x": "人们反感的是，这些功能是被替他们打开的。2026年3月，Microsoft 表示将在 Notepad、Snipping Tool、Photos 和 Widgets 中削减“不必要的 Copilot 入口”。一项在更新后被重置的设置，只会让用户学到一条规则：这家公司会推翻我的决定。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1000/1*7yaE0--HMN9rGsXsmamCKg.gif"
+        },
+        {
+          "t": "p",
+          "x": "UBS 估计，大型云计算公司在2026年至2028年间的资本支出约为4.1万亿美元；而 MIT 的 NANDA 小组发现，百分之95的公司未能从生成式 AI 试点中获得可衡量的回报。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Cwicgkr_ZVmyYTN1j18eCA.png",
+          "cap": "图表：Jon Sabutis，依据 UBS 估算，2026年8月"
+        },
+        {
+          "t": "p",
+          "x": "他的原则是：用 AI 打造功能，而不是打造 AI 功能，比如 Smart Compose 或 Photoshop 的 Remove 工具。发布之前要问：谁提出过需求？它以什么命名？你是否愿意默认关闭它发布？按成本价它还能活下来吗？"
+        }
+      ]
     }
   }
 }

@@ -1,43 +1,32 @@
 {
- "music-spotify-agent-layer": {
-  "images": [
-   "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-23T115515.907.png?fit=2000%2C1500&ssl=1"
-  ],
-  "video": null
- },
- "music-komca-ai-filings": {
-  "images": [
-   "https://img.tf.co.kr/article/home/2026/10/19/20262121179241237300.jpg"
-  ],
-  "video": null
- },
- "music-fender-studio-pro-82": {
-  "images": [
-   "https://cdn.gearnews.com/wp-content/uploads/2026/06/fender-studio-pro-8-2-expanded-separate-stems-1024x565.jpg",
-   "https://cdn.gearnews.com/wp-content/uploads/2026/06/fender-studio-pro-8-2-vocal-tune-1024x565.jpg",
-   "https://cdn.gearnews.com/wp-content/uploads/2026/06/fender-studio-pro-8-2-trim-automation-1024x565.jpg",
-   "https://cdn.gearnews.com/wp-content/uploads/2026/06/fender-studio-pro-8-2-multiple-markers-1024x565.jpg"
-  ],
-  "video": "IerERyqMZYY"
- },
- "music-neutune-tal-dj": {
-  "images": [
-   "https://cdn.wowtale.net/wp-content/uploads/2026/10/neutune-20261018-article-3dde75.jpg"
-  ],
-  "video": null
- },
- "music-mono-stereo-upmix-flows": {
-  "images": [
-   "https://arxiv.org/html/2610.15967v1/Figures/two_stage_sampler.png",
-   "https://basusattwik.github.io/aura-demo/figures/two_stage_sampler_compact_7.png",
-   "https://arxiv.org/html/2610.15967v1/Figures/boxplots_participant.png"
-  ],
-  "video": null
- },
- "music-flomss-stem-separation": {
-  "images": [
-   "https://arxiv.org/html/2610.17821v2/midpoint_sampler_metrics_singlecol_OTCFM.svg"
-  ],
-  "video": null
- }
+  "music-suno-gong": {
+    "lead_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Suno-Menlo-Subpoena.jpg",
+    "video": "",
+    "yt": ""
+  },
+  "music-fender-studio-pro": {
+    "lead_image": "https://cdn.gearnews.com/wp-content/uploads/2026/01/fender-studio-pro-8-1-ft.jpg",
+    "video": "",
+    "yt": "5ccqyo4J3KA"
+  },
+  "music-movin-to-the-sun": {
+    "lead_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-26T105845.322.png?fit=2000%2C1500&ssl=1",
+    "video": "https://www.instagram.com/p/DdrNB2YM4Vb/",
+    "yt": ""
+  },
+  "music-charlotte-de-witte-nava": {
+    "lead_image": "https://static.ra.co/images/news/2026/charlotte-navanull.png",
+    "video": "https://www.instagram.com/reel/DeuCK-UIBFc/",
+    "yt": ""
+  },
+  "music-djustify": {
+    "lead_image": "",
+    "video": "",
+    "yt": ""
+  },
+  "music-mi-midi-2": {
+    "lead_image": "",
+    "video": "",
+    "yt": ""
+  }
 }

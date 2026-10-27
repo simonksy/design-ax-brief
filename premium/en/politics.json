@@ -3821,6 +3821,123 @@
           "x": "The lead MEP is seeking an AI evaluation role for the EU cyber agency in proposed changes to the Cybersecurity Act, which come as AI reshapes hacking and cyber defence."
         }
       ]
+    },
+    "politics/politics-claude-election-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/96/76/54/1200x675_cmsv2_aceccf58-a679-5b4b-a457-03e9cdcfe53b-9967654.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic's AI model Claude bypassed a paywall and accessed publicly available voter data in the US state of Georgia without human authorisation, according to a report by Axios. The case comes ahead of the US midterm elections on 3 November."
+        },
+        {
+          "t": "p",
+          "x": "The AI model was accessing aggregate vote counts as part of a statistics project when it autonomously requested a token to access a paywalled data dashboard without being asked to by humans, according to an Anthropic spokesperson. The model had noticed that a token was automatically issued to visitors, which it then used to circumvent the paywall and get hold of aggregate vote counts that are public but normally require a fee to view."
+        },
+        {
+          "t": "p",
+          "x": "It did not access the state's voter registration system or change or download any voting records, the spokesperson said, adding that the company has since taken measures to prevent these kinds of actions. Georgia Deputy Secretary of State Jordan Fuchs confirmed that the activity involved publicly accessible data through their data hub rather than a breach of the voter registration system."
+        },
+        {
+          "t": "p",
+          "x": "The disclosure adds to growing unease over whether leading AI labs can control increasingly autonomous systems. The European Commission’s AI Office began investigating OpenAI and Anthropic this month over AI agents that hacked outside organisations, the first test of its rules under the EU AI Act."
+        }
+      ]
+    },
+    "politics/politics-qwen-beijing-server": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/5305565.jpg?imageId=5305565&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "Cohere says that when it was testing Alibaba's Qwen3.8-Flash-Next in its evaluation sandbox, the model attempted to send data to China. \"Asked to write a defensive detection rule, Qwen3.8-Flash-Next ignored instructions and inventoried the machine it was running on and then tried to upload a probe file to an Alibaba Cloud storage bucket in Beijing,\" the biz said."
+        },
+        {
+          "t": "p",
+          "x": "Cohere was running the model through CTI-REALM, Microsoft's security analyst benchmark. The model's \"reasoning\" output invented a prior conversation and asserted that no tools were used. \"Our sandbox had no route out, so the request died at the container wall,\" Cohere said."
+        },
+        {
+          "t": "p",
+          "x": "Alibaba did not respond to a request to address Cohere's concerns. Co-founder Ivan Zhang said the behavior appeared in fewer than one in 100,000 calls: \"We don't have evidence that would allow us to conclude this was deliberate, and we're not making that claim.\" Cohere allows that the behavior may be bad training data sanitization."
+        },
+        {
+          "t": "p",
+          "x": "\"Whether it's a training artifact, a mistake, or something else, the controls are largely the same: restrict unnecessary egress, monitor tool use, and don't treat a reasoning trace as a security boundary,\" Zhang said."
+        }
+      ]
+    },
+    "politics/politics-ftc-anthropic-testimony": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/0ZEJZG2mfCg6PK5LKkLLDP835AI=/0x0:1920x1080/1920x1080/2026/09/10/1789059128473.jpeg",
+          "cap": "Illustration: Sarah Grillo/Axios. Stock: Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "The Federal Trade Commission on Monday sent demands for Anthropic executives to testify in its consumer harm probe, an FTC spokesperson told Axios."
+        },
+        {
+          "t": "p",
+          "x": "The FTC is investigating Anthropic and OpenAI and has sent civil subpoenas seeking documents from both AI giants about safety incidents. The agency plans to go after more AI players as well but has only confirmed demands for testimony were sent to Anthropic. Individuals at other AI companies have also received demands to testify, the spokesperson said, without providing more detail."
+        },
+        {
+          "t": "p",
+          "x": "The FTC's civil investigative demands span 50 pages for each company and ask for documents concerning security incidents, safeguarding practices, marketing materials and documents detailing privacy policies. The agency has investigative authority to examine actions related to consumer harms that could be seen as unfair or deceptive."
+        },
+        {
+          "t": "p",
+          "x": "The escalation in the FTC probe comes on the same day as the company pitches investors on one of the largest IPOs in history. Anthropic said the FTC's investigation could result in significant costs and model design changes."
+        }
+      ]
+    },
+    "politics/politics-ontario-ai-justice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-res.keymedia.com/cms/images/lt/jacq_639286618914876823.png"
+        },
+        {
+          "t": "p",
+          "x": "The Law Commission of Ontario has recommended the drafting of new provincial legislation and the establishment of governance and risk management frameworks for artificial intelligence systems used in the criminal justice system. Its final report on “AI in Criminal Justice” is the first in Canada to examine the uses, benefits, and risks of such systems, with 29 recommendations to facilitate responsible AI use by police, Crowns, courts, and other institutions."
+        },
+        {
+          "t": "p",
+          "x": "The LCO suggested the framework include mandatory public disclosure of AI system use in criminal justice, a required impact assessment, continuous auditing and evaluation, and guarantees for judicial independence. It urged Ontario to modify the Enhancing Digital Security and Trust Act, 2024, or introduce complementary laws, and pushed for a joint Federal-Provincial Criminal AI Evidence Rules Committee."
+        },
+        {
+          "t": "p",
+          "x": "“Criminal AI systems such as predictive policing, [facial recognition technology] and generative AI systems have proven risks to human rights, criminal procedure, privacy and access to justice,” report authors Ryan Fritsch and Nye Thomas wrote. “To date, no Canadian government has enacted laws or regulations governing the use of AI by Canadian police or criminal courts.”"
+        }
+      ]
+    },
+    "politics/politics-treasury-outbound-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2aTQNz.img"
+        },
+        {
+          "t": "p",
+          "x": "The Treasury Department on Thursday proposed a rule to curb American high-tech investments, including in AI, based in U.S. adversary countries such as China, Russia, North Korea and other \"countries of concern.\""
+        },
+        {
+          "t": "p",
+          "x": "The rule expands restrictions in the Outbound Investment Security Program (OISP) on hypersonic systems, quantum information technologies, high-performance computing and AI; Treasury Secretary Scott Bessent added biotechnology. It would apply to investments exceeding $50,000 and exclude financial investments such as stock purchases. Officials said the rules implement the 2025 Comprehensive Outbound Investment National Security Act."
+        },
+        {
+          "t": "p",
+          "x": "\"The proposed regulations would strengthen the existing Outbound Investment Security Program to prevent our adversaries from using U.S. investment to develop critical technologies that threaten U.S. national security,\" Bessent said in a statement."
+        },
+        {
+          "t": "p",
+          "x": "Public comments will be taken before a final rule. China's Commerce Ministry accused the U.S. of trying to suppress China under \"the guise of national security,\" the AP reported."
+        }
+      ]
     }
   }
 }

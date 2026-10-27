@@ -9196,6 +9196,132 @@
           "x": "LitPivot will be presented at UIST 2026 in Detroit."
         }
       ]
+    },
+    "science/science-virtual-author": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101426_KH_virtualauthor_main.jpg",
+          "cap": "Scientific papers are typically static records of knowledge. Paper2Agent turns them into tool sets for AI agents. Alllex/E+/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "A system called Paper2Agent lets scientists do more than read a new study. When a paper comes with code, methods and data, the system packages these into a tool set that an AI assistant can use to work with new data, researchers report September 16 in Nature."
+        },
+        {
+          "t": "p",
+          "x": "The system is essentially “a virtual author of the paper,” available around the clock, says James Zou, a computer scientist at Stanford University."
+        },
+        {
+          "t": "p",
+          "x": "Zou and colleagues tried to convert 100 computational biology papers into working tool sets and succeeded with 74. The tool sets ran analyses more accurately and more than twice as fast as the same agent working from the original papers and code."
+        },
+        {
+          "t": "p",
+          "x": "Peter Clark of the Allen Institute for Artificial Intelligence calls it “an exciting step” toward papers that actively help scientists, but notes Paper2Agent specializes in reusing methods and code, not answering general questions. “The reason I would write to a corresponding author is for precisely the things they didn’t put in the paper.”"
+        }
+      ]
+    },
+    "science/science-vision-noise": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-research-how-ran.jpg",
+          "cap": "Credit: Patterns (2026). DOI: 10.1016/j.patter.2026.101693"
+        },
+        {
+          "t": "p",
+          "x": "Researchers at the Hertie Institute for Clinical Brain Research in Tübingen found that artificial vision systems become substantially more robust when two brain-inspired features are combined: top-down feedback, in which higher processing stages send signals back to earlier ones, and neural variability."
+        },
+        {
+          "t": "p",
+          "x": "They simulated random fluctuations in neural activity by temporarily deactivating individual network units at random during training. Feedback alone helped little; combined with the randomness, the networks became substantially more robust to image noise and targeted changes that can cause misclassification, and performed better on images from distributions that differed from the training distribution."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/dr-antonino-greco-righ.jpg",
+          "cap": "Dr. Antonino Greco (right) and professor Markus Siegel from the Hertie Institute for Clinical Brain Research. Credit: Hertie Institute"
+        },
+        {
+          "t": "p",
+          "x": "“Feedback only becomes effective once the network has learned to cope with randomness,” says Greco. The study appears in Patterns (2026). DOI: 10.1016/j.patter.2026.101693."
+        }
+      ]
+    },
+    "science/science-planteur": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1792681400-planteur-tropical-regions-tan.png"
+        },
+        {
+          "t": "p",
+          "x": "PASTIS is one of the community's most trusted crop-mapping benchmarks, but its coverage is limited to metropolitan France. Ai2 presents PLANTEUR, an extension of PASTIS to six tropical regions: Réunion, Guadeloupe, Martinique, Guyane, Mayotte and Saint-Martin."
+        },
+        {
+          "t": "p",
+          "x": "Built from the same source, France's Land Parcel Identification System, it contains 2,750 aligned Sentinel-2, Sentinel-1 and Landsat-8 time series and 4,506 km² of parcel-derived labels across seven crop classes, including sugarcane, banana, pineapple and tropical tubers."
+        },
+        {
+          "t": "p",
+          "x": "Baselines cover a standard split, a leave-one-island-out split, a few-shot setup and one that includes PASTIS samples in training."
+        },
+        {
+          "t": "p",
+          "x": "Every method evaluated scores substantially lower on PLANTEUR than on PASTIS, and every model loses roughly half its accuracy when tested on an island it never saw in training. PLANTEUR is available on Hugging Face and GitHub."
+        }
+      ]
+    },
+    "science/science-coatings-lab": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-powered-robotic-lab.jpg",
+          "cap": "Credit: University of Nottingham"
+        },
+        {
+          "t": "p",
+          "x": "Researchers at the University of Nottingham's Center of Excellence in Coating and Surface Engineering have built a self-driving laboratory. Two robotic arms, a specially designed liquid-dispensing tool, laboratory equipment and purpose-built software work together to measure and mix chemicals, carry out high-temperature furnace processing and retrieve samples."
+        },
+        {
+          "t": "p",
+          "x": "An AI-based active learning approach uses information from previous experiments to help identify which compositions to test next. The team used it to prepare candidate materials with the pyrochlore crystal structure as potential thermal barrier coatings, which act as protective heat shields for aerospace engine parts."
+        },
+        {
+          "t": "p",
+          "x": "“Self-driving laboratories have the potential to change how advanced materials are developed,” says Professor Tanvir Hussain. The work is published in Engineering Applications of Artificial Intelligence (DOI 10.1016/j.engappai.2026.114993)."
+        }
+      ]
+    },
+    "science/science-llm-agent-camps": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-can-form-pol.jpg",
+          "cap": "The networked LLM agent system: self-expression, communication and opinion update. Credit: Nature Communications (2026)"
+        },
+        {
+          "t": "p",
+          "x": "In a Nature Communications study, Tsinghua University researchers gave networks of 1,000 LLM agents political positions on three issues: U.S. party alignment, gun control and abortion bans. The agents argued their views and chose whom to keep talking to. They were never told to favor like-minded partners, yet they formed opposing camps that increasingly prefer their own company."
+        },
+        {
+          "t": "p",
+          "x": "Over 40 rounds, the neutral middle thinned out and agents increasingly interacted with others on their own side. A checking step reduced out-of-character answers, but the divisions persisted."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-formed-polit.jpg",
+          "cap": "Homophilic interactions and network evolution. Credit: Nature Communications (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Meeting an opponent was not enough. Randomizing conversation partners produced only a modest reduction in polarization, and allowing messages only from moderately opposing agents had a small effect. Instructing agents to be receptive to different viewpoints cut polarization by 11.8%; adding influential agents broadcasting neutral messages cut it by 8.8%."
+        },
+        {
+          "t": "p",
+          "x": "The authors call the findings hypothesis-generating: the agents were prompted, opinions used five categories, and the results do not show the same interventions would work for people."
+        }
+      ]
     }
   }
 }

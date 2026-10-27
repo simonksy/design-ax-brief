@@ -9490,6 +9490,142 @@
           "x": "ULPG funciona con cualquier agente capaz de leer Markdown, sin plugins específicos de un proveedor. El flujo para agentes trata el contenido de la página como datos, no como instrucciones; sostiene que ver no es probar, de modo que una captura de pantalla no demuestra la accesibilidad por teclado; y separa las afirmaciones de los resultados verificados."
         }
       ]
+    },
+    "design/design-ideogram-svg": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.aitimes.com/news/photo/202610/216679_220802_5713.jpeg",
+          "cap": "(Foto: Ideogram)"
+        },
+        {
+          "t": "p",
+          "x": "La competencia en generación de imágenes con AI se amplía de crear imágenes atractivas a producir archivos que sirven para el trabajo real de diseño. Ideogram presentó el día 23 (hora local) 'Ideogram Vector', un modelo de AI dedicado que crea gráficos editables a partir de texto y que también convierte imágenes existentes en vectores."
+        },
+        {
+          "t": "p",
+          "x": "Ideogram Vector genera un archivo SVG cuando el usuario describe por escrito el diseño que desea. También puede convertir imágenes PNG o JPEG existentes a formato vectorial. Como el SVG se compone de elementos geométricos como líneas, curvas, rellenos de color y degradados, puede redimensionarse sin depender de la resolución, algo clave en diseños que deben adaptarse a distintos tamaños y medios, como logotipos, carteles y etiquetas de productos."
+        },
+        {
+          "t": "p",
+          "x": "En la generación a partir de texto, la empresa citó como casos de uso principales los logotipos que combinan letras y formas, la tipografía decorativa y las ilustraciones de formas simples. No obstante, cuando las letras se convierten en trazados vectoriales, puede resultar difícil cambiar la fuente o el texto directamente como si fuera texto normal. La conversión de imágenes tampoco recupera la estructura de capas del original, por lo que conviene comprobar qué tan fácil es editarlas en la práctica."
+        },
+        {
+          "t": "video",
+          "yt": "jmQk4oa5EnM"
+        },
+        {
+          "t": "p",
+          "x": "También ofrece una API para desarrolladores. En la generación a partir de texto sin referencia de imagen, el precio de la API es de 0.13~0.20 dólares por imagen según el ajuste de calidad. La generación de alta calidad con referencia de imagen cuesta 0.32 dólares por imagen."
+        }
+      ]
+    },
+    "design/design-figma-mcp-library": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1200/0*z97zDowA9lacbpjQ.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "La guía práctica de Christine Vallaure para diseñadores (Part 1 de la serie de tres partes In-System Design) explica por qué su sistema de diseño empieza en el código y cómo construye, revisa y mantiene a partir de él la biblioteca de Figma."
+        },
+        {
+          "t": "p",
+          "x": "Al delegar en una AI la ruta Figma-to-code, obtuvo un código que parecía correcto pero inventaba lo que el archivo no decía: el orden de foco, los estados de error, lo que anuncia un lector de pantalla. Así que invirtió la dirección: \"El código es la fuente de verdad. Figma lo refleja. Donde difieren, Figma está equivocado\"."
+        },
+        {
+          "t": "p",
+          "x": "El flujo de trabajo: obtener acceso seguro al código, comprobar que Storybook está en marcha, abrir un archivo de Figma vacío con Figma Console MCP de Southleft, transferir primero los tokens y los estilos de texto y luego crear dos componentes de prueba, como Button y Alert, antes de ejecutar toda la biblioteca; y pedir cada vez un GAPS.md que enumere todo lo que no pudo expresarse en Figma."
+        },
+        {
+          "t": "p",
+          "x": "Las correcciones repetidas se convierten en una skill, y un verificador de paridad compara el manifiesto de componentes de Storybook con una lista JSON equivalente de Figma, nombre con nombre y valor por defecto con valor por defecto."
+        }
+      ]
+    },
+    "design/design-shopify-fullstack-designer": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "eojywvxqoLc"
+        },
+        {
+          "t": "p",
+          "x": "En este episodio de Design Review, Marvin Schwaibold, que dirige el estudio de diseño de producto de Shopify, se une a Aaron Epstein, de YC, para repasar su proceso de diseño. Muestra el rediseño del panel de administración y el trabajo en Sidekick que su equipo lanzó hace poco, un proyecto de fin de semana en el que recreó césped real como shader y un carrusel que necesitó 91 intentos para quedar bien."
+        },
+        {
+          "t": "p",
+          "x": "Sus herramientas han pasado de Figma a \"herramientas como Codex y Claude Code, y estar mucho en la terminal\", y usa Figma como bloc de borrador. \"El resultado ya no es el problema; se trata de ser extremadamente selectivos con lo que seguimos adelante\", afirma. \"Ahora somos más editores que nunca\". La AI \"puede escribir código, pero no sabe qué se ve bien y qué se ve mal, y eso me toca decidirlo a mí\"."
+        },
+        {
+          "t": "p",
+          "x": "Después revisan cinco sitios web enviados por espectadores, con atención al movimiento y la interactividad."
+        }
+      ]
+    },
+    "design/design-moss-image": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-open-source-model.jpg"
+        },
+        {
+          "t": "p",
+          "x": "MOSS-Image, un modelo de texto a imagen de 5 mil millones de parámetros, fue lanzado el 16 de octubre de 2026 por el equipo de OpenMOSS junto con MOSI Intelligence. El código y los pesos se publican bajo la licencia Apache 2.0, que permite el uso comercial y el ajuste fino sin restricciones."
+        },
+        {
+          "t": "p",
+          "x": "Es un transformer de difusión de flujo único (DiT) entrenado desde cero. Los prompts pueden llegar a 4,096 tokens, el renderizado de texto es bilingüe en chino e inglés y el modelo acepta un diseño JSON estructurado en el que cada bloque de texto y cada objeto tiene asignada su propia caja delimitadora."
+        },
+        {
+          "t": "img",
+          "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-json-layout-control.jpg",
+          "cap": "Ilustración conceptual del control de diseño de MOSS-Image: los diseñadores pueden colocar texto y objetos en cajas delimitadoras mediante un prompt JSON en lugar de depender de la prosa. (Credit: Intelligent Living)"
+        },
+        {
+          "t": "p",
+          "x": "En el LongLongTextBench (LLTB) del equipo, MOSS-Image obtiene 96.3 de cobertura de texto Mean-6; el competidor de pesos abiertos más cercano, Qwen Image 2512, logra 64.9. En RealLayoutArena, el sistema completo queda segundo, por detrás de GPT Image 2, mientras que su backbone queda primero entre los generadores que recibieron los mismos prompts mejorados. Todas las cifras del informe las midió el propio desarrollador, por lo que la replicación independiente sigue pendiente."
+        }
+      ]
+    },
+    "design/design-sparkle-button-essay": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*zO6YRwfqZ98I2mbNC4MBNw.png",
+          "cap": "Ilustración de Jon Sabutis, hecha en HTML y CSS"
+        },
+        {
+          "t": "p",
+          "x": "En cualquier producto de pago aparece un destello en la esquina superior derecha y, detrás, un panel que dice \"Ask anything\". Jon Sabutis, que programa con AI todos los días, sostiene que las herramientas mejoraron pero los productos en su mayoría no, porque son el mismo producto."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*GVI4I-F2A2OolI_slccKuA.png"
+        },
+        {
+          "t": "p",
+          "x": "Lo que molesta a la gente es que se activó sin consultarla. En marzo de 2026, Microsoft anunció que reduciría los \"puntos de entrada innecesarios de Copilot\" en Notepad, Snipping Tool, Photos y Widgets. Un ajuste que se restablece tras una actualización enseña a los usuarios una sola regla: esta empresa pasará por encima de mí."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1000/1*7yaE0--HMN9rGsXsmamCKg.gif"
+        },
+        {
+          "t": "p",
+          "x": "UBS estima que las grandes empresas de la nube invertirán cerca de 4.1 billones de dólares en capex entre 2026 y 2028, mientras que el grupo NANDA del MIT halló que el 95 por ciento de las empresas no obtuvo un retorno medible de sus pilotos de AI generativa."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Cwicgkr_ZVmyYTN1j18eCA.png",
+          "cap": "Gráfico de Jon Sabutis, a partir de estimaciones de UBS, agosto de 2026"
+        },
+        {
+          "t": "p",
+          "x": "Su regla: crear funciones con AI, no funciones de AI, como Smart Compose o la herramienta Remove de Photoshop. Antes de lanzar algo, hay que preguntarse quién lo pidió, a qué debe su nombre, si se lanzaría desactivado por defecto y si sobreviviría a precio de costo."
+        }
+      ]
     }
   }
 }

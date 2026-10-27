@@ -1,34 +1,52 @@
 {
   "section": "marketing",
-  "generated_at": "2026-10-25T22:00:38Z",
+  "now_iso": "2026-10-27T01:45:00Z",
   "window_hours": 72,
   "items": [
     {
-      "title": "Google Ads AI tool copies Search campaigns into 10 new languages",
-      "url": "https://ppc.land/google-ads-ai-tool-copies-search-campaigns-into-10-new-languages/",
-      "source": "PPC Land",
-      "published_iso": "2026-10-25T13:46:58Z",
-      "og_image": "https://ppc.land/content/images/2026/10/google-ads-ai-campaign-localization-10-languages-typewriter-speech-bubbles.jpg",
-      "excerpt": "Google Ads' AI localization tool now copies English (US) Search campaigns into 10 new languages; budgets copy across with no currency conversion, and promised Performance Max support has yet to be confirmed.",
+      "title": "The RealReal won’t let AI agents hog designer clothing",
+      "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+      "source": "The Verge",
       "category": "marketing",
+      "published_iso": "2026-10-26T17:30:55+00:00",
+      "excerpt": "AI agents could break even the most unexpected parts of the web.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "title": "Google Sells Itself As A Commerce 'Matchmaker,' Not A Retailer",
+      "url": "https://www.adweek.com/commerce/google-sells-itself-as-a-commerce-matchmaker-not-a-retailer/",
+      "source": "Adweek",
+      "category": "marketing",
+      "published_iso": "2026-10-26T11:51:00-04:00",
+      "excerpt": "The search giant wants to control how people discover new brands.",
+      "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/10/Google-Universal-Cart.jpg?w=600&h=315&crop=1",
       "history_match": {
-        "score": 0.168,
-        "date": "2026-10-16",
-        "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-        "title": "Google's Universal Cart shopping tool launches in the US",
+        "score": 0.178,
+        "date": "2026-10-15",
+        "url": "https://www.digitalcommerce360.com/2026/10/12/newegg-adds-google-ucp-checkout-integration/",
+        "title": "Newegg adds Google UCP checkout integration",
         "band": "related"
       }
     },
     {
-      "title": "Google AI writes positive-only review summaries into Search ads in 4 markets",
-      "url": "https://ppc.land/google-ai-writes-positive-only-review-summaries-into-search-ads-in-4-markets/",
-      "source": "PPC Land",
-      "published_iso": "2026-10-25T13:42:52Z",
-      "og_image": "https://ppc.land/content/images/2026/10/google-ai-review-summaries-search-ads-positive-only-billboard-hand.jpg",
-      "excerpt": "Google is inserting AI-generated, positive-only review summaries into Search ads in four markets. Advertisers cannot edit the text, which Google shows only when it predicts better ad performance; the help page omits opt-out and sourcing details.",
+      "title": "ChatGPT Ads With Learn More Arrow Link - Some Through Amazon DSP",
+      "url": "https://www.seroundtable.com/chatgpt-ads-learn-more-amazon-dsp-42371.html",
+      "source": "Search Engine Roundtable",
       "category": "marketing",
+      "published_iso": "2026-10-26T07:31:00-04:00",
+      "excerpt": "OpenAI seems to be rolling out a new ad format for some ChatGPT Ad units that have a Learn more link, that is dotted and underlined, and also with an arrow going upwards.  And in some cases, ChatGPT Ads seem to be served with Amazon DSP.",
+      "og_image": "https://images.seroundtable.com/chatgpt-ads-learn-more-link-xA1W3tjY.png"
+    },
+    {
+      "title": "Google Ads 1-Click AI Max Experiment",
+      "url": "https://www.seroundtable.com/google-ads-1-click-ai-max-experiment-42324.html",
+      "source": "Search Engine Roundtable",
+      "category": "marketing",
+      "published_iso": "2026-10-26T07:11:00-04:00",
+      "excerpt": "Google Ads updated its frequently asked questions page for AI Max search campaigns with a section on 1-click AI Max experiments. Google wrote in the document, \"If your account is eligible, you may find a 1-click experiment recommendation on your Recommendations page.\"",
+      "og_image": "https://images.seroundtable.com/google-ads-click-logo-BmIQBDor.jpg",
       "history_match": {
-        "score": 0.169,
+        "score": 0.177,
         "date": "2026-10-10",
         "url": "https://www.seroundtable.com/google-ads-text-customization-asset-previews-42264.html",
         "title": "Google Ads Text Customization Asset Previews",
@@ -36,91 +54,152 @@
       }
     },
     {
+      "title": "The Daily Mail tests GEO with brands ahead of AI visibility product",
+      "url": "https://digiday.com/media/the-daily-mail-tests-geo-with-brands-ahead-of-ai-visibility-product/",
+      "source": "Digiday",
+      "category": "marketing",
+      "published_iso": "2026-10-26T04:01:00+00:00",
+      "excerpt": "The Daily Mail is running around a dozen GEO tests before turning its AI visibility offering into an official product next year.",
+      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-identity-digiday.jpg",
+      "history_match": {
+        "score": 0.153,
+        "date": "2026-10-16",
+        "url": "https://ppc.land/meta-will-turn-on-product-browsing-in-existing-ads-on-october-28/",
+        "title": "Meta will turn on product browsing in existing ads on October 28",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Etsy forces sellers to show one unaltered photo in every listing",
+      "url": "https://ppc.land/etsy-forces-sellers-to-show-one-unaltered-photo-in-every-listing/",
+      "source": "PPC Land",
+      "category": "marketing",
+      "published_iso": "2026-10-25T15:02:04.000Z",
+      "excerpt": "Bot-generated listings and AI-made patterns or recipes are now barred for nearly 6 million sellers. Removals of violating listings expand in the coming months.",
+      "og_image": "https://ppc.land/content/images/size/w1200/2026/10/etsy-ai-listing-rules-unaltered-photo-real-vase-cardboard-fakes.jpg",
+      "history_match": {
+        "score": 0.214,
+        "date": "2026-10-24",
+        "url": "https://www.retaildive.com/news/etsy-updates-ai-use-policies-emphasize-craftsmanship/833838/",
+        "title": "Etsy updates AI use policies to emphasize craftsmanship",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Hidden reading-app clicks ran nearly 25x above other traffic, IAS says",
+      "url": "https://ppc.land/hidden-reading-app-clicks-ran-nearly-25x-above-other-traffic-ias-says/",
+      "source": "PPC Land",
+      "category": "marketing",
+      "published_iso": "2026-10-25T22:17:47.000Z",
+      "excerpt": "Desktop apps refreshed ads on locked screens; Genisys ran through nearly 500 AI-made domains. IAS's October 21 recap adds no new data. What did it leave out?",
+      "og_image": "https://ppc.land/content/images/size/w1200/2026/10/ias-papyrus-reading-app-hidden-clicks-puppeteer-hand-novel.jpg"
+    },
+    {
       "title": "Google Ads search terms report adds 4 source columns for AI Max traffic",
       "url": "https://ppc.land/google-ads-search-terms-report-adds-4-source-columns-for-ai-max-traffic/",
       "source": "PPC Land",
-      "published_iso": "2026-10-25T13:45:19Z",
-      "og_image": "https://ppc.land/content/images/2026/10/google-ads-ai-max-search-terms-source-columns-ledger-stamps.jpg",
-      "excerpt": "For AI Max campaigns, the search terms report now shows match, landing page, headline and description sources beside each query, giving advertisers a view into what Google's AI generated and where it sent traffic.",
       "category": "marketing",
+      "published_iso": "2026-10-25T13:45:19.000Z",
+      "excerpt": "Match, landing page, headline and description sources now sit beside each search term for AI Max campaigns. Google's help page does not yet list the columns.",
+      "og_image": "https://ppc.land/content/images/size/w1200/2026/10/google-ads-ai-max-search-terms-source-columns-ledger-stamps.jpg",
       "history_match": {
-        "score": 0.337,
-        "date": "2026-10-16",
-        "url": "https://www.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-42287.html",
-        "title": "Google Ads Search Terms and Ad Combinations Report (AI Max)",
+        "score": 0.331,
+        "date": "2026-10-09",
+        "url": "https://www.seroundtable.com/google-ads-new-ai-max-columns-42256.html",
+        "title": "Google Ads New AI Max Columns",
         "band": "related"
       }
     },
     {
-      "title": "Google Ads expands Smart Bidding Exploration to Performance Max and Shopping campaigns",
-      "url": "https://searchengineland.com/google-ads-expands-smart-bidding-exploration-to-performance-max-and-shopping-campaigns-498529",
-      "source": "Search Engine Land",
-      "published_iso": "2026-10-23T18:25:26Z",
-      "og_image": "https://searchengineland.com/wp-content/seloads/2026/10/Google-Ads-Performance-Dashboard-1.png",
-      "excerpt": "Google's Smart Bidding Exploration, which lets AI bidding loosen ROAS targets (5-30% tolerance) to chase additional conversions, now extends to Performance Max and Shopping campaigns; portfolio bid strategies switch it off.",
+      "title": "Why Clorox shifted from creating brand campaigns to systems of relevance",
+      "url": "https://www.marketingdive.com/news/why-clorox-shifted-from-creating-brand-campaigns-to-systems-of-relevance/838232/",
+      "source": "Marketing Dive",
       "category": "marketing",
-      "history_match": {
-        "score": 0.175,
-        "date": "2026-10-11",
-        "url": "https://ppc.land/google-optimises-its-own-revenue-advertisers-have-to-optimise-theirs/",
-        "title": "Google optimises its own revenue. Advertisers have to optimise theirs",
-        "band": "related"
-      }
+      "published_iso": "2026-10-26T10:18:00-04:00",
+      "excerpt": "CMO Eric Schwartz dug into Pine-Sol, Brita and Hidden Valley marketing that prioritized “intentional but flexible” and “insightful but bite-sized” efforts.",
+      "og_image": null
     },
     {
-      "title": "Q3: Omnicom's Media Business Is Growing, But Is It Agent-Proof?",
-      "url": "https://www.adexchanger.com/agencies/q3-omnicoms-media-business-is-growing-but-is-it-agent-proof/",
+      "title": "B2B Buying Decisions Are Moving Where Ad Tech Can’t See",
+      "url": "https://www.adexchanger.com/data-driven-thinking/b2b-buying-decisions-are-moving-where-ad-tech-cant-see/",
       "source": "AdExchanger",
-      "published_iso": "2026-10-22T23:34:10Z",
-      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/10/robot-flying-pencil.jpg",
-      "excerpt": "If AI agents can plan and buy media, who needs a holding company? The question came up during Omnicom's Q3 earnings call, as agentic buying pressures the holdco media model.",
       "category": "marketing",
-      "history_match": {
-        "score": 0.207,
-        "date": "2026-10-07",
-        "url": "https://digiday.com/media-buying/omnicom-media-and-rembrand-partner-to-evolve-in-content-ad-placements/",
-        "title": "Omnicom Media and Rembrand partner to evolve in-content ad placements",
-        "band": "related"
-      }
+      "published_iso": "2026-10-26T04:35:48+00:00",
+      "excerpt": "As B2B buying shifts toward AI-assisted research, private peer conversations and dark social sharing, buyers become invisible to our measurement solutions.",
+      "og_image": "https://adexchanger.com/wp-content/uploads/2026/06/Margarita-Savytska-Sojourn-Solutions.jpg"
     },
     {
-      "title": "Cybersecurity bounty hunter says Samsung TVs use AI to record audio and screenshots for ads",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting",
-      "source": "Tom's Hardware",
-      "published_iso": "2026-10-25T10:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/EiDyWR9Yo8wN9DnMZqQdJ4-2560-80.jpg",
-      "excerpt": "A researcher who reverse-engineered his Samsung TV says it runs an on-device AI model that collects screenshots, skipped-ad behavior and audio via connected soundbars to feed ad targeting. (Off-list: no on-list outlet covered it.)",
-      "category": "marketing"
+      "title": "ChatGPT Rarely Named Some Brands Even When Sources Mentioned Them",
+      "url": "https://www.searchenginejournal.com/chatgpt-brand-mentions-cited-pages-graphite/594379/",
+      "source": "Search Engine Journal",
+      "category": "marketing",
+      "published_iso": "2026-10-26T12:24:23+00:00",
+      "excerpt": "Brands logged-out ChatGPT rarely named without search also showed up less when it searched, even with cited-page coverage, in new comparison-prompt data.",
+      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/chatgpt-brand-mentions-featured.jpg"
     },
     {
-      "title": "China Unveils AI Advertising Governance Framework to Tackle Fake Endorsements and Misleading Content",
-      "url": "https://cn.ibtimes.com/china-ai-generated-advertising-governance-framework-1812606",
-      "source": "IBTimes China",
-      "published_iso": "2026-10-26T01:39:39+08:00",
-      "og_image": "https://d.cn.ibtimes.com/en/full/1824086/china-artificial-intelligence-digital-advertising-content-moderation.jpg",
-      "excerpt": "A blue book released at the China International Advertising Festival lays out a governance framework for AI-generated ads, including multimodal detection, platform safeguards against fake AI endorsements and stronger consumer protection. (Off-list: no on-list coverage.)",
-      "category": "marketing"
+      "title": "\"AI가 나만 비싸게 받나\"…美서 불안 확산",
+      "url": "https://zdnet.co.kr/view/?no=20261027090035",
+      "source": "ZDNet Korea",
+      "category": "marketing",
+      "published_iso": "2026-10-27T09:12:12+09:00",
+      "excerpt": "미국에서 유통·외식업체들이 인공지능(AI)과 개인 데이터를 활용해 소비자마다 다른 가격을 책정하는 것 아니냐는 우려가 커지고 있다. 기업들은 실제로 이 같은 방식의 가격 책정을 하지 않는다고 부인하고 있지만, 소비자 불안이 확산하면서 관련 규제도 잇따르고 있다.26일(현지시간) 월스트리트저...",
+      "og_image": "https://image.zdnet.co.kr/2026/06/06/a307341ee630b390235c542bfeaf83a3.jpg"
+    },
+    {
+      "title": "인스타카트, AI 쇼핑카트 사업 접는다…도어대시 매각설 속 사업 재편",
+      "url": "https://zdnet.co.kr/view/?no=20261027092437",
+      "source": "ZDNet Korea",
+      "category": "marketing",
+      "published_iso": "2026-10-27T09:26:23+09:00",
+      "excerpt": "인스타카트가 식료품 소매업체를 대상으로 제공해 온 첨단 쇼핑카트 서비스를 중단한다. 이는 회사 매각을 논의 중이라는 보도가 나온 이후 처음으로 발표한 사업 전략 변화다.26일(현지시간) 블룸버그 등 외신에 따르면 태블릿과 카메라, 무게 감지 센서가 장착된 스마트카트인 ‘케이퍼카트’는 고객이...",
+      "og_image": "https://image.zdnet.co.kr/2026/08/18/40f3af41fb39513f7952bc336325eb2b.jpg"
+    },
+    {
+      "title": "150만개 상품 속 ‘내 팀 코디’ 찾는다…파나틱스, 오픈AI와 맞손",
+      "url": "https://zdnet.co.kr/view/?no=20261027082849",
+      "source": "ZDNet Korea",
+      "category": "marketing",
+      "published_iso": "2026-10-27T08:58:54+09:00",
+      "excerpt": "글로벌 스포츠 MD 기업 파나틱스가 오픈AI와 손잡고 유니폼에 어울리는 모자와 양말 등을 추천하는 쇼핑 기능을 선보였다. 150만개가 넘는 상품 가운데 응원하는 구단과 원하는 스타일에 맞는 조합을 제안해 고객의 상품 탐색을 돕는 방식이다.26일(현지시간) CNBC에 따르면 파나틱스는 오픈A...",
+      "og_image": "https://image.zdnet.co.kr/2026/10/27/f7932f2f8a313f149fa817c83ffd792c.png"
+    },
+    {
+      "title": "카드사 '에이전트 커머스' 시대 연다…내년 에이전트 페이 출시",
+      "url": "https://www.etnews.com/20261023000282",
+      "source": "전자신문",
+      "category": "marketing",
+      "published_iso": "2026-10-25T16:00:00+09:00",
+      "excerpt": "국내 카드사가 정부 대국민 프로젝트 '모두의 AI' 사업에 인공지능(AI)기반 에이전틱 결제 접목을 시도한다. 모두의 AI 사업에 커머스를 접목해 새로운 결제 생태계를 만들겠다는 구상이다. 25일 여신업계에 따르면 과학기술정보통신부와 SKT·카카오·KT 3개 컨소시엄이 주도하는 '모두의 AI' 프로젝트에서 카드사가 에이전트 페이를 추진한다. 신한카드·하나카드는 SKT 컨소시엄, 비씨카드는 KT 컨소시엄에 참여한다. 목표는 내년 상반기 AI 에이",
+      "og_image": "https://img.etnews.com/news/article/2026/07/21/news-p.v1.20260721.7d383385ec2a467e8d1e129ec7040970_P1.jpg"
+    },
+    {
+      "title": "AI 큐레이터가 상품 추천 …롯데 칼리버스·백화점, 시시호시 협업",
+      "url": "https://www.etnews.com/20261027000073",
+      "source": "전자신문",
+      "category": "marketing",
+      "published_iso": "2026-10-27T09:46:18+09:00",
+      "excerpt": "롯데이노베이트 자회사 칼리버스가 AI 큐레이션과 몰입형 쇼핑 경험을 결합해 유통 분야 인공지능 전환(AX)에 속도를 낸다. 패션·가전·스포츠에 이어 라이프스타일까지 적용 범위를 넓히며 롯데 유통 계열사와의 협업을 확대하고 있다. 칼리버스는 롯데백화점의 라이프스타일 편집숍 '시시호시(SISIHOSI)'와 협업해 롯데백화점몰 모바일 앱에 '시시호시 이머시브 스토어'를 선보였다고 27일 밝혔다. 지난 7월 첫 서비스를 시작한 이후 네 번째 협업 사례",
+      "og_image": "https://img.etnews.com/news/article/2026/10/27/news-p.v1.20261027.a44a1a33dbea43eba28b5a07e98a5dd4_P1.jpg"
+    },
+    {
+      "title": "뉴엔AI, 넷플릭스코리아와 브랜드 파트너십 성과 분석에 '맞손'",
+      "url": "https://www.etnews.com/20261026000403",
+      "source": "전자신문",
+      "category": "marketing",
+      "published_iso": "2026-10-27T08:00:00+09:00",
+      "excerpt": "산업 맞춤형 인공지능(AI) 기술 기업 뉴엔AI(대표 배성환)는 넷플릭스코리아와 브랜드 파트너십 성과 분석을 위한 데이터 협업을 진행한다고 27일 밝혔다. 뉴엔AI는 넷플릭스코리아가 전개하는 브랜드 파트너십 캠페인과 연계 프로모션의 온라인 화제성 및 소비자 반응을 정밀하게 측정·지원한다. 최근 엔터테인먼트 산업 내 브랜드 간 협업 캠페인이 다각화됨에 따라, 객관적인 데이터를 바탕으로 소비자 반응을 포착하고 캠페인의 실질적인 파급 효과를 검증하는",
+      "og_image": "https://img.etnews.com/news/article/2026/10/26/news-p.v1.20261026.8f4f4de999ab4888ad7ec1ad27f61b39_P1.png"
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 8,
+    "kept": 17,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
-    "dropped": [
-      {
-        "url": "https://digiday.com/marketing/ai-boosts-discovery-but-reviews-still-seal-the-deal-new-research-shows/",
-        "title": "AI boosts discovery but reviews still seal the deal, new research shows",
-        "match": {
-          "score": 0.756,
-          "date": "2026-10-23",
-          "url": "https://www.modernretail.co/ai-strategies/ai-boosts-discovery-but-reviews-still-seal-the-deal-new-research-shows/",
-          "title": "AI boosts discovery but reviews still seal the deal, new research shows"
-        }
-      }
-    ],
+    "dropped": [],
     "review": 5,
     "same_story_pairs": []
   },
@@ -574,6 +653,31 @@
       "date": "2026-10-25",
       "title": "Pennsylvania will require labels on AI-generated ads",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
+    },
+    {
+      "date": "2026-10-26",
+      "title": "China Unveils AI Advertising Governance Framework to Tackle Fake Endorsements and Misleading Content",
+      "url": "https://cn.ibtimes.com/china-ai-generated-advertising-governance-framework-1812606"
+    },
+    {
+      "date": "2026-10-26",
+      "title": "Google Ads AI tool copies Search campaigns into 10 new languages",
+      "url": "https://ppc.land/google-ads-ai-tool-copies-search-campaigns-into-10-new-languages/"
+    },
+    {
+      "date": "2026-10-26",
+      "title": "Google AI writes positive-only review summaries into Search ads in 4 markets",
+      "url": "https://ppc.land/google-ai-writes-positive-only-review-summaries-into-search-ads-in-4-markets/"
+    },
+    {
+      "date": "2026-10-26",
+      "title": "Google Ads expands Smart Bidding Exploration to Performance Max and Shopping campaigns",
+      "url": "https://searchengineland.com/google-ads-expands-smart-bidding-exploration-to-performance-max-and-shopping-campaigns-498529"
+    },
+    {
+      "date": "2026-10-26",
+      "title": "Cybersecurity bounty hunter says Samsung TVs use AI to record audio and screenshots for ads",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting"
     }
   ]
 }

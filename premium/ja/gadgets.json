@@ -9214,6 +9214,149 @@
           "x": "この機能は有料のWorkspace顧客に限らない。対象となるGoogle Workspace、Workspace Individual、個人のGoogleアカウントのユーザーは、Web、Android、iOSで今すぐ利用できる。"
         }
       ]
+    },
+    "gadgets/gadgets-orisa": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/recovering-deleted-ai-chats.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Manisha Priyadarshini / Digital Trends"
+        },
+        {
+          "t": "p",
+          "x": "AIチャットボットとの会話を削除すれば本当に消えると思っていなかっただろうか。Georgia Techの研究者は、スマートフォンから削除済みの会話を掘り起こし、そのまま会話を続けられるチャットボットセッションとして再構築までできるフォレンジックツール「ORISA」を開発した。"
+        },
+        {
+          "t": "p",
+          "x": "ローカルAIアシスタントは会話をクラウドに送らないが、アプリの実行中はそのデータがスマートフォンのワーキングメモリに残る。そのため、アプリでチャットを削除しても必ずしも消えるわけではない。ORISAはこうした残存断片を探し出してつなぎ合わせ、実際に動くAIセッションとして復元する。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/overview-of-orisa.jpg?resize=2238%2C812&ssl=1",
+          "cap": "ORISAの設計の概要。Georgia Tech"
+        },
+        {
+          "t": "p",
+          "x": "ある実験では、Project Note Keeperという架空のアシスタントに100の事実を与えた後、会話を削除した。その時点でライブセッションが参照できた事実は14だけだったが、ORISAは26を復元した。10のAndroidアプリと三つのAIモデルにまたがる60のテスト構成で、このツールは削除された会話データを復元した。"
+        },
+        {
+          "t": "p",
+          "x": "研究者によれば、ORISAは誰かがAIアシスタントに何を共有したかを捜査員が再構成する助けになりうる。チャットボットの助言が患者に害を与えた可能性のある事案も含まれる。一方で、オンデバイスAIの利用者にとってはプライバシー上の懸念も生じる。ORISAは捜査員向けのフォレンジックツールで、スマートフォンのメモリとストレージのコピーが必要であり、他の操作でデータが上書きされると復元は難しくなる。"
+        }
+      ]
+    },
+    "gadgets/gadgets-rayban-meta-training": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ray-ban-meta-ki-training-teaser.jpg",
+          "cap": "フレームにカメラを備えたRay-Ban Metaのメガネ。この設定をオフにしない限り、MetaはAIリクエストの画像を保存する。"
+        },
+        {
+          "t": "p",
+          "x": "Ray-Ban Metaのメガネに看板の文字を尋ねると、Metaに写真が送られる。視覚データに関するMetaのヘルプページによれば、同社はAIリクエストで撮影されたこれらの画像を保存し、自動システムまたは人によるレビューを通じてモデルの学習に使う場合がある。9月24日からはこれをオフにできる。音声には別の設定があり、どこまで管理できるかは住んでいる地域によって異なる。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/2/6/csm_ray-ban-meta-ai-training-settings-en_890c1a5d02.png",
+          "cap": "視覚データの設定はAIリクエストの画像にのみ適用される。US以外では音声録音に別の設定がある。"
+        },
+        {
+          "t": "p",
+          "x": "Meta AIアプリでメガネの設定を開き、Experiencesの下にあるMeta AIをタップして「Store visual data from AI experiences」（AI体験の視覚データを保存）をオフにする。オフにすると、視覚データは人によるレビューの対象にならず、学習にも使われず、リクエストへの応答後は保存されない。視覚リマインダーなどの機能は制限される場合があり、変更はこれ以降にのみ適用される。"
+        },
+        {
+          "t": "p",
+          "x": "音声の扱いは地域によって異なる。USでは書き起こしと録音が既定で保存され、所有者は2025年4月にこれをオフにする選択肢を失った。UKとドイツの通知では選択が可能だ。保存された録音は最長で一年保管され、訓練を受けたスタッフが確認することがある。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_ray-ban-meta-ai-training-steps-en_1128925689.png",
+          "cap": "Meta AIアプリでの五つの手順で、メガネごとに繰り返す必要がある。過去の音声録音は手動で削除しなければならない。"
+        },
+        {
+          "t": "p",
+          "x": "周囲の人を対象とする設定はなく、MessengerやInstagramでMeta AIと共有した画像は視覚データの設定の対象外だ。"
+        }
+      ]
+    },
+    "gadgets/gadgets-rtx-tensor-throttle": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/4Yvp7ck4v6d8JPBoNXVPfe.jpg",
+          "cap": "Nvidia GeForce RTX 4090 Founders Edition（画像提供：Nvidia）"
+        },
+        {
+          "t": "p",
+          "x": "VideoCardzによると、改造愛好家らがファームウェアのエクスプロイトを使い、Nvidia RTX 20、30、40-series GPUsに課された半分の速度のAI性能制限を外す方法を見つけた。制限がなくなるとRTX 4090はピークのテンソル演算速度が倍になり、RTX 3090 Tiでは行列演算が最大80%向上しうる。実際のワークロードでの伸びはかなり小さく、チャットボットのトークン速度はメモリ帯域幅に左右されるためほぼ変わらない。"
+        },
+        {
+          "t": "p",
+          "x": "NvidiaのGeForce向け制限は、FP32-accumulate演算を各カードのFP16-accumulate速度の半分で動かすものだ。turing-unlock（RTX 2080 Ti）、gpu-unlock（Ampere）、gpu-unlock-ada（RTX 4090）の三つのプロジェクトが非公式のLinuxモジュールで制限解除を提供しており、RTX 50（Blackwell）は対象外だ。"
+        },
+        {
+          "t": "p",
+          "x": "Adaフォークの開発者のRTX 4090は、FP16で165.6から331.6 TFLOPSに向上した。ただし、あるオーナーの行列乗算ベンチマークでは、cuBLAS GEMMの中央値の改善は12–34%（FP16）、最大20%（BF16）にとどまった。Ampereでは、LLMのprefillが14–36%改善したが、LLMのdecodeとINT8は「ほぼ同じ」だった。"
+        },
+        {
+          "t": "p",
+          "x": "turing-unlockのREADMEはこの改造が「ハードウェアを損傷する可能性がある」と警告し、KohakUnlockは「GPUやホストをハングさせ、起動を妨げ、データを破損させ、またはハードウェアを損傷する可能性がある」としている。"
+        }
+      ]
+    },
+    "gadgets/gadgets-even-g2-update": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/Even-Realities-G2-smart-glasses-13.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Even Realitiesは本日、G2スマートグラスに新しいソフトウェアバージョンを配信すると発表した。ユーザーが伝えたことだけを記憶する個人用ナレッジベースも備える。"
+        },
+        {
+          "t": "p",
+          "x": "Conversateには、Knowledge Baseからデータを取り込む刷新された「Pro Mode」が加わる。Knowledge Baseは、ユーザーが選んだ情報やデータを記憶する機能だ。これらの刷新はG2バージョン2.4.0アップデートに含まれ、AIインターフェースもEven AI 2.0に更新される。"
+        },
+        {
+          "t": "p",
+          "x": "Conversateの録音と手動でアップロードしたファイルはEUにある安全なGoogle Cloud Platformサーバーと同期され、Even AI 2.0と進行中のConversateセッションはKnowledge Baseから文脈を取得する。ユーザーはセットアップ時に最大10件のConversate記録を選べ、自動アップロードをオンにしない限り新しいセッションは自動では追加されない。"
+        },
+        {
+          "t": "p",
+          "x": "Even AI 2.0では、タッチセンサーの長押しによる起動、ウェイクワードを言い直さずに続けられるマルチターン会話、AIチャットからのEven Hubアプリの起動や設定変更が加わった。Knowledge BaseとConversate Pro Modeは本日、月間利用枠付きのベータ版として提供が始まる。べっ甲柄の新色も用意された。"
+        }
+      ]
+    },
+    "gadgets/gadgets-topc-txa2": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/2fiT6TDsU78hzS4Mg3E8Rm-1920-80.png",
+          "cap": "画像提供: Minimachines"
+        },
+        {
+          "t": "p",
+          "x": "中国メーカーのTOPCが、価格が$7,000近い銅色の小型ワークステーションTXA2を発表した。192GB LPDDR5Xメモリを搭載し、SSDs四基に対応するほか、最大8K 解像度で四台のモニターへ同時出力できる。"
+        },
+        {
+          "t": "p",
+          "x": "中核となるのはAMDのRyzen AI Max+ PRO 495で、16 CPUコア、32スレッド、Radeon 8065Sグラフィックスを備える。内蔵グラフィックスはシステムメモリを最大160GB まで利用でき、負荷の高いAIモデルをローカルで動かすうえで大きな余裕がある。8,533MHz のメモリはマザーボードにはんだ付けされており、増設はできない。"
+        },
+        {
+          "t": "p",
+          "x": "ストレージはM.2 2280 NVMeスロット四基で、うち二基がPCIe 4.0 x4、二基がPCIe 4.0 x2だ。接続端子は10GbE、2.5GbE、HDMI 2.1、DisplayPort 2.1、USB4、Wi-Fi 7、Bluetooth 5.4をそろえる。"
+        },
+        {
+          "t": "p",
+          "x": "容積約2.5リットルの筐体は重さ2.319 kg で、四基のファンを備える。ピーク時140W、連続120W に対応するとされるが、TOPCは騒音レベルを公表していない。"
+        },
+        {
+          "t": "p",
+          "x": "価格は2TB 構成が$6,499、4TB 構成が$6,799からで、別途配送料$69がかかり、輸入関税と税金は含まれない。比較的無名のブランドで保証も一年のみとなれば、$7,000近い買い物はかなりの賭けだ。"
+        }
+      ]
     }
   }
 }

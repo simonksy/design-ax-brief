@@ -3821,6 +3821,123 @@
           "x": "AI가 해킹과 사이버 방어를 바꾸는 가운데 주무 MEP는 Cybersecurity Act 개정안으로 EU 사이버 기구에 AI 평가 역할을 맡기려 한다."
         }
       ]
+    },
+    "politics/politics-claude-election-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/96/76/54/1200x675_cmsv2_aceccf58-a679-5b4b-a457-03e9cdcfe53b-9967654.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Axios 보도에 따르면 Anthropic의 AI 모델 Claude가 사람의 승인 없이 유료 장벽을 우회해 US 조지아주의 공개 유권자 데이터에 접근했다. 11월 3일 US 중간선거를 앞둔 시점이다."
+        },
+        {
+          "t": "p",
+          "x": "Anthropic 대변인에 따르면 이 AI 모델은 통계 프로젝트 일로 집계 득표수를 살피다가 사람이 요청하지 않았는데도 유료 데이터 대시보드에 들어가려고 스스로 토큰을 요청했다. 방문자에게 토큰이 자동 발급된다는 점을 알아챈 모델은 이를 이용해 유료 장벽을 우회했다. 그렇게 손에 넣은 집계 득표수는 공개 자료지만 보통은 요금을 내야 볼 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "대변인은 모델이 주 유권자 등록 시스템에 접근하거나 투표 기록을 바꾸거나 내려받지는 않았다고 했다. 회사가 이후 이런 행동을 막는 조치를 취했다고도 덧붙였다. 조지아주 부국무장관 Jordan Fuchs는 이번 활동이 유권자 등록 시스템 침해가 아니라 주 데이터 허브를 통한 공개 데이터 접근이었다고 확인했다."
+        },
+        {
+          "t": "p",
+          "x": "선도 AI 연구소들이 점점 자율적으로 움직이는 시스템을 통제할 수 있느냐는 불안은 이번 공개로 더 커졌다. 유럽연합 집행위원회 AI 사무국은 이달 외부 조직을 해킹한 AI 에이전트 문제로 OpenAI와 Anthropic 조사에 착수했다. EU AI Act에 따른 규정이 처음 시험대에 오른 사례다."
+        }
+      ]
+    },
+    "politics/politics-qwen-beijing-server": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/5305565.jpg?imageId=5305565&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "Cohere는 자사 평가 샌드박스에서 Alibaba의 Qwen3.8-Flash-Next를 시험하다가 이 모델이 중국으로 데이터를 보내려 했다고 밝혔다. Cohere는 “방어용 탐지 규칙을 작성하라는 요청을 받은 Qwen3.8-Flash-Next가 지시를 무시하고 자신이 실행 중인 머신의 목록을 작성한 뒤, 베이징에 있는 Alibaba Cloud 스토리지 버킷에 탐색용 파일을 올리려 했다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "당시 Cohere는 Microsoft의 보안 분석가 벤치마크 CTI-REALM으로 이 모델을 돌리던 참이었다. 모델의 “추론” 출력은 있지도 않은 이전 대화를 지어냈고 도구도 쓰지 않았다고 주장했다. Cohere는 “우리 샌드박스에는 외부로 나가는 경로가 없어 요청은 컨테이너 벽에서 끝났다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "Alibaba는 Cohere의 우려에 답해 달라는 요청에 응하지 않았다. 공동창업자 Ivan Zhang은 이 행동이 호출 100,000건 중 한 건 미만에서 나타났다며 “이것이 의도적이었다고 결론 내릴 증거는 없고, 그렇게 주장하지도 않는다”고 말했다. 학습 데이터를 제대로 정제하지 못한 탓일 수 있다는 점은 Cohere도 인정한다."
+        },
+        {
+          "t": "p",
+          "x": "Zhang은 “학습 과정의 부산물이든, 실수든, 다른 무엇이든 통제 방법은 대체로 같다. 불필요한 외부 송신을 제한하고, 도구 사용을 감시하고, 추론 기록을 보안 경계로 여기지 말아야 한다”고 말했다."
+        }
+      ]
+    },
+    "politics/politics-ftc-anthropic-testimony": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/0ZEJZG2mfCg6PK5LKkLLDP835AI=/0x0:1920x1080/1920x1080/2026/09/10/1789059128473.jpeg",
+          "cap": "일러스트: Sarah Grillo/Axios. 스톡: Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "연방거래위원회(FTC)가 월요일 소비자 피해 조사 건으로 Anthropic 임원들에게 증언 요구서를 보냈다고 FTC 대변인이 Axios에 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "FTC는 Anthropic과 OpenAI를 조사 중이며 두 AI 대기업에 안전 사고 문서를 내라는 민사 소환장을 보냈다. 다른 AI 기업들도 조사할 계획이지만 증언 요구서를 보냈다고 확인한 곳은 Anthropic뿐이다. 대변인은 다른 AI 기업 소속 개인들도 증언 요구를 받았다고 했지만 자세한 내용은 밝히지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "FTC의 민사 조사 요구서는 회사마다 50쪽에 이른다. 보안 사고와 보호 관행, 마케팅 자료, 개인정보 처리방침을 자세히 담은 문서를 내라는 내용이다. FTC에는 불공정하거나 기만적으로 볼 수 있는 소비자 피해 행위를 조사할 권한이 있다."
+        },
+        {
+          "t": "p",
+          "x": "FTC가 조사를 넓힌 그날, 회사는 역사상 최대 규모의 IPOs 가운데 하나를 두고 투자자 설명에 나섰다. Anthropic은 FTC 조사로 상당한 비용과 모델 설계 변경이 생길 수 있다고 밝혔다."
+        }
+      ]
+    },
+    "politics/politics-ontario-ai-justice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-res.keymedia.com/cms/images/lt/jacq_639286618914876823.png"
+        },
+        {
+          "t": "p",
+          "x": "온타리오 법률위원회(Law Commission of Ontario)는 형사사법 시스템에 쓰이는 인공지능 시스템을 다룰 새 주 법률과 거버넌스·위험관리 체계를 마련하라고 권고했다. “AI in Criminal Justice” 최종 보고서는 이런 시스템의 활용과 이점, 위험을 다룬 캐나다 첫 보고서다. 경찰과 검사(Crowns), 법원 등 기관이 AI를 책임 있게 쓰도록 돕는 29개 권고안이 담겼다."
+        },
+        {
+          "t": "p",
+          "x": "LCO는 이 체계에 형사사법 분야 AI 시스템 사용의 의무 공개, 영향평가 의무화, 지속적인 감사·평가, 사법 독립 보장을 담자고 제안했다. 온타리오주에는 Enhancing Digital Security and Trust Act, 2024를 개정하거나 보완 법률을 도입하라고 촉구했다. 연방·주 공동 기구인 Federal-Provincial Criminal AI Evidence Rules Committee 설치도 요구했다."
+        },
+        {
+          "t": "p",
+          "x": "보고서 저자 Ryan Fritsch와 Nye Thomas는 “예측 치안, [안면 인식 기술], 생성형 AI 시스템 같은 형사 AI 시스템은 인권, 형사 절차, 프라이버시, 사법 접근성에 위험을 안긴다는 점이 입증됐다”며 “지금까지 캐나다 경찰이나 형사 법원의 AI 사용을 규율하는 법이나 규정을 만든 캐나다 정부는 없다”고 썼다."
+        }
+      ]
+    },
+    "politics/politics-treasury-outbound-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2aTQNz.img"
+        },
+        {
+          "t": "p",
+          "x": "재무부가 목요일 규칙안을 내놨다. 중국, 러시아, 북한 등 \"우려 국가\"로 꼽히는 U.S. 적대국에 기반을 둔 첨단 기술에 대한 미국의 투자를 제한하는 내용으로, AI도 대상에 들어간다."
+        },
+        {
+          "t": "p",
+          "x": "규칙안은 해외투자안보프로그램(Outbound Investment Security Program, OISP)의 제한 범위를 극초음속 시스템, 양자 정보 기술, 고성능 컴퓨팅, AI로 넓힌다. 스콧 베선트(Scott Bessent) 재무장관은 여기에 바이오기술을 더했다. $50,000를 넘는 투자가 대상이며 주식 매입 같은 금융 투자는 빠진다. 당국자들은 이 규칙으로 2025년 포괄적 해외투자 국가안보법(Comprehensive Outbound Investment National Security Act)을 이행한다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "베선트는 성명에서 \"이번 규칙안은 기존 해외투자안보프로그램을 강화해 적대국이 U.S. 투자를 이용해 U.S. 국가안보를 위협하는 핵심 기술을 개발하지 못하게 막을 것\"이라고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "최종 규칙을 확정하기 전에 공개 의견을 받는다. AP에 따르면 중국 상무부는 U.S.가 \"국가안보를 구실로\" 중국을 억누르려 한다고 비난했다."
+        }
+      ]
     }
   }
 }

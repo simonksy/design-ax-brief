@@ -9653,6 +9653,142 @@
           "x": "ULPG works with any agent that can read Markdown, with no provider-specific plugin. The agent workflow treats page content as data, not instructions; says seeing isn't testing, so a screenshot can't prove keyboard accessibility; and keeps claims apart from verified results."
         }
       ]
+    },
+    "design/design-ideogram-svg": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.aitimes.com/news/photo/202610/216679_220802_5713.jpeg",
+          "cap": "(Photo: Ideogram)"
+        },
+        {
+          "t": "p",
+          "x": "The race in AI image generation is expanding from making good-looking pictures to producing files that can be used in real design work. On the 23rd (local time), Ideogram released 'Ideogram Vector,' a dedicated AI model that creates editable graphics from text and also converts existing images into vectors."
+        },
+        {
+          "t": "p",
+          "x": "Ideogram Vector generates an SVG file when users describe the design they want in words. It can also convert existing PNG or JPEG images into vector form. Because SVG is made of geometric elements such as lines, curves, color fills and gradients, it can be resized regardless of resolution, which matters for designs that must fit many sizes and media, such as logos, posters and product labels."
+        },
+        {
+          "t": "p",
+          "x": "For text-based generation, the company cited logos combining letters and shapes, decorative typography and illustrations built from simple forms as key use cases. However, once letters have been converted into vector paths, it may be hard to change the font or wording directly as with ordinary text. Image conversion also does not restore the original's layer structure, so how easy actual editing is needs to be checked."
+        },
+        {
+          "t": "video",
+          "yt": "jmQk4oa5EnM"
+        },
+        {
+          "t": "p",
+          "x": "An API is also available for developers. For text-based generation without image references, API pricing is $0.13~0.20 per image depending on the quality setting. High-quality generation with image references is priced at $0.32 per image."
+        }
+      ]
+    },
+    "design/design-figma-mcp-library": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1200/0*z97zDowA9lacbpjQ.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Christine Vallaure's practical guide for designers (Part 1 of the three-part series In-System Design) explains why her design system starts in code and how she builds, checks and maintains the Figma library from it."
+        },
+        {
+          "t": "p",
+          "x": "Handing the Figma-to-code route to an AI produced code that looked fine but invented what the file did not say: focus order, error states, what a screen reader announces. So she turned the direction around: \"Code is the source of truth. Figma mirrors it. Where they differ, Figma is wrong.\""
+        },
+        {
+          "t": "p",
+          "x": "The workflow: get safe access to the code, check that Storybook is running, open an empty Figma file with Figma Console MCP by Southleft, transfer tokens and text styles first, then build two test components such as Button and Alert before running the whole library — and ask for a GAPS.md every time, listing everything that could not be expressed in Figma."
+        },
+        {
+          "t": "p",
+          "x": "Repeated corrections become a skill, and a parity checker compares the Storybook component manifest with a matching Figma JSON list, name against name and default against default."
+        }
+      ]
+    },
+    "design/design-shopify-fullstack-designer": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "eojywvxqoLc"
+        },
+        {
+          "t": "p",
+          "x": "In this episode of Design Review, Marvin Schwaibold, who leads the product design studio at Shopify, joins YC's Aaron Epstein to walk through his design process. He shows the admin redesign and Sidekick work his team recently shipped, a weekend project where he rebuilt real grass as a shader, and a carousel that took 91 attempts to get right."
+        },
+        {
+          "t": "p",
+          "x": "His tooling has shifted from Figma to \"tools like Codex and Claude Code and being in terminal a lot,\" with Figma used as a scratch pad. \"The output isn't the issue anymore, it's us being extremely selective about what we go forward with,\" he says. \"We're more the editors now than ever before.\" AI \"can write code, but it doesn't know what looks good and what looks bad and that's for me to decide.\""
+        },
+        {
+          "t": "p",
+          "x": "Then they review five viewer-submitted websites with a focus on motion and interactivity."
+        }
+      ]
+    },
+    "design/design-moss-image": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-open-source-model.jpg"
+        },
+        {
+          "t": "p",
+          "x": "MOSS-Image, a 5-billion-parameter text-to-image model, was released on October 16, 2026, by the OpenMOSS team together with MOSI Intelligence. Code and weights are published under the Apache 2.0 license, allowing commercial use and unrestricted fine-tuning."
+        },
+        {
+          "t": "p",
+          "x": "It is a single-stream diffusion transformer (DiT) trained from scratch. Prompts can run to 4,096 tokens, text rendering is bilingual in Chinese and English, and the model accepts a structured JSON layout in which each text block and object is assigned its own bounding box."
+        },
+        {
+          "t": "img",
+          "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-json-layout-control.jpg",
+          "cap": "Conceptual illustration of MOSS-Image’s layout control: designers can place text and objects in bounding boxes through a JSON prompt instead of relying on prose. (Credit: Intelligent Living)"
+        },
+        {
+          "t": "p",
+          "x": "On the team's LongLongTextBench (LLTB), MOSS-Image scores 96.3 Mean-6 text coverage; the nearest open-weight competitor, Qwen Image 2512, manages 64.9. On RealLayoutArena the full system ranks second to GPT Image 2, while its backbone ranks first among generators given identical enhanced prompts. Every number in the report is vendor-run, so independent replication is still pending."
+        }
+      ]
+    },
+    "design/design-sparkle-button-essay": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*zO6YRwfqZ98I2mbNC4MBNw.png",
+          "cap": "Illustration by Jon Sabutis, built in HTML and CSS"
+        },
+        {
+          "t": "p",
+          "x": "Open any product you pay for and there is a sparkle in the top right corner, behind it a panel that says \"Ask anything\". Jon Sabutis, who writes code with AI every day, argues the tools got good but the products mostly did not, because they are the same product."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*GVI4I-F2A2OolI_slccKuA.png"
+        },
+        {
+          "t": "p",
+          "x": "What people resent is that it was turned on for them. In March 2026 Microsoft said it would cut \"unnecessary Copilot entry points\" in Notepad, the Snipping Tool, Photos and Widgets. A setting that resets after an update teaches users one rule: this company will override me."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1000/1*7yaE0--HMN9rGsXsmamCKg.gif"
+        },
+        {
+          "t": "p",
+          "x": "UBS estimates the big cloud companies will spend about $4.1 trillion on capex between 2026 and 2028, while MIT's NANDA group found 95 percent of companies saw no measurable return from their generative AI pilots."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Cwicgkr_ZVmyYTN1j18eCA.png",
+          "cap": "Chart by Jon Sabutis, from UBS estimates, August 2026"
+        },
+        {
+          "t": "p",
+          "x": "His rule: build features with AI, not AI features, like Smart Compose or Photoshop's Remove tool. Before shipping, ask who asked, what it is named after, whether you would ship it off by default, and whether it would survive at cost price."
+        }
+      ]
     }
   }
 }

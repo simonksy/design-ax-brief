@@ -15615,6 +15615,142 @@
           "x": "ULPG는 Markdown을 읽을 수 있는 에이전트라면 어디서든 작동하고 특정 제공사 전용 플러그인도 필요 없다. 에이전트 워크플로는 페이지 콘텐츠를 지시가 아닌 데이터로 다룬다. 보는 것은 테스트가 아니어서 스크린샷으로는 키보드 접근성을 증명할 수 없다고 짚고, 주장과 검증된 결과를 따로 나눠 둔다."
         }
       ]
+    },
+    "design/design-ideogram-svg": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.aitimes.com/news/photo/202610/216679_220802_5713.jpeg",
+          "cap": "(사진=이디오그램)"
+        },
+        {
+          "t": "p",
+          "x": "AI 이미지 생성 경쟁이 보기 좋은 그림을 만드는 단계에서 실제 디자인 작업에 활용할 수 있는 파일을 만드는 단계로 확장되고 있다. 이디오그램(Ideogram)은 23일(현지시간) 텍스트로 편집 가능한 그래픽을 만들고 기존 이미지도 벡터로 변환하는 전용 AI 모델 ‘이디오그램 벡터(Ideogram Vector)’를 공개했다."
+        },
+        {
+          "t": "p",
+          "x": "이디오그램 벡터는 사용자가 원하는 디자인을 글로 설명하면 SVG 파일을 생성한다. 기존 PNG나 JPEG 이미지도 벡터 형태로 변환할 수 있다. SVG는 선과 곡선, 색상 채우기, 그라데이션 등 기하학적 요소로 구성돼 해상도에 구애받지 않고 크기를 조절할 수 있어 로고와 포스터, 제품 라벨처럼 다양한 크기와 매체에 맞춰야 하는 디자인에서 중요하다."
+        },
+        {
+          "t": "p",
+          "x": "텍스트 기반 생성에서는 문자와 도형을 결합한 로고, 장식적인 타이포그래피, 단순한 형태로 구성된 일러스트 등을 주요 활용 사례로 제시했다. 다만 글자가 벡터 경로로 변환된 경우에는 글꼴이나 문구를 일반 텍스트처럼 바로 바꾸기 어려울 수 있다. 이미지 변환도 원본의 레이어 구조까지 복원되는 것은 아니어서 실제 편집이 얼마나 쉬운지 확인해야 한다."
+        },
+        {
+          "t": "video",
+          "yt": "jmQk4oa5EnM"
+        },
+        {
+          "t": "p",
+          "x": "개발자를 위한 API도 제공한다. API 가격은 텍스트 기반 생성의 경우 이미지 참조를 사용하지 않을 때 품질 설정에 따라 한 장당 0.13~0.20달러다. 이미지 참조를 사용하는 고품질 생성은 한 장당 0.32달러로 책정됐다."
+        }
+      ]
+    },
+    "design/design-figma-mcp-library": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1200/0*z97zDowA9lacbpjQ.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Christine Vallaure가 디자이너용으로 쓴 실무 가이드(세 편짜리 시리즈 In-System Design의 Part 1)다. 자신의 디자인 시스템이 왜 코드에서 출발하는지, 그 코드로 Figma 라이브러리를 어떻게 만들고 점검하고 유지하는지 풀어낸다."
+        },
+        {
+          "t": "p",
+          "x": "Figma-to-code 경로를 AI에 맡겼더니 겉보기엔 멀쩡한데 파일에 없는 내용, 그러니까 포커스 순서와 오류 상태, 스크린 리더가 읽어 주는 내용을 지어낸 코드가 나왔다. 그래서 방향을 뒤집었다. \"코드가 기준 원본이다. Figma는 그것을 비춘다. 둘이 다르면 틀린 쪽은 Figma다.\""
+        },
+        {
+          "t": "p",
+          "x": "작업 흐름은 이렇다. 코드에 안전하게 접근하고 Storybook이 돌아가는지 확인한 뒤 Southleft의 Figma Console MCP로 빈 Figma 파일을 연다. 토큰과 텍스트 스타일부터 옮기고 Button과 Alert 같은 테스트 컴포넌트 두 개를 만들어 본 다음에야 라이브러리 전체를 돌린다. 매번 Figma로 표현하지 못한 것을 모두 적은 GAPS.md도 요청한다."
+        },
+        {
+          "t": "p",
+          "x": "반복되는 수정은 스킬로 굳는다. 패리티 체커는 Storybook 컴포넌트 매니페스트와 여기에 대응하는 Figma JSON 목록을 이름은 이름끼리, 기본값은 기본값끼리 대조한다."
+        }
+      ]
+    },
+    "design/design-shopify-fullstack-designer": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "eojywvxqoLc"
+        },
+        {
+          "t": "p",
+          "x": "Design Review 이번 에피소드에서 Shopify 제품 디자인 스튜디오를 이끄는 Marvin Schwaibold가 YC의 Aaron Epstein과 함께 자신의 디자인 과정을 보여준다. 팀이 최근 내놓은 어드민 리디자인과 Sidekick 작업, 실제 잔디를 셰이더로 재현한 주말 프로젝트, 91번 시도한 끝에 완성한 캐러셀이 차례로 나온다."
+        },
+        {
+          "t": "p",
+          "x": "그의 도구는 Figma에서 \"Codex와 Claude Code 같은 도구, 그리고 터미널에 오래 머무는 쪽\"으로 옮겨 갔고 Figma는 연습장처럼 쓴다. 그는 \"이제 결과물은 문제가 아니다. 무엇을 밀고 나갈지 극도로 까다롭게 고르는 것이 우리의 일\"이라며 \"우리는 그 어느 때보다 편집자에 가깝다\"고 말한다. AI를 두고는 \"코드를 쓸 수 있지만 무엇이 좋아 보이고 무엇이 나빠 보이는지는 모르며, 그건 내가 판단할 몫\"이라고 했다."
+        },
+        {
+          "t": "p",
+          "x": "이어 두 사람은 시청자가 보낸 웹사이트 다섯 곳을 모션과 인터랙티비티 위주로 리뷰한다."
+        }
+      ]
+    },
+    "design/design-moss-image": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-open-source-model.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenMOSS 팀이 MOSI Intelligence와 함께 2026년 10월 16일 5B 파라미터 규모의 텍스트-이미지 모델 MOSS-Image를 내놓았다. 코드와 가중치가 Apache 2.0 라이선스로 풀려 상업적으로 쓸 수 있고 파인튜닝에도 제한이 없다."
+        },
+        {
+          "t": "p",
+          "x": "처음부터 학습한 싱글 스트림 확산 트랜스포머(DiT)다. 프롬프트는 최대 4,096 토큰까지 받는다. 텍스트 렌더링은 중국어와 영어 두 언어를 지원하고 텍스트 블록과 객체마다 바운딩 박스를 지정하는 구조화된 JSON 레이아웃도 입력으로 받는다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-json-layout-control.jpg",
+          "cap": "MOSS-Image 레이아웃 제어 개념도. 디자이너는 문장에 기대지 않고 JSON 프롬프트로 텍스트와 객체를 바운딩 박스에 배치한다. (Credit: Intelligent Living)"
+        },
+        {
+          "t": "p",
+          "x": "팀이 만든 LongLongTextBench(LLTB)에서 MOSS-Image는 Mean-6 텍스트 커버리지 96.3을 기록했다. 가장 가까운 오픈 웨이트 경쟁 모델 Qwen Image 2512는 64.9였다. RealLayoutArena에서는 전체 시스템이 GPT Image 2에 이어 두 번째였고 백본은 같은 강화 프롬프트를 받은 생성 모델 가운데 가장 앞섰다. 보고서 수치는 모두 개발사가 직접 측정했고 독립 재현은 아직 이뤄지지 않았다."
+        }
+      ]
+    },
+    "design/design-sparkle-button-essay": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*zO6YRwfqZ98I2mbNC4MBNw.png",
+          "cap": "Jon Sabutis의 일러스트, HTML과 CSS로 제작"
+        },
+        {
+          "t": "p",
+          "x": "돈을 내고 쓰는 제품은 어느 것을 열어도 오른쪽 위에 반짝이 아이콘이 있고, 그 뒤에는 \"Ask anything\"이라고 적힌 패널이 있다. 매일 AI로 코드를 쓰는 Jon Sabutis가 보기에 도구는 좋아졌지만 제품은 대체로 그렇지 못하다. 다 같은 제품이라서다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*GVI4I-F2A2OolI_slccKuA.png"
+        },
+        {
+          "t": "p",
+          "x": "사람들이 불쾌한 건 그 기능이 자기 뜻과 상관없이 켜져 있어서다. 2026년 3월 Microsoft는 Notepad, Snipping Tool, Photos, Widgets에서 \"불필요한 Copilot 진입점\"을 줄이겠다고 밝혔다. 업데이트 뒤 설정이 초기화되는 일을 겪으면 사용자는 규칙 하나를 배운다. 이 회사는 내 결정을 뒤집는다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1000/1*7yaE0--HMN9rGsXsmamCKg.gif"
+        },
+        {
+          "t": "p",
+          "x": "UBS는 대형 클라우드 기업들이 2026년부터 2028년까지 설비투자(capex)에 약 4.1조 달러를 쓸 것으로 추산한다. 그런데 MIT의 NANDA 그룹은 기업의 95퍼센트가 생성형 AI 파일럿에서 측정 가능한 수익을 얻지 못했다고 밝혔다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*Cwicgkr_ZVmyYTN1j18eCA.png",
+          "cap": "Jon Sabutis 제작 차트, UBS 추산 기준, 2026년 8월"
+        },
+        {
+          "t": "p",
+          "x": "그가 내세우는 원칙은 AI 기능이 아니라 AI로 기능을 만들라는 것이다. Smart Compose나 Photoshop의 Remove 도구가 그런 예다. 출시 전에는 누가 요청했는지, 이름을 무엇에서 따왔는지, 기본값을 꺼 둬도 내놓을지, 원가로 팔아도 버틸지 물어야 한다."
+        }
+      ]
     }
   }
 }

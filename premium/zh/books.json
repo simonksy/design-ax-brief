@@ -7606,6 +7606,131 @@
           "x": "该公司还使用一家无关企业的ABN，Patrick White的文学遗产管理方已要求其停止使用这一名称。Patrick White Publishing未回应ABC的置评请求。"
         }
       ]
+    },
+    "books/books-anthropic-korean-titles": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "经确认,美国人工智能(AI)企业Anthropic的盗版图书版权和解对象名单中,收录了从《洪吉童传》《九云梦》等古典作品到朝鲜作家小说在内的至少46种韩国相关图书。其中,英国匕首奖获奖作品《夜晚的旅行者们》、朴婉绪与黄顺元的作品,以及收录34位诗人诗作的现代诗选集等16种,此前从未被披露。"
+        },
+        {
+          "t": "img",
+          "src": "https://s.bizhankook.com/attachments_webp_no_wm/2026/10/136634_no_wm_28c6ef9a.webp",
+          "cap": "Anthropic决定向符合和解条件的48万余件作品每1件支付3000美元。图片=AP/韩联社"
+        },
+        {
+          "t": "p",
+          "x": "Bizhankook将韩国文学翻译院公开的1300余种英文译本与赔偿对象名单进行了比对。该名单是“Bartz诉Anthropic”集体诉讼的和解结果:在Anthropic为训练AI模型而从盗版网站下载的图书中,符合条件的48万余件将每1件获得约3000美元(约430万韩元)。46种中,以译者名义登记的有23种,以机构名义登记的有16种。"
+        },
+        {
+          "t": "img",
+          "src": "https://s.bizhankook.com/attachments_webp_no_wm/2026/10/136632_no_wm_83726ebb.webp",
+          "cap": "《洪吉童传》与《九云梦》的英文译本"
+        },
+        {
+          "t": "p",
+          "x": "许筠与金万重的作品属于公有领域,但列入名单的是现代出版的英文译本,可作为独立的2次创作作品受到保护。朝鲜作家白南龙的小说《朋友》也在其中。海外出版社的英文版690余种中有39种入选,而韩国国内出版社的300余种英文版一种也未发现。韩国出版人会议以“没有书就没有AI”为口号,正在开展联署运动。"
+        }
+      ]
+    },
+    "books/books-sweden-ai-classics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.bgnes.com/static/images/news/2026/10/25/23995/1280X720-22015.webp",
+          "cap": "Bokum在不到一年的时间里翻译并现代化改写了800多部古典作品"
+        },
+        {
+          "t": "p",
+          "x": "据Sweden Herald报道,瑞典作家协会(Swedish Writers’ Association)正在审查出版商Bokum是否侵犯了对古典作品的保护。该出版商被指使用人工智能翻译古典文学作品。"
+        },
+        {
+          "t": "p",
+          "x": "瑞典作家协会主席Anja Gatu表示:“这是一场关于文学中应如何使用人工智能的讨论,而这确实是一个可怕的例子。”"
+        },
+        {
+          "t": "p",
+          "x": "著作权法也为已不再受版权保护的旧作品提供保护。Gatu说:“这意味着不能以任何方式歪曲一部作品。”"
+        },
+        {
+          "t": "p",
+          "x": "据媒体报道,Bokum在不到一年的时间里翻译并现代化改写了800多部古典作品,其中包括Charles Dickens的《Oliver Twist》(雾都孤儿)和Franz Kafka的《The Metamorphosis》(变形记)。该出版商还被指在书籍封面上使用AI-generated(AI生成)图像。"
+        },
+        {
+          "t": "p",
+          "x": "瑞典学院(Swedish Academy)有权将古典作品保护问题诉诸法院。学院代表对Svensk Bokhandel表示,他们正在关注此案。"
+        }
+      ]
+    },
+    "books/books-gebru-deep-unlearning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/cover/9781668093078",
+          "cap": "Deep Unlearning: The Rise of AI and the Radicalization of a Tech Idealist — Timnit Gebru. One Signal, $30 (320p)"
+        },
+        {
+          "t": "p",
+          "x": "计算机科学家、Distributed Artificial Intelligence Research Institute(分布式人工智能研究所)创始人Gebru在这部有力的处女作中,讲述了自己作为黑人女性在科技行业工作的经历,警示AI的缺陷以及整个行业普遍存在的歧视。1998年,Gebru随家人逃离Ethiopian-Eritrean战争(埃塞俄比亚-厄立特里亚战争),少年时来到U.S.(美国)。在Boston的高中,她热爱数学和科学,却遇到了居高临下对待她、不愿培养她成长的种族主义教师。类似的经历在她就读Stanford大学期间,以及在Apple、Google和Microsoft等科技公司工作时再次上演。"
+        },
+        {
+          "t": "p",
+          "x": "2020年,她发表了一篇讨论大型语言模型相关担忧(包括其环境成本和训练中固有的偏见)的论文后,被解除了Google Ethical AI团队负责人的职务。全书中,Gebru着重指出存在缺陷、对有色人种误识别比例过高的人脸识别系统,以及助长仇恨言论的LLMs所带来的社会影响。她断言,如果科技行业更关心改善生活条件而非追逐利润,就能实现好得多的未来。Gebru为AI伦理之争带来了宝贵的亲身经验和有力的道德清晰度。本书值得广泛关注。(Feb.)"
+        }
+      ]
+    },
+    "books/books-webtoon-forum": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://file2.nocutnews.co.kr/newsroom/image/2026/10/26/202610261829231128_0.jpg",
+          "cap": "韩国漫画家协会提供"
+        },
+        {
+          "t": "p",
+          "x": "韩国漫画家协会26日表示,已于23日在首尔麻浦区青年文化空间JU Dari小剧场举办第6届网漫论坛,为今年的日程画上句号。今年的论坛围绕人工智能(AI)技术、创作者权益以及可持续的连载环境等议题展开讨论。"
+        },
+        {
+          "t": "p",
+          "x": "在最后一场论坛上,作家Ganara介绍了支撑长期连载的工作习惯与创作方法,作家Romit分享了在大众性与作品个性之间的苦恼。作家Dolbae讲解了如何将三维(3D)建模和生成式AI运用于网漫制作。"
+        },
+        {
+          "t": "p",
+          "x": "协会自3月起共举办6场论坛,探讨了生成式AI与著作权、网络霸凌与作家心理健康、内容市场变化与创作者生存策略等话题。"
+        },
+        {
+          "t": "p",
+          "x": "参与者满意度调查显示,12场主要讲座的平均实用性评分为4.68分(满分5分)。第4至6场论坛的总体满意度平均为4.74分。参与者希望今后探讨的主题包括故事写作方法、收入多元化和AI运用等。"
+        },
+        {
+          "t": "p",
+          "x": "韩国漫画家协会会长Kwon Hyuk-joo表示:“新技术的出现,并不意味着它会替作家解决烦恼。”他还说:“画什么、如何吸引读者、如何延续到下一部作品,依然是作家自己的课题。”"
+        },
+        {
+          "t": "p",
+          "x": "协会计划明年继续围绕提升创作能力、AI时代制作环境的变化、收入多元化以及作家权益等主题举办论坛。"
+        }
+      ]
+    },
+    "books/books-wgae-cloak-shield": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Writers Guild of America East正与AI保护软件公司Cloak合作，为会员推出一项新服务。WGAE会员可免费使用Cloak软件，该软件能让大多数AI模型无法读取文档。"
+        },
+        {
+          "t": "p",
+          "x": "Cloak这款专利申请中（patent-pending）的软件可防止文档被AI抓取（scraping），同时为人类读者保留原有格式与可读性。会员或剧本登记者可以把文件的AI-proof副本发送给任何人。Non-WGA East会员（非会员）通过WGAE Script Registration登记作品时，额外支付$10即可加上Cloak保护。"
+        },
+        {
+          "t": "p",
+          "x": "WGAE主席Tom Fontana表示：“WGAE与Cloak的合作扩展了我们保护会员作品、反击剥削作家及其他创意工作者的AI公司的努力。”他说，会员把作品发给制片人或经纪人后，不必担心作品被用于训练AI模型。"
+        },
+        {
+          "t": "p",
+          "x": "创始人Rishi Ambavanekar称，他开发Cloak是“为了把主动权还给作家，让他们免受不受欢迎的AI训练、AI笔记与分析”。WGAE也在推动AI立法，包括正等待州长Kathy Hochul签署的纽约州FAIR News Act。"
+        }
+      ]
     }
   }
 }
