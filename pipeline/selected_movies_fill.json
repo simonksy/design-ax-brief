@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-28",
+  "section": "movies",
+  "items": [
+    {
+      "title": "브이캣, 일본 TV아사히 사극 '사나다 주유시' AI 영상 제작 참여…넷플릭스 공개",
+      "url": "https://www.venturesquare.net/1122539/",
+      "source": "VentureSquare",
+      "category": "movies",
+      "tool": "Movies",
+      "accent": "#00a86b",
+      "motif": "frame",
+      "rationale": "Concrete deployment: Korean AI video studio VCAT produced AI shots for TV Asahi/Toei's 7-part period drama, mixing AI with live action and VFX for hard action scenes. The series airs on TV Asahi and streams on Netflix, so this is generative AI shipping inside a mainstream broadcast drama.",
+      "published_iso": "2026-10-23T14:01:18+09:00",
+      "og_image": "https://www.venturesquare.net/wp-content/uploads/2026/10/vcat.png",
+      "excerpt": "Korean AI video studio VCAT produced AI shots for TV Asahi/Toei's 7-part period drama, combining live action with AI and VFX for difficult action scenes; the series airs on TV Asahi and streams on Netflix, and an AI-only promo ran in Times Square."
+    }
+  ],
+  "dedup": {
+    "checks": {
+      "https://www.venturesquare.net/1122539/": {
+        "verdict": "new",
+        "nearest": "https://variety.com/2026/tv/news/ai-assisted-animated-kdrama-the-painted-soul-rakuten-viki-launch-1236906258/",
+        "new_action": ""
+      }
+    }
+  }
+}

@@ -1,59 +1,66 @@
 {
   "section": "books",
-  "now_iso": "2026-10-27T01:45:00Z",
+  "now_iso": "2026-10-27T22:04:00Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Grok Says Its AI-Generated Version of 'The Odyssey' Is 'Not Historically Accurate'",
-      "url": "https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/",
-      "source": "WIRED",
+      "title": "Authors Guild Joins Protests Challenging Change in Australian Copyright Law",
+      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101606-authors-guild-joins-protests-challenging-change-in-australian-copyright-law.html",
+      "source": "Publishers Weekly",
       "category": "books",
-      "published_iso": "2026-10-26T22:40:37Z",
-      "excerpt": "Months after Elon Musk declared xAI's model would outclass Christopher Nolan's mythological epic, the bot itself conceded its AI-generated Odyssey adaptation is not historically accurate.",
-      "og_image": "https://media.wired.com/photos/6adfd0bd71d0e77d5637708d/191:100/w_1280,c_limit/MCDODYS_UV008.jpg"
+      "published_iso": "2026-10-26T00:00:00-04:00",
+      "excerpt": "Under proposed Australian legislation it would be legal for AI companies to exploit any author's work if the training is conducted on Australian soil; the Authors Guild has joined local writers in opposing it.",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132405-1.JPG",
+      "history_match": {
+        "score": 0.303,
+        "date": "2026-10-24",
+        "url": "https://authorsguild.org/news/australia-ai-training-statement/",
+        "title": "Australia May Legalize AI Training on Your Books. Sign a Statement Opposing It.",
+        "band": "related"
+      }
     },
     {
       "title": "Zachary Mason Chases the Ghost in the Machine",
       "url": "https://www.publishersweekly.com/pw/by-topic/authors/profiles/article/101582-zachary-mason-chases-the-ghost-in-the-machine.html",
       "source": "Publishers Weekly",
       "category": "books",
-      "published_iso": "2026-10-23T23:17:00Z",
-      "excerpt": "Former computer scientist Zachary Mason's speculative collection Fabrications spins stories about relationships between humans and sentient AI designed to serve humanity.",
+      "published_iso": "2026-10-23T00:00:00-04:00",
+      "excerpt": "In his speculative story collection, the computer-scientist novelist spins stories about relationships between humans and sentient AI.",
       "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132320-1.PNG"
     },
     {
-      "title": "Deep Unlearning: The Rise of AI and the Radicalization of a Tech Idealist by Timnit Gebru (review)",
-      "url": "https://www.publishersweekly.com/9781668093078",
-      "source": "Publishers Weekly",
+      "title": "YouTube looks to expand into audiobooks",
+      "url": "https://janefriedman.com/youtube-looks-to-expand-into-audiobooks/",
+      "source": "Jane Friedman",
       "category": "books",
-      "published_iso": "2026-10-21T00:00:00Z",
-      "excerpt": "PW reviews computer scientist and DAIR founder Timnit Gebru's memoir of her experience inside the AI industry and her turn against it.",
-      "og_image": "https://www.publishersweekly.com/cover/9781668093078"
-    },
-    {
-      "title": "Is It or Isn't It? How Generative AI is Poisoning the Literary Well For Everyone",
-      "url": "https://lithub.com/is-it-or-isnt-it-how-generative-ai-is-poisoning-the-literary-well-for-everyone/",
-      "source": "Literary Hub",
-      "category": "books",
-      "published_iso": "2026-10-14T09:10:55+00:00",
-      "excerpt": "James Folta on Vauhini Vara's Atlantic piece suggesting a Caine Prize-winning story was likely AI-written, the third major literary prize hit by AI accusations this year, and what detector-driven suspicion does to literature.",
-      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/10/AI-detection.jpg",
+      "published_iso": "2026-10-21T16:00:00+00:00",
+      "excerpt": "Rampant audiobook piracy on YouTube via AI-generated audio versions is pushing publishers to offer legitimate ways to listen to audiobooks on the platform.",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2026/07/Jane-Friedman-2025-site-Yoast.png",
       "history_match": {
-        "score": 0.177,
-        "date": "2026-10-21",
-        "url": "https://www.thebookseller.com/news/new-literary-prize-prix-pascal-launches-in-france-for-manuscripts-written-with-ai",
-        "title": "New literary prize Prix Pascal launches in France for manuscripts written with AI",
+        "score": 0.16,
+        "date": "2026-10-11",
+        "url": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101440-frankfurt-book-fair-2026-spotify-expands-audiobooks-to-180-markets.html",
+        "title": "Frankfurt Book Fair 2026: Spotify Expands Audiobooks to 180 Markets",
         "band": "related"
       }
     },
     {
-      "title": "Why Are Publishers Suing Big Tech With One Hand and Embracing AI With the Other?",
-      "url": "https://lithub.com/why-are-publishers-suing-big-tech-with-one-hand-and-embracing-ai-with-the-other/",
-      "source": "Literary Hub",
+      "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+      "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+      "source": "The Verge",
       "category": "books",
-      "published_iso": "2026-10-15T09:10:37+00:00",
-      "excerpt": "Maris Kreizman, after an Authors Guild panel on authorship and AI, examines publishers' contradictory stance: suing AI firms over training while signing AI licensing and e-book feature deals.",
-      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/10/AI-hands-scaled.jpg"
+      "published_iso": "2026-10-27T13:50:51+00:00",
+      "excerpt": "Apple's new intelligent assistant can draft and restructure content in Pages and organize data in Numbers, bringing an AI writing partner into its document apps.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-Creator-Studio-intelligent-assistant-in-Keynote-on-iPad-Pro-261027_big.jpg.large_2x.jpg?quality=90&strip=all&crop=0%2C10.727975106345%2C100%2C78.54404978731&w=1200"
+    },
+    {
+      "title": "Grok Says Its AI-Generated Version of 'The Odyssey' Is 'Not Historically Accurate'",
+      "url": "https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/",
+      "source": "WIRED",
+      "category": "books",
+      "published_iso": "2026-10-26T22:40:37Z",
+      "excerpt": "Months after Elon Musk declared xAI's AI-generated adaptation of Homer's epic would outclass Christopher Nolan's film, the Grok bot itself admitted defeat on accuracy.",
+      "og_image": "https://media.wired.com/photos/6adfd0bd71d0e77d5637708d/191:100/w_1280,c_limit/MCDODYS_UV008.jpg"
     },
     {
       "title": "How AI Changes the Fundamental Structure of the Classroom—Especially the Segregated Ones",
@@ -61,58 +68,86 @@
       "source": "Literary Hub",
       "category": "books",
       "published_iso": "2026-10-21T09:09:11+00:00",
-      "excerpt": "A book excerpt examining how ChatGPT-era AI tools reshape the structure of American classrooms, with particular effects on segregated schools.",
+      "excerpt": "A book excerpt examining how ChatGPT-era AI tools reshape classrooms, and why the effects fall unevenly on segregated schools.",
       "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/10/chat-gpt-scaled.jpg"
     },
     {
-      "title": "About that Wired article on book publishers 'quietly' using AI",
-      "url": "https://janefriedman.com/about-that-wired-article-on-book-publishers-quietly-using-ai/",
-      "source": "Jane Friedman",
+      "title": "Dubious, seemingly AI-generated Fire Emblem: Fortune's Weave guidebooks flood Amazon Japan",
+      "url": "https://automaton-media.com/en/news/seemingly-ai-generated-fire-emblem-fortunes-weave-guidebooks-flood-amazon-japan-self-publishing-system-allows-anyone-to-mass-produce-guideslop/",
+      "source": "AUTOMATON WEST",
       "category": "books",
-      "published_iso": "2026-10-14T16:00:00+00:00",
-      "excerpt": "Jane Friedman unpacks Wired's report on publishers' AI use, flagging that publishers say the number of authors using LLMs to write their books is much higher than reported (Wired source already published — commentary follow-up).",
-      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
+      "published_iso": "2026-10-27T05:35:48+00:00",
+      "excerpt": "Amazon Japan's self-publishing system lets anyone mass-produce apparently AI-generated strategy guides ('guideslop'), and reviews suggest buyers are being misled.",
+      "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-header-6.webp",
+      "off_list": true
+    },
+    {
+      "title": "Japan's Ministry of Finance proposes shared manga platform with AI translation for global fans",
+      "url": "https://automaton-media.com/en/nongaming-news/japans-ministry-of-finance-proposes-shared-manga-platform-where-global-fans-can-access-multiple-publishers-in-one-place-the-idea-involves-ai-translation/",
+      "source": "AUTOMATON WEST",
+      "category": "books",
+      "published_iso": "2026-10-26T06:16:09+00:00",
+      "excerpt": "A government proposal would unite multiple manga publishers on one global platform using AI translation, alongside a requested 250 billion yen in publisher subsidies.",
+      "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261023-74214-header-1.jpg",
+      "off_list": true,
       "history_match": {
-        "score": 0.304,
-        "date": "2026-10-10",
-        "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
-        "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
+        "score": 0.17,
+        "date": "2026-10-15",
+        "url": "https://www.nippon.com/en/japan-data/h02913/",
+        "title": "AI’s Improved Accuracy Squeezes Translation Industry in Japan",
         "band": "related"
       }
     },
     {
-      "title": "Guest Post — When Research Integrity Fails, the Entire System Follows",
-      "url": "https://scholarlykitchen.sspnet.org/2026/10/26/guest-post-when-research-integrity-fails-the-entire-system-follows/",
-      "source": "The Scholarly Kitchen",
+      "title": "LINE Manga launches AI character chats and fan fiction feature for 'IPs approved by authors'",
+      "url": "https://automaton-media.com/en/news/japanese-manga-platform-line-manga-launches-ai-character-chats-and-fan-fiction-feature-for-ips-approved-by-authors/",
+      "source": "AUTOMATON WEST",
       "category": "books",
-      "published_iso": "2026-10-26T09:30:26+00:00",
-      "excerpt": "Cactus CEO Akhilesh Ayer argues AI tools that generate authentic-looking papers in seconds have amplified research fraud, and that AI-assisted screening plus coordinated action by publishers and institutions is needed.",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-2219658137.jpg",
+      "published_iso": "2026-10-22T09:32:54+00:00",
+      "excerpt": "One of Japan's major digital comic apps adds generative-AI chats with manga characters and AI fan fiction, limited to works whose creators have opted in.",
+      "og_image": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261022-74129-header.jpg",
+      "off_list": true,
       "history_match": {
-        "score": 0.222,
-        "date": "2026-10-07",
-        "url": "https://scholarlykitchen.sspnet.org/2026/10/06/research-integrity-in-scholarly-communications-ssp-pulse-check-report/",
-        "title": "Research Integrity in Scholarly Communications — SSP Pulse Check Report",
+        "score": 0.341,
+        "date": "2026-10-26",
+        "url": "https://ai.watch.impress.co.jp/docs/news/2149258.html",
+        "title": "「LINEマンガ」、AIチャット「byUs」開始",
         "band": "related"
       }
     },
     {
-      "title": "The best apps for tracking your reading and discovering new books",
-      "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
-      "source": "TechCrunch",
+      "title": "Anthropic illegally trained Claude with Stanford professors' books",
+      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+      "source": "The Stanford Daily",
       "category": "books",
-      "published_iso": "2026-10-26T01:10:00+00:00",
-      "excerpt": "TechCrunch's roundup of Goodreads alternatives, several of which pitch AI-powered recommendations and AI-generated book summaries and thematic analyses.",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2022/12/Screenshot-2026-10-22-at-2.48.45-PM.png?resize=1200,831"
+      "published_iso": "2026-10-27T02:46:17-07:00",
+      "excerpt": "At least 10 Stanford academics' books were among the pirated works covered by the $1.5 billion Anthropic copyright settlement.",
+      "og_image": "https://stanforddaily.com/wp-content/uploads/2026/10/Green-Library.png",
+      "off_list": true,
+      "history_match": {
+        "score": 0.189,
+        "date": "2026-10-01",
+        "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101364-authors-guild-calls-on-publishers-to-share-the-anthropic-wealth.html",
+        "title": "Authors Guild Calls on Publishers to Share Anthropic Wealth",
+        "band": "related"
+      }
     },
     {
-      "title": "AI is Already Everywhere in Publishing (Book Riot podcast)",
-      "url": "https://bookriot.com/listen/ai-is-already-everywhere-in-publishing/",
-      "source": "Book Riot",
+      "title": "BC Professor Sues OpenAI and Microsoft For Copyright Infringement over textbooks",
+      "url": "https://bcheights.com/233767/news/bc-professor-sues-openai-and-microsoft-over-use-of-copyrighted-textbooks/",
+      "source": "The Heights",
       "category": "books",
-      "published_iso": "2026-10-19T09:00:00+00:00",
-      "excerpt": "Rebecca and Vanessa discuss the so-called exposé of publishing's AI use and yet another prize-winning story that seems to have been written with AI.",
-      "og_image": "https://bookriot.com/wp-content/uploads/2024/05/Book-Riot-The-Podcast-logo.jpg.webp"
+      "published_iso": "2026-10-26T03:21:06+00:00",
+      "excerpt": "A Boston College finance professor is among six textbook authors suing OpenAI and Microsoft for using their copyrighted textbooks to train AI models.",
+      "og_image": "https://bcheights.com/wp-content/uploads/2026/10/Adobe-Express-file-64.jpg",
+      "off_list": true,
+      "history_match": {
+        "score": 0.186,
+        "date": "2026-09-28",
+        "url": "https://www.standardmedia.co.ke/education/article/2001558368/publishers-sound-alarm-over-ai-generated-textbooks",
+        "title": "Publishers sound alarm over AI-generated textbooks",
+        "band": "related"
+      }
     },
     {
       "title": "\"1시간이면 1권 OK\"…AI가 쓴 '딸깍 소설'로 공모전 가도 될까",
@@ -120,81 +155,21 @@
       "source": "머니투데이",
       "category": "books",
       "published_iso": "2026-10-24T08:00:00+09:00",
-      "excerpt": "AI로 한 시간 만에 쓰는 '딸깍 소설' 투고가 출판사·문학 공모전에 넘쳐나면서, 주최 측과 출판사가 AI 사용 여부 검증에 골머리를 앓고 있다.",
-      "og_image": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026102307443154158_1.jpg"
-    },
-    {
-      "title": "[인터뷰] 책 한 권에서 AI 데이터로…전병욱 멘탯 대표가 그리는 출판업계 AX",
-      "url": "https://www.tech42.co.kr/%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%B1%85-%ED%95%9C-%EA%B6%8C%EC%97%90%EC%84%9C-ai-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C%EC%A0%84%EB%B3%91%EC%9A%B1-%EB%A9%98%ED%83%AF-%EB%8C%80%ED%91%9C%EA%B0%80/",
-      "source": "테크42",
-      "category": "books",
-      "published_iso": "2026-10-23T08:26:58+09:00",
-      "excerpt": "출판사와 AI 기업 사이 도서 학습 라이선스를 중개하는 멘탯: 계약 출판사 약 95곳, AI 활용 권리 확보 도서 약 3만4000종, 글로벌 AI 기업과 누적 라이선싱 계약 약 150억원.",
-      "og_image": "https://tech42.shoplic.cloud/wp-content/uploads/2026/10/166283199.jpg",
+      "excerpt": "AI로 한 시간 만에 쓴 '딸깍 소설' 투고가 출판사와 공모전에 넘쳐나며 출판업계의 AI 집필 검증 고민이 깊어지고 있다.",
+      "og_image": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026102307443154158_1.jpg",
+      "off_list": true,
       "history_match": {
-        "score": 0.2,
-        "date": "2026-09-30",
-        "url": "https://www.kyosu.net/news/articleView.html?idxno=210681",
-        "title": "\"AI가 내 책을 얼마나 인용했는지 눈으로 확인한다\" - 멘탯 전병욱 대표",
+        "score": 0.185,
+        "date": "2026-10-19",
+        "url": "https://www.donga.com/news/Culture/article/all/20261018/134863199/2",
+        "title": "“이 소설, 당신이 썼나요” AI 시대 맞은 문학상, ‘작가 검증’ 나섰다",
         "band": "related"
       }
-    },
-    {
-      "title": "전략집단이음, AI 자율형 '출판 다크팩토리' 실증 완료…11월 1일 상업 가동",
-      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065578229975864",
-      "source": "메가경제",
-      "category": "books",
-      "published_iso": "2026-10-26T10:57:18+09:00",
-      "excerpt": "기획·집필·교정부터 ISBN 발급, 국립중앙도서관 납본, 서점 유통과 정산까지 AI가 자율 수행하는 '출판 다크팩토리'가 11월 1일 상업 가동에 들어간다.",
-      "og_image": "https://www.megaeconomy.co.kr/news/data/20261026/p1065578229975864_827_thum.png"
-    },
-    {
-      "title": "AI 시대, 웹툰은 어떻게 살아남나…웹툰작가들이 찾은 해법",
-      "url": "https://www.nocutnews.co.kr/news/6597373",
-      "source": "노컷뉴스",
-      "category": "books",
-      "published_iso": "2026-10-26T18:31:26+09:00",
-      "excerpt": "한국만화가협회가 23일 제6차 웹툰포럼을 열고 생성형 AI 시대 웹툰 작가들의 지속 가능한 창작 해법을 논의했다.",
-      "og_image": "https://file2.nocutnews.co.kr/newsroom/image/2026/10/26/202610261829231128_0.jpg"
-    },
-    {
-      "title": "[단독] 앤트로픽 저작권 보상 목록에 '홍길동전' '구운몽', 북한 소설까지 포함",
-      "url": "https://bizhankook.com/articles/anthropic-training-data-korean-literature.html",
-      "source": "비즈한국",
-      "category": "books",
-      "published_iso": "2026-10-23T17:15:03+09:00",
-      "excerpt": "앤트로픽 저작권 소송 합의 보상 대상에 '홍길동전'·'구운몽' 등 고전과 북한 소설 '벗'을 포함한 한국 관련 도서 46종이 올라, 영어 번역본 저작권자인 작가·번역가가 보상금을 받게 될 전망.",
-      "og_image": "https://s.bizhankook.com/attachments_og/2026/10/136632_og_147ee6b4.jpg",
-      "history_match": {
-        "score": 0.161,
-        "date": "2026-10-16",
-        "url": "https://www.sedaily.com/article/20102152",
-        "title": "[단독] 앤트로픽, 한강 작가 책도 불법 다운받았다",
-        "band": "related"
-      }
-    },
-    {
-      "title": "[단독] '부커상' 아룬다티 로이 \"내 장기 적출당해\"…앤트로픽 강력 비판",
-      "url": "https://www.hani.co.kr/arti/culture/book/1283875.html",
-      "source": "한겨레",
-      "category": "books",
-      "published_iso": "2026-10-23T16:12:00+09:00",
-      "excerpt": "부커상 수상 작가 아룬다티 로이가 자신도 앤트로픽의 무단 학습 피해자라며 \"몰래 장기를 적출당한 것과 같다\", \"인간성에 대한 범죄\"라고 비판했다.",
-      "og_image": "https://flexible.img.hani.co.kr/flexible/normal/1000/666/imgdb/original/2026/1023/20261023501999.webp"
-    },
-    {
-      "title": "Swedish Writers' Association Accuses Publisher of Distorting Classics with AI",
-      "url": "https://www.bgnes.com/society/swedish-writers-association-accuses-publisher-of-distorting-classics-with-ai",
-      "source": "BGNES",
-      "category": "books",
-      "published_iso": "2026-10-24T23:37:58Z",
-      "excerpt": "The Swedish Writers' Association is examining whether publisher Bokum violated the protection of classic works by using AI to rework them (off-list: no on-list outlet covered it).",
-      "og_image": "https://www.bgnes.com/static/images/news/2026/10/25/23995/22015.webp"
     }
   ],
   "dedup": {
-    "dropped": 0,
-    "kept": 18,
+    "dropped": 1,
+    "kept": 13,
     "against_days": 5
   },
   "story_dedup": {
@@ -204,42 +179,17 @@
         "url": "https://www.thebookseller.com/news/soas-position-on-generative-ai-remains-unchanged-after-backlash-to-ethical-ai-charter",
         "title": "SoA's position on generative AI 'remains unchanged' after backlash to Ethical AI Charter",
         "match": {
-          "score": 0.545,
+          "score": 0.619,
           "date": "2026-10-22",
           "url": "https://www.thebookseller.com/news/society-of-authors-withdraws-from-ethical-ai-charter-after-member-backlash",
           "title": "Society of Authors withdraws from Ethical AI Charter after member backlash"
         }
       }
     ],
-    "review": 5,
+    "review": 7,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-09-27",
-      "title": "AI가 쓴 소설 가려내기, 문학 경험보다 AI 사용 경험이 도움",
-      "url": "https://platum.kr/archives/295202"
-    },
-    {
-      "date": "2026-09-27",
-      "title": "[단독] ‘AI 직격타’ 논픽션 불황에…교양 전문 출판사, 문학서 활로 모색",
-      "url": "https://www.hani.co.kr/arti/culture/book/1278045.html"
-    },
-    {
-      "date": "2026-09-27",
-      "title": "If AI imagines before we do, what is left for illustrators?",
-      "url": "https://www.thebookseller.com/comment/ai-imagines-before-illustrators-what-is-left"
-    },
-    {
-      "date": "2026-09-27",
-      "title": "Oxford lets OpenAI train its AI models on Bodleian Library",
-      "url": "https://www.theguardian.com/technology/2026/sep/26/oxford-university-bodleian-library-open-ai-chat-gpt"
-    },
-    {
-      "date": "2026-09-27",
-      "title": "Google's New AI Voice Model Copies a Voice From 30 Seconds - Voice Over Talent Industry News",
-      "url": "https://www.voiceoverherald.com/google-gemini-tts-voice-copy-30-seconds-consent/"
-    },
     {
       "date": "2026-09-28",
       "title": "Sudowrite adds Character Portraits to Story Bible",
@@ -914,6 +864,31 @@
       "date": "2026-10-26",
       "title": "WGAE Partners With AI-Shielding Tool Cloak",
       "url": "https://www.thewrap.com/industry-news/labor-unions/wga-east-partners-with-cloak-ai-shield/"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "[단독] 앤트로픽 저작권 보상 목록에 '홍길동전' '구운몽', 북한 소설까지 포함",
+      "url": "https://bizhankook.com/articles/anthropic-training-data-korean-literature.html"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "Swedish Writers' Association Accuses Publisher of Distorting Classics with AI",
+      "url": "https://www.bgnes.com/society/swedish-writers-association-accuses-publisher-of-distorting-classics-with-ai"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "전략집단이음, AI 자율형 '출판 다크팩토리' 실증 완료…11월 1일 상업 가동",
+      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065578229975864"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "AI 시대, 웹툰은 어떻게 살아남나…웹툰작가들이 찾은 해법",
+      "url": "https://www.nocutnews.co.kr/news/6597373"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "Deep Unlearning: The Rise of AI and the Radicalization of a Tech Idealist by Timnit Gebru (review)",
+      "url": "https://www.publishersweekly.com/9781668093078"
     }
   ]
 }

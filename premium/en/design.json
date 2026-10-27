@@ -9789,6 +9789,123 @@
           "x": "His rule: build features with AI, not AI features, like Smart Compose or Photoshop's Remove tool. Before shipping, ask who asked, what it is named after, whether you would ship it off by default, and whether it would survive at cost price."
         }
       ]
+    },
+    "design/figma-agent-shaders": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "BS-N-AM5ql4"
+        },
+        {
+          "t": "p",
+          "x": "Welcome to Figma on Figma the series where we showcase how we use our own tools in our every day workflows, or just to show off something cool. In this episode we have Brett McMillin, a Designer Advocate walk us through how he uses Figma's agent with motion and custom shaders effects to explore new creative ideas."
+        },
+        {
+          "t": "p",
+          "x": "00:00 – Intro, Brett McMillin · 00:45 – Exploring Figma motion & shaders example · 01:45 – Automating Motion with the Figma agent · 02:45 – Custom Shader Generation · 03:00 – Stacking Built-in & Custom Effects · 03:28 – Real-time Light Refraction Through Glass"
+        }
+      ]
+    },
+    "design/etsy-ai-photos": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/uzZxJaKSXhN5uxfLGfsSNd-1600-80.jpg",
+          "cap": "Etsy’s James Ossman broke down the platform's new rules in a YouTube video (Image credit: Etsy)"
+        },
+        {
+          "t": "p",
+          "x": "When a marketplace focused on handmade design needs a rule banning fake photos, something's gone wrong. So why is Etsy suddenly telling its sellers: \"The photo of the product you're selling should actually be the photo of the product you're selling\"?"
+        },
+        {
+          "t": "p",
+          "x": "Last week the marketplace for handmade goods announced that every listing must now include at least one unedited photo of the actual item, shot against a real background. It also specifically banned the use of AI image generators for patterns, recipes and instructions for customers, and outlawed listings created by bots. AI-generated art is still okay on Etsy, but sellers need to be clear about that fact."
+        },
+        {
+          "t": "video",
+          "yt": "QHMQbCF5PeM"
+        },
+        {
+          "t": "p",
+          "x": "Etsy had to do something, because the complaints are mounting fast. Creator Kara Lynne wrote on X: \"I can't explain how infuriating it has been to purchase a crochet pattern, only to open the PDF and realise it's fully AI-generated, doesn't make sense, and definitely doesn't match what the finished product should be.\""
+        },
+        {
+          "t": "p",
+          "x": "Etsy now follows Spotify pulling 50 million AI tracks, Snap keeping gen-AI content out of its recommendations and LinkedIn adding a button to report it. The new rules won't fix everything, but they acknowledge that when people buy something \"handmade\", they want to know whether a human actually made it."
+        }
+      ]
+    },
+    "design/edenlive": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "NbWLqOfP3XI"
+        },
+        {
+          "t": "p",
+          "x": "Vast AI Research, the research team behind generative 3D platform Tripo, has released EdenLive, a new open-source real-time generative renderer. Part of Project Eden, Vast AI Research’s world model for interactive environments, it requires a 2D or 3D scene or reference video, a target first frame, and a text prompt."
+        },
+        {
+          "t": "p",
+          "x": "The model “transforms rough visuals … into richer, more detailed videos”: for example, converting previs or game-quality animation to more photorealistic output. EdenLive only generates video at 480p or 720p resolution, so its practical applications are limited, but it is fast enough to run in real time."
+        },
+        {
+          "t": "p",
+          "x": "According to Vast AI, when using the 5B model weights, EdenLive can generate 720p video at “over 24fps” on a single NVIDIA GeForce RTX 5090 high-end consumer GPU. Use cases include converting blockouts into high-quality previs or animation previews. The source code is available under an Apache 2.0 license; 5B and 14B model weights are on Hugging Face."
+        },
+        {
+          "t": "p",
+          "x": "The same CG Channel round-up also covers Gaffer 1.7.5, which adds an MCP server so AI assistants can control it, and KeenFace, an AI-powered browser tool from KeenTools that generates 3D heads from 2-15 source images."
+        }
+      ]
+    },
+    "design/cli-anything": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/4585b919-e424-4ad3-8faf-651c238aaf56.png?fm=auto&w=1200&h=630&fit=crop"
+        },
+        {
+          "t": "p",
+          "x": "CLI-Anything is an open-source project from HKUDS, the data intelligence lab at the University of Hong Kong that also built LightRAG. It takes desktop software such as GIMP, Blender and LibreOffice and generates a full command-line interface that a coding agent can operate, complete with tests, documentation and a skill file. The repository has passed 54,000 stars and ships under the Apache 2.0 license."
+        },
+        {
+          "t": "p",
+          "x": "AI agents are good at reading and writing text, not clicking pixels. GUI automation is slow and breaks when a UI element moves; most creative apps don’t expose a native API. A CLI sidesteps both, and every CLI-Anything command supports a --json flag for structured output, plus a REPL mode with undo and redo."
+        },
+        {
+          "t": "p",
+          "x": "CLI Hub is a package manager for CLIs others already built, including Blender, Inkscape, Audacity, OBS Studio, LibreOffice, Kdenlive, draw.io, ComfyUI and FreeCAD. The generated CLIs call the real application underneath, so the GIMP CLI still needs GIMP installed."
+        },
+        {
+          "t": "p",
+          "x": "The CLI generator, a plugin for Claude Code that also supports Cursor, Codex and Open Code, runs a seven-phase pipeline; the project reports more than 2,400 passing tests across roughly 30 generated harnesses."
+        }
+      ]
+    },
+    "design/design-gemini-brand-style": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://designcompass.org/wp-content/uploads/2026/10/Gemini-Brand-Style-Remembered-1-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google has unveiled 'On-Brand Visuals,' a Gemini feature for small businesses. Announced on October 20, 2026, this feature is a tool that creates new images while maintaining the brand style registered by the user. It establishes a visual direction based on the website, brand kit, typography, and color palette."
+        },
+        {
+          "t": "p",
+          "x": "The Nano Banana 2.1 model is utilized for image generation. Gemini stores the configured styles to generate images needed for product launches or marketing campaigns. This method reduces the need to re-upload the same guidelines for every task. It is designed to go beyond using brand materials as a reference for individual images and to allow for their continued use in subsequent projects."
+        },
+        {
+          "t": "p",
+          "x": "We have also prepared a dedicated start screen for small business owners. It is a space for accessing various tasks, such as brand building, financial analysis, and customer data. In addition to Google Workspaces and advertising tools, you can connect external apps such as Adobe, Canva, Shopify, and Wix."
+        },
+        {
+          "t": "p",
+          "x": "This feature integrates brand visual consistency into the image generation process. However, the official announcement did not include verification results regarding the accuracy of adherence to logo shapes or typeface usage rules. It is necessary to compare the generated images against the original guidelines before using them in actual content. The business start screen and new connection apps will be rolled out sequentially to Gemini app users worldwide."
+        }
+      ]
     }
   }
 }

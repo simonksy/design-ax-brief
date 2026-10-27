@@ -8198,6 +8198,141 @@
           "x": "Founder Rishi Ambavanekar said he developed Cloak “to give agency back to writers to protect against unwanted AI training, AI notes and analysis.” The WGAE is also pursuing AI legislation, including New York’s FAIR News Act, now awaiting Governor Kathy Hochul."
         }
       ]
+    },
+    "books/guideslop": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-header-6.webp"
+        },
+        {
+          "t": "p",
+          "x": "Nintendo released Fire Emblem: Fortune’s Weave on September 17, and searching for the title on Amazon Japan already yields at least nine guidebooks, none of which are official. Their covers appear heavily AI-generated, and none seem to be available as e-books."
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-001-1155x1080.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The titles promise a “complete walkthrough,” “hidden secrets,” and an “in-depth guide.” Four of the books have reviews, including one marked as a verified Amazon purchase, and each gives a one-star score: “Don’t make the mistake of buying this,” and “A completely useless purchase.” Sample pages contain nothing but walls of text, with no images and a notably verbose writing style."
+        },
+        {
+          "t": "p",
+          "x": "Amazon’s Kindle Direct Publishing (KDP) lets individuals self-publish for free, with print-on-demand costs deducted from sales. Combined with generative AI, the system makes it possible to mass-produce “books” at little risk. KDP requires publishers to disclose AI use during publishing, but none of the nine books appeared to disclose it to consumers."
+        },
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-003.webp"
+        },
+        {
+          "t": "p",
+          "x": "The reviews suggest consumers are indeed being misled, and such fake publications are likely to become increasingly convincing as AI tools evolve."
+        }
+      ]
+    },
+    "books/manga-platform": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261023-74214-header-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Japan’s Ministry of Finance (MOF) recently proposed a shared platform where global readers could access titles from various publishers in one place. The idea was raised on the 22nd at the Fiscal System Council, an advisory body to the Minister of Finance, which argued that Japan lacks a cross-publisher platform while overseas distributors dominate the market."
+        },
+        {
+          "t": "p",
+          "x": "The idea involves using AI to translate manga into multiple languages, which MOF believes will turn the platform “into a means for readers overseas to enjoy Japanese works, thereby increasing revenue for participating publishers and other stakeholders.” It is still just a proposal, and AI translation is likely to meet friction among global manga fans."
+        },
+        {
+          "t": "p",
+          "x": "Separately, the Agency for Cultural Affairs and the Ministry of Economy, Trade and Industry have requested a combined budget of more than 250 billion yen for next year, including subsidies to individual publishers. The council’s recommendations are due to the minister of finance by December."
+        }
+      ]
+    },
+    "books/zachary-mason": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132320-1.PNG"
+        },
+        {
+          "t": "p",
+          "x": "What if advanced AI is actually designed to serve the human race? Would it help or hurt humanity? These are some of the questions posed in Fabrications, the new story collection and fourth book from Zachary Mason, a computer scientist who worked for tech startups until a few years ago."
+        },
+        {
+          "t": "p",
+          "x": "Mason believes that at some point (“probably somewhere between five years and 50”), computers will help humans understand how the mind works, the key to AI that “could plausibly be called thinking.” His debut, The Lost Books of the Odyssey, became a bestseller after FSG published it in 2010."
+        },
+        {
+          "t": "p",
+          "x": "Grove’s Peter Blackstock, who acquired Fabrications, compares it to Ted Chiang’s science fiction. In “Ouroboros,” a late billionaire’s AI assistant hides his death and impersonates him; in “Transitional,” a robot made in a dead man’s image helps his grieving daughter move on; in “Lamina,” AI serves as a memory aid for people with dementia."
+        },
+        {
+          "t": "p",
+          "x": "“I’m just trying to see things as they are, and as they might be, and find the possibilities of how AI will sort of twine around our lives,” Mason says."
+        }
+      ]
+    },
+    "books/ai-classroom": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/chat-gpt-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Kamau Bobb on artificial intelligence in education and America’s racial caste system. At the nation’s 250th anniversary, he sees a convergence of technology and racial backlash in education: calculators, tablets and laptops were all sold as catalytic, yet less than 40 percent of American twelfth graders are proficient in basic literacy, and the racial disparities are chronic."
+        },
+        {
+          "t": "p",
+          "x": "AI-enabled tools are already transforming what is taught and how. But what do these tools do to change the fundamental structure of American education, or to break the correlation between race and academic achievement? “What does a highly efficient AI-enabled school operating in a state that has banned the teaching of Advanced Placement (AP) African American Studies offer efficiency in?”"
+        },
+        {
+          "t": "p",
+          "x": "Bobb argues the awe of AI is luring attention away from the core justice fight, and that only an explicit, committed fight for educational justice can close gaps."
+        },
+        {
+          "t": "img",
+          "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/the-bullwhips-algorithm-200x300.jpg",
+          "cap": "The Bullwhip’s Algorithm (Beacon Press, 2026)"
+        },
+        {
+          "t": "p",
+          "x": "Excerpted from The Bullwhip’s Algorithm: Artificial Intelligence and America’s Racial Caste System by Kamau Bobb (Beacon Press, 2026)."
+        }
+      ]
+    },
+    "books/books-dark-factory": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Going beyond simple manuscript writing based on generative artificial intelligence (AI), a knowledge production factory that autonomously carries out the entire process, from planning, writing and proofreading to ISBN issuance, legal deposit with the National Library of Korea, and distribution and settlement through major online and offline bookstores, is entering commercial operation. Strategy Group Ieum (chief strategist Seok Jong-deuk) said on the 26th that it has completed verification of every commercial publishing step for the 'Arcadia Autonomous Dark Factory' and will begin full operation on November 1."
+        },
+        {
+          "t": "img",
+          "src": "https://www.megaeconomy.co.kr/news/data/20261026/p1065578229975864_869_thum.png",
+          "cap": "Arcadia Autonomous Dark Factory"
+        },
+        {
+          "t": "p",
+          "x": "In the verification phase, it planned and wrote a total of 9 books in-house and completed the full cycle through visual production, typesetting and review to ISBN issuance, legal deposit, bookstore registration and actual sales settlement. From November, it will expand commercial output by combining major domestic distribution channels such as Kyobo Book Centre, Yes24 and Aladin with a self-operating AI organization."
+        },
+        {
+          "t": "p",
+          "x": "An 'AI factory manager' oversees task assignment, agent training, progress management, error correction and handoff to the next step, while dedicated sub-agents divide up manuscript writing, illustration, legal deposit applications and e-book registration. The company has consolidated the know-how it gained from producing 114 books over 1 year since October 2025 into 'common backend' rules."
+        },
+        {
+          "t": "img",
+          "src": "https://www.megaeconomy.co.kr/news/data/20261026/p1065578229975864_230_thum.jpeg",
+          "cap": "Arcadia 9 Book Covers"
+        },
+        {
+          "t": "p",
+          "x": "The long-term lineup totals 29834 titles, including 14917 in Korean and 14917 in English, and the production target after commercial launch is 2000 books a month, or 24000 a year, for Korean and English combined. AI collects and analyzes bookstore sales trends to decide on follow-up production, and e-books that sell well are linked to print-on-demand (POD)."
+        }
+      ]
     }
   }
 }

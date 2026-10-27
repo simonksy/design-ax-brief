@@ -1,11 +1,7 @@
-{
-  "date": "2026-10-27",
-  "section": "books",
-  "media": [
-    {"id": "books-dark-factory", "type": "image", "src": "pipeline/media/books-dark-factory.png"},
-    {"id": "books-anthropic-korean-titles", "type": "image", "src": "pipeline/media/books-anthropic-korean-titles.jpg"},
-    {"id": "books-sweden-ai-classics", "type": "image", "src": "pipeline/media/books-sweden-ai-classics.jpg"},
-    {"id": "books-gebru-deep-unlearning", "type": "image", "src": "pipeline/media/books-gebru-deep-unlearning.jpg"},
-    {"id": "books-webtoon-forum", "type": "image", "src": "pipeline/media/books-webtoon-forum.jpg"}
-  ]
-}
+{"date":"2026-10-28","section":"books","media":[
+{"id":"youtube-audiobooks","type":"image","src":"pipeline/media/youtube-audiobooks.jpg"},
+{"id":"guideslop","type":"image","src":"pipeline/media/guideslop.jpg"},
+{"id":"manga-platform","type":"image","src":"pipeline/media/manga-platform.jpg"},
+{"id":"zachary-mason","type":"image","src":"pipeline/media/zachary-mason.png"},
+{"id":"ai-classroom","type":"image","src":"pipeline/media/ai-classroom.jpg"}
+]}

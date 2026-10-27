@@ -2405,6 +2405,122 @@
           "x": "Rivanna is also developing an investigational module to help clinicians evaluate potential extremity fractures on ultrasound images. The firm said the work has been supported by the U.S. Biomedical Advanced Research and Development Authority."
         }
       ]
+    },
+    "medicine/medicine-chatgpt5-fracture": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "ChatGPT-5 missed approximately half of distal radius fractures on plain x-rays when provided a single binary fracture-or-not prompt, according to a study published October 26 in Emergency Radiology by a group from the Rambam Health Care Campus in Haifa, Israel."
+        },
+        {
+          "t": "p",
+          "x": "The researchers submitted 370 anteroposterior distal radius x-rays from the Stanford MURA dataset to ChatGPT-5 via its public web interface in a zero-shot approach. They asked, “Is there a fracture in this X-ray? Answer with yes or no.”"
+        },
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/chatgpt-fractures.umykcGJONV.jpg?auto=format%2Ccompress&fit=max&q=70&w=800",
+          "cap": "Representative ChatGPT-5 outputs against the reference standard. Emergency Radiology"
+        },
+        {
+          "t": "p",
+          "x": "Fracture prevalence in the analyzed sample was 45.9% (170/370). ChatGPT-5 missed 83 fractures, demonstrating a sensitivity of 51.2% and a specificity of 70.5%, with overall accuracy of 61.6%. False negatives significantly exceeded false positives."
+        },
+        {
+          "t": "p",
+          "x": "\"Put plainly: a general-purpose chatbot should not be used to decide whether a radiograph shows a fracture,\" the researchers wrote."
+        }
+      ]
+    },
+    "medicine/medicine-ich-triage": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "PHILADELPHIA -- An AI-based triage approach could lower turnaround times in emergency settings, suggest findings presented October 27 at the SIIM-CAIMI 2026 meeting by Ai Tong, PhD, from the University of Washington in Seattle."
+        },
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/img-7815.SDSxU6LNkw.jpg?auto=format%2Ccompress&fit=max&q=70&w=800",
+          "cap": "Ai Tong, PhD, reports on her team's use of an AI-based ICH triaging approach."
+        },
+        {
+          "t": "p",
+          "x": "The AI triage system achieved 79.3% sensitivity, 94.2% specificity, and an F1 score of 0.78 against NLP-derived ICH labels. Among ICH-positive exams, AI triaging reduced report turnaround time from a median of 214 minutes to 201 minutes (p = 0.03)."
+        },
+        {
+          "t": "p",
+          "x": "Among 10,898 pre-AI and 9,317 post-AI emergency encounters, AI-positive cases led to shorter time to admission (median 423.5 minutes) than AI-negative cases (523.0 minutes; p = 0.004)."
+        },
+        {
+          "t": "p",
+          "x": "“This [study] is early and only correlational,” Tong said, adding the findings suggest AI triaging’s clinical impact extends beyond radiology efficiency."
+        }
+      ]
+    },
+    "medicine/medicine-mmc-drift": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The integration of artificial intelligence (AI) into clinical medical imaging has advanced diagnostics but also poses challenges in maintaining long-term reliability as input data change. To address this, we present MMC+, a modular framework for scalable drift monitoring that builds on our CheXstray framework for real-time drift detection using multi-modal data concordance (MMC)."
+        },
+        {
+          "t": "p",
+          "x": "MMC+ provides a flexible architecture that enables cost-effective continuous performance monitoring in real-world healthcare settings. The framework’s capabilities include aggregating information from multiple data streams using statistical tests or distance metrics, leveraging foundation model embeddings to remove the need for site-specific encoder training, and quantifying uncertainty to better communicate drift significance."
+        },
+        {
+          "t": "p",
+          "x": "Validated with data from Massachusetts General Hospital during the COVID-19 pandemic, MMC+ effectively detects significant data shifts that correlate with performance changes and indicates when AI systems may deviate from acceptable performance bounds. The code for MMC+ is publicly available, promoting broader adoption of AI solutions in clinical settings."
+        }
+      ]
+    },
+    "medicine/medicine-uhc-avery": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1635360990/UnitedHealthcare_sign.jpg/UnitedHealthcare_sign.jpg?VersionId=mRAMc4oGgCt6.6zJw_PKJwe2kXPjRXqW",
+          "cap": "Accuracy is critical to helping members build trust with the tool and use it most effectively, said Craig Kurtzweil, chief data and analytics officer at UnitedHealthcare. (UnitedHealthcare)"
+        },
+        {
+          "t": "p",
+          "x": "Earlier this year, UnitedHealthcare unveiled Avery, a generative AI companion aimed at supporting care coordination for its members. At the time, the tool was available to about 6.5 million of its members in employer plans and 160,000 people enrolled in Medicare Advantage. Now, the insurer is expanding access to 21 million of its members."
+        },
+        {
+          "t": "p",
+          "x": "To date, the company has found that Avery has resolved 90% of its member interactions, and in the remaining 10% of cases, can complete a handoff to a human advocate to offer member support."
+        },
+        {
+          "t": "p",
+          "x": "Kurtzweil said a key piece of what makes Avery work is that it's built on \"ground truth systems\" that create a critical data foundation for the platform. Avery can provide key details on deductibles, out-of-pocket maximums, provider networks, pricing and claims processing."
+        },
+        {
+          "t": "p",
+          "x": "The team is also building out additional functionality for Avery, including an option for it to call providers and schedule appointments on the member's behalf. UnitedHealthcare intends to ultimately ensure that all of its enrollees can tap into the tool."
+        }
+      ]
+    },
+    "medicine/medicine-cari-heart": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cardiovascularbusiness.com/sites/default/files/styles/top_stories/public/2026-10/caristo_fai_used_in_first_us_study_since_fda_clearance.jpg.webp?itok=TH_ctwZ9",
+          "cap": "Caristo's fat attenuation index (FAI) AI-assessment for coronary inflammation in CCTA scans can visualize patient's residual cardiac risk not seen on traditional cardiac assessments."
+        },
+        {
+          "t": "p",
+          "x": "The first U.S. study of Caristo Diagnostics’ FDA-cleared CaRi-Heart technology for coronary inflammation detection found a large number of asymptomatic adult patients were actually at an elevated risk of cardiac events."
+        },
+        {
+          "t": "p",
+          "x": "The study, conducted by the Biograph concierge medicine clinic, used Caristo's fat attenuation index (FAI) AI algorithm on preventive cardiac CT scans and found inflammation in 42.9% of study participants. Of these, 17.9% had very high inflammation levels in at least one major artery. Approximately 47% of participants who had no detectable coronary plaque were found to have elevated coronary perivascular inflammation, which raises their risk of a cardiac event."
+        },
+        {
+          "t": "p",
+          "x": "“Crucially, no routine blood biomarker, lipid metric, or clinical risk score could identify these individuals with inflamed coronary arteries,” said Michael Doney, MD, executive medical director at Biograph. He added that more research is needed to validate this and establish the prognostic value of FAI."
+        },
+        {
+          "t": "p",
+          "x": "The FDA granted de novo market clearance for the CaRi-Heart technology in late July. It is the first technology that can visualize and clearly quantify coronary inflammation using FAI scores."
+        }
+      ]
     }
   }
 }

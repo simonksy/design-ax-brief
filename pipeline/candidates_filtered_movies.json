@@ -1,194 +1,193 @@
 {
   "section": "movies",
-  "now_iso": "2026-10-27T01:45:00Z",
+  "now_iso": "2026-10-27T22:04:00Z",
   "window_hours": 336,
+  "recovery_pass": 2,
+  "terms_used": [
+    "AI dubbing/localization",
+    "Flawless/DeepDub/ElevenLabs dubbing",
+    "Metaphysic/digital double/de-aging",
+    "Autodesk Flow/Wonder Dynamics/Cuebric",
+    "virtual production AI",
+    "SAG-AFTRA/Equity/BECTU/IATSE AI",
+    "AI film festival/AIFF",
+    "Netflix/Prime Video generative AI",
+    "Moonvalley/Asteria/Toonstar/Promise",
+    "Premiere/After Effects/Avid/Frame.io AI",
+    "Kling/Veo/Pika/Luma filmmakers",
+    "AI anime studio",
+    "AI documentary ethics",
+    "AI trailer marketing",
+    "synthetic performer/AI actor",
+    "AI storyboard previs (Pzaz)",
+    "studio library AI training (Versos)",
+    "AI 애니메이션 제작",
+    "AI 더빙",
+    "생성형 AI 드라마",
+    "버추얼 프로덕션 AI",
+    "AI 영화제 수상",
+    "CJ ENM AI"
+  ],
   "items": [
     {
-      "title": "Ava DuVernay Defends Using AI in New Doc ’14th’",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/ava-duvernay-defends-using-ai-doc-14th-1236739774/",
+      "title": "A Look at Some of Our Favorite Cinematic Suite Tools in Topview's Film Studio 2.0",
+      "url": "https://nofilmschool.com/topview-cinematic-suite-tools",
+      "source": "No Film School",
+      "published_iso": "2026-10-26T22:00:03+00:00",
+      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=68506834&width=1200&height=600&coordinates=0%2C40%2C0%2C40",
+      "excerpt": "No Film School breaks down the most useful AI tools in Topview's Film Studio 2.0 cinematic suite, pitching it as a platform for AI filmmaking and for using AI to assist traditional filmmaking.",
+      "strength": "strong",
+      "expansion_term": "AI filmmaking platforms (Topview)",
+      "category": "movies",
+      "history_match": {
+        "score": 0.152,
+        "date": "2026-10-13",
+        "url": "https://deadline.com/2026/10/ai-filmmaking-kling-ai-kim-sung-soo-mbc-busan-1237154243/",
+        "title": "AI Productions Require Traditional Skills To Be Cinematic, Say Filmmakers On Kling AI Panel: “You Need Experts To Prevent Everything Looking The Same”",
+        "band": "related"
+      }
+    },
+    {
+      "title": "'VelociPastor 2' Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era",
+      "url": "https://variety.com/2026/film/festivals/velocipastor-2-filmquest-audience-laughter-1236930949/",
+      "source": "Variety",
+      "published_iso": "2026-10-26T08:53:16+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/10/VelociPastor-2.png?crop=0px%2C34px%2C1950px%2C1097px&resize=1000%2C563",
+      "excerpt": "At Utah genre festival FilmQuest, AI's spread in the industry met near-universal distrust; one of the biggest applause lines before every screening was a promise that the feature contained no AI.",
+      "strength": "medium (festival AI policy angle; AI is framing, review-heavy)",
+      "expansion_term": "film festival AI policies",
+      "category": "movies"
+    },
+    {
+      "title": "'The Loud House' Moves S10 Production To Canada, Director Says",
+      "url": "https://www.cartoonbrew.com/series/loud-house-production-canada-jessica-borutski-268452.html",
+      "source": "Cartoon Brew",
+      "published_iso": "2026-10-26T16:55:29+00:00",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/The-Loud-House.jpg",
+      "excerpt": "Jessica Borutski and Maxwell Atoms discuss lost jobs and AI; neither has seen AI implemented in their studios' workflows, naming Animaj's 'Ozzy Fox' collaboration as the lone exception they know of.",
+      "strength": "weak-medium (AI is one discussion thread; runaway production is the lead)",
+      "expansion_term": "AI animation studios (Animaj)",
+      "category": "movies"
+    },
+    {
+      "title": "Aardman at 50: Keeping Animation Independent and Hand-Made",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/aardman-animations-at-50-keeping-stop-motion-alive-1236738147/",
       "source": "The Hollywood Reporter",
+      "published_iso": "2026-10-22T15:56:29+00:00",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/4216x2371-STS_BEAST_PS_003_040-04300_ShaunPointingBlackboard-EMBED-2026.jpg?w=1000&h=562&crop=1",
+      "excerpt": "Facing consolidation and the rise of AI, employee-owned Aardman bets on handmade stop-motion; the studio draws a sharp line against generative AI but is open to digital tools that improve production efficiency.",
+      "strength": "medium (studio genAI policy; AI is a section, not the lead)",
+      "expansion_term": "AI animation studio policy",
+      "category": "movies"
+    },
+    {
+      "title": "Jennifer Siebel Newsom Thinks It's Time Tech Leaders Faced Accountability",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/jennifer-siebel-newsom-tech-leaders-accountable-1236736747/",
+      "source": "The Hollywood Reporter",
+      "published_iso": "2026-10-22T17:03:39+00:00",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2046701876.jpg?w=1440&h=810&crop=1",
+      "excerpt": "Her new documentary 'Miss Representation: Rise Up' argues social platforms and AI tools have been weaponized to harass and silence women and girls.",
+      "strength": "weak (AI is documentary subject, no craft hook)",
+      "expansion_term": "AI documentaries ethics",
+      "category": "movies"
+    },
+    {
+      "title": "Hiding In Plain Sight: Top Execs On Unlocking The Value In Legacy IP",
+      "url": "https://deadline.com/2026/10/legacy-ip-value-mipcom-acf-deadline-1237172952",
+      "source": "Deadline",
+      "published_iso": "2026-10-26T11:54:54+00:00",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/10/ACF-.jpg?w=1024",
+      "excerpt": "An ACF/Deadline MIPCOM roundtable on legacy IP covers AI monetization of libraries, including Versos AI, which licenses studios' dormant footage as AI training data.",
+      "strength": "medium (AI training-data licensing of film libraries is one section)",
+      "expansion_term": "studio library AI training licensing (Versos AI)",
+      "category": "movies"
+    },
+    {
+      "title": "Ex-Disney & NBCU Execs Among New Advisory Board At Pzaz",
+      "url": "https://deadline.com/2026/10/pzaz-advisory-board-disney-nbcu-netflix-execs-1237168388",
+      "source": "Deadline",
+      "published_iso": "2026-10-21T08:00:00+00:00",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/10/Pzaz-Advisory-Board.jpg?w=1024",
+      "excerpt": "Storyboarding and previsualisation platform Pzaz, which lets creatives build storyboards and visuals in minutes with a proprietary AI system, adds former Disney, NBCU and Bloomberg TV execs to its advisory board.",
+      "strength": "weak (exec-board news; AI previs tool is the hook)",
+      "expansion_term": "AI storyboard/previs platforms",
+      "category": "movies"
+    },
+    {
+      "title": "RisingJoy Signs International Distribution Pact With NTT DOCOMO",
+      "url": "https://deadline.com/2026/10/risingjoy-ntt-docomo-studio-international-distribution-1237172884",
+      "source": "Deadline",
+      "published_iso": "2026-10-26T06:23:00+00:00",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/10/Hide-My-Secret-in-the-Moonlight_No-Title-1.jpg?w=1024",
+      "excerpt": "RisingJoy commits to 30 vertical anime titles by Q1 2027, saying AI production tools let it reach a scale and cadence conventional animation cannot support.",
+      "strength": "medium (AI production of vertical anime; distribution deal is the lead)",
+      "expansion_term": "AI anime / vertical microdrama animation",
       "category": "movies",
-      "published_iso": "2026-10-26T15:00:00+00:00",
-      "excerpt": "The director wants audiences to “make their decisions about how they feel” about the technology, which is used to bring to life some archival photos in the film.",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2302002182.jpg?crop=0px%2C43px%2C3415px%2C1911px&resize=1440%2C810",
       "history_match": {
-        "score": 0.379,
-        "date": "2026-10-19",
-        "url": "https://www.indiewire.com/features/interviews/ava-duvernay-interview-14th-not-sequel-nyff-1235221117/",
-        "title": "Ava DuVernay Didn't Make a Sequel — She Made '14th'",
+        "score": 0.164,
+        "date": "2026-10-05",
+        "url": "https://deadline.com/2026/09/mformedia-arcana-labs-sign-ai-production-pact-1237143000/",
+        "title": "MForMedia & Arcana Labs Sign AI Production Pact For Middle East",
         "band": "related"
       }
     },
     {
-      "title": "China’s First AI Feature Flops At The Chinese Box Office",
-      "url": "https://www.cartoonbrew.com/box-office-report/chinese-ai-film-sanxingdui-future-past-box-office-flop-268426.html",
-      "source": "Cartoon Brew",
-      "category": "movies",
-      "published_iso": "2026-10-26T12:50:29+00:00",
-      "excerpt": "Bona Film Group’s AI experiment struggled to attract attention, months after the humble 'Niu Lai’ turned online ridicule into almost $10 million in sales.",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Sanxingdui-Niu-Lai.jpg",
-      "history_match": {
-        "score": 0.216,
-        "date": "2026-10-23",
-        "url": "https://www.globaltimes.cn/page/202610/1372724.shtml",
-        "title": "China's first fully AI-generated feature film to hit cinemas on Friday",
-        "band": "related"
-      }
+      "title": "브이캣, 일본 TV아사히 사극 '사나다 주유시' AI 영상 제작 참여…넷플릭스 공개",
+      "url": "https://www.venturesquare.net/1122539/",
+      "source": "VentureSquare",
+      "published_iso": "2026-10-23T14:01:18+09:00",
+      "og_image": "https://www.venturesquare.net/wp-content/uploads/2026/10/vcat.png",
+      "excerpt": "Korean AI video studio VCAT produced AI shots for TV Asahi/Toei's 7-part period drama, combining live action with AI and VFX for difficult action scenes; the series airs on TV Asahi and streams on Netflix, and an AI-only promo ran in Times Square.",
+      "strength": "strong (off-list: no allowed-domain coverage)",
+      "expansion_term": "Japanese AI drama production / AI VFX in broadcast drama",
+      "category": "movies"
     },
     {
-      "title": "Hollywood Animation Directors On Distribution, Sequels, And AI",
-      "url": "https://www.cartoonbrew.com/events/view-conference-joel-crawford-januel-mercado-mckenna-harris-tyree-dillihay-267957.html",
-      "source": "Cartoon Brew",
-      "category": "movies",
-      "published_iso": "2026-10-15T16:54:47+00:00",
-      "excerpt": "At View, directors of 'GOAT,' 'Forgotten Island,' and Toy Story 5' discussed the state of the box office, original storytelling, and, unavoidably, AI.",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Directors.jpg"
+      "title": "허드슨에이아이, 더빙 제작부터 품질 검수까지 AI로 통합…콘텐츠 현지화 자동화 기술 공개",
+      "url": "https://www.venturesquare.net/1122716/",
+      "source": "VentureSquare",
+      "published_iso": "2026-10-26T01:05:57+09:00",
+      "og_image": "https://www.venturesquare.net/wp-content/uploads/2026/10/GUDSON-789x377.png",
+      "excerpt": "Hudson AI unveiled a localization AI agent that identifies 40+ speakers, separates overlapping speech and reads character relationships to generate multilingual dubs, automating over 90% of QC; it is in proof-of-concept with global media companies after MIPCOM.",
+      "strength": "strong (off-list: AI dubbing, no allowed-domain coverage)",
+      "expansion_term": "AI dubbing / localization agent",
+      "category": "movies"
     },
     {
-      "title": "Blue Planet III is keeping the rough edges in the age of AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-      "source": "The Verge",
-      "category": "movies",
-      "published_iso": "2026-10-24T21:29:12+00:00",
-      "excerpt": "BBC’s Blue Planet III is keeping in shots that would normally end up on the cutting room floor to prove it’s real.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&strip=all&crop=0%2C3.4695867913185%2C100%2C93.060826417363&w=1200",
-      "history_match": {
-        "score": 0.352,
-        "date": "2026-10-20",
-        "url": "https://deadline.com/2026/10/bbc-kate-phillips-on-ai-youtube-blue-planet-iii-1237155480/",
-        "title": "BBC's Kate Phillips On AI, YouTube & 'Blue Planet III'",
-        "band": "related"
-      }
+      "title": "\"장편 제작에 70억원? 다른 방법은 없을까\"…홍정민 스튜디오 여우별 대표가 AI에 뛰어든 이유",
+      "url": "https://www.venturesquare.net/1120310/",
+      "source": "VentureSquare",
+      "published_iso": "2026-10-16T09:13:14+09:00",
+      "og_image": "https://www.venturesquare.net/wp-content/uploads/2026/10/HONG.png",
+      "excerpt": "Studio Yeoubyeol's Hong Jeong-min uses generative AI (Seedance 2.0, Suno) to cut the cost of feature animation; his 90-second AI short 'Stitching Heart', made in about 10 hours, won an Honorable Mention among 648 entries from 67 countries.",
+      "strength": "strong (off-list: Korean AI animation)",
+      "expansion_term": "AI 애니메이션 제작 / AI short film award",
+      "category": "movies"
     },
     {
-      "title": "Introducing Runway App Studio",
-      "url": "https://runway.com/news/company-news/introducing-runway-app-studio",
-      "source": "Runway",
-      "category": "movies",
-      "published_iso": "2026-10-26T20:31:00.000Z",
-      "excerpt": "Build custom AI apps that generate images, video and audio with your Brand Kits and Workflows. No code required, and easy to share with your whole team.",
-      "og_image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/hero-1600-900-social-og-2x-355537f0-b954-4a87-8955-47c89bc15d4b.png",
-      "history_match": {
-        "score": 0.343,
-        "date": "2026-09-30",
-        "url": "https://www.youtube.com/watch?v=HiaxR-XIQp8",
-        "title": "Introducing Agent Tagging | Runway",
-        "band": "related"
-      }
-    },
-    {
-      "title": "I Solved Green Screen, and I'm Giving it to YOU!",
-      "url": "https://www.youtube.com/watch?v=svrdRAoIlxM",
-      "source": "Corridor Crew",
-      "category": "movies",
-      "published_iso": "2026-10-21T09:00:04-07:00",
-      "excerpt": "Corridor Crew releases CorridorKey 2.0, its neural-network green-screen keyer, as a free open-source version plus an official plugin (corridorkey.com). Video sponsored by NVIDIA and Puget Systems.",
-      "og_image": "https://i.ytimg.com/vi/svrdRAoIlxM/maxresdefault.jpg",
-      "history_match": {
-        "score": 0.336,
-        "date": "2026-10-17",
-        "url": "https://www.youtube.com/watch?v=godomkRXBLE",
-        "title": "CorridorKey 2.0 just works...",
-        "band": "related"
-      }
-    },
-    {
-      "title": "This Hack Fixes Your AI Character Consistency Issues (Pro Workflow)",
-      "url": "https://www.youtube.com/watch?v=ktEt4n9VlF4",
-      "source": "Curious Refuge",
-      "category": "movies",
-      "published_iso": "2026-10-13T14:10:48-07:00",
-      "excerpt": "In this video, we'll compare two popular AI character consistency methods to see which one actually works better for AI filmmaking.Check out the full written...",
-      "og_image": "https://i.ytimg.com/vi/ktEt4n9VlF4/maxresdefault.jpg"
-    },
-    {
-      "title": "Ramayana: Producer Namit Malhotra Explains How Human Voices Combined With AI Formed English Dubbing",
-      "url": "https://www.timesnownews.com/entertainment-news/bollywood/ramayan-producer-namit-malhotra-explains-how-human-voices-combined-with-ai-formed-english-dubbing-article-156399525",
-      "source": "Times Now",
-      "category": "movies",
-      "published_iso": "2026-10-25T00:20:54+05:30",
-      "excerpt": "Ramayana Part 1 was shot only in Hindi. Its English and other international versions use Brahma AI, which combines the human actors' voice work with AI audio and lip-sync so each language version matches the actors' mouth movements. The film opens in theatres and IMAX on November 5.",
-      "og_image": "https://images.timesnownews.com/thumb/msid-156399526,thumbsize-1025251,width-1280,height-720,resizemode-75/156399526.jpg",
-      "off_list": true,
-      "note": "Off-list (no allowed-domain coverage found). Brahma face-replacement tech was published earlier via AWN (Jo Plaete); this is a separate story about AI dubbing on a major theatrical release."
-    },
-    {
-      "title": "Jujutsu Kaisen studio boss says AI is just \"a tool\" and real emotion has come from people",
-      "url": "https://www.gamesradar.com/entertainment/anime-shows/jujutsu-kaisen-studio-boss-says-ai-is-nothing-more-than-a-tool-and-real-emotion-has-come-from-the-people-who-create-it/",
-      "source": "GamesRadar+",
-      "category": "movies",
-      "published_iso": "2026-10-19T10:57:37Z",
-      "excerpt": "MAPPA president and CEO Manabu Otsuka, whose studio makes Jujutsu Kaisen and Chainsaw Man, says generative AI is nothing more than a tool in anime production and that the emotion audiences respond to comes from human creators. He made the comments amid a growing backlash over AI in the anime industry.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/hmUXdw3tBhZTqqzch5PMdj-1920-80.jpg",
-      "off_list": true,
-      "note": "Off-list (Future plc entertainment desk). Fills the anime-production AI angle; no on-list coverage found."
-    },
-    {
-      "title": "A Freshman Year Foundation for AI Filmmaking",
-      "url": "https://www.awn.com/blog/freshman-year-foundation-ai-filmmaking",
-      "source": "Animation World Network",
-      "category": "movies",
-      "published_iso": "2026-10-19T18:41:00Z",
-      "excerpt": "Kevin Geiger, an animation veteran and educator, proposes a first-year AI filmmaking curriculum for art schools that is about 70% traditional foundations and 30% generative practice. He treats prompting as a form of directing and argues that the AI filmmaker is a creator, director, editor and producer, not a 'prompt engineer.'",
-      "og_image": "https://www.awn.com/sites/default/files/styles/inline/public/image/featured/ai_foundation_01-1280.jpg?itok=D_auEern",
-      "note": "AWN blog/opinion. Published time taken from the rendered 'submitted Monday, October 19, 2026 at 11:41am' (PT) line, which matches the Google News pubDate. The HTML is behind Cloudflare, so it was read via r.jina.ai."
-    },
-    {
-      "title": "ElevenLabs and Mistral Make Voices Speak Any Language",
-      "url": "https://www.voiceoverherald.com/elevenlabs-realtime-translation-mistral-voxtral-3-voice-clone-languages/",
-      "source": "Voice Over Herald",
-      "category": "movies",
-      "published_iso": "2026-10-24T13:05:00+00:00",
-      "excerpt": "ElevenLabs' live translation now works in more than 90 languages using a speaker's own voice clone, and Mistral's Voxtral 3 can copy a voice from 30 minutes of audio. Together they make one performer's voice speak dozens of languages, with direct consequences for dubbing and localization work.",
-      "og_image": "https://www.voiceoverherald.com/wp-content/uploads/2026/10/el.jpg",
-      "off_list": true,
-      "note": "Off-list. Covers the localization/dubbing angle. Weaker fit for film; the curator may prefer to skip it.",
-      "history_match": {
-        "score": 0.159,
-        "date": "2026-10-08",
-        "url": "https://nofilmschool.com/dittodub-native-6-ai-dubbing-model",
-        "title": "DittoDub Launches New Native 6 AI Dubbing Model With Support for Over 100 Languages",
-        "band": "related"
-      }
+      "title": "Netflix deploys up to 60 specialists per language to bring Korean culture to global audiences",
+      "url": "https://biz.heraldcorp.com/article/10904043",
+      "source": "The Korea Herald (Herald Corp)",
+      "published_iso": "2026-10-15T15:58:57+09:00",
+      "og_image": "https://wimg.heraldcorp.com/news/cms/2026/10/15/news-p.v1.20261015.bd9745e3f75649c69f5a3961e0998a07_P1.png",
+      "excerpt": "At a Netflix-KOCCA localization roundtable, Netflix's Catherine Letarte said human-led dubbing and subtitling remain essential: 'AI can assist with the work, but it is only a tool that supports specialists.'",
+      "strength": "weak-medium (off-list; AI stance is a section of a localization story)",
+      "expansion_term": "streaming AI dubbing (Netflix localization)",
+      "category": "movies"
     }
   ],
   "dedup": {
-    "dropped": 7,
-    "kept": 8,
+    "dropped": 0,
+    "kept": 12,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 6,
+    "review": 2,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-09-27",
-      "title": "Netflix Competition 'Wonka's The Golden Ticket' Is a Ghoulish Misuse of AI Gene Wilder: TV Review",
-      "url": "https://variety.com/2026/tv/reviews/wonkas-golden-ticket-review-ai-gene-wilder-1236872754/"
-    },
-    {
-      "date": "2026-09-27",
-      "title": "무암, '수호도사: 세계유산을 지켜라' 27일 CGV 4DX 특별 상영",
-      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=277400"
-    },
-    {
-      "date": "2026-09-27",
-      "title": "Pioneering AI Film & TV visual development platform Cineme goes live 1st October 2026",
-      "url": "https://www.cinematography.world/pioneering-ai-film-tv-visual-development-platform-cineme-goes-live-1st-october-2026/"
-    },
-    {
-      "date": "2026-09-27",
-      "title": "How a studio created an \"impossible\" animated symphony using Autodesk",
-      "url": "https://www.creativebloq.com/art/animation/how-a-studio-created-an-impossible-animated-symphony-using-autodesks-ai-driven-mocap-tech"
-    },
-    {
-      "date": "2026-09-27",
-      "title": "Retouch4me Lab Video: get a cinematic look in a few clicks",
-      "url": "https://www.provideocoalition.com/retouch4me-lab-video-get-a-cinematic-look-in-a-few-clicks/"
-    },
     {
       "date": "2026-09-28",
       "title": "'Musk' Producer, Atwater-Magnific Exec & 'Gods Don't Give Gifts' Director Talk AI: \"It's Important To Get In The Driver's Seat\" — Zurich Summit",
@@ -863,6 +862,26 @@
       "date": "2026-10-26",
       "title": "Hollywood AI-listers: is the technology ready to rival flesh-and-blood film stars?",
       "url": "https://www.theguardian.com/film/2026/oct/20/ai-actors-val-kilmer-as-deep-as-the-grave-tilly-norwood"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "Introducing Runway App Studio",
+      "url": "https://runway.com/news/company-news/introducing-runway-app-studio"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "China’s First AI Feature Flops At The Chinese Box Office",
+      "url": "https://www.cartoonbrew.com/box-office-report/chinese-ai-film-sanxingdui-future-past-box-office-flop-268426.html"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "Ramayana: Producer Namit Malhotra Explains How Human Voices Combined With AI Formed English Dubbing",
+      "url": "https://www.timesnownews.com/entertainment-news/bollywood/ramayan-producer-namit-malhotra-explains-how-human-voices-combined-with-ai-formed-english-dubbing-article-156399525"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "This Hack Fixes Your AI Character Consistency Issues (Pro Workflow)",
+      "url": "https://www.youtube.com/watch?v=ktEt4n9VlF4"
     }
   ]
 }

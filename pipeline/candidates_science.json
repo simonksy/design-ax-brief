@@ -1,79 +1,52 @@
 {
   "section": "science",
-  "now_iso": "2026-10-27T01:45:00Z",
+  "now_iso": "2026-10-27T22:04:00Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Ahead of their time: Restricted to pre-2018 research, AI flags hydrogen catalyst reported in later experiments",
-      "url": "https://phys.org/news/2026-10-restricted-pre-ai-flags-hydrogen.html",
-      "source": "Phys.org",
+      "title": "OpenAI just scooped mathematicians' work on another million-dollar problem",
+      "url": "https://www.scientificamerican.com/article/openai-just-scooped-human-researchers-on-a-million-dollar-quantum-math-problem/",
+      "source": "Scientific American",
       "category": "science",
-      "published_iso": "2026-10-26T14:00:00Z",
-      "excerpt": "A large language model limited to pre-2018 literature flagged a Cr-Co-Fe-Mn-Ni alloy later reported as a hydrogen evolution electrocatalyst, and proposed new untested candidates (ACS Catalysis, DOI 10.1021/acscatal.6c00635).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ahead-of-their-time.jpg"
+      "published_iso": "2026-10-27T14:10:00-04:00",
+      "excerpt": "Another bombshell result shows how artificial intelligence is fueling fierce competition at the frontiers of math and physics: OpenAI says its models produced proofs in mathematics, computer science and quantum physics, one of which touches a million-dollar problem.",
+      "og_image": "https://static.scientificamerican.com/dam/asset/be949c97-6aba-446d-bd3a-f2e111fa9566/Quantum-AI-math-blob.jpeg?m=1793127414.515&w=1200"
     },
     {
-      "title": "AI-powered robotic laboratory paves the way for discovering next-generation heat-resistant coatings",
-      "url": "https://phys.org/news/2026-10-ai-powered-robotic-laboratory-paves.html",
-      "source": "Phys.org",
+      "title": "Dueling proofs from OpenAI and Anthropic astound scientists",
+      "url": "https://www.scientificamerican.com/article/dueling-proofs-from-openai-and-anthropic-astound-scientists/",
+      "source": "Scientific American",
       "category": "science",
-      "published_iso": "2026-10-26T19:09:00Z",
-      "excerpt": "University of Nottingham built a self-driving lab where robotic arms dispense, fire and retrieve samples while an active-learning AI picks which pyrochlore compositions to test as thermal barrier coatings (Eng. Appl. of AI, DOI 10.1016/j.engappai.2026.114993).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-powered-robotic-lab.jpg"
+      "published_iso": "2026-10-27T10:30:00-04:00",
+      "excerpt": "OpenAI and Anthropic released AI-generated results that claim to resolve major problems in math, physics and computer science, but like other recent AI 'slop drops' the releases are already controversial among researchers. Same cluster as the OpenAI-proofs item; the curator should pick one.",
+      "og_image": "https://static.scientificamerican.com/dam/asset/a68eee8f-8e2b-4674-bee4-bc400e160421/shutterstock_1178400508.jpg?m=1793104449.992&w=1200"
     },
     {
-      "title": "Forecasting 'tipping points' with AI climate simulation",
-      "url": "https://phys.org/news/2026-10-ai-climate-simulation.html",
-      "source": "Phys.org",
+      "title": "OpenAI Computing Claim Faces Review, Raising Questions About Quantum Advantage",
+      "url": "https://thequantuminsider.com/2026/10/27/openai-computing-claim-faces-review-raising-questions-about-quantum-advantage/",
+      "source": "The Quantum Insider",
       "category": "science",
-      "published_iso": "2026-10-16T00:00:00Z",
-      "excerpt": "Caltech, CU Boulder and NVIDIA used a recurrent neural operator to forecast tipping points in simplified climate and airflow simulations, predicting a low-cloud collapse more than two years ahead with ~11-day timing error (PNAS, DOI 10.1073/pnas.2600331123).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-tipping-po.jpg"
+      "published_iso": "2026-10-27T08:55:21+00:00",
+      "excerpt": "Researchers will examine an AI-generated proof claiming to refute the Exponential Time Hypothesis, a long-standing assumption about how hard certain computing problems are, and the article covers what that would mean for quantum-advantage arguments.",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Branching-paths-in-quantum-complexity-1.png"
     },
     {
-      "title": "Strand AI on a desert island, and it starts playing and inventing games",
-      "url": "https://techxplore.com/news/2026-10-strand-ai-island-playing-games.html",
-      "source": "Tech Xplore",
+      "title": "SPINE: A machine-learning program is on the trail of ghost particles",
+      "url": "https://phys.org/news/2026-10-spine-machine-trail-ghost-particles.html",
+      "source": "Phys.org (SLAC)",
       "category": "science",
-      "published_iso": "2026-10-22T15:03:00Z",
-      "excerpt": "Thirteen Claude Code-based agents left on a simulated island for 30 hours with no tasks spontaneously built towers and invented bowling- and juggling-like games; experienced agents later did better on tasks and found unknown simulator physics (arXiv 2610.07130).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/strand-ai-on-a-desert.jpg"
+      "published_iso": "2026-10-27T15:10:01-04:00",
+      "excerpt": "SLAC's SPINE runs staged machine-learning models that find features in liquid-argon detector images, identify individual particles and rebuild whole neutrino interactions. It underpins ICARUS's first search for sterile-neutrino oscillation (arXiv 2603.22557).",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus.jpg"
     },
     {
-      "title": "Brain-inspired randomness makes artificial vision more reliable",
-      "url": "https://techxplore.com/news/2026-10-brain-randomness-artificial-vision-reliable.html",
-      "source": "Tech Xplore",
+      "title": "New neural framework could make LLMs more empathetic",
+      "url": "https://techxplore.com/news/2026-10-neural-framework-llms-empathetic.html",
+      "source": "Tech Xplore (Georgia Tech)",
       "category": "science",
-      "published_iso": "2026-10-20T00:00:00Z",
-      "excerpt": "Hertie Institute researchers found that combining top-down feedback with simulated neural variability during training made recurrent vision networks markedly more robust to noise, attacks and distribution shift (Patterns, DOI 10.1016/j.patter.2026.101693).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-research-how-ran.jpg"
-    },
-    {
-      "title": "AI slays the dragon as four agents conquer Minecraft without human intervention",
-      "url": "https://techxplore.com/news/2026-10-ai-slays-dragon-agents-conquer.html",
-      "source": "Tech Xplore",
-      "category": "science",
-      "published_iso": "2026-10-20T00:00:00Z",
-      "excerpt": "Four Gemini 4 Argon agents from Google DeepMind beat Minecraft's Ender Dragon in about 27 hours with no game-specific training, coordinating via chat and writing JavaScript controllers (arXiv 2610.22319).",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-slays-the-dragon-as.jpg"
-    },
-    {
-      "title": "AI could turn scientific papers into research assistants",
-      "url": "https://www.sciencenews.org/article/ai-scientific-papers-research-assistant",
-      "source": "Science News",
-      "category": "science",
-      "published_iso": "2026-10-21T13:00:00-04:00",
-      "excerpt": "An AI 'virtual author' can help scientists apply a paper's methods to new data, though it does not match a human author's expertise.",
-      "og_image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101426_KH_virtualauthor_main.jpg"
-    },
-    {
-      "title": "AI can give you your voice back",
-      "url": "https://www.sciencenews.org/article/ai-voice-restore-identity-the-deep-end",
-      "source": "Science News",
-      "category": "science",
-      "published_iso": "2026-10-20T07:00:00-04:00",
-      "excerpt": "People who have lost the ability to talk are finding new voices with AI voice-cloning and speech technology, changing what it means to lose a voice.",
-      "og_image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101926_LS_TDE_S2E3_main1.jpg"
+      "published_iso": "2026-10-27T10:40:08-04:00",
+      "excerpt": "Georgia Tech researchers built a 'capability provenance' framework that traces which training-data sources drive an LLM's behaviour. Auditing Olmo 3, they found that stronger social reasoning and empathy came from interpersonal dialogue data such as FAQs and customer-service chats, not from textbooks (COLM; arXiv 2606.19625).",
+      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2026/neural-framework.jpg"
     },
     {
       "title": "10 minutes is all it takes for AI assistance to erode your motivation, study shows",
@@ -81,7 +54,7 @@
       "source": "Live Science",
       "category": "science",
       "published_iso": "2026-10-26T09:00:00Z",
-      "excerpt": "In problem-solving experiments, people who used AI to get answers were more likely to give up and fail once the help was removed than people who never used it.",
+      "excerpt": "In a set of problem-solving experiments, people who used AI to get answers were more likely to give up and fail once that help was removed than people who never had AI help. A cognitive-offloading study.",
       "og_image": "https://cdn.mos.cms.futurecdn.net/KDnKSRXsntnrLXjdFU4uN5-1024-80.jpg"
     },
     {
@@ -90,26 +63,35 @@
       "source": "Quanta Magazine",
       "category": "science",
       "published_iso": "2026-10-19T15:40:26+00:00",
-      "excerpt": "Unlike other recent AI proofs, this one has been unpacked by human experts; the implications, one mathematician said, are 'staggering.'",
+      "excerpt": "Unlike other recent AI proofs, this one has been unpacked by human experts, and one mathematician called the implications 'staggering'.",
       "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/ReimannAI-crEmilyBuder_GuanHueiWu-Social.jpg"
     },
     {
-      "title": "Researchers improve weather forecasts looking two to six weeks out",
-      "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-      "source": "MIT News",
+      "title": "Solving a 31-year-old grand challenge in mathematics: the KLS conjecture",
+      "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
+      "source": "Microsoft Research",
       "category": "science",
-      "published_iso": "2026-10-14T15:00:00Z",
-      "excerpt": "MIT researchers built a machine-learning model that learns to correct errors in existing forecasting models, significantly improving subseasonal forecasts two to six weeks out.",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202610/MIT-Weather-Forecasting-01.gif"
+      "published_iso": "2026-10-21T16:00:00+00:00",
+      "excerpt": "A Microsoft Research scientist and a collaborator proved the 1995 Kannan-Lovasz-Simonovits conjecture in high-dimensional convex geometry. They worked with AI agents in a structured, human-directed process that explored more than 100 candidate approaches before finding a recursive criterion.",
+      "og_image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-TWLIFB-1200x627-1.jpg"
     },
     {
-      "title": "Q&A: How AI came to model the 'messy' human mind",
-      "url": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
-      "source": "MIT News",
+      "title": "AI designs functional enzyme components that could help expand drug discovery",
+      "url": "https://phys.org/news/2026-10-ai-functional-enzyme-components-drug.html",
+      "source": "Phys.org (HIPS)",
       "category": "science",
-      "published_iso": "2026-10-23T04:00:00Z",
-      "excerpt": "MIT's Benjamin Lindquist discusses how randomness and irrationality were built into early AI models designed to mimic human creativity.",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202610/MIT-indquist_Ben_IrrationalComputer-01-press.jpg"
+      "published_iso": "2026-10-21T16:20:14-04:00",
+      "excerpt": "HIPS researchers combined pretrained AI models with experiments to design 76 new thiolation domains for non-ribosomal peptide synthetases. Several worked in living cells, and some raised product yields up to threefold over natural versions (Nature Communications, 10.1038/s41467-026-77963-6).",
+      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-aids-in-the-develop.jpg"
+    },
+    {
+      "title": "Forecasting 'tipping points' with AI climate simulation",
+      "url": "https://phys.org/news/2026-10-ai-climate-simulation.html",
+      "source": "Phys.org (Caltech)",
+      "category": "science",
+      "published_iso": "2026-10-16",
+      "excerpt": "A recurrent neural operator with built-in memory of how the physics changes flagged a simulated collapse of low ocean clouds more than two years ahead, with a timing error of about 11 days. It also anticipated an abrupt loss of wing lift in airflow simulations (Caltech/CU Boulder/NVIDIA, PNAS 10.1073/pnas.2600331123). The page shows a date only.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-tipping-po.jpg"
     },
     {
       "title": "To detect deepfake videos, researchers turn to the physics of light",
@@ -117,44 +99,35 @@
       "source": "Physics World",
       "category": "science",
       "published_iso": "2026-10-21T14:00:50+00:00",
-      "excerpt": "An optical deepfake-detection technique claims 97.8% accuracy while using less energy than digital neural networks of similar performance.",
+      "excerpt": "UCLA researchers paired a digital encoder with a free-space optical decoder to score video authenticity. It reached about 97.8% accuracy on Celeb-DF batches while using less energy than comparable digital neural networks (eLight).",
       "og_image": "https://physicsworld.com/wp-content/uploads/2026/10/deep-fake-detection.jpeg"
     },
     {
-      "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
-      "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
-      "source": "Microsoft Research",
-      "category": "science",
-      "published_iso": "2026-10-21T16:00:00+00:00",
-      "excerpt": "A Microsoft researcher and collaborator resolved the KLS conjecture in high-dimensional geometry through a human-directed agentic process in which AI systems explored possibilities while researchers pruned and redirected the search.",
-      "og_image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-TWLIFB-1200x627-1.jpg"
-    },
-    {
-      "title": "Accelerating antimicrobial discovery with Google Antigravity",
-      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "source": "Google DeepMind",
-      "category": "science",
-      "published_iso": "2026-10-15T16:00:00+00:00",
-      "excerpt": "An AI agent in Google Antigravity, paired with the ProtNLM protein-function model, mined UniProt for novel antimicrobial peptide candidates and drafted a wet-lab plan for a 97-amino-acid bacteriocin lead now being tested.",
-      "og_image": "https://lh3.googleusercontent.com/Xgnc_DxAUS2Fs9H2rokxsYwPnnM_KOkPyPtKm7V2C_sjZ7YS4N1-D6lD8wjYIRQoKaiSwHUXB7qmw77m6FCfHLZenWdNymO7B_JLChlB6ied6emR=w1200-h630-n-nu-rw"
-    },
-    {
-      "title": "A crop-mapping benchmark for the tropics (PLANTEUR)",
-      "url": "https://allenai.org/blog/planteur",
-      "source": "Ai2",
-      "category": "science",
-      "published_iso": "2026-10-22T00:00:00Z",
-      "excerpt": "PLANTEUR extends the PASTIS crop-mapping benchmark to six tropical regions to evaluate geospatial AI models across more diverse agricultural systems.",
-      "og_image": "https://www.datocms-assets.com/64837/1792681400-planteur-tropical-regions-tan.png"
-    },
-    {
-      "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
-      "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
+      "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
       "source": "Google Research",
       "category": "science",
-      "published_iso": "2026-10-14T16:14:00Z",
-      "excerpt": "Google Research describes Earth AI geospatial agents that combine foundation models and Gemini reasoning to answer complex planetary questions.",
+      "published_iso": "2026-10-27T17:35:00+00:00",
+      "excerpt": "Google Research adds a sleep phase to continual learning so that LLMs can keep absorbing new facts and improving their reasoning while avoiding catastrophic forgetting and fixed knowledge cutoffs. This is ML method work with a neuroscience-inspired angle, so it is lower priority for science.",
       "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+    },
+    {
+      "title": "New AI-powered mosquito trap could help curb dengue outbreaks",
+      "url": "https://techxplore.com/news/2026-10-ai-powered-mosquito-curb-dengue.html",
+      "source": "Tech Xplore (USF)",
+      "category": "science",
+      "published_iso": "2026-10-26T10:40:01-04:00",
+      "excerpt": "A smart trap from the USF startup Digitomy uses built-in cameras and AI to identify mosquito species with more than 98% accuracy, supporting real-time vector surveillance during Florida's dengue outbreak. Low priority: it is applied surveillance.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-ai-powered-mosquit.jpg"
+    },
+    {
+      "title": "Q&A: How AI came to model the 'messy' human mind",
+      "url": "https://techxplore.com/news/2026-10-qa-ai-messy-human-mind.html",
+      "source": "Tech Xplore (MIT)",
+      "category": "science",
+      "published_iso": "2026-10-23T12:30:01-04:00",
+      "excerpt": "MIT historian Benjamin Lindquist argues that generative AI models are rooted in ideas from mid-20th-century engineers who thought some irrationality was essential for a machine that could think like a human. Low priority: this is history of science.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-hallucination-1.jpg"
     }
   ]
 }

@@ -15027,6 +15027,175 @@
           "x": "가격은 2TB 구성이 $6,499, 4TB 구성이 $6,799부터이며, 여기에 배송비 $69가 붙고 수입 관세와 세금은 별도다. 이름이 덜 알려진 브랜드에 보증도 일 년뿐이라, $7,000 가까이 쓰기엔 모험이 크다."
         }
       ]
+    },
+    "gadgets/gadgets-macbook-pro-m6": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7moKw5F2gzMVH2GPuzQHMT.jpg",
+          "cap": "(이미지 출처: Apple)"
+        },
+        {
+          "t": "p",
+          "x": "Apple이 \"Pro and tell\" 발표에서 M6 프로세서를 단 14인치 MacBook Pro의 10월 리프레시 모델을 공개했다. 터치스크린은 없고 디자인도 크게 달라지지 않았다. 차세대 Apple Intelligence와 Siri AI를 담은 macOS 27 Golden Gate가 기본으로 들어간다."
+        },
+        {
+          "t": "p",
+          "x": "새 M6 MacBook Pro는 M6 칩, 16GB RAM, 1TB 저장공간 구성이 $1,999부터다. 사전 주문은 10월 28일 수요일에 시작하며 출고는 11월 6일부터다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/yqvquafwQnwqJ9V45U4NLR.jpg",
+          "cap": "(이미지 출처: Apple)"
+        },
+        {
+          "t": "p",
+          "x": "M6는 2나노미터 아키텍처로 넘어갔고 M5의 10코어 CPU·10코어 GPU보다 CPU와 GPU 코어가 두 개씩 늘었다. AI와 머신러닝은 Dual 16코어 Neural Engine이 맡고 각 GPU 코어에 들어간 Neural Accelerators가 이를 받친다. Apple은 12코어 GPU가 M5보다 그래픽은 최대 30퍼센트, AI 작업은 최대 25퍼센트 빠르다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "Wi-Fi 7과 Bluetooth 6을 지원하는 Apple의 N1 칩도 들어간다. 배터리는 최대 24시간 간다고 Apple은 밝혔다."
+        }
+      ]
+    },
+    "gadgets/gadgets-galaxy-buds-on": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26121640/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main1.jpg",
+          "cap": "Galaxy Buds On"
+        },
+        {
+          "t": "p",
+          "x": "Samsung Electronics가 첫 오픈형 이어버드 Galaxy Buds On을 내놨다. 클립형 디자인에 풍부한 사운드와 AI-powered 기능을 더해 더 큰 자유와 유연성을 준다. 귀에 가볍게 걸리지만 머리를 격하게 움직여도 단단히 고정된다."
+        },
+        {
+          "t": "p",
+          "x": "“Hey Google, let’s talk Live”라고 말하면 Gemini Live가 켜져 스마트폰을 꺼내지 않고도 러닝 코스를 추천받는다. Galaxy AI-enabled 스마트폰과 연결하면 손을 쓰지 않고 Gemini Live를 이용할 수 있다."
+        },
+        {
+          "t": "video",
+          "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/27174131/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main6-1.mp4"
+        },
+        {
+          "t": "p",
+          "x": "“Next song”이나 “Volume up” 같은 음성 명령으로 이어버드를 건드리지 않고 재생을 제어한다. 회의가 끝난 뒤 이어버드를 길게 누르면 Quick Voice Memo가 녹음을 시작한다. 나중에 Bixby에게 할 일을 물으면 세부 내용을 음성으로 들려준다. Head Gestures 기능을 쓰면 고개를 끄덕여 전화를 받고 고개를 저어 거절한다."
+        },
+        {
+          "t": "img",
+          "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26122922/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main10.jpg",
+          "cap": "Galaxy Buds On에는 Intelligent Clear Call 기능이 있다."
+        },
+        {
+          "t": "p",
+          "x": "Intelligent Clear Call은 마이크 세 개와 골전도 기반 Voice Pickup Unit Sensor, 머신러닝 기반 솔루션으로 사용자 목소리를 가려내고 주변 소음을 줄인다."
+        }
+      ]
+    },
+    "gadgets/gadgets-opera-webai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-WebAI.jpeg?resize=1200%2C720&ssl=1",
+          "cap": "Opera"
+        },
+        {
+          "t": "p",
+          "x": "Opera의 새 WebAI 프리뷰를 쓰면 웹사이트와 브라우저 확장 프로그램이 Opera One 안에서 로컬 모델을 돌린다. 따로 AI를 구독할 필요도 없고 다루는 정보를 클라우드 서비스로 보내지도 않는다. 옵트인 방식의 프리뷰로 지원되는 Windows PCs와 Apple silicon Macs에 배포되고 있다."
+        },
+        {
+          "t": "p",
+          "x": "WebAI는 웹사이트와 확장 프로그램이 브라우저를 거쳐 AI에 접근하게 하는 웹 표준 제안이다. Opera는 Google과 Microsoft도 이 작업에 힘을 보태고 있다고 밝혔다. Opera의 구현은 특정 모델에 묶이지 않고 오픈 모델을 중심에 둔다."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-AI.jpeg?resize=1350%2C810&ssl=1",
+          "cap": "Opera"
+        },
+        {
+          "t": "p",
+          "x": "Opera One은 Google의 Gemma 모델을 쓸 수 있고 호환되는 Macs에서는 Apple의 온디바이스 파운데이션 모델도 돌린다. 예시 확장 프로그램 중 하나는 어지러운 탭 모음을 정리하고 다른 하나는 낚시성 콘텐츠를 표시한다."
+        },
+        {
+          "t": "p",
+          "x": "WebAI는 기본값이 꺼짐이다. 사용자가 켜기 전에는 아무것도 내려받지 않으며 각 사이트는 브라우저의 로컬 AI에 접근하려면 먼저 허가를 받아야 한다. 속도와 성능은 컴퓨터마다 다르다. Opera GX와 Opera Neon에도 나중에 WebAI가 들어갈 예정이다."
+        }
+      ]
+    },
+    "gadgets/gadgets-nokia-claude-s40": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/intro-1792779965.jpg",
+          "cap": "AIKON은 오래된 Nokia S40·S60 휴대폰을 Claude 같은 챗봇에 연결해 주는 앱이다."
+        },
+        {
+          "t": "p",
+          "x": "초기형 Nokia 6300은 브라우저가 TLS 1.0 이후로 업데이트되지 않은 2G 휴대폰이라 현대 인터넷에 사실상 접속하지 못한다. 그런데 9월 말 튀르키예 기업가 Emir Karşıyakalı가 앱 Claude S40을 선보였다. Java와 Go 백엔드를 거쳐 낡은 Nokia 6300을 Claude에 연결하도록 바이브 코딩한 앱이다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/meet-aikon-1792779966.jpg",
+          "cap": "AIKON 인터페이스를 보여 주는 스크린숏 두 장."
+        },
+        {
+          "t": "p",
+          "x": "그는 이후 ChatGPT, Gemini, Grok과도 작동하게 앱을 업데이트했고 이름도 Nokia를 거꾸로 쓴 Aikon으로 바꿨다. API 키는 Go 서버가 보관한다. 서버는 챗봇 응답을 오래된 휴대폰이 읽을 수 있는 8kB 블록으로 잘라 보낸다."
+        },
+        {
+          "t": "p",
+          "x": "앱은 읽기 모드와 응답을 메모리 카드에 오프라인으로 저장하는 기능, 사진 업로드, 최대 30초 길이의 음성 메시지를 지원한다. Karşıyakalı는 앱을 오픈소스로 공개했다. 다만 미국(US)에서는 쓸 수 없다. 8월 T-Mobile이 GSM 네트워크를 종료하면서 미국의 마지막 2G 네트워크가 사라졌기 때문이다."
+        }
+      ]
+    },
+    "gadgets/gadgets-siri-ios272": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&strip=all&w=1600",
+          "cap": "Siri AI"
+        },
+        {
+          "t": "p",
+          "x": "Apple이 오늘 27.2 소프트웨어 업데이트를 내놓는다. 새 기능이 여럿 들어갔고 Siri AI 개선도 몇 가지 있다. 달라진 점을 정리했다."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "Siri AI는 지난달 iOS 27과 함께 나왔다. Apple 어시스턴트를 크게 손본 결과물이다. 오늘 나오는 27.2 소프트웨어 업데이트로 Siri는 한 번 더 좋아진다."
+        },
+        {
+          "t": "p",
+          "x": "새 Siri AI 기능은 다음과 같다."
+        },
+        {
+          "t": "p",
+          "x": "대화 기억: Siri AI가 이전 대화에서 쓸 만한 맥락을 기억해 둔다. 앞서 추천받은 식당처럼 전에 나눈 이야기를 다시 물어보면 된다."
+        },
+        {
+          "t": "p",
+          "x": "개인 맥락 확대: Siri AI가 답을 다듬을 때 참고하는 개인 맥락 출처가 늘었다. “Messages에 첨부된 사진, Calendar 일정 참석자, 음성 사서함, Safari 방문 기록과 Reading List의 더 나은 결과”가 새로 들어갔다."
+        },
+        {
+          "t": "p",
+          "x": "언어 추가: 이제 Siri AI는 영어 말고도 프랑스어, 일본어, 한국어, 포르투갈어, 스페인어를 지원한다."
+        },
+        {
+          "t": "p",
+          "x": "Apple Watch에서 더 빠르게: Apple은 watchOS 27.2에서 Siri AI 응답이 전보다 빨라졌다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "iOS 27.2, iPadOS 27.2, macOS 27.2 등 관련 업데이트를 설치하면 iPhone, iPad, Mac 등에서 이번 Siri AI 개선을 쓸 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI, Anthropic 같은 기업의 AI 모델이 계속 발전하는 사이, Apple이 출시 직후부터 Siri AI를 손보는 모습은 반갑다. 소프트웨어 업데이트가 나올 때마다 어시스턴트가 조금씩 나아지길 기대한다."
+        }
+      ]
     }
   }
 }

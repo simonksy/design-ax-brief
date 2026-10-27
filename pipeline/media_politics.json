@@ -1,31 +1,7 @@
-{
-  "date": "2026-10-27",
-  "section": "politics",
-  "media": [
-    {
-      "id": "politics-sweden-chatgpt-claude",
-      "type": "image",
-      "src": "pipeline/media/politics-sweden-chatgpt-claude.jpg"
-    },
-    {
-      "id": "politics-claude-election-data",
-      "type": "image",
-      "src": "pipeline/media/politics-claude-election-data.jpg"
-    },
-    {
-      "id": "politics-qwen-beijing-server",
-      "type": "image",
-      "src": "pipeline/media/politics-qwen-beijing-server.jpg"
-    },
-    {
-      "id": "politics-ftc-anthropic-testimony",
-      "type": "image",
-      "src": "pipeline/media/politics-ftc-anthropic-testimony.jpg"
-    },
-    {
-      "id": "politics-ontario-ai-justice",
-      "type": "image",
-      "src": "pipeline/media/politics-ontario-ai-justice.png"
-    }
-  ]
-}
+{"date":"2026-10-28","section":"politics","media":[
+{"id":"lords-aisi","type":"svg"},
+{"id":"delaware-ai-firms","type":"image","src":"pipeline/media/delaware-ai-firms.jpg"},
+{"id":"inec-voter-photos","type":"image","src":"pipeline/media/inec-voter-photos.jpg"},
+{"id":"us-taiwan-art","type":"image","src":"pipeline/media/us-taiwan-art.jpg"},
+{"id":"kr-ai-youth-law","type":"image","src":"pipeline/media/kr-ai-youth-law.png"}
+]}

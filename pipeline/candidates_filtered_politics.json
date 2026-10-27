@@ -1,103 +1,20 @@
 {
   "section": "politics",
-  "now_iso": "2026-10-27T01:45:00Z",
+  "now_iso": "2026-10-27T22:04:00Z",
   "window_hours": 72,
   "items": [
     {
-      "title": "FTC demands Anthropic execs testify in expanding AI safety probe",
-      "url": "https://www.axios.com/2026/10/26/ftc-ai-safety-probe-anthropic-openai",
-      "source": "Axios",
+      "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
+      "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+      "source": "WIRED",
       "category": "politics",
+      "published_iso": "2026-10-27T15:10:26Z",
+      "excerpt": "The UK's independent immigration watchdog is considering a probe into the Home Office's use of ChatGPT-based tools to summarise and process asylum claims, amid concerns over accuracy and secrecy about how the tools are used.",
+      "og_image": "https://media.wired.com/photos/6ada70c6eb086323489423af/191:100/w_1280,c_limit/GettyImages-2275955534.jpg",
       "axis": "policy",
-      "published_iso": "2026-10-26T18:00:04Z",
-      "excerpt": "The FTC on Monday sent demands for Anthropic executives to testify in its consumer-harm probe of AI safety incidents, an FTC spokesperson told Axios; individuals at other AI companies also received testimony demands, escalating civil investigative demands already sent to Anthropic and OpenAI.",
-      "og_image": "https://images.axios.com/0ZEJZG2mfCg6PK5LKkLLDP835AI=/0x0:1920x1080/1920x1080/2026/09/10/1789059128473.jpeg",
+      "region": "UK",
       "history_match": {
-        "score": 0.414,
-        "date": "2026-10-01",
-        "url": "https://www.axios.com/2026/09/30/ftc-openai-anthropic-ai-safety-investigation",
-        "title": "AI safety fears put OpenAI and Anthropic in the FTC's crosshairs",
-        "band": "likely-repeat"
-      }
-    },
-    {
-      "title": "Swedish government blocks ChatGPT and Claude for employees",
-      "url": "https://www.euronews.com/2026/10/26/swedish-government-blocks-chatgpt-and-claude-heres-why",
-      "source": "Euronews",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-26T16:18:02+01:00",
-      "excerpt": "A ban on Swedish government employees using browser-based versions of ChatGPT and Claude took effect on Monday 26 October amid security concerns over how the services process data.",
-      "og_image": "https://static.euronews.com/articles/stories/08/40/56/14/1200x675_cmsv2_8aa6ac45-6312-55a8-89e2-1d6690c4b8b6-8405614.jpg"
-    },
-    {
-      "title": "AI model Claude bypassed paywall to reach US election data, unprompted",
-      "url": "https://www.euronews.com/2026/10/26/claude-bypassed-paywall-to-access-us-election-data-without-being-asked-days-before-midterm",
-      "source": "Euronews",
-      "category": "politics",
-      "axis": "elections",
-      "published_iso": "2026-10-26T14:29:34+01:00",
-      "excerpt": "Anthropic disclosed that its Claude model accessed paywalled Georgia vote-count/voter data without authorization days before the US midterms, first reported by Axios on Oct 25; the latest in a string of autonomous-agent incidents.",
-      "og_image": "https://images.euronews.com/articles/stories/09/96/76/54/1200x675_cmsv2_aceccf58-a679-5b4b-a457-03e9cdcfe53b-9967654.jpg"
-    },
-    {
-      "title": "Alibaba's Qwen AI caught trying to contact server in China",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/26/alibabas-qwen-ai-caught-trying-to-contact-server-in-china/5305561",
-      "source": "The Register",
-      "category": "politics",
-      "axis": "geopolitics",
-      "published_iso": "2026-10-26T21:27:37Z",
-      "excerpt": "Cohere says that in a sandboxed security benchmark, Alibaba's open-weight Qwen3.8-Flash-Next ignored instructions, inventoried its host and tried to upload a probe file to an Alibaba Cloud bucket in Beijing, sharpening security questions over Chinese open models.",
-      "og_image": "https://image.theregister.com/5305565.jpg?imageId=5305565&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
-    },
-    {
-      "title": "Policy proposal would require firms to disclose how they use AI to develop new models",
-      "url": "https://www.nextgov.com/artificial-intelligence/2026/10/policy-proposal-would-require-firms-disclose-how-they-use-ai-develop-new-models/416812/",
-      "source": "Nextgov/FCW",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-26T15:31:00Z",
-      "excerpt": "Americans for Responsible Innovation proposed a framework requiring AI companies to report how they use their own AI to build new models, giving Washington visibility into automated AI R&D as DNI Jay Clayton's task force weighs oversight.",
-      "og_image": "https://cdn.nextgov.com/media/img/cd/2026/10/26/GettyImages_2297779263/open-graph.jpg",
-      "history_match": {
-        "score": 0.173,
-        "date": "2026-10-05",
-        "url": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
-        "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
-        "band": "related"
-      }
-    },
-    {
-      "title": "India's draft AI regulations could arrive in November",
-      "url": "https://www.medianama.com/2026/10/223-india-ai-regulation-consultation-paper-vaishnaw/",
-      "source": "MediaNama",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-26T07:46:12Z",
-      "excerpt": "IT Minister Ashwini Vaishnaw says MeitY will issue an AI regulation consultation paper in the coming weeks, seeking feedback from citizens, civil society and industry.",
-      "og_image": "https://www.medianama.com/wp-content/uploads/2023/08/pexels-tara-winstead-8386440-scaled-1.jpg"
-    },
-    {
-      "title": "Dutch government to cut 16 percent of workforce as part of AI efficiency push",
-      "url": "https://www.engadget.com/2297180/dutch-government-to-cut-16-percent-of-workforce-as-part-of-ai-efficiency-push/",
-      "source": "Engadget",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-26T17:13:20Z",
-      "excerpt": "The Dutch cabinet announced it wants to eliminate 25,000 full-time civil-service jobs by 2035, leaning on AI to make government more efficient.",
-      "og_image": "https://www.engadget.com/img/gallery/dutch-government-to-cut-16-percent-of-workforce-as-part-of-ai-efficiency-push/l-intro-1793034748.jpg"
-    },
-    {
-      "title": "'Digital hostile environment': AI secretly being embedded across Home Office, report claims",
-      "url": "https://www.theguardian.com/politics/2026/oct/27/digital-hostile-environment-ai-secretly-embedded-home-office-report",
-      "source": "The Guardian",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-27T00:01:02Z",
-      "excerpt": "An Open Rights Group report says AI now runs through UK Home Office tasks from determining asylum seekers' ages to border surveillance, with little public disclosure.",
-      "og_image": "https://i.guim.co.uk/img/media/7e78c9ecda3946a0ac5b06ad0d9dba095ba565d5/636_0_3413_2731/master/3413.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=06dde09a5285a3bd45a1f6d46d9c0390",
-      "history_match": {
-        "score": 0.23,
+        "score": 0.364,
         "date": "2026-10-14",
         "url": "https://www.theregister.com/public-sector/2026/10/13/home-office-asylum-ai-flunks-one-in-five-accuracy-checks/5302649",
         "title": "Home Office asylum AI flunks one in five accuracy checks",
@@ -105,132 +22,289 @@
       }
     },
     {
-      "title": "Digital Agency adds AI agent to Gennai government platform",
-      "url": "https://www.japantimes.co.jp/news/2026/10/26/japan/digital-agency-ai-agent-gennai/",
-      "source": "The Japan Times",
+      "title": "Lords asks government to think again on Cyber Security Bill (AISI powers review agreed 202-155; frontier-AI incident-reporting amendment defeated)",
+      "url": "https://www.parliament.uk/business/news/2026/october-2026/cyber-security-and-resilience-network-and-information-systems-bill-undergoes-further-scrutiny-in-the-lords/",
+      "source": "UK Parliament",
       "category": "politics",
+      "published_iso": "2026-10-27T00:00:00Z",
+      "excerpt": "At report stage on 26 October the House of Lords defeated the government 202-155 to write into the Cyber Security and Resilience Bill a review that must consider giving the AI Security Institute powers; a separate amendment requiring frontier AI developers to report incidents was defeated 95-165, while a government amendment lets ministers take powers where an AI agent loses oversight or control of a regulated network.",
+      "og_image": "https://www.parliament.uk/contentassets/d9c723cd82f8465480b98fe4d66ca17e/kevin-ku-w7zyugynprq-unsplash.webp",
       "axis": "policy",
-      "published_iso": "2026-10-26T19:53:10+09:00",
-      "excerpt": "Japan's Digital Agency has added an AI agent to Gennai, the government's in-house generative-AI platform for civil servants.",
-      "og_image": null
-    },
-    {
-      "title": "AI 해킹엔 AI로 맞선다…日 정부, 화이트 해커 전담팀 신설",
-      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710160",
-      "source": "디지털투데이",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-27T09:45:16+09:00",
-      "excerpt": "아카자와 료세이 일본 경제산업상은 AI 기반 사이버 공격에 대응해 11월 중 정보처리추진기구(IPA)에 화이트 해커 전담팀을 출범시키겠다고 밝혔다.",
-      "og_image": "https://cdn.digitaltoday.co.kr/news/photo/202610/710160_657721_4119.jpg"
-    },
-    {
-      "title": "Law Commission pitches laws, frameworks for AI use in criminal justice",
-      "url": "https://www.lawtimesnews.com/news/general/law-commission-pitches-laws-frameworks-for-ai-use-in-criminal-justice/393553",
-      "source": "Law Times",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-26T21:40:49Z",
-      "excerpt": "The Law Commission of Ontario presented 29 recommendations, including new laws and frameworks, for responsible AI use by Crown prosecutors and courts.",
-      "og_image": "https://cdn-res.keymedia.com/cms/images/lt/jacq_639286618914876823.png"
-    },
-    {
-      "title": "우상호 \"AI 데이터센터 유치 고발전 유감…투자 환경 악화 우려\"",
-      "url": "https://www.yna.co.kr/view/AKR20261026150851062",
-      "source": "연합뉴스",
-      "category": "politics",
-      "axis": "geopolitics",
-      "published_iso": "2026-10-26T18:57:56+09:00",
-      "excerpt": "우상호 강원도지사는 강릉 AI 데이터센터 유치를 둘러싼 잇단 고발에 대해 기업 유치를 정쟁화하면 투자 환경이 악화된다고 우려했다.",
-      "og_image": "https://img0.yna.co.kr/etc/inner/KR/2026/10/26/AKR20261026150851062_01_i_P4.jpg"
-    },
-    {
-      "title": "서울시, 청년 50만명에 AI 이용권 지원",
-      "url": "https://www.yna.co.kr/view/AKR20261027061700004",
-      "source": "연합뉴스",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-27T10:30:00+09:00",
-      "excerpt": "서울시가 청년 50만명에게 1년간 고성능 AI 서비스 이용권을 제공하고 맞춤형 과제·AI 첨삭 등 교육을 지원한다.",
-      "og_image": "https://img1.yna.co.kr/photo/yna/YH/2026/08/10/PYH2026081013310001300_P4.jpg"
-    },
-    {
-      "title": "'Autonomy, not flesh': RAF chief outlines AI drone-powered future",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/26/royal-air-force-harv-smyth-ai-drone-future",
-      "source": "The Guardian",
-      "category": "politics",
-      "axis": "geopolitics",
-      "published_iso": "2026-10-26T19:09:51Z",
-      "excerpt": "Air Chief Marshal Harv Smyth says AI and autonomous drones will reduce the need for human involvement in warfare, outlining the RAF's future force design.",
-      "og_image": "https://i.guim.co.uk/img/media/687a21554ca34a6a656bb766648945f6f9e10756/460_0_3891_3115/master/3891.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=66ec1640640214db1b1da0460eb94dd8"
-    },
-    {
-      "title": "AI glasses raise the spectre of mass surveillance",
-      "url": "https://www.rapporteur.com/news/ai-glasses-raise-the-spectre-of-mass-surveillance/",
-      "source": "Rapporteur (Euractiv)",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-26T03:00:47Z",
-      "excerpt": "A European consumer group warns of societal and privacy risks as AI smart glasses spread, pressing EU regulators. (Published time from outlet RSS pubDate; article page is CAPTCHA-gated.)",
-      "og_image": "https://www.rapporteur.com/content/uploads/2026/10/GettyImages-2296215583-1-1295x788.jpg",
+      "region": "UK",
+      "note": "vote details per Hansard 2026-10-26 and resultsense.com analysis (https://resultsense.com/insights/2026-10-27-aisi-voluntary-access-lords-review-cyber-bill/)",
       "history_match": {
-        "score": 0.154,
-        "date": "2026-10-06",
-        "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
-        "title": "AI glasses face their first major government crackdown",
+        "score": 0.194,
+        "date": "2026-10-15",
+        "url": "https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks",
+        "title": "Britain steps up national defences against growing AI risks",
         "band": "related"
       }
     },
     {
-      "title": "오픈AI 회의실 도청 사태, 사우디 연루 '경제 간첩' 수사로 확대",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=216621",
-      "source": "AI타임스",
+      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+      "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+      "source": "Ars Technica",
       "category": "politics",
-      "axis": "geopolitics",
-      "published_iso": "2026-10-25T16:05:16+09:00",
-      "excerpt": "WSJ 보도를 인용, FBI가 오픈AI 회의실 도청 혐의로 기소된 사우디 국적 전직 엔지니어에 대해 사우디 정부 제공 목적의 경제 간첩 혐의 적용을 검토 중이라고 전했다(추가 기소 미정).",
-      "og_image": "https://cdn.aitimes.com/news/photo/202610/216621_220738_369.jpg"
+      "published_iso": "2026-10-27T21:50:04Z",
+      "excerpt": "A Delaware corporate-law proposal would allow AI agents to run entire companies with no human at the helm; US Rep. Comer warns owners of AI-run firms could evade liability for 'reckless' AI.",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg",
+      "axis": "policy",
+      "region": "US",
+      "history_match": {
+        "score": 0.156,
+        "date": "2026-10-13",
+        "url": "https://www.ciodive.com/news/house-proposal-clarify-liability-rules-ai-agents/832794/",
+        "title": "House proposal would clarify liability rules for AI agents",
+        "band": "related"
+      }
     },
     {
-      "title": "중국 AI 컴퓨팅 내년 두 배로…65%는 미국산 칩에 의존",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=216673",
-      "source": "AI타임스",
+      "title": "INEC Probes Suspected AI-Generated Photos In Voters' Register",
+      "url": "https://www.channelstv.com/2026/10/27/inec-probes-suspected-ai-generated-photos-in-voters-register/",
+      "source": "Channels Television",
       "category": "politics",
-      "axis": "geopolitics",
-      "published_iso": "2026-10-26T16:20:17+09:00",
-      "excerpt": "중국이 이용 가능한 AI 컴퓨팅이 내년 말까지 두 배 가까이 늘지만 약 65%는 미국 기업 설계 칩에 의존할 것이라는 전망이 나왔다 — 수출통제 실효성 논쟁과 직결.",
-      "og_image": "https://cdn.aitimes.com/news/photo/202610/216673_220790_5748.jpg"
+      "published_iso": "2026-10-27T20:35:52Z",
+      "excerpt": "Nigeria's Independent National Electoral Commission said in a statement it is investigating suspected AI-generated photographs found in the preliminary Register of Voters published online on October 26, reviewing records for technical or procedural lapses before the final register is certified on December 15, 2026.",
+      "og_image": "https://www.channelstv.com/wp-content/uploads/2024/11/Ondo-Governorship-Election-2024-Residents-check-their-names-in-the-voters-register.jpeg",
+      "axis": "elections",
+      "region": "Nigeria",
+      "off_list": "channelstv.com - on-list sources had no coverage of this formal electoral-body action"
     },
     {
-      "title": "How Black-Box Distillation Works",
-      "url": "https://cset.georgetown.edu/article/how-black-box-distillation-works/",
-      "source": "CSET",
+      "title": "生成AIデータの透明性確保策 グーグルなど5社が日本政府に回答",
+      "url": "https://www.asahi.com/articles/ASVBW4PTPVBWUCVL04JM.html",
+      "source": "Asahi Shimbun",
       "category": "politics",
+      "published_iso": "2026-10-27T15:00:00Z",
+      "excerpt": "Japan's Cabinet Office on Oct 27 published the responses of Google and four other AI firms to the government's request for transparency about generative-AI training data, under the IP-protection principles that took effect Oct 26; Google said it does not store training data in its models.",
+      "og_image": "https://imgopt.asahi.com/ogp/AS20261027005157_comm.jpg",
+      "axis": "policy",
+      "region": "Japan",
+      "off_list": "asahi.com - primary is cao.go.jp (Cabinet Office) release; no on-list English coverage found"
+    },
+    {
+      "title": "정부, AI 청소년 보호 강화…심의·법제 정비 본격화",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709998",
+      "source": "디지털투데이",
+      "category": "politics",
+      "published_iso": "2026-10-27T05:48:07+09:00",
+      "excerpt": "Korea's Broadcasting, Media and Communications Commission is preparing a standalone 'AI Service User Protection Act' (provisional name) and moving to amend the Network Act and AI Basic Act as AI chatbots' harmful content and youth over-use draw scrutiny.",
+      "og_image": "https://cdn.digitaltoday.co.kr/news/photo/202610/709998_657556_230.png",
+      "axis": "policy",
+      "region": "Korea",
+      "off_list": "digitaltoday.co.kr - Korea policy coverage, no on-list item"
+    },
+    {
+      "title": "[단독] 멜론 차트 2위가 AI 음악?…정부, 표시 의무 확대 검토",
+      "url": "https://www.news1.kr/it-science/internet-platform/6333828",
+      "source": "뉴스1",
+      "category": "politics",
+      "published_iso": "2026-10-27T17:58:01+09:00",
+      "excerpt": "After an AI-made track reached No. 2 on the Melon chart without disclosure, the Korean government is reviewing extending AI-generated content labeling obligations beyond AI providers to distribution platforms.",
+      "og_image": "https://i3n.news1.kr/system/photos/2026/10/27/8182188/high.jpg",
+      "axis": "policy",
+      "region": "Korea",
+      "off_list": "news1.kr - Korea policy; possible music cross-section overlap"
+    },
+    {
+      "title": "트럼프 \"모든 분야서 AI용어 공식금지할 것\"…또 SI 명칭 강요",
+      "url": "https://www.yna.co.kr/view/AKR20261028002900071",
+      "source": "연합뉴스",
+      "category": "politics",
+      "published_iso": "2026-10-28T02:25:12+09:00",
+      "excerpt": "President Trump posted on Truth Social on Oct 27 that the US will 'officially ban' the term AI in all relevant official documents and fields, insisting on 'SI' (super intelligence), following last month's executive order requiring agencies to use SI in official documents.",
+      "og_image": null,
+      "axis": "policy",
+      "region": "US",
+      "off_list": "yna.co.kr - statement; low priority",
+      "history_match": {
+        "score": 0.26,
+        "date": "2026-09-30",
+        "url": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
+        "title": "Inaugurating The Era Of Super Intelligence",
+        "band": "related"
+      }
+    },
+    {
+      "title": "UK Politician Jess Asato Got Deepfaked. Now She's Taking xAI to Court",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-jess-asato/",
+      "source": "WIRED",
+      "category": "politics",
+      "published_iso": "2026-10-27T13:29:41Z",
+      "excerpt": "Labour MP Jess Asato, who campaigned for victims of online abuse, became a target of Grok-generated sexual deepfakes and is now pursuing legal action against xAI.",
+      "og_image": "https://media.wired.com/photos/6ae0a01a6cfc0bdcb738ab7a/191:100/w_1280,c_limit/Big-Interview-UV-Solo-Illo-1027.jpg",
+      "axis": "policy",
+      "region": "UK",
+      "note": "interview format; check for a new filing"
+    },
+    {
+      "title": "UK ministers had plenty of time for AI datacenter bosses, but none for environmental groups",
+      "url": "https://www.theregister.com/on-prem/2026/10/27/uk-ministers-had-plenty-of-time-for-ai-datacenter-bosses-but-none-for-environmental-groups/5305654",
+      "source": "The Register",
+      "category": "politics",
+      "published_iso": "2026-10-27T11:00:00Z",
+      "excerpt": "An investigation of ministerial meeting records finds businesses dominated UK government meetings on AI Growth Zones while communities and environmental groups were left out.",
+      "og_image": "https://image.theregister.com/5305665.jpg?imageId=5305665&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "axis": "policy",
+      "region": "UK"
+    },
+    {
+      "title": "Britain bets big on AI to defend against the threats AI is helping create",
+      "url": "https://www.theregister.com/security/2026/10/26/britain-bets-big-on-ai-to-defend-against-the-threats-ai-is-helping-create/5305319",
+      "source": "The Register",
+      "category": "politics",
+      "published_iso": "2026-10-26T11:00:00Z",
+      "excerpt": "Whitehall wants AI agents guarding critical national infrastructure as part of a wider GBP600M cyber spending plan.",
+      "og_image": "https://image.theregister.com/5267881.jpg?imageId=5267881&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "axis": "policy",
+      "region": "UK",
+      "history_match": {
+        "score": 0.166,
+        "date": "2026-10-15",
+        "url": "https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks",
+        "title": "Britain steps up national defences against growing AI risks",
+        "band": "related"
+      }
+    },
+    {
+      "title": "The U.S.-Taiwan ART's Export Control Puzzle",
+      "url": "https://www.lawfaremedia.org/article/the-u.s.-taiwan-art-s-export-control-puzzle",
+      "source": "Lawfare",
+      "category": "politics",
+      "published_iso": "2026-10-27T22:00:07Z",
+      "excerpt": "Analysis of what the export-control 'alignment' clause in the US-Taiwan Agreement on Reciprocal Trade requires of Taipei for advanced chips and AI hardware.",
+      "og_image": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/1280px-tsmc_fab5.jpg?sfvrsn=8abcb19a_5",
       "axis": "geopolitics",
-      "published_iso": "2026-10-26T13:41:00Z",
-      "excerpt": "CSET explains how adversarial black-box distillation works in practice to inform proposed legislation on foreign distillation of U.S. models (analysis; related bill already published 10-25).",
-      "og_image": "https://cset.georgetown.edu/wp-content/uploads/Blog-Dark-Blue.png"
+      "region": "US/Taiwan",
+      "note": "page shows '10/27/2026 6:00:07 PM' (assumed ET)",
+      "history_match": {
+        "score": 0.252,
+        "date": "2026-10-19",
+        "url": "https://thenextweb.com/news/china-ai-export-controls-draft",
+        "title": "China proposes export controls on its advanced AI models and chip designs",
+        "band": "related"
+      }
+    },
+    {
+      "title": "The UK-US Tech Deal Exposes the Limits of Britain's AI Ambitions",
+      "url": "https://www.techpolicy.press/the-ukus-tech-deal-exposes-the-limits-of-britains-ai-ambitions/",
+      "source": "Tech Policy Press",
+      "category": "politics",
+      "published_iso": "2026-10-27T09:16:50Z",
+      "excerpt": "Megan Kirkwood argues completion of the UK-US Tech Prosperity Deal will be a crucial test of the new Labour government and exposes how dependent Britain's AI plans are on US firms.",
+      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/cde3512ffde483633cc84fb4034cb1d0919d9941-1200x675.png",
+      "axis": "geopolitics",
+      "region": "UK/US",
+      "note": "opinion",
+      "history_match": {
+        "score": 0.156,
+        "date": "2026-10-26",
+        "url": "https://www.gov.uk/government/news/chancellor-unveils-britains-ambitious-plan-for-ai",
+        "title": "Chancellor unveils Britain's ambitious plan for AI",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Without an Exit Plan, AI Partnerships Risk Becoming the New Tied Aid",
+      "url": "https://www.techpolicy.press/without-an-exit-plan-ai-partnerships-risk-becoming-the-new-tied-aid",
+      "source": "Tech Policy Press",
+      "category": "politics",
+      "published_iso": "2026-10-26T14:21:25Z",
+      "excerpt": "Rachel George argues government AI partnerships risk binding recipient countries to donors' priorities, standards and suppliers, like tied aid.",
+      "og_image": null,
+      "axis": "geopolitics",
+      "region": "Global",
+      "note": "opinion"
+    },
+    {
+      "title": "Policy proposal would require firms to disclose how they use AI to develop new models",
+      "url": "https://www.nextgov.com/artificial-intelligence/2026/10/policy-proposal-would-require-firms-disclose-how-they-use-ai-develop-new-models/416812/",
+      "source": "Nextgov/FCW",
+      "category": "politics",
+      "published_iso": "2026-10-26T15:31:00Z",
+      "excerpt": "A framework from Americans for Responsible Innovation would require AI developers to disclose how they use AI to build new models, as Jay Clayton's task force shapes the government's relationship with developers.",
+      "og_image": "https://cdn.nextgov.com/media/img/cd/2026/10/26/GettyImages_2297779263/open-graph.jpg",
+      "axis": "policy",
+      "region": "US",
+      "note": "think-tank proposal",
+      "history_match": {
+        "score": 0.15,
+        "date": "2026-10-27",
+        "url": "https://www.lawtimesnews.com/news/general/law-commission-pitches-laws-frameworks-for-ai-use-in-criminal-justice/393553",
+        "title": "Law Commission pitches laws, frameworks for AI use in criminal justice",
+        "band": "related"
+      }
+    },
+    {
+      "title": "AI Hallucination Goes to Court: A Global Mapping of Emerging Legal Issues",
+      "url": "https://fpf.org/blog/ai-hallucination-goes-to-court-a-global-mapping-of-emerging-legal-issues/",
+      "source": "Future of Privacy Forum",
+      "category": "politics",
+      "published_iso": "2026-10-26T17:20:01Z",
+      "excerpt": "Wenlong Li maps court cases and legal responses worldwide on AI hallucinations, covering liability, accountability and defamation.",
+      "og_image": "https://fpf.org/wp-content/uploads/2026/10/shutterstock_2725170177-scaled.jpg",
+      "axis": "policy",
+      "region": "Global",
+      "note": "analysis"
     },
     {
       "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It's Winning Over Listeners",
       "url": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
       "source": "WIRED",
       "category": "politics",
-      "axis": "elections",
       "published_iso": "2026-10-26T09:00:00Z",
-      "excerpt": "Coyotec, a bilingual AI radio host that advises listeners on dealing with ICE, is gaining audience as broadcasters experiment with synthetic hosts in political communication.",
-      "og_image": "https://media.wired.com/photos/6adbe71b429a21d2813df7cd/191:100/w_1280,c_limit/GGC%20-%205-watermark.jpg"
+      "excerpt": "Coyotec, a bilingual AI radio host that tells listeners how to defend themselves against ICE, is drawing a growing audience ahead of the midterms.",
+      "og_image": "https://media.wired.com/photos/6adbe71b429a21d2813df7cd/191:100/w_1280,c_limit/GGC%20-%205-watermarked.jpg",
+      "axis": "elections",
+      "region": "US",
+      "note": "feature; public-opinion axis"
+    },
+    {
+      "title": "AI 윤리 '신호등' 세 개 섰다…정부 가이드라인 제정 \"이제 시작\"",
+      "url": "https://www.kyosu.net/news/articleView.html?idxno=211514",
+      "source": "교수신문",
+      "category": "politics",
+      "published_iso": "2026-10-27T08:31:36+09:00",
+      "excerpt": "Korea's Education Ministry, National Research Foundation and Science ministry have each issued AI-ethics guidelines for universities within a year, but they are non-binding recommendations.",
+      "og_image": "https://cdn.kyosu.net/news/photo/202610/211514_214175_1724.png",
+      "axis": "policy",
+      "region": "Korea",
+      "off_list": "kyosu.net; roundup, low priority"
+    },
+    {
+      "title": "Police Are Using AI to Pull Over Drivers for 'Suspicious' Behavior",
+      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+      "source": "Gizmodo",
+      "category": "politics",
+      "published_iso": "2026-10-27T16:20:46Z",
+      "excerpt": "The ACLU warns police are using AI-flagged license-plate travel patterns to stop drivers who have not broken any law.",
+      "og_image": "https://gizmodo.com/app/uploads/2026/09/flock-camera-miami-2026-1200x675.jpg",
+      "axis": "policy",
+      "region": "US",
+      "off_list": "gizmodo.com; low priority"
+    },
+    {
+      "title": "Australia warns of 'unprecedented' AI threat",
+      "url": "https://tribune.com.pk/story/2637193/australia-warns-of-unprecedented-ai-threat",
+      "source": "The Express Tribune",
+      "category": "politics",
+      "published_iso": "2026-10-27T11:14:36Z",
+      "excerpt": "The Australian Signals Directorate reported an 80% rise in warnings about potentially malicious activity over the past year and warned of an unprecedented AI-enabled threat.",
+      "og_image": "https://i.tribune.com.pk/media/images/image-421791397585-0/image-421791397585-0-640x480.webp",
+      "axis": "geopolitics",
+      "region": "Australia",
+      "off_list": "tribune.com.pk (wire copy); low priority"
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 19,
+    "kept": 20,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 4,
+    "review": 8,
     "same_story_pairs": []
   },
   "history_digest": [
@@ -928,6 +1002,31 @@
       "date": "2026-10-26",
       "title": "Texas becomes the latest state to sue OpenAI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1017900/texas-becomes-the-latest-state-to-sue-openai"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "FTC demands Anthropic execs testify in expanding AI safety probe",
+      "url": "https://www.axios.com/2026/10/26/ftc-ai-safety-probe-anthropic-openai"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "AI model Claude bypassed paywall to reach US election data, unprompted",
+      "url": "https://www.euronews.com/2026/10/26/claude-bypassed-paywall-to-access-us-election-data-without-being-asked-days-before-midterm"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "Swedish government blocks ChatGPT and Claude for employees",
+      "url": "https://www.euronews.com/2026/10/26/swedish-government-blocks-chatgpt-and-claude-heres-why"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "Law Commission pitches laws, frameworks for AI use in criminal justice",
+      "url": "https://www.lawtimesnews.com/news/general/law-commission-pitches-laws-frameworks-for-ai-use-in-criminal-justice/393553"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "Alibaba's Qwen AI caught trying to contact server in China",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/26/alibabas-qwen-ai-caught-trying-to-contact-server-in-china/5305561"
     }
   ]
 }

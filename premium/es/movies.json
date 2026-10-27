@@ -8676,6 +8676,119 @@
           "x": "El episodio no vino acompañado de ninguna otra declaración. La iniciativa llega después de que Musk criticara repetidamente “The Odyssey” de Nolan antes de su estreno, en especial la elección de Elliot Page como Sinón y de Lupita Nyong’o como Helena de Troya."
         }
       ]
+    },
+    "movies/sntpct": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/inline_medium/public/image/attached/1081637-sntpct-flyer-1.jpg?itok=HI648P_C"
+        },
+        {
+          "t": "p",
+          "x": "El sindicato mayoritario de la animación en Francia pide a todos los trabajadores de animación y VFX del país que dejen de trabajar de 2 p.m. a 4 p.m. el 18 de noviembre, para presionar a AnimFrance y SPI sobre salarios, AI generativa, denominaciones de puestos y días festivos."
+        },
+        {
+          "t": "p",
+          "x": "El SNTPCT plantea cuatro demandas: subir un 11.2% los salarios mínimos garantizados para compensar la inflación desde 2007, con efecto a partir del 1 de enero de 2027; eliminar 13 puestos de \"asistente\" del convenio laboral de animación; incorporar al convenio normas sobre AI generativa; y reconocer los 11 días festivos del Código del Trabajo francés, frente a los cinco que prevé el convenio de animación."
+        },
+        {
+          "t": "p",
+          "x": "Su enmienda sobre AI generativa, presentada a finales de 2025, se basa en tres principios: los empleadores no pueden obligar a los trabajadores a usar o desarrollar herramientas de GenAI ni convertirlo en condición de empleo; los productores no pueden generar imágenes, sonidos ni textos a partir de las creaciones de un trabajador sin su autorización por escrito; y todo uso de GenAI debe reconocerse en los créditos de la película, para que a nadie se le atribuya un trabajo que no hizo."
+        },
+        {
+          "t": "p",
+          "x": "El paro abarca a las empresas que producen películas, series y anuncios de animación, incluida la producción de animación para videojuegos, así como a los estudios de VFX. El 18 de noviembre es la jornada inaugural de las conferencias RADI-RAF en Angoulême, donde tendrá lugar la concentración principal."
+        }
+      ]
+    },
+    "movies/newangles": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "EPYh_bgXJBk"
+        },
+        {
+          "t": "p",
+          "x": "Este truco de AI crea como por arte de magia nuevos ángulos de cámara: un short de Curious Refuge."
+        },
+        {
+          "t": "p",
+          "x": "En el tutorial completo, Curious Refuge prueba tres formas distintas de generar nuevos ángulos de cámara a partir de un video existente, con Seedance 2.5 tanto sobre material de acción real como sobre una escena AI-generated (generada con AI), desde dejar que la AI elija automáticamente la cobertura hasta definir a mano dónde debe ir exactamente cada nuevo ángulo de cámara."
+        }
+      ]
+    },
+    "movies/runwaysafety": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "NAKB5ixP6Kw"
+        },
+        {
+          "t": "p",
+          "x": "Las nuevas reglas de seguridad en la era de la generación de video en tiempo real | Runway AI Summit SF 2026."
+        },
+        {
+          "t": "p",
+          "x": "Eliza Jacobs, VP de política de seguridad de Roblox, y Conner McDowell, responsable de seguridad y responsabilidad de AI en Runway, se suman a Samit Chakrabarti, cofundador de Zentropy, en un panel de 25 minutos sobre cómo proteger la generación de video en tiempo real, históricamente uno de los problemas más difíciles en confianza y seguridad, y un caso de estudio para la AI en tiempo real en general, incluidos los agentes que hacen llamadas a herramientas."
+        }
+      ]
+    },
+    "movies/vcat-tvasahi": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.venturesquare.net/wp-content/uploads/2026/10/vcat.png",
+          "cap": "VCAT participó como productora de video con AI en una serie de época estrenada por la japonesa TV Asahi y Netflix. (Imagen: VCAT)"
+        },
+        {
+          "t": "p",
+          "x": "El uso del video con inteligencia artificial (AI) generativa se está extendiendo más allá de la publicidad y los formatos cortos hacia el drama televisivo. VCAT (VCAT.AI, director ejecutivo Jeong Beom-jin), un agente de marketing con AI todo en uno, anunció que participó como productora de video con AI en 'Sanada Juyushi (真田十勇士)', un drama de época de 7 episodios de la cadena japonesa TV Asahi."
+        },
+        {
+          "t": "p",
+          "x": "'Sanada Juyushi' narra la historia de 10 vasallos que, según la tradición, sirvieron a Sanada Yukimura, un señor de la guerra del periodo Sengoku de Japón. Fue coproducida por TV Asahi y el estudio de cine japonés Toei (東映); se estrenó en TV Asahi el día 23 y estará disponible en Netflix a partir del 24."
+        },
+        {
+          "t": "p",
+          "x": "En esta producción, VCAT se encargó de escenas de acción complejas con mucho movimiento de actores y cámara. Combinó tecnologías de AI y VFX cambiando el fondo de las imágenes filmadas o añadiendo personajes. Los personajes, fondos y edificios se recrearon a partir de documentación histórica del periodo Sengoku de Japón."
+        },
+        {
+          "t": "p",
+          "x": "La colaboración surgió cuando el equipo de producción de TV Asahi buscó una productora de AI adicional para afrontar escenas difíciles de resolver solo con VFX convencionales y un mayor volumen de trabajo. Según la empresa, VCAT es la única productora de AI surcoreana que participó en la obra. VCAT también unió de forma natural las imágenes rodadas en exteriores e interiores."
+        },
+        {
+          "t": "p",
+          "x": "Antes del estreno, VCAT presentó un video promocional producido íntegramente con AI, sin ningún rodaje real aparte. El video se proyectó el día 19 (hora local) en una pantalla de Times Square, en Nueva York, Estados Unidos, y el 21 se presentó también en un programa de la televisión abierta japonesa."
+        },
+        {
+          "t": "p",
+          "x": "El director ejecutivo de VCAT, Jeong Beom-jin, afirmó: “Con la capacidad demostrada en los sets de la televisión japonesa, estableceremos un nuevo estándar para la producción de video con AI en el mercado global de la televisión y el entretenimiento”."
+        }
+      ]
+    },
+    "movies/movies-runway-app-studio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/hero-1600-900-social-og-2x-355537f0-b954-4a87-8955-47c89bc15d4b.png"
+        },
+        {
+          "t": "p",
+          "x": "Hoy lanzamos App Studio, una nueva forma de crear software creativo a medida y bajo demanda dentro de Runway. Basta con describir en lenguaje sencillo la herramienta que se necesita para que App Studio construya una app propia, con su propia interfaz, que genera imágenes, video y audio a partir de sus Brand Kits y sus Workflows. Puede usarla uno mismo, compartirla con el equipo o publicar un enlace que cualquier persona con una cuenta de Runway puede usar."
+        },
+        {
+          "t": "p",
+          "x": "App Studio llega con apps integradas como Character Swap, AutoComp, Product Portfolio, 3D Camera Control, Precise Edit y Runway Pro. El estudio global de arquitectura KPF usó App Studio para crear una app que da vida a sus renders de diseño: los diseñadores marcan qué debe moverse en una imagen fija, trazan una trayectoria de cámara y reciben un video dirigido del diseño."
+        },
+        {
+          "t": "p",
+          "x": "Si ya existe una sesión de Agent o un Workflow que produce el resultado deseado, se puede convertir en app con un clic. También se puede empezar desde cero. App Studio escribe, prueba y despliega cada app, y el código queda visible para quien quiera revisarlo."
+        },
+        {
+          "t": "p",
+          "x": "Cada app es privada para su creador hasta que decida compartirla. App Studio está incluido en todos los planes de pago, sin compras nuevas ni complementos, y crear, ejecutar y alojar apps se descuenta del saldo de créditos de Runway que ya se tiene. App Studio ya está disponible en todos los planes de pago."
+        }
+      ]
     }
   }
 }

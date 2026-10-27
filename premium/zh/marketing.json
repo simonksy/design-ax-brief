@@ -2539,6 +2539,206 @@
           "x": "Google表示：“由于评价摘要代表用户反馈，广告主无法直接编辑或自定义生成的文字。”页面没有引用任何测试结果或提升数据，也没有说明账户层级的自动素材控制是否适用。该形式自2025年12月起已在实际搜索结果中测试。"
         }
       ]
+    },
+    "marketing/shopifykb": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shopify-knowledge-base-admin.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Shopify已用现已内置、面向AI购物代理的Merchant Admin知识库，取代了独立的Knowledge Base应用。根据Shopify 10月26日的Changelog，旧应用将在2027年1月15日之后停止提供。"
+        },
+        {
+          "t": "p",
+          "x": "该知识库（Sales channels > Agentic > Knowledge base）存放AI代理回答顾客有关店铺的问题时可能需要的非商品信息，例如退货政策、配送时间和品牌价值观。Store Policies和Contact Info在创建时即自动发布。"
+        },
+        {
+          "t": "p",
+          "x": "信息分为十个类别，来源包括店面扫描、Shopify后台设置或手动输入。通过店面扫描发现的信息在商家发布之前保持未发布状态。每家店铺已发布的知识库会“通过Storefront MCP公开提供”给Shop应用和第三方平台等AI应用。"
+        },
+        {
+          "t": "p",
+          "x": "旧应用中信息超过1,000条的商家，其信息未被迁移，必须在2027年1月15日之前重新录入想保留的信息。规模较小商家的信息已被自动迁移并发布。"
+        },
+        {
+          "t": "p",
+          "x": "Bill Hunt测试了122家Shopify店铺；在他查询过政策工具的88家中，有两家就取消订单给出了可用的回答。"
+        }
+      ]
+    },
+    "marketing/indentm": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/10/27/news-p.v1.20261027.aa99c1fb6d07482b8fa165890af22d18_P1.png"
+        },
+        {
+          "t": "p",
+          "x": "Indent Corporation发布了人工智能（AI）代理“Indent M”，可支持全球72个国家的网红营销策划与执行。"
+        },
+        {
+          "t": "p",
+          "x": "Indent Corporation代表Yoon Tae-seok 27日在首尔西大门区PR Bridge Storium举行的“Indent M发布记者会”上表示：“我们的愿景是打造一个能让1人品牌实现1万亿韩元销售额的引擎。”他还说：“为此，我们推出由AI代替人类营销人员执行重复性运营工作的Indent M。”"
+        },
+        {
+          "t": "p",
+          "x": "Indent M是根据营销战略发掘创作者并执行营销活动的AI代理，在72个国家支持美妆、食品、时尚、生活方式等各领域的全球网红营销。"
+        },
+        {
+          "t": "p",
+          "x": "Yoon Tae-seok强调：“品牌出海时，即便是大企业或大型代理商，在美国、日本以外的国家也常常依赖当地代理商。”他说：“Indent M的优势在于由AI而非人在全球72个国家直接执行营销，因此不存在语言障碍。”"
+        },
+        {
+          "t": "img",
+          "src": "https://img.etnews.com/news/article/2026/10/27/news-p.v1.20261027.c5b3f37542e74c1e97b9f0166a44515b_P1.png"
+        },
+        {
+          "t": "p",
+          "x": "他把AI自动化技术与内容电商相结合的趋势定义为“第4.5代电商”。如果说此前的第4代是借助创作者内容引导消费者购买，那么第4.5代则由AI将营销策划与执行、活动执行中的重复性工作自动化。"
+        },
+        {
+          "t": "p",
+          "x": "核心策略是“病毒式播种（Viral Seeding）”，即集中发布相似创作者的内容，推动在社交媒体上扩散。典型案例是一个K美妆品牌在TikTok上形成口碑，进入Amazon销量前列，进而促成当地零售商采购商品。"
+        },
+        {
+          "t": "p",
+          "x": "问题在于，营销活动规模越大，寻找、邀约创作者和管理内容所需的人力与时间就越多。Yoon Tae-seok解释说，借助AI，1分钟可审阅约1000万名创作者，从而减轻大规模营销的运营负担。"
+        },
+        {
+          "t": "p",
+          "x": "Indent M基于自有网红营销平台“Spray IO”开发，吸收了近3年来与100多个品牌、930多场营销活动和8万多条内容开展合作的经验。"
+        },
+        {
+          "t": "p",
+          "x": "用自然语言输入产品、国家和活动条件后，AI会挑选合适的创作者并执行营销。还可以依据预计播放量和销售效果等预测数据，比较每位创作者的表现。"
+        },
+        {
+          "t": "p",
+          "x": "Indent Corporation将Indent M与全球销售及物流平台“Indent O”相连接。Indent O以直销（D2C）服务“Bobushop”为基础，支持生成销售页面、多语言本地化以及支付与配送对接等功能。"
+        },
+        {
+          "t": "p",
+          "x": "Yoon Tae-seok表示：“我们将降低中小品牌乃至大型品牌开展全球营销的门槛，打造从营销到销售、物流全面打通的电商环境。”"
+        }
+      ]
+    },
+    "marketing/dailymailgeo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-identity-digiday.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Daily Mail正在开展约十几项GEO测试，以摸清哪些做法有效，然后在明年初将其AI可见度服务正式产品化。"
+        },
+        {
+          "t": "p",
+          "x": "SEO与编辑电商总监Carly Steven在Digiday的Media Strategies London活动上表示，随着越来越多品牌询问如何出现在AI-generated答案中，这家出版商正在U.S.（美国）、U.K.（英国）和澳大利亚开展12至15项测试。“品牌已经在找我们，说：‘我们想进入这些空间[AI surfaces]。我们知道我们的客户在这里。你们能怎么帮我们？’”"
+        },
+        {
+          "t": "p",
+          "x": "测试会找出消费者可能使用的提示词，在各AI平台上持续追踪，查看哪些来源被引用，并在有机会时制作定制品牌内容。在为一家未具名个人理财品牌进行的早期测试中，目标提示词的整体可见度从约50%升至接近75%。"
+        },
+        {
+          "t": "p",
+          "x": "证明商业效果则更难。一个品牌发现，在其分析数据中Claude仅占引荐流量的0.1%，但查看客户调查回复后发现，它带来了约11%的转化。"
+        },
+        {
+          "t": "p",
+          "x": "Future的GEO产品已有30多家客户，Ziff Davis称其有多家GEO客户，Forbes则正把AI-search可见度打造成面向品牌合作伙伴的咨询服务。"
+        }
+      ]
+    },
+    "marketing/fakeaireviews": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.sbs.co.kr/newimg/news/20261028/202235419_1280.jpg"
+        },
+        {
+          "t": "p",
+          "x": "调查发现，YouTube上随处可见的普通消费者测评广告中，有相当一部分是用AI伪造的。"
+        },
+        {
+          "t": "p",
+          "x": "那条声称腰围变小的测评，被证实是用AI制作的假视频。"
+        },
+        {
+          "t": "p",
+          "x": "韩国消费者院（Korea Consumer Agency）对截至6月的九个月间的YouTube广告进行分析，发现了420条经AI篡改（AI-manipulated）的广告。"
+        },
+        {
+          "t": "p",
+          "x": "借助AI，只需一张照片就能轻松改变身高、体重等外貌。在此次查获的虚假广告中，以这种方式夸大身体变化的情况最多，共171例。"
+        },
+        {
+          "t": "p",
+          "x": "一则体验广告声称，一名骨骺线已闭合的成年人服用增高保健品后长高了6 cm。这同样是AI伪造的。"
+        },
+        {
+          "t": "p",
+          "x": "［Choi Byung-ho／高丽大学（Korea University）Human-Inspired AI Research Institute教授：这已经是无法阻止的事了。由于制作AI视频的成本越来越低，技术日益普及，现在已经到了谁都能制作的地步。］"
+        },
+        {
+          "t": "p",
+          "x": "YouTube上一度充斥着虚假的AI医生广告，政府去年年底宣布将引入AI-generated内容标识制度。但该制度的实施一再推迟，问题如今已蔓延到冒充普通消费者的伪造测评。"
+        },
+        {
+          "t": "p",
+          "x": "YouTube表示，会在韩国消费者院提出要求后迅速删除此类视频，但尚未引入主动检测和拦截篡改视频的措施。"
+        }
+      ]
+    },
+    "marketing/marketing-chatgpt-ads-amazon-dsp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-floating-chat-boxes-A8gbToHE.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI似乎正在为部分ChatGPT Ad单元推出一种新广告格式，带有虚线下划线的Learn more链接，并配有向上的箭头。在某些情况下，ChatGPT Ads似乎还通过Amazon DSP投放。"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT广告单元的新设计由Bordie Clark发现，他在X和SERP Alert上发布了截图，并表示：“ChatGPT正在试验一种新广告格式，在文字广告中加入带箭头的learn more链接。在这种新格式中，'learn more'文字还带有虚线下划线。”"
+        },
+        {
+          "t": "p",
+          "x": "以下是我自己看到的截图："
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-ads-learn-more-link-xA1W3tjY.png"
+        },
+        {
+          "t": "p",
+          "x": "并非所有广告都会显示Learn more链接..."
+        },
+        {
+          "t": "p",
+          "x": "Juozas Kaziukėnas在LinkedIn上发文称，这些ChatGPT Ads中有一部分“由Amazon DSP投放”。他说，之所以这么判断，“是因为点击目标URL会经过Amazon的点击追踪服务器”。"
+        },
+        {
+          "t": "p",
+          "x": "以下是他展示该链接的截图："
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-ads-amazon-dsp-uHnh0Mix.jpg"
+        },
+        {
+          "t": "p",
+          "x": "他补充说：“关于这项整合如何运作，几乎没有任何细节，我也还没看到其他广告主使用它。但我认为很明显，Amazon不会在ChatGPT内运行Amazon的广告格式。广告主将通过DSP购买广告（包括基于信息流的广告？），由DSP负责定向（很可能？），但创意控制与普通ChatGPT广告相同。”"
+        },
+        {
+          "t": "p",
+          "x": "非常有意思..."
+        }
+      ]
     }
   }
 }

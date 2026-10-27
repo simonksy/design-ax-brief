@@ -8639,6 +8639,135 @@
           "x": "Com2uS Platform代表崔锡元表示：“将把在全球市场获得认可的Hive服务能力与AI开发环境相结合，大幅降低独立及小型开发商的商业化门槛。”"
         }
       ]
+    },
+    "games/epiceula": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf023070cdf9c6ebf/682da8904feafa6cf12bbc97/Fortnite_Header.png?width=1280&auto=webp&quality=80&disable=upscale"
+        },
+        {
+          "t": "p",
+          "x": "据Epic CEO Tim Sweeney在X上发布的帖子，Epic正努力取消用Unreal Engine和MetaHuman产出训练AI的限制，其EULA未来将随之修改。"
+        },
+        {
+          "t": "p",
+          "x": "26日，Kotaku发文指出，Microsoft和Epic等公司一边全力投入AI，一边关停用户以AI-coded方式重制的自家游戏，可能存在虚伪。Sweeney发长文回应，并在其中随口透露了计划中的EULA更新。"
+        },
+        {
+          "t": "p",
+          "x": "“Epic是否限制用Unreal Engine和MetaHuman产出训练AI？”Sweeney写道，“目前是的，但我们正在努力从EULA条款中移除这一限制。不过，使用这些工具的每款游戏都按开发者自选的条款发布，这些条款可以允许或限制AI训练。”"
+        },
+        {
+          "t": "p",
+          "x": "这对Unreal Engine而言是一个显著转变——该引擎此前完全不允许将其用于AI自我训练，而Epic正转向其所称的“AI-first”模式。Sweeney还批评过Valve在Steam上的AI披露要求。Game Developer已联系Epic了解更多信息。"
+        }
+      ]
+    },
+    "games/aiwikis": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/gamedb-wiki-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "图片来源：Eurogamer / GameDB"
+        },
+        {
+          "t": "p",
+          "x": "Eurogamer的作者在搜索Nighthawks相关信息时，进入了一个“Nighthawks Wiki”，它根本不是维基，而且充斥着虚假信息，比如列出并不存在的同伴和技能。其域名追溯到一家名为Spaceship的建站服务，该服务还提供“AI Website builder”。"
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/nighthawks-wiki-1.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
+          "cap": "涉事的非官方Nighthawks维基。| 图片来源：Eurogamer / Nighthawks.wiki"
+        },
+        {
+          "t": "p",
+          "x": "Hooded Horse CEO Tim Bender表示，这家发行商不得不与AI-generated网站玩“打地鼠（whack-a-mole）”。他说：“[生成式AI]让一批基本属于商业性质的企业得以批量生产内容，试图淹没游戏的搜索引擎结果，以吸走其流量。”"
+        },
+        {
+          "t": "p",
+          "x": "独立维基也面临AI爬虫：Dune: Awakening Community Wiki在30天内收到来自AI爬虫的7m 次请求，其中5m 次来自Meta。Independent Game Wiki Network的FlamingMojo表示，服务器成本增加了三到十倍。"
+        },
+        {
+          "t": "p",
+          "x": "“我们靠社区在AI污染中生存下来。”FlamingMojo说。"
+        }
+      ]
+    },
+    "games/molyneux": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/cCbNLBoom6H44tX6QPEMwa-1920-80.jpg",
+          "cap": "(图片来源：Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "PC Gamer在Guildford采访了Populous、Theme Park、Dungeon Keeper、Black & White和Fable的开发者Peter Molyneux，并询问了他对电子游戏行业使用AI的看法。"
+        },
+        {
+          "t": "p",
+          "x": "他指责ChatGPT和Gemini让“AI等于AI slop”的观念深入人心，并表示在Steam上勾选AI选项意味着“立刻就有12%[的玩家]流失”。“我们整个行业都在假装没有使用AI，但现实是，如今不用AI几乎不可能写代码。几乎不可能。”"
+        },
+        {
+          "t": "p",
+          "x": "他称AI是工作室“在创造力上最大的一步飞跃”：概念设计五分钟就能完成，而为一个从地面升起、完整绑定骨骼的角色制作原型，“一天就全部搞定，而不是几个月”。"
+        },
+        {
+          "t": "p",
+          "x": "“我认为AI还没有强大到可以放心让它制作达到游戏最终品质的素材。但是Rob，它会的。”他预测，一年之内，AI将与Unity和Unreal等中间件深度绑定，到时将很难剥离。"
+        }
+      ]
+    },
+    "games/uchikoshi": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/Hundred-Line.jpeg",
+          "cap": "© Aniplex, Too Kyo Games"
+        },
+        {
+          "t": "p",
+          "x": "以Zero Escape和Hundred Line闻名的Kotaro Uchikoshi在Famitsu的最新采访中坚称，他的新工作室Crash Keys及其游戏被取消一事属实，并表示如果当初允许他使用AI，游戏或许就不会被取消。"
+        },
+        {
+          "t": "p",
+          "x": "“对于我们这样的中型团队，尤其是做冒险游戏的团队来说，如今就连个人开发的独立游戏也可能被视为对手。其中一些人借助AI，以极小的团队在短时间内以低成本做出内容丰富的大型游戏。[...] 我认为我们别无选择，只能自己也用AI。”"
+        },
+        {
+          "t": "p",
+          "x": "“我理解游戏开发中使用AI会遇到抵触。不过就我个人而言，我支持AI。”他说，视觉设计和故事的源头必须来自人的创意，但他可以接受把打磨和润色交给AI，这能让最终成品从创作者构想的百分之70-80提升到接近百分之100。"
+        },
+        {
+          "t": "p",
+          "x": "Uchikoshi此前曾表示，Hundred Line可能是如此规模的游戏不借助AI制作的“最后几次之一”。"
+        }
+      ]
+    },
+    "games/games-remix": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/remix.jpg",
+          "cap": "Remix以一枚Bitcoin或等值现金作为奖品。来源：Remix"
+        },
+        {
+          "t": "p",
+          "x": "拥有约1.5百万玩家和创作者的游戏制作平台Remix今天推出了适用于Windows、Mac和Linux的桌面应用。创作者现在可以在新的桌面应用、Remix网站或原生iOS和Android应用上制作游戏，无需任何编程经验。"
+        },
+        {
+          "t": "p",
+          "x": "Remix于2025年从移动端起步，创作者已在那里制作了约100,000款小游戏。创作者描述想要的游戏，Remix的AI工具就会编写代码，立即把构想变为现实。随后Remix托管游戏，并加入排行榜、成就和实时多人功能。作品归创作者所有，因此可以导出代码。"
+        },
+        {
+          "t": "p",
+          "x": "“我们想改变谁能做游戏，”CEO Charlie Blackstock说。为推介平台，Remix推出寻宝活动The Missing Bitcoin，玩家要穿行于用每位创作者都在用的同一套工具搭建的传送门之间；第一个集齐全部寻宝硬币的玩家将赢得1 BTC（或等值现金）。"
+        },
+        {
+          "t": "p",
+          "x": "桌面应用可免费下载。使用Remix的AI制作游戏的创作套餐每月$5起，创作者也可以接入Anthropic、OpenAI或Google的现有订阅。"
+        }
+      ]
     }
   }
 }

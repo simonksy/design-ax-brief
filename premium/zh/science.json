@@ -8633,6 +8633,136 @@
           "x": "作者将这些发现定位为用于提出假设的结果：智能体是经过提示设定的，观点只分为五个类别，结果也不能说明同样的干预对人同样有效。"
         }
       ]
+    },
+    "science/spine": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus.jpg",
+          "cap": "ICARUS探测器内部。Credit: CERN"
+        },
+        {
+          "t": "p",
+          "x": "SLAC National Accelerator Laboratory的研究人员开发了机器学习程序SPINE（Scalable Particle Imaging with Neural Embeddings），用于分析液氩时间投影室的数据。它通过模拟的探测器图像进行学习，识别粒子、追踪其路径，并拼合出产生这些粒子的相互作用。"
+        },
+        {
+          "t": "p",
+          "x": "SPINE没有采用由专用算法组成的僵硬链条，而是让多个机器学习模型协同工作——先识别图像中的基本特征，再识别单个粒子，最后拼合出完整的相互作用。目前它已部署在约25家机构的八台探测器上。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus-1.jpg",
+          "cap": "ICARUS装有760吨液氩。Credit: Al Johnson/Fermilab"
+        },
+        {
+          "t": "p",
+          "x": "在ICARUS的首个中微子物理成果——通过缪子中微子消失搜寻惰性中微子（arXiv, DOI: 10.48550/arxiv.2603.22557）中，研究人员未发现此类信号的证据。与传统重建方法相比，SPINE多找回了约60%的可用中微子相互作用，样本更纯净，能量分辨率更高，系统不确定性更低。"
+        },
+        {
+          "t": "p",
+          "x": "团队已为DUNE的近端和远端探测器训练了SPINE模型；对近端探测器而言，它是目前唯一能够处理数百个相互重叠的相互作用的方法。首席开发者François Drielsma表示：“我们已经造好了工具，现在就看它能发现什么。”"
+        }
+      ]
+    },
+    "science/kls-conjecture": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-BlogHeroFeature-1400x788-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "1995年提出的Kannan–Lovász–Simonovits（KLS）猜想探讨的是：对于一大类高维概率分布，最优的超平面切分是否总能与任意形状的最优切分几乎同样有效。包括Microsoft Research的Xinzhi Zhang在内的两名研究者证明了这一猜想，表明无论维度如何，这一关系都在一个固定界限内成立。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-illustration-scaled.png",
+          "cap": "图1：正四面体上KLS猜想（简化版）的示意图。"
+        },
+        {
+          "t": "p",
+          "x": "作者在人类主导的结构化流程中与AI智能体协作，探索了100多种候选方法，得出一个可递归应用的新判据。反复进行整个递归细化过程，使累积误差始终受一个普适常数约束，并在2026年10月4日版本的论文中完成了证明。"
+        },
+        {
+          "t": "p",
+          "x": "另一组研究者在同一天发布了一份并行的完整证明，第三份证明依赖一个密切相关的思路，随后又出现了Lean 4形式化。在大致相同的token预算下，多款领先AI模型在无引导情况下的尝试均未成功；成功既取决于AI系统，也取决于研究者的数学判断。"
+        }
+      ]
+    },
+    "science/nrps-enzyme": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-aids-in-the-develop.jpg",
+          "cap": "Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77963-6"
+        },
+        {
+          "t": "p",
+          "x": "由Dr. Kenan Bozhüyük领导的Helmholtz Institute for Pharmaceutical Research Saarland（HIPS）研究人员利用AI为非核糖体肽合成酶（NRPS）开发了新型蛋白质构件。NRPS是一类酶复合体，如同分子装配线，负责合成众多抗生素、免疫抑制剂和抗癌药物背后的天然化合物。"
+        },
+        {
+          "t": "p",
+          "x": "研究团队将多个预训练AI模型与实验相结合，设计了76个新的硫醇化结构域（T-domains）——即传递中间体的转运臂，构建了数百种NRPS变体，并在活细胞中进行了测试。"
+        },
+        {
+          "t": "p",
+          "x": "多个设计具有功能；其中一些与天然变体相比产量最高提升至三倍，至少有一个溶解性更好、热稳定性更高。关键在于让每个构件与其相邻区域相匹配。"
+        },
+        {
+          "t": "p",
+          "x": "Bozhüyük表示：“AI不会取代实验，但它能帮助我们更快地从众多可能的变体中挑选出有前景的候选。”Nature Communications (2026), DOI: 10.1038/s41467-026-77963-6."
+        }
+      ]
+    },
+    "science/llm-empathy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-framework.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Georgia Tech的研究人员开发了一个神经框架，用LLM对模型进行审计，估算文档、对话记录及其他数据源对模型输出的影响，以考察训练数据如何塑造共情与社会推理能力。"
+        },
+        {
+          "t": "p",
+          "x": "“擅长社会推理的模型会更少依赖关于人类情绪的教科书，而更多依赖FAQs或客服对话，”第一作者Glenn Matlin表示，“它可以随意阅读解释愤怒的文本，但这并不能帮助它判断一个人是否在生气。”"
+        },
+        {
+          "t": "p",
+          "x": "此次审计针对的是Ai2的开源模型Olmo 3，其训练数据包含超过十亿份文档；ChatGPT和Claude则未公开各自的训练数据。导师（Adviser）Mark Riedl表示，工程师可以增加或减少模型学习共情所依赖的文档。该论文已在Conference on Language Modeling上发表（arXiv, DOI: 10.48550/arxiv.2606.19625）。"
+        }
+      ]
+    },
+    "science/science-hydrogen-catalyst": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ahead-of-their-time.jpg",
+          "cap": "CarbonCat-LLMs框架示意图，比较了有无few-shot训练的GPT-4o模型的准确率与F1-score。Credit: ACS Catalysis"
+        },
+        {
+          "t": "p",
+          "x": "ARC Centre of Excellence for Carbon Science and Innovation的研究人员利用大语言模型挖掘科学文献，寻找有前景的电催化剂：用于制氢的碳负载高熵合金。"
+        },
+        {
+          "t": "p",
+          "x": "团队人工评估了100个AI输出示例以改进系统，随后该系统从5,000多篇研究论文中提取了信息。"
+        },
+        {
+          "t": "p",
+          "x": "当系统只能使用截至2017年的知识时，它点出了合金CrCoFeMnNi；该合金后来在实验中被报道为高熵合金用于氢电催化的早期案例。"
+        },
+        {
+          "t": "p",
+          "x": "该研究属于计算研究，因此新提出的候选材料以及在制氢成本或性能上的任何提升仍未经验证。作者认为，这一方法可扩展到CO₂还原，并最终用于发现新反应。"
+        },
+        {
+          "t": "p",
+          "x": "该研究由Yiran Jiao et al.完成，发表于ACS Catalysis (2026)。DOI: 10.1021/acscatal.6c00635."
+        }
+      ]
     }
   }
 }

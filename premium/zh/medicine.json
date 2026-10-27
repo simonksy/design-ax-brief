@@ -2405,6 +2405,122 @@
           "x": "Rivanna还在开发一款研究性模块，帮助临床医生在超声图像上评估可能存在的四肢骨折。该公司表示，这项工作得到了U.S. 生物医学高级研究与发展管理局（Biomedical Advanced Research and Development Authority）的支持。"
         }
       ]
+    },
+    "medicine/medicine-chatgpt5-fracture": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Haifa, Israel的Rambam Health Care Campus研究团队10月26日在Emergency Radiology发表的研究显示，在仅给出“是否骨折”这一单一二元提示时，ChatGPT-5在普通x-rays上漏诊了约一半的桡骨远端骨折。"
+        },
+        {
+          "t": "p",
+          "x": "研究人员通过公开网页界面，以zero-shot方式向ChatGPT-5提交了Stanford MURA数据集中的370张桡骨远端正位x-rays，并提问：“这张X-ray中有骨折吗？请用yes或no回答。”"
+        },
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/chatgpt-fractures.umykcGJONV.jpg?auto=format%2Ccompress&fit=max&q=70&w=800",
+          "cap": "ChatGPT-5代表性输出与参考标准的对照。Emergency Radiology"
+        },
+        {
+          "t": "p",
+          "x": "分析样本中的骨折患病率为45.9%(170/370)。ChatGPT-5漏诊83例骨折，灵敏度为51.2%，特异度为70.5%，总体准确率为61.6%。假阴性显著多于假阳性。"
+        },
+        {
+          "t": "p",
+          "x": "研究人员写道：“说得直白些：不应使用通用聊天机器人来判断一张X光片是否显示骨折。”"
+        }
+      ]
+    },
+    "medicine/medicine-ich-triage": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "PHILADELPHIA -- Seattle的University of Washington的Ai Tong, PhD于10月27日在SIIM-CAIMI 2026会议上发表的结果显示，AI-based分诊方法有望缩短急诊场景中的周转时间。"
+        },
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/img-7815.SDSxU6LNkw.jpg?auto=format%2Ccompress&fit=max&q=70&w=800",
+          "cap": "Ai Tong, PhD介绍其团队应用AI-based ICH分诊方法的情况。"
+        },
+        {
+          "t": "p",
+          "x": "以NLP-derived ICH标签为参照，该AI分诊系统的灵敏度为79.3%，特异度为94.2%，F1分数为0.78。在ICH-positive检查中，AI分诊将报告周转时间中位数从214分钟缩短至201分钟(p = 0.03)。"
+        },
+        {
+          "t": "p",
+          "x": "在pre-AI的10,898次和post-AI的9,317次急诊就诊中，AI-positive病例的入院时间(中位数423.5分钟)短于AI-negative病例(523.0分钟；p = 0.004)。"
+        },
+        {
+          "t": "p",
+          "x": "Tong表示：“这项[研究]尚处早期，且仅为相关性研究。”她补充说，研究结果提示AI分诊的临床影响不止于提升放射科效率。"
+        }
+      ]
+    },
+    "medicine/medicine-mmc-drift": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "将人工智能(AI)整合进临床医学影像推动了诊断进步，但随着输入数据变化，如何保持长期可靠性也成为挑战。为此，我们提出MMC+，这是一个用于可扩展漂移监测的模块化框架，建立在我们利用多模态数据一致性(MMC)进行实时漂移检测的CheXstray框架之上。"
+        },
+        {
+          "t": "p",
+          "x": "MMC+提供灵活的架构，可在真实医疗环境中实现具有成本效益的持续性能监测。该框架的功能包括：利用统计检验或距离度量汇总多个数据流的信息，借助基础模型嵌入免去针对特定机构训练编码器的需要，以及量化不确定性以更好地说明漂移的显著性。"
+        },
+        {
+          "t": "p",
+          "x": "经COVID-19疫情期间Massachusetts General Hospital数据验证，MMC+能有效检测与性能变化相关的显著数据偏移，并提示AI系统何时可能偏离可接受的性能范围。MMC+的代码已公开，有助于推动AI解决方案在临床中的更广泛应用。"
+        }
+      ]
+    },
+    "medicine/medicine-uhc-avery": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1635360990/UnitedHealthcare_sign.jpg/UnitedHealthcare_sign.jpg?VersionId=mRAMc4oGgCt6.6zJw_PKJwe2kXPjRXqW",
+          "cap": "UnitedHealthcare首席数据与分析官Craig Kurtzweil表示，准确性对于帮助会员信任该工具并最有效地使用它至关重要。（UnitedHealthcare）"
+        },
+        {
+          "t": "p",
+          "x": "今年早些时候，UnitedHealthcare推出了Avery，这是一款旨在支持会员护理协调的生成式AI助手。当时，约6.5M 名雇主计划会员和160,000名Medicare Advantage参保人可以使用该工具。如今，这家保险公司正将使用范围扩大到21M 名会员。"
+        },
+        {
+          "t": "p",
+          "x": "公司迄今发现，Avery解决了90%的会员交互，其余10%的情况可转交给人工顾问为会员提供支持。"
+        },
+        {
+          "t": "p",
+          "x": "Kurtzweil表示，Avery得以运作的关键在于它建立在\"ground truth systems\"之上，这些系统为平台奠定了关键的数据基础。Avery可以提供免赔额、自付上限、医疗服务网络、价格和理赔处理等关键信息。"
+        },
+        {
+          "t": "p",
+          "x": "团队还在为Avery开发更多功能，包括代会员致电医疗机构并预约就诊的选项。UnitedHealthcare的最终目标是让所有参保人都能使用该工具。"
+        }
+      ]
+    },
+    "medicine/medicine-cari-heart": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cardiovascularbusiness.com/sites/default/files/styles/top_stories/public/2026-10/caristo_fai_used_in_first_us_study_since_fda_clearance.jpg.webp?itok=TH_ctwZ9",
+          "cap": "Caristo基于脂肪衰减指数（FAI）的AI-assessment可在CCTA扫描中评估冠状动脉炎症，呈现传统心脏评估无法发现的患者残余心脏风险。"
+        },
+        {
+          "t": "p",
+          "x": "针对Caristo Diagnostics获FDA-cleared的冠状动脉炎症检测技术CaRi-Heart的首项U.S.研究发现，大量无症状成年患者实际上心脏事件风险偏高。"
+        },
+        {
+          "t": "p",
+          "x": "该研究由礼宾医疗诊所Biograph开展，将Caristo的脂肪衰减指数（FAI）AI算法用于预防性心脏CT扫描，在42.9%的参与者中发现炎症。其中17.9%至少有一条主要动脉炎症水平非常高。在未检出冠状动脉斑块的参与者中，约47%存在冠状动脉周围炎症升高，这会增加其心脏事件风险。"
+        },
+        {
+          "t": "p",
+          "x": "Biograph执行医疗总监Michael Doney, MD表示：“关键在于，任何常规血液生物标志物、血脂指标或临床风险评分都无法识别出这些冠状动脉发炎的人。”他补充说，还需更多研究来验证这一点，并确立FAI的预后价值。"
+        },
+        {
+          "t": "p",
+          "x": "FDA于7月下旬授予CaRi-Heart技术de novo上市许可。这是首项能够利用FAI评分可视化并清晰量化冠状动脉炎症的技术。"
+        }
+      ]
     }
   }
 }

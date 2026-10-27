@@ -9806,6 +9806,175 @@
           "x": "Los precios parten de $6,499 para la configuración de 2TB y de $6,799 para la de 4TB, más $69 de envío, sin contar aranceles de importación ni impuestos. Al tratarse de una marca relativamente desconocida y con solo un año de garantía, una compra cercana a $7,000 es una apuesta considerable."
         }
       ]
+    },
+    "gadgets/gadgets-macbook-pro-m6": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7moKw5F2gzMVH2GPuzQHMT.jpg",
+          "cap": "(Crédito de imagen: Apple)"
+        },
+        {
+          "t": "p",
+          "x": "Apple presentó una renovación de octubre de su MacBook Pro de 14 pulgadas con el procesador M6, como parte de sus anuncios \"Pro and tell\". No incluye pantalla táctil ni grandes cambios de diseño, y llegará con macOS 27 Golden Gate, que incluye la próxima versión de Apple Intelligence y Siri AI."
+        },
+        {
+          "t": "p",
+          "x": "El nuevo MacBook Pro con M6 parte de $1,999 con chip M6, 16GB de RAM y 1TB de almacenamiento. Las reservas comienzan el miércoles 28 de octubre y los envíos, el 6 de noviembre."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/yqvquafwQnwqJ9V45U4NLR.jpg",
+          "cap": "(Crédito de imagen: Apple)"
+        },
+        {
+          "t": "p",
+          "x": "El M6 pasa a una arquitectura de 2 nanómetros y suma dos núcleos tanto a la CPU como a la GPU respecto a la CPU de 10 núcleos y la GPU de 10 núcleos del M5. También cuenta con un Dual 16-core Neural Engine para AI y aprendizaje automático, apoyado por Neural Accelerators en cada núcleo de la GPU. Apple afirma que la GPU de 12 núcleos ofrece gráficos hasta un 30 por ciento más rápidos y cargas de trabajo de AI hasta un 25 por ciento más rápidas que el M5."
+        },
+        {
+          "t": "p",
+          "x": "El MacBook Pro también incorpora el chip N1 de Apple con Wi-Fi 7 y Bluetooth 6, y Apple asegura que la batería alcanza hasta 24 horas en total."
+        }
+      ]
+    },
+    "gadgets/gadgets-galaxy-buds-on": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26121640/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main1.jpg",
+          "cap": "Galaxy Buds On"
+        },
+        {
+          "t": "p",
+          "x": "Samsung Electronics ha lanzado Galaxy Buds On, sus primeros auriculares de oído abierto. Con un diseño de clip, un sonido rico y funciones AI-powered, Galaxy Buds On ofrece más libertad y flexibilidad. El diseño de clip descansa ligeramente sobre las orejas y se mantiene firme incluso con movimientos bruscos de la cabeza."
+        },
+        {
+          "t": "p",
+          "x": "Al decir “Hey Google, let’s talk Live” se inicia Gemini Live, que permite pedir recomendaciones de rutas para correr sin sacar el teléfono. Galaxy Buds On ofrece acceso manos libres a Gemini Live cuando se empareja con un smartphone Galaxy AI-enabled."
+        },
+        {
+          "t": "video",
+          "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/27174131/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main6-1.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Comandos de voz como “Next song” o “Volume up” controlan la reproducción sin tocar los auriculares. Tras una reunión, Quick Voice Memo empieza a grabar al mantener pulsado un auricular; después, se puede preguntar a Bixby por las tareas y escuchar los detalles en voz alta. Con Head Gestures, basta asentir para contestar una llamada o negar con la cabeza para rechazarla."
+        },
+        {
+          "t": "img",
+          "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26122922/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main10.jpg",
+          "cap": "Galaxy Buds On incluye Intelligent Clear Call."
+        },
+        {
+          "t": "p",
+          "x": "Intelligent Clear Call utiliza tres micrófonos, un Voice Pickup Unit Sensor basado en conducción ósea y una solución basada en aprendizaje automático para aislar la voz del usuario y reducir el ruido de fondo."
+        }
+      ]
+    },
+    "gadgets/gadgets-opera-webai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-WebAI.jpeg?resize=1200%2C720&ssl=1",
+          "cap": "Opera"
+        },
+        {
+          "t": "p",
+          "x": "La nueva vista previa de WebAI de Opera permite a sitios web y extensiones del navegador usar modelos locales dentro de Opera One sin exigir otra suscripción de AI ni enviar a un servicio en la nube la información que manejan. La vista previa, de activación voluntaria, se está desplegando en PCs con Windows y Macs con Apple silicon compatibles."
+        },
+        {
+          "t": "p",
+          "x": "WebAI es una propuesta de estándar web que da a sitios y extensiones acceso a la AI a través del navegador. Opera afirma que la iniciativa cuenta con el respaldo de Google y Microsoft. Su implementación no depende de ningún modelo y se centra en modelos abiertos."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-AI.jpeg?resize=1350%2C810&ssl=1",
+          "cap": "Opera"
+        },
+        {
+          "t": "p",
+          "x": "Opera One puede recurrir a los modelos Gemma de Google, mientras que los Macs compatibles también pueden usar el modelo fundacional en el dispositivo de Apple. Una extensión de ejemplo puede ordenar una colección caótica de pestañas y otra puede señalar el clickbait."
+        },
+        {
+          "t": "p",
+          "x": "WebAI está desactivado por defecto. No se descarga nada hasta que el usuario lo activa, y cada sitio necesita permiso antes de acceder a la AI local del navegador. La velocidad y la capacidad dependen del equipo. Opera GX y Opera Neon recibirán WebAI más adelante."
+        }
+      ]
+    },
+    "gadgets/gadgets-nokia-claude-s40": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/intro-1792779965.jpg",
+          "cap": "AIKON es una app que permite conectar antiguos teléfonos Nokia S40 y S60 a chatbots como Claude."
+        },
+        {
+          "t": "p",
+          "x": "El Nokia 6300 original es un teléfono 2G cuyo navegador nunca pasó de TLS 1.0, por lo que en la práctica no puede acceder a la internet actual. A finales de septiembre, el emprendedor turco Emir Karşıyakalı presentó Claude S40, una app creada con vibe coding para conectar su viejo Nokia 6300 con Claude mediante un backend en Java y Go."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/meet-aikon-1792779966.jpg",
+          "cap": "Dos capturas de pantalla que muestran la interfaz de AIKON."
+        },
+        {
+          "t": "p",
+          "x": "Desde entonces la actualizó para que funcione con ChatGPT, Gemini y Grok, y la rebautizó como Aikon, Nokia escrito al revés. Un servidor Go guarda la clave de API y recorta las respuestas del chatbot en bloques de 8kB que el viejo teléfono puede leer."
+        },
+        {
+          "t": "p",
+          "x": "La app ofrece un modo de lectura, guardado sin conexión de respuestas en una tarjeta de memoria, subida de fotos y mensajes de voz de hasta 30 segundos. Karşıyakalı la ha publicado como código abierto. En Estados Unidos (US) no funciona, ya que la última red 2G del país se apagó cuando T-Mobile cerró su red GSM en agosto."
+        }
+      ]
+    },
+    "gadgets/gadgets-siri-ios272": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&strip=all&w=1600",
+          "cap": "Siri AI"
+        },
+        {
+          "t": "p",
+          "x": "Apple publica hoy sus actualizaciones de software 27.2, que, entre varias funciones nuevas, introducen diversas mejoras para Siri AI. Esto es lo nuevo."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "Siri AI llegó el mes pasado con iOS 27 como una renovación profunda del asistente de Apple. Pero Siri mejora todavía más hoy con las nuevas actualizaciones de software 27.2 que se están distribuyendo."
+        },
+        {
+          "t": "p",
+          "x": "Las nuevas funciones de Siri AI incluyen:"
+        },
+        {
+          "t": "p",
+          "x": "Memoria de conversaciones: Siri AI ahora puede conservar contexto útil de conversaciones anteriores, de modo que se le puede preguntar por temas ya tratados, como restaurantes que recomendó antes."
+        },
+        {
+          "t": "p",
+          "x": "Más contexto personal: Siri AI ahora puede recurrir a más fuentes de contexto personal para dar una mejor respuesta, entre ellas “fotos adjuntas en Messages, asistentes a eventos de Calendar, tus mensajes de voz y mejores resultados del historial de Safari y de Reading List”."
+        },
+        {
+          "t": "p",
+          "x": "Más idiomas: además del inglés, Siri AI ahora admite francés, japonés, coreano, portugués y español."
+        },
+        {
+          "t": "p",
+          "x": "Más rápido en Apple Watch: Apple afirma que en watchOS 27.2 Siri AI responde más rápido que antes."
+        },
+        {
+          "t": "p",
+          "x": "Los usuarios pueden aprovechar estas mejoras de Siri AI en iPhone, iPad, Mac y otros dispositivos con iOS 27.2, iPadOS 27.2, macOS 27.2 y otras versiones complementarias."
+        },
+        {
+          "t": "p",
+          "x": "Con modelos de AI de empresas como OpenAI y Anthropic en mejora constante, es positivo ver que Apple ya itera sobre Siri AI tan poco después de su lanzamiento. Cabe esperar que el asistente siga mejorando con cada nueva actualización de software."
+        }
+      ]
     }
   }
 }

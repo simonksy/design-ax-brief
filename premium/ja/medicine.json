@@ -2405,6 +2405,122 @@
           "x": "Rivannaは、臨床医が超音波画像で四肢骨折の可能性を評価するのを支援する研究用モジュールも開発中だ。同社によると、この取り組みはU.S. 生物医学先端研究開発局（Biomedical Advanced Research and Development Authority）の支援を受けている。"
         }
       ]
+    },
+    "medicine/medicine-chatgpt5-fracture": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Haifa, IsraelのRambam Health Care Campusの研究グループが10月26日にEmergency Radiologyで発表した研究によると、ChatGPT-5は骨折の有無を問う単一の二択プロンプトを与えられた場合、単純x-raysで橈骨遠位端骨折の約半分を見逃した。"
+        },
+        {
+          "t": "p",
+          "x": "研究者らはStanford MURAデータセットから橈骨遠位端の正面x-rays 370枚を、公開ウェブインターフェースを通じてzero-shot方式でChatGPT-5に提出した。質問は「このX-rayに骨折はあるか? yesかnoで答えよ。」だった。"
+        },
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/chatgpt-fractures.umykcGJONV.jpg?auto=format%2Ccompress&fit=max&q=70&w=800",
+          "cap": "参照基準と比較したChatGPT-5の代表的な出力例。Emergency Radiology"
+        },
+        {
+          "t": "p",
+          "x": "解析サンプルにおける骨折の有病率は45.9%(170/370)だった。ChatGPT-5は83件の骨折を見逃し、感度51.2%、特異度70.5%、全体の正確度61.6%を示した。偽陰性は偽陽性を大きく上回った。"
+        },
+        {
+          "t": "p",
+          "x": "「端的に言えば、汎用チャットボットを、放射線写真に骨折があるかどうかの判断に使うべきではない」と研究者らは記している。"
+        }
+      ]
+    },
+    "medicine/medicine-ich-triage": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "PHILADELPHIA -- AI-basedのトリアージ手法が救急現場での所要時間を短縮し得ることが、SeattleのUniversity of WashingtonのAi Tong, PhDが10月27日にSIIM-CAIMI 2026で発表した結果から示された。"
+        },
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/img-7815.SDSxU6LNkw.jpg?auto=format%2Ccompress&fit=max&q=70&w=800",
+          "cap": "AI-basedのICHトリアージ手法を用いたチームの取り組みについて報告するAi Tong, PhD。"
+        },
+        {
+          "t": "p",
+          "x": "AIトリアージシステムは、NLP-derivedのICHラベルに対して感度79.3%、特異度94.2%、F1スコア0.78を達成した。ICH-positiveの検査では、AIトリアージにより報告所要時間の中央値が214分から201分に短縮した(p = 0.03)。"
+        },
+        {
+          "t": "p",
+          "x": "pre-AIの10,898件とpost-AIの9,317件の救急受診のうち、AI-positiveの症例はAI-negativeの症例(523.0分; p = 0.004)より入院までの時間が短かった(中央値423.5分)。"
+        },
+        {
+          "t": "p",
+          "x": "「この[研究]は初期段階で、相関を示すにすぎない」とTongは述べ、今回の結果はAIトリアージの臨床的影響が放射線科の効率化にとどまらないことを示唆すると付け加えた。"
+        }
+      ]
+    },
+    "medicine/medicine-mmc-drift": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "臨床医用画像への人工知能(AI)の導入は診断を進歩させた一方、入力データが変化する中で長期的な信頼性を維持するという課題ももたらしている。これに対処するため、我々はマルチモーダルデータ一致度(MMC)を用いたリアルタイムのドリフト検出フレームワークCheXstrayを発展させ、スケーラブルなドリフト監視のためのモジュール型フレームワークMMC+を提示する。"
+        },
+        {
+          "t": "p",
+          "x": "MMC+は、実際の医療現場で費用対効果の高い継続的な性能監視を可能にする柔軟なアーキテクチャを提供する。本フレームワークは、統計検定や距離指標を用いて複数のデータストリームの情報を集約し、基盤モデルの埋め込みを活用して施設ごとのエンコーダ学習を不要にし、不確実性を定量化してドリフトの重要性をより適切に伝える。"
+        },
+        {
+          "t": "p",
+          "x": "COVID-19パンデミック期間中のMassachusetts General Hospitalのデータで検証したところ、MMC+は性能変化と相関する有意なデータシフトを効果的に検出し、AIシステムが許容可能な性能範囲から逸脱する可能性がある時点を示した。MMC+のコードは公開されており、臨床現場でのAIソリューションの幅広い導入を後押しする。"
+        }
+      ]
+    },
+    "medicine/medicine-uhc-avery": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1635360990/UnitedHealthcare_sign.jpg/UnitedHealthcare_sign.jpg?VersionId=mRAMc4oGgCt6.6zJw_PKJwe2kXPjRXqW",
+          "cap": "会員がツールを信頼し最も効果的に使うには正確性が欠かせないと、UnitedHealthcareの最高データ・分析責任者Craig Kurtzweilは述べた。(UnitedHealthcare)"
+        },
+        {
+          "t": "p",
+          "x": "UnitedHealthcareは今年初め、会員のケア調整を支援する生成AIコンパニオンAveryを発表した。当時、このツールを利用できたのは雇用主プランの会員約6.5M 人とMedicare Advantage加入者160,000人だった。現在、同社は利用対象を会員21M 人に広げている。"
+        },
+        {
+          "t": "p",
+          "x": "同社によると、これまでAveryは会員とのやり取りの90%を解決し、残る10%のケースでは人間の担当者に引き継いで会員を支援できる。"
+        },
+        {
+          "t": "p",
+          "x": "Kurtzweilは、Averyが機能する鍵は、プラットフォームに重要なデータ基盤をもたらす\"ground truth systems\"の上に構築されている点だと述べた。Averyは免責額、自己負担上限額、医療機関ネットワーク、価格、請求処理について主要な情報を提供できる。"
+        },
+        {
+          "t": "p",
+          "x": "チームはAveryの機能拡充も進めており、会員に代わって医療機関に電話し予約を入れる機能も含まれる。UnitedHealthcareは最終的に、全加入者がこのツールを使えるようにする考えだ。"
+        }
+      ]
+    },
+    "medicine/medicine-cari-heart": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cardiovascularbusiness.com/sites/default/files/styles/top_stories/public/2026-10/caristo_fai_used_in_first_us_study_since_fda_clearance.jpg.webp?itok=TH_ctwZ9",
+          "cap": "CaristoのFAI（脂肪減衰指数）によるAI-assessmentは、CCTA画像で冠動脈炎症を評価し、従来の心臓検査では見えなかった患者の残存心リスクを可視化できる。"
+        },
+        {
+          "t": "p",
+          "x": "Caristo DiagnosticsのFDA-clearedな冠動脈炎症検出技術CaRi-Heartを用いた初のU.S.研究で、無症状の成人患者の多くが実際には心イベントのリスクが高い状態にあることがわかった。"
+        },
+        {
+          "t": "p",
+          "x": "コンシェルジュ医療クリニックBiographが実施したこの研究は、予防目的の心臓CT画像にCaristoのFAI（脂肪減衰指数）AIアルゴリズムを適用し、参加者の42.9%に炎症を認めた。そのうち17.9%は、少なくとも1本の主要動脈で炎症レベルが非常に高かった。冠動脈プラークが検出されなかった参加者の約47%でも冠動脈周囲の炎症が亢進しており、心イベントのリスクを高めている。"
+        },
+        {
+          "t": "p",
+          "x": "Biographのエグゼクティブ・メディカル・ディレクター、Michael Doney, MDは「決定的なのは、通常の血液バイオマーカーも脂質指標も臨床リスクスコアも、冠動脈に炎症を抱えるこうした人々を特定できなかったことだ」と述べた。そのうえで、これを検証しFAIの予後的価値を確立するにはさらなる研究が必要だと付け加えた。"
+        },
+        {
+          "t": "p",
+          "x": "FDAは7月下旬、CaRi-Heart技術にde novoの市販認可を与えた。FAIスコアを用いて冠動脈炎症を可視化し、明確に定量化できる初の技術である。"
+        }
+      ]
     }
   }
 }

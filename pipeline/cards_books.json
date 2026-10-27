@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "section": "books",
   "cards": [
     {
-      "id": "books-dark-factory",
-      "source_lang": "ko",
+      "id": "youtube-audiobooks",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 책 만드는\n출판 다크팩토리",
-      "body": "기획부터 ISBN 발급·납본·유통까지 AI가 맡는 공정이 11월 1일 가동된다.",
-      "mini_headline": "출판 다크팩토리 가동",
+      "headline": "YouTube,\n오디오북 진출 검토",
+      "body": "YouTube에 AI-voiced 해적판 오디오북이 퍼지자 출판사가 정식판을 낸다.",
+      "mini_headline": "YouTube, 오디오북 검토",
       "tool": "Books",
-      "source": "메가경제",
-      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065578229975864",
+      "source": "Jane Friedman",
+      "url": "https://janefriedman.com/youtube-looks-to-expand-into-audiobooks/",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
@@ -19,355 +19,215 @@
         "blocks": [
           {
             "t": "p",
-            "x": "단순한 생성형 인공지능(AI) 기반 원고 작성을 넘어, 기획부터 집필, 교정, ISBN 발급, 국립중앙도서관 납본, 주요 온·오프라인 서점 유통과 정산까지 전 과정을 자율적으로 수행하는 지식 생산 공장이 상업 가동에 들어간다. 전략집단이음(대표전략가 석종득)은 ‘아르카디아 자율형 다크팩토리’의 상업출판 전 공정 실증을 마치고 11월 1일부터 본격 가동한다고 26일 밝혔다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.megaeconomy.co.kr/news/data/20261026/p1065578229975864_869_thum.png",
-            "cap": "아르카디아 자율형 다크팩토리"
+            "x": "YouTube가 오디오북 시장으로 발을 넓히려 한다."
           },
           {
             "t": "p",
-            "x": "실증 단계에서 총 9권의 도서를 자체 기획·집필하고 시각자료 제작, 조판, 검수를 거쳐 ISBN 발급과 납본, 서점 등록, 실제 판매 정산까지 전 주기를 완주했다. 11월부터는 교보문고, 예스24, 알라딘 등 국내 주요 유통망과 자율 운영 AI 조직을 결합해 상업 생산 물량을 확대한다."
+            "x": "AI-generated 오디오 버전으로 만든 해적판이 플랫폼에 넘쳐나자 출판사들은 그 안에서 오디오북을 합법적으로 들을 길을 내놓는다."
           },
           {
             "t": "p",
-            "x": "‘AI 공장장’이 작업 배정, 에이전트 교육, 진척도 관리, 오류 수정, 다음 공정 인계를 총괄하고, 하위 전담 에이전트들이 원고 집필과 작화, 납본 신청, 전자책 등록까지 나눠 맡는다. 회사는 2025년 10월부터 1년간 114권을 생산하며 얻은 노하우를 ‘공통 백엔드’ 규칙으로 통합했다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.megaeconomy.co.kr/news/data/20261026/p1065578229975864_230_thum.jpeg",
-            "cap": "Arcadia 9 Book Covers"
-          },
-          {
-            "t": "p",
-            "x": "장기 편성 규모는 한국어판 1만 4917권, 영문판 1만 4917권 등 총 2만 9834권이며, 상업 가동 이후 목표 생산량은 국·영문 합산 월 2000권, 연간 2만 4000권이다. 서점 판매 추이를 AI가 수집·분석해 후속 생산을 결정하고, 반응이 좋은 전자책은 주문형 종이책 인쇄(POD)로 연계한다."
+            "x": "전체 기사는 Jane Friedman 뉴스레터 유료 구독자만 볼 수 있다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "AI가 책 만드는\n출판 다크팩토리",
-          "body": "기획부터 ISBN 발급·납본·유통까지 AI가 맡는 공정이 11월 1일 가동된다.",
-          "mini_headline": "출판 다크팩토리 가동",
+        "en": {
+          "headline": "YouTube eyes a move\ninto audiobooks",
+          "body": "AI-voiced pirate audiobooks spreading on YouTube are pushing publishers toward legitimate ways to listen there.",
+          "mini_headline": "YouTube eyes audiobooks",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "단순한 생성형 인공지능(AI) 기반 원고 작성을 넘어, 기획부터 집필, 교정, ISBN 발급, 국립중앙도서관 납본, 주요 온·오프라인 서점 유통과 정산까지 전 과정을 자율적으로 수행하는 지식 생산 공장이 상업 가동에 들어간다. 전략집단이음(대표전략가 석종득)은 ‘아르카디아 자율형 다크팩토리’의 상업출판 전 공정 실증을 마치고 11월 1일부터 본격 가동한다고 26일 밝혔다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.megaeconomy.co.kr/news/data/20261026/p1065578229975864_869_thum.png",
-                "cap": "아르카디아 자율형 다크팩토리"
+                "x": "YouTube looks to expand into audiobooks."
               },
               {
                 "t": "p",
-                "x": "실증 단계에서 총 9권의 도서를 자체 기획·집필하고 시각자료 제작, 조판, 검수를 거쳐 ISBN 발급과 납본, 서점 등록, 실제 판매 정산까지 전 주기를 완주했다. 11월부터는 교보문고, 예스24, 알라딘 등 국내 주요 유통망과 자율 운영 AI 조직을 결합해 상업 생산 물량을 확대한다."
+                "x": "Rampant piracy on the platform, due to AI-generated audio versions, is leading publishers to provide legitimate means of enjoying audiobooks there."
               },
               {
                 "t": "p",
-                "x": "‘AI 공장장’이 작업 배정, 에이전트 교육, 진척도 관리, 오류 수정, 다음 공정 인계를 총괄하고, 하위 전담 에이전트들이 원고 집필과 작화, 납본 신청, 전자책 등록까지 나눠 맡는다. 회사는 2025년 10월부터 1년간 114권을 생산하며 얻은 노하우를 ‘공통 백엔드’ 규칙으로 통합했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.megaeconomy.co.kr/news/data/20261026/p1065578229975864_230_thum.jpeg",
-                "cap": "Arcadia 9 Book Covers"
-              },
-              {
-                "t": "p",
-                "x": "장기 편성 규모는 한국어판 1만 4917권, 영문판 1만 4917권 등 총 2만 9834권이며, 상업 가동 이후 목표 생산량은 국·영문 합산 월 2000권, 연간 2만 4000권이다. 서점 판매 추이를 AI가 수집·분석해 후속 생산을 결정하고, 반응이 좋은 전자책은 주문형 종이책 인쇄(POD)로 연계한다."
+                "x": "The full article is available to paid subscribers of Jane Friedman's newsletter."
               }
             ]
           }
         },
-        "en": {
-          "headline": "A publishing dark factory\nwhere AI makes the books",
-          "body": "AI will run a process covering planning, ISBN issuance, legal deposit and distribution from November 1.",
-          "mini_headline": "Publishing dark factory launches",
+        "ko": {
+          "headline": "YouTube,\n오디오북 진출 검토",
+          "body": "YouTube에 AI-voiced 해적판 오디오북이 퍼지자 출판사가 정식판을 낸다.",
+          "mini_headline": "YouTube, 오디오북 검토",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Going beyond simple manuscript writing based on generative artificial intelligence (AI), a knowledge production factory that autonomously carries out the entire process, from planning, writing and proofreading to ISBN issuance, legal deposit with the National Library of Korea, and distribution and settlement through major online and offline bookstores, is entering commercial operation. Strategy Group Ieum (chief strategist Seok Jong-deuk) said on the 26th that it has completed verification of every commercial publishing step for the 'Arcadia Autonomous Dark Factory' and will begin full operation on November 1."
-              },
-              {
-                "t": "img",
-                "src": "https://www.megaeconomy.co.kr/news/data/20261026/p1065578229975864_869_thum.png",
-                "cap": "Arcadia Autonomous Dark Factory"
+                "x": "YouTube가 오디오북 시장으로 발을 넓히려 한다."
               },
               {
                 "t": "p",
-                "x": "In the verification phase, it planned and wrote a total of 9 books in-house and completed the full cycle through visual production, typesetting and review to ISBN issuance, legal deposit, bookstore registration and actual sales settlement. From November, it will expand commercial output by combining major domestic distribution channels such as Kyobo Book Centre, Yes24 and Aladin with a self-operating AI organization."
+                "x": "AI-generated 오디오 버전으로 만든 해적판이 플랫폼에 넘쳐나자 출판사들은 그 안에서 오디오북을 합법적으로 들을 길을 내놓는다."
               },
               {
                 "t": "p",
-                "x": "An 'AI factory manager' oversees task assignment, agent training, progress management, error correction and handoff to the next step, while dedicated sub-agents divide up manuscript writing, illustration, legal deposit applications and e-book registration. The company has consolidated the know-how it gained from producing 114 books over 1 year since October 2025 into 'common backend' rules."
-              },
-              {
-                "t": "img",
-                "src": "https://www.megaeconomy.co.kr/news/data/20261026/p1065578229975864_230_thum.jpeg",
-                "cap": "Arcadia 9 Book Covers"
-              },
-              {
-                "t": "p",
-                "x": "The long-term lineup totals 29834 titles, including 14917 in Korean and 14917 in English, and the production target after commercial launch is 2000 books a month, or 24000 a year, for Korean and English combined. AI collects and analyzes bookstore sales trends to decide on follow-up production, and e-books that sell well are linked to print-on-demand (POD)."
+                "x": "전체 기사는 Jane Friedman 뉴스레터 유료 구독자만 볼 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが本をつくる\n出版ダークファクトリー",
-          "body": "企画からISBN発行・納本・流通までAIが担う工程が11月1日に稼働する。",
-          "mini_headline": "出版ダークファクトリー稼働",
+          "headline": "YouTubeが\nオーディオブック参入へ",
+          "body": "YouTubeのAI-voiced海賊版オーディオブックが出版社を正規配信へ促す。",
+          "mini_headline": "YouTube、オーディオブックへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "単なる生成人工知能(AI)による原稿作成を超え、企画から執筆、校正、ISBN発行、国立中央図書館への納本、主要オンライン・オフライン書店での流通と精算まで全工程を自律的にこなす知識生産工場が商業稼働に入る。戦略集団イウム(代表戦略家ソク・ジョンドゥク)は、「アルカディア自律型ダークファクトリー」の商業出版全工程の実証を終え、11月1日から本格稼働すると26日に明らかにした。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.megaeconomy.co.kr/news/data/20261026/p1065578229975864_869_thum.png",
-                "cap": "アルカディア自律型ダークファクトリー"
+                "x": "YouTubeはオーディオブックへの事業拡大を視野に入れている。"
               },
               {
                 "t": "p",
-                "x": "実証段階では計9冊を自社で企画・執筆し、ビジュアル制作、組版、検品を経てISBN発行と納本、書店登録、実際の販売精算まで全サイクルを完走した。11月からは教保文庫、イエス24、アラジンなど国内主要流通網と自律運営のAI組織を組み合わせ、商業生産量を拡大する。"
+                "x": "AI-generatedの音声版によって同プラットフォームでは海賊版が横行しており、出版社はそこでオーディオブックを正規に楽しめる手段の提供へ動いている。"
               },
               {
                 "t": "p",
-                "x": "「AI工場長」が作業の割り当て、エージェント教育、進捗管理、エラー修正、次工程への引き継ぎを統括し、下位の専任エージェントが原稿執筆や作画、納本申請、電子書籍登録までを分担する。同社は2025年10月から1年間で114冊を生産して得たノウハウを「共通バックエンド」ルールに統合した。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.megaeconomy.co.kr/news/data/20261026/p1065578229975864_230_thum.jpeg",
-                "cap": "Arcadia 9 Book Covers(アルカディアの9冊の表紙)"
-              },
-              {
-                "t": "p",
-                "x": "長期編成規模は韓国語版1万4917冊、英語版1万4917冊の計2万9834冊で、商業稼働後の目標生産量は韓英合計で月2000冊、年間2万4000冊だ。書店の販売動向をAIが収集・分析して後続の生産を決め、反応の良い電子書籍はオンデマンド印刷(POD)につなげる。"
+                "x": "記事全文はJane Friedmanのニュースレター有料購読者向けに公開されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "让AI来做书的\n出版黑灯工厂",
-          "body": "从策划到ISBN申领、送缴与发行均由AI承担的流程将于11月1日启动。",
-          "mini_headline": "出版黑灯工厂启动",
+          "headline": "YouTube\n拟进军有声书",
+          "body": "YouTube上泛滥的AI-voiced盗版有声书，正推动出版商在该平台提供正规收听渠道。",
+          "mini_headline": "YouTube瞄准有声书",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "这座知识生产工厂超越了单纯基于生成式人工智能(AI)的书稿写作,可自主完成从策划、写作、校对、ISBN申领、向国立中央图书馆送缴,到主要线上线下书店发行与结算的全部流程,即将投入商业运营。战略集团Ieum(首席战略家Seok Jong-deuk)26日表示,已完成“Arcadia自主型黑灯工厂”商业出版全流程验证,将于11月1日起正式运营。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.megaeconomy.co.kr/news/data/20261026/p1065578229975864_869_thum.png",
-                "cap": "Arcadia自主型黑灯工厂"
+                "x": "YouTube正寻求向有声书领域扩张。"
               },
               {
                 "t": "p",
-                "x": "在验证阶段,该公司自主策划、撰写了共9本图书,经过视觉素材制作、排版和审校,完成了ISBN申领、送缴、书店上架直至实际销售结算的完整周期。自11月起,将把教保文库、Yes24、阿拉丁等韩国国内主要发行渠道与自主运营的AI组织相结合,扩大商业生产规模。"
+                "x": "由于AI-generated音频版本泛滥，该平台盗版猖獗，促使出版商在那里提供合法收听有声书的途径。"
               },
               {
                 "t": "p",
-                "x": "“AI厂长”统筹任务分配、智能体培训、进度管理、错误修正及向下一工序的交接,下属专职智能体则分工负责书稿写作、绘图、送缴申请和电子书登记。该公司将2025年10月起1年间生产114本书所积累的经验整合为“通用后端”规则。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.megaeconomy.co.kr/news/data/20261026/p1065578229975864_230_thum.jpeg",
-                "cap": "Arcadia 9 Book Covers(Arcadia的9本书封面)"
-              },
-              {
-                "t": "p",
-                "x": "长期编排规模为韩文版1万4917本、英文版1万4917本,共2万9834本;商业运营后的目标产量为韩英合计每月2000本、每年2万4000本。AI收集并分析书店销售走势以决定后续生产,反响好的电子书将对接按需印刷(POD)。"
+                "x": "全文仅向Jane Friedman新闻通讯的付费订阅者开放。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La fábrica oscura editorial\ndonde la AI hace libros",
-          "body": "Desde el 1 de noviembre, la AI gestionará de la planificación al ISBN, el depósito legal y la distribución.",
-          "mini_headline": "Arranca la fábrica oscura editorial",
+          "headline": "YouTube estudia dar el salto\nal mercado de audiolibros",
+          "body": "Los audiolibros piratas AI-voiced difundidos en YouTube empujan a las editoriales hacia vías legítimas de escucha allí.",
+          "mini_headline": "YouTube mira a los audiolibros",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Más allá de la simple redacción de manuscritos con inteligencia artificial (AI) generativa, entra en operación comercial una fábrica de producción de conocimiento que realiza de forma autónoma todo el proceso, desde la planificación, la escritura y la corrección hasta la emisión del ISBN, el depósito legal en la Biblioteca Nacional de Corea y la distribución y liquidación en las principales librerías en línea y físicas. El grupo estratégico Ieum (estratega jefe Seok Jong-deuk) anunció el día 26 que ha completado la verificación de todo el proceso de edición comercial de la 'Fábrica Oscura Autónoma Arcadia' y que comenzará a operar plenamente el 1 de noviembre."
-              },
-              {
-                "t": "img",
-                "src": "https://www.megaeconomy.co.kr/news/data/20261026/p1065578229975864_869_thum.png",
-                "cap": "Fábrica Oscura Autónoma Arcadia"
+                "x": "YouTube busca expandirse a los audiolibros."
               },
               {
                 "t": "p",
-                "x": "En la fase de verificación planificó y escribió por su cuenta un total de 9 libros y, tras la producción de material visual, la maquetación y la revisión, completó el ciclo entero hasta la emisión del ISBN, el depósito legal, el registro en librerías y la liquidación de ventas reales. A partir de noviembre ampliará el volumen de producción comercial combinando las principales redes de distribución del país, como Kyobo Book Centre, Yes24 y Aladin, con una organización de AI de gestión autónoma."
+                "x": "La piratería desenfrenada en la plataforma, debida a versiones de audio AI-generated, está llevando a las editoriales a ofrecer medios legítimos para disfrutar allí de audiolibros."
               },
               {
                 "t": "p",
-                "x": "Un 'jefe de fábrica AI' coordina la asignación de tareas, la formación de agentes, el control del avance, la corrección de errores y el traspaso al siguiente proceso, mientras agentes subordinados especializados se reparten la redacción de manuscritos, la ilustración, las solicitudes de depósito legal y el registro de libros electrónicos. La empresa integró en reglas de 'backend común' la experiencia obtenida al producir 114 libros durante 1 año desde octubre de 2025."
-              },
-              {
-                "t": "img",
-                "src": "https://www.megaeconomy.co.kr/news/data/20261026/p1065578229975864_230_thum.jpeg",
-                "cap": "Arcadia 9 Book Covers (las 9 portadas de Arcadia)"
-              },
-              {
-                "t": "p",
-                "x": "La programación a largo plazo suma 29834 títulos, con 14917 en coreano y 14917 en inglés, y el objetivo de producción tras el lanzamiento comercial es de 2000 libros al mes y 24000 al año entre coreano e inglés. La AI recopila y analiza las tendencias de ventas en librerías para decidir la producción siguiente, y los libros electrónicos con buena acogida pasan a impresión bajo demanda (POD)."
+                "x": "El artículo completo está disponible para los suscriptores de pago del boletín de Jane Friedman."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "A publishing dark factory\nwhere AI makes the books",
-          "body": "AI will run a process covering planning, ISBN issuance, legal deposit and distribution from November 1.",
-          "mini_headline": "Publishing dark factory launches",
+        "ko": {
+          "headline": "YouTube,\n오디오북 진출 검토",
+          "body": "YouTube의 AI-voiced 해적판 오디오북이 출판사를 정식 서비스로 이끈다.",
+          "mini_headline": "YouTube, 오디오북 검토",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Going beyond simple manuscript writing based on generative artificial intelligence (AI), a knowledge production factory that autonomously carries out the entire process, from planning, writing and proofreading to ISBN issuance, legal deposit with the National Library of Korea, and distribution and settlement through major online and offline bookstores, is entering commercial operation. Strategy Group Ieum (chief strategist Seok Jong-deuk) said on the 26th that it has completed verification of every commercial publishing step for the 'Arcadia Autonomous Dark Factory' and will begin full operation on November 1."
-              },
-              {
-                "t": "img",
-                "src": "https://www.megaeconomy.co.kr/news/data/20261026/p1065578229975864_869_thum.png",
-                "cap": "Arcadia Autonomous Dark Factory"
+                "x": "YouTube가 오디오북으로 영역 확장을 모색한다."
               },
               {
                 "t": "p",
-                "x": "In the verification phase, it planned and wrote a total of 9 books in-house and completed the full cycle through visual production, typesetting and review to ISBN issuance, legal deposit, bookstore registration and actual sales settlement. From November, it will expand commercial output by combining major domestic distribution channels such as Kyobo Book Centre, Yes24 and Aladin with a self-operating AI organization."
+                "x": "AI-generated 오디오 버전 탓에 플랫폼 내 해적판이 만연하자, 출판사들이 그곳에서 오디오북을 합법적으로 즐길 수단을 내놓고 있다."
               },
               {
                 "t": "p",
-                "x": "An 'AI factory manager' oversees task assignment, agent training, progress management, error correction and handoff to the next step, while dedicated sub-agents divide up manuscript writing, illustration, legal deposit applications and e-book registration. The company has consolidated the know-how it gained from producing 114 books over 1 year since October 2025 into 'common backend' rules."
-              },
-              {
-                "t": "img",
-                "src": "https://www.megaeconomy.co.kr/news/data/20261026/p1065578229975864_230_thum.jpeg",
-                "cap": "Arcadia 9 Book Covers"
-              },
-              {
-                "t": "p",
-                "x": "The long-term lineup totals 29834 titles, including 14917 in Korean and 14917 in English, and the production target after commercial launch is 2000 books a month, or 24000 a year, for Korean and English combined. AI collects and analyzes bookstore sales trends to decide on follow-up production, and e-books that sell well are linked to print-on-demand (POD)."
+                "x": "전체 기사는 Jane Friedman 뉴스레터 유료 구독자에게 공개된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが本をつくる\n出版ダークファクトリー",
-          "body": "企画からISBN発行・納本・流通までAIが担う工程が11月1日に稼働する。",
-          "mini_headline": "出版ダークファクトリー稼働",
+          "headline": "YouTubeが\nオーディオブック参入へ",
+          "body": "YouTubeのAI-voiced海賊版オーディオブックが出版社を正規配信へ促す。",
+          "mini_headline": "YouTube、オーディオブックへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "単なる生成人工知能(AI)による原稿作成を超え、企画から執筆、校正、ISBN発行、国立中央図書館への納本、主要オンライン・オフライン書店での流通と精算まで全工程を自律的にこなす知識生産工場が商業稼働に入る。戦略集団イウム(代表戦略家ソク・ジョンドゥク)は、「アルカディア自律型ダークファクトリー」の商業出版全工程の実証を終え、11月1日から本格稼働すると26日に明らかにした。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.megaeconomy.co.kr/news/data/20261026/p1065578229975864_869_thum.png",
-                "cap": "アルカディア自律型ダークファクトリー"
+                "x": "YouTubeはオーディオブックへの事業拡大を視野に入れている。"
               },
               {
                 "t": "p",
-                "x": "実証段階では計9冊を自社で企画・執筆し、ビジュアル制作、組版、検品を経てISBN発行と納本、書店登録、実際の販売精算まで全サイクルを完走した。11月からは教保文庫、イエス24、アラジンなど国内主要流通網と自律運営のAI組織を組み合わせ、商業生産量を拡大する。"
+                "x": "AI-generatedの音声版によって同プラットフォームでは海賊版が横行しており、出版社はそこでオーディオブックを正規に楽しめる手段の提供へ動いている。"
               },
               {
                 "t": "p",
-                "x": "「AI工場長」が作業の割り当て、エージェント教育、進捗管理、エラー修正、次工程への引き継ぎを統括し、下位の専任エージェントが原稿執筆や作画、納本申請、電子書籍登録までを分担する。同社は2025年10月から1年間で114冊を生産して得たノウハウを「共通バックエンド」ルールに統合した。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.megaeconomy.co.kr/news/data/20261026/p1065578229975864_230_thum.jpeg",
-                "cap": "Arcadia 9 Book Covers(アルカディアの9冊の表紙)"
-              },
-              {
-                "t": "p",
-                "x": "長期編成規模は韓国語版1万4917冊、英語版1万4917冊の計2万9834冊で、商業稼働後の目標生産量は韓英合計で月2000冊、年間2万4000冊だ。書店の販売動向をAIが収集・分析して後続の生産を決め、反応の良い電子書籍はオンデマンド印刷(POD)につなげる。"
+                "x": "記事全文はJane Friedmanのニュースレター有料購読者向けに公開されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "让AI来做书的\n出版黑灯工厂",
-          "body": "从策划到ISBN申领、送缴与发行均由AI承担的流程将于11月1日启动。",
-          "mini_headline": "出版黑灯工厂启动",
+          "headline": "YouTube\n拟进军有声书",
+          "body": "YouTube上泛滥的AI-voiced盗版有声书，正推动出版商在该平台提供正规收听渠道。",
+          "mini_headline": "YouTube瞄准有声书",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "这座知识生产工厂超越了单纯基于生成式人工智能(AI)的书稿写作,可自主完成从策划、写作、校对、ISBN申领、向国立中央图书馆送缴,到主要线上线下书店发行与结算的全部流程,即将投入商业运营。战略集团Ieum(首席战略家Seok Jong-deuk)26日表示,已完成“Arcadia自主型黑灯工厂”商业出版全流程验证,将于11月1日起正式运营。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.megaeconomy.co.kr/news/data/20261026/p1065578229975864_869_thum.png",
-                "cap": "Arcadia自主型黑灯工厂"
+                "x": "YouTube正寻求向有声书领域扩张。"
               },
               {
                 "t": "p",
-                "x": "在验证阶段,该公司自主策划、撰写了共9本图书,经过视觉素材制作、排版和审校,完成了ISBN申领、送缴、书店上架直至实际销售结算的完整周期。自11月起,将把教保文库、Yes24、阿拉丁等韩国国内主要发行渠道与自主运营的AI组织相结合,扩大商业生产规模。"
+                "x": "由于AI-generated音频版本泛滥，该平台盗版猖獗，促使出版商在那里提供合法收听有声书的途径。"
               },
               {
                 "t": "p",
-                "x": "“AI厂长”统筹任务分配、智能体培训、进度管理、错误修正及向下一工序的交接,下属专职智能体则分工负责书稿写作、绘图、送缴申请和电子书登记。该公司将2025年10月起1年间生产114本书所积累的经验整合为“通用后端”规则。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.megaeconomy.co.kr/news/data/20261026/p1065578229975864_230_thum.jpeg",
-                "cap": "Arcadia 9 Book Covers(Arcadia的9本书封面)"
-              },
-              {
-                "t": "p",
-                "x": "长期编排规模为韩文版1万4917本、英文版1万4917本,共2万9834本;商业运营后的目标产量为韩英合计每月2000本、每年2万4000本。AI收集并分析书店销售走势以决定后续生产,反响好的电子书将对接按需印刷(POD)。"
+                "x": "全文仅向Jane Friedman新闻通讯的付费订阅者开放。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La fábrica oscura editorial\ndonde la AI hace libros",
-          "body": "Desde el 1 de noviembre, la AI gestionará de la planificación al ISBN, el depósito legal y la distribución.",
-          "mini_headline": "Arranca la fábrica oscura editorial",
+          "headline": "YouTube estudia dar el salto\nal mercado de audiolibros",
+          "body": "Los audiolibros piratas AI-voiced difundidos en YouTube empujan a las editoriales hacia vías legítimas de escucha allí.",
+          "mini_headline": "YouTube mira a los audiolibros",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Más allá de la simple redacción de manuscritos con inteligencia artificial (AI) generativa, entra en operación comercial una fábrica de producción de conocimiento que realiza de forma autónoma todo el proceso, desde la planificación, la escritura y la corrección hasta la emisión del ISBN, el depósito legal en la Biblioteca Nacional de Corea y la distribución y liquidación en las principales librerías en línea y físicas. El grupo estratégico Ieum (estratega jefe Seok Jong-deuk) anunció el día 26 que ha completado la verificación de todo el proceso de edición comercial de la 'Fábrica Oscura Autónoma Arcadia' y que comenzará a operar plenamente el 1 de noviembre."
-              },
-              {
-                "t": "img",
-                "src": "https://www.megaeconomy.co.kr/news/data/20261026/p1065578229975864_869_thum.png",
-                "cap": "Fábrica Oscura Autónoma Arcadia"
+                "x": "YouTube busca expandirse a los audiolibros."
               },
               {
                 "t": "p",
-                "x": "En la fase de verificación planificó y escribió por su cuenta un total de 9 libros y, tras la producción de material visual, la maquetación y la revisión, completó el ciclo entero hasta la emisión del ISBN, el depósito legal, el registro en librerías y la liquidación de ventas reales. A partir de noviembre ampliará el volumen de producción comercial combinando las principales redes de distribución del país, como Kyobo Book Centre, Yes24 y Aladin, con una organización de AI de gestión autónoma."
+                "x": "La piratería desenfrenada en la plataforma, debida a versiones de audio AI-generated, está llevando a las editoriales a ofrecer medios legítimos para disfrutar allí de audiolibros."
               },
               {
                 "t": "p",
-                "x": "Un 'jefe de fábrica AI' coordina la asignación de tareas, la formación de agentes, el control del avance, la corrección de errores y el traspaso al siguiente proceso, mientras agentes subordinados especializados se reparten la redacción de manuscritos, la ilustración, las solicitudes de depósito legal y el registro de libros electrónicos. La empresa integró en reglas de 'backend común' la experiencia obtenida al producir 114 libros durante 1 año desde octubre de 2025."
-              },
-              {
-                "t": "img",
-                "src": "https://www.megaeconomy.co.kr/news/data/20261026/p1065578229975864_230_thum.jpeg",
-                "cap": "Arcadia 9 Book Covers (las 9 portadas de Arcadia)"
-              },
-              {
-                "t": "p",
-                "x": "La programación a largo plazo suma 29834 títulos, con 14917 en coreano y 14917 en inglés, y el objetivo de producción tras el lanzamiento comercial es de 2000 libros al mes y 24000 al año entre coreano e inglés. La AI recopila y analiza las tendencias de ventas en librerías para decidir la producción siguiente, y los libros electrónicos con buena acogida pasan a impresión bajo demanda (POD)."
+                "x": "El artículo completo está disponible para los suscriptores de pago del boletín de Jane Friedman."
               }
             ]
           }
@@ -375,331 +235,391 @@
       }
     },
     {
-      "id": "books-anthropic-korean-titles",
-      "source_lang": "ko",
+      "id": "guideslop",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "앤트로픽 보상 목록에\n홍길동전·구운몽",
-      "body": "앤트로픽 합의 보상 대상에 고전과 북한 소설 등 한국 도서 46종이 올랐다.",
-      "mini_headline": "앤트로픽 목록에 한국 고전",
+      "headline": "Amazon Japan에\nAI-made 공략집 범람",
+      "body": "Amazon Japan을 AI-made 추정 Fire Emblem 공략집이 채웠다.",
+      "mini_headline": "Amazon Japan의 AI 공략집",
       "tool": "Books",
-      "source": "비즈한국",
-      "url": "https://bizhankook.com/articles/anthropic-training-data-korean-literature.html",
+      "source": "AUTOMATON WEST",
+      "url": "https://automaton-media.com/en/news/seemingly-ai-generated-fire-emblem-fortunes-weave-guidebooks-flood-amazon-japan-self-publishing-system-allows-anyone-to-mass-produce-guideslop/",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "img",
+            "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-header-6.webp"
+          },
+          {
             "t": "p",
-            "x": "미국 인공지능(AI) 기업 앤트로픽의 해적판 도서 저작권 합의 대상 목록에 ‘홍길동전’ ‘구운몽’ 같은 고전과 북한 작가의 소설까지 한국 관련 서적 최소 46종이 포함된 것으로 확인됐다. 영국 대거상 수상작 ‘밤의 여행자들’, 박완서·황순원 작가의 작품과 시인 34명의 시를 엮은 현대시 선집 등 16종은 앞서 드러나지 않았던 도서다."
+            "x": "Nintendo가 9월 17일 Fire Emblem: Fortune’s Weave를 내놓자 Amazon Japan에서 이 제목으로 검색되는 공략집이 벌써 최소 아홉 권이다. 공식 공략집은 한 권도 없다. 표지 상당수는 AI-generated로 보이고 전자책(e-books)으로 나온 책도 없는 듯하다."
           },
           {
             "t": "img",
-            "src": "https://s.bizhankook.com/attachments_webp_no_wm/2026/10/136634_no_wm_28c6ef9a.webp",
-            "cap": "앤트로픽은 합의 요건을 충족한 48만여 건에 저작물 1건당 3000달러를 지급하기로 했다. 사진=AP/연합뉴스"
+            "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-001-1155x1080.jpg"
           },
           {
             "t": "p",
-            "x": "비즈한국은 한국문학번역원이 공개한 영어 번역서 1300여 종을 보상 대상 목록과 대조했다. 보상 목록은 ‘바츠 대 앤트로픽’ 집단소송의 합의 결과로, 앤트로픽은 AI 모델 학습용으로 해적판 사이트에서 내려받은 책 가운데 요건을 충족한 48만여 건에 1건당 약 3000달러(약 430만 원)를 지급한다. 46종 가운데 번역가 명의로 등록된 도서는 23종, 기관 명의는 16종이었다."
+            "x": "제목마다 “완벽 공략”, “숨겨진 비밀”, “심층 가이드” 같은 문구가 붙는다. 리뷰가 달린 네 권에는 Amazon 인증 구매 표시가 붙은 리뷰도 있는데, 평점은 모두 별 하나(one-star)다. “이 책을 사는 실수를 하지 마라”, “완전히 쓸모없는 구매”라는 평이 이어진다. 샘플 페이지엔 이미지 하나 없이 장황한 글만 빽빽하다."
+          },
+          {
+            "t": "p",
+            "x": "Amazon의 Kindle Direct Publishing(KDP)에서는 누구나 무료로 책을 자가 출판하고, 주문형 인쇄(print-on-demand) 비용은 판매 수익에서 빠진다. 여기에 생성형 AI를 더하면 별 위험 없이 “책”을 대량으로 찍어낼 수 있다. KDP는 출판할 때 AI 사용을 밝히라고 요구하지만 아홉 권 가운데 소비자에게 이를 알린 책은 없어 보였다."
           },
           {
             "t": "img",
-            "src": "https://s.bizhankook.com/attachments_webp_no_wm/2026/10/136632_no_wm_83726ebb.webp",
-            "cap": "‘홍길동전’과 ‘구운몽’ 영어 번역본"
+            "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-003.webp"
           },
           {
             "t": "p",
-            "x": "허균과 김만중의 작품은 퍼블릭 도메인이지만, 목록에 오른 것은 현대에 출간된 영어 번역본으로 별도의 2차적 저작물로 보호받을 수 있다. 북한 작가 백남룡의 소설 ‘벗’도 포함됐다. 해외 출판사 영문판은 690여 종 가운데 39종이 올랐지만 국내 출판사 영문판 300여 종은 한 종도 확인되지 않았다. 한국출판인회의는 “책이 없으면 AI도 없다”며 연명운동을 진행 중이다."
+            "x": "리뷰만 봐도 소비자는 실제로 속고 있다. AI 도구가 좋아질수록 이런 가짜 출판물은 더 그럴듯해질 공산이 크다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "앤트로픽 보상 목록에\n홍길동전·구운몽",
-          "body": "앤트로픽 합의 보상 대상에 고전과 북한 소설 등 한국 도서 46종이 올랐다.",
-          "mini_headline": "앤트로픽 목록에 한국 고전",
+        "en": {
+          "headline": "AI-made game guides\nflood Amazon Japan",
+          "body": "Seemingly AI-made Fire Emblem guidebooks flood Amazon Japan, and reviews suggest buyers are being misled.",
+          "mini_headline": "AI guides flood Amazon Japan",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-header-6.webp"
+              },
+              {
                 "t": "p",
-                "x": "미국 인공지능(AI) 기업 앤트로픽의 해적판 도서 저작권 합의 대상 목록에 ‘홍길동전’ ‘구운몽’ 같은 고전과 북한 작가의 소설까지 한국 관련 서적 최소 46종이 포함된 것으로 확인됐다. 영국 대거상 수상작 ‘밤의 여행자들’, 박완서·황순원 작가의 작품과 시인 34명의 시를 엮은 현대시 선집 등 16종은 앞서 드러나지 않았던 도서다."
+                "x": "Nintendo released Fire Emblem: Fortune’s Weave on September 17, and searching for the title on Amazon Japan already yields at least nine guidebooks, none of which are official. Their covers appear heavily AI-generated, and none seem to be available as e-books."
               },
               {
                 "t": "img",
-                "src": "https://s.bizhankook.com/attachments_webp_no_wm/2026/10/136634_no_wm_28c6ef9a.webp",
-                "cap": "앤트로픽은 합의 요건을 충족한 48만여 건에 저작물 1건당 3000달러를 지급하기로 했다. 사진=AP/연합뉴스"
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-001-1155x1080.jpg"
               },
               {
                 "t": "p",
-                "x": "비즈한국은 한국문학번역원이 공개한 영어 번역서 1300여 종을 보상 대상 목록과 대조했다. 보상 목록은 ‘바츠 대 앤트로픽’ 집단소송의 합의 결과로, 앤트로픽은 AI 모델 학습용으로 해적판 사이트에서 내려받은 책 가운데 요건을 충족한 48만여 건에 1건당 약 3000달러(약 430만 원)를 지급한다. 46종 가운데 번역가 명의로 등록된 도서는 23종, 기관 명의는 16종이었다."
+                "x": "The titles promise a “complete walkthrough,” “hidden secrets,” and an “in-depth guide.” Four of the books have reviews, including one marked as a verified Amazon purchase, and each gives a one-star score: “Don’t make the mistake of buying this,” and “A completely useless purchase.” Sample pages contain nothing but walls of text, with no images and a notably verbose writing style."
+              },
+              {
+                "t": "p",
+                "x": "Amazon’s Kindle Direct Publishing (KDP) lets individuals self-publish for free, with print-on-demand costs deducted from sales. Combined with generative AI, the system makes it possible to mass-produce “books” at little risk. KDP requires publishers to disclose AI use during publishing, but none of the nine books appeared to disclose it to consumers."
               },
               {
                 "t": "img",
-                "src": "https://s.bizhankook.com/attachments_webp_no_wm/2026/10/136632_no_wm_83726ebb.webp",
-                "cap": "‘홍길동전’과 ‘구운몽’ 영어 번역본"
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-003.webp"
               },
               {
                 "t": "p",
-                "x": "허균과 김만중의 작품은 퍼블릭 도메인이지만, 목록에 오른 것은 현대에 출간된 영어 번역본으로 별도의 2차적 저작물로 보호받을 수 있다. 북한 작가 백남룡의 소설 ‘벗’도 포함됐다. 해외 출판사 영문판은 690여 종 가운데 39종이 올랐지만 국내 출판사 영문판 300여 종은 한 종도 확인되지 않았다. 한국출판인회의는 “책이 없으면 AI도 없다”며 연명운동을 진행 중이다."
+                "x": "The reviews suggest consumers are indeed being misled, and such fake publications are likely to become increasingly convincing as AI tools evolve."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Anthropic payout list includes\nHong Gildong and Guunmong",
-          "body": "Anthropic's settlement payout list includes 46 Korean books, among them classics and North Korean fiction.",
-          "mini_headline": "Korean classics on Anthropic list",
+        "ko": {
+          "headline": "Amazon Japan에\nAI-made 공략집 범람",
+          "body": "Amazon Japan을 AI-made 추정 Fire Emblem 공략집이 채웠다.",
+          "mini_headline": "Amazon Japan의 AI 공략집",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-header-6.webp"
+              },
+              {
                 "t": "p",
-                "x": "At least 46 Korea-related books, from classics such as 'The Story of Hong Gildong' and 'The Cloud Dream of the Nine' to a novel by a North Korean writer, have been confirmed on the list of works covered by the pirated-book copyright settlement of U.S. artificial intelligence (AI) company Anthropic. Of these, 16 titles had not come to light before, including 'The Disaster Tourist', winner of Britain's Dagger award, works by Park Wan-suh and Hwang Sun-won, and an anthology of modern poetry collecting poems by 34 poets."
+                "x": "Nintendo가 9월 17일 Fire Emblem: Fortune’s Weave를 내놓자 Amazon Japan에서 이 제목으로 검색되는 공략집이 벌써 최소 아홉 권이다. 공식 공략집은 한 권도 없다. 표지 상당수는 AI-generated로 보이고 전자책(e-books)으로 나온 책도 없는 듯하다."
               },
               {
                 "t": "img",
-                "src": "https://s.bizhankook.com/attachments_webp_no_wm/2026/10/136634_no_wm_28c6ef9a.webp",
-                "cap": "Anthropic agreed to pay $3000 per work for more than 480000 works that meet the settlement requirements. Photo=AP/Yonhap News"
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-001-1155x1080.jpg"
               },
               {
                 "t": "p",
-                "x": "Bizhankook compared some 1300 English translations published by the Literature Translation Institute of Korea against the payout list. The list is the outcome of the settlement in the 'Bartz v. Anthropic' class action, under which Anthropic will pay about $3000 (about 4300000 won) per work for more than 480000 qualifying books it downloaded from pirate sites to train its AI models. Of the 46 titles, 23 were registered under translators' names and 16 under institutions' names."
+                "x": "제목마다 “완벽 공략”, “숨겨진 비밀”, “심층 가이드” 같은 문구가 붙는다. 리뷰가 달린 네 권에는 Amazon 인증 구매 표시가 붙은 리뷰도 있는데, 평점은 모두 별 하나(one-star)다. “이 책을 사는 실수를 하지 마라”, “완전히 쓸모없는 구매”라는 평이 이어진다. 샘플 페이지엔 이미지 하나 없이 장황한 글만 빽빽하다."
+              },
+              {
+                "t": "p",
+                "x": "Amazon의 Kindle Direct Publishing(KDP)에서는 누구나 무료로 책을 자가 출판하고, 주문형 인쇄(print-on-demand) 비용은 판매 수익에서 빠진다. 여기에 생성형 AI를 더하면 별 위험 없이 “책”을 대량으로 찍어낼 수 있다. KDP는 출판할 때 AI 사용을 밝히라고 요구하지만 아홉 권 가운데 소비자에게 이를 알린 책은 없어 보였다."
               },
               {
                 "t": "img",
-                "src": "https://s.bizhankook.com/attachments_webp_no_wm/2026/10/136632_no_wm_83726ebb.webp",
-                "cap": "English translations of 'The Story of Hong Gildong' and 'The Cloud Dream of the Nine'"
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-003.webp"
               },
               {
                 "t": "p",
-                "x": "The works of Heo Gyun and Kim Man-jung are in the public domain, but what made the list are English translations published in modern times, which can be protected as separate derivative works. 'Friend', a novel by North Korean writer Paek Nam-ryong, was also included. Of some 690 English editions from overseas publishers, 39 made the list, while not one of some 300 English editions from domestic publishers was found. The Korean Publishers Society is running a petition campaign under the message “No books, no AI.”"
+                "x": "리뷰만 봐도 소비자는 실제로 속고 있다. AI 도구가 좋아질수록 이런 가짜 출판물은 더 그럴듯해질 공산이 크다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Anthropic補償対象に\n洪吉童伝・九雲夢",
-          "body": "Anthropicの和解補償対象に、古典や北朝鮮小説など韓国の本46点が入った。",
-          "mini_headline": "Anthropicリストに韓国古典",
+          "headline": "Amazon Japanに\nAI-made攻略本が氾濫",
+          "body": "AI-madeとみられるFire Emblem攻略本がAmazon Japanにあふれる。",
+          "mini_headline": "Amazon JapanにAI攻略本",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-header-6.webp"
+              },
+              {
                 "t": "p",
-                "x": "米国の人工知能(AI)企業Anthropicの海賊版書籍をめぐる著作権和解の対象リストに、『洪吉童伝』『九雲夢』といった古典から北朝鮮作家の小説まで、韓国関連書籍が少なくとも46点含まれていることが確認された。英国ダガー賞受賞作『夜の旅人たち』、朴婉緒・黄順元の作品、詩人34人の詩を収めた現代詩選集など16点は、これまで明らかになっていなかった本だ。"
+                "x": "Nintendoは9月17日に『Fire Emblem: Fortune’s Weave』を発売したが、Amazon Japanでタイトルを検索すると、すでに少なくとも九冊の攻略本が表示され、いずれも公式ではない。表紙は大部分がAI-generatedとみられ、電子書籍(e-books)版はどれも用意されていないようだ。"
               },
               {
                 "t": "img",
-                "src": "https://s.bizhankook.com/attachments_webp_no_wm/2026/10/136634_no_wm_28c6ef9a.webp",
-                "cap": "Anthropicは和解要件を満たした48万件余りに、著作物1件当たり3000ドルを支払うことにした。写真=AP/聯合ニュース"
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-001-1155x1080.jpg"
               },
               {
                 "t": "p",
-                "x": "ビズハングクは韓国文学翻訳院が公開した英訳書1300点余りを補償対象リストと照合した。補償リストは「Bartz対Anthropic」集団訴訟の和解結果で、AnthropicはAIモデルの学習用に海賊版サイトからダウンロードした本のうち、要件を満たした48万件余りに1件当たり約3000ドル(約430万ウォン)を支払う。46点のうち翻訳者名義で登録された本は23点、機関名義は16点だった。"
+                "x": "書名には「完全攻略」「隠された秘密」「徹底ガイド」といった文句が並ぶ。四冊にはレビューが付いており、Amazonの認証購入とされるものも含め、いずれも星一つ(one-star)だ。「買う過ちを犯すな」「まったくの無駄な買い物」といった内容である。サンプルページは画像がなく、冗長な文体の文章がびっしり続くだけだ。"
+              },
+              {
+                "t": "p",
+                "x": "AmazonのKindle Direct Publishing(KDP)では個人が無料で自費出版でき、プリント・オン・デマンド(print-on-demand)の費用は売上から差し引かれる。生成AIと組み合わせれば、低いリスクで「本」を量産できる仕組みだ。KDPは出版時にAI使用の申告を求めているが、九冊のいずれも消費者にそれを開示していないようだった。"
               },
               {
                 "t": "img",
-                "src": "https://s.bizhankook.com/attachments_webp_no_wm/2026/10/136632_no_wm_83726ebb.webp",
-                "cap": "『洪吉童伝』と『九雲夢』の英訳本"
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-003.webp"
               },
               {
                 "t": "p",
-                "x": "許筠と金萬重の作品はパブリックドメインだが、リストに載ったのは現代に出版された英訳本で、別個の2次的著作物として保護されうる。北朝鮮作家・白南龍の小説『友』も含まれた。海外出版社の英語版は690点余りのうち39点が載ったが、国内出版社の英語版300点余りは1点も確認されなかった。韓国出版人会議は「本がなければAIもない」として署名運動を進めている。"
+                "x": "レビューからは消費者が実際に惑わされていることがうかがえ、AIツールの進化につれて、こうした偽の出版物はますます本物らしくなるとみられる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Anthropic赔偿名单\n收录洪吉童传与九云梦",
-          "body": "Anthropic和解赔偿名单收录了古典与朝鲜小说等46种韩国图书。",
-          "mini_headline": "Anthropic名单现韩国古典",
+          "headline": "AI-made游戏攻略书\n涌入Amazon Japan",
+          "body": "疑似AI-made的Fire Emblem攻略书涌入Amazon Japan，买家受骗。",
+          "mini_headline": "AI攻略书涌入Amazon Japan",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-header-6.webp"
+              },
+              {
                 "t": "p",
-                "x": "经确认,美国人工智能(AI)企业Anthropic的盗版图书版权和解对象名单中,收录了从《洪吉童传》《九云梦》等古典作品到朝鲜作家小说在内的至少46种韩国相关图书。其中,英国匕首奖获奖作品《夜晚的旅行者们》、朴婉绪与黄顺元的作品,以及收录34位诗人诗作的现代诗选集等16种,此前从未被披露。"
+                "x": "Nintendo于9月17日发售了《Fire Emblem: Fortune’s Weave》，如今在Amazon Japan搜索该作，已能找到至少九本攻略书，且没有一本是官方出品。这些书的封面看起来大量是AI-generated的，而且似乎都没有电子书（e-books）版本。"
               },
               {
                 "t": "img",
-                "src": "https://s.bizhankook.com/attachments_webp_no_wm/2026/10/136634_no_wm_28c6ef9a.webp",
-                "cap": "Anthropic决定向符合和解条件的48万余件作品每1件支付3000美元。图片=AP/韩联社"
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-001-1155x1080.jpg"
               },
               {
                 "t": "p",
-                "x": "Bizhankook将韩国文学翻译院公开的1300余种英文译本与赔偿对象名单进行了比对。该名单是“Bartz诉Anthropic”集体诉讼的和解结果:在Anthropic为训练AI模型而从盗版网站下载的图书中,符合条件的48万余件将每1件获得约3000美元(约430万韩元)。46种中,以译者名义登记的有23种,以机构名义登记的有16种。"
+                "x": "这些书的标题标榜“完整攻略”“隐藏秘密”和“深度指南”。其中四本有评论，包括一条标注为Amazon认证购买的评论，且全部给出一星（one-star）：“千万别犯买这本书的错误”“完全是一笔无用的购买”。样张页面只有密密麻麻的文字，没有任何图片，文风也明显冗长。"
+              },
+              {
+                "t": "p",
+                "x": "Amazon的Kindle Direct Publishing（KDP）允许个人免费自助出版，按需印刷（print-on-demand）成本从销售收入中扣除。与生成式AI结合后，这套系统让人能以很低的风险批量生产“书”。KDP要求出版者在出版时披露AI使用情况，但这九本书似乎都没有向消费者披露。"
               },
               {
                 "t": "img",
-                "src": "https://s.bizhankook.com/attachments_webp_no_wm/2026/10/136632_no_wm_83726ebb.webp",
-                "cap": "《洪吉童传》与《九云梦》的英文译本"
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-003.webp"
               },
               {
                 "t": "p",
-                "x": "许筠与金万重的作品属于公有领域,但列入名单的是现代出版的英文译本,可作为独立的2次创作作品受到保护。朝鲜作家白南龙的小说《朋友》也在其中。海外出版社的英文版690余种中有39种入选,而韩国国内出版社的300余种英文版一种也未发现。韩国出版人会议以“没有书就没有AI”为口号,正在开展联署运动。"
+                "x": "评论表明消费者确实受到了误导，而随着AI工具不断进化，这类假出版物可能会越来越以假乱真。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La lista de pagos de Anthropic\nincluye Hong Gildong y Guunmong",
-          "body": "La lista de pagos del acuerdo de Anthropic incluye 46 libros coreanos, como clásicos y novelas norcoreanas.",
-          "mini_headline": "Clásicos coreanos en la lista de Anthropic",
+          "headline": "Guías de juegos AI-made\ninundan Amazon Japan",
+          "body": "Guías de Fire Emblem al parecer AI-made inundan Amazon Japan, y las reseñas sugieren que los compradores son engañados.",
+          "mini_headline": "Guías de AI inundan Amazon Japan",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-header-6.webp"
+              },
+              {
                 "t": "p",
-                "x": "Se ha confirmado que la lista de obras cubiertas por el acuerdo de derechos de autor por libros pirateados de Anthropic, empresa estadounidense de inteligencia artificial (AI), incluye al menos 46 libros relacionados con Corea, desde clásicos como 'Historia de Hong Gildong' y 'El sueño de las nueve nubes' hasta una novela de un escritor norcoreano. De ellos, 16 títulos no se habían dado a conocer antes, entre ellos 'Los viajeros de la noche', ganadora del premio Dagger británico, obras de Park Wan-suh y Hwang Sun-won y una antología de poesía moderna que reúne poemas de 34 poetas."
+                "x": "Nintendo lanzó Fire Emblem: Fortune’s Weave el 17 de septiembre, y al buscar el título en Amazon Japan ya aparecen al menos nueve guías, ninguna de ellas oficial. Sus portadas parecen en gran medida AI-generated, y ninguna parece estar disponible en libro electrónico (e-books)."
               },
               {
                 "t": "img",
-                "src": "https://s.bizhankook.com/attachments_webp_no_wm/2026/10/136634_no_wm_28c6ef9a.webp",
-                "cap": "Anthropic acordó pagar 3000 dólares por obra a más de 480000 obras que cumplen los requisitos del acuerdo. Foto=AP/Yonhap News"
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-001-1155x1080.jpg"
               },
               {
                 "t": "p",
-                "x": "Bizhankook cotejó con la lista de compensaciones unas 1300 traducciones al inglés publicadas por el Instituto de Traducción Literaria de Corea. La lista es el resultado del acuerdo en la demanda colectiva 'Bartz contra Anthropic', por el que Anthropic pagará unos 3000 dólares (unos 4300000 wones) por obra a más de 480000 libros que cumplen los requisitos, de entre los que descargó de sitios piratas para entrenar sus modelos de AI. De los 46 títulos, 23 estaban registrados a nombre de traductores y 16 a nombre de instituciones."
+                "x": "Los títulos prometen un “recorrido completo”, “secretos ocultos” y una “guía exhaustiva”. Cuatro de los libros tienen reseñas, incluida una marcada como compra verificada de Amazon, y todas otorgan una estrella (one-star): “No cometas el error de comprar esto” y “Una compra completamente inútil”. Las páginas de muestra no contienen más que bloques de texto, sin imágenes y con un estilo notablemente prolijo."
+              },
+              {
+                "t": "p",
+                "x": "Kindle Direct Publishing (KDP) de Amazon permite a cualquier persona autopublicar gratis, y los gastos de impresión bajo demanda (print-on-demand) se descuentan de las ventas. Combinado con la AI generativa, el sistema permite producir “libros” en masa con poco riesgo. KDP exige a los editores declarar el uso de AI al publicar, pero ninguno de los nueve libros parecía informarlo a los consumidores."
               },
               {
                 "t": "img",
-                "src": "https://s.bizhankook.com/attachments_webp_no_wm/2026/10/136632_no_wm_83726ebb.webp",
-                "cap": "Traducciones al inglés de 'Historia de Hong Gildong' y 'El sueño de las nueve nubes'"
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-003.webp"
               },
               {
                 "t": "p",
-                "x": "Las obras de Heo Gyun y Kim Man-jung son de dominio público, pero lo que figura en la lista son traducciones al inglés publicadas en época moderna, que pueden protegerse como obras derivadas independientes. También se incluyó la novela 'Amigo', del escritor norcoreano Paek Nam-ryong. De unas 690 ediciones en inglés de editoriales extranjeras figuran 39, pero no se halló ninguna de las unas 300 ediciones en inglés de editoriales nacionales. La Sociedad Coreana de Editores impulsa una campaña de firmas con el lema “Sin libros no hay AI”."
+                "x": "Las reseñas sugieren que los consumidores sí están siendo engañados, y es probable que estas publicaciones falsas resulten cada vez más convincentes a medida que evolucionen las herramientas de AI."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Anthropic payout list includes\nHong Gildong and Guunmong",
-          "body": "Anthropic's settlement payout list includes 46 Korean books, among them classics and North Korean fiction.",
-          "mini_headline": "Korean classics on Anthropic list",
+        "ko": {
+          "headline": "Amazon Japan에\nAI-made 공략집 범람",
+          "body": "Amazon Japan에 AI-made 추정 Fire Emblem 공략집이 넘친다.",
+          "mini_headline": "Amazon Japan의 AI 공략집",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-header-6.webp"
+              },
+              {
                 "t": "p",
-                "x": "At least 46 Korea-related books, from classics such as 'The Story of Hong Gildong' and 'The Cloud Dream of the Nine' to a novel by a North Korean writer, have been confirmed on the list of works covered by the pirated-book copyright settlement of U.S. artificial intelligence (AI) company Anthropic. Of these, 16 titles had not come to light before, including 'The Disaster Tourist', winner of Britain's Dagger award, works by Park Wan-suh and Hwang Sun-won, and an anthology of modern poetry collecting poems by 34 poets."
+                "x": "Nintendo가 9월 17일 Fire Emblem: Fortune’s Weave를 출시했는데, Amazon Japan에서 이 제목을 검색하면 벌써 공략집이 최소 아홉 권 나오며 그중 공식 공략집은 하나도 없다. 표지는 상당 부분 AI-generated로 보이고, 전자책(e-books)으로 나온 책도 없어 보인다."
               },
               {
                 "t": "img",
-                "src": "https://s.bizhankook.com/attachments_webp_no_wm/2026/10/136634_no_wm_28c6ef9a.webp",
-                "cap": "Anthropic agreed to pay $3000 per work for more than 480000 works that meet the settlement requirements. Photo=AP/Yonhap News"
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-001-1155x1080.jpg"
               },
               {
                 "t": "p",
-                "x": "Bizhankook compared some 1300 English translations published by the Literature Translation Institute of Korea against the payout list. The list is the outcome of the settlement in the 'Bartz v. Anthropic' class action, under which Anthropic will pay about $3000 (about 4300000 won) per work for more than 480000 qualifying books it downloaded from pirate sites to train its AI models. Of the 46 titles, 23 were registered under translators' names and 16 under institutions' names."
+                "x": "책 제목들은 “완벽 공략”, “숨겨진 비밀”, “심층 가이드”를 내세운다. 리뷰가 달린 네 권 가운데에는 Amazon 인증 구매로 표시된 리뷰도 있으며, 모두 별 하나(one-star)를 줬다. “이 책을 사는 실수를 하지 마라”, “완전히 쓸모없는 구매”라는 평이다. 샘플 페이지는 이미지 없이 장황한 문체의 글만 빽빽하다."
+              },
+              {
+                "t": "p",
+                "x": "Amazon의 Kindle Direct Publishing(KDP)은 누구나 무료로 자가 출판할 수 있게 하고, 주문형 인쇄(print-on-demand) 비용은 판매 수익에서 뺀다. 생성형 AI와 결합하면 적은 위험으로 “책”을 대량 생산할 수 있다. KDP는 출판 과정에서 AI 사용을 밝히도록 요구하지만, 아홉 권 중 소비자에게 이를 알린 책은 없어 보였다."
               },
               {
                 "t": "img",
-                "src": "https://s.bizhankook.com/attachments_webp_no_wm/2026/10/136632_no_wm_83726ebb.webp",
-                "cap": "English translations of 'The Story of Hong Gildong' and 'The Cloud Dream of the Nine'"
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-003.webp"
               },
               {
                 "t": "p",
-                "x": "The works of Heo Gyun and Kim Man-jung are in the public domain, but what made the list are English translations published in modern times, which can be protected as separate derivative works. 'Friend', a novel by North Korean writer Paek Nam-ryong, was also included. Of some 690 English editions from overseas publishers, 39 made the list, while not one of some 300 English editions from domestic publishers was found. The Korean Publishers Society is running a petition campaign under the message “No books, no AI.”"
+                "x": "리뷰를 보면 소비자가 실제로 속고 있으며, AI 도구가 발전할수록 이런 가짜 출판물은 더 그럴듯해질 가능성이 크다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Anthropic補償対象に\n洪吉童伝・九雲夢",
-          "body": "Anthropicの和解補償対象に、古典や北朝鮮小説など韓国の本46点が入った。",
-          "mini_headline": "Anthropicリストに韓国古典",
+          "headline": "Amazon Japanに\nAI-made攻略本が氾濫",
+          "body": "AI-madeとみられるFire Emblem攻略本がAmazon Japanにあふれる。",
+          "mini_headline": "Amazon JapanにAI攻略本",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-header-6.webp"
+              },
+              {
                 "t": "p",
-                "x": "米国の人工知能(AI)企業Anthropicの海賊版書籍をめぐる著作権和解の対象リストに、『洪吉童伝』『九雲夢』といった古典から北朝鮮作家の小説まで、韓国関連書籍が少なくとも46点含まれていることが確認された。英国ダガー賞受賞作『夜の旅人たち』、朴婉緒・黄順元の作品、詩人34人の詩を収めた現代詩選集など16点は、これまで明らかになっていなかった本だ。"
+                "x": "Nintendoは9月17日に『Fire Emblem: Fortune’s Weave』を発売したが、Amazon Japanでタイトルを検索すると、すでに少なくとも九冊の攻略本が表示され、いずれも公式ではない。表紙は大部分がAI-generatedとみられ、電子書籍(e-books)版はどれも用意されていないようだ。"
               },
               {
                 "t": "img",
-                "src": "https://s.bizhankook.com/attachments_webp_no_wm/2026/10/136634_no_wm_28c6ef9a.webp",
-                "cap": "Anthropicは和解要件を満たした48万件余りに、著作物1件当たり3000ドルを支払うことにした。写真=AP/聯合ニュース"
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-001-1155x1080.jpg"
               },
               {
                 "t": "p",
-                "x": "ビズハングクは韓国文学翻訳院が公開した英訳書1300点余りを補償対象リストと照合した。補償リストは「Bartz対Anthropic」集団訴訟の和解結果で、AnthropicはAIモデルの学習用に海賊版サイトからダウンロードした本のうち、要件を満たした48万件余りに1件当たり約3000ドル(約430万ウォン)を支払う。46点のうち翻訳者名義で登録された本は23点、機関名義は16点だった。"
+                "x": "書名には「完全攻略」「隠された秘密」「徹底ガイド」といった文句が並ぶ。四冊にはレビューが付いており、Amazonの認証購入とされるものも含め、いずれも星一つ(one-star)だ。「買う過ちを犯すな」「まったくの無駄な買い物」といった内容である。サンプルページは画像がなく、冗長な文体の文章がびっしり続くだけだ。"
+              },
+              {
+                "t": "p",
+                "x": "AmazonのKindle Direct Publishing(KDP)では個人が無料で自費出版でき、プリント・オン・デマンド(print-on-demand)の費用は売上から差し引かれる。生成AIと組み合わせれば、低いリスクで「本」を量産できる仕組みだ。KDPは出版時にAI使用の申告を求めているが、九冊のいずれも消費者にそれを開示していないようだった。"
               },
               {
                 "t": "img",
-                "src": "https://s.bizhankook.com/attachments_webp_no_wm/2026/10/136632_no_wm_83726ebb.webp",
-                "cap": "『洪吉童伝』と『九雲夢』の英訳本"
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-003.webp"
               },
               {
                 "t": "p",
-                "x": "許筠と金萬重の作品はパブリックドメインだが、リストに載ったのは現代に出版された英訳本で、別個の2次的著作物として保護されうる。北朝鮮作家・白南龍の小説『友』も含まれた。海外出版社の英語版は690点余りのうち39点が載ったが、国内出版社の英語版300点余りは1点も確認されなかった。韓国出版人会議は「本がなければAIもない」として署名運動を進めている。"
+                "x": "レビューからは消費者が実際に惑わされていることがうかがえ、AIツールの進化につれて、こうした偽の出版物はますます本物らしくなるとみられる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Anthropic赔偿名单\n收录洪吉童传与九云梦",
-          "body": "Anthropic和解赔偿名单收录了古典与朝鲜小说等46种韩国图书。",
-          "mini_headline": "Anthropic名单现韩国古典",
+          "headline": "AI-made游戏攻略书\n涌入Amazon Japan",
+          "body": "疑似AI-made的Fire Emblem攻略书涌入Amazon Japan，买家受骗。",
+          "mini_headline": "AI攻略书涌入Amazon Japan",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-header-6.webp"
+              },
+              {
                 "t": "p",
-                "x": "经确认,美国人工智能(AI)企业Anthropic的盗版图书版权和解对象名单中,收录了从《洪吉童传》《九云梦》等古典作品到朝鲜作家小说在内的至少46种韩国相关图书。其中,英国匕首奖获奖作品《夜晚的旅行者们》、朴婉绪与黄顺元的作品,以及收录34位诗人诗作的现代诗选集等16种,此前从未被披露。"
+                "x": "Nintendo于9月17日发售了《Fire Emblem: Fortune’s Weave》，如今在Amazon Japan搜索该作，已能找到至少九本攻略书，且没有一本是官方出品。这些书的封面看起来大量是AI-generated的，而且似乎都没有电子书（e-books）版本。"
               },
               {
                 "t": "img",
-                "src": "https://s.bizhankook.com/attachments_webp_no_wm/2026/10/136634_no_wm_28c6ef9a.webp",
-                "cap": "Anthropic决定向符合和解条件的48万余件作品每1件支付3000美元。图片=AP/韩联社"
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-001-1155x1080.jpg"
               },
               {
                 "t": "p",
-                "x": "Bizhankook将韩国文学翻译院公开的1300余种英文译本与赔偿对象名单进行了比对。该名单是“Bartz诉Anthropic”集体诉讼的和解结果:在Anthropic为训练AI模型而从盗版网站下载的图书中,符合条件的48万余件将每1件获得约3000美元(约430万韩元)。46种中,以译者名义登记的有23种,以机构名义登记的有16种。"
+                "x": "这些书的标题标榜“完整攻略”“隐藏秘密”和“深度指南”。其中四本有评论，包括一条标注为Amazon认证购买的评论，且全部给出一星（one-star）：“千万别犯买这本书的错误”“完全是一笔无用的购买”。样张页面只有密密麻麻的文字，没有任何图片，文风也明显冗长。"
+              },
+              {
+                "t": "p",
+                "x": "Amazon的Kindle Direct Publishing（KDP）允许个人免费自助出版，按需印刷（print-on-demand）成本从销售收入中扣除。与生成式AI结合后，这套系统让人能以很低的风险批量生产“书”。KDP要求出版者在出版时披露AI使用情况，但这九本书似乎都没有向消费者披露。"
               },
               {
                 "t": "img",
-                "src": "https://s.bizhankook.com/attachments_webp_no_wm/2026/10/136632_no_wm_83726ebb.webp",
-                "cap": "《洪吉童传》与《九云梦》的英文译本"
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-003.webp"
               },
               {
                 "t": "p",
-                "x": "许筠与金万重的作品属于公有领域,但列入名单的是现代出版的英文译本,可作为独立的2次创作作品受到保护。朝鲜作家白南龙的小说《朋友》也在其中。海外出版社的英文版690余种中有39种入选,而韩国国内出版社的300余种英文版一种也未发现。韩国出版人会议以“没有书就没有AI”为口号,正在开展联署运动。"
+                "x": "评论表明消费者确实受到了误导，而随着AI工具不断进化，这类假出版物可能会越来越以假乱真。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La lista de pagos de Anthropic\nincluye Hong Gildong y Guunmong",
-          "body": "La lista de pagos del acuerdo de Anthropic incluye 46 libros coreanos, como clásicos y novelas norcoreanas.",
-          "mini_headline": "Clásicos coreanos en la lista de Anthropic",
+          "headline": "Guías de juegos AI-made\ninundan Amazon Japan",
+          "body": "Guías de Fire Emblem al parecer AI-made inundan Amazon Japan, y las reseñas sugieren que los compradores son engañados.",
+          "mini_headline": "Guías de AI inundan Amazon Japan",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-header-6.webp"
+              },
+              {
                 "t": "p",
-                "x": "Se ha confirmado que la lista de obras cubiertas por el acuerdo de derechos de autor por libros pirateados de Anthropic, empresa estadounidense de inteligencia artificial (AI), incluye al menos 46 libros relacionados con Corea, desde clásicos como 'Historia de Hong Gildong' y 'El sueño de las nueve nubes' hasta una novela de un escritor norcoreano. De ellos, 16 títulos no se habían dado a conocer antes, entre ellos 'Los viajeros de la noche', ganadora del premio Dagger británico, obras de Park Wan-suh y Hwang Sun-won y una antología de poesía moderna que reúne poemas de 34 poetas."
+                "x": "Nintendo lanzó Fire Emblem: Fortune’s Weave el 17 de septiembre, y al buscar el título en Amazon Japan ya aparecen al menos nueve guías, ninguna de ellas oficial. Sus portadas parecen en gran medida AI-generated, y ninguna parece estar disponible en libro electrónico (e-books)."
               },
               {
                 "t": "img",
-                "src": "https://s.bizhankook.com/attachments_webp_no_wm/2026/10/136634_no_wm_28c6ef9a.webp",
-                "cap": "Anthropic acordó pagar 3000 dólares por obra a más de 480000 obras que cumplen los requisitos del acuerdo. Foto=AP/Yonhap News"
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-001-1155x1080.jpg"
               },
               {
                 "t": "p",
-                "x": "Bizhankook cotejó con la lista de compensaciones unas 1300 traducciones al inglés publicadas por el Instituto de Traducción Literaria de Corea. La lista es el resultado del acuerdo en la demanda colectiva 'Bartz contra Anthropic', por el que Anthropic pagará unos 3000 dólares (unos 4300000 wones) por obra a más de 480000 libros que cumplen los requisitos, de entre los que descargó de sitios piratas para entrenar sus modelos de AI. De los 46 títulos, 23 estaban registrados a nombre de traductores y 16 a nombre de instituciones."
+                "x": "Los títulos prometen un “recorrido completo”, “secretos ocultos” y una “guía exhaustiva”. Cuatro de los libros tienen reseñas, incluida una marcada como compra verificada de Amazon, y todas otorgan una estrella (one-star): “No cometas el error de comprar esto” y “Una compra completamente inútil”. Las páginas de muestra no contienen más que bloques de texto, sin imágenes y con un estilo notablemente prolijo."
+              },
+              {
+                "t": "p",
+                "x": "Kindle Direct Publishing (KDP) de Amazon permite a cualquier persona autopublicar gratis, y los gastos de impresión bajo demanda (print-on-demand) se descuentan de las ventas. Combinado con la AI generativa, el sistema permite producir “libros” en masa con poco riesgo. KDP exige a los editores declarar el uso de AI al publicar, pero ninguno de los nueve libros parecía informarlo a los consumidores."
               },
               {
                 "t": "img",
-                "src": "https://s.bizhankook.com/attachments_webp_no_wm/2026/10/136632_no_wm_83726ebb.webp",
-                "cap": "Traducciones al inglés de 'Historia de Hong Gildong' y 'El sueño de las nueve nubes'"
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261026-475551-003.webp"
               },
               {
                 "t": "p",
-                "x": "Las obras de Heo Gyun y Kim Man-jung son de dominio público, pero lo que figura en la lista son traducciones al inglés publicadas en época moderna, que pueden protegerse como obras derivadas independientes. También se incluyó la novela 'Amigo', del escritor norcoreano Paek Nam-ryong. De unas 690 ediciones en inglés de editoriales extranjeras figuran 39, pero no se halló ninguna de las unas 300 ediciones en inglés de editoriales nacionales. La Sociedad Coreana de Editores impulsa una campaña de firmas con el lema “Sin libros no hay AI”."
+                "x": "Las reseñas sugieren que los consumidores sí están siendo engañados, y es probable que estas publicaciones falsas resulten cada vez más convincentes a medida que evolucionen las herramientas de AI."
               }
             ]
           }
@@ -707,219 +627,165 @@
       }
     },
     {
-      "id": "books-sweden-ai-classics",
+      "id": "manga-platform",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "작가협회, Bokum 조사\nAI-reworked 고전",
-      "body": "스웨덴 작가협회가 Bokum의 AI 고전 개작이 보호 규정을 어겼는지 살핀다.",
-      "mini_headline": "스웨덴, AI-reworked 고전 논란",
+      "headline": "AI-translated\n공동 만화 허브 띄운 일본",
+      "body": "일본 재무성이 출판사들을 묶는 AI 번역 글로벌 만화 플랫폼을 제안했다.",
+      "mini_headline": "일본의 AI 만화 허브",
       "tool": "Books",
-      "source": "BGNES",
-      "url": "https://www.bgnes.com/society/swedish-writers-association-accuses-publisher-of-distorting-classics-with-ai",
+      "source": "AUTOMATON WEST",
+      "url": "https://automaton-media.com/en/nongaming-news/japans-ministry-of-finance-proposes-shared-manga-platform-where-global-fans-can-access-multiple-publishers-in-one-place-the-idea-involves-ai-translation/",
       "accent": "#7928ca",
       "motif": "swatch",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.bgnes.com/static/images/news/2026/10/25/23995/1280X720-22015.webp",
-            "cap": "Bokum은 한 해도 안 돼 800편 넘는 고전을 번역하고 현대화했다"
+            "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261023-74214-header-1.jpg"
           },
           {
             "t": "p",
-            "x": "Sweden Herald에 따르면 스웨덴작가협회(Swedish Writers’ Association)는 출판사 Bokum이 고전 작품 보호 규정을 어겼는지 검토 중이다. 이 출판사는 고전 문학을 인공지능으로 번역했다는 의혹을 산다."
+            "x": "일본 재무성(MOF)이 최근 해외 독자가 여러 출판사의 작품을 한곳에서 읽는 공동 플랫폼을 제안했다. 구상은 22일 재무장관 자문기구인 재정제도심의회에서 나왔다. 심의회는 해외 유통사가 시장을 쥔 상황에서 일본에는 출판사를 아우르는 플랫폼이 없다고 짚었다."
           },
           {
             "t": "p",
-            "x": "스웨덴작가협회 의장 Anja Gatu는 “이것은 문학에서 인공지능을 어떻게 써야 하는지에 관한 논쟁이며, 정말 끔찍한 사례”라고 했다."
+            "x": "AI로 만화를 여러 언어로 번역한다는 것이 구상의 핵심이다. MOF는 이 플랫폼이 “해외 독자가 일본 작품을 즐기는 수단이 되어, 참여 출판사와 기타 이해관계자의 수익을 늘릴 것”으로 기대한다. 아직은 제안 단계에 머물고, AI 번역은 해외 만화 팬들의 반발을 살 공산이 크다."
           },
           {
             "t": "p",
-            "x": "저작권법은 보호 기간이 끝난 옛 작품까지 보호한다. Gatu는 “어떤 방식으로든 작품을 왜곡할 수 없다는 뜻”이라고 설명했다."
-          },
-          {
-            "t": "p",
-            "x": "보도에 따르면 Bokum은 한 해도 안 돼 Charles Dickens의 Oliver Twist, Franz Kafka의 The Metamorphosis(변신) 등 800편 넘는 고전을 번역하고 현대화했다. 책 표지에 AI-generated 이미지(AI 생성 이미지)를 썼다는 의혹도 있다."
-          },
-          {
-            "t": "p",
-            "x": "스웨덴 한림원(Swedish Academy)에는 고전 작품 보호 문제를 소송으로 끌고 갈 권한이 있다. 한림원 측은 Svensk Bokhandel에 이 사안을 지켜보는 중이라고 밝혔다."
+            "x": "문화청과 경제산업성은 이와 별도로 개별 출판사 보조금을 포함한 내년도 예산 합계 250B 엔 이상을 요구했다. 심의회는 12월까지 재무장관에게 건의를 낸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Swedish writers probe Bokum\nover AI-reworked classics",
-          "body": "The Swedish Writers' Association is examining whether Bokum's AI reworkings of classics violate their protection.",
-          "mini_headline": "Sweden: AI-reworked classics",
+          "headline": "Japan floats a shared\nAI-translated manga hub",
+          "body": "Japan's Ministry of Finance proposes one global manga platform for multiple publishers, using AI translation.",
+          "mini_headline": "Japan's AI manga hub",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.bgnes.com/static/images/news/2026/10/25/23995/1280X720-22015.webp",
-                "cap": "Bokum has translated and modernized more than 800 classic works in less than a year"
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261023-74214-header-1.jpg"
               },
               {
                 "t": "p",
-                "x": "The Swedish Writers’ Association is examining whether publisher Bokum has violated the protection of classic works, reports Sweden Herald. The publisher is accused of using artificial intelligence to translate classic literary works."
+                "x": "Japan’s Ministry of Finance (MOF) recently proposed a shared platform where global readers could access titles from various publishers in one place. The idea was raised on the 22nd at the Fiscal System Council, an advisory body to the Minister of Finance, which argued that Japan lacks a cross-publisher platform while overseas distributors dominate the market."
               },
               {
                 "t": "p",
-                "x": "“This is a debate about how artificial intelligence should be used in literature, and this is truly a horrifying example,” said Anja Gatu, chair of the Swedish Writers’ Association."
+                "x": "The idea involves using AI to translate manga into multiple languages, which MOF believes will turn the platform “into a means for readers overseas to enjoy Japanese works, thereby increasing revenue for participating publishers and other stakeholders.” It is still just a proposal, and AI translation is likely to meet friction among global manga fans."
               },
               {
                 "t": "p",
-                "x": "Copyright law also provides protection for older works that are no longer covered by copyright. “This means that you cannot distort a work in any way,” Gatu said."
-              },
-              {
-                "t": "p",
-                "x": "According to media reports, Bokum has translated and modernized more than 800 classic works in less than a year, including Charles Dickens’ Oliver Twist and Franz Kafka’s The Metamorphosis. The publisher has also been accused of using AI-generated images for its book covers."
-              },
-              {
-                "t": "p",
-                "x": "The Swedish Academy has the right to take the issue of protecting classic works to court. Representatives of the Academy told Svensk Bokhandel that they are monitoring the case."
+                "x": "Separately, the Agency for Cultural Affairs and the Ministry of Economy, Trade and Industry have requested a combined budget of more than 250 billion yen for next year, including subsidies to individual publishers. The council’s recommendations are due to the minister of finance by December."
               }
             ]
           }
         },
         "ko": {
-          "headline": "작가협회, Bokum 조사\nAI-reworked 고전",
-          "body": "스웨덴 작가협회가 Bokum의 AI 고전 개작이 보호 규정을 어겼는지 살핀다.",
-          "mini_headline": "스웨덴, AI-reworked 고전 논란",
+          "headline": "AI-translated\n공동 만화 허브 띄운 일본",
+          "body": "일본 재무성이 출판사들을 묶는 AI 번역 글로벌 만화 플랫폼을 제안했다.",
+          "mini_headline": "일본의 AI 만화 허브",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.bgnes.com/static/images/news/2026/10/25/23995/1280X720-22015.webp",
-                "cap": "Bokum은 한 해도 안 돼 800편 넘는 고전을 번역하고 현대화했다"
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261023-74214-header-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Sweden Herald에 따르면 스웨덴작가협회(Swedish Writers’ Association)는 출판사 Bokum이 고전 작품 보호 규정을 어겼는지 검토 중이다. 이 출판사는 고전 문학을 인공지능으로 번역했다는 의혹을 산다."
+                "x": "일본 재무성(MOF)이 최근 해외 독자가 여러 출판사의 작품을 한곳에서 읽는 공동 플랫폼을 제안했다. 구상은 22일 재무장관 자문기구인 재정제도심의회에서 나왔다. 심의회는 해외 유통사가 시장을 쥔 상황에서 일본에는 출판사를 아우르는 플랫폼이 없다고 짚었다."
               },
               {
                 "t": "p",
-                "x": "스웨덴작가협회 의장 Anja Gatu는 “이것은 문학에서 인공지능을 어떻게 써야 하는지에 관한 논쟁이며, 정말 끔찍한 사례”라고 했다."
+                "x": "AI로 만화를 여러 언어로 번역한다는 것이 구상의 핵심이다. MOF는 이 플랫폼이 “해외 독자가 일본 작품을 즐기는 수단이 되어, 참여 출판사와 기타 이해관계자의 수익을 늘릴 것”으로 기대한다. 아직은 제안 단계에 머물고, AI 번역은 해외 만화 팬들의 반발을 살 공산이 크다."
               },
               {
                 "t": "p",
-                "x": "저작권법은 보호 기간이 끝난 옛 작품까지 보호한다. Gatu는 “어떤 방식으로든 작품을 왜곡할 수 없다는 뜻”이라고 설명했다."
-              },
-              {
-                "t": "p",
-                "x": "보도에 따르면 Bokum은 한 해도 안 돼 Charles Dickens의 Oliver Twist, Franz Kafka의 The Metamorphosis(변신) 등 800편 넘는 고전을 번역하고 현대화했다. 책 표지에 AI-generated 이미지(AI 생성 이미지)를 썼다는 의혹도 있다."
-              },
-              {
-                "t": "p",
-                "x": "스웨덴 한림원(Swedish Academy)에는 고전 작품 보호 문제를 소송으로 끌고 갈 권한이 있다. 한림원 측은 Svensk Bokhandel에 이 사안을 지켜보는 중이라고 밝혔다."
+                "x": "문화청과 경제산업성은 이와 별도로 개별 출판사 보조금을 포함한 내년도 예산 합계 250B 엔 이상을 요구했다. 심의회는 12월까지 재무장관에게 건의를 낸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "作家協会がBokum調査\nAI-reworked古典",
-          "body": "スウェーデン作家協会は、Bokumが古典をAIで改作し保護を侵害したか調べている。",
-          "mini_headline": "スウェーデンのAI-reworked古典",
+          "headline": "AI-translatedの\n共同漫画ハブ、日本が提案",
+          "body": "日本の財務省が、AI翻訳を使い複数の出版社が参加する世界向け漫画プラットフォームを提案した。",
+          "mini_headline": "日本のAI漫画ハブ",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.bgnes.com/static/images/news/2026/10/25/23995/1280X720-22015.webp",
-                "cap": "Bokumは一年足らずで800点を超える古典作品を翻訳・現代化した"
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261023-74214-header-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Sweden Heraldによると、スウェーデン作家協会(Swedish Writers’ Association)は、出版社Bokumが古典作品の保護を侵害したかどうかを調べている。同社は人工知能を使って古典文学作品を翻訳したとされる。"
+                "x": "日本の財務省(MOF)は最近、海外の読者が複数の出版社の作品を一か所で読める共同プラットフォームを提案した。この案は22日、財務大臣の諮問機関である財政制度等審議会で示され、審議会は海外の配信事業者が市場を握る一方、日本には出版社横断のプラットフォームがないと指摘した。"
               },
               {
                 "t": "p",
-                "x": "「これは文学で人工知能をどう使うべきかという議論であり、本当に恐ろしい例だ」と、スウェーデン作家協会のAnja Gatu会長は述べた。"
+                "x": "構想ではAIを使って漫画を多言語に翻訳する。MOFはこれにより、プラットフォームが「海外の読者が日本の作品を楽しむ手段となり、参加する出版社などの関係者の収益増につながる」とみている。あくまで提案段階であり、AI翻訳は海外の漫画ファンの間で摩擦を生む可能性が高い。"
               },
               {
                 "t": "p",
-                "x": "著作権法は、著作権の保護期間が切れた古い作品にも保護を与えている。「つまり、いかなる形でも作品を歪めてはならないということだ」とGatu氏は語った。"
-              },
-              {
-                "t": "p",
-                "x": "報道によると、Bokumは一年足らずの間に、Charles Dickensの『Oliver Twist』やFranz Kafkaの『The Metamorphosis』(変身)を含む800点超の古典作品を翻訳・現代化した。同社は本の表紙にAI-generated(AI生成)の画像を使ったとも指摘されている。"
-              },
-              {
-                "t": "p",
-                "x": "スウェーデン・アカデミー(Swedish Academy)には、古典作品の保護をめぐる問題を法廷に持ち込む権利がある。アカデミーの関係者はSvensk Bokhandelに対し、この件を注視していると述べた。"
+                "x": "これとは別に、文化庁と経済産業省は、個別の出版社への補助金を含め、来年度予算として合計250B 円以上を要求している。審議会の提言は12月までに財務大臣へ提出される予定だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "瑞典作家调查Bokum\nAI-reworked经典",
-          "body": "瑞典作家协会正在审查Bokum用AI改写经典是否侵犯了经典的保护。",
-          "mini_headline": "瑞典AI-reworked经典",
+          "headline": "AI-translated的\n共享漫画平台：日本提议",
+          "body": "日本财务省提议借助AI翻译，建立一个供多家出版商共用的全球漫画平台。",
+          "mini_headline": "日本的AI漫画平台",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.bgnes.com/static/images/news/2026/10/25/23995/1280X720-22015.webp",
-                "cap": "Bokum在不到一年的时间里翻译并现代化改写了800多部古典作品"
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261023-74214-header-1.jpg"
               },
               {
                 "t": "p",
-                "x": "据Sweden Herald报道,瑞典作家协会(Swedish Writers’ Association)正在审查出版商Bokum是否侵犯了对古典作品的保护。该出版商被指使用人工智能翻译古典文学作品。"
+                "x": "日本财务省（MOF）近日提议建立一个共享平台，让全球读者在同一处获取多家出版商的作品。该构想于22日在财务大臣的咨询机构财政制度等审议会上提出；审议会指出，在海外发行商主导市场之际，日本却缺少一个跨出版商的平台。"
               },
               {
                 "t": "p",
-                "x": "瑞典作家协会主席Anja Gatu表示:“这是一场关于文学中应如何使用人工智能的讨论,而这确实是一个可怕的例子。”"
+                "x": "该构想涉及利用AI将漫画翻译成多种语言。MOF认为，这将使平台“成为海外读者欣赏日本作品的途径，从而增加参与出版商及其他相关方的收入”。这目前仍只是一项提议，而AI翻译很可能在全球漫画迷中引发摩擦。"
               },
               {
                 "t": "p",
-                "x": "著作权法也为已不再受版权保护的旧作品提供保护。Gatu说:“这意味着不能以任何方式歪曲一部作品。”"
-              },
-              {
-                "t": "p",
-                "x": "据媒体报道,Bokum在不到一年的时间里翻译并现代化改写了800多部古典作品,其中包括Charles Dickens的《Oliver Twist》(雾都孤儿)和Franz Kafka的《The Metamorphosis》(变形记)。该出版商还被指在书籍封面上使用AI-generated(AI生成)图像。"
-              },
-              {
-                "t": "p",
-                "x": "瑞典学院(Swedish Academy)有权将古典作品保护问题诉诸法院。学院代表对Svensk Bokhandel表示,他们正在关注此案。"
+                "x": "另外，文化厅与经济产业省已为明年申请合计超过250B 日元的预算，其中包括对个别出版商的补贴。审议会将在12月前向财务大臣提交建议。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Escritores suecos examinan Bokum\npor sus clásicos AI-reworked",
-          "body": "La Asociación de Escritores Suecos examina si las versiones de clásicos con AI de Bokum violan su protección.",
-          "mini_headline": "Suecia: clásicos AI-reworked",
+          "headline": "Japón plantea una plataforma\ncomún de manga AI-translated",
+          "body": "El Ministerio de Finanzas de Japón propone una plataforma global de manga para varias editoriales, traducida con AI.",
+          "mini_headline": "La plataforma de manga con AI de Japón",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.bgnes.com/static/images/news/2026/10/25/23995/1280X720-22015.webp",
-                "cap": "Bokum ha traducido y modernizado más de 800 obras clásicas en menos de un año"
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261023-74214-header-1.jpg"
               },
               {
                 "t": "p",
-                "x": "La Asociación de Escritores Suecos (Swedish Writers’ Association) examina si la editorial Bokum ha vulnerado la protección de las obras clásicas, informa Sweden Herald. La editorial está acusada de usar inteligencia artificial para traducir obras literarias clásicas."
+                "x": "El Ministerio de Finanzas de Japón (MOF) propuso recientemente una plataforma compartida donde lectores de todo el mundo puedan acceder en un solo lugar a títulos de distintas editoriales. La idea se planteó el día 22 en el Consejo del Sistema Fiscal, órgano asesor del ministro de Finanzas, que sostuvo que Japón carece de una plataforma común entre editoriales mientras los distribuidores extranjeros dominan el mercado."
               },
               {
                 "t": "p",
-                "x": "“Este es un debate sobre cómo debe usarse la inteligencia artificial en la literatura, y este es un ejemplo verdaderamente espantoso”, dijo Anja Gatu, presidenta de la Asociación de Escritores Suecos."
+                "x": "La idea consiste en usar AI para traducir manga a varios idiomas, lo que según el MOF convertirá la plataforma “en un medio para que los lectores del extranjero disfruten de obras japonesas, aumentando así los ingresos de las editoriales participantes y demás partes interesadas”. Por ahora es solo una propuesta, y es probable que la traducción por AI genere fricciones entre los aficionados al manga de todo el mundo."
               },
               {
                 "t": "p",
-                "x": "La ley de derechos de autor también protege las obras antiguas que ya no están cubiertas por el derecho de autor. “Esto significa que no se puede distorsionar una obra de ninguna manera”, dijo Gatu."
-              },
-              {
-                "t": "p",
-                "x": "Según informaciones de prensa, Bokum ha traducido y modernizado más de 800 obras clásicas en menos de un año, entre ellas Oliver Twist de Charles Dickens y The Metamorphosis (La metamorfosis) de Franz Kafka. La editorial también ha sido acusada de usar imágenes AI-generated (generadas con AI) en las portadas de sus libros."
-              },
-              {
-                "t": "p",
-                "x": "La Academia Sueca (Swedish Academy) tiene derecho a llevar a los tribunales la cuestión de la protección de las obras clásicas. Representantes de la Academia dijeron a Svensk Bokhandel que siguen el caso."
+                "x": "Por otra parte, la Agencia de Asuntos Culturales y el Ministerio de Economía, Comercio e Industria han solicitado para el próximo año un presupuesto conjunto de más de 250 mil millones de yenes, que incluye subvenciones a editoriales individuales. Las recomendaciones del consejo deben entregarse al ministro de Finanzas antes de diciembre."
               }
             ]
           }
@@ -927,141 +793,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "작가협회, Bokum 조사\nAI-reworked 고전",
-          "body": "스웨덴 작가협회가 Bokum의 AI 고전 개작이 보호를 침해했는지 살핀다.",
-          "mini_headline": "스웨덴의 AI-reworked 고전",
+          "headline": "AI-translated\n공동 만화 허브 띄운 일본",
+          "body": "일본 재무성이 여러 출판사를 묶는 AI 번역 글로벌 만화 플랫폼을 제안한다.",
+          "mini_headline": "일본의 AI 만화 허브",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.bgnes.com/static/images/news/2026/10/25/23995/1280X720-22015.webp",
-                "cap": "Bokum은 한 해도 안 되는 기간에 800편이 넘는 고전을 번역하고 현대화했다"
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261023-74214-header-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Sweden Herald에 따르면 스웨덴작가협회(Swedish Writers’ Association)는 출판사 Bokum이 고전 작품의 보호 규정을 어겼는지 검토하고 있다. 이 출판사는 인공지능으로 고전 문학 작품을 번역했다는 의혹을 받는다."
+                "x": "일본 재무성(MOF)은 최근 해외 독자가 여러 출판사의 작품을 한곳에서 볼 수 있는 공동 플랫폼을 제안했다. 이 구상은 22일 재무장관 자문기구인 재정제도심의회에서 나왔으며, 심의회는 해외 유통사가 시장을 장악한 가운데 일본에는 출판사를 아우르는 플랫폼이 없다고 지적했다."
               },
               {
                 "t": "p",
-                "x": "스웨덴작가협회 의장 Anja Gatu는 “이것은 문학에서 인공지능을 어떻게 써야 하는지에 관한 논쟁이며, 정말 끔찍한 사례”라고 말했다."
+                "x": "구상의 핵심은 AI로 만화를 여러 언어로 번역하는 것이다. MOF는 이 플랫폼이 “해외 독자가 일본 작품을 즐기는 수단이 되어, 참여 출판사와 기타 이해관계자의 수익을 늘릴 것”으로 본다. 아직 제안 단계일 뿐이며, AI 번역은 해외 만화 팬들 사이에서 반발을 살 가능성이 크다."
               },
               {
                 "t": "p",
-                "x": "저작권법은 저작권 보호 기간이 끝난 오래된 작품도 보호한다. Gatu는 “어떤 방식으로든 작품을 왜곡할 수 없다는 뜻”이라고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "언론 보도에 따르면 Bokum은 한 해도 안 되는 기간에 Charles Dickens의 Oliver Twist와 Franz Kafka의 The Metamorphosis(변신)를 포함해 800편이 넘는 고전을 번역하고 현대화했다. 이 출판사는 책 표지에 AI-generated 이미지(AI 생성 이미지)를 썼다는 의혹도 받는다."
-              },
-              {
-                "t": "p",
-                "x": "스웨덴 한림원(Swedish Academy)은 고전 작품 보호 문제를 법정으로 가져갈 권한이 있다. 한림원 관계자들은 Svensk Bokhandel에 이 사안을 지켜보고 있다고 밝혔다."
+                "x": "이와 별도로 문화청과 경제산업성은 개별 출판사 보조금을 포함해 내년도 예산으로 합계 250B 엔 이상을 요구했다. 심의회는 12월까지 재무장관에게 건의를 제출할 예정이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "作家協会がBokum調査\nAI-reworked古典",
-          "body": "スウェーデン作家協会は、Bokumが古典をAIで改作し保護を侵害したか調べている。",
-          "mini_headline": "スウェーデンのAI-reworked古典",
+          "headline": "AI-translatedの\n共同漫画ハブ、日本が提案",
+          "body": "日本の財務省が、AI翻訳を使い複数の出版社が参加する世界向け漫画プラットフォームを提案した。",
+          "mini_headline": "日本のAI漫画ハブ",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.bgnes.com/static/images/news/2026/10/25/23995/1280X720-22015.webp",
-                "cap": "Bokumは一年足らずで800点を超える古典作品を翻訳・現代化した"
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261023-74214-header-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Sweden Heraldによると、スウェーデン作家協会(Swedish Writers’ Association)は、出版社Bokumが古典作品の保護を侵害したかどうかを調べている。同社は人工知能を使って古典文学作品を翻訳したとされる。"
+                "x": "日本の財務省(MOF)は最近、海外の読者が複数の出版社の作品を一か所で読める共同プラットフォームを提案した。この案は22日、財務大臣の諮問機関である財政制度等審議会で示され、審議会は海外の配信事業者が市場を握る一方、日本には出版社横断のプラットフォームがないと指摘した。"
               },
               {
                 "t": "p",
-                "x": "「これは文学で人工知能をどう使うべきかという議論であり、本当に恐ろしい例だ」と、スウェーデン作家協会のAnja Gatu会長は述べた。"
+                "x": "構想ではAIを使って漫画を多言語に翻訳する。MOFはこれにより、プラットフォームが「海外の読者が日本の作品を楽しむ手段となり、参加する出版社などの関係者の収益増につながる」とみている。あくまで提案段階であり、AI翻訳は海外の漫画ファンの間で摩擦を生む可能性が高い。"
               },
               {
                 "t": "p",
-                "x": "著作権法は、著作権の保護期間が切れた古い作品にも保護を与えている。「つまり、いかなる形でも作品を歪めてはならないということだ」とGatu氏は語った。"
-              },
-              {
-                "t": "p",
-                "x": "報道によると、Bokumは一年足らずの間に、Charles Dickensの『Oliver Twist』やFranz Kafkaの『The Metamorphosis』(変身)を含む800点超の古典作品を翻訳・現代化した。同社は本の表紙にAI-generated(AI生成)の画像を使ったとも指摘されている。"
-              },
-              {
-                "t": "p",
-                "x": "スウェーデン・アカデミー(Swedish Academy)には、古典作品の保護をめぐる問題を法廷に持ち込む権利がある。アカデミーの関係者はSvensk Bokhandelに対し、この件を注視していると述べた。"
+                "x": "これとは別に、文化庁と経済産業省は、個別の出版社への補助金を含め、来年度予算として合計250B 円以上を要求している。審議会の提言は12月までに財務大臣へ提出される予定だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "瑞典作家调查Bokum\nAI-reworked经典",
-          "body": "瑞典作家协会正在审查Bokum用AI改写经典是否侵犯了经典的保护。",
-          "mini_headline": "瑞典AI-reworked经典",
+          "headline": "AI-translated的\n共享漫画平台：日本提议",
+          "body": "日本财务省提议借助AI翻译，建立一个供多家出版商共用的全球漫画平台。",
+          "mini_headline": "日本的AI漫画平台",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.bgnes.com/static/images/news/2026/10/25/23995/1280X720-22015.webp",
-                "cap": "Bokum在不到一年的时间里翻译并现代化改写了800多部古典作品"
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261023-74214-header-1.jpg"
               },
               {
                 "t": "p",
-                "x": "据Sweden Herald报道,瑞典作家协会(Swedish Writers’ Association)正在审查出版商Bokum是否侵犯了对古典作品的保护。该出版商被指使用人工智能翻译古典文学作品。"
+                "x": "日本财务省（MOF）近日提议建立一个共享平台，让全球读者在同一处获取多家出版商的作品。该构想于22日在财务大臣的咨询机构财政制度等审议会上提出；审议会指出，在海外发行商主导市场之际，日本却缺少一个跨出版商的平台。"
               },
               {
                 "t": "p",
-                "x": "瑞典作家协会主席Anja Gatu表示:“这是一场关于文学中应如何使用人工智能的讨论,而这确实是一个可怕的例子。”"
+                "x": "该构想涉及利用AI将漫画翻译成多种语言。MOF认为，这将使平台“成为海外读者欣赏日本作品的途径，从而增加参与出版商及其他相关方的收入”。这目前仍只是一项提议，而AI翻译很可能在全球漫画迷中引发摩擦。"
               },
               {
                 "t": "p",
-                "x": "著作权法也为已不再受版权保护的旧作品提供保护。Gatu说:“这意味着不能以任何方式歪曲一部作品。”"
-              },
-              {
-                "t": "p",
-                "x": "据媒体报道,Bokum在不到一年的时间里翻译并现代化改写了800多部古典作品,其中包括Charles Dickens的《Oliver Twist》(雾都孤儿)和Franz Kafka的《The Metamorphosis》(变形记)。该出版商还被指在书籍封面上使用AI-generated(AI生成)图像。"
-              },
-              {
-                "t": "p",
-                "x": "瑞典学院(Swedish Academy)有权将古典作品保护问题诉诸法院。学院代表对Svensk Bokhandel表示,他们正在关注此案。"
+                "x": "另外，文化厅与经济产业省已为明年申请合计超过250B 日元的预算，其中包括对个别出版商的补贴。审议会将在12月前向财务大臣提交建议。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Escritores suecos examinan Bokum\npor sus clásicos AI-reworked",
-          "body": "La Asociación de Escritores Suecos examina si las versiones de clásicos con AI de Bokum violan su protección.",
-          "mini_headline": "Suecia: clásicos AI-reworked",
+          "headline": "Japón plantea una plataforma\ncomún de manga AI-translated",
+          "body": "El Ministerio de Finanzas de Japón propone una plataforma global de manga para varias editoriales, traducida con AI.",
+          "mini_headline": "La plataforma de manga con AI de Japón",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.bgnes.com/static/images/news/2026/10/25/23995/1280X720-22015.webp",
-                "cap": "Bokum ha traducido y modernizado más de 800 obras clásicas en menos de un año"
+                "src": "https://automaton-media.com/en/wp-content/uploads/2026/10/20261023-74214-header-1.jpg"
               },
               {
                 "t": "p",
-                "x": "La Asociación de Escritores Suecos (Swedish Writers’ Association) examina si la editorial Bokum ha vulnerado la protección de las obras clásicas, informa Sweden Herald. La editorial está acusada de usar inteligencia artificial para traducir obras literarias clásicas."
+                "x": "El Ministerio de Finanzas de Japón (MOF) propuso recientemente una plataforma compartida donde lectores de todo el mundo puedan acceder en un solo lugar a títulos de distintas editoriales. La idea se planteó el día 22 en el Consejo del Sistema Fiscal, órgano asesor del ministro de Finanzas, que sostuvo que Japón carece de una plataforma común entre editoriales mientras los distribuidores extranjeros dominan el mercado."
               },
               {
                 "t": "p",
-                "x": "“Este es un debate sobre cómo debe usarse la inteligencia artificial en la literatura, y este es un ejemplo verdaderamente espantoso”, dijo Anja Gatu, presidenta de la Asociación de Escritores Suecos."
+                "x": "La idea consiste en usar AI para traducir manga a varios idiomas, lo que según el MOF convertirá la plataforma “en un medio para que los lectores del extranjero disfruten de obras japonesas, aumentando así los ingresos de las editoriales participantes y demás partes interesadas”. Por ahora es solo una propuesta, y es probable que la traducción por AI genere fricciones entre los aficionados al manga de todo el mundo."
               },
               {
                 "t": "p",
-                "x": "La ley de derechos de autor también protege las obras antiguas que ya no están cubiertas por el derecho de autor. “Esto significa que no se puede distorsionar una obra de ninguna manera”, dijo Gatu."
-              },
-              {
-                "t": "p",
-                "x": "Según informaciones de prensa, Bokum ha traducido y modernizado más de 800 obras clásicas en menos de un año, entre ellas Oliver Twist de Charles Dickens y The Metamorphosis (La metamorfosis) de Franz Kafka. La editorial también ha sido acusada de usar imágenes AI-generated (generadas con AI) en las portadas de sus libros."
-              },
-              {
-                "t": "p",
-                "x": "La Academia Sueca (Swedish Academy) tiene derecho a llevar a los tribunales la cuestión de la protección de las obras clásicas. Representantes de la Academia dijeron a Svensk Bokhandel que siguen el caso."
+                "x": "Por otra parte, la Agencia de Asuntos Culturales y el Ministerio de Economía, Comercio e Industria han solicitado para el próximo año un presupuesto conjunto de más de 250 mil millones de yenes, que incluye subvenciones a editoriales individuales. Las recomendaciones del consejo deben entregarse al ministro de Finanzas antes de diciembre."
               }
             ]
           }
@@ -1069,241 +899,311 @@
       }
     },
     {
-      "id": "books-gebru-deep-unlearning",
+      "id": "zachary-mason",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "게브루 회고록이\n경고한 AI의 한계",
-      "body": "DAIR 창립자 게브루가 Deep Unlearning에서 AI의 한계를 짚었다.",
-      "mini_headline": "게브루 회고록, AI를 말하다",
+      "headline": "Zachary Mason,\n기계 속 유령을 좇다",
+      "body": "과학자였던 Zachary Mason은 인간과 지각 있는 AI를 소설로 그린다.",
+      "mini_headline": "Zachary Mason의 AI 소설",
       "tool": "Books",
       "source": "Publishers Weekly",
-      "url": "https://www.publishersweekly.com/9781668093078",
+      "url": "https://www.publishersweekly.com/pw/by-topic/authors/profiles/article/101582-zachary-mason-chases-the-ghost-in-the-machine.html",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.publishersweekly.com/cover/9781668093078",
-            "cap": "Deep Unlearning: The Rise of AI and the Radicalization of a Tech Idealist — Timnit Gebru. One Signal, $30 (320p)"
+            "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132320-1.PNG"
           },
           {
             "t": "p",
-            "x": "컴퓨터과학자이자 Distributed Artificial Intelligence Research Institute(DAIR) 창립자인 Gebru는 강렬한 데뷔작에서 테크 업계에서 일한 흑인(Black) 여성의 경험을 풀어놓으며 AI의 한계와 업계에 만연한 차별을 경고한다. 1998년 가족과 함께 에티오피아·에리트레아(Ethiopian-Eritrean) 전쟁을 피해 떠난 Gebru는 십대에 U.S.(미국) 땅을 밟았다. Boston의 고등학교에서 수학과 과학을 좋아했지만, 그를 깔보고 성장을 돕지 않는 인종차별적 교사들과 부딪혔다. Stanford 대학 시절에도, Apple, Google, Microsoft 등 테크 기업에서 일할 때도 같은 일이 되풀이됐다."
+            "x": "고도로 발달한 AI가 실은 인류를 섬기도록 설계됐다면, 그 AI는 인류를 도울까 해칠까. Zachary Mason의 네 번째 책이자 새 단편집 Fabrications가 묻는 질문이다. 그는 몇 년 전까지 테크 스타트업에서 일한 컴퓨터 과학자다."
           },
           {
             "t": "p",
-            "x": "2020년 그는 대규모 언어 모델의 환경 비용과 학습 과정에 스민 편향 등을 지적한 논문을 낸 뒤 Google의 Ethical AI 팀장 자리에서 해고됐다. 책 곳곳에서 Gebru는 유색인을 유독 자주 잘못 알아보는 결함투성이 얼굴 인식 시스템과, 혐오 발언을 퍼뜨리는 LLMs가 사회에 끼치는 영향을 짚는다. 테크 업계가 이윤보다 삶의 여건 개선에 마음을 쏟는다면 훨씬 나은 미래가 가능하다는 게 그의 주장이다. AI 윤리 논쟁에 값진 직접 경험과 단호한 도덕적 명료함을 보태는 책으로, 널리 읽힐 만하다. (Feb.)"
+            "x": "Mason은 언젠가(“아마 다섯 해에서 50년 사이”) 컴퓨터 덕에 인간이 마음의 작동 방식을 이해하게 되리라 믿는다. 바로 거기에 “그럴듯하게 사고라 부를 만한” AI의 열쇠가 있다고 본다. 데뷔작 The Lost Books of the Odyssey는 2010년 FSG에서 나와 베스트셀러가 됐다."
+          },
+          {
+            "t": "p",
+            "x": "Fabrications를 사들인 Grove의 Peter Blackstock은 이 책을 Ted Chiang의 과학소설에 견준다. “Ouroboros”에서는 세상을 떠난 억만장자의 AI 비서가 주인의 죽음을 숨긴 채 그를 사칭한다. “Transitional”에서는 죽은 남자의 모습을 본뜬 로봇이 슬픔에 빠진 딸이 다시 일어서도록 돕고, “Lamina”에서는 AI가 치매 환자의 기억을 보조한다."
+          },
+          {
+            "t": "p",
+            "x": "“저는 그저 사물을 있는 그대로, 그리고 앞으로 그럴 수 있는 모습대로 보고, AI가 우리 삶에 어떻게 얽혀 들어갈지 그 가능성을 찾으려는 것뿐입니다.” Mason의 말이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Timnit Gebru's memoir warns\nabout the shortcomings of AI",
-          "body": "In Deep Unlearning, DAIR founder Timnit Gebru recounts her years in tech and warns about the shortcomings of AI.",
-          "mini_headline": "Gebru's AI memoir",
+          "headline": "Zachary Mason chases\nthe ghost in the machine",
+          "body": "Zachary Mason, a computer-scientist novelist, writes speculative stories about humans and sentient AI.",
+          "mini_headline": "Zachary Mason's AI stories",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/cover/9781668093078",
-                "cap": "Deep Unlearning: The Rise of AI and the Radicalization of a Tech Idealist — Timnit Gebru. One Signal, $30 (320p)"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132320-1.PNG"
               },
               {
                 "t": "p",
-                "x": "Gebru, a computer scientist and founder of the Distributed Artificial Intelligence Research Institute, recounts her experience as a Black woman working in tech in this potent debut warning about the shortcomings of AI and rampant discrimination throughout the industry. After fleeing the Ethiopian-Eritrean war with her family in 1998, Gebru arrived in the U.S. as a teenager. At her Boston high school, she loved math and science but encountered racist teachers who talked down to her and neglected to foster her growth. A similar story played out in college at Stanford and her jobs at tech companies including Apple, Google, and Microsoft."
+                "x": "What if advanced AI is actually designed to serve the human race? Would it help or hurt humanity? These are some of the questions posed in Fabrications, the new story collection and fourth book from Zachary Mason, a computer scientist who worked for tech startups until a few years ago."
               },
               {
                 "t": "p",
-                "x": "In 2020, she was fired from her role as head of Google’s Ethical AI team after releasing a paper discussing concerns about large language models, including their environmental costs and the biases inherent in their training. Throughout, Gebru highlights the societal impacts of flawed facial recognition systems that disproportionately misidentify people of color and LLMs that perpetuate hate speech. A far better future could be achieved, she asserts, if the tech industry cared more about improving living conditions than making profits. Gebru brings valuable firsthand experience and a forceful moral clarity to debates about the ethics of AI. This is worthy of widespread attention. (Feb.)"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Timnit Gebruの\n回顧録、AIの欠点を警告",
-          "body": "DAIRのTimnit GebruがDeep UnlearningでAIの欠点を説く。",
-          "mini_headline": "GebruのAI回顧録",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.publishersweekly.com/cover/9781668093078",
-                "cap": "Deep Unlearning: The Rise of AI and the Radicalization of a Tech Idealist — Timnit Gebru. One Signal, $30 (320p)"
+                "x": "Mason believes that at some point (“probably somewhere between five years and 50”), computers will help humans understand how the mind works, the key to AI that “could plausibly be called thinking.” His debut, The Lost Books of the Odyssey, became a bestseller after FSG published it in 2010."
               },
               {
                 "t": "p",
-                "x": "コンピューター科学者でDistributed Artificial Intelligence Research Institute(分散型人工知能研究所)の創設者でもあるGebruは、この力強いデビュー作で、テック業界で働く黒人女性としての経験を語り、AIの欠点と業界全体にはびこる差別に警鐘を鳴らす。1998年に家族とともにEthiopian-Eritrean戦争(エチオピア・エリトリア戦争)を逃れたGebruは、十代でU.S.(米国)に渡った。Bostonの高校では数学と科学を愛したが、彼女を見下し、成長を後押ししない人種差別的な教師たちに出会った。同様のことはStanfordでの大学時代や、Apple、Google、Microsoftといったテック企業での仕事でも繰り返された。"
+                "x": "Grove’s Peter Blackstock, who acquired Fabrications, compares it to Ted Chiang’s science fiction. In “Ouroboros,” a late billionaire’s AI assistant hides his death and impersonates him; in “Transitional,” a robot made in a dead man’s image helps his grieving daughter move on; in “Lamina,” AI serves as a memory aid for people with dementia."
               },
               {
                 "t": "p",
-                "x": "2020年、大規模言語モデルの環境コストや学習に内在するバイアスなどへの懸念を論じた論文を発表した後、彼女はGoogleのEthical AIチームのリーダー職を解雇された。全編を通じてGebruは、有色人種を不均衡に誤認識する欠陥のある顔認識システムや、ヘイトスピーチを助長するLLMsが社会に及ぼす影響を浮き彫りにする。テック業界が利益よりも生活環境の改善を重視すれば、はるかに良い未来を実現できると彼女は主張する。Gebruは貴重な実体験と力強い道徳的明晰さをAI倫理の議論にもたらしている。広く注目されるに値する一冊だ。(Feb.)"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Timnit Gebru的\n回忆录警示AI缺陷",
-          "body": "DAIR创始人Timnit Gebru在Deep Unlearning中警示AI缺陷。",
-          "mini_headline": "Gebru的AI回忆录",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.publishersweekly.com/cover/9781668093078",
-                "cap": "Deep Unlearning: The Rise of AI and the Radicalization of a Tech Idealist — Timnit Gebru. One Signal, $30 (320p)"
-              },
-              {
-                "t": "p",
-                "x": "计算机科学家、Distributed Artificial Intelligence Research Institute(分布式人工智能研究所)创始人Gebru在这部有力的处女作中,讲述了自己作为黑人女性在科技行业工作的经历,警示AI的缺陷以及整个行业普遍存在的歧视。1998年,Gebru随家人逃离Ethiopian-Eritrean战争(埃塞俄比亚-厄立特里亚战争),少年时来到U.S.(美国)。在Boston的高中,她热爱数学和科学,却遇到了居高临下对待她、不愿培养她成长的种族主义教师。类似的经历在她就读Stanford大学期间,以及在Apple、Google和Microsoft等科技公司工作时再次上演。"
-              },
-              {
-                "t": "p",
-                "x": "2020年,她发表了一篇讨论大型语言模型相关担忧(包括其环境成本和训练中固有的偏见)的论文后,被解除了Google Ethical AI团队负责人的职务。全书中,Gebru着重指出存在缺陷、对有色人种误识别比例过高的人脸识别系统,以及助长仇恨言论的LLMs所带来的社会影响。她断言,如果科技行业更关心改善生活条件而非追逐利润,就能实现好得多的未来。Gebru为AI伦理之争带来了宝贵的亲身经验和有力的道德清晰度。本书值得广泛关注。(Feb.)"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Las memorias de Timnit Gebru\nalertan de los fallos de la AI",
-          "body": "En Deep Unlearning, Timnit Gebru, fundadora de DAIR, recuerda sus años en tecnología y alerta de fallos de la AI.",
-          "mini_headline": "Las memorias de Gebru sobre la AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.publishersweekly.com/cover/9781668093078",
-                "cap": "Deep Unlearning: The Rise of AI and the Radicalization of a Tech Idealist — Timnit Gebru. One Signal, $30 (320p)"
-              },
-              {
-                "t": "p",
-                "x": "Gebru, informática y fundadora del Distributed Artificial Intelligence Research Institute, relata su experiencia como mujer negra en la industria tecnológica en este potente debut que advierte sobre las carencias de la AI y la discriminación generalizada en todo el sector. Tras huir con su familia de la guerra Ethiopian-Eritrean (entre Etiopía y Eritrea) en 1998, Gebru llegó a U.S. (Estados Unidos) siendo adolescente. En su escuela secundaria de Boston le encantaban las matemáticas y las ciencias, pero se topó con profesores racistas que la trataban con condescendencia y no fomentaron su desarrollo. Una historia similar se repitió en la universidad, en Stanford, y en sus empleos en empresas tecnológicas como Apple, Google y Microsoft."
-              },
-              {
-                "t": "p",
-                "x": "En 2020 fue despedida de su puesto como jefa del equipo de Ethical AI de Google tras publicar un artículo que exponía preocupaciones sobre los grandes modelos de lenguaje, entre ellas sus costos ambientales y los sesgos inherentes a su entrenamiento. A lo largo del libro, Gebru destaca el impacto social de los sistemas de reconocimiento facial defectuosos, que identifican erróneamente de forma desproporcionada a personas de color, y de los LLMs que perpetúan el discurso de odio. Sostiene que se podría lograr un futuro mucho mejor si la industria tecnológica se preocupara más por mejorar las condiciones de vida que por obtener beneficios. Gebru aporta una valiosa experiencia de primera mano y una contundente claridad moral a los debates sobre la ética de la AI. Merece una amplia atención. (Feb.)"
+                "x": "“I’m just trying to see things as they are, and as they might be, and find the possibilities of how AI will sort of twine around our lives,” Mason says."
               }
             ]
           }
         },
         "ko": {
-          "headline": "게브루 회고록이\n경고한 AI의 한계",
-          "body": "DAIR 창립자 게브루가 Deep Unlearning에서 AI의 한계를 짚었다.",
-          "mini_headline": "게브루 회고록, AI를 말하다",
+          "headline": "Zachary Mason,\n기계 속 유령을 좇다",
+          "body": "과학자였던 Zachary Mason은 인간과 지각 있는 AI를 소설로 그린다.",
+          "mini_headline": "Zachary Mason의 AI 소설",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/cover/9781668093078",
-                "cap": "Deep Unlearning: The Rise of AI and the Radicalization of a Tech Idealist — Timnit Gebru. One Signal, $30 (320p)"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132320-1.PNG"
               },
               {
                 "t": "p",
-                "x": "컴퓨터과학자이자 Distributed Artificial Intelligence Research Institute(DAIR) 창립자인 Gebru는 강렬한 데뷔작에서 테크 업계에서 일한 흑인(Black) 여성의 경험을 풀어놓으며 AI의 한계와 업계에 만연한 차별을 경고한다. 1998년 가족과 함께 에티오피아·에리트레아(Ethiopian-Eritrean) 전쟁을 피해 떠난 Gebru는 십대에 U.S.(미국) 땅을 밟았다. Boston의 고등학교에서 수학과 과학을 좋아했지만, 그를 깔보고 성장을 돕지 않는 인종차별적 교사들과 부딪혔다. Stanford 대학 시절에도, Apple, Google, Microsoft 등 테크 기업에서 일할 때도 같은 일이 되풀이됐다."
+                "x": "고도로 발달한 AI가 실은 인류를 섬기도록 설계됐다면, 그 AI는 인류를 도울까 해칠까. Zachary Mason의 네 번째 책이자 새 단편집 Fabrications가 묻는 질문이다. 그는 몇 년 전까지 테크 스타트업에서 일한 컴퓨터 과학자다."
               },
               {
                 "t": "p",
-                "x": "2020년 그는 대규모 언어 모델의 환경 비용과 학습 과정에 스민 편향 등을 지적한 논문을 낸 뒤 Google의 Ethical AI 팀장 자리에서 해고됐다. 책 곳곳에서 Gebru는 유색인을 유독 자주 잘못 알아보는 결함투성이 얼굴 인식 시스템과, 혐오 발언을 퍼뜨리는 LLMs가 사회에 끼치는 영향을 짚는다. 테크 업계가 이윤보다 삶의 여건 개선에 마음을 쏟는다면 훨씬 나은 미래가 가능하다는 게 그의 주장이다. AI 윤리 논쟁에 값진 직접 경험과 단호한 도덕적 명료함을 보태는 책으로, 널리 읽힐 만하다. (Feb.)"
+                "x": "Mason은 언젠가(“아마 다섯 해에서 50년 사이”) 컴퓨터 덕에 인간이 마음의 작동 방식을 이해하게 되리라 믿는다. 바로 거기에 “그럴듯하게 사고라 부를 만한” AI의 열쇠가 있다고 본다. 데뷔작 The Lost Books of the Odyssey는 2010년 FSG에서 나와 베스트셀러가 됐다."
+              },
+              {
+                "t": "p",
+                "x": "Fabrications를 사들인 Grove의 Peter Blackstock은 이 책을 Ted Chiang의 과학소설에 견준다. “Ouroboros”에서는 세상을 떠난 억만장자의 AI 비서가 주인의 죽음을 숨긴 채 그를 사칭한다. “Transitional”에서는 죽은 남자의 모습을 본뜬 로봇이 슬픔에 빠진 딸이 다시 일어서도록 돕고, “Lamina”에서는 AI가 치매 환자의 기억을 보조한다."
+              },
+              {
+                "t": "p",
+                "x": "“저는 그저 사물을 있는 그대로, 그리고 앞으로 그럴 수 있는 모습대로 보고, AI가 우리 삶에 어떻게 얽혀 들어갈지 그 가능성을 찾으려는 것뿐입니다.” Mason의 말이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Zachary Mason、\n機械の中の幽霊を追う",
+          "body": "科学者出身の作家Zachary Masonは、人間と意識を持つAIの思弁的な物語を書く。",
+          "mini_headline": "Zachary MasonのAI小説",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132320-1.PNG"
+              },
+              {
+                "t": "p",
+                "x": "高度なAIが、実は人類に奉仕するよう設計されていたら？それは人類を助けるのか、害するのか？こうした問いを投げかけるのが、数年前までテック系スタートアップで働いていたコンピューター科学者Zachary Masonの四冊目の著書となる新短編集『Fabrications』だ。"
+              },
+              {
+                "t": "p",
+                "x": "Masonは、いつか（「おそらく五年から50年のうちに」）コンピューターが人間による心の仕組みの理解を助け、それが「もっともらしく思考と呼べる」AIへの鍵になると考えている。デビュー作『The Lost Books of the Odyssey』は2010年にFSGから刊行され、ベストセラーとなった。"
+              },
+              {
+                "t": "p",
+                "x": "『Fabrications』を獲得したGroveのPeter Blackstockは、本作をTed Chiangのサイエンス・フィクションになぞらえる。「Ouroboros」では亡くなった億万長者のAIアシスタントが彼の死を隠して本人になりすまし、「Transitional」では死んだ男性の姿を模したロボットが悲しみに暮れる娘の前進を助け、「Lamina」ではAIが認知症の人々の記憶の補助として働く。"
+              },
+              {
+                "t": "p",
+                "x": "「私はただ、物事をあるがままに、そしてあり得る姿として見つめ、AIが私たちの生活にどう絡みついていくのか、その可能性を探ろうとしているだけです」とMasonは語る。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Zachary Mason\n追寻机器中的幽灵",
+          "body": "身为计算机科学家的小说家Zachary Mason，书写关于人类与有感知AI的思辨故事。",
+          "mini_headline": "Zachary Mason的AI故事",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132320-1.PNG"
+              },
+              {
+                "t": "p",
+                "x": "如果先进的AI其实是为服务人类而设计的呢？它会帮助人类还是伤害人类？这些正是新短篇小说集《Fabrications》提出的部分问题。这是Zachary Mason的第四本书，他是一位计算机科学家，几年前还在科技初创公司工作。"
+              },
+              {
+                "t": "p",
+                "x": "Mason相信，在某个时刻（“大概在五年到50年之间”），计算机将帮助人类理解心智如何运作，而这正是实现“可以合理地称为思考”的AI的关键。他的处女作《The Lost Books of the Odyssey》于2010年由FSG出版后成为畅销书。"
+              },
+              {
+                "t": "p",
+                "x": "买下《Fabrications》的Grove的Peter Blackstock将其与Ted Chiang的科幻小说相提并论。在《Ouroboros》中，一位已故亿万富翁的AI助手隐瞒了他的死讯并冒充他；在《Transitional》中，一个按死者形象打造的机器人帮助他悲伤的女儿走出阴影；在《Lamina》中，AI成为失智症患者的记忆辅助。"
+              },
+              {
+                "t": "p",
+                "x": "“我只是想看清事物的本来面目和可能的样子，并找出AI将如何缠绕进我们生活的种种可能。”Mason说。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Zachary Mason persigue\nal fantasma en la máquina",
+          "body": "Zachary Mason, novelista y científico informático, escribe relatos especulativos sobre humanos y AI con conciencia.",
+          "mini_headline": "Los relatos de AI de Zachary Mason",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132320-1.PNG"
+              },
+              {
+                "t": "p",
+                "x": "¿Y si una AI avanzada estuviera diseñada en realidad para servir a la humanidad? ¿La ayudaría o la perjudicaría? Son algunas de las preguntas que plantea Fabrications, la nueva colección de relatos y cuarto libro de Zachary Mason, un científico informático que trabajó para startups tecnológicas hasta hace unos años."
+              },
+              {
+                "t": "p",
+                "x": "Mason cree que en algún momento (“probablemente entre cinco y 50 años”), las computadoras ayudarán a los humanos a entender cómo funciona la mente, la clave para una AI que “podría llamarse pensamiento de forma plausible”. Su debut, The Lost Books of the Odyssey, se convirtió en un éxito de ventas después de que FSG lo publicara en 2010."
+              },
+              {
+                "t": "p",
+                "x": "Peter Blackstock, de Grove, quien adquirió Fabrications, lo compara con la ciencia ficción de Ted Chiang. En “Ouroboros”, el asistente de AI de un multimillonario fallecido oculta su muerte y se hace pasar por él; en “Transitional”, un robot creado a imagen de un hombre muerto ayuda a su hija en duelo a seguir adelante; en “Lamina”, la AI sirve como ayuda de memoria para personas con demencia."
+              },
+              {
+                "t": "p",
+                "x": "“Solo intento ver las cosas como son, y como podrían ser, y encontrar las posibilidades de cómo la AI se irá entrelazando con nuestras vidas”, dice Mason."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ja": {
-          "headline": "Timnit Gebruの\n回顧録、AIの欠点を警告",
-          "body": "DAIRのTimnit GebruがDeep UnlearningでAIの欠点を説く。",
-          "mini_headline": "GebruのAI回顧録",
+        "ko": {
+          "headline": "Zachary Mason,\n기계 속 유령을 좇다",
+          "body": "과학자 출신 Zachary Mason은 인간과 지각 있는 AI의 사변 소설을 쓴다.",
+          "mini_headline": "Zachary Mason의 AI 소설",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/cover/9781668093078",
-                "cap": "Deep Unlearning: The Rise of AI and the Radicalization of a Tech Idealist — Timnit Gebru. One Signal, $30 (320p)"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132320-1.PNG"
               },
               {
                 "t": "p",
-                "x": "コンピューター科学者でDistributed Artificial Intelligence Research Institute(分散型人工知能研究所)の創設者でもあるGebruは、この力強いデビュー作で、テック業界で働く黒人女性としての経験を語り、AIの欠点と業界全体にはびこる差別に警鐘を鳴らす。1998年に家族とともにEthiopian-Eritrean戦争(エチオピア・エリトリア戦争)を逃れたGebruは、十代でU.S.(米国)に渡った。Bostonの高校では数学と科学を愛したが、彼女を見下し、成長を後押ししない人種差別的な教師たちに出会った。同様のことはStanfordでの大学時代や、Apple、Google、Microsoftといったテック企業での仕事でも繰り返された。"
+                "x": "고도화된 AI가 실은 인류를 섬기도록 설계됐다면? 그것은 인류에게 도움이 될까, 해가 될까? Zachary Mason의 네 번째 책이자 새 단편집 Fabrications가 던지는 질문들이다. 그는 몇 년 전까지 테크 스타트업에서 일한 컴퓨터 과학자다."
               },
               {
                 "t": "p",
-                "x": "2020年、大規模言語モデルの環境コストや学習に内在するバイアスなどへの懸念を論じた論文を発表した後、彼女はGoogleのEthical AIチームのリーダー職を解雇された。全編を通じてGebruは、有色人種を不均衡に誤認識する欠陥のある顔認識システムや、ヘイトスピーチを助長するLLMsが社会に及ぼす影響を浮き彫りにする。テック業界が利益よりも生活環境の改善を重視すれば、はるかに良い未来を実現できると彼女は主張する。Gebruは貴重な実体験と力強い道徳的明晰さをAI倫理の議論にもたらしている。広く注目されるに値する一冊だ。(Feb.)"
+                "x": "Mason은 언젠가(“아마 다섯 해에서 50년 사이”) 컴퓨터가 인간이 마음의 작동 방식을 이해하도록 도울 것이라고 믿는다. 그것이 “그럴듯하게 사고라 부를 만한” AI의 열쇠라는 것이다. 그의 데뷔작 The Lost Books of the Odyssey는 2010년 FSG가 출간한 뒤 베스트셀러가 됐다."
+              },
+              {
+                "t": "p",
+                "x": "Fabrications를 사들인 Grove의 Peter Blackstock은 이 책을 Ted Chiang의 과학소설에 견준다. “Ouroboros”에서는 세상을 떠난 억만장자의 AI 비서가 그의 죽음을 숨기고 그를 사칭하며, “Transitional”에서는 죽은 남자의 모습으로 만든 로봇이 슬픔에 잠긴 딸이 앞으로 나아가도록 돕고, “Lamina”에서는 AI가 치매 환자의 기억 보조 장치 역할을 한다."
+              },
+              {
+                "t": "p",
+                "x": "“저는 그저 사물을 있는 그대로, 그리고 앞으로 그럴 수 있는 모습대로 보고, AI가 우리 삶에 어떻게 얽혀 들어갈지 그 가능성을 찾으려는 것뿐입니다.” Mason의 말이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Zachary Mason、\n機械の中の幽霊を追う",
+          "body": "科学者出身の作家Zachary Masonは、人間と意識を持つAIの思弁的な物語を書く。",
+          "mini_headline": "Zachary MasonのAI小説",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132320-1.PNG"
+              },
+              {
+                "t": "p",
+                "x": "高度なAIが、実は人類に奉仕するよう設計されていたら？それは人類を助けるのか、害するのか？こうした問いを投げかけるのが、数年前までテック系スタートアップで働いていたコンピューター科学者Zachary Masonの四冊目の著書となる新短編集『Fabrications』だ。"
+              },
+              {
+                "t": "p",
+                "x": "Masonは、いつか（「おそらく五年から50年のうちに」）コンピューターが人間による心の仕組みの理解を助け、それが「もっともらしく思考と呼べる」AIへの鍵になると考えている。デビュー作『The Lost Books of the Odyssey』は2010年にFSGから刊行され、ベストセラーとなった。"
+              },
+              {
+                "t": "p",
+                "x": "『Fabrications』を獲得したGroveのPeter Blackstockは、本作をTed Chiangのサイエンス・フィクションになぞらえる。「Ouroboros」では亡くなった億万長者のAIアシスタントが彼の死を隠して本人になりすまし、「Transitional」では死んだ男性の姿を模したロボットが悲しみに暮れる娘の前進を助け、「Lamina」ではAIが認知症の人々の記憶の補助として働く。"
+              },
+              {
+                "t": "p",
+                "x": "「私はただ、物事をあるがままに、そしてあり得る姿として見つめ、AIが私たちの生活にどう絡みついていくのか、その可能性を探ろうとしているだけです」とMasonは語る。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Timnit Gebru的\n回忆录警示AI缺陷",
-          "body": "DAIR创始人Timnit Gebru在Deep Unlearning中警示AI缺陷。",
-          "mini_headline": "Gebru的AI回忆录",
+          "headline": "Zachary Mason\n追寻机器中的幽灵",
+          "body": "身为计算机科学家的小说家Zachary Mason，书写关于人类与有感知AI的思辨故事。",
+          "mini_headline": "Zachary Mason的AI故事",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/cover/9781668093078",
-                "cap": "Deep Unlearning: The Rise of AI and the Radicalization of a Tech Idealist — Timnit Gebru. One Signal, $30 (320p)"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132320-1.PNG"
               },
               {
                 "t": "p",
-                "x": "计算机科学家、Distributed Artificial Intelligence Research Institute(分布式人工智能研究所)创始人Gebru在这部有力的处女作中,讲述了自己作为黑人女性在科技行业工作的经历,警示AI的缺陷以及整个行业普遍存在的歧视。1998年,Gebru随家人逃离Ethiopian-Eritrean战争(埃塞俄比亚-厄立特里亚战争),少年时来到U.S.(美国)。在Boston的高中,她热爱数学和科学,却遇到了居高临下对待她、不愿培养她成长的种族主义教师。类似的经历在她就读Stanford大学期间,以及在Apple、Google和Microsoft等科技公司工作时再次上演。"
+                "x": "如果先进的AI其实是为服务人类而设计的呢？它会帮助人类还是伤害人类？这些正是新短篇小说集《Fabrications》提出的部分问题。这是Zachary Mason的第四本书，他是一位计算机科学家，几年前还在科技初创公司工作。"
               },
               {
                 "t": "p",
-                "x": "2020年,她发表了一篇讨论大型语言模型相关担忧(包括其环境成本和训练中固有的偏见)的论文后,被解除了Google Ethical AI团队负责人的职务。全书中,Gebru着重指出存在缺陷、对有色人种误识别比例过高的人脸识别系统,以及助长仇恨言论的LLMs所带来的社会影响。她断言,如果科技行业更关心改善生活条件而非追逐利润,就能实现好得多的未来。Gebru为AI伦理之争带来了宝贵的亲身经验和有力的道德清晰度。本书值得广泛关注。(Feb.)"
+                "x": "Mason相信，在某个时刻（“大概在五年到50年之间”），计算机将帮助人类理解心智如何运作，而这正是实现“可以合理地称为思考”的AI的关键。他的处女作《The Lost Books of the Odyssey》于2010年由FSG出版后成为畅销书。"
+              },
+              {
+                "t": "p",
+                "x": "买下《Fabrications》的Grove的Peter Blackstock将其与Ted Chiang的科幻小说相提并论。在《Ouroboros》中，一位已故亿万富翁的AI助手隐瞒了他的死讯并冒充他；在《Transitional》中，一个按死者形象打造的机器人帮助他悲伤的女儿走出阴影；在《Lamina》中，AI成为失智症患者的记忆辅助。"
+              },
+              {
+                "t": "p",
+                "x": "“我只是想看清事物的本来面目和可能的样子，并找出AI将如何缠绕进我们生活的种种可能。”Mason说。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las memorias de Timnit Gebru\nalertan de los fallos de la AI",
-          "body": "En Deep Unlearning, Timnit Gebru, fundadora de DAIR, recuerda sus años en tecnología y alerta de fallos de la AI.",
-          "mini_headline": "Las memorias de Gebru sobre la AI",
+          "headline": "Zachary Mason persigue\nal fantasma en la máquina",
+          "body": "Zachary Mason, novelista y científico informático, escribe relatos especulativos sobre humanos y AI con conciencia.",
+          "mini_headline": "Los relatos de AI de Zachary Mason",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/cover/9781668093078",
-                "cap": "Deep Unlearning: The Rise of AI and the Radicalization of a Tech Idealist — Timnit Gebru. One Signal, $30 (320p)"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132320-1.PNG"
               },
               {
                 "t": "p",
-                "x": "Gebru, informática y fundadora del Distributed Artificial Intelligence Research Institute, relata su experiencia como mujer negra en la industria tecnológica en este potente debut que advierte sobre las carencias de la AI y la discriminación generalizada en todo el sector. Tras huir con su familia de la guerra Ethiopian-Eritrean (entre Etiopía y Eritrea) en 1998, Gebru llegó a U.S. (Estados Unidos) siendo adolescente. En su escuela secundaria de Boston le encantaban las matemáticas y las ciencias, pero se topó con profesores racistas que la trataban con condescendencia y no fomentaron su desarrollo. Una historia similar se repitió en la universidad, en Stanford, y en sus empleos en empresas tecnológicas como Apple, Google y Microsoft."
+                "x": "¿Y si una AI avanzada estuviera diseñada en realidad para servir a la humanidad? ¿La ayudaría o la perjudicaría? Son algunas de las preguntas que plantea Fabrications, la nueva colección de relatos y cuarto libro de Zachary Mason, un científico informático que trabajó para startups tecnológicas hasta hace unos años."
               },
               {
                 "t": "p",
-                "x": "En 2020 fue despedida de su puesto como jefa del equipo de Ethical AI de Google tras publicar un artículo que exponía preocupaciones sobre los grandes modelos de lenguaje, entre ellas sus costos ambientales y los sesgos inherentes a su entrenamiento. A lo largo del libro, Gebru destaca el impacto social de los sistemas de reconocimiento facial defectuosos, que identifican erróneamente de forma desproporcionada a personas de color, y de los LLMs que perpetúan el discurso de odio. Sostiene que se podría lograr un futuro mucho mejor si la industria tecnológica se preocupara más por mejorar las condiciones de vida que por obtener beneficios. Gebru aporta una valiosa experiencia de primera mano y una contundente claridad moral a los debates sobre la ética de la AI. Merece una amplia atención. (Feb.)"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "팀닛 게브루 회고록,\nAI의 한계를 경고하다",
-          "body": "DAIR 창립자 게브루가 Deep Unlearning에서 AI의 한계를 짚는다.",
-          "mini_headline": "게브루의 AI 회고록",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.publishersweekly.com/cover/9781668093078",
-                "cap": "Deep Unlearning: The Rise of AI and the Radicalization of a Tech Idealist — Timnit Gebru. One Signal, $30 (320p)"
+                "x": "Mason cree que en algún momento (“probablemente entre cinco y 50 años”), las computadoras ayudarán a los humanos a entender cómo funciona la mente, la clave para una AI que “podría llamarse pensamiento de forma plausible”. Su debut, The Lost Books of the Odyssey, se convirtió en un éxito de ventas después de que FSG lo publicara en 2010."
               },
               {
                 "t": "p",
-                "x": "컴퓨터과학자이자 Distributed Artificial Intelligence Research Institute(DAIR)의 창립자인 Gebru는 이 강렬한 데뷔작에서 테크 업계에서 일한 흑인(Black) 여성으로서의 경험을 들려주며, AI의 한계와 업계 전반에 만연한 차별을 경고한다. 1998년 가족과 함께 에티오피아·에리트레아(Ethiopian-Eritrean) 전쟁을 피해 떠난 Gebru는 십대 시절 U.S.(미국)에 도착했다. Boston의 고등학교에서 그는 수학과 과학을 좋아했지만, 자신을 깔보고 성장을 북돋우는 일을 외면한 인종차별적 교사들과 마주했다. 비슷한 일은 Stanford 대학 시절에도, Apple, Google, Microsoft 등 테크 기업에서 일할 때도 되풀이됐다."
+                "x": "Peter Blackstock, de Grove, quien adquirió Fabrications, lo compara con la ciencia ficción de Ted Chiang. En “Ouroboros”, el asistente de AI de un multimillonario fallecido oculta su muerte y se hace pasar por él; en “Transitional”, un robot creado a imagen de un hombre muerto ayuda a su hija en duelo a seguir adelante; en “Lamina”, la AI sirve como ayuda de memoria para personas con demencia."
               },
               {
                 "t": "p",
-                "x": "2020년 그는 대규모 언어 모델의 환경 비용과 학습에 내재한 편향 등 우려를 다룬 논문을 발표한 뒤 Google의 Ethical AI 팀장 자리에서 해고됐다. 책 전반에서 Gebru는 유색인을 불균형하게 잘못 식별하는 결함 있는 얼굴 인식 시스템과 혐오 발언을 확산시키는 LLMs가 사회에 미치는 영향을 조명한다. 테크 업계가 이윤보다 삶의 여건 개선에 더 관심을 둔다면 훨씬 나은 미래를 이룰 수 있다고 그는 주장한다. Gebru는 AI 윤리 논쟁에 값진 직접 경험과 단호한 도덕적 명료함을 더한다. 널리 주목받을 만한 책이다. (Feb.)"
+                "x": "“Solo intento ver las cosas como son, y como podrían ser, y encontrar las posibilidades de cómo la AI se irá entrelazando con nuestras vidas”, dice Mason."
               }
             ]
           }
@@ -1311,401 +1211,361 @@
       }
     },
     {
-      "id": "books-webtoon-forum",
-      "source_lang": "ko",
+      "id": "ai-classroom",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 시대 웹툰 작가들\n지속 창작 해법 모색",
-      "body": "만화가협회가 웹툰포럼에서 생성형 AI 시대 작가의 지속 가능한 창작을 논의했다.",
-      "mini_headline": "웹툰, AI 해법 모색",
+      "headline": "AI가 못 바꾸는\n분리된 교실",
+      "body": "Kamau Bobb은 학교 AI 도구로 미국의 인종 분리 교육이 안 바뀐다고 본다.",
+      "mini_headline": "AI와 분리된 교실",
       "tool": "Books",
-      "source": "노컷뉴스",
-      "url": "https://www.nocutnews.co.kr/news/6597373",
+      "source": "Literary Hub",
+      "url": "https://lithub.com/how-ai-changes-the-fundamental-structure-of-the-classroom-especially-the-segregated-ones/",
       "accent": "#eb367f",
       "motif": "swatch",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://file2.nocutnews.co.kr/newsroom/image/2026/10/26/202610261829231128_0.jpg",
-            "cap": "한국만화가협회 제공"
+            "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/chat-gpt-scaled.jpg"
           },
           {
             "t": "p",
-            "x": "한국만화가협회는 지난 23일 서울 마포구 청년문화공간JU 다리소극장에서 제6차 웹툰포럼을 열고 올해 일정을 마무리했다고 26일 밝혔다. 올해 포럼에서는 인공지능(AI) 기술과 창작자 권익, 지속 가능한 연재 환경 등을 논의했다."
+            "x": "Kamau Bobb이 교육 현장의 인공지능과 미국의 인종 카스트 제도를 짚는다. 건국 250주년을 맞은 지금 그는 교육에서 기술과 인종적 반발이 맞물리는 장면을 본다. 계산기도 태블릿도 노트북도 변화의 촉매라며 팔렸다. 그런데 미국 고등학교 졸업반 학생 중 기초 문해력을 갖춘 비율은 40퍼센트가 안 되고, 인종 간 격차는 좀처럼 줄지 않는다."
           },
           {
             "t": "p",
-            "x": "마지막 포럼에서 가나라 작가는 장기 연재를 위한 작업 습관과 창작 방법을 소개했으며, 로밋 작가는 대중성과 작품의 개성 사이에서 겪는 고민을 나눴다. 돌배 작가는 3차원(3D) 모델링과 생성형 AI를 웹툰 제작에 활용하는 방법을 설명했다."
+            "x": "AI-enabled 도구는 이미 무엇을 어떻게 가르칠지를 바꿔 놓았다. 하지만 미국 교육의 근본 구조를 바꾸거나 인종과 학업 성취의 상관관계를 끊는 데 이 도구가 하는 일은 무엇인가? “Advanced Placement(AP) African American Studies 교육을 금지한 주에서 운영되는, 고도로 효율적인 AI-enabled 학교는 무엇에서 효율을 제공하는가?”"
           },
           {
             "t": "p",
-            "x": "협회는 지난 3월부터 총 6차례 포럼을 열어 생성형 AI와 저작권, 사이버 괴롭힘과 작가의 정신건강, 콘텐츠 시장 변화와 창작자의 생존 전략 등을 다뤘다."
+            "x": "Bobb은 AI를 향한 경외 때문에 정의를 둘러싼 핵심 싸움에서 관심이 멀어진다고 본다. 격차를 좁히는 길은 교육 정의를 위해 드러내 놓고 헌신하는 싸움뿐이라는 주장이다."
+          },
+          {
+            "t": "img",
+            "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/the-bullwhips-algorithm-200x300.jpg",
+            "cap": "The Bullwhip’s Algorithm (Beacon Press, 2026)"
           },
           {
             "t": "p",
-            "x": "참가자 만족도 조사에서는 12개 주요 강연의 평균 유익성이 5점 만점에 4.68점으로 나타났다. 4~6차 포럼의 전반적인 만족도는 평균 4.74점이었다. 향후 다루기를 희망하는 주제로는 이야기 작법과 수익 다각화, AI 활용 등이 꼽혔다."
-          },
-          {
-            "t": "p",
-            "x": "권혁주 한국만화가협회 회장은 \"새로운 기술이 등장한다고 해서 작가들의 고민까지 대신 해결해 주는 것은 아니다\"라며 \"무엇을 그리고 어떻게 독자를 사로잡으며 다음 작품을 이어갈 것인지는 여전히 작가의 몫\"이라고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "협회는 내년에도 창작 역량 강화와 AI 시대의 제작 환경 변화, 수익 다각화, 작가 권익 등을 주제로 포럼을 이어갈 계획이다."
+            "x": "Kamau Bobb의 The Bullwhip’s Algorithm: Artificial Intelligence and America’s Racial Caste System(Beacon Press, 2026)에서 발췌했다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "AI 시대 웹툰 작가들\n지속 창작 해법 모색",
-          "body": "만화가협회가 웹툰포럼에서 생성형 AI 시대 작가의 지속 가능한 창작을 논의했다.",
-          "mini_headline": "웹툰, AI 해법 모색",
+        "en": {
+          "headline": "AI and the structure\nof segregated classrooms",
+          "body": "A book excerpt by Kamau Bobb argues AI tools in schools leave America's racial segregation in education untouched.",
+          "mini_headline": "AI and segregated classrooms",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://file2.nocutnews.co.kr/newsroom/image/2026/10/26/202610261829231128_0.jpg",
-                "cap": "한국만화가협회 제공"
+                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/chat-gpt-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "한국만화가협회는 지난 23일 서울 마포구 청년문화공간JU 다리소극장에서 제6차 웹툰포럼을 열고 올해 일정을 마무리했다고 26일 밝혔다. 올해 포럼에서는 인공지능(AI) 기술과 창작자 권익, 지속 가능한 연재 환경 등을 논의했다."
+                "x": "Kamau Bobb on artificial intelligence in education and America’s racial caste system. At the nation’s 250th anniversary, he sees a convergence of technology and racial backlash in education: calculators, tablets and laptops were all sold as catalytic, yet less than 40 percent of American twelfth graders are proficient in basic literacy, and the racial disparities are chronic."
               },
               {
                 "t": "p",
-                "x": "마지막 포럼에서 가나라 작가는 장기 연재를 위한 작업 습관과 창작 방법을 소개했으며, 로밋 작가는 대중성과 작품의 개성 사이에서 겪는 고민을 나눴다. 돌배 작가는 3차원(3D) 모델링과 생성형 AI를 웹툰 제작에 활용하는 방법을 설명했다."
+                "x": "AI-enabled tools are already transforming what is taught and how. But what do these tools do to change the fundamental structure of American education, or to break the correlation between race and academic achievement? “What does a highly efficient AI-enabled school operating in a state that has banned the teaching of Advanced Placement (AP) African American Studies offer efficiency in?”"
               },
               {
                 "t": "p",
-                "x": "협회는 지난 3월부터 총 6차례 포럼을 열어 생성형 AI와 저작권, 사이버 괴롭힘과 작가의 정신건강, 콘텐츠 시장 변화와 창작자의 생존 전략 등을 다뤘다."
+                "x": "Bobb argues the awe of AI is luring attention away from the core justice fight, and that only an explicit, committed fight for educational justice can close gaps."
+              },
+              {
+                "t": "img",
+                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/the-bullwhips-algorithm-200x300.jpg",
+                "cap": "The Bullwhip’s Algorithm (Beacon Press, 2026)"
               },
               {
                 "t": "p",
-                "x": "참가자 만족도 조사에서는 12개 주요 강연의 평균 유익성이 5점 만점에 4.68점으로 나타났다. 4~6차 포럼의 전반적인 만족도는 평균 4.74점이었다. 향후 다루기를 희망하는 주제로는 이야기 작법과 수익 다각화, AI 활용 등이 꼽혔다."
-              },
-              {
-                "t": "p",
-                "x": "권혁주 한국만화가협회 회장은 \"새로운 기술이 등장한다고 해서 작가들의 고민까지 대신 해결해 주는 것은 아니다\"라며 \"무엇을 그리고 어떻게 독자를 사로잡으며 다음 작품을 이어갈 것인지는 여전히 작가의 몫\"이라고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "협회는 내년에도 창작 역량 강화와 AI 시대의 제작 환경 변화, 수익 다각화, 작가 권익 등을 주제로 포럼을 이어갈 계획이다."
+                "x": "Excerpted from The Bullwhip’s Algorithm: Artificial Intelligence and America’s Racial Caste System by Kamau Bobb (Beacon Press, 2026)."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Webtoon artists in the AI era\nseek ways to keep creating",
-          "body": "The cartoonists' association used its Webtoon Forum to discuss sustainable creative work in the generative AI era.",
-          "mini_headline": "Webtoon seeks AI answers",
+        "ko": {
+          "headline": "AI가 못 바꾸는\n분리된 교실",
+          "body": "Kamau Bobb은 학교 AI 도구로 미국의 인종 분리 교육이 안 바뀐다고 본다.",
+          "mini_headline": "AI와 분리된 교실",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://file2.nocutnews.co.kr/newsroom/image/2026/10/26/202610261829231128_0.jpg",
-                "cap": "Courtesy of the Korea Cartoonist Association"
+                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/chat-gpt-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "The Korea Cartoonist Association said on the 26th that it held its 6th Webtoon Forum on the 23rd at the Dari Theater in the youth cultural space JU in Mapo-gu, Seoul, wrapping up this year's schedule. This year's forums discussed artificial intelligence (AI) technology, creators' rights and a sustainable serialization environment."
+                "x": "Kamau Bobb이 교육 현장의 인공지능과 미국의 인종 카스트 제도를 짚는다. 건국 250주년을 맞은 지금 그는 교육에서 기술과 인종적 반발이 맞물리는 장면을 본다. 계산기도 태블릿도 노트북도 변화의 촉매라며 팔렸다. 그런데 미국 고등학교 졸업반 학생 중 기초 문해력을 갖춘 비율은 40퍼센트가 안 되고, 인종 간 격차는 좀처럼 줄지 않는다."
               },
               {
                 "t": "p",
-                "x": "At the final forum, artist Ganara shared work habits and creative methods for long-running serialization, and artist Romit talked about the struggle between mass appeal and a work's individuality. Artist Dolbae explained how to use three-dimensional (3D) modeling and generative AI in webtoon production."
+                "x": "AI-enabled 도구는 이미 무엇을 어떻게 가르칠지를 바꿔 놓았다. 하지만 미국 교육의 근본 구조를 바꾸거나 인종과 학업 성취의 상관관계를 끊는 데 이 도구가 하는 일은 무엇인가? “Advanced Placement(AP) African American Studies 교육을 금지한 주에서 운영되는, 고도로 효율적인 AI-enabled 학교는 무엇에서 효율을 제공하는가?”"
               },
               {
                 "t": "p",
-                "x": "Since March, the association has held a total of 6 forums, covering generative AI and copyright, cyberbullying and artists' mental health, and changes in the content market and creators' survival strategies."
+                "x": "Bobb은 AI를 향한 경외 때문에 정의를 둘러싼 핵심 싸움에서 관심이 멀어진다고 본다. 격차를 좁히는 길은 교육 정의를 위해 드러내 놓고 헌신하는 싸움뿐이라는 주장이다."
+              },
+              {
+                "t": "img",
+                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/the-bullwhips-algorithm-200x300.jpg",
+                "cap": "The Bullwhip’s Algorithm (Beacon Press, 2026)"
               },
               {
                 "t": "p",
-                "x": "In a participant satisfaction survey, the 12 main lectures received an average usefulness score of 4.68 out of 5. Overall satisfaction with the 4th to 6th forums averaged 4.74. Topics participants hope to see covered in the future included storytelling, revenue diversification and the use of AI."
-              },
-              {
-                "t": "p",
-                "x": "Kwon Hyuk-joo, president of the Korea Cartoonist Association, said, \"The arrival of a new technology does not mean it will solve artists' concerns for them,\" adding, \"What to draw, how to capture readers and how to carry on to the next work are still up to the artist.\""
-              },
-              {
-                "t": "p",
-                "x": "The association plans to continue the forums next year on topics including building creative capacity, changes in the production environment in the AI era, revenue diversification and artists' rights."
+                "x": "Kamau Bobb의 The Bullwhip’s Algorithm: Artificial Intelligence and America’s Racial Caste System(Beacon Press, 2026)에서 발췌했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI時代のウェブトゥーン作家\n持続的な創作の道を模索",
-          "body": "漫画家協会がウェブトゥーンフォーラムで生成AI時代の作家の持続的な創作を議論した。",
-          "mini_headline": "ウェブトゥーン、AIの解を模索",
+          "headline": "AIと分断された\n教室の構造",
+          "body": "Kamau Bobbは著書の抜粋で、学校のAIツールは米国教育の人種分離を変えないと論じる。",
+          "mini_headline": "AIと分断された教室",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://file2.nocutnews.co.kr/newsroom/image/2026/10/26/202610261829231128_0.jpg",
-                "cap": "韓国漫画家協会提供"
+                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/chat-gpt-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "韓国漫画家協会は、23日にソウル・麻浦区の青年文化空間JU タリ小劇場で第6回ウェブトゥーンフォーラムを開き、今年の日程を終えたと26日に明らかにした。今年のフォーラムでは、人工知能(AI)技術や創作者の権益、持続可能な連載環境などを議論した。"
+                "x": "Kamau Bobbが教育における人工知能と米国の人種カースト制度を論じる。建国250周年を迎えた今、彼は教育の場でテクノロジーと人種的反動が重なり合うのを見る。電卓もタブレットもノートパソコンも変革の触媒として売り込まれたが、米国の高校最終学年の生徒のうち基礎的な読み書き能力を持つのは40パーセントに満たず、人種間の格差は慢性化している。"
               },
               {
                 "t": "p",
-                "x": "最終回のフォーラムでは、ガナラ作家が長期連載のための作業習慣と創作方法を紹介し、ロミット作家は大衆性と作品の個性の間で抱える悩みを共有した。トルベ作家は3次元(3D)モデリングと生成AIをウェブトゥーン制作に活用する方法を説明した。"
+                "x": "AI-enabledのツールは、すでに何をどう教えるかを変えつつある。だが、これらのツールは米国教育の根本的な構造を変え、人種と学業成績の相関を断ち切るために何をしているのか。「Advanced Placement(AP)のAfrican American Studiesの授業を禁じた州で運営される、高度に効率的なAI-enabledの学校は、いったい何において効率をもたらすのか」"
               },
               {
                 "t": "p",
-                "x": "協会は3月から計6回のフォーラムを開き、生成AIと著作権、ネット上のいじめと作家のメンタルヘルス、コンテンツ市場の変化と創作者の生存戦略などを取り上げた。"
+                "x": "Bobbは、AIへの畏敬の念が正義をめぐる核心的な闘いから関心をそらしていると主張し、教育の正義を求める明確で献身的な闘いだけが格差を埋められると説く。"
               },
-              {
-                "t": "p",
-                "x": "参加者満足度調査では、主要講演12本の平均有益度は5点満点中4.68点だった。第4〜6回フォーラムの全体満足度は平均4.74点だった。今後取り上げてほしいテーマとしては、ストーリーの作法や収益の多角化、AI活用などが挙がった。"
-              },
-              {
-                "t": "p",
-                "x": "韓国漫画家協会のクォン・ヒョクジュ会長は「新しい技術が登場したからといって、作家の悩みまで代わりに解決してくれるわけではない」とし、「何を描き、どう読者を引きつけ、次の作品につなげていくかは、依然として作家の役目だ」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "協会は来年も、創作力の強化やAI時代の制作環境の変化、収益の多角化、作家の権益などをテーマにフォーラムを続ける計画だ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI时代的网漫作家\n探寻持续创作之道",
-          "body": "漫画家协会在网漫论坛上探讨了生成式AI时代作家的可持续创作。",
-          "mini_headline": "网漫探寻AI对策",
-          "full": {
-            "mode": "full",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://file2.nocutnews.co.kr/newsroom/image/2026/10/26/202610261829231128_0.jpg",
-                "cap": "韩国漫画家协会提供"
+                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/the-bullwhips-algorithm-200x300.jpg",
+                "cap": "The Bullwhip’s Algorithm (Beacon Press, 2026)"
               },
               {
                 "t": "p",
-                "x": "韩国漫画家协会26日表示,已于23日在首尔麻浦区青年文化空间JU Dari小剧场举办第6届网漫论坛,为今年的日程画上句号。今年的论坛围绕人工智能(AI)技术、创作者权益以及可持续的连载环境等议题展开讨论。"
-              },
-              {
-                "t": "p",
-                "x": "在最后一场论坛上,作家Ganara介绍了支撑长期连载的工作习惯与创作方法,作家Romit分享了在大众性与作品个性之间的苦恼。作家Dolbae讲解了如何将三维(3D)建模和生成式AI运用于网漫制作。"
-              },
-              {
-                "t": "p",
-                "x": "协会自3月起共举办6场论坛,探讨了生成式AI与著作权、网络霸凌与作家心理健康、内容市场变化与创作者生存策略等话题。"
-              },
-              {
-                "t": "p",
-                "x": "参与者满意度调查显示,12场主要讲座的平均实用性评分为4.68分(满分5分)。第4至6场论坛的总体满意度平均为4.74分。参与者希望今后探讨的主题包括故事写作方法、收入多元化和AI运用等。"
-              },
-              {
-                "t": "p",
-                "x": "韩国漫画家协会会长Kwon Hyuk-joo表示:“新技术的出现,并不意味着它会替作家解决烦恼。”他还说:“画什么、如何吸引读者、如何延续到下一部作品,依然是作家自己的课题。”"
-              },
-              {
-                "t": "p",
-                "x": "协会计划明年继续围绕提升创作能力、AI时代制作环境的变化、收入多元化以及作家权益等主题举办论坛。"
+                "x": "Kamau Bobb著『The Bullwhip’s Algorithm: Artificial Intelligence and America’s Racial Caste System』（Beacon Press, 2026）より抜粋。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Autores de webtoon en la era AI\nbuscan cómo seguir creando",
-          "body": "La asociación de dibujantes debatió en su Foro Webtoon la creación sostenible en la era de la AI generativa.",
-          "mini_headline": "El webtoon busca respuestas a la AI",
+          "headline": "La AI y la estructura\nde las aulas segregadas",
+          "body": "Kamau Bobb sostiene que la AI en las aulas deja intacta la segregación racial de la educación estadounidense.",
+          "mini_headline": "La AI y las aulas segregadas",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://file2.nocutnews.co.kr/newsroom/image/2026/10/26/202610261829231128_0.jpg",
-                "cap": "Cortesía de la Asociación de Dibujantes de Cómic de Corea"
+                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/chat-gpt-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "La Asociación de Dibujantes de Cómic de Corea informó el día 26 de que el día 23 celebró su 6.º Foro Webtoon en el Teatro Dari del espacio cultural juvenil JU, en Mapo-gu (Seúl), con lo que cerró su programa de este año. Los foros de este año abordaron la tecnología de inteligencia artificial (AI), los derechos de los creadores y un entorno de serialización sostenible."
+                "x": "Kamau Bobb reflexiona sobre la inteligencia artificial en la educación y el sistema de castas raciales de Estados Unidos. En el 250.º aniversario del país, observa una convergencia entre la tecnología y la reacción racial en la educación: calculadoras, tabletas y computadoras portátiles se vendieron como catalizadores, pero menos del 40 por ciento de los estudiantes estadounidenses de último año de secundaria domina la lectoescritura básica, y las disparidades raciales son crónicas."
               },
               {
                 "t": "p",
-                "x": "En el último foro, el autor Ganara presentó hábitos de trabajo y métodos creativos para series de larga duración, y el autor Romit compartió sus dudas entre el atractivo para el gran público y la personalidad de la obra. El autor Dolbae explicó cómo usar el modelado en tres dimensiones (3D) y la AI generativa en la producción de webtoons."
+                "x": "Las herramientas AI-enabled ya están transformando qué se enseña y cómo. Pero ¿qué hacen estas herramientas para cambiar la estructura fundamental de la educación estadounidense o para romper la correlación entre raza y rendimiento académico? “¿En qué ofrece eficiencia una escuela AI-enabled muy eficiente que opera en un estado que ha prohibido la enseñanza de Advanced Placement (AP) African American Studies?”"
               },
               {
                 "t": "p",
-                "x": "Desde marzo, la asociación celebró un total de 6 foros en los que trató la AI generativa y los derechos de autor, el ciberacoso y la salud mental de los autores, y los cambios del mercado de contenidos y las estrategias de supervivencia de los creadores."
+                "x": "Bobb sostiene que la fascinación por la AI está desviando la atención de la lucha central por la justicia, y que solo una lucha explícita y comprometida por la justicia educativa puede cerrar las brechas."
+              },
+              {
+                "t": "img",
+                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/the-bullwhips-algorithm-200x300.jpg",
+                "cap": "The Bullwhip’s Algorithm (Beacon Press, 2026)"
               },
               {
                 "t": "p",
-                "x": "En una encuesta de satisfacción, las 12 charlas principales obtuvieron una utilidad media de 4.68 puntos sobre 5. La satisfacción general con los foros 4.º a 6.º fue de 4.74 puntos de media. Entre los temas que los participantes desean tratar en el futuro figuran las técnicas narrativas, la diversificación de ingresos y el uso de la AI."
+                "x": "Extracto de The Bullwhip’s Algorithm: Artificial Intelligence and America’s Racial Caste System, de Kamau Bobb (Beacon Press, 2026)."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI与美国教室的\n种族隔离结构",
+          "body": "Kamau Bobb在新书节选中指出，学校里的AI工具并未触动美国教育中的种族隔离。",
+          "mini_headline": "AI与种族隔离的教室",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/chat-gpt-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "Kwon Hyuk-joo, presidente de la Asociación de Dibujantes de Cómic de Corea, afirmó: \"Que aparezca una nueva tecnología no significa que vaya a resolver por los autores sus inquietudes\", y añadió: \"Qué dibujar, cómo cautivar a los lectores y cómo continuar con la siguiente obra sigue siendo tarea del autor\"."
+                "x": "Kamau Bobb谈教育中的人工智能与美国的种族等级制度。在建国250周年之际，他看到教育领域中技术与种族反弹的交汇：计算器、平板电脑和笔记本电脑都曾被标榜为催化剂，但美国十二年级学生中具备基本读写能力的不到百分之40，且种族差距长期存在。"
               },
               {
                 "t": "p",
-                "x": "La asociación prevé mantener los foros el próximo año con temas como el refuerzo de la capacidad creativa, los cambios en el entorno de producción en la era de la AI, la diversificación de ingresos y los derechos de los autores."
+                "x": "AI-enabled工具已经在改变教什么、怎么教。但这些工具究竟能否改变美国教育的根本结构，或打破种族与学业成绩之间的关联？“在一个已禁止教授Advanced Placement (AP) African American Studies课程的州里，一所高效的AI-enabled学校，究竟在什么方面提供了效率？”"
+              },
+              {
+                "t": "p",
+                "x": "Bobb认为，对AI的惊叹正把注意力从核心的正义之战引开，唯有明确而坚定地争取教育公正，才能缩小差距。"
+              },
+              {
+                "t": "img",
+                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/the-bullwhips-algorithm-200x300.jpg",
+                "cap": "The Bullwhip’s Algorithm（Beacon Press，2026）"
+              },
+              {
+                "t": "p",
+                "x": "节选自Kamau Bobb所著《The Bullwhip’s Algorithm: Artificial Intelligence and America’s Racial Caste System》（Beacon Press，2026）。"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Webtoon artists in the AI era\nseek ways to keep creating",
-          "body": "The cartoonists' association used its Webtoon Forum to discuss sustainable creative work in the generative AI era.",
-          "mini_headline": "Webtoon seeks AI answers",
+        "ko": {
+          "headline": "AI, 그리고\n분리된 교실의 구조",
+          "body": "Kamau Bobb은 학교 AI 도구가 미국의 인종 분리 교육을 못 바꾼다고 본다.",
+          "mini_headline": "AI와 분리된 교실",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://file2.nocutnews.co.kr/newsroom/image/2026/10/26/202610261829231128_0.jpg",
-                "cap": "Courtesy of the Korea Cartoonist Association"
+                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/chat-gpt-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "The Korea Cartoonist Association said on the 26th that it held its 6th Webtoon Forum on the 23rd at the Dari Theater in the youth cultural space JU in Mapo-gu, Seoul, wrapping up this year's schedule. This year's forums discussed artificial intelligence (AI) technology, creators' rights and a sustainable serialization environment."
+                "x": "Kamau Bobb이 교육 속 인공지능과 미국의 인종 카스트 제도를 다룬다. 건국 250주년을 맞은 지금, 그는 교육에서 기술과 인종적 반발이 맞물리는 모습을 본다. 계산기, 태블릿, 노트북은 모두 변화의 촉매로 팔렸지만, 미국 고등학교 졸업반 학생 가운데 기초 문해력을 갖춘 비율은 40퍼센트에 못 미치며 인종 간 격차는 고질적이다."
               },
               {
                 "t": "p",
-                "x": "At the final forum, artist Ganara shared work habits and creative methods for long-running serialization, and artist Romit talked about the struggle between mass appeal and a work's individuality. Artist Dolbae explained how to use three-dimensional (3D) modeling and generative AI in webtoon production."
+                "x": "AI-enabled 도구는 이미 무엇을 어떻게 가르치는지를 바꾸고 있다. 그러나 이 도구들이 미국 교육의 근본 구조를 바꾸거나 인종과 학업 성취의 상관관계를 끊는 데 무엇을 하는가? “Advanced Placement(AP) African American Studies 교육을 금지한 주에서 운영되는, 고도로 효율적인 AI-enabled 학교는 무엇에서 효율을 제공하는가?”"
               },
               {
                 "t": "p",
-                "x": "Since March, the association has held a total of 6 forums, covering generative AI and copyright, cyberbullying and artists' mental health, and changes in the content market and creators' survival strategies."
+                "x": "Bobb은 AI에 대한 경외가 정의를 위한 핵심 싸움에서 관심을 앗아가고 있으며, 교육 정의를 위한 명시적이고 헌신적인 싸움만이 격차를 좁힐 수 있다고 주장한다."
+              },
+              {
+                "t": "img",
+                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/the-bullwhips-algorithm-200x300.jpg",
+                "cap": "The Bullwhip’s Algorithm (Beacon Press, 2026)"
               },
               {
                 "t": "p",
-                "x": "In a participant satisfaction survey, the 12 main lectures received an average usefulness score of 4.68 out of 5. Overall satisfaction with the 4th to 6th forums averaged 4.74. Topics participants hope to see covered in the future included storytelling, revenue diversification and the use of AI."
-              },
-              {
-                "t": "p",
-                "x": "Kwon Hyuk-joo, president of the Korea Cartoonist Association, said, \"The arrival of a new technology does not mean it will solve artists' concerns for them,\" adding, \"What to draw, how to capture readers and how to carry on to the next work are still up to the artist.\""
-              },
-              {
-                "t": "p",
-                "x": "The association plans to continue the forums next year on topics including building creative capacity, changes in the production environment in the AI era, revenue diversification and artists' rights."
+                "x": "Kamau Bobb의 The Bullwhip’s Algorithm: Artificial Intelligence and America’s Racial Caste System(Beacon Press, 2026)에서 발췌했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI時代のウェブトゥーン作家\n持続的な創作の道を模索",
-          "body": "漫画家協会がウェブトゥーンフォーラムで生成AI時代の作家の持続的な創作を議論した。",
-          "mini_headline": "ウェブトゥーン、AIの解を模索",
+          "headline": "AIと分断された\n教室の構造",
+          "body": "Kamau Bobbは著書の抜粋で、学校のAIツールは米国教育の人種分離を変えないと論じる。",
+          "mini_headline": "AIと分断された教室",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://file2.nocutnews.co.kr/newsroom/image/2026/10/26/202610261829231128_0.jpg",
-                "cap": "韓国漫画家協会提供"
+                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/chat-gpt-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "韓国漫画家協会は、23日にソウル・麻浦区の青年文化空間JU タリ小劇場で第6回ウェブトゥーンフォーラムを開き、今年の日程を終えたと26日に明らかにした。今年のフォーラムでは、人工知能(AI)技術や創作者の権益、持続可能な連載環境などを議論した。"
+                "x": "Kamau Bobbが教育における人工知能と米国の人種カースト制度を論じる。建国250周年を迎えた今、彼は教育の場でテクノロジーと人種的反動が重なり合うのを見る。電卓もタブレットもノートパソコンも変革の触媒として売り込まれたが、米国の高校最終学年の生徒のうち基礎的な読み書き能力を持つのは40パーセントに満たず、人種間の格差は慢性化している。"
               },
               {
                 "t": "p",
-                "x": "最終回のフォーラムでは、ガナラ作家が長期連載のための作業習慣と創作方法を紹介し、ロミット作家は大衆性と作品の個性の間で抱える悩みを共有した。トルベ作家は3次元(3D)モデリングと生成AIをウェブトゥーン制作に活用する方法を説明した。"
+                "x": "AI-enabledのツールは、すでに何をどう教えるかを変えつつある。だが、これらのツールは米国教育の根本的な構造を変え、人種と学業成績の相関を断ち切るために何をしているのか。「Advanced Placement(AP)のAfrican American Studiesの授業を禁じた州で運営される、高度に効率的なAI-enabledの学校は、いったい何において効率をもたらすのか」"
               },
               {
                 "t": "p",
-                "x": "協会は3月から計6回のフォーラムを開き、生成AIと著作権、ネット上のいじめと作家のメンタルヘルス、コンテンツ市場の変化と創作者の生存戦略などを取り上げた。"
+                "x": "Bobbは、AIへの畏敬の念が正義をめぐる核心的な闘いから関心をそらしていると主張し、教育の正義を求める明確で献身的な闘いだけが格差を埋められると説く。"
               },
-              {
-                "t": "p",
-                "x": "参加者満足度調査では、主要講演12本の平均有益度は5点満点中4.68点だった。第4〜6回フォーラムの全体満足度は平均4.74点だった。今後取り上げてほしいテーマとしては、ストーリーの作法や収益の多角化、AI活用などが挙がった。"
-              },
-              {
-                "t": "p",
-                "x": "韓国漫画家協会のクォン・ヒョクジュ会長は「新しい技術が登場したからといって、作家の悩みまで代わりに解決してくれるわけではない」とし、「何を描き、どう読者を引きつけ、次の作品につなげていくかは、依然として作家の役目だ」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "協会は来年も、創作力の強化やAI時代の制作環境の変化、収益の多角化、作家の権益などをテーマにフォーラムを続ける計画だ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI时代的网漫作家\n探寻持续创作之道",
-          "body": "漫画家协会在网漫论坛上探讨了生成式AI时代作家的可持续创作。",
-          "mini_headline": "网漫探寻AI对策",
-          "full": {
-            "mode": "full",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://file2.nocutnews.co.kr/newsroom/image/2026/10/26/202610261829231128_0.jpg",
-                "cap": "韩国漫画家协会提供"
+                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/the-bullwhips-algorithm-200x300.jpg",
+                "cap": "The Bullwhip’s Algorithm (Beacon Press, 2026)"
               },
               {
                 "t": "p",
-                "x": "韩国漫画家协会26日表示,已于23日在首尔麻浦区青年文化空间JU Dari小剧场举办第6届网漫论坛,为今年的日程画上句号。今年的论坛围绕人工智能(AI)技术、创作者权益以及可持续的连载环境等议题展开讨论。"
-              },
-              {
-                "t": "p",
-                "x": "在最后一场论坛上,作家Ganara介绍了支撑长期连载的工作习惯与创作方法,作家Romit分享了在大众性与作品个性之间的苦恼。作家Dolbae讲解了如何将三维(3D)建模和生成式AI运用于网漫制作。"
-              },
-              {
-                "t": "p",
-                "x": "协会自3月起共举办6场论坛,探讨了生成式AI与著作权、网络霸凌与作家心理健康、内容市场变化与创作者生存策略等话题。"
-              },
-              {
-                "t": "p",
-                "x": "参与者满意度调查显示,12场主要讲座的平均实用性评分为4.68分(满分5分)。第4至6场论坛的总体满意度平均为4.74分。参与者希望今后探讨的主题包括故事写作方法、收入多元化和AI运用等。"
-              },
-              {
-                "t": "p",
-                "x": "韩国漫画家协会会长Kwon Hyuk-joo表示:“新技术的出现,并不意味着它会替作家解决烦恼。”他还说:“画什么、如何吸引读者、如何延续到下一部作品,依然是作家自己的课题。”"
-              },
-              {
-                "t": "p",
-                "x": "协会计划明年继续围绕提升创作能力、AI时代制作环境的变化、收入多元化以及作家权益等主题举办论坛。"
+                "x": "Kamau Bobb著『The Bullwhip’s Algorithm: Artificial Intelligence and America’s Racial Caste System』（Beacon Press, 2026）より抜粋。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Autores de webtoon en la era AI\nbuscan cómo seguir creando",
-          "body": "La asociación de dibujantes debatió en su Foro Webtoon la creación sostenible en la era de la AI generativa.",
-          "mini_headline": "El webtoon busca respuestas a la AI",
+          "headline": "La AI y la estructura\nde las aulas segregadas",
+          "body": "Kamau Bobb sostiene que la AI en las aulas deja intacta la segregación racial de la educación estadounidense.",
+          "mini_headline": "La AI y las aulas segregadas",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://file2.nocutnews.co.kr/newsroom/image/2026/10/26/202610261829231128_0.jpg",
-                "cap": "Cortesía de la Asociación de Dibujantes de Cómic de Corea"
+                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/chat-gpt-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "La Asociación de Dibujantes de Cómic de Corea informó el día 26 de que el día 23 celebró su 6.º Foro Webtoon en el Teatro Dari del espacio cultural juvenil JU, en Mapo-gu (Seúl), con lo que cerró su programa de este año. Los foros de este año abordaron la tecnología de inteligencia artificial (AI), los derechos de los creadores y un entorno de serialización sostenible."
+                "x": "Kamau Bobb reflexiona sobre la inteligencia artificial en la educación y el sistema de castas raciales de Estados Unidos. En el 250.º aniversario del país, observa una convergencia entre la tecnología y la reacción racial en la educación: calculadoras, tabletas y computadoras portátiles se vendieron como catalizadores, pero menos del 40 por ciento de los estudiantes estadounidenses de último año de secundaria domina la lectoescritura básica, y las disparidades raciales son crónicas."
               },
               {
                 "t": "p",
-                "x": "En el último foro, el autor Ganara presentó hábitos de trabajo y métodos creativos para series de larga duración, y el autor Romit compartió sus dudas entre el atractivo para el gran público y la personalidad de la obra. El autor Dolbae explicó cómo usar el modelado en tres dimensiones (3D) y la AI generativa en la producción de webtoons."
+                "x": "Las herramientas AI-enabled ya están transformando qué se enseña y cómo. Pero ¿qué hacen estas herramientas para cambiar la estructura fundamental de la educación estadounidense o para romper la correlación entre raza y rendimiento académico? “¿En qué ofrece eficiencia una escuela AI-enabled muy eficiente que opera en un estado que ha prohibido la enseñanza de Advanced Placement (AP) African American Studies?”"
               },
               {
                 "t": "p",
-                "x": "Desde marzo, la asociación celebró un total de 6 foros en los que trató la AI generativa y los derechos de autor, el ciberacoso y la salud mental de los autores, y los cambios del mercado de contenidos y las estrategias de supervivencia de los creadores."
+                "x": "Bobb sostiene que la fascinación por la AI está desviando la atención de la lucha central por la justicia, y que solo una lucha explícita y comprometida por la justicia educativa puede cerrar las brechas."
+              },
+              {
+                "t": "img",
+                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/the-bullwhips-algorithm-200x300.jpg",
+                "cap": "The Bullwhip’s Algorithm (Beacon Press, 2026)"
               },
               {
                 "t": "p",
-                "x": "En una encuesta de satisfacción, las 12 charlas principales obtuvieron una utilidad media de 4.68 puntos sobre 5. La satisfacción general con los foros 4.º a 6.º fue de 4.74 puntos de media. Entre los temas que los participantes desean tratar en el futuro figuran las técnicas narrativas, la diversificación de ingresos y el uso de la AI."
+                "x": "Extracto de The Bullwhip’s Algorithm: Artificial Intelligence and America’s Racial Caste System, de Kamau Bobb (Beacon Press, 2026)."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI与美国教室的\n种族隔离结构",
+          "body": "Kamau Bobb在新书节选中指出，学校里的AI工具并未触动美国教育中的种族隔离。",
+          "mini_headline": "AI与种族隔离的教室",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/chat-gpt-scaled.jpg"
               },
               {
                 "t": "p",
-                "x": "Kwon Hyuk-joo, presidente de la Asociación de Dibujantes de Cómic de Corea, afirmó: \"Que aparezca una nueva tecnología no significa que vaya a resolver por los autores sus inquietudes\", y añadió: \"Qué dibujar, cómo cautivar a los lectores y cómo continuar con la siguiente obra sigue siendo tarea del autor\"."
+                "x": "Kamau Bobb谈教育中的人工智能与美国的种族等级制度。在建国250周年之际，他看到教育领域中技术与种族反弹的交汇：计算器、平板电脑和笔记本电脑都曾被标榜为催化剂，但美国十二年级学生中具备基本读写能力的不到百分之40，且种族差距长期存在。"
               },
               {
                 "t": "p",
-                "x": "La asociación prevé mantener los foros el próximo año con temas como el refuerzo de la capacidad creativa, los cambios en el entorno de producción en la era de la AI, la diversificación de ingresos y los derechos de los autores."
+                "x": "AI-enabled工具已经在改变教什么、怎么教。但这些工具究竟能否改变美国教育的根本结构，或打破种族与学业成绩之间的关联？“在一个已禁止教授Advanced Placement (AP) African American Studies课程的州里，一所高效的AI-enabled学校，究竟在什么方面提供了效率？”"
+              },
+              {
+                "t": "p",
+                "x": "Bobb认为，对AI的惊叹正把注意力从核心的正义之战引开，唯有明确而坚定地争取教育公正，才能缩小差距。"
+              },
+              {
+                "t": "img",
+                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/10/the-bullwhips-algorithm-200x300.jpg",
+                "cap": "The Bullwhip’s Algorithm（Beacon Press，2026）"
+              },
+              {
+                "t": "p",
+                "x": "节选自Kamau Bobb所著《The Bullwhip’s Algorithm: Artificial Intelligence and America’s Racial Caste System》（Beacon Press，2026）。"
               }
             ]
           }

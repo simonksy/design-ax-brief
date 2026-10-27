@@ -9018,6 +9018,175 @@
           "x": "2TB 配置起价$6,499，4TB 配置起价$6,799，另加$69运费，进口关税和税费另计。作为相对陌生的品牌，且仅提供一年保修，花近$7,000购买无疑是不小的赌博。"
         }
       ]
+    },
+    "gadgets/gadgets-macbook-pro-m6": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7moKw5F2gzMVH2GPuzQHMT.jpg",
+          "cap": "（图片来源：Apple）"
+        },
+        {
+          "t": "p",
+          "x": "Apple在“Pro and tell”系列发布中推出了14英寸MacBook Pro的10月更新款，搭载M6处理器。新款没有触控屏，设计也几乎没有变化，出厂预装macOS 27 Golden Gate，其中包含新一代Apple Intelligence和Siri AI。"
+        },
+        {
+          "t": "p",
+          "x": "新款M6 MacBook Pro起售价$1,999，配备M6芯片、16GB RAM和1TB存储。预订于10月28日周三开始，11月6日开始发货。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/yqvquafwQnwqJ9V45U4NLR.jpg",
+          "cap": "（图片来源：Apple）"
+        },
+        {
+          "t": "p",
+          "x": "M6转向2纳米架构，在M5的10核CPU和10核GPU基础上，CPU和GPU各增加两个核心。它还配备用于AI和机器学习的Dual 16核Neural Engine，并由每个GPU核心中的Neural Accelerators提供支持。Apple表示，与M5相比，12核GPU的图形性能最高提升百分之三十，AI工作负载最高提升百分之二十五。"
+        },
+        {
+          "t": "p",
+          "x": "MacBook Pro还配备支持Wi-Fi 7和Bluetooth 6的Apple N1芯片，Apple称其整体续航最长可达24小时。"
+        }
+      ]
+    },
+    "gadgets/gadgets-galaxy-buds-on": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26121640/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main1.jpg",
+          "cap": "Galaxy Buds On"
+        },
+        {
+          "t": "p",
+          "x": "Samsung Electronics推出了旗下首款开放式耳机Galaxy Buds On。Galaxy Buds On将夹式设计与丰富音质和AI-powered功能相结合，带来更大的自由度和灵活性。夹式设计轻轻搭在耳朵上，即使头部剧烈运动也能牢牢固定。"
+        },
+        {
+          "t": "p",
+          "x": "说出“Hey Google, let’s talk Live”即可启动Gemini Live，用户无需掏出手机就能询问跑步路线推荐。与Galaxy AI-enabled智能手机配对后，Galaxy Buds On可免提使用Gemini Live。"
+        },
+        {
+          "t": "video",
+          "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/27174131/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main6-1.mp4"
+        },
+        {
+          "t": "p",
+          "x": "用“Next song”或“Volume up”等语音指令，无需触碰耳机即可控制播放。会议结束后，长按耳机即可让Quick Voice Memo开始录音；之后可以向Bixby询问待办事项并收听详细内容。借助Head Gestures，用户点头即可接听来电，摇头即可拒接。"
+        },
+        {
+          "t": "img",
+          "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26122922/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Main10.jpg",
+          "cap": "Galaxy Buds On具备Intelligent Clear Call功能。"
+        },
+        {
+          "t": "p",
+          "x": "Intelligent Clear Call利用三个麦克风、基于骨传导的Voice Pickup Unit Sensor和基于机器学习的方案，分离用户的声音并降低背景噪音。"
+        }
+      ]
+    },
+    "gadgets/gadgets-opera-webai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-WebAI.jpeg?resize=1200%2C720&ssl=1",
+          "cap": "Opera"
+        },
+        {
+          "t": "p",
+          "x": "Opera新推出的WebAI预览版让网站和浏览器扩展可以在Opera One内使用本地模型，无需额外订阅AI服务，也不必把所处理的信息发送到云服务。这一需用户主动开启的预览版正在受支持的Windows PCs和Apple silicon Macs上推出。"
+        },
+        {
+          "t": "p",
+          "x": "WebAI是一项拟议中的网络标准，让网站和扩展通过浏览器调用AI。Opera表示，这项工作得到了Google和Microsoft的支持。其实现不绑定特定模型，以开放模型为核心。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-AI.jpeg?resize=1350%2C810&ssl=1",
+          "cap": "Opera"
+        },
+        {
+          "t": "p",
+          "x": "Opera One可调用Google的Gemma模型，兼容的Macs还能使用Apple的设备端基础模型。一个示例扩展可以整理杂乱的标签页，另一个则能标记标题党内容。"
+        },
+        {
+          "t": "p",
+          "x": "WebAI默认关闭。在用户启用之前不会下载任何内容，每个网站在访问浏览器的本地AI前都需要获得许可。速度和能力取决于电脑配置。Opera GX和Opera Neon计划稍后支持WebAI。"
+        }
+      ]
+    },
+    "gadgets/gadgets-nokia-claude-s40": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/intro-1792779965.jpg",
+          "cap": "AIKON是一款能让老款Nokia S40和S60手机连接Claude等聊天机器人的应用。"
+        },
+        {
+          "t": "p",
+          "x": "初代Nokia 6300是一款2G手机，其浏览器从未更新到TLS 1.0以后的版本，基本无法访问现代互联网。9月下旬，土耳其创业者Emir Karşıyakalı展示了Claude S40，这是他用氛围编程做出的应用，通过Java和Go后端把他的旧Nokia 6300连上Claude。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/meet-aikon-1792779966.jpg",
+          "cap": "两张展示AIKON界面的截图。"
+        },
+        {
+          "t": "p",
+          "x": "此后他又让它支持ChatGPT、Gemini和Grok，并改名为Aikon，即Nokia倒过来拼写。一台Go服务器保管API密钥，并把聊天机器人的回复截成旧手机能读取的8kB数据块。"
+        },
+        {
+          "t": "p",
+          "x": "该应用提供阅读模式、将回复离线保存到存储卡、上传照片，以及最长30秒的语音消息。Karşıyakalı已将其开源。它在US（美国）无法运行，因为T-Mobile在8月关闭了GSM网络，美国最后一个2G网络随之下线。"
+        }
+      ]
+    },
+    "gadgets/gadgets-siri-ios272": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&strip=all&w=1600",
+          "cap": "Siri AI"
+        },
+        {
+          "t": "p",
+          "x": "Apple今天开始推送27.2软件更新，在众多新功能中，也为Siri AI带来了多项改进。以下是更新内容。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "Siri AI上个月随iOS 27推出，是对Apple助手的一次重大改造。随着今天开始推送的27.2软件更新，Siri变得更好了。"
+        },
+        {
+          "t": "p",
+          "x": "Siri AI的新功能包括："
+        },
+        {
+          "t": "p",
+          "x": "对话回忆：Siri AI现在可以保留以往对话中的有用情境，你可以问它此前聊过的内容，例如它之前推荐过的餐厅。"
+        },
+        {
+          "t": "p",
+          "x": "个人情境升级：Siri AI现在可以调用更多个人情境来源来给出更好的回答，包括“Messages中附带的照片、Calendar日程的参与者、你的语音留言，以及来自Safari历史记录和Reading List的更佳结果”。"
+        },
+        {
+          "t": "p",
+          "x": "更多语言：除英语外，Siri AI现在还支持法语、日语、韩语、葡萄牙语和西班牙语。"
+        },
+        {
+          "t": "p",
+          "x": "Apple Watch上更快：Apple表示，在watchOS 27.2中，Siri AI的响应速度比以前更快。"
+        },
+        {
+          "t": "p",
+          "x": "用户可通过iOS 27.2、iPadOS 27.2、macOS 27.2及其他配套版本，在iPhone、iPad、Mac等设备上享受这些Siri AI升级。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI和Anthropic等公司的AI模型不断进步，Apple在Siri AI推出后不久就开始迭代，令人欣慰。希望这款助手能随着每次软件更新持续变好。"
+        }
+      ]
     }
   }
 }

@@ -7944,6 +7944,148 @@
           "x": "LightShed Partners的Rich Greenfield问道，帮用户取消闲置订阅的智能体是否会带来流失风险。Söderström回应称，Spotify“永远不会押注于你忘记自己的订阅”，并认为智能体反而可以帮助用户看清Spotify更划算。"
         }
       ]
+    },
+    "music/massivexl": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ta8fz7caVD724S33c2b4Wi.png"
+        },
+        {
+          "t": "p",
+          "x": "Native Instruments的Massive于二十年前的这个月发布，成为那个时代最具影响力的软件合成器之一。今天，NI发布了Massive的第三代产品Massive XL，这是其今年早些时候被inMusic收购以来最重要的乐器产品。"
+        },
+        {
+          "t": "p",
+          "x": "最抢眼的将是Generate功能。这是NI自主研发的AI模型，能分析任意导入的音频文件，并将其重建为完全可编辑的音色。用户可选取最长四秒的片段，还可先用内置的分轨功能把歌曲拆分为Vocals、Bass、Drums和Other。Generate默认生成四个不同的音色，每个都配有六个宏控制。"
+        },
+        {
+          "t": "p",
+          "x": "Massive XL还继承了Absynth 6的预设变异功能。现在，用户可将任意音频文件或单周期波形拖放到振荡器区域，制作自己的波表；此外还新增了100多个波表、三款新效果器（Raum、Replika Shimmer和Tape Wobble），并支持复音触后。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/S3nfz32mR8dY2EEakHB5j5.jpg"
+        },
+        {
+          "t": "p",
+          "x": "官方还提供免费的Massive XL Player，Massive X则将停用。Massive XL现已上市，售价€199/$199/£179，10月27日至12月31日期间推出€99 / $99 / £89的首发优惠价。"
+        }
+      ]
+    },
+    "music/waveform": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2022/03/tracktion-waveform-14-1-ft-770x425.jpg"
+        },
+        {
+          "t": "p",
+          "x": "通过14.1版更新，Tracktion Waveform Pro可借助AI辅助（AI-assisted）代码生成，打造用户自己的乐器和效果器。这次免费更新还为Waveform Pro 14平台加入了扩展的混音分析工具和更多响度表功能；该平台于今年早些时候推出，并搭载基于LLM（LLM-based）的AI Assistant。"
+        },
+        {
+          "t": "p",
+          "x": "使用Assistant时，只需说明所需的插件类型，系统便会用Cmajor编程语言构建DSP代码。代码随后在后端编译并插入轨道，乐器或效果器即可直接使用。"
+        },
+        {
+          "t": "video",
+          "yt": "acHyW6L9PSk"
+        },
+        {
+          "t": "p",
+          "x": "故障排除以自我修复代码的形式内置：系统会检测构建错误并重建出错的代码块，无需用户介入即可得到可用的插件。插件的各项控制均可完全自动化。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2022/03/tracktion-waveform-14-1-assistant-1024x565.jpg",
+          "cap": "Assistant · 来源：Tracktion"
+        },
+        {
+          "t": "p",
+          "x": "新的分析和测量工具借助LLM引擎诊断混音中的问题，并按特定响度目标导出音轨。AI Profiles让用户无需联网即可在本地使用助手。更新可通过Tracktion Download Manager免费下载。"
+        }
+      ]
+    },
+    "music/edgedout": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-27T124653.395.png?fit=2000%2C1500&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "为了让Muse AI智能体在非技术人群眼中显得可爱亲切，Meta推出了一个毛绒玩偶风格的吉祥物Jolly。如今，独立厂牌Edged Out Records围绕这个角色推出了一场别出心裁的营销活动。"
+        },
+        {
+          "t": "p",
+          "x": "创始人Mattske发现，人们可以给这个吉祥物换装，但方法并不直观，也不容易。于是，他参照厂牌旗下乐队Pretty Boy Ghosts在新音乐视频中的穿着，设计了一套由白色连帽衫和胶带裤组成的服装。"
+        },
+        {
+          "t": "p",
+          "x": "“没有应用，没有插件，没有集成。服装就是这些图片。把它们给你的Muse看，然后说‘万圣节穿这个’。这就是全部技能。”GitHub上的服装页面这样写道。"
+        },
+        {
+          "t": "p",
+          "x": "如今这已发展成一整家服装“商店”——尽管一切都免费——为人们的Muse头像提供万圣节服装：从德古拉、木乃伊、科学怪人，到福尔摩斯、大力水手和贝蒂娃娃。这家商店由Edged Out母公司Liberty Rose Studios的技术部门Koryuai打造，还介绍了人们如何自己制作服装。"
+        },
+        {
+          "t": "p",
+          "x": "“它同时是一个技术方案、一个给Muse用户的玩具，也是音乐营销：乐队在视频里穿着这身制服，公众的Muse在万圣节穿上它，每穿一次都在为这首歌做宣传。”厂牌表示。"
+        }
+      ]
+    },
+    "music/detectx": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.newdaily.co.kr/site/data/img/2026/10/27/2026102700388_0.jpg",
+          "cap": "DetectX开发者Kim Yun-ki代表（右）与副总裁Song Hyun-ho。ⓒDetectX株式会社"
+        },
+        {
+          "t": "p",
+          "x": "DetectX于26日表示，其AI音源验证技术“DetectX v.3.x”经过“K音乐权利团体共生委员会”的招标及竞争性陈述评审，被选为优先谈判对象。委员会计划继续与DetectX谈判，目标是建立识别AI生成音乐、并将结果用于著作权登记和管理等行政业务的技术基础。"
+        },
+        {
+          "t": "p",
+          "x": "K音乐权利团体共生委员会由韩国音乐著作权协会、韩国演艺制作人协会、韩国音乐表演者联合会、韩国唱片产业协会、同行音乐著作权协会、韩国大众音乐产业协会等6个团体组成。"
+        },
+        {
+          "t": "p",
+          "x": "若误判音乐是否由AI生成，可能侵害人类创作者的权利，或在著作权相关业务中引发不必要的纠纷，因此识别技术还须具备不会把人类创作的音乐误判为AI作品的可靠性。"
+        },
+        {
+          "t": "p",
+          "x": "DetectX介绍称，其技术采用对多个分析引擎结果进行交叉验证的结构。该技术采用确定性分析方法，对同一输入可重现精确到小数点后三位的相同结果，并着重减少误报（False Positive）。"
+        },
+        {
+          "t": "p",
+          "x": "DetectX代表Kim Yun-ki表示：“目标不仅是判别是否由AI生成，还要提供在著作权纠纷及登记、管理过程中可供参考的技术依据。”副总裁Song Hyun-ho则表示：“AI应当作为辅助创作的工具，而不是侵害人类创作者权利的手段。”"
+        }
+      ]
+    },
+    "music/music-suno-gong": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Suno-Menlo-Subpoena.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Suno的投资方Menlo Ventures已收到传票，如今Menlo前负责人C.C. Gong将在30天内接受取证，起因是一条可能动摇该平台长期以来合理使用抗辩的推文。"
+        },
+        {
+          "t": "p",
+          "x": "取证将围绕Gong于2026年2月发布、后已删除的一条推文展开：“我个人已经把大部分听歌时间转到了Suno。我实在受够了Spotify总是推荐那些听烂了的歌。当人人都能创作，曲库就会变得无限，音乐也会更加个性化。”"
+        },
+        {
+          "t": "p",
+          "x": "Universal Music和Sony Music表示，Menlo的律师在10月12日“首次告知Ms. Gong已于9月底离开Menlo”，由此促成了这份新获批准的取证传票。Suno并未反对，但指出Menlo和Gong可能会提出撤销传票的动议。"
+        },
+        {
+          "t": "p",
+          "x": "Suno从一开始就以合理使用为由进行抗辩，并试图反驳其生成内容正在损害真实音乐市场的说法。与此同时，各大唱片公司也在就AI-detection工具向DistroKid施压，而Suno和Udio正向Mechanical Licensing Collective索取DSP播放量数据。"
+        }
+      ]
     }
   }
 }

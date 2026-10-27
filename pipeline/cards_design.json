@@ -1,191 +1,239 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "section": "design",
   "cards": [
     {
-      "id": "design-gemini-brand-style",
+      "id": "a2ui",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Gemini가 이제\n브랜드 스타일을 기억한다",
-      "body": "Gemini는 브랜드 사이트·글꼴·색상을 한 번 저장해 새 이미지에 다시 쓴다.",
-      "mini_headline": "Gemini, 브랜드 스타일 기억",
+      "headline": "Google A2UI,\n추론 형식 갈아 끼운다",
+      "body": "Google A2UI는 추론 형식을 바꿔 끼워 지연을 최대 3x 줄였다.",
+      "mini_headline": "Google, A2UI 속도 높였다",
       "tool": "AI Workflow",
-      "source": "Design Compass",
-      "url": "https://designcompass.org/en/2026/10/26/google-gemini-on-brand-visuals/",
-      "accent": "#ff5a4d",
+      "source": "Google for Developers Blog",
+      "url": "https://developers.googleblog.com/fast-reliable-a2ui/",
+      "accent": "#3b6bff",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://designcompass.org/wp-content/uploads/2026/10/Gemini-Brand-Style-Remembered-1-scaled.jpg"
+            "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/00-header-1600x900_1.original.png"
           },
           {
             "t": "p",
-            "x": "Google이 소상공인용 Gemini 기능 'On-Brand Visuals'를 공개했다. 2026년 10월 20일 발표한 이 도구는 사용자가 등록한 브랜드 스타일을 지키면서 새 이미지를 만든다. 시각 방향은 웹사이트, 브랜드 키트, 타이포그래피, 색상 팔레트를 보고 정한다."
+            "x": "A2UI와 생성형 UI 경험이 느리다는 우려가 들려왔다. 모델이 화면을 하나씩 만드는 동안 사람들이 기다려야 한다는 것이다. 이번 릴리스는 추론 형식을 바꿔 끼울 수 있게 했고, A2UI에서 결정 모델을 쓰는 예시도 공유한다. 새 A2UI Express를 추론 형식으로 쓰면 지연이 최대 3x 줄고, Jev 같은 결정 모델로 레이아웃을 정하면 최대 80x까지 준다. 같은 종류의 UI를 만들 때 Express는 Direct JSON보다 토큰이 최대 3x 적게 든다."
           },
           {
             "t": "p",
-            "x": "이미지 생성에는 Nano Banana 2.1 모델을 쓴다. Gemini는 설정한 스타일을 저장해 두었다가 제품 출시나 마케팅 캠페인에 쓸 이미지를 만든다. 작업할 때마다 같은 가이드라인을 다시 올리는 수고가 줄어든다. 브랜드 자료를 이미지 한 장의 참고 자료로 쓰고 끝내지 않고 이후 프로젝트까지 이어 쓰도록 설계했다."
+            "x": "복잡한 JSON 스키마에 맞춰 JSON 트리를 생성하는 일은 LLMs에게 느리고 오류도 잦았다. 이제 에이전트는 중간 형식인 A2UI Express를 만들고, A2UI의 Agent SDKs에 든 결정론적 코드가 이를 JSON-based 전송 프로토콜로 바꾼다. 형식은 생성기를 만들 때 인자 하나로 고른다."
+          },
+          {
+            "t": "img",
+            "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/02-how-it-works-swap.original.png"
           },
           {
             "t": "p",
-            "x": "소상공인 전용 시작 화면도 생겼다. 브랜드 구축, 재무 분석, 고객 데이터 같은 여러 작업을 여기서 다룬다. Google Workspaces와 광고 도구 말고도 Adobe, Canva, Shopify, Wix 같은 외부 앱을 연결할 수 있다."
+            "x": "Express는 Python과 비슷하게 한 줄에 한 문장씩 쓴다. Python agent SDK(a2ui-agent-sdk 0.9.0), TypeScript agent SDK(@a2ui/agent), Dart SDK에서 쓸 수 있다. Google은 gemini-3.5-flash에서 네 가지 형식을 같은 51-task eval에 돌렸는데, Express는 thinking을 꺼도 똑같이 잘 작동했다."
+          },
+          {
+            "t": "img",
+            "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/04-how-we-chose-express-eval.original.png"
           },
           {
             "t": "p",
-            "x": "브랜드의 시각 일관성을 이미지 생성 과정에 끌어들인 기능이다. 다만 로고 형태나 서체 사용 규칙을 얼마나 정확히 지키는지는 공식 발표에 검증 결과가 없었다. 실제 콘텐츠에 쓰기 전에 생성 이미지를 원래 가이드라인과 대조해 봐야 한다. 비즈니스 시작 화면과 새 연결 앱은 전 세계 Gemini 앱 사용자에게 차례로 적용된다."
+            "x": "형태가 정해진 화면이라면 TypeSafe의 System One 모델인 Jev가 타입이 지정된 레이아웃 질문에 약 100~300 ms 만에 답한다. 오픈소스 Apparite(jev2ui) 예시에서는 프롬프트 11개에 걸쳐 컴포넌트 트리가 92~298 ms 만에 화면에 떴고, 화면 하나가 완성되기까지 0.8~1.7 s가 걸렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Gemini now remembers\nyour brand's style",
-          "body": "Gemini can now save a brand's site, fonts and colors once and reuse them to generate new on-brand images.",
-          "mini_headline": "Gemini remembers brand style",
+          "headline": "Google's A2UI gets\nswappable inference formats",
+          "body": "Google's A2UI adds swappable inference formats, led by A2UI Express, which cuts latency by up to 3x.",
+          "mini_headline": "Google speeds up A2UI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/10/Gemini-Brand-Style-Remembered-1-scaled.jpg"
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/00-header-1600x900_1.original.png"
               },
               {
                 "t": "p",
-                "x": "Google has unveiled 'On-Brand Visuals,' a Gemini feature for small businesses. Announced on October 20, 2026, this feature is a tool that creates new images while maintaining the brand style registered by the user. It establishes a visual direction based on the website, brand kit, typography, and color palette."
+                "x": "We've heard your concerns about the speed of A2UI and generative UI experiences: people wait while the model generates each screen. This release introduces swappable inference formats and shares examples on leveraging decision models with A2UI. Using the new A2UI Express as an inference format you can reduce latency by up to 3x, and up to 80x using decision models like Jev to make layout decisions. Express requires up to 3x fewer tokens to generate the same kinds of UI compared to Direct JSON."
               },
               {
                 "t": "p",
-                "x": "The Nano Banana 2.1 model is utilized for image generation. Gemini stores the configured styles to generate images needed for product launches or marketing campaigns. This method reduces the need to re-upload the same guidelines for every task. It is designed to go beyond using brand materials as a reference for individual images and to allow for their continued use in subsequent projects."
+                "x": "Generating JSON trees constrained by a complex JSON schema turned out to be slow and error-prone for LLMs. Now agents can generate A2UI Express, an intermediate format, and rely on deterministic code in A2UI's Agent SDKs to translate it into the JSON-based transport protocol. You choose the format with one argument when you create the generator."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/02-how-it-works-swap.original.png"
               },
               {
                 "t": "p",
-                "x": "We have also prepared a dedicated start screen for small business owners. It is a space for accessing various tasks, such as brand building, financial analysis, and customer data. In addition to Google Workspaces and advertising tools, you can connect external apps such as Adobe, Canva, Shopify, and Wix."
+                "x": "Express writes one statement per line, in a style close to Python. It is available in the Python agent SDK (a2ui-agent-sdk 0.9.0), the TypeScript agent SDK (@a2ui/agent) and the Dart SDK. Google ran four formats through the same 51-task eval on gemini-3.5-flash and found Express works just as well even with thinking off."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/04-how-we-chose-express-eval.original.png"
               },
               {
                 "t": "p",
-                "x": "This feature integrates brand visual consistency into the image generation process. However, the official announcement did not include verification results regarding the accuracy of adherence to logo shapes or typeface usage rules. It is necessary to compare the generated images against the original guidelines before using them in actual content. The business start screen and new connection apps will be rolled out sequentially to Gemini app users worldwide."
+                "x": "For screens with a known shape, Jev from TypeSafe, a System One model, answers typed layout questions in roughly 100 to 300 ms. In the open-source Apparite (jev2ui) example, the component tree was on screen in 92 to 298 ms and each screen was complete in 0.8 to 1.7 s across 11 prompts."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Gemini가 이제\n브랜드 스타일을 기억한다",
-          "body": "Gemini는 브랜드 사이트·글꼴·색상을 한 번 저장해 새 이미지에 다시 쓴다.",
-          "mini_headline": "Gemini, 브랜드 스타일 기억",
+          "headline": "Google A2UI,\n추론 형식 갈아 끼운다",
+          "body": "Google A2UI는 추론 형식을 바꿔 끼워 지연을 최대 3x 줄였다.",
+          "mini_headline": "Google, A2UI 속도 높였다",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/10/Gemini-Brand-Style-Remembered-1-scaled.jpg"
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/00-header-1600x900_1.original.png"
               },
               {
                 "t": "p",
-                "x": "Google이 소상공인용 Gemini 기능 'On-Brand Visuals'를 공개했다. 2026년 10월 20일 발표한 이 도구는 사용자가 등록한 브랜드 스타일을 지키면서 새 이미지를 만든다. 시각 방향은 웹사이트, 브랜드 키트, 타이포그래피, 색상 팔레트를 보고 정한다."
+                "x": "A2UI와 생성형 UI 경험이 느리다는 우려가 들려왔다. 모델이 화면을 하나씩 만드는 동안 사람들이 기다려야 한다는 것이다. 이번 릴리스는 추론 형식을 바꿔 끼울 수 있게 했고, A2UI에서 결정 모델을 쓰는 예시도 공유한다. 새 A2UI Express를 추론 형식으로 쓰면 지연이 최대 3x 줄고, Jev 같은 결정 모델로 레이아웃을 정하면 최대 80x까지 준다. 같은 종류의 UI를 만들 때 Express는 Direct JSON보다 토큰이 최대 3x 적게 든다."
               },
               {
                 "t": "p",
-                "x": "이미지 생성에는 Nano Banana 2.1 모델을 쓴다. Gemini는 설정한 스타일을 저장해 두었다가 제품 출시나 마케팅 캠페인에 쓸 이미지를 만든다. 작업할 때마다 같은 가이드라인을 다시 올리는 수고가 줄어든다. 브랜드 자료를 이미지 한 장의 참고 자료로 쓰고 끝내지 않고 이후 프로젝트까지 이어 쓰도록 설계했다."
+                "x": "복잡한 JSON 스키마에 맞춰 JSON 트리를 생성하는 일은 LLMs에게 느리고 오류도 잦았다. 이제 에이전트는 중간 형식인 A2UI Express를 만들고, A2UI의 Agent SDKs에 든 결정론적 코드가 이를 JSON-based 전송 프로토콜로 바꾼다. 형식은 생성기를 만들 때 인자 하나로 고른다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/02-how-it-works-swap.original.png"
               },
               {
                 "t": "p",
-                "x": "소상공인 전용 시작 화면도 생겼다. 브랜드 구축, 재무 분석, 고객 데이터 같은 여러 작업을 여기서 다룬다. Google Workspaces와 광고 도구 말고도 Adobe, Canva, Shopify, Wix 같은 외부 앱을 연결할 수 있다."
+                "x": "Express는 Python과 비슷하게 한 줄에 한 문장씩 쓴다. Python agent SDK(a2ui-agent-sdk 0.9.0), TypeScript agent SDK(@a2ui/agent), Dart SDK에서 쓸 수 있다. Google은 gemini-3.5-flash에서 네 가지 형식을 같은 51-task eval에 돌렸는데, Express는 thinking을 꺼도 똑같이 잘 작동했다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/04-how-we-chose-express-eval.original.png"
               },
               {
                 "t": "p",
-                "x": "브랜드의 시각 일관성을 이미지 생성 과정에 끌어들인 기능이다. 다만 로고 형태나 서체 사용 규칙을 얼마나 정확히 지키는지는 공식 발표에 검증 결과가 없었다. 실제 콘텐츠에 쓰기 전에 생성 이미지를 원래 가이드라인과 대조해 봐야 한다. 비즈니스 시작 화면과 새 연결 앱은 전 세계 Gemini 앱 사용자에게 차례로 적용된다."
+                "x": "형태가 정해진 화면이라면 TypeSafe의 System One 모델인 Jev가 타입이 지정된 레이아웃 질문에 약 100~300 ms 만에 답한다. 오픈소스 Apparite(jev2ui) 예시에서는 프롬프트 11개에 걸쳐 컴포넌트 트리가 92~298 ms 만에 화면에 떴고, 화면 하나가 완성되기까지 0.8~1.7 s가 걸렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Geminiがブランドの\nスタイルを記憶",
-          "body": "Geminiがブランドのサイト・フォント・色を一度保存し、新しい画像に再利用する。",
-          "mini_headline": "Gemini、ブランドスタイルを記憶",
+          "headline": "GoogleのA2UIに\n推論形式の切り替え機能",
+          "body": "GoogleのA2UIに推論形式の切り替えが加わり、遅延は最大3x減る。",
+          "mini_headline": "GoogleがA2UIを高速化",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/10/Gemini-Brand-Style-Remembered-1-scaled.jpg"
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/00-header-1600x900_1.original.png"
               },
               {
                 "t": "p",
-                "x": "Googleは小規模事業者向けのGemini機能「On-Brand Visuals」を公開した。2026年10月20日に発表されたこの機能は、ユーザーが登録したブランドスタイルを保ちながら新しい画像を作るツールである。ウェブサイト、ブランドキット、タイポグラフィ、カラーパレットをもとにビジュアルの方向性を定める。"
+                "x": "A2UIと生成UI体験の速度に関する懸念は届いている。モデルが画面を一つずつ生成する間、人は待たされる。今回のリリースは切り替え可能な推論形式を導入し、A2UIで決定モデルを活用する例も示す。新しいA2UI Expressを推論形式に使えば遅延を最大3x、Jevのような決定モデルでレイアウトを決めれば最大80x削減できる。Expressは同種のUIを生成するのに、Direct JSONと比べてトークンが最大3x少なくて済む。"
               },
               {
                 "t": "p",
-                "x": "画像生成にはNano Banana 2.1モデルを使う。Geminiは設定したスタイルを保存し、製品発売やマーケティングキャンペーンに必要な画像を生成する。作業のたびに同じガイドラインを再アップロードする手間が減る。ブランド素材を個々の画像の参考にとどめず、その後のプロジェクトでも使い続けられるよう設計されている。"
+                "x": "複雑なJSONスキーマに縛られたJSONツリーの生成は、LLMsにとって遅く、誤りも起きやすいことがわかった。今後エージェントは中間形式のA2UI Expressを生成し、A2UIのAgent SDKsに含まれる決定論的なコードがそれをJSON-basedの転送プロトコルに変換する。形式はジェネレーター作成時に引数一つで選べる。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/02-how-it-works-swap.original.png"
               },
               {
                 "t": "p",
-                "x": "小規模事業者専用のスタート画面も用意した。ブランド構築、財務分析、顧客データなど様々な作業にアクセスする場である。Google Workspacesや広告ツールに加え、Adobe、Canva、Shopify、Wixなどの外部アプリも接続できる。"
+                "x": "ExpressはPythonに近いスタイルで、1行に1文を書く。Python agent SDK（a2ui-agent-sdk 0.9.0）、TypeScript agent SDK（@a2ui/agent）、Dart SDKで利用できる。Googleはgemini-3.5-flash上で4つの形式を同じ51-task evalにかけ、Expressがthinkingをオフにしても同等に機能することを確認した。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/04-how-we-chose-express-eval.original.png"
               },
               {
                 "t": "p",
-                "x": "この機能はブランドのビジュアル一貫性を画像生成プロセスに組み込む。ただし公式発表には、ロゴの形状や書体の使用ルールをどれほど正確に守るかについての検証結果は含まれていなかった。実際のコンテンツに使う前に、生成画像を元のガイドラインと照らし合わせる必要がある。ビジネス向けスタート画面と新たな連携アプリは、世界中のGeminiアプリユーザーに順次提供される。"
+                "x": "形が決まった画面では、TypeSafeのSystem OneモデルであるJevが、型付きのレイアウト質問におよそ100〜300 msで答える。オープンソースのApparite（jev2ui）の例では、11のプロンプトを通じてコンポーネントツリーが92〜298 msで画面に表示され、各画面は0.8〜1.7 sで完成した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Gemini现在能记住\n你的品牌风格",
-          "body": "Gemini可一次保存品牌网站、字体和配色，并复用来生成新的品牌图像。",
-          "mini_headline": "Gemini记住品牌风格",
+          "headline": "Google的A2UI\n推理格式可自由切换",
+          "body": "Google的A2UI新增可切换的推理格式，A2UI Express可将延迟最多降低3x。",
+          "mini_headline": "Google提升A2UI速度",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/10/Gemini-Brand-Style-Remembered-1-scaled.jpg"
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/00-header-1600x900_1.original.png"
               },
               {
                 "t": "p",
-                "x": "Google推出了面向小企业的Gemini功能“On-Brand Visuals”。该功能于2026年10月20日发布，是一款在保持用户注册的品牌风格的同时生成新图像的工具。它以网站、品牌套件、字体排印和色板为基础确定视觉方向。"
+                "x": "我们听到了大家对A2UI和生成式UI体验速度的担忧：模型逐个生成屏幕时，用户只能等待。此次发布引入了可切换的推理格式，并分享了在A2UI中使用决策模型的示例。使用新的A2UI Express作为推理格式，延迟最多可降低3x；借助Jev等决策模型做布局决策，最多可降低80x。与Direct JSON相比，Express生成同类UI所需的token最多少3x。"
               },
               {
                 "t": "p",
-                "x": "图像生成采用Nano Banana 2.1模型。Gemini会保存已设置的风格，用于生成产品发布或营销活动所需的图像。这种方式减少了每项任务都重新上传同一套规范的需要。其设计目标不止于把品牌素材用作单张图像的参考，而是让它们在后续项目中持续使用。"
+                "x": "事实证明，让LLMs生成受复杂JSON schema约束的JSON树既慢又容易出错。现在，代理可以生成中间格式A2UI Express，再由A2UI的Agent SDKs中的确定性代码将其转换为JSON-based传输协议。创建生成器时，只需一个参数即可选择格式。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/02-how-it-works-swap.original.png"
               },
               {
                 "t": "p",
-                "x": "还为小企业主准备了专属起始界面，这是处理品牌建设、财务分析、客户数据等各类任务的空间。除Google Workspaces和广告工具外，还可连接Adobe、Canva、Shopify、Wix等外部应用。"
+                "x": "Express每行写一条语句，风格接近Python。它已在Python agent SDK（a2ui-agent-sdk 0.9.0）、TypeScript agent SDK（@a2ui/agent）和Dart SDK中提供。Google在gemini-3.5-flash上用同一套51-task eval测试了四种格式，发现即使关闭thinking，Express的表现也同样出色。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/04-how-we-chose-express-eval.original.png"
               },
               {
                 "t": "p",
-                "x": "该功能把品牌视觉一致性融入图像生成流程。不过，官方公告并未包含关于其遵守标志形状或字体使用规则准确度的验证结果。在实际内容中使用前，有必要将生成的图像与原始规范进行对照。商业起始界面和新的连接应用将陆续向全球Gemini应用用户推出。"
+                "x": "对于结构已知的屏幕，TypeSafe的System One模型Jev回答类型化布局问题约需100至300 ms。在开源的Apparite（jev2ui）示例中，11个提示词下组件树在92至298 ms内显示到屏幕上，每个屏幕在0.8至1.7 s内完成。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gemini ahora recuerda\nel estilo de tu marca",
-          "body": "Gemini ya guarda una vez el sitio, las fuentes y los colores de una marca y los reutiliza en imágenes nuevas.",
-          "mini_headline": "Gemini recuerda el estilo de marca",
+          "headline": "A2UI de Google suma formatos\nde inferencia intercambiables",
+          "body": "El A2UI de Google añade formatos de inferencia intercambiables, como A2UI Express, que reduce la latencia hasta 3x.",
+          "mini_headline": "Google acelera A2UI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/10/Gemini-Brand-Style-Remembered-1-scaled.jpg"
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/00-header-1600x900_1.original.png"
               },
               {
                 "t": "p",
-                "x": "Google presentó 'On-Brand Visuals', una función de Gemini para pequeñas empresas. Anunciada el 20 de octubre de 2026, es una herramienta que crea imágenes nuevas manteniendo el estilo de marca registrado por el usuario. Define una dirección visual a partir del sitio web, el kit de marca, la tipografía y la paleta de colores."
+                "x": "Hemos escuchado sus inquietudes sobre la velocidad de A2UI y de las experiencias de UI generativa: la gente espera mientras el modelo genera cada pantalla. Esta versión introduce formatos de inferencia intercambiables y comparte ejemplos de uso de modelos de decisión con A2UI. Con el nuevo A2UI Express como formato de inferencia se puede reducir la latencia hasta 3x, y hasta 80x con modelos de decisión como Jev para tomar decisiones de diseño. Express requiere hasta 3x menos tokens para generar el mismo tipo de UI que Direct JSON."
               },
               {
                 "t": "p",
-                "x": "Para generar imágenes utiliza el modelo Nano Banana 2.1. Gemini guarda los estilos configurados para crear las imágenes que requieren los lanzamientos de productos o las campañas de marketing. Así se reduce la necesidad de volver a subir las mismas directrices en cada tarea. Está pensada para ir más allá de usar los materiales de marca como referencia para imágenes individuales y permitir que sigan usándose en proyectos posteriores."
+                "x": "Generar árboles JSON restringidos por un esquema JSON complejo resultó lento y propenso a errores para los LLMs. Ahora los agentes pueden generar A2UI Express, un formato intermedio, y apoyarse en código determinista de los Agent SDKs de A2UI para traducirlo al protocolo de transporte JSON-based. El formato se elige con un solo argumento al crear el generador."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/02-how-it-works-swap.original.png"
               },
               {
                 "t": "p",
-                "x": "También se ha preparado una pantalla de inicio específica para propietarios de pequeños negocios. Es un espacio para acceder a diversas tareas, como la construcción de marca, el análisis financiero y los datos de clientes. Además de Google Workspaces y las herramientas publicitarias, se pueden conectar aplicaciones externas como Adobe, Canva, Shopify y Wix."
+                "x": "Express escribe una instrucción por línea, con un estilo cercano a Python. Está disponible en el Python agent SDK (a2ui-agent-sdk 0.9.0), el TypeScript agent SDK (@a2ui/agent) y el Dart SDK. Google sometió cuatro formatos a la misma 51-task eval en gemini-3.5-flash y comprobó que Express funciona igual de bien incluso con thinking desactivado."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/04-how-we-chose-express-eval.original.png"
               },
               {
                 "t": "p",
-                "x": "Esta función integra la coherencia visual de la marca en el proceso de generación de imágenes. Sin embargo, el anuncio oficial no incluyó resultados de verificación sobre la precisión con que respeta la forma de los logotipos o las reglas de uso tipográfico. Conviene comparar las imágenes generadas con las directrices originales antes de usarlas en contenido real. La pantalla de inicio para empresas y las nuevas aplicaciones conectadas llegarán de forma gradual a los usuarios de la app de Gemini en todo el mundo."
+                "x": "Para pantallas de forma conocida, Jev de TypeSafe, un modelo System One, responde preguntas de diseño tipadas en unos 100 a 300 ms. En el ejemplo de código abierto Apparite (jev2ui), el árbol de componentes apareció en pantalla en 92 a 298 ms y cada pantalla se completó en 0.8 a 1.7 s a lo largo de 11 prompts."
               }
             ]
           }
@@ -193,121 +241,153 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Gemini가 이제\n브랜드 스타일을 기억",
-          "body": "Gemini가 브랜드 사이트·글꼴·색상을 한 번 저장해 새 이미지에 다시 쓴다.",
-          "mini_headline": "Gemini, 브랜드 스타일 기억",
+          "headline": "Google A2UI에\n추론 형식 교체 기능",
+          "body": "Google A2UI가 추론 형식 교체를 도입해 지연을 최대 3x 줄였다.",
+          "mini_headline": "Google, A2UI 속도를 높이다",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/10/Gemini-Brand-Style-Remembered-1-scaled.jpg"
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/00-header-1600x900_1.original.png"
               },
               {
                 "t": "p",
-                "x": "Google이 소상공인을 위한 Gemini 기능 'On-Brand Visuals'를 공개했다. 2026년 10월 20일 발표된 이 기능은 사용자가 등록한 브랜드 스타일을 유지하면서 새 이미지를 만드는 도구다. 웹사이트, 브랜드 키트, 타이포그래피, 색상 팔레트를 바탕으로 시각적 방향을 정한다."
+                "x": "A2UI와 생성형 UI 경험의 속도에 대한 우려를 들었다. 모델이 화면을 하나씩 생성하는 동안 사람들이 기다려야 한다는 점이다. 이번 릴리스는 교체 가능한 추론 형식을 도입하고, A2UI에서 결정 모델을 활용하는 예시를 공유한다. 새 A2UI Express를 추론 형식으로 쓰면 지연을 최대 3x, Jev 같은 결정 모델로 레이아웃을 결정하면 최대 80x까지 줄일 수 있다. Express는 같은 종류의 UI를 생성할 때 Direct JSON보다 토큰이 최대 3x 적게 든다."
               },
               {
                 "t": "p",
-                "x": "이미지 생성에는 Nano Banana 2.1 모델을 쓴다. Gemini는 설정한 스타일을 저장해 두고 제품 출시나 마케팅 캠페인에 필요한 이미지를 만든다. 작업할 때마다 같은 가이드라인을 다시 올릴 필요가 줄어든다. 브랜드 자료를 개별 이미지의 참고 자료로 쓰는 데 그치지 않고 이후 프로젝트에서도 계속 활용하도록 설계했다."
+                "x": "복잡한 JSON 스키마의 제약을 받는 JSON 트리를 생성하는 일은 LLMs에게 느리고 오류가 잦은 것으로 드러났다. 이제 에이전트는 중간 형식인 A2UI Express를 생성하고, A2UI의 Agent SDKs에 있는 결정론적 코드가 이를 JSON-based 전송 프로토콜로 변환한다. 형식은 생성기를 만들 때 인자 하나로 고른다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/02-how-it-works-swap.original.png"
               },
               {
                 "t": "p",
-                "x": "소상공인 전용 시작 화면도 마련했다. 브랜드 구축, 재무 분석, 고객 데이터 등 여러 작업에 접근하는 공간이다. Google Workspaces와 광고 도구 외에 Adobe, Canva, Shopify, Wix 같은 외부 앱도 연결할 수 있다."
+                "x": "Express는 Python에 가까운 방식으로 한 줄에 한 문장을 쓴다. Python agent SDK(a2ui-agent-sdk 0.9.0), TypeScript agent SDK(@a2ui/agent), Dart SDK에서 쓸 수 있다. Google은 gemini-3.5-flash에서 네 가지 형식을 같은 51-task eval에 돌렸고, Express가 thinking을 끈 상태에서도 똑같이 잘 작동함을 확인했다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/04-how-we-chose-express-eval.original.png"
               },
               {
                 "t": "p",
-                "x": "이 기능은 브랜드 시각 일관성을 이미지 생성 과정에 통합한다. 다만 공식 발표에는 로고 형태나 서체 사용 규칙을 얼마나 정확히 지키는지에 대한 검증 결과가 없었다. 실제 콘텐츠에 쓰기 전에 생성 이미지를 원래 가이드라인과 비교해 봐야 한다. 비즈니스 시작 화면과 새 연결 앱은 전 세계 Gemini 앱 사용자에게 순차 적용된다."
+                "x": "형태가 정해진 화면에서는 TypeSafe의 System One 모델인 Jev가 타입이 지정된 레이아웃 질문에 약 100~300 ms 만에 답한다. 오픈소스 Apparite(jev2ui) 예시에서는 11개 프롬프트에 걸쳐 컴포넌트 트리가 92~298 ms 만에 화면에 떴고, 각 화면은 0.8~1.7 s 만에 완성됐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Geminiがブランドの\nスタイルを記憶",
-          "body": "Geminiがブランドのサイト・フォント・色を一度保存し、新しい画像に再利用する。",
-          "mini_headline": "Gemini、ブランドスタイルを記憶",
+          "headline": "GoogleのA2UIに\n推論形式の切り替え機能",
+          "body": "GoogleのA2UIに推論形式の切り替えが加わり、遅延は最大3x減る。",
+          "mini_headline": "GoogleがA2UIを高速化",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/10/Gemini-Brand-Style-Remembered-1-scaled.jpg"
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/00-header-1600x900_1.original.png"
               },
               {
                 "t": "p",
-                "x": "Googleは小規模事業者向けのGemini機能「On-Brand Visuals」を公開した。2026年10月20日に発表されたこの機能は、ユーザーが登録したブランドスタイルを保ちながら新しい画像を作るツールである。ウェブサイト、ブランドキット、タイポグラフィ、カラーパレットをもとにビジュアルの方向性を定める。"
+                "x": "A2UIと生成UI体験の速度に関する懸念は届いている。モデルが画面を一つずつ生成する間、人は待たされる。今回のリリースは切り替え可能な推論形式を導入し、A2UIで決定モデルを活用する例も示す。新しいA2UI Expressを推論形式に使えば遅延を最大3x、Jevのような決定モデルでレイアウトを決めれば最大80x削減できる。Expressは同種のUIを生成するのに、Direct JSONと比べてトークンが最大3x少なくて済む。"
               },
               {
                 "t": "p",
-                "x": "画像生成にはNano Banana 2.1モデルを使う。Geminiは設定したスタイルを保存し、製品発売やマーケティングキャンペーンに必要な画像を生成する。作業のたびに同じガイドラインを再アップロードする手間が減る。ブランド素材を個々の画像の参考にとどめず、その後のプロジェクトでも使い続けられるよう設計されている。"
+                "x": "複雑なJSONスキーマに縛られたJSONツリーの生成は、LLMsにとって遅く、誤りも起きやすいことがわかった。今後エージェントは中間形式のA2UI Expressを生成し、A2UIのAgent SDKsに含まれる決定論的なコードがそれをJSON-basedの転送プロトコルに変換する。形式はジェネレーター作成時に引数一つで選べる。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/02-how-it-works-swap.original.png"
               },
               {
                 "t": "p",
-                "x": "小規模事業者専用のスタート画面も用意した。ブランド構築、財務分析、顧客データなど様々な作業にアクセスする場である。Google Workspacesや広告ツールに加え、Adobe、Canva、Shopify、Wixなどの外部アプリも接続できる。"
+                "x": "ExpressはPythonに近いスタイルで、1行に1文を書く。Python agent SDK（a2ui-agent-sdk 0.9.0）、TypeScript agent SDK（@a2ui/agent）、Dart SDKで利用できる。Googleはgemini-3.5-flash上で4つの形式を同じ51-task evalにかけ、Expressがthinkingをオフにしても同等に機能することを確認した。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/04-how-we-chose-express-eval.original.png"
               },
               {
                 "t": "p",
-                "x": "この機能はブランドのビジュアル一貫性を画像生成プロセスに組み込む。ただし公式発表には、ロゴの形状や書体の使用ルールをどれほど正確に守るかについての検証結果は含まれていなかった。実際のコンテンツに使う前に、生成画像を元のガイドラインと照らし合わせる必要がある。ビジネス向けスタート画面と新たな連携アプリは、世界中のGeminiアプリユーザーに順次提供される。"
+                "x": "形が決まった画面では、TypeSafeのSystem OneモデルであるJevが、型付きのレイアウト質問におよそ100〜300 msで答える。オープンソースのApparite（jev2ui）の例では、11のプロンプトを通じてコンポーネントツリーが92〜298 msで画面に表示され、各画面は0.8〜1.7 sで完成した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Gemini现在能记住\n你的品牌风格",
-          "body": "Gemini可一次保存品牌网站、字体和配色，并复用来生成新的品牌图像。",
-          "mini_headline": "Gemini记住品牌风格",
+          "headline": "Google的A2UI\n推理格式可自由切换",
+          "body": "Google的A2UI新增可切换的推理格式，A2UI Express可将延迟最多降低3x。",
+          "mini_headline": "Google提升A2UI速度",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/10/Gemini-Brand-Style-Remembered-1-scaled.jpg"
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/00-header-1600x900_1.original.png"
               },
               {
                 "t": "p",
-                "x": "Google推出了面向小企业的Gemini功能“On-Brand Visuals”。该功能于2026年10月20日发布，是一款在保持用户注册的品牌风格的同时生成新图像的工具。它以网站、品牌套件、字体排印和色板为基础确定视觉方向。"
+                "x": "我们听到了大家对A2UI和生成式UI体验速度的担忧：模型逐个生成屏幕时，用户只能等待。此次发布引入了可切换的推理格式，并分享了在A2UI中使用决策模型的示例。使用新的A2UI Express作为推理格式，延迟最多可降低3x；借助Jev等决策模型做布局决策，最多可降低80x。与Direct JSON相比，Express生成同类UI所需的token最多少3x。"
               },
               {
                 "t": "p",
-                "x": "图像生成采用Nano Banana 2.1模型。Gemini会保存已设置的风格，用于生成产品发布或营销活动所需的图像。这种方式减少了每项任务都重新上传同一套规范的需要。其设计目标不止于把品牌素材用作单张图像的参考，而是让它们在后续项目中持续使用。"
+                "x": "事实证明，让LLMs生成受复杂JSON schema约束的JSON树既慢又容易出错。现在，代理可以生成中间格式A2UI Express，再由A2UI的Agent SDKs中的确定性代码将其转换为JSON-based传输协议。创建生成器时，只需一个参数即可选择格式。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/02-how-it-works-swap.original.png"
               },
               {
                 "t": "p",
-                "x": "还为小企业主准备了专属起始界面，这是处理品牌建设、财务分析、客户数据等各类任务的空间。除Google Workspaces和广告工具外，还可连接Adobe、Canva、Shopify、Wix等外部应用。"
+                "x": "Express每行写一条语句，风格接近Python。它已在Python agent SDK（a2ui-agent-sdk 0.9.0）、TypeScript agent SDK（@a2ui/agent）和Dart SDK中提供。Google在gemini-3.5-flash上用同一套51-task eval测试了四种格式，发现即使关闭thinking，Express的表现也同样出色。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/04-how-we-chose-express-eval.original.png"
               },
               {
                 "t": "p",
-                "x": "该功能把品牌视觉一致性融入图像生成流程。不过，官方公告并未包含关于其遵守标志形状或字体使用规则准确度的验证结果。在实际内容中使用前，有必要将生成的图像与原始规范进行对照。商业起始界面和新的连接应用将陆续向全球Gemini应用用户推出。"
+                "x": "对于结构已知的屏幕，TypeSafe的System One模型Jev回答类型化布局问题约需100至300 ms。在开源的Apparite（jev2ui）示例中，11个提示词下组件树在92至298 ms内显示到屏幕上，每个屏幕在0.8至1.7 s内完成。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gemini ahora recuerda\nel estilo de tu marca",
-          "body": "Gemini ya guarda una vez el sitio, las fuentes y los colores de una marca y los reutiliza en imágenes nuevas.",
-          "mini_headline": "Gemini recuerda el estilo de marca",
+          "headline": "A2UI de Google suma formatos\nde inferencia intercambiables",
+          "body": "El A2UI de Google añade formatos de inferencia intercambiables, como A2UI Express, que reduce la latencia hasta 3x.",
+          "mini_headline": "Google acelera A2UI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://designcompass.org/wp-content/uploads/2026/10/Gemini-Brand-Style-Remembered-1-scaled.jpg"
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/00-header-1600x900_1.original.png"
               },
               {
                 "t": "p",
-                "x": "Google presentó 'On-Brand Visuals', una función de Gemini para pequeñas empresas. Anunciada el 20 de octubre de 2026, es una herramienta que crea imágenes nuevas manteniendo el estilo de marca registrado por el usuario. Define una dirección visual a partir del sitio web, el kit de marca, la tipografía y la paleta de colores."
+                "x": "Hemos escuchado sus inquietudes sobre la velocidad de A2UI y de las experiencias de UI generativa: la gente espera mientras el modelo genera cada pantalla. Esta versión introduce formatos de inferencia intercambiables y comparte ejemplos de uso de modelos de decisión con A2UI. Con el nuevo A2UI Express como formato de inferencia se puede reducir la latencia hasta 3x, y hasta 80x con modelos de decisión como Jev para tomar decisiones de diseño. Express requiere hasta 3x menos tokens para generar el mismo tipo de UI que Direct JSON."
               },
               {
                 "t": "p",
-                "x": "Para generar imágenes utiliza el modelo Nano Banana 2.1. Gemini guarda los estilos configurados para crear las imágenes que requieren los lanzamientos de productos o las campañas de marketing. Así se reduce la necesidad de volver a subir las mismas directrices en cada tarea. Está pensada para ir más allá de usar los materiales de marca como referencia para imágenes individuales y permitir que sigan usándose en proyectos posteriores."
+                "x": "Generar árboles JSON restringidos por un esquema JSON complejo resultó lento y propenso a errores para los LLMs. Ahora los agentes pueden generar A2UI Express, un formato intermedio, y apoyarse en código determinista de los Agent SDKs de A2UI para traducirlo al protocolo de transporte JSON-based. El formato se elige con un solo argumento al crear el generador."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/02-how-it-works-swap.original.png"
               },
               {
                 "t": "p",
-                "x": "También se ha preparado una pantalla de inicio específica para propietarios de pequeños negocios. Es un espacio para acceder a diversas tareas, como la construcción de marca, el análisis financiero y los datos de clientes. Además de Google Workspaces y las herramientas publicitarias, se pueden conectar aplicaciones externas como Adobe, Canva, Shopify y Wix."
+                "x": "Express escribe una instrucción por línea, con un estilo cercano a Python. Está disponible en el Python agent SDK (a2ui-agent-sdk 0.9.0), el TypeScript agent SDK (@a2ui/agent) y el Dart SDK. Google sometió cuatro formatos a la misma 51-task eval en gemini-3.5-flash y comprobó que Express funciona igual de bien incluso con thinking desactivado."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/04-how-we-chose-express-eval.original.png"
               },
               {
                 "t": "p",
-                "x": "Esta función integra la coherencia visual de la marca en el proceso de generación de imágenes. Sin embargo, el anuncio oficial no incluyó resultados de verificación sobre la precisión con que respeta la forma de los logotipos o las reglas de uso tipográfico. Conviene comparar las imágenes generadas con las directrices originales antes de usarlas en contenido real. La pantalla de inicio para empresas y las nuevas aplicaciones conectadas llegarán de forma gradual a los usuarios de la app de Gemini en todo el mundo."
+                "x": "Para pantallas de forma conocida, Jev de TypeSafe, un modelo System One, responde preguntas de diseño tipadas en unos 100 a 300 ms. En el ejemplo de código abierto Apparite (jev2ui), el árbol de componentes apareció en pantalla en 92 a 298 ms y cada pantalla se completó en 0.8 a 1.7 s a lo largo de 11 prompts."
               }
             ]
           }
@@ -315,15 +395,247 @@
       }
     },
     {
-      "id": "design-ideogram-svg",
-      "source_lang": "ko",
+      "id": "figma-agent-shaders",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "이디오그램, 로고를\nSVG 편집 파일로",
-      "body": "이디오그램이 로고 생성을 넘어 편집 가능한 SVG 벡터 파일을 내놓는다.",
-      "mini_headline": "이디오그램 SVG 벡터 AI",
+      "headline": "Figma 에이전트,\n셰이더·모션까지",
+      "body": "Figma 팀이 평소 작업에서 Figma 에이전트로 셰이더·모션을 만들어 보였다.",
+      "mini_headline": "Figma 에이전트, 모션까지",
+      "tool": "Social",
+      "source": "Figma (YouTube)",
+      "url": "https://www.youtube.com/watch?v=BS-N-AM5ql4",
+      "accent": "#ff2d55",
+      "motif": "frame",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "video",
+            "yt": "BS-N-AM5ql4"
+          },
+          {
+            "t": "p",
+            "x": "Figma on Figma는 우리가 평소 일하면서 자사 도구를 어떻게 쓰는지 보여 주거나, 그냥 멋진 걸 자랑하는 시리즈다. 이번 에피소드에서는 Designer Advocate Brett McMillin이 Figma 에이전트에 모션과 커스텀 셰이더 효과를 더해 새로운 창작 아이디어를 탐색한다."
+          },
+          {
+            "t": "p",
+            "x": "00:00 – Intro(인트로), Brett McMillin · 00:45 – Exploring Figma motion & shaders example(Figma 모션·셰이더 예시 살펴보기) · 01:45 – Automating Motion with the Figma agent(Figma 에이전트로 모션 자동화) · 02:45 – Custom Shader Generation(커스텀 셰이더 생성) · 03:00 – Stacking Built-in & Custom Effects(내장 효과와 커스텀 효과 겹치기) · 03:28 – Real-time Light Refraction Through Glass(유리를 통과하는 실시간 빛 굴절)"
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Figma agent takes on\nshaders and motion",
+          "body": "Figma's own team demos the Figma agent creating shaders and motion in an everyday workflow.",
+          "mini_headline": "Figma agent does motion",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "BS-N-AM5ql4"
+              },
+              {
+                "t": "p",
+                "x": "Welcome to Figma on Figma the series where we showcase how we use our own tools in our every day workflows, or just to show off something cool. In this episode we have Brett McMillin, a Designer Advocate walk us through how he uses Figma's agent with motion and custom shaders effects to explore new creative ideas."
+              },
+              {
+                "t": "p",
+                "x": "00:00 – Intro, Brett McMillin · 00:45 – Exploring Figma motion & shaders example · 01:45 – Automating Motion with the Figma agent · 02:45 – Custom Shader Generation · 03:00 – Stacking Built-in & Custom Effects · 03:28 – Real-time Light Refraction Through Glass"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Figma 에이전트,\n셰이더·모션까지",
+          "body": "Figma 팀이 평소 작업에서 Figma 에이전트로 셰이더·모션을 만들어 보였다.",
+          "mini_headline": "Figma 에이전트, 모션까지",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "BS-N-AM5ql4"
+              },
+              {
+                "t": "p",
+                "x": "Figma on Figma는 우리가 평소 일하면서 자사 도구를 어떻게 쓰는지 보여 주거나, 그냥 멋진 걸 자랑하는 시리즈다. 이번 에피소드에서는 Designer Advocate Brett McMillin이 Figma 에이전트에 모션과 커스텀 셰이더 효과를 더해 새로운 창작 아이디어를 탐색한다."
+              },
+              {
+                "t": "p",
+                "x": "00:00 – Intro(인트로), Brett McMillin · 00:45 – Exploring Figma motion & shaders example(Figma 모션·셰이더 예시 살펴보기) · 01:45 – Automating Motion with the Figma agent(Figma 에이전트로 모션 자동화) · 02:45 – Custom Shader Generation(커스텀 셰이더 생성) · 03:00 – Stacking Built-in & Custom Effects(내장 효과와 커스텀 효과 겹치기) · 03:28 – Real-time Light Refraction Through Glass(유리를 통과하는 실시간 빛 굴절)"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Figmaエージェントが\nシェーダーとモーションに",
+          "body": "Figmaチームが業務でFigmaエージェントによるシェーダーとモーション制作を実演した。",
+          "mini_headline": "Figmaエージェントがモーションも",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "BS-N-AM5ql4"
+              },
+              {
+                "t": "p",
+                "x": "Figma on Figmaは、私たちが日々のワークフローで自社ツールをどう使っているか、あるいは単に面白いものを紹介するシリーズだ。今回はDesigner AdvocateのBrett McMillinが、Figmaのエージェントをモーションやカスタムシェーダー効果と組み合わせ、新しい創作アイデアを探る方法を解説する。"
+              },
+              {
+                "t": "p",
+                "x": "00:00 – Intro(イントロ)、Brett McMillin · 00:45 – Exploring Figma motion & shaders example(Figmaのモーションとシェーダーの例を探る) · 01:45 – Automating Motion with the Figma agent(Figmaエージェントでモーションを自動化) · 02:45 – Custom Shader Generation(カスタムシェーダーの生成) · 03:00 – Stacking Built-in & Custom Effects(組み込み効果とカスタム効果の重ね合わせ) · 03:28 – Real-time Light Refraction Through Glass(ガラスを通るリアルタイムの光の屈折)"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Figma智能体\n挑战着色器与动效",
+          "body": "Figma团队演示了Figma智能体在日常工作流程中制作着色器和动效。",
+          "mini_headline": "Figma智能体做动效",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "BS-N-AM5ql4"
+              },
+              {
+                "t": "p",
+                "x": "欢迎收看Figma on Figma系列，我们在这里展示自己如何在日常工作流程中使用自家工具，或者只是展示一些很酷的东西。本期由Designer Advocate Brett McMillin带我们了解，他如何结合动效和自定义着色器效果使用Figma的智能体，探索新的创意。"
+              },
+              {
+                "t": "p",
+                "x": "00:00 – Intro（开场），Brett McMillin · 00:45 – Exploring Figma motion & shaders example（探索Figma动效与着色器示例） · 01:45 – Automating Motion with the Figma agent（用Figma智能体自动生成动效） · 02:45 – Custom Shader Generation（生成自定义着色器） · 03:00 – Stacking Built-in & Custom Effects（叠加内置与自定义效果） · 03:28 – Real-time Light Refraction Through Glass（光线穿过玻璃的实时折射）"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El agente de Figma se ocupa\nde shaders y movimiento",
+          "body": "El propio equipo de Figma muestra al agente de Figma creando shaders y movimiento en un flujo de trabajo cotidiano.",
+          "mini_headline": "El agente de Figma anima",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "BS-N-AM5ql4"
+              },
+              {
+                "t": "p",
+                "x": "Bienvenidos a Figma on Figma, la serie en la que mostramos cómo usamos nuestras propias herramientas en el trabajo diario, o simplemente enseñamos algo interesante. En este episodio, Brett McMillin, Designer Advocate, explica cómo usa el agente de Figma con movimiento y efectos de shaders personalizados para explorar nuevas ideas creativas."
+              },
+              {
+                "t": "p",
+                "x": "00:00 – Intro, Brett McMillin · 00:45 – Explorando un ejemplo de movimiento y shaders en Figma · 01:45 – Automatizar el movimiento con el agente de Figma · 02:45 – Generación de shaders personalizados · 03:00 – Apilar efectos integrados (Built-in) y personalizados · 03:28 – Refracción de luz en tiempo real (Real-time) a través del vidrio"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Figma 에이전트,\n셰이더·모션까지",
+          "body": "Figma 팀이 일상 작업 속 Figma 에이전트의 셰이더·모션 제작을 시연했다.",
+          "mini_headline": "Figma 에이전트, 모션까지",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "BS-N-AM5ql4"
+              },
+              {
+                "t": "p",
+                "x": "Figma on Figma는 우리가 일상 작업에서 자사 도구를 어떻게 쓰는지 보여 주거나, 그냥 멋진 무언가를 자랑하는 시리즈다. 이번 에피소드에서는 Designer Advocate인 Brett McMillin이 Figma의 에이전트를 모션, 커스텀 셰이더 효과와 함께 활용해 새로운 창작 아이디어를 탐색하는 과정을 소개한다."
+              },
+              {
+                "t": "p",
+                "x": "00:00 – Intro(인트로), Brett McMillin · 00:45 – Exploring Figma motion & shaders example(Figma 모션·셰이더 예시 살펴보기) · 01:45 – Automating Motion with the Figma agent(Figma 에이전트로 모션 자동화) · 02:45 – Custom Shader Generation(커스텀 셰이더 생성) · 03:00 – Stacking Built-in & Custom Effects(내장 효과와 커스텀 효과 겹치기) · 03:28 – Real-time Light Refraction Through Glass(유리를 통과하는 실시간 빛 굴절)"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Figmaエージェントが\nシェーダーとモーションに",
+          "body": "Figmaチームが業務でFigmaエージェントによるシェーダーとモーション制作を実演した。",
+          "mini_headline": "Figmaエージェントがモーションも",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "BS-N-AM5ql4"
+              },
+              {
+                "t": "p",
+                "x": "Figma on Figmaは、私たちが日々のワークフローで自社ツールをどう使っているか、あるいは単に面白いものを紹介するシリーズだ。今回はDesigner AdvocateのBrett McMillinが、Figmaのエージェントをモーションやカスタムシェーダー効果と組み合わせ、新しい創作アイデアを探る方法を解説する。"
+              },
+              {
+                "t": "p",
+                "x": "00:00 – Intro(イントロ)、Brett McMillin · 00:45 – Exploring Figma motion & shaders example(Figmaのモーションとシェーダーの例を探る) · 01:45 – Automating Motion with the Figma agent(Figmaエージェントでモーションを自動化) · 02:45 – Custom Shader Generation(カスタムシェーダーの生成) · 03:00 – Stacking Built-in & Custom Effects(組み込み効果とカスタム効果の重ね合わせ) · 03:28 – Real-time Light Refraction Through Glass(ガラスを通るリアルタイムの光の屈折)"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Figma智能体\n挑战着色器与动效",
+          "body": "Figma团队演示了Figma智能体在日常工作流程中制作着色器和动效。",
+          "mini_headline": "Figma智能体做动效",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "BS-N-AM5ql4"
+              },
+              {
+                "t": "p",
+                "x": "欢迎收看Figma on Figma系列，我们在这里展示自己如何在日常工作流程中使用自家工具，或者只是展示一些很酷的东西。本期由Designer Advocate Brett McMillin带我们了解，他如何结合动效和自定义着色器效果使用Figma的智能体，探索新的创意。"
+              },
+              {
+                "t": "p",
+                "x": "00:00 – Intro（开场），Brett McMillin · 00:45 – Exploring Figma motion & shaders example（探索Figma动效与着色器示例） · 01:45 – Automating Motion with the Figma agent（用Figma智能体自动生成动效） · 02:45 – Custom Shader Generation（生成自定义着色器） · 03:00 – Stacking Built-in & Custom Effects（叠加内置与自定义效果） · 03:28 – Real-time Light Refraction Through Glass（光线穿过玻璃的实时折射）"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El agente de Figma se ocupa\nde shaders y movimiento",
+          "body": "El propio equipo de Figma muestra al agente de Figma creando shaders y movimiento en un flujo de trabajo cotidiano.",
+          "mini_headline": "El agente de Figma anima",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "BS-N-AM5ql4"
+              },
+              {
+                "t": "p",
+                "x": "Bienvenidos a Figma on Figma, la serie en la que mostramos cómo usamos nuestras propias herramientas en el trabajo diario, o simplemente enseñamos algo interesante. En este episodio, Brett McMillin, Designer Advocate, explica cómo usa el agente de Figma con movimiento y efectos de shaders personalizados para explorar nuevas ideas creativas."
+              },
+              {
+                "t": "p",
+                "x": "00:00 – Intro, Brett McMillin · 00:45 – Explorando un ejemplo de movimiento y shaders en Figma · 01:45 – Automatizar el movimiento con el agente de Figma · 02:45 – Generación de shaders personalizados · 03:00 – Apilar efectos integrados (Built-in) y personalizados · 03:28 – Refracción de luz en tiempo real (Real-time) a través del vidrio"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "etsy-ai-photos",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Etsy, 가짜 AI\n상품 사진 금지",
+      "body": "Creative Bloq은 Etsy의 실물 사진 의무화를 AI 슬롭 증거로 읽는다.",
+      "mini_headline": "Etsy, AI 사진 단속",
       "tool": "Figma",
-      "source": "AI타임스",
-      "url": "https://www.aitimes.com/news/articleView.html?idxno=216679",
+      "source": "Creative Bloq",
+      "url": "https://www.creativebloq.com/news/etsys-crackdown-on-ai-slop-is-welcome-but-it-shows-how-far-things-have-slipped",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -331,535 +643,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.aitimes.com/news/photo/202610/216679_220802_5713.jpeg",
-            "cap": "(사진=이디오그램)"
+            "src": "https://cdn.mos.cms.futurecdn.net/uzZxJaKSXhN5uxfLGfsSNd-1600-80.jpg",
+            "cap": "Etsy의 James Ossman이 YouTube 영상에서 플랫폼의 새 규칙을 설명했다 (Image credit: Etsy)"
           },
           {
             "t": "p",
-            "x": "AI 이미지 생성 경쟁이 보기 좋은 그림을 만드는 단계에서 실제 디자인 작업에 활용할 수 있는 파일을 만드는 단계로 확장되고 있다. 이디오그램(Ideogram)은 23일(현지시간) 텍스트로 편집 가능한 그래픽을 만들고 기존 이미지도 벡터로 변환하는 전용 AI 모델 ‘이디오그램 벡터(Ideogram Vector)’를 공개했다."
+            "x": "핸드메이드 디자인이 중심인 마켓플레이스에 가짜 사진 금지 규칙이 필요하다면 뭔가 잘못됐다. 그런데 Etsy는 왜 갑자기 판매자들에게 \"판매하는 상품의 사진은 실제로 판매하는 상품의 사진이어야 한다\"고 말하는 걸까?"
           },
           {
             "t": "p",
-            "x": "이디오그램 벡터는 사용자가 원하는 디자인을 글로 설명하면 SVG 파일을 생성한다. 기존 PNG나 JPEG 이미지도 벡터 형태로 변환할 수 있다. SVG는 선과 곡선, 색상 채우기, 그라데이션 등 기하학적 요소로 구성돼 해상도에 구애받지 않고 크기를 조절할 수 있어 로고와 포스터, 제품 라벨처럼 다양한 크기와 매체에 맞춰야 하는 디자인에서 중요하다."
-          },
-          {
-            "t": "p",
-            "x": "텍스트 기반 생성에서는 문자와 도형을 결합한 로고, 장식적인 타이포그래피, 단순한 형태로 구성된 일러스트 등을 주요 활용 사례로 제시했다. 다만 글자가 벡터 경로로 변환된 경우에는 글꼴이나 문구를 일반 텍스트처럼 바로 바꾸기 어려울 수 있다. 이미지 변환도 원본의 레이어 구조까지 복원되는 것은 아니어서 실제 편집이 얼마나 쉬운지 확인해야 한다."
+            "x": "이 핸드메이드 상품 마켓플레이스는 지난주, 모든 상품 목록에 실제 배경에서 찍고 보정하지 않은 실물 사진을 한 장 이상 넣으라고 발표했다. 고객용 패턴, 레시피, 설명서에 AI 이미지 생성기를 쓰는 일도 명시적으로 막았고, 봇이 만든 목록도 금지했다. AI-generated(AI 생성) 아트는 여전히 Etsy에서 허용되지만, 판매자가 그 사실을 분명히 밝혀야 한다."
           },
           {
             "t": "video",
-            "yt": "jmQk4oa5EnM"
+            "yt": "QHMQbCF5PeM"
           },
           {
             "t": "p",
-            "x": "개발자를 위한 API도 제공한다. API 가격은 텍스트 기반 생성의 경우 이미지 참조를 사용하지 않을 때 품질 설정에 따라 한 장당 0.13~0.20달러다. 이미지 참조를 사용하는 고품질 생성은 한 장당 0.32달러로 책정됐다."
-          }
-        ]
-      },
-      "text": {
-        "ko": {
-          "headline": "이디오그램, 로고를\nSVG 편집 파일로",
-          "body": "이디오그램이 로고 생성을 넘어 편집 가능한 SVG 벡터 파일을 내놓는다.",
-          "mini_headline": "이디오그램 SVG 벡터 AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.aitimes.com/news/photo/202610/216679_220802_5713.jpeg",
-                "cap": "(사진=이디오그램)"
-              },
-              {
-                "t": "p",
-                "x": "AI 이미지 생성 경쟁이 보기 좋은 그림을 만드는 단계에서 실제 디자인 작업에 활용할 수 있는 파일을 만드는 단계로 확장되고 있다. 이디오그램(Ideogram)은 23일(현지시간) 텍스트로 편집 가능한 그래픽을 만들고 기존 이미지도 벡터로 변환하는 전용 AI 모델 ‘이디오그램 벡터(Ideogram Vector)’를 공개했다."
-              },
-              {
-                "t": "p",
-                "x": "이디오그램 벡터는 사용자가 원하는 디자인을 글로 설명하면 SVG 파일을 생성한다. 기존 PNG나 JPEG 이미지도 벡터 형태로 변환할 수 있다. SVG는 선과 곡선, 색상 채우기, 그라데이션 등 기하학적 요소로 구성돼 해상도에 구애받지 않고 크기를 조절할 수 있어 로고와 포스터, 제품 라벨처럼 다양한 크기와 매체에 맞춰야 하는 디자인에서 중요하다."
-              },
-              {
-                "t": "p",
-                "x": "텍스트 기반 생성에서는 문자와 도형을 결합한 로고, 장식적인 타이포그래피, 단순한 형태로 구성된 일러스트 등을 주요 활용 사례로 제시했다. 다만 글자가 벡터 경로로 변환된 경우에는 글꼴이나 문구를 일반 텍스트처럼 바로 바꾸기 어려울 수 있다. 이미지 변환도 원본의 레이어 구조까지 복원되는 것은 아니어서 실제 편집이 얼마나 쉬운지 확인해야 한다."
-              },
-              {
-                "t": "video",
-                "yt": "jmQk4oa5EnM"
-              },
-              {
-                "t": "p",
-                "x": "개발자를 위한 API도 제공한다. API 가격은 텍스트 기반 생성의 경우 이미지 참조를 사용하지 않을 때 품질 설정에 따라 한 장당 0.13~0.20달러다. 이미지 참조를 사용하는 고품질 생성은 한 장당 0.32달러로 책정됐다."
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "Ideogram turns logos into\neditable SVG files",
-          "body": "Ideogram now goes beyond generating logos to produce editable SVG vector files.",
-          "mini_headline": "Ideogram SVG vector AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.aitimes.com/news/photo/202610/216679_220802_5713.jpeg",
-                "cap": "(Photo: Ideogram)"
-              },
-              {
-                "t": "p",
-                "x": "The race in AI image generation is expanding from making good-looking pictures to producing files that can be used in real design work. On the 23rd (local time), Ideogram released 'Ideogram Vector,' a dedicated AI model that creates editable graphics from text and also converts existing images into vectors."
-              },
-              {
-                "t": "p",
-                "x": "Ideogram Vector generates an SVG file when users describe the design they want in words. It can also convert existing PNG or JPEG images into vector form. Because SVG is made of geometric elements such as lines, curves, color fills and gradients, it can be resized regardless of resolution, which matters for designs that must fit many sizes and media, such as logos, posters and product labels."
-              },
-              {
-                "t": "p",
-                "x": "For text-based generation, the company cited logos combining letters and shapes, decorative typography and illustrations built from simple forms as key use cases. However, once letters have been converted into vector paths, it may be hard to change the font or wording directly as with ordinary text. Image conversion also does not restore the original's layer structure, so how easy actual editing is needs to be checked."
-              },
-              {
-                "t": "video",
-                "yt": "jmQk4oa5EnM"
-              },
-              {
-                "t": "p",
-                "x": "An API is also available for developers. For text-based generation without image references, API pricing is $0.13~0.20 per image depending on the quality setting. High-quality generation with image references is priced at $0.32 per image."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Ideogram、ロゴを\nSVG編集ファイルに",
-          "body": "Ideogramがロゴ生成を超え、編集可能なSVGベクターファイルを出力する。",
-          "mini_headline": "Ideogram SVG ベクター AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.aitimes.com/news/photo/202610/216679_220802_5713.jpeg",
-                "cap": "(写真=Ideogram)"
-              },
-              {
-                "t": "p",
-                "x": "AI画像生成の競争は、見栄えのよい絵を作る段階から、実際のデザイン作業に使えるファイルを作る段階へと広がっている。Ideogramは23日(現地時間)、テキストから編集可能なグラフィックを作成し、既存の画像もベクターに変換する専用AIモデル「Ideogram Vector」を公開した。"
-              },
-              {
-                "t": "p",
-                "x": "Ideogram Vectorは、ユーザーが望むデザインを文章で説明するとSVGファイルを生成する。既存のPNGやJPEG画像もベクター形式に変換できる。SVGは線や曲線、色の塗り、グラデーションなどの幾何学的要素で構成され、解像度に左右されずにサイズを変更できるため、ロゴやポスター、製品ラベルのように様々なサイズや媒体に合わせる必要があるデザインで重要となる。"
-              },
-              {
-                "t": "p",
-                "x": "テキストベースの生成では、文字と図形を組み合わせたロゴ、装飾的なタイポグラフィ、シンプルな形で構成したイラストなどを主な活用例として挙げた。ただし文字がベクターパスに変換された場合、フォントや文言を通常のテキストのようにすぐ変更するのは難しいことがある。画像変換も元のレイヤー構造まで復元されるわけではないため、実際の編集のしやすさを確かめる必要がある。"
-              },
-              {
-                "t": "video",
-                "yt": "jmQk4oa5EnM"
-              },
-              {
-                "t": "p",
-                "x": "開発者向けのAPIも提供する。API価格は、テキストベースの生成で画像参照を使わない場合、品質設定に応じて一枚あたり0.13~0.20ドルである。画像参照を使う高品質生成は一枚あたり0.32ドルに設定された。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Ideogram把标志\n变成可编辑SVG",
-          "body": "Ideogram不止于生成标志，还能输出可编辑的SVG矢量文件。",
-          "mini_headline": "Ideogram SVG 矢量 AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.aitimes.com/news/photo/202610/216679_220802_5713.jpeg",
-                "cap": "(图片=Ideogram)"
-              },
-              {
-                "t": "p",
-                "x": "AI图像生成的竞争正从制作好看的图片，扩展到制作可用于实际设计工作的文件。Ideogram于23日（当地时间）发布了专用AI模型“Ideogram Vector”，可通过文本生成可编辑图形，也能将现有图像转换为矢量。"
-              },
-              {
-                "t": "p",
-                "x": "用户用文字描述想要的设计，Ideogram Vector即可生成SVG文件。现有的PNG或JPEG图像也能转换为矢量格式。SVG由线条、曲线、颜色填充、渐变等几何元素构成，可以不受分辨率限制地调整尺寸，因此对标志、海报、产品标签等需要适配多种尺寸和媒介的设计十分重要。"
-              },
-              {
-                "t": "p",
-                "x": "在基于文本的生成方面，该公司列举了文字与图形结合的标志、装饰性字体排印、由简单形状构成的插画等主要用例。不过，文字一旦转换为矢量路径，可能难以像普通文本那样直接修改字体或文案。图像转换也不会还原原图的图层结构，因此需要确认实际编辑有多方便。"
-              },
-              {
-                "t": "video",
-                "yt": "jmQk4oa5EnM"
-              },
-              {
-                "t": "p",
-                "x": "还为开发者提供API。API价格方面，基于文本的生成在不使用图像参考时，根据质量设置每张0.13~0.20美元。使用图像参考的高质量生成定价为每张0.32美元。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Ideogram convierte logos\nen archivos SVG editables",
-          "body": "Ideogram va más allá de generar logotipos y ahora entrega archivos vectoriales SVG editables.",
-          "mini_headline": "Ideogram: SVG vectorial con AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.aitimes.com/news/photo/202610/216679_220802_5713.jpeg",
-                "cap": "(Foto: Ideogram)"
-              },
-              {
-                "t": "p",
-                "x": "La competencia en generación de imágenes con AI se amplía de crear imágenes atractivas a producir archivos que sirven para el trabajo real de diseño. Ideogram presentó el día 23 (hora local) 'Ideogram Vector', un modelo de AI dedicado que crea gráficos editables a partir de texto y que también convierte imágenes existentes en vectores."
-              },
-              {
-                "t": "p",
-                "x": "Ideogram Vector genera un archivo SVG cuando el usuario describe por escrito el diseño que desea. También puede convertir imágenes PNG o JPEG existentes a formato vectorial. Como el SVG se compone de elementos geométricos como líneas, curvas, rellenos de color y degradados, puede redimensionarse sin depender de la resolución, algo clave en diseños que deben adaptarse a distintos tamaños y medios, como logotipos, carteles y etiquetas de productos."
-              },
-              {
-                "t": "p",
-                "x": "En la generación a partir de texto, la empresa citó como casos de uso principales los logotipos que combinan letras y formas, la tipografía decorativa y las ilustraciones de formas simples. No obstante, cuando las letras se convierten en trazados vectoriales, puede resultar difícil cambiar la fuente o el texto directamente como si fuera texto normal. La conversión de imágenes tampoco recupera la estructura de capas del original, por lo que conviene comprobar qué tan fácil es editarlas en la práctica."
-              },
-              {
-                "t": "video",
-                "yt": "jmQk4oa5EnM"
-              },
-              {
-                "t": "p",
-                "x": "También ofrece una API para desarrolladores. En la generación a partir de texto sin referencia de imagen, el precio de la API es de 0.13~0.20 dólares por imagen según el ajuste de calidad. La generación de alta calidad con referencia de imagen cuesta 0.32 dólares por imagen."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "en": {
-          "headline": "Ideogram turns logos into\neditable SVG files",
-          "body": "Ideogram now goes beyond generating logos to produce editable SVG vector files.",
-          "mini_headline": "Ideogram SVG vector AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.aitimes.com/news/photo/202610/216679_220802_5713.jpeg",
-                "cap": "(Photo: Ideogram)"
-              },
-              {
-                "t": "p",
-                "x": "The race in AI image generation is expanding from making good-looking pictures to producing files that can be used in real design work. On the 23rd (local time), Ideogram released 'Ideogram Vector,' a dedicated AI model that creates editable graphics from text and also converts existing images into vectors."
-              },
-              {
-                "t": "p",
-                "x": "Ideogram Vector generates an SVG file when users describe the design they want in words. It can also convert existing PNG or JPEG images into vector form. Because SVG is made of geometric elements such as lines, curves, color fills and gradients, it can be resized regardless of resolution, which matters for designs that must fit many sizes and media, such as logos, posters and product labels."
-              },
-              {
-                "t": "p",
-                "x": "For text-based generation, the company cited logos combining letters and shapes, decorative typography and illustrations built from simple forms as key use cases. However, once letters have been converted into vector paths, it may be hard to change the font or wording directly as with ordinary text. Image conversion also does not restore the original's layer structure, so how easy actual editing is needs to be checked."
-              },
-              {
-                "t": "video",
-                "yt": "jmQk4oa5EnM"
-              },
-              {
-                "t": "p",
-                "x": "An API is also available for developers. For text-based generation without image references, API pricing is $0.13~0.20 per image depending on the quality setting. High-quality generation with image references is priced at $0.32 per image."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Ideogram、ロゴを\nSVG編集ファイルに",
-          "body": "Ideogramがロゴ生成を超え、編集可能なSVGベクターファイルを出力する。",
-          "mini_headline": "Ideogram SVG ベクター AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.aitimes.com/news/photo/202610/216679_220802_5713.jpeg",
-                "cap": "(写真=Ideogram)"
-              },
-              {
-                "t": "p",
-                "x": "AI画像生成の競争は、見栄えのよい絵を作る段階から、実際のデザイン作業に使えるファイルを作る段階へと広がっている。Ideogramは23日(現地時間)、テキストから編集可能なグラフィックを作成し、既存の画像もベクターに変換する専用AIモデル「Ideogram Vector」を公開した。"
-              },
-              {
-                "t": "p",
-                "x": "Ideogram Vectorは、ユーザーが望むデザインを文章で説明するとSVGファイルを生成する。既存のPNGやJPEG画像もベクター形式に変換できる。SVGは線や曲線、色の塗り、グラデーションなどの幾何学的要素で構成され、解像度に左右されずにサイズを変更できるため、ロゴやポスター、製品ラベルのように様々なサイズや媒体に合わせる必要があるデザインで重要となる。"
-              },
-              {
-                "t": "p",
-                "x": "テキストベースの生成では、文字と図形を組み合わせたロゴ、装飾的なタイポグラフィ、シンプルな形で構成したイラストなどを主な活用例として挙げた。ただし文字がベクターパスに変換された場合、フォントや文言を通常のテキストのようにすぐ変更するのは難しいことがある。画像変換も元のレイヤー構造まで復元されるわけではないため、実際の編集のしやすさを確かめる必要がある。"
-              },
-              {
-                "t": "video",
-                "yt": "jmQk4oa5EnM"
-              },
-              {
-                "t": "p",
-                "x": "開発者向けのAPIも提供する。API価格は、テキストベースの生成で画像参照を使わない場合、品質設定に応じて一枚あたり0.13~0.20ドルである。画像参照を使う高品質生成は一枚あたり0.32ドルに設定された。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Ideogram把标志\n变成可编辑SVG",
-          "body": "Ideogram不止于生成标志，还能输出可编辑的SVG矢量文件。",
-          "mini_headline": "Ideogram SVG 矢量 AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.aitimes.com/news/photo/202610/216679_220802_5713.jpeg",
-                "cap": "(图片=Ideogram)"
-              },
-              {
-                "t": "p",
-                "x": "AI图像生成的竞争正从制作好看的图片，扩展到制作可用于实际设计工作的文件。Ideogram于23日（当地时间）发布了专用AI模型“Ideogram Vector”，可通过文本生成可编辑图形，也能将现有图像转换为矢量。"
-              },
-              {
-                "t": "p",
-                "x": "用户用文字描述想要的设计，Ideogram Vector即可生成SVG文件。现有的PNG或JPEG图像也能转换为矢量格式。SVG由线条、曲线、颜色填充、渐变等几何元素构成，可以不受分辨率限制地调整尺寸，因此对标志、海报、产品标签等需要适配多种尺寸和媒介的设计十分重要。"
-              },
-              {
-                "t": "p",
-                "x": "在基于文本的生成方面，该公司列举了文字与图形结合的标志、装饰性字体排印、由简单形状构成的插画等主要用例。不过，文字一旦转换为矢量路径，可能难以像普通文本那样直接修改字体或文案。图像转换也不会还原原图的图层结构，因此需要确认实际编辑有多方便。"
-              },
-              {
-                "t": "video",
-                "yt": "jmQk4oa5EnM"
-              },
-              {
-                "t": "p",
-                "x": "还为开发者提供API。API价格方面，基于文本的生成在不使用图像参考时，根据质量设置每张0.13~0.20美元。使用图像参考的高质量生成定价为每张0.32美元。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Ideogram convierte logos\nen archivos SVG editables",
-          "body": "Ideogram va más allá de generar logotipos y ahora entrega archivos vectoriales SVG editables.",
-          "mini_headline": "Ideogram: SVG vectorial con AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.aitimes.com/news/photo/202610/216679_220802_5713.jpeg",
-                "cap": "(Foto: Ideogram)"
-              },
-              {
-                "t": "p",
-                "x": "La competencia en generación de imágenes con AI se amplía de crear imágenes atractivas a producir archivos que sirven para el trabajo real de diseño. Ideogram presentó el día 23 (hora local) 'Ideogram Vector', un modelo de AI dedicado que crea gráficos editables a partir de texto y que también convierte imágenes existentes en vectores."
-              },
-              {
-                "t": "p",
-                "x": "Ideogram Vector genera un archivo SVG cuando el usuario describe por escrito el diseño que desea. También puede convertir imágenes PNG o JPEG existentes a formato vectorial. Como el SVG se compone de elementos geométricos como líneas, curvas, rellenos de color y degradados, puede redimensionarse sin depender de la resolución, algo clave en diseños que deben adaptarse a distintos tamaños y medios, como logotipos, carteles y etiquetas de productos."
-              },
-              {
-                "t": "p",
-                "x": "En la generación a partir de texto, la empresa citó como casos de uso principales los logotipos que combinan letras y formas, la tipografía decorativa y las ilustraciones de formas simples. No obstante, cuando las letras se convierten en trazados vectoriales, puede resultar difícil cambiar la fuente o el texto directamente como si fuera texto normal. La conversión de imágenes tampoco recupera la estructura de capas del original, por lo que conviene comprobar qué tan fácil es editarlas en la práctica."
-              },
-              {
-                "t": "video",
-                "yt": "jmQk4oa5EnM"
-              },
-              {
-                "t": "p",
-                "x": "También ofrece una API para desarrolladores. En la generación a partir de texto sin referencia de imagen, el precio de la API es de 0.13~0.20 dólares por imagen según el ajuste de calidad. La generación de alta calidad con referencia de imagen cuesta 0.32 dólares por imagen."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "design-figma-mcp-library",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "MCP로 코드에서 만든\nFigma 라이브러리",
-      "body": "코드발 디자인 시스템을 MCP로 옮겨 AI용 Figma 라이브러리를 만든다.",
-      "mini_headline": "코드에서 Figma로, MCP 활용",
-      "tool": "Figma",
-      "source": "UX Collective",
-      "url": "https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://miro.medium.com/v2/resize:fit:1200/0*z97zDowA9lacbpjQ.jpeg"
+            "x": "불만이 빠르게 쌓이면서 Etsy도 손을 써야 했다. 크리에이터 Kara Lynne은 X에 이렇게 썼다. \"코바늘 패턴을 샀는데 PDF를 열어 보니 전부 AI-generated였고, 말이 안 되고, 완성품이 어떤 모습이어야 하는지와도 전혀 맞지 않을 때 얼마나 화가 나는지 설명할 수가 없다.\""
           },
           {
             "t": "p",
-            "x": "Christine Vallaure가 디자이너용으로 쓴 실무 가이드(세 편짜리 시리즈 In-System Design의 Part 1)다. 자신의 디자인 시스템이 왜 코드에서 출발하는지, 그 코드로 Figma 라이브러리를 어떻게 만들고 점검하고 유지하는지 풀어낸다."
-          },
-          {
-            "t": "p",
-            "x": "Figma-to-code 경로를 AI에 맡겼더니 겉보기엔 멀쩡한데 파일에 없는 내용, 그러니까 포커스 순서와 오류 상태, 스크린 리더가 읽어 주는 내용을 지어낸 코드가 나왔다. 그래서 방향을 뒤집었다. \"코드가 기준 원본이다. Figma는 그것을 비춘다. 둘이 다르면 틀린 쪽은 Figma다.\""
-          },
-          {
-            "t": "p",
-            "x": "작업 흐름은 이렇다. 코드에 안전하게 접근하고 Storybook이 돌아가는지 확인한 뒤 Southleft의 Figma Console MCP로 빈 Figma 파일을 연다. 토큰과 텍스트 스타일부터 옮기고 Button과 Alert 같은 테스트 컴포넌트 두 개를 만들어 본 다음에야 라이브러리 전체를 돌린다. 매번 Figma로 표현하지 못한 것을 모두 적은 GAPS.md도 요청한다."
-          },
-          {
-            "t": "p",
-            "x": "반복되는 수정은 스킬로 굳는다. 패리티 체커는 Storybook 컴포넌트 매니페스트와 여기에 대응하는 Figma JSON 목록을 이름은 이름끼리, 기본값은 기본값끼리 대조한다."
+            "x": "Etsy는 이로써 AI 트랙 50 million 곡을 내린 Spotify, gen-AI 콘텐츠를 추천에서 뺀 Snap, 신고 버튼을 단 LinkedIn의 뒤를 잇는다. 새 규칙이 모든 문제를 풀지는 못하겠지만, \"핸드메이드\" 제품을 사는 사람들이 정말 사람이 만든 것인지 알고 싶어 한다는 사실은 인정한 셈이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A Figma library built\nfrom code with MCP",
-          "body": "This guide starts the design system in code and uses MCP to build and check the Figma library AI agents rely on.",
-          "mini_headline": "Code to Figma via MCP",
+          "headline": "Etsy bans fake AI\nproduct photos",
+          "body": "Etsy now requires a real, unedited photo of each item, a rule Creative Bloq says shows how far AI slop has spread.",
+          "mini_headline": "Etsy curbs AI photos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1200/0*z97zDowA9lacbpjQ.jpeg"
+                "src": "https://cdn.mos.cms.futurecdn.net/uzZxJaKSXhN5uxfLGfsSNd-1600-80.jpg",
+                "cap": "Etsy’s James Ossman broke down the platform's new rules in a YouTube video (Image credit: Etsy)"
               },
               {
                 "t": "p",
-                "x": "Christine Vallaure's practical guide for designers (Part 1 of the three-part series In-System Design) explains why her design system starts in code and how she builds, checks and maintains the Figma library from it."
+                "x": "When a marketplace focused on handmade design needs a rule banning fake photos, something's gone wrong. So why is Etsy suddenly telling its sellers: \"The photo of the product you're selling should actually be the photo of the product you're selling\"?"
               },
               {
                 "t": "p",
-                "x": "Handing the Figma-to-code route to an AI produced code that looked fine but invented what the file did not say: focus order, error states, what a screen reader announces. So she turned the direction around: \"Code is the source of truth. Figma mirrors it. Where they differ, Figma is wrong.\""
+                "x": "Last week the marketplace for handmade goods announced that every listing must now include at least one unedited photo of the actual item, shot against a real background. It also specifically banned the use of AI image generators for patterns, recipes and instructions for customers, and outlawed listings created by bots. AI-generated art is still okay on Etsy, but sellers need to be clear about that fact."
+              },
+              {
+                "t": "video",
+                "yt": "QHMQbCF5PeM"
               },
               {
                 "t": "p",
-                "x": "The workflow: get safe access to the code, check that Storybook is running, open an empty Figma file with Figma Console MCP by Southleft, transfer tokens and text styles first, then build two test components such as Button and Alert before running the whole library — and ask for a GAPS.md every time, listing everything that could not be expressed in Figma."
+                "x": "Etsy had to do something, because the complaints are mounting fast. Creator Kara Lynne wrote on X: \"I can't explain how infuriating it has been to purchase a crochet pattern, only to open the PDF and realise it's fully AI-generated, doesn't make sense, and definitely doesn't match what the finished product should be.\""
               },
               {
                 "t": "p",
-                "x": "Repeated corrections become a skill, and a parity checker compares the Storybook component manifest with a matching Figma JSON list, name against name and default against default."
+                "x": "Etsy now follows Spotify pulling 50 million AI tracks, Snap keeping gen-AI content out of its recommendations and LinkedIn adding a button to report it. The new rules won't fix everything, but they acknowledge that when people buy something \"handmade\", they want to know whether a human actually made it."
               }
             ]
           }
         },
         "ko": {
-          "headline": "MCP로 코드에서 만든\nFigma 라이브러리",
-          "body": "코드발 디자인 시스템을 MCP로 옮겨 AI용 Figma 라이브러리를 만든다.",
-          "mini_headline": "코드에서 Figma로, MCP 활용",
+          "headline": "Etsy, 가짜 AI\n상품 사진 금지",
+          "body": "Creative Bloq은 Etsy의 실물 사진 의무화를 AI 슬롭 증거로 읽는다.",
+          "mini_headline": "Etsy, AI 사진 단속",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1200/0*z97zDowA9lacbpjQ.jpeg"
+                "src": "https://cdn.mos.cms.futurecdn.net/uzZxJaKSXhN5uxfLGfsSNd-1600-80.jpg",
+                "cap": "Etsy의 James Ossman이 YouTube 영상에서 플랫폼의 새 규칙을 설명했다 (Image credit: Etsy)"
               },
               {
                 "t": "p",
-                "x": "Christine Vallaure가 디자이너용으로 쓴 실무 가이드(세 편짜리 시리즈 In-System Design의 Part 1)다. 자신의 디자인 시스템이 왜 코드에서 출발하는지, 그 코드로 Figma 라이브러리를 어떻게 만들고 점검하고 유지하는지 풀어낸다."
+                "x": "핸드메이드 디자인이 중심인 마켓플레이스에 가짜 사진 금지 규칙이 필요하다면 뭔가 잘못됐다. 그런데 Etsy는 왜 갑자기 판매자들에게 \"판매하는 상품의 사진은 실제로 판매하는 상품의 사진이어야 한다\"고 말하는 걸까?"
               },
               {
                 "t": "p",
-                "x": "Figma-to-code 경로를 AI에 맡겼더니 겉보기엔 멀쩡한데 파일에 없는 내용, 그러니까 포커스 순서와 오류 상태, 스크린 리더가 읽어 주는 내용을 지어낸 코드가 나왔다. 그래서 방향을 뒤집었다. \"코드가 기준 원본이다. Figma는 그것을 비춘다. 둘이 다르면 틀린 쪽은 Figma다.\""
+                "x": "이 핸드메이드 상품 마켓플레이스는 지난주, 모든 상품 목록에 실제 배경에서 찍고 보정하지 않은 실물 사진을 한 장 이상 넣으라고 발표했다. 고객용 패턴, 레시피, 설명서에 AI 이미지 생성기를 쓰는 일도 명시적으로 막았고, 봇이 만든 목록도 금지했다. AI-generated(AI 생성) 아트는 여전히 Etsy에서 허용되지만, 판매자가 그 사실을 분명히 밝혀야 한다."
+              },
+              {
+                "t": "video",
+                "yt": "QHMQbCF5PeM"
               },
               {
                 "t": "p",
-                "x": "작업 흐름은 이렇다. 코드에 안전하게 접근하고 Storybook이 돌아가는지 확인한 뒤 Southleft의 Figma Console MCP로 빈 Figma 파일을 연다. 토큰과 텍스트 스타일부터 옮기고 Button과 Alert 같은 테스트 컴포넌트 두 개를 만들어 본 다음에야 라이브러리 전체를 돌린다. 매번 Figma로 표현하지 못한 것을 모두 적은 GAPS.md도 요청한다."
+                "x": "불만이 빠르게 쌓이면서 Etsy도 손을 써야 했다. 크리에이터 Kara Lynne은 X에 이렇게 썼다. \"코바늘 패턴을 샀는데 PDF를 열어 보니 전부 AI-generated였고, 말이 안 되고, 완성품이 어떤 모습이어야 하는지와도 전혀 맞지 않을 때 얼마나 화가 나는지 설명할 수가 없다.\""
               },
               {
                 "t": "p",
-                "x": "반복되는 수정은 스킬로 굳는다. 패리티 체커는 Storybook 컴포넌트 매니페스트와 여기에 대응하는 Figma JSON 목록을 이름은 이름끼리, 기본값은 기본값끼리 대조한다."
+                "x": "Etsy는 이로써 AI 트랙 50 million 곡을 내린 Spotify, gen-AI 콘텐츠를 추천에서 뺀 Snap, 신고 버튼을 단 LinkedIn의 뒤를 잇는다. 새 규칙이 모든 문제를 풀지는 못하겠지만, \"핸드메이드\" 제품을 사는 사람들이 정말 사람이 만든 것인지 알고 싶어 한다는 사실은 인정한 셈이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MCPでコードから作る\nFigmaライブラリ",
-          "body": "デザインシステムをコードから始め、MCPでAI向けFigmaライブラリを構築・検証する。",
-          "mini_headline": "コードからFigmaへ、MCPで",
+          "headline": "Etsy、偽のAI\n商品写真を禁止",
+          "body": "Creative Bloqは、Etsyの実物写真義務化をAIスロップ蔓延の証とみる。",
+          "mini_headline": "Etsy、AI写真を規制",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1200/0*z97zDowA9lacbpjQ.jpeg"
+                "src": "https://cdn.mos.cms.futurecdn.net/uzZxJaKSXhN5uxfLGfsSNd-1600-80.jpg",
+                "cap": "EtsyのJames OssmanがYouTube動画でプラットフォームの新ルールを解説した (Image credit: Etsy)"
               },
               {
                 "t": "p",
-                "x": "Christine Vallaureによるデザイナー向け実践ガイド(全三回シリーズIn-System DesignのPart 1)は、彼女のデザインシステムがなぜコードから始まるのか、そしてそこからFigmaライブラリをどう構築し、検証し、維持するのかを解説する。"
+                "x": "手作りデザインに特化したマーケットプレイスに偽写真を禁じるルールが必要になるなら、何かがおかしくなっている。では、なぜEtsyは突然、販売者に「販売している商品の写真は、実際に販売している商品の写真であるべきだ」と伝えているのか。"
               },
               {
                 "t": "p",
-                "x": "Figma-to-codeの工程をAIに任せたところ、見た目は問題ないがファイルに書かれていないこと、つまりフォーカス順序、エラー状態、スクリーンリーダーが読み上げる内容をでっち上げたコードができた。そこで彼女は方向を逆にした。「コードが唯一の正である。Figmaはそれを映す。両者が異なるなら、間違っているのはFigmaだ」"
+                "x": "先週、このハンドメイド品のマーケットプレイスは、すべての出品に、実際の背景で撮影した実物の無加工写真を少なくとも一枚含めることを義務づけると発表した。さらに、顧客向けの型紙やレシピ、説明書にAI画像生成ツールを使うことを明確に禁止し、ボットが作成した出品も禁じた。AI-generatedのアートは引き続きEtsyで認められるが、販売者はその旨を明示する必要がある。"
+              },
+              {
+                "t": "video",
+                "yt": "QHMQbCF5PeM"
               },
               {
                 "t": "p",
-                "x": "ワークフローはこうだ。コードへの安全なアクセスを確保し、Storybookが動いていることを確認し、SouthleftのFigma Console MCPで空のFigmaファイルを開く。まずトークンとテキストスタイルを移し、ButtonやAlertなどのテストコンポーネントを二つ作ってからライブラリ全体を実行する。そして毎回、Figmaで表現できなかったものをすべて列挙したGAPS.mdを求める。"
+                "x": "苦情が急増しており、Etsyは手を打つ必要があった。クリエイターのKara LynneはXにこう書いた。「かぎ針編みのパターンを買ってPDFを開いたら、完全にAI-generatedで、意味が通らず、完成品のあるべき姿ともまったく一致しなかったときの腹立たしさは言葉にできない」"
               },
               {
                 "t": "p",
-                "x": "繰り返される修正はスキルになり、パリティチェッカーがStorybookのコンポーネントマニフェストと対応するFigma JSONリストを、名前は名前同士、デフォルトはデフォルト同士で照合する。"
+                "x": "これでEtsyは、50 million 曲のAIトラックを削除したSpotify、gen-AIコンテンツをおすすめから外したSnap、通報ボタンを追加したLinkedInに続くことになる。新ルールですべてが解決するわけではないが、人々が「ハンドメイド」の品を買うとき、本当に人間が作ったのかを知りたがっていることを認めたものだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "用MCP从代码\n构建Figma组件库",
-          "body": "该指南让设计系统从代码起步，并用MCP构建和检查AI智能体所依赖的Figma组件库。",
-          "mini_headline": "借助MCP从代码到Figma",
+          "headline": "Etsy禁止虚假\nAI商品照片",
+          "body": "Etsy要求每件商品附未修图实拍照，Creative Bloq称此举显示AI垃圾内容泛滥。",
+          "mini_headline": "Etsy限制AI照片",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1200/0*z97zDowA9lacbpjQ.jpeg"
+                "src": "https://cdn.mos.cms.futurecdn.net/uzZxJaKSXhN5uxfLGfsSNd-1600-80.jpg",
+                "cap": "Etsy的James Ossman在YouTube视频中解读了平台新规（Image credit: Etsy）"
               },
               {
                 "t": "p",
-                "x": "Christine Vallaure为设计师撰写的实用指南（三部分系列In-System Design的Part 1）解释了她的设计系统为何从代码起步，以及她如何据此构建、检查并维护Figma组件库。"
+                "x": "当一个专注手工设计的平台需要一条禁止假照片的规则时，事情就已经不对劲了。那么，Etsy为何突然告诉卖家：“你所出售商品的照片，就应该真的是你所出售商品的照片”？"
               },
               {
                 "t": "p",
-                "x": "把Figma-to-code这条路线交给AI后，生成的代码看起来没问题，却编造了文件中没有说明的内容：焦点顺序、错误状态、屏幕阅读器会播报什么。于是她把方向倒了过来：“代码是唯一可信来源。Figma只是它的镜像。两者不一致时，错的是Figma。”"
+                "x": "上周，这个手工商品平台宣布，每个商品页面现在必须至少包含一张在真实背景下拍摄、未经修图的实物照片。它还明确禁止使用AI图像生成器制作面向顾客的图样、食谱和说明，并禁止由机器人创建的商品页面。AI-generated艺术在Etsy上仍然允许，但卖家需要明确说明这一点。"
+              },
+              {
+                "t": "video",
+                "yt": "QHMQbCF5PeM"
               },
               {
                 "t": "p",
-                "x": "工作流程是：获取对代码的安全访问，确认Storybook正在运行，用Southleft的Figma Console MCP打开一个空白Figma文件，先迁移令牌和文本样式，再构建Button和Alert等两个测试组件，然后才运行整个组件库——并且每次都要求生成一份GAPS.md，列出所有无法在Figma中表达的内容。"
+                "x": "投诉正迅速增加，Etsy不得不有所行动。创作者Kara Lynne在X上写道：“我买了一份钩针图样，打开PDF却发现完全是AI-generated的，内容说不通，也和成品应有的样子完全不符，那种愤怒我真的无法形容。”"
               },
               {
                 "t": "p",
-                "x": "反复出现的修正会沉淀为一项技能，而一致性检查器会把Storybook组件清单与对应的Figma JSON列表逐一比对，名称对名称，默认值对默认值。"
+                "x": "此前，Spotify下架了50 million 首AI歌曲，Snap将gen-AI内容排除在推荐之外，LinkedIn增加了举报按钮，如今Etsy也跟进了。新规不会解决所有问题，但它承认，人们购买“手工”商品时，想知道它是否真的由人制作。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una biblioteca de Figma\nconstruida desde código con MCP",
-          "body": "La guía lleva el sistema de diseño del código a Figma con MCP y revisa la biblioteca que usan los agentes de AI.",
-          "mini_headline": "Del código a Figma con MCP",
+          "headline": "Etsy prohíbe fotos falsas\nde productos hechas con AI",
+          "body": "Etsy exige una foto real sin editar de cada artículo, señal, según Creative Bloq, del avance del AI slop.",
+          "mini_headline": "Etsy frena las fotos con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1200/0*z97zDowA9lacbpjQ.jpeg"
+                "src": "https://cdn.mos.cms.futurecdn.net/uzZxJaKSXhN5uxfLGfsSNd-1600-80.jpg",
+                "cap": "James Ossman, de Etsy, explicó las nuevas reglas de la plataforma en un video de YouTube (Image credit: Etsy)"
               },
               {
                 "t": "p",
-                "x": "La guía práctica de Christine Vallaure para diseñadores (Part 1 de la serie de tres partes In-System Design) explica por qué su sistema de diseño empieza en el código y cómo construye, revisa y mantiene a partir de él la biblioteca de Figma."
+                "x": "Cuando un mercado centrado en el diseño artesanal necesita una norma que prohíba las fotos falsas, algo ha salido mal. Entonces, ¿por qué Etsy les dice de repente a sus vendedores: \"La foto del producto que vendes debería ser realmente la foto del producto que vendes\"?"
               },
               {
                 "t": "p",
-                "x": "Al delegar en una AI la ruta Figma-to-code, obtuvo un código que parecía correcto pero inventaba lo que el archivo no decía: el orden de foco, los estados de error, lo que anuncia un lector de pantalla. Así que invirtió la dirección: \"El código es la fuente de verdad. Figma lo refleja. Donde difieren, Figma está equivocado\"."
+                "x": "La semana pasada, el mercado de productos artesanales anunció que cada anuncio debe incluir ahora al menos una foto sin editar del artículo real, tomada sobre un fondo real. También prohibió expresamente el uso de generadores de imágenes con AI para patrones, recetas e instrucciones para clientes, y vetó los anuncios creados por bots. El arte generado con AI (AI-generated) sigue estando permitido en Etsy, pero los vendedores deben indicarlo con claridad."
+              },
+              {
+                "t": "video",
+                "yt": "QHMQbCF5PeM"
               },
               {
                 "t": "p",
-                "x": "El flujo de trabajo: obtener acceso seguro al código, comprobar que Storybook está en marcha, abrir un archivo de Figma vacío con Figma Console MCP de Southleft, transferir primero los tokens y los estilos de texto y luego crear dos componentes de prueba, como Button y Alert, antes de ejecutar toda la biblioteca; y pedir cada vez un GAPS.md que enumere todo lo que no pudo expresarse en Figma."
+                "x": "Etsy tenía que hacer algo, porque las quejas aumentan rápidamente. La creadora Kara Lynne escribió en X: \"No puedo explicar lo exasperante que ha sido comprar un patrón de crochet, abrir el PDF y darme cuenta de que está totalmente hecho con AI (AI-generated), no tiene sentido y definitivamente no coincide con cómo debería ser el producto terminado.\""
               },
               {
                 "t": "p",
-                "x": "Las correcciones repetidas se convierten en una skill, y un verificador de paridad compara el manifiesto de componentes de Storybook con una lista JSON equivalente de Figma, nombre con nombre y valor por defecto con valor por defecto."
+                "x": "Etsy sigue así a Spotify, que retiró 50 millones de pistas de AI; a Snap, que mantiene el contenido gen-AI fuera de sus recomendaciones, y a LinkedIn, que añadió un botón para denunciarlo. Las nuevas reglas no lo resolverán todo, pero reconocen que, cuando la gente compra algo \"hecho a mano\", quiere saber si realmente lo hizo una persona."
               }
             ]
           }
@@ -867,121 +847,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "MCP로 코드에서 만든\nFigma 라이브러리",
-          "body": "코드에서 시작한 디자인 시스템을 MCP로 AI용 Figma 라이브러리로 옮긴다.",
-          "mini_headline": "코드에서 Figma로, MCP 활용",
+          "headline": "Etsy, 가짜 AI\n상품 사진 금지",
+          "body": "Creative Bloq은 Etsy의 실물 사진 의무화를 AI 슬롭 증거로 본다.",
+          "mini_headline": "Etsy, AI 사진 단속",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1200/0*z97zDowA9lacbpjQ.jpeg"
+                "src": "https://cdn.mos.cms.futurecdn.net/uzZxJaKSXhN5uxfLGfsSNd-1600-80.jpg",
+                "cap": "Etsy의 James Ossman이 YouTube 영상에서 플랫폼의 새 규칙을 설명했다 (Image credit: Etsy)"
               },
               {
                 "t": "p",
-                "x": "Christine Vallaure가 디자이너를 위해 쓴 실무 가이드(세 편짜리 시리즈 In-System Design의 Part 1)는 그의 디자인 시스템이 왜 코드에서 시작하는지, 그리고 그 코드로 Figma 라이브러리를 어떻게 만들고 점검하고 유지하는지 설명한다."
+                "x": "핸드메이드 디자인 중심의 마켓플레이스에 가짜 사진을 금지하는 규칙이 필요하다면 뭔가 잘못된 것이다. 그렇다면 Etsy는 왜 갑자기 판매자들에게 \"판매하는 상품의 사진은 실제로 판매하는 상품의 사진이어야 한다\"고 말하는 걸까?"
               },
               {
                 "t": "p",
-                "x": "Figma-to-code 경로를 AI에 맡기자 겉보기엔 멀쩡하지만 파일에 없는 내용, 즉 포커스 순서, 오류 상태, 스크린 리더가 읽어 주는 내용을 지어낸 코드가 나왔다. 그래서 그는 방향을 뒤집었다. \"코드가 기준 원본이다. Figma는 그것을 비춘다. 둘이 다르면 틀린 쪽은 Figma다.\""
+                "x": "지난주 이 핸드메이드 상품 마켓플레이스는 모든 상품 목록에 실제 배경에서 찍은, 보정하지 않은 실물 사진을 한 장 이상 넣어야 한다고 발표했다. 또 고객용 패턴, 레시피, 설명서에 AI 이미지 생성기를 쓰는 것을 명시적으로 금지했고, 봇이 만든 목록도 금지했다. AI-generated(AI 생성) 아트는 여전히 Etsy에서 허용되지만, 판매자는 그 사실을 분명히 밝혀야 한다."
+              },
+              {
+                "t": "video",
+                "yt": "QHMQbCF5PeM"
               },
               {
                 "t": "p",
-                "x": "작업 흐름은 이렇다. 코드에 안전하게 접근하고, Storybook이 실행되는지 확인하고, Southleft의 Figma Console MCP로 빈 Figma 파일을 연다. 토큰과 텍스트 스타일을 먼저 옮긴 뒤 Button과 Alert 같은 테스트 컴포넌트 두 개를 만들어 보고 나서 라이브러리 전체를 돌린다. 그리고 매번 Figma로 표현하지 못한 모든 것을 정리한 GAPS.md를 요청한다."
+                "x": "불만이 빠르게 쌓이고 있어 Etsy는 무언가 해야 했다. 크리에이터 Kara Lynne은 X에 이렇게 썼다. \"코바늘 패턴을 샀는데 PDF를 열어 보니 전부 AI-generated였고, 말이 안 되고, 완성품이 어떤 모습이어야 하는지와도 전혀 맞지 않을 때 얼마나 화가 나는지 설명할 수가 없다.\""
               },
               {
                 "t": "p",
-                "x": "반복되는 수정은 스킬이 되고, 패리티 체커가 Storybook 컴포넌트 매니페스트와 이에 대응하는 Figma JSON 목록을 이름은 이름끼리, 기본값은 기본값끼리 대조한다."
+                "x": "이로써 Etsy는 AI 트랙 50 million 곡을 내린 Spotify, gen-AI 콘텐츠를 추천에서 뺀 Snap, 신고 버튼을 추가한 LinkedIn의 뒤를 따른다. 새 규칙이 모든 것을 해결하지는 못하겠지만, 사람들이 \"핸드메이드\" 제품을 살 때 정말 사람이 만들었는지 알고 싶어 한다는 점을 인정한 셈이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MCPでコードから作る\nFigmaライブラリ",
-          "body": "デザインシステムをコードから始め、MCPでAI向けFigmaライブラリを構築・検証する。",
-          "mini_headline": "コードからFigmaへ、MCPで",
+          "headline": "Etsy、偽のAI\n商品写真を禁止",
+          "body": "Creative Bloqは、Etsyの実物写真義務化をAIスロップ蔓延の証とみる。",
+          "mini_headline": "Etsy、AI写真を規制",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1200/0*z97zDowA9lacbpjQ.jpeg"
+                "src": "https://cdn.mos.cms.futurecdn.net/uzZxJaKSXhN5uxfLGfsSNd-1600-80.jpg",
+                "cap": "EtsyのJames OssmanがYouTube動画でプラットフォームの新ルールを解説した (Image credit: Etsy)"
               },
               {
                 "t": "p",
-                "x": "Christine Vallaureによるデザイナー向け実践ガイド(全三回シリーズIn-System DesignのPart 1)は、彼女のデザインシステムがなぜコードから始まるのか、そしてそこからFigmaライブラリをどう構築し、検証し、維持するのかを解説する。"
+                "x": "手作りデザインに特化したマーケットプレイスに偽写真を禁じるルールが必要になるなら、何かがおかしくなっている。では、なぜEtsyは突然、販売者に「販売している商品の写真は、実際に販売している商品の写真であるべきだ」と伝えているのか。"
               },
               {
                 "t": "p",
-                "x": "Figma-to-codeの工程をAIに任せたところ、見た目は問題ないがファイルに書かれていないこと、つまりフォーカス順序、エラー状態、スクリーンリーダーが読み上げる内容をでっち上げたコードができた。そこで彼女は方向を逆にした。「コードが唯一の正である。Figmaはそれを映す。両者が異なるなら、間違っているのはFigmaだ」"
+                "x": "先週、このハンドメイド品のマーケットプレイスは、すべての出品に、実際の背景で撮影した実物の無加工写真を少なくとも一枚含めることを義務づけると発表した。さらに、顧客向けの型紙やレシピ、説明書にAI画像生成ツールを使うことを明確に禁止し、ボットが作成した出品も禁じた。AI-generatedのアートは引き続きEtsyで認められるが、販売者はその旨を明示する必要がある。"
+              },
+              {
+                "t": "video",
+                "yt": "QHMQbCF5PeM"
               },
               {
                 "t": "p",
-                "x": "ワークフローはこうだ。コードへの安全なアクセスを確保し、Storybookが動いていることを確認し、SouthleftのFigma Console MCPで空のFigmaファイルを開く。まずトークンとテキストスタイルを移し、ButtonやAlertなどのテストコンポーネントを二つ作ってからライブラリ全体を実行する。そして毎回、Figmaで表現できなかったものをすべて列挙したGAPS.mdを求める。"
+                "x": "苦情が急増しており、Etsyは手を打つ必要があった。クリエイターのKara LynneはXにこう書いた。「かぎ針編みのパターンを買ってPDFを開いたら、完全にAI-generatedで、意味が通らず、完成品のあるべき姿ともまったく一致しなかったときの腹立たしさは言葉にできない」"
               },
               {
                 "t": "p",
-                "x": "繰り返される修正はスキルになり、パリティチェッカーがStorybookのコンポーネントマニフェストと対応するFigma JSONリストを、名前は名前同士、デフォルトはデフォルト同士で照合する。"
+                "x": "これでEtsyは、50 million 曲のAIトラックを削除したSpotify、gen-AIコンテンツをおすすめから外したSnap、通報ボタンを追加したLinkedInに続くことになる。新ルールですべてが解決するわけではないが、人々が「ハンドメイド」の品を買うとき、本当に人間が作ったのかを知りたがっていることを認めたものだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "用MCP从代码\n构建Figma组件库",
-          "body": "该指南让设计系统从代码起步，并用MCP构建和检查AI智能体所依赖的Figma组件库。",
-          "mini_headline": "借助MCP从代码到Figma",
+          "headline": "Etsy禁止虚假\nAI商品照片",
+          "body": "Etsy要求每件商品附未修图实拍照，Creative Bloq称此举显示AI垃圾内容泛滥。",
+          "mini_headline": "Etsy限制AI照片",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1200/0*z97zDowA9lacbpjQ.jpeg"
+                "src": "https://cdn.mos.cms.futurecdn.net/uzZxJaKSXhN5uxfLGfsSNd-1600-80.jpg",
+                "cap": "Etsy的James Ossman在YouTube视频中解读了平台新规（Image credit: Etsy）"
               },
               {
                 "t": "p",
-                "x": "Christine Vallaure为设计师撰写的实用指南（三部分系列In-System Design的Part 1）解释了她的设计系统为何从代码起步，以及她如何据此构建、检查并维护Figma组件库。"
+                "x": "当一个专注手工设计的平台需要一条禁止假照片的规则时，事情就已经不对劲了。那么，Etsy为何突然告诉卖家：“你所出售商品的照片，就应该真的是你所出售商品的照片”？"
               },
               {
                 "t": "p",
-                "x": "把Figma-to-code这条路线交给AI后，生成的代码看起来没问题，却编造了文件中没有说明的内容：焦点顺序、错误状态、屏幕阅读器会播报什么。于是她把方向倒了过来：“代码是唯一可信来源。Figma只是它的镜像。两者不一致时，错的是Figma。”"
+                "x": "上周，这个手工商品平台宣布，每个商品页面现在必须至少包含一张在真实背景下拍摄、未经修图的实物照片。它还明确禁止使用AI图像生成器制作面向顾客的图样、食谱和说明，并禁止由机器人创建的商品页面。AI-generated艺术在Etsy上仍然允许，但卖家需要明确说明这一点。"
+              },
+              {
+                "t": "video",
+                "yt": "QHMQbCF5PeM"
               },
               {
                 "t": "p",
-                "x": "工作流程是：获取对代码的安全访问，确认Storybook正在运行，用Southleft的Figma Console MCP打开一个空白Figma文件，先迁移令牌和文本样式，再构建Button和Alert等两个测试组件，然后才运行整个组件库——并且每次都要求生成一份GAPS.md，列出所有无法在Figma中表达的内容。"
+                "x": "投诉正迅速增加，Etsy不得不有所行动。创作者Kara Lynne在X上写道：“我买了一份钩针图样，打开PDF却发现完全是AI-generated的，内容说不通，也和成品应有的样子完全不符，那种愤怒我真的无法形容。”"
               },
               {
                 "t": "p",
-                "x": "反复出现的修正会沉淀为一项技能，而一致性检查器会把Storybook组件清单与对应的Figma JSON列表逐一比对，名称对名称，默认值对默认值。"
+                "x": "此前，Spotify下架了50 million 首AI歌曲，Snap将gen-AI内容排除在推荐之外，LinkedIn增加了举报按钮，如今Etsy也跟进了。新规不会解决所有问题，但它承认，人们购买“手工”商品时，想知道它是否真的由人制作。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una biblioteca de Figma\nconstruida desde código con MCP",
-          "body": "La guía lleva el sistema de diseño del código a Figma con MCP y revisa la biblioteca que usan los agentes de AI.",
-          "mini_headline": "Del código a Figma con MCP",
+          "headline": "Etsy prohíbe fotos falsas\nde productos hechas con AI",
+          "body": "Etsy exige una foto real sin editar de cada artículo, señal, según Creative Bloq, del avance del AI slop.",
+          "mini_headline": "Etsy frena las fotos con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1200/0*z97zDowA9lacbpjQ.jpeg"
+                "src": "https://cdn.mos.cms.futurecdn.net/uzZxJaKSXhN5uxfLGfsSNd-1600-80.jpg",
+                "cap": "James Ossman, de Etsy, explicó las nuevas reglas de la plataforma en un video de YouTube (Image credit: Etsy)"
               },
               {
                 "t": "p",
-                "x": "La guía práctica de Christine Vallaure para diseñadores (Part 1 de la serie de tres partes In-System Design) explica por qué su sistema de diseño empieza en el código y cómo construye, revisa y mantiene a partir de él la biblioteca de Figma."
+                "x": "Cuando un mercado centrado en el diseño artesanal necesita una norma que prohíba las fotos falsas, algo ha salido mal. Entonces, ¿por qué Etsy les dice de repente a sus vendedores: \"La foto del producto que vendes debería ser realmente la foto del producto que vendes\"?"
               },
               {
                 "t": "p",
-                "x": "Al delegar en una AI la ruta Figma-to-code, obtuvo un código que parecía correcto pero inventaba lo que el archivo no decía: el orden de foco, los estados de error, lo que anuncia un lector de pantalla. Así que invirtió la dirección: \"El código es la fuente de verdad. Figma lo refleja. Donde difieren, Figma está equivocado\"."
+                "x": "La semana pasada, el mercado de productos artesanales anunció que cada anuncio debe incluir ahora al menos una foto sin editar del artículo real, tomada sobre un fondo real. También prohibió expresamente el uso de generadores de imágenes con AI para patrones, recetas e instrucciones para clientes, y vetó los anuncios creados por bots. El arte generado con AI (AI-generated) sigue estando permitido en Etsy, pero los vendedores deben indicarlo con claridad."
+              },
+              {
+                "t": "video",
+                "yt": "QHMQbCF5PeM"
               },
               {
                 "t": "p",
-                "x": "El flujo de trabajo: obtener acceso seguro al código, comprobar que Storybook está en marcha, abrir un archivo de Figma vacío con Figma Console MCP de Southleft, transferir primero los tokens y los estilos de texto y luego crear dos componentes de prueba, como Button y Alert, antes de ejecutar toda la biblioteca; y pedir cada vez un GAPS.md que enumere todo lo que no pudo expresarse en Figma."
+                "x": "Etsy tenía que hacer algo, porque las quejas aumentan rápidamente. La creadora Kara Lynne escribió en X: \"No puedo explicar lo exasperante que ha sido comprar un patrón de crochet, abrir el PDF y darme cuenta de que está totalmente hecho con AI (AI-generated), no tiene sentido y definitivamente no coincide con cómo debería ser el producto terminado.\""
               },
               {
                 "t": "p",
-                "x": "Las correcciones repetidas se convierten en una skill, y un verificador de paridad compara el manifiesto de componentes de Storybook con una lista JSON equivalente de Figma, nombre con nombre y valor por defecto con valor por defecto."
+                "x": "Etsy sigue así a Spotify, que retiró 50 millones de pistas de AI; a Snap, que mantiene el contenido gen-AI fuera de sus recomendaciones, y a LinkedIn, que añadió un botón para denunciarlo. Las nuevas reglas no lo resolverán todo, pero reconocen que, cuando la gente compra algo \"hecho a mano\", quiere saber si realmente lo hizo una persona."
               }
             ]
           }
@@ -989,165 +989,189 @@
       }
     },
     {
-      "id": "design-shopify-fullstack-designer",
+      "id": "edenlive",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Shopify 디자이너\n\"디자이너는 편집자\"",
-      "body": "Shopify의 Marvin Schwaibold는 디자이너를 AI의 편집자로 본다.",
-      "mini_headline": "디자이너는 이제 편집자",
-      "tool": "Social",
-      "source": "Y Combinator (YouTube)",
-      "url": "https://www.youtube.com/watch?v=eojywvxqoLc",
-      "accent": "#ff2d55",
-      "motif": "frame",
+      "headline": "EdenLive,\n블록아웃을 실사 영상으로",
+      "body": "EdenLive는 GPU 하나로 블록아웃 애니메이션을 실시간 실사 영상으로 바꾼다.",
+      "mini_headline": "EdenLive, 실시간 렌더링",
+      "tool": "KeyShot",
+      "source": "CG Channel",
+      "url": "https://www.cgchannel.com/2026/10/new-cg-software-you-may-have-missed-25-october-2026/",
+      "accent": "#f5a623",
+      "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "video",
-            "yt": "eojywvxqoLc"
+            "yt": "NbWLqOfP3XI"
           },
           {
             "t": "p",
-            "x": "Design Review 이번 에피소드에서 Shopify 제품 디자인 스튜디오를 이끄는 Marvin Schwaibold가 YC의 Aaron Epstein과 함께 자신의 디자인 과정을 보여준다. 팀이 최근 내놓은 어드민 리디자인과 Sidekick 작업, 실제 잔디를 셰이더로 재현한 주말 프로젝트, 91번 시도한 끝에 완성한 캐러셀이 차례로 나온다."
+            "x": "생성형 3D 플랫폼 Tripo를 만든 연구팀 Vast AI Research가 오픈소스 실시간 생성형 렌더러 EdenLive를 새로 공개했다. 인터랙티브 환경용 월드 모델인 Vast AI Research의 Project Eden에 속하며, 2D 또는 3D 장면이나 참조 영상, 목표 첫 프레임, 텍스트 프롬프트가 있어야 돌아간다."
           },
           {
             "t": "p",
-            "x": "그의 도구는 Figma에서 \"Codex와 Claude Code 같은 도구, 그리고 터미널에 오래 머무는 쪽\"으로 옮겨 갔고 Figma는 연습장처럼 쓴다. 그는 \"이제 결과물은 문제가 아니다. 무엇을 밀고 나갈지 극도로 까다롭게 고르는 것이 우리의 일\"이라며 \"우리는 그 어느 때보다 편집자에 가깝다\"고 말한다. AI를 두고는 \"코드를 쓸 수 있지만 무엇이 좋아 보이고 무엇이 나빠 보이는지는 모르며, 그건 내가 판단할 몫\"이라고 했다."
+            "x": "이 모델은 “거친 비주얼을 … 더 풍부하고 세밀한 영상으로 바꾼다”. 프리비즈나 게임 수준 애니메이션을 더 사실적인 결과물로 바꾸는 식이다. EdenLive가 내놓는 영상은 480p 또는 720p 해상도뿐이라 실용성은 제한적이지만, 실시간으로 돌아갈 만큼 빠르다."
           },
           {
             "t": "p",
-            "x": "이어 두 사람은 시청자가 보낸 웹사이트 다섯 곳을 모션과 인터랙티비티 위주로 리뷰한다."
+            "x": "Vast AI에 따르면 5B 모델 가중치를 쓰면 EdenLive는 고급 소비자용 GPU NVIDIA GeForce RTX 5090 한 장으로 720p 영상을 “24fps 이상”으로 만든다. 블록아웃을 고품질 프리비즈나 애니메이션 미리보기로 바꾸는 작업에 쓸 만하다. 소스 코드는 Apache 2.0 라이선스로 풀렸고, 5B와 14B 모델 가중치는 Hugging Face에 올라 있다."
+          },
+          {
+            "t": "p",
+            "x": "같은 CG Channel 소식 모음에는 AI 어시스턴트가 제어할 수 있게 MCP 서버를 추가한 Gaffer 1.7.5, 소스 이미지 2-15 장으로 3D 머리를 만드는 KeenTools의 AI-powered(AI 기반) 브라우저 도구 KeenFace도 실렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Shopify designer on why\ndesigners are now editors",
-          "body": "Shopify's Marvin Schwaibold says AI coding tools changed how he designs, leaving designers to curate what AI makes.",
-          "mini_headline": "Designers are now editors",
+          "headline": "EdenLive renders blockouts\nas near-photoreal video",
+          "body": "Open-source EdenLive turns rough blockout animation into near-photorealistic video in real time on one consumer GPU.",
+          "mini_headline": "EdenLive renders in real time",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "eojywvxqoLc"
+                "yt": "NbWLqOfP3XI"
               },
               {
                 "t": "p",
-                "x": "In this episode of Design Review, Marvin Schwaibold, who leads the product design studio at Shopify, joins YC's Aaron Epstein to walk through his design process. He shows the admin redesign and Sidekick work his team recently shipped, a weekend project where he rebuilt real grass as a shader, and a carousel that took 91 attempts to get right."
+                "x": "Vast AI Research, the research team behind generative 3D platform Tripo, has released EdenLive, a new open-source real-time generative renderer. Part of Project Eden, Vast AI Research’s world model for interactive environments, it requires a 2D or 3D scene or reference video, a target first frame, and a text prompt."
               },
               {
                 "t": "p",
-                "x": "His tooling has shifted from Figma to \"tools like Codex and Claude Code and being in terminal a lot,\" with Figma used as a scratch pad. \"The output isn't the issue anymore, it's us being extremely selective about what we go forward with,\" he says. \"We're more the editors now than ever before.\" AI \"can write code, but it doesn't know what looks good and what looks bad and that's for me to decide.\""
+                "x": "The model “transforms rough visuals … into richer, more detailed videos”: for example, converting previs or game-quality animation to more photorealistic output. EdenLive only generates video at 480p or 720p resolution, so its practical applications are limited, but it is fast enough to run in real time."
               },
               {
                 "t": "p",
-                "x": "Then they review five viewer-submitted websites with a focus on motion and interactivity."
+                "x": "According to Vast AI, when using the 5B model weights, EdenLive can generate 720p video at “over 24fps” on a single NVIDIA GeForce RTX 5090 high-end consumer GPU. Use cases include converting blockouts into high-quality previs or animation previews. The source code is available under an Apache 2.0 license; 5B and 14B model weights are on Hugging Face."
+              },
+              {
+                "t": "p",
+                "x": "The same CG Channel round-up also covers Gaffer 1.7.5, which adds an MCP server so AI assistants can control it, and KeenFace, an AI-powered browser tool from KeenTools that generates 3D heads from 2-15 source images."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Shopify 디자이너\n\"디자이너는 편집자\"",
-          "body": "Shopify의 Marvin Schwaibold는 디자이너를 AI의 편집자로 본다.",
-          "mini_headline": "디자이너는 이제 편집자",
+          "headline": "EdenLive,\n블록아웃을 실사 영상으로",
+          "body": "EdenLive는 GPU 하나로 블록아웃 애니메이션을 실시간 실사 영상으로 바꾼다.",
+          "mini_headline": "EdenLive, 실시간 렌더링",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "eojywvxqoLc"
+                "yt": "NbWLqOfP3XI"
               },
               {
                 "t": "p",
-                "x": "Design Review 이번 에피소드에서 Shopify 제품 디자인 스튜디오를 이끄는 Marvin Schwaibold가 YC의 Aaron Epstein과 함께 자신의 디자인 과정을 보여준다. 팀이 최근 내놓은 어드민 리디자인과 Sidekick 작업, 실제 잔디를 셰이더로 재현한 주말 프로젝트, 91번 시도한 끝에 완성한 캐러셀이 차례로 나온다."
+                "x": "생성형 3D 플랫폼 Tripo를 만든 연구팀 Vast AI Research가 오픈소스 실시간 생성형 렌더러 EdenLive를 새로 공개했다. 인터랙티브 환경용 월드 모델인 Vast AI Research의 Project Eden에 속하며, 2D 또는 3D 장면이나 참조 영상, 목표 첫 프레임, 텍스트 프롬프트가 있어야 돌아간다."
               },
               {
                 "t": "p",
-                "x": "그의 도구는 Figma에서 \"Codex와 Claude Code 같은 도구, 그리고 터미널에 오래 머무는 쪽\"으로 옮겨 갔고 Figma는 연습장처럼 쓴다. 그는 \"이제 결과물은 문제가 아니다. 무엇을 밀고 나갈지 극도로 까다롭게 고르는 것이 우리의 일\"이라며 \"우리는 그 어느 때보다 편집자에 가깝다\"고 말한다. AI를 두고는 \"코드를 쓸 수 있지만 무엇이 좋아 보이고 무엇이 나빠 보이는지는 모르며, 그건 내가 판단할 몫\"이라고 했다."
+                "x": "이 모델은 “거친 비주얼을 … 더 풍부하고 세밀한 영상으로 바꾼다”. 프리비즈나 게임 수준 애니메이션을 더 사실적인 결과물로 바꾸는 식이다. EdenLive가 내놓는 영상은 480p 또는 720p 해상도뿐이라 실용성은 제한적이지만, 실시간으로 돌아갈 만큼 빠르다."
               },
               {
                 "t": "p",
-                "x": "이어 두 사람은 시청자가 보낸 웹사이트 다섯 곳을 모션과 인터랙티비티 위주로 리뷰한다."
+                "x": "Vast AI에 따르면 5B 모델 가중치를 쓰면 EdenLive는 고급 소비자용 GPU NVIDIA GeForce RTX 5090 한 장으로 720p 영상을 “24fps 이상”으로 만든다. 블록아웃을 고품질 프리비즈나 애니메이션 미리보기로 바꾸는 작업에 쓸 만하다. 소스 코드는 Apache 2.0 라이선스로 풀렸고, 5B와 14B 모델 가중치는 Hugging Face에 올라 있다."
+              },
+              {
+                "t": "p",
+                "x": "같은 CG Channel 소식 모음에는 AI 어시스턴트가 제어할 수 있게 MCP 서버를 추가한 Gaffer 1.7.5, 소스 이미지 2-15 장으로 3D 머리를 만드는 KeenTools의 AI-powered(AI 기반) 브라우저 도구 KeenFace도 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Shopifyデザイナー\n「今や我々は編集者」",
-          "body": "ShopifyのMarvin Schwaiboldは、AI時代のデザイナーを編集者と呼ぶ。",
-          "mini_headline": "デザイナーは今や編集者",
+          "headline": "EdenLiveが\nブロックアウトを実写風に",
+          "body": "EdenLiveは粗いブロックアウトを民生GPU一基でリアルタイムに実写風映像化する。",
+          "mini_headline": "EdenLive、リアルタイム描画",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "eojywvxqoLc"
+                "yt": "NbWLqOfP3XI"
               },
               {
                 "t": "p",
-                "x": "Design Reviewの今回のエピソードでは、Shopifyでプロダクトデザインスタジオを率いるMarvin Schwaiboldが、YCのAaron Epsteinとともに自身のデザインプロセスを紹介する。チームが最近リリースした管理画面のリデザインやSidekickの取り組み、本物の芝生をシェーダーで再現した週末プロジェクト、そして完成までに91回の試行を要したカルーセルを見せる。"
+                "x": "生成 3D プラットフォームTripoを手がける研究チームVast AI Researchが、新しいオープンソースのリアルタイム生成レンダラーEdenLiveを公開した。インタラクティブな環境向けのVast AI Researchのワールドモデル、Project Edenの一部で、2D または 3D のシーンか参照動画、目標とする最初のフレーム、テキストプロンプトを必要とする。"
               },
               {
                 "t": "p",
-                "x": "彼のツールはFigmaから「CodexやClaude Codeのようなツールと、ターミナルに長くいること」へと移り、Figmaは下書き用のメモ帳として使う。「もはやアウトプットは問題ではなく、何を先に進めるかを極めて厳しく選ぶことが重要だ」と彼は言う。「私たちは今、かつてないほど編集者に近い」。AIは「コードは書けるが、何が良く見えて何が悪く見えるかは分からない。それを決めるのは私だ」。"
+                "x": "このモデルは「粗いビジュアルを…より豊かで精細な動画に変える」。たとえば、プリビズやゲーム品質のアニメーションを、よりフォトリアルな出力に変換できる。EdenLiveが生成できる動画は480p または 720p の解像度に限られるため実用的な用途は限られるが、リアルタイムで動作するほど高速だ。"
               },
               {
                 "t": "p",
-                "x": "続いて二人は、視聴者から寄せられた五つのウェブサイトを、モーションとインタラクティブ性に注目してレビューする。"
+                "x": "Vast AIによると、5B のモデル重みを使えば、EdenLiveはハイエンドの民生GPUであるNVIDIA GeForce RTX 5090 一基で、720p の動画を「24fps 以上」で生成できる。用途としては、ブロックアウトを高品質なプリビズやアニメーションのプレビューに変換することが挙げられる。ソースコードはApache 2.0ライセンスで公開され、5B と14B のモデル重みはHugging Faceにある。"
+              },
+              {
+                "t": "p",
+                "x": "同じCG Channelのまとめ記事では、AIアシスタントから操作できるようMCPサーバーを追加したGaffer 1.7.5と、2-15 枚のソース画像から3D の頭部を生成するKeenToolsのAI-poweredなブラウザツールKeenFaceも取り上げている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Shopify设计师：\n设计师如今是编辑",
-          "body": "Shopify的Marvin Schwaibold说，AI编码工具让设计师更像编辑。",
-          "mini_headline": "设计师如今是编辑",
+          "headline": "EdenLive把粗模\n变成近写实视频",
+          "body": "开源的EdenLive可在一块消费级GPU上将粗糙的白模动画实时转为近乎写实的视频。",
+          "mini_headline": "EdenLive实时渲染",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "eojywvxqoLc"
+                "yt": "NbWLqOfP3XI"
               },
               {
                 "t": "p",
-                "x": "在本期Design Review中，Shopify产品设计工作室负责人Marvin Schwaibold与YC的Aaron Epstein一起讲解他的设计流程。他展示了团队最近上线的后台重新设计和Sidekick相关工作、一个用着色器重现真实草地的周末项目，以及一个尝试了91次才做好的轮播组件。"
+                "x": "生成式3D 平台Tripo背后的研究团队Vast AI Research发布了EdenLive，这是一款新的开源实时生成式渲染器。它是Vast AI Research面向交互环境的世界模型Project Eden的一部分，需要输入2D 或3D 场景或参考视频、目标首帧以及文本提示词。"
               },
               {
                 "t": "p",
-                "x": "他的工具已从Figma转向“Codex和Claude Code这类工具，并且经常待在终端里”，Figma则被当作草稿本。他说：“产出已经不再是问题，关键在于我们对要推进什么极其挑剔。”“我们现在比以往任何时候都更像编辑。”AI“能写代码，但它不知道什么好看、什么难看，这要由我来决定。”"
+                "x": "该模型能“将粗糙的画面…转化为更丰富、更精细的视频”，例如把预演或游戏品质的动画转换为更逼真的输出。EdenLive只能生成480p 或720p 分辨率的视频，因此实际用途有限，但速度足以实时运行。"
               },
               {
                 "t": "p",
-                "x": "随后，两人以动效和交互性为重点，点评了五个观众投稿的网站。"
+                "x": "据Vast AI介绍，使用5B 模型权重时，EdenLive可在单块高端消费级GPU NVIDIA GeForce RTX 5090上以“超过24fps”的速度生成720p 视频。用例包括将白模转换为高质量的预演或动画预览。源代码以Apache 2.0许可证发布，5B 和14B 模型权重已上传至Hugging Face。"
+              },
+              {
+                "t": "p",
+                "x": "同一篇CG Channel汇总还介绍了Gaffer 1.7.5和KeenFace：前者新增了MCP服务器，让AI助手可以控制它；后者是KeenTools推出的AI-powered浏览器工具，可根据2-15 张源图像生成3D 头部。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Diseñador de Shopify: ahora\nlos diseñadores son editores",
-          "body": "Marvin Schwaibold, de Shopify, dice que la AI cambió su forma de diseñar y hoy los diseñadores son editores.",
-          "mini_headline": "Los diseñadores ya son editores",
+          "headline": "EdenLive convierte blockouts\nen video casi fotorrealista",
+          "body": "EdenLive convierte animaciones de blockout en video casi fotorrealista en tiempo real con una GPU de consumo.",
+          "mini_headline": "EdenLive renderiza en tiempo real",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "eojywvxqoLc"
+                "yt": "NbWLqOfP3XI"
               },
               {
                 "t": "p",
-                "x": "En este episodio de Design Review, Marvin Schwaibold, que dirige el estudio de diseño de producto de Shopify, se une a Aaron Epstein, de YC, para repasar su proceso de diseño. Muestra el rediseño del panel de administración y el trabajo en Sidekick que su equipo lanzó hace poco, un proyecto de fin de semana en el que recreó césped real como shader y un carrusel que necesitó 91 intentos para quedar bien."
+                "x": "Vast AI Research, el equipo de investigación detrás de la plataforma de 3D generativo Tripo, ha lanzado EdenLive, un nuevo renderizador generativo en tiempo real y de código abierto. Forma parte de Project Eden, el modelo de mundo de Vast AI Research para entornos interactivos, y requiere una escena 2D o 3D o un video de referencia, un primer fotograma objetivo y un prompt de texto."
               },
               {
                 "t": "p",
-                "x": "Sus herramientas han pasado de Figma a \"herramientas como Codex y Claude Code, y estar mucho en la terminal\", y usa Figma como bloc de borrador. \"El resultado ya no es el problema; se trata de ser extremadamente selectivos con lo que seguimos adelante\", afirma. \"Ahora somos más editores que nunca\". La AI \"puede escribir código, pero no sabe qué se ve bien y qué se ve mal, y eso me toca decidirlo a mí\"."
+                "x": "El modelo “transforma visuales toscos … en videos más ricos y detallados”: por ejemplo, convierte previs o animación con calidad de videojuego en un resultado más fotorrealista. EdenLive solo genera video en resolución 480p o 720p, por lo que sus aplicaciones prácticas son limitadas, pero es lo bastante rápido para funcionar en tiempo real."
               },
               {
                 "t": "p",
-                "x": "Después revisan cinco sitios web enviados por espectadores, con atención al movimiento y la interactividad."
+                "x": "Según Vast AI, con los pesos del modelo 5B, EdenLive puede generar video 720p a “más de 24fps” en una sola GPU de consumo de gama alta NVIDIA GeForce RTX 5090. Entre los casos de uso está convertir blockouts en previs de alta calidad o en avances de animación. El código fuente está disponible bajo licencia Apache 2.0; los pesos de los modelos 5B y 14B están en Hugging Face."
+              },
+              {
+                "t": "p",
+                "x": "El mismo resumen de CG Channel también recoge Gaffer 1.7.5, que añade un servidor MCP para que los asistentes de AI puedan controlarlo, y KeenFace, una herramienta de navegador basada en AI (AI-powered) de KeenTools que genera cabezas 3D a partir de 2-15 imágenes de origen."
               }
             ]
           }
@@ -1155,105 +1179,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Shopify 디자이너\n\"디자이너는 편집자\"",
-          "body": "Shopify Marvin Schwaibold는 디자이너가 AI의 편집자라 본다.",
-          "mini_headline": "디자이너는 이제 편집자",
+          "headline": "EdenLive,\n블록아웃을 실사 영상으로",
+          "body": "EdenLive는 블록아웃 애니메이션을 GPU 하나로 실시간 실사 영상화한다.",
+          "mini_headline": "EdenLive, 실시간 렌더링",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "eojywvxqoLc"
+                "yt": "NbWLqOfP3XI"
               },
               {
                 "t": "p",
-                "x": "Design Review 이번 에피소드에서 Shopify의 제품 디자인 스튜디오를 이끄는 Marvin Schwaibold가 YC의 Aaron Epstein과 함께 자신의 디자인 과정을 보여준다. 그는 팀이 최근 내놓은 어드민 리디자인과 Sidekick 작업, 실제 잔디를 셰이더로 재현한 주말 프로젝트, 91번의 시도 끝에 완성한 캐러셀을 소개한다."
+                "x": "생성형 3D 플랫폼 Tripo를 만든 연구팀 Vast AI Research가 새로운 오픈소스 실시간 생성형 렌더러 EdenLive를 공개했다. 인터랙티브 환경을 위한 Vast AI Research의 월드 모델 Project Eden의 일부로, 2D 또는 3D 장면이나 참조 영상, 목표 첫 프레임, 텍스트 프롬프트가 필요하다."
               },
               {
                 "t": "p",
-                "x": "그의 도구는 Figma에서 \"Codex와 Claude Code 같은 도구, 그리고 터미널에 오래 머무는 쪽\"으로 옮겨 갔고, Figma는 연습장처럼 쓴다. 그는 \"이제 결과물은 문제가 아니다. 무엇을 밀고 나갈지 극도로 까다롭게 고르는 것이 우리의 일\"이라며 \"우리는 그 어느 때보다 편집자에 가깝다\"고 말한다. AI는 \"코드를 쓸 수 있지만 무엇이 좋아 보이고 무엇이 나빠 보이는지는 모르며, 그건 내가 판단할 몫\"이라는 것이다."
+                "x": "이 모델은 “거친 비주얼을 … 더 풍부하고 세밀한 영상으로 바꾼다”. 예를 들어 프리비즈나 게임 수준 애니메이션을 더 사실적인 결과물로 변환한다. EdenLive는 480p 또는 720p 해상도로만 영상을 생성해 실용성은 제한적이지만, 실시간으로 돌아갈 만큼 빠르다."
               },
               {
                 "t": "p",
-                "x": "이어 두 사람은 시청자가 보낸 웹사이트 다섯 곳을 모션과 인터랙티비티 중심으로 리뷰한다."
+                "x": "Vast AI에 따르면 5B 모델 가중치를 쓸 때 EdenLive는 고급 소비자용 GPU인 NVIDIA GeForce RTX 5090 한 장에서 720p 영상을 “24fps 이상”으로 생성할 수 있다. 활용 사례로는 블록아웃을 고품질 프리비즈나 애니메이션 미리보기로 바꾸는 작업이 있다. 소스 코드는 Apache 2.0 라이선스로 제공되며, 5B 및 14B 모델 가중치는 Hugging Face에 있다."
+              },
+              {
+                "t": "p",
+                "x": "같은 CG Channel 소식 모음은 AI 어시스턴트가 제어할 수 있도록 MCP 서버를 추가한 Gaffer 1.7.5와, 2-15 장의 소스 이미지로 3D 머리를 생성하는 KeenTools의 AI-powered(AI 기반) 브라우저 도구 KeenFace도 다룬다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Shopifyデザイナー\n「今や我々は編集者」",
-          "body": "ShopifyのMarvin Schwaiboldは、AI時代のデザイナーを編集者と呼ぶ。",
-          "mini_headline": "デザイナーは今や編集者",
+          "headline": "EdenLiveが\nブロックアウトを実写風に",
+          "body": "EdenLiveは粗いブロックアウトを民生GPU一基でリアルタイムに実写風映像化する。",
+          "mini_headline": "EdenLive、リアルタイム描画",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "eojywvxqoLc"
+                "yt": "NbWLqOfP3XI"
               },
               {
                 "t": "p",
-                "x": "Design Reviewの今回のエピソードでは、Shopifyでプロダクトデザインスタジオを率いるMarvin Schwaiboldが、YCのAaron Epsteinとともに自身のデザインプロセスを紹介する。チームが最近リリースした管理画面のリデザインやSidekickの取り組み、本物の芝生をシェーダーで再現した週末プロジェクト、そして完成までに91回の試行を要したカルーセルを見せる。"
+                "x": "生成 3D プラットフォームTripoを手がける研究チームVast AI Researchが、新しいオープンソースのリアルタイム生成レンダラーEdenLiveを公開した。インタラクティブな環境向けのVast AI Researchのワールドモデル、Project Edenの一部で、2D または 3D のシーンか参照動画、目標とする最初のフレーム、テキストプロンプトを必要とする。"
               },
               {
                 "t": "p",
-                "x": "彼のツールはFigmaから「CodexやClaude Codeのようなツールと、ターミナルに長くいること」へと移り、Figmaは下書き用のメモ帳として使う。「もはやアウトプットは問題ではなく、何を先に進めるかを極めて厳しく選ぶことが重要だ」と彼は言う。「私たちは今、かつてないほど編集者に近い」。AIは「コードは書けるが、何が良く見えて何が悪く見えるかは分からない。それを決めるのは私だ」。"
+                "x": "このモデルは「粗いビジュアルを…より豊かで精細な動画に変える」。たとえば、プリビズやゲーム品質のアニメーションを、よりフォトリアルな出力に変換できる。EdenLiveが生成できる動画は480p または 720p の解像度に限られるため実用的な用途は限られるが、リアルタイムで動作するほど高速だ。"
               },
               {
                 "t": "p",
-                "x": "続いて二人は、視聴者から寄せられた五つのウェブサイトを、モーションとインタラクティブ性に注目してレビューする。"
+                "x": "Vast AIによると、5B のモデル重みを使えば、EdenLiveはハイエンドの民生GPUであるNVIDIA GeForce RTX 5090 一基で、720p の動画を「24fps 以上」で生成できる。用途としては、ブロックアウトを高品質なプリビズやアニメーションのプレビューに変換することが挙げられる。ソースコードはApache 2.0ライセンスで公開され、5B と14B のモデル重みはHugging Faceにある。"
+              },
+              {
+                "t": "p",
+                "x": "同じCG Channelのまとめ記事では、AIアシスタントから操作できるようMCPサーバーを追加したGaffer 1.7.5と、2-15 枚のソース画像から3D の頭部を生成するKeenToolsのAI-poweredなブラウザツールKeenFaceも取り上げている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Shopify设计师：\n设计师如今是编辑",
-          "body": "Shopify的Marvin Schwaibold说，AI编码工具让设计师更像编辑。",
-          "mini_headline": "设计师如今是编辑",
+          "headline": "EdenLive把粗模\n变成近写实视频",
+          "body": "开源的EdenLive可在一块消费级GPU上将粗糙的白模动画实时转为近乎写实的视频。",
+          "mini_headline": "EdenLive实时渲染",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "eojywvxqoLc"
+                "yt": "NbWLqOfP3XI"
               },
               {
                 "t": "p",
-                "x": "在本期Design Review中，Shopify产品设计工作室负责人Marvin Schwaibold与YC的Aaron Epstein一起讲解他的设计流程。他展示了团队最近上线的后台重新设计和Sidekick相关工作、一个用着色器重现真实草地的周末项目，以及一个尝试了91次才做好的轮播组件。"
+                "x": "生成式3D 平台Tripo背后的研究团队Vast AI Research发布了EdenLive，这是一款新的开源实时生成式渲染器。它是Vast AI Research面向交互环境的世界模型Project Eden的一部分，需要输入2D 或3D 场景或参考视频、目标首帧以及文本提示词。"
               },
               {
                 "t": "p",
-                "x": "他的工具已从Figma转向“Codex和Claude Code这类工具，并且经常待在终端里”，Figma则被当作草稿本。他说：“产出已经不再是问题，关键在于我们对要推进什么极其挑剔。”“我们现在比以往任何时候都更像编辑。”AI“能写代码，但它不知道什么好看、什么难看，这要由我来决定。”"
+                "x": "该模型能“将粗糙的画面…转化为更丰富、更精细的视频”，例如把预演或游戏品质的动画转换为更逼真的输出。EdenLive只能生成480p 或720p 分辨率的视频，因此实际用途有限，但速度足以实时运行。"
               },
               {
                 "t": "p",
-                "x": "随后，两人以动效和交互性为重点，点评了五个观众投稿的网站。"
+                "x": "据Vast AI介绍，使用5B 模型权重时，EdenLive可在单块高端消费级GPU NVIDIA GeForce RTX 5090上以“超过24fps”的速度生成720p 视频。用例包括将白模转换为高质量的预演或动画预览。源代码以Apache 2.0许可证发布，5B 和14B 模型权重已上传至Hugging Face。"
+              },
+              {
+                "t": "p",
+                "x": "同一篇CG Channel汇总还介绍了Gaffer 1.7.5和KeenFace：前者新增了MCP服务器，让AI助手可以控制它；后者是KeenTools推出的AI-powered浏览器工具，可根据2-15 张源图像生成3D 头部。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Diseñador de Shopify: ahora\nlos diseñadores son editores",
-          "body": "Marvin Schwaibold, de Shopify, dice que la AI cambió su forma de diseñar y hoy los diseñadores son editores.",
-          "mini_headline": "Los diseñadores ya son editores",
+          "headline": "EdenLive convierte blockouts\nen video casi fotorrealista",
+          "body": "EdenLive convierte animaciones de blockout en video casi fotorrealista en tiempo real con una GPU de consumo.",
+          "mini_headline": "EdenLive renderiza en tiempo real",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "video",
-                "yt": "eojywvxqoLc"
+                "yt": "NbWLqOfP3XI"
               },
               {
                 "t": "p",
-                "x": "En este episodio de Design Review, Marvin Schwaibold, que dirige el estudio de diseño de producto de Shopify, se une a Aaron Epstein, de YC, para repasar su proceso de diseño. Muestra el rediseño del panel de administración y el trabajo en Sidekick que su equipo lanzó hace poco, un proyecto de fin de semana en el que recreó césped real como shader y un carrusel que necesitó 91 intentos para quedar bien."
+                "x": "Vast AI Research, el equipo de investigación detrás de la plataforma de 3D generativo Tripo, ha lanzado EdenLive, un nuevo renderizador generativo en tiempo real y de código abierto. Forma parte de Project Eden, el modelo de mundo de Vast AI Research para entornos interactivos, y requiere una escena 2D o 3D o un video de referencia, un primer fotograma objetivo y un prompt de texto."
               },
               {
                 "t": "p",
-                "x": "Sus herramientas han pasado de Figma a \"herramientas como Codex y Claude Code, y estar mucho en la terminal\", y usa Figma como bloc de borrador. \"El resultado ya no es el problema; se trata de ser extremadamente selectivos con lo que seguimos adelante\", afirma. \"Ahora somos más editores que nunca\". La AI \"puede escribir código, pero no sabe qué se ve bien y qué se ve mal, y eso me toca decidirlo a mí\"."
+                "x": "El modelo “transforma visuales toscos … en videos más ricos y detallados”: por ejemplo, convierte previs o animación con calidad de videojuego en un resultado más fotorrealista. EdenLive solo genera video en resolución 480p o 720p, por lo que sus aplicaciones prácticas son limitadas, pero es lo bastante rápido para funcionar en tiempo real."
               },
               {
                 "t": "p",
-                "x": "Después revisan cinco sitios web enviados por espectadores, con atención al movimiento y la interactividad."
+                "x": "Según Vast AI, con los pesos del modelo 5B, EdenLive puede generar video 720p a “más de 24fps” en una sola GPU de consumo de gama alta NVIDIA GeForce RTX 5090. Entre los casos de uso está convertir blockouts en previs de alta calidad o en avances de animación. El código fuente está disponible bajo licencia Apache 2.0; los pesos de los modelos 5B y 14B están en Hugging Face."
+              },
+              {
+                "t": "p",
+                "x": "El mismo resumen de CG Channel también recoge Gaffer 1.7.5, que añade un servidor MCP para que los asistentes de AI puedan controlarlo, y KeenFace, una herramienta de navegador basada en AI (AI-powered) de KeenTools que genera cabezas 3D a partir de 2-15 imágenes de origen."
               }
             ]
           }
@@ -1261,15 +1301,15 @@
       }
     },
     {
-      "id": "design-moss-image",
+      "id": "cli-anything",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI에 철자를 가르친\n오픈소스 모델",
-      "body": "5B 오픈소스 MOSS-Image가 두 언어 글자와 JSON 레이아웃을 그린다.",
-      "mini_headline": "철자를 배운 MOSS-Image",
+      "headline": "CLI-Anything이\n창작 앱을 AI에 연다",
+      "body": "CLI-Anything 덕분에 AI 에이전트가 GIMP·Blender를 다룬다.",
+      "mini_headline": "에이전트가 GIMP, Blender를 다룬다",
       "tool": "Design Tokens",
-      "source": "Intelligent Living",
-      "url": "https://www.intelligentliving.co/moss-image-open-source-model/",
+      "source": "MindStudio",
+      "url": "https://www.mindstudio.ai/blog/cli-anything-turn-apps-into-cli-for-ai-agents/",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
@@ -1277,179 +1317,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-open-source-model.jpg"
+            "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/4585b919-e424-4ad3-8faf-651c238aaf56.png?fm=auto&w=1200&h=630&fit=crop"
           },
           {
             "t": "p",
-            "x": "OpenMOSS 팀이 MOSI Intelligence와 함께 2026년 10월 16일 5B 파라미터 규모의 텍스트-이미지 모델 MOSS-Image를 내놓았다. 코드와 가중치가 Apache 2.0 라이선스로 풀려 상업적으로 쓸 수 있고 파인튜닝에도 제한이 없다."
+            "x": "CLI-Anything은 LightRAG를 만든 홍콩대학교(University of Hong Kong) 데이터 인텔리전스 연구실 HKUDS의 오픈소스 프로젝트다. GIMP, Blender, LibreOffice 같은 데스크톱 소프트웨어를 넣으면 코딩 에이전트가 조작할 수 있는 완전한 커맨드라인 인터페이스를 테스트, 문서, 스킬 파일까지 붙여 만들어 준다. 저장소는 54,000개가 넘는 스타를 받았고 Apache 2.0 라이선스로 배포된다."
           },
           {
             "t": "p",
-            "x": "처음부터 학습한 싱글 스트림 확산 트랜스포머(DiT)다. 프롬프트는 최대 4,096 토큰까지 받는다. 텍스트 렌더링은 중국어와 영어 두 언어를 지원하고 텍스트 블록과 객체마다 바운딩 박스를 지정하는 구조화된 JSON 레이아웃도 입력으로 받는다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-json-layout-control.jpg",
-            "cap": "MOSS-Image 레이아웃 제어 개념도. 디자이너는 문장에 기대지 않고 JSON 프롬프트로 텍스트와 객체를 바운딩 박스에 배치한다. (Credit: Intelligent Living)"
+            "x": "AI 에이전트는 텍스트를 읽고 쓰는 데는 능하지만 픽셀을 클릭하는 데는 서툴다. GUI 자동화는 느리고 UI 요소가 움직이면 깨지며, 창작 앱 대부분은 네이티브 API가 없다. CLI는 두 문제를 모두 비켜 간다. CLI-Anything의 모든 명령에는 구조화된 출력용 --json 플래그와 실행 취소·다시 실행을 지원하는 REPL 모드가 있다."
           },
           {
             "t": "p",
-            "x": "팀이 만든 LongLongTextBench(LLTB)에서 MOSS-Image는 Mean-6 텍스트 커버리지 96.3을 기록했다. 가장 가까운 오픈 웨이트 경쟁 모델 Qwen Image 2512는 64.9였다. RealLayoutArena에서는 전체 시스템이 GPT Image 2에 이어 두 번째였고 백본은 같은 강화 프롬프트를 받은 생성 모델 가운데 가장 앞섰다. 보고서 수치는 모두 개발사가 직접 측정했고 독립 재현은 아직 이뤄지지 않았다."
+            "x": "CLI Hub는 Blender, Inkscape, Audacity, OBS Studio, LibreOffice, Kdenlive, draw.io, ComfyUI, FreeCAD 등 다른 사람들이 이미 만든 CLIs를 모은 패키지 관리자다. 생성된 CLIs는 내부에서 실제 애플리케이션을 부르기 때문에, GIMP CLI를 쓰려면 여전히 GIMP가 설치돼 있어야 한다."
+          },
+          {
+            "t": "p",
+            "x": "CLI 생성기는 Claude Code용 플러그인이지만 Cursor, Codex, Open Code도 지원하며 일곱 단계 파이프라인을 돌린다. 프로젝트 측은 생성된 하네스 약 30개에서 2,400개가 넘는 테스트를 통과했다고 밝혔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "An open-source model\nthat teaches AI to spell",
-          "body": "MOSS-Image, a 5B open-source model, renders readable bilingual text and lays out designs specified in JSON.",
-          "mini_headline": "MOSS-Image learns to spell",
+          "headline": "CLI-Anything opens creative\napps to AI agents",
+          "body": "CLI-Anything auto-generates command-line interfaces for GIMP and Blender so AI coding agents can drive them directly.",
+          "mini_headline": "Agents drive GIMP, Blender",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-open-source-model.jpg"
+                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/4585b919-e424-4ad3-8faf-651c238aaf56.png?fm=auto&w=1200&h=630&fit=crop"
               },
               {
                 "t": "p",
-                "x": "MOSS-Image, a 5-billion-parameter text-to-image model, was released on October 16, 2026, by the OpenMOSS team together with MOSI Intelligence. Code and weights are published under the Apache 2.0 license, allowing commercial use and unrestricted fine-tuning."
+                "x": "CLI-Anything is an open-source project from HKUDS, the data intelligence lab at the University of Hong Kong that also built LightRAG. It takes desktop software such as GIMP, Blender and LibreOffice and generates a full command-line interface that a coding agent can operate, complete with tests, documentation and a skill file. The repository has passed 54,000 stars and ships under the Apache 2.0 license."
               },
               {
                 "t": "p",
-                "x": "It is a single-stream diffusion transformer (DiT) trained from scratch. Prompts can run to 4,096 tokens, text rendering is bilingual in Chinese and English, and the model accepts a structured JSON layout in which each text block and object is assigned its own bounding box."
-              },
-              {
-                "t": "img",
-                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-json-layout-control.jpg",
-                "cap": "Conceptual illustration of MOSS-Image’s layout control: designers can place text and objects in bounding boxes through a JSON prompt instead of relying on prose. (Credit: Intelligent Living)"
+                "x": "AI agents are good at reading and writing text, not clicking pixels. GUI automation is slow and breaks when a UI element moves; most creative apps don’t expose a native API. A CLI sidesteps both, and every CLI-Anything command supports a --json flag for structured output, plus a REPL mode with undo and redo."
               },
               {
                 "t": "p",
-                "x": "On the team's LongLongTextBench (LLTB), MOSS-Image scores 96.3 Mean-6 text coverage; the nearest open-weight competitor, Qwen Image 2512, manages 64.9. On RealLayoutArena the full system ranks second to GPT Image 2, while its backbone ranks first among generators given identical enhanced prompts. Every number in the report is vendor-run, so independent replication is still pending."
+                "x": "CLI Hub is a package manager for CLIs others already built, including Blender, Inkscape, Audacity, OBS Studio, LibreOffice, Kdenlive, draw.io, ComfyUI and FreeCAD. The generated CLIs call the real application underneath, so the GIMP CLI still needs GIMP installed."
+              },
+              {
+                "t": "p",
+                "x": "The CLI generator, a plugin for Claude Code that also supports Cursor, Codex and Open Code, runs a seven-phase pipeline; the project reports more than 2,400 passing tests across roughly 30 generated harnesses."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI에 철자를 가르친\n오픈소스 모델",
-          "body": "5B 오픈소스 MOSS-Image가 두 언어 글자와 JSON 레이아웃을 그린다.",
-          "mini_headline": "철자를 배운 MOSS-Image",
+          "headline": "CLI-Anything이\n창작 앱을 AI에 연다",
+          "body": "CLI-Anything 덕분에 AI 에이전트가 GIMP·Blender를 다룬다.",
+          "mini_headline": "에이전트가 GIMP, Blender를 다룬다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-open-source-model.jpg"
+                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/4585b919-e424-4ad3-8faf-651c238aaf56.png?fm=auto&w=1200&h=630&fit=crop"
               },
               {
                 "t": "p",
-                "x": "OpenMOSS 팀이 MOSI Intelligence와 함께 2026년 10월 16일 5B 파라미터 규모의 텍스트-이미지 모델 MOSS-Image를 내놓았다. 코드와 가중치가 Apache 2.0 라이선스로 풀려 상업적으로 쓸 수 있고 파인튜닝에도 제한이 없다."
+                "x": "CLI-Anything은 LightRAG를 만든 홍콩대학교(University of Hong Kong) 데이터 인텔리전스 연구실 HKUDS의 오픈소스 프로젝트다. GIMP, Blender, LibreOffice 같은 데스크톱 소프트웨어를 넣으면 코딩 에이전트가 조작할 수 있는 완전한 커맨드라인 인터페이스를 테스트, 문서, 스킬 파일까지 붙여 만들어 준다. 저장소는 54,000개가 넘는 스타를 받았고 Apache 2.0 라이선스로 배포된다."
               },
               {
                 "t": "p",
-                "x": "처음부터 학습한 싱글 스트림 확산 트랜스포머(DiT)다. 프롬프트는 최대 4,096 토큰까지 받는다. 텍스트 렌더링은 중국어와 영어 두 언어를 지원하고 텍스트 블록과 객체마다 바운딩 박스를 지정하는 구조화된 JSON 레이아웃도 입력으로 받는다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-json-layout-control.jpg",
-                "cap": "MOSS-Image 레이아웃 제어 개념도. 디자이너는 문장에 기대지 않고 JSON 프롬프트로 텍스트와 객체를 바운딩 박스에 배치한다. (Credit: Intelligent Living)"
+                "x": "AI 에이전트는 텍스트를 읽고 쓰는 데는 능하지만 픽셀을 클릭하는 데는 서툴다. GUI 자동화는 느리고 UI 요소가 움직이면 깨지며, 창작 앱 대부분은 네이티브 API가 없다. CLI는 두 문제를 모두 비켜 간다. CLI-Anything의 모든 명령에는 구조화된 출력용 --json 플래그와 실행 취소·다시 실행을 지원하는 REPL 모드가 있다."
               },
               {
                 "t": "p",
-                "x": "팀이 만든 LongLongTextBench(LLTB)에서 MOSS-Image는 Mean-6 텍스트 커버리지 96.3을 기록했다. 가장 가까운 오픈 웨이트 경쟁 모델 Qwen Image 2512는 64.9였다. RealLayoutArena에서는 전체 시스템이 GPT Image 2에 이어 두 번째였고 백본은 같은 강화 프롬프트를 받은 생성 모델 가운데 가장 앞섰다. 보고서 수치는 모두 개발사가 직접 측정했고 독립 재현은 아직 이뤄지지 않았다."
+                "x": "CLI Hub는 Blender, Inkscape, Audacity, OBS Studio, LibreOffice, Kdenlive, draw.io, ComfyUI, FreeCAD 등 다른 사람들이 이미 만든 CLIs를 모은 패키지 관리자다. 생성된 CLIs는 내부에서 실제 애플리케이션을 부르기 때문에, GIMP CLI를 쓰려면 여전히 GIMP가 설치돼 있어야 한다."
+              },
+              {
+                "t": "p",
+                "x": "CLI 생성기는 Claude Code용 플러그인이지만 Cursor, Codex, Open Code도 지원하며 일곱 단계 파이프라인을 돌린다. 프로젝트 측은 생성된 하네스 약 30개에서 2,400개가 넘는 테스트를 통과했다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIに綴りを教える\nオープンソースモデル",
-          "body": "5B のオープンソースMOSS-Imageは、二言語の文字とJSONレイアウトを描ける。",
-          "mini_headline": "綴りを覚えたMOSS-Image",
+          "headline": "CLI-Anything、\n創作アプリをAIに開放",
+          "body": "CLI-AnythingでAIエージェントがGIMPやBlenderを直接操作できる。",
+          "mini_headline": "エージェントがGIMP、Blenderを操作",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-open-source-model.jpg"
+                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/4585b919-e424-4ad3-8faf-651c238aaf56.png?fm=auto&w=1200&h=630&fit=crop"
               },
               {
                 "t": "p",
-                "x": "パラメータ数5B のテキスト画像生成モデルMOSS-Imageが、2026年10月16日にOpenMOSSチームとMOSI Intelligenceによって公開された。コードと重みはApache 2.0ライセンスで公開され、商用利用や無制限のファインチューニングが可能だ。"
+                "x": "CLI-Anythingは、LightRAGも開発した香港大学(University of Hong Kong)のデータインテリジェンス研究室HKUDSによるオープンソースプロジェクトだ。GIMP、Blender、LibreOfficeなどのデスクトップソフトを対象に、コーディングエージェントが操作できる完全なコマンドラインインターフェースを、テスト、ドキュメント、スキルファイル付きで生成する。リポジトリのスター数は54,000を超え、Apache 2.0ライセンスで公開されている。"
               },
               {
                 "t": "p",
-                "x": "ゼロから学習したシングルストリームの拡散トランスフォーマー(DiT)である。プロンプトは最大4,096トークンまで扱え、テキスト描画は中国語と英語の二言語に対応する。また、テキストブロックやオブジェクトごとにバウンディングボックスを割り当てる構造化JSONレイアウトを受け付ける。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-json-layout-control.jpg",
-                "cap": "MOSS-Imageのレイアウト制御の概念図。デザイナーは文章に頼らず、JSONプロンプトでテキストやオブジェクトをバウンディングボックスに配置できる。(Credit: Intelligent Living)"
+                "x": "AIエージェントが得意なのはテキストの読み書きであり、ピクセルのクリックではない。GUIの自動化は遅く、UI要素が動くと壊れる。しかも多くのクリエイティブアプリはネイティブのAPIを公開していない。CLIなら両方を回避でき、CLI-Anythingのすべてのコマンドは構造化出力用の--jsonフラグに対応し、取り消しとやり直しが可能なREPLモードも備える。"
               },
               {
                 "t": "p",
-                "x": "チーム独自のLongLongTextBench(LLTB)で、MOSS-ImageはMean-6テキストカバレッジ96.3を記録した。最も近いオープンウェイトの競合であるQwen Image 2512は64.9にとどまった。RealLayoutArenaでは、システム全体でGPT Image 2に次ぐ二位となり、バックボーン単体では同一の強化プロンプトを与えた生成モデルの中で首位だった。報告書の数値はすべて開発元による計測であり、独立した再現はまだ行われていない。"
+                "x": "CLI Hubは、Blender、Inkscape、Audacity、OBS Studio、LibreOffice、Kdenlive、draw.io、ComfyUI、FreeCADなど、他者がすでに作ったCLIsのためのパッケージマネージャーだ。生成されたCLIsは内部で実際のアプリケーションを呼び出すため、GIMP CLIを使うにはGIMPのインストールが必要になる。"
+              },
+              {
+                "t": "p",
+                "x": "Claude Code向けプラグインで、Cursor、Codex、Open Codeにも対応するCLIジェネレーターは七段階のパイプラインを実行する。プロジェクトによれば、約30の生成済みハーネス全体で2,400件を超えるテストに合格している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "教AI学会拼写的\n开源模型",
-          "body": "5B 开源模型MOSS-Image能渲染清晰的双语文字，并按JSON指定的布局排版。",
-          "mini_headline": "MOSS-Image学会拼写",
+          "headline": "CLI-Anything让\nAI智能体操控创意应用",
+          "body": "CLI-Anything为GIMP和Blender自动生成命令行，供AI编程智能体操控。",
+          "mini_headline": "智能体操控GIMP、Blender",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-open-source-model.jpg"
+                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/4585b919-e424-4ad3-8faf-651c238aaf56.png?fm=auto&w=1200&h=630&fit=crop"
               },
               {
                 "t": "p",
-                "x": "MOSS-Image是一款拥有5B 参数的文生图模型，由OpenMOSS团队与MOSI Intelligence于2026年10月16日联合发布。代码和权重以Apache 2.0许可证开源，允许商用和不受限制的微调。"
+                "x": "CLI-Anything是HKUDS推出的开源项目。HKUDS是香港大学（University of Hong Kong）的数据智能实验室，LightRAG也出自该实验室。它能针对GIMP、Blender、LibreOffice等桌面软件，生成一套可供编程智能体操作的完整命令行界面，并配有测试、文档和技能文件。该仓库已获得超过54,000颗星，采用Apache 2.0许可证发布。"
               },
               {
                 "t": "p",
-                "x": "它是一个从零开始训练的单流扩散变换器（DiT）。提示词最长可达4,096个词元，文字渲染支持中英双语，模型还接受结构化的JSON布局，为每个文本块和对象分配各自的边界框。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-json-layout-control.jpg",
-                "cap": "MOSS-Image布局控制概念图：设计师可以通过JSON提示词而非文字描述，将文本和对象放入边界框中。(Credit: Intelligent Living)"
+                "x": "AI智能体擅长读写文本，而不是点击像素。GUI自动化速度慢，UI元素一移动就会失效；大多数创意应用也没有提供原生API。CLI可以同时绕开这两个问题，CLI-Anything的每条命令都支持用于结构化输出的--json标志，并提供支持撤销和重做的REPL模式。"
               },
               {
                 "t": "p",
-                "x": "在该团队的LongLongTextBench（LLTB）上，MOSS-Image的Mean-6文本覆盖率为96.3；最接近的开放权重竞争对手Qwen Image 2512仅为64.9。在RealLayoutArena上，完整系统排名仅次于GPT Image 2，而其主干模型在使用相同增强提示词的生成器中排名第一。报告中的所有数据均由开发方自测，独立复现仍有待进行。"
+                "x": "CLI Hub是一个包管理器，收录了他人已经构建好的CLIs，包括Blender、Inkscape、Audacity、OBS Studio、LibreOffice、Kdenlive、draw.io、ComfyUI和FreeCAD。生成的CLIs在底层调用真实的应用程序，因此GIMP CLI仍需安装GIMP。"
+              },
+              {
+                "t": "p",
+                "x": "CLI生成器是Claude Code的插件，也支持Cursor、Codex和Open Code，它运行一条七阶段流水线；项目方称，在约30个生成的测试框架中，已有超过2,400项测试通过。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un modelo de código abierto\nque enseña ortografía a la AI",
-          "body": "MOSS-Image, un modelo de código abierto de 5B, genera texto bilingüe legible y compone diseños definidos en JSON.",
-          "mini_headline": "MOSS-Image aprende ortografía",
+          "headline": "CLI-Anything abre las apps\ncreativas a agentes de AI",
+          "body": "CLI-Anything genera interfaces de línea de comandos para GIMP y Blender para que los agentes de AI los controlen.",
+          "mini_headline": "Agentes que manejan GIMP y Blender",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-open-source-model.jpg"
+                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/4585b919-e424-4ad3-8faf-651c238aaf56.png?fm=auto&w=1200&h=630&fit=crop"
               },
               {
                 "t": "p",
-                "x": "MOSS-Image, un modelo de texto a imagen de 5 mil millones de parámetros, fue lanzado el 16 de octubre de 2026 por el equipo de OpenMOSS junto con MOSI Intelligence. El código y los pesos se publican bajo la licencia Apache 2.0, que permite el uso comercial y el ajuste fino sin restricciones."
+                "x": "CLI-Anything es un proyecto de código abierto de HKUDS, el laboratorio de inteligencia de datos de la Universidad de Hong Kong (University of Hong Kong) que también creó LightRAG. Toma software de escritorio como GIMP, Blender y LibreOffice y genera una interfaz de línea de comandos completa que un agente de programación puede operar, con pruebas, documentación y un archivo de skill. El repositorio ha superado las 54,000 estrellas y se distribuye bajo licencia Apache 2.0."
               },
               {
                 "t": "p",
-                "x": "Es un transformer de difusión de flujo único (DiT) entrenado desde cero. Los prompts pueden llegar a 4,096 tokens, el renderizado de texto es bilingüe en chino e inglés y el modelo acepta un diseño JSON estructurado en el que cada bloque de texto y cada objeto tiene asignada su propia caja delimitadora."
-              },
-              {
-                "t": "img",
-                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-json-layout-control.jpg",
-                "cap": "Ilustración conceptual del control de diseño de MOSS-Image: los diseñadores pueden colocar texto y objetos en cajas delimitadoras mediante un prompt JSON en lugar de depender de la prosa. (Credit: Intelligent Living)"
+                "x": "Los agentes de AI son buenos leyendo y escribiendo texto, no haciendo clic en píxeles. La automatización de GUI es lenta y se rompe cuando un elemento de la UI se mueve; la mayoría de las apps creativas no exponen una API nativa. Una CLI evita ambos problemas, y cada comando de CLI-Anything admite un flag --json para salida estructurada, además de un modo REPL con deshacer y rehacer."
               },
               {
                 "t": "p",
-                "x": "En el LongLongTextBench (LLTB) del equipo, MOSS-Image obtiene 96.3 de cobertura de texto Mean-6; el competidor de pesos abiertos más cercano, Qwen Image 2512, logra 64.9. En RealLayoutArena, el sistema completo queda segundo, por detrás de GPT Image 2, mientras que su backbone queda primero entre los generadores que recibieron los mismos prompts mejorados. Todas las cifras del informe las midió el propio desarrollador, por lo que la replicación independiente sigue pendiente."
+                "x": "CLI Hub es un gestor de paquetes para CLIs que otros ya han creado, entre ellas Blender, Inkscape, Audacity, OBS Studio, LibreOffice, Kdenlive, draw.io, ComfyUI y FreeCAD. Las CLIs generadas llaman por debajo a la aplicación real, así que la GIMP CLI sigue necesitando que GIMP esté instalado."
+              },
+              {
+                "t": "p",
+                "x": "El generador de CLI, un plugin para Claude Code que también es compatible con Cursor, Codex y Open Code, ejecuta un pipeline de siete fases; el proyecto informa de más de 2,400 pruebas superadas en unos 30 harnesses generados."
               }
             ]
           }
@@ -1457,125 +1491,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI에 철자를 가르친\n오픈소스 모델",
-          "body": "5B 오픈소스 MOSS-Image는 두 언어 글자와 JSON 레이아웃을 그린다.",
-          "mini_headline": "철자를 배운 MOSS-Image",
+          "headline": "CLI-Anything이\n창작 앱을 AI에 연다",
+          "body": "CLI-Anything은 GIMP·Blender를 AI 에이전트가 다루게 한다.",
+          "mini_headline": "에이전트가 GIMP, Blender를 다룬다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-open-source-model.jpg"
+                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/4585b919-e424-4ad3-8faf-651c238aaf56.png?fm=auto&w=1200&h=630&fit=crop"
               },
               {
                 "t": "p",
-                "x": "OpenMOSS 팀이 MOSI Intelligence와 함께 2026년 10월 16일 5B 파라미터 규모의 텍스트-이미지 모델 MOSS-Image를 공개했다. 코드와 가중치는 Apache 2.0 라이선스로 공개돼 상업적 사용과 제한 없는 파인튜닝이 가능하다."
+                "x": "CLI-Anything은 LightRAG를 만든 홍콩대학교(University of Hong Kong) 데이터 인텔리전스 연구실 HKUDS의 오픈소스 프로젝트다. GIMP, Blender, LibreOffice 같은 데스크톱 소프트웨어를 받아 코딩 에이전트가 조작할 수 있는 완전한 커맨드라인 인터페이스를 테스트, 문서, 스킬 파일까지 갖춰 생성한다. 저장소는 54,000개가 넘는 스타를 받았고 Apache 2.0 라이선스로 배포된다."
               },
               {
                 "t": "p",
-                "x": "처음부터 학습한 싱글 스트림 확산 트랜스포머(DiT)다. 프롬프트는 최대 4,096 토큰까지 쓸 수 있고, 텍스트 렌더링은 중국어와 영어 두 언어를 지원하며, 텍스트 블록과 객체마다 바운딩 박스를 지정하는 구조화된 JSON 레이아웃을 입력으로 받는다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-json-layout-control.jpg",
-                "cap": "MOSS-Image 레이아웃 제어의 개념도. 디자이너는 문장에 의존하지 않고 JSON 프롬프트로 텍스트와 객체를 바운딩 박스에 배치할 수 있다. (Credit: Intelligent Living)"
+                "x": "AI 에이전트는 텍스트를 읽고 쓰는 데 능하지, 픽셀을 클릭하는 데 능하지 않다. GUI 자동화는 느리고 UI 요소가 움직이면 깨지며, 대부분의 창작 앱은 네이티브 API를 제공하지 않는다. CLI는 두 문제를 모두 피해 가고, CLI-Anything의 모든 명령은 구조화된 출력을 위한 --json 플래그와 실행 취소·다시 실행을 지원하는 REPL 모드를 갖췄다."
               },
               {
                 "t": "p",
-                "x": "팀이 만든 LongLongTextBench(LLTB)에서 MOSS-Image는 Mean-6 텍스트 커버리지 96.3을 기록했다. 가장 가까운 오픈 웨이트 경쟁 모델인 Qwen Image 2512는 64.9에 그쳤다. RealLayoutArena에서는 전체 시스템이 GPT Image 2에 이어 두 번째였고, 백본은 동일한 강화 프롬프트를 받은 생성 모델 가운데 가장 앞섰다. 보고서의 모든 수치는 개발사가 직접 측정한 것이어서 독립적인 재현은 아직 이뤄지지 않았다."
+                "x": "CLI Hub는 Blender, Inkscape, Audacity, OBS Studio, LibreOffice, Kdenlive, draw.io, ComfyUI, FreeCAD 등 다른 사람들이 이미 만든 CLIs를 위한 패키지 관리자다. 생성된 CLIs는 내부에서 실제 애플리케이션을 호출하므로, GIMP CLI를 쓰려면 여전히 GIMP가 설치돼 있어야 한다."
+              },
+              {
+                "t": "p",
+                "x": "Claude Code용 플러그인이면서 Cursor, Codex, Open Code도 지원하는 CLI 생성기는 일곱 단계 파이프라인을 실행하며, 프로젝트 측은 약 30개의 생성된 하네스에서 2,400개가 넘는 테스트를 통과했다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIに綴りを教える\nオープンソースモデル",
-          "body": "5B のオープンソースMOSS-Imageは、二言語の文字とJSONレイアウトを描ける。",
-          "mini_headline": "綴りを覚えたMOSS-Image",
+          "headline": "CLI-Anything、\n創作アプリをAIに開放",
+          "body": "CLI-AnythingでAIエージェントがGIMPやBlenderを直接操作できる。",
+          "mini_headline": "エージェントがGIMP、Blenderを操作",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-open-source-model.jpg"
+                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/4585b919-e424-4ad3-8faf-651c238aaf56.png?fm=auto&w=1200&h=630&fit=crop"
               },
               {
                 "t": "p",
-                "x": "パラメータ数5B のテキスト画像生成モデルMOSS-Imageが、2026年10月16日にOpenMOSSチームとMOSI Intelligenceによって公開された。コードと重みはApache 2.0ライセンスで公開され、商用利用や無制限のファインチューニングが可能だ。"
+                "x": "CLI-Anythingは、LightRAGも開発した香港大学(University of Hong Kong)のデータインテリジェンス研究室HKUDSによるオープンソースプロジェクトだ。GIMP、Blender、LibreOfficeなどのデスクトップソフトを対象に、コーディングエージェントが操作できる完全なコマンドラインインターフェースを、テスト、ドキュメント、スキルファイル付きで生成する。リポジトリのスター数は54,000を超え、Apache 2.0ライセンスで公開されている。"
               },
               {
                 "t": "p",
-                "x": "ゼロから学習したシングルストリームの拡散トランスフォーマー(DiT)である。プロンプトは最大4,096トークンまで扱え、テキスト描画は中国語と英語の二言語に対応する。また、テキストブロックやオブジェクトごとにバウンディングボックスを割り当てる構造化JSONレイアウトを受け付ける。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-json-layout-control.jpg",
-                "cap": "MOSS-Imageのレイアウト制御の概念図。デザイナーは文章に頼らず、JSONプロンプトでテキストやオブジェクトをバウンディングボックスに配置できる。(Credit: Intelligent Living)"
+                "x": "AIエージェントが得意なのはテキストの読み書きであり、ピクセルのクリックではない。GUIの自動化は遅く、UI要素が動くと壊れる。しかも多くのクリエイティブアプリはネイティブのAPIを公開していない。CLIなら両方を回避でき、CLI-Anythingのすべてのコマンドは構造化出力用の--jsonフラグに対応し、取り消しとやり直しが可能なREPLモードも備える。"
               },
               {
                 "t": "p",
-                "x": "チーム独自のLongLongTextBench(LLTB)で、MOSS-ImageはMean-6テキストカバレッジ96.3を記録した。最も近いオープンウェイトの競合であるQwen Image 2512は64.9にとどまった。RealLayoutArenaでは、システム全体でGPT Image 2に次ぐ二位となり、バックボーン単体では同一の強化プロンプトを与えた生成モデルの中で首位だった。報告書の数値はすべて開発元による計測であり、独立した再現はまだ行われていない。"
+                "x": "CLI Hubは、Blender、Inkscape、Audacity、OBS Studio、LibreOffice、Kdenlive、draw.io、ComfyUI、FreeCADなど、他者がすでに作ったCLIsのためのパッケージマネージャーだ。生成されたCLIsは内部で実際のアプリケーションを呼び出すため、GIMP CLIを使うにはGIMPのインストールが必要になる。"
+              },
+              {
+                "t": "p",
+                "x": "Claude Code向けプラグインで、Cursor、Codex、Open Codeにも対応するCLIジェネレーターは七段階のパイプラインを実行する。プロジェクトによれば、約30の生成済みハーネス全体で2,400件を超えるテストに合格している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "教AI学会拼写的\n开源模型",
-          "body": "5B 开源模型MOSS-Image能渲染清晰的双语文字，并按JSON指定的布局排版。",
-          "mini_headline": "MOSS-Image学会拼写",
+          "headline": "CLI-Anything让\nAI智能体操控创意应用",
+          "body": "CLI-Anything为GIMP和Blender自动生成命令行，供AI编程智能体操控。",
+          "mini_headline": "智能体操控GIMP、Blender",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-open-source-model.jpg"
+                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/4585b919-e424-4ad3-8faf-651c238aaf56.png?fm=auto&w=1200&h=630&fit=crop"
               },
               {
                 "t": "p",
-                "x": "MOSS-Image是一款拥有5B 参数的文生图模型，由OpenMOSS团队与MOSI Intelligence于2026年10月16日联合发布。代码和权重以Apache 2.0许可证开源，允许商用和不受限制的微调。"
+                "x": "CLI-Anything是HKUDS推出的开源项目。HKUDS是香港大学（University of Hong Kong）的数据智能实验室，LightRAG也出自该实验室。它能针对GIMP、Blender、LibreOffice等桌面软件，生成一套可供编程智能体操作的完整命令行界面，并配有测试、文档和技能文件。该仓库已获得超过54,000颗星，采用Apache 2.0许可证发布。"
               },
               {
                 "t": "p",
-                "x": "它是一个从零开始训练的单流扩散变换器（DiT）。提示词最长可达4,096个词元，文字渲染支持中英双语，模型还接受结构化的JSON布局，为每个文本块和对象分配各自的边界框。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-json-layout-control.jpg",
-                "cap": "MOSS-Image布局控制概念图：设计师可以通过JSON提示词而非文字描述，将文本和对象放入边界框中。(Credit: Intelligent Living)"
+                "x": "AI智能体擅长读写文本，而不是点击像素。GUI自动化速度慢，UI元素一移动就会失效；大多数创意应用也没有提供原生API。CLI可以同时绕开这两个问题，CLI-Anything的每条命令都支持用于结构化输出的--json标志，并提供支持撤销和重做的REPL模式。"
               },
               {
                 "t": "p",
-                "x": "在该团队的LongLongTextBench（LLTB）上，MOSS-Image的Mean-6文本覆盖率为96.3；最接近的开放权重竞争对手Qwen Image 2512仅为64.9。在RealLayoutArena上，完整系统排名仅次于GPT Image 2，而其主干模型在使用相同增强提示词的生成器中排名第一。报告中的所有数据均由开发方自测，独立复现仍有待进行。"
+                "x": "CLI Hub是一个包管理器，收录了他人已经构建好的CLIs，包括Blender、Inkscape、Audacity、OBS Studio、LibreOffice、Kdenlive、draw.io、ComfyUI和FreeCAD。生成的CLIs在底层调用真实的应用程序，因此GIMP CLI仍需安装GIMP。"
+              },
+              {
+                "t": "p",
+                "x": "CLI生成器是Claude Code的插件，也支持Cursor、Codex和Open Code，它运行一条七阶段流水线；项目方称，在约30个生成的测试框架中，已有超过2,400项测试通过。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un modelo de código abierto\nque enseña ortografía a la AI",
-          "body": "MOSS-Image, un modelo de código abierto de 5B, genera texto bilingüe legible y compone diseños definidos en JSON.",
-          "mini_headline": "MOSS-Image aprende ortografía",
+          "headline": "CLI-Anything abre las apps\ncreativas a agentes de AI",
+          "body": "CLI-Anything genera interfaces de línea de comandos para GIMP y Blender para que los agentes de AI los controlen.",
+          "mini_headline": "Agentes que manejan GIMP y Blender",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-open-source-model.jpg"
+                "src": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/4585b919-e424-4ad3-8faf-651c238aaf56.png?fm=auto&w=1200&h=630&fit=crop"
               },
               {
                 "t": "p",
-                "x": "MOSS-Image, un modelo de texto a imagen de 5 mil millones de parámetros, fue lanzado el 16 de octubre de 2026 por el equipo de OpenMOSS junto con MOSI Intelligence. El código y los pesos se publican bajo la licencia Apache 2.0, que permite el uso comercial y el ajuste fino sin restricciones."
+                "x": "CLI-Anything es un proyecto de código abierto de HKUDS, el laboratorio de inteligencia de datos de la Universidad de Hong Kong (University of Hong Kong) que también creó LightRAG. Toma software de escritorio como GIMP, Blender y LibreOffice y genera una interfaz de línea de comandos completa que un agente de programación puede operar, con pruebas, documentación y un archivo de skill. El repositorio ha superado las 54,000 estrellas y se distribuye bajo licencia Apache 2.0."
               },
               {
                 "t": "p",
-                "x": "Es un transformer de difusión de flujo único (DiT) entrenado desde cero. Los prompts pueden llegar a 4,096 tokens, el renderizado de texto es bilingüe en chino e inglés y el modelo acepta un diseño JSON estructurado en el que cada bloque de texto y cada objeto tiene asignada su propia caja delimitadora."
-              },
-              {
-                "t": "img",
-                "src": "https://www.intelligentliving.co/wp-content/uploads/2026/10/moss-image-json-layout-control.jpg",
-                "cap": "Ilustración conceptual del control de diseño de MOSS-Image: los diseñadores pueden colocar texto y objetos en cajas delimitadoras mediante un prompt JSON en lugar de depender de la prosa. (Credit: Intelligent Living)"
+                "x": "Los agentes de AI son buenos leyendo y escribiendo texto, no haciendo clic en píxeles. La automatización de GUI es lenta y se rompe cuando un elemento de la UI se mueve; la mayoría de las apps creativas no exponen una API nativa. Una CLI evita ambos problemas, y cada comando de CLI-Anything admite un flag --json para salida estructurada, además de un modo REPL con deshacer y rehacer."
               },
               {
                 "t": "p",
-                "x": "En el LongLongTextBench (LLTB) del equipo, MOSS-Image obtiene 96.3 de cobertura de texto Mean-6; el competidor de pesos abiertos más cercano, Qwen Image 2512, logra 64.9. En RealLayoutArena, el sistema completo queda segundo, por detrás de GPT Image 2, mientras que su backbone queda primero entre los generadores que recibieron los mismos prompts mejorados. Todas las cifras del informe las midió el propio desarrollador, por lo que la replicación independiente sigue pendiente."
+                "x": "CLI Hub es un gestor de paquetes para CLIs que otros ya han creado, entre ellas Blender, Inkscape, Audacity, OBS Studio, LibreOffice, Kdenlive, draw.io, ComfyUI y FreeCAD. Las CLIs generadas llaman por debajo a la aplicación real, así que la GIMP CLI sigue necesitando que GIMP esté instalado."
+              },
+              {
+                "t": "p",
+                "x": "El generador de CLI, un plugin para Claude Code que también es compatible con Cursor, Codex y Open Code, ejecuta un pipeline de siete fases; el proyecto informa de más de 2,400 pruebas superadas en unos 30 harnesses generados."
               }
             ]
           }

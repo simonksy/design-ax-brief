@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "section": "science",
   "cards": [
     {
-      "id": "science-hydrogen-catalyst",
+      "id": "dueling-proofs",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "pre-2018 논문만 본\nAI, 훗날 촉매 짚어",
-      "body": "pre-2018 문헌만 본 모델이 Cr-Co-Fe-Mn-Ni 수소 촉매를 짚었다.",
-      "mini_headline": "AI가 내다본 촉매",
       "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-10-restricted-pre-ai-flags-hydrogen.html",
+      "eyebrow": "AI NEWS",
+      "headline": "OpenAI의 AI 증명\nAnthropic도 맞불",
+      "body": "OpenAI의 AI 증명에 Anthropic은 몇 시간 만에 ETH 반증을 냈다.",
+      "mini_headline": "두 연구소의 AI 증명 대결",
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/dueling-proofs-from-openai-and-anthropic-astound-scientists/",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -19,203 +19,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ahead-of-their-time.jpg",
-            "cap": "CarbonCat-LLMs 프레임워크 모식도. few-shot 학습을 했을 때와 안 했을 때 GPT-4o 모델의 정확도와 F1-score를 비교했다. Credit: ACS Catalysis"
+            "src": "https://static.scientificamerican.com/dam/asset/a68eee8f-8e2b-4674-bee4-bc400e160421/shutterstock_1178400508.jpg?m=1793104449.992&w=1200",
+            "cap": "xpixel/Shutterstock"
           },
           {
             "t": "p",
-            "x": "ARC Centre of Excellence for Carbon Science and Innovation 연구진이 대형 언어 모델로 과학 문헌을 훑어 수소 생산에 쓸 유망한 전기촉매, 탄소 담지 고엔트로피 합금을 찾아냈다."
+            "x": "가뜩이나 위기에 놓인 분야에 인공지능이 생성한 수학 성과 수백 건을 쏟아낸 지 몇 주 만에 OpenAI가 수학·물리학·컴퓨터 과학을 아우르는 대형 증명 세 건을 내놓았다. 최근 잇따른 AI-generated “slop drops”가 그랬듯 이번 공개도 벌써 논란이다."
           },
           {
             "t": "p",
-            "x": "연구팀은 AI가 내놓은 결과 100건을 직접 평가하며 시스템을 다듬었다. 이렇게 다듬은 시스템이 5,000편이 넘는 연구 논문에서 정보를 뽑아냈다."
+            "x": "OpenAI가 직접 꾸린 전문가 패널, 수학·인공지능 자문그룹(Advisory Group on Mathematics and Artificial Intelligence, AGMAI)의 권고와도 어긋나는 공개다. 모델은 여전히 비공개다. 프롬프트와 연산 시간, 사고 사슬(chain-of-thought) 출력도 나오지 않았다. 결과 두 건은 Anthropic이 관여한 연구와 밀접하게 겹친다."
           },
           {
             "t": "p",
-            "x": "2017년까지 나온 지식만 쓰게 묶어 두자 시스템은 CrCoFeMnNi 합금을 골랐다. 이 합금은 나중에 실험으로 확인돼, 수소 전기촉매 분야에서 고엔트로피 합금의 초기 사례로 보고됐다."
+            "x": "Kakeya: 지난달 사차원 사례를 풀었던 OpenAI 내부 모델이 이번에는 모든 차원의 Kakeya 문제를 풀었다."
           },
           {
             "t": "p",
-            "x": "계산으로만 진행한 연구라 새로 제안한 후보 물질도, 수소 비용·성능을 얼마나 개선할지도 아직 검증 전이다. 저자들은 이 방법을 CO₂ 환원은 물론 새로운 반응 발견에도 넓혀 쓸 수 있다고 본다."
+            "x": "Yang-Mills: OpenAI는 Millennium Prize Problem(밀레니엄 난제) 가운데 “존재” 절반을 증명했다고 주장한다. “질량 간극”은 아직 풀리지 않았다. Anthropic 직원 Levent Alpöge와 Northwestern의 Ethan Sussman은 공개 GitHub 저장소에서 LLMs로 Balaban의 프로그램을 완성해 가던 참이었는데, 증명을 공개하지 않은 OpenAI의 주장이 이들을 앞지른 셈이 됐다."
           },
           {
             "t": "p",
-            "x": "Yiran Jiao et al.의 연구로 ACS Catalysis (2026)에 실렸다. DOI: 10.1021/acscatal.6c00635."
+            "x": "Exponential Time Hypothesis(지수 시간 가설): OpenAI의 증명은 지수 시간보다 아주 조금 빠른 3-SAT 알고리즘으로 ETH를 반박한다. Russell Impagliazzo, Ramamohan Paturi, Ryan Williams가 OpenAI와 함께 독립 검증을 맡았다. OpenAI 발표 몇 시간 뒤 Anthropic도 내부 Anthropic 모델의 작업을 토대로 ETH를 반증하는 독자 결과를 올렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI limited to pre-2018 papers\nflags a later catalyst",
-          "body": "A language model limited to pre-2018 literature flagged a Cr-Co-Fe-Mn-Ni alloy later reported as a hydrogen catalyst.",
-          "mini_headline": "AI foresees a catalyst",
+          "headline": "OpenAI and Anthropic\nrelease dueling AI proofs",
+          "body": "OpenAI dropped AI proofs in math, physics and computing, and Anthropic answered within hours with its own ETH disproof.",
+          "mini_headline": "Rival AI proofs from two labs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ahead-of-their-time.jpg",
-                "cap": "Schematic of the CarbonCat-LLMs framework, comparing accuracy and F1-score for GPT-4o models with and without few-shot training. Credit: ACS Catalysis"
+                "src": "https://static.scientificamerican.com/dam/asset/a68eee8f-8e2b-4674-bee4-bc400e160421/shutterstock_1178400508.jpg?m=1793104449.992&w=1200",
+                "cap": "xpixel/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "Researchers at the ARC Centre of Excellence for Carbon Science and Innovation used large language models to mine the scientific literature for promising electrocatalysts: carbon-supported high-entropy alloys for hydrogen production."
+                "x": "Just a few weeks after dropping hundreds of artificial-intelligence-generated math breakthroughs on a field that's already in crisis, OpenAI dropped three massive proofs that touched on math, physics and computer science. Like other recent AI-generated “slop drops,” the releases are already controversial."
               },
               {
                 "t": "p",
-                "x": "The team manually assessed 100 examples of the AI's output to refine the system, which then extracted information from more than 5,000 research papers."
+                "x": "The releases contradict the recommendations of the Advisory Group on Mathematics and Artificial Intelligence (AGMAI), the expert panel OpenAI organized. The model remains proprietary, and the prompts, compute time and chain-of-thought outputs have not been made public. Two of the results coincide with closely related work involving Anthropic."
               },
               {
                 "t": "p",
-                "x": "When the system was restricted to knowledge available up to 2017, it flagged the alloy CrCoFeMnNi, which was subsequently reported experimentally as an early example of high-entropy alloys in hydrogen electrocatalysis."
+                "x": "Kakeya: after solving the four-dimensional case last month, OpenAI's internal model has now solved the Kakeya problem in every dimension."
               },
               {
                 "t": "p",
-                "x": "The study is computational, so the newly proposed candidate materials and any gains in hydrogen cost or performance remain unverified. The authors suggest the approach could extend to CO₂ reduction and, eventually, to discovering new reactions."
+                "x": "Yang-Mills: OpenAI claimed to prove the “existence” half of the Millennium Prize Problem; the “mass gap” remains open. Anthropic employee Levent Alpöge and Northwestern's Ethan Sussman had been using LLMs to finish Balaban's program in a public GitHub repository; OpenAI's claim, with no publicly available proof, appears to have beaten them."
               },
               {
                 "t": "p",
-                "x": "The work, by Yiran Jiao et al., is published in ACS Catalysis (2026). DOI: 10.1021/acscatal.6c00635."
+                "x": "Exponential Time Hypothesis: OpenAI's proof gives a 3-SAT algorithm just a tiny bit faster than exponential time, refuting ETH. Russell Impagliazzo, Ramamohan Paturi and Ryan Williams are working with OpenAI on an independent investigation. Mere hours after OpenAI's announcement, Anthropic posted its own independent result disproving ETH, based on work by an internal Anthropic model."
               }
             ]
           }
         },
         "ko": {
-          "headline": "pre-2018 논문만 본\nAI, 훗날 촉매 짚어",
-          "body": "pre-2018 문헌만 본 모델이 Cr-Co-Fe-Mn-Ni 수소 촉매를 짚었다.",
-          "mini_headline": "AI가 내다본 촉매",
+          "headline": "OpenAI의 AI 증명\nAnthropic도 맞불",
+          "body": "OpenAI의 AI 증명에 Anthropic은 몇 시간 만에 ETH 반증을 냈다.",
+          "mini_headline": "두 연구소의 AI 증명 대결",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ahead-of-their-time.jpg",
-                "cap": "CarbonCat-LLMs 프레임워크 모식도. few-shot 학습을 했을 때와 안 했을 때 GPT-4o 모델의 정확도와 F1-score를 비교했다. Credit: ACS Catalysis"
+                "src": "https://static.scientificamerican.com/dam/asset/a68eee8f-8e2b-4674-bee4-bc400e160421/shutterstock_1178400508.jpg?m=1793104449.992&w=1200",
+                "cap": "xpixel/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "ARC Centre of Excellence for Carbon Science and Innovation 연구진이 대형 언어 모델로 과학 문헌을 훑어 수소 생산에 쓸 유망한 전기촉매, 탄소 담지 고엔트로피 합금을 찾아냈다."
+                "x": "가뜩이나 위기에 놓인 분야에 인공지능이 생성한 수학 성과 수백 건을 쏟아낸 지 몇 주 만에 OpenAI가 수학·물리학·컴퓨터 과학을 아우르는 대형 증명 세 건을 내놓았다. 최근 잇따른 AI-generated “slop drops”가 그랬듯 이번 공개도 벌써 논란이다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 AI가 내놓은 결과 100건을 직접 평가하며 시스템을 다듬었다. 이렇게 다듬은 시스템이 5,000편이 넘는 연구 논문에서 정보를 뽑아냈다."
+                "x": "OpenAI가 직접 꾸린 전문가 패널, 수학·인공지능 자문그룹(Advisory Group on Mathematics and Artificial Intelligence, AGMAI)의 권고와도 어긋나는 공개다. 모델은 여전히 비공개다. 프롬프트와 연산 시간, 사고 사슬(chain-of-thought) 출력도 나오지 않았다. 결과 두 건은 Anthropic이 관여한 연구와 밀접하게 겹친다."
               },
               {
                 "t": "p",
-                "x": "2017년까지 나온 지식만 쓰게 묶어 두자 시스템은 CrCoFeMnNi 합금을 골랐다. 이 합금은 나중에 실험으로 확인돼, 수소 전기촉매 분야에서 고엔트로피 합금의 초기 사례로 보고됐다."
+                "x": "Kakeya: 지난달 사차원 사례를 풀었던 OpenAI 내부 모델이 이번에는 모든 차원의 Kakeya 문제를 풀었다."
               },
               {
                 "t": "p",
-                "x": "계산으로만 진행한 연구라 새로 제안한 후보 물질도, 수소 비용·성능을 얼마나 개선할지도 아직 검증 전이다. 저자들은 이 방법을 CO₂ 환원은 물론 새로운 반응 발견에도 넓혀 쓸 수 있다고 본다."
+                "x": "Yang-Mills: OpenAI는 Millennium Prize Problem(밀레니엄 난제) 가운데 “존재” 절반을 증명했다고 주장한다. “질량 간극”은 아직 풀리지 않았다. Anthropic 직원 Levent Alpöge와 Northwestern의 Ethan Sussman은 공개 GitHub 저장소에서 LLMs로 Balaban의 프로그램을 완성해 가던 참이었는데, 증명을 공개하지 않은 OpenAI의 주장이 이들을 앞지른 셈이 됐다."
               },
               {
                 "t": "p",
-                "x": "Yiran Jiao et al.의 연구로 ACS Catalysis (2026)에 실렸다. DOI: 10.1021/acscatal.6c00635."
+                "x": "Exponential Time Hypothesis(지수 시간 가설): OpenAI의 증명은 지수 시간보다 아주 조금 빠른 3-SAT 알고리즘으로 ETH를 반박한다. Russell Impagliazzo, Ramamohan Paturi, Ryan Williams가 OpenAI와 함께 독립 검증을 맡았다. OpenAI 발표 몇 시간 뒤 Anthropic도 내부 Anthropic 모델의 작업을 토대로 ETH를 반증하는 독자 결과를 올렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "pre-2018論文限定の\nAIが後の触媒を予見",
-          "body": "pre-2018の文献だけのモデルが水素触媒Cr-Co-Fe-Mn-Ni合金を予見した。",
-          "mini_headline": "AIが触媒を予見",
+          "headline": "OpenAIがAI証明\nAnthropicも対抗",
+          "body": "OpenAIのAI証明に対し、Anthropicは数時間後に独自のETH反証を出した。",
+          "mini_headline": "二つの研究所がAI証明で競う",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ahead-of-their-time.jpg",
-                "cap": "CarbonCat-LLMsフレームワークの模式図。few-shot学習の有無によるGPT-4oモデルの精度とF1-scoreを比較している。Credit: ACS Catalysis"
+                "src": "https://static.scientificamerican.com/dam/asset/a68eee8f-8e2b-4674-bee4-bc400e160421/shutterstock_1178400508.jpg?m=1793104449.992&w=1200",
+                "cap": "xpixel/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "ARC Centre of Excellence for Carbon Science and Innovationの研究者は、大規模言語モデルを使って科学文献を掘り起こし、有望な電極触媒である水素製造用の炭素担持高エントロピー合金を探した。"
+                "x": "すでに危機にある分野に人工知能が生み出した数学的成果を数百件投じてからわずか数週間後、OpenAIは数学・物理学・計算機科学にまたがる大型の証明を三つ公開した。最近の他のAI-generatedな“slop drops”と同様、今回の公開もすでに論争を呼んでいる。"
               },
               {
                 "t": "p",
-                "x": "研究チームはAIの出力例100件を手作業で評価してシステムを改良し、その後システムは5,000本を超える研究論文から情報を抽出した。"
+                "x": "今回の公開は、OpenAIが組織した専門家パネルAdvisory Group on Mathematics and Artificial Intelligence(AGMAI)の勧告に反する。モデルは非公開のままで、プロンプト、計算時間、chain-of-thoughtの出力も公開されていない。結果のうち二つは、Anthropicが関わる密接に関連した研究と重なる。"
               },
               {
                 "t": "p",
-                "x": "2017年までの知識に制限すると、システムは合金CrCoFeMnNiを挙げた。この合金はその後、水素電極触媒における高エントロピー合金の初期の例として実験的に報告された。"
+                "x": "Kakeya:先月四次元の場合を解いたOpenAIの内部モデルが、今回はあらゆる次元でKakeya問題を解いた。"
               },
               {
                 "t": "p",
-                "x": "研究は計算によるもので、新たに提案された候補材料や、水素のコスト・性能面での改善は未検証である。著者らは、この手法がCO₂還元、さらには新しい反応の発見にも広がりうると示唆している。"
+                "x": "Yang-Mills:OpenAIはMillennium Prize Problemの“存在”の半分を証明したと主張したが、“質量ギャップ”は未解決のままだ。Anthropic社員のLevent AlpögeとNorthwesternのEthan Sussmanは、公開GitHubリポジトリでLLMsを使いBalabanのプログラムを完成させようとしていた。証明が公開されていないOpenAIの主張は、彼らに先んじたとみられる。"
               },
               {
                 "t": "p",
-                "x": "Yiran Jiao et al.による研究で、ACS Catalysis (2026)に掲載された。DOI: 10.1021/acscatal.6c00635."
+                "x": "Exponential Time Hypothesis:OpenAIの証明は指数時間よりごくわずかに速い3-SATアルゴリズムを示し、ETHを否定する。Russell Impagliazzo、Ramamohan Paturi、Ryan WilliamsがOpenAIと独立した検証を進めている。OpenAIの発表からわずか数時間後、Anthropicは社内のAnthropicモデルの成果に基づき、ETHを反証する独自の結果を公開した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "只学pre-2018论文\nAI预见了后来的催化剂",
-          "body": "仅用pre-2018文献的模型点出了后来的氢催化剂Cr-Co-Fe-Mn-Ni合金。",
-          "mini_headline": "AI预见催化剂",
+          "headline": "OpenAI发布AI证明\nAnthropic随即反击",
+          "body": "OpenAI发布数学、物理和计算的AI证明，Anthropic数小时内以ETH反证回应。",
+          "mini_headline": "两家实验室的AI证明之争",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ahead-of-their-time.jpg",
-                "cap": "CarbonCat-LLMs框架示意图，比较了有无few-shot训练的GPT-4o模型的准确率与F1-score。Credit: ACS Catalysis"
+                "src": "https://static.scientificamerican.com/dam/asset/a68eee8f-8e2b-4674-bee4-bc400e160421/shutterstock_1178400508.jpg?m=1793104449.992&w=1200",
+                "cap": "xpixel/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "ARC Centre of Excellence for Carbon Science and Innovation的研究人员利用大语言模型挖掘科学文献，寻找有前景的电催化剂：用于制氢的碳负载高熵合金。"
+                "x": "在向一个本已陷入危机的领域抛出数百项人工智能生成的数学突破仅几周后，OpenAI又发布了三项涉及数学、物理和计算机科学的大型证明。与近来其他AI-generated的“slop drops”一样，这些发布已经引发争议。"
               },
               {
                 "t": "p",
-                "x": "团队人工评估了100个AI输出示例以改进系统，随后该系统从5,000多篇研究论文中提取了信息。"
+                "x": "这些发布与OpenAI自己组建的专家小组Advisory Group on Mathematics and Artificial Intelligence（AGMAI）的建议相悖。该模型仍为专有，提示词、计算时长和chain-of-thought输出均未公开。其中两项结果与Anthropic参与的密切相关研究重合。"
               },
               {
                 "t": "p",
-                "x": "当系统只能使用截至2017年的知识时，它点出了合金CrCoFeMnNi；该合金后来在实验中被报道为高熵合金用于氢电催化的早期案例。"
+                "x": "Kakeya：在上月解决四维情形后，OpenAI的内部模型如今已在所有维度上解决了Kakeya问题。"
               },
               {
                 "t": "p",
-                "x": "该研究属于计算研究，因此新提出的候选材料以及在制氢成本或性能上的任何提升仍未经验证。作者认为，这一方法可扩展到CO₂还原，并最终用于发现新反应。"
+                "x": "Yang-Mills：OpenAI声称证明了Millennium Prize Problem中“存在性”的一半，“质量间隙”仍未解决。Anthropic员工Levent Alpöge与Northwestern的Ethan Sussman此前一直在公开的GitHub仓库中借助LLMs完成Balaban的纲领；OpenAI这一没有公开证明的主张似乎抢先了他们。"
               },
               {
                 "t": "p",
-                "x": "该研究由Yiran Jiao et al.完成，发表于ACS Catalysis (2026)。DOI: 10.1021/acscatal.6c00635."
+                "x": "Exponential Time Hypothesis：OpenAI的证明给出了一个仅比指数时间略快一点的3-SAT算法，从而推翻ETH。Russell Impagliazzo、Ramamohan Paturi和Ryan Williams正与OpenAI合作开展独立调查。OpenAI宣布后仅数小时，Anthropic便基于其内部Anthropic模型的工作，发布了自己独立证否ETH的结果。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una AI con estudios pre-2018\nanticipa un catalizador futuro",
-          "body": "Un modelo limitado a textos pre-2018 señaló la aleación Cr-Co-Fe-Mn-Ni, luego descrita como catalizador de hidrógeno.",
-          "mini_headline": "Una AI anticipa un catalizador",
+          "headline": "OpenAI y Anthropic publican\ndemostraciones rivales de AI",
+          "body": "OpenAI publicó demostraciones de AI en matemáticas, física y computación; Anthropic respondió en horas refutando ETH.",
+          "mini_headline": "Demostraciones de AI rivales de dos laboratorios",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ahead-of-their-time.jpg",
-                "cap": "Esquema del marco CarbonCat-LLMs, que compara la exactitud y el F1-score de modelos GPT-4o con y sin entrenamiento few-shot. Credit: ACS Catalysis"
+                "src": "https://static.scientificamerican.com/dam/asset/a68eee8f-8e2b-4674-bee4-bc400e160421/shutterstock_1178400508.jpg?m=1793104449.992&w=1200",
+                "cap": "xpixel/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "Investigadores del ARC Centre of Excellence for Carbon Science and Innovation usaron grandes modelos de lenguaje para explorar la literatura científica en busca de electrocatalizadores prometedores: aleaciones de alta entropía soportadas en carbono para producir hidrógeno."
+                "x": "Apenas unas semanas después de lanzar cientos de avances matemáticos generados por inteligencia artificial sobre un campo que ya está en crisis, OpenAI publicó tres demostraciones de gran envergadura que abarcan matemáticas, física y ciencias de la computación. Como otros “slop drops” AI-generated recientes, los lanzamientos ya son polémicos."
               },
               {
                 "t": "p",
-                "x": "El equipo evaluó a mano 100 ejemplos de la salida de la AI para refinar el sistema, que después extrajo información de más de 5,000 artículos de investigación."
+                "x": "Los lanzamientos contradicen las recomendaciones del Advisory Group on Mathematics and Artificial Intelligence (AGMAI), el panel de expertos que organizó OpenAI. El modelo sigue siendo propietario, y los prompts, el tiempo de cómputo y las salidas de chain-of-thought no se han hecho públicos. Dos de los resultados coinciden con trabajos estrechamente relacionados en los que participa Anthropic."
               },
               {
                 "t": "p",
-                "x": "Cuando el sistema se restringió al conocimiento disponible hasta 2017, señaló la aleación CrCoFeMnNi, que después se reportó experimentalmente como uno de los primeros ejemplos de aleaciones de alta entropía en electrocatálisis de hidrógeno."
+                "x": "Kakeya: tras resolver el caso de cuatro dimensiones el mes pasado, el modelo interno de OpenAI ha resuelto ahora el problema de Kakeya en todas las dimensiones."
               },
               {
                 "t": "p",
-                "x": "El estudio es computacional, por lo que los nuevos materiales candidatos propuestos y cualquier mejora en el costo o el rendimiento del hidrógeno siguen sin verificarse. Los autores sugieren que el enfoque podría extenderse a la reducción de CO₂ y, con el tiempo, al descubrimiento de nuevas reacciones."
+                "x": "Yang-Mills: OpenAI afirmó haber demostrado la mitad de “existencia” del Millennium Prize Problem; la “brecha de masa” sigue abierta. Levent Alpöge, empleado de Anthropic, y Ethan Sussman, de Northwestern, usaban LLMs para completar el programa de Balaban en un repositorio público de GitHub; la afirmación de OpenAI, sin una demostración disponible públicamente, parece haberse adelantado a ellos."
               },
               {
                 "t": "p",
-                "x": "El trabajo, de Yiran Jiao et al., se publica en ACS Catalysis (2026). DOI: 10.1021/acscatal.6c00635."
+                "x": "Exponential Time Hypothesis: la demostración de OpenAI ofrece un algoritmo para 3-SAT apenas un poco más rápido que el tiempo exponencial, lo que refuta la ETH. Russell Impagliazzo, Ramamohan Paturi y Ryan Williams trabajan con OpenAI en una investigación independiente. Apenas unas horas después del anuncio de OpenAI, Anthropic publicó su propio resultado independiente que refuta la ETH, basado en el trabajo de un modelo interno de Anthropic."
               }
             ]
           }
@@ -223,141 +223,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "pre-2018 논문만 본\nAI, 훗날 촉매 짚어",
-          "body": "pre-2018 문헌만 본 모델이 Cr-Co-Fe-Mn-Ni 수소 촉매를 짚었다.",
-          "mini_headline": "AI가 내다본 촉매",
+          "headline": "OpenAI의 AI 증명\nAnthropic도 맞불",
+          "body": "OpenAI의 AI 증명에 Anthropic은 몇 시간 만에 ETH 반증을 냈다.",
+          "mini_headline": "두 연구소의 AI 증명 대결",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ahead-of-their-time.jpg",
-                "cap": "CarbonCat-LLMs 프레임워크 모식도. few-shot 학습 유무에 따라 GPT-4o 모델의 정확도와 F1-score를 비교했다. Credit: ACS Catalysis"
+                "src": "https://static.scientificamerican.com/dam/asset/a68eee8f-8e2b-4674-bee4-bc400e160421/shutterstock_1178400508.jpg?m=1793104449.992&w=1200",
+                "cap": "xpixel/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "ARC Centre of Excellence for Carbon Science and Innovation 연구진은 대형 언어 모델로 과학 문헌을 훑어 유망한 전기촉매, 곧 수소 생산용 탄소 담지 고엔트로피 합금을 찾았다."
+                "x": "이미 위기에 처한 분야에 인공지능이 생성한 수학 성과 수백 건을 쏟아낸 지 불과 몇 주 만에, OpenAI는 수학·물리학·컴퓨터 과학에 걸친 대형 증명 세 건을 내놓았다. 최근 잇따른 다른 AI-generated “slop drops”처럼 이번 공개도 벌써 논란이 되고 있다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 AI 출력 사례 100건을 직접 평가해 시스템을 다듬었고, 이후 시스템은 5,000편이 넘는 연구 논문에서 정보를 추출했다."
+                "x": "이번 공개는 OpenAI가 직접 꾸린 전문가 패널인 수학·인공지능 자문그룹(Advisory Group on Mathematics and Artificial Intelligence, AGMAI)의 권고와 어긋난다. 모델은 여전히 비공개이며, 프롬프트와 연산 시간, 사고 사슬(chain-of-thought) 출력도 공개되지 않았다. 결과 중 두 건은 Anthropic이 관여한 밀접한 연구와 겹친다."
               },
               {
                 "t": "p",
-                "x": "2017년까지의 지식만 쓰도록 제한하자 시스템은 CrCoFeMnNi 합금을 지목했다. 이 합금은 이후 수소 전기촉매 분야에서 고엔트로피 합금의 초기 사례로 실험을 통해 보고됐다."
+                "x": "Kakeya: 지난달 사차원 사례를 푼 OpenAI의 내부 모델이 이번에는 모든 차원에서 Kakeya 문제를 풀었다."
               },
               {
                 "t": "p",
-                "x": "이번 연구는 계산 기반이어서 새로 제안한 후보 물질과 수소 비용·성능 개선 효과는 아직 검증되지 않았다. 저자들은 이 방법을 CO₂ 환원, 나아가 새로운 반응 발견으로 넓힐 수 있다고 본다."
+                "x": "Yang-Mills: OpenAI는 Millennium Prize Problem(밀레니엄 난제) 가운데 “존재” 절반을 증명했다고 주장했으며, “질량 간극”은 여전히 미해결로 남아 있다. Anthropic 직원 Levent Alpöge와 Northwestern의 Ethan Sussman은 공개 GitHub 저장소에서 LLMs를 활용해 Balaban의 프로그램을 완성하던 중이었는데, 증명이 공개되지 않은 OpenAI의 주장이 이들을 앞지른 것으로 보인다."
               },
               {
                 "t": "p",
-                "x": "Yiran Jiao et al.의 연구로, ACS Catalysis (2026)에 실렸다. DOI: 10.1021/acscatal.6c00635."
+                "x": "Exponential Time Hypothesis(지수 시간 가설): OpenAI의 증명은 지수 시간보다 아주 조금 빠른 3-SAT 알고리즘을 제시해 ETH를 반박한다. Russell Impagliazzo, Ramamohan Paturi, Ryan Williams가 OpenAI와 함께 독립 검증을 진행하고 있다. OpenAI 발표 후 불과 몇 시간 만에 Anthropic은 내부 Anthropic 모델의 작업을 바탕으로 ETH를 반증하는 독자적 결과를 게시했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "pre-2018論文限定の\nAIが後の触媒を予見",
-          "body": "pre-2018の文献だけのモデルが水素触媒Cr-Co-Fe-Mn-Ni合金を予見した。",
-          "mini_headline": "AIが触媒を予見",
+          "headline": "OpenAIがAI証明\nAnthropicも対抗",
+          "body": "OpenAIのAI証明に対し、Anthropicは数時間後に独自のETH反証を出した。",
+          "mini_headline": "二つの研究所がAI証明で競う",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ahead-of-their-time.jpg",
-                "cap": "CarbonCat-LLMsフレームワークの模式図。few-shot学習の有無によるGPT-4oモデルの精度とF1-scoreを比較している。Credit: ACS Catalysis"
+                "src": "https://static.scientificamerican.com/dam/asset/a68eee8f-8e2b-4674-bee4-bc400e160421/shutterstock_1178400508.jpg?m=1793104449.992&w=1200",
+                "cap": "xpixel/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "ARC Centre of Excellence for Carbon Science and Innovationの研究者は、大規模言語モデルを使って科学文献を掘り起こし、有望な電極触媒である水素製造用の炭素担持高エントロピー合金を探した。"
+                "x": "すでに危機にある分野に人工知能が生み出した数学的成果を数百件投じてからわずか数週間後、OpenAIは数学・物理学・計算機科学にまたがる大型の証明を三つ公開した。最近の他のAI-generatedな“slop drops”と同様、今回の公開もすでに論争を呼んでいる。"
               },
               {
                 "t": "p",
-                "x": "研究チームはAIの出力例100件を手作業で評価してシステムを改良し、その後システムは5,000本を超える研究論文から情報を抽出した。"
+                "x": "今回の公開は、OpenAIが組織した専門家パネルAdvisory Group on Mathematics and Artificial Intelligence(AGMAI)の勧告に反する。モデルは非公開のままで、プロンプト、計算時間、chain-of-thoughtの出力も公開されていない。結果のうち二つは、Anthropicが関わる密接に関連した研究と重なる。"
               },
               {
                 "t": "p",
-                "x": "2017年までの知識に制限すると、システムは合金CrCoFeMnNiを挙げた。この合金はその後、水素電極触媒における高エントロピー合金の初期の例として実験的に報告された。"
+                "x": "Kakeya:先月四次元の場合を解いたOpenAIの内部モデルが、今回はあらゆる次元でKakeya問題を解いた。"
               },
               {
                 "t": "p",
-                "x": "研究は計算によるもので、新たに提案された候補材料や、水素のコスト・性能面での改善は未検証である。著者らは、この手法がCO₂還元、さらには新しい反応の発見にも広がりうると示唆している。"
+                "x": "Yang-Mills:OpenAIはMillennium Prize Problemの“存在”の半分を証明したと主張したが、“質量ギャップ”は未解決のままだ。Anthropic社員のLevent AlpögeとNorthwesternのEthan Sussmanは、公開GitHubリポジトリでLLMsを使いBalabanのプログラムを完成させようとしていた。証明が公開されていないOpenAIの主張は、彼らに先んじたとみられる。"
               },
               {
                 "t": "p",
-                "x": "Yiran Jiao et al.による研究で、ACS Catalysis (2026)に掲載された。DOI: 10.1021/acscatal.6c00635."
+                "x": "Exponential Time Hypothesis:OpenAIの証明は指数時間よりごくわずかに速い3-SATアルゴリズムを示し、ETHを否定する。Russell Impagliazzo、Ramamohan Paturi、Ryan WilliamsがOpenAIと独立した検証を進めている。OpenAIの発表からわずか数時間後、Anthropicは社内のAnthropicモデルの成果に基づき、ETHを反証する独自の結果を公開した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "只学pre-2018论文\nAI预见了后来的催化剂",
-          "body": "仅用pre-2018文献的模型点出了后来的氢催化剂Cr-Co-Fe-Mn-Ni合金。",
-          "mini_headline": "AI预见催化剂",
+          "headline": "OpenAI发布AI证明\nAnthropic随即反击",
+          "body": "OpenAI发布数学、物理和计算的AI证明，Anthropic数小时内以ETH反证回应。",
+          "mini_headline": "两家实验室的AI证明之争",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ahead-of-their-time.jpg",
-                "cap": "CarbonCat-LLMs框架示意图，比较了有无few-shot训练的GPT-4o模型的准确率与F1-score。Credit: ACS Catalysis"
+                "src": "https://static.scientificamerican.com/dam/asset/a68eee8f-8e2b-4674-bee4-bc400e160421/shutterstock_1178400508.jpg?m=1793104449.992&w=1200",
+                "cap": "xpixel/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "ARC Centre of Excellence for Carbon Science and Innovation的研究人员利用大语言模型挖掘科学文献，寻找有前景的电催化剂：用于制氢的碳负载高熵合金。"
+                "x": "在向一个本已陷入危机的领域抛出数百项人工智能生成的数学突破仅几周后，OpenAI又发布了三项涉及数学、物理和计算机科学的大型证明。与近来其他AI-generated的“slop drops”一样，这些发布已经引发争议。"
               },
               {
                 "t": "p",
-                "x": "团队人工评估了100个AI输出示例以改进系统，随后该系统从5,000多篇研究论文中提取了信息。"
+                "x": "这些发布与OpenAI自己组建的专家小组Advisory Group on Mathematics and Artificial Intelligence（AGMAI）的建议相悖。该模型仍为专有，提示词、计算时长和chain-of-thought输出均未公开。其中两项结果与Anthropic参与的密切相关研究重合。"
               },
               {
                 "t": "p",
-                "x": "当系统只能使用截至2017年的知识时，它点出了合金CrCoFeMnNi；该合金后来在实验中被报道为高熵合金用于氢电催化的早期案例。"
+                "x": "Kakeya：在上月解决四维情形后，OpenAI的内部模型如今已在所有维度上解决了Kakeya问题。"
               },
               {
                 "t": "p",
-                "x": "该研究属于计算研究，因此新提出的候选材料以及在制氢成本或性能上的任何提升仍未经验证。作者认为，这一方法可扩展到CO₂还原，并最终用于发现新反应。"
+                "x": "Yang-Mills：OpenAI声称证明了Millennium Prize Problem中“存在性”的一半，“质量间隙”仍未解决。Anthropic员工Levent Alpöge与Northwestern的Ethan Sussman此前一直在公开的GitHub仓库中借助LLMs完成Balaban的纲领；OpenAI这一没有公开证明的主张似乎抢先了他们。"
               },
               {
                 "t": "p",
-                "x": "该研究由Yiran Jiao et al.完成，发表于ACS Catalysis (2026)。DOI: 10.1021/acscatal.6c00635."
+                "x": "Exponential Time Hypothesis：OpenAI的证明给出了一个仅比指数时间略快一点的3-SAT算法，从而推翻ETH。Russell Impagliazzo、Ramamohan Paturi和Ryan Williams正与OpenAI合作开展独立调查。OpenAI宣布后仅数小时，Anthropic便基于其内部Anthropic模型的工作，发布了自己独立证否ETH的结果。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una AI con estudios pre-2018\nanticipa un catalizador futuro",
-          "body": "Un modelo limitado a textos pre-2018 señaló la aleación Cr-Co-Fe-Mn-Ni, luego descrita como catalizador de hidrógeno.",
-          "mini_headline": "Una AI anticipa un catalizador",
+          "headline": "OpenAI y Anthropic publican\ndemostraciones rivales de AI",
+          "body": "OpenAI publicó demostraciones de AI en matemáticas, física y computación; Anthropic respondió en horas refutando ETH.",
+          "mini_headline": "Demostraciones de AI rivales de dos laboratorios",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ahead-of-their-time.jpg",
-                "cap": "Esquema del marco CarbonCat-LLMs, que compara la exactitud y el F1-score de modelos GPT-4o con y sin entrenamiento few-shot. Credit: ACS Catalysis"
+                "src": "https://static.scientificamerican.com/dam/asset/a68eee8f-8e2b-4674-bee4-bc400e160421/shutterstock_1178400508.jpg?m=1793104449.992&w=1200",
+                "cap": "xpixel/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "Investigadores del ARC Centre of Excellence for Carbon Science and Innovation usaron grandes modelos de lenguaje para explorar la literatura científica en busca de electrocatalizadores prometedores: aleaciones de alta entropía soportadas en carbono para producir hidrógeno."
+                "x": "Apenas unas semanas después de lanzar cientos de avances matemáticos generados por inteligencia artificial sobre un campo que ya está en crisis, OpenAI publicó tres demostraciones de gran envergadura que abarcan matemáticas, física y ciencias de la computación. Como otros “slop drops” AI-generated recientes, los lanzamientos ya son polémicos."
               },
               {
                 "t": "p",
-                "x": "El equipo evaluó a mano 100 ejemplos de la salida de la AI para refinar el sistema, que después extrajo información de más de 5,000 artículos de investigación."
+                "x": "Los lanzamientos contradicen las recomendaciones del Advisory Group on Mathematics and Artificial Intelligence (AGMAI), el panel de expertos que organizó OpenAI. El modelo sigue siendo propietario, y los prompts, el tiempo de cómputo y las salidas de chain-of-thought no se han hecho públicos. Dos de los resultados coinciden con trabajos estrechamente relacionados en los que participa Anthropic."
               },
               {
                 "t": "p",
-                "x": "Cuando el sistema se restringió al conocimiento disponible hasta 2017, señaló la aleación CrCoFeMnNi, que después se reportó experimentalmente como uno de los primeros ejemplos de aleaciones de alta entropía en electrocatálisis de hidrógeno."
+                "x": "Kakeya: tras resolver el caso de cuatro dimensiones el mes pasado, el modelo interno de OpenAI ha resuelto ahora el problema de Kakeya en todas las dimensiones."
               },
               {
                 "t": "p",
-                "x": "El estudio es computacional, por lo que los nuevos materiales candidatos propuestos y cualquier mejora en el costo o el rendimiento del hidrógeno siguen sin verificarse. Los autores sugieren que el enfoque podría extenderse a la reducción de CO₂ y, con el tiempo, al descubrimiento de nuevas reacciones."
+                "x": "Yang-Mills: OpenAI afirmó haber demostrado la mitad de “existencia” del Millennium Prize Problem; la “brecha de masa” sigue abierta. Levent Alpöge, empleado de Anthropic, y Ethan Sussman, de Northwestern, usaban LLMs para completar el programa de Balaban en un repositorio público de GitHub; la afirmación de OpenAI, sin una demostración disponible públicamente, parece haberse adelantado a ellos."
               },
               {
                 "t": "p",
-                "x": "El trabajo, de Yiran Jiao et al., se publica en ACS Catalysis (2026). DOI: 10.1021/acscatal.6c00635."
+                "x": "Exponential Time Hypothesis: la demostración de OpenAI ofrece un algoritmo para 3-SAT apenas un poco más rápido que el tiempo exponencial, lo que refuta la ETH. Russell Impagliazzo, Ramamohan Paturi y Ryan Williams trabajan con OpenAI en una investigación independiente. Apenas unas horas después del anuncio de OpenAI, Anthropic publicó su propio resultado independiente que refuta la ETH, basado en el trabajo de un modelo interno de Anthropic."
               }
             ]
           }
@@ -365,15 +365,15 @@
       }
     },
     {
-      "id": "science-virtual-author",
+      "id": "spine",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 가상 저자가\n논문을 조수로 바꾼다",
-      "body": "AI '가상 저자'는 논문 방법을 새 데이터에 쓰게 돕지만 저자의 전문성은 없다.",
-      "mini_headline": "AI 조수가 된 논문",
       "tool": "Science",
-      "source": "Science News",
-      "url": "https://www.sciencenews.org/article/ai-scientific-papers-research-assistant",
+      "eyebrow": "AI NEWS",
+      "headline": "SLAC의 SPINE\nML로 중성미자 추적",
+      "body": "SPINE은 검출기 영상으로 중성미자 반응을 재구성해 ICARUS 탐색을 도왔다.",
+      "mini_headline": "ML이 유령 입자를 쫓는다",
+      "source": "Phys.org (SLAC)",
+      "url": "https://phys.org/news/2026-10-spine-machine-trail-ghost-particles.html",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -381,179 +381,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101426_KH_virtualauthor_main.jpg",
-            "cap": "과학 논문은 대개 지식을 멈춘 상태로 담아 둔 기록이다. Paper2Agent는 이런 논문을 AI 에이전트가 쓰는 도구 세트로 바꾼다. Alllex/E+/Getty Images"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus.jpg",
+            "cap": "ICARUS 검출기 내부. Credit: CERN"
           },
           {
             "t": "p",
-            "x": "Paper2Agent를 쓰면 과학자는 새 연구를 읽기만 하고 끝내지 않아도 된다. 연구진이 9월 16일 Nature에 발표한 내용에 따르면, 논문에 코드·방법·데이터가 함께 있을 때 이 시스템은 그것들을 AI 조수가 새 데이터에 쓸 도구 세트로 묶는다."
+            "x": "SLAC National Accelerator Laboratory(SLAC 국립가속기연구소) 연구진이 액체 아르곤 시간투영함 데이터를 분석하는 머신러닝 프로그램 SPINE(Scalable Particle Imaging with Neural Embeddings)을 만들었다. SPINE은 시뮬레이션한 검출기 영상으로 학습한 뒤 입자를 식별하고 궤적을 따라가며, 그 입자를 낳은 상호작용까지 재구성한다."
           },
           {
             "t": "p",
-            "x": "Stanford University 컴퓨터 과학자 James Zou는 이 시스템을 두고 사실상 언제든 불러낼 수 있는 “논문의 가상 저자”라고 말한다."
+            "x": "경직된 전문 알고리즘을 줄줄이 잇는 대신 SPINE은 여러 머신러닝 모델을 함께 돌린다. 영상의 기본 특징을 먼저 찾고 개별 입자를 가려낸 다음 전체 상호작용을 재구성하는 순서다. 지금은 약 25개 기관의 검출기 여덟 대에 배치돼 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus-1.jpg",
+            "cap": "ICARUS에는 액체 아르곤 760톤이 들어 있다. Credit: Al Johnson/Fermilab"
           },
           {
             "t": "p",
-            "x": "Zou와 동료들은 계산생물학 논문 100편을 실제로 돌아가는 도구 세트로 바꾸는 데 도전해 74편에서 성공했다. 같은 에이전트가 원래 논문과 코드로 작업했을 때보다 이 도구 세트를 쓰자 분석은 더 정확했고 속도는 두 배 넘게 빨랐다."
+            "x": "ICARUS의 첫 중성미자 물리 결과는 뮤온 중성미자 소실로 비활성 중성미자를 찾는 연구였다(arXiv, DOI: 10.48550/arxiv.2603.22557). 연구진은 그런 신호의 증거를 찾지 못했다. SPINE은 기존 재구성 방식보다 쓸 만한 중성미자 상호작용을 약 60% 더 복원했다. 표본은 더 깨끗해졌고 에너지 분해능은 올라갔으며 계통 불확도는 줄었다."
           },
           {
             "t": "p",
-            "x": "Allen Institute for Artificial Intelligence의 Peter Clark는 과학자를 먼저 나서서 돕는 논문으로 가는 “흥미로운 한 걸음”이라고 평가했다. 다만 Paper2Agent는 일반적인 질문에 답하는 쪽보다 방법과 코드를 다시 쓰는 데 맞춰져 있다고 짚었다. “제가 교신저자에게 연락하는 이유는 바로 그들이 논문에 넣지 않은 것들 때문입니다.”"
+            "x": "연구팀은 DUNE 근거리·원거리 검출기용 SPINE 모델도 학습시켰다. 근거리 검출기에서 겹치는 상호작용 수백 개를 처리할 수 있는 방법은 현재 이것뿐이다. 수석 개발자 François Drielsma는 “도구는 만들었다. 이제 그것이 무엇을 발견하는지 지켜볼 차례다”라고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "An AI virtual author turns\npapers into assistants",
-          "body": "An AI 'virtual author' helps scientists apply a paper's methods to new data, but lacks a human author's expertise.",
-          "mini_headline": "Papers as AI assistants",
+          "headline": "SLAC's SPINE puts ML\non the trail of neutrinos",
+          "body": "SPINE's staged models rebuild neutrino interactions from detector images for ICARUS's first sterile-neutrino search.",
+          "mini_headline": "ML hunts ghost particles",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101426_KH_virtualauthor_main.jpg",
-                "cap": "Scientific papers are typically static records of knowledge. Paper2Agent turns them into tool sets for AI agents. Alllex/E+/Getty Images"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus.jpg",
+                "cap": "Inside the ICARUS detector. Credit: CERN"
               },
               {
                 "t": "p",
-                "x": "A system called Paper2Agent lets scientists do more than read a new study. When a paper comes with code, methods and data, the system packages these into a tool set that an AI assistant can use to work with new data, researchers report September 16 in Nature."
+                "x": "Researchers at SLAC National Accelerator Laboratory have developed SPINE (Scalable Particle Imaging with Neural Embeddings), a machine-learning program that analyzes data from liquid argon time-projection chambers. It learns from simulated detector images to identify particles, trace their paths and piece together the interactions that produced them."
               },
               {
                 "t": "p",
-                "x": "The system is essentially “a virtual author of the paper,” available around the clock, says James Zou, a computer scientist at Stanford University."
+                "x": "Instead of a rigid chain of specialized algorithms, SPINE uses multiple machine-learning models that work together—first spotting basic features in the image, then identifying individual particles and finally piecing together the complete interaction. It is now deployed on eight detectors across approximately 25 institutions."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus-1.jpg",
+                "cap": "ICARUS holds 760 tons of liquid argon. Credit: Al Johnson/Fermilab"
               },
               {
                 "t": "p",
-                "x": "Zou and colleagues tried to convert 100 computational biology papers into working tool sets and succeeded with 74. The tool sets ran analyses more accurately and more than twice as fast as the same agent working from the original papers and code."
+                "x": "In the first neutrino physics result from ICARUS, a search for sterile neutrinos via muon-neutrino disappearance (arXiv, DOI: 10.48550/arxiv.2603.22557), researchers found no evidence for such a signal. SPINE recovered roughly 60% more usable neutrino interactions than conventional reconstruction, with a cleaner sample, improved energy resolution and reduced systematic uncertainties."
               },
               {
                 "t": "p",
-                "x": "Peter Clark of the Allen Institute for Artificial Intelligence calls it “an exciting step” toward papers that actively help scientists, but notes Paper2Agent specializes in reusing methods and code, not answering general questions. “The reason I would write to a corresponding author is for precisely the things they didn’t put in the paper.”"
+                "x": "The team has trained SPINE models for the DUNE near and far detectors; for the near detector it is currently the only approach capable of handling hundreds of overlapping interactions. “We've built the tool. Now we get to see what it discovers,” said lead developer François Drielsma."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 가상 저자가\n논문을 조수로 바꾼다",
-          "body": "AI '가상 저자'는 논문 방법을 새 데이터에 쓰게 돕지만 저자의 전문성은 없다.",
-          "mini_headline": "AI 조수가 된 논문",
+          "headline": "SLAC의 SPINE\nML로 중성미자 추적",
+          "body": "SPINE은 검출기 영상으로 중성미자 반응을 재구성해 ICARUS 탐색을 도왔다.",
+          "mini_headline": "ML이 유령 입자를 쫓는다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101426_KH_virtualauthor_main.jpg",
-                "cap": "과학 논문은 대개 지식을 멈춘 상태로 담아 둔 기록이다. Paper2Agent는 이런 논문을 AI 에이전트가 쓰는 도구 세트로 바꾼다. Alllex/E+/Getty Images"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus.jpg",
+                "cap": "ICARUS 검출기 내부. Credit: CERN"
               },
               {
                 "t": "p",
-                "x": "Paper2Agent를 쓰면 과학자는 새 연구를 읽기만 하고 끝내지 않아도 된다. 연구진이 9월 16일 Nature에 발표한 내용에 따르면, 논문에 코드·방법·데이터가 함께 있을 때 이 시스템은 그것들을 AI 조수가 새 데이터에 쓸 도구 세트로 묶는다."
+                "x": "SLAC National Accelerator Laboratory(SLAC 국립가속기연구소) 연구진이 액체 아르곤 시간투영함 데이터를 분석하는 머신러닝 프로그램 SPINE(Scalable Particle Imaging with Neural Embeddings)을 만들었다. SPINE은 시뮬레이션한 검출기 영상으로 학습한 뒤 입자를 식별하고 궤적을 따라가며, 그 입자를 낳은 상호작용까지 재구성한다."
               },
               {
                 "t": "p",
-                "x": "Stanford University 컴퓨터 과학자 James Zou는 이 시스템을 두고 사실상 언제든 불러낼 수 있는 “논문의 가상 저자”라고 말한다."
+                "x": "경직된 전문 알고리즘을 줄줄이 잇는 대신 SPINE은 여러 머신러닝 모델을 함께 돌린다. 영상의 기본 특징을 먼저 찾고 개별 입자를 가려낸 다음 전체 상호작용을 재구성하는 순서다. 지금은 약 25개 기관의 검출기 여덟 대에 배치돼 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus-1.jpg",
+                "cap": "ICARUS에는 액체 아르곤 760톤이 들어 있다. Credit: Al Johnson/Fermilab"
               },
               {
                 "t": "p",
-                "x": "Zou와 동료들은 계산생물학 논문 100편을 실제로 돌아가는 도구 세트로 바꾸는 데 도전해 74편에서 성공했다. 같은 에이전트가 원래 논문과 코드로 작업했을 때보다 이 도구 세트를 쓰자 분석은 더 정확했고 속도는 두 배 넘게 빨랐다."
+                "x": "ICARUS의 첫 중성미자 물리 결과는 뮤온 중성미자 소실로 비활성 중성미자를 찾는 연구였다(arXiv, DOI: 10.48550/arxiv.2603.22557). 연구진은 그런 신호의 증거를 찾지 못했다. SPINE은 기존 재구성 방식보다 쓸 만한 중성미자 상호작용을 약 60% 더 복원했다. 표본은 더 깨끗해졌고 에너지 분해능은 올라갔으며 계통 불확도는 줄었다."
               },
               {
                 "t": "p",
-                "x": "Allen Institute for Artificial Intelligence의 Peter Clark는 과학자를 먼저 나서서 돕는 논문으로 가는 “흥미로운 한 걸음”이라고 평가했다. 다만 Paper2Agent는 일반적인 질문에 답하는 쪽보다 방법과 코드를 다시 쓰는 데 맞춰져 있다고 짚었다. “제가 교신저자에게 연락하는 이유는 바로 그들이 논문에 넣지 않은 것들 때문입니다.”"
+                "x": "연구팀은 DUNE 근거리·원거리 검출기용 SPINE 모델도 학습시켰다. 근거리 검출기에서 겹치는 상호작용 수백 개를 처리할 수 있는 방법은 현재 이것뿐이다. 수석 개발자 François Drielsma는 “도구는 만들었다. 이제 그것이 무엇을 발견하는지 지켜볼 차례다”라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIの仮想著者が\n論文を助手に変える",
-          "body": "AIの「仮想著者」は論文の手法を新データに適用する助けになるが、人間の著者の専門性はない。",
-          "mini_headline": "AI助手になる論文",
+          "headline": "SLACのSPINE\nMLでニュートリノ追跡",
+          "body": "SPINEは検出器画像からニュートリノ反応を再構成し、ICARUS初の探索を支えた。",
+          "mini_headline": "MLが幽霊粒子を追う",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101426_KH_virtualauthor_main.jpg",
-                "cap": "科学論文は通常、知識を静的に記録したものだ。Paper2AgentはそれをAIエージェント向けのツールセットに変える。Alllex/E+/Getty Images"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus.jpg",
+                "cap": "ICARUS検出器の内部。Credit: CERN"
               },
               {
                 "t": "p",
-                "x": "Paper2Agentと呼ばれるシステムにより、科学者は新しい研究を読む以上のことができる。論文にコード、手法、データが付いていれば、システムはそれらをAIアシスタントが新しいデータの処理に使えるツールセットにまとめると、研究者らが9月16日にNatureで報告した。"
+                "x": "SLAC National Accelerator Laboratoryの研究者らは、液体アルゴン時間投影チェンバーのデータを解析する機械学習プログラムSPINE(Scalable Particle Imaging with Neural Embeddings)を開発した。シミュレーションした検出器画像から学習し、粒子を識別してその軌跡をたどり、粒子を生んだ相互作用を組み立て直す。"
               },
               {
                 "t": "p",
-                "x": "このシステムは実質的に、いつでも利用できる「論文の仮想著者」だと、Stanford Universityのコンピューター科学者James Zouは言う。"
+                "x": "SPINEは特化型アルゴリズムを硬直的に連ねる代わりに、複数の機械学習モデルを連携させる。まず画像の基本的な特徴を見つけ、次に個々の粒子を識別し、最後に相互作用の全体像を再構成する。現在、約25の機関にまたがる八つの検出器で運用されている。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus-1.jpg",
+                "cap": "ICARUSは760トンの液体アルゴンを収容する。Credit: Al Johnson/Fermilab"
               },
               {
                 "t": "p",
-                "x": "Zouらは計算生物学の論文100本を動作するツールセットに変換しようと試み、74本で成功した。このツールセットは、元の論文とコードから作業した同じエージェントより正確に、かつ2倍以上速く解析を実行した。"
+                "x": "ICARUS初のニュートリノ物理の成果である、ミューニュートリノ消失によるステライルニュートリノ探索(arXiv, DOI: 10.48550/arxiv.2603.22557)では、そうした信号の証拠は見つからなかった。SPINEは従来の再構成より使えるニュートリノ相互作用を約60%多く回収し、サンプルはより純度が高く、エネルギー分解能は向上し、系統的不確かさは減った。"
               },
               {
                 "t": "p",
-                "x": "Allen Institute for Artificial IntelligenceのPeter Clarkは、科学者を能動的に助ける論文に向けた「エキサイティングな一歩」だと評価する一方、Paper2Agentは一般的な質問に答えるのではなく、手法とコードの再利用に特化していると指摘する。「私が責任著者に連絡するのは、まさに彼らが論文に書かなかったことのためだ」"
+                "x": "チームはDUNEの前置検出器と後置検出器向けにもSPINEモデルを学習させた。前置検出器では、重なり合う数百の相互作用を扱える現時点で唯一の手法だ。“道具はできた。あとはそれが何を発見するかを見るだけだ”と主任開発者のFrançois Drielsmaは語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI虚拟作者\n把论文变成助手",
-          "body": "AI“虚拟作者”能帮科学家把论文方法用于新数据，但缺乏人类作者的专业知识。",
-          "mini_headline": "论文变身AI助手",
+          "headline": "SLAC的SPINE\n用ML追踪中微子",
+          "body": "SPINE的分级模型从探测器图像重建中微子相互作用，助力ICARUS首次惰性中微子搜寻。",
+          "mini_headline": "ML追寻幽灵粒子",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101426_KH_virtualauthor_main.jpg",
-                "cap": "科学论文通常是静态的知识记录。Paper2Agent将其转化为供AI智能体使用的工具集。Alllex/E+/Getty Images"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus.jpg",
+                "cap": "ICARUS探测器内部。Credit: CERN"
               },
               {
                 "t": "p",
-                "x": "一个名为Paper2Agent的系统让科学家不止于阅读新研究。研究人员9月16日在Nature上报告，当论文附带代码、方法和数据时，该系统会将它们打包成工具集，供AI助手处理新数据。"
+                "x": "SLAC National Accelerator Laboratory的研究人员开发了机器学习程序SPINE（Scalable Particle Imaging with Neural Embeddings），用于分析液氩时间投影室的数据。它通过模拟的探测器图像进行学习，识别粒子、追踪其路径，并拼合出产生这些粒子的相互作用。"
               },
               {
                 "t": "p",
-                "x": "Stanford University计算机科学家James Zou说，这个系统本质上是全天候可用的“论文的虚拟作者”。"
+                "x": "SPINE没有采用由专用算法组成的僵硬链条，而是让多个机器学习模型协同工作——先识别图像中的基本特征，再识别单个粒子，最后拼合出完整的相互作用。目前它已部署在约25家机构的八台探测器上。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus-1.jpg",
+                "cap": "ICARUS装有760吨液氩。Credit: Al Johnson/Fermilab"
               },
               {
                 "t": "p",
-                "x": "Zou和同事尝试将100篇计算生物学论文转化为可用的工具集，其中74篇获得成功。与依据原始论文和代码工作的同一智能体相比，这些工具集的分析更准确，速度快两倍以上。"
+                "x": "在ICARUS的首个中微子物理成果——通过缪子中微子消失搜寻惰性中微子（arXiv, DOI: 10.48550/arxiv.2603.22557）中，研究人员未发现此类信号的证据。与传统重建方法相比，SPINE多找回了约60%的可用中微子相互作用，样本更纯净，能量分辨率更高，系统不确定性更低。"
               },
               {
                 "t": "p",
-                "x": "Allen Institute for Artificial Intelligence的Peter Clark称其是迈向能主动帮助科学家的论文的“令人兴奋的一步”，但他指出，Paper2Agent专长于复用方法和代码，而非回答一般性问题。“我之所以会写信给通讯作者，恰恰是为了那些他们没写进论文的东西。”"
+                "x": "团队已为DUNE的近端和远端探测器训练了SPINE模型；对近端探测器而言，它是目前唯一能够处理数百个相互重叠的相互作用的方法。首席开发者François Drielsma表示：“我们已经造好了工具，现在就看它能发现什么。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un autor virtual de AI\nconvierte estudios en asistentes",
-          "body": "Un 'autor virtual' de AI ayuda a aplicar los métodos de un artículo a datos nuevos, pero sin la pericia humana.",
-          "mini_headline": "Artículos como asistentes de AI",
+          "headline": "SPINE, de SLAC, pone al ML\ntras la pista de los neutrinos",
+          "body": "Los modelos por etapas de SPINE reconstruyen interacciones de neutrinos en imágenes del detector para ICARUS.",
+          "mini_headline": "El ML rastrea partículas fantasma",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101426_KH_virtualauthor_main.jpg",
-                "cap": "Los artículos científicos suelen ser registros estáticos del conocimiento. Paper2Agent los convierte en conjuntos de herramientas para agentes de AI. Alllex/E+/Getty Images"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus.jpg",
+                "cap": "Interior del detector ICARUS. Credit: CERN"
               },
               {
                 "t": "p",
-                "x": "Un sistema llamado Paper2Agent permite a los científicos hacer algo más que leer un nuevo estudio. Cuando un artículo incluye código, métodos y datos, el sistema los empaqueta en un conjunto de herramientas que un asistente de AI puede usar para trabajar con datos nuevos, informan los investigadores el 16 de septiembre en Nature."
+                "x": "Investigadores del SLAC National Accelerator Laboratory han desarrollado SPINE (Scalable Particle Imaging with Neural Embeddings), un programa de aprendizaje automático que analiza datos de cámaras de proyección temporal de argón líquido. Aprende de imágenes simuladas del detector para identificar partículas, trazar sus trayectorias y reconstruir las interacciones que las produjeron."
               },
               {
                 "t": "p",
-                "x": "El sistema es, en esencia, “un autor virtual del artículo”, disponible a toda hora, dice James Zou, científico de la computación de Stanford University."
+                "x": "En lugar de una cadena rígida de algoritmos especializados, SPINE utiliza varios modelos de aprendizaje automático que trabajan juntos: primero detectan rasgos básicos en la imagen, luego identifican partículas individuales y finalmente reconstruyen la interacción completa. Ya está implementado en ocho detectores de aproximadamente 25 instituciones."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus-1.jpg",
+                "cap": "ICARUS contiene 760 toneladas de argón líquido. Credit: Al Johnson/Fermilab"
               },
               {
                 "t": "p",
-                "x": "Zou y sus colegas intentaron convertir 100 artículos de biología computacional en conjuntos de herramientas funcionales y lo lograron con 74. Esos conjuntos realizaron los análisis con más precisión y más del doble de rápido que el mismo agente trabajando con los artículos y el código originales."
+                "x": "En el primer resultado de física de neutrinos de ICARUS, una búsqueda de neutrinos estériles mediante la desaparición de neutrinos muónicos (arXiv, DOI: 10.48550/arxiv.2603.22557), los investigadores no hallaron indicios de esa señal. SPINE recuperó aproximadamente un 60% más de interacciones de neutrinos utilizables que la reconstrucción convencional, con una muestra más limpia, mejor resolución energética y menores incertidumbres sistemáticas."
               },
               {
                 "t": "p",
-                "x": "Peter Clark, del Allen Institute for Artificial Intelligence, lo llama “un paso emocionante” hacia artículos que ayuden activamente a los científicos, pero señala que Paper2Agent se especializa en reutilizar métodos y código, no en responder preguntas generales. “La razón por la que escribiría a un autor de correspondencia es precisamente por lo que no pusieron en el artículo.”"
+                "x": "El equipo ha entrenado modelos de SPINE para los detectores cercano y lejano de DUNE; para el detector cercano, es actualmente el único enfoque capaz de manejar cientos de interacciones superpuestas. “Hemos construido la herramienta. Ahora veremos qué descubre”, dijo el desarrollador principal, François Drielsma."
               }
             ]
           }
@@ -561,125 +591,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 가상 저자가\n논문을 조수로 바꾼다",
-          "body": "AI '가상 저자'는 논문 방법을 새 데이터에 쓰게 돕지만 저자의 전문성은 없다.",
-          "mini_headline": "AI 조수가 된 논문",
+          "headline": "SLAC의 SPINE\nML로 중성미자 추적",
+          "body": "SPINE은 검출기 영상으로 중성미자 반응을 재구성해 ICARUS 탐색을 도왔다.",
+          "mini_headline": "ML이 유령 입자를 쫓는다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101426_KH_virtualauthor_main.jpg",
-                "cap": "과학 논문은 대개 지식을 정적으로 기록한 것이다. Paper2Agent는 논문을 AI 에이전트용 도구 세트로 바꾼다. Alllex/E+/Getty Images"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus.jpg",
+                "cap": "ICARUS 검출기 내부. Credit: CERN"
               },
               {
                 "t": "p",
-                "x": "Paper2Agent라는 시스템은 과학자가 새 연구를 읽는 데서 그치지 않게 해 준다. 논문에 코드·방법·데이터가 함께 있으면 시스템은 이를 AI 조수가 새 데이터 작업에 쓸 수 있는 도구 세트로 묶는다고 연구진이 9월 16일 Nature에 발표했다."
+                "x": "SLAC National Accelerator Laboratory(SLAC 국립가속기연구소) 연구진이 액체 아르곤 시간투영함 데이터를 분석하는 머신러닝 프로그램 SPINE(Scalable Particle Imaging with Neural Embeddings)을 개발했다. SPINE은 시뮬레이션된 검출기 영상으로 학습해 입자를 식별하고, 그 궤적을 추적하며, 입자를 만들어 낸 상호작용을 재구성한다."
               },
               {
                 "t": "p",
-                "x": "Stanford University의 컴퓨터 과학자 James Zou는 이 시스템이 사실상 언제든 이용할 수 있는 “논문의 가상 저자”라고 말한다."
+                "x": "SPINE은 경직된 전문 알고리즘 사슬 대신 여러 머신러닝 모델이 함께 작동하는 방식을 쓴다. 먼저 영상의 기본 특징을 찾고, 이어 개별 입자를 식별한 뒤, 마지막으로 전체 상호작용을 재구성한다. 현재 약 25개 기관에 걸쳐 검출기 여덟 대에 배치돼 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus-1.jpg",
+                "cap": "ICARUS에는 액체 아르곤 760톤이 들어 있다. Credit: Al Johnson/Fermilab"
               },
               {
                 "t": "p",
-                "x": "Zou와 동료들은 계산생물학 논문 100편을 작동하는 도구 세트로 바꾸려 했고 74편에서 성공했다. 이 도구 세트는 원래 논문과 코드로 작업한 같은 에이전트보다 분석을 더 정확하게, 두 배 넘게 빠르게 수행했다."
+                "x": "ICARUS의 첫 중성미자 물리 결과인, 뮤온 중성미자 소실을 통한 비활성 중성미자 탐색(arXiv, DOI: 10.48550/arxiv.2603.22557)에서 연구진은 그런 신호의 증거를 찾지 못했다. SPINE은 기존 재구성 방식보다 쓸 수 있는 중성미자 상호작용을 약 60% 더 많이 복원했고, 표본은 더 깨끗했으며 에너지 분해능은 높아지고 계통 불확도는 줄었다."
               },
               {
                 "t": "p",
-                "x": "Allen Institute for Artificial Intelligence의 Peter Clark는 이를 과학자를 능동적으로 돕는 논문을 향한 “흥미로운 한 걸음”이라고 평가했다. 다만 Paper2Agent는 일반적인 질문에 답하기보다 방법과 코드 재사용에 특화돼 있다고 짚었다. “제가 교신저자에게 연락하는 이유는 바로 그들이 논문에 넣지 않은 것들 때문입니다.”"
+                "x": "연구팀은 DUNE 근거리·원거리 검출기용 SPINE 모델도 학습시켰다. 근거리 검출기에서는 수백 개의 겹치는 상호작용을 처리할 수 있는 현재 유일한 방법이다. 수석 개발자 François Drielsma는 “도구는 만들었다. 이제 그것이 무엇을 발견하는지 지켜볼 차례다”라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIの仮想著者が\n論文を助手に変える",
-          "body": "AIの「仮想著者」は論文の手法を新データに適用する助けになるが、人間の著者の専門性はない。",
-          "mini_headline": "AI助手になる論文",
+          "headline": "SLACのSPINE\nMLでニュートリノ追跡",
+          "body": "SPINEは検出器画像からニュートリノ反応を再構成し、ICARUS初の探索を支えた。",
+          "mini_headline": "MLが幽霊粒子を追う",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101426_KH_virtualauthor_main.jpg",
-                "cap": "科学論文は通常、知識を静的に記録したものだ。Paper2AgentはそれをAIエージェント向けのツールセットに変える。Alllex/E+/Getty Images"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus.jpg",
+                "cap": "ICARUS検出器の内部。Credit: CERN"
               },
               {
                 "t": "p",
-                "x": "Paper2Agentと呼ばれるシステムにより、科学者は新しい研究を読む以上のことができる。論文にコード、手法、データが付いていれば、システムはそれらをAIアシスタントが新しいデータの処理に使えるツールセットにまとめると、研究者らが9月16日にNatureで報告した。"
+                "x": "SLAC National Accelerator Laboratoryの研究者らは、液体アルゴン時間投影チェンバーのデータを解析する機械学習プログラムSPINE(Scalable Particle Imaging with Neural Embeddings)を開発した。シミュレーションした検出器画像から学習し、粒子を識別してその軌跡をたどり、粒子を生んだ相互作用を組み立て直す。"
               },
               {
                 "t": "p",
-                "x": "このシステムは実質的に、いつでも利用できる「論文の仮想著者」だと、Stanford Universityのコンピューター科学者James Zouは言う。"
+                "x": "SPINEは特化型アルゴリズムを硬直的に連ねる代わりに、複数の機械学習モデルを連携させる。まず画像の基本的な特徴を見つけ、次に個々の粒子を識別し、最後に相互作用の全体像を再構成する。現在、約25の機関にまたがる八つの検出器で運用されている。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus-1.jpg",
+                "cap": "ICARUSは760トンの液体アルゴンを収容する。Credit: Al Johnson/Fermilab"
               },
               {
                 "t": "p",
-                "x": "Zouらは計算生物学の論文100本を動作するツールセットに変換しようと試み、74本で成功した。このツールセットは、元の論文とコードから作業した同じエージェントより正確に、かつ2倍以上速く解析を実行した。"
+                "x": "ICARUS初のニュートリノ物理の成果である、ミューニュートリノ消失によるステライルニュートリノ探索(arXiv, DOI: 10.48550/arxiv.2603.22557)では、そうした信号の証拠は見つからなかった。SPINEは従来の再構成より使えるニュートリノ相互作用を約60%多く回収し、サンプルはより純度が高く、エネルギー分解能は向上し、系統的不確かさは減った。"
               },
               {
                 "t": "p",
-                "x": "Allen Institute for Artificial IntelligenceのPeter Clarkは、科学者を能動的に助ける論文に向けた「エキサイティングな一歩」だと評価する一方、Paper2Agentは一般的な質問に答えるのではなく、手法とコードの再利用に特化していると指摘する。「私が責任著者に連絡するのは、まさに彼らが論文に書かなかったことのためだ」"
+                "x": "チームはDUNEの前置検出器と後置検出器向けにもSPINEモデルを学習させた。前置検出器では、重なり合う数百の相互作用を扱える現時点で唯一の手法だ。“道具はできた。あとはそれが何を発見するかを見るだけだ”と主任開発者のFrançois Drielsmaは語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI虚拟作者\n把论文变成助手",
-          "body": "AI“虚拟作者”能帮科学家把论文方法用于新数据，但缺乏人类作者的专业知识。",
-          "mini_headline": "论文变身AI助手",
+          "headline": "SLAC的SPINE\n用ML追踪中微子",
+          "body": "SPINE的分级模型从探测器图像重建中微子相互作用，助力ICARUS首次惰性中微子搜寻。",
+          "mini_headline": "ML追寻幽灵粒子",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101426_KH_virtualauthor_main.jpg",
-                "cap": "科学论文通常是静态的知识记录。Paper2Agent将其转化为供AI智能体使用的工具集。Alllex/E+/Getty Images"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus.jpg",
+                "cap": "ICARUS探测器内部。Credit: CERN"
               },
               {
                 "t": "p",
-                "x": "一个名为Paper2Agent的系统让科学家不止于阅读新研究。研究人员9月16日在Nature上报告，当论文附带代码、方法和数据时，该系统会将它们打包成工具集，供AI助手处理新数据。"
+                "x": "SLAC National Accelerator Laboratory的研究人员开发了机器学习程序SPINE（Scalable Particle Imaging with Neural Embeddings），用于分析液氩时间投影室的数据。它通过模拟的探测器图像进行学习，识别粒子、追踪其路径，并拼合出产生这些粒子的相互作用。"
               },
               {
                 "t": "p",
-                "x": "Stanford University计算机科学家James Zou说，这个系统本质上是全天候可用的“论文的虚拟作者”。"
+                "x": "SPINE没有采用由专用算法组成的僵硬链条，而是让多个机器学习模型协同工作——先识别图像中的基本特征，再识别单个粒子，最后拼合出完整的相互作用。目前它已部署在约25家机构的八台探测器上。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus-1.jpg",
+                "cap": "ICARUS装有760吨液氩。Credit: Al Johnson/Fermilab"
               },
               {
                 "t": "p",
-                "x": "Zou和同事尝试将100篇计算生物学论文转化为可用的工具集，其中74篇获得成功。与依据原始论文和代码工作的同一智能体相比，这些工具集的分析更准确，速度快两倍以上。"
+                "x": "在ICARUS的首个中微子物理成果——通过缪子中微子消失搜寻惰性中微子（arXiv, DOI: 10.48550/arxiv.2603.22557）中，研究人员未发现此类信号的证据。与传统重建方法相比，SPINE多找回了约60%的可用中微子相互作用，样本更纯净，能量分辨率更高，系统不确定性更低。"
               },
               {
                 "t": "p",
-                "x": "Allen Institute for Artificial Intelligence的Peter Clark称其是迈向能主动帮助科学家的论文的“令人兴奋的一步”，但他指出，Paper2Agent专长于复用方法和代码，而非回答一般性问题。“我之所以会写信给通讯作者，恰恰是为了那些他们没写进论文的东西。”"
+                "x": "团队已为DUNE的近端和远端探测器训练了SPINE模型；对近端探测器而言，它是目前唯一能够处理数百个相互重叠的相互作用的方法。首席开发者François Drielsma表示：“我们已经造好了工具，现在就看它能发现什么。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un autor virtual de AI\nconvierte estudios en asistentes",
-          "body": "Un 'autor virtual' de AI ayuda a aplicar los métodos de un artículo a datos nuevos, pero sin la pericia humana.",
-          "mini_headline": "Artículos como asistentes de AI",
+          "headline": "SPINE, de SLAC, pone al ML\ntras la pista de los neutrinos",
+          "body": "Los modelos por etapas de SPINE reconstruyen interacciones de neutrinos en imágenes del detector para ICARUS.",
+          "mini_headline": "El ML rastrea partículas fantasma",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101426_KH_virtualauthor_main.jpg",
-                "cap": "Los artículos científicos suelen ser registros estáticos del conocimiento. Paper2Agent los convierte en conjuntos de herramientas para agentes de AI. Alllex/E+/Getty Images"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus.jpg",
+                "cap": "Interior del detector ICARUS. Credit: CERN"
               },
               {
                 "t": "p",
-                "x": "Un sistema llamado Paper2Agent permite a los científicos hacer algo más que leer un nuevo estudio. Cuando un artículo incluye código, métodos y datos, el sistema los empaqueta en un conjunto de herramientas que un asistente de AI puede usar para trabajar con datos nuevos, informan los investigadores el 16 de septiembre en Nature."
+                "x": "Investigadores del SLAC National Accelerator Laboratory han desarrollado SPINE (Scalable Particle Imaging with Neural Embeddings), un programa de aprendizaje automático que analiza datos de cámaras de proyección temporal de argón líquido. Aprende de imágenes simuladas del detector para identificar partículas, trazar sus trayectorias y reconstruir las interacciones que las produjeron."
               },
               {
                 "t": "p",
-                "x": "El sistema es, en esencia, “un autor virtual del artículo”, disponible a toda hora, dice James Zou, científico de la computación de Stanford University."
+                "x": "En lugar de una cadena rígida de algoritmos especializados, SPINE utiliza varios modelos de aprendizaje automático que trabajan juntos: primero detectan rasgos básicos en la imagen, luego identifican partículas individuales y finalmente reconstruyen la interacción completa. Ya está implementado en ocho detectores de aproximadamente 25 instituciones."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus-1.jpg",
+                "cap": "ICARUS contiene 760 toneladas de argón líquido. Credit: Al Johnson/Fermilab"
               },
               {
                 "t": "p",
-                "x": "Zou y sus colegas intentaron convertir 100 artículos de biología computacional en conjuntos de herramientas funcionales y lo lograron con 74. Esos conjuntos realizaron los análisis con más precisión y más del doble de rápido que el mismo agente trabajando con los artículos y el código originales."
+                "x": "En el primer resultado de física de neutrinos de ICARUS, una búsqueda de neutrinos estériles mediante la desaparición de neutrinos muónicos (arXiv, DOI: 10.48550/arxiv.2603.22557), los investigadores no hallaron indicios de esa señal. SPINE recuperó aproximadamente un 60% más de interacciones de neutrinos utilizables que la reconstrucción convencional, con una muestra más limpia, mejor resolución energética y menores incertidumbres sistemáticas."
               },
               {
                 "t": "p",
-                "x": "Peter Clark, del Allen Institute for Artificial Intelligence, lo llama “un paso emocionante” hacia artículos que ayuden activamente a los científicos, pero señala que Paper2Agent se especializa en reutilizar métodos y código, no en responder preguntas generales. “La razón por la que escribiría a un autor de correspondencia es precisamente por lo que no pusieron en el artículo.”"
+                "x": "El equipo ha entrenado modelos de SPINE para los detectores cercano y lejano de DUNE; para el detector cercano, es actualmente el único enfoque capaz de manejar cientos de interacciones superpuestas. “Hemos construido la herramienta. Ahora veremos qué descubre”, dijo el desarrollador principal, François Drielsma."
               }
             ]
           }
@@ -687,15 +737,15 @@
       }
     },
     {
-      "id": "science-vision-noise",
+      "id": "kls-conjecture",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "뇌를 닮은 잡음이\nAI 시각을 강건하게",
-      "body": "top-down 피드백과 신경 변동성을 더한 시각 AI가 잡음과 공격에 강해졌다.",
-      "mini_headline": "잡음이 AI 시각을 단련",
       "tool": "Science",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-10-brain-randomness-artificial-vision-reliable.html",
+      "eyebrow": "AI NEWS",
+      "headline": "인간과 AI 에이전트,\n31년 묵은 추측 증명",
+      "body": "연구진이 AI로 100개 넘는 접근법을 거쳐 1995년 KLS 추측을 증명했다.",
+      "mini_headline": "AI-assisted KLS 증명",
+      "source": "Microsoft Research",
+      "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -703,185 +753,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-research-how-ran.jpg",
-            "cap": "Credit: Patterns (2026). DOI: 10.1016/j.patter.2026.101693"
+            "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-BlogHeroFeature-1400x788-1.jpg"
           },
           {
             "t": "p",
-            "x": "Tübingen의 Hertie Institute for Clinical Brain Research 연구진은 뇌에서 빌려 온 두 특성을 함께 넣으면 인공 시각 시스템이 훨씬 강건해진다는 사실을 밝혀냈다. 하나는 상위 처리 단계가 앞 단계로 신호를 되돌려 보내는 하향(top-down) 피드백, 다른 하나는 신경 변동성이다."
-          },
-          {
-            "t": "p",
-            "x": "신경 활동의 무작위 요동은 학습 도중 개별 네트워크 유닛을 무작위로 잠시 꺼 두는 식으로 흉내 냈다. 피드백 하나만으로는 효과가 미미했다. 무작위성을 더하자 네트워크는 이미지 잡음에도, 오분류를 부를 수 있는 표적 변형에도 훨씬 잘 버텼고 학습 때와 분포가 다른 이미지에서도 성능이 좋아졌다."
+            "x": "1995년 제기된 Kannan–Lovász–Simonovits(KLS) 추측은 폭넓은 고차원 확률분포에서 최적의 초평면 절단이 어떤 모양의 최적 절단과 견줘도 늘 거의 같은 효과를 내는지 묻는다. Microsoft Research의 Xinzhi Zhang 등 연구자 두 명이 이를 증명했다. 차원이 몇이든 고정된 상한으로 이 관계가 성립함을 보였다."
           },
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/dr-antonino-greco-righ.jpg",
-            "cap": "Hertie Institute for Clinical Brain Research의 Dr. Antonino Greco(오른쪽)와 Markus Siegel 교수. Credit: Hertie Institute"
+            "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-illustration-scaled.png",
+            "cap": "그림 1: 정사면체 위에서 본 KLS 추측(단순화) 예시."
           },
           {
             "t": "p",
-            "x": "“피드백은 네트워크가 무작위성에 대처하는 법을 익힌 뒤에야 효과를 낸다”고 Greco는 설명한다. 연구 결과는 Patterns (2026)에 실렸다. DOI: 10.1016/j.patter.2026.101693."
+            "x": "저자들은 사람이 이끄는 체계적 과정에서 AI 에이전트와 함께 100개가 넘는 후보 접근법을 훑은 끝에 재귀적으로 적용할 수 있는 새 판정 기준을 얻었다. 재귀적 정밀화 과정 전체를 되풀이해 누적 오차를 보편 상수 안에 묶었다. 증명은 2026년 10월 4일 판 논문에서 완성됐다."
+          },
+          {
+            "t": "p",
+            "x": "같은 날 다른 연구진도 병행된 완전한 증명을 올렸다. 세 번째 증명은 밀접하게 관련된 아이디어에 기대며, 뒤이어 Lean 4 형식화도 나왔다. 주요 AI 모델 여러 개에 거의 같은 토큰 예산을 주고 사람 안내 없이 맡겼을 때는 성공하지 못했다. 성공에는 AI 시스템과 연구자들의 수학적 판단이 모두 필요했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Brain-like noise makes\nAI vision more robust",
-          "body": "Training vision networks with top-down feedback and neural variability made them more robust to noise and attacks.",
-          "mini_headline": "Noise hardens AI vision",
+          "headline": "Humans and AI agents prove\na 31-year-old conjecture",
+          "body": "Two researchers steered AI agents through over 100 approaches to prove the 1995 KLS conjecture in convex geometry.",
+          "mini_headline": "AI-assisted KLS proof",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-research-how-ran.jpg",
-                "cap": "Credit: Patterns (2026). DOI: 10.1016/j.patter.2026.101693"
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-BlogHeroFeature-1400x788-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Researchers at the Hertie Institute for Clinical Brain Research in Tübingen found that artificial vision systems become substantially more robust when two brain-inspired features are combined: top-down feedback, in which higher processing stages send signals back to earlier ones, and neural variability."
-              },
-              {
-                "t": "p",
-                "x": "They simulated random fluctuations in neural activity by temporarily deactivating individual network units at random during training. Feedback alone helped little; combined with the randomness, the networks became substantially more robust to image noise and targeted changes that can cause misclassification, and performed better on images from distributions that differed from the training distribution."
+                "x": "The Kannan–Lovász–Simonovits (KLS) conjecture, proposed in 1995, asks whether for a broad class of high-dimensional probability distributions the best hyperplane cut is always nearly as effective as the best cut of any shape. Two researchers, including Xinzhi Zhang of Microsoft Research, have proved it, showing the relationship holds with a fixed bound regardless of dimension."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/dr-antonino-greco-righ.jpg",
-                "cap": "Dr. Antonino Greco (right) and professor Markus Siegel from the Hertie Institute for Clinical Brain Research. Credit: Hertie Institute"
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-illustration-scaled.png",
+                "cap": "Figure 1: An illustration of the KLS Conjecture (simplified) on regular tetrahedron."
               },
               {
                 "t": "p",
-                "x": "“Feedback only becomes effective once the network has learned to cope with randomness,” says Greco. The study appears in Patterns (2026). DOI: 10.1016/j.patter.2026.101693."
+                "x": "Working with AI agents in a structured, human-directed process, the authors explored more than 100 candidate approaches, producing a new criterion that could be applied recursively. Repeating the whole recursive refinement kept accumulated errors bounded by a universal constant, completing the proof in the October 4, 2026 version of the paper."
+              },
+              {
+                "t": "p",
+                "x": "A separate group posted a parallel full proof the same day, a third proof relies on a closely related idea, and a Lean 4 formalization followed. Unguided attempts with several leading AI models on roughly the same token budget fell short; success depended on both the AI systems and the researchers' mathematical judgment."
               }
             ]
           }
         },
         "ko": {
-          "headline": "뇌를 닮은 잡음이\nAI 시각을 강건하게",
-          "body": "top-down 피드백과 신경 변동성을 더한 시각 AI가 잡음과 공격에 강해졌다.",
-          "mini_headline": "잡음이 AI 시각을 단련",
+          "headline": "인간과 AI 에이전트,\n31년 묵은 추측 증명",
+          "body": "연구진이 AI로 100개 넘는 접근법을 거쳐 1995년 KLS 추측을 증명했다.",
+          "mini_headline": "AI-assisted KLS 증명",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-research-how-ran.jpg",
-                "cap": "Credit: Patterns (2026). DOI: 10.1016/j.patter.2026.101693"
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-BlogHeroFeature-1400x788-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Tübingen의 Hertie Institute for Clinical Brain Research 연구진은 뇌에서 빌려 온 두 특성을 함께 넣으면 인공 시각 시스템이 훨씬 강건해진다는 사실을 밝혀냈다. 하나는 상위 처리 단계가 앞 단계로 신호를 되돌려 보내는 하향(top-down) 피드백, 다른 하나는 신경 변동성이다."
-              },
-              {
-                "t": "p",
-                "x": "신경 활동의 무작위 요동은 학습 도중 개별 네트워크 유닛을 무작위로 잠시 꺼 두는 식으로 흉내 냈다. 피드백 하나만으로는 효과가 미미했다. 무작위성을 더하자 네트워크는 이미지 잡음에도, 오분류를 부를 수 있는 표적 변형에도 훨씬 잘 버텼고 학습 때와 분포가 다른 이미지에서도 성능이 좋아졌다."
+                "x": "1995년 제기된 Kannan–Lovász–Simonovits(KLS) 추측은 폭넓은 고차원 확률분포에서 최적의 초평면 절단이 어떤 모양의 최적 절단과 견줘도 늘 거의 같은 효과를 내는지 묻는다. Microsoft Research의 Xinzhi Zhang 등 연구자 두 명이 이를 증명했다. 차원이 몇이든 고정된 상한으로 이 관계가 성립함을 보였다."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/dr-antonino-greco-righ.jpg",
-                "cap": "Hertie Institute for Clinical Brain Research의 Dr. Antonino Greco(오른쪽)와 Markus Siegel 교수. Credit: Hertie Institute"
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-illustration-scaled.png",
+                "cap": "그림 1: 정사면체 위에서 본 KLS 추측(단순화) 예시."
               },
               {
                 "t": "p",
-                "x": "“피드백은 네트워크가 무작위성에 대처하는 법을 익힌 뒤에야 효과를 낸다”고 Greco는 설명한다. 연구 결과는 Patterns (2026)에 실렸다. DOI: 10.1016/j.patter.2026.101693."
+                "x": "저자들은 사람이 이끄는 체계적 과정에서 AI 에이전트와 함께 100개가 넘는 후보 접근법을 훑은 끝에 재귀적으로 적용할 수 있는 새 판정 기준을 얻었다. 재귀적 정밀화 과정 전체를 되풀이해 누적 오차를 보편 상수 안에 묶었다. 증명은 2026년 10월 4일 판 논문에서 완성됐다."
+              },
+              {
+                "t": "p",
+                "x": "같은 날 다른 연구진도 병행된 완전한 증명을 올렸다. 세 번째 증명은 밀접하게 관련된 아이디어에 기대며, 뒤이어 Lean 4 형식화도 나왔다. 주요 AI 모델 여러 개에 거의 같은 토큰 예산을 주고 사람 안내 없이 맡겼을 때는 성공하지 못했다. 성공에는 AI 시스템과 연구자들의 수학적 판단이 모두 필요했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "脳に似たノイズが\nAIの視覚を頑健に",
-          "body": "top-downのフィードバックと神経のゆらぎを加えた視覚AIは、ノイズや攻撃に強くなった。",
-          "mini_headline": "ノイズがAI視覚を鍛える",
+          "headline": "人間とAIエージェント\n31年来の予想を証明",
+          "body": "二人の研究者がAIエージェントと100超の手法を探り、1995年のKLS予想を証明した。",
+          "mini_headline": "AI-assisted KLS証明",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-research-how-ran.jpg",
-                "cap": "Credit: Patterns (2026). DOI: 10.1016/j.patter.2026.101693"
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-BlogHeroFeature-1400x788-1.jpg"
               },
               {
                 "t": "p",
-                "x": "TübingenのHertie Institute for Clinical Brain Researchの研究者は、脳に着想を得た二つの特徴、すなわち上位の処理段階が前の段階へ信号を送り返すトップダウン(top-down)のフィードバックと神経のばらつきを組み合わせると、人工視覚システムが大幅に頑健になることを見いだした。"
-              },
-              {
-                "t": "p",
-                "x": "研究者は、学習中に個々のネットワークユニットをランダムに一時停止させることで、神経活動のランダムなゆらぎを再現した。フィードバック単独ではほとんど効果がなかったが、ランダム性と組み合わせると、ネットワークは画像ノイズや誤分類を引き起こしうる標的型の変更に対して大幅に頑健になり、学習時と異なる分布の画像でも性能が向上した。"
+                "x": "1995年に提唱されたKannan–Lovász–Simonovits(KLS)予想は、広いクラスの高次元確率分布において、最良の超平面による切断が、どんな形の最良の切断と比べても常にほぼ同等に有効かどうかを問う。Microsoft ResearchのXinzhi Zhangを含む二人の研究者がこれを証明し、次元にかかわらず固定された上界でこの関係が成り立つことを示した。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/dr-antonino-greco-righ.jpg",
-                "cap": "Hertie Institute for Clinical Brain ResearchのDr. Antonino Greco(右)とMarkus Siegel教授。Credit: Hertie Institute"
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-illustration-scaled.png",
+                "cap": "図1:正四面体上でのKLS予想(簡略化)の図解。"
               },
               {
                 "t": "p",
-                "x": "「フィードバックは、ネットワークがランダム性への対処を学んで初めて有効になる」とGrecoは言う。研究はPatterns (2026)に掲載された。DOI: 10.1016/j.patter.2026.101693."
+                "x": "著者らは人間が主導する構造化されたプロセスでAIエージェントと協働し、100を超える候補手法を探って、再帰的に適用できる新たな基準を得た。再帰的な精緻化全体を繰り返すことで蓄積誤差を普遍定数で抑え、2026年10月4日版の論文で証明を完成させた。"
+              },
+              {
+                "t": "p",
+                "x": "同じ日に別のグループも並行して完全な証明を投稿し、三つ目の証明は密接に関連するアイデアに基づいている。その後Lean 4による形式化も行われた。いくつかの主要AIモデルにほぼ同じトークン予算で誘導なしに挑ませた試みは届かなかった。成功はAIシステムと研究者の数学的判断の両方にかかっていた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "类脑噪声让\nAI视觉更稳健",
-          "body": "引入top-down反馈和神经变异性训练的视觉网络，对噪声和攻击更加稳健。",
-          "mini_headline": "噪声锤炼AI视觉",
+          "headline": "人类与AI智能体\n证明31年前的猜想",
+          "body": "两名研究者引导AI智能体尝试100多种方法，证明了凸几何中1995年的KLS猜想。",
+          "mini_headline": "AI-assisted KLS证明",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-research-how-ran.jpg",
-                "cap": "Credit: Patterns (2026). DOI: 10.1016/j.patter.2026.101693"
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-BlogHeroFeature-1400x788-1.jpg"
               },
               {
                 "t": "p",
-                "x": "位于Tübingen的Hertie Institute for Clinical Brain Research的研究人员发现，将两种受大脑启发的特性结合起来，人工视觉系统会变得稳健得多：一是自上而下（top-down）的反馈，即较高处理阶段把信号送回较早阶段；二是神经变异性。"
-              },
-              {
-                "t": "p",
-                "x": "他们在训练中随机地暂时停用单个网络单元，以模拟神经活动的随机波动。仅靠反馈帮助不大；与随机性结合后，网络对图像噪声和可能导致误分类的定向改动变得稳健得多，并在分布不同于训练分布的图像上表现更好。"
+                "x": "1995年提出的Kannan–Lovász–Simonovits（KLS）猜想探讨的是：对于一大类高维概率分布，最优的超平面切分是否总能与任意形状的最优切分几乎同样有效。包括Microsoft Research的Xinzhi Zhang在内的两名研究者证明了这一猜想，表明无论维度如何，这一关系都在一个固定界限内成立。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/dr-antonino-greco-righ.jpg",
-                "cap": "Hertie Institute for Clinical Brain Research的Dr. Antonino Greco（右）与Markus Siegel教授。Credit: Hertie Institute"
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-illustration-scaled.png",
+                "cap": "图1：正四面体上KLS猜想（简化版）的示意图。"
               },
               {
                 "t": "p",
-                "x": "Greco说：“只有在网络学会应对随机性之后，反馈才会生效。”该研究发表于Patterns (2026)。DOI: 10.1016/j.patter.2026.101693."
+                "x": "作者在人类主导的结构化流程中与AI智能体协作，探索了100多种候选方法，得出一个可递归应用的新判据。反复进行整个递归细化过程，使累积误差始终受一个普适常数约束，并在2026年10月4日版本的论文中完成了证明。"
+              },
+              {
+                "t": "p",
+                "x": "另一组研究者在同一天发布了一份并行的完整证明，第三份证明依赖一个密切相关的思路，随后又出现了Lean 4形式化。在大致相同的token预算下，多款领先AI模型在无引导情况下的尝试均未成功；成功既取决于AI系统，也取决于研究者的数学判断。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ruido de tipo cerebral\nrobustece la visión de la AI",
-          "body": "Entrenar redes de visión con feedback top-down y variabilidad neuronal las hizo más robustas a ruido y ataques.",
-          "mini_headline": "El ruido fortalece la visión de la AI",
+          "headline": "Humanos y agentes de AI prueban\nuna conjetura de 31 años",
+          "body": "Dos investigadores guiaron a agentes de AI por más de 100 enfoques para demostrar la conjetura KLS de 1995.",
+          "mini_headline": "Demostración de KLS (AI-assisted)",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-research-how-ran.jpg",
-                "cap": "Credit: Patterns (2026). DOI: 10.1016/j.patter.2026.101693"
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-BlogHeroFeature-1400x788-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Investigadores del Hertie Institute for Clinical Brain Research de Tübingen descubrieron que los sistemas de visión artificial se vuelven sustancialmente más robustos cuando se combinan dos rasgos inspirados en el cerebro: la retroalimentación top-down, en la que las etapas superiores de procesamiento devuelven señales a las anteriores, y la variabilidad neuronal."
-              },
-              {
-                "t": "p",
-                "x": "Simularon fluctuaciones aleatorias de la actividad neuronal desactivando temporalmente y al azar unidades individuales de la red durante el entrenamiento. La retroalimentación por sí sola ayudó poco; combinada con la aleatoriedad, las redes se volvieron sustancialmente más robustas al ruido de imagen y a cambios dirigidos que pueden causar errores de clasificación, y rindieron mejor con imágenes de distribuciones distintas de la de entrenamiento."
+                "x": "La conjetura de Kannan–Lovász–Simonovits (KLS), propuesta en 1995, plantea si, para una amplia clase de distribuciones de probabilidad de alta dimensión, el mejor corte por un hiperplano es siempre casi tan eficaz como el mejor corte de cualquier forma. Dos investigadores, entre ellos Xinzhi Zhang, de Microsoft Research, la han demostrado y han mostrado que la relación se cumple con una cota fija independientemente de la dimensión."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/dr-antonino-greco-righ.jpg",
-                "cap": "Dr. Antonino Greco (derecha) y el profesor Markus Siegel, del Hertie Institute for Clinical Brain Research. Credit: Hertie Institute"
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-illustration-scaled.png",
+                "cap": "Figura 1: Ilustración de la conjetura KLS (simplificada) en un tetraedro regular."
               },
               {
                 "t": "p",
-                "x": "“La retroalimentación solo se vuelve eficaz una vez que la red ha aprendido a lidiar con la aleatoriedad”, dice Greco. El estudio aparece en Patterns (2026). DOI: 10.1016/j.patter.2026.101693."
+                "x": "Trabajando con agentes de AI en un proceso estructurado y dirigido por humanos, los autores exploraron más de 100 enfoques candidatos y obtuvieron un nuevo criterio que podía aplicarse de forma recursiva. Repetir todo el refinamiento recursivo mantuvo los errores acumulados acotados por una constante universal, lo que completó la demostración en la versión del artículo del 4 de octubre de 2026."
+              },
+              {
+                "t": "p",
+                "x": "Otro grupo publicó el mismo día una demostración completa paralela, una tercera demostración se basa en una idea estrechamente relacionada y después llegó una formalización en Lean 4. Los intentos sin guía con varios modelos de AI líderes y aproximadamente el mismo presupuesto de tokens no lo lograron; el éxito dependió tanto de los sistemas de AI como del criterio matemático de los investigadores."
               }
             ]
           }
@@ -889,129 +933,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "뇌를 닮은 잡음이\nAI 시각을 강건하게",
-          "body": "top-down 피드백과 신경 변동성을 더한 시각 AI가 잡음과 공격에 강해졌다.",
-          "mini_headline": "잡음이 AI 시각을 단련",
+          "headline": "인간과 AI 에이전트,\n31년 묵은 추측 증명",
+          "body": "연구진이 AI로 100개 넘는 접근법을 거쳐 1995년 KLS 추측을 증명했다.",
+          "mini_headline": "AI-assisted KLS 증명",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-research-how-ran.jpg",
-                "cap": "Credit: Patterns (2026). DOI: 10.1016/j.patter.2026.101693"
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-BlogHeroFeature-1400x788-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Tübingen의 Hertie Institute for Clinical Brain Research 연구진은 뇌에서 착안한 두 가지 특성, 곧 상위 처리 단계가 앞 단계로 신호를 되돌려 보내는 하향(top-down) 피드백과 신경 변동성을 결합하면 인공 시각 시스템이 훨씬 강건해진다는 사실을 발견했다."
-              },
-              {
-                "t": "p",
-                "x": "연구진은 학습 중 개별 네트워크 유닛을 무작위로 잠시 비활성화하는 방식으로 신경 활동의 무작위 요동을 모사했다. 피드백만으로는 효과가 미미했지만 무작위성과 결합하자 네트워크는 이미지 잡음과 오분류를 일으킬 수 있는 표적 변형에 훨씬 강건해졌고, 학습 분포와 다른 분포의 이미지에서도 더 좋은 성능을 냈다."
+                "x": "1995년 제기된 Kannan–Lovász–Simonovits(KLS) 추측은 광범위한 고차원 확률분포에서 최적의 초평면 절단이 어떤 모양의 최적 절단과 비교해도 항상 거의 같은 효과를 내는지를 묻는다. Microsoft Research의 Xinzhi Zhang을 포함한 연구자 두 명이 이를 증명해, 차원과 상관없이 고정된 상한으로 이 관계가 성립함을 보였다."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/dr-antonino-greco-righ.jpg",
-                "cap": "Hertie Institute for Clinical Brain Research의 Dr. Antonino Greco(오른쪽)와 Markus Siegel 교수. Credit: Hertie Institute"
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-illustration-scaled.png",
+                "cap": "그림 1: 정사면체 위에서 본 KLS 추측(단순화) 예시."
               },
               {
                 "t": "p",
-                "x": "“피드백은 네트워크가 무작위성에 대처하는 법을 익힌 뒤에야 효과를 낸다”고 Greco는 말한다. 연구는 Patterns (2026)에 실렸다. DOI: 10.1016/j.patter.2026.101693."
+                "x": "저자들은 사람이 이끄는 체계적인 과정에서 AI 에이전트와 협업하며 100개가 넘는 후보 접근법을 탐색했고, 재귀적으로 적용할 수 있는 새 판정 기준을 얻었다. 재귀적 정밀화 과정 전체를 반복해 누적 오차를 보편 상수 이내로 묶었고, 2026년 10월 4일 판 논문에서 증명을 완성했다."
+              },
+              {
+                "t": "p",
+                "x": "같은 날 다른 연구진도 병행된 완전한 증명을 올렸고, 세 번째 증명은 밀접하게 관련된 아이디어에 기대며, 뒤이어 Lean 4 형식화도 나왔다. 여러 주요 AI 모델에 거의 같은 토큰 예산을 주고 사람의 안내 없이 시도했을 때는 성공하지 못했다. 성공은 AI 시스템과 연구자들의 수학적 판단 모두에 달려 있었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "脳に似たノイズが\nAIの視覚を頑健に",
-          "body": "top-downのフィードバックと神経のゆらぎを加えた視覚AIは、ノイズや攻撃に強くなった。",
-          "mini_headline": "ノイズがAI視覚を鍛える",
+          "headline": "人間とAIエージェント\n31年来の予想を証明",
+          "body": "二人の研究者がAIエージェントと100超の手法を探り、1995年のKLS予想を証明した。",
+          "mini_headline": "AI-assisted KLS証明",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-research-how-ran.jpg",
-                "cap": "Credit: Patterns (2026). DOI: 10.1016/j.patter.2026.101693"
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-BlogHeroFeature-1400x788-1.jpg"
               },
               {
                 "t": "p",
-                "x": "TübingenのHertie Institute for Clinical Brain Researchの研究者は、脳に着想を得た二つの特徴、すなわち上位の処理段階が前の段階へ信号を送り返すトップダウン(top-down)のフィードバックと神経のばらつきを組み合わせると、人工視覚システムが大幅に頑健になることを見いだした。"
-              },
-              {
-                "t": "p",
-                "x": "研究者は、学習中に個々のネットワークユニットをランダムに一時停止させることで、神経活動のランダムなゆらぎを再現した。フィードバック単独ではほとんど効果がなかったが、ランダム性と組み合わせると、ネットワークは画像ノイズや誤分類を引き起こしうる標的型の変更に対して大幅に頑健になり、学習時と異なる分布の画像でも性能が向上した。"
+                "x": "1995年に提唱されたKannan–Lovász–Simonovits(KLS)予想は、広いクラスの高次元確率分布において、最良の超平面による切断が、どんな形の最良の切断と比べても常にほぼ同等に有効かどうかを問う。Microsoft ResearchのXinzhi Zhangを含む二人の研究者がこれを証明し、次元にかかわらず固定された上界でこの関係が成り立つことを示した。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/dr-antonino-greco-righ.jpg",
-                "cap": "Hertie Institute for Clinical Brain ResearchのDr. Antonino Greco(右)とMarkus Siegel教授。Credit: Hertie Institute"
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-illustration-scaled.png",
+                "cap": "図1:正四面体上でのKLS予想(簡略化)の図解。"
               },
               {
                 "t": "p",
-                "x": "「フィードバックは、ネットワークがランダム性への対処を学んで初めて有効になる」とGrecoは言う。研究はPatterns (2026)に掲載された。DOI: 10.1016/j.patter.2026.101693."
+                "x": "著者らは人間が主導する構造化されたプロセスでAIエージェントと協働し、100を超える候補手法を探って、再帰的に適用できる新たな基準を得た。再帰的な精緻化全体を繰り返すことで蓄積誤差を普遍定数で抑え、2026年10月4日版の論文で証明を完成させた。"
+              },
+              {
+                "t": "p",
+                "x": "同じ日に別のグループも並行して完全な証明を投稿し、三つ目の証明は密接に関連するアイデアに基づいている。その後Lean 4による形式化も行われた。いくつかの主要AIモデルにほぼ同じトークン予算で誘導なしに挑ませた試みは届かなかった。成功はAIシステムと研究者の数学的判断の両方にかかっていた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "类脑噪声让\nAI视觉更稳健",
-          "body": "引入top-down反馈和神经变异性训练的视觉网络，对噪声和攻击更加稳健。",
-          "mini_headline": "噪声锤炼AI视觉",
+          "headline": "人类与AI智能体\n证明31年前的猜想",
+          "body": "两名研究者引导AI智能体尝试100多种方法，证明了凸几何中1995年的KLS猜想。",
+          "mini_headline": "AI-assisted KLS证明",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-research-how-ran.jpg",
-                "cap": "Credit: Patterns (2026). DOI: 10.1016/j.patter.2026.101693"
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-BlogHeroFeature-1400x788-1.jpg"
               },
               {
                 "t": "p",
-                "x": "位于Tübingen的Hertie Institute for Clinical Brain Research的研究人员发现，将两种受大脑启发的特性结合起来，人工视觉系统会变得稳健得多：一是自上而下（top-down）的反馈，即较高处理阶段把信号送回较早阶段；二是神经变异性。"
-              },
-              {
-                "t": "p",
-                "x": "他们在训练中随机地暂时停用单个网络单元，以模拟神经活动的随机波动。仅靠反馈帮助不大；与随机性结合后，网络对图像噪声和可能导致误分类的定向改动变得稳健得多，并在分布不同于训练分布的图像上表现更好。"
+                "x": "1995年提出的Kannan–Lovász–Simonovits（KLS）猜想探讨的是：对于一大类高维概率分布，最优的超平面切分是否总能与任意形状的最优切分几乎同样有效。包括Microsoft Research的Xinzhi Zhang在内的两名研究者证明了这一猜想，表明无论维度如何，这一关系都在一个固定界限内成立。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/dr-antonino-greco-righ.jpg",
-                "cap": "Hertie Institute for Clinical Brain Research的Dr. Antonino Greco（右）与Markus Siegel教授。Credit: Hertie Institute"
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-illustration-scaled.png",
+                "cap": "图1：正四面体上KLS猜想（简化版）的示意图。"
               },
               {
                 "t": "p",
-                "x": "Greco说：“只有在网络学会应对随机性之后，反馈才会生效。”该研究发表于Patterns (2026)。DOI: 10.1016/j.patter.2026.101693."
+                "x": "作者在人类主导的结构化流程中与AI智能体协作，探索了100多种候选方法，得出一个可递归应用的新判据。反复进行整个递归细化过程，使累积误差始终受一个普适常数约束，并在2026年10月4日版本的论文中完成了证明。"
+              },
+              {
+                "t": "p",
+                "x": "另一组研究者在同一天发布了一份并行的完整证明，第三份证明依赖一个密切相关的思路，随后又出现了Lean 4形式化。在大致相同的token预算下，多款领先AI模型在无引导情况下的尝试均未成功；成功既取决于AI系统，也取决于研究者的数学判断。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ruido de tipo cerebral\nrobustece la visión de la AI",
-          "body": "Entrenar redes de visión con feedback top-down y variabilidad neuronal las hizo más robustas a ruido y ataques.",
-          "mini_headline": "El ruido fortalece la visión de la AI",
+          "headline": "Humanos y agentes de AI prueban\nuna conjetura de 31 años",
+          "body": "Dos investigadores guiaron a agentes de AI por más de 100 enfoques para demostrar la conjetura KLS de 1995.",
+          "mini_headline": "Demostración de KLS (AI-assisted)",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/brain-research-how-ran.jpg",
-                "cap": "Credit: Patterns (2026). DOI: 10.1016/j.patter.2026.101693"
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-BlogHeroFeature-1400x788-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Investigadores del Hertie Institute for Clinical Brain Research de Tübingen descubrieron que los sistemas de visión artificial se vuelven sustancialmente más robustos cuando se combinan dos rasgos inspirados en el cerebro: la retroalimentación top-down, en la que las etapas superiores de procesamiento devuelven señales a las anteriores, y la variabilidad neuronal."
-              },
-              {
-                "t": "p",
-                "x": "Simularon fluctuaciones aleatorias de la actividad neuronal desactivando temporalmente y al azar unidades individuales de la red durante el entrenamiento. La retroalimentación por sí sola ayudó poco; combinada con la aleatoriedad, las redes se volvieron sustancialmente más robustas al ruido de imagen y a cambios dirigidos que pueden causar errores de clasificación, y rindieron mejor con imágenes de distribuciones distintas de la de entrenamiento."
+                "x": "La conjetura de Kannan–Lovász–Simonovits (KLS), propuesta en 1995, plantea si, para una amplia clase de distribuciones de probabilidad de alta dimensión, el mejor corte por un hiperplano es siempre casi tan eficaz como el mejor corte de cualquier forma. Dos investigadores, entre ellos Xinzhi Zhang, de Microsoft Research, la han demostrado y han mostrado que la relación se cumple con una cota fija independientemente de la dimensión."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/dr-antonino-greco-righ.jpg",
-                "cap": "Dr. Antonino Greco (derecha) y el profesor Markus Siegel, del Hertie Institute for Clinical Brain Research. Credit: Hertie Institute"
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-illustration-scaled.png",
+                "cap": "Figura 1: Ilustración de la conjetura KLS (simplificada) en un tetraedro regular."
               },
               {
                 "t": "p",
-                "x": "“La retroalimentación solo se vuelve eficaz una vez que la red ha aprendido a lidiar con la aleatoriedad”, dice Greco. El estudio aparece en Patterns (2026). DOI: 10.1016/j.patter.2026.101693."
+                "x": "Trabajando con agentes de AI en un proceso estructurado y dirigido por humanos, los autores exploraron más de 100 enfoques candidatos y obtuvieron un nuevo criterio que podía aplicarse de forma recursiva. Repetir todo el refinamiento recursivo mantuvo los errores acumulados acotados por una constante universal, lo que completó la demostración en la versión del artículo del 4 de octubre de 2026."
+              },
+              {
+                "t": "p",
+                "x": "Otro grupo publicó el mismo día una demostración completa paralela, una tercera demostración se basa en una idea estrechamente relacionada y después llegó una formalización en Lean 4. Los intentos sin guía con varios modelos de AI líderes y aproximadamente el mismo presupuesto de tokens no lo lograron; el éxito dependió tanto de los sistemas de AI como del criterio matemático de los investigadores."
               }
             ]
           }
@@ -1019,15 +1059,15 @@
       }
     },
     {
-      "id": "science-planteur",
+      "id": "nrps-enzyme",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Ai2, 작물 벤치마크를\n열대 지역으로 넓혀",
-      "body": "PLANTEUR는 PASTIS 벤치마크를 농업이 다양한 열대 여섯 곳으로 넓혔다.",
-      "mini_headline": "열대 작물 벤치마크",
       "tool": "Science",
-      "source": "Ai2",
-      "url": "https://allenai.org/blog/planteur",
+      "eyebrow": "AI NEWS",
+      "headline": "AI-designed 효소\n부품, 생세포서 작동",
+      "body": "HIPS가 AI로 티올화 도메인 76개를 설계해 일부가 수율을 세 배까지 높였다.",
+      "mini_headline": "AI가 설계한 효소 부품",
+      "source": "Phys.org (HIPS)",
+      "url": "https://phys.org/news/2026-10-ai-functional-enzyme-components-drug.html",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -1035,173 +1075,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.datocms-assets.com/64837/1792681400-planteur-tropical-regions-tan.png"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-aids-in-the-develop.jpg",
+            "cap": "Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77963-6"
           },
           {
             "t": "p",
-            "x": "PASTIS는 학계에서 가장 믿고 쓰는 작물 매핑 벤치마크로 꼽히지만 다루는 범위가 프랑스 본토뿐이다. Ai2가 내놓은 PLANTEUR는 이를 Réunion, Guadeloupe, Martinique, Guyane, Mayotte, Saint-Martin의 열대 여섯 곳으로 넓혔다."
+            "x": "Dr. Kenan Bozhüyük이 이끄는 Helmholtz Institute for Pharmaceutical Research Saarland(HIPS) 연구진이 AI로 비리보솜 펩타이드 합성효소(NRPS)의 새 단백질 구성 요소를 개발했다. NRPS는 수많은 항생제, 면역억제제, 항암제의 바탕이 되는 천연 화합물을 만드는 효소 복합체로, 일종의 분자 조립 라인이다."
           },
           {
             "t": "p",
-            "x": "데이터 출처도 PASTIS와 같은 프랑스 Land Parcel Identification System이다. 정렬된 Sentinel-2, Sentinel-1, Landsat-8 시계열 2,750개에 사탕수수·바나나·파인애플·열대 덩이줄기 등 일곱 개 작물 클래스에 걸친 필지 단위 레이블 4,506 km²가 들어 있다."
+            "x": "연구팀은 사전 학습된 AI 모델 여러 개와 실험을 엮어 중간체를 넘겨주는 운반 팔인 티올화 도메인(T-domains) 76개를 새로 설계했다. 이를 넣은 NRPS 변이체 수백 개를 만들어 살아 있는 세포에서 시험했다."
           },
           {
             "t": "p",
-            "x": "베이스라인은 표준 분할, 섬 하나를 빼고 학습하는 leave-one-island-out 분할, few-shot 설정, PASTIS 샘플을 섞어 학습하는 설정까지 아우른다."
+            "x": "여러 설계가 제대로 작동했다. 일부는 천연 변이체보다 수율을 최대 세 배까지 끌어올렸고 적어도 하나는 용해도와 열 안정성이 더 좋았다. 열쇠는 각 구성 요소를 인접 영역에 맞춰 조정한 데 있었다."
           },
           {
             "t": "p",
-            "x": "평가한 방법은 하나같이 PASTIS보다 PLANTEUR에서 점수가 크게 낮았다. 학습 때 보지 못한 섬으로 시험하면 모든 모델의 정확도가 대략 절반으로 떨어졌다. PLANTEUR는 Hugging Face와 GitHub에서 내려받을 수 있다."
+            "x": "Bozhüyük은 “AI가 실험을 대체하지는 않지만, 수많은 가능한 변이체 가운데 유망한 후보를 더 빨리 고르도록 돕는다”고 말했다. Nature Communications (2026), DOI: 10.1038/s41467-026-77963-6."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Ai2 extends crop-mapping\nbenchmarks to the tropics",
-          "body": "PLANTEUR extends the PASTIS crop-mapping benchmark to six tropical regions with more diverse farming systems.",
-          "mini_headline": "Tropical crop benchmark",
+          "headline": "AI-designed enzyme parts\nwork in living cells",
+          "body": "HIPS researchers used AI to design 76 thiolation domains, some raising yields up to threefold over natural ones.",
+          "mini_headline": "AI designs enzyme parts",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792681400-planteur-tropical-regions-tan.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-aids-in-the-develop.jpg",
+                "cap": "Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77963-6"
               },
               {
                 "t": "p",
-                "x": "PASTIS is one of the community's most trusted crop-mapping benchmarks, but its coverage is limited to metropolitan France. Ai2 presents PLANTEUR, an extension of PASTIS to six tropical regions: Réunion, Guadeloupe, Martinique, Guyane, Mayotte and Saint-Martin."
+                "x": "Researchers at the Helmholtz Institute for Pharmaceutical Research Saarland (HIPS), led by Dr. Kenan Bozhüyük, used AI to develop novel protein building blocks for non-ribosomal peptide synthetases (NRPS)—enzyme complexes that work like molecular assembly lines for natural compounds behind numerous antibiotics, immunosuppressants and cancer drugs."
               },
               {
                 "t": "p",
-                "x": "Built from the same source, France's Land Parcel Identification System, it contains 2,750 aligned Sentinel-2, Sentinel-1 and Landsat-8 time series and 4,506 km² of parcel-derived labels across seven crop classes, including sugarcane, banana, pineapple and tropical tubers."
+                "x": "Combining several pretrained AI models with experiments, the team designed 76 new thiolation domains (T-domains), the transport arms that pass intermediates along, produced hundreds of NRPS variants and tested them in living cells."
               },
               {
                 "t": "p",
-                "x": "Baselines cover a standard split, a leave-one-island-out split, a few-shot setup and one that includes PASTIS samples in training."
+                "x": "Several designs were functional; some increased the yield up to three times compared to natural variants, and at least one was more soluble and thermally more stable. A key factor was tailoring each building block to its neighboring regions."
               },
               {
                 "t": "p",
-                "x": "Every method evaluated scores substantially lower on PLANTEUR than on PASTIS, and every model loses roughly half its accuracy when tested on an island it never saw in training. PLANTEUR is available on Hugging Face and GitHub."
+                "x": "“AI does not replace experiments, but it helps us select promising candidates more quickly from among many possible variants,” says Bozhüyük. Nature Communications (2026), DOI: 10.1038/s41467-026-77963-6."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Ai2, 작물 벤치마크를\n열대 지역으로 넓혀",
-          "body": "PLANTEUR는 PASTIS 벤치마크를 농업이 다양한 열대 여섯 곳으로 넓혔다.",
-          "mini_headline": "열대 작물 벤치마크",
+          "headline": "AI-designed 효소\n부품, 생세포서 작동",
+          "body": "HIPS가 AI로 티올화 도메인 76개를 설계해 일부가 수율을 세 배까지 높였다.",
+          "mini_headline": "AI가 설계한 효소 부품",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792681400-planteur-tropical-regions-tan.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-aids-in-the-develop.jpg",
+                "cap": "Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77963-6"
               },
               {
                 "t": "p",
-                "x": "PASTIS는 학계에서 가장 믿고 쓰는 작물 매핑 벤치마크로 꼽히지만 다루는 범위가 프랑스 본토뿐이다. Ai2가 내놓은 PLANTEUR는 이를 Réunion, Guadeloupe, Martinique, Guyane, Mayotte, Saint-Martin의 열대 여섯 곳으로 넓혔다."
+                "x": "Dr. Kenan Bozhüyük이 이끄는 Helmholtz Institute for Pharmaceutical Research Saarland(HIPS) 연구진이 AI로 비리보솜 펩타이드 합성효소(NRPS)의 새 단백질 구성 요소를 개발했다. NRPS는 수많은 항생제, 면역억제제, 항암제의 바탕이 되는 천연 화합물을 만드는 효소 복합체로, 일종의 분자 조립 라인이다."
               },
               {
                 "t": "p",
-                "x": "데이터 출처도 PASTIS와 같은 프랑스 Land Parcel Identification System이다. 정렬된 Sentinel-2, Sentinel-1, Landsat-8 시계열 2,750개에 사탕수수·바나나·파인애플·열대 덩이줄기 등 일곱 개 작물 클래스에 걸친 필지 단위 레이블 4,506 km²가 들어 있다."
+                "x": "연구팀은 사전 학습된 AI 모델 여러 개와 실험을 엮어 중간체를 넘겨주는 운반 팔인 티올화 도메인(T-domains) 76개를 새로 설계했다. 이를 넣은 NRPS 변이체 수백 개를 만들어 살아 있는 세포에서 시험했다."
               },
               {
                 "t": "p",
-                "x": "베이스라인은 표준 분할, 섬 하나를 빼고 학습하는 leave-one-island-out 분할, few-shot 설정, PASTIS 샘플을 섞어 학습하는 설정까지 아우른다."
+                "x": "여러 설계가 제대로 작동했다. 일부는 천연 변이체보다 수율을 최대 세 배까지 끌어올렸고 적어도 하나는 용해도와 열 안정성이 더 좋았다. 열쇠는 각 구성 요소를 인접 영역에 맞춰 조정한 데 있었다."
               },
               {
                 "t": "p",
-                "x": "평가한 방법은 하나같이 PASTIS보다 PLANTEUR에서 점수가 크게 낮았다. 학습 때 보지 못한 섬으로 시험하면 모든 모델의 정확도가 대략 절반으로 떨어졌다. PLANTEUR는 Hugging Face와 GitHub에서 내려받을 수 있다."
+                "x": "Bozhüyük은 “AI가 실험을 대체하지는 않지만, 수많은 가능한 변이체 가운데 유망한 후보를 더 빨리 고르도록 돕는다”고 말했다. Nature Communications (2026), DOI: 10.1038/s41467-026-77963-6."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ai2、作物マッピングの\nベンチマークを熱帯へ",
-          "body": "PLANTEURはPASTISの作物マッピング基準を、営農が多様な熱帯の六地域へ広げた。",
-          "mini_headline": "熱帯の作物ベンチマーク",
+          "headline": "AI-designedの酵素\n部品が生細胞で機能",
+          "body": "HIPSはAIで76個のチオール化ドメインを設計し、一部は収率を最大三倍に高めた。",
+          "mini_headline": "AIが酵素部品を設計",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792681400-planteur-tropical-regions-tan.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-aids-in-the-develop.jpg",
+                "cap": "Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77963-6"
               },
               {
                 "t": "p",
-                "x": "PASTISはコミュニティで最も信頼される作物マッピング・ベンチマークの一つだが、対象はフランス本土に限られる。Ai2は、PASTISを六つの熱帯地域、Réunion、Guadeloupe、Martinique、Guyane、Mayotte、Saint-Martinへ拡張したPLANTEURを発表した。"
+                "x": "Dr. Kenan Bozhüyük率いるHelmholtz Institute for Pharmaceutical Research Saarland(HIPS)の研究者らは、AIを用いて非リボソームペプチド合成酵素(NRPS)の新たなタンパク質構成要素を開発した。NRPSは、数多くの抗生物質や免疫抑制剤、抗がん剤のもととなる天然化合物を作る、分子の組み立てラインのように働く酵素複合体だ。"
               },
               {
                 "t": "p",
-                "x": "同じ情報源であるフランスのLand Parcel Identification Systemから構築され、位置合わせされたSentinel-2、Sentinel-1、Landsat-8の時系列2,750件と、サトウキビ、バナナ、パイナップル、熱帯イモ類を含む七つの作物クラスにわたる区画由来ラベル4,506 km²を収める。"
+                "x": "チームは複数の事前学習済みAIモデルと実験を組み合わせ、中間体を受け渡す運搬アームであるチオール化ドメイン(T-domains)を76個新たに設計し、数百のNRPS変異体を作って生きた細胞で試験した。"
               },
               {
                 "t": "p",
-                "x": "ベースラインは、標準的な分割、一つの島を除外するleave-one-island-out分割、few-shot設定、学習にPASTISのサンプルを含める設定を対象とする。"
+                "x": "いくつかの設計は機能した。一部は天然の変異体と比べて収率を最大三倍に高め、少なくとも一つは溶解性と熱安定性がより高かった。鍵となったのは、各構成要素を隣接する領域に合わせて調整したことだ。"
               },
               {
                 "t": "p",
-                "x": "評価したすべての手法がPASTISよりPLANTEURで大幅に低いスコアとなり、どのモデルも学習で見ていない島でテストすると精度がおよそ半分に落ちる。PLANTEURはHugging FaceとGitHubで公開されている。"
+                "x": "“AIは実験に取って代わるものではないが、多数の候補となる変異体の中から有望なものをより速く選ぶ助けになる”とBozhüyükは語る。Nature Communications (2026), DOI: 10.1038/s41467-026-77963-6."
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ai2把作物制图基准\n扩展到热带",
-          "body": "PLANTEUR将PASTIS作物制图基准扩展到六个农业更多样的热带地区。",
-          "mini_headline": "热带作物基准",
+          "headline": "AI-designed酶部件\n在活细胞中发挥作用",
+          "body": "HIPS研究人员用AI设计了76个硫醇化结构域，部分产量最高提升至天然的三倍。",
+          "mini_headline": "AI设计酶部件",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792681400-planteur-tropical-regions-tan.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-aids-in-the-develop.jpg",
+                "cap": "Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77963-6"
               },
               {
                 "t": "p",
-                "x": "PASTIS是学界最受信赖的作物制图基准之一，但覆盖范围仅限法国本土。Ai2推出PLANTEUR，将PASTIS扩展到六个热带地区：Réunion、Guadeloupe、Martinique、Guyane、Mayotte和Saint-Martin。"
+                "x": "由Dr. Kenan Bozhüyük领导的Helmholtz Institute for Pharmaceutical Research Saarland（HIPS）研究人员利用AI为非核糖体肽合成酶（NRPS）开发了新型蛋白质构件。NRPS是一类酶复合体，如同分子装配线，负责合成众多抗生素、免疫抑制剂和抗癌药物背后的天然化合物。"
               },
               {
                 "t": "p",
-                "x": "它基于同一数据源——法国的Land Parcel Identification System——构建，包含2,750条已对齐的Sentinel-2、Sentinel-1和Landsat-8时间序列，以及覆盖七个作物类别、源自地块的4,506 km²标注，类别包括甘蔗、香蕉、菠萝和热带块茎作物。"
+                "x": "研究团队将多个预训练AI模型与实验相结合，设计了76个新的硫醇化结构域（T-domains）——即传递中间体的转运臂，构建了数百种NRPS变体，并在活细胞中进行了测试。"
               },
               {
                 "t": "p",
-                "x": "基线涵盖标准划分、留一岛（leave-one-island-out）划分、few-shot设置，以及在训练中加入PASTIS样本的设置。"
+                "x": "多个设计具有功能；其中一些与天然变体相比产量最高提升至三倍，至少有一个溶解性更好、热稳定性更高。关键在于让每个构件与其相邻区域相匹配。"
               },
               {
                 "t": "p",
-                "x": "所有被评估的方法在PLANTEUR上的得分都明显低于PASTIS，而且每个模型在训练中从未见过的岛屿上测试时，准确率都会下降约一半。PLANTEUR已在Hugging Face和GitHub上发布。"
+                "x": "Bozhüyük表示：“AI不会取代实验，但它能帮助我们更快地从众多可能的变体中挑选出有前景的候选。”Nature Communications (2026), DOI: 10.1038/s41467-026-77963-6."
               }
             ]
           }
         },
         "es": {
-          "headline": "Ai2 lleva al trópico los\nbenchmarks de mapeo de cultivos",
-          "body": "PLANTEUR lleva el benchmark PASTIS de mapeo de cultivos a seis regiones tropicales con agricultura más diversa.",
-          "mini_headline": "Benchmark de cultivos tropicales",
+          "headline": "Piezas enzimáticas AI-designed\nfuncionan en células vivas",
+          "body": "Investigadores de HIPS diseñaron con AI 76 dominios de tiolación; algunos elevaron el rendimiento hasta el triple.",
+          "mini_headline": "La AI diseña piezas de enzimas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792681400-planteur-tropical-regions-tan.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-aids-in-the-develop.jpg",
+                "cap": "Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77963-6"
               },
               {
                 "t": "p",
-                "x": "PASTIS es uno de los benchmarks de mapeo de cultivos más confiables de la comunidad, pero su cobertura se limita a la Francia metropolitana. Ai2 presenta PLANTEUR, una extensión de PASTIS a seis regiones tropicales: Réunion, Guadeloupe, Martinique, Guyane, Mayotte y Saint-Martin."
+                "x": "Investigadores del Helmholtz Institute for Pharmaceutical Research Saarland (HIPS), dirigidos por el Dr. Kenan Bozhüyük, usaron AI para desarrollar nuevos bloques proteicos para las sintetasas de péptidos no ribosómicos (NRPS), complejos enzimáticos que funcionan como cadenas de montaje moleculares de compuestos naturales en los que se basan numerosos antibióticos, inmunosupresores y fármacos contra el cáncer."
               },
               {
                 "t": "p",
-                "x": "Construido a partir de la misma fuente, el Land Parcel Identification System de Francia, contiene 2,750 series temporales alineadas de Sentinel-2, Sentinel-1 y Landsat-8 y 4,506 km² de etiquetas derivadas de parcelas en siete clases de cultivo, entre ellas caña de azúcar, banano, piña y tubérculos tropicales."
+                "x": "Combinando varios modelos de AI preentrenados con experimentos, el equipo diseñó 76 nuevos dominios de tiolación (T-domains), los brazos de transporte que van pasando los intermediarios, produjo cientos de variantes de NRPS y las probó en células vivas."
               },
               {
                 "t": "p",
-                "x": "Las líneas base abarcan una partición estándar, una partición leave-one-island-out, una configuración few-shot y otra que incluye muestras de PASTIS en el entrenamiento."
+                "x": "Varios diseños fueron funcionales; algunos aumentaron el rendimiento hasta tres veces respecto a las variantes naturales, y al menos uno resultó más soluble y térmicamente más estable. Un factor clave fue adaptar cada bloque a sus regiones vecinas."
               },
               {
                 "t": "p",
-                "x": "Todos los métodos evaluados obtienen puntuaciones sustancialmente más bajas en PLANTEUR que en PASTIS, y todos los modelos pierden aproximadamente la mitad de su exactitud al probarse en una isla que nunca vieron en el entrenamiento. PLANTEUR está disponible en Hugging Face y GitHub."
+                "x": "“La AI no sustituye a los experimentos, pero nos ayuda a seleccionar candidatos prometedores con mayor rapidez entre muchas variantes posibles”, afirma Bozhüyük. Nature Communications (2026), DOI: 10.1038/s41467-026-77963-6."
               }
             ]
           }
@@ -1209,121 +1255,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Ai2, 작물 벤치마크를\n열대 지역으로 넓혀",
-          "body": "PLANTEUR는 PASTIS 벤치마크를 농업이 다양한 열대 여섯 곳으로 넓혔다.",
-          "mini_headline": "열대 작물 벤치마크",
+          "headline": "AI-designed 효소\n부품, 생세포서 작동",
+          "body": "HIPS가 AI로 티올화 도메인 76개를 설계해 일부가 수율을 세 배까지 높였다.",
+          "mini_headline": "AI가 설계한 효소 부품",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792681400-planteur-tropical-regions-tan.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-aids-in-the-develop.jpg",
+                "cap": "Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77963-6"
               },
               {
                 "t": "p",
-                "x": "PASTIS는 학계가 가장 신뢰하는 작물 매핑 벤치마크 가운데 하나지만 범위가 프랑스 본토에 그친다. Ai2는 PASTIS를 여섯 개 열대 지역, 곧 Réunion, Guadeloupe, Martinique, Guyane, Mayotte, Saint-Martin으로 넓힌 PLANTEUR를 내놓았다."
+                "x": "Dr. Kenan Bozhüyük이 이끄는 Helmholtz Institute for Pharmaceutical Research Saarland(HIPS) 연구진은 AI를 활용해 비리보솜 펩타이드 합성효소(NRPS)용 새로운 단백질 구성 요소를 개발했다. NRPS는 수많은 항생제, 면역억제제, 항암제의 바탕이 되는 천연 화합물을 만드는 분자 조립 라인처럼 작동하는 효소 복합체다."
               },
               {
                 "t": "p",
-                "x": "같은 출처인 프랑스의 Land Parcel Identification System으로 구축했으며, 정렬된 Sentinel-2, Sentinel-1, Landsat-8 시계열 2,750개와 사탕수수·바나나·파인애플·열대 덩이줄기 등 일곱 개 작물 클래스에 걸친 필지 기반 레이블 4,506 km²를 담았다."
+                "x": "연구팀은 사전 학습된 여러 AI 모델과 실험을 결합해 중간체를 넘겨주는 운반 팔인 티올화 도메인(T-domains) 76개를 새로 설계했고, NRPS 변이체 수백 개를 만들어 살아 있는 세포에서 시험했다."
               },
               {
                 "t": "p",
-                "x": "베이스라인은 표준 분할, 섬 하나를 빼고 학습하는 leave-one-island-out 분할, few-shot 설정, 그리고 학습에 PASTIS 샘플을 포함한 설정을 다룬다."
+                "x": "여러 설계가 제 기능을 했다. 일부는 천연 변이체보다 수율을 최대 세 배까지 높였고, 적어도 하나는 용해도와 열 안정성이 더 높았다. 핵심은 각 구성 요소를 인접 영역에 맞춰 조정한 것이었다."
               },
               {
                 "t": "p",
-                "x": "평가한 모든 방법이 PASTIS보다 PLANTEUR에서 점수가 크게 낮았고, 모든 모델은 학습 때 보지 못한 섬에서 시험하면 정확도가 대략 절반으로 떨어졌다. PLANTEUR는 Hugging Face와 GitHub에서 받을 수 있다."
+                "x": "Bozhüyük은 “AI가 실험을 대체하지는 않지만, 수많은 가능한 변이체 가운데 유망한 후보를 더 빨리 고르도록 돕는다”고 말했다. Nature Communications (2026), DOI: 10.1038/s41467-026-77963-6."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ai2、作物マッピングの\nベンチマークを熱帯へ",
-          "body": "PLANTEURはPASTISの作物マッピング基準を、営農が多様な熱帯の六地域へ広げた。",
-          "mini_headline": "熱帯の作物ベンチマーク",
+          "headline": "AI-designedの酵素\n部品が生細胞で機能",
+          "body": "HIPSはAIで76個のチオール化ドメインを設計し、一部は収率を最大三倍に高めた。",
+          "mini_headline": "AIが酵素部品を設計",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792681400-planteur-tropical-regions-tan.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-aids-in-the-develop.jpg",
+                "cap": "Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77963-6"
               },
               {
                 "t": "p",
-                "x": "PASTISはコミュニティで最も信頼される作物マッピング・ベンチマークの一つだが、対象はフランス本土に限られる。Ai2は、PASTISを六つの熱帯地域、Réunion、Guadeloupe、Martinique、Guyane、Mayotte、Saint-Martinへ拡張したPLANTEURを発表した。"
+                "x": "Dr. Kenan Bozhüyük率いるHelmholtz Institute for Pharmaceutical Research Saarland(HIPS)の研究者らは、AIを用いて非リボソームペプチド合成酵素(NRPS)の新たなタンパク質構成要素を開発した。NRPSは、数多くの抗生物質や免疫抑制剤、抗がん剤のもととなる天然化合物を作る、分子の組み立てラインのように働く酵素複合体だ。"
               },
               {
                 "t": "p",
-                "x": "同じ情報源であるフランスのLand Parcel Identification Systemから構築され、位置合わせされたSentinel-2、Sentinel-1、Landsat-8の時系列2,750件と、サトウキビ、バナナ、パイナップル、熱帯イモ類を含む七つの作物クラスにわたる区画由来ラベル4,506 km²を収める。"
+                "x": "チームは複数の事前学習済みAIモデルと実験を組み合わせ、中間体を受け渡す運搬アームであるチオール化ドメイン(T-domains)を76個新たに設計し、数百のNRPS変異体を作って生きた細胞で試験した。"
               },
               {
                 "t": "p",
-                "x": "ベースラインは、標準的な分割、一つの島を除外するleave-one-island-out分割、few-shot設定、学習にPASTISのサンプルを含める設定を対象とする。"
+                "x": "いくつかの設計は機能した。一部は天然の変異体と比べて収率を最大三倍に高め、少なくとも一つは溶解性と熱安定性がより高かった。鍵となったのは、各構成要素を隣接する領域に合わせて調整したことだ。"
               },
               {
                 "t": "p",
-                "x": "評価したすべての手法がPASTISよりPLANTEURで大幅に低いスコアとなり、どのモデルも学習で見ていない島でテストすると精度がおよそ半分に落ちる。PLANTEURはHugging FaceとGitHubで公開されている。"
+                "x": "“AIは実験に取って代わるものではないが、多数の候補となる変異体の中から有望なものをより速く選ぶ助けになる”とBozhüyükは語る。Nature Communications (2026), DOI: 10.1038/s41467-026-77963-6."
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ai2把作物制图基准\n扩展到热带",
-          "body": "PLANTEUR将PASTIS作物制图基准扩展到六个农业更多样的热带地区。",
-          "mini_headline": "热带作物基准",
+          "headline": "AI-designed酶部件\n在活细胞中发挥作用",
+          "body": "HIPS研究人员用AI设计了76个硫醇化结构域，部分产量最高提升至天然的三倍。",
+          "mini_headline": "AI设计酶部件",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792681400-planteur-tropical-regions-tan.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-aids-in-the-develop.jpg",
+                "cap": "Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77963-6"
               },
               {
                 "t": "p",
-                "x": "PASTIS是学界最受信赖的作物制图基准之一，但覆盖范围仅限法国本土。Ai2推出PLANTEUR，将PASTIS扩展到六个热带地区：Réunion、Guadeloupe、Martinique、Guyane、Mayotte和Saint-Martin。"
+                "x": "由Dr. Kenan Bozhüyük领导的Helmholtz Institute for Pharmaceutical Research Saarland（HIPS）研究人员利用AI为非核糖体肽合成酶（NRPS）开发了新型蛋白质构件。NRPS是一类酶复合体，如同分子装配线，负责合成众多抗生素、免疫抑制剂和抗癌药物背后的天然化合物。"
               },
               {
                 "t": "p",
-                "x": "它基于同一数据源——法国的Land Parcel Identification System——构建，包含2,750条已对齐的Sentinel-2、Sentinel-1和Landsat-8时间序列，以及覆盖七个作物类别、源自地块的4,506 km²标注，类别包括甘蔗、香蕉、菠萝和热带块茎作物。"
+                "x": "研究团队将多个预训练AI模型与实验相结合，设计了76个新的硫醇化结构域（T-domains）——即传递中间体的转运臂，构建了数百种NRPS变体，并在活细胞中进行了测试。"
               },
               {
                 "t": "p",
-                "x": "基线涵盖标准划分、留一岛（leave-one-island-out）划分、few-shot设置，以及在训练中加入PASTIS样本的设置。"
+                "x": "多个设计具有功能；其中一些与天然变体相比产量最高提升至三倍，至少有一个溶解性更好、热稳定性更高。关键在于让每个构件与其相邻区域相匹配。"
               },
               {
                 "t": "p",
-                "x": "所有被评估的方法在PLANTEUR上的得分都明显低于PASTIS，而且每个模型在训练中从未见过的岛屿上测试时，准确率都会下降约一半。PLANTEUR已在Hugging Face和GitHub上发布。"
+                "x": "Bozhüyük表示：“AI不会取代实验，但它能帮助我们更快地从众多可能的变体中挑选出有前景的候选。”Nature Communications (2026), DOI: 10.1038/s41467-026-77963-6."
               }
             ]
           }
         },
         "es": {
-          "headline": "Ai2 lleva al trópico los\nbenchmarks de mapeo de cultivos",
-          "body": "PLANTEUR lleva el benchmark PASTIS de mapeo de cultivos a seis regiones tropicales con agricultura más diversa.",
-          "mini_headline": "Benchmark de cultivos tropicales",
+          "headline": "Piezas enzimáticas AI-designed\nfuncionan en células vivas",
+          "body": "Investigadores de HIPS diseñaron con AI 76 dominios de tiolación; algunos elevaron el rendimiento hasta el triple.",
+          "mini_headline": "La AI diseña piezas de enzimas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1792681400-planteur-tropical-regions-tan.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-aids-in-the-develop.jpg",
+                "cap": "Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77963-6"
               },
               {
                 "t": "p",
-                "x": "PASTIS es uno de los benchmarks de mapeo de cultivos más confiables de la comunidad, pero su cobertura se limita a la Francia metropolitana. Ai2 presenta PLANTEUR, una extensión de PASTIS a seis regiones tropicales: Réunion, Guadeloupe, Martinique, Guyane, Mayotte y Saint-Martin."
+                "x": "Investigadores del Helmholtz Institute for Pharmaceutical Research Saarland (HIPS), dirigidos por el Dr. Kenan Bozhüyük, usaron AI para desarrollar nuevos bloques proteicos para las sintetasas de péptidos no ribosómicos (NRPS), complejos enzimáticos que funcionan como cadenas de montaje moleculares de compuestos naturales en los que se basan numerosos antibióticos, inmunosupresores y fármacos contra el cáncer."
               },
               {
                 "t": "p",
-                "x": "Construido a partir de la misma fuente, el Land Parcel Identification System de Francia, contiene 2,750 series temporales alineadas de Sentinel-2, Sentinel-1 y Landsat-8 y 4,506 km² de etiquetas derivadas de parcelas en siete clases de cultivo, entre ellas caña de azúcar, banano, piña y tubérculos tropicales."
+                "x": "Combinando varios modelos de AI preentrenados con experimentos, el equipo diseñó 76 nuevos dominios de tiolación (T-domains), los brazos de transporte que van pasando los intermediarios, produjo cientos de variantes de NRPS y las probó en células vivas."
               },
               {
                 "t": "p",
-                "x": "Las líneas base abarcan una partición estándar, una partición leave-one-island-out, una configuración few-shot y otra que incluye muestras de PASTIS en el entrenamiento."
+                "x": "Varios diseños fueron funcionales; algunos aumentaron el rendimiento hasta tres veces respecto a las variantes naturales, y al menos uno resultó más soluble y térmicamente más estable. Un factor clave fue adaptar cada bloque a sus regiones vecinas."
               },
               {
                 "t": "p",
-                "x": "Todos los métodos evaluados obtienen puntuaciones sustancialmente más bajas en PLANTEUR que en PASTIS, y todos los modelos pierden aproximadamente la mitad de su exactitud al probarse en una isla que nunca vieron en el entrenamiento. PLANTEUR está disponible en Hugging Face y GitHub."
+                "x": "“La AI no sustituye a los experimentos, pero nos ayuda a seleccionar candidatos prometedores con mayor rapidez entre muchas variantes posibles”, afirma Bozhüyük. Nature Communications (2026), DOI: 10.1038/s41467-026-77963-6."
               }
             ]
           }
@@ -1331,15 +1381,15 @@
       }
     },
     {
-      "id": "science-coatings-lab",
+      "id": "llm-empathy",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "로봇 실험실이\n내열 코팅을 찾는다",
-      "body": "Nottingham 로봇 실험실이 시료를 섞어 굽고 AI가 시험할 코팅을 고른다.",
-      "mini_headline": "내열 코팅 찾는 로봇 실험실",
       "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-10-ai-powered-robotic-laboratory-paves.html",
+      "eyebrow": "AI NEWS",
+      "headline": "LLM 공감의 뿌리는\n고객 상담 대화",
+      "body": "Georgia Tech는 Olmo 3의 사회적 추론이 FAQs에 기댄다고 봤다.",
+      "mini_headline": "LLM 공감은 어디서 오나",
+      "source": "Tech Xplore (Georgia Tech)",
+      "url": "https://techxplore.com/news/2026-10-neural-framework-llms-empathetic.html",
       "accent": "#eb367f",
       "motif": "sphere",
       "full": {
@@ -1347,155 +1397,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-powered-robotic-lab.jpg",
-            "cap": "Credit: University of Nottingham"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-framework.jpg",
+            "cap": "Credit: Unsplash/CC0 Public Domain"
           },
           {
             "t": "p",
-            "x": "University of Nottingham의 Center of Excellence in Coating and Surface Engineering 연구진이 자율 실험실을 꾸렸다. 로봇 팔 두 대와 특수 설계한 액체 분주 도구, 실험 장비, 전용 소프트웨어가 맞물려 화학 물질을 달아 섞고, 고온 노에서 처리한 뒤 시료를 꺼낸다."
+            "x": "Georgia Tech 연구진이 LLM으로 모델을 감사하는 신경망 프레임워크를 개발했다. 문서와 대화록 같은 여러 데이터 출처가 모델 출력에 얼마나 영향을 주는지 추정하는 도구로, 학습 데이터가 공감과 사회적 추론을 어떻게 빚어내는지 들여다보려고 만들었다."
           },
           {
             "t": "p",
-            "x": "AI-based 능동 학습 기법은 앞선 실험 결과를 보고 다음에 시험할 조성을 고르는 일을 돕는다. 연구팀은 이 방식으로 파이로클로어 결정 구조를 지닌 소재를 열 장벽 코팅 후보로 준비했다. 열 장벽 코팅은 항공우주 엔진 부품을 지키는 열 차폐막 역할을 한다."
+            "x": "주저자 Glenn Matlin은 “사회적 추론에 능한 모델은 인간 감정에 관한 교과서보다 FAQs나 고객 상담 대화에 더 많이 기댄다”고 말했다. 그는 “분노를 설명하는 글을 아무리 많이 읽어도, 상대가 화가 났는지 판단하는 데는 도움이 되지 않는다”고 했다."
           },
           {
             "t": "p",
-            "x": "“자율 실험실은 첨단 소재 개발 방식을 바꿀 잠재력이 있다”고 Tanvir Hussain 교수는 말한다. 연구 결과는 Engineering Applications of Artificial Intelligence (DOI 10.1016/j.engappai.2026.114993)에 실렸다."
+            "x": "감사 대상은 Ai2의 오픈소스 모델 Olmo 3로, 학습 데이터가 십억 건 넘는 문서로 이뤄져 있다. ChatGPT와 Claude는 학습 데이터를 공개하지 않는다. 지도교수(Adviser) Mark Riedl은 모델이 공감을 배우는 문서를 엔지니어들이 더 늘리거나 줄일 수 있다고 했다. 논문은 Conference on Language Modeling에서 발표됐다(arXiv, DOI: 10.48550/arxiv.2606.19625)."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A robotic lab hunts for\nheat-resistant coatings",
-          "body": "At Nottingham, a robotic lab mixes and fires samples while an active-learning AI picks pyrochlore coatings to test.",
-          "mini_headline": "Robot lab for hot coatings",
+          "headline": "LLM empathy traced back\nto customer-service chats",
+          "body": "Georgia Tech's provenance audit of Olmo 3 found social reasoning leans on dialogue like FAQs more than textbooks.",
+          "mini_headline": "Where LLM empathy comes from",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-powered-robotic-lab.jpg",
-                "cap": "Credit: University of Nottingham"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-framework.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Researchers at the University of Nottingham's Center of Excellence in Coating and Surface Engineering have built a self-driving laboratory. Two robotic arms, a specially designed liquid-dispensing tool, laboratory equipment and purpose-built software work together to measure and mix chemicals, carry out high-temperature furnace processing and retrieve samples."
+                "x": "Georgia Tech researchers have developed a neural framework that audits a model with an LLM and estimates the influence documents, transcripts and other data sources have on its output, to examine how training sources shape empathy and social reasoning."
               },
               {
                 "t": "p",
-                "x": "An AI-based active learning approach uses information from previous experiments to help identify which compositions to test next. The team used it to prepare candidate materials with the pyrochlore crystal structure as potential thermal barrier coatings, which act as protective heat shields for aerospace engine parts."
+                "x": "“Models that are good at social reasoning will rely less on textbooks about human emotions and more on FAQs or customer service dialogue,” said lead author Glenn Matlin. “It can read all it wants from texts that explain anger, but that wouldn't help it determine whether someone is angry.”"
               },
               {
                 "t": "p",
-                "x": "“Self-driving laboratories have the potential to change how advanced materials are developed,” says Professor Tanvir Hussain. The work is published in Engineering Applications of Artificial Intelligence (DOI 10.1016/j.engappai.2026.114993)."
+                "x": "The audit covered Ai2's open-source Olmo 3, whose training data comprises over a billion documents; ChatGPT and Claude do not disclose theirs. Adviser Mark Riedl said engineers could give a model more or fewer of the documents where it learns empathy. The paper was presented at the Conference on Language Modeling (arXiv, DOI: 10.48550/arxiv.2606.19625)."
               }
             ]
           }
         },
         "ko": {
-          "headline": "로봇 실험실이\n내열 코팅을 찾는다",
-          "body": "Nottingham 로봇 실험실이 시료를 섞어 굽고 AI가 시험할 코팅을 고른다.",
-          "mini_headline": "내열 코팅 찾는 로봇 실험실",
+          "headline": "LLM 공감의 뿌리는\n고객 상담 대화",
+          "body": "Georgia Tech는 Olmo 3의 사회적 추론이 FAQs에 기댄다고 봤다.",
+          "mini_headline": "LLM 공감은 어디서 오나",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-powered-robotic-lab.jpg",
-                "cap": "Credit: University of Nottingham"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-framework.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "University of Nottingham의 Center of Excellence in Coating and Surface Engineering 연구진이 자율 실험실을 꾸렸다. 로봇 팔 두 대와 특수 설계한 액체 분주 도구, 실험 장비, 전용 소프트웨어가 맞물려 화학 물질을 달아 섞고, 고온 노에서 처리한 뒤 시료를 꺼낸다."
+                "x": "Georgia Tech 연구진이 LLM으로 모델을 감사하는 신경망 프레임워크를 개발했다. 문서와 대화록 같은 여러 데이터 출처가 모델 출력에 얼마나 영향을 주는지 추정하는 도구로, 학습 데이터가 공감과 사회적 추론을 어떻게 빚어내는지 들여다보려고 만들었다."
               },
               {
                 "t": "p",
-                "x": "AI-based 능동 학습 기법은 앞선 실험 결과를 보고 다음에 시험할 조성을 고르는 일을 돕는다. 연구팀은 이 방식으로 파이로클로어 결정 구조를 지닌 소재를 열 장벽 코팅 후보로 준비했다. 열 장벽 코팅은 항공우주 엔진 부품을 지키는 열 차폐막 역할을 한다."
+                "x": "주저자 Glenn Matlin은 “사회적 추론에 능한 모델은 인간 감정에 관한 교과서보다 FAQs나 고객 상담 대화에 더 많이 기댄다”고 말했다. 그는 “분노를 설명하는 글을 아무리 많이 읽어도, 상대가 화가 났는지 판단하는 데는 도움이 되지 않는다”고 했다."
               },
               {
                 "t": "p",
-                "x": "“자율 실험실은 첨단 소재 개발 방식을 바꿀 잠재력이 있다”고 Tanvir Hussain 교수는 말한다. 연구 결과는 Engineering Applications of Artificial Intelligence (DOI 10.1016/j.engappai.2026.114993)에 실렸다."
+                "x": "감사 대상은 Ai2의 오픈소스 모델 Olmo 3로, 학습 데이터가 십억 건 넘는 문서로 이뤄져 있다. ChatGPT와 Claude는 학습 데이터를 공개하지 않는다. 지도교수(Adviser) Mark Riedl은 모델이 공감을 배우는 문서를 엔지니어들이 더 늘리거나 줄일 수 있다고 했다. 논문은 Conference on Language Modeling에서 발표됐다(arXiv, DOI: 10.48550/arxiv.2606.19625)."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ロボット実験室が\n耐熱コーティング探索",
-          "body": "Nottinghamのロボット実験室が試料を混ぜて焼成し、AIが試すコーティングを選ぶ。",
-          "mini_headline": "耐熱コーティングを探すロボット実験室",
+          "headline": "LLMの共感の源は\n顧客対応の会話",
+          "body": "Georgia TechはOlmo 3の社会的推論が教科書よりFAQsに頼ると示した。",
+          "mini_headline": "LLMの共感はどこから来るのか",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-powered-robotic-lab.jpg",
-                "cap": "Credit: University of Nottingham"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-framework.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "University of NottinghamのCenter of Excellence in Coating and Surface Engineeringの研究者が、自律型実験室を構築した。二本のロボットアーム、特別に設計された液体分注ツール、実験装置、専用ソフトウェアが連携し、化学物質の計量と混合、高温炉での処理、試料の回収を行う。"
+                "x": "Georgia Techの研究者らは、LLMでモデルを監査し、文書や会話記録などのデータ源が出力に与える影響を推定するニューラルフレームワークを開発した。学習データが共感や社会的推論をどう形づくるかを調べるためだ。"
               },
               {
                 "t": "p",
-                "x": "AI-basedの能動学習手法は、過去の実験から得た情報を使い、次に試すべき組成の特定を助ける。チームはこれを用いて、航空宇宙エンジン部品を守る熱シールドとして働く遮熱コーティングの候補として、パイロクロア結晶構造を持つ材料を作製した。"
+                "x": "“社会的推論が得意なモデルほど、人間の感情に関する教科書よりもFAQsや顧客対応の対話に頼る”と筆頭著者のGlenn Matlinは述べた。“怒りを説明する文章をいくら読んでも、相手が怒っているかどうかを見極める助けにはならない”"
               },
               {
                 "t": "p",
-                "x": "「自律型実験室は、先端材料の開発方法を変える可能性を持つ」とTanvir Hussain教授は言う。研究はEngineering Applications of Artificial Intelligence (DOI 10.1016/j.engappai.2026.114993)に掲載された。"
+                "x": "監査の対象は、学習データが十億件を超える文書からなるAi2のオープンソースモデルOlmo 3だ。ChatGPTとClaudeは学習データを開示していない。指導教員(Adviser)のMark Riedlは、モデルが共感を学ぶ文書をエンジニアが増やしたり減らしたりできると述べた。論文はConference on Language Modelingで発表された(arXiv, DOI: 10.48550/arxiv.2606.19625)。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "机器人实验室\n寻找耐高温涂层",
-          "body": "Nottingham的机器人实验室混合并烧制样品，主动学习AI则挑选待测的烧绿石涂层。",
-          "mini_headline": "寻找耐热涂层的机器人实验室",
+          "headline": "LLM的共情能力\n源自客服对话",
+          "body": "Georgia Tech对Olmo 3的审计发现，社会推理更依赖FAQs等对话而非教科书。",
+          "mini_headline": "LLM的共情从何而来",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-powered-robotic-lab.jpg",
-                "cap": "Credit: University of Nottingham"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-framework.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "University of Nottingham的Center of Excellence in Coating and Surface Engineering研究人员建成了一座自驱动实验室。两只机械臂、一款专门设计的液体分配工具、实验设备和专用软件协同工作，完成化学品的称量与混合、高温炉处理以及样品取回。"
+                "x": "Georgia Tech的研究人员开发了一个神经框架，用LLM对模型进行审计，估算文档、对话记录及其他数据源对模型输出的影响，以考察训练数据如何塑造共情与社会推理能力。"
               },
               {
                 "t": "p",
-                "x": "一种AI-based的主动学习方法利用以往实验的信息，帮助确定下一步要测试哪些成分。团队借此制备了具有烧绿石晶体结构的候选材料，作为潜在的热障涂层，这类涂层可充当航空航天发动机部件的防护隔热罩。"
+                "x": "“擅长社会推理的模型会更少依赖关于人类情绪的教科书，而更多依赖FAQs或客服对话，”第一作者Glenn Matlin表示，“它可以随意阅读解释愤怒的文本，但这并不能帮助它判断一个人是否在生气。”"
               },
               {
                 "t": "p",
-                "x": "“自驱动实验室有望改变先进材料的开发方式，”Tanvir Hussain教授说。该研究发表于Engineering Applications of Artificial Intelligence（DOI 10.1016/j.engappai.2026.114993）。"
+                "x": "此次审计针对的是Ai2的开源模型Olmo 3，其训练数据包含超过十亿份文档；ChatGPT和Claude则未公开各自的训练数据。导师（Adviser）Mark Riedl表示，工程师可以增加或减少模型学习共情所依赖的文档。该论文已在Conference on Language Modeling上发表（arXiv, DOI: 10.48550/arxiv.2606.19625）。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un laboratorio robótico busca\nrecubrimientos termorresistentes",
-          "body": "En Nottingham, un laboratorio robótico mezcla y hornea muestras y una AI elige qué recubrimientos de pirocloro probar.",
-          "mini_headline": "Un robot busca recubrimientos térmicos",
+          "headline": "La empatía de los LLM se remonta\na chats de atención al cliente",
+          "body": "Una auditoría de Georgia Tech sobre Olmo 3 halló que su razonamiento social se apoya más en FAQs que en manuales.",
+          "mini_headline": "De dónde viene la empatía de los LLM",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-powered-robotic-lab.jpg",
-                "cap": "Credit: University of Nottingham"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-framework.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Investigadores del Center of Excellence in Coating and Surface Engineering de la University of Nottingham han construido un laboratorio autónomo. Dos brazos robóticos, una herramienta de dispensación de líquidos diseñada especialmente, equipos de laboratorio y un software hecho a medida trabajan juntos para medir y mezclar sustancias químicas, procesar muestras en horno a alta temperatura y recuperarlas."
+                "x": "Investigadores de Georgia Tech han desarrollado un marco neuronal que audita un modelo con un LLM y estima la influencia que documentos, transcripciones y otras fuentes de datos tienen en sus respuestas, para examinar cómo las fuentes de entrenamiento moldean la empatía y el razonamiento social."
               },
               {
                 "t": "p",
-                "x": "Un enfoque AI-based de aprendizaje activo usa información de experimentos anteriores para ayudar a identificar qué composiciones probar a continuación. El equipo lo empleó para preparar materiales candidatos con la estructura cristalina de pirocloro como posibles recubrimientos de barrera térmica, que actúan como escudos protectores contra el calor en piezas de motores aeroespaciales."
+                "x": "“Los modelos que son buenos en razonamiento social dependerán menos de los libros de texto sobre emociones humanas y más de las FAQs o de los diálogos de atención al cliente”, dijo el autor principal, Glenn Matlin. “Puede leer todo lo que quiera de textos que explican la ira, pero eso no le ayudaría a determinar si alguien siente ira.”"
               },
               {
                 "t": "p",
-                "x": "“Los laboratorios autónomos tienen el potencial de cambiar cómo se desarrollan los materiales avanzados”, dice el profesor Tanvir Hussain. El trabajo se publica en Engineering Applications of Artificial Intelligence (DOI 10.1016/j.engappai.2026.114993)."
+                "x": "La auditoría abarcó Olmo 3, el modelo de código abierto de Ai2, cuyos datos de entrenamiento comprenden más de mil millones de documentos; ChatGPT y Claude no revelan los suyos. El asesor (Adviser) Mark Riedl dijo que los ingenieros podrían darle a un modelo más o menos documentos de aquellos con los que aprende empatía. El artículo se presentó en la Conference on Language Modeling (arXiv, DOI: 10.48550/arxiv.2606.19625)."
               }
             ]
           }
@@ -1503,109 +1553,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "로봇 실험실이\n내열 코팅을 찾는다",
-          "body": "Nottingham 로봇 실험실이 시료를 섞어 굽고 AI가 시험할 코팅을 고른다.",
-          "mini_headline": "내열 코팅 찾는 로봇 실험실",
+          "headline": "LLM 공감의 뿌리는\n고객 상담 대화",
+          "body": "Georgia Tech는 Olmo 3의 사회적 추론이 FAQs에 기댄다고 봤다.",
+          "mini_headline": "LLM 공감은 어디서 오나",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-powered-robotic-lab.jpg",
-                "cap": "Credit: University of Nottingham"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-framework.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "University of Nottingham의 Center of Excellence in Coating and Surface Engineering 연구진이 자율 실험실을 만들었다. 로봇 팔 두 대, 특수 설계한 액체 분주 도구, 실험 장비, 전용 소프트웨어가 함께 움직이며 화학 물질을 계량·혼합하고 고온 노 처리를 거쳐 시료를 회수한다."
+                "x": "Georgia Tech 연구진은 LLM으로 모델을 감사해 문서, 대화록 등 여러 데이터 출처가 모델 출력에 미치는 영향을 추정하는 신경망 프레임워크를 개발했다. 학습 데이터가 공감과 사회적 추론을 어떻게 형성하는지 살피기 위해서다."
               },
               {
                 "t": "p",
-                "x": "AI-based 능동 학습 기법은 이전 실험 정보를 바탕으로 다음에 시험할 조성을 찾도록 돕는다. 연구팀은 이를 활용해 항공우주 엔진 부품을 지키는 열 차폐막 역할을 하는 열 장벽 코팅 후보로, 파이로클로어 결정 구조를 지닌 소재를 준비했다."
+                "x": "주저자 Glenn Matlin은 “사회적 추론에 능한 모델은 인간 감정에 관한 교과서보다 FAQs나 고객 상담 대화에 더 많이 기댄다”고 말했다. 그는 “분노를 설명하는 글을 아무리 많이 읽어도, 상대가 화가 났는지 판단하는 데는 도움이 되지 않는다”고 했다."
               },
               {
                 "t": "p",
-                "x": "“자율 실험실은 첨단 소재 개발 방식을 바꿀 잠재력이 있다”고 Tanvir Hussain 교수는 말한다. 연구는 Engineering Applications of Artificial Intelligence (DOI 10.1016/j.engappai.2026.114993)에 실렸다."
+                "x": "감사 대상은 학습 데이터가 십억 건이 넘는 문서로 이뤄진 Ai2의 오픈소스 모델 Olmo 3였다. ChatGPT와 Claude는 학습 데이터를 공개하지 않는다. 지도교수(Adviser) Mark Riedl은 엔지니어들이 모델이 공감을 배우는 문서를 더 많이, 혹은 더 적게 줄 수 있다고 말했다. 논문은 Conference on Language Modeling에서 발표됐다(arXiv, DOI: 10.48550/arxiv.2606.19625)."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ロボット実験室が\n耐熱コーティング探索",
-          "body": "Nottinghamのロボット実験室が試料を混ぜて焼成し、AIが試すコーティングを選ぶ。",
-          "mini_headline": "耐熱コーティングを探すロボット実験室",
+          "headline": "LLMの共感の源は\n顧客対応の会話",
+          "body": "Georgia TechはOlmo 3の社会的推論が教科書よりFAQsに頼ると示した。",
+          "mini_headline": "LLMの共感はどこから来るのか",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-powered-robotic-lab.jpg",
-                "cap": "Credit: University of Nottingham"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-framework.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "University of NottinghamのCenter of Excellence in Coating and Surface Engineeringの研究者が、自律型実験室を構築した。二本のロボットアーム、特別に設計された液体分注ツール、実験装置、専用ソフトウェアが連携し、化学物質の計量と混合、高温炉での処理、試料の回収を行う。"
+                "x": "Georgia Techの研究者らは、LLMでモデルを監査し、文書や会話記録などのデータ源が出力に与える影響を推定するニューラルフレームワークを開発した。学習データが共感や社会的推論をどう形づくるかを調べるためだ。"
               },
               {
                 "t": "p",
-                "x": "AI-basedの能動学習手法は、過去の実験から得た情報を使い、次に試すべき組成の特定を助ける。チームはこれを用いて、航空宇宙エンジン部品を守る熱シールドとして働く遮熱コーティングの候補として、パイロクロア結晶構造を持つ材料を作製した。"
+                "x": "“社会的推論が得意なモデルほど、人間の感情に関する教科書よりもFAQsや顧客対応の対話に頼る”と筆頭著者のGlenn Matlinは述べた。“怒りを説明する文章をいくら読んでも、相手が怒っているかどうかを見極める助けにはならない”"
               },
               {
                 "t": "p",
-                "x": "「自律型実験室は、先端材料の開発方法を変える可能性を持つ」とTanvir Hussain教授は言う。研究はEngineering Applications of Artificial Intelligence (DOI 10.1016/j.engappai.2026.114993)に掲載された。"
+                "x": "監査の対象は、学習データが十億件を超える文書からなるAi2のオープンソースモデルOlmo 3だ。ChatGPTとClaudeは学習データを開示していない。指導教員(Adviser)のMark Riedlは、モデルが共感を学ぶ文書をエンジニアが増やしたり減らしたりできると述べた。論文はConference on Language Modelingで発表された(arXiv, DOI: 10.48550/arxiv.2606.19625)。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "机器人实验室\n寻找耐高温涂层",
-          "body": "Nottingham的机器人实验室混合并烧制样品，主动学习AI则挑选待测的烧绿石涂层。",
-          "mini_headline": "寻找耐热涂层的机器人实验室",
+          "headline": "LLM的共情能力\n源自客服对话",
+          "body": "Georgia Tech对Olmo 3的审计发现，社会推理更依赖FAQs等对话而非教科书。",
+          "mini_headline": "LLM的共情从何而来",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-powered-robotic-lab.jpg",
-                "cap": "Credit: University of Nottingham"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-framework.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "University of Nottingham的Center of Excellence in Coating and Surface Engineering研究人员建成了一座自驱动实验室。两只机械臂、一款专门设计的液体分配工具、实验设备和专用软件协同工作，完成化学品的称量与混合、高温炉处理以及样品取回。"
+                "x": "Georgia Tech的研究人员开发了一个神经框架，用LLM对模型进行审计，估算文档、对话记录及其他数据源对模型输出的影响，以考察训练数据如何塑造共情与社会推理能力。"
               },
               {
                 "t": "p",
-                "x": "一种AI-based的主动学习方法利用以往实验的信息，帮助确定下一步要测试哪些成分。团队借此制备了具有烧绿石晶体结构的候选材料，作为潜在的热障涂层，这类涂层可充当航空航天发动机部件的防护隔热罩。"
+                "x": "“擅长社会推理的模型会更少依赖关于人类情绪的教科书，而更多依赖FAQs或客服对话，”第一作者Glenn Matlin表示，“它可以随意阅读解释愤怒的文本，但这并不能帮助它判断一个人是否在生气。”"
               },
               {
                 "t": "p",
-                "x": "“自驱动实验室有望改变先进材料的开发方式，”Tanvir Hussain教授说。该研究发表于Engineering Applications of Artificial Intelligence（DOI 10.1016/j.engappai.2026.114993）。"
+                "x": "此次审计针对的是Ai2的开源模型Olmo 3，其训练数据包含超过十亿份文档；ChatGPT和Claude则未公开各自的训练数据。导师（Adviser）Mark Riedl表示，工程师可以增加或减少模型学习共情所依赖的文档。该论文已在Conference on Language Modeling上发表（arXiv, DOI: 10.48550/arxiv.2606.19625）。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un laboratorio robótico busca\nrecubrimientos termorresistentes",
-          "body": "En Nottingham, un laboratorio robótico mezcla y hornea muestras y una AI elige qué recubrimientos de pirocloro probar.",
-          "mini_headline": "Un robot busca recubrimientos térmicos",
+          "headline": "La empatía de los LLM se remonta\na chats de atención al cliente",
+          "body": "Una auditoría de Georgia Tech sobre Olmo 3 halló que su razonamiento social se apoya más en FAQs que en manuales.",
+          "mini_headline": "De dónde viene la empatía de los LLM",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-powered-robotic-lab.jpg",
-                "cap": "Credit: University of Nottingham"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-framework.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Investigadores del Center of Excellence in Coating and Surface Engineering de la University of Nottingham han construido un laboratorio autónomo. Dos brazos robóticos, una herramienta de dispensación de líquidos diseñada especialmente, equipos de laboratorio y un software hecho a medida trabajan juntos para medir y mezclar sustancias químicas, procesar muestras en horno a alta temperatura y recuperarlas."
+                "x": "Investigadores de Georgia Tech han desarrollado un marco neuronal que audita un modelo con un LLM y estima la influencia que documentos, transcripciones y otras fuentes de datos tienen en sus respuestas, para examinar cómo las fuentes de entrenamiento moldean la empatía y el razonamiento social."
               },
               {
                 "t": "p",
-                "x": "Un enfoque AI-based de aprendizaje activo usa información de experimentos anteriores para ayudar a identificar qué composiciones probar a continuación. El equipo lo empleó para preparar materiales candidatos con la estructura cristalina de pirocloro como posibles recubrimientos de barrera térmica, que actúan como escudos protectores contra el calor en piezas de motores aeroespaciales."
+                "x": "“Los modelos que son buenos en razonamiento social dependerán menos de los libros de texto sobre emociones humanas y más de las FAQs o de los diálogos de atención al cliente”, dijo el autor principal, Glenn Matlin. “Puede leer todo lo que quiera de textos que explican la ira, pero eso no le ayudaría a determinar si alguien siente ira.”"
               },
               {
                 "t": "p",
-                "x": "“Los laboratorios autónomos tienen el potencial de cambiar cómo se desarrollan los materiales avanzados”, dice el profesor Tanvir Hussain. El trabajo se publica en Engineering Applications of Artificial Intelligence (DOI 10.1016/j.engappai.2026.114993)."
+                "x": "La auditoría abarcó Olmo 3, el modelo de código abierto de Ai2, cuyos datos de entrenamiento comprenden más de mil millones de documentos; ChatGPT y Claude no revelan los suyos. El asesor (Adviser) Mark Riedl dijo que los ingenieros podrían darle a un modelo más o menos documentos de aquellos con los que aprende empatía. El artículo se presentó en la Conference on Language Modeling (arXiv, DOI: 10.48550/arxiv.2606.19625)."
               }
             ]
           }

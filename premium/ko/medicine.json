@@ -2405,6 +2405,122 @@
           "x": "Rivanna는 임상의가 초음파 영상으로 사지 골절 가능성을 가늠하도록 돕는 연구용 모듈도 개발 중이다. 이 작업에는 U.S. 생물의학첨단연구개발국(Biomedical Advanced Research and Development Authority)의 지원이 들어갔다고 회사는 밝혔다."
         }
       ]
+    },
+    "medicine/medicine-chatgpt5-fracture": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "골절이 있느냐고만 묻는 단일 이분형 프롬프트를 주자 ChatGPT-5는 일반 x-rays에서 원위 요골 골절의 약 절반을 놓쳤다. Haifa, Israel의 Rambam Health Care Campus 연구팀이 10월 26일 Emergency Radiology에 발표한 연구 결과다."
+        },
+        {
+          "t": "p",
+          "x": "연구진은 Stanford MURA 데이터셋의 원위 요골 전후면 x-rays 370장을 공개 웹 인터페이스로 ChatGPT-5에 zero-shot 방식으로 제출했다. 질문은 “이 X-ray에 골절이 있는가? yes 또는 no로 답하라.”였다."
+        },
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/chatgpt-fractures.umykcGJONV.jpg?auto=format%2Ccompress&fit=max&q=70&w=800",
+          "cap": "기준 표준과 비교한 ChatGPT-5의 대표 출력 사례. Emergency Radiology"
+        },
+        {
+          "t": "p",
+          "x": "분석 표본의 골절 유병률은 45.9%(170/370)였다. ChatGPT-5는 이 가운데 골절 83건을 놓쳤다. 민감도는 51.2%, 특이도는 70.5%, 전체 정확도는 61.6%. 위양성보다 위음성이 유의하게 많았다."
+        },
+        {
+          "t": "p",
+          "x": "연구진은 \"쉽게 말해, 범용 챗봇으로 방사선 사진에 골절이 있는지 판단해서는 안 된다\"고 적었다."
+        }
+      ]
+    },
+    "medicine/medicine-ich-triage": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "PHILADELPHIA -- 응급 환경에서 AI-based 트리아지 방식이 판독 소요 시간을 줄일 수 있다는 결과가 나왔다. Seattle의 University of Washington 소속 Ai Tong, PhD가 10월 27일 SIIM-CAIMI 2026 학술대회에서 발표했다."
+        },
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/img-7815.SDSxU6LNkw.jpg?auto=format%2Ccompress&fit=max&q=70&w=800",
+          "cap": "Ai Tong, PhD가 연구팀의 AI-based ICH 트리아지 활용 사례를 발표하는 모습."
+        },
+        {
+          "t": "p",
+          "x": "AI 트리아지 시스템은 NLP-derived ICH 라벨과 비교해 민감도 79.3%, 특이도 94.2%, F1 점수 0.78을 기록했다. ICH-positive 검사에서는 AI 트리아지를 쓰자 보고 소요 시간 중앙값이 214분에서 201분으로 줄었다(p = 0.03)."
+        },
+        {
+          "t": "p",
+          "x": "pre-AI 10,898건과 post-AI 9,317건의 응급 진료를 보면 AI-positive 사례는 입원까지 중앙값 423.5분이 걸려 AI-negative 사례(523.0분; p = 0.004)보다 짧았다."
+        },
+        {
+          "t": "p",
+          "x": "“이 [연구]는 초기 단계이며 상관관계만 보여준다”고 Tong은 말했다. 다만 AI 트리아지의 임상적 영향이 영상의학 효율을 넘어선다는 점을 이번 결과가 시사한다고 덧붙였다."
+        }
+      ]
+    },
+    "medicine/medicine-mmc-drift": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "임상 의료영상에 인공지능(AI)이 들어오면서 진단은 나아졌지만, 입력 데이터가 바뀌는 상황에서 장기적 신뢰성을 지키는 일이 새 과제로 떠올랐다. 연구진은 다중 모달 데이터 일치도(MMC)로 드리프트를 실시간 탐지하는 프레임워크 CheXstray를 바탕으로, 드리프트 모니터링을 확장할 수 있는 모듈형 프레임워크 MMC+를 내놨다."
+        },
+        {
+          "t": "p",
+          "x": "MMC+는 유연한 아키텍처 덕분에 실제 의료 현장에서도 비용을 아끼며 성능을 꾸준히 모니터링할 수 있다. 여러 데이터 스트림의 정보를 통계 검정이나 거리 지표로 종합하고 파운데이션 모델 임베딩을 써서 기관마다 인코더를 학습시킬 필요를 없앴다. 불확실성도 정량화해 드리프트가 얼마나 중요한지 더 잘 전달한다."
+        },
+        {
+          "t": "p",
+          "x": "COVID-19 팬데믹 기간 Massachusetts General Hospital 데이터로 검증하자 MMC+는 성능 변화와 상관관계가 있는 유의미한 데이터 변화를 효과적으로 잡아냈다. AI 시스템이 허용 가능한 성능 범위를 벗어날 수 있는 시점도 알려준다. MMC+의 코드는 공개돼 있어 임상 현장에서 AI 솔루션이 더 널리 쓰이는 데 보탬이 된다."
+        }
+      ]
+    },
+    "medicine/medicine-uhc-avery": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1635360990/UnitedHealthcare_sign.jpg/UnitedHealthcare_sign.jpg?VersionId=mRAMc4oGgCt6.6zJw_PKJwe2kXPjRXqW",
+          "cap": "UnitedHealthcare 최고데이터분석책임자 Craig Kurtzweil은 회원이 도구를 믿고 가장 효과적으로 쓰려면 정확성이 핵심이라고 말했다. (UnitedHealthcare)"
+        },
+        {
+          "t": "p",
+          "x": "UnitedHealthcare는 회원의 진료 조율을 돕는 생성형 AI 동반자 Avery를 올해 초 공개했다. 처음엔 고용주 플랜 회원 약 6.5M 명과 Medicare Advantage 가입자 160,000명만 쓸 수 있었는데, 이제 이용 대상이 회원 21M 명으로 넓어진다."
+        },
+        {
+          "t": "p",
+          "x": "회사에 따르면 Avery는 지금까지 회원 상호작용의 90%를 해결했다. 나머지 10%는 사람 상담원에게 넘겨 회원을 돕게 할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Kurtzweil은 Avery가 작동하는 핵심으로 \"ground truth systems\" 위에 구축됐다는 점을 꼽았다. 플랫폼에 중요한 데이터 기반을 만드는 시스템이다. Avery는 공제액, 본인부담 상한액, 의료기관 네트워크, 가격, 청구 처리 같은 주요 정보를 알려준다."
+        },
+        {
+          "t": "p",
+          "x": "팀은 회원 대신 의료기관에 전화해 예약을 잡는 기능을 비롯해 Avery에 기능을 계속 더하고 있다. UnitedHealthcare는 궁극적으로 모든 가입자가 이 도구를 쓰게 할 계획이다."
+        }
+      ]
+    },
+    "medicine/medicine-cari-heart": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cardiovascularbusiness.com/sites/default/files/styles/top_stories/public/2026-10/caristo_fai_used_in_first_us_study_since_fda_clearance.jpg.webp?itok=TH_ctwZ9",
+          "cap": "Caristo의 지방 감쇠 지수(FAI) 기반 AI-assessment는 CCTA 영상으로 관상동맥 염증을 평가해, 기존 심장 검사로는 안 보이던 환자의 잔여 심장 위험을 시각화한다."
+        },
+        {
+          "t": "p",
+          "x": "Caristo Diagnostics의 FDA-cleared 관상동맥 염증 탐지 기술 CaRi-Heart를 다룬 첫 U.S. 연구에서 증상 없는 성인 환자 상당수가 실제로는 심장 사건 위험이 높은 상태였다."
+        },
+        {
+          "t": "p",
+          "x": "Biograph 컨시어지 의료 클리닉이 진행한 이 연구는 예방 목적으로 찍은 심장 CT 영상에 Caristo의 지방 감쇠 지수(FAI) AI 알고리즘을 적용해 참가자의 42.9%에서 염증을 찾아냈다. 그중 17.9%는 주요 동맥 하나 이상의 염증 수준이 매우 높았다. 관상동맥 플라크가 없던 참가자도 약 47%는 관상동맥 주위 염증이 높았는데, 이런 염증은 심장 사건 위험을 끌어올린다."
+        },
+        {
+          "t": "p",
+          "x": "Biograph의 수석 의료 책임자 Michael Doney, MD는 “결정적으로, 일상적인 혈액 바이오마커나 지질 지표, 임상 위험 점수 가운데 어느 것도 관상동맥에 염증이 있는 이들을 가려내지 못했다”고 말했다. 이를 검증하고 FAI의 예후 가치를 확립하려면 추가 연구가 필요하다는 말도 덧붙였다."
+        },
+        {
+          "t": "p",
+          "x": "FDA는 7월 말 CaRi-Heart 기술에 de novo 시판 허가를 내줬다. FAI 점수로 관상동맥 염증을 시각화하고 명확히 정량화하는 기술로는 처음이다."
+        }
+      ]
     }
   }
 }

@@ -8795,6 +8795,148 @@
           "x": "LightShed Partners’ Rich Greenfield asked whether agents that cancel unused subscriptions pose a churn risk. Söderström replied that Spotify “will never bet on you forgetting about your subscription” and argued agents could instead help users see that Spotify is a better deal."
         }
       ]
+    },
+    "music/massivexl": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ta8fz7caVD724S33c2b4Wi.png"
+        },
+        {
+          "t": "p",
+          "x": "Released two decades ago this month, Native Instruments' Massive became one of the most influential soft synths of its era. Today NI unveils Massive's third generation, Massive XL, its most significant instrument release since it was acquired by inMusic earlier this year."
+        },
+        {
+          "t": "p",
+          "x": "It's the Generate function that's going to steal the headlines. This is an AI model, developed in-house by NI, that analyses any imported audio file and recreates it as a fully editable patch. You can select a slice of up to four seconds, and built-in stem separation lets you split a song into Vocals, Bass, Drums and Other first. Generate creates four different patches by default, each with six macro controls."
+        },
+        {
+          "t": "p",
+          "x": "Massive XL also inherits preset mutation from Absynth 6. You can now create your own wavetables by dragging-and-dropping any audio file or single-cycle waveform into the oscillator section, with more than 100 new wavetables, three new effects (Raum, Replika Shimmer and Tape Wobble) and polyphonic aftertouch support."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/S3nfz32mR8dY2EEakHB5j5.jpg"
+        },
+        {
+          "t": "p",
+          "x": "A free Massive XL Player is also available, while Massive X is being retired. Massive XL is available now for €199/$199/£179, with an introductory price of €99 / $99 / £89 from October 27 through December 31."
+        }
+      ]
+    },
+    "music/waveform": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2022/03/tracktion-waveform-14-1-ft-770x425.jpg"
+        },
+        {
+          "t": "p",
+          "x": "With the version 14.1 update, Tracktion Waveform Pro allows you to build your own instruments and effects with AI-assisted code generation. The free update also adds extended mix analysis tools and additional loudness metering functions to the Waveform Pro 14 platform, which launched earlier this year with an LLM-based AI Assistant."
+        },
+        {
+          "t": "p",
+          "x": "With the Assistant, you simply specify the type of plugin you require, and the DSP code is then built in the Cmajor programming language. The code is then compiled in the back end and inserted onto a track, with the instrument or effect ready to use."
+        },
+        {
+          "t": "video",
+          "yt": "acHyW6L9PSk"
+        },
+        {
+          "t": "p",
+          "x": "Troubleshooting is built in as self-healing code: build errors are detected and erroneous blocks recreated, resulting in a usable plugin without needing your input. The plugin's controls are fully automatable."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2022/03/tracktion-waveform-14-1-assistant-1024x565.jpg",
+          "cap": "Assistant · Source: Tracktion"
+        },
+        {
+          "t": "p",
+          "x": "New analysis and metering tools use the LLM engine to diagnose problems within the mix and export tracks at specific loudness targets. AI Profiles now let you use the assistant locally without the internet. The update is a free download via the Tracktion Download Manager."
+        }
+      ]
+    },
+    "music/edgedout": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-27T124653.395.png?fit=2000%2C1500&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Meta's efforts to make its Muse AI agent cuddly and friendly for non-tech folk is a plushy-style mascot called Jolly. Now independent label Edged Out Records has launched an inventive marketing campaign riffing off the character."
+        },
+        {
+          "t": "p",
+          "x": "Founder Mattske figured out that people can customise the mascot, but it's not necessarily obvious or easy. So, he came up with a costume of white hoodies and duct-tape pants based on the clobber worn by Pretty Boy Ghosts, one of the label's acts, in their new music video."
+        },
+        {
+          "t": "p",
+          "x": "“There is no app, no plugin, no integration. The costume is the images. Show them to your Muse and say ‘wear this for Halloween.’ That's the whole skill,” explains the costume's page on GitHub."
+        },
+        {
+          "t": "p",
+          "x": "This has now grown into a whole costume 'shop' – although everything is free – offering Halloween outfits for people's Muse avatars: from Dracula, a Mummy or Frankenstein's monster to Sherlock Holmes, Popeye and Betty Boop. Built by Koryuai, the tech division of Edged Out's parent company Liberty Rose Studios, the shop explains how people can create their own costumes too."
+        },
+        {
+          "t": "p",
+          "x": "“It is a tech solution, a toy for Muse users, and music marketing at once: the band wears the uniform in the video, the public's Muses wear it for Halloween, and every wearing promotes the song,” noted the label."
+        }
+      ]
+    },
+    "music/detectx": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.newdaily.co.kr/site/data/img/2026/10/27/2026102700388_0.jpg",
+          "cap": "DetectX developer and CEO Kim Yun-ki (right) and Vice President Song Hyun-ho. ⓒDetectX Inc."
+        },
+        {
+          "t": "p",
+          "x": "On the 26th, DetectX said its AI music verification technology, 'DetectX v.3.x', had been selected as the preferred bidder after a tender and competitive presentation evaluation by the 'K-Music Rights Organizations Coexistence Committee.' The committee plans to continue negotiations with DetectX with the aim of building a technical foundation for identifying AI-generated music and using the results in administrative work such as copyright registration and management."
+        },
+        {
+          "t": "p",
+          "x": "The K-Music Rights Organizations Coexistence Committee brings together six organizations: the Korea Music Copyright Association, the Korea Entertainment Producers' Association, the Federation of Korean Music Performers, the Recording Industry Association of Korea, the Hamkke Music Copyright Association and the Korea Popular Music Industry Association."
+        },
+        {
+          "t": "p",
+          "x": "Because misjudging whether music is AI-generated could infringe on human creators' rights or cause unnecessary disputes in copyright work, identification technology also needs to be reliable enough not to misclassify human-made music as AI work."
+        },
+        {
+          "t": "p",
+          "x": "DetectX said its technology is designed to cross-verify the results of multiple analysis engines. It applies a deterministic analysis method that reproduces the same result to three decimal places for the same input, with a focus on reducing false positives."
+        },
+        {
+          "t": "p",
+          "x": "DetectX CEO Kim Yun-ki said, \"The goal is not just to determine whether something is AI-generated, but to provide a technical basis that can also be referenced in copyright disputes and in registration and management.\" Vice President Song Hyun-ho said that \"AI should be used as a tool that helps creation, not as a means of infringing on human creators' rights.\""
+        }
+      ]
+    },
+    "music/music-suno-gong": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Suno-Menlo-Subpoena.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Suno investor Menlo Ventures has been slapped with a subpoena, and now former Menlo principal C.C. Gong is set to be deposed within 30 days over a tweet that could undermine the platform’s longstanding fair use defense."
+        },
+        {
+          "t": "p",
+          "x": "The testimony will center on a since-deleted tweet, posted by Gong in February 2026: “I’ve personally shifted most of my listening to Suno. I was so tired of Spotify giving me the same overplayed recommendations. When everyone can create, the catalog becomes infinite and music becomes more personalized.”"
+        },
+        {
+          "t": "p",
+          "x": "Universal Music and Sony Music say Menlo’s counsel informed them on October 12th “for the first time that Ms. Gong had left Menlo at the end of September,” prompting the newly approved deposition subpoena. Suno didn’t oppose it but noted a motion to quash could be forthcoming from Menlo and Gong."
+        },
+        {
+          "t": "p",
+          "x": "Suno has from the outset offered a fair use defense and attempted to refute the idea that its outputs are harming the market for actual music. Meanwhile, the majors are also pressing DistroKid over its AI-detection tool, and Suno and Udio are seeking DSP play-volume data from the Mechanical Licensing Collective."
+        }
+      ]
     }
   }
 }

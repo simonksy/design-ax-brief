@@ -9322,6 +9322,136 @@
           "x": "The authors call the findings hypothesis-generating: the agents were prompted, opinions used five categories, and the results do not show the same interventions would work for people."
         }
       ]
+    },
+    "science/spine": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus.jpg",
+          "cap": "Inside the ICARUS detector. Credit: CERN"
+        },
+        {
+          "t": "p",
+          "x": "Researchers at SLAC National Accelerator Laboratory have developed SPINE (Scalable Particle Imaging with Neural Embeddings), a machine-learning program that analyzes data from liquid argon time-projection chambers. It learns from simulated detector images to identify particles, trace their paths and piece together the interactions that produced them."
+        },
+        {
+          "t": "p",
+          "x": "Instead of a rigid chain of specialized algorithms, SPINE uses multiple machine-learning models that work together—first spotting basic features in the image, then identifying individual particles and finally piecing together the complete interaction. It is now deployed on eight detectors across approximately 25 institutions."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/icarus-1.jpg",
+          "cap": "ICARUS holds 760 tons of liquid argon. Credit: Al Johnson/Fermilab"
+        },
+        {
+          "t": "p",
+          "x": "In the first neutrino physics result from ICARUS, a search for sterile neutrinos via muon-neutrino disappearance (arXiv, DOI: 10.48550/arxiv.2603.22557), researchers found no evidence for such a signal. SPINE recovered roughly 60% more usable neutrino interactions than conventional reconstruction, with a cleaner sample, improved energy resolution and reduced systematic uncertainties."
+        },
+        {
+          "t": "p",
+          "x": "The team has trained SPINE models for the DUNE near and far detectors; for the near detector it is currently the only approach capable of handling hundreds of overlapping interactions. “We've built the tool. Now we get to see what it discovers,” said lead developer François Drielsma."
+        }
+      ]
+    },
+    "science/kls-conjecture": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-BlogHeroFeature-1400x788-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The Kannan–Lovász–Simonovits (KLS) conjecture, proposed in 1995, asks whether for a broad class of high-dimensional probability distributions the best hyperplane cut is always nearly as effective as the best cut of any shape. Two researchers, including Xinzhi Zhang of Microsoft Research, have proved it, showing the relationship holds with a fixed bound regardless of dimension."
+        },
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-illustration-scaled.png",
+          "cap": "Figure 1: An illustration of the KLS Conjecture (simplified) on regular tetrahedron."
+        },
+        {
+          "t": "p",
+          "x": "Working with AI agents in a structured, human-directed process, the authors explored more than 100 candidate approaches, producing a new criterion that could be applied recursively. Repeating the whole recursive refinement kept accumulated errors bounded by a universal constant, completing the proof in the October 4, 2026 version of the paper."
+        },
+        {
+          "t": "p",
+          "x": "A separate group posted a parallel full proof the same day, a third proof relies on a closely related idea, and a Lean 4 formalization followed. Unguided attempts with several leading AI models on roughly the same token budget fell short; success depended on both the AI systems and the researchers' mathematical judgment."
+        }
+      ]
+    },
+    "science/nrps-enzyme": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-aids-in-the-develop.jpg",
+          "cap": "Credit: Nature Communications (2026). DOI: 10.1038/s41467-026-77963-6"
+        },
+        {
+          "t": "p",
+          "x": "Researchers at the Helmholtz Institute for Pharmaceutical Research Saarland (HIPS), led by Dr. Kenan Bozhüyük, used AI to develop novel protein building blocks for non-ribosomal peptide synthetases (NRPS)—enzyme complexes that work like molecular assembly lines for natural compounds behind numerous antibiotics, immunosuppressants and cancer drugs."
+        },
+        {
+          "t": "p",
+          "x": "Combining several pretrained AI models with experiments, the team designed 76 new thiolation domains (T-domains), the transport arms that pass intermediates along, produced hundreds of NRPS variants and tested them in living cells."
+        },
+        {
+          "t": "p",
+          "x": "Several designs were functional; some increased the yield up to three times compared to natural variants, and at least one was more soluble and thermally more stable. A key factor was tailoring each building block to its neighboring regions."
+        },
+        {
+          "t": "p",
+          "x": "“AI does not replace experiments, but it helps us select promising candidates more quickly from among many possible variants,” says Bozhüyük. Nature Communications (2026), DOI: 10.1038/s41467-026-77963-6."
+        }
+      ]
+    },
+    "science/llm-empathy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/neural-framework.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Georgia Tech researchers have developed a neural framework that audits a model with an LLM and estimates the influence documents, transcripts and other data sources have on its output, to examine how training sources shape empathy and social reasoning."
+        },
+        {
+          "t": "p",
+          "x": "“Models that are good at social reasoning will rely less on textbooks about human emotions and more on FAQs or customer service dialogue,” said lead author Glenn Matlin. “It can read all it wants from texts that explain anger, but that wouldn't help it determine whether someone is angry.”"
+        },
+        {
+          "t": "p",
+          "x": "The audit covered Ai2's open-source Olmo 3, whose training data comprises over a billion documents; ChatGPT and Claude do not disclose theirs. Adviser Mark Riedl said engineers could give a model more or fewer of the documents where it learns empathy. The paper was presented at the Conference on Language Modeling (arXiv, DOI: 10.48550/arxiv.2606.19625)."
+        }
+      ]
+    },
+    "science/science-hydrogen-catalyst": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ahead-of-their-time.jpg",
+          "cap": "Schematic of the CarbonCat-LLMs framework, comparing accuracy and F1-score for GPT-4o models with and without few-shot training. Credit: ACS Catalysis"
+        },
+        {
+          "t": "p",
+          "x": "Researchers at the ARC Centre of Excellence for Carbon Science and Innovation used large language models to mine the scientific literature for promising electrocatalysts: carbon-supported high-entropy alloys for hydrogen production."
+        },
+        {
+          "t": "p",
+          "x": "The team manually assessed 100 examples of the AI's output to refine the system, which then extracted information from more than 5,000 research papers."
+        },
+        {
+          "t": "p",
+          "x": "When the system was restricted to knowledge available up to 2017, it flagged the alloy CrCoFeMnNi, which was subsequently reported experimentally as an early example of high-entropy alloys in hydrogen electrocatalysis."
+        },
+        {
+          "t": "p",
+          "x": "The study is computational, so the newly proposed candidate materials and any gains in hydrogen cost or performance remain unverified. The authors suggest the approach could extend to CO₂ reduction and, eventually, to discovering new reactions."
+        },
+        {
+          "t": "p",
+          "x": "The work, by Yiran Jiao et al., is published in ACS Catalysis (2026). DOI: 10.1021/acscatal.6c00635."
+        }
+      ]
     }
   }
 }

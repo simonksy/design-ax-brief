@@ -8182,6 +8182,148 @@
           "x": "Rich Greenfield, de LightShed Partners, preguntó si los agentes que cancelan suscripciones sin uso suponen un riesgo de bajas. Söderström respondió que Spotify “nunca apostará a que te olvides de tu suscripción” y sostuvo que los agentes podrían, en cambio, ayudar a los usuarios a ver que Spotify es una mejor opción."
         }
       ]
+    },
+    "music/massivexl": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ta8fz7caVD724S33c2b4Wi.png"
+        },
+        {
+          "t": "p",
+          "x": "Lanzado hace dos décadas este mes, Massive de Native Instruments se convirtió en uno de los sintetizadores de software más influyentes de su época. Hoy NI presenta la tercera generación de Massive, Massive XL, su lanzamiento de instrumento más importante desde que fue adquirida por inMusic a principios de este año."
+        },
+        {
+          "t": "p",
+          "x": "La función Generate es la que acaparará los titulares. Se trata de un modelo de IA desarrollado internamente por NI que analiza cualquier archivo de audio importado y lo recrea como un patch totalmente editable. Se puede seleccionar un fragmento de hasta cuatro segundos, y la separación de stems integrada permite dividir antes una canción en Vocals, Bass, Drums y Other. Generate crea por defecto cuatro patches distintos, cada uno con seis controles macro."
+        },
+        {
+          "t": "p",
+          "x": "Massive XL también hereda la mutación de presets de Absynth 6. Ahora se pueden crear wavetables propias arrastrando y soltando cualquier archivo de audio o forma de onda de ciclo único en la sección de osciladores, y se suman más de 100 wavetables nuevas, tres efectos nuevos (Raum, Replika Shimmer y Tape Wobble) y compatibilidad con aftertouch polifónico."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/S3nfz32mR8dY2EEakHB5j5.jpg"
+        },
+        {
+          "t": "p",
+          "x": "También hay disponible un Massive XL Player gratuito, mientras que Massive X se retira. Massive XL ya está disponible por €199/$199/£179, con un precio de lanzamiento de €99 / $99 / £89 del 27 de octubre al 31 de diciembre."
+        }
+      ]
+    },
+    "music/waveform": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2022/03/tracktion-waveform-14-1-ft-770x425.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Con la actualización a la versión 14.1, Tracktion Waveform Pro permite crear instrumentos y efectos propios mediante generación de código asistida por IA (AI-assisted). La actualización gratuita también añade herramientas ampliadas de análisis de mezcla y funciones adicionales de medición de sonoridad a la plataforma Waveform Pro 14, lanzada a principios de este año con un AI Assistant basado en LLM (LLM-based)."
+        },
+        {
+          "t": "p",
+          "x": "Con el Assistant basta con indicar el tipo de plugin que se necesita, y el código DSP se genera en el lenguaje de programación Cmajor. Después, el código se compila en segundo plano y se inserta en una pista, con el instrumento o efecto listo para usar."
+        },
+        {
+          "t": "video",
+          "yt": "acHyW6L9PSk"
+        },
+        {
+          "t": "p",
+          "x": "La resolución de problemas está integrada en forma de código autorreparable: se detectan los errores de compilación y se recrean los bloques erróneos, de modo que se obtiene un plugin utilizable sin intervención del usuario. Los controles del plugin son totalmente automatizables."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2022/03/tracktion-waveform-14-1-assistant-1024x565.jpg",
+          "cap": "Assistant · Fuente: Tracktion"
+        },
+        {
+          "t": "p",
+          "x": "Las nuevas herramientas de análisis y medición usan el motor LLM para diagnosticar problemas en la mezcla y exportar pistas con objetivos de sonoridad específicos. Los AI Profiles permiten ahora usar el asistente de forma local sin conexión a internet. La actualización se descarga gratis a través de Tracktion Download Manager."
+        }
+      ]
+    },
+    "music/edgedout": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-27T124653.395.png?fit=2000%2C1500&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "La apuesta de Meta para que su agente de IA Muse resulte tierno y cercano para el público no técnico es una mascota de estilo peluche llamada Jolly. Ahora el sello independiente Edged Out Records ha lanzado una ingeniosa campaña de marketing que juega con el personaje."
+        },
+        {
+          "t": "p",
+          "x": "Su fundador, Mattske, se dio cuenta de que la gente puede personalizar la mascota, pero no resulta necesariamente obvio ni fácil. Así que ideó un disfraz de sudaderas blancas con capucha y pantalones de cinta adhesiva basado en la ropa que lleva Pretty Boy Ghosts, uno de los grupos del sello, en su nuevo videoclip."
+        },
+        {
+          "t": "p",
+          "x": "“No hay app, ni plugin, ni integración. El disfraz son las imágenes. Muéstraselas a tu Muse y dile ‘ponte esto para Halloween’. Esa es toda la habilidad”, explica la página del disfraz en GitHub."
+        },
+        {
+          "t": "p",
+          "x": "Esto se ha convertido ya en toda una 'tienda' de disfraces —aunque todo es gratis— que ofrece atuendos de Halloween para los avatares de Muse de la gente: desde Drácula, una momia o el monstruo de Frankenstein hasta Sherlock Holmes, Popeye y Betty Boop. Creada por Koryuai, la división tecnológica de Liberty Rose Studios, empresa matriz de Edged Out, la tienda explica también cómo crear disfraces propios."
+        },
+        {
+          "t": "p",
+          "x": "“Es a la vez una solución tecnológica, un juguete para los usuarios de Muse y marketing musical: la banda lleva el uniforme en el video, las Muses del público lo llevan en Halloween y cada vez que alguien se lo pone promociona la canción”, señaló el sello."
+        }
+      ]
+    },
+    "music/detectx": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.newdaily.co.kr/site/data/img/2026/10/27/2026102700388_0.jpg",
+          "cap": "El desarrollador y director ejecutivo de DetectX, Kim Yun-ki (derecha), y el vicepresidente Song Hyun-ho. ⓒDetectX Inc."
+        },
+        {
+          "t": "p",
+          "x": "El día 26, DetectX anunció que su tecnología de verificación de música con IA, 'DetectX v.3.x', fue seleccionada como socio preferente de negociación tras la licitación y la evaluación de presentaciones competitivas del 'Comité de Coexistencia de Entidades de Derechos de la Música K'. El comité prevé seguir negociando con DetectX con el objetivo de sentar una base técnica para identificar música generada por IA y utilizar los resultados en tareas administrativas como el registro y la gestión de derechos de autor."
+        },
+        {
+          "t": "p",
+          "x": "En el Comité de Coexistencia de Entidades de Derechos de la Música K participan seis entidades: la Asociación de Derechos de Autor Musicales de Corea, la Asociación de Productores de Entretenimiento de Corea, la Federación de Intérpretes Musicales de Corea, la Asociación de la Industria Discográfica de Corea, la Asociación de Derechos de Autor Musicales Hamkke y la Asociación de la Industria de la Música Popular de Corea."
+        },
+        {
+          "t": "p",
+          "x": "Un error al determinar si una obra fue generada por IA podría vulnerar los derechos de los creadores humanos o causar disputas innecesarias en la gestión de derechos de autor, por lo que la tecnología de identificación también debe ser fiable y no clasificar por error música creada por personas como obra de IA."
+        },
+        {
+          "t": "p",
+          "x": "DetectX explicó que su tecnología está diseñada para verificar de forma cruzada los resultados de varios motores de análisis. Según la empresa, aplica un método de análisis determinista que reproduce el mismo resultado hasta el tercer decimal para una misma entrada y se centra en reducir los falsos positivos (False Positive)."
+        },
+        {
+          "t": "p",
+          "x": "El director ejecutivo de DetectX, Kim Yun-ki, afirmó que \"el objetivo no es solo determinar si algo fue generado por IA, sino ofrecer una base técnica que también sirva de referencia en disputas de derechos de autor y en los procesos de registro y gestión\". El vicepresidente Song Hyun-ho sostuvo que \"la IA debe usarse como una herramienta que ayude a la creación, no como un medio para vulnerar los derechos de los creadores humanos\"."
+        }
+      ]
+    },
+    "music/music-suno-gong": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Suno-Menlo-Subpoena.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Menlo Ventures, inversora de Suno, recibió una citación, y ahora la ex principal de Menlo C.C. Gong deberá declarar en un plazo de 30 días por un tuit que podría debilitar la defensa de uso legítimo (fair use) que la plataforma sostiene desde hace tiempo."
+        },
+        {
+          "t": "p",
+          "x": "La declaración girará en torno a un tuit ya borrado que Gong publicó en febrero de 2026: “Personalmente he trasladado la mayor parte de lo que escucho a Suno. Estaba harta de que Spotify me diera las mismas recomendaciones trilladas. Cuando todos pueden crear, el catálogo se vuelve infinito y la música, más personalizada.”"
+        },
+        {
+          "t": "p",
+          "x": "Universal Music y Sony Music afirman que los abogados de Menlo les informaron el 12 de octubre, “por primera vez, de que Ms. Gong había dejado Menlo a finales de septiembre”, lo que motivó la nueva citación para declarar, ya aprobada. Suno no se opuso, pero señaló que Menlo y Gong podrían presentar una moción para anularla."
+        },
+        {
+          "t": "p",
+          "x": "Desde el principio, Suno ha alegado uso legítimo y ha intentado rebatir la idea de que sus creaciones perjudican el mercado de la música real. Mientras tanto, las grandes discográficas también presionan a DistroKid por su herramienta de AI-detection, y Suno y Udio piden al Mechanical Licensing Collective datos de volumen de reproducciones de los DSP."
+        }
+      ]
     }
   }
 }
