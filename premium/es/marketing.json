@@ -2739,6 +2739,139 @@
           "x": "Muy interesante..."
         }
       ]
+    },
+    "marketing/metaranking": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/targeting-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meta ya puntúa cada anuncio elegible en cada impresión a un ritmo de más de mil millones de anuncios por segundo, una de las tres mejoras de ranking publicitario que Meta anunció el miércoles. Las otras son una actualización de GEM, el modelo de recomendación de anuncios que presentó el año pasado, y un nuevo modelo de recomendaciones generativas (GenRecs) basado en LLMs, capaz de predecir qué anuncios querrá ver la gente incluso con pocos datos de interacción."
+        },
+        {
+          "t": "p",
+          "x": "Según Meta, las mejoras de su sistema de ranking generaron un 8.3% más de clics y un aumento del 15.7% en conversiones en Facebook en el Q2."
+        },
+        {
+          "t": "p",
+          "x": "GenRecs sustituye los IDs de anunciante, campaña y creatividad por conceptos: los LLMs leen el texto y las imágenes de un anuncio y lo describen por sus atributos clave mediante tokens semánticos compartidos. Eso alivia el problema del arranque en frío y acorta la fase de aprendizaje. “Todavía hay que aprender”, dijo Matt Steiner, VP de infraestructura de anuncios, ranking y fundamentos de AI en Meta."
+        },
+        {
+          "t": "p",
+          "x": "GenRecs también impulsa un nuevo modelo de recuperación generativa que funciona en paralelo con el original, mientras que Andromeda recibió una renovación de hardware y software gracias a la alianza de Meta con Nvidia. El nuevo GEM es más grande y lee un historial el doble de largo de cada usuario; Meta afirma que el enfoque ha logrado una mejora de alrededor del 19% en conversiones desde el año pasado."
+        },
+        {
+          "t": "p",
+          "x": "“La importancia de la segmentación disminuye con el tiempo a medida que los modelos de ranking mejoran al elegir para quién sería relevante un anuncio”, dijo Steiner."
+        }
+      ]
+    },
+    "marketing/stackadapt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/stackadapt-chatgpt-ads-ctv-retargeting-sealed-cabinet-orange-thread.jpg"
+        },
+        {
+          "t": "p",
+          "x": "StackAdapt anunció la ampliación del retargeting multicanal para ChatGPT Ads. “Los anunciantes pueden hacer retargeting a los consumidores que vieron un ChatGPT Ad en todo el ecosistema programático más amplio de StackAdapt”, señala el comunicado: el detonante es una visualización, no un clic. Los segmentos se gestionan en su Data Hub junto con datos propios e integraciones de CRM."
+        },
+        {
+          "t": "p",
+          "x": "El comunicado es breve. No menciona mercados de lanzamiento, precios, identificadores, clientes ni resultados. Tampoco explica cómo se registra una visualización dentro de ChatGPT y cómo se vincula después con una persona en un televisor o en una página web."
+        },
+        {
+          "t": "p",
+          "x": "Yang Han, cofundador y director de tecnología de StackAdapt, es la única persona citada; no se cita a ningún directivo de OpenAI. OpenAI afirma que los anunciantes solo reciben información agregada sobre el rendimiento de sus anuncios, y en el EEA y Suiza los anuncios se lanzaron sin personalización."
+        },
+        {
+          "t": "p",
+          "x": "La mayoría de las herramientas de OpenAI han llevado datos de los anunciantes a ChatGPT; el comunicado de StackAdapt describe el flujo contrario. El 21 de octubre, OpenAI extendió los anuncios de ChatGPT a 26 países más, hasta un total de 89."
+        }
+      ]
+    },
+    "marketing/adexfraud": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/adex-ai-ad-fraud-52-percent-bots-posing-as-humans-cardboard-shoppers.jpg"
+        },
+        {
+          "t": "p",
+          "x": "ADEX, una empresa que revisa anuncios para detectar estafas, afirma que la AI tuvo un papel importante en el 52% de los esquemas de fraude que identificó entre enero y septiembre de 2026, en 1.2 millones de campañas de ocho plataformas publicitarias. La cifra cuenta esquemas de fraude distintos, no campañas ni cuentas."
+        },
+        {
+          "t": "p",
+          "x": "Entre los esquemas en los que intervino la AI, aparecieron bots que se hacían pasar por humanos en el 64%, marcas clonadas y falsos respaldos en el 53%, y deepfakes en el 11%. Las categorías se solapan."
+        },
+        {
+          "t": "p",
+          "x": "“El esquema en sí no ha cambiado en años: tomar prestado un rostro de confianza, prometer grandes rendimientos, llevar a la víctima a un chat privado. Lo que la AI cambió es el acabado”, dijo Sergey Martianov, director de producto de ADEX. Versiones revisadas de campañas rechazadas volvían a veces en cuestión de horas."
+        },
+        {
+          "t": "p",
+          "x": "De cara a 2027, ADEX prevé ataques de inyección de prompts contra agentes de compra con AI: “un pronóstico más que una categoría de ataque que hoy se mida en sus datos de moderación”. “Si un agente hace las compras, alguien intentará estafar al agente”, dijo Martianov."
+        }
+      ]
+    },
+    "marketing/clorox": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/7Glm-TBBKFvq7ratAT-TPOOhe8nVmL7QBCpEDNv8X3w/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU0MwMTE5MS5qcGc=.webp",
+          "cap": "Eric Schwartz, CMO de The Clorox Company, interviene en la conferencia ANA Masters of Marketing el 22 de octubre. Permiso concedido por ANA"
+        },
+        {
+          "t": "p",
+          "x": "En la conferencia ANA Masters of Marketing del 22 de octubre, el CMO de Clorox, Eric Schwartz, dijo que las campañas han sido reemplazadas por sistemas de relevancia continua, construidos con un motor impulsado por personas, habilitado por la automatización con AI y amplificado por socios. “No se trata de aparecer una vez con una gran idea”, afirmó."
+        },
+        {
+          "t": "p",
+          "x": "El universo social-first “OMG Da Pine” de Pine-Sol promedia más de 150 publicaciones orgánicas al mes y una tasa de interacción del 13%, y lanzó en TikTok Shop cuatro productos de edición limitada que se agotaron en horas."
+        },
+        {
+          "t": "p",
+          "x": "El modelo de contenido de alto volumen de Brita produce más de 100 piezas al mes; sus esfuerzos generaron 22 millones de interacciones y un aumento interanual del 1,742% en impresiones orgánicas."
+        },
+        {
+          "t": "p",
+          "x": "Para Clorox Pure, la AI permitió a la empresa usar señales del mercado para optimizar la creatividad publicitaria sin el coste de una nueva sesión de fotos. El momento ranch de Hidden Valley en el Mundial generó más de 600 piezas de contenido social y más de 6 mil millones de impresiones."
+        },
+        {
+          "t": "p",
+          "x": "“El contenido ya no está terminado en el lanzamiento. Está hecho para seguir mejorando”, dijo Schwartz."
+        }
+      ]
+    },
+    "marketing/metaaiads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/resemble-ai-meta-ads-ai-disclosure-masked-faces-skyscraper.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Resemble AI, una empresa de Mountain View que vende software para detectar medios sintéticos, publicó el 22 de octubre de 2026 un estudio que analizó 37,768 archivos de imagen y video de anuncios de Facebook e Instagram y marcó 3,379 de ellos como AI-generated (generados por IA) o manipulados. Eso es el 8.9%, aproximadamente un archivo de cada 11. De esos 3,379 archivos, dos mencionaban la IA en alguna parte del texto del anuncio."
+        },
+        {
+          "t": "p",
+          "x": "El 2026 Synthetic Advertising Report abarca 509 empresas de 26 sectores, con anuncios recopilados en el archivo público de Meta en septiembre de 2026. El 70% de las falsificaciones eran fotorrealistas y el 46% mostraba a una persona. Ninguno de los 971 archivos revisados en busca de metadatos de procedencia contenía credenciales de contenido C2PA."
+        },
+        {
+          "t": "p",
+          "x": "En las páginas propias de las marcas se marcaron 1,971 de 28,463 archivos (6.9%). Temu usó IA en 64 de 100 archivos de la muestra, Wayfair en 56 de 100, Motel 6 en 50 de 80 y Lufthansa en 50 de 94. Las páginas cebo publicaron 649 archivos, de los cuales 463 (71.3%) fueron marcados. \"Las marcas falsean el acabado. Las páginas cebo falsean a las personas.\""
+        },
+        {
+          "t": "p",
+          "x": "Solo una marca lo declaró en su propio anuncio: Turkish Airlines. La búsqueda en el texto no puede ver las etiquetas incrustadas en el propio video, por lo que la cifra del 0.06% mide solo la divulgación escrita."
+        },
+        {
+          "t": "p",
+          "x": "La ley de New York sobre divulgación de intérpretes sintéticos se aplica desde el 9 de junio de 2026, y el Article 50 (artículo 50) de la EU AI Act, desde el 2 de agosto de 2026. El informe es además obra de un proveedor con un interés comercial directo en la respuesta."
+        }
+      ]
     }
   }
 }

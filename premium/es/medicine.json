@@ -2521,6 +2521,148 @@
           "x": "La FDA otorgó la autorización de comercialización de novo a la tecnología CaRi-Heart a finales de julio. Es la primera tecnología capaz de visualizar y cuantificar con claridad la inflamación coronaria mediante puntuaciones FAI."
         }
       ]
+    },
+    "medicine/medicine-ed-fracture-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los sistemas de inteligencia artificial (AI) para detectar fracturas rinden bien en entornos controlados, pero la evidencia prospectiva en condiciones reales es limitada. En un despliegue de tres meses en un servicio de urgencias, trece radiógrafos de un programa de cribado dirigido por radiógrafos interpretaron de forma independiente 2496 exámenes musculoesqueléticos consecutivos (un radiógrafo por examen), revisaron el resultado de un sistema comercial de aprendizaje profundo y luego registraron una decisión final, lo que dio 2496 lecturas pareadas frente a un estándar de referencia de radiólogos."
+        },
+        {
+          "t": "p",
+          "x": "La sensibilidad de la AI por sí sola fue del 75.6%, y cayó al 46.2% en fracturas sutiles, por debajo de la sensibilidad basal de los radiógrafos, del 91.6%. La exactitud basal de los radiógrafos fue alta (97.6%; especificidad 99.0%) y mejoró ligeramente con la ayuda de la AI (98.0%; exact McNemar p = 0.0064). Con la ayuda de la AI, los radiógrafos corrigieron 11 errores e introdujeron 1, una ganancia neta de 10 casos."
+        },
+        {
+          "t": "p",
+          "x": "Los radiógrafos cambiaron su decisión en solo 11 de 729 casos discordantes, y la mayoría de las interacciones negativas fueron recomendaciones correctas de la AI que no se adoptaron. En el 8.8% de los exámenes adquiridos, la AI no devolvió resultado o lo devolvió incompleto."
+        },
+        {
+          "t": "p",
+          "x": "La ayuda de la AI aportó un beneficio pequeño y selectivo, derivado de un rendimiento algorítmico complementario y no superior. La fiabilidad operativa resultó tan determinante como la precisión diagnóstica. No se midieron los resultados clínicos posteriores."
+        }
+      ]
+    },
+    "medicine/medicine-stanford-critical-results": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Stanford Health desarrolló un pipeline propio de modelo de lenguaje grande para señalar resultados críticos en informes de radiología pediátrica, presentado por Pooja Pathak en SIIM-CAIMI 2026, en Philadelphia."
+        },
+        {
+          "t": "p",
+          "x": "El pipeline abarca seis categorías: aumento de la presión intracraneal, traumatismo no accidental, sondas de alimentación mal colocadas, neumoperitoneo no sospechado, gas venoso portal y neumotórax a tensión. Funciona localmente sobre Llama 3.3 (70B), de modo que ningún dato sale de la institución y no se necesita ninguna herramienta comercial."
+        },
+        {
+          "t": "p",
+          "x": "En la validación con 916 informes alcanzó un 99.7% de sensibilidad y un 97.9% de especificidad. Entre agosto de 2024 y julio de 2026 señaló 1,297 resultados críticos entre 182,047 informes finalizados; las sondas de alimentación mal colocadas fueron las más frecuentes."
+        },
+        {
+          "t": "p",
+          "x": "Los tiempos de respuesta y la documentación de la comunicación se mantuvieron estables durante el despliegue. El trabajo futuro se centrará en hacer el pipeline más sensible al contexto y en probar modelos más recientes."
+        }
+      ]
+    },
+    "medicine/medicine-ajou-thync": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/26/2d4ed042-311f-4f77-8564-854751c83558.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Daewoong Pharmaceutical implantó en el Hospital Universitario Ajou un sistema de monitorización de camas en tiempo real basado en AI. La empresa informó el día 26 que suministró su sistema inteligente de monitorización de camas thynC y que comenzó a operarlo en 342 camas de 7 salas."
+        },
+        {
+          "t": "p",
+          "x": "El hospital comenzó por las salas de cirugía torácica y cardiología y amplió el uso de thynC a la sala de urgencias y a las salas del servicio integrado de enfermería y cuidados. Con base en los resultados actuales, prevé estudiar su ampliación a un máximo de 1100 camas."
+        },
+        {
+          "t": "p",
+          "x": "La implantación se centra en detectar con rapidez los cambios en el estado de los pacientes con enfermedades graves y de quienes requieren observación intensiva antes y después de una cirugía. El objetivo es apoyar la atención del personal médico mediante la vigilancia continua de los signos vitales, también en las salas generales."
+        },
+        {
+          "t": "p",
+          "x": "thynC mide en tiempo real, mediante un biosensor portátil que lleva el paciente, el electrocardiograma, la frecuencia cardiaca, el pulso, la frecuencia respiratoria y la saturación de oxígeno, entre otros. Ofrece detección y clasificación de caídas y arritmias urgentes con AI y, si detecta una anomalía, muestra una alarma en la pantalla de monitorización de la sala para ayudar al personal médico a responder."
+        },
+        {
+          "t": "p",
+          "x": "Los principales datos vitales se vinculan con la historia clínica electrónica (EMR), que registra automáticamente los valores más recientes cada 60 segundos. Esto reduce la carga de la introducción manual repetitiva para el personal médico y permite consultar y guardar en forma de informe los signos vitales y los eventos de electrocardiograma medidos durante la hospitalización."
+        },
+        {
+          "t": "p",
+          "x": "El Hospital Universitario Ajou empezó el año pasado a instalar equipos y a construir la infraestructura, y hasta agosto de este año realizó ajustes de optimización adaptados a la práctica clínica. Desde septiembre amplió la operación con foco en cirugía torácica y cardiología, y este mes extendió su alcance a la sala de urgencias y a las salas del servicio integrado de enfermería y cuidados."
+        },
+        {
+          "t": "p",
+          "x": "También se montó un sistema de monitorización inalámbrica con medidores portátiles y pasarelas fijas en las salas. Como los signos vitales pueden verse incluso mientras el paciente se desplaza por la sala, se utiliza para observar a pacientes cardiovasculares antes y después de la cirugía y para atender a pacientes de la sala de urgencias."
+        },
+        {
+          "t": "p",
+          "x": "Han Sang-wook, director del Centro Médico de la Universidad Ajou, dijo: “Esperamos reforzar aún más la seguridad del paciente, ya que podemos verificar en tiempo real los principales signos vitales de los pacientes hospitalizados y detectar anomalías de forma temprana”. Añadió: “Con base en los resultados de las 342 camas que operan hoy, también estudiamos ampliar la implantación a las 1100 camas en total, y seguiremos aprovechando la tecnología digital para crear un entorno asistencial más seguro e inteligente”."
+        },
+        {
+          "t": "p",
+          "x": "Daewoong Pharmaceutical está ampliando la creación de salas inteligentes con thynC, sobre todo en hospitales generales de nivel superior y en grandes hospitales de referencia regionales. Según la empresa, a octubre de este año el sistema se había instalado en 218 instituciones médicas de todo el país, con un acumulado de 2만54 camas. Prevé apoyar la operación sobre el terreno con guías de uso adaptadas a las características de los pacientes y al entorno de cada institución."
+        },
+        {
+          "t": "p",
+          "x": "Lee Chang-jae, director ejecutivo de Daewoong Pharmaceutical, dijo: “Es significativo participar en la creación de salas inteligentes que refuerzan la seguridad del paciente suministrando thynC al Hospital Universitario Ajou, que desempeña un papel central en la atención grave y de urgencias del sur de Gyeonggi”. Añadió: “Seguiremos reforzando la cooperación con el Hospital Universitario Ajou y apoyando la transformación digital de las instituciones médicas del sur de Gyeonggi y la creación de entornos asistenciales centrados en el paciente”."
+        }
+      ]
+    },
+    "medicine/medicine-ut-dell-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/ut_dmc_rendering_1.jpg?VersionId=ipR9dxmEbapX6RJmPIKHwO084YfVjNe.",
+          "cap": "El UT Dell Medical Center, cuya apertura está prevista para 2030, integrará la inteligencia artificial y la tecnología avanzada directamente en la atención al paciente y la formación clínica. (UT Dell Medicine)"
+        },
+        {
+          "t": "p",
+          "x": "The University of Texas at Austin presentó el martes un sistema de salud académico unificado, llamado UT Dell Medicine, que reúne bajo una misma marca sus clínicas, la Dell Medical School y el futuro UT Dell Medical Center."
+        },
+        {
+          "t": "p",
+          "x": "Este mes comienza el despeje del terreno para construir un nuevo centro médico AI-native en North Austin, cuya apertura está prevista para 2030, con un costo estimado de unos 5 mil millones de dólares y respaldado por una donación de 750 millones de dólares de la Michael & Susan Dell Foundation. Contará con un hospital de especialidades 300-to-500-bed (de 300 a 500 camas), una clínica ambulatoria y un servicio de urgencias completo."
+        },
+        {
+          "t": "p",
+          "x": "Los líderes de UT buscan integrar la AI y otras tecnologías avanzadas en la infraestructura del hospital desde cero. El centro médico prevé contar con entre 20,000 y 30,000 sensores en todas sus instalaciones y se está diseñando para un uso extensivo de la robótica, incluido el transporte automatizado de medicamentos, suministros, ropa de cama y comida."
+        },
+        {
+          "t": "p",
+          "x": "La visión es que el hospital “se convierta en un miembro inteligente del equipo de atención”, dijo Claudia Lucchinetti, M.D. UT Dell Medicine también planea usar AI, herramientas predictivas y datos para orientar la atención hacia la detección temprana y la prevención."
+        }
+      ]
+    },
+    "medicine/medicine-azoospermia-sperm": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.medpagetoday.net/media/images/123xxx/123609.jpg"
+        },
+        {
+          "t": "p",
+          "x": "BALTIMORE -- Una herramienta basada en inteligencia artificial (AI) podría ser un último recurso para parejas que desean concebir un hijo biológico y a las que se les había dicho que no tienen espermatozoides, señalaron investigadores en la reunión anual de la American Society for Reproductive Medicine (ASRM)."
+        },
+        {
+          "t": "p",
+          "x": "El sistema Sperm Tracking and Recovery (STAR), desarrollado por Hemant Suryawanshi, PhD, del Columbia University Fertility Center y sus colegas, utiliza imágenes de alta velocidad, AI en tiempo real y tecnología de microfluidos para tomar dos millones de imágenes, evaluarlas y aislar en un volumen pequeño los espermatozoides detectados por la AI."
+        },
+        {
+          "t": "p",
+          "x": "En 10 muestras enriquecidas, STAR encontró espermatozoides en los 10 casos, mientras que el experto manual solo los encontró tres veces. STAR halló 167 espermatozoides frente a solo cuatro del examinador humano: una diferencia de 41 veces."
+        },
+        {
+          "t": "p",
+          "x": "Entre 175 hombres consecutivos considerados sin espermatozoides en el examen manual, STAR detectó al menos un espermatozoide en el 26% de las muestras, y en el 29% de quienes se habían sometido a TESE."
+        },
+        {
+          "t": "p",
+          "x": "Los espermatozoides identificados con STAR han dado lugar al menos a tres nacimientos vivos en los que los espermatozoides recuperados se usaron para ICSI o criopreservación. Una limitación importante es la facilidad de uso: STAR requiere un técnico altamente capacitado para operarlo."
+        }
+      ]
     }
   }
 }

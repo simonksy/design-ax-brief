@@ -2739,6 +2739,139 @@
           "x": "非常有意思..."
         }
       ]
+    },
+    "marketing/metaranking": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/targeting-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meta如今以每秒超过十亿条的速度，为每一次展示的所有合格广告评分，这是Meta周三公布的三项广告排序升级之一。其余升级是对去年推出的广告推荐模型GEM的更新，以及基于LLMs的全新生成式推荐模型(GenRecs)，即使互动数据有限，它也能预测人们想看到哪些广告。"
+        },
+        {
+          "t": "p",
+          "x": "据Meta称，排序系统的改进使Facebook在Q2的点击量增加8.3%，转化率提升15.7%。"
+        },
+        {
+          "t": "p",
+          "x": "GenRecs用概念取代广告主、广告系列和创意的IDs：LLMs读取广告的文字和图片，并用共享的语义token按关键属性加以描述。这缓解了冷启动问题，并缩短了学习期。Meta广告基础设施、排序与AI基础VP Matt Steiner表示：“你仍然需要学习。”"
+        },
+        {
+          "t": "p",
+          "x": "GenRecs还驱动一个与原有模型并行运行的新生成式检索模型；与此同时，Andromeda借助Meta与Nvidia的合作完成了软硬件全面升级。新版GEM规模更大，为每位用户读取的历史长度是原来的两倍；Meta称，这一方法自去年以来使转化率提升了约19%。"
+        },
+        {
+          "t": "p",
+          "x": "Steiner说：“随着排序模型越来越善于判断广告与谁相关，定向的重要性正随时间推移而下降。”"
+        }
+      ]
+    },
+    "marketing/stackadapt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/stackadapt-chatgpt-ads-ctv-retargeting-sealed-cabinet-orange-thread.jpg"
+        },
+        {
+          "t": "p",
+          "x": "StackAdapt宣布扩展面向ChatGPT Ads的跨渠道重定向。新闻稿称：“广告主可以在StackAdapt更广泛的程序化生态中，重定向看过ChatGPT Ad的消费者。”触发条件是浏览而非点击。这些人群细分在其Data Hub中与第一方数据和CRM集成一同管理。"
+        },
+        {
+          "t": "p",
+          "x": "这份新闻稿很短。它没有列出上线市场、定价、标识符、客户或效果，也没有说明ChatGPT内的一次浏览如何被记录，又如何与电视或网页上的某个人匹配。"
+        },
+        {
+          "t": "p",
+          "x": "唯一被引用的人是StackAdapt联合创始人兼首席技术官Yang Han，没有引用任何OpenAI高管的话。OpenAI表示，广告主只能获得关于广告表现的汇总信息，且在EEA和瑞士，广告上线时不含个性化。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI的大部分工具是把数据从广告主转入ChatGPT；StackAdapt的新闻稿描述的则是相反的流向。10月21日，OpenAI将ChatGPT广告再扩展至26个国家，总数达到89个。"
+        }
+      ]
+    },
+    "marketing/adexfraud": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/adex-ai-ad-fraud-52-percent-bots-posing-as-humans-cardboard-shoppers.jpg"
+        },
+        {
+          "t": "p",
+          "x": "专门筛查诈骗广告的公司ADEX表示，在2026年1月至9月期间，它在八个广告平台的120万个广告活动中识别出的欺诈手法里，有52%是AI发挥了重要作用。这一数字统计的是不同的欺诈手法，而非广告活动或账户。"
+        },
+        {
+          "t": "p",
+          "x": "在涉及AI的手法中，冒充真人的机器人出现在64%中，仿冒品牌和虚假代言出现在53%中，深度伪造出现在11%中。各类别之间存在重叠。"
+        },
+        {
+          "t": "p",
+          "x": "ADEX首席产品官Sergey Martianov说：“这种骗局本身多年未变：借用一张可信的面孔，承诺高额回报，再把受害者引到私聊中。AI改变的是成品的精细程度。”被拒的广告活动修改后，有时几小时内就会卷土重来。"
+        },
+        {
+          "t": "p",
+          "x": "展望2027年，ADEX预测会出现针对AI购物代理的提示注入攻击——“这是一项预测，而不是其审核数据中目前测量的攻击类别。”Martianov说：“如果由代理来购物，就会有人试图欺骗这个代理。”"
+        }
+      ]
+    },
+    "marketing/clorox": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/7Glm-TBBKFvq7ratAT-TPOOhe8nVmL7QBCpEDNv8X3w/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU0MwMTE5MS5qcGc=.webp",
+          "cap": "10月22日，The Clorox Company CMO Eric Schwartz在ANA Masters of Marketing大会上发言。经ANA许可使用"
+        },
+        {
+          "t": "p",
+          "x": "在10月22日的ANA Masters of Marketing大会上，Clorox CMO Eric Schwartz表示，营销战役已被“持续相关性系统”取代，这套系统依托一台由人驱动、由AI自动化赋能、由合作伙伴放大的引擎。他说：“这不是靠一个大创意露面一次。”"
+        },
+        {
+          "t": "p",
+          "x": "Pine-Sol以社交优先打造的“OMG Da Pine”世界平均每月发布150多条自然帖子，互动率达13%，还在TikTok Shop推出四款限量产品，数小时内售罄。"
+        },
+        {
+          "t": "p",
+          "x": "Brita的高产量内容模式每月产出100多个素材；这些努力带来了2200万次互动，自然曝光同比增长1,742%。"
+        },
+        {
+          "t": "p",
+          "x": "在Clorox Pure上，AI让公司无需重拍即可利用市场信号优化广告创意。Hidden Valley借世界杯打造的牧场酱时刻产生了600多条社交内容和超过60亿次曝光。"
+        },
+        {
+          "t": "p",
+          "x": "Schwartz说：“内容不再在发布时就完成，而是为不断变好而打造。”"
+        }
+      ]
+    },
+    "marketing/metaaiads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/resemble-ai-meta-ads-ai-disclosure-masked-faces-skyscraper.jpg"
+        },
+        {
+          "t": "p",
+          "x": "销售合成媒体检测软件的Mountain View公司Resemble AI于2026年10月22日发布一项研究，扫描了Facebook和Instagram广告中的37,768个图片和视频文件，并将其中3,379个标记为AI-generated（AI生成）或经过篡改。占比8.9%，约每11个文件中就有一个。在这3,379个文件中，广告文案里提及AI的只有两个。"
+        },
+        {
+          "t": "p",
+          "x": "《2026 Synthetic Advertising Report》涵盖26个行业的509家公司，广告采集自2026年9月的Meta公开广告库。70%的伪造内容为照片级写实，46%出现了人物。在检查来源元数据的971个文件中，没有一个带有C2PA内容凭证。"
+        },
+        {
+          "t": "p",
+          "x": "在品牌自有主页上，28,463个文件中有1,971个被标记（6.9%）。在抽样文件中，Temu在100个中有64个使用了AI，Wayfair为100个中的56个，Motel 6为80个中的50个，Lufthansa为94个中的50个。诱饵主页投放了649个文件，其中463个（71.3%）被标记。“品牌伪造的是精致，诱饵主页伪造的是人。”"
+        },
+        {
+          "t": "p",
+          "x": "只有一个品牌在自家广告中作了披露：Turkish Airlines。文案搜索无法识别直接嵌入视频画面的标签，因此0.06%这一数字只衡量了文字披露。"
+        },
+        {
+          "t": "p",
+          "x": "New York的合成表演者披露法自2026年6月9日起适用，EU AI Act第50条（Article 50）自2026年8月2日起适用。此外，这份报告出自一家与结论有直接商业利益关系的供应商。"
+        }
+      ]
     }
   }
 }

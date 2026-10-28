@@ -1,168 +1,101 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "section": "gadgets",
-  "picks": [
-    {
-      "title": "Ollama brings free, local text-to-speech to your Mac with natural-sounding AI voices",
-      "url": "https://www.digitaltrends.com/computing/ollama-brings-free-local-text-to-speech-to-your-mac-with-natural-sounding-ai-voices/",
-      "source": "Digital Trends",
-      "category": "gadgets",
-      "tool": "Gadgets",
-      "accent": "#ff5a4d",
-      "motif": "headset",
-      "rationale": "New release: Ollama added local text-to-speech on Mac using Gradium's small Phonon models. It is free, needs no subscription, and runs fully on-device.",
-      "published_iso": "2026-10-26T23:07:18-07:00",
-      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-logo-with-gradient-background.jpg?resize=1200%2C630&ssl=1",
-      "excerpt": "Ollama now lets Mac users turn text into natural-sounding speech locally with Phonon, a family of small text-to-speech models from Gradium. No subscription required."
-    },
-    {
-      "title": "Apple MacBook Pro M6 just unveiled with 30% faster graphics, 25% faster AI and up to 24 hours of battery life",
-      "url": "https://www.tomsguide.com/computing/macbooks/apple-reveals-m6-macbook-pro-for-pro-and-tell-week-heres-everything-thats-new",
-      "source": "Tom's Guide",
-      "category": "gadgets",
-      "tool": "Gadgets",
-      "accent": "#0070f3",
-      "motif": "headset",
-      "rationale": "New hardware: Apple's M6 launch puts the new chip in the 14-inch MacBook Pro (and the iMac), claiming 25% faster AI performance. This one card covers the whole M6 launch cluster.",
-      "published_iso": "2026-10-27T13:14:15Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/7moKw5F2gzMVH2GPuzQHMT-980-80.jpg",
-      "excerpt": "Apple's new 14-inch MacBook Pro moves to the M6 chip, which Apple says brings 30% faster graphics and 25% faster AI performance, plus up to 24 hours of battery life."
-    },
-    {
-      "title": "[Hands-On] Comfort, Convenience, and More: A Day With Galaxy Buds On",
-      "url": "https://news.samsung.com/global/hands-on-comfort-convenience-and-more-a-day-with-galaxy-buds-on",
-      "source": "Samsung Global Newsroom",
-      "category": "gadgets",
-      "tool": "Gadgets",
-      "accent": "#f5a623",
-      "motif": "headset",
-      "rationale": "New product: Samsung's first clip-on, open-ear Galaxy Buds On launched in Korea with hands-free Gemini Live ('Hey Google, let's talk Live') and head-gesture call handling. This is the primary source for the launch.",
-      "published_iso": "2026-10-27T08:00:00+09:00",
-      "og_image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26123413/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Thumb932.jpg",
-      "excerpt": "Samsung's first clip-on open-ear Galaxy Buds On launch in Korea with hands-free Gemini Live ('Hey Google, let's talk Live'), head-gesture call handling and up to 9.5 hours of playback."
-    },
-    {
-      "title": "Opera wants websites to run AI on your laptop instead of sending your data to the cloud",
-      "url": "https://www.digitaltrends.com/computing/opera-wants-websites-to-run-ai-on-your-laptop-instead-of-sending-your-data-to-the-cloud/",
-      "source": "Digital Trends",
-      "category": "gadgets",
-      "tool": "Gadgets",
-      "accent": "#7928ca",
-      "motif": "headset",
-      "rationale": "New preview: Opera WebAI lets websites and extensions call AI models running locally on the user's computer, with per-site permissions. It is a new on-device AI platform for the browser.",
-      "published_iso": "2026-10-27T06:00:00-07:00",
-      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-WebAI.jpeg?resize=1200%2C630&ssl=1",
-      "excerpt": "Opera’s WebAI preview lets websites and extensions use AI models running locally on supported computers, avoiding cloud processing and separate subscriptions while leaving access under the user’s control through site-specific permissions."
-    },
-    {
-      "title": "This old Nokia phone got an AI Upgrade it was never designed for",
-      "url": "https://www.engadget.com/2295625/old-nokia-phone-ai-upgrade-never-designed-for/",
-      "source": "Engadget",
-      "category": "gadgets",
-      "tool": "Gadgets",
-      "accent": "#2ec5c5",
-      "motif": "headset",
-      "rationale": "New hack: a developer vibe-coded 'Claude S40', which lets a 2G Nokia 6300 talk to Claude, ChatGPT, Gemini or Grok through a small Go server. It adds a reading mode and offline saving.",
-      "published_iso": "2026-10-27T18:30:00+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/l-intro-1792779965.jpg",
-      "excerpt": "A Turkish developer vibe-coded 'Claude S40', an app that lets a 2G Nokia 6300 talk to Claude, ChatGPT, Gemini or Grok via a small Go server, with a reading mode and offline saving of responses."
-    }
-  ],
   "items": [
     {
-      "title": "Ollama brings free, local text-to-speech to your Mac with natural-sounding AI voices",
-      "url": "https://www.digitaltrends.com/computing/ollama-brings-free-local-text-to-speech-to-your-mac-with-natural-sounding-ai-voices/",
-      "source": "Digital Trends",
+      "title": "Amazon turns its most capable smart speaker into a smart camera, too",
+      "url": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/",
+      "source": "Ars Technica",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "New release: Ollama added local text-to-speech on Mac using Gradium's small Phonon models. It is free, needs no subscription, and runs fully on-device.",
-      "published_iso": "2026-10-26T23:07:18-07:00",
-      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-logo-with-gradient-background.jpg?resize=1200%2C630&ssl=1",
-      "excerpt": "Ollama now lets Mac users turn text into natural-sounding speech locally with Phonon, a family of small text-to-speech models from Gradium. No subscription required."
+      "rationale": "New hardware: in its 10-28 Echo launch, Amazon added a camera to the Echo Studio for $30 more, so Alexa+ can 'see and understand' the room. This one card stands for the whole Echo/Alexa+ launch cluster.",
+      "published_iso": "2026-10-28T18:05:22+00:00",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png",
+      "excerpt": "The Echo Studio with Home Camera can \"see and understand what's in front of the camera.\""
     },
     {
-      "title": "Apple MacBook Pro M6 just unveiled with 30% faster graphics, 25% faster AI and up to 24 hours of battery life",
-      "url": "https://www.tomsguide.com/computing/macbooks/apple-reveals-m6-macbook-pro-for-pro-and-tell-week-heres-everything-thats-new",
-      "source": "Tom's Guide",
+      "title": "Android XR's First AR Glasses 'XREAL Aura' Launch Today, Starting at $1,100 for Limited Time",
+      "url": "https://roadtovr.com/google-ar-glasses-xreal-aura-release-date-price/",
+      "source": "Road to VR",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "New hardware: Apple's M6 launch puts the new chip in the 14-inch MacBook Pro (and the iMac), claiming 25% faster AI performance. This one card covers the whole M6 launch cluster.",
-      "published_iso": "2026-10-27T13:14:15Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/7moKw5F2gzMVH2GPuzQHMT-980-80.jpg",
-      "excerpt": "Apple's new 14-inch MacBook Pro moves to the M6 chip, which Apple says brings 30% faster graphics and 25% faster AI performance, plus up to 24 hours of battery life."
+      "rationale": "New product on sale: XREAL Aura, the first AR glasses running Android XR with Gemini built in, ships today starting at $1,100.",
+      "published_iso": "2026-10-28T16:59:00+00:00",
+      "og_image": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?fit=1800%2C1200&quality=89&ssl=1",
+      "excerpt": "XREAL announced that XREAL AURA, the first AR glasses running Google's Android XR operating system, is launching today, starting at $1,100 for a limited time."
     },
     {
-      "title": "[Hands-On] Comfort, Convenience, and More: A Day With Galaxy Buds On",
-      "url": "https://news.samsung.com/global/hands-on-comfort-convenience-and-more-a-day-with-galaxy-buds-on",
-      "source": "Samsung Global Newsroom",
-      "category": "gadgets",
-      "tool": "Gadgets",
-      "accent": "#f5a623",
-      "motif": "headset",
-      "rationale": "New product: Samsung's first clip-on, open-ear Galaxy Buds On launched in Korea with hands-free Gemini Live ('Hey Google, let's talk Live') and head-gesture call handling. This is the primary source for the launch.",
-      "published_iso": "2026-10-27T08:00:00+09:00",
-      "og_image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/26123413/Samsung-Mobile-Galaxy-Buds-On-Gemini-Live-Clip-On-Design_Thumb932.jpg",
-      "excerpt": "Samsung's first clip-on open-ear Galaxy Buds On launch in Korea with hands-free Gemini Live ('Hey Google, let's talk Live'), head-gesture call handling and up to 9.5 hours of playback."
-    },
-    {
-      "title": "Opera wants websites to run AI on your laptop instead of sending your data to the cloud",
-      "url": "https://www.digitaltrends.com/computing/opera-wants-websites-to-run-ai-on-your-laptop-instead-of-sending-your-data-to-the-cloud/",
-      "source": "Digital Trends",
+      "title": "Microsoft is ending Copilot support on smart TVs",
+      "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+      "source": "The Verge",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "New preview: Opera WebAI lets websites and extensions call AI models running locally on the user's computer, with per-site permissions. It is a new on-device AI platform for the browser.",
-      "published_iso": "2026-10-27T06:00:00-07:00",
-      "og_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Opera-WebAI.jpeg?resize=1200%2C630&ssl=1",
-      "excerpt": "Opera’s WebAI preview lets websites and extensions use AI models running locally on supported computers, avoiding cloud processing and separate subscriptions while leaving access under the user’s control through site-specific permissions."
+      "rationale": "New decision: Microsoft is removing its Copilot assistant from LG and Samsung smart TVs about two years after launch. It is a clear retreat of an AI assistant from a device category.",
+      "published_iso": "2026-10-28T18:36:26+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&strip=all&crop=0%2C10.841832569581%2C100%2C78.316334860837&w=1200",
+      "excerpt": "Microsoft's AI assistant will soon disappear from your TV."
     },
     {
-      "title": "This old Nokia phone got an AI Upgrade it was never designed for",
-      "url": "https://www.engadget.com/2295625/old-nokia-phone-ai-upgrade-never-designed-for/",
+      "title": "OpenAI now lets you text your Dot agent",
+      "url": "https://www.engadget.com/2300235/openai-now-lets-you-text-your-dot-agent/",
       "source": "Engadget",
       "category": "gadgets",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "New hack: a developer vibe-coded 'Claude S40', which lets a 2G Nokia 6300 talk to Claude, ChatGPT, Gemini or Grok through a small Go server. It adds a reading mode and offline saving.",
-      "published_iso": "2026-10-27T18:30:00+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/l-intro-1792779965.jpg",
-      "excerpt": "A Turkish developer vibe-coded 'Claude S40', an app that lets a 2G Nokia 6300 talk to Claude, ChatGPT, Gemini or Grok via a small Go server, with a reading mode and offline saving of responses."
+      "rationale": "New feature: OpenAI's proactive Dot agent can now be reached by iMessage and RCS, so it works inside the phone's default messaging app.",
+      "published_iso": "2026-10-28T19:15:00+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/openai-now-lets-you-text-your-dot-agent/l-intro-1793214741.jpg",
+      "excerpt": "The feature works with both iMessage and RCS messaging."
+    },
+    {
+      "title": "iOS 27.2: Apple's AI images now carry Google's SynthID watermark",
+      "url": "https://www.notebookcheck.net/iOS-27-2-Apple-s-AI-images-now-carry-Google-s-SynthID-watermark.1435023.0.html",
+      "source": "Notebookcheck",
+      "category": "gadgets",
+      "tool": "Gadgets",
+      "accent": "#f5a623",
+      "motif": "headset",
+      "rationale": "New release behavior: in iOS 27.2, Apple embeds Google's invisible SynthID pixel watermark in Image Playground output and heavily edited photos. The mark is built to survive cropping and compression, which matters for anyone who publishes AI imagery.",
+      "published_iso": "2026-10-27T08:48:00+01:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/AI/Since-yesterday-with-iOS-272-Release-Apple-Im-1793086628.jpg",
+      "excerpt": "With iOS 27.2, Apple marks all images from Image Playground and more extensively edited photos with Google's invisible SynthID watermark. It is embedded in the pixels rather than the metadata and is designed to survive cropping and compression."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.digitaltrends.com/computing/ollama-brings-free-local-text-to-speech-to-your-mac-with-natural-sounding-ai-voices/": {
+      "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.theverge.com/tech/1007565/amazon-alexa-plus-review-one-year-echo-show-dot-max",
         "new_action": ""
       },
-      "https://www.tomsguide.com/computing/macbooks/apple-reveals-m6-macbook-pro-for-pro-and-tell-week-heres-everything-thats-new": {
+      "https://roadtovr.com/google-ar-glasses-xreal-aura-release-date-price/": {
         "verdict": "new",
-        "nearest": "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/",
+        "nearest": "https://www.androidauthority.com/hey-gemini-camera-activation-android-xr-3724200/",
         "new_action": ""
       },
-      "https://news.samsung.com/global/hands-on-comfort-convenience-and-more-a-day-with-galaxy-buds-on": {
+      "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending": {
         "verdict": "new",
-        "nearest": "https://news.samsung.com/global/samsung-expands-language-support-across-ai-experiences-on-galaxy",
+        "nearest": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
         "new_action": ""
       },
-      "https://www.digitaltrends.com/computing/opera-wants-websites-to-run-ai-on-your-laptop-instead-of-sending-your-data-to-the-cloud/": {
+      "https://www.engadget.com/2300235/openai-now-lets-you-text-your-dot-agent/": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.digitaltrends.com/computing/ollama-brings-free-local-text-to-speech-to-your-mac-with-natural-sounding-ai-voices/",
         "new_action": ""
       },
-      "https://www.engadget.com/2295625/old-nokia-phone-ai-upgrade-never-designed-for/": {
+      "https://www.notebookcheck.net/iOS-27-2-Apple-s-AI-images-now-carry-Google-s-SynthID-watermark.1435023.0.html": {
         "verdict": "new",
-        "nearest": "https://www.notebookcheck.net/HMD-brings-AI-companionship-to-a-basic-flip-phone-complete-with-a-recurring-subscription.1423960.0.html",
+        "nearest": "https://9to5mac.com/2026/10/26/siri-ai-keeps-getting-better-heres-whats-new-in-ios-27-2/",
         "new_action": ""
       }
     },
-    "note": "Apple M6 cluster c3: kept the Tom's Guide MacBook Pro M6 piece. Dropped the Digital Trends iMac M6 card because it is the same launch event, and Digital Trends already has 2 picks. Its history_match (10-06 Gizmodo wireless GPU) is unrelated. Galaxy Buds On cluster c11: kept the Samsung Newsroom primary source. Dropped The Elec's launch story (same event) and the TechRadar 'enough open earbuds' opinion piece (commentary on the same launch). Their 10-17 Samsung language-support match is a different story. Dropped on other grounds: Gemini Live 'plus' redesign (9to5Google, minor UI tweak following the 10-26 Gemini redesign card, also dropped on 10-27); Android Authority Gemini Live visualizer sneak peek (unreleased teardown, same Gemini UI redesign thread); Android Authority Gemini remembered-items teardown (speculative APK, dropped 10-27); Intel Arc B580 XeStrata (single benchmark, dropped 10-27); INMO GO3 (flagged as sponsored on 10-26); Google Maps CarPlay Gemini (10-21, stale, and too close to the 10-21 blog.google Gemini-on-the-road card). No Apple Creator Studio item was considered, since it is reserved for movies. Cross-section: every pick was published after the 10-27 brief's collection cutoff (10-26 22:00 UTC), so none can be in published_urls.json from an earlier day. The orchestrator should still check for same-day 10-28 clashes, especially Ollama TTS with music and Apple M6 with movies or design. Diversity: 4 outlets (Digital Trends x2, Tom's Guide, Samsung Newsroom, Engadget)."
+    "note": "Amazon Echo/Alexa+ 10-28 launch (c0 aboutamazon + Digital Trends Home Map, c1 ZDNET + Ars Echo Studio camera, CNET Echo vs HomeView, CNET Echo Time, Engadget Alexa Photo Frame): all one launch event, so I kept only Ars (on the whitelist, and its AI-camera angle is the strongest). Its history_match, the 10-10 Verge 'one year with Alexa Plus' review, and the 10-09 Engadget Alexa tablets card are earlier, separate events. XREAL Aura (c9: Road to VR, Android Authority, blog.google): kept Road to VR for the price and ship date. The 10-17 Android Authority Gemini-on-XR teardown is a different story. Also dropped from the glasses group: the Samsung XR glasses 'doomed' opinion piece (commentary on the 10-14 Samsung reveal), the Engadget 'how to tell if someone uses AI glasses' explainer (evergreen), INMO GO3 (flagged sponsored on 10-26, and stale), and the Android XR dev tools item (second Android XR item on the same day; a developer story). Copilot on TVs (c20: Verge, XDA): kept the Verge. The 10-08 Copilot-in-Windows and 10-24 File Explorer cards are different events. OpenAI Dot (c7: Engadget, 9to5Mac): kept Engadget. The gadgets history has no earlier Dot card, and the history_match (Ollama TTS) is unrelated. SynthID: the nearest earlier card is the 10-27 9to5Mac 'what's new in iOS 27.2' Siri roundup, which is about Siri, not the watermark, so this one is new. Other drops: Gemini Live redesign sneak peek (an unreleased teardown, dropped 10-28 too); Gemini Notebook recorder (a small increment on the 10-25 Notebook card); Perplexity Mac voice mode (lower priority); Meta Waddle World (AI pet app, not a gadget); Japan chainsaw robot (still human-operated, so a demo). Cross-section: I had no grep tool, so I did NOT exact-grep published_urls.json. The orchestrator must verify these 5 URLs, plus 'Echo Studio', 'XREAL Aura', 'Dot' and 'SynthID', against every section. The SynthID item (10-27) is the most likely to clash with design or politics. Diversity: 5 outlets (Ars, Road to VR, The Verge, Engadget, Notebookcheck), each with a distinct accent."
   }
 }

@@ -1,239 +1,221 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "section": "politics",
   "cards": [
     {
-      "id": "lords-aisi",
+      "id": "hochul-chatbots",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "상원, 프런티어 AI\n사고 보고 수정안 부결",
-      "body": "상원이 사이버 법안 수정안 두 건은 가결하고 프런티어 AI 사고 보고안은 부결했다.",
-      "mini_headline": "상원, AI 사고 보고 규정 부결",
+      "headline": "뉴욕주, 미성년자 대상\nAI 챗봇 기능 제한",
+      "body": "챗봇이 미성년자에게 사람·연인 행세하면 AG가 건당 최대 $25,000를 물린다.",
+      "mini_headline": "NY, 미성년자 대상 AI 챗봇 제한",
       "tool": "Politics",
-      "source": "UK Parliament",
-      "url": "https://www.parliament.uk/business/news/2026/october-2026/cyber-security-and-resilience-network-and-information-systems-bill-undergoes-further-scrutiny-in-the-lords/",
+      "source": "New York Governor's Office",
+      "url": "https://governor.ny.gov/news/governor-hochul-signs-nation-leading-legislation-protect-kids-ai-chatbots-and-ensure-baby",
       "accent": "#3b6bff",
       "motif": "cube",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.parliament.uk/contentassets/d9c723cd82f8465480b98fe4d66ca17e/kevin-ku-w7zyugynprq-unsplash.webp?width=1000&quality=85"
+            "src": "https://www.governor.ny.gov/sites/default/files/styles/hero_wide/public/2026-10/aibabymonitor2.jpg?h=b5f6a62e&itok=8DLmZfWV",
+            "cap": "연단에서 발언하는 호컬(Hochul) 주지사."
           },
           {
             "t": "p",
-            "x": "상원(House of Lords) 의원들은 10월 26일 월요일 보고 단계(report stage)에서 사이버보안·복원력(네트워크·정보시스템) 법안(Cyber Security and Resilience (Network and Information Systems) Bill) 추가 심사를 마쳤다."
+            "x": "캐시 호컬(Kathy Hochul) 주지사가 AI 챗봇과 인터넷 연결형 베이비 모니터 법안 두 건에 서명했다. S.9051B/A.10379C는 AI 챗봇 기능을 쓰는 기업이 미성년자에게 안전하지 않은 기능을 내놓지 못하게 막는다. 사람인 척하거나 정서적 의존을 키우거나 자해를 부추기거나 성적으로 노골적인 대화를 하는 챗봇이 대상이다."
           },
           {
             "t": "p",
-            "x": "법안의 목표는 의료, 식수, 에너지 같은 필수 서비스를 맡은 UK 기관의 사이버 보안 강화다. 새 법은 적용 분야를 넓히고 사고 보고 의무를 고치며 국가 안보가 걸린 사안에서 정부가 기관에 지시할 권한도 준다."
+            "x": "18세 미만 이용자, 그리고 미성년자가 아니라는 확인을 거치지 않은 이용자에게는 다음 기능을 제공할 수 없다. 실제 사람이거나 살아 있거나 인간의 감정을 지닌 척하는 것, 아동과 개인적·연애·직업적 관계나 권위자 관계를 맺었다고 주장하는 것, 자살·자해·섭식장애·약물·음주를 조장하는 것, 성적으로 노골적인 콘텐츠 전부다."
           },
           {
             "t": "p",
-            "x": "의원들은 사고·사이버 위협·아차 사고의 자율 신고, NIS 체계에 서비스 제공업체와 소프트웨어 제조사 포함, 핵심 공급업체 지정과 공급망 취약성, '선의의' 사이버 보안 전문가 보호와 기소, SMEs를 위한 국가 사이버 보안 지원 서비스, 디지털 주권 전략(Digital Sovereignty Strategy)과 이사회 책임성 등을 다룬 수정안을 검토했다."
+            "x": "연령 확인은 두 가지 이상 방법으로 해야 하고 그중 하나 이상은 정부 발급 ID에만 기대지 않는 방식이어야 한다. 확인에 쓴 연령 정보는 지워야 한다. 법무장관은 위반 건당 최대 $25,000의 민사 벌금을 청구할 수 있다."
+          },
+          {
+            "t": "video",
+            "yt": "3Kza_uwnviw"
           },
           {
             "t": "p",
-            "x": "수정안 표결은 세 차례 있었다. 의원들은 정부가 열두 달 안에 네트워크·정보시스템(Network and Information Systems) 제도의 실효성을 검토하고 UK 사이버 보안을 위협하는 국가 행위자 명부를 관리하도록 하는 수정안 두 건을 가결했다."
-          },
-          {
-            "t": "p",
-            "x": "세 번째로 표결에 부친 프런티어 AI 모델 사고 보고 조항은 의원들이 받아들이지 않았다."
-          },
-          {
-            "t": "p",
-            "x": "의원들이 법안을 '정리'하고 수정할 마지막 기회인 3독회는 11월 2일 월요일로 잡혀 있다."
+            "x": "호컬은 “어떤 기업도 아이들에게 자해를 부추기거나 친구, 혹은 그 이상인 척하는 챗봇을 팔아서는 안 된다”고 말했다. 법안을 발의한 알렉스 보어스(Alex Bores) 주 하원의원은 “업계의 공격적인 반대에도 불구하고” 주가 이 법을 통과시켰다고 했다. 두 번째 법안 S.9508/A.5175A는 인터넷 연결형 베이비 모니터에 보안 기능과 경고 라벨을 의무화한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Lords reject frontier AI\nincident-reporting amendment",
-          "body": "Peers backed two cyber bill amendments but voted down a change on reporting incidents involving frontier AI models.",
-          "mini_headline": "Lords reject AI incident rule",
+          "headline": "New York law limits AI\nchatbot features for minors",
+          "body": "New York chatbots may not claim to be human or a romantic partner to minors, with AG fines up to $25,000 per violation.",
+          "mini_headline": "NY limits AI chatbots for minors",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.parliament.uk/contentassets/d9c723cd82f8465480b98fe4d66ca17e/kevin-ku-w7zyugynprq-unsplash.webp?width=1000&quality=85"
+                "src": "https://www.governor.ny.gov/sites/default/files/styles/hero_wide/public/2026-10/aibabymonitor2.jpg?h=b5f6a62e&itok=8DLmZfWV",
+                "cap": "Governor Hochul speaking at a podium."
               },
               {
                 "t": "p",
-                "x": "Members of the House of Lords completed their further examination of the Cyber Security and Resilience (Network and Information Systems) Bill in report stage on Monday 26 October."
+                "x": "Governor Kathy Hochul signed two bills on AI chatbots and internet-connected baby monitors. S.9051B/A.10379C prohibits companies that utilize AI chatbot features from offering unsafe features to minors, including chatbots that pretend to be human, build emotional dependency, encourage self-harm or engage in sexually explicit conversations."
               },
               {
                 "t": "p",
-                "x": "The bill aims to strengthen the cyber security of organisations in the UK that provide essential services, such as healthcare, drinking water and energy. The new law will also integrate additional sectors, update incident reporting duties and confer powers on the government to instruct organisations in the interests of national security."
+                "x": "Companies may not offer these features to users under 18, or to any user unless they have first confirmed the user is not a minor: pretending to be a real person, to be alive or to have human emotions; claiming a personal, romantic, professional or authority-figure relationship with a child; promoting suicide, self harm, eating disorders or drug and alcohol use; and any sexually explicit content."
               },
               {
                 "t": "p",
-                "x": "Members considered amendments on subjects including voluntary notification of incidents, cyber threats and near misses; inclusion of service providers and software manufacturers under the NIS framework; designation of critical suppliers and supply chain vulnerabilities; protection and prosecution of 'good-faith' cyber security specialists; a national cyber security support service for SMEs; and a Digital Sovereignty Strategy and board accountability."
+                "x": "Companies must conduct age verification with more than one method, including at least one that does not depend solely on a government ID, and delete age information after use. The attorney general can seek civil penalties of up to $25,000 per violation."
+              },
+              {
+                "t": "video",
+                "yt": "3Kza_uwnviw"
               },
               {
                 "t": "p",
-                "x": "There were three divisions on proposed changes to the bill. Members voted to agree two amendments, which require the government to conduct a review on the effectiveness of the Network and Information Systems scheme within twelve months, and to maintain a register of state actors posing a threat to UK cyber security."
-              },
-              {
-                "t": "p",
-                "x": "A third change, on the reporting of incidents involving frontier AI models, was voted on but disagreed to by members."
-              },
-              {
-                "t": "p",
-                "x": "Third reading, a final chance for members to 'tidy' up the bill and make changes, is scheduled for Monday 2 November."
+                "x": "“No company should be peddling chatbots to kids encouraging self-harm or pretending to be their friend or more,” Hochul said. Assemblymember Alex Bores, a sponsor, said the state passed the law “despite aggressive industry opposition.” A second bill, S.9508/A.5175A, requires security features and warning labels on internet-connected baby monitors."
               }
             ]
           }
         },
         "ko": {
-          "headline": "상원, 프런티어 AI\n사고 보고 수정안 부결",
-          "body": "상원이 사이버 법안 수정안 두 건은 가결하고 프런티어 AI 사고 보고안은 부결했다.",
-          "mini_headline": "상원, AI 사고 보고 규정 부결",
+          "headline": "뉴욕주, 미성년자 대상\nAI 챗봇 기능 제한",
+          "body": "챗봇이 미성년자에게 사람·연인 행세하면 AG가 건당 최대 $25,000를 물린다.",
+          "mini_headline": "NY, 미성년자 대상 AI 챗봇 제한",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.parliament.uk/contentassets/d9c723cd82f8465480b98fe4d66ca17e/kevin-ku-w7zyugynprq-unsplash.webp?width=1000&quality=85"
+                "src": "https://www.governor.ny.gov/sites/default/files/styles/hero_wide/public/2026-10/aibabymonitor2.jpg?h=b5f6a62e&itok=8DLmZfWV",
+                "cap": "연단에서 발언하는 호컬(Hochul) 주지사."
               },
               {
                 "t": "p",
-                "x": "상원(House of Lords) 의원들은 10월 26일 월요일 보고 단계(report stage)에서 사이버보안·복원력(네트워크·정보시스템) 법안(Cyber Security and Resilience (Network and Information Systems) Bill) 추가 심사를 마쳤다."
+                "x": "캐시 호컬(Kathy Hochul) 주지사가 AI 챗봇과 인터넷 연결형 베이비 모니터 법안 두 건에 서명했다. S.9051B/A.10379C는 AI 챗봇 기능을 쓰는 기업이 미성년자에게 안전하지 않은 기능을 내놓지 못하게 막는다. 사람인 척하거나 정서적 의존을 키우거나 자해를 부추기거나 성적으로 노골적인 대화를 하는 챗봇이 대상이다."
               },
               {
                 "t": "p",
-                "x": "법안의 목표는 의료, 식수, 에너지 같은 필수 서비스를 맡은 UK 기관의 사이버 보안 강화다. 새 법은 적용 분야를 넓히고 사고 보고 의무를 고치며 국가 안보가 걸린 사안에서 정부가 기관에 지시할 권한도 준다."
+                "x": "18세 미만 이용자, 그리고 미성년자가 아니라는 확인을 거치지 않은 이용자에게는 다음 기능을 제공할 수 없다. 실제 사람이거나 살아 있거나 인간의 감정을 지닌 척하는 것, 아동과 개인적·연애·직업적 관계나 권위자 관계를 맺었다고 주장하는 것, 자살·자해·섭식장애·약물·음주를 조장하는 것, 성적으로 노골적인 콘텐츠 전부다."
               },
               {
                 "t": "p",
-                "x": "의원들은 사고·사이버 위협·아차 사고의 자율 신고, NIS 체계에 서비스 제공업체와 소프트웨어 제조사 포함, 핵심 공급업체 지정과 공급망 취약성, '선의의' 사이버 보안 전문가 보호와 기소, SMEs를 위한 국가 사이버 보안 지원 서비스, 디지털 주권 전략(Digital Sovereignty Strategy)과 이사회 책임성 등을 다룬 수정안을 검토했다."
+                "x": "연령 확인은 두 가지 이상 방법으로 해야 하고 그중 하나 이상은 정부 발급 ID에만 기대지 않는 방식이어야 한다. 확인에 쓴 연령 정보는 지워야 한다. 법무장관은 위반 건당 최대 $25,000의 민사 벌금을 청구할 수 있다."
+              },
+              {
+                "t": "video",
+                "yt": "3Kza_uwnviw"
               },
               {
                 "t": "p",
-                "x": "수정안 표결은 세 차례 있었다. 의원들은 정부가 열두 달 안에 네트워크·정보시스템(Network and Information Systems) 제도의 실효성을 검토하고 UK 사이버 보안을 위협하는 국가 행위자 명부를 관리하도록 하는 수정안 두 건을 가결했다."
-              },
-              {
-                "t": "p",
-                "x": "세 번째로 표결에 부친 프런티어 AI 모델 사고 보고 조항은 의원들이 받아들이지 않았다."
-              },
-              {
-                "t": "p",
-                "x": "의원들이 법안을 '정리'하고 수정할 마지막 기회인 3독회는 11월 2일 월요일로 잡혀 있다."
+                "x": "호컬은 “어떤 기업도 아이들에게 자해를 부추기거나 친구, 혹은 그 이상인 척하는 챗봇을 팔아서는 안 된다”고 말했다. 법안을 발의한 알렉스 보어스(Alex Bores) 주 하원의원은 “업계의 공격적인 반대에도 불구하고” 주가 이 법을 통과시켰다고 했다. 두 번째 법안 S.9508/A.5175A는 인터넷 연결형 베이비 모니터에 보안 기능과 경고 라벨을 의무화한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "英上院、フロンティアAI\nインシデント報告案を否決",
-          "body": "上院はサイバー法案の修正二件を可決し、フロンティアAIのインシデント報告案は否決した。",
-          "mini_headline": "上院、AIインシデント報告ルールを否決",
+          "headline": "ニューヨーク州法が未成年向け\nAIチャットボット機能を制限",
+          "body": "NY州のチャットボットは未成年に人や恋人を装えず、AGは違反毎に最大$25,000を科す。",
+          "mini_headline": "NY州、未成年向けAIチャットボットを制限",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.parliament.uk/contentassets/d9c723cd82f8465480b98fe4d66ca17e/kevin-ku-w7zyugynprq-unsplash.webp?width=1000&quality=85"
+                "src": "https://www.governor.ny.gov/sites/default/files/styles/hero_wide/public/2026-10/aibabymonitor2.jpg?h=b5f6a62e&itok=8DLmZfWV",
+                "cap": "演台で話すホークル(Hochul)知事。"
               },
               {
                 "t": "p",
-                "x": "貴族院(House of Lords)の議員らは10月26日月曜日、報告段階でサイバーセキュリティ・レジリエンス(ネットワーク・情報システム)法案(Cyber Security and Resilience (Network and Information Systems) Bill)の追加審査を終えた。"
+                "x": "キャシー・ホークル(Kathy Hochul)知事は、AIチャットボットとインターネット接続型ベビーモニターに関する二つの法案に署名した。S.9051B/A.10379Cは、AIチャットボット機能を利用する企業が未成年者に安全でない機能を提供することを禁じる。人間のふりをする、感情的な依存を生む、自傷を促す、性的に露骨な会話をするといったチャットボットが対象だ。"
               },
               {
                 "t": "p",
-                "x": "同法案は、医療や飲料水、エネルギーなど不可欠なサービスを提供するUKの組織のサイバーセキュリティ強化を目的とする。新法は対象分野を広げ、インシデント報告義務を見直し、国家安全保障のために政府が組織に指示できる権限も与える。"
+                "x": "企業は18歳未満の利用者に対し、また未成年でないことを事前に確認していない利用者に対しても、次の機能を提供してはならない。実在の人物である、生きている、人間の感情を持つと装うこと。子どもとの個人的、恋愛的、職業的、または権威者としての関係を主張すること。自殺、自傷、摂食障害、薬物や飲酒を助長すること。そして性的に露骨なあらゆるコンテンツである。"
               },
               {
                 "t": "p",
-                "x": "議員らは、インシデントやサイバー脅威、ニアミスの任意通知、NIS枠組みへのサービス事業者とソフトウェアメーカーの組み込み、重要サプライヤーの指定とサプライチェーンの脆弱性、「善意の」サイバーセキュリティ専門家の保護と訴追、SMEs向けの国家サイバーセキュリティ支援サービス、デジタル主権戦略(Digital Sovereignty Strategy)と取締役会の説明責任などに関する修正案を審議した。"
+                "x": "企業は複数の方法で年齢確認を行う必要があり、そのうち少なくとも一つは政府発行のIDだけに依存しない方法でなければならない。年齢情報は使用後に削除する。司法長官は違反ごとに最大$25,000の民事制裁金を求めることができる。"
+              },
+              {
+                "t": "video",
+                "yt": "3Kza_uwnviw"
               },
               {
                 "t": "p",
-                "x": "法案の修正をめぐり三回の採決が行われた。議員らは、政府に十二か月以内のネットワーク・情報システム(Network and Information Systems)制度の有効性検証と、UKのサイバーセキュリティを脅かす国家主体の登録簿の維持を求める二件の修正案を可決した。"
-              },
-              {
-                "t": "p",
-                "x": "フロンティアAIモデルに関わるインシデント報告をめぐる三件目の修正は採決にかけられたが、議員らは同意しなかった。"
-              },
-              {
-                "t": "p",
-                "x": "議員が法案を「整え」、修正を加える最後の機会となる第三読会は、11月2日月曜日に予定されている。"
+                "x": "「自傷を促したり、友人やそれ以上の存在を装ったりするチャットボットを子どもに売りつける企業があってはならない」とホークル氏は述べた。法案提出者の一人であるアレックス・ボアーズ(Alex Bores)州下院議員は、州が「業界の激しい反対にもかかわらず」この法律を成立させたと語った。二つ目の法案S.9508/A.5175Aは、インターネット接続型ベビーモニターにセキュリティ機能と警告ラベルを義務づける。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "英国上院否决前沿AI\n事件报告修正案",
-          "body": "上院通过了网络安全法案的两项修正案，但否决了一项关于前沿AI模型事件报告的修改。",
-          "mini_headline": "上院否决AI事件报告规定",
+          "headline": "纽约州立法限制面向\n未成年人的AI聊天机器人功能",
+          "body": "纽约州聊天机器人不得向未成年人冒充真人或恋人，AG可对每次违规处以最高$25,000罚款。",
+          "mini_headline": "NY限制面向未成年人的AI聊天机器人",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.parliament.uk/contentassets/d9c723cd82f8465480b98fe4d66ca17e/kevin-ku-w7zyugynprq-unsplash.webp?width=1000&quality=85"
+                "src": "https://www.governor.ny.gov/sites/default/files/styles/hero_wide/public/2026-10/aibabymonitor2.jpg?h=b5f6a62e&itok=8DLmZfWV",
+                "cap": "霍楚尔(Hochul)州长在讲台上发言。"
               },
               {
                 "t": "p",
-                "x": "上议院（House of Lords）议员于10月26日星期一在报告阶段完成了对《网络安全与韧性（网络与信息系统）法案》（Cyber Security and Resilience (Network and Information Systems) Bill）的进一步审议。"
+                "x": "州长凯西·霍楚尔(Kathy Hochul)签署了两项关于AI聊天机器人和联网婴儿监视器的法案。S.9051B/A.10379C禁止使用AI聊天机器人功能的公司向未成年人提供不安全的功能，包括假装是人类、培养情感依赖、鼓励自残或进行露骨性对话的聊天机器人。"
               },
               {
                 "t": "p",
-                "x": "该法案旨在加强UK境内提供医疗、饮用水和能源等基本服务的机构的网络安全。新法还将纳入更多行业，更新事件报告义务，并赋予政府出于国家安全利益向机构发出指令的权力。"
+                "x": "公司不得向18岁以下用户提供以下功能，也不得向任何未经事先确认并非未成年人的用户提供：假装是真人、有生命或拥有人类情感；声称与儿童存在个人、恋爱、职业或权威人物关系；宣扬自杀、自残、饮食失调或吸毒酗酒；以及任何露骨的色情内容。"
               },
               {
                 "t": "p",
-                "x": "议员们审议的修正案涉及：事件、网络威胁和未遂事件的自愿通报；将服务提供商和软件制造商纳入NIS框架；关键供应商的认定与供应链漏洞；“善意”网络安全专家的保护与起诉；面向SMEs的国家网络安全支持服务；以及数字主权战略（Digital Sovereignty Strategy）和董事会问责。"
+                "x": "公司必须采用不止一种方法进行年龄验证，其中至少一种不能仅依赖政府签发的ID，并须在使用后删除年龄信息。总检察长可对每次违规寻求最高$25,000的民事罚款。"
+              },
+              {
+                "t": "video",
+                "yt": "3Kza_uwnviw"
               },
               {
                 "t": "p",
-                "x": "围绕法案修改共进行了三次分组表决。议员们投票通过了两项修正案，要求政府在十二个月内评估网络与信息系统（Network and Information Systems）机制的有效性，并建立威胁UK网络安全的国家行为体名册。"
-              },
-              {
-                "t": "p",
-                "x": "第三项修改涉及前沿AI模型相关事件的报告，经表决后未获议员同意。"
-              },
-              {
-                "t": "p",
-                "x": "三读是议员“整理”法案并作出修改的最后机会，定于11月2日星期一进行。"
+                "x": "霍楚尔表示：“任何公司都不应向孩子兜售鼓励自残或假装是他们朋友乃至更亲密关系的聊天机器人。”法案提案人之一、州众议员亚历克斯·博雷斯(Alex Bores)表示，该州“顶着业界的强烈反对”通过了这项法律。第二项法案S.9508/A.5175A要求联网婴儿监视器配备安全功能和警告标签。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Lores rechazan enmienda sobre\nincidentes de AI de frontera",
-          "body": "Los Lores aprobaron dos enmiendas de ciberseguridad, pero rechazaron otra sobre notificar incidentes de AI de frontera.",
-          "mini_headline": "Los Lores rechazan una norma sobre incidentes de AI",
+          "headline": "Nueva York limita funciones de\nchatbots de AI para menores",
+          "body": "Los chatbots de Nueva York no podrán fingirse humanos o pareja de menores; el AG multará hasta $25,000 por infracción.",
+          "mini_headline": "NY limita los chatbots de AI para menores",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.parliament.uk/contentassets/d9c723cd82f8465480b98fe4d66ca17e/kevin-ku-w7zyugynprq-unsplash.webp?width=1000&quality=85"
+                "src": "https://www.governor.ny.gov/sites/default/files/styles/hero_wide/public/2026-10/aibabymonitor2.jpg?h=b5f6a62e&itok=8DLmZfWV",
+                "cap": "La gobernadora Hochul habla en un podio."
               },
               {
                 "t": "p",
-                "x": "Los miembros de la Cámara de los Lores (House of Lords) completaron el lunes 26 de octubre, en la fase de informe, el examen adicional del proyecto de ley de Ciberseguridad y Resiliencia (Redes y Sistemas de Información) (Cyber Security and Resilience (Network and Information Systems) Bill)."
+                "x": "La gobernadora Kathy Hochul firmó dos proyectos de ley sobre chatbots de AI y monitores para bebés conectados a internet. La S.9051B/A.10379C prohíbe a las empresas que utilizan funciones de chatbot de AI ofrecer funciones inseguras a menores, incluidos chatbots que se hacen pasar por humanos, generan dependencia emocional, fomentan las autolesiones o mantienen conversaciones sexualmente explícitas."
               },
               {
                 "t": "p",
-                "x": "El proyecto busca reforzar la ciberseguridad de las organizaciones del UK que prestan servicios esenciales, como la sanidad, el agua potable y la energía. La nueva ley también incorporará más sectores, actualizará las obligaciones de notificación de incidentes y otorgará al gobierno facultades para dar instrucciones a las organizaciones en interés de la seguridad nacional."
+                "x": "Las empresas no podrán ofrecer estas funciones a usuarios menores de 18 años, ni a ningún usuario sin haber confirmado antes que no es menor de edad: hacerse pasar por una persona real, por un ser vivo o por alguien con emociones humanas; afirmar una relación personal, romántica, profesional o de figura de autoridad con un niño; promover el suicidio, las autolesiones, los trastornos alimentarios o el consumo de drogas y alcohol; y cualquier contenido sexualmente explícito."
               },
               {
                 "t": "p",
-                "x": "Los miembros estudiaron enmiendas sobre asuntos como la notificación voluntaria de incidentes, ciberamenazas y cuasi incidentes; la inclusión de proveedores de servicios y fabricantes de software en el marco NIS; la designación de proveedores críticos y las vulnerabilidades de la cadena de suministro; la protección y el enjuiciamiento de especialistas en ciberseguridad que actúan 'de buena fe'; un servicio nacional de apoyo en ciberseguridad para SMEs; y una Estrategia de Soberanía Digital (Digital Sovereignty Strategy) y la rendición de cuentas de los consejos de administración."
+                "x": "Las empresas deberán verificar la edad con más de un método, incluido al menos uno que no dependa únicamente de un ID oficial, y borrar la información de edad tras usarla. El fiscal general podrá solicitar sanciones civiles de hasta $25,000 por infracción."
+              },
+              {
+                "t": "video",
+                "yt": "3Kza_uwnviw"
               },
               {
                 "t": "p",
-                "x": "Hubo tres votaciones sobre cambios propuestos al proyecto. Los miembros aprobaron dos enmiendas, que obligan al gobierno a revisar en un plazo de doce meses la eficacia del régimen de Redes y Sistemas de Información (Network and Information Systems) y a mantener un registro de actores estatales que amenazan la ciberseguridad del UK."
-              },
-              {
-                "t": "p",
-                "x": "Un tercer cambio, sobre la notificación de incidentes relacionados con modelos de AI de frontera, se sometió a votación, pero los miembros no lo aceptaron."
-              },
-              {
-                "t": "p",
-                "x": "La tercera lectura, última oportunidad para que los miembros 'pulan' el proyecto y le introduzcan cambios, está prevista para el lunes 2 de noviembre."
+                "x": "“Ninguna empresa debería vender a los niños chatbots que fomenten las autolesiones o finjan ser su amigo o algo más”, dijo Hochul. El asambleísta Alex Bores, uno de los promotores, afirmó que el estado aprobó la ley “pese a la agresiva oposición de la industria”. Un segundo proyecto, S.9508/A.5175A, exige funciones de seguridad y etiquetas de advertencia en los monitores para bebés conectados a internet."
               }
             ]
           }
@@ -241,153 +223,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "상원, 프런티어 AI\n사고 보고 수정안 부결",
-          "body": "상원은 사이버 법안 수정안 두 건을 가결하고 프런티어 AI 사고 보고안은 부결했다.",
-          "mini_headline": "상원, AI 사고 보고 규정 부결",
+          "headline": "뉴욕주, 미성년자 대상\nAI 챗봇 기능 제한",
+          "body": "챗봇이 미성년자에게 사람·연인 행세하면 AG가 건당 최대 $25,000를 물린다.",
+          "mini_headline": "NY, 미성년자 대상 AI 챗봇 제한",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.parliament.uk/contentassets/d9c723cd82f8465480b98fe4d66ca17e/kevin-ku-w7zyugynprq-unsplash.webp?width=1000&quality=85"
+                "src": "https://www.governor.ny.gov/sites/default/files/styles/hero_wide/public/2026-10/aibabymonitor2.jpg?h=b5f6a62e&itok=8DLmZfWV",
+                "cap": "연단에서 발언하는 호컬(Hochul) 주지사."
               },
               {
                 "t": "p",
-                "x": "상원(House of Lords) 의원들은 10월 26일 월요일 보고 단계(report stage)에서 사이버보안·복원력(네트워크·정보시스템) 법안(Cyber Security and Resilience (Network and Information Systems) Bill)에 대한 추가 심사를 마쳤다."
+                "x": "캐시 호컬(Kathy Hochul) 주지사가 AI 챗봇과 인터넷 연결형 베이비 모니터에 관한 법안 두 건에 서명했다. S.9051B/A.10379C는 AI 챗봇 기능을 활용하는 기업이 미성년자에게 안전하지 않은 기능을 제공하지 못하게 한다. 사람인 척하거나, 정서적 의존을 키우거나, 자해를 부추기거나, 성적으로 노골적인 대화를 나누는 챗봇이 여기에 해당한다."
               },
               {
                 "t": "p",
-                "x": "이 법안은 의료, 식수, 에너지 같은 필수 서비스를 제공하는 UK 기관의 사이버 보안을 강화하는 것이 목표다. 새 법은 적용 분야를 넓히고 사고 보고 의무를 개정하며, 국가 안보를 위해 정부가 기관에 지시할 수 있는 권한도 부여한다."
+                "x": "기업은 18세 미만 이용자에게, 또는 미성년자가 아님을 먼저 확인하지 않은 모든 이용자에게 다음 기능을 제공할 수 없다. 실제 사람이거나 살아 있거나 인간의 감정을 지닌 척하는 것, 아동과 개인적·연애·직업적 관계나 권위자 관계를 주장하는 것, 자살·자해·섭식장애·약물 및 음주를 조장하는 것, 그리고 모든 성적으로 노골적인 콘텐츠다."
               },
               {
                 "t": "p",
-                "x": "의원들은 사고·사이버 위협·아차 사고의 자율 신고, NIS 체계에 서비스 제공업체와 소프트웨어 제조사 포함, 핵심 공급업체 지정과 공급망 취약성, '선의의' 사이버 보안 전문가 보호와 기소, SMEs를 위한 국가 사이버 보안 지원 서비스, 디지털 주권 전략(Digital Sovereignty Strategy)과 이사회 책임성 등을 다룬 수정안을 검토했다."
+                "x": "기업은 한 가지가 넘는 방법으로 연령을 확인해야 하며, 그중 최소 하나는 정부 발급 ID에만 의존하지 않는 방식이어야 한다. 사용한 연령 정보는 삭제해야 한다. 법무장관은 위반 건당 최대 $25,000의 민사 벌금을 청구할 수 있다."
+              },
+              {
+                "t": "video",
+                "yt": "3Kza_uwnviw"
               },
               {
                 "t": "p",
-                "x": "법안 수정안을 두고 세 차례 표결이 있었다. 의원들은 정부가 열두 달 안에 네트워크·정보시스템(Network and Information Systems) 제도의 실효성을 검토하고, UK 사이버 보안을 위협하는 국가 행위자 명부를 관리하도록 하는 수정안 두 건을 가결했다."
-              },
-              {
-                "t": "p",
-                "x": "세 번째 수정안인 프런티어 AI 모델 관련 사고 보고 조항은 표결에 부쳐졌지만 의원들이 받아들이지 않았다."
-              },
-              {
-                "t": "p",
-                "x": "의원들이 법안을 '정리'하고 수정할 마지막 기회인 3독회는 11월 2일 월요일로 잡혀 있다."
+                "x": "호컬은 “어떤 기업도 아이들에게 자해를 부추기거나 친구, 혹은 그 이상인 척하는 챗봇을 팔아서는 안 된다”고 말했다. 법안 발의자인 알렉스 보어스(Alex Bores) 주 하원의원은 주가 “업계의 공격적인 반대에도 불구하고” 이 법을 통과시켰다고 말했다. 두 번째 법안인 S.9508/A.5175A는 인터넷 연결형 베이비 모니터에 보안 기능과 경고 라벨을 의무화한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "英上院、フロンティアAI\nインシデント報告案を否決",
-          "body": "上院はサイバー法案の修正二件を可決し、フロンティアAIのインシデント報告案は否決した。",
-          "mini_headline": "上院、AIインシデント報告ルールを否決",
+          "headline": "ニューヨーク州法が未成年向け\nAIチャットボット機能を制限",
+          "body": "NY州のチャットボットは未成年に人や恋人を装えず、AGは違反毎に最大$25,000を科す。",
+          "mini_headline": "NY州、未成年向けAIチャットボットを制限",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.parliament.uk/contentassets/d9c723cd82f8465480b98fe4d66ca17e/kevin-ku-w7zyugynprq-unsplash.webp?width=1000&quality=85"
+                "src": "https://www.governor.ny.gov/sites/default/files/styles/hero_wide/public/2026-10/aibabymonitor2.jpg?h=b5f6a62e&itok=8DLmZfWV",
+                "cap": "演台で話すホークル(Hochul)知事。"
               },
               {
                 "t": "p",
-                "x": "貴族院(House of Lords)の議員らは10月26日月曜日、報告段階でサイバーセキュリティ・レジリエンス(ネットワーク・情報システム)法案(Cyber Security and Resilience (Network and Information Systems) Bill)の追加審査を終えた。"
+                "x": "キャシー・ホークル(Kathy Hochul)知事は、AIチャットボットとインターネット接続型ベビーモニターに関する二つの法案に署名した。S.9051B/A.10379Cは、AIチャットボット機能を利用する企業が未成年者に安全でない機能を提供することを禁じる。人間のふりをする、感情的な依存を生む、自傷を促す、性的に露骨な会話をするといったチャットボットが対象だ。"
               },
               {
                 "t": "p",
-                "x": "同法案は、医療や飲料水、エネルギーなど不可欠なサービスを提供するUKの組織のサイバーセキュリティ強化を目的とする。新法は対象分野を広げ、インシデント報告義務を見直し、国家安全保障のために政府が組織に指示できる権限も与える。"
+                "x": "企業は18歳未満の利用者に対し、また未成年でないことを事前に確認していない利用者に対しても、次の機能を提供してはならない。実在の人物である、生きている、人間の感情を持つと装うこと。子どもとの個人的、恋愛的、職業的、または権威者としての関係を主張すること。自殺、自傷、摂食障害、薬物や飲酒を助長すること。そして性的に露骨なあらゆるコンテンツである。"
               },
               {
                 "t": "p",
-                "x": "議員らは、インシデントやサイバー脅威、ニアミスの任意通知、NIS枠組みへのサービス事業者とソフトウェアメーカーの組み込み、重要サプライヤーの指定とサプライチェーンの脆弱性、「善意の」サイバーセキュリティ専門家の保護と訴追、SMEs向けの国家サイバーセキュリティ支援サービス、デジタル主権戦略(Digital Sovereignty Strategy)と取締役会の説明責任などに関する修正案を審議した。"
+                "x": "企業は複数の方法で年齢確認を行う必要があり、そのうち少なくとも一つは政府発行のIDだけに依存しない方法でなければならない。年齢情報は使用後に削除する。司法長官は違反ごとに最大$25,000の民事制裁金を求めることができる。"
+              },
+              {
+                "t": "video",
+                "yt": "3Kza_uwnviw"
               },
               {
                 "t": "p",
-                "x": "法案の修正をめぐり三回の採決が行われた。議員らは、政府に十二か月以内のネットワーク・情報システム(Network and Information Systems)制度の有効性検証と、UKのサイバーセキュリティを脅かす国家主体の登録簿の維持を求める二件の修正案を可決した。"
-              },
-              {
-                "t": "p",
-                "x": "フロンティアAIモデルに関わるインシデント報告をめぐる三件目の修正は採決にかけられたが、議員らは同意しなかった。"
-              },
-              {
-                "t": "p",
-                "x": "議員が法案を「整え」、修正を加える最後の機会となる第三読会は、11月2日月曜日に予定されている。"
+                "x": "「自傷を促したり、友人やそれ以上の存在を装ったりするチャットボットを子どもに売りつける企業があってはならない」とホークル氏は述べた。法案提出者の一人であるアレックス・ボアーズ(Alex Bores)州下院議員は、州が「業界の激しい反対にもかかわらず」この法律を成立させたと語った。二つ目の法案S.9508/A.5175Aは、インターネット接続型ベビーモニターにセキュリティ機能と警告ラベルを義務づける。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "英国上院否决前沿AI\n事件报告修正案",
-          "body": "上院通过了网络安全法案的两项修正案，但否决了一项关于前沿AI模型事件报告的修改。",
-          "mini_headline": "上院否决AI事件报告规定",
+          "headline": "纽约州立法限制面向\n未成年人的AI聊天机器人功能",
+          "body": "纽约州聊天机器人不得向未成年人冒充真人或恋人，AG可对每次违规处以最高$25,000罚款。",
+          "mini_headline": "NY限制面向未成年人的AI聊天机器人",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.parliament.uk/contentassets/d9c723cd82f8465480b98fe4d66ca17e/kevin-ku-w7zyugynprq-unsplash.webp?width=1000&quality=85"
+                "src": "https://www.governor.ny.gov/sites/default/files/styles/hero_wide/public/2026-10/aibabymonitor2.jpg?h=b5f6a62e&itok=8DLmZfWV",
+                "cap": "霍楚尔(Hochul)州长在讲台上发言。"
               },
               {
                 "t": "p",
-                "x": "上议院（House of Lords）议员于10月26日星期一在报告阶段完成了对《网络安全与韧性（网络与信息系统）法案》（Cyber Security and Resilience (Network and Information Systems) Bill）的进一步审议。"
+                "x": "州长凯西·霍楚尔(Kathy Hochul)签署了两项关于AI聊天机器人和联网婴儿监视器的法案。S.9051B/A.10379C禁止使用AI聊天机器人功能的公司向未成年人提供不安全的功能，包括假装是人类、培养情感依赖、鼓励自残或进行露骨性对话的聊天机器人。"
               },
               {
                 "t": "p",
-                "x": "该法案旨在加强UK境内提供医疗、饮用水和能源等基本服务的机构的网络安全。新法还将纳入更多行业，更新事件报告义务，并赋予政府出于国家安全利益向机构发出指令的权力。"
+                "x": "公司不得向18岁以下用户提供以下功能，也不得向任何未经事先确认并非未成年人的用户提供：假装是真人、有生命或拥有人类情感；声称与儿童存在个人、恋爱、职业或权威人物关系；宣扬自杀、自残、饮食失调或吸毒酗酒；以及任何露骨的色情内容。"
               },
               {
                 "t": "p",
-                "x": "议员们审议的修正案涉及：事件、网络威胁和未遂事件的自愿通报；将服务提供商和软件制造商纳入NIS框架；关键供应商的认定与供应链漏洞；“善意”网络安全专家的保护与起诉；面向SMEs的国家网络安全支持服务；以及数字主权战略（Digital Sovereignty Strategy）和董事会问责。"
+                "x": "公司必须采用不止一种方法进行年龄验证，其中至少一种不能仅依赖政府签发的ID，并须在使用后删除年龄信息。总检察长可对每次违规寻求最高$25,000的民事罚款。"
+              },
+              {
+                "t": "video",
+                "yt": "3Kza_uwnviw"
               },
               {
                 "t": "p",
-                "x": "围绕法案修改共进行了三次分组表决。议员们投票通过了两项修正案，要求政府在十二个月内评估网络与信息系统（Network and Information Systems）机制的有效性，并建立威胁UK网络安全的国家行为体名册。"
-              },
-              {
-                "t": "p",
-                "x": "第三项修改涉及前沿AI模型相关事件的报告，经表决后未获议员同意。"
-              },
-              {
-                "t": "p",
-                "x": "三读是议员“整理”法案并作出修改的最后机会，定于11月2日星期一进行。"
+                "x": "霍楚尔表示：“任何公司都不应向孩子兜售鼓励自残或假装是他们朋友乃至更亲密关系的聊天机器人。”法案提案人之一、州众议员亚历克斯·博雷斯(Alex Bores)表示，该州“顶着业界的强烈反对”通过了这项法律。第二项法案S.9508/A.5175A要求联网婴儿监视器配备安全功能和警告标签。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Lores rechazan enmienda sobre\nincidentes de AI de frontera",
-          "body": "Los Lores aprobaron dos enmiendas de ciberseguridad, pero rechazaron otra sobre notificar incidentes de AI de frontera.",
-          "mini_headline": "Los Lores rechazan una norma sobre incidentes de AI",
+          "headline": "Nueva York limita funciones de\nchatbots de AI para menores",
+          "body": "Los chatbots de Nueva York no podrán fingirse humanos o pareja de menores; el AG multará hasta $25,000 por infracción.",
+          "mini_headline": "NY limita los chatbots de AI para menores",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.parliament.uk/contentassets/d9c723cd82f8465480b98fe4d66ca17e/kevin-ku-w7zyugynprq-unsplash.webp?width=1000&quality=85"
+                "src": "https://www.governor.ny.gov/sites/default/files/styles/hero_wide/public/2026-10/aibabymonitor2.jpg?h=b5f6a62e&itok=8DLmZfWV",
+                "cap": "La gobernadora Hochul habla en un podio."
               },
               {
                 "t": "p",
-                "x": "Los miembros de la Cámara de los Lores (House of Lords) completaron el lunes 26 de octubre, en la fase de informe, el examen adicional del proyecto de ley de Ciberseguridad y Resiliencia (Redes y Sistemas de Información) (Cyber Security and Resilience (Network and Information Systems) Bill)."
+                "x": "La gobernadora Kathy Hochul firmó dos proyectos de ley sobre chatbots de AI y monitores para bebés conectados a internet. La S.9051B/A.10379C prohíbe a las empresas que utilizan funciones de chatbot de AI ofrecer funciones inseguras a menores, incluidos chatbots que se hacen pasar por humanos, generan dependencia emocional, fomentan las autolesiones o mantienen conversaciones sexualmente explícitas."
               },
               {
                 "t": "p",
-                "x": "El proyecto busca reforzar la ciberseguridad de las organizaciones del UK que prestan servicios esenciales, como la sanidad, el agua potable y la energía. La nueva ley también incorporará más sectores, actualizará las obligaciones de notificación de incidentes y otorgará al gobierno facultades para dar instrucciones a las organizaciones en interés de la seguridad nacional."
+                "x": "Las empresas no podrán ofrecer estas funciones a usuarios menores de 18 años, ni a ningún usuario sin haber confirmado antes que no es menor de edad: hacerse pasar por una persona real, por un ser vivo o por alguien con emociones humanas; afirmar una relación personal, romántica, profesional o de figura de autoridad con un niño; promover el suicidio, las autolesiones, los trastornos alimentarios o el consumo de drogas y alcohol; y cualquier contenido sexualmente explícito."
               },
               {
                 "t": "p",
-                "x": "Los miembros estudiaron enmiendas sobre asuntos como la notificación voluntaria de incidentes, ciberamenazas y cuasi incidentes; la inclusión de proveedores de servicios y fabricantes de software en el marco NIS; la designación de proveedores críticos y las vulnerabilidades de la cadena de suministro; la protección y el enjuiciamiento de especialistas en ciberseguridad que actúan 'de buena fe'; un servicio nacional de apoyo en ciberseguridad para SMEs; y una Estrategia de Soberanía Digital (Digital Sovereignty Strategy) y la rendición de cuentas de los consejos de administración."
+                "x": "Las empresas deberán verificar la edad con más de un método, incluido al menos uno que no dependa únicamente de un ID oficial, y borrar la información de edad tras usarla. El fiscal general podrá solicitar sanciones civiles de hasta $25,000 por infracción."
+              },
+              {
+                "t": "video",
+                "yt": "3Kza_uwnviw"
               },
               {
                 "t": "p",
-                "x": "Hubo tres votaciones sobre cambios propuestos al proyecto. Los miembros aprobaron dos enmiendas, que obligan al gobierno a revisar en un plazo de doce meses la eficacia del régimen de Redes y Sistemas de Información (Network and Information Systems) y a mantener un registro de actores estatales que amenazan la ciberseguridad del UK."
-              },
-              {
-                "t": "p",
-                "x": "Un tercer cambio, sobre la notificación de incidentes relacionados con modelos de AI de frontera, se sometió a votación, pero los miembros no lo aceptaron."
-              },
-              {
-                "t": "p",
-                "x": "La tercera lectura, última oportunidad para que los miembros 'pulan' el proyecto y le introduzcan cambios, está prevista para el lunes 2 de noviembre."
+                "x": "“Ninguna empresa debería vender a los niños chatbots que fomenten las autolesiones o finjan ser su amigo o algo más”, dijo Hochul. El asambleísta Alex Bores, uno de los promotores, afirmó que el estado aprobó la ley “pese a la agresiva oposición de la industria”. Un segundo proyecto, S.9508/A.5175A, exige funciones de seguridad y etiquetas de advertencia en los monitores para bebés conectados a internet."
               }
             ]
           }
@@ -395,15 +365,15 @@
       }
     },
     {
-      "id": "delaware-ai-firms",
+      "id": "italy-ai-decree",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "델라웨어, AI 에이전트에\n기업 경영 맡기는 구상",
-      "body": "델라웨어의 AI 단독 운영 회사 구상에 코머 의원이 소유주 책임 회피를 경고했다.",
-      "mini_headline": "델라웨어, AI-run 회사 검토",
+      "headline": "이탈리아 EU AI Act\n집행 방식 제시",
+      "body": "23일 발효된 179/2026호로 AgID·ACN이 EU AI Act를 집행한다.",
+      "mini_headline": "이탈리아 AI Act 시행령 윤곽",
       "tool": "Politics",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+      "source": "IAPP",
+      "url": "https://iapp.org/news/a/italys-ai-act-framework-takes-shape-what-legislative-decree-no-179-2026-means-for-organizations",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
@@ -411,203 +381,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg",
-            "cap": "전화 통화용 헤드셋을 쓴 로봇 일러스트."
+            "src": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt99872c4097b21ada/6adf77a36ee1cc326aa123d3/colosseum-italy-0015.jpg"
           },
           {
             "t": "p",
-            "x": "AI 에이전트에게 회사 운영을 맡기려는 델라웨어주(Delaware)의 제안은 AI가 저지른 무모하고 해로운 행위의 법적 책임을 기업의 인간 소유주가 피해 가게 해 준다고 하원 감독·정부개혁위원회(House Committee on Oversight and Government Reform) 위원장인 US 하원의원(Rep.) 제임스 코머(James Comer, R-Ky.)가 밝혔다. 그는 맷 마이어(Matt Meyer) 델라웨어 주지사에게 서한을 보내 계획 중인 \"인공지능 회사(Artificial Intelligence Company, AIC)\" 관련 문서를 요구했다."
+            "x": "10월 23일 입법령 No. 179가 발효되면서 EU 인공지능법(Artificial Intelligence Act)을 시행할 이탈리아 국내 체계가 결정적으로 진전했다. 10월 8일 관보에 실린 이 입법령은 2025년 9월 AI 일반법인 법률 No. 132로 시작한 두 단계 접근의 두 번째 단계다."
           },
           {
             "t": "p",
-            "x": "코머는 서한에 \"델라웨어의 AIC 제안이 강력한 AI 기업과 그 투자자들을 무모하고 해로운 행위에 대한 책임에서 보호하는 데 쓰일 수 있다는 점을 우려한다\"고 적었다. 코머 위원장은 이번 조사가 \"주 정부의 AI 규제 시도를 적절히 제한하는 방안을 포함해 향후 연방 입법 노력에 참고가 될 것\"이라고 말했다."
+            "x": "AI Act는 중요한 부분을 각국 법에 맡긴다. 회원국이 관할 당국을 지정하고 벌칙과 절차를 정하며 규제 샌드박스를 마련해야 한다. 이탈리아는 적어도 두 분야에서 독자 노선을 택했다."
           },
           {
             "t": "p",
-            "x": "법안 초안에 따르면 AI 에이전트는 AIC의 \"사업과 업무를 관리하도록 지정\"될 수 있고, AIC의 목적은 은행업만 빼고 합법이면 무엇이든 될 수 있다. 30개월간의 \"규제 샌드박스\"도 초안에 들어 있다. AIC에 자금을 대는 구성원은 \"AIC가 하는 어떤 행위나 부작위에도 책임을 지지 않는다\". 다만 사기나 고의적 법 위반은 예외다."
+            "x": "통보 당국은 이탈리아 디지털청(Agency for Digital Italy) AgID로, 적합성 평가 기관을 평가·지정·감독한다. 주요 시장 감시 당국이자 EU 기관과의 단일 연락 창구는 국가사이버보안청(National Cybersecurity Agency) ACN이다. ACN은 사전 통보 없이 실환경 시험을 점검하는 권한을 비롯한 조사·집행 권한을 갖고, 핵심 기반시설에 쓰이는 고위험 시스템 등록도 맡는다."
           },
           {
             "t": "p",
-            "x": "차루니 파티반다-산체스(Charuni Patibanda-Sanchez) 주 국무장관은 Norm Ai CEO 존 네이(John Nay)와 함께 Fortune에 쓴 기고문에서 \"해법은 AI를 법적 형식으로 감싸는 것\"이라고 주장했다. 마이어 주지사(Gov. Meyer)의 대변인은 서한을 받았고 검토 중이라고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "UC Berkeley 법학 교수 앤드루 베이커(Andrew Baker)는 Financial Times에 이 계획이 \"지나치게 관대한 책임 방패가 될\" 가능성이 커 보인다고 말했다."
+            "x": "IAPP 분석의 나머지는 회원만 볼 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Delaware plan would let AI\nagents run entire businesses",
-          "body": "A Delaware plan would let AI agents run firms with no human at the helm; Rep. Comer warns owners could evade liability.",
-          "mini_headline": "Delaware weighs AI-run companies",
+          "headline": "Italy sets out how it will\nenforce the EU AI Act",
+          "body": "Italy's Decree No. 179/2026, in force since Oct 23, names AgID and ACN as the national enforcers of the EU AI Act.",
+          "mini_headline": "Italy's AI Act decree takes shape",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg",
-                "cap": "Illustration of a robot wearing a headset for talking on the phone."
+                "src": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt99872c4097b21ada/6adf77a36ee1cc326aa123d3/colosseum-italy-0015.jpg"
               },
               {
                 "t": "p",
-                "x": "A Delaware proposal to let companies be operated by AI agents would help the firms' human owners evade legal responsibility for reckless and harmful actions taken by the AI, US Rep. James Comer (R-Ky.), chairman of the House Committee on Oversight and Government Reform, told Delaware Governor Matt Meyer in a letter seeking documents on the planned \"Artificial Intelligence Company (AIC).\""
+                "x": "Italy's national framework for the EU Artificial Intelligence Act took a decisive step forward 23 Oct., as Legislative Decree No. 179 entered into force. Published in the Official Journal 8 Oct., it is the second step of a two-step approach that began with Law No. 132 in September 2025, Italy's general law on AI."
               },
               {
                 "t": "p",
-                "x": "\"We are concerned that Delaware's AIC proposal could be used to protect powerful AI companies and their investors from responsibility for reckless harmful actions,\" the letter said. Comer said the probe would \"inform possible federal legislative efforts including proposals to appropriately limit state AI regulatory initiatives.\""
+                "x": "The AI Act leaves important pieces to national law: member states must designate competent authorities, lay down penalties and procedures, and set up regulatory sandboxes. In at least two areas, Italy has made choices of its own."
               },
               {
                 "t": "p",
-                "x": "A draft bill says AI agents could be \"designated to manage the business and affairs\" of an AIC, which may have any lawful purpose except banking, and proposes a 30-month \"regulatory sandbox.\" The member funding the AIC \"is not liable for any act or omission that the AIC takes,\" with exceptions for fraud or willful violations of law."
+                "x": "AgID, the Agency for Digital Italy, acts as the notifying authority, assessing, designating and monitoring conformity assessment bodies. ACN, the National Cybersecurity Agency, is the main market surveillance authority and the single point of contact with EU institutions, with investigative and enforcement powers, including inspecting real-world testing without prior notice, and it registers high-risk systems used in critical infrastructure."
               },
               {
                 "t": "p",
-                "x": "Secretary of State Charuni Patibanda-Sanchez, who co-wrote a Fortune op-ed with Norm Ai CEO John Nay, argued \"the answer is to wrap AI in legal form.\" A spokesperson for Gov. Meyer said the office has received the letter and is reviewing it."
-              },
-              {
-                "t": "p",
-                "x": "UC Berkeley law professor Andrew Baker told the Financial Times the plan seems likely \"to be an overly generous liability shield.\""
+                "x": "The rest of the IAPP analysis is available to members only."
               }
             ]
           }
         },
         "ko": {
-          "headline": "델라웨어, AI 에이전트에\n기업 경영 맡기는 구상",
-          "body": "델라웨어의 AI 단독 운영 회사 구상에 코머 의원이 소유주 책임 회피를 경고했다.",
-          "mini_headline": "델라웨어, AI-run 회사 검토",
+          "headline": "이탈리아 EU AI Act\n집행 방식 제시",
+          "body": "23일 발효된 179/2026호로 AgID·ACN이 EU AI Act를 집행한다.",
+          "mini_headline": "이탈리아 AI Act 시행령 윤곽",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg",
-                "cap": "전화 통화용 헤드셋을 쓴 로봇 일러스트."
+                "src": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt99872c4097b21ada/6adf77a36ee1cc326aa123d3/colosseum-italy-0015.jpg"
               },
               {
                 "t": "p",
-                "x": "AI 에이전트에게 회사 운영을 맡기려는 델라웨어주(Delaware)의 제안은 AI가 저지른 무모하고 해로운 행위의 법적 책임을 기업의 인간 소유주가 피해 가게 해 준다고 하원 감독·정부개혁위원회(House Committee on Oversight and Government Reform) 위원장인 US 하원의원(Rep.) 제임스 코머(James Comer, R-Ky.)가 밝혔다. 그는 맷 마이어(Matt Meyer) 델라웨어 주지사에게 서한을 보내 계획 중인 \"인공지능 회사(Artificial Intelligence Company, AIC)\" 관련 문서를 요구했다."
+                "x": "10월 23일 입법령 No. 179가 발효되면서 EU 인공지능법(Artificial Intelligence Act)을 시행할 이탈리아 국내 체계가 결정적으로 진전했다. 10월 8일 관보에 실린 이 입법령은 2025년 9월 AI 일반법인 법률 No. 132로 시작한 두 단계 접근의 두 번째 단계다."
               },
               {
                 "t": "p",
-                "x": "코머는 서한에 \"델라웨어의 AIC 제안이 강력한 AI 기업과 그 투자자들을 무모하고 해로운 행위에 대한 책임에서 보호하는 데 쓰일 수 있다는 점을 우려한다\"고 적었다. 코머 위원장은 이번 조사가 \"주 정부의 AI 규제 시도를 적절히 제한하는 방안을 포함해 향후 연방 입법 노력에 참고가 될 것\"이라고 말했다."
+                "x": "AI Act는 중요한 부분을 각국 법에 맡긴다. 회원국이 관할 당국을 지정하고 벌칙과 절차를 정하며 규제 샌드박스를 마련해야 한다. 이탈리아는 적어도 두 분야에서 독자 노선을 택했다."
               },
               {
                 "t": "p",
-                "x": "법안 초안에 따르면 AI 에이전트는 AIC의 \"사업과 업무를 관리하도록 지정\"될 수 있고, AIC의 목적은 은행업만 빼고 합법이면 무엇이든 될 수 있다. 30개월간의 \"규제 샌드박스\"도 초안에 들어 있다. AIC에 자금을 대는 구성원은 \"AIC가 하는 어떤 행위나 부작위에도 책임을 지지 않는다\". 다만 사기나 고의적 법 위반은 예외다."
+                "x": "통보 당국은 이탈리아 디지털청(Agency for Digital Italy) AgID로, 적합성 평가 기관을 평가·지정·감독한다. 주요 시장 감시 당국이자 EU 기관과의 단일 연락 창구는 국가사이버보안청(National Cybersecurity Agency) ACN이다. ACN은 사전 통보 없이 실환경 시험을 점검하는 권한을 비롯한 조사·집행 권한을 갖고, 핵심 기반시설에 쓰이는 고위험 시스템 등록도 맡는다."
               },
               {
                 "t": "p",
-                "x": "차루니 파티반다-산체스(Charuni Patibanda-Sanchez) 주 국무장관은 Norm Ai CEO 존 네이(John Nay)와 함께 Fortune에 쓴 기고문에서 \"해법은 AI를 법적 형식으로 감싸는 것\"이라고 주장했다. 마이어 주지사(Gov. Meyer)의 대변인은 서한을 받았고 검토 중이라고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "UC Berkeley 법학 교수 앤드루 베이커(Andrew Baker)는 Financial Times에 이 계획이 \"지나치게 관대한 책임 방패가 될\" 가능성이 커 보인다고 말했다."
+                "x": "IAPP 분석의 나머지는 회원만 볼 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "デラウェア州の新構想\nAIエージェントが企業経営",
-          "body": "無人でAIエージェントが企業を運営するデラウェア州案に、コマー議員が責任逃れを警告した。",
-          "mini_headline": "デラウェア州、AI-run 企業を検討",
+          "headline": "EU AI Actの執行方法\nイタリアが明示",
+          "body": "10月23日発効の政令179/2026で、AgIDとACNがEU AI Actを執行する。",
+          "mini_headline": "イタリアのAI Act政令が形に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg",
-                "cap": "電話用のヘッドセットを着けたロボットのイラスト。"
+                "src": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt99872c4097b21ada/6adf77a36ee1cc326aa123d3/colosseum-italy-0015.jpg"
               },
               {
                 "t": "p",
-                "x": "AIエージェントによる企業運営を認めるデラウェア州(Delaware)の提案は、AIが行った無謀で有害な行為について企業の人間の所有者が法的責任を逃れる助けになる。下院監視・政府改革委員会(House Committee on Oversight and Government Reform)委員長のジェームズ・コマー(James Comer、R-Ky.)US下院議員(Rep.)は、計画中の「人工知能企業(Artificial Intelligence Company、AIC)」に関する文書を求める書簡で、デラウェア州のマット・マイヤー(Matt Meyer)知事にこう伝えた。"
+                "x": "EU人工知能法(Artificial Intelligence Act)に向けたイタリアの国内枠組みは、10月23日に立法令No. 179が施行され、決定的な一歩を踏み出した。10月8日に官報に掲載された同令は、2025年9月のイタリアのAI一般法である法律No. 132から始まった二段階アプローチの第二段階にあたる。"
               },
               {
                 "t": "p",
-                "x": "書簡は「デラウェア州のAIC案が、強力なAI企業とその投資家を無謀で有害な行為の責任から守るために使われかねないことを懸念している」と述べた。コマー氏は、この調査が「州のAI規制の取り組みを適切に制限する提案を含め、今後の連邦立法の検討に役立つ」と述べた。"
+                "x": "AI Actは重要な部分を各国の法律に委ねている。加盟国は所管当局を指定し、罰則と手続きを定め、規制サンドボックスを設けなければならない。イタリアは少なくとも二つの分野で独自の選択をした。"
               },
               {
                 "t": "p",
-                "x": "法案草案によると、AIエージェントはAICの「事業と業務を管理するよう指定」されうる。AICは銀行業を除くあらゆる合法的な目的を持つことができ、草案は30か月の「規制サンドボックス」も提案している。AICに資金を出すメンバーは「AICが行ういかなる作為または不作為についても責任を負わない」とされ、詐欺や故意の法令違反は例外となる。"
+                "x": "イタリア・デジタル庁(Agency for Digital Italy)のAgIDは届出当局として、適合性評価機関の審査、指定、監視を担う。国家サイバーセキュリティ庁(National Cybersecurity Agency)のACNは主要な市場監視当局であり、EU機関との単一窓口でもある。事前通知なしの実環境テストの検査を含む調査・執行権限を持ち、重要インフラで使われる高リスクシステムの登録も行う。"
               },
               {
                 "t": "p",
-                "x": "Norm AiのCEOジョン・ネイ(John Nay)とFortuneに論説を共同執筆したチャルニ・パティバンダ=サンチェス(Charuni Patibanda-Sanchez)州務長官は、「答えはAIを法的な形式で包むことだ」と主張した。マイヤー知事(Gov. Meyer)の報道官は、書簡を受け取り精査していると述べた。"
-              },
-              {
-                "t": "p",
-                "x": "UC Berkeleyの法学教授アンドルー・ベイカー(Andrew Baker)はFinancial Timesに対し、この計画は「過度に寛大な責任の盾になる」可能性が高いように見えると語った。"
+                "x": "IAPPによる分析の残りは会員限定で公開されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "特拉华州拟让AI代理\n全权经营企业",
-          "body": "特拉华州方案拟让AI代理在无人掌舵下经营企业，科默众议员警告企业主或借此逃避责任。",
-          "mini_headline": "特拉华州考虑 AI-run 公司",
+          "headline": "意大利明确如何执行\nEU AI Act",
+          "body": "意大利第179/2026号法令10月23日生效，由AgID和ACN执行EU AI Act。",
+          "mini_headline": "意大利AI Act法令成形",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg",
-                "cap": "一名戴着通话耳机的机器人插图。"
+                "src": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt99872c4097b21ada/6adf77a36ee1cc326aa123d3/colosseum-italy-0015.jpg"
               },
               {
                 "t": "p",
-                "x": "众议院监督与政府改革委员会（House Committee on Oversight and Government Reform）主席、US众议员（Rep.）詹姆斯·科默（James Comer，R-Ky.）在致特拉华州（Delaware）州长马特·迈耶（Matt Meyer）的信中表示，特拉华州允许由AI代理运营公司的提案，将帮助这些公司的人类所有者逃避对AI鲁莽、有害行为的法律责任。他在信中要求提供拟议中的“人工智能公司（Artificial Intelligence Company，AIC）”相关文件。"
+                "x": "随着第179号立法令(No. 179)于10月23日生效，意大利落实欧盟《人工智能法》(EU Artificial Intelligence Act)的国家框架迈出决定性一步。该法令于10月8日在官方公报上发布，是两步走方针的第二步；第一步是2025年9月出台的意大利AI通用法——第132号法律(No. 132)。"
               },
               {
                 "t": "p",
-                "x": "信中写道：“我们担心特拉华州的AIC提案可能被用来使强大的AI公司及其投资者免于为鲁莽的有害行为承担责任。”科默表示，这项调查将“为可能的联邦立法工作提供参考，包括适当限制州级AI监管举措的提案”。"
+                "x": "AI Act将重要部分留给各国法律：成员国必须指定主管机关，制定处罚和程序，并设立监管沙盒。意大利至少在两个领域作出了自己的选择。"
               },
               {
                 "t": "p",
-                "x": "一份法案草案称，AI代理可被“指定管理”AIC的“业务和事务”，AIC可从事除银行业以外的任何合法业务，草案还提议设立为期30个月的“监管沙盒”。为AIC出资的成员“不对AIC的任何作为或不作为承担责任”，欺诈或故意违法除外。"
+                "x": "意大利数字局(Agency for Digital Italy)AgID担任通报机构，负责评估、指定和监督合格评定机构。国家网络安全局(National Cybersecurity Agency)ACN是主要市场监督机构，也是与EU机构对接的单一联络点，拥有调查和执法权，包括在不事先通知的情况下检查真实环境测试，并负责登记用于关键基础设施的高风险系统。"
               },
               {
                 "t": "p",
-                "x": "曾与Norm Ai首席执行官（CEO）约翰·奈（John Nay）在Fortune合写评论文章的州务卿查鲁尼·帕蒂班达-桑切斯（Charuni Patibanda-Sanchez）认为，“答案是给AI套上法律形式”。迈耶州长（Gov. Meyer）的发言人表示，办公室已收到信件，正在审阅。"
-              },
-              {
-                "t": "p",
-                "x": "UC Berkeley法学教授安德鲁·贝克（Andrew Baker）对Financial Times表示，该计划看起来很可能“成为过于宽松的责任盾牌”。"
+                "x": "IAPP分析的其余内容仅向会员开放。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Delaware plantea que agentes\nde AI dirijan empresas enteras",
-          "body": "Delaware dejaría a agentes de AI dirigir firmas sin humanos; el Rep. Comer teme que los dueños evadan responsabilidad.",
-          "mini_headline": "Delaware estudia empresas AI-run",
+          "headline": "Italia define cómo hará cumplir\nla EU AI Act",
+          "body": "El decreto italiano No. 179/2026, vigente desde el 23 de octubre, designa a AgID y ACN para aplicar la EU AI Act.",
+          "mini_headline": "Toma forma el decreto italiano de la AI Act",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg",
-                "cap": "Ilustración de un robot con auriculares para hablar por teléfono."
+                "src": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt99872c4097b21ada/6adf77a36ee1cc326aa123d3/colosseum-italy-0015.jpg"
               },
               {
                 "t": "p",
-                "x": "Una propuesta de Delaware para que las empresas puedan ser operadas por agentes de AI ayudaría a sus dueños humanos a eludir la responsabilidad legal por acciones temerarias y dañinas de la AI, según dijo el representante de US (Rep.) James Comer (R-Ky.), presidente del Comité de Supervisión y Reforma del Gobierno de la Cámara (House Committee on Oversight and Government Reform), al gobernador de Delaware, Matt Meyer, en una carta en la que pide documentos sobre la prevista \"Artificial Intelligence Company (AIC)\"."
+                "x": "El marco nacional de Italia para la EU Artificial Intelligence Act dio un paso decisivo el 23 de octubre, con la entrada en vigor del Decreto Legislativo No. 179. Publicado en el Diario Oficial el 8 de octubre, es el segundo paso de un enfoque en dos etapas que comenzó con la Ley No. 132 en septiembre de 2025, la ley general de Italia sobre AI."
               },
               {
                 "t": "p",
-                "x": "\"Nos preocupa que la propuesta de AIC de Delaware pueda usarse para proteger a poderosas empresas de AI y a sus inversores de la responsabilidad por acciones temerarias y dañinas\", señalaba la carta. Comer dijo que la investigación \"servirá de base para posibles iniciativas legislativas federales, incluidas propuestas para limitar adecuadamente las iniciativas regulatorias estatales sobre AI\"."
+                "x": "La AI Act deja piezas importantes a la legislación nacional: los Estados miembros deben designar autoridades competentes, establecer sanciones y procedimientos, y crear entornos de pruebas regulatorios (sandboxes). Al menos en dos áreas, Italia ha tomado decisiones propias."
               },
               {
                 "t": "p",
-                "x": "Un borrador del proyecto de ley indica que los agentes de AI podrían ser \"designados para gestionar los negocios y asuntos\" de una AIC, que puede tener cualquier fin lícito salvo la banca, y propone un \"sandbox regulatorio\" de 30 meses. El miembro que financia la AIC \"no es responsable de ningún acto u omisión de la AIC\", con excepciones por fraude o infracciones deliberadas de la ley."
+                "x": "AgID, la Agencia para la Italia Digital, actúa como autoridad notificante: evalúa, designa y supervisa a los organismos de evaluación de la conformidad. ACN, la Agencia Nacional de Ciberseguridad, es la principal autoridad de vigilancia del mercado y el punto de contacto único con las instituciones de la EU, con poderes de investigación y ejecución, incluida la inspección sin previo aviso de pruebas en condiciones reales, y registra los sistemas de alto riesgo usados en infraestructuras críticas."
               },
               {
                 "t": "p",
-                "x": "La secretaria de Estado Charuni Patibanda-Sanchez, que firmó junto con el CEO de Norm Ai, John Nay, una columna de opinión en Fortune, sostuvo que \"la respuesta es envolver la AI en una forma jurídica\". Un portavoz del gobernador (Gov.) Meyer dijo que la oficina recibió la carta y la está revisando."
-              },
-              {
-                "t": "p",
-                "x": "Andrew Baker, profesor de Derecho en UC Berkeley, dijo al Financial Times que el plan probablemente \"sea un escudo de responsabilidad demasiado generoso\"."
+                "x": "El resto del análisis de la IAPP está disponible solo para miembros."
               }
             ]
           }
@@ -615,141 +555,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "델라웨어, AI 에이전트에\n기업 경영 맡기는 구상",
-          "body": "델라웨어의 AI 단독 운영 회사 구상에 코머 의원은 소유주 책임 회피를 경고했다.",
-          "mini_headline": "델라웨어, AI-run 회사 검토",
+          "headline": "이탈리아 EU AI Act\n집행 방식 제시",
+          "body": "23일 발효된 179/2026호로 AgID·ACN이 EU AI Act를 집행한다.",
+          "mini_headline": "이탈리아 AI Act 시행령 윤곽",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg",
-                "cap": "전화 통화용 헤드셋을 쓴 로봇 일러스트."
+                "src": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt99872c4097b21ada/6adf77a36ee1cc326aa123d3/colosseum-italy-0015.jpg"
               },
               {
                 "t": "p",
-                "x": "AI 에이전트가 회사를 운영하도록 허용하려는 델라웨어주(Delaware)의 제안은 AI가 저지른 무모하고 해로운 행위에 대해 기업의 인간 소유주가 법적 책임을 피하도록 도울 것이라고 하원 감독·정부개혁위원회(House Committee on Oversight and Government Reform) 위원장인 US 하원의원(Rep.) 제임스 코머(James Comer, R-Ky.)가 밝혔다. 그는 계획 중인 \"인공지능 회사(Artificial Intelligence Company, AIC)\" 관련 문서를 요구하는 서한을 맷 마이어(Matt Meyer) 델라웨어 주지사에게 보냈다."
+                "x": "EU 인공지능법(Artificial Intelligence Act)을 위한 이탈리아의 국내 체계가 10월 23일 입법령 No. 179가 발효되면서 결정적인 진전을 이뤘다. 10월 8일 관보에 게재된 이 입법령은 2025년 9월 이탈리아의 AI 일반법인 법률 No. 132로 시작된 두 단계 접근의 두 번째 단계다."
               },
               {
                 "t": "p",
-                "x": "서한은 \"델라웨어의 AIC 제안이 강력한 AI 기업과 그 투자자들을 무모하고 해로운 행위에 대한 책임에서 보호하는 데 쓰일 수 있다는 점을 우려한다\"고 밝혔다. 코머 위원장은 이번 조사가 \"주 정부의 AI 규제 시도를 적절히 제한하는 방안을 포함해 향후 연방 입법 노력에 참고가 될 것\"이라고 말했다."
+                "x": "AI Act는 중요한 부분을 각국 법률에 맡긴다. 회원국은 관할 당국을 지정하고, 벌칙과 절차를 정하며, 규제 샌드박스를 마련해야 한다. 이탈리아는 최소 두 분야에서 독자적인 선택을 했다."
               },
               {
                 "t": "p",
-                "x": "법안 초안에 따르면 AI 에이전트는 AIC의 \"사업과 업무를 관리하도록 지정\"될 수 있고, AIC는 은행업을 제외한 모든 합법적 목적을 가질 수 있다. 초안은 30개월간의 \"규제 샌드박스\"도 제안한다. AIC에 자금을 대는 구성원은 \"AIC가 하는 어떤 행위나 부작위에도 책임을 지지 않는다\". 다만 사기나 고의적 법 위반은 예외다."
+                "x": "이탈리아 디지털청(Agency for Digital Italy) AgID는 통보 당국으로서 적합성 평가 기관을 평가·지정·감독한다. 국가사이버보안청(National Cybersecurity Agency) ACN은 주요 시장 감시 당국이자 EU 기관과의 단일 연락 창구로, 사전 통보 없이 실환경 시험을 점검하는 권한을 포함한 조사·집행 권한을 갖는다. ACN은 핵심 기반시설에 쓰이는 고위험 시스템도 등록한다."
               },
               {
                 "t": "p",
-                "x": "Norm Ai CEO 존 네이(John Nay)와 함께 Fortune에 기고문을 쓴 차루니 파티반다-산체스(Charuni Patibanda-Sanchez) 주 국무장관은 \"해법은 AI를 법적 형식으로 감싸는 것\"이라고 주장했다. 마이어 주지사(Gov. Meyer)의 대변인은 서한을 받아 검토하고 있다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "UC Berkeley 법학 교수 앤드루 베이커(Andrew Baker)는 Financial Times에 이 계획이 \"지나치게 관대한 책임 방패가 될\" 가능성이 커 보인다고 말했다."
+                "x": "IAPP 분석의 나머지 내용은 회원에게만 공개된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "デラウェア州の新構想\nAIエージェントが企業経営",
-          "body": "無人でAIエージェントが企業を運営するデラウェア州案に、コマー議員が責任逃れを警告した。",
-          "mini_headline": "デラウェア州、AI-run 企業を検討",
+          "headline": "EU AI Actの執行方法\nイタリアが明示",
+          "body": "10月23日発効の政令179/2026で、AgIDとACNがEU AI Actを執行する。",
+          "mini_headline": "イタリアのAI Act政令が形に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg",
-                "cap": "電話用のヘッドセットを着けたロボットのイラスト。"
+                "src": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt99872c4097b21ada/6adf77a36ee1cc326aa123d3/colosseum-italy-0015.jpg"
               },
               {
                 "t": "p",
-                "x": "AIエージェントによる企業運営を認めるデラウェア州(Delaware)の提案は、AIが行った無謀で有害な行為について企業の人間の所有者が法的責任を逃れる助けになる。下院監視・政府改革委員会(House Committee on Oversight and Government Reform)委員長のジェームズ・コマー(James Comer、R-Ky.)US下院議員(Rep.)は、計画中の「人工知能企業(Artificial Intelligence Company、AIC)」に関する文書を求める書簡で、デラウェア州のマット・マイヤー(Matt Meyer)知事にこう伝えた。"
+                "x": "EU人工知能法(Artificial Intelligence Act)に向けたイタリアの国内枠組みは、10月23日に立法令No. 179が施行され、決定的な一歩を踏み出した。10月8日に官報に掲載された同令は、2025年9月のイタリアのAI一般法である法律No. 132から始まった二段階アプローチの第二段階にあたる。"
               },
               {
                 "t": "p",
-                "x": "書簡は「デラウェア州のAIC案が、強力なAI企業とその投資家を無謀で有害な行為の責任から守るために使われかねないことを懸念している」と述べた。コマー氏は、この調査が「州のAI規制の取り組みを適切に制限する提案を含め、今後の連邦立法の検討に役立つ」と述べた。"
+                "x": "AI Actは重要な部分を各国の法律に委ねている。加盟国は所管当局を指定し、罰則と手続きを定め、規制サンドボックスを設けなければならない。イタリアは少なくとも二つの分野で独自の選択をした。"
               },
               {
                 "t": "p",
-                "x": "法案草案によると、AIエージェントはAICの「事業と業務を管理するよう指定」されうる。AICは銀行業を除くあらゆる合法的な目的を持つことができ、草案は30か月の「規制サンドボックス」も提案している。AICに資金を出すメンバーは「AICが行ういかなる作為または不作為についても責任を負わない」とされ、詐欺や故意の法令違反は例外となる。"
+                "x": "イタリア・デジタル庁(Agency for Digital Italy)のAgIDは届出当局として、適合性評価機関の審査、指定、監視を担う。国家サイバーセキュリティ庁(National Cybersecurity Agency)のACNは主要な市場監視当局であり、EU機関との単一窓口でもある。事前通知なしの実環境テストの検査を含む調査・執行権限を持ち、重要インフラで使われる高リスクシステムの登録も行う。"
               },
               {
                 "t": "p",
-                "x": "Norm AiのCEOジョン・ネイ(John Nay)とFortuneに論説を共同執筆したチャルニ・パティバンダ=サンチェス(Charuni Patibanda-Sanchez)州務長官は、「答えはAIを法的な形式で包むことだ」と主張した。マイヤー知事(Gov. Meyer)の報道官は、書簡を受け取り精査していると述べた。"
-              },
-              {
-                "t": "p",
-                "x": "UC Berkeleyの法学教授アンドルー・ベイカー(Andrew Baker)はFinancial Timesに対し、この計画は「過度に寛大な責任の盾になる」可能性が高いように見えると語った。"
+                "x": "IAPPによる分析の残りは会員限定で公開されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "特拉华州拟让AI代理\n全权经营企业",
-          "body": "特拉华州方案拟让AI代理在无人掌舵下经营企业，科默众议员警告企业主或借此逃避责任。",
-          "mini_headline": "特拉华州考虑 AI-run 公司",
+          "headline": "意大利明确如何执行\nEU AI Act",
+          "body": "意大利第179/2026号法令10月23日生效，由AgID和ACN执行EU AI Act。",
+          "mini_headline": "意大利AI Act法令成形",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg",
-                "cap": "一名戴着通话耳机的机器人插图。"
+                "src": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt99872c4097b21ada/6adf77a36ee1cc326aa123d3/colosseum-italy-0015.jpg"
               },
               {
                 "t": "p",
-                "x": "众议院监督与政府改革委员会（House Committee on Oversight and Government Reform）主席、US众议员（Rep.）詹姆斯·科默（James Comer，R-Ky.）在致特拉华州（Delaware）州长马特·迈耶（Matt Meyer）的信中表示，特拉华州允许由AI代理运营公司的提案，将帮助这些公司的人类所有者逃避对AI鲁莽、有害行为的法律责任。他在信中要求提供拟议中的“人工智能公司（Artificial Intelligence Company，AIC）”相关文件。"
+                "x": "随着第179号立法令(No. 179)于10月23日生效，意大利落实欧盟《人工智能法》(EU Artificial Intelligence Act)的国家框架迈出决定性一步。该法令于10月8日在官方公报上发布，是两步走方针的第二步；第一步是2025年9月出台的意大利AI通用法——第132号法律(No. 132)。"
               },
               {
                 "t": "p",
-                "x": "信中写道：“我们担心特拉华州的AIC提案可能被用来使强大的AI公司及其投资者免于为鲁莽的有害行为承担责任。”科默表示，这项调查将“为可能的联邦立法工作提供参考，包括适当限制州级AI监管举措的提案”。"
+                "x": "AI Act将重要部分留给各国法律：成员国必须指定主管机关，制定处罚和程序，并设立监管沙盒。意大利至少在两个领域作出了自己的选择。"
               },
               {
                 "t": "p",
-                "x": "一份法案草案称，AI代理可被“指定管理”AIC的“业务和事务”，AIC可从事除银行业以外的任何合法业务，草案还提议设立为期30个月的“监管沙盒”。为AIC出资的成员“不对AIC的任何作为或不作为承担责任”，欺诈或故意违法除外。"
+                "x": "意大利数字局(Agency for Digital Italy)AgID担任通报机构，负责评估、指定和监督合格评定机构。国家网络安全局(National Cybersecurity Agency)ACN是主要市场监督机构，也是与EU机构对接的单一联络点，拥有调查和执法权，包括在不事先通知的情况下检查真实环境测试，并负责登记用于关键基础设施的高风险系统。"
               },
               {
                 "t": "p",
-                "x": "曾与Norm Ai首席执行官（CEO）约翰·奈（John Nay）在Fortune合写评论文章的州务卿查鲁尼·帕蒂班达-桑切斯（Charuni Patibanda-Sanchez）认为，“答案是给AI套上法律形式”。迈耶州长（Gov. Meyer）的发言人表示，办公室已收到信件，正在审阅。"
-              },
-              {
-                "t": "p",
-                "x": "UC Berkeley法学教授安德鲁·贝克（Andrew Baker）对Financial Times表示，该计划看起来很可能“成为过于宽松的责任盾牌”。"
+                "x": "IAPP分析的其余内容仅向会员开放。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Delaware plantea que agentes\nde AI dirijan empresas enteras",
-          "body": "Delaware dejaría a agentes de AI dirigir firmas sin humanos; el Rep. Comer teme que los dueños evadan responsabilidad.",
-          "mini_headline": "Delaware estudia empresas AI-run",
+          "headline": "Italia define cómo hará cumplir\nla EU AI Act",
+          "body": "El decreto italiano No. 179/2026, vigente desde el 23 de octubre, designa a AgID y ACN para aplicar la EU AI Act.",
+          "mini_headline": "Toma forma el decreto italiano de la AI Act",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg",
-                "cap": "Ilustración de un robot con auriculares para hablar por teléfono."
+                "src": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt99872c4097b21ada/6adf77a36ee1cc326aa123d3/colosseum-italy-0015.jpg"
               },
               {
                 "t": "p",
-                "x": "Una propuesta de Delaware para que las empresas puedan ser operadas por agentes de AI ayudaría a sus dueños humanos a eludir la responsabilidad legal por acciones temerarias y dañinas de la AI, según dijo el representante de US (Rep.) James Comer (R-Ky.), presidente del Comité de Supervisión y Reforma del Gobierno de la Cámara (House Committee on Oversight and Government Reform), al gobernador de Delaware, Matt Meyer, en una carta en la que pide documentos sobre la prevista \"Artificial Intelligence Company (AIC)\"."
+                "x": "El marco nacional de Italia para la EU Artificial Intelligence Act dio un paso decisivo el 23 de octubre, con la entrada en vigor del Decreto Legislativo No. 179. Publicado en el Diario Oficial el 8 de octubre, es el segundo paso de un enfoque en dos etapas que comenzó con la Ley No. 132 en septiembre de 2025, la ley general de Italia sobre AI."
               },
               {
                 "t": "p",
-                "x": "\"Nos preocupa que la propuesta de AIC de Delaware pueda usarse para proteger a poderosas empresas de AI y a sus inversores de la responsabilidad por acciones temerarias y dañinas\", señalaba la carta. Comer dijo que la investigación \"servirá de base para posibles iniciativas legislativas federales, incluidas propuestas para limitar adecuadamente las iniciativas regulatorias estatales sobre AI\"."
+                "x": "La AI Act deja piezas importantes a la legislación nacional: los Estados miembros deben designar autoridades competentes, establecer sanciones y procedimientos, y crear entornos de pruebas regulatorios (sandboxes). Al menos en dos áreas, Italia ha tomado decisiones propias."
               },
               {
                 "t": "p",
-                "x": "Un borrador del proyecto de ley indica que los agentes de AI podrían ser \"designados para gestionar los negocios y asuntos\" de una AIC, que puede tener cualquier fin lícito salvo la banca, y propone un \"sandbox regulatorio\" de 30 meses. El miembro que financia la AIC \"no es responsable de ningún acto u omisión de la AIC\", con excepciones por fraude o infracciones deliberadas de la ley."
+                "x": "AgID, la Agencia para la Italia Digital, actúa como autoridad notificante: evalúa, designa y supervisa a los organismos de evaluación de la conformidad. ACN, la Agencia Nacional de Ciberseguridad, es la principal autoridad de vigilancia del mercado y el punto de contacto único con las instituciones de la EU, con poderes de investigación y ejecución, incluida la inspección sin previo aviso de pruebas en condiciones reales, y registra los sistemas de alto riesgo usados en infraestructuras críticas."
               },
               {
                 "t": "p",
-                "x": "La secretaria de Estado Charuni Patibanda-Sanchez, que firmó junto con el CEO de Norm Ai, John Nay, una columna de opinión en Fortune, sostuvo que \"la respuesta es envolver la AI en una forma jurídica\". Un portavoz del gobernador (Gov.) Meyer dijo que la oficina recibió la carta y la está revisando."
-              },
-              {
-                "t": "p",
-                "x": "Andrew Baker, profesor de Derecho en UC Berkeley, dijo al Financial Times que el plan probablemente \"sea un escudo de responsabilidad demasiado generoso\"."
+                "x": "El resto del análisis de la IAPP está disponible solo para miembros."
               }
             ]
           }
@@ -757,15 +677,15 @@
       }
     },
     {
-      "id": "inec-voter-photos",
+      "id": "pakistan-ecp-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "INEC, 선거인명부 속\nAI-made 사진 조사",
-      "body": "INEC이 12월 15일 명부확정 전 AI-generated 의심 사진을 점검한다.",
-      "mini_headline": "INEC, 명부 속 AI 사진 조사",
+      "headline": "파키스탄 선관위\nAI·딥페이크 규칙 제안",
+      "body": "ECP가 AI 표기·기만적 딥페이크 금지안을 내고 11월 20일까지 의견을 받는다.",
+      "mini_headline": "파키스탄, AI 선거 규칙 초안",
       "tool": "Politics",
-      "source": "Channels Television",
-      "url": "https://www.channelstv.com/2026/10/27/inec-probes-suspected-ai-generated-photos-in-voters-register/",
+      "source": "The Express Tribune",
+      "url": "https://tribune.com.pk/story/2636906/ecp-proposes-rule-amendments-to-curb-ai-misuse-during-polls",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -773,179 +693,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.channelstv.com/wp-content/uploads/2024/11/Ondo-Governorship-Election-2024-Residents-check-their-names-in-the-voters-register.jpeg",
-            "cap": "자료 사진(FILE PHOTO): 2024년 11월 16일 토요일 온도(Ondo) 주지사 선거에서 주민들이 선거인명부에서 자기 이름을 확인하고 있다. 사진: Taiwo Adeshina/Channels TV"
+            "src": "https://i.tribune.com.pk/media/images/ecp1753715314-0/ecp1753715314-0-640x480.webp",
+            "cap": "이슬라마바드의 파키스탄 선거관리위원회 건물. 사진: Radio Pakistan"
           },
           {
             "t": "p",
-            "x": "나이지리아(Nigeria) 독립국가선거관리위원회(INEC)는 웹사이트에 공개한 예비 선거인명부에서 발견된 AI-generated 의심 사진을 조사 중이며 의심스러운 등록 기록과 기술적·절차적 허점 가능성도 함께 들여다본다고 밝혔다."
+            "x": "파키스탄 선거관리위원회(ECP)가 선거 기간 인공지능(AI) 오용을 막으려고 정당·언론사·선거 참관인용 2023년 행동강령 개정안 12건을 내놨다."
           },
           {
             "t": "p",
-            "x": "INEC 정보·유권자교육위원회 위원장 모하메드 쿠두 하루나(Mohammed Kudu Haruna)가 서명한 성명에 따르면 10월 26일 올린 명부는 10월 9일부터 15일까지 현장에 게시했던 예비 명부와 같다. 위원회는 \"온라인 공개본은 원래의 예비 명부이며 현재 진행 중인 데이터 정비 작업을 모두 반영하지는 않는다\"고 설명했다."
+            "x": "위원회는 11월 20일까지 일반 시민과 이해관계자 의견을 받는다. AI 생성(AI-generated) 콘텐츠를 규제하고 기만적 딥페이크를 금지하며 선거 관련 소통을 투명하게 하자는 취지다."
           },
           {
             "t": "p",
-            "x": "위원회는 \"기술적·절차적 허점 가능성을 포함해 의심 사진을 둘러싼 경위도 살피고 있으며, 확인된 결과에 따라 적절히 조치하겠다\"고 밝혔다."
+            "x": "언론사는 AI로 만들거나 고친 콘텐츠를 방송·게재·공개할 때 그 사실을 분명히 밝혀야 한다. 초안은 정당 지도자, 후보자, 선거 관리 공무원, 판사, 군인과 그 밖의 국가 공무원을 다룬 딥페이크가 허위이거나 명예를 훼손하거나 조롱할 의도라면 이를 금지한다."
           },
           {
             "t": "p",
-            "x": "INEC는 2026년 12월 15일 최종 선거인명부를 확정하기 전에 검증, 판정, 데이터 정비 절차를 마칠 계획이라고 밝혔다."
+            "x": "AI 사용을 밝히기만 하면 언론은 선거 콘텐츠를 준비·번역·진행·분석하는 데 AI 도구를 쓸 수 있다. 표시 없는 AI 콘텐츠는 Pemra, 소셜미디어보호규제청, 국가사이버범죄수사청이 감시하고 위반 사항을 ECP에 보고한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Nigeria's INEC probes AI-made\nphotos in voter register",
-          "body": "INEC is checking suspected AI-generated photos in its draft voter register before final certification on December 15.",
-          "mini_headline": "INEC probes AI photos in register",
+          "headline": "Pakistan poll body proposes\nrules on AI and deepfakes",
+          "body": "Pakistan's ECP draft asks media to disclose AI content and bans deceptive deepfakes; comments run to Nov 20.",
+          "mini_headline": "Pakistan drafts AI poll rules",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.channelstv.com/wp-content/uploads/2024/11/Ondo-Governorship-Election-2024-Residents-check-their-names-in-the-voters-register.jpeg",
-                "cap": "FILE PHOTO: Residents check their names in the voters register during the Ondo governorship election on Saturday, November 16, 2024. Photo: Taiwo Adeshina/Channels TV"
+                "src": "https://i.tribune.com.pk/media/images/ecp1753715314-0/ecp1753715314-0-640x480.webp",
+                "cap": "Election Commission of Pakistan building in Islamabad. Photo: Radio Pakistan"
               },
               {
                 "t": "p",
-                "x": "The Independent National Electoral Commission (INEC) says it is investigating suspected AI-generated photographs found in the preliminary Register of Voters published on its website, with a review of questionable registration records and possible technical or procedural lapses underway."
+                "x": "The Election Commission of Pakistan (ECP) proposed 12 amendments to the 2023 codes of conduct for political parties, media organisations and election observers to curb the misuse of artificial intelligence (AI) during elections."
               },
               {
                 "t": "p",
-                "x": "In a statement signed by Mohammed Kudu Haruna, Chairman of INEC's Information and Voter Education Committee, the commission said the register uploaded on October 26 was the same preliminary register displayed physically from October 9 to 15, and that \"the online publication represents the original preliminary register and does not reflect all ongoing data-cleanup activities.\""
+                "x": "The commission has sought public and stakeholder feedback by Nov 20, with the measures aimed at regulating AI-generated content, prohibiting deceptive deepfakes and ensuring transparency in election-related communication."
               },
               {
                 "t": "p",
-                "x": "\"The Commission is also examining the circumstances surrounding the suspicious photographs, including possible technical or procedural lapses, and will take appropriate action based on verified findings,\" it said."
+                "x": "Media outlets would be required to clearly disclose when content generated or modified through AI is broadcast, published or released. The draft prohibits deepfakes of party leaders, candidates, election officials, judges, armed forces personnel and other state officials if the content is false, defamatory or intended to ridicule them."
               },
               {
                 "t": "p",
-                "x": "INEC said it would complete verification, adjudication and data-cleanup processes before the final Register of Voters is certified on December 15, 2026."
+                "x": "Media may use AI tools for preparing, translating, presenting or analysing election content if they disclose it. Pemra, the Social Media Protection and Regulatory Authority and the National Cyber Crime Investigation Agency would monitor unlabeled AI content and report violations to the ECP."
               }
             ]
           }
         },
         "ko": {
-          "headline": "INEC, 선거인명부 속\nAI-made 사진 조사",
-          "body": "INEC이 12월 15일 명부확정 전 AI-generated 의심 사진을 점검한다.",
-          "mini_headline": "INEC, 명부 속 AI 사진 조사",
+          "headline": "파키스탄 선관위\nAI·딥페이크 규칙 제안",
+          "body": "ECP가 AI 표기·기만적 딥페이크 금지안을 내고 11월 20일까지 의견을 받는다.",
+          "mini_headline": "파키스탄, AI 선거 규칙 초안",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.channelstv.com/wp-content/uploads/2024/11/Ondo-Governorship-Election-2024-Residents-check-their-names-in-the-voters-register.jpeg",
-                "cap": "자료 사진(FILE PHOTO): 2024년 11월 16일 토요일 온도(Ondo) 주지사 선거에서 주민들이 선거인명부에서 자기 이름을 확인하고 있다. 사진: Taiwo Adeshina/Channels TV"
+                "src": "https://i.tribune.com.pk/media/images/ecp1753715314-0/ecp1753715314-0-640x480.webp",
+                "cap": "이슬라마바드의 파키스탄 선거관리위원회 건물. 사진: Radio Pakistan"
               },
               {
                 "t": "p",
-                "x": "나이지리아(Nigeria) 독립국가선거관리위원회(INEC)는 웹사이트에 공개한 예비 선거인명부에서 발견된 AI-generated 의심 사진을 조사 중이며 의심스러운 등록 기록과 기술적·절차적 허점 가능성도 함께 들여다본다고 밝혔다."
+                "x": "파키스탄 선거관리위원회(ECP)가 선거 기간 인공지능(AI) 오용을 막으려고 정당·언론사·선거 참관인용 2023년 행동강령 개정안 12건을 내놨다."
               },
               {
                 "t": "p",
-                "x": "INEC 정보·유권자교육위원회 위원장 모하메드 쿠두 하루나(Mohammed Kudu Haruna)가 서명한 성명에 따르면 10월 26일 올린 명부는 10월 9일부터 15일까지 현장에 게시했던 예비 명부와 같다. 위원회는 \"온라인 공개본은 원래의 예비 명부이며 현재 진행 중인 데이터 정비 작업을 모두 반영하지는 않는다\"고 설명했다."
+                "x": "위원회는 11월 20일까지 일반 시민과 이해관계자 의견을 받는다. AI 생성(AI-generated) 콘텐츠를 규제하고 기만적 딥페이크를 금지하며 선거 관련 소통을 투명하게 하자는 취지다."
               },
               {
                 "t": "p",
-                "x": "위원회는 \"기술적·절차적 허점 가능성을 포함해 의심 사진을 둘러싼 경위도 살피고 있으며, 확인된 결과에 따라 적절히 조치하겠다\"고 밝혔다."
+                "x": "언론사는 AI로 만들거나 고친 콘텐츠를 방송·게재·공개할 때 그 사실을 분명히 밝혀야 한다. 초안은 정당 지도자, 후보자, 선거 관리 공무원, 판사, 군인과 그 밖의 국가 공무원을 다룬 딥페이크가 허위이거나 명예를 훼손하거나 조롱할 의도라면 이를 금지한다."
               },
               {
                 "t": "p",
-                "x": "INEC는 2026년 12월 15일 최종 선거인명부를 확정하기 전에 검증, 판정, 데이터 정비 절차를 마칠 계획이라고 밝혔다."
+                "x": "AI 사용을 밝히기만 하면 언론은 선거 콘텐츠를 준비·번역·진행·분석하는 데 AI 도구를 쓸 수 있다. 표시 없는 AI 콘텐츠는 Pemra, 소셜미디어보호규제청, 국가사이버범죄수사청이 감시하고 위반 사항을 ECP에 보고한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ナイジェリアINEC、名簿の\nAI-made 写真を調査",
-          "body": "INECは12月15日の確定前に名簿案のAI-generatedと疑われる写真を調査中だ。",
-          "mini_headline": "INEC、名簿のAI写真を調査",
+          "headline": "パキスタン選管、AIと\nディープフェイクに規則案",
+          "body": "ECP案はメディアにAI開示を求め欺瞞的ディープフェイクを禁止、意見は11月20日までだ。",
+          "mini_headline": "パキスタン、AI選挙規則案",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.channelstv.com/wp-content/uploads/2024/11/Ondo-Governorship-Election-2024-Residents-check-their-names-in-the-voters-register.jpeg",
-                "cap": "資料写真(FILE PHOTO):2024年11月16日土曜日、オンド(Ondo)州知事選で選挙人名簿の自分の名前を確認する住民。写真:Taiwo Adeshina/Channels TV"
+                "src": "https://i.tribune.com.pk/media/images/ecp1753715314-0/ecp1753715314-0-640x480.webp",
+                "cap": "イスラマバードのパキスタン選挙管理委員会の建物。写真:Radio Pakistan"
               },
               {
                 "t": "p",
-                "x": "ナイジェリア(Nigeria)の独立国家選挙管理委員会(INEC)は、ウェブサイトで公開した暫定選挙人名簿に見つかったAI-generatedと疑われる写真を調査していると明らかにした。疑わしい登録記録や、技術的・手続き的な不備の可能性についても検証を進めている。"
+                "x": "パキスタン選挙管理委員会(ECP)は、選挙中の人工知能(AI)の悪用を抑えるため、政党、報道機関、選挙監視員を対象とする2023年の行動規範に対し、12項目の改正を提案した。"
               },
               {
                 "t": "p",
-                "x": "INECの情報・有権者教育委員会委員長モハメド・クドゥ・ハルナ(Mohammed Kudu Haruna)が署名した声明で、委員会は10月26日に掲載した名簿は10月9日から15日まで現地で掲示した暫定名簿と同じだとし、「オンライン公開版は元の暫定名簿であり、進行中のデータ整理作業のすべてを反映したものではない」と説明した。"
+                "x": "委員会は11月20日までに一般市民と関係者からの意見を求めている。これらの措置は、AI生成(AI-generated)コンテンツの規制、欺瞞的なディープフェイクの禁止、選挙関連の情報発信の透明性確保を目的とする。"
               },
               {
                 "t": "p",
-                "x": "委員会は「技術的・手続き的な不備の可能性を含め、疑わしい写真をめぐる経緯も調べており、確認された結果に基づいて適切な措置を取る」と述べた。"
+                "x": "報道機関は、AIで生成または加工したコンテンツを放送、掲載、公開する際に、その旨を明確に開示する必要がある。草案は、政党指導者、候補者、選挙管理職員、裁判官、軍関係者、その他の国家公務員のディープフェイクについて、内容が虚偽、名誉毀損、または嘲笑を目的とする場合に禁止する。"
               },
               {
                 "t": "p",
-                "x": "INECは、2026年12月15日に最終選挙人名簿を認証する前に、検証、裁定、データ整理の手続きを終えるとした。"
+                "x": "報道機関は、開示すれば選挙コンテンツの準備、翻訳、提示、分析にAIツールを使える。Pemra、ソーシャルメディア保護規制庁、国家サイバー犯罪捜査庁が表示のないAIコンテンツを監視し、違反をECPに報告する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "尼日利亚INEC调查选民\n名册中的AI-made照片",
-          "body": "INEC在12月15日最终认证前核查名册草案中疑似AI-generated的照片。",
-          "mini_headline": "INEC调查名册中的AI照片",
+          "headline": "巴基斯坦选举委员会拟定\nAI与深度伪造规则",
+          "body": "巴基斯坦ECP草案要求媒体披露AI内容并禁止欺骗性深度伪造，意见征询至11月20日。",
+          "mini_headline": "巴基斯坦拟定AI选举规则",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.channelstv.com/wp-content/uploads/2024/11/Ondo-Governorship-Election-2024-Residents-check-their-names-in-the-voters-register.jpeg",
-                "cap": "资料图（FILE PHOTO）：2024年11月16日星期六，翁多（Ondo）州州长选举期间，居民在选民名册中查找自己的名字。图片：Taiwo Adeshina/Channels TV"
+                "src": "https://i.tribune.com.pk/media/images/ecp1753715314-0/ecp1753715314-0-640x480.webp",
+                "cap": "位于伊斯兰堡的巴基斯坦选举委员会大楼。图片：Radio Pakistan"
               },
               {
                 "t": "p",
-                "x": "尼日利亚（Nigeria）独立国家选举委员会（INEC）表示，正在调查其网站公布的初步选民名册中发现的疑似AI-generated照片，同时审查可疑的登记记录以及可能存在的技术或程序漏洞。"
+                "x": "巴基斯坦选举委员会(ECP)提议对2023年政党、媒体机构和选举观察员行为准则作出12项修订，以遏制选举期间滥用人工智能(AI)。"
               },
               {
                 "t": "p",
-                "x": "在INEC信息与选民教育委员会主席穆罕默德·库杜·哈鲁纳（Mohammed Kudu Haruna）签署的声明中，该委员会表示，10月26日上传的名册与10月9日至15日实地展示的初步名册相同，并称“网上公布的是原始初步名册，并未反映所有正在进行的数据清理工作”。"
+                "x": "委员会在11月20日前征求公众和利益相关方的意见，相关措施旨在规范AI生成(AI-generated)内容、禁止欺骗性深度伪造，并确保选举相关传播的透明度。"
               },
               {
                 "t": "p",
-                "x": "声明称：“委员会也在核查可疑照片的相关情况，包括可能存在的技术或程序漏洞，并将根据核实结果采取适当行动。”"
+                "x": "媒体在播出、发布或公开经AI生成或修改的内容时，须予以明确披露。草案禁止制作政党领导人、候选人、选举官员、法官、武装部队人员及其他国家官员的深度伪造内容，前提是这些内容虚假、具有诽谤性或意在嘲弄他们。"
               },
               {
                 "t": "p",
-                "x": "INEC表示，将在2026年12月15日认证最终选民名册之前，完成核实、裁定和数据清理程序。"
+                "x": "媒体在披露的前提下，可使用AI工具准备、翻译、呈现或分析选举内容。Pemra、社交媒体保护与监管局和国家网络犯罪调查局将监测未标注的AI内容，并向ECP报告违规行为。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La INEC de Nigeria investiga\nfotos AI-made en el padrón",
-          "body": "La INEC revisa presuntas fotos AI-generated en el padrón preliminar antes de su certificación final el 15 de diciembre.",
-          "mini_headline": "La INEC investiga fotos de AI en el padrón",
+          "headline": "El órgano electoral de Pakistán\npropone normas de AI y deepfakes",
+          "body": "La ECP pide a los medios revelar contenido de AI y veta deepfakes engañosos; recibe opiniones hasta el 20 de noviembre.",
+          "mini_headline": "Pakistán redacta normas electorales de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.channelstv.com/wp-content/uploads/2024/11/Ondo-Governorship-Election-2024-Residents-check-their-names-in-the-voters-register.jpeg",
-                "cap": "FOTO DE ARCHIVO (FILE PHOTO): Vecinos buscan sus nombres en el padrón electoral durante la elección a gobernador de Ondo el sábado 16 de noviembre de 2024. Foto: Taiwo Adeshina/Channels TV"
+                "src": "https://i.tribune.com.pk/media/images/ecp1753715314-0/ecp1753715314-0-640x480.webp",
+                "cap": "Edificio de la Comisión Electoral de Pakistán en Islamabad. Foto: Radio Pakistan"
               },
               {
                 "t": "p",
-                "x": "La Comisión Electoral Nacional Independiente (INEC) afirma que investiga presuntas fotografías AI-generated halladas en el Registro de Votantes preliminar publicado en su web, y que revisa registros de inscripción dudosos y posibles fallos técnicos o de procedimiento."
+                "x": "La Comisión Electoral de Pakistán (ECP) propuso 12 enmiendas a los códigos de conducta de 2023 para partidos políticos, medios de comunicación y observadores electorales, con el fin de frenar el uso indebido de la inteligencia artificial (AI) durante las elecciones."
               },
               {
                 "t": "p",
-                "x": "En un comunicado firmado por Mohammed Kudu Haruna, presidente del Comité de Información y Educación al Votante de la INEC, la comisión indicó que el registro subido el 26 de octubre era el mismo registro preliminar exhibido físicamente del 9 al 15 de octubre, y que \"la publicación en línea corresponde al registro preliminar original y no refleja todas las tareas de depuración de datos en curso\"."
+                "x": "La comisión ha pedido la opinión del público y de las partes interesadas hasta el 20 de noviembre; las medidas buscan regular el contenido generado por AI (AI-generated), prohibir los deepfakes engañosos y garantizar la transparencia en la comunicación relacionada con las elecciones."
               },
               {
                 "t": "p",
-                "x": "\"La Comisión también examina las circunstancias de las fotografías sospechosas, incluidos posibles fallos técnicos o de procedimiento, y adoptará las medidas adecuadas según los hallazgos verificados\", señaló."
+                "x": "Los medios estarían obligados a indicar claramente cuándo emiten, publican o difunden contenido generado o modificado mediante AI. El borrador prohíbe los deepfakes de líderes de partidos, candidatos, funcionarios electorales, jueces, miembros de las fuerzas armadas y otros funcionarios del Estado si el contenido es falso, difamatorio o busca ridiculizarlos."
               },
               {
                 "t": "p",
-                "x": "La INEC dijo que completará los procesos de verificación, resolución y depuración de datos antes de certificar el Registro de Votantes definitivo el 15 de diciembre de 2026."
+                "x": "Los medios podrán usar herramientas de AI para preparar, traducir, presentar o analizar contenido electoral si lo declaran. Pemra, la Autoridad de Protección y Regulación de Redes Sociales y la Agencia Nacional de Investigación de Delitos Cibernéticos vigilarían el contenido de AI sin etiquetar y comunicarían las infracciones a la ECP."
               }
             ]
           }
@@ -953,125 +873,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "INEC, 선거인명부 속\nAI-made 사진 조사",
-          "body": "INEC이 12월 15일 명부확정 전 AI-generated 의심 사진을 점검한다.",
-          "mini_headline": "INEC, 명부 속 AI 사진 조사",
+          "headline": "파키스탄 선관위\nAI·딥페이크 규칙 제안",
+          "body": "ECP가 AI 표기·기만적 딥페이크 금지안을 냈고 11월 20일까지 의견을 받는다.",
+          "mini_headline": "파키스탄, AI 선거 규칙 초안",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.channelstv.com/wp-content/uploads/2024/11/Ondo-Governorship-Election-2024-Residents-check-their-names-in-the-voters-register.jpeg",
-                "cap": "자료 사진(FILE PHOTO): 2024년 11월 16일 토요일 온도(Ondo) 주지사 선거에서 주민들이 선거인명부에서 자기 이름을 확인하고 있다. 사진: Taiwo Adeshina/Channels TV"
+                "src": "https://i.tribune.com.pk/media/images/ecp1753715314-0/ecp1753715314-0-640x480.webp",
+                "cap": "이슬라마바드의 파키스탄 선거관리위원회 건물. 사진: Radio Pakistan"
               },
               {
                 "t": "p",
-                "x": "나이지리아(Nigeria) 독립국가선거관리위원회(INEC)는 웹사이트에 공개한 예비 선거인명부에서 발견된 AI-generated 의심 사진을 조사하고 있으며, 의심스러운 등록 기록과 기술적·절차적 허점 가능성도 함께 검토하고 있다고 밝혔다."
+                "x": "파키스탄 선거관리위원회(ECP)는 선거 기간 인공지능(AI) 오용을 막기 위해 정당·언론사·선거 참관인을 위한 2023년 행동강령에 12개 개정안을 제안했다."
               },
               {
                 "t": "p",
-                "x": "INEC 정보·유권자교육위원회 위원장 모하메드 쿠두 하루나(Mohammed Kudu Haruna)가 서명한 성명에서 위원회는 10월 26일 올린 명부가 10월 9일부터 15일까지 현장에 게시한 예비 명부와 같다며 \"온라인 공개본은 원래의 예비 명부이며 현재 진행 중인 데이터 정비 작업을 모두 반영하지는 않는다\"고 설명했다."
+                "x": "위원회는 11월 20일까지 일반 시민과 이해관계자의 의견을 받는다. 이번 조치는 AI 생성(AI-generated) 콘텐츠를 규제하고, 기만적 딥페이크를 금지하며, 선거 관련 소통의 투명성을 확보하는 데 목적이 있다."
               },
               {
                 "t": "p",
-                "x": "위원회는 \"기술적·절차적 허점 가능성을 포함해 의심 사진을 둘러싼 경위도 살피고 있으며, 확인된 결과에 따라 적절히 조치하겠다\"고 밝혔다."
+                "x": "언론사는 AI로 생성하거나 수정한 콘텐츠를 방송·게재·공개할 때 이를 명확히 밝혀야 한다. 초안은 정당 지도자, 후보자, 선거 관리 공무원, 판사, 군인 및 기타 국가 공무원의 딥페이크가 허위이거나 명예를 훼손하거나 이들을 조롱할 의도라면 이를 금지한다."
               },
               {
                 "t": "p",
-                "x": "INEC는 2026년 12월 15일 최종 선거인명부를 확정하기 전에 검증, 판정, 데이터 정비 절차를 마치겠다고 밝혔다."
+                "x": "언론은 이를 밝히면 선거 콘텐츠의 준비·번역·진행·분석에 AI 도구를 쓸 수 있다. Pemra, 소셜미디어보호규제청, 국가사이버범죄수사청이 표시 없는 AI 콘텐츠를 감시하고 위반 사항을 ECP에 보고하게 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ナイジェリアINEC、名簿の\nAI-made 写真を調査",
-          "body": "INECは12月15日の確定前に名簿案のAI-generatedと疑われる写真を調査中だ。",
-          "mini_headline": "INEC、名簿のAI写真を調査",
+          "headline": "パキスタン選管、AIと\nディープフェイクに規則案",
+          "body": "ECP案はメディアにAI開示を求め欺瞞的ディープフェイクを禁止、意見は11月20日までだ。",
+          "mini_headline": "パキスタン、AI選挙規則案",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.channelstv.com/wp-content/uploads/2024/11/Ondo-Governorship-Election-2024-Residents-check-their-names-in-the-voters-register.jpeg",
-                "cap": "資料写真(FILE PHOTO):2024年11月16日土曜日、オンド(Ondo)州知事選で選挙人名簿の自分の名前を確認する住民。写真:Taiwo Adeshina/Channels TV"
+                "src": "https://i.tribune.com.pk/media/images/ecp1753715314-0/ecp1753715314-0-640x480.webp",
+                "cap": "イスラマバードのパキスタン選挙管理委員会の建物。写真:Radio Pakistan"
               },
               {
                 "t": "p",
-                "x": "ナイジェリア(Nigeria)の独立国家選挙管理委員会(INEC)は、ウェブサイトで公開した暫定選挙人名簿に見つかったAI-generatedと疑われる写真を調査していると明らかにした。疑わしい登録記録や、技術的・手続き的な不備の可能性についても検証を進めている。"
+                "x": "パキスタン選挙管理委員会(ECP)は、選挙中の人工知能(AI)の悪用を抑えるため、政党、報道機関、選挙監視員を対象とする2023年の行動規範に対し、12項目の改正を提案した。"
               },
               {
                 "t": "p",
-                "x": "INECの情報・有権者教育委員会委員長モハメド・クドゥ・ハルナ(Mohammed Kudu Haruna)が署名した声明で、委員会は10月26日に掲載した名簿は10月9日から15日まで現地で掲示した暫定名簿と同じだとし、「オンライン公開版は元の暫定名簿であり、進行中のデータ整理作業のすべてを反映したものではない」と説明した。"
+                "x": "委員会は11月20日までに一般市民と関係者からの意見を求めている。これらの措置は、AI生成(AI-generated)コンテンツの規制、欺瞞的なディープフェイクの禁止、選挙関連の情報発信の透明性確保を目的とする。"
               },
               {
                 "t": "p",
-                "x": "委員会は「技術的・手続き的な不備の可能性を含め、疑わしい写真をめぐる経緯も調べており、確認された結果に基づいて適切な措置を取る」と述べた。"
+                "x": "報道機関は、AIで生成または加工したコンテンツを放送、掲載、公開する際に、その旨を明確に開示する必要がある。草案は、政党指導者、候補者、選挙管理職員、裁判官、軍関係者、その他の国家公務員のディープフェイクについて、内容が虚偽、名誉毀損、または嘲笑を目的とする場合に禁止する。"
               },
               {
                 "t": "p",
-                "x": "INECは、2026年12月15日に最終選挙人名簿を認証する前に、検証、裁定、データ整理の手続きを終えるとした。"
+                "x": "報道機関は、開示すれば選挙コンテンツの準備、翻訳、提示、分析にAIツールを使える。Pemra、ソーシャルメディア保護規制庁、国家サイバー犯罪捜査庁が表示のないAIコンテンツを監視し、違反をECPに報告する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "尼日利亚INEC调查选民\n名册中的AI-made照片",
-          "body": "INEC在12月15日最终认证前核查名册草案中疑似AI-generated的照片。",
-          "mini_headline": "INEC调查名册中的AI照片",
+          "headline": "巴基斯坦选举委员会拟定\nAI与深度伪造规则",
+          "body": "巴基斯坦ECP草案要求媒体披露AI内容并禁止欺骗性深度伪造，意见征询至11月20日。",
+          "mini_headline": "巴基斯坦拟定AI选举规则",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.channelstv.com/wp-content/uploads/2024/11/Ondo-Governorship-Election-2024-Residents-check-their-names-in-the-voters-register.jpeg",
-                "cap": "资料图（FILE PHOTO）：2024年11月16日星期六，翁多（Ondo）州州长选举期间，居民在选民名册中查找自己的名字。图片：Taiwo Adeshina/Channels TV"
+                "src": "https://i.tribune.com.pk/media/images/ecp1753715314-0/ecp1753715314-0-640x480.webp",
+                "cap": "位于伊斯兰堡的巴基斯坦选举委员会大楼。图片：Radio Pakistan"
               },
               {
                 "t": "p",
-                "x": "尼日利亚（Nigeria）独立国家选举委员会（INEC）表示，正在调查其网站公布的初步选民名册中发现的疑似AI-generated照片，同时审查可疑的登记记录以及可能存在的技术或程序漏洞。"
+                "x": "巴基斯坦选举委员会(ECP)提议对2023年政党、媒体机构和选举观察员行为准则作出12项修订，以遏制选举期间滥用人工智能(AI)。"
               },
               {
                 "t": "p",
-                "x": "在INEC信息与选民教育委员会主席穆罕默德·库杜·哈鲁纳（Mohammed Kudu Haruna）签署的声明中，该委员会表示，10月26日上传的名册与10月9日至15日实地展示的初步名册相同，并称“网上公布的是原始初步名册，并未反映所有正在进行的数据清理工作”。"
+                "x": "委员会在11月20日前征求公众和利益相关方的意见，相关措施旨在规范AI生成(AI-generated)内容、禁止欺骗性深度伪造，并确保选举相关传播的透明度。"
               },
               {
                 "t": "p",
-                "x": "声明称：“委员会也在核查可疑照片的相关情况，包括可能存在的技术或程序漏洞，并将根据核实结果采取适当行动。”"
+                "x": "媒体在播出、发布或公开经AI生成或修改的内容时，须予以明确披露。草案禁止制作政党领导人、候选人、选举官员、法官、武装部队人员及其他国家官员的深度伪造内容，前提是这些内容虚假、具有诽谤性或意在嘲弄他们。"
               },
               {
                 "t": "p",
-                "x": "INEC表示，将在2026年12月15日认证最终选民名册之前，完成核实、裁定和数据清理程序。"
+                "x": "媒体在披露的前提下，可使用AI工具准备、翻译、呈现或分析选举内容。Pemra、社交媒体保护与监管局和国家网络犯罪调查局将监测未标注的AI内容，并向ECP报告违规行为。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La INEC de Nigeria investiga\nfotos AI-made en el padrón",
-          "body": "La INEC revisa presuntas fotos AI-generated en el padrón preliminar antes de su certificación final el 15 de diciembre.",
-          "mini_headline": "La INEC investiga fotos de AI en el padrón",
+          "headline": "El órgano electoral de Pakistán\npropone normas de AI y deepfakes",
+          "body": "La ECP pide a los medios revelar contenido de AI y veta deepfakes engañosos; recibe opiniones hasta el 20 de noviembre.",
+          "mini_headline": "Pakistán redacta normas electorales de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.channelstv.com/wp-content/uploads/2024/11/Ondo-Governorship-Election-2024-Residents-check-their-names-in-the-voters-register.jpeg",
-                "cap": "FOTO DE ARCHIVO (FILE PHOTO): Vecinos buscan sus nombres en el padrón electoral durante la elección a gobernador de Ondo el sábado 16 de noviembre de 2024. Foto: Taiwo Adeshina/Channels TV"
+                "src": "https://i.tribune.com.pk/media/images/ecp1753715314-0/ecp1753715314-0-640x480.webp",
+                "cap": "Edificio de la Comisión Electoral de Pakistán en Islamabad. Foto: Radio Pakistan"
               },
               {
                 "t": "p",
-                "x": "La Comisión Electoral Nacional Independiente (INEC) afirma que investiga presuntas fotografías AI-generated halladas en el Registro de Votantes preliminar publicado en su web, y que revisa registros de inscripción dudosos y posibles fallos técnicos o de procedimiento."
+                "x": "La Comisión Electoral de Pakistán (ECP) propuso 12 enmiendas a los códigos de conducta de 2023 para partidos políticos, medios de comunicación y observadores electorales, con el fin de frenar el uso indebido de la inteligencia artificial (AI) durante las elecciones."
               },
               {
                 "t": "p",
-                "x": "En un comunicado firmado por Mohammed Kudu Haruna, presidente del Comité de Información y Educación al Votante de la INEC, la comisión indicó que el registro subido el 26 de octubre era el mismo registro preliminar exhibido físicamente del 9 al 15 de octubre, y que \"la publicación en línea corresponde al registro preliminar original y no refleja todas las tareas de depuración de datos en curso\"."
+                "x": "La comisión ha pedido la opinión del público y de las partes interesadas hasta el 20 de noviembre; las medidas buscan regular el contenido generado por AI (AI-generated), prohibir los deepfakes engañosos y garantizar la transparencia en la comunicación relacionada con las elecciones."
               },
               {
                 "t": "p",
-                "x": "\"La Comisión también examina las circunstancias de las fotografías sospechosas, incluidos posibles fallos técnicos o de procedimiento, y adoptará las medidas adecuadas según los hallazgos verificados\", señaló."
+                "x": "Los medios estarían obligados a indicar claramente cuándo emiten, publican o difunden contenido generado o modificado mediante AI. El borrador prohíbe los deepfakes de líderes de partidos, candidatos, funcionarios electorales, jueces, miembros de las fuerzas armadas y otros funcionarios del Estado si el contenido es falso, difamatorio o busca ridiculizarlos."
               },
               {
                 "t": "p",
-                "x": "La INEC dijo que completará los procesos de verificación, resolución y depuración de datos antes de certificar el Registro de Votantes definitivo el 15 de diciembre de 2026."
+                "x": "Los medios podrán usar herramientas de AI para preparar, traducir, presentar o analizar contenido electoral si lo declaran. Pemra, la Autoridad de Protección y Regulación de Redes Sociales y la Agencia Nacional de Investigación de Delitos Cibernéticos vigilarían el contenido de AI sin etiquetar y comunicarían las infracciones a la ECP."
               }
             ]
           }
@@ -1079,15 +999,15 @@
       }
     },
     {
-      "id": "us-taiwan-art",
+      "id": "ap-ai-disinfo-videos",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "US-Taiwan 협정,\n대만 AI 칩 수출 요구는",
-      "body": "Lawfare가 US-Taiwan 무역협정의 칩·AI 수출통제 조항을 분석했다.",
-      "mini_headline": "US-Taiwan 협정의 칩 수출 난제",
+      "headline": "실존 인물 도용 AI 영상\n상원 후보 비방",
+      "body": "연구진은 미국인 신원을 훔쳐 상원 후보를 비방한 AI 영상이 러시아발이라고 본다.",
+      "mini_headline": "AI 영상, 상원 후보 겨냥",
       "tool": "Politics",
-      "source": "Lawfare",
-      "url": "https://www.lawfaremedia.org/article/the-u.s.-taiwan-art-s-export-control-puzzle",
+      "source": "Associated Press (via Pioneer Press)",
+      "url": "https://www.twincities.com/2026/10/28/election-2026-ai-disinformation-russia/",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
@@ -1095,173 +1015,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/1280px-tsmc_fab5.jpg?sfvrsn=8abcb19a_5"
+            "src": "https://www.twincities.com/wp-content/uploads/2026/10/Election_2_26_Vance_32249.jpg",
+            "cap": "사전투표 기간 한 유권자가 투표용지를 작성하고 있다."
           },
           {
             "t": "p",
-            "x": "2026년 2월 서명된 U.S.-Taiwan 상호무역협정(Agreement on Reciprocal Trade, ART)에 따라 미국은 대만산 제품의 상호관세를 20퍼센트에서 15퍼센트로 낮추기로 했고 대만 기업은 U.S. 반도체·에너지·AI 생산에 최소 $250B 규모를 투자하기로 약속했다. 대만은 수출통제를 U.S. 규정에 \"맞춰야 한다(shall align)\"는 데도 동의했다. 다만 정렬이 실제로 어떻게 이뤄질지는 불분명하다."
+            "x": "NEW YORK (AP) — 인공지능으로 만든 것으로 보이는 러시아 연계 소셜미디어 영상들이 실존 인물의 이름과 사진을 도용해 중간선거 막바지에 민주당 상원 후보 두 명에 관한 허위 정보를 퍼뜨리고 있다."
           },
           {
             "t": "p",
-            "x": "현재 첨단 AI 칩은 중국 본토 수출 제한 품목 목록에 없고, 대만 법상 이를 중국으로 수출해도 형사 범죄가 아니다. 제5.2(3)조는 \"특히 U.S. 해외직접제품규칙(Foreign Direct Product Rule)과 관련한\" 정렬을 요구한다. 대만이 자체 FDPR을 도입하거나 U.S. 규칙 집행을 돕는다는 뜻으로 읽힐 수 있다."
+            "x": "한 영상은 오하이오에서 공화당 존 허스테드(Jon Husted) 상원의원과 맞붙는 셰러드 브라운(Sherrod Brown)을 겨냥해 전직 인턴 하야 악비크(Haya Akbik)의 사진을 썼다. 악비크는 자기가 했다는 주장이 “완전히 지어낸 것”이라고 말했다. 다른 영상은 텍사스에서 공화당 켄 팩스턴(Ken Paxton)과 맞붙는 제임스 탈라리코(James Talarico)를 노렸는데, 전직 학생의 고백 형식이다."
           },
           {
             "t": "p",
-            "x": "가능한 경로는 두 가지다. 경제부가 행정규칙으로 AI 칩과 서버를 제한 목록에 추가하거나, 입법위원 정자빈(Chung Chia-pin)이 제안한 대로 입법원이 대외무역법을 개정하는 방식이다."
+            "x": "X는 최초 게시물을 내리고 해당 계정을 정지했지만 사본은 여전히 온라인에 남아 있었다. 클렘슨대 대런 린빌(Darren Linvill) 교수는 이 영상들이 러시아 네트워크 Storm-1516에서 나왔을 가능성이 크다고 말했다. 러시아 대사관은 즉각 답하지 않았고, 과거에는 미국(U.S.) 선거 개입을 부인해 왔다."
           },
           {
             "t": "p",
-            "x": "필자들이 보기에 이 모호함은 대만에는 시간을 벌어 주고 워싱턴에는 유연한 정책 수단을 준다. 대만은 양자 협정으로 다른 관할권을 U.S. 수출통제에 묶는 시험 사례라는 주장도 편다."
+            "x": "다트머스대 하니 파리드(Hany Farid) 교수는 영상들이 AI로 생성되거나 조작됐을 공산이 크다며 브라운 영상을 “꽤 기술 수준이 낮은 가짜”라고 평했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "What the US-Taiwan deal asks\nof Taipei on AI chip exports",
-          "body": "Lawfare unpacks what the US-Taiwan trade pact's export-control clause asks of Taipei on chips and AI hardware.",
-          "mini_headline": "US-Taiwan pact's chip-export puzzle",
+          "headline": "AI videos use real identities\nto malign Senate candidates",
+          "body": "Researchers say AI videos using real Americans' identities to malign Senate candidates likely come from Russia.",
+          "mini_headline": "AI videos target Senate candidates",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/1280px-tsmc_fab5.jpg?sfvrsn=8abcb19a_5"
+                "src": "https://www.twincities.com/wp-content/uploads/2026/10/Election_2_26_Vance_32249.jpg",
+                "cap": "A voter fills out a ballot during early voting."
               },
               {
                 "t": "p",
-                "x": "Under the U.S.-Taiwan Agreement on Reciprocal Trade (ART), signed in February 2026, the United States agreed to reduce the reciprocal tariff on Taiwanese goods from 20 percent to 15 percent, while Taiwanese firms pledged to invest at least $250 billion in U.S. semiconductor, energy, and AI production. Taiwan also agreed that it \"shall align\" its export controls with U.S. rules, but what that alignment looks like in practice is unclear."
+                "x": "NEW YORK (AP) — Social media videos believed to be produced with artificial intelligence and linked to Russia are misusing real people’s names and photographs to spread disinformation about two Democratic Senate candidates in the final stretch of midterm voting."
               },
               {
                 "t": "p",
-                "x": "Advanced AI chips are currently absent from the list of items restricted for export to mainland China, and exporting them there is not a criminal offense under Taiwanese law. Article 5.2(3) requires alignment \"particularly with respect to the U.S. Foreign Direct Product Rule\" — which could mean Taiwan adopting its own FDPR or helping enforce the U.S. one."
+                "x": "One targets Sherrod Brown, running against Republican Sen. Jon Husted in Ohio, and uses pictures of a former intern, Haya Akbik, who called the claims attributed to her “completely made up.” Another targets James Talarico, running against Republican Ken Paxton in Texas, framed as a confessional from a former student."
               },
               {
                 "t": "p",
-                "x": "Two paths are plausible: the Ministry of Economic Affairs could add AI chips and servers to its restricted list by administrative regulation, or the legislature could amend the Foreign Trade Act, as Legislator Chung Chia-pin has proposed."
+                "x": "X took down the initial posts and suspended the users, but copies could still be found online. Clemson University professor Darren Linvill said the videos are likely products of Storm-1516, a Russian network. The Russian Embassy did not immediately respond; in the past, it has denied interfering in U.S. elections."
               },
               {
                 "t": "p",
-                "x": "The authors argue the ambiguity buys Taipei time while giving Washington a flexible policy tool, and that Taiwan is a test case for binding other jurisdictions to U.S. export controls through bilateral agreements."
+                "x": "Dartmouth professor Hany Farid said the videos were likely generated or manipulated with AI, calling the Brown video a “fairly low-tech fake.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "US-Taiwan 협정,\n대만 AI 칩 수출 요구는",
-          "body": "Lawfare가 US-Taiwan 무역협정의 칩·AI 수출통제 조항을 분석했다.",
-          "mini_headline": "US-Taiwan 협정의 칩 수출 난제",
+          "headline": "실존 인물 도용 AI 영상\n상원 후보 비방",
+          "body": "연구진은 미국인 신원을 훔쳐 상원 후보를 비방한 AI 영상이 러시아발이라고 본다.",
+          "mini_headline": "AI 영상, 상원 후보 겨냥",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/1280px-tsmc_fab5.jpg?sfvrsn=8abcb19a_5"
+                "src": "https://www.twincities.com/wp-content/uploads/2026/10/Election_2_26_Vance_32249.jpg",
+                "cap": "사전투표 기간 한 유권자가 투표용지를 작성하고 있다."
               },
               {
                 "t": "p",
-                "x": "2026년 2월 서명된 U.S.-Taiwan 상호무역협정(Agreement on Reciprocal Trade, ART)에 따라 미국은 대만산 제품의 상호관세를 20퍼센트에서 15퍼센트로 낮추기로 했고 대만 기업은 U.S. 반도체·에너지·AI 생산에 최소 $250B 규모를 투자하기로 약속했다. 대만은 수출통제를 U.S. 규정에 \"맞춰야 한다(shall align)\"는 데도 동의했다. 다만 정렬이 실제로 어떻게 이뤄질지는 불분명하다."
+                "x": "NEW YORK (AP) — 인공지능으로 만든 것으로 보이는 러시아 연계 소셜미디어 영상들이 실존 인물의 이름과 사진을 도용해 중간선거 막바지에 민주당 상원 후보 두 명에 관한 허위 정보를 퍼뜨리고 있다."
               },
               {
                 "t": "p",
-                "x": "현재 첨단 AI 칩은 중국 본토 수출 제한 품목 목록에 없고, 대만 법상 이를 중국으로 수출해도 형사 범죄가 아니다. 제5.2(3)조는 \"특히 U.S. 해외직접제품규칙(Foreign Direct Product Rule)과 관련한\" 정렬을 요구한다. 대만이 자체 FDPR을 도입하거나 U.S. 규칙 집행을 돕는다는 뜻으로 읽힐 수 있다."
+                "x": "한 영상은 오하이오에서 공화당 존 허스테드(Jon Husted) 상원의원과 맞붙는 셰러드 브라운(Sherrod Brown)을 겨냥해 전직 인턴 하야 악비크(Haya Akbik)의 사진을 썼다. 악비크는 자기가 했다는 주장이 “완전히 지어낸 것”이라고 말했다. 다른 영상은 텍사스에서 공화당 켄 팩스턴(Ken Paxton)과 맞붙는 제임스 탈라리코(James Talarico)를 노렸는데, 전직 학생의 고백 형식이다."
               },
               {
                 "t": "p",
-                "x": "가능한 경로는 두 가지다. 경제부가 행정규칙으로 AI 칩과 서버를 제한 목록에 추가하거나, 입법위원 정자빈(Chung Chia-pin)이 제안한 대로 입법원이 대외무역법을 개정하는 방식이다."
+                "x": "X는 최초 게시물을 내리고 해당 계정을 정지했지만 사본은 여전히 온라인에 남아 있었다. 클렘슨대 대런 린빌(Darren Linvill) 교수는 이 영상들이 러시아 네트워크 Storm-1516에서 나왔을 가능성이 크다고 말했다. 러시아 대사관은 즉각 답하지 않았고, 과거에는 미국(U.S.) 선거 개입을 부인해 왔다."
               },
               {
                 "t": "p",
-                "x": "필자들이 보기에 이 모호함은 대만에는 시간을 벌어 주고 워싱턴에는 유연한 정책 수단을 준다. 대만은 양자 협정으로 다른 관할권을 U.S. 수출통제에 묶는 시험 사례라는 주장도 편다."
+                "x": "다트머스대 하니 파리드(Hany Farid) 교수는 영상들이 AI로 생성되거나 조작됐을 공산이 크다며 브라운 영상을 “꽤 기술 수준이 낮은 가짜”라고 평했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "US-Taiwan協定が\n台湾に課すAIチップ規制",
-          "body": "LawfareがUS-Taiwan貿易協定の輸出管理条項を半導体とAIの観点で解説した。",
-          "mini_headline": "US-Taiwan協定の半導体輸出の謎",
+          "headline": "実在の身元を使うAI動画\n上院候補を中傷",
+          "body": "研究者によると、実在の米国人の身元で上院候補を中傷するAI動画はロシア発の可能性が高い。",
+          "mini_headline": "AI動画、上院候補を標的に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/1280px-tsmc_fab5.jpg?sfvrsn=8abcb19a_5"
+                "src": "https://www.twincities.com/wp-content/uploads/2026/10/Election_2_26_Vance_32249.jpg",
+                "cap": "期日前投票で投票用紙に記入する有権者。"
               },
               {
                 "t": "p",
-                "x": "2026年2月に署名されたU.S.-Taiwan相互貿易協定(Agreement on Reciprocal Trade、ART)の下で、米国は台湾製品への相互関税を20パーセントから15パーセントに引き下げることに合意し、台湾企業はU.S.の半導体、エネルギー、AI生産に少なくとも$250B を投資すると約束した。台湾は輸出管理をU.S.の規則に「整合させる(shall align)」ことにも同意したが、その整合が実際にどのようなものになるかは不明だ。"
+                "x": "NEW YORK (AP) — 人工知能で制作されたとみられ、ロシアとの関連が指摘されるソーシャルメディア動画が、実在の人物の名前や写真を悪用し、中間選挙の終盤戦で民主党の上院候補二人に関する偽情報を広めている。"
               },
               {
                 "t": "p",
-                "x": "先端AIチップは現在、中国本土向け輸出規制品目のリストに含まれておらず、台湾法の下ではそれを中国本土へ輸出しても刑事犯罪にはならない。第5.2(3)条は「特にU.S.の外国直接製品規則(Foreign Direct Product Rule)に関して」の整合を求めており、これは台湾が独自のFDPRを導入するか、U.S.の規則の執行に協力することを意味しうる。"
+                "x": "一つはオハイオ州で共和党のジョン・ヒューステッド(Jon Husted)上院議員と争うシェロッド・ブラウン(Sherrod Brown)を標的にし、元インターンのハヤ・アクビク(Haya Akbik)の写真を使っている。アクビクは自分の発言とされた内容を「完全なでっち上げ」だと述べた。もう一つはテキサス州で共和党のケン・パクストン(Ken Paxton)と争うジェームズ・タラリコ(James Talarico)を標的にし、元教え子による告白の体裁をとる。"
               },
               {
                 "t": "p",
-                "x": "考えられる道筋は二つある。経済部が行政規則でAIチップとサーバーを規制リストに加えるか、立法委員の鍾佳濱(Chung Chia-pin)が提案したように、立法院が貿易法を改正するかだ。"
+                "x": "Xは最初の投稿を削除してユーザーを凍結したが、コピーはなおオンラインで見つかった。クレムソン大学のダレン・リンビル(Darren Linvill)教授は、動画はロシアのネットワークStorm-1516が作った可能性が高いと述べた。ロシア大使館はすぐには回答しなかったが、過去には米国(U.S.)の選挙への干渉を否定している。"
               },
               {
                 "t": "p",
-                "x": "筆者らは、この曖昧さが台湾に時間を与える一方でワシントンには柔軟な政策手段をもたらすと論じ、台湾は二国間協定を通じて他の法域をU.S.の輸出管理に縛る試金石だと主張する。"
+                "x": "ダートマス大学のハニー・ファリド(Hany Farid)教授は、動画はAIで生成または加工された可能性が高いとし、ブラウン氏の動画を「かなりローテクな偽物」と評した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "US-Taiwan协定对台北\nAI芯片出口有何要求",
-          "body": "Lawfare剖析US-Taiwan贸易协定的出口管制条款对台北在芯片和AI硬件上的要求。",
-          "mini_headline": "US-Taiwan协定的芯片出口谜题",
+          "headline": "AI视频冒用真人身份\n抹黑参议员候选人",
+          "body": "研究人员称，冒用美国真人身份抹黑参议员候选人的AI视频很可能来自俄罗斯。",
+          "mini_headline": "AI视频瞄准参议员候选人",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/1280px-tsmc_fab5.jpg?sfvrsn=8abcb19a_5"
+                "src": "https://www.twincities.com/wp-content/uploads/2026/10/Election_2_26_Vance_32249.jpg",
+                "cap": "一名选民在提前投票期间填写选票。"
               },
               {
                 "t": "p",
-                "x": "根据2026年2月签署的U.S.-Taiwan对等贸易协定（Agreement on Reciprocal Trade，ART），美国同意将台湾商品的对等关税从百分之二十降至百分之十五，台湾企业则承诺在U.S.半导体、能源和AI生产领域投资至少$250B 。台湾还同意其出口管制“应与”U.S.规则“保持一致”（shall align），但这种一致在实践中如何体现尚不清楚。"
+                "x": "NEW YORK (AP) — 据信由人工智能制作、并与俄罗斯有关联的社交媒体视频，正在中期选举最后冲刺阶段盗用真实人物的姓名和照片，散布有关两名民主党参议员候选人的虚假信息。"
               },
               {
                 "t": "p",
-                "x": "目前，先进AI芯片并不在对中国大陆出口的管制物项清单上，根据台湾法律，向大陆出口此类芯片也不构成刑事犯罪。第5.2(3)条要求“特别是在U.S.外国直接产品规则（Foreign Direct Product Rule）方面”保持一致，这可能意味着台湾制定自己的FDPR，或协助执行U.S.的规则。"
+                "x": "其中一段视频针对在俄亥俄州挑战共和党参议员乔恩·赫斯特德(Jon Husted)的谢罗德·布朗(Sherrod Brown)，使用了前实习生哈娅·阿克比克(Haya Akbik)的照片；她称那些被归于她的说法“完全是捏造的”。另一段视频针对在得克萨斯州与共和党人肯·帕克斯顿(Ken Paxton)竞争的詹姆斯·塔拉里科(James Talarico)，以一名前学生自白的形式呈现。"
               },
               {
                 "t": "p",
-                "x": "有两条可行路径：经济部可通过行政规章将AI芯片和服务器列入管制清单；或者如立法委员钟佳滨（Chung Chia-pin）所提议，由立法机构修订《贸易法》。"
+                "x": "X删除了最初的帖子并封禁了相关用户，但网上仍能找到副本。克莱姆森大学教授达伦·林维尔(Darren Linvill)表示，这些视频很可能出自俄罗斯网络Storm-1516。俄罗斯大使馆未立即回应；该使馆过去曾否认干预美国(U.S.)选举。"
               },
               {
                 "t": "p",
-                "x": "作者认为，这种模糊性为台北争取了时间，同时为华盛顿提供了灵活的政策工具；台湾也是通过双边协定将其他司法管辖区纳入U.S.出口管制的试验案例。"
+                "x": "达特茅斯学院教授哈尼·法里德(Hany Farid)表示，这些视频很可能经过AI生成或篡改，并称布朗的视频是“技术含量相当低的伪造品”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Qué exige a Taipéi el pacto\nUS-Taiwan sobre chips de AI",
-          "body": "Lawfare analiza qué pide a Taipéi la cláusula de control de exportaciones del pacto US-Taiwan en chips y hardware AI.",
-          "mini_headline": "El enigma de los chips en el pacto US-Taiwan",
+          "headline": "Videos de AI atacan a candidatos\nal Senado con identidades reales",
+          "body": "Videos de AI que difaman a candidatos al Senado con identidades de estadounidenses vendrían de Rusia, según expertos.",
+          "mini_headline": "Videos de AI apuntan a candidatos al Senado",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/1280px-tsmc_fab5.jpg?sfvrsn=8abcb19a_5"
+                "src": "https://www.twincities.com/wp-content/uploads/2026/10/Election_2_26_Vance_32249.jpg",
+                "cap": "Un votante llena su boleta durante la votación anticipada."
               },
               {
                 "t": "p",
-                "x": "En virtud del Acuerdo de Comercio Recíproco U.S.-Taiwan (Agreement on Reciprocal Trade, ART), firmado en febrero de 2026, Estados Unidos aceptó reducir el arancel recíproco a los productos taiwaneses del 20 por ciento al 15 por ciento, mientras que las empresas taiwanesas se comprometieron a invertir al menos $250 billion en producción de semiconductores, energía y AI en U.S. Taiwán también aceptó que \"alineará\" (shall align) sus controles de exportación con las normas de U.S., pero no está claro cómo será esa alineación en la práctica."
+                "x": "NEW YORK (AP) — Videos en redes sociales que se cree fueron producidos con inteligencia artificial y que están vinculados a Rusia usan indebidamente nombres y fotografías de personas reales para difundir desinformación sobre dos candidatos demócratas al Senado en el tramo final de las elecciones de medio mandato."
               },
               {
                 "t": "p",
-                "x": "Los chips avanzados de AI no figuran hoy en la lista de artículos con exportación restringida a China continental, y exportarlos allí no es delito según la ley taiwanesa. El artículo 5.2(3) exige la alineación \"en particular con respecto a la Foreign Direct Product Rule de U.S.\", lo que podría significar que Taiwán adopte su propia FDPR o ayude a aplicar la de U.S."
+                "x": "Uno apunta a Sherrod Brown, que compite contra el senador republicano Jon Husted en Ohio, y usa fotos de una exbecaria, Haya Akbik, quien calificó de “completamente inventadas” las afirmaciones que se le atribuyen. Otro apunta a James Talarico, que compite contra el republicano Ken Paxton en Texas, y se presenta como la confesión de un exalumno."
               },
               {
                 "t": "p",
-                "x": "Hay dos vías plausibles: el Ministerio de Asuntos Económicos podría añadir los chips y servidores de AI a su lista restringida mediante una norma administrativa, o el poder legislativo podría reformar la Ley de Comercio Exterior, como ha propuesto el legislador Chung Chia-pin."
+                "x": "X retiró las publicaciones iniciales y suspendió a los usuarios, pero aún podían encontrarse copias en internet. Darren Linvill, profesor de la Universidad de Clemson, dijo que los videos probablemente son obra de Storm-1516, una red rusa. La Embajada de Rusia no respondió de inmediato; en el pasado ha negado interferir en las elecciones de Estados Unidos (U.S.)."
               },
               {
                 "t": "p",
-                "x": "Los autores sostienen que la ambigüedad da tiempo a Taipéi y ofrece a Washington una herramienta política flexible, y que Taiwán es un caso de prueba para vincular a otras jurisdicciones a los controles de exportación de U.S. mediante acuerdos bilaterales."
+                "x": "Hany Farid, profesor de Dartmouth, dijo que los videos probablemente fueron generados o manipulados con AI, y calificó el de Brown como una “falsificación de bastante baja tecnología”."
               }
             ]
           }
@@ -1269,121 +1195,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "US-Taiwan 협정,\n대만 AI 칩 수출 요구는",
-          "body": "Lawfare가 US-Taiwan 무역협정의 칩·AI 수출통제 조항을 분석했다.",
-          "mini_headline": "US-Taiwan 협정의 칩 수출 난제",
+          "headline": "실제 신원 도용 AI 영상\n상원 후보들 비방",
+          "body": "연구진은 미국인 신원을 도용해 상원 후보를 비방한 AI 영상을 러시아발로 본다.",
+          "mini_headline": "AI 영상, 상원 후보 겨냥",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/1280px-tsmc_fab5.jpg?sfvrsn=8abcb19a_5"
+                "src": "https://www.twincities.com/wp-content/uploads/2026/10/Election_2_26_Vance_32249.jpg",
+                "cap": "사전투표 기간 한 유권자가 투표용지를 작성하고 있다."
               },
               {
                 "t": "p",
-                "x": "2026년 2월 서명된 U.S.-Taiwan 상호무역협정(Agreement on Reciprocal Trade, ART)에 따라 미국은 대만산 제품의 상호관세를 20퍼센트에서 15퍼센트로 낮추기로 했고, 대만 기업들은 U.S. 반도체·에너지·AI 생산에 최소 $250B 규모를 투자하기로 약속했다. 대만은 수출통제를 U.S. 규정에 \"맞춰야 한다(shall align)\"는 데도 동의했지만, 그 정렬이 실제로 어떤 모습일지는 불분명하다."
+                "x": "NEW YORK (AP) — 인공지능으로 제작된 것으로 보이며 러시아와 연계된 소셜미디어 영상들이 실존 인물의 이름과 사진을 도용해, 중간선거 막바지에 민주당 상원 후보 두 명에 대한 허위 정보를 퍼뜨리고 있다."
               },
               {
                 "t": "p",
-                "x": "현재 첨단 AI 칩은 중국 본토 수출 제한 품목 목록에 없고, 대만 법상 이를 중국으로 수출해도 형사 범죄가 아니다. 제5.2(3)조는 \"특히 U.S. 해외직접제품규칙(Foreign Direct Product Rule)과 관련한\" 정렬을 요구하는데, 이는 대만이 자체 FDPR을 도입하거나 U.S. 규칙의 집행을 돕는다는 뜻일 수 있다."
+                "x": "한 영상은 오하이오에서 공화당 존 허스테드(Jon Husted) 상원의원과 맞붙는 셰러드 브라운(Sherrod Brown)을 겨냥하며, 전직 인턴 하야 악비크(Haya Akbik)의 사진을 쓴다. 악비크는 자신이 했다는 주장이 “완전히 지어낸 것”이라고 말했다. 또 다른 영상은 텍사스에서 공화당 켄 팩스턴(Ken Paxton)과 맞붙는 제임스 탈라리코(James Talarico)를 겨냥하며, 전직 학생의 고백 형식을 띤다."
               },
               {
                 "t": "p",
-                "x": "가능한 경로는 두 가지다. 경제부가 행정규칙으로 AI 칩과 서버를 제한 목록에 추가하거나, 입법위원 정자빈(Chung Chia-pin)이 제안한 대로 입법원이 대외무역법을 개정하는 방식이다."
+                "x": "X는 최초 게시물을 내리고 사용자 계정을 정지했지만, 사본은 여전히 온라인에서 찾을 수 있었다. 클렘슨대 대런 린빌(Darren Linvill) 교수는 이 영상들이 러시아 네트워크 Storm-1516의 산물일 가능성이 크다고 말했다. 러시아 대사관은 즉각 응답하지 않았으며, 과거에는 미국(U.S.) 선거 개입을 부인해 왔다."
               },
               {
                 "t": "p",
-                "x": "필자들은 이 모호함이 대만에는 시간을 벌어 주고 워싱턴에는 유연한 정책 수단을 준다고 본다. 또 대만이 양자 협정을 통해 다른 관할권을 U.S. 수출통제에 묶는 시험 사례라고 주장한다."
+                "x": "다트머스대 하니 파리드(Hany Farid) 교수는 영상들이 AI로 생성되거나 조작됐을 가능성이 크다며, 브라운 영상을 “꽤 기술 수준이 낮은 가짜”라고 평했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "US-Taiwan協定が\n台湾に課すAIチップ規制",
-          "body": "LawfareがUS-Taiwan貿易協定の輸出管理条項を半導体とAIの観点で解説した。",
-          "mini_headline": "US-Taiwan協定の半導体輸出の謎",
+          "headline": "実在の身元を使うAI動画\n上院候補を中傷",
+          "body": "研究者によると、実在の米国人の身元で上院候補を中傷するAI動画はロシア発の可能性が高い。",
+          "mini_headline": "AI動画、上院候補を標的に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/1280px-tsmc_fab5.jpg?sfvrsn=8abcb19a_5"
+                "src": "https://www.twincities.com/wp-content/uploads/2026/10/Election_2_26_Vance_32249.jpg",
+                "cap": "期日前投票で投票用紙に記入する有権者。"
               },
               {
                 "t": "p",
-                "x": "2026年2月に署名されたU.S.-Taiwan相互貿易協定(Agreement on Reciprocal Trade、ART)の下で、米国は台湾製品への相互関税を20パーセントから15パーセントに引き下げることに合意し、台湾企業はU.S.の半導体、エネルギー、AI生産に少なくとも$250B を投資すると約束した。台湾は輸出管理をU.S.の規則に「整合させる(shall align)」ことにも同意したが、その整合が実際にどのようなものになるかは不明だ。"
+                "x": "NEW YORK (AP) — 人工知能で制作されたとみられ、ロシアとの関連が指摘されるソーシャルメディア動画が、実在の人物の名前や写真を悪用し、中間選挙の終盤戦で民主党の上院候補二人に関する偽情報を広めている。"
               },
               {
                 "t": "p",
-                "x": "先端AIチップは現在、中国本土向け輸出規制品目のリストに含まれておらず、台湾法の下ではそれを中国本土へ輸出しても刑事犯罪にはならない。第5.2(3)条は「特にU.S.の外国直接製品規則(Foreign Direct Product Rule)に関して」の整合を求めており、これは台湾が独自のFDPRを導入するか、U.S.の規則の執行に協力することを意味しうる。"
+                "x": "一つはオハイオ州で共和党のジョン・ヒューステッド(Jon Husted)上院議員と争うシェロッド・ブラウン(Sherrod Brown)を標的にし、元インターンのハヤ・アクビク(Haya Akbik)の写真を使っている。アクビクは自分の発言とされた内容を「完全なでっち上げ」だと述べた。もう一つはテキサス州で共和党のケン・パクストン(Ken Paxton)と争うジェームズ・タラリコ(James Talarico)を標的にし、元教え子による告白の体裁をとる。"
               },
               {
                 "t": "p",
-                "x": "考えられる道筋は二つある。経済部が行政規則でAIチップとサーバーを規制リストに加えるか、立法委員の鍾佳濱(Chung Chia-pin)が提案したように、立法院が貿易法を改正するかだ。"
+                "x": "Xは最初の投稿を削除してユーザーを凍結したが、コピーはなおオンラインで見つかった。クレムソン大学のダレン・リンビル(Darren Linvill)教授は、動画はロシアのネットワークStorm-1516が作った可能性が高いと述べた。ロシア大使館はすぐには回答しなかったが、過去には米国(U.S.)の選挙への干渉を否定している。"
               },
               {
                 "t": "p",
-                "x": "筆者らは、この曖昧さが台湾に時間を与える一方でワシントンには柔軟な政策手段をもたらすと論じ、台湾は二国間協定を通じて他の法域をU.S.の輸出管理に縛る試金石だと主張する。"
+                "x": "ダートマス大学のハニー・ファリド(Hany Farid)教授は、動画はAIで生成または加工された可能性が高いとし、ブラウン氏の動画を「かなりローテクな偽物」と評した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "US-Taiwan协定对台北\nAI芯片出口有何要求",
-          "body": "Lawfare剖析US-Taiwan贸易协定的出口管制条款对台北在芯片和AI硬件上的要求。",
-          "mini_headline": "US-Taiwan协定的芯片出口谜题",
+          "headline": "AI视频冒用真人身份\n抹黑参议员候选人",
+          "body": "研究人员称，冒用美国真人身份抹黑参议员候选人的AI视频很可能来自俄罗斯。",
+          "mini_headline": "AI视频瞄准参议员候选人",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/1280px-tsmc_fab5.jpg?sfvrsn=8abcb19a_5"
+                "src": "https://www.twincities.com/wp-content/uploads/2026/10/Election_2_26_Vance_32249.jpg",
+                "cap": "一名选民在提前投票期间填写选票。"
               },
               {
                 "t": "p",
-                "x": "根据2026年2月签署的U.S.-Taiwan对等贸易协定（Agreement on Reciprocal Trade，ART），美国同意将台湾商品的对等关税从百分之二十降至百分之十五，台湾企业则承诺在U.S.半导体、能源和AI生产领域投资至少$250B 。台湾还同意其出口管制“应与”U.S.规则“保持一致”（shall align），但这种一致在实践中如何体现尚不清楚。"
+                "x": "NEW YORK (AP) — 据信由人工智能制作、并与俄罗斯有关联的社交媒体视频，正在中期选举最后冲刺阶段盗用真实人物的姓名和照片，散布有关两名民主党参议员候选人的虚假信息。"
               },
               {
                 "t": "p",
-                "x": "目前，先进AI芯片并不在对中国大陆出口的管制物项清单上，根据台湾法律，向大陆出口此类芯片也不构成刑事犯罪。第5.2(3)条要求“特别是在U.S.外国直接产品规则（Foreign Direct Product Rule）方面”保持一致，这可能意味着台湾制定自己的FDPR，或协助执行U.S.的规则。"
+                "x": "其中一段视频针对在俄亥俄州挑战共和党参议员乔恩·赫斯特德(Jon Husted)的谢罗德·布朗(Sherrod Brown)，使用了前实习生哈娅·阿克比克(Haya Akbik)的照片；她称那些被归于她的说法“完全是捏造的”。另一段视频针对在得克萨斯州与共和党人肯·帕克斯顿(Ken Paxton)竞争的詹姆斯·塔拉里科(James Talarico)，以一名前学生自白的形式呈现。"
               },
               {
                 "t": "p",
-                "x": "有两条可行路径：经济部可通过行政规章将AI芯片和服务器列入管制清单；或者如立法委员钟佳滨（Chung Chia-pin）所提议，由立法机构修订《贸易法》。"
+                "x": "X删除了最初的帖子并封禁了相关用户，但网上仍能找到副本。克莱姆森大学教授达伦·林维尔(Darren Linvill)表示，这些视频很可能出自俄罗斯网络Storm-1516。俄罗斯大使馆未立即回应；该使馆过去曾否认干预美国(U.S.)选举。"
               },
               {
                 "t": "p",
-                "x": "作者认为，这种模糊性为台北争取了时间，同时为华盛顿提供了灵活的政策工具；台湾也是通过双边协定将其他司法管辖区纳入U.S.出口管制的试验案例。"
+                "x": "达特茅斯学院教授哈尼·法里德(Hany Farid)表示，这些视频很可能经过AI生成或篡改，并称布朗的视频是“技术含量相当低的伪造品”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Qué exige a Taipéi el pacto\nUS-Taiwan sobre chips de AI",
-          "body": "Lawfare analiza qué pide a Taipéi la cláusula de control de exportaciones del pacto US-Taiwan en chips y hardware AI.",
-          "mini_headline": "El enigma de los chips en el pacto US-Taiwan",
+          "headline": "Videos de AI atacan a candidatos\nal Senado con identidades reales",
+          "body": "Videos de AI que difaman a candidatos al Senado con identidades de estadounidenses vendrían de Rusia, según expertos.",
+          "mini_headline": "Videos de AI apuntan a candidatos al Senado",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/1280px-tsmc_fab5.jpg?sfvrsn=8abcb19a_5"
+                "src": "https://www.twincities.com/wp-content/uploads/2026/10/Election_2_26_Vance_32249.jpg",
+                "cap": "Un votante llena su boleta durante la votación anticipada."
               },
               {
                 "t": "p",
-                "x": "En virtud del Acuerdo de Comercio Recíproco U.S.-Taiwan (Agreement on Reciprocal Trade, ART), firmado en febrero de 2026, Estados Unidos aceptó reducir el arancel recíproco a los productos taiwaneses del 20 por ciento al 15 por ciento, mientras que las empresas taiwanesas se comprometieron a invertir al menos $250 billion en producción de semiconductores, energía y AI en U.S. Taiwán también aceptó que \"alineará\" (shall align) sus controles de exportación con las normas de U.S., pero no está claro cómo será esa alineación en la práctica."
+                "x": "NEW YORK (AP) — Videos en redes sociales que se cree fueron producidos con inteligencia artificial y que están vinculados a Rusia usan indebidamente nombres y fotografías de personas reales para difundir desinformación sobre dos candidatos demócratas al Senado en el tramo final de las elecciones de medio mandato."
               },
               {
                 "t": "p",
-                "x": "Los chips avanzados de AI no figuran hoy en la lista de artículos con exportación restringida a China continental, y exportarlos allí no es delito según la ley taiwanesa. El artículo 5.2(3) exige la alineación \"en particular con respecto a la Foreign Direct Product Rule de U.S.\", lo que podría significar que Taiwán adopte su propia FDPR o ayude a aplicar la de U.S."
+                "x": "Uno apunta a Sherrod Brown, que compite contra el senador republicano Jon Husted en Ohio, y usa fotos de una exbecaria, Haya Akbik, quien calificó de “completamente inventadas” las afirmaciones que se le atribuyen. Otro apunta a James Talarico, que compite contra el republicano Ken Paxton en Texas, y se presenta como la confesión de un exalumno."
               },
               {
                 "t": "p",
-                "x": "Hay dos vías plausibles: el Ministerio de Asuntos Económicos podría añadir los chips y servidores de AI a su lista restringida mediante una norma administrativa, o el poder legislativo podría reformar la Ley de Comercio Exterior, como ha propuesto el legislador Chung Chia-pin."
+                "x": "X retiró las publicaciones iniciales y suspendió a los usuarios, pero aún podían encontrarse copias en internet. Darren Linvill, profesor de la Universidad de Clemson, dijo que los videos probablemente son obra de Storm-1516, una red rusa. La Embajada de Rusia no respondió de inmediato; en el pasado ha negado interferir en las elecciones de Estados Unidos (U.S.)."
               },
               {
                 "t": "p",
-                "x": "Los autores sostienen que la ambigüedad da tiempo a Taipéi y ofrece a Washington una herramienta política flexible, y que Taiwán es un caso de prueba para vincular a otras jurisdicciones a los controles de exportación de U.S. mediante acuerdos bilaterales."
+                "x": "Hany Farid, profesor de Dartmouth, dijo que los videos probablemente fueron generados o manipulados con AI, y calificó el de Brown como una “falsificación de bastante baja tecnología”."
               }
             ]
           }
@@ -1391,15 +1321,15 @@
       }
     },
     {
-      "id": "kr-ai-youth-law",
-      "source_lang": "ko",
+      "id": "malaysia-ai-chips",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "방미통위, AI 청소년\n보호 법제 정비 착수",
-      "body": "방미통위가 청소년 보호를 담은 '인공지능서비스 이용자보호법' 제정을 준비한다.",
-      "mini_headline": "방미통위, AI 보호법 추진",
+      "headline": "$12.1M 규모 AI 칩\n말레이시아 공항서 압수",
+      "body": "세관이 US-origin 칩 수출통제 위반 의심 서버 30대에서 AI 칩을 찾았다.",
+      "mini_headline": "말레이시아, AI 칩 $12.1M 어치 압수",
       "tool": "Politics",
-      "source": "디지털투데이",
-      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709998",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/malaysia-airport-customs-seize-advanced-ai-chips-smuggling-6498976",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
@@ -1407,345 +1337,265 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/709998_657556_230.png",
-            "cap": "정부가 AI 챗봇의 청소년 보호를 위한 규제 정비에 나섰다. [사진: AI 생성 이미지]"
+            "src": "https://dam.mediacorp.sg/image/upload/s--BE5l9S0k--/c_crop,h_1125,w_1999,x_1,y_105/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/28/2026-10-28t053634z_1129627958_rc24coa9o52o_rtrmadp_3_malaysia-customs.jpg?itok=ZbY0e5Im",
+            "cap": "2026년 10월 28일 말레이시아 세팡에서 열린 세관 기자회견에서 공개된 첨단 AI 칩 탑재 서버. (사진: REUTERS/Hasnoor Hussain)"
           },
           {
             "t": "p",
-            "x": "AI 챗봇의 유해정보 노출과 청소년 과몰입 문제가 잇따라 제기되면서 정부가 보호조치 강화에 나서고 있다. 기존 정보통신망법과 인공지능기본법 등 관련 법제의 보완을 추진하는 한편, AI 서비스 이용자 보호를 위한 별도 법률 제정에도 나서는 모습이다."
+            "x": "KUALA LUMPUR: 말레이시아 세관이 수요일(10월 28일) 이달 들어 약 49.5 million 링깃(US$12.11 million) 상당의 첨단 인공지능 칩을 압수했다고 밝혔다. 당국은 주요 공항으로 고성능 반도체를 밀수한 것으로 의심되는 조직을 향해 수사망을 좁히고 있다."
           },
           {
             "t": "p",
-            "x": "방송미디어통신위원회는 가칭 '인공지능서비스 이용자보호법' 제정을 준비하고 있다. 초안에는 AI 사업자의 불법정보 생성·유통 방지 의무, 만 19세 미만 청소년에 대한 유해정보 생성·과몰입 유도 방지 조치, 관계형 AI 서비스 특별규정, 분쟁조정 제도 도입 등이 포함됐다. 방미통위 관계자는 입법 일정은 추진 방식과 상황에 따라 유동적이라고 말했다."
+            "x": "말레이시아는 지난해 중국 유입을 막으라는 미국의 압박을 받고 US 원산 첨단 AI 칩에 수출 통제를 도입했다. 아스팔릴라 악 투아(Aspalila Ag Tuah) 세관 국장은 당국이 10월 15일 쿠알라룸푸르 국제공항 자유무역지대에서 이 칩이 든 서버 30대를 찾아냈다고 말했다. 재수출될 화물이었고, 재수출하려면 무역 허가가 필요했다."
           },
           {
             "t": "p",
-            "x": "방송미디어통신심의위원회는 오는 11월 AI 채팅 서비스에 대한 본격적인 심의에 착수한다. 지난 21일에는 국내외 AI 채팅 서비스 사업자 15곳과 협력회의를 열고 입·출력 단계의 불법·유해정보 차단 기능 강화와 청소년의 성인용 콘텐츠 접근 제한 등을 요청했다."
-          },
-          {
-            "t": "p",
-            "x": "과학기술정보통신부는 'AI 기본법 제도개선 연구반'을 운영하며 연말 공청회에서 개정 방향을 공개할 예정이다. 국회에도 AI 사업자의 청소년 보호 의무를 강화하는 정보통신망법·AI기본법 개정안들이 발의돼 있다."
-          },
-          {
-            "t": "p",
-            "x": "최경진 가천대학교 법학과 교수는 \"아동·청소년의 최선의 이익을 먼저 고민해야 한다\"고 말했다."
+            "x": "아스팔릴라는 “서버가 전자 부품으로 허위 신고됐다”고 말했다. 화물 운송을 도운 말레이시아 업체는 수사에 협조하라는 소환을 받았다. 이 조직과 얽힌 사건은 최소 다섯 건이고, 압수 규모는 모두 합쳐 100 million 링깃을 넘는다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "방미통위, AI 청소년\n보호 법제 정비 착수",
-          "body": "방미통위가 청소년 보호를 담은 '인공지능서비스 이용자보호법' 제정을 준비한다.",
-          "mini_headline": "방미통위, AI 보호법 추진",
+        "en": {
+          "headline": "Malaysia seizes $12.1M in AI\nchips at Kuala Lumpur airport",
+          "body": "Malaysian customs found advanced AI chips in 30 servers suspected of breaching export controls on US-origin chips.",
+          "mini_headline": "Malaysia seizes $12.1M of AI chips",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/709998_657556_230.png",
-                "cap": "정부가 AI 챗봇의 청소년 보호를 위한 규제 정비에 나섰다. [사진: AI 생성 이미지]"
+                "src": "https://dam.mediacorp.sg/image/upload/s--BE5l9S0k--/c_crop,h_1125,w_1999,x_1,y_105/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/28/2026-10-28t053634z_1129627958_rc24coa9o52o_rtrmadp_3_malaysia-customs.jpg?itok=ZbY0e5Im",
+                "cap": "A server unit containing advanced AI chips shown at a customs press conference in Sepang, Malaysia, Oct 28, 2026. (Photo: REUTERS/Hasnoor Hussain)"
               },
               {
                 "t": "p",
-                "x": "AI 챗봇의 유해정보 노출과 청소년 과몰입 문제가 잇따라 제기되면서 정부가 보호조치 강화에 나서고 있다. 기존 정보통신망법과 인공지능기본법 등 관련 법제의 보완을 추진하는 한편, AI 서비스 이용자 보호를 위한 별도 법률 제정에도 나서는 모습이다."
+                "x": "KUALA LUMPUR: Malaysian customs said on Wednesday (Oct 28) that it had seized about 49.5 million ringgit (US$12.11 million) worth of advanced artificial intelligence chips this month, as authorities close in on a syndicate suspected of smuggling high-performance semiconductors through the country's main airport."
               },
               {
                 "t": "p",
-                "x": "방송미디어통신위원회는 가칭 '인공지능서비스 이용자보호법' 제정을 준비하고 있다. 초안에는 AI 사업자의 불법정보 생성·유통 방지 의무, 만 19세 미만 청소년에 대한 유해정보 생성·과몰입 유도 방지 조치, 관계형 AI 서비스 특별규정, 분쟁조정 제도 도입 등이 포함됐다. 방미통위 관계자는 입법 일정은 추진 방식과 상황에 따라 유동적이라고 말했다."
+                "x": "Malaysia imposed export controls last year on advanced AI chips of US origin, following pressure from the United States to stem their flow into China. On Oct 15, authorities found 30 server units containing the chips at Kuala Lumpur International Airport's free trade zone, customs director Aspalila Ag Tuah said. The shipment was to be re-exported, a move that required a trade permit."
               },
               {
                 "t": "p",
-                "x": "방송미디어통신심의위원회는 오는 11월 AI 채팅 서비스에 대한 본격적인 심의에 착수한다. 지난 21일에는 국내외 AI 채팅 서비스 사업자 15곳과 협력회의를 열고 입·출력 단계의 불법·유해정보 차단 기능 강화와 청소년의 성인용 콘텐츠 접근 제한 등을 요청했다."
-              },
-              {
-                "t": "p",
-                "x": "과학기술정보통신부는 'AI 기본법 제도개선 연구반'을 운영하며 연말 공청회에서 개정 방향을 공개할 예정이다. 국회에도 AI 사업자의 청소년 보호 의무를 강화하는 정보통신망법·AI기본법 개정안들이 발의돼 있다."
-              },
-              {
-                "t": "p",
-                "x": "최경진 가천대학교 법학과 교수는 \"아동·청소년의 최선의 이익을 먼저 고민해야 한다\"고 말했다."
+                "x": "\"The servers were falsely declared as electronic components,\" Aspalila said. A Malaysian firm that facilitated the shipment has been called in to assist investigations. At least five cases are linked to the syndicate, involving seizures worth more than 100 million ringgit in total."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Korea's media regulator moves\nto protect teens from AI",
-          "body": "Korea's media and communications regulator is preparing an 'AI Service User Protection Act' to shield minors.",
-          "mini_headline": "Korea regulator pushes AI user protection law",
+        "ko": {
+          "headline": "$12.1M 규모 AI 칩\n말레이시아 공항서 압수",
+          "body": "세관이 US-origin 칩 수출통제 위반 의심 서버 30대에서 AI 칩을 찾았다.",
+          "mini_headline": "말레이시아, AI 칩 $12.1M 어치 압수",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/709998_657556_230.png",
-                "cap": "The government has moved to overhaul regulations to protect minors using AI chatbots. [Photo: AI-generated image]"
+                "src": "https://dam.mediacorp.sg/image/upload/s--BE5l9S0k--/c_crop,h_1125,w_1999,x_1,y_105/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/28/2026-10-28t053634z_1129627958_rc24coa9o52o_rtrmadp_3_malaysia-customs.jpg?itok=ZbY0e5Im",
+                "cap": "2026년 10월 28일 말레이시아 세팡에서 열린 세관 기자회견에서 공개된 첨단 AI 칩 탑재 서버. (사진: REUTERS/Hasnoor Hussain)"
               },
               {
                 "t": "p",
-                "x": "As concerns mount over AI chatbots exposing users to harmful content and over teenagers becoming overly immersed in them, the government is moving to strengthen protective measures. It is pursuing changes to existing laws such as the Information and Communications Network Act and the AI Basic Act, while also moving to enact a separate law to protect users of AI services."
+                "x": "KUALA LUMPUR: 말레이시아 세관이 수요일(10월 28일) 이달 들어 약 49.5 million 링깃(US$12.11 million) 상당의 첨단 인공지능 칩을 압수했다고 밝혔다. 당국은 주요 공항으로 고성능 반도체를 밀수한 것으로 의심되는 조직을 향해 수사망을 좁히고 있다."
               },
               {
                 "t": "p",
-                "x": "The Korea Media and Communications Commission is preparing a tentatively named 'Artificial Intelligence Service User Protection Act.' The draft includes obligations for AI operators to prevent the generation and distribution of illegal information, measures to keep minors under 19 from being served harmful content or drawn into over-immersion, special provisions for relational AI services, and a new dispute mediation system. A commission official said the legislative timeline remains fluid, depending on the approach taken and circumstances."
+                "x": "말레이시아는 지난해 중국 유입을 막으라는 미국의 압박을 받고 US 원산 첨단 AI 칩에 수출 통제를 도입했다. 아스팔릴라 악 투아(Aspalila Ag Tuah) 세관 국장은 당국이 10월 15일 쿠알라룸푸르 국제공항 자유무역지대에서 이 칩이 든 서버 30대를 찾아냈다고 말했다. 재수출될 화물이었고, 재수출하려면 무역 허가가 필요했다."
               },
               {
                 "t": "p",
-                "x": "The Korea Media and Communications Standards Commission will begin full-scale reviews of AI chat services in November. On the 21st, it held a cooperation meeting with 15 domestic and foreign AI chat service operators and asked them to strengthen filters that block illegal and harmful information at the input and output stages, and to restrict minors' access to adult content."
-              },
-              {
-                "t": "p",
-                "x": "The Ministry of Science and ICT is running an 'AI Basic Act institutional improvement research group' and plans to unveil the direction of amendments at a public hearing at the end of the year. Bills amending the Information and Communications Network Act and the AI Basic Act to strengthen AI operators' duty to protect minors have also been submitted to the National Assembly."
-              },
-              {
-                "t": "p",
-                "x": "Choi Kyung-jin, a law professor at Gachon University, said, \"We must first consider the best interests of children and adolescents.\""
+                "x": "아스팔릴라는 “서버가 전자 부품으로 허위 신고됐다”고 말했다. 화물 운송을 도운 말레이시아 업체는 수사에 협조하라는 소환을 받았다. 이 조직과 얽힌 사건은 최소 다섯 건이고, 압수 규모는 모두 합쳐 100 million 링깃을 넘는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "放送メディア通信委、AI\n青少年保護の法整備へ",
-          "body": "放送メディア通信委は青少年保護を含む「人工知能サービス利用者保護法」の制定を準備中だ。",
-          "mini_headline": "放送メディア通信委、AI保護法を推進",
+          "headline": "$12.1M 分のAIチップ\nマレーシアが空港で押収",
+          "body": "税関がUS-origin チップ輸出規制違反疑いのサーバー30台からAIチップを発見した。",
+          "mini_headline": "マレーシア、$12.1M 分のAIチップ押収",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/709998_657556_230.png",
-                "cap": "政府がAIチャットボットの青少年保護に向けた規制整備に乗り出した。[写真:AI生成画像]"
+                "src": "https://dam.mediacorp.sg/image/upload/s--BE5l9S0k--/c_crop,h_1125,w_1999,x_1,y_105/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/28/2026-10-28t053634z_1129627958_rc24coa9o52o_rtrmadp_3_malaysia-customs.jpg?itok=ZbY0e5Im",
+                "cap": "2026年10月28日、マレーシア・セパンでの税関の記者会見で公開された、先端AIチップを搭載したサーバー。(写真:REUTERS/Hasnoor Hussain)"
               },
               {
                 "t": "p",
-                "x": "AIチャットボットによる有害情報への露出や青少年の過度な没入の問題が相次いで指摘され、政府は保護措置の強化に乗り出している。既存の情報通信網法や人工知能基本法など関連法制の補完を進める一方、AIサービス利用者を保護するための別の法律の制定にも動いている。"
+                "x": "KUALA LUMPUR:マレーシア税関は水曜日(10月28日)、今月約49.5 million リンギ(US$12.11 million)相当の先端人工知能チップを押収したと発表した。当局は、同国の主要空港を経由して高性能半導体を密輸した疑いのある組織に迫っている。"
               },
               {
                 "t": "p",
-                "x": "放送メディア通信委員会は、仮称「人工知能サービス利用者保護法」の制定を準備している。草案には、AI事業者の違法情報の生成・流通防止義務、満19歳未満の青少年に対する有害情報の生成や過度な没入の誘導を防ぐ措置、関係型AIサービスの特別規定、紛争調停制度の導入などが盛り込まれた。同委員会の関係者は、立法日程は進め方や状況次第で流動的だと述べた。"
+                "x": "マレーシアは、中国への流入を食い止めるよう求める米国の圧力を受け、昨年US原産の先端AIチップに輸出規制を導入した。アスパリラ・アグ・トゥア(Aspalila Ag Tuah)税関局長によると、当局は10月15日、クアラルンプール国際空港の自由貿易区域で、このチップを搭載したサーバー30台を発見した。貨物は再輸出される予定で、それには貿易許可が必要だった。"
               },
               {
                 "t": "p",
-                "x": "放送メディア通信審議委員会は11月、AIチャットサービスに対する本格的な審議に着手する。21日には国内外のAIチャットサービス事業者15社と協力会議を開き、入出力段階での違法・有害情報の遮断機能の強化や、青少年の成人向けコンテンツへのアクセス制限などを要請した。"
-              },
-              {
-                "t": "p",
-                "x": "科学技術情報通信部は「AI基本法制度改善研究班」を運営しており、年末の公聴会で改正の方向性を公表する予定だ。国会にも、AI事業者の青少年保護義務を強化する情報通信網法・AI基本法の改正案が提出されている。"
-              },
-              {
-                "t": "p",
-                "x": "嘉泉大学法学科の崔京真(チェ・ギョンジン)教授は「児童・青少年の最善の利益をまず考えなければならない」と述べた。"
+                "x": "「サーバーは電子部品と偽って申告されていた」とアスパリラ氏は述べた。輸送を手助けしたマレーシア企業は捜査協力のため呼び出された。この組織に関連する事件は少なくとも五件あり、押収額は合計100 million リンギを超える。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "广播媒体通信委着手\n完善AI青少年保护法制",
-          "body": "广播媒体通信委正筹备制定纳入青少年保护内容的《人工智能服务用户保护法》。",
-          "mini_headline": "广播媒体通信委推进AI保护法",
+          "headline": "马来西亚在吉隆坡机场\n查获$12.1M AI芯片",
+          "body": "马来西亚海关在30台涉嫌违反US-origin 芯片出口管制的服务器中发现先进AI芯片。",
+          "mini_headline": "马来西亚查获$12.1M AI芯片",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/709998_657556_230.png",
-                "cap": "政府着手完善监管，以保护使用AI聊天机器人的青少年。[图片：AI生成图像]"
+                "src": "https://dam.mediacorp.sg/image/upload/s--BE5l9S0k--/c_crop,h_1125,w_1999,x_1,y_105/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/28/2026-10-28t053634z_1129627958_rc24coa9o52o_rtrmadp_3_malaysia-customs.jpg?itok=ZbY0e5Im",
+                "cap": "2026年10月28日，在马来西亚雪邦举行的海关记者会上展示的一台装有先进AI芯片的服务器。(图片：REUTERS/Hasnoor Hussain)"
               },
               {
                 "t": "p",
-                "x": "随着AI聊天机器人带来的有害信息暴露和青少年过度沉迷问题接连被提出，政府正着手加强保护措施。在推动完善现有《信息通信网法》和《人工智能基本法》等相关法律的同时，政府也在着手为保护AI服务用户另立专门法律。"
+                "x": "KUALA LUMPUR：马来西亚海关周三(10月28日)表示，本月查获价值约49.5 million 林吉特(US$12.11 million)的先进人工智能芯片，当局正逐步收网一个涉嫌经该国主要机场走私高性能半导体的集团。"
               },
               {
                 "t": "p",
-                "x": "广播媒体通信委员会正在筹备制定暂定名为《人工智能服务用户保护法》的法律。草案包括AI运营商防止非法信息生成与传播的义务、针对未满19岁青少年防止生成有害信息和诱导过度沉迷的措施、关系型AI服务特别规定以及引入纠纷调解制度等内容。该委员会相关人士表示，立法日程将视推进方式和情况而定，尚有变数。"
+                "x": "在美国施压要求阻止相关芯片流入中国后，马来西亚去年对US原产的先进AI芯片实施出口管制。海关总监阿斯帕莉拉·阿格·图阿(Aspalila Ag Tuah)表示，10月15日，当局在吉隆坡国际机场自由贸易区发现30台装有这些芯片的服务器。这批货物原定再出口，而再出口需要贸易许可证。"
               },
               {
                 "t": "p",
-                "x": "广播媒体通信审议委员会将于11月正式启动对AI聊天服务的审议。该委员会已于21日与15家国内外AI聊天服务运营商召开合作会议，要求加强输入和输出环节的非法及有害信息拦截功能，并限制青少年接触成人内容。"
-              },
-              {
-                "t": "p",
-                "x": "科学技术信息通信部正在运营“AI基本法制度改进研究组”，计划在年底的公听会上公布修法方向。国会也已提出多项强化AI运营商青少年保护义务的《信息通信网法》和《AI基本法》修正案。"
-              },
-              {
-                "t": "p",
-                "x": "嘉泉大学法学系教授崔京振表示：“首先要考虑儿童和青少年的最大利益。”"
+                "x": "阿斯帕莉拉说：“这些服务器被虚报为电子元件。”协助运送该批货物的一家马来西亚公司已被传唤协助调查。至少五起案件与该集团有关，查获总价值超过100 million 林吉特。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El regulador coreano de medios\nprepara ley de AI para menores",
-          "body": "El regulador de medios prepara la 'Ley de Protección de Usuarios de Servicios de AI', con protección de menores.",
-          "mini_headline": "El regulador coreano impulsa una ley de protección en AI",
+          "headline": "Incautan $12.1M en chips de AI\nen el aeropuerto de Kuala Lumpur",
+          "body": "La aduana malasia halló chips de AI avanzados en 30 servidores sospechosos de violar controles a chips US-origin.",
+          "mini_headline": "Malasia incauta $12.1M en chips de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/709998_657556_230.png",
-                "cap": "El gobierno ha empezado a revisar la regulación para proteger a los menores frente a los chatbots de AI. [Foto: imagen generada por AI]"
+                "src": "https://dam.mediacorp.sg/image/upload/s--BE5l9S0k--/c_crop,h_1125,w_1999,x_1,y_105/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/28/2026-10-28t053634z_1129627958_rc24coa9o52o_rtrmadp_3_malaysia-customs.jpg?itok=ZbY0e5Im",
+                "cap": "Una unidad de servidor con chips avanzados de AI, mostrada en una rueda de prensa de aduanas en Sepang, Malasia, el 28 de octubre de 2026. (Foto: REUTERS/Hasnoor Hussain)"
               },
               {
                 "t": "p",
-                "x": "Ante las reiteradas denuncias sobre la exposición a información nociva en los chatbots de AI y el uso excesivo por parte de menores, el gobierno se dispone a reforzar las medidas de protección. Además de impulsar la reforma de normas vigentes como la Ley de la Red de Información y Comunicaciones y la Ley Básica de Inteligencia Artificial, también avanza hacia una ley específica para proteger a los usuarios de servicios de AI."
+                "x": "KUALA LUMPUR: La aduana de Malasia informó el miércoles (28 de octubre) que este mes incautó chips avanzados de inteligencia artificial por valor de unos 49.5 millones de ringgit (US$12.11 millones), mientras las autoridades cercan a una red sospechosa de contrabandear semiconductores de alto rendimiento a través del principal aeropuerto del país."
               },
               {
                 "t": "p",
-                "x": "La Comisión de Radiodifusión, Medios y Comunicaciones prepara una ley provisionalmente llamada 'Ley de Protección de Usuarios de Servicios de Inteligencia Artificial'. El borrador incluye la obligación de los operadores de AI de impedir la generación y difusión de información ilegal, medidas para evitar que a los menores de 19 años se les genere información nociva o se les induzca a un uso excesivo, disposiciones especiales para los servicios de AI relacionales y la creación de un sistema de mediación de conflictos. Un responsable de la comisión dijo que el calendario legislativo es flexible y dependerá del enfoque y de las circunstancias."
+                "x": "Malasia impuso el año pasado controles de exportación a los chips avanzados de AI de origen US, tras la presión de Estados Unidos para frenar su llegada a China. El 15 de octubre, las autoridades hallaron 30 unidades de servidor con esos chips en la zona franca del Aeropuerto Internacional de Kuala Lumpur, dijo la directora de aduanas Aspalila Ag Tuah. El envío iba a reexportarse, lo que requería un permiso comercial."
               },
               {
                 "t": "p",
-                "x": "La Comisión de Normas de Radiodifusión, Medios y Comunicaciones iniciará en noviembre una revisión a fondo de los servicios de chat con AI. El día 21 celebró una reunión de cooperación con 15 operadores nacionales y extranjeros de servicios de chat con AI y les pidió reforzar el bloqueo de información ilegal y nociva en las fases de entrada y salida, así como restringir el acceso de los menores a contenidos para adultos."
-              },
-              {
-                "t": "p",
-                "x": "El Ministerio de Ciencia y TIC dirige un 'grupo de estudio para la mejora institucional de la Ley Básica de AI' y prevé presentar la orientación de la reforma en una audiencia pública a final de año. En la Asamblea Nacional también se han presentado proyectos de reforma de la Ley de la Red de Información y Comunicaciones y de la Ley Básica de AI que refuerzan la obligación de los operadores de AI de proteger a los menores."
-              },
-              {
-                "t": "p",
-                "x": "Choi Kyung-jin, profesor de Derecho de la Universidad Gachon, afirmó: \"Hay que pensar primero en el interés superior de los niños y adolescentes\"."
+                "x": "\"Los servidores se declararon falsamente como componentes electrónicos\", dijo Aspalila. Una empresa malasia que facilitó el envío fue citada para colaborar con la investigación. Al menos cinco casos están vinculados a la red, con incautaciones que suman más de 100 millones de ringgit."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Korea's media regulator moves\nto protect teens from AI",
-          "body": "Korea's media and communications regulator is preparing an 'AI Service User Protection Act' to shield minors.",
-          "mini_headline": "Korea regulator pushes AI user protection law",
+        "ko": {
+          "headline": "$12.1M 규모 AI 칩\n말레이시아 공항서 압수",
+          "body": "세관이 US-origin 칩 수출통제 위반 의심 서버 30대서 AI 칩을 찾았다.",
+          "mini_headline": "말레이시아, AI 칩 $12.1M 어치 압수",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/709998_657556_230.png",
-                "cap": "The government has moved to overhaul regulations to protect minors using AI chatbots. [Photo: AI-generated image]"
+                "src": "https://dam.mediacorp.sg/image/upload/s--BE5l9S0k--/c_crop,h_1125,w_1999,x_1,y_105/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/28/2026-10-28t053634z_1129627958_rc24coa9o52o_rtrmadp_3_malaysia-customs.jpg?itok=ZbY0e5Im",
+                "cap": "2026년 10월 28일 말레이시아 세팡에서 열린 세관 기자회견에서 공개된 첨단 AI 칩 탑재 서버. (사진: REUTERS/Hasnoor Hussain)"
               },
               {
                 "t": "p",
-                "x": "As concerns mount over AI chatbots exposing users to harmful content and over teenagers becoming overly immersed in them, the government is moving to strengthen protective measures. It is pursuing changes to existing laws such as the Information and Communications Network Act and the AI Basic Act, while also moving to enact a separate law to protect users of AI services."
+                "x": "KUALA LUMPUR: 말레이시아 세관은 수요일(10월 28일) 이달 약 49.5 million 링깃(US$12.11 million) 상당의 첨단 인공지능 칩을 압수했다고 밝혔다. 당국은 이 나라 주요 공항을 통해 고성능 반도체를 밀수한 것으로 의심되는 조직을 좁혀 들어가고 있다."
               },
               {
                 "t": "p",
-                "x": "The Korea Media and Communications Commission is preparing a tentatively named 'Artificial Intelligence Service User Protection Act.' The draft includes obligations for AI operators to prevent the generation and distribution of illegal information, measures to keep minors under 19 from being served harmful content or drawn into over-immersion, special provisions for relational AI services, and a new dispute mediation system. A commission official said the legislative timeline remains fluid, depending on the approach taken and circumstances."
+                "x": "말레이시아는 중국으로의 유입을 막으라는 미국의 압박에 따라 지난해 US 원산 첨단 AI 칩에 수출 통제를 도입했다. 아스팔릴라 악 투아(Aspalila Ag Tuah) 세관 국장은 10월 15일 당국이 쿠알라룸푸르 국제공항 자유무역지대에서 이 칩이 들어 있는 서버 30대를 발견했다고 말했다. 이 화물은 재수출될 예정이었고, 재수출에는 무역 허가가 필요했다."
               },
               {
                 "t": "p",
-                "x": "The Korea Media and Communications Standards Commission will begin full-scale reviews of AI chat services in November. On the 21st, it held a cooperation meeting with 15 domestic and foreign AI chat service operators and asked them to strengthen filters that block illegal and harmful information at the input and output stages, and to restrict minors' access to adult content."
-              },
-              {
-                "t": "p",
-                "x": "The Ministry of Science and ICT is running an 'AI Basic Act institutional improvement research group' and plans to unveil the direction of amendments at a public hearing at the end of the year. Bills amending the Information and Communications Network Act and the AI Basic Act to strengthen AI operators' duty to protect minors have also been submitted to the National Assembly."
-              },
-              {
-                "t": "p",
-                "x": "Choi Kyung-jin, a law professor at Gachon University, said, \"We must first consider the best interests of children and adolescents.\""
+                "x": "아스팔릴라는 “서버가 전자 부품으로 허위 신고됐다”고 말했다. 화물 운송을 도운 말레이시아 업체는 수사 협조를 위해 소환됐다. 이 조직과 연관된 사건은 최소 다섯 건으로, 압수 규모는 모두 합쳐 100 million 링깃이 넘는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "放送メディア通信委、AI\n青少年保護の法整備へ",
-          "body": "放送メディア通信委は青少年保護を含む「人工知能サービス利用者保護法」の制定を準備中だ。",
-          "mini_headline": "放送メディア通信委、AI保護法を推進",
+          "headline": "$12.1M 分のAIチップ\nマレーシアが空港で押収",
+          "body": "税関がUS-origin チップ輸出規制違反疑いのサーバー30台からAIチップを発見した。",
+          "mini_headline": "マレーシア、$12.1M 分のAIチップ押収",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/709998_657556_230.png",
-                "cap": "政府がAIチャットボットの青少年保護に向けた規制整備に乗り出した。[写真:AI生成画像]"
+                "src": "https://dam.mediacorp.sg/image/upload/s--BE5l9S0k--/c_crop,h_1125,w_1999,x_1,y_105/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/28/2026-10-28t053634z_1129627958_rc24coa9o52o_rtrmadp_3_malaysia-customs.jpg?itok=ZbY0e5Im",
+                "cap": "2026年10月28日、マレーシア・セパンでの税関の記者会見で公開された、先端AIチップを搭載したサーバー。(写真:REUTERS/Hasnoor Hussain)"
               },
               {
                 "t": "p",
-                "x": "AIチャットボットによる有害情報への露出や青少年の過度な没入の問題が相次いで指摘され、政府は保護措置の強化に乗り出している。既存の情報通信網法や人工知能基本法など関連法制の補完を進める一方、AIサービス利用者を保護するための別の法律の制定にも動いている。"
+                "x": "KUALA LUMPUR:マレーシア税関は水曜日(10月28日)、今月約49.5 million リンギ(US$12.11 million)相当の先端人工知能チップを押収したと発表した。当局は、同国の主要空港を経由して高性能半導体を密輸した疑いのある組織に迫っている。"
               },
               {
                 "t": "p",
-                "x": "放送メディア通信委員会は、仮称「人工知能サービス利用者保護法」の制定を準備している。草案には、AI事業者の違法情報の生成・流通防止義務、満19歳未満の青少年に対する有害情報の生成や過度な没入の誘導を防ぐ措置、関係型AIサービスの特別規定、紛争調停制度の導入などが盛り込まれた。同委員会の関係者は、立法日程は進め方や状況次第で流動的だと述べた。"
+                "x": "マレーシアは、中国への流入を食い止めるよう求める米国の圧力を受け、昨年US原産の先端AIチップに輸出規制を導入した。アスパリラ・アグ・トゥア(Aspalila Ag Tuah)税関局長によると、当局は10月15日、クアラルンプール国際空港の自由貿易区域で、このチップを搭載したサーバー30台を発見した。貨物は再輸出される予定で、それには貿易許可が必要だった。"
               },
               {
                 "t": "p",
-                "x": "放送メディア通信審議委員会は11月、AIチャットサービスに対する本格的な審議に着手する。21日には国内外のAIチャットサービス事業者15社と協力会議を開き、入出力段階での違法・有害情報の遮断機能の強化や、青少年の成人向けコンテンツへのアクセス制限などを要請した。"
-              },
-              {
-                "t": "p",
-                "x": "科学技術情報通信部は「AI基本法制度改善研究班」を運営しており、年末の公聴会で改正の方向性を公表する予定だ。国会にも、AI事業者の青少年保護義務を強化する情報通信網法・AI基本法の改正案が提出されている。"
-              },
-              {
-                "t": "p",
-                "x": "嘉泉大学法学科の崔京真(チェ・ギョンジン)教授は「児童・青少年の最善の利益をまず考えなければならない」と述べた。"
+                "x": "「サーバーは電子部品と偽って申告されていた」とアスパリラ氏は述べた。輸送を手助けしたマレーシア企業は捜査協力のため呼び出された。この組織に関連する事件は少なくとも五件あり、押収額は合計100 million リンギを超える。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "广播媒体通信委着手\n完善AI青少年保护法制",
-          "body": "广播媒体通信委正筹备制定纳入青少年保护内容的《人工智能服务用户保护法》。",
-          "mini_headline": "广播媒体通信委推进AI保护法",
+          "headline": "马来西亚在吉隆坡机场\n查获$12.1M AI芯片",
+          "body": "马来西亚海关在30台涉嫌违反US-origin 芯片出口管制的服务器中发现先进AI芯片。",
+          "mini_headline": "马来西亚查获$12.1M AI芯片",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/709998_657556_230.png",
-                "cap": "政府着手完善监管，以保护使用AI聊天机器人的青少年。[图片：AI生成图像]"
+                "src": "https://dam.mediacorp.sg/image/upload/s--BE5l9S0k--/c_crop,h_1125,w_1999,x_1,y_105/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/28/2026-10-28t053634z_1129627958_rc24coa9o52o_rtrmadp_3_malaysia-customs.jpg?itok=ZbY0e5Im",
+                "cap": "2026年10月28日，在马来西亚雪邦举行的海关记者会上展示的一台装有先进AI芯片的服务器。(图片：REUTERS/Hasnoor Hussain)"
               },
               {
                 "t": "p",
-                "x": "随着AI聊天机器人带来的有害信息暴露和青少年过度沉迷问题接连被提出，政府正着手加强保护措施。在推动完善现有《信息通信网法》和《人工智能基本法》等相关法律的同时，政府也在着手为保护AI服务用户另立专门法律。"
+                "x": "KUALA LUMPUR：马来西亚海关周三(10月28日)表示，本月查获价值约49.5 million 林吉特(US$12.11 million)的先进人工智能芯片，当局正逐步收网一个涉嫌经该国主要机场走私高性能半导体的集团。"
               },
               {
                 "t": "p",
-                "x": "广播媒体通信委员会正在筹备制定暂定名为《人工智能服务用户保护法》的法律。草案包括AI运营商防止非法信息生成与传播的义务、针对未满19岁青少年防止生成有害信息和诱导过度沉迷的措施、关系型AI服务特别规定以及引入纠纷调解制度等内容。该委员会相关人士表示，立法日程将视推进方式和情况而定，尚有变数。"
+                "x": "在美国施压要求阻止相关芯片流入中国后，马来西亚去年对US原产的先进AI芯片实施出口管制。海关总监阿斯帕莉拉·阿格·图阿(Aspalila Ag Tuah)表示，10月15日，当局在吉隆坡国际机场自由贸易区发现30台装有这些芯片的服务器。这批货物原定再出口，而再出口需要贸易许可证。"
               },
               {
                 "t": "p",
-                "x": "广播媒体通信审议委员会将于11月正式启动对AI聊天服务的审议。该委员会已于21日与15家国内外AI聊天服务运营商召开合作会议，要求加强输入和输出环节的非法及有害信息拦截功能，并限制青少年接触成人内容。"
-              },
-              {
-                "t": "p",
-                "x": "科学技术信息通信部正在运营“AI基本法制度改进研究组”，计划在年底的公听会上公布修法方向。国会也已提出多项强化AI运营商青少年保护义务的《信息通信网法》和《AI基本法》修正案。"
-              },
-              {
-                "t": "p",
-                "x": "嘉泉大学法学系教授崔京振表示：“首先要考虑儿童和青少年的最大利益。”"
+                "x": "阿斯帕莉拉说：“这些服务器被虚报为电子元件。”协助运送该批货物的一家马来西亚公司已被传唤协助调查。至少五起案件与该集团有关，查获总价值超过100 million 林吉特。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El regulador coreano de medios\nprepara ley de AI para menores",
-          "body": "El regulador de medios prepara la 'Ley de Protección de Usuarios de Servicios de AI', con protección de menores.",
-          "mini_headline": "El regulador coreano impulsa una ley de protección en AI",
+          "headline": "Incautan $12.1M en chips de AI\nen el aeropuerto de Kuala Lumpur",
+          "body": "La aduana malasia halló chips de AI avanzados en 30 servidores sospechosos de violar controles a chips US-origin.",
+          "mini_headline": "Malasia incauta $12.1M en chips de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/709998_657556_230.png",
-                "cap": "El gobierno ha empezado a revisar la regulación para proteger a los menores frente a los chatbots de AI. [Foto: imagen generada por AI]"
+                "src": "https://dam.mediacorp.sg/image/upload/s--BE5l9S0k--/c_crop,h_1125,w_1999,x_1,y_105/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/28/2026-10-28t053634z_1129627958_rc24coa9o52o_rtrmadp_3_malaysia-customs.jpg?itok=ZbY0e5Im",
+                "cap": "Una unidad de servidor con chips avanzados de AI, mostrada en una rueda de prensa de aduanas en Sepang, Malasia, el 28 de octubre de 2026. (Foto: REUTERS/Hasnoor Hussain)"
               },
               {
                 "t": "p",
-                "x": "Ante las reiteradas denuncias sobre la exposición a información nociva en los chatbots de AI y el uso excesivo por parte de menores, el gobierno se dispone a reforzar las medidas de protección. Además de impulsar la reforma de normas vigentes como la Ley de la Red de Información y Comunicaciones y la Ley Básica de Inteligencia Artificial, también avanza hacia una ley específica para proteger a los usuarios de servicios de AI."
+                "x": "KUALA LUMPUR: La aduana de Malasia informó el miércoles (28 de octubre) que este mes incautó chips avanzados de inteligencia artificial por valor de unos 49.5 millones de ringgit (US$12.11 millones), mientras las autoridades cercan a una red sospechosa de contrabandear semiconductores de alto rendimiento a través del principal aeropuerto del país."
               },
               {
                 "t": "p",
-                "x": "La Comisión de Radiodifusión, Medios y Comunicaciones prepara una ley provisionalmente llamada 'Ley de Protección de Usuarios de Servicios de Inteligencia Artificial'. El borrador incluye la obligación de los operadores de AI de impedir la generación y difusión de información ilegal, medidas para evitar que a los menores de 19 años se les genere información nociva o se les induzca a un uso excesivo, disposiciones especiales para los servicios de AI relacionales y la creación de un sistema de mediación de conflictos. Un responsable de la comisión dijo que el calendario legislativo es flexible y dependerá del enfoque y de las circunstancias."
+                "x": "Malasia impuso el año pasado controles de exportación a los chips avanzados de AI de origen US, tras la presión de Estados Unidos para frenar su llegada a China. El 15 de octubre, las autoridades hallaron 30 unidades de servidor con esos chips en la zona franca del Aeropuerto Internacional de Kuala Lumpur, dijo la directora de aduanas Aspalila Ag Tuah. El envío iba a reexportarse, lo que requería un permiso comercial."
               },
               {
                 "t": "p",
-                "x": "La Comisión de Normas de Radiodifusión, Medios y Comunicaciones iniciará en noviembre una revisión a fondo de los servicios de chat con AI. El día 21 celebró una reunión de cooperación con 15 operadores nacionales y extranjeros de servicios de chat con AI y les pidió reforzar el bloqueo de información ilegal y nociva en las fases de entrada y salida, así como restringir el acceso de los menores a contenidos para adultos."
-              },
-              {
-                "t": "p",
-                "x": "El Ministerio de Ciencia y TIC dirige un 'grupo de estudio para la mejora institucional de la Ley Básica de AI' y prevé presentar la orientación de la reforma en una audiencia pública a final de año. En la Asamblea Nacional también se han presentado proyectos de reforma de la Ley de la Red de Información y Comunicaciones y de la Ley Básica de AI que refuerzan la obligación de los operadores de AI de proteger a los menores."
-              },
-              {
-                "t": "p",
-                "x": "Choi Kyung-jin, profesor de Derecho de la Universidad Gachon, afirmó: \"Hay que pensar primero en el interés superior de los niños y adolescentes\"."
+                "x": "\"Los servidores se declararon falsamente como componentes electrónicos\", dijo Aspalila. Una empresa malasia que facilitó el envío fue citada para colaborar con la investigación. Al menos cinco casos están vinculados a la red, con incautaciones que suman más de 100 millones de ringgit."
               }
             ]
           }

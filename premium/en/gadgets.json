@@ -9931,6 +9931,133 @@
           "x": "With AI models from companies like OpenAI and Anthropic always improving, it’s great to see Apple already iterating on Siri AI so shortly after it launched. Here’s hoping the assistant keeps getting better with each new software update."
         }
       ]
+    },
+    "gadgets/gadgets-xreal-aura-launch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?fit=1800%2C1200&quality=89&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "XREAL announced that XREAL AURA, the first AR glasses running Google’s Android XR operating system, is launching today, starting at $1,100 for a limited time. The first batch is slated to start shipping in mid-November, coming first to the US, Canada, Japan, and South Korea."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-aura-screen.jpg?quality=89&ssl=1",
+          "cap": "Courtesy XREAL"
+        },
+        {
+          "t": "p",
+          "x": "Launch discount through December 2026: Xreal Aura 12GB + 256GB: $1,099, regularly $1,279; 16GB + 512GB: $1,299, regularly $1,499."
+        },
+        {
+          "t": "p",
+          "x": "Aura’s prism-style see-through optics deliver a 70-degree field-of-view in a package under 95 grams. It tethers to a pocketable compute unit with Qualcomm’s Snapdragon Reality Elite chipset for XR processing and AI workloads, and Xreal’s X1S Spatial Coprocessor. It supports 6DOF and hand tracking, Play Store apps, and ships with over 150 made-for-XR experiences."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-controller.jpg?quality=89&ssl=1",
+          "cap": "Courtesy XREAL"
+        },
+        {
+          "t": "p",
+          "x": "Xreal also announced a gamepad designed with GameSir featuring a dedicated Gemini key, giving players “a fast way to access AI assistance while they play,” plus a wireless portable keyboard. The compute puck offers built-in Gemini AI context understanding."
+        }
+      ]
+    },
+    "gadgets/gadgets-copilot-tv-exit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&strip=all&crop=0%2C10.841832569581%2C100%2C78.316334860837&w=1200",
+          "cap": "Image: Microsoft"
+        },
+        {
+          "t": "p",
+          "x": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft’s Copilot, the company is ending support for the AI assistant’s functionality on all TVs this year, according to a report by Windows Central."
+        },
+        {
+          "t": "p",
+          "x": "The news comes from an on-screen notification on an LG TV: “Microsoft has recently decided to end support for Copilot functionality on all TVs, including the Copilot-enabled feature available on our LG TVs.” It says the feature is “scheduled for discontinuation during 2026” and a specific date is “subject to Microsoft’s timeline.”"
+        },
+        {
+          "t": "p",
+          "x": "Last December, LG faced backlash after a webOS update added an unremovable Copilot shortcut; it later allowed the shortcut to be deleted. Copilot served as a friendly AI companion on the TVs, but earlier this year Microsoft introduced a Copilot “super app” as part of a push towards positioning Copilot more as a business and productivity tool, and less as a digital companion."
+        }
+      ]
+    },
+    "gadgets/gadgets-openai-dot-text": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/openai-now-lets-you-text-your-dot-agent/l-intro-1793214741.jpg",
+          "cap": "OpenAI"
+        },
+        {
+          "t": "p",
+          "x": "When OpenAI debuted its Dot agents late last month, it promised users would eventually be able to text them to give them instructions. Now, nearly a month later, the company has begun rolling out a preview among US Pro users that allows you to do just that. With the new feature, OpenAI says you can send your Dot texts, photos and even voice memos. It also gives your Dot another avenue to proactively contact you with updates about tasks you've assigned to it."
+        },
+        {
+          "t": "p",
+          "x": "To set up your Dot for texting, open its profile in ChatGPT and select Texting. Over on your phone, ensure iMessage is enabled if you're on an iPhone, and RCS if your daily driver is an Android device. OpenAI says it partnered with Linq to provide messaging support, and did \"extensive\" penetration testing to ensure the feature is safe. \"You're the only one who can text your dot, and your dot can only text you,\" the company adds on X. Any information your Dot writes to its memory is shared across ChatGPT and text, meaning context carries over between different conversations."
+        }
+      ]
+    },
+    "gadgets/gadgets-ios-synthid": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/AI/Since-yesterday-with-iOS-272-Release-Apple-Im-1793086628.jpg",
+          "cap": "ChatGPT Image 2.5"
+        },
+        {
+          "t": "p",
+          "x": "Images from Apple's AI now carry an invisible mark. With iOS 27.2, the iPhone tags everything Image Playground creates with SynthID – the watermark developed by Google. Apple announced the move back in June along with the revamped Image Playground."
+        },
+        {
+          "t": "p",
+          "x": "Newly generated images always get the watermark. For edited photos, it depends on how heavily the AI intervenes: MacRumors found images changed with Extend and Reframe carried SynthID, while with Clean Up small retouches stayed unmarked and larger ones got the watermark."
+        },
+        {
+          "t": "p",
+          "x": "SynthID sits directly in the pixels, not in the metadata. Google promises it does not affect image quality and survives cropping, filters and compression. It cannot be checked on the iPhone itself; you need Google's SynthID Detector, which Google opened up to everyone in early October. With Apple on board, SynthID is a good deal closer to a real industry standard."
+        }
+      ]
+    },
+    "gadgets/gadgets-ollama-tts": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-logo-with-gradient-background.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Rachit Agarwal / Digital Trends"
+        },
+        {
+          "t": "p",
+          "x": "Speech-to-text apps have flooded the App Store, but there has been a dearth of good text-to-speech models, and most of the good ones are locked behind a subscription. Ollama, an open-source app that lets you run local AI models on your computer, wants to change that. It works on macOS, Windows, and Linux, and your prompts are never stored or used for training."
+        },
+        {
+          "t": "p",
+          "x": "Ollama now supports text-to-speech models on the Mac, starting with Phonon. Built by Gradium, Phonon is a family of small models that can turn any text into speech right on your Mac. Windows and Linux support is coming soon."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-voice-models.jpg?resize=1368%2C668&ssl=1",
+          "cap": "Ollama"
+        },
+        {
+          "t": "p",
+          "x": "You can choose from voices like Zoey, Easton, Freya, and Hugh with American and British accents. Apart from English, there are models for French, German, Spanish, and Portuguese. Thanks to Apple’s MLX framework, Ollama claims Phonon runs 35% faster than Gradium’s own runtime on a MacBook Pro with M5 Max, without losing accuracy."
+        },
+        {
+          "t": "p",
+          "x": "You can pair Phonon with a chat model to have its replies read aloud. Playback begins after the first sentence, so you don’t have to wait for the full answer."
+        },
+        {
+          "t": "p",
+          "x": "To get started, you need an Apple Silicon Mac running Ollama 0.40.11 or later. While the English model is free to use under Apache 2.0, the French, German, Spanish, Portuguese, and multilingual models are limited to noncommercial use."
+        }
+      ]
     }
   }
 }

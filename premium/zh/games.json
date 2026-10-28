@@ -8768,6 +8768,165 @@
           "x": "桌面应用可免费下载。使用Remix的AI制作游戏的创作套餐每月$5起，创作者也可以接入Anthropic、OpenAI或Google的现有订阅。"
         }
       ]
+    },
+    "games/epicaicode": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/fortnite-save-the-world.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "Fortnite: Save the World 主视觉图。图片来源：Epic Games"
+        },
+        {
+          "t": "p",
+          "x": "Epic Games已确认，从Fortnite到Unreal Engine 6的所有项目都将使用gen-AI。开发执行副总裁Marcus Wassmer在接受This Week In Video Games采访时表示：“我们肯定在用AI为Unreal Engine开发代码和功能。”“目前几乎所有的开发都在与Fortnite、UEFN[Unreal Editor for Fortnite]和UE6相关的开发流中进行。”"
+        },
+        {
+          "t": "p",
+          "x": "被问及vibe-coding时，Wassmer说：“是的，我们在做vibe-coding。这意味着我们的工程师不再编写大部分代码，但他们仍在引导工具，以得到我们想要的架构结果。我们并不是在‘one-shotting’整个引擎，而是与AI反复迭代，推出开发者想要的功能，并让引擎保持在内存、性能和可扩展性的范围之内。”他声称，这些工具将有助于更快地推出更新，且漏洞更少。"
+        },
+        {
+          "t": "p",
+          "x": "他说，Epic“对行动过慢的风险的担忧，超过了对AI怀疑论的担忧”。“我们认为，在开发中对AI采取半吊子的做法是行不通的。”"
+        },
+        {
+          "t": "p",
+          "x": "本月早些时候，Epic表示最新版Epic Games Launcher是vibe-coded而成的，CEO Tim Sweeney则批评了Valve要求开发者在Steam页面上披露gen-AI使用情况的政策。"
+        }
+      ]
+    },
+    "games/roblox3d": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt05086ee04717e6e7/6ae2082619e29ebc009130b6/robloxphonefeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "cap": "Image by Photo Agency via Adobe Stock"
+        },
+        {
+          "t": "p",
+          "x": "Roblox Corporation证实了3D素材网站Open3DLab的指控：其旗下一个AI代理下载了145.5 GB的内容，包括美术素材和3D模型，其中有托管于子站点Smutlab和SFMLab的成人内容。一位发言人表示，一名Roblox研究人员构建该代理是为了“收集公开可用的3D素材”；它“错误地”抓取了Open3DLab，且“未能按预期运行”。"
+        },
+        {
+          "t": "p",
+          "x": "“该代理已停用，数据未被用于任何用途，包括训练任何AI模型。我们正在加强此类代理在构建与审查方面的保障措施，并将随着智能体领域的发展持续这样做。”"
+        },
+        {
+          "t": "p",
+          "x": "据Open3DLab管理员Salaryman称，该爬虫下载了“来自712个项目的1,027个文件”，其中117.4 GB为成人内容，无视robots.txt和服务条款（Terms of Service），并在10月18日被封锁后于10月19日恢复运行。他指出其创建者是一名Roblox研究人员，曾参与撰写Roblox生成式AI系统Cube背后的论文。"
+        },
+        {
+          "t": "p",
+          "x": "Salaryman说：“模型会复现它们所学的内容。”他警告称，如果成人训练数据进入为Roblox生成素材的模型，那么这些数据与儿童之间将只剩下一道过滤器。"
+        }
+      ]
+    },
+    "games/nexonnpc": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Nexon公开了一款可实时记住用户游戏内行为的人工智能（AI）引擎。该技术把用户的游戏记录串联成一段记忆，让游戏中的非玩家角色（NPC）根据用户过去的行为作出反应。Nexon还自主开发了处理记忆数据的数据库（DB），提升了成本效率。"
+        },
+        {
+          "t": "img",
+          "src": "https://image.inews24.com/v1/9c333440cef95f.jpg",
+          "cap": "Nexon AI本部先行数据技术组工程师Jung Yoon-ho在27日举行的“Games on AWS 2026”上介绍AI记忆引擎“Live Memory”。[摄影=记者Kwak Min-gu]"
+        },
+        {
+          "t": "p",
+          "x": "Nexon AI本部先行数据技术组工程师Jung Yoon-ho和Bae Seung-jong在27日举行的“Games on AWS 2026”上，介绍了AI记忆引擎“Live Memory”和自研图数据库“FastGraph”的开发成果。"
+        },
+        {
+          "t": "p",
+          "x": "Live Memory是一套把强化与装备道具、加入队伍、进入地下城、击败首领等用户行为记录串联起来、构成一段记忆的系统。借助它，AI NPC可以根据用户过去的经历作出反应。"
+        },
+        {
+          "t": "p",
+          "x": "例如，用户在铁匠铺强化武器后，用这把武器击败首领归来，NPC会说：“你用我昨天帮你强化的武器打败了首领啊。真让人骄傲。”对反复强化同一把武器的用户，NPC则会说：“这把武器已经强化过13次了。现在是不是该停手了？”"
+        },
+        {
+          "t": "p",
+          "x": "Jung强调：“一个让人感觉像活着的AI NPC，必须连用户刚刚做出的行为都能察觉，并据此作出相应的判断和行动。”"
+        },
+        {
+          "t": "p",
+          "x": "为实现这些功能，Nexon采用了把用户行为记录转换为图结构的方式。它不是简单地存储单个行为，而是把时间、地点和事件之间的关系连接起来。"
+        },
+        {
+          "t": "p",
+          "x": "系统不必每次都调用大语言模型（LLM），而是利用预先定义的规则，以降低处理成本和信息损失。尤其是为了高效存储记忆数据，Nexon自主开发了图数据库FastGraph。"
+        },
+        {
+          "t": "p",
+          "x": "Nexon估算，若用现有商用图数据库存储100万名用户的记忆数据，需要约430TB 内存，每年运营费用为412억원（412亿韩元）。相比之下，FastGraph通过数据压缩和存储结构优化，把内存用量降到8.2TB ，预计每年运营费用约为8억3000만원（8亿3000万韩元）。"
+        },
+        {
+          "t": "p",
+          "x": "Bae Seung-jong表示：“在使用Nexon真实游戏数据进行的写入性能测试中，它也比现有产品快2.7倍。”他还说：“现在能以较低成本快速处理大量用户的记忆数据了。”"
+        },
+        {
+          "t": "p",
+          "x": "Nexon的目标是今后打造不仅能记住用户行为、还能记住对话和情感的AI NPC。Bae说：“下一个目标是记得我的AI NPC。”并表示“将打造能与用户更生动地交流的NPC”。"
+        }
+      ]
+    },
+    "games/linegames": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Line Games于28日表示，已在AWS与GS Neotek联合主办的“Games on AWS 2026”上公开了基于AI的发行升级技术经验。该活动是面向游戏开发者和业界人士、分享基于云的游戏开发与运营及技术趋势的大会，于27日在京畿道城南市的首尔板桥希尔顿逸林酒店（DoubleTree by Hilton Seoul Pangyo）举行。"
+        },
+        {
+          "t": "p",
+          "x": "Line Games发行技术室室长Lee Ah-young以“发行加速代理 Part 2：从代码审查到文档自动更新”为题发表演讲。她去年曾介绍搭建AI代理“Nexus AI”的成果，该代理可自主回应外部开发商的技术咨询。今年的演讲聚焦于Nexus AI搭建之后仍存在的局限——平台代码变更需手动反映到技术文档中，一旦文档更新滞后，AI回答的准确度就会下降——以及解决这一问题的技术进展和提升发行工作效率的案例。"
+        },
+        {
+          "t": "img",
+          "src": "https://file.thisisgame.com/upload/email-attachments/2026/10/28/1639287616436323679_f8c04051-d2a5-4056-86c3-0a552014f8f1_%5B%EC%9D%B4%EB%AF%B8%EC%A7%80%5D%20%27Games%20on%20AWS%202026%27%20%EA%B0%95%EC%97%B0%20%ED%98%84%EC%9E%A5_%EB%9D%BC%EC%9D%B8%EA%B2%8C%EC%9E%84%EC%A6%88%20%EC%9D%B4%EC%95%84%EC%98%81%20%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%8B%B1%20%EA%B8%B0%EC%88%A0%EC%8B%A4%EC%9E%A5.jpg"
+        },
+        {
+          "t": "p",
+          "x": "为突破这一局限，Line Games引入Amazon Bedrock AgentCore，搭建了连接代码审查与技术文档编写的自动化流水线。新代理会在GitLab等工具的MR（Merge Request）阶段自主分析平台代码变更并进行代码审查，再根据结果提出相关技术文档的修改方案。经负责人批准后即反映到文档中，更新后的文档会再反馈到Nexus AI知识库，使其对外部开发商咨询的回答始终保持可靠。"
+        },
+        {
+          "t": "p",
+          "x": "此外，Line Games还利用AWS Security Agent并行开展代码审查与安全审查，让容易较晚才被发现的安全问题在同一流程中得到检查。Lee室长介绍了随着原有AI代理从读取文档进化到理解代码变化并编写文档而形成的“代码-文档自动化闭环”，还展示了为保障实际应用质量而设定的“自动化信任边界（Trust Boundary）”、实务经验以及未来的发行技术路线图。"
+        },
+        {
+          "t": "p",
+          "x": "Line Games发行技术室室长Lee Ah-young表示：“我们消除了技术文档修改的低效，能够在经过人工审批的结构之上实现自动化。”她还说：“今后也将积极利用AWS的最新AI技术，提高与外部开发商的协作效率，持续增强游戏发行技术竞争力。”"
+        }
+      ]
+    },
+    "games/genie4": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w1200-h630-n-nu-rw"
+        },
+        {
+          "t": "p",
+          "x": "Google DeepMind发布新世界模型Genie 4，带来前所未有的真实感，并改进了实时交互式模拟。Genie 4原生支持多模态，可与世界同步生成音乐、环境音和交互式对话等音频。"
+        },
+        {
+          "t": "p",
+          "x": "该模型建立在Gemini系列的能力之上：Gemini Omni让模拟贴合真实世界的外观与行为，其他Gemini模型则提供维持模拟连贯性与连续性所需的复杂推理。"
+        },
+        {
+          "t": "video",
+          "yt": "sFfPkUJd_Jk"
+        },
+        {
+          "t": "p",
+          "x": "借助Genie 4，用户可以用自然语言实时修改模拟，比如改变天气、移动镜头，或引入新的人物或物体。它基于对世界的高级物理理解，可模拟空气动力学和碰撞等场景，并生成动作自然、可实时操控的角色。"
+        },
+        {
+          "t": "p",
+          "x": "Gemini 3.8 Flash在循环中充当引导智能体，观察场景、将目标拆解为步骤并逐一验证。Genie 4生成的所有视频和音频都将带有SynthID水印。"
+        },
+        {
+          "t": "p",
+          "x": "Genie 4已作为研究预览版向受信任的测试者开放，即将面向Project Genie中的Google AI Ultra订阅用户，以及Gemini API和Google AI Studio的早期访问合作伙伴推出。"
+        }
+      ]
     }
   }
 }

@@ -1,353 +1,243 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "section": "movies",
   "cards": [
     {
-      "id": "resolve2112",
+      "id": "seedance25-4k",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Resolve AI 검색\nM6에서 더 빨라졌다",
-      "body": "Resolve 21.1.2 IntelliSearch는 M6에서 최대 14x 빠르다.",
-      "mini_headline": "Resolve 21.1.2, AI 검색 속도 향상",
+      "headline": "Seedance 2.5\n영화·TV 겨냥 4K",
+      "body": "ByteDance Seedance 2.5 4K 는 10-bit·480p를 지원한다.",
+      "mini_headline": "영화 제작 겨냥한 Seedance 2.5 4K",
       "tool": "Movies",
-      "source": "No Film School",
-      "url": "https://nofilmschool.com/davinci-resolve-update-21-1-2",
-      "accent": "#f5a623",
+      "source": "TechNode",
+      "url": "https://technode.com/2026/10/23/bytedance-launches-seedance-2-5-4k-video-model-for-film-production/",
+      "accent": "#0070f3",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://nofilmschool.com/media-library/davinci-resolve-update-21-1-2.jpg?id=68536481&width=1245&height=700&quality=50&coordinates=56%2C0%2C57%2C0"
+            "src": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261023-cn-371617.jpg?fit=2560%2C1440&ssl=1",
+            "cap": "ByteDance가 영화 제작용으로 내놓은 Seedance 2.5 4K 영상 모델"
           },
           {
             "t": "p",
-            "x": "Blackmagic Design이 속도를 크게 끌어올린 DaVinci Resolve 21.1.2 업데이트를 발표했다."
+            "x": "ByteDance의 클라우드 플랫폼 Volcano Engine이 10월 23일 영화·TV 제작용으로 해상도를 끌어올린 영상 생성용 Seedance 2.5 4K 모델을 내놓았다. 추가 학습 덕분에 얼굴 표정과 미세한 움직임, 시각 디테일 표현이 나아졌다는 게 회사 설명이다. 지금은 선정된 일부 기업 고객만 시험해 볼 수 있다."
           },
           {
             "t": "p",
-            "x": "영상 편집에서, 굳이 덧붙이자면 AI 시대인 지금은 더더욱 속도가 중요하다. AI 전반이든 Resolve의 IntelliSearch 분석 같은 AI 도구든 편집에 쓴다면 빠르고 효율적으로 돌아가길 바라게 마련이다."
-          },
-          {
-            "t": "p",
-            "x": "DaVinci Resolve 이번 업데이트(버전 21.1.2)가 내세우는 점이 바로 이것이다. Blackmagic Design에 따르면 Apple M6에서 IntelliSearch 분석은 최대 14배 빨라지고 타임라인 편집은 개선되며 OGraf 재생도 빨라진다."
-          },
-          {
-            "t": "p",
-            "x": "무게는 큰 개선 쪽에 실렸다. 21.1.2에 더해진 새 기능과 개선 사항은 열두 가지를 훌쩍 넘는다. 핵심은 앞서 말한 Apple M6 IntelliSearch 분석 가속과 4배 빨라진 OGraf 재생이다."
-          },
-          {
-            "t": "p",
-            "x": "Resolve는 타임라인 편집을 다듬고 Linux 그래픽 지원을 늘렸으며, 사진·편집 작업을 자동화하는 스크립팅 APIs도 확장했다. 올가미로 편집 지점을 고르면 자동으로 다이내믹 트림에 들어가는 기능, 편집 믹서의 라우드니스 미터 표시 옵션, 타임라인 화면비에 맞춰 바뀌는 OGraf 반응형 템플릿, Linux용 OGraf·Lottie 그래픽 지원, 전반적인 성능·안정성 개선 등이 주요 내용이다."
+            "x": "Draft 모드에서는 최종 4K 버전을 뽑기 전에 비용이 덜 드는 480p 미리보기로 샷을 시험하고 스토리보드를 다듬는다. 10-bit 색상도 지원하며, 레퍼런스 자료를 쓰거나 기존 영상을 편집할 때도 화질과 색, 세밀한 디테일이 유지되도록 설계됐다. 중국과 해외의 영화 제작사·후반 작업사 일부는 이미 테스트에 들어갔다. [IT Home, in Chinese]"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Resolve's AI search\nnow runs faster on M6",
-          "body": "Blackmagic's DaVinci Resolve 21.1.2 runs AI IntelliSearch media analysis up to 14x faster on Apple M6.",
-          "mini_headline": "Resolve 21.1.2 speeds up AI search",
+          "headline": "Seedance 2.5 goes 4K\nfor film and TV work",
+          "body": "ByteDance's Seedance 2.5 4K adds 10-bit color and a 480p Draft mode for testing shots before final 4K renders.",
+          "mini_headline": "Seedance 2.5 4K targets film",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://nofilmschool.com/media-library/davinci-resolve-update-21-1-2.jpg?id=68536481&width=1245&height=700&quality=50&coordinates=56%2C0%2C57%2C0"
+                "src": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261023-cn-371617.jpg?fit=2560%2C1440&ssl=1",
+                "cap": "ByteDance launches Seedance 2.5 4K video model for film production"
               },
               {
                 "t": "p",
-                "x": "Blackmagic Design has announced a blazing-fast update is coming to DaVinci Resolve with update 21.1.2."
+                "x": "ByteDance’s cloud platform Volcano Engine released Seedance 2.5 4K on October 23, targeting film and television production with higher-resolution video generation. The company said additional training improves the rendering of facial expressions, subtle movements and visual details. The model is currently available for trials by selected enterprise customers."
               },
               {
                 "t": "p",
-                "x": "In today’s age of video editing and, well, you know, AI, speed matters more now than ever before. Whether you’re a fan of AI in general or AI tools like Resolve’s IntelliSearch analysis, if you’re using them in your video edit, you’ll want them to work quickly and efficiently."
-              },
-              {
-                "t": "p",
-                "x": "That’s what this latest update for DaVinci Resolve (version 21.1.2) is set to offer: Blackmagic Design has announced up to fourteen times faster IntelliSearch analysis on Apple M6, plus improved timeline editing and faster OGraf playback."
-              },
-              {
-                "t": "p",
-                "x": "This update leans more toward major improvements, as 21.1.2 adds well over a dozen new features and enhancements. The big ones are the aforementioned speed-ups for IntelliSearch analysis on Apple M6 and four times faster OGraf playback."
-              },
-              {
-                "t": "p",
-                "x": "Timeline editing has also improved, and Resolve gets more Linux graphics support and expanded scripting APIs for automated photo and editing tasks. Highlights include lasso selecting edit points that can now enter dynamic trim automatically, an option to show loudness meters in the edit mixer, OGraf responsive templates that adapt to timeline aspect ratio, and support for OGraf and Lottie graphics on Linux, along with general performance and stability improvements."
+                "x": "A Draft mode allows users to test shots and refine storyboards with lower-cost 480p previews before generating a final 4K version. The model also supports 10-bit color and is designed to preserve image quality, colors and fine details when working with reference materials or editing existing footage. Some film-production and post-production companies in China and overseas have begun testing it. [IT Home, in Chinese]"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Resolve AI 검색\nM6에서 더 빨라졌다",
-          "body": "Resolve 21.1.2 IntelliSearch는 M6에서 최대 14x 빠르다.",
-          "mini_headline": "Resolve 21.1.2, AI 검색 속도 향상",
+          "headline": "Seedance 2.5\n영화·TV 겨냥 4K",
+          "body": "ByteDance Seedance 2.5 4K 는 10-bit·480p를 지원한다.",
+          "mini_headline": "영화 제작 겨냥한 Seedance 2.5 4K",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://nofilmschool.com/media-library/davinci-resolve-update-21-1-2.jpg?id=68536481&width=1245&height=700&quality=50&coordinates=56%2C0%2C57%2C0"
+                "src": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261023-cn-371617.jpg?fit=2560%2C1440&ssl=1",
+                "cap": "ByteDance가 영화 제작용으로 내놓은 Seedance 2.5 4K 영상 모델"
               },
               {
                 "t": "p",
-                "x": "Blackmagic Design이 속도를 크게 끌어올린 DaVinci Resolve 21.1.2 업데이트를 발표했다."
+                "x": "ByteDance의 클라우드 플랫폼 Volcano Engine이 10월 23일 영화·TV 제작용으로 해상도를 끌어올린 영상 생성용 Seedance 2.5 4K 모델을 내놓았다. 추가 학습 덕분에 얼굴 표정과 미세한 움직임, 시각 디테일 표현이 나아졌다는 게 회사 설명이다. 지금은 선정된 일부 기업 고객만 시험해 볼 수 있다."
               },
               {
                 "t": "p",
-                "x": "영상 편집에서, 굳이 덧붙이자면 AI 시대인 지금은 더더욱 속도가 중요하다. AI 전반이든 Resolve의 IntelliSearch 분석 같은 AI 도구든 편집에 쓴다면 빠르고 효율적으로 돌아가길 바라게 마련이다."
-              },
-              {
-                "t": "p",
-                "x": "DaVinci Resolve 이번 업데이트(버전 21.1.2)가 내세우는 점이 바로 이것이다. Blackmagic Design에 따르면 Apple M6에서 IntelliSearch 분석은 최대 14배 빨라지고 타임라인 편집은 개선되며 OGraf 재생도 빨라진다."
-              },
-              {
-                "t": "p",
-                "x": "무게는 큰 개선 쪽에 실렸다. 21.1.2에 더해진 새 기능과 개선 사항은 열두 가지를 훌쩍 넘는다. 핵심은 앞서 말한 Apple M6 IntelliSearch 분석 가속과 4배 빨라진 OGraf 재생이다."
-              },
-              {
-                "t": "p",
-                "x": "Resolve는 타임라인 편집을 다듬고 Linux 그래픽 지원을 늘렸으며, 사진·편집 작업을 자동화하는 스크립팅 APIs도 확장했다. 올가미로 편집 지점을 고르면 자동으로 다이내믹 트림에 들어가는 기능, 편집 믹서의 라우드니스 미터 표시 옵션, 타임라인 화면비에 맞춰 바뀌는 OGraf 반응형 템플릿, Linux용 OGraf·Lottie 그래픽 지원, 전반적인 성능·안정성 개선 등이 주요 내용이다."
+                "x": "Draft 모드에서는 최종 4K 버전을 뽑기 전에 비용이 덜 드는 480p 미리보기로 샷을 시험하고 스토리보드를 다듬는다. 10-bit 색상도 지원하며, 레퍼런스 자료를 쓰거나 기존 영상을 편집할 때도 화질과 색, 세밀한 디테일이 유지되도록 설계됐다. 중국과 해외의 영화 제작사·후반 작업사 일부는 이미 테스트에 들어갔다. [IT Home, in Chinese]"
               }
             ]
           }
         },
         "ja": {
-          "headline": "ResolveのAI検索\nM6でさらに高速に",
-          "body": "Resolve 21.1.2のAI IntelliSearchはM6で最大14x高速化した。",
-          "mini_headline": "Resolve 21.1.2でAI検索が高速化",
+          "headline": "Seedance 2.5\n映画・TV制作に4K",
+          "body": "ByteDanceのSeedance 2.5 4K は10-bitと480p試写に対応した。",
+          "mini_headline": "Seedance 2.5 4K、映画制作を視野に",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://nofilmschool.com/media-library/davinci-resolve-update-21-1-2.jpg?id=68536481&width=1245&height=700&quality=50&coordinates=56%2C0%2C57%2C0"
+                "src": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261023-cn-371617.jpg?fit=2560%2C1440&ssl=1",
+                "cap": "ByteDance、映画制作向け動画モデル Seedance 2.5 4K を発表"
               },
               {
                 "t": "p",
-                "x": "Blackmagic Designは、DaVinci Resolveに大幅に高速化したアップデート21.1.2を提供すると発表した。"
+                "x": "ByteDance のクラウドプラットフォーム Volcano Engine は10月23日、映画・テレビ制作向けに高解像度の動画生成を可能にする Seedance 2.5 4K を公開した。同社によると、追加学習により表情や細かな動き、視覚的なディテールの描写が向上したという。現在は選ばれた一部の企業顧客が試用できる。"
               },
               {
                 "t": "p",
-                "x": "動画編集の時代、そして言うまでもなくAIの時代である今、速度はかつてないほど重要だ。AI全般が好きでも、ResolveのIntelliSearch分析のようなAIツールが好きでも、編集で使っているなら素早く効率的に動いてほしいはずだ。"
-              },
-              {
-                "t": "p",
-                "x": "DaVinci Resolveの今回のアップデート(バージョン21.1.2)が提供するのはまさにそれだ。Blackmagic Designは、Apple M6でのIntelliSearch分析が最大14倍高速になるほか、タイムライン編集の改善とOGraf再生の高速化を発表した。"
-              },
-              {
-                "t": "p",
-                "x": "今回のアップデートは大きな改善に重きを置いており、21.1.2では十数を優に超える新機能と強化が加わる。目玉は前述のApple M6でのIntelliSearch分析の高速化と、4倍速くなったOGraf再生である。"
-              },
-              {
-                "t": "p",
-                "x": "タイムライン編集も改善され、ResolveはLinuxのグラフィックス対応を広げ、写真や編集作業を自動化するスクリプトAPIsを拡充した。主な内容は、投げ縄で選んだ編集点が自動でダイナミックトリムに入る機能、編集ミキサーにラウドネスメーターを表示するオプション、タイムラインのアスペクト比に合わせて変わるOGrafレスポンシブテンプレート、LinuxでのOGrafとLottieグラフィックスへの対応、そして全般的なパフォーマンスと安定性の向上である。"
+                "x": "Draft モードでは、最終的な4K 版を生成する前に、低コストの480p プレビューでショットを試し、絵コンテを練ることができる。10-bit カラーにも対応し、参照素材を使う場合や既存映像を編集する場合でも画質や色、細部を保つよう設計されている。中国内外の映画制作会社やポストプロダクション会社の一部がすでにテストを始めている。[IT Home, in Chinese]"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Resolve的AI搜索\n在M6上更快了",
-          "body": "Resolve 21.1.2的AI IntelliSearch在M6上最高提速14x。",
-          "mini_headline": "Resolve 21.1.2 提升AI搜索速度",
+          "headline": "Seedance 2.5\n支持4K 面向电影和TV",
+          "body": "ByteDance的Seedance 2.5 4K 新增10-bit与480p预览模式。",
+          "mini_headline": "Seedance 2.5 4K 瞄准影视制作",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://nofilmschool.com/media-library/davinci-resolve-update-21-1-2.jpg?id=68536481&width=1245&height=700&quality=50&coordinates=56%2C0%2C57%2C0"
+                "src": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261023-cn-371617.jpg?fit=2560%2C1440&ssl=1",
+                "cap": "ByteDance 推出面向电影制作的 Seedance 2.5 4K 视频模型"
               },
               {
                 "t": "p",
-                "x": "Blackmagic Design宣布，DaVinci Resolve将迎来大幅提速的21.1.2更新。"
+                "x": "ByteDance 旗下云平台 Volcano Engine 于10月23日发布 Seedance 2.5 4K，面向电影和电视制作，提供更高分辨率的视频生成。公司表示，额外训练提升了面部表情、细微动作和视觉细节的呈现效果。该模型目前仅向部分选定的企业客户开放试用。"
               },
               {
                 "t": "p",
-                "x": "在视频剪辑的时代，也就是如今的AI时代，速度比以往任何时候都更重要。无论你是喜欢AI本身，还是喜欢Resolve的IntelliSearch分析这类AI工具，只要在剪辑中用到它们，你都会希望它们运行得又快又高效。"
-              },
-              {
-                "t": "p",
-                "x": "这正是DaVinci Resolve此次更新(21.1.2版)要提供的：Blackmagic Design宣布，Apple M6上的IntelliSearch分析最高提速14倍，同时改进时间线剪辑，并加快OGraf播放。"
-              },
-              {
-                "t": "p",
-                "x": "此次更新侧重于重大改进，21.1.2新增了远超十几项的新功能和增强。其中最重要的是前述Apple M6上IntelliSearch分析的提速，以及快4倍的OGraf播放。"
-              },
-              {
-                "t": "p",
-                "x": "时间线剪辑也有所改进，Resolve增加了Linux图形支持，并扩展了用于自动化照片与剪辑任务的脚本APIs。亮点包括：套索选中的剪辑点可自动进入动态修剪、可在剪辑调音台中显示响度表的选项、能适应时间线画面比例的OGraf响应式模板、在Linux上支持OGraf和Lottie图形，以及整体性能和稳定性的提升。"
+                "x": "借助 Draft 模式，用户可在生成最终4K 版本前，先用成本更低的480p 预览测试镜头、完善分镜。该模型还支持10-bit 色彩，在使用参考素材或编辑现有素材时，可保留画质、色彩和精细细节。中国及海外的部分电影制作和后期制作公司已开始测试。[IT Home, in Chinese]"
               }
             ]
           }
         },
         "es": {
-          "headline": "La búsqueda con AI de Resolve\nahora es más rápida en M6",
-          "body": "DaVinci Resolve 21.1.2 de Blackmagic ejecuta el análisis de medios AI IntelliSearch hasta 14x más rápido en Apple M6.",
-          "mini_headline": "Resolve 21.1.2 acelera la búsqueda con AI",
+          "headline": "Seedance 2.5 llega al 4K\npara cine y TV",
+          "body": "Seedance 2.5 4K de ByteDance suma color de 10-bit y un modo Draft a 480p para probar tomas antes del 4K final.",
+          "mini_headline": "Seedance 2.5 4K apunta al cine",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://nofilmschool.com/media-library/davinci-resolve-update-21-1-2.jpg?id=68536481&width=1245&height=700&quality=50&coordinates=56%2C0%2C57%2C0"
+                "src": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261023-cn-371617.jpg?fit=2560%2C1440&ssl=1",
+                "cap": "ByteDance lanza el modelo de video Seedance 2.5 4K para la producción cinematográfica"
               },
               {
                 "t": "p",
-                "x": "Blackmagic Design ha anunciado que llega a DaVinci Resolve una actualización muy rápida, la 21.1.2."
+                "x": "Volcano Engine, la plataforma en la nube de ByteDance, lanzó Seedance 2.5 4K el 23 de octubre, orientado a la producción de cine y televisión con generación de video de mayor resolución. La empresa afirma que el entrenamiento adicional mejora la representación de expresiones faciales, movimientos sutiles y detalles visuales. Por ahora, el modelo está disponible a prueba para clientes empresariales seleccionados."
               },
               {
                 "t": "p",
-                "x": "En la era actual de la edición de video y, bueno, ya se sabe, de la AI, la velocidad importa más que nunca. Tanto si le gusta la AI en general como herramientas de AI como el análisis IntelliSearch de Resolve, si las usa en su edición querrá que funcionen de forma rápida y eficiente."
-              },
-              {
-                "t": "p",
-                "x": "Eso es lo que promete esta última actualización de DaVinci Resolve (versión 21.1.2): Blackmagic Design ha anunciado un análisis IntelliSearch hasta catorce veces más rápido en Apple M6, además de una edición de línea de tiempo mejorada y una reproducción OGraf más rápida."
-              },
-              {
-                "t": "p",
-                "x": "Esta actualización se inclina hacia mejoras importantes, ya que 21.1.2 añade bastante más de una docena de nuevas funciones y mejoras. Las principales son la ya mencionada aceleración del análisis IntelliSearch en Apple M6 y una reproducción OGraf cuatro veces más rápida."
-              },
-              {
-                "t": "p",
-                "x": "La edición en la línea de tiempo también ha mejorado, y Resolve suma más compatibilidad gráfica con Linux y amplía sus APIs de scripting para automatizar tareas de foto y edición. Entre lo más destacado figuran la selección con lazo de puntos de edición que ahora pueden entrar automáticamente en recorte dinámico, una opción para mostrar medidores de sonoridad en el mezclador de edición, plantillas adaptables de OGraf que se ajustan a la relación de aspecto de la línea de tiempo y compatibilidad con gráficos OGraf y Lottie en Linux, junto con mejoras generales de rendimiento y estabilidad."
+                "x": "El modo Draft permite probar tomas y ajustar guiones gráficos con vistas previas de 480p de menor costo antes de generar la versión final en 4K. El modelo también admite color de 10-bit y está diseñado para conservar la calidad de imagen, los colores y los detalles finos al trabajar con material de referencia o editar metraje existente. Algunas productoras y empresas de posproducción de China y del extranjero ya han comenzado a probarlo. [IT Home, in Chinese]"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "es": {
-          "headline": "La búsqueda con AI de Resolve\nahora es más rápida en M6",
-          "body": "DaVinci Resolve 21.1.2 de Blackmagic ejecuta el análisis de medios AI IntelliSearch hasta 14x más rápido en Apple M6.",
-          "mini_headline": "Resolve 21.1.2 acelera la búsqueda con AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/davinci-resolve-update-21-1-2.jpg?id=68536481&width=1245&height=700&quality=50&coordinates=56%2C0%2C57%2C0"
-              },
-              {
-                "t": "p",
-                "x": "Blackmagic Design ha anunciado que llega a DaVinci Resolve una actualización muy rápida, la 21.1.2."
-              },
-              {
-                "t": "p",
-                "x": "En la era actual de la edición de video y, bueno, ya se sabe, de la AI, la velocidad importa más que nunca. Tanto si le gusta la AI en general como herramientas de AI como el análisis IntelliSearch de Resolve, si las usa en su edición querrá que funcionen de forma rápida y eficiente."
-              },
-              {
-                "t": "p",
-                "x": "Eso es lo que promete esta última actualización de DaVinci Resolve (versión 21.1.2): Blackmagic Design ha anunciado un análisis IntelliSearch hasta catorce veces más rápido en Apple M6, además de una edición de línea de tiempo mejorada y una reproducción OGraf más rápida."
-              },
-              {
-                "t": "p",
-                "x": "Esta actualización se inclina hacia mejoras importantes, ya que 21.1.2 añade bastante más de una docena de nuevas funciones y mejoras. Las principales son la ya mencionada aceleración del análisis IntelliSearch en Apple M6 y una reproducción OGraf cuatro veces más rápida."
-              },
-              {
-                "t": "p",
-                "x": "La edición en la línea de tiempo también ha mejorado, y Resolve suma más compatibilidad gráfica con Linux y amplía sus APIs de scripting para automatizar tareas de foto y edición. Entre lo más destacado figuran la selección con lazo de puntos de edición que ahora pueden entrar automáticamente en recorte dinámico, una opción para mostrar medidores de sonoridad en el mezclador de edición, plantillas adaptables de OGraf que se ajustan a la relación de aspecto de la línea de tiempo y compatibilidad con gráficos OGraf y Lottie en Linux, junto con mejoras generales de rendimiento y estabilidad."
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "Resolve AI 검색\nM6에서 더 빨라졌다",
-          "body": "Resolve 21.1.2 IntelliSearch는 M6에서 최대 14x 빠르다.",
-          "mini_headline": "Resolve 21.1.2, AI 검색 속도 향상",
+          "headline": "Seedance 2.5\n영화·TV용 4K 지원",
+          "body": "ByteDance Seedance 2.5 4K 는 10-bit·480p를 지원한다.",
+          "mini_headline": "Seedance 2.5 4K, 영화 제작 겨냥",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://nofilmschool.com/media-library/davinci-resolve-update-21-1-2.jpg?id=68536481&width=1245&height=700&quality=50&coordinates=56%2C0%2C57%2C0"
+                "src": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261023-cn-371617.jpg?fit=2560%2C1440&ssl=1",
+                "cap": "ByteDance, 영화 제작용 Seedance 2.5 4K 영상 모델 출시"
               },
               {
                 "t": "p",
-                "x": "Blackmagic Design은 DaVinci Resolve에 속도를 크게 끌어올린 21.1.2 업데이트가 나온다고 발표했다."
+                "x": "ByteDance의 클라우드 플랫폼 Volcano Engine은 10월 23일 영화·TV 제작을 겨냥해 더 높은 해상도로 영상을 생성하는 Seedance 2.5 4K 모델을 내놓았다. 회사는 추가 학습으로 얼굴 표정과 미세한 움직임, 시각적 디테일 표현이 나아졌다고 밝혔다. 현재는 선정된 일부 기업 고객만 시험 사용할 수 있다."
               },
               {
                 "t": "p",
-                "x": "영상 편집, 그리고 굳이 덧붙이자면 AI의 시대인 지금, 속도는 그 어느 때보다 중요하다. AI 전반을 좋아하든 Resolve의 IntelliSearch 분석 같은 AI 도구를 좋아하든, 편집에 쓰고 있다면 빠르고 효율적으로 돌아가기를 바랄 것이다."
-              },
-              {
-                "t": "p",
-                "x": "DaVinci Resolve의 이번 업데이트(버전 21.1.2)가 내세우는 것이 바로 그것이다. Blackmagic Design은 Apple M6에서 IntelliSearch 분석이 최대 14배 빨라지고, 타임라인 편집이 개선되며, OGraf 재생도 빨라진다고 발표했다."
-              },
-              {
-                "t": "p",
-                "x": "이번 업데이트는 큰 개선 쪽에 무게가 실려 있다. 21.1.2는 열두 가지를 훨씬 넘는 새 기능과 개선 사항을 더한다. 핵심은 앞서 말한 Apple M6에서의 IntelliSearch 분석 가속과 4배 빨라진 OGraf 재생이다."
-              },
-              {
-                "t": "p",
-                "x": "타임라인 편집도 개선됐고, Resolve는 Linux 그래픽 지원을 늘리고 사진·편집 작업 자동화를 위한 스크립팅 APIs를 확장했다. 주요 내용으로는 올가미로 편집 지점을 선택하면 자동으로 다이내믹 트림에 들어가는 기능, 편집 믹서에 라우드니스 미터를 표시하는 옵션, 타임라인 화면비에 맞춰 바뀌는 OGraf 반응형 템플릿, Linux에서의 OGraf와 Lottie 그래픽 지원, 그리고 전반적인 성능과 안정성 개선이 있다."
+                "x": "Draft 모드를 쓰면 최종 4K 버전을 만들기 전에 비용이 적은 480p 미리보기로 샷을 시험하고 스토리보드를 다듬을 수 있다. 모델은 10-bit 색상도 지원하며, 레퍼런스 자료를 활용하거나 기존 영상을 편집할 때 화질과 색, 세밀한 디테일을 유지하도록 설계했다. 중국과 해외의 일부 영화 제작사와 후반 작업사가 이미 테스트를 시작했다. [IT Home, in Chinese]"
               }
             ]
           }
         },
         "ja": {
-          "headline": "ResolveのAI検索\nM6でさらに高速に",
-          "body": "Resolve 21.1.2のAI IntelliSearchはM6で最大14x高速化した。",
-          "mini_headline": "Resolve 21.1.2でAI検索が高速化",
+          "headline": "Seedance 2.5\n映画・TV制作に4K",
+          "body": "ByteDanceのSeedance 2.5 4K は10-bitと480p試写に対応した。",
+          "mini_headline": "Seedance 2.5 4K、映画制作を視野に",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://nofilmschool.com/media-library/davinci-resolve-update-21-1-2.jpg?id=68536481&width=1245&height=700&quality=50&coordinates=56%2C0%2C57%2C0"
+                "src": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261023-cn-371617.jpg?fit=2560%2C1440&ssl=1",
+                "cap": "ByteDance、映画制作向け動画モデル Seedance 2.5 4K を発表"
               },
               {
                 "t": "p",
-                "x": "Blackmagic Designは、DaVinci Resolveに大幅に高速化したアップデート21.1.2を提供すると発表した。"
+                "x": "ByteDance のクラウドプラットフォーム Volcano Engine は10月23日、映画・テレビ制作向けに高解像度の動画生成を可能にする Seedance 2.5 4K を公開した。同社によると、追加学習により表情や細かな動き、視覚的なディテールの描写が向上したという。現在は選ばれた一部の企業顧客が試用できる。"
               },
               {
                 "t": "p",
-                "x": "動画編集の時代、そして言うまでもなくAIの時代である今、速度はかつてないほど重要だ。AI全般が好きでも、ResolveのIntelliSearch分析のようなAIツールが好きでも、編集で使っているなら素早く効率的に動いてほしいはずだ。"
-              },
-              {
-                "t": "p",
-                "x": "DaVinci Resolveの今回のアップデート(バージョン21.1.2)が提供するのはまさにそれだ。Blackmagic Designは、Apple M6でのIntelliSearch分析が最大14倍高速になるほか、タイムライン編集の改善とOGraf再生の高速化を発表した。"
-              },
-              {
-                "t": "p",
-                "x": "今回のアップデートは大きな改善に重きを置いており、21.1.2では十数を優に超える新機能と強化が加わる。目玉は前述のApple M6でのIntelliSearch分析の高速化と、4倍速くなったOGraf再生である。"
-              },
-              {
-                "t": "p",
-                "x": "タイムライン編集も改善され、ResolveはLinuxのグラフィックス対応を広げ、写真や編集作業を自動化するスクリプトAPIsを拡充した。主な内容は、投げ縄で選んだ編集点が自動でダイナミックトリムに入る機能、編集ミキサーにラウドネスメーターを表示するオプション、タイムラインのアスペクト比に合わせて変わるOGrafレスポンシブテンプレート、LinuxでのOGrafとLottieグラフィックスへの対応、そして全般的なパフォーマンスと安定性の向上である。"
+                "x": "Draft モードでは、最終的な4K 版を生成する前に、低コストの480p プレビューでショットを試し、絵コンテを練ることができる。10-bit カラーにも対応し、参照素材を使う場合や既存映像を編集する場合でも画質や色、細部を保つよう設計されている。中国内外の映画制作会社やポストプロダクション会社の一部がすでにテストを始めている。[IT Home, in Chinese]"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Resolve的AI搜索\n在M6上更快了",
-          "body": "Resolve 21.1.2的AI IntelliSearch在M6上最高提速14x。",
-          "mini_headline": "Resolve 21.1.2 提升AI搜索速度",
+          "headline": "Seedance 2.5\n支持4K 面向电影和TV",
+          "body": "ByteDance的Seedance 2.5 4K 新增10-bit与480p预览模式。",
+          "mini_headline": "Seedance 2.5 4K 瞄准影视制作",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://nofilmschool.com/media-library/davinci-resolve-update-21-1-2.jpg?id=68536481&width=1245&height=700&quality=50&coordinates=56%2C0%2C57%2C0"
+                "src": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261023-cn-371617.jpg?fit=2560%2C1440&ssl=1",
+                "cap": "ByteDance 推出面向电影制作的 Seedance 2.5 4K 视频模型"
               },
               {
                 "t": "p",
-                "x": "Blackmagic Design宣布，DaVinci Resolve将迎来大幅提速的21.1.2更新。"
+                "x": "ByteDance 旗下云平台 Volcano Engine 于10月23日发布 Seedance 2.5 4K，面向电影和电视制作，提供更高分辨率的视频生成。公司表示，额外训练提升了面部表情、细微动作和视觉细节的呈现效果。该模型目前仅向部分选定的企业客户开放试用。"
               },
               {
                 "t": "p",
-                "x": "在视频剪辑的时代，也就是如今的AI时代，速度比以往任何时候都更重要。无论你是喜欢AI本身，还是喜欢Resolve的IntelliSearch分析这类AI工具，只要在剪辑中用到它们，你都会希望它们运行得又快又高效。"
+                "x": "借助 Draft 模式，用户可在生成最终4K 版本前，先用成本更低的480p 预览测试镜头、完善分镜。该模型还支持10-bit 色彩，在使用参考素材或编辑现有素材时，可保留画质、色彩和精细细节。中国及海外的部分电影制作和后期制作公司已开始测试。[IT Home, in Chinese]"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Seedance 2.5 llega al 4K\npara cine y TV",
+          "body": "Seedance 2.5 4K de ByteDance suma color de 10-bit y un modo Draft a 480p para probar tomas antes del 4K final.",
+          "mini_headline": "Seedance 2.5 4K apunta al cine",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261023-cn-371617.jpg?fit=2560%2C1440&ssl=1",
+                "cap": "ByteDance lanza el modelo de video Seedance 2.5 4K para la producción cinematográfica"
               },
               {
                 "t": "p",
-                "x": "这正是DaVinci Resolve此次更新(21.1.2版)要提供的：Blackmagic Design宣布，Apple M6上的IntelliSearch分析最高提速14倍，同时改进时间线剪辑，并加快OGraf播放。"
+                "x": "Volcano Engine, la plataforma en la nube de ByteDance, lanzó Seedance 2.5 4K el 23 de octubre, orientado a la producción de cine y televisión con generación de video de mayor resolución. La empresa afirma que el entrenamiento adicional mejora la representación de expresiones faciales, movimientos sutiles y detalles visuales. Por ahora, el modelo está disponible a prueba para clientes empresariales seleccionados."
               },
               {
                 "t": "p",
-                "x": "此次更新侧重于重大改进，21.1.2新增了远超十几项的新功能和增强。其中最重要的是前述Apple M6上IntelliSearch分析的提速，以及快4倍的OGraf播放。"
-              },
-              {
-                "t": "p",
-                "x": "时间线剪辑也有所改进，Resolve增加了Linux图形支持，并扩展了用于自动化照片与剪辑任务的脚本APIs。亮点包括：套索选中的剪辑点可自动进入动态修剪、可在剪辑调音台中显示响度表的选项、能适应时间线画面比例的OGraf响应式模板、在Linux上支持OGraf和Lottie图形，以及整体性能和稳定性的提升。"
+                "x": "El modo Draft permite probar tomas y ajustar guiones gráficos con vistas previas de 480p de menor costo antes de generar la versión final en 4K. El modelo también admite color de 10-bit y está diseñado para conservar la calidad de imagen, los colores y los detalles finos al trabajar con material de referencia o editar metraje existente. Algunas productoras y empresas de posproducción de China y del extranjero ya han comenzado a probarlo. [IT Home, in Chinese]"
               }
             ]
           }
@@ -355,15 +245,257 @@
       }
     },
     {
-      "id": "sntpct",
+      "id": "jimengstudio",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "프랑스 애니 노조,\nNov. 18 파업 예고",
-      "body": "프랑스 애니 노조가 임금·GenAI 강제 금지를 요구하며 Nov. 18 파업한다.",
-      "mini_headline": "프랑스 애니메이터, GenAI 파업 예고",
+      "headline": "Jimeng AI\n숏드라마 스튜디오 출시",
+      "body": "Jimeng AI의 새 스튜디오는 숏드라마 각본에서 후반 작업까지 한데 묶었다.",
+      "mini_headline": "Jimeng AI가 연 숏드라마 스튜디오",
       "tool": "Movies",
-      "source": "Animation World Network",
-      "url": "https://www.awn.com/news/sntpct-calls-2-hour-walkout-french-animation-and-vfx-workers",
+      "source": "TechNode",
+      "url": "https://technode.com/2026/10/27/bytedance-launches-ai-studio-for-short-drama-production/",
+      "accent": "#f5a623",
+      "motif": "frame",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/cn-cover-361997.png?fit=1920%2C1280&ssl=1",
+            "cap": "ByteDance가 내놓은 숏드라마 제작용 AI 스튜디오"
+          },
+          {
+            "t": "p",
+            "x": "ByteDance의 Jimeng AI가 숏드라마 스튜디오를 내놓았다. 각본 개발부터 캐릭터·장면 제작, 스토리보드, 영상 제작, 후반 작업까지 한 워크플로에 담았다. 플랫폼에는 자체 모델 세 개가 들어간다. 각본용 DreamScript, 이미지용 Anycook, 스토리보드용 DreamShot이다."
+          },
+          {
+            "t": "p",
+            "x": "DreamScript는 오리지널 이야기와 각색, 해외 시청자용 각본을 지원하고, 이미지·스토리보드 도구는 창작자의 시각 자산 제작과 샷 설계를 돕는다. 개별 샷 교체와 오디오 재구성은 물론, 기존 드라마를 시장별 시각 스타일로 리메이크하는 작업도 스튜디오 안에서 할 수 있다. 이미지·영상을 하나씩 생성하던 Jimeng의 도구가 이번 출시로 서로 맞물린 숏드라마 제작까지 넓어졌다. [iiMedia, in Chinese]"
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Jimeng AI opens a\nshort-drama studio",
+          "body": "Jimeng AI's new studio puts scripting, storyboards, video production and post for short dramas in one workflow.",
+          "mini_headline": "Jimeng AI's short-drama studio",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/cn-cover-361997.png?fit=1920%2C1280&ssl=1",
+                "cap": "ByteDance launches AI studio for short-drama production"
+              },
+              {
+                "t": "p",
+                "x": "ByteDance’s Jimeng AI has launched a short-drama studio that brings script development, character and scene creation, storyboarding, video production and post-production into one workflow. The platform uses three in-house models: DreamScript for scripts, Anycook for images and DreamShot for storyboards."
+              },
+              {
+                "t": "p",
+                "x": "DreamScript supports original stories, adaptations and scripts for overseas audiences, while the image and storyboard tools help creators develop visual assets and plan shots. The studio also supports replacing individual shots, reconstructing audio and remaking existing dramas in visual styles suited to different markets. The launch extends Jimeng’s tools beyond individual image or video generation tasks into coordinated short-drama production. [iiMedia, in Chinese]"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Jimeng AI\n숏드라마 스튜디오 출시",
+          "body": "Jimeng AI의 새 스튜디오는 숏드라마 각본에서 후반 작업까지 한데 묶었다.",
+          "mini_headline": "Jimeng AI가 연 숏드라마 스튜디오",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/cn-cover-361997.png?fit=1920%2C1280&ssl=1",
+                "cap": "ByteDance가 내놓은 숏드라마 제작용 AI 스튜디오"
+              },
+              {
+                "t": "p",
+                "x": "ByteDance의 Jimeng AI가 숏드라마 스튜디오를 내놓았다. 각본 개발부터 캐릭터·장면 제작, 스토리보드, 영상 제작, 후반 작업까지 한 워크플로에 담았다. 플랫폼에는 자체 모델 세 개가 들어간다. 각본용 DreamScript, 이미지용 Anycook, 스토리보드용 DreamShot이다."
+              },
+              {
+                "t": "p",
+                "x": "DreamScript는 오리지널 이야기와 각색, 해외 시청자용 각본을 지원하고, 이미지·스토리보드 도구는 창작자의 시각 자산 제작과 샷 설계를 돕는다. 개별 샷 교체와 오디오 재구성은 물론, 기존 드라마를 시장별 시각 스타일로 리메이크하는 작업도 스튜디오 안에서 할 수 있다. 이미지·영상을 하나씩 생성하던 Jimeng의 도구가 이번 출시로 서로 맞물린 숏드라마 제작까지 넓어졌다. [iiMedia, in Chinese]"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Jimeng AIが\n短尺ドラマのスタジオ開設",
+          "body": "Jimeng AIの新スタジオは短尺ドラマの脚本、絵コンテ、映像制作、仕上げを一本化した。",
+          "mini_headline": "Jimeng AIの短尺ドラマスタジオ",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/cn-cover-361997.png?fit=1920%2C1280&ssl=1",
+                "cap": "ByteDance、短尺ドラマ制作向けAIスタジオを公開"
+              },
+              {
+                "t": "p",
+                "x": "ByteDance の Jimeng AI は、脚本開発、キャラクターやシーンの制作、絵コンテ、映像制作、ポストプロダクションを一つのワークフローにまとめた短尺ドラマ用スタジオを公開した。プラットフォームは自社開発の三つのモデルを使う。脚本向けの DreamScript、画像向けの Anycook、絵コンテ向けの DreamShot だ。"
+              },
+              {
+                "t": "p",
+                "x": "DreamScript はオリジナル作品、翻案、海外視聴者向けの脚本に対応し、画像・絵コンテツールはクリエイターがビジュアル素材を作り、ショットを計画するのを助ける。スタジオでは個別ショットの差し替えや音声の再構成、既存ドラマを市場ごとに合った映像スタイルでリメイクすることもできる。今回の公開で、Jimeng のツールは個別の画像・動画生成を超え、連携した短尺ドラマ制作へと広がった。[iiMedia, in Chinese]"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Jimeng AI\n推出短剧工作室",
+          "body": "Jimeng AI新工作室将短剧的编剧、分镜、视频制作与后期整合进同一流程。",
+          "mini_headline": "Jimeng AI推出短剧工作室",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/cn-cover-361997.png?fit=1920%2C1280&ssl=1",
+                "cap": "ByteDance 推出短剧制作 AI 工作室"
+              },
+              {
+                "t": "p",
+                "x": "ByteDance 旗下 Jimeng AI 推出短剧工作室，将剧本开发、角色与场景创作、分镜、视频制作和后期制作整合进同一工作流。该平台使用三款自研模型：用于剧本的 DreamScript、用于图像的 Anycook 和用于分镜的 DreamShot。"
+              },
+              {
+                "t": "p",
+                "x": "DreamScript 支持原创故事、改编以及面向海外观众的剧本，图像和分镜工具则帮助创作者开发视觉素材、规划镜头。工作室还支持替换单个镜头、重构音频，以及按适合不同市场的视觉风格翻拍现有短剧。此次发布让 Jimeng 的工具从单一的图像或视频生成任务，延伸到协同的短剧制作。[iiMedia, in Chinese]"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Jimeng AI abre un estudio\nde dramas cortos",
+          "body": "El nuevo estudio de Jimeng AI reúne guion, storyboards, video y posproducción de dramas cortos en un solo flujo.",
+          "mini_headline": "El estudio de dramas cortos de Jimeng AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/cn-cover-361997.png?fit=1920%2C1280&ssl=1",
+                "cap": "ByteDance lanza un estudio de AI para producir dramas cortos"
+              },
+              {
+                "t": "p",
+                "x": "Jimeng AI, de ByteDance, ha lanzado un estudio de dramas cortos que reúne en un solo flujo de trabajo el desarrollo de guiones, la creación de personajes y escenarios, los storyboards, la producción de video y la posproducción. La plataforma usa tres modelos propios: DreamScript para guiones, Anycook para imágenes y DreamShot para storyboards."
+              },
+              {
+                "t": "p",
+                "x": "DreamScript admite historias originales, adaptaciones y guiones para públicos del extranjero, mientras que las herramientas de imagen y storyboard ayudan a los creadores a desarrollar recursos visuales y planificar tomas. El estudio también permite reemplazar tomas individuales, reconstruir el audio y rehacer dramas existentes con estilos visuales adaptados a distintos mercados. El lanzamiento amplía las herramientas de Jimeng más allá de tareas aisladas de generación de imagen o video, hacia una producción coordinada de dramas cortos. [iiMedia, in Chinese]"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Jimeng AI가\n숏드라마 스튜디오 열다",
+          "body": "Jimeng AI 새 스튜디오는 숏드라마 각본부터 후반 작업까지 하나로 묶었다.",
+          "mini_headline": "Jimeng AI의 숏드라마 스튜디오",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/cn-cover-361997.png?fit=1920%2C1280&ssl=1",
+                "cap": "ByteDance, 숏드라마 제작용 AI 스튜디오 출시"
+              },
+              {
+                "t": "p",
+                "x": "ByteDance의 Jimeng AI가 각본 개발, 캐릭터·장면 제작, 스토리보드, 영상 제작, 후반 작업을 하나의 워크플로로 묶은 숏드라마 스튜디오를 내놓았다. 플랫폼은 자체 모델 세 개를 쓴다. 각본용 DreamScript, 이미지용 Anycook, 스토리보드용 DreamShot이다."
+              },
+              {
+                "t": "p",
+                "x": "DreamScript는 오리지널 이야기와 각색, 해외 시청자용 각본을 지원하고, 이미지·스토리보드 도구는 창작자가 시각 자산을 만들고 샷을 설계하도록 돕는다. 스튜디오에서는 개별 샷 교체, 오디오 재구성, 기존 드라마를 시장별 시각 스타일로 리메이크하는 작업도 할 수 있다. 이번 출시로 Jimeng의 도구는 개별 이미지·영상 생성 작업을 넘어 서로 맞물린 숏드라마 제작으로 넓어졌다. [iiMedia, in Chinese]"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Jimeng AIが\n短尺ドラマのスタジオ開設",
+          "body": "Jimeng AIの新スタジオは短尺ドラマの脚本、絵コンテ、映像制作、仕上げを一本化した。",
+          "mini_headline": "Jimeng AIの短尺ドラマスタジオ",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/cn-cover-361997.png?fit=1920%2C1280&ssl=1",
+                "cap": "ByteDance、短尺ドラマ制作向けAIスタジオを公開"
+              },
+              {
+                "t": "p",
+                "x": "ByteDance の Jimeng AI は、脚本開発、キャラクターやシーンの制作、絵コンテ、映像制作、ポストプロダクションを一つのワークフローにまとめた短尺ドラマ用スタジオを公開した。プラットフォームは自社開発の三つのモデルを使う。脚本向けの DreamScript、画像向けの Anycook、絵コンテ向けの DreamShot だ。"
+              },
+              {
+                "t": "p",
+                "x": "DreamScript はオリジナル作品、翻案、海外視聴者向けの脚本に対応し、画像・絵コンテツールはクリエイターがビジュアル素材を作り、ショットを計画するのを助ける。スタジオでは個別ショットの差し替えや音声の再構成、既存ドラマを市場ごとに合った映像スタイルでリメイクすることもできる。今回の公開で、Jimeng のツールは個別の画像・動画生成を超え、連携した短尺ドラマ制作へと広がった。[iiMedia, in Chinese]"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Jimeng AI\n推出短剧工作室",
+          "body": "Jimeng AI新工作室将短剧的编剧、分镜、视频制作与后期整合进同一流程。",
+          "mini_headline": "Jimeng AI推出短剧工作室",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/cn-cover-361997.png?fit=1920%2C1280&ssl=1",
+                "cap": "ByteDance 推出短剧制作 AI 工作室"
+              },
+              {
+                "t": "p",
+                "x": "ByteDance 旗下 Jimeng AI 推出短剧工作室，将剧本开发、角色与场景创作、分镜、视频制作和后期制作整合进同一工作流。该平台使用三款自研模型：用于剧本的 DreamScript、用于图像的 Anycook 和用于分镜的 DreamShot。"
+              },
+              {
+                "t": "p",
+                "x": "DreamScript 支持原创故事、改编以及面向海外观众的剧本，图像和分镜工具则帮助创作者开发视觉素材、规划镜头。工作室还支持替换单个镜头、重构音频，以及按适合不同市场的视觉风格翻拍现有短剧。此次发布让 Jimeng 的工具从单一的图像或视频生成任务，延伸到协同的短剧制作。[iiMedia, in Chinese]"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Jimeng AI abre un estudio\nde dramas cortos",
+          "body": "El nuevo estudio de Jimeng AI reúne guion, storyboards, video y posproducción de dramas cortos en un solo flujo.",
+          "mini_headline": "El estudio de dramas cortos de Jimeng AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/cn-cover-361997.png?fit=1920%2C1280&ssl=1",
+                "cap": "ByteDance lanza un estudio de AI para producir dramas cortos"
+              },
+              {
+                "t": "p",
+                "x": "Jimeng AI, de ByteDance, ha lanzado un estudio de dramas cortos que reúne en un solo flujo de trabajo el desarrollo de guiones, la creación de personajes y escenarios, los storyboards, la producción de video y la posproducción. La plataforma usa tres modelos propios: DreamScript para guiones, Anycook para imágenes y DreamShot para storyboards."
+              },
+              {
+                "t": "p",
+                "x": "DreamScript admite historias originales, adaptaciones y guiones para públicos del extranjero, mientras que las herramientas de imagen y storyboard ayudan a los creadores a desarrollar recursos visuales y planificar tomas. El estudio también permite reemplazar tomas individuales, reconstruir el audio y rehacer dramas existentes con estilos visuales adaptados a distintos mercados. El lanzamiento amplía las herramientas de Jimeng más allá de tareas aisladas de generación de imagen o video, hacia una producción coordinada de dramas cortos. [iiMedia, in Chinese]"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "oscarsai",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Oscars는 AI 시대도\n인간 작업에 상 준다",
+      "body": "Academy 회장은 AI 시대에도 Oscars가 인간의 작업을 기린다고 했다.",
+      "mini_headline": "인간 작업 편에 선 Oscars",
+      "tool": "Movies",
+      "source": "Variety",
+      "url": "https://variety.com/2026/film/festivals/oscars-always-reward-human-excellence-ai-era-academy-1236932637/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -371,173 +503,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.awn.com/sites/default/files/styles/inline_medium/public/image/attached/1081637-sntpct-flyer-1.jpg?itok=HI648P_C"
+            "src": "https://variety.com/wp-content/uploads/2026/10/Academy-leadership.jpg?w=1000&h=563&crop=1",
+            "cap": "Tokyo에 모인 Academy 지도부"
           },
           {
             "t": "p",
-            "x": "프랑스 과반 애니메이션 노조가 11월 18일 오후 2시부터 4시까지 전국 애니메이션·VFX 종사자 모두에게 일손을 멈춰 달라고 요청했다. 임금과 생성형 AI, 직책 명칭, 공휴일 문제로 AnimFrance와 SPI를 압박하겠다는 계산이다."
+            "x": "Academy 회장 Lynette Howell Taylor는 Tokyo에서 Variety와 만나, AI가 영화 제작 전반에 퍼지더라도 Oscars는 계속 인간이 주도한 작업을 기릴 것이라고 말했다. Academy 지도부는 회원과 영화인을 만나러 Tokyo International Film Festival에 와 있다."
           },
           {
             "t": "p",
-            "x": "SNTPCT는 네 가지를 요구한다. 2007년 이후 물가 상승분을 따라잡도록 보장 최저임금을 11.2% 올려 2027년 1월 1일부터 적용하고, 애니메이션 노동협약에서 “어시스턴트” 직책 13개를 없애며, 생성형 AI 규정을 협약에 넣으라는 것이다. 애니메이션 협약이 다섯 날만 인정하는 공휴일도 프랑스 노동법전의 11개 공휴일 전부로 늘려 달라고 했다."
+            "x": "Howell Taylor에 따르면 AI는 십 년 전부터 후반 작업 워크플로의 일부였고 시각효과에는 이미 녹아 있다. Academy는 출품 자격 문제와 엮어 이 사안을 정기적으로 논의한다. 그는 “Academy에 언제나 변하지 않는 사실은 우리가 인간의 탁월함, 인간이 주도하는 워크플로에 상을 준다는 점”이라며 “그 중심에는 언제나 그 워크플로를 이끄는 인간이 있을 것”이라고 말했다. “저작권, 그리고 투명성과 공개를 둘러싼 매우 현실적인 우려”도 짚었다."
           },
           {
             "t": "p",
-            "x": "2025년 말 낸 생성형 AI 개정안의 원칙은 세 가지다. 고용주는 노동자에게 GenAI 도구를 쓰거나 개발하라고 강요할 수 없고, 이를 고용 조건으로 내걸 수도 없다. 제작사는 노동자의 서면 허락 없이 그 창작물로 이미지·소리·텍스트를 생성하지 못한다. GenAI를 썼다면 영화 크레디트에 밝혀서, 하지 않은 작업에 이름이 오르는 사람이 없게 해야 한다."
+            "x": "제99회 Oscars부터 새로 도입된 규정으로, non-English-language(비영어) 영화는 여섯 개 영화제 중 한 곳에서 최고상을 받으면 국제장편영화상 자격을 얻는다. 최고회원책임자 Meredith Shea는 위원회가 해마다 규정을 검토할 것이라고 밝혔다."
           },
           {
             "t": "p",
-            "x": "파업 대상은 비디오게임용 애니메이션 제작을 포함해 애니메이션 영화·시리즈·광고를 만드는 회사와 VFX 스튜디오다. 11월 18일은 Angoulême에서 RADI-RAF 콘퍼런스가 막을 올리는 날로, 주 집회도 그곳에서 열린다."
+            "x": "CEO Bill Kramer는 지금 Academy 회원의 25%가 non-U.S.(미국 외) 회원이라고 말했다. YouTube 계약 뒤 처음 열리는 2029년 시상식은 30개가 넘는 언어로 2.5 billion(25억) 명에게 닿을 수 있다고도 했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "French animation union\nsets Nov. 18 walkout",
-          "body": "France's majority animation union called a Nov. 18 walkout over pay and a ban on compelled GenAI use.",
-          "mini_headline": "French animators set GenAI walkout",
+          "headline": "Oscars will keep rewarding\nhuman work in the AI era",
+          "body": "Academy president Lynette Howell Taylor says the Oscars will keep honoring human-driven work as AI spreads.",
+          "mini_headline": "Oscars stay with human work",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline_medium/public/image/attached/1081637-sntpct-flyer-1.jpg?itok=HI648P_C"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Academy-leadership.jpg?w=1000&h=563&crop=1",
+                "cap": "Academy leadership in Tokyo"
               },
               {
                 "t": "p",
-                "x": "France's majority animation union is asking every animation and VFX worker in the country to stop work from 2 p.m. to 4 p.m. on November 18, pressing AnimFrance and SPI on pay, generative AI, job titles and public holidays."
+                "x": "The Oscars will keep honoring human-driven work as AI spreads through filmmaking, Academy president Lynette Howell Taylor tells Variety in Tokyo, where Academy leadership is attending the Tokyo International Film Festival to meet members and filmmakers."
               },
               {
                 "t": "p",
-                "x": "The SNTPCT is pressing four demands: guaranteed minimum salaries raised 11.2% to catch up with inflation since 2007, taking effect January 1, 2027; 13 \"assistant\" positions removed from the animation labor agreement; rules on generative AI written into the agreement; and all 11 public holidays in the French Labor Code, where the animation agreement provides five."
+                "x": "Howell Taylor says AI has been part of post-production workflows for a decade and is already built into visual effects, and that the Academy discusses it regularly in relation to eligibility. “What will always remain true for the Academy is that we award human excellence, human-driven workflow,” she says. “At the center of it will always be humans driving that workflow.” She also flags “very real concerns around copyright and around transparency and disclosure.”"
               },
               {
                 "t": "p",
-                "x": "Its generative AI amendment, submitted at the end of 2025, rests on three principles: employers may not compel workers to use or develop GenAI tools or make that a condition of employment; producers may not generate images, sounds or text from a worker's creations without that worker's written authorization; and any use of GenAI must be acknowledged in a film's credits, so that no worker is credited with work they did not do."
+                "x": "Under rules introduced for the 99th Oscars, a non-English-language film can qualify for international feature by winning the top prize at one of six festivals, and chief membership officer Meredith Shea says the committee will review the rules each year."
               },
               {
                 "t": "p",
-                "x": "The walkout covers companies producing animated films, series and commercials, including animation production for video games, as well as VFX studios. November 18 is the opening day of the RADI-RAF conferences in Angoulême, where the main gathering will take place."
+                "x": "CEO Bill Kramer says the Academy is now 25% non-U.S. membership, and that the 2029 ceremony, the first under its YouTube deal, could reach 2.5 billion people in over 30 languages."
               }
             ]
           }
         },
         "ko": {
-          "headline": "프랑스 애니 노조,\nNov. 18 파업 예고",
-          "body": "프랑스 애니 노조가 임금·GenAI 강제 금지를 요구하며 Nov. 18 파업한다.",
-          "mini_headline": "프랑스 애니메이터, GenAI 파업 예고",
+          "headline": "Oscars는 AI 시대도\n인간 작업에 상 준다",
+          "body": "Academy 회장은 AI 시대에도 Oscars가 인간의 작업을 기린다고 했다.",
+          "mini_headline": "인간 작업 편에 선 Oscars",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline_medium/public/image/attached/1081637-sntpct-flyer-1.jpg?itok=HI648P_C"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Academy-leadership.jpg?w=1000&h=563&crop=1",
+                "cap": "Tokyo에 모인 Academy 지도부"
               },
               {
                 "t": "p",
-                "x": "프랑스 과반 애니메이션 노조가 11월 18일 오후 2시부터 4시까지 전국 애니메이션·VFX 종사자 모두에게 일손을 멈춰 달라고 요청했다. 임금과 생성형 AI, 직책 명칭, 공휴일 문제로 AnimFrance와 SPI를 압박하겠다는 계산이다."
+                "x": "Academy 회장 Lynette Howell Taylor는 Tokyo에서 Variety와 만나, AI가 영화 제작 전반에 퍼지더라도 Oscars는 계속 인간이 주도한 작업을 기릴 것이라고 말했다. Academy 지도부는 회원과 영화인을 만나러 Tokyo International Film Festival에 와 있다."
               },
               {
                 "t": "p",
-                "x": "SNTPCT는 네 가지를 요구한다. 2007년 이후 물가 상승분을 따라잡도록 보장 최저임금을 11.2% 올려 2027년 1월 1일부터 적용하고, 애니메이션 노동협약에서 “어시스턴트” 직책 13개를 없애며, 생성형 AI 규정을 협약에 넣으라는 것이다. 애니메이션 협약이 다섯 날만 인정하는 공휴일도 프랑스 노동법전의 11개 공휴일 전부로 늘려 달라고 했다."
+                "x": "Howell Taylor에 따르면 AI는 십 년 전부터 후반 작업 워크플로의 일부였고 시각효과에는 이미 녹아 있다. Academy는 출품 자격 문제와 엮어 이 사안을 정기적으로 논의한다. 그는 “Academy에 언제나 변하지 않는 사실은 우리가 인간의 탁월함, 인간이 주도하는 워크플로에 상을 준다는 점”이라며 “그 중심에는 언제나 그 워크플로를 이끄는 인간이 있을 것”이라고 말했다. “저작권, 그리고 투명성과 공개를 둘러싼 매우 현실적인 우려”도 짚었다."
               },
               {
                 "t": "p",
-                "x": "2025년 말 낸 생성형 AI 개정안의 원칙은 세 가지다. 고용주는 노동자에게 GenAI 도구를 쓰거나 개발하라고 강요할 수 없고, 이를 고용 조건으로 내걸 수도 없다. 제작사는 노동자의 서면 허락 없이 그 창작물로 이미지·소리·텍스트를 생성하지 못한다. GenAI를 썼다면 영화 크레디트에 밝혀서, 하지 않은 작업에 이름이 오르는 사람이 없게 해야 한다."
+                "x": "제99회 Oscars부터 새로 도입된 규정으로, non-English-language(비영어) 영화는 여섯 개 영화제 중 한 곳에서 최고상을 받으면 국제장편영화상 자격을 얻는다. 최고회원책임자 Meredith Shea는 위원회가 해마다 규정을 검토할 것이라고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "파업 대상은 비디오게임용 애니메이션 제작을 포함해 애니메이션 영화·시리즈·광고를 만드는 회사와 VFX 스튜디오다. 11월 18일은 Angoulême에서 RADI-RAF 콘퍼런스가 막을 올리는 날로, 주 집회도 그곳에서 열린다."
+                "x": "CEO Bill Kramer는 지금 Academy 회원의 25%가 non-U.S.(미국 외) 회원이라고 말했다. YouTube 계약 뒤 처음 열리는 2029년 시상식은 30개가 넘는 언어로 2.5 billion(25억) 명에게 닿을 수 있다고도 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "仏アニメ労組が\nNov. 18にスト",
-          "body": "仏の過半数アニメ労組が賃金とGenAI強制禁止を求め、Nov. 18 にストを行う。",
-          "mini_headline": "仏アニメーター、GenAIでスト",
+          "headline": "AI時代もOscarsは\n人間の仕事を称え続ける",
+          "body": "Academy会長は、AIが広がってもOscarsは人間主導の仕事を称え続けると語った。",
+          "mini_headline": "Oscarsは人間の仕事を守る",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline_medium/public/image/attached/1081637-sntpct-flyer-1.jpg?itok=HI648P_C"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Academy-leadership.jpg?w=1000&h=563&crop=1",
+                "cap": "Tokyoを訪れたAcademy指導部"
               },
               {
                 "t": "p",
-                "x": "フランスの過半数アニメーション労組は、国内のすべてのアニメーション・VFX従事者に11月18日午後2時から4時まで作業を止めるよう呼びかけ、賃金、生成AI、職名、祝日をめぐってAnimFranceとSPIに圧力をかけている。"
+                "x": "Academy会長のLynette Howell Taylorは、AIが映画製作に広がってもOscarsは人間主導の仕事を称え続けるとTokyoでVarietyに語った。Academy指導部は会員や映画人と会うため、Tokyo International Film Festivalに参加している。"
               },
               {
                 "t": "p",
-                "x": "SNTPCTの要求は四つだ。2007年以降のインフレに追いつくよう保証最低賃金を11.2%引き上げ、2027年1月1日から適用すること。アニメーション労働協約から「アシスタント」職13種を削除すること。生成AIのルールを協約に盛り込むこと。そして協約が五日しか定めていない祝日を、フランス労働法典の11の祝日すべてにすることである。"
+                "x": "Howell Taylorによれば、AIは十年前からポストプロダクションのワークフローの一部であり、すでに視覚効果にも組み込まれている。Academyは出品資格との関係でこの問題を定期的に議論しているという。「Academyにとって常に変わらないのは、人間の卓越性、人間主導のワークフローを表彰するということだ」と彼女は言う。「その中心には常に、そのワークフローを動かす人間がいる」。彼女はまた「著作権、そして透明性と開示をめぐる非常に現実的な懸念」も指摘した。"
               },
               {
                 "t": "p",
-                "x": "2025年末に提出した生成AIの改正案は三つの原則に立つ。雇用主は労働者にGenAIツールの使用や開発を強制したり、それを雇用条件にしたりしてはならない。制作会社は労働者の書面による許可なく、その創作物から画像・音声・テキストを生成してはならない。GenAIを使った場合は作品のクレジットに明記し、自分がしていない仕事で誰もクレジットされないようにする。"
+                "x": "第99回Oscarsで導入された規則では、non-English-language（非英語）作品は六つの映画祭のいずれかで最高賞を受賞すれば国際長編映画賞の資格を得られる。最高会員責任者のMeredith Sheaは、委員会が毎年規則を見直すと述べた。"
               },
               {
                 "t": "p",
-                "x": "ストの対象は、ビデオゲーム向けアニメーション制作を含むアニメーション映画・シリーズ・CMの制作会社と、VFXスタジオである。11月18日はAngoulêmeで開かれるRADI-RAF会議の初日で、主な集会もそこで行われる。"
+                "x": "CEOのBill Kramerによると、Academyの会員は現在25%がnon-U.S.（米国外）で、YouTubeとの契約下で初となる2029年の授賞式は30以上の言語で2.5 billion（25億）人に届く可能性があるという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "法国动画工会\n定于 Nov. 18 罢工",
-          "body": "法国多数派动画工会就薪酬及禁止强制使用GenAI，号召于Nov. 18 罢工。",
-          "mini_headline": "法国动画人因GenAI罢工",
+          "headline": "AI时代Oscars\n仍将表彰人类创作",
+          "body": "Academy主席表示，即便AI普及，Oscars仍将表彰人类主导的作品。",
+          "mini_headline": "Oscars坚守人类创作",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline_medium/public/image/attached/1081637-sntpct-flyer-1.jpg?itok=HI648P_C"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Academy-leadership.jpg?w=1000&h=563&crop=1",
+                "cap": "Academy领导层在Tokyo"
               },
               {
                 "t": "p",
-                "x": "法国多数派动画工会呼吁全国所有动画与VFX从业者于11月18日下午2点至4点停工，就薪酬、生成式AI、职位名称和公共假日向AnimFrance和SPI施压。"
+                "x": "Academy主席Lynette Howell Taylor在Tokyo接受Variety采访时表示，即便AI在电影制作中日益普及，Oscars仍将继续表彰由人类主导的作品。Academy领导层正在出席Tokyo International Film Festival，与会员和电影人会面。"
               },
               {
                 "t": "p",
-                "x": "SNTPCT提出四项诉求：将保障最低工资上调11.2%，以追上2007年以来的通胀，自2027年1月1日起生效；从动画劳动协议中删除13个“助理”职位；将生成式AI规则写入协议；以及享有《法国劳动法典》规定的全部11个公共假日，而动画协议目前只规定五个。"
+                "x": "Howell Taylor说，AI十年来一直是后期制作流程的一部分，并已融入视觉特效，Academy也经常围绕参评资格讨论这一问题。“对Academy而言，始终不变的是我们表彰人类的卓越、人类主导的工作流程，”她说，“其核心永远是推动这一流程的人。”她还指出了“围绕版权以及透明度和披露的非常现实的担忧”。"
               },
               {
                 "t": "p",
-                "x": "其于2025年底提交的生成式AI修正案基于三项原则：雇主不得强迫员工使用或开发GenAI工具，也不得以此作为雇用条件；制片方未经员工书面授权，不得利用其作品生成图像、声音或文字；任何对GenAI的使用都必须在影片片尾字幕中注明，确保没有人因自己未做的工作而获得署名。"
+                "x": "根据第99届Oscars引入的规则，non-English-language（非英语）影片只要在六个电影节之一获得最高奖，即可获得国际影片奖资格。首席会员官Meredith Shea表示，委员会将每年审查这些规则。"
               },
               {
                 "t": "p",
-                "x": "罢工涵盖制作动画电影、剧集和广告的公司（包括为电子游戏制作动画的公司）以及VFX工作室。11月18日是Angoulême的RADI-RAF会议开幕日，主要集会也将在那里举行。"
+                "x": "CEO Bill Kramer表示，Academy目前25%的会员来自non-U.S.（美国以外），而2029年颁奖典礼作为与YouTube合作后的首届典礼，可能以30多种语言触达2.5 billion（25亿）人。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Sindicato francés de animación\nfija huelga para el 18 de nov.",
-          "body": "El sindicato mayoritario de animación francés convoca paro el 18 de noviembre por salarios y contra la GenAI forzosa.",
-          "mini_headline": "Animadores franceses, en huelga por la GenAI",
+          "headline": "Los Oscars seguirán premiando\nel trabajo humano ante la AI",
+          "body": "Lynette Howell Taylor, presidenta de la Academy, dice que los Oscars seguirán premiando el trabajo humano ante la AI.",
+          "mini_headline": "Los Oscars apuestan por lo humano",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline_medium/public/image/attached/1081637-sntpct-flyer-1.jpg?itok=HI648P_C"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Academy-leadership.jpg?w=1000&h=563&crop=1",
+                "cap": "La dirección de la Academy en Tokyo"
               },
               {
                 "t": "p",
-                "x": "El sindicato mayoritario de la animación en Francia pide a todos los trabajadores de animación y VFX del país que dejen de trabajar de 2 p.m. a 4 p.m. el 18 de noviembre, para presionar a AnimFrance y SPI sobre salarios, AI generativa, denominaciones de puestos y días festivos."
+                "x": "Los Oscars seguirán reconociendo el trabajo impulsado por personas mientras la AI se extiende en el cine, afirma la presidenta de la Academy, Lynette Howell Taylor, a Variety en Tokyo, donde la dirección de la Academy asiste al Tokyo International Film Festival para reunirse con miembros y cineastas."
               },
               {
                 "t": "p",
-                "x": "El SNTPCT plantea cuatro demandas: subir un 11.2% los salarios mínimos garantizados para compensar la inflación desde 2007, con efecto a partir del 1 de enero de 2027; eliminar 13 puestos de \"asistente\" del convenio laboral de animación; incorporar al convenio normas sobre AI generativa; y reconocer los 11 días festivos del Código del Trabajo francés, frente a los cinco que prevé el convenio de animación."
+                "x": "Howell Taylor explica que la AI forma parte de los flujos de trabajo de posproducción desde hace una década y ya está integrada en los efectos visuales, y que la Academy la debate con regularidad en relación con los requisitos de elegibilidad. “Lo que siempre seguirá siendo cierto para la Academy es que premiamos la excelencia humana, el flujo de trabajo impulsado por personas”, dice. “En el centro siempre estarán los humanos que impulsan ese flujo de trabajo”. También señala “preocupaciones muy reales en torno a los derechos de autor y en torno a la transparencia y la divulgación”."
               },
               {
                 "t": "p",
-                "x": "Su enmienda sobre AI generativa, presentada a finales de 2025, se basa en tres principios: los empleadores no pueden obligar a los trabajadores a usar o desarrollar herramientas de GenAI ni convertirlo en condición de empleo; los productores no pueden generar imágenes, sonidos ni textos a partir de las creaciones de un trabajador sin su autorización por escrito; y todo uso de GenAI debe reconocerse en los créditos de la película, para que a nadie se le atribuya un trabajo que no hizo."
+                "x": "Según las normas introducidas para los 99th Oscars, una película non-English-language (en lengua no inglesa) puede optar a largometraje internacional si gana el máximo premio en uno de seis festivales, y la directora de membresía, Meredith Shea, afirma que el comité revisará las normas cada año."
               },
               {
                 "t": "p",
-                "x": "El paro abarca a las empresas que producen películas, series y anuncios de animación, incluida la producción de animación para videojuegos, así como a los estudios de VFX. El 18 de noviembre es la jornada inaugural de las conferencias RADI-RAF en Angoulême, donde tendrá lugar la concentración principal."
+                "x": "El CEO Bill Kramer afirma que el 25% de los miembros de la Academy son ya non-U.S. (de fuera de Estados Unidos), y que la ceremonia de 2029, la primera bajo su acuerdo con YouTube, podría llegar a 2.5 billion (2.500 millones) de personas en más de 30 idiomas."
               }
             ]
           }
@@ -545,121 +683,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "프랑스 애니 노조,\nNov. 18 파업 예고",
-          "body": "프랑스 애니 노조가 임금·GenAI 강제 금지를 요구하며 Nov. 18 파업한다.",
-          "mini_headline": "프랑스 애니메이터, GenAI 파업 예고",
+          "headline": "Oscars는 AI 시대도\n인간 작업에 상 준다",
+          "body": "Academy 회장은 Oscars가 AI 시대에도 인간 작업을 기린다고 말했다.",
+          "mini_headline": "Oscars, 인간 작업 지킨다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline_medium/public/image/attached/1081637-sntpct-flyer-1.jpg?itok=HI648P_C"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Academy-leadership.jpg?w=1000&h=563&crop=1",
+                "cap": "Tokyo에 모인 Academy 지도부"
               },
               {
                 "t": "p",
-                "x": "프랑스 과반 애니메이션 노조가 11월 18일 오후 2시부터 4시까지 전국의 모든 애니메이션·VFX 종사자에게 작업 중단을 요청했다. 임금, 생성형 AI, 직책 명칭, 공휴일 문제로 AnimFrance와 SPI를 압박하려는 것이다."
+                "x": "Academy 회장 Lynette Howell Taylor는 Tokyo에서 Variety에 AI가 영화 제작 전반으로 퍼지더라도 Oscars는 인간이 주도한 작업을 계속 기릴 것이라고 말했다. Academy 지도부는 회원과 영화인을 만나기 위해 Tokyo International Film Festival에 참석하고 있다."
               },
               {
                 "t": "p",
-                "x": "SNTPCT의 요구는 네 가지다. 2007년 이후 물가 상승분을 따라잡도록 보장 최저임금을 11.2% 올려 2027년 1월 1일부터 적용할 것, 애니메이션 노동협약에서 “어시스턴트” 직책 13개를 없앨 것, 생성형 AI 규정을 협약에 넣을 것, 그리고 애니메이션 협약이 다섯 날만 인정하는 공휴일을 프랑스 노동법전의 11개 공휴일 전부로 늘릴 것이다."
+                "x": "Howell Taylor는 AI가 십 년 전부터 후반 작업 워크플로의 일부였고 이미 시각효과에 녹아 있으며, Academy가 출품 자격과 관련해 이 문제를 정기적으로 논의한다고 설명했다. 그는 “Academy에 언제나 변하지 않는 사실은 우리가 인간의 탁월함, 인간이 주도하는 워크플로에 상을 준다는 점”이라며 “그 중심에는 언제나 그 워크플로를 이끄는 인간이 있을 것”이라고 말했다. 또 “저작권, 그리고 투명성과 공개를 둘러싼 매우 현실적인 우려”도 짚었다."
               },
               {
                 "t": "p",
-                "x": "2025년 말 제출한 생성형 AI 개정안은 세 가지 원칙에 기댄다. 고용주는 노동자에게 GenAI 도구의 사용이나 개발을 강요하거나 이를 고용 조건으로 삼을 수 없다. 제작사는 노동자의 서면 허락 없이 그 창작물로 이미지·소리·텍스트를 생성할 수 없다. GenAI를 쓴 경우 영화 크레디트에 밝혀, 누구도 하지 않은 작업으로 이름이 오르지 않게 해야 한다."
+                "x": "제99회 Oscars부터 도입된 규정에 따라 non-English-language(비영어) 영화는 여섯 개 영화제 가운데 한 곳에서 최고상을 받으면 국제장편영화상 자격을 얻는다. 최고회원책임자 Meredith Shea는 위원회가 매년 규정을 검토할 것이라고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "파업 대상은 비디오게임용 애니메이션 제작을 포함해 애니메이션 영화·시리즈·광고를 만드는 회사와 VFX 스튜디오다. 11월 18일은 Angoulême에서 열리는 RADI-RAF 콘퍼런스 개막일이며, 주 집회도 그곳에서 열린다."
+                "x": "CEO Bill Kramer는 현재 Academy 회원의 25%가 non-U.S.(미국 외) 회원이며, YouTube 계약 이후 첫 시상식인 2029년 시상식이 30개가 넘는 언어로 2.5 billion(25억) 명에게 닿을 수 있다고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "仏アニメ労組が\nNov. 18にスト",
-          "body": "仏の過半数アニメ労組が賃金とGenAI強制禁止を求め、Nov. 18 にストを行う。",
-          "mini_headline": "仏アニメーター、GenAIでスト",
+          "headline": "AI時代もOscarsは\n人間の仕事を称え続ける",
+          "body": "Academy会長は、AIが広がってもOscarsは人間主導の仕事を称え続けると語った。",
+          "mini_headline": "Oscarsは人間の仕事を守る",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline_medium/public/image/attached/1081637-sntpct-flyer-1.jpg?itok=HI648P_C"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Academy-leadership.jpg?w=1000&h=563&crop=1",
+                "cap": "Tokyoを訪れたAcademy指導部"
               },
               {
                 "t": "p",
-                "x": "フランスの過半数アニメーション労組は、国内のすべてのアニメーション・VFX従事者に11月18日午後2時から4時まで作業を止めるよう呼びかけ、賃金、生成AI、職名、祝日をめぐってAnimFranceとSPIに圧力をかけている。"
+                "x": "Academy会長のLynette Howell Taylorは、AIが映画製作に広がってもOscarsは人間主導の仕事を称え続けるとTokyoでVarietyに語った。Academy指導部は会員や映画人と会うため、Tokyo International Film Festivalに参加している。"
               },
               {
                 "t": "p",
-                "x": "SNTPCTの要求は四つだ。2007年以降のインフレに追いつくよう保証最低賃金を11.2%引き上げ、2027年1月1日から適用すること。アニメーション労働協約から「アシスタント」職13種を削除すること。生成AIのルールを協約に盛り込むこと。そして協約が五日しか定めていない祝日を、フランス労働法典の11の祝日すべてにすることである。"
+                "x": "Howell Taylorによれば、AIは十年前からポストプロダクションのワークフローの一部であり、すでに視覚効果にも組み込まれている。Academyは出品資格との関係でこの問題を定期的に議論しているという。「Academyにとって常に変わらないのは、人間の卓越性、人間主導のワークフローを表彰するということだ」と彼女は言う。「その中心には常に、そのワークフローを動かす人間がいる」。彼女はまた「著作権、そして透明性と開示をめぐる非常に現実的な懸念」も指摘した。"
               },
               {
                 "t": "p",
-                "x": "2025年末に提出した生成AIの改正案は三つの原則に立つ。雇用主は労働者にGenAIツールの使用や開発を強制したり、それを雇用条件にしたりしてはならない。制作会社は労働者の書面による許可なく、その創作物から画像・音声・テキストを生成してはならない。GenAIを使った場合は作品のクレジットに明記し、自分がしていない仕事で誰もクレジットされないようにする。"
+                "x": "第99回Oscarsで導入された規則では、non-English-language（非英語）作品は六つの映画祭のいずれかで最高賞を受賞すれば国際長編映画賞の資格を得られる。最高会員責任者のMeredith Sheaは、委員会が毎年規則を見直すと述べた。"
               },
               {
                 "t": "p",
-                "x": "ストの対象は、ビデオゲーム向けアニメーション制作を含むアニメーション映画・シリーズ・CMの制作会社と、VFXスタジオである。11月18日はAngoulêmeで開かれるRADI-RAF会議の初日で、主な集会もそこで行われる。"
+                "x": "CEOのBill Kramerによると、Academyの会員は現在25%がnon-U.S.（米国外）で、YouTubeとの契約下で初となる2029年の授賞式は30以上の言語で2.5 billion（25億）人に届く可能性があるという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "法国动画工会\n定于 Nov. 18 罢工",
-          "body": "法国多数派动画工会就薪酬及禁止强制使用GenAI，号召于Nov. 18 罢工。",
-          "mini_headline": "法国动画人因GenAI罢工",
+          "headline": "AI时代Oscars\n仍将表彰人类创作",
+          "body": "Academy主席表示，即便AI普及，Oscars仍将表彰人类主导的作品。",
+          "mini_headline": "Oscars坚守人类创作",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline_medium/public/image/attached/1081637-sntpct-flyer-1.jpg?itok=HI648P_C"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Academy-leadership.jpg?w=1000&h=563&crop=1",
+                "cap": "Academy领导层在Tokyo"
               },
               {
                 "t": "p",
-                "x": "法国多数派动画工会呼吁全国所有动画与VFX从业者于11月18日下午2点至4点停工，就薪酬、生成式AI、职位名称和公共假日向AnimFrance和SPI施压。"
+                "x": "Academy主席Lynette Howell Taylor在Tokyo接受Variety采访时表示，即便AI在电影制作中日益普及，Oscars仍将继续表彰由人类主导的作品。Academy领导层正在出席Tokyo International Film Festival，与会员和电影人会面。"
               },
               {
                 "t": "p",
-                "x": "SNTPCT提出四项诉求：将保障最低工资上调11.2%，以追上2007年以来的通胀，自2027年1月1日起生效；从动画劳动协议中删除13个“助理”职位；将生成式AI规则写入协议；以及享有《法国劳动法典》规定的全部11个公共假日，而动画协议目前只规定五个。"
+                "x": "Howell Taylor说，AI十年来一直是后期制作流程的一部分，并已融入视觉特效，Academy也经常围绕参评资格讨论这一问题。“对Academy而言，始终不变的是我们表彰人类的卓越、人类主导的工作流程，”她说，“其核心永远是推动这一流程的人。”她还指出了“围绕版权以及透明度和披露的非常现实的担忧”。"
               },
               {
                 "t": "p",
-                "x": "其于2025年底提交的生成式AI修正案基于三项原则：雇主不得强迫员工使用或开发GenAI工具，也不得以此作为雇用条件；制片方未经员工书面授权，不得利用其作品生成图像、声音或文字；任何对GenAI的使用都必须在影片片尾字幕中注明，确保没有人因自己未做的工作而获得署名。"
+                "x": "根据第99届Oscars引入的规则，non-English-language（非英语）影片只要在六个电影节之一获得最高奖，即可获得国际影片奖资格。首席会员官Meredith Shea表示，委员会将每年审查这些规则。"
               },
               {
                 "t": "p",
-                "x": "罢工涵盖制作动画电影、剧集和广告的公司（包括为电子游戏制作动画的公司）以及VFX工作室。11月18日是Angoulême的RADI-RAF会议开幕日，主要集会也将在那里举行。"
+                "x": "CEO Bill Kramer表示，Academy目前25%的会员来自non-U.S.（美国以外），而2029年颁奖典礼作为与YouTube合作后的首届典礼，可能以30多种语言触达2.5 billion（25亿）人。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Sindicato francés de animación\nfija huelga para el 18 de nov.",
-          "body": "El sindicato mayoritario de animación francés convoca paro el 18 de noviembre por salarios y contra la GenAI forzosa.",
-          "mini_headline": "Animadores franceses, en huelga por la GenAI",
+          "headline": "Los Oscars seguirán premiando\nel trabajo humano ante la AI",
+          "body": "Lynette Howell Taylor, presidenta de la Academy, dice que los Oscars seguirán premiando el trabajo humano ante la AI.",
+          "mini_headline": "Los Oscars apuestan por lo humano",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.awn.com/sites/default/files/styles/inline_medium/public/image/attached/1081637-sntpct-flyer-1.jpg?itok=HI648P_C"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Academy-leadership.jpg?w=1000&h=563&crop=1",
+                "cap": "La dirección de la Academy en Tokyo"
               },
               {
                 "t": "p",
-                "x": "El sindicato mayoritario de la animación en Francia pide a todos los trabajadores de animación y VFX del país que dejen de trabajar de 2 p.m. a 4 p.m. el 18 de noviembre, para presionar a AnimFrance y SPI sobre salarios, AI generativa, denominaciones de puestos y días festivos."
+                "x": "Los Oscars seguirán reconociendo el trabajo impulsado por personas mientras la AI se extiende en el cine, afirma la presidenta de la Academy, Lynette Howell Taylor, a Variety en Tokyo, donde la dirección de la Academy asiste al Tokyo International Film Festival para reunirse con miembros y cineastas."
               },
               {
                 "t": "p",
-                "x": "El SNTPCT plantea cuatro demandas: subir un 11.2% los salarios mínimos garantizados para compensar la inflación desde 2007, con efecto a partir del 1 de enero de 2027; eliminar 13 puestos de \"asistente\" del convenio laboral de animación; incorporar al convenio normas sobre AI generativa; y reconocer los 11 días festivos del Código del Trabajo francés, frente a los cinco que prevé el convenio de animación."
+                "x": "Howell Taylor explica que la AI forma parte de los flujos de trabajo de posproducción desde hace una década y ya está integrada en los efectos visuales, y que la Academy la debate con regularidad en relación con los requisitos de elegibilidad. “Lo que siempre seguirá siendo cierto para la Academy es que premiamos la excelencia humana, el flujo de trabajo impulsado por personas”, dice. “En el centro siempre estarán los humanos que impulsan ese flujo de trabajo”. También señala “preocupaciones muy reales en torno a los derechos de autor y en torno a la transparencia y la divulgación”."
               },
               {
                 "t": "p",
-                "x": "Su enmienda sobre AI generativa, presentada a finales de 2025, se basa en tres principios: los empleadores no pueden obligar a los trabajadores a usar o desarrollar herramientas de GenAI ni convertirlo en condición de empleo; los productores no pueden generar imágenes, sonidos ni textos a partir de las creaciones de un trabajador sin su autorización por escrito; y todo uso de GenAI debe reconocerse en los créditos de la película, para que a nadie se le atribuya un trabajo que no hizo."
+                "x": "Según las normas introducidas para los 99th Oscars, una película non-English-language (en lengua no inglesa) puede optar a largometraje internacional si gana el máximo premio en uno de seis festivales, y la directora de membresía, Meredith Shea, afirma que el comité revisará las normas cada año."
               },
               {
                 "t": "p",
-                "x": "El paro abarca a las empresas que producen películas, series y anuncios de animación, incluida la producción de animación para videojuegos, así como a los estudios de VFX. El 18 de noviembre es la jornada inaugural de las conferencias RADI-RAF en Angoulême, donde tendrá lugar la concentración principal."
+                "x": "El CEO Bill Kramer afirma que el 25% de los miembros de la Academy son ya non-U.S. (de fuera de Estados Unidos), y que la ceremonia de 2029, la primera bajo su acuerdo con YouTube, podría llegar a 2.5 billion (2.500 millones) de personas en más de 30 idiomas."
               }
             ]
           }
@@ -667,865 +809,683 @@
       }
     },
     {
-      "id": "newangles",
+      "id": "rintaro",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI로 만드는\n새 카메라 앵글",
-      "body": "Curious Refuge가 촬영본에서 새 앵글을 뽑는 AI 기법을 보여준다.",
-      "mini_headline": "AI로 새 카메라 앵글 만들기",
+      "headline": "Rintaro, AI가\n애니를 평균으로 끈다",
+      "body": "Rintaro는 생성형 AI가 평균을 추천해 애니메이션이 리메이크로 쏠린다고 봤다.",
+      "mini_headline": "Rintaro가 본 AI와 애니 리메이크",
       "tool": "Movies",
-      "source": "Curious Refuge",
-      "url": "https://www.youtube.com/watch?v=EPYh_bgXJBk",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "video",
-            "yt": "EPYh_bgXJBk"
-          },
-          {
-            "t": "p",
-            "x": "Curious Refuge가 쇼츠로 소개한, 새 카메라 앵글을 마법처럼 만들어 내는 AI 기법이다."
-          },
-          {
-            "t": "p",
-            "x": "전체 튜토리얼에서 Curious Refuge는 기존 영상으로 새 카메라 앵글을 만드는 방법 세 가지를 시험한다. 실사 촬영본에도, AI-generated(AI 생성) 장면에도 Seedance 2.5를 쓴다. AI에게 커버리지 선택을 맡기는 방식부터 새 앵글 위치를 하나하나 직접 정하는 방식까지 두루 다룬다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "An AI trick that creates\nnew camera angles",
-          "body": "Curious Refuge demonstrates an AI technique that generates new camera angles from footage you have already shot.",
-          "mini_headline": "AI makes new camera angles",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "EPYh_bgXJBk"
-              },
-              {
-                "t": "p",
-                "x": "This AI trick Magically Creates New Camera Angles — a short from Curious Refuge."
-              },
-              {
-                "t": "p",
-                "x": "In the full tutorial, Curious Refuge tests three different ways to generate new camera angles from an existing video, using Seedance 2.5 on both live-action footage and an AI-generated scene, from letting AI automatically choose the coverage to manually defining exactly where each new camera angle should go."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI로 만드는\n새 카메라 앵글",
-          "body": "Curious Refuge가 촬영본에서 새 앵글을 뽑는 AI 기법을 보여준다.",
-          "mini_headline": "AI로 새 카메라 앵글 만들기",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "EPYh_bgXJBk"
-              },
-              {
-                "t": "p",
-                "x": "Curious Refuge가 쇼츠로 소개한, 새 카메라 앵글을 마법처럼 만들어 내는 AI 기법이다."
-              },
-              {
-                "t": "p",
-                "x": "전체 튜토리얼에서 Curious Refuge는 기존 영상으로 새 카메라 앵글을 만드는 방법 세 가지를 시험한다. 실사 촬영본에도, AI-generated(AI 생성) 장면에도 Seedance 2.5를 쓴다. AI에게 커버리지 선택을 맡기는 방식부터 새 앵글 위치를 하나하나 직접 정하는 방식까지 두루 다룬다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIで新たな\nカメラアングルを生成",
-          "body": "Curious Refugeが撮影済み映像から新たなアングルを生むAI技法を示す。",
-          "mini_headline": "AIで新しいカメラアングル",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "EPYh_bgXJBk"
-              },
-              {
-                "t": "p",
-                "x": "魔法のように新しいカメラアングルを生み出すAIの技 — Curious Refugeのショート動画だ。"
-              },
-              {
-                "t": "p",
-                "x": "フルのチュートリアルでCurious Refugeは、既存の映像から新しいカメラアングルを生成する三つの方法を試している。実写映像とAI-generated（AI生成）のシーンの両方でSeedance 2.5を使い、AIにカバレッジを自動で選ばせる方法から、新しいカメラアングルの位置を手動で正確に指定する方法までを扱う。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "一个AI技巧\n生成全新机位角度",
-          "body": "Curious Refuge演示一种AI技术，可从已拍摄素材中生成新的机位角度。",
-          "mini_headline": "AI生成全新机位",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "EPYh_bgXJBk"
-              },
-              {
-                "t": "p",
-                "x": "这个AI技巧能神奇地生成新的机位角度——来自Curious Refuge的短视频。"
-              },
-              {
-                "t": "p",
-                "x": "在完整教程中，Curious Refuge测试了从现有视频生成新机位角度的三种方法，在实拍素材和AI-generated（AI生成）场景上都使用了Seedance 2.5，从让AI自动选择镜头覆盖，到手动精确指定每个新机位的位置。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un truco de AI que crea\nnuevos ángulos de cámara",
-          "body": "Curious Refuge muestra una técnica de AI que genera nuevos ángulos de cámara a partir de material ya grabado.",
-          "mini_headline": "La AI crea nuevos ángulos de cámara",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "EPYh_bgXJBk"
-              },
-              {
-                "t": "p",
-                "x": "Este truco de AI crea como por arte de magia nuevos ángulos de cámara: un short de Curious Refuge."
-              },
-              {
-                "t": "p",
-                "x": "En el tutorial completo, Curious Refuge prueba tres formas distintas de generar nuevos ángulos de cámara a partir de un video existente, con Seedance 2.5 tanto sobre material de acción real como sobre una escena AI-generated (generada con AI), desde dejar que la AI elija automáticamente la cobertura hasta definir a mano dónde debe ir exactamente cada nuevo ángulo de cámara."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI로 만드는\n새 카메라 앵글",
-          "body": "Curious Refuge가 촬영본에서 새 앵글을 뽑는 AI 기법을 보여준다.",
-          "mini_headline": "AI로 새 카메라 앵글 만들기",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "EPYh_bgXJBk"
-              },
-              {
-                "t": "p",
-                "x": "새 카메라 앵글을 마법처럼 만들어 내는 AI 기법 — Curious Refuge의 쇼츠 영상이다."
-              },
-              {
-                "t": "p",
-                "x": "전체 튜토리얼에서 Curious Refuge는 기존 영상에서 새 카메라 앵글을 만드는 세 가지 방법을 시험한다. 실사 촬영본과 AI-generated(AI 생성) 장면 모두에 Seedance 2.5를 쓰며, AI가 커버리지를 알아서 고르게 하는 방식부터 새 카메라 앵글의 위치를 직접 하나하나 지정하는 방식까지 다룬다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIで新たな\nカメラアングルを生成",
-          "body": "Curious Refugeが撮影済み映像から新たなアングルを生むAI技法を示す。",
-          "mini_headline": "AIで新しいカメラアングル",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "EPYh_bgXJBk"
-              },
-              {
-                "t": "p",
-                "x": "魔法のように新しいカメラアングルを生み出すAIの技 — Curious Refugeのショート動画だ。"
-              },
-              {
-                "t": "p",
-                "x": "フルのチュートリアルでCurious Refugeは、既存の映像から新しいカメラアングルを生成する三つの方法を試している。実写映像とAI-generated（AI生成）のシーンの両方でSeedance 2.5を使い、AIにカバレッジを自動で選ばせる方法から、新しいカメラアングルの位置を手動で正確に指定する方法までを扱う。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "一个AI技巧\n生成全新机位角度",
-          "body": "Curious Refuge演示一种AI技术，可从已拍摄素材中生成新的机位角度。",
-          "mini_headline": "AI生成全新机位",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "EPYh_bgXJBk"
-              },
-              {
-                "t": "p",
-                "x": "这个AI技巧能神奇地生成新的机位角度——来自Curious Refuge的短视频。"
-              },
-              {
-                "t": "p",
-                "x": "在完整教程中，Curious Refuge测试了从现有视频生成新机位角度的三种方法，在实拍素材和AI-generated（AI生成）场景上都使用了Seedance 2.5，从让AI自动选择镜头覆盖，到手动精确指定每个新机位的位置。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un truco de AI que crea\nnuevos ángulos de cámara",
-          "body": "Curious Refuge muestra una técnica de AI que genera nuevos ángulos de cámara a partir de material ya grabado.",
-          "mini_headline": "La AI crea nuevos ángulos de cámara",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "EPYh_bgXJBk"
-              },
-              {
-                "t": "p",
-                "x": "Este truco de AI crea como por arte de magia nuevos ángulos de cámara: un short de Curious Refuge."
-              },
-              {
-                "t": "p",
-                "x": "En el tutorial completo, Curious Refuge prueba tres formas distintas de generar nuevos ángulos de cámara a partir de un video existente, con Seedance 2.5 tanto sobre material de acción real como sobre una escena AI-generated (generada con AI), desde dejar que la AI elija automáticamente la cobertura hasta definir a mano dónde debe ir exactamente cada nuevo ángulo de cámara."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "runwaysafety",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Runway가 말하는\n실시간 영상 안전",
-      "body": "Roblox와 Runway가 실시간 AI 영상 생성의 안전·모더레이션을 논한다.",
-      "mini_headline": "Runway가 말하는 실시간 영상 안전",
-      "tool": "Movies",
-      "source": "Runway",
-      "url": "https://www.youtube.com/watch?v=NAKB5ixP6Kw",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "video",
-            "yt": "NAKB5ixP6Kw"
-          },
-          {
-            "t": "p",
-            "x": "실시간 영상 생성 시대의 새로운 안전 규칙 | Runway AI Summit SF 2026."
-          },
-          {
-            "t": "p",
-            "x": "Roblox의 안전 정책 VP Eliza Jacobs와 Runway의 AI 안전·책임 총괄 Conner McDowell이 Zentropy 공동창업자 Samit Chakrabarti와 함께 25분짜리 패널에 나와 실시간 영상 생성의 안전장치를 이야기한다. 신뢰·안전 분야에서 오래도록 가장 어려운 과제로 꼽혀 온 문제이자, 도구를 호출하는 에이전트까지 아우르는 실시간 AI 전반의 사례 연구이기도 하다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Runway on safety rules for\nreal-time video generation",
-          "body": "Roblox's Eliza Jacobs and Runway's Conner McDowell discuss safety and moderation for real-time AI video generation.",
-          "mini_headline": "Runway on real-time video safety",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "NAKB5ixP6Kw"
-              },
-              {
-                "t": "p",
-                "x": "The new rules of safety in an era of real-time video generation | Runway AI Summit SF 2026."
-              },
-              {
-                "t": "p",
-                "x": "Roblox's VP of safety policy Eliza Jacobs and Runway's head of AI safety and responsibility Conner McDowell join Zentropy co-founder Samit Chakrabarti for a 25-minute panel on safeguarding real-time video generation — historically one of the hardest problems in trust and safety, and a case study for real-time AI more generally, including agents making tool calls."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Runway가 말하는\n실시간 영상 안전",
-          "body": "Roblox와 Runway가 실시간 AI 영상 생성의 안전·모더레이션을 논한다.",
-          "mini_headline": "Runway가 말하는 실시간 영상 안전",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "NAKB5ixP6Kw"
-              },
-              {
-                "t": "p",
-                "x": "실시간 영상 생성 시대의 새로운 안전 규칙 | Runway AI Summit SF 2026."
-              },
-              {
-                "t": "p",
-                "x": "Roblox의 안전 정책 VP Eliza Jacobs와 Runway의 AI 안전·책임 총괄 Conner McDowell이 Zentropy 공동창업자 Samit Chakrabarti와 함께 25분짜리 패널에 나와 실시간 영상 생성의 안전장치를 이야기한다. 신뢰·안전 분야에서 오래도록 가장 어려운 과제로 꼽혀 온 문제이자, 도구를 호출하는 에이전트까지 아우르는 실시간 AI 전반의 사례 연구이기도 하다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Runwayが語る\nリアルタイム映像の安全",
-          "body": "RobloxとRunwayがリアルタイムAI映像生成の安全とモデレーションを語る。",
-          "mini_headline": "Runway、リアルタイム映像の安全",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "NAKB5ixP6Kw"
-              },
-              {
-                "t": "p",
-                "x": "リアルタイム映像生成時代の新しい安全ルール | Runway AI Summit SF 2026。"
-              },
-              {
-                "t": "p",
-                "x": "Robloxの安全ポリシー担当VPであるEliza Jacobsと、RunwayのAI安全・責任部門責任者Conner McDowellが、Zentropy共同創業者Samit Chakrabartiとともに25分のパネルに登壇し、リアルタイム映像生成の安全確保について議論する。これは信頼と安全の分野で歴史的に最も難しい課題の一つであり、ツールを呼び出すエージェントを含むリアルタイムAI全般のケーススタディでもある。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Runway谈实时视频\n生成的安全规则",
-          "body": "Roblox与Runway人士探讨实时AI视频生成的安全与审核。",
-          "mini_headline": "Runway谈实时视频安全",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "NAKB5ixP6Kw"
-              },
-              {
-                "t": "p",
-                "x": "实时视频生成时代的安全新规则 | Runway AI Summit SF 2026。"
-              },
-              {
-                "t": "p",
-                "x": "Roblox安全政策VP Eliza Jacobs与Runway AI安全与责任主管Conner McDowell，同Zentropy联合创始人Samit Chakrabarti一起参加一场25分钟的座谈，讨论如何保障实时视频生成的安全——这历来是信任与安全领域最棘手的问题之一，也是更广泛的实时AI（包括调用工具的智能体）的一个案例。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Runway: reglas de seguridad\nde video generado en tiempo real",
-          "body": "Eliza Jacobs, de Roblox, y Conner McDowell, de Runway, debaten seguridad y moderación del video AI en tiempo real.",
-          "mini_headline": "Runway y la seguridad del video en tiempo real",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "NAKB5ixP6Kw"
-              },
-              {
-                "t": "p",
-                "x": "Las nuevas reglas de seguridad en la era de la generación de video en tiempo real | Runway AI Summit SF 2026."
-              },
-              {
-                "t": "p",
-                "x": "Eliza Jacobs, VP de política de seguridad de Roblox, y Conner McDowell, responsable de seguridad y responsabilidad de AI en Runway, se suman a Samit Chakrabarti, cofundador de Zentropy, en un panel de 25 minutos sobre cómo proteger la generación de video en tiempo real, históricamente uno de los problemas más difíciles en confianza y seguridad, y un caso de estudio para la AI en tiempo real en general, incluidos los agentes que hacen llamadas a herramientas."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Runway, 실시간 영상\n생성의 안전 규칙",
-          "body": "Roblox와 Runway가 실시간 AI 영상 생성의 안전·모더레이션을 논한다.",
-          "mini_headline": "Runway가 말하는 실시간 영상 안전",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "NAKB5ixP6Kw"
-              },
-              {
-                "t": "p",
-                "x": "실시간 영상 생성 시대의 새로운 안전 규칙 | Runway AI Summit SF 2026."
-              },
-              {
-                "t": "p",
-                "x": "Roblox의 안전 정책 VP Eliza Jacobs와 Runway의 AI 안전·책임 총괄 Conner McDowell이 Zentropy 공동창업자 Samit Chakrabarti와 함께 25분짜리 패널에 나와 실시간 영상 생성의 안전장치를 논한다. 이 문제는 신뢰·안전 분야에서 오랫동안 가장 어려운 과제로 꼽혔고, 도구를 호출하는 에이전트를 포함한 실시간 AI 전반의 사례 연구이기도 하다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Runwayが語る\nリアルタイム映像の安全",
-          "body": "RobloxとRunwayがリアルタイムAI映像生成の安全とモデレーションを語る。",
-          "mini_headline": "Runway、リアルタイム映像の安全",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "NAKB5ixP6Kw"
-              },
-              {
-                "t": "p",
-                "x": "リアルタイム映像生成時代の新しい安全ルール | Runway AI Summit SF 2026。"
-              },
-              {
-                "t": "p",
-                "x": "Robloxの安全ポリシー担当VPであるEliza Jacobsと、RunwayのAI安全・責任部門責任者Conner McDowellが、Zentropy共同創業者Samit Chakrabartiとともに25分のパネルに登壇し、リアルタイム映像生成の安全確保について議論する。これは信頼と安全の分野で歴史的に最も難しい課題の一つであり、ツールを呼び出すエージェントを含むリアルタイムAI全般のケーススタディでもある。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Runway谈实时视频\n生成的安全规则",
-          "body": "Roblox与Runway人士探讨实时AI视频生成的安全与审核。",
-          "mini_headline": "Runway谈实时视频安全",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "NAKB5ixP6Kw"
-              },
-              {
-                "t": "p",
-                "x": "实时视频生成时代的安全新规则 | Runway AI Summit SF 2026。"
-              },
-              {
-                "t": "p",
-                "x": "Roblox安全政策VP Eliza Jacobs与Runway AI安全与责任主管Conner McDowell，同Zentropy联合创始人Samit Chakrabarti一起参加一场25分钟的座谈，讨论如何保障实时视频生成的安全——这历来是信任与安全领域最棘手的问题之一，也是更广泛的实时AI（包括调用工具的智能体）的一个案例。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Runway: reglas de seguridad\nde video generado en tiempo real",
-          "body": "Eliza Jacobs, de Roblox, y Conner McDowell, de Runway, debaten seguridad y moderación del video AI en tiempo real.",
-          "mini_headline": "Runway y la seguridad del video en tiempo real",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "NAKB5ixP6Kw"
-              },
-              {
-                "t": "p",
-                "x": "Las nuevas reglas de seguridad en la era de la generación de video en tiempo real | Runway AI Summit SF 2026."
-              },
-              {
-                "t": "p",
-                "x": "Eliza Jacobs, VP de política de seguridad de Roblox, y Conner McDowell, responsable de seguridad y responsabilidad de AI en Runway, se suman a Samit Chakrabarti, cofundador de Zentropy, en un panel de 25 minutos sobre cómo proteger la generación de video en tiempo real, históricamente uno de los problemas más difíciles en confianza y seguridad, y un caso de estudio para la AI en tiempo real en general, incluidos los agentes que hacen llamadas a herramientas."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "vcat-tvasahi",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "브이캣, TV아사히 사극\nAI 영상 제작 참여",
-      "body": "브이캣이 TV아사히 7부작 사극의 고난도 액션을 실사·AI·VFX로 구현했다.",
-      "mini_headline": "브이캣, 日 사극 AI 영상 참여",
-      "tool": "Movies",
-      "source": "VentureSquare",
-      "url": "https://www.venturesquare.net/1122539/",
-      "accent": "#00a86b",
+      "source": "Cartoon Brew",
+      "url": "https://www.cartoonbrew.com/interviews/rintaro-interview-busan-metropolis-galaxy-express-268512.html",
+      "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.venturesquare.net/wp-content/uploads/2026/10/vcat.png",
-            "cap": "브이캣, 日 TV아사히·넷플릭스 공개 사극 시리즈에 AI 영상 제작사로 참여했다. (자료 제공: 브이캣)"
+            "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Rintaro.jpg",
+            "cap": "2026 Busan International Film Festival(부산국제영화제)에 선 Rintaro"
           },
           {
             "t": "p",
-            "x": "생성형 인공지능(AI) 영상의 활용 범위가 광고와 숏폼을 넘어 방송 드라마로 옮겨가고 있다. 올인원 AI 마케팅 에이전트 브이캣(VCAT.AI, 대표 정범진)은 일본 TV아사히의 7부작 사극 드라마 ‘사나다 주유시(真田十勇士)’에 AI 영상 제작사로 참여했다고 밝혔다."
+            "x": "Galaxy Express 999와 Metropolis를 연출한 85세(85-year-old) 감독은 제31회 부산국제영화제(31st Busan International Film Festival)에서 마스터클래스 ‘A Living Legend in Japanese Animation’을 마친 뒤 라운드테이블에서 Cartoon Brew와 이야기를 나눴다."
+          },
+          {
+            "t": "video",
+            "yt": "aen2v31UjqA"
           },
           {
             "t": "p",
-            "x": "‘사나다 주유시’는 일본 전국시대 무장 사나다 유키무라를 섬겼다고 전해지는 10명의 가신 이야기를 그린 작품이다. TV아사히와 일본 영화사 도에이(東映)가 공동 제작했으며, 23일 TV아사히에서 첫 방송된 뒤 24일부터 넷플릭스를 통해 공개된다."
+            "x": "리메이크 문화를 두고 그는 “전 세계 시장에 초점을 맞춘 것이 원인이라고 본다. 이미 안전하고 인기 있는 과거의 것을 되살리면 더 많은 돈이 들어오기 때문”이라고 말했다. 새로운 미래를 만들려면 “따르는 위험을 받아들여야 한다… 이대로라면 미래는 없을 것이기 때문”이라고 했다."
           },
           {
             "t": "p",
-            "x": "브이캣은 이번 작품에서 배우와 카메라의 움직임이 많은 고난도 액션 장면 제작을 맡았다. 실제 촬영한 영상의 배경을 변경하거나 인물을 추가하는 방식으로 AI와 VFX 기술을 결합했다. 인물과 배경, 건물 등은 일본 전국시대 고증 자료를 토대로 구현했다."
+            "x": "그는 리메이크 문제를 생성형 AI와 엮었다. “AI 역시 과거 작품의 리메이크 쪽으로 밀어붙일 것이다. AI는 평균값이나 평균치를 추천하는 것이고, 그것이 추천할 수 있는 안전한 선택지이기 때문”이라는 것이다. 오리지널 작품이 예전만큼 성공하지 못할 수도 있다는 경고도 덧붙였다."
           },
           {
             "t": "p",
-            "x": "이번 협업은 기존 VFX만으로 처리하기 어려운 장면과 늘어난 작업 물량에 대응하기 위해 TV아사히 제작진이 추가 AI 제작사를 찾으면서 성사됐다. 회사에 따르면 이번 작품에 참여한 한국 AI 제작사는 브이캣이 유일하다. 브이캣은 야외와 실내에서 촬영한 영상을 자연스럽게 이어 붙이는 작업도 수행했다."
-          },
-          {
-            "t": "p",
-            "x": "드라마 공개를 앞두고 브이캣은 별도의 실사 촬영 없이 전 과정을 AI로 제작한 홍보 영상을 선보였다. 해당 영상은 지난 19일(현지시간) 미국 뉴욕 타임스퀘어 전광판에 송출됐으며, 21일에는 일본 지상파 방송 프로그램에서도 소개됐다."
-          },
-          {
-            "t": "p",
-            "x": "정범진 브이캣 대표는 “일본 방송 현장에서 검증한 역량을 바탕으로 글로벌 방송·엔터테인먼트 시장에서 AI 영상 제작의 새로운 기준을 만들어가겠다”고 말했다."
+            "x": "AI와 협업하는 문제에는 “감독으로서 AI를 어떻게 쓸지 고민은 하지만, 아주, 아주 신중하게 하고 싶다”고 말했다. AI를 칼날에 비유한 그는 “우리가 AI를 일상에 얼마나 깊이 들여놓았는지 생각해 봐야 한다”고 했다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "브이캣, TV아사히 사극\nAI 영상 제작 참여",
-          "body": "브이캣이 TV아사히 7부작 사극의 고난도 액션을 실사·AI·VFX로 구현했다.",
-          "mini_headline": "브이캣, 日 사극 AI 영상 참여",
+        "en": {
+          "headline": "Rintaro warns AI pulls\nanime toward the average",
+          "body": "Rintaro argues generative AI recommends the average and pushes anime toward remaking past works instead of new ones.",
+          "mini_headline": "Rintaro on AI and anime remakes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.venturesquare.net/wp-content/uploads/2026/10/vcat.png",
-                "cap": "브이캣, 日 TV아사히·넷플릭스 공개 사극 시리즈에 AI 영상 제작사로 참여했다. (자료 제공: 브이캣)"
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Rintaro.jpg",
+                "cap": "Rintaro at the 2026 Busan International Film Festival"
               },
               {
                 "t": "p",
-                "x": "생성형 인공지능(AI) 영상의 활용 범위가 광고와 숏폼을 넘어 방송 드라마로 옮겨가고 있다. 올인원 AI 마케팅 에이전트 브이캣(VCAT.AI, 대표 정범진)은 일본 TV아사히의 7부작 사극 드라마 ‘사나다 주유시(真田十勇士)’에 AI 영상 제작사로 참여했다고 밝혔다."
+                "x": "At the 31st Busan International Film Festival, the 85-year-old director of Galaxy Express 999 and Metropolis spoke to Cartoon Brew at a roundtable after his masterclass, A Living Legend in Japanese Animation."
+              },
+              {
+                "t": "video",
+                "yt": "aen2v31UjqA"
               },
               {
                 "t": "p",
-                "x": "‘사나다 주유시’는 일본 전국시대 무장 사나다 유키무라를 섬겼다고 전해지는 10명의 가신 이야기를 그린 작품이다. TV아사히와 일본 영화사 도에이(東映)가 공동 제작했으며, 23일 TV아사히에서 첫 방송된 뒤 24일부터 넷플릭스를 통해 공개된다."
+                "x": "On the culture of remakes, he said: “I think this focus on the market worldwide has been the cause because it brings more money in to bring things back from the past that are already safe and popular.” If we were to create a new future, “we have to embrace the risks involved… Because at this rate, there will be no future.”"
               },
               {
                 "t": "p",
-                "x": "브이캣은 이번 작품에서 배우와 카메라의 움직임이 많은 고난도 액션 장면 제작을 맡았다. 실제 촬영한 영상의 배경을 변경하거나 인물을 추가하는 방식으로 AI와 VFX 기술을 결합했다. 인물과 배경, 건물 등은 일본 전국시대 고증 자료를 토대로 구현했다."
+                "x": "He linked remakes to generative AI: “AI will also be pushing towards remaking works from the past because AI is about recommending the mean or the average, and that is the safe option that you can recommend.” Original works, he warned, may not be as successful as before."
               },
               {
                 "t": "p",
-                "x": "이번 협업은 기존 VFX만으로 처리하기 어려운 장면과 늘어난 작업 물량에 대응하기 위해 TV아사히 제작진이 추가 AI 제작사를 찾으면서 성사됐다. 회사에 따르면 이번 작품에 참여한 한국 AI 제작사는 브이캣이 유일하다. 브이캣은 야외와 실내에서 촬영한 영상을 자연스럽게 이어 붙이는 작업도 수행했다."
-              },
-              {
-                "t": "p",
-                "x": "드라마 공개를 앞두고 브이캣은 별도의 실사 촬영 없이 전 과정을 AI로 제작한 홍보 영상을 선보였다. 해당 영상은 지난 19일(현지시간) 미국 뉴욕 타임스퀘어 전광판에 송출됐으며, 21일에는 일본 지상파 방송 프로그램에서도 소개됐다."
-              },
-              {
-                "t": "p",
-                "x": "정범진 브이캣 대표는 “일본 방송 현장에서 검증한 역량을 바탕으로 글로벌 방송·엔터테인먼트 시장에서 AI 영상 제작의 새로운 기준을 만들어가겠다”고 말했다."
+                "x": "On collaborating with AI, “as a director, I do think about how to use AI, but I would want to do it very, very carefully.” He likened AI to a blade and said “we need to think about how far we’ve let AI into our everyday lives.”"
               }
             ]
           }
         },
-        "en": {
-          "headline": "VCAT joins TV Asahi period drama\nfor AI video production",
-          "body": "VCAT created demanding action scenes for a 7-part TV Asahi period drama using live action, AI and VFX.",
-          "mini_headline": "VCAT joins Japanese period drama for AI video",
+        "ko": {
+          "headline": "Rintaro, AI가\n애니를 평균으로 끈다",
+          "body": "Rintaro는 생성형 AI가 평균을 추천해 애니메이션이 리메이크로 쏠린다고 봤다.",
+          "mini_headline": "Rintaro가 본 AI와 애니 리메이크",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.venturesquare.net/wp-content/uploads/2026/10/vcat.png",
-                "cap": "VCAT took part as an AI video production company in a period drama series released by Japan's TV Asahi and Netflix. (Image: VCAT)"
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Rintaro.jpg",
+                "cap": "2026 Busan International Film Festival(부산국제영화제)에 선 Rintaro"
               },
               {
                 "t": "p",
-                "x": "The use of generative artificial intelligence (AI) video is moving beyond advertising and short-form content into broadcast drama. VCAT (VCAT.AI, CEO Jeong Beom-jin), an all-in-one AI marketing agent, said it took part as an AI video production company in 'Sanada Juyushi (真田十勇士)', a 7-part period drama from Japan's TV Asahi."
+                "x": "Galaxy Express 999와 Metropolis를 연출한 85세(85-year-old) 감독은 제31회 부산국제영화제(31st Busan International Film Festival)에서 마스터클래스 ‘A Living Legend in Japanese Animation’을 마친 뒤 라운드테이블에서 Cartoon Brew와 이야기를 나눴다."
+              },
+              {
+                "t": "video",
+                "yt": "aen2v31UjqA"
               },
               {
                 "t": "p",
-                "x": "'Sanada Juyushi' tells the story of 10 retainers said to have served Sanada Yukimura, a warlord of Japan's Sengoku period. It was co-produced by TV Asahi and Japanese film studio Toei (東映); it premiered on TV Asahi on the 23rd and is available on Netflix from the 24th."
+                "x": "리메이크 문화를 두고 그는 “전 세계 시장에 초점을 맞춘 것이 원인이라고 본다. 이미 안전하고 인기 있는 과거의 것을 되살리면 더 많은 돈이 들어오기 때문”이라고 말했다. 새로운 미래를 만들려면 “따르는 위험을 받아들여야 한다… 이대로라면 미래는 없을 것이기 때문”이라고 했다."
               },
               {
                 "t": "p",
-                "x": "On this production, VCAT handled demanding action scenes with a lot of actor and camera movement. It combined AI and VFX technology by changing the backgrounds of live-action footage or adding characters. Characters, backgrounds and buildings were built on historical reference material from Japan's Sengoku period."
+                "x": "그는 리메이크 문제를 생성형 AI와 엮었다. “AI 역시 과거 작품의 리메이크 쪽으로 밀어붙일 것이다. AI는 평균값이나 평균치를 추천하는 것이고, 그것이 추천할 수 있는 안전한 선택지이기 때문”이라는 것이다. 오리지널 작품이 예전만큼 성공하지 못할 수도 있다는 경고도 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "The collaboration came about when the TV Asahi production team sought an additional AI production company to handle scenes that were hard to process with conventional VFX alone and a growing workload. According to the company, VCAT is the only Korean AI production company to take part in the production. VCAT also seamlessly joined footage shot outdoors and indoors."
-              },
-              {
-                "t": "p",
-                "x": "Ahead of the drama's release, VCAT unveiled a promotional video produced entirely with AI, without any separate live-action shoot. The video was shown on a billboard in Times Square, New York, U.S. on the 19th (local time), and was also featured on a Japanese terrestrial broadcast program on the 21st."
-              },
-              {
-                "t": "p",
-                "x": "VCAT CEO Jeong Beom-jin said, “Building on capabilities proven on Japanese broadcast sets, we will set a new standard for AI video production in the global broadcast and entertainment market.”"
+                "x": "AI와 협업하는 문제에는 “감독으로서 AI를 어떻게 쓸지 고민은 하지만, 아주, 아주 신중하게 하고 싶다”고 말했다. AI를 칼날에 비유한 그는 “우리가 AI를 일상에 얼마나 깊이 들여놓았는지 생각해 봐야 한다”고 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "VCAT、TV朝日の時代劇\nAI映像制作に参加",
-          "body": "VCATがTV朝日の全7話の時代劇の高難度アクションを実写・AI・VFXで実現した。",
-          "mini_headline": "VCAT、日本の時代劇でAI映像に参加",
+          "headline": "Rintaro、AIが\nアニメを平均に寄せると警告",
+          "body": "Rintaroは、生成AIが平均を勧め、アニメを過去作のリメイクへ向かわせると説く。",
+          "mini_headline": "RintaroがみるAIとアニメのリメイク",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.venturesquare.net/wp-content/uploads/2026/10/vcat.png",
-                "cap": "VCATは、日本のTV朝日・Netflixで公開される時代劇シリーズにAI映像制作会社として参加した。（資料提供：VCAT）"
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Rintaro.jpg",
+                "cap": "2026 Busan International Film Festival(釜山国際映画祭)での Rintaro"
               },
               {
                 "t": "p",
-                "x": "生成AI（人工知能、AI）映像の活用範囲が、広告やショート動画を越えて放送ドラマへと広がっている。オールインワンAIマーケティングエージェントのVCAT（VCAT.AI、代表チョン・ボムジン）は、日本のTV朝日による全7話の時代劇ドラマ『真田十勇士』にAI映像制作会社として参加したと明らかにした。"
+                "x": "第31回釜山国際映画祭(31st Busan International Film Festival)で、Galaxy Express 999 や Metropolis を監督した85歳(85-year-old)の監督は、マスタークラス「A Living Legend in Japanese Animation」の後に開かれた円卓取材で Cartoon Brew の取材に応じた。"
+              },
+              {
+                "t": "video",
+                "yt": "aen2v31UjqA"
               },
               {
                 "t": "p",
-                "x": "『真田十勇士』は、戦国武将・真田幸村に仕えたと伝えられる10人の家臣の物語を描いた作品だ。TV朝日と日本の映画会社・東映が共同制作し、23日にTV朝日で初回放送された後、24日からNetflixで配信される。"
+                "x": "リメイク文化について彼は「世界市場に目を向けていることが原因だと思う。すでに安全で人気のある過去のものを復活させれば、より多くのお金が入るからだ」と語った。新しい未来をつくるなら「伴うリスクを受け入れなければならない…このままでは、未来はないのだから」という。"
               },
               {
                 "t": "p",
-                "x": "VCATは本作で、俳優とカメラの動きが多い高難度のアクションシーンの制作を担当した。実際に撮影した映像の背景を変えたり人物を加えたりする方法で、AIとVFXの技術を組み合わせた。人物や背景、建物などは日本の戦国時代の考証資料に基づいて再現した。"
+                "x": "彼はリメイクと生成AIを結びつけた。「AIもまた過去作のリメイクへと押しやるだろう。AIとは平均値や平均を勧めるものであり、それが勧められる安全な選択肢だからだ」。オリジナル作品はかつてほど成功しないかもしれない、と彼は警告した。"
               },
               {
                 "t": "p",
-                "x": "今回の協業は、従来のVFXだけでは処理が難しいシーンと増えた作業量に対応するため、TV朝日の制作陣が追加のAI制作会社を探したことで実現した。同社によると、本作に参加した韓国のAI制作会社はVCATのみだ。VCATは屋外と屋内で撮影した映像を自然につなぎ合わせる作業も手がけた。"
-              },
-              {
-                "t": "p",
-                "x": "ドラマ公開を前に、VCATは別途の実写撮影なしに全工程をAIで制作したプロモーション映像を公開した。この映像は19日（現地時間）に米国ニューヨーク・タイムズスクエアの大型ビジョンで放映され、21日には日本の地上波番組でも紹介された。"
-              },
-              {
-                "t": "p",
-                "x": "VCATのチョン・ボムジン代表は「日本の放送現場で検証された力をもとに、グローバルな放送・エンターテインメント市場でAI映像制作の新たな基準をつくっていく」と述べた。"
+                "x": "AIとの協働については「監督として、AIをどう使うかは考えるが、とても、とても慎重にやりたい」と語る。AIを刃物にたとえ、「私たちがAIをどこまで日常生活に入り込ませてしまったのか、考える必要がある」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "VCAT参与TV朝日古装剧\nAI影像制作",
-          "body": "VCAT以实拍、AI与VFX结合的方式，为TV朝日7集古装剧打造了高难度动作场面。",
-          "mini_headline": "VCAT参与日本古装剧AI影像制作",
+          "headline": "Rintaro警告\nAI把动画拉向平均",
+          "body": "Rintaro认为生成式AI推荐平均值，会把动画推向翻拍旧作而非新作。",
+          "mini_headline": "Rintaro谈AI与动画翻拍",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.venturesquare.net/wp-content/uploads/2026/10/vcat.png",
-                "cap": "VCAT以AI影像制作公司身份，参与了日本TV朝日与Netflix播出的古装剧集。（图片提供：VCAT）"
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Rintaro.jpg",
+                "cap": "2026 Busan International Film Festival（釜山国际电影节）上的 Rintaro"
               },
               {
                 "t": "p",
-                "x": "生成式人工智能（AI）影像的应用范围正从广告和短视频扩展到电视剧。一站式AI营销代理VCAT（VCAT.AI，代表郑范镇）表示，已作为AI影像制作公司参与日本TV朝日的7集古装剧《真田十勇士》。"
+                "x": "在第31届釜山国际电影节（31st Busan International Film Festival）上，执导过 Galaxy Express 999 和 Metropolis 的85岁（85-year-old）导演在大师班“A Living Legend in Japanese Animation”结束后的圆桌会上接受了 Cartoon Brew 的采访。"
+              },
+              {
+                "t": "video",
+                "yt": "aen2v31UjqA"
               },
               {
                 "t": "p",
-                "x": "《真田十勇士》讲述了据传曾侍奉日本战国时代武将真田幸村的10名家臣的故事。该剧由TV朝日与日本电影公司东映联合制作，23日在TV朝日首播，24日起在Netflix上线。"
+                "x": "谈及翻拍文化，他说：“我认为原因在于对全球市场的关注，因为把那些已经稳妥、受欢迎的旧作重新拿出来，能带来更多收入。”他表示，若要创造新的未来，“我们必须拥抱其中的风险……因为照这样下去，就不会有未来。”"
               },
               {
                 "t": "p",
-                "x": "VCAT在本剧中负责演员和镜头运动较多的高难度动作场面。通过更换实拍画面背景或添加人物的方式，将AI与VFX技术相结合。人物、背景和建筑等依据日本战国时代的考证资料呈现。"
+                "x": "他把翻拍与生成式AI联系起来：“AI也会推动翻拍旧作，因为AI的本质是推荐均值或平均水平，而这是可以推荐的稳妥选项。”他警告说，原创作品可能不再像从前那样成功。"
               },
               {
                 "t": "p",
-                "x": "此次合作源于TV朝日制作团队为应对仅靠传统VFX难以处理的场面和不断增加的工作量，寻找额外的AI制作公司。据该公司介绍，VCAT是唯一参与本剧的韩国AI制作公司。VCAT还完成了将室外与室内拍摄画面自然衔接的工作。"
-              },
-              {
-                "t": "p",
-                "x": "在剧集上线前，VCAT发布了一支无需另行实拍、全流程由AI制作的宣传片。该片于19日（当地时间）在美国纽约时代广场大屏幕播出，21日还在日本地面电视节目中得到介绍。"
-              },
-              {
-                "t": "p",
-                "x": "VCAT代表郑范镇表示：“我们将以在日本广播电视现场验证的能力为基础，在全球广播电视与娱乐市场树立AI影像制作的新标准。”"
+                "x": "谈到与AI合作，他说：“作为导演，我确实在考虑如何使用AI，但我会非常、非常谨慎。”他把AI比作刀刃，并说“我们需要想一想，我们已经让AI多深地进入了日常生活。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "VCAT se suma al drama de época\nde TV Asahi con video de AI",
-          "body": "VCAT recreó escenas de acción complejas de un drama de época de 7 episodios de TV Asahi con imagen real, AI y VFX.",
-          "mini_headline": "VCAT aporta video de AI a un drama de época japonés",
+          "headline": "Rintaro advierte que la AI\nempuja el anime hacia la media",
+          "body": "Rintaro sostiene que la AI generativa recomienda la media y empuja al anime a rehacer obras previas, no a crear nuevas.",
+          "mini_headline": "Rintaro, sobre la AI y los remakes de anime",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.venturesquare.net/wp-content/uploads/2026/10/vcat.png",
-                "cap": "VCAT participó como productora de video con AI en una serie de época estrenada por la japonesa TV Asahi y Netflix. (Imagen: VCAT)"
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Rintaro.jpg",
+                "cap": "Rintaro en el Busan International Film Festival 2026"
               },
               {
                 "t": "p",
-                "x": "El uso del video con inteligencia artificial (AI) generativa se está extendiendo más allá de la publicidad y los formatos cortos hacia el drama televisivo. VCAT (VCAT.AI, director ejecutivo Jeong Beom-jin), un agente de marketing con AI todo en uno, anunció que participó como productora de video con AI en 'Sanada Juyushi (真田十勇士)', un drama de época de 7 episodios de la cadena japonesa TV Asahi."
+                "x": "En la 31.ª edición (31st) del Busan International Film Festival, el director de 85 años (85-year-old) de Galaxy Express 999 y Metropolis habló con Cartoon Brew en una mesa redonda tras su clase magistral, A Living Legend in Japanese Animation."
+              },
+              {
+                "t": "video",
+                "yt": "aen2v31UjqA"
               },
               {
                 "t": "p",
-                "x": "'Sanada Juyushi' narra la historia de 10 vasallos que, según la tradición, sirvieron a Sanada Yukimura, un señor de la guerra del periodo Sengoku de Japón. Fue coproducida por TV Asahi y el estudio de cine japonés Toei (東映); se estrenó en TV Asahi el día 23 y estará disponible en Netflix a partir del 24."
+                "x": "Sobre la cultura de los remakes, dijo: “Creo que la causa ha sido este enfoque en el mercado mundial, porque recuperar cosas del pasado que ya son seguras y populares genera más dinero”. Si queremos crear un futuro nuevo, “tenemos que asumir los riesgos que implica… Porque a este ritmo, no habrá futuro”."
               },
               {
                 "t": "p",
-                "x": "En esta producción, VCAT se encargó de escenas de acción complejas con mucho movimiento de actores y cámara. Combinó tecnologías de AI y VFX cambiando el fondo de las imágenes filmadas o añadiendo personajes. Los personajes, fondos y edificios se recrearon a partir de documentación histórica del periodo Sengoku de Japón."
+                "x": "Vinculó los remakes con la AI generativa: “La AI también empujará hacia rehacer obras del pasado, porque la AI consiste en recomendar la media o el promedio, y esa es la opción segura que se puede recomendar”. Advirtió que las obras originales quizá no tengan tanto éxito como antes."
               },
               {
                 "t": "p",
-                "x": "La colaboración surgió cuando el equipo de producción de TV Asahi buscó una productora de AI adicional para afrontar escenas difíciles de resolver solo con VFX convencionales y un mayor volumen de trabajo. Según la empresa, VCAT es la única productora de AI surcoreana que participó en la obra. VCAT también unió de forma natural las imágenes rodadas en exteriores e interiores."
-              },
-              {
-                "t": "p",
-                "x": "Antes del estreno, VCAT presentó un video promocional producido íntegramente con AI, sin ningún rodaje real aparte. El video se proyectó el día 19 (hora local) en una pantalla de Times Square, en Nueva York, Estados Unidos, y el 21 se presentó también en un programa de la televisión abierta japonesa."
-              },
-              {
-                "t": "p",
-                "x": "El director ejecutivo de VCAT, Jeong Beom-jin, afirmó: “Con la capacidad demostrada en los sets de la televisión japonesa, estableceremos un nuevo estándar para la producción de video con AI en el mercado global de la televisión y el entretenimiento”."
+                "x": "Sobre colaborar con la AI: “Como director, sí pienso en cómo usar la AI, pero querría hacerlo con mucho, mucho cuidado”. Comparó la AI con una hoja afilada y dijo que “tenemos que pensar hasta qué punto hemos dejado entrar la AI en nuestra vida cotidiana”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "VCAT joins TV Asahi period drama\nfor AI video production",
-          "body": "VCAT created demanding action scenes for a 7-part TV Asahi period drama using live action, AI and VFX.",
-          "mini_headline": "VCAT joins Japanese period drama for AI video",
+        "ko": {
+          "headline": "Rintaro, AI가\n애니를 평균으로 끈다",
+          "body": "Rintaro는 생성형 AI가 평균을 추천해 애니메이션을 리메이크로 몬다고 봤다.",
+          "mini_headline": "Rintaro가 본 AI와 애니 리메이크",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.venturesquare.net/wp-content/uploads/2026/10/vcat.png",
-                "cap": "VCAT took part as an AI video production company in a period drama series released by Japan's TV Asahi and Netflix. (Image: VCAT)"
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Rintaro.jpg",
+                "cap": "2026 Busan International Film Festival(부산국제영화제)의 Rintaro"
               },
               {
                 "t": "p",
-                "x": "The use of generative artificial intelligence (AI) video is moving beyond advertising and short-form content into broadcast drama. VCAT (VCAT.AI, CEO Jeong Beom-jin), an all-in-one AI marketing agent, said it took part as an AI video production company in 'Sanada Juyushi (真田十勇士)', a 7-part period drama from Japan's TV Asahi."
+                "x": "제31회 부산국제영화제(31st Busan International Film Festival)에서 Galaxy Express 999와 Metropolis를 연출한 85세(85-year-old) 감독은 마스터클래스 ‘A Living Legend in Japanese Animation’을 마친 뒤 라운드테이블에서 Cartoon Brew와 이야기를 나눴다."
+              },
+              {
+                "t": "video",
+                "yt": "aen2v31UjqA"
               },
               {
                 "t": "p",
-                "x": "'Sanada Juyushi' tells the story of 10 retainers said to have served Sanada Yukimura, a warlord of Japan's Sengoku period. It was co-produced by TV Asahi and Japanese film studio Toei (東映); it premiered on TV Asahi on the 23rd and is available on Netflix from the 24th."
+                "x": "리메이크 문화에 대해 그는 “전 세계 시장에 초점을 맞춘 것이 원인이라고 본다. 이미 안전하고 인기 있는 과거의 것을 되살리면 더 많은 돈이 들어오기 때문”이라고 말했다. 새로운 미래를 만들려면 “따르는 위험을 받아들여야 한다… 이대로라면 미래는 없을 것이기 때문”이라고 했다."
               },
               {
                 "t": "p",
-                "x": "On this production, VCAT handled demanding action scenes with a lot of actor and camera movement. It combined AI and VFX technology by changing the backgrounds of live-action footage or adding characters. Characters, backgrounds and buildings were built on historical reference material from Japan's Sengoku period."
+                "x": "그는 리메이크를 생성형 AI와 연결했다. “AI 역시 과거 작품의 리메이크 쪽으로 밀어붙일 것이다. AI는 평균값이나 평균치를 추천하는 것이고, 그것이 추천할 수 있는 안전한 선택지이기 때문”이라는 것이다. 그는 오리지널 작품이 예전만큼 성공하지 못할 수 있다고 경고했다."
               },
               {
                 "t": "p",
-                "x": "The collaboration came about when the TV Asahi production team sought an additional AI production company to handle scenes that were hard to process with conventional VFX alone and a growing workload. According to the company, VCAT is the only Korean AI production company to take part in the production. VCAT also seamlessly joined footage shot outdoors and indoors."
-              },
-              {
-                "t": "p",
-                "x": "Ahead of the drama's release, VCAT unveiled a promotional video produced entirely with AI, without any separate live-action shoot. The video was shown on a billboard in Times Square, New York, U.S. on the 19th (local time), and was also featured on a Japanese terrestrial broadcast program on the 21st."
-              },
-              {
-                "t": "p",
-                "x": "VCAT CEO Jeong Beom-jin said, “Building on capabilities proven on Japanese broadcast sets, we will set a new standard for AI video production in the global broadcast and entertainment market.”"
+                "x": "AI와의 협업에 대해서는 “감독으로서 AI를 어떻게 쓸지 고민은 하지만, 아주, 아주 신중하게 하고 싶다”고 말했다. 그는 AI를 칼날에 비유하며 “우리가 AI를 일상에 얼마나 깊이 들여놓았는지 생각해 봐야 한다”고 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "VCAT、TV朝日の時代劇\nAI映像制作に参加",
-          "body": "VCATがTV朝日の全7話の時代劇の高難度アクションを実写・AI・VFXで実現した。",
-          "mini_headline": "VCAT、日本の時代劇でAI映像に参加",
+          "headline": "Rintaro、AIが\nアニメを平均に寄せると警告",
+          "body": "Rintaroは、生成AIが平均を勧め、アニメを過去作のリメイクへ向かわせると説く。",
+          "mini_headline": "RintaroがみるAIとアニメのリメイク",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.venturesquare.net/wp-content/uploads/2026/10/vcat.png",
-                "cap": "VCATは、日本のTV朝日・Netflixで公開される時代劇シリーズにAI映像制作会社として参加した。（資料提供：VCAT）"
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Rintaro.jpg",
+                "cap": "2026 Busan International Film Festival(釜山国際映画祭)での Rintaro"
               },
               {
                 "t": "p",
-                "x": "生成AI（人工知能、AI）映像の活用範囲が、広告やショート動画を越えて放送ドラマへと広がっている。オールインワンAIマーケティングエージェントのVCAT（VCAT.AI、代表チョン・ボムジン）は、日本のTV朝日による全7話の時代劇ドラマ『真田十勇士』にAI映像制作会社として参加したと明らかにした。"
+                "x": "第31回釜山国際映画祭(31st Busan International Film Festival)で、Galaxy Express 999 や Metropolis を監督した85歳(85-year-old)の監督は、マスタークラス「A Living Legend in Japanese Animation」の後に開かれた円卓取材で Cartoon Brew の取材に応じた。"
+              },
+              {
+                "t": "video",
+                "yt": "aen2v31UjqA"
               },
               {
                 "t": "p",
-                "x": "『真田十勇士』は、戦国武将・真田幸村に仕えたと伝えられる10人の家臣の物語を描いた作品だ。TV朝日と日本の映画会社・東映が共同制作し、23日にTV朝日で初回放送された後、24日からNetflixで配信される。"
+                "x": "リメイク文化について彼は「世界市場に目を向けていることが原因だと思う。すでに安全で人気のある過去のものを復活させれば、より多くのお金が入るからだ」と語った。新しい未来をつくるなら「伴うリスクを受け入れなければならない…このままでは、未来はないのだから」という。"
               },
               {
                 "t": "p",
-                "x": "VCATは本作で、俳優とカメラの動きが多い高難度のアクションシーンの制作を担当した。実際に撮影した映像の背景を変えたり人物を加えたりする方法で、AIとVFXの技術を組み合わせた。人物や背景、建物などは日本の戦国時代の考証資料に基づいて再現した。"
+                "x": "彼はリメイクと生成AIを結びつけた。「AIもまた過去作のリメイクへと押しやるだろう。AIとは平均値や平均を勧めるものであり、それが勧められる安全な選択肢だからだ」。オリジナル作品はかつてほど成功しないかもしれない、と彼は警告した。"
               },
               {
                 "t": "p",
-                "x": "今回の協業は、従来のVFXだけでは処理が難しいシーンと増えた作業量に対応するため、TV朝日の制作陣が追加のAI制作会社を探したことで実現した。同社によると、本作に参加した韓国のAI制作会社はVCATのみだ。VCATは屋外と屋内で撮影した映像を自然につなぎ合わせる作業も手がけた。"
-              },
-              {
-                "t": "p",
-                "x": "ドラマ公開を前に、VCATは別途の実写撮影なしに全工程をAIで制作したプロモーション映像を公開した。この映像は19日（現地時間）に米国ニューヨーク・タイムズスクエアの大型ビジョンで放映され、21日には日本の地上波番組でも紹介された。"
-              },
-              {
-                "t": "p",
-                "x": "VCATのチョン・ボムジン代表は「日本の放送現場で検証された力をもとに、グローバルな放送・エンターテインメント市場でAI映像制作の新たな基準をつくっていく」と述べた。"
+                "x": "AIとの協働については「監督として、AIをどう使うかは考えるが、とても、とても慎重にやりたい」と語る。AIを刃物にたとえ、「私たちがAIをどこまで日常生活に入り込ませてしまったのか、考える必要がある」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "VCAT参与TV朝日古装剧\nAI影像制作",
-          "body": "VCAT以实拍、AI与VFX结合的方式，为TV朝日7集古装剧打造了高难度动作场面。",
-          "mini_headline": "VCAT参与日本古装剧AI影像制作",
+          "headline": "Rintaro警告\nAI把动画拉向平均",
+          "body": "Rintaro认为生成式AI推荐平均值，会把动画推向翻拍旧作而非新作。",
+          "mini_headline": "Rintaro谈AI与动画翻拍",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.venturesquare.net/wp-content/uploads/2026/10/vcat.png",
-                "cap": "VCAT以AI影像制作公司身份，参与了日本TV朝日与Netflix播出的古装剧集。（图片提供：VCAT）"
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Rintaro.jpg",
+                "cap": "2026 Busan International Film Festival（釜山国际电影节）上的 Rintaro"
               },
               {
                 "t": "p",
-                "x": "生成式人工智能（AI）影像的应用范围正从广告和短视频扩展到电视剧。一站式AI营销代理VCAT（VCAT.AI，代表郑范镇）表示，已作为AI影像制作公司参与日本TV朝日的7集古装剧《真田十勇士》。"
+                "x": "在第31届釜山国际电影节（31st Busan International Film Festival）上，执导过 Galaxy Express 999 和 Metropolis 的85岁（85-year-old）导演在大师班“A Living Legend in Japanese Animation”结束后的圆桌会上接受了 Cartoon Brew 的采访。"
+              },
+              {
+                "t": "video",
+                "yt": "aen2v31UjqA"
               },
               {
                 "t": "p",
-                "x": "《真田十勇士》讲述了据传曾侍奉日本战国时代武将真田幸村的10名家臣的故事。该剧由TV朝日与日本电影公司东映联合制作，23日在TV朝日首播，24日起在Netflix上线。"
+                "x": "谈及翻拍文化，他说：“我认为原因在于对全球市场的关注，因为把那些已经稳妥、受欢迎的旧作重新拿出来，能带来更多收入。”他表示，若要创造新的未来，“我们必须拥抱其中的风险……因为照这样下去，就不会有未来。”"
               },
               {
                 "t": "p",
-                "x": "VCAT在本剧中负责演员和镜头运动较多的高难度动作场面。通过更换实拍画面背景或添加人物的方式，将AI与VFX技术相结合。人物、背景和建筑等依据日本战国时代的考证资料呈现。"
+                "x": "他把翻拍与生成式AI联系起来：“AI也会推动翻拍旧作，因为AI的本质是推荐均值或平均水平，而这是可以推荐的稳妥选项。”他警告说，原创作品可能不再像从前那样成功。"
               },
               {
                 "t": "p",
-                "x": "此次合作源于TV朝日制作团队为应对仅靠传统VFX难以处理的场面和不断增加的工作量，寻找额外的AI制作公司。据该公司介绍，VCAT是唯一参与本剧的韩国AI制作公司。VCAT还完成了将室外与室内拍摄画面自然衔接的工作。"
-              },
-              {
-                "t": "p",
-                "x": "在剧集上线前，VCAT发布了一支无需另行实拍、全流程由AI制作的宣传片。该片于19日（当地时间）在美国纽约时代广场大屏幕播出，21日还在日本地面电视节目中得到介绍。"
-              },
-              {
-                "t": "p",
-                "x": "VCAT代表郑范镇表示：“我们将以在日本广播电视现场验证的能力为基础，在全球广播电视与娱乐市场树立AI影像制作的新标准。”"
+                "x": "谈到与AI合作，他说：“作为导演，我确实在考虑如何使用AI，但我会非常、非常谨慎。”他把AI比作刀刃，并说“我们需要想一想，我们已经让AI多深地进入了日常生活。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "VCAT se suma al drama de época\nde TV Asahi con video de AI",
-          "body": "VCAT recreó escenas de acción complejas de un drama de época de 7 episodios de TV Asahi con imagen real, AI y VFX.",
-          "mini_headline": "VCAT aporta video de AI a un drama de época japonés",
+          "headline": "Rintaro advierte que la AI\nempuja el anime hacia la media",
+          "body": "Rintaro sostiene que la AI generativa recomienda la media y empuja al anime a rehacer obras previas, no a crear nuevas.",
+          "mini_headline": "Rintaro, sobre la AI y los remakes de anime",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.venturesquare.net/wp-content/uploads/2026/10/vcat.png",
-                "cap": "VCAT participó como productora de video con AI en una serie de época estrenada por la japonesa TV Asahi y Netflix. (Imagen: VCAT)"
+                "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Rintaro.jpg",
+                "cap": "Rintaro en el Busan International Film Festival 2026"
               },
               {
                 "t": "p",
-                "x": "El uso del video con inteligencia artificial (AI) generativa se está extendiendo más allá de la publicidad y los formatos cortos hacia el drama televisivo. VCAT (VCAT.AI, director ejecutivo Jeong Beom-jin), un agente de marketing con AI todo en uno, anunció que participó como productora de video con AI en 'Sanada Juyushi (真田十勇士)', un drama de época de 7 episodios de la cadena japonesa TV Asahi."
+                "x": "En la 31.ª edición (31st) del Busan International Film Festival, el director de 85 años (85-year-old) de Galaxy Express 999 y Metropolis habló con Cartoon Brew en una mesa redonda tras su clase magistral, A Living Legend in Japanese Animation."
+              },
+              {
+                "t": "video",
+                "yt": "aen2v31UjqA"
               },
               {
                 "t": "p",
-                "x": "'Sanada Juyushi' narra la historia de 10 vasallos que, según la tradición, sirvieron a Sanada Yukimura, un señor de la guerra del periodo Sengoku de Japón. Fue coproducida por TV Asahi y el estudio de cine japonés Toei (東映); se estrenó en TV Asahi el día 23 y estará disponible en Netflix a partir del 24."
+                "x": "Sobre la cultura de los remakes, dijo: “Creo que la causa ha sido este enfoque en el mercado mundial, porque recuperar cosas del pasado que ya son seguras y populares genera más dinero”. Si queremos crear un futuro nuevo, “tenemos que asumir los riesgos que implica… Porque a este ritmo, no habrá futuro”."
               },
               {
                 "t": "p",
-                "x": "En esta producción, VCAT se encargó de escenas de acción complejas con mucho movimiento de actores y cámara. Combinó tecnologías de AI y VFX cambiando el fondo de las imágenes filmadas o añadiendo personajes. Los personajes, fondos y edificios se recrearon a partir de documentación histórica del periodo Sengoku de Japón."
+                "x": "Vinculó los remakes con la AI generativa: “La AI también empujará hacia rehacer obras del pasado, porque la AI consiste en recomendar la media o el promedio, y esa es la opción segura que se puede recomendar”. Advirtió que las obras originales quizá no tengan tanto éxito como antes."
               },
               {
                 "t": "p",
-                "x": "La colaboración surgió cuando el equipo de producción de TV Asahi buscó una productora de AI adicional para afrontar escenas difíciles de resolver solo con VFX convencionales y un mayor volumen de trabajo. Según la empresa, VCAT es la única productora de AI surcoreana que participó en la obra. VCAT también unió de forma natural las imágenes rodadas en exteriores e interiores."
+                "x": "Sobre colaborar con la AI: “Como director, sí pienso en cómo usar la AI, pero querría hacerlo con mucho, mucho cuidado”. Comparó la AI con una hoja afilada y dijo que “tenemos que pensar hasta qué punto hemos dejado entrar la AI en nuestra vida cotidiana”."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "atfaizone",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Asia TV Forum\n싱가포르서 AI 존 연다",
+      "body": "Asia TV Forum에 AI·IP 존과 AI Hackathon 결선이 선다.",
+      "mini_headline": "ATF에 AI 존 생긴다",
+      "tool": "Movies",
+      "source": "Variety",
+      "url": "https://variety.com/2026/tv/markets-festivals/singapore-media-festival-asia-creator-summit-ai-zone-atf-1236913825/",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://variety.com/wp-content/uploads/2026/10/Singapore-Media-Festival-logo.jpg?w=1000&h=563&crop=1",
+            "cap": "Singapore Media Festival"
+          },
+          {
+            "t": "p",
+            "x": "IMDA가 주최하는 Singapore Media Festival은 12월 1–5일 열리는 다음 행사에서 오랜 역사의 Asia TV Forum & Market(ATF)과 나란히 Asia Creator Summit을 새로 선보인다."
+          },
+          {
+            "t": "p",
+            "x": "ACS는 12월 4–5일 Marina Bay Sands에서 “Create. Monetize. Scale.”을 내걸고 20개가 넘는 세션으로 열린다. 제27회(27th)를 맞는 ATF는 12월 1–4일 돌아오며, 60개 국가·지역에서 콘텐츠 업계 관계자 5,000명 이상이 찾을 전망이다."
+          },
+          {
+            "t": "p",
+            "x": "새 섹션 “The AI Era | Entertainment Reimagined”는 전용 프로그램과 전시 존을 묶어, AI가 콘텐츠 제작·IP 권리·규제에 갖는 의미와 창작물을 지키는 방법을 다룬다. Huace Group, Moonmax, Studio Meta K, Motion Picture Association, Television Academy, WIPO가 참여한다. Yoywow Space와 Visify가 후원하는 AI Hackathon 2026 결선도 ATF에서 열리며, 라이브 창작 경연과 상영이 곁들여진다."
+          },
+          {
+            "t": "p",
+            "x": "올해는 마이크로드라마 비중이 더 커진다. RX Global의 Yeow Hui Leng은 “AI를 포함한 신기술이 이 논의의 핵심이 될 것”이라고 말했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Asia TV Forum adds an\nAI zone in Singapore",
+          "body": "Asia TV Forum adds an AI strand and zone on content creation, IP rights and regulation, plus an AI Hackathon final.",
+          "mini_headline": "ATF adds an AI zone",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/Singapore-Media-Festival-logo.jpg?w=1000&h=563&crop=1",
+                "cap": "Singapore Media Festival"
               },
               {
                 "t": "p",
-                "x": "Antes del estreno, VCAT presentó un video promocional producido íntegramente con AI, sin ningún rodaje real aparte. El video se proyectó el día 19 (hora local) en una pantalla de Times Square, en Nueva York, Estados Unidos, y el 21 se presentó también en un programa de la televisión abierta japonesa."
+                "x": "The Singapore Media Festival, hosted by IMDA, will launch the Asia Creator Summit alongside the long-running Asia TV Forum & Market (ATF) when its next edition takes place Dec. 1–5."
               },
               {
                 "t": "p",
-                "x": "El director ejecutivo de VCAT, Jeong Beom-jin, afirmó: “Con la capacidad demostrada en los sets de la televisión japonesa, estableceremos un nuevo estándar para la producción de video con AI en el mercado global de la televisión y el entretenimiento”."
+                "x": "ACS will run Dec. 4–5 at Marina Bay Sands with more than 20 sessions under the banner “Create. Monetize. Scale.” ATF returns Dec. 1–4 for its 27th edition, with more than 5,000 content players from 60 countries and regions expected."
+              },
+              {
+                "t": "p",
+                "x": "A new strand, “The AI Era | Entertainment Reimagined,” will combine a dedicated program with a zone focused on what AI means for content creation, IP rights and regulation, and on how creative work can be safeguarded. Huace Group, Moonmax, Studio Meta K, the Motion Picture Association, the Television Academy and WIPO will take part. ATF will also host the final round of AI Hackathon 2026, backed by Yoywow Space and Visify, with a live creative contest and screenings."
+              },
+              {
+                "t": "p",
+                "x": "Microdrama will be a bigger focus this year. “Emerging technology, including AI, will be a key part of this conversation,” said Yeow Hui Leng of RX Global."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Asia TV Forum\n싱가포르서 AI 존 연다",
+          "body": "Asia TV Forum에 AI·IP 존과 AI Hackathon 결선이 선다.",
+          "mini_headline": "ATF에 AI 존 생긴다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/Singapore-Media-Festival-logo.jpg?w=1000&h=563&crop=1",
+                "cap": "Singapore Media Festival"
+              },
+              {
+                "t": "p",
+                "x": "IMDA가 주최하는 Singapore Media Festival은 12월 1–5일 열리는 다음 행사에서 오랜 역사의 Asia TV Forum & Market(ATF)과 나란히 Asia Creator Summit을 새로 선보인다."
+              },
+              {
+                "t": "p",
+                "x": "ACS는 12월 4–5일 Marina Bay Sands에서 “Create. Monetize. Scale.”을 내걸고 20개가 넘는 세션으로 열린다. 제27회(27th)를 맞는 ATF는 12월 1–4일 돌아오며, 60개 국가·지역에서 콘텐츠 업계 관계자 5,000명 이상이 찾을 전망이다."
+              },
+              {
+                "t": "p",
+                "x": "새 섹션 “The AI Era | Entertainment Reimagined”는 전용 프로그램과 전시 존을 묶어, AI가 콘텐츠 제작·IP 권리·규제에 갖는 의미와 창작물을 지키는 방법을 다룬다. Huace Group, Moonmax, Studio Meta K, Motion Picture Association, Television Academy, WIPO가 참여한다. Yoywow Space와 Visify가 후원하는 AI Hackathon 2026 결선도 ATF에서 열리며, 라이브 창작 경연과 상영이 곁들여진다."
+              },
+              {
+                "t": "p",
+                "x": "올해는 마이크로드라마 비중이 더 커진다. RX Global의 Yeow Hui Leng은 “AI를 포함한 신기술이 이 논의의 핵심이 될 것”이라고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Asia TV Forum\nシンガポールでAIゾーン",
+          "body": "Asia TV ForumはAI・IP・規制ゾーンとAI Hackathon決勝を設ける。",
+          "mini_headline": "ATF、AIゾーンを新設",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/Singapore-Media-Festival-logo.jpg?w=1000&h=563&crop=1",
+                "cap": "Singapore Media Festival"
+              },
+              {
+                "t": "p",
+                "x": "IMDA が主催する Singapore Media Festival は、12月1–5日に開かれる次回、長年続く Asia TV Forum & Market(ATF)と並んで Asia Creator Summit を新たに立ち上げる。"
+              },
+              {
+                "t": "p",
+                "x": "ACS は12月4–5日に Marina Bay Sands で開かれ、「Create. Monetize. Scale.」を掲げて20以上のセッションを行う。ATF は12月1–4日に第27回(27th)として戻り、60の国・地域から5,000人を超えるコンテンツ関係者の来場を見込む。"
+              },
+              {
+                "t": "p",
+                "x": "新設の「The AI Era | Entertainment Reimagined」は、専用プログラムとゾーンを組み合わせ、AI がコンテンツ制作、IP 権利、規制に持つ意味や、創作物をどう守るかに焦点を当てる。Huace Group、Moonmax、Studio Meta K、Motion Picture Association、Television Academy、WIPO が参加する。ATF では Yoywow Space と Visify が支援する AI Hackathon 2026 の決勝も開かれ、ライブの創作コンテストや上映が行われる。"
+              },
+              {
+                "t": "p",
+                "x": "今年はマイクロドラマにも一段と焦点を当てる。RX Global の Yeow Hui Leng 氏は「AI を含む新興技術が、この議論の重要な部分になる」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Asia TV Forum\n在新加坡增设AI专区",
+          "body": "Asia TV Forum新增AI专区，涵盖IP与监管，举办AI Hackathon决赛。",
+          "mini_headline": "ATF增设AI专区",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/Singapore-Media-Festival-logo.jpg?w=1000&h=563&crop=1",
+                "cap": "Singapore Media Festival（新加坡媒体节）"
+              },
+              {
+                "t": "p",
+                "x": "由 IMDA 主办的 Singapore Media Festival 将于12月1–5日举办下一届，届时将与历史悠久的 Asia TV Forum & Market（ATF）同期推出 Asia Creator Summit。"
+              },
+              {
+                "t": "p",
+                "x": "ACS 将于12月4–5日在 Marina Bay Sands 举行，以“Create. Monetize. Scale.”为主题，设有20多场会议。ATF 将于12月1–4日迎来第27届（27th），预计将有来自60个国家和地区的5,000多名内容从业者参加。"
+              },
+              {
+                "t": "p",
+                "x": "新板块“The AI Era | Entertainment Reimagined”将专题议程与展区结合，聚焦 AI 对内容创作、IP 权利和监管的意义，以及如何保护创意作品。Huace Group、Moonmax、Studio Meta K、Motion Picture Association、Television Academy 和 WIPO 将参与其中。ATF 还将举办由 Yoywow Space 和 Visify 支持的 AI Hackathon 2026 决赛，包括现场创意比赛和放映。"
+              },
+              {
+                "t": "p",
+                "x": "今年微短剧将成为更大的焦点。RX Global 的 Yeow Hui Leng 表示：“包括 AI 在内的新兴技术将是这场讨论的关键部分。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Asia TV Forum suma una\nzona de AI en Singapur",
+          "body": "Asia TV Forum suma una zona de AI sobre creación de contenido, IP y regulación, además de la final del AI Hackathon.",
+          "mini_headline": "ATF suma una zona de AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/Singapore-Media-Festival-logo.jpg?w=1000&h=563&crop=1",
+                "cap": "Singapore Media Festival"
+              },
+              {
+                "t": "p",
+                "x": "El Singapore Media Festival, organizado por IMDA, lanzará el Asia Creator Summit junto al veterano Asia TV Forum & Market (ATF) en su próxima edición, del 1 al 5 de diciembre (Dec. 1–5)."
+              },
+              {
+                "t": "p",
+                "x": "El ACS se celebrará del 4 al 5 de diciembre en Marina Bay Sands con más de 20 sesiones bajo el lema “Create. Monetize. Scale.”. El ATF vuelve del 1 al 4 de diciembre en su 27.ª edición (27th), con más de 5,000 actores del sector de contenidos de 60 países y regiones previstos."
+              },
+              {
+                "t": "p",
+                "x": "Un nuevo ciclo, “The AI Era | Entertainment Reimagined”, combinará un programa específico con una zona centrada en lo que la AI supone para la creación de contenido, los derechos de IP y la regulación, y en cómo proteger el trabajo creativo. Participarán Huace Group, Moonmax, Studio Meta K, la Motion Picture Association, la Television Academy y la WIPO. El ATF también acogerá la ronda final del AI Hackathon 2026, respaldado por Yoywow Space y Visify, con un concurso creativo en vivo y proyecciones."
+              },
+              {
+                "t": "p",
+                "x": "Los microdramas tendrán más protagonismo este año. “La tecnología emergente, incluida la AI, será una parte clave de esta conversación”, dijo Yeow Hui Leng, de RX Global."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Asia TV Forum\n싱가포르에 AI 존 신설",
+          "body": "Asia TV Forum은 AI·IP 존과 AI Hackathon 결선을 연다.",
+          "mini_headline": "ATF, AI 존 신설",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/Singapore-Media-Festival-logo.jpg?w=1000&h=563&crop=1",
+                "cap": "Singapore Media Festival"
+              },
+              {
+                "t": "p",
+                "x": "IMDA가 주최하는 Singapore Media Festival은 12월 1–5일 열리는 다음 행사에서 오랜 역사의 Asia TV Forum & Market(ATF)과 함께 Asia Creator Summit을 새로 선보인다."
+              },
+              {
+                "t": "p",
+                "x": "ACS는 12월 4–5일 Marina Bay Sands에서 “Create. Monetize. Scale.”이라는 기치 아래 20개가 넘는 세션으로 진행된다. ATF는 12월 1–4일 제27회(27th) 행사로 돌아오며, 60개 국가·지역에서 5,000명 이상의 콘텐츠 업계 관계자가 찾을 것으로 예상된다."
+              },
+              {
+                "t": "p",
+                "x": "새 섹션 “The AI Era | Entertainment Reimagined”는 전용 프로그램과 전시 존을 결합해 AI가 콘텐츠 제작, IP 권리, 규제에 갖는 의미와 창작물을 보호하는 방법을 다룬다. Huace Group, Moonmax, Studio Meta K, Motion Picture Association, Television Academy, WIPO가 참여한다. ATF는 Yoywow Space와 Visify가 후원하는 AI Hackathon 2026 결선도 열며, 라이브 창작 경연과 상영이 함께한다."
+              },
+              {
+                "t": "p",
+                "x": "올해는 마이크로드라마 비중이 더 커진다. RX Global의 Yeow Hui Leng은 “AI를 포함한 신기술이 이 논의의 핵심이 될 것”이라고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Asia TV Forum\nシンガポールでAIゾーン",
+          "body": "Asia TV ForumはAI・IP・規制ゾーンとAI Hackathon決勝を設ける。",
+          "mini_headline": "ATF、AIゾーンを新設",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/Singapore-Media-Festival-logo.jpg?w=1000&h=563&crop=1",
+                "cap": "Singapore Media Festival"
+              },
+              {
+                "t": "p",
+                "x": "IMDA が主催する Singapore Media Festival は、12月1–5日に開かれる次回、長年続く Asia TV Forum & Market(ATF)と並んで Asia Creator Summit を新たに立ち上げる。"
+              },
+              {
+                "t": "p",
+                "x": "ACS は12月4–5日に Marina Bay Sands で開かれ、「Create. Monetize. Scale.」を掲げて20以上のセッションを行う。ATF は12月1–4日に第27回(27th)として戻り、60の国・地域から5,000人を超えるコンテンツ関係者の来場を見込む。"
+              },
+              {
+                "t": "p",
+                "x": "新設の「The AI Era | Entertainment Reimagined」は、専用プログラムとゾーンを組み合わせ、AI がコンテンツ制作、IP 権利、規制に持つ意味や、創作物をどう守るかに焦点を当てる。Huace Group、Moonmax、Studio Meta K、Motion Picture Association、Television Academy、WIPO が参加する。ATF では Yoywow Space と Visify が支援する AI Hackathon 2026 の決勝も開かれ、ライブの創作コンテストや上映が行われる。"
+              },
+              {
+                "t": "p",
+                "x": "今年はマイクロドラマにも一段と焦点を当てる。RX Global の Yeow Hui Leng 氏は「AI を含む新興技術が、この議論の重要な部分になる」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Asia TV Forum\n在新加坡增设AI专区",
+          "body": "Asia TV Forum新增AI专区，涵盖IP与监管，举办AI Hackathon决赛。",
+          "mini_headline": "ATF增设AI专区",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/Singapore-Media-Festival-logo.jpg?w=1000&h=563&crop=1",
+                "cap": "Singapore Media Festival（新加坡媒体节）"
+              },
+              {
+                "t": "p",
+                "x": "由 IMDA 主办的 Singapore Media Festival 将于12月1–5日举办下一届，届时将与历史悠久的 Asia TV Forum & Market（ATF）同期推出 Asia Creator Summit。"
+              },
+              {
+                "t": "p",
+                "x": "ACS 将于12月4–5日在 Marina Bay Sands 举行，以“Create. Monetize. Scale.”为主题，设有20多场会议。ATF 将于12月1–4日迎来第27届（27th），预计将有来自60个国家和地区的5,000多名内容从业者参加。"
+              },
+              {
+                "t": "p",
+                "x": "新板块“The AI Era | Entertainment Reimagined”将专题议程与展区结合，聚焦 AI 对内容创作、IP 权利和监管的意义，以及如何保护创意作品。Huace Group、Moonmax、Studio Meta K、Motion Picture Association、Television Academy 和 WIPO 将参与其中。ATF 还将举办由 Yoywow Space 和 Visify 支持的 AI Hackathon 2026 决赛，包括现场创意比赛和放映。"
+              },
+              {
+                "t": "p",
+                "x": "今年微短剧将成为更大的焦点。RX Global 的 Yeow Hui Leng 表示：“包括 AI 在内的新兴技术将是这场讨论的关键部分。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Asia TV Forum suma una\nzona de AI en Singapur",
+          "body": "Asia TV Forum suma una zona de AI sobre creación de contenido, IP y regulación, además de la final del AI Hackathon.",
+          "mini_headline": "ATF suma una zona de AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/Singapore-Media-Festival-logo.jpg?w=1000&h=563&crop=1",
+                "cap": "Singapore Media Festival"
+              },
+              {
+                "t": "p",
+                "x": "El Singapore Media Festival, organizado por IMDA, lanzará el Asia Creator Summit junto al veterano Asia TV Forum & Market (ATF) en su próxima edición, del 1 al 5 de diciembre (Dec. 1–5)."
+              },
+              {
+                "t": "p",
+                "x": "El ACS se celebrará del 4 al 5 de diciembre en Marina Bay Sands con más de 20 sesiones bajo el lema “Create. Monetize. Scale.”. El ATF vuelve del 1 al 4 de diciembre en su 27.ª edición (27th), con más de 5,000 actores del sector de contenidos de 60 países y regiones previstos."
+              },
+              {
+                "t": "p",
+                "x": "Un nuevo ciclo, “The AI Era | Entertainment Reimagined”, combinará un programa específico con una zona centrada en lo que la AI supone para la creación de contenido, los derechos de IP y la regulación, y en cómo proteger el trabajo creativo. Participarán Huace Group, Moonmax, Studio Meta K, la Motion Picture Association, la Television Academy y la WIPO. El ATF también acogerá la ronda final del AI Hackathon 2026, respaldado por Yoywow Space y Visify, con un concurso creativo en vivo y proyecciones."
+              },
+              {
+                "t": "p",
+                "x": "Los microdramas tendrán más protagonismo este año. “La tecnología emergente, incluida la AI, será una parte clave de esta conversación”, dijo Yeow Hui Leng, de RX Global."
               }
             ]
           }

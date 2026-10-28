@@ -9204,6 +9204,130 @@
           "x": "Every app is private to its creator until they choose to share it. App Studio is included in every paid plan with no new purchase or add-on, and building, running and hosting apps all draw from your existing Runway credit balance. App Studio is available to all paid plans now."
         }
       ]
+    },
+    "movies/jimengstudio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/technode.com/wp-content/uploads/2026/10/cn-cover-361997.png?fit=1920%2C1280&ssl=1",
+          "cap": "ByteDance launches AI studio for short-drama production"
+        },
+        {
+          "t": "p",
+          "x": "ByteDance’s Jimeng AI has launched a short-drama studio that brings script development, character and scene creation, storyboarding, video production and post-production into one workflow. The platform uses three in-house models: DreamScript for scripts, Anycook for images and DreamShot for storyboards."
+        },
+        {
+          "t": "p",
+          "x": "DreamScript supports original stories, adaptations and scripts for overseas audiences, while the image and storyboard tools help creators develop visual assets and plan shots. The studio also supports replacing individual shots, reconstructing audio and remaking existing dramas in visual styles suited to different markets. The launch extends Jimeng’s tools beyond individual image or video generation tasks into coordinated short-drama production. [iiMedia, in Chinese]"
+        }
+      ]
+    },
+    "movies/oscarsai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/Academy-leadership.jpg?w=1000&h=563&crop=1",
+          "cap": "Academy leadership in Tokyo"
+        },
+        {
+          "t": "p",
+          "x": "The Oscars will keep honoring human-driven work as AI spreads through filmmaking, Academy president Lynette Howell Taylor tells Variety in Tokyo, where Academy leadership is attending the Tokyo International Film Festival to meet members and filmmakers."
+        },
+        {
+          "t": "p",
+          "x": "Howell Taylor says AI has been part of post-production workflows for a decade and is already built into visual effects, and that the Academy discusses it regularly in relation to eligibility. “What will always remain true for the Academy is that we award human excellence, human-driven workflow,” she says. “At the center of it will always be humans driving that workflow.” She also flags “very real concerns around copyright and around transparency and disclosure.”"
+        },
+        {
+          "t": "p",
+          "x": "Under rules introduced for the 99th Oscars, a non-English-language film can qualify for international feature by winning the top prize at one of six festivals, and chief membership officer Meredith Shea says the committee will review the rules each year."
+        },
+        {
+          "t": "p",
+          "x": "CEO Bill Kramer says the Academy is now 25% non-U.S. membership, and that the 2029 ceremony, the first under its YouTube deal, could reach 2.5 billion people in over 30 languages."
+        }
+      ]
+    },
+    "movies/rintaro": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/Rintaro.jpg",
+          "cap": "Rintaro at the 2026 Busan International Film Festival"
+        },
+        {
+          "t": "p",
+          "x": "At the 31st Busan International Film Festival, the 85-year-old director of Galaxy Express 999 and Metropolis spoke to Cartoon Brew at a roundtable after his masterclass, A Living Legend in Japanese Animation."
+        },
+        {
+          "t": "video",
+          "yt": "aen2v31UjqA"
+        },
+        {
+          "t": "p",
+          "x": "On the culture of remakes, he said: “I think this focus on the market worldwide has been the cause because it brings more money in to bring things back from the past that are already safe and popular.” If we were to create a new future, “we have to embrace the risks involved… Because at this rate, there will be no future.”"
+        },
+        {
+          "t": "p",
+          "x": "He linked remakes to generative AI: “AI will also be pushing towards remaking works from the past because AI is about recommending the mean or the average, and that is the safe option that you can recommend.” Original works, he warned, may not be as successful as before."
+        },
+        {
+          "t": "p",
+          "x": "On collaborating with AI, “as a director, I do think about how to use AI, but I would want to do it very, very carefully.” He likened AI to a blade and said “we need to think about how far we’ve let AI into our everyday lives.”"
+        }
+      ]
+    },
+    "movies/atfaizone": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/Singapore-Media-Festival-logo.jpg?w=1000&h=563&crop=1",
+          "cap": "Singapore Media Festival"
+        },
+        {
+          "t": "p",
+          "x": "The Singapore Media Festival, hosted by IMDA, will launch the Asia Creator Summit alongside the long-running Asia TV Forum & Market (ATF) when its next edition takes place Dec. 1–5."
+        },
+        {
+          "t": "p",
+          "x": "ACS will run Dec. 4–5 at Marina Bay Sands with more than 20 sessions under the banner “Create. Monetize. Scale.” ATF returns Dec. 1–4 for its 27th edition, with more than 5,000 content players from 60 countries and regions expected."
+        },
+        {
+          "t": "p",
+          "x": "A new strand, “The AI Era | Entertainment Reimagined,” will combine a dedicated program with a zone focused on what AI means for content creation, IP rights and regulation, and on how creative work can be safeguarded. Huace Group, Moonmax, Studio Meta K, the Motion Picture Association, the Television Academy and WIPO will take part. ATF will also host the final round of AI Hackathon 2026, backed by Yoywow Space and Visify, with a live creative contest and screenings."
+        },
+        {
+          "t": "p",
+          "x": "Microdrama will be a bigger focus this year. “Emerging technology, including AI, will be a key part of this conversation,” said Yeow Hui Leng of RX Global."
+        }
+      ]
+    },
+    "movies/resolve2112": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/davinci-resolve-update-21-1-2.jpg?id=68536481&width=1245&height=700&quality=50&coordinates=56%2C0%2C57%2C0"
+        },
+        {
+          "t": "p",
+          "x": "Blackmagic Design has announced a blazing-fast update is coming to DaVinci Resolve with update 21.1.2."
+        },
+        {
+          "t": "p",
+          "x": "In today’s age of video editing and, well, you know, AI, speed matters more now than ever before. Whether you’re a fan of AI in general or AI tools like Resolve’s IntelliSearch analysis, if you’re using them in your video edit, you’ll want them to work quickly and efficiently."
+        },
+        {
+          "t": "p",
+          "x": "That’s what this latest update for DaVinci Resolve (version 21.1.2) is set to offer: Blackmagic Design has announced up to fourteen times faster IntelliSearch analysis on Apple M6, plus improved timeline editing and faster OGraf playback."
+        },
+        {
+          "t": "p",
+          "x": "This update leans more toward major improvements, as 21.1.2 adds well over a dozen new features and enhancements. The big ones are the aforementioned speed-ups for IntelliSearch analysis on Apple M6 and four times faster OGraf playback."
+        },
+        {
+          "t": "p",
+          "x": "Timeline editing has also improved, and Resolve gets more Linux graphics support and expanded scripting APIs for automated photo and editing tasks. Highlights include lasso selecting edit points that can now enter dynamic trim automatically, an option to show loudness meters in the edit mixer, OGraf responsive templates that adapt to timeline aspect ratio, and support for OGraf and Lottie graphics on Linux, along with general performance and stability improvements."
+        }
+      ]
     }
   }
 }

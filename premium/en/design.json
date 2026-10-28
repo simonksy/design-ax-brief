@@ -9906,6 +9906,153 @@
           "x": "This feature integrates brand visual consistency into the image generation process. However, the official announcement did not include verification results regarding the accuracy of adherence to logo shapes or typeface usage rules. It is necessary to compare the generated images against the original guidelines before using them in actual content. The business start screen and new connection apps will be rolled out sequentially to Gemini app users worldwide."
         }
       ]
+    },
+    "design/clate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.electropages.com/storage/app/media/2026/10.%20October/cropped-images/Clate-PR%20image_02-0-0-1200-630-1793190752.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Qt Group has announced Clate, a new AI-powered design tool developed specifically for creating user interfaces for embedded devices. Unveiled at Qt World Summit 2026, the platform provides a no-code environment that allows designers to develop interfaces while accounting for the hardware constraints of embedded systems."
+        },
+        {
+          "t": "p",
+          "x": "Clate provides a visual workspace with an infinite canvas, hierarchy trees, asset management, component libraries and context-aware property controls. AI assistants let designers generate screens and modify interface elements using natural language prompts, and it integrates with other tools through the Model Context Protocol (MCP). It automatically generates QML code, so developers can work directly with designers’ output instead of rebuilding interfaces manually."
+        },
+        {
+          "t": "p",
+          "x": "Qt Group also plans design-time performance monitoring of frame rates and memory consumption. According to Qt Group, 59% of embedded UX designers believed they would benefit from a better-suited design tool."
+        },
+        {
+          "t": "p",
+          "x": "\"For too long, embedded UI/UX designers have had to compromise their work, using web-centric tools that simply don't account for real-world hardware constraints,\" said Antti Kujala, Vice President, Design Products at Qt Group."
+        },
+        {
+          "t": "p",
+          "x": "Clate is launching in beta, with its full planned feature set expected in early 2027."
+        }
+      ]
+    },
+    "design/nuke18": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261027_Nuke18_OpenBeta_f-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Foundry has released Nuke 18.0, the latest update to its family of compositing apps, in beta. Nuke itself gets a new Griptape Node, connecting the software to Griptape, Foundry’s AI orchestration platform. With it, compositors can execute generative AI workflows directly inside the Nuke node graph: for example, to create effects elements to composite into a project."
+        },
+        {
+          "t": "video",
+          "yt": "iK5xckpMLag"
+        },
+        {
+          "t": "p",
+          "x": "Griptape makes it possible to combine third-party AI models – for still images, video, 3D assets and audio – into relatively controllable, repeatable workflows. Suggested use cases range from keying, masking, inpainting and clean plate generation to generating completely novel assets. The new node connects directly to a running Griptape engine and automatically populates control knobs (prompts, models, seeds, aspect ratio) inside Nuke."
+        },
+        {
+          "t": "p",
+          "x": "The release also improves workflow with 3D Gaussian Splats, adds support for new camera formats and H.265/HEVC media, and gives Nuke Studio automatic cut detection."
+        },
+        {
+          "t": "p",
+          "x": "Nuke 18.0 is in beta. Annual subscriptions cost $3,839/year for Nuke, $5,219/year for NukeX and $6,379/year for Nuke Studio. Griptape Nodes is a free download, but AI model usage is priced on a credit basis."
+        }
+      ]
+    },
+    "design/vectorworks-nano": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/onvm0vode0lbhelfz3iu-scaled.webp",
+          "cap": "Image: © Vectorworks"
+        },
+        {
+          "t": "p",
+          "x": "The latest version of Vectorworks’ AI Visualizer offers two new models, including Google’s Nano Banana, for high-quality, realistic AI-generated visuals. With a Vectorworks 2027 subscription, you can now access Google’s Nano Banana 2 and Nano Banana Pro models in the AI Visualizer palette."
+        },
+        {
+          "t": "p",
+          "x": "Nano Banana 2 is great for testing concepts and iterating on visuals throughout the design process, while Nano Banana Pro helps you create a more detailed image for a high-stakes presentation or deliverable. Both models generate and edit images at 2K resolution, can upscale to 4K, and support up to 14 reference images per prompt."
+        },
+        {
+          "t": "p",
+          "x": "Each subscription license includes 150 credits per calendar month. Nano Banana 2 uses two credits per generated or edited image and four to upscale to 4K; Nano Banana Pro uses three and six. Once the 150 monthly credits are used, the AI Visualizer automatically switches to the credit-free Basic model."
+        },
+        {
+          "t": "img",
+          "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/fvnfqfow7jjehydeazpm-300x169.webp",
+          "cap": "Image: © Vectorworks"
+        },
+        {
+          "t": "p",
+          "x": "The Basic model offers an unlimited way to generate and refine AI visuals for quick studies and repeated iterations, with up to two reference images per prompt."
+        }
+      ]
+    },
+    "design/ai-time-savings": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/2600/1*dZrEcUcZH_5ulg0g4yd0zQ.jpeg",
+          "cap": "Photo by cottonbro studio"
+        },
+        {
+          "t": "p",
+          "x": "You're faster than ever, and your days aren't any shorter. The Nielsen Norman Group just published a survey of 521 UX practitioners: respondents rated AI's effect on task time at 4.2 out of 5, yet when asked how they felt about AI at work, the average was only 3.57 out of 5."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/2600/1*k8hCs3AXzCFKkutCoaTsNw.png"
+        },
+        {
+          "t": "p",
+          "x": "69% of the comments expressed some negative sentiment, led by unreliable output and the burden of checking it. NN/g's conclusion was that the time AI saves rarely stays with the person who saved it. Kai Wong ties this to the Jevons paradox and to Peter Merholz's “legibility gap”: the research, iteration and AI-checking behind screens is invisible by default."
+        },
+        {
+          "t": "p",
+          "x": "A Head of Design at a B2B security company says Claude Code cut a four-day Figma-to-code process to about eight hours, yet “you still have to scrutinize the outputs to the same degree.”"
+        },
+        {
+          "t": "p",
+          "x": "His advice: “Time everything.” Track before-and-after savings, claim validation time up front, turn invisible scrutiny into a visible decision document, and pitch where your time went."
+        }
+      ]
+    },
+    "design/a2ui": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/00-header-1600x900_1.original.png"
+        },
+        {
+          "t": "p",
+          "x": "We've heard your concerns about the speed of A2UI and generative UI experiences: people wait while the model generates each screen. This release introduces swappable inference formats and shares examples on leveraging decision models with A2UI. Using the new A2UI Express as an inference format you can reduce latency by up to 3x, and up to 80x using decision models like Jev to make layout decisions. Express requires up to 3x fewer tokens to generate the same kinds of UI compared to Direct JSON."
+        },
+        {
+          "t": "p",
+          "x": "Generating JSON trees constrained by a complex JSON schema turned out to be slow and error-prone for LLMs. Now agents can generate A2UI Express, an intermediate format, and rely on deterministic code in A2UI's Agent SDKs to translate it into the JSON-based transport protocol. You choose the format with one argument when you create the generator."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/02-how-it-works-swap.original.png"
+        },
+        {
+          "t": "p",
+          "x": "Express writes one statement per line, in a style close to Python. It is available in the Python agent SDK (a2ui-agent-sdk 0.9.0), the TypeScript agent SDK (@a2ui/agent) and the Dart SDK. Google ran four formats through the same 51-task eval on gemini-3.5-flash and found Express works just as well even with thinking off."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/04-how-we-chose-express-eval.original.png"
+        },
+        {
+          "t": "p",
+          "x": "For screens with a known shape, Jev from TypeSafe, a System One model, answers typed layout questions in roughly 100 to 300 ms. In the open-source Apparite (jev2ui) example, the component tree was on screen in 92 to 298 ms and each screen was complete in 0.8 to 1.7 s across 11 prompts."
+        }
+      ]
     }
   }
 }

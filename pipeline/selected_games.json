@@ -1,96 +1,96 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "section": "games",
   "items": [
     {
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "title": "Genie 4: A new generation of world simulation",
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "source": "Google DeepMind",
-      "published_iso": "2026-10-27T16:13:00+00:00",
-      "og_image": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w1200-h630-n-nu-rw",
-      "excerpt": "Genie 4 introduces real-time interactive world simulation with native audio, advanced physics, natural human motion, and steering powered by Gemini models.",
-      "rationale": "Primary-source release of a new real-time interactive world model, the biggest tool news for game prototyping this cycle."
+      "title": "Valve Knows Steam Has An AI Slop Problem And Has A 'Significant Number Of People' Working On It",
+      "url": "https://kotaku.com/valve-steam-ai-clone-rip-offs-next-fest-slop-developers-demos-2000750496",
+      "source": "Kotaku",
+      "published_iso": "2026-10-28T15:30:21Z",
+      "og_image": "https://kotaku.com/app/uploads/2026/10/next-fest-slop.jpg",
+      "excerpt": "Valve says a significant number of people are working on Steam's AI slop and clone problem, though it again puts the onus on the developers being ripped off.",
+      "rationale": "Valve's first official response to the Next Fest AI-clone wave sets the store policy every Steam developer has to plan their demos around."
     },
     {
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "title": "Epic Games is updating its EULA to allow AI training",
-      "url": "https://www.gamedeveloper.com/programming/epic-is-updating-the-eula-to-allow-ai-training-on-outputs-from-unreal-engine-and-metahuman",
-      "source": "Game Developer",
-      "published_iso": "2026-10-27T17:53:41.000Z",
-      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf023070cdf9c6ebf/682da8904feafa6cf12bbc97/Fortnite_Header.png?disable=upscale&width=1200&height=630&fit=crop",
-      "excerpt": "Epic Games CEO Tim Sweeney casually states that the EULA for using Epic's engines will allow for training AI on the output.",
-      "rationale": "A concrete licensing change: AI training on Unreal Engine and MetaHuman output becomes allowed, which matters to every UE developer."
+      "title": "Epic Games further doubles down on gen-AI tools for Fortnite, Unreal Engine 6 and more: \"Our engineers are no longer writing the bulk of the code\"",
+      "url": "https://www.eurogamer.net/epic-genai-fortnite-unreal-engine-6-no-longer-writing-code",
+      "source": "Eurogamer",
+      "published_iso": "2026-10-28T20:08:50Z",
+      "og_image": "https://assetsio.gnwcdn.com/fortnite-save-the-world.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Epic Games confirmed it is using AI-assisted vibe-coding for everything from Unreal Engine 6 to Fortnite, saying its engineers no longer write the bulk of the code.",
+      "rationale": "The engine most studios build on is now officially written mostly by AI, which changes how UE6 users should think about engine stability and tooling."
     },
     {
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "title": "AI video game wikis riddled with errors are taking over, and pushing real fans to the side",
-      "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
-      "source": "Eurogamer",
-      "published_iso": "2026-10-27T10:00:41.785138+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/gamedb-wiki-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "LLM-powered wikis, often full of inaccurate or irrelevant information, are starting to take over, leaving fans sidelined and publishers playing whack-a-mole.",
-      "rationale": "Fresh reported angle (LLM-generated fan wikis) that the section has not covered, with publishers responding."
+      "title": "Roblox confirms no adult content used in AI training after scraping Open3DLab data",
+      "url": "https://www.gamedeveloper.com/business/roblox-confirms-no-adult-content-used-in-ai-training-after-scraping-open3dlab-data",
+      "source": "Game Developer",
+      "published_iso": "2026-10-28T15:45:59Z",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt05086ee04717e6e7/6ae2082619e29ebc009130b6/robloxphonefeatured.jpg?disable=upscale&width=1200&height=630&fit=crop",
+      "excerpt": "Roblox says an AI agent failed to operate 'as intended' when it mass-downloaded 3D files, including adult content, from Open3DLab, Smutlab and SFMLab for AI training data.",
+      "rationale": "A rogue scraping agent pulled community 3D assets into Roblox's training data, a concrete data-provenance incident 3D artists need to know about."
     },
     {
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "title": "Peter Molyneux believes 'it's almost impossible to code now without using AI'",
-      "url": "https://www.pcgamer.com/games/strategy/peter-molyneux-speaks-candidly-about-ai-we-as-the-industry-are-pretending-were-not-using-ai-but-the-reality-is-its-almost-impossible-to-code-now-without-using-ai/",
-      "source": "PC Gamer",
-      "published_iso": "2026-10-27T13:30:01Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/cCbNLBoom6H44tX6QPEMwa-1920-80.jpg",
-      "excerpt": "The father of the god game weighs in on AI use in the gaming industry",
-      "rationale": "A veteran designer says outright that the industry is quietly using AI for code, a counterpoint to the anti-AI statements from studios."
+      "title": "\"네가 한 일을 알고 있다\"...넥슨, 이용자 행동 기억하는 'AI NPC' 개발",
+      "url": "https://www.inews24.com/view/2019597",
+      "source": "아이뉴스24",
+      "published_iso": "2026-10-27T17:33:08+09:00",
+      "og_image": "https://image.inews24.com/v1/9c333440cef95f.jpg",
+      "excerpt": "넥슨이 이용자의 게임 내 행동을 '라이브 메모리'로 실시간 기억해 NPC가 과거 행동에 맞춰 반응하도록 하는 AI 엔진과 자체 DB '패스트그래프'를 공개했다. (off-list: allowed Korean outlets had no fresh copy)",
+      "rationale": "Nexon unveiled a concrete memory engine and graph DB for persistent AI NPCs, a new system that game and narrative designers can actually build on."
     },
     {
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "title": "Zero Escape Writer Is Pro-AI, Believes His New Studio's Game Wouldn't Have Been Canceled If He'd Used It To Cut Costs",
-      "url": "https://kotaku.com/zero-escape-writer-is-pro-ai-believes-his-new-studios-game-wouldnt-have-been-canceled-if-hed-used-it-to-cut-costs-2000749911",
-      "source": "Kotaku",
-      "published_iso": "2026-10-27T14:30:31+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2026/10/Hundred-Line.jpeg",
-      "excerpt": "Kotaro Uchikoshi understands the resistance to AI, but feels it is necessary to cut costs and make games faster",
-      "rationale": "A narrative-game auteur links a real cancelled project to AI cost economics, a concrete case from the Japanese side of the debate."
+      "title": "라인게임즈, Games on AWS 2026서 AI 퍼블리싱 자동화 노하우 공개",
+      "url": "https://www.thisisgame.com/articles/431458?newsId=400004&categoryId=0",
+      "source": "디스이즈게임",
+      "published_iso": "2026-10-27T21:50:40Z",
+      "og_image": "https://file.thisisgame.com/upload/email-attachments/2026/10/28/1639287616436323679_f8c04051-d2a5-4056-86c3-0a552014f8f1_%5B%EC%9D%B4%EB%AF%B8%EC%A7%80%5D%20%27Games%20on%20AWS%202026%27%20%EA%B0%95%EC%97%B0%20%ED%98%84%EC%9E%A5_%EB%9D%BC%EC%9D%B8%EA%B2%8C%EC%9E%84%EC%A6%88%20%EC%9D%B4%EC%95%84%EC%98%81%20%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%8B%B1%20%EA%B8%B0%EC%88%A0%EC%8B%A4%EC%9E%A5.jpg",
+      "excerpt": "라인게임즈가 Games on AWS 2026에서 사내 AI 시스템으로 게임 개발 문서 자동 갱신과 퍼블리싱 업무를 자동화한 노하우를 공개했다.",
+      "rationale": "A publisher's own account of automating dev-doc updates and publishing ops with in-house AI, a workflow other teams can copy."
     }
   ],
   "dedup": {
     "checks": {
-      "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
+      "https://kotaku.com/valve-steam-ai-clone-rip-offs-next-fest-slop-developers-demos-2000750496": {
+        "verdict": "follow-up",
+        "nearest": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+        "new_action": "Valve's first official statement on the Next Fest AI-clone problem: it says a 'significant number of people' are working on it and tells developers to make games harder to copy and to report extortion to police. Earlier cards (IGN 10-20, Kotaku 10-17, gamedeveloper 10-24, gamemeca 10-26) covered fans and developers, not a Valve response."
+      },
+      "https://www.eurogamer.net/epic-genai-fortnite-unreal-engine-6-no-longer-writing-code": {
+        "verdict": "follow-up",
+        "nearest": "https://www.gamesradar.com/games/epic-wants-to-pay-you-usd50-000-to-vibe-code-an-ai-slop-game/",
+        "new_action": "Epic (VP Marcus Wassmer) officially confirmed that Unreal Engine 6 and Fortnite are now developed with AI-written code and that engineers no longer write most of it. This is a new disclosure, not the launcher vibe-coding story (Verge 10-15), the AI-first memo (gamesindustry.biz 10-13), the $50k jam (10-23) or the EULA change (gamedeveloper 10-28)."
+      },
+      "https://www.gamedeveloper.com/business/roblox-confirms-no-adult-content-used-in-ai-training-after-scraping-open3dlab-data": {
         "verdict": "new",
-        "nearest": "https://www.ign.com/articles/google-ai-agents-killed-ender-dragon-minecraft",
+        "nearest": "https://www.pocketgamer.biz/roblox-brings-audioscape-team-in-house-to-develop-ai-audio-tools/",
         "new_action": ""
       },
-      "https://www.gamedeveloper.com/programming/epic-is-updating-the-eula-to-allow-ai-training-on-outputs-from-unreal-engine-and-metahuman": {
+      "https://www.inews24.com/view/2019597": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
+        "nearest": "https://forums.unrealengine.com/t/community-tutorial-building-conversational-ai-npcs-in-unreal-engine-5-with-codex-and-gpt-6-astra/2834834",
         "new_action": ""
       },
-      "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture": {
+      "https://www.thisisgame.com/articles/431458?newsId=400004&categoryId=0": {
         "verdict": "new",
-        "nearest": "",
-        "new_action": ""
-      },
-      "https://www.pcgamer.com/games/strategy/peter-molyneux-speaks-candidly-about-ai-we-as-the-industry-are-pretending-were-not-using-ai-but-the-reality-is-its-almost-impossible-to-code-now-without-using-ai/": {
-        "verdict": "new",
-        "nearest": "https://kotaku.com/xbox-manager-tries-to-legitimize-ai-in-wild-rant-deletes-his-account-instead-2000747938",
-        "new_action": ""
-      },
-      "https://kotaku.com/zero-escape-writer-is-pro-ai-believes-his-new-studios-game-wouldnt-have-been-canceled-if-hed-used-it-to-cut-costs-2000749911": {
-        "verdict": "new",
-        "nearest": "https://kotaku.com/dragon-quest-creator-yuji-horii-thinks-ai-is-amazing-as-he-no-longer-needs-to-code-or-draw-to-make-a-game-2000744194",
+        "nearest": "https://aws.amazon.com/ko/blogs/tech/adopting-kiro-to-game-dev-team/",
         "new_action": ""
       }
     },
-    "note": "Dropped as same story already published: Game Developer 'Epic Disney AI-first' (= gamesindustry.biz 10-13); NVIDIA RTX Spark neural rendering dev blog (same RTX Spark platform published 10-16, no new release); GamesRadar Valve veteran Steam slop (commentary on the Next Fest slop story, IGN 10-20); Verge 'Retro gaming overrun with AI', Aftermath 'hobbies slopped up', GamesRadar RE Outbreak browser port (running AI decomp/recomp/browser-port story: Xbox Labs 10-14, decomp.dev 10-16, Pokemon decomp 10-25, TheGamer 10-26); Aftermath Valve shopfront AI clones (running AI-clone story 10-17/10-21/10-24/10-26). Deprioritized: Destructoid EA morale (layoffs/business angle), Kotaku PS5 homebrew (AI incidental to the exploit story), Kotaku Microsoft/Epic 'AI is theft' (opinion, Kotaku already has 1 pick), RPS Samson founder (speculative). Cross-section: all picks were published after the 10-27 run (after 10-26 22:00 UTC), so none can be in published_urls.json from earlier days. Genie 4 could also show up in today's science candidates, so the orchestrator should check for a same-day clash. Only one card per outlet."
+    "note": "One pick per cluster. Epic UE6/Fortnite AI-coding cluster: kept Eurogamer and dropped PC Gamer, Rock Paper Shotgun and Game Developer (the same Wassmer statement). Valve AI-clone cluster: kept Kotaku and dropped Game Developer, PC Gamer, Eurogamer and GamesRadar (the same Valve statement). Dropped as already published: Krafton Raon-1 mini (= gamemeca 10-22); Shogun 2 VP comment (commentary on the pulled remaster, Kotaku 10-15/10-16); Sakurai 'low-quality goods' (commentary following his 10-17 column); thisisgame indie devs hiding demos (running AI-clone story, inven 10-21 and others); NVIDIA RTX Spark laptops and the RTX Spark neural-rendering dev blog (same platform, blogs.nvidia 10-16 in games and 10-14 in design, no new release). Deprioritized: EA gen-AI mandate and EA morale (based on employee complaints, a labor/business angle, no official action); Kotaku Haunted Paws knockoff (another case in the AI-clone running story); Equity voice-actor warning (union advisory about one casting call, off-list outlet); IGN RDR2 Nemesis mod (10-19, stale); Gameple inZOI AI mods (10-19, stale). Cross-section: published_urls.json is too large to scan in full without grep. Only the design block was checked, and it has blogs.nvidia RTX Spark, so NVIDIA was avoided. The orchestrator should exact-grep these five URLs and 'Open3DLab', 'Nexon AI NPC'/'넥슨 라이브 메모리' and '라인게임즈 Games on AWS' across all sections before roll. Outlets: Kotaku, Eurogamer, Game Developer, 아이뉴스24, 디스이즈게임, one card each."
   }
 }

@@ -1,31 +1,6 @@
-{
-  "date": "2026-10-28",
-  "section": "science",
-  "media": [
-    {
-      "id": "dueling-proofs",
-      "type": "image",
-      "src": "pipeline/media/dueling-proofs.jpg"
-    },
-    {
-      "id": "spine",
-      "type": "image",
-      "src": "pipeline/media/spine.jpg"
-    },
-    {
-      "id": "kls-conjecture",
-      "type": "image",
-      "src": "pipeline/media/kls-conjecture.jpg"
-    },
-    {
-      "id": "nrps-enzyme",
-      "type": "image",
-      "src": "pipeline/media/nrps-enzyme.jpg"
-    },
-    {
-      "id": "llm-empathy",
-      "type": "image",
-      "src": "pipeline/media/llm-empathy.jpg"
-    }
-  ]
-}
+{"date":"2026-10-29","section":"science","media":[
+{"id":"nmr-spectrometer","type":"image","src":"pipeline/media/nmr-spectrometer.jpg"},
+{"id":"pasqal","type":"image","src":"pipeline/media/pasqal.png"},
+{"id":"novelty-bench","type":"image","src":"pipeline/media/novelty-bench.png"},
+{"id":"blight-rice","type":"image","src":"pipeline/media/blight-rice.jpg"},
+{"id":"ai-ideas-people","type":"image","src":"pipeline/media/ai-ideas-people.jpg"}]}

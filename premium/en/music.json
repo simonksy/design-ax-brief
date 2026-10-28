@@ -8937,6 +8937,153 @@
           "x": "Suno has from the outset offered a fair use defense and attempted to refute the idea that its outputs are harming the market for actual music. Meanwhile, the majors are also pressing DistroKid over its AI-detection tool, and Suno and Udio are seeking DSP play-volume data from the Mechanical Licensing Collective."
         }
       ]
+    },
+    "music/behringerkick": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/EYQqEuQYEJo9onmXDpaQTd.jpg",
+          "cap": "(Image credit: Behringer)"
+        },
+        {
+          "t": "p",
+          "x": "Behringer is teasing a forthcoming hardware sampler, Kick, which looks an awful lot like Akai’s recently-updated MPC One. Even before the hardware has been released, Behringer has uploaded resources for its open source firmware to GitHub, inviting potential users to “create, modify and reinvent what an instrument can do.”"
+        },
+        {
+          "t": "p",
+          "x": "Kick has 16 pads, four assignable knobs, a touchscreen and audio, MIDI and CV connectivity, plus an ‘AI camera’ said to allow for gesture control and a small touchstrip. Its promised price is $150."
+        },
+        {
+          "t": "p",
+          "x": "In its Facebook post, Behringer is explicit about the role it sees AI playing: “With AI, even people without programming experience can turn their ideas into new features and firmware.” Akai looks set to take an open approach too with the teased MPC Sample Key."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/zZAfXZUMxJRUiTGXwnNpLH.jpg",
+          "cap": "Akai's own Sample Key is also set to join the open-source boom. (Image credit: Akai Professional/Instagram)"
+        },
+        {
+          "t": "p",
+          "x": "MusicRadar warns of a danger: by opening a product up to AI-generated firmware, adding new features becomes more of a community responsibility, and brands could see AI-empowered users as a way to save money on development, testing and updating. Kick’s GitHub specs tout sample editing, a step sequencer and looper, around something called ‘JAM DAW’."
+        }
+      ]
+    },
+    "music/machoverbso": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wbur.org/wp/2026/10/IMG_8264-scaled.jpeg",
+          "cap": "Professor and composer Tod Machover with his cello at MIT's Media Lab. (Andrea Shea/WBUR)"
+        },
+        {
+          "t": "p",
+          "x": "MIT Media Lab professor Tod Machover is premiering an interactive composition he wrote for the Boston Symphony Orchestra and artificial intelligence: a 25-minute piece titled “already and not yet” that pairs 80-plus musicians with a new kind of AI system, commissioned to mark the Media Lab’s 40th anniversary."
+        },
+        {
+          "t": "img",
+          "src": "https://media.wbur.org/wp/2026/10/IMG_8221-scaled.jpeg",
+          "cap": "Manaswi Mishra, a doctoral student in Machover’s Opera of the Future group. (Andrea Shea/WBUR)"
+        },
+        {
+          "t": "p",
+          "x": "He built it with doctoral student Manaswi Mishra. “It’s a collaborator, and we've designed it like that,” Machover said. “It’s in dialogue with the live musicians playing on stage… The AI isn't trying to take what the musician does and make a new piece out of it – it's trying to respond and have a back and forth.”"
+        },
+        {
+          "t": "p",
+          "x": "Mishra guides the AI’s responses on stage: “We can make their harmonic information stand out, we can make the rhythmic information stand out, we can make the timbre move in different directions.” In solos, Machover said, “the AI responds… it's different for each performer.”"
+        },
+        {
+          "t": "img",
+          "src": "https://media.wbur.org/wp/2026/10/10.22.26-Manaswi-Mishra-controls-live-AI-system-at-world-premiere-of-Tod-Machovers-already-and-not-yet-Winslow-Townson-scaled.jpg",
+          "cap": "Manaswi Mishra controls a live AI system during the world premiere at Symphony Hall on Oct. 22, 2026. (Courtesy Winslow Townson)"
+        },
+        {
+          "t": "p",
+          "x": "BSO cellist Owen Young: “It is a tool – but the fear is it will replace us – and it's not replacing us in this composition.” The piece runs Oct. 22 - 24 in the BSO’s “Technology and Our Humanity” series."
+        }
+      ]
+    },
+    "music/russiaaisong": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The viral AI-generated song “Ty moya…” (“You’re my…”) by musician DJ NARODNII has been blocked on Russian streaming services, the news outlet Ostorozhno, Novosti reported."
+        },
+        {
+          "t": "p",
+          "x": "Attempts to play the track on services such as Yandex Music bring up a notice saying it is unavailable at the request of Roskomnadzor, Russia’s communications regulator."
+        },
+        {
+          "t": "p",
+          "x": "In late September, Russia’s Federal Agency for Youth Affairs demanded that access to the song be restricted."
+        },
+        {
+          "t": "p",
+          "x": "DJ NARODNII said he received no warning that the track would be removed and found out when he checked the music platforms. He said Yandex Music had removed five remixes along with the original song."
+        },
+        {
+          "t": "p",
+          "x": "The musician believes the track was blocked because of complaints from “certain individuals who took it personally.” He disagrees with the decision: “Then they should block every song with any swearing in it. […] Some people just can’t understand or appreciate real art. It’s like a niche perfume with complex notes.”"
+        },
+        {
+          "t": "p",
+          "x": "DJ NARODNII’s AI track, whose chorus goes “You’re my scumbag, you’re my pig…” has become popular on TikTok and Instagram in recent months. Its creator originally posted the song to mock AI-generated music, but it became a hit."
+        }
+      ]
+    },
+    "music/smebench": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Neural music editing requires a system to perform a requested change while preserving the musical content that should remain unchanged. Existing evaluations often lack a paired target edit. SMEBench is a large-scale benchmark of controlled music edits constructed by modifying symbolic MIDI performances and rendering matched source and target audio."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.36715v1/EditingPipeline_ICLR.png",
+          "cap": "Figure 1: Overview of the SMEBench construction recipe. A 10-second MIDI excerpt is analyzed, the selected intervention is applied, and source and target are rendered with the same SoundFont."
+        },
+        {
+          "t": "p",
+          "x": "Each example contains a source, an instruction, a paired target, edit metadata, and complementary descriptions. The benchmark covers twelve instrumentation, articulation, dynamics, and pitch operations and includes a balanced 3,600-example test set together with a smaller real-audio complement derived from multitrack recordings."
+        },
+        {
+          "t": "p",
+          "x": "The authors benchmark six representative editing systems — SDEdit, DDIM inversion, ZETA, VCI and SteerMusic on an AudioLDM2 backbone, plus MusicGen — showing that the metric used to rank a system can materially change the conclusion."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.36715v1/quantitative.svg",
+          "cap": "Figure 4: System performance on SMEBench and SME-Real under edit-caption and edit-instruction conditioning."
+        },
+        {
+          "t": "p",
+          "x": "Limitations: the taxonomy does not represent vocals, production effects or genre transfer, and no single metric captures preservation, edit execution, and perceptual quality."
+        }
+      ]
+    },
+    "music/logicpro": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/apple-creator-studio-update-adds-motionvfx-to-final-cut-and-ai-to-everywhere/intro-1793118031.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apple has updated its Adobe-rivaling Apple Creator Studio software suite just in time for the arrival of the new M6 iMac and 14-inch MacBook Pro. One of the biggest additions is built-in MotionVFX tools for Final Cut Pro, following Apple's acquisition of MotionVFX earlier this year, plus smoother workflows across apps such as sending timeline images to Pixelmator Pro."
+        },
+        {
+          "t": "p",
+          "x": "AI's presence can be felt across all of Apple's apps, with text-to-image generation and editing tools added to both Final Cut Pro and Pixelmator Pro. In Logic Pro, Apple has teamed up with OpenAI on a new assistant that can edit existing projects, start new songs and generate vocal tracks from text prompts. The same chatbot can be summoned in Keynote, Pages and Numbers for app-specific tasks like animating slides or organizing data."
+        },
+        {
+          "t": "p",
+          "x": "Logic Pro also gains the ability to isolate or swap out drum parts with the Stem Splitter. To use the new in-beta assistant in Logic Pro for Mac you'll need an Apple Intelligence-supported Mac running macOS 27 Golden Gate or later."
+        },
+        {
+          "t": "p",
+          "x": "The updates will be available for free in November for existing subscribers. Apple Creator Studio costs $13 per month or $129 per year; Logic Pro can also be purchased individually for $200."
+        }
+      ]
     }
   }
 }

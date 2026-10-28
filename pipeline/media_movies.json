@@ -1,33 +1,32 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "section": "movies",
   "media": [
     {
-      "id": "resolve2112",
+      "id": "seedance25-4k",
       "type": "image",
-      "src": "pipeline/media/resolve2112.jpg"
+      "src": "pipeline/media/seedance25-4k.jpg"
     },
     {
-      "id": "sntpct",
+      "id": "jimengstudio",
       "type": "image",
-      "src": "pipeline/media/sntpct.jpg"
+      "src": "pipeline/media/jimengstudio.png"
     },
     {
-      "id": "newangles",
+      "id": "oscarsai",
+      "type": "image",
+      "src": "pipeline/media/oscarsai.jpg"
+    },
+    {
+      "id": "rintaro",
       "type": "video",
-      "src": "pipeline/media/newangles.mp4",
-      "poster": "pipeline/media/newangles.jpg"
+      "src": "pipeline/media/rintaro.mp4",
+      "poster": "pipeline/media/rintaro.jpg"
     },
     {
-      "id": "runwaysafety",
-      "type": "video",
-      "src": "pipeline/media/runwaysafety.mp4",
-      "poster": "pipeline/media/runwaysafety.jpg"
-    },
-    {
-      "id": "vcat-tvasahi",
+      "id": "atfaizone",
       "type": "image",
-      "src": "pipeline/media/vcat-tvasahi.png"
+      "src": "pipeline/media/atfaizone.jpg"
     }
   ]
 }

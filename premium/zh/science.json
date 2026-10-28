@@ -8763,6 +8763,133 @@
           "x": "该研究由Yiran Jiao et al.完成，发表于ACS Catalysis (2026)。DOI: 10.1021/acscatal.6c00635."
         }
       ]
+    },
+    "science/pasqal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_17-06.png"
+        },
+        {
+          "t": "p",
+          "x": "中性原子量子计算公司Pasqal（Nasdaq: PSQL）宣布在Pasqal Cloud上推出AI-assisted工作流。它以插件形式支持主流智能体编程环境，可把定义清晰的科学构想变成在量子处理器（QPU）上运行的实验，减少从构想到硬件执行之间的工程工作量。"
+        },
+        {
+          "t": "p",
+          "x": "从论文中描述的实验或原创构想出发，该工作流会提取或形式化实验方案，将其转换为可在硬件上运行的量子任务，在仿真中验证，通过云端提交，并把结果处理成科学可观测量。"
+        },
+        {
+          "t": "p",
+          "x": "CEO Wasiq Bokhari表示：“量子计算的瓶颈正在转移。过去需要研究人员投入精力的工程工作，越来越可以自动化，让研究人员能更专注于科学本身。”"
+        },
+        {
+          "t": "p",
+          "x": "构想、验证，以及测量什么、结果是否支持某个物理结论等决策，仍由用户负责。该插件可安装在Claude Code、Cursor、Codex等环境中，并在Pasqal Cloud的三台QPUs上运行实验：由GENCI在法国CEA运营的Ruby、位于加拿大Québec省Sherbrooke的FC1，以及位于沙特阿拉伯王国的SA1。"
+        }
+      ]
+    },
+    "science/novelty-bench": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-header.png"
+        },
+        {
+          "t": "p",
+          "x": "Ai2发布了Old Ideas, Novel Problems，研究LLMs评估研究构想新颖性的可靠程度，并公开了基准、数据、代码以及用于构建新评估集的自动化流程。生成研究构想的系统往往把新颖性判定交给另一个LLM，即“新颖性评判者”。"
+        },
+        {
+          "t": "p",
+          "x": "该基准取材于ICLR 2026的同行评审：来自top-10%录用论文的154个高新颖性人类构想，与来自bottom-10%被拒论文的145个低新颖性构想（Human-Only）；以及这154个人类构想与一个简单LLM生成器产出的154个构想的配对（Human+Generated）。"
+        },
+        {
+          "t": "p",
+          "x": "在六个评判模型（GPT-5.1、GPT-5.2、GPT-5.4、Claude Sonnet 4.5、Claude Opus 4.5和Claude Opus 4.6）上，细微的设置改动都带来了截然不同的判定。把GPT-5.4换成更简单的提示词后，它在Human+Generated配对上的准确率从93.5%降至40.9%，低于随机水平；而在Human-Only上，同样的改动只让准确率变化约七个点。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-prompt-wording-chart.png"
+        },
+        {
+          "t": "p",
+          "x": "更多搜索和推理并不能稳定带来提升：智能体式的GPT-5.6 Sol评判者macro-F1为0.78，低于Claude Opus 4.6的0.89，成本却约为10x。一个简单的Claude Opus 4.6提示词以$2.59达到0.854，胜过Idea Novelty Checker（0.642，$30.66）和Sakana AI的AI Scientist（0.772，$82.05）。"
+        }
+      ]
+    },
+    "science/blight-rice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-create-ric.jpg",
+          "cap": "Bing Yang. Credit: Braiden Wade / University of Missouri"
+        },
+        {
+          "t": "p",
+          "x": "University of Missouri的研究人员培育出了抗白叶枯病的水稻。这种病害可能让亚洲和非洲部分地区的收成毁于一旦，危及生计。College of Agriculture, Food and Natural Resources的Curators'杰出教授、Bond Life Sciences Center研究员Bing Yang说：“白叶枯病会严重破坏水稻作物，使产量和品质双双下降。”"
+        },
+        {
+          "t": "p",
+          "x": "团队使用借助人工智能设计的基因编辑系统OpenCRISPR-1，改变了使植物易感病的基因。该工具最初由加利福尼亚生物技术公司Profluent开发，并已在动物细胞中得到验证；Yang的团队将其改造用于水稻。研究发表在aBIOTECH上。"
+        },
+        {
+          "t": "p",
+          "x": "这些结果来自实验室株系。在农民受益之前，这些性状还需导入商业种植品种，通过更多测试和监管要求，并找到产业合作伙伴，这可能需要数年时间。Yang认为，这一方法可推广到玉米和大豆，并用于应对从植物病害到干旱和极端温度等各种挑战。OpenCRISPR-1是开源的，可免费用于作物基因组编辑的研究和商业化。"
+        }
+      ]
+    },
+    "science/ai-ideas-people": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/collaboration.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "生成式AI带来的效率提升常被宣扬，但它如何影响协作与创造力？认知科学家Clin Lai和Roger Beaty用衡量发散思维的“替代用途任务”做了一项实验，将208名参与者随机分配与ChatGPT或另一个人合作。"
+        },
+        {
+          "t": "p",
+          "x": "与ChatGPT合作的人写出的回答更长，“但真人搭档想出的点子比与ChatGPT合作的人更有创意。”真人搭档的点子也更独特、更多样。AI的个别建议也可能很有创意，比如把书当作消音材料，但ChatGPT在许多彼此独立的会话中给出了同一个点子，使其点子池更趋同质。"
+        },
+        {
+          "t": "p",
+          "x": "作者指出，大型语言模型基于相似数据训练，用于预测最可能出现的下一个词，因此往往趋于一致。以语义距离衡量，与他人合作带来的创造力优势会随着协作推进而增强。"
+        },
+        {
+          "t": "p",
+          "x": "人设提示提高了ChatGPT点子的多样性，但其范围仍不及人类写作者。他们的建议是：先和人聊，再和AI聊。该研究发表于Computers in Human Behavior。"
+        }
+      ]
+    },
+    "science/dueling-proofs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/a68eee8f-8e2b-4674-bee4-bc400e160421/shutterstock_1178400508.jpg?m=1793104449.992&w=1200",
+          "cap": "xpixel/Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "在向一个本已陷入危机的领域抛出数百项人工智能生成的数学突破仅几周后，OpenAI又发布了三项涉及数学、物理和计算机科学的大型证明。与近来其他AI-generated的“slop drops”一样，这些发布已经引发争议。"
+        },
+        {
+          "t": "p",
+          "x": "这些发布与OpenAI自己组建的专家小组Advisory Group on Mathematics and Artificial Intelligence（AGMAI）的建议相悖。该模型仍为专有，提示词、计算时长和chain-of-thought输出均未公开。其中两项结果与Anthropic参与的密切相关研究重合。"
+        },
+        {
+          "t": "p",
+          "x": "Kakeya：在上月解决四维情形后，OpenAI的内部模型如今已在所有维度上解决了Kakeya问题。"
+        },
+        {
+          "t": "p",
+          "x": "Yang-Mills：OpenAI声称证明了Millennium Prize Problem中“存在性”的一半，“质量间隙”仍未解决。Anthropic员工Levent Alpöge与Northwestern的Ethan Sussman此前一直在公开的GitHub仓库中借助LLMs完成Balaban的纲领；OpenAI这一没有公开证明的主张似乎抢先了他们。"
+        },
+        {
+          "t": "p",
+          "x": "Exponential Time Hypothesis：OpenAI的证明给出了一个仅比指数时间略快一点的3-SAT算法，从而推翻ETH。Russell Impagliazzo、Ramamohan Paturi和Ryan Williams正与OpenAI合作开展独立调查。OpenAI宣布后仅数小时，Anthropic便基于其内部Anthropic模型的工作，发布了自己独立证否ETH的结果。"
+        }
+      ]
     }
   }
 }

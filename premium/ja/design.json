@@ -10033,6 +10033,153 @@
           "x": "この機能はブランドのビジュアル一貫性を画像生成プロセスに組み込む。ただし公式発表には、ロゴの形状や書体の使用ルールをどれほど正確に守るかについての検証結果は含まれていなかった。実際のコンテンツに使う前に、生成画像を元のガイドラインと照らし合わせる必要がある。ビジネス向けスタート画面と新たな連携アプリは、世界中のGeminiアプリユーザーに順次提供される。"
         }
       ]
+    },
+    "design/clate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.electropages.com/storage/app/media/2026/10.%20October/cropped-images/Clate-PR%20image_02-0-0-1200-630-1793190752.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Qt Groupは、組み込み機器向けのユーザーインターフェース制作に特化した新しいAI-poweredデザインツール「Clate」を発表した。Qt World Summit 2026で披露されたこのプラットフォームはノーコード環境を備え、デザイナーは組み込みシステムのハードウェア制約を考慮しながらインターフェースを開発できる。"
+        },
+        {
+          "t": "p",
+          "x": "Clateは、無限キャンバス、階層ツリー、アセット管理、コンポーネントライブラリ、コンテキストに応じたプロパティ操作を備えたビジュアルな作業空間を提供する。AIアシスタントにより、デザイナーは自然言語プロンプトで画面を生成し、インターフェース要素を修正できる。Model Context Protocol (MCP)を通じて他のツールとも連携する。QMLコードを自動生成するため、開発者はインターフェースを手作業で作り直すことなく、デザイナーの成果物をそのまま扱える。"
+        },
+        {
+          "t": "p",
+          "x": "Qt Groupは、フレームレートとメモリ消費量をデザイン時に監視する機能も計画している。Qt Groupによれば、組み込みUXデザイナーの59%が、より適したデザインツールがあれば役立つと考えていた。"
+        },
+        {
+          "t": "p",
+          "x": "「組み込みUI/UXデザイナーはあまりにも長い間、現実のハードウェア制約をまったく考慮しないウェブ中心のツールを使い、仕事で妥協を強いられてきた」と、Qt GroupのVice President, Design ProductsであるAntti Kujala氏は述べた。"
+        },
+        {
+          "t": "p",
+          "x": "Clateはベータ版として提供を開始し、予定されている全機能は2027年初頭にそろう見込みだ。"
+        }
+      ]
+    },
+    "design/nuke18": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261027_Nuke18_OpenBeta_f-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Foundryは、コンポジットアプリ群の最新アップデートとなるNuke 18.0をベータ版として公開した。Nuke本体には新たにGriptape Nodeが加わり、FoundryのAIオーケストレーションプラットフォームであるGriptapeと接続できるようになった。これによりコンポジターは、Nukeのノードグラフ内で生成AIワークフローを直接実行できる。たとえば、プロジェクトに合成するエフェクト素材を作成するといった使い方だ。"
+        },
+        {
+          "t": "video",
+          "yt": "iK5xckpMLag"
+        },
+        {
+          "t": "p",
+          "x": "Griptapeでは、静止画、動画、3Dアセット、オーディオ向けのサードパーティ製AIモデルを組み合わせ、比較的制御しやすく再現性のあるワークフローを構築できる。想定される用途は、キーイング、マスキング、インペインティング、クリーンプレート生成から、まったく新しいアセットの生成まで幅広い。新しいノードは稼働中のGriptapeエンジンに直接接続し、Nuke内のコントロールノブ（プロンプト、モデル、シード、アスペクト比）を自動で設定する。"
+        },
+        {
+          "t": "p",
+          "x": "今回のリリースでは3D Gaussian Splatsを使ったワークフローも改善され、新しいカメラフォーマットとH.265/HEVCメディアに対応したほか、Nuke Studioに自動カット検出が加わった。"
+        },
+        {
+          "t": "p",
+          "x": "Nuke 18.0はベータ版だ。年間サブスクリプション価格は、Nukeが年$3,839、NukeXが年$5,219、Nuke Studioが年$6,379だ。Griptape Nodesは無料でダウンロードできるが、AIモデルの利用はクレジット制で課金される。"
+        }
+      ]
+    },
+    "design/vectorworks-nano": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/onvm0vode0lbhelfz3iu-scaled.webp",
+          "cap": "画像: © Vectorworks"
+        },
+        {
+          "t": "p",
+          "x": "Vectorworksの AI Visualizer 最新版は、高品質でリアルな AI-generated ビジュアルのため、GoogleのNano Bananaを含む新モデル二つを提供する。Vectorworks 2027 のサブスクリプションがあれば、AI Visualizer パレットでGoogleの Nano Banana 2 と Nano Banana Pro を使える。"
+        },
+        {
+          "t": "p",
+          "x": "Nano Banana 2 はデザイン過程を通じてコンセプトを試し、ビジュアルを反復するのに向き、Nano Banana Pro は重要なプレゼンテーションや成果物向けにより精細な画像を作るのに役立つ。両モデルとも 2K 解像度で画像を生成・編集し、4K へのアップスケールが可能で、プロンプトごとに最大 14 枚の参照画像に対応する。"
+        },
+        {
+          "t": "p",
+          "x": "各サブスクリプションライセンスには暦月ごとに 150 クレジットが含まれる。Nano Banana 2 は生成または編集した画像一枚につき二クレジット、4K へのアップスケールに四クレジットを使い、Nano Banana Pro はそれぞれ三と六を使う。月 150 クレジットを使い切ると、AI Visualizer はクレジット不要の Basic モデルに自動で切り替わる。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/fvnfqfow7jjehydeazpm-300x169.webp",
+          "cap": "画像: © Vectorworks"
+        },
+        {
+          "t": "p",
+          "x": "Basic モデルは、素早いスタディや繰り返しの反復のために AI ビジュアルを無制限に生成・調整でき、プロンプトごとに最大二枚の参照画像に対応する。"
+        }
+      ]
+    },
+    "design/ai-time-savings": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/2600/1*dZrEcUcZH_5ulg0g4yd0zQ.jpeg",
+          "cap": "写真: cottonbro studio"
+        },
+        {
+          "t": "p",
+          "x": "仕事はかつてなく速くなったのに、一日は少しも短くならない。Nielsen Norman GroupがUX実務者521人を対象にした調査を発表した。回答者はAIが作業時間に与える効果を5点満点中4.2と評価したが、職場でのAIをどう感じるかという問いへの平均は5点満点中3.57にとどまった。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/2600/1*k8hCs3AXzCFKkutCoaTsNw.png"
+        },
+        {
+          "t": "p",
+          "x": "コメントの69%には何らかの否定的な感情が表れており、その筆頭は出力の信頼性の低さと、それを確認する負担だった。NN/gの結論は、AIが節約した時間は、節約した本人の手元にはめったに残らないというものだ。Kai Wongはこれを、Jevonsのパラドックスや、Peter Merholzの言う「可読性のギャップ（legibility gap）」と結びつける。画面の裏にあるリサーチや反復、AI-checkingは、初期状態では見えないのだ。"
+        },
+        {
+          "t": "p",
+          "x": "B2Bセキュリティ企業のHead of Designは、Claude CodeによってFigma-to-codeの工程が四日間から約八時間に縮んだが、それでも「出力は同じ程度に精査しなければならない」と話す。"
+        },
+        {
+          "t": "p",
+          "x": "彼の助言は「すべての時間を計れ（Time everything）」だ。前後の節約時間を記録し、検証にかかる時間を最初に確保し、見えない精査を目に見える意思決定文書に変え、自分の時間がどこに使われたかを売り込むべきだという。"
+        }
+      ]
+    },
+    "design/a2ui": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/00-header-1600x900_1.original.png"
+        },
+        {
+          "t": "p",
+          "x": "A2UIと生成UI体験の速度に関する懸念は届いている。モデルが画面を一つずつ生成する間、人は待たされる。今回のリリースは切り替え可能な推論形式を導入し、A2UIで決定モデルを活用する例も示す。新しいA2UI Expressを推論形式に使えば遅延を最大3x、Jevのような決定モデルでレイアウトを決めれば最大80x削減できる。Expressは同種のUIを生成するのに、Direct JSONと比べてトークンが最大3x少なくて済む。"
+        },
+        {
+          "t": "p",
+          "x": "複雑なJSONスキーマに縛られたJSONツリーの生成は、LLMsにとって遅く、誤りも起きやすいことがわかった。今後エージェントは中間形式のA2UI Expressを生成し、A2UIのAgent SDKsに含まれる決定論的なコードがそれをJSON-basedの転送プロトコルに変換する。形式はジェネレーター作成時に引数一つで選べる。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/02-how-it-works-swap.original.png"
+        },
+        {
+          "t": "p",
+          "x": "ExpressはPythonに近いスタイルで、1行に1文を書く。Python agent SDK（a2ui-agent-sdk 0.9.0）、TypeScript agent SDK（@a2ui/agent）、Dart SDKで利用できる。Googleはgemini-3.5-flash上で4つの形式を同じ51-task evalにかけ、Expressがthinkingをオフにしても同等に機能することを確認した。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/04-how-we-chose-express-eval.original.png"
+        },
+        {
+          "t": "p",
+          "x": "形が決まった画面では、TypeSafeのSystem OneモデルであるJevが、型付きのレイアウト質問におよそ100〜300 msで答える。オープンソースのApparite（jev2ui）の例では、11のプロンプトを通じてコンポーネントツリーが92〜298 msで画面に表示され、各画面は0.8〜1.7 sで完成した。"
+        }
+      ]
     }
   }
 }

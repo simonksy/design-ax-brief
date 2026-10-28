@@ -1,215 +1,245 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "section": "medicine",
   "cards": [
     {
-      "id": "medicine-azoospermia-sperm",
+      "id": "medicine-zocdoc-agents",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI, 무정자증 남성\n시료서 희귀 정자 찾는다",
-      "body": "ASRM 2026서 희귀 정자 찾는 AI로 최소 세 명이 태어났다는 보고가 나왔다.",
-      "mini_headline": "AI, 희귀 정자 찾는다",
+      "headline": "Zocdoc, 환자 예약을\nAI 에이전트에 연다",
+      "body": "Zocdoc이 환자 예약을 AI 에이전트에 열자 CEO는 역발상이라 불렀다.",
+      "mini_headline": "Zocdoc, AI 에이전트에 문 연다",
       "tool": "Medicine",
-      "source": "MedPage Today",
-      "url": "https://www.medpagetoday.com/meetingcoverage/asrm/123609",
+      "source": "Healthcare Dive",
+      "url": "https://www.healthcaredive.com/news/zocdoc-invites-ai-agents-to-book-appointments-on-behalf-of-patients/873035/",
       "accent": "#00897b",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "온라인 진료 예약 기업 Zocdoc이 AI 에이전트가 환자 대신 의료진을 찾고 진료를 예약하도록 길을 열었다."
+          },
+          {
+            "t": "p",
+            "x": "회사는 수요일, 에이전트가 접근하려면 Zocdoc에 등록해야 하고 온라인 플랫폼에서 예약을 잡거나 취소하기 전에 환자 동의를 받아야 한다고 밝혔다. Google Gemini, Amazon Health AI, 문자·전화로 움직이는 AI 에이전트 Instinct가 이미 연결됐다. 다른 에이전트도 사람의 도움 여부와 상관없이 접근을 신청할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "Zocdoc 창업자이자 CEO인 Dr. Oliver Kharraz는 “우리처럼 에이전트를 반기는 방식은 다소 역발상적인 행보라고 말하고 싶다”고 말했다."
+          },
+          {
             "t": "img",
-            "src": "https://assets.medpagetoday.net/media/images/123xxx/123609.jpg"
+            "src": "https://imgproxy.divecdn.com/lQDapSCsMDz5_0RSb-feL7Exb-rbQYWNNqYL5JeHdTQ/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3MDMwMzEyLmpwZw==.webp",
+            "cap": "Zocdoc은 칠월 이후 자사 플랫폼의 AI 에이전트 트래픽이 30배 가까이 늘었다고 밝혔다. 이제 예약 플랫폼을 에이전트에 직접 개방한다."
           },
           {
             "t": "p",
-            "x": "BALTIMORE -- 정자가 없다는 진단을 받고도 생물학적 자녀를 원하는 부부라면 인공지능(AI) 기반 도구가 마지막 수단이 될 수 있다는 연구 결과가 American Society for Reproductive Medicine(ASRM) 연례 학술대회에서 나왔다."
+            "x": "승인된 에이전트는 Zocdoc의 AI 백엔드에 붙어 의료진 목록을 살피고, 진료 가능 시간과 보험을 확인한 뒤 진료를 예약할 수 있다. 최종 결정 전에는 환자에게 확인을 받는다."
           },
           {
             "t": "p",
-            "x": "Sperm Tracking and Recovery(STAR) 시스템은 Columbia University Fertility Center의 Hemant Suryawanshi, PhD와 동료들이 개발했다. 고속 이미징과 실시간 AI, 미세유체 기술을 엮어 이미지 이백만 장을 찍어 평가한 뒤 AI가 찾아낸 정자를 소량의 액체에 담아 분리한다."
+            "x": "대신 Zocdoc은 에이전트가 환자 동의를 받고 환자·의료진 데이터를 보호하기를 기대한다. 에이전트는 이 데이터로 스스로를 학습시키거나 재판매하거나 재게시할 수 없다. 이 약속을 어떻게 지키게 할지는 Zocdoc이 구체적으로 밝히지 않았다."
           },
           {
             "t": "p",
-            "x": "정자를 넣은 시료 10개로 시험하자 STAR는 10건 모두에서 정자를 찾았다. 숙련된 전문가는 세 번에 그쳤다. 개수로 보면 STAR가 정자 167개를 찾는 동안 사람은 네 개를 찾아 41배 차이가 났다."
-          },
-          {
-            "t": "p",
-            "x": "수작업 검사에서 정자 음성 판정을 받은 연속 175명을 STAR로 다시 보니 시료의 26%, TESE를 받은 남성의 29%에서 정자가 한 개 이상 나왔다."
-          },
-          {
-            "t": "p",
-            "x": "회수한 정자를 ICSI나 동결 보존에 쓴 사례에서 STAR로 찾은 정자는 최소 세 건의 출산으로 이어졌다. 걸림돌은 사용 편의성이다. STAR를 돌리려면 고도로 훈련된 기술자가 있어야 한다."
+            "x": "Kharraz는 “우리의 사명은 환자에게 힘을 주는 것이다. 환자가 예약을 AI 에이전트에 맡기고 싶다면, 우리는 그들이 원하는 마찰 없는 진료 접근을 제공해야 한다”고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI spots rare sperm in samples\nfrom men with azoospermia",
-          "body": "An AI system that scans samples for rare sperm has led to at least three live births, researchers reported at ASRM 2026.",
-          "mini_headline": "AI finds rare sperm",
+          "headline": "Zocdoc lets AI agents book\nappointments for patients",
+          "body": "Zocdoc is inviting AI agents to book appointments for patients, which its CEO calls a contrarian move.",
+          "mini_headline": "Zocdoc opens to AI agents",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Online scheduling company Zocdoc is now letting AI agents search for providers and book appointments on behalf of patients."
+              },
+              {
+                "t": "p",
+                "x": "Agents must register with Zocdoc to gain access and obtain patient consent before booking or canceling an appointment on its online platform, the company said Wednesday. Google Gemini, Amazon Health AI, and text- and call-based AI agent Instinct are already connected, and other agents can apply for access with or without a human’s help."
+              },
+              {
+                "t": "p",
+                "x": "“I would say that welcoming agents the way we are is a bit of a contrarian move,” said Dr. Oliver Kharraz, founder and CEO of Zocdoc."
+              },
+              {
                 "t": "img",
-                "src": "https://assets.medpagetoday.net/media/images/123xxx/123609.jpg"
+                "src": "https://imgproxy.divecdn.com/lQDapSCsMDz5_0RSb-feL7Exb-rbQYWNNqYL5JeHdTQ/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3MDMwMzEyLmpwZw==.webp",
+                "cap": "Zocdoc says AI agent traffic on its platform has grown nearly 30-fold since July — now the company is opening its booking platform to them directly."
               },
               {
                 "t": "p",
-                "x": "BALTIMORE -- An artificial intelligence (AI)-powered tool could be a last resort for couples wanting to conceive a biological child who had been told they have no sperm, researchers said at the American Society for Reproductive Medicine (ASRM) annual meeting."
+                "x": "An approved agent can plug into Zocdoc’s AI backend to sift through its provider directory, check a clinician’s availability, verify insurance and book an appointment, checking in with the patient before making any final decisions."
               },
               {
                 "t": "p",
-                "x": "The Sperm Tracking and Recovery (STAR) system, developed by Hemant Suryawanshi, PhD, of Columbia University Fertility Center and colleagues, uses high-speed imaging, real-time AI, and microfluidic technology to take two million images, assess them, and isolate the sperm detected by AI into a small volume."
+                "x": "In return, Zocdoc expects agents to obtain patient consent and protect patient and provider data; they are not allowed to train themselves based on the data, resell it or republish it. Zocdoc did not specify how it plans to ensure that agents respect that agreement."
               },
               {
                 "t": "p",
-                "x": "In 10 spiked samples, STAR found sperm in all 10 cases while the manual expert only found it three times. STAR found 167 sperm while the human only found four -- a 41-fold difference."
-              },
-              {
-                "t": "p",
-                "x": "Among 175 consecutive men deemed sperm-negative by manual examination, STAR detected at least one sperm in 26% of the samples, and in 29% of those who had undergone TESE."
-              },
-              {
-                "t": "p",
-                "x": "Sperm identified with STAR has led to at least three live births in which the recovered sperm were used for ICSI or cryopreservation. A major limitation is user-friendliness: STAR requires a highly-trained technician to run it."
+                "x": "“Our mission is to give power to the patient. If they want to delegate the booking to an AI agent, then we should give them the frictionless access to care that they want,” Kharraz said."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI, 무정자증 남성\n시료서 희귀 정자 찾는다",
-          "body": "ASRM 2026서 희귀 정자 찾는 AI로 최소 세 명이 태어났다는 보고가 나왔다.",
-          "mini_headline": "AI, 희귀 정자 찾는다",
+          "headline": "Zocdoc, 환자 예약을\nAI 에이전트에 연다",
+          "body": "Zocdoc이 환자 예약을 AI 에이전트에 열자 CEO는 역발상이라 불렀다.",
+          "mini_headline": "Zocdoc, AI 에이전트에 문 연다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "온라인 진료 예약 기업 Zocdoc이 AI 에이전트가 환자 대신 의료진을 찾고 진료를 예약하도록 길을 열었다."
+              },
+              {
+                "t": "p",
+                "x": "회사는 수요일, 에이전트가 접근하려면 Zocdoc에 등록해야 하고 온라인 플랫폼에서 예약을 잡거나 취소하기 전에 환자 동의를 받아야 한다고 밝혔다. Google Gemini, Amazon Health AI, 문자·전화로 움직이는 AI 에이전트 Instinct가 이미 연결됐다. 다른 에이전트도 사람의 도움 여부와 상관없이 접근을 신청할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Zocdoc 창업자이자 CEO인 Dr. Oliver Kharraz는 “우리처럼 에이전트를 반기는 방식은 다소 역발상적인 행보라고 말하고 싶다”고 말했다."
+              },
+              {
                 "t": "img",
-                "src": "https://assets.medpagetoday.net/media/images/123xxx/123609.jpg"
+                "src": "https://imgproxy.divecdn.com/lQDapSCsMDz5_0RSb-feL7Exb-rbQYWNNqYL5JeHdTQ/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3MDMwMzEyLmpwZw==.webp",
+                "cap": "Zocdoc은 칠월 이후 자사 플랫폼의 AI 에이전트 트래픽이 30배 가까이 늘었다고 밝혔다. 이제 예약 플랫폼을 에이전트에 직접 개방한다."
               },
               {
                 "t": "p",
-                "x": "BALTIMORE -- 정자가 없다는 진단을 받고도 생물학적 자녀를 원하는 부부라면 인공지능(AI) 기반 도구가 마지막 수단이 될 수 있다는 연구 결과가 American Society for Reproductive Medicine(ASRM) 연례 학술대회에서 나왔다."
+                "x": "승인된 에이전트는 Zocdoc의 AI 백엔드에 붙어 의료진 목록을 살피고, 진료 가능 시간과 보험을 확인한 뒤 진료를 예약할 수 있다. 최종 결정 전에는 환자에게 확인을 받는다."
               },
               {
                 "t": "p",
-                "x": "Sperm Tracking and Recovery(STAR) 시스템은 Columbia University Fertility Center의 Hemant Suryawanshi, PhD와 동료들이 개발했다. 고속 이미징과 실시간 AI, 미세유체 기술을 엮어 이미지 이백만 장을 찍어 평가한 뒤 AI가 찾아낸 정자를 소량의 액체에 담아 분리한다."
+                "x": "대신 Zocdoc은 에이전트가 환자 동의를 받고 환자·의료진 데이터를 보호하기를 기대한다. 에이전트는 이 데이터로 스스로를 학습시키거나 재판매하거나 재게시할 수 없다. 이 약속을 어떻게 지키게 할지는 Zocdoc이 구체적으로 밝히지 않았다."
               },
               {
                 "t": "p",
-                "x": "정자를 넣은 시료 10개로 시험하자 STAR는 10건 모두에서 정자를 찾았다. 숙련된 전문가는 세 번에 그쳤다. 개수로 보면 STAR가 정자 167개를 찾는 동안 사람은 네 개를 찾아 41배 차이가 났다."
-              },
-              {
-                "t": "p",
-                "x": "수작업 검사에서 정자 음성 판정을 받은 연속 175명을 STAR로 다시 보니 시료의 26%, TESE를 받은 남성의 29%에서 정자가 한 개 이상 나왔다."
-              },
-              {
-                "t": "p",
-                "x": "회수한 정자를 ICSI나 동결 보존에 쓴 사례에서 STAR로 찾은 정자는 최소 세 건의 출산으로 이어졌다. 걸림돌은 사용 편의성이다. STAR를 돌리려면 고도로 훈련된 기술자가 있어야 한다."
+                "x": "Kharraz는 “우리의 사명은 환자에게 힘을 주는 것이다. 환자가 예약을 AI 에이전트에 맡기고 싶다면, 우리는 그들이 원하는 마찰 없는 진료 접근을 제공해야 한다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが無精子症男性の\n検体から希少な精子を発見",
-          "body": "希少な精子を探すAIシステムで少なくとも三人が誕生したと、ASRM 2026で報告された。",
-          "mini_headline": "AIが希少な精子を発見",
+          "headline": "Zocdoc、患者の予約を\nAIエージェントに開放",
+          "body": "Zocdocが患者の予約をAIエージェントに開放し、CEOはこれを逆張りの一手と呼ぶ。",
+          "mini_headline": "Zocdoc、AIエージェントに開放",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "オンライン予約サービスのZocdocは、AIエージェントが患者に代わって医療提供者を探し、予約できるようにした。"
+              },
+              {
+                "t": "p",
+                "x": "同社が水曜日に明らかにしたところによると、エージェントはアクセスを得るためにZocdocに登録し、オンラインプラットフォーム上で予約や取り消しを行う前に患者の同意を得る必要がある。Google Gemini、Amazon Health AI、テキストと通話で動くAIエージェントInstinctがすでに接続しており、ほかのエージェントも人の手を借りるかどうかにかかわらずアクセスを申請できる。"
+              },
+              {
+                "t": "p",
+                "x": "「当社のようにエージェントを歓迎するのは、少し逆張りの動きだと言える」と、Zocdocの創業者兼CEOであるDr. Oliver Kharrazは述べた。"
+              },
+              {
                 "t": "img",
-                "src": "https://assets.medpagetoday.net/media/images/123xxx/123609.jpg"
+                "src": "https://imgproxy.divecdn.com/lQDapSCsMDz5_0RSb-feL7Exb-rbQYWNNqYL5JeHdTQ/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3MDMwMzEyLmpwZw==.webp",
+                "cap": "Zocdocによると、同社プラットフォーム上のAIエージェントのトラフィックは七月以降で30倍近くに増えた。同社は今、予約プラットフォームをエージェントに直接開放する。"
               },
               {
                 "t": "p",
-                "x": "BALTIMORE -- 人工知能(AI)を活用したツールが、精子がないと告げられながらも生物学的な子どもを望むカップルにとって最後の手段になり得ると、研究者らがAmerican Society for Reproductive Medicine(ASRM)年次総会で述べた。"
+                "x": "承認されたエージェントはZocdocのAIバックエンドに接続し、医療提供者のディレクトリを調べ、臨床医の空き状況を確認し、保険を照合して予約できる。最終的な決定の前には患者に確認をとる。"
               },
               {
                 "t": "p",
-                "x": "Columbia University Fertility CenterのHemant Suryawanshi, PhDらが開発したSperm Tracking and Recovery(STAR)システムは、高速イメージング、リアルタイムAI、マイクロ流体技術を用いて二百万枚の画像を撮影・評価し、AIが検出した精子を少量の液体に分離する。"
+                "x": "その見返りとして、Zocdocはエージェントに患者の同意を得ることと、患者と医療提供者のデータを保護することを求める。エージェントはそのデータで自らを学習させることも、転売や再公開も認められない。Zocdocは、エージェントにこの合意を守らせる方法を明らかにしていない。"
               },
               {
                 "t": "p",
-                "x": "精子を添加した10検体で、STARは10件すべてで精子を見つけたが、熟練者による手作業では三回しか見つからなかった。STARが167個の精子を見つけたのに対し、人は四個にとどまり、41倍の差があった。"
-              },
-              {
-                "t": "p",
-                "x": "手作業の検査で精子陰性とされた連続175人の男性のうち、STARは検体の26%で、TESEを受けた男性では29%で少なくとも一個の精子を検出した。"
-              },
-              {
-                "t": "p",
-                "x": "STARで特定された精子は、回収精子をICSIまたは凍結保存に用いた例で少なくとも三件の出生につながった。大きな課題は使いやすさで、STARの運用には高度な訓練を受けた技術者が必要だ。"
+                "x": "「当社の使命は患者に力を与えることだ。患者が予約をAIエージェントに任せたいなら、望む通りの摩擦のない医療へのアクセスを提供すべきだ」とKharrazは語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI在无精子症男性\n样本中发现稀有精子",
-          "body": "一套扫描样本寻找稀有精子的AI系统已促成至少三例活产，研究人员在ASRM 2026上报告。",
-          "mini_headline": "AI发现稀有精子",
+          "headline": "Zocdoc向AI代理\n开放患者预约",
+          "body": "Zocdoc邀请AI代理为患者预约就诊，其CEO称这是一步逆向之举。",
+          "mini_headline": "Zocdoc向AI代理开放",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "在线预约公司Zocdoc现已允许AI代理代表患者搜索医疗服务提供者并预约就诊。"
+              },
+              {
+                "t": "p",
+                "x": "该公司周三表示，代理须在Zocdoc注册以获得访问权限，并在其在线平台上预约或取消预约前获得患者同意。Google Gemini、Amazon Health AI以及基于短信和电话的AI代理Instinct已经接入，其他代理无论有无人工协助均可申请访问。"
+              },
+              {
+                "t": "p",
+                "x": "“我想说，像我们这样欢迎代理，有点逆向而行，”Zocdoc创始人兼CEO Dr. Oliver Kharraz表示。"
+              },
+              {
                 "t": "img",
-                "src": "https://assets.medpagetoday.net/media/images/123xxx/123609.jpg"
+                "src": "https://imgproxy.divecdn.com/lQDapSCsMDz5_0RSb-feL7Exb-rbQYWNNqYL5JeHdTQ/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3MDMwMzEyLmpwZw==.webp",
+                "cap": "Zocdoc称，自七月以来其平台上的AI代理流量增长了近30倍，如今公司正直接向它们开放预约平台。"
               },
               {
                 "t": "p",
-                "x": "BALTIMORE -- 研究人员在American Society for Reproductive Medicine(ASRM)年会上表示，对于被告知没有精子、却希望孕育亲生孩子的夫妇，一款人工智能(AI)驱动的工具可能成为最后的选择。"
+                "x": "获批的代理可接入Zocdoc的AI后端，筛查其医疗服务提供者名录、查看临床医生的空闲时间、核实保险并预约就诊，在做出任何最终决定前都会先与患者确认。"
               },
               {
                 "t": "p",
-                "x": "由Columbia University Fertility Center的Hemant Suryawanshi, PhD及同事开发的Sperm Tracking and Recovery(STAR)系统，结合高速成像、实时AI和微流控技术，拍摄两百万张图像并加以评估，再将AI检测到的精子分离到少量液体中。"
+                "x": "作为交换，Zocdoc要求代理获得患者同意，并保护患者和医疗服务提供者的数据；代理不得利用这些数据训练自身，也不得转售或重新发布。Zocdoc未具体说明将如何确保代理遵守这一约定。"
               },
               {
                 "t": "p",
-                "x": "在10份加入精子的样本中，STAR在全部10例中都找到了精子，而人工专家只找到三次。STAR共找到167个精子，人工仅找到四个，相差41倍。"
-              },
-              {
-                "t": "p",
-                "x": "在经人工检查判定为精子阴性的175名连续男性中，STAR在26%的样本中至少检出一个精子，在接受过TESE的男性中这一比例为29%。"
-              },
-              {
-                "t": "p",
-                "x": "借助STAR识别的精子已促成至少三例活产，回收的精子被用于ICSI或冷冻保存。一大局限在于易用性：STAR需要训练有素的技术人员操作。"
+                "x": "“我们的使命是赋权于患者。如果他们想把预约交给AI代理，我们就应当为他们提供所希望的无摩擦就医渠道，”Kharraz说。"
               }
             ]
           }
         },
         "es": {
-          "headline": "AI halla espermatozoides raros\nen muestras con azoospermia",
-          "body": "Un sistema de AI que busca espermatozoides raros ha permitido al menos tres nacimientos, según se expuso en ASRM 2026.",
-          "mini_headline": "AI halla espermatozoides raros",
+          "headline": "Zocdoc deja que agentes de AI\nreserven citas para pacientes",
+          "body": "Zocdoc invita a agentes de AI a reservar citas para pacientes, algo que su CEO llama una apuesta a contracorriente.",
+          "mini_headline": "Zocdoc se abre a agentes de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "La empresa de citas en línea Zocdoc permite ahora que agentes de AI busquen proveedores y reserven citas en nombre de los pacientes."
+              },
+              {
+                "t": "p",
+                "x": "Los agentes deben registrarse en Zocdoc para obtener acceso y conseguir el consentimiento del paciente antes de reservar o cancelar una cita en su plataforma en línea, informó la empresa el miércoles. Google Gemini, Amazon Health AI e Instinct, un agente de AI basado en texto y llamadas, ya están conectados, y otros agentes pueden solicitar acceso con o sin ayuda de una persona."
+              },
+              {
+                "t": "p",
+                "x": "“Diría que recibir a los agentes como lo hacemos es una apuesta algo a contracorriente”, dijo el Dr. Oliver Kharraz, fundador y CEO de Zocdoc."
+              },
+              {
                 "t": "img",
-                "src": "https://assets.medpagetoday.net/media/images/123xxx/123609.jpg"
+                "src": "https://imgproxy.divecdn.com/lQDapSCsMDz5_0RSb-feL7Exb-rbQYWNNqYL5JeHdTQ/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3MDMwMzEyLmpwZw==.webp",
+                "cap": "Zocdoc afirma que el tráfico de agentes de AI en su plataforma se ha multiplicado casi por 30 desde julio; ahora la empresa les abre directamente su plataforma de reservas."
               },
               {
                 "t": "p",
-                "x": "BALTIMORE -- Una herramienta basada en inteligencia artificial (AI) podría ser un último recurso para parejas que desean concebir un hijo biológico y a las que se les había dicho que no tienen espermatozoides, señalaron investigadores en la reunión anual de la American Society for Reproductive Medicine (ASRM)."
+                "x": "Un agente aprobado puede conectarse al backend de AI de Zocdoc para revisar su directorio de proveedores, consultar la disponibilidad de un clínico, verificar el seguro y reservar una cita, y consulta con el paciente antes de tomar cualquier decisión final."
               },
               {
                 "t": "p",
-                "x": "El sistema Sperm Tracking and Recovery (STAR), desarrollado por Hemant Suryawanshi, PhD, del Columbia University Fertility Center y sus colegas, utiliza imágenes de alta velocidad, AI en tiempo real y tecnología de microfluidos para tomar dos millones de imágenes, evaluarlas y aislar en un volumen pequeño los espermatozoides detectados por la AI."
+                "x": "A cambio, Zocdoc espera que los agentes obtengan el consentimiento del paciente y protejan los datos de pacientes y proveedores; no pueden entrenarse con esos datos, revenderlos ni republicarlos. Zocdoc no precisó cómo piensa garantizar que los agentes respeten ese acuerdo."
               },
               {
                 "t": "p",
-                "x": "En 10 muestras enriquecidas, STAR encontró espermatozoides en los 10 casos, mientras que el experto manual solo los encontró tres veces. STAR halló 167 espermatozoides frente a solo cuatro del examinador humano: una diferencia de 41 veces."
-              },
-              {
-                "t": "p",
-                "x": "Entre 175 hombres consecutivos considerados sin espermatozoides en el examen manual, STAR detectó al menos un espermatozoide en el 26% de las muestras, y en el 29% de quienes se habían sometido a TESE."
-              },
-              {
-                "t": "p",
-                "x": "Los espermatozoides identificados con STAR han dado lugar al menos a tres nacimientos vivos en los que los espermatozoides recuperados se usaron para ICSI o criopreservación. Una limitación importante es la facilidad de uso: STAR requiere un técnico altamente capacitado para operarlo."
+                "x": "“Nuestra misión es dar poder al paciente. Si quiere delegar la reserva en un agente de AI, debemos darle el acceso sin fricciones a la atención que desea”, dijo Kharraz."
               }
             ]
           }
@@ -217,137 +247,157 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI, 무정자증 남성\n시료서 희귀 정자 찾는다",
-          "body": "희귀 정자 찾는 AI로 최소 세 명이 태어났다고 ASRM 2026서 보고됐다.",
-          "mini_headline": "AI, 희귀 정자 찾는다",
+          "headline": "Zocdoc, 환자 예약을\nAI 에이전트에 연다",
+          "body": "Zocdoc이 AI 에이전트에 환자 예약을 열었고, CEO는 역발상이라 했다.",
+          "mini_headline": "Zocdoc, AI 에이전트에 문 연다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "온라인 진료 예약 기업 Zocdoc이 AI 에이전트가 환자를 대신해 의료진을 찾고 진료를 예약할 수 있도록 했다."
+              },
+              {
+                "t": "p",
+                "x": "회사는 수요일, 에이전트가 접근 권한을 얻으려면 Zocdoc에 등록해야 하고 온라인 플랫폼에서 예약을 잡거나 취소하기 전에 환자 동의를 받아야 한다고 밝혔다. Google Gemini, Amazon Health AI, 문자·전화 기반 AI 에이전트 Instinct가 이미 연결됐고, 다른 에이전트도 사람의 도움을 받든 받지 않든 접근을 신청할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Zocdoc 창업자이자 CEO인 Dr. Oliver Kharraz는 “우리처럼 에이전트를 반기는 방식은 다소 역발상적인 행보라고 말하고 싶다”고 말했다."
+              },
+              {
                 "t": "img",
-                "src": "https://assets.medpagetoday.net/media/images/123xxx/123609.jpg"
+                "src": "https://imgproxy.divecdn.com/lQDapSCsMDz5_0RSb-feL7Exb-rbQYWNNqYL5JeHdTQ/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3MDMwMzEyLmpwZw==.webp",
+                "cap": "Zocdoc은 칠월 이후 자사 플랫폼의 AI 에이전트 트래픽이 30배 가까이 늘었다고 밝혔다. 이제 회사는 예약 플랫폼을 에이전트에 직접 개방한다."
               },
               {
                 "t": "p",
-                "x": "BALTIMORE -- 인공지능(AI) 기반 도구가 정자가 없다는 진단을 받고도 생물학적 자녀를 원하는 부부에게 마지막 수단이 될 수 있다고 연구진이 American Society for Reproductive Medicine(ASRM) 연례 학술대회에서 밝혔다."
+                "x": "승인된 에이전트는 Zocdoc의 AI 백엔드에 연결해 의료진 목록을 살피고, 의료진의 진료 가능 시간을 확인하고, 보험을 확인한 뒤 진료를 예약할 수 있다. 최종 결정을 내리기 전에는 환자에게 확인을 거친다."
               },
               {
                 "t": "p",
-                "x": "Columbia University Fertility Center의 Hemant Suryawanshi, PhD와 동료들이 개발한 Sperm Tracking and Recovery(STAR) 시스템은 고속 이미징, 실시간 AI, 미세유체 기술로 이미지 이백만 장을 찍어 평가하고, AI가 찾아낸 정자를 소량의 액체로 분리한다."
+                "x": "그 대가로 Zocdoc은 에이전트가 환자 동의를 받고 환자와 의료진 데이터를 보호하기를 기대한다. 에이전트는 이 데이터로 스스로를 학습시키거나 재판매하거나 재게시할 수 없다. Zocdoc은 에이전트가 이 약속을 지키도록 어떻게 보장할지는 구체적으로 밝히지 않았다."
               },
               {
                 "t": "p",
-                "x": "정자를 넣은 시료 10개에서 STAR는 10건 모두 정자를 찾았지만, 숙련된 전문가는 세 번만 찾았다. STAR가 정자 167개를 찾는 동안 사람은 네 개를 찾는 데 그쳐 41배 차이가 났다."
-              },
-              {
-                "t": "p",
-                "x": "수작업 검사에서 정자 음성으로 판정된 연속 175명 가운데 STAR는 시료의 26%에서, TESE를 받은 남성의 29%에서 정자를 한 개 이상 찾아냈다."
-              },
-              {
-                "t": "p",
-                "x": "STAR로 찾은 정자는 회수된 정자를 ICSI나 동결 보존에 쓴 사례에서 최소 세 건의 출산으로 이어졌다. 다만 사용 편의성이 큰 한계다. STAR를 운용하려면 고도로 훈련된 기술자가 필요하다."
+                "x": "Kharraz는 “우리의 사명은 환자에게 힘을 주는 것이다. 환자가 예약을 AI 에이전트에 맡기고 싶다면, 우리는 그들이 원하는 마찰 없는 진료 접근을 제공해야 한다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが無精子症男性の\n検体から希少な精子を発見",
-          "body": "希少な精子を探すAIシステムで少なくとも三人が誕生したと、ASRM 2026で報告された。",
-          "mini_headline": "AIが希少な精子を発見",
+          "headline": "Zocdoc、患者の予約を\nAIエージェントに開放",
+          "body": "Zocdocが患者の予約をAIエージェントに開放し、CEOはこれを逆張りの一手と呼ぶ。",
+          "mini_headline": "Zocdoc、AIエージェントに開放",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "オンライン予約サービスのZocdocは、AIエージェントが患者に代わって医療提供者を探し、予約できるようにした。"
+              },
+              {
+                "t": "p",
+                "x": "同社が水曜日に明らかにしたところによると、エージェントはアクセスを得るためにZocdocに登録し、オンラインプラットフォーム上で予約や取り消しを行う前に患者の同意を得る必要がある。Google Gemini、Amazon Health AI、テキストと通話で動くAIエージェントInstinctがすでに接続しており、ほかのエージェントも人の手を借りるかどうかにかかわらずアクセスを申請できる。"
+              },
+              {
+                "t": "p",
+                "x": "「当社のようにエージェントを歓迎するのは、少し逆張りの動きだと言える」と、Zocdocの創業者兼CEOであるDr. Oliver Kharrazは述べた。"
+              },
+              {
                 "t": "img",
-                "src": "https://assets.medpagetoday.net/media/images/123xxx/123609.jpg"
+                "src": "https://imgproxy.divecdn.com/lQDapSCsMDz5_0RSb-feL7Exb-rbQYWNNqYL5JeHdTQ/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3MDMwMzEyLmpwZw==.webp",
+                "cap": "Zocdocによると、同社プラットフォーム上のAIエージェントのトラフィックは七月以降で30倍近くに増えた。同社は今、予約プラットフォームをエージェントに直接開放する。"
               },
               {
                 "t": "p",
-                "x": "BALTIMORE -- 人工知能(AI)を活用したツールが、精子がないと告げられながらも生物学的な子どもを望むカップルにとって最後の手段になり得ると、研究者らがAmerican Society for Reproductive Medicine(ASRM)年次総会で述べた。"
+                "x": "承認されたエージェントはZocdocのAIバックエンドに接続し、医療提供者のディレクトリを調べ、臨床医の空き状況を確認し、保険を照合して予約できる。最終的な決定の前には患者に確認をとる。"
               },
               {
                 "t": "p",
-                "x": "Columbia University Fertility CenterのHemant Suryawanshi, PhDらが開発したSperm Tracking and Recovery(STAR)システムは、高速イメージング、リアルタイムAI、マイクロ流体技術を用いて二百万枚の画像を撮影・評価し、AIが検出した精子を少量の液体に分離する。"
+                "x": "その見返りとして、Zocdocはエージェントに患者の同意を得ることと、患者と医療提供者のデータを保護することを求める。エージェントはそのデータで自らを学習させることも、転売や再公開も認められない。Zocdocは、エージェントにこの合意を守らせる方法を明らかにしていない。"
               },
               {
                 "t": "p",
-                "x": "精子を添加した10検体で、STARは10件すべてで精子を見つけたが、熟練者による手作業では三回しか見つからなかった。STARが167個の精子を見つけたのに対し、人は四個にとどまり、41倍の差があった。"
-              },
-              {
-                "t": "p",
-                "x": "手作業の検査で精子陰性とされた連続175人の男性のうち、STARは検体の26%で、TESEを受けた男性では29%で少なくとも一個の精子を検出した。"
-              },
-              {
-                "t": "p",
-                "x": "STARで特定された精子は、回収精子をICSIまたは凍結保存に用いた例で少なくとも三件の出生につながった。大きな課題は使いやすさで、STARの運用には高度な訓練を受けた技術者が必要だ。"
+                "x": "「当社の使命は患者に力を与えることだ。患者が予約をAIエージェントに任せたいなら、望む通りの摩擦のない医療へのアクセスを提供すべきだ」とKharrazは語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI在无精子症男性\n样本中发现稀有精子",
-          "body": "一套扫描样本寻找稀有精子的AI系统已促成至少三例活产，研究人员在ASRM 2026上报告。",
-          "mini_headline": "AI发现稀有精子",
+          "headline": "Zocdoc向AI代理\n开放患者预约",
+          "body": "Zocdoc邀请AI代理为患者预约就诊，其CEO称这是一步逆向之举。",
+          "mini_headline": "Zocdoc向AI代理开放",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "在线预约公司Zocdoc现已允许AI代理代表患者搜索医疗服务提供者并预约就诊。"
+              },
+              {
+                "t": "p",
+                "x": "该公司周三表示，代理须在Zocdoc注册以获得访问权限，并在其在线平台上预约或取消预约前获得患者同意。Google Gemini、Amazon Health AI以及基于短信和电话的AI代理Instinct已经接入，其他代理无论有无人工协助均可申请访问。"
+              },
+              {
+                "t": "p",
+                "x": "“我想说，像我们这样欢迎代理，有点逆向而行，”Zocdoc创始人兼CEO Dr. Oliver Kharraz表示。"
+              },
+              {
                 "t": "img",
-                "src": "https://assets.medpagetoday.net/media/images/123xxx/123609.jpg"
+                "src": "https://imgproxy.divecdn.com/lQDapSCsMDz5_0RSb-feL7Exb-rbQYWNNqYL5JeHdTQ/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3MDMwMzEyLmpwZw==.webp",
+                "cap": "Zocdoc称，自七月以来其平台上的AI代理流量增长了近30倍，如今公司正直接向它们开放预约平台。"
               },
               {
                 "t": "p",
-                "x": "BALTIMORE -- 研究人员在American Society for Reproductive Medicine(ASRM)年会上表示，对于被告知没有精子、却希望孕育亲生孩子的夫妇，一款人工智能(AI)驱动的工具可能成为最后的选择。"
+                "x": "获批的代理可接入Zocdoc的AI后端，筛查其医疗服务提供者名录、查看临床医生的空闲时间、核实保险并预约就诊，在做出任何最终决定前都会先与患者确认。"
               },
               {
                 "t": "p",
-                "x": "由Columbia University Fertility Center的Hemant Suryawanshi, PhD及同事开发的Sperm Tracking and Recovery(STAR)系统，结合高速成像、实时AI和微流控技术，拍摄两百万张图像并加以评估，再将AI检测到的精子分离到少量液体中。"
+                "x": "作为交换，Zocdoc要求代理获得患者同意，并保护患者和医疗服务提供者的数据；代理不得利用这些数据训练自身，也不得转售或重新发布。Zocdoc未具体说明将如何确保代理遵守这一约定。"
               },
               {
                 "t": "p",
-                "x": "在10份加入精子的样本中，STAR在全部10例中都找到了精子，而人工专家只找到三次。STAR共找到167个精子，人工仅找到四个，相差41倍。"
-              },
-              {
-                "t": "p",
-                "x": "在经人工检查判定为精子阴性的175名连续男性中，STAR在26%的样本中至少检出一个精子，在接受过TESE的男性中这一比例为29%。"
-              },
-              {
-                "t": "p",
-                "x": "借助STAR识别的精子已促成至少三例活产，回收的精子被用于ICSI或冷冻保存。一大局限在于易用性：STAR需要训练有素的技术人员操作。"
+                "x": "“我们的使命是赋权于患者。如果他们想把预约交给AI代理，我们就应当为他们提供所希望的无摩擦就医渠道，”Kharraz说。"
               }
             ]
           }
         },
         "es": {
-          "headline": "AI halla espermatozoides raros\nen muestras con azoospermia",
-          "body": "Un sistema de AI que busca espermatozoides raros ha permitido al menos tres nacimientos, según se expuso en ASRM 2026.",
-          "mini_headline": "AI halla espermatozoides raros",
+          "headline": "Zocdoc deja que agentes de AI\nreserven citas para pacientes",
+          "body": "Zocdoc invita a agentes de AI a reservar citas para pacientes, algo que su CEO llama una apuesta a contracorriente.",
+          "mini_headline": "Zocdoc se abre a agentes de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "La empresa de citas en línea Zocdoc permite ahora que agentes de AI busquen proveedores y reserven citas en nombre de los pacientes."
+              },
+              {
+                "t": "p",
+                "x": "Los agentes deben registrarse en Zocdoc para obtener acceso y conseguir el consentimiento del paciente antes de reservar o cancelar una cita en su plataforma en línea, informó la empresa el miércoles. Google Gemini, Amazon Health AI e Instinct, un agente de AI basado en texto y llamadas, ya están conectados, y otros agentes pueden solicitar acceso con o sin ayuda de una persona."
+              },
+              {
+                "t": "p",
+                "x": "“Diría que recibir a los agentes como lo hacemos es una apuesta algo a contracorriente”, dijo el Dr. Oliver Kharraz, fundador y CEO de Zocdoc."
+              },
+              {
                 "t": "img",
-                "src": "https://assets.medpagetoday.net/media/images/123xxx/123609.jpg"
+                "src": "https://imgproxy.divecdn.com/lQDapSCsMDz5_0RSb-feL7Exb-rbQYWNNqYL5JeHdTQ/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE3MDMwMzEyLmpwZw==.webp",
+                "cap": "Zocdoc afirma que el tráfico de agentes de AI en su plataforma se ha multiplicado casi por 30 desde julio; ahora la empresa les abre directamente su plataforma de reservas."
               },
               {
                 "t": "p",
-                "x": "BALTIMORE -- Una herramienta basada en inteligencia artificial (AI) podría ser un último recurso para parejas que desean concebir un hijo biológico y a las que se les había dicho que no tienen espermatozoides, señalaron investigadores en la reunión anual de la American Society for Reproductive Medicine (ASRM)."
+                "x": "Un agente aprobado puede conectarse al backend de AI de Zocdoc para revisar su directorio de proveedores, consultar la disponibilidad de un clínico, verificar el seguro y reservar una cita, y consulta con el paciente antes de tomar cualquier decisión final."
               },
               {
                 "t": "p",
-                "x": "El sistema Sperm Tracking and Recovery (STAR), desarrollado por Hemant Suryawanshi, PhD, del Columbia University Fertility Center y sus colegas, utiliza imágenes de alta velocidad, AI en tiempo real y tecnología de microfluidos para tomar dos millones de imágenes, evaluarlas y aislar en un volumen pequeño los espermatozoides detectados por la AI."
+                "x": "A cambio, Zocdoc espera que los agentes obtengan el consentimiento del paciente y protejan los datos de pacientes y proveedores; no pueden entrenarse con esos datos, revenderlos ni republicarlos. Zocdoc no precisó cómo piensa garantizar que los agentes respeten ese acuerdo."
               },
               {
                 "t": "p",
-                "x": "En 10 muestras enriquecidas, STAR encontró espermatozoides en los 10 casos, mientras que el experto manual solo los encontró tres veces. STAR halló 167 espermatozoides frente a solo cuatro del examinador humano: una diferencia de 41 veces."
-              },
-              {
-                "t": "p",
-                "x": "Entre 175 hombres consecutivos considerados sin espermatozoides en el examen manual, STAR detectó al menos un espermatozoide en el 26% de las muestras, y en el 29% de quienes se habían sometido a TESE."
-              },
-              {
-                "t": "p",
-                "x": "Los espermatozoides identificados con STAR han dado lugar al menos a tres nacimientos vivos en los que los espermatozoides recuperados se usaron para ICSI o criopreservación. Una limitación importante es la facilidad de uso: STAR requiere un técnico altamente capacitado para operarlo."
+                "x": "“Nuestra misión es dar poder al paciente. Si quiere delegar la reserva en un agente de AI, debemos darle el acceso sin fricciones a la atención que desea”, dijo Kharraz."
               }
             ]
           }
@@ -355,15 +405,15 @@
       }
     },
     {
-      "id": "medicine-chatgpt5-fracture",
+      "id": "medicine-ed-fracture-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ChatGPT-5, 손목\nx-rays 골절 반 놓쳐",
-      "body": "ChatGPT-5는 370장서 골절 170건 중 83건 놓쳐 민감도 51.2%였다.",
-      "mini_headline": "ChatGPT-5, 골절 놓쳐",
+      "headline": "응급실(ED) 방사선사,\nAI 유무로 골절 판독",
+      "body": "한 응급실 방사선사 13명이 석 달간 AI 도움 유무에 따라 골절을 판독했다.",
+      "mini_headline": "실제 ED 현장의 골절 AI",
       "tool": "Medicine",
-      "source": "AuntMinnie",
-      "url": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15975589/chatgpt5-misses-half-of-distal-radius-fractures-on-xrays",
+      "source": "npj Digital Medicine (Nature)",
+      "url": "https://www.nature.com/articles/s41746-026-03313-x",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -371,179 +421,149 @@
         "blocks": [
           {
             "t": "p",
-            "x": "골절이 있느냐고만 묻는 단일 이분형 프롬프트를 주자 ChatGPT-5는 일반 x-rays에서 원위 요골 골절의 약 절반을 놓쳤다. Haifa, Israel의 Rambam Health Care Campus 연구팀이 10월 26일 Emergency Radiology에 발표한 연구 결과다."
+            "x": "골절 탐지 인공지능(AI) 시스템은 통제된 환경에서는 성능이 높지만 실제 현장의 전향적 근거는 부족하다. 배치는 한 응급실에서 석 달간 진행됐다. 방사선사 주도 선별 프로그램에 속한 방사선사 열세 명이 연속된 근골격계 검사 2496건을 독립적으로 판독하고(검사당 방사선사 한 명), 상용 딥러닝 시스템의 출력을 검토한 뒤 최종 판단을 기록했다. 이렇게 영상의학과 전문의 기준과 비교할 짝 판독 2496건이 모였다."
           },
           {
             "t": "p",
-            "x": "연구진은 Stanford MURA 데이터셋의 원위 요골 전후면 x-rays 370장을 공개 웹 인터페이스로 ChatGPT-5에 zero-shot 방식으로 제출했다. 질문은 “이 X-ray에 골절이 있는가? yes 또는 no로 답하라.”였다."
-          },
-          {
-            "t": "img",
-            "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/chatgpt-fractures.umykcGJONV.jpg?auto=format%2Ccompress&fit=max&q=70&w=800",
-            "cap": "기준 표준과 비교한 ChatGPT-5의 대표 출력 사례. Emergency Radiology"
+            "x": "AI 단독 민감도는 75.6%였고 미세 골절에서는 46.2%까지 떨어져, 방사선사의 기본 민감도 91.6%에 못 미쳤다. 방사선사의 기본 정확도는 높았는데(97.6%, 특이도 99.0%) AI 도움을 받자 소폭 올랐다(98.0%, exact McNemar p = 0.0064). AI 도움을 받은 방사선사는 오류 11건을 바로잡고 1건을 새로 만들어 순이득 10건을 거뒀다."
           },
           {
             "t": "p",
-            "x": "분석 표본의 골절 유병률은 45.9%(170/370)였다. ChatGPT-5는 이 가운데 골절 83건을 놓쳤다. 민감도는 51.2%, 특이도는 70.5%, 전체 정확도는 61.6%. 위양성보다 위음성이 유의하게 많았다."
+            "x": "판단이 엇갈린 729건 가운데 방사선사가 결정을 바꾼 건 11건뿐이었고, 부정적 상호작용은 대부분 맞는 AI 권고를 받아들이지 않은 경우였다. 촬영 검사의 8.8%에서는 AI 출력이 아예 없거나 불완전했다."
           },
           {
             "t": "p",
-            "x": "연구진은 \"쉽게 말해, 범용 챗봇으로 방사선 사진에 골절이 있는지 판단해서는 안 된다\"고 적었다."
+            "x": "AI 도움이 낸 이득은 작고 선택적이었다. 알고리즘이 더 뛰어나서가 아니라 서로 보완했기 때문이다. 운영 신뢰성은 진단 정확도만큼 중요했다. 이후 임상 결과는 측정하지 않았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "ChatGPT-5 misses half of\nwrist fractures on x-rays",
-          "body": "ChatGPT-5 missed 83 of 170 distal radius fractures on 370 wrist x-rays, a sensitivity of just 51.2%.",
-          "mini_headline": "ChatGPT-5 misses fractures",
+          "headline": "Radiographers read fractures\nwith and without AI in the ED",
+          "body": "Over three months in one emergency department, 13 radiographers read fractures both with and without AI assistance.",
+          "mini_headline": "Fracture AI in a live ED",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "ChatGPT-5 missed approximately half of distal radius fractures on plain x-rays when provided a single binary fracture-or-not prompt, according to a study published October 26 in Emergency Radiology by a group from the Rambam Health Care Campus in Haifa, Israel."
+                "x": "Artificial intelligence (AI) systems for fracture detection perform strongly in controlled settings, but prospective real-world evidence is limited. In a three-month deployment in one emergency department, thirteen radiographers in a radiographer-led screening programme independently interpreted 2496 consecutive musculoskeletal examinations (one radiographer per examination), reviewed output from a commercial deep-learning system, then recorded a final decision, giving 2496 paired reads against a radiologist reference standard."
               },
               {
                 "t": "p",
-                "x": "The researchers submitted 370 anteroposterior distal radius x-rays from the Stanford MURA dataset to ChatGPT-5 via its public web interface in a zero-shot approach. They asked, “Is there a fracture in this X-ray? Answer with yes or no.”"
-              },
-              {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/chatgpt-fractures.umykcGJONV.jpg?auto=format%2Ccompress&fit=max&q=70&w=800",
-                "cap": "Representative ChatGPT-5 outputs against the reference standard. Emergency Radiology"
+                "x": "Standalone AI sensitivity was 75.6%, falling to 46.2% for subtle fractures, below the radiographers’ baseline sensitivity of 91.6%. Radiographers’ baseline accuracy was high (97.6%; specificity 99.0%) and improved modestly with AI assistance (98.0%; exact McNemar p = 0.0064). With AI assistance, radiographers corrected 11 errors and introduced 1, a net gain of 10 cases."
               },
               {
                 "t": "p",
-                "x": "Fracture prevalence in the analyzed sample was 45.9% (170/370). ChatGPT-5 missed 83 fractures, demonstrating a sensitivity of 51.2% and a specificity of 70.5%, with overall accuracy of 61.6%. False negatives significantly exceeded false positives."
+                "x": "Radiographers changed their decision in only 11 of 729 discordant cases, and most negative interactions were correct AI recommendations not adopted. No or incomplete AI output was returned for 8.8% of acquired examinations."
               },
               {
                 "t": "p",
-                "x": "\"Put plainly: a general-purpose chatbot should not be used to decide whether a radiograph shows a fracture,\" the researchers wrote."
+                "x": "AI assistance delivered a small, selective benefit arising from complementary rather than superior algorithmic performance. Operational reliability proved as consequential as diagnostic accuracy. Downstream clinical outcomes were not measured."
               }
             ]
           }
         },
         "ko": {
-          "headline": "ChatGPT-5, 손목\nx-rays 골절 반 놓쳐",
-          "body": "ChatGPT-5는 370장서 골절 170건 중 83건 놓쳐 민감도 51.2%였다.",
-          "mini_headline": "ChatGPT-5, 골절 놓쳐",
+          "headline": "응급실(ED) 방사선사,\nAI 유무로 골절 판독",
+          "body": "한 응급실 방사선사 13명이 석 달간 AI 도움 유무에 따라 골절을 판독했다.",
+          "mini_headline": "실제 ED 현장의 골절 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "골절이 있느냐고만 묻는 단일 이분형 프롬프트를 주자 ChatGPT-5는 일반 x-rays에서 원위 요골 골절의 약 절반을 놓쳤다. Haifa, Israel의 Rambam Health Care Campus 연구팀이 10월 26일 Emergency Radiology에 발표한 연구 결과다."
+                "x": "골절 탐지 인공지능(AI) 시스템은 통제된 환경에서는 성능이 높지만 실제 현장의 전향적 근거는 부족하다. 배치는 한 응급실에서 석 달간 진행됐다. 방사선사 주도 선별 프로그램에 속한 방사선사 열세 명이 연속된 근골격계 검사 2496건을 독립적으로 판독하고(검사당 방사선사 한 명), 상용 딥러닝 시스템의 출력을 검토한 뒤 최종 판단을 기록했다. 이렇게 영상의학과 전문의 기준과 비교할 짝 판독 2496건이 모였다."
               },
               {
                 "t": "p",
-                "x": "연구진은 Stanford MURA 데이터셋의 원위 요골 전후면 x-rays 370장을 공개 웹 인터페이스로 ChatGPT-5에 zero-shot 방식으로 제출했다. 질문은 “이 X-ray에 골절이 있는가? yes 또는 no로 답하라.”였다."
-              },
-              {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/chatgpt-fractures.umykcGJONV.jpg?auto=format%2Ccompress&fit=max&q=70&w=800",
-                "cap": "기준 표준과 비교한 ChatGPT-5의 대표 출력 사례. Emergency Radiology"
+                "x": "AI 단독 민감도는 75.6%였고 미세 골절에서는 46.2%까지 떨어져, 방사선사의 기본 민감도 91.6%에 못 미쳤다. 방사선사의 기본 정확도는 높았는데(97.6%, 특이도 99.0%) AI 도움을 받자 소폭 올랐다(98.0%, exact McNemar p = 0.0064). AI 도움을 받은 방사선사는 오류 11건을 바로잡고 1건을 새로 만들어 순이득 10건을 거뒀다."
               },
               {
                 "t": "p",
-                "x": "분석 표본의 골절 유병률은 45.9%(170/370)였다. ChatGPT-5는 이 가운데 골절 83건을 놓쳤다. 민감도는 51.2%, 특이도는 70.5%, 전체 정확도는 61.6%. 위양성보다 위음성이 유의하게 많았다."
+                "x": "판단이 엇갈린 729건 가운데 방사선사가 결정을 바꾼 건 11건뿐이었고, 부정적 상호작용은 대부분 맞는 AI 권고를 받아들이지 않은 경우였다. 촬영 검사의 8.8%에서는 AI 출력이 아예 없거나 불완전했다."
               },
               {
                 "t": "p",
-                "x": "연구진은 \"쉽게 말해, 범용 챗봇으로 방사선 사진에 골절이 있는지 판단해서는 안 된다\"고 적었다."
+                "x": "AI 도움이 낸 이득은 작고 선택적이었다. 알고리즘이 더 뛰어나서가 아니라 서로 보완했기 때문이다. 운영 신뢰성은 진단 정확도만큼 중요했다. 이후 임상 결과는 측정하지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPT-5、手首の\nx-raysで骨折半数見逃す",
-          "body": "ChatGPT-5は手首画像370枚で骨折170件中83件を見逃し、感度は51.2%だった。",
-          "mini_headline": "ChatGPT-5が骨折を見逃す",
+          "headline": "ED放射線技師が骨折を\nAIあり・なしで読影",
+          "body": "一つの救急外来で三か月間、放射線技師13人がAIの支援あり・なしで骨折を読影した。",
+          "mini_headline": "実臨床のEDで骨折AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Haifa, IsraelのRambam Health Care Campusの研究グループが10月26日にEmergency Radiologyで発表した研究によると、ChatGPT-5は骨折の有無を問う単一の二択プロンプトを与えられた場合、単純x-raysで橈骨遠位端骨折の約半分を見逃した。"
+                "x": "骨折検出用の人工知能(AI)システムは管理された環境では高い性能を示すが、前向きな実臨床エビデンスは限られている。一つの救急外来での三か月間の導入で、放射線技師主導のスクリーニングプログラムに属する十三人の放射線技師が、連続する筋骨格系検査2496件を独立して読影し(検査ごとに技師一人)、商用ディープラーニングシステムの出力を確認したうえで最終判断を記録した。これにより、放射線科医による参照基準と比較できる2496件のペア読影が得られた。"
               },
               {
                 "t": "p",
-                "x": "研究者らはStanford MURAデータセットから橈骨遠位端の正面x-rays 370枚を、公開ウェブインターフェースを通じてzero-shot方式でChatGPT-5に提出した。質問は「このX-rayに骨折はあるか? yesかnoで答えよ。」だった。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/chatgpt-fractures.umykcGJONV.jpg?auto=format%2Ccompress&fit=max&q=70&w=800",
-                "cap": "参照基準と比較したChatGPT-5の代表的な出力例。Emergency Radiology"
+                "x": "AI単独の感度は75.6%で、微細な骨折では46.2%に下がり、放射線技師のベースライン感度91.6%を下回った。放射線技師のベースライン正確度は高く(97.6%、特異度99.0%)、AIの支援でわずかに向上した(98.0%、exact McNemar p = 0.0064)。AIの支援により、技師は誤りを11件修正し、1件を新たに生じさせ、差し引き10件の改善となった。"
               },
               {
                 "t": "p",
-                "x": "解析サンプルにおける骨折の有病率は45.9%(170/370)だった。ChatGPT-5は83件の骨折を見逃し、感度51.2%、特異度70.5%、全体の正確度61.6%を示した。偽陰性は偽陽性を大きく上回った。"
+                "x": "判断が食い違った729件のうち、技師が判断を変えたのは11件にとどまり、負の相互作用の大半は正しいAIの推奨が採用されなかったケースだった。撮影された検査の8.8%では、AIの出力が返されないか不完全だった。"
               },
               {
                 "t": "p",
-                "x": "「端的に言えば、汎用チャットボットを、放射線写真に骨折があるかどうかの判断に使うべきではない」と研究者らは記している。"
+                "x": "AIの支援がもたらしたのは、アルゴリズムの優位性ではなく補完性から生じた小さく選択的な利益だった。運用上の信頼性は診断精度と同じくらい重要であることが分かった。その後の臨床転帰は測定されていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ChatGPT-5漏诊了\nx-rays上半数腕部骨折",
-          "body": "ChatGPT-5对370张腕部x-rays漏诊170例骨折中83例，灵敏度仅51.2%。",
-          "mini_headline": "ChatGPT-5漏诊骨折",
+          "headline": "急诊科(ED)放射技师\n有无AI辅助读骨折片",
+          "body": "在一家急诊科的三个月里，13名放射技师在有无AI辅助下判读骨折。",
+          "mini_headline": "真实ED中的骨折AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Haifa, Israel的Rambam Health Care Campus研究团队10月26日在Emergency Radiology发表的研究显示，在仅给出“是否骨折”这一单一二元提示时，ChatGPT-5在普通x-rays上漏诊了约一半的桡骨远端骨折。"
+                "x": "用于骨折检测的人工智能(AI)系统在受控环境中表现出色，但前瞻性真实世界证据有限。在一家急诊科为期三个月的部署中，放射技师主导的筛查项目里的十三名放射技师独立判读了2496例连续的肌肉骨骼检查（每例检查由一名技师判读），查看一套商用深度学习系统的输出后记录最终判断，从而得到2496组以放射科医生参考标准为对照的配对判读。"
               },
               {
                 "t": "p",
-                "x": "研究人员通过公开网页界面，以zero-shot方式向ChatGPT-5提交了Stanford MURA数据集中的370张桡骨远端正位x-rays，并提问：“这张X-ray中有骨折吗？请用yes或no回答。”"
-              },
-              {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/chatgpt-fractures.umykcGJONV.jpg?auto=format%2Ccompress&fit=max&q=70&w=800",
-                "cap": "ChatGPT-5代表性输出与参考标准的对照。Emergency Radiology"
+                "x": "AI单独使用时的敏感度为75.6%，对细微骨折降至46.2%，低于放射技师91.6%的基线敏感度。放射技师的基线准确率很高（97.6%；特异度99.0%），在AI辅助下略有提升（98.0%；exact McNemar p = 0.0064）。在AI辅助下，放射技师纠正了11处错误、新增1处错误，净增10例。"
               },
               {
                 "t": "p",
-                "x": "分析样本中的骨折患病率为45.9%(170/370)。ChatGPT-5漏诊83例骨折，灵敏度为51.2%，特异度为70.5%，总体准确率为61.6%。假阴性显著多于假阳性。"
+                "x": "在729例判读不一致的病例中，放射技师仅在11例中改变了判断，大多数负面交互是未采纳正确的AI建议。在已采集的检查中，有8.8%未返回AI输出或输出不完整。"
               },
               {
                 "t": "p",
-                "x": "研究人员写道：“说得直白些：不应使用通用聊天机器人来判断一张X光片是否显示骨折。”"
+                "x": "AI辅助带来的是小幅、选择性的获益，源于算法的互补性而非更优性能。运行可靠性被证明与诊断准确性同样关键。研究未测量后续临床结局。"
               }
             ]
           }
         },
         "es": {
-          "headline": "ChatGPT-5 no detecta la mitad\nde fracturas de muñeca en x-rays",
-          "body": "ChatGPT-5 no detectó 83 de 170 fracturas distales de radio en 370 x-rays de muñeca: una sensibilidad de solo 51.2%.",
-          "mini_headline": "ChatGPT-5 no detecta fracturas",
+          "headline": "Radiógrafos leen fracturas\ncon y sin AI en urgencias (ED)",
+          "body": "Durante tres meses en un servicio de urgencias, 13 radiógrafos leyeron fracturas con y sin ayuda de AI.",
+          "mini_headline": "AI de fracturas en un ED real",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "ChatGPT-5 no detectó aproximadamente la mitad de las fracturas distales de radio en x-rays simples cuando recibió una única instrucción binaria de fractura o no fractura, según un estudio publicado el 26 de octubre en Emergency Radiology por un grupo del Rambam Health Care Campus de Haifa, Israel."
+                "x": "Los sistemas de inteligencia artificial (AI) para detectar fracturas rinden bien en entornos controlados, pero la evidencia prospectiva en condiciones reales es limitada. En un despliegue de tres meses en un servicio de urgencias, trece radiógrafos de un programa de cribado dirigido por radiógrafos interpretaron de forma independiente 2496 exámenes musculoesqueléticos consecutivos (un radiógrafo por examen), revisaron el resultado de un sistema comercial de aprendizaje profundo y luego registraron una decisión final, lo que dio 2496 lecturas pareadas frente a un estándar de referencia de radiólogos."
               },
               {
                 "t": "p",
-                "x": "Los investigadores enviaron 370 x-rays anteroposteriores de radio distal del conjunto de datos Stanford MURA a ChatGPT-5 a través de su interfaz web pública con un enfoque zero-shot. Preguntaron: “¿Hay una fractura en esta X-ray? Responde con yes o no.”"
-              },
-              {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/chatgpt-fractures.umykcGJONV.jpg?auto=format%2Ccompress&fit=max&q=70&w=800",
-                "cap": "Resultados representativos de ChatGPT-5 frente al estándar de referencia. Emergency Radiology"
+                "x": "La sensibilidad de la AI por sí sola fue del 75.6%, y cayó al 46.2% en fracturas sutiles, por debajo de la sensibilidad basal de los radiógrafos, del 91.6%. La exactitud basal de los radiógrafos fue alta (97.6%; especificidad 99.0%) y mejoró ligeramente con la ayuda de la AI (98.0%; exact McNemar p = 0.0064). Con la ayuda de la AI, los radiógrafos corrigieron 11 errores e introdujeron 1, una ganancia neta de 10 casos."
               },
               {
                 "t": "p",
-                "x": "La prevalencia de fracturas en la muestra analizada fue del 45.9% (170/370). ChatGPT-5 no detectó 83 fracturas, con una sensibilidad del 51.2%, una especificidad del 70.5% y una precisión global del 61.6%. Los falsos negativos superaron de forma significativa a los falsos positivos."
+                "x": "Los radiógrafos cambiaron su decisión en solo 11 de 729 casos discordantes, y la mayoría de las interacciones negativas fueron recomendaciones correctas de la AI que no se adoptaron. En el 8.8% de los exámenes adquiridos, la AI no devolvió resultado o lo devolvió incompleto."
               },
               {
                 "t": "p",
-                "x": "\"Dicho claramente: un chatbot de uso general no debe utilizarse para decidir si una radiografía muestra una fractura\", escribieron los investigadores."
+                "x": "La ayuda de la AI aportó un beneficio pequeño y selectivo, derivado de un rendimiento algorítmico complementario y no superior. La fiabilidad operativa resultó tan determinante como la precisión diagnóstica. No se midieron los resultados clínicos posteriores."
               }
             ]
           }
@@ -551,125 +571,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "ChatGPT-5, 손목\nx-rays 골절 반 놓쳐",
-          "body": "ChatGPT-5는 370장서 골절 170건 중 83건 놓쳐 민감도 51.2%였다.",
-          "mini_headline": "ChatGPT-5, 골절 놓쳐",
+          "headline": "응급실(ED) 방사선사,\nAI 유무로 골절 판독",
+          "body": "한 응급실에서 석 달간 방사선사 13명이 AI 도움 유무로 골절을 판독했다.",
+          "mini_headline": "실제 ED 현장의 골절 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Haifa, Israel의 Rambam Health Care Campus 연구팀이 10월 26일 Emergency Radiology에 발표한 연구에 따르면, ChatGPT-5는 골절 여부만 묻는 단일 이분형 프롬프트를 받았을 때 일반 x-rays에서 원위 요골 골절의 약 절반을 놓쳤다."
+                "x": "골절 탐지 인공지능(AI) 시스템은 통제된 환경에서 높은 성능을 보이지만, 실제 현장의 전향적 근거는 부족하다. 한 응급실에서 석 달간 진행한 배치에서, 방사선사 주도 선별 프로그램에 속한 방사선사 열세 명이 연속된 근골격계 검사 2496건을 독립적으로 판독하고(검사당 방사선사 한 명), 상용 딥러닝 시스템의 출력을 검토한 뒤 최종 판단을 기록했다. 이렇게 영상의학과 전문의 기준과 비교한 짝 판독 2496건을 얻었다."
               },
               {
                 "t": "p",
-                "x": "연구진은 Stanford MURA 데이터셋의 원위 요골 전후면 x-rays 370장을 공개 웹 인터페이스를 통해 zero-shot 방식으로 ChatGPT-5에 제출했다. 질문은 “이 X-ray에 골절이 있는가? yes 또는 no로 답하라.”였다."
-              },
-              {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/chatgpt-fractures.umykcGJONV.jpg?auto=format%2Ccompress&fit=max&q=70&w=800",
-                "cap": "기준 표준과 비교한 ChatGPT-5의 대표 출력 사례. Emergency Radiology"
+                "x": "AI 단독 민감도는 75.6%였고, 미세 골절에서는 46.2%로 떨어져 방사선사의 기본 민감도 91.6%보다 낮았다. 방사선사의 기본 정확도는 높았고(97.6%, 특이도 99.0%) AI 도움을 받으면 소폭 올라갔다(98.0%, exact McNemar p = 0.0064). AI 도움을 받은 방사선사는 오류 11건을 바로잡고 1건을 새로 만들어 순이득은 10건이었다."
               },
               {
                 "t": "p",
-                "x": "분석 표본의 골절 유병률은 45.9%(170/370)였다. ChatGPT-5는 골절 83건을 놓쳐 민감도 51.2%, 특이도 70.5%, 전체 정확도 61.6%를 보였다. 위음성이 위양성보다 유의하게 많았다."
+                "x": "판단이 엇갈린 729건 가운데 방사선사가 결정을 바꾼 경우는 11건에 그쳤고, 부정적 상호작용의 대부분은 맞는 AI 권고를 받아들이지 않은 경우였다. 촬영한 검사의 8.8%에서는 AI 출력이 아예 없거나 불완전했다."
               },
               {
                 "t": "p",
-                "x": "연구진은 \"쉽게 말해, 범용 챗봇으로 방사선 사진에 골절이 있는지 판단해서는 안 된다\"고 썼다."
+                "x": "AI 도움은 알고리즘이 더 뛰어나서가 아니라 상호 보완적이어서 생긴 작고 선택적인 이득을 냈다. 운영 신뢰성은 진단 정확도만큼 중요했다. 이후 임상 결과는 측정하지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPT-5、手首の\nx-raysで骨折半数見逃す",
-          "body": "ChatGPT-5は手首画像370枚で骨折170件中83件を見逃し、感度は51.2%だった。",
-          "mini_headline": "ChatGPT-5が骨折を見逃す",
+          "headline": "ED放射線技師が骨折を\nAIあり・なしで読影",
+          "body": "一つの救急外来で三か月間、放射線技師13人がAIの支援あり・なしで骨折を読影した。",
+          "mini_headline": "実臨床のEDで骨折AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Haifa, IsraelのRambam Health Care Campusの研究グループが10月26日にEmergency Radiologyで発表した研究によると、ChatGPT-5は骨折の有無を問う単一の二択プロンプトを与えられた場合、単純x-raysで橈骨遠位端骨折の約半分を見逃した。"
+                "x": "骨折検出用の人工知能(AI)システムは管理された環境では高い性能を示すが、前向きな実臨床エビデンスは限られている。一つの救急外来での三か月間の導入で、放射線技師主導のスクリーニングプログラムに属する十三人の放射線技師が、連続する筋骨格系検査2496件を独立して読影し(検査ごとに技師一人)、商用ディープラーニングシステムの出力を確認したうえで最終判断を記録した。これにより、放射線科医による参照基準と比較できる2496件のペア読影が得られた。"
               },
               {
                 "t": "p",
-                "x": "研究者らはStanford MURAデータセットから橈骨遠位端の正面x-rays 370枚を、公開ウェブインターフェースを通じてzero-shot方式でChatGPT-5に提出した。質問は「このX-rayに骨折はあるか? yesかnoで答えよ。」だった。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/chatgpt-fractures.umykcGJONV.jpg?auto=format%2Ccompress&fit=max&q=70&w=800",
-                "cap": "参照基準と比較したChatGPT-5の代表的な出力例。Emergency Radiology"
+                "x": "AI単独の感度は75.6%で、微細な骨折では46.2%に下がり、放射線技師のベースライン感度91.6%を下回った。放射線技師のベースライン正確度は高く(97.6%、特異度99.0%)、AIの支援でわずかに向上した(98.0%、exact McNemar p = 0.0064)。AIの支援により、技師は誤りを11件修正し、1件を新たに生じさせ、差し引き10件の改善となった。"
               },
               {
                 "t": "p",
-                "x": "解析サンプルにおける骨折の有病率は45.9%(170/370)だった。ChatGPT-5は83件の骨折を見逃し、感度51.2%、特異度70.5%、全体の正確度61.6%を示した。偽陰性は偽陽性を大きく上回った。"
+                "x": "判断が食い違った729件のうち、技師が判断を変えたのは11件にとどまり、負の相互作用の大半は正しいAIの推奨が採用されなかったケースだった。撮影された検査の8.8%では、AIの出力が返されないか不完全だった。"
               },
               {
                 "t": "p",
-                "x": "「端的に言えば、汎用チャットボットを、放射線写真に骨折があるかどうかの判断に使うべきではない」と研究者らは記している。"
+                "x": "AIの支援がもたらしたのは、アルゴリズムの優位性ではなく補完性から生じた小さく選択的な利益だった。運用上の信頼性は診断精度と同じくらい重要であることが分かった。その後の臨床転帰は測定されていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ChatGPT-5漏诊了\nx-rays上半数腕部骨折",
-          "body": "ChatGPT-5对370张腕部x-rays漏诊170例骨折中83例，灵敏度仅51.2%。",
-          "mini_headline": "ChatGPT-5漏诊骨折",
+          "headline": "急诊科(ED)放射技师\n有无AI辅助读骨折片",
+          "body": "在一家急诊科的三个月里，13名放射技师在有无AI辅助下判读骨折。",
+          "mini_headline": "真实ED中的骨折AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Haifa, Israel的Rambam Health Care Campus研究团队10月26日在Emergency Radiology发表的研究显示，在仅给出“是否骨折”这一单一二元提示时，ChatGPT-5在普通x-rays上漏诊了约一半的桡骨远端骨折。"
+                "x": "用于骨折检测的人工智能(AI)系统在受控环境中表现出色，但前瞻性真实世界证据有限。在一家急诊科为期三个月的部署中，放射技师主导的筛查项目里的十三名放射技师独立判读了2496例连续的肌肉骨骼检查（每例检查由一名技师判读），查看一套商用深度学习系统的输出后记录最终判断，从而得到2496组以放射科医生参考标准为对照的配对判读。"
               },
               {
                 "t": "p",
-                "x": "研究人员通过公开网页界面，以zero-shot方式向ChatGPT-5提交了Stanford MURA数据集中的370张桡骨远端正位x-rays，并提问：“这张X-ray中有骨折吗？请用yes或no回答。”"
-              },
-              {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/chatgpt-fractures.umykcGJONV.jpg?auto=format%2Ccompress&fit=max&q=70&w=800",
-                "cap": "ChatGPT-5代表性输出与参考标准的对照。Emergency Radiology"
+                "x": "AI单独使用时的敏感度为75.6%，对细微骨折降至46.2%，低于放射技师91.6%的基线敏感度。放射技师的基线准确率很高（97.6%；特异度99.0%），在AI辅助下略有提升（98.0%；exact McNemar p = 0.0064）。在AI辅助下，放射技师纠正了11处错误、新增1处错误，净增10例。"
               },
               {
                 "t": "p",
-                "x": "分析样本中的骨折患病率为45.9%(170/370)。ChatGPT-5漏诊83例骨折，灵敏度为51.2%，特异度为70.5%，总体准确率为61.6%。假阴性显著多于假阳性。"
+                "x": "在729例判读不一致的病例中，放射技师仅在11例中改变了判断，大多数负面交互是未采纳正确的AI建议。在已采集的检查中，有8.8%未返回AI输出或输出不完整。"
               },
               {
                 "t": "p",
-                "x": "研究人员写道：“说得直白些：不应使用通用聊天机器人来判断一张X光片是否显示骨折。”"
+                "x": "AI辅助带来的是小幅、选择性的获益，源于算法的互补性而非更优性能。运行可靠性被证明与诊断准确性同样关键。研究未测量后续临床结局。"
               }
             ]
           }
         },
         "es": {
-          "headline": "ChatGPT-5 no detecta la mitad\nde fracturas de muñeca en x-rays",
-          "body": "ChatGPT-5 no detectó 83 de 170 fracturas distales de radio en 370 x-rays de muñeca: una sensibilidad de solo 51.2%.",
-          "mini_headline": "ChatGPT-5 no detecta fracturas",
+          "headline": "Radiógrafos leen fracturas\ncon y sin AI en urgencias (ED)",
+          "body": "Durante tres meses en un servicio de urgencias, 13 radiógrafos leyeron fracturas con y sin ayuda de AI.",
+          "mini_headline": "AI de fracturas en un ED real",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "ChatGPT-5 no detectó aproximadamente la mitad de las fracturas distales de radio en x-rays simples cuando recibió una única instrucción binaria de fractura o no fractura, según un estudio publicado el 26 de octubre en Emergency Radiology por un grupo del Rambam Health Care Campus de Haifa, Israel."
+                "x": "Los sistemas de inteligencia artificial (AI) para detectar fracturas rinden bien en entornos controlados, pero la evidencia prospectiva en condiciones reales es limitada. En un despliegue de tres meses en un servicio de urgencias, trece radiógrafos de un programa de cribado dirigido por radiógrafos interpretaron de forma independiente 2496 exámenes musculoesqueléticos consecutivos (un radiógrafo por examen), revisaron el resultado de un sistema comercial de aprendizaje profundo y luego registraron una decisión final, lo que dio 2496 lecturas pareadas frente a un estándar de referencia de radiólogos."
               },
               {
                 "t": "p",
-                "x": "Los investigadores enviaron 370 x-rays anteroposteriores de radio distal del conjunto de datos Stanford MURA a ChatGPT-5 a través de su interfaz web pública con un enfoque zero-shot. Preguntaron: “¿Hay una fractura en esta X-ray? Responde con yes o no.”"
-              },
-              {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/chatgpt-fractures.umykcGJONV.jpg?auto=format%2Ccompress&fit=max&q=70&w=800",
-                "cap": "Resultados representativos de ChatGPT-5 frente al estándar de referencia. Emergency Radiology"
+                "x": "La sensibilidad de la AI por sí sola fue del 75.6%, y cayó al 46.2% en fracturas sutiles, por debajo de la sensibilidad basal de los radiógrafos, del 91.6%. La exactitud basal de los radiógrafos fue alta (97.6%; especificidad 99.0%) y mejoró ligeramente con la ayuda de la AI (98.0%; exact McNemar p = 0.0064). Con la ayuda de la AI, los radiógrafos corrigieron 11 errores e introdujeron 1, una ganancia neta de 10 casos."
               },
               {
                 "t": "p",
-                "x": "La prevalencia de fracturas en la muestra analizada fue del 45.9% (170/370). ChatGPT-5 no detectó 83 fracturas, con una sensibilidad del 51.2%, una especificidad del 70.5% y una precisión global del 61.6%. Los falsos negativos superaron de forma significativa a los falsos positivos."
+                "x": "Los radiógrafos cambiaron su decisión en solo 11 de 729 casos discordantes, y la mayoría de las interacciones negativas fueron recomendaciones correctas de la AI que no se adoptaron. En el 8.8% de los exámenes adquiridos, la AI no devolvió resultado o lo devolvió incompleto."
               },
               {
                 "t": "p",
-                "x": "\"Dicho claramente: un chatbot de uso general no debe utilizarse para decidir si una radiografía muestra una fractura\", escribieron los investigadores."
+                "x": "La ayuda de la AI aportó un beneficio pequeño y selectivo, derivado de un rendimiento algorítmico complementario y no superior. La fiabilidad operativa resultó tan determinante como la precisión diagnóstica. No se midieron los resultados clínicos posteriores."
               }
             ]
           }
@@ -677,15 +677,15 @@
       }
     },
     {
-      "id": "medicine-ich-triage",
+      "id": "medicine-stanford-critical-results",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "뇌출혈 AI 트리아지로\nCT 판독 빨라진다",
-      "body": "UW AI 트리아지로 출혈 CTs 보고 중앙값이 214분서 201분으로 줄었다.",
-      "mini_headline": "AI로 뇌출혈 판독 가속",
+      "headline": "Stanford LLM이\n소아 위급 결과 짚는다",
+      "body": "Stanford LLM의 소아 위급 결과 민감도는 99.7%, 특이도 97.9%다.",
+      "mini_headline": "Stanford LLM, 위급 결과 포착",
       "tool": "Medicine",
       "source": "AuntMinnie",
-      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15975544/siimcaimi-ai-triaging-for-ich-leads-to-faster-turnaround-times",
+      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15975424/siimcaimi-llm-pipeline-tracks-critical-results-in-pediatric-patients",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -693,179 +693,149 @@
         "blocks": [
           {
             "t": "p",
-            "x": "PHILADELPHIA -- 응급 환경에서 AI-based 트리아지 방식이 판독 소요 시간을 줄일 수 있다는 결과가 나왔다. Seattle의 University of Washington 소속 Ai Tong, PhD가 10월 27일 SIIM-CAIMI 2026 학술대회에서 발표했다."
-          },
-          {
-            "t": "img",
-            "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/img-7815.SDSxU6LNkw.jpg?auto=format%2Ccompress&fit=max&q=70&w=800",
-            "cap": "Ai Tong, PhD가 연구팀의 AI-based ICH 트리아지 활용 사례를 발표하는 모습."
+            "x": "Stanford Health가 소아 영상의학 판독문에서 위급 결과를 표시하는 대규모 언어 모델 파이프라인을 자체 개발했다. Philadelphia에서 열린 SIIM-CAIMI 2026에서 Pooja Pathak이 발표했다."
           },
           {
             "t": "p",
-            "x": "AI 트리아지 시스템은 NLP-derived ICH 라벨과 비교해 민감도 79.3%, 특이도 94.2%, F1 점수 0.78을 기록했다. ICH-positive 검사에서는 AI 트리아지를 쓰자 보고 소요 시간 중앙값이 214분에서 201분으로 줄었다(p = 0.03)."
+            "x": "파이프라인이 다루는 범주는 두개내압 상승, 비우발적 외상, 위치가 잘못된 영양관, 예상치 못한 기복증, 문맥 가스, 긴장성 기흉 등 여섯 가지다. Llama 3.3(70B)을 로컬에서 돌리기 때문에 데이터가 기관 밖으로 나가지 않고 상용 도구도 필요 없다."
           },
           {
             "t": "p",
-            "x": "pre-AI 10,898건과 post-AI 9,317건의 응급 진료를 보면 AI-positive 사례는 입원까지 중앙값 423.5분이 걸려 AI-negative 사례(523.0분; p = 0.004)보다 짧았다."
+            "x": "판독문 916건으로 검증하니 민감도 99.7%, 특이도 97.9%가 나왔다. 2024년 팔월부터 2026년 칠월까지 확정 판독문 182,047건에서 위급 결과 1,297건을 표시했고, 가장 많은 건 영양관 위치 이상이었다."
           },
           {
             "t": "p",
-            "x": "“이 [연구]는 초기 단계이며 상관관계만 보여준다”고 Tong은 말했다. 다만 AI 트리아지의 임상적 영향이 영상의학 효율을 넘어선다는 점을 이번 결과가 시사한다고 덧붙였다."
+            "x": "배치 기간에 처리 소요 시간과 소통 기록은 안정적이었다. 다음 연구는 파이프라인의 맥락 인식 능력을 끌어올리고 더 새로운 모델을 시험하는 데 초점을 둔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI triage for brain bleeds\nspeeds up CT turnaround",
-          "body": "AI triage at UW sites cut median report time for bleed-positive head CTs from 214 to 201 minutes.",
-          "mini_headline": "AI speeds brain-bleed reads",
+          "headline": "Stanford's in-house LLM flags\ncritical pediatric results",
+          "body": "Stanford's in-house LLM flags critical pediatric radiology results with 99.7% sensitivity and 97.9% specificity.",
+          "mini_headline": "Stanford LLM flags critical results",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "PHILADELPHIA -- An AI-based triage approach could lower turnaround times in emergency settings, suggest findings presented October 27 at the SIIM-CAIMI 2026 meeting by Ai Tong, PhD, from the University of Washington in Seattle."
-              },
-              {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/img-7815.SDSxU6LNkw.jpg?auto=format%2Ccompress&fit=max&q=70&w=800",
-                "cap": "Ai Tong, PhD, reports on her team's use of an AI-based ICH triaging approach."
+                "x": "Stanford Health developed an in-house large language model pipeline to flag critical results in pediatric radiology reports, presented by Pooja Pathak at SIIM-CAIMI 2026 in Philadelphia."
               },
               {
                 "t": "p",
-                "x": "The AI triage system achieved 79.3% sensitivity, 94.2% specificity, and an F1 score of 0.78 against NLP-derived ICH labels. Among ICH-positive exams, AI triaging reduced report turnaround time from a median of 214 minutes to 201 minutes (p = 0.03)."
+                "x": "The pipeline covers six categories: increased intracranial pressure, non-accidental trauma, malpositioned feeding tubes, unsuspected pneumoperitoneum, portal venous gas and tension pneumothorax. It runs locally on Llama 3.3 (70B), so no data leaves the institution and no commercial tool is needed."
               },
               {
                 "t": "p",
-                "x": "Among 10,898 pre-AI and 9,317 post-AI emergency encounters, AI-positive cases led to shorter time to admission (median 423.5 minutes) than AI-negative cases (523.0 minutes; p = 0.004)."
+                "x": "In validation on 916 reports, it reached 99.7% sensitivity and 97.9% specificity. From August 2024 to July 2026, it flagged 1,297 critical results among 182,047 finalized reports, with feeding tube malpositions the most common."
               },
               {
                 "t": "p",
-                "x": "“This [study] is early and only correlational,” Tong said, adding the findings suggest AI triaging’s clinical impact extends beyond radiology efficiency."
+                "x": "Turnaround times and communication documentation stayed stable during deployment. Future work will focus on making the pipeline more context-aware and testing newer models."
               }
             ]
           }
         },
         "ko": {
-          "headline": "뇌출혈 AI 트리아지로\nCT 판독 빨라진다",
-          "body": "UW AI 트리아지로 출혈 CTs 보고 중앙값이 214분서 201분으로 줄었다.",
-          "mini_headline": "AI로 뇌출혈 판독 가속",
+          "headline": "Stanford LLM이\n소아 위급 결과 짚는다",
+          "body": "Stanford LLM의 소아 위급 결과 민감도는 99.7%, 특이도 97.9%다.",
+          "mini_headline": "Stanford LLM, 위급 결과 포착",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "PHILADELPHIA -- 응급 환경에서 AI-based 트리아지 방식이 판독 소요 시간을 줄일 수 있다는 결과가 나왔다. Seattle의 University of Washington 소속 Ai Tong, PhD가 10월 27일 SIIM-CAIMI 2026 학술대회에서 발표했다."
-              },
-              {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/img-7815.SDSxU6LNkw.jpg?auto=format%2Ccompress&fit=max&q=70&w=800",
-                "cap": "Ai Tong, PhD가 연구팀의 AI-based ICH 트리아지 활용 사례를 발표하는 모습."
+                "x": "Stanford Health가 소아 영상의학 판독문에서 위급 결과를 표시하는 대규모 언어 모델 파이프라인을 자체 개발했다. Philadelphia에서 열린 SIIM-CAIMI 2026에서 Pooja Pathak이 발표했다."
               },
               {
                 "t": "p",
-                "x": "AI 트리아지 시스템은 NLP-derived ICH 라벨과 비교해 민감도 79.3%, 특이도 94.2%, F1 점수 0.78을 기록했다. ICH-positive 검사에서는 AI 트리아지를 쓰자 보고 소요 시간 중앙값이 214분에서 201분으로 줄었다(p = 0.03)."
+                "x": "파이프라인이 다루는 범주는 두개내압 상승, 비우발적 외상, 위치가 잘못된 영양관, 예상치 못한 기복증, 문맥 가스, 긴장성 기흉 등 여섯 가지다. Llama 3.3(70B)을 로컬에서 돌리기 때문에 데이터가 기관 밖으로 나가지 않고 상용 도구도 필요 없다."
               },
               {
                 "t": "p",
-                "x": "pre-AI 10,898건과 post-AI 9,317건의 응급 진료를 보면 AI-positive 사례는 입원까지 중앙값 423.5분이 걸려 AI-negative 사례(523.0분; p = 0.004)보다 짧았다."
+                "x": "판독문 916건으로 검증하니 민감도 99.7%, 특이도 97.9%가 나왔다. 2024년 팔월부터 2026년 칠월까지 확정 판독문 182,047건에서 위급 결과 1,297건을 표시했고, 가장 많은 건 영양관 위치 이상이었다."
               },
               {
                 "t": "p",
-                "x": "“이 [연구]는 초기 단계이며 상관관계만 보여준다”고 Tong은 말했다. 다만 AI 트리아지의 임상적 영향이 영상의학 효율을 넘어선다는 점을 이번 결과가 시사한다고 덧붙였다."
+                "x": "배치 기간에 처리 소요 시간과 소통 기록은 안정적이었다. 다음 연구는 파이프라인의 맥락 인식 능력을 끌어올리고 더 새로운 모델을 시험하는 데 초점을 둔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "脳出血のAIトリアージで\nCTの読影報告が迅速化",
-          "body": "UWのAIトリアージで出血陽性頭部CTsの報告時間中央値が214分から201分に短縮した。",
-          "mini_headline": "AIで脳出血の読影を迅速化",
+          "headline": "Stanford自社LLMが\n小児の重大所見を検出",
+          "body": "Stanfordの自社LLMは小児の重大所見を感度99.7%、特異度97.9%で検出する。",
+          "mini_headline": "Stanford LLMが重大所見を検出",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "PHILADELPHIA -- AI-basedのトリアージ手法が救急現場での所要時間を短縮し得ることが、SeattleのUniversity of WashingtonのAi Tong, PhDが10月27日にSIIM-CAIMI 2026で発表した結果から示された。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/img-7815.SDSxU6LNkw.jpg?auto=format%2Ccompress&fit=max&q=70&w=800",
-                "cap": "AI-basedのICHトリアージ手法を用いたチームの取り組みについて報告するAi Tong, PhD。"
+                "x": "Stanford Healthは、小児放射線科の読影レポートにある重大所見を検出する自社開発の大規模言語モデルパイプラインを開発した。Pooja PathakがPhiladelphiaで開かれたSIIM-CAIMI 2026で発表した。"
               },
               {
                 "t": "p",
-                "x": "AIトリアージシステムは、NLP-derivedのICHラベルに対して感度79.3%、特異度94.2%、F1スコア0.78を達成した。ICH-positiveの検査では、AIトリアージにより報告所要時間の中央値が214分から201分に短縮した(p = 0.03)。"
+                "x": "パイプラインは、頭蓋内圧亢進、非偶発的外傷、栄養チューブの位置異常、予期せぬ気腹、門脈ガス、緊張性気胸の六つのカテゴリーを対象とする。Llama 3.3(70B)上でローカルに動作するため、データは施設外に出ず、商用ツールも必要ない。"
               },
               {
                 "t": "p",
-                "x": "pre-AIの10,898件とpost-AIの9,317件の救急受診のうち、AI-positiveの症例はAI-negativeの症例(523.0分; p = 0.004)より入院までの時間が短かった(中央値423.5分)。"
+                "x": "916件のレポートによる検証では、感度99.7%、特異度97.9%に達した。2024年八月から2026年七月までに、確定済みレポート182,047件のうち1,297件の重大所見を検出し、最も多かったのは栄養チューブの位置異常だった。"
               },
               {
                 "t": "p",
-                "x": "「この[研究]は初期段階で、相関を示すにすぎない」とTongは述べ、今回の結果はAIトリアージの臨床的影響が放射線科の効率化にとどまらないことを示唆すると付け加えた。"
+                "x": "導入期間中、報告までの所要時間と連絡記録は安定していた。今後はパイプラインの文脈認識を高めることと、より新しいモデルの検証に取り組む。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI分诊脑出血\n缩短CT报告周转时间",
-          "body": "UW各院区的AI分诊将出血阳性头部CTs的报告时间中位数从214分钟缩短至201分钟。",
-          "mini_headline": "AI加快脑出血判读",
+          "headline": "Stanford自研LLM\n标记儿科危急结果",
+          "body": "Stanford自研LLM标记儿科影像危急结果，敏感度99.7%，特异度97.9%。",
+          "mini_headline": "Stanford LLM标记危急结果",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "PHILADELPHIA -- Seattle的University of Washington的Ai Tong, PhD于10月27日在SIIM-CAIMI 2026会议上发表的结果显示，AI-based分诊方法有望缩短急诊场景中的周转时间。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/img-7815.SDSxU6LNkw.jpg?auto=format%2Ccompress&fit=max&q=70&w=800",
-                "cap": "Ai Tong, PhD介绍其团队应用AI-based ICH分诊方法的情况。"
+                "x": "Stanford Health开发了一套自研大语言模型流程，用于标记儿科放射报告中的危急结果，由Pooja Pathak在Philadelphia举行的SIIM-CAIMI 2026上发表。"
               },
               {
                 "t": "p",
-                "x": "以NLP-derived ICH标签为参照，该AI分诊系统的灵敏度为79.3%，特异度为94.2%，F1分数为0.78。在ICH-positive检查中，AI分诊将报告周转时间中位数从214分钟缩短至201分钟(p = 0.03)。"
+                "x": "该流程涵盖六类情况：颅内压增高、非意外创伤、喂养管位置不当、意外气腹、门静脉积气和张力性气胸。它在本地基于Llama 3.3（70B）运行，因此数据不会离开机构，也无需商业工具。"
               },
               {
                 "t": "p",
-                "x": "在pre-AI的10,898次和post-AI的9,317次急诊就诊中，AI-positive病例的入院时间(中位数423.5分钟)短于AI-negative病例(523.0分钟；p = 0.004)。"
+                "x": "在916份报告的验证中，其敏感度达99.7%，特异度达97.9%。从2024年八月至2026年七月，它在182,047份定稿报告中标记出1,297项危急结果，其中以喂养管位置不当最为常见。"
               },
               {
                 "t": "p",
-                "x": "Tong表示：“这项[研究]尚处早期，且仅为相关性研究。”她补充说，研究结果提示AI分诊的临床影响不止于提升放射科效率。"
+                "x": "部署期间，报告周转时间和沟通记录保持稳定。后续工作将侧重提升流程的情境感知能力，并测试更新的模型。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Triaje con AI de hemorragias\ncerebrales agiliza los CT",
-          "body": "El triaje con AI en centros de UW redujo de 214 a 201 minutos la mediana de informe de CTs de cráneo con sangrado.",
-          "mini_headline": "AI agiliza lecturas de hemorragia cerebral",
+          "headline": "LLM propio de Stanford detecta\nresultados críticos pediátricos",
+          "body": "El LLM propio de Stanford detecta resultados pediátricos críticos con 99.7% de sensibilidad y 97.9% de especificidad.",
+          "mini_headline": "LLM de Stanford marca resultados críticos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "PHILADELPHIA -- Un enfoque de triaje AI-based podría reducir los tiempos de respuesta en entornos de urgencias, según los resultados presentados el 27 de octubre en la reunión SIIM-CAIMI 2026 por Ai Tong, PhD, de la University of Washington en Seattle."
-              },
-              {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/img-7815.SDSxU6LNkw.jpg?auto=format%2Ccompress&fit=max&q=70&w=800",
-                "cap": "Ai Tong, PhD, presenta el uso por parte de su equipo de un enfoque de triaje de ICH AI-based."
+                "x": "Stanford Health desarrolló un pipeline propio de modelo de lenguaje grande para señalar resultados críticos en informes de radiología pediátrica, presentado por Pooja Pathak en SIIM-CAIMI 2026, en Philadelphia."
               },
               {
                 "t": "p",
-                "x": "El sistema de triaje con AI alcanzó una sensibilidad del 79.3%, una especificidad del 94.2% y una puntuación F1 de 0.78 frente a etiquetas de ICH NLP-derived. En los estudios ICH-positive, el triaje con AI redujo la mediana del tiempo de informe de 214 a 201 minutos (p = 0.03)."
+                "x": "El pipeline abarca seis categorías: aumento de la presión intracraneal, traumatismo no accidental, sondas de alimentación mal colocadas, neumoperitoneo no sospechado, gas venoso portal y neumotórax a tensión. Funciona localmente sobre Llama 3.3 (70B), de modo que ningún dato sale de la institución y no se necesita ninguna herramienta comercial."
               },
               {
                 "t": "p",
-                "x": "Entre 10,898 atenciones de urgencias pre-AI y 9,317 post-AI, los casos AI-positive tuvieron un tiempo hasta el ingreso más corto (mediana de 423.5 minutos) que los casos AI-negative (523.0 minutos; p = 0.004)."
+                "x": "En la validación con 916 informes alcanzó un 99.7% de sensibilidad y un 97.9% de especificidad. Entre agosto de 2024 y julio de 2026 señaló 1,297 resultados críticos entre 182,047 informes finalizados; las sondas de alimentación mal colocadas fueron las más frecuentes."
               },
               {
                 "t": "p",
-                "x": "“Este [estudio] es preliminar y solo correlacional”, dijo Tong, y añadió que los hallazgos sugieren que el impacto clínico del triaje con AI va más allá de la eficiencia en radiología."
+                "x": "Los tiempos de respuesta y la documentación de la comunicación se mantuvieron estables durante el despliegue. El trabajo futuro se centrará en hacer el pipeline más sensible al contexto y en probar modelos más recientes."
               }
             ]
           }
@@ -873,125 +843,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "뇌출혈 AI 트리아지로\nCT 판독 빨라진다",
-          "body": "UW의 AI 트리아지로 출혈 CTs 보고가 중앙값 214분서 201분으로 빨라졌다.",
-          "mini_headline": "AI로 뇌출혈 판독 가속",
+          "headline": "Stanford LLM이\n소아 위급 결과 짚는다",
+          "body": "Stanford LLM의 소아 위급 결과 민감도는 99.7%, 특이도 97.9%다.",
+          "mini_headline": "Stanford LLM, 위급 결과 포착",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "PHILADELPHIA -- AI-based 트리아지 방식이 응급 환경에서 판독 소요 시간을 줄일 수 있다는 결과를 Seattle의 University of Washington 소속 Ai Tong, PhD가 10월 27일 SIIM-CAIMI 2026 학술대회에서 발표했다."
-              },
-              {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/img-7815.SDSxU6LNkw.jpg?auto=format%2Ccompress&fit=max&q=70&w=800",
-                "cap": "Ai Tong, PhD가 연구팀의 AI-based ICH 트리아지 활용 사례를 발표하고 있다."
+                "x": "Stanford Health가 소아 영상의학 판독문에서 위급 결과를 표시하는 자체 대규모 언어 모델 파이프라인을 개발했다. Pooja Pathak이 Philadelphia에서 열린 SIIM-CAIMI 2026에서 이를 발표했다."
               },
               {
                 "t": "p",
-                "x": "AI 트리아지 시스템은 NLP-derived ICH 라벨 대비 민감도 79.3%, 특이도 94.2%, F1 점수 0.78을 기록했다. ICH-positive 검사에서 AI 트리아지는 보고 소요 시간 중앙값을 214분에서 201분으로 줄였다(p = 0.03)."
+                "x": "파이프라인은 두개내압 상승, 비우발적 외상, 위치가 잘못된 영양관, 예상치 못한 기복증, 문맥 가스, 긴장성 기흉 등 여섯 범주를 다룬다. Llama 3.3(70B)으로 로컬에서 실행되므로 데이터가 기관 밖으로 나가지 않고 상용 도구도 필요 없다."
               },
               {
                 "t": "p",
-                "x": "pre-AI 10,898건과 post-AI 9,317건의 응급 진료 가운데, AI-positive 사례는 AI-negative 사례(523.0분; p = 0.004)보다 입원까지 걸린 시간이 짧았다(중앙값 423.5분)."
+                "x": "판독문 916건으로 검증한 결과 민감도 99.7%, 특이도 97.9%를 기록했다. 2024년 팔월부터 2026년 칠월까지 확정 판독문 182,047건 가운데 위급 결과 1,297건을 표시했으며, 영양관 위치 이상이 가장 많았다."
               },
               {
                 "t": "p",
-                "x": "“이 [연구]는 초기 단계이며 상관관계만 보여준다”고 Tong은 말하며, 이번 결과는 AI 트리아지의 임상적 영향이 영상의학 효율을 넘어선다는 점을 시사한다고 덧붙였다."
+                "x": "배치 기간 동안 처리 소요 시간과 소통 기록은 안정적으로 유지됐다. 향후 연구는 파이프라인의 맥락 인식 능력을 높이고 더 새로운 모델을 시험하는 데 집중할 예정이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "脳出血のAIトリアージで\nCTの読影報告が迅速化",
-          "body": "UWのAIトリアージで出血陽性頭部CTsの報告時間中央値が214分から201分に短縮した。",
-          "mini_headline": "AIで脳出血の読影を迅速化",
+          "headline": "Stanford自社LLMが\n小児の重大所見を検出",
+          "body": "Stanfordの自社LLMは小児の重大所見を感度99.7%、特異度97.9%で検出する。",
+          "mini_headline": "Stanford LLMが重大所見を検出",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "PHILADELPHIA -- AI-basedのトリアージ手法が救急現場での所要時間を短縮し得ることが、SeattleのUniversity of WashingtonのAi Tong, PhDが10月27日にSIIM-CAIMI 2026で発表した結果から示された。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/img-7815.SDSxU6LNkw.jpg?auto=format%2Ccompress&fit=max&q=70&w=800",
-                "cap": "AI-basedのICHトリアージ手法を用いたチームの取り組みについて報告するAi Tong, PhD。"
+                "x": "Stanford Healthは、小児放射線科の読影レポートにある重大所見を検出する自社開発の大規模言語モデルパイプラインを開発した。Pooja PathakがPhiladelphiaで開かれたSIIM-CAIMI 2026で発表した。"
               },
               {
                 "t": "p",
-                "x": "AIトリアージシステムは、NLP-derivedのICHラベルに対して感度79.3%、特異度94.2%、F1スコア0.78を達成した。ICH-positiveの検査では、AIトリアージにより報告所要時間の中央値が214分から201分に短縮した(p = 0.03)。"
+                "x": "パイプラインは、頭蓋内圧亢進、非偶発的外傷、栄養チューブの位置異常、予期せぬ気腹、門脈ガス、緊張性気胸の六つのカテゴリーを対象とする。Llama 3.3(70B)上でローカルに動作するため、データは施設外に出ず、商用ツールも必要ない。"
               },
               {
                 "t": "p",
-                "x": "pre-AIの10,898件とpost-AIの9,317件の救急受診のうち、AI-positiveの症例はAI-negativeの症例(523.0分; p = 0.004)より入院までの時間が短かった(中央値423.5分)。"
+                "x": "916件のレポートによる検証では、感度99.7%、特異度97.9%に達した。2024年八月から2026年七月までに、確定済みレポート182,047件のうち1,297件の重大所見を検出し、最も多かったのは栄養チューブの位置異常だった。"
               },
               {
                 "t": "p",
-                "x": "「この[研究]は初期段階で、相関を示すにすぎない」とTongは述べ、今回の結果はAIトリアージの臨床的影響が放射線科の効率化にとどまらないことを示唆すると付け加えた。"
+                "x": "導入期間中、報告までの所要時間と連絡記録は安定していた。今後はパイプラインの文脈認識を高めることと、より新しいモデルの検証に取り組む。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI分诊脑出血\n缩短CT报告周转时间",
-          "body": "UW各院区的AI分诊将出血阳性头部CTs的报告时间中位数从214分钟缩短至201分钟。",
-          "mini_headline": "AI加快脑出血判读",
+          "headline": "Stanford自研LLM\n标记儿科危急结果",
+          "body": "Stanford自研LLM标记儿科影像危急结果，敏感度99.7%，特异度97.9%。",
+          "mini_headline": "Stanford LLM标记危急结果",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "PHILADELPHIA -- Seattle的University of Washington的Ai Tong, PhD于10月27日在SIIM-CAIMI 2026会议上发表的结果显示，AI-based分诊方法有望缩短急诊场景中的周转时间。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/img-7815.SDSxU6LNkw.jpg?auto=format%2Ccompress&fit=max&q=70&w=800",
-                "cap": "Ai Tong, PhD介绍其团队应用AI-based ICH分诊方法的情况。"
+                "x": "Stanford Health开发了一套自研大语言模型流程，用于标记儿科放射报告中的危急结果，由Pooja Pathak在Philadelphia举行的SIIM-CAIMI 2026上发表。"
               },
               {
                 "t": "p",
-                "x": "以NLP-derived ICH标签为参照，该AI分诊系统的灵敏度为79.3%，特异度为94.2%，F1分数为0.78。在ICH-positive检查中，AI分诊将报告周转时间中位数从214分钟缩短至201分钟(p = 0.03)。"
+                "x": "该流程涵盖六类情况：颅内压增高、非意外创伤、喂养管位置不当、意外气腹、门静脉积气和张力性气胸。它在本地基于Llama 3.3（70B）运行，因此数据不会离开机构，也无需商业工具。"
               },
               {
                 "t": "p",
-                "x": "在pre-AI的10,898次和post-AI的9,317次急诊就诊中，AI-positive病例的入院时间(中位数423.5分钟)短于AI-negative病例(523.0分钟；p = 0.004)。"
+                "x": "在916份报告的验证中，其敏感度达99.7%，特异度达97.9%。从2024年八月至2026年七月，它在182,047份定稿报告中标记出1,297项危急结果，其中以喂养管位置不当最为常见。"
               },
               {
                 "t": "p",
-                "x": "Tong表示：“这项[研究]尚处早期，且仅为相关性研究。”她补充说，研究结果提示AI分诊的临床影响不止于提升放射科效率。"
+                "x": "部署期间，报告周转时间和沟通记录保持稳定。后续工作将侧重提升流程的情境感知能力，并测试更新的模型。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Triaje con AI de hemorragias\ncerebrales agiliza los CT",
-          "body": "El triaje con AI en centros de UW redujo de 214 a 201 minutos la mediana de informe de CTs de cráneo con sangrado.",
-          "mini_headline": "AI agiliza lecturas de hemorragia cerebral",
+          "headline": "LLM propio de Stanford detecta\nresultados críticos pediátricos",
+          "body": "El LLM propio de Stanford detecta resultados pediátricos críticos con 99.7% de sensibilidad y 97.9% de especificidad.",
+          "mini_headline": "LLM de Stanford marca resultados críticos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "PHILADELPHIA -- Un enfoque de triaje AI-based podría reducir los tiempos de respuesta en entornos de urgencias, según los resultados presentados el 27 de octubre en la reunión SIIM-CAIMI 2026 por Ai Tong, PhD, de la University of Washington en Seattle."
-              },
-              {
-                "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/img-7815.SDSxU6LNkw.jpg?auto=format%2Ccompress&fit=max&q=70&w=800",
-                "cap": "Ai Tong, PhD, presenta el uso por parte de su equipo de un enfoque de triaje de ICH AI-based."
+                "x": "Stanford Health desarrolló un pipeline propio de modelo de lenguaje grande para señalar resultados críticos en informes de radiología pediátrica, presentado por Pooja Pathak en SIIM-CAIMI 2026, en Philadelphia."
               },
               {
                 "t": "p",
-                "x": "El sistema de triaje con AI alcanzó una sensibilidad del 79.3%, una especificidad del 94.2% y una puntuación F1 de 0.78 frente a etiquetas de ICH NLP-derived. En los estudios ICH-positive, el triaje con AI redujo la mediana del tiempo de informe de 214 a 201 minutos (p = 0.03)."
+                "x": "El pipeline abarca seis categorías: aumento de la presión intracraneal, traumatismo no accidental, sondas de alimentación mal colocadas, neumoperitoneo no sospechado, gas venoso portal y neumotórax a tensión. Funciona localmente sobre Llama 3.3 (70B), de modo que ningún dato sale de la institución y no se necesita ninguna herramienta comercial."
               },
               {
                 "t": "p",
-                "x": "Entre 10,898 atenciones de urgencias pre-AI y 9,317 post-AI, los casos AI-positive tuvieron un tiempo hasta el ingreso más corto (mediana de 423.5 minutos) que los casos AI-negative (523.0 minutos; p = 0.004)."
+                "x": "En la validación con 916 informes alcanzó un 99.7% de sensibilidad y un 97.9% de especificidad. Entre agosto de 2024 y julio de 2026 señaló 1,297 resultados críticos entre 182,047 informes finalizados; las sondas de alimentación mal colocadas fueron las más frecuentes."
               },
               {
                 "t": "p",
-                "x": "“Este [estudio] es preliminar y solo correlacional”, dijo Tong, y añadió que los hallazgos sugieren que el impacto clínico del triaje con AI va más allá de la eficiencia en radiología."
+                "x": "Los tiempos de respuesta y la documentación de la comunicación se mantuvieron estables durante el despliegue. El trabajo futuro se centrará en hacer el pipeline más sensible al contexto y en probar modelos más recientes."
               }
             ]
           }
@@ -999,231 +949,561 @@
       }
     },
     {
-      "id": "medicine-mmc-drift",
-      "source_lang": "en",
+      "id": "medicine-ajou-thync",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "MMC+, 영상 AI의\n입력 데이터 변화 감시",
-      "body": "CheXstray 기반 MMC+가 입력 변화로 생기는 영상 AI 드리프트를 살핀다.",
-      "mini_headline": "영상 AI 드리프트 점검",
+      "headline": "아주대병원, AI 병상\n모니터링 씽크 도입",
+      "body": "아주대병원이 대웅제약 씽크를 342병상에 도입해 최대 1100병상 확대를 검토한다.",
+      "mini_headline": "아주대병원, 씽크 도입",
       "tool": "Medicine",
-      "source": "npj Digital Medicine",
-      "url": "https://www.nature.com/articles/s41746-026-03301-1",
+      "source": "데일리팜",
+      "url": "https://www.dailypharm.com/user/news/343797",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
         "mode": "full",
         "blocks": [
           {
-            "t": "p",
-            "x": "임상 의료영상에 인공지능(AI)이 들어오면서 진단은 나아졌지만, 입력 데이터가 바뀌는 상황에서 장기적 신뢰성을 지키는 일이 새 과제로 떠올랐다. 연구진은 다중 모달 데이터 일치도(MMC)로 드리프트를 실시간 탐지하는 프레임워크 CheXstray를 바탕으로, 드리프트 모니터링을 확장할 수 있는 모듈형 프레임워크 MMC+를 내놨다."
+            "t": "img",
+            "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/26/2d4ed042-311f-4f77-8564-854751c83558.jpg",
+            "cap": ""
           },
           {
             "t": "p",
-            "x": "MMC+는 유연한 아키텍처 덕분에 실제 의료 현장에서도 비용을 아끼며 성능을 꾸준히 모니터링할 수 있다. 여러 데이터 스트림의 정보를 통계 검정이나 거리 지표로 종합하고 파운데이션 모델 임베딩을 써서 기관마다 인코더를 학습시킬 필요를 없앴다. 불확실성도 정량화해 드리프트가 얼마나 중요한지 더 잘 전달한다."
+            "x": "대웅제약이 아주대학교병원에 AI 기반 실시간 병상 모니터링 체계를 구축했다. 회사는 스마트 병상 모니터링 시스템 '씽크(thynC)'를 공급해 7개 병동 342병상에서 운영을 시작했다고 26일 밝혔다."
           },
           {
             "t": "p",
-            "x": "COVID-19 팬데믹 기간 Massachusetts General Hospital 데이터로 검증하자 MMC+는 성능 변화와 상관관계가 있는 유의미한 데이터 변화를 효과적으로 잡아냈다. AI 시스템이 허용 가능한 성능 범위를 벗어날 수 있는 시점도 알려준다. MMC+의 코드는 공개돼 있어 임상 현장에서 AI 솔루션이 더 널리 쓰이는 데 보탬이 된다."
+            "x": "아주대병원은 흉부외과와 순환기내과 병동을 시작으로 응급병동과 간호·간병통합서비스 병동까지 씽크 적용 범위를 넓혔다. 현재 운영 성과를 바탕으로 향후 최대 1100병상까지 확대 도입을 검토할 계획이다."
+          },
+          {
+            "t": "p",
+            "x": "이번 도입은 중증질환 환자와 수술 전후 집중 관찰이 필요한 환자의 상태 변화를 신속하게 파악하는 데 초점을 맞췄다. 일반병동에서도 생체신호를 연속적으로 확인해 의료진의 환자 관리를 지원한다는 취지다."
+          },
+          {
+            "t": "p",
+            "x": "씽크는 환자가 착용하는 웨어러블 바이오센서로 심전도와 심박수, 맥박수, 호흡수, 산소포화도 등을 실시간 측정한다. AI를 활용한 낙상 및 응급 부정맥 감지·분류 기능을 제공하며, 이상 징후가 감지되면 병동 모니터링 화면에 알람을 표시해 의료진의 대응을 돕는다."
+          },
+          {
+            "t": "p",
+            "x": "측정한 주요 생체정보는 전자의무기록(EMR)과 연동해 60초 간격으로 최신 측정값을 자동 기록한다. 의료진의 반복적인 수기 입력 부담을 줄이고, 입원 기간에 측정한 생체신호와 심전도 이벤트를 보고서 형태로 조회·저장할 수 있도록 했다."
+          },
+          {
+            "t": "p",
+            "x": "아주대병원은 지난해 장비 도입과 기반시설 구축을 시작해 올해 8월까지 임상 현장에 맞춘 최적화 작업을 진행했다. 9월부터 흉부외과와 순환기내과를 중심으로 운영을 확대했으며, 이달에는 응급병동과 간호·간병통합서비스 병동 등으로 적용 범위를 넓혔다."
+          },
+          {
+            "t": "p",
+            "x": "웨어러블 측정기와 병동 내 고정형 게이트웨이를 활용한 무선 모니터링 체계도 구축했다. 환자가 병동에서 이동하는 동안에도 생체신호를 확인할 수 있어 심혈관질환 환자의 수술 전후 상태 관찰과 응급병동 환자 관리 등에 활용된다."
+          },
+          {
+            "t": "p",
+            "x": "한상욱 아주대학교 의료원장은 \"입원환자의 주요 생체신호를 실시간으로 확인하고 이상징후를 조기에 발견할 수 있어 환자 안전을 한층 강화할 것으로 기대한다\"며 \"현재 운영 중인 342병상의 운영 성과를 바탕으로 향후 전체 1100병상으로의 확대 도입도 검토하고 있으며, 앞으로도 디지털 기술을 적극 활용해 보다 안전하고 스마트한 진료환경을 구축해 나가겠다\"고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "대웅제약은 상급종합병원과 주요 거점병원을 중심으로 씽크를 활용한 스마트병동 구축을 확대하고 있다. 회사에 따르면 올해 10월 기준 전국 218개 의료기관, 누적 2만54병상에 도입됐다. 의료기관별 환자 특성과 운영 환경을 고려한 활용 가이드를 마련해 현장 운영을 지원할 계획이다."
+          },
+          {
+            "t": "p",
+            "x": "이창재 대웅제약 대표는 \"경기남부권 중증·응급의료의 핵심 역할을 담당하는 아주대병원에 씽크를 공급해 환자 안전을 강화하는 스마트병동 구축에 함께하게 돼 뜻깊다\"며 \"앞으로도 아주대병원과 협력을 강화하고, 경기남부권 의료기관의 디지털 전환과 환자 중심의 진료환경 조성을 지원해 나가겠다\"고 말했다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "MMC+ watches imaging AI\nfor shifts in input data",
-          "body": "MMC+, a modular framework built on CheXstray, monitors clinical imaging AI for drift as input data change.",
-          "mini_headline": "Drift checks for imaging AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "The integration of artificial intelligence (AI) into clinical medical imaging has advanced diagnostics but also poses challenges in maintaining long-term reliability as input data change. To address this, we present MMC+, a modular framework for scalable drift monitoring that builds on our CheXstray framework for real-time drift detection using multi-modal data concordance (MMC)."
-              },
-              {
-                "t": "p",
-                "x": "MMC+ provides a flexible architecture that enables cost-effective continuous performance monitoring in real-world healthcare settings. The framework’s capabilities include aggregating information from multiple data streams using statistical tests or distance metrics, leveraging foundation model embeddings to remove the need for site-specific encoder training, and quantifying uncertainty to better communicate drift significance."
-              },
-              {
-                "t": "p",
-                "x": "Validated with data from Massachusetts General Hospital during the COVID-19 pandemic, MMC+ effectively detects significant data shifts that correlate with performance changes and indicates when AI systems may deviate from acceptable performance bounds. The code for MMC+ is publicly available, promoting broader adoption of AI solutions in clinical settings."
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "MMC+, 영상 AI의\n입력 데이터 변화 감시",
-          "body": "CheXstray 기반 MMC+가 입력 변화로 생기는 영상 AI 드리프트를 살핀다.",
-          "mini_headline": "영상 AI 드리프트 점검",
+          "headline": "아주대병원, AI 병상\n모니터링 씽크 도입",
+          "body": "아주대병원이 대웅제약 씽크를 342병상에 도입해 최대 1100병상 확대를 검토한다.",
+          "mini_headline": "아주대병원, 씽크 도입",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "임상 의료영상에 인공지능(AI)이 들어오면서 진단은 나아졌지만, 입력 데이터가 바뀌는 상황에서 장기적 신뢰성을 지키는 일이 새 과제로 떠올랐다. 연구진은 다중 모달 데이터 일치도(MMC)로 드리프트를 실시간 탐지하는 프레임워크 CheXstray를 바탕으로, 드리프트 모니터링을 확장할 수 있는 모듈형 프레임워크 MMC+를 내놨다."
+                "t": "img",
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/26/2d4ed042-311f-4f77-8564-854751c83558.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "MMC+는 유연한 아키텍처 덕분에 실제 의료 현장에서도 비용을 아끼며 성능을 꾸준히 모니터링할 수 있다. 여러 데이터 스트림의 정보를 통계 검정이나 거리 지표로 종합하고 파운데이션 모델 임베딩을 써서 기관마다 인코더를 학습시킬 필요를 없앴다. 불확실성도 정량화해 드리프트가 얼마나 중요한지 더 잘 전달한다."
+                "x": "대웅제약이 아주대학교병원에 AI 기반 실시간 병상 모니터링 체계를 구축했다. 회사는 스마트 병상 모니터링 시스템 '씽크(thynC)'를 공급해 7개 병동 342병상에서 운영을 시작했다고 26일 밝혔다."
               },
               {
                 "t": "p",
-                "x": "COVID-19 팬데믹 기간 Massachusetts General Hospital 데이터로 검증하자 MMC+는 성능 변화와 상관관계가 있는 유의미한 데이터 변화를 효과적으로 잡아냈다. AI 시스템이 허용 가능한 성능 범위를 벗어날 수 있는 시점도 알려준다. MMC+의 코드는 공개돼 있어 임상 현장에서 AI 솔루션이 더 널리 쓰이는 데 보탬이 된다."
+                "x": "아주대병원은 흉부외과와 순환기내과 병동을 시작으로 응급병동과 간호·간병통합서비스 병동까지 씽크 적용 범위를 넓혔다. 현재 운영 성과를 바탕으로 향후 최대 1100병상까지 확대 도입을 검토할 계획이다."
+              },
+              {
+                "t": "p",
+                "x": "이번 도입은 중증질환 환자와 수술 전후 집중 관찰이 필요한 환자의 상태 변화를 신속하게 파악하는 데 초점을 맞췄다. 일반병동에서도 생체신호를 연속적으로 확인해 의료진의 환자 관리를 지원한다는 취지다."
+              },
+              {
+                "t": "p",
+                "x": "씽크는 환자가 착용하는 웨어러블 바이오센서로 심전도와 심박수, 맥박수, 호흡수, 산소포화도 등을 실시간 측정한다. AI를 활용한 낙상 및 응급 부정맥 감지·분류 기능을 제공하며, 이상 징후가 감지되면 병동 모니터링 화면에 알람을 표시해 의료진의 대응을 돕는다."
+              },
+              {
+                "t": "p",
+                "x": "측정한 주요 생체정보는 전자의무기록(EMR)과 연동해 60초 간격으로 최신 측정값을 자동 기록한다. 의료진의 반복적인 수기 입력 부담을 줄이고, 입원 기간에 측정한 생체신호와 심전도 이벤트를 보고서 형태로 조회·저장할 수 있도록 했다."
+              },
+              {
+                "t": "p",
+                "x": "아주대병원은 지난해 장비 도입과 기반시설 구축을 시작해 올해 8월까지 임상 현장에 맞춘 최적화 작업을 진행했다. 9월부터 흉부외과와 순환기내과를 중심으로 운영을 확대했으며, 이달에는 응급병동과 간호·간병통합서비스 병동 등으로 적용 범위를 넓혔다."
+              },
+              {
+                "t": "p",
+                "x": "웨어러블 측정기와 병동 내 고정형 게이트웨이를 활용한 무선 모니터링 체계도 구축했다. 환자가 병동에서 이동하는 동안에도 생체신호를 확인할 수 있어 심혈관질환 환자의 수술 전후 상태 관찰과 응급병동 환자 관리 등에 활용된다."
+              },
+              {
+                "t": "p",
+                "x": "한상욱 아주대학교 의료원장은 \"입원환자의 주요 생체신호를 실시간으로 확인하고 이상징후를 조기에 발견할 수 있어 환자 안전을 한층 강화할 것으로 기대한다\"며 \"현재 운영 중인 342병상의 운영 성과를 바탕으로 향후 전체 1100병상으로의 확대 도입도 검토하고 있으며, 앞으로도 디지털 기술을 적극 활용해 보다 안전하고 스마트한 진료환경을 구축해 나가겠다\"고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "대웅제약은 상급종합병원과 주요 거점병원을 중심으로 씽크를 활용한 스마트병동 구축을 확대하고 있다. 회사에 따르면 올해 10월 기준 전국 218개 의료기관, 누적 2만54병상에 도입됐다. 의료기관별 환자 특성과 운영 환경을 고려한 활용 가이드를 마련해 현장 운영을 지원할 계획이다."
+              },
+              {
+                "t": "p",
+                "x": "이창재 대웅제약 대표는 \"경기남부권 중증·응급의료의 핵심 역할을 담당하는 아주대병원에 씽크를 공급해 환자 안전을 강화하는 스마트병동 구축에 함께하게 돼 뜻깊다\"며 \"앞으로도 아주대병원과 협력을 강화하고, 경기남부권 의료기관의 디지털 전환과 환자 중심의 진료환경 조성을 지원해 나가겠다\"고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MMC+が画像AIの\n入力データ変化を監視",
-          "body": "CheXstray基盤のMMC+は、入力データの変化に伴う臨床画像AIのドリフトを監視する。",
-          "mini_headline": "画像AIのドリフトを点検",
+          "headline": "亜洲大学病院、AI病床\nモニタリングthynC導入",
+          "body": "亜洲大学病院が大熊製薬のthynCを342床に導入し、最大1100床への拡大を検討する。",
+          "mini_headline": "亜洲大学病院、thynC導入",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "臨床医用画像への人工知能(AI)の導入は診断を進歩させた一方、入力データが変化する中で長期的な信頼性を維持するという課題ももたらしている。これに対処するため、我々はマルチモーダルデータ一致度(MMC)を用いたリアルタイムのドリフト検出フレームワークCheXstrayを発展させ、スケーラブルなドリフト監視のためのモジュール型フレームワークMMC+を提示する。"
+                "t": "img",
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/26/2d4ed042-311f-4f77-8564-854751c83558.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "MMC+は、実際の医療現場で費用対効果の高い継続的な性能監視を可能にする柔軟なアーキテクチャを提供する。本フレームワークは、統計検定や距離指標を用いて複数のデータストリームの情報を集約し、基盤モデルの埋め込みを活用して施設ごとのエンコーダ学習を不要にし、不確実性を定量化してドリフトの重要性をより適切に伝える。"
+                "x": "大熊製薬は亜洲大学病院に、AIを活用したリアルタイムの病床モニタリング体制を構築した。同社はスマート病床モニタリングシステム「シンク(thynC)」を供給し、7病棟342床で運用を始めたと26日に明らかにした。"
               },
               {
                 "t": "p",
-                "x": "COVID-19パンデミック期間中のMassachusetts General Hospitalのデータで検証したところ、MMC+は性能変化と相関する有意なデータシフトを効果的に検出し、AIシステムが許容可能な性能範囲から逸脱する可能性がある時点を示した。MMC+のコードは公開されており、臨床現場でのAIソリューションの幅広い導入を後押しする。"
+                "x": "亜洲大学病院は胸部外科と循環器内科の病棟を皮切りに、救急病棟や看護・介護統合サービス病棟までthynCの適用範囲を広げた。現在の運用実績を踏まえ、今後最大1100床まで導入拡大を検討する計画だ。"
+              },
+              {
+                "t": "p",
+                "x": "今回の導入は、重症患者や手術前後に集中的な観察が必要な患者の状態変化を素早く把握することに重点を置いた。一般病棟でも生体信号を連続的に確認し、医療スタッフの患者管理を支援する狙いだ。"
+              },
+              {
+                "t": "p",
+                "x": "thynCは患者が装着するウェアラブルバイオセンサーで、心電図、心拍数、脈拍数、呼吸数、酸素飽和度などをリアルタイムで測定する。AIを活用した転倒や緊急性不整脈の検知・分類機能を備え、異常の兆候を検知すると病棟のモニタリング画面にアラームを表示し、医療スタッフの対応を助ける。"
+              },
+              {
+                "t": "p",
+                "x": "測定した主な生体情報は電子カルテ(EMR)と連携し、60秒間隔で最新の測定値を自動記録する。医療スタッフが繰り返し手入力する負担を減らし、入院期間中に測定した生体信号と心電図イベントをレポート形式で閲覧・保存できるようにした。"
+              },
+              {
+                "t": "p",
+                "x": "亜洲大学病院は昨年、機器の導入とインフラ整備を始め、今年8月まで臨床現場に合わせた最適化作業を進めた。9月からは胸部外科と循環器内科を中心に運用を拡大し、今月は救急病棟や看護・介護統合サービス病棟などへ適用範囲を広げた。"
+              },
+              {
+                "t": "p",
+                "x": "ウェアラブル測定器と病棟内の固定型ゲートウェイを用いた無線モニタリング体制も構築した。患者が病棟内を移動している間も生体信号を確認でき、心血管疾患患者の手術前後の状態観察や救急病棟の患者管理などに活用されている。"
+              },
+              {
+                "t": "p",
+                "x": "ハン・サンウク亜洲大学校医療院長は「入院患者の主要な生体信号をリアルタイムで確認し、異常の兆候を早期に発見できるため、患者の安全を一層強化できると期待している」と述べ、「現在運用中の342床の実績を踏まえ、今後全1100床への拡大導入も検討しており、これからもデジタル技術を積極的に活用し、より安全でスマートな診療環境を築いていく」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "大熊製薬は上級総合病院や主要拠点病院を中心に、thynCを活用したスマート病棟の構築を拡大している。同社によると、今年10月時点で全国218の医療機関、累計2万54床に導入された。医療機関ごとの患者特性や運用環境を考慮した活用ガイドを用意し、現場での運用を支援する計画だ。"
+              },
+              {
+                "t": "p",
+                "x": "イ・チャンジェ大熊製薬代表は「京畿道南部の重症・救急医療で中核的な役割を担う亜洲大学病院にthynCを供給し、患者の安全を強化するスマート病棟の構築に携われたことは意義深い」と述べ、「今後も亜洲大学病院との協力を強化し、京畿道南部の医療機関のデジタル転換と患者中心の診療環境づくりを支援していく」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "MMC+监测影像AI\n输入数据的变化",
-          "body": "基于CheXstray的模块化框架MMC+可在输入数据变化时监测临床影像AI的漂移。",
-          "mini_headline": "影像AI漂移检测",
+          "headline": "亚洲大学医院引入\nAI病床监测thynC",
+          "body": "亚洲大学医院在342张病床引入大熊制药thynC，并考虑扩至最多1100张。",
+          "mini_headline": "亚洲大学医院引入thynC",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "将人工智能(AI)整合进临床医学影像推动了诊断进步，但随着输入数据变化，如何保持长期可靠性也成为挑战。为此，我们提出MMC+，这是一个用于可扩展漂移监测的模块化框架，建立在我们利用多模态数据一致性(MMC)进行实时漂移检测的CheXstray框架之上。"
+                "t": "img",
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/26/2d4ed042-311f-4f77-8564-854751c83558.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "MMC+提供灵活的架构，可在真实医疗环境中实现具有成本效益的持续性能监测。该框架的功能包括：利用统计检验或距离度量汇总多个数据流的信息，借助基础模型嵌入免去针对特定机构训练编码器的需要，以及量化不确定性以更好地说明漂移的显著性。"
+                "x": "大熊制药为亚洲大学医院搭建了基于AI的实时病床监测体系。该公司26日表示，已供应智能病床监测系统“thynC”，并在7个病区的342张病床上投入运行。"
               },
               {
                 "t": "p",
-                "x": "经COVID-19疫情期间Massachusetts General Hospital数据验证，MMC+能有效检测与性能变化相关的显著数据偏移，并提示AI系统何时可能偏离可接受的性能范围。MMC+的代码已公开，有助于推动AI解决方案在临床中的更广泛应用。"
+                "x": "亚洲大学医院从胸外科和心内科病区起步，将thynC的应用范围扩展到急诊病区和护理·看护一体化服务病区。医院计划根据目前的运行成效，考虑今后将引入规模扩大至最多1100张病床。"
+              },
+              {
+                "t": "p",
+                "x": "此次引入的重点是迅速掌握重症患者以及手术前后需要重点观察的患者的病情变化，旨在让普通病区也能连续查看生命体征，支持医护人员管理患者。"
+              },
+              {
+                "t": "p",
+                "x": "thynC通过患者佩戴的可穿戴生物传感器，实时测量心电图、心率、脉率、呼吸频率和血氧饱和度等指标。它提供基于AI的跌倒和紧急心律失常检测与分类功能，一旦发现异常征兆，便在病区监测屏幕上显示警报，协助医护人员应对。"
+              },
+              {
+                "t": "p",
+                "x": "测得的主要生命体征数据与电子病历(EMR)联动，每隔60秒自动记录最新测量值。这减轻了医护人员反复手工录入的负担，并可将住院期间测得的生命体征和心电图事件以报告形式查询和保存。"
+              },
+              {
+                "t": "p",
+                "x": "亚洲大学医院去年开始引进设备、建设基础设施，并在今年8月前完成了贴合临床现场的优化工作。自9月起以胸外科和心内科为中心扩大运行，本月又将应用范围扩展到急诊病区和护理·看护一体化服务病区等。"
+              },
+              {
+                "t": "p",
+                "x": "医院还利用可穿戴测量设备和病区内的固定式网关搭建了无线监测体系。患者在病区内走动时也能查看其生命体征，可用于观察心血管疾病患者的术前术后状态以及管理急诊病区患者等。"
+              },
+              {
+                "t": "p",
+                "x": "亚洲大学医疗院院长Han Sang-wook表示：“我们可以实时查看住院患者的主要生命体征并及早发现异常征兆，期待借此进一步加强患者安全。”他还说：“我们正以目前运行中的342张病床的成效为基础，考虑今后扩大到全部1100张病床，并将继续积极运用数字技术，打造更安全、更智能的诊疗环境。”"
+              },
+              {
+                "t": "p",
+                "x": "大熊制药正以上级综合医院和主要据点医院为中心，扩大基于thynC的智慧病区建设。据该公司介绍，截至今年10月，thynC已在全国218家医疗机构投入使用，累计2万54张病床。公司计划制定兼顾各医疗机构患者特点和运营环境的使用指南，为现场运营提供支持。"
+              },
+              {
+                "t": "p",
+                "x": "大熊制药代表Lee Chang-jae表示：“能够向在京畿南部重症和急救医疗中发挥核心作用的亚洲大学医院供应thynC，共同建设加强患者安全的智慧病区，意义深远。”他还说：“今后我们将加强与亚洲大学医院的合作，支持京畿南部医疗机构的数字化转型和以患者为中心的诊疗环境建设。”"
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "Ajou University Hospital adopts\nthynC AI bed monitoring",
+          "body": "Ajou University Hospital uses Daewoong Pharmaceutical's thynC in 342 beds and weighs expanding to up to 1100 beds.",
+          "mini_headline": "Ajou University Hospital adopts thynC",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/26/2d4ed042-311f-4f77-8564-854751c83558.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Daewoong Pharmaceutical has built an AI-based real-time bed monitoring system at Ajou University Hospital. The company said on the 26th that it supplied its smart bed monitoring system thynC and began operating it in 342 beds across 7 wards."
+              },
+              {
+                "t": "p",
+                "x": "Ajou University Hospital started with its thoracic surgery and cardiology wards and has extended thynC to its emergency ward and its integrated nursing care service wards. Based on current results, it plans to consider expanding the rollout to up to 1100 beds."
+              },
+              {
+                "t": "p",
+                "x": "The rollout focuses on quickly catching changes in the condition of patients with severe illness and of patients who need close observation before and after surgery. The aim is to support patient care by medical staff through continuous monitoring of vital signs, even in general wards."
+              },
+              {
+                "t": "p",
+                "x": "thynC uses a wearable biosensor worn by the patient to measure electrocardiogram, heart rate, pulse rate, respiratory rate and oxygen saturation in real time. It offers AI-based detection and classification of falls and emergency arrhythmias, and when it detects an abnormal sign it shows an alarm on the ward monitoring screen to help medical staff respond."
+              },
+              {
+                "t": "p",
+                "x": "Key vital data are linked to the electronic medical record (EMR), which automatically records the latest readings at 60-second intervals. This reduces the burden of repetitive manual entry on medical staff and lets them view and save, in report form, the vital signs and ECG events measured during the hospital stay."
+              },
+              {
+                "t": "p",
+                "x": "Ajou University Hospital began installing equipment and building infrastructure last year and optimized the system for clinical settings through August this year. From September it expanded operations centered on thoracic surgery and cardiology, and this month it extended coverage to the emergency ward and the integrated nursing care service wards."
+              },
+              {
+                "t": "p",
+                "x": "It also built a wireless monitoring system using wearable devices and fixed gateways inside the wards. Because vital signs can be checked while patients move around the ward, the system is used to observe cardiovascular patients before and after surgery and to manage emergency ward patients."
+              },
+              {
+                "t": "p",
+                "x": "Han Sang-wook, president of Ajou University Medical Center, said, “We expect to further strengthen patient safety because we can check inpatients’ key vital signs in real time and detect abnormal signs early.” He added, “Based on the results of the 342 beds now in operation, we are also considering expanding the rollout to all 1100 beds, and we will continue to actively use digital technology to build a safer and smarter care environment.”"
+              },
+              {
+                "t": "p",
+                "x": "Daewoong Pharmaceutical is expanding thynC-based smart wards, centered on tertiary general hospitals and major regional hospitals. According to the company, as of October this year it had been installed at 218 medical institutions nationwide, for a cumulative 2만54 beds. It plans to support on-site operations with usage guides that reflect each institution’s patient characteristics and operating environment."
+              },
+              {
+                "t": "p",
+                "x": "Lee Chang-jae, CEO of Daewoong Pharmaceutical, said, “It is meaningful to take part in building smart wards that strengthen patient safety by supplying thynC to Ajou University Hospital, which plays a core role in severe and emergency care in southern Gyeonggi.” He added, “We will continue to strengthen our cooperation with Ajou University Hospital and support the digital transformation of medical institutions in southern Gyeonggi and the creation of patient-centered care environments.”"
               }
             ]
           }
         },
         "es": {
-          "headline": "MMC+ vigila la AI de imagen\nante cambios en datos de entrada",
-          "body": "MMC+, un marco modular basado en CheXstray, vigila la deriva de la AI de imagen clínica cuando cambian los datos.",
-          "mini_headline": "Control de deriva para AI de imagen",
+          "headline": "El Hospital Universitario Ajou\nadopta thynC, monitoreo con AI",
+          "body": "El Hospital Universitario Ajou instaló thynC de Daewoong Pharmaceutical en 342 camas y estudia llegar hasta 1100.",
+          "mini_headline": "El Hospital Universitario Ajou adopta thynC",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "La integración de la inteligencia artificial (AI) en la imagen médica clínica ha hecho avanzar el diagnóstico, pero también plantea retos para mantener la fiabilidad a largo plazo a medida que cambian los datos de entrada. Para abordarlo, presentamos MMC+, un marco modular para la monitorización escalable de la deriva que se basa en nuestro marco CheXstray de detección de deriva en tiempo real mediante concordancia de datos multimodales (MMC)."
+                "t": "img",
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/26/2d4ed042-311f-4f77-8564-854751c83558.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "MMC+ ofrece una arquitectura flexible que permite una monitorización continua y rentable del rendimiento en entornos sanitarios reales. Entre las capacidades del marco figuran la agregación de información de múltiples flujos de datos mediante pruebas estadísticas o métricas de distancia, el uso de embeddings de modelos fundacionales para eliminar la necesidad de entrenar codificadores específicos para cada centro, y la cuantificación de la incertidumbre para comunicar mejor la relevancia de la deriva."
+                "x": "Daewoong Pharmaceutical implantó en el Hospital Universitario Ajou un sistema de monitorización de camas en tiempo real basado en AI. La empresa informó el día 26 que suministró su sistema inteligente de monitorización de camas thynC y que comenzó a operarlo en 342 camas de 7 salas."
               },
               {
                 "t": "p",
-                "x": "Validado con datos del Massachusetts General Hospital durante la pandemia de COVID-19, MMC+ detecta de forma eficaz cambios significativos en los datos que se correlacionan con variaciones del rendimiento e indica cuándo los sistemas de AI pueden desviarse de los límites de rendimiento aceptables. El código de MMC+ está disponible públicamente, lo que favorece una adopción más amplia de soluciones de AI en entornos clínicos."
+                "x": "El hospital comenzó por las salas de cirugía torácica y cardiología y amplió el uso de thynC a la sala de urgencias y a las salas del servicio integrado de enfermería y cuidados. Con base en los resultados actuales, prevé estudiar su ampliación a un máximo de 1100 camas."
+              },
+              {
+                "t": "p",
+                "x": "La implantación se centra en detectar con rapidez los cambios en el estado de los pacientes con enfermedades graves y de quienes requieren observación intensiva antes y después de una cirugía. El objetivo es apoyar la atención del personal médico mediante la vigilancia continua de los signos vitales, también en las salas generales."
+              },
+              {
+                "t": "p",
+                "x": "thynC mide en tiempo real, mediante un biosensor portátil que lleva el paciente, el electrocardiograma, la frecuencia cardiaca, el pulso, la frecuencia respiratoria y la saturación de oxígeno, entre otros. Ofrece detección y clasificación de caídas y arritmias urgentes con AI y, si detecta una anomalía, muestra una alarma en la pantalla de monitorización de la sala para ayudar al personal médico a responder."
+              },
+              {
+                "t": "p",
+                "x": "Los principales datos vitales se vinculan con la historia clínica electrónica (EMR), que registra automáticamente los valores más recientes cada 60 segundos. Esto reduce la carga de la introducción manual repetitiva para el personal médico y permite consultar y guardar en forma de informe los signos vitales y los eventos de electrocardiograma medidos durante la hospitalización."
+              },
+              {
+                "t": "p",
+                "x": "El Hospital Universitario Ajou empezó el año pasado a instalar equipos y a construir la infraestructura, y hasta agosto de este año realizó ajustes de optimización adaptados a la práctica clínica. Desde septiembre amplió la operación con foco en cirugía torácica y cardiología, y este mes extendió su alcance a la sala de urgencias y a las salas del servicio integrado de enfermería y cuidados."
+              },
+              {
+                "t": "p",
+                "x": "También se montó un sistema de monitorización inalámbrica con medidores portátiles y pasarelas fijas en las salas. Como los signos vitales pueden verse incluso mientras el paciente se desplaza por la sala, se utiliza para observar a pacientes cardiovasculares antes y después de la cirugía y para atender a pacientes de la sala de urgencias."
+              },
+              {
+                "t": "p",
+                "x": "Han Sang-wook, director del Centro Médico de la Universidad Ajou, dijo: “Esperamos reforzar aún más la seguridad del paciente, ya que podemos verificar en tiempo real los principales signos vitales de los pacientes hospitalizados y detectar anomalías de forma temprana”. Añadió: “Con base en los resultados de las 342 camas que operan hoy, también estudiamos ampliar la implantación a las 1100 camas en total, y seguiremos aprovechando la tecnología digital para crear un entorno asistencial más seguro e inteligente”."
+              },
+              {
+                "t": "p",
+                "x": "Daewoong Pharmaceutical está ampliando la creación de salas inteligentes con thynC, sobre todo en hospitales generales de nivel superior y en grandes hospitales de referencia regionales. Según la empresa, a octubre de este año el sistema se había instalado en 218 instituciones médicas de todo el país, con un acumulado de 2만54 camas. Prevé apoyar la operación sobre el terreno con guías de uso adaptadas a las características de los pacientes y al entorno de cada institución."
+              },
+              {
+                "t": "p",
+                "x": "Lee Chang-jae, director ejecutivo de Daewoong Pharmaceutical, dijo: “Es significativo participar en la creación de salas inteligentes que refuerzan la seguridad del paciente suministrando thynC al Hospital Universitario Ajou, que desempeña un papel central en la atención grave y de urgencias del sur de Gyeonggi”. Añadió: “Seguiremos reforzando la cooperación con el Hospital Universitario Ajou y apoyando la transformación digital de las instituciones médicas del sur de Gyeonggi y la creación de entornos asistenciales centrados en el paciente”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "MMC+, 영상 AI의\n입력 데이터 변화 감시",
-          "body": "CheXstray 기반 MMC+는 입력 변화에 따른 영상 AI 드리프트를 감시한다.",
-          "mini_headline": "영상 AI 드리프트 점검",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "임상 의료영상에 인공지능(AI)이 통합되면서 진단은 발전했지만, 입력 데이터가 바뀌는 가운데 장기적 신뢰성을 유지하는 문제도 생겼다. 이를 해결하기 위해 우리는 다중 모달 데이터 일치도(MMC)를 활용한 실시간 드리프트 탐지 프레임워크인 CheXstray를 기반으로, 확장 가능한 드리프트 모니터링을 위한 모듈형 프레임워크 MMC+를 제시한다."
-              },
-              {
-                "t": "p",
-                "x": "MMC+는 실제 의료 현장에서 비용 효율적인 지속적 성능 모니터링을 가능하게 하는 유연한 아키텍처를 제공한다. 이 프레임워크는 통계 검정이나 거리 지표로 여러 데이터 스트림의 정보를 종합하고, 파운데이션 모델 임베딩을 활용해 기관별 인코더 학습의 필요성을 없애며, 불확실성을 정량화해 드리프트의 중요도를 더 잘 전달한다."
-              },
-              {
-                "t": "p",
-                "x": "COVID-19 팬데믹 기간 Massachusetts General Hospital의 데이터로 검증한 결과, MMC+는 성능 변화와 상관관계가 있는 유의미한 데이터 변화를 효과적으로 탐지하고, AI 시스템이 허용 가능한 성능 범위를 벗어날 수 있는 시점을 알려준다. MMC+의 코드는 공개돼 있어 임상 현장에서 AI 솔루션이 더 널리 채택되는 데 기여한다."
-              }
-            ]
-          }
-        },
         "ja": {
-          "headline": "MMC+が画像AIの\n入力データ変化を監視",
-          "body": "CheXstray基盤のMMC+は、入力データの変化に伴う臨床画像AIのドリフトを監視する。",
-          "mini_headline": "画像AIのドリフトを点検",
+          "headline": "亜洲大学病院、AI病床\nモニタリングthynC導入",
+          "body": "亜洲大学病院が大熊製薬のthynCを342床に導入し、最大1100床への拡大を検討する。",
+          "mini_headline": "亜洲大学病院、thynC導入",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "臨床医用画像への人工知能(AI)の導入は診断を進歩させた一方、入力データが変化する中で長期的な信頼性を維持するという課題ももたらしている。これに対処するため、我々はマルチモーダルデータ一致度(MMC)を用いたリアルタイムのドリフト検出フレームワークCheXstrayを発展させ、スケーラブルなドリフト監視のためのモジュール型フレームワークMMC+を提示する。"
+                "t": "img",
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/26/2d4ed042-311f-4f77-8564-854751c83558.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "MMC+は、実際の医療現場で費用対効果の高い継続的な性能監視を可能にする柔軟なアーキテクチャを提供する。本フレームワークは、統計検定や距離指標を用いて複数のデータストリームの情報を集約し、基盤モデルの埋め込みを活用して施設ごとのエンコーダ学習を不要にし、不確実性を定量化してドリフトの重要性をより適切に伝える。"
+                "x": "大熊製薬は亜洲大学病院に、AIを活用したリアルタイムの病床モニタリング体制を構築した。同社はスマート病床モニタリングシステム「シンク(thynC)」を供給し、7病棟342床で運用を始めたと26日に明らかにした。"
               },
               {
                 "t": "p",
-                "x": "COVID-19パンデミック期間中のMassachusetts General Hospitalのデータで検証したところ、MMC+は性能変化と相関する有意なデータシフトを効果的に検出し、AIシステムが許容可能な性能範囲から逸脱する可能性がある時点を示した。MMC+のコードは公開されており、臨床現場でのAIソリューションの幅広い導入を後押しする。"
+                "x": "亜洲大学病院は胸部外科と循環器内科の病棟を皮切りに、救急病棟や看護・介護統合サービス病棟までthynCの適用範囲を広げた。現在の運用実績を踏まえ、今後最大1100床まで導入拡大を検討する計画だ。"
+              },
+              {
+                "t": "p",
+                "x": "今回の導入は、重症患者や手術前後に集中的な観察が必要な患者の状態変化を素早く把握することに重点を置いた。一般病棟でも生体信号を連続的に確認し、医療スタッフの患者管理を支援する狙いだ。"
+              },
+              {
+                "t": "p",
+                "x": "thynCは患者が装着するウェアラブルバイオセンサーで、心電図、心拍数、脈拍数、呼吸数、酸素飽和度などをリアルタイムで測定する。AIを活用した転倒や緊急性不整脈の検知・分類機能を備え、異常の兆候を検知すると病棟のモニタリング画面にアラームを表示し、医療スタッフの対応を助ける。"
+              },
+              {
+                "t": "p",
+                "x": "測定した主な生体情報は電子カルテ(EMR)と連携し、60秒間隔で最新の測定値を自動記録する。医療スタッフが繰り返し手入力する負担を減らし、入院期間中に測定した生体信号と心電図イベントをレポート形式で閲覧・保存できるようにした。"
+              },
+              {
+                "t": "p",
+                "x": "亜洲大学病院は昨年、機器の導入とインフラ整備を始め、今年8月まで臨床現場に合わせた最適化作業を進めた。9月からは胸部外科と循環器内科を中心に運用を拡大し、今月は救急病棟や看護・介護統合サービス病棟などへ適用範囲を広げた。"
+              },
+              {
+                "t": "p",
+                "x": "ウェアラブル測定器と病棟内の固定型ゲートウェイを用いた無線モニタリング体制も構築した。患者が病棟内を移動している間も生体信号を確認でき、心血管疾患患者の手術前後の状態観察や救急病棟の患者管理などに活用されている。"
+              },
+              {
+                "t": "p",
+                "x": "ハン・サンウク亜洲大学校医療院長は「入院患者の主要な生体信号をリアルタイムで確認し、異常の兆候を早期に発見できるため、患者の安全を一層強化できると期待している」と述べ、「現在運用中の342床の実績を踏まえ、今後全1100床への拡大導入も検討しており、これからもデジタル技術を積極的に活用し、より安全でスマートな診療環境を築いていく」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "大熊製薬は上級総合病院や主要拠点病院を中心に、thynCを活用したスマート病棟の構築を拡大している。同社によると、今年10月時点で全国218の医療機関、累計2万54床に導入された。医療機関ごとの患者特性や運用環境を考慮した活用ガイドを用意し、現場での運用を支援する計画だ。"
+              },
+              {
+                "t": "p",
+                "x": "イ・チャンジェ大熊製薬代表は「京畿道南部の重症・救急医療で中核的な役割を担う亜洲大学病院にthynCを供給し、患者の安全を強化するスマート病棟の構築に携われたことは意義深い」と述べ、「今後も亜洲大学病院との協力を強化し、京畿道南部の医療機関のデジタル転換と患者中心の診療環境づくりを支援していく」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "MMC+监测影像AI\n输入数据的变化",
-          "body": "基于CheXstray的模块化框架MMC+可在输入数据变化时监测临床影像AI的漂移。",
-          "mini_headline": "影像AI漂移检测",
+          "headline": "亚洲大学医院引入\nAI病床监测thynC",
+          "body": "亚洲大学医院在342张病床引入大熊制药thynC，并考虑扩至最多1100张。",
+          "mini_headline": "亚洲大学医院引入thynC",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "将人工智能(AI)整合进临床医学影像推动了诊断进步，但随着输入数据变化，如何保持长期可靠性也成为挑战。为此，我们提出MMC+，这是一个用于可扩展漂移监测的模块化框架，建立在我们利用多模态数据一致性(MMC)进行实时漂移检测的CheXstray框架之上。"
+                "t": "img",
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/26/2d4ed042-311f-4f77-8564-854751c83558.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "MMC+提供灵活的架构，可在真实医疗环境中实现具有成本效益的持续性能监测。该框架的功能包括：利用统计检验或距离度量汇总多个数据流的信息，借助基础模型嵌入免去针对特定机构训练编码器的需要，以及量化不确定性以更好地说明漂移的显著性。"
+                "x": "大熊制药为亚洲大学医院搭建了基于AI的实时病床监测体系。该公司26日表示，已供应智能病床监测系统“thynC”，并在7个病区的342张病床上投入运行。"
               },
               {
                 "t": "p",
-                "x": "经COVID-19疫情期间Massachusetts General Hospital数据验证，MMC+能有效检测与性能变化相关的显著数据偏移，并提示AI系统何时可能偏离可接受的性能范围。MMC+的代码已公开，有助于推动AI解决方案在临床中的更广泛应用。"
+                "x": "亚洲大学医院从胸外科和心内科病区起步，将thynC的应用范围扩展到急诊病区和护理·看护一体化服务病区。医院计划根据目前的运行成效，考虑今后将引入规模扩大至最多1100张病床。"
+              },
+              {
+                "t": "p",
+                "x": "此次引入的重点是迅速掌握重症患者以及手术前后需要重点观察的患者的病情变化，旨在让普通病区也能连续查看生命体征，支持医护人员管理患者。"
+              },
+              {
+                "t": "p",
+                "x": "thynC通过患者佩戴的可穿戴生物传感器，实时测量心电图、心率、脉率、呼吸频率和血氧饱和度等指标。它提供基于AI的跌倒和紧急心律失常检测与分类功能，一旦发现异常征兆，便在病区监测屏幕上显示警报，协助医护人员应对。"
+              },
+              {
+                "t": "p",
+                "x": "测得的主要生命体征数据与电子病历(EMR)联动，每隔60秒自动记录最新测量值。这减轻了医护人员反复手工录入的负担，并可将住院期间测得的生命体征和心电图事件以报告形式查询和保存。"
+              },
+              {
+                "t": "p",
+                "x": "亚洲大学医院去年开始引进设备、建设基础设施，并在今年8月前完成了贴合临床现场的优化工作。自9月起以胸外科和心内科为中心扩大运行，本月又将应用范围扩展到急诊病区和护理·看护一体化服务病区等。"
+              },
+              {
+                "t": "p",
+                "x": "医院还利用可穿戴测量设备和病区内的固定式网关搭建了无线监测体系。患者在病区内走动时也能查看其生命体征，可用于观察心血管疾病患者的术前术后状态以及管理急诊病区患者等。"
+              },
+              {
+                "t": "p",
+                "x": "亚洲大学医疗院院长Han Sang-wook表示：“我们可以实时查看住院患者的主要生命体征并及早发现异常征兆，期待借此进一步加强患者安全。”他还说：“我们正以目前运行中的342张病床的成效为基础，考虑今后扩大到全部1100张病床，并将继续积极运用数字技术，打造更安全、更智能的诊疗环境。”"
+              },
+              {
+                "t": "p",
+                "x": "大熊制药正以上级综合医院和主要据点医院为中心，扩大基于thynC的智慧病区建设。据该公司介绍，截至今年10月，thynC已在全国218家医疗机构投入使用，累计2万54张病床。公司计划制定兼顾各医疗机构患者特点和运营环境的使用指南，为现场运营提供支持。"
+              },
+              {
+                "t": "p",
+                "x": "大熊制药代表Lee Chang-jae表示：“能够向在京畿南部重症和急救医疗中发挥核心作用的亚洲大学医院供应thynC，共同建设加强患者安全的智慧病区，意义深远。”他还说：“今后我们将加强与亚洲大学医院的合作，支持京畿南部医疗机构的数字化转型和以患者为中心的诊疗环境建设。”"
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "Ajou University Hospital adopts\nthynC AI bed monitoring",
+          "body": "Ajou University Hospital uses Daewoong Pharmaceutical's thynC in 342 beds and weighs expanding to up to 1100 beds.",
+          "mini_headline": "Ajou University Hospital adopts thynC",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/26/2d4ed042-311f-4f77-8564-854751c83558.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Daewoong Pharmaceutical has built an AI-based real-time bed monitoring system at Ajou University Hospital. The company said on the 26th that it supplied its smart bed monitoring system thynC and began operating it in 342 beds across 7 wards."
+              },
+              {
+                "t": "p",
+                "x": "Ajou University Hospital started with its thoracic surgery and cardiology wards and has extended thynC to its emergency ward and its integrated nursing care service wards. Based on current results, it plans to consider expanding the rollout to up to 1100 beds."
+              },
+              {
+                "t": "p",
+                "x": "The rollout focuses on quickly catching changes in the condition of patients with severe illness and of patients who need close observation before and after surgery. The aim is to support patient care by medical staff through continuous monitoring of vital signs, even in general wards."
+              },
+              {
+                "t": "p",
+                "x": "thynC uses a wearable biosensor worn by the patient to measure electrocardiogram, heart rate, pulse rate, respiratory rate and oxygen saturation in real time. It offers AI-based detection and classification of falls and emergency arrhythmias, and when it detects an abnormal sign it shows an alarm on the ward monitoring screen to help medical staff respond."
+              },
+              {
+                "t": "p",
+                "x": "Key vital data are linked to the electronic medical record (EMR), which automatically records the latest readings at 60-second intervals. This reduces the burden of repetitive manual entry on medical staff and lets them view and save, in report form, the vital signs and ECG events measured during the hospital stay."
+              },
+              {
+                "t": "p",
+                "x": "Ajou University Hospital began installing equipment and building infrastructure last year and optimized the system for clinical settings through August this year. From September it expanded operations centered on thoracic surgery and cardiology, and this month it extended coverage to the emergency ward and the integrated nursing care service wards."
+              },
+              {
+                "t": "p",
+                "x": "It also built a wireless monitoring system using wearable devices and fixed gateways inside the wards. Because vital signs can be checked while patients move around the ward, the system is used to observe cardiovascular patients before and after surgery and to manage emergency ward patients."
+              },
+              {
+                "t": "p",
+                "x": "Han Sang-wook, president of Ajou University Medical Center, said, “We expect to further strengthen patient safety because we can check inpatients’ key vital signs in real time and detect abnormal signs early.” He added, “Based on the results of the 342 beds now in operation, we are also considering expanding the rollout to all 1100 beds, and we will continue to actively use digital technology to build a safer and smarter care environment.”"
+              },
+              {
+                "t": "p",
+                "x": "Daewoong Pharmaceutical is expanding thynC-based smart wards, centered on tertiary general hospitals and major regional hospitals. According to the company, as of October this year it had been installed at 218 medical institutions nationwide, for a cumulative 2만54 beds. It plans to support on-site operations with usage guides that reflect each institution’s patient characteristics and operating environment."
+              },
+              {
+                "t": "p",
+                "x": "Lee Chang-jae, CEO of Daewoong Pharmaceutical, said, “It is meaningful to take part in building smart wards that strengthen patient safety by supplying thynC to Ajou University Hospital, which plays a core role in severe and emergency care in southern Gyeonggi.” He added, “We will continue to strengthen our cooperation with Ajou University Hospital and support the digital transformation of medical institutions in southern Gyeonggi and the creation of patient-centered care environments.”"
               }
             ]
           }
         },
         "es": {
-          "headline": "MMC+ vigila la AI de imagen\nante cambios en datos de entrada",
-          "body": "MMC+, un marco modular basado en CheXstray, vigila la deriva de la AI de imagen clínica cuando cambian los datos.",
-          "mini_headline": "Control de deriva para AI de imagen",
+          "headline": "El Hospital Universitario Ajou\nadopta thynC, monitoreo con AI",
+          "body": "El Hospital Universitario Ajou instaló thynC de Daewoong Pharmaceutical en 342 camas y estudia llegar hasta 1100.",
+          "mini_headline": "El Hospital Universitario Ajou adopta thynC",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "La integración de la inteligencia artificial (AI) en la imagen médica clínica ha hecho avanzar el diagnóstico, pero también plantea retos para mantener la fiabilidad a largo plazo a medida que cambian los datos de entrada. Para abordarlo, presentamos MMC+, un marco modular para la monitorización escalable de la deriva que se basa en nuestro marco CheXstray de detección de deriva en tiempo real mediante concordancia de datos multimodales (MMC)."
+                "t": "img",
+                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/26/2d4ed042-311f-4f77-8564-854751c83558.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "MMC+ ofrece una arquitectura flexible que permite una monitorización continua y rentable del rendimiento en entornos sanitarios reales. Entre las capacidades del marco figuran la agregación de información de múltiples flujos de datos mediante pruebas estadísticas o métricas de distancia, el uso de embeddings de modelos fundacionales para eliminar la necesidad de entrenar codificadores específicos para cada centro, y la cuantificación de la incertidumbre para comunicar mejor la relevancia de la deriva."
+                "x": "Daewoong Pharmaceutical implantó en el Hospital Universitario Ajou un sistema de monitorización de camas en tiempo real basado en AI. La empresa informó el día 26 que suministró su sistema inteligente de monitorización de camas thynC y que comenzó a operarlo en 342 camas de 7 salas."
               },
               {
                 "t": "p",
-                "x": "Validado con datos del Massachusetts General Hospital durante la pandemia de COVID-19, MMC+ detecta de forma eficaz cambios significativos en los datos que se correlacionan con variaciones del rendimiento e indica cuándo los sistemas de AI pueden desviarse de los límites de rendimiento aceptables. El código de MMC+ está disponible públicamente, lo que favorece una adopción más amplia de soluciones de AI en entornos clínicos."
+                "x": "El hospital comenzó por las salas de cirugía torácica y cardiología y amplió el uso de thynC a la sala de urgencias y a las salas del servicio integrado de enfermería y cuidados. Con base en los resultados actuales, prevé estudiar su ampliación a un máximo de 1100 camas."
+              },
+              {
+                "t": "p",
+                "x": "La implantación se centra en detectar con rapidez los cambios en el estado de los pacientes con enfermedades graves y de quienes requieren observación intensiva antes y después de una cirugía. El objetivo es apoyar la atención del personal médico mediante la vigilancia continua de los signos vitales, también en las salas generales."
+              },
+              {
+                "t": "p",
+                "x": "thynC mide en tiempo real, mediante un biosensor portátil que lleva el paciente, el electrocardiograma, la frecuencia cardiaca, el pulso, la frecuencia respiratoria y la saturación de oxígeno, entre otros. Ofrece detección y clasificación de caídas y arritmias urgentes con AI y, si detecta una anomalía, muestra una alarma en la pantalla de monitorización de la sala para ayudar al personal médico a responder."
+              },
+              {
+                "t": "p",
+                "x": "Los principales datos vitales se vinculan con la historia clínica electrónica (EMR), que registra automáticamente los valores más recientes cada 60 segundos. Esto reduce la carga de la introducción manual repetitiva para el personal médico y permite consultar y guardar en forma de informe los signos vitales y los eventos de electrocardiograma medidos durante la hospitalización."
+              },
+              {
+                "t": "p",
+                "x": "El Hospital Universitario Ajou empezó el año pasado a instalar equipos y a construir la infraestructura, y hasta agosto de este año realizó ajustes de optimización adaptados a la práctica clínica. Desde septiembre amplió la operación con foco en cirugía torácica y cardiología, y este mes extendió su alcance a la sala de urgencias y a las salas del servicio integrado de enfermería y cuidados."
+              },
+              {
+                "t": "p",
+                "x": "También se montó un sistema de monitorización inalámbrica con medidores portátiles y pasarelas fijas en las salas. Como los signos vitales pueden verse incluso mientras el paciente se desplaza por la sala, se utiliza para observar a pacientes cardiovasculares antes y después de la cirugía y para atender a pacientes de la sala de urgencias."
+              },
+              {
+                "t": "p",
+                "x": "Han Sang-wook, director del Centro Médico de la Universidad Ajou, dijo: “Esperamos reforzar aún más la seguridad del paciente, ya que podemos verificar en tiempo real los principales signos vitales de los pacientes hospitalizados y detectar anomalías de forma temprana”. Añadió: “Con base en los resultados de las 342 camas que operan hoy, también estudiamos ampliar la implantación a las 1100 camas en total, y seguiremos aprovechando la tecnología digital para crear un entorno asistencial más seguro e inteligente”."
+              },
+              {
+                "t": "p",
+                "x": "Daewoong Pharmaceutical está ampliando la creación de salas inteligentes con thynC, sobre todo en hospitales generales de nivel superior y en grandes hospitales de referencia regionales. Según la empresa, a octubre de este año el sistema se había instalado en 218 instituciones médicas de todo el país, con un acumulado de 2만54 camas. Prevé apoyar la operación sobre el terreno con guías de uso adaptadas a las características de los pacientes y al entorno de cada institución."
+              },
+              {
+                "t": "p",
+                "x": "Lee Chang-jae, director ejecutivo de Daewoong Pharmaceutical, dijo: “Es significativo participar en la creación de salas inteligentes que refuerzan la seguridad del paciente suministrando thynC al Hospital Universitario Ajou, que desempeña un papel central en la atención grave y de urgencias del sur de Gyeonggi”. Añadió: “Seguiremos reforzando la cooperación con el Hospital Universitario Ajou y apoyando la transformación digital de las instituciones médicas del sur de Gyeonggi y la creación de entornos asistenciales centrados en el paciente”."
               }
             ]
           }
@@ -1231,15 +1511,15 @@
       }
     },
     {
-      "id": "medicine-uhc-avery",
+      "id": "medicine-ut-dell-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "보험사, AI 동반자\nAvery 21M 명 확대",
-      "body": "UnitedHealthcare가 AI 동반자 Avery를 21M 명으로 넓힌다.",
-      "mini_headline": "Avery, 회원 21M 명에 닿다",
+      "headline": "UT, AI-native\n병원에 크게 건다",
+      "body": "UT가 UT Dell Medicine을 출범시켜 AI-native 병원을 짓는다.",
+      "mini_headline": "UT, AI-native 병원에 건다",
       "tool": "Medicine",
       "source": "Fierce Healthcare",
-      "url": "https://www.fiercehealthcare.com/payers/unitedhealthcare-expands-ai-companion-avery-21m-members",
+      "url": "https://www.fiercehealthcare.com/health-tech/university-texas-austin-unveils-new-academic-health-system-it-builds-ai-native-hospital",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -1247,305 +1527,305 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1635360990/UnitedHealthcare_sign.jpg/UnitedHealthcare_sign.jpg?VersionId=mRAMc4oGgCt6.6zJw_PKJwe2kXPjRXqW",
-            "cap": "UnitedHealthcare 최고데이터분석책임자 Craig Kurtzweil은 회원이 도구를 믿고 가장 효과적으로 쓰려면 정확성이 핵심이라고 말했다. (UnitedHealthcare)"
+            "src": "https://qtxasset.com/quartz/qcloud5/media/image/ut_dmc_rendering_1.jpg?VersionId=ipR9dxmEbapX6RJmPIKHwO084YfVjNe.",
+            "cap": "2030년 개원 예정인 UT Dell Medical Center는 인공지능과 첨단 기술을 환자 진료와 임상 교육에 곧바로 접목한다. (UT Dell Medicine)"
           },
           {
             "t": "p",
-            "x": "UnitedHealthcare는 회원의 진료 조율을 돕는 생성형 AI 동반자 Avery를 올해 초 공개했다. 처음엔 고용주 플랜 회원 약 6.5M 명과 Medicare Advantage 가입자 160,000명만 쓸 수 있었는데, 이제 이용 대상이 회원 21M 명으로 넓어진다."
+            "x": "텍사스대학교 오스틴(The University of Texas at Austin)은 화요일 통합 학술 의료 체계 UT Dell Medicine을 공개했다. 클리닉과 Dell Medical School, 개원을 앞둔 UT Dell Medical Center를 하나로 묶은 체계다."
           },
           {
             "t": "p",
-            "x": "회사에 따르면 Avery는 지금까지 회원 상호작용의 90%를 해결했다. 나머지 10%는 사람 상담원에게 넘겨 회원을 돕게 할 수 있다."
+            "x": "새 AI-native 의료 센터를 지을 North Austin 부지는 이달 정리 작업에 들어간다. 센터는 2030년 개원 예정으로 예상 비용은 약 $5 billion이며, Michael & Susan Dell Foundation의 $750 million 기부금이 바탕이다. 300-to-500-bed(300~500병상) 규모의 전문 병원과 외래 클리닉, 완전한 응급실이 들어선다."
           },
           {
             "t": "p",
-            "x": "Kurtzweil은 Avery가 작동하는 핵심으로 \"ground truth systems\" 위에 구축됐다는 점을 꼽았다. 플랫폼에 중요한 데이터 기반을 만드는 시스템이다. Avery는 공제액, 본인부담 상한액, 의료기관 네트워크, 가격, 청구 처리 같은 주요 정보를 알려준다."
+            "x": "UT 지도부는 AI와 여러 첨단 기술을 처음부터 병원 인프라에 녹여 넣겠다는 목표다. 시설 전체에 센서 20,000~30,000개가 들어갈 전망이고, 의약품·물품·리넨·음식 자동 운반을 비롯해 로봇을 폭넓게 쓰도록 설계 중이다."
           },
           {
             "t": "p",
-            "x": "팀은 회원 대신 의료기관에 전화해 예약을 잡는 기능을 비롯해 Avery에 기능을 계속 더하고 있다. UnitedHealthcare는 궁극적으로 모든 가입자가 이 도구를 쓰게 할 계획이다."
+            "x": "Claudia Lucchinetti, M.D.는 병원이 “진료팀의 지능적인 일원이 되는 것”이 비전이라고 말했다. UT Dell Medicine은 AI와 예측 도구, 데이터를 써서 진료의 무게중심을 조기 발견과 예방으로 옮길 계획이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Insurer expands AI companion\nAvery to 21M members",
-          "body": "UnitedHealthcare is expanding Avery, its generative AI companion for care coordination, to 21 million members.",
-          "mini_headline": "Avery reaches 21M members",
+          "headline": "UT Dell Medicine bets big\non an AI-native hospital",
+          "body": "UT Austin unveiled UT Dell Medicine, a unified academic health system, as it builds an AI-native hospital.",
+          "mini_headline": "UT bets on AI-native hospital",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1635360990/UnitedHealthcare_sign.jpg/UnitedHealthcare_sign.jpg?VersionId=mRAMc4oGgCt6.6zJw_PKJwe2kXPjRXqW",
-                "cap": "Accuracy is critical to helping members build trust with the tool and use it most effectively, said Craig Kurtzweil, chief data and analytics officer at UnitedHealthcare. (UnitedHealthcare)"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/ut_dmc_rendering_1.jpg?VersionId=ipR9dxmEbapX6RJmPIKHwO084YfVjNe.",
+                "cap": "The UT Dell Medical Center, slated to open in 2030, will integrate artificial intelligence and advanced tech directly into patient care and clinical training. (UT Dell Medicine)"
               },
               {
                 "t": "p",
-                "x": "Earlier this year, UnitedHealthcare unveiled Avery, a generative AI companion aimed at supporting care coordination for its members. At the time, the tool was available to about 6.5 million of its members in employer plans and 160,000 people enrolled in Medicare Advantage. Now, the insurer is expanding access to 21 million of its members."
+                "x": "The University of Texas at Austin unveiled Tuesday a unified academic health system, called UT Dell Medicine, that brings its clinics, Dell Medical School and the upcoming UT Dell Medical Center under one banner."
               },
               {
                 "t": "p",
-                "x": "To date, the company has found that Avery has resolved 90% of its member interactions, and in the remaining 10% of cases, can complete a handoff to a human advocate to offer member support."
+                "x": "Site clearing begins this month to build a new AI-native medical center in North Austin, slated to open in 2030 with an estimated price tag of about $5 billion, anchored by a $750 million gift from the Michael & Susan Dell Foundation. It will feature a 300-to-500-bed specialty hospital, an outpatient clinic and a full emergency department."
               },
               {
                 "t": "p",
-                "x": "Kurtzweil said a key piece of what makes Avery work is that it's built on \"ground truth systems\" that create a critical data foundation for the platform. Avery can provide key details on deductibles, out-of-pocket maximums, provider networks, pricing and claims processing."
+                "x": "UT leaders aim to build AI and other advanced technologies into the hospital's infrastructure from the ground up. The medical center expects to have 20,000 to 30,000 sensors throughout the facility, and is designing for extensive use of robotics, including automated transportation of medications, supplies, linens and food."
               },
               {
                 "t": "p",
-                "x": "The team is also building out additional functionality for Avery, including an option for it to call providers and schedule appointments on the member's behalf. UnitedHealthcare intends to ultimately ensure that all of its enrollees can tap into the tool."
+                "x": "The vision is for the hospital to “become an intelligent member of the care team,” said Claudia Lucchinetti, M.D. UT Dell Medicine also plans to use AI, predictive tools and data to shift care toward earlier detection and prevention."
               }
             ]
           }
         },
         "ko": {
-          "headline": "보험사, AI 동반자\nAvery 21M 명 확대",
-          "body": "UnitedHealthcare가 AI 동반자 Avery를 21M 명으로 넓힌다.",
-          "mini_headline": "Avery, 회원 21M 명에 닿다",
+          "headline": "UT, AI-native\n병원에 크게 건다",
+          "body": "UT가 UT Dell Medicine을 출범시켜 AI-native 병원을 짓는다.",
+          "mini_headline": "UT, AI-native 병원에 건다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1635360990/UnitedHealthcare_sign.jpg/UnitedHealthcare_sign.jpg?VersionId=mRAMc4oGgCt6.6zJw_PKJwe2kXPjRXqW",
-                "cap": "UnitedHealthcare 최고데이터분석책임자 Craig Kurtzweil은 회원이 도구를 믿고 가장 효과적으로 쓰려면 정확성이 핵심이라고 말했다. (UnitedHealthcare)"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/ut_dmc_rendering_1.jpg?VersionId=ipR9dxmEbapX6RJmPIKHwO084YfVjNe.",
+                "cap": "2030년 개원 예정인 UT Dell Medical Center는 인공지능과 첨단 기술을 환자 진료와 임상 교육에 곧바로 접목한다. (UT Dell Medicine)"
               },
               {
                 "t": "p",
-                "x": "UnitedHealthcare는 회원의 진료 조율을 돕는 생성형 AI 동반자 Avery를 올해 초 공개했다. 처음엔 고용주 플랜 회원 약 6.5M 명과 Medicare Advantage 가입자 160,000명만 쓸 수 있었는데, 이제 이용 대상이 회원 21M 명으로 넓어진다."
+                "x": "텍사스대학교 오스틴(The University of Texas at Austin)은 화요일 통합 학술 의료 체계 UT Dell Medicine을 공개했다. 클리닉과 Dell Medical School, 개원을 앞둔 UT Dell Medical Center를 하나로 묶은 체계다."
               },
               {
                 "t": "p",
-                "x": "회사에 따르면 Avery는 지금까지 회원 상호작용의 90%를 해결했다. 나머지 10%는 사람 상담원에게 넘겨 회원을 돕게 할 수 있다."
+                "x": "새 AI-native 의료 센터를 지을 North Austin 부지는 이달 정리 작업에 들어간다. 센터는 2030년 개원 예정으로 예상 비용은 약 $5 billion이며, Michael & Susan Dell Foundation의 $750 million 기부금이 바탕이다. 300-to-500-bed(300~500병상) 규모의 전문 병원과 외래 클리닉, 완전한 응급실이 들어선다."
               },
               {
                 "t": "p",
-                "x": "Kurtzweil은 Avery가 작동하는 핵심으로 \"ground truth systems\" 위에 구축됐다는 점을 꼽았다. 플랫폼에 중요한 데이터 기반을 만드는 시스템이다. Avery는 공제액, 본인부담 상한액, 의료기관 네트워크, 가격, 청구 처리 같은 주요 정보를 알려준다."
+                "x": "UT 지도부는 AI와 여러 첨단 기술을 처음부터 병원 인프라에 녹여 넣겠다는 목표다. 시설 전체에 센서 20,000~30,000개가 들어갈 전망이고, 의약품·물품·리넨·음식 자동 운반을 비롯해 로봇을 폭넓게 쓰도록 설계 중이다."
               },
               {
                 "t": "p",
-                "x": "팀은 회원 대신 의료기관에 전화해 예약을 잡는 기능을 비롯해 Avery에 기능을 계속 더하고 있다. UnitedHealthcare는 궁극적으로 모든 가입자가 이 도구를 쓰게 할 계획이다."
+                "x": "Claudia Lucchinetti, M.D.는 병원이 “진료팀의 지능적인 일원이 되는 것”이 비전이라고 말했다. UT Dell Medicine은 AI와 예측 도구, 데이터를 써서 진료의 무게중심을 조기 발견과 예방으로 옮길 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "保険大手、AIコンパニオン\nAveryを21M 人に拡大",
-          "body": "UnitedHealthcareが生成AIの相棒Averyを21M 人の会員に拡大する。",
-          "mini_headline": "Avery、21M 人の会員へ",
+          "headline": "UT、AI-native\n病院に大きく賭ける",
+          "body": "UT AustinがUT Dell Medicineを始動、AI-native病院を造る。",
+          "mini_headline": "UT、AI-native病院に賭ける",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1635360990/UnitedHealthcare_sign.jpg/UnitedHealthcare_sign.jpg?VersionId=mRAMc4oGgCt6.6zJw_PKJwe2kXPjRXqW",
-                "cap": "会員がツールを信頼し最も効果的に使うには正確性が欠かせないと、UnitedHealthcareの最高データ・分析責任者Craig Kurtzweilは述べた。(UnitedHealthcare)"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/ut_dmc_rendering_1.jpg?VersionId=ipR9dxmEbapX6RJmPIKHwO084YfVjNe.",
+                "cap": "2030年開院予定のUT Dell Medical Centerは、人工知能と先端技術を患者ケアと臨床教育に直接組み込む。(UT Dell Medicine)"
               },
               {
                 "t": "p",
-                "x": "UnitedHealthcareは今年初め、会員のケア調整を支援する生成AIコンパニオンAveryを発表した。当時、このツールを利用できたのは雇用主プランの会員約6.5M 人とMedicare Advantage加入者160,000人だった。現在、同社は利用対象を会員21M 人に広げている。"
+                "x": "The University of Texas at Austin(テキサス大学オースティン校)は火曜日、クリニック、Dell Medical School、開院予定のUT Dell Medical Centerを一つにまとめる統合学術医療システム「UT Dell Medicine」を発表した。"
               },
               {
                 "t": "p",
-                "x": "同社によると、これまでAveryは会員とのやり取りの90%を解決し、残る10%のケースでは人間の担当者に引き継いで会員を支援できる。"
+                "x": "North Austinに新たなAI-native医療センターを建設するための用地整備が今月始まる。2030年の開院を予定し、推定費用は約$5 billionで、Michael & Susan Dell Foundationからの$750 millionの寄付が柱となる。300-to-500-bed(300〜500床)の専門病院、外来クリニック、本格的な救急部門を備える。"
               },
               {
                 "t": "p",
-                "x": "Kurtzweilは、Averyが機能する鍵は、プラットフォームに重要なデータ基盤をもたらす\"ground truth systems\"の上に構築されている点だと述べた。Averyは免責額、自己負担上限額、医療機関ネットワーク、価格、請求処理について主要な情報を提供できる。"
+                "x": "UTの指導部は、AIをはじめとする先端技術を最初から病院のインフラに組み込むことを目指している。医療センターは施設全体に20,000〜30,000個のセンサーを設置する見込みで、医薬品、物品、リネン、食事の自動搬送を含め、ロボットを幅広く活用する設計を進めている。"
               },
               {
                 "t": "p",
-                "x": "チームはAveryの機能拡充も進めており、会員に代わって医療機関に電話し予約を入れる機能も含まれる。UnitedHealthcareは最終的に、全加入者がこのツールを使えるようにする考えだ。"
+                "x": "目指すのは病院が「ケアチームの知的な一員になる」ことだと、Claudia Lucchinetti, M.D.は語った。UT Dell MedicineはAI、予測ツール、データを活用し、ケアを早期発見と予防へと移していく計画だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "保险公司扩大AI助手\nAvery 覆盖21M 会员",
-          "body": "UnitedHealthcare将生成式AI护理协调助手Avery扩展至21M 名会员。",
-          "mini_headline": "Avery覆盖21M 会员",
+          "headline": "UT重金押注\nAI-native医院",
+          "body": "UT Austin推出UT Dell Medicine，并兴建AI-native医院。",
+          "mini_headline": "UT押注AI-native医院",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1635360990/UnitedHealthcare_sign.jpg/UnitedHealthcare_sign.jpg?VersionId=mRAMc4oGgCt6.6zJw_PKJwe2kXPjRXqW",
-                "cap": "UnitedHealthcare首席数据与分析官Craig Kurtzweil表示，准确性对于帮助会员信任该工具并最有效地使用它至关重要。（UnitedHealthcare）"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/ut_dmc_rendering_1.jpg?VersionId=ipR9dxmEbapX6RJmPIKHwO084YfVjNe.",
+                "cap": "UT Dell Medical Center计划于2030年开业，将把人工智能和先进技术直接融入患者护理与临床培训。（UT Dell Medicine）"
               },
               {
                 "t": "p",
-                "x": "今年早些时候，UnitedHealthcare推出了Avery，这是一款旨在支持会员护理协调的生成式AI助手。当时，约6.5M 名雇主计划会员和160,000名Medicare Advantage参保人可以使用该工具。如今，这家保险公司正将使用范围扩大到21M 名会员。"
+                "x": "The University of Texas at Austin（得克萨斯大学奥斯汀分校）周二公布了名为UT Dell Medicine的一体化学术医疗体系，将旗下诊所、Dell Medical School以及即将建成的UT Dell Medical Center整合在同一品牌之下。"
               },
               {
                 "t": "p",
-                "x": "公司迄今发现，Avery解决了90%的会员交互，其余10%的情况可转交给人工顾问为会员提供支持。"
+                "x": "本月，North Austin将开始清理场地，兴建一座新的AI-native医疗中心，计划于2030年开业，预计造价约$5 billion，其中Michael & Susan Dell Foundation捐赠的$750 million为核心资金。中心将设有一座300-to-500-bed（300至500张床位）的专科医院、一个门诊诊所和一个全功能急诊科。"
               },
               {
                 "t": "p",
-                "x": "Kurtzweil表示，Avery得以运作的关键在于它建立在\"ground truth systems\"之上，这些系统为平台奠定了关键的数据基础。Avery可以提供免赔额、自付上限、医疗服务网络、价格和理赔处理等关键信息。"
+                "x": "UT领导层希望从一开始就将AI及其他先进技术融入医院基础设施。该医疗中心预计在整个设施内部署20,000至30,000个传感器，并在设计上大量使用机器人，包括自动运送药品、物资、布草和餐食。"
               },
               {
                 "t": "p",
-                "x": "团队还在为Avery开发更多功能，包括代会员致电医疗机构并预约就诊的选项。UnitedHealthcare的最终目标是让所有参保人都能使用该工具。"
+                "x": "Claudia Lucchinetti, M.D.表示，愿景是让医院“成为护理团队中的智能成员”。UT Dell Medicine还计划利用AI、预测工具和数据，推动医疗向更早发现和预防转变。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Aseguradora amplía compañero AI\nAvery a 21M de afiliados",
-          "body": "UnitedHealthcare amplía a 21 millones de afiliados Avery, su compañero de AI generativa para coordinar la atención.",
-          "mini_headline": "Avery llega a 21M de afiliados",
+          "headline": "UT Dell Medicine apuesta fuerte\npor un hospital AI-native",
+          "body": "UT Austin presentó UT Dell Medicine, un sistema de salud académico unificado, y construye un hospital AI-native.",
+          "mini_headline": "UT apuesta por un hospital AI-native",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1635360990/UnitedHealthcare_sign.jpg/UnitedHealthcare_sign.jpg?VersionId=mRAMc4oGgCt6.6zJw_PKJwe2kXPjRXqW",
-                "cap": "La precisión es clave para que los afiliados confíen en la herramienta y la usen con la mayor eficacia, dijo Craig Kurtzweil, director de datos y análisis de UnitedHealthcare. (UnitedHealthcare)"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/ut_dmc_rendering_1.jpg?VersionId=ipR9dxmEbapX6RJmPIKHwO084YfVjNe.",
+                "cap": "El UT Dell Medical Center, cuya apertura está prevista para 2030, integrará la inteligencia artificial y la tecnología avanzada directamente en la atención al paciente y la formación clínica. (UT Dell Medicine)"
               },
               {
                 "t": "p",
-                "x": "A principios de este año, UnitedHealthcare presentó Avery, un compañero de AI generativa pensado para apoyar la coordinación de la atención de sus afiliados. Entonces, la herramienta estaba disponible para unos 6.5 millones de afiliados en planes de empleador y 160,000 personas inscritas en Medicare Advantage. Ahora, la aseguradora amplía el acceso a 21 millones de sus afiliados."
+                "x": "The University of Texas at Austin presentó el martes un sistema de salud académico unificado, llamado UT Dell Medicine, que reúne bajo una misma marca sus clínicas, la Dell Medical School y el futuro UT Dell Medical Center."
               },
               {
                 "t": "p",
-                "x": "Hasta la fecha, la compañía ha comprobado que Avery ha resuelto el 90% de las interacciones con afiliados y, en el 10% restante de los casos, puede derivarlas a un asesor humano para ofrecer apoyo al afiliado."
+                "x": "Este mes comienza el despeje del terreno para construir un nuevo centro médico AI-native en North Austin, cuya apertura está prevista para 2030, con un costo estimado de unos 5 mil millones de dólares y respaldado por una donación de 750 millones de dólares de la Michael & Susan Dell Foundation. Contará con un hospital de especialidades 300-to-500-bed (de 300 a 500 camas), una clínica ambulatoria y un servicio de urgencias completo."
               },
               {
                 "t": "p",
-                "x": "Kurtzweil dijo que una pieza clave del funcionamiento de Avery es que se basa en \"ground truth systems\" que crean una base de datos fundamental para la plataforma. Avery puede ofrecer datos clave sobre deducibles, máximos de gastos de bolsillo, redes de proveedores, precios y tramitación de reclamaciones."
+                "x": "Los líderes de UT buscan integrar la AI y otras tecnologías avanzadas en la infraestructura del hospital desde cero. El centro médico prevé contar con entre 20,000 y 30,000 sensores en todas sus instalaciones y se está diseñando para un uso extensivo de la robótica, incluido el transporte automatizado de medicamentos, suministros, ropa de cama y comida."
               },
               {
                 "t": "p",
-                "x": "El equipo también desarrolla funciones adicionales para Avery, como la opción de llamar a proveedores y programar citas en nombre del afiliado. UnitedHealthcare pretende, en última instancia, que todos sus inscritos puedan usar la herramienta."
+                "x": "La visión es que el hospital “se convierta en un miembro inteligente del equipo de atención”, dijo Claudia Lucchinetti, M.D. UT Dell Medicine también planea usar AI, herramientas predictivas y datos para orientar la atención hacia la detección temprana y la prevención."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "es": {
-          "headline": "Aseguradora amplía compañero AI\nAvery a 21M de afiliados",
-          "body": "UnitedHealthcare amplía a 21 millones de afiliados Avery, su compañero de AI generativa para coordinar la atención.",
-          "mini_headline": "Avery llega a 21M de afiliados",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1635360990/UnitedHealthcare_sign.jpg/UnitedHealthcare_sign.jpg?VersionId=mRAMc4oGgCt6.6zJw_PKJwe2kXPjRXqW",
-                "cap": "La precisión es clave para que los afiliados confíen en la herramienta y la usen con la mayor eficacia, dijo Craig Kurtzweil, director de datos y análisis de UnitedHealthcare. (UnitedHealthcare)"
-              },
-              {
-                "t": "p",
-                "x": "A principios de este año, UnitedHealthcare presentó Avery, un compañero de AI generativa pensado para apoyar la coordinación de la atención de sus afiliados. Entonces, la herramienta estaba disponible para unos 6.5 millones de afiliados en planes de empleador y 160,000 personas inscritas en Medicare Advantage. Ahora, la aseguradora amplía el acceso a 21 millones de sus afiliados."
-              },
-              {
-                "t": "p",
-                "x": "Hasta la fecha, la compañía ha comprobado que Avery ha resuelto el 90% de las interacciones con afiliados y, en el 10% restante de los casos, puede derivarlas a un asesor humano para ofrecer apoyo al afiliado."
-              },
-              {
-                "t": "p",
-                "x": "Kurtzweil dijo que una pieza clave del funcionamiento de Avery es que se basa en \"ground truth systems\" que crean una base de datos fundamental para la plataforma. Avery puede ofrecer datos clave sobre deducibles, máximos de gastos de bolsillo, redes de proveedores, precios y tramitación de reclamaciones."
-              },
-              {
-                "t": "p",
-                "x": "El equipo también desarrolla funciones adicionales para Avery, como la opción de llamar a proveedores y programar citas en nombre del afiliado. UnitedHealthcare pretende, en última instancia, que todos sus inscritos puedan usar la herramienta."
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "보험사, AI 동반자\nAvery 21M 명 확대",
-          "body": "UnitedHealthcare가 AI 동반자 Avery를 21M 명에 확대한다.",
-          "mini_headline": "Avery, 회원 21M 명에 닿다",
+          "headline": "UT, AI-native\n병원에 크게 건다",
+          "body": "UT가 UT Dell Medicine을 내놓고 AI-native 병원을 짓는다.",
+          "mini_headline": "UT, AI-native 병원에 건다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1635360990/UnitedHealthcare_sign.jpg/UnitedHealthcare_sign.jpg?VersionId=mRAMc4oGgCt6.6zJw_PKJwe2kXPjRXqW",
-                "cap": "회원이 도구를 신뢰하고 가장 효과적으로 쓰려면 정확성이 핵심이라고 UnitedHealthcare 최고데이터분석책임자 Craig Kurtzweil은 말했다. (UnitedHealthcare)"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/ut_dmc_rendering_1.jpg?VersionId=ipR9dxmEbapX6RJmPIKHwO084YfVjNe.",
+                "cap": "2030년 개원 예정인 UT Dell Medical Center는 인공지능과 첨단 기술을 환자 진료와 임상 교육에 직접 통합한다. (UT Dell Medicine)"
               },
               {
                 "t": "p",
-                "x": "UnitedHealthcare는 올해 초 회원의 진료 조율을 돕는 생성형 AI 동반자 Avery를 공개했다. 당시 이 도구는 고용주 플랜 회원 약 6.5M 명과 Medicare Advantage 가입자 160,000명이 쓸 수 있었다. 이제 보험사는 이용 대상을 회원 21M 명으로 넓힌다."
+                "x": "텍사스대학교 오스틴(The University of Texas at Austin)은 화요일, 클리닉과 Dell Medical School, 개원을 앞둔 UT Dell Medical Center를 하나로 묶는 통합 학술 의료 체계 UT Dell Medicine을 공개했다."
               },
               {
                 "t": "p",
-                "x": "회사에 따르면 지금까지 Avery는 회원 상호작용의 90%를 해결했고, 나머지 10%는 사람 상담원에게 넘겨 회원을 지원하게 할 수 있다."
+                "x": "이달 North Austin에서 새 AI-native 의료 센터를 짓기 위한 부지 정리가 시작된다. 센터는 2030년 개원 예정이며 예상 비용은 약 $5 billion이고, Michael & Susan Dell Foundation의 $750 million 기부가 바탕이 된다. 300-to-500-bed(300~500병상) 규모의 전문 병원, 외래 클리닉, 완전한 응급실을 갖춘다."
               },
               {
                 "t": "p",
-                "x": "Kurtzweil은 Avery가 작동하는 핵심이 플랫폼에 중요한 데이터 기반을 만드는 \"ground truth systems\" 위에 구축됐다는 점이라고 말했다. Avery는 공제액, 본인부담 상한액, 의료기관 네트워크, 가격, 청구 처리에 관한 주요 정보를 제공할 수 있다."
+                "x": "UT 지도부는 AI와 여러 첨단 기술을 처음부터 병원 인프라에 녹여 넣는 것을 목표로 한다. 의료 센터는 시설 전체에 센서 20,000~30,000개를 설치할 것으로 예상하며, 의약품·물품·리넨·음식의 자동 운반을 포함해 로봇을 폭넓게 활용하도록 설계하고 있다."
               },
               {
                 "t": "p",
-                "x": "팀은 회원을 대신해 의료기관에 전화하고 예약을 잡는 기능을 포함해 Avery에 기능을 더하고 있다. UnitedHealthcare는 궁극적으로 모든 가입자가 이 도구를 쓸 수 있게 할 계획이다."
+                "x": "Claudia Lucchinetti, M.D.는 병원이 “진료팀의 지능적인 일원이 되는 것”이 비전이라고 말했다. UT Dell Medicine은 AI와 예측 도구, 데이터를 활용해 진료의 무게중심을 조기 발견과 예방으로 옮길 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "保険大手、AIコンパニオン\nAveryを21M 人に拡大",
-          "body": "UnitedHealthcareが生成AIの相棒Averyを21M 人の会員に拡大する。",
-          "mini_headline": "Avery、21M 人の会員へ",
+          "headline": "UT、AI-native\n病院に大きく賭ける",
+          "body": "UT AustinがUT Dell Medicineを始動、AI-native病院を造る。",
+          "mini_headline": "UT、AI-native病院に賭ける",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1635360990/UnitedHealthcare_sign.jpg/UnitedHealthcare_sign.jpg?VersionId=mRAMc4oGgCt6.6zJw_PKJwe2kXPjRXqW",
-                "cap": "会員がツールを信頼し最も効果的に使うには正確性が欠かせないと、UnitedHealthcareの最高データ・分析責任者Craig Kurtzweilは述べた。(UnitedHealthcare)"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/ut_dmc_rendering_1.jpg?VersionId=ipR9dxmEbapX6RJmPIKHwO084YfVjNe.",
+                "cap": "2030年開院予定のUT Dell Medical Centerは、人工知能と先端技術を患者ケアと臨床教育に直接組み込む。(UT Dell Medicine)"
               },
               {
                 "t": "p",
-                "x": "UnitedHealthcareは今年初め、会員のケア調整を支援する生成AIコンパニオンAveryを発表した。当時、このツールを利用できたのは雇用主プランの会員約6.5M 人とMedicare Advantage加入者160,000人だった。現在、同社は利用対象を会員21M 人に広げている。"
+                "x": "The University of Texas at Austin(テキサス大学オースティン校)は火曜日、クリニック、Dell Medical School、開院予定のUT Dell Medical Centerを一つにまとめる統合学術医療システム「UT Dell Medicine」を発表した。"
               },
               {
                 "t": "p",
-                "x": "同社によると、これまでAveryは会員とのやり取りの90%を解決し、残る10%のケースでは人間の担当者に引き継いで会員を支援できる。"
+                "x": "North Austinに新たなAI-native医療センターを建設するための用地整備が今月始まる。2030年の開院を予定し、推定費用は約$5 billionで、Michael & Susan Dell Foundationからの$750 millionの寄付が柱となる。300-to-500-bed(300〜500床)の専門病院、外来クリニック、本格的な救急部門を備える。"
               },
               {
                 "t": "p",
-                "x": "Kurtzweilは、Averyが機能する鍵は、プラットフォームに重要なデータ基盤をもたらす\"ground truth systems\"の上に構築されている点だと述べた。Averyは免責額、自己負担上限額、医療機関ネットワーク、価格、請求処理について主要な情報を提供できる。"
+                "x": "UTの指導部は、AIをはじめとする先端技術を最初から病院のインフラに組み込むことを目指している。医療センターは施設全体に20,000〜30,000個のセンサーを設置する見込みで、医薬品、物品、リネン、食事の自動搬送を含め、ロボットを幅広く活用する設計を進めている。"
               },
               {
                 "t": "p",
-                "x": "チームはAveryの機能拡充も進めており、会員に代わって医療機関に電話し予約を入れる機能も含まれる。UnitedHealthcareは最終的に、全加入者がこのツールを使えるようにする考えだ。"
+                "x": "目指すのは病院が「ケアチームの知的な一員になる」ことだと、Claudia Lucchinetti, M.D.は語った。UT Dell MedicineはAI、予測ツール、データを活用し、ケアを早期発見と予防へと移していく計画だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "保险公司扩大AI助手\nAvery 覆盖21M 会员",
-          "body": "UnitedHealthcare将生成式AI护理协调助手Avery扩展至21M 名会员。",
-          "mini_headline": "Avery覆盖21M 会员",
+          "headline": "UT重金押注\nAI-native医院",
+          "body": "UT Austin推出UT Dell Medicine，并兴建AI-native医院。",
+          "mini_headline": "UT押注AI-native医院",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1635360990/UnitedHealthcare_sign.jpg/UnitedHealthcare_sign.jpg?VersionId=mRAMc4oGgCt6.6zJw_PKJwe2kXPjRXqW",
-                "cap": "UnitedHealthcare首席数据与分析官Craig Kurtzweil表示，准确性对于帮助会员信任该工具并最有效地使用它至关重要。（UnitedHealthcare）"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/ut_dmc_rendering_1.jpg?VersionId=ipR9dxmEbapX6RJmPIKHwO084YfVjNe.",
+                "cap": "UT Dell Medical Center计划于2030年开业，将把人工智能和先进技术直接融入患者护理与临床培训。（UT Dell Medicine）"
               },
               {
                 "t": "p",
-                "x": "今年早些时候，UnitedHealthcare推出了Avery，这是一款旨在支持会员护理协调的生成式AI助手。当时，约6.5M 名雇主计划会员和160,000名Medicare Advantage参保人可以使用该工具。如今，这家保险公司正将使用范围扩大到21M 名会员。"
+                "x": "The University of Texas at Austin（得克萨斯大学奥斯汀分校）周二公布了名为UT Dell Medicine的一体化学术医疗体系，将旗下诊所、Dell Medical School以及即将建成的UT Dell Medical Center整合在同一品牌之下。"
               },
               {
                 "t": "p",
-                "x": "公司迄今发现，Avery解决了90%的会员交互，其余10%的情况可转交给人工顾问为会员提供支持。"
+                "x": "本月，North Austin将开始清理场地，兴建一座新的AI-native医疗中心，计划于2030年开业，预计造价约$5 billion，其中Michael & Susan Dell Foundation捐赠的$750 million为核心资金。中心将设有一座300-to-500-bed（300至500张床位）的专科医院、一个门诊诊所和一个全功能急诊科。"
               },
               {
                 "t": "p",
-                "x": "Kurtzweil表示，Avery得以运作的关键在于它建立在\"ground truth systems\"之上，这些系统为平台奠定了关键的数据基础。Avery可以提供免赔额、自付上限、医疗服务网络、价格和理赔处理等关键信息。"
+                "x": "UT领导层希望从一开始就将AI及其他先进技术融入医院基础设施。该医疗中心预计在整个设施内部署20,000至30,000个传感器，并在设计上大量使用机器人，包括自动运送药品、物资、布草和餐食。"
               },
               {
                 "t": "p",
-                "x": "团队还在为Avery开发更多功能，包括代会员致电医疗机构并预约就诊的选项。UnitedHealthcare的最终目标是让所有参保人都能使用该工具。"
+                "x": "Claudia Lucchinetti, M.D.表示，愿景是让医院“成为护理团队中的智能成员”。UT Dell Medicine还计划利用AI、预测工具和数据，推动医疗向更早发现和预防转变。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "UT Dell Medicine apuesta fuerte\npor un hospital AI-native",
+          "body": "UT Austin presentó UT Dell Medicine, un sistema de salud académico unificado, y construye un hospital AI-native.",
+          "mini_headline": "UT apuesta por un hospital AI-native",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/ut_dmc_rendering_1.jpg?VersionId=ipR9dxmEbapX6RJmPIKHwO084YfVjNe.",
+                "cap": "El UT Dell Medical Center, cuya apertura está prevista para 2030, integrará la inteligencia artificial y la tecnología avanzada directamente en la atención al paciente y la formación clínica. (UT Dell Medicine)"
+              },
+              {
+                "t": "p",
+                "x": "The University of Texas at Austin presentó el martes un sistema de salud académico unificado, llamado UT Dell Medicine, que reúne bajo una misma marca sus clínicas, la Dell Medical School y el futuro UT Dell Medical Center."
+              },
+              {
+                "t": "p",
+                "x": "Este mes comienza el despeje del terreno para construir un nuevo centro médico AI-native en North Austin, cuya apertura está prevista para 2030, con un costo estimado de unos 5 mil millones de dólares y respaldado por una donación de 750 millones de dólares de la Michael & Susan Dell Foundation. Contará con un hospital de especialidades 300-to-500-bed (de 300 a 500 camas), una clínica ambulatoria y un servicio de urgencias completo."
+              },
+              {
+                "t": "p",
+                "x": "Los líderes de UT buscan integrar la AI y otras tecnologías avanzadas en la infraestructura del hospital desde cero. El centro médico prevé contar con entre 20,000 y 30,000 sensores en todas sus instalaciones y se está diseñando para un uso extensivo de la robótica, incluido el transporte automatizado de medicamentos, suministros, ropa de cama y comida."
+              },
+              {
+                "t": "p",
+                "x": "La visión es que el hospital “se convierta en un miembro inteligente del equipo de atención”, dijo Claudia Lucchinetti, M.D. UT Dell Medicine también planea usar AI, herramientas predictivas y datos para orientar la atención hacia la detección temprana y la prevención."
               }
             ]
           }

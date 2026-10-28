@@ -8324,6 +8324,153 @@
           "x": "Desde el principio, Suno ha alegado uso legítimo y ha intentado rebatir la idea de que sus creaciones perjudican el mercado de la música real. Mientras tanto, las grandes discográficas también presionan a DistroKid por su herramienta de AI-detection, y Suno y Udio piden al Mechanical Licensing Collective datos de volumen de reproducciones de los DSP."
         }
       ]
+    },
+    "music/behringerkick": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/EYQqEuQYEJo9onmXDpaQTd.jpg",
+          "cap": "(Crédito de imagen: Behringer)"
+        },
+        {
+          "t": "p",
+          "x": "Behringer adelanta un próximo sampler de hardware, Kick, muy parecido al MPC One de Akai, actualizado recientemente. Incluso antes del lanzamiento del hardware, Behringer ha subido a GitHub los recursos de su firmware de código abierto e invita a los posibles usuarios a “crear, modificar y reinventar lo que puede hacer un instrumento”."
+        },
+        {
+          "t": "p",
+          "x": "Kick tiene 16 pads, cuatro controles asignables, pantalla táctil y conectividad de audio, MIDI y CV, además de una ‘cámara AI’ que, según se dice, permite el control por gestos, y una pequeña tira táctil. Su precio prometido es de $150."
+        },
+        {
+          "t": "p",
+          "x": "En su publicación de Facebook, Behringer es explícito sobre el papel que ve para la AI: “Con AI, incluso las personas sin experiencia en programación pueden convertir sus ideas en nuevas funciones y firmware”. Akai también parece dispuesta a adoptar un enfoque abierto con el anunciado MPC Sample Key."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/zZAfXZUMxJRUiTGXwnNpLH.jpg",
+          "cap": "El Sample Key de Akai también se sumará al auge del código abierto. (Crédito de imagen: Akai Professional/Instagram)"
+        },
+        {
+          "t": "p",
+          "x": "MusicRadar advierte de un peligro: al abrir un producto al firmware AI-generated, añadir funciones pasa a ser más una responsabilidad de la comunidad, y las marcas podrían ver a los usuarios AI-empowered como una forma de ahorrar en desarrollo, pruebas y actualizaciones. Las especificaciones de Kick en GitHub destacan edición de muestras, secuenciador por pasos y looper, en torno a algo llamado ‘JAM DAW’."
+        }
+      ]
+    },
+    "music/machoverbso": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wbur.org/wp/2026/10/IMG_8264-scaled.jpeg",
+          "cap": "El profesor y compositor Tod Machover con su violonchelo en el Media Lab del MIT. (Andrea Shea/WBUR)"
+        },
+        {
+          "t": "p",
+          "x": "Tod Machover, profesor del MIT Media Lab, estrena una composición interactiva que escribió para la Boston Symphony Orchestra y la inteligencia artificial: una pieza de 25 minutos titulada “already and not yet” que une a más de 80 músicos con un nuevo tipo de sistema de AI, encargada para celebrar el 40.º aniversario del Media Lab."
+        },
+        {
+          "t": "img",
+          "src": "https://media.wbur.org/wp/2026/10/IMG_8221-scaled.jpeg",
+          "cap": "Manaswi Mishra, estudiante de doctorado del grupo Opera of the Future de Machover. (Andrea Shea/WBUR)"
+        },
+        {
+          "t": "p",
+          "x": "Lo desarrolló con Manaswi Mishra, estudiante de doctorado. “Es un colaborador, y lo hemos diseñado así”, dijo Machover. “Está en diálogo con los músicos que tocan en vivo en el escenario… La AI no intenta tomar lo que hace el músico y convertirlo en una pieza nueva: intenta responder y mantener un intercambio”."
+        },
+        {
+          "t": "p",
+          "x": "Mishra guía las respuestas de la AI en el escenario: “Podemos hacer que destaque su información armónica, que destaque la información rítmica, o hacer que el timbre se mueva en distintas direcciones”. En los solos, dijo Machover, “la AI responde… es diferente para cada intérprete”."
+        },
+        {
+          "t": "img",
+          "src": "https://media.wbur.org/wp/2026/10/10.22.26-Manaswi-Mishra-controls-live-AI-system-at-world-premiere-of-Tod-Machovers-already-and-not-yet-Winslow-Townson-scaled.jpg",
+          "cap": "Manaswi Mishra controla un sistema de AI en vivo durante el estreno mundial en Symphony Hall, el 22 de octubre de 2026. (Courtesy Winslow Townson)"
+        },
+        {
+          "t": "p",
+          "x": "Owen Young, violonchelista de la BSO: “Es una herramienta, pero el miedo es que nos reemplace, y en esta composición no nos está reemplazando”. La obra se presenta del 22 al 24 de octubre dentro de la serie “Technology and Our Humanity” de la BSO."
+        }
+      ]
+    },
+    "music/russiaaisong": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La canción viral AI-generated “Ty moya…” (“You’re my…”), del músico DJ NARODNII, ha sido bloqueada en los servicios de streaming rusos, informó el medio Ostorozhno, Novosti."
+        },
+        {
+          "t": "p",
+          "x": "Al intentar reproducir el tema en servicios como Yandex Music aparece un aviso que indica que no está disponible a petición de Roskomnadzor, el regulador de comunicaciones de Rusia."
+        },
+        {
+          "t": "p",
+          "x": "A finales de septiembre, la Agencia Federal de Asuntos de la Juventud de Rusia exigió que se restringiera el acceso a la canción."
+        },
+        {
+          "t": "p",
+          "x": "DJ NARODNII dijo que no recibió ningún aviso de que el tema sería retirado y que se enteró al revisar las plataformas de música. Afirmó que Yandex Music eliminó cinco remezclas junto con la canción original."
+        },
+        {
+          "t": "p",
+          "x": "El músico cree que el tema fue bloqueado por las quejas de “ciertas personas que se lo tomaron como algo personal”. No está de acuerdo con la decisión: “Entonces deberían bloquear todas las canciones que tengan alguna palabrota. […] Hay gente que simplemente no puede entender ni apreciar el arte de verdad. Es como un perfume de nicho con notas complejas”."
+        },
+        {
+          "t": "p",
+          "x": "El tema de AI de DJ NARODNII, cuyo estribillo dice “You’re my scumbag, you’re my pig…”, se ha vuelto popular en TikTok e Instagram en los últimos meses. Su creador publicó originalmente la canción para burlarse de la música AI-generated, pero se convirtió en un éxito."
+        }
+      ]
+    },
+    "music/smebench": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La edición musical neuronal exige que un sistema realice el cambio solicitado y conserve el contenido musical que debe permanecer igual. Las evaluaciones existentes a menudo carecen de una edición objetivo emparejada. SMEBench es un benchmark a gran escala de ediciones musicales controladas, construido modificando interpretaciones MIDI simbólicas y renderizando audio de origen y de destino emparejado."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.36715v1/EditingPipeline_ICLR.png",
+          "cap": "Figura 1: Resumen del método de construcción de SMEBench. Se analiza un fragmento MIDI de 10 segundos, se aplica la intervención seleccionada y el origen y el destino se renderizan con la misma SoundFont."
+        },
+        {
+          "t": "p",
+          "x": "Cada ejemplo contiene un origen, una instrucción, un destino emparejado, metadatos de edición y descripciones complementarias. El benchmark abarca doce operaciones de instrumentación, articulación, dinámica y altura, e incluye un conjunto de prueba equilibrado de 3,600 ejemplos junto con un complemento más pequeño de audio real derivado de grabaciones multipista."
+        },
+        {
+          "t": "p",
+          "x": "Los autores evalúan seis sistemas de edición representativos —SDEdit, DDIM inversion, ZETA, VCI y SteerMusic sobre una base AudioLDM2, además de MusicGen— y muestran que la métrica usada para clasificar un sistema puede cambiar sustancialmente la conclusión."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.36715v1/quantitative.svg",
+          "cap": "Figura 4: Rendimiento de los sistemas en SMEBench y SME-Real con condicionamiento por descripción de la edición y por instrucción de edición."
+        },
+        {
+          "t": "p",
+          "x": "Limitaciones: la taxonomía no representa voces, efectos de producción ni transferencia de género, y ninguna métrica por sí sola capta la preservación, la ejecución de la edición y la calidad perceptiva."
+        }
+      ]
+    },
+    "music/logicpro": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/apple-creator-studio-update-adds-motionvfx-to-final-cut-and-ai-to-everywhere/intro-1793118031.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apple ha actualizado Apple Creator Studio, su paquete de software rival de Adobe, justo a tiempo para la llegada del nuevo iMac M6 y del MacBook Pro de 14 pulgadas. Una de las novedades más importantes son las herramientas de MotionVFX integradas en Final Cut Pro, tras la adquisición de MotionVFX por parte de Apple a principios de este año, además de flujos de trabajo más fluidos entre apps, como enviar imágenes de la línea de tiempo a Pixelmator Pro."
+        },
+        {
+          "t": "p",
+          "x": "La IA está presente en todas las apps de Apple, con herramientas de generación de imágenes a partir de texto y de edición añadidas tanto a Final Cut Pro como a Pixelmator Pro. En Logic Pro, Apple se ha aliado con OpenAI en un nuevo asistente que puede editar proyectos existentes, empezar canciones nuevas y generar pistas vocales a partir de instrucciones de texto. El mismo chatbot puede invocarse en Keynote, Pages y Numbers para tareas propias de cada app, como animar diapositivas u organizar datos."
+        },
+        {
+          "t": "p",
+          "x": "Logic Pro también incorpora la posibilidad de aislar o sustituir partes de batería con Stem Splitter. Para usar el nuevo asistente en beta de Logic Pro para Mac se necesita un Mac compatible con Apple Intelligence que ejecute macOS 27 Golden Gate o posterior."
+        },
+        {
+          "t": "p",
+          "x": "Las actualizaciones estarán disponibles gratis en noviembre para los suscriptores actuales. Apple Creator Studio cuesta $13 al mes o $129 al año; Logic Pro también puede comprarse por separado por $200."
+        }
+      ]
     }
   }
 }

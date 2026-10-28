@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "section": "games",
   "cards": [
     {
-      "id": "genie4",
+      "id": "valveslop",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "DeepMind 월드 모델\nGenie 4 실시간 세계",
-      "body": "Genie 4는 소리와 Gemini-powered 조종으로 실시간 세계를 빚는다.",
-      "mini_headline": "Genie 4, 실시간 세계 구현",
+      "headline": "Valve, Steam의\nAI 슬롭과 씨름 중",
+      "body": "Valve는 Steam AI 복제작에 인력을 쏟되 책임은 개발자 몫이라 했다.",
+      "mini_headline": "Valve, Steam AI 슬롭 대응",
       "tool": "Games",
-      "source": "Google DeepMind",
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/valve-steam-ai-clone-rip-offs-next-fest-slop-developers-demos-2000750496",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -19,221 +19,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w1200-h630-n-nu-rw"
+            "src": "https://kotaku.com/app/uploads/2026/10/next-fest-slop.jpg"
           },
           {
             "t": "p",
-            "x": "Google DeepMind가 새 월드 모델 Genie 4를 발표했다. 사실감을 전례 없는 수준으로 끌어올렸고 실시간 인터랙티브 시뮬레이션도 개선했다. Genie 4는 네이티브 멀티모달 모델이라 음악과 주변 소음, 인터랙티브 대화 같은 오디오를 세계와 함께 생성한다."
+            "x": "10월 27일 한국에서 열린 Steam Indie Connect에서 Valve의 Tom Giardino와 Marc Wilkinson이 Steam에 쏟아지는 AI 슬롭을 어떻게 다룰지 인디 개발자들에게 조언했다고 Inven Global이 보도했다. 게임의 AI 복제작을 멈추는 대가로 몸값을 요구하는 협박 메시지 이야기도 나왔다."
           },
           {
             "t": "p",
-            "x": "바탕은 Gemini 계열의 역량이다. Gemini Omni가 시뮬레이션을 실제 세계의 외형과 움직임에 맞추고, 일관성과 연속성을 지키는 데 필요한 복잡한 추론은 다른 Gemini 모델들이 맡는다."
-          },
-          {
-            "t": "video",
-            "yt": "sFfPkUJd_Jk"
+            "x": "핵심 메시지는 “출시는 결승선처럼 느껴지지만 사실은 출발선”이었다. Giardino는 갈취 사례는 들어 본 적이 없다며 수사기관이 다룰 문제라고 했다. 복제 게임은 genAI 이전에도 있었다는 게 그의 주장이다. 그는 “어떤 도구를 써야 하고 쓰지 말아야 하는지 개발자에게 정해 주는 문지기가 되고 싶지 않다”며 커뮤니티 구축과 “지속적인 개선”을 당부했다."
           },
           {
             "t": "p",
-            "x": "Genie 4에서는 자연어만으로 시뮬레이션을 실시간으로 고친다. 날씨를 바꾸고 카메라를 움직이고 새 인물이나 사물을 등장시키는 식이다. 세계의 물리를 깊이 이해하는 덕분에 공기역학이나 충돌 같은 상황도 시뮬레이션하며, 자연스럽게 움직이고 실시간으로 조종되는 캐릭터도 만든다."
+            "x": "Kotaku는 출시 전까지 보수를 거의 또는 전혀 받지 못하고 일해 온 인디 개발자에게 “지속적인 개선”은 사치라고 지적했다. 독특한 메커니즘 하나를 중심으로 만든 게임을 이 말이 외면한다고도 꼬집었다."
           },
           {
             "t": "p",
-            "x": "루프 안에서는 Gemini 3.8 Flash가 안내 에이전트를 맡아 장면을 관찰하고 목표를 단계로 나눈 뒤 단계마다 검증한다. Genie 4가 만드는 영상과 오디오에는 빠짐없이 SynthID 워터마크가 들어간다."
-          },
-          {
-            "t": "p",
-            "x": "Genie 4는 신뢰할 수 있는 테스터에게 리서치 프리뷰로 먼저 풀렸다. 곧 Project Genie의 Google AI Ultra 구독자와 Gemini API·Google AI Studio의 얼리 액세스 파트너도 쓸 수 있다."
+            "x": "지난주 Next Fest는 데모 수가 직전 행사의 두 배였고 AI 작품도 쏟아졌다. Wilkinson은 큐레이션이 시작되기 전 처음 며칠은 데모가 무작위로 노출되며, 불만을 다룬 기사 상당수가 그 첫 이틀을 근거로 했다고 설명했다. 그는 “상황을 충분히 알고 있으며, 상당수 인원이 이 문제를 어떻게 풀지 고민하고 있다”고 덧붙였다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "DeepMind's Genie 4 simulates\ninteractive worlds in real time",
-          "body": "Genie 4 adds real-time interactive world simulation with native audio, advanced physics, and Gemini-powered steering.",
-          "mini_headline": "Genie 4 simulates\nworlds in real time",
+          "headline": "Valve says it's working on\nSteam's AI slop problem",
+          "body": "Valve says a significant number of people work on Steam's AI clone problem, but puts the onus on ripped-off developers.",
+          "mini_headline": "Valve on Steam's\nAI slop problem",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w1200-h630-n-nu-rw"
+                "src": "https://kotaku.com/app/uploads/2026/10/next-fest-slop.jpg"
               },
               {
                 "t": "p",
-                "x": "Google DeepMind is announcing Genie 4, its new world model, which unlocks unprecedented realism and improves real-time interactive simulation. Genie 4 is natively multimodal, enabling audio-like music, ambient noises, and interactive dialogue to be simultaneously generated with the world."
+                "x": "At Steam Indie Connect in Korea on October 27, Valve's Tom Giardino and Marc Wilkinson gave indie developers advice on coping with the deluge of AI slop on Steam, including threatening messages demanding a ransom to stop AI clones of their games, as reported by Inven Global."
               },
               {
                 "t": "p",
-                "x": "The model builds on capabilities from the Gemini family: Gemini Omni anchors the simulations in real-world appearance and behavior, while other Gemini models provide the complex reasoning needed to maintain a simulation's coherence and continuity."
-              },
-              {
-                "t": "video",
-                "yt": "sFfPkUJd_Jk"
+                "x": "Their key message: \"Launch feels like the finish line, but it's actually the starting line.\" Giardino said he had not heard of the extortion examples and suggested it is a matter for law enforcement. He argued clone games existed before genAI and said \"we don't want to be gatekeepers telling developers which tools they should or shouldn't use,\" urging community building and \"continuous improvement.\""
               },
               {
                 "t": "p",
-                "x": "With Genie 4, users can use natural language to modify a simulation in real-time — like changing the weather, moving the camera, or introducing a new person or object. Built on an advanced physical understanding of the world, it simulates scenarios such as aerodynamics and collisions, and creates characters that move naturally and can be steered in real-time."
+                "x": "Kotaku notes \"continuous improvement\" is a luxury for indies who have worked for little or no money before release, and dismisses games built around a single, unique mechanic."
               },
               {
                 "t": "p",
-                "x": "Gemini 3.8 Flash serves as a guiding agent in the loop, observing the scene, breaking goals into steps and verifying each one. All video and audio generated by Genie 4 will include SynthID watermarking."
-              },
-              {
-                "t": "p",
-                "x": "Genie 4 has been released as a research preview to trusted testers, and is coming soon to Google AI Ultra subscribers in Project Genie and early access partners in the Gemini API and Google AI Studio."
+                "x": "On the AI flood during last week's Next Fest, which had twice the number of demos as the previous event, Wilkinson said demos are shown at random for the first couple of days before curation begins, and that many complaint articles were based on those first two days. He added: \"We are fully aware of the situation, and a significant number of people are thinking about how to solve this problem.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "DeepMind 월드 모델\nGenie 4 실시간 세계",
-          "body": "Genie 4는 소리와 Gemini-powered 조종으로 실시간 세계를 빚는다.",
-          "mini_headline": "Genie 4, 실시간 세계 구현",
+          "headline": "Valve, Steam의\nAI 슬롭과 씨름 중",
+          "body": "Valve는 Steam AI 복제작에 인력을 쏟되 책임은 개발자 몫이라 했다.",
+          "mini_headline": "Valve, Steam AI 슬롭 대응",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w1200-h630-n-nu-rw"
+                "src": "https://kotaku.com/app/uploads/2026/10/next-fest-slop.jpg"
               },
               {
                 "t": "p",
-                "x": "Google DeepMind가 새 월드 모델 Genie 4를 발표했다. 사실감을 전례 없는 수준으로 끌어올렸고 실시간 인터랙티브 시뮬레이션도 개선했다. Genie 4는 네이티브 멀티모달 모델이라 음악과 주변 소음, 인터랙티브 대화 같은 오디오를 세계와 함께 생성한다."
+                "x": "10월 27일 한국에서 열린 Steam Indie Connect에서 Valve의 Tom Giardino와 Marc Wilkinson이 Steam에 쏟아지는 AI 슬롭을 어떻게 다룰지 인디 개발자들에게 조언했다고 Inven Global이 보도했다. 게임의 AI 복제작을 멈추는 대가로 몸값을 요구하는 협박 메시지 이야기도 나왔다."
               },
               {
                 "t": "p",
-                "x": "바탕은 Gemini 계열의 역량이다. Gemini Omni가 시뮬레이션을 실제 세계의 외형과 움직임에 맞추고, 일관성과 연속성을 지키는 데 필요한 복잡한 추론은 다른 Gemini 모델들이 맡는다."
-              },
-              {
-                "t": "video",
-                "yt": "sFfPkUJd_Jk"
+                "x": "핵심 메시지는 “출시는 결승선처럼 느껴지지만 사실은 출발선”이었다. Giardino는 갈취 사례는 들어 본 적이 없다며 수사기관이 다룰 문제라고 했다. 복제 게임은 genAI 이전에도 있었다는 게 그의 주장이다. 그는 “어떤 도구를 써야 하고 쓰지 말아야 하는지 개발자에게 정해 주는 문지기가 되고 싶지 않다”며 커뮤니티 구축과 “지속적인 개선”을 당부했다."
               },
               {
                 "t": "p",
-                "x": "Genie 4에서는 자연어만으로 시뮬레이션을 실시간으로 고친다. 날씨를 바꾸고 카메라를 움직이고 새 인물이나 사물을 등장시키는 식이다. 세계의 물리를 깊이 이해하는 덕분에 공기역학이나 충돌 같은 상황도 시뮬레이션하며, 자연스럽게 움직이고 실시간으로 조종되는 캐릭터도 만든다."
+                "x": "Kotaku는 출시 전까지 보수를 거의 또는 전혀 받지 못하고 일해 온 인디 개발자에게 “지속적인 개선”은 사치라고 지적했다. 독특한 메커니즘 하나를 중심으로 만든 게임을 이 말이 외면한다고도 꼬집었다."
               },
               {
                 "t": "p",
-                "x": "루프 안에서는 Gemini 3.8 Flash가 안내 에이전트를 맡아 장면을 관찰하고 목표를 단계로 나눈 뒤 단계마다 검증한다. Genie 4가 만드는 영상과 오디오에는 빠짐없이 SynthID 워터마크가 들어간다."
-              },
-              {
-                "t": "p",
-                "x": "Genie 4는 신뢰할 수 있는 테스터에게 리서치 프리뷰로 먼저 풀렸다. 곧 Project Genie의 Google AI Ultra 구독자와 Gemini API·Google AI Studio의 얼리 액세스 파트너도 쓸 수 있다."
+                "x": "지난주 Next Fest는 데모 수가 직전 행사의 두 배였고 AI 작품도 쏟아졌다. Wilkinson은 큐레이션이 시작되기 전 처음 며칠은 데모가 무작위로 노출되며, 불만을 다룬 기사 상당수가 그 첫 이틀을 근거로 했다고 설명했다. 그는 “상황을 충분히 알고 있으며, 상당수 인원이 이 문제를 어떻게 풀지 고민하고 있다”고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "DeepMindの世界モデル\nGenie 4は実時間で動く",
-          "body": "Genie 4は音声と物理演算、Gemini-poweredの操作で実時間の世界を描く。",
-          "mini_headline": "Genie 4、実時間で世界を模擬",
+          "headline": "Valve、Steamの\nAIスロップ対策中",
+          "body": "Valveは多数がSteamのAI模倣作問題に取り組むとしつつ、責任は開発者に委ねた。",
+          "mini_headline": "Valve、SteamのAIスロップ問題",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w1200-h630-n-nu-rw"
+                "src": "https://kotaku.com/app/uploads/2026/10/next-fest-slop.jpg"
               },
               {
                 "t": "p",
-                "x": "Google DeepMindは新たな世界モデルGenie 4を発表した。かつてないリアリズムを実現し、リアルタイムのインタラクティブなシミュレーションを向上させるモデルだ。Genie 4はネイティブにマルチモーダルで、音楽や環境音、インタラクティブな対話といった音声を世界と同時に生成できる。"
+                "x": "10月27日に韓国で開かれたSteam Indie Connectで、ValveのTom GiardinoとMarc Wilkinsonは、Steamにあふれる AIスロップへの対処法をインディー開発者に助言した。その中には、自作ゲームのAIクローンを止める見返りに身代金を要求する脅迫メッセージも含まれていたと、Inven Globalが報じた。"
               },
               {
                 "t": "p",
-                "x": "このモデルはGeminiファミリーの能力を基盤とする。Gemini Omniがシミュレーションを現実世界の見た目と振る舞いに結びつけ、他のGeminiモデルがシミュレーションの一貫性と連続性を保つのに必要な複雑な推論を担う。"
-              },
-              {
-                "t": "video",
-                "yt": "sFfPkUJd_Jk"
+                "x": "核となるメッセージは「ローンチはゴールラインのように感じられるが、実はスタートラインだ」というものだった。Giardinoは恐喝の事例を聞いたことがないとし、法執行機関が扱うべき問題だと示唆した。彼はクローンゲームはgenAI以前から存在したと主張し、「開発者にどのツールを使うべきか、使うべきでないかを指図する門番にはなりたくない」と述べ、コミュニティづくりと「継続的な改善」を促した。"
               },
               {
                 "t": "p",
-                "x": "Genie 4では、天候を変える、カメラを動かす、新たな人物や物体を登場させるといった形で、自然言語を使ってシミュレーションをリアルタイムに変更できる。世界に対する高度な物理的理解に基づき、空気力学や衝突などのシナリオをシミュレートし、自然に動いてリアルタイムに操作できるキャラクターを生み出す。"
+                "x": "Kotakuは、「継続的な改善」はリリース前にほとんど、あるいはまったく報酬なしで働いてきたインディー開発者にとっては贅沢であり、単一のユニークなメカニクスを軸にしたゲームを切り捨てるものだと指摘する。"
               },
               {
                 "t": "p",
-                "x": "Gemini 3.8 Flashはループ内の誘導エージェントとして機能し、シーンを観察し、目標をステップに分解して一つずつ検証する。Genie 4が生成するすべての映像と音声にはSynthIDの透かしが入る。"
-              },
-              {
-                "t": "p",
-                "x": "Genie 4は信頼できるテスター向けにリサーチプレビューとして公開されており、まもなくProject GenieのGoogle AI Ultra加入者と、Gemini APIおよびGoogle AI Studioのアーリーアクセスパートナーに提供される。"
+                "x": "前回の2倍のデモが並んだ先週のNext FestでのAI作品の氾濫について、Wilkinsonは、キュレーションが始まる前の最初の数日間はデモがランダムに表示され、苦情記事の多くはその最初の2日間に基づいていたと説明した。さらに「状況は十分に把握しており、相当数の人員がこの問題の解決方法を考えている」と付け加えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "DeepMind新世界模型\nGenie 4实时模拟世界",
-          "body": "Genie 4具备原生音频、先进物理和Gemini-powered操控，实时模拟交互世界。",
-          "mini_headline": "Genie 4实时模拟世界",
+          "headline": "Valve称正在处理\nSteam AI垃圾问题",
+          "body": "Valve称大量人员正处理Steam的AI克隆问题，却把责任推给被抄袭的开发者。",
+          "mini_headline": "Valve谈Steam AI垃圾问题",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w1200-h630-n-nu-rw"
+                "src": "https://kotaku.com/app/uploads/2026/10/next-fest-slop.jpg"
               },
               {
                 "t": "p",
-                "x": "Google DeepMind发布新世界模型Genie 4，带来前所未有的真实感，并改进了实时交互式模拟。Genie 4原生支持多模态，可与世界同步生成音乐、环境音和交互式对话等音频。"
+                "x": "据Inven Global报道，10月27日在韩国举行的Steam Indie Connect上，Valve的Tom Giardino和Marc Wilkinson就如何应对Steam上泛滥的AI垃圾内容向独立开发者提出建议，其中包括有人发来威胁信息，索要赎金才肯停止制作其游戏的AI克隆版。"
               },
               {
                 "t": "p",
-                "x": "该模型建立在Gemini系列的能力之上：Gemini Omni让模拟贴合真实世界的外观与行为，其他Gemini模型则提供维持模拟连贯性与连续性所需的复杂推理。"
-              },
-              {
-                "t": "video",
-                "yt": "sFfPkUJd_Jk"
+                "x": "他们的核心信息是：“发售感觉像终点线，但其实是起跑线。”Giardino表示自己没有听说过这些勒索案例，并暗示这属于执法机关的事。他认为克隆游戏在genAI出现之前就已存在，并说“我们不想当把关人，告诉开发者该用或不该用哪些工具”，呼吁开发者建设社区并“持续改进”。"
               },
               {
                 "t": "p",
-                "x": "借助Genie 4，用户可以用自然语言实时修改模拟，比如改变天气、移动镜头，或引入新的人物或物体。它基于对世界的高级物理理解，可模拟空气动力学和碰撞等场景，并生成动作自然、可实时操控的角色。"
+                "x": "Kotaku指出，对于在发售前几乎或完全没有收入的独立开发者来说，“持续改进”是一种奢侈，而且这种说法忽视了围绕单一独特机制打造的游戏。"
               },
               {
                 "t": "p",
-                "x": "Gemini 3.8 Flash在循环中充当引导智能体，观察场景、将目标拆解为步骤并逐一验证。Genie 4生成的所有视频和音频都将带有SynthID水印。"
-              },
-              {
-                "t": "p",
-                "x": "Genie 4已作为研究预览版向受信任的测试者开放，即将面向Project Genie中的Google AI Ultra订阅用户，以及Gemini API和Google AI Studio的早期访问合作伙伴推出。"
+                "x": "上周的Next Fest演示数量是上一届的两倍，AI作品随之泛滥。对此，Wilkinson表示，在策展开始前的头几天，演示是随机展示的，许多抱怨文章依据的正是最初那两天。他补充说：“我们完全了解情况，相当多的人正在思考如何解决这个问题。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "DeepMind: Genie 4 simula mundos\ninteractivos en tiempo real",
-          "body": "Genie 4 añade simulación interactiva de mundos en tiempo real, audio nativo, física avanzada y control Gemini-powered.",
-          "mini_headline": "Genie 4 simula mundos en tiempo real",
+          "headline": "Valve dice que trabaja en el\nproblema del AI slop en Steam",
+          "body": "Valve dice que muchas personas abordan los clones AI de Steam, pero deja la carga en los desarrolladores copiados.",
+          "mini_headline": "Valve y el AI slop de Steam",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w1200-h630-n-nu-rw"
+                "src": "https://kotaku.com/app/uploads/2026/10/next-fest-slop.jpg"
               },
               {
                 "t": "p",
-                "x": "Google DeepMind anuncia Genie 4, su nuevo modelo de mundo, que ofrece un realismo sin precedentes y mejora la simulación interactiva en tiempo real. Genie 4 es multimodal de forma nativa, lo que permite generar audio —como música, ruido ambiental y diálogo interactivo— de manera simultánea con el mundo."
+                "x": "En Steam Indie Connect, celebrado en Corea el 27 de octubre, Tom Giardino y Marc Wilkinson, de Valve, aconsejaron a desarrolladores independientes sobre cómo afrontar la avalancha de AI slop en Steam, incluidos mensajes amenazantes que exigen un rescate para detener clones AI de sus juegos, según informó Inven Global."
               },
               {
                 "t": "p",
-                "x": "El modelo se basa en capacidades de la familia Gemini: Gemini Omni ancla las simulaciones en la apariencia y el comportamiento del mundo real, mientras que otros modelos Gemini aportan el razonamiento complejo necesario para mantener la coherencia y la continuidad de la simulación."
-              },
-              {
-                "t": "video",
-                "yt": "sFfPkUJd_Jk"
+                "x": "Su mensaje principal: “El lanzamiento parece la línea de meta, pero en realidad es la línea de salida”. Giardino dijo que no había oído hablar de los casos de extorsión y sugirió que es un asunto para las fuerzas del orden. Sostuvo que los juegos clon existían antes de la genAI y afirmó que “no queremos ser guardianes que les digan a los desarrolladores qué herramientas deben o no deben usar”, e instó a construir comunidad y a la “mejora continua”."
               },
               {
                 "t": "p",
-                "x": "Con Genie 4, los usuarios pueden usar lenguaje natural para modificar una simulación en tiempo real, por ejemplo cambiando el clima, moviendo la cámara o introduciendo una nueva persona u objeto. Gracias a una comprensión física avanzada del mundo, simula escenarios como la aerodinámica y las colisiones, y crea personajes que se mueven con naturalidad y pueden dirigirse en tiempo real."
+                "x": "Kotaku señala que la “mejora continua” es un lujo para los desarrolladores independientes que han trabajado por poco o ningún dinero antes del lanzamiento, y que esa idea desestima los juegos construidos en torno a una única mecánica original."
               },
               {
                 "t": "p",
-                "x": "Gemini 3.8 Flash actúa como agente guía dentro del ciclo: observa la escena, divide los objetivos en pasos y verifica cada uno. Todo el video y el audio generados por Genie 4 incluirán la marca de agua SynthID."
-              },
-              {
-                "t": "p",
-                "x": "Genie 4 se ha lanzado como versión preliminar de investigación para probadores de confianza y pronto llegará a los suscriptores de Google AI Ultra en Project Genie y a los socios de acceso anticipado en la Gemini API y Google AI Studio."
+                "x": "Sobre la avalancha de AI durante el Next Fest de la semana pasada, que tuvo el doble de demos que la edición anterior, Wilkinson dijo que las demos se muestran al azar durante los primeros días antes de que empiece la curación, y que muchos artículos de queja se basaron en esos dos primeros días. Añadió: “Somos plenamente conscientes de la situación, y un número significativo de personas está pensando en cómo resolver este problema”."
               }
             ]
           }
@@ -241,153 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "DeepMind 월드 모델\nGenie 4 실시간 세계",
-          "body": "Genie 4는 음향과 Gemini-powered 조종으로 실시간 세계를 만든다.",
-          "mini_headline": "Genie 4, 실시간 세계 구현",
+          "headline": "Valve, Steam의\nAI 슬롭 해결 중",
+          "body": "Valve는 Steam AI 복제작에 인력을 쏟으며 책임은 개발자에게 돌렸다.",
+          "mini_headline": "Valve, Steam AI 슬롭 대응",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w1200-h630-n-nu-rw"
+                "src": "https://kotaku.com/app/uploads/2026/10/next-fest-slop.jpg"
               },
               {
                 "t": "p",
-                "x": "Google DeepMind가 새 월드 모델 Genie 4를 발표했다. 전례 없는 사실감을 구현하고 실시간 인터랙티브 시뮬레이션을 개선한 모델이다. Genie 4는 네이티브 멀티모달 모델로, 음악과 주변 소음, 인터랙티브 대화 같은 오디오를 세계와 동시에 생성한다."
+                "x": "10월 27일 한국에서 열린 Steam Indie Connect에서 Valve의 Tom Giardino와 Marc Wilkinson은 Steam에 쏟아지는 AI 슬롭에 대처하는 방법을 인디 개발자들에게 조언했다. 여기에는 게임의 AI 복제작을 멈추는 대가로 몸값을 요구하는 협박 메시지도 포함됐다고 Inven Global이 보도했다."
               },
               {
                 "t": "p",
-                "x": "이 모델은 Gemini 계열의 역량을 바탕으로 한다. Gemini Omni는 시뮬레이션을 실제 세계의 외형과 움직임에 맞추고, 다른 Gemini 모델들은 시뮬레이션의 일관성과 연속성을 유지하는 데 필요한 복잡한 추론을 맡는다."
-              },
-              {
-                "t": "video",
-                "yt": "sFfPkUJd_Jk"
+                "x": "핵심 메시지는 “출시는 결승선처럼 느껴지지만 사실은 출발선”이라는 것이었다. Giardino는 갈취 사례를 들어 본 적이 없다며 수사기관이 다룰 문제라고 했다. 그는 복제 게임이 genAI 이전에도 있었다고 주장하며 “어떤 도구를 써야 하고 쓰지 말아야 하는지 개발자에게 정해 주는 문지기가 되고 싶지 않다”고 말했고, 커뮤니티 구축과 “지속적인 개선”을 당부했다."
               },
               {
                 "t": "p",
-                "x": "Genie 4에서는 날씨를 바꾸거나 카메라를 움직이거나 새로운 인물이나 사물을 등장시키는 식으로, 자연어로 시뮬레이션을 실시간 수정할 수 있다. 세계에 대한 고도의 물리적 이해를 바탕으로 공기역학이나 충돌 같은 상황을 시뮬레이션하고, 자연스럽게 움직이며 실시간으로 조종할 수 있는 캐릭터를 만든다."
+                "x": "Kotaku는 “지속적인 개선”이 출시 전까지 거의 또는 전혀 보수 없이 일해 온 인디 개발자에게는 사치라고 지적하며, 이 말이 하나의 독특한 메커니즘을 중심으로 만든 게임을 외면한다고 꼬집었다."
               },
               {
                 "t": "p",
-                "x": "Gemini 3.8 Flash는 루프 안에서 안내 에이전트 역할을 맡아 장면을 관찰하고, 목표를 단계로 나누고, 각 단계를 검증한다. Genie 4가 생성하는 모든 영상과 오디오에는 SynthID 워터마크가 들어간다."
-              },
-              {
-                "t": "p",
-                "x": "Genie 4는 신뢰할 수 있는 테스터에게 리서치 프리뷰로 공개됐으며, 곧 Project Genie의 Google AI Ultra 구독자와 Gemini API 및 Google AI Studio의 얼리 액세스 파트너에게 제공된다."
+                "x": "지난주 Next Fest는 데모 수가 직전 행사의 두 배에 달했고 AI 작품이 쏟아졌다. 이에 대해 Wilkinson은 큐레이션이 시작되기 전 처음 며칠 동안은 데모가 무작위로 노출되며, 불만을 다룬 기사 상당수가 그 첫 이틀을 근거로 했다고 설명했다. 그는 “상황을 충분히 알고 있으며, 상당수 인원이 이 문제를 어떻게 풀지 고민하고 있다”고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "DeepMindの世界モデル\nGenie 4は実時間で動く",
-          "body": "Genie 4は音声と物理演算、Gemini-poweredの操作で実時間の世界を描く。",
-          "mini_headline": "Genie 4、実時間で世界を模擬",
+          "headline": "Valve、Steamの\nAIスロップ対策中",
+          "body": "Valveは多数がSteamのAI模倣作問題に取り組むとしつつ、責任は開発者に委ねた。",
+          "mini_headline": "Valve、SteamのAIスロップ問題",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w1200-h630-n-nu-rw"
+                "src": "https://kotaku.com/app/uploads/2026/10/next-fest-slop.jpg"
               },
               {
                 "t": "p",
-                "x": "Google DeepMindは新たな世界モデルGenie 4を発表した。かつてないリアリズムを実現し、リアルタイムのインタラクティブなシミュレーションを向上させるモデルだ。Genie 4はネイティブにマルチモーダルで、音楽や環境音、インタラクティブな対話といった音声を世界と同時に生成できる。"
+                "x": "10月27日に韓国で開かれたSteam Indie Connectで、ValveのTom GiardinoとMarc Wilkinsonは、Steamにあふれる AIスロップへの対処法をインディー開発者に助言した。その中には、自作ゲームのAIクローンを止める見返りに身代金を要求する脅迫メッセージも含まれていたと、Inven Globalが報じた。"
               },
               {
                 "t": "p",
-                "x": "このモデルはGeminiファミリーの能力を基盤とする。Gemini Omniがシミュレーションを現実世界の見た目と振る舞いに結びつけ、他のGeminiモデルがシミュレーションの一貫性と連続性を保つのに必要な複雑な推論を担う。"
-              },
-              {
-                "t": "video",
-                "yt": "sFfPkUJd_Jk"
+                "x": "核となるメッセージは「ローンチはゴールラインのように感じられるが、実はスタートラインだ」というものだった。Giardinoは恐喝の事例を聞いたことがないとし、法執行機関が扱うべき問題だと示唆した。彼はクローンゲームはgenAI以前から存在したと主張し、「開発者にどのツールを使うべきか、使うべきでないかを指図する門番にはなりたくない」と述べ、コミュニティづくりと「継続的な改善」を促した。"
               },
               {
                 "t": "p",
-                "x": "Genie 4では、天候を変える、カメラを動かす、新たな人物や物体を登場させるといった形で、自然言語を使ってシミュレーションをリアルタイムに変更できる。世界に対する高度な物理的理解に基づき、空気力学や衝突などのシナリオをシミュレートし、自然に動いてリアルタイムに操作できるキャラクターを生み出す。"
+                "x": "Kotakuは、「継続的な改善」はリリース前にほとんど、あるいはまったく報酬なしで働いてきたインディー開発者にとっては贅沢であり、単一のユニークなメカニクスを軸にしたゲームを切り捨てるものだと指摘する。"
               },
               {
                 "t": "p",
-                "x": "Gemini 3.8 Flashはループ内の誘導エージェントとして機能し、シーンを観察し、目標をステップに分解して一つずつ検証する。Genie 4が生成するすべての映像と音声にはSynthIDの透かしが入る。"
-              },
-              {
-                "t": "p",
-                "x": "Genie 4は信頼できるテスター向けにリサーチプレビューとして公開されており、まもなくProject GenieのGoogle AI Ultra加入者と、Gemini APIおよびGoogle AI Studioのアーリーアクセスパートナーに提供される。"
+                "x": "前回の2倍のデモが並んだ先週のNext FestでのAI作品の氾濫について、Wilkinsonは、キュレーションが始まる前の最初の数日間はデモがランダムに表示され、苦情記事の多くはその最初の2日間に基づいていたと説明した。さらに「状況は十分に把握しており、相当数の人員がこの問題の解決方法を考えている」と付け加えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "DeepMind新世界模型\nGenie 4实时模拟世界",
-          "body": "Genie 4具备原生音频、先进物理和Gemini-powered操控，实时模拟交互世界。",
-          "mini_headline": "Genie 4实时模拟世界",
+          "headline": "Valve称正在处理\nSteam AI垃圾问题",
+          "body": "Valve称大量人员正处理Steam的AI克隆问题，却把责任推给被抄袭的开发者。",
+          "mini_headline": "Valve谈Steam AI垃圾问题",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w1200-h630-n-nu-rw"
+                "src": "https://kotaku.com/app/uploads/2026/10/next-fest-slop.jpg"
               },
               {
                 "t": "p",
-                "x": "Google DeepMind发布新世界模型Genie 4，带来前所未有的真实感，并改进了实时交互式模拟。Genie 4原生支持多模态，可与世界同步生成音乐、环境音和交互式对话等音频。"
+                "x": "据Inven Global报道，10月27日在韩国举行的Steam Indie Connect上，Valve的Tom Giardino和Marc Wilkinson就如何应对Steam上泛滥的AI垃圾内容向独立开发者提出建议，其中包括有人发来威胁信息，索要赎金才肯停止制作其游戏的AI克隆版。"
               },
               {
                 "t": "p",
-                "x": "该模型建立在Gemini系列的能力之上：Gemini Omni让模拟贴合真实世界的外观与行为，其他Gemini模型则提供维持模拟连贯性与连续性所需的复杂推理。"
-              },
-              {
-                "t": "video",
-                "yt": "sFfPkUJd_Jk"
+                "x": "他们的核心信息是：“发售感觉像终点线，但其实是起跑线。”Giardino表示自己没有听说过这些勒索案例，并暗示这属于执法机关的事。他认为克隆游戏在genAI出现之前就已存在，并说“我们不想当把关人，告诉开发者该用或不该用哪些工具”，呼吁开发者建设社区并“持续改进”。"
               },
               {
                 "t": "p",
-                "x": "借助Genie 4，用户可以用自然语言实时修改模拟，比如改变天气、移动镜头，或引入新的人物或物体。它基于对世界的高级物理理解，可模拟空气动力学和碰撞等场景，并生成动作自然、可实时操控的角色。"
+                "x": "Kotaku指出，对于在发售前几乎或完全没有收入的独立开发者来说，“持续改进”是一种奢侈，而且这种说法忽视了围绕单一独特机制打造的游戏。"
               },
               {
                 "t": "p",
-                "x": "Gemini 3.8 Flash在循环中充当引导智能体，观察场景、将目标拆解为步骤并逐一验证。Genie 4生成的所有视频和音频都将带有SynthID水印。"
-              },
-              {
-                "t": "p",
-                "x": "Genie 4已作为研究预览版向受信任的测试者开放，即将面向Project Genie中的Google AI Ultra订阅用户，以及Gemini API和Google AI Studio的早期访问合作伙伴推出。"
+                "x": "上周的Next Fest演示数量是上一届的两倍，AI作品随之泛滥。对此，Wilkinson表示，在策展开始前的头几天，演示是随机展示的，许多抱怨文章依据的正是最初那两天。他补充说：“我们完全了解情况，相当多的人正在思考如何解决这个问题。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "DeepMind: Genie 4 simula mundos\ninteractivos en tiempo real",
-          "body": "Genie 4 añade simulación interactiva de mundos en tiempo real, audio nativo, física avanzada y control Gemini-powered.",
-          "mini_headline": "Genie 4 simula mundos en tiempo real",
+          "headline": "Valve dice que trabaja en el\nproblema del AI slop en Steam",
+          "body": "Valve dice que muchas personas abordan los clones AI de Steam, pero deja la carga en los desarrolladores copiados.",
+          "mini_headline": "Valve y el AI slop de Steam",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w1200-h630-n-nu-rw"
+                "src": "https://kotaku.com/app/uploads/2026/10/next-fest-slop.jpg"
               },
               {
                 "t": "p",
-                "x": "Google DeepMind anuncia Genie 4, su nuevo modelo de mundo, que ofrece un realismo sin precedentes y mejora la simulación interactiva en tiempo real. Genie 4 es multimodal de forma nativa, lo que permite generar audio —como música, ruido ambiental y diálogo interactivo— de manera simultánea con el mundo."
+                "x": "En Steam Indie Connect, celebrado en Corea el 27 de octubre, Tom Giardino y Marc Wilkinson, de Valve, aconsejaron a desarrolladores independientes sobre cómo afrontar la avalancha de AI slop en Steam, incluidos mensajes amenazantes que exigen un rescate para detener clones AI de sus juegos, según informó Inven Global."
               },
               {
                 "t": "p",
-                "x": "El modelo se basa en capacidades de la familia Gemini: Gemini Omni ancla las simulaciones en la apariencia y el comportamiento del mundo real, mientras que otros modelos Gemini aportan el razonamiento complejo necesario para mantener la coherencia y la continuidad de la simulación."
-              },
-              {
-                "t": "video",
-                "yt": "sFfPkUJd_Jk"
+                "x": "Su mensaje principal: “El lanzamiento parece la línea de meta, pero en realidad es la línea de salida”. Giardino dijo que no había oído hablar de los casos de extorsión y sugirió que es un asunto para las fuerzas del orden. Sostuvo que los juegos clon existían antes de la genAI y afirmó que “no queremos ser guardianes que les digan a los desarrolladores qué herramientas deben o no deben usar”, e instó a construir comunidad y a la “mejora continua”."
               },
               {
                 "t": "p",
-                "x": "Con Genie 4, los usuarios pueden usar lenguaje natural para modificar una simulación en tiempo real, por ejemplo cambiando el clima, moviendo la cámara o introduciendo una nueva persona u objeto. Gracias a una comprensión física avanzada del mundo, simula escenarios como la aerodinámica y las colisiones, y crea personajes que se mueven con naturalidad y pueden dirigirse en tiempo real."
+                "x": "Kotaku señala que la “mejora continua” es un lujo para los desarrolladores independientes que han trabajado por poco o ningún dinero antes del lanzamiento, y que esa idea desestima los juegos construidos en torno a una única mecánica original."
               },
               {
                 "t": "p",
-                "x": "Gemini 3.8 Flash actúa como agente guía dentro del ciclo: observa la escena, divide los objetivos en pasos y verifica cada uno. Todo el video y el audio generados por Genie 4 incluirán la marca de agua SynthID."
-              },
-              {
-                "t": "p",
-                "x": "Genie 4 se ha lanzado como versión preliminar de investigación para probadores de confianza y pronto llegará a los suscriptores de Google AI Ultra en Project Genie y a los socios de acceso anticipado en la Gemini API y Google AI Studio."
+                "x": "Sobre la avalancha de AI durante el Next Fest de la semana pasada, que tuvo el doble de demos que la edición anterior, Wilkinson dijo que las demos se muestran al azar durante los primeros días antes de que empiece la curación, y que muchos artículos de queja se basaron en esos dos primeros días. Añadió: “Somos plenamente conscientes de la situación, y un número significativo de personas está pensando en cómo resolver este problema”."
               }
             ]
           }
@@ -395,15 +315,15 @@
       }
     },
     {
-      "id": "epiceula",
+      "id": "epicaicode",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Epic EULA, AI\n학습에 Unreal 개방",
-      "body": "Sweeney는 Unreal 산출물의 AI 학습을 EULA로 풀어 주겠다고 했다.",
-      "mini_headline": "Epic EULA, Unreal AI 학습 허용",
+      "headline": "Epic, UE6 코드\n대부분 AI가 쓴다",
+      "body": "Epic은 UE6·Fortnite 코드 대부분을 AI-assisted로 짠다.",
+      "mini_headline": "Epic, UE6 코드 대부분 AI가 작성",
       "tool": "Games",
-      "source": "Game Developer",
-      "url": "https://www.gamedeveloper.com/programming/epic-is-updating-the-eula-to-allow-ai-training-on-outputs-from-unreal-engine-and-metahuman",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/epic-genai-fortnite-unreal-engine-6-no-longer-writing-code",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
@@ -411,173 +331,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf023070cdf9c6ebf/682da8904feafa6cf12bbc97/Fortnite_Header.png?width=1280&auto=webp&quality=80&disable=upscale"
+            "src": "https://assetsio.gnwcdn.com/fortnite-save-the-world.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "cap": "Fortnite: Save the World 키 아트. 이미지 제공: Epic Games"
           },
           {
             "t": "p",
-            "x": "Epic CEO Tim Sweeney가 X에 올린 글을 보면, Epic은 Unreal Engine과 MetaHuman 산출물의 AI 학습 제한을 없애는 중이고 EULA도 곧 바뀐다."
+            "x": "Epic Games가 Fortnite부터 Unreal Engine 6까지 모든 곳에 gen-AI를 쓰겠다고 확인했다. 개발 담당 수석부사장 Marcus Wassmer는 This Week In Video Games와의 인터뷰에서 “Unreal Engine의 코드와 기능 개발에 확실히 AI를 쓰고 있다”며 “지금 진행 중인 개발은 거의 전부 Fortnite, UEFN[Unreal Editor for Fortnite], UE6에 연결된 개발 스트림에서 이뤄지고 있다”고 말했다."
           },
           {
             "t": "p",
-            "x": "지난 26일 Kotaku는 Microsoft와 Epic 같은 기업이 AI에 사활을 걸면서도 사용자가 만든 AI-coded 자사 게임 재현작은 내리게 한다며 잠재적 위선을 짚었다. Sweeney는 여기에 긴 답글을 달다가 EULA 업데이트 계획을 지나가듯 꺼냈다."
+            "x": "vibe-coding에 관한 질문에 Wassmer는 이렇게 답했다. “그렇다, 우리는 vibe-coding을 하고 있다. 엔지니어가 더는 코드 대부분을 직접 쓰지 않지만, 원하는 아키텍처 결과를 얻도록 여전히 도구를 이끌고 있다는 뜻이다. 엔진을 'one-shotting'하는 것이 아니다. 개발자가 원하는 기능을 내놓고 엔진을 메모리·성능·확장성 한계 안에 유지하도록 AI와 함께 반복 작업을 하고 있다.” 그는 이 도구들이 업데이트를 더 빠르게, 버그는 더 적게 내놓는 데 도움이 될 것이라고 주장했다."
           },
           {
             "t": "p",
-            "x": "\"Epic은 Unreal Engine과 MetaHuman 산출물의 AI 학습을 제한하는가?\" Sweeney는 이렇게 쓴 뒤 말을 이었다. \"현재는 그렇다. 하지만 EULA 조항에서 이 제한을 없애려 하고 있다. 다만 이 도구들을 쓰는 각 게임은 개발자가 고른 조건으로 출시되며, 그 조건은 AI 학습을 허용할 수도 제한할 수도 있다.\""
+            "x": "그는 Epic이 “AI 회의론보다 너무 느리게 움직이는 위험을 더 걱정한다”고 말했다. “개발에서 AI에 어중간하게 접근하는 것은 현실적이지 않다고 본다.”"
           },
           {
             "t": "p",
-            "x": "AI 학습에 엔진을 일절 쓰지 못하게 하던 Unreal Engine으로서는 뚜렷한 변화다. Epic은 스스로 \"AI-first\"라 부르는 모델로 옮겨 가는 중이다. Sweeney는 Valve가 Steam에서 요구하는 AI 사용 공개 의무를 비판한 적도 있다. Game Developer는 Epic에 추가 정보를 요청했다."
+            "x": "Epic은 이달 초 최신 Epic Games Launcher를 vibe-coded 방식으로 만들었다고 밝혔고, CEO Tim Sweeney는 개발자에게 Steam 페이지에 gen-AI 사용 여부를 공개하도록 요구하는 Valve의 정책을 비판했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Epic's EULA will allow AI\ntraining on Unreal output",
-          "body": "Tim Sweeney says Epic's engine EULA will permit training AI on output made with Unreal Engine and MetaHuman.",
-          "mini_headline": "Epic EULA opens\nUnreal to AI training",
+          "headline": "Epic: AI now writes most code\nfor Unreal Engine 6 and Fortnite",
+          "body": "Epic confirms AI-assisted vibe-coding covers Unreal Engine 6 and Fortnite, and its engineers no longer write most code.",
+          "mini_headline": "Epic: AI writes\nmost UE6 code",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf023070cdf9c6ebf/682da8904feafa6cf12bbc97/Fortnite_Header.png?width=1280&auto=webp&quality=80&disable=upscale"
+                "src": "https://assetsio.gnwcdn.com/fortnite-save-the-world.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Fortnite: Save the World key art. Image credit: Epic Games"
               },
               {
                 "t": "p",
-                "x": "Epic's EULA will be changing in the future as the company works to remove restrictions on training AI off the outputs from Unreal Engine and MetaHuman, according to a post on X from Epic CEO Tim Sweeney."
+                "x": "Epic Games has confirmed it will use gen-AI on everything from Fortnite to Unreal Engine 6. Speaking to This Week In Video Games, executive vice president of development Marcus Wassmer said \"we are definitely using AI to develop code and features for Unreal Engine.\" \"Almost all development happening right now is being done in the dev streams attached to Fortnite, UEFN [Unreal Editor for Fortnite], and UE6.\""
               },
               {
                 "t": "p",
-                "x": "On October 26, Kotaku published a piece calling out the potential hypocrisy of companies like Microsoft and Epic going all-in on AI while shutting down user-made AI-coded recreations of their games. Sweeney responded with a long post in which he casually dropped news about the planned EULA update."
+                "x": "Asked about vibe-coding, Wassmer said: \"Yes, we are vibe-coding things. That means our engineers are no longer writing the bulk of the code, but they are still guiding the tools to get the architectural result we want. We're not 'one-shotting' the engine; we're iterating with AI to ship features developers want and keep the engine within the memory, performance, and scalability envelopes.\" He claimed the tools would help push out updates faster and with fewer bugs."
               },
               {
                 "t": "p",
-                "x": "\"Does Epic restrict AI training on outputs of Unreal Engine and MetaHuman?\" Sweeney writes. \"Yes currently but we are working to remove this restriction from EULA terms, though each game using these tools is released under terms of the developers' choosing which can allow or restrict AI training.\""
+                "x": "Epic is \"more concerned about the risks of moving too slowly than we are about AI skepticism,\" he said. \"We don't think it's viable to take a halfway approach to AI in development.\""
               },
               {
                 "t": "p",
-                "x": "This is a marked change for Unreal Engine, which had previously not allowed any use of the engine for AI to train itself, as Epic shifts to what it calls an \"AI-first\" model. Sweeney has also criticized Valve's AI disclosure requirement on Steam. Game Developer has reached out to Epic for more information."
+                "x": "Earlier this month Epic said it vibe-coded the latest Epic Games Launcher, and CEO Tim Sweeney criticised Valve's policy asking developers to disclose gen-AI use on Steam pages."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Epic EULA, AI\n학습에 Unreal 개방",
-          "body": "Sweeney는 Unreal 산출물의 AI 학습을 EULA로 풀어 주겠다고 했다.",
-          "mini_headline": "Epic EULA, Unreal AI 학습 허용",
+          "headline": "Epic, UE6 코드\n대부분 AI가 쓴다",
+          "body": "Epic은 UE6·Fortnite 코드 대부분을 AI-assisted로 짠다.",
+          "mini_headline": "Epic, UE6 코드 대부분 AI가 작성",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf023070cdf9c6ebf/682da8904feafa6cf12bbc97/Fortnite_Header.png?width=1280&auto=webp&quality=80&disable=upscale"
+                "src": "https://assetsio.gnwcdn.com/fortnite-save-the-world.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Fortnite: Save the World 키 아트. 이미지 제공: Epic Games"
               },
               {
                 "t": "p",
-                "x": "Epic CEO Tim Sweeney가 X에 올린 글을 보면, Epic은 Unreal Engine과 MetaHuman 산출물의 AI 학습 제한을 없애는 중이고 EULA도 곧 바뀐다."
+                "x": "Epic Games가 Fortnite부터 Unreal Engine 6까지 모든 곳에 gen-AI를 쓰겠다고 확인했다. 개발 담당 수석부사장 Marcus Wassmer는 This Week In Video Games와의 인터뷰에서 “Unreal Engine의 코드와 기능 개발에 확실히 AI를 쓰고 있다”며 “지금 진행 중인 개발은 거의 전부 Fortnite, UEFN[Unreal Editor for Fortnite], UE6에 연결된 개발 스트림에서 이뤄지고 있다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "지난 26일 Kotaku는 Microsoft와 Epic 같은 기업이 AI에 사활을 걸면서도 사용자가 만든 AI-coded 자사 게임 재현작은 내리게 한다며 잠재적 위선을 짚었다. Sweeney는 여기에 긴 답글을 달다가 EULA 업데이트 계획을 지나가듯 꺼냈다."
+                "x": "vibe-coding에 관한 질문에 Wassmer는 이렇게 답했다. “그렇다, 우리는 vibe-coding을 하고 있다. 엔지니어가 더는 코드 대부분을 직접 쓰지 않지만, 원하는 아키텍처 결과를 얻도록 여전히 도구를 이끌고 있다는 뜻이다. 엔진을 'one-shotting'하는 것이 아니다. 개발자가 원하는 기능을 내놓고 엔진을 메모리·성능·확장성 한계 안에 유지하도록 AI와 함께 반복 작업을 하고 있다.” 그는 이 도구들이 업데이트를 더 빠르게, 버그는 더 적게 내놓는 데 도움이 될 것이라고 주장했다."
               },
               {
                 "t": "p",
-                "x": "\"Epic은 Unreal Engine과 MetaHuman 산출물의 AI 학습을 제한하는가?\" Sweeney는 이렇게 쓴 뒤 말을 이었다. \"현재는 그렇다. 하지만 EULA 조항에서 이 제한을 없애려 하고 있다. 다만 이 도구들을 쓰는 각 게임은 개발자가 고른 조건으로 출시되며, 그 조건은 AI 학습을 허용할 수도 제한할 수도 있다.\""
+                "x": "그는 Epic이 “AI 회의론보다 너무 느리게 움직이는 위험을 더 걱정한다”고 말했다. “개발에서 AI에 어중간하게 접근하는 것은 현실적이지 않다고 본다.”"
               },
               {
                 "t": "p",
-                "x": "AI 학습에 엔진을 일절 쓰지 못하게 하던 Unreal Engine으로서는 뚜렷한 변화다. Epic은 스스로 \"AI-first\"라 부르는 모델로 옮겨 가는 중이다. Sweeney는 Valve가 Steam에서 요구하는 AI 사용 공개 의무를 비판한 적도 있다. Game Developer는 Epic에 추가 정보를 요청했다."
+                "x": "Epic은 이달 초 최신 Epic Games Launcher를 vibe-coded 방식으로 만들었다고 밝혔고, CEO Tim Sweeney는 개발자에게 Steam 페이지에 gen-AI 사용 여부를 공개하도록 요구하는 Valve의 정책을 비판했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Epic、EULA改定で\nUnreal出力をAI学習に",
-          "body": "SweeneyはEpicのEULAを改め、Unreal出力でのAI学習を認めると述べた。",
-          "mini_headline": "Epic EULA、UnrealをAI学習に開放",
+          "headline": "Epic、UE6の\nコード大半をAIが記述",
+          "body": "EpicはAI-assistedでUE6とFortniteのコード大半をAIに任せる。",
+          "mini_headline": "Epic、UE6コードの大半をAIが記述",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf023070cdf9c6ebf/682da8904feafa6cf12bbc97/Fortnite_Header.png?width=1280&auto=webp&quality=80&disable=upscale"
+                "src": "https://assetsio.gnwcdn.com/fortnite-save-the-world.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Fortnite: Save the World のキーアート。画像提供：Epic Games"
               },
               {
                 "t": "p",
-                "x": "Epic CEOのTim SweeneyがXに投稿した内容によると、同社はUnreal EngineとMetaHumanの出力をAI学習に使うことへの制限を撤廃する作業を進めており、EpicのEULAは今後変更される。"
+                "x": "Epic Gamesは、FortniteからUnreal Engine 6まであらゆるものにgen-AIを使うことを認めた。開発担当エグゼクティブバイスプレジデントのMarcus WassmerはThis Week In Video Gamesに対し、「Unreal Engineのコードと機能の開発に間違いなくAIを使っている」と述べ、「現在行われている開発のほぼすべては、Fortnite、UEFN[Unreal Editor for Fortnite]、UE6に紐づく開発ストリームで進められている」と語った。"
               },
               {
                 "t": "p",
-                "x": "26日、Kotakuは、MicrosoftやEpicのような企業がAIに全力を注ぐ一方で、ユーザーが作ったAI-codedの自社ゲーム再現作品を閉鎖させているという潜在的な偽善を指摘する記事を掲載した。Sweeneyは長文の投稿で応じ、その中でEULA更新の計画をさらりと明かした。"
+                "x": "vibe-codingについて問われたWassmerはこう答えた。「そう、我々はvibe-codingをしている。つまりエンジニアはもはやコードの大半を書いていないが、望むアーキテクチャ上の結果を得るために今もツールを導いている。エンジンを『one-shotting』しているわけではない。開発者が求める機能を出荷し、エンジンをメモリ、パフォーマンス、スケーラビリティの範囲内に保つため、AIと反復を重ねている」。彼は、これらのツールによってアップデートをより速く、より少ないバグで出せるようになると主張した。"
               },
               {
                 "t": "p",
-                "x": "「EpicはUnreal EngineとMetaHumanの出力によるAI学習を制限しているか?」とSweeneyは書く。「現時点ではイエスだが、EULAの条項からこの制限を撤廃すべく取り組んでいる。ただし、これらのツールを使う各ゲームは開発者が選んだ条件でリリースされ、その条件でAI学習を許可することも制限することもできる」"
+                "x": "Epicは「AIへの懐疑論よりも、動きが遅すぎることのリスクをより懸念している」と彼は言う。「開発においてAIに中途半端に取り組むことは現実的ではないと考えている」。"
               },
               {
                 "t": "p",
-                "x": "これはUnreal Engineにとって大きな転換だ。同エンジンはこれまでAIの学習目的での利用を一切認めておらず、Epicは自ら「AI-first」と呼ぶモデルへ移行しつつある。SweeneyはSteamにおけるValveのAI開示義務も批判している。Game DeveloperはEpicに詳細を問い合わせている。"
+                "x": "Epicは今月初め、最新のEpic Games Launcherをvibe-codedで作ったと明かし、CEOのTim Sweeneyは、Steamのページでgen-AIの使用を開示するよう開発者に求めるValveの方針を批判した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Epic将修改EULA\nUnreal产出可训练AI",
-          "body": "Sweeney称，Epic的EULA将允许用Unreal Engine产出训练AI。",
-          "mini_headline": "Epic EULA向AI训练开放Unreal",
+          "headline": "Epic：UE6代码\n大部分已由AI编写",
+          "body": "Epic称以AI-assisted方式开发UE6与Fortnite，工程师不再写多数代码。",
+          "mini_headline": "Epic：UE6代码多由AI编写",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf023070cdf9c6ebf/682da8904feafa6cf12bbc97/Fortnite_Header.png?width=1280&auto=webp&quality=80&disable=upscale"
+                "src": "https://assetsio.gnwcdn.com/fortnite-save-the-world.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Fortnite: Save the World 主视觉图。图片来源：Epic Games"
               },
               {
                 "t": "p",
-                "x": "据Epic CEO Tim Sweeney在X上发布的帖子，Epic正努力取消用Unreal Engine和MetaHuman产出训练AI的限制，其EULA未来将随之修改。"
+                "x": "Epic Games已确认，从Fortnite到Unreal Engine 6的所有项目都将使用gen-AI。开发执行副总裁Marcus Wassmer在接受This Week In Video Games采访时表示：“我们肯定在用AI为Unreal Engine开发代码和功能。”“目前几乎所有的开发都在与Fortnite、UEFN[Unreal Editor for Fortnite]和UE6相关的开发流中进行。”"
               },
               {
                 "t": "p",
-                "x": "26日，Kotaku发文指出，Microsoft和Epic等公司一边全力投入AI，一边关停用户以AI-coded方式重制的自家游戏，可能存在虚伪。Sweeney发长文回应，并在其中随口透露了计划中的EULA更新。"
+                "x": "被问及vibe-coding时，Wassmer说：“是的，我们在做vibe-coding。这意味着我们的工程师不再编写大部分代码，但他们仍在引导工具，以得到我们想要的架构结果。我们并不是在‘one-shotting’整个引擎，而是与AI反复迭代，推出开发者想要的功能，并让引擎保持在内存、性能和可扩展性的范围之内。”他声称，这些工具将有助于更快地推出更新，且漏洞更少。"
               },
               {
                 "t": "p",
-                "x": "“Epic是否限制用Unreal Engine和MetaHuman产出训练AI？”Sweeney写道，“目前是的，但我们正在努力从EULA条款中移除这一限制。不过，使用这些工具的每款游戏都按开发者自选的条款发布，这些条款可以允许或限制AI训练。”"
+                "x": "他说，Epic“对行动过慢的风险的担忧，超过了对AI怀疑论的担忧”。“我们认为，在开发中对AI采取半吊子的做法是行不通的。”"
               },
               {
                 "t": "p",
-                "x": "这对Unreal Engine而言是一个显著转变——该引擎此前完全不允许将其用于AI自我训练，而Epic正转向其所称的“AI-first”模式。Sweeney还批评过Valve在Steam上的AI披露要求。Game Developer已联系Epic了解更多信息。"
+                "x": "本月早些时候，Epic表示最新版Epic Games Launcher是vibe-coded而成的，CEO Tim Sweeney则批评了Valve要求开发者在Steam页面上披露gen-AI使用情况的政策。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La EULA de Epic permitirá\nentrenar AI con obras de Unreal",
-          "body": "Tim Sweeney afirma que la EULA de Epic permitirá entrenar AI con contenido creado con Unreal Engine y MetaHuman.",
-          "mini_headline": "La EULA de Epic abre Unreal al entrenamiento de AI",
+          "headline": "Epic: AI ya escribe casi todo\nel código de UE6 y Fortnite",
+          "body": "Epic usa vibe-coding AI-assisted en Unreal Engine 6 y Fortnite; sus ingenieros ya no escriben la mayoría del código.",
+          "mini_headline": "Epic: AI escribe casi todo el código de UE6",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf023070cdf9c6ebf/682da8904feafa6cf12bbc97/Fortnite_Header.png?width=1280&auto=webp&quality=80&disable=upscale"
+                "src": "https://assetsio.gnwcdn.com/fortnite-save-the-world.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Arte principal de Fortnite: Save the World. Crédito de la imagen: Epic Games"
               },
               {
                 "t": "p",
-                "x": "La EULA de Epic cambiará en el futuro, ya que la empresa trabaja para eliminar las restricciones al entrenamiento de AI con los resultados de Unreal Engine y MetaHuman, según una publicación en X del CEO de Epic, Tim Sweeney."
+                "x": "Epic Games ha confirmado que usará gen-AI en todo, desde Fortnite hasta Unreal Engine 6. En declaraciones a This Week In Video Games, el vicepresidente ejecutivo de desarrollo, Marcus Wassmer, dijo que “sin duda estamos usando AI para desarrollar código y funciones para Unreal Engine”. “Casi todo el desarrollo que se hace ahora mismo se realiza en los flujos de desarrollo vinculados a Fortnite, UEFN [Unreal Editor for Fortnite] y UE6”."
               },
               {
                 "t": "p",
-                "x": "El 26 de octubre, Kotaku publicó un artículo que señalaba la posible hipocresía de empresas como Microsoft y Epic, que apuestan todo por la AI mientras cierran recreaciones AI-coded de sus juegos hechas por usuarios. Sweeney respondió con una larga publicación en la que, de pasada, dio a conocer la actualización prevista de la EULA."
+                "x": "Preguntado por el vibe-coding, Wassmer respondió: “Sí, estamos haciendo vibe-coding. Eso significa que nuestros ingenieros ya no escriben la mayor parte del código, pero siguen guiando las herramientas para obtener el resultado arquitectónico que queremos. No estamos haciendo 'one-shotting' del motor; iteramos con AI para lanzar las funciones que quieren los desarrolladores y mantener el motor dentro de los márgenes de memoria, rendimiento y escalabilidad”. Afirmó que las herramientas ayudarían a publicar actualizaciones más rápido y con menos errores."
               },
               {
                 "t": "p",
-                "x": "\"¿Restringe Epic el entrenamiento de AI con resultados de Unreal Engine y MetaHuman?\", escribe Sweeney. \"Sí, actualmente, pero estamos trabajando para eliminar esta restricción de los términos de la EULA, aunque cada juego que usa estas herramientas se publica bajo los términos que elijan sus desarrolladores, que pueden permitir o restringir el entrenamiento de AI\"."
+                "x": "Epic está “más preocupada por los riesgos de avanzar demasiado despacio que por el escepticismo hacia la AI”, dijo. “No creemos que sea viable adoptar un enfoque a medias con la AI en el desarrollo”."
               },
               {
                 "t": "p",
-                "x": "Se trata de un cambio notable para Unreal Engine, que hasta ahora no permitía ningún uso del motor para que una AI se entrenara, mientras Epic avanza hacia lo que llama un modelo \"AI-first\". Sweeney también ha criticado el requisito de Valve de declarar el uso de AI en Steam. Game Developer se ha puesto en contacto con Epic para obtener más información."
+                "x": "A principios de este mes, Epic dijo que hizo con vibe-coded el último Epic Games Launcher, y su CEO, Tim Sweeney, criticó la política de Valve que pide a los desarrolladores declarar el uso de gen-AI en las páginas de Steam."
               }
             ]
           }
@@ -585,121 +511,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Epic EULA, AI\n학습에 Unreal 개방",
-          "body": "Sweeney는 Unreal 산출물의 AI 학습을 EULA로 허용하겠다고 했다.",
-          "mini_headline": "Epic EULA, Unreal AI 학습 허용",
+          "headline": "Epic, UE6 코드\n대부분 AI가 쓴다",
+          "body": "Epic은 AI-assisted로 UE6·Fortnite 코드 대부분을 짠다.",
+          "mini_headline": "Epic, UE6 코드 대부분 AI가 작성",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf023070cdf9c6ebf/682da8904feafa6cf12bbc97/Fortnite_Header.png?width=1280&auto=webp&quality=80&disable=upscale"
+                "src": "https://assetsio.gnwcdn.com/fortnite-save-the-world.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Fortnite: Save the World 키 아트. 이미지 제공: Epic Games"
               },
               {
                 "t": "p",
-                "x": "Epic CEO Tim Sweeney가 X에 올린 글에 따르면, Epic은 Unreal Engine과 MetaHuman 산출물로 AI를 학습시키는 데 걸린 제한을 없애는 작업을 하고 있어 앞으로 EULA가 바뀔 예정이다."
+                "x": "Epic Games가 Fortnite부터 Unreal Engine 6까지 모든 곳에 gen-AI를 쓰겠다고 확인했다. 개발 담당 수석부사장 Marcus Wassmer는 This Week In Video Games와의 인터뷰에서 “Unreal Engine의 코드와 기능 개발에 확실히 AI를 쓰고 있다”며 “지금 진행 중인 개발은 거의 전부 Fortnite, UEFN[Unreal Editor for Fortnite], UE6에 연결된 개발 스트림에서 이뤄지고 있다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "지난 26일 Kotaku는 Microsoft와 Epic 같은 기업이 AI에 전력을 다하면서도 사용자가 만든 AI-coded 자사 게임 재현작은 내리게 하는 잠재적 위선을 지적하는 기사를 냈다. Sweeney는 긴 글로 응답하면서 EULA 업데이트 계획을 무심하게 꺼냈다."
+                "x": "vibe-coding에 관한 질문에 Wassmer는 이렇게 답했다. “그렇다, 우리는 vibe-coding을 하고 있다. 엔지니어가 더는 코드 대부분을 직접 쓰지 않지만, 원하는 아키텍처 결과를 얻도록 여전히 도구를 이끌고 있다는 뜻이다. 엔진을 'one-shotting'하는 것이 아니다. 개발자가 원하는 기능을 내놓고 엔진을 메모리·성능·확장성 한계 안에 유지하도록 AI와 함께 반복 작업을 하고 있다.” 그는 이 도구들이 업데이트를 더 빠르게, 버그는 더 적게 내놓는 데 도움이 될 것이라고 주장했다."
               },
               {
                 "t": "p",
-                "x": "\"Epic은 Unreal Engine과 MetaHuman 산출물의 AI 학습을 제한하는가?\" Sweeney는 이렇게 쓴 뒤 말을 이었다. \"현재는 그렇다. 하지만 EULA 조항에서 이 제한을 없애려 하고 있다. 다만 이 도구들을 쓰는 각 게임은 개발자가 고른 조건으로 출시되며, 그 조건은 AI 학습을 허용할 수도 제한할 수도 있다.\""
+                "x": "그는 Epic이 “AI 회의론보다 너무 느리게 움직이는 위험을 더 걱정한다”고 말했다. “개발에서 AI에 어중간하게 접근하는 것은 현실적이지 않다고 본다.”"
               },
               {
                 "t": "p",
-                "x": "그동안 AI 학습에 엔진을 쓰는 것을 일절 허용하지 않던 Unreal Engine으로서는 뚜렷한 변화로, Epic은 스스로 \"AI-first\"라 부르는 모델로 전환하고 있다. Sweeney는 Steam에서 Valve가 요구하는 AI 사용 공개 의무도 비판한 바 있다. Game Developer는 Epic에 추가 정보를 요청했다."
+                "x": "Epic은 이달 초 최신 Epic Games Launcher를 vibe-coded 방식으로 만들었다고 밝혔고, CEO Tim Sweeney는 개발자에게 Steam 페이지에 gen-AI 사용 여부를 공개하도록 요구하는 Valve의 정책을 비판했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Epic、EULA改定で\nUnreal出力をAI学習に",
-          "body": "SweeneyはEpicのEULAを改め、Unreal出力でのAI学習を認めると述べた。",
-          "mini_headline": "Epic EULA、UnrealをAI学習に開放",
+          "headline": "Epic、UE6の\nコード大半をAIが記述",
+          "body": "EpicはAI-assistedでUE6とFortniteのコード大半をAIに任せる。",
+          "mini_headline": "Epic、UE6コードの大半をAIが記述",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf023070cdf9c6ebf/682da8904feafa6cf12bbc97/Fortnite_Header.png?width=1280&auto=webp&quality=80&disable=upscale"
+                "src": "https://assetsio.gnwcdn.com/fortnite-save-the-world.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Fortnite: Save the World のキーアート。画像提供：Epic Games"
               },
               {
                 "t": "p",
-                "x": "Epic CEOのTim SweeneyがXに投稿した内容によると、同社はUnreal EngineとMetaHumanの出力をAI学習に使うことへの制限を撤廃する作業を進めており、EpicのEULAは今後変更される。"
+                "x": "Epic Gamesは、FortniteからUnreal Engine 6まであらゆるものにgen-AIを使うことを認めた。開発担当エグゼクティブバイスプレジデントのMarcus WassmerはThis Week In Video Gamesに対し、「Unreal Engineのコードと機能の開発に間違いなくAIを使っている」と述べ、「現在行われている開発のほぼすべては、Fortnite、UEFN[Unreal Editor for Fortnite]、UE6に紐づく開発ストリームで進められている」と語った。"
               },
               {
                 "t": "p",
-                "x": "26日、Kotakuは、MicrosoftやEpicのような企業がAIに全力を注ぐ一方で、ユーザーが作ったAI-codedの自社ゲーム再現作品を閉鎖させているという潜在的な偽善を指摘する記事を掲載した。Sweeneyは長文の投稿で応じ、その中でEULA更新の計画をさらりと明かした。"
+                "x": "vibe-codingについて問われたWassmerはこう答えた。「そう、我々はvibe-codingをしている。つまりエンジニアはもはやコードの大半を書いていないが、望むアーキテクチャ上の結果を得るために今もツールを導いている。エンジンを『one-shotting』しているわけではない。開発者が求める機能を出荷し、エンジンをメモリ、パフォーマンス、スケーラビリティの範囲内に保つため、AIと反復を重ねている」。彼は、これらのツールによってアップデートをより速く、より少ないバグで出せるようになると主張した。"
               },
               {
                 "t": "p",
-                "x": "「EpicはUnreal EngineとMetaHumanの出力によるAI学習を制限しているか?」とSweeneyは書く。「現時点ではイエスだが、EULAの条項からこの制限を撤廃すべく取り組んでいる。ただし、これらのツールを使う各ゲームは開発者が選んだ条件でリリースされ、その条件でAI学習を許可することも制限することもできる」"
+                "x": "Epicは「AIへの懐疑論よりも、動きが遅すぎることのリスクをより懸念している」と彼は言う。「開発においてAIに中途半端に取り組むことは現実的ではないと考えている」。"
               },
               {
                 "t": "p",
-                "x": "これはUnreal Engineにとって大きな転換だ。同エンジンはこれまでAIの学習目的での利用を一切認めておらず、Epicは自ら「AI-first」と呼ぶモデルへ移行しつつある。SweeneyはSteamにおけるValveのAI開示義務も批判している。Game DeveloperはEpicに詳細を問い合わせている。"
+                "x": "Epicは今月初め、最新のEpic Games Launcherをvibe-codedで作ったと明かし、CEOのTim Sweeneyは、Steamのページでgen-AIの使用を開示するよう開発者に求めるValveの方針を批判した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Epic将修改EULA\nUnreal产出可训练AI",
-          "body": "Sweeney称，Epic的EULA将允许用Unreal Engine产出训练AI。",
-          "mini_headline": "Epic EULA向AI训练开放Unreal",
+          "headline": "Epic：UE6代码\n大部分已由AI编写",
+          "body": "Epic称以AI-assisted方式开发UE6与Fortnite，工程师不再写多数代码。",
+          "mini_headline": "Epic：UE6代码多由AI编写",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf023070cdf9c6ebf/682da8904feafa6cf12bbc97/Fortnite_Header.png?width=1280&auto=webp&quality=80&disable=upscale"
+                "src": "https://assetsio.gnwcdn.com/fortnite-save-the-world.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Fortnite: Save the World 主视觉图。图片来源：Epic Games"
               },
               {
                 "t": "p",
-                "x": "据Epic CEO Tim Sweeney在X上发布的帖子，Epic正努力取消用Unreal Engine和MetaHuman产出训练AI的限制，其EULA未来将随之修改。"
+                "x": "Epic Games已确认，从Fortnite到Unreal Engine 6的所有项目都将使用gen-AI。开发执行副总裁Marcus Wassmer在接受This Week In Video Games采访时表示：“我们肯定在用AI为Unreal Engine开发代码和功能。”“目前几乎所有的开发都在与Fortnite、UEFN[Unreal Editor for Fortnite]和UE6相关的开发流中进行。”"
               },
               {
                 "t": "p",
-                "x": "26日，Kotaku发文指出，Microsoft和Epic等公司一边全力投入AI，一边关停用户以AI-coded方式重制的自家游戏，可能存在虚伪。Sweeney发长文回应，并在其中随口透露了计划中的EULA更新。"
+                "x": "被问及vibe-coding时，Wassmer说：“是的，我们在做vibe-coding。这意味着我们的工程师不再编写大部分代码，但他们仍在引导工具，以得到我们想要的架构结果。我们并不是在‘one-shotting’整个引擎，而是与AI反复迭代，推出开发者想要的功能，并让引擎保持在内存、性能和可扩展性的范围之内。”他声称，这些工具将有助于更快地推出更新，且漏洞更少。"
               },
               {
                 "t": "p",
-                "x": "“Epic是否限制用Unreal Engine和MetaHuman产出训练AI？”Sweeney写道，“目前是的，但我们正在努力从EULA条款中移除这一限制。不过，使用这些工具的每款游戏都按开发者自选的条款发布，这些条款可以允许或限制AI训练。”"
+                "x": "他说，Epic“对行动过慢的风险的担忧，超过了对AI怀疑论的担忧”。“我们认为，在开发中对AI采取半吊子的做法是行不通的。”"
               },
               {
                 "t": "p",
-                "x": "这对Unreal Engine而言是一个显著转变——该引擎此前完全不允许将其用于AI自我训练，而Epic正转向其所称的“AI-first”模式。Sweeney还批评过Valve在Steam上的AI披露要求。Game Developer已联系Epic了解更多信息。"
+                "x": "本月早些时候，Epic表示最新版Epic Games Launcher是vibe-coded而成的，CEO Tim Sweeney则批评了Valve要求开发者在Steam页面上披露gen-AI使用情况的政策。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La EULA de Epic permitirá\nentrenar AI con obras de Unreal",
-          "body": "Tim Sweeney afirma que la EULA de Epic permitirá entrenar AI con contenido creado con Unreal Engine y MetaHuman.",
-          "mini_headline": "La EULA de Epic abre Unreal al entrenamiento de AI",
+          "headline": "Epic: AI ya escribe casi todo\nel código de UE6 y Fortnite",
+          "body": "Epic usa vibe-coding AI-assisted en Unreal Engine 6 y Fortnite; sus ingenieros ya no escriben la mayoría del código.",
+          "mini_headline": "Epic: AI escribe casi todo el código de UE6",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf023070cdf9c6ebf/682da8904feafa6cf12bbc97/Fortnite_Header.png?width=1280&auto=webp&quality=80&disable=upscale"
+                "src": "https://assetsio.gnwcdn.com/fortnite-save-the-world.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+                "cap": "Arte principal de Fortnite: Save the World. Crédito de la imagen: Epic Games"
               },
               {
                 "t": "p",
-                "x": "La EULA de Epic cambiará en el futuro, ya que la empresa trabaja para eliminar las restricciones al entrenamiento de AI con los resultados de Unreal Engine y MetaHuman, según una publicación en X del CEO de Epic, Tim Sweeney."
+                "x": "Epic Games ha confirmado que usará gen-AI en todo, desde Fortnite hasta Unreal Engine 6. En declaraciones a This Week In Video Games, el vicepresidente ejecutivo de desarrollo, Marcus Wassmer, dijo que “sin duda estamos usando AI para desarrollar código y funciones para Unreal Engine”. “Casi todo el desarrollo que se hace ahora mismo se realiza en los flujos de desarrollo vinculados a Fortnite, UEFN [Unreal Editor for Fortnite] y UE6”."
               },
               {
                 "t": "p",
-                "x": "El 26 de octubre, Kotaku publicó un artículo que señalaba la posible hipocresía de empresas como Microsoft y Epic, que apuestan todo por la AI mientras cierran recreaciones AI-coded de sus juegos hechas por usuarios. Sweeney respondió con una larga publicación en la que, de pasada, dio a conocer la actualización prevista de la EULA."
+                "x": "Preguntado por el vibe-coding, Wassmer respondió: “Sí, estamos haciendo vibe-coding. Eso significa que nuestros ingenieros ya no escriben la mayor parte del código, pero siguen guiando las herramientas para obtener el resultado arquitectónico que queremos. No estamos haciendo 'one-shotting' del motor; iteramos con AI para lanzar las funciones que quieren los desarrolladores y mantener el motor dentro de los márgenes de memoria, rendimiento y escalabilidad”. Afirmó que las herramientas ayudarían a publicar actualizaciones más rápido y con menos errores."
               },
               {
                 "t": "p",
-                "x": "\"¿Restringe Epic el entrenamiento de AI con resultados de Unreal Engine y MetaHuman?\", escribe Sweeney. \"Sí, actualmente, pero estamos trabajando para eliminar esta restricción de los términos de la EULA, aunque cada juego que usa estas herramientas se publica bajo los términos que elijan sus desarrolladores, que pueden permitir o restringir el entrenamiento de AI\"."
+                "x": "Epic está “más preocupada por los riesgos de avanzar demasiado despacio que por el escepticismo hacia la AI”, dijo. “No creemos que sea viable adoptar un enfoque a medias con la AI en el desarrollo”."
               },
               {
                 "t": "p",
-                "x": "Se trata de un cambio notable para Unreal Engine, que hasta ahora no permitía ningún uso del motor para que una AI se entrenara, mientras Epic avanza hacia lo que llama un modelo \"AI-first\". Sweeney también ha criticado el requisito de Valve de declarar el uso de AI en Steam. Game Developer se ha puesto en contacto con Epic para obtener más información."
+                "x": "A principios de este mes, Epic dijo que hizo con vibe-coded el último Epic Games Launcher, y su CEO, Tim Sweeney, criticó la política de Valve que pide a los desarrolladores declarar el uso de gen-AI en las páginas de Steam."
               }
             ]
           }
@@ -707,15 +637,15 @@
       }
     },
     {
-      "id": "aiwikis",
+      "id": "roblox3d",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "오류투성이 AI 게임 위키\n진짜 팬들을 밀어낸다",
-      "body": "오류투성이 LLM-powered 게임 위키가 팬을 밀어내고 퍼블리셔까지 괴롭힌다.",
-      "mini_headline": "AI 게임 위키, 팬을 밀어내다",
+      "headline": "Open3DLab 성인물\nRoblox AI엔 안 써",
+      "body": "Roblox AI가 Open3DLab 3D 파일을 잘못 긁었지만 학습엔 안 썼다.",
+      "mini_headline": "Roblox, AI 데이터 속 성인물 부인",
       "tool": "Games",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+      "source": "Game Developer",
+      "url": "https://www.gamedeveloper.com/business/roblox-confirms-no-adult-content-used-in-ai-training-after-scraping-open3dlab-data",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
@@ -723,209 +653,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://assetsio.gnwcdn.com/gamedb-wiki-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-            "cap": "이미지 출처: Eurogamer / GameDB"
+            "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt05086ee04717e6e7/6ae2082619e29ebc009130b6/robloxphonefeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+            "cap": "이미지: Photo Agency via Adobe Stock"
           },
           {
             "t": "p",
-            "x": "Eurogamer 기자가 Nighthawks 정보를 찾다 들어간 \"Nighthawks Wiki\"는 위키라 부르기도 민망했다. 있지도 않은 동료와 스킬을 늘어놓는 등 틀린 정보투성이였다. 도메인을 따라가 보니 \"AI Website builder\"도 제공하는 웹사이트 제작 서비스 Spaceship이 나왔다."
-          },
-          {
-            "t": "img",
-            "src": "https://assetsio.gnwcdn.com/nighthawks-wiki-1.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
-            "cap": "문제의 비공식 Nighthawks 위키. | 이미지 출처: Eurogamer / Nighthawks.wiki"
+            "x": "Roblox Corporation이 3D 에셋 사이트 Open3DLab의 의혹 제기를 사실로 확인했다. 자사 AI 에이전트 하나가 아트 에셋과 3D 모델 등 145.5 GB 분량의 콘텐츠를 내려받았고, 여기에는 자회사 사이트 Smutlab과 SFMLab에 올라온 성인 콘텐츠도 포함됐다는 내용이다. 대변인은 Roblox 연구원이 “공개된 3D 에셋을 수집”하려고 이 에이전트를 만들었으며, 에이전트가 “실수로” Open3DLab을 긁어 갔고 “의도대로 작동하지 않고 있었다”고 설명했다."
           },
           {
             "t": "p",
-            "x": "Hooded Horse CEO Tim Bender는 퍼블리셔 입장에서 AI-generated 사이트를 상대로 \"두더지 잡기(whack-a-mole)\"를 해야 했다고 말한다. \"[생성형 AI] 덕분에 사실상 상업적인 업체들이 줄줄이 대량 생산에 나서 게임 검색 엔진 결과를 뒤덮고 트래픽을 빨아들이려 한다\"는 것이다."
+            "x": "“해당 에이전트는 폐기했으며, 데이터는 어떤 AI 모델 학습을 포함해 어떤 목적으로도 쓰지 않았다. 이런 에이전트를 만들고 검토하는 방식의 안전장치를 강화하고 있으며, 에이전트 환경이 변해 가는 만큼 앞으로도 계속 강화하겠다.”"
           },
           {
             "t": "p",
-            "x": "독립 위키도 AI 스크래퍼에 시달린다. Dune: Awakening Community Wiki에는 30일 동안 AI 크롤러 요청이 7m 건 들어왔고, 그중 5m 건이 Meta발이었다. Independent Game Wiki Network의 FlamingMojo에 따르면 서버 비용은 세 배에서 열 배까지 뛰었다."
+            "x": "Open3DLab 관리자 Salaryman에 따르면 이 크롤러는 “712개 프로젝트에서 1,027개 파일”을 내려받았고, 그중 117.4 GB가 성인 콘텐츠였다. 크롤러는 robots.txt와 이용약관(Terms of Service)을 무시했고, 10월 18일 차단된 뒤 10월 19일 다시 작동했다. 그는 크롤러를 만든 사람으로 Roblox의 생성형 AI 시스템 Cube의 바탕이 된 논문을 공동 집필한 Roblox 연구원을 지목했다."
           },
           {
             "t": "p",
-            "x": "\"AI 오염에서 살아남는 길은 커뮤니티다.\" FlamingMojo의 말이다."
+            "x": "Salaryman은 “모델은 배운 것을 재현한다”며, 성인 학습 데이터가 Roblox용 에셋을 생성하는 모델에 들어가면 그 데이터와 아이들 사이에는 필터 하나만 남는다고 경고했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Error-ridden AI game wikis\nare pushing real fans aside",
-          "body": "LLM-powered game wikis full of errors are taking over, sidelining fans and leaving publishers playing whack-a-mole.",
-          "mini_headline": "AI game wikis\npush fans aside",
+          "headline": "Roblox: no adult content in\nAI training from Open3DLab",
+          "body": "Roblox says an AI agent misfired scraping Open3DLab 3D files, and no adult content was used to train its AI.",
+          "mini_headline": "Roblox: no adult\ncontent in AI data",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/gamedb-wiki-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "Image credit: Eurogamer / GameDB"
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt05086ee04717e6e7/6ae2082619e29ebc009130b6/robloxphonefeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+                "cap": "Image by Photo Agency via Adobe Stock"
               },
               {
                 "t": "p",
-                "x": "Searching for information on Nighthawks, Eurogamer's writer landed on a \"Nighthawks Wiki\" that wasn't a wiki at all and was full of false information, like listing companions and skills that don't exist. Its domain traced to a website building service called Spaceship, which also offers an \"AI Website builder.\""
-              },
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/nighthawks-wiki-1.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
-                "cap": "The unofficial Nighthawks wiki in question. | Image credit: Eurogamer / Nighthawks.wiki"
+                "x": "Roblox Corporation has confirmed allegations by 3D asset site Open3DLab that one of its AI agents downloaded 145.5 GB of content such as art assets and 3D models, including adult content hosted on subsidiary sites Smutlab and SFMLab. A spokesperson said a Roblox researcher built the agent to \"collect publicly available 3D assets\"; it \"mistakenly\" scraped Open3DLab and was \"failing to operate as intended.\""
               },
               {
                 "t": "p",
-                "x": "Hooded Horse CEO Tim Bender says the publisher has had to \"play whack-a-mole\" with AI-generated sites. \"[Generative AI] enables a run of basically commercial enterprises to mass produce and try to flood the search engine results of games to soak up their traffic,\" he says."
+                "x": "\"The agent was decommissioned, and the data was not used for any purpose, including training any AI models. We are strengthening safeguards for how agents like this are built and reviewed, and will continue to do so as the agentic landscape evolves.\""
               },
               {
                 "t": "p",
-                "x": "Independent wikis also face AI scrapers: the Dune: Awakening Community Wiki saw 7m requests in 30 days from AI crawlers, 5m of them from Meta. FlamingMojo of the Independent Game Wiki Network says server costs have increased between three- and ten-fold."
+                "x": "According to Open3DLab admin Salaryman, the crawler downloaded \"1,027 files from 712 projects,\" 117.4 GB of it adult content, ignored robots.txt and the Terms of Service, and resumed on October 19 after being blocked on October 18. He identified its creator as a Roblox researcher who co-authored the paper behind Roblox's generative AI system Cube."
               },
               {
                 "t": "p",
-                "x": "\"The way we survive the AI pollution is with community,\" says FlamingMojo."
+                "x": "\"Models reproduce what they learn from,\" Salaryman said, warning that adult training data reaching a model that generates assets for Roblox would leave only a filter between that data and children."
               }
             ]
           }
         },
         "ko": {
-          "headline": "오류투성이 AI 게임 위키\n진짜 팬들을 밀어낸다",
-          "body": "오류투성이 LLM-powered 게임 위키가 팬을 밀어내고 퍼블리셔까지 괴롭힌다.",
-          "mini_headline": "AI 게임 위키, 팬을 밀어내다",
+          "headline": "Open3DLab 성인물\nRoblox AI엔 안 써",
+          "body": "Roblox AI가 Open3DLab 3D 파일을 잘못 긁었지만 학습엔 안 썼다.",
+          "mini_headline": "Roblox, AI 데이터 속 성인물 부인",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/gamedb-wiki-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "이미지 출처: Eurogamer / GameDB"
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt05086ee04717e6e7/6ae2082619e29ebc009130b6/robloxphonefeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+                "cap": "이미지: Photo Agency via Adobe Stock"
               },
               {
                 "t": "p",
-                "x": "Eurogamer 기자가 Nighthawks 정보를 찾다 들어간 \"Nighthawks Wiki\"는 위키라 부르기도 민망했다. 있지도 않은 동료와 스킬을 늘어놓는 등 틀린 정보투성이였다. 도메인을 따라가 보니 \"AI Website builder\"도 제공하는 웹사이트 제작 서비스 Spaceship이 나왔다."
-              },
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/nighthawks-wiki-1.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
-                "cap": "문제의 비공식 Nighthawks 위키. | 이미지 출처: Eurogamer / Nighthawks.wiki"
+                "x": "Roblox Corporation이 3D 에셋 사이트 Open3DLab의 의혹 제기를 사실로 확인했다. 자사 AI 에이전트 하나가 아트 에셋과 3D 모델 등 145.5 GB 분량의 콘텐츠를 내려받았고, 여기에는 자회사 사이트 Smutlab과 SFMLab에 올라온 성인 콘텐츠도 포함됐다는 내용이다. 대변인은 Roblox 연구원이 “공개된 3D 에셋을 수집”하려고 이 에이전트를 만들었으며, 에이전트가 “실수로” Open3DLab을 긁어 갔고 “의도대로 작동하지 않고 있었다”고 설명했다."
               },
               {
                 "t": "p",
-                "x": "Hooded Horse CEO Tim Bender는 퍼블리셔 입장에서 AI-generated 사이트를 상대로 \"두더지 잡기(whack-a-mole)\"를 해야 했다고 말한다. \"[생성형 AI] 덕분에 사실상 상업적인 업체들이 줄줄이 대량 생산에 나서 게임 검색 엔진 결과를 뒤덮고 트래픽을 빨아들이려 한다\"는 것이다."
+                "x": "“해당 에이전트는 폐기했으며, 데이터는 어떤 AI 모델 학습을 포함해 어떤 목적으로도 쓰지 않았다. 이런 에이전트를 만들고 검토하는 방식의 안전장치를 강화하고 있으며, 에이전트 환경이 변해 가는 만큼 앞으로도 계속 강화하겠다.”"
               },
               {
                 "t": "p",
-                "x": "독립 위키도 AI 스크래퍼에 시달린다. Dune: Awakening Community Wiki에는 30일 동안 AI 크롤러 요청이 7m 건 들어왔고, 그중 5m 건이 Meta발이었다. Independent Game Wiki Network의 FlamingMojo에 따르면 서버 비용은 세 배에서 열 배까지 뛰었다."
+                "x": "Open3DLab 관리자 Salaryman에 따르면 이 크롤러는 “712개 프로젝트에서 1,027개 파일”을 내려받았고, 그중 117.4 GB가 성인 콘텐츠였다. 크롤러는 robots.txt와 이용약관(Terms of Service)을 무시했고, 10월 18일 차단된 뒤 10월 19일 다시 작동했다. 그는 크롤러를 만든 사람으로 Roblox의 생성형 AI 시스템 Cube의 바탕이 된 논문을 공동 집필한 Roblox 연구원을 지목했다."
               },
               {
                 "t": "p",
-                "x": "\"AI 오염에서 살아남는 길은 커뮤니티다.\" FlamingMojo의 말이다."
+                "x": "Salaryman은 “모델은 배운 것을 재현한다”며, 성인 학습 데이터가 Roblox용 에셋을 생성하는 모델에 들어가면 그 데이터와 아이들 사이에는 필터 하나만 남는다고 경고했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "誤りだらけのAIゲームウィキ\n本物のファンを押しのける",
-          "body": "誤りだらけのLLM-poweredゲームウィキが広がり、ファンを脇へ追いやっている。",
-          "mini_headline": "AIゲームウィキがファンを押しのける",
+          "headline": "RobloxのAI学習に\nOpen3DLab成人物なし",
+          "body": "RobloxはOpen3DLabの3D収集をAIの誤作動とし、成人向けは学習不使用とした。",
+          "mini_headline": "Roblox、AIデータに成人向けなし",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/gamedb-wiki-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "画像クレジット: Eurogamer / GameDB"
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt05086ee04717e6e7/6ae2082619e29ebc009130b6/robloxphonefeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+                "cap": "画像：Photo Agency via Adobe Stock"
               },
               {
                 "t": "p",
-                "x": "Nighthawksの情報を探していたEurogamerの記者がたどり着いた「Nighthawks Wiki」は、まったくウィキではなく、存在しない仲間やスキルを並べるなど誤情報だらけだった。そのドメインをたどると、「AI Website builder」も提供するウェブサイト作成サービスSpaceshipに行き着いた。"
-              },
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/nighthawks-wiki-1.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
-                "cap": "問題の非公式Nighthawksウィキ。 | 画像クレジット: Eurogamer / Nighthawks.wiki"
+                "x": "Roblox Corporationは、3Dアセットサイト Open3DLabの指摘を認めた。同社のAIエージェントの一つが、アート素材や3Dモデルなど145.5 GB 分のコンテンツをダウンロードし、その中には子会社サイトのSmutlabとSFMLabに掲載された成人向けコンテンツも含まれていたというものだ。広報担当者によれば、Roblox の研究者が「公開されている3Dアセットを収集する」ためにこのエージェントを作ったが、「誤って」Open3DLabをスクレイピングし、「意図どおりに動作していなかった」という。"
               },
               {
                 "t": "p",
-                "x": "Hooded Horse CEOのTim Benderは、パブリッシャーとしてAI-generatedサイトを相手に「もぐら叩き(whack-a-mole)」を強いられてきたと語る。「[生成AI]によって、基本的に商業目的の事業者が次々と大量生産を行い、ゲームの検索エンジン結果を埋め尽くしてトラフィックを吸い上げようとしている」と彼は言う。"
+                "x": "「当該エージェントは停止・廃止し、データはいかなるAIモデルの学習を含め、いかなる目的にも使用していない。この種のエージェントの構築と審査に関する安全策を強化しており、エージェントを取り巻く環境の変化に合わせて今後も強化を続ける」"
               },
               {
                 "t": "p",
-                "x": "独立系ウィキもAIスクレイパーに直面している。Dune: Awakening Community Wikiは30日間でAIクローラーから7m 件のリクエストを受け、そのうち5m 件がMetaからだった。Independent Game Wiki NetworkのFlamingMojoによると、サーバー費用は三倍から十倍に増えたという。"
+                "x": "Open3DLab管理者のSalarymanによると、クローラーは「712件のプロジェクトから1,027件のファイル」をダウンロードし、そのうち117.4 GB が成人向けコンテンツだった。robots.txtと利用規約(Terms of Service)を無視し、10月18日にブロックされた後、10月19日に再開したという。彼は作成者を、Robloxの生成AIシステムCubeの基になった論文の共著者であるRobloxの研究者だと特定した。"
               },
               {
                 "t": "p",
-                "x": "「AI汚染を生き延びる道はコミュニティだ」とFlamingMojoは言う。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "错误百出的AI游戏维基\n正把真正的粉丝挤到一边",
-          "body": "错误百出的LLM-powered游戏维基泛滥，排挤粉丝，让发行商疲于打地鼠。",
-          "mini_headline": "AI游戏维基挤走粉丝",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/gamedb-wiki-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "图片来源：Eurogamer / GameDB"
-              },
-              {
-                "t": "p",
-                "x": "Eurogamer的作者在搜索Nighthawks相关信息时，进入了一个“Nighthawks Wiki”，它根本不是维基，而且充斥着虚假信息，比如列出并不存在的同伴和技能。其域名追溯到一家名为Spaceship的建站服务，该服务还提供“AI Website builder”。"
-              },
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/nighthawks-wiki-1.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
-                "cap": "涉事的非官方Nighthawks维基。| 图片来源：Eurogamer / Nighthawks.wiki"
-              },
-              {
-                "t": "p",
-                "x": "Hooded Horse CEO Tim Bender表示，这家发行商不得不与AI-generated网站玩“打地鼠（whack-a-mole）”。他说：“[生成式AI]让一批基本属于商业性质的企业得以批量生产内容，试图淹没游戏的搜索引擎结果，以吸走其流量。”"
-              },
-              {
-                "t": "p",
-                "x": "独立维基也面临AI爬虫：Dune: Awakening Community Wiki在30天内收到来自AI爬虫的7m 次请求，其中5m 次来自Meta。Independent Game Wiki Network的FlamingMojo表示，服务器成本增加了三到十倍。"
-              },
-              {
-                "t": "p",
-                "x": "“我们靠社区在AI污染中生存下来。”FlamingMojo说。"
+                "x": "「モデルは学んだものを再現する」とSalarymanは述べ、成人向けの学習データがRoblox向けアセットを生成するモデルに入れば、そのデータと子どもたちの間にはフィルター一枚しか残らないと警告した。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Wikis de AI llenas de errores\ndesplazan a los verdaderos fans",
-          "body": "Las wikis de juegos LLM-powered y llenas de errores se imponen, relegan a los fans y desbordan a las editoras.",
-          "mini_headline": "Las wikis de AI desplazan a los fans",
+          "headline": "Roblox: sin contenido adulto de\nOpen3DLab en su entrenamiento AI",
+          "body": "Roblox dice que un agente AI falló al extraer archivos 3D de Open3DLab y que no entrenó su AI con contenido adulto.",
+          "mini_headline": "Roblox: sin contenido adulto en sus datos AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/gamedb-wiki-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "Crédito de la imagen: Eurogamer / GameDB"
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt05086ee04717e6e7/6ae2082619e29ebc009130b6/robloxphonefeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+                "cap": "Imagen de Photo Agency via Adobe Stock"
               },
               {
                 "t": "p",
-                "x": "Al buscar información sobre Nighthawks, el redactor de Eurogamer llegó a una \"Nighthawks Wiki\" que no era una wiki en absoluto y estaba llena de información falsa, como compañeros y habilidades que no existen. Su dominio remitía a un servicio de creación de sitios web llamado Spaceship, que también ofrece un \"AI Website builder\"."
+                "x": "Roblox Corporation ha confirmado las acusaciones del sitio de recursos 3D Open3DLab de que uno de sus agentes AI descargó 145.5 GB de contenido como recursos artísticos y modelos 3D, incluido contenido adulto alojado en los sitios subsidiarios Smutlab y SFMLab. Un portavoz dijo que un investigador de Roblox creó el agente para “recopilar recursos 3D disponibles públicamente”; el agente rastreó Open3DLab “por error” y “no estaba funcionando como se pretendía”."
               },
+              {
+                "t": "p",
+                "x": "“El agente fue desactivado y los datos no se usaron para ningún fin, incluido el entrenamiento de cualquier modelo AI. Estamos reforzando las salvaguardas sobre cómo se crean y revisan agentes como este, y seguiremos haciéndolo a medida que evolucione el panorama de los agentes”."
+              },
+              {
+                "t": "p",
+                "x": "Según el administrador de Open3DLab, Salaryman, el rastreador descargó “1,027 archivos de 712 proyectos”, 117.4 GB de ellos de contenido adulto, ignoró robots.txt y los Terms of Service, y se reanudó el 19 de octubre tras ser bloqueado el 18 de octubre. Identificó a su creador como un investigador de Roblox coautor del artículo en el que se basa Cube, el sistema de AI generativa de Roblox."
+              },
+              {
+                "t": "p",
+                "x": "“Los modelos reproducen aquello de lo que aprenden”, dijo Salaryman, y advirtió que, si datos de entrenamiento adultos llegaran a un modelo que genera recursos para Roblox, solo quedaría un filtro entre esos datos y los niños."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Roblox：AI训练未用\nOpen3DLab成人内容",
+          "body": "Roblox称AI代理抓取Open3DLab的3D文件时出错，其AI训练未使用成人内容。",
+          "mini_headline": "Roblox：AI数据无成人内容",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/nighthawks-wiki-1.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
-                "cap": "La wiki no oficial de Nighthawks en cuestión. | Crédito de la imagen: Eurogamer / Nighthawks.wiki"
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt05086ee04717e6e7/6ae2082619e29ebc009130b6/robloxphonefeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+                "cap": "Image by Photo Agency via Adobe Stock"
               },
               {
                 "t": "p",
-                "x": "Tim Bender, CEO de Hooded Horse, dice que la editora ha tenido que \"jugar al whack-a-mole\" con sitios AI-generated. \"[La AI generativa] permite que una serie de empresas básicamente comerciales produzcan en masa e intenten inundar los resultados de los buscadores sobre los juegos para absorber su tráfico\", afirma."
+                "x": "Roblox Corporation证实了3D素材网站Open3DLab的指控：其旗下一个AI代理下载了145.5 GB的内容，包括美术素材和3D模型，其中有托管于子站点Smutlab和SFMLab的成人内容。一位发言人表示，一名Roblox研究人员构建该代理是为了“收集公开可用的3D素材”；它“错误地”抓取了Open3DLab，且“未能按预期运行”。"
               },
               {
                 "t": "p",
-                "x": "Las wikis independientes también se enfrentan a los scrapers de AI: la Dune: Awakening Community Wiki recibió 7m de solicitudes en 30 días de rastreadores de AI, 5m de ellas de Meta. FlamingMojo, de la Independent Game Wiki Network, afirma que los costes de servidor se han multiplicado entre tres y diez veces."
+                "x": "“该代理已停用，数据未被用于任何用途，包括训练任何AI模型。我们正在加强此类代理在构建与审查方面的保障措施，并将随着智能体领域的发展持续这样做。”"
               },
               {
                 "t": "p",
-                "x": "\"La forma en que sobrevivimos a la contaminación de la AI es con la comunidad\", dice FlamingMojo."
+                "x": "据Open3DLab管理员Salaryman称，该爬虫下载了“来自712个项目的1,027个文件”，其中117.4 GB为成人内容，无视robots.txt和服务条款（Terms of Service），并在10月18日被封锁后于10月19日恢复运行。他指出其创建者是一名Roblox研究人员，曾参与撰写Roblox生成式AI系统Cube背后的论文。"
+              },
+              {
+                "t": "p",
+                "x": "Salaryman说：“模型会复现它们所学的内容。”他警告称，如果成人训练数据进入为Roblox生成素材的模型，那么这些数据与儿童之间将只剩下一道过滤器。"
               }
             ]
           }
@@ -933,145 +833,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "오류투성이 AI 게임 위키\n진짜 팬들을 밀어낸다",
-          "body": "오류투성이 LLM-powered 게임 위키가 팬을 밀어내고 퍼블리셔를 괴롭힌다.",
-          "mini_headline": "AI 게임 위키, 팬을 밀어내다",
+          "headline": "Open3DLab 성인물\nRoblox AI엔 안 써",
+          "body": "Roblox는 AI가 Open3DLab 3D 파일을 잘못 긁었고 학습엔 안 썼다.",
+          "mini_headline": "Roblox, AI 데이터 속 성인물 부인",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/gamedb-wiki-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "이미지 출처: Eurogamer / GameDB"
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt05086ee04717e6e7/6ae2082619e29ebc009130b6/robloxphonefeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+                "cap": "이미지: Photo Agency via Adobe Stock"
               },
               {
                 "t": "p",
-                "x": "Nighthawks 정보를 찾던 Eurogamer 기자는 \"Nighthawks Wiki\"에 들어갔는데, 이곳은 위키라고 할 수도 없었고 존재하지 않는 동료와 스킬을 나열하는 등 잘못된 정보로 가득했다. 도메인을 추적하자 \"AI Website builder\"도 제공하는 웹사이트 제작 서비스 Spaceship이 나왔다."
-              },
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/nighthawks-wiki-1.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
-                "cap": "문제의 비공식 Nighthawks 위키. | 이미지 출처: Eurogamer / Nighthawks.wiki"
+                "x": "Roblox Corporation이 3D 에셋 사이트 Open3DLab의 의혹 제기를 사실로 확인했다. 자사 AI 에이전트 하나가 아트 에셋과 3D 모델 등 145.5 GB 분량의 콘텐츠를 내려받았고, 여기에는 자회사 사이트 Smutlab과 SFMLab에 올라온 성인 콘텐츠도 포함됐다는 내용이다. 대변인은 Roblox 연구원이 “공개된 3D 에셋을 수집”하려고 이 에이전트를 만들었으며, 에이전트가 “실수로” Open3DLab을 긁어 갔고 “의도대로 작동하지 않고 있었다”고 설명했다."
               },
               {
                 "t": "p",
-                "x": "Hooded Horse CEO Tim Bender는 퍼블리셔로서 AI-generated 사이트를 상대로 \"두더지 잡기(whack-a-mole)\"를 해야 했다고 말한다. 그는 \"[생성형 AI] 덕분에 사실상 상업적인 업체들이 줄줄이 대량 생산에 나서 게임 검색 엔진 결과를 뒤덮고 트래픽을 빨아들이려 한다\"고 말했다."
+                "x": "“해당 에이전트는 폐기했으며, 데이터는 어떤 AI 모델 학습을 포함해 어떤 목적으로도 쓰지 않았다. 이런 에이전트를 만들고 검토하는 방식의 안전장치를 강화하고 있으며, 에이전트 환경이 변해 가는 만큼 앞으로도 계속 강화하겠다.”"
               },
               {
                 "t": "p",
-                "x": "독립 위키도 AI 스크래퍼에 시달린다. Dune: Awakening Community Wiki는 30일 동안 AI 크롤러로부터 7m 건의 요청을 받았고, 그중 5m 건이 Meta에서 왔다. Independent Game Wiki Network의 FlamingMojo는 서버 비용이 세 배에서 열 배까지 늘었다고 말한다."
+                "x": "Open3DLab 관리자 Salaryman에 따르면 이 크롤러는 “712개 프로젝트에서 1,027개 파일”을 내려받았고, 그중 117.4 GB가 성인 콘텐츠였다. 크롤러는 robots.txt와 이용약관(Terms of Service)을 무시했고, 10월 18일 차단된 뒤 10월 19일 다시 작동했다. 그는 크롤러를 만든 사람으로 Roblox의 생성형 AI 시스템 Cube의 바탕이 된 논문을 공동 집필한 Roblox 연구원을 지목했다."
               },
               {
                 "t": "p",
-                "x": "\"AI 오염에서 살아남는 길은 커뮤니티다.\" FlamingMojo의 말이다."
+                "x": "Salaryman은 “모델은 배운 것을 재현한다”며, 성인 학습 데이터가 Roblox용 에셋을 생성하는 모델에 들어가면 그 데이터와 아이들 사이에는 필터 하나만 남는다고 경고했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "誤りだらけのAIゲームウィキ\n本物のファンを押しのける",
-          "body": "誤りだらけのLLM-poweredゲームウィキが広がり、ファンを脇へ追いやっている。",
-          "mini_headline": "AIゲームウィキがファンを押しのける",
+          "headline": "RobloxのAI学習に\nOpen3DLab成人物なし",
+          "body": "RobloxはOpen3DLabの3D収集をAIの誤作動とし、成人向けは学習不使用とした。",
+          "mini_headline": "Roblox、AIデータに成人向けなし",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/gamedb-wiki-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "画像クレジット: Eurogamer / GameDB"
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt05086ee04717e6e7/6ae2082619e29ebc009130b6/robloxphonefeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+                "cap": "画像：Photo Agency via Adobe Stock"
               },
               {
                 "t": "p",
-                "x": "Nighthawksの情報を探していたEurogamerの記者がたどり着いた「Nighthawks Wiki」は、まったくウィキではなく、存在しない仲間やスキルを並べるなど誤情報だらけだった。そのドメインをたどると、「AI Website builder」も提供するウェブサイト作成サービスSpaceshipに行き着いた。"
-              },
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/nighthawks-wiki-1.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
-                "cap": "問題の非公式Nighthawksウィキ。 | 画像クレジット: Eurogamer / Nighthawks.wiki"
+                "x": "Roblox Corporationは、3Dアセットサイト Open3DLabの指摘を認めた。同社のAIエージェントの一つが、アート素材や3Dモデルなど145.5 GB 分のコンテンツをダウンロードし、その中には子会社サイトのSmutlabとSFMLabに掲載された成人向けコンテンツも含まれていたというものだ。広報担当者によれば、Roblox の研究者が「公開されている3Dアセットを収集する」ためにこのエージェントを作ったが、「誤って」Open3DLabをスクレイピングし、「意図どおりに動作していなかった」という。"
               },
               {
                 "t": "p",
-                "x": "Hooded Horse CEOのTim Benderは、パブリッシャーとしてAI-generatedサイトを相手に「もぐら叩き(whack-a-mole)」を強いられてきたと語る。「[生成AI]によって、基本的に商業目的の事業者が次々と大量生産を行い、ゲームの検索エンジン結果を埋め尽くしてトラフィックを吸い上げようとしている」と彼は言う。"
+                "x": "「当該エージェントは停止・廃止し、データはいかなるAIモデルの学習を含め、いかなる目的にも使用していない。この種のエージェントの構築と審査に関する安全策を強化しており、エージェントを取り巻く環境の変化に合わせて今後も強化を続ける」"
               },
               {
                 "t": "p",
-                "x": "独立系ウィキもAIスクレイパーに直面している。Dune: Awakening Community Wikiは30日間でAIクローラーから7m 件のリクエストを受け、そのうち5m 件がMetaからだった。Independent Game Wiki NetworkのFlamingMojoによると、サーバー費用は三倍から十倍に増えたという。"
+                "x": "Open3DLab管理者のSalarymanによると、クローラーは「712件のプロジェクトから1,027件のファイル」をダウンロードし、そのうち117.4 GB が成人向けコンテンツだった。robots.txtと利用規約(Terms of Service)を無視し、10月18日にブロックされた後、10月19日に再開したという。彼は作成者を、Robloxの生成AIシステムCubeの基になった論文の共著者であるRobloxの研究者だと特定した。"
               },
               {
                 "t": "p",
-                "x": "「AI汚染を生き延びる道はコミュニティだ」とFlamingMojoは言う。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "错误百出的AI游戏维基\n正把真正的粉丝挤到一边",
-          "body": "错误百出的LLM-powered游戏维基泛滥，排挤粉丝，让发行商疲于打地鼠。",
-          "mini_headline": "AI游戏维基挤走粉丝",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/gamedb-wiki-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "图片来源：Eurogamer / GameDB"
-              },
-              {
-                "t": "p",
-                "x": "Eurogamer的作者在搜索Nighthawks相关信息时，进入了一个“Nighthawks Wiki”，它根本不是维基，而且充斥着虚假信息，比如列出并不存在的同伴和技能。其域名追溯到一家名为Spaceship的建站服务，该服务还提供“AI Website builder”。"
-              },
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/nighthawks-wiki-1.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
-                "cap": "涉事的非官方Nighthawks维基。| 图片来源：Eurogamer / Nighthawks.wiki"
-              },
-              {
-                "t": "p",
-                "x": "Hooded Horse CEO Tim Bender表示，这家发行商不得不与AI-generated网站玩“打地鼠（whack-a-mole）”。他说：“[生成式AI]让一批基本属于商业性质的企业得以批量生产内容，试图淹没游戏的搜索引擎结果，以吸走其流量。”"
-              },
-              {
-                "t": "p",
-                "x": "独立维基也面临AI爬虫：Dune: Awakening Community Wiki在30天内收到来自AI爬虫的7m 次请求，其中5m 次来自Meta。Independent Game Wiki Network的FlamingMojo表示，服务器成本增加了三到十倍。"
-              },
-              {
-                "t": "p",
-                "x": "“我们靠社区在AI污染中生存下来。”FlamingMojo说。"
+                "x": "「モデルは学んだものを再現する」とSalarymanは述べ、成人向けの学習データがRoblox向けアセットを生成するモデルに入れば、そのデータと子どもたちの間にはフィルター一枚しか残らないと警告した。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Wikis de AI llenas de errores\ndesplazan a los verdaderos fans",
-          "body": "Las wikis de juegos LLM-powered y llenas de errores se imponen, relegan a los fans y desbordan a las editoras.",
-          "mini_headline": "Las wikis de AI desplazan a los fans",
+          "headline": "Roblox: sin contenido adulto de\nOpen3DLab en su entrenamiento AI",
+          "body": "Roblox dice que un agente AI falló al extraer archivos 3D de Open3DLab y que no entrenó su AI con contenido adulto.",
+          "mini_headline": "Roblox: sin contenido adulto en sus datos AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/gamedb-wiki-header.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-                "cap": "Crédito de la imagen: Eurogamer / GameDB"
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt05086ee04717e6e7/6ae2082619e29ebc009130b6/robloxphonefeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+                "cap": "Imagen de Photo Agency via Adobe Stock"
               },
               {
                 "t": "p",
-                "x": "Al buscar información sobre Nighthawks, el redactor de Eurogamer llegó a una \"Nighthawks Wiki\" que no era una wiki en absoluto y estaba llena de información falsa, como compañeros y habilidades que no existen. Su dominio remitía a un servicio de creación de sitios web llamado Spaceship, que también ofrece un \"AI Website builder\"."
+                "x": "Roblox Corporation ha confirmado las acusaciones del sitio de recursos 3D Open3DLab de que uno de sus agentes AI descargó 145.5 GB de contenido como recursos artísticos y modelos 3D, incluido contenido adulto alojado en los sitios subsidiarios Smutlab y SFMLab. Un portavoz dijo que un investigador de Roblox creó el agente para “recopilar recursos 3D disponibles públicamente”; el agente rastreó Open3DLab “por error” y “no estaba funcionando como se pretendía”."
               },
+              {
+                "t": "p",
+                "x": "“El agente fue desactivado y los datos no se usaron para ningún fin, incluido el entrenamiento de cualquier modelo AI. Estamos reforzando las salvaguardas sobre cómo se crean y revisan agentes como este, y seguiremos haciéndolo a medida que evolucione el panorama de los agentes”."
+              },
+              {
+                "t": "p",
+                "x": "Según el administrador de Open3DLab, Salaryman, el rastreador descargó “1,027 archivos de 712 proyectos”, 117.4 GB de ellos de contenido adulto, ignoró robots.txt y los Terms of Service, y se reanudó el 19 de octubre tras ser bloqueado el 18 de octubre. Identificó a su creador como un investigador de Roblox coautor del artículo en el que se basa Cube, el sistema de AI generativa de Roblox."
+              },
+              {
+                "t": "p",
+                "x": "“Los modelos reproducen aquello de lo que aprenden”, dijo Salaryman, y advirtió que, si datos de entrenamiento adultos llegaran a un modelo que genera recursos para Roblox, solo quedaría un filtro entre esos datos y los niños."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Roblox：AI训练未用\nOpen3DLab成人内容",
+          "body": "Roblox称AI代理抓取Open3DLab的3D文件时出错，其AI训练未使用成人内容。",
+          "mini_headline": "Roblox：AI数据无成人内容",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/nighthawks-wiki-1.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp",
-                "cap": "La wiki no oficial de Nighthawks en cuestión. | Crédito de la imagen: Eurogamer / Nighthawks.wiki"
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt05086ee04717e6e7/6ae2082619e29ebc009130b6/robloxphonefeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+                "cap": "Image by Photo Agency via Adobe Stock"
               },
               {
                 "t": "p",
-                "x": "Tim Bender, CEO de Hooded Horse, dice que la editora ha tenido que \"jugar al whack-a-mole\" con sitios AI-generated. \"[La AI generativa] permite que una serie de empresas básicamente comerciales produzcan en masa e intenten inundar los resultados de los buscadores sobre los juegos para absorber su tráfico\", afirma."
+                "x": "Roblox Corporation证实了3D素材网站Open3DLab的指控：其旗下一个AI代理下载了145.5 GB的内容，包括美术素材和3D模型，其中有托管于子站点Smutlab和SFMLab的成人内容。一位发言人表示，一名Roblox研究人员构建该代理是为了“收集公开可用的3D素材”；它“错误地”抓取了Open3DLab，且“未能按预期运行”。"
               },
               {
                 "t": "p",
-                "x": "Las wikis independientes también se enfrentan a los scrapers de AI: la Dune: Awakening Community Wiki recibió 7m de solicitudes en 30 días de rastreadores de AI, 5m de ellas de Meta. FlamingMojo, de la Independent Game Wiki Network, afirma que los costes de servidor se han multiplicado entre tres y diez veces."
+                "x": "“该代理已停用，数据未被用于任何用途，包括训练任何AI模型。我们正在加强此类代理在构建与审查方面的保障措施，并将随着智能体领域的发展持续这样做。”"
               },
               {
                 "t": "p",
-                "x": "\"La forma en que sobrevivimos a la contaminación de la AI es con la comunidad\", dice FlamingMojo."
+                "x": "据Open3DLab管理员Salaryman称，该爬虫下载了“来自712个项目的1,027个文件”，其中117.4 GB为成人内容，无视robots.txt和服务条款（Terms of Service），并在10月18日被封锁后于10月19日恢复运行。他指出其创建者是一名Roblox研究人员，曾参与撰写Roblox生成式AI系统Cube背后的论文。"
+              },
+              {
+                "t": "p",
+                "x": "Salaryman说：“模型会复现它们所学的内容。”他警告称，如果成人训练数据进入为Roblox生成素材的模型，那么这些数据与儿童之间将只剩下一道过滤器。"
               }
             ]
           }
@@ -1079,321 +959,561 @@
       }
     },
     {
-      "id": "molyneux",
-      "source_lang": "en",
+      "id": "nexonnpc",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Molyneux, 이제\nAI 없는 코딩 거의 불가",
-      "body": "Peter Molyneux는 이제 AI 없이 코딩하기란 거의 불가능하다고 말했다.",
-      "mini_headline": "Molyneux, AI 없는 코딩 거의 불가",
+      "headline": "이용자 행동 기억하는\n넥슨 AI NPC 엔진",
+      "body": "넥슨이 이용자 행동을 실시간 기억해 NPC가 반응하는 AI 엔진을 공개했다.",
+      "mini_headline": "넥슨, 기억하는 AI NPC",
       "tool": "Games",
-      "source": "PC Gamer",
-      "url": "https://www.pcgamer.com/games/strategy/peter-molyneux-speaks-candidly-about-ai-we-as-the-industry-are-pretending-were-not-using-ai-but-the-reality-is-its-almost-impossible-to-code-now-without-using-ai/",
+      "source": "아이뉴스24",
+      "url": "https://www.inews24.com/view/2019597",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
+            "t": "p",
+            "x": "넥슨이 이용자의 게임 내 행동을 실시간으로 기억하는 인공지능(AI) 엔진을 공개했다. 이용자의 플레이 기록을 하나의 기억으로 연결해 게임 속 비플레이어 캐릭터(NPC)가 과거 행동에 맞춰 반응하도록 만드는 기술이다. 기억 데이터를 처리하는 데이터베이스(DB)도 자체 개발해 비용 효율성을 높였다."
+          },
+          {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/cCbNLBoom6H44tX6QPEMwa-1920-80.jpg",
-            "cap": "(이미지 출처: Getty Images)"
+            "src": "https://image.inews24.com/v1/9c333440cef95f.jpg",
+            "cap": "정윤호 넥슨 AI본부 선행데이터기술팀 엔지니어가 27일 열린 'Games on AWS 2026'에서 AI 기억 엔진 '라이브 메모리(Live Memory)'에 설명하고 있다. [사진=곽민구 기자]"
           },
           {
             "t": "p",
-            "x": "PC Gamer는 Guildford에서 Populous, Theme Park, Dungeon Keeper, Black & White, Fable을 만든 개발자 Peter Molyneux를 만나 비디오 게임 업계의 AI 활용을 물었다."
+            "x": "정윤호·배승종 넥슨 AI본부 선행데이터기술팀 엔지니어는 27일 열린 '게임온(Games on) AWS 2026'에서 AI 기억 엔진 '라이브 메모리'와 자체 그래프 DB '패스트그래프'의 개발 성과를 소개했다."
           },
           {
             "t": "p",
-            "x": "그는 ChatGPT와 Gemini 때문에 사람들 머릿속에 \"AI는 곧 AI slop\"이라는 인식이 박혔다며, Steam의 AI 항목에 체크하면 \"즉시 [게이머의] 12%가 떠난다\"고 했다. \"우리 업계는 AI를 쓰지 않는 척하지만, 현실은 이제 AI 없이 코딩하는 건 거의 불가능하다는 것이다. 거의 불가능하다.\""
+            "x": "라이브 메모리는 아이템 강화와 장착, 파티 가입, 던전 입장, 보스 처치 등 이용자의 행동 기록을 연결해 하나의 기억으로 구성하는 시스템이다. 이를 활용하면 AI NPC가 이용자의 과거 경험에 맞춰 반응할 수 있다."
           },
           {
             "t": "p",
-            "x": "그가 보기에 AI는 스튜디오에 \"창의성 측면에서 가장 큰 진전\"이다. 콘셉트 작업은 오 분이면 끝나고, 땅에서 솟아오르는 완전히 리깅된 캐릭터의 프로토타입도 \"몇 달이 아니라 하루면 다 된다\"고 한다."
+            "x": "예를 들어 이용자가 대장간에서 무기를 강화한 뒤 해당 무기로 보스를 처치하고 돌아온다면 NPC가 \"내가 어제 강화시켜 준 무기로 보스를 물리치고 왔구먼. 자랑스럽네\"라고 반응한다. 같은 무기를 반복해서 강화한 이용자에게는 \"이미 13번이나 강화한 무기일세. 이제 그만해도 되지 않겠나?\"라고 말한다."
           },
           {
             "t": "p",
-            "x": "\"AI가 게임의 최종 품질에 맞는 에셋 제작을 믿고 맡길 만큼 강력하다고는 아직 생각하지 않는다. 하지만 Rob, 그렇게 될 것이다.\" 그는 일 년 안에 AI가 Unity와 Unreal 같은 미들웨어에 깊이 박혀 떼어내기 매우 어려워지리라 내다본다."
+            "x": "정 엔지니어는 \"살아있는 것처럼 느껴지는 AI NPC라면 이용자가 방금 행동한 행동마저도 인지하고 그에 맞는 판단과 행동을 해야 한다\"고 강조했다."
+          },
+          {
+            "t": "p",
+            "x": "넥슨은 이러한 기능을 구현하기 위해 이용자의 행동 기록을 그래프 구조로 변환하는 방식을 채택했다. 개별 행동을 단순히 저장하는 대신 시간과 장소, 사건 간 관계를 연결하는 것이다."
+          },
+          {
+            "t": "p",
+            "x": "대규모 언어모델(LLM)을 매번 호출하지 않고 사전에 정의한 규칙을 활용해 처리 비용과 정보 손실을 줄이도록 설계했다. 특히 기억 데이터를 효율적으로 저장하기 위해 그래프 DB 패스트그래프를 자체 개발했다."
+          },
+          {
+            "t": "p",
+            "x": "넥슨은 기존 상용 그래프 DB로 이용자 100만 명의 기억 데이터를 저장할 경우 약 430TB의 메모리, 연간 운영비 412억원이 필요하다고 추산했다. 반면 패스트그래프는 데이터 압축과 저장 구조 최적화를 통해 메모리 사용량을 8.2TB로 줄였으며, 연간 예상 운영비는 약 8억3000만원으로 나타났다."
+          },
+          {
+            "t": "p",
+            "x": "배승종 엔지니어는 \"실제 넥슨 게임 데이터를 활용한 쓰기 성능 시험에서도 기존 제품보다 2.7배 빨랐다\"며 \"많은 이용자의 기억 데이터를 적은 비용으로 빠르게 처리할 수 있게 됐다\"고 설명했다."
+          },
+          {
+            "t": "p",
+            "x": "넥슨은 향후 이용자의 행동뿐 아니라 대화와 감정까지 기억하는 AI NPC를 구현한다는 목표다. 배 엔지니어는 \"다음 목표는 나를 기억하는 AI NPC\"라며 \"이용자와 더 생동감 있게 소통할 수 있는 NPC를 만들겠다\"고 밝혔다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Molyneux: coding without AI\nis now almost impossible",
-          "body": "Peter Molyneux says the industry pretends it isn't using AI, but that coding without it is now almost impossible.",
-          "mini_headline": "Molyneux: no coding\nwithout AI now",
+        "ko": {
+          "headline": "이용자 행동 기억하는\n넥슨 AI NPC 엔진",
+          "body": "넥슨이 이용자 행동을 실시간 기억해 NPC가 반응하는 AI 엔진을 공개했다.",
+          "mini_headline": "넥슨, 기억하는 AI NPC",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "넥슨이 이용자의 게임 내 행동을 실시간으로 기억하는 인공지능(AI) 엔진을 공개했다. 이용자의 플레이 기록을 하나의 기억으로 연결해 게임 속 비플레이어 캐릭터(NPC)가 과거 행동에 맞춰 반응하도록 만드는 기술이다. 기억 데이터를 처리하는 데이터베이스(DB)도 자체 개발해 비용 효율성을 높였다."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/cCbNLBoom6H44tX6QPEMwa-1920-80.jpg",
-                "cap": "(Image credit: Getty Images)"
+                "src": "https://image.inews24.com/v1/9c333440cef95f.jpg",
+                "cap": "정윤호 넥슨 AI본부 선행데이터기술팀 엔지니어가 27일 열린 'Games on AWS 2026'에서 AI 기억 엔진 '라이브 메모리(Live Memory)'에 설명하고 있다. [사진=곽민구 기자]"
               },
               {
                 "t": "p",
-                "x": "PC Gamer interviewed Peter Molyneux, the developer behind Populous, Theme Park, Dungeon Keeper, Black & White and Fable, in Guildford and asked about AI use in the video game industry."
+                "x": "정윤호·배승종 넥슨 AI본부 선행데이터기술팀 엔지니어는 27일 열린 '게임온(Games on) AWS 2026'에서 AI 기억 엔진 '라이브 메모리'와 자체 그래프 DB '패스트그래프'의 개발 성과를 소개했다."
               },
               {
                 "t": "p",
-                "x": "He blamed ChatGPT and Gemini for locking \"AI equals AI slop\" into people's minds, and said ticking Steam's AI box means \"instantly 12% [of gamers are] gone.\" \"We as the industry are pretending we're not using AI, but the reality is, it's almost impossible to code now without using AI. Almost impossible.\""
+                "x": "라이브 메모리는 아이템 강화와 장착, 파티 가입, 던전 입장, 보스 처치 등 이용자의 행동 기록을 연결해 하나의 기억으로 구성하는 시스템이다. 이를 활용하면 AI NPC가 이용자의 과거 경험에 맞춰 반응할 수 있다."
               },
               {
                 "t": "p",
-                "x": "He called AI \"the biggest step forward in creativity\" for studios: concepting work can be done in five minutes, and prototyping a fully rigged character rising from the ground is \"all done in a day, not months.\""
+                "x": "예를 들어 이용자가 대장간에서 무기를 강화한 뒤 해당 무기로 보스를 처치하고 돌아온다면 NPC가 \"내가 어제 강화시켜 준 무기로 보스를 물리치고 왔구먼. 자랑스럽네\"라고 반응한다. 같은 무기를 반복해서 강화한 이용자에게는 \"이미 13번이나 강화한 무기일세. 이제 그만해도 되지 않겠나?\"라고 말한다."
               },
               {
                 "t": "p",
-                "x": "\"I don't think AI is powerful enough yet to trust it to produce the assets for the final quality of the game. But Rob, it will be.\" Within a year, he predicts AI will be so bound to middleware like Unity and Unreal that it will be very hard to extract."
+                "x": "정 엔지니어는 \"살아있는 것처럼 느껴지는 AI NPC라면 이용자가 방금 행동한 행동마저도 인지하고 그에 맞는 판단과 행동을 해야 한다\"고 강조했다."
+              },
+              {
+                "t": "p",
+                "x": "넥슨은 이러한 기능을 구현하기 위해 이용자의 행동 기록을 그래프 구조로 변환하는 방식을 채택했다. 개별 행동을 단순히 저장하는 대신 시간과 장소, 사건 간 관계를 연결하는 것이다."
+              },
+              {
+                "t": "p",
+                "x": "대규모 언어모델(LLM)을 매번 호출하지 않고 사전에 정의한 규칙을 활용해 처리 비용과 정보 손실을 줄이도록 설계했다. 특히 기억 데이터를 효율적으로 저장하기 위해 그래프 DB 패스트그래프를 자체 개발했다."
+              },
+              {
+                "t": "p",
+                "x": "넥슨은 기존 상용 그래프 DB로 이용자 100만 명의 기억 데이터를 저장할 경우 약 430TB의 메모리, 연간 운영비 412억원이 필요하다고 추산했다. 반면 패스트그래프는 데이터 압축과 저장 구조 최적화를 통해 메모리 사용량을 8.2TB로 줄였으며, 연간 예상 운영비는 약 8억3000만원으로 나타났다."
+              },
+              {
+                "t": "p",
+                "x": "배승종 엔지니어는 \"실제 넥슨 게임 데이터를 활용한 쓰기 성능 시험에서도 기존 제품보다 2.7배 빨랐다\"며 \"많은 이용자의 기억 데이터를 적은 비용으로 빠르게 처리할 수 있게 됐다\"고 설명했다."
+              },
+              {
+                "t": "p",
+                "x": "넥슨은 향후 이용자의 행동뿐 아니라 대화와 감정까지 기억하는 AI NPC를 구현한다는 목표다. 배 엔지니어는 \"다음 목표는 나를 기억하는 AI NPC\"라며 \"이용자와 더 생동감 있게 소통할 수 있는 NPC를 만들겠다\"고 밝혔다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Molyneux, 이제\nAI 없는 코딩 거의 불가",
-          "body": "Peter Molyneux는 이제 AI 없이 코딩하기란 거의 불가능하다고 말했다.",
-          "mini_headline": "Molyneux, AI 없는 코딩 거의 불가",
+        "en": {
+          "headline": "Nexon unveils AI NPC engine\nthat remembers player actions",
+          "body": "Nexon unveiled an AI engine that remembers player actions in real time so that each NPC can respond.",
+          "mini_headline": "Nexon's AI NPC that remembers",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Nexon has unveiled an artificial intelligence (AI) engine that remembers users' in-game actions in real time. The technology links a user's play history into a single memory so that non-player characters (NPC) in the game respond in line with past actions. Nexon also developed its own database (DB) to process the memory data, improving cost efficiency."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/cCbNLBoom6H44tX6QPEMwa-1920-80.jpg",
-                "cap": "(이미지 출처: Getty Images)"
+                "src": "https://image.inews24.com/v1/9c333440cef95f.jpg",
+                "cap": "Jung Yoon-ho, an engineer on the Advanced Data Technology Team of Nexon's AI Division, explains the AI memory engine 'Live Memory' at 'Games on AWS 2026' held on the 27th. [Photo=Reporter Kwak Min-gu]"
               },
               {
                 "t": "p",
-                "x": "PC Gamer는 Guildford에서 Populous, Theme Park, Dungeon Keeper, Black & White, Fable을 만든 개발자 Peter Molyneux를 만나 비디오 게임 업계의 AI 활용을 물었다."
+                "x": "Jung Yoon-ho and Bae Seung-jong, engineers on the Advanced Data Technology Team of Nexon's AI Division, presented the development results of the AI memory engine 'Live Memory' and the in-house graph DB 'FastGraph' at 'Games on AWS 2026' held on the 27th."
               },
               {
                 "t": "p",
-                "x": "그는 ChatGPT와 Gemini 때문에 사람들 머릿속에 \"AI는 곧 AI slop\"이라는 인식이 박혔다며, Steam의 AI 항목에 체크하면 \"즉시 [게이머의] 12%가 떠난다\"고 했다. \"우리 업계는 AI를 쓰지 않는 척하지만, 현실은 이제 AI 없이 코딩하는 건 거의 불가능하다는 것이다. 거의 불가능하다.\""
+                "x": "Live Memory is a system that links records of user actions, such as enhancing and equipping items, joining parties, entering dungeons and defeating bosses, into a single memory. With it, an AI NPC can respond in line with a user's past experiences."
               },
               {
                 "t": "p",
-                "x": "그가 보기에 AI는 스튜디오에 \"창의성 측면에서 가장 큰 진전\"이다. 콘셉트 작업은 오 분이면 끝나고, 땅에서 솟아오르는 완전히 리깅된 캐릭터의 프로토타입도 \"몇 달이 아니라 하루면 다 된다\"고 한다."
+                "x": "For example, if a user enhances a weapon at the blacksmith and then comes back after defeating a boss with it, the NPC responds, \"So you beat the boss with the weapon I enhanced for you yesterday. I'm proud of you.\" To a user who has enhanced the same weapon again and again, it says, \"You've already enhanced this weapon 13 times. Isn't that enough now?\""
               },
               {
                 "t": "p",
-                "x": "\"AI가 게임의 최종 품질에 맞는 에셋 제작을 믿고 맡길 만큼 강력하다고는 아직 생각하지 않는다. 하지만 Rob, 그렇게 될 것이다.\" 그는 일 년 안에 AI가 Unity와 Unreal 같은 미들웨어에 깊이 박혀 떼어내기 매우 어려워지리라 내다본다."
+                "x": "Engineer Jung stressed that \"an AI NPC that feels alive has to recognize even the action a user has just taken, and judge and act accordingly.\""
+              },
+              {
+                "t": "p",
+                "x": "To implement these features, Nexon chose to convert users' action records into a graph structure. Rather than simply storing individual actions, it connects the relationships between time, place and events."
+              },
+              {
+                "t": "p",
+                "x": "The system is designed to reduce processing costs and information loss by using predefined rules instead of calling a large language model (LLM) every time. In particular, Nexon developed its own graph DB, FastGraph, to store memory data efficiently."
+              },
+              {
+                "t": "p",
+                "x": "Nexon estimated that storing memory data for one million (100만) users on an existing commercial graph DB would require about 430TB of memory and annual operating costs of 412억원. FastGraph, by contrast, cut memory usage to 8.2TB through data compression and storage-structure optimization, with estimated annual operating costs of about 8억3000만원."
+              },
+              {
+                "t": "p",
+                "x": "Engineer Bae Seung-jong explained, \"In write-performance tests using real Nexon game data, it was 2.7 times faster than existing products,\" adding, \"We can now process the memory data of many users quickly and at low cost.\""
+              },
+              {
+                "t": "p",
+                "x": "Nexon aims to build AI NPCs that remember not only users' actions but also their conversations and emotions. \"Our next goal is an AI NPC that remembers me,\" Bae said, adding, \"We will create NPCs that can communicate with users in a more lively way.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "Molyneux、AIなしの\nコーディングはほぼ無理",
-          "body": "Molyneuxは、業界はAI不使用を装うが、AIなしのコーディングはほぼ不可能だと語る。",
-          "mini_headline": "Molyneux、AIなしのコーディングはほぼ無理",
+          "headline": "利用者の行動を覚える\nネクソンAI NPCエンジン",
+          "body": "ネクソンは利用者の行動をリアルタイムで記憶し、NPCが反応するAIエンジンを公開した。",
+          "mini_headline": "ネクソン、記憶するAI NPC",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "ネクソンが、利用者のゲーム内行動をリアルタイムで記憶する人工知能(AI)エンジンを公開した。利用者のプレイ記録を一つの記憶としてつなぎ、ゲーム内のノンプレイヤーキャラクター(NPC)が過去の行動に合わせて反応するようにする技術だ。記憶データを処理するデータベース(DB)も自社開発し、コスト効率を高めた。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/cCbNLBoom6H44tX6QPEMwa-1920-80.jpg",
-                "cap": "(画像クレジット: Getty Images)"
+                "src": "https://image.inews24.com/v1/9c333440cef95f.jpg",
+                "cap": "27日に開かれた「Games on AWS 2026」で、AI記憶エンジン「ライブメモリー(Live Memory)」について説明するネクソンAI本部先行データ技術チームのチョン・ユンホ エンジニア。[写真=クァク・ミング記者]"
               },
               {
                 "t": "p",
-                "x": "PC Gamerは、Populous、Theme Park、Dungeon Keeper、Black & White、Fableを手がけた開発者Peter MolyneuxにGuildfordでインタビューし、ビデオゲーム業界でのAI利用について尋ねた。"
+                "x": "ネクソンAI本部先行データ技術チームのチョン・ユンホ、ペ・スンジョン両エンジニアは、27日に開かれた「ゲームオン(Games on) AWS 2026」で、AI記憶エンジン「ライブメモリー」と自社グラフDB「ファストグラフ」の開発成果を紹介した。"
               },
               {
                 "t": "p",
-                "x": "彼はChatGPTとGeminiのせいで「AIイコールAI slop」という図式が人々の頭に刷り込まれたと非難し、SteamのAI項目にチェックを入れれば「即座に[ゲーマーの]12%が去る」と述べた。「私たち業界はAIを使っていないふりをしているが、現実には今やAIを使わずにコーディングするのはほぼ不可能だ。ほぼ不可能なんだ」"
+                "x": "ライブメモリーは、アイテムの強化や装備、パーティー加入、ダンジョン入場、ボス討伐といった利用者の行動記録をつなぎ、一つの記憶として構成するシステムだ。これを使えば、AI NPCが利用者の過去の経験に合わせて反応できる。"
               },
               {
                 "t": "p",
-                "x": "彼はAIをスタジオにとって「創造性における最大の前進」と呼んだ。コンセプト作業は五分で済み、地面から立ち上がるフルリグのキャラクターのプロトタイプも「数カ月ではなく一日ですべて終わる」という。"
+                "x": "たとえば利用者が鍛冶屋で武器を強化し、その武器でボスを倒して戻ってくると、NPCは「わしが昨日強化してやった武器でボスを倒してきたのか。誇らしいのう」と反応する。同じ武器を繰り返し強化する利用者には「もう13回も強化した武器じゃ。そろそろやめてもよいのではないか？」と語りかける。"
               },
               {
                 "t": "p",
-                "x": "「AIは、ゲームの最終品質に見合うアセットの制作を任せられるほどにはまだ強力ではないと思う。でもRob、いずれそうなる」。一年以内に、AIはUnityやUnrealといったミドルウェアと深く結びつき、切り離すのが非常に難しくなると彼は予測する。"
+                "x": "チョン氏は「生きているように感じられるAI NPCであれば、利用者がたった今取った行動まで認識し、それに合った判断と行動をしなければならない」と強調した。"
+              },
+              {
+                "t": "p",
+                "x": "ネクソンはこうした機能を実現するため、利用者の行動記録をグラフ構造に変換する方式を採用した。個々の行動を単に保存するのではなく、時間や場所、出来事同士の関係をつなぐというものだ。"
+              },
+              {
+                "t": "p",
+                "x": "大規模言語モデル(LLM)を毎回呼び出さず、あらかじめ定義したルールを活用することで、処理コストと情報の損失を減らすよう設計した。特に記憶データを効率よく保存するため、グラフDBのファストグラフを自社開発した。"
+              },
+              {
+                "t": "p",
+                "x": "ネクソンは、既存の商用グラフDBで利用者100万人分の記憶データを保存する場合、約430TB のメモリと年間412억원(412億ウォン)の運用費が必要になると試算した。一方ファストグラフは、データ圧縮と保存構造の最適化によってメモリ使用量を8.2TB に抑え、年間の想定運用費は約8억3000만원(8億3000万ウォン)となった。"
+              },
+              {
+                "t": "p",
+                "x": "ペ・スンジョン エンジニアは「実際のネクソンのゲームデータを使った書き込み性能テストでも、既存製品より2.7倍速かった」とし、「多くの利用者の記憶データを低コストで素早く処理できるようになった」と説明した。"
+              },
+              {
+                "t": "p",
+                "x": "ネクソンは今後、利用者の行動だけでなく会話や感情まで記憶するAI NPCの実現を目指す。ペ氏は「次の目標は私を覚えているAI NPCだ」とし、「利用者ともっと生き生きと交流できるNPCをつくる」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Molyneux：没有AI\n如今几乎无法写代码",
-          "body": "Peter Molyneux称，业界假装没在用AI，但如今不用AI几乎无法写代码。",
-          "mini_headline": "Molyneux：没有AI几乎写不了代码",
+          "headline": "记住玩家行为的\nNexon AI NPC引擎",
+          "body": "Nexon公开一款AI引擎，可实时记住用户行为，让NPC据此作出反应。",
+          "mini_headline": "Nexon推出会记忆的AI NPC",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Nexon公开了一款可实时记住用户游戏内行为的人工智能（AI）引擎。该技术把用户的游戏记录串联成一段记忆，让游戏中的非玩家角色（NPC）根据用户过去的行为作出反应。Nexon还自主开发了处理记忆数据的数据库（DB），提升了成本效率。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/cCbNLBoom6H44tX6QPEMwa-1920-80.jpg",
-                "cap": "(图片来源：Getty Images)"
+                "src": "https://image.inews24.com/v1/9c333440cef95f.jpg",
+                "cap": "Nexon AI本部先行数据技术组工程师Jung Yoon-ho在27日举行的“Games on AWS 2026”上介绍AI记忆引擎“Live Memory”。[摄影=记者Kwak Min-gu]"
               },
               {
                 "t": "p",
-                "x": "PC Gamer在Guildford采访了Populous、Theme Park、Dungeon Keeper、Black & White和Fable的开发者Peter Molyneux，并询问了他对电子游戏行业使用AI的看法。"
+                "x": "Nexon AI本部先行数据技术组工程师Jung Yoon-ho和Bae Seung-jong在27日举行的“Games on AWS 2026”上，介绍了AI记忆引擎“Live Memory”和自研图数据库“FastGraph”的开发成果。"
               },
               {
                 "t": "p",
-                "x": "他指责ChatGPT和Gemini让“AI等于AI slop”的观念深入人心，并表示在Steam上勾选AI选项意味着“立刻就有12%[的玩家]流失”。“我们整个行业都在假装没有使用AI，但现实是，如今不用AI几乎不可能写代码。几乎不可能。”"
+                "x": "Live Memory是一套把强化与装备道具、加入队伍、进入地下城、击败首领等用户行为记录串联起来、构成一段记忆的系统。借助它，AI NPC可以根据用户过去的经历作出反应。"
               },
               {
                 "t": "p",
-                "x": "他称AI是工作室“在创造力上最大的一步飞跃”：概念设计五分钟就能完成，而为一个从地面升起、完整绑定骨骼的角色制作原型，“一天就全部搞定，而不是几个月”。"
+                "x": "例如，用户在铁匠铺强化武器后，用这把武器击败首领归来，NPC会说：“你用我昨天帮你强化的武器打败了首领啊。真让人骄傲。”对反复强化同一把武器的用户，NPC则会说：“这把武器已经强化过13次了。现在是不是该停手了？”"
               },
               {
                 "t": "p",
-                "x": "“我认为AI还没有强大到可以放心让它制作达到游戏最终品质的素材。但是Rob，它会的。”他预测，一年之内，AI将与Unity和Unreal等中间件深度绑定，到时将很难剥离。"
+                "x": "Jung强调：“一个让人感觉像活着的AI NPC，必须连用户刚刚做出的行为都能察觉，并据此作出相应的判断和行动。”"
+              },
+              {
+                "t": "p",
+                "x": "为实现这些功能，Nexon采用了把用户行为记录转换为图结构的方式。它不是简单地存储单个行为，而是把时间、地点和事件之间的关系连接起来。"
+              },
+              {
+                "t": "p",
+                "x": "系统不必每次都调用大语言模型（LLM），而是利用预先定义的规则，以降低处理成本和信息损失。尤其是为了高效存储记忆数据，Nexon自主开发了图数据库FastGraph。"
+              },
+              {
+                "t": "p",
+                "x": "Nexon估算，若用现有商用图数据库存储100万名用户的记忆数据，需要约430TB 内存，每年运营费用为412억원（412亿韩元）。相比之下，FastGraph通过数据压缩和存储结构优化，把内存用量降到8.2TB ，预计每年运营费用约为8억3000만원（8亿3000万韩元）。"
+              },
+              {
+                "t": "p",
+                "x": "Bae Seung-jong表示：“在使用Nexon真实游戏数据进行的写入性能测试中，它也比现有产品快2.7倍。”他还说：“现在能以较低成本快速处理大量用户的记忆数据了。”"
+              },
+              {
+                "t": "p",
+                "x": "Nexon的目标是今后打造不仅能记住用户行为、还能记住对话和情感的AI NPC。Bae说：“下一个目标是记得我的AI NPC。”并表示“将打造能与用户更生动地交流的NPC”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Molyneux: programar sin AI\nya es casi imposible",
-          "body": "Peter Molyneux dice que la industria finge no usar AI, pero que programar sin ella ya es casi imposible.",
-          "mini_headline": "Molyneux: ya casi no se programa sin AI",
+          "headline": "Nexon presenta un motor de NPC\ncon AI que recuerda al jugador",
+          "body": "Nexon presentó un motor AI que recuerda en tiempo real las acciones del usuario para que cada NPC reaccione a ellas.",
+          "mini_headline": "Nexon y su AI NPC con memoria",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Nexon ha presentado un motor de inteligencia artificial (AI) que recuerda en tiempo real las acciones de los usuarios dentro del juego. La tecnología enlaza el historial de juego del usuario en una sola memoria para que los personajes no jugadores (NPC) reaccionen según sus acciones pasadas. Nexon también desarrolló su propia base de datos (DB) para procesar los datos de memoria, lo que mejoró la eficiencia de costes."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/cCbNLBoom6H44tX6QPEMwa-1920-80.jpg",
-                "cap": "(Crédito de la imagen: Getty Images)"
+                "src": "https://image.inews24.com/v1/9c333440cef95f.jpg",
+                "cap": "Jung Yoon-ho, ingeniero del Equipo de Tecnología de Datos Avanzada de la División de AI de Nexon, explica el motor de memoria AI 'Live Memory' en 'Games on AWS 2026', celebrado el día 27. [Foto=periodista Kwak Min-gu]"
               },
               {
                 "t": "p",
-                "x": "PC Gamer entrevistó en Guildford a Peter Molyneux, el desarrollador detrás de Populous, Theme Park, Dungeon Keeper, Black & White y Fable, y le preguntó por el uso de la AI en la industria del videojuego."
+                "x": "Jung Yoon-ho y Bae Seung-jong, ingenieros del Equipo de Tecnología de Datos Avanzada de la División de AI de Nexon, presentaron los resultados del desarrollo del motor de memoria AI 'Live Memory' y de la base de datos de grafos propia 'FastGraph' en 'Games on AWS 2026', celebrado el día 27."
               },
               {
                 "t": "p",
-                "x": "Culpó a ChatGPT y Gemini de haber grabado en la mente de la gente la idea de que \"AI equivale a AI slop\", y dijo que marcar la casilla de AI de Steam significa que \"al instante se va el 12% [de los jugadores]\". \"Como industria fingimos que no usamos AI, pero la realidad es que ahora es casi imposible programar sin usar AI. Casi imposible\"."
+                "x": "Live Memory es un sistema que enlaza los registros de acciones del usuario, como mejorar y equipar objetos, unirse a un grupo, entrar en mazmorras o derrotar jefes, y los organiza en una sola memoria. Con él, un AI NPC puede reaccionar según las experiencias pasadas del usuario."
               },
               {
                 "t": "p",
-                "x": "Calificó la AI como \"el mayor paso adelante en creatividad\" para los estudios: el trabajo de concepto puede hacerse en cinco minutos, y el prototipo de un personaje totalmente riggeado que se levanta del suelo está \"listo en un día, no en meses\"."
+                "x": "Por ejemplo, si un usuario mejora un arma en la herrería y vuelve tras derrotar a un jefe con ella, el NPC reacciona: “Has vencido al jefe con el arma que te mejoré ayer. Estoy orgulloso”. A un usuario que mejora la misma arma una y otra vez, le dice: “Ya has mejorado esta arma 13 veces. ¿No crees que ya es suficiente?”."
               },
               {
                 "t": "p",
-                "x": "\"No creo que la AI sea todavía lo bastante potente como para confiarle la producción de los recursos con la calidad final del juego. Pero, Rob, lo será\". Predice que en un año la AI estará tan ligada a middleware como Unity y Unreal que será muy difícil extraerla."
+                "x": "El ingeniero Jung subrayó que “un AI NPC que se sienta vivo debe percibir incluso la acción que el usuario acaba de realizar, y juzgar y actuar en consecuencia”."
+              },
+              {
+                "t": "p",
+                "x": "Para lograr estas funciones, Nexon optó por convertir los registros de acciones de los usuarios en una estructura de grafo. En lugar de limitarse a almacenar acciones sueltas, conecta las relaciones entre tiempo, lugar y sucesos."
+              },
+              {
+                "t": "p",
+                "x": "El sistema está diseñado para reducir el coste de procesamiento y la pérdida de información mediante reglas predefinidas, sin llamar cada vez a un gran modelo de lenguaje (LLM). En particular, Nexon desarrolló su propia DB de grafos, FastGraph, para almacenar los datos de memoria de forma eficiente."
+              },
+              {
+                "t": "p",
+                "x": "Nexon calculó que almacenar los datos de memoria de un millón (100만) de usuarios en una DB de grafos comercial existente requeriría unos 430TB de memoria y un coste operativo anual de 412억원. FastGraph, en cambio, redujo el uso de memoria a 8.2TB mediante la compresión de datos y la optimización de la estructura de almacenamiento, con un coste operativo anual estimado de unos 8억3000만원."
+              },
+              {
+                "t": "p",
+                "x": "El ingeniero Bae Seung-jong explicó: “En las pruebas de rendimiento de escritura con datos reales de juegos de Nexon, también fue 2.7 veces más rápido que los productos existentes”, y añadió: “Ahora podemos procesar con rapidez y a bajo coste los datos de memoria de muchos usuarios”."
+              },
+              {
+                "t": "p",
+                "x": "Nexon se propone crear AI NPC que recuerden no solo las acciones de los usuarios, sino también sus conversaciones y emociones. “Nuestro próximo objetivo es un AI NPC que me recuerde”, dijo Bae, y añadió: “Crearemos NPC capaces de comunicarse con los usuarios de forma más viva”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Molyneux, 이제\nAI 없는 코딩 거의 불가",
-          "body": "Peter Molyneux는 AI 없는 코딩이 이제 거의 불가능하다고 말했다.",
-          "mini_headline": "Molyneux, AI 없는 코딩 거의 불가",
+        "en": {
+          "headline": "Nexon unveils AI NPC engine\nthat remembers player actions",
+          "body": "Nexon unveiled an AI engine that remembers player actions in real time so that each NPC can respond.",
+          "mini_headline": "Nexon's AI NPC that remembers",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Nexon has unveiled an artificial intelligence (AI) engine that remembers users' in-game actions in real time. The technology links a user's play history into a single memory so that non-player characters (NPC) in the game respond in line with past actions. Nexon also developed its own database (DB) to process the memory data, improving cost efficiency."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/cCbNLBoom6H44tX6QPEMwa-1920-80.jpg",
-                "cap": "(이미지 출처: Getty Images)"
+                "src": "https://image.inews24.com/v1/9c333440cef95f.jpg",
+                "cap": "Jung Yoon-ho, an engineer on the Advanced Data Technology Team of Nexon's AI Division, explains the AI memory engine 'Live Memory' at 'Games on AWS 2026' held on the 27th. [Photo=Reporter Kwak Min-gu]"
               },
               {
                 "t": "p",
-                "x": "PC Gamer는 Populous, Theme Park, Dungeon Keeper, Black & White, Fable을 만든 개발자 Peter Molyneux를 Guildford에서 인터뷰하고 비디오 게임 업계의 AI 활용에 대해 물었다."
+                "x": "Jung Yoon-ho and Bae Seung-jong, engineers on the Advanced Data Technology Team of Nexon's AI Division, presented the development results of the AI memory engine 'Live Memory' and the in-house graph DB 'FastGraph' at 'Games on AWS 2026' held on the 27th."
               },
               {
                 "t": "p",
-                "x": "그는 ChatGPT와 Gemini 탓에 \"AI는 곧 AI slop\"이라는 인식이 사람들 머릿속에 박혔다고 지적하며, Steam의 AI 항목에 체크하면 \"즉시 [게이머의] 12%가 떠난다\"고 말했다. \"우리 업계는 AI를 쓰지 않는 척하지만, 현실은 이제 AI 없이 코딩하는 건 거의 불가능하다는 것이다. 거의 불가능하다.\""
+                "x": "Live Memory is a system that links records of user actions, such as enhancing and equipping items, joining parties, entering dungeons and defeating bosses, into a single memory. With it, an AI NPC can respond in line with a user's past experiences."
               },
               {
                 "t": "p",
-                "x": "그는 AI를 스튜디오에 \"창의성 측면에서 가장 큰 진전\"이라고 불렀다. 콘셉트 작업은 오 분이면 끝나고, 땅에서 솟아오르는 완전히 리깅된 캐릭터의 프로토타입도 \"몇 달이 아니라 하루면 다 된다\"는 것이다."
+                "x": "For example, if a user enhances a weapon at the blacksmith and then comes back after defeating a boss with it, the NPC responds, \"So you beat the boss with the weapon I enhanced for you yesterday. I'm proud of you.\" To a user who has enhanced the same weapon again and again, it says, \"You've already enhanced this weapon 13 times. Isn't that enough now?\""
               },
               {
                 "t": "p",
-                "x": "\"AI가 게임의 최종 품질에 맞는 에셋 제작을 믿고 맡길 만큼 강력하다고는 아직 생각하지 않는다. 하지만 Rob, 그렇게 될 것이다.\" 그는 일 년 안에 AI가 Unity와 Unreal 같은 미들웨어에 깊이 묶여 떼어내기가 매우 어려워질 것이라고 예측한다."
+                "x": "Engineer Jung stressed that \"an AI NPC that feels alive has to recognize even the action a user has just taken, and judge and act accordingly.\""
+              },
+              {
+                "t": "p",
+                "x": "To implement these features, Nexon chose to convert users' action records into a graph structure. Rather than simply storing individual actions, it connects the relationships between time, place and events."
+              },
+              {
+                "t": "p",
+                "x": "The system is designed to reduce processing costs and information loss by using predefined rules instead of calling a large language model (LLM) every time. In particular, Nexon developed its own graph DB, FastGraph, to store memory data efficiently."
+              },
+              {
+                "t": "p",
+                "x": "Nexon estimated that storing memory data for one million (100만) users on an existing commercial graph DB would require about 430TB of memory and annual operating costs of 412억원. FastGraph, by contrast, cut memory usage to 8.2TB through data compression and storage-structure optimization, with estimated annual operating costs of about 8억3000만원."
+              },
+              {
+                "t": "p",
+                "x": "Engineer Bae Seung-jong explained, \"In write-performance tests using real Nexon game data, it was 2.7 times faster than existing products,\" adding, \"We can now process the memory data of many users quickly and at low cost.\""
+              },
+              {
+                "t": "p",
+                "x": "Nexon aims to build AI NPCs that remember not only users' actions but also their conversations and emotions. \"Our next goal is an AI NPC that remembers me,\" Bae said, adding, \"We will create NPCs that can communicate with users in a more lively way.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "Molyneux、AIなしの\nコーディングはほぼ無理",
-          "body": "Molyneuxは、業界はAI不使用を装うが、AIなしのコーディングはほぼ不可能だと語る。",
-          "mini_headline": "Molyneux、AIなしのコーディングはほぼ無理",
+          "headline": "利用者の行動を覚える\nネクソンAI NPCエンジン",
+          "body": "ネクソンは利用者の行動をリアルタイムで記憶し、NPCが反応するAIエンジンを公開した。",
+          "mini_headline": "ネクソン、記憶するAI NPC",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "ネクソンが、利用者のゲーム内行動をリアルタイムで記憶する人工知能(AI)エンジンを公開した。利用者のプレイ記録を一つの記憶としてつなぎ、ゲーム内のノンプレイヤーキャラクター(NPC)が過去の行動に合わせて反応するようにする技術だ。記憶データを処理するデータベース(DB)も自社開発し、コスト効率を高めた。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/cCbNLBoom6H44tX6QPEMwa-1920-80.jpg",
-                "cap": "(画像クレジット: Getty Images)"
+                "src": "https://image.inews24.com/v1/9c333440cef95f.jpg",
+                "cap": "27日に開かれた「Games on AWS 2026」で、AI記憶エンジン「ライブメモリー(Live Memory)」について説明するネクソンAI本部先行データ技術チームのチョン・ユンホ エンジニア。[写真=クァク・ミング記者]"
               },
               {
                 "t": "p",
-                "x": "PC Gamerは、Populous、Theme Park、Dungeon Keeper、Black & White、Fableを手がけた開発者Peter MolyneuxにGuildfordでインタビューし、ビデオゲーム業界でのAI利用について尋ねた。"
+                "x": "ネクソンAI本部先行データ技術チームのチョン・ユンホ、ペ・スンジョン両エンジニアは、27日に開かれた「ゲームオン(Games on) AWS 2026」で、AI記憶エンジン「ライブメモリー」と自社グラフDB「ファストグラフ」の開発成果を紹介した。"
               },
               {
                 "t": "p",
-                "x": "彼はChatGPTとGeminiのせいで「AIイコールAI slop」という図式が人々の頭に刷り込まれたと非難し、SteamのAI項目にチェックを入れれば「即座に[ゲーマーの]12%が去る」と述べた。「私たち業界はAIを使っていないふりをしているが、現実には今やAIを使わずにコーディングするのはほぼ不可能だ。ほぼ不可能なんだ」"
+                "x": "ライブメモリーは、アイテムの強化や装備、パーティー加入、ダンジョン入場、ボス討伐といった利用者の行動記録をつなぎ、一つの記憶として構成するシステムだ。これを使えば、AI NPCが利用者の過去の経験に合わせて反応できる。"
               },
               {
                 "t": "p",
-                "x": "彼はAIをスタジオにとって「創造性における最大の前進」と呼んだ。コンセプト作業は五分で済み、地面から立ち上がるフルリグのキャラクターのプロトタイプも「数カ月ではなく一日ですべて終わる」という。"
+                "x": "たとえば利用者が鍛冶屋で武器を強化し、その武器でボスを倒して戻ってくると、NPCは「わしが昨日強化してやった武器でボスを倒してきたのか。誇らしいのう」と反応する。同じ武器を繰り返し強化する利用者には「もう13回も強化した武器じゃ。そろそろやめてもよいのではないか？」と語りかける。"
               },
               {
                 "t": "p",
-                "x": "「AIは、ゲームの最終品質に見合うアセットの制作を任せられるほどにはまだ強力ではないと思う。でもRob、いずれそうなる」。一年以内に、AIはUnityやUnrealといったミドルウェアと深く結びつき、切り離すのが非常に難しくなると彼は予測する。"
+                "x": "チョン氏は「生きているように感じられるAI NPCであれば、利用者がたった今取った行動まで認識し、それに合った判断と行動をしなければならない」と強調した。"
+              },
+              {
+                "t": "p",
+                "x": "ネクソンはこうした機能を実現するため、利用者の行動記録をグラフ構造に変換する方式を採用した。個々の行動を単に保存するのではなく、時間や場所、出来事同士の関係をつなぐというものだ。"
+              },
+              {
+                "t": "p",
+                "x": "大規模言語モデル(LLM)を毎回呼び出さず、あらかじめ定義したルールを活用することで、処理コストと情報の損失を減らすよう設計した。特に記憶データを効率よく保存するため、グラフDBのファストグラフを自社開発した。"
+              },
+              {
+                "t": "p",
+                "x": "ネクソンは、既存の商用グラフDBで利用者100万人分の記憶データを保存する場合、約430TB のメモリと年間412억원(412億ウォン)の運用費が必要になると試算した。一方ファストグラフは、データ圧縮と保存構造の最適化によってメモリ使用量を8.2TB に抑え、年間の想定運用費は約8억3000만원(8億3000万ウォン)となった。"
+              },
+              {
+                "t": "p",
+                "x": "ペ・スンジョン エンジニアは「実際のネクソンのゲームデータを使った書き込み性能テストでも、既存製品より2.7倍速かった」とし、「多くの利用者の記憶データを低コストで素早く処理できるようになった」と説明した。"
+              },
+              {
+                "t": "p",
+                "x": "ネクソンは今後、利用者の行動だけでなく会話や感情まで記憶するAI NPCの実現を目指す。ペ氏は「次の目標は私を覚えているAI NPCだ」とし、「利用者ともっと生き生きと交流できるNPCをつくる」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Molyneux：没有AI\n如今几乎无法写代码",
-          "body": "Peter Molyneux称，业界假装没在用AI，但如今不用AI几乎无法写代码。",
-          "mini_headline": "Molyneux：没有AI几乎写不了代码",
+          "headline": "记住玩家行为的\nNexon AI NPC引擎",
+          "body": "Nexon公开一款AI引擎，可实时记住用户行为，让NPC据此作出反应。",
+          "mini_headline": "Nexon推出会记忆的AI NPC",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Nexon公开了一款可实时记住用户游戏内行为的人工智能（AI）引擎。该技术把用户的游戏记录串联成一段记忆，让游戏中的非玩家角色（NPC）根据用户过去的行为作出反应。Nexon还自主开发了处理记忆数据的数据库（DB），提升了成本效率。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/cCbNLBoom6H44tX6QPEMwa-1920-80.jpg",
-                "cap": "(图片来源：Getty Images)"
+                "src": "https://image.inews24.com/v1/9c333440cef95f.jpg",
+                "cap": "Nexon AI本部先行数据技术组工程师Jung Yoon-ho在27日举行的“Games on AWS 2026”上介绍AI记忆引擎“Live Memory”。[摄影=记者Kwak Min-gu]"
               },
               {
                 "t": "p",
-                "x": "PC Gamer在Guildford采访了Populous、Theme Park、Dungeon Keeper、Black & White和Fable的开发者Peter Molyneux，并询问了他对电子游戏行业使用AI的看法。"
+                "x": "Nexon AI本部先行数据技术组工程师Jung Yoon-ho和Bae Seung-jong在27日举行的“Games on AWS 2026”上，介绍了AI记忆引擎“Live Memory”和自研图数据库“FastGraph”的开发成果。"
               },
               {
                 "t": "p",
-                "x": "他指责ChatGPT和Gemini让“AI等于AI slop”的观念深入人心，并表示在Steam上勾选AI选项意味着“立刻就有12%[的玩家]流失”。“我们整个行业都在假装没有使用AI，但现实是，如今不用AI几乎不可能写代码。几乎不可能。”"
+                "x": "Live Memory是一套把强化与装备道具、加入队伍、进入地下城、击败首领等用户行为记录串联起来、构成一段记忆的系统。借助它，AI NPC可以根据用户过去的经历作出反应。"
               },
               {
                 "t": "p",
-                "x": "他称AI是工作室“在创造力上最大的一步飞跃”：概念设计五分钟就能完成，而为一个从地面升起、完整绑定骨骼的角色制作原型，“一天就全部搞定，而不是几个月”。"
+                "x": "例如，用户在铁匠铺强化武器后，用这把武器击败首领归来，NPC会说：“你用我昨天帮你强化的武器打败了首领啊。真让人骄傲。”对反复强化同一把武器的用户，NPC则会说：“这把武器已经强化过13次了。现在是不是该停手了？”"
               },
               {
                 "t": "p",
-                "x": "“我认为AI还没有强大到可以放心让它制作达到游戏最终品质的素材。但是Rob，它会的。”他预测，一年之内，AI将与Unity和Unreal等中间件深度绑定，到时将很难剥离。"
+                "x": "Jung强调：“一个让人感觉像活着的AI NPC，必须连用户刚刚做出的行为都能察觉，并据此作出相应的判断和行动。”"
+              },
+              {
+                "t": "p",
+                "x": "为实现这些功能，Nexon采用了把用户行为记录转换为图结构的方式。它不是简单地存储单个行为，而是把时间、地点和事件之间的关系连接起来。"
+              },
+              {
+                "t": "p",
+                "x": "系统不必每次都调用大语言模型（LLM），而是利用预先定义的规则，以降低处理成本和信息损失。尤其是为了高效存储记忆数据，Nexon自主开发了图数据库FastGraph。"
+              },
+              {
+                "t": "p",
+                "x": "Nexon估算，若用现有商用图数据库存储100万名用户的记忆数据，需要约430TB 内存，每年运营费用为412억원（412亿韩元）。相比之下，FastGraph通过数据压缩和存储结构优化，把内存用量降到8.2TB ，预计每年运营费用约为8억3000만원（8亿3000万韩元）。"
+              },
+              {
+                "t": "p",
+                "x": "Bae Seung-jong表示：“在使用Nexon真实游戏数据进行的写入性能测试中，它也比现有产品快2.7倍。”他还说：“现在能以较低成本快速处理大量用户的记忆数据了。”"
+              },
+              {
+                "t": "p",
+                "x": "Nexon的目标是今后打造不仅能记住用户行为、还能记住对话和情感的AI NPC。Bae说：“下一个目标是记得我的AI NPC。”并表示“将打造能与用户更生动地交流的NPC”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Molyneux: programar sin AI\nya es casi imposible",
-          "body": "Peter Molyneux dice que la industria finge no usar AI, pero que programar sin ella ya es casi imposible.",
-          "mini_headline": "Molyneux: ya casi no se programa sin AI",
+          "headline": "Nexon presenta un motor de NPC\ncon AI que recuerda al jugador",
+          "body": "Nexon presentó un motor AI que recuerda en tiempo real las acciones del usuario para que cada NPC reaccione a ellas.",
+          "mini_headline": "Nexon y su AI NPC con memoria",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Nexon ha presentado un motor de inteligencia artificial (AI) que recuerda en tiempo real las acciones de los usuarios dentro del juego. La tecnología enlaza el historial de juego del usuario en una sola memoria para que los personajes no jugadores (NPC) reaccionen según sus acciones pasadas. Nexon también desarrolló su propia base de datos (DB) para procesar los datos de memoria, lo que mejoró la eficiencia de costes."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/cCbNLBoom6H44tX6QPEMwa-1920-80.jpg",
-                "cap": "(Crédito de la imagen: Getty Images)"
+                "src": "https://image.inews24.com/v1/9c333440cef95f.jpg",
+                "cap": "Jung Yoon-ho, ingeniero del Equipo de Tecnología de Datos Avanzada de la División de AI de Nexon, explica el motor de memoria AI 'Live Memory' en 'Games on AWS 2026', celebrado el día 27. [Foto=periodista Kwak Min-gu]"
               },
               {
                 "t": "p",
-                "x": "PC Gamer entrevistó en Guildford a Peter Molyneux, el desarrollador detrás de Populous, Theme Park, Dungeon Keeper, Black & White y Fable, y le preguntó por el uso de la AI en la industria del videojuego."
+                "x": "Jung Yoon-ho y Bae Seung-jong, ingenieros del Equipo de Tecnología de Datos Avanzada de la División de AI de Nexon, presentaron los resultados del desarrollo del motor de memoria AI 'Live Memory' y de la base de datos de grafos propia 'FastGraph' en 'Games on AWS 2026', celebrado el día 27."
               },
               {
                 "t": "p",
-                "x": "Culpó a ChatGPT y Gemini de haber grabado en la mente de la gente la idea de que \"AI equivale a AI slop\", y dijo que marcar la casilla de AI de Steam significa que \"al instante se va el 12% [de los jugadores]\". \"Como industria fingimos que no usamos AI, pero la realidad es que ahora es casi imposible programar sin usar AI. Casi imposible\"."
+                "x": "Live Memory es un sistema que enlaza los registros de acciones del usuario, como mejorar y equipar objetos, unirse a un grupo, entrar en mazmorras o derrotar jefes, y los organiza en una sola memoria. Con él, un AI NPC puede reaccionar según las experiencias pasadas del usuario."
               },
               {
                 "t": "p",
-                "x": "Calificó la AI como \"el mayor paso adelante en creatividad\" para los estudios: el trabajo de concepto puede hacerse en cinco minutos, y el prototipo de un personaje totalmente riggeado que se levanta del suelo está \"listo en un día, no en meses\"."
+                "x": "Por ejemplo, si un usuario mejora un arma en la herrería y vuelve tras derrotar a un jefe con ella, el NPC reacciona: “Has vencido al jefe con el arma que te mejoré ayer. Estoy orgulloso”. A un usuario que mejora la misma arma una y otra vez, le dice: “Ya has mejorado esta arma 13 veces. ¿No crees que ya es suficiente?”."
               },
               {
                 "t": "p",
-                "x": "\"No creo que la AI sea todavía lo bastante potente como para confiarle la producción de los recursos con la calidad final del juego. Pero, Rob, lo será\". Predice que en un año la AI estará tan ligada a middleware como Unity y Unreal que será muy difícil extraerla."
+                "x": "El ingeniero Jung subrayó que “un AI NPC que se sienta vivo debe percibir incluso la acción que el usuario acaba de realizar, y juzgar y actuar en consecuencia”."
+              },
+              {
+                "t": "p",
+                "x": "Para lograr estas funciones, Nexon optó por convertir los registros de acciones de los usuarios en una estructura de grafo. En lugar de limitarse a almacenar acciones sueltas, conecta las relaciones entre tiempo, lugar y sucesos."
+              },
+              {
+                "t": "p",
+                "x": "El sistema está diseñado para reducir el coste de procesamiento y la pérdida de información mediante reglas predefinidas, sin llamar cada vez a un gran modelo de lenguaje (LLM). En particular, Nexon desarrolló su propia DB de grafos, FastGraph, para almacenar los datos de memoria de forma eficiente."
+              },
+              {
+                "t": "p",
+                "x": "Nexon calculó que almacenar los datos de memoria de un millón (100만) de usuarios en una DB de grafos comercial existente requeriría unos 430TB de memoria y un coste operativo anual de 412억원. FastGraph, en cambio, redujo el uso de memoria a 8.2TB mediante la compresión de datos y la optimización de la estructura de almacenamiento, con un coste operativo anual estimado de unos 8억3000만원."
+              },
+              {
+                "t": "p",
+                "x": "El ingeniero Bae Seung-jong explicó: “En las pruebas de rendimiento de escritura con datos reales de juegos de Nexon, también fue 2.7 veces más rápido que los productos existentes”, y añadió: “Ahora podemos procesar con rapidez y a bajo coste los datos de memoria de muchos usuarios”."
+              },
+              {
+                "t": "p",
+                "x": "Nexon se propone crear AI NPC que recuerden no solo las acciones de los usuarios, sino también sus conversaciones y emociones. “Nuestro próximo objetivo es un AI NPC que me recuerde”, dijo Bae, y añadió: “Crearemos NPC capaces de comunicarse con los usuarios de forma más viva”."
               }
             ]
           }
@@ -1401,321 +1521,351 @@
       }
     },
     {
-      "id": "uchikoshi",
-      "source_lang": "en",
+      "id": "linegames",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Zero Escape 작가\n\"AI가 게임 살렸을 것\"",
-      "body": "Uchikoshi는 AI로 비용을 줄였다면 새 게임이 취소되지 않았으리라 본다.",
-      "mini_headline": "Uchikoshi \"AI가 게임 살렸을 것\"",
+      "headline": "라인게임즈, AI로\n퍼블리싱 자동화",
+      "body": "라인게임즈가 사내 AI 시스템으로 기술 문서 갱신과 퍼블리싱 업무를 자동화했다.",
+      "mini_headline": "라인게임즈, AI 퍼블리싱 자동화",
       "tool": "Games",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/zero-escape-writer-is-pro-ai-believes-his-new-studios-game-wouldnt-have-been-canceled-if-hed-used-it-to-cut-costs-2000749911",
+      "source": "디스이즈게임",
+      "url": "https://www.thisisgame.com/articles/431458?newsId=400004&categoryId=0",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
+            "t": "p",
+            "x": "라인게임즈가 28일 AWS와 GS 네오텍이 공동 주최한 'Games on AWS 2026'에서 AI 기반 퍼블리싱 고도화 기술 노하우를 공개했다고 밝혔다. 이 행사는 게임 개발자와 업계 관계자에게 클라우드 기반 게임 개발·운영과 기술 트렌드를 공유하는 컨퍼런스로, 27일 경기도 성남시 더블트리 바이 힐튼 서울 판교에서 열렸다."
+          },
+          {
+            "t": "p",
+            "x": "라인게임즈 이아영 퍼블리싱 기술실장은 '퍼블리싱 가속화 에이전트 Part 2: 코드 리뷰부터 문서 자동 반영까지'를 주제로 강연했다. 그는 지난해 외부 개발사 기술 문의에 자율적으로 응대하는 AI 에이전트 '넥서스 AI(Nexus AI)' 구축 성과를 소개한 바 있다. 올해 강연에서는 넥서스 AI 구축 이후 플랫폼 코드 변경 사항을 기술 문서에 반영하는 작업이 수작업으로 이뤄지고, 문서 갱신이 늦어지면 AI 답변 정확도가 떨어지는 한계를 해결한 기술적 진보와 퍼블리싱 업무 효율성 향상 사례를 다뤘다."
+          },
+          {
             "t": "img",
-            "src": "https://kotaku.com/app/uploads/2026/10/Hundred-Line.jpeg",
-            "cap": "© Aniplex, Too Kyo Games"
+            "src": "https://file.thisisgame.com/upload/email-attachments/2026/10/28/1639287616436323679_f8c04051-d2a5-4056-86c3-0a552014f8f1_%5B%EC%9D%B4%EB%AF%B8%EC%A7%80%5D%20%27Games%20on%20AWS%202026%27%20%EA%B0%95%EC%97%B0%20%ED%98%84%EC%9E%A5_%EB%9D%BC%EC%9D%B8%EA%B2%8C%EC%9E%84%EC%A6%88%20%EC%9D%B4%EC%95%84%EC%98%81%20%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%8B%B1%20%EA%B8%B0%EC%88%A0%EC%8B%A4%EC%9E%A5.jpg"
           },
           {
             "t": "p",
-            "x": "Zero Escape와 Hundred Line으로 알려진 Kotaro Uchikoshi가 새 Famitsu 인터뷰에서 자신의 새 스튜디오 Crash Keys도, 그 게임의 취소도 실제로 있었던 일이라고 못 박았다. AI를 쓸 수 있었다면 게임이 취소되지 않았을지도 모른다는 말도 덧붙였다."
+            "x": "라인게임즈는 이 한계를 극복하기 위해 Amazon Bedrock AgentCore를 도입해 코드 리뷰와 기술 문서 작성을 잇는 자동화 파이프라인을 구축했다. 새 에이전트는 GitLab 등의 MR(Merge Request) 단계에서 플랫폼 코드 변경점을 스스로 분석해 코드 리뷰를 수행하고, 그 결과를 근거로 관련 기술 문서 수정안을 제시한다. 담당자가 승인하면 문서에 반영되며, 갱신된 문서는 다시 넥서스 AI 지식 베이스로 피드백돼 외부 개발사 문의에 대한 응답 신뢰도를 일관되게 유지한다."
           },
           {
             "t": "p",
-            "x": "\"우리 같은 중간 규모 팀, 특히 어드벤처 게임을 만드는 팀에게는 이제 개인이 만든 인디 게임조차 경쟁자로 볼 수 있다. 이런 개인 가운데 일부는 아주 작은 팀으로 AI를 활용해 풍부한 콘텐츠를 갖춘 방대한 게임을 짧은 시간에 낮은 비용으로 만든다. [...] 우리도 AI를 쓸 수밖에 없다고 생각한다.\""
+            "x": "또한 AWS Security Agent를 활용해 코드 리뷰와 보안 검토를 병렬로 수행, 뒤늦게 발견되기 쉬운 보안 이슈를 같은 흐름에서 점검하도록 했다. 이 실장은 기존 AI 에이전트가 문서를 읽는 수준에서 코드 변화를 이해하고 문서를 작성하는 단계로 진화하면서 완성된 '코드-문서간 자동화 루프'를 설명했다. 현업 적용 품질 보증을 위해 설정한 '자동화 신뢰 경계(Trust Boundary)'와 실무 노하우, 향후 퍼블리싱 기술 로드맵도 제시했다."
           },
           {
             "t": "p",
-            "x": "\"게임 개발에 AI를 쓰는 데 거부감이 있다는 것은 이해한다. 하지만 개인적으로 나는 AI 찬성론자다.\" 그는 비주얼 디자인과 스토리의 출발점은 사람의 아이디어여야 하지만 다듬고 마무리하는 일은 AI에 맡겨도 된다고 본다. 그러면 최종 결과물이 창작자 구상의 70-80퍼센트 수준에서 100퍼센트 가까이 올라간다는 설명이다."
-          },
-          {
-            "t": "p",
-            "x": "Uchikoshi는 앞서 Hundred Line이 그만한 규모의 게임 가운데 AI 없이 만들어지는 \"마지막 사례 중 하나\"일 수 있다고 말한 적이 있다."
+            "x": "라인게임즈 이아영 퍼블리싱 기술실장은 “기술 문서 수정의 비효율을 걷어내고, 사람의 승인을 거치는 구조 위에서 자동화할 수 있게 됐다”며 “앞으로도 AWS 의 최신 AI 기술을 적극 활용해 외부 개발사와 협업 효율을 높이고 게임 퍼블리싱 기술 경쟁력을 지속 강화해 나갈 것”이라고 전했다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Zero Escape writer says AI\ncould have saved his game",
-          "body": "Kotaro Uchikoshi believes his new studio's game would not have been canceled had AI been used to cut costs.",
-          "mini_headline": "Uchikoshi: AI could\nhave saved his game",
+        "ko": {
+          "headline": "라인게임즈, AI로\n퍼블리싱 자동화",
+          "body": "라인게임즈가 사내 AI 시스템으로 기술 문서 갱신과 퍼블리싱 업무를 자동화했다.",
+          "mini_headline": "라인게임즈, AI 퍼블리싱 자동화",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "라인게임즈가 28일 AWS와 GS 네오텍이 공동 주최한 'Games on AWS 2026'에서 AI 기반 퍼블리싱 고도화 기술 노하우를 공개했다고 밝혔다. 이 행사는 게임 개발자와 업계 관계자에게 클라우드 기반 게임 개발·운영과 기술 트렌드를 공유하는 컨퍼런스로, 27일 경기도 성남시 더블트리 바이 힐튼 서울 판교에서 열렸다."
+              },
+              {
+                "t": "p",
+                "x": "라인게임즈 이아영 퍼블리싱 기술실장은 '퍼블리싱 가속화 에이전트 Part 2: 코드 리뷰부터 문서 자동 반영까지'를 주제로 강연했다. 그는 지난해 외부 개발사 기술 문의에 자율적으로 응대하는 AI 에이전트 '넥서스 AI(Nexus AI)' 구축 성과를 소개한 바 있다. 올해 강연에서는 넥서스 AI 구축 이후 플랫폼 코드 변경 사항을 기술 문서에 반영하는 작업이 수작업으로 이뤄지고, 문서 갱신이 늦어지면 AI 답변 정확도가 떨어지는 한계를 해결한 기술적 진보와 퍼블리싱 업무 효율성 향상 사례를 다뤘다."
+              },
+              {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/Hundred-Line.jpeg",
-                "cap": "© Aniplex, Too Kyo Games"
+                "src": "https://file.thisisgame.com/upload/email-attachments/2026/10/28/1639287616436323679_f8c04051-d2a5-4056-86c3-0a552014f8f1_%5B%EC%9D%B4%EB%AF%B8%EC%A7%80%5D%20%27Games%20on%20AWS%202026%27%20%EA%B0%95%EC%97%B0%20%ED%98%84%EC%9E%A5_%EB%9D%BC%EC%9D%B8%EA%B2%8C%EC%9E%84%EC%A6%88%20%EC%9D%B4%EC%95%84%EC%98%81%20%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%8B%B1%20%EA%B8%B0%EC%88%A0%EC%8B%A4%EC%9E%A5.jpg"
               },
               {
                 "t": "p",
-                "x": "Kotaro Uchikoshi, known for Zero Escape and Hundred Line, insists in a new Famitsu interview that his new studio Crash Keys and its game's cancellation were real, and says that maybe the game wouldn't have been canceled if he had been allowed to use AI."
+                "x": "라인게임즈는 이 한계를 극복하기 위해 Amazon Bedrock AgentCore를 도입해 코드 리뷰와 기술 문서 작성을 잇는 자동화 파이프라인을 구축했다. 새 에이전트는 GitLab 등의 MR(Merge Request) 단계에서 플랫폼 코드 변경점을 스스로 분석해 코드 리뷰를 수행하고, 그 결과를 근거로 관련 기술 문서 수정안을 제시한다. 담당자가 승인하면 문서에 반영되며, 갱신된 문서는 다시 넥서스 AI 지식 베이스로 피드백돼 외부 개발사 문의에 대한 응답 신뢰도를 일관되게 유지한다."
               },
               {
                 "t": "p",
-                "x": "\"For mid-sized teams like ours, especially those making adventure games, even indie games created by individuals could now be seen as rivals. Some of these individuals are using AI with very small teams to produce expansive games with rich content in a short time at a low cost. [...] I believe we have no choice but to use AI ourselves.\""
+                "x": "또한 AWS Security Agent를 활용해 코드 리뷰와 보안 검토를 병렬로 수행, 뒤늦게 발견되기 쉬운 보안 이슈를 같은 흐름에서 점검하도록 했다. 이 실장은 기존 AI 에이전트가 문서를 읽는 수준에서 코드 변화를 이해하고 문서를 작성하는 단계로 진화하면서 완성된 '코드-문서간 자동화 루프'를 설명했다. 현업 적용 품질 보증을 위해 설정한 '자동화 신뢰 경계(Trust Boundary)'와 실무 노하우, 향후 퍼블리싱 기술 로드맵도 제시했다."
               },
               {
                 "t": "p",
-                "x": "\"I understand there's resistance to using AI in game development. However, personally, I am a proponent of AI.\" He says the origin of visual design and story must come from human ideas, but he is okay with entrusting refining and polishing to AI, which could bring a final product from 70-80 percent of a creator's vision to close to 100 percent."
-              },
-              {
-                "t": "p",
-                "x": "Previously, Uchikoshi said Hundred Line may be \"one of the last times\" a game of that scale would be made without AI."
+                "x": "라인게임즈 이아영 퍼블리싱 기술실장은 “기술 문서 수정의 비효율을 걷어내고, 사람의 승인을 거치는 구조 위에서 자동화할 수 있게 됐다”며 “앞으로도 AWS 의 최신 AI 기술을 적극 활용해 외부 개발사와 협업 효율을 높이고 게임 퍼블리싱 기술 경쟁력을 지속 강화해 나갈 것”이라고 전했다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Zero Escape 작가\n\"AI가 게임 살렸을 것\"",
-          "body": "Uchikoshi는 AI로 비용을 줄였다면 새 게임이 취소되지 않았으리라 본다.",
-          "mini_headline": "Uchikoshi \"AI가 게임 살렸을 것\"",
+        "en": {
+          "headline": "Line Games automates\npublishing with AI",
+          "body": "Line Games has automated technical document updates and publishing work with an in-house AI system.",
+          "mini_headline": "Line Games automates publishing with AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Line Games said on the 28th that it shared its know-how in AI-based advanced publishing technology at 'Games on AWS 2026', co-hosted by AWS and GS Neotek. The event, a conference where game developers and industry insiders share cloud-based game development and operations as well as technology trends, was held on the 27th at DoubleTree by Hilton Seoul Pangyo in Seongnam, Gyeonggi Province."
+              },
+              {
+                "t": "p",
+                "x": "Lee Ah-young, head of the publishing technology office at Line Games, gave a talk titled 'Publishing Acceleration Agent Part 2: From Code Review to Automatic Document Updates.' Last year, Lee presented the results of building 'Nexus AI', an AI agent that autonomously answers technical inquiries from external developers. This year's talk covered the technical progress that solved the limits remaining after Nexus AI was built, where platform code changes had to be reflected in technical documents by hand and AI answer accuracy dropped when document updates lagged, along with cases of improved publishing efficiency."
+              },
+              {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/Hundred-Line.jpeg",
-                "cap": "© Aniplex, Too Kyo Games"
+                "src": "https://file.thisisgame.com/upload/email-attachments/2026/10/28/1639287616436323679_f8c04051-d2a5-4056-86c3-0a552014f8f1_%5B%EC%9D%B4%EB%AF%B8%EC%A7%80%5D%20%27Games%20on%20AWS%202026%27%20%EA%B0%95%EC%97%B0%20%ED%98%84%EC%9E%A5_%EB%9D%BC%EC%9D%B8%EA%B2%8C%EC%9E%84%EC%A6%88%20%EC%9D%B4%EC%95%84%EC%98%81%20%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%8B%B1%20%EA%B8%B0%EC%88%A0%EC%8B%A4%EC%9E%A5.jpg"
               },
               {
                 "t": "p",
-                "x": "Zero Escape와 Hundred Line으로 알려진 Kotaro Uchikoshi가 새 Famitsu 인터뷰에서 자신의 새 스튜디오 Crash Keys도, 그 게임의 취소도 실제로 있었던 일이라고 못 박았다. AI를 쓸 수 있었다면 게임이 취소되지 않았을지도 모른다는 말도 덧붙였다."
+                "x": "To overcome these limits, Line Games adopted Amazon Bedrock AgentCore and built an automated pipeline that links code review and technical documentation. At the MR (Merge Request) stage in tools such as GitLab, the new agent analyzes platform code changes on its own to carry out code review, then proposes revisions to the related technical documents based on the results. Once the person in charge approves, the changes are applied to the documents, and the updated documents are fed back into the Nexus AI knowledge base to keep the reliability of answers to external developers' inquiries consistent."
               },
               {
                 "t": "p",
-                "x": "\"우리 같은 중간 규모 팀, 특히 어드벤처 게임을 만드는 팀에게는 이제 개인이 만든 인디 게임조차 경쟁자로 볼 수 있다. 이런 개인 가운데 일부는 아주 작은 팀으로 AI를 활용해 풍부한 콘텐츠를 갖춘 방대한 게임을 짧은 시간에 낮은 비용으로 만든다. [...] 우리도 AI를 쓸 수밖에 없다고 생각한다.\""
+                "x": "Line Games also used AWS Security Agent to run code review and security review in parallel, so that security issues that are often found late are checked in the same flow. Lee explained the 'code-to-document automation loop' that was completed as the existing AI agent evolved from reading documents to understanding code changes and writing documents. Lee also presented the 'automation trust boundary (Trust Boundary)' set to assure quality in real-world use, practical know-how and the future publishing technology roadmap."
               },
               {
                 "t": "p",
-                "x": "\"게임 개발에 AI를 쓰는 데 거부감이 있다는 것은 이해한다. 하지만 개인적으로 나는 AI 찬성론자다.\" 그는 비주얼 디자인과 스토리의 출발점은 사람의 아이디어여야 하지만 다듬고 마무리하는 일은 AI에 맡겨도 된다고 본다. 그러면 최종 결과물이 창작자 구상의 70-80퍼센트 수준에서 100퍼센트 가까이 올라간다는 설명이다."
-              },
-              {
-                "t": "p",
-                "x": "Uchikoshi는 앞서 Hundred Line이 그만한 규모의 게임 가운데 AI 없이 만들어지는 \"마지막 사례 중 하나\"일 수 있다고 말한 적이 있다."
+                "x": "\"We have removed the inefficiency of revising technical documents and can now automate on top of a structure that goes through human approval,\" said Lee Ah-young, head of the publishing technology office at Line Games. \"We will keep actively using the latest AI technology from AWS to raise the efficiency of collaboration with external developers and continue to strengthen our competitiveness in game publishing technology.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "Zero Escapeの作者\nAIならゲームは救えた",
-          "body": "Uchikoshiは、AIでコストを削れていれば新作は中止されなかったと考える。",
-          "mini_headline": "Uchikoshi「AIならゲームは救えた」",
+          "headline": "ラインゲームズ\nAIでパブリッシング自動化",
+          "body": "ラインゲームズが社内AIシステムで技術文書の更新とパブリッシング業務を自動化した。",
+          "mini_headline": "ラインゲームズ、AIでパブリッシング自動化",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "ラインゲームズは28日、AWSとGS Neotekが共同主催した「Games on AWS 2026」で、AIを活用したパブリッシング高度化技術のノウハウを公開したと明らかにした。同イベントは、ゲーム開発者や業界関係者にクラウドベースのゲーム開発・運営と技術トレンドを共有するカンファレンスで、27日に京畿道城南市のダブルツリー・バイ・ヒルトン・ソウル・パンギョで開かれた。"
+              },
+              {
+                "t": "p",
+                "x": "ラインゲームズのイ・アヨン パブリッシング技術室長は「パブリッシング加速化エージェント Part 2：コードレビューから文書への自動反映まで」をテーマに講演した。イ室長は昨年、外部開発会社からの技術的な問い合わせに自律的に対応するAIエージェント「ネクサスAI(Nexus AI)」の構築成果を紹介している。今年の講演では、ネクサスAI構築後もプラットフォームのコード変更を技術文書に反映する作業が手作業で行われ、文書の更新が遅れるとAIの回答精度が落ちるという限界を解決した技術的進歩と、パブリッシング業務の効率化事例を取り上げた。"
+              },
+              {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/Hundred-Line.jpeg",
-                "cap": "© Aniplex, Too Kyo Games"
+                "src": "https://file.thisisgame.com/upload/email-attachments/2026/10/28/1639287616436323679_f8c04051-d2a5-4056-86c3-0a552014f8f1_%5B%EC%9D%B4%EB%AF%B8%EC%A7%80%5D%20%27Games%20on%20AWS%202026%27%20%EA%B0%95%EC%97%B0%20%ED%98%84%EC%9E%A5_%EB%9D%BC%EC%9D%B8%EA%B2%8C%EC%9E%84%EC%A6%88%20%EC%9D%B4%EC%95%84%EC%98%81%20%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%8B%B1%20%EA%B8%B0%EC%88%A0%EC%8B%A4%EC%9E%A5.jpg"
               },
               {
                 "t": "p",
-                "x": "Zero EscapeやHundred Lineで知られるKotaro Uchikoshiは、Famitsuの新たなインタビューで、自身の新スタジオCrash Keysとそのゲームの開発中止は事実だったと強調し、AIの使用が認められていれば中止されなかったかもしれないと語った。"
+                "x": "ラインゲームズはこの限界を克服するため、Amazon Bedrock AgentCoreを導入し、コードレビューと技術文書作成をつなぐ自動化パイプラインを構築した。新たなエージェントはGitLabなどのMR(Merge Request)段階でプラットフォームのコード変更点を自ら分析してコードレビューを行い、その結果をもとに関連する技術文書の修正案を提示する。担当者が承認すると文書に反映され、更新された文書は再びネクサスAIのナレッジベースにフィードバックされ、外部開発会社の問い合わせに対する回答の信頼性を一貫して保つ。"
               },
               {
                 "t": "p",
-                "x": "「私たちのような中規模チーム、特にアドベンチャーゲームを作るチームにとっては、今や個人が作るインディーゲームさえライバルになり得る。そうした個人の中には、ごく少人数でAIを使い、豊富なコンテンツを備えた大規模なゲームを短期間・低コストで作る人もいる。[...] 私たち自身もAIを使うしかないと考えている」"
+                "x": "さらにAWS Security Agentを活用してコードレビューとセキュリティ審査を並行して行い、後から見つかりがちなセキュリティ問題を同じ流れの中で点検できるようにした。イ室長は、従来のAIエージェントが文書を読む段階から、コードの変化を理解して文書を書く段階へと進化したことで完成した「コードと文書の自動化ループ」を説明した。現場適用の品質保証のために設定した「自動化の信頼境界(Trust Boundary)」と実務ノウハウ、今後のパブリッシング技術ロードマップも示した。"
               },
               {
                 "t": "p",
-                "x": "「ゲーム開発でAIを使うことに抵抗があるのは理解している。しかし個人的には、私はAI推進派だ」。ビジュアルデザインやストーリーの原点は人間のアイデアでなければならないが、ブラッシュアップや仕上げをAIに任せるのは構わないと彼は言う。それによって最終成果物を、クリエイターの構想の70-80パーセントから100パーセント近くまで引き上げられるという。"
-              },
-              {
-                "t": "p",
-                "x": "Uchikoshiは以前、Hundred Lineはあの規模のゲームがAIなしで作られる「最後の機会の一つ」になるかもしれないと語っていた。"
+                "x": "ラインゲームズのイ・アヨン パブリッシング技術室長は「技術文書修正の非効率を取り除き、人の承認を経る構造の上で自動化できるようになった」とし、「今後もAWSの最新AI技術を積極的に活用し、外部開発会社との協業効率を高め、ゲームパブリッシング技術の競争力を引き続き強化していく」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Zero Escape编剧：\nAI本可救下他的游戏",
-          "body": "Kotaro Uchikoshi认为，若用AI降低成本，他新工作室的游戏本不会被取消。",
-          "mini_headline": "Uchikoshi：AI本可救下游戏",
+          "headline": "Line Games用AI\n实现发行自动化",
+          "body": "Line Games以内部AI系统实现了技术文档更新与发行业务的自动化。",
+          "mini_headline": "Line Games用AI实现发行自动化",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Line Games于28日表示，已在AWS与GS Neotek联合主办的“Games on AWS 2026”上公开了基于AI的发行升级技术经验。该活动是面向游戏开发者和业界人士、分享基于云的游戏开发与运营及技术趋势的大会，于27日在京畿道城南市的首尔板桥希尔顿逸林酒店（DoubleTree by Hilton Seoul Pangyo）举行。"
+              },
+              {
+                "t": "p",
+                "x": "Line Games发行技术室室长Lee Ah-young以“发行加速代理 Part 2：从代码审查到文档自动更新”为题发表演讲。她去年曾介绍搭建AI代理“Nexus AI”的成果，该代理可自主回应外部开发商的技术咨询。今年的演讲聚焦于Nexus AI搭建之后仍存在的局限——平台代码变更需手动反映到技术文档中，一旦文档更新滞后，AI回答的准确度就会下降——以及解决这一问题的技术进展和提升发行工作效率的案例。"
+              },
+              {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/Hundred-Line.jpeg",
-                "cap": "© Aniplex, Too Kyo Games"
+                "src": "https://file.thisisgame.com/upload/email-attachments/2026/10/28/1639287616436323679_f8c04051-d2a5-4056-86c3-0a552014f8f1_%5B%EC%9D%B4%EB%AF%B8%EC%A7%80%5D%20%27Games%20on%20AWS%202026%27%20%EA%B0%95%EC%97%B0%20%ED%98%84%EC%9E%A5_%EB%9D%BC%EC%9D%B8%EA%B2%8C%EC%9E%84%EC%A6%88%20%EC%9D%B4%EC%95%84%EC%98%81%20%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%8B%B1%20%EA%B8%B0%EC%88%A0%EC%8B%A4%EC%9E%A5.jpg"
               },
               {
                 "t": "p",
-                "x": "以Zero Escape和Hundred Line闻名的Kotaro Uchikoshi在Famitsu的最新采访中坚称，他的新工作室Crash Keys及其游戏被取消一事属实，并表示如果当初允许他使用AI，游戏或许就不会被取消。"
+                "x": "为突破这一局限，Line Games引入Amazon Bedrock AgentCore，搭建了连接代码审查与技术文档编写的自动化流水线。新代理会在GitLab等工具的MR（Merge Request）阶段自主分析平台代码变更并进行代码审查，再根据结果提出相关技术文档的修改方案。经负责人批准后即反映到文档中，更新后的文档会再反馈到Nexus AI知识库，使其对外部开发商咨询的回答始终保持可靠。"
               },
               {
                 "t": "p",
-                "x": "“对于我们这样的中型团队，尤其是做冒险游戏的团队来说，如今就连个人开发的独立游戏也可能被视为对手。其中一些人借助AI，以极小的团队在短时间内以低成本做出内容丰富的大型游戏。[...] 我认为我们别无选择，只能自己也用AI。”"
+                "x": "此外，Line Games还利用AWS Security Agent并行开展代码审查与安全审查，让容易较晚才被发现的安全问题在同一流程中得到检查。Lee室长介绍了随着原有AI代理从读取文档进化到理解代码变化并编写文档而形成的“代码-文档自动化闭环”，还展示了为保障实际应用质量而设定的“自动化信任边界（Trust Boundary）”、实务经验以及未来的发行技术路线图。"
               },
               {
                 "t": "p",
-                "x": "“我理解游戏开发中使用AI会遇到抵触。不过就我个人而言，我支持AI。”他说，视觉设计和故事的源头必须来自人的创意，但他可以接受把打磨和润色交给AI，这能让最终成品从创作者构想的百分之70-80提升到接近百分之100。"
-              },
-              {
-                "t": "p",
-                "x": "Uchikoshi此前曾表示，Hundred Line可能是如此规模的游戏不借助AI制作的“最后几次之一”。"
+                "x": "Line Games发行技术室室长Lee Ah-young表示：“我们消除了技术文档修改的低效，能够在经过人工审批的结构之上实现自动化。”她还说：“今后也将积极利用AWS的最新AI技术，提高与外部开发商的协作效率，持续增强游戏发行技术竞争力。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Guionista de Zero Escape: la AI\npodría haber salvado su juego",
-          "body": "Kotaro Uchikoshi cree que el juego de su nuevo estudio no se habría cancelado de haber usado AI para reducir costes.",
-          "mini_headline": "Uchikoshi: la AI podría haber salvado su juego",
+          "headline": "Line Games automatiza\nla publicación con AI",
+          "body": "Line Games automatizó con un sistema AI interno la actualización de documentos técnicos y las tareas de publicación.",
+          "mini_headline": "Line Games automatiza la publicación con AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Line Games informó el día 28 de que dio a conocer su experiencia en tecnología avanzada de publicación basada en AI en 'Games on AWS 2026', organizado conjuntamente por AWS y GS Neotek. El evento, una conferencia en la que desarrolladores de videojuegos y profesionales del sector comparten el desarrollo y la operación de juegos en la nube y las tendencias tecnológicas, se celebró el día 27 en el DoubleTree by Hilton Seoul Pangyo, en Seongnam, provincia de Gyeonggi."
+              },
+              {
+                "t": "p",
+                "x": "Lee Ah-young, directora de la oficina de tecnología de publicación de Line Games, dio una charla titulada 'Agente de aceleración de la publicación Part 2: de la revisión de código a la actualización automática de documentos'. El año pasado presentó los resultados de la creación de 'Nexus AI', un agente AI que responde de forma autónoma a las consultas técnicas de desarrolladores externos. La charla de este año abordó los avances técnicos que resolvieron las limitaciones que quedaron tras crear Nexus AI, ya que los cambios en el código de la plataforma se reflejaban a mano en los documentos técnicos y la precisión de las respuestas de la AI caía cuando la actualización de los documentos se retrasaba, así como casos de mejora de la eficiencia en la publicación."
+              },
+              {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/Hundred-Line.jpeg",
-                "cap": "© Aniplex, Too Kyo Games"
+                "src": "https://file.thisisgame.com/upload/email-attachments/2026/10/28/1639287616436323679_f8c04051-d2a5-4056-86c3-0a552014f8f1_%5B%EC%9D%B4%EB%AF%B8%EC%A7%80%5D%20%27Games%20on%20AWS%202026%27%20%EA%B0%95%EC%97%B0%20%ED%98%84%EC%9E%A5_%EB%9D%BC%EC%9D%B8%EA%B2%8C%EC%9E%84%EC%A6%88%20%EC%9D%B4%EC%95%84%EC%98%81%20%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%8B%B1%20%EA%B8%B0%EC%88%A0%EC%8B%A4%EC%9E%A5.jpg"
               },
               {
                 "t": "p",
-                "x": "Kotaro Uchikoshi, conocido por Zero Escape y Hundred Line, insiste en una nueva entrevista con Famitsu en que su nuevo estudio, Crash Keys, y la cancelación de su juego fueron reales, y dice que quizá el juego no se habría cancelado si le hubieran permitido usar AI."
+                "x": "Para superar esa limitación, Line Games adoptó Amazon Bedrock AgentCore y construyó una cadena automatizada que une la revisión de código y la redacción de documentación técnica. En la fase de MR (Merge Request) de herramientas como GitLab, el nuevo agente analiza por sí solo los cambios en el código de la plataforma para hacer la revisión de código y, a partir del resultado, propone modificaciones a los documentos técnicos relacionados. Cuando el responsable las aprueba, se incorporan a los documentos, y los documentos actualizados vuelven a la base de conocimiento de Nexus AI para mantener de forma constante la fiabilidad de las respuestas a las consultas de los desarrolladores externos."
               },
               {
                 "t": "p",
-                "x": "\"Para equipos medianos como el nuestro, sobre todo los que hacen juegos de aventura, ahora incluso los juegos indie creados por particulares pueden verse como rivales. Algunas de estas personas usan AI con equipos muy pequeños para producir juegos amplios y con mucho contenido en poco tiempo y a bajo coste. [...] Creo que no tenemos más remedio que usar AI nosotros también\"."
+                "x": "Además, utilizó AWS Security Agent para realizar en paralelo la revisión de código y la revisión de seguridad, de modo que los problemas de seguridad que suelen detectarse tarde se revisen en el mismo flujo. Lee explicó el 'bucle de automatización entre código y documentos', completado a medida que el agente AI pasó de leer documentos a comprender los cambios en el código y redactar documentos. También presentó el 'límite de confianza de la automatización (Trust Boundary)' fijado para garantizar la calidad en el uso real, su experiencia práctica y la hoja de ruta futura de la tecnología de publicación."
               },
               {
                 "t": "p",
-                "x": "\"Entiendo que haya resistencia al uso de AI en el desarrollo de juegos. Sin embargo, personalmente, soy partidario de la AI\". Afirma que el origen del diseño visual y de la historia debe venir de ideas humanas, pero que no le importa confiar a la AI el refinado y el pulido, lo que podría llevar un producto final del 70-80 por ciento de la visión de un creador a cerca del 100 por ciento."
-              },
-              {
-                "t": "p",
-                "x": "Anteriormente, Uchikoshi dijo que Hundred Line podría ser \"una de las últimas veces\" que se hiciera un juego de esa escala sin AI."
+                "x": "“Hemos eliminado la ineficiencia de corregir documentos técnicos y ahora podemos automatizar sobre una estructura que pasa por la aprobación humana”, dijo Lee Ah-young, directora de la oficina de tecnología de publicación de Line Games. “Seguiremos aprovechando activamente la tecnología AI más reciente de AWS para mejorar la eficiencia de la colaboración con los desarrolladores externos y reforzar de forma continua nuestra competitividad en tecnología de publicación de juegos”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Zero Escape 작가\n\"AI가 게임 살렸을 것\"",
-          "body": "Uchikoshi는 AI로 비용을 줄였다면 새 게임이 취소되지 않았으리라 본다.",
-          "mini_headline": "Uchikoshi \"AI가 게임 살렸을 것\"",
+        "en": {
+          "headline": "Line Games automates\npublishing with AI",
+          "body": "Line Games has automated technical document updates and publishing work with an in-house AI system.",
+          "mini_headline": "Line Games automates publishing with AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Line Games said on the 28th that it shared its know-how in AI-based advanced publishing technology at 'Games on AWS 2026', co-hosted by AWS and GS Neotek. The event, a conference where game developers and industry insiders share cloud-based game development and operations as well as technology trends, was held on the 27th at DoubleTree by Hilton Seoul Pangyo in Seongnam, Gyeonggi Province."
+              },
+              {
+                "t": "p",
+                "x": "Lee Ah-young, head of the publishing technology office at Line Games, gave a talk titled 'Publishing Acceleration Agent Part 2: From Code Review to Automatic Document Updates.' Last year, Lee presented the results of building 'Nexus AI', an AI agent that autonomously answers technical inquiries from external developers. This year's talk covered the technical progress that solved the limits remaining after Nexus AI was built, where platform code changes had to be reflected in technical documents by hand and AI answer accuracy dropped when document updates lagged, along with cases of improved publishing efficiency."
+              },
+              {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/Hundred-Line.jpeg",
-                "cap": "© Aniplex, Too Kyo Games"
+                "src": "https://file.thisisgame.com/upload/email-attachments/2026/10/28/1639287616436323679_f8c04051-d2a5-4056-86c3-0a552014f8f1_%5B%EC%9D%B4%EB%AF%B8%EC%A7%80%5D%20%27Games%20on%20AWS%202026%27%20%EA%B0%95%EC%97%B0%20%ED%98%84%EC%9E%A5_%EB%9D%BC%EC%9D%B8%EA%B2%8C%EC%9E%84%EC%A6%88%20%EC%9D%B4%EC%95%84%EC%98%81%20%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%8B%B1%20%EA%B8%B0%EC%88%A0%EC%8B%A4%EC%9E%A5.jpg"
               },
               {
                 "t": "p",
-                "x": "Zero Escape와 Hundred Line으로 알려진 Kotaro Uchikoshi는 새 Famitsu 인터뷰에서 자신의 새 스튜디오 Crash Keys와 그 게임의 취소가 실제 있었던 일이라고 강조하며, AI 사용이 허락됐다면 게임이 취소되지 않았을지도 모른다고 말했다."
+                "x": "To overcome these limits, Line Games adopted Amazon Bedrock AgentCore and built an automated pipeline that links code review and technical documentation. At the MR (Merge Request) stage in tools such as GitLab, the new agent analyzes platform code changes on its own to carry out code review, then proposes revisions to the related technical documents based on the results. Once the person in charge approves, the changes are applied to the documents, and the updated documents are fed back into the Nexus AI knowledge base to keep the reliability of answers to external developers' inquiries consistent."
               },
               {
                 "t": "p",
-                "x": "\"우리 같은 중간 규모 팀, 특히 어드벤처 게임을 만드는 팀에게는 이제 개인이 만든 인디 게임조차 경쟁자로 볼 수 있다. 이런 개인 가운데 일부는 아주 작은 팀으로 AI를 활용해 풍부한 콘텐츠를 갖춘 방대한 게임을 짧은 시간에 낮은 비용으로 만든다. [...] 우리도 AI를 쓸 수밖에 없다고 생각한다.\""
+                "x": "Line Games also used AWS Security Agent to run code review and security review in parallel, so that security issues that are often found late are checked in the same flow. Lee explained the 'code-to-document automation loop' that was completed as the existing AI agent evolved from reading documents to understanding code changes and writing documents. Lee also presented the 'automation trust boundary (Trust Boundary)' set to assure quality in real-world use, practical know-how and the future publishing technology roadmap."
               },
               {
                 "t": "p",
-                "x": "\"게임 개발에 AI를 쓰는 데 거부감이 있다는 것은 이해한다. 하지만 개인적으로 나는 AI 찬성론자다.\" 그는 비주얼 디자인과 스토리의 출발점은 사람의 아이디어여야 하지만, 다듬고 마무리하는 일은 AI에 맡겨도 괜찮다고 말한다. 그러면 최종 결과물을 창작자 구상의 70-80퍼센트 수준에서 100퍼센트 가까이 끌어올릴 수 있다는 것이다."
-              },
-              {
-                "t": "p",
-                "x": "Uchikoshi는 앞서 Hundred Line이 그 정도 규모의 게임이 AI 없이 만들어지는 \"마지막 사례 중 하나\"일 수 있다고 말한 바 있다."
+                "x": "\"We have removed the inefficiency of revising technical documents and can now automate on top of a structure that goes through human approval,\" said Lee Ah-young, head of the publishing technology office at Line Games. \"We will keep actively using the latest AI technology from AWS to raise the efficiency of collaboration with external developers and continue to strengthen our competitiveness in game publishing technology.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "Zero Escapeの作者\nAIならゲームは救えた",
-          "body": "Uchikoshiは、AIでコストを削れていれば新作は中止されなかったと考える。",
-          "mini_headline": "Uchikoshi「AIならゲームは救えた」",
+          "headline": "ラインゲームズ\nAIでパブリッシング自動化",
+          "body": "ラインゲームズが社内AIシステムで技術文書の更新とパブリッシング業務を自動化した。",
+          "mini_headline": "ラインゲームズ、AIでパブリッシング自動化",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "ラインゲームズは28日、AWSとGS Neotekが共同主催した「Games on AWS 2026」で、AIを活用したパブリッシング高度化技術のノウハウを公開したと明らかにした。同イベントは、ゲーム開発者や業界関係者にクラウドベースのゲーム開発・運営と技術トレンドを共有するカンファレンスで、27日に京畿道城南市のダブルツリー・バイ・ヒルトン・ソウル・パンギョで開かれた。"
+              },
+              {
+                "t": "p",
+                "x": "ラインゲームズのイ・アヨン パブリッシング技術室長は「パブリッシング加速化エージェント Part 2：コードレビューから文書への自動反映まで」をテーマに講演した。イ室長は昨年、外部開発会社からの技術的な問い合わせに自律的に対応するAIエージェント「ネクサスAI(Nexus AI)」の構築成果を紹介している。今年の講演では、ネクサスAI構築後もプラットフォームのコード変更を技術文書に反映する作業が手作業で行われ、文書の更新が遅れるとAIの回答精度が落ちるという限界を解決した技術的進歩と、パブリッシング業務の効率化事例を取り上げた。"
+              },
+              {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/Hundred-Line.jpeg",
-                "cap": "© Aniplex, Too Kyo Games"
+                "src": "https://file.thisisgame.com/upload/email-attachments/2026/10/28/1639287616436323679_f8c04051-d2a5-4056-86c3-0a552014f8f1_%5B%EC%9D%B4%EB%AF%B8%EC%A7%80%5D%20%27Games%20on%20AWS%202026%27%20%EA%B0%95%EC%97%B0%20%ED%98%84%EC%9E%A5_%EB%9D%BC%EC%9D%B8%EA%B2%8C%EC%9E%84%EC%A6%88%20%EC%9D%B4%EC%95%84%EC%98%81%20%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%8B%B1%20%EA%B8%B0%EC%88%A0%EC%8B%A4%EC%9E%A5.jpg"
               },
               {
                 "t": "p",
-                "x": "Zero EscapeやHundred Lineで知られるKotaro Uchikoshiは、Famitsuの新たなインタビューで、自身の新スタジオCrash Keysとそのゲームの開発中止は事実だったと強調し、AIの使用が認められていれば中止されなかったかもしれないと語った。"
+                "x": "ラインゲームズはこの限界を克服するため、Amazon Bedrock AgentCoreを導入し、コードレビューと技術文書作成をつなぐ自動化パイプラインを構築した。新たなエージェントはGitLabなどのMR(Merge Request)段階でプラットフォームのコード変更点を自ら分析してコードレビューを行い、その結果をもとに関連する技術文書の修正案を提示する。担当者が承認すると文書に反映され、更新された文書は再びネクサスAIのナレッジベースにフィードバックされ、外部開発会社の問い合わせに対する回答の信頼性を一貫して保つ。"
               },
               {
                 "t": "p",
-                "x": "「私たちのような中規模チーム、特にアドベンチャーゲームを作るチームにとっては、今や個人が作るインディーゲームさえライバルになり得る。そうした個人の中には、ごく少人数でAIを使い、豊富なコンテンツを備えた大規模なゲームを短期間・低コストで作る人もいる。[...] 私たち自身もAIを使うしかないと考えている」"
+                "x": "さらにAWS Security Agentを活用してコードレビューとセキュリティ審査を並行して行い、後から見つかりがちなセキュリティ問題を同じ流れの中で点検できるようにした。イ室長は、従来のAIエージェントが文書を読む段階から、コードの変化を理解して文書を書く段階へと進化したことで完成した「コードと文書の自動化ループ」を説明した。現場適用の品質保証のために設定した「自動化の信頼境界(Trust Boundary)」と実務ノウハウ、今後のパブリッシング技術ロードマップも示した。"
               },
               {
                 "t": "p",
-                "x": "「ゲーム開発でAIを使うことに抵抗があるのは理解している。しかし個人的には、私はAI推進派だ」。ビジュアルデザインやストーリーの原点は人間のアイデアでなければならないが、ブラッシュアップや仕上げをAIに任せるのは構わないと彼は言う。それによって最終成果物を、クリエイターの構想の70-80パーセントから100パーセント近くまで引き上げられるという。"
-              },
-              {
-                "t": "p",
-                "x": "Uchikoshiは以前、Hundred Lineはあの規模のゲームがAIなしで作られる「最後の機会の一つ」になるかもしれないと語っていた。"
+                "x": "ラインゲームズのイ・アヨン パブリッシング技術室長は「技術文書修正の非効率を取り除き、人の承認を経る構造の上で自動化できるようになった」とし、「今後もAWSの最新AI技術を積極的に活用し、外部開発会社との協業効率を高め、ゲームパブリッシング技術の競争力を引き続き強化していく」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Zero Escape编剧：\nAI本可救下他的游戏",
-          "body": "Kotaro Uchikoshi认为，若用AI降低成本，他新工作室的游戏本不会被取消。",
-          "mini_headline": "Uchikoshi：AI本可救下游戏",
+          "headline": "Line Games用AI\n实现发行自动化",
+          "body": "Line Games以内部AI系统实现了技术文档更新与发行业务的自动化。",
+          "mini_headline": "Line Games用AI实现发行自动化",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Line Games于28日表示，已在AWS与GS Neotek联合主办的“Games on AWS 2026”上公开了基于AI的发行升级技术经验。该活动是面向游戏开发者和业界人士、分享基于云的游戏开发与运营及技术趋势的大会，于27日在京畿道城南市的首尔板桥希尔顿逸林酒店（DoubleTree by Hilton Seoul Pangyo）举行。"
+              },
+              {
+                "t": "p",
+                "x": "Line Games发行技术室室长Lee Ah-young以“发行加速代理 Part 2：从代码审查到文档自动更新”为题发表演讲。她去年曾介绍搭建AI代理“Nexus AI”的成果，该代理可自主回应外部开发商的技术咨询。今年的演讲聚焦于Nexus AI搭建之后仍存在的局限——平台代码变更需手动反映到技术文档中，一旦文档更新滞后，AI回答的准确度就会下降——以及解决这一问题的技术进展和提升发行工作效率的案例。"
+              },
+              {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/Hundred-Line.jpeg",
-                "cap": "© Aniplex, Too Kyo Games"
+                "src": "https://file.thisisgame.com/upload/email-attachments/2026/10/28/1639287616436323679_f8c04051-d2a5-4056-86c3-0a552014f8f1_%5B%EC%9D%B4%EB%AF%B8%EC%A7%80%5D%20%27Games%20on%20AWS%202026%27%20%EA%B0%95%EC%97%B0%20%ED%98%84%EC%9E%A5_%EB%9D%BC%EC%9D%B8%EA%B2%8C%EC%9E%84%EC%A6%88%20%EC%9D%B4%EC%95%84%EC%98%81%20%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%8B%B1%20%EA%B8%B0%EC%88%A0%EC%8B%A4%EC%9E%A5.jpg"
               },
               {
                 "t": "p",
-                "x": "以Zero Escape和Hundred Line闻名的Kotaro Uchikoshi在Famitsu的最新采访中坚称，他的新工作室Crash Keys及其游戏被取消一事属实，并表示如果当初允许他使用AI，游戏或许就不会被取消。"
+                "x": "为突破这一局限，Line Games引入Amazon Bedrock AgentCore，搭建了连接代码审查与技术文档编写的自动化流水线。新代理会在GitLab等工具的MR（Merge Request）阶段自主分析平台代码变更并进行代码审查，再根据结果提出相关技术文档的修改方案。经负责人批准后即反映到文档中，更新后的文档会再反馈到Nexus AI知识库，使其对外部开发商咨询的回答始终保持可靠。"
               },
               {
                 "t": "p",
-                "x": "“对于我们这样的中型团队，尤其是做冒险游戏的团队来说，如今就连个人开发的独立游戏也可能被视为对手。其中一些人借助AI，以极小的团队在短时间内以低成本做出内容丰富的大型游戏。[...] 我认为我们别无选择，只能自己也用AI。”"
+                "x": "此外，Line Games还利用AWS Security Agent并行开展代码审查与安全审查，让容易较晚才被发现的安全问题在同一流程中得到检查。Lee室长介绍了随着原有AI代理从读取文档进化到理解代码变化并编写文档而形成的“代码-文档自动化闭环”，还展示了为保障实际应用质量而设定的“自动化信任边界（Trust Boundary）”、实务经验以及未来的发行技术路线图。"
               },
               {
                 "t": "p",
-                "x": "“我理解游戏开发中使用AI会遇到抵触。不过就我个人而言，我支持AI。”他说，视觉设计和故事的源头必须来自人的创意，但他可以接受把打磨和润色交给AI，这能让最终成品从创作者构想的百分之70-80提升到接近百分之100。"
-              },
-              {
-                "t": "p",
-                "x": "Uchikoshi此前曾表示，Hundred Line可能是如此规模的游戏不借助AI制作的“最后几次之一”。"
+                "x": "Line Games发行技术室室长Lee Ah-young表示：“我们消除了技术文档修改的低效，能够在经过人工审批的结构之上实现自动化。”她还说：“今后也将积极利用AWS的最新AI技术，提高与外部开发商的协作效率，持续增强游戏发行技术竞争力。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Guionista de Zero Escape: la AI\npodría haber salvado su juego",
-          "body": "Kotaro Uchikoshi cree que el juego de su nuevo estudio no se habría cancelado de haber usado AI para reducir costes.",
-          "mini_headline": "Uchikoshi: la AI podría haber salvado su juego",
+          "headline": "Line Games automatiza\nla publicación con AI",
+          "body": "Line Games automatizó con un sistema AI interno la actualización de documentos técnicos y las tareas de publicación.",
+          "mini_headline": "Line Games automatiza la publicación con AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "Line Games informó el día 28 de que dio a conocer su experiencia en tecnología avanzada de publicación basada en AI en 'Games on AWS 2026', organizado conjuntamente por AWS y GS Neotek. El evento, una conferencia en la que desarrolladores de videojuegos y profesionales del sector comparten el desarrollo y la operación de juegos en la nube y las tendencias tecnológicas, se celebró el día 27 en el DoubleTree by Hilton Seoul Pangyo, en Seongnam, provincia de Gyeonggi."
+              },
+              {
+                "t": "p",
+                "x": "Lee Ah-young, directora de la oficina de tecnología de publicación de Line Games, dio una charla titulada 'Agente de aceleración de la publicación Part 2: de la revisión de código a la actualización automática de documentos'. El año pasado presentó los resultados de la creación de 'Nexus AI', un agente AI que responde de forma autónoma a las consultas técnicas de desarrolladores externos. La charla de este año abordó los avances técnicos que resolvieron las limitaciones que quedaron tras crear Nexus AI, ya que los cambios en el código de la plataforma se reflejaban a mano en los documentos técnicos y la precisión de las respuestas de la AI caía cuando la actualización de los documentos se retrasaba, así como casos de mejora de la eficiencia en la publicación."
+              },
+              {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/Hundred-Line.jpeg",
-                "cap": "© Aniplex, Too Kyo Games"
+                "src": "https://file.thisisgame.com/upload/email-attachments/2026/10/28/1639287616436323679_f8c04051-d2a5-4056-86c3-0a552014f8f1_%5B%EC%9D%B4%EB%AF%B8%EC%A7%80%5D%20%27Games%20on%20AWS%202026%27%20%EA%B0%95%EC%97%B0%20%ED%98%84%EC%9E%A5_%EB%9D%BC%EC%9D%B8%EA%B2%8C%EC%9E%84%EC%A6%88%20%EC%9D%B4%EC%95%84%EC%98%81%20%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%8B%B1%20%EA%B8%B0%EC%88%A0%EC%8B%A4%EC%9E%A5.jpg"
               },
               {
                 "t": "p",
-                "x": "Kotaro Uchikoshi, conocido por Zero Escape y Hundred Line, insiste en una nueva entrevista con Famitsu en que su nuevo estudio, Crash Keys, y la cancelación de su juego fueron reales, y dice que quizá el juego no se habría cancelado si le hubieran permitido usar AI."
+                "x": "Para superar esa limitación, Line Games adoptó Amazon Bedrock AgentCore y construyó una cadena automatizada que une la revisión de código y la redacción de documentación técnica. En la fase de MR (Merge Request) de herramientas como GitLab, el nuevo agente analiza por sí solo los cambios en el código de la plataforma para hacer la revisión de código y, a partir del resultado, propone modificaciones a los documentos técnicos relacionados. Cuando el responsable las aprueba, se incorporan a los documentos, y los documentos actualizados vuelven a la base de conocimiento de Nexus AI para mantener de forma constante la fiabilidad de las respuestas a las consultas de los desarrolladores externos."
               },
               {
                 "t": "p",
-                "x": "\"Para equipos medianos como el nuestro, sobre todo los que hacen juegos de aventura, ahora incluso los juegos indie creados por particulares pueden verse como rivales. Algunas de estas personas usan AI con equipos muy pequeños para producir juegos amplios y con mucho contenido en poco tiempo y a bajo coste. [...] Creo que no tenemos más remedio que usar AI nosotros también\"."
+                "x": "Además, utilizó AWS Security Agent para realizar en paralelo la revisión de código y la revisión de seguridad, de modo que los problemas de seguridad que suelen detectarse tarde se revisen en el mismo flujo. Lee explicó el 'bucle de automatización entre código y documentos', completado a medida que el agente AI pasó de leer documentos a comprender los cambios en el código y redactar documentos. También presentó el 'límite de confianza de la automatización (Trust Boundary)' fijado para garantizar la calidad en el uso real, su experiencia práctica y la hoja de ruta futura de la tecnología de publicación."
               },
               {
                 "t": "p",
-                "x": "\"Entiendo que haya resistencia al uso de AI en el desarrollo de juegos. Sin embargo, personalmente, soy partidario de la AI\". Afirma que el origen del diseño visual y de la historia debe venir de ideas humanas, pero que no le importa confiar a la AI el refinado y el pulido, lo que podría llevar un producto final del 70-80 por ciento de la visión de un creador a cerca del 100 por ciento."
-              },
-              {
-                "t": "p",
-                "x": "Anteriormente, Uchikoshi dijo que Hundred Line podría ser \"una de las últimas veces\" que se hiciera un juego de esa escala sin AI."
+                "x": "“Hemos eliminado la ineficiencia de corregir documentos técnicos y ahora podemos automatizar sobre una estructura que pasa por la aprobación humana”, dijo Lee Ah-young, directora de la oficina de tecnología de publicación de Line Games. “Seguiremos aprovechando activamente la tecnología AI más reciente de AWS para mejorar la eficiencia de la colaboración con los desarrolladores externos y reforzar de forma continua nuestra competitividad en tecnología de publicación de juegos”."
               }
             ]
           }

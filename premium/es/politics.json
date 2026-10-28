@@ -4073,6 +4073,133 @@
           "x": "Según Sveriges Radio, también se han impuesto restricciones en la Agencia Tributaria sueca y en la Junta Nacional de Atención Institucional. Estas plataformas de AI se suman a DeepSeek en la lista de herramientas de AI no aprobadas por el Gobierno sueco por temores sobre la seguridad de los datos."
         }
       ]
+    },
+    "politics/italy-ai-decree": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt99872c4097b21ada/6adf77a36ee1cc326aa123d3/colosseum-italy-0015.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El marco nacional de Italia para la EU Artificial Intelligence Act dio un paso decisivo el 23 de octubre, con la entrada en vigor del Decreto Legislativo No. 179. Publicado en el Diario Oficial el 8 de octubre, es el segundo paso de un enfoque en dos etapas que comenzó con la Ley No. 132 en septiembre de 2025, la ley general de Italia sobre AI."
+        },
+        {
+          "t": "p",
+          "x": "La AI Act deja piezas importantes a la legislación nacional: los Estados miembros deben designar autoridades competentes, establecer sanciones y procedimientos, y crear entornos de pruebas regulatorios (sandboxes). Al menos en dos áreas, Italia ha tomado decisiones propias."
+        },
+        {
+          "t": "p",
+          "x": "AgID, la Agencia para la Italia Digital, actúa como autoridad notificante: evalúa, designa y supervisa a los organismos de evaluación de la conformidad. ACN, la Agencia Nacional de Ciberseguridad, es la principal autoridad de vigilancia del mercado y el punto de contacto único con las instituciones de la EU, con poderes de investigación y ejecución, incluida la inspección sin previo aviso de pruebas en condiciones reales, y registra los sistemas de alto riesgo usados en infraestructuras críticas."
+        },
+        {
+          "t": "p",
+          "x": "El resto del análisis de la IAPP está disponible solo para miembros."
+        }
+      ]
+    },
+    "politics/pakistan-ecp-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.tribune.com.pk/media/images/ecp1753715314-0/ecp1753715314-0-640x480.webp",
+          "cap": "Edificio de la Comisión Electoral de Pakistán en Islamabad. Foto: Radio Pakistan"
+        },
+        {
+          "t": "p",
+          "x": "La Comisión Electoral de Pakistán (ECP) propuso 12 enmiendas a los códigos de conducta de 2023 para partidos políticos, medios de comunicación y observadores electorales, con el fin de frenar el uso indebido de la inteligencia artificial (AI) durante las elecciones."
+        },
+        {
+          "t": "p",
+          "x": "La comisión ha pedido la opinión del público y de las partes interesadas hasta el 20 de noviembre; las medidas buscan regular el contenido generado por AI (AI-generated), prohibir los deepfakes engañosos y garantizar la transparencia en la comunicación relacionada con las elecciones."
+        },
+        {
+          "t": "p",
+          "x": "Los medios estarían obligados a indicar claramente cuándo emiten, publican o difunden contenido generado o modificado mediante AI. El borrador prohíbe los deepfakes de líderes de partidos, candidatos, funcionarios electorales, jueces, miembros de las fuerzas armadas y otros funcionarios del Estado si el contenido es falso, difamatorio o busca ridiculizarlos."
+        },
+        {
+          "t": "p",
+          "x": "Los medios podrán usar herramientas de AI para preparar, traducir, presentar o analizar contenido electoral si lo declaran. Pemra, la Autoridad de Protección y Regulación de Redes Sociales y la Agencia Nacional de Investigación de Delitos Cibernéticos vigilarían el contenido de AI sin etiquetar y comunicarían las infracciones a la ECP."
+        }
+      ]
+    },
+    "politics/ap-ai-disinfo-videos": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.twincities.com/wp-content/uploads/2026/10/Election_2_26_Vance_32249.jpg",
+          "cap": "Un votante llena su boleta durante la votación anticipada."
+        },
+        {
+          "t": "p",
+          "x": "NEW YORK (AP) — Videos en redes sociales que se cree fueron producidos con inteligencia artificial y que están vinculados a Rusia usan indebidamente nombres y fotografías de personas reales para difundir desinformación sobre dos candidatos demócratas al Senado en el tramo final de las elecciones de medio mandato."
+        },
+        {
+          "t": "p",
+          "x": "Uno apunta a Sherrod Brown, que compite contra el senador republicano Jon Husted en Ohio, y usa fotos de una exbecaria, Haya Akbik, quien calificó de “completamente inventadas” las afirmaciones que se le atribuyen. Otro apunta a James Talarico, que compite contra el republicano Ken Paxton en Texas, y se presenta como la confesión de un exalumno."
+        },
+        {
+          "t": "p",
+          "x": "X retiró las publicaciones iniciales y suspendió a los usuarios, pero aún podían encontrarse copias en internet. Darren Linvill, profesor de la Universidad de Clemson, dijo que los videos probablemente son obra de Storm-1516, una red rusa. La Embajada de Rusia no respondió de inmediato; en el pasado ha negado interferir en las elecciones de Estados Unidos (U.S.)."
+        },
+        {
+          "t": "p",
+          "x": "Hany Farid, profesor de Dartmouth, dijo que los videos probablemente fueron generados o manipulados con AI, y calificó el de Brown como una “falsificación de bastante baja tecnología”."
+        }
+      ]
+    },
+    "politics/malaysia-ai-chips": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dam.mediacorp.sg/image/upload/s--BE5l9S0k--/c_crop,h_1125,w_1999,x_1,y_105/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/28/2026-10-28t053634z_1129627958_rc24coa9o52o_rtrmadp_3_malaysia-customs.jpg?itok=ZbY0e5Im",
+          "cap": "Una unidad de servidor con chips avanzados de AI, mostrada en una rueda de prensa de aduanas en Sepang, Malasia, el 28 de octubre de 2026. (Foto: REUTERS/Hasnoor Hussain)"
+        },
+        {
+          "t": "p",
+          "x": "KUALA LUMPUR: La aduana de Malasia informó el miércoles (28 de octubre) que este mes incautó chips avanzados de inteligencia artificial por valor de unos 49.5 millones de ringgit (US$12.11 millones), mientras las autoridades cercan a una red sospechosa de contrabandear semiconductores de alto rendimiento a través del principal aeropuerto del país."
+        },
+        {
+          "t": "p",
+          "x": "Malasia impuso el año pasado controles de exportación a los chips avanzados de AI de origen US, tras la presión de Estados Unidos para frenar su llegada a China. El 15 de octubre, las autoridades hallaron 30 unidades de servidor con esos chips en la zona franca del Aeropuerto Internacional de Kuala Lumpur, dijo la directora de aduanas Aspalila Ag Tuah. El envío iba a reexportarse, lo que requería un permiso comercial."
+        },
+        {
+          "t": "p",
+          "x": "\"Los servidores se declararon falsamente como componentes electrónicos\", dijo Aspalila. Una empresa malasia que facilitó el envío fue citada para colaborar con la investigación. Al menos cinco casos están vinculados a la red, con incautaciones que suman más de 100 millones de ringgit."
+        }
+      ]
+    },
+    "politics/lords-aisi": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.parliament.uk/contentassets/d9c723cd82f8465480b98fe4d66ca17e/kevin-ku-w7zyugynprq-unsplash.webp?width=1000&quality=85"
+        },
+        {
+          "t": "p",
+          "x": "Los miembros de la Cámara de los Lores (House of Lords) completaron el lunes 26 de octubre, en la fase de informe, el examen adicional del proyecto de ley de Ciberseguridad y Resiliencia (Redes y Sistemas de Información) (Cyber Security and Resilience (Network and Information Systems) Bill)."
+        },
+        {
+          "t": "p",
+          "x": "El proyecto busca reforzar la ciberseguridad de las organizaciones del UK que prestan servicios esenciales, como la sanidad, el agua potable y la energía. La nueva ley también incorporará más sectores, actualizará las obligaciones de notificación de incidentes y otorgará al gobierno facultades para dar instrucciones a las organizaciones en interés de la seguridad nacional."
+        },
+        {
+          "t": "p",
+          "x": "Los miembros estudiaron enmiendas sobre asuntos como la notificación voluntaria de incidentes, ciberamenazas y cuasi incidentes; la inclusión de proveedores de servicios y fabricantes de software en el marco NIS; la designación de proveedores críticos y las vulnerabilidades de la cadena de suministro; la protección y el enjuiciamiento de especialistas en ciberseguridad que actúan 'de buena fe'; un servicio nacional de apoyo en ciberseguridad para SMEs; y una Estrategia de Soberanía Digital (Digital Sovereignty Strategy) y la rendición de cuentas de los consejos de administración."
+        },
+        {
+          "t": "p",
+          "x": "Hubo tres votaciones sobre cambios propuestos al proyecto. Los miembros aprobaron dos enmiendas, que obligan al gobierno a revisar en un plazo de doce meses la eficacia del régimen de Redes y Sistemas de Información (Network and Information Systems) y a mantener un registro de actores estatales que amenazan la ciberseguridad del UK."
+        },
+        {
+          "t": "p",
+          "x": "Un tercer cambio, sobre la notificación de incidentes relacionados con modelos de AI de frontera, se sometió a votación, pero los miembros no lo aceptaron."
+        },
+        {
+          "t": "p",
+          "x": "La tercera lectura, última oportunidad para que los miembros 'pulan' el proyecto y le introduzcan cambios, está prevista para el lunes 2 de noviembre."
+        }
+      ]
     }
   }
 }

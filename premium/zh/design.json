@@ -9647,6 +9647,153 @@
           "x": "该功能把品牌视觉一致性融入图像生成流程。不过，官方公告并未包含关于其遵守标志形状或字体使用规则准确度的验证结果。在实际内容中使用前，有必要将生成的图像与原始规范进行对照。商业起始界面和新的连接应用将陆续向全球Gemini应用用户推出。"
         }
       ]
+    },
+    "design/clate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.electropages.com/storage/app/media/2026/10.%20October/cropped-images/Clate-PR%20image_02-0-0-1200-630-1793190752.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Qt Group发布了Clate，这是一款专为嵌入式设备用户界面打造的全新AI-powered设计工具。该平台在Qt World Summit 2026上亮相，提供无代码环境，让设计师在开发界面时能够兼顾嵌入式系统的硬件限制。"
+        },
+        {
+          "t": "p",
+          "x": "Clate提供一个可视化工作空间，具备无限画布、层级树、资源管理、组件库以及可感知上下文的属性控件。借助AI助手，设计师可以用自然语言提示生成界面并修改界面元素；它还通过Model Context Protocol (MCP)与其他工具集成。Clate会自动生成QML代码，开发者可以直接使用设计师的成果，无需手动重建界面。"
+        },
+        {
+          "t": "p",
+          "x": "Qt Group还计划在设计阶段提供帧率和内存占用的性能监测。据Qt Group称，59%的嵌入式UX设计师认为，更合适的设计工具会让他们受益。"
+        },
+        {
+          "t": "p",
+          "x": "Qt Group的Vice President, Design Products Antti Kujala表示：“长期以来，嵌入式UI/UX设计师只能使用根本不考虑真实硬件限制的网页中心工具，在工作上不得不妥协。”"
+        },
+        {
+          "t": "p",
+          "x": "Clate以测试版形式推出，完整的计划功能预计于2027年初到位。"
+        }
+      ]
+    },
+    "design/nuke18": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261027_Nuke18_OpenBeta_f-960x480.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Foundry以测试版形式发布了旗下合成软件系列的最新更新Nuke 18.0。Nuke本身新增了Griptape Node，将软件与Foundry的AI编排平台Griptape相连。借助它，合成师可以直接在Nuke节点图中执行生成式AI工作流，例如制作要合成进项目的特效元素。"
+        },
+        {
+          "t": "video",
+          "yt": "iK5xckpMLag"
+        },
+        {
+          "t": "p",
+          "x": "Griptape可以把面向静态图像、视频、3D资产和音频的第三方AI模型组合成相对可控、可重复的工作流。建议的用例涵盖抠像、遮罩、内补绘制、干净背景板生成，乃至生成全新的资产。新节点直接连接正在运行的Griptape引擎，并在Nuke中自动填充控制旋钮（提示词、模型、种子、宽高比）。"
+        },
+        {
+          "t": "p",
+          "x": "此次版本还改进了3D Gaussian Splats相关工作流，新增对新摄像机格式和H.265/HEVC媒体的支持，并为Nuke Studio加入了自动剪辑点检测。"
+        },
+        {
+          "t": "p",
+          "x": "Nuke 18.0目前处于测试阶段。年度订阅价格为：Nuke每年$3,839，NukeX每年$5,219，Nuke Studio每年$6,379。Griptape Nodes可免费下载，但AI模型的使用按积分计费。"
+        }
+      ]
+    },
+    "design/vectorworks-nano": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/onvm0vode0lbhelfz3iu-scaled.webp",
+          "cap": "图片：© Vectorworks"
+        },
+        {
+          "t": "p",
+          "x": "Vectorworks AI Visualizer 的最新版本提供两款新模型，其中包括 Google 的 Nano Banana，可生成高质量、逼真的 AI-generated 视觉效果。拥有 Vectorworks 2027 订阅的用户，现在可以在 AI Visualizer 面板中使用 Google 的 Nano Banana 2 和 Nano Banana Pro 模型。"
+        },
+        {
+          "t": "p",
+          "x": "Nano Banana 2 适合在整个设计过程中测试概念、反复迭代视觉效果，而 Nano Banana Pro 则有助于为重要的演示或交付物制作更精细的图像。两款模型均以 2K 分辨率生成和编辑图像，可放大至 4K，每条提示词最多支持 14 张参考图像。"
+        },
+        {
+          "t": "p",
+          "x": "每个订阅许可证每个日历月包含 150 积分。Nano Banana 2 每生成或编辑一张图像消耗两个积分，放大至 4K 消耗四个；Nano Banana Pro 则分别消耗三个和六个。每月 150 积分用完后，AI Visualizer 会自动切换到无需积分的 Basic 模型。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/fvnfqfow7jjehydeazpm-300x169.webp",
+          "cap": "图片：© Vectorworks"
+        },
+        {
+          "t": "p",
+          "x": "Basic 模型可无限次生成和优化 AI 视觉效果，适用于快速研究和反复迭代，每条提示词最多支持两张参考图像。"
+        }
+      ]
+    },
+    "design/ai-time-savings": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/2600/1*dZrEcUcZH_5ulg0g4yd0zQ.jpeg",
+          "cap": "摄影：cottonbro studio"
+        },
+        {
+          "t": "p",
+          "x": "你的速度前所未有地快，可你的一天并没有变短。Nielsen Norman Group刚刚发布了一项针对521名UX从业者的调查：受访者给AI对任务耗时的影响打出4.2分（满分5分），但被问及在工作中对AI的感受时，平均分只有3.57分（满分5分）。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/2600/1*k8hCs3AXzCFKkutCoaTsNw.png"
+        },
+        {
+          "t": "p",
+          "x": "69%的评论流露出某种负面情绪，主要源于输出不可靠以及核查输出的负担。NN/g的结论是，AI节省下来的时间很少留在节省时间的人手里。Kai Wong将此与Jevons悖论以及Peter Merholz提出的“可读性鸿沟”（legibility gap）联系起来：屏幕背后的研究、迭代和AI-checking默认是看不见的。"
+        },
+        {
+          "t": "p",
+          "x": "一家B2B安全公司的Head of Design表示，Claude Code把原本需要四天的Figma-to-code流程缩短到约八小时，但“你仍然得以同样的力度仔细审查输出”。"
+        },
+        {
+          "t": "p",
+          "x": "他的建议是：“Time everything（一切都要计时）。”记录节省前后的时间，事先把验证时间算进去，把看不见的审查变成看得见的决策文档，并主动说明你的时间花在了哪里。"
+        }
+      ]
+    },
+    "design/a2ui": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/00-header-1600x900_1.original.png"
+        },
+        {
+          "t": "p",
+          "x": "我们听到了大家对A2UI和生成式UI体验速度的担忧：模型逐个生成屏幕时，用户只能等待。此次发布引入了可切换的推理格式，并分享了在A2UI中使用决策模型的示例。使用新的A2UI Express作为推理格式，延迟最多可降低3x；借助Jev等决策模型做布局决策，最多可降低80x。与Direct JSON相比，Express生成同类UI所需的token最多少3x。"
+        },
+        {
+          "t": "p",
+          "x": "事实证明，让LLMs生成受复杂JSON schema约束的JSON树既慢又容易出错。现在，代理可以生成中间格式A2UI Express，再由A2UI的Agent SDKs中的确定性代码将其转换为JSON-based传输协议。创建生成器时，只需一个参数即可选择格式。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/02-how-it-works-swap.original.png"
+        },
+        {
+          "t": "p",
+          "x": "Express每行写一条语句，风格接近Python。它已在Python agent SDK（a2ui-agent-sdk 0.9.0）、TypeScript agent SDK（@a2ui/agent）和Dart SDK中提供。Google在gemini-3.5-flash上用同一套51-task eval测试了四种格式，发现即使关闭thinking，Express的表现也同样出色。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/04-how-we-chose-express-eval.original.png"
+        },
+        {
+          "t": "p",
+          "x": "对于结构已知的屏幕，TypeSafe的System One模型Jev回答类型化布局问题约需100至300 ms。在开源的Apparite（jev2ui）示例中，11个提示词下组件树在92至298 ms内显示到屏幕上，每个屏幕在0.8至1.7 s内完成。"
+        }
+      ]
     }
   }
 }

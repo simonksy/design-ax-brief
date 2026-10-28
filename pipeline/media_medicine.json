@@ -1,31 +1,31 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "section": "medicine",
   "media": [
     {
-      "id": "medicine-azoospermia-sperm",
+      "id": "medicine-zocdoc-agents",
       "type": "image",
-      "src": "pipeline/media/medicine-azoospermia-sperm.jpg"
+      "src": "pipeline/media/medicine-zocdoc-agents.jpg"
     },
     {
-      "id": "medicine-chatgpt5-fracture",
+      "id": "medicine-ed-fracture-ai",
       "type": "image",
-      "src": "pipeline/media/medicine-chatgpt5-fracture.jpg"
+      "src": "pipeline/media/medicine-ed-fracture-ai.png"
     },
     {
-      "id": "medicine-ich-triage",
+      "id": "medicine-stanford-critical-results",
       "type": "image",
-      "src": "pipeline/media/medicine-ich-triage.jpg"
+      "src": "pipeline/media/medicine-stanford-critical-results.jpg"
     },
     {
-      "id": "medicine-mmc-drift",
+      "id": "medicine-ajou-thync",
       "type": "image",
-      "src": "pipeline/media/medicine-mmc-drift.png"
+      "src": "pipeline/media/medicine-ajou-thync.jpg"
     },
     {
-      "id": "medicine-uhc-avery",
+      "id": "medicine-ut-dell-ai",
       "type": "image",
-      "src": "pipeline/media/medicine-uhc-avery.jpg"
+      "src": "pipeline/media/medicine-ut-dell-ai.jpg"
     }
   ]
 }

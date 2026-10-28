@@ -9637,6 +9637,133 @@
           "x": "Yiran Jiao et al.による研究で、ACS Catalysis (2026)に掲載された。DOI: 10.1021/acscatal.6c00635."
         }
       ]
+    },
+    "science/pasqal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_17-06.png"
+        },
+        {
+          "t": "p",
+          "x": "中性原子方式の量子コンピューター企業Pasqal(Nasdaq: PSQL)は、Pasqal Cloud上のAI-assistedワークフローを発表した。主要なエージェント型コーディング環境向けのプラグインとして提供され、明確に定義された科学的アイデアを量子処理装置(QPU)上で動く実験へと移すことができ、アイデアからハードウェアでの実行までのエンジニアリング作業を減らす。"
+        },
+        {
+          "t": "p",
+          "x": "論文に記載された実験や独自のアイデアを出発点に、ワークフローはプロトコルを抽出または定式化し、ハードウェアで実行可能な量子ジョブに変換し、エミュレーションで検証し、クラウド経由で投入し、結果を科学的な観測量へと処理する。"
+        },
+        {
+          "t": "p",
+          "x": "CEOのWasiq Bokhariは「量子コンピューティングのボトルネックは移りつつある」と述べた。「かつて研究者の注意を必要としたエンジニアリング作業はますます自動化できるようになり、研究者は科学により専念できる」"
+        },
+        {
+          "t": "p",
+          "x": "アイデアの創出や検証、何を測定するか、結果が物理的な主張を裏づけるかの判断は、引き続きユーザーが担う。プラグインはClaude Code、Cursor、Codexなどにインストールでき、Pasqal CloudのQPUs三台で実験を実行する。フランスのCEAでGENCIが運用するRuby、カナダ・QuébecのSherbrookeにあるFC1、サウジアラビア王国のSA1である。"
+        }
+      ]
+    },
+    "science/novelty-bench": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-header.png"
+        },
+        {
+          "t": "p",
+          "x": "Ai2は、LLMsが研究アイデアの新規性をどれほど確実に評価できるかを調べた研究Old Ideas, Novel Problemsを公開し、ベンチマーク、データ、コード、新たな評価セットを構築する自動パイプラインも併せて公開した。研究アイデアを生成するシステムは、新規性の判定を別のLLM、すなわち「新規性ジャッジ」に委ねることが多い。"
+        },
+        {
+          "t": "p",
+          "x": "ベンチマークはICLR 2026の査読を素材とする。top-10%の採択論文から得た新規性の高い人間のアイデア154件と、bottom-10%の不採択論文から得た新規性の低いアイデア145件(Human-Only)、さらに人間のアイデア154件を単純なLLM生成器によるアイデア154件と組み合わせたもの(Human+Generated)だ。"
+        },
+        {
+          "t": "p",
+          "x": "六つのジャッジ(GPT-5.1、GPT-5.2、GPT-5.4、Claude Sonnet 4.5、Claude Opus 4.5、Claude Opus 4.6)のいずれでも、わずかな設定変更で判定が大きく変わった。GPT-5.4をより単純なプロンプトに切り替えると、Human+Generatedペアでの正解率は93.5%から40.9%へと下がり、偶然の水準を下回った。Human-Onlyでは、同じ変更による正解率の変化は約七ポイントにとどまった。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-prompt-wording-chart.png"
+        },
+        {
+          "t": "p",
+          "x": "検索や推論を増やしても確実な改善にはつながらなかった。エージェント型のGPT-5.6 Solジャッジはmacro-F1が0.78で、Claude Opus 4.6の0.89を下回り、コストは約10xだった。単純なClaude Opus 4.6のプロンプトは$2.59で0.854に達し、Idea Novelty Checker(0.642、$30.66)やSakana AIのAI Scientist(0.772、$82.05)を上回った。"
+        }
+      ]
+    },
+    "science/blight-rice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-create-ric.jpg",
+          "cap": "Bing Yang. Credit: Braiden Wade / University of Missouri"
+        },
+        {
+          "t": "p",
+          "x": "University of Missouriの研究者は、白葉枯病に抵抗性を持つイネを作出した。この病気はアジアやアフリカの一部で収穫を壊滅させ、生計を脅かしかねない。College of Agriculture, Food and Natural ResourcesのCurators'特別栄誉教授で、Bond Life Sciences Centerの研究者でもあるBing Yangは「白葉枯病はイネに大きな被害をもたらし、収量と品質の両方を低下させる」と述べた。"
+        },
+        {
+          "t": "p",
+          "x": "研究チームは、人工知能を使って設計されたゲノム編集システムOpenCRISPR-1を用いて、植物を病気にかかりやすくする遺伝子を改変した。このツールはもともとカリフォルニアのバイオテクノロジー企業Profluentが開発し、動物細胞で実証されていたもので、Yangのチームがイネ向けに適応させた。研究はaBIOTECHに掲載された。"
+        },
+        {
+          "t": "p",
+          "x": "今回の結果は実験系統によるものだ。農家が恩恵を受けるには、この形質を商業栽培品種に導入し、さらなる試験や規制要件をクリアし、産業界のパートナーを見つける必要があり、数年かかる可能性がある。Yangは、この手法がトウモロコシや大豆にも、また植物病害から干ばつ、極端な気温に至る課題にも広がるとみている。OpenCRISPR-1はオープンソースで、作物ゲノム編集の研究と商業化に無料で利用できる。"
+        }
+      ]
+    },
+    "science/ai-ideas-people": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/collaboration.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "生成AIの生産性向上はしばしば強調されるが、協働や創造性にはどう影響するのか。認知科学者のClin LaiとRoger Beatyは、拡散的思考を測る「代替用途課題」を用いた実験を行い、208人の参加者をChatGPTか別の人のどちらかと組むよう無作為に割り当てた。"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPTと組んだ人はより長い回答を書いたが、「人同士のペアは、ChatGPTと組んだ人よりも創造的なアイデアを出した」。人同士のペアのアイデアは、より独自性が高く多様でもあった。本を防音材として使うなど、AIの個々の提案が創造的なこともあったが、ChatGPTは別々の多くのセッションで同じアイデアを示したため、アイデアの集まりはより均質になった。"
+        },
+        {
+          "t": "p",
+          "x": "著者らは、似たデータで次に来る可能性が最も高い語を予測するよう訓練された大規模言語モデルは、収束しやすいと指摘する。意味的距離で測ると、他者と協働することによる創造性の利点は、協働が進むにつれて強まった。"
+        },
+        {
+          "t": "p",
+          "x": "ペルソナ・プロンプティングはChatGPTのアイデアの多様性を高めたが、その幅はなお人間の書き手に及ばなかった。彼らの助言は、AIと話す前にまず人と話すことだ。研究はComputers in Human Behaviorに掲載された。"
+        }
+      ]
+    },
+    "science/dueling-proofs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/a68eee8f-8e2b-4674-bee4-bc400e160421/shutterstock_1178400508.jpg?m=1793104449.992&w=1200",
+          "cap": "xpixel/Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "すでに危機にある分野に人工知能が生み出した数学的成果を数百件投じてからわずか数週間後、OpenAIは数学・物理学・計算機科学にまたがる大型の証明を三つ公開した。最近の他のAI-generatedな“slop drops”と同様、今回の公開もすでに論争を呼んでいる。"
+        },
+        {
+          "t": "p",
+          "x": "今回の公開は、OpenAIが組織した専門家パネルAdvisory Group on Mathematics and Artificial Intelligence(AGMAI)の勧告に反する。モデルは非公開のままで、プロンプト、計算時間、chain-of-thoughtの出力も公開されていない。結果のうち二つは、Anthropicが関わる密接に関連した研究と重なる。"
+        },
+        {
+          "t": "p",
+          "x": "Kakeya:先月四次元の場合を解いたOpenAIの内部モデルが、今回はあらゆる次元でKakeya問題を解いた。"
+        },
+        {
+          "t": "p",
+          "x": "Yang-Mills:OpenAIはMillennium Prize Problemの“存在”の半分を証明したと主張したが、“質量ギャップ”は未解決のままだ。Anthropic社員のLevent AlpögeとNorthwesternのEthan Sussmanは、公開GitHubリポジトリでLLMsを使いBalabanのプログラムを完成させようとしていた。証明が公開されていないOpenAIの主張は、彼らに先んじたとみられる。"
+        },
+        {
+          "t": "p",
+          "x": "Exponential Time Hypothesis:OpenAIの証明は指数時間よりごくわずかに速い3-SATアルゴリズムを示し、ETHを否定する。Russell Impagliazzo、Ramamohan Paturi、Ryan WilliamsがOpenAIと独立した検証を進めている。OpenAIの発表からわずか数時間後、Anthropicは社内のAnthropicモデルの成果に基づき、ETHを反証する独自の結果を公開した。"
+        }
+      ]
     }
   }
 }

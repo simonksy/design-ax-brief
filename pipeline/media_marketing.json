@@ -1,32 +1,7 @@
-{
-  "date": "2026-10-28",
-  "section": "marketing",
-  "media": [
-    {
-      "id": "metaaiads",
-      "type": "image",
-      "src": "pipeline/media/metaaiads.jpg"
-    },
-    {
-      "id": "shopifykb",
-      "type": "image",
-      "src": "pipeline/media/shopifykb.jpg"
-    },
-    {
-      "id": "indentm",
-      "type": "image",
-      "src": "pipeline/media/indentm.png"
-    },
-    {
-      "id": "dailymailgeo",
-      "type": "image",
-      "src": "pipeline/media/dailymailgeo.jpg"
-    },
-    {
-      "id": "fakeaireviews",
-      "type": "video",
-      "src": "pipeline/media/fakeaireviews.mp4",
-      "poster": "pipeline/media/fakeaireviews.jpg"
-    }
-  ]
-}
+{"date":"2026-10-29","section":"marketing","media":[
+{"id":"aimodeads","type":"image","src":"pipeline/media/aimodeads.png"},
+{"id":"metaranking","type":"image","src":"pipeline/media/metaranking.jpg"},
+{"id":"stackadapt","type":"image","src":"pipeline/media/stackadapt.jpg"},
+{"id":"adexfraud","type":"image","src":"pipeline/media/adexfraud.jpg"},
+{"id":"clorox","type":"image","src":"pipeline/media/clorox.jpg"}
+]}

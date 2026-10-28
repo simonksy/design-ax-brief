@@ -1,26 +1,27 @@
 {
-  "lords-aisi": {
-    "lead_image": "https://www.parliament.uk/contentassets/d9c723cd82f8465480b98fe4d66ca17e/kevin-ku-w7zyugynprq-unsplash.webp?width=1000&quality=85",
+  "hochul-chatbots": {
+    "lead_image": "https://www.governor.ny.gov/sites/default/files/styles/hero_wide/public/2026-10/aibabymonitor2.jpg?h=b5f6a62e&itok=8DLmZfWV",
+    "video": "https://www.youtube.com/watch?v=3Kza_uwnviw",
+    "yt": "3Kza_uwnviw",
+    "note": "governor.ny.gov returns 403 to curl for page and image (WAF); YouTube maxresdefault thumb 1280x720 reachable: https://i.ytimg.com/vi/3Kza_uwnviw/maxresdefault.jpg; yt-dlp hit bot-check"
+  },
+  "italy-ai-decree": {
+    "lead_image": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt99872c4097b21ada/6adf77a36ee1cc326aa123d3/colosseum-italy-0015.jpg",
     "video": "",
     "yt": ""
   },
-  "delaware-ai-firms": {
-    "lead_image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg",
+  "pakistan-ecp-ai": {
+    "lead_image": "https://i.tribune.com.pk/media/images/ecp1753715314-0/ecp1753715314-0-640x480.webp",
     "video": "",
     "yt": ""
   },
-  "inec-voter-photos": {
-    "lead_image": "https://www.channelstv.com/wp-content/uploads/2024/11/Ondo-Governorship-Election-2024-Residents-check-their-names-in-the-voters-register.jpeg",
+  "ap-ai-disinfo-videos": {
+    "lead_image": "https://www.twincities.com/wp-content/uploads/2026/10/Election_2_26_Vance_32249.jpg",
     "video": "",
     "yt": ""
   },
-  "us-taiwan-art": {
-    "lead_image": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/1280px-tsmc_fab5.jpg?sfvrsn=8abcb19a_5",
-    "video": "",
-    "yt": ""
-  },
-  "kr-ai-youth-law": {
-    "lead_image": "https://cdn.digitaltoday.co.kr/news/photo/202610/709998_657556_230.png",
+  "malaysia-ai-chips": {
+    "lead_image": "https://dam.mediacorp.sg/image/upload/s--BE5l9S0k--/c_crop,h_1125,w_1999,x_1,y_105/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/28/2026-10-28t053634z_1129627958_rc24coa9o52o_rtrmadp_3_malaysia-customs.jpg?itok=ZbY0e5Im",
     "video": "",
     "yt": ""
   }

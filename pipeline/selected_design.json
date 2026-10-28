@@ -1,179 +1,179 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "section": "design",
   "user_selection": null,
   "picks": [
     {
       "rank": 1,
-      "title": "Fast, reliable A2UI, with swappable inference formats",
-      "url": "https://developers.googleblog.com/fast-reliable-a2ui/",
-      "source": "Google for Developers Blog",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#3b6bff",
-      "motif": "frame",
-      "published_iso": "2026-10-27T00:00:00Z",
-      "og_image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/00-header-1600x900.2e16d0ba.fill-1200x600.png",
-      "excerpt": "Google's A2UI generative-UI protocol gets swappable inference formats, including A2UI Express for 3x lower latency and controlled generation with Jev for reliable agent-generated interfaces. (Off-list: no on-list outlet covered generative UI this window.)",
-      "rationale": "A primary-source release that adds A2UI Express, which Google says cuts latency 3x, plus controlled generation for agent-rendered UI. It matters to designers specifying generative interfaces. This is a protocol update, not the 10-12 'AI-generated UI' essay. It is the second workflow pick, so it gets the palette accent #3b6bff."
-    },
-    {
-      "rank": 2,
-      "title": "Explore Shaders and Motion with the Figma agent | Figma on Figma",
-      "url": "https://www.youtube.com/watch?v=BS-N-AM5ql4",
-      "source": "Figma (YouTube)",
-      "category": "social",
-      "tool": "Social",
-      "accent": "#ff2d55",
-      "motif": "frame",
-      "published_iso": "2026-10-27T18:55:16Z",
-      "og_image": "https://i.ytimg.com/vi/BS-N-AM5ql4/maxresdefault.jpg",
-      "excerpt": "Figma's own team demos using the Figma agent to create shaders and motion on the canvas in an everyday workflow.",
-      "rationale": "Figma's team demonstrates the Figma agent producing shaders and motion on the canvas, a hands-on technique Figma users can copy. Earlier Figma-agent posts covered product-design craft (10-07) and design systems (10-24), not shaders or motion."
-    },
-    {
-      "rank": 3,
-      "title": "Etsy's crackdown on AI slop is welcome, but it shows how far things have slipped",
-      "url": "https://www.creativebloq.com/news/etsys-crackdown-on-ai-slop-is-welcome-but-it-shows-how-far-things-have-slipped",
-      "source": "Creative Bloq",
+      "title": "GitHub open-sources Replica, an AI prototyping tool built by GitHub Design",
+      "url": "https://github.blog/changelog/2026-10-28-introducing-replica-an-open-source-ai-prototyping-tool/",
+      "source": "GitHub Changelog",
       "category": "figma",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "published_iso": "2026-10-27T13:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/uzZxJaKSXhN5uxfLGfsSNd-1600-80.jpg",
-      "excerpt": "Etsy introduces a rule banning fake AI-generated product photos; Creative Bloq argues a handmade-design marketplace needing such a rule shows how far AI imagery has eroded trust.",
-      "rationale": "Etsy has a new rule banning fake AI-generated product photos. It directly affects designers and makers who sell there and shoot their own product images. This policy has not been covered before. The nearest earlier item is the 10-22 Just Eat AI menu-photo story, which is a different company and a different event."
+      "published_iso": "2026-10-28T15:30:00Z",
+      "og_image": "https://github.blog/wp-content/uploads/2026/11/681822683-69153c7f-086b-466e-8be1-e18aed63efac.jpg",
+      "excerpt": "GitHub is open-sourcing Replica, an AI-powered prototyping tool from GitHub Design that turns product ideas into interactive prototypes built with your own design system.",
+      "rationale": "This is a primary-source release from GitHub's own design team. Replica is an open-source AI prototyping tool that builds interactive prototypes with your own design system, so product designers can try it immediately. The only history match is the 10-10 AWS physical-AI toolchain, which shares the words 'open-sources' but is a different story."
     },
     {
-      "rank": 4,
-      "title": "New CG software you may have missed: 25 October 2026 (EdenLive real-time AI renderer, KeenFace)",
-      "url": "https://www.cgchannel.com/2026/10/new-cg-software-you-may-have-missed-25-october-2026/",
+      "rank": 2,
+      "title": "Qt Group launches Clate, an AI-native design tool for embedded interfaces",
+      "url": "https://www.electropages.com/blog/2026/10/qt-group-introduces-clate-ai-powered-design-tool-embedded-interfaces",
+      "source": "Electropages",
+      "category": "tokens",
+      "tool": "Design Tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "published_iso": "2026-10-27T08:30:00Z",
+      "og_image": "https://www.electropages.com/storage/app/media/2026/10.%20October/cropped-images/Clate-PR%20image_02-0-0-1200-630-1793190752.jpg",
+      "excerpt": "Qt Group unveiled Clate, an AI-powered design environment for embedded UIs that combines no-code building, natural-language prompts and production-ready QML output.",
+      "rationale": "This is a new product launch. Clate takes designers from natural-language prompts to production-ready QML for embedded and device UIs, which narrows the design-to-engineering handoff in HMI work. Nothing on Qt or Clate appears in the 30-day history or in the gadgets published list."
+    },
+    {
+      "rank": 3,
+      "title": "Foundry releases Nuke 18.0 in open beta with a Griptape node for AI image and video workflows",
+      "url": "https://www.cgchannel.com/2026/10/foundry-releases-nuke-18-0-in-open-beta/",
       "source": "CG Channel",
       "category": "render",
       "tool": "KeyShot",
       "accent": "#f5a623",
       "motif": "sphere",
-      "published_iso": "2026-10-26T04:30:19Z",
-      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/10/261025_NewCGSoftwareYouMayHaveMissed_25October2026_ArcBrush_f.jpg",
-      "excerpt": "Round-up includes EdenLive, an open-source model that turns rough blockout animation into near-photorealistic video in real time on one consumer GPU, plus KeenFace AI 3D head generation and an MCP server in Gaffer.",
-      "rationale": "This week's round-up leads with releases not covered before: EdenLive, an open-source real-time blockout-to-photoreal renderer that runs on one consumer GPU, plus KeenFace AI head generation and a Gaffer MCP server. 3D and visualisation designers can try these now. It is a different instalment with different releases from the 18 October round-up published 10-20."
+      "published_iso": "2026-10-28T04:30:00Z",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/10/261027_Nuke18_OpenBeta_f-960x480.jpg",
+      "excerpt": "Nuke 18.0's new Griptape node connects the compositor to Foundry's AI orchestration platform, letting artists run generative image and video workflows - such as generating a dust element - inside the node graph.",
+      "rationale": "This is a new version release. Nuke 18.0 adds a Griptape node, so compositors can run generative image and video steps inside the node graph, and the open beta is available now. The movies section ran the Griptape Enterprise launch (AWN) on 07-17, which was a different event; Nuke 18 itself has not been published in any section."
+    },
+    {
+      "rank": 4,
+      "title": "Vectorworks 2027 AI Visualizer adds Google's Nano Banana 2 and Nano Banana Pro",
+      "url": "https://www.pbctoday.co.uk/news/digital-construction-news/vectorworks-2027s-ai-visualizer-with-googles-nano-banana/167046/",
+      "source": "PBC Today",
+      "category": "cad",
+      "tool": "Text-to-CAD",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "published_iso": "2026-10-27T15:25:50Z",
+      "og_image": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/onvm0vode0lbhelfz3iu-scaled.webp",
+      "excerpt": "Vectorworks 2027's AI Visualizer palette now offers Nano Banana 2 for fast concept iteration and Nano Banana Pro for presentation images, at 2K with 4K upscaling and up to 14 reference images per prompt.",
+      "rationale": "This is a new feature inside a professional CAD/BIM tool. Architects and landscape designers get two Nano Banana models in Vectorworks for concept and presentation renders, with 4K upscaling and up to 14 reference images. The history match is the 09-29 Google Flow build pointing to Nano Banana 2.1, which is a different product and a different event."
     },
     {
       "rank": 5,
-      "title": "CLI-Anything: Turn Any App Into a CLI for Claude Code and Codex",
-      "url": "https://www.mindstudio.ai/blog/cli-anything-turn-apps-into-cli-for-ai-agents/",
-      "source": "MindStudio",
-      "category": "tokens",
-      "tool": "Design Tokens",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "published_iso": "2026-10-25T00:00:00Z",
-      "og_image": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/4585b919-e424-4ad3-8faf-651c238aaf56.png?fm=auto&w=1200&h=630&fit=crop",
-      "excerpt": "CLI-Anything auto-generates command-line interfaces for GIMP, Blender, LibreOffice and more, giving AI coding agents direct access to creative tools.",
-      "rationale": "CLI-Anything generates command-line interfaces for creative apps such as GIMP and Blender, so Claude Code or Codex can drive them directly. Designers get a practical way to script creative tools with agents. This is a different tool from the 10-08 logo skill-package item, which was SVG checks for agents."
+      "title": "The time AI saves designers usually disappears. Here's how to keep it.",
+      "url": "https://uxdesign.cc/the-time-ai-saves-designers-usually-disappears-heres-how-to-keep-it-61eb38e1ed69",
+      "source": "UX Collective",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "published_iso": "2026-10-27T11:13:45Z",
+      "og_image": "https://cdn-images-1.medium.com/max/2600/1*dZrEcUcZH_5ulg0g4yd0zQ.jpeg",
+      "excerpt": "What a survey of 521 UX professionals found about where AI time savings go - and how designers can keep them.",
+      "rationale": "This piece rests on new data, a survey of 521 UX professionals on where AI time savings actually go, and gives designers practical steps to keep that time. That makes it more useful than the opinion essays in the pool. The nearest earlier items are UXC essays on 10-15 ('hourglass') and 10-06 ('skill atrophy'), which are different arguments without this survey."
     }
   ],
   "items": [
     {
       "rank": 1,
-      "title": "Fast, reliable A2UI, with swappable inference formats",
-      "url": "https://developers.googleblog.com/fast-reliable-a2ui/",
-      "source": "Google for Developers Blog",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#3b6bff",
-      "motif": "frame",
-      "published_iso": "2026-10-27T00:00:00Z",
-      "og_image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/00-header-1600x900.2e16d0ba.fill-1200x600.png",
-      "excerpt": "Google's A2UI generative-UI protocol gets swappable inference formats, including A2UI Express for 3x lower latency and controlled generation with Jev for reliable agent-generated interfaces. (Off-list: no on-list outlet covered generative UI this window.)",
-      "rationale": "A primary-source release that adds A2UI Express, which Google says cuts latency 3x, plus controlled generation for agent-rendered UI. It matters to designers specifying generative interfaces. This is a protocol update, not the 10-12 'AI-generated UI' essay. It is the second workflow pick, so it gets the palette accent #3b6bff."
-    },
-    {
-      "rank": 2,
-      "title": "Explore Shaders and Motion with the Figma agent | Figma on Figma",
-      "url": "https://www.youtube.com/watch?v=BS-N-AM5ql4",
-      "source": "Figma (YouTube)",
-      "category": "social",
-      "tool": "Social",
-      "accent": "#ff2d55",
-      "motif": "frame",
-      "published_iso": "2026-10-27T18:55:16Z",
-      "og_image": "https://i.ytimg.com/vi/BS-N-AM5ql4/maxresdefault.jpg",
-      "excerpt": "Figma's own team demos using the Figma agent to create shaders and motion on the canvas in an everyday workflow.",
-      "rationale": "Figma's team demonstrates the Figma agent producing shaders and motion on the canvas, a hands-on technique Figma users can copy. Earlier Figma-agent posts covered product-design craft (10-07) and design systems (10-24), not shaders or motion."
-    },
-    {
-      "rank": 3,
-      "title": "Etsy's crackdown on AI slop is welcome, but it shows how far things have slipped",
-      "url": "https://www.creativebloq.com/news/etsys-crackdown-on-ai-slop-is-welcome-but-it-shows-how-far-things-have-slipped",
-      "source": "Creative Bloq",
+      "title": "GitHub open-sources Replica, an AI prototyping tool built by GitHub Design",
+      "url": "https://github.blog/changelog/2026-10-28-introducing-replica-an-open-source-ai-prototyping-tool/",
+      "source": "GitHub Changelog",
       "category": "figma",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "published_iso": "2026-10-27T13:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/uzZxJaKSXhN5uxfLGfsSNd-1600-80.jpg",
-      "excerpt": "Etsy introduces a rule banning fake AI-generated product photos; Creative Bloq argues a handmade-design marketplace needing such a rule shows how far AI imagery has eroded trust.",
-      "rationale": "Etsy has a new rule banning fake AI-generated product photos. It directly affects designers and makers who sell there and shoot their own product images. This policy has not been covered before. The nearest earlier item is the 10-22 Just Eat AI menu-photo story, which is a different company and a different event."
+      "published_iso": "2026-10-28T15:30:00Z",
+      "og_image": "https://github.blog/wp-content/uploads/2026/11/681822683-69153c7f-086b-466e-8be1-e18aed63efac.jpg",
+      "excerpt": "GitHub is open-sourcing Replica, an AI-powered prototyping tool from GitHub Design that turns product ideas into interactive prototypes built with your own design system.",
+      "rationale": "This is a primary-source release from GitHub's own design team. Replica is an open-source AI prototyping tool that builds interactive prototypes with your own design system, so product designers can try it immediately. The only history match is the 10-10 AWS physical-AI toolchain, which shares the words 'open-sources' but is a different story."
     },
     {
-      "rank": 4,
-      "title": "New CG software you may have missed: 25 October 2026 (EdenLive real-time AI renderer, KeenFace)",
-      "url": "https://www.cgchannel.com/2026/10/new-cg-software-you-may-have-missed-25-october-2026/",
+      "rank": 2,
+      "title": "Qt Group launches Clate, an AI-native design tool for embedded interfaces",
+      "url": "https://www.electropages.com/blog/2026/10/qt-group-introduces-clate-ai-powered-design-tool-embedded-interfaces",
+      "source": "Electropages",
+      "category": "tokens",
+      "tool": "Design Tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "published_iso": "2026-10-27T08:30:00Z",
+      "og_image": "https://www.electropages.com/storage/app/media/2026/10.%20October/cropped-images/Clate-PR%20image_02-0-0-1200-630-1793190752.jpg",
+      "excerpt": "Qt Group unveiled Clate, an AI-powered design environment for embedded UIs that combines no-code building, natural-language prompts and production-ready QML output.",
+      "rationale": "This is a new product launch. Clate takes designers from natural-language prompts to production-ready QML for embedded and device UIs, which narrows the design-to-engineering handoff in HMI work. Nothing on Qt or Clate appears in the 30-day history or in the gadgets published list."
+    },
+    {
+      "rank": 3,
+      "title": "Foundry releases Nuke 18.0 in open beta with a Griptape node for AI image and video workflows",
+      "url": "https://www.cgchannel.com/2026/10/foundry-releases-nuke-18-0-in-open-beta/",
       "source": "CG Channel",
       "category": "render",
       "tool": "KeyShot",
       "accent": "#f5a623",
       "motif": "sphere",
-      "published_iso": "2026-10-26T04:30:19Z",
-      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/10/261025_NewCGSoftwareYouMayHaveMissed_25October2026_ArcBrush_f.jpg",
-      "excerpt": "Round-up includes EdenLive, an open-source model that turns rough blockout animation into near-photorealistic video in real time on one consumer GPU, plus KeenFace AI 3D head generation and an MCP server in Gaffer.",
-      "rationale": "This week's round-up leads with releases not covered before: EdenLive, an open-source real-time blockout-to-photoreal renderer that runs on one consumer GPU, plus KeenFace AI head generation and a Gaffer MCP server. 3D and visualisation designers can try these now. It is a different instalment with different releases from the 18 October round-up published 10-20."
+      "published_iso": "2026-10-28T04:30:00Z",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/10/261027_Nuke18_OpenBeta_f-960x480.jpg",
+      "excerpt": "Nuke 18.0's new Griptape node connects the compositor to Foundry's AI orchestration platform, letting artists run generative image and video workflows - such as generating a dust element - inside the node graph.",
+      "rationale": "This is a new version release. Nuke 18.0 adds a Griptape node, so compositors can run generative image and video steps inside the node graph, and the open beta is available now. The movies section ran the Griptape Enterprise launch (AWN) on 07-17, which was a different event; Nuke 18 itself has not been published in any section."
+    },
+    {
+      "rank": 4,
+      "title": "Vectorworks 2027 AI Visualizer adds Google's Nano Banana 2 and Nano Banana Pro",
+      "url": "https://www.pbctoday.co.uk/news/digital-construction-news/vectorworks-2027s-ai-visualizer-with-googles-nano-banana/167046/",
+      "source": "PBC Today",
+      "category": "cad",
+      "tool": "Text-to-CAD",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "published_iso": "2026-10-27T15:25:50Z",
+      "og_image": "https://www.pbctoday.co.uk/news/wp-content/uploads/2026/10/onvm0vode0lbhelfz3iu-scaled.webp",
+      "excerpt": "Vectorworks 2027's AI Visualizer palette now offers Nano Banana 2 for fast concept iteration and Nano Banana Pro for presentation images, at 2K with 4K upscaling and up to 14 reference images per prompt.",
+      "rationale": "This is a new feature inside a professional CAD/BIM tool. Architects and landscape designers get two Nano Banana models in Vectorworks for concept and presentation renders, with 4K upscaling and up to 14 reference images. The history match is the 09-29 Google Flow build pointing to Nano Banana 2.1, which is a different product and a different event."
     },
     {
       "rank": 5,
-      "title": "CLI-Anything: Turn Any App Into a CLI for Claude Code and Codex",
-      "url": "https://www.mindstudio.ai/blog/cli-anything-turn-apps-into-cli-for-ai-agents/",
-      "source": "MindStudio",
-      "category": "tokens",
-      "tool": "Design Tokens",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "published_iso": "2026-10-25T00:00:00Z",
-      "og_image": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/4585b919-e424-4ad3-8faf-651c238aaf56.png?fm=auto&w=1200&h=630&fit=crop",
-      "excerpt": "CLI-Anything auto-generates command-line interfaces for GIMP, Blender, LibreOffice and more, giving AI coding agents direct access to creative tools.",
-      "rationale": "CLI-Anything generates command-line interfaces for creative apps such as GIMP and Blender, so Claude Code or Codex can drive them directly. Designers get a practical way to script creative tools with agents. This is a different tool from the 10-08 logo skill-package item, which was SVG checks for agents."
+      "title": "The time AI saves designers usually disappears. Here's how to keep it.",
+      "url": "https://uxdesign.cc/the-time-ai-saves-designers-usually-disappears-heres-how-to-keep-it-61eb38e1ed69",
+      "source": "UX Collective",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "published_iso": "2026-10-27T11:13:45Z",
+      "og_image": "https://cdn-images-1.medium.com/max/2600/1*dZrEcUcZH_5ulg0g4yd0zQ.jpeg",
+      "excerpt": "What a survey of 521 UX professionals found about where AI time savings go - and how designers can keep them.",
+      "rationale": "This piece rests on new data, a survey of 521 UX professionals on where AI time savings actually go, and gives designers practical steps to keep that time. That makes it more useful than the opinion essays in the pool. The nearest earlier items are UXC essays on 10-15 ('hourglass') and 10-06 ('skill atrophy'), which are different arguments without this survey."
     }
   ],
   "dedup": {
     "checks": {
-      "https://developers.googleblog.com/fast-reliable-a2ui/": {
+      "https://github.blog/changelog/2026-10-28-introducing-replica-an-open-source-ai-prototyping-tool/": {
         "verdict": "new",
-        "nearest": "https://uxdesign.cc/ai-generated-ui-is-fast-design-not-ux-855ca8abcd28",
+        "nearest": "https://www.engineering.com/aws-launches-open-source-toolchain-for-physical-ai-development/",
         "new_action": ""
       },
-      "https://www.youtube.com/watch?v=BS-N-AM5ql4": {
+      "https://www.electropages.com/blog/2026/10/qt-group-introduces-clate-ai-powered-design-tool-embedded-interfaces": {
         "verdict": "new",
-        "nearest": "https://dev.to/laurilllll/i-used-to-be-a-figma-expert-heres-how-i-design-now-4lm9",
+        "nearest": "",
         "new_action": ""
       },
-      "https://www.creativebloq.com/news/etsys-crackdown-on-ai-slop-is-welcome-but-it-shows-how-far-things-have-slipped": {
+      "https://www.cgchannel.com/2026/10/foundry-releases-nuke-18-0-in-open-beta/": {
         "verdict": "new",
-        "nearest": "https://petapixel.com/2026/10/21/just-eat-food-delivery-app-apologizes-for-ai-generated-menu-photo-showing-bacon-floating-in-soda/",
+        "nearest": "https://www.cgchannel.com/2026/10/new-cg-software-you-may-have-missed-25-october-2026/",
         "new_action": ""
       },
-      "https://www.cgchannel.com/2026/10/new-cg-software-you-may-have-missed-25-october-2026/": {
+      "https://www.pbctoday.co.uk/news/digital-construction-news/vectorworks-2027s-ai-visualizer-with-googles-nano-banana/167046/": {
         "verdict": "new",
-        "nearest": "https://www.cgchannel.com/2026/10/new-cg-software-you-may-have-missed-18-october-2026/",
+        "nearest": "https://www.testingcatalog.com/new-google-flow-build-now-points-to-nano-banana-2-1/",
         "new_action": ""
       },
-      "https://www.mindstudio.ai/blog/cli-anything-turn-apps-into-cli-for-ai-agents/": {
+      "https://uxdesign.cc/the-time-ai-saves-designers-usually-disappears-heres-how-to-keep-it-61eb38e1ed69": {
         "verdict": "new",
-        "nearest": "https://dev.to/dd8888/logo-design-skill-packages-svg-checks-for-ai-agents-bfk",
+        "nearest": "https://uxdesign.cc/ai-is-hollowing-out-the-middle-of-design-leaving-an-hourglass-behind-b7069db250fd",
         "new_action": ""
       }
     },
-    "note": "Re-curation swap on 2026-10-28. Removed: (1) Runway App Studio, already published in movies on 2026-10-27. (2) Engadget Apple Creator Studio update, assigned to another section today; the same URL is also in selected_movies.json, so the orchestrator should resolve that. The Verge Pages/Keynote/Numbers piece was excluded as well: it is the same Apple update, and gadgets ran it on 10-24. Replacements: the CG Channel 25 Oct round-up, a new weekly instalment whose releases (EdenLive, KeenFace, Gaffer MCP) differ from the 18 Oct round-up published 10-20, and MindStudio CLI-Anything, a new tool. Still excluded: The Verge Genie 4, because the games section picked the DeepMind Genie 4 primary source today (cross-section clash). MindStudio FLUX 3 Klein is the same story as the 10-16 Hugging Face post. DEV 'approval UX' duplicates the 10-11 DEV piece. NVIDIA RTX Spark continues the 10-14 story and belongs to games. Not picked for relevance: StandardFlow (engineering compliance), the Notion billboard (marketing), the Opus-vs-GPT 3D shoot-out, the DEV error-states and UX Collective essays (evergreen), the Config India keynote and the Adobe Stock short (promo). The A2UI accent stays #3b6bff as instructed, even though it is now the only workflow pick. Outlets: 5 distinct. Categories: workflow, social, figma, render, tokens."
+    "note": "Dropped as cross-section or published duplicates: Runway App Studio (movies), The Verge Genie 4 (games), Apple Creator Studio (music/gadgets), and both NVIDIA RTX Spark posts (they continue the 10-14 RTX Spark story, and RTX Spark coverage belongs to games/gadgets). Not picked: the Figma generative-plugin version history (close to the 10-28 Figma shaders video, and would have been a second figma pick), the Figma 'agent-ready design system' video (same topic as the 10-24 Figma blog post and the 10-27 UXC MCP design-system post), the Config India keynote (promo), the GitHub Copilot image generation post (would be a second GitHub card, and the dev-tool feature is less design-specific), the Gemini 4 Argon showcase (model promo, and likely to clash across sections), the Lovable ad controversy (a marketing angle), MAI-Image-2.6 GA (an off-list outlet, and a model-availability item), Allplan Max (a second cad pick; Vectorworks has the more concrete feature detail), the Frame.io YouTube short, the Fast Company smart-TV and design-principles pieces (one has no og_image; the other is less design-tool-relevant), and the remaining UXC essays (opinion only; the one UXC slot went to the survey piece). Cross-section check: I exact-checked published_urls.json movies (cgchannel and Foundry entries) and gadgets (no electropages). Nuke 18 is unpublished; only the 07-17 AWN Griptape Enterprise item exists, which is a different event. Outlets: 5 distinct. Categories: figma, tokens, render, cad, workflow."
   }
 }

@@ -13216,6 +13216,153 @@
           "x": "Suno는 처음부터 공정 이용을 내세우며 자사 결과물이 실제 음악 시장을 해친다는 주장을 반박해 왔다. 메이저 음반사들은 DistroKid의 AI-detection 도구를 두고도 압박을 이어 가는 중이다. Suno와 Udio는 Mechanical Licensing Collective에 DSP 재생량 데이터를 달라고 요구하고 있다."
         }
       ]
+    },
+    "music/behringerkick": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/EYQqEuQYEJo9onmXDpaQTd.jpg",
+          "cap": "(이미지 출처: Behringer)"
+        },
+        {
+          "t": "p",
+          "x": "Behringer가 곧 나올 하드웨어 샘플러 Kick을 예고했다. 최근 업데이트된 Akai의 MPC One과 무척 닮은 기기다. Behringer는 하드웨어가 나오기도 전에 오픈소스 펌웨어 자료를 GitHub에 올리고, 잠재 사용자에게 “악기가 할 수 있는 일을 만들고, 고치고, 새로 발명하라”고 권했다."
+        },
+        {
+          "t": "p",
+          "x": "Kick에는 패드 16개와 할당 가능한 노브 네 개, 터치스크린, 오디오·MIDI·CV 연결이 들어간다. 제스처 제어를 지원한다는 ‘AI 카메라’와 작은 터치스트립도 달렸다. 예고 가격은 $150다."
+        },
+        {
+          "t": "p",
+          "x": "Behringer는 Facebook 게시물에서 AI의 역할을 분명히 했다. “AI가 있으면 프로그래밍 경험이 없는 사람도 아이디어를 새 기능과 펌웨어로 바꿀 수 있다.” 예고된 Akai의 MPC Sample Key도 비슷하게 문을 열 것으로 보인다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/zZAfXZUMxJRUiTGXwnNpLH.jpg",
+          "cap": "Akai의 Sample Key도 오픈소스 흐름에 합류할 예정이다. (이미지 출처: Akai Professional/Instagram)"
+        },
+        {
+          "t": "p",
+          "x": "MusicRadar는 위험도 짚는다. 제품을 AI-generated 펌웨어에 열어 두면 새 기능 추가는 사실상 커뮤니티 몫이 되고, 브랜드가 AI-empowered 사용자를 개발·테스트·업데이트 비용을 아끼는 수단으로 여길 수 있다는 지적이다. GitHub에 올라온 Kick 사양은 ‘JAM DAW’라는 무언가를 중심에 두고 샘플 편집, 스텝 시퀀서, 루퍼를 내세운다."
+        }
+      ]
+    },
+    "music/machoverbso": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wbur.org/wp/2026/10/IMG_8264-scaled.jpeg",
+          "cap": "MIT Media Lab에서 첼로와 함께한 교수 겸 작곡가 Tod Machover. (Andrea Shea/WBUR)"
+        },
+        {
+          "t": "p",
+          "x": "MIT Media Lab 교수 Tod Machover가 Boston Symphony Orchestra와 인공지능을 위한 인터랙티브 작품을 초연한다. 25분짜리 곡 “already and not yet”은 80여 명의 연주자를 새로운 종류의 AI 시스템과 짝지은 작품으로, Media Lab 40주년을 기념해 위촉됐다."
+        },
+        {
+          "t": "img",
+          "src": "https://media.wbur.org/wp/2026/10/IMG_8221-scaled.jpeg",
+          "cap": "Machover의 Opera of the Future 그룹 박사과정생 Manaswi Mishra. (Andrea Shea/WBUR)"
+        },
+        {
+          "t": "p",
+          "x": "시스템은 박사과정생 Manaswi Mishra와 함께 만들었다. Machover는 “이것은 협업자이고, 우리는 그렇게 설계했다”며 “무대에서 연주하는 라이브 연주자들과 대화한다… AI는 연주자가 하는 것을 가져다 새 작품을 만들려는 게 아니라, 반응하고 주고받으려 한다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "Mishra는 무대에서 AI의 반응을 이끈다. “화성 정보를 두드러지게 할 수도, 리듬 정보를 두드러지게 할 수도, 음색을 여러 방향으로 움직일 수도 있다.” 솔로 대목에 대해 Machover는 “AI가 반응한다… 연주자마다 다르다”고 설명했다."
+        },
+        {
+          "t": "img",
+          "src": "https://media.wbur.org/wp/2026/10/10.22.26-Manaswi-Mishra-controls-live-AI-system-at-world-premiere-of-Tod-Machovers-already-and-not-yet-Winslow-Townson-scaled.jpg",
+          "cap": "2026년 10월 22일 Symphony Hall 세계 초연에서 라이브 AI 시스템을 조작하는 Manaswi Mishra. (Courtesy Winslow Townson)"
+        },
+        {
+          "t": "p",
+          "x": "BSO 첼리스트 Owen Young은 “이것은 도구다. 하지만 우리를 대체할까 두렵다. 그리고 이 작품에서는 우리를 대체하지 않는다”고 말했다. 작품은 10월 22~24일 BSO의 “Technology and Our Humanity” 시리즈 무대에 오른다."
+        }
+      ]
+    },
+    "music/russiaaisong": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "음악가 DJ NARODNII의 AI-generated 화제곡 “Ty moya…”(“You’re my…”)가 러시아 스트리밍 서비스에서 차단됐다. 매체 Ostorozhno, Novosti가 보도했다."
+        },
+        {
+          "t": "p",
+          "x": "Yandex Music 등에서 이 곡을 틀면 러시아 통신 규제 당국 Roskomnadzor의 요청으로 이용할 수 없다는 안내가 뜬다."
+        },
+        {
+          "t": "p",
+          "x": "앞서 9월 말 러시아 연방 청년청이 이 곡의 접근을 제한하라고 요구했다."
+        },
+        {
+          "t": "p",
+          "x": "DJ NARODNII는 곡이 삭제된다는 예고를 받지 못했고, 음악 플랫폼을 확인하다 알게 됐다고 했다. Yandex Music이 원곡과 함께 리믹스 다섯 곡도 지웠다는 게 그의 말이다."
+        },
+        {
+          "t": "p",
+          "x": "그는 “이를 개인적으로 받아들인 특정 인물들”의 항의 탓에 곡이 차단됐다고 본다. 결정에도 동의하지 않는다. “그렇다면 욕설이 조금이라도 들어간 노래는 모두 막아야 한다. […] 어떤 사람들은 진짜 예술을 이해하거나 음미하지 못한다. 복합적인 노트를 지닌 니치 향수와 같다.”"
+        },
+        {
+          "t": "p",
+          "x": "“You’re my scumbag, you’re my pig…”라는 후렴이 담긴 DJ NARODNII의 AI 곡은 최근 몇 달 사이 TikTok과 Instagram에서 인기를 끌었다. 제작자는 원래 AI-generated 음악을 조롱하려고 곡을 올렸는데, 곡은 오히려 히트했다."
+        }
+      ]
+    },
+    "music/smebench": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "신경망 음악 편집 시스템은 요청받은 변화를 해내면서도 바뀌지 말아야 할 음악적 내용은 지켜야 한다. 하지만 기존 평가에는 짝을 이루는 목표 편집이 없는 경우가 많다. SMEBench는 기호 MIDI 연주를 수정한 뒤 짝이 맞는 원본·목표 오디오를 렌더링해 만든 대규모 통제 음악 편집 벤치마크다."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.36715v1/EditingPipeline_ICLR.png",
+          "cap": "그림 1: SMEBench 구축 방식 개요. 10초 길이의 MIDI 발췌를 분석하고 선택한 개입을 적용한 뒤, 같은 SoundFont로 원본과 목표를 렌더링한다."
+        },
+        {
+          "t": "p",
+          "x": "예시마다 원본, 지시문, 짝을 이루는 목표, 편집 메타데이터, 보완 설명이 붙는다. 작업은 악기 편성, 아티큘레이션, 다이내믹스, 음높이에 걸친 열두 가지다. 균형 잡힌 3,600개 예시의 테스트 세트와 멀티트랙 녹음에서 얻은 소규모 실제 오디오 보완 세트도 들어 있다."
+        },
+        {
+          "t": "p",
+          "x": "저자들은 AudioLDM2 백본 위의 SDEdit, DDIM inversion, ZETA, VCI, SteerMusic과 MusicGen까지 대표적인 편집 시스템 여섯 개를 벤치마크했다. 어떤 지표로 순위를 매기느냐에 따라 결론이 크게 달라질 수 있다는 사실도 드러났다."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.36715v1/quantitative.svg",
+          "cap": "그림 4: 편집 캡션 조건과 편집 지시문 조건에서 SMEBench와 SME-Real에 대한 시스템 성능."
+        },
+        {
+          "t": "p",
+          "x": "한계도 있다. 분류 체계는 보컬, 프로덕션 효과, 장르 전환을 다루지 않고, 보존과 편집 수행, 지각 품질을 한꺼번에 담는 단일 지표도 없다."
+        }
+      ]
+    },
+    "music/logicpro": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/apple-creator-studio-update-adds-motionvfx-to-final-cut-and-ai-to-everywhere/intro-1793118031.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apple이 Adobe에 맞서는 소프트웨어 제품군 Apple Creator Studio를 새 M6 iMac과 14인치 MacBook Pro 출시에 맞춰 업데이트했다. 큰 변화 중 하나는 Final Cut Pro에 들어간 MotionVFX 도구다. 올해 초 Apple이 MotionVFX를 인수하면서 생겼다. 타임라인 이미지를 Pixelmator Pro로 보내는 식으로 앱끼리 오가는 작업도 매끄러워졌다."
+        },
+        {
+          "t": "p",
+          "x": "AI는 Apple 앱 전반에 스며들었다. Final Cut Pro와 Pixelmator Pro에는 텍스트로 이미지를 만드는 생성 기능과 편집 도구가 더해졌다. Logic Pro에서는 Apple이 OpenAI와 손잡고 새 비서를 선보였다. 비서는 기존 프로젝트를 고치고 새 곡을 시작하며 텍스트 프롬프트로 보컬 트랙까지 만든다. Keynote, Pages, Numbers에서도 같은 챗봇을 불러 슬라이드 애니메이션이나 데이터 정리 같은 앱별 작업을 맡긴다."
+        },
+        {
+          "t": "p",
+          "x": "Stem Splitter로 드럼 파트를 떼어 내거나 바꾸는 기능도 Logic Pro에 생겼다. 아직 베타인 새 비서를 Mac용 Logic Pro에서 쓰려면 macOS 27 Golden Gate 이상을 돌리는 Apple Intelligence 지원 Mac이 있어야 한다."
+        },
+        {
+          "t": "p",
+          "x": "기존 구독자는 11월에 업데이트를 무료로 받는다. Apple Creator Studio 요금은 월 $13 또는 연 $129다. Logic Pro만 $200에 따로 살 수도 있다."
+        }
+      ]
     }
   }
 }

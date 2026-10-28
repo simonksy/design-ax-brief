@@ -9187,6 +9187,133 @@
           "x": "OpenAI和Anthropic等公司的AI模型不断进步，Apple在Siri AI推出后不久就开始迭代，令人欣慰。希望这款助手能随着每次软件更新持续变好。"
         }
       ]
+    },
+    "gadgets/gadgets-xreal-aura-launch": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/06/xreal-aura-sm.jpg?fit=1800%2C1200&quality=89&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "XREAL宣布，首款搭载Google Android XR操作系统的AR眼镜XREAL AURA今日发售，限时起售价为$1,100。首批产品预计于mid-November开始发货，率先登陆US、加拿大、日本和韩国。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-aura-screen.jpg?quality=89&ssl=1",
+          "cap": "图片来源：XREAL"
+        },
+        {
+          "t": "p",
+          "x": "首发优惠持续至December 2026：Xreal Aura 12GB + 256GB售价$1,099，原价$1,279；16GB + 512GB售价$1,299，原价$1,499。"
+        },
+        {
+          "t": "p",
+          "x": "Aura采用棱镜式透视光学方案，在不到95克的机身中实现70度视场角。它通过线缆连接一台可放入口袋的计算单元，该单元配备负责XR处理和AI任务的Qualcomm Snapdragon Reality Elite芯片组，以及Xreal的X1S Spatial Coprocessor。设备支持6DOF与手势追踪、Play Store应用，出厂即附带超过150个made-for-XR体验。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/roadtovr.com/wp-content/uploads/2026/10/xreal-controller.jpg?quality=89&ssl=1",
+          "cap": "图片来源：XREAL"
+        },
+        {
+          "t": "p",
+          "x": "Xreal还发布了与GameSir合作设计的游戏手柄，配有专用Gemini按键，为玩家提供“在游戏中快速获取AI协助的方式”，另有一款无线便携键盘。计算模块内置Gemini AI情境理解功能。"
+        }
+      ]
+    },
+    "gadgets/gadgets-copilot-tv-exit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&strip=all&crop=0%2C10.841832569581%2C100%2C78.316334860837&w=1200",
+          "cap": "图片：Microsoft"
+        },
+        {
+          "t": "p",
+          "x": "据Windows Central报道，在LG和Samsung于CES 2025宣布其最新智能TVs将接入Microsoft的Copilot近两年后，Microsoft将于今年在所有TVs上终止这款AI助手的功能支持。"
+        },
+        {
+          "t": "p",
+          "x": "消息来自LG TV上的一则屏幕通知：“Microsoft近期决定终止所有TVs上的Copilot功能支持，包括我们LG TVs上提供的Copilot-enabled功能。”通知称该功能“计划于2026年内停止提供”，具体日期“以Microsoft的时间表为准”。"
+        },
+        {
+          "t": "p",
+          "x": "去年12月，LG因一次webOS更新加入了无法删除的Copilot快捷方式而遭到抵制，之后才允许用户删除。Copilot在TVs上扮演的是友好的AI伙伴角色，但Microsoft今年早些时候推出了Copilot“super app”，意在把Copilot更多定位为商业和生产力工具，而非数字伙伴。"
+        }
+      ]
+    },
+    "gadgets/gadgets-openai-dot-text": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/openai-now-lets-you-text-your-dot-agent/l-intro-1793214741.jpg",
+          "cap": "OpenAI"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI上月底推出Dot智能体时曾承诺，用户最终可以通过短信向它们下达指令。近一个月后的现在，公司已开始向US Pro用户推送一项预览功能，正好能做到这一点。OpenAI表示，借助新功能，你可以给Dot发送文字、照片甚至语音备忘录。这也为Dot提供了另一条渠道，可以主动联系你，汇报你交给它的任务进展。"
+        },
+        {
+          "t": "p",
+          "x": "要为Dot设置短信功能，请在ChatGPT中打开它的资料页并选择Texting。手机端方面，iPhone用户需确保开启iMessage，日常使用Android设备的用户则需开启RCS。OpenAI表示，它与Linq合作提供消息支持，并进行了“广泛的”渗透测试以确保功能安全。公司还在X上补充道：“只有你能给你的dot发短信，你的dot也只能给你发短信。”Dot写入记忆的任何信息都会在ChatGPT和短信之间共享，这意味着上下文会在不同对话间延续。"
+        }
+      ]
+    },
+    "gadgets/gadgets-ios-synthid": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/AI/Since-yesterday-with-iOS-272-Release-Apple-Im-1793086628.jpg",
+          "cap": "ChatGPT Image 2.5"
+        },
+        {
+          "t": "p",
+          "x": "Apple AI生成的图像如今都带有一个隐形标记。从iOS 27.2起，iPhone会为Image Playground生成的所有内容打上SynthID——这是Google开发的水印。Apple早在6月就随改版后的Image Playground宣布了这一举措。"
+        },
+        {
+          "t": "p",
+          "x": "新生成的图像一律带有水印。对于编辑过的照片，则取决于AI介入的程度：MacRumors发现，经Extend和Reframe修改的图像带有SynthID，而使用Clean Up时，小幅修饰不会被标记，较大的修改则会加上水印。"
+        },
+        {
+          "t": "p",
+          "x": "SynthID直接嵌入像素，而非元数据。Google承诺它不会影响画质，并能在裁剪、滤镜和压缩后保留。iPhone本身无法检测，需要使用Google在10月初向所有人开放的SynthID Detector。随着Apple加入，SynthID离真正的行业标准又近了一大步。"
+        }
+      ]
+    },
+    "gadgets/gadgets-ollama-tts": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-logo-with-gradient-background.jpg?resize=1200%2C720&ssl=1",
+          "cap": "Rachit Agarwal / Digital Trends"
+        },
+        {
+          "t": "p",
+          "x": "App Store里语音转文字应用泛滥，但好用的文字转语音模型却很少，而且其中大多数优秀模型都需要订阅。Ollama是一款可在电脑上运行本地AI模型的开源应用，它想改变这一现状。它支持macOS、Windows和Linux，用户的提示词既不会被存储，也不会被用于训练。"
+        },
+        {
+          "t": "p",
+          "x": "Ollama现已在Mac上支持文字转语音模型，首个是Phonon。Phonon由Gradium打造，是一系列小型模型，能直接在Mac上把任何文字转成语音。对Windows和Linux的支持即将推出。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/Ollama-voice-models.jpg?resize=1368%2C668&ssl=1",
+          "cap": "Ollama"
+        },
+        {
+          "t": "p",
+          "x": "用户可以选择Zoey、Easton、Freya和Hugh等带美式和英式口音的声音。除英语外，还有法语、德语、西班牙语和葡萄牙语模型。Ollama称，得益于Apple的MLX框架，Phonon在搭载M5 Max的MacBook Pro上比Gradium自家运行时快35%，且不损失准确性。"
+        },
+        {
+          "t": "p",
+          "x": "Phonon可与聊天模型搭配，把回复朗读出来。第一句话生成后即开始播放，无需等待完整回答。"
+        },
+        {
+          "t": "p",
+          "x": "上手需要一台运行Ollama 0.40.11或更高版本的Apple Silicon Mac。英语模型可依据Apache 2.0免费使用，而法语、德语、西班牙语、葡萄牙语和多语种模型仅限非商业用途。"
+        }
+      ]
     }
   }
 }

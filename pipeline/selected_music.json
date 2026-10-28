@@ -1,96 +1,96 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "section": "music",
   "items": [
     {
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "title": "Apple Creator Studio update adds MotionVFX to Final Cut, and AI to everywhere",
-      "url": "https://www.engadget.com/2298428/apple-creator-studio-update-adds-motionvfx-to-final-cut-and-ai-to-everywhere/",
-      "source": "Engadget",
-      "published_iso": "2026-10-27T16:21:44+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/apple-creator-studio-update-adds-motionvfx-to-final-cut-and-ai-to-everywhere/l-intro-1793118031.jpg",
-      "excerpt": "Logic Pro gets a beta AI assistant built with OpenAI that can edit existing projects, start new songs and generate vocal tracks from text prompts; Stem Splitter can now isolate or swap drum parts.",
-      "rationale": "Biggest workflow change in the pool: Logic Pro ships a beta AI assistant that edits projects and generates vocals from prompts, plus drum-part swapping in Stem Splitter. This is the release that follows the Samplab acquisition covered on 10-22."
+      "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+      "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+      "source": "The Verge",
+      "published_iso": "2026-10-28T21:34:04Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai-MPC-Sample-Key.jpg?quality=90&strip=all&crop=0,20.395548367643,100,59.208903264713",
+      "excerpt": "The MPC Sample Key will be an open-source 37-key take on Akai's budget MPC Sample, with firmware opened so users can vibe-code new instruments and features with AI coding tools.",
+      "rationale": "A major hardware maker opens an MPC's firmware so owners can vibe-code new instruments with AI. That is a concrete product announcement, not more trend commentary like the 10-20 Verge feature. Of the two outlets covering it, The Verge has the fuller report."
     },
     {
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "title": "Massive XL is here: Native Instruments supersizes its flagship soft synth with AI-powered preset generation, custom wavetables and much more",
-      "url": "https://www.musicradar.com/music-tech/massive-xl-is-here-native-instruments-supersizes-its-flagship-soft-synth-with-ai-powered-preset-generation-custom-wavetables-and-much-more",
+      "title": "Behringer Kick is a sampler with vibe-coded firmware at its core: Is this really the future we want?",
+      "url": "https://www.musicradar.com/music-tech/behringer-kick-is-an-mpc-inspired-sampler-designed-with-vibe-coded-firmware-at-its-core-is-this-really-the-future-we-want-for-music-tech-hardware",
       "source": "MusicRadar",
-      "published_iso": "2026-10-27T14:10:25Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/m8Dyd4QeFBbPdomvykgtZm-1600-80.jpg",
-      "excerpt": "20 years after Massive, Native Instruments unveils Massive XL, which uses AI to turn audio samples into synth patches, alongside custom wavetables and an expanded effects suite.",
-      "rationale": "A major flagship synth launch with audio-to-preset AI generation that sound designers can use right away. Of the two outlets covering it, this is the announcement article."
-    },
-    {
-      "tool": "Music",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "title": "Tracktion Waveform Pro 14.1 Update Adds AI-Assisted Plugin Creation",
-      "url": "https://www.gearnews.com/tracktion-waveform-pro-studio/",
-      "source": "Gearnews",
-      "published_iso": "2026-10-27T19:30:57+01:00",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2022/03/tracktion-waveform-14-1-plugin-generation.jpg",
-      "excerpt": "With the version 14.1 update, Tracktion Waveform Pro lets users build their own instruments and effects inside the DAW using AI-assisted code generation.",
-      "rationale": "A shipping DAW release that builds AI plugin generation into the host itself. That makes it a concrete new product, not more commentary on the vibe-coded plugin trend."
+      "published_iso": "2026-10-28T18:09:34Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/EYQqEuQYEJo9onmXDpaQTd-768-80.jpg",
+      "excerpt": "Behringer's in-development open-source sampler Kick is pitched around AI-generated firmware: 'With AI, even people without programming experience can turn their ideas into new features and firmware.' It also lists an 'AI camera' for gesture control.",
+      "rationale": "A separate product reveal from another company: Behringer's open-source Kick sampler is designed around AI-written firmware and has an AI gesture camera. Together with Akai, it shows AI-moddable firmware becoming a hardware selling point."
     },
     {
       "tool": "Music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "title": "Edged Out Records built 'the first costume shop for AI agents'",
-      "url": "https://musically.com/2026/10/27/edged-out-records-built-the-first-costume-shop-for-ai-agents/",
-      "source": "Music Ally",
-      "published_iso": "2026-10-27T13:30:00+00:00",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-27T124653.395.png?fit=2000%2C1500&ssl=1",
-      "excerpt": "Independent label Edged Out Records launched a marketing campaign riffing on Jolly, the plush mascot Meta uses for its Muse AI agent, building a 'costume shop' for AI agents.",
-      "rationale": "A new indie-label campaign built on AI-agent culture. It shows how music marketers are using the agent era as creative material, and it is distinct from the Spotify agent-strategy story from 10-26."
+      "title": "AI takes the stage with BSO musicians in Tod Machover's wild world premiere",
+      "url": "https://www.wbur.org/news/2026/10/22/tod-machover-mit-media-lab-bso-ai",
+      "source": "WBUR",
+      "published_iso": "2026-10-22T19:54:16Z",
+      "og_image": "https://media.wbur.org/wp/2026/10/IMG_8264-2048x1536.jpeg",
+      "excerpt": "MIT Media Lab composer Tod Machover's 25-minute 'already and not yet' puts 80-plus Boston Symphony Orchestra players in dialogue with a live AI system that responds to each musician's performance.",
+      "rationale": "A major orchestra premieres a work with a live AI system that responds to each of 80+ players in real time. It brings performance and classical music into a pool otherwise full of gear stories, and it was the reserve pick on 10-28."
+    },
+    {
+      "tool": "Music",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "title": "Russia's media regulator blocks viral AI-generated song 'You're My Scumbag' on streaming services",
+      "url": "https://meduza.io/en/news/2026/10/28/russia-s-media-regulator-blocks-viral-ai-generated-song-you-re-my-scumbag-on-streaming-services",
+      "source": "Meduza",
+      "published_iso": "2026-10-28T16:04:19Z",
+      "og_image": "https://meduza.io/imgly/share/1793203459/en/news/2026/10/28/russia-s-media-regulator-blocks-viral-ai-generated-song-you-re-my-scumbag-on-streaming-services",
+      "excerpt": "The viral AI-generated song 'Ty moya...' by DJ NARODNII has been blocked on Russian streaming services by the media regulator.",
+      "rationale": "A new regulatory action: a state media regulator ordered a viral AI-generated song off streaming services. It is a fresh angle on AI tracks charting, separate from the platform-labelling stories already published."
     },
     {
       "tool": "Music",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "title": "음저협 등 6개 음악단체, AI 음악 식별 기술 협상대상자로 '디텍트엑스' 선정",
-      "url": "https://www.newdaily.co.kr/site/data/html/2026/10/27/2026102700388.amp.html",
-      "source": "뉴데일리",
-      "published_iso": "2026-10-27T18:53:27+00:00",
-      "og_image": "https://image.newdaily.co.kr/site/data/img/2026/10/27/2026102700388_0.jpg",
-      "excerpt": "국내 주요 음악권리단체 6곳으로 구성된 'K음악권리단체 상생위원회'가 AI 음원 식별 기술 입찰 평가 끝에 디텍트엑스(DetectX v.3.x)를 우선협상대상자로 선정했다.",
-      "rationale": "A concrete deployment decision: six Korean music rights bodies, including KOMCA, picked DetectX v3.x as preferred bidder for industry-wide AI-music identification after a formal tender. That is the operational step behind the AI copyright-registration backlog reported on 10-26."
+      "title": "SMEBench: Benchmarking Neural Music Editing with Synthetized MIDI Edits",
+      "url": "https://arxiv.org/abs/2610.36715",
+      "source": "arXiv",
+      "published_iso": "2026-10-27T06:31:02Z",
+      "og_image": null,
+      "excerpt": "A large-scale benchmark of controlled music edits built by modifying symbolic MIDI performances and rendering matched source/target audio, covering twelve instrumentation, articulation and dynamics edit types for evaluating instruction-based neural music editors.",
+      "rationale": "A new benchmark for instruction-based music editing, with 12 controlled edit types built from paired MIDI renders. It gives a standard way to compare AI editors for instrumentation, articulation and dynamics changes. It is a different task from the published MQAScore and MuseBench evaluation papers."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.engadget.com/2298428/apple-creator-studio-update-adds-motionvfx-to-final-cut-and-ai-to-everywhere/": {
+      "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key": {
         "verdict": "new",
-        "nearest": "https://musictech.com/news/industry/why-did-apple-buy-ai-music-startup-samplab-and-how-might-this-impact-logic-pro/",
+        "nearest": "https://www.theverge.com/gadgets/1013493/vibe-coding-ai-music-gear-hacking-custom-firmware",
         "new_action": ""
       },
-      "https://www.musicradar.com/music-tech/massive-xl-is-here-native-instruments-supersizes-its-flagship-soft-synth-with-ai-powered-preset-generation-custom-wavetables-and-much-more": {
+      "https://www.musicradar.com/music-tech/behringer-kick-is-an-mpc-inspired-sampler-designed-with-vibe-coded-firmware-at-its-core-is-this-really-the-future-we-want-for-music-tech-hardware": {
         "verdict": "new",
-        "nearest": "https://musictech.com/news/gear/loopmasters-loopcloud-8/",
+        "nearest": "https://www.theverge.com/gadgets/1013493/vibe-coding-ai-music-gear-hacking-custom-firmware",
         "new_action": ""
       },
-      "https://www.gearnews.com/tracktion-waveform-pro-studio/": {
+      "https://www.wbur.org/news/2026/10/22/tod-machover-mit-media-lab-bso-ai": {
         "verdict": "new",
-        "nearest": "https://www.synthtopia.com/content/2026/10/07/google-wants-you-to-vibe-code-audio-plugins/",
+        "nearest": "",
         "new_action": ""
       },
-      "https://musically.com/2026/10/27/edged-out-records-built-the-first-costume-shop-for-ai-agents/": {
+      "https://meduza.io/en/news/2026/10/28/russia-s-media-regulator-blocks-viral-ai-generated-song-you-re-my-scumbag-on-streaming-services": {
         "verdict": "new",
-        "nearest": "https://musically.com/2026/10/23/spotify-is-now-an-agent-co-ceo-outlines-companys-ai-plan/",
+        "nearest": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
         "new_action": ""
       },
-      "https://www.newdaily.co.kr/site/data/html/2026/10/27/2026102700388.amp.html": {
+      "https://arxiv.org/abs/2610.36715": {
         "verdict": "new",
-        "nearest": "https://news.tf.co.kr/read/ptoday/2378150.htm",
+        "nearest": "https://arxiv.org/abs/2610.31083",
         "new_action": ""
       }
     },
-    "note": "First pass (4 picks, unchanged): Dropped as duplicates: (1) CDM 'Massive XL first impressions', the same launch as the MusicRadar pick, so only one per story. (2) Billboard 'every company fighting subpoenas in Suno case' (cluster c5), a rundown and analysis of the running UMG/Sony v. Suno discovery fight already published 10-17, 10-20, 10-25 and 10-27, with no new filing of its own. (3) DMN 'Suno files subpoena demands against Apple' (cluster c5). Apple's motion to quash is narrowly a new filing, but the 10-27 curator dropped this same DMN subpoena item as a repeat of the 10-25 MLC/DSP streaming-data subpoena story, and the subpoena saga has already run four times in 11 days, so it stays dropped for consistency. (4) MusicTech 'Stop sending me vibecoded plugins' (10-21), an opinion piece on the vibe-coded plugin theme already covered 10-17, 10-18 and 10-20. (5) Wikitree 'The Adult I Dreamed Of' Melon #3, the same story as Music Ally on 10-18. Pre-removed by story_dedup: ElevenLabs 'Introducing Instant Soundtracks' (ran 10-19) and DJ Mag Charlotte de Witte NAVA EP (RA ran it 10-27). RECOVERY PASS 1 (19 items), one pick added: 뉴데일리 DetectX selection. It is the freshest concrete decision in the pool: a tender outcome from six rights bodies, distinct from the 10-26 tf.co.kr story on the AI-copyright application surge, which reported a registration statistic, not a vendor selection. Not picked or dropped from the recovery pool: News1 Melon #2 government labeling review and Korea Daily Melon AI singers (Melon AI-singer story already ran 10-18; the government step is only a 'review'). Gearnews 'humanity of instruments' (opinion on the vibe-coded plugin theme already covered 10-17/18/20, and it would be a second Gearnews card). Guardian backlash piece, NPR 'fakest year' timeline, etnews licensing analysis, and the Newspim/MTN National Assembly forum coverage (commentary or debate, no new decision). Chosun KOMCA detection program (10-21, superseded by the DetectX selection, which is the concrete outcome of that program, so one per story). ICMP Australia (DMN; the running Australian copyright/ARIA lobbying story from 10-07, advocacy statement only). Deezer TIME Best Inventions (an award for the detector already covered in the Deezer 10-14 thread). SSL/sonible review (no og:image). WBUR plus Boston Musical Intelligencer BSO/Machover premiere (cluster c6; a strong runner-up, reserve if DetectX is struck). NC AI VARCO Sound (PR-wire via Yahoo; reserve). JASRAC (detection testing is incidental to a collections report). Platum SeeU and KT RadioBiz (older, 10-16). Cross-section: before roll, exact-grep published_urls.json for the newdaily URL and 'DetectX' / '디텍트엑스', as well as the earlier four checks (Creator Studio, Logic Pro, Massive XL, Waveform, Edged Out). Final 5 outlets: Engadget, MusicRadar, Gearnews, Music Ally, 뉴데일리, one each."
+    "note": "Dropped as duplicates or skipped: (1) MusicRadar 'Akai kicks back? Sample Key teaser' is cluster c1, the same Akai Sample Key story as the Verge pick, so one per story. (2) TechCrunch Genie 4 already ran in games on 10-28 (cross-section rule), and music is only a side angle there. (3) DMN 'Suno fires back against Apple' is another filing in the UMG/Sony v. Suno subpoena saga (10-17, 10-20, 10-24, 10-25, 10-27). The 10-27 and 10-28 curators dropped the Apple-subpoena item for consistency, and it stays dropped. (4) DMN ICMP Australia is the running Australian copyright/ARIA lobbying story from 10-07, an advocacy statement only (also dropped 10-28). (5) Billboard Latin Music Week AI panel is commentary with no new decision. Not picked: aitimes.kr MIT Smaragdis hearing-AI overview (research profile, no new release; reserve) and arXiv ChoreoStudio (dance generation, music is only an input, and related to the DJustify paper from 10-27). Cross-section: checked published_urls.json science and politics blocks, and none of the five URLs appear. The Akai, Behringer and Meduza items were published after the 10-28 run, so they cannot be in any section's history. Exact-grep all five URLs plus 'Sample Key', 'Behringer Kick' and 'Machover' across sections before roll. Akai and Behringer are the same theme (vibe-coded open firmware), but they are distinct product announcements from different companies, kept as two cards on different outlets. Final 5 outlets: The Verge, MusicRadar, WBUR, Meduza, arXiv, one each. SMEBench has no og_image, so ax-media needs an in-article or figure image."
   }
 }

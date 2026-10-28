@@ -9452,6 +9452,133 @@
           "x": "The work, by Yiran Jiao et al., is published in ACS Catalysis (2026). DOI: 10.1021/acscatal.6c00635."
         }
       ]
+    },
+    "science/pasqal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_17-06.png"
+        },
+        {
+          "t": "p",
+          "x": "Pasqal (Nasdaq: PSQL), a neutral-atom quantum computing company, has announced an AI-assisted workflow on Pasqal Cloud. Available as a plugin for leading agentic coding environments, it can take a well-defined scientific idea to a running experiment on a quantum processing unit (QPU), reducing the engineering effort between an idea and its execution on hardware."
+        },
+        {
+          "t": "p",
+          "x": "Starting from an experiment described in a paper or an original idea, the workflow extracts or formalizes the protocol, translates it into a hardware-ready quantum job, validates it in emulation, submits it through the cloud and processes the results into scientific observables."
+        },
+        {
+          "t": "p",
+          "x": "\"The bottleneck in quantum computing is shifting,\" said CEO Wasiq Bokhari. \"The engineering work that once demanded a researcher's attention can increasingly be automated, allowing researchers to focus more fully on the science.\""
+        },
+        {
+          "t": "p",
+          "x": "Ideation, validation and decisions about what to measure and whether a result supports a physical claim remain with the users. The plugin can be installed in Claude Code, Cursor, Codex and others, and runs experiments on three Pasqal Cloud QPUs: Ruby, operated by GENCI at CEA in France; FC1 in Sherbrooke, Québec, Canada; and SA1 in the Kingdom of Saudi Arabia."
+        }
+      ]
+    },
+    "science/novelty-bench": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-header.png"
+        },
+        {
+          "t": "p",
+          "x": "Ai2 released Old Ideas, Novel Problems, a study of how reliably LLMs evaluate the novelty of research ideas, with a benchmark, data, code and an automated pipeline for building new evaluation sets. Systems that generate research ideas often hand the novelty verdict to another LLM, a \"novelty judge.\""
+        },
+        {
+          "t": "p",
+          "x": "The benchmark mines ICLR 2026 peer reviews: 154 high-novelty human ideas from top-10% accepted papers and 145 lower-novelty ideas from bottom-10% rejected papers (Human-Only), plus the 154 human ideas paired with 154 ideas from a simple LLM generator (Human+Generated)."
+        },
+        {
+          "t": "p",
+          "x": "Across six judges (GPT-5.1, GPT-5.2, GPT-5.4, Claude Sonnet 4.5, Claude Opus 4.5 and Claude Opus 4.6), small setup changes produced very different verdicts. Switching GPT-5.4 to a simpler prompt dropped accuracy on Human+Generated pairs from 93.5% to 40.9%, below chance; on Human-Only the same change shifted accuracy by only about seven points."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-prompt-wording-chart.png"
+        },
+        {
+          "t": "p",
+          "x": "More search and reasoning didn't reliably help: an agentic GPT-5.6 Sol judge scored 0.78 macro-F1 versus 0.89 for Claude Opus 4.6, at roughly 10x the cost. A simple Claude Opus 4.6 prompt reached 0.854 for $2.59, beating Idea Novelty Checker (0.642, $30.66) and Sakana AI's AI Scientist (0.772, $82.05)."
+        }
+      ]
+    },
+    "science/blight-rice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-create-ric.jpg",
+          "cap": "Bing Yang. Credit: Braiden Wade / University of Missouri"
+        },
+        {
+          "t": "p",
+          "x": "University of Missouri researchers have created rice plants that resist bacterial blight, a disease that can wipe out harvests and endanger livelihoods in parts of Asia and Africa. \"Bacterial blight can wreak havoc on rice crops, reducing both yield and quality,\" said Bing Yang, a Curators' distinguished professor in the College of Agriculture, Food and Natural Resources and an investigator in the Bond Life Sciences Center."
+        },
+        {
+          "t": "p",
+          "x": "The team used OpenCRISPR-1, a gene-editing system designed using artificial intelligence, to alter genes that make plants vulnerable to disease. The tool was originally developed by the California biotechnology company Profluent and had been demonstrated in animal cells; Yang's team adapted it for rice. The study appeared in aBIOTECH."
+        },
+        {
+          "t": "p",
+          "x": "The results come from a laboratory line. Before farmers benefit, the traits must move into commercially grown varieties, pass more testing and regulatory requirements, and find industry partners, which could take several years. Yang sees the approach extending to corn and soybeans and to challenges from plant diseases to drought and extreme temperatures. OpenCRISPR-1 is open source and free for research and commercialization of crop genome editing."
+        }
+      ]
+    },
+    "science/ai-ideas-people": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/collaboration.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Generative AI's productivity gains are often touted, but how does it affect collaboration and creativity? Cognitive scientists Clin Lai and Roger Beaty ran an experiment using the alternate uses task, a measure of divergent thinking, randomly assigning 208 participants to work with either ChatGPT or another person."
+        },
+        {
+          "t": "p",
+          "x": "People working with ChatGPT wrote longer responses, \"but human pairs came up with more creative ideas than the humans working with ChatGPT.\" Ideas from human pairs were also more distinct and diverse. Individual AI suggestions could be creative, such as using a book as a sound dampener, but ChatGPT presented that same idea across many separate sessions, making its pool of ideas more homogeneous."
+        },
+        {
+          "t": "p",
+          "x": "The authors note that large language models, trained on similar data to predict the next most likely words, tend to converge. The creativity benefit of working with another person grew stronger as the collaboration progressed, measured by semantic distance."
+        },
+        {
+          "t": "p",
+          "x": "Persona prompting increased ChatGPT's idea diversity, but the range still fell short of human writers. Their advice: chat with a person before chatting with AI. The study appeared in Computers in Human Behavior."
+        }
+      ]
+    },
+    "science/dueling-proofs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/a68eee8f-8e2b-4674-bee4-bc400e160421/shutterstock_1178400508.jpg?m=1793104449.992&w=1200",
+          "cap": "xpixel/Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "Just a few weeks after dropping hundreds of artificial-intelligence-generated math breakthroughs on a field that's already in crisis, OpenAI dropped three massive proofs that touched on math, physics and computer science. Like other recent AI-generated “slop drops,” the releases are already controversial."
+        },
+        {
+          "t": "p",
+          "x": "The releases contradict the recommendations of the Advisory Group on Mathematics and Artificial Intelligence (AGMAI), the expert panel OpenAI organized. The model remains proprietary, and the prompts, compute time and chain-of-thought outputs have not been made public. Two of the results coincide with closely related work involving Anthropic."
+        },
+        {
+          "t": "p",
+          "x": "Kakeya: after solving the four-dimensional case last month, OpenAI's internal model has now solved the Kakeya problem in every dimension."
+        },
+        {
+          "t": "p",
+          "x": "Yang-Mills: OpenAI claimed to prove the “existence” half of the Millennium Prize Problem; the “mass gap” remains open. Anthropic employee Levent Alpöge and Northwestern's Ethan Sussman had been using LLMs to finish Balaban's program in a public GitHub repository; OpenAI's claim, with no publicly available proof, appears to have beaten them."
+        },
+        {
+          "t": "p",
+          "x": "Exponential Time Hypothesis: OpenAI's proof gives a 3-SAT algorithm just a tiny bit faster than exponential time, refuting ETH. Russell Impagliazzo, Ramamohan Paturi and Ryan Williams are working with OpenAI on an independent investigation. Mere hours after OpenAI's announcement, Anthropic posted its own independent result disproving ETH, based on work by an internal Anthropic model."
+        }
+      ]
     }
   }
 }

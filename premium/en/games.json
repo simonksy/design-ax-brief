@@ -9294,6 +9294,165 @@
           "x": "The desktop app is a free download. To build a game using Remix’s AI, creation plans start at $5 per month, and creators can also connect an existing subscription from Anthropic, OpenAI or Google."
         }
       ]
+    },
+    "games/epicaicode": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/fortnite-save-the-world.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "cap": "Fortnite: Save the World key art. Image credit: Epic Games"
+        },
+        {
+          "t": "p",
+          "x": "Epic Games has confirmed it will use gen-AI on everything from Fortnite to Unreal Engine 6. Speaking to This Week In Video Games, executive vice president of development Marcus Wassmer said \"we are definitely using AI to develop code and features for Unreal Engine.\" \"Almost all development happening right now is being done in the dev streams attached to Fortnite, UEFN [Unreal Editor for Fortnite], and UE6.\""
+        },
+        {
+          "t": "p",
+          "x": "Asked about vibe-coding, Wassmer said: \"Yes, we are vibe-coding things. That means our engineers are no longer writing the bulk of the code, but they are still guiding the tools to get the architectural result we want. We're not 'one-shotting' the engine; we're iterating with AI to ship features developers want and keep the engine within the memory, performance, and scalability envelopes.\" He claimed the tools would help push out updates faster and with fewer bugs."
+        },
+        {
+          "t": "p",
+          "x": "Epic is \"more concerned about the risks of moving too slowly than we are about AI skepticism,\" he said. \"We don't think it's viable to take a halfway approach to AI in development.\""
+        },
+        {
+          "t": "p",
+          "x": "Earlier this month Epic said it vibe-coded the latest Epic Games Launcher, and CEO Tim Sweeney criticised Valve's policy asking developers to disclose gen-AI use on Steam pages."
+        }
+      ]
+    },
+    "games/roblox3d": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt05086ee04717e6e7/6ae2082619e29ebc009130b6/robloxphonefeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "cap": "Image by Photo Agency via Adobe Stock"
+        },
+        {
+          "t": "p",
+          "x": "Roblox Corporation has confirmed allegations by 3D asset site Open3DLab that one of its AI agents downloaded 145.5 GB of content such as art assets and 3D models, including adult content hosted on subsidiary sites Smutlab and SFMLab. A spokesperson said a Roblox researcher built the agent to \"collect publicly available 3D assets\"; it \"mistakenly\" scraped Open3DLab and was \"failing to operate as intended.\""
+        },
+        {
+          "t": "p",
+          "x": "\"The agent was decommissioned, and the data was not used for any purpose, including training any AI models. We are strengthening safeguards for how agents like this are built and reviewed, and will continue to do so as the agentic landscape evolves.\""
+        },
+        {
+          "t": "p",
+          "x": "According to Open3DLab admin Salaryman, the crawler downloaded \"1,027 files from 712 projects,\" 117.4 GB of it adult content, ignored robots.txt and the Terms of Service, and resumed on October 19 after being blocked on October 18. He identified its creator as a Roblox researcher who co-authored the paper behind Roblox's generative AI system Cube."
+        },
+        {
+          "t": "p",
+          "x": "\"Models reproduce what they learn from,\" Salaryman said, warning that adult training data reaching a model that generates assets for Roblox would leave only a filter between that data and children."
+        }
+      ]
+    },
+    "games/nexonnpc": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Nexon has unveiled an artificial intelligence (AI) engine that remembers users' in-game actions in real time. The technology links a user's play history into a single memory so that non-player characters (NPC) in the game respond in line with past actions. Nexon also developed its own database (DB) to process the memory data, improving cost efficiency."
+        },
+        {
+          "t": "img",
+          "src": "https://image.inews24.com/v1/9c333440cef95f.jpg",
+          "cap": "Jung Yoon-ho, an engineer on the Advanced Data Technology Team of Nexon's AI Division, explains the AI memory engine 'Live Memory' at 'Games on AWS 2026' held on the 27th. [Photo=Reporter Kwak Min-gu]"
+        },
+        {
+          "t": "p",
+          "x": "Jung Yoon-ho and Bae Seung-jong, engineers on the Advanced Data Technology Team of Nexon's AI Division, presented the development results of the AI memory engine 'Live Memory' and the in-house graph DB 'FastGraph' at 'Games on AWS 2026' held on the 27th."
+        },
+        {
+          "t": "p",
+          "x": "Live Memory is a system that links records of user actions, such as enhancing and equipping items, joining parties, entering dungeons and defeating bosses, into a single memory. With it, an AI NPC can respond in line with a user's past experiences."
+        },
+        {
+          "t": "p",
+          "x": "For example, if a user enhances a weapon at the blacksmith and then comes back after defeating a boss with it, the NPC responds, \"So you beat the boss with the weapon I enhanced for you yesterday. I'm proud of you.\" To a user who has enhanced the same weapon again and again, it says, \"You've already enhanced this weapon 13 times. Isn't that enough now?\""
+        },
+        {
+          "t": "p",
+          "x": "Engineer Jung stressed that \"an AI NPC that feels alive has to recognize even the action a user has just taken, and judge and act accordingly.\""
+        },
+        {
+          "t": "p",
+          "x": "To implement these features, Nexon chose to convert users' action records into a graph structure. Rather than simply storing individual actions, it connects the relationships between time, place and events."
+        },
+        {
+          "t": "p",
+          "x": "The system is designed to reduce processing costs and information loss by using predefined rules instead of calling a large language model (LLM) every time. In particular, Nexon developed its own graph DB, FastGraph, to store memory data efficiently."
+        },
+        {
+          "t": "p",
+          "x": "Nexon estimated that storing memory data for one million (100만) users on an existing commercial graph DB would require about 430TB of memory and annual operating costs of 412억원. FastGraph, by contrast, cut memory usage to 8.2TB through data compression and storage-structure optimization, with estimated annual operating costs of about 8억3000만원."
+        },
+        {
+          "t": "p",
+          "x": "Engineer Bae Seung-jong explained, \"In write-performance tests using real Nexon game data, it was 2.7 times faster than existing products,\" adding, \"We can now process the memory data of many users quickly and at low cost.\""
+        },
+        {
+          "t": "p",
+          "x": "Nexon aims to build AI NPCs that remember not only users' actions but also their conversations and emotions. \"Our next goal is an AI NPC that remembers me,\" Bae said, adding, \"We will create NPCs that can communicate with users in a more lively way.\""
+        }
+      ]
+    },
+    "games/linegames": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Line Games said on the 28th that it shared its know-how in AI-based advanced publishing technology at 'Games on AWS 2026', co-hosted by AWS and GS Neotek. The event, a conference where game developers and industry insiders share cloud-based game development and operations as well as technology trends, was held on the 27th at DoubleTree by Hilton Seoul Pangyo in Seongnam, Gyeonggi Province."
+        },
+        {
+          "t": "p",
+          "x": "Lee Ah-young, head of the publishing technology office at Line Games, gave a talk titled 'Publishing Acceleration Agent Part 2: From Code Review to Automatic Document Updates.' Last year, Lee presented the results of building 'Nexus AI', an AI agent that autonomously answers technical inquiries from external developers. This year's talk covered the technical progress that solved the limits remaining after Nexus AI was built, where platform code changes had to be reflected in technical documents by hand and AI answer accuracy dropped when document updates lagged, along with cases of improved publishing efficiency."
+        },
+        {
+          "t": "img",
+          "src": "https://file.thisisgame.com/upload/email-attachments/2026/10/28/1639287616436323679_f8c04051-d2a5-4056-86c3-0a552014f8f1_%5B%EC%9D%B4%EB%AF%B8%EC%A7%80%5D%20%27Games%20on%20AWS%202026%27%20%EA%B0%95%EC%97%B0%20%ED%98%84%EC%9E%A5_%EB%9D%BC%EC%9D%B8%EA%B2%8C%EC%9E%84%EC%A6%88%20%EC%9D%B4%EC%95%84%EC%98%81%20%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%8B%B1%20%EA%B8%B0%EC%88%A0%EC%8B%A4%EC%9E%A5.jpg"
+        },
+        {
+          "t": "p",
+          "x": "To overcome these limits, Line Games adopted Amazon Bedrock AgentCore and built an automated pipeline that links code review and technical documentation. At the MR (Merge Request) stage in tools such as GitLab, the new agent analyzes platform code changes on its own to carry out code review, then proposes revisions to the related technical documents based on the results. Once the person in charge approves, the changes are applied to the documents, and the updated documents are fed back into the Nexus AI knowledge base to keep the reliability of answers to external developers' inquiries consistent."
+        },
+        {
+          "t": "p",
+          "x": "Line Games also used AWS Security Agent to run code review and security review in parallel, so that security issues that are often found late are checked in the same flow. Lee explained the 'code-to-document automation loop' that was completed as the existing AI agent evolved from reading documents to understanding code changes and writing documents. Lee also presented the 'automation trust boundary (Trust Boundary)' set to assure quality in real-world use, practical know-how and the future publishing technology roadmap."
+        },
+        {
+          "t": "p",
+          "x": "\"We have removed the inefficiency of revising technical documents and can now automate on top of a structure that goes through human approval,\" said Lee Ah-young, head of the publishing technology office at Line Games. \"We will keep actively using the latest AI technology from AWS to raise the efficiency of collaboration with external developers and continue to strengthen our competitiveness in game publishing technology.\""
+        }
+      ]
+    },
+    "games/genie4": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w1200-h630-n-nu-rw"
+        },
+        {
+          "t": "p",
+          "x": "Google DeepMind is announcing Genie 4, its new world model, which unlocks unprecedented realism and improves real-time interactive simulation. Genie 4 is natively multimodal, enabling audio-like music, ambient noises, and interactive dialogue to be simultaneously generated with the world."
+        },
+        {
+          "t": "p",
+          "x": "The model builds on capabilities from the Gemini family: Gemini Omni anchors the simulations in real-world appearance and behavior, while other Gemini models provide the complex reasoning needed to maintain a simulation's coherence and continuity."
+        },
+        {
+          "t": "video",
+          "yt": "sFfPkUJd_Jk"
+        },
+        {
+          "t": "p",
+          "x": "With Genie 4, users can use natural language to modify a simulation in real-time — like changing the weather, moving the camera, or introducing a new person or object. Built on an advanced physical understanding of the world, it simulates scenarios such as aerodynamics and collisions, and creates characters that move naturally and can be steered in real-time."
+        },
+        {
+          "t": "p",
+          "x": "Gemini 3.8 Flash serves as a guiding agent in the loop, observing the scene, breaking goals into steps and verifying each one. All video and audio generated by Genie 4 will include SynthID watermarking."
+        },
+        {
+          "t": "p",
+          "x": "Genie 4 has been released as a research preview to trusted testers, and is coming soon to Google AI Ultra subscribers in Project Genie and early access partners in the Gemini API and Google AI Studio."
+        }
+      ]
     }
   }
 }

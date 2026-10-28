@@ -9202,6 +9202,133 @@
           "x": "El trabajo, de Yiran Jiao et al., se publica en ACS Catalysis (2026). DOI: 10.1021/acscatal.6c00635."
         }
       ]
+    },
+    "science/pasqal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_17-06.png"
+        },
+        {
+          "t": "p",
+          "x": "Pasqal (Nasdaq: PSQL), empresa de computación cuántica de átomos neutros, ha anunciado un flujo de trabajo AI-assisted en Pasqal Cloud. Disponible como plugin para los principales entornos de programación agéntica, puede llevar una idea científica bien definida a un experimento en marcha en una unidad de procesamiento cuántico (QPU), lo que reduce el esfuerzo de ingeniería entre una idea y su ejecución en hardware."
+        },
+        {
+          "t": "p",
+          "x": "A partir de un experimento descrito en un artículo o de una idea original, el flujo extrae o formaliza el protocolo, lo traduce a un trabajo cuántico listo para el hardware, lo valida en emulación, lo envía a través de la nube y procesa los resultados para obtener observables científicos."
+        },
+        {
+          "t": "p",
+          "x": "\"El cuello de botella de la computación cuántica se está desplazando\", dijo el CEO Wasiq Bokhari. \"El trabajo de ingeniería que antes exigía la atención de un investigador puede automatizarse cada vez más, lo que permite a los investigadores centrarse más plenamente en la ciencia\"."
+        },
+        {
+          "t": "p",
+          "x": "La ideación, la validación y las decisiones sobre qué medir y si un resultado respalda una afirmación física siguen en manos de los usuarios. El plugin puede instalarse en Claude Code, Cursor, Codex y otros, y ejecuta experimentos en tres QPUs de Pasqal Cloud: Ruby, operada por GENCI en el CEA de Francia; FC1, en Sherbrooke, Québec, Canadá; y SA1, en el Reino de Arabia Saudita."
+        }
+      ]
+    },
+    "science/novelty-bench": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-header.png"
+        },
+        {
+          "t": "p",
+          "x": "Ai2 publicó Old Ideas, Novel Problems, un estudio sobre la fiabilidad con la que los LLMs evalúan la novedad de las ideas de investigación, junto con un benchmark, datos, código y un pipeline automatizado para crear nuevos conjuntos de evaluación. Los sistemas que generan ideas de investigación suelen delegar el veredicto de novedad en otro LLM, un \"juez de novedad\"."
+        },
+        {
+          "t": "p",
+          "x": "El benchmark se basa en revisiones por pares de ICLR 2026: 154 ideas humanas de alta novedad procedentes de artículos aceptados del top-10% y 145 ideas de menor novedad de artículos rechazados del bottom-10% (Human-Only), además de las 154 ideas humanas emparejadas con 154 ideas de un generador LLM sencillo (Human+Generated)."
+        },
+        {
+          "t": "p",
+          "x": "En los seis jueces (GPT-5.1, GPT-5.2, GPT-5.4, Claude Sonnet 4.5, Claude Opus 4.5 y Claude Opus 4.6), pequeños cambios de configuración produjeron veredictos muy distintos. Cambiar GPT-5.4 a un prompt más simple redujo la precisión en los pares Human+Generated del 93.5% al 40.9%, por debajo del azar; en Human-Only, el mismo cambio movió la precisión solo unos siete puntos."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-prompt-wording-chart.png"
+        },
+        {
+          "t": "p",
+          "x": "Más búsqueda y razonamiento no ayudaron de forma fiable: un juez agéntico GPT-5.6 Sol obtuvo 0.78 de macro-F1 frente a 0.89 de Claude Opus 4.6, con un costo aproximadamente 10x mayor. Un prompt simple de Claude Opus 4.6 alcanzó 0.854 por $2.59, por encima de Idea Novelty Checker (0.642, $30.66) y de AI Scientist de Sakana AI (0.772, $82.05)."
+        }
+      ]
+    },
+    "science/blight-rice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-create-ric.jpg",
+          "cap": "Bing Yang. Credit: Braiden Wade / University of Missouri"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de la University of Missouri han creado plantas de arroz resistentes al tizón bacteriano, una enfermedad que puede arrasar cosechas y poner en peligro los medios de vida en partes de Asia y África. \"El tizón bacteriano puede causar estragos en los cultivos de arroz, reduciendo tanto el rendimiento como la calidad\", dijo Bing Yang, profesor distinguido Curators' en el College of Agriculture, Food and Natural Resources e investigador del Bond Life Sciences Center."
+        },
+        {
+          "t": "p",
+          "x": "El equipo utilizó OpenCRISPR-1, un sistema de edición genética diseñado mediante inteligencia artificial, para modificar genes que hacen a las plantas vulnerables a enfermedades. La herramienta fue desarrollada originalmente por la empresa de biotecnología californiana Profluent y se había demostrado en células animales; el equipo de Yang la adaptó al arroz. El estudio se publicó en aBIOTECH."
+        },
+        {
+          "t": "p",
+          "x": "Los resultados proceden de una línea de laboratorio. Antes de que los agricultores se beneficien, los rasgos deben trasladarse a variedades de cultivo comercial, superar más pruebas y requisitos regulatorios y encontrar socios en la industria, lo que podría llevar varios años. Yang prevé que el enfoque se extienda al maíz y la soja, y a desafíos que van desde las enfermedades de las plantas hasta la sequía y las temperaturas extremas. OpenCRISPR-1 es de código abierto y gratuito para la investigación y la comercialización de la edición genómica de cultivos."
+        }
+      ]
+    },
+    "science/ai-ideas-people": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/collaboration.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "A menudo se pregonan las mejoras de productividad de la AI generativa, pero ¿cómo afecta a la colaboración y la creatividad? Los científicos cognitivos Clin Lai y Roger Beaty realizaron un experimento con la tarea de usos alternativos, una medida del pensamiento divergente, y asignaron al azar a 208 participantes a trabajar con ChatGPT o con otra persona."
+        },
+        {
+          "t": "p",
+          "x": "Quienes trabajaron con ChatGPT escribieron respuestas más largas, \"pero las parejas humanas propusieron ideas más creativas que las personas que trabajaron con ChatGPT\". Las ideas de las parejas humanas también fueron más distintas y diversas. Algunas sugerencias de la AI podían ser creativas, como usar un libro para amortiguar el sonido, pero ChatGPT presentó esa misma idea en muchas sesiones distintas, lo que hizo más homogéneo su conjunto de ideas."
+        },
+        {
+          "t": "p",
+          "x": "Los autores señalan que los grandes modelos de lenguaje, entrenados con datos similares para predecir las siguientes palabras más probables, tienden a converger. El beneficio creativo de trabajar con otra persona se hizo más fuerte a medida que avanzaba la colaboración, según la distancia semántica."
+        },
+        {
+          "t": "p",
+          "x": "El prompting con personajes aumentó la diversidad de ideas de ChatGPT, pero su variedad siguió por debajo de la de los escritores humanos. Su consejo: hablar con una persona antes de hablar con la AI. El estudio se publicó en Computers in Human Behavior."
+        }
+      ]
+    },
+    "science/dueling-proofs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/a68eee8f-8e2b-4674-bee4-bc400e160421/shutterstock_1178400508.jpg?m=1793104449.992&w=1200",
+          "cap": "xpixel/Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "Apenas unas semanas después de lanzar cientos de avances matemáticos generados por inteligencia artificial sobre un campo que ya está en crisis, OpenAI publicó tres demostraciones de gran envergadura que abarcan matemáticas, física y ciencias de la computación. Como otros “slop drops” AI-generated recientes, los lanzamientos ya son polémicos."
+        },
+        {
+          "t": "p",
+          "x": "Los lanzamientos contradicen las recomendaciones del Advisory Group on Mathematics and Artificial Intelligence (AGMAI), el panel de expertos que organizó OpenAI. El modelo sigue siendo propietario, y los prompts, el tiempo de cómputo y las salidas de chain-of-thought no se han hecho públicos. Dos de los resultados coinciden con trabajos estrechamente relacionados en los que participa Anthropic."
+        },
+        {
+          "t": "p",
+          "x": "Kakeya: tras resolver el caso de cuatro dimensiones el mes pasado, el modelo interno de OpenAI ha resuelto ahora el problema de Kakeya en todas las dimensiones."
+        },
+        {
+          "t": "p",
+          "x": "Yang-Mills: OpenAI afirmó haber demostrado la mitad de “existencia” del Millennium Prize Problem; la “brecha de masa” sigue abierta. Levent Alpöge, empleado de Anthropic, y Ethan Sussman, de Northwestern, usaban LLMs para completar el programa de Balaban en un repositorio público de GitHub; la afirmación de OpenAI, sin una demostración disponible públicamente, parece haberse adelantado a ellos."
+        },
+        {
+          "t": "p",
+          "x": "Exponential Time Hypothesis: la demostración de OpenAI ofrece un algoritmo para 3-SAT apenas un poco más rápido que el tiempo exponencial, lo que refuta la ETH. Russell Impagliazzo, Ramamohan Paturi y Ryan Williams trabajan con OpenAI en una investigación independiente. Apenas unas horas después del anuncio de OpenAI, Anthropic publicó su propio resultado independiente que refuta la ETH, basado en el trabajo de un modelo interno de Anthropic."
+        }
+      ]
     }
   }
 }

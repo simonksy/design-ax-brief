@@ -13645,6 +13645,133 @@
           "x": "Yiran Jiao et al.의 연구로 ACS Catalysis (2026)에 실렸다. DOI: 10.1021/acscatal.6c00635."
         }
       ]
+    },
+    "science/pasqal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-28_17-06.png"
+        },
+        {
+          "t": "p",
+          "x": "중성원자 양자컴퓨팅 기업 Pasqal(Nasdaq: PSQL)이 Pasqal Cloud용 AI-assisted 워크플로를 발표했다. 주요 에이전틱 코딩 환경의 플러그인 형태로, 명확히 정의된 과학 아이디어를 양자 처리 장치(QPU)에서 돌아가는 실험으로 옮겨 준다. 아이디어와 하드웨어 실행 사이에 놓인 엔지니어링 부담을 덜어 주는 셈이다."
+        },
+        {
+          "t": "p",
+          "x": "워크플로는 논문에 실린 실험이나 독창적인 아이디어에서 출발한다. 프로토콜을 추출하거나 정식화해 하드웨어에서 바로 돌릴 수 있는 양자 작업으로 바꾸고, 에뮬레이션으로 검증한 다음 클라우드로 제출해 결과를 과학적 관측량으로 처리한다."
+        },
+        {
+          "t": "p",
+          "x": "CEO Wasiq Bokhari는 \"양자컴퓨팅의 병목이 옮겨 가고 있다\"며 \"한때 연구자의 주의를 요구하던 엔지니어링 작업은 점점 더 자동화할 수 있게 됐고, 덕분에 연구자는 과학에 더 온전히 집중할 수 있다\"고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "아이디어 구상과 검증, 무엇을 측정할지, 결과가 물리적 주장을 뒷받침하는지 판단하는 일은 여전히 사용자 몫이다. 플러그인은 Claude Code, Cursor, Codex 등에 설치할 수 있고, 실험은 Pasqal Cloud의 QPUs 세 대에서 돌아간다. 프랑스 CEA에서 GENCI가 운영하는 Ruby, 캐나다 Québec주 Sherbrooke의 FC1, 사우디아라비아 왕국의 SA1이다."
+        }
+      ]
+    },
+    "science/novelty-bench": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-header.png"
+        },
+        {
+          "t": "p",
+          "x": "Ai2가 연구 아이디어의 참신성을 LLMs가 얼마나 믿을 만하게 평가하는지 살핀 연구 Old Ideas, Novel Problems를 공개했다. 벤치마크와 데이터, 코드에 새 평가 세트를 만드는 자동화 파이프라인까지 함께 내놓았다. 연구 아이디어를 생성하는 시스템은 참신성 판정을 또 다른 LLM, 이른바 '참신성 심판'에 맡기는 경우가 많다."
+        },
+        {
+          "t": "p",
+          "x": "벤치마크는 ICLR 2026 동료 심사 자료를 쓴다. top-10% 채택 논문에서 뽑은 참신성 높은 인간 아이디어 154개와 bottom-10% 탈락 논문에서 뽑은 참신성 낮은 아이디어 145개(Human-Only), 그리고 인간 아이디어 154개를 단순한 LLM 생성기가 만든 아이디어 154개와 짝지은 세트(Human+Generated)로 이뤄졌다."
+        },
+        {
+          "t": "p",
+          "x": "여섯 심판 모델(GPT-5.1, GPT-5.2, GPT-5.4, Claude Sonnet 4.5, Claude Opus 4.5, Claude Opus 4.6) 모두에서 설정을 조금만 바꿔도 판정이 완전히 달라졌다. GPT-5.4의 프롬프트를 더 단순하게 바꾸자 Human+Generated 쌍 정확도가 93.5%에서 40.9%로 떨어져 무작위 수준 아래로 내려갔다. 같은 변화가 Human-Only에서는 정확도를 약 일곱 포인트 움직이는 데 그쳤다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1793023853-novelty-bench-prompt-wording-chart.png"
+        },
+        {
+          "t": "p",
+          "x": "검색과 추론을 늘려도 성능이 꾸준히 오르지는 않았다. 에이전트형 GPT-5.6 Sol 심판은 macro-F1 0.78로 Claude Opus 4.6의 0.89에 못 미쳤고 비용은 약 10x 들었다. 단순한 Claude Opus 4.6 프롬프트는 $2.59로 0.854를 기록해 Idea Novelty Checker(0.642, $30.66)와 Sakana AI의 AI Scientist(0.772, $82.05)를 앞질렀다."
+        }
+      ]
+    },
+    "science/blight-rice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-create-ric.jpg",
+          "cap": "Bing Yang. Credit: Braiden Wade / University of Missouri"
+        },
+        {
+          "t": "p",
+          "x": "University of Missouri 연구진이 세균성 흰잎마름병에 강한 벼를 만들었다. 아시아와 아프리카 일부 지역에서 수확을 망치고 생계까지 위협하기도 하는 병이다. College of Agriculture, Food and Natural Resources의 Curators' 석좌교수이자 Bond Life Sciences Center 연구원인 Bing Yang은 \"세균성 흰잎마름병은 벼농사에 큰 피해를 주어 수확량과 품질을 모두 떨어뜨린다\"고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 인공지능이 설계한 유전자 편집 시스템 OpenCRISPR-1을 써서 식물을 병에 약하게 만드는 유전자를 바꿨다. 캘리포니아 생명공학 기업 Profluent가 처음 개발해 동물 세포에서 효과를 입증한 도구를 Yang 연구팀이 벼에 맞게 조정했다. 결과는 aBIOTECH에 실렸다."
+        },
+        {
+          "t": "p",
+          "x": "아직은 실험실 계통에서 얻은 결과다. 농가가 혜택을 보기까지는 몇 년이 걸릴 수 있다. 이 형질을 상업 재배 품종에 옮기고 추가 시험과 규제 요건을 통과해야 하며 산업 파트너도 찾아야 한다. Yang은 이 방식을 옥수수와 콩으로, 병해부터 가뭄과 극한 기온까지 여러 과제로 넓힐 수 있다고 본다. OpenCRISPR-1은 오픈소스여서 작물 유전체 편집 연구와 상업화에 무료로 쓸 수 있다."
+        }
+      ]
+    },
+    "science/ai-ideas-people": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/collaboration.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "생성형 AI가 생산성을 높인다는 이야기는 자주 나오지만, 협업과 창의성에는 어떤 영향을 줄까? 인지과학자 Clin Lai와 Roger Beaty는 발산적 사고를 재는 '대체 용도 과제'로 실험하면서 참가자 208명을 ChatGPT나 다른 사람과 함께 작업하도록 무작위 배정했다."
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT와 작업한 사람들은 답을 더 길게 썼지만, \"사람끼리 짝을 이룬 쪽이 ChatGPT와 작업한 사람들보다 더 창의적인 아이디어를 냈다.\" 사람 짝의 아이디어는 더 독특하고 다양하기도 했다. 책을 방음재로 쓰는 식으로 AI의 개별 제안이 창의적일 때도 있었다. 하지만 ChatGPT가 서로 다른 여러 세션에서 같은 아이디어를 되풀이하면서 아이디어 풀은 더 균질해졌다."
+        },
+        {
+          "t": "p",
+          "x": "저자들은 비슷한 데이터로 다음에 올 가능성이 가장 높은 단어를 예측하도록 학습된 대규모 언어 모델이 한곳으로 수렴하기 쉽다고 지적한다. 의미적 거리로 재 보니 다른 사람과 함께 일해서 얻는 창의성 이점은 협업이 이어질수록 커졌다."
+        },
+        {
+          "t": "p",
+          "x": "페르소나 프롬프팅으로 ChatGPT의 아이디어 다양성은 높아졌지만 그 폭은 여전히 사람 작성자에 못 미쳤다. 연구진은 AI와 대화하기 전에 먼저 사람과 이야기하라고 조언한다. 연구는 Computers in Human Behavior에 실렸다."
+        }
+      ]
+    },
+    "science/dueling-proofs": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/a68eee8f-8e2b-4674-bee4-bc400e160421/shutterstock_1178400508.jpg?m=1793104449.992&w=1200",
+          "cap": "xpixel/Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "가뜩이나 위기에 놓인 분야에 인공지능이 생성한 수학 성과 수백 건을 쏟아낸 지 몇 주 만에 OpenAI가 수학·물리학·컴퓨터 과학을 아우르는 대형 증명 세 건을 내놓았다. 최근 잇따른 AI-generated “slop drops”가 그랬듯 이번 공개도 벌써 논란이다."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI가 직접 꾸린 전문가 패널, 수학·인공지능 자문그룹(Advisory Group on Mathematics and Artificial Intelligence, AGMAI)의 권고와도 어긋나는 공개다. 모델은 여전히 비공개다. 프롬프트와 연산 시간, 사고 사슬(chain-of-thought) 출력도 나오지 않았다. 결과 두 건은 Anthropic이 관여한 연구와 밀접하게 겹친다."
+        },
+        {
+          "t": "p",
+          "x": "Kakeya: 지난달 사차원 사례를 풀었던 OpenAI 내부 모델이 이번에는 모든 차원의 Kakeya 문제를 풀었다."
+        },
+        {
+          "t": "p",
+          "x": "Yang-Mills: OpenAI는 Millennium Prize Problem(밀레니엄 난제) 가운데 “존재” 절반을 증명했다고 주장한다. “질량 간극”은 아직 풀리지 않았다. Anthropic 직원 Levent Alpöge와 Northwestern의 Ethan Sussman은 공개 GitHub 저장소에서 LLMs로 Balaban의 프로그램을 완성해 가던 참이었는데, 증명을 공개하지 않은 OpenAI의 주장이 이들을 앞지른 셈이 됐다."
+        },
+        {
+          "t": "p",
+          "x": "Exponential Time Hypothesis(지수 시간 가설): OpenAI의 증명은 지수 시간보다 아주 조금 빠른 3-SAT 알고리즘으로 ETH를 반박한다. Russell Impagliazzo, Ramamohan Paturi, Ryan Williams가 OpenAI와 함께 독립 검증을 맡았다. OpenAI 발표 몇 시간 뒤 Anthropic도 내부 Anthropic 모델의 작업을 토대로 ETH를 반증하는 독자 결과를 올렸다."
+        }
+      ]
     }
   }
 }
