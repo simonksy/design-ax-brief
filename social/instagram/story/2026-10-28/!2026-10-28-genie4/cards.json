@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "issue": "Genie 4, 소리까지 내는 실시간 세계",
+    "date": "2026.10.27",
+    "section": "GAMES",
+    "accent": "#2ec5c5",
+    "note": "Google DeepMind 블로그 원문(2026.10.27 16:13 UTC, KST 10.28 01:13, 필자 Raia Hadsell·Diego Rivas·Hang Qi) 대조. Gemini Omni·Gemini 3.8 Flash 역할, 첫 네이티브 오디오는 'DeepMind의 첫 실시간 월드 모델' 기준, 게임 개발자 테스터 사례, 리서치 프리뷰·Ultra/API 순서 확인. 영상 다섯 개 모두 원문 본문 webm(storage.googleapis.com gdm-deepmind-com-prod-public): 헤더 모션(벌새), 수박 데모, 열기구(Reasoning steps 패널), 섬 색소폰 데모, 드래곤 비행 데모 — 각 8초 컷, 1280×720. 화면의 WASD·프롬프트 UI는 Genie 인터페이스 그대로, 하단 'Results for illustrative purposes. Sequences shortened.' 고지는 로고가 아니라 남겼다. 초안의 날짜 2026.10.28 → 기사 날짜 10.27로 정정.",
+    "sources": [
+      "Google DeepMind — Genie 4: A new generation of world simulation (2026.10.27)"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "eyebrow": "AI × 게임 · 2026.10.27",
+      "headline": "Genie 4, 소리까지 내는 세계",
+      "body": "Google DeepMind가 새 월드 모델 Genie 4를 내놓았다. 실시간으로 움직이는 세계에 음악과 대화까지 같이 만든다.",
+      "foot": "밀어서 보기 →",
+      "video": "src/header.mp4",
+      "start": 0,
+      "dur": 4,
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "무슨 일인가",
+      "headline": "말 한마디로 장면이 바뀐다",
+      "body": "날씨를 바꾸고 카메라를 옮기고 사람이나 사물을 들인다. 수박 위로 대리석 흉상을 떨어뜨리면 그대로 으깨진다.",
+      "foot": "2026.10.27",
+      "video": "src/watermelon.mp4",
+      "start": 0,
+      "dur": 8,
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "어떻게 되는가",
+      "headline": "곁에서 Gemini가 길을 잡는다",
+      "body": "Gemini 3.8 Flash가 장면을 지켜보며 목표를 단계로 쪼갠다. 새로 들어오는 프레임을 보고 단계마다 성공했는지 확인한다.",
+      "foot": "2026.10.27",
+      "video": "src/balloon.mp4",
+      "start": 0,
+      "dur": 8,
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "짚을 대목",
+      "headline": "처음으로 소리를 직접 낸다",
+      "body": "DeepMind 실시간 월드 모델 중 오디오를 직접 만드는 건 처음이다. 바람 소리부터 인물의 대화까지 즉석에서 따라온다.",
+      "foot": "2026.10.27",
+      "video": "src/sax.mp4",
+      "start": 0,
+      "dur": 8,
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "그래서 지금",
+      "headline": "엔진 코드보다 시제품이 먼저",
+      "body": "게임 개발자 테스터들은 엔진 코드를 쓰기 전에 아이디어를 몇 초 만에 걸어 볼 수 있는 시제품으로 바꿔 본다. 아직은 프리뷰다.",
+      "foot": "2026.10.27",
+      "video": "src/dragon.mp4",
+      "start": 0,
+      "dur": 8,
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
