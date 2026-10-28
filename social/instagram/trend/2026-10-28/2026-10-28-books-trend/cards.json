@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "issue": "AI 책, 공장으로 들어가다",
+    "date": "2026.10.28",
+    "section": "BOOKS",
+    "accent": "#f5a623",
+    "note": "원문 4건 대조: 날짜를 원문 게재일로 고침(LRB 10.26→10.21, Times Now 10.25→10.23, BGNES 10.27→10.24, 메가경제 10.27→10.26)하고 시간순으로 다시 놓음. 사진은 Hart 한 장만, 나머지는 quote·stat. 수치 370권·2025년 2월, 800권·1년 미만, 9권·114권·2만 9834권·21공정·11월 1일 확인. 10-25 trend(가려내기)와 겹치지 않게 '생산 규모' 쪽으로 묶음.",
+    "sources": [
+      "London Review of Books — Write a novel in thirty days (2026.10.21)",
+      "Times Now — 370 Books In 20 Months Has Made This Author Famous For All The Wrong Reasons (2026.10.23)",
+      "BGNES — Swedish Writers' Association Accuses Publisher of Distorting Classics with AI (2026.10.24)",
+      "메가경제 — 전략집단이음, AI 자율형 '출판 다크팩토리' 실증 완료…11월 1일 상업 가동 (2026.10.26)"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 책 · 10.21~10.26",
+      "thread": [
+        {
+          "d": "10.21",
+          "t": "서점 서가",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "10.23",
+          "t": "370권",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "10.24",
+          "t": "고전 800",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "10.26",
+          "t": "다크팩토리",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        }
+      ],
+      "thread_note": "AI 책 생산이 한 작가의 다작에서 출판 공장으로 커진다",
+      "eyebrow": "흐름 · 책",
+      "headline": "AI 책,\n공장으로 들어가다",
+      "body": "따로 보면 별난 작가와 출판사 얘기다. 엿새 치 보도를 꿰면 370권, 800권, 2만 9834권으로 단위가 커진다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "quote",
+      "eyebrow": "2026.10.21",
+      "headline": "서점 서가에도\nAI 소설이 온다",
+      "body": "LRB에 글을 쓴 서점 직원은 손님에게 AI 소설을 읽겠냐 물으면 단호히 거절하거나 어깨를 으쓱한다고 전했다.",
+      "foot": "2026.10.21",
+      "_src": "https://www.lrb.co.uk/blog/2026/october/write-a-novel-in-thirty-days",
+      "_id": "books-lrb-shelf-ai-novels",
+      "quote": "수요가 분명하고\n표시가 분명하면\nAI 소설도 팔겠다",
+      "quote_by": "서점 사장 · LRB 블로그"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.23",
+      "headline": "혼자서\n20개월에 370권",
+      "body": "로맨스 작가 Coral Hart는 2025년 2월부터 AI로 370권 넘게 냈다. 여러 AI 도구를 공정처럼 나눠 쓴다.",
+      "foot": "2026.10.23",
+      "_src": "https://www.timesnownews.com/lifestyle/books/370-books-in-20-months-has-made-this-author-famous-for-all-the-wrong-reasons-article-156391358",
+      "_id": "books-coral-hart-370-ai-books",
+      "media": "pipeline/media/books-coral-hart-370-ai-books.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "stat",
+      "eyebrow": "2026.10.24",
+      "headline": "출판사는 1년 안에\n고전 800권",
+      "body": "스웨덴 출판사 Bokum이 AI로 고전을 번역·현대화했다. 작가협회는 고전 보호 규정을 어겼는지 살핀다.",
+      "foot": "2026.10.24",
+      "_src": "https://www.bgnes.com/society/swedish-writers-association-accuses-publisher-of-distorting-classics-with-ai",
+      "_id": "books-sweden-ai-classics",
+      "stat_top": "Oliver Twist부터 변신까지",
+      "stat_arrow": "1년이 안 돼 AI로 번역·현대화",
+      "stat_bottom": "고전 800권+",
+      "stat_strike": false
+    },
+    {
+      "n": 5,
+      "kind": "stat",
+      "eyebrow": "2026.10.26",
+      "headline": "이제는\n공장이 책을 찍는다",
+      "body": "전략집단이음의 AI 출판 다크팩토리가 11월 1일 가동한다. 기획·집필부터 ISBN 발급·납본·유통까지 21개 공정을 맡는다.",
+      "foot": "2026.10.26",
+      "_src": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065578229975864",
+      "_id": "books-dark-factory",
+      "stat_top": "35년간 직접 쓴 책 9권",
+      "stat_arrow": "AI 도입 뒤 1년간 114권, 장기 목표는",
+      "stat_bottom": "2만 9834권",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
